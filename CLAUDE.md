@@ -13,8 +13,10 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 201**, which closes **Sūkta 5** of Maṇḍala 1 (ten Riks) and the tenth varga of the first
-Adhyāya. **Next task: begin Sūkta 6 ("yuñjanti bradhnam aruṣam") at printed page 202** (PDF page 217). The
+Through **printed page 257**, which closes **Sūkta 6** of Maṇḍala 1 (ten Riks). The closing note on p. 257
+reads "eighth varga" while the p. 201 note was read "tenth" — an unreconciled varga-number discrepancy (see the
+progress note). **Next task: begin Sūkta 7 ("indram id gāthino bṛhat") at printed page 257** (PDF page 272), from its
+heading, which falls in the lower half of that page. The
 tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
@@ -83,7 +85,7 @@ contents — before the Sanskrit commentary itself begins).
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
 
-## Conventions added during Volume 2 (pp. 31–201)
+## Conventions added during Volume 2 (pp. 31–257)
 
 - **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
   and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
