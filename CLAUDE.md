@@ -13,11 +13,11 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 30** of the source. Just finished the full apparatus for Rik 3.3
-(closing the three-verse Ashvin group) and opened Rik 3.4, the first verse of the sukta's
-Indra group (mantras 4–6). **Next task: Sayana's commentary on Rik 3.4, starting printed
-page 31.** The tail of the output file has the exact stopping point and a running progress
-note — read the last ~80 lines before starting any new batch.
+Through **printed page 51** of the source (mid-sentence, in the Vyākaraṇa-prakriyā for Rik 3.7).
+Riks 3.4, 3.5 and 3.6 are complete, and Rik 3.7 (first of the three-verse Vaiśvadeva tṛca)
+is under way. **Next task: continue from printed page 52** (PDF page 67). The tail of the
+output file has the exact stopping point, a running progress note and the open flags — read
+the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
@@ -84,3 +84,25 @@ contents — before the Sanskrit commentary itself begins).
 
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
+
+## Conventions added during Volume 2 (pp. 31–51)
+
+- **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
+  and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
+  word from memory — bracket it with [?]. A clearer later printing of the same phrase may be
+  used to correct an earlier reading (say so in the text).
+- **Kannada-script numerals** (references, counts, sūtra numbers) are the least reliable part
+  of the scan. Zoom (`pdftoppm -r 240+ -x -y -W -H`) before trusting them, and mark any digit
+  not certain with [?]. Sūtra numbers that match a known Pāṇini/Phiṭ/Uṇādi rule are worth a
+  quick standard-reference check; say when you have done so.
+- **Page headers:** even pages carry "Maṇḍala 1, Anuvāka 1, Sūkta N" on the right; odd pages
+  carry "Aṣṭaka 1, Adhyāya 1, Varga N" on the left. (Varga 5 ended at p. 46; Varga 6 began p. 47.)
+- **Accent-marks** on the Saṃhitā/Pada texts are *not* reproduced from Rik 3.5 onward (the
+  Kannada notation could not be converted reliably); Riks 3.1–3.4 do carry them. Keep the
+  inconsistency noted rather than guessing.
+- **The source prints its own English translation of each Rik** (and English quotations of
+  Western scholars). Reproduce it as printed, including misprints, marked [sic].
+- **Grammar pages** (Vyākaraṇa-prakriyā): characterize rather than transcribe line by line, say
+  so explicitly, and keep every cited sūtra in all three layers.
+- Glosses I add to Ṛg-vedic citations that the source leaves untranslated must be labelled as
+  mine and tentative where the text is uncertain.
