@@ -3114,6 +3114,3 @@ The English quotation from **Macdonell** printed in the source explains this: "*
 6. *Older text not touched:* p. 29 has a stray Cyrillic string ("ародит") in the Taittirīya citation; the three older progress notes (around lines 170, 385 and 501) remain.
 7. *Source misprints kept as printed:* "Creater" (p. 89), "bey or towny"-type words, "serpants" (p. 62), "peoples's" (p. 84).
 
----
-
-**Progress: Through printed page 135 (in progress).**
