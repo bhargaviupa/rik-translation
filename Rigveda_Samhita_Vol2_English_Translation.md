@@ -3554,9 +3554,6 @@ The three sūktas **"surūpakṛtnum," "ā tvetā"** and **"yuñjanti bradhnam"*
 
 And so on. Here, in place of "dvādaśāha," "trayodaśāha" and the like, it is the custom to say "dvādaśarātri," "trayodaśarātri." In stating the application of a sūkta or mantra, the Bhāṣyakāra names the special sacrifices such as the Abhiplava-ṣaḍaha, Pṛṣṭhya-ṣaḍaha, Atirātra and Mahāvrata, and uses technical terms such as stoma, viṣṭuti and paryāya; for the reader's orientation these have been explained, up to here, briefly. Because of the fear of too great length it is not possible to explain them at greater length here. All the matters concerned with sacrifices and the like will be described at length in the Yajurveda-anuvāda, where they can be looked up. Now we begin the **word-by-word Anuvāda of the fifth sūkta**.
 
----
-
-**Progress: through printed page 151 (in progress) — Sūkta 5, introduction complete.** *(Interim note, to be replaced.)*
 
 ### Page 152 — Sūkta 5: heading; Rik 5.1: Saṃhitā, Pada, Sāyaṇa-bhāṣya (opening)
 
@@ -4185,9 +4182,6 @@ That is: Indra, in order to obtain superiority among the gods, offered, with the
 
 **"Sutasya"** — "ṣuñ abhiṣave" (to press out); **निष्ठा** (पा. ३-२-१०२) the affix "kta" after a root in the past sense; "k" is an "it"; **धात्वादेः षः सः** (पा. ६-१-६४) → "suta"; the sixth-case singular "ṅas," with **टाङसिङसामिनात्स्याः** (पा. ७-१-१२) — "ṭā, ṅasi, ṅas" are replaced by "ina, āt, sya" after a stem ending in "a" — "ṅas" → "sya": "sutasya"; "suta" is end-acute by the "kta"-affix's accent; the ending "sya," being unaccented (**अनुदात्तौ सुप्पितौ**, पा. ३-१-४), … *(the page ends here; continued on the next page)*.
 
----
-
-**Progress: through printed page 179 (in progress) — Sūkta 5, Rik 5.6.** *(Interim note, to be replaced.)*
 
 ### Pages 180–181 — Vyākaraṇa-prakriyā for Rik 5.6 (continued) — characterized
 
