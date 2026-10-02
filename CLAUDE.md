@@ -13,9 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 85**, which closes **Sūkta 3** of Maṇḍala 1 (twelve Riks). **Next task:
-begin Sūkta 4 ("su-rūpa-kṛtnum") at printed page 86** (PDF page 101). The tail of the output file
-has the progress note and the open flags — read the last ~40 lines before starting any new batch.
+Through **printed page 135**, which closes **Sūkta 4** of Maṇḍala 1 (ten Riks). **Next task:
+begin Sūkta 5 ("ā tvetā ni ṣīdata") at printed page 136** (PDF page 151). The tail of the output
+file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
@@ -83,7 +83,7 @@ contents — before the Sanskrit commentary itself begins).
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
 
-## Conventions added during Volume 2 (pp. 31–85)
+## Conventions added during Volume 2 (pp. 31–135)
 
 - **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
   and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
@@ -104,3 +104,8 @@ this repo — read it if any of these come up.
   so explicitly, and keep every cited sūtra in all three layers.
 - Glosses I add to Ṛg-vedic citations that the source leaves untranslated must be labelled as
   mine and tentative where the text is uncertain.
+- **Large grammar pages** (pp. 98–99, 106–107, 119–120, 133–135 and similar) are scholastic argument over
+  accent and sandhi, not sense: characterize them in outline, keep every named sūtra in three layers,
+  and say plainly which stretches of the print were too crowded to reproduce.
+- **Page headers** keep the pattern above; their small Kannada numerals (varga numbers especially) are
+  unreliable — record what is read with [?] and do not "fix" a mismatch silently.
