@@ -13,21 +13,10 @@ earlier sections.
 
 ## Current position
 
-Two separate stretches of the source are done; the file is therefore **not contiguous**.
-
-- **Printed pages 1–30** (Sūkta 3, through the Saṃhitā/Pada text of Rik 3.4) — done. **Next task for
-  this stretch: Sayana's commentary on Rik 3.4, starting printed page 31.**
-- **Printed pages 257–301** — **Sūkta 7 complete** (all ten riks), done at the translator's direction
-  out of order. Sūkta 8 opens on printed page 302.
-- **Printed pages 31–256 are untranslated** (rest of Sūkta 3 through the end of Sūkta 6). Keep appending
-  in order when filling this in; a source-gap banner in the .md file marks the jump after page 30.
-
-The tail of the output file has the exact stopping point and a running progress note — read the last
-~80 lines before starting any new batch.
-
-**Script note:** from at least p. 257 the Sanskrit in the source is set in **Kannada script** (transcribe
-to Devanagari + IAST as usual). The p. 257–301 batch did not reproduce Vedic accent marks; pages 1–30 did.
-Decide on one policy before continuing.
+Through **printed page 301**, which closes **Sūkta 7** of Maṇḍala 1 (ten Riks); the file is contiguous from
+p. 1. **Next task: begin Sūkta 8 ("indre sānasiṃ rayim") at printed page 302** (PDF page 317), from its
+heading. The tail of the output file has the progress note and the open flags — read the last ~40 lines
+before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
@@ -60,7 +49,7 @@ contents — before the Sanskrit commentary itself begins).
    compressed commentary; never fabricate. Formatting confidence (bold, clean citation
    layout) must never exceed actual reading confidence — if genuinely unsure, hedge visibly
    rather than presenting a guess as a reading.
-5. **Dense Vyakarana-prakriya (grammar) sections** may be characterized/summarized rather than
+5. **Dense Vyakarana-prakriya (grammar) sections** (see "Cost-saving rules" below for the short-note form) may be characterized/summarized rather than
    transcribed line-by-line when they are pure technical derivation with no bearing on the
    established sense already given in the Bhashya/Pratipadartha — say so explicitly when doing
    this, rather than silently thinning the content.
@@ -82,6 +71,15 @@ contents — before the Sanskrit commentary itself begins).
    time, consistent with how Volume 2 has been paced so far — but accuracy always wins over
    speed; never skim the source image to go faster.
 
+## Cost-saving rules (added after Sūkta 6; they override the slower habits above)
+
+- **One session per sūkta.** Start a fresh session at each sūkta boundary; this file and the tail of the output file carry the position.
+- **View each page once, then write immediately.** Never view a page in one turn and write it in a later one; never re-view a page already written.
+- **Render at 150 dpi and zoom only where needed:** Rik texts (Saṃhitā/Pada), the Sāyaṇa-bhāṣya, and numeral tables/citations. Do **not** zoom grammar pages.
+- **Grammar pages (Vyākaraṇa-prakriyā) get a short note, not an outline:** 2–4 lines naming the words treated and the sūtras cited (sūtras in three layers only where legible at 150 dpi; otherwise leave the number as [?]). Say explicitly "grammar page, noted briefly." Do not chase uncertain numerals on these pages. The Rik text, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics keep full treatment.
+- **Batch writes:** append a whole Rik (or a whole 4–6 page run) in one call, not page by page.
+- **Use a cheaper model for transcription if the user selects one;** any pass needing judgement on a doubtful reading should be flagged [?] rather than resolved by memory.
+
 ## Open items carried from Volume 1 (not yet resolved, revisit if relevant)
 
 - Only one source diagram was ever extracted as an actual image (a lineage chart, Vol. 1
@@ -94,3 +92,36 @@ contents — before the Sanskrit commentary itself begins).
 
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
+
+## Conventions added during Volume 2 (pp. 31–257)
+
+- **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
+  and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
+  word from memory — bracket it with [?]. A clearer later printing of the same phrase may be
+  used to correct an earlier reading (say so in the text).
+- **Kannada-script numerals** (references, counts, sūtra numbers) are the least reliable part
+  of the scan. Zoom (`pdftoppm -r 240+ -x -y -W -H`) before trusting them, and mark any digit
+  not certain with [?]. Sūtra numbers that match a known Pāṇini/Phiṭ/Uṇādi rule are worth a
+  quick standard-reference check; say when you have done so.
+- **Page headers:** even pages carry "Maṇḍala 1, Anuvāka 1, Sūkta N" on the right; odd pages
+  carry "Aṣṭaka 1, Adhyāya 1, Varga N" on the left. (Varga 5 ended at p. 46; Varga 6 began p. 47.)
+- **Accent-marks** on the Saṃhitā/Pada texts are *not* reproduced from Rik 3.5 onward (the
+  Kannada notation could not be converted reliably); Riks 3.1–3.4 do carry them. Keep the
+  inconsistency noted rather than guessing.
+- **The source prints its own English translation of each Rik** (and English quotations of
+  Western scholars). Reproduce it as printed, including misprints, marked [sic].
+- **Grammar pages** (Vyākaraṇa-prakriyā): characterize rather than transcribe line by line, say
+  so explicitly, and keep every cited sūtra in all three layers.
+- Glosses I add to Ṛg-vedic citations that the source leaves untranslated must be labelled as
+  mine and tentative where the text is uncertain.
+- **Large grammar pages** (pp. 98–99, 106–107, 119–120, 133–135 and similar) are scholastic argument over
+  accent and sandhi, not sense: characterize them in outline, keep every named sūtra in three layers,
+  and say plainly which stretches of the print were too crowded to reproduce.
+- **Page headers** keep the pattern above; their small Kannada numerals (varga numbers especially) are
+  unreliable — record what is read with [?] and do not "fix" a mismatch silently.
+- **Numeric tables** (e.g. the viṣṭuti/paryāya tables, pp. 144–148): read from enlarged slices, add up each row against the
+  stated total, record any row that does not add up rather than adjusting it.
+- **Closing notes** at the end of a sūkta ("illige … sūktavu samāptavu … vargavu mugidudu") are printed large and are
+  more reliable than the small-numeral page headers for varga numbering; prefer them.
+- **A helper script** that appends a section and a trailing "progress" stub must remove the previous stub first; check
+  that the file ends in exactly one full progress note before committing.
