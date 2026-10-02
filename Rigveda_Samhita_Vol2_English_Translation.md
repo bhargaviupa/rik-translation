@@ -891,10 +891,6 @@ In "pūtāsaḥ," by "ājjaser asuk" (Pā. Sū. 7-1-50), the "jas" ending that c
 
 *(Reading note: in the Pada text the print shows "viprajūtaḥ" with a faint mark between "vipra" and "jūtaḥ" — probably the avagraha-division of the compound ("vipra-jūtaḥ") — and "sutāvataḥ" with a similar faint division; I give the words undivided, as I cannot make out the dividing signs. The Pada text of the printed page also reads "dhiyā iṣitaḥ" for the Saṃhitā's "dhiyeṣito.")*
 
----
-
-**Progress: see the note at the end of the file (in progress through printed page 38).**
-
 ### Page 39 — Sūkta 3, Fifth Mantra: Sāyaṇa-bhāṣya, Pada-meanings, Bhāvārtha, English rendering
 
 *(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 5 · Ṛgveda-saṃhitā." The Sanskrit is printed in Kannada script; it is rendered letter by letter into Devanagari/IAST. [?] marks places where the print is garbled or the reading uncertain.)*
