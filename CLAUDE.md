@@ -13,10 +13,10 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 341**, which closes **Sūkta 8** of Maṇḍala 1 (ten Riks); the file is contiguous from
-p. 1. **Next task: begin Sūkta 9 ("indrehi matsy andhasaḥ") at printed page 342** (PDF page 357), from its
-heading. The tail of the output file has the progress note and the open flags — read the last ~40 lines
-before starting any new batch.
+Through **printed page 380**, which closes **Sūkta 9** of Maṇḍala 1 (ten Riks); the file is contiguous from
+p. 1. **Next task: begin Sūkta 10 ("gāyanti tvā gāyatriṇaḥ") at printed page 380, lower half** (PDF page 395) —
+its application note starts there; the heading and Rik 1 are on p. 381. The tail of the output file has the
+progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
