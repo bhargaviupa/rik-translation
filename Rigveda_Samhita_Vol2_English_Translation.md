@@ -2117,6 +2117,3 @@ This mantra is used in the sacrifice called **Sautrāmaṇī**, for praising Sar
 6. *Older text not touched:* p. 29 has a stray Cyrillic string ("ародит") in the Taittirīya citation — worth a cleanup pass.
 7. *Source misprints kept as printed:* "serpants" (p. 62), "peoples's" (p. 84), "Gloss" for a scholar's name (p. 56), "tne" (p. 50).
 
----
-
-**Progress: Through printed page 85 (in progress).**
