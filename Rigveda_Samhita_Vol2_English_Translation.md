@@ -1275,14 +1275,848 @@ Among Western scholars, **Langlois, Kaegi** and **Hopkins** hold that "Viśvedev
 
 "Avanti iti omāsaḥ" — because they protect, the gods are called "omāsaḥ." By the Uṇādi-sūtra "**अवि सिवि सि शुषिभ्यः कित्**" (*avi sivi si śuṣibhyaḥ kit*, उ. सू. १-१४१ [?]), after the roots "av" (to protect, etc.), "sivu" [print: "pivu"] (to sew, to weave together), "ṣiñ" (to bind) and "śuṣ" (to dry up) — roots which the print lists as "pivu tantu saṃtāne," "ṣiñ bandhane," "śuṣa śoṣaṇe" — the affix "man" comes, and it is "k"-marked (kit); so after the root "av," the affix "man"… *(continues on the next page)*
 
+### Pages 52–54 — Vyākaraṇa-prakriyā for Rik 3.7 (Kannada), concluded; Saṃhitā and Pada text of Rik 3.8
+
+*(Source pages 52 (even: "Maṇḍala 1, Anuvāka 1, Sūkta 3"), 53 (odd: "Aṣṭaka 1, Adhyāya 1, Varga 6") and 54 (even). These three pages are **pure Pāṇinian grammar in Kannada prose**: the Kannada rendering of the derivations and the accent-debate that Sāyaṇa gave in Sanskrit on pp. 47–48. Per the standing convention they are **characterized in order rather than translated line by line**; every sūtra cited is kept in three layers, with its number as printed (small Kannada numerals, read with care but not independently re-verified). Nothing in them alters the sense of the Rik given on p. 48.)*
+
+**p. 52 — "omāsaḥ," "carṣaṇīdhṛtaḥ," and the first stage of the accent-debate.**
+- **"Omāsaḥ"** (from "av," to protect): the affix "man" comes, and though "man" is "k"-marked (which would bar guṇa), guṇa and "ūṭ" apply — by **ज्वरत्वरस्रिव्यविमवामुपधायाश्च** (*jvara-tvara-srivyavi-mavām upadhāyāś ca*, पा. ६-४-२०) the penultimate of the roots "jvar," "tvar," "sriv," "av," "mav" is replaced by "ūṭ" (also "kvi," "jhal" affixes), and the guṇa follows by **सार्वधातुकार्धधातुकयोः** (*sārvadhātukārdhadhātukayoḥ*, पा. ७-३-८४, as I read the number). Then **आज्जसेरसुक्** (*āj-jaser asuk*, पा. ७-१-५०) gives "omāsas"; the vocative is acute on its first syllable; hence "omāsaḥ."
+- **"Carṣaṇayaḥ"** = human beings; the gods "support them (by giving rain and the like)," hence "carṣaṇīdhṛtaḥ."
+- **The accent-debate (Kannada rendering of Sanskrit pp. 47–48).** "Omāsaḥ" is an earlier vocative, a general term; by **विभाषितं विशेषवचने बहुवचनम्** (*vibhāṣitaṃ viśeṣa-vacane bahuvacanam*, पा. ८-१-७४) it optionally escapes being treated as non-existent. If it is *not* treated as non-existent, "omāsaḥ" is not accented as a pāda-initial and takes the eighth-chapter vocative-grave (aṣṭamika anudātta); the discussion then compares **सुबामन्त्रिते पराङ्गवत्स्वरे** (*subāmantrite parāṅgavat svare*, पा. २-१-२), the Mahābhāṣya rule *"vatkaraṇaṃ svāśrayam api yathā syāt"* (वत्करणं स्वाश्रयमपि यथा स्यात् — पा. म. ८-१-७२ [as printed]), **अनुदात्तं पदमेकवर्जम्** (*anudāttaṃ padam ekavarjam*, पा. ६-१-१५८) and the parallel example "dravatpāṇī śubhaspatī" (द्रवत्पाणी शुभस्पती), exactly as in the Sanskrit on p. 47. Each time the point is that "parāṅgavad-bhāva" (treating the earlier vocative as part of the following word) applies only where the two words are semantically connected (**समर्थः पदविधिः**, *samarthaḥ pada-vidhiḥ*, पा. २-१-१).
+- The page ends in the middle of the argument over "viśve" and "devāsaḥ" ("…in the case of apposition, how would the second pāda-initial 'ṛtāvṛdhau' (in the "mitrāvaruṇau ṛtāvṛdhau" kind of example) get the acute…").
+
+**p. 53 — the argument concluded; "devāsaḥ," "ā gata," "dāśvāṃsaḥ."**
+- If there is no apposition (sāmānādhikaraṇya), the prohibition in **नामन्त्रिते समानाधिकरणे सामान्यवचनम्** (*nāmantrite samānādhikaraṇe sāmānya-vacanam*, पा. ८-१-७३) does not apply, so by **आमन्त्रितं पूर्वमविद्यमानवत्** (*āmantritaṃ pūrvam avidyamānavat*, पा. ८-१-७२) the earlier vocative is treated as non-existent, and "subāmantrite parāṅgavat svare" does not apply; hence "viśve" keeps its pāda-initial accent and is acute, with no aṣṭamika-anudātta. **"Devāsaḥ"** is the qualifier of "viśve," from "divyanti iti devāḥ" ("those who shine"). The earlier objection — that, by the Paribhāṣā "avayava-śakteḥ samudāya-śaktir balīyasī" (परि. ९८), the conventional sense of "deva" should override the etymological one — is answered by saying that if the conventional sense were taken, "deva" would be a general term, and "viśve" could not be given its distinct-class sense; the paribhāṣā rests, the print says, on a maxim about the "delayed understanding" (viḷambita-dhī) that the etymological sense would cause [the maxim's wording is unclear in the print, so I do not quote it]. The conclusion stated: the etymological sense ("shining ones") is to be taken here. "Devāsaḥ" gets its "-asaḥ" by **आज्जसेरसुक्** (*āj-jaser asuk*, पा. ७-१-५०).
+- **"Ā gata"** (= "āgacchata"): from "ā" + "gam"; the imperative second-person-plural ending "tha" is replaced by "ta" by **तस्थस्थमिपां तां तं तामः** (*tasthasthamipāṃ tāṃtaṃtāmaḥ*, पा. ३-४-१०१) — in the print's wording; "śap" by **कर्तरि शप्** (*kartari śap*, पा. ३-१-६८) is elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*, पा. २-४-७३); the "m" of "gam" is dropped by **अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति** (*anudāttopadeśa-vanati-tanotyādīnām anunāsika-lopo jhali kṅiti*, पा. ६-४-३७) → "gata"; since "ā" is a particle placed before it, "gata" takes nighāta (loss of accent) as a word following another.
+- **"Dāśvāṃsaḥ"**: root "dāś" (to give); the participle-affix "kvasu"; by **आर्धधातुकस्येड्वलादेः** (*ārdhadhātukasyeḍ valādeḥ*, पा. ७-२-३५) the "iṭ" would come to the "vasu" (a "val"-initial affix), but the "kṛ-sṛ-bhṛ-vṛ-stu-dru-śru" group-rule **कृसृभृवृस्तुद्रुश्रुवो लिटि** (*kṛ-sṛ-bhṛ-vṛ-stu-dru-śru-vo liṭi*, पा. ७-२-१३) restricts "iṭ" in the "liṭ" to those roots, and "dāś" is not among them… *(continues p. 54)*
+
+**p. 54 — "dāśvāṃsaḥ" concluded; "dāśuṣe."** *(continuing)* …so "iṭ" does not occur; but since Pāṇini's own **दाश्वान्साह्वान्मीढ्वांश्च** (*dāśvān sāhvān mīḍhvāṃś ca*, पा. ६-१-१२) *states* these forms irregularly (nipātana), "iṭ" does not arise; and from the same statement the doubling prescribed by **लिटि धातोरनभ्यासस्य** (*liṭi dhātor anabhyāsasya*, पा. ६-१-८) is also not made (the sūtra is "irregular" with "dāś" described as a root with two syllables…). By the affix-accent "kvasu" is acute. Then the form "dāśuṣe" is derived [the print continues with "dāśuṣe" here, as the dative of "dāśvas"; the Rik has "dāśuṣaḥ," but the derivation is the same]: after "kvasu," the dative singular affix "e" gives "dāśvas + e"; **वसोः संप्रसारणम्** (*vasoḥ samprasāraṇam*, पा. ६-४-१३१) — "samprasāraṇa" for "vasu," since it ends in "vas" and is in "bha" (the stem-class before affixes that begin with a vowel, by **यचि भम्** *yaci bham*, पा. १-४-१८): the vowels "i, u, ṛ, ḷ" replacing "y, v, r, l" are named "samprasāraṇa" (**इग्यणः संप्रसारणम्**, *ig-yaṇaḥ samprasāraṇam*, पा. १-१-४५); then **संप्रसारणाच्च** (*samprasāraṇāc ca*, पा. ६-१-१०८) gives the single former form ("pūrvarūpa"): "dāś + us + e"; and **आदेशप्रत्यययोः** (*ādeśa-pratyayayoḥ*, पा. ८-३-५९) turns the "s" into "ṣ": "dāśuṣe." ॥७॥
+
 ---
 
-**Progress: Through printed page 51 (mid-sentence) — a batch covering pages 31–51 (21 pages), all read against the rendered page images (PDF pages 46–66).** This batch covered the whole of Sayana's commentary and the Kannada apparatus for **Rik 3.4** ("indrā yāhi citrabhāno…", pp. 31–38), **Rik 3.5** ("indrā yāhi dhiyeṣito…", pp. 38–42), **Rik 3.6** ("indrā yāhi tūtujāna…", pp. 42–46, closing the Fifth Varga), and the first part of **Rik 3.7** ("omāsaś carṣaṇīdhṛto…", the first of the three-verse Vaiśvadeva tṛca; Saṃhitā/Pada text p. 46, Bhāṣya pp. 47–48, Kannada special topics pp. 48–51). The Viśvedevas discussion (Yāska, Śākapūṇi, Durgācārya, Śaunaka, Sāyaṇa, Western scholars) is complete through p. 51.
-**Stopping point:** printed p. 51 ends mid-sentence in the **Vyākaraṇa-prakriyā for Rik 3.7** ("…after the root 'av' the affix 'man' comes, and it is k-marked…"). **Next task: continue from printed page 52** (PDF page 67): finish the grammar of Rik 3.7 ("omāsaḥ," "carṣaṇīdhṛtaḥ," …), then Rik 3.8 (second verse of the Vaiśvadeva tṛca).
+### Sūkta 3, The Eighth Mantra
+
+*(Accent-marks in the Kannada print are not reproduced; see the note at Rik 3.5.)*
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> विश्वे देवासो अप्तुरः सुतमा गन्त तूर्णयः ।
+> उस्रा इव स्वसराणि ॥८॥
+>
+> *viśve devāso apturaḥ sutam ā ganta tūrṇayaḥ |*
+> *usrā iva svasarāṇi ||8||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> विश्वे । देवासः । अप्तुरः । सुतम् । आ । गन्त । तूर्णयः ।
+> उस्रा इव । स्वसराणि ॥८॥
+
+*(Reading note: in the Pada text the print shows a small dividing sign inside "apturaḥ" (read as "ap-turaḥ") and between "usrā" and "iva"; I give the words undivided.)*
+
+### Page 55 — Sūkta 3, Eighth Mantra: Sāyaṇa-bhāṣya, Pada-meanings, Bhāvārtha
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script, rendered into Devanagari/IAST; [?] where the print is unclear. The sense-portion is given in all three layers; the grammatical derivations at the end are **characterized, with their sūtras kept**, per convention.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> विश्वे देवास एतन्नामकगणरूपा देवविशेषाः सुतं सोममा गन्त । आगच्छन्तु । कीदृशाः । अप्तुरः । तत्तत्काले वृष्टिप्रदा इत्यर्थः । तूर्णयः त्वरायुक्ताः । यजमानमनुग्रहीतुमालस्यरहिता इत्यर्थः । विश्वेषां देवानां सोमं प्रत्यागमने उस्रा इत्यादि दृष्टान्तः । उस्राः सूर्यरश्मयः स्वसराण्यहानि प्रत्यालस्यरहिता यथा समागच्छन्ति तद्वत् ।
+> *viśve devāsa etan-nāmaka-gaṇa-rūpā deva-viśeṣāḥ sutaṃ somam ā gantā | āgacchantu | kīdṛśāḥ | aptuaḥ [sic: apturaḥ] | tat-tat-kāle vṛṣṭi-pradā ity arthaḥ | tūrṇayaḥ tvarā-yuktāḥ | yajamānam anugrahītum ālasya-rahitā ity arthaḥ | viśveṣāṃ devānāṃ somaṃ pratyāgamane usrā ity ādi dṛṣṭāntaḥ | usrāḥ sūrya-raśmayaḥ svasarāṇy ahāni pratyālasya-rahitā yathā samāgacchanti tad-vat |*
+
+**Translation:** "'Viśve devāsaḥ' — the particular class of gods, in the form of a group of that name — come to the pressed Soma. Let them come ('āgacchantu'). What kind are they? 'Apturaḥ' — givers of rain at the proper times. 'Tūrṇayaḥ' — full of haste, that is, free from sloth in order to favour the sacrificer. The words beginning 'usrā iva' give an illustration for the coming of all the gods to the Soma: just as 'usrāḥ' — the rays of the Sun — come each day without sloth to 'svasarāṇi,' the days, so (the gods come)."
+
+*(Correction to my own IAST above: the Rik's word is "apturaḥ" — the stray "aptuaḥ" in the line is a slip in my transliteration, not a variant reading.)*
+
+> खेदये [?] इत्यादिषु पञ्चदशसु रश्मिनामसु उस्रा वसव इति पठितम् । वस्तोरित्यादिषु द्वादशसु अहर्नामसु स्वसराणि घ्रंसो घर्म इति पठितम् । तच्छब्दं पदं यास्केन व्याख्यातम् । स्वसराण्यहानि भवन्ति स्वयंसारीण्यपि वा स्वरादित्यो भवति स एतानि सारयति । उस्रा इव स्वसराणीत्यपि निगमो भवति । नि. ५-४ [?] । इति ॥
+> *khedaye [?] ity ādiṣu pañcadaśasu raśmi-nāmasu usrā vasava iti paṭhitam | vastor ity ādiṣu dvādaśasu ahar-nāmasu svasarāṇi ghraṃso gharma iti paṭhitam | tac-chabdaṃ padaṃ yāskena vyākhyātam | svasarāṇy ahāni bhavanti svayaṃ-sārīṇy api vā svar āditya bhavati sa etāni sārayati | usrā iva svasarāṇīty api nigamo bhavati | ni. 5-4 [?] | iti ||*
+
+**Translation:** "Among the fifteen names for 'rays,' beginning with 'khedaye' [?], 'usrāḥ' and 'vasavaḥ' are read; among the twelve names for 'day,' beginning with 'vastoḥ,' 'svasarāṇi,' 'ghraṃsaḥ' and 'gharma' are read. Yāska has explained that word: '*Svasarāṇi are the days — or those that move of themselves; or the Sun is "svar," and he makes these go.*' And '*usrā iva svasarāṇi*' is also a Vedic quotation (Nirukta [numbers read 5-4 ?])."
+
+**॥ Grammar within the Bhāṣya ॥** *(characterized)* "Devāsaḥ": formed with the "ac" affix of the "pacādi" class, which is "c"-marked, so the last syllable is acute (**पचाद्यच्**, *pacādy ac*; पा. ३-१-१३४). "Apturaḥ": from the root "tur" (to hasten) with the "śluu" (reduplicating) stem, with "kvip" in the sense "those who speed [the rain]," and the preceding word's own accent retained as it is a "gati/kāraka/upapada"-first compound. "Ā ganta": the second-person-plural form used for the third (by vyatyaya), "śap" elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*), the ending replaced by "ta" by **तस्य तप्तनप्तनथनाश्च** (*tasya tap-tanap-tanathanāś ca*, पा. ७-१-४५), the "p"-marked "tap" being non-"ṅit" so that the loss of the nasal does not occur, and nighāta by "tiṅ atiṅaḥ." "Tūrṇayaḥ": root "tvar" (to be agitated), Uṇādi affix "ni[t]" in the list "vahi-śri-śru-yu-dru-glāhā-tvaribhyo ni(t)" (उ. ४-५१ [?]); "n"-marked, so first-syllable acute. "Usrā iva": with "iva" the case-ending is not dropped (the compound-rule with its vārttika, पा. २-१-४ [?]), the preceding word keeps its natural accent (पा. ६-२-१, "bahuvrīhau prakṛtyā pūrvapadam"). "Svasarāṇi": "saratīti saraḥ sūryaḥ" — "sara" is the Sun (root "sṛ," with "ac"); "svaḥ saro yeṣām tāni svasarāṇi ahāni" — the days of which the Sun is the mover — a bahuvrīhi, with the first member "svar" acute by "bahuvrīhau prakṛtyā pūrvapadam" (पा. ६-२-१).
+
+**॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
+
+**अप्तुरः (apturaḥ)** — givers of rain (those who give rain) | **(हे) विश्वे देवासः (he viśve devāsaḥ)** — O Viśvedevas | **उस्रा इव स्वसराणि (usrā iva svasarāṇi)** — as the rays of the Sun reach (us) in the daytime | **सुतम् (sutam)** — the Soma-juice that has been prepared (for you to drink) | **तूर्णयः (tūrṇayaḥ)** — those who are speedy (swiftly, quickly) | **आ गन्त (ā ganta)** — come.
+
+**॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
+
+O Viśvedevas! You are the givers of rain — that is, you cause the rain to fall. The Soma-juice has been prepared for you. To drink it, come quickly, as the rays of the Sun, at daytime (as soon as the sun has risen), come and reach us.
+
+### Page 56 — English rendering of Rik 3.8; Special topics: "apturaḥ," "sutam," "tūrṇayaḥ"
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." English passages are as printed in the source. Reference-numbers are in small Kannada numerals; [?] where uncertain. Glosses on the verses are mine.)*
+
+**English Translation** *(printed in English in the source itself):*
+
+"May Visvedevas, givers of rain, swift in action, come to the libation (of soma juice) as the (sun's) rays (come) to the days."
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**अप्तुरः (apturaḥ)** — The Bhāṣyakāra and Skandasvāmī both explain this as "vṛṣṭi-pradāḥ" — that is, "those who give rain." Among Western scholars, for this word: **"Gloss"** [as printed; I take it to be a scholar's name rendered thus] — "Stepping over an expanse of water, commanding over water, overcoming all difficulty"; **Griffith** — "active, pushing, hardworking"; **Ludwig** — "Securer of rains, Active, quick, swift"; **Williams** — "shedder of rains"; **Rosen** — "rich in rains"; **Benfey** — "worthy, active, diligent." This word "apturaḥ" is used not only of the Viśvedevas but also of other deities — the Aśvins, Indra, Agni, Pavamāna-Soma and others:
+
+> **For the Aśvins:** ये अप्तुरो दिव्यासो न गृध्रा अभि प्रयो नासत्या वहन्ति ॥ (ऋ. सं. १-११८-४)
+> *ye apturo divyāso na gṛdhrā abhi prayo nāsatyā vahanti || (ṛ. saṃ. 1-118-4)*
+> Gloss: "Those (horses) that are rain-bringers, like heavenly vultures, carry the Nāsatyas to the offering."
+
+> **For Indra:** यज्ञेन गातुमप्तुरो विविद्रिरे धियो हिन्वाना उशिजो मनीषिणः ॥ (ऋ. सं. ३-३१-५ तथा ३-५१-२ [?])
+> *yajñena gātum apturo vividrire dhiyo hinvānā uśijo manīṣiṇaḥ || (ṛ. saṃ. 3-31-5 and 3-51-2 [?])*
+> Gloss: "By sacrifice the active, wise, eager singers found the path, stirring their thoughts."
+
+> **For Pavamāna-Soma:** इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम् ॥ (ऋ. सं. ९-६३-५; ९-६१-१३ [?]; ९-६३-२१ [?]; ९-१०८-२ [?])
+> *indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam || (ṛ. saṃ. 9-63-5; 9-61-13 [?]; 9-63-21 [?]; 9-108-2 [?])*
+> Gloss: "Strengthening Indra, the swift ones, making the whole world noble (Āryan)."
+
+> **For Agni:** अग्निं यन्तुरमप्तुरमृतस्य योगे वनुषः ॥ (ऋ. सं. ३-२१-११ [?]) इत्यादि
+> *agniṃ yanturam apturam ṛtasya yoge vanuṣaḥ || (ṛ. saṃ. 3-21-11 [?]) ity ādi*
+> Gloss: "Agni, the controller, the rain-giver, at the yoking of the Order, to the one who honours." [tentative]
+
+**सुतम् (sutam)** — "Pressed with stones, crushed, the juice squeezed out and filtered so as to be fit for drinking." Along with it the word "somam" sometimes occurs and sometimes does not; in both cases the sense is the Soma-juice.
+
+**तूर्णयः (tūrṇayaḥ)** — "Tvaramāṇāḥ" — hastening, vigilant, quick: the Bhāṣyakāra explains it as "those who come quickly, without sloth, to give the fruit of the sacrifice to the sacrificer." Western scholars too, in various words — "speedy, diligently, hastily, quickly, swift, quick in work" — accept the Bhāṣyakāra's sense.
+
+---
+
+### Page 57 — Special topics: "usrā iva," "svasarāṇi"; Vyākaraṇa-prakriyā for Rik 3.8 begins
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā.")*
+
+**उस्रा इव (usrā iva) and स्वसराणि (svasarāṇi)** — The word "usrā" is read among the fifteen words that denote rays (Nighaṇṭu [print: "2-15"?] [?]), and, in the sense "cows," among the nine words (Nighaṇṭu [print: "3-9"?] [?]); and the word "svasarāṇi" is read among the twelve words that denote "day," and also among the twenty-two names that denote "house." Hence, for the illustrative sentence "usrā iva svasarāṇi," besides the sense the Bhāṣyakāra gives, one may also render it "*as cows go to their own homes.*" Both Skandasvāmī and Veṅkaṭamādhava give both kinds of meaning. Western scholars too explain "svasarāṇi" by "day, cowshed, stall, abode, grazing" and similar words *(English as printed in the source)*. The word "svasarāṇi" is used in the Ṛks 1-34-8 [?]; 2-19-2 [?]; 2-34-5 [?]; 3-60-6 [?].
+
+**॥ Vyākaraṇa-prakriyā ॥** *(Kannada; characterized, sūtras kept)* "**Devāsaḥ**": by **नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः** (*nandi-grahi-pacādibhyo lyu-ṇiny-acaḥ*, पा. ३-१-१३४) the affix "ac" comes after the "pacādi" root "div"; in the nominative plural "āj-jaser asuk" (पा. ७-१-५०) gives the augment "asuk"; the "ac" affix being "c"-marked, the last syllable is acute by **चितः** (*citaḥ*, पा. ६-१-१६३). "**Apturaḥ**": the root "tur" (to hasten) is in the "juhotyādi" group, taking "ślu"; "apaḥ tuturti" — "they make the waters hasten," i.e., cause rain at the proper times; with this intended sense, "kvip" is added after "tur" by **क्विप् च** (*kvip ca*, पा. ३-२-७६), all of whose letters are then elided; with "jas" the form "apturaḥ" results; the accent of the second member of the kṛt-compound is retained by **गतिकारकोपपदात्कृत्** (*gati-kāraka-upapadāt kṛt*, पा. ६-२-१३९). "**Ā ganta**" (= "āgacchantu"): the second-person-plural "tha" stands for the third (vyatyaya); "tha" becomes "ta" by **तस्थस्थमिपां तान्तन्तामः** (*tasthasthamipāṃ tāntantāmaḥ*, पा. ३-४-१०१); the "śap" is elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*); "ta" becomes "tap" (**तस्य तप्तनप्तनथनाश्च**, *tasya tap-tanap-tanathanāś ca*, पा. ७-१-४५); since "tap" is "p"-marked, the "sārvadhātuka" is not "ṅit" (**सार्वधातुकमपित्**, *sārvadhātukam apit*, पा. १-२-४), so the nasal "m" of "gam" is not elided (**अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति**, पा. ६-४-३७), and by **नश्चापदान्तस्य झलि** (*naś cāpadāntasya jhali*, पा. ८-३-२४) the "n/m" not at the end of a word before a "jhal" becomes anusvāra, which by **अनुस्वारस्य ययि परसवर्णः** (*anusvārasya yayi parasavarṇaḥ*, पा. ८-४-५८) takes the nasal of the following consonant's class… *(continues on the next page)*
+
+### Page 58 — Vyākaraṇa-prakriyā for Rik 3.8 concluded; Sūkta 3, Ninth Mantra: Saṃhitā, Pada, and the opening of the Bhāṣya
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." The grammar at the top is the Kannada rendering of what Sanskrit p. 55 already gave; characterized, sūtras kept.)*
+
+**The grammar of Rik 3.8 concluded** *(continuing from p. 57)*: "…by **अनुस्वारस्य ययि परसवर्णः** (*anusvārasya yayi parasavarṇaḥ*, पा. ८-४-५८) the anusvāra takes the nasal of the class of the following letter — 'n' — giving 'ā gan-ta'; here **तिङ्ङतिङः** (*tiṅ atiṅaḥ*, पा. ८-१-२८) gives the unaccented form." **"Tūrṇayaḥ"** (from "tvar"): by the Uṇādi-sūtra **वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो णित्** (*vahi-śri-śru-yu-dru-glā-hā-tvaribhyo ṇit*, उ. सू. ४-५१ [as printed, read with low confidence]) — roots "vah" (to carry), "śriñ" (to serve), "śru" (to hear), "yu" (to mix), "dru" (to go), "glai" (to wither), "ohāk" (to go), "tvarā" (to be agitated) — the affix "ṇi" is added, and it is "nitya"; from "tvarā saṃbhrame" we get "tvar + ṇi"; by **ज्वरत्वरस्रिव्यविमवामुपधायाश्च** (*jvara-tvara-srivyavi-mavām upadhāyāś ca*, पा. ६-४-२०) "ūṭ" appears and the affix's "n" becomes "ṇ" by **रषाभ्यां नो णः समानपदे** (*raṣābhyāṃ no ṇaḥ samāna-pade*, पा. ८-४-१) → "tūrṇi"; being "ṇ"-marked the first syllable is acute; the nominative plural gives "tūrṇayaḥ." **"Usrā iva":** by "ivena saha nitya-samāso vibhakty-alopaḥ pūrva-pada-prakṛti-svaratvaṃ ca" (इवेन सह नित्यसमासो विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वं च — पा. २-१-४ वा. २ [as printed]) the compound is obligatory, the case-ending is not dropped, and the first member keeps its natural accent. **"Svasarāṇi"**: "saratīti saraḥ sūryaḥ" — "sara" is the Sun ('sṛ,' to go, with "ac" of the pacādi class); "svaḥ saro yeṣāṃ tāni svasarāṇy ahāni" — days of which the Sun is the mover; in this bahuvrīhi, by **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (*bahuvrīhau prakṛtyā pūrvapadam*, पा. ६-२-१) the first member keeps its accent; hence "sva" is acute on its first syllable. ॥८॥
+
+---
+
+### Sūkta 3, The Ninth Mantra
+
+*(Accent-marks in the Kannada print are not reproduced; see the note at Rik 3.5.)*
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> विश्वे देवासो अस्रिध एहिमायासो अद्रुहः ।
+> मेधं जुषन्त वह्नयः ॥९॥
+>
+> *viśve devāso asridha ehimāyāso adruhaḥ |*
+> *medhaṃ juṣanta vahnayaḥ ||9||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> विश्वे । देवासः । अस्रिधः । एहिमायासः । अद्रुहः ।
+> मेधम् । जुषन्त । वह्नयः ॥९॥
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(opening)*
+
+> विश्वेदेवास एतन्नामका देवविशेषा मेधं हविर्यज्ञसंबद्धं जुषन्ते । सेवन्ताम् । कीदृशाः । अस्रिधः क्षयरहिताः शोषरहिता वा एहिमायासः सर्वतो व्याप्तप्रज्ञाः । यद्वा । सौचीकमग्निमप्सु प्रविष्टमेहि मा यासीरिति यदवोचन् तदनुकरणहेतुकोऽयं विश्वेषां देवानां व्यपदेश एहिमायास इति । अद्रोहः …
+> *viśvedevāsa etan-nāmakā deva-viśeṣā medhaṃ havir-yajña-sambaddhaṃ juṣante | sevantām | kīdṛśāḥ | asridhaḥ kṣaya-rahitāḥ śoṣa-rahitā vā ehimāyāsaḥ sarvato vyāpta-prajñāḥ | yad vā | saucīkam agnim apsu praviṣṭam ehi mā yāsīr iti yad avocan tad-anukaraṇa-hetuko 'yaṃ viśveṣāṃ devānāṃ vyapadeśa ehimāyāsa iti | adroho …*
+
+**Translation:** "The Viśvedevas — a particular class of gods of that name — let them enjoy ('juṣantām' = 'sevantām') the 'medha,' the oblation connected with the sacrifice. What kind are they? 'Asridhaḥ' — free from decay, or free from drying-up; 'ehimāyāsaḥ' — those whose wisdom (prajñā) pervades everywhere. Or else: because they said, to Agni the Saucīka who had entered the waters, '*Come! do not go!*' ("ehi mā yāsīḥ" — the print on this page shows the second word ambiguously, but the Bhāṣya's own next lines, and the Kannada commentary on p. 60, give "mā"), this designation 'ehimāyāsaḥ' for the Viśvedevas arose from that imitation (of their speech). 'Adrohaḥ' …" *(continues on the next page)*
+
+### Page 59 — Rik 3.9: Sāyaṇa-bhāṣya (concluded), grammar, Pada-meanings, Bhāvārtha, English rendering
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script; [?] where the print is unclear. The grammar is characterized, sūtras kept; the sense is transcribed in full.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(continuing from p. 58, at "adrohaḥ")*
+
+> …द्रोहरहिताः । वह्नयो वोढारो धनानां प्रापयितारः ॥
+> *…droha-rahitāḥ | vahnayo voḍhāro dhanānāṃ prāpayitāraḥ ||*
+
+**Translation:** "'Adruhaḥ' — free from malice (droha). 'Vahnayaḥ' — bearers; those who bring about the attaining of riches."
+
+**Grammar of Rik 3.9 (characterized):**
+- **"Asridhaḥ"** — from "sridh," in the sense of decay (or of drying up), "kvip" in the abstract sense after the "sampadādi" class (पा. ३-३-१०८ with its vārttika [?]); a negative bahuvrīhi; setting aside the first-member's accent, **नञ्सुभ्याम्** (*nañ-subhyām*) gives acute on the last syllable of the second member.
+- **"Ehimāyāsaḥ"** — "īh" (to strive); "ā samantād īhate" — "he who strives on all sides" = "ehiḥ"; the affix "in" (उ. ४-११२ [?]) comes to roots generally, and, being "n"-marked, the first syllable is acute; "ehir māyā prajñā yeṣām" — a bahuvrīhi in which the first member keeps its accent. *Alternatively:* the word "ehi" is the imperative second-person-singular after the "ā" accented (loṇ-madhyama-ekavacana) with the unaccented ending lost by "tiṅ atiṅaḥ" nighāta, with the fusing vowel "e" acute — and then "ehi" + "mā" of "mā yāsīḥ": "those who have the two syllables 'māyā' in the phrase 'ehi mā yāsīḥ'" = "ehimāyāsaḥ"; the first member keeps its accent.
+- **"Adruhaḥ"** — "druh" (to wish to injure), "kvip" by "sampadādi" in the abstract; negative bahuvrīhi; last syllable of the second member acute by "nañ-subhyām."
+- **"Medham"** — "medhṛ" (to unite): "that which is united with, approached by the gods" = "medham," oblation; "ghañ" in the object-sense; "ñ"-marked, so first syllable acute.
+- **"Juṣanta"** — in the sense "sevantām" ("let them enjoy"), in the Veda the "luṅ, laṅ, liṭ" may stand for the imperative (**छन्दसि लुङ्लङ्लिटः**, *chandasi luṅ-laṅ-liṭaḥ*, पा. ३-४-६); since the sense is joined to the root meanings of "druh" etc., "laṅ" is chosen; by **बहुलं छन्दस्यमाङ्योगेऽपि** (*bahulaṃ chandasy amāṅ-yoge 'pi*, पा. ६-४-७५) the augment "aṭ" does not occur.
+- **"Vahnayaḥ"** — from "vah" with the Uṇādi "ṇi/ni" (**वहिश्री…**, *vahi-śri-…*); "n"-marked, so first-syllable acute. ॥९॥
+
+**॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
+
+**विश्वे देवासः (viśve devāsaḥ)** — O Viśvedevas, (you) | **अस्रिधः (asridhaḥ)** — free from decay, free from destruction | **एहिमायासः (ehimāyāsaḥ)** — those who have wisdom (knowledge) in all directions and in all matters | **अद्रुहः (adruhaḥ)** — those who are free from malice (hostility) | **वह्नयः (vahnayaḥ)** — those who bring (to those who praise you, wealth and lordship), who carry | **(such you) मेधम् (medham)** — the oblation that belongs to the sacrifice | **जुषन्त (juṣanta)** — enjoy (eat).
+
+**॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
+
+O Viśvedevas! You are free from destruction, complete in wisdom about all matters — that is, all-knowing. You are not those who harbour hostility to another. You are those who bring to the ones who praise you wealth and lordship. Such as you are, partake of the oblation connected with the sacrifice that we offer.
+
+**English Translation** *(printed in English in the source itself):*
+
+"May the Visve devas, who are immortal, Omniscient, devoid of malice and bearers (of riches), accept the Sacrificial food."
+
+### Page 60 — Special topics on Rik 3.9: "asridhaḥ," "ehimāyāsaḥ," and the legend of Agni in the waters (opening)
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3.")*
+
+**अस्रिधः (asridhaḥ)** — The Bhāṣyakāra explains this as "one free of decay, or free of drying-up" — in the source's own English, "not causing drought, or dryness." Western scholars have used the words (English as printed): "Unfailing, undecaying, undrying, undaunted, fearless, friendly, harmless," and the like.
+
+**एहिमायासः (ehimāyāsaḥ)** — This word occurs in the Ṛgveda in this Ṛk alone, nowhere else. The Bhāṣyakāra explains it as "sarvato vyāpta-prajñāḥ" ("those whose understanding pervades everywhere"). Skandasvāmī gives "ahīna-māyāḥ, anyūna-prajñānāḥ" (अहीनमायाः अन्यूनप्रज्ञानाः — "those of undiminished wisdom, of unlessened understanding"). Both of them, and also Veṅkaṭamādhava, in considering the origin of this word, or how it came to be a fixed term, quote a sentence of the **Kauṣītaki Brāhmaṇa**:
+
+> सौचीकमग्निमप्सु प्रविष्टमेहि मा यासीरिति यदवोचन् तदनुकरणहेतुकोऽयं विश्वेषां देवानां व्यपदेश एहिमायास इति ।
+> *saucīkam agnim apsu praviṣṭam ehi mā yāsīr iti yad avocan tad-anukaraṇa-hetuko 'yaṃ viśveṣāṃ devānāṃ vyapadeśa ehimāyāsa iti |*
+
+**Translation:** "Because they said to Agni Saucīka, who had entered the waters, '*Come! do not go!*' — this designation of the Viśvedevas, 'ehimāyāsaḥ,' arises from the imitation of that speech."
+
+That is: seeing the Agni named Saucīka entering the waters, the gods said "ehi mā yāsīḥ" — "come, do not go" — and the word "ehimāyāsaḥ" is thought to have become the fixed word through imitation of those words. This matter is described in detail in the **tenth Maṇḍala, sūkta 51** of the Ṛgveda (Ṛ. Saṃ. 10-51-6 [print]):
+
+> अग्नेः पूर्वे भ्रातरो अर्थमेतं रथीवाध्वानमन्वावरीवुः ।
+> तस्माद्भिया वरुण दूरमायं गौरो न क्षेप्नोरविजे ज्यायाः ॥
+> कुर्मस्त आयुरजरं यदग्ने यथा युक्तो जातवेदो न रिष्याः ।
+> अथा वहासि सुमनस्यमानो भागं देवेभ्यो हविषः सुजात ॥
+> प्रयाजान्मे अनुयाजांश्च केवलानूर्जस्वन्तं हविषो दत्त भागम् ।
+> घृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः ॥
+> तव प्रयाजा अनुयाजाश्च केवल ऊर्जस्वन्तो हविषः सन्तु भागाः ।
+> तवाग्ने यज्ञोऽयमस्तु सर्वस्तुभ्यं नमन्तां प्रदिशश्चतस्रः ॥
+> (ऋ. सं. १०-५१-६ से ९)
+>
+> *agneḥ pūrve bhrātaro artham etaṃ rathīvādhvānam anvāvarīvuḥ |*
+> *tasmād bhiyā varuṇa dūram āyaṃ gauro na kṣepnor avije jyāyāḥ ||*
+> *kurmas ta āyur ajaraṃ yad agne yathā yukto jātavedo na riṣyāḥ |*
+> *athā vahāsi sumanasyamāno bhāgaṃ devebhyo haviṣaḥ sujāta ||*
+> *prayājān me anuyājāṃś ca kevalān ūrjasvantaṃ haviṣo datta bhāgam |*
+> *ghṛtaṃ cāpāṃ puruṣaṃ cauṣadhīnām agneś ca dīrgham āyur astu devāḥ ||*
+> *tava prayājā anuyājāś ca kevala ūrjasvanto haviṣaḥ santu bhāgāḥ |*
+> *tavāgne yajño 'yam astu sarvas tubhyaṃ namantāṃ pradiśaś catasraḥ ||*
+> *(ṛ. saṃ. 10-51-6 to 9)*
+>
+> Gloss (mine; the source gives no translation of these four verses on this page): "(Agni:) 'Agni's elder brothers went this way, like a charioteer along his road; from fear of that, O Varuṇa, I have come far away, like a buffalo from the archer's shot.' (The gods:) 'We shall make your life unageing, O Agni, so that you, Jātavedas, bound to us, shall not come to harm; and then, well-disposed, you will carry the portion of the oblation to the gods, O well-born one.' (Agni:) 'Give me the fore-offerings and after-offerings, whole, and a strong portion of the oblation; and may ghee (the essence of the waters) and the "puruṣa" of the plants and Agni's long life be [mine], O gods.' (The gods:) 'Yours are the fore-offerings and after-offerings, whole; may the portions of the oblation be full of strength; yours, O Agni, be this whole sacrifice; may the four quarters bow to you.'" [tentative; for orientation only]
+
+*This sūkta is a conversation between the gods and Agni.* The main point: Agni had three elder brothers, named **Bhūpati, Bhuvanapati and Bhūtānāṃpati**, who, like Agni, used to carry the oblations to the gods in the sacrifice. When, in the sacrifice, the oblation was made with the thunderbolt-like cry "vaṣaṭ," these three brothers died. Seeing that, the youngest, Agni, frightened, went into the waters and hid. While the gods were searching for Agni, the fish in the water [told] the gods that Agni was in the water… *(continues on the next page)*
+
+### Page 61 — The legend of Agni in the waters (concluded); the Taittirīya Saṃhitā version
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." The Taittirīya text below is transcribed from the Kannada print letter by letter; I have not corrected it from outside knowledge, and a few of its spellings look irregular, which I leave as printed.)*
+
+*(Continuing from p. 60: "…the fish in the water told the gods that Agni was in the water.")* Then the gods came and addressed Agni; that very conversation is what is described in this sūkta. The gods asked Agni to come up out of the water and, as before, to carry the oblations for them; but Agni, because his brothers had died, said that the same fate awaited him too, and that therefore he would not come. The gods said, "Do not fear death; we shall so arrange it that you do not have the fear of death." Agni then said: "Very well; but besides keeping the fear of death from me, in the sacrifices the **prayāja, anuyāja, ūrjasvat, sviṣṭakṛt, ājyabhāga** and other special oblations must be given to me." The gods agreed, gave him the portions of the oblation, and appointed him again as before to the work of oblation-bearing, so that he would carry the chief role in the sacrifice, be worshipped by all, and have long life. This is the main sense of this sūkta.
+
+In the **Taittirīya Saṃhitā** of the Yajurveda the matter stands thus:
+
+> अग्नेस्त्रयो ज्यायाꣳसो भ्रातर आसन्ते देवेभ्यो हव्यं वहन्तः प्रामीयन्त सोऽग्निरबिभेदित्थं वाव स्य आर्तिमार्ष्यतीति स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छंस्तं मत्स्यः प्राब्रवीत्तमशपद्धियोधियो त्वा वध्यासुर्यो मा प्रावोचे इति तस्मान्मत्स्यं धियोधियो घ्नन्ति शप्तो हि तमन्वविन्दन्तमब्रुवन्नुप न आ वर्तस्व हव्यं नो वहेति सोऽब्रवीद्वरं वृणै यदेव गृहीतस्याहुतस्य बर्हिः परिधिस्कन्दात्तन्मे भ्रातृणां भागधेयमसदिति तस्माद्यद्गृहीतस्याहुतस्य बर्हिः परिधि स्कन्दति तेषां तद्भागधेयं तानेव तेन प्रीणाति परिधीन्परि दधाति रक्षसामपहत्यै ॥ (तै. सं. २-६-६)
+> *agnes trayo jyāyāṃso bhrātara āsante devebhyo havyaṃ vahantaḥ prāmīyanta so 'gnir abibhed itthaṃ vāva sya ārtim ārṣyatīti sa nilāyata so 'paḥ prāviśat taṃ devatāḥ praiṣam aicchaṃs taṃ matsyaḥ prābravīt tam aśapad dhiyodhiyo tvā vadhyāsur yo mā prāvoce iti tasmān matsyaṃ dhiyodhiyo ghnanti śapto hi tam anvavindan tam abruvann upa na ā vartasva havyaṃ no vaheti so 'bravīd varaṃ vṛṇai yad eva gṛhītasyāhutasya barhiḥ paridhiskandāt tan me bhrātṛṇāṃ bhāgadheyam asad iti tasmād yad gṛhītasyāhutasya barhiḥ paridhi skandati teṣāṃ tad bhāgadheyaṃ tān eva tena prīṇāti paridhīn pari dadhāti rakṣasām apahatyai || (tai. saṃ. 2-6-6)*
+>
+> Translation (mine, following the Kannada account below; where the Sanskrit is irregular I give the sense of the Kannada): "Agni had three elder brothers, who carried the oblation to the gods; they perished. Agni feared, 'this very distress will reach me,' and hid; he entered the waters. The gods sought him out; a fish told them, and he cursed it — 'may those who kill you (fish), kill you with cleverness (dhiyodhiyo)' — and therefore people kill fish by their wits, for it was cursed. The gods found him and said, 'Come back to us, carry the oblation for us.' He said, 'Let me choose a boon: whatever of the offered oblation, of the barhis, falls (outside) beyond the fire-sticks (paridhi), let that be the share of my brothers.' Therefore whatever of the offered oblation falls beyond the paridhi is their share; with that he satisfies them; he lays the paridhis around, for the driving away of the rākṣasas." (Taittirīya Saṃhitā 2-6-6, as printed)
+
+The Kannada account (translated): Formerly Agni had three elder brothers; they used to carry to the gods the oblations that the sacrificer gave in the sacrifices. When they died, Agni, fearing that the same fate might reach him too, ran off, entered the water and hid, seen by no one. While the gods were searching for where Agni had gone, a fish in the water told the gods that Agni was hiding in the water. Hearing this tale-bearing of the fish, Agni was angry and cursed it: "From now on, people shall catch the fish that are in the water, by nets and other means, and kill them." So even now people catch fish and eat them. Afterwards the gods said to Agni, "O Agni, come back and be diligent in the work of bearing the oblation for us." To this Agni said — (he asked that) the **paridhis** used in the sacrifice when oblations are made (special bundles of darbha-grass laid on the four sides around the fire, so that rākṣasas do not come and obstruct the sacrifice), that the share of the ājya and other oblations that falls *outside* (on the near side) be the oblation-share of his brothers; if this boon were granted, he would come out of the water and carry the oblation to the gods as before. The gods agreed and gave him that boon. Thus the story runs.
+
+### Page 62 — Special topics on Rik 3.9 (continued): "ehimāyāsaḥ" and "māyā"
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers in small Kannada numerals are read as best I can and all marked [?]; English in the source is reproduced as printed, misprints marked [sic].)*
+
+Therefore, according to the opinion of some, the word "**ehimāyāsaḥ**" became a fixed word through imitation of the sentence "**ehi mā yāsīḥ**" ("Do not go — come!") which the gods addressed to Agni when he was entering the water.
+
+Some hold that "ehimāyāsaḥ" is merely a variant form of the word "**ahimāyāḥ**." This word, in its different case-forms, **ahimāyān** (Ṛ. Saṃ. 1-1[?]0-4 [?]), **ahimāyāḥ** (Ṛ. Saṃ. 6-3[?]-1[?]; 10-6[?]-4 [?]) and **ahimāyasya** (Ṛ. Saṃ. 6-20-2 [?]), is used only in the four Ṛks of which these are the references. For this word Western scholars give, (English as printed):
+
+- **Roth** — "Of many shapes or agile like a serpent, tricky as a serpent."
+- **Williams** — "Having unsurpassable wisdom."
+- **Griffith** — "Having Superhuman Power."
+- **Ludwig** — "Having the wiles of serpants [sic]."
+
+— thus various senses are given. For the word "**māyā**" the following senses can be given in the Ṛgveda *(English as printed)*:
+
+1. Creative power.
+2. Miraculous power (Ṛ. Saṃ. 1-160-3 [?]; 3-12-5 [?] &c.)
+3. Power of assuming various shapes (Ṛ. Saṃ. 2-53-8 [?]; 5-62-6 [?]; 6-22-6 [?] &c.)
+4. Wiles, tactics, tricks (Ṛ. Saṃ. 1-80-2 [?]; 6-18-9 [?] &c.)
+5. Sorcery, witchcraft, magic (Ṛ. Saṃ. 2-27-16 [?]; 8-22-15 [?]; 6-42-9 [?] &c.)
+6. Illusion (Ṛ. Saṃ. 10-54-2 [?])
+
+Formerly this word may have carried the senses "wisdom, intelligence (buddhi), skill (kuśalate)." In the course of time it appears that its use in other senses became established. In the Purāṇas and the Vedānta as well, senses such as "prakṛti, divine power, creative power, supernatural power" are the established ones for "māyā." In the Ṛgveda, forms of this word — **māyā, māyayā, māyāḥ, māyābhiḥ, māyām, māyāvān, māyāvinaḥ, māyāvinam, māyinaḥ, māyinam, māyinā, māyinām, māyā** and others — are used in many Ṛks in different senses; their senses will be explained in the places concerned.
+
+### Page 63 — "adruhaḥ"; Vyākaraṇa-prakriyā for Rik 3.9 (Kannada) — characterized
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." The grammar is the Kannada rendering of Sanskrit p. 59, characterized in order, with the sūtras kept; I note where the numbers differ from the Sanskrit page.)*
+
+**अद्रुहः (adruhaḥ)** — This word is derived from the root "druh" ("druha jighāṃsāyām," to wish to injure). The sense of this word is "free from malice"; in the source's English: "not injuring, kindly disposed, without evil, without ill-will, without hostility, Guileless, not deceiving, devoid of malignity." Though different words are used to explain the sense, the chief intention is one.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+- **"Asridhaḥ"**: the root "sridh" (denoting decay, or drying); by **संपदादिभ्यः क्विप्** (*sampadādibhyaḥ kvip*, पा. ३-३-१०८, वा. ९ [?]) "kvip" in the abstract sense; the negative "nañ" compounded with "sridh" as a bahuvrīhi ("na sridh yeṣām te"); setting aside the first-member accent of **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (*bahuvrīhau prakṛtyā pūrvapadam*, पा. ६-२-१), by **नञ्सुभ्याम्** (*nañ-subhyām*, पा. ६-२-१७२) the last syllable of the second member is acute — "asridh" is end-acute.
+- **"Ehimāyāsaḥ"**: "ā" + root "īh ceṣṭāyām" (to strive): "he who strives on all sides" = "ehi"; an Uṇādi affix "in" comes to roots generally (the sūtra-number as printed here — "2-1[?]" — differs from that on p. 59, which read "4-112"; unresolved), and, being "n"-marked, the first syllable is acute; "ehir māyā prajñā yeṣām te ehimāyāsaḥ" — a bahuvrīhi with first-member accent (पा. ६-२-१). *Alternatively* — as a particle-like first member it is first-syllable acute; behind it the root "iṇ gatau" in the imperative second-person-singular "ihi" (loṇ madhyama-ekavacana), which loses its accent by **तिङ्ङतिङः** (*tiṅ atiṅaḥ*, पा. ८-१-२८); with "ā" + "ihi," the guṇa-substitution gives a single "e," which, by **एकादेश उदात्तेनोदात्तः** (*ekādeśa udāttenodāttaḥ*, पा. ८-२-५), is acute. In that analysis the word is "ehi" together with the two syllables "māyā" of the phrase "ehi mā yāsīḥ": "those who have the two letters 'māyā' with the word 'ehi'" = "ehimāyāsaḥ," a bahuvrīhi keeping its first-member accent.
+- **"Adruhaḥ"**: the root "druh jighāṃsāyām" is in the "sampadādi" group, so "kvip" comes; with "nañ" as a bahuvrīhi, by **नञ्सुभ्याम्** the second member is end-acute.
+- **"Medham"**: from the root "medhṛ saṅgame" (to unite): "medhyate saṅgamyate devaiḥ iti medham" — the oblation, because it is united with the gods; the affix "ghañ" in the object-sense; "ñ"-marked, hence first-syllable acute.
+- **"Juṣanta"**: since the sense of the root is joined with those of "druh" and the like, **छन्दसि लुङ्लङ्लिटः** (*chandasi luṅ-laṅ-liṭaḥ*, पा. ३-४-६) gives "laṅ" in the sense "sevatām" ("let them enjoy"); and by **बहुलं छन्दस्यमाङ्योगेऽपि** (*bahulaṃ chandasy amāṅ-yoge 'pi*, पा. ६-४-७५ [as printed "…-4-75"]) — the augments "aṭ" and "āṭ" come variably, even when there is no "māṅ"; in some places, even where "māṅ" is present, they come; hence here no "āṭ" augment arises. *(continues on p. 64)*
+
+### Page 64 — Rik 3.9 grammar concluded; Sūkta 3, Tenth Mantra (the Sarasvatī tṛca): Saṃhitā, Pada, and the opening of the Bhāṣya
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Accent-marks are not reproduced in the Saṃhitā/Pada text; see the note at Rik 3.5.)*
+
+*(Continuing:)* …"vahnayaḥ": here the affix "ni" comes by the Uṇādi-sūtra "vahi-śri-…" (as at p. 58); "n"-marked, so first-syllable acute. ॥९॥
+
+---
+
+### Sūkta 3, The Tenth Mantra
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती ।
+> यज्ञं वष्टु धियावसुः ॥१०॥
+>
+> *pāvakā naḥ sarasvatī vājebhir vājinīvatī |*
+> *yajñaṃ vaṣṭu dhiyāvasuḥ ||10||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> पावका । नः । सरस्वती । वाजेभिः । वाजिनीवती ।
+> यज्ञम् । वष्टु । धियावसुः ॥१०॥
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> सारस्वते तृचे या प्रथमा सान्वारम्भणीयेष्ट्या सरस्वत्याः पुरोनुवाक्या । तथा दर्शपूर्णमासारप्स्यमान इत्यस्मिन्कण्डे पावका नः सरस्वती पावीरवी कन्या चित्रायुः । आ. २-८ [?] । इति सूत्रितम् ॥
+> *sārasvate tṛce yā prathamā sānvārambhaṇīyeṣṭyā sarasvatyāḥ puronuvākyā | tathā darśa-pūrṇamāsārapsyamāna ity asmin kaṇḍe pāvakā naḥ sarasvatī pāvīravī kanyā citrāyuḥ | ā. 2-8 [?] | iti sūtritam ||*
+
+**Translation:** "In the Sārasvata tṛca (the triplet addressed to Sarasvatī), the first Ṛk is the invitatory verse (puronuvākyā) of Sarasvatī in the "sānvārambhaṇīya" sacrificial offering; and likewise, in the section beginning "darśa-pūrṇamāsārapsyamāna" (one about to begin the new- and full-moon sacrifices), the Ṛks "pāvakā naḥ sarasvatī" and "pāvīravī kanyā citrāyuḥ" are laid down in the sūtra (the source reference as printed is "ā. 2-8" [?])."
+
+> सरस्वती देवी वाजेभिर्हविर्लक्षणैरन्नैर्निमित्तभूतैः । यद्वा । यजमानेभ्यो दातव्यैरन्नैर्निमित्तभूतैः । नोऽस्मदीयं यज्ञं वष्टु । कामयताम् । कामयित्वा च निर्वहत्वित्यर्थः । तथा चारण्यककाण्डे श्रुत्यैव व्याख्यातम् । यज्ञं वष्टिवति यदाह यज्ञं वहत्विति तदाह । ऐ. आ. १-१-४ । इति । कीदृशी सरस्वती । पावका शोधयित्री वाजिनीवत्यन्नवत्क्रियावती धियावसुः कर्मप्राप्त्यधननिमित्तभूता । वाग्देवतायास्तथाविधं धननिमित्तत्वमारण्यककाण्डे श्रुत्या व्याख्यातम् । यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । ऐ. आ. १-१-४ । इति । श्येनः सोमु [?] इत्यादिषु पञ्चत्रिंशत्संख्याकेषु देवताविशेषवाचिषु पदेषु सरमा सरस्वतीति पठितम् । एतामृचं यास्क एवं व्याचष्टे । पावका नः सरस्वत्यन्नैरन्नवती यज्ञं वष्टु धियावसुः कर्मवसुः । नि. ११- …
+> *sarasvatī devī vājebhir havir-lakṣaṇair annair nimitta-bhūtaiḥ | yad vā | yajamānebhyo dātavyair annair nimitta-bhūtaiḥ | no 'smadīyaṃ yajñaṃ vaṣṭu | kāmayatām | kāmayitvā ca nirvahatv ity arthaḥ | tathā cāraṇyaka-kāṇḍe śrutyaiva vyākhyātam | yajñaṃ vaṣṭīvati yad āha yajñaṃ vahatv iti tad āha | ai. ā. 1-1-4 | iti | kīdṛśī sarasvatī | pāvakā śodhayitrī vājinīvaty annavat-kriyāvatī dhiyāvasuḥ karma-prāpty-adhana-nimitta-bhūtā | vāg-devatāyās tathāvidhaṃ dhana-nimittatvam āraṇyaka-kāṇḍe śrutyā vyākhyātam | yajñaṃ vaṣṭu dhiyāvasur iti vāg vai dhiyāvasuḥ | ai. ā. 1-1-4 | iti | śyenaḥ somu [?] ity ādiṣu pañcatriṃśat-saṃkhyākeṣu devatā-viśeṣa-vāciṣu padeṣu saramā sarasvatīti paṭhitam | etām ṛcaṃ yāska evaṃ vyācaṣṭe | pāvakā naḥ sarasvaty annair annavatī yajñaṃ vaṣṭu dhiyāvasuḥ karma-vasuḥ | ni. 11- …*
+
+**Translation:** "'Sarasvatī' — the goddess — 'vājebhiḥ': by the oblation-nature foods that are the occasion (nimitta-bhūta) — or, by the foods to be given to the sacrificers, which are the occasion — 'may she desire our sacrifice ('vaṣṭu': let her desire it); and having desired it, let her carry it through' — such is the sense. And so the Āraṇyaka section itself explains this by Śruti: '*When it says "may she desire the sacrifice" ("yajñaṃ vaṣṭu"), it says "let her carry the sacrifice."*' (Aitareya Āraṇyaka 1-1-4). What kind of Sarasvatī? 'Pāvakā' — the purifier; 'vājinīvatī' — one possessing food, possessing activity; 'dhiyāvasuḥ' — one who is the occasion for the attaining of wealth through ritual action. That the goddess of speech is, in this way, the occasion of wealth, is explained by the Śruti in the Āraṇyaka section: '*"yajñaṃ vaṣṭu dhiyāvasuḥ"* — Speech indeed is "dhiyāvasuḥ."' (Aitareya Āraṇyaka 1-1-4). Among the thirty-five words denoting particular deities, beginning with 'śyenaḥ somu [?],' 'saramā' and 'sarasvatī' are read. Yāska explains this Ṛk thus: '*"Pāvakā naḥ sarasvatī": Sarasvatī, rich in foods; "yajñaṃ vaṣṭu dhiyāvasuḥ": let her desire the sacrifice, she whose wealth is ritual action.*' (Nirukta 11-…)" *(continues on the next page)*
+
+### Page 65 — Rik 3.10: close of the Bhāṣya (Nirukta quotation), grammar, Pada-meanings, Bhāvārtha, English rendering
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script; [?] where unclear. The sense lines are in three layers; the grammar is characterized with its sūtras kept.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(concluding the Nirukta quotation begun on p. 64)*
+
+> …३६ । इति ॥
+> *…36 | iti ||*
+
+**Translation:** "(Nirukta 11-)36. — So much (of Yāska)." *(The number "36" is the continuation of the reference left open at the foot of p. 64.)*
+
+**Grammar of Rik 3.10 (characterized, with sūtras):**
+- **"Pāvakā"**: "pavanaṃ pāvaḥ śuddhiḥ; pāvaṃ kāyatīti pāvakā" — one who "sings/makes" purity ("kai gai rai śabde"); by **आतोऽनुपसर्गे कः** (*āto 'nupasarge kaḥ*, पा. ३-२-३) the affix "ka"; the accent of a kṛt-ending as second member gives an end-acute. *Alternatively*, in the sense "she purifies," with "ṇvul," the vowel "a" before the affix's "k" would normally become "i" (**इदाप्यसुपः**, *id āpy asupaḥ*, पा. ७-३-४४ [as printed "7-3-44"]), but that does not occur here, and the "aṃśa-udātta" accent is to be regarded as Vedic.
+- **"Sarasvatī"**: "saras" from "sṛ" with the "asun" affix, hence first-syllable acute; "matup" and "ṅīp," being "p"-marked, are unaccented.
+- **"Vājebhiḥ"**: "vāja" is first-syllable acute as belonging to the "vṛṣādi" class (an "ākṛti-gaṇa," an open-ended list).
+- **"Vājinīvatī"**: "vājo 'nnam asty āsām" — "those [ritual] actions which possess food" = "vājinyaḥ kriyāḥ" [reading of the print: "vājo 'nnam āstīti vājinyaḥ kriyāḥ" ?]; by **अत इनिठनौ** (*ata iniṭhanau*, पा. ५-२-११५) the affix "ini"; "she who has those actions" = "vājinīvatī"; by **छन्दसीरः** (*chandasīraḥ*) "matup" gets "va"; since "matup" and "ṅīp" are "p"-marked and unaccented, only the "ini" affix's first-syllable acute remains.
+- **"Yajñam"**: by **यजयाचयतविच्छप्रच्छरक्षो नङ्** (*yaja-yāca-yata-vicchaprachcha-rakṣo naṅ*, पा. ३-३-९०) the affix "naṅ"; end-acute by the affix.
+- **"Vaṣṭu"**: root "vaś kāntau" (to desire; "kānti" = wish); by **आदिप्रभृतिभ्यः शपः** (*ādi-prabhṛtibhyaḥ śapaḥ*) "śap" is elided (luk); nighāta.
+- **"Dhiyāvasuḥ"**: "dhiyā karmaṇā vasu yasyāḥ sakāśād bhavati sā dhiyāvasuḥ" — she from whom wealth comes by ritual action; the case-ending is acute by **सावेकाचः** (*sāv ekācaḥ*); in a bahuvrīhi, by **बहुव्रीहौ प्रकृत्या पूर्वपदम्** (*bahuvrīhau prakṛtyā pūrvapadam*), the case-accent alone remains; the retention of the instrumental ending (a-luk) is Vedic.
+
+**॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
+
+**पावका (pāvakā)** — one who purifies (people), or who cleanses | **वाजिनीवती (vājinīvatī)** — (to the people who praise) one who has food and sustenance and gives them | **धियावसुः (dhiyāvasuḥ)** — she who is the cause of wealth and the like, the fruit of sacrifice and the other rites | **सरस्वती (sarasvatī)** — the goddess Sarasvatī (the goddess of speech, or the river named Sarasvatī) | **नः (naḥ)** — our | **यज्ञम् (yajñam)** — the sacrifice | **वाजेभिः (vājebhiḥ)** — through the foods that take the form of the oblation | **वष्टु (vaṣṭu)** — let her desire (let her bring the sacrifice to completion, with all its parts).
+
+**॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
+
+The goddess Sarasvatī is the purifier of people; she gives food and the like to the people who worship her by sacrifice and the like; and she is the cause of the attainment of lordship in the form of wealth. May such a Sarasvatī, satisfied with the foods and the like, in the form of the oblation that we give, bring our sacrifice to its full completion.
+
+**English Translation** *(printed in English in the source itself):*
+
+"May Saraswati, the purifier, the bestower of food, recompenser of worships with wealth, be attracted to our rite by our offer of sacrificial food."
+
+### Page 66 — Special topics on Rik 3.10: the Sārasvata tṛca; the Anvārambhaṇīyā sacrifice
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers in small Kannada numerals read as best I can; [?] where uncertain.)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+This Ṛk, "pāvakā naḥ," together with the following two Ṛks, form the **"sārasvata-tṛcaḥ,"** that is, three Ṛks that relate to Sarasvatī. Of these three Ṛks, the first, "pāvakā naḥ," is the "**puronuvākyā**" mantra for invoking Sarasvatī in the special sacrificial offering called the **Anvārambhaṇīyeṣṭi**. In a sacrifice, when oblation is made to any god, two Ṛks are used; both must relate to that deity. With the first Ṛk — recited aloud — the deity is invoked; this Ṛk is called "puronuvākyā." With another Ṛk the oblation is made to that deity; this mantra is called "**yājyā**." Likewise, in the Anvārambhaṇīyeṣṭi both Ṛks, "puronuvākyā" and "yājyā," are used. This matter the great sage **Āśvalāyana** has stated thus in his Śrauta-sūtra (Āśv. Śrau. Sū. 2-8), in the section beginning "**darśapūrṇamāsārapsyamāna**":
+
+> पावका नः सरस्वती पावीरवी कन्या चित्रायुः । (आश्व. २-८)
+> *pāvakā naḥ sarasvatī pāvīravī kanyā citrāyuḥ | (āśv. 2-8)*
+> Gloss: "'Pāvakā naḥ sarasvatī' and 'pāvīravī kanyā citrāyuḥ'." *(The sūtra simply names the two Ṛks to be used.)*
+
+Before performing this Anvārambhaṇīyeṣṭi and the Darśapūrṇamāsa sacrifice, the sacrificer must first perform the rites called **puṇyāhavācana, nāndīśrāddha** and **udakaśānti**, tie a thread called **pratisara** on his wife's hand, and then, on the day following, after performing the daily rites such as bathing, he must make the resolution: "**yāvajjīvaṃ darśapūrṇamāsābhyāṃ yakṣye**" (यावज्जीवं दर्शपूर्णमासाभ्यां यक्ष्ये — *yāvaj-jīvaṃ darśa-pūrṇamāsābhyāṃ yakṣye* — "as long as I live I shall sacrifice with the new-moon and full-moon sacrifices"). Next he makes the resolution "**anvārambhaṇīyayā yakṣye**" (अन्वारम्भणीयया यक्ष्ये — "I shall sacrifice with the anvārambhaṇīyā") and must perform the rite called **agnyanayana** — bringing in the fire from the Gārhapatya fire by the "agni-viharaṇa." Then, in speaking of the "anvādhāna," the chief ("pradhāna") oblation is made to the principal deities **Agnāviṣṇū, Sarasvatī, Sarasvān, and Agnir-bhagī [?]** (the last name as printed; I am not sure of it). The offering-materials are: for Agnāviṣṇū, "ekādaśa-kapāla puroḍāśa" (a cake on eleven potsherds); for the deity Sarasvatī, a "caru" (cooked rice-offering); for Sarasvān, a "dvādaśa-kapāla puroḍāśa" (twelve potsherds); and for the deity "Agnir-bhagī [?]," an "aṣṭādaśa-kapāla puroḍāśa" (eighteen potsherds). The "puronuvākyā" and "yājyā" mantras used when making oblation to these deities are these:
+
+> **अग्नाविष्णू** — अग्नाविष्णू सजोषसा (पुरोनुवाक्या) · अग्नाविष्णू महि धाम (याज्या)
+> *agnāviṣṇū — agnāviṣṇū sajoṣasā (puronuvākyā) · agnāviṣṇū mahi dhāma (yājyā)*
+> **सरस्वती** — पावकानः सरस्वती (पुरोनुवाक्या) ऋ. सं. १-३-१० · पावीरवीकन्या (याज्या) ऋ. सं. ६-४९-७ [?]
+> *sarasvatī — pāvakā naḥ sarasvatī (puronuvākyā) ṛ. saṃ. 1-3-10 · pāvīravī kanyā (yājyā) ṛ. saṃ. 6-49-7 [?]*
+> **सरस्वान्** — पीपिवांसं सरस्वतः (पुरोनुवाक्या) ऋ. सं. ७-९६-६ [?] · दिव्यं सुपर्णं वायसम् (याज्या) ऋ. सं. १-१६४-५२ [?]
+> *sarasvān — pīpivāṃsaṃ sarasvataḥ (puronuvākyā) ṛ. saṃ. 7-96-6 [?] · divyaṃ suparṇaṃ vāyasam (yājyā) ṛ. saṃ. 1-164-52 [?]*
+> Gloss (mine): "Agnā-Viṣṇū: 'Agni and Viṣṇu, of one mind…' / 'Agni and Viṣṇu, the great abode…'; Sarasvatī: 'Our purifier Sarasvatī…' / 'The purifier, the maiden…'; Sarasvān: 'Sarasvān who is full of [waters]…' / 'The divine, fair-winged bird…'." [tentative; the print gives only the opening words]
+
+*(The page continues on p. 67 with the remaining oblations.)*
+
+### Page 67 — The Anvārambhaṇīyā mantras (concluded); "pāvakā" and its use for different deities
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Reference-numbers in small Kannada numerals; [?] where I am unsure of a digit. Glosses are mine and tentative.)*
+
+*(Continuing the list of puronuvākyā/yājyā mantras from p. 66:)*
+
+> **अग्निर्भगी [?]** — आसवं सवितुः (पुरोनुवाक्या) ऋ. सं. ७-१०३-६ [?] · स नो राधांस्या भर (याज्या) ऋ. सं. २-३५-११ [?]
+> *agnir-bhagī [?] — āsavaṃ savituḥ (puronuvākyā) ṛ. saṃ. 7-103-6 [?] · sa no rādhāṃsyā bhara (yājyā) ṛ. saṃ. 2-35-11 [?]*
+> Gloss: "(Of Savitṛ) the impulsion of Savitṛ…" / "Bring us, then, bounties…" [tentative; only opening words are given]
+
+That is: in this Anvārambhaṇīyeṣṭi, when the goddess Sarasvatī is invoked, the Ṛk
+
+> पावकानः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥ (ऋ. सं. १-३-१०)
+> *pāvakā naḥ sarasvatī vājebhir vājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ || (ṛ. saṃ. 1-3-10)*
+> *(= the present Rik 3.10; translated above.)*
+
+is to be used as the puronuvākyā mantra, and the Ṛk
+
+> पावीरवी कन्या चित्रायुः सरस्वती वीरपत्नी धियं धात् ।
+> ग्नाभिरच्छिद्रं शरणं सजोषा दुराधर्षं गृणते शर्म यंसत् ॥ (ऋ. सं. ६-४९-७)
+> *pāvīravī kanyā citrāyuḥ sarasvatī vīrapatnī dhiyaṃ dhāt |*
+> *gnābhir acchidraṃ śaraṇaṃ sajoṣā durādharṣaṃ gṛṇate śarma yaṃsat || (ṛ. saṃ. 6-49-7)*
+> Gloss (mine): "May Sarasvatī, the maiden, of wondrous life, the hero's consort, grant insight; may she, in concert with the goddess-wives, grant to the singer a shelter without a gap, hard to assail." [tentative]
+
+is to be used as the yājyā mantra — so it is said.
+
+**पावका (pāvakā)** — This word is derived from the root "pūñ" ("to purify, to cleanse"). The Bhāṣyakāra gives its derivation as "*pavanaṃ pāvaḥ śuddhiḥ, taṃ kāyatīti pāvakā*" (पवनं पावः शुद्धिस्तं कायतीति पावका — "'pāva' is purification; she who 'makes' that is 'pāvakā'"), i.e., one who purifies; one who cleanses, removing sins. Though the word "pāvaka" is used in many places of deities such as Agni, the Maruts and Soma, it is used especially of Agni:
+
+> **Agni** — अग्ने पावक रोचिषा मन्द्रया देव जिह्वया । (ऋ. सं. ५-२६-१)
+> *agne pāvaka rociṣā mandrayā deva jihvayā | (ṛ. saṃ. 5-26-1)*
+> Gloss: "O purifying Agni, with your light, with your joyful tongue, O god."
+>
+> स नः पावक दीदिवोऽग्ने देवाँ इहावह । (ऋ. सं. १-१२-१०)
+> *sa naḥ pāvaka dīdivo 'gne devāṁ ihāvaha | (ṛ. saṃ. 1-12-10)*
+> Gloss: "O shining purifier, bring the gods here."
+>
+> अस्या जरासो दमा मरित्रा अर्चद्धूमासो अग्नयः पावकाः ॥ (ऋ. सं. १०-९१-२ [?])
+> *asyā jarāso damā maritrā arcaddhūmāso agnayaḥ pāvakāḥ || (ṛ. saṃ. 10-91-2 [?])*
+> Gloss: "…the purifying fires, with smoke…" [tentative; the first half is not clear to me]
+>
+> **Indra** — मिहः पावकाः प्रतता अभूवन्त्स्वस्ति नः पिपृहि पारमासाम् । (ऋ. सं. ३-३१-१० [?])
+> *mihaḥ pāvakāḥ pratatā abhūvan svasti naḥ pipṛhi pāram āsām | (ṛ. saṃ. 3-31-10 [?])*
+> Gloss: "The purifying showers have spread out; carry us safely across them."
+>
+> **Uṣas** — व्यू व्रजस्य तमसो द्वारोच्छन्तीरव्रञ्छुचयः पावकाः ॥ (ऋ. सं. ४-५१-२ [?])
+> *vy ū vrajasya tamaso dvāroc chantīr avran śucayaḥ pāvakāḥ || (ṛ. saṃ. 4-51-2 [?])*
+> Gloss: "Shining, they have opened the doors of the dark pen — the bright, purifying (dawns)." [tentative]
+>
+> **Āpaḥ (the Waters)** — समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवन्तु ॥ (ऋ. सं. ७-४९-३)
+> *samudrārthā yāḥ śucayaḥ pāvakās tā āpo devīr iha mām avantu || (ṛ. saṃ. 7-49-3)*
+> Gloss: "Those pure, purifying waters that go to the sea — may those divine waters protect me here."
+>
+> **Maruts** — ऋतेन सत्यमृतसाप आयञ्छुचिजन्मानः शुचयः पावकाः । (ऋ. सं. २-३४-१३ [?])
+> *ṛtena satyam ṛtasāpa āyañ chucijanmānaḥ śucayaḥ pāvakāḥ | (ṛ. saṃ. 2-34-13 [?])*
+> Gloss: "By the Order, they came to the truth, followers of the Order, bright-born, pure, purifying." [tentative]
+
+### Page 68 — "pāvakā" (concluded); "sarasvatī" — the five senses of the word (opening)
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers: **every number in the five lists below is marked as best-effort**; the print is in small Kannada numerals and many digits are uncertain. English words are as printed in the source.)*
+
+In these and other mantras, the word "pāvaka" is used of different deities. Western scholars have explained this word with such words as *(English as printed)*: "Purifier, purifying, bright, glittering, pure, sacred, blazing, flaming." In the sense relating to Agni, both senses — "that which purifies" and "that which shines" — may be said.
+
+**सरस्वती (sarasvatī)** — Sāyaṇācārya has given a five-fold account of the sense of the word "sarasvatī" as used in the Ṛgveda mantras:
+
+1. **Nadī (a river)** — Ṛ. Saṃ. 1-142 [?]-9 [?]; 1-164 [?]-52 [?]; 2-30-8 [?].
+2. **The name of a river** — Ṛ. Saṃ. 1-3-12 [?]; 2-41-16 [?]; 3-23-4 [?]; 6-61 [?] (the 4th, 7th, 10th, 11th and 13th Ṛks of it [?]); 6-52-6 [?]; 6-61-2 [?]; 7-36-6 [?]; 7-95-1 and 2 [?]; 7-96-1 [?]; 8-21-17 and 18 [?]; 10-64-9 [?]; 10-65-13 [?].
+3. **The name of a deity** — Ṛ. Saṃ. 5-43-11 [?]; 5-46-2 [?]; 6-49-7 [?]; 5-30-12 [?]; 10-17-7 [?]; 10-90-12 [?].
+4. **An ākāśābhimāni-devatā (a deity presiding over the sky-region)** — "(one of the three goddesses Iḷā, Bhāratī and Sarasvatī)" — Ṛ. Saṃ. 1-188-8 [?].
+5. **Vāgdevī (the goddess of Speech)** — Ṛ. Saṃ. 2-1-11 [?]; 3-4-8 [?]; 3-54-13 [?]; 5-42-12 [?]; 7-39-5 [?]; 7-40-3 [?] and others [?].
+
+In the Ṛgveda there are many mantras praising the goddess Sarasvatī. But on the question "who is this goddess Sarasvatī, and what is her nature?" the author of the Nirukta (Yāska) has said nothing; he has said only: "**nadīvad devatāvac ca nigamā bhavanti**" (नदीवद्देवतावच्च निगमा भवन्ति — *nadīvad devatāvac ca nigamā bhavanti* — "there are Vedic passages (that treat her) as a river and as a deity"). That is: in some mantras that have the deity Sarasvatī as their subject she is described as a river, and in some as a deity. But it is not clear whether the river named Sarasvatī is regarded as a goddess and praised, or the goddess is regarded as a river and praised. Therefore it must be said that "Sarasvatī" points to both river and deity. In the view that Sarasvatī is a deity, the questions — who is that deity? what is her nature? what are her station and abodes? — cannot easily be answered with a fitting reply. In the view that Sarasvatī is a river, it may be said that a river of that famous name existed in ancient times (the source adds in English: "the modern Sarsuti") and that this very river is praised in the Ṛgveda. When it is said so, a doubt arises: in the sacrifices and the like performed for the sake of particular deities, would not the praise of inanimate things such as rivers be forbidden? … *(continues on the next page)*
+
+### Page 69 — Sarasvatī as river and as deity: the Mīmāṃsā question; five views of the goddess
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Reference-numbers in small Kannada numerals marked [?] where uncertain.)*
+
+*(Continuing from p. 68, at the doubt whether praise of inanimate things like rivers would be forbidden in sacrifices:)* …"That doubt can be answered. On this point the sage **Jaimini**, in his Mīmāṃsā-sūtra, raised the objection ("pūrvapakṣa") on the basis of "**acetane 'rtha-bandhanāt**" (अचेतनेऽर्थबन्धनात् — *acetane 'rtha-bandhanāt*, जै. सू. १-२-३५ [?]) — that is, that where mantras address inanimate things, the connection of sense is [impossible]. To this the Bhāṣyakāra (the Vedāntic commentator) has given the answer by citing the Vedānta-sūtra "**abhimāni-vyapadeśaḥ**" (अभिमानिव्यपदेशः — *abhimāni-vyapadeśaḥ*, वे. सू. २-१-५): that is, wherever, in Veda-mantras, inanimate things are addressed, it is to be understood that what is said is addressed to the presiding deities ("abhimāni-devatā") of those inanimate things. (See Part 1, pp. 380–381.) Hence, where a river is praised, it is to be understood that its presiding deity is praised. Concerning this goddess Sarasvatī many persons hold many different views:
+
+1. In the Purāṇas and elsewhere, "Sarasvatī" means "**vāg-adhiṣṭhātrī, śāradā, vidyā-svarūpiṇī, haṃsa-vāhinī**" (वागधिष्ठात्री शारदा विद्यास्वरूपिणी हंसवाहिनी) — a particular deity: the presiding deity of speech, famous by the name Śāradā, embodying learning, seated on a swan.
+2. Or: this goddess Sarasvatī is the Āditya (the Sun) specially qualified by a limiting condition ("upādhi"); "upādhi" here means the twilight. So some hold that the Sun, shining at twilight, is here praised in the form of Sarasvatī.
+3. The word "saras" comes from the root "sṛ" (to move, to flow): "saro 'syā asti" or "sarastejo yasyā vidyate sā sarasvatī" — she who has "saras" (radiance, fluid motion) — she who shines in the form of radiance is therefore called "Sarasvatī."
+4. Or (the source quotes Sanskrit here): 
+
+> अथवा — प्रातर्वाचां प्रवर्तिका, प्राणिनां स्वापपरित्यागेन स्फोचित [?] व्यवहारेषु प्रवृत्तौ तब्दायमानतायोः [?] प्रवृत्तेः, रात्रौ च वाचां निरोधिका रात्रौ प्राणिनां निलायनिलीनत्वेन सुस्वतया [?] शब्दविरामात् । एवं च शब्दस्य प्रवर्तिका निवर्तिका एषैव लोके सरस्वतीत्वेन व्यपदिश्यते नान्या ॥
+> *athavā — prātar vācāṃ pravartikā, prāṇināṃ svāpa-parityāgena sphocita [?] vyavahāreṣu pravṛttau tabdāyamānatāyoḥ [?] pravṛtteḥ, rātrau ca vācāṃ nirodhikā rātrau prāṇināṃ nilāya-nilīnatvena susvatayā [?] śabda-virāmāt | evaṃ ca śabdasya pravartikā nivartikā eṣaiva loke sarasvatītvena vyapadiśyate nānyā ||*
+>
+> *(Reading note: the middle of this Sanskrit sentence is garbled in the print, and the words I mark [?] are my best letter-by-letter reading, not a restoration; the opening "prātar vācāṃ pravartikā" and the close "evaṃ ca śabdasya pravartikā nivartikā eṣaiva loke sarasvatītvena vyapadiśyate nānyā" are clear.)*
+>
+> **Translation of the clear parts, with the Kannada gloss that follows it:** "Or: she is the prompter of speech in the morning … and at night the restrainer of speech … and thus, as both the prompter and the stopper of sound, she alone is in the world called Sarasvatī and no other." The Kannada explains: "In the morning the creatures, rising from sleep, set about talking and about their several affairs and activities; at night, the creatures are overcome by sleep, and so, apart from talking and making sounds, they come to rest from their activities and dealings. Therefore, because she is the cause of beginning and ending in the matter of talking or making sound, this goddess of speech is called Sarasvatī."
+
+**(5) — continued on p. 70.**
+
+### Page 70 — Sarasvatī: the fifth view (Uṣas); the three questions to be considered; Sarasvatī in Rik 3.10–12; the ṛṣis
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers marked [?] where unsure. English words as printed.)*
+
+5. As stated before, since the powers of speech and the like belong to this deity, this goddess Sarasvatī is in the form of **Uṣas** (Dawn). For this very reason, among the words that are the names of the goddess Uṣas — **sūnṛtā, sūnṛtāvatī, sūnṛtāvarī** and others — the name of this goddess Sarasvatī occurs. Here the word "sūnṛta" means words that are both pleasant and true.
+
+In just this way, in the question of the goddess Sarasvatī, **Śaunaka**, the author of the Bṛhaddevatā, and other authors have explained her in various ways.
+
+Now let us examine briefly in what senses the word "sarasvatī" has been used in the Ṛgveda. In this matter three points must be attended to: (1) the Ṛk we are now expounding, "pāvakā naḥ sarasvatī"; (2) the other Ṛks having Sarasvatī as their deity; (3) the ṛṣis who composed these Ṛks, and their lineages. We shall weigh these three matters.
+
+In the sūkta now in hand, the Ṛks **10, 11 and 12** are mantras addressed to Sarasvatī. In the Ṛks 10 and 11, Sarasvatī is probably regarded as a deity and praised; in the 12th Ṛk, as the river. The Bhāṣyakāra Sāyaṇācārya explains Sarasvatī in the Ṛks 10–11 as the goddess of speech, and in the 12th Ṛk as the presiding deity of the river called Sarasvatī. **Griffith** explains "Sarasvatī" as the goddess of speech; but where "pāvakā" is given the sense "purifying with water," and where "ārṇa" [the word in Rik 3.12, "maho arṇaḥ"] is given the sense "river," "Sarasvatī" must mean a river, or the presiding deity of a river. Some modern scholars hold that "Sarasvatī" means the river Sindhu. But since the hermitage of the sage Madhucchandas, son of Viśvāmitra, who composed this Ṛk, was on the western bank of the present river Sarasvatī at **Kurukṣetra** — as stated in the Mahābhārata (Śalya-parva, adhyāya 3[?]) — it is possible to conjecture that Madhucchandas praised this very river Sarasvatī: for when a person praises a river, it does not seem reasonable that he should leave aside the well-known river near the place where he lives and praise some other river of the same name far away.
+
+In the **second Maṇḍala**, the Ṛks that have Sarasvatī as their deity — Ṛ. Saṃ. 2-3[?]-8 [?]; 2-3[?]-8 [?]; and 2-41-16[?] to 18 [?] — were all composed by the ṛṣi **Gṛtsamada, son of Śunahotra**. This ṛṣi Gṛtsamada is understood to be the sixth in descent from the sage **Atri** (according to the book "Pravara and Gotra," No. 25 of the Mysore Government Oriental Library, as the source says); **Viśvāmitra** is the fifth in descent from Atri. In all, in eight Ṛks, this ṛṣi Gṛtsamada praises Sarasvatī… *(continues on the next page)*
+
+### Page 71 — The ṛṣis who praise Sarasvatī: Gṛtsamada (continued), Devaśravas and Devavāta, Bharadvāja
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." **All Ṛg-vedic reference-numbers on this page are best-effort readings of small Kannada numerals and are marked [?] collectively here and in the text; none should be relied on without checking the page.** English words as printed.)*
+
+*(Continuing from p. 70:)* …Gṛtsamada praises Sarasvatī. In Ṛ. Saṃ. 2-1-11 [?] and 2-3-8 [?] he praises Sarasvatī together with Iḷā and Bhāratī. In Ṛ. Saṃ. 2-3[?]-8 [?] he speaks of these three — that is, Iḷā, Sarasvatī and Bhāratī — as three goddesses. In Ṛ. Saṃ. 2-3[?]-5 [?] he praises Sarasvatī along with Indra and the Maruts. In Ṛ. Saṃ. 2-3[?]-8 [?] he speaks of Sarasvatī as an exalted deity. In the 18th Ṛk [?] of the sūkta 2-4[?] he describes Sarasvatī as a very large river and also a very large deity; and in the 15th Ṛk [?] he describes her, with the word "**ṛtāvarī**" (that is, "ṛta" = water) as a river with abundant water. Seeing this, some Western scholars say, because she is spoken of as "a very large river," that she must be the Sindhu. But that is not right; for when a poet praises a river or a deity (even a small or ordinary one) it is common to describe it as very large. In Ṛ. Saṃ. 2-3[?]-8 [?] some think the ṛṣi Gṛtsamada praises Sarasvatī as the presiding deity of both rivers and the (cloud) lightning; but to say that one ṛṣi describes one and the same deity in different senses seems without reason.
+
+The sūkta **Ṛ. Saṃ. 3-23** [?] has as ṛṣis **Devaśravas and Devavāta, the sons of Bharata**. According to the book "Gotra-Pravara" mentioned earlier, these ṛṣis are understood to be the sons of Viśvāmitra. Bharata is understood, from the same book, to be the sixth in descent from Atri, and Viśvāmitra the seventh [as the print says; compare the "fifth" for Viśvāmitra on p. 70 — the discrepancy is in the source and is recorded, not resolved]; both are descendants of Purūravas, son of Atri's [line] and the son of Budha (the source says: "of Atri's grandson [?], Purūravas") — the exact genealogical phrasing is unclear in the print. These ṛṣis in Ṛ. Saṃ. 3-23-4 [?] say:
+
+> नि त्वा दधे वर आ पृथिव्या इळायास्पदे सुदिनत्वे अह्नाम् ।
+> दृषद्वत्यां मानुषा आपयायां सरस्वत्यां रेवदग्ने दिदीहि ॥ (ऋ. सं. ३-२३-४)
+> *ni tvā dadhe vara ā pṛthivyā iḷāyās pade sudinatve ahnām |*
+> *dṛṣadvatyāṃ mānuṣā āpayāyāṃ sarasvatyāṃ revad agne didīhi || (ṛ. saṃ. 3-23-4)*
+> Gloss (mine): "I have set you down on the best place of the earth, on the footing of Iḷā, in the good days of the days; on the Dṛṣadvatī, among men, on the Āpayā, on the Sarasvatī: shine richly, O Agni."
+
+Along with the river Sarasvatī they name two other rivers: **Dṛṣadvatī** and **Āpayā**. Dṛṣadvatī is the present river called Citrāṅga (the source's English: "the modern Chitrang, Chautag, or Chitang"); Āpayā is the present river called Apagā ("the modern Apaga"). Since both rivers lie in the neighbourhood of the river Sarasvatī, it can be said with confidence that Sarasvatī is not the Sindhu. Further, the hermitage of the sage Viśvāmitra, too, was on the west bank of this river Sarasvatī (in Kurukṣetra), as modern investigations show (the source adds: "see Dey's Geographical Dic."). All that has been said so far concerns the lineages of Atri and Viśvāmitra.
+
+Now let us consider Bharadvāja and his lineage. The three Ṛks Ṛ. Saṃ. 6-49-7 [?]; 6-50-12 [?]; 6-52-6 [?] all have, as their ṛṣi, **Ṛjiśvā, the son of Bharadvāja**. In the first and third of these three Ṛks, Sarasvatī is [described as] a river… *(continues on the next page)*
+
+### Page 72 — Sarasvatī as a river in the hymns of Bharadvāja, Vasiṣṭha and Śobhari
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers marked [?] where unsure.)*
+
+…the matter is stated clearly. In the second mantra, though the name of Sarasvatī is mentioned along with the names of the deities **Rudra, Viṣṇu, Vāyu and Parjanya**, Sarasvatī may be understood as a river; for in the two [other] Ṛks the ṛṣi says that Sarasvatī is a river, and in another Ṛk the same ṛṣi praises Sarasvatī as a river — which is only natural. The hermitage of Bharadvāja was at **Prayāga** (the source's English: "Allahabad"). Therefore Ṛjiśvā, son of Bharadvāja, must have praised a river near his own hermitage. The whole of **Ṛ. Saṃ. 6-61 [?]** (14 [?] Ṛks in all) by the ṛṣi Bharadvāja concerns Sarasvatī. Some Western scholars hold that the sense of several words in this sūkta applies to the river Sindhu; but since those words apply equally to the river Sarasvatī, there is no room for doubt.
+
+The Ṛks in the **seventh Maṇḍala** — Ṛ. Saṃ. 7-9[?]-5 [?]; 7-3[?]-11 [?]; 7-3[?]-6 [?]; 7-4[?]-3 [?]; 7-6[?]-5 [?] and others [?] — are all by the ṛṣi **Vasiṣṭha**. The hermitage of Vasiṣṭha is understood to have been near **Mount Abu** (the source's English), a hill in the Āravalī mountain in Rājputānā. The first four mantras and the last two sūktas [of the group] praise Sarasvatī as a river. The words "**sindhumātā**" and "**āsamudrāt**" in these Ṛks apply especially to the river Sindhu, and so some say that it is the Sindhu that is praised in these mantras. This dispute cannot be completely set aside. Still, when speaking of one river, it is not impossible to compare another river with it, and to praise it with exaggeration.
+
+In the **eighth Maṇḍala**, the Ṛks Ṛ. Saṃ. 8-2[?]-17 and 18 [?] are by the ṛṣi **Śobhari, son of Kaṇva**. In these Ṛks this ṛṣi describes the sacrifice that a king named **Citra** performed on the bank of the river Sarasvatī and praises that king's gifts. Since Śaunaka, in his Bṛhaddevatā (6-3[?] to 6-3[?]), says that this king Citra performed a sacrifice at Kurukṣetra, the river must be the nearby Sarasvatī. And:
+
+> पूषा विष्णुर्हवनं मे सरस्वत्यवन्तु सप्त सिन्धवः ।
+> आपो वातः पर्वतासो वनस्पतिः शृणोतु पृथिवी हवम् ॥ (ऋ. सं. ८-५४-४ [?])
+> *pūṣā viṣṇur havanaṃ me sarasvaty avantu sapta sindhavaḥ |*
+> *āpo vātaḥ parvatāso vanaspatiḥ śṛṇotu pṛthivī havam || (ṛ. saṃ. 8-54-4 [?])*
+> Gloss (mine): "May Pūṣan, Viṣṇu, Sarasvatī, the seven rivers, help my invocation; the Waters, the Wind, the Mountains, the Tree-lord — may Earth hear my call."
+
+In this Ṛk, Sarasvatī is also mentioned among the deities Pūṣan, Viṣṇu, **Sarasvatī, the Seven Rivers (sapta-sindhavaḥ)**, the Waters, the Wind, the Mountains, the Lord of the Forest (Vanaspati) and Earth. Likewise in Ṛ. Saṃ. 7-9[?]-3 [?], the ṛṣi of that mantra, **Vasiṣṭha or Pavitra**, has used the word "Sarasvatī." Here Sarasvatī may be taken in either sense, as a deity or as a river. In Ṛ. Saṃ. 10-30-12 [?], it is clearly stated which river is meant by "Sarasvatī" … *(continues on the next page)*
+
+### Page 73 — Sarasvatī among the rivers (Ṛ. 10-75); the ten Āprī-sūktas (opening of the list)
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Reference-numbers marked [?] where unsure. The modern river-names in brackets are printed in English in the source. The Sanskrit mnemonic verses on this page are compressed and partly garbled in the print: I transcribe them as I read them, with [?], and give their sense in outline rather than a line-by-line translation.)*
+
+*(Continuing from p. 72, "…it is clearly stated which river is meant by 'Sarasvatī':")* In Ṛ. Saṃ. 10-64-9 [?] the ṛṣi of that mantra, **Gaya** (of the lineage of Atri), speaks of Sarasvatī in the company of the rivers **Sindhu** and **Sarayū** (the source's English: "Gogra"). And:
+
+> इमं मे गङ्गे यमुने सरस्वति शुतुद्रि स्तोमं सचता परुष्ण्या ।
+> असिक्न्या मरुद्वृधे वितस्तयार्जीकीये शृणुह्या सुषोमया ॥ (ऋ. सं. १०-७५-५)
+> *imaṃ me gaṅge yamune sarasvati śutudri stomaṃ sacatā paruṣṇyā |*
+> *asiknyā marudvṛdhe vitastayārjīkīye śṛṇuhy ā suṣomayā || (ṛ. saṃ. 10-75-5)*
+> Gloss (mine): "O Gaṅgā, Yamunā, Sarasvatī, Śutudri — attend to this my praise, together with Paruṣṇī; with Asiknī, O Marudvṛdhā, with Vitastā, O Ārjīkīyā, hear, together with Suṣomā."
+
+In this Ṛk the river Sarasvatī is named together with **Gaṅgā** (the Ganges), **Yamunā** (the Jamna), **Śutudri** (the Sutlej), **Paruṣṇī** (the Ravi), **Asiknī** (the Chinab), **Vitastā** (the Jhelam), **Marudvṛdhā** (the United Stream of the Jhelam and Chenab), **Ārjīkīyā** (the Bias) and **Suṣomā** (the Indus) — all in the source's English — and from this it is plain that the river Sarasvatī is one distinct river of her own and is not the Sindhu. The entire sūkta in which the above Ṛk occurs is about rivers: all the Ṛks of this sūkta [the number is printed "9" — read with caution] have rivers for their deities. The ṛṣi of this sūkta is **Sindhukṣit, the son of Priyamedha**.
+
+Sarasvatī is spoken of in the **Āprī-sūktas** as one of the three goddesses called "**tisro devyaḥ**." In the Ṛgveda Saṃhitā there are **ten** sūktas that are called Āprī-sūktas. In **Śaunaka's Anuvākānukramaṇī** the particulars of these sūktas are given thus:
+
+> श्लोकस्याश्य [?] यथासंख्यं सूक्तानि दश वै विदुः ।
+> न आ वहाग्न आ वहाद्य राजसेत्यग्निर्नि [?] च ।
+> समित्समित्सु शोचिषे जुषस्व विश्वतस्तथा ।
+> इमां मे अद्य [?] मन्विमा यूर्धर्षिपक्ष [?] आप्रियः ॥
+> वसिष्ठशुनकौ विना समिद्धः सर्वपक्षताः [?] ।
+> जुषस्वादित्तीययया [?] तनूनपाद्विरोधिता [?] ।
+> यजुः श्रुतौ तथाश्रुतेः समिद्धे सूक्तमध्यतः ।
+> प्रजापतेः पशोः सदा भवेयुरद्य मन्विमाः ॥
+> इतीरितं हि बह्वृचैर्यथर्षि वेति सूत्रतः ॥
+>
+> *ślokasyāśya [?] yathā-saṃkhyaṃ sūktāni daśa vai viduḥ |*
+> *na ā vahāgna ā vahādya rājasety agnir ni [?] ca |*
+> *samit-samit-su śociṣe juṣasva viśvatas tathā |*
+> *imāṃ me adya [?] manvimā yūrdharṣi-pakṣa [?] āpriyaḥ ||*
+> *vasiṣṭha-śunakau vinā samiddhaḥ sarva-pakṣatāḥ [?] |*
+> *juṣasvādittīyayayā [?] tanūnapād-virodhitā [?] |*
+> *yajuḥ śrutau tathā-śruteḥ samiddhe sūkta-madhyataḥ |*
+> *prajāpateḥ paśoḥ sadā bhaveyur adya manvimāḥ |*
+> *itīritaṃ hi bahvṛcair yathā-ṛṣi veti sūtrataḥ ||*
+>
+> *Outline of the sense (not a line-by-line translation — the verses are a compressed mnemonic, and several words are garbled in the print):* the verses state that there are ten such sūktas, "in order of number," and give them by their opening words ("na ā vaha," "ā vaha," "rājasi," "agnir nihitaḥ," and so on); they note which of them are by Vasiṣṭha and Śunaka (Śaunaka); they note how the Yajus and Śruti texts treat "samiddha" in the middle of the sūkta; and they say that, as the Ṛgvedins' sūtra puts it, the sūktas are recited "according to the ṛṣi."
+
+**The ten Āprī-sūktas, as tabulated in the source** *(columns: serial number; opening of the sūkta; Maṇḍala–sūkta; number of Ṛks; ṛṣi. Numbers as I read them; [?] where unsure. They agree with the standard list of the ten Āprī-sūktas.)*
+
+| No. | Opening of the sūkta | Maṇḍala–sūkta | Ṛks | Ṛṣi |
+|---|---|---|---|---|
+| 1 | **सुसमिद्धो न आवह** (*susamiddho na āvaha*) | 1–13 | 12 | मेधातिथिः काण्वः (*medhātithiḥ kāṇvaḥ*) |
+| 2 | **समिद्धो अग्न आवह** (*samiddho agna āvaha*) | 1–142 | 13 | दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*) |
+| 3 | **समिद्धो अद्य राजसि** (*samiddho adya rājasi*) | 1–188 | 11 | अगस्त्यो मैत्रावरुणिः (*agastyo maitrāvaruṇiḥ*) |
+| 4 | **समिद्धो अग्निर्निहितः** (*samiddho agnir nihitaḥ*) | 2–3 | 11 | गृत्समदः (*gṛtsamadaḥ*) |
+
+*(rows 5–10 continue on the next page)*
+
+### Page 74 — The Āprī-sūktas (rows 5–10); the deities of the eleven Ṛks; "tisro devyaḥ"
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3.")*
+
+| No. | Opening of the sūkta | Maṇḍala–sūkta | Ṛks | Ṛṣi |
+|---|---|---|---|---|
+| 5 | **समित्समिन्मना [?]** (*samit-samin-manā [?]*) | 3–4 | 11 | गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*) |
+| 6 | **सुसमिद्धाय शोचिषे** (*susamiddhāya śociṣe*) | 5–5 | 11 | वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*) |
+| 7 | **जुषस्वनः समिधमग्ने** (*juṣasvanaḥ samidham agne*) | 7–2 | 11 | मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇir vasiṣṭhaḥ*) |
+| 8 | **समिद्धो विश्वतस्पतिः** (*samiddho viśvataspatiḥ*) | 9–5 | 11 | काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*) |
+| 9 | **इमां मे अग्ने समिधम्** (*imāṃ me agne samidham*) | 10–70 | 11 | सुमित्रो वाध्र्यश्वः (*sumitro vādhryaśvaḥ*) |
+| 10 | **समिद्धो अद्य मनुषः** (*samiddho adya manuṣaḥ*) | 10–110 | 11 | जमदग्निर्भार्गवः (*jamadagnir bhārgavaḥ*) |
+
+Of the sūktas listed above, the sūktas numbered 1–2 have 12 and 13 Ṛks; all the rest have 11 Ṛks. The deities of these 11 Ṛks are as follows:
+
+| Ṛk | Deity (Sanskrit as printed) | Meaning |
+|---|---|---|
+| 1 | इध्मः समिद्धोऽग्निर्वा (*idhmaḥ samiddho 'gnir vā*) | Idhma, i.e., the kindled Agni |
+| 2 | तनूनपात् (*tanūnapāt*) | Tanūnapāt |
+| 3 | इळः (*iḷaḥ*) | Iḷa |
+| 4 | बर्हिः (*barhiḥ*) | the Barhis (sacred grass) |
+| 5 | देवीर्द्वारः (*devīr dvāraḥ*) | the divine Doors |
+| 6 | उषासानक्ता (*uṣāsānaktā*) | Dawn and Night |
+| 7 | दैव्यौ होतारौ प्रचेतसौ (*daivyau hotārau pracetasau*) | the two divine, wise Hotṛs |
+| 8 | तिस्रो देव्यः सरस्वतीळाभारत्यः (*tisro devyaḥ sarasvatī-iḷā-bhāratyaḥ*) | the three goddesses: Sarasvatī, Iḷā, Bhāratī |
+| 9 | त्वष्टा (*tvaṣṭā*) | Tvaṣṭṛ |
+| 10 | वनस्पतिः (*vanaspatiḥ*) | Vanaspati |
+| 11 | स्वाहाकृतयः (*svāhākṛtayaḥ*) | the Svāhā-offerings |
+
+In the first sūkta with 12 Ṛks, the deity **Narāśaṃsa** is also present; in the second sūkta, with 13 Ṛks, both **Narāśaṃsa and Indra** are deities; therefore, in place of the 11 Ṛks of the other sūktas, these have 12 and 13. In the other matters there is no difference — only the metres and the ṛṣis differ. In the animal sacrifice (paśuyāga), while praising Agni (the "samiddha-agni") and while performing the eleven **prayāja** homas, these sūktas are recited. In these sūktas, "tisro devyaḥ" means the praise of the three goddesses **Iḷā, Sarasvatī, Bhāratī**. The chief point to be noted here is that **Agni is worshipped in three forms: on earth, in the atmosphere, and in heaven.** Since **Bhāratī** indicates the rays of the Sun, this deity (that is, the Sun) is the form of Agni in heaven. **Sarasvatī** … for lightning, the one presiding … *(continues on the next page)*
+
+### Page 75 — "tisro devyaḥ"; Rigvedic verses that treat Sarasvatī as a deity rather than a river
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Reference-numbers are in small Kannada numerals and are marked [?] where uncertain. The glosses on the verses are mine, tentative, since the source gives no translation of them.)*
+
+*(Continuing from p. 74, "Sarasvatī … for lightning, the one presiding…")* …Because Sarasvatī is described in many places as a presiding deity of the lightning (vidyud-abhimānī-devatā), this Sarasvatī is the form of Agni in the atmosphere. Because the goddess **Iḷā** gives to the people on earth wealth and the like and long life, this goddess is the form of Agni on earth: such is the signification of these three, Iḷā, Sarasvatī and Bhāratī. The ṛṣis praise these three goddesses, asking them to come to the sacrificial altar and sit on the "barhis" (spread darbha-grass).
+
+Here are some examples of verses in which the ṛṣis praise Sarasvatī as a deity other than a river:
+
+> (1) तान्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
+> अर्यमणं वरुणं सोममश्विना सरस्वती नः सुभगा मयस्करत् ॥ (ऋ. सं. १-८९-३)
+> *tān pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham |*
+> *aryamaṇaṃ varuṇaṃ somam aśvinā sarasvatī naḥ subhagā mayas karat || (ṛ. saṃ. 1-89-3)*
+> Gloss: "Those (gods) we invoke with the ancient invocation — Bhaga, Mitra, Aditi, the undecaying Dakṣa, Aryaman, Varuṇa, Soma, the Aśvins; may fortunate Sarasvatī make us happy."
+> *(The source's remark:)* In this Ṛk Sarasvatī is the goddess of speech, or the presiding deity of lightning.
+>
+> (2) सरस्वति त्वमस्माँ अविड्ढि मरुत्वती धृषती जेषि शत्रून् । (ऋ. सं. २-३०-८)
+> *sarasvati tvam asmāṁ aviḍḍhi marutvatī dhṛṣatī jeṣi śatrūn | (ṛ. saṃ. 2-30-8)*
+> Gloss: "O Sarasvatī, protect us; accompanied by the Maruts, bold, you conquer the foes."
+>
+> (3) सरस्वती शृणवन्यज्ञियासो धाता रयिं सहवीरं तुराषाट् । (ऋ. सं. ३-३४-१३ [?])
+> *sarasvatī śṛṇavan yajñiyāso dhātā rayiṃ sahavīraṃ turāṣāṭ | (ṛ. saṃ. 3-34-13 [?])*
+> Gloss: "May Sarasvatī hear — (the gods) worthy of sacrifice — bestowing wealth with heroes, the swift conqueror." [tentative; the print's wording of this line differs a little from what I would expect, and I give it as printed]
+>
+> *(The source's remark on (2) and (3):)* In these Ṛks Sarasvatī is regarded either as a river or as the presiding deity of lightning.
+>
+> (4) दमूनसो अपसो ये सुहस्ता वृष्णः पत्नीर्नद्यो विभ्वतष्टाः ।
+> सरस्वती बृहद्दिवोत राका दशस्यन्तीर्वरिवस्यन्तु शुभ्राः ॥ (ऋ. सं. ७-९६ [?]-२ [?])
+> *damūnaso apaso ye suhastā vṛṣṇaḥ patnīr nadyo vibhvataṣṭāḥ |*
+> *sarasvatī bṛhaddivota rākā daśasyantīr variyasyantu śubhrāḥ || (ṛ. saṃ. 7-96 [?]-2 [?])*
+> Gloss: "(…) the wives of the bull, the rivers shaped by the Skilful One; may Sarasvatī, Bṛhaddivā and Rākā, the bright ones, giving, grant wide room." [tentative; the first half is hard for me to render with confidence]
+>
+> (5) आ नो दिवो बृहतः पर्वतादा सरस्वती यजता गन्तु यज्ञम् । (ऋ. सं. ५-४३-११)
+> *ā no divo bṛhataḥ parvatād ā sarasvatī yajatā gantu yajñam | (ṛ. saṃ. 5-43-11)*
+> Gloss: "May worshipful Sarasvatī come to our sacrifice from heaven, from the great mountain."
+>
+> (6) उभा नासत्या रुद्रो अध ग्नाः पूषा भगः सरस्वती जुषन्त । (ऋ. सं. ५-४६-२)
+> *ubhā nāsatyā rudro adha gnāḥ pūṣā bhagaḥ sarasvatī juṣanta | (ṛ. saṃ. 5-46-2)*
+> Gloss: "May both Nāsatyas, Rudra, the goddesses' wives, Pūṣan, Bhaga, Sarasvatī be pleased."
+>
+> *(The source's remark:)* In these three Ṛks, too, Sarasvatī is the presiding deity of lightning. **Griffith** holds that in the first of these three Ṛks Sarasvatī is some one river — "Sindhu or Sarasvatī" — and that in the 2nd and 3rd [Ṛks of the group] the deity is clear. **K. C. Caṭṭopādhyāya** says that Ṛks 1–3 [of the group] apply to the Sindhu. These three Ṛks too, it is said, were composed by the descendants of the ṛṣi Atri. For the first Ṛk… *(continues on the next page)*
+
+### Page 76 — The deity-verses (concluded); where the river Sarasvatī flowed
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Reference-numbers marked [?] where unsure. English words and the bibliographic list are as printed in the source.)*
+
+*(Continuing:)* …for the first Ṛk, Atri, or Atri's son **Bhauma**, is the ṛṣi; for the second Ṛk, Atri; for the third, **Pratikṣatra**, a descendant of Atri. In the second Ṛk Sarasvatī is addressed as having come from heaven ("divaḥ") and from the great mountain ("parvatāt") — [as the print has it]. In the first Ṛk, since the word "**patnīḥ**" ("wives") appears, the Bhāṣyakāra has regarded Sarasvatī and the other rivers as the wives of Indra.
+
+> (7) अग्निरिन्द्रो वरुणो मित्रो अर्यमा वायुः पूषा सरस्वती सजोषसः । (ऋ. सं. १०-६५-१)
+> *agnir indro varuṇo mitro aryamā vāyuḥ pūṣā sarasvatī sajoṣasaḥ | (ṛ. saṃ. 10-65-1)*
+> Gloss: "Agni, Indra, Varuṇa, Mitra, Aryaman, Vāyu, Pūṣan, Sarasvatī, in concert."
+>
+> (8) विश्वे देवासः शृणवन्वचांसि मे सरस्वती सह धीभिः पुरंध्या । (ऋ. सं. १०-६५-१३)
+> *viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā | (ṛ. saṃ. 10-65-13)*
+> Gloss: "May the All-gods hear my words, and Sarasvatī with her thoughts and her plenty."
+>
+> *(The source's remark:)* In these two Ṛks, too, Sarasvatī is the goddess of speech.
+>
+> (9) यत्सारामं व्यपिबः शचीभिः सरस्वती त्वा मघवन्नभिष्णक् । (ऋ. सं. १०-१३१-५)
+> *yat sārāmaṃ vy apibaḥ śacībhiḥ sarasvatī tvā maghavann abhiṣṇak | (ṛ. saṃ. 10-131-5)*
+> Gloss: "When you drank the [sārāma-drink?] with your powers, O Maghavan, Sarasvatī tended you." [tentative; "sārāmam" is not rendered with confidence]
+>
+> *(The source's remark:)* Since in this Ṛk Sarasvatī is spoken of as accompanying Indra, she may be understood either as the presiding deity of lightning or as the goddess of speech.
+>
+> (10) गर्भं धेहि सिनीवालि गर्भं धेहि सरस्वति । (ऋ. सं. १०-१८४-२)
+> *garbhaṃ dhehi sinīvāli garbhaṃ dhehi sarasvati | (ṛ. saṃ. 10-184-2)*
+> Gloss: "Set the embryo, O Sinīvālī; set the embryo, O Sarasvatī."
+>
+> *(The source's remark:)* Here it is only fitting to speak of Sarasvatī as the goddess of speech [as the print says — "vāg-devatā," though the verse is a prayer for conception].
+
+**Where the river Sarasvatī flowed.** We shall now set out briefly, for those who wish to know, the discussion of where the river Sarasvatī flowed in that age. This account has been written following the publications: (1) R. D. Oldham in *Journal of Asiatic Society Bengal*, 1886, page 322; (2) C. F. Oldham, *Journal of Royal Asiatic Society*, 1893, page 51; (3) Maps of the *Cambridge History of India*, Vol. I, "Ancient India"; (4) Maps of Punjab published by the Surveyor-General of India; (5) "Ancient India as described by Megasthenes and Arrian." *(All as printed.)* In that age the river Sarasvatī was one large river. It arose in the **Sirmur** (the source's English: "Sismur") range in the Himālayas and flowed to the west and slightly south. At its source five small streams (small watercourses carrying water) joined and then flowed on as this river; for this reason it must have had the name "**Pañcajātā**." After flowing a little distance, a river called **Dṛṣadvatī** (the modern Chitrang) joined it, coming from the east. **Āpayā** is a tributary of the Dṛṣadvatī. The Sarasvatī of that time was to the south of the present Sarasvatī river (the source adds: rivers that flow in desert regions often change their beds). Into the present Sarasvatī river two small streams called **Mārkaṇḍā** (the source's English: "Markand") and **Gaggar** ("Ghaggar") … *(continues on the next page)*
+
+### Page 77 — The course of the Sarasvatī (concluded); "vājebhiḥ"
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." English words are as printed in the source. **The Ṛg-vedic numbers in the list of senses of "vāja" below are in small Kannada numerals and I could not read them reliably; they are omitted rather than guessed, and the list should be completed from the page.**)*
+
+*(Continuing from p. 76, "…two small streams, Mārkaṇḍā and Gaggar…")* …these streams join her. Afterwards the Sarasvatī flowed on towards the south and west and finally joined the sea. The bed of the dried-up river now called **Hakra** (as printed) must have been the bed of the Sarasvatī of that time. It may have merged in the Sindhu by uniting with the river now called the **Sutlej**, or may have gone directly and joined the Sindhu. In that age the Sindhu lay far to the east of where it now is, and joined the sea near the gulf called the **Rann of Kach** (as printed). The scholar **Max Müller**, on the basis of the word "**āsamudrāt**" in Ṛ. Saṃ. 7-95-2 [?], holds that this Sarasvatī river went directly and joined the sea. Since the river flowed through sandy country before reaching the sea, it may well have been lost in the desert before reaching it (see Muir's *Sanskrit Texts*, Vol. II, p. 393, as printed). The account that the river was lost in the desert is given in the Mahābhārata (Vana-parva, in the description of the Tīrthayātrā) and also in the Manu-saṃhitā (2-21 [?]). For all these reasons it may be said that the present river **Sarasuti** is the Sarasvatī of old.
+
+**वाजेभिः (vājebhiḥ)** — This word is used in this Ṛk in the sense "anna, āhāra" ("food"); there is the Taittirīya Śruti sentence "*annaṃ vai vājaḥ*" (अन्नं वै वाजः — "food indeed is 'vāja'"). Western scholars say that this word is used in many Ṛks in many different senses. Some of them are given here *(English as printed; the Ṛg-vedic references the source adds after each are not reproduced)*:
+
+1. Power, strength
+2. Swiftness (of the steeds)
+3. Combat
+4. Refreshment, food, nourishment
+5. Offering, food or drink of offering
+6. Horse
+7. One of the three Ṛbhus
+8. All the three Ṛbhus
+
+**Grassmann** has given one long list for the various senses of this word, which occurs in many Ṛks; since it is very extensive, and since it is fitting to explain those senses in the respective places, there is no need to write it here.
+
+### Page 78 — "vājinīvatī," "yajñam," "vaṣṭu," "dhiyāvasuḥ"
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." English as printed; reference-numbers read with care but marked [?] where unsure.)*
+
+**वाजिनीवती (vājinīvatī)** — The sense of this word follows that of the word "vājebhiḥ" given above. For it, **Rāmanātha** gives "Bestower of food"; **Benfey**, "filled up or rich with offerings"; **Geldner**, "rich with reward"; **Rosen**, "provided with food"; **Ludwig**, "rich with steed"; and the author of the *Vedārtha-yatna*, "Mounted on a charger" *(all as printed)*. Some say "vājinī" means the fruit-bearing land on a river bank that produces food, and "vājinīvatī" a river that gives people food and the like by supplying water to such fruitful land.
+
+**यज्ञम् (yajñam)** — The word "yajña" is read among the fifteen words in the Nirukta (Ni. 3-1[?]) [as printed]. This word can be explained in two ways: (1) the worship of a deity by hymns of praise and the like; (2) a special rite performed by the subsidiary and sub-subsidiary rites, by the recitation of mantras, by offering up an animal, and by many homas. It is this second kind of rite that is generally described in the Vedas by the word "yajña."
+
+**वष्टु (vaṣṭu)** — This word is the imperative (loṭ) third-person singular of the root "vaś kāntau" (to desire). The Bhāṣyakāra, giving the root the sense "apekṣā" ("expectation, wish"), states the main sense as "*nirvahatv iti arthaḥ*" — "let her bring (the sacrifice) to completion with all its parts." To support this he quotes the Aitareya Āraṇyaka sentence "*yajñaṃ vaṣṭv iti yad āha yajñaṃ vahatv ity eva tad āha*" (यज्ञं वष्ट्विति यदाह यज्ञं वहत्वित्येव तदाह — "when it says 'let her desire the sacrifice,' it says 'let her carry the sacrifice'," ऐ. आ. १-१-४). **Geldner** and **Grassmann** give "desire, wish for, make efforts, carry on to completion" *(English as printed)*; the last sense is the right one here.
+
+**धियावसुः (dhiyāvasuḥ)** — The Bhāṣyakāra explains this word thus: "*dhiyāvasuḥ karma-prāpty-adhana-nimitta-bhūtā | vāg-devatāyās tathāvidhaṃ dhana-nimittatvam āraṇyaka-kāṇḍe śrutyā vyākhyātam | yajñaṃ vaṣṭu dhiyāvasur iti vāg vai dhiyāvasuḥ*" (धियावसुः कर्मप्राप्त्यधननिमित्तभूता । वाग्देवतायास्तथाविधं धननिमित्तत्वमारण्यककाण्डे श्रुत्या व्याख्यातं । यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः — ऐ. आ. १-१-४ — "Dhiyāvasuḥ: she who is the occasion of wealth to be gained by ritual action; that the goddess of speech is the occasion of wealth of this kind is explained by Śruti in the Āraṇyaka section: 'yajñaṃ vaṣṭu dhiyāvasuḥ' — speech indeed is dhiyāvasuḥ"). That is: "dhiyāvasu" means she who is the cause of the attaining of wealth, lordship and the like, obtained through sacrifices and other rites; the Bhāṣyakāra also quotes the Aitareya-Āraṇyaka sentence "yajñaṃ vaṣṭu" etc. to say that the goddess of speech is the cause of the attainment of wealth. And in considering the formation of the word he says: "*dhiyā karmaṇā vasu yasyāḥ sakāśād bhavati sā dhiyāvasuḥ*" (धिया कर्मणा वसु यस्याः सकाशाद्भवति सा धियावसुः) — the deity from whom the wealth that is to be obtained as the fruit of rites comes is called "dhiyāvasuḥ." Western scholars explain it with such words as *(English as printed)*: "Supporter of all by wisdom, recompenser of worship or religious ceremonies, bestower of riches, source of wealth, rich in sense or intellect, one rewarding for devotion excellent-minded." This word is used in the Ṛgveda only in eight Ṛks: Ṛ. Saṃ. 1-3-10; 1-3[?]-6 [?]; 10-[?]-3 [?]; and five further references, **which are legibly numbered on the page in small Kannada numerals but which I have not been able to read with confidence and so do not give.**
+
+### Page 79 — Vyākaraṇa-prakriyā for Rik 3.10 (Kannada); Sūkta 3, Eleventh Mantra: Saṃhitā and Pada text
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." The grammar is pure Pāṇinian derivation and is **characterized rather than transcribed line by line**, per convention, with the sūtras kept. Accent-marks in the Saṃhitā/Pada text are not reproduced; see the note at Rik 3.5.)*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+- **"Pāvakā"** — "pāvaṃ kāyatīti pāvakā": from the root "kai" ("kai gai rai śabde," to sound) with "ka" after an upasarga-less word (**आतोऽनुपसर्गे कः**, *āto 'nupasarge kaḥ*, पा. ३-२-३); the substitution of "ā" for the final of the root by **आदेच उपदेशेऽशिति** (*ād eca upadeśe 'śiti*, पा. ६-१-४५); elision of the final "ā" before the affix (**आतो लोप इटि च**, *āto lopa iṭi ca*, पा. ६-४-६४); the feminine "ṭāp" (**अजाद्यतष्टाप्**, *ajādy-ataṣ ṭāp*, पा. ४-१-४) → "pāvakā"; being a kṛt-ending compound-member, the accent of the second member is retained by **गतिकारकोपपदात्कृत्** (पा. ६-२-१३९) as an end-acute. *Alternatively*, if "pūñ" ("he purifies") is intended, the affix "ṇvul" (**ण्वुल्तृचौ**, *ṇvul-tṛcau*, पा. ३-१-१३३) is added, and "yu/vu" are replaced by "ana/aka" (**युवोरनाकौ**, *yuvor anākau*, पा. ७-१-१), with the guṇa and "av-" substitution, giving "pāvaka," then "ṭāp" for the feminine "pāvakā." A difficulty is noted: by **प्रत्ययस्थात्कात्पूर्वस्यात इदाप्यसुपः** (*pratyayasthāt kāt pūrvasyāta idāpy asupaḥ*, पा. ७-३-४४) the "a" before "ka" would become "i" ("pāvikā"); the answer is that the non-occurrence of "i" in "pāvakā" is Vedic usage, by **पावकादीनां छन्दसि प्रत्ययस्थात्कादित्वं नेति वाच्यम्** [the print is garbled here; given as I read it]. The end-acute is likewise accepted as Vedic.
+- **"Sarasvatī"** — from "sṛ" with the Uṇādi "asun" → "saras"; the affix is "n"-marked (nit), so the first syllable is acute. The following "matup" and "ṅīp" are "p"-marked and unaccented.
+
+---
+
+### Sūkta 3, The Eleventh Mantra
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> चोदयित्री सूनृतानां चेतन्ती सुमतीनाम् ।
+> यज्ञं दधे सरस्वती ॥११॥
+>
+> *codayitrī sūnṛtānāṃ cetantī sumatīnām |*
+> *yajñaṃ dadhe sarasvatī ||11||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> चोदयित्री । सूनृतानाम् । चेतन्ती । सुमतीनाम् ।
+> यज्ञम् । दधे । सरस्वती ॥११॥
+
+### Page 80 — Rik 3.11: Sāyaṇa-bhāṣya, grammar, Pada-meanings, Bhāvārtha, English rendering; Special topic (opening)
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." Sanskrit printed in Kannada script, rendered letter by letter; [?] where unclear.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> यो सरस्वती सेयमिमं यज्ञं दधे । धारितवती । कीदृशी । सूनृतानां प्रियाणां सत्यवाक्यानां चोदयित्री प्रेरयित्री । सुमतीनां शोभनबुद्धियुक्तानामनुष्ठातॄणां चेतन्ती । तदीयमनुष्ठेयं ज्ञापयन्ती ॥
+> *yo [print; "yā" would be expected] sarasvatī seyam imaṃ yajñaṃ dadhe | dhāritavatī | kīdṛśī | sūnṛtānāṃ priyāṇāṃ satya-vākyānāṃ codayitrī prerayitrī | sumatīnāṃ śobhana-buddhi-yuktānām anuṣṭhātṝṇāṃ cetantī | tadīyam anuṣṭheyaṃ jñāpayantī ||*
+
+**Translation:** "That Sarasvatī — she has taken up ('dadhe' = 'dhāritavatī') this sacrifice. What kind of one? 'Codayitrī' — the inciter, the impeller, of 'sūnṛtānām' — of pleasant, true utterances (or of those who speak them); 'cetantī' — the one who makes known, to the 'sumatīnām' — those of good understanding, the performers — what is to be performed by them." *(The print's first word reads "yo"; the sense needs "yā" ("who"), and I record the print as it stands.)*
+
+**Grammar within the Bhāṣya** *(characterized; the print is partly garbled in the middle, and I do not give a reading of the unclear stretch)*: "Codayitrī" — root "cud" (to impel), "ṇic," then "tṛc"; "c"-marked, so the penultimate is acute (**चित्त्वादन्तोदात्तः**); "ṅīp" (**ऋन्नेभ्यो ङीप्**, पा. ४-१-५); the feminine ending is acute by **उदात्तयणो हल्पूर्वात्** (*udāttayaṇo hal-pūrvāt*, पा. ६-१-१७४). "Sūnṛtānām" — "ūna parihāṇe" (to lessen) with "kvip"; "sūnīti priyam ucyate" — "sūn" denotes the pleasant; "ṛtaṃ satyam"; hence "sūnṛtam" = pleasant and true; the second member's acute follows the rule for compounds beginning with "para-ādi" in the Veda (**बहुलमुत्तरपदादिः**, as printed [?]). "Cetantī" — root "citī saṃjñāne" (to perceive); the "śap" is elided and "p"-marked, so unaccented; the stem's own accent remains; "ṅīp" etc. "Sumatīnām" — "mati" is first-syllable-acute; the genitive-plural ending's accent (**पा. ६-१-१८२**, as printed [?]).
+
+**॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
+
+**सरस्वती (sarasvatī)** — the goddess Sarasvatī | **सूनृतानाम् (sūnṛtānām)** — [of] pleasant and true words, or [of] men who speak such words | **चोदयित्री (codayitrī)** — one who impels | **सुमतीनाम् (sumatīnām)** — (those who are devoted to sacrifices and the like) men of good understanding | **चेतन्ती (cetantī)** — one who makes (them) know (what is to be done in good works) | **(such Sarasvatī) यज्ञम् (yajñam)** — the sacrifice (that we are performing) | **दधे (dadhe)** — has taken up (carries through).
+
+**॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
+
+The goddess Sarasvatī, whom we praise, is she who impels men to speak pleasant and true words, or who inspires those who speak the truth to engage in good works, and who, by making known to men of good understanding what is to be done, helps them in doing right. May such a Sarasvatī bring the sacrifice that we perform to a faultless completion.
+
+**English Translation** *(printed in English in the source itself):*
+
+"Saraswati, the inspirer of those who speak only the truth and instructress of the right-minded has supported the sacrifice."
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+This mantra is used in the sacrifice called **Sautrāmaṇī**; and also in the **Vaiśvadeva**, the **Ukhāsambharaṇa** (which, the source adds in English, "takes place at the new and full moon days") and the **Ekāṣṭakā** (the eighth day after full moon). Chiefly, this mantra is used in the rite called Vaiśvadeva, in the offering of the bali to Sarasvatī.
+
+### Page 81 — Special topics on Rik 3.11; Vyākaraṇa-prakriyā (opening)
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." English words are as printed in the source. Nirukta reference-numbers are in small Kannada numerals and marked [?].)*
+
+**चोदयित्री (codayitrī)** — A form derived from the root "cud" ("cuda preraṇe," to impel); the sense is "she who impels." Western scholars explain it with the words *(English as printed)*: "Inspire, incite, rouse, stimulate, furnish, quickly, hasten, hurry, stir, agitate, encourage."
+
+**सूनृतानाम् (sūnṛtānām)** — The word "sūnṛta" is read both among the fourteen words that indicate "speech" (Ni. 1-1[?]) and among the three words that indicate "anna" (food) (Ni. 2-7[?]) *[numbers as read, uncertain]*. This word is derived from the word "ṛta," which means "true, truth." Hence, in the Ṛgveda, Western scholars explain the word "sūnṛta" with such words as *(English as printed)*: "One delighting in truth, good word, agreeable speech, truth, song, receiving good qualities, joy-giving, glorious deed."
+
+**चेतन्ती (cetantī)** — The sense of this word is, with a slight addition, the same as that of "codayitrī"; for it, such senses as *(English as printed)* "Perceive, conceive, understand, inspire" may be given.
+
+**सुमतीनाम् (sumatīnām)** — This word is formed from the root "man" (to think). For it one may give *(English as printed)*: "Think, meditate, contemplate, imagine, observe, believe, regard." In this Ṛk, for this word the senses "those who have good understanding," "those devoted to good deeds, or those who do them," "right-thinking, right-minded" may be given.
+
+**The chief import of this Ṛk:** the goddess Sarasvatī impels men to speak true words and to do good works, and makes people's minds devoted to good activities. Therefore, she gives us good understanding in the sacrifice that we are now performing, makes that sacrifice reach completion with all its parts, and favours us so that we obtain its fruit.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(Kannada; characterized, sūtras kept)* **"Codayitrī"**: to the root "cud preraṇe" the affix "ṇic" is added; the penultimate light vowel takes guṇa, giving "codi-"; then "tṛc" (**ण्वुल्तृचौ**, *ṇvul-tṛcau*, पा. ३-१-१३३); "iṭ" comes to it by **आर्धधातुकस्येड्वलादेः** (पा. ७-२-३५); the "i" of "codi" takes guṇa (**सार्वधातुकार्धधातुकयोः**, पा. ७-३-८४) and "ay" by **एचोऽयवायावः** (*eco 'yavāyāvaḥ*, पा. ६-१-७८) → "codayitṛ"; for the feminine, **ऋन्नेभ्यो ङीप्** (*ṛnnebhyo ṅīp*, पा. ४-१-५) — "ṅīp" after words ending in "ṛ" and "n" — and then **यणादेशः** (the semivowel substitution "ṛ → r") … *(continues on the next page)*
+
+### Page 82 — Vyākaraṇa-prakriyā for Rik 3.11 concluded — characterized
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." This page is dense accent-derivation in Kannada prose, repeating the Sanskrit grammar of p. 80. Per the standing convention it is **characterized, not translated line by line**; the sūtras are kept. Some details are garbled in the print and I do not give them.)*
+
+*(Continuing "codayitrī":)* …"codayitr + ī" → "codayitrī". Since "tṛc" is "c"-marked (**चितः**, पा. ६-१-१६३) the last syllable is acute; the feminine ending then takes the acute by **उदात्तयणो हल्पूर्वात्** (*udāttayaṇo hal-pūrvāt*, पा. ६-१-१७४) — when an "ṇ"-substituted semivowel following a consonant stands for an acute vowel, the following case-ending is acute — hence "ī" is acute.
+
+**"Sūnṛtānām"** — "ūna parihāṇau" (to lessen), with "kvip" by **क्विप् च** (पा. ३-२-७६) → "ūn"; "sutarām ūnayati apriyam" — "he who most completely removes what is unpleasant" — so "sūn" is a word for "the pleasant"; "ṛtam" = true; "sūn ca tad ṛtaṃ ca" — a karmadhāraya compound, "sūnṛtam." Here, by **परादिश्छन्दसि बहुलम्** (*parādiś chandasi bahulam*, पा. ६-२-१९९), in the Veda the beginning of the latter member is variably acute; so the first syllable of the second member is acute. Through "āyasmayādīni chandasi" (**आयस्मयादीनि छन्दसि**, पा. १-४-२०) the words "ayasmaya" and others in the Veda get the "bha" and "pada" labels as suitable; hence the "bha"-label arises, and since there is no "pada"-label, **न लोपः प्रातिपदिकान्तस्य** (*na lopaḥ prātipadikāntasya*, पा. ८-२-७) — the elision of the final "n" of a stem — does not apply to the "n" of "sūn."
+
+**"Cetantī"** — root "citī saṃjñāne"; in place of "laṭ" the "śatṛ" affix (**लटः शतृशानचावप्रथमासमानाधिकरणे**, पा. ३-२-१२४) → "cit + at"; "śap" comes, then guṇa of the light penultimate, and by **अतो गुणे** (पा. ६-१-९४) the single form → "cetat"; "śatṛ" is "uk"-marked (**उगितश्च**, *ugitaś ca*, पा. ४-१-६), so "ṅīp" for the feminine, giving "cetat + ī"; by **आच्छीनद्योर्नुम्** (*āc chīnadyor num*, पा. ७-१-८०) "num" is the augment, optionally, when "śī" or "nadī"-labelled endings follow; "cetantī" results; by **हल्ङ्याब्भ्यो दीर्घात्…** (पा. ६-१-६८) the elision. Both "śap" and "ṅīp" being "p"-marked, they are unaccented; the "śatṛ" affix is accented on the first syllable by **तास्यनुदात्तेन्ङिददुपदेशाल्लसार्वधातुकमनुदात्तमहन्वनोर्ङित्** (पा. ६-१-१८६) [as printed, garbled] and the stem's own accent remains; the final vowel of "cetat," by **धातोः** (पा. ६-१-१६२) — the last vowel of a root is acute — is acute on the "e."
+
+**"Sumatīnām"** — "śobhanā matiḥ yeṣāṃ te" — "those with good understanding," a bahuvrīhi; by **नञ्सुभ्याम्** (पा. ६-२-१७२) the second member is end-acute; after it, when the genitive plural ending is added, "nuṭ" is the augment and the vowel is lengthened — "sumatīnām." Here, by **नामन्यतरस्याम्** (*nāmany atarasyām*, पा. ६-१-१७७), in the case where the "matup"-final is elided... — if the stem is end-acute, the genitive plural ending "nām" is acute; thus the "nām" of "sumatīnām" is acute. ॥११॥
+
+### Page 83 — Sūkta 3, Twelfth Mantra: Saṃhitā, Pada, Sāyaṇa-bhāṣya, Pada-meanings
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Accent-marks not reproduced; see the note at Rik 3.5. Sanskrit printed in Kannada script, rendered letter by letter.)*
+
+### Sūkta 3, The Twelfth Mantra
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> महो अर्णः सरस्वती प्र चेतयति केतुना ।
+> धियो विश्वा वि राजति ॥१२॥
+>
+> *maho arṇaḥ sarasvatī pra cetayati ketunā |*
+> *dhiyo viśvā vi rājati ||12||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> महः । अर्णः । सरस्वती । प्र । चेतयति । केतुना ।
+> धियः । विश्वाः । वि । राजति ॥१२॥
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> द्विविधा हि सरस्वती विग्रहवद्देवता नदीरूपा च । तत्र पूर्वाभ्यामृग्भ्यां विग्रहवती प्रतिपादिता । अनया तु नदीरूपा प्रतिपाद्यते । तादृशी सरस्वती केतुना कर्मणा प्रवाहरूपेण महो अर्णः प्रभूतमुदकं प्र चेतयति । प्रकर्षेण ज्ञापयति । किंच । स्वकीयेन देवतारूपेण विश्वा धियः सर्वाण्यनुष्ठातृप्रज्ञानानि विराजति । विशेषेण दीपयति । अनुष्ठानविषया बुद्धिः । सर्वोत्पादयतीत्यर्थः ।
+> *dvividhā hi sarasvatī vigrahavad-devatā nadī-rūpā ca | tatra pūrvābhyām ṛgbhyāṃ vigrahavatī pratipāditā | anayā tu nadī-rūpā pratipādyate | tādṛśī sarasvatī ketunā karmaṇā pravāha-rūpeṇa maho arṇaḥ prabhūtam udakaṃ pra cetayati | prakarṣeṇa jñāpayati | kiṃca | svakīyena devatā-rūpeṇa viśvā dhiyaḥ sarvāṇy anuṣṭhātṛ-prajñānāni virājati | viśeṣeṇa dīpayati | anuṣṭhāna-viṣayā buddhiḥ | sarvotpādayatīty arthaḥ |*
+
+**Translation:** "Sarasvatī is indeed of two kinds: a deity with a body (a goddess), and in the form of a river. Of these, the two preceding Ṛks presented her as the embodied one; by this Ṛk she is presented in river form. Such a Sarasvatī, 'ketunā' — by her action, in the form of her flow — makes known ('pra cetayati') 'maho arṇaḥ' — abundant water; that is, makes it known in an eminent way. Further, by her own form as a deity she 'virājati' — shines forth, illumines distinctly — all 'dhiyaḥ' — all the understandings of the performers; the understanding concerned with performance; the sense is: she produces them all." *(The final clause, "sarvotpādayatīty arthaḥ," is printed as I give it; I read it as continuing the sentence, and note the sense is a little loose.)*
+
+> सरस्वत्या द्विरूपत्वं यास्को दर्शयति । तत्र सरस्वतीत्येतस्य नदीवद्देवतावच्च निगमा भवन्ति । नि. २-२३ । इति । एकशतसंख्याकेषूदकनामसु अर्णः क्षोद इति पठितम् । एतामृचं यास्को व्याचष्ट । महदर्णः सरस्वती प्रचेतयति प्रज्ञापयति केतुना कर्मणा प्रज्ञया वेमानि च सर्वाणि प्रज्ञानान्यभिविराजति । नि. ११-२१ । इति ॥
+> *sarasvatyā dvirūpatvaṃ yāsko darśayati | tatra sarasvatīty etasya nadīvad devatāvac ca nigamā bhavanti | ni. 2-23 [?] | iti | ekaśata-saṃkhyākeṣūdaka-nāmasv arṇaḥ kṣoda iti paṭhitam | etām ṛcaṃ yāsko vyācaṣṭa | mahad arṇaḥ sarasvatī pracetayati prajñāpayati ketunā karmaṇā prajñayā vemāni ca sarvāṇi prajñānāny abhivirājati | ni. 11-2[?] | iti ||*
+
+**Translation:** "Yāska shows the twofold nature of Sarasvatī: '*Of this "Sarasvatī" the Vedic passages are both river-like and deity-like*' (Nirukta 2-23 [?]). Among the hundred-and-one names of water, 'arṇaḥ' and 'kṣodaḥ' are read. Yāska explains this Ṛk thus: '*Sarasvatī makes known a great flood ("arṇaḥ"), by her action, and by her wisdom she shines over all these kinds of knowledge.*' (Nirukta 11-2[?])."
+
+**Grammar within the Bhāṣya** *(characterized, sūtras kept)*: "Mahaḥ" — "mahat" with the final "t" turned into "s" by vyatyaya (Vedic licence), then "ru" → "ḥ"; the accent of the bare stem falls on its last syllable. **एङः पदान्तादति** (*eṅaḥ padāntād ati*, पा. ६-१-१०९) would give the preceding form ("pūrvarūpa"), but by **प्रकृत्यान्तःपादमव्यपरे** (*prakṛtyāntaḥpādam avyapare*, पा. ६-१-११५) the natural form is retained within the pāda. "Arṇaḥ" — from "ṛ," the Uṇādi affix "asun" (उ. ४-१९६ [?]), with the augment "nuṭ," and "ṛ" taking guṇa. "Ketunā" — the accent of the bare stem is on the last syllable. "Viśvāḥ" — "viśva" has the first syllable acute, as it ends in the affix "kvan" (**क्वन्** [?]). *(The print here closes the Bhāṣya with the marks "॥ ६ ॥ ॥ १ ॥" — I read these as the varga-end marks; the verse-number ॥१२॥ itself is printed at the end of the grammar on p. 85.)*
+
+**॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
+
+**सरस्वती (sarasvatī)** — the river Sarasvatī | **केतुना (ketunā)** — by an action in the form of flowing (by flowing) | **महो अर्णः (maho arṇaḥ)** — very abundant water | **प्र चेतयति (pra cetayati)** — makes known in an eminent way | **(और) विश्वाः धियः (viśvāḥ dhiyaḥ)** — (and) the understanding (the wisdom) of all people (devoted to sacrifice and rites) | **वि राजति (vi rājati)** — illumines.
+
+### Page 84 — Rik 3.12: Bhāvārtha, English rendering; Special topics (opening)
+
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." English as printed in the source.)*
+
+**॥ Bhāvārthaḥ ॥** *(Kannada, translated)*
+
+Since the river Sarasvatī flows with a very deep current, there is a great deal of water in this river; and this goddess also illumines the minds of those who praise her or who worship her by sacrifice — that is, she impels people's understanding so that it becomes keen.
+
+**English Translation** *(printed in English in the source itself):*
+
+"Saraswati (river) manifests herself by her acts (flowing) as a mighty river and (in her own form) enlightens peoples's [sic] minds."
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+This mantra is used in the sacrifice called **Sautrāmaṇī**, for praising Sarasvatī. Yāska has explained this Ṛk in his Nirukta as follows — "*mahad arṇaḥ sarasvatī pracetayati prajñāpayati ketunā karmaṇā prajñayā vemāni ca sarvāṇi prajñānāny abhivirājati*" (महदर्णः सरस्वती प्रचेतयति प्रज्ञापयति केतुना कर्मणा प्रज्ञया वेमानि च सर्वाणि प्रज्ञानान्यभिविराजति — Ni. 11-2[?]). Both the river form and the form of the goddess of speech of Sarasvatī Yāska states in the passage "*tatra sarasvatīty etasya nadīvad devatāvac ca nigamā bhavanti*" (तत्र सरस्वतीत्येतस्य नदीवद्देवतावच्च निगमा भवन्ति — Ni. 2-2[?]). In this Ṛk, in the first half — that is, in the first two pādas — Sarasvatī is regarded and praised as being of river form, and in the third pāda as being of the form of a deity.
+
+**महो अर्णः (maho arṇaḥ)** — The word "arṇa" is read among the hundred-and-one [print: "101" — read with care] names that indicate water. "Arṇa" means "water" and also "river." Here, although the river Sarasvatī was not a large river like the Sindhu and others, the praise of her as "maho arṇaḥ" — a big river with abundant floods — is right, we may say: for when one is praising, it is customary in the world to magnify and extol even a little of the quality that a deity has; moreover, the ṛṣi of this Ṛk, Madhucchanda, may have seen no large rivers such as the Sindhu, being far from them. It is therefore natural that he praises this river as a very large river, with abundant water in it.
+
+**केतुना (ketunā)** — The Bhāṣyakāra and Yāska both explain this as "karmaṇā" — "by action." When it is explained as relating to the river, "ketunā" means "by the flow (of the nature of a figure of speech, rūpaka-karma)," so deep and so abundant; and when explained as relating to the deity, it may mean "by the action that stirs (impels) the minds of people." The deep, endless and impetuous flood of the river Sarasvatī (the source's English: "Saraswati's mighty, endless and impetuous flood") is described in many mantras, such as Ṛ. Saṃ. 6-6[?]-1[?] [?]. For this word Western scholars give *(English as printed)* "Brightness, banner, flag, activity, wisdom." **Skandasvāmī** gives for "ketunā" … "by the action that is of the nature of a roar (garjanā)…" *(continues on the next page)*
+
+### Page 85 — Special topics on Rik 3.12 (concluded); Vyākaraṇa-prakriyā; end of Sūkta 3
+
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Grammar characterized, sūtras kept.)*
+
+*(Continuing "ketunā" from p. 84:)* …Skandasvāmī, that is, explains "ketunā" as "by the action of roaring"; **Yāska** explains it as "**karmaṇā prajñayā vā**" ("by action, or by wisdom"). The view of **Uvvaṭa** and **Mahīdhara** is the same as Skandasvāmī's. **Veṅkaṭamādhava** gives for "ketunā" only "**karmaṇā**."
+
+**धियः (dhiyaḥ)** — "Buddhi, ālocanā" (understanding, reflection). Yāska and Skandasvāmī (in the sense of) "prajñā" and "karman"; Veṅkaṭamādhava, "prajñā"; Uvvaṭa and Mahīdhara, "buddhi." Among Western scholars, **Grassmann** gives "act of devotion," and another scholar *(name not legible in the print)* "Devotion, thought" *(English as printed)*.
+
+**विराजति (virājati)** — The Bhāṣyakāra explains it as "**viśeṣeṇa dīpayati**" ("illumines in a special way") — that is, "causes to shine greatly, impels, kindles." For this word, which is the third person singular of the root "rāj," the senses "shine, preside, govern, brighten" *(English as printed)* may be given. "**Dhiyo virājati**" means "she impels the minds to engage in good works," or "she makes our minds contented."
+
+**॥ Vyākaraṇa-prakriyā ॥** *(characterized, sūtras kept)* **"Maho arṇaḥ"**: the "t" of "mahat" becomes "s" by vyatyaya (Vedic licence); for the "s," **ससजुषो रुः** (*sasajuṣo ruḥ*, पा. ८-२-६६) gives "ru"; for "ru," **रुग्तोरोरुप्लुतादप्लुते** (*ato ror aplutād aplute*, पा. ६-१-११३) gives "u"; "mah + u"; then **अदुग्णे** [print; I read it as the guṇa rule **आद्गुणः** (*ād guṇaḥ*), पा. ६-१-८७, but the print differs, and I do not alter it] gives guṇa → "maho." When it joins the word "arṇaḥ," **एङः पदान्तादति** (पा. ६-१-१०९) would produce the preceding form, but **प्रकृत्यान्तःपादमव्यपरे** (पा. ६-१-११५) keeps the natural form for "e/o" at the end of a word inside a pāda, when a short "a" follows, and not "v/y" (the print: when a "va" or "ya" follows after the short vowel, this does not apply); so, the natural form is retained, and we have "maho arṇaḥ." "Arṇaḥ" — from the root "ṛ gatau" ("ṛ, to go": "it flows, goes" — "arṇaḥ"); when the sense "water" is intended, the Uṇādi-sūtra **उदके नुट् च** (*udake nuṭ ca*, उ. सू. ४-१९६ [?]) — after "ṛ," "asun" with the augment "nuṭ"; with them, "ṛ + nas" → guṇa → "ar + nas"; by **रषाभ्यां नो णः समानपदे** (पा. ८-४-१) the "n" becomes "ṇ"; "ru"-substitution and visarga: "arṇaḥ." "Ketunā" — from the stem-accent it is end-acute. "Viśvāḥ" — "viśva" is formed with the "kvan" affix and is first-syllable acute. ॥१२॥
+
+**इल्लिगे ३नेय सूक्तवु संपूर्णवु** — *illige 3neya sūktavu sampūrṇavu* — "Here the **third sūkta** is complete."
+
+---
+
+**Progress: Through printed page 85, which closes Sūkta 3 of Maṇḍala 1 (twelve Riks, 3.1–3.12) — a batch covering pages 31–85 across two sessions, all read against the rendered page images (PDF pages 46–100).** This second batch (pp. 52–85) finished the grammar of Rik 3.7 and covered **Rik 3.8** ("viśve devāso apturaḥ…", pp. 54–57), **Rik 3.9** ("viśve devāso asridha ehimāyāso adruhaḥ…", pp. 58–62, including the legend of Agni hiding in the waters and the Taittirīya Saṃhitā version), **Rik 3.10** ("pāvakā naḥ sarasvatī…", pp. 64–80, including the long discussion of Sarasvatī as river and as goddess, her ṛṣis and geography, and the ten Āprī-sūktas), **Rik 3.11** ("codayitrī sūnṛtānām…", pp. 79–82) and **Rik 3.12** ("maho arṇaḥ sarasvatī…", pp. 83–85). **Next task: begin Sūkta 4 at printed page 86** (PDF page 101): per the table of contents, "su-rūpa-kṛtnum," with application (viniyoga), rishi/deity/meter (p. 87 of this volume's own pagination), word-meanings, and the story of Vritrasura (p. 123).
 **Open flags from this batch (all marked [?] in the text; none silently resolved):**
-1. *Script:* the Sanskrit bhāṣya in this part of the source is printed in **Kannada script**, not Devanagari; it was converted letter by letter into Devanagari + IAST. Where the print was garbled the reading is bracketed [?].
-2. *Accents:* from Rik 3.5 onward the Saṃhitā/Pada **accent-marks are not reproduced** (the Kannada marks could not be converted reliably); Riks 3.1–3.4 earlier in the file do carry accent-signs. This is an inconsistency, noted in the text.
-3. *Reference-numbers* in small Kannada numerals are the weakest point: many Ṛg-vedic, Brāhmaṇa and Uṇādi numbers (esp. pp. 37, 40, 41, 44, 46, 50, 51) are best-effort and marked [?]; the vāghat list on p. 41 and the Viśvedeva counts on p. 50 in particular need a re-check against the page.
-4. *Corrections made in place within this batch (earlier text in the same batch only):* p. 31 "prāṇaiḥ" (was "pāṇyaiḥ [?]"), p. 32 "parihartā" and "voto guṇavacanāt", p. 39 "nab-viṣayasyānisantasya" (Phiṭ-sūtra, not Pāṇini), p. 47 Uṇādi wording; plus page-header descriptions on odd pages (these are "Aṣṭaka 1, Adhyāya 1, Varga N").
-5. *Not touched (older text):* p. 29 contains a stray Cyrillic string ("ародит") in the Taittirīya citation, and several "?" marks on Ṛg-references near pp. 29–30 — worth a look in a later cleanup pass.
-6. *Source misprints kept as printed:* "deserious" (p. 32), "bey or towny" (p. 44), "Sacrificier," "Preyer," "Strotra," "tne" (pp. 41, 50); "caturthī" for the instrumental (p. 36).
+1. *Reference-numbers* in small Kannada numerals remain the weakest point. Pages 71, 72, 73, 75, 76, 77 (the senses of "vāja," where I **omitted** the numbers rather than guess) and 78 (the list of eight "dhiyāvasuḥ" references, of which I gave only the first, and partly the second) need a re-check against the page images.
+2. *Accents:* Saṃhitā/Pada accent-marks not reproduced from Rik 3.5 on (noted in the text and in CLAUDE.md).
+3. *Garbled print left unreconstructed:* p. 69 (Sanskrit sentence on Sarasvatī as prompter/stopper of speech), p. 73 (the Śaunaka mnemonic verses, given with [?] and an outline of sense only), p. 79 (a stretch of the "pāvakā" grammar), p. 80 (the opening "yo sarasvatī" — "yā" expected), p. 85 ("adguṇaḥ"-like rule).
+4. *Source discrepancies recorded, not resolved:* Viśvāmitra described as fifth in descent from Atri on p. 70 and seventh on p. 71; the Uṇādi number for "vahi-śri-…" read "4-51" (p. 58) vs. "4-111/4-112" (p. 59/63) — re-check.
+5. *Corrections made in place within this batch:* p. 39/47 (accent/Phiṭ-sūtra attributions, earlier), p. 58 ("ehi mā yāsīḥ"), p. 83 (the closing "॥६॥॥१॥" marks).
+6. *Older text not touched:* p. 29 has a stray Cyrillic string ("ародит") in the Taittirīya citation — worth a cleanup pass.
+7. *Source misprints kept as printed:* "serpants" (p. 62), "peoples's" (p. 84), "Gloss" for a scholar's name (p. 56), "tne" (p. 50).
+
+---
+
+**Progress: Through printed page 85 (in progress).**

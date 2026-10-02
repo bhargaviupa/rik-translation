@@ -13,11 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 51** of the source (mid-sentence, in the Vyākaraṇa-prakriyā for Rik 3.7).
-Riks 3.4, 3.5 and 3.6 are complete, and Rik 3.7 (first of the three-verse Vaiśvadeva tṛca)
-is under way. **Next task: continue from printed page 52** (PDF page 67). The tail of the
-output file has the exact stopping point, a running progress note and the open flags — read
-the last ~40 lines before starting any new batch.
+Through **printed page 85**, which closes **Sūkta 3** of Maṇḍala 1 (twelve Riks). **Next task:
+begin Sūkta 4 ("su-rūpa-kṛtnum") at printed page 86** (PDF page 101). The tail of the output file
+has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
@@ -85,7 +83,7 @@ contents — before the Sanskrit commentary itself begins).
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
 
-## Conventions added during Volume 2 (pp. 31–51)
+## Conventions added during Volume 2 (pp. 31–85)
 
 - **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
   and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
