@@ -13,11 +13,21 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 30** of the source. Just finished the full apparatus for Rik 3.3
-(closing the three-verse Ashvin group) and opened Rik 3.4, the first verse of the sukta's
-Indra group (mantras 4–6). **Next task: Sayana's commentary on Rik 3.4, starting printed
-page 31.** The tail of the output file has the exact stopping point and a running progress
-note — read the last ~80 lines before starting any new batch.
+Two separate stretches of the source are done; the file is therefore **not contiguous**.
+
+- **Printed pages 1–30** (Sūkta 3, through the Saṃhitā/Pada text of Rik 3.4) — done. **Next task for
+  this stretch: Sayana's commentary on Rik 3.4, starting printed page 31.**
+- **Printed pages 257–301** — **Sūkta 7 complete** (all ten riks), done at the translator's direction
+  out of order. Sūkta 8 opens on printed page 302.
+- **Printed pages 31–256 are untranslated** (rest of Sūkta 3 through the end of Sūkta 6). Keep appending
+  in order when filling this in; a source-gap banner in the .md file marks the jump after page 30.
+
+The tail of the output file has the exact stopping point and a running progress note — read the last
+~80 lines before starting any new batch.
+
+**Script note:** from at least p. 257 the Sanskrit in the source is set in **Kannada script** (transcribe
+to Devanagari + IAST as usual). The p. 257–301 batch did not reproduce Vedic accent marks; pages 1–30 did.
+Decide on one policy before continuing.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
