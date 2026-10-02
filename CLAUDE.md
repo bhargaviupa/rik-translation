@@ -13,8 +13,8 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 301**, which closes **Sūkta 7** of Maṇḍala 1 (ten Riks); the file is contiguous from
-p. 1. **Next task: begin Sūkta 8 ("indre sānasiṃ rayim") at printed page 302** (PDF page 317), from its
+Through **printed page 341**, which closes **Sūkta 8** of Maṇḍala 1 (ten Riks); the file is contiguous from
+p. 1. **Next task: begin Sūkta 9 ("indrehi matsy andhasaḥ") at printed page 342** (PDF page 357), from its
 heading. The tail of the output file has the progress note and the open flags — read the last ~40 lines
 before starting any new batch.
 
