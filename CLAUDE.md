@@ -13,9 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 135**, which closes **Sūkta 4** of Maṇḍala 1 (ten Riks). **Next task:
-begin Sūkta 5 ("ā tvetā ni ṣīdata") at printed page 136** (PDF page 151). The tail of the output
-file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
+Through **printed page 201**, which closes **Sūkta 5** of Maṇḍala 1 (ten Riks) and the tenth varga of the first
+Adhyāya. **Next task: begin Sūkta 6 ("yuñjanti bradhnam aruṣam") at printed page 202** (PDF page 217). The
+tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
@@ -83,7 +83,7 @@ contents — before the Sanskrit commentary itself begins).
 Full detail on all of the above lives in `Translation_Conventions_Handoff.md`, included in
 this repo — read it if any of these come up.
 
-## Conventions added during Volume 2 (pp. 31–135)
+## Conventions added during Volume 2 (pp. 31–201)
 
 - **The Sanskrit bhāṣya is printed in Kannada script** in this part of the source (the Saṃhitā
   and Pada texts too). Convert letter by letter to Devanagari + IAST; never complete a garbled
@@ -109,3 +109,9 @@ this repo — read it if any of these come up.
   and say plainly which stretches of the print were too crowded to reproduce.
 - **Page headers** keep the pattern above; their small Kannada numerals (varga numbers especially) are
   unreliable — record what is read with [?] and do not "fix" a mismatch silently.
+- **Numeric tables** (e.g. the viṣṭuti/paryāya tables, pp. 144–148): read from enlarged slices, add up each row against the
+  stated total, record any row that does not add up rather than adjusting it.
+- **Closing notes** at the end of a sūkta ("illige … sūktavu samāptavu … vargavu mugidudu") are printed large and are
+  more reliable than the small-numeral page headers for varga numbering; prefer them.
+- **A helper script** that appends a section and a trailing "progress" stub must remove the previous stub first; check
+  that the file ends in exactly one full progress note before committing.
