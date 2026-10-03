@@ -11,8 +11,8 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: Sūktas 20 and 21 complete; **Sūkta 22 ("prātaryujā vibodhaya", twenty-one Riks, to the Aśvins and others) opened — its application note is done (through printed page 63).**
-**Next task: Sūkta 22 heading block and Rik 1, printed p. 64 (PDF page 79).** Sūkta 22 is about 78 pages (pp. 62–140), so it will take several sessions. Remaining sūktas and their first
+Volume 3 translation is under way: Sūktas 20 and 21 complete; **Sūkta 22 ("prātaryujā vibodhaya", twenty-one Riks, to the Aśvins and others) in progress — through printed page 81, Riks 1–6 done.**
+**Next task: continue Sūkta 22 at Rik 7, at the foot of printed p. 81 / head of p. 82 (PDF page 97).** Sūkta 22 runs to p. 140 (about 78 pages, several sessions). Remaining sūktas and their first
 pages: 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
