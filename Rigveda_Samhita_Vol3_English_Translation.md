@@ -1406,13 +1406,334 @@ The commentator explains that this rik is spoken with reference to the *udgāt�
 > O youthful Agni, bring hither for our protection the goddesses, Hotra, Bharathi, Varutri, and Dhishana.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 91)* In this rik the divine wives Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā are invoked. *Hotrā* is read among the words for speech (Ni. [1-11] [?]); *bhāratī* (Ni. [8-13]) and *dhiṣaṇā* among the words for speech, and *varūtrī*, 'the one to be chosen', are taken either as names of separate goddesses or as different names of Vāc; the commentator takes *hotrā* as the wife of Agni, *bhāratī* as the wife of Bharata-Āditya, *dhiṣaṇā* as Vāgdevatā [Sarasvatī]. **ग्नाः** — *gnā* means 'woman' (Ni. [3-21] [?]; also 'gnā' read among the words for speech [Ni. 1-11], and as 'women' in *menā gnā iti strīṇām* [Ni. 3-21]); Yāska derives it *gacchanti hi enāḥ maithunena dhāraṇārtham* — 'men go to women for the sake of union'. The word *gnāḥ* occurs in the Ṛgveda in several riks (Ṛ. Saṃ. 1-22-10 [Rik 10 itself], 1-61-8, and others; numerals as read, marked [?]). **यविष्ठ** — *atiśayena yuvā yaviṣṭhaḥ*: youthful, a young man.
+*(Grammar pages 92–94 of Rik 10, noted briefly: the Vyākaraṇa-prakriyā on* yaviṣṭha *[*atiśayena yuvā* — *iṣṭhan* after *yuvan* with loss of *van*; P. 5-3-55 / 6-4-154 / 6-4-163 pointers]*,* bhāratīm *[*bhṛñ bhartane* + *añ* from* bharata*, then* ṅīp*; the rule* tasyāpatyam *and the *śārṅgaravādi* group — numerals as read],* varūtrīm *[the long list of words of P. 3-2-185 *grasita, skabhita, stabhita … varūtrī* etc., all treated as irregular formations — I could not read the numerals reliably],* dhiṣaṇām *[*dhṛṣ* + *kyap* with *dhiṣ* substituted, P. 3-3-[?] pointers]. The print is crowded; not transcribed line by line.)*
 
 ---
 
-**Progress note — printed page 91 reached; Sūkta 22 in progress (Riks 1–10 done of 21).**
+### Pages 95–98 — Sūkta 22, Rik 11
 
-**This batch:** Riks 9 and 10 of Sūkta 22 (printed pp. 87–92). Grammar is now given as short notes.
+**॥ Saṃhitāpāṭhaḥ ॥**
 
-**Next task:** continue Sūkta 22 at Rik 11 (to the Devīs, the wives of the gods — *abhi no devīr avasā mahaḥ śarmaṇā nṛpatnīḥ*?; read the Saṃhitā from the page), at about printed p. 92 (PDF page 107); eleven riks follow; Sūkta 22 runs to printed p. 140; Sūkta 23 begins at p. 141.
+> अभि नो देवीरवसा महः शर्मणा नृपत्नीः ।
+> अच्छिन्नपत्राः सचन्ताम् ॥ ११ ॥
 
-**Open flags:** as in the previous progress note; the Ṛgveda/Nirukta reference numerals in the Rik 9–10 Special Topics are marked [?]; grammar in outline.
+*abhi no devīr avasā mahaḥ śarmaṇā nṛpatnīḥ | acchinnapatrāḥ sacantām || 11 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अभि । नः । देवीः । अवसा । महः । शर्मणा । नृऽपत्नीः । अच्छिन्नऽपत्राः । सचन्ताम् ॥ ११ ॥
+
+*abhi | naḥ | devīḥ | avasā | mahaḥ | śarmaṇā | nṛ-patnīḥ | acchinna-patrāḥ | sacantām || 11 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> देवीर्देव्यो देवपत्न्योऽवसा रक्षणेन महो महता शर्मणा च सुखेन च सह नोऽस्मानभि सचन्ताम् । अभिमुख्येन सेवन्ताम् । कीदृश्यो देव्यः । नृपत्नीर्मनुष्याणां पालयित्र्यः । अच्छिन्नपत्राः अच्छिन्नपक्षाः । न हि पक्षिरूपाणां देवपत्नीनां पक्षाः केनचिच्छिद्यन्ते ॥
+
+*devīr devyo devapatnyo 'vasā rakṣaṇena maho mahatā śarmaṇā ca sukhena ca saha no 'smān abhi sacantām | abhimukhyena sevantām | kīdṛśyo devyaḥ | nṛpatnīr manuṣyāṇāṃ pālayitryaḥ | acchinnapatrāḥ acchinnapakṣāḥ | na hi pakṣirūpāṇāṃ devapatnīnāṃ pakṣāḥ kenacic chidyante ||*
+
+**Translation:** "May the goddesses — the wives of the gods — with their protection (*avasā*), and with great (*mahaḥ* = *mahatā*) happiness (*śarmaṇā*), attend upon us — serve us face to face. What kind of goddesses? *Nṛpatnīḥ*: the protectresses of men. *Acchinnapatrāḥ*: those whose wings are uncut; for the wings of the divine wives who are of bird form are cut by no one." *(Grammar pages 97–98, noted briefly: the words treated are* devīḥ *[*div* + *ac* by the *nandigrahipacādi* rule, P. 3-1-134, giving *deva*; the feminine by P. 4-1-48 *puṃyogād ākhyāyām* with *ṅīṣ*; the long discussion of what* puṃyogāt ākhyāyām *means — whether it includes the husband-wife relation only, or also the relation of begetter — is scholastic and is not reproduced; then* P. 6-1-102 *prathamayoḥ pūrvasavarṇaḥ* *and* 6-1-105 *dīrghāj jasi ca*, *vā chandasi* P. 6-1-106 *as pointers],* avasā *[*av rakṣaṇe* + *asun*, Uṇ. 4-[?]],* mahaḥ *[*mah pūjāyām* + *kvip*; *supāṃ suluk* P. 7-1-39 for the sixth-case ending used for the third],* nṛpatnīḥ *[P. 4-1-33* patyur no yajñasaṃyoge*; accent],* acchinnapatrāḥ *[*nañ*-compound, loss of* n *P. 6-3-73 *nalopo nañaḥ*, bahuvrīhi with accent of the first member, P. 6-2-1]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **नृपत्नीः (nṛpatnīḥ)** — protectresses of men | **अच्छिन्नपत्राः (acchinnapatrāḥ)** — those with wings not cut | **देवीः (devīḥ)** — the divine wives | **अवसा (avasā)** — with protection | **महः (mahaḥ)** — with great [*mahatā*] | **शर्मणा (śarmaṇā)** — with happiness | **नः (naḥ)** — us | **अभि सचन्ताम् (abhi sacantām)** — may they principally attend [favour us].
+
+**॥ Bhāvārthaḥ ॥** The divine wives are the protectresses of men; they have wings that are unclipped. May such goddesses protect us and favour us with abundant happiness.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> May the goddesses, the protectresses of men whose wrings [sic] are uncut come hither with their protection and support.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 96–97)* **अभि** — *ābhimukhyena*: 'principally, face to face, [in a favourable way]'. **महः** — *mahatā*: the word is in the sixth case (*ṣaṣṭhī*) used for the third, qualifying *śarmaṇā*; it means 'great, abundant'. **नृपत्नीः** — *manuṣyāṇāṃ pālayitryaḥ*: the goddesses who protect men; the divine wives mentioned in the previous rik — Hotrā, the wife of Agni; Bhāratī, the wife of Bharata (Āditya); Dhiṣaṇā, the goddess of speech. **अच्छिन्नपत्राः** — the commentator says: 'the wings of divine wives who are of bird form are cut by no one' — hence *acchinnapatrāḥ*. The author remarks that the commentator has supplied this explanation, that the word does not occur elsewhere in the Ṛgveda [as far as he finds], and that the intention behind the use of the word is not clearly understood.
+
+---
+
+### Pages 99–102 — Sūkta 22, Rik 12
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> इहेन्द्राणीमुप ह्वये वरुणानीं स्वस्तये ।
+> अग्नायीं सोमपीतये ॥ १२ ॥
+
+*ihendrāṇīm upa hvaye varuṇānīṃ svastaye | agnāyīṃ somapītaye || 12 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> इह । इन्द्राणीम् । उप । ह्वये । वरुणानीम् । स्वस्तये ॥ अग्नायीम् । सोमऽपीतये ॥ १२ ॥
+
+*iha | indrāṇīm | upa | hvaye | varuṇānīm | svastaye || agnāyīm | soma-pītaye || 12 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> इहास्मिन्कर्मणि स्वस्तयेऽस्माकमविनाशाय सोमपीतये सोमपानाय चेन्द्रवरुणाग्नीनां पत्नीरुपह्वये । इन्द्राणीम् । वरुणानीम् । इन्द्रवरुणेत्यादिना (पा. ४-१-४९) पुंयोगे ङीष् आनुगागमश्च । प्रत्ययस्वरः । अग्नायीम् । वृषाकप्यग्निकुसितकुसीदानामुदात्तः (पा. ४-१-३७) इति ङीष् । तत्संनियोगेनैकारस्यैकार उदात्तः [?] । सोमपीतये । असकृत्पूर्वोक्तम् ॥
+
+*ihāsmin karmaṇi svastaye 'smākam avināśāya somapītaye somapānāya cendravaruṇāgnīnāṃ patnīr upahvaye | indrāṇīm | varuṇānīm | indravaruṇetyādinā (pā. 4-1-49) puṃyoge ṅīṣ ānugāgamaś ca | pratyayasvaraḥ | agnāyīm | vṛṣākapyagnikusitakusīdānām udāttaḥ (pā. 4-1-37) iti ṅīṣ | tatsaṃniyogenaikārasyaikāra udāttaḥ [?] | somapītaye | asakṛt pūrvoktam ||*
+
+**Translation:** "Here, in this rite, for our welfare — our non-destruction — and for the drinking of soma, I invoke near the wives of Indra, Varuṇa and Agni. *Indrāṇīm, varuṇānīm*: by [the sūtra beginning] *indra-varuṇa…* (P. 4-1-49) the feminine suffix *ṅīṣ* and the augment *ānuk* [come after these words, in the sense of 'wife of']; the accent is that of the suffix. *Agnāyīm*: by P. 4-1-37 (*vṛṣākapy-agni-kusita-kusīdānām udāttaḥ*) the suffix *ṅīṣ* [and its accompanying substitute is udātta; the exact wording of the substitution — read as *ekāra* — is doubtful, hence [?]]. *Somapītaye*: said many times before."
+
+**॥ Prati-padārthaḥ ॥** **इह (iha)** — here | **इन्द्राणीम् (indrāṇīm)** — the wife of Indra | **वरुणानीम् (varuṇānīm)** — the wife of Varuṇa | **अग्नायीम् (agnāyīm)** — the wife of Agni | **स्वस्तये (svastaye)** — for [our] welfare | **सोमपीतये (somapītaye)** — for drinking soma | **उप ह्वये (upa hvaye)** — I invoke.
+
+**॥ Bhāvārthaḥ ॥** For our welfare and for the drinking of soma, I invite here Indrāṇī, the wife of Indra, Varuṇānī, the wife of Varuṇa, and Agnāyī, the wife of Agni.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> I invoke here Indrani, Varunani, and Agnayi, for our welfare and to drink the Soma-juice.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 100–101)* The wife of Indra is called *Indrāṇī*, the wife of Varuṇa *Varuṇānī*, the wife of Agni *Agnāyī*. On this Yāska says [Nirukta, numerals not clearly read]: **इन्द्राणीन्द्रस्य पत्न्यग्नाय्यग्नेः पत्नी अश्विन्यश्विनोः पत्नी राट् राजते । रोदसी रुद्रस्य पत्नी । वरुणानी च वरुणस्य पत्नी** — *indrāṇīndrasya patny agnāyy agneḥ patnī aśvinyaśvinoḥ patnī rāṭ rājate | rodasī rudrasya patnī | varuṇānī ca varuṇasya patnī* — "Indrāṇī is the wife of Indra, Agnāyī the wife of Agni, [Aśvinī the wife of the Aśvins], *rāṭ* shines, Rodasī is the wife of Rudra, and Varuṇānī the wife of Varuṇa." [Reading of the quotation is mine from a compressed print; the order and the clause *rāṭ rājate* are uncertain.] These are called the wives of the gods. In some riks the names of these wives are given separately, and in others they are named together as 'the wives of the gods'. Examples cited by the author:
+
+> इन्द्राणीमासु नारिषु सुभगामहमश्रवम् । नह्यस्या अपरं चन जरसा मरते पतिर्विश्वस्मादिन्द्र उत्तरः ॥ (Ṛ. Saṃ. 10-86-[10/11], as printed)
+
+*indrāṇīm āsu nārīṣu subhagām aham aśravam | nahy asyā aparaṃ cana jarasā marate patir viśvasmād indra uttaraḥ ||* — "Among these women I have heard Indrāṇī to be the most fortunate; her husband never dies of old age; Indra is higher than all." *(my gloss, tentative)*
+
+> नाहमिन्द्राणि रारण सख्युर्वृषाकपेरृते । उताहमस्मि वीरिणीन्द्रपत्नी मरुत्सखा । विश्वस्मादिन्द्र उत्तरः ॥ (Ṛ. Saṃ. 10-86-[9?], as printed)
+
+*nāham indrāṇi rāraṇa sakhyur vṛṣākaper ṛte | utāham asmi vīriṇīndrapatnī marutsakhā | viśvasmād indra uttaraḥ ||* — "I, O Indrāṇī, take no delight apart from my friend Vṛṣākapi … I am the heroine, Indra's wife, the friend of the Maruts; Indra is higher than all." *(my gloss, tentative; two riks run together in the print)*
+
+> इन्द्राणीमह ऊतये वरुणानीं स्वस्तये । (Ṛ. Saṃ. 1-22-12, this very rik, as printed) 
+
+> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् । आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥ (Ṛ. Saṃ. 5-46-8) 
+
+*utā gnā vyantu devapatnīr indrāṇy agnāyy aśvinī rāṭ | ā rodasī varuṇānī śṛṇotu vyantu devīr yā ṛtur janīnām ||* — "Let the women [gnāḥ], the wives of the gods — Indrāṇī, Agnāyī, Aśvinī, Rāṭ — come [or enjoy]; may Rodasī and Varuṇānī listen; let the goddesses [come], *whose time is that of women* [?]." *(my gloss, tentative; the last pāda is doubtful)*
+
+> देवानां पत्नीरुशतीरवन्तु नः प्रावन्तु नस्तुजये वाजसातये । याः पार्थिवासो या अपामपि व्रते ता नो देवीः सुहवाः शर्म यच्छत ॥ (Ṛ. Saṃ. 5-46-7 [?])
+
+*devānāṃ patnīr uśatīr avantu naḥ prāvantu nas tujaye vājasātaye | yāḥ pārthivāso yā apām api vrate tā no devīḥ suhavāḥ śarma yacchata ||* — "May the eager wives of the gods protect us; may they help us for offspring and the winning of strength; the [goddesses] who belong to the earth, and who [abide] in the ordinance of the waters — may those goddesses, easy to invoke, grant us shelter." *(my gloss, tentative)*
+
+The author notes that the names of the divine wives occur in many such riks. *(Quotation numerals for these riks are marked as printed; where two read differently I have written the alternatives.)*
+
+*(Grammar pages 101–102, noted briefly: the words treated are* indrāṇīm, varuṇānīm *[P. 4-1-49* indravaruṇabhavaśarvarudramṛḍahimāraṇyayavayavanamātulācāryāṇām ānuk*: the augment* ānuk *and the feminine suffix* ṅīṣ *after* indra*,* varuṇa *(and the other words of the sūtra) in the sense of 'wife'; P. 4-1-48* puṃyogād ākhyāyām *pointer],* agnāyīm *[P. 4-1-37 *vṛṣākapy-agni-kusita-kusīdānām udāttaḥ*, with the substitute* ai *for the final* i *becoming* āy *by P. 6-1-78 *eco 'yavāyāvaḥ*; the accent argument through P. 1-1-50, 6-1-[?]] and* somapītaye *[reference back]; numerals as read, pointers only.)*
+### Pages 102–109 — Sūkta 22, Rik 13
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षताम् ।
+> पिपृतां नो भरीमभिः ॥ १३ ॥
+
+*mahī dyauḥ pṛthivī ca na imaṃ yajñaṃ mimikṣatām | pipṛtāṃ no bharīmabhiḥ || 13 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> मही । द्यौः । पृथिवी । च । नः । इमम् । यज्ञम् । मिमिक्षताम् ॥ पिपृताम् । नः । भरीमऽभिः ॥ १३ ॥
+
+*mahī | dyauḥ | pṛthivī | ca | naḥ | imam | yajñam | mimikṣatām || pipṛtām | naḥ | bharīma-bhiḥ || 13 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 103; opening introductory lines read with some doubt)*
+
+> द्वितीये छन्दोमे वैश्वदेवशस्त्रे मही द्यौः पृथिवी च न इति द्यावापृथिवीनिविद्धानीया [?] स्तृचः । द्वितीयस्याग्निं व इति खण्डे सूत्रितम् — मही द्यौः पृथिवी च नो युवाना पितरा पुनः (आ. ८-१० [?]) इति । आग्रयणेष्टौ मही द्यौरित्येषा द्यावापृथिव्यैककपालस्यानुवाक्या । … अग्निमन्थने चैषा विनियुक्ता । … अभि त्वा देव सवितर्मही द्यौः पृथिवी च नः (आ. २-[१६] [?]) इति … विष्यन्दमानं सांनाय्येमनूयाजवहनीयदेशे नीनयेत् … आश्विनशस्त्रे चैषा …
+
+*dvitīye chandome vaiśvadevaśastre mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivīnividdhānīyā [?] stṛcaḥ | dvitīyasyāgniṃ va iti khaṇḍe sūtritam — mahī dyauḥ pṛthivī ca no yuvānā pitarā punaḥ (ā. 8-10 [?]) iti | āgrayaṇeṣṭau mahī dyaur ity eṣā dyāvāpṛthivyaikakapālasyānuvākyā | … agnimanthane caiṣā viniyuktā | … abhi tvā deva savitar mahī dyauḥ pṛthivī ca naḥ (ā. 2-[16] [?]) iti … viṣyandamānaṃ sāṃnāyyem anūyājavahanīyadeśe nīnayet … āśvinaśastre caiṣā …*
+
+*(The bhāṣya here is mainly a list of the sacrificial applications of the rik, with Āśvalāyana-sūtra citations; the author gives them in clear Kannada in the Special Topics below, which is what I follow. The ellipses mark stretches of the Sanskrit that were too crowded to read confidently.)*
+
+> मही महती द्यौर्दिवो लोकदेवता पृथिवी भूमिदेवता च नोऽस्मदीयमिमं यज्ञं मिमिक्षताम् । स्वकीयसारभूतेन रसेन सेक्तुमिच्छताम् । तथा भरीमभिर्भरणैः पोषणकर्मभिर्नोऽस्मान्पिपृताम् । उभे देव्यौ पूरयताम् ॥
+
+*mahī mahatī dyaur divo lokadevatā pṛthivī bhūmidevatā ca no 'smadīyam imaṃ yajñaṃ mimikṣatām | svakīyasārabhūtena rasena sektum icchatām | tathā bharīmabhir bharaṇaiḥ poṣaṇakarmabhir no 'smān pipṛtām | ubhe devyau pūrayatām ||*
+
+**Translation:** "May the great *Dyaus* — the deity of the world of heaven — and *Pṛthivī* — the deity of the earth — wish to sprinkle this sacrifice of ours with the essence that is their own. And may they, the two goddesses, fill us with nourishments (*bharīmabhiḥ*) — with acts of bearing and sustaining." *(Grammar pages 106–109, noted briefly: the words treated are* mahī *[*mahat* + *ṅīp*; *śatṛ*-substitution by the Uṇādi rule on* mahat*; the long argument over* ugit *and* vyapadeśivadbhāva *— whether* mahat *counts as an* ugit *stem so that* ṅīp *is added — is scholastic and not reproduced],* dyauḥ *[*div* with* ḍo *by Uṇ. rule; sū > loss; the vṛddhi and the ṇit-sarvanāmasthāna treatment by P. 7-1-90 *goto ṇit*, 6-1-89 / 6-1-93; accent of* dyauḥ *discussed with the statement that a copyist's errors have crept into the printed Vedabhāṣya],* pṛthivī *[*prath prakhyāne* + *ṣivan* with* saṃprasāraṇa *— Uṇ. 1-[150] ; *ṅīṣ* by P. 4-1-41 *ṣiḍgaurādibhyaś ca*; accent],* mimikṣatām *[*miha secane* + *san*; reduplication; loss of* h*; *tām* for* tas*; P. 3-4-101/ 3-4-[?] pointers],* pipṛtām *[*pṛ pālanapūraṇayoḥ*; *śluh*; the vowel of the reduplication; accent, P. 8-1-[?]],* bharīmabhiḥ *[*ḍubhṛñ dhāraṇapoṣaṇayoḥ* + *īman*, Uṇ. [?]; accent on the first syllable]. Numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **मही (mahī)** — the great [Dyaus] | **द्यौः (dyauḥ)** — the deity of the sky | **पृथिवी च (pṛthivī ca)** — and the deity of the earth | **नः (naḥ)** — our | **इमं यज्ञम् (imaṃ yajñam)** — this sacrifice | **मिमिक्षताम् (mimikṣatām)** — may they make rich with sap [flavour] | **भरीमभिः (bharīmabhiḥ)** — by acts of nourishing | **नः (naḥ)** — us | **पिपृताम् (pipṛtām)** — may they fill [make complete].
+
+**॥ Bhāvārthaḥ ॥** May the deities of heaven and earth enrich this our sacrifice with sap, and nourish us with nourishing substances.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> May the great Heaven and Earth sprinkle (with sweetness) this our Sacrifice; may they fill us with nourishments.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 104–105)* **Applications of this rik.** (i) In the *Vaiśvadeva-śastra* of the second *chandoma* day, this rik is used in the recitation of the mantras addressed to Dyāvāpṛthivī; in Āśvalāyana's Śrauta-sūtra, in the section beginning *dvitīyasyāgniṃ va*, the rik *mahī dyauḥ pṛthivī ca naḥ* is cited together with *yuvānā pitarā punaḥ* (Ṛ. Saṃ. [1-160-3] [?]) (Āś. [8-10] [?]). (ii) In the *Āgrayaṇa-iṣṭi* this rik is the *puro-'nuvākyā* of the one-pot (*ekakapāla*) cake offered to Dyāvāpṛthivī; in the section *āgrayaṇaṃ vrīhiśyāmākam*, with the rik *ye ke ca jmā mahino ahimāyāḥ* (Ṛ. Saṃ. [6-52-15] [?]) the rik *mahī dyauḥ pṛthivī ca naḥ* is described (Āś. [2-9] [?]). (iii) It also has a use at the time of *agni-manthana* (kindling the fire by friction): in the section *prātarvaiśvadevyām*, after *abhi tvā deva savitaḥ* (Ṛ. Saṃ. [1-24-3] [?]) this rik is cited (Āś. [2-16] [?]). (iv) In the *sāṃnāyya* offering, the chant is used as the dripping [curds] are carried to the *ahavanīya*; the rik is cited in Āśvalāyana under *vidhvaparādha* (Āś. [3-10] [?]), where the dripping substance is to be led into the *paridhi* place. (v) In the *Āśvina-śastra* too, in the section *saṃsthiteṣv āśvināya*, the rik *mahī dyauḥ pṛthivī ca naḥ* is followed by *te hi dyāvāpṛthivī viśvaśambhuvā* (Ṛ. Saṃ. [1-160-1]) (Āś. [6-5] [?]). Besides these *śrauta* rites the rik is also used in *gṛhya* ritual, in prayers addressed to the Earth.
+
+**द्यौः, पृथिवी** — heaven and earth: the two divinities Dyāvāpṛthivī presiding over them are praised together in many hymns, and in some riks the words *dyauḥ* and *pṛthivī* occur separately. Examples [numerals as printed, marked [?]]:
+
+> उप श्वासय पृथिवीमुत द्यां पुरुत्रा ते मनुतां विष्ठितं जगत् ॥ (Ṛ. Saṃ. [5-83-8] [?])
+> *upa śvāsaya pṛthivīm uta dyāṃ purutrā te manutāṃ viṣṭhitaṃ jagat ||* — "Make the earth and the sky breathe; may the world, standing in many places, think of you." *(my gloss, tentative)*
+
+> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् । (Ṛ. Saṃ. [3-59-1])
+> *mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīm uta dyām |* — "Mitra, speaking, sets men to work; Mitra has upheld the earth and the sky." *(my gloss, tentative)*
+
+> विश्वकर्मन् हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्याम् ॥ (Ṛ. Saṃ. [10-81-6])
+> *viśvakarman haviṣā vāvṛdhānaḥ svayaṃ yajasva pṛthivīm uta dyām ||* — "O Viśvakarman, grown strong by the oblation, yourself sacrifice [to] the earth and the sky." *(my gloss, tentative)*
+
+Twenty-four *[the printed numeral reads 24, marked [?]]* words are listed (Nighaṇṭu [3-30] [?]) as names of *dyāvāpṛthivī* — *purandhi* and the rest. In the Taittirīya Saṃhitā, in *dyauḥ pitaḥ pṛthivi mātaḥ*, heaven is addressed as father and earth as mother. In the Ṛgveda the universe is usually divided into three chief regions (*lokas*) — heaven, the middle region (*antarikṣa*) and earth. Even in the heaven there are three divisions: *nāka* (the highest place in heaven), *viṣṭapa* (the middle region) and *pṛṣṭha* (the lower part); in the *antarikṣa* there are further divisions, though not clearly, and words like *vyoman* and *rocana* (the realm of light), *antarikṣa* etc. differ in sense. For the earth the names are *pṛthivī*, *mahī* (the great expanse), *iḷā* (this universe), *vasumatī* (the wealthy one), etc. In the Ṛgveda *dyāvāpṛthivī* is generally understood as the presiding deities of heaven and earth, and in that sense it is used.
+
+**यज्ञं मिमिक्षताम्** — *svakīyasārabhūtena rasena sektum icchatām*: may the deities of heaven and earth help to bring this sacrifice to successful completion by the best things in heaven and earth. **पिपृतां नः भरीमभिः** — *bharaṇaiḥ poṣakair annādyādhāravastubhiḥ somarasādibhiś ca asmān yajñaṃ ca paripūrṇaṃ kurutām*: may they complete our sacrifice with nourishing food and by soma-sap and the like.
+
+---
+
+### Pages 109–111 — Sūkta 22, Rik 14
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> तयोरिद्घृतवत्पयो विप्रा रिहन्ति धीतिभिः ।
+> गन्धर्वस्य ध्रुवे पदे ॥ १४ ॥
+
+*tayor id ghṛtavat payo viprā rihanti dhītibhiḥ | gandharvasya dhruve pade || 14 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> तयोः । इत् । घृतऽवत् । पयः । विप्राः । रिहन्ति । धीतिऽभिः ॥ गन्धर्वस्य । ध्रुवे । पदे ॥ १४ ॥
+
+*tayoḥ | it | ghṛta-vat | payaḥ | viprāḥ | rihanti | dhīti-bhiḥ || gandharvasya | dhruve | pade || 14 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> गन्धर्वस्य ध्रुवं पदमन्तरिक्षम् । तथा च तापनीयशाखायां समाम्नायते । यक्षगन्धर्वाप्सरोगणसेवितमन्तरिक्षम् (तै. आ. १-२ [?]) इति । तेनान्तरिक्षे गोपलक्षिते आकाशे वर्तमानयोस्तयोरेव द्यावापृथिव्योरेव संबन्धि पयो जलं घृतवद्घृतसदृशं विप्रा मेधाविनः धीतिभिः कर्मभिः रिहन्ति लिहन्ति । यद्वा । घृतवद्घृतस्य सारं तेनोपेतं रिहन्ति । लिहेर्व्यत्ययेन रेफः । गन्धर्वस्य । धृङ् धारणे । गवि गन् धृङो व इति वप्रत्ययः । तत्संनियोगेन गोशब्दस्य च गन्नादेशः ॥
+
+*gandharvasya dhruvaṃ padam antarikṣam | tathā ca tāpanīyaśākhāyāṃ samāmnāyate | yakṣagandharvāpsarogaṇasevitam antarikṣam (tai. ā. 1-2 [?]) iti | tenāntarikṣe gopalakṣite ākāśe vartamānayos tayor eva dyāvāpṛthivyor eva saṃbandhi payo jalaṃ ghṛtavad ghṛtasadṛśaṃ viprā medhāvinaḥ dhītibhiḥ karmabhiḥ rihanti lihanti | yadvā | ghṛtavad ghṛtasya sāraṃ tenopetaṃ rihanti | liher vyatyayena repʰaḥ | gandharvasya | dhṛṅ dhāraṇe | gavi gan dhṛṅo va iti vapratyayaḥ | tatsaṃniyogena gośabdasya ca gannādeśaḥ ||*
+
+**Translation:** "The firm abode of the Gandharva is the *antarikṣa* (the middle region). So it is read in the Tāpanīya branch [of the Veda]: 'the *antarikṣa* is served by hosts of Yakṣas, Gandharvas and Apsarases.' So the water (*payaḥ*) belonging to those two, Heaven and Earth, existing in the sky [*gopalakṣite* — 'marked by *go*'; the reading of this phrase is doubtful], the sages (*viprāḥ*, the wise) lick, like ghee, with their *dhītis* — their acts. Or: they lick the essence of it, like ghee. *Rihanti* is *lihanti* with *r* by the *vyatyaya* [interchange]. *Gandharvasya*: from *dhṛṅ* 'to hold', with the suffix *va* when *go* is the object — and *go* is replaced by *gan*." *(Grammar page 111, noted briefly: the words treated are* rihanti *[*liha āsvādane*, with the *ra* for *la* by* vyatyaya *; *jhi* → *anti* by P. 7-1-3 *jho 'ntaḥ*; *śap* lost by P. 2-4-75 *adiprabhṛtibhyaḥ śapaḥ*] and* gandharvasya *[*gavi gan dhṛñ-ñoḥ*, a rule not found in the Uṇādi lists; so the commentary derives it as* gan + dhṛ + va*, guṇa following]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **गन्धर्वस्य (gandharvasya)** — of the Gandharva | **ध्रुवे (dhruve)** — in the eternal | **पदे (pade)** — in the place, the *antarikṣa* | **तयोः इत् (tayoḥ it)** — of those two [heaven and earth] alone | **पयः (payaḥ)** — the water | **घृतवत् (ghṛtavat)** — like ghee | **विप्राः (viprāḥ)** — the wise | **धीतिभिः (dhītibhiḥ)** — by good acts | **रिहन्ति (rihanti)** — taste with relish.
+
+**॥ Bhāvārthaḥ ॥** The sages, by the fruit of good acts, relish the water that belongs to Heaven and Earth, which is as the essence of ghee.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> The wise men sitting in the eternal home of the Gandharvas taste, through their pious acts the essence of all good things of both heaven and earth as the ghee is the essence of milk.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 110–111)* The meaning of this rik is correct if some words are supplied: as ghee is the essence of milk, so there are many things in heaven and earth that are their essence. The wise (*medhāvī*) people, by sacrifices and the like [good acts], having reached the highest and eternal abode of the Gandharvas — the world, the *antarikṣa* — there enjoy the best essences of heaven and earth. That is the chief meaning. **घृतवत् पयः** — like the essence in milk, ghee — or *payaḥ* as water: the soma-juice and such, as the essence. **धीतिभिः** — *karmabhiḥ*: by acts such as sacrifice. **गन्धर्वस्य ध्रुवे पदे** — the commentator says the Gandharva's chief place is the *antarikṣa*, and quotes the Tāpanīya-śākhā text *yakṣagandharvāpsarogaṇasevitam antarikṣam* (Tai. Ā. [1-2] [?]). Or one may say it is the highest place served by Gandharvas [the world, *loka*]: by pious acts such as sacrifice, people reach the best places, the Gandharva-world and others, and there enjoy the best things of heaven and earth.
+### Pages 111–117 — Sūkta 22, Rik 15
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> स्योना पृथिवि भवानृक्षरा निवेशनी ।
+> यच्छा नः शर्म सप्रथः ॥ १५ ॥
+
+*syonā pṛthivi bhavānṛkṣarā niveśanī | yacchā naḥ śarma saprathaḥ || 15 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> स्योना । पृथिवि । भव । अनृक्षरा । निऽवेशनी ॥ यच्छ । नः । शर्म । सऽप्रथः ॥ १५ ॥
+
+*syonā | pṛthivi | bhava | anṛkṣarā | ni-veśanī || yaccha | naḥ | śarma | sa-prathaḥ || 15 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> स्योना पृथिवीत्येषा महानाम्नीव्रते भूमिस्पर्शने विनियुक्ता । एतद्विदं ब्रह्मचारिणमिति खण्डे सूत्रितम् । स्योना पृथिवि भवेति समाप्य (आ. ८-१४ [?]) इति ॥ स्मार्ते हेमन्तप्रत्यवरोहणेऽप्येषा जप्या । मार्गशीर्ष्यां प्रत्यवरोहणमिति खण्डे सूत्रितम् । तस्मिन्नुपविश्य स्योना पृथिवि भवेति जपित्वा (आ. गृ. २-३-६ [?]) इति ॥
+>
+> हे पृथिवि स्योना सुखा [?] इत्यादिगुणयुक्ता भव । स्योनशब्दो विस्तीर्णवाची । तथा च वाजसनेयिब्राह्मणे स्योनेनोपेतं कंचिन्मन्त्रमुदाहृत्य व्याख्यातम् — इन्द्र स्योरुमाविश स्योनः स्योनमिति विस्तीर्णो विस्तीर्णमित्येव तदाहेति । यद्वा स्योनशब्दः सुखवाची । तथा च यास्कवाक्यमुदाहरिष्यते । अनृक्षरा कण्टकरहिता । निवेशनी निवासस्थानभूता । सप्रथो विस्तारयुक्तं शर्म शरणं नोऽस्मभ्यं यच्छ । हे पृथिवि भवेति तामेतामृचमुदाहृत्य यास्क एवं व्याचष्टे — सुखा नः पृथिवि भवानृक्षरा निवेशन्यृक्षरः कण्टक ऋच्छतेः कण्टकः कंतपो वा कृन्ततेर्वा कण्टतेर्वा स्याद्गतिकर्मण उद्गततमो भवति यच्छ नः शर्म शरणं सर्वतः पृथु (नि. [९-३२] [?]) इति ॥
+
+*syonā pṛthivīty eṣā mahānāmnīvrate bhūmisparśane viniyuktā | etadvidaṃ brahmacāriṇam iti khaṇḍe sūtritam | syonā pṛthivi bhaveti samāpya (ā. 8-14 [?]) iti || smārte hemantapratyavarohaṇe 'py eṣā japyā | mārgaśīrṣyāṃ pratyavarohaṇam iti khaṇḍe sūtritam | tasminn upaviśya syonā pṛthivi bhaveti japitvā (ā. gṛ. 2-3-6 [?]) iti ||*
+*he pṛthivi syonā sukhā [?] ity ādiguṇayuktā bhava | syonaśabdo vistīrṇavācī | tathā ca vājasaneyibrāhmaṇe syonenopetaṃ kaṃcin mantram udāhṛtya vyākhyātam — indra syorum āviśa syonaḥ syonam iti vistīrṇo vistīrṇam ity eva tadāheti | yadvā syonaśabdaḥ sukhavācī | tathā ca yāskavākyam udāhariṣyate | anṛkṣarā kaṇṭakarahitā | niveśanī nivāsasthānabhūtā | sapratho vistārayuktaṃ śarma śaraṇaṃ no 'smabhyaṃ yaccha | he pṛthivi bhaveti tām etām ṛcam udāhṛtya yāska evaṃ vyācaṣṭe — sukhā naḥ pṛthivi bhavānṛkṣarā niveśany ṛkṣaraḥ kaṇṭaka ṛcchateḥ kaṇṭakaḥ kaṃtapo vā kṛntater vā kaṇṭater vā syād gatikarmaṇa udgatatamo bhavati yaccha naḥ śarma śaraṇaṃ sarvataḥ pṛthu (ni. [9-32] [?]) iti ||*
+
+**Translation:** "The rik *syonā pṛthivī* is applied in the *Mahānāmnī* vow at the touching of the earth: it is laid down in the section *etadvidaṃ brahmacāriṇam* — 'having finished [with the words] *syonā pṛthivi bhava*' (Āś. [8-14] [?]). In the domestic (*smārta*) rite of *hemanta-pratyavarohaṇa* [the 'descent' in winter] this rik is also to be muttered: in the section *mārgaśīrṣyāṃ pratyavarohaṇam* — 'sitting down there, having muttered *syonā pṛthivi bhava*' (Āś. Gṛ. [2-3-6] [?]). O Earth, be endowed with such qualities as *syonā*. The word *syona* means 'wide': so, in the Vājasaneyi-brāhmaṇa, citing some mantra containing the word, it explains *indra syorum āviśa* … 'wide' [?], 'it says [*syonaḥ* = ] wide.' Or *syona* means 'pleasant': so the words of Yāska will be cited. *Anṛkṣarā*: free from thorns. *Niveśanī*: being a dwelling-place. *Saprathaḥ*: give us, to us, wide shelter (*śarma*) — protection. Yāska explains this very rik thus: 'Be pleasant to us, O Earth; *anṛkṣarā* [thornless]: *ṛkṣara* is a thorn — derived from *ṛch* [to go], or [*kaṇṭaka*] from *kṛntati* [to cut] or *kaṇṭati*, a word meaning going, [i.e. what has gone up?]; ... give us shelter extending on every side' (Nirukta [9-32] [?])."
+
+*(Grammar pages 114–117, noted briefly: words treated are* syonā *[*sivu tantusantāne* + *na* by Uṇ. [3-6/3-46] with* ūṭh *and* yaṇ*, i.e. the formation from* siv *with *na*, the* ū *of* siv *changed to* yo*; accent; the sense 'ray or sun' from the Medinīkośa, and 'happiness' by Nirukta [?]; the vocative* pṛthivi *with the discussion of whether the vocative forms an* āmantrita *in P. 8-1-[?]*; the accent of* syonā *as a vocative — decided by the principle* samarthaḥ padavidhiḥ*],* anṛkṣarā *[*ṛṣī gatau* + *kṣaran* — Uṇ. [3-70] ; *ṛkṣara* = thorn; *nañ*-bahuvrīhi, accent on the last member by P. 6-2-172*],* niveśanī *[*ni* + *viś* + *lyuṭ* in the sense of place, P. 3-3-117; *yu* → *ana* P. 7-1-1; *ṅīp*/*ṅīṣ* by P. 4-1-15],* yaccha *[*dāṇ dāne* with the substitution *yaccha* by P. 7-3-78; *hi* → *luk*; accent],* saprathaḥ *[*pratha prakhyāne* + *asun*, Uṇ. 4-[?]; compound with *saha* → *sa*, by P. 6-3-82 *vopasarjanasya*; the long discussion on* upasarjana *is scholastic and is not reproduced]. Numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **पृथिवि (pṛthivi)** — O Earth | **स्योना (syonā)** — wide or pleasant | **भव (bhava)** — be | **नः (naḥ)** — to us | **अनृक्षरा (anṛkṣarā)** — free from thorns | **निवेशनी (niveśanī)** — a dwelling-place | **सप्रथः (saprathaḥ)** — wide | **शर्म (śarma)** — shelter | **यच्छ (yaccha)** — give.
+
+**॥ Bhāvārthaḥ ॥** O Goddess Earth! Be always wide and free from thorns, a dwelling-place for us, and give us wide shelter.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Earth, give us extensive abode free from thorns; give us great happiness.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 113–115)* The applications of this rik are in both *śrauta* and *smārta* rites. In the *Mahānāmnī* vow [(*vrata*) a sacrifice] it is recited at the time of touching the earth; this is described in Āśvalāyana's Śrauta-sūtra, in the section *etadvidaṃ brahmacāriṇam*, in the sūtra ending *syonā pṛthivi bhaveti samāpya* (Āś. [8-14] [?]). In the domestic rites it is muttered in the rite called *hemanta-pratyavarohaṇa*; described in Āśvalāyana's Gṛhya-sūtra, in the section *mārgaśīrṣyāṃ pratyavarohaṇam* ('on the full moon of Mārgaśīrṣa...') by the sūtra *tasminn upaviśya syonā pṛthivi bhaveti japitvā* (Āś. Gṛ. [2-3-6] [?]).
+
+**स्योना** — the commentator says that this word shows two senses: 'wide' or 'pleasant'; for the sense 'wide' he cites the Vājasaneya-brāhmaṇa passage *indra syorum āviśa syonaḥ syonam iti vistīrṇo vistīrṇam ity eva tadāha*. For the other sense the explanation given by Yāska is cited — [the passage quoted above]. By this Nirukta explanation: *syonā* = *sukhā*; *anṛkṣarā* = *niṣkaṇṭakā*; *niveśanī* = *nivāsayogyā*; *śarma* = *sukham*; *saprathaḥ* = *sarvataḥ pṛthu*. That is, the Earth is prayed to give us a dwelling that is pleasant, free from thorns (free from obstacles), suitable to live in, and happiness.
+
+**अनृक्षरा** — *akṣara* means '*ṛkṣara*' from *ṛṣī gatau*, i.e. from *ṛcchati* 'it goes'; a thorn, an obstacle: *kaṇṭaka* [that which goes against; pierces], *bādhā*. *Anṛkṣarā* means without such obstacles, free from thorns.
+
+---
+
+### Pages 117–122 — Sūkta 22, Rik 16 *(the Viṣṇu riks begin here)*
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे ।
+> पृथिव्याः सप्त धामभिः ॥ १६ ॥
+
+*Ato devā avantu no yato viṣṇur vicakrame | pṛthivyāḥ sapta dhāmabhiḥ || 16 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अतः । देवाः । अवन्तु । नः । यतः । विष्णुः । विऽचक्रमे ॥ पृथिव्याः । सप्त । धामऽभिः ॥ १६ ॥
+
+*ataḥ | devāḥ | avantu | naḥ | yataḥ | viṣṇuḥ | vi-cakrame || pṛthivyāḥ | sapta | dhāma-bhiḥ || 16 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 117–118; the citations of sūtra numerals are read with some doubt)*
+
+> प्रातःसवने सोमातिरेके एकं शस्त्रं शंसनीयम् । अत्रातो देवा इत्याद्याः षडृचः । सोमातिरेक इति खण्डे सूत्रितम् — महाँ इन्द्रो य ओजसा … अतो देवा अवन्तु न इत्यैन्द्रीर्वैष्णवीर्वीभिष्टिभिः [?] (आ. ६-२ [?]) इति । आप्र्योर्म [?] … अच्छावाकातिरिक्तोक्थ्ये चैताः षडृचः स्तोत्रियानुरूपार्थाः । तथा च यस्य पशव इति खण्डे सूत्रितम् — अतो देवा अवन्तु न इति स्तोत्रियानुरूपौ (आ. ६-११ [?]) इति ॥ दर्शपूर्णमासयोः प्रायश्चित्तहोमेऽस्याद्ये विनियुक्ते । तस्यैव वेदं पत्न्या इति खण्डे सूत्रितम् — अतो देवा अवन्तु न इति द्वाभ्यां व्याहृतिभिश्च (आ. १-११ [?]) इति ॥ याज्यानुवाक्ययोर्मध्ये लौकिकभाषणे ऽतो देवा इत्येषा जप्या । सूत्रितं हि — आपद्यतो देवा अवन्तु न इति जपेत् (आ. १-[५] [?]) इति ॥
+>
+> विष्णुः परमेश्वरः सप्तधामभिः सप्तभिर्गायत्र्यादिभिश्छन्दोभिः साधनभूतैर्यतः पृथिव्या यस्माद्भूप्रदेशाद्विचक्रमे । विविधं पादक्रमणं कृतवान् अतोऽस्मात्पृथिवीप्रदेशान्नोऽस्मान्देवा अवन्तु । विष्णोः पृथिव्यादिलोकेषु च्छन्दोभिः साधनभूतैर्जयं [?] त्रैत्तिरीया आमनन्ति — विष्णुमुखा वै देवाश्छन्दोभिरिमाँल्लोकानपजय्यमभ्यजयन् (तै. सं. [?]) इति । विष्णोस्त्रिविक्रमावतारे पादत्रयक्रमणस्य … पृथिवीप्रदेशाद्वीक्षणं नाम भूलोके वर्तमानानां पापनिवारणम् [?] ॥
+
+*prātaḥsavane somātireke ekaṃ śastraṃ śaṃsanīyam | atrāto devā ity ādyāḥ ṣaḍṛcaḥ | somātireka iti khaṇḍe sūtritam — mahāṃ indro ya ojasā … ato devā avantu na ity aindrīr vaiṣṇavīr vībhiṣṭibhiḥ [?] (ā. 6-2 [?]) iti | … acchāvākātiriktokthye caitāḥ ṣaḍṛcaḥ stotriyānurūpārthāḥ | tathā ca yasya paśava iti khaṇḍe sūtritam — ato devā avantu na iti stotriyānurūpau (ā. 6-11 [?]) iti || darśapūrṇamāsayoḥ prāyaścittahome 'syādye viniyukte | tasyaiva vedaṃ patnyā iti khaṇḍe sūtritam — ato devā avantu na iti dvābhyāṃ vyāhṛtibhiś ca (ā. 1-11 [?]) iti || yājyānuvākyayor madhye laukikabhāṣaṇe 'to devā ity eṣā japyā | sūtritaṃ hi — āpadyato devā avantu na iti japet (ā. 1-[5] [?]) iti ||*
+*viṣṇuḥ parameśvaraḥ saptadhāmabhiḥ saptabhir gāyatryādibhiś chandobhiḥ sādhanabhūtair yataḥ pṛthivyā yasmād bhūpradeśād vicakrame | vividhaṃ pādakramaṇaṃ kṛtavān ato 'smāt pṛthivīpradeśān no 'smān devā avantu | viṣṇoḥ pṛthivyādilokeṣu cchandobhiḥ sādhanabhūtair jayaṃ [?] taittirīyā āmananti — viṣṇumukhā vai devāś chandobhir imāṃl lokān apajayyam abhyajayan (tai. saṃ. [?]) iti | viṣṇos trivikramāvatāre pādatrayakramaṇasya … pṛthivīpradeśād vīkṣaṇaṃ nāma bhūloke vartamānānāṃ pāpanivāraṇam [?] ||*
+
+**Translation:** "In the morning pressing, at the *somātireka* [the extra Soma offering], one *śastra* is to be recited; here the six riks beginning *ato devā* are used. It is laid down in Āśvalāyana in the section *somātireka* [the Indra–Viṣṇu riks, with *mahāṃ indro ya ojasā* (Ṛ. 8-6-1)] (Āś. [6-2] [?]); and these six riks serve as *stotriya* and *anurūpa* in the *ukthya* [offering] with the *acchāvāka*; in the section *yasya paśavaḥ*: '*ato devā avantu na* as the *stotriya* and *anurūpa*' (Āś. [6-11] [?]). In the expiatory (*prāyaścitta*) oblations of the new- and full-moon sacrifices the first two of these riks are used; in the section *vedaṃ patnyai*: '*ato devā avantu na* with two [riks] and the *vyāhṛtis*' (Āś. [1-11] [?]). Between the *yājyā* and the *anuvākyā*, if a worldly word is spoken, the rik *ato devā avantu na* is to be muttered; for it is laid down: 'in distress he mutters *ato devā avantu na*' (Āś. [1-5] [?]).
+
+"Viṣṇu, the Supreme Lord, strode forth with seven *dhāmans* — the seven metres, Gāyatrī and the rest, as means — from whichever region (*pradeśa*) of the earth. He did a manifold stepping. Therefore, from that region of the earth, may the gods protect us. As to the conquest of the worlds, earth and the rest, by Viṣṇu with the metres as means, the Taittirīyas read: 'The gods, with Viṣṇu at their head, conquered these worlds by the metres, [conquering] what could not be taken back' (Tai. Saṃ. [?]). In Viṣṇu's Trivikrama incarnation, the stepping of the three steps … the 'looking' [?] at the region of the earth is the removal of sin for those who live on the earth [the last sentence is read doubtfully]." *(Grammar pages 120–122, noted briefly: the words treated are* ataḥ *[*itaḥ*-type formation: *tasil* in the fifth-case sense after* etad*, P. 5-3-7; *etado 'ś* (P. 5-3-[3/5]) substituting* a*, the accent from the *l*-it; the long note on whether the print should read* eta/ita*],* yataḥ *[*yad* + *tasil*, P. 5-3-7; the suffix in the rank of a case-ending by P. 5-3-1;* yad *→* ya*, P. 6-1-[?]],* viṣṇuḥ *[*viṣ vyāptau*, Uṇ. 3-[?] *viśer kic ca*, *nu*; no guṇa since* kit; *ādyudātta* by* nit*],* vicakrame *[*su-pā* compound of *vi* with the verb by the sūtra *sup sup/ supā* … *sahasupā*, P. 2-1-4; accent as the compound's final;* yatas *causes the verb to remain accented—no* nighāta*],* sapta *[*bhis* → *luk* by P. 7-1-39 *supāṃ suluk*],* dhāmabhiḥ *[*ḍudhāñ dhāraṇapoṣaṇayoḥ* + *manin*, P. 3-2-75 *ātomanin-kvanip-vanipaś ca*; accent; loss of* n*, P. 8-2-7]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **यतः (yataḥ)** — from which | **पृथिव्याः (pṛthivyāḥ)** — from the earth | **विष्णुः (viṣṇuḥ)** — Viṣṇu | **सप्तभिः (saptabhiḥ)** — with seven | **धामभिः (dhāmabhiḥ)** — with the metres Gāyatrī etc. | **विचक्रमे (vicakrame)** — strode out | **अतः (ataḥ)** — from that [region of] earth | **देवाः (devāḥ)** — the gods | **नः (naḥ)** — us | **अवन्तु (avantu)** — may protect.
+
+**॥ Bhāvārthaḥ ॥** From that region of the earth whence Viṣṇu, taking the form of Trivikrama, strode forth, aided by the seven metres Gāyatrī and the rest — may the gods protect us who live in that region.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> May the gods protect us from that portion of the earth whence Vishnu put his steps aided by seven meters.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 118–120)* **Applications.** This mantra is used in four ways. (i) In the *somātireka* [the 'extra' Soma] rite, which follows the Soma-pressing of the morning [*prātaḥsavana*, after the *somābhiṣava*], this rik is used as a *śastra* mantra; this is described in Āśvalāyana's Śrauta-sūtra, section *somātireka*, in the sūtra containing *mahāṃ indro ya ojasā* (Ṛ. Saṃ. 8-6-1) and *ato devā avantu naḥ* (Ṛ. Saṃ. 1-22-16) with [the Indra–Viṣṇu hymn] (Āś. [6-2] [?]). (ii) In the recitation of the *ukthya* mantras in the Soma sacrifice called *Āpryo[rmā] …* [name uncertain] where the *acchāvāka* priest officiates, the six riks beginning *ato devā* are to be used as *stotriya-anurūpa* mantras; so says the sūtra *yasya paśavaḥ … ato devā avantu na iti stotriyānurūpau* (Āś. [6-11]). (iii) In the expiatory *homa* of the Darśa-pūrṇamāsa sacrifices the first two riks of this hymn are used; stated in the sūtra *ato devā avantu na iti dvābhyāṃ vyāhṛtibhiś ca* in the section *vedaṃ patnyai* (Āś. [1-11]). (iv) If, between the reciting of the *yājyā* and *puro-'nuvākyā*, some worldly speech has been uttered, this rik is to be muttered as an expiatory mantra, says the sūtra *āpadyato devā avantu na iti japet* (Āś. [1-5]).
+
+**Viṣṇu.** In this rik Viṣṇu is mentioned for the first time. Viṣṇu's pre-eminence is great in the Purāṇas and in the later Vedic-auxiliary [*Vedāṅga*] books, but in the Ṛgveda there are only five hymns [*sūktas*] in praise of Viṣṇu. Yet in many places his name is mentioned together with other deities, chiefly with Indra. His chief prowess is described as the *three steps*, which are in heaven, *antarikṣa* and earth; the place called *parama-pada* is also counted as the highest. In the Ṛgveda Viṣṇu's connection with Indra is especially close; when Indra slays Vṛtra he seeks the help of Viṣṇu. In the Yajurveda Viṣṇu is described in many ways — as lord of sacrifice and of the mountains, as the form of sacrifice, as the leader (*Leader*) of all the gods. The commentator takes the word *viṣṇu* in this rik as Parameśvara, because Yāska says:
+
+> विष्णुः । अथ यद्विषितो भवति तद्विष्णुर्भवति । विष्णुर्विशतेर्वा व्यश्नोतेर्वा ॥ (नि. [१२-१८] [?])
+
+*viṣṇuḥ | atha yad viṣito bhavati tad viṣṇur bhavati | viṣṇur viśater vā vyaśnoter vā ||* — "Viṣṇu: since he is spread out (*viṣita*) he is Viṣṇu; or Viṣṇu is from *viś* 'to enter' or from *vy-aś* 'to pervade'" (Nirukta [12-18] [?]) — because he pervades everything, or enters and pervades all things, or pervades all by rays; hence he may be called Viṣṇu, 'even the Āditya'. **विचक्रमे** — *vividhaṃ pādakramaṇaṃ kṛtavān*: he measured out the regions of the worlds, earth and the rest, by his strides in many ways. **सप्त धामभिः** — *dhāma* means place; the commentator takes *dhāma* as *chandas* ['seven metres, Gāyatrī and the rest']; if it is taken of the Āditya, 'seven rays' (or 'seven horses'). In the Taittirīya Saṃhitā: *viṣṇumukhā vai devāś chandobhir imāṃl lokān anapajayyam abhyajayan* (Tai. Saṃ. [3-2-1-1?] [?]) — the gods, with Viṣṇu in front, by the help of the metres conquered the worlds. In the Purāṇas, Viṣṇu in his Trivikrama [Vāmana] incarnation is said to have taken from the Daityas, in three strides, the earth and *antarikṣa* they had seized, and given them back to the gods; the author asks that it be noted that such Purāṇic *upākhyānas* have as their root the briefer descriptions found in the Veda.
+
+---
+
+### Pages 122–128 — Sūkta 22, Rik 17
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> इदं विष्णुर्वि चक्रमे त्रेधा नि दधे पदम् ।
+> समूळ्हमस्य पांसुरे ॥ १७ ॥
+
+*idaṃ viṣṇur vi cakrame tredhā ni dadhe padam | samūḷham asya pāṃsure || 17 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> इदम् । विष्णुः । वि । चक्रमे । त्रेधा । नि । दधे । पदम् ॥ सम्ऽऊळ्हम् । अस्य । पांसुरे ॥ १७ ॥
+
+*idam | viṣṇuḥ | vi | cakrame | tredhā | ni | dadhe | padam || sam-ūḷham | asya | pāṃsure || 17 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 122–123)*
+
+> वैष्णवोपांशुयाजस्येदं विष्णुरित्येषानुवाक्या । उक्ता देवतेति खण्डे सूत्रितम् — इदं विष्णुर्वि चक्रमे त्रिर्देवः पृथिवीमेष एताम् (आ. १-६) इति ॥ गार्हपत्याहवनीययोर्मध्ये श्वातिक्रमेणान्येन वा कृष्णदेशे [?] भस्म प्रक्षिपेत् । विध्वपराध इति खण्डे सूत्रितम् — भस्मना शुनः पदं प्रतिवपेदिदं विष्णुर्वि चक्रमे (आ. ३-१०) इति ॥ आतिथ्यायां प्रधानस्य हविष इदं विष्णुर्वि चक्रमे इति पुरोनुवाक्या । अथातिथ्येलान्तेति [?] खण्डे सूत्रितम् — इदं विष्णुर्वि चक्रमे तदस्य प्रियमभि पाथो अश्याम् (आ. ४-३) इति ॥ उपसत्सु वैष्णवस्यैव हविषोऽनुवाक्या । अथोपसदिति खण्डे सूत्रितम् — गयस्फानो अमीवहा वेदं विष्णुर्वि चक्रमे (आ. ४-८) इति ॥
+>
+> विष्णुस्त्रिविक्रमावतारधार्येदं प्रतीयमानं सर्वं जगदुद्दिश्य वि चक्रमे । विशेषेण क्रमणं कृतवान् । तदा त्रेधा त्रिभिः प्रकारैः पदं नि दधे । स्वकीयं पादं प्रक्षिप्तवान् । अस्य विष्णोः पांसुरे धूलियुक्ते पादस्थाने समूळ्हमिदं सर्वं जगदन्तर्भूतम् । सेयमृग्याकपूणिना [?] एवं व्याख्याता —
+>
+> विष्णुर्विशतेर्वा व्यश्नोतेर्वा । यदिदं किंच तद्विक्रमते विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः । समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः । समूळ्हमस्य पांसुरेऽप्यायनेऽन्तरिक्षे पदं न दृश्यतेऽपि वोपमार्थे स्यात् समूळ्हमस्य पांसुल इव पदं न दृश्यत इति । पांसवः पादैः सूयन्त इति वा पन्नाः शेरत इति वा पिंसनीया भवन्तीति वा (नि. १२-१९)।
+>
+> इत्येवमादि … (grammar lines follow: *त्रेधा* पा. ५-३-४५ [?]; *समूळ्हम्* वह प्रापणे; *पांसुरे* नगपांसुपाण्डुभ्य इति वक्तव्यम्, का. ५-२-१०७ [?]).
+
+*vaiṣṇavopāṃśuyājasyedaṃ viṣṇur ity eṣānuvākyā | uktā devateti khaṇḍe sūtritam — idaṃ viṣṇur vi cakrame trir devaḥ pṛthivīm eṣa etām (ā. 1-6) iti || gārhapatyāhavanīyayor madhye śvātikrameṇānyena vā kṛṣṇadeśe [?] bhasma prakṣipet | vidhvaparādha iti khaṇḍe sūtritam — bhasmanā śunaḥ padaṃ prativaped idaṃ viṣṇur vi cakrame (ā. 3-10) iti || ātithyāyāṃ pradhānasya haviṣa idaṃ viṣṇur vi cakrame iti puro-'nuvākyā | athātithyelānteti [?] khaṇḍe sūtritam — idaṃ viṣṇur vi cakrame tad asya priyam abhi pātho aśyām (ā. 4-3) iti || upasatsu vaiṣṇavasyaiva haviṣo 'nuvākyā | athopasad iti khaṇḍe sūtritam — gayasphāno amīvahā vedaṃ viṣṇur vi cakrame (ā. 4-8) iti ||*
+*viṣṇus trivikramāvatāradhāry [?] edaṃ pratīyamānaṃ sarvaṃ jagad uddiśya vi cakrame | viśeṣeṇa kramaṇaṃ kṛtavān | tadā tredhā tribhiḥ prakāraiḥ padaṃ ni dadhe | svakīyaṃ pādaṃ prakṣiptavān | asya viṣṇoḥ pāṃsure dhūliyukte pādasthāne samūḷham idaṃ sarvaṃ jagad antarbhūtam | seyam ṛg ākapūṇinā [?] evaṃ vyākhyātā —*
+*viṣṇur viśater vā vyaśnoter vā | yad idaṃ kiṃ ca tad vikramate viṣṇus tridhā nidhatte padaṃ tredhābhāvāya pṛthivyām antarikṣe divīti śākapūṇiḥ | samārohaṇe viṣṇupade gayaśirasīty aurṇavābhaḥ | samūḷham asya pāṃsure 'py āyane 'ntarikṣe padaṃ na dṛśyate 'pi vopamārthe syāt samūḷham asya pāṃsula iva padaṃ na dṛśyata iti | pāṃsavaḥ pādaiḥ sūyanta iti vā pannāḥ śerata iti vā piṃsanīyā bhavantīti vā (ni. 12-19) |*
+
+**Translation:** "The rik *idaṃ viṣṇur vi cakrame* is the *anuvākyā* for the *Vaiṣṇava upāṃśuyāja*; so it is laid down in the section *uktā devatā* — '*idaṃ viṣṇur vi cakrame*, … (Āś. [1-6])'. [If a dog passes] between the Gārhapatya and the Āhavanīya, ashes are thrown on the place where it stood; in the section *vidhvaparādha*: 'with the ashes he should cover the dog's footprint with *idaṃ viṣṇur vi cakrame*' (Āś. [3-10]). In the Ātithyā [rite] it is the *puro-'nuvākyā* of the chief oblation: the section *athātithyā…* — '*idaṃ viṣṇur vi cakrame tad asya priyam abhi pātho aśyām*' (Āś. [4-3]). In the *Upasads* it is the *anuvākyā* of the Viṣṇu oblation: '*gayasphāno amīvahā* [Ṛ. 1-?-?] and *idaṃ viṣṇur vi cakrame*' (Āś. [4-8]).
+
+"Viṣṇu, who took the Trivikrama form, strode forth looking at all this manifest world: he took a special stride. Then he set his foot in threefold manner (*tredhā*) — he cast down his own foot. In the dust (*pāṃsure*) of this Viṣṇu — in the dusty foot-place — all this world has been contained, collected (*samūḷham*). This rik is explained thus [by the Nirukta]: 'Viṣṇu is from *viś* or from *vy-aś*. All that is here he strides over; Viṣṇu places his foot threefold — for the threefold state: on earth, in the air, in the sky — says Śākapūṇi. At the rising place, at the Viṣṇu-pada (zenith), at Gayaśiras (the setting place) — says Aurṇavābha. *Samūḷham asya pāṃsure*: in the dusty region (*antarikṣa*) his foot is not seen, or [the phrase] may be a simile: his foot is not seen, as if in a dusty place. *Pāṃsavaḥ* are what 'are born from the feet' (*pādaiḥ sūyante*), or those which 'lie fallen' (*pannāḥ śerate*), or those that 'are to be ground' (*piṃsanīyā bhavanti*)' (Nirukta [12-19])." *(The opening of the second paragraph of the bhāṣya is read with doubt; the sūtra numerals from Āśvalāyana are marked as printed.)* *(Grammar pages 127–128, noted briefly: the words treated are* tredhā *[*tri* + *dhā* with *edhāc* — P. 5-3-45 *saṃkhyāyā vidhārthe dhā*, 5-3-46 *edhāc ca*; loss of the* i *of* tri*; the accent on the last syllable],* samūḷham *[*vah prāpaṇe* + *kta* by P. 3-2-102 *niṣṭhā*; samprasāraṇa* va → u *by P. 6-1-15 *vacisvapiyajādīnāṃ kiti*; the change of* ha *to* ḍha *(P. 8-2-31 *hodhaḥ*), of* ta *to* dha *(P. 8-2-40), the loss of* dh *(P. 8-3-13) and the compensatory lengthening of the preceding vowel (P. 6-3-111), with the Pāṇinian-school statement of the replacement of* ḍ *by* ḷ*; accent],* asya *[*idam* → *a* by P. 2-4-32 / 7-1-[?], accent by P. 6-1-[?]],* pāṃsure *[*uśi kuśi mukṣi madhoḥ*? — the Vārttikakāra's* nagāc ca *and the Kāśikā's *nagapāṃsupāṇḍubhya iti vaktavyam* (Kāś. 5-2-107): the suffix *ra* after* pāṃsu *in the sense of 'having'; accent on the first syllable; locative singular]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **विष्णुः (viṣṇuḥ)** — Viṣṇu [in the Trivikrama form] | **इदम् (idam)** — this whole world | **विचक्रमे (vicakrame)** — strode especially | **त्रेधा (tredhā)** — in three ways | **पदम् (padam)** — the foot-placing | **निदधे (nidadhe)** — placed | **अस्य (asya)** — of this Viṣṇu | **पांसुरे (pāṃsure)** — in the dusty place of the foot | **समूळ्हम् (samūḷham)** — [this whole world] was contained [absorbed].
+
+**॥ Bhāvārthaḥ ॥** Viṣṇu [in the Trivikrama incarnation] strode through this whole world with three strides; in the dust of his foot-place this world was swallowed up and became unseen.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Vishnu traversed this universe; three times he planted his foot and the whole universe was collected in the dust of his footsteps.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 124–126)* **Applications.** In the *upāṃśuyāja* sacrifice connected with Viṣṇu, the riks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *trir devaḥ pṛthivīm eṣa etām* (Ṛ. Saṃ. [6-100-3?]) are to be used as the *puro-'nuvākyā* and *yājyā*; so says the section *uktā devatā* of Āśvalāyana's Śrauta-sūtra (Āś. [1-6]), whence this rik *idaṃ viṣṇur vi cakrame* is the *puro-'nuvākyā* mantra. When a dog passes between the Gārhapatya and Āhavanīya fires, installed in the sacrifice, ashes are to be thrown on the place where the dog stood with the mantra *idaṃ viṣṇur vi cakrame*, as the section *vidhvaparādha* says (Āś. [3-10]). And in the *ātithyā* offering, when the principal (or chief) oblation of ghee is offered, this very rik is the *puro-'nuvākyā*: Āś. [4-3] says the riks *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) and *tad asya priyam abhi pātho aśyām* (Ṛ. Saṃ. [1-154-5]) are to be used as *puro-'nuvākyā* and *yājyā*. *Ātithya* means the hospitality to Soma [when Soma is brought in the Soma sacrifice; Soma is the 'king', and the seven metres, Gāyatrī etc., are his attendants (retinue)]; the practice is to offer *homa* to please the metres, so that hospitality is shown to the king and to his retinue. On this the Taittirīya Saṃhitā of the Yajurveda says:
+
+> यावद्वै राजानुचर्या [?] आगच्छन्ति सर्वेभ्यो वै तेभ्य आतिथ्यं क्रियते । छन्दांसि खलु वै सोमस्य राज्ञोऽनुचराण्यग्नेरातिथ्यमसि विष्णवे त्वेत्याह गायत्रिया विवेयेन [?] करोति सोमस्यातिथ्यमसि विष्णवे त्वेत्याह त्रिष्टुभा … ॥ [Tai. Saṃ. — reading of many words doubtful]
+
+*yāvad vai rājānucaryā [?] āgacchanti sarvebhyo vai tebhya ātithyaṃ kriyate | chandāṃsi khalu vai somasya rājño 'nucarāṇy agner ātithyam asi viṣṇave tvety āha gāyatriyā viveyena [?] karoti somasyātithyam asi viṣṇave tvety āha triṣṭubhā … ||* — "As many as the king's followers who come, to all of them hospitality is done; the metres are the attendants of King Soma. 'Thou art the hospitality of Agni, to Viṣṇu thee' he says, and does it with the Gāyatrī …, 'Thou art the hospitality of Soma …' with the Triṣṭubh …" *(my paraphrase; the Sanskrit, with the later formulas in the Jagatī, Anuṣṭubh and Gāyatrī, is badly crowded in the print and is given only as far as it could be read.)* In these *homas* Viṣṇu is the chief deity. Likewise in the *upasad* homa the riks *gayasphāno amīvahā* (Ṛ. Saṃ. [1-91-12]) and *idaṃ viṣṇur vi cakrame* (Ṛ. Saṃ. 1-22-17) are to be used as *yājyā* and *puro-'nuvākyā*; so says the section *athopasad* in Āśvalāyana (Āś. [4-8]). Such is the application of this rik; and in the domestic (*gṛhya*) rites, in the *svārtha* applications [for one's own purposes] and so on, it is customary to use this rik when mantras connected with Viṣṇu are recited.
+
+**Yāska's explanation.** The sage Yāska explains this rik in the Nirukta [quoted above], which means: 'When the Sun fills everything with his rays, he is called Viṣṇu; or, by entering everything with his rays, Viṣṇu; or, by pervading everything exceedingly, with his rays and shining, the Āditya is called Viṣṇu.' [The Sanskrit of this commentary — *yadā viṣitaḥ vyāpto 'yam eva sūryo raśmibhir bhavati tadā viṣṇur bhavati | viśater vā yadā viṣṭaḥ praviṣṭaḥ sarvato raśmibhir bhavati tadā viṣṇur bhavati | vyaśnoter vā … yadā raśmibhir atiśayenāyaṃ vyāpto bhavati vyāpnoti vā raśmibhir ayaṃ sarvaṃ tadā viṣṇur āditya|ḥ — is printed in the source.] Then, for *this* rik, according to Śākapūṇi: 'Viṣṇu (the Āditya) places three steps in order to divide this world into three parts — earth, *antarikṣa*, heaven; that is, he appears in three ways: through the rays on earth, through the lightning in the *antarikṣa*, and through the orb of the sun in heaven.' Aurṇavābha's view: 'the Sun is seen at sunrise on the mountain of rising (*samārohaṇa*), at midday in the *antarikṣa* (*Viṣṇupada*), and at evening on the setting mountain (*gayaśiras*)'; that, he says, is the sense of *tredhā nidadhe padam*. *Samūḷham asya pāṃsure* — in the *antarikṣa* at midday the foot [of the Sun] is never seen [on account of the heat, the glare of lightning…]; or [if the phrase is a simile], 'as one cannot see a thing that is lost in dust'. For *pāṃsu* the derivation is: *pādyaiḥ sūyante janyante* — 'that which is produced from the feet'; or *pannāḥ śerate* — 'what lies fallen'; or *piṃsanīyāḥ dhvaṃsanīyāḥ* — 'what is to be crushed or ground' — hence the dust of the feet is called *pāṃsura*.
+
+All the above is from Yāska's explanations. In the Purāṇas Viṣṇu holds a special place of importance: since he pervades the whole universe, he is called Parameśvara and Parabrahman; and among the Trimūrti — Brahmā, Viṣṇu, Maheśvara — who carry on the creation, preservation and dissolution of the universe, Viṣṇu is known as its protector. For the purpose of protecting the world he has taken many incarnations; one of these, the Vāmana or Trivikrama incarnation, is described in this rik, according to the commentator and other Indian pandits. But Western and modern scholars hold that, since Viṣṇu's incarnations are not specified in the Ṛgveda, and since the deities seen in the Veda are described in the Purāṇas in a different, elaborate fashion — the Veda being the root of the Purāṇic tales — it is not right to fit the incarnations of the Purāṇas on to the Vedic mantras. *According to the Purāṇic story:* while the asura Bali-cakravartī, having conquered the gods, ruled the kingdom, the defeated gods took refuge with Viṣṇu; to protect them, Viṣṇu took the Vāmana incarnation, came to Bali as he was performing a sacrifice, and begged three paces of land; Bali agreed. Then Vāmana took the Trivikrama form, so huge that with one foot he covered the earth, with a second the *antarikṣa*; and asked where the third foot should go. Bali, true to his word, bade him place it on his own head. The Trivikrama placed his third foot on Bali's head, sent him to Pātāla, and having granted him a boon he asked for, made him live there in happiness as king. *(The author gives the story at length.)*
+
+---
+
+**Progress note — printed page 128 reached; Sūkta 22 in progress (Riks 1–17 done of 21).**
+
+**This batch:** Riks 15, 16 and 17 of Sūkta 22 (printed pp. 111–128; Riks 16–21 are the Viṣṇu riks). Grammar pages given as short notes.
+
+**Next task:** continue Sūkta 22 at Rik 18 (*trīṇi padā vi cakrame viṣṇur gopā adābhyaḥ | ato dharmāṇi dhārayan*; Saṃhitā on printed p. 128, PDF page 143; its Prati-padārtha etc. on p. 129); Riks 19–21 follow; Sūkta 22 runs to printed p. 140; Sūkta 23 begins at p. 141 (PDF page 156).
+
+**Open flags:** Āśvalāyana/Nirukta/Ṛgveda numerals in the Rik 16–17 notes are marked [?] where uncertain; the Taittirīya-Saṃhitā ātithya passage (Rik 17) is only partly legible; sentence on *pṛthivīpradeśād vīkṣaṇam* (Rik 16) doubtful.
