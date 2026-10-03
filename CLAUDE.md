@@ -13,8 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 610**: **Sūkta 14** of Maṇḍala 1 ("aibhir agne duvo giraḥ", to the Viśvedevas; twelve Riks) is in
-progress — Riks 1–7 done; the file is contiguous from p. 1. **Next task: continue Sūkta 14 at the end of Rik 7 grammar / Rik 8, printed page 610–611** (PDF page 625–626); the table of contents lists the sūkta as "babhrur agne" and puts Sūkta 15 at p. 626. The tail of
+Through **printed page 626 (upper half)**, which closes **Sūkta 14** of Maṇḍala 1 ("aibhir agne duvo giraḥ", to the Viśvedevas; twelve
+Riks); the file is contiguous from p. 1. **Next task: begin Sūkta 15 ("indra somaṃ piba", to the Ṛtus) at printed page 626, lower half**
+(PDF page 641); the table of contents puts it at p. 626. The tail of
 the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
