@@ -13,8 +13,7 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 782**, which closes **Sūkta 18** of Maṇḍala 1 ("somānaṃ svaraṇaṃ kṛṇuhi", to Brahmaṇaspati and Sadasaspati; nine Riks); the file is
-contiguous from p. 1. **Next task: begin Sūkta 19 at printed page 783** (PDF page 798; the last sūkta of this volume — check the table of contents for its incipit). The tail of
+**Volume 2 is complete.** The file runs contiguously from p. 1 through printed page 808 — the last page of `Rig_Vol2.pdf` — closing **Sūkta 19** ("prati tyaṃ cārum adhvaram", to Agni and the Maruts; nine Riks), the colophon of Adhyāya 1 and the printer's imprint. **No further translation is pending in the source.** Possible follow-ups (only on request): clean up the older mid-file progress notes and the stray Cyrillic string on p. 29; reconcile varga numerals; compile a known-limitations appendix; outside expert review. The tail of
 the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
