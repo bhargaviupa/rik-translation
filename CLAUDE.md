@@ -11,8 +11,8 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūkta 20 ("ayaṃ devāya janmane", to the Ṛbhus; eight Riks) in progress — through printed page 23, Riks 1–5 done.**
-**Next task: continue Sūkta 20 at Rik 6 ("uta tyaṃ camasaṃ navaṃ"), Saṃhitā at the foot of printed p. 23 (PDF page 38; the bhāṣya is on p. 24, PDF 39).** Sūktas and their first
+Volume 3 translation is under way: **Sūkta 20 ("ayaṃ devāya janmane", to the Ṛbhus; eight Riks) in progress — through printed page 37, Riks 1–7 done.**
+**Next task: continue Sūkta 20 at Rik 8 (the last rik), at the head of printed p. 38 (PDF page 53).** Sūktas and their first
 pages: 20 p.1; 21 p.43; 22 p.63; 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
