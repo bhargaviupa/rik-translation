@@ -16,6 +16,28 @@ earlier sections.
 **Volume 2 is complete.** The file runs contiguously from p. 1 through printed page 808 — the last page of `Rig_Vol2.pdf` — closing **Sūkta 19** ("prati tyaṃ cārum adhvaram", to Agni and the Maruts; nine Riks), the colophon of Adhyāya 1 and the printer's imprint. **No further translation is pending in the source.** Possible follow-ups (only on request): clean up the older mid-file progress notes and the stray Cyrillic string on p. 29; reconcile varga numerals; compile a known-limitations appendix; outside expert review. The tail of
 the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
+## Starting the next volume (Volume 3 and later)
+
+Volume 2 is closed (see above). When the user supplies the next volume's PDF:
+
+1. **Confirm the basics first, before translating:** the PDF filename, its page count, the PDF-to-printed-page offset (view the first
+   pages: title page, preface, contents), and which sūktas/maṇḍala it covers (from its own table of contents). Then replace
+   "Source file / Output file" and "Current position" above with the new volume's values, and keep the Volume 2 files untouched.
+2. **New output file per volume**, e.g. `Rigveda_Samhita_Vol3_English_Translation.md`, append-only, with its own single trailing progress note.
+   Open it with a short header stating the volume, the source PDF, the first sūkta, and that conventions are carried over from Volumes 1–2.
+3. **All conventions in this file carry over unchanged** (three-layer Sanskrit, view each page before writing, [?] for doubtful readings and
+   numerals, the source's own English reproduced with [sic], grammar pages noted briefly). Re-check each new volume for changes in
+   print (script of the bhāṣya, accent marks, header layout) and record any change here rather than assuming.
+4. **Append-script safety (learned in Volume 2):** the helper that appends a section must (a) strip *only* the final "Progress note"
+   block (assert it lies within the last few thousand characters), (b) assert the file did not shrink, and (c) be followed by a check that
+   the file ends in exactly one full progress note. Never run `git checkout`/restore on the output file mid-session; work on a copy if a
+   repair is needed.
+5. **One session per sūkta** remains the cost-saving rule; each fresh session starts by reading this file and the last ~40 lines of the
+   current volume's output file.
+6. **Docx:** rebuild with the pandoc command above and check the Devanagari count matches the .md, when the user asks (or at the end of each sūkta, as has been the practice).
+7. **Carried-over unresolved items** (not blockers): old mid-file progress notes and a stray Cyrillic string in the Volume 2 file; varga numerals
+   unreconciled with colophons; a known-limitations appendix and outside expert review still wanted for Volumes 1–2.
+
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
 contents — before the Sanskrit commentary itself begins).
