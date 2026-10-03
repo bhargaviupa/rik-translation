@@ -13,11 +13,10 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 524**, which closes **Sūkta 12** of Maṇḍala 1 (twelve Riks); the file is contiguous from
-p. 1. **Next task: begin Sūkta 13 ("suśamiddho na ā vaha", an Āpri-sūkta) at printed page 525** (PDF page 540),
-from its heading. It is long (the table of contents puts Sūkta 14 at p. 584), so it will likely take more than one
-session. The tail of the output file has the progress note and the open flags — read the last ~40 lines before
-starting any new batch.
+Through **printed page 583**, which closes **Sūkta 13** of Maṇḍala 1 (twelve Riks, the second Āpri-sūkta); the file is
+contiguous from p. 1. **Next task: begin Sūkta 14 ("aibhir agne duvo giraḥ", to the Viśvedevas) at printed page 583,
+lower half** (PDF page 598); the table of contents lists it as "babhrur agne" and puts Sūkta 15 at p. 626. The tail of
+the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
