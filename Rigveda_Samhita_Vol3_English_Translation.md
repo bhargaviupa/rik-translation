@@ -2539,13 +2539,372 @@ and so on, with many examples. In the first prapāṭhaka [anuvāka] of the seco
 > And he has brought to me successively the six (seasons) connected with the drops of the Soma juice as a man repeatedly ploughs a field with bullocks for the sake of barley.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 195–196)* The sense of this rik is not well fitted together, and the simile too is not good. The purport may be: just as, for the sake of raising barley, farmers plough the earth step by step again and again, so [the six seasons] spring and the rest — may our soma sacrifices come step by step in those seasons. Since the seasons, spring and the rest, come round each year, a doubt of repetition arose; to raise barley the field must be ploughed repeatedly; so this simile may be given to suggest the idea of repetition. The word *ṣaṭ* in this rik means only the six seasons, as the commentator explains. **इन्दुभिः** — the drops of the soma-juice, i.e. the soma-juice; since the juice, being squeezed, falls drop by drop, it is customary to call it *indavaḥ* ('drops'). **गोभिः** — the word means 'with cattle', but here, according to the commentator and Skandasvāmin, it should be understood as 'with oxen, the means of agriculture'. **न** — this word is used here in the sense of comparison.
+### Pages 200–204 — Sūkta 23, Rik 16 *(the riks to the Waters, Āpaḥ, begin here)*
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> अम्बयो यन्त्यध्वभिर्जामयो अध्वरीयताम् ।
+> पृञ्चतीर्मधुना पयः ॥ १६ ॥
+
+*ambayo yanty adhvabhir jāmayo adhvarīyatām | pṛñcatīr madhunā payaḥ || 16 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अम्बयः । यन्ति । अध्वऽभिः । जामयः । अध्वरिऽयताम् ॥ पृञ्चतीः । मधुना । पयः ॥ १६ ॥
+
+*ambayaḥ | yanti | adhva-bhiḥ | jāmayaḥ | adhvari-yatām || pṛñcatīḥ | madhunā | payaḥ || 16 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 200; the opening ritual sentences are read with doubt)*
+
+> आपोनप्त्रीये [?] विकधनासूपानीतासु स्वयमनुगच्छन्नम्बय इति द्वे अनुब्रूयात् । तृतीययोपो देवीरित्यन्यै कधनासु [?] हविरर्थानां प्रविष्यासु स्वयमनुप्रविशेत् । तथैव सूत्रितम् — अम्बयो यन्त्यध्वभिरिति तिस्र उत्तमयानुप्रपद्येत [?] । आ. ३-१ [?] इति ॥
+>
+> अध्वरीयतामध्वरमात्मन इच्छतामस्माकमम्बयो मातृस्थानीया आपः । तथा च कौषीतकिब्राह्मणे समाम्नायते — अम्बयो यन्त्यध्वभिरित्यापो वा अम्बय इति । ता आपोऽध्वभिर्देवयजनमार्गैर्यन्ति गच्छन्ति । कीदृश्य आपः । जामयो हितकारिणो बन्धवः । तथा मधुना माधुर्यरसेन युक्तं पयः पृञ्चतीर्गवादिषु योजयन्त्यः ॥ अम्बयः । रबि लबि अबि शब्दे । एतस्मादचः इः (उ. ४-१३९ [?]) । इत्यादि प्रकरणे बाहुलकादिः [?] । प्रत्ययस्वरः । अध्वभिः । आदेर्धश्च (उ. ४-१३८ [?]) इति क्वनिप् । अद भक्षणे । धातोर्दकारस्य धकारः । क्वनिप्प्रत्ययः पित् । अनुदात्तौ सुप्पितौ (पा. ३-१-४) इत्यनुदात्तः । धातुस्वरः । जामयः । जमु अदने [?] । बाहुलकादिप्रत्ययः । अध्वरीयताम् । न विद्यते ध्वरो हिंसा यस्मिन्सोऽध्वरः । नञ्सुभ्याम् (पा. ६-२-१७२) इत्यन्तोदात्तः । अध्वरमात्मन इच्छन्तीत्यध्वरीयन्तः तेषामध्वरीयताम् ॥ पृञ्चतीः । पृची सम्पर्के । लटः शतृ । रुधादिभ्यः श्नम् । श्नसोरल्लोपः । आनुस्वारपरसवर्णौ । उगितश्चेति ङीप् । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । शतुरनुमो नद्यजादी इति ङीप उदात्तत्वम् ॥
+
+*āponaptrīye [?] vikadhanāsūpanītāsu svayam anugacchann ambaya iti dve anubrūyāt | tṛtīyayāpo devīr ity anyai kadhanāsu [?] haviḥarthānāṃ praviṣyāsu svayam anupraviśet | tathaiva sūtritam — ambayo yanty adhvabhir iti tisra uttamayānuprapadyeta [?] | ā. 3-1 [?] iti ||*
+*adhvarīyatām adhvaram ātmana icchatām asmākam ambayo mātṛsthānīyā āpaḥ | tathā ca kauṣītakibrāhmaṇe samāmnāyate — ambayo yanty adhvabhir ity āpo vā ambaya iti | tā āpo 'dhvabhir devayajanamārgair yanti gacchanti | kīdṛśya āpaḥ | jāmayo hitakāriṇo bandhavaḥ | tathā madhunā mādhuryarasena yuktaṃ payaḥ pṛñcatīr gavādiṣu yojayantyaḥ || ambayaḥ | rabi labi abi śabde | etasmād acaḥ iḥ (u. 4-139 [?]) | ity ādi prakaraṇe bāhulakād iḥ [?] | pratyayasvaraḥ | adhvabhiḥ | ader dhaś ca (u. 4-138 [?]) iti kvanip | ada bhakṣaṇe | dhātor dakārasya dhakāraḥ | kvanipratyayaḥ pit | anudāttau suppitau (pā. 3-1-4) ity anudāttaḥ | dhātusvaraḥ | jāmayaḥ | jamu adane [?] | bāhulakād ipratyayaḥ | adhvarīyatām | na vidyate dhvaro hiṃsā yasmin so 'dhvaraḥ | nañsubhyām (pā. 6-2-172) ity antodāttaḥ | adhvaram ātmana icchantīty adhvarīyantaḥ teṣām adhvarīyatām || pṛñcatīḥ | pṛcī samparke | laṭaḥ śatṛ | rudhādibhyaḥ śnam | śnasor allopaḥ | ānusvāraparasavarṇau | ugitaś ceti ṅīp | vā chandasīti pūrvasavarṇadīrghatvam | śaturanumo nadyajādī iti ṅīpa udāttatvam ||*
+
+**Translation:** "[Ritual use, read with doubt:] In the *Āponaptrīya* [?] … when [the waters] have been brought … he follows them and recites two [riks], *ambayaḥ* [etc.]; with the third, *āpo devīr* …, when [the waters] that are for the oblation are entering … he enters after them himself; so it is laid down: 'the three, *ambayo yanty adhvabhiḥ*, with the last he should approach' [?] (Āś. [3-1] [?]). *Adhvarīyatām*: of us who desire the sacrifice (*adhvara*) — *ambayaḥ*, the waters, who stand in the place of mothers. So the Kauṣītaki-brāhmaṇa says: '*ambayo yanty adhvabhiḥ* — the waters are *ambayaḥ*.' Those waters go (*yanti*) by the paths (*adhvabhiḥ*) — the paths to the place of the divine sacrifice. What are the waters like? *Jāmayaḥ*: kindly, [like] kinsmen; and *pṛñcatīḥ*: mixing milk (*payaḥ*) charged with the sweetness of honey (*madhunā*) — joining it to cows and the like." *(Grammar pages 201–204, noted briefly: the words treated are* ambayaḥ *[*rabi labi abi śabde*, a root *abi* 'to sound', with the Uṇādi suffix *i*; the accent of the suffix],* adhvabhiḥ *[*ada bhakṣaṇe*, *kvanip* by Uṇ. 4-[?] *ader dhaś ca* with *dh* for *d*; *pit*, hence the accent of the root],* jāmayaḥ *[*jamu adane* + *i*, by the *bāhulaka* rule],* adhvarīyatām *[*adhvara* + *kyac* in the sense of 'wishing for oneself', P. 3-1-8 *supa ātmanaḥ kyac* — with an extended argument on *ātmanaḥ* as a *ṣaṣṭhī-śeṣa*, then *śatṛ* for *laṭ*, P. 3-2-124, *śap* with accent rules; the question of whether *putra* etc. blocks *īkāra* (P. 7-4-35 *na chandasi putrasya*) — answered by the vārttika *aputrādīnām*; P. 6-4-148 *yasyeti ca*; the loss of the *a* of* adhvara *and the gen. plural in* ām*, with the *nuṭ* augment P. 6-4-3 *nāmi*, *śaturanumo nadyajādī* P. 6-1-173],* pṛñcatīḥ *[*pṛci sampārke* + *śatṛ*, *śnam* by P. 3-1-78 *rudhādibhyaḥ śnam*; *nalopa*; anusvāra and *parasavarṇa* by P. 8-3-24, 8-4-58; *ṅīp* by P. 4-1-6 *ugitaś ca*; the ending *jas* → lengthened by *vā chandasi* P. 6-1-106]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अध्वरीयताम् (adhvarīyatām)** — of us who look forward to performing the sacrifice | **जामयः (jāmayaḥ)** — doing good like kinsmen | **अम्बयः (ambayaḥ)** — in the form of mothers, the waters (the deities of water) | **पयः (payaḥ)** — [to] the milk of cows | **मधुना (madhunā)** — with sweetness | **पृञ्चतीः (pṛñcatīḥ)** — mixing | **अध्वभिः (adhvabhiḥ)** — by the paths to the place of divine sacrifice | **यन्ति (yanti)** — flow.
+
+**॥ Bhāvārthaḥ ॥** The waters (milk) are like mothers to us who look forward to the sacrifice; they do good like kinsmen; they give sweetness to the milk of cows. Such waters flow along our paths.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> The Sacred waters (dear mothers) of the Sacrificers are flowing by the way mixing the milk (of cows) with sweetness.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 201–202)* **अम्बयः** — in the Kauṣītaki-brāhmaṇa the meaning of the word *ambaya* is given as 'waters': *ambayo yanty adhvabhir ity āpo vā ambayaḥ*. As a mother is called *ambā*, it is customary that here the waters are addressed with a word expressing affection. In the Ṛgveda, the deities presiding over water — or the waters themselves — are worshipped as goddesses in *āpo devīḥ*, and it is the custom to address them in the plural feminine. These hymns to the water-deity are deep in meaning, full of significance, and, with their devotion, very beautiful.
+
+**जामयः** — *hitakāribhyo bandhavaḥ*: kinsmen who do good. The word occurs in the Ṛgveda in the riks 1-[?]-[?]; 3-[?]-[?]; 4-[?]-[?]; 8-[?]-[?]; 10-[?]-[?] and others (numerals as printed, too small to read with certainty). **अध्वरीयताम्** — *adhvareṇa* (by sacrifice) *devayajanaṃ kartum icchatām* — of those wishing to perform the divine sacrifice; those who need the performance of sacrifice. **पृञ्चतीः** — *miśrayantyaḥ*: mixing. **मधुना पयः** — water is essential for life, and the rivers and the like, flowing, … even though it is like the water of the ocean [?]; the cows give delicious milk by drinking such water, so the ṛṣi may have used this expression. [The sense is: the waters, flowing along the paths, mix with the milk of the cows; hence milk tastes sweet.]
 
 ---
 
-**Progress note — printed page 199 reached; Sūkta 23 in progress (Riks 1–15 done of 24).**
+### Pages 205–211 — Sūkta 23, Rik 17
 
-**This batch:** Riks 9–15 of Sūkta 23 (printed pp. 174–199: Indra and the Maruts, the Viśvedeva riks, and the first three Pūṣan riks). Grammar pages given as short notes.
+**॥ Saṃhitāpāṭhaḥ ॥**
 
-**Next task:** continue Sūkta 23 at Rik 16 (*ambayo yanty adhvabhir jāmayo adhvarīyatām | pṛñcatīr madhunā payaḥ* — the Āpaḥ [waters] riks 16–22a), Saṃhitā on printed p. 200 (PDF page 215); then Riks 17–24; Sūkta 23 runs to printed p. 233; Sūkta 24 begins at p. 234. Pages 156–250 are rendered at 130 dpi in /tmp/s23/r-NNN.jpg (printed page = NNN − 15); re-render with `pdftoppm -jpeg -r 130 -f N -l M Rig_Vol3.pdf` if lost.
+> अमूर्या उप सूर्ये याभिर्वा सूर्यः सह ।
+> ता नो हिन्वन्त्वध्वरम् ॥ १७ ॥
 
-**Open flags:** as in earlier notes. In Sūkta 23 Riks 9–15: Ṛgveda/Āśvalāyana/Nirukta/Uṇādi numerals marked [?]; the Ṛgvedic quotations cited in the Special Topics of Riks 10 and 14 are given with my own tentative glosses; several garbled pādas flagged; Rik 15 bhāṣya in part doubtful; the Skandasvāmin legend (Rik 14) is my rendering of a partly doubtful Sanskrit print; grammar in outline.
+*amūr yā upa sūrye yābhir vā sūryaḥ saha | tā no hinvantv adhvaram || 17 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अमूः । याः । उप । सूर्ये । याभिः । वा । सूर्यः । सह ॥ ताः । नः । हिन्वन्तु । अध्वरम् ॥ १७ ॥
+
+*amūḥ | yāḥ | upa | sūrye | yābhiḥ | vā | sūryaḥ | saha || tāḥ | naḥ | hinvantu | adhvaram || 17 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> या अमूराप: सूर्ये उप समीपेनावस्थिताः । आपः सूर्ये समाहिता इति श्रुत्यन्तरात् । अथवा सूर्यो याभिरद्भिः सह वर्तते । पूर्वत्रापां प्राधान्यमुत्तरत्र सूर्यस्येति विशेषः । ताश्चाप्यादृश्य आपो ऽस्मदीयमध्वरं यागं हिन्वन्तु प्रीणयन्तु ॥ याभिः । सावेकाच इति विभक्तेरुदात्तस्य न गोश्वन्साववर्णेति प्रतिषेधः । शेषा तु प्रक्रिया स्पष्टा ॥
+
+*yā amūr āpaḥ sūrye upa samīpenāvasthitāḥ | āpaḥ sūrye samāhitā iti śrutyantarāt | athavā sūryo yābhir adbhiḥ saha vartate | pūrvatrāpāṃ prādhānyam uttaratra sūryasyeti viśeṣaḥ | tāś cāpy ādṛśya āpo 'smadīyam adhvaraṃ yāgaṃ hinvantu prīṇayantu || yābhiḥ | sāvekāca iti vibhakter udāttasya na gośvansāvavarṇeti pratiṣedhaḥ | śeṣā tu prakriyā spaṣṭā ||*
+
+**Translation:** "Those waters yonder (*amūḥ*) that are near the sun (*sūrye upa*), 'the waters are placed in the sun' [as another śruti says]; or those waters with which (*yābhiḥ*) the sun abides: in the former [reading] the waters have priority, in the latter the sun — that is the difference. May those waters, of such kind, gladden (*hinvantu*) — please — our sacrifice (*adhvaram*). *Yābhiḥ*: the acute of the case-ending by *sāvekāca* is prevented by P. 6-1-182 [*na gośvanṣāvavarṇa…*]. The rest of the process is clear." *(Grammar pages 206–211, noted briefly: the words treated are* amūḥ*,* yāḥ*,* upa *(accent),* sūrye*,* yābhiḥ*,* hinvantu *and* adhvaram*. By far the greater part of these six pages is one long scholastic discussion of the Pāṇinian rule P. 6-1-171 *sāvekācas tṛtīyādir vibhaktiḥ* ('after a monosyllabic stem the case-ending from the instrumental onward takes the acute') and its prohibition P. 6-1-182 *na go-śvan-sāvavarṇa-rāḍ-aṅkru-ṅkṛ-dṛdbhyaḥ*: it asks whether the word* sau *in the sūtra means the nominative singular only or also the locative plural *su*; the vārttika *sau ca* and the argument of the *Mahābhāṣya* on grahaṇa; the forms* yāta*,* rāma *and* dośabhyām*,* abhyām*,* ebhiḥ*,* eṣām*, *śvabhiḥ*, *śunā* are examined, and the role of the paribhāṣā *svaravidhau vyañjanam avidyamānavat*. It is purely technical, bears on the accent of* yābhiḥ *only, and is characterized, not transcribed; the discussion ends (p. 211) by concluding that the case-ending after* yā *takes no acute here, so* yābhiḥ *has the acute on* yā *only. The verbal forms:* hinvantu *[*hi gatau vṛddhau ca*, *loṭ*, *nu* by P. 3-1-73 *svādibhyaḥ śnuḥ*? — here P. 3-1-79 *tanādikṛñbhya uḥ* [?] — and the accent],* adhvaram *[as in Rik 16]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **यः अमूः (yāḥ amūḥ)** — those waters | **सूर्ये उप (sūrye upa)** — near the sun | **वा (vā)** — or | **सूर्यः (sūryaḥ)** — the sun | **याभिः (yābhiḥ)** — with which waters | **सह (saha)** — together | **ताः (tāḥ)** — those waters | **नः (naḥ)** — our | **अध्वरम् (adhvaram)** — sacrifice | **हिन्वन्तु (hinvantu)** — may they carry on with gladness.
+
+**॥ Bhāvārthaḥ ॥** May those waters that are near the sun — or those near which the sun himself stays — carry out our sacrifice gladly.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Those sacred waters who are near the sun or to whom the sun is near, may they promote our sacrifice.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 206)* **या उप सूर्ये** — the waters near the sun are, that is, the water that is drawn up by the sun's rays (from the ocean) and stands in the *antarikṣa* in the form of clouds. In the Taittirīya Āraṇyaka too there is a śruti sentence, *āpaḥ sūrye samāhitāḥ* ('the waters are placed in the sun'). *Yābhir vā sūryaḥ saha* has the same meaning: the commentator has explained the cases and the words in a different way. Or, since rays of the sun fall on the waters of rivers and the like, it may be said that the sun is near the water; this mantra suggests the close relation between water and the sun.
+
+---
+
+### Pages 212–215 — Sūkta 23, Rik 18
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> अपो देवीरुप ह्वये यत्र गावः पिबन्ति नः ।
+> सिन्धुभ्यः कर्त्वं हविः ॥ १८ ॥
+
+*apo devīr upa hvaye yatra gāvaḥ pibanti naḥ | sindhubhyaḥ kartvaṃ haviḥ || 18 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अपः । देवीः । उप । ह्वये । यत्र । गावः । पिबन्ति । नः ॥ सिन्धुऽभ्यः । कर्त्वम् । हविः ॥ १८ ॥
+
+*apaḥ | devīḥ | upa | hvaye | yatra | gāvaḥ | pibanti | naḥ || sindhu-bhyaḥ | kartvam | haviḥ || 18 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> नोऽस्मदीया गावो यत्र यास्वप्सु पिबन्ति पानं कुर्वन्ति ता आपो देवीरुप ह्वये आह्वयामि । सिन्धुभ्यः स्यन्दनशीलाभ्योऽद्भ्यो देवताभ्यो हविः कर्तव्यम् । अस्माभिः कर्तव्यम् ॥ अपः । ऊडिदमित्यादिना शस उदात्तत्वम् । पिबन्ति । प्राघ्रेत्यादिना पिबादेशः । शपः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वम् ॥ निपातैर्यद्यदीत्यादिना निघाताभावः । कर्त्वम् । डुकृञ् करणे । कृत्यार्थे तवैकेन्केन्यत्वनः (पा. ३-४-१४) इति कर्मणि त्वन्प्रत्ययः । गुणः । नित्स्वरेणाद्युदात्तत्वम् ॥
+
+*no 'smadīyā gāvo yatra yāsv apsu pibanti pānaṃ kurvanti tā āpo devīr upa hvaye āhvayāmi | sindhubhyaḥ syandanaśīlābhyo 'dbhyo devatābhyo haviḥ kartavyam | asmābhiḥ kartavyam || apaḥ | ūḍidam ity ādinā śasa udāttatvam | pibanti | prāghretyādinā pibādeśaḥ | śapaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvareṇādyudāttatvam || nipātair yad yady ādinā nighātābhāvaḥ | kartvam | ḍukṛñ karaṇe | kṛtyārthe tavaikenkenyatvanaḥ (pā. 3-4-14) iti karmaṇi tvanpratyayaḥ | guṇaḥ | nitsvareṇādyudāttatvam ||*
+
+**Translation:** "I invoke those divine waters in which (*yatra*) our cows drink. For the *sindhus* — the flowing waters, the deities — the oblation (*havis*) is to be made (*kartvam*); it is to be made by us. *Apaḥ*: the accusative plural *śas*, acute by *ūḍidam…*. *Pibanti*: *pib* substituted for *pā* by P. 7-3-78 [*pāghrādhmā…*]; the accent of *śap*, being *pit*, is lowered; …; there is no lowering of the verb's accent after *yatra*, since it follows the particle *yat*-class by [P. 8-1-66 *yadvṛttān nityam*]. *Kartvam*: *ḍukṛñ karaṇe*, with the suffix *tvan* (P. 3-4-14 *kṛtyārthe tavaikenkenyatvanaḥ*) in the passive sense; guṇa; the first-syllable acute from the *n*-it." *(Grammar pages 213–215, noted briefly: the words treated are* apaḥ *[*ap* + *śas*; the loss of *s*… the long note that the case-ending takes the acute by P. 6-1-171 *sāvekācas…* and the *ūṭh* of P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ* — a scholastic argument on whether* ap *has the *ūṭh* substitution for the *ū* element and is *ekāc*; the discussion of the *antodātta* and *ekāc* properties of *ap*],* pibanti *[*pā pāne* + *laṭ* + *jhi* → *anti*; the substitution *pib* for *pā* by P. 7-3-78 *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* — all eleven substitutions are listed; the question whether *piba* is *a*-ending or *pib* *b*-ending is answered in the Ṛgvedic commentary (p. ?); *śap*, *guṇa* blocked; *parasavarṇa* P. 6-1-97 *ato guṇe*; the accent explanation by the *vārttika* on *yat*; the long discussion on whether *yatra* (a *nipāta* in the P. 8-1-30 list *yatra, yadi, hasta, kuvit, neta, cet, caṇ, kaccit*) prevents the lowering of the verb's accent — the author explains the *samāsa* point (that *yat*-class words ending in *tra* are compounds with *ekadeśa*) and ends: *pibanti* is therefore not lowered],* kartvam *[*ḍukṛñ karaṇe* + *tvan* — the Vedic substitute for *kṛtya*; *kṛtyāḥ* P. 3-1-95 and *ṇvul-tṛcau* P. 3-1-133 come under the heading; the *guṇa* before *tvan*, *raparatva*; the *nit* accent, P. 6-1-197 *ñnityādir nityam*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **नः (naḥ)** — our | **गावः (gāvaḥ)** — cows | **यत्र (yatra)** — in which reservoirs of water | **पिबन्ति (pibanti)** — drink | **(ताः) अपः देवीः ((tāḥ) apaḥ devīḥ)** — those best waters | **उप ह्वये (upa hvaye)** — I invoke | **सिन्धुभ्यः (sindhubhyaḥ)** — to those flowing [waters] | **हविः (haviḥ)** — oblation | **कर्त्वम् (kartvam)** — must be made.
+
+**॥ Bhāvārthaḥ ॥** I invoke those excellent waters, in the rivers and other reservoirs, at which our cows drink water. We must make offerings with reference to those flowing waters.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> I invoke hither the sacred waters at which our cows drink; our oblations are to be made to those streams.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 213)* **सिन्धुभ्यः** — *syandanaśīlābhyo devatābhyaḥ*: in this rik, as in other riks which express the deity of water, the ṛṣis praise the flowing water, which is the best or the worthy of worship. In some places lakes, ponds and so on, where there is no flowing, are also meant. Therefore the water fit for drinking, [that is, water which cattle] drink, is specially praised. In the water of the ocean not so much excellence is seen.
+
+---
+
+### Pages 215–219 — Sūkta 23, Rik 19
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> अप्स्वन्तरमृतमप्सु भेषजमपामुत प्रशस्तये ।
+> देवा भवत वाजिनः ॥ १९ ॥
+
+*apsv antar amṛtam apsu bheṣajam apām uta praśastaye | devā bhavata vājinaḥ || 19 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अप्ऽसु । अन्तः । अमृतम् । अप्ऽसु । भेषजम् । अपाम् । उत । प्रऽशस्तये ॥ देवाः । भवत । वाजिनः ॥ १९ ॥
+
+*ap-su | antaḥ | amṛtam | ap-su | bheṣajam | apām | uta | pra-śastaye || devāḥ | bhavata | vājinaḥ || 19 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> अप्सु जलेऽप्यन्तर्मध्येऽमृतं पीयूषं वर्तते । तस्याप्सु कारणत्वात् । अमृतं वा आप इति श्रुत्यन्तरात् । तथैवाप्सु भेषजमौषधं वर्तते । क्षुद्रोगाग्निवर्धकस्यान्नस्य [?] पाचकत्वात् । उतापि च तादृशीनामपां देवताना[म्] प्रशस्तये प्रशंसार्थं हे देवा ऋत्विजादयो ब्राह्मणाः । एते वै देवाः प्रत्यक्षं यद्ब्राह्मणा इति श्रुत्यन्तरात् । वाजिनो वेगवन्तो भवत । शीघ्रं स्तुतिं कुरुतेत्यर्थः ॥ अप्सु । ऊडिदमित्यादिना सप्तम्या उदात्तत्वम् । सञ्हितायामुदात्तस्वरितयोर्यणः स्वरितः इति स्वरितत्वम् । अमृतम् । नञ्मृतः [जरमरमित्रमृताः] (पा. ६-२-११६) इत्युत्तरपदाद्युदात्तत्वम् । प्रशस्तये । ताडौ च निति (पा. ६-२-५०) इति गतेः प्रकृतिस्वरत्वम् । भवत । आमन्त्रितं पूर्वमविद्यमानवदिति पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वेन पादादित्वान्न निघातः ॥
+
+*apsu jale 'py antar madhye 'mṛtaṃ pīyūṣaṃ vartate | tasyāpsu kāraṇatvāt | amṛtaṃ vā āpa iti śrutyantarāt | tathaivāpsu bheṣajam auṣadhaṃ vartate | kṣudrogāgnivardhakasyānnasya [?] pācakatvāt | utāpi ca tādṛśīnām apāṃ devatānām [?] praśastaye praśaṃsārthaṃ he devā ṛtvijādayo brāhmaṇāḥ | ete vai devāḥ pratyakṣaṃ yad brāhmaṇā iti śrutyantarāt | vājino vegavanto bhavata | śīghraṃ stutiṃ kurutety arthaḥ || apsu | ūḍidam ity ādinā saptamyā udāttatvam | saṃhitāyām udāttasvaritayor yaṇaḥ svaritaḥ iti svaritatvam | amṛtam | nañmṛtaḥ [jaramaramitramṛtāḥ] (pā. 6-2-116) ity uttarapadādyudāttatvam | praśastaye | tāḍau ca niti (pā. 6-2-50) iti gateḥ prakṛtisvaratvam | bhavata | āmantritaṃ pūrvam avidyamānavad iti pūrvasyāmantritasyāvidyamānavattvena pādāditvān na nighātaḥ ||*
+
+**Translation:** "In the waters, even within (*antaḥ*, in the middle), is *amṛta* — the nectar; for the waters are its cause; as another śruti says, 'the waters are indeed *amṛta*'. Likewise, in the waters is *bheṣaja* — medicine — since they cook [i.e. digest] the food that increases the hunger-fire [?]. And for the *praśasti* — the praise — of such waters, the deities, O *devāḥ* — O priests, the Brahmins and the rest, for 'these Brahmins are gods visibly' says another śruti — become *vājinaḥ*: swift; praise quickly. *Apsu*: the locative plural, acute by *ūḍidam…*; in the Saṃhitā the *yaṇ* of an *udātta* becomes *svarita*. *Amṛtam*: by P. 6-2-116 *jaramaramitramṛtāḥ* the second member's first syllable is acute. *Praśastaye*: the *gati* keeps its accent by P. 6-2-50 [?]. *Bhavata*: the preceding vocative is as if non-existent (P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat*); being at the beginning of the pāda, the verb's accent is not lowered." *(Grammar pages 217–219, noted briefly: the words treated are* apsu *[the long argument on the locative plural of* ap *with the *ūṭh* element — whether the case-ending is acute; P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ*; the *yaṇ* of the *udātta*: P. 8-2-4 *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*, hence *apsv antaḥ* with *svarita*],* amṛtam *[*nañ* + *mṛta*; bahuvrīhi; accent by P. 6-2-116 *nañaḥ jaramaramitramṛtāḥ*],* praśastaye *[*pra* + *śaṃsu stutau* + *ktin* by P. 3-3-94 *striyāṃ ktin*; loss of the nasal by P. 6-4-24 *aniditāṃ hala upadhāyāḥ kṅiti*; *śaṃsu* gives* śast*; the accent: P. 6-2-50 *tādau ca niti kṛtyatau* — the *gati* keeps its own accent before a *kṛt* beginning with *t*, except *tavai*… — and P. 6-2-139 gives the accent of the *kṛdanta*, which this rule overrides; *pra* has the Phiṭ-accent *upasargāś cābhivarjam*],* bhavata *[the vocative *devāḥ* before it is *avidyamānavat* by P. 8-1-72; the verb is *pādādi*, so P. 8-1-19 does not apply; and P. 8-1-28 *tiṅ atiṅaḥ* does not apply]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अप्सु अन्तः (apsu antaḥ)** — in the middle of the waters | **अमृतम् (amṛtam)** — the immortal [nectar] | **अप्सु (apsu)** — in the waters | **भेषजम् (bheṣajam)** — the medicine which cures disease | **उत (uta)** — and | **(हे) देवाः ((he) devāḥ)** — O all gods and the priests [the Brahmins] and the rest | **अपाम् (apām)** — of the waters | **प्रशस्तये (praśastaye)** — for praising [the deity] | **वाजिनः (vājinaḥ)** — swift [prepared quickly] | **भवत (bhavata)** — become.
+
+**॥ Bhāvārthaḥ ॥** In water there is nectar; in water there is the medicine that cures disease. Therefore, O all gods, priests and the rest, be quickly ready to praise those waters.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> (There is) ambrosia in the waters, (there is) medicine in the waters; therefore divine priests, be prompt in their praise.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 217)* The qualities and pre-eminence of water are described in great variety in the śruti passage of the Taittirīya Āraṇyaka:
+
+> आपो वा इदꣳ सर्वं विश्वा भूतान्यापः प्राणा वा आपः पशव आपोऽन्नमापोऽमृतमापः सम्राडापो विराडापः स्वराडापश्छन्दांस्यापो ज्योतींष्यापो यजूंष्यापः सत्यमापः सर्वा देवता आपो भूर्भुवः सुवरापः ओम् ॥
+
+*āpo vā idaṃ sarvaṃ viśvā bhūtāny āpaḥ prāṇā vā āpaḥ paśava āpo 'nnam āpo 'mṛtam āpaḥ samrāḍ āpo virāḍ āpaḥ svarāḍ āpaś chandāṃsy āpo jyotīṃṣy āpo yajūṃṣy āpaḥ satyam āpaḥ sarvā devatā āpo bhūr bhuvaḥ suvar āpa om ||* — "The waters are all this, all beings; the waters are breath; the waters are cattle, food, *amṛta*; the waters are *samrāj*, *virāj*, *svarāj*; the waters are the metres, the lights, the *yajus* formulas, the truth; the waters are all the deities; *bhūr bhuvaḥ suvar*; the waters; *om*." *(my rendering; the Sanskrit is printed with a few small variants from the standard text — I have kept the printed words as far as legible)*
+
+That is, everything is produced from water. All living beings and animals live by water; water is the support of all living things, even trees and plants; if there were no water no creature could live. Hence it is said that water is life (*prāṇa*). From water herbs, trees and the vegetable kingdom grow, so water is the food of living beings, directly and indirectly. Without food some can live some days; without water none can live. Since much of our body is water — blood and the like are liquid — water is essential to life. Hence to call water *amṛta* is no exaggeration. Since water is one of the five elements, and since the śruti says *apo vā idam agre salilam āsīt* ('in the beginning this was water'), it is proper to say that all things are produced from water or that water is the root of all things; hence śruti declares water to be the form of all the deities.
+
+**अमृतं भेषजम्** — water is called *amṛta* because it is indispensable to living things and is the support of life. Since the word *apaḥ* indicates things in liquid form, it is also reasonable to call water *amṛta*. Many diseases can be cured with water. And since herbs are generally mixed with water in liquid form, it is right to say that the herbs are in the water. How important water is in curing disease is described at length in medical books such as the *Āyurveda*.
+
+**देवाः** — though addressed to the *devas*, the word can be taken as meaning the priests and sacrificers, and also the deities; or as the Brahmin priests, who are visible deities: the śruti passages say *ete vai devāḥ pratyakṣaṃ yad brāhmaṇāḥ* ('these Brahmins are visibly the gods'), and so the Brahmins are addressed by the word *deva*. **वाजिनः** — *vegavantaḥ, śīghragāminaḥ*: swift, quick, without delay; or, since *annaṃ vai vājaḥ* ('food is *vāja*', śruti), 'possessing food or oblation': 'praise with offerings' may be taken as the sense.
+
+---
+
+### Pages 219–222 — Sūkta 23, Rik 20
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> अप्सु मे सोमो अब्रवीदन्तर्विश्वानि भेषजा ।
+> अग्निं च विश्वशम्भुवमापश्च विश्वभेषजीः ॥ २० ॥
+
+*apsu me somo abravīd antar viśvāni bheṣajā | agniṃ ca viśvaśambhuvam āpaś ca viśvabheṣajīḥ || 20 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> अप्ऽसु । मे । सोमः । अब्रवीत् । अन्तः । विश्वानि । भेषजा ॥ अग्निम् । च । विश्वऽशम्भुवम् । आपः । च । विश्वऽभेषजीः ॥ २० ॥
+
+*ap-su | me | somaḥ | abravīt | antaḥ | viśvāni | bheṣajā || agnim | ca | viśva-śambhuvam | āpaḥ | ca | viśva-bheṣajīḥ || 20 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> कारीर्यामुत्तरस्याज्यभागस्याप्सु म इत्येषानुवाक्या । वर्षकामेष्टिरिति खण्डे — अप्स्वग्ने सधिष्टव [?] अप्सु मे सोमो अब्रवीत् (आ. ३-१३ [?]) इति सूत्रितम् ॥
+>
+> अप्सु जलेऽन्तर्मध्ये विश्वानि भेषजा सर्वाण्यौषधानि सन्तीति मे मह्यं मन्त्रदर्शिने मुनये सोमो देवोऽब्रवीत् । तथा विश्वशम्भुवं सर्वस्य जगतः सुखकरमेतन्नामकं चाग्निं चाप्सु वर्तमानं सोमोऽब्रवीत् । तथा च तैत्तिरीया — अग्नेस्त्रयो ज्यायांसो भ्रातर आसंस्तेऽग्निः सोमः प्रावशिदित्यग्नेरप्सु प्रवेशमामनन्ति (तै. सं. २-६-६-१ [?]) । लताखुलुवृक्षमूलादीनामौषधानां वृष्टिजन्यत्वेन जलवर्तित्वं प्रसिद्धम् । विश्वभेषजीः । विश्वानि भेषजानि यासु तथाविधा आपोऽप्यब्रवीत् ॥ भेषजा । सुपां सुलुगित्याकारः । विश्वशम्भुवम् । भवतेरन्तर्भावितण्यर्थात्क्विप् । व्यत्ययेन पूर्वपदप्रकृतिस्वरत्वम् । यद्वा । विश्वे सर्वेऽपि व्यापारा सुखकरा यस्य । बहुव्रीहौ विश्वं संज्ञायाम् (पा. ६-२-१०६) इति पूर्वपदान्तोदात्तत्वम् । आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अप्स्नेन्नित्यादिनोपधादीर्घः । विश्वभेषजीः । विश्वशम्भुरिवत् ॥
+
+*kārīryām uttarasyājyabhāgasyāpsu ma ity eṣānuvākyā | varṣakāmeṣṭir iti khaṇḍe — apsv agne sadhiṣṭava [?] apsu me somo abravīt (ā. 3-13 [?]) iti sūtritam ||*
+*apsu jale 'ntar madhye viśvāni bheṣajā sarvāṇy auṣadhāni santīti me mahyaṃ mantradarśine munaye somo devo 'bravīt | tathā viśvaśambhuvaṃ sarvasya jagataḥ sukhakaram etannāmakaṃ cāgniṃ cāpsu vartamānaṃ somo 'bravīt | tathā ca taittirīyā — agnes trayo jyāyāṃso bhrātara āsaṃs te 'gniḥ somaḥ prāvaśid ity agner apsu praveśam āmananti (tai. saṃ. 2-6-6-1 [?]) | latākhuluvṛkṣamūlādīnām auṣadhānāṃ vṛṣṭijanyatvena jalavartitvaṃ prasiddham | viśvabheṣajīḥ | viśvāni bheṣajāni yāsu tathāvidhā āpo 'py abravīt || bheṣajā | supāṃ suluk ity ākāraḥ | viśvaśambhuvam | bhavater antarbhāvitaṇyarthāt kvip | vyatyayena pūrvapadaprakṛtisvaratvam | yadvā | viśve sarve 'pi vyāpārā sukhakarā yasya | bahuvrīhau viśvaṃ saṃjñāyām (pā. 6-2-106) iti pūrvapadāntodāttatvam | āpaḥ | karmaṇi śasi prāpte vyatyayena jas | apsunnity ādinopadhādīrghaḥ | viśvabheṣajīḥ | viśvaśambhur ivat ||*
+
+**Translation:** "In the *kārīrī* [rite], of the second *ājyabhāga* (the later butter-portion), the rik *apsu me* is the *anuvākyā*; in the section *varṣakāmeṣṭi*: 'the riks *apsv agne sadhiṣṭava* [?] and *apsu me somo abravīt*' (Āś. [3-13] [?]) — so it is laid down. 'In the waters, within (*antaḥ*), are all (*viśvāni*) medicines (*bheṣajā*)', Soma, the god, said to me, the *mantradraṣṭṛ* seer. Likewise Soma told [me] of Agni, *viśvaśambhū* — the benefactor of the whole world — who is also in the waters. And so the Taittirīyas record Agni's entry into the waters: 'Agni had three elder brothers; Agni, Soma, [Varuṇa?] entered [the waters]' (Tai. Saṃ. [2-6-6-1] [?]). It is well known that the creepers and herbs, and the roots of trees and the like, being produced by rain, abide in water. *Viśvabheṣajīḥ*: the waters in which all medicines are — [he told of] such waters too. *Bheṣajā*: *ā* by *supāṃ suluk*. *Viśvaśambhuvam*: [from] *bhū* with an included causative sense, with *kvip*; the accent of the first member by *vyatyaya*; or: 'he whose every action brings happiness'; in the *bahuvrīhi* P. 6-2-106 [*viśvaṃ saṃjñāyām*] gives the accent on the end of the first member. *Āpaḥ*: *jas* instead of *śas* by *vyatyaya*; lengthening of the penultimate by P. 6-4-11 [*apṛnn…*]. *Viśvabheṣajīḥ*: as *viśvaśambhū*." *(Grammar pages 221–222, noted briefly: the words treated are* bheṣajā *[*jas* → *ā* by P. 7-1-39 *supāṃ suluk…*],* viśvaśambhuvam *[*viśvasya śaṃ bhavatīti* — an included causative sense of *bhū*, with* kvip *by P. 3-2-76; the loss of the *su* of the prātipadika; *am* for the accusative; *uvaṅ* by P. 6-4-88; the accent: by P. 6-2-1 the *bahuvrīhi* would take the first member's accent, but P. 6-2-106 *bahuvrīhau viśvaṃ saṃjñāyām* gives the acute on the end of* viśva*; the Vedabhāṣya says '*vyatyayena pūrvapadāntodāttatvam*'; the second explanation* viśve sarve vyāpārāḥ śaṃbhuvaḥ sukarāḥ yasya *as a bahuvrīhi],* āpaḥ *[*apaḥ* is the object of* abravīt*, so the accusative *śas* would be expected; *jas* stands by *vyatyaya*, P. 3-1-85; the penultimate lengthening by P. 6-4-11 *apṛn…* [read as '*āpaḥ*' with *as*→*aḥ* by P. 8-2-66, 8-3-15]],* viśvabheṣajīḥ *[*viśvāni bheṣajāni yāsu*; *bheṣaja* from *bhī bhaye* + *ajip* and *puk* — P. 3-2-... Uṇ. 1-[?] *bhiyaḥ ṣugguḥ* [?]; *bhiṣaj* → *bheṣajī* with *aṇ* by P. 4-3-120 *tasyedam*, vṛddhi for *i* by P. 7-2-117 *taddhiteṣv acām ādeḥ*, the feminine *ṅīp*; accent of the suffix]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अप्सु अन्तः (apsu antaḥ)** — in the middle of the waters | **विश्वानि (viśvāni)** — all | **भेषजा (bheṣajā)** — the medicines which cure disease | **अग्निं च (agniṃ ca)** — and Agni | **विश्वशम्भुवम् (viśvaśambhuvam)** — one who gives happiness to the whole world | **आपः (āpaḥ)** — the waters | **विश्वभेषजीः (viśvabheṣajīḥ)** — with all medicinal herbs | **सोमः (somaḥ)** — the deity Soma | **मे (me)** — to me | **अब्रवीत् (abravīt)** — told.
+
+**॥ Bhāvārthaḥ ॥** In the middle of the waters are all the medicines which cure disease. Agni gives happiness to the whole world. The waters are accompanied by all herbs. So the deity Soma told me.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Soma has revealed to me that in the waters are all medicaments; that Agni is the benefactor of the Universe, the waters contain all the healing medicines.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 220–)* **Application.** In the *kārīrī* rite, when the *ājyabhāga* oblation is made, this rik *apsu me somo abravīt* is used as *puro-'nuvākyā*; Āśvalāyana's Śrauta-sūtra, in the section *varṣakāmeṣṭi*, says that the riks *apsv agne sadhiṣṭava* (Ṛ. Saṃ. [8-39-?]) and *apsu me somo abravīt* (Ṛ. Saṃ. 1-23-20) are to be used as *yājyā* and *puro-'nuvākyā* (Āś. [3-13] [?]). The chief purport of this rik is: Soma has told me that Agni, the benefactor of the whole world, is in the waters in the form of lightning, and that all the medicines which cure the diseases of beings are in the waters themselves. As to Agni being in the water, the commentator cites the passage of the Taittirīya Saṃhitā [2-6-6], in the *anuvāka* *agner vai trayo jyāyāṃso bhrātara āsan*, the sentence *so 'psuḥ prāviśat taṃ devatāḥ praiṣam aicchan* ('he entered the waters; the gods sought him'); an account of this we have already given in the Ṛgveda on this subject [reference left blank in the print].
+
+**अग्निं च विश्वशंभुवम्** — there is no need to describe at length the benefits to the whole world which come from Agni. Agni is not only the giver of warmth when we are cold: we use him in many other useful or essential tasks, such as cooking food. This is known to everyone from experience, so there is no great need to say more. **आपश्च विश्वभेषजीः** — we have already explained, under the preceding rik, the sense that water is the means of curing diseases. **सोमः** — for the word *soma* the commentator says *somo devaḥ*, 'the deity Soma'; *soma* should be understood as the deity presiding over the herbs and plants — the Moon (*candra*).
+
+---
+
+### Pages 223–226 — Sūkta 23, Rik 21
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> आपः पृणीत भेषजं वरूथं तन्वे मम ।
+> ज्योक् च सूर्यं दृशे ॥ २१ ॥
+
+*āpaḥ pṛṇīta bheṣajaṃ varūthaṃ tanve mama | jyok ca sūryaṃ dṛśe || 21 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> आपः । पृणीत । भेषजम् । वरूथम् । तन्वे । मम ॥ ज्योक् । च । सूर्यम् । दृशे ॥ २१ ॥
+
+*āpaḥ | pṛṇīta | bheṣajam | varūtham | tanve | mama || jyok | ca | sūryam | dṛśe || 21 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> हे आपो मम तन्वे शरीरार्थं वरूथं रोगनिवारकं भेषजमौषधं पृणीत । पूरयत । किंच ज्योक् चिरं सूर्यं दृशे द्रष्टुं निरोगा वयं शक्नुवामेति शेषः ॥ पृणीत । प्रा पालनपूरणयोः । लोण्मध्यमबहुवचनं थ । तस्य तस्थस्थमिपामिति तादेशः । क्र्यादिभ्यः श्ना । प्वादीनां ह्रस्वः । ईहल्यघोः । वरूथम् । वृञ् वरणे । ज्वरत्वरस्रिव्यविमवां [ऊठ्] [उ. ३-६ [?]] । नित्त्वादाद्युदात्तः । तन्वे । जातौ [ङे ए?] । दृशे । दृशे विख्ये च (पा. ३-४-११) इति तुमर्थे निपात्यते ॥
+
+*he āpo mama tanve śarīrārthaṃ varūthaṃ roganivārakaṃ bheṣajam auṣadhaṃ pṛṇīta | pūrayata | kiṃca jyok ciraṃ sūryaṃ dṛśe draṣṭuṃ nirogā vayaṃ śaknuvāmeti śeṣaḥ || pṛṇīta | prā pālanapūraṇayoḥ | loṇ madhyamabahuvacanaṃ tha | tasya tasthasthamipām iti tādeśaḥ | kryādibhyaḥ śnā | pvādīnāṃ hrasvaḥ | īhalyaghoḥ | varūtham | vṛñ varaṇe | jvaratvarasrivyavimavām [ūṭh] [u. 3-6 [?]] | nittvād ādyudāttaḥ | tanve | jātau [ṅe e?] | dṛśe | dṛśe vikhye ca (pā. 3-4-11) iti tumarthe nipātyate ||*
+
+**Translation:** "O Waters! Fill up (*pṛṇīta*) for my body (*tanve*) *varūtham* — a protecting medicine, a remedy that keeps off disease. And may we, being free of disease, be able to see the sun for a long time (*jyok*, long) — this is to be supplied." *(Grammar pages 224–226, noted briefly: the words treated are* pṛṇīta *[*pṝ pālanapūraṇayoḥ*; *loṭ* 2nd plural *tha* → *ta* by P. 3-4-101; *śnā* by P. 3-1-81 *kryādibhyaḥ śnā*; shortening of the root vowel by P. 7-3-80 *pvādīnāṃ hrasvaḥ*; *īt* for *ā* by P. 6-4-113 *īhalyaghoḥ*; the *ṇatva* of the *n* by P. 8-4-1 *raṣābhyāṃ no ṇaḥ*, which makes *pṛṇīta*],* āpaḥ *[vocative plural, with *āmantrita* status; the verb is not lowered since the vocative before it is treated as non-existent, P. 8-1-72; the verb stands at the pāda-beginning; P. 8-1-28 does not apply; the accent of the *śnā* is the *anudātta* of *sārvadhātuka* — the Vedabhāṣya notes the Vedic substitutes P. 7-1-39],* varūtham *[*vṛñ varaṇe* + *ūthan*, Uṇ. 2-[?] *jvaratvarasrivyavimavām upadhāyāś ca* — here the form *varūtha* with *ūṭh*; *nit*, so first-syllable acute],* tanve *[*tanū* + *ṅe*; the *ṅe* → *e* with the Saṃhitā reading *tanve* … *tanvé* with a long *e* [the print shows a numeral 3 after the word to mark the *pluta*/long svarita, *tanve ३*]; the dissolution of *ū* into *v* by P. 6-1-77 *iko yaṇaci*; the accent explained under P. 8-2-4 *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*; the long, scholastic discussion about the feminine nouns ending in *ī* and *ū* (*nadī*-class) taking *ām* / *ṅe* with *vā*, P. 1-4-5 *yū stryākhyau nadī*, P. 1-4-6 *nety aṅ…*, *vāmi* P. 1-4-5/1-4-5, *jāteḥ* — not reproduced],* dṛśe *[*dṛśir prekṣaṇe* + *tumun* in the sense of the infinitive, P. 3-4-11 *dṛśe vikhye ca* — the form is by *nipātana* with the suffix *ke*; *dṛś* is not guṇated; the *ā* of *khyā* lost in *vikhye* by P. 6-4-64 *āto lopa iṭi ca*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **(हे) आपः ((he) āpaḥ)** — O waters, or deities presiding over the waters | **मम (mama)** — my | **तन्वे (tanve)** — for the body | **वरूथम् (varūtham)** — disease-removing | **भेषजम् (bheṣajam)** — medicine | **पृणीत (pṛṇīta)** — fill [make available] | **ज्योक् (jyok)** — for a long time | **सूर्यम् (sūryam)** — the sun | **दृशे (dṛśe)** — [that I may be able] to see.
+
+**॥ Bhāvārthaḥ ॥** O waters, or deities presiding over waters! Fill up the best medicine, so that my body may be free from disease; so I may see the sun for long — that is, live long, free of disease.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Waters, grant me a medicament that shall be an armour to my body that I may long behold the Sun.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 224)* **पृणीत** — *prā pālanapūraṇayoḥ*: 'fill' — the sense is: make my body fit, free from disease and the like, so that it can carry out its tasks in order. **वरूथम्** — *varaṇīyam, roganivārakam*: that which is to be chosen — the preventer of disease. **ज्योक् च सूर्यं दृशे** — 'to see the sun for a long time' means 'to live long'. Some riks in the Ṛgveda express the same idea:
+
+> तस्मा अग्निर्भारतः शर्म यंसज्ज्योक्पश्यात्सूर्यमुच्चरन्तम् ॥ (ऋ. सं. [४-२५-४] [?])
+> *tasmā agnir bhārataḥ śarma yaṃsaj jyok paśyāt sūryam uccarantam ||* — "To him may Agni Bhārata give shelter; may he long see the rising sun." *(my gloss, tentative)*
+
+> केन क्रत्वा देवोतिभिर्ज्योक् पश्येम सूर्यम् ॥ (ऋ. सं. [८-४-६?] [?])
+> *kena kratvā devotibhir jyok paśyema sūryam ||* — "By what resolve, with the help of the gods, may we long see the sun?" *(my gloss, tentative; the first half-pāda is doubtful)*
+
+> शं नः क्षेत्रमुरु ज्योतींषि सोम ज्योक् सूर्यं दृशये रीरिहीः ॥ (ऋ. सं. [८-६८-६?] [?])
+> *śaṃ naḥ kṣetram uru jyotīṃṣi soma jyok sūryaṃ dṛśaye rīrihīḥ ||* — "[Give] us a good field, wide lights, O Soma; let us long see the sun." *(my gloss, tentative; the last verb is garbled in the print)*
+
+> उद्यन्तं त्वा मित्रमहो दिवेदिवे ज्योग्जीवाः प्रति पश्येम सूर्य ॥ (ऋ. सं. [१०-३७-२] [?])
+> *udyantaṃ tvā mitramaho dive-dive jyog jīvāḥ prati paśyema sūrya ||* — "O Sūrya, friend-like, great, may we living long behold you rising, day after day." *(my gloss, tentative)*
+
+> ज्योक् पश्येम सूर्यमुच्चरन्तमनुमते मृळया नः स्वस्ति ॥ (ऋ. सं. [१०-५९-६] [?])
+> *jyok paśyema sūryam uccarantam anumate mṛḷayā naḥ svasti ||* — "May we long see the rising sun; O Anumati, make us happy, [give us] well-being." *(my gloss, tentative)*
+
+and many such passages in the Yajurveda too, as *paśyema śaradaḥ śatam … jyok ca sūryaṃ dṛśe* and *jyok ca paśyāmi sūryam*.
+
+---
+
+### Pages 227–229 — Sūkta 23, Rik 22
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> इदमापः प्र वहत यत्किं च दुरितं मयि ।
+> यद्वाहमभिदुद्रोह यद्वा शेपे उतानृतम् ॥ २२ ॥
+
+*idam āpaḥ pra vahata yat kiṃ ca duritaṃ mayi | yad vāham abhidudroha yad vā śepa utānṛtam || 22 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> इदम् । आपः । प्र । वहत । यत् । किम् । च । दुःऽइतम् । मयि ॥ यत् । वा । अहम् । अभिऽदुद्रोह । यत् । वा । शेपे । उत । अनृतम् ॥ २२ ॥
+
+*idam | āpaḥ | pra | vahata | yat | kim | ca | duḥ-itam | mayi || yat | vā | aham | abhi-dudroha | yat | vā | śepe | uta | anṛtam || 22 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> पशौ मार्जन इदमापः प्र वहतेत्येषा विनियुक्ता । हुतायां वपायामिति खण्डे सूत्रितम् — इदमापः प्रवहतेति (आ. ३-[९] [?]) इति ॥ एषैवावभृथेष्वपि स्नाने विनियुक्ता । पत्नीसंयाजैश्चरित्वेति खण्डे इदमापः प्र वहत सुमित्र्या न आप ओषधयः सन्तु (आ. ६-[१३] [?]) इति सूत्रितम् ॥
+>
+> मयि यजमाने यत्किं च दुरितमज्ञानात्कृतं पापं वर्तते । वाथवाहं यजमानोऽभिदुद्रोह सर्वतो बुद्धिपूर्वकं द्रोहं कृतवानस्मि । वाथवा शेपे साधुजनमाक्रुष्टवानस्मि । उतापि चानृतमुक्तवानिति यदस्ति । तदिदं सर्वमपराधजातं प्र वहत । मत्सकाशादपनीय प्रवाहेणान्यत्रोन्नयत ॥ मयि । [मध्य अर्थात्] त्वमावेकवचने इति मादेशे [?] । योऽचि [पा. ७-२-८९ [?]] इति । ... दुद्रोह । द्रुह जिघांसायाम् । लिट् परस्मैपदानाम् । णलतुसुस् (पा. ३-४-८२) इति णल् । लिटि धातोः (पा. ६-१-८) इति द्वित्वम् । हस्वः (पा. ७-४-५९) । उत्तमपुरुषैकवचन । इट्प्रत्ययः । शेपे । शप आक्रोशे । लट् । व्यत्ययेनात्मनेपदम् । उत्तमपुरुष एकवचन इट् । टित आत्मनेदः (पा. ३-४-७९) इत्येत्वम् । [अत एकहल्मध्ये० (पा. ६-४-१२०)] इत्येत्वाभ्यासलोपौ ॥
+
+*paśau mārjana idam āpaḥ pra vahatety eṣā viniyuktā | hutāyāṃ vapāyām iti khaṇḍe sūtritam — idam āpaḥ pravahateti (ā. 3-[9] [?]) iti || eṣaivāvabhṛtheṣv api snāne viniyuktā | patnīsaṃyājaiś caritveti khaṇḍe idam āpaḥ pra vahata sumitryā na āpa oṣadhayaḥ santu (ā. 6-[13] [?]) iti sūtritam ||*
+*mayi yajamāne yat kiṃ ca duritam ajñānāt kṛtaṃ pāpaṃ vartate | vāthavāhaṃ yajamāno 'bhidudroha sarvato buddhipūrvakaṃ droham kṛtavān asmi | vāthavā śepe sādhujanam ākruṣṭavān asmi | utāpi cānṛtam uktavān iti yad asti | tad idaṃ sarvam aparādhajātaṃ pra vahata | matsakāśād apanīya pravāheṇānyatronnayata || mayi | [madhya arthāt] tvamāvekavacane iti mādeśe [?] | yo 'ci [pā. 7-2-89 [?]] iti | … dudroha | druha jighāṃsāyām | liṭ parasmaipadānām | ṇalatusus (pā. 3-4-82) iti ṇal | liṭi dhātoḥ (pā. 6-1-8) iti dvitvam | hrasvaḥ (pā. 7-4-59) | uttamapuruṣaikavacana | iṭpratyayaḥ | śepe | śapa ākrośe | laṭ | vyatyayenātmanepadam | uttamapuruṣa ekavacana iṭ | ṭita ātmanedaḥ (pā. 3-4-79) ity etvam | [ata ekahalmadhye… (pā. 6-4-120)] ity etvābhyāsalopau ||*
+
+**Translation:** "At the *paśu* [animal-sacrifice], at the *mārjana* [sprinkling], this rik *idam āpaḥ pra vahata* is applied. In the section *hutāyāṃ vapāyām*: '*idam āpaḥ pravahata*' (Āś. [3-9] [?]). The same rik is applied also at the bath in the *avabhṛtha* rites; in the section *patnīsaṃyājaiś caritvā*: '*idam āpaḥ pra vahata* [and] *sumitryā na āpa oṣadhayaḥ santu*' (Āś. [6-13] [?]). Whatever (*yat kiṃ ca*) sin (*duritam*) done through ignorance is in me, the sacrificer; or [*vā*] whatever hostility I have shown (*abhidudroha*) knowingly, on all sides; or whatever I have cursed (*śepe*) — abusing good people; and whatever *anṛta* — untruth — I have uttered: all this offence, carry (*pra vahata*) away; remove it from me and carry it off by the current elsewhere. *Dudroha*: *druha jighāṃsāyām* [to wish to harm], perfect, with *ṇal* of P. 3-4-82; doubling by P. 6-1-8; shortening by P. 7-4-59. *Śepe*: *śapa ākrośe* [to curse]; present; the *ātmanepada* by *vyatyaya*; first person singular *iṭ*; *e* by P. 3-4-79 *ṭita ātmanepadānāṃ ṭer e*." *(Grammar page 229, noted briefly: the words treated are* mayi *[the locative of *asmad*: *mad* + *ṅi* with *ma*-ending, P. 7-2-97 *tvamāv ekavacane*; *ā* + *i*; P. 6-1-87 *ād guṇaḥ*; the *yat*… *aci* rule P. 7-2-89 *yo 'ci* gives *y*; in the Vedic forms *yuṣmad/asmad*'s final *d* is replaced by *y* before a vowel-initial case-ending, giving *tvayi*/*mayi*] and* dudroha *[*druha jighāṃsāyām*; *liṭ* → *ṇal* by P. 3-4-82 *parasmaipadānāṃ ṇalatusus…*; doubling P. 6-1-8; *hrasva* P. 7-4-59; *halādiḥ śeṣaḥ* P. 7-4-60 drops the *h*; the accent: P. 8-1-66 *yadvṛttān nityam* — the verb after *yad* is not lowered; and P. 8-1-72 pūjā — the word *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ*; the author of the *Kāśikā* is cited on whether *pūjita* includes the *abhi* compound],* śepe *[*śapa ākrośe*, *laṭ*, the *ātmanepada* by *vyatyaya*; *iṭ* → *e* by P. 3-4-79; *e* for the stem vowel and loss of the reduplicate — P. 6-4-120 *ata ekahalmadhye 'nādeśāder liṭi* — forms *śepe*; no *num*; the accent not lowered]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **मयि (mayi)** — in me, the sacrificer | **यत् किं च (yat kiṃ ca)** — whatever | **दुरितम् (duritam)** — sins done through ignorance | **वा (vā)** — or | **अहम् (aham)** — I | **यत् (yat)** — whomever | **अभिदुद्रोह (abhidudroha)** — have knowingly harmed | **यत् वा शेपे (yat vā śepe)** — and whom I have cursed [spoken ill of] | **उत (uta)** — and | **अनृतम् (anṛtam)** — falsehoods [which I have uttered] | **इदम् (idam)** — all this [sin] | **आपः (āpaḥ)** — O waters | **प्र वहत (pra vahata)** — carry off in the stream.
+
+**॥ Bhāvārthaḥ ॥** The sins I have committed through ignorance, or the harm I have done to anyone knowingly, or the abuse and the lies I have uttered — may the waters carry away all these in their flow.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Waters, whatever sin there is in me, whatever ill-will I may have borne to others, whatever imprecations I may have uttered, and whatever falsehood I may have told, wash it away all from me.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 228)* **Application.** In the animal sacrifice, to perform the sprinkling (*mārjana*, *prokṣaṇa*), the rik *idam āpaḥ pravahata* is to be used; Āśvalāyana's Śrauta-sūtra, in the section *hutāyāṃ vapāyām*, says that the rik *idam āpaḥ pravahate* is to be used as the sprinkling mantra (Āś. [3-9]). The same rik is used also at bathing time in the *avabhṛtha* [final bath] at the end of the sacrifice; stated in the section *patnīsaṃyājaiś caritvā*, where the mantras *idam āpaḥ pra vahata* and *sumitryā na āpa oṣadhayaḥ santu* are to be used (Āś. [6-13]).
+
+**दुरितम्** — *ajñānān niṣpannaṃ kāyikaṃ pāpam*: the sin done by the body through ignorance, or the sin which is the result of an act done knowingly — that is, acts such as striking someone, the sins done by physical force. **अभिदुद्रोह** — *droha* is the name for thinking evil with the mind; this is a mental sin. **शेपे, अनृतम्** — sins done with speech, such as cursing and telling falsehoods; this is a prayer that the flowing waters may carry away these three kinds of sin — mental, bodily and verbal.
+
+---
+
+### Pages 229–232 — Sūkta 23, Rik 23
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> आपो अद्यान्वचारिषं रसेन समगस्महि ।
+> पयस्वानग्न आ गहि तं मा सं सृज वर्चसा ॥ २३ ॥
+
+*āpo adyānv acāriṣaṃ rasena samagasmahi | payasvān agna ā gahi taṃ mā saṃ sṛja varcasā || 23 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> आपः । अद्य । अनु । अचारिषम् । रसेन । सम् । अगस्महि ॥ पयस्वान् । अग्ने । आ । गहि । तम् । मा । सम् । सृज । वर्चसा ॥ २३ ॥
+
+*āpaḥ | adya | anu | acāriṣam | rasena | sam | agasmahi || payasvān | agne | ā | gahi | tam | mā | sam | sṛja | varcasā || 23 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> पशावाहवनीयोपस्थान आपो अद्यान्वचारिषमित्येषा । मनोतायै संप्रेषिते इति खण्डे सूत्रितम् — एत्योपतिष्ठमन्ते आपो अद्यान्वचारिषं (आ. ३-[६] [?]) इति ॥
+>
+> अद्यास्मिन्नेवावभृथार्थमप्सु [?] अन्वचारिषं जलान्यनुप्रविष्टवानस्मि । प्रविश्य च रसेन जलसारेण समगस्महि । संगताः स्मः । हे अग्ने पयस्वान् जले वर्तमानत्वेन पयोयुक्तस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । तं मा तादृशं स्नातं मां वर्चसा तेजसा सं सृज । संयोजय ॥ आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अचारिषम् । चर गत्यर्थः । लुङि च्लेः सिच् । आर्धधातुकस्येड्वलादेः (पा. ७-२-३५) । इतीट् । नेटि (पा. ७-२-४) इति वृद्धिप्रतिषेधे प्राप्ते तदपवादतयोऽतो लान्तस्य (पा. ७-२-३) इत्युपधायाः वृद्धिः । अगस्महि । समो गम्यृच्छिप्रच्छीत्यात्मनेपदम् (पा. १-३-२९) । च्लेः सिच् । मन्त्रे घसेत्यादिना च्लेर्लुगभावश्छन्दसः । एकाच उपदेशेऽनुदात्तादित्यादिनेट्प्रतिषेधः । वा गमः (पा. १-२-१३) इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्त्वेन ङित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । आतो हेरिति लुग्भवति । असिद्धवदत्राभादिति मलोपस्यासिद्धत्वात् ॥
+
+*paśāv āhavanīyopasthāna āpo adyānv acāriṣam ity eṣā | manotāyai saṃpreṣite iti khaṇḍe sūtritam — etyopatiṣṭhamante āpo adyānv acāriṣaṃ (ā. 3-[6] [?]) iti ||*
+*adyāsminn evāvabhṛthārtham apsu [?] anv acāriṣaṃ jalāny anupraviṣṭavān asmi | praviśya ca rasena jalasāreṇa samagasmahi | saṃgatāḥ smaḥ | he agne payasvān jale vartamānatvena payoyuktas tvam ā gahi | asmin karmaṇy āgaccha | taṃ mā tādṛśaṃ snātaṃ māṃ varcasā tejasā saṃ sṛja | saṃyojaya || āpaḥ | karmaṇi śasi prāpte vyatyayena jas | acāriṣam | cara gatyarthaḥ | luṅi cleḥ sic | ārdhadhātukasyeḍvalāder (pā. 7-2-35) itīṭ | neṭi (pā. 7-2-4) iti vṛddhipratiṣedhe prāpte tadapavādatayo 'to lāntasya (pā. 7-2-3) ity upadhāyāḥ vṛddhiḥ | agasmahi | samo gamyṛcchipracchīty ātmanepadam (pā. 1-3-29) | cleḥ sic | mantre ghasetyādinā cler lugabhāvaś chandasaḥ | ekāca upadeśe 'nudāttād ity ādineṭpratiṣedhaḥ | vā gamaḥ (pā. 1-2-13) iti sicaḥ kittvād anudāttopadeśety ādinānunāsikalopaḥ | gahi | loṭi gamer sipo hiḥ | apittvena ṅittvād anudāttopadeśety ādinānunāsikalopaḥ | āto her iti lug bhavati | asiddhavad atrābhād iti malopasyāsiddhatvāt ||*
+
+**Translation:** "In the animal sacrifice, at the *Āhavanīya-upasthāna*, the rik *āpo adyānv acāriṣam* [is used]; so it is laid down in the section *manotāyai saṃpreṣite*: 'having come, he approaches with [the mantra] *āpo adyānv acāriṣam*' (Āś. [3-6] [?]). 'Today, for the *avabhṛtha* [bath], I have entered (*anv acāriṣam*) the waters; having entered I have joined (*samagasmahi*) with their essence (*rasena*) — the essence of the waters. O Agni! *payasvān* — being in the water you are milk-filled — come (*ā gahi*) to this rite. Unite me, so bathed, with *varcas* — splendour.'" *(Grammar pages 230–232, noted briefly: the words treated are* āpaḥ *[a nominative plural used in the sense of the accusative *śas*, by *vyatyaya*],* acāriṣam *[*cara gatau*; aorist with *sic*; *iṭ* by P. 7-2-35; the lengthening of the penultimate vowel by P. 7-2-3 *ato lrāntasya*, since P. 7-2-4 *neṭi* prohibits it only where *iṭ* is absent],* agasmahi *[*sam* + *gam* with the *ātmanepada* by P. 1-3-29 *samo gamyṛcchipracchisvaratyartiśrutividibhyaḥ*; *sic* → *luk* not applied in the Veda (P. 2-4-80 *mantre ghasahvara…*); *iṭ* prohibited by P. 7-2-10 *ekāca upadeśe 'nudāttāt*; P. 1-2-13 *vā gamaḥ* makes *sic* optionally *kit*, with the loss of the nasal],* gahi *[*loṭ* + *sip* → *hi* by P. 3-4-87; being *ṅit*, the loss of the nasal by P. 6-4-37; *hi* lost by P. 6-4-105 *ato heḥ*; the *asiddha* rule P. 6-4-22 for the loss of *m*] and* payasvān *[*payas* + *matup*; *vat* by P. 8-2-15; *nuḍ*, *num*; vowel lengthening]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अद्य (adya)** — now, today | **आपः (āpaḥ)** — the waters | **अन्वचारिषम् (anvacāriṣam)** — I have entered [for the final bath] | **रसेन (rasena)** — with the essence of the waters | **समगस्महि (samagasmahi)** — we have joined | **(हे) अग्ने ((he) agne)** — O Agni | **पयस्वान् (payasvān)** — in the water, therefore full of water | **आ गहि (ā gahi)** — come to this rite | **तम् (tam)** — such a one, bathed | **मा (mā)** — me | **वर्चसा (varcasā)** — with splendour | **सं सृज (saṃ sṛja)** — unite.
+
+**॥ Bhāvārthaḥ ॥** For the *avabhṛtha* bath I have now entered the waters; all the essence in the waters has joined me. O Agni, since you abide in the waters, come to this rite and make me, who have bathed, splendid.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> I have this day entered into the waters; we have mingled with their essence; O Agni, existing in the waters, approach and fill me with vigour.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 231)* **Application.** In the animal sacrifice, at the time of worshipping the Āhavanīya fire, the rik *āpo adyānv acāriṣam* is to be used. This is stated in Āśvalāyana's Śrauta-sūtra, in the section *manotāyai saṃpreṣite*, in the sūtra *etyopatiṣṭhate āpo adyānv acāriṣam* (Āś. [3-6]). **आपः** — Skandasvāmin says that *āpaḥ* is the nominative plural in the sense of the accusative; that is, the meaning of *āpaḥ* is *apaḥ* — the accusative. **रसेन** — *jalasāreṇa*, with the essence of water; the sense is: may the pure water remove the impurities, the internal and external faults, of my body. **पयस्वान्** — *payasā jalena yuktaḥ*, or *payasi tiṣṭhatīti payasvān*: 'one who abides in the water'. In the Yajurveda sentences such as *so 'psv aprāviśat* say that Agni, concealed, lives in the waters; hence on many occasions it is said that Agni is in the waters. The second half of this rik is addressed to Agni.
+
+---
+
+### Pages 232–234 — Sūkta 23, Rik 24
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> सं माग्ने वर्चसा सृज सं प्रजया समायुषा ।
+> विद्युर्मे अस्य देवा इन्द्रो विद्यात्सह ऋषिभिः ॥ २४ ॥
+
+*saṃ māgne varcasā sṛja saṃ prajayā sam āyuṣā | vidyur me asya devā indro vidyāt saha ṛṣibhiḥ || 24 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> सम् । मा । अग्ने । वर्चसा । सृज । सम् । प्रऽजया । सम् । आयुषा ॥ विद्युः । मे । अस्य । देवाः । इन्द्रः । विद्यात् । सह । ऋषिऽभिः ॥ २४ ॥
+
+*sam | mā | agne | varcasā | sṛja | sam | pra-jayā | sam | āyuṣā || vidyuḥ | me | asya | devāḥ | indraḥ | vidyāt | saha | ṛṣi-bhiḥ || 24 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> हे अग्ने वर्चःप्रजायुर्भिर्मां संयोजय । देवाः सोमपातारोऽस्य मे यजमानस्य विद्युः । अनुष्ठानं जानीयुः । किंचेन्द्रश्च ऋषिगणैः सह ममानुष्ठानं विद्यात् । जानीयात् ॥ विद्युः । विद ज्ञाने । लिङ् झेर्जुस् (पा. ३-४-१०८ [?]) । … लिङः सलोपोऽनन्त्यस्य (पा. ७-२-७९) इति सकारलोपः । उस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । यासुट् उदात्तत्वे … [आगम् उदात्तः] । अस्य । इदमो न्ना … विभक्तिरपि … ऋषिभिः । ऋत्यकः (पा. ६-१-१२८) इति प्रकृतिभावः ॥
+
+*he agne varcaḥprajāyurbhir māṃ saṃyojaya | devāḥ somapātāro 'sya me yajamānasya vidyuḥ | anuṣṭhānaṃ jānīyuḥ | kiṃcendraś ca ṛṣigaṇaiḥ saha mamānuṣṭhānaṃ vidyāt | jānīyāt || vidyuḥ | vida jñāne | liṅ jher jus (pā. 3-4-108 [?]) | … liṅaḥ salopo 'nantyasya (pā. 7-2-79) iti sakāralopaḥ | usy apadāntāt (pā. 6-1-96) iti pararūpatvam | yāsuṭ udāttatve … | asya | idamo … | ṛṣibhiḥ | ṛty akaḥ (pā. 6-1-128) iti prakṛtibhāvaḥ ||*
+
+**Translation:** "O Agni! Unite me with splendour (*varcas*), offspring (*prajā*) and long life (*āyus*). May the gods, the drinkers of soma, know (*vidyuḥ*) this [rite] of mine, the sacrificer — may they know the performance. And may Indra, with the hosts of seers, know my rite. *Vidyuḥ*: *vida jñāne*, *liṅ*, *jhi* → *jus* [P. 3-4-108]; the loss of the *s* of *liṅ* by P. 7-2-79; the single substitute *pararūpa* by P. 6-1-96 *usy apadāntāt* … *Ṛṣibhiḥ*: *prakṛtibhāva* by P. 6-1-128 *ṛty akaḥ*." *(Grammar pages 233–234, noted briefly: the words treated are* vidyuḥ *[*vida jñāne*, *liṅ* 3rd plural; *jhi* → *jus* by P. 3-4-108 *jher jus*; the augment *yāsuṭ* and the loss of its *s* by P. 7-2-79 *liṅaḥ salopo 'nantyasya*; the *jus* with *s* lost by P. 8-2-29 *skoḥ saṃyogādyor ante ca*; *pararūpa* by P. 6-1-96 *usy apadāntāt*, giving the single *u*; the accent: the *yāsuṭ* being *udātta* by P. 3-1-… the *u* of *jus* … hence *vidyuḥ* is accented on the first syllable by P. 6-1-… and *rutva-visarga*] and* saha ṛṣibhiḥ *[*saha ṛṣibhiḥ*: *ṛty akaḥ* P. 6-1-128 — before *ṛ* a short *a*, *i*, *u* or *ṛ* at the end of a word takes *hrasva* and *prakṛtibhāva*; hence no guṇa, *saha ṛṣibhiḥ*; the print says P. 6-1-128 *ṛty akaḥ* without further discussion]. The grammar ends at the head of p. 234 with an ornament; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **(हे) अग्ने ((he) agne)** — O Agni | **मा (mā)** — me | **वर्चसा (varcasā)** — with splendour [strength] | **प्रजया (prajayā)** — with offspring | **आयुषा (āyuṣā)** — with life | **सं सृज (saṃ sṛja)** — unite | **देवाः (devāḥ)** — the gods [who drink soma] | **अस्य मे (asya me)** — my [performed] sacrifice | **विद्युः (vidyuḥ)** — may they know | **इन्द्रः (indraḥ)** — Indra | **ऋषिभिः सह (ṛṣibhiḥ saha)** — together with the seers | **विद्यात् (vidyāt)** — may know [the sacrifice performed by me].
+
+**॥ Bhāvārthaḥ ॥** O Agni! Grant me splendour, offspring and long life. May the gods, and Indra together with the seers, know the sacrificial rite I have performed.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Agni, confer upon me vigour, progeny and long life; the gods may know of this my sacrifice and Indra, with the Rishis may know it.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 233)* The sense of the first half of this rik is easily understood: Agni is prayed to grant long life, offspring and vigour (*varcas*). The sense of the second half is not very clear. The commentator explains *vidyur me asya* as '*anuṣṭhānaṃ jānīyuḥ*' — 'may they know the rite I perform'. In the words *indro vidyāt saha ṛṣibhiḥ* the word *ṛṣibhiḥ* has been used for some reason that is again not clear. The ṛṣi's intention seems to be that this sacrifice or praise of mine be known to Indra, to the gods, and to the other seers.
+
+**॥ Close of Sūkta 23 ॥** *(p. 234, upper part: the grammar ends and an ornamental rule is printed; no colophon with a varga number appears. The headline of printed p. 234 gives "Maṇḍala 1, Aṣṭaka 1, Adhyāya 2, Sūkta 24" [numerals as printed, small].)*
+
+---
+
+**Progress note — printed page 234 (upper part) reached; Sūkta 23 complete (all 24 Riks).**
+
+**This batch:** Riks 16–24 of Sūkta 23 (printed pp. 200–234: the riks to the Waters and to Agni). Sūkta 23 is now finished; grammar pages given as short notes.
+
+**Next task:** begin Sūkta 24 ("kasya nūnaṃ katamasyāmṛtānām", 15 Riks, Rishi Śunaḥśepa Ājīgarti; Rik 1 to Prajāpati/Agni, 2 Agni, 3 Savitṛ, 4–5 Savitṛ/Bhaga, 6–15 Varuṇa; heading block and Sāyaṇa's note on the lower part of printed p. 234, PDF page 249; the Anuvāda follows on p. 235 — read from the page; Sūkta 24 runs to printed p. 294; Sūkta 25 begins at p. 295). Pages 156–250 were rendered at 130 dpi in /tmp/s23/r-NNN.jpg (printed page = NNN − 15); re-render with `pdftoppm -jpeg -r 130 -f N -l M Rig_Vol3.pdf` for later pages.
+
+**Open flags:** as in earlier notes. In Sūkta 23 Riks 16–24: Ṛgveda/Āśvalāyana/Nirukta/Uṇādi numerals marked [?]; Rik 16 ritual-application sentences in the bhāṣya doubtful; Rik 17 grammar (pp. 206–211, a single scholastic discussion of P. 6-1-171/182) only characterized; Rik 20 Taittirīya sentence and the Ṛgvedic citations of Rik 21 given with tentative glosses; Rik 22–24 bhāṣya grammar passages in outline; Sūkta 22 and 23 heading varga numerals unclear.
