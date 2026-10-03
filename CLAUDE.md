@@ -11,9 +11,9 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20, 21 and 22 are complete — through printed page 140.** (Sūkta 22, "prātaryujā vibodhaya", has 21 Riks: Aśvins, Savitṛ, Agni, wives of the gods, Dyāvāpṛthivī, Pṛthivī, Viṣṇu.)
-**Next task: begin Sūkta 23 ("tīvrāḥ somāsa ā gahi", 24 Riks; Rishi Medhātithi Kāṇva) — heading page at printed p. 141 (PDF page 156).** Sūktas and their first
-pages: 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+Volume 3 translation is under way: **Sūktas 20, 21, 22 and 23 are complete — through printed page 234 (upper part).** (Sūkta 23, "tīvrāḥ somāsa ā gahi", has 24 Riks: Vāyu, Indra-Vāyū, Mitra-Varuṇa, Indra with the Maruts, Viśvedevas, Pūṣan, the Waters, Agni.)
+**Next task: begin Sūkta 24 ("kasya nūnaṃ katamasyāmṛtānām", 15 Riks; Rishi Śunaḥśepa Ājīgarti) — heading on the lower part of printed p. 234 (PDF page 249).** Sūktas and their first
+pages: 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
