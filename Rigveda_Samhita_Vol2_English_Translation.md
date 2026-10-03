@@ -11528,16 +11528,232 @@ O Agni, perform the sacrifice with these in view: Indra, Vāyu, Bṛhaspati, Mit
 
 **मारुतम् (mārutam)** — the final letter of the genitive plural *mārutām* has been shortened for the sake of the metre.
 
+**॥ Viśeṣa-viṣayagaḷu (Special Topics), Rik 3 — continuation (p. 594) ॥**
+
+**मारुतं गणम् (mārutaṃ gaṇam)** — The host (*samūha*) of the Marut deities. The Purāṇas and similar works say that there are seven Maruts (the *sapta-marut-gaṇas*); in the Ṛgveda too the word *marut* is ordinarily used in the plural. *Mārutaṃ gaṇam* therefore means "the company, the group, of the Marut deities."
+
+*(Rik 3 grammar, pp. 594–596 — Vyākaraṇa-prakriyā, grammar pages, noted briefly: the Kannada treats* indravāyū *(P. 6-3-26* devatādvandve ca *with the Vārttika that* ānaṅ *is barred for* vāyu*; P. 6-2-141* devatādvandve ca *and the bar in P. 6-2-142 [?]),* bṛhaspatim *(the Vārttika on* tasya… bṛhatoḥ karapatyoś coradevatayoḥ suṭ talopaś ca*; Pā. 6-1-157 [?] for the* kukkuṭādīnām… *discussion; P. 1-1-41* ādyantau ṭakitau*; the Uṇādi* ḍati *from* pā *"to protect", Uṇ. 4-[?]; the accent rule P. 6-2-140 [?]*), mitrā *(P. 7-1-39* supāṃ sulug…; *ekādeśa under P. 8-2-5),* ādityān *(P. 4-1-85* dityadity-ādityapatyuttarapadāṇ ṇyaḥ*, with the* ṇya *accent; 6-4-148* yasyeti ca*; 7-2-117* taddhiteṣv acām ādeḥ*; 6-1-103 and 8-4-6 [?] for the accusative plural* ān*), and* mārutam *(Uṇ. 1-94 [?]* mṛgror utiḥ*,* mṛj *"to cleanse"; P. 4-3-[?]* anudāttādeś ca *with* añ*, P. 6-1-197 [?]* ñnityādir nityam*, the first-syllable accent). Sūtra numbers read from small print are pointers only.)*
+
+### Pages 596–597 — Sūkta 14, Rik 4
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> प्र वो भ्रियन्त इन्दवो मत्सरा मादयिष्णवः ।
+> द्रप्सा मध्वश्चमूषदः ॥४॥
+>
+> *pra vo bhriyanta indavo matsarā mādayiṣṇavaḥ |*
+> *drapsā madhvaś camūṣadaḥ ||4||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> प्र । वः । भ्रियन्ते । इन्दवः । मत्सराः । मादयिष्णवः ॥
+> द्रप्साः । मध्वः । चमूऽसदः ॥४॥
+>
+> *pra | vaḥ | bhriyante | indavaḥ | matsarāḥ | mādayiṣṇavaḥ ||*
+> *drapsāḥ | madhvaḥ | camū-sadaḥ ||4||*
+
+*(Accent-marks are printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 596–597; Sanskrit printed in Kannada script; compressed; [?] marks doubtful readings)*
+
+> हे इन्द्रादिदेवा वो युष्मदर्थमिन्दवः सोमाः प्र भ्रियन्ते । प्रकर्षेण संपाद्यन्ते । कीदृशाः । मत्सराः तृप्तिकराः । मत्सरः सोमो मदन्त्यस्मिन्निति तृप्तिकर्मणः [?] । नि. २-[?] । इति यास्कः । मादयिष्णवो हर्षहेतवः । द्रप्सा बिन्दुरूपाः । मध्वो मधुराः । चमूषदश्चमूषु चमसादिपात्रेष्ववस्थिताः । प्र । व्यवहिताश्च । पा. १-४-८२ । इति व्यवहितप्रयोगः । भ्रियन्ते । भृञो यकि रिङ् शयग्लिङ्क्षु । पा. ७-४-२८ । इति रिङादेशः । हृञो वा [?] । हृग्रहोर्भश्छन्दसीति हकारस्य भकारः । इन्दवः । उन्दी क्लेदने । उनत्ति पात्राणीति । … उ. १-१३ [?] । इत्युप्रत्यय आदेरिकारश्च । नित्त्वादाद्युदात्तः । मत्सराः । मदी तृप्तियोगे । चित्त्वादन्तोदात्तः [?] । मादयिष्णवः । मदी हर्षग्लपनयोः । मदेर्णिजन्ताच्छन्दसि । पा. ३-२-१३७ । इष्णुच् । … पा. ६-४-५५ । इत्ययादेशः । चित्त्वादन्तोदात्तः । मध्वः । मधुशब्द आद्युदात्त उक्तः । मधुशब्दस्य व्यत्ययेन पुंलिङ्गत्वम् । … जसि च । पा. ७-३-१०९ । इति गुणो न भवति । चमूषदः । चमु छमु जमु झमु अदने । चम्यते भक्ष्यते येषु चमसेषु ते चम्वः । कृषिचमितनीत्यादिना । उ. १-८१ [?] । ऊः । तत्र सीदन्तीति चमूषदः । सत्सूद्विषेत्यादिना । पा. ३-२-६१ । क्विप् । सुषामादेराकृतिगणत्वात्षत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+>
+> *he indrādi-devā vo yuṣmad-artham indavaḥ somāḥ pra bhriyante | prakarṣeṇa saṃpādyante | kīdṛśāḥ | matsarāḥ tṛptikarāḥ | matsaraḥ somo madanty asminn iti tṛpti-karmaṇaḥ [?] | ni. 2-[?] | iti yāskaḥ | mādayiṣṇavo harṣa-hetavaḥ | drapsā bindu-rūpāḥ | madhvo madhurāḥ | camūṣadaś camūṣu camasādi-pātreṣv avasthitāḥ | pra | vyavahitāś ca | pā. 1-4-82 | iti vyavahita-prayogaḥ | bhriyante | bhṛño yaki riṅ śayag-liṅkṣu | pā. 7-4-28 | iti riṅādeśaḥ | hṛño vā [?] | hṛgrahor bhaś chandasīti hakārasya bhakāraḥ | indavaḥ | undī kledane | unatti pātrāṇīti | … u. 1-13 [?] | ity u-pratyaya ād erikāraś ca | nittvād ādyudāttaḥ | matsarāḥ | madī tṛpti-yoge | cittvād antodāttaḥ [?] | mādayiṣṇavaḥ | madī harṣa-glapanayoḥ | mader ṇijantāc chandasi | pā. 3-2-137 | iṣṇuc | … pā. 6-4-55 | ity ayādeśaḥ | cittvād antodāttaḥ | madhvaḥ | madhu-śabda ādyudātta uktaḥ | madhu-śabdasya vyatyayena puṃlingatvam | … jasi ca | pā. 7-3-109 | iti guṇo na bhavati | camūṣadaḥ | camu chamu jamu jhamu adane | camyate bhakṣyate yeṣu camaseṣu te camvaḥ | kṛṣi-camiti-nītyādinā | u. 1-81 [?] | ūḥ | tatra sīdantīti camūṣadaḥ | sat-sūdviṣety-ādinā | pā. 3-2-61 | kvip | suṣāmādeḥ ākṛtigaṇatvāt ṣatvam | kṛd-uttarapada-prakṛti-svaratvam ||*
+
+**Translation:** "O Indra and the other gods, for you the soma-juices (*indavaḥ*) are being well prepared (*pra bhriyante*) — they are accomplished with care. Of what kind? *Matsarāḥ* — causing satisfaction; Yāska says: '*matsara* is soma, from *mad* "to be glad", in the sense of satisfaction' (Nirukta 2-[?]). *Mādayiṣṇavaḥ* — causes of delight. *Drapsāḥ* — in the form of drops. *Madhvaḥ* — sweet. *Camūṣadaḥ* — resting in the *camū*s, the vessels such as the *camasa*. *Pra* — separated [from its verb *bhriyante*; P. 1-4-82 allows the separated use of a *gati*]." *(The remainder is grammar, noted briefly: for* bhriyante *the root* bhṛ *in the passive with the substitute* riṅ *by P. 7-4-28; for* indavaḥ *the root* undī *"to wet" with the* u *suffix and* i *in place of the first letter; for* matsarāḥ *the root* madī *"to be satisfied" with a suffix carrying the indicatory* c *(accent on the last syllable); for* mādayiṣṇavaḥ *the causative of* mad *with* iṣṇuc *by P. 3-2-137 and the* ay *substitution; for* madhvaḥ *a note that the neuter* madhu *is here used in the masculine by* vyatyaya *and that the* guṇa *is not applied before* jas *(P. 7-3-109); for* camūṣadaḥ *the root* cam *"to eat", the formation* camvaḥ *"the vessels in which [soma] is eaten/drunk" with the Uṇādi* ūḥ *(Uṇ. 1-[?]), then* sad *+* kvip *(P. 3-2-61) and the* ṣatva *by the 'open-class' list* suṣāmādi*, with the accent of the compound that of its final member.)* Grammar pages, noted briefly; the numerals 1-4-82, 7-4-28, 3-2-137, 6-4-55, 7-3-109 and 3-2-61 are as read from the print and agree with the standard Pāṇini numbering of the corresponding rules.
+
+**॥ Prati-padārthaḥ ॥** *(p. 597)*
+
+**(हे इन्द्रादिदेवताः) ((he indrādi-devatāḥ))** — O Indra and the other deities | **वः (vaḥ)** — to you [Kannada: for you, with the accent of the second-person plural] | **मत्सराः (matsarāḥ)** — causing satisfaction | **मादयिष्णवः (mādayiṣṇavaḥ)** — causing delight | **द्रप्साः (drapsāḥ)** — in the form of drops | **मध्वः (madhvaḥ)** — sweet | **चमूषदः (camūṣadaḥ)** — resting in the *camasa*-vessels | **इन्दवः (indavaḥ)** — the soma-juices | **प्र भ्रियन्ते (pra bhriyante)** — are being well prepared.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Indra and the other gods! For you these soma-juices — sweet, giving you delight and satisfaction, in the form of drops — are being made ready (or: being offered).
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> For you (gods) are poured out these (soma) juices, satisfying, exhilarating, sweet, falling in drops or standing in the cup.
+
+*(The print has "exhilarat-ing·" with a stray full stop and "(g;ods)" at the line break — misprints [sic]; I give the words as intended.)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मत्सराः (matsarāḥ)** — "Soma is called *matsara* because it makes people glad, being *mad* ('to be satisfied')" (Ni. 2-[?], the Yāska quotation *matsaraḥ somo madanty asmin tṛptikarmaṇaḥ* [?]). Because it brings joy, the soma-juice is called *matsara*.
+
+**मादयिष्णवः (mādayiṣṇavaḥ)** — from the root *madī* ("to rejoice, to be exhausted/gladdened"), a word meaning "that which causes joy".
+
+**द्रप्साः (drapsāḥ)** — "in the form of drops": when the soma-creeper is crushed, the juice trickles out drop by drop, so it is called "drop-like".
+
+**चमूषदः (camūṣadaḥ)** — *camyate bhakṣyate yeṣu camaseṣu te camvaḥ*: the sacrificial vessel called *camasa*. The *camasa* is the vessel used for drinking or eating, so the word *camasa* is formed in that sense; "that which sits in such a vessel": the soma-juice.
+
+
+### Pages 599–603 — Sūkta 14, Rik 5
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> ईळते त्वामवस्यवः कण्वासो वृक्तबर्हिषः ।
+> हविष्मन्तो अरंकृतः ॥५॥
+>
+> *īḷate tvām avasyavaḥ kaṇvāso vṛktabarhiṣaḥ |*
+> *haviṣmanto araṅkṛtaḥ ||5||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> ईळते । त्वाम् । अवस्यवः । कण्वासः । वृक्तऽबर्हिषः ॥
+> हविष्मन्तः । अरम्ऽकृतः ॥५॥
+>
+> *īḷate | tvām | avasyavaḥ | kaṇvāsaḥ | vṛkta-barhiṣaḥ ||*
+> *haviṣmantaḥ | aram-kṛtaḥ ||5||*
+
+*(Accent-marks are printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 600; compressed; [?] marks doubtful readings)*
+
+> हे अग्ने त्वामीळते ऋत्विजः स्तुवन्ति । कीदृशाः । अवस्यवः । अवनं रक्षणं तद्देवोऽ…न् [?] देवानिच्छन्तः । कण्वासो मेधाविनो वृक्तबर्हिष आस्तरणार्थं छिन्नदर्भा हविष्मन्तो हविर्युक्ता अरंकृतोऽलंकर्तारः ॥ ईळते । ईड स्तुतौ । अनुदात्तेत्त्वाल्लटो झः । आदिप्रभृतिभ्यः शप इति शपो लुक् । झस्यात्वादेशः । टेरेत्वम् । तास्यनुदात्तेदित्यादिना लसार्वधातुकस्यानुदात्तत्वाद्धातुस्वर एव शिष्यते । अवस्यवः । अवमात्मन इच्छन्ति । सुप आत्मनः क्यच् । क्यचि च । पा. ७-४-३३ । इतीत्त्वं न भवति । न छन्दस्यपुत्रस्य । पा. ७-४-३५ । इति निषेधात् । सर्वप्रातिपदिकेभ्यो लालसायां सुग्वक्तव्यः । … इति सुक् । क्याच्छन्दसीत्युप्रत्ययः । आतो लोपः । प्रत्ययस्वरेणान्तोदात्तत्वम् । कण्वासः । कण शब्दार्थः । कणन्ति ध्वनन्ति स्तोत्रादिपाठेनेति कण्वा ऋत्विजः । अशूप्रुषीत्यादिना क्वन् । नित्त्वादाद्युदात्तः । आज्जसेरसुक् । पा. ७-१-५० । इत्यसुक् । वृक्तबर्हिषः । वृक्तमुक्तं । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हविष्मन्तः । हविरेषामस्तीति हविष्मन्तः । तसौ मत्वर्थ इति भत्वेनापदत्वान्न रुत्वम् । अरंकृतः । अलंकुर्वन्तीत्यरंकृतः । क्विप् च । क्विप् । ह्रस्वस्य तुक् । कपिलकादीनां संज्ञाच्छन्दसोर्वा लो रश्चमापद्यते । इति लकारस्य रेफादेशः ॥
+>
+> *he agne tvām īḷate ṛtvijaḥ stuvanti | kīdṛśāḥ | avasyavaḥ | avanaṃ rakṣaṇaṃ tad-… [?] devān icchantaḥ | kaṇvāso medhāvino vṛkta-barhiṣa āstaraṇārthaṃ chinna-darbhā haviṣmanto havir-yuktā araṅkṛto 'laṅkartāraḥ || īḷate | īḍa stutau | anudāttettvāl laṭo jhaḥ | ādiprabhṛtibhyaḥ śapa iti śapo luk | jhasyātvādeśaḥ | ṭer ettvam | tāsy-anudāttetty-ādinā lasārvadhātukasyānudāttatvād dhātu-svara eva śiṣyate | avasyavaḥ | avam ātmana icchanti | supa ātmanaḥ kyac | kyaci ca | pā. 7-4-33 | itīttvaṃ na bhavati | na chandasy aputrasya | pā. 7-4-35 | iti niṣedhāt | sarva-prātipadikebhyo lālasāyāṃ sug vaktavyaḥ | … iti suk | kyāc chandasīty u-pratyayaḥ | āto lopaḥ | pratyaya-svareṇāntodāttatvam | kaṇvāsaḥ | kaṇa śabdārthaḥ | kaṇanti dhvananti stotrādi-pāṭheneti kaṇvā ṛtvijaḥ | aśūpruṣīty-ādinā kvan | nittvād ādyudāttaḥ | āj jaser asuk | pā. 7-1-50 | ity asuk | vṛkta-barhiṣaḥ | vṛktam uktaṃ | bahuvrīhau pūrvapada-prakṛti-svaratvam | haviṣmantaḥ | havir eṣām astīti haviṣmantaḥ | tasau matvartha iti bhatvenāpadatvān na rutvam | araṅkṛtaḥ | alaṅkurvantīty araṅkṛtaḥ | kvip ca | kvip | hrasvasya tuk | kapilakādīnāṃ saṃjñā-chandasor vā lo raś camāpadyate | iti lakārasya repha-ādeśaḥ ||*
+
+**Translation:** "O Agni, the priests praise (*īḷate*) you. Of what sort? *Avasyavaḥ* — desiring *avana*, protection, [from the gods]; *kaṇvāsaḥ* — the wise [priests]; *vṛktabarhiṣaḥ* — having cut the *darbha* grass for spreading [as your seat]; *haviṣmantaḥ* — possessing oblations; *araṅkṛtaḥ* — adorners (those who decorate)." *(The words after "protection" in the second sentence are partly unclear in the print; I give them with a query.)* The rest is grammar: *īḷate* — root *īḍ* "to praise", *laṭ*, third plural *jha* → *ate*, *śap* dropped, accent kept on the root; *avasyavaḥ* — *avam ātmana icchanti*: *kyac* in the sense of wishing, with *suk* (P. 7-4-33 and 7-4-35 bar the *ī*-lengthening), then the *u* suffix and the loss of *ā*; *kaṇvāsaḥ* — root *kaṇ* "to sound": "they sound, i.e. voice the hymns" — *kvan* by the Uṇādi sūtra *aśūpruṣi…*, first-syllable accent, the plural ending *asuk* by P. 7-1-50 *āj jaser asuk*; *vṛktabarhiṣaḥ* — *vṛkta* = "cut off", a bahuvrīhi keeping the accent of the first member; *haviṣmantaḥ* — "those who have *havis*"; *araṅkṛtaḥ* — "those who make fit", *alam* + *kṛ* + *kvip*, *tuk* after a short vowel, and the optional change of *l* to *r* in the word *alam* by the Vārttika *kapilakādīnāṃ saṃjñā-chandasor vā lo raś ca…* *(Grammar, noted briefly; the sūtras 7-4-33, 7-4-35, 7-1-50 are as read and match the standard numbering; the remaining numerals I could not read at 150 dpi.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 600)*
+
+**(हे अग्ने) ((he agne))** — O Agni | **अवस्यवः (avasyavaḥ)** — desiring the help of the gods, for protection | **वृक्तबर्हिषः (vṛkta-barhiṣaḥ)** — having the *darbha* grass trimmed (for your seat) | **हविष्मन्तः (haviṣmantaḥ)** — holding the oblation | **अरंकृतः (araṅkṛtaḥ)** — offering ornaments | **कण्वासः (kaṇvāsaḥ)** — the wise priests, or priests of the lineage of the ṛṣi Kaṇva | **त्वाम् (tvām)** — you | **ईळते (īḷate)** — praise.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni! The priests seek the help of the gods for the protection of their sacrifice; they are skilled in praising. You are the one who calls the gods; therefore they now praise you. For your seat they have prepared the *darbha* grass; they offer the oblation and ornaments. Be gracious and come.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Agni, the Kanvas (or the wise priests) desirous of your favour, having spread [print: "spiead", sic] the sacrificial grass and carrying the oblations and ornaments are praising you.
+
+*(A bare numeral "76" follows at the foot of p. 601, as with the earlier "74" and "75".)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 601)*
+
+**अवस्यवः (avasyavaḥ)** — *avanaṃ rakṣaṇaṃ tad icchantaḥ devān* [the print of the Sanskrit gloss as read]; *avanti ity avā devāḥ*: because the gods protect human beings, the gods are called *avāḥ*; those who desire them are *avasyavaḥ*.
+
+**कण्वासः (kaṇvāsaḥ)** — the plural of *kaṇva*; *kaṇvāḥ* is the ancient form of use. *Kaṇanti dhvananti stotrādi-pāṭhena iti kaṇvāḥ ṛtvijaḥ medhāvinaḥ*: those who sound (utter aloud) hymns and so on are called *kaṇvāḥ*, priests; the word also has the sense *medhāvin* "intelligent" (see Rik 2). The commentator takes the word in the sense obtained from its derivation; another sense is possible, since the ṛṣi of this rik is of the Kaṇva lineage: in naming himself and his fellow priests, sacrificers and others of his family, the speaker would naturally use *kaṇvāsaḥ* with the meaning "we, who are of the lineage of the ṛṣi Kaṇva".
+
+**वृक्तबर्हिषः (vṛkta-barhiṣaḥ)** — we have given the explanation of this word earlier [the print gives a Sūkta/Rik pointer, "Sūkta 13 rik 3"? (the numerals are small and I read them with a query)].
+
+**अरंकृतः (araṅkṛtaḥ)** — for the explanation of this word see the Ṛgveda Saṃhitā, earlier part, [page numeral unreadable] [?].
+
+### Pages 603–607 — Sūkta 14, Rik 6
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> घृतपृष्ठा मनोयुजो ये त्वा वहन्ति वह्नयः ।
+> आ देवान्त्सोमपीतये ॥६॥
+>
+> *ghṛtapṛṣṭhā manoyujo ye tvā vahanti vahnayaḥ |*
+> *ā devān somapītaye ||6||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> घृतऽपृष्ठाः । मनःऽयुजः । ये । त्वा । वहन्ति । वह्नयः ॥
+> आ । देवान् । सोमऽपीतये ॥६॥
+>
+> *ghṛta-pṛṣṭhāḥ | manaḥ-yujaḥ | ye | tvā | vahanti | vahnayaḥ ||*
+> *ā | devān | soma-pītaye ||6||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 604; compressed; [?] marks doubtful readings)*
+
+> हे अग्ने त्वा त्वां ये ऽश्वास्त्वा रथेन वहन्ति । कीदृशाः । घृतपृष्ठाः । पुष्टाङ्गत्वेन दीप्तपृष्ठा मनोयुजो मनःसंकल्पमात्रेण रथे युज्यमानाः वह्नयो वोढारः तैरश्वैः सोमपीतये सोमपानयोगार्थं देवानावहेति शेषः ॥ घृतपृष्ठाः । घृ क्षरणदीप्त्योः । घृतं दीप्तं पृष्ठं येषां ते घृतपृष्ठाः । घृतशब्दः प्रत्ययस्वरेणान्तोदात्तः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । मनसा युञ्जते इति मनोयुजः । ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च । पा. ३-२-५९ [?] । इति क्विन् । कृदुत्तरपदप्रकृतिस्वरत्वम् । त्वा । त्वामौ द्वितीयायाः । पा. ८-१-२३ । इत्यनुदात्तस्त्वादेशः । वहन्ति । शप्लुगोरनुदात्तत्वाद्धातुस्वरः [?] । यद्वृत्तयोगान्निघाताभावः । वह्नयः । नि [इति] अनुवृत्तौ वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो निः । उ. ४-[?] । इति निप्रत्ययः । तस्य नित्त्वादाद्युदात्तत्वम् । सोमपीतये । उक्तम् । … धुडागमः । खरि च । पा. ८-४-५५ । इति चर्त्वम् । चयो द्वितीयाः शरि पौष्करसादेः [वार्त्तिक] । इति द्वितीयस्थकारः ॥६॥
+>
+> *he agne tvā tvāṃ ye 'śvās tvā rathena vahanti | kīdṛśāḥ | ghṛtapṛṣṭhāḥ | puṣṭāṅgatvena dīpta-pṛṣṭhā manoyujo manaḥ-saṃkalpa-mātreṇa rathe yujyamānāḥ vahnayo vodhāraḥ tair aśvaiḥ somapītaye soma-pāna-yogārthaṃ devān āvaheti śeṣaḥ || ghṛtapṛṣṭhāḥ | ghṛ kṣaraṇa-dīptyoḥ | ghṛtaṃ dīptaṃ pṛṣṭhaṃ yeṣāṃ te ghṛtapṛṣṭhāḥ | ghṛta-śabdaḥ pratyaya-svareṇāntodāttaḥ | bahuvrīhau pūrvapada-prakṛti-svaratvam | manasā yuñjate iti manoyujaḥ | ṛtvig-dadhṛk-sraj-dig-uṣṇig-añcu-yuji-kruñcāṃ ca | pā. 3-2-59 [?] | iti kvin | kṛd-uttarapada-prakṛti-svaratvam | tvā | tvāmau dvitīyāyāḥ | pā. 8-1-23 | ity anudāttas tvādeśaḥ | vahanti | śap-lugor anudāttatvād dhātu-svaraḥ [?] | yad-vṛtta-yogān nighātābhāvaḥ | vahnayaḥ | ni [iti] anuvṛttau vahi-śri-śru-yu-dru-gla-hā-tvaribhyo niḥ | u. 4-[?] | iti ni-pratyayaḥ | tasya nittvād ādyudāttatvam | somapītaye | uktam | … dhuḍāgamaḥ | khari ca | pā. 8-4-55 | iti cartvam | cayo dvitīyāḥ śari pauṣkarasāder [vārttika] | iti dvitīya-sthakāraḥ ||6||*
+
+**Translation:** "O Agni! The horses that carry you, by chariot — of what kind are they? *Ghṛtapṛṣṭhāḥ*: with glossy backs, shining because their bodies are well nourished; *manoyujaḥ*: yoked to the chariot by the mere purpose of the mind; *vahnayaḥ*: bearers. With those horses, bring the gods (the verb *ā vaha* is to be supplied) to share in the drinking of the soma." The rest is grammar, noted briefly: *ghṛtapṛṣṭhāḥ* (root *ghṛ* "to drip, to shine"; the *bahuvrīhi* keeps the accent of its first member); *manoyujaḥ* (*manas* + *yuj* with *kvin* by P. 3-2-59 [the numeral is uncertain]; the accent of the compound is that of its final member); *tvā* (P. 8-1-23, the unaccented substitute); *vahanti* (accent stays on the root; no *nighāta* because of the relative *ye*, P. 8-1-66 [?] *yadvṛttān nityam*); *vahnayaḥ* (the Uṇādi *ni* suffix, indicatory *n*, first-syllable accent); *somapītaye* (explained earlier; here the *dhuṭ* augment of the *n* of *devān* before *s* [P. 8-3-30 as read; the standard number of this rule is 8-3-29 or 8-3-30], then *khari ca* P. 8-4-55, then the Vārttika on the second-class letter after a *cay* letter before *śar*, *pauṣkarasāder*: *devān t-somapītaye*, i.e. *devān̐ t somapītaye* in the Saṃhitā.) *(Grammar pages (pp. 605–607), noted briefly, as above.)*
+
+**Grammar pages (pp. 605–607), noted briefly.** The Kannada Vyākaraṇa-prakriyā treats *ghṛtapṛṣṭhāḥ* (the *ghṛta* word by the Phiṭ-sūtra on accent, Phiṭ 3-[?]; *bahuvrīhau prakṛtyā pūrvapadam*, P. 6-2-1), *manoyujaḥ* (the *kvin* of the Pāṇinian list *ṛtvig-dadhṛk-sraj-dig-uṣṇig-añcu-yuji-kruñcāṃ ca*, P. 3-2-59; the Kaumudī's view that *kvin* needs no upapada, against the Vedabhāṣya's view that it is added to *yuj* with an upapada), *tvā* (P. 8-1-23), *vahanti* (the *laṭ* with *jhi* → *anti*; the *śap* and the accent rules 3-1-4 and 6-1-186 *tāsy-anudāttenni-ḍad-upadeśāt*), and then, at length, the rule *yadvṛttān nityam* (P. 8-1-66) — that a finite verb following a clause with *ye* is not made unaccented — together with the Vārttika *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ* (the "adored one" is unaccented after *kāṣṭha* etc.) and the debate on *pūjanāt*'s fifth-case sense, whether *anantaryārtha* "immediately after" is intended and so whether *tasmād ity uttarasya* (P. 1-1-67) governs; the conclusion reached is that *nighāta* does not occur in *ye tvā vahanti*, hence "all-unaccented" does not apply. Then *vahnayaḥ* (the Uṇādi *niḥ* suffix, with *vah* "to carry"), and *somapītaye*, where the *dhuṭ* augment and the *cartva* rules are explained (P. 8-3-30 [?], 8-4-55, with the Vārttika of the Pauṣkarasādi school, and P. 1-1-50 *sthāne 'ntaratamaḥ*; P. 8-4-47 [?]). *(Crowded print; I give only the words treated and the sūtras I could read; numerals marked [?] are uncertain.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 604)*
+
+**(हे अग्ने) ((he agne))** — O Agni | **घृतपृष्ठाः (ghṛta-pṛṣṭhāḥ)** — having glossy backs, shining because well nourished | **मनोयुजः (manoyujaḥ)** — those that yoke themselves to the chariot by mere intention | **ये (ye)** — which horses | **वह्नयः (vahnayaḥ)** — capable of carrying | **त्वा (tvā)** — you | **वहन्ति (vahanti)** — carry (bring) | **सोमपीतये (somapītaye)** — for the drinking of soma | **देवान् (devān)** — the gods | **आ (वह) (ā (vaha))** — bring [with those horses].
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni! The horses that carry you, seated in the chariot, to the sacrificial ground have backs that shine because they are so well nourished. They can yoke themselves to the chariot at your mere wish; they are strong to carry. With those horses, bring the gods to drink the soma.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> By means of horses which have backs as soft and smooth as clarified butter which harnessing themselves promptly according to your wish, carry you and the gods hither to drink soma-juice.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 605)*
+
+**घृतपृष्ठाः (ghṛtapṛṣṭhāḥ)** — we have explained this word in the ninth rik of the preceding sūkta (printed "p. 549" — a Kannada cross-reference to the earlier page). Here the word qualifies *vahnayaḥ* "horses", so the sense is slightly different: horses whose backs are as smooth, shining and soft as clarified butter.
+
+**वह्नयः (vahnayaḥ)** — *vodhāraḥ aśvā ity arthaḥ*: "bearers, horses"; because they carry the chariot, horses are called *vahnayaḥ*.
+
+**मनोयुजः (manoyujaḥ)** — the horses are yoked to the chariot by the mere mental intention of Agni; *manasā yuñjate iti manoyujaḥ* is the derivation.
+
+### Pages 607–610 — Sūkta 14, Rik 7
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> तान्यजत्राँ ऋतावृधो ऽग्ने पत्नीवतस्कृधि ।
+> मध्वः सुजिह्व पायय ॥७॥
+>
+> *tān yajatrām̐ ṛtāvṛdho 'gne patnīvatas kṛdhi |*
+> *madhvaḥ sujihva pāyaya ||7||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> तान् । यजत्रान् । ऋतऽवृधः । अग्ने । पत्नीऽवतः । कृधि ॥
+> मध्वः । सुऽजिह्व । पायय ॥७॥
+>
+> *tān | yajatrān | ṛta-vṛdhaḥ | agne | patnī-vataḥ | kṛdhi ||*
+> *madhvaḥ | su-jihva | pāyaya ||7||*
+
+*(Accent-marks printed in the source; not reproduced. The Saṃhitā's first word is* tān yajatrān*, joined in sandhi as* tān̐ yajatrām̐ *— as printed:* tānyajatrāँ*.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 607 lower half to p. 608 top; compressed; [?] marks doubtful readings)*
+
+> हे अग्ने तानिन्द्रादीन्देवान्यजत्रान्यजनीयान् ऋतावृधः सत्यस्य यज्ञस्य वा वर्धकान् पत्नीवतः पत्नीयुक्तान्कृधि । कुरु । हे सुजिह्व । शोभनजिह्वोपेत मध्वो मधुरस्य सोमस्य भागं देवान्पाययेति शेषः ॥ यजत्रा । अमिनक्षियजिबन्धिपतिभ्यस्त्रन् [?] । उ. [?] । इति यजेस्त्रप्रत्ययः । ऋतावृधः । वृधु वृद्धौ । अन्तर्भावितण्यर्थात्क्विप् च [?] इति क्विप् । आङ्येषामपि दृश्यते इति पूर्वपदस्य दीर्घत्वम् । वृद्धेर्धातुस्वरः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । अग्ने । पादादित्वान्नामन्त्रितेनिघातः । षाष्ठिकमाद्युदात्तत्वम् । पत्नीवतः । पत्युर्नो यज्ञसंयोगे । पा. ४-१-३३ । इति ङीप् । ईकारस्य च नकारः । ता एषां सन्तीति मतुप् । छन्दसीर इति वत्वम् । पतिशब्दो डतिप्रत्ययान्तत्वादाद्युदात्तः । ङीन्मतुपोरनुदात्तत्वात्प्रत्यय एव [?] शिष्यते । कृधि । कृञो लोटः सिः । सेर्ह्यपिच्चेति हिः । बहुलं छन्दसीति विकरणलुक् । श्रुशृणुपृकृवृभ्यश्छन्दसि । पा. ६-४-१०२ । इति हेर्धिरादेशः । ञित्त्वाद्गुणाभावः । मध्वः । उक्तम् । सुजिह्व । आमन्त्रितनिघातः । पायय । पा पाने । पिबन्तं प्रयुङ्क्ते इति हेतुमति चेति णिच् । शाच्छासाह्वाव्यावेपां युक् । पा. ७-३-३७ । इति युक् । पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वम् । … तिङ्ङतिङ इति निघातः ॥७॥
+>
+> *he agne tān indrādīn devān yajatrān yajanīyān ṛtāvṛdhaḥ satyasya yajñasya vā vardhakān patnīvataḥ patnī-yuktān kṛdhi | kuru | he sujihva | śobhana-jihvopeta madhvo madhurasya somasya bhāgaṃ devān pāyayeti śeṣaḥ || yajatrā | amina-kṣi-yaji-bandhi-patibhyas tran [?] | u. [?] | iti yajes tra-pratyayaḥ | ṛtāvṛdhaḥ | vṛdhu vṛddhau | antarbhāvita-ṇyarthāt kvip ca [?] iti kvip | āṅ-yeṣām api dṛśyate iti pūrvapadasya dīrghatvam | vṛddher dhātu-svaraḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | agne | pādāditvān nāmantrite nighātaḥ | ṣāṣṭhikam ādyudāttatvam | patnīvataḥ | patyur no yajña-saṃyoge | pā. 4-1-33 | iti ṅīp | īkārasya ca nakāraḥ | tā eṣāṃ santīti matup | chandasīra iti vatvam | pati-śabdo ḍati-pratyayāntatvād ādyudāttaḥ | ṅīn-matupor anudāttatvāt pratyaya eva [?] śiṣyate | kṛdhi | kṛño loṭaḥ siḥ | ser hy apic ceti hiḥ | bahulaṃ chandasīti vikaraṇa-luk | śru-śṛṇu-pṛ-kṛ-vṛbhyaś chandasi | pā. 6-4-102 | iti her dhir ādeśaḥ | ñittvād guṇābhāvaḥ | madhvaḥ | uktam | sujihva | āmantrita-nighātaḥ | pāyaya | pā pāne | pibantaṃ prayuṅkte iti hetumati ceti ṇic | śācchāsāhvāvyāvepāṃ yuk | pā. 7-3-37 | iti yuk | pūrvasyāmantritasyāvidyamānavattvam | … tiṅ ataṅ iti nighātaḥ ||7||*
+
+**Translation:** "O Agni! Make those gods — Indra and the rest — *yajatrāḥ*: worthy of worship; *ṛtāvṛdhaḥ*: who cause the truth (or the sacrifice) to grow; *patnīvataḥ*: accompanied by their wives. *Kṛdhi*: do it. O *sujihva* — you of the beautiful tongue — [make them] drink their share of the sweet (*madhvaḥ*) soma." The rest is grammar: *yajatrā* (the Uṇādi *tran* after *yaj*; I give the sūtra as [?]); *ṛtāvṛdhaḥ* (*vṛdh* with *kvip*, the lengthening of the first member of the compound; the accent of the root); *agne* (as in earlier riks); *patnīvataḥ* (*pati* → *patnī* by P. 4-1-33 *patyur no yajña-saṃyoge* with *ṅīp* and the *n*; then *matup*, with *va* in the Veda); *kṛdhi* (*kṛ* + *loṭ*, *hi* → *dhi* by P. 6-4-102 *śru-śṛṇu-pṛ-kṛ-vṛbhyaś chandasi*); *pāyaya* (the causative of *pā* "to drink", with *yuk* by P. 7-3-37 *śācchāsāhvāvyāvepāṃ yuk*). *(Grammar, noted briefly; the sūtra numbers 4-1-33, 6-4-102 and 7-3-37 are as read and agree with the standard numbering.)*
+
+**Grammar pages (pp. 608–610), noted briefly.** The Kannada treats *yajatrān* (the Uṇādi sūtra *aminakṣiyajivadhipatibhyas tran*, Uṇ. 3-[?]; accent by the indicatory *n*; the *ru* of the accusative plural before a vowel by P. 8-3-4 [?]*, then the *anunāsika* by P. 8-3-2 [?]), *ṛtāvṛdhaḥ* (*ṛta* as upapada with *ṇic* hidden in the root; *kvip* by P. 3-2-76 [?]; *āṅ-yeṣām api dṛśyate* P. 6-3-[?]), *agne* (the vocative at the beginning of the pāda is accented first-syllable by P. 6-1-198, not unaccented by P. 8-1-19 [?]), and at some length *patnīvataḥ* — the rule *patyur no yajña-saṃyoge* (P. 4-1-33) and a discussion whether the word *pati* in this rule is the 'husband' who is a sacrificer with his wife (the *saha-adhikāra* of couples in the sacrifice, supported by the Kaiyaṭa's gloss *patnī-ṅīṣ-ca dampatyor yajña-adhikāra*, and by the Pūrva-Mīmāṃsā passages in Adhyāya 6, Pāda 1 about the couple's joint right), with the point that the word *pati* here means "lord" (*aiśvarya*), as in the Mahābhāṣya, and that the feminine-with-*n* occurs where the *aiśvarya* arises from connection with the sacrifice. Then *matup* with *chandasīra* *va*; *pati* by the Uṇādi *ḍati* (Uṇ. 4-[?]); *kṛdhi* and *pāyaya* as above; with a discussion of the roots *pā* "to protect" and *pā* "to drink" and the *yuk* augment. *(A crowded run of four pages; reproduced in outline only; I did not chase the numerals.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 608)*
+
+**अग्ने (agne)** — O Agni | **यजत्रान् (yajatrān)** — worthy of worship | **पत्नीवतः (patnīvataḥ)** — accompanied by their wives | **तान् (tān)** — those gods beginning with Indra | **ऋतावृधः (ṛtāvṛdhaḥ)** — as those who make the sacrifice (the truth) grow | **कृधि (kṛdhi)** — make [them so] | **सुजिह्व (sujihva)** — O Agni of the radiant tongue | **मध्वः (madhvaḥ)** — the sweet soma-juice | **पायय (pāyaya)** — make [them] drink. *(The print has* पायय *as in the Saṃhitā.)*
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni! Indra and the other gods are worthy of worship. Call them together with their wives, and make our sacrifice prosper — to our great joy. O Agni, you of the radiant tongue, make Indra and the other gods drink the sweet soma-juice.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O sweet tongued Agni, put those adorable gods with their wives here and make them drink of the sweet Soma
+
+*(The print has no full stop at the end.)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 608)*
+
+**यजत्रान् (yajatrān)** — *yajanīyān*: those worthy of worship.
+
+**पत्नीवतः (patnīvataḥ)** — those accompanied by their wives.
+
+**ऋतावृधः (ṛtāvṛdhaḥ)** — *ṛtasya satyasya vā yajñasya vardhakān*: "those who make the sacrificial act grow" — who cause it to proceed without obstacles.
+
+**मध्वः (madhvaḥ)** — "of the soma-juice". If the word *bhāgam* ("portion") is supplied (*adhyāhāra*), the sense becomes "a portion of the soma-juice".
+
 ---
 
-**Progress note — printed page 593 reached (Sūkta 14, Riks 1–3 done; Sūkta 14 in progress).**
+**Progress note — printed page 610 reached (Sūkta 14, Riks 1–7 done; Sūkta 14 in progress).**
 
-**This batch:** opening application note (p. 583 lower half), heading block, and Riks 1–3 of Sūkta 14 (*aibhir agne duvo giraḥ*, to the Viśvedevas; 12 riks; Medhātithi Kāṇva; Gāyatrī).
+**This batch:** Rik 3 continuation (p. 594), Riks 4–7 of Sūkta 14 (pp. 596–610 top region).
 
-**Next task:** continue Sūkta 14 at Rik 4 (printed p. 594, PDF p. 609); Sūkta 15 begins at about p. 626.
+**Next task:** continue Sūkta 14 at the grammar tail of Rik 7 (printed p. 610, lower half) and then Rik 8 (PDF p. 626 onward, printed p. 611); Sūkta 15 begins at about p. 626.
 
 **Open flags:**
 - Sūkta 14 heading: varga numerals read as "26, 27 [?]" (blurred); deity-list numerals unclear; Āśvalāyana reference numeral unreadable.
+- Rik 7: the grammar run on pp. 608–610 is compressed; I give it in outline only. The portion of p. 610 below the Rik 7 *pāyaya* grammar (the continuation about the roots *pā*) is only partly covered and will be completed with Rik 8.
 - Rik 1 grammar is given twice (bhāṣya outline plus Vyākaraṇa-prakriyā note); trim only if asked.
-- Stray "74"/"75" numerals after the printed English at pp. 585 and 593 are unexplained.
+- Stray "74"–"76" numerals after the printed English at pp. 585, 593 and 601 are unexplained.
 - Older progress notes inside the file (around lines 170, 385, 501) and a stray Cyrillic string on p. 29 are not yet cleaned; the docx has not been rebuilt for Sūkta 14.
