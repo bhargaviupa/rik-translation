@@ -1,24 +1,27 @@
-# Rigveda Samhita Translation — Volume 2
+# Rigveda Samhita Translation — Volumes 1–3 (Volume 3 in progress)
 
 Translating a 1949 Kannada commentary on the Rigveda (Sayana's Sanskrit bhashya + Kannada
-explanation by H. P. Venkata Rao) into English. This is a direct continuation of Volume 1
-(already complete — see `Rigveda_Samhita_Vol1_English_Translation.md`), which covered the
-front-matter (Purva-pithika + Sayana's Bhumika) plus Suktas 1–2 of Mandala 1. Volume 2 covers
-Suktas 3–19 of the same Adhyaya (its title page undersells this as "Suktas 3–9"; the internal
-table of contents confirms it runs through Sukta 19).
+explanation by H. P. Venkata Rao) into English. Volume 1 (complete — `Rigveda_Samhita_Vol1_English_Translation.md`) covered the
+front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete — `Rigveda_Samhita_Vol2_English_Translation.md`) covered Suktas 3–19
+(the First Adhyaya of the First Ashtaka). **Volume 3** covers Mandala 1, **Suktas 20–32** (the Second Adhyaya of the First Ashtaka).
 
-**Source file:** `Rig_Vol2.pdf` (823 pages, scanned).
-**Output file:** `Rigveda_Samhita_Vol2_English_Translation.md` — append-only; never rewrite
-earlier sections.
+**Current source file:** `Rig_Vol3.pdf` (663 pages, scanned; contents list in the header of the output file).
+**Current output file:** `Rigveda_Samhita_Vol3_English_Translation.md` — append-only; never rewrite earlier sections.
+Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 2 is complete.** The file runs contiguously from p. 1 through printed page 808 — the last page of `Rig_Vol2.pdf` — closing **Sūkta 19** ("prati tyaṃ cārum adhvaram", to Agni and the Maruts; nine Riks), the colophon of Adhyāya 1 and the printer's imprint. **No further translation is pending in the source.** Possible follow-ups (only on request): clean up the older mid-file progress notes and the stray Cyrillic string on p. 29; reconcile varga numerals; compile a known-limitations appendix; outside expert review. The tail of
-the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
+Front matter of Volume 3 reviewed; the output file is set up (header + contents table + progress note). **Next task: begin Sūkta 20
+("ayaṃ devāya janmane", to the Ṛbhus) at printed page 1 (PDF page 16); Rik 1 begins on printed p. 2 (PDF page 17).** Sūktas and their first
+pages: 20 p.1; 21 p.43; 22 p.63; 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
+
+**PDF-to-printed-page offset (Volume 3): printed page = PDF page − 15.** (Same as Volume 2.) The first printed page is PDF page 16, the heading
+page of Sūkta 20.
 
 ## Starting the next volume (Volume 3 and later)
 
-Volume 2 is closed (see above). When the user supplies the next volume's PDF:
+Volumes 1–2 are closed. When the user supplies the next volume (after Volume 3)'s PDF:
 
 1. **Confirm the basics first, before translating:** the PDF filename, its page count, the PDF-to-printed-page offset (view the first
    pages: title page, preface, contents), and which sūktas/maṇḍala it covers (from its own table of contents). Then replace
@@ -38,13 +41,9 @@ Volume 2 is closed (see above). When the user supplies the next volume's PDF:
 7. **Carried-over unresolved items** (not blockers): old mid-file progress notes and a stray Cyrillic string in the Volume 2 file; varga numerals
    unreconciled with colophons; a known-limitations appendix and outside expert review still wanted for Volumes 1–2.
 
-PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
-front matter — title pages, royal dedication, the translator's preface, and the table of
-contents — before the Sanskrit commentary itself begins).
-
 ## Working pipeline, per page
 
-1. Render the page: `pdftoppm -jpeg -r 150 -f <n> -l <n> Rig_Vol2.pdf /tmp/page` (adjust `<n>`
+1. Render the page: `pdftoppm -jpeg -r 150 -f <n> -l <n> Rig_Vol3.pdf /tmp/page` (adjust `<n>`
    for the PDF-vs-printed offset above).
 2. **View the actual rendered image before writing anything.** Never pattern-complete Sanskrit
    from memory or rhythm, even for verses that look familiar — this was a caught near-miss
