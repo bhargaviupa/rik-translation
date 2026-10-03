@@ -514,18 +514,83 @@ We have given the account of these three kinds of groups in Part [1] of the Ṛg
 
 **सुशस्तिभिः (suśastibhiḥ)** — *śasyate ābhir iti śastayaḥ ṛcaḥ*: because the gods are praised by riks, these are called *śastayaḥ*; *suśastayaḥ* means excellent riks or hymns of praise.
 
+### Pages 38–43 — Sūkta 20, Rik 8 (last rik of the sūkta)
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> अधारयन्त वह्नयो ऽभजन्त सुकृत्यया ।
+> भागं देवेषु यज्ञियम् ॥८॥
+>
+> *adhārayanta vahnayo 'bhajanta sukṛtyayā |*
+> *bhāgaṃ deveṣu yajñiyam ||8||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> अधारयन्त । वह्नयः । अभजन्त । सुऽकृत्यया ॥
+> भागम् । देवेषु । यज्ञियम् ॥८॥
+>
+> *adhārayanta | vahnayaḥ | abhajanta | su-kṛtyayā ||*
+> *bhāgam | deveṣu | yajñiyam ||8||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 38; compressed; [?] marks doubtful readings)*
+
+> वह्नयश्चमसादिसाधननिष्पादनेन यज्ञस्य वोढार ऋभवो धारयन्त । पूर्वं मनुष्यत्वेन मरणयोग्या अप्यमृतत्वलाभेन प्राणान्धारितवन्तः । तथा च मन्त्रान्तरमाम्नायते । मर्तासः सन्तो अमृतत्वमानशुः । ऋग्वेदे [१-११०-४] । इति । किं चैते सुकृत्यया यज्ञसाधनद्रव्यसम्पादनरूपेण शोभनव्यापारेण देवेषु मध्ये स्थिता यज्ञियं यज्ञार्हं भागं हविर्लक्षणमभजन्त । सेवितवन्तः । अयुर्मर्त्यः सौधन्वनायुर्यज्ञियं भागमानश । ऋग्वेदे [३-६०-१] । इत्यादिमन्त्रान्तरेषु विस्पष्टः । ब्राह्मणेऽप्यृभवो वै देवेषु तपसा सोमपीथमभ्यजयन् । ऐ. ब्रा. [३-३०] । इत्यादिव्याख्यानं विस्पष्टम् ॥ वह्नयः । निदित्यनुवृत्तौ वहिश्रीत्यादिना निप्रत्ययः । अभजन्त । पादादित्वादनिघातः । सुकृत्यया । विभाषा कृवृषोः । पा. [३-१-१२०] । इति कृञः कर्मणि क्यप् । ह्रस्वस्य पिति कृति तुक् । शोभनं कृत्यं यस्यां भजनक्रियायां सा सुकृत्या । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं बाधितं ननु सुभ्यामित्युत्तरपदान्तोदात्तत्वं । … कृञः शश्च । पा. [३-३-१००] । इति स्त्रियां भावे क्यप्प्रत्ययान्तः कृत्याशब्दः । … भागम् । कर्षात्वतः । पा. [६-१-१५९] । इत्यन्तोदात्तः । यज्ञियम् । यज्ञमर्हतीत्यर्थे यज्ञर्त्विग्भ्यां घखञौ । पा. [५-१-७१] । इति घः । तस्य इयादेशः । प्रत्ययस्वरः ॥८॥
+>
+> *vahnayaś camasādi-sādhana-niṣpādanena yajñasya voḍhāra ṛbhavo dhārayanta | pūrvaṃ manuṣyatvena maraṇa-yogyā apy amṛtatva-lābhena prāṇān dhāritavantaḥ | tathā ca mantrāntaram āmnāyate | martāsaḥ santo amṛtatvam ānaśuḥ | ṛgvede [1-110-4] | iti | kiṃ caite sukṛtyayā yajña-sādhana-dravya-sampādana-rūpeṇa śobhana-vyāpāreṇa deveṣu madhye sthitā yajñiyaṃ yajñārhaṃ bhāgaṃ havir-lakṣaṇam abhajanta | sevitavantaḥ | ayur martyaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa | ṛgvede [3-60-1] | ity-ādi-mantrāntareṣu vispaṣṭaḥ | brāhmaṇe 'py ṛbhavo vai deveṣu tapasā somapītham abhyajayan | ai. brā. [3-30] | ity-ādi vyākhyānaṃ vispaṣṭam || vahnayaḥ | nid ity anuvṛttau vahi-śrī-ty-ādinā ni-pratyayaḥ | abhajanta | pādāditvād anighātaḥ | sukṛtyayā | vibhāṣā kṛvṛṣoḥ | pā. [3-1-120] | iti kṛñaḥ karmaṇi kyap | hrasvasya piti kṛti tuk | śobhanaṃ kṛtyaṃ yasyāṃ bhajana-kriyāyāṃ sā sukṛtyā | bahuvrīhau pūrvapada-prakṛti-svaratvaṃ bādhitaṃ nañ-subhyām ity-uttarapadāntodāttatvaṃ | … kṛñaḥ śaś ca | pā. [3-3-100] | iti striyāṃ bhāve kyap-pratyayāntaḥ kṛtyā-śabdaḥ | … bhāgam | karṣātvataḥ | pā. [6-1-159] |ity antodāttaḥ | yajñiyam | yajñam arhatīty arthe yajña-ṛtvigbhyāṃ gha-khañau | pā. [5-1-71] | iti ghaḥ | tasya iyādeśaḥ | pratyaya-svaraḥ ||8||*
+
+**Translation:** "The *vahnayaḥ* — the Ṛbhus, carriers of the sacrifice by their making of the *camasa* and other implements — *adhārayanta*: they sustained [themselves]: though they were formerly men liable to death, by the gain of immortality they kept their lives. So another mantra reads: '*martāsaḥ santo amṛtatvam ānaśuḥ*' — 'being mortals, they attained immortality' (Ṛgveda [1-110-4]). And further, these [Ṛbhus], standing among the gods by their *sukṛtyā* — their lovely work in the form of making the substances used in sacrifice — *abhajanta* — obtained, enjoyed — the *yajñiya bhāga*, the share worthy of the sacrifice, in the form of the oblation. This is plain in other mantras too: '*ayur martyaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa*' (Ṛgveda [3-60-1]) and so on; the Brāhmaṇa also says: 'the Ṛbhus indeed, by austerity, won the right to drink soma among the gods' (Aitareya Brāhmaṇa [3-30])." The grammar, noted briefly: *vahnayaḥ* (the Uṇādi *ni* after *vah*, first-syllable accent); *abhajanta* (not made unaccented, since it begins the *pāda*); *sukṛtyayā* (*kṛ* + *kyap* by P. 3-1-120 *vibhāṣā kṛvṛṣoḥ*, with the *tuk* augment by P. 6-1-71 *hrasvasya piti kṛti tuk*; 'that in which the work of acquiring is lovely'; a bahuvrīhi whose first-member accent is overridden by the end-accent of P. 6-2-172; the feminine *kṛtyā* by P. 3-3-100 *kṛñaḥ śaś ca*); *bhāgam* (end-accent by P. 6-1-159 *karṣātvato ghañ anta udāttaḥ*); *yajñiyam* (*yajña* + *gha* by P. 5-1-71 *yajñartvigbhyāṃ ghakhañau* 'that which deserves the sacrifice'; *gh* → *iya* by P. 7-1-2). *(Grammar, noted briefly; sūtra numerals as read; the Ṛgveda reference [3-60-1] is as I read the small print [?].)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 39)*
+
+**वह्नयः (vahnayaḥ)** — these Ṛbhus, who make implements like the *camasa* and so carry the sacrifice through | **अधारयन्त (adhārayanta)** — [obtained immortality] sustained themselves | **सुकृत्यया (sukṛtyayā)** — by good work | **देवेषु (deveṣu)** — among the gods | **यज्ञियम् (yajñiyam)** — belonging to the sacrifice | **भागम् (bhāgam)** — the share of the oblation | **अभजन्त (abhajanta)** — obtained.
+
+**॥ Bhāvārthaḥ ॥**
+
+These Ṛbhus, having made the implements of sacrifice and so been helpers of the sacrificial work, obtained immortality. By doing works proper to a sacrifice they obtained, along with the gods, a share of the oblation.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Ribhus by their skill in fashioning sacrificial utensils and their pious acts lived for ever or became immortal ; they even obtained a share of the sacrifice along with the Gods.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 39–40)*
+
+These Ṛbhus, by the skill of their craft, made the implements — the *camasa* and so on — that are needed for the sacrifice. In a single year they performed all the sacrifices and became worthy of the gods' grace. By such good works the Ṛbhus became able always to sustain their lives; they attained *amṛtatva* like the gods (freedom from death); and like the gods themselves they won the right to receive the share of the sacrifice — that is, the oblation offered to the gods in the sacrifice.
+
+**अधारयन्त (adhārayanta)** — the meaning of this word is "they sustained" — sustained what? They sustained their lives; or, as the commentator explains, they obtained immortality. Although in this rik there are no words which explain the sense "obtained immortality", since in many riks it is said that the Ṛbhus, formerly men, obtained divinity by their good works, it seems proper that the commentator here too has taken that same idea and explained the word *adhārayanta* as above. On this the rik
+
+> विष्टी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ॥ (ऋ. सं. [१-११०-४])
+> *viṣṭī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvam ānaśuḥ || (ṛ. saṃ. [1-110-4])*
+
+states this sense plainly.
+
+**वह्नयः (vahnayaḥ)** — *camasādi-sādhana-niṣpādanena yajñasya voḍhāraḥ ṛbhavaḥ*: because they made implements such as the *camasa* and so helped the sacrifice, these Ṛbhus are *vahnayaḥ* — *voḍhāraḥ*, "those who carry through the sacrificial work".
+
+**यज्ञियम् (yajñiyam)** — *yajñārhaṃ bhāgam*: the share of *havis* offered to the gods in the sacrifice. Those who are to receive a share fit for the sacrifice must have honour and position among the gods; the Ṛbhus gained such honour. This matter is also supported in the rik
+
+> इहेह वो मनसा बन्धुता नर उशिजो जग्मुरभि तानि वेदसा ।
+> याभिर्मायाभिः प्रतिजूतिवर्पसः सौधन्वना यज्ञियं भागमानश ॥ (ऋ. सं. [३-६०-१])
+> *iheha vo manasā bandhutā nara uśijo jagmur abhi tāni vedasā |*
+> *yābhir māyābhiḥ pratijūtivarpasaḥ saudhanvanā yajñiyaṃ bhāgam ānaśa || (ṛ. saṃ. [3-60-1])*
+
+*(Read from the Kannada print; the reference numerals are as I read them, marked [?].)* and in the sentence of the Aitareya Brāhmaṇa *brāhmaṇe 'py ṛbhavo vai deveṣu tapasā somapītham abhyajayan* (Ai. Brā. [3-30]) ["the Ṛbhus won, by austerity, the soma-drinking among the gods"].
+
+**Grammar pages (pp. 40 lower half–43 upper), noted briefly.** The Kannada treats: *vahnayaḥ* (*vahi-śri-śru-yu-dru-gnā-tvaribhyo niḥ* Uṇ. 4-[?], with *nit* carried over from the preceding sūtra [*vījyājariviś-… ṇiḥ*; the print shows two versions of the Uṇādi sūtra]; *vah* + *ni*; the sūtra's *nit* is a doubtful word, which, according to the Kannada, is a slip of the printers of *Ṛg. Saṃ.* 3-[?]; the suffix has *n* so first-syllable accent by P. 6-1-197), *abhajanta* (at the start of the *pāda*, hence P. 8-1-18 bars the loss of accent, and P. 8-1-28 *tiṅ atiṅaḥ* does not apply), *sukṛtyayā* (*vibhāṣā kṛvṛṣoḥ* P. 3-1-120 — *kyap* after *kṛ* and *vṛṣ* in the object-sense, optionally; *kṛ* + *ya*; *hrasvasya piti kṛti tuk* P. 6-1-71: *kṛ-t-ya* → *kṛtya*; *kyap* has *k* and *p*, so no guṇa [*kṅiti ca* P. 1-1-5]; *su* + *kṛtyā* — the bahuvrīhi *śobhanaṃ kṛtyaṃ yasyāṃ bhajanakriyāyāṃ sā*; first-member accent by P. 6-2-1 would make *su* [accented on the first syllable by the Phiṭ rule *upasargāś cābhivarjam*] the only accented part; but *nañsubhyām* P. 6-2-172 gives the final member's end accent, which overrides it; the Kannada raises a doubt: *kyap* is *pit*, so the *a* is unaccented [*anudāttau suppitau*], and the root *kṛ* is accented on the *ṛ* by *dhātoḥ* P. 6-1-162, so *kṛtya* has the accent on *kṛ*, giving the first-syllable accent; in the bahuvrīhi [by P. 6-2-119 *ādyudāttaṃ dvyac chandasi*, 'a two-syllable word in the Veda takes first-syllable accent'] the final-member *kṛtyā* must be first-syllable accented; and though *nañsubhyām* is read in the sixth chapter, after *ādyudāttaṃ dvyac*, by *vipratiṣedhe paraṃ kāryam* *nañsubhyām* [which comes after] would win; but since *ādyudāttaṃ dvyac chandasi* is an exception to *nañsubhyām*, and a rule that applies in the case where the other is not yet applied [*yena nāprāpte yo vidhir ārabhyate sa tasya bādhako bhavati*] is the stronger, the accent of *kṛtyā* stands first-syllable; the second sūtra *kṛñaḥ śaś ca* P. 3-3-100 gives the feminine *śa* and *kyap* after *kṛñ* in the abstract sense [the *ca* takes in *kyap*]; hence *kṛtyā*, *kriyā*, *kṛtiḥ* — the Kannada notes that *kṛtiḥ* is not obtained by this sūtra but by *striyāṃ ktin* P. 3-3-94; *ṭāp* by *ajādyataṣ ṭāp* P. 4-1-4, with *savarṇadīrgha*; the instrumental *ṭā* → *ā* with *āṅ*; *ājjasor…* P. 7-3-105 *āṇ nadyāḥ*… [as read, *āṅo 'nāpaḥ*? — the print gives *ājjasor* …]: *ā* → *ay*… giving *sukṛtyayā*; the ending accented as *svarita* by P. 8-4-66), *bhāgam* (*bhaj sevāyām*; *halaś ca* P. 3-3-121 *ghañ*; *coḥ kuḥ* P. 7-3-52 *kutva*; *ata upadhāyāḥ* P. 7-2-116 *vṛddhi*; the accent by *ñnityādir nityam* would be first-syllable, but *karṣātvato ghañ anta udāttaḥ* P. 6-1-159 gives end accent; hence *bhāgam* is end-accented), and *yajñiyam* (*yajñam arhati*; *yajña-ṛtvigbhyāṃ ghakhañau* P. 5-1-71: *gha* after *yajña*, *khañ* after *ṛtvij*; *yajña* + *gha*; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* P. 7-1-2 gives *iya* for *gha*; *yasyeti ca* P. 6-4-148; suffix accent: *yajñiyam*). ॥8॥ *(A crowded run; outline only; sūtra numerals as read from small print; pointers only.)*
+
+**Close of Sūkta 20.** The sūkta ends at the head of p. 43, with the last line of the Rik 8 grammar; no large colophon is printed. The twenty-first sūkta begins on the same page.
+
 ---
 
-**Progress note — printed page 37 reached; Sūkta 20 in progress (Riks 1–7 done).**
+**Progress note — printed page 43 (upper part) reached; Sūkta 20 complete.**
 
-**This batch:** Riks 6 and 7 of Sūkta 20 (printed pp. 23–37).
+**This batch:** Rik 8 of Sūkta 20 (printed pp. 38–43). With the earlier batches, Sūkta 20 (*ayaṃ devāya janmane*, eight riks, to the Ṛbhus; Medhātithi Kāṇva; Gāyatrī) is complete from p. 1.
 
-**Next task:** continue Sūkta 20 at Rik 8 (the last rik of the sūkta; read its Saṃhitā from the page), at the head of printed p. 38 (PDF page 53); it also carries the sūkta's closing discussion — the contents list "ippattondu vidha yajñagaḷu" (the twenty-one kinds of sacrifice) at p. 32 [covered under Rik 7's Special Topics] — and the sūkta runs to printed p. 42, after which Sūkta 21 begins at p. 43.
+**Next task:** begin Sūkta 21 (*ihendrāgnī upa hvaye*, to Indra and Agni; six riks; the fourth sūkta of the fifth anuvāka) on the lower part of printed p. 43 (PDF page 58): its Sāyaṇa application note is already printed there, and the heading with Rik 1 follows on p. 44 (PDF page 59). Sūkta 21 runs to printed p. 62; Sūkta 22 begins at p. 63.
 
 **Open flags:**
-- The Anukramaṇikā quotation in the application note (*ayam aṣṭāv ārbhavam*) is read from small print and is uncertain [?]; the English of the homage verses at the head of p. 1 is mine.
-- Rik 4: the Ṛgveda citations in the Special Topics (1-110-4, 1-161-11) are read from small print and marked [?]; my gloss of the first is tentative and labelled so. Rik 6: the Kannada's grammar on *niṣkṛtam* (the *ṣatva* dispute, pp. 27–28) and on *caturaḥ* is summarised only; the closing Ṛgveda reference (1-161-2) is as read [?].
-- Rik 7: the grammar of *dhattana* (the *bhaṣ-bhāva* / *sthānivat* dispute, pp. 34–35) and of *ekam ekam* (the *vīpsā* discussion, pp. 36–37) is given in outline; numerals marked [?] as pointers; the Uṇādi sūtra for *ratna* is read two ways in the print.
-- The Rik 3 grammar (pp. 10–13: *parijman*, *mātariśvan*, *maghavan*) is given in outline only.
+- The Anukramaṇikā quotation in Sūkta 20's application note (*ayam aṣṭāv ārbhavam*) is read from small print and is uncertain [?]; the English of the homage verses at the head of p. 1 is mine.
+- Rik 4 and Rik 8: the Ṛgveda citations in the Special Topics (1-110-4, 1-161-11, 3-60-1) are read from small print and marked [?]; my gloss of the first is tentative and labelled so. Rik 6: the grammar on *niṣkṛtam* (pp. 27–28) and *caturaḥ* is summarised only. Rik 7: the grammar of *dhattana* (pp. 34–35) and *ekam ekam* (pp. 36–37) is in outline.
+- The Rik 3 grammar (pp. 10–13: *parijman*, *mātariśvan*, *maghavan*) is given in outline only; the Rik 8 grammar on *sukṛtyayā* (the accent dispute, pp. 41–42) likewise.
 - Varga numerals "1, 2 [?]"; Ṛgveda and Nighaṇṭu reference numerals marked [?] where unclear.
 - The preface (PDF pp. 8–10), the abbreviations list (PDF p. 11) and the portrait pages are not translated.
