@@ -11346,20 +11346,198 @@ In some Āpri-sūktas the plural *svāhākṛtayaḥ* is used: since the eleven 
 
 **End of Sūkta 13.**
 
+## ॥ ಹದಿನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 14 — *"aibhir agne duvo giraḥ"* ("The Fourteenth Sūkta")
+
+*(Table-of-contents title: "babhrur agne" — see the note under Rik 1 and in the open flags; the sūkta itself begins* aibhir agne duvo giraḥ*.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed p. 583, lower half)**
+
+> ऐभिरग्न इत्यादिकस्य द्वादशर्चस्य तृतीयसूक्तस्य ऋषिच्छन्दसी पूर्ववत् । तच्च सूक्तं बहुदेवताकम् । अत एवानुक्रम्यते । ऐभिर्वैश्वदेवमिति । विनियोगस्तु । व्यूढद्वादशाहस्य प्रथमे च्छन्दोमे तृतीयसवने वैश्वदेवशस्त्रे ऐभिरग्ने दुवो गिर इति सूक्तम् ॥ तथा च सूत्रितम् । अथ च्छन्दोमाः समुद्रादूर्मिरित्युपक्रम्यैभिरग्ने दुवो गिर इति वैश्वदेवम् । आ. ८-[?] । इति ॥
+>
+> *aibhir agna ity-ādikasya dvādaśarcasya tṛtīya-sūktasya ṛṣi-chandasī pūrvavat | tac ca sūktaṃ bahu-devatākam | ata evānukramyate | aibhir vaiśvadevam iti | viniyogas tu | vyūḍha-dvādaśāhasya prathame cchandome tṛtīya-savane vaiśvadeva-śastre aibhir agne duvo gira iti sūktam || tathā ca sūtritam | atha cchandomāḥ samudrād ūrmir ity upakramyaibhir agne duvo gira iti vaiśvadevam | ā. 8-[?] | iti ||*
+
+**Translation:** "The twelve-rik sūkta beginning *aibhir agne* is the third sūkta [of this anuvāka]; its ṛṣi and meter are as before [Medhātithi Kāṇva; Gāyatrī]. This sūkta has many deities; that is why the Anukramaṇikā says only *aibhir vaiśvadevam* ['*aibhir…*: to the Viśvedevas']. Its application (*viniyoga*): in the first *chandoma* day of the *vyūḍha-dvādaśāha*, at the third pressing, in the *vaiśvadeva-śastra*, the sūkta *aibhir agne duvo giraḥ* is recited. And so it is laid down in the Sūtra: 'Now the *Chandomas*: beginning with *samudrād ūrmiḥ* … and *aibhir agne duvo giraḥ* is the Vaiśvadeva [recitation].' (Āśvalāyana Śrauta-sūtra 8-[?] — the Sanskrit shows a two-part numeral whose second part I cannot read; the Kannada rendering gives it as 9-[?].)" *(The ornament and the sūkta heading precede this note on p. 583; the first few lines of the page are the close of Sūkta 13, Rik 12, already covered.)*
+
+**॥ Anuvāda (Kannada rendering) ॥** The twelve-rik sūkta that begins *aibhir agne* is the third sūkta of the fourth anuvāka. Its ṛṣi and meter are the same as the preceding sūkta. Because it has many deities, it is a *bahu-devatāka* sūkta; therefore the Anukramaṇikā calls it a sūkta to the Viśvedevas. Application: when the *vaiśvadeva-śastra* mantras are recited at the third pressing of the first *chandoma* day of the *vyūḍha-dvādaśāha* sacrifice, this sūkta *aibhir agne duvo giraḥ* is to be recited. The Āśvalāyana Śrauta-sūtra says: "Now the *Chandomas*: beginning with *samudrād ūrmiḥ* … *aibhir agne duvo giraḥ* is the Vaiśvadeva"; that is, the mantras from *samudrād ūrmiḥ* onwards up to *aibhir agne duvo giraḥ* are called *chandomā* mantras. (Āś. Sū. 9-[?])
+
+### Page 584 — Sūkta 14, Rik 1
+
+**॥ ॐ ॥**
+
+**॥ Sūkta — 14 ॥**
+**॥ Maṇḍala — 1 ॥ Anuvāka — 4 ॥ Sūkta — 14 ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 1 ॥ Varga — 26, 27 [?] ॥** *(small-print Kannada digits, re-read at 300 dpi; the digits are blurred and might be 36, 37 — unreliable; the earlier headings ran 24, 25 for Sūkta 13)*
+**॥ Mantras contained in this sūkta: 1–12 ॥**
+**॥ Ṛṣi — Medhātithi Kāṇva ॥**
+**॥ Devatā — Viśve Devāḥ (Agni together with the Viśvedevas). [Within this:] [?]– (printed numeral unclear: 2 or 3, probably the run 2–9) Indra, Vāyu, Bṛhaspati, Mitra, Agni, Pūṣan, Bhaga, the Ādityas, the Marut-gaṇa; 10 — the Viśvedevas, Agni, Indra, Vāyu, Mitra, and the *dhāmāni* [?]; 11 [?], 12 — Agni ॥** *(this is my reading of a four-line bracketed list in the print — the Kannada-script numerals before each item are small and I could not read them with confidence; the names themselves are legible)*
+**॥ Chandaḥ — Gāyatrī ॥**
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> ऐभिरग्ने दुवो गिरो विश्वेभिः सोमपीतये ।
+> देवेभिर्याहि यक्षि च ॥१॥
+>
+> *aibhir agne duvo giro viśvebhiḥ somapītaye |*
+> *devebhir yāhi yakṣi ca ||1||*
+
+*(Accent-marks are printed in the source here; not reproduced, in keeping with the convention for the later riks of this volume.)*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> आ । एभिः । अग्ने । दुवः । गिरः । विश्वेभिः । सोमऽपीतये ॥
+> देवेभिः । याहि । यक्षि । च ॥१॥
+>
+> *ā | ebhiḥ | agne | duvaḥ | giraḥ | viśvebhiḥ | soma-pītaye ||*
+> *devebhiḥ | yāhi | yakṣi | ca ||1||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 585; small print, read from a 230-dpi slice; the left-hand edges of some lines are cut off in my slice, and the lines are as read from the full page)*
+
+> हे अग्ने एभिरस्मिन्यज्ञे संभावितैर्विश्वेभिर्देवेभिः सर्वैर्देवैः सह सोमपीतये सोमपानोपपेतयागार्थं दुवोऽस्मदीयां परिचर्यां गिरोऽस्मदीयाः स्तुतीश्च प्रत्या(?) याहि । आगच्छ । यक्षि च । आगत्य यज च ॥
+>
+> *he agne ebhir asmin yajñe saṃbhāvitair viśvebhir devebhiḥ sarvair devaiḥ saha somapītaye somapānopapeta-yāgārthaṃ duvo 'smadīyāṃ paricaryāṃ giro 'smadīyāḥ stutīś ca praty-ā(?) yāhi | āgaccha | yakṣi ca | āgatya yaja ca ||*
+
+**Translation:** "O Agni! Together with these — all the gods, those honoured (*saṃbhāvita*) at this sacrifice — come, for the drinking of soma and for the sacrifice that goes with the soma-drinking, to our service (*duvaḥ*) and to our words of praise (*giraḥ*). *Yāhi*: come. *Yakṣi ca*: and, having come, sacrifice." *(The first words of the second line of the print are partly unclear; "praty-ā(?)" stands for what appears to be* pratyā *["towards; for each"] — I give it with a query.)*
+
+Then the grammar of the bhāṣya follows (pp. 585–587):
+
+> एभिः । पूर्वनिर्दिष्टानां देवानामिदमा परामर्शादिदमोऽन्वादेशे ऽशनुदात्तस्तृतीयादौ । पा. २-४-३२ । इत्येशनुदात्तः । शित्त्वात्सर्वादेशः । नेदमदसोरकोः । पा. ७-१-११ । इति भिस ऐशादेशाभावः । विभक्तिरनुदात्तैव … दुवः । नब्विषयस्यानिसन्तस्येत्याद्युदात्तत्वम् । विश्वेभिः । विश्वशब्दो विशेः क्वनन्तो नित्त्वादाद्युदात्तः । बहुलं छन्दसीति भिस ऐस् न भवति । बहुवचने झल्येत् । पा. ७-३-१०३ । इत्येत्वम् । सोमपीतये । सोमशब्दो … मनन्तो नित्त्वादाद्युदात्तः । सोमस्य पीतिर्यस्मिन्यागे स सोमपीतिः । तस्मै । तादर्थ्ये चतुर्थी । देवेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । बहुवचने झल्येदित्येत्वम् । यक्षि । यजेर्लोटः सिप् । बहुलं छन्दसीति शपो लुक् । व्रश्चादिना षत्वम् । षढोः कः सि [?] … सिपः पित्त्वेनानुदात्तत्वाद्धातुस्वर एव ॥
+>
+> *ebhiḥ | pūrva-nirdiṣṭānāṃ devānām idam ā parāmarśād idamo 'nvādeśe 'śanudāttas tṛtīyādau | pā. 2-4-32 | ity eśanudāttaḥ | śittvāt sarvādeśaḥ | nedam-adasor akoḥ | pā. 7-1-11 | iti bhisa aiśādeśābhāvaḥ | vibhaktir anudāttaiva … duvaḥ | nab-viṣayasyāniṣantasyety ādy-udāttatvam | viśvebhiḥ | viśva-śabdo viśeḥ kvananto nittvād ādy-udāttaḥ | bahulaṃ chandasīti bhisa ais na bhavati | bahuvacane jhaly et | pā. 7-3-103 | ity etvam | soma-pītaye | soma-śabdo … manan-to nittvād ādy-udāttaḥ | somasya pītir yasmin yāge sa soma-pītiḥ | tasmai | tādarthye caturthī | devebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | bahuvacane jhaly ety etvam | yakṣi | yajer loṭaḥ sip | bahulaṃ chandasīti śapo luk | vraścādinā ṣatvam | ṣaḍhoḥ kaḥ si [?] … sipaḥ pittvenānudāttatvād dhātu-svara eva ||*
+
+*(Grammar passage: given as legible in part; "…" marks stretches I could not read at 150 dpi. Sūtras 2-4-32, 7-1-11 and 7-3-103 agree with the standard Pāṇinian numbering of* idamo 'nvādeśe 'śanudātta…, nedamadasor akoḥ *and* bahuvacane jhaly et*; "bahulaṃ chandasi" is cited without number.)*
+
+**Translation of the grammar, in outline:** *ebhiḥ* — the pronoun *idam* refers back to the gods just mentioned, so it is in the *anvādeśa* ("re-mention") condition; therefore by P. 2-4-32 it receives the substitute *aś* [*ena*], which is unaccented; being marked with *ś* the substitute replaces the whole word; by P. 7-1-11 (*nedamadasor akoḥ*) the *bhis* ending is not given the *ais* substitute; the case-ending is unaccented. *duvaḥ* — first-syllable accent by the rule on words ending in *-is*/related forms [citation partly unclear]. *viśvebhiḥ* — *viśva* is from *viś* + *kvan*, so with an indicatory *n* it has the first-syllable accent; by "variously in the Veda" *bhis* does not become *ais*; by P. 7-3-103 the *a* becomes *e* before a *jhal*-initial plural ending. *somapītaye* — *soma* is formed with *man*, first-syllable accent; "he in whose sacrifice there is the drinking (*pīti*) of soma" is *somapīti*; "for him" — fourth case in the sense of purpose. *devebhiḥ* — as for *viśvebhiḥ*. *yakṣi* — *yaj*, imperative, *sip*; the *śap* is dropped by "variously in the Veda"; the *ṣ* is substituted by the *vraśca* rule; the *k*; since *sip* has an indicatory *p* it is unaccented, so the verb-root accent alone remains. *(Grammar pages, pp. 586–587, noted briefly; my gloss in this paragraph is outline only.)*
+
+### Pages 586–588 — Rik 1: Vyākaraṇa-prakriyā (grammar), noted briefly
+
+*Grammar pages (the Kannada Vyākaraṇa-prakriyā on pp. 586–587), noted briefly.* The Kannada treats *ebhiḥ* (the *idam* → *aś* [*ena*] substitution under P. 2-4-32 *idamo 'nvādeśe 'śanudātta…*, the blocking of *ais* under P. 7-1-11 *nedamadasor akoḥ*, P. 7-1-9 *āto bhisa ais* and 7-1-10 *bahulaṃ chandasi*, the *e* of P. 7-3-103 *bahuvacane jhaly et*, and the accentual rules 6-1-158 *anudāttaṃ padam ekavarjam* / 3-1-4 *anudāttau suppitau* [numbers read from small print, pointers only]), *duvaḥ*, *viśvebhiḥ* (from *viś* + *kvan*, Uṇādi [?]), *somapītaye* (*soma* from *su* with *man*, Uṇādi 1-[?]; the fourth case under P. 2-1-36 *caturthī tadarthārtha-balihita-sukha-rakṣitaiḥ* with the Vārttika on *tādarthya*; the *ṣyañ* of P. 5-1-124 *guṇavacana-brāhmaṇādibhyaḥ karmaṇi ca* discussed on pp. 587, with the examples *yūpāya dāru* ("wood for a sacrificial post") and *kuṇḍalāya hiraṇyam* ("gold for an earring"), which the bhāṣya gives for the sense of purpose), *devebhiḥ* (*bhis* → *ais* blocked by *bahulaṃ chandasi*), and *yakṣi* (*yaj* + *lot* + *sip*, *śap* dropped by P. 2-4-73, *ṣatva* by 8-2-36 *vraśca-bhrasja…*, *ṣaḍhoḥ kaḥ si* P. 8-2-41, *hi* for *si* by 3-4-87 *serhy apicca* — all pointers only, numerals uncertain).
+
+**॥ Prati-padārthaḥ ॥** *(Kannada)*
+
+**(हे) अग्ने ((he) agne)** — O Agni | **एभिः (ebhiḥ)** — these [gods], honoured at this our sacrifice (Kannada *saṃbhāvitarāda*) | **विश्वेभिः (viśvebhiḥ)** — all | **देवेभिः (devebhiḥ)** — with the gods | **दुवः (duvaḥ)** — the service (*śuśrūṣā*) that we render | **गिरः (giraḥ)** — words in the form of hymns of praise | **सोमपीतये (somapītaye)** — for the drinking of soma | **प्रति आ याहि (prati ā yāhi)** — come so as to receive | **यक्षि च (yakṣi ca)** — and bring the sacrifice to completion.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni, come with all the gods, to receive the service we render in this our sacrifice and the hymns of praise, and to drink the soma. After you have come, bring this sacrificial act to completion in all its parts.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Come, Agni with all those gods to receive our adoration and praises and for drinking soma; and also perform the sacrifice.
+
+*(The print shows a bare numeral "74" after the English, at the foot of p. 585, outside the text; I leave it unexplained [?].)*
+
+### Pages 588–592 — Sūkta 14, Rik 2
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> आ त्वा कण्वा अहूषत गृणन्ति विप्र ते धियः ।
+> देवेभिरग्न आ गहि ॥२॥
+>
+> *ā tvā kaṇvā ahūṣata gṛṇanti vipra te dhiyaḥ |*
+> *devebhir agna ā gahi ||2||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> आ । त्वा । कण्वाः । अहूषत । गृणन्ति । विप्र । ते । धियः ॥
+> देवेभिः । अग्ने । आ । गहि ॥२॥
+>
+> *ā | tvā | kaṇvāḥ | ahūṣata | gṛṇanti | vipra | te | dhiyaḥ ||*
+> *devebhiḥ | agne | ā | gahi ||2||*
+
+*(Accent-marks are printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 588)*
+
+> हे विप्र मेधाविन्नग्ने कण्वा मेधाविन ऋत्विजस्त्वा यज्ञनिष्पादकं त्वामाहूषत आह्वयन्ति । तथा ते धियस्त्वदीयानि कर्माणि गृणन्ति कथयन्ति । ततो हे अग्ने देवेभिर्देवैः सहा गहि । आगच्छ । विप्र इत्यादिषु चतुर्विंशतिसंख्याकेषु मेधाविनामसु कण्व ऋभुरिति [?] पठितम् ॥
+>
+> *he vipra medhāvinn agne kaṇvā medhāvina ṛtvijas tvā yajña-niṣpādakaṃ tvām āhūṣata āhvayanti | tathā te dhiyas tvadīyāni karmāṇi gṛṇanti kathayanti | tato he agne devebhir devaiḥ sahā gahi | āgaccha | vipra ity-ādiṣu caturviṃśati-saṃkhyākeṣu medhāvi-nāmasu kaṇva ṛbhur iti [?] paṭhitam ||*
+
+**Translation:** "O wise (*vipra*) Agni! The *kaṇvas* — the wise priests (*ṛtvij*) — have invoked (*āhūṣata*) you, the one who accomplishes the sacrifice; and they recite (*gṛṇanti*) your *dhiyaḥ* — your deeds. Therefore, O Agni, come together with the gods. [The word *kaṇva* is] read among the twenty-four names for 'wise man' beginning with *vipra*." *(In the print, the last clause names the item read after "kaṇva" with a letter-group that I read as* ṛbhur*; I give it with [?], and the Kannada Special Topics (below) confirms only that* kaṇva *itself is in the list.)*
+
+Then, as in Rik 1, the grammar follows (p. 588, lower half, and pp. 589–592). *Grammar pages, noted briefly:* the bhāṣya and the Kannada Vyākaraṇa-prakriyā treat — *ā* (a *nipāta*, first-syllable accent, Phiṭ 4-[?] *nipātā ādyudāttāḥ*); *tvā* (P. 8-1-23 *tvāmau dvitīyāyāḥ* — the substitute *tvā* for *tvām*, wholly unaccented; the number agrees with the standard numbering); *kaṇvāḥ* (root *kaṇ* "to sound", the Uṇādi sūtra on the *kvan* suffix *aśūpruṣiliṭikaṇikhaṭiviśibhyaḥ kvan*, Uṇ. 1-[?]; first-syllable accent because of the indicatory *n*); *ahūṣata* (*hve* "to compete, to call", *luṅ* in the present sense by P. 3-4-6 *chandasi luṅ-laṅ-liṭaḥ* — the number agrees with the standard; then *cli*, *sic* [P. 3-1-43, 3-1-44 — read from the Kannada print, they agree with the standard numbering of *cli luṅi* and *cleḥ sic*], the *ātmanepada* by P. 1-3-72, the *sampra-sāraṇa* of *hve*, and the lengthening and *ṣatva* — a long run of 'pointer' sūtras whose numerals I leave unchecked); *gṛṇanti* (*gṝ* "to sound", *laṭ* by P. 3-2-123 *vartamāne laṭ*, *śnā* by P. 3-1-81 *kryādibhyaḥ śnā*, *hrasva* by P. 6-4-113 [?]); *vipra* (vocative: accent by P. 6-1-198 *āmantritasya ca* [?]); *te* (P. 8-1-18 *anudāttaṃ sarvam apādādau* and 8-1-22 *te mayāv ekavacanasya*, the substitute *te* for *tava*); *devebhiḥ* (*ais* blocked by *bahulaṃ chandasi*); *gahi* (root *gam*/*gamḷ* with *lot*, *sip*, *hi* for *si* by P. 3-4-87 *serhy apicca*, *śap* dropped by P. 2-4-73, the dropping of *m* by *anudāttopadeśa-vanati-tanotyādīnām…* P. 6-4-37, the *asiddhavat* rule 6-4-22). *(Crowded; reproduced in outline only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 589)*
+
+**(हे) विप्र ((he) vipra)** — O wise [i.e. learned] Agni | **कण्वाः (kaṇvāḥ)** — the wise priests (descendants of the ṛṣi Kaṇva) | **त्वा (tvā)** — you | **आ अहूषत (ā ahūṣata)** — invoke (pray to) | *(in the same way)* **ते (te)** — your | **धियः (dhiyaḥ)** — works | **गृणन्ति (gṛṇanti)** — praise | *(therefore)* **अग्ने (agne)** — O Agni | **देवेभिः (devebhiḥ)** — with the gods | **आ गहि (ā gahi)** — be pleased to come.
+
+**॥ Bhāvārthaḥ ॥**
+
+O wise Agni, in order to praise your qualities, the wise priests (or the descendants of the ṛṣi Kaṇva) pray to you and call you to the sacrifice; and they praise your excellent deeds. Therefore, come to our sacrifice along with all the gods.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> The Kanwas invoke you, wise Agni, and extrol [sic] your deeds; come Agni with the gods,
+
+*(The print ends the line with a comma.)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**कण्वाः (kaṇvāḥ)** — Among the twenty-four names for the *medhāvī* (wise), beginning with *vipra*, the word *kaṇva* is read (Nirukta/Nighaṇṭu 3-[?] — the printed reference reads "ni. 3-19" in small print, which I cannot confirm; in the standard Nighaṇṭu the *medhāvi* list is 3.15), so *kaṇva* here can mean "wise, intelligent". Although the commentator takes the word in this general sense, since the ṛṣi of this rik is himself of the lineage of Kaṇva, it seems more natural to take *kaṇvāḥ* here as "the sacrificer-priests and others born in the Kaṇva lineage."
+
+**धियः (dhiyaḥ)** — Among the twenty-six names for *karma* (action) beginning with *apaḥ*, *dhīḥ* is read (Ni. 2-[?], the print's numerals are unclear), so *dhiyaḥ* means "actions, works".
+
+### Pages 592–593 — Sūkta 14, Rik 3
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> इन्द्रवायू बृहस्पतिं मित्राग्निं पूषणं भगम् ।
+> आदित्यान्मारुतं गणम् ॥३॥
+>
+> *indravāyū bṛhaspatiṃ mitrāgniṃ pūṣaṇaṃ bhagam |*
+> *ādityān mārutaṃ gaṇam ||3||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> इन्द्रवायू इति । बृहस्पतिम् । मित्रा । अग्निम् । पूषणम् । भगम् ॥
+> आदित्यान् । मारुतम् । गणम् ॥३॥
+>
+> *indravāyū iti | bṛhaspatim | mitrā | agnim | pūṣaṇam | bhagam ||*
+> *ādityān | mārutam | gaṇam ||3||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 592; compressed; the reading is given as printed, with [?] where I am not sure)*
+
+> इन्द्रादिदेवान्मारुतं मरुतां वायूनां सम्बन्धिनं गणं च हे अग्ने यक्षीति पदद्वयमनुवर्तते ॥ इन्द्रश्च वायुश्चेन्द्रवायू । देवताद्वन्द्वे च । पा. ६-३-२६ । इति प्राप्तस्यानङ उभयत्र वायोः प्रतिषेधो वक्तव्यः । पा. ६-३-२६ वा. । इति प्रतिषेधः । देवताद्वन्द्वे च । पा. ६-२-१४१ । इति प्राप्तस्योभयपदप्रकृतिस्वरस्य नोत्तरपदेऽनुदात्तादौ । पा. ६-२-१४३ [?] । इति निषेधः । समासान्तोदात्तत्वमेव । बृहस्पतिम् । तस्करबृहतोः करपत्योश्चोरदेवतयोरभिधेययोः सुट् तलोपश्च वक्तव्यः । मै. [?] इति तलोपः सुडागमश्च । बृहच्छब्दमाद्युदात्तं केचिद्वर्णयन्तीति नामनः [?] । पा रक्षणे । पातीति पतिः । पातेर्डतिः । उ. ४-[?] । प्रत्ययस्वरेणाद्युदात्तः । समास उभे वनस्पत्यादिषु युगपत् । पा. ६-२-१४० । इत्युभयपदप्रकृतिस्वरत्वम् । मित्रा । द्वितीयायाः सुसां सुलुगित्यादिना विभक्तेराजादेशः । आदित्यान् । अदितेरपत्यमादित्यः । दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः । पा. ४-१-८५ । प्रत्ययस्वरः । मारुतम् । मरुतां विकारः । अनुदात्तादेश्च । पा. ४-३-१४० । इत्यञ् । ञित्त्वात्पादाद्युदात्तः ॥
+>
+> *indrādi-devān mārutaṃ marutāṃ vāyūnāṃ sambandhinaṃ gaṇaṃ ca he agne yakṣīti pada-dvayam anuvartate || indraś ca vāyuś cendravāyū | devatādvandve ca | pā. 6-3-26 | iti prāptasyānaṅa ubhayatra vāyoḥ pratiṣedho vaktavyaḥ | pā. 6-3-26 vā. | iti pratiṣedhaḥ | devatādvandve ca | pā. 6-2-141 | iti prāptasyobhaya-pada-prakṛti-svarasya nottarapade 'nudāttādau | pā. 6-2-143 [?] | iti niṣedhaḥ | samāsāntodāttatvam eva | bṛhaspatim | taskara-bṛhatoḥ kara-patyoś cora-devatayor abhidheyayoḥ suṭ talopaś ca vaktavyaḥ | mai. [?] iti talopaḥ suḍāgamaś ca | bṛhac-chabdam ādyudāttaṃ kecid varṇayantīti nāmanaḥ [?] | pā rakṣaṇe | pātīti patiḥ | pāter ḍatiḥ | u. 4-[?] | pratyaya-svareṇādyudāttaḥ | samāsa ubhe vanaspaty-ādiṣu yugapat | pā. 6-2-140 | ity ubhaya-pada-prakṛti-svaratvam | mitrā | dvitīyāyāḥ su-sāṃ su-lug ity-ādinā vibhaktar ā-jādeśaḥ | ādityān | aditer apatyam ādityaḥ | dityadity-ādityapaty-uttarapadāṇ ṇyaḥ | pā. 4-1-85 | pratyaya-svaraḥ | mārutam | marutāṃ vikāraḥ | anudāttādeś ca | pā. 4-3-140 | ity añ | ñittvāt pādādy-udāttaḥ ||*
+
+**Translation:** "[The two words of Rik 1] *he agne yakṣi* ('O Agni, sacrifice') continue to be understood: [sacrifice] to Indra and the other gods, and to the *mārutam gaṇam* — the host belonging to the Maruts, the winds. *Indravāyū* — *Indra* and *Vāyu*, a dvandva of deities [the rest of this passage is grammar on why the *ānaṅ* substitution and the compound-accent rules do not apply — the compound keeps the accent of the end of the compound]. *Bṛhaspatim* — [the grammar here concerns the Vārttika that *suṭ* is added and *t* is dropped in *bṛhaspati* and *taskara* — the readings are marked as uncertain above]; *pā* means 'to protect'; 'he protects' is *pati*; first-syllable accent by the suffix-accent; both parts keep their own accent, as in *vanaspati*. *Mitrā* — the case-ending replaced by *ā* by the rule 'su-, sām, … *luk*' [with the second case sense, singular — see Special Topics]. *Ādityān* — the child (*apatya*) of Aditi is *Āditya* (P. 4-1-85, the suffix accent). *Mārutam* — what belongs to or is a product of the Maruts, with *añ* by P. 4-3-[?]; since *añ* has an indicatory *ñ*, the first syllable of the word is accented." *(Grammar noted briefly; "[?]" marks stretches where the print is compressed or the sūtra numeral is unclear. The numbers 6-3-26, 6-2-141 and 4-1-85 agree with the standard numbering.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 593)*
+
+**(हे अग्ने) ((he agne))** — O Agni | **इन्द्रवायू (indravāyū)** — Indra and Vāyu | **बृहस्पतिम् (bṛhaspatim)** — Bṛhaspati | **मित्रा (mitrā)** — Mitra | **अग्निम् (agnim)** — Agni | **पूषणम् (pūṣaṇam)** — Pūṣan | **भगम् (bhagam)** — Bhaga | **आदित्यान् (ādityān)** — the Ādityas | **मारुतं गणम् (mārutaṃ gaṇam)** — the hosts of the Maruts | *(all these)* — having in view [or: for them] — **(यक्षि) ((yakṣi))** — sacrifice.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni, perform the sacrifice with these in view: Indra, Vāyu, Bṛhaspati, Mitra, Agni, Pūṣan, Bhaga, the Ādityas (or: the deities), and the hosts of the Maruts.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Sacrifice to Indra, Vayu, Bribaspati [sic], Mitra, Agni, Pushan, Bhaga, the Adityas. and [sic] the hosts of Maruts.
+
+*(A bare numeral "75" stands after the English at the foot of p. 593; as with "74" on p. 585 it is outside the text — apparently a running number of the English renderings; I take it so, but flag it [?].)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**अग्ने यक्षि (agne yakṣi)** — Because this rik has no verb, the commentator says the two words *agne yakṣi* ("O Agni, sacrifice") must be supplied (*adhyāhāra*). But Agni is himself one of the group named in this rik, so it seems unfitting to say "O Agni, sacrifice to Agni". For this reason the author of the *Vedārthayatna* supplies the two words *ahaṃ hvaye* — "I invoke" — to mean: "I invoke the deities beginning with Indra and Vāyu."
+
+**इन्द्रवायू (indravāyū)** — *indraś ca vāyuś ca indravāyū*; the compound of two deities (*devatā-dvandva*): the two deities Indra and Vāyu are named by a single word in the dual.
+
+**मित्रा (mitrā)** — here the second-case ending must be taken in the singular sense [= *mitram*].
+
+**आदित्यान् (ādityān)** — *aditer apatyāni ādityāḥ*: the children of Aditi, the mother of the gods, are called Ādityas; the meaning is "the deities", or the twelve Ādityas.
+
+**मारुतम् (mārutam)** — the final letter of the genitive plural *mārutām* has been shortened for the sake of the metre.
+
 ---
 
-**Progress note — printed page 583 reached (Sūkta 13 complete).**
+**Progress note — printed page 593 reached (Sūkta 14, Riks 1–3 done; Sūkta 14 in progress).**
 
-**This batch:** Sūkta 13 ("susamiddho na ā vaha", the second **Āpri-sūkta**) of Maṇḍala 1, pp. 525–583 — the application note (the eleven *prayājas* of the animal sacrifice; Medhātithi Kāṇva; Gāyatrī) and all twelve Riks (13.1–13.12), one deity per rik — Samiddha/Idhma-Agni, Tanūnapāt, Narāśaṃsa, Iḷa, Barhis, the divine Doors, Night and Dawn, the two divine Hotṛs, the three goddesses (Iḷā, Sarasvatī, Bhāratī/Mahī), Tvaṣṭṛ, Vanaspati, and the Svāhākṛtis — each with Saṃhitā, Pada, Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and the printed English, with the grammar pages noted briefly per the cost-saving rule (the long scholastic discussions on pp. 530–532, 561–563, 572–575 are outlined only). Highlights: Yāska's Nirukta definition of *āpriya* (13.1); the two senses of *tanūnapāt* — Kāṭhakya's "ghee" and Śākapūṇi's "Agni" — and *madhu* as Soma (13.2); *narāśaṃsa* as the sacrifice or Agni (13.3); *manurhita* with Skandasvāmī's "placed by Prajāpati" and Oldenberg's "instituted by Manu" (13.4); *barhis* as the cut *kuśa*, with Yāska's etymology (13.5); the door-deities (13.6); *naktoṣāsā* with Yāska on night and dawn (13.7); *daivyā hotārā* between gods and men (13.8); the three goddesses as Agni's forms in earth, atmosphere and sky (13.9); the detailed account of Tvaṣṭṛ as the craftsman of the gods (13.10); *vanaspati* as the sacrificial post or Agni (13.11); and Yāska's four etymologies of *svāhā*, with the Purāṇic daughter-of-Dakṣa note (13.12).
+**This batch:** opening application note (p. 583 lower half), heading block, and Riks 1–3 of Sūkta 14 (*aibhir agne duvo giraḥ*, to the Viśvedevas; 12 riks; Medhātithi Kāṇva; Gāyatrī).
 
-**Next task:** begin Sūkta 14 ("aibhir agne duvo giraḥ"; the table of contents lists it as "babhrur agne", which does not match the print) at printed page 583, lower half (PDF page 598). The table of contents says Sūkta 14's application, ṛṣi/deity/meter and word-meanings are on p. 584, and that the sūkta runs to about p. 625 (Sūkta 15 starts at p. 626); it addresses the Viśvedevas.
+**Next task:** continue Sūkta 14 at Rik 4 (printed p. 594, PDF p. 609); Sūkta 15 begins at about p. 626.
 
 **Open flags:**
-- Varga numbering: this sūkta's heading reads "24, 25" at 300 dpi (the second digits are blurred), continuing the run (Sūkta 7 "13, 14" … Sūkta 12 "22, 23"); still unreconciled with the "eighth varga" closing note of Sūkta 6. Sūkta 14's heading (p. 584) has not yet been read at 300 dpi.
-- Sūkta 13 application note: the first line of the Sanskrit prints *suśamiddha*; the rik itself begins *susamiddho*. I read the compressed Anukramaṇikā quotation as a list of the twelve deities; the exact wording of its first clause is uncertain and flagged.
-- The Ṛgveda verses quoted in the Special Topics (e.g., under Riks 13.2, 13.5, 13.8, 13.9, 13.10, 13.11, 13.12) are best readings from compressed print, each marked in place with "[?]" for its reference; several are given without a gloss. The Taittirīya and Nirukta passages printed in compressed Sanskrit are likewise marked.
-- Rik 13.8, Special Topics: the Kannada reference to "the Taittirīya Saṃhitā 6-1-…" for Maitrāvaruṇa's *praiṣa* has a blank where the number should be; I give it as "6-1-?".
-- A few passages in Sāyaṇa's Sanskrit were compressed or partly illegible (notably the Rik 1 and Rik 9 grammar) and I give only the portions I could read.
-- Reference numerals (Nirukta, Nighaṇṭu, Uṇādi, Phiṭ, Pāṇini, Ṛgveda mantra numbers, Āśvalāyana/Taittirīya references) are marked [?] wherever not certain; sūtra numbers in the briefly-noted grammar pages were not cross-checked.
-- Accent marks are not reproduced for Riks 3.5 onward.
-- Older progress notes inside the file (around lines 170, 385, 501) and a stray Cyrillic string on p. 29 are not yet cleaned.
+- Sūkta 14 heading: varga numerals read as "26, 27 [?]" (blurred); deity-list numerals unclear; Āśvalāyana reference numeral unreadable.
+- Rik 1 grammar is given twice (bhāṣya outline plus Vyākaraṇa-prakriyā note); trim only if asked.
+- Stray "74"/"75" numerals after the printed English at pp. 585 and 593 are unexplained.
+- Older progress notes inside the file (around lines 170, 385, 501) and a stray Cyrillic string on p. 29 are not yet cleaned; the docx has not been rebuilt for Sūkta 14.
