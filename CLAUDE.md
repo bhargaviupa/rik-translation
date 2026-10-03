@@ -13,10 +13,10 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 447**, which closes **Sūkta 10** of Maṇḍala 1 (twelve Riks); the file is contiguous from
-p. 1. **Next task: begin Sūkta 11 ("indraṃ viśvā avīvṛdhan") at printed page 448** (PDF page 463), from its
-heading and application note. The tail of the output file has the progress note and the open flags — read the
-last ~40 lines before starting any new batch.
+Through **printed page 482**, which closes **Sūkta 11** of Maṇḍala 1 (eight Riks); the file is contiguous from
+p. 1. **Next task: begin Sūkta 12 ("agniṃ dūtaṃ vṛṇīmahe") at printed page 483** (PDF page 498), from its
+heading and application note (the first Agni sūkta; it opens the fourth anuvāka). The tail of the output file has
+the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
 front matter — title pages, royal dedication, the translator's preface, and the table of
