@@ -1259,17 +1259,160 @@ The commentator explains that this rik is spoken with reference to the *udgāt�
 
 **उश्मसि (uśmasi)** — *kāmayāmahe*: we wish; we desire to do Soma-sacrifices and the like for Savitṛ.
 
+### Pages 81–83 — Sūkta 22, Rik 7
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> विभक्तारं हवामहे वसोश्चित्रस्य राधसः ।
+> सवितारं नृचक्षसम् ॥७॥
+>
+> *vibhaktāraṃ havāmahe vasoś citrasya rādhasaḥ |*
+> *savitāraṃ nṛcakṣasam ||7||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> विऽभक्तारम् । हवामहे । वसोः । चित्रस्य । राधसः ॥
+> सवितारम् । नृऽचक्षसम् ॥७॥
+>
+> *vi-bhaktāram | havāmahe | vasoḥ | citrasya | rādhasaḥ ||*
+> *savitāram | nṛ-cakṣasam ||7||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 82; compressed)*
+
+> वसोर्निवासहेतोर्गृहादेश्चित्रस्य सुवर्णरजतादिरूपेण बहुविधस्य राधसो धनस्य विभक्तारमस्य यजमानस्यैतावदिदं दानमुचितमिति विभागकारिणं नृचक्षसं मनुष्याणां प्रकाशकारिणं सवितारं हवामहे । कौषीतकिन एतस्या ऋचो व्याख्यानरूपे ब्राह्मणे सवितुर्विभागहेतुत्वमेव समामनन्ति । यदेतेन्द्रसोश्चित्रं राधस्तदेष सविता विभक्ताभ्यः प्रजाभ्यो विभजतीति ॥ [grammar:] *vibhaktāram* (*tṛc*, end-accent, then the accent of the final member after compounding with *vi*); *havāmahe* (*hve*, *saṃprasāraṇa* by P. 6-1-34 'variously in the Veda'); *vasoḥ* (*vas* 'to dwell', Uṇādi *u*; first-syllable accent); *rādhasaḥ* (*asun*, first-syllable accent); *nṛcakṣasam* (*nṝn caṣṭe iti*; *cakṣ* + *asun* by Uṇādi, no *khyā* substitution because *asun* is not *ārdhadhātuka* in that sense).
+>
+> *vasor nivāsa-hetor gṛhādeś citrasya suvarṇa-rajatādi-rūpeṇa bahuvidhasya rādhaso dhanasya vibhaktāram asya yajamānasyaitāvad idaṃ dānam ucitam iti vibhāga-kāriṇaṃ nṛcakṣasaṃ manuṣyāṇāṃ prakāśa-kāriṇaṃ savitāraṃ havāmahe | kauṣītakina etasyā ṛco vyākhyāna-rūpe brāhmaṇe savitur vibhāga-hetutvam eva samāmananti | yad etendra-soś citraṃ rādhas tad eṣa savitā vibhaktābhyaḥ prajābhyo vibhajatīti ||*
+
+*(The grammar passage printed on pp. 82–84 is dense; the words treated are* vibhaktāram, havāmahe, vasoḥ, rādhasaḥ, nṛcakṣasam*, with sūtras cited including P. 6-1-34 [*bahulaṃ chandasi*], P. 6-1-108 [*saṃprasāraṇāc ca*] and Uṇ. 4-[?] for* vasu*; "grammar pages, noted briefly"; numerals are pointers only. The Kauṣītaki quotation is read from small print: it says the god Savitṛ distributes, among created beings, the varied riches that belong to [the pair Indra and Soma? — read uncertainly [?]].)*
+
+**Translation:** "We invoke (*havāmahe*) Savitṛ, the *vibhaktṛ* — distributor — of *citra* wealth of many kinds, such as gold and silver, together with houses and the like that give shelter (*vasoḥ*): the one who apportions to this sacrificer exactly such gifts as are fitting; *nṛcakṣasam* — who gives light (knowledge) to men."
+
+**॥ Prati-padārthaḥ ॥** **वसोः (vasoḥ)** — of house-related | **चित्रस्य (citrasya)** — of various | **राधसः (rādhasaḥ)** — wealth | **विभक्तारम् (vibhaktāram)** — the distributor | **नृचक्षसम् (nṛcakṣasam)** — giver of light to men (giver of knowledge) | **सवितारम् (savitāram)** — Savitṛ | **हवामहे (havāmahe)** — we invoke.
+
+**॥ Bhāvārthaḥ ॥** We invoke Savitṛ, who distributes gold, silver and other wealth, together with houses and the like, to each according to merit, and who gives light to men.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> We invoke Savitri, the distributor of various kinds of wealth including the house and the enlighter of men.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 83)* The rik's chief sense: Savitṛ gives many kinds of wealth and houses, and gives knowledge to people according to their fitness. **विभक्तारम्** — one who apportions to each according to his merit or his performance of sacrificial work. **नृचक्षसम्** — *nṝn caṣṭe prakāśayati*: the one who illumines men — "gives knowledge, prompts the mind"; and the well-known Gāyatrī mantra *dhiyo yo naḥ pracodayāt* (Ṛ. Saṃ. 3-62-10) makes plain that Savitṛ prompts our minds.
+
+### Pages 84–86 — Sūkta 22, Rik 8
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> सखाय आ नि षीदत सविता स्तोम्यो नु नः ।
+> दाता राधांसि शुम्भति ॥८॥
+>
+> *sakhāya ā ni ṣīdata savitā stomyo nu naḥ |*
+> *dātā rādhāṃsi śumbhati ||8||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> सखायः । आ । नि । सीदत । सविता । स्तोम्यः । नु । नः ॥
+> दाता । राधांसि । शुम्भति ॥८॥
+>
+> *sakhāyaḥ | ā | ni | sīdata | savitā | stomyaḥ | nu | naḥ ||*
+> *dātā | rādhāṃsi | śumbhati ||8||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 85; compressed)*
+
+> सखिभूता हे ऋत्विज आ नि षीदत । सर्वतोऽपविशत । नोऽस्माकमयं सविता क्षिप्रं स्तोम्यः स्तुतियोग्यो राधांसि धनानि दाता प्रदातुमुद्युक्तः । एष सविता शुम्भति शोभते ॥ [grammar:] *sakhāyaḥ* (*samāne khyā*… with the Uṇādi *iñ*, *saṃprasāraṇa*-like change; *sakhi* + *jas*, vṛddhi *ai*, then *ay*); *niṣīdata* (*ṣadḷ*, *sīda*-substitute by P. 7-3-78; *ṣatva* by P. 8-3-65 *sadiraprateḥ*; *loṭ* second plural *ta*, *tana*-substitute not applied here); *stomyaḥ* (*stoma* + *yat* 'in the Veda, in the sense *bhava*' by P. 4-4-110; first-syllable accent by P. 6-1-213); *dātā* (*dā* + *tṛn*, first-syllable accent through *n*); *rādhāṃsi* (*rādhas* + *śas* → *śi*, *num*, lengthening); *śumbhati* (*śubh* 'to shine').
+>
+> *sakhi-bhūtā he ṛtvija ā ni ṣīdata | sarvato 'paviśata | no 'smākam ayaṃ savitā kṣipraṃ stomyaḥ stuti-yogyo rādhāṃsi dhanāni dātā pradātum udyuktaḥ | eṣa savitā śumbhati śobhate ||*
+
+*(The Vyākaraṇa-prakriyā on pp. 86–87 treats* sakhāyaḥ *at length — the Uṇādi sūtra on* samāne khyaḥ *and the derivation 'those who shine alike' —* niṣīdata, stomyaḥ *and the accent of* dātā*; grammar pages noted briefly; numerals as read, pointers only.)*
+
+**Translation:** "O friends — priests! Sit down all round (*ā ni ṣīdata*). This Savitṛ is now to be praised (*stomyaḥ*) by us, and, as the giver (*dātā*) of wealth (*rādhāṃsi*), he is eager to give: he shines (*śumbhati*)."
+
+**॥ Prati-padārthaḥ ॥** **सखायः (sakhāyaḥ)** — O friends (priests) | **आ नि सीदत (ā ni sīdata)** — sit down all round | **सविता (savitā)** — Savitṛ | **नः (naḥ)** — by us | **नु (nu)** — now | **स्तोम्यः (stomyaḥ)** — to be praised | **राधांसि (rādhāṃsi)** — riches | **दाता (dātā)** — the giver | **शुम्भति (śumbhati)** — shines.
+
+**॥ Bhāvārthaḥ ॥** O priests! This Savitṛ shines, ready to give us wealth. We must praise him now; therefore sit down all together.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Friends, come and sit down ; Savitri is now to be praised by us, for he is the bestower of riches and shining brightly.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 85–86)* **सखायः** — *sakhibhūtā ṛtvijaḥ*: the sacrificer addresses the priests as his friends; "*ṛtvijo vā asya sakhāyaḥ*" — the Taittirīya Saṃhitā says the priests are the sacrificer's friends. Yāska derives *sakhi* from *samāna khyāyante*, 'those who shine alike'.
+
+### Pages 87–89 — Sūkta 22, Rik 9
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> अग्ने पत्नीरिहा वह देवानामुशतीरुप ।
+> त्वष्टारं सोमपीतये ॥९॥
+>
+> *agne patnīr ihā vaha devānām uśatīr upa |*
+> *tvaṣṭāraṃ somapītaye ||9||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> अग्ने । पत्नीः । इह । आ । वह । देवानाम् । उशतीः । उप ॥
+> त्वष्टारम् । सोमऽपीतये ॥९॥
+>
+> *agne | patnīḥ | iha | ā | vaha | devānām | uśatīḥ | upa ||*
+> *tvaṣṭāram | soma-pītaye ||9||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 87; compressed)*
+
+> अग्निष्टोमे प्रातःसवनेऽग्ने पत्नीरिहा वहेति नेष्टुः प्रेष्ठिकेयाज्या । प्रशास्ता ब्राह्मणाच्छंसीति खण्डे सूत्रितम् । अग्ने पत्नीरिहा वहोक्षान्नायेति । आ. [५-५] [?] ॥ हे अग्ने उशतीः कामयमाना देवानां पत्नीरिन्द्राण्याद्या इह देवयजनदेश आ वह । तथा त्वष्टारं देवं सोमपीतये सोमपानार्थमुप समीपे आ वह ॥
+>
+> *agniṣṭome prātaḥsavane 'gne patnīr ihā vaheti neṣṭuḥ preṣṭhikeyājyā | praśāstā brāhmaṇācchaṃsīti khaṇḍe sūtritam | agne patnīr ihā vahokṣānnāyeti | ā. [5-5] [?] || he agne uśatīḥ kāmayamānā devānāṃ patnīr indrāṇy-ādyā iha deva-yajana-deśa ā vaha | tathā tvaṣṭāraṃ devaṃ somapītaye soma-pānārthaṃ upa samīpe ā vaha ||*
+
+**Translation:** "In the Agniṣṭoma, at the morning pressing, the rik *agne patnīr ihā vaha* is the *yājyā* of the *neṣṭṛ* priest; so laid down in the Sūtra, in the section *praśāstā brāhmaṇācchaṃsī* (Āśvalāyana [5-5] [?]). O Agni! Bring here, to the place of sacrifice, the wives of the gods — Indrāṇī and the rest — who are eager (*uśatīḥ*); and bring also the god Tvaṣṭṛ near, for the drinking of soma." *(Grammar pages 88–89, noted briefly: the words treated are* patnīḥ *[P. 4-1-33 *patyur no yajñasaṃyoge*, with *ṅīp* and *n*],* uśatīḥ *[*vaś* + *śatṛ*, *saṃprasāraṇa*, *ṅīp* by P. 4-1-6],* tvaṣṭāram*; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अग्ने (agne)** — O Agni | **उशतीः (uśatīḥ)** — loving [the gods] | **देवानाम् (devānām)** — the gods' | **पत्नीः (patnīḥ)** — wives | **इह (iha)** — here | **आ वह (ā vaha)** — bring | **त्वष्टारम् (tvaṣṭāram)** — Tvaṣṭṛ | **सोमपीतये (somapītaye)** — for drinking soma | **उप (upa)** — near [bring].
+
+**॥ Bhāvārthaḥ ॥** O Agni! Bring here the wives of the gods, who are dear to the gods, and Tvaṣṭṛ, to drink the soma.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Agni, bring hither, the anxious wives of the gods and the god Twashtri to drink our Soma
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 88)* In the Agniṣṭoma, at the morning pressing, the priest called Neṣṭṛ uses this rik as a *yājyā* mantra (Āś. [5-5] [?]: *agne patnīr ihā vaha* and *ukṣānnāya vaśānnāya* [Ṛ. Saṃ. 1-?-?, marked [?]]). This rik and the next three praise the wives of the gods; no particular names are given, only 'the wives of the gods'. **उशतीः** — *vaś kāntau*: *kāmayamānāḥ* — loving the gods, bright, anxious. **त्वष्टारम्** — Tvaṣṭṛ: why the ṛṣi invokes Tvaṣṭṛ along with the goddesses is not clear.
+
+### Pages 89–91 — Sūkta 22, Rik 10
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> आ ग्ना अग्न इहावसे होत्रां यविष्ठ भारतीम् ।
+> वरूत्रीं धिषणां वह ॥१०॥
+>
+> *ā gnā agna ihāvase hotrāṃ yaviṣṭha bhāratīm |*
+> *varūtrīṃ dhiṣaṇāṃ vaha ||10||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> आ । ग्नाः । अग्ने । इह । अवसे । होत्राम् । यविष्ठ । भारतीम् ॥
+> वरूत्रीम् । धिषणाम् । वह ॥१०॥
+>
+> *ā | gnāḥ | agne | iha | avase | hotrām | yaviṣṭha | bhāratīm ||*
+> *varūtrīm | dhiṣaṇām | vaha ||10||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 90; compressed)*
+
+> हे अग्ने अवसेऽस्मानवितुं ग्नाः देवपत्नीरिहा वह । कथा हे यविष्ठ युवतमाग्ने होत्रां होमनिष्पादकाग्निपत्नीं भारतीं भरतनामकस्यादित्यस्य पत्नीं वरूत्रीं वरणीयां धिषणां वाग्देवीं चा वह । वाग्वै धिषणेति वाजसनेयकम् । भरत आदित्यः । नि. [८-१३] [?] । इति यास्केनोक्तत्वात्तस्य पत्नी भारतीत्यध्येयम् ॥ [grammar:] *gnāḥ* (*gam* 'to go' + *kvip*/Uṇādi *ṅa*, with loss of the *m*); *hotrām* (Uṇ. 4-[?] *huyāmāśrubhasibhyas tran*); *yaviṣṭha* (*yuvan* + *iṣṭhan*, *yaṇādi* loss, guṇa); *bhāratīm*; *varūtrīm* (*vṛ* + *tṛc*? as read: 'she who is to be chosen'); *dhiṣaṇām* (Uṇ. 3-[?] *dhṛṣer ca*; *dhṛṣ* + *yuc/ana*).
+>
+> *he agne avase 'smān avituṃ gnāḥ deva-patnīr ihā vaha | kathā he yaviṣṭha yuvatamāgne hotrāṃ homa-niṣpādakāgni-patnīṃ bhāratīṃ bharata-nāmakasyādityasya patnīṃ varūtrīṃ varaṇīyāṃ dhiṣaṇāṃ vāg-devīṃ cā vaha | vāg vai dhiṣaṇeti vājasaneyakam | bharata ādityaḥ | ni. [8-13] [?] | iti yāskenoktatvāt tasya patnī bhāratīty adhyeyam ||*
+
+**Translation:** "O Agni, for our protection bring here the *gnāḥ* — the wives of the gods. How? O *yaviṣṭha* — most youthful! — bring *hotrā* — the wife of the Agni who completes the offering —, *bhāratī* — the wife of the Āditya called Bharata —, *varūtrī* — the one to be chosen —, and *dhiṣaṇā* — the goddess of speech. 'Speech indeed is *dhiṣaṇā*' (Vājasaneyaka); 'Bharata is the Āditya' (Nirukta [8-13] [?]), so *bhāratī* is to be understood as his wife." *(Grammar pages 91–92, noted briefly: *gnāḥ* [*gamlṛ gatau*, loss of *m* before *kṅit*, P. 6-4-37 pointer],* hotrām, yaviṣṭha, bhāratīm, varūtrīm, dhiṣaṇām*; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अग्ने (agne)** — O Agni | **यविष्ठ (yaviṣṭha)** — most youthful | **अवसे (avase)** — for [our] protection | **होत्राम् (hotrām)** — Hotrā | **भारतीम् (bhāratīm)** — Bhāratī | **वरूत्रीम् (varūtrīm)** — Varūtrī | **धिषणाम् (dhiṣaṇām)** — Dhiṣaṇā | **ग्नाः (gnāḥ)** — [these] divine wives | **इह (iha)** — here | **आ वह (ā vaha)** — bring.
+
+**॥ Bhāvārthaḥ ॥** O ever-youthful Agni! For our protection bring here Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā — the wives of the gods beginning with Āditya.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O youthful Agni, bring hither for our protection the goddesses, Hotra, Bharathi, Varutri, and Dhishana.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 91)* In this rik the divine wives Hotrā, Bhāratī, Varūtrī and Dhiṣaṇā are invoked. *Hotrā* is read among the words for speech (Ni. [1-11] [?]); *bhāratī* (Ni. [8-13]) and *dhiṣaṇā* among the words for speech, and *varūtrī*, 'the one to be chosen', are taken either as names of separate goddesses or as different names of Vāc; the commentator takes *hotrā* as the wife of Agni, *bhāratī* as the wife of Bharata-Āditya, *dhiṣaṇā* as Vāgdevatā [Sarasvatī]. **ग्नाः** — *gnā* means 'woman' (Ni. [3-21] [?]; also 'gnā' read among the words for speech [Ni. 1-11], and as 'women' in *menā gnā iti strīṇām* [Ni. 3-21]); Yāska derives it *gacchanti hi enāḥ maithunena dhāraṇārtham* — 'men go to women for the sake of union'. The word *gnāḥ* occurs in the Ṛgveda in several riks (Ṛ. Saṃ. 1-22-10 [Rik 10 itself], 1-61-8, and others; numerals as read, marked [?]). **यविष्ठ** — *atiśayena yuvā yaviṣṭhaḥ*: youthful, a young man.
+
 ---
 
-**Progress note — printed page 81 reached; Sūkta 22 in progress (Riks 1–6 done of 21).**
+**Progress note — printed page 91 reached; Sūkta 22 in progress (Riks 1–10 done of 21).**
 
-**This batch:** Riks 4, 5 and 6 of Sūkta 22 (printed pp. 72–81).
+**This batch:** Riks 9 and 10 of Sūkta 22 (printed pp. 87–92). Grammar is now given as short notes.
 
-**Next task:** continue Sūkta 22 at Rik 7 (read its Saṃhitā from the page), at the foot of printed p. 81 or the head of p. 82 (PDF page 97); fifteen riks follow; the sūkta runs to printed p. 140, and Sūkta 23 begins at p. 141. Sūkta 22 is about 78 pages and will need several more sessions. Savitṛ riks 5–8; Agni riks 9–10; and so on as the heading states.
+**Next task:** continue Sūkta 22 at Rik 11 (to the Devīs, the wives of the gods — *abhi no devīr avasā mahaḥ śarmaṇā nṛpatnīḥ*?; read the Saṃhitā from the page), at about printed p. 92 (PDF page 107); eleven riks follow; Sūkta 22 runs to printed p. 140; Sūkta 23 begins at p. 141.
 
-**Open flags:**
-- Sūkta 22 heading: the varga numerals are unclear ("4–[?]"); the Anukramaṇikā quotation and the Kannada's rik-count statement in the application note, and the deity of Rik 16 ("Viṣṇu or Kṛṣṇa / all gods"), are uncertain [?].
-- Rik 4: the sūtra numbers of the accent discussion are as read [?]. Rik 5: the Kauṣītaki-Brāhmaṇa quotation about Savitṛ's hand (Special Topics) is read from small print and partly garbled — given as read, with the English sense from the Kannada; the Uṇādi note on *hiraṇya* is partly unclear; the Yāska passages (Ni. 2-10, 2-16, 10-31, 10-32) have their numerals marked [?]. Rik 6: the Kannada's long grammar on *napāt* (the *num* / *tuk* / genitive dispute, pp. 80–81) is summarised only; the closing note on Yāska's *apāṃ napāt* vs *tanūnapāt* has its Nirukta numerals marked [?].
-- Rik 1–3 flags from the previous batch carry over (*asya* grammar, *surathā* accent phrase, Rik 3's first words on *kaśā* and its Nighaṇṭu list, the two-version Pratipadārtha).
-- Sūkta 21 and 20 flags carried over (Anukramaṇikā quotations, Āśvalāyana numerals, outline grammar, my homage-verse English, tentative gloss of Ṛ. 1-110-4).
-- The preface (PDF pp. 8–10), the abbreviations list (PDF p. 11) and the portrait pages are not translated.
+**Open flags:** as in the previous progress note; the Ṛgveda/Nirukta reference numerals in the Rik 9–10 Special Topics are marked [?]; grammar in outline.
