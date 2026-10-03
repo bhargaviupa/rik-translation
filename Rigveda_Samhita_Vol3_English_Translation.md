@@ -1727,13 +1727,157 @@ Twenty-four *[the printed numeral reads 24, marked [?]]* words are listed (Nigha
 **Yāska's explanation.** The sage Yāska explains this rik in the Nirukta [quoted above], which means: 'When the Sun fills everything with his rays, he is called Viṣṇu; or, by entering everything with his rays, Viṣṇu; or, by pervading everything exceedingly, with his rays and shining, the Āditya is called Viṣṇu.' [The Sanskrit of this commentary — *yadā viṣitaḥ vyāpto 'yam eva sūryo raśmibhir bhavati tadā viṣṇur bhavati | viśater vā yadā viṣṭaḥ praviṣṭaḥ sarvato raśmibhir bhavati tadā viṣṇur bhavati | vyaśnoter vā … yadā raśmibhir atiśayenāyaṃ vyāpto bhavati vyāpnoti vā raśmibhir ayaṃ sarvaṃ tadā viṣṇur āditya|ḥ — is printed in the source.] Then, for *this* rik, according to Śākapūṇi: 'Viṣṇu (the Āditya) places three steps in order to divide this world into three parts — earth, *antarikṣa*, heaven; that is, he appears in three ways: through the rays on earth, through the lightning in the *antarikṣa*, and through the orb of the sun in heaven.' Aurṇavābha's view: 'the Sun is seen at sunrise on the mountain of rising (*samārohaṇa*), at midday in the *antarikṣa* (*Viṣṇupada*), and at evening on the setting mountain (*gayaśiras*)'; that, he says, is the sense of *tredhā nidadhe padam*. *Samūḷham asya pāṃsure* — in the *antarikṣa* at midday the foot [of the Sun] is never seen [on account of the heat, the glare of lightning…]; or [if the phrase is a simile], 'as one cannot see a thing that is lost in dust'. For *pāṃsu* the derivation is: *pādyaiḥ sūyante janyante* — 'that which is produced from the feet'; or *pannāḥ śerate* — 'what lies fallen'; or *piṃsanīyāḥ dhvaṃsanīyāḥ* — 'what is to be crushed or ground' — hence the dust of the feet is called *pāṃsura*.
 
 All the above is from Yāska's explanations. In the Purāṇas Viṣṇu holds a special place of importance: since he pervades the whole universe, he is called Parameśvara and Parabrahman; and among the Trimūrti — Brahmā, Viṣṇu, Maheśvara — who carry on the creation, preservation and dissolution of the universe, Viṣṇu is known as its protector. For the purpose of protecting the world he has taken many incarnations; one of these, the Vāmana or Trivikrama incarnation, is described in this rik, according to the commentator and other Indian pandits. But Western and modern scholars hold that, since Viṣṇu's incarnations are not specified in the Ṛgveda, and since the deities seen in the Veda are described in the Purāṇas in a different, elaborate fashion — the Veda being the root of the Purāṇic tales — it is not right to fit the incarnations of the Purāṇas on to the Vedic mantras. *According to the Purāṇic story:* while the asura Bali-cakravartī, having conquered the gods, ruled the kingdom, the defeated gods took refuge with Viṣṇu; to protect them, Viṣṇu took the Vāmana incarnation, came to Bali as he was performing a sacrifice, and begged three paces of land; Bali agreed. Then Vāmana took the Trivikrama form, so huge that with one foot he covered the earth, with a second the *antarikṣa*; and asked where the third foot should go. Bali, true to his word, bade him place it on his own head. The Trivikrama placed his third foot on Bali's head, sent him to Pātāla, and having granted him a boon he asked for, made him live there in happiness as king. *(The author gives the story at length.)*
+### Pages 128–131 — Sūkta 22, Rik 18
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> त्रीणि पदा वि चक्रमे विष्णुर्गोपा अदाभ्यः ।
+> अतो धर्माणि धारयन् ॥ १८ ॥
+
+*trīṇi padā vi cakrame viṣṇur gopā adābhyaḥ | ato dharmāṇi dhārayan || 18 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> त्रीणि । पदा । वि । चक्रमे । विष्णुः । गोपाः । अदाभ्यः ॥ अतः । धर्माणि । धारयन् ॥ १८ ॥
+
+*trīṇi | padā | vi | cakrame | viṣṇuḥ | gopāḥ | adābhyaḥ || ataḥ | dharmāṇi | dhārayan || 18 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> उपसदि वैष्णवयागस्य प्रातःकाले याज्या सायंकालेऽनुवाक्या त्रीणि पदेत्येषा । सूत्रितं च — त्रीणि पदा वि चक्रम इति स्विष्टकृदादि लुप्यते (आ. ४-८) इति ॥
+>
+> अदाभ्यः केनाप्यहिंसितुमशक्यो गोपाः सर्वस्य जगतो रक्षको विष्णुः पृथिव्यादिस्थानेषु सप्तसु [?] एतेषु त्रीणि पदानि वि चक्रमे । किं कुर्वन् । धर्माणि अग्निहोत्रादीनि धारयन् पोषयन् ॥ पदा । सुपां सुलुगित्यादिना विभक्तेर्डादेशः । तस्य स्थानिवद्भावेनानुदात्तत्वे प्राप्ते उदात्तनिवृत्तिस्वरेणोदात्तत्वम् । गोपाः । गोपानृतस्य (ऋ. १-१-८) इत्युक्तोक्तम् । अदाभ्यः । दभेर्यहलोर्ण्यदिति ण्यत् । नञ्समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । धारयन् । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण णिच् एव स्वरः शिष्यते ॥
+
+*upasadi vaiṣṇavayāgasya prātaḥkāle yājyā sāyaṃkāle 'nuvākyā trīṇi padety eṣā | sūtritaṃ ca — trīṇi padā vi cakrama iti sviṣṭakṛdādi lupyate (ā. 4-8) iti ||*
+*adābhyaḥ kenāpy ahiṃsitum aśakyo gopāḥ sarvasya jagato rakṣako viṣṇuḥ pṛthivyādisthāneṣu saptasu [?] eteṣu trīṇi padāni vi cakrame | kiṃ kurvan | dharmāṇi agnihotrādīni dhārayan poṣayan || padā | supāṃ suluk ity ādinā vibhakter ḍādeśaḥ | tasya sthānivadbhāvenānudāttatve prāpte udāttanivṛttisvareṇodāttatvam | gopāḥ | gopānṛtasya (ṛ. 1-1-8) ity uktoktam | adābhyaḥ | dabher yahalor ṇyad iti ṇyat | nañsamāsaḥ | avyayapūrvapadaprakṛtisvaratvam | dhārayan | śapaḥ pittvād anudāttatvam | śatuś ca lasārvadhātukasvareṇa ṇic eva svaraḥ śiṣyate ||*
+
+**Translation:** "In the *upasad* [offering], the rik *trīṇi padā* is the *yājyā* of the Viṣṇu sacrifice in the morning, and the *anuvākyā* in the evening; so it is laid down: '*trīṇi padā vi cakrame* — the *sviṣṭakṛt* and the rest are omitted' (Āś. [4-8]). Viṣṇu — *adābhya*, whom none can harm; *gopā*, the protector of all the world — strode three steps [in the places of the earth and the rest, in the seven [?] of them]. Doing what? *Dharmāṇi* — the sacrificial rites such as the Agnihotra — *dhārayan*: supporting, nourishing." *(Grammar pages 129–131, noted briefly: the words treated are* padā *[the* ḍā *substitute for* śas *by P. 7-1-39 *supāṃ suluk*…; accent by the rule of cessation of the* udātta*],* vicakrame*,* viṣṇuḥ *[see the previous rik],* gopāḥ *[*go* + *pā rakṣaṇe* + *kvip*; the process is the same as in Ṛ. Saṃ. 1-1-8, to which the bhāṣya refers; the print does not show the process in the present printed form],* adābhyaḥ *[*dabh* is not in Pāṇini's list of roots but the commentator takes it as 'to harm'; *ṇyat* by P. 3-1-124 *ṛhalor ṇyat*; *upadhā-vṛddhi*; *nañ*-compound P. 2-2-6; loss of* n *P. 6-3-73; accent by P. 6-2-2 — all seven are* prakṛti-svara *in a* tatpuruṣa *with* nañ],* dhārayan *[*dhṛṅ dhāraṇe* + *ṇic*; vṛddhi P. 7-2-115; *śatṛ* for *laṭ* by P. 3-2-124; *śap*; the accent of* śap *and* śatṛ *resolved by P. 6-1-186 and 6-1-[?]; the accent of* ṇic *alone remains]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **अदाभ्यः (adābhyaḥ)** — one whom none can harm | **गोपाः (gopāḥ)** — the protector of the whole world | **विष्णुः (viṣṇuḥ)** — Viṣṇu | **धर्माणि (dharmāṇi)** — the sacred rites [Agnihotra and the like] | **धारयन् (dhārayan)** — supporting | **अतः (ataḥ)** — by this [kind of] action | **त्रीणि पदा (trīṇi padā)** — three steps | **वि चक्रमे (vi cakrame)** — placed.
+
+**॥ Bhāvārthaḥ ॥** Viṣṇu cannot be injured by anyone; he is the protector of the whole world; therefore, for the protection of the rites such as the Agnihotra, Viṣṇu placed three steps.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Vishnu, the uninjurable and the protector of the Universe, stepped three steps, thereby preserving the Sacred laws.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 129)* **Application.** In the *upasad* sacrifice, in the offering made to Viṣṇu, this rik is to be used as the *yājyā* mantra in the morning, and as the *puro-'nuvākyā* in the evening; this is stated in Āśvalāyana's Śrauta-sūtra in the section *trīṇi padā vi cakrame iti sviṣṭakṛdādi lupyate* (Āś. [4-8]). **गोपाः** — *go* is the earth; he who protects it is *gopāḥ*: a name for Viṣṇu. **अदाभ्यः** — *ahiṃsyaḥ*: one who cannot be harmed — there is no one with the power to harm him. **धर्माणि, धारयन्** — according to the saying *sarvasya hi bhagavān viṣṇur āśrayaḥ* ('Bhagavān Viṣṇu is indeed the support of all'): Viṣṇu is the refuge and protector of all the universal laws (*dharmas*), not only of the universe. That is, among the Trimūrti — Brahmā, Viṣṇu and Maheśvara, whose duties are creation, preservation and dissolution — Viṣṇu carries out his own duty of protecting the universe by punishing the wicked and protecting the good.
 
 ---
 
-**Progress note — printed page 128 reached; Sūkta 22 in progress (Riks 1–17 done of 21).**
+### Pages 131–135 — Sūkta 22, Rik 19
 
-**This batch:** Riks 15, 16 and 17 of Sūkta 22 (printed pp. 111–128; Riks 16–21 are the Viṣṇu riks). Grammar pages given as short notes.
+**॥ Saṃhitāpāṭhaḥ ॥**
 
-**Next task:** continue Sūkta 22 at Rik 18 (*trīṇi padā vi cakrame viṣṇur gopā adābhyaḥ | ato dharmāṇi dhārayan*; Saṃhitā on printed p. 128, PDF page 143; its Prati-padārtha etc. on p. 129); Riks 19–21 follow; Sūkta 22 runs to printed p. 140; Sūkta 23 begins at p. 141 (PDF page 156).
+> विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे ।
+> इन्द्रस्य युज्यः सखा ॥ १९ ॥
 
-**Open flags:** Āśvalāyana/Nirukta/Ṛgveda numerals in the Rik 16–17 notes are marked [?] where uncertain; the Taittirīya-Saṃhitā ātithya passage (Rik 17) is only partly legible; sentence on *pṛthivīpradeśād vīkṣaṇam* (Rik 16) doubtful.
+*viṣṇoḥ karmāṇi paśyata yato vratāni paspaśe | indrasya yujyaḥ sakhā || 19 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> विष्णोः । कर्माणि । पश्यत । यतः । व्रतानि । पस्पशे ॥ इन्द्रस्य । युज्यः । सखा ॥ १९ ॥
+
+*viṣṇoḥ | karmāṇi | paśyata | yataḥ | vratāni | paspaśe || indrasya | yujyaḥ | sakhā || 19 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> हे ऋत्विगादयो विष्णोः कर्माणि पालनादीनि पश्यत । यतो यैः कर्मभिर्व्रतान्यग्निहोत्रादीनि पस्पशे सर्वो यजमानः स्पृष्टवान् । विष्णोरनुग्रहादनुतिष्ठतीत्यर्थः । ताद्दृशो विष्णुरिन्द्रस्य योज्यो ऽनुकूलः सखा भवति । विष्णोरिन्द्रानुकूल्यं त्वष्टा हतपुत्र इत्यनुवाक्येथ वै तर्हि विष्णुरित्यादिना (तै. सं. २-४-१२-१ [?]) प्रपञ्चेन तैत्तिरीया आमनन्ति ॥ पस्पशे । स्पश बाधनस्पर्शनयोः । लिट् । द्विर्वचने शर्पूर्वाः खयः (पा. ६-४-८१ [?]) इति पकारः शिष्यते । सकारो लुप्यते । यद्वृत्तयोगादनिघातः । युज्यः । युजेर्बाहुलकात्क्यप् । कित्त्वाद्गुणाभावः । कृत्स्वरः । पित्त्वादनुदात्तत्वम् । धातुस्वरः ॥
+
+*he ṛtvigādayo viṣṇoḥ karmāṇi pālanādīni paśyata | yato yaiḥ karmabhir vratāny agnihotrādīni paspaśe sarvo yajamānaḥ spṛṣṭavān | viṣṇor anugrahād anutiṣṭhatīty arthaḥ | tādṛśo viṣṇur indrasya yojyo 'nukūlaḥ sakhā bhavati | viṣṇor indrānukūlyaṃ tvaṣṭā hataputra ity anuvākyeṭha vai tarhi viṣṇur ity ādinā (tai. saṃ. 2-4-12-1 [?]) prapañcena taittirīyā āmananti || paspaśe | spaśa bādhanasparśanayoḥ | liṭ | dvirvacane śarpūrvāḥ khayaḥ (pā. 6-4-81 [?]) iti pakāraḥ śiṣyate | sakāro lupyate | yadvṛttayogād anighātaḥ | yujyaḥ | yuje r bāhulakāt kyap | kittvād guṇābhāvaḥ | kṛtsvaraḥ | pittvād anudāttatvam | dhātusvaraḥ ||*
+
+**Translation:** "O priests and the rest! Behold the deeds of Viṣṇu — his protection and so on — by which every sacrificer has *touched* (*paspaśe* — taken up) the observances (*vratāni*) such as the Agnihotra: that is, he performs them by Viṣṇu's favour. Such a Viṣṇu is *yujya*, 'fit', the friendly companion of Indra. As to Viṣṇu's favourableness to Indra, the Taittirīyas describe it at length in the *anuvāka* beginning *tvaṣṭā hataputraḥ* … *atha vai tarhi viṣṇuḥ* … (Tai. Saṃ. [2-4-12-1] [?]). *Paspaśe*: from *spaśa* 'to hinder, to touch', perfect; in reduplication, of the consonants the one preceded by *śar* remains [P. 7-4-61, numeral doubtful, *śarpūrvāḥ khayaḥ*], the *s* is lost; since the word is joined with *yataḥ* there is no *nighāta* [accent-lowering]. *Yujyaḥ*: from *yuj*, with *kyap* by the *bāhulaka* rule; being *kit*, no guṇa; accent of the *kṛt*, the lowered accent by the *p*-it; the accent of the root remains." *(Grammar pages 134–135, noted briefly: *paspaśe* [*spaśa bādhanasparśanayoḥ*, *liṭ*; reduplication by P. 6-1-8 *liṭi dhātor anabhyāsasya*; the discussion of *halādiḥ śeṣaḥ* P. 7-4-60 and *śarpūrvāḥ khayaḥ* P. 7-4-61; *te* → *eś* by P. 3-4-81; the sūtra *yadvṛttānnityam* P. 8-1-66 prevents the lowering of the accent in the verb after *yataḥ*; the sūtra *pūjanāt pūjitam anudāttam* P. 8-1-67 and the rule on *vratāni* intervening noted];* yujyaḥ *[*yuj* + *kyap* by P. 3-1-[?] *uṇādayo bahulam*; *kit* so P. 1-1-5 prevents guṇa; *puganta-laghūpadha* P. 7-3-86 not applicable; *anudāttopadeśa*…; accent by the root-accent rule P. 6-1-162]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(O priests and the rest of the worshippers!)* **यतः (yataḥ)** — by whose [Viṣṇu's] acts | **व्रतानि (vratāni)** — the rites like the Agnihotra | **पस्पशे (paspaśe)** — [the sacrificer] has done | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **कर्माणि (karmāṇi)** — the acts of protection and the like | **पश्यत (paśyata)** — behold | **इन्द्रस्य (indrasya)** — of Indra | **युज्यः (yujyaḥ)** — fit, agreeable | **सखा (sakhā)** — dear friend.
+
+**॥ Bhāvārthaḥ ॥** O priests, sacrificers and the rest! Behold the [wonderful] deeds of Viṣṇu, such as his protection. By the greatness of that Viṣṇu the sacrificer is able to perform rites such as the Agnihotra. Such a Viṣṇu is the supreme friend of Indra.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> See the deeds of Vishnu, through which (the worshipper) has accomplished the pious acts; he is the intimate friend of Indra.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 132–134)* Some words have to be supplied in this rik: since the word *paśyata*, 'behold', is there, the vocative 'O people!' is needed; so also in *vratāni paspaśe* — 'he accomplished the observances' — the subject, 'the sacrificer', is needed; and with *indrasya sakhā* the word *viṣṇuḥ* is needed. **व्रतानि** — the good acts done by rule, that is, sacrificial and other observances. **पस्पशे** — *spṛṣṭavān*: 'he touched', i.e. he undertook, he began. **युज्यः** — *yogyaḥ* or *anukūlaḥ*: friendly to Indra, a dear friend, ever companion, fit. The commentator quotes an *anuvāka* of the Taittirīya Saṃhitā (Tai. Saṃ. [2-4-12]) which describes Viṣṇu's manifold prowess, his friendship with Indra, the invoking of Indra and Viṣṇu together, and so on. Its chief import is as follows:
+
+Tvaṣṭṛ, the Prajāpati, had a son named Viśvarūpa. Though he was priest (*purohita*) of the gods, he was partial to the asuras; being told that the asuras too should be given a share in sacrifices and the like, Indra understood this, and — thinking that this Viśvarūpa, as time went on, would give his own heavenly overlordship to the asuras — killed this Viśvarūpa, who sided with the asuras. In anger at his son's slaying, Tvaṣṭṛ wished for a son who might kill Indra, and performed a sacrifice for it. At this sacrifice he did not invite Indra for the soma-drinking. Indra was told: "Tvaṣṭṛ is not inviting you; you killed my son." Indra came to the sacrifice uninvited, by force, and drank the soma without Tvaṣṭṛ's permission. Then Tvaṣṭṛ took the remaining soma and went to the Āhavanīya fire, to complete it, and as one who kindles it, he made the offering with the mantra *svāhendraśatrur vardhasva* — 'may the slayer of Indra grow', a son who should kill Indra. But because the word *indraśatruḥ* was pronounced with the wrong accent, the sense of the mantra changed: instead of 'the slayer of Indra' [a *tatpuruṣa*] it became 'he whose slayer is Indra' [a *bahuvrīhi*] — and so was born a son named Vṛtra, who was to be slain by Indra. In the meantime Agni, installed in the sacrifice, [realising] that the Vṛtra born of the sacrifice would go up into the upper world and trouble the gods, broke up the sacrifice before its completion. [The sacrificial fire, blazing, appears brilliantly; if it flares, that signals the success of the wish of the sacrificer; but Agni burning dimly signals disaster for the sacrificer.] So Vṛtra, produced from the sacrificial offering, became the one to be slain by Indra. Then Vṛtra swiftly spread, pervading the whole world, like an arrow shot from a bow growing in size as it falls; so, pervading the world by the growth of his body, he was called Vṛtra. Seeing this, Indra was afraid; Tvaṣṭṛ too felt fear. Then Tvaṣṭṛ made a divine thunderbolt (*vajra*), consecrated it with a mantra and gave it to Indra. Indra had no strength even to lift that mighty thunderbolt. Seeing this, while he wondered what to do, Viṣṇu appeared before Indra. Then Indra prayed to Viṣṇu thus: "O Viṣṇu, seeing the power of Vṛtra I am much afraid; I have not even the strength to lift this thunderbolt in my hand; let us two together take away the all-pervading power in Vṛtra; for this you must help me." When Viṣṇu agreed to do so, he divided his body (or his own power) into three parts and placed them in earth, *antarikṣa* and heaven. Then Indra, who was on the earth, accompanied by the third part of Viṣṇu's body which had entered the thunderbolt, picked up the *vajra* in his hand. Then Vṛtra, seized with fear, addressed Indra: "O Indra, do not strike my body; I will give you all my strength which pervades the earth." So saying he gave Indra all his power on the earth; Indra accepted it and gave it to Viṣṇu; Viṣṇu accepted it. In the same way Indra took Vṛtra's power in *antarikṣa* and in heaven and gave it to Viṣṇu. Afterwards Vṛtra said to Indra: "Let us two make peace; give me leave to enter your body." Indra said: "If I let you enter my body, you will eat me up." Vṛtra: "No; I shall stay in your stomach, as the fire of digestion, cooking the food you eat, for your enjoyment." So he entered Indra's body. From that time Vṛtra, in the stomachs of men, gives hunger to living beings. As said before, since Indra, having taken threefold strength from Vṛtra, gave it to Viṣṇu, the oblation offered with reference to Indra and Viṣṇu is called *Indrāviṣṇū tridhātu*, the 'threefold' *puroḍāśa*; and when such oblations are made, Indra and Viṣṇu are invited together and the *homa* performed. This tale shows Viṣṇu's deeds and Viṣṇu's friendship with Indra; hence the commentator has cited this hymn [rik].
+
+---
+
+### Pages 135–138 — Sūkta 22, Rik 20
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः ।
+> दिवीव चक्षुराततम् ॥ २० ॥
+
+*tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam || 20 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> तत् । विष्णोः । परमम् । पदम् । सदा । पश्यन्ति । सूरयः ॥ दिविऽइव । चक्षुः । आऽततम् ॥ २० ॥
+
+*tat | viṣṇoḥ | paramam | padam | sadā | paśyanti | sūrayaḥ || divi-iva | cakṣuḥ | ā-tatam || 20 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> सूरयो विद्वांस ऋत्विगादयो विष्णोः संबन्धि परममुत्कृष्टं तच्छास्त्रप्रसिद्धं पदं स्वर्गस्थानं शास्त्रदृष्ट्या सर्वदा पश्यन्ति । तत्र दृष्टान्तः । दिवीव । आकाशे यथाततं सर्वतः प्रसृतं चक्षुर्निरोधाभावेन विशदं पश्यति तद्वत् ॥ सदा । सर्वैकान्येति (पा. ५-३-१५) दाप्रत्ययः । सर्वस्य सोऽन्यतरस्यां दि (पा. ५-३-६) इति सर्वशब्दस्य सभावः । व्यत्ययेनाद्युदात्तत्वम् । दिवि । ऊडिदमित्यादिना विभक्तेरुदात्तत्वम् । इवेन विभक्त्यलोपः पूर्वपदप्रकृतिस्वरत्वम् । चेति तदेव शिष्यते । चक्षुः । नब्विषयस्येत्यादि आद्युदात्तत्वम् । आततम् । तनोतेः कर्मणि क्तः । यस्य विभाषेति इट्प्रतिषेधः । अनुदात्तोपदेशेत्यादिना नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते गतिरनन्तर इति गतेरुदात्तत्वम् ॥
+
+*sūrayo vidvāṃsa ṛtvigādayo viṣṇoḥ saṃbandhi paramam utkṛṣṭaṃ tacchāstraprasiddhaṃ padaṃ svargasthānaṃ śāstradṛṣṭyā sarvadā paśyanti | tatra dṛṣṭāntaḥ | divīva | ākāśe yathātataṃ sarvataḥ prasṛtaṃ cakṣur nirodhābhāvena viśadaṃ paśyati tadvat || sadā | sarvaikānyeti (pā. 5-3-15) dāpratyayaḥ | sarvasya so 'nyatarasyāṃ di (pā. 5-3-6) iti sarvaśabdasya sabhāvaḥ | vyatyayenādyudāttatvam | divi | ūḍidam ity ādinā vibhakter udāttatvam | iveṇa vibhaktyalopaḥ pūrvapadaprakṛtisvaratvam | ceti tad eva śiṣyate | cakṣuḥ | nabviṣayasyety ādi ādyudāttatvam | ātatam | tanoteḥ karmaṇi ktaḥ | yasya vibhāṣeti iṭpratiṣedhaḥ | anudāttopadeśety ādinā nalopaḥ | kṛduttarapadaprakṛtisvaratve prāpte gatir anantara iti gater udāttatvam ||*
+
+**Translation:** "The *sūris* — the learned, the priests and the rest — always see, by the light of scripture, that highest, best — scripturally well known — place (*padam*) of Viṣṇu, the place of heaven (*svarga*). An illustration: *divīva* — as the eye, spread out over the sky, sees clearly all round without obstruction, so [they see]. *Sadā*: the suffix *dā* by P. 5-3-15 [*sarvaikānya…*]; *sarva* becomes *sa* before *dā* (P. 5-3-6); the first syllable has the acute by *vyatyaya* [interchange]. *Divi*: the case-ending acute by the rule *ūḍidam…*; *iva* — the ending is not lost [in the compound]; the original accent of the first member. *Cakṣuḥ*: first-syllable acute by the rule on *nab*-words … *Ātatam*: *kta* in the passive sense from *tan*; the prohibition of *iṭ* by *yasya vibhāṣā*; loss of *n* by [the rule on roots with a lowered accent]; the *gati* preserves its acute by P. 6-2-49 *gatir anantaraḥ*." *(Grammar pages 136–138, noted briefly: *sadā* [*sarvasmin kāle*, P. 5-3-15 *sarvaikānyakiṃyattadaḥ kāle dā*; *sarva* → *sa*, P. 5-3-6; accent by *vyatyayo bahulam* P. 3-1-85], *divi* [*div* + loc. sg. *ṅi* → *ṅi*… the locative accent — the long discussion of whether the ending *i* is *udātta* by P. 6-1-171 *ūḍidampadādyap-pumraidyubhyaḥ*, and of the compound with *iva*, P. 2-1-… — the accent of *iva* from *sa* and *iva* declared anudātta by the Nighaṇṭu/Phiṭ rule; reduced by the *ekādeśa* rule P. 8-2-5 so that the *ekādeśa* is *svarita*], *cakṣuḥ* [neuter noun, Phiṭ 1-[?] *nabviṣayasyāniṣantasya*, first syllable acute], *ātatam* [*ā* + *tan* + *kta*, *iṭ* not added; loss of *n*, P. 6-4-37; the 'ā-' as a *gati*, P. 1-4-60; accent P. 6-2-49]; the long 'dha' discussion of the *kta*/*ktavatu* and *an*-roots is not reproduced; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **सूरयः (sūrayaḥ)** — the wise | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **तत् (tat)** — that | **परमम् (paramam)** — highest | **पदम् (padam)** — place [svarga?] | **दिवि (divi)** — in the sky | **आततम् (ātatam)** — widely extended | **चक्षुः इव (cakṣur iva)** — like the eye | **सदा (sadā)** — at all times | **पश्यन्ति (paśyanti)** — see.
+
+**॥ Bhāvārthaḥ ॥** Just as the eye fixed on the very wide sky sees everything, so learned men always see that place of Viṣṇu which is called his highest abode (svarga or Vaikuṇṭha [?]).
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> The wise always contemplate that supreme place of Vishnu as the eye fixed in broad heaven.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 136)* **परमं पदम्** — the highest place. The commentator explains it as *svarga*. Skandasvāmin, taking *viṣṇu* as the Āditya, explains *viṣṇoḥ paramaṃ padam* as the shining disc of the sun. Some, following the Purāṇas, understand *Viṣṇu's highest abode* as *Vaikuṇṭha-loka*; but that Purāṇic sense does not fit here. The author of the *Vedārthayatna* takes *padam* in the sense *trīṇi padā* ['three steps'], as said earlier. The words *paramaṃ padam* occur again in the next rik. **दिवीव चक्षुराततम्** — the eye fixed in the sky can see up to a very great distance; that is, as one whose eye ranges over very distant things, so the learned have the power to see — to know — Viṣṇu's best abode.
+
+---
+
+### Pages 138–140 — Sūkta 22, Rik 21
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> तद्विप्रासो विपन्यवो जागृवांसः समिन्धते ।
+> विष्णोर्यत्परमं पदम् ॥ २१ ॥
+
+*tad viprāso vipanyavo jāgṛvāṃsaḥ samindhate | viṣṇor yat paramaṃ padam || 21 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> तत् । विप्रासः । विपन्यवः । जागृऽवांसः । सम् । इन्धते ॥ विष्णोः । यत् । परमम् । पदम् ॥ २१ ॥
+
+*tat | viprāsaḥ | vipanyavaḥ | jāgṛ-vāṃsaḥ | sam | indhate || viṣṇoḥ | yat | paramam | padam || 21 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+> पूर्वोक्तं विष्णोर्यत्परमं पदमस्ति तत्पदं विप्रासो मेधाविनः समिन्धते । सम्यग्दीपयन्ति । कीदृशाः । विपन्यवो विशेषेण स्तोतारो जागृवांसः शब्दार्थयोः प्रमादराहित्येन जागरूकाः ॥ विप्रासः । आज्जसेरसुक् । विपन्यवः । स्तुत्यर्थस्य पनेर्बाहुलकादुणादिको युप्रत्ययः । तत्र प्रत्ययस्वरः । जागृवांसः । जागृ निद्राक्षये । लिटः क्वसुः । क्रादिनियमात्प्राप्तस्येटो वस्वेकाजाद्धसामिति नियमान्निवृत्तिः ॥
+
+*pūrvoktaṃ viṣṇor yat paramaṃ padam asti tat padaṃ viprāso medhāvinaḥ samindhate | samyag dīpayanti | kīdṛśāḥ | vipanyavo viśeṣeṇa stotāro jāgṛvāṃsaḥ śabdārthayoḥ pramādarāhityena jāgarūkāḥ || viprāsaḥ | ājjaser asuk | vipanyavaḥ | stutyarthasya paner bāhulakād uṇādiko yupratyayaḥ | tatra pratyayasvaraḥ | jāgṛvāṃsaḥ | jāgṛ nidrākṣaye | liṭaḥ kvasuḥ | krādiniyamāt prāptasyeṭo vasv ekājāddhasām iti niyamān nivṛttiḥ ||*
+
+**Translation:** "That highest place of Viṣṇu, spoken of before — the *viprāsaḥ*, the wise, kindle it — they illumine it fully. What sort of men? *Vipanyavaḥ*: pre-eminent praisers; *jāgṛvāṃsaḥ*: awake, vigilant, being free of carelessness as regards words and meanings. *Viprāsaḥ*: *asuk* augment after *jas* by P. 7-1-50 [*ājjaser asuk*]. *Vipanyavaḥ*: from *pan* in the sense of praise, the Uṇādi suffix *yu* by the *bāhulaka* rule; the accent is that of the suffix. *Jāgṛvāṃsaḥ*: *jāgṛ* 'to cease sleeping'; *kvasu* for the perfect; the *iṭ* that would be got through the rule on *kṛ*-etc. is kept off by the restriction *vasv ekājāddhasām*." *(Grammar pages 139–140, noted briefly: the words treated are* viprāsaḥ *[nom. pl. of* vipra*, with* asuk *by P. 7-1-50, being* kit *it goes to the final of the stem by P. 1-1-46; then P. 6-1-102],* vipanyavaḥ *[*paṇa vyavahāre stutau ca*, the form* pan *meaning 'to praise'; the Uṇādi suffix* yu *by P. 3-3-1 *uṇādayo bahulam*; the* yu *→ *ana* is avoided because of the bāhulaka rule;* u *as the last letter; accent of the suffix],* jāgṛvāṃsaḥ *[*jāgṛ nidrākṣaye* + *liṭ* → *kvasu* by P. 3-2-107 *kvasuś ca*; the doubling that P. 6-1-8 would give is not applicable in the Vedic usage; the *iṭ* — the whole long discussion of *neḍ vaśi kṛti* P. 7-2-8, *kṛsṛbhṛvṛstudrusrusruvo liṭi* P. 7-2-13 and the restriction *vasvekājāddhasām* P. 7-2-67 is scholastic and is not reproduced; the *num* augment by P. 7-1-70; the lengthening by P. 6-4-10; the *anusvāra* by P. 8-3-24 — resulting in* jāgṛvāṃsaḥ]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** **विपन्यवः (vipanyavaḥ)** — those who praise | **विप्रासः (viprāsaḥ)** — the wise | **विष्णोः (viṣṇoḥ)** — of Viṣṇu | **यत् (yat)** — which, as said before | **परमं पदम् (paramaṃ padam)** — the highest place | **तत् (tat)** — that | **जागृवांसः (jāgṛvāṃsaḥ)** — wakeful [with great vigilance] | **सम् इन्धते (sam indhate)** — kindle [i.e. praise] by hymns.
+
+**॥ Bhāvārthaḥ ॥** The wise and discerning praise abundantly by hymns that highest place of Viṣṇu which was spoken of before.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> The wise, vigilant and full of praises, glorify the supreme place of Vishnu.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 139)* **विप्रासः** — *medhāvinaḥ*: the wise, discerning, learned, and the like. **विपन्यवः** — *stutikāmāḥ*: those who long to praise, who seek hymns, who praise. **जागृवांसः** — *jāgṛ nidrākṣaye*: those who keep awake, who are vigilant. **सम् इन्धते** — they kindle, they increase brilliance, i.e. they praise by hymns and the like.
+
+**॥ Colophon of the Sūkta ॥** *(p. 140, a printed ornamental rule closes the Sūkta; no colophon text with a varga number is printed after Sūkta 22.)*
+
+---
+
+**Progress note — printed page 140 reached; Sūkta 22 complete (all 21 Riks).**
+
+**This batch:** Riks 18–21 of Sūkta 22 (printed pp. 128–140). Sūkta 22 is now finished; grammar pages are given as short notes throughout.
+
+**Next task:** begin Sūkta 23 ("tīvrāḥ somāsa ā gahi", 24 Riks, to Vāyu, Indra-Vāyu, Mitra-Varuṇa, Indra and the Maruts, Pūṣan, the Waters and Agni; Rishi Medhātithi Kāṇva; heading page at printed p. 141, PDF page 156; Sūkta 23 runs to printed p. 233; Sūkta 24 begins at p. 234).
+
+**Open flags:** as in the earlier notes — Ṛgveda/Āśvalāyana/Nirukta numerals marked [?] where uncertain; Sūkta 22 heading varga numerals unclear; grammar given in outline; Vol 3 preface/abbreviations/portraits not translated; Rik 17 ātithya Taittirīya passage only partly legible.
