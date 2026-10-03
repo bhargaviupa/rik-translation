@@ -11,9 +11,9 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: Sūkta 20 complete; **Sūkta 21 ("ihendrāgnī upa hvaye", to Indra and Agni; six Riks) in progress — through printed page 53 (upper half), Riks 1–3 done.**
-**Next task: continue Sūkta 21 at Rik 4 ("ugrā santā havāmaha"), Saṃhitā in the lower half of printed p. 53 (PDF page 68).** Sūktas and their first
-pages: 22 p.63; 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+Volume 3 translation is under way: Sūktas 20 and 21 complete; **Sūkta 22 ("prātaryujā vibodhaya", twenty-one Riks, to the Aśvins and others) opened — its application note is done (through printed page 63).**
+**Next task: Sūkta 22 heading block and Rik 1, printed p. 64 (PDF page 79).** Sūkta 22 is about 78 pages (pp. 62–140), so it will take several sessions. Remaining sūktas and their first
+pages: 23 p.141; 24 p.234; 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 **PDF-to-printed-page offset (Volume 3): printed page = PDF page − 15.** (Same as Volume 2.) The first printed page is PDF page 16, the heading

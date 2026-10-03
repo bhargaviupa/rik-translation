@@ -752,18 +752,191 @@ We invoke the soma-drinking Indra and Agni to drink soma. May they, having drunk
 
 In this rik the word *tā* occurs twice; and in *somapā somapītaye* too the matter of soma-drinking is repeated. Such usages are seen in places in the Ṛgveda. Perhaps they are used for the sake of the metre, or perhaps such repeated expressions were current, following the usage of the speech of the community of that time.
 
+### Pages 53–55 — Sūkta 21, Rik 4
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> उग्रा सन्ता हवामह उपेदं सवनं सुतम् ।
+> इन्द्राग्नी एह गच्छताम् ॥४॥
+>
+> *ugrā santā havāmaha upedaṃ savanaṃ sutam |*
+> *indrāgnī eha gacchatām ||4||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> उग्रा । सन्ता । हवामहे । उप । इदम् । सवनम् । सुतम् ॥
+> इन्द्राग्नी इति । आ । इह । गच्छताम् ॥४॥
+>
+> *ugrā | santā | havāmahe | upa | idam | savanam | sutam ||*
+> *indrāgnī iti | ā | iha | gacchatām ||4||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 53; compressed; [?] marks doubtful readings)*
+
+> सुतमभिषवोपेतमिदमनुष्ठीयमानं सवनं प्रातःसवनादिरूपं कर्मोपसामीप्येन प्राप्तुमुग्रा सन्ता वैरिवधादिषु क्रूरौ सन्तौ देवौ हवामहे । आह्वयामः । इन्द्राग्नी देवाविह कर्मण्या गच्छताम् ॥ सन्ता । अस्तेः शतरि श्नसोरल्लोपः । सवनं सुतमिति द्वयं सेमं नः स्तोममा गहि । ऋग्वेदे [१-१६-५] । इत्यत्रोक्तम् ॥
+>
+> *sutam abhiṣavopetam idam anuṣṭhīyamānaṃ savanaṃ prātaḥsavanādi-rūpaṃ karmopa-sāmīpyena prāptum ugrā santā vairi-vadhādiṣu krūrau santau devau havāmahe | āhvayāmaḥ | indrāgnī devāv iha karmaṇy ā gacchatām || santā | aster śatari śnasor allopaḥ | savanaṃ sutam iti dvayaṃ semaṃ naḥ stomam ā gahi | ṛgvede [1-16-5] | ity atroktam ||*
+
+**Translation:** "To approach this rite — the *savana*, which is being performed, in the form of the morning pressing and the rest, accompanied by the pressed soma (*sutam*) — we invoke the two gods, *ugrā santā*, who, being [such], are fierce against the slaying of enemies and the like. May the gods Indra and Agni come here (*eha gacchatām*) to this rite." The grammar, noted briefly: *santā* (*as* 'to be' with *śatṛ*; the *a* of *as* dropped by P. 6-4-111 *śnasor allopaḥ*); *savanaṃ sutam* — these two words are explained at the rik *semaṃ naḥ stomam ā gahi* (Ṛg-veda 1-16-5, i.e. Rik 16.5 of Volume 2). *(Grammar, noted briefly; P. 6-4-111 as read.)*
+
+**Grammar pages (pp. 54 lower half–55 upper), noted briefly.** The Kannada treats *santā*: *as bhuvi* with *laṭ*; *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* P. 3-2-124 gives *śatṛ*; *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ* P. 2-4-72; *śatṛ* is *ṅit* by P. 1-2-4 *sārvadhātukam apit* — the Kannada notes that *śatṛ* has the technical *ñit* standing by extension and so the *a* of *as* is dropped by P. 6-4-111 *śnasor allopaḥ* [before a *kit/ṅit* *sārvadhātuka*]; *as* + *at* → *s-at* → *sat*; then *ugidacāṃ sarvanāmasthāne 'dhātoḥ* P. 7-1-70 gives *num* to a stem ending in *ugit*/*ac* [*ugit* = having *u*, *ṛ* or *ḷ* as a marker; here *śatṛ* has *ṛ*]; the Kannada resolves the doubt whether the qualifier *ac* [*ac* = 'a vowel-final'] and the word *ugitaḥ* in the sūtra govern a stem containing *ñ*-marked *at*: the explanation is that the *ugit*-ness belongs to the suffix, which leaves the stem as it was, so the *num* augment comes: *san-t* + *au*; the dual ending replaced by *ā* by P. 7-1-39 *supāṃ sulug…*; *anusvāra* and the *parasavarṇa* give *santā*. *Savanam*, *sutam*: the process is explained in the rik *semaṃ naḥ stomam ā gahy upedaṃ savanaṃ sutam* (Ṛ. Saṃ. 1-16-5). ॥4॥ *(Outline only; numerals as read; pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 54)*
+
+**सुतम् (sutam)** — [with] soma-juice prepared | **इदम् सवनम् (idam savanam)** — the rites, the morning pressing and the like, now being done | **उप (upa)** — to bring near | **उग्रा सन्ता (ugrā santā)** — [the deities] who are fierce [to enemies] | **हवामहे (havāmahe)** — we invoke | **इन्द्राग्नी (indrāgnī)** — O Indra and Agni | **इह (iha)** — here | **आ गच्छताम् (ā gacchatām)** — come.
+
+**॥ Bhāvārthaḥ ॥**
+
+We invoke the Indra and Agni deities, fearsome to enemies, to this place where the morning pressing and the other rites, with their prepared soma-juice, are taking place. O Indra and Agni, come here.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> We invoke the two (Gods) who are fierce (to their enemies) to come to this Sacrifice where the Soma is prepared ; Indra and Agni, come hither.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 54)*
+
+**उग्रा (ugrā)** — *vairivadhādiṣu krūrau*: fierce in the slaying of enemies and the like. The sense is that Indra and Agni are gracious to those who praise them, but fierce towards their enemies.
+
+**उपेदं सवनं सुतम् (upedaṃ savanaṃ sutam)** — "Come near to the soma prepared at the sacrifice that we are now performing, for the sake of drinking it."
+
+### Pages 55–58 — Sūkta 21, Rik 5
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> ता महान्ता सदस्पती इन्द्राग्नी रक्ष उब्जतम् ।
+> अप्रजाः सन्त्वत्रिणः ॥५॥
+>
+> *tā mahāntā sadaspatī indrāgnī rakṣa ubjatam |*
+> *aprajāḥ santv atriṇaḥ ||5||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> ता । महान्ता । सदस्पती इति । इन्द्राग्नी इति । रक्षः । उब्जतम् ॥
+> अप्रजाः । सन्तु । अत्रिणः ॥५॥
+>
+> *tā | mahāntā | sadaspatī iti | indrāgnī iti | rakṣaḥ | ubjatam ||*
+> *aprajāḥ | santu | atriṇaḥ ||5||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 55; compressed; [?] marks doubtful readings)*
+
+> तौ पूर्वोक्तावेन्द्राग्नी रक्षो राक्षससजातिमुब्जतम् । ऋजुकुरुतम् । क्रौर्यं परित्याजयतमित्यर्थः । कीदृशौ । महान्ता महान्तौ गुणैरधिकौ सदस्पती सभापालकौ । तयोः प्रसादादत्रिणो भक्षका राक्षसा अप्रजा आनुत्पन्नाः सन्तु ॥ महान्ता । सान्ते महतः संयोगस्य । पा. [६-४-१०] । इति दीर्घः । सदस्पती । सदसस्पती इति समासे षष्ठ्या लुकि प्रातिपदिकसकारस्य रुत्वाभावश्छान्दसः । उभे वनस्पत्यादिषु युगपदित्युभयपदप्रकृतिस्वरत्वम् । इन्द्राग्नी । आमन्त्रिताद्युदात्तत्वम् । अप्रजाः । प्रजायन्त इति प्रजाः । अन्येष्वपि दृश्यते । पा. [३-२-१०१] । इति जनेर्डप्रत्ययः । न प्रजाः अप्रजाः । प्रजाशब्दो बहुव्रीहौ हि नित्यमसिच् प्रजामेधयोः । पा. [५-४-१२२] । इत्यसिजादेशः स्यात् । अव्ययपूर्वपदप्रकृतिस्वरः । अत्रिणः । अदेस्त्रिनिति [?] । चिते इति ऋकार उदात्तः । तस्य यणादेश उदात्तयणो हल्पूर्वादिति ईकार उदात्तः ॥
+>
+> *tau pūrvoktāv aindrāgnī rakṣo rākṣasa-sajātim ubjatam | ṛju kurutam | krauryaṃ parityājayatam ity arthaḥ | kīdṛśau | mahāntā mahāntau guṇair adhikau sadaspatī sabhā-pālakau | tayoḥ prasādād atriṇo bhakṣakā rākṣasā aprajā anutpannāḥ santu || mahāntā | sānte mahataḥ saṃyogasya | pā. [6-4-10] | iti dīrghaḥ | sadaspatī | sadasaspatī iti samāse ṣaṣṭhyā luki prātipadika-sakārasya rutvābhāvaś chāndasaḥ | ubhe vanaspatyādiṣu yugapad ity ubhaya-pada-prakṛti-svaratvam | indrāgnī | āmantritādyudāttatvam | aprajāḥ | prajāyanta iti prajāḥ | anyeṣv api dṛśyate | pā. [3-2-101] | iti janer ḍa-pratyayaḥ | na prajāḥ aprajāḥ | prajā-śabdo bahuvrīhau hi nityam asic prajāmedhayoḥ | pā. [5-4-122] | ity asijādeśaḥ syāt | avyaya-pūrvapada-prakṛti-svaraḥ | atriṇaḥ | ader trin iti [?] | cite iti ṛkāra udāttaḥ | tasya yaṇādeśa udāttayaṇo hal-pūrvād iti īkāra udāttaḥ ||*
+
+**Translation:** "Those two, Indra and Agni, spoken of before: *ubjatam* — straighten, [make] the *rakṣas* — the kind of Rākṣasas — straight; that is, make them abandon their cruelty. Of what sort are [you two]? *Mahāntā* — great, surpassing in qualities; *sadaspatī* — protectors of the assembly. By their favour, may the *atriṇaḥ* — the devourers, Rākṣasas who eat [men] — be *aprajāḥ*, without offspring." The grammar, noted briefly: *mahāntā* (the lengthening by P. 6-4-10 *sānta-mahataḥ saṃyogasya*); *sadaspatī* (a compound with the genitive retained; the *s* is not turned into *ru* — a Vedic usage; both members keep their accents as in the *vanaspatyādi* class); *indrāgnī* (the vocative accent); *aprajāḥ* (*prajā* — 'those who are born' — *ḍa* after *jan* by P. 3-2-101 *anyeṣv api dṛśyate*; the negative compound; the bahuvrīhi substitute *asic* for words ending in *prajā*, *medhā* by P. 5-4-122; the accent of the first member, a particle); *atriṇaḥ* (the Uṇādi suffix after *ad* 'to eat' [read as *ader trin*], the *ṛ* accented; its *yaṇ* substitute then the *ī* accented by P. 6-1-171 *udāttayaṇo hal-pūrvāt*). *(Grammar, noted briefly; P. 6-4-10 and P. 5-4-122 as read; the Uṇādi note on* atriṇaḥ *is partly unclear [?].)*
+
+**Grammar pages (pp. 57–58), noted briefly.** The Kannada treats: *mahāntā* (*mahat* + *au*; the *śatṛ*-like Uṇādi *at*, read *vartamāne pṛṣad-bṛhan-mahaj-jagac-chatṛvac ca* Uṇ. 2-[?] — 'the words *pṛṣat*, *bṛhat*, *mahat*, *jagat* and *śatṛ* are formed with *ati* and behave like *śatṛ*', so the *num* augment [P. 7-1-70 *ugidacāṃ…*] applies: *mahant* + *au*; *supāṃ sulug…* P. 7-1-39 gives *ā*; *sānta-mahataḥ saṃyogasya* P. 6-4-10 lengthens the vowel before the conjunct *nt* of the word *mahat* when a non-vocative *sarvanāmasthāna* suffix follows: *mahāntā*), *sadaspatī* (a genitive tatpuruṣa *sadasaḥ patī*; *kṛttaddhitasamāsāś ca* P. 1-2-46 gives the name *prātipadika*; *supo dhātuprātipadikayoḥ* P. 2-4-71 drops the case-ending; *suptiṅantaṃ padam* P. 1-4-14 gives the stem the name *pada*; *sasajuṣo ruḥ* P. 8-2-66 would turn *s* into *ru*, but in the Veda it does not here; *sadas* is first-syllable accented by the suffix's *n*; *pati* is first-syllable accented as formed with the Uṇādi *ḍati* [Uṇ. 4-62 *pāter ḍatiḥ*]; both members keep their accents by P. 6-2-140 *ubhe vanaspatyādiṣu yugapat*, since the word belongs to the *vanaspatyādi* class — of which the list is: 1 *vanaspati*, 2 *bṛhaspati*, 3 *śacīpati*, 4 *tanūnapāt*, 5 *narāśaṃsa*, 6 *śunaḥśepha*, 7 *śaṇḍāmarkau*, 8 *tṛṣṇāvaruṭhī*, 9 *lambāviśvavayasau*, 10 *marmṛtyuḥ* — only ten words are read; the list is not an *ākṛtigaṇa*, and so the Kannada says one must consider how *sadaspati* gets its double accent), *indrāgnī* (*āmantritasya ca* P. 6-1-198 gives the first-syllable accent; the *tau* = 'those two spoken of before'; the construction is *he indrāgnī yuvāṃ rakṣa ubjatam*), *aprajāḥ* (*prajāyante iti prajāḥ* — *anyeṣv api dṛśyate* P. 3-2-101 and *saptamyāṃ janer ḍaḥ* P. 3-2-97 give *ḍa* after *jan* when the upapada is in the locative, fifth case or an *upasarga*, and *anyeṣv api* extends it to other upapadas; the Kannada also notes the alternative *upasarge ca saṃjñāyām* P. 3-2-99, which would give *ḍa* where *pra* is an upapada in a name — here *aprajāḥ* is explained as 'having no offspring', so no name is intended; *na prajāḥ* a negative tatpuruṣa, *nalopo nañaḥ* P. 6-3-73 drops the *n*; as a bahuvrīhi *avidyamānāḥ prajāḥ yeṣāṃ te*, the *asic* of P. 5-4-122 *nityam asic prajāmedhayoḥ* is added after *nañ-dus-su* + *prajā*/*medhā*, then *nañ-duḥsubhyo halisakthyor anyatarasyām* P. 5-4-121 … *bahuvrīher sakthy-akṣṇoḥ svāṅgāt ṣac* P. 5-4-113 (the Kannada's quotations here are crowded); so *aprajasa* + *jas*, *yasyeti ca* P. 6-4-148 drops the *a*, *aprajāḥ* [*aprajasaḥ*]; the Kannada concludes that since *aprajāḥ* here is plural nominative of the bahuvrīhi — and the *asic* is not needed to derive it — the *tatpuruṣa* is to be taken; and *tatpuruṣe tulyārthatṛtīyā…* P. 6-2-2 gives the first member [the particle] its first-syllable accent), and *atriṇaḥ* (*ada bhakṣaṇe*, *nvul-tṛc* P. 3-1-133 [as the Kannada says: *ṇvultṛcau*]; *ad* + *tṛc*, and with *jas*, the Vedic *inuṭ* augment; the *ṛ* is accented by *cit* P. 6-1-163 [end-accent]; the *yaṇ* substitute *r* for the *ṛ* by P. 6-1-77 *iko yaṇaci*, and by *udāttayaṇo hal-pūrvāt* P. 6-1-171 the following ending *ina* is accented because the *yaṇ* is preceded by a consonant and replaces an accented vowel, so *atriṇaḥ* gets the *ī* accented; and in the Saṃhitā the *svarita* of P. 8-4-66 does not arise, as this rule, an exception, gives accent instead). ॥5॥ *(A crowded run; outline only; numerals as read; pointers only; the Kannada's reading of P. 5-4-121/113 is in doubt [?].)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 56)*
+
+**ता (tā)** — those spoken of before | **महान्ता (mahāntā)** — noble ones | **सदस्पती (sadaspatī)** — protectors of the assembly | **इन्द्राग्नी (indrāgnī)** — O Indra and Agni | **रक्षः (rakṣaḥ)** — the race of Rākṣasas | **उब्जतम् (ubjatam)** — make them give up their cruelty (make them straight) | **अत्रिणः (atriṇaḥ)** — (men-)eating | **ते रक्षांसि (te rakṣāṃsi)** — those Rākṣasas | **अप्रजाः (aprajāḥ)** — without offspring (without descendants) | **सन्तु (santu)** — let them be.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Indra and Agni, who are great and protectors of the assembly: make the Rākṣasas give up their cruelty and walk the straight path. And by the grace of Indra and Agni, may the man-eating Rākṣasas be without offspring.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Indra and Agni, great protectors of Sacrificial house, supress [sic] the Rakshas (demons) and may the devourers of men (demons) be destitute of progeny.
+
+*(The print has "supress" for "suppress" — [sic].)*
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 56–57)*
+
+**महान्ता (mahāntā)** — of great glory, great, mighty, etc. [the print adds the English "great, mighty &c."].
+
+**सदस्पती (sadaspatī)** — *sadaḥ prasiddhaṃ yajñagṛhaṃ tasya svāmināv indrāgnī | sabhāpālakau vā*: [the word *sadas* is] the well-known sacrificial hall, and Indra and Agni are the lords of it; or *sabhāpālakau* — protectors of the assembly. In explaining the word, the commentator says *sadaḥ* means *sadas*, the assembly, so *sadaspatī* means *sabhāpālakau* — protectors of the assembly. Skandasvāmin says *sadaḥ* is the sacrificial hall, and *sadaspatī* means that the sacrificial hall which we are now using must be protected from Rākṣasas and the like. Skandasvāmin's explanation is the more commendable.
+
+**रक्षः (rakṣaḥ)** — Rākṣasas, those of cruel nature, "evil spirits" etc. Yāska explains: *rakṣāṃsi krūrakarmiṇaḥ* — "Rākṣasas are those who do cruel deeds" (Ni. [10-?]; numerals read as "೧೦-೧೫" and marked [?]).
+
+**उब्जतम् (ubjatam)** — *krauryaṃ parityājayatam*: make them give up their cruel nature. Skandasvāmin explains this word as *ubja-tiraskāra-sāmarthyāt vadhārtho nṛgrāhārtho vā rakṣāṃsi hataṃ nṛgrabhūtāni vāsmākaṃ kurutam* ["from the sense of *ubj* — to put down, to bend — it has the sense of killing or of seizing men; 'kill the Rākṣasas, or make them captive to us']" — "destroy or put down the Rākṣasas through your power, that is, make them run away". [Skandasvāmin's Sanskrit here is read from small print and is partly garbled; I give only the sense as the Kannada states it.]
+
+**अप्रजाः (aprajāḥ)** — *prajāyante iti prajāḥ, na prajā aprajāḥ* — "without offspring", i.e. without sons, grandsons and other descendants.
+
+**अत्रिणः (atriṇaḥ)** — *ada bhakṣaṇe*; *bhakṣayitāro hiṃsitāro 'smākam*: those who eat, those who harm us.
+
+### Pages 59–62 — Sūkta 21, Rik 6 (last rik of the sūkta)
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> तेन सत्येन जागृतमधि प्रचेतुने पदे ।
+> इन्द्राग्नी शर्म यच्छतम् ॥६॥
+>
+> *tena satyena jāgṛtam adhi pracetune pade |*
+> *indrāgnī śarma yacchatam ||6||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> तेन । सत्येन । जागृतम् । अधि । प्रऽचेतुने । पदे ॥
+> इन्द्राग्नी इति । शर्म । यच्छतम् ॥६॥
+>
+> *tena | satyena | jāgṛtam | adhi | pra-cetune | pade ||*
+> *indrāgnī iti | śarma | yacchatam ||6||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 59; compressed; [?] marks doubtful readings)*
+
+> हे इन्द्राग्नी सत्येनावश्यफलप्रदानादवितथेन तेनास्माभिरनुष्ठितेन कर्मणा प्रचेतुने प्रकर्षेण फलभोगज्ञापके पदे स्वर्गलोकादिस्थानेऽधि जागृतम् । अधिकत्वेन सावधानौ भवतम् । ततोऽस्मभ्यं शर्म यच्छतम् । सुखं गृहं वा । दत्तम् । गयः कृदर इत्यादिषु द्वाविंशतिसंख्याकेषु गृहनामसु शर्म वर्मेत्युक्तम् ॥ जागृतम् । जागृ निद्राक्षये । आदिप्रभृतिभ्यः शपः इति शपो लुक् । तिङ्ङतिङः इति निघातः । प्रचेतुने । चिती संज्ञाने । इत्यस्मात्सामान्यन्ताद्बाहुलकादौणादिक उनप्रत्ययः । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । इन्द्राग्नी । इहेन्द्राग्नी इत्युक्तम् । आमन्त्रितत्वादाद्युदात्तत्वमत्र विशेषः । शृणाति हिनस्ति दुःखमिति शर्म । श्व हिंसायाम् । अन्येभ्योऽपि दृश्यन्त इति मनिन् । यच्छतम् । इषुगमियमां छः इति छः ॥६॥
+>
+> *he indrāgnī satyenāvaśya-phala-pradānād avitathena tenāsmābhir anuṣṭhitena karmaṇā pracetune prakarṣeṇa phala-bhoga-jñāpake pade svarga-lokādi-sthāne 'dhi jāgṛtam | adhikatvena sāvadhānau bhavatam | tato 'smabhyaṃ śarma yacchatam | sukhaṃ gṛhaṃ vā | dattam | gayaḥ kṛdara ity-ādiṣu dvāviṃśati-saṅkhyākeṣu gṛha-nāmasu śarma varmety uktam || jāgṛtam | jāgṛ nidrā-kṣaye | ādiprabhṛtibhyaḥ śapaḥ iti śapo luk | tiṅ ataṅ iti nighātaḥ | pracetune | citī saṃjñāne | ity asmāt sāmānyāntād bāhulakād auṇādika unaprat-yayaḥ | samāse kṛd-uttarapada-prakṛti-svaratvam | indrāgnī | ihendrāgnī ity uktam | āmantritatvād ādyudāttatvam atra viśeṣaḥ | śṛṇāti hinasti duḥkham iti śarma | śva hiṃsāyām | anyebhyo 'pi dṛśyanta iti manin | yacchatam | iṣugamiyamāṃ chaḥ iti chaḥ ||6||*
+
+**Translation:** "O Indra and Agni! By that *satya* — unfailing, because it surely yields fruit — rite performed by us, be watchful (*jāgṛtam*) in the *pada* — the place — *pracetune*, which makes [us] strongly aware of the enjoyment of fruit: the heaven-world and the like. Be attentive, as superiors, and then grant (*yacchatam*) us *śarma* — happiness, or a house. Among the twenty-two words for 'house' beginning with *gaya*, *kṛdara*, the word *śarma* is read [as in *śarma varma*] (Nighaṇṭu 3-4 [?])." The grammar, noted briefly: *jāgṛtam* (*jāgṛ* 'to be awake'; *śap* dropped; the verb unaccented); *pracetune* (*cit* 'to know', the Uṇādi *unan* by *bāhulaka*; the compound accent that of the final member); *indrāgnī* (as in Rik 1, vocative first-syllable accent); *śarma* (*śṛ* 'to hurt': 'it destroys sorrow'; *manin* 'also seen with other roots'); *yacchatam* (*ch* for *y* by P. 7-3-77 *iṣugamiyamāṃ chaḥ* — *yam* → *yaccha*). *(Grammar, noted briefly; the Nighaṇṭu reference is as read [?].)*
+
+**Grammar pages (pp. 60 lower half–62 upper), noted briefly.** The Kannada treats: *jāgṛtam* (*jāgṛ nidrākṣaye*; *loṭ* second dual *thas*; *loṭo laṅvat* P. 3-4-85; *tasthasthamipāṃ tāṃtaṃtāmaḥ* P. 3-4-101 gives *tam*; *śap* dropped by *adiprabhṛtibhyaḥ śapaḥ* P. 2-4-72; *tam* is *ñit* by *sārvadhātukam apit* P. 1-2-4, hence no guṇa by *kṅiti ca* P. 1-1-5; *tiṅ atiṅaḥ* P. 8-1-28 gives wholly unaccented), *pracetune* (*citī saṃjñāne*; *ṇic* by P. 3-1-26, the penultimate light vowel taking guṇa by *pugantalaghūpadhasya ca* P. 7-3-86, giving *ceti*; then the Uṇādi *una* by *uṇādayo bahulam* P. 3-3-1 — the Kannada notes the Uṇādi suffix *una* is added by the *bahulam* of that sūtra; *ṇeraniṭi* P. 6-4-51 drops the *ṇic*; the locative of a compound with *pra*; the accent of the final member by P. 6-2-139; *cetuna* is middle-accented by the suffix's *n*, as the Kannada notes), *indrāgnī* (the process is explained in the first mantra of this sūkta [*ihendrāgnī*]; here, as a vocative, first-syllable accent by P. 6-1-198; this is the one difference from before), *śarma* (*śṛṇāti hinasti duḥkham*; *śṝ hiṃsāyām* with *manin*, by P. 3-2-75 *anyebhyo 'pi dṛśyante*: *śṛ* + *ma*; *sārvadhātukārdhadhātukayoḥ* P. 7-3-84 guṇa, *raparatva*: *śarma*), and *yacchatam* (*yamu uparame*, of the *bhvādi* class; *loṭ* second dual *thas*, *tam*; *kartari śap* P. 3-1-68; *yam* + *a* + *tam*; *iṣugamiyamāṃ chaḥ* P. 7-3-77 gives *ch* in place of the final *m*… [the Kannada: *iṣ* 'to wish', *gam* 'to go', *yam* 'to restrain' take *cha* when a suffix beginning with a *śit* [here *śap*] letter follows]; *chekā*: the augment *tuk* by *chē ca* P. 6-1-73 for a short vowel before *ch*, then *stoḥ ścunā ścuḥ* P. 8-4-40 gives *c* for *t*: *yacchatam*; the Kannada adds a long note that *iṣ* has three verbs — *iṣu icchāyām* [tudādi], *iṣu gatau* [divādi] and *iṣ ābhīkṣṇye* [kryādi] — and the Vedabhāṣya reading *iṣu* with an *u*-marker for *tudādi*, with the rule's *śit*-ness restricted to *ajādi* *śit* suffixes; the *ach* [as *ac* in P. 3-1-… *ācirvatā* … ] discussion; so *yaccha* is established also with the *tudādi* *iṣ*; and then the remark that the root *yam uparame* giving *yacchatam* does not fit the commentator's sense *dattam* ('give'); the Kannada proposes that the form comes rather from the root *dāṇ dāne* 'to give', with *thas* → *tam* and, by P. 7-3-78 *pāghrādhmā…*, *yaccha* for *dā* as one of the list *pibajighradhamatiṣṭhamanayacchapaśyarcchaśrṇuśīyasīdāḥ* — 'the sixth substitute *yaccha* for *dāṇ*' — which agrees with the sense in the bhāṣya). ॥6॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 59)*
+
+**(हे) इन्द्राग्नी ((he) indrāgnī)** — O Indra and Agni | **सत्येन (satyena)** — not futile, [yielding sure fruit] | **तेन (tena)** — by that [rite] done by us | **प्रचेतुने (pracetune)** — [the place] that makes known [the fruit of the rite, i.e. the enjoyment] | **पदे (pade)** — in the place [heaven and the like] | **अधि जागृतम् (adhi jāgṛtam)** — be specially awake | **शर्म (śarma)** — happiness, or a place that gives happiness | **यच्छतम् (yacchatam)** — give [to us].
+
+**॥ Bhāvārthaḥ ॥** *(p. 60)*
+
+O Indra and Agni! There is no doubt that the rites we perform will yield fruit. Heaven and the other abodes of yours are the proof of it. Staying watchful in those places, make us happy.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Indra and Agni, by this unfailing Sacrifice be vigilant in the place which affords knowledge and bestow upon us happiness.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 60)*
+
+The sense of this rik is somewhat obscure. The meanings of the words *tena satyena jāgṛte* and *pracetune pade* are not plain. Although the commentator gives one explanation of them, the ṛṣi's intention is not clear. The chief sense may be: "Being pleased with the hymns we recite and with the sacrifices we perform, be watchful on our behalf and bestow happiness upon us."
+
+**प्रचेतुने पदे (pracetune pade)** — *prajñāpake sthale*; *phalabhogajñāpake pade*: a place which gives knowledge [of the enjoyment of fruit].
+
+**शर्म (śarma)** — *sukhaṃ gṛhaṃ vā*: happiness, or a house. Since *śarma* is read among the twenty-two names for 'house' beginning with *gaya*, *kṛdara*, the word *śarma* also means "house, dwelling" (Ni. 3-[?]; numerals read as "೩-೧೩" and marked [?]).
+
+**Close of Sūkta 21.** The grammar of Rik 6 ends at the head of p. 62, followed by an ornament; no large colophon is printed.
+
 ---
 
-**Progress note — printed page 53 (upper half) reached; Sūkta 21 in progress (Riks 1–3 done).**
+## ॥ ಇಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 22 — *"prātaryujā vibodhaya"* ("The Twenty-second Sūkta"; fifth sūkta of the Fifth Anuvāka)
 
-**This batch:** Sūkta 21 (*ihendrāgnī upa hvaye*, six riks, to Indra and Agni; Medhātithi Kāṇva; Gāyatrī): application note (p. 43), heading and Riks 1–3 (printed pp. 43–53).
+*(Printed pp. 62 lower half–140; the sūkta is long because of its extended discussions. The heading and Sāyaṇa's application note begin on the lower half of p. 62 and continue to p. 63.)*
 
-**Next task:** continue Sūkta 21 at Rik 4 (*ugrā santā havāmaha upedaṃ savanaṃ sutam*; Saṃhitā in the lower half of printed p. 53, PDF page 68); Riks 5 and 6 follow; Sūkta 21 runs to printed p. 62, and Sūkta 22 begins at p. 63.
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed pp. 62–63)**
+
+> प्रातर्युजेत्यादिकमेकविंशत्यृचं पञ्चमं सूक्तम् । तस्य ऋषिच्छन्दसी पूर्ववत् । देवताविशेषस्त्वनुक्रम्यते । प्रातर्युजा सैका चतस्र आश्विन्यस्तथा सावित्र्य आग्नेय्यौ द्वे देवीनामेकैकेन्द्राणीवरुणान्यग्नायीनां द्यावापृथिव्यौ पार्थिवी षड्वैष्णव्योऽतो देवा दैवी वेति । सूक्तसंख्यानुवर्तत इत्यस्मिंश्छन्देऽनिरुक्ता संख्या विंशतिः । अनु. [१२-४] । इति परिभाषितत्वात्प्रातर्युजेति सूक्ते संख्याविशेषस्यानिरुक्ता संख्या विंशतिसंख्या द्रष्टव्या । सा च विंशतिरेकयाधिकया सह वर्तते इति सैका । तत्रादौ चतस्र ऋचोऽश्विदेवताकाः । पञ्चमीमारभ्याष्टम्यन्ताश्चतस्रः सवितृदेवताकाः । नवमी दशमी चोभे अग्निदेवताके । एकादश्या ऋचो देवसम्बन्धिन्यो देव्यो देवताः । द्वादश्या इन्द्रवरुणाग्निपत्न्य इन्द्राणीवरुणान्यग्नायिनां देवताः । त्रयोदशीचतुर्दश्यौ द्यावापृथिवीदेवताके । पञ्चदशी पार्थिवी । षोडश्याद्याः षड्विष्णुदेवत्याः । षोडशी कृष्णदेवत्या वा ॥ अत्र सूक्तविनियोगो लैङ्गिकः । प्रातरनुवाक आश्विने क्रतौ प्रातर्युजा विबोधयेति चतस्र ऋचः । सूत्रितं च । अथाश्विने एषो उषाः प्रातर्युजेति चतस्रः । आ. [४-१३] । इति ॥ अश्विनग्रहस्य प्रातर्युजेत्येका पुरोनुवाक्या द्विदेवत्यैश्चरन्तीति खण्डे सूत्रितम् । आश्विनस्य प्रातर्युजा वि बोधय । आ. [५-५] । इति ॥
+>
+> *prātaryujety-ādikam ekaviṃśaty-ṛcaṃ pañcamaṃ sūktam | tasya ṛṣi-chandasī pūrvavat | devatā-viśeṣas tv anukramyate | prātaryujā saikā catasra āśvinyas tathā sāvitrya āgneyyau dve devīnām ekaikendrāṇī-varuṇāny-agnāyīnāṃ dyāvāpṛthivyau pārthivī ṣaḍ-vaiṣṇavyo 'to devā daivī veti | sūkta-saṅkhyānuvartata ity asmiñ chande 'niruktā saṅkhyā viṃśatiḥ | anu. [12-4] | iti paribhāṣitatvāt prātaryujeti sūkte saṅkhyā-viśeṣasyāniruktā saṅkhyā viṃśati-saṅkhyā draṣṭavyā | sā ca viṃśatir ekayādhikayā saha vartate iti saikā | tatrādau catasra ṛco 'śvi-devatākāḥ | pañcamīm ārabhyāṣṭamy-antāś catasraḥ savitṛ-devatākāḥ | navamī daśamī cobhe agni-devatāke | ekādaśyā ṛco deva-sambandhinyo devyo devatāḥ | dvādaśyā indra-varuṇāgni-patnya indrāṇī-varuṇānyagnāyinīnāṃ devatāḥ | trayodaśī-caturdaśyau dyāvāpṛthivī-devatāke | pañcadaśī pārthivī | ṣoḍaśy-ādyāḥ ṣaḍ-viṣṇu-devatyāḥ | ṣoḍaśī kṛṣṇa-devatyā vā || atra sūkta-viniyogo laiṅgikaḥ | prātaranuvāka āśvine kratau prātaryujā vibodhayeti catasra ṛcaḥ | sūtritaṃ ca | athāśvine eṣo uṣāḥ prātaryujeti catasraḥ | ā. [4-13] | iti || aśvina-grahasya prātaryujety ekā puronuvākyā dvi-devatyaiś caranti iti khaṇḍe sūtritam | āśvinasya prātaryujā vi bodhaya | ā. [5-5] | iti ||*
+
+**Translation:** "The twenty-one-rik sūkta beginning *prātaryujā* is the fifth [of this anuvāka]. Its ṛṣi and meter are as before [Medhātithi Kāṇva; Gāyatrī]. The particular deities are stated in the Anukramaṇikā: '*prātaryujā saikā*' — [the four riks] to the Aśvins, likewise [the next four] to Savitṛ, two to Agni, one to the 'divine women of the gods', one each to Indrāṇī, Varuṇānī and Agnāyī, to Heaven-and-Earth, to Pārthivī [Earth], and six to Viṣṇu — '*ato devā daivī veti*' [so the verse; the remainder as read]. Because of the rule of the Anukramaṇikā that '*in this meter, the unstated number is twenty*' (Anu. [12-4]), the unstated number of riks in the sūkta *prātaryujā* is to be understood as twenty — twenty together with one more, i.e. twenty-one. Of these, the first four riks have the Aśvins as deities; the four from the fifth to the eighth have Savitṛ; the ninth and tenth both have Agni; the eleventh has the *devīs* connected with the gods; the twelfth, the wives of Indra, Varuṇa and Agni — Indrāṇī, Varuṇānī and Agnāyī; the thirteenth and fourteenth, Heaven-and-Earth; the fifteenth, Pārthivī; the six from the sixteenth, Viṣṇu — or the sixteenth, Kṛṣṇa [the print gives *kṛṣṇa*; I read it so, uncertain [?]]. Application: here the application of the sūkta is *laiṅgika* [from the sense of the riks]. At the *prātaranuvāka* in the Aśvina rite, the four riks beginning *prātaryujā vibodhaya* are used, and it is laid down: '*atha āśvine eṣo uṣāḥ*, *prātaryujeti catasraḥ*' (Āśvalāyana Śrauta-sūtra [4-13]). For the Aśvina *graha*, the one rik *prātaryujā* is the *puronuvākyā*: in the section beginning *dvidevatyaiś caranti*, it is laid down '*āśvinasya prātaryujā vi bodhaya*' (Āś. [5-5])." *(The Anukramaṇikā quotation is compressed and its last clause is read with uncertainty [?]; Āśvalāyana numerals are read from small print and marked [?].)*
+
+**॥ Anuvāda (Kannada rendering) ॥** The sūkta that begins *prātaryujā* is the fifth sūkta in the fifth anuvāka; it has twenty-one riks. The ṛṣi and meters are as in the preceding sūkta. As to the deities, the Anukramaṇikā says, in a sūtra of the section *sūktasaṅkhyānuvartate*, that this has twenty-one [mantras] (Anu. [12-4]). As the Anukramaṇikā states, the sūkta has twenty-one riks, though in another place it is said to have twenty-one [as read]. The first four riks of this sūkta have the Aśvin deity; the riks from the fifth to the eighth have the Savitṛ deity; the ninth and tenth have the Agni deity; the eleventh rik has the deities who are the divine wives of the gods; the twelfth, the wives of Indra, Varuṇa and Agni — the deities Indrāṇī, Varuṇānī and Agnāyī; the thirteenth and fourteenth have Heaven-and-Earth; the fifteenth, Pṛthivī; the six riks from the sixteenth onward are for Viṣṇu — or, as an alternative, the sixteenth has the deity Kṛṣṇa, that is, all the gods [as read]. In all, the application of the sūkta is *laiṅgika*. At the time of reciting the *prātaranuvāka* mantras, in the sacrifice called *āśvina-kratu*, the four riks *prātaryujā vibodhaya* should be recited as the Aśvin-kratu mantras. This is stated in the Āśvalāyana Śrauta-sūtra, in the sūtra *athāśvine eṣo uṣāḥ prātaryujeti catasraḥ* (Āś. [4-13]). And in the homa called *aśvina-graha*, the one rik *prātaryujā* is to be used as the *puronuvākyā* mantra: this is stated in the section *dvidevatyaiś caranti*, in the sūtra *āśvinasya prātaryujā vi bodhaya* (Āś. [5-5]).
+
+---
+
+**Progress note — printed page 63 reached; Sūkta 21 complete; Sūkta 22 opened (application note only).**
+
+**This batch:** Rik 6 of Sūkta 21 (printed pp. 59–62), completing Sūkta 21 (*ihendrāgnī upa hvaye*, six riks, to Indra and Agni; Medhātithi Kāṇva; Gāyatrī); and the opening of Sūkta 22 — the application note and Anuvāda on printed pp. 62–63.
+
+**Next task:** continue Sūkta 22 (*prātaryujā vibodhaya*, to the Aśvins and many other deities; twenty-one riks; the fifth sūkta of the fifth anuvāka) with its heading block and Rik 1 on printed p. 64 (PDF page 79). Sūkta 22 is very long (printed pp. 62–140); Sūkta 23 begins at p. 141. **Because Sūkta 22 is about 78 pages, it should be done in several sessions; the 'one session per sūkta' rule cannot be kept for it.**
 
 **Open flags:**
-- The Āśvalāyana Śrauta-sūtra numerals in the application note ([5-10], [7-3]) are read from small print at 150 dpi and are uncertain [?]; the Anukramaṇikā quotation (*iha ṣaḷ indrāgnam*) is as read.
-- Sūkta 21 heading: varga numeral "3 [?]" (small print).
-- The Rik 1 grammar on *indrāgnī* (the *ānaṅ* / *devatādvandve* discussion, pp. 46–48) and the Rik 3 grammar on *praśastaye* (pp. 51–53) are given in outline; numerals are marked [?] as pointers. The Rik 2 grammar sūtra number (P. 6-3-137) is as read [?].
-- Sūkta 20 flags carried over: the Anukramaṇikā quotation in its application note, my homage-verse English, the tentative gloss of Ṛ. 1-110-4, and grammar given in outline (Riks 3, 6, 7, 8).
+- Sūkta 21: the Āśvalāyana numerals in the application note ([5-10], [7-3]) are uncertain [?]; the heading's varga numeral "3 [?]"; the Rik 1, 3, 5 grammar passages and the Rik 6 grammar on *yacchatam* are given in outline; Skandasvāmin's Sanskrit on *ubjatam* is garbled and given only as sense.
+- Sūkta 22: the Anukramaṇikā quotation and its rik-count statement ('twenty, with one more'), and the reading *kṛṣṇa-devatyā* for the sixteenth rik, are uncertain [?]; the Anuvāda's statement of the count is itself slightly confused in the print and is given as read.
+- Sūkta 20 flags carried over: the Anukramaṇikā quotation in its application note, my homage-verse English, the tentative gloss of Ṛ. 1-110-4, and grammar in outline (Riks 3, 6, 7, 8).
 - Varga numerals and Ṛgveda/Nirukta reference numerals marked [?] where unclear.
 - The preface (PDF pp. 8–10), the abbreviations list (PDF p. 11) and the portrait pages are not translated.
