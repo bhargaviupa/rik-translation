@@ -13,9 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 641**: **Sūkta 15** of Maṇḍala 1 ("indra somaṃ piba", to the Ṛtus; twelve Riks) is in progress — Riks 1–4 done;
-the file is contiguous from p. 1. **Next task: continue Sūkta 15 at Rik 5 ("brāhmaṇād indra rādhasaḥ"), Saṃhitā at the foot of printed p. 641**
-(PDF page 656). The tail of
+Through **printed page 676 (upper half)**, which closes **Sūkta 15** of Maṇḍala 1 ("indra somaṃ piba", to the Ṛtus; twelve Riks); the file is
+contiguous from p. 1. **Next task: begin Sūkta 16 ("ā tvā vahantu harayaḥ", to Indra; nine Riks) at printed page 676, lower half**
+(PDF page 691; the heading and Rik 1 are on p. 677). The tail of
 the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
