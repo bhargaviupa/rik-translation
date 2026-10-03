@@ -580,17 +580,190 @@ states this sense plainly.
 
 **Close of Sūkta 20.** The sūkta ends at the head of p. 43, with the last line of the Rik 8 grammar; no large colophon is printed. The twenty-first sūkta begins on the same page.
 
+## ॥ ಇಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 21 — *"ihendrāgnī upa hvaye"* ("The Twenty-first Sūkta"; to Indra and Agni; fourth sūkta of the Fifth Anuvāka)
+
+*(Printed pp. 43–62. The heading and Sāyaṇa's application note stand on the lower part of p. 43; the sūkta-heading block and Rik 1 follow on p. 44.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed p. 43)**
+
+> इहेन्द्राग्नी इत्यादिकं षडृचं चतुर्थं सूक्तम् । तस्य ऋषिच्छन्दसी पूर्ववत् । देवता त्वनुक्रम्यते । इह षळिन्द्राग्नमिति ॥ विनियोगस्तु । अग्निष्टोमेऽच्छावाकशस्त्र इहेन्द्राग्नी उप ह्वये इति सूक्तम् । स्तोत्रमग्ने शस्त्रादिति खण्ड इहेन्द्राग्नी उपेयं वामस्य मन्मन इति नव । आ. [५-१०] । इति सूत्रितत्वात् ॥ तथाभिप्लववषडहे प्रातःसवनेऽच्छावाकशस्त्रे स्तोमातिशंसनार्थमेतदेव सूक्तम् । तथा च सूत्रितम् । अभिप्लवपृष्ठ्याहानीत्युपक्रम्येहेन्द्राग्नी इन्द्राग्नी आ गतम् । आ. [७-३] । इति ॥
+>
+> *ihendrāgnī ity-ādikaṃ ṣaḍṛcaṃ caturthaṃ sūktam | tasya ṛṣi-chandasī pūrvavat | devatā tv anukramyate | iha ṣaḷ indrāgnam iti || viniyogas tu | agniṣṭome 'cchāvāka-śastra ihendrāgnī upa hvaye iti sūktam | stotram agne śastrād iti khaṇḍa ihendrāgnī upeyaṃ vām asya manmana iti nava | ā. [5-10] | iti sūtritatvāt || tathābhiplava-ṣaḍahe prātaḥsavane 'cchāvāka-śastre stomātiśaṃsanārtham etad eva sūktam | tathā ca sūtritam | abhiplava-pṛṣṭhyāhānīty upakramyehendrāgnī indrāgnī ā gatam | ā. [7-3] | iti ||*
+
+**Translation:** "The six-rik sūkta beginning *ihendrāgnī* is the fourth [of this anuvāka]. Its ṛṣi and meter are as before [Medhātithi Kāṇva; Gāyatrī]. The deity is stated by the Anukramaṇikā: '*iha ṣaḷ indrāgnam*' — the six riks beginning *iha* are to Indra and Agni. Its application: in the Agniṣṭoma, at the *acchāvāka-śastra*, the sūkta *ihendrāgnī upa hvaye* is recited; for it is laid down in the Sūtra, in the section beginning *stotram agne śastrāt*: '*ihendrāgnī* [the sūkta] and the nine [riks] *upeyaṃ vām asya manmana*' (Āśvalāyana Śrauta-sūtra [5-10]). Likewise in the *abhiplava-ṣaḍaha*, at the morning pressing, in the *acchāvāka-śastra*, this very sūkta is used for the *stoma-atiśaṃsana* [the 'over-praising of the chant']; and so it is laid down: 'beginning with *abhiplava-pṛṣṭhya-ahāni* … *ihendrāgnī indrāgnī ā gatam*' (Āś. [7-3])." *(The Āśvalāyana numerals are read from small print at 150 dpi and marked [?]; the Anukramaṇikā quotation as read.)*
+
+**॥ Anuvāda (Kannada rendering) ॥** The sūkta *ihendrāgnī* is the fourth sūkta of the fifth anuvāka. Its ṛṣi and meter are as in the preceding sūkta. The Anukramaṇikā says: *iha ṣaḷ indrāgnam* — the six riks beginning *iha* have Indra and Agni for deity. Application: in the *agniṣṭoma* sacrifice, when the *acchāvāka*-priest recites the *śastra* mantras, he recites the sūkta *ihendrāgnī upa hvaye*. This is stated in the Āśvalāyana Śrauta-sūtra, in the section *stotram agne śastrāt* (Āś. [5-10]): *ihendrāgnī upeyaṃ vām asya manmana iti nava*. And in the sacrifice called *abhiplava-ṣaḍaha*, the *acchāvāka* priest recites this sūkta at the morning pressing for the *stomātiśaṃsana*. On this the Āśvalāyana Śrauta-sūtra says, beginning with *abhiplava-pṛṣṭhyāhāni*, '*ihendrāgnī indrāgnī ā gatam*' (Āś. [7-3]).
+
+### Pages 44–48 — Sūkta 21, Rik 1
+
+**॥ ॐ ॥**
+
+**॥ Sūkta — 21 ॥**
+**॥ Maṇḍala — 1 ॥ Anuvāka — 5 ॥ Sūkta — 21 ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga — 3 [?] ॥** *(small-print Kannada digit "೩", read at 150 dpi)*
+**॥ Mantras contained in this sūkta: 1–6 ॥**
+**॥ Ṛṣi — Medhātithi Kāṇva ॥**
+**॥ Devatā — Indrāgnī ॥**
+**॥ Chandaḥ — Gāyatrī ॥**
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> इहेन्द्राग्नी उप ह्वये तयोरित्स्तोममुश्मसि ।
+> ता सोमं सोमपातमा ॥१॥
+>
+> *ihendrāgnī upa hvaye tayor it stomam uśmasi |*
+> *tā somaṃ somapātamā ||1||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> इह । इन्द्राग्नी इति । उप । ह्वये । तयोः । इत् । स्तोमम् । उश्मसि ॥
+> ता । सोमम् । सोमऽपातमा ॥१॥
+>
+> *iha | indrāgnī iti | upa | hvaye | tayoḥ | it | stomam | uśmasi ||*
+> *tā | somam | soma-pātamā ||1||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 44; compressed; [?] marks doubtful readings)*
+
+> इहास्मिन्कर्मणीन्द्राग्नी देवावुप ह्वये । आह्वयामि । तयोरिन्द्राग्न्योरेव स्तोमं स्तोत्रमुश्मसि । कामयामहे । सोमपातमातिशयेन सोमं पातुं क्षमौ तौ द्वौ देवौ सोमं पिबतामिति शेषः ॥ इन्द्राग्नी । अत्र देवताद्वन्द्वेऽपि पूर्वपदस्यानङ् न भवति । तत्र हि द्वन्द्व इत्यनुवृत्तौ पुनर्द्वन्द्वग्रहणाल्लोकप्रसिद्धसाहचर्याणामेव द्वन्द्व आनङित्युक्तम् । का. [६-३-२६] । तस्मादत्राग्रहणे प्रसङ्गादिन्द्रशब्दः । समासस्यैत्यन्तोदात्तत्वम् । देवताद्वन्द्वे चेत्युभयपदप्रकृतिस्वरत्वं तु न भवति । अग्निशब्दस्यानुदात्तादित्वेन नोत्तरपदेऽनुदात्तादावित्यादिना प्रतिषेधात् । पा. [६-२-१४३] । इति प्रतिषेधात् ॥ उश्मसि । वश कान्तौ । लटो मस् । इदन्तो मसिः । पा. [७-१-४६] । इतीकारोपजनः । अदादित्वाच्छपो लुक् । मसेर्जित्त्वाद्ग्रहिज्येत्यादिना सम्प्रसारणम् । ता सोमपातमा । उभयत्र सुपां सुलुगित्याकारः ॥
+>
+> *ihāsmin karmaṇīndrāgnī devāv upa hvaye | āhvayāmi | tayor indrāgnyor eva stomaṃ stotram uśmasi | kāmayāmahe | somapātamātiśayena somaṃ pātuṃ kṣamau tau dvau devau somaṃ pibatām iti śeṣaḥ || indrāgnī | atra devatā-dvandve 'pi pūrvapadasyānaṅ na bhavati | tatra hi dvandva ity anuvṛttau punar dvandva-grahaṇāl loka-prasiddha-sāhacaryāṇām eva dvandva ānaṅ ity uktam | kā. [6-3-26] | tasmād atrāgrahaṇe prasaṅgād indra-śabdaḥ | samāsasyety antodāttatvam | devatā-dvandve cety ubhaya-pada-prakṛti-svaratvaṃ tu na bhavati | agni-śabdasyānudāttāditvena nottarapade 'nudāttādāv ity-ādinā pratiṣedhāt | pā. [6-2-143] | iti pratiṣedhāt || uśmasi | vaśa kāntau | laṭo mas | idanto masiḥ | pā. [7-1-46] | itīkāropajanaḥ | adāditvāc chapo luk | maser jittvād grahi-jyety-ādinā samprasāraṇam | tā somapātamā | ubhayatra supāṃ sulug ity ākāraḥ ||*
+
+**Translation:** "Here, at this rite, I invoke (*upa hvaye*) the two gods Indra and Agni. We desire the *stoma* — the praise — of those two alone. *Somapātamā* — the two gods who are, in the highest degree, able to drink the soma: [may they] drink the soma (this is supplied)." The grammar, noted briefly: *indrāgnī* (a deity-dvandva, yet here the substitute *ānaṅ* for the first member does not occur: in P. 6-3-26 *devatādvandve ca* the word *dvandve* is repeated, so that [the rule] applies only to pairs well known in the world and the Veda as companions; the Kāśikā says as much; so here, since this pair is not so named, the word *indra* stays as it is; the accent is that of the final member of the compound; the 'both members keep their own accents' rule does not apply because *agni*, being initially unaccented, is excluded by P. 6-2-143 *nottarapade 'nudāttādau…*); *uśmasi* (*vaś* 'to desire', *laṭ*, *mas*; the augment *i* by P. 7-1-46 [*idanto masiḥ*]; *śap* dropped, since the root is of the *adādi* class; *saṃprasāraṇa* because *mas* is *ñit*); *tā somapātamā* (the dual ending replaced by *ā* in both words). *(Grammar, noted briefly; P. 6-3-26 and 6-2-143 as read; the others unchecked pointers.)*
+
+**Grammar pages (pp. 46–48 upper), noted briefly.** The Kannada's long note on *indrāgnī*: it is a dvandva (*indraś ca agniś ca*); P. 6-3-26 *devatādvandve ca* gives *ānaṅ* to the first member of a deity-dvandva, but here it does not apply; since *dvandve* is carried over from the preceding sūtra *ānaṅ ṛto dvandve* [P. 6-3-25] and *dvandva* is repeated in P. 6-3-26, Pāṇini must intend only such pairs as are known to be companions in the world (*loka*) and the Veda; the Kannada cites the Mahābhāṣya discussion on the Vārttika *brahmaprajāpatyādīnāṃ ca* [P. 6-3-26 Vārttika, as read], that the repeated mention of *dvandva* 'shows a pair of companions famous from the use of *nirvāpa*, i.e. the joint offering [*sahadāna*] — as in the mental resolve *indrāvaruṇābhyāṃ juṣṭaṃ nirvapāmi* ('I measure out [the oblation] dear to Indra and Varuṇa') followed by *svāhā*, when the oblation is thrown into the fire'; the *Kāśikā* says 'dvandva is carried over; the repetition of "dvandva" is for pairs famous in the world'; the Kannada then argues the point of the *vedaprakriyā*: in the word-by-word (*pada*) text, one has *indra* and *agnī* separately [*indrāgnī iti indra-agnī*] — if *ānaṅ* had applied, the Pada would read *indrā*…; the point is that since *indrāgnī* is read with the hiatus as *indra-agnī*, the short *a* of *indra* is as expected, and since *uttarapade* (in a 'following member') is stated in the locative, by P. 1-1-66 *tasminn iti nirdiṣṭe pūrvasya* the thing meant is the immediately preceding; the discussion concludes that the compound *indrāgnī* is not an *ānaṅ*-compound. On accent: *indrāgnī* is end-accented by *samāsasya* P. 6-1-223; *agni* (formed by a suffix *ni*) is end-accented by the suffix; the *ā* is *anudātta* by the *nighāta* [accent-lowering] of the remaining syllables, as explained at Ṛ. Saṃ. 1-1-1 [*agnim īḷe*]; so *agni* is initially unaccented, and P. 6-2-143 *nottarapade 'nudāttādau pṛthivīrudrapūṣamandhiṣu* bars the 'both members' accent for compounds whose final member begins unaccented — except *pṛthivī*, *rudra*, *pūṣan*, *mantha* — so P. 6-2-142 *devatādvandve ca* [the 'both members keep their accent' rule for deity-dvandvas] does not apply. *Uśmasi* (*vaś kāntau*; *laṭ* first plural *mas*; *mas* is *idanta* by P. 7-1-46 *iḍ antaḥ* … *iditaḥ* [the Kannada: *mas* → *masi*, with *i* only for pronunciation]; *śap* dropped by P. 2-4-72; *mas* is *ñit* by P. 1-2-4 [*sārvadhātukam apit*], so *saṃprasāraṇa* by P. 6-1-16 *grahijyāvayivyadhivaṣṭivicativṛścatipṛcchatibhṛjjatīnāṃ ṅiti ca*: *va* → *u*; *pūrvarūpa*: *uśmasi*). *Tā*, *somapātamā*: *somaṃ pibataḥ*, *somapau*; *atiśayena somapau somapātamau*: in both words the dual *au* → *ā* by P. 7-1-39 *supāṃ sulug…*. ॥1॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 45)*
+
+**इह (iha)** — in this rite | **इन्द्राग्नी (indrāgnī)** — Indra and Agni | **उप ह्वये (upa hvaye)** — I invite you to come near | **तयोः इत् (tayoḥ it)** — for those two alone | **स्तोमम् (stomam)** — to praise | **उश्मसि (uśmasi)** — we wish | **सोमपातमा (somapātamā)** — [those two] most able to drink soma | **ता (tā)** — those two | **सोमम् (somam)** — [the soma-juice] that we have prepared (let them drink).
+
+**॥ Bhāvārthaḥ ॥**
+
+Here [at this rite] we invite the deities Indra and Agni and praise them. Those two especially are fit to drink soma: may they drink the soma-juice that we have prepared.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> I invoke hither, Indra and Agni ; we desire to present our praise to them ; let them who are both greatest drinkers of Soma juice, drink our Soma.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 45)*
+
+**उश्मसि (uśmasi)** — *vaśa kāntau*: *kāmayāmahe*: "we desire" — *apekṣisuttēve*, we wish for.
+
+**सोमपातमा (somapātamā)** — *somasya atiśayena pātārau*: great (excessive) drinkers of soma.
+
+In this sūkta the deities Indra and Agni are praised together. This joint praise of two deities is a special feature in the Ṛgveda. The mantras which treat of a deity-pair are called *saṃstavika* mantras (Ni. [2-8]). We have written the discussion of this subject earlier in Ṛgveda Saṃhitā Part [2], pp. 710–712 [the Volume 2 pages 710–712 printed in the Volume 2 file, Sūkta 17, Rik 1 Special Topics].
+
+### Pages 48–49 — Sūkta 21, Rik 2
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> ता यज्ञेषु प्र शंसतेन्द्राग्नी शुम्भता नरः ।
+> ता गायत्रेषु गायत ॥२॥
+>
+> *tā yajñeṣu pra śaṃsatendrāgnī śumbhatā naraḥ |*
+> *tā gāyatreṣu gāyata ||2||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> ता । यज्ञेषु । प्र । शंसत । इन्द्राग्नी इति । शुम्भत । नरः ॥
+> ता । गायत्रेषु । गायत ॥२॥
+>
+> *tā | yajñeṣu | pra | śaṃsata | indrāgnī iti | śumbhata | naraḥ ||*
+> *tā | gāyatreṣu | gāyata ||2||*
+
+*(Accent-marks printed in the source; not reproduced. The Saṃhitā has the lengthened* śumbhatā*; the Pada the short* śumbhata*.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 48; compressed; [?] marks doubtful readings)*
+
+> हे नरो मनुष्या ऋत्विजः ता पूर्वोक्तौ तावेन्द्राग्नी यज्ञेषु अनुष्ठीयमानकर्मसु प्र शंसत शस्त्रैः । तथा शुम्भत नानाविधैरलंकारैः शोभितौ कुरुत । तथा ता पूर्वोक्तौ तावेन्द्राग्नी गायत्रेषु गायत्रीच्छन्दस्केषु मन्त्रेषु सामरूपेण गायत ॥ ता । सुपां सुलुगित्याकारः । शुम्भत । अस्य संहितायामन्येषामपि दृश्यत इति दीर्घः ॥
+>
+> *he naro manuṣyā ṛtvijaḥ tā pūrvoktau tāv indrāgnī yajñeṣu anuṣṭhīyamāna-karmasu pra śaṃsata śastraiḥ | tathā śumbhata nānā-vidhair alaṅkāraiḥ śobhitau kurūta | tathā tā pūrvoktau tāv indrāgnī gāyatreṣu gāyatrī-chandaskeṣu mantreṣu sāma-rūpeṇa gāyata || tā | supāṃ sulug ity ākāraḥ | śumbhata | asya saṃhitāyām anyeṣām api dṛśyata iti dīrghaḥ ||*
+
+**Translation:** "O men — priests! Those two, Indra and Agni, spoken of before, praise (*pra śaṃsata*) at the sacrifices — in the rites being performed — with recitations (*śastras*). And *śumbhata* — make them beautiful, adorn them, with ornaments of many kinds. And those same two, Indra and Agni, sing (*gāyata*) in the *gāyatras* — in mantras in the Gāyatrī meter — in the form of *sāman*." The grammar, noted briefly: *tā* (the dual ending *ā*); *śumbhata* (the lengthening in the Saṃhitā is by P. 6-3-137 *anyeṣām api dṛśyate*, 'also seen in others'). *(Grammar, noted briefly; P. 6-3-137 as read [?].)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 49)*
+
+**(हे) नरः ((he) naraḥ)** — O men (priests) | **ता (tā)** — those two Indra-Agni deities spoken of before | **यज्ञेषु (yajñeṣu)** — at the sacrifices | **प्र शंसत (pra śaṃsata)** — praise well | **शुम्भत (śumbhata)** — adorn [with various ornaments] | **ता (tā)** — those two | **गायत्रेषु (gāyatreṣu)** — with riks in the Gāyatrī meter | **गायत (gāyata)** — sing (praise).
+
+**॥ Bhāvārthaḥ ॥**
+
+O priests! Praise well the deities Indra and Agni spoken of before, adorn them with ornaments, and sing them in the manner of *sāman* with riks in the Gāyatrī meter.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O men, praise Indra and Agni in Sacrifices, decorate them with ornaments and sing them with hymns of Gayatri metres.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 49)*
+
+In this rik the ṛṣi addresses the people — that is, the priests engaged in performing the sacrifice.
+
+**शुम्भत (śumbhata)** — "decorate"; what does it mean to decorate the deities? How can invisible deities be decorated? This point is not clear.
+
+**गायत्रेषु (gāyatreṣu)** — with riks in the Gāyatrī meter, or with the mantra called *gāyatra* in the Sāmaveda. Since the rule is that in the three pressings, morning and the rest, many riks of the seven meters beginning with Gāyatrī must be recited, and since at first the praise is made with Gāyatrī-meter riks, the ṛṣi, addressing the priests, says "*gāyatreṣu*": praise with riks of the Gāyatrī meter.
+
+**Grammar page (p. 49), noted briefly.** *Tā* — here too the case-ending takes *ā* by P. 7-1-39 *supāṃ sulug…*. *Śumbhata* — in the Saṃhitā, by P. 6-3-137 *anyeṣām api dṛśyate*, 'also seen in others' (that is, lengthening is seen in words other than those named in the lengthening rules), the vowel is lengthened. ॥2॥ *(Pointers only.)*
+
+### Pages 50–53 — Sūkta 21, Rik 3
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> ता मित्रस्य प्रशस्तय इन्द्राग्नी ता हवामहे ।
+> सोमपा सोमपीतये ॥३॥
+>
+> *tā mitrasya praśastaya indrāgnī tā havāmahe |*
+> *somapā somapītaye ||3||*
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> ता । मित्रस्य । प्रऽशस्तये । इन्द्राग्नी इति । ता । हवामहे ॥
+> सोमऽपा । सोमऽपीतये ॥३॥
+>
+> *tā | mitrasya | pra-śastaye | indrāgnī iti | tā | havāmahe ||*
+> *soma-pā | soma-pītaye ||3||*
+
+*(Accent-marks printed in the source; not reproduced.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 50; compressed; [?] marks doubtful readings)*
+
+> मित्रस्य स्नेहविषयस्य ममानुष्ठातुः प्रशस्तये ता पूर्वोक्तौ देवौ सम्पद्येतामिति शेषः । यद्वा । मित्रस्य मम सम्बन्धिनौ ताविन्द्राग्नी प्रशस्तये प्रशंसितुमिच्छामः इति शेषः । सोमपा सोमपानक्षमौ ता पूर्वोक्तावेन्द्राग्नी सोमपीतये सोमपानार्थं हवामहे । आह्वयामः ॥ प्रशस्तये । तुमर्थाच्च भाववचनात् । पा. [३-४-१४] । इति चतुर्थी । कृदुत्तरपदप्रकृतिस्वरत्वं बाधित्वा ताद्यौ च निति कृत्यतौ । पा. [६-२-५०] । इति गतेः प्रकृतिस्वरत्वम् । सोमपीतये । सोमस्य पीतिरस्मिन्कर्मणि तस्मै । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । सोमस्य पीतिरिति तत्पुरुषे वा दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
+>
+> *mitrasya sneha-viṣayasya mamānuṣṭhātuḥ praśastaye tā pūrvoktau devau sampadyetām iti śeṣaḥ | yadvā | mitrasya mama sambandhinau tāv indrāgnī praśastaye praśaṃsitum icchāmaḥ iti śeṣaḥ | somapā somapāna-kṣamau tā pūrvoktāv aindrāgnī somapītaye somapānārthaṃ havāmahe | āhvayāmaḥ || praśastaye | tumarthāc ca bhāva-vacanāt | pā. [3-4-14] | iti caturthī | kṛd-uttarapada-prakṛti-svaratvaṃ bādhitvā tādyau ca niti kṛtyatau | pā. [6-2-50] | iti gateḥ prakṛti-svaratvam | somapītaye | somasya pītir asmin karmaṇi tasmai | bahuvrīhau pūrvapada-prakṛti-svaratvaṃ | somasya pītir iti tatpuruṣe vā dāsībhārāditvāt pūrvapada-prakṛti-svaratvam ||*
+
+**Translation:** "For the *praśasti* — the praise — of [me,] the *mitra* (the friend), the performer who is the object of affection: may those two gods, spoken of before, come to be [present] (*sampadyetām*, supplied). Or: those two, Indra and Agni, who are connected with me, the friend — we wish to praise them for the sake of praise (supplied). *Somapā* — able to drink soma: those same two, Indra and Agni, we invoke (*havāmahe*) for the *somapīti* — for the drinking of soma." The grammar, noted briefly: *praśastaye* (the fourth case by P. 3-4-14 [*tumarthāc ca bhāvavacanāt* — as read P. 2-3-15] after a noun in the sense of an infinitive; the accent of the prefix by P. 6-2-50, overriding the *kṛt*-final accent); *somapītaye* (a bahuvrīhi 'that in which there is a drinking of soma'; the first-member accent; or a tatpuruṣa, with the first-member accent by the *dāsībhārādi* class). *(Grammar, noted briefly; numerals as read, pointers only.)*
+
+**Grammar pages (pp. 51–53 upper), noted briefly.** The Kannada treats *praśastaye* (*śaṃsu stutau* of the first class with the prefix *pra*; under the *adhikāra* *bhāve* [P. 3-3-18], *striyāṃ ktin* P. 3-3-94 gives *ktin*; with a verbal-action word as upapada *bhāvavacanāś ca* P. 3-3-11 allows *ktin* [the Kannada reads the sūtra *bhāvavacanāś ca* as permitting an action-noun in the sense of the infinitive]; the *iṭ* is barred by *titutratathasisusarakaseṣu ca* P. 7-2-9; the nasal *n* of *śaṃs* dropped by *anidītāṃ hala upadhāyāḥ kṅiti* P. 6-4-24, the Kannada noting that, by the saying 'for the roots with *ṅ*/*ñ*… the *anusvāra* in place of *n* by *naś cāpadāntasya jhali* P. 8-3-24 gives *śaṃs*, and that *anusvāra* is invisible [*asiddha*] when the penultimate *n* is dropped by *pūrvatrāsiddham* P. 8-2-1, so the *n* is dropped in the manner stated before; compound with *pra* by *kugatiprādayaḥ* P. 2-2-18; the fourth case by *tumarthāc ca bhāvavacanāt* P. 2-3-15 [the Kannada's reading: the fourth case after a noun that stands for an infinitive, with *tumun*, *ṇvul* in the future sense by P. 3-3-10 *tumunṇvulau kriyāyāṃ kriyārthāyām*; examples *bhokṣye vrajati*, *bhojako vrajati*]; the long discussion of the clause *tumarthāt* and *bhāvavacanāt* and of the need of the supplied word *sampadyetām* [the Kannada: since the sentence has *sampadyetām* as its verb, 'praise' is its goal, and since the action-noun *praśasti* stands for the activity *prāśaṃsārūpa-kriyā*, the *ktin* is by *bhāvavacanāś ca*; the word *tumarthāt* says the fourth case follows a noun in the sense of an infinitive; in the second construction — with 'we wish' [*icchāmaḥ*] supplied — the fourth case is by the same rule since the wish-action is the upapada]; the accent by *gatikārakopapadāt kṛt* P. 6-2-139 would give end-accent, but this is overridden by *tād au ca niti kṛtyatau* P. 6-2-50 [as read] which gives the prefix its natural accent before a *t*-initial *kṛt* with *n*-less marks; *pra* is first-syllable accented by *upasargāś cābhivarjam*), and *somapītaye* (a *vyadhikaraṇa* bahuvrīhi 'that in which is a drinking of soma', with the first-member accent by P. 6-2-1; also, if analysed as a tatpuruṣa 'drinking of soma', the first-member accent holds by P. 6-2-42 [*kuru-gārhapata-rikta-guru-asūta-jaratī-aśleṣa-dṛḍha-rūpā-pārevaḍavā-taikila-kadrū-paṇya-kambalo dāsībhārāṇāṃ ca*, as printed, *dāsībhārādi* list]). ॥3॥ *(A crowded run; outline only; numerals as read; pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 50)*
+
+**ता (tā)** — those Indra and Agni deities | **मित्रस्य (mitrasya)** — of the friend [the sacrificer, who is the object of affection] | **प्रशस्तये (praśastaye)** — for praise (for the sake of the aim [of praise]) | **सोमपा (somapā)** — soma-drinkers | **ता इन्द्राग्नी (tā indrāgnī)** — those Indra and Agni | **सोमपीतये (somapītaye)** — for drinking soma | **हवामहे (havāmahe)** — we invoke.
+
+**॥ Bhāvārthaḥ ॥**
+
+We invoke the soma-drinking Indra and Agni to drink soma. May they, having drunk and been satisfied, become the cause of praise for our friend, the sacrificer.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> For the benefit of our friend (worshipper) we invoke Indra and Agni, drinkers of Soma juice, to drink the Soma libation.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 51)*
+
+**ता मित्रस्य प्रशस्तये (tā mitrasya praśastaye)** — since in this sentence there is no verb, the commentator says that the verb *gāyata* ('sing') of the previous rik must be supplied (*adhyāhāra*). Then the sentence means: "Praise (that is, sing) those Indra and Agni for the prosperity (for the sake of the purpose) of our (your) friend the sacrificer."
+
+In this rik the word *tā* occurs twice; and in *somapā somapītaye* too the matter of soma-drinking is repeated. Such usages are seen in places in the Ṛgveda. Perhaps they are used for the sake of the metre, or perhaps such repeated expressions were current, following the usage of the speech of the community of that time.
+
 ---
 
-**Progress note — printed page 43 (upper part) reached; Sūkta 20 complete.**
+**Progress note — printed page 53 (upper half) reached; Sūkta 21 in progress (Riks 1–3 done).**
 
-**This batch:** Rik 8 of Sūkta 20 (printed pp. 38–43). With the earlier batches, Sūkta 20 (*ayaṃ devāya janmane*, eight riks, to the Ṛbhus; Medhātithi Kāṇva; Gāyatrī) is complete from p. 1.
+**This batch:** Sūkta 21 (*ihendrāgnī upa hvaye*, six riks, to Indra and Agni; Medhātithi Kāṇva; Gāyatrī): application note (p. 43), heading and Riks 1–3 (printed pp. 43–53).
 
-**Next task:** begin Sūkta 21 (*ihendrāgnī upa hvaye*, to Indra and Agni; six riks; the fourth sūkta of the fifth anuvāka) on the lower part of printed p. 43 (PDF page 58): its Sāyaṇa application note is already printed there, and the heading with Rik 1 follows on p. 44 (PDF page 59). Sūkta 21 runs to printed p. 62; Sūkta 22 begins at p. 63.
+**Next task:** continue Sūkta 21 at Rik 4 (*ugrā santā havāmaha upedaṃ savanaṃ sutam*; Saṃhitā in the lower half of printed p. 53, PDF page 68); Riks 5 and 6 follow; Sūkta 21 runs to printed p. 62, and Sūkta 22 begins at p. 63.
 
 **Open flags:**
-- The Anukramaṇikā quotation in Sūkta 20's application note (*ayam aṣṭāv ārbhavam*) is read from small print and is uncertain [?]; the English of the homage verses at the head of p. 1 is mine.
-- Rik 4 and Rik 8: the Ṛgveda citations in the Special Topics (1-110-4, 1-161-11, 3-60-1) are read from small print and marked [?]; my gloss of the first is tentative and labelled so. Rik 6: the grammar on *niṣkṛtam* (pp. 27–28) and *caturaḥ* is summarised only. Rik 7: the grammar of *dhattana* (pp. 34–35) and *ekam ekam* (pp. 36–37) is in outline.
-- The Rik 3 grammar (pp. 10–13: *parijman*, *mātariśvan*, *maghavan*) is given in outline only; the Rik 8 grammar on *sukṛtyayā* (the accent dispute, pp. 41–42) likewise.
-- Varga numerals "1, 2 [?]"; Ṛgveda and Nighaṇṭu reference numerals marked [?] where unclear.
+- The Āśvalāyana Śrauta-sūtra numerals in the application note ([5-10], [7-3]) are read from small print at 150 dpi and are uncertain [?]; the Anukramaṇikā quotation (*iha ṣaḷ indrāgnam*) is as read.
+- Sūkta 21 heading: varga numeral "3 [?]" (small print).
+- The Rik 1 grammar on *indrāgnī* (the *ānaṅ* / *devatādvandve* discussion, pp. 46–48) and the Rik 3 grammar on *praśastaye* (pp. 51–53) are given in outline; numerals are marked [?] as pointers. The Rik 2 grammar sūtra number (P. 6-3-137) is as read [?].
+- Sūkta 20 flags carried over: the Anukramaṇikā quotation in its application note, my homage-verse English, the tentative gloss of Ṛ. 1-110-4, and grammar given in outline (Riks 3, 6, 7, 8).
+- Varga numerals and Ṛgveda/Nirukta reference numerals marked [?] where unclear.
 - The preface (PDF pp. 8–10), the abbreviations list (PDF p. 11) and the portrait pages are not translated.
