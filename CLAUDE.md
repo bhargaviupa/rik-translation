@@ -11,9 +11,9 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20–24 are complete — through printed page 294.** (Sūkta 24, "kasya nūnaṃ katamasyāmṛtānām", has 15 Riks and carries the Śunaḥśepa legend in Rik 1: Prajāpati, Agni, Savitṛ, Varuṇa.) Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242) is provisional and should be re-checked at a higher resolution.
-**Next task: begin Sūkta 25 ("yac cid dhi te viśo yathā", 21 Riks, to Varuṇa; Rishi Śunaḥśepa) — heading on printed p. 295 (PDF page 310).** Sūktas and their first
-pages: 25 p.295; 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+Volume 3 translation is under way: **Sūktas 20–25 are complete — through printed page 345 (upper part).** (Sūkta 25, "yac cid dhi te viśo yathā", has 21 Riks, all to Varuṇa — the second sūkta of the Śunaḥśepa group.) Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242) is provisional and should be re-checked at a higher resolution.
+**Next task: begin Sūkta 26 ("vasiṣvā hi miyedhya", 10 Riks, to Agni; Rishi Śunaḥśepa) — heading on the lower half of printed p. 345 (PDF page 360); Rik 1 on p. 346.** Sūktas and their first
+pages: 26 p.345; 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
