@@ -13,8 +13,9 @@ earlier sections.
 
 ## Current position
 
-Through **printed page 735 (upper half)**: **Sūkta 17** of Maṇḍala 1 ("indrāvaruṇayor aham", to Indra and Varuṇa; nine Riks) is in progress — Riks 1–6 done;
-the file is contiguous from p. 1. **Next task: continue Sūkta 17 at Rik 7** ("indrāvaruṇa vām aham huve"; Saṃhitā at the foot of printed p. 735, PDF page 750). The tail of
+Through **printed page 746 (upper half)**, which closes **Sūkta 17** of Maṇḍala 1 ("indrāvaruṇayor aham", to Indra and Varuṇa; nine Riks); the file is
+contiguous from p. 1. **Next task: begin Sūkta 18 ("somānaṃ svaraṇam", first sūkta of Anuvāka 5, nine Riks) at printed page 746, lower half**
+(PDF page 761; check the heading on p. 747). The tail of
 the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 
 PDF-to-printed-page offset: page 1 of the printed text is PDF page 16 (there are 15 pages of
