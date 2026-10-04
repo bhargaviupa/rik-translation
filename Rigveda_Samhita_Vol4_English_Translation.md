@@ -561,12 +561,62 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 *na | ye | divaḥ | pṛthivyāḥ | antam | āpuḥ | na | māyābhiḥ | dhana-dām | pari | abhūvan |*
 
----
+### Rik 33.10 (continued) — Pada-pāṭha, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 43–46, PDF 57–60)
+
+**Pada-pāṭha** *(pp. 42–43; the first line was given at the foot of p. 42)*
+
+> न । ये । दिवः । पृथिव्याः । अन्तम् । आपुः । न । मायाभिः । धनऽदाम् । परि । अभूवन् ॥
+> युजम् । वज्रम् । वृषभः । चक्रे । इन्द्रः । निः । ज्योतिषा । तमसः । गाः । अधुक्षत् ॥ १० ॥
+
+*na | ye | divaḥ | pṛthivyāḥ | antam | āpuḥ | na | māyābhiḥ | dhana-dām | pari | abhūvan ||*
+*yujam | vajram | vṛṣabhaḥ | cakre | indraḥ | niḥ | jyotiṣā | tamasaḥ | gāḥ | adhukṣat || 10 ||*
+
+*(The Pada's last word is printed with a dh — "adhukṣat" — while the Saṃhitā prints "adukṣat"; the bhāṣya explains this below as a Vedic non-application of the *bhaṣ* substitution in the Saṃhitā.)*
+
+**Sāyaṇa-bhāṣya** *(p. 43; the first half in full, the grammatical tail characterized)*
+
+> ये जलविशेषा दिवो द्युलोकात्पृथिव्या अन्तं भूमेः स्थानं नापुर्न प्राप्ताः । मेघरूपमापन्नेन वृत्रेण निरुद्धत्वात् । अत एव भूमिप्राप्त्यभावाद्धनदां धनप्रदां भूमिं मायाभिः सस्योपकारादिभिः कर्मभिर्न पर्यभूवन् । परितो न व्याप्ताः । जलपानसस्याभिवृद्ध्याद्युपकारं न चक्रुरित्यर्थः । तदानीमयमिन्द्रो मेघभेदनाय वज्रं युजं स्वहस्तयुक्तं चक्रे । ततो ज्योतिषा द्योतमानेन वज्रेण तमसोऽन्धकाररूपान्मेघाद्गा गमनशीलान्युदकानि निरधुक्षत् । निःशेषेण दुग्धवान् । मेघं भित्त्वा जलं वृष्टवानित्यर्थः ॥
+
+*ye jalaviśeṣā divo dyulokāt pṛthivyā antaṃ bhūmeḥ sthānaṃ nāpur na prāptāḥ | megharūpam āpannena vṛtreṇa niruddhatvāt | ata eva bhūmiprāptyabhāvād dhanadāṃ dhanapradāṃ bhūmiṃ māyābhiḥ sasyopakārādibhiḥ karmabhir na paryabhūvan | parito na vyāptāḥ | jalapānasasyābhivṛddhyādyupakāraṃ na cakrur ity arthaḥ | tadānīm ayam indro meghabhedanāya vajraṃ yujaṃ svahastayuktaṃ cakre | tato jyotiṣā dyotamānena vajreṇa tamaso 'ndhakārarūpān meghād gā gamanaśīlāny udakāni niradhukṣat | niḥśeṣeṇa dugdhavān | meghaṃ bhittvā jalaṃ vṛṣṭavān ity arthaḥ ||*
+
+**Translation:** "Those particular waters which did not reach (*nāpuḥ*) the end, the place, of the earth from the heaven (*divaḥ*), because they were held back by Vṛtra, who had taken the form of a cloud. For that very reason, since they did not reach the earth, they did not *pari-abhūvan* — enclose all round — the earth, the *dhanadām*, giver of wealth, by *māyābhiḥ* — works helpful to the crops and so on: that is, they did not do the benefit of drinking-water, the increase of the crops, and the like. Then this Indra, for the splitting of the cloud, *yujaṃ cakre* — took in his own hand — the thunderbolt. Then, with the thunderbolt that shone with light (*jyotiṣā*), *tamasaḥ* — from the cloud, which has the nature of darkness — he *nir adhukṣat* — milked out completely — the *gāḥ*, the flowing waters: that is, he split the cloud and rained down the water."
+
+**Grammar within the bhāṣya** *(p. 43, characterized)*: *divaḥ* (the genitive-ablative ending acute by the *ūḍidam…* rule); *āpuḥ* (root *āplṛ vyāptau*, *liṭ* third plural *us*); *paryabhūvan* (the word *ye* in the first foot is connected with *paryabhūvan* in the second, so there is no total *anudātta* because of the *yat*-word in the sentence); *yujam* (root *yujir yoge*, suffix *kvin* by *ṛtvigdhṛksragdiśuṣṇihayujiñcukrañcāṃ ca* — the list of words that take *kvin*; the *num* augment fails by "the augment-rule is not universal"); *adhukṣat* (root *duha prapūraṇe*, *luṅ*; *ksa* as a substitute of *cli* by *śala igupadhād aniṭaḥ ksaḥ* — Pā. 3-1-45 [as printed]; *gh* for *d*- by *dādor ghaḥ* — Pā. 8-2-32; the *bhaṣ* rule *ekāco baśo bhaṣ jhaṣantasya sadhvoḥ* — Pā. 8-2-37; the non-application of the *bhaṣ* change in the Saṃhitā is Vedic).
+
+**Pratipadārtha** *(p. 43)* — "**ye** — (when Vṛtra, in the form of a cloud, had shut up the mid-region) which streams of water; **divaḥ** — from the mid-region; **pṛthivyāḥ** — of the earth; **antam** — the place; **na āpuḥ** — did not reach; (and) **dhanadām** — the wealth-giving earth; **māyābhiḥ** — by works that cause growth; **na paryabhūvan** — did not spread and cover [it]; **vṛṣabhaḥ** — the rain-giver; **indraḥ** — Indra; **vajram** — the thunderbolt-weapon; **yujaṃ cakre** — took up in his hand; (afterwards) **jyotiṣā** — with the shining thunderbolt; **tamasaḥ** — from the dark cloud; **gāḥ** — those streams of water; **niḥ adhukṣat** — he milked out completely (drove them out)."
+
+**Bhāvārtha** *(p. 44)* — "(O Indra, you are the remover of the people's troubles.) Formerly Vṛtra, in the form of a cloud, shut up the whole mid-region. He stopped all the streams of water that would come to the earth from the mid-region. All the crops that give wealth to people perished. There was no water even to drink. Then you took your thunderbolt in your hand. Its radiance pervaded even the mid-region, and you made the stream of water fall from the dark cloud."
+
+**English Translation (the source's own, p. 44)** — "When the waters did not descend upon the ends of the earth and did not overspread, with its **produetions**. the wealth-giver ( Indra ) the showerer, grasped his bolt and with its brightness milked out the waters from the darkness." *(Printed so, including "produetions" [sic] and the full stop after it.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 44** — "Formerly Vṛtra, who was in the form of a cloud, held back the rain that was to fall from the heavenly region (the mid-region) on to the earth; as a result there was no water on the earth, and no crops either, and wealth, food and the like did not arise. Therefore Indra, taking up his shining thunderbolt and striking Vṛtra, caused rain to come on the earth: that is the main idea." — **māyābhiḥ** = *sasyopakāribhiḥ karmabhiḥ*: "by works that help the crops. The word *māyā* has many meanings; we have explained them earlier. Here *māyābhiḥ* means 'by bold deeds' [Kannada *sāsahakṛtyagaḷinda*]" *(the Kannada gloss differs from the bhāṣya's; reported as printed)*. — **gāḥ** = *gamanaśīlāny udakāni*: "flowing waters, water."
+
+**Vyākaraṇa-prakriyā** *(pp. 44–46, grammar pages — noted briefly)*: **divaḥ** (*div* + *jas*, then the genitive-ablative; *ūḍidaṃ padādyappumraidyubhyaḥ* — ऊडिदं पदाद्यप्पुम्रैद्युभ्यः — Pā. 6-1-171, by which the ending after the substitutes *ūṭ*, *idam*, *pad* etc., *ap*, *pum*, *rai*, *div* — words of one syllable ending in acute — is acute); **āpuḥ** (p. 45: root *āplṛ vyāptau*, *liṭ*, *jhi* → *us* by *parasmaipadānāṃ ṇalatusustha…* — Pā. 3-4-82, the print resting the elision of the first *u*-vowel's accent on the *jāti* view and on a splitting of the sūtra (*yogavibhāga*) [my reading of a crowded line]; doubling, *halādiḥ śeṣaḥ*, *savarṇadīrgha*, *ru*, *visarga*; no total unaccent because of the connected *yat*-word); **paryabhūvan** (*bhū sattāyām*, *pari*, [the print's *luṅ*-type abbreviation for the tense: read *laṅ*], third plural; the connection of *ye* in foot 1 with *paryabhūvan* in foot 2; no total *anudātta* because of the *yat*-word); **yujam** (root *yujir yoge*; *kvin* by *ṛtvigdhṛksragdiśuṣṇihayujiñcukrañcāṃ ca* — ऋत्विग्दधृक्स्रग्दिगुष्णिहयुजिञ्चुक्रुञ्चां च — Pā. 3-2-59 [as printed], whose irregular forms include *ṛtvij* (*yaj* with *ṛtu*), *dhṛṣ* (doubling and final acute), *sraj* (suffix *kvin* in the object-sense, with *a* for the augment), *diś*, *uṣṇih* (with *ut* + root *snih*, the preverb's last letter dropped and *s* → *ṣ*), *añc* after *su*-ending nouns, and *yuj* without upapada; accusative singular *am*; the *num* augment, which *yujer asamāse* — युजेरसमासे — Pā. 7-1-71 would give for a *yuj* outside a compound before a *sarvanāmasthāna* ending, does not appear: "the rule on augments is not universal", *anityam āgamaśāsanam*); **adhukṣat** (pp. 45–46: root *duha prapūraṇe*, *luṅ*, *tip*; *cli* by *cli luṅi* — Pā. 3-1-43; *ksa* for *cli* by *śala igupadhād aniṭaḥ ksaḥ* — Pā. 3-1-45; the *aṭ* augment; *duh + sa + t*; *gh* for the *h* of a root beginning in *d* by *dādor ghaḥ* — दादेर्धातोर्घः — Pā. 8-2-32, the page explaining that *dāder dhātoḥ* is repeated for emphasis, as in *kamalāni kamalāni*; *bh* for *gh* by *ekāco baśo bhaṣ jhaṣantasya sadhvoḥ* — एकाचो बशो भष् झषन्तस्य स्ध्वोः — Pā. 8-2-37, giving *dh*; *k* for *dh* before *s* by *khari ca*; *ṣ* for *s* by *ādeśapratyayayoḥ* — आदेशप्रत्यययोः — Pā. 8-3-59; but in the Saṃhitā the *bhaṣ* change is omitted by Vedic usage, so *dh* does not appear, and the word is *adukṣat*). Rik 10 ends here (*|| 10 ||*).
+
+### Rik 33.11 (p. 46 onward, PDF 60–)
+
+**Saṃhitā-pāṭha** *(p. 46; accents not reproduced)*
+
+> **अनु स्वधामक्षरन्नापो अस्यावर्धत मध्य आ नाव्यानाम् ।**
+> **सध्रीचीनेन मनसा तमिन्द्र ओजिष्ठेन हन्मनाहन्नभि द्यून् ॥ ११ ॥**
+
+*anu svadhām akṣarann āpo asyāvardhata madhya ā nāvyānām |*
+*sadhrīcīnena manasā tam indra ojiṣṭhena hanmanāhann abhi dyūn || 11 ||*
+
+**Pada-pāṭha** *(p. 46)*
+
+> अनु । स्वधाम् । अक्षरन् । आपः । अस्य । अवर्धत । मध्ये । आ । नाव्यानाम् ॥
+> सध्रीचीनेन । मनसा । तम् । इन्द्रः । ओजिष्ठेन । हन्मना । अहन् । अभि । द्यून् ॥ ११ ॥
+
+*anu | svadhām | akṣaran | āpaḥ | asya | avardhata | madhye | ā | nāvyānām ||*
+*sadhrīcīnena | manasā | tam | indraḥ | ojiṣṭhena | hanmanā | ahan | abhi | dyūn || 11 ||*
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 42 (PDF 56) reached; Riks 33.1–33.9 complete; Rik 33.10's Saṃhitā and the first line of its Pada written (foot of p. 42).**
+---
 
-**Next task:** continue at printed p. 43 (PDF 57): the rest of Rik 10's Pada, its bhāṣya etc. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 57 -l 84 Rig_Vol4.pdf /tmp/v`.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 46 (PDF 60) reached; Riks 33.1–33.10 complete; Rik 33.11's Saṃhitā and Pada written (p. 46).**
+
+**Next task:** continue at printed p. 47 (PDF 61): the bhāṣya of Rik 11. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 61 -l 84 Rig_Vol4.pdf /tmp/v`.
 
 **Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda/Nirukta reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4) and the six *navagva* half-verses (Rik 6) are mine, not the source's. (5) A few doubtful words in the bhāṣya of Riks 6–7 (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation, "*vināśya [?]*"). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
