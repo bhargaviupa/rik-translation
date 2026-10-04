@@ -1539,8 +1539,114 @@
 
 ---
 
+**Rik 48.14, continued** *(from p. 82)*
+
+**Vyākaraṇa-prakriyā, continued** *(pp. 82–83 — grammar pages, noted briefly)*
+- **mahi**: root *maha pūjāyām*, *bhvādi*; the Uṇādi suffix *in* by *sarvadhātubhya in* (Uṇ. [?] as read); *mah + in*; for the feminine *kṛdikārād aktinaḥ* (Pā. 4-1-45 with the *gaṇa* number as read [?]) gives *ṅīṣ* for a *kṛdanta* ending in *i* other than *ktin*: *mah + ī*, the *i* dropped before it: *mahī*; in the vocative *ambārthanadyor hrasvaḥ* (Pā. 7-3-107 as read) shortens it, and *eṅhrasvāt sambuddheḥ* (Pā. 6-1-69 as read) drops *su*: *mahi*; the all-unaccented of the vocative comes.
+- **stomān**: after *stoma*, the accusative plural *śas*; the homogeneous lengthening and *natva*; in the mantra only (not in the *pada*-text), *dīrghād aṭi samānapāde* (Pā. 8-3-9 as read) gives *ru* as in *adhvarān* (Rik 11), then *yatva*, *lopa*, and *ato 'ṭi nityam* (Pā. 8-3-3 as read) gives the nasal on the vowel: *stomā̐*; being *nit*, *ñnityādir nityam* (Pā. 6-1-197 as read) gives the initial acute.
+- **gṛṇīhi**: root *gṝ śabde*, *kryādi*; *loṭ*, second person singular *sip*, replaced by *hi*; *gṛ + hi*; *śnā* as *vikaraṇa*, being *śit*, *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80 as read) shortens the root; *īhalyaghoḥ* (Pā. 6-4-113 as read) gives *ī* for the *ā* of *śnā* before a consonant-initial *sārvadhātuka* that is *kit* or *ṅit* (here *hi* is *ṅit* by extension, *sārvadhātukam apit*): *gṛṇīhi*; because the word follows a non-finite word (*stomān*), *tiṅ atiṅaḥ* gives the all-unaccented.
+- **rādhasā**: "*rādhnoti anena iti rādhaḥ*", that by which (men) succeed, wealth; *sarvadhātubhyo 'sun* (Uṇ. 4-[?]2 as read [?]) after *rādha saṃsiddhau*; a stem in *s*; *asun* is *nit*, so initial-acute; instrumental singular.
+- **uṣaḥ**: vocative singular; the all-unaccented of the eighth chapter does not come, as *apādādau* forbids it at the head of a *pāda*; so the initial acute of the vocative by the sixth chapter: *uṣaḥ* is initial-acute. **|| 14 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 82 (PDF 98) reached; introduction, heading and Riks 48.1–48.13 complete; Rik 48.14's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar of *ūtaye* and *juhūre* are written; the rest of its grammar (*mahi*, *stomān*, *gṛṇīhi*, *rādhasā*, *uṣaḥ* …) is on pp. 82–83 and is NOT yet written.**
+### Rik 48.15 (pp. 83–86, PDF 99–102)
 
-**Next task:** continue at printed p. 82 (PDF 98, from the word *mahi*): insert "**Rik 48.14, continued** *(from p. 82)*" with the rest of the grammar of Rik 14; then Riks 15–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 98 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-098.jpg`). Flags for 48.13–14: the eight Ṛgveda citations on *viśvavāra* and the Nirukta citations all "as read [?]" with tentative glosses; the first word of 48.14's bhāṣya printed *voṣodevate* (read *uṣodevate*); the sentence on *hveñ*/*abhyasta* in the grammar outlined only. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 83; accents not reproduced)*
+
+> **उषो यदद्य भानुना वि द्वारावृणवो दिवः ।**
+> **प्र नो यच्छतादवृकं पृथु च्छर्दिः प्र देवि गोमतीरिषः ॥ १५ ॥**
+
+*uṣo yad adya bhānunā vi dvārāv ṛṇavo divaḥ |*
+*pra no yacchatād avṛkaṃ pṛthu cchardiḥ pra devi gomatīr iṣaḥ || 15 ||*
+
+**Pada-pāṭha** *(p. 84)*
+
+> उषः । यत् । अद्य । भानुना । वि । द्वारौ । ऋणवः । दिवः ।
+> प्र । नः । यच्छतात् । अवृकम् । पृथु । छर्दिः । प्र । देवि ।
+> गोऽमतीः । इषः ॥ १५ ॥
+
+*uṣaḥ | yat | adya | bhānunā | vi | dvārau | ṛṇavaḥ | divaḥ |*
+*pra | naḥ | yacchatāt | avṛkam | pṛthu | chardiḥ | pra | devi |*
+*go-matīḥ | iṣaḥ || 15 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 84)*
+
+> **हे उषस्त्वमद्यास्मिन्प्रभाते समये यद्यस्माद्भानुना प्रकाशेन दिवोऽन्तरिक्षस्य द्वारौ द्वारभूतौ पूर्वापरदिग्भागावन्धकारेणाच्छादितौ व्यृणवः विश्लिष्य प्राप्नोषि तस्मात्त्वं नोऽस्मभ्यं छर्दिस्तेजस्वि गृहं प्र यच्छतात् । देहि । कीदृशं छर्दिः । अवृकं हिंसकरहितं पृथु विस्तीर्णं । अपि च हे देवि देवनशीले गोमतीर्बहुभिर्गोभिर्युक्ता इषोऽन्नानि । प्रेत्युपसर्गस्यावृत्तेर्यच्छतादित्यनुषज्यते । प्रयच्छतात् । देहि । त्वदागमनस्यास्मद्रक्षणार्थत्वादस्मदभीष्टं गृहादिकं प्रयच्छेत्यर्थः । छर्दिरिति गृहनाम । छर्दिश्छदिरिति तन्नामसु पाठात् । ऋणवः । ऋणु गतौ । छान्दसे लङि सिपि तनादित्वादुप्रत्ययः । ततो व्यत्ययेन शपि गुणावादेशौ । शपः पित्त्वादनुदात्तत्वे उप्रत्ययस्वरः शिष्यते । यद्वृत्तयोगादनिघातः । दिवः । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं । प्र नः । उपसर्गाद्बहुलमिति बहुलवचनान्नसो णत्वाभावः । यच्छतात् । दाण् दाने । शपि पाघ्रेत्यादिना यच्छादेशः । अवृकं । नास्ति वृकोऽस्मिन्निति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । पृथु । प्रथ प्रख्याने । प्रथिम्रदिभ्रस्जां संप्रसारणं सलोपश्च । उ. १-२९ [?] । इति कुप्रत्ययः संप्रसारणं च । छर्दिरिति गृहनाम । उछृदिर् दीप्तिदेवनयोः । अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः । उ. २-१०८ [?] । इसिप्रत्ययः । लघूपधगुणः । प्रत्ययस्वरः ॥**
+
+*he uṣas tvam adyāsmin prabhāte samaye yad yasmād bhānunā prakāśena divo 'ntarikṣasya dvārau dvārabhūtau pūrvāparadiggbhāgāv andhakāreṇācchāditau vy ṛṇavaḥ viśliṣya prāpnoṣi tasmāt tvaṃ no 'smabhyaṃ chardis tejasvi gṛhaṃ pra yacchatāt | dehi | kīdṛśaṃ chardiḥ | avṛkaṃ hiṃsakarahitaṃ pṛthu vistīrṇaṃ | api ca he devi devanaśīle gomatīr bahubhir gobhir yuktā iṣo 'nnāni | prety upasargasyāvṛtter yacchatād ity anuṣajyate | prayacchatāt | dehi | tvadāgamanasyāsmadrakṣaṇārthatvād asmadabhīṣṭaṃ gṛhādikaṃ prayaccheyty arthaḥ | chardir iti gṛhanāma | chardiś chadir iti tannāmasu pāṭhāt | ṛṇavaḥ | ṛṇu gatau | chāndase laṅi sipi tanāditvād upratyayaḥ | tato vyatyayena śapi guṇāvādeśau | śapaḥ pittvād anudāttatve upratyayasvaraḥ śiṣyate | yadvṛttayogād anighātaḥ | divaḥ | ūḍidam ity ādinā vibhakter udāttatvaṃ | pra naḥ | upasargād bahulam iti bahulavacanān nasoṇatvābhāvaḥ | yacchatāt | dāṇ dāne | śapi pāghrety ādinā yacchādeśaḥ | avṛkaṃ | nāsti vṛko 'smin iti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvaṃ | pṛthu | pratha prakhyāne | prathimradibhrasjāṃ saṃprasāraṇaṃ salopaś ca | u. 1-29 [?] | iti kupratyayaḥ saṃprasāraṇaṃ ca | chardir iti gṛhanāma | ucchṛdir dīptidevanayoḥ | arciśucihusṛpichādichardibhya isiḥ | u. 2-108 [?] | isipratyayaḥ | laghūpadhaguṇaḥ | pratyayasvaraḥ ||*
+
+*(The reading "nasoṇatvābhāvaḥ" and the two Uṇādi numbers are as read, [?]; the words "chardiś chadir iti" in the Nighaṇṭu-reference are as printed and crowded.)*
+
+**Translation:** "O Uṣas, *adya*, today, at this time of dawn, *yat*, since, *bhānunā*, by your light, *divaḥ dvārau*, the two gates of the atmosphere — the east and west quarters, covered by darkness — *vy ṛṇavaḥ*, you have opened and reached; therefore, *naḥ*, to us, *pra yacchatāt*, give *chardiḥ*, a shining house. What kind of house? *Avṛkam*, free of harmers; *pṛthu*, spacious. And furthermore, O *devi*, you who sport, *gomatīḥ iṣaḥ*, foods joined with many cows — the *pra* is repeated: *pra* [*yacchatāt*], give. Since your coming is for our protection, give our desired house and the like. *Chardiḥ* is a name for 'house', being read among its names. *Ṛṇavaḥ*: root *ṛṇu gatau*; in the Vedic imperfect, *sip*; the *u*-suffix because of the *tanādi* class; then by exchange *śap*, with *guṇa* and *av*; *śap* is *pit* and unaccented, the accent of the *u*-suffix remains; no all-unaccented because of the *yad*-connexion. *Pra naḥ*: by *upasargād bahulam* the *ṇatva* of *nas* does not come. *Yacchatāt*: root *dāṇ dāne*; *yaccha* by *pāghrā…*. *Avṛkam*: 'in which there is no *vṛka*'; end-acute by *nañsubhyām*. *Pṛthu*: root *pratha prakhyāne*; the *ku*-suffix with *saṃprasāraṇa* and loss (Uṇ. 1-29 [?]). *Chardiḥ*: root *ucchṛdir dīptidevanayoḥ*; the suffix *isi* (Uṇ. 2-108 [?]); *guṇa* of the light penultimate; the suffix-accent."
+
+**Pratipadārtha** *(p. 84)* — "**uṣaḥ** — O goddess Uṣas; **adya** — now (at this time of dawn); **yat** — since; **bhānunā** — by your light; **divaḥ** — of the atmosphere; **dvārau** — the two gates (the east and west quarters, covered by darkness); **vi ṛṇavaḥ** — you have opened and come; **naḥ** — to us; **avṛkam** — free of harm (peaceful); **pṛthu** — spacious; **chardiḥ** — a shining dwelling-place; **pra yacchatāt** — give graciously; **devi** — O goddess; **gomatīḥ** — (many) with cattle; **iṣaḥ** — foods; **pra** (**yacchatāt**) — give."
+
+**Bhāvārtha** *(p. 85)* — "O goddess Uṣas, at this time of dawn you have come to do us good, with your light that destroys darkness, opening the two gates of the atmosphere, the eastern and the western quarters, covered by the darkness of night. Therefore give us a dwelling-place that is peaceful, spacious and full of light. O goddess, bestow on us also many cows and foods."
+
+**English Translation (the source's own, p. 85)** — "Ushas, since you have to-day set open the two gates of heaven with light, grant us spacious and secure shelter ; bestow upon us cattle and food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 85**
+- **dvārau** — "*dvārabhūtau pūrvāparadiggbhāgau andhakāreṇācchāditau*: the east and the west quarters, which serve as gates [of the atmosphere] and are covered by darkness. Before the time of dawn the east and west quarters are covered with the darkness of night. The goddess Uṣas, by driving away that darkness and so giving heaven (the atmosphere) its gates, the east and west quarters, as it were, filling them with her light so that all may see — the ṛṣi praises her thus: 'you open the closed gates'."
+- **avṛkam** — "since the word *vṛka* has the meanings 'thunderbolt' (Ni. 2-1[?]1 as read), 'thief' (Ni. 2-[?]9 as read), 'moon' (Ni. 5-[?]1 as read) and 'child' (Ni. 6-[?]1 as read), *avṛkam* may be said to mean 'without hindrance', 'free from thorns', 'without any fear', and so on."
+- **chardiḥ** — "since the word *chardiḥ* is read among the twenty-two [?] names of 'house' beginning *gayaḥ, kṛdaraḥ* (Ni. 3-[?] as read), *chardiḥ* means 'house, dwelling'."
+- **gomatīḥ iṣaḥ** — "the word *gomatī* is an adjective of *iṣaḥ*. Food joined with cows, that is, cows and food are to be given: this is the idea."
+
+**Vyākaraṇa-prakriyā** *(pp. 85–86 — grammar pages, noted briefly)*
+- **ṛṇavaḥ**: root *ṛṇu gatau*, *tanādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *laṅ* in the sense of the present; second person singular *sip*; the *tanādi* *u*; *ṛṇ + u + s*; again, by *vyatyayo bahulam*, *śap* comes; with *śap* following, *guṇa* and *avādeśa* come to the *u*-suffix: *ṛṇav + a + s*; *ru*, *visarga*: *ṛṇavaḥ*. Here *śap* is *pit* and unaccented by *anudāttau suppitau*; then the accent of the *u*-suffix, being the strong one, remains; *ṛṇavaḥ* is middle-acute. Because of the *yat* earlier (*yad adya*), by *yadvṛttān nityam* (Pā. 8-1-66 as read) the all-unaccented does not come.
+- **divaḥ**: the genitive singular of *div*; *ūḍidampadādyap…* (Pā. 6-1-171 as read) makes the non-*sarvanāmasthāna* case-ending after these acute; so the genitive ending is acute; *divaḥ* is end-acute.
+- **pra naḥ**: *ekājuttarapade ṇaḥ* (Pā. 8-4-12 as read) would give *ṇatva* since the cause is in the preceding member; but *upasargād bahulam* (vārttika) says "variously"; so, in some places, though the rule is optional it holds always; in some places, though it comes, it does not; in others, even beyond the sūtra's sense, the effect arises: this is the opinion of the ancients; so here *nas* takes no *ṇatva*.
+- **yacchatāt**: root *dāṇ dāne*, *bhvādi*; *loṭ*, second person singular *sip*; *śap* comes; *tuhyos tātaṅ āśiṣy anyatarasyām* (Pā. 7-1-35 as read) gives *tātaṅ* for *sip* and *hi*: *tāt*; *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* (Pā. 7-3-78 as read) gives *yaccha* for *dā*; *yacchatāt*; since it follows a non-finite word, *tiṅ atiṅaḥ* makes it all-unaccented.
+- **avṛkam**: "*nāsti vṛkaḥ asmin*", where there is no *vṛka*; a bahuvrīhi; the first member's natural accent would come, but *nañsubhyām* (Pā. 6-2-172 as read) gives the end-acute to the second member; *avṛkam* is end-acute.
+- **pṛthu**: root *prathaḥ prakhyāne*, *bhvādi* (the *curādi* too); *prathimradibhrasjāṃ saṃprasāraṇaṃ salopaś ca* (Uṇ. 1-[?]8 as read [?]) gives the suffix *ku* and *saṃprasāraṇa* of the root: the *r* of *prath* becomes *ṛ*; the *u* of *ku* remains: *pṛthu*.
+- **chardiḥ**: *chardis* is a name for a house; root *ucchṛdir dīptidevanayoḥ*, *rudhādi*; *arciśucihusṛpichādichardibhya isiḥ* (Uṇ. 2-[?]08 as read [?]) gives the suffix *isi*; in the root the *u* drops by the *it*-letter name; the root is *irit*; *chṛd + is*; *pugantalaghūpadhasya ca* gives *guṇa* to the light penultimate; the *s* becomes *ru*, *visarga*; *r*-following *guṇa*: *chardiḥ*; the print says that by the suffix-accent, the word *chardi* is end-acute [?]. **|| 15 ||**
+
+---
+
+### Rik 48.16 (pp. 87–, PDF 103–)
+
+**Saṃhitā-pāṭha** *(p. 87; accents not reproduced)*
+
+> **सं नो राया बृहता विश्वपेशसा मिमिक्ष्वा समिळाभिरा ।**
+> **सं द्युम्नेन विश्वतुरोषो महि सं वाजैर्वाजिनीवति ॥ १६ ॥**
+
+*saṃ no rāyā bṛhatā viśvapeśasā mimikṣvā sam iḷābhir ā |*
+*saṃ dyumnena viśvaturoṣo mahi saṃ vājair vājinīvati || 16 ||*
+
+**Pada-pāṭha** *(p. 87)*
+
+> सम् । नः । राया । बृहता । विश्वऽपेशसा । मिमिक्ष्व । सम् । इळाभिः । आ ।
+> सम् । द्युम्नेन । विश्वऽतुरा । उषः । महि । सम् । वाजैः । वाजिनीऽवति ॥ १६ ॥
+
+*sam | naḥ | rāyā | bṛhatā | viśva-peśasā | mimikṣva | sam | iḷābhiḥ | ā |*
+*sam | dyumnena | viśva-turā | uṣaḥ | mahi | sam | vājaiḥ | vājinī-vati || 16 ||*
+
+*(The Saṃhitā prints* mimikṣvā*, with a long* ā*, and* viśvaturoṣo*, which the Pada divides* mimikṣva | sam … ā *and* viśvaturā | uṣaḥ*.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 87–88)*
+
+> **हे उषो नोऽस्मान्रायया धनेन सं मिमिक्ष्व । संसिञ्च । संयोजयेत्यर्थः । कीदृशेन धनेन । बृहता प्रभूतेन विश्वपेशसा । पेश इति रूपनाम । बहुविधरूपयुक्तेन । तथेळाभिरा गोभिश्चास्मान्सं मिमिक्ष्व । इळेति गोनाम । इळा जगतीति तन्नामसु पाठात् । आकारः समुच्चयार्थः पदान्ते वर्तमानत्वात् । उक्तं च । एतस्मिन्नेवार्थे देवेभ्यश्च पितृभ्य इत्याकारः । नि. १-४ [?] इति । किंच हे महि महनीये उषोदेवते द्युम्नेन यशसा सं मिमिक्ष्व । द्युम्नं द्योततेर्यशो वाऽन्नं वेति यास्कः । नि. ५-५ [?] । कीदृशेन द्युम्नेन । विश्वतुरा सर्वेषां शत्रूणां हिंसकेन । तथा हे वाजिनीवति अन्नसाधनभूतक्रियायुक्ते वाजैरन्नैरस्मान्सं मिमिक्ष्व । अन्नं वै वाजः । शत. ब्रा. ९-३-४-१ [?] इति श्रुत्यन्तरात् ॥ रायया । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं । बृहता । बृहन्महतोरुपसंख्यानमिति विभक्तिरुदात्ता । विश्वपेशसा । विश्वानि पेशांसि यस्यासौ विश्वपेशाः । बहुव्रीहौ विश्वं संज्ञायामिति व्यत्ययेनासंज्ञायामपि पूर्वपदान्तोदात्तत्वं । यद्वा मरुद्वृधादिर्द्रष्टव्यः । मिमिक्ष्व । मिह सेचने । व्यत्ययेनात्मनेपदं । लोटि बहुलं छन्दसीति शपः श्लुः । द्विर्भावहलादिशेषौ । ढत्वकत्वषत्वानि प्रत्ययस्वरस्य सतिशिष्टत्वात्स एव शिष्यते । पूर्वपदस्यासमानवाक्यस्थत्वात्तिङ्ङतिङ इति निघातो न भवति । समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्या इति वचनात् । विश्वतुरा । तूर्वतीति तूः । तुर्वी हिंसार्थः । क्विप्छेति क्विप् । रात्ल्लोप इति वलोपः । विश्वेषां तूर्विश्वतूः । समासस्येत्यन्तोदात्तत्वं । वाजिनीवति । वाजोऽन्नमस्या अस्तीति वाजिनी क्रिया । तादृशी क्रिया यस्याः सा तथोक्ता ॥ १६ [?] ॥**
+
+*he uṣo no 'smān rāyayā dhanena saṃ mimikṣva | saṃsiñca | saṃyojayety arthaḥ | kīdṛśena dhanena | bṛhatā prabhūtena viśvapeśasā | peśa iti rūpanāma | bahuvidharūpayuktena | tatheḷābhir ā gobhiś cāsmān saṃ mimikṣva | iḷeti gonāma | iḷā jagatīti tannāmasu pāṭhāt | ākāraḥ samuccayārthaḥ padānte vartamānatvāt | uktaṃ ca | etasminn evārthe devebhyaś ca pitṛbhya ity ākāraḥ | ni. 1-4 [?] iti | kiṃca he mahi mahanīye uṣodevate dyumnena yaśasā saṃ mimikṣva | dyumnaṃ dyotater yaśo vānnaṃ veti yāskaḥ | ni. 5-5 [?] | kīdṛśena dyumnena | viśvaturā sarveṣāṃ śatrūṇāṃ hiṃsakena | tathā he vājinīvati annasādhanabhūtakriyāyukte vājair annair asmān saṃ mimikṣva | annaṃ vai vājaḥ | śata. brā. 9-3-4-1 [?] iti śrutyantarāt || rāyayā | ūḍidam ity ādinā vibhakter udāttatvaṃ | bṛhatā | bṛhanmahator upasaṃkhyānam iti vibhaktir udāttā | viśvapeśasā | viśvāni peśāṃsi yasyāsau viśvapeśāḥ | bahuvrīhau viśvaṃ saṃjñāyām iti vyatyayenāsaṃjñāyām api pūrvapadāntodāttatvaṃ | yadvā marudvṛdhādir draṣṭavyaḥ | mimikṣva | miha secane | vyatyayenātmanepadaṃ | loṭi bahulaṃ chandasīti śapaḥ śluḥ | dvirbhāvahalādiśeṣau | ḍhatvakatvaṣatvāni pratyayasvarasya satiśiṣṭatvāt sa eva śiṣyate | pūrvapadasyāsamānavākyasthatvāt tiṅ atiṅa iti nighāto na bhavati | samānavākye nighātayuṣmadasmadādeśā vaktavyā iti vacanāt | viśvaturā | tūrvatīti tūḥ | turvī hiṃsārthaḥ | kvip ceti kvip | rāllopa iti valopaḥ | viśveṣāṃ tūr viśvatūḥ | samāsasyety antodāttatvaṃ | vājinīvati | vājo 'nnam asyā astīti vājinī kriyā | tādṛśī kriyā yasyāḥ sā tathoktā || 16 [?] ||*
+
+*(Crowded: the print's* iḷābhir ā*, the Nirukta and Śatapatha numerals, the Nirukta citation in the middle, and the closing numeral, which is printed so that it reads like "5" [?]; all as read.)*
+
+**Translation:** "O Uṣas, *naḥ*, us, *rāyā*, with wealth, *saṃ mimikṣva*, sprinkle, join. What kind of wealth? *Bṛhatā*, abundant, *viśvapeśasā*, *peśa* being a name for form: of many kinds of form. And likewise *iḷābhiḥ ā*, with cows, *saṃ mimikṣva*, join us. *Iḷā* is a name for cow, being read among its names (*iḷā jagatī*). The *ā* has the sense 'and', since it stands at the end of a word; and it is said so in the Nirukta: 'in the same sense, *devebhyaś ca pitṛbhyaḥ*, the *ā*' (Ni. 1-4 [?]). Furthermore, O *mahi*, O worshipful goddess Uṣas, *dyumnena*, with fame, *saṃ mimikṣva* — 'dyumna is from *dyotate* "to shine": fame or food', says Yāska (Ni. 5-5 [?]). What kind of fame? *Viśvaturā*, which injures all enemies. And O *vājinīvati*, you who are endowed with activity that is the means of food, *vājaiḥ*, with foods, *saṃ mimikṣva*, join us: 'food is *vāja*', by another Śruti (Śat. Brā. 9-3-4-1 [?]). *Mimikṣva*: root *miha secane*; the *ātmanepada* by exchange; *ślu* for *śap* by *loṭi bahulaṃ chandasi*; the doubling and the remaining consonant; *ḍhatva*, *kutva*, *ṣatva*; the suffix-accent alone remains; because the first member is not in the same sentence, *tiṅ atiṅaḥ* does not make it all-unaccented, by the statement that, in the same sentence, the all-unaccented and the substitutes for *yuṣmad*/*asmad* are to be said. *Viśvaturā*: '*tūḥ*', one who crushes (*tūrvati*), root *turvī hiṃsārthaḥ*; *kvip*; *v* dropped by *rāllopaḥ*; 'the crusher of all' is *viśvatūḥ*; end-acute of a compound. *Vājinīvati*: 'she who has *vāja*, food, is *vājinī*, activity; she who has such activity is so called'."
+
+**Pratipadārtha** *(p. 88)* — "**uṣaḥ** — O goddess Uṣas; **naḥ** — us; **bṛhatā** — exceedingly abundant; **viśvapeśasā** — of many forms; **rāyā** — with wealth; **saṃ mimikṣva** — join (so also); **iḷābhiḥ ā** — with many cows; **saṃ** (**mimikṣva**) — join; **mahi** — O venerable goddess Uṣas; **viśvaturā** — with fame that crushes all enemies (gained by conquering them); **saṃ mimikṣva** — join; **vājinīvati** — O goddess endowed with activity that is the means of food; **vājaiḥ** — with foods; (**saṃ mimikṣva**) — unite (us)."
+
+**Bhāvārtha** *(p. 88)* — "O venerable goddess Uṣas, giver of food, favour us with abundant wealth of many forms, with many cows, with fame that comes of conquering all enemies, and with foods."
+
+**English Translation (the source's own, p. 88)** — "Adorable Ushas, associate us with (grant us) different kinds of wealth liberally ; O giver of food, grant us abundant cattle and fame which can be got by conquering our enemies."
+
+*(The Special Topics of Rik 16 begin at the foot of p. 88 and run on to p. 89; its grammar and the close of Sūkta 48 follow; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 88 (PDF 104) reached; introduction, heading and Riks 48.1–48.15 complete; Rik 48.16 (the last) written up to the source's English; its Special Topics begin at the foot of p. 88 and continue on p. 89, then its grammar and the close of Sūkta 48 — NOT yet written.**
+
+**Next task:** continue at printed p. 88 foot / p. 89 (PDF 104–105): insert "**Rik 48.16, continued** *(from p. 88 foot)*" with the Special Topics (*mukhyābhiprāya*, *saṃ mimikṣva* …), the grammar and the close of Sūkta 48 (look for a closing sentence "illige 48neya sūktavu …", my summary of the sūkta, and the start of Sūkta 49 — contents table puts Sūkta 49 at printed p. 91); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 104 -l 130 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-104.jpg`). Flags for 48.15–16: Uṇādi/Nirukta numerals as read [?]; the print's remark that *chardiḥ* is end-acute [?]; 48.16's closing bhāṣya numeral misprinted. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
