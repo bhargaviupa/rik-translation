@@ -7462,10 +7462,126 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 42.8, continued** *(from p. 459)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 459**
+- **sūyavasam** = *śobhanaṃ yavasaṃ yasmin deśe sa sūyavaso deśaḥ* — "a place that has excellent grass; a country rich in fodder, where cattle can graze."
+- **navajvāraḥ** — "*jvara roge*; *jvara eva jvāraḥ*; *navaś cāsau jvāraś ca navajvāraḥ*: a new, or an excessive, heat; a burning, a scorching with the heat of the sun."
+
+**Vyākaraṇa-prakriyā** *(p. 459 — grammar page, noted briefly)*
+- **sūyavasam**: "*yavasa* means grass; here herbs are also meant. *Śobhanaḥ* = good; *yavasaḥ* = herbs: 'in which country that is'. The long vowel of the first member by *nipātasya ca*; by *kratvādayaś ca* [Pā. 6-2-118 as read] the first-syllable acute of the latter member may be said."
+- **navajvāraḥ**: *jvara roge*; *ghañ* in the abstract; *upadhāvṛddhi*; '*navaś cāsau jvāraś ca*'; by *thāthaghañktājabitrakāṇām* [Pā. 6-2-144 as read] the latter member is final-acute. Rik 8 ends here (*|| 8 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 458 (PDF 472) reached; introduction, heading and Riks 42.1–42.7 complete; Rik 42.8 written through its source's English (Special Topics and grammar begin on p. 459).**
+### Rik 42.9 (pp. 459–462, PDF 473–476)
 
-**Next task:** continue at printed p. 459 (PDF 473) with the Special Topics and grammar of Rik 42.8, then Riks 9–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 473 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 459; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) introduction: Gṛhya-sūtra reference 3-8-10 (Sanskrit) vs 3-2-10 (Kannada) [?]; Anukramaṇikā clause "*pauṣṇam*" doubtful; (3) Rik 1: bhāṣya crowded and partly garbled in the middle (translation tentative); the Special Topics essay on Pūṣan quotes eight Ṛgveda passages untranslated in the source — my glosses are tentative, all reference numerals [?]; the *pra ṇaḥ* argument summarized; (4) Rik 2: the *duḥśevaḥ* suffix-name and the *bahulaṃ chandasi* vārttika crowded [?]; (5) Rik 3: the sūtra naming *ini* for *paripanthin* and the *rāt sasya* clause crowded [?]; English lacks a comma; (6) Rik 4: the thief-name list "*tṛpsuḥ takvā …*" abbreviated; the source's English is overprinted ("both stenls") [scan defect]; (7) Rik 5: one word after "*aṅgiraḥprabhṛtīn*" crowded [?]; the English sentence runs across two pages; (8) Rik 6: the source's English heading prints "English Translaion" [sic]; the Pada has *su-sanā* against the Saṃhitā's *suṣaṇā* as printed; the *viśvasaubhaga* vṛddhi discussion (pp. 453–454) is characterized only; (9) Rik 7: the root-name *ṣaśca* and the phrase "*saścim apy eke paṭhanti*" crowded [?]; (10) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
+> **शग्धि पूर्धि प्र यंसि च शिशीहि प्रास्युदरम् ।**
+> **पूषन्निह क्रतुं विदः ॥ ९ ॥**
+
+*śagdhi pūrdhi pra yaṃsi ca śiśīhi prāsy udaram |*
+*pūṣann iha kratuṃ vidaḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 459)*
+
+> शग्धि । पूर्धि । प्र । यंसि । च । शिशीहि । प्रासि । उदरम् ।
+> पूषन् । इह । क्रतुम् । विदः ॥ ९ ॥
+
+*śagdhi | pūrdhi | pra | yaṃsi | ca | śiśīhi | prāsi | udaram |*
+*pūṣan | iha | kratum | vidaḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 460)*
+
+> **हे पूषन् शग्धि । अस्माननुग्रहीतुं शक्तो भव । पूर्धि । अस्मद्गृहं धनेन पूरय । किंच प्र यंसि । अन्यदप्यपेक्षितं वस्तु प्रयच्छ । शिशीहि । अस्मान्सर्वेषु मध्ये तीक्ष्णीकुरु । तेजस्विनः कुर्वित्यर्थः । उदरमस्मदीयं प्रासि । मृष्टान्नेन सोमरसेन वा पूरय । अन्यत्पूर्ववत् ॥**
+
+*he pūṣan śagdhi | asmān anugrahītuṃ śakto bhava | pūrdhi | asmadgṛhaṃ dhanena pūraya | kiṃca pra yaṃsi | anyad apy apekṣitaṃ vastu prayaccha | śiśīhi | asmān sarveṣu madhye tīkṣṇīkuru | tejasvinaḥ kurv ity arthaḥ | udaram asmadīyaṃ prāsi | mṛṣṭānnena somarasena vā pūraya | anyat pūrvavat ||*
+
+**Translation:** "O Pūṣan, *śagdhi* — be able to favour us. *Pūrdhi* — fill our house with wealth. And *pra yaṃsi* — give also any other thing that is wished for. *Śiśīhi* — sharpen us in the midst of all: make us full of vigour. *Udaram prāsi* — fill our belly with delicious food or with Soma juice. The rest is as before [*pūṣann iha kratuṃ vidaḥ*]."
+
+> **शग्धि । शक्ल् शक्तौ । लोटो हिः । स्वादिभ्यः श्नुः । बहुलं छन्दसीति विकरणस्य लुक् । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । इति धिरादेशः । हेरपित्त्वादनुदात्तत्वे धातुस्वरः । पूर्धि । प्या पालनपूरणयोः । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । पूर्ववद्विकरणस्य लुक् । उदोष्ठ्यपूर्वस्य । पा. ७-१-१०२ । इत्युत्वं । हलि च । पा. ८-२-७७ । इति दीर्घः । तिङः परत्वान्निघाताभावः । यंसि । यम उपरमे । लोडर्थे लेट् । पूर्ववद्विकरणस्य लुक् । निघातः । शिशीहि । शो तनूकरणे । लोटि बहुलं छन्दसीत्यभ्यासस्येत्वं । ईहल्यघोः । पा. ६-४-११३ । इतीत्वं । प्रत्ययस्वरः । प्रासि । प्रा पूरणे । अदादित्वाच्छपो लुक् । सिपः पित्त्वादनुदात्तत्वे धातुस्वरः ॥ ९ ॥**
+
+*śagdhi | śakla śaktau | loṭo hiḥ | svādibhyaḥ śnuḥ | bahulaṃ chandasīti vikaraṇasya luk | hujhalbhyo her dhiḥ | pā. 6-4-101 | iti dhirādeśaḥ | her apittvād anudāttatve dhātusvaraḥ | pūrdhi | pyā pālanapūraṇayoḥ | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | pūrvad vikaraṇasya luk | udoṣṭhyapūrvasya | pā. 7-1-102 | ity utvaṃ | hali ca | pā. 8-2-77 | iti dīrghaḥ | tiṅaḥ paratvān nighātābhāvaḥ | yaṃsi | yama uparame | loḍarthe leṭ | pūrvavad vikaraṇasya luk | nighātaḥ | śiśīhi | śo tanūkaraṇe | loṭi bahulaṃ chandasīty abhyāsasyetvaṃ | īhalyaghoḥ | pā. 6-4-113 | itītvaṃ | pratyayasvaraḥ | prāsi | prā pūraṇe | adāditvāc chapo luk | sipaḥ pittvād anudāttatve dhātusvaraḥ || 9 ||*
+
+*(The rule-name "hujhalbhyo her dhiḥ" and its number are as read [?], and the stretch on* śagdhi*'s accent is crowded [?].)*
+
+**Translation of the grammatical tail** *(characterized)*: *Śagdhi* — root *śakla śaktau*; the substitute *hi* for *loṭ*; *śnu* from the *svādi* class; elided by *bahulaṃ chandasi*; *dhi* for *hi* by *hujhalbhyo her dhiḥ* [Pā. 6-4-101 [?]]; since *hi* is not *pit* the root accent remains. *Pūrdhi* — root *pyā pālanapūraṇayoḥ*; *dhi* by *śruśṛṇupṛkṛvṛbhyaś chandasi*; the *vikaraṇa* elided as before; *u* for the *ṛ* after a labial by *udoṣṭhyapūrvasya* [Pā. 7-1-102]; lengthening by *hali ca* [Pā. 8-2-77]; no *nighāta* since it follows a *tiṅ*. *Yaṃsi* — root *yama uparame*; *leṭ* in the sense of *loṭ*; *vikaraṇa* elided as before; unaccented. *Śiśīhi* — root *śo tanūkaraṇe*; *i* in the reduplicate by *bahulaṃ chandasi*; *ī* by *īhalyaghoḥ* [Pā. 6-4-113]; the accent of the suffix. *Prāsi* — root *prā pūraṇe*; *śap* elided because of the *adādi* class; since *sip* is *pit* the root accent remains.
+
+**Pratipadārtha** *(p. 460)* — "**pūṣan** — O Pūṣan; **śagdhi** — be able to favour us; **pūrdhi** — fill our house with abundant wealth; **pra yaṃsi** — give well the good things that we wish; **śiśīhi** — make us full of vigour in the midst of all; **udaram** — our belly; **prāsi** — fill with delicious food; **iha** — on this road; **kratum** — the way of protecting [us]; **vidaḥ** — know."
+
+**Bhāvārtha** *(p. 460)* — "O Pūṣan, be able to favour us. Fill our house with abundant wealth. Provide for us the good things that we wish. Make us full of vigour in the midst of all. Fill our belly with delicious food and give us satisfaction. Know how to protect us on this road, and protect us."
+
+**English Translation (the source's own, p. 460)** — "Be favourable to us, fill us wtth [sic] plenty, give us all good things, make us robust and fill our stomachs ; O Pusham [sic], know how to protect us on this journey."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 461** — "In this ṛk the ṛṣi prays that wealth, food and desired things be given to him. Although only the verbs *śagdhi*, *pūrdhi*, *yaṃsi*, *śiśīhi* and *prāsi*, which suggest this sense, are used, one must supply in thought the nouns suited to them."
+
+**Vyākaraṇa-prakriyā** *(pp. 461–462 — grammar pages, noted briefly)*
+- **śagdhi**: root *śakla śaktau* [print: *śaklṛ śaktau*]; *loṭ*, *sip*, *hi*; *svādibhyaḥ śnuḥ* [Pā. 3-1-73]: *śnu*; *bahulaṃ chandasi* [Pā. 2-4-73 as read] elides it; *hujhalbhyo her dhiḥ* — हुझल्भ्यो हेर्धिः — [Pā. 6-4-101 as read]: *dhi* for *hi* after *hu* or a root ending in a *jhal*; *hi* is *apit*, so *ṅit*; *anudāttau suppitau* gives it no accent so the root accent stands; by the suffix accent it would otherwise be acute.
+- **pūrdhi**: *pyā pālanapūraṇayoḥ*, *loṭ*, *sip*, *hi*; the *vikaraṇa* elided as before. "But this root is read both in the *juhotyādi* and in the *kryādi*: if the *juhotyādi* is accepted, *śap* is elided in place of *ślu*; if the *kryādi*, *śnā* is elided." *Śruśṛṇupṛkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — [Pā. 6-4-102 as read]: *dhi* for *hi*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य — [Pā. 7-1-102 as read]: the *ṛ* ending a stem preceded by a labial letter (*pa*-class) becomes *ur* [print: *u* and *ur*]: *pur + dhi*; *hali ca* — हलि च — [Pā. 8-2-77 as read]: the penultimate *ik* of a root ending in *r* or *v* before a consonant is lengthened: *pūrdhi*; since it follows *śagdhi*, a verb, it is not wholly unaccented.
+- **yaṃsi**: *yamu uparame*, first class; *leṭ* in the sense of *loṭ*; *sip*, *śap*, elided as before; *naś cāpadāntasya jhali* [Pā. 8-3-24 as read] *anusvāra* for *m*; *tiṅ atiṅaḥ* wholly unaccented.
+- **śiśīhi**: *śo tanūkaraṇe*, *divādi*; *ādeca upadeśe 'śiti* [Pā. 6-1-45 as read]: *ā* for *o*; *loṭ*, *hi*; *divādibhyaḥ śyan*: *śyan*; *bahulaṃ chandasi* [Pā. 2-4-76 as read] *ślu* for *śyan*; *ślau*: doubling; *bahulaṃ chandasi* [Pā. 7-4-78 as read]: *i* for the *ā* of the reduplicate; *ubhe abhyastam* [Pā. 6-1-5 as read]: the doubled word is called *abhyasta*; *śnābhyastayor ātaḥ* the loss of *ā*; *hi* is *apit*; accent of the suffix.
+- **prāsi**: *prā pūraṇe*, *adādi*; *laṭ* in the sense of *loṭ*; *adiprabhṛtibhyaḥ śapaḥ* [Pā. 2-4-72] *luk*; *sip* is *pit*, so *tāsyanudāttet…* makes it unaccented; the root accent stands. Rik 9 ends here (*|| 9 ||*).
+
+---
+
+### Rik 42.10 (pp. 462–464, PDF 476–478)
+
+**Saṃhitā-pāṭha** *(p. 462; accents not reproduced)*
+
+> **न पूषणं मेथामसि सूक्तैरभि गृणीमसि ।**
+> **वसूनि दस्ममीमहे ॥ १० ॥**
+
+*na pūṣaṇaṃ methāmasi sūktair abhi gṛṇīmasi |*
+*vasūni dasmam īmahe || 10 ||*
+
+**Pada-pāṭha** *(p. 462)*
+
+> न । पूषणम् । मेथामसि । सुऽउक्तैः । अभि । गृणीमसि ।
+> वसूनि । दस्मम् । ईमहे ॥ १० ॥
+
+*na | pūṣaṇam | methāmasi | su-uktaiḥ | abhi | gṛṇīmasi |*
+*vasūni | dasmam | īmahe || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 462)*
+
+> **पूषणं देवं न मेथामसि । वयं न तु निन्दामः । किंतु सूक्तैर्वेदगतैरभि गृणीमसि । सर्वत्र स्तुमः । दस्मं दर्शनीयं पूषणं प्रति वसूनि धनानीमहे । याचामहे ॥ मेथामसि । मेथृ मेधाहिंसनयोः । लटीदन्तो मसिरिति मस इकारागमः । सूक्तैः । सुष्ठु स्तुवते देवताः प्रकाशयन्तीति सूक्तानि । क्तिच्क्तौ च सञ्ज्ञायामिति कर्तरि क्तः । वचि स्वपीत्यादिना सम्प्रसारणं । थाथादिस्वरः । यद्वा । कर्मणि निष्ठा । सूपमानात् क्तः । पा. ६-२-१३९ । इत्युत्तरपदान्तोदात्तत्वं । गृणीमसि । गृ शब्दे । प्वादीनां ह्रस्व इति ह्रस्वत्वं । इदन्तो मसिः । दस्मं । इषियुधीन्धिदसिश्याधूसूभ्यो मक् । उ. १-१४४ [?] । इति मक्प्रत्ययः ॥ १० ॥**
+
+*pūṣaṇaṃ devaṃ na methāmasi | vayaṃ na tu nindāmaḥ | kiṃtu sūktair vedagatair abhi gṛṇīmasi | sarvatra stumaḥ | dasmaṃ darśanīyaṃ pūṣaṇaṃ prati vasūni dhanānīmahe | yācāmahe || methāmasi | methṛ medhāhiṃsanayoḥ | laṭīdanto masir iti masa ikārāgamaḥ | sūktaiḥ | suṣṭhu stuvate devatāḥ prakāśayantīti sūktāni | ktickktau ca saṃjñāyām iti kartari ktaḥ | vaci svapīty ādinā samprasāraṇaṃ | thāthādisvaraḥ | yadvā | karmaṇi niṣṭhā | sūpamānāt ktaḥ | pā. 6-2-139 | ity uttarapadāntodāttatvaṃ | gṛṇīmasi | gṛ śabde | pvādīnāṃ hrasva iti hrasvatvaṃ | idanto masiḥ | dasmaṃ | iṣiyudhīndhidasiśyādhūsūbhyo mak | u. 1-144 [?] | iti makpratyayaḥ || 10 ||*
+
+**Translation:** "We do not *methāmasi*, reproach, the god Pūṣan; we do not revile [him]. Rather, *sūktaiḥ*, with the sūktas that belong to the Veda, *abhi gṛṇīmasi*, we praise [him] everywhere. *Dasmam*, to the beautiful-to-see Pūṣan, *vasūni*, riches, *īmahe*, we pray. *Methāmasi*: root *methṛ medhāhiṃsanayoḥ*; the augment *i* for *mas* by *idanto masiḥ*. *Sūktaiḥ*: 'those that well praise, that reveal the deities': *sūktāni*; *kta* in the agent sense by *ktickktau ca saṃjñāyām*; *saṃprasāraṇa* by *vacisvapī…*; the accent by *thāthādi…*; or *niṣṭhā* in the passive sense: by *sūpamānāt ktaḥ* [Pā. 6-2-139] the latter member is final-acute. *Gṛṇīmasi*: root *gṝ śabde*; shortening by *pvādīnāṃ hrasvaḥ*; *mas* taking *i*. *Dasmam*: the suffix *mak* by *iṣiyudhīndhidasiśyādhūsūbhyo mak* [Uṇ. 1-144 [?]]."
+
+**Pratipadārtha** *(p. 463)* — "**pūṣaṇam** — Pūṣan; **na methāmasi** — we do not revile; **sūktaiḥ** — with divine words; **abhi gṛṇīmasi** — we praise [him] on all sides; **dasmam** — the handsome god Pūṣan; **vasūni** — wealth (for wealth); **īmahe** — we pray."
+
+**Bhāvārtha** *(p. 463)* — "We do not revile the god Pūṣan. We praise him on all sides with divine words. We sing the praise of his handsome form. We ask him for wealth."
+
+**English Translation (the source's own, p. 463)** — "We do not reproach Pushan, but praise him with hymus [sic] ; We solicit the good looking ( Pushan ) for riches."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 463**
+- "The sense of this ṛk is easy to grasp; there is nothing special in it. The intention too is clear."
+- **na methāmasi** — "*methṛ medhāhiṃsanayoḥ*; *na nindāmaḥ*: we do not revile, we do not find fault."
+- **abhi gṛṇīmasi** — "*gṝ śabde*; *sarvatra stumaḥ*: we praise specially."
+- **dasmam** = *darśanīyam* — "beautiful to look at."
+- **īmahe** = *yācāmahe* — "since the word *īmahe* is read among the seventeen names of the action of begging, beginning with *yāmi*, *īmahe* means 'we beg, we pray'."
+
+**Vyākaraṇa-prakriyā** *(pp. 463–464 — grammar pages, noted briefly)*
+- **methāmasi**: *methṛ medhāhiṃsanayoḥ*; in the first class it is read *midṛ medṛ medhāhiṃsanayoḥ* [as read]; *svāmin* [the commentator] thinks the root ends in *th*; *laṭ*, *mas*; *śap*; *idanto masi* gives the augment *ik* [*i*]; *ato dīrgho yañi* — अतो दीर्घो यञि — [Pā. 7-3-101 as read] the long vowel: *methāmasi*; wholly unaccented.
+- **sūktaiḥ**: "*suṣṭhu bruvate = well praise the deities*": the root *brūñ vyaktāyāṃ vāci*, *adādi*; *ktic ktau ca saṃjñāyām* [Pā. 3-3-174 as read] *kta* in the sense of the agent; *bruvo vaciḥ* gives the substitute *vaci*; *vacisvapiyajādīnāṃ kiti* [Pā. 6-1-15 as read] the *saṃprasāraṇa*, with *pūrvarūpa* and the long vowel by *savarṇadīrgha*; *thāthaghañktājabitrakāṇām* [Pā. 6-2-144 as read] gives the final-acute for the *kta*-ending latter member. Or, "well spoken by the gods" [*suṣṭhu ucyante devatāḥ ebhiḥ*: by these the gods are well praised]; or in the passive, *niṣṭhā*, with the form as before; by *sūpamānāt ktaḥ* [Pā. 6-2-139 as read], the latter member after the preverb *su*, a *kāraka*, or a word of comparison, ending in *kta*, is final-acute.
+- **gṛṇīmasi**: *gṝ śabde*, *kryādi*; *laṭ*, *mas*, *śnā*; *pvādīnāṃ hrasvaḥ* — प्वादीनां ह्रस्वः — [Pā. 7-3-80 as read]: shortening of the root; *īhalyaghoḥ* — ई हल्यघोः — [Pā. 6-4-113 as read]: *ī* for the *ā* of *śnā* before a *kit* or *ṅit* *sārvadhātuka* beginning with a consonant; *idanto masiḥ* the augment *i*.
+- **dasmam**: *dasu upakṣaye*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* — इषियुधीन्धिदसिश्याधूसूभ्यो मक् — [Uṇ. 1-144 as read [?]]: after the roots *iṣa gatau*, *yudha saṃprahāre*, *ñi indhī dīptau*, *dasu upakṣaye*, *śyai gatau*, *dhūñ kampane* and *sūṅ prāṇigarbhavimocane* the suffix *mak*; hence the suffix accent. Rik 10 ends here (*|| 10 ||*).
+
+---
+
+**Close of Sūkta 42.** Printed on p. 464 after the grammar: "*illige 42ne sūkta mugidudu*" — "Here the 42nd sūkta has ended." *(Numeral read as "42".)* With it the Seventh Sūkta of the Eighth Anuvāka (printed pp. 435–464) ends. On the same leaf, **p. 464 foot = PDF 478**, follows the large title "*nalavattamūraneya sūktavu*" ("the forty-third sūkta") with the Sanskrit introduction beginning "*kadrudrāya*…", which runs over to p. 465 (PDF 479) together with the Kannada anuvāda and the heading of **Sūkta 43** (*kad rudrāya*, nine Riks, ṛṣi Kaṇva Ghaura; deity Rudra for Riks 1, 3, 4, 6, Mitra–Varuṇa for Rik 5 [as read], Soma for 7–9; metre Gāyatrī for Riks 1–8 and Anuṣṭubh for Rik 9). These are **not yet written** and belong to the next session. *(The 43rd sūkta thus begins at the foot of p. 464, not at p. 465 as the old contents table says.)*
+
+**Summary of Sūkta 42 (my note).** Ten Riks to Pūṣan, the lord of roads and protector of travellers, to be recited when setting out on a long journey. Rik 1 asks him to bring the travellers across the road, destroy the obstructing sin and go before them; Riks 2–4 ask him to drive away and trample the hostile robber and deceiver who points the wrong road; Rik 5 recalls his past protection of the ancestors; Rik 6 asks for gold and other wealth; Riks 7–8 ask for a safe road, leading to good grass and without new heat or trouble; Rik 9 asks for favour, plenty and food; Rik 10 says the singers do not reproach him but praise him and beg for wealth. All ten Riks are written in full; the long Special Topics essay on Pūṣan (Rik 1) and the crowded grammar pages are characterized only where stated.
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–42 COMPLETE (printed pp. 1–464 = PDF 15–478; Sūkta 42 occupies pp. 435–464 and ends with a printed closing note on p. 464, the foot of which carries the title and the beginning of the introduction of Sūkta 43).**
+
+**Next task:** Sūkta 43 (*kad rudrāya*, Anuvāka 8, the eighth sūkta of the anuvāka, 9 Riks, ṛṣi Kaṇva Ghaura; deities: Rudra for Riks 1, 3, 4, 6; Mitra–Varuṇa for Rik 5; Soma for Riks 7–9 — as read, doubtful; metre Gāyatrī for Riks 1–8, Anuṣṭubh for Rik 9), starting at the foot of printed p. 464 = PDF 478 (title line "*nalavattamūraneya sūktavu*" and the first lines of the Sanskrit introduction "*kadrudrāyeti navarcam aṣṭamaṃ sūktam…*"), continuing on p. 465 = PDF 479 (rest of the introduction, the Kannada anuvāda and the heading); Rik 1 follows on p. 466 (PDF 480). The old contents table (p. 465 for Sūkta 43) is superseded: the sūkta begins at the foot of p. 464. The contents table gives Sūkta 44 (*agne vivasvat*) at p. 493 — read the actual boundary. One session per sūkta; read the last ~40 lines of this file first. Rendered pages may be lost; re-render with `pdftoppm -jpeg -r 150 -f 478 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; they will pick up from here.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42: (1) heading varga numerals small, read with doubt; (2) introduction: Gṛhya-sūtra reference 3-8-10 vs 3-2-10 [?]; Anukramaṇikā clause "*pauṣṇam*" doubtful; (3) Rik 1: bhāṣya crowded and partly garbled in the middle; the Special Topics essay on Pūṣan quotes eight Ṛgveda passages untranslated in the source — my glosses are tentative, all reference numerals [?]; the *pra ṇaḥ* argument summarized; (4) Rik 2: *duḥśevaḥ* suffix-name and the *bahulaṃ chandasi* vārttika crowded [?]; (5) Rik 3: the sūtra naming *ini* for *paripanthin* and the *rāt sasya* clause crowded; English lacks a comma; (6) Rik 4: thief-name list abbreviated; the source's English overprinted ("both stenls"); (7) Rik 5: one word after "*aṅgiraḥprabhṛtīn*" crowded; (8) Rik 6: English heading "English Translaion" [sic]; the Pada has *su-sanā* against the Saṃhitā's *suṣaṇā*; the *viśvasaubhaga* vṛddhi discussion characterized only; (9) Rik 7: root-name *ṣaśca* and "*saścim apy eke paṭhanti*" crowded; (10) Rik 9: English misprints "wtth" and "Pusham" kept [sic]; the rule-name "*hujhalbhyo her dhiḥ*" and the accent clause on *śagdhi* are crowded; (11) Rik 10: English misprint "hymus" [sic]; the Nighaṇṭu count ("seventeen" names of begging) is as read; (12) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]"; (13) the contents table's page for Sūkta 43 (465) is superseded by the print (foot of 464).
