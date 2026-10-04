@@ -8986,8 +8986,199 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+## SŪKTA 45 *(printed p. 540 foot = PDF 554; second sūkta of the Ninth Anuvāka)*
+
+**Forty-fifth Sūkta** *(large Kannada title line at the foot of p. 540: "nalavattaidaneya sūktavu")*
+
+### Pages 540–541 (PDF 554–555) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script at the foot of p. 540; read from the 150-dpi image; the words marked [?] are crowded)*
+
+> त्वमग्ने वसूनिति दशर्चं द्वितीयं सूक्तम् । अत्रानुक्रमणिका । त्वमग्ने दशानुष्टुभमर्धर्चोऽन्त्यो दैव इति [?] । प्रस्कण्व ऋषिः । आनुष्टुभं छन्दः । इदं सूक्तमग्निदेवताकं । पूर्वत्राग्नेयमित्युक्तत्वात् । अयं सोम इत्यर्धर्चो देवदेवत्यः ॥ प्रातरनुवाक आग्नेये क्रतावाश्विनशस्त्रे चैतत्सूक्तं । अभ्यैतेस्या रात्रेरिति [?] खण्डे सूत्रितं । त्वमग्ने वसून्, त्वं हि क्षैतवत् । आ. ४-१४ [?] । इति ॥ तथा गर्गत्रिरात्रस्यान्त्येऽहन्येतत्सूक्तमाज्यशस्त्रं । आङ्गिरसं स्वर्गकाम इति खण्डे सूत्रितं । वारवन्तीयमुत्तमे त्वमग्ने वसूरिति चाज्यं । आ. १०-२ [?] । इति ॥
+
+*tvam agne vasūn iti daśarcaṃ dvitīyaṃ sūktam | atrānukramaṇikā | tvam agne daśānuṣṭubham ardharco 'ntyo daiva iti [?] | praskaṇva ṛṣiḥ | ānuṣṭubhaṃ chandaḥ | idaṃ sūktam agnidevatākaṃ | pūrvatrāgneyam ity uktatvāt | ayaṃ soma ity ardharco devadevatyaḥ || prātaranuvāka āgneye kratāv āśvinaśastre caitat sūktaṃ | abhyaitesyā rātrer iti [?] khaṇḍe sūtritaṃ | tvam agne vasūn, tvaṃ hi kṣaitavat | ā. 4-14 [?] | iti || tathā gargatrirātrasyānte 'hany etat sūktam ājyaśastraṃ | āṅgirasaṃ svargakāma iti khaṇḍe sūtritaṃ | vāravantīyam uttame tvam agne vasūr iti cājyaṃ | ā. 10-2 [?] | iti ||*
+
+**Translation** *(mine, tentative; the Anukramaṇikā clause and the Āśvalāyana references are read with doubt)*: "'*Tvam agne vasūn*' is the second sūkta, of ten ṛks. The Anukramaṇikā here: '*tvam agne*, ten (ṛks) in Anuṣṭubh; the last half-ṛk is to the gods' [?]. The ṛṣi is Praskaṇva. The metre is Anuṣṭubh. This sūkta has Agni as its deity, since 'Āgneya' was said of the preceding; the half-ṛk '*ayaṃ somaḥ*' is addressed to the gods. In the Prātaranuvāka, at the Āgneya rite and in the Āśvina-śastra, this sūkta is [used]; it is prescribed in the section beginning '*abhyaitesyā rātreḥ*' [?]: '*tvam agne vasūn*, *tvaṃ hi kṣaitavat*' (Āśv. 4-14 [?]). Likewise on the last day of the Gargatrirātra this sūkta is the Ājya-śastra; it is prescribed in the section '*āṅgirasaṃ svargakāmaḥ*': 'in the last, the Vāravantīya, *tvam agne vasūn*, and the Ājya' (Āśv. 10-2 [?])."
+
+**Anuvāda (Kannada), p. 541** — "*Tvam agne vasūn* is the second sūkta in the ninth anuvāka. It has ten ṛks. In the Anukramaṇikā it is stated: '*tvam agne daśānuṣṭubham ardharco 'ntyo daiva*' [?]. The ṛṣi of this sūkta is Praskaṇva, the son of Kaṇva. The metre is Anuṣṭubh. The deity of this sūkta is Agni; that is, the deity of this sūkta is Agni. For the second half of the last ṛk, *ayaṃ somaḥ*, the deities are the Devas, that is, the gods themselves. In the time of reciting the mantras of the Prātaranuvāka this sūkta is used for the Āśvina-śastra mantras connected with the Āgneya rite. This matter is indicated in the Āśvalāyana Śrauta-sūtra, in the section beginning '*atha etasyā rātreḥ*', by the sūtra '*tvam agne vasūn*' (Ṛ. Saṃ. 1-45-1) and '*tvaṃ hi kṣaitavat*' (Ṛ. Saṃ. 6-2-1) (Ā. 4-13 [?]); and on the last day of the sacrifice called Gargatrirātra this sūkta is to be recited as an Ājya-śastra mantra, as laid down in the section '*āṅgirasaṃ svargakāmaḥ*' of the same sūtra by the sūtra '*vāravantīyam uttame tvam agne vasūr iti cājyam*' (Ā. 10-2 [?])." *(The Āśvalāyana numerals differ between the Sanskrit introduction, "4-14", and the anuvāda, "4-13", as I read them; both [?], kept as read.)*
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४५**
+> ॥ मण्डल — १ ॥ अनुवाक — ९ ॥ सूक्त — ४५ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [३१], [३२] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १० ॥
+> ॥ ऋषिः — प्रस्कण्वः काण्वः ॥
+> ॥ देवता — १–९, १० रल्लि पूर्वार्ध अग्निः । १० रल्लि उत्तरार्ध देवाः ॥
+> ॥ छन्दः — अनुष्टुप् ॥
+
+*sūkta 45 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 3 | varga [31], [32] | ṛks 10 | ṛṣi: Praskaṇva Kāṇva | devatā: Riks 1–9 and the first half of Rik 10 Agni; the second half of Rik 10 the Devas | chandas: Anuṣṭubh.*
+
+*(The Kannada words "sūktadalliruva ṛksaṃkhyai" = "number of ṛks in the sūkta" and "rall̥i" = "in" are left in their Kannada form inside the Devanagari block, as in earlier sūktas. The varga numerals are small and read with doubt, "31, 32" [?]; my earlier note read them as "30, 31". The page header of p. 541 reads "Varga 3[1]".)*
+
+### Rik 45.1 (pp. 542–546, PDF 556–560)
+
+**Saṃhitā-pāṭha** *(p. 542; accents not reproduced)*
+
+> **त्वमग्ने वसूँरिह रुद्राँ आदित्याँ उत ।**
+> **यजा स्वध्वरं जनं मनुजातं घृतप्रुषम् ॥ १ ॥**
+
+*tvam agne vasūm̐r iha rudrām̐ ādityām̐ uta |*
+*yajā svadhvaraṃ janaṃ manujātaṃ ghṛtapruṣam || 1 ||*
+
+**Pada-pāṭha** *(p. 542)*
+
+> त्वम् । अग्ने । वसून् । इह । रुद्रान् । आदित्यान् । उत ।
+> यज । सुऽअध्वरम् । जनम् । मनुऽजातम् । घृतऽप्रुषम् ॥ १ ॥
+
+*tvam | agne | vasūn | iha | rudrān | ādityān | uta |*
+*yaja | su-adhvaram | janam | manu-jātam | ghṛta-pruṣam || 1 ||*
+
+*(The Saṃhitā prints the verb as long-vowelled* yajā*; the Pada has the short* yaja*, and the grammar below explains the lengthening in the Saṃhitā.)*
+
+**Sāyaṇa-bhāṣya** *(p. 542)*
+
+> **हे अग्ने त्वमिह कर्मणि वस्वादीन्यज । उताऽपि च जनमन्यमपि देवतारूपं प्राणिनं यज । कीदृशं स्वध्वरं शोभनयागयुक्तं मनुजातं मनुना प्रजापतिनोत्पादितं घृतप्रुषमुदकस्य सेक्तारं ॥**
+
+*he agne tvam iha karmaṇi vasvādīn yaja | utāpi ca janam anyam api devatārūpaṃ prāṇinaṃ yaja | kīdṛśaṃ svadhvaraṃ śobhanayāgayuktaṃ manujātaṃ manunā prajāpatinotpāditaṃ ghṛtapruṣam udakasya sektāraṃ ||*
+
+**Translation:** "O Agni, in this rite worship the Vasus and the others. *Uta*, and also *janam*, another living being too, in the form of a deity, worship. Of what kind? *Svadhvaram*, with a goodly sacrifice; *manujātam*, begotten by Manu, by the Prajāpati; *ghṛtapruṣam*, the sprinkler of water."
+
+**Grammatical tail** *(p. 542; characterized)*
+- *yaja*: lengthening in the Saṃhitā by a rule beginning *dvyaco 'tastiṅaḥ* (as printed); *svadhvaram*: "he whose sacrifice (*adhvara*) is good"; by the rule *nañsubhyām* the second member keeps the end-acute; *manujātam*: *kta* in the passive after *jani*, the causative sense being included; because the first member is in the instrumental and a *kta* with a passive sense follows, the first member keeps its natural accent (*tṛtīyā karmaṇi*, as printed); *ghṛtapruṣam*: root *pruṣa plusa snehana-secana-pūraṇeṣu*, "with *ghṛta*, water, he fills (*pruṣṇāti*)", *kvip* by *kvip ca*.
+
+**Pratipadārtha** *(p. 542)* — "**agne** — O Agni; **tvam** — you; **iha** — in this sacrificial rite; **vasūn** — the Vasus; **rudrān** — the Rudras; **ādityān** — the Ādityas; **uta** — and; **svadhvaram** — as one joined to an excellent sacrifice; **manujātam** — as one born of Manu; **ghṛtapruṣam** — as the one who sprinkles water; **janam** — (the other) group of beings (in the form of deities); **yaja** — worship."
+
+**Bhāvārtha** *(p. 542)* — "O Agni, in this sacrifice, for our sake, worship the Vasus, the Rudras and the Ādityas, and the other class of beings in the form of deities, who are joined to an excellent sacrifice, are born of Manu, and sprinkle water."
+
+**English Translation (the source's own, p. 543)** — "Agni, ( bring hither and ) worship the Vasus, the Rudras, the Adityas or any other being begotten by Manu, sacrificing well and sprinkling water ( ghee )."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 543–546**
+- The Kannada author opens with a general note: "In this sūkta the ṛṣi, calling the Vasus, Rudras and Ādityas, prays that they be gratified by the sacrifice. Who are the Vasus, Rudras and Ādityas indicated here? It is proper to examine subtly what their places are. Here 'Vasus' means deities belonging to the group of Vasus, 'Rudras' deities belonging to the group of Rudras, 'Ādityas' deities belonging to the group of Ādityas. As a rule the Vasus, Rudras and Ādityas are spoken of only in the plural. It is said both in this sūkta and elsewhere that the Vasus are 8, the Rudras 11 and the Ādityas 12 — in all 33 deities [the three figures are read thus; they sum to 31, which I record without adjustment]. In the second ṛk of this sūkta Agni is asked to come bringing *trayastriṃśatam*, the thirty-three, that is, the Vasu-Rudra-Āditya deities. We give some examples from the Ṛgveda in which these deities are praised."
+- Eight Ṛgveda citations follow, **untranslated in the source**; I give each in three layers, with my own gloss *mine and tentative*, and **every reference numeral is "as read [?]"**:
+
+  1. > **आदित्या रुद्रा वसवः सुनीथा द्यावाक्षामा पृथिवी अन्तरिक्षम् ।** *(Ṛ. Saṃ. 3-8-[?] as read)*
+
+     *ādityā rudrā vasavaḥ sunīthā dyāvākṣāmā pṛthivī antarikṣam |* — mine and tentative: "Ādityas, Rudras, Vasus, good leaders; heaven and earth, the earth, the middle region."
+  2. > **अश्विना मित्रावरुणा भगं च वसून् रुद्राँ आदित्याँ इह हुवे ॥** *(Ṛ. Saṃ. 3-20-[?] as read)*
+
+     *aśvinā mitrāvaruṇā bhagaṃ ca vasūn rudrām̐ ādityām̐ iha huve ||* — mine and tentative: "I call here the Aśvins, Mitra and Varuṇa, and Bhaga, the Vasus, the Rudras, the Ādityas."
+  3. > **आदित्यानां वसूनां रुद्रियाणां देवो देवानां न मिनाति धाम ॥** *(Ṛ. Saṃ. 10-[?]-11 as read)*
+
+     *ādityānāṃ vasūnāṃ rudriyāṇāṃ devo devānāṃ na mināti dhāma ||* — mine and tentative: "of the Ādityas, the Vasus, the Rudriyas — the god does not diminish the abode of the gods."
+  4. > **देवाँ आदित्याँ अवसे हवामहे वसून् रुद्राँ सवितारं सुदंससम् ॥** *(Ṛ. Saṃ. 10-66-[?] as read)*
+
+     *devām̐ ādityām̐ avase havāmahe vasūn rudrām̐ savitāraṃ sudaṃsasam ||* — mine and tentative: "We call the gods, the Ādityas, for help, the Vasus, the Rudras, Savitṛ of good works."
+  5. > **आदित्या रुद्रा वसवः सुदानव इमा ब्रह्म शस्यमानानि जिन्वत ॥** *(Ṛ. Saṃ. 10-66-[?] as read)*
+
+     *ādityā rudrā vasavaḥ sudānava imā brahma śasyamānāni jinvata ||* — mine and tentative: "Ādityas, Rudras, Vasus, good givers, quicken these prayers as they are recited."
+  6. > **अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः ॥** *(Ṛ. Saṃ. 10-[?]-1 as read)*
+
+     *ahaṃ rudrebhir vasubhiś carāmy aham ādityair uta viśvadevaiḥ ||* — mine and tentative: "I move with the Rudras, with the Vasus; I with the Ādityas and with the All-gods."
+  7. > **वसवो रुद्रा आदित्या उपरिस्पृशं मोग्रं चेत्तारमधिराजमक्रन् ॥** *(Ṛ. Saṃ. 10-[?]-[?] as read)*
+
+     *vasavo rudrā ādityā uparispṛśaṃ mograṃ cettāram adhirājam akran ||* — mine and tentative: "The Vasus, Rudras and Ādityas have made me a high-reaching, mighty, wise overlord (?)" (the reading "*mograṃ*" and the sense are doubtful).
+  8. > **आदित्यै रुद्रैर्वसुभिर्न आ गहि मृळीकाय न आ गहि ॥** *(Ṛ. Saṃ. 10-[?]-1 as read)*
+
+     *ādityai rudrair vasubhir na ā gahi mṛḷīkāya na ā gahi ||* — mine and tentative: "Come to us with the Ādityas, Rudras, Vasus; come to us for our well-being."
+
+  "Many more examples could be given. In these ṛks it is said that Indra is chief of the Vasu group, Rudra of the Rudra group, and Aditi of the Ādityas:"
+
+  9. > **इन्द्रं नो अग्ने वसुभिः सजोषा रुद्रं रुद्रेभिरा वह बृहन्तम् ।**
+     > **आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारम् ॥** *(Ṛ. Saṃ. 3-[?]-[?] as read)*
+
+     *indraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhir ā vaha bṛhantam | ādityebhir aditiṃ viśvajanyāṃ bṛhaspatim ṛkvabhir viśvavāram ||* — mine and tentative: "Agni, in company with the Vasus bring us Indra; with the Rudras, the great Rudra; with the Ādityas, Aditi, kind to all people; and Bṛhaspati, all-choosing, with the praisers (*ṛkvabhiḥ*)."
+  10. > **इन्द्रो वसुभिः परि पातु नो गयमादित्यैर्नो अदितिः शर्म यच्छतु ।**
+      > **रुद्रो रुद्रेभिर्देवो मृळयाति नस्त्वष्टा नो ग्नाभिः सुविताय जिन्वतु ॥** *(Ṛ. Saṃ. 10-66-[?] as read)*
+
+      *indro vasubhiḥ pari pātu no gayam ādityair no aditiḥ śarma yacchatu | rudro rudrebhir devo mṛḷayāti nas tvaṣṭā no gnābhiḥ suvitāya jinvatu ||* — mine and tentative: "May Indra with the Vasus protect our household; may Aditi with the Ādityas give us shelter; may the god Rudra with the Rudras make us happy; may Tvaṣṭṛ with the goddesses speed us to well-being."
+- "The names of these Vasus, Rudras and Ādityas are not indicated in the Veda; they are told in the Purāṇas and the like." The Kannada author then cites the great sage Yāska on the form of the word *vasavaḥ* (Nirukta, reference numeral read "12-4[?]"), **untranslated in the source**:
+
+  > **वसवो यद्विवसते सर्वमग्निर्वसुभिर्वासव इति समाख्या तस्मात्पृथिवीस्थानाः । इन्द्रो वसुभिर्वासव इति समाख्या तस्मान्मध्यमस्थानाः । वसव आदित्यरश्मयो विवासनात्तस्माद्द्युस्थानाः ॥** *(Ni. 12-4[?] as read)*
+
+  *vasavo yad vivasate sarvam agnir vasubhir vāsava iti samākhyā tasmāt pṛthivīsthānāḥ | indro vasubhir vāsava iti samākhyā tasmān madhyamasthānāḥ | vasava ādityaraśmayo vivāsanāt tasmād dyusthānāḥ ||* — mine and tentative: "Because they (the Vasus) cover/abide in all, Agni with the Vasus — the name 'Vāsava' — therefore they have the earth as their place; Indra with the Vasus — the name 'Vāsava' — therefore they have the middle region as their place; the Vasus are the rays of the Sun, from their shining forth/pervading, therefore they have the heaven as their place."
+
+  The Kannada author explains: "That is, these Vasus are in the three places, earth, atmosphere and heaven. Since Agni dwells in everything in the form of a Vasu, they are in the earth-place. Indra, being accompanied by Vasus, is called Vāsava; since he is the chief of the Vasus, the Vasus are as if in the middle place, the atmosphere. The word *vasavaḥ* also means the rays of the Sun, which pervade the upper part of the atmosphere and the heaven everywhere; so they are in the heaven-place. Hence, according to Yāska, these Vasus pervade earth, atmosphere and heaven." Two ṛk-quotations used by Yāska to show the Vasus (both **untranslated in the source**; reference numerals read with doubt):
+
+  > **सुगा वो देवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणाः ।**
+  > **जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥** *(Vājasaneya Saṃhitā 8-[?], as read)*
+
+  *sugā vo devāḥ supathā akarma ya ājagmuḥ savanam idaṃ juṣāṇāḥ | jakṣivāṃsaḥ papivāṃsaś ca viśve 'sme dhatta vasavo vasūni ||* — mine and tentative: "O gods, we have made easy your going and good your path, you who have come, delighting in this pressing; having eaten and drunk, all of you, O Vasus, put riches in us."
+
+  > **ज्मा अत्र वसवो रन्त देवा उरावन्तरिक्षे मर्जयन्त शुभ्राः ।**
+  > **अर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥** *(Ṛ. Saṃ. 2-[?]-[?] as read)*
+
+  *jmā atra vasavo ranta devā urāv antarikṣe marjayanta śubhrāḥ | arvākpatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya ||* — mine and tentative: "Here on the earth the shining Vasus, the gods, took delight; in the wide atmosphere they made themselves bright; make (your) ways turn this way, wide-ranging ones; hear us, the messenger who has come" — doubtful throughout [?]; the second line is not given a firm sense.
+
+  "On the deities called Rudras and Ādityas, the derivations given for the words *rudra* and *āditya* should be applied here in the same way; we have already given the etymological senses of these words."
+- **manujātam** — "born of Manu. Though the name of Manu is cited in many places in the Ṛgveda, little detail is found anywhere. Manu is known as the primal ancestor of the human race and as the guide of the order of sacrifices such as the *yajña* and *yāga*. When he was dividing his property among his sons, his youngest son Nābhānediṣṭha, who was studying in the teacher's house in celibacy, got no share; so, finishing his studies and returning, he questioned his father about his share. [Manu] sent him to the place where the Āṅgiras sages were sacrificing, saying that if he taught them certain mantras they would give him wealth as he wished. This story is told both in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā of the Yajurveda. Chiefly, since the sacrifice made by this Manu is famous, the matter of the sacrifice made by Manu is raised in the Ṛgveda. The matter of this Manu is told, besides in the Ṛgveda, in the Atharvaveda, the Taittirīya Saṃhitā, the Kāṭhaka Saṃhitā, the Śatapatha Brāhmaṇa, the Jaiminīya Upaniṣad Brāhmaṇa and other places" — *the Kannada author lists chapter-and-verse numerals for each of these; they are crowded and I have not trusted them, so they are not reproduced [?]*. "Because he is the son of Vivasvān (one deity) he is named Manu Vaivasvata, and Vivasvān (Ṛ. Saṃ. 8-[?]-1 as read; Ath. [?]; Śat. Br. [?]); because he belongs to the line of Saraṇyū [? "Saṇarṇā", as printed: *saṇarṇā* — the reading is unclear] he is Sāvarṇi (Sāvarṇa), and because he belongs to the line of Saṃvaraṇa, Sāṃvaraṇi (Ṛ. Saṃ. 9-[?]-1 as read): so he has many names."
+- **ghṛtapruṣam** — "wetted by water; *ghṛta* means water (Ni. 1-[?] as read)."
+
+**Vyākaraṇa-prakriyā** *(p. 546 — grammar page, noted briefly)*
+- **yaja**: root *yaja devapūjādau*, *loṭ*, *sip*, *hi*, *śap*; *ato heḥ* gives *luk* of *hi*; *dvyaco 'tastiṅaḥ* (Pā. 6-3-135 as read [?]) — द्व्यचोऽतस्तिङः — lengthens the final of a *tiṅ*-ending word with two vowels in the Saṃhitā of the Veda: hence *yajā*.
+- **svadhvaram**: a *bahuvrīhi* within a *bahuvrīhi*: "*na vidyate dhvaraḥ* (injury) *yasya saḥ* = *adhvaraḥ*"; "*śobhano 'dhvaro yasya saḥ*"; *nañsubhyām* (Pā. 6-2-172 as read [?]) — नञ्सुभ्याम् — in a *bahuvrīhi*, after *nañ* and *su* the second member keeps its end-acute.
+- **manujātam**: "born by Manu", "born of the Prajāpati named Manu"; the root *jani prādurbhāve* with the causative sense (*ṇic*) included; *niṣṭhā* — the suffix *kta* in the passive sense; *janasanakhanāṃ sañjhalo* [as read, partly] gives the *ā*-substitution; homogeneous lengthening; *tṛtīyā karmaṇi* (Pā. 6-2-48 as read [?]) — तृतीया कर्मणि — a *kta* ending with a passive sense following, the instrumental first member keeps its natural accent.
+- **ghṛtapruṣam**: *pruṣa, pluṣa snehana-secana-pūraṇeṣu*, *kryādi*; "*ghṛtena* = with water *pruṣṇāti*, he fills"; *kvip ca* gives *kvip*; *ghṛtapruṭ* in the nominative singular, *ghṛtapruṣam* in the accusative singular. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE (printed pp. 1–540 = PDF 15–554).** Sūkta 44 (14 Riks) closes at the foot of printed p. 540; the contents table's page for Sūkta 45 (p. 541) is off — it starts on the lower third of p. 540.
+### Rik 45.2 (pp. 546–549, PDF 560–563)
 
-**Next task:** Sūkta 45 (*tvam agne vasūn*, Maṇḍala 1, Anuvāka 9, 10 Riks, ṛṣi Praskaṇva Kāṇva, Agni — last half-ṛk to the Devas — Anuṣṭubh): its title, Sanskrit introduction and (probably) the Kannada anuvāda are at the foot of p. 540 (PDF 554) and on p. 541 (PDF 555), identified but **not yet written**; the heading block is on p. 541 and Rik 1 on p. 542 (PDF 556). Check the contents table for where Sūkta 45 ends. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 554 -l 600 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 546; accents not reproduced)*
+
+> **श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः ।**
+> **तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥ २ ॥**
+
+*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |*
+*tān rohidaśva girvaṇas trayastriṃśatam ā vaha || 2 ||*
+
+**Pada-pāṭha** *(p. 547)*
+
+> श्रुष्टिऽवानः । हि । दाशुषे । देवाः । अग्ने । विऽचेतसः ।
+> तान् । रोहित्ऽअश्व । गिर्वणः । त्रयःऽत्रिंशतम् । आ । वह ॥ २ ॥
+
+*śruṣṭi-vānaḥ | hi | dāśuṣe | devāḥ | agne | vi-cetasaḥ |*
+*tān | rohit-aśva | girvaṇaḥ | trayaḥ-triṃśatam | ā | vaha || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 547)*
+
+> **हे अग्ने विचेतसो विशिष्टप्रज्ञाना देवा दाशुषे हविर्दत्तवते यजमानाय श्रुष्टीवानो हि । श्रुष्टिः फलस्य दानं । तद्भाजः खलु । हे रोहिदश्व रोहिन्नामकैरश्वैरुपेत गिर्वणो गीर्भिः स्तुतिभिर्वननीयाग्ने । गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति । नि. ६-१४ [?] । इति यास्कः । त्रयस्त्रिंशतमनया [?] संख्यया संख्याताँस्तान्देवान्ना वह । इहानय ॥**
+
+*he agne vicetaso viśiṣṭaprajñānā devā dāśuṣe havirdattavate yajamānāya śruṣṭīvāno hi | śruṣṭiḥ phalasya dānaṃ | tadbhājaḥ khalu | he rohidaśva rohinnāmakair aśvair upeta girvaṇo gīrbhiḥ stutibhir vananīyāgne | girvaṇā devo bhavati gīrbhir enaṃ vanayanti | ni. 6-14 [?] | iti yāskaḥ | trayastriṃśatam anayā [?] saṃkhyayā saṃkhyātāṃs tān devān ā vaha | ihānaya ||*
+
+**Translation:** "O Agni, the gods, *vicetasaḥ*, of special wisdom, *śruṣṭīvānaḥ hi*, are indeed givers of reward to *dāśuṣe*, the sacrificer who has given the oblation. *Śruṣṭi* is the giving of the fruit; they are partakers of that. O *rohidaśva*, you who are furnished with the horses named Rohit; O *girvaṇaḥ*, you who are to be served with songs, with praises, O Agni — '*girvaṇā* is a god; they serve him with songs', says Yāska (Ni. 6-14 [?]). Bring here, *ā vaha*, those gods who are counted by the number *trayastriṃśatam*, thirty-three."
+
+**Grammatical tail** *(p. 547; characterized)*
+- *śruṣṭīvānaḥ*: *śruṣṭi* has the sense of "impulse, giving"; the abstract suffix *ktic*; "those who serve (*vananti*) *śruṣṭi*, who share in it", hence *śruṣṭīvānaḥ*; the suffix *vic* by "(it is seen) after other roots too"; the lengthening is Vedic.
+- *vicetasaḥ*: "those whose mind (*cetas*) is special"; in the bahuvrīhi the first member keeps its natural accent.
+- *girvaṇaḥ*: "he who is to be served by songs (*gīrbhiḥ*)"; *asun* after *vana*; the shortening of the first member is Vedic.
+- *trayastriṃśat*: "three and thirty" (*trayaś ca triṃśac ca*); by *tre strayaḥ* (Pā. 6-3-48 as read [?]) *trayas* is substituted for *tri*; as a *saṃkhyā*-compound the first member keeps its natural accent (Pā. 6-2-[?] as read).
+
+**Pratipadārtha** *(p. 547)* — "**agne** — O Agni; **vicetasaḥ** — endowed with discriminating wisdom; **devāḥ** — the gods; **dāśuṣe** — to the sacrificer who gives the oblation; **śruṣṭīvānaḥ hi** — are indeed those who give the fruit; **rohidaśva** — you who are endowed with horses called Rohit; **girvaṇaḥ** — you who are fond of praise; **trayastriṃśatam** — those of the number thirty-three; **tān** — those gods; **ā vaha** — bring (here)."
+
+**Bhāvārtha** *(p. 547)* — "O Agni, it is right that the gods have the discerning thought that after a man, the sacrificer, has offered the oblation, they should repay him. They are eager to give fruit to the sacrificer. You, fond of praise, are endowed with the horses called Rohit. Going with them, bring here those gods of the number thirty-three."
+
+**English Translation (the source's own, p. 548)** — "The wise gods are givers of rewards to the offerer of oblations ; O Agni with the red horses, being praised by hymns, bring hither three and thirty (thirty-three) gods."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 548**
+- **śruṣṭīvānaḥ** — "*phalasya dātāraḥ; prārthitasya phalasya dātāraḥ*: givers of the fruit; givers of the fruit that was prayed for — they give the fruits that are desired."
+- **vicetasaḥ** — "*viśiṣṭaprajñānāḥ*: those who know everything, those endowed with knowledge."
+- **rohidaśva** — "*Rohit* is a name of Agni's vehicle or of his horses. Yāska says on this: '*harī indrasya | rohito 'gneḥ*' (Ni. 1-[?] as read) — हरी इन्द्रस्य । रोहितोऽग्नेः — *harī indrasya | rohito 'gneḥ* — mine and tentative: 'the two bays are Indra's; the red ones are Agni's'. The meaning is: Agni, who has the horses called Rohit."
+- **girvaṇaḥ** — "*gīrbhiḥ stutibhiḥ*: one who is praised with words of praise; or a god. Yāska says: '*girvaṇā devo bhavati gīrbhir enaṃ vanayanti*' (Ni. 6-[?] as read) — गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति — mine and tentative: '*girvaṇā* is a god; they serve him with songs'."
+- **trayastriṃśatam** — "the Vasus 8, the Rudras 11, the Ādityas 12 [as read; their sum is 31], in all thirty-three deities, or deities of thirty-three kinds (classes)."
+
+**Vyākaraṇa-prakriyā** *(pp. 548–549 — grammar pages, noted briefly)*
+- **śruṣṭīvānaḥ**: the root *śruś* in the sense of impulse (*preraṇa*, as printed); after it, in the abstract sense, *ktic*; *iṭ* does not come by a rule beginning *śrī…* (as read, partly); the *ś* becomes *ṣ* by "*vraścabhrasja…*" (Pā. 8-2-36 as read [?]) — वश्चभ्रस्ज… — *śruṣ + ti*, then the *ṭ*-change: *śruṣṭi*. Root *vana saṃbhaktau*: "*śruṣṭiṃ vananti = saṃbhajante*", "those who have a liking for impulse"; *vic* by "*anyebhyo 'pi dṛśyante*"; "*anyeṣām api dṛśyate*" lengthens the first member; *jas*; *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8 as read [?]) gives the lengthening of the penultimate (*upadhādīrgha*).
+- **vicetasaḥ**: *viśiṣṭaṃ cetaḥ yeṣāṃ te*, a bahuvrīhi; the first member keeps its natural accent.
+- **girvaṇaḥ**: root *gṝ śabde*; *kvip ca* gives *kvip*; *ṛta id dhātoḥ* (Pā. 7-1-100 as read) gives *ir* for *ṛ*, which by *uraṇ raparaḥ* ends in *r*: *gir*; root *vana saṃbhaktau*, "*gīrbhiḥ vanyate*"; *sarvadhātubhyo 'sun* gives the suffix *asun*; *hali ca* (Pā. 8-2-77 as read) lengthens the *ik* that is the penultimate of a root ending in *r* or *v* when a consonant follows, so the *i* of *gir* should lengthen; or, taking the case-ending that comes after as the cause of *pada*-designation, *r-vor upadhāyā dīrgha ikaḥ* (Pā. 8-2-76 as read) lengthens the *ik* before a final *r/v*; but the maxim "*sarve vidhayaś chandasi vikalpyante*" makes these optional in the Chandas, and so they do not come here.
+- **trayastriṃśatam**: "*trayaś ca triṃśac ca = trayastriṃśat*", or "thirty increased by three"; *tre strayaḥ* (Pā. 6-3-48 as read [?]): when a word expressing a number below a hundred follows, *trayas* is substituted for *tri*; this does not come in a bahuvrīhi, nor when *aśīti* follows (as printed); with *triṃśat* following, a number below a hundred, *tri* becomes *trayas*; *trayas + triṃśat*. *Pañca…viṃśati-triṃśat…* (Pā. 5-1-[?] as read) — when "*trayodaśaśataḥ parimāṇam asya*" is intended, *trin* is substituted for *tri* [the wording is crowded, [?]]; or the suffix *śatip* is added after *tri* by *nipātana*. "Of the thirty-three the *pūraṇa*" (*trayastriṃśatāṃ pūraṇaḥ*): *tasya pūraṇe ḍaṭ* (Pā. 5-2-48 as read [?]) gives the suffix *ḍaṭ*, and *viṃśatyādibhyas tamaḍ anyatarasyām* (Pā. 5-2-56 as read [?]) the augment *tamaṭ*: so *trayastriṃśatam* as printed. **|| 2 ||**
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 549 (PDF 563) reached; heading, introduction and Riks 45.1–45.2 complete.**
+
+**Next task:** Rik 45.3 begins in the lower half of printed p. 549 (PDF 563): its Saṃhitā (*priyamedhavad atrivaj jātavedo virūpavat | aṅgirasvan mahivrata praskaṇvasya śrudhī havam || 3 ||*, read from the print) is on that page, but its Pada is on p. 550 and nothing of it is written yet. Continue from there to the end of Sūkta 45 (10 Riks; check the print for the closing note), then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 563 -l 590 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Sūkta 45 so far: Anukramaṇikā clause and Āśvalāyana numerals (4-14 vs 4-13) doubtful; varga numerals read "31, 32" [?]; the Vasu/Rudra/Āditya figures read 8, 11, 12 and a total of 33 (sum 31 — recorded, not adjusted); all Ṛgveda/Nirukta/Vājasaneya references "as read [?]"; the Manu reference list not reproduced; many grammar sūtra numerals [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
