@@ -2341,10 +2341,80 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 35.8 — Special Topics and grammar (pp. 161–163, PDF 175–177; grammar pages, noted briefly)
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 161**
+- **aṣṭau kakubhaḥ pṛthivyāḥ** — "the eight directions: the four, east, west, south, north, and the four intermediate directions, south-east, south-west, north-west, north-east — together eight directions. *Eight points of the Horizon* [the print's English]."
+- **trī** — "the three worlds, earth, mid-region and heaven."
+- **sapta sindhūn** — "the seven rivers, Gaṅgā, Yamunā, Sarasvatī, Śutudrī, Paruṣṇī, Asiknī, Vitastā, or the seven seas." *(Vitastā stands here where the list at Rik 6 of Sūkta 34 gave Marudvṛdhā; recorded as printed.)*
+- **hiraṇyākṣaḥ** = *hitaramaṇīyacakṣur yuktaḥ | athavā hiraṇmayāny akṣiṇī yasyāsau hiraṇyākṣaḥ*: "one who has eyes pleasant to look at, beautiful; or one with eyes as beautiful as gold."
+- **vāryāṇi** = *varaṇīyāni*: "wished for by all, needed by all, *desirable &c.* [the print's English]."
+
+**Vyākaraṇa-prakriyā** *(pp. 161–163)*
+- **akhyat** (p. 161): "explained in the fifth mantra of this same sūkta" (Rik 5 above).
+- **trī**: after *tri* in the neuter, *śas*, replaced by *śi*, which has the name *sarvanāmasthāna*; the augment *num*; the lengthening of the penultimate; *trīn + śi*; by *śeś chandasi bahulam* the *śi* is dropped, and the *n* is lost.
+- **dhanva**: the root *rivi ravi dhavi*, with the sense of going, *idit*; *idito num dhātoḥ* — the augment *num* gives *dhanv*; *kanin yuvṛṣitakṣarājidhanvidyupratidivaḥ* — [Uṇādi, as read] — the suffix *kanin* after these roots; *dhanv + an*; *supāṃ sulug…*: *luk* of the *śas*; *nalopaḥ prātipadikāntasya*: loss of *n*; *kanin* is *nit*, so the first syllable is acute.
+- **yojanā** (pp. 161–162): root *yujir yoge*; *yojayanti* ("they join [creatures to their enjoyments]") — *yojayatīti yojanā*; *nandigrahipacādibhyo lyuṇinyacaḥ* — the suffix *lyu*; *yuvor anākau* — *ana* for *yu*; *ṇer aniṭi* — loss of *ṇi* before an *ārdhadhātuka* without *iṭ*; *laghūpadha-guṇa*; after the stem *yojana*, *śas*, replaced by *śi*, and the loss of *śi* etc. as before.
+- **hiraṇyākṣaḥ** (p. 162): *hiraṇyāny akṣīṇi yasya saḥ* — "he who has golden eyes"; the form is *hiraṇyākṣan* [before the suffix]; *bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac* — बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात्षच् — the suffix *ṣac*, a compound-final (*samāsānta*) and *taddhita*, after a *bahuvrīhi* ending in *sakthi* or *akṣi* which denotes a *svāṅga* ("own limb"). The print then gives the definition of *svāṅga* in a verse: 
+
+> अद्रवं मूर्तिमत्स्वाङ्गं प्राणिस्थमविकारजम् । अतत्स्थं तत्र दृष्टं च तेन चेत्तत्तथायुतम् ॥
+
+*adravaṃ mūrtimat svāṅgaṃ prāṇistham avikārajam | atatsthaṃ tatra dṛṣṭaṃ ca tena cet tat tathāyutam ||*
+
+"A non-fluid, bodily thing located in a living being and not born of a change [is *svāṅga*]; and also that which is not located there but is seen there, if it is likewise joined with it." *(Translation mine, tentative; the verse is read as printed.)* The Kannada explains the three marks: it must be a non-liquid (*adrava*) thing of solid form (*mūrtimat*) belonging to the living being from its nature, not arising from a change; and the second mark covers what is no longer in a living being but was once, as the hair of a street-barber's model, as an example, or what is joined in the manner of one in a living being, as the breasts of an image. Here the eye (*akṣi*) is a body-part and so *svāṅga*; *hiraṇyākṣin + a*; *nastaddhite* — नस्तद्धिते — the *ṭi* of an *aṅga* ending in *n* and bearing the name *bha* is lost before a *taddhita* suffix: so *in* is lost; the final syllable acute.
+- **āgāt**: *iṇ gatau*, *luṅ*; *iṇo gā luṅi* — before *luṅ*, *gā* replaces *iṇ*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*: *luk* of *sic*; loss of the *i* of *tip* by *itaś ca*.
+- **dadhat** (pp. 162–163): root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *laṭ*, *śatṛ*; *śap* → *ślu*; doubling: *dhā + dhā + at*; *hrasvaḥ*: the reduplicate is shortened; *abhyāse carca*: *dh* → *d* of the reduplicate; *śnābhyastayor ātaḥ* — the *ā* of a base in *śnā* or an *abhyasta* base is lost before a *kit*/*ñit* *sārvadhātuka* suffix (here *śatṛ*, treated as *ñit*): so *dadh + at*; *nābhyastācchatuḥ* — no *num* for *śatṛ* after an *abhyasta*; since *supi* follows, *ugidacām…* would give *num*, but it is prevented; loss of the ending [*su*]; *ubhe abhyastam* — the two repeated parts together are *abhyasta*; *abhyastānām ādiḥ*: first-syllable acute.
+- **dāśuṣe** (p. 163): *dāśvān sāhvān mīḍhvāṃś ca* — दाश्वान्साह्वान्मीढ्वांश्च — the forms are irregular: *dāś dāne* with *kvasu*, with the absence of doubling and of *iṭ* by *nipātana* (against *liṭi dhātoḥ…*); in *sāhvān* the root *ṣaha marṣaṇe*, *parasmaipada*, with *kvasu*, no doubling, no *iṭ*, and lengthened penultimate; in *mīḍhvān* the root *miha secane*, with *kvasu*, lack of doubling and of *iṭ*; after *dāśvas* the fourth singular *ṅe*: *dāśvas + e*; *vasoḥ saṃprasāraṇam* — the *v* of a base ending in *vas* [with the name *bha*] becomes *u*, with *pūrvarūpa*; *dāśus + e*; *ādeśapratyayayoḥ* — *s* that is part of a suffix → *ṣ*; the print adds that in *śāsivasighasīnāṃ ca* the roots [*śās*, *vas*, *ghas*, *sī*…] are meant by association, not the suffix, so the *ṣatva* of that rule cannot arise here — "the sense is clear in the Śekhara and similar works".
+- **vāryāṇi**: *vṛñ sambhaktau*; *ṛhaloṇyat* — ऋहलोर्ण्यत् — *ṇyat* after a root ending in *ṛ* or in a consonant; *vṛ + ya*; *aco ñṇiti* — *vṛddhi*: *vārya*; *īḍavandavṛśaṃsaduhāṃ ṇyataḥ* — ईडवन्दवृशंसदुहां ण्यतः — the first syllable of a word in *ṇyat* from these roots is acute; the sūtra names *vṛ*, not *vṛñ*, so — since *vṛñ* would otherwise take *kyap* by *ētisstuśāsvṛdṛjuṣaḥ kyap* — the vārtika *vṛñaḥ grahaṇaṃ kartavyam* ("*vṛñ* must be taken in") is cited; and in *īḍavanda…* the word *vṛ* is held to mean the root *vṛñ*; otherwise *ṇyat* would not apply. Rik 8 ends here (*|| 8 ||*).
+
+### Rik 35.9 (pp. 163–165, PDF 177–179)
+
+*(The ninth ṛk is the second Jagatī of the sūkta, per the introduction on p. 131.)*
+
+**Saṃhitā-pāṭha** *(pp. 163–164; accents not reproduced)*
+
+> **हिरण्यपाणिः सविता विचर्षणिरुभे द्यावापृथिवी अन्तरीयते ।**
+> **अपामीवां बाधते वेति सूर्यमभि कृष्णेन रजसा द्यामृणोति ॥ ९ ॥**
+
+*hiraṇyapāṇiḥ savitā vicarṣaṇir ubhe dyāvāpṛthivī antar īyate |*
+*apāmīvāṃ bādhate veti sūryam abhi kṛṣṇena rajasā dyām ṛṇoti || 9 ||*
+
+**Pada-pāṭha** *(p. 164)*
+
+> हिरण्यऽपाणिः । सविता । विऽचर्षणिः । उभे इति । द्यावापृथिवी इति । अन्तः । ईयते ॥
+> अप । अमीवाम् । बाधते । वेति । सूर्यम् । अभि । कृष्णेन । रजसा । द्याम् । ऋणोति ॥ ९ ॥
+
+*hiraṇya-pāṇiḥ | savitā | vi-carṣaṇiḥ | ubhe iti | dyāvāpṛthivī iti | antaḥ | īyate ||*
+*apa | amīvām | bādhate | veti | sūryam | abhi | kṛṣṇena | rajasā | dyām | ṛṇoti || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 164; the first half in full, the grammatical tail characterized)*
+
+> हिरण्यपाणिः सुवर्णमयहस्तयुक्तः । यद्वा । यजमानेभ्यो दातुं हिरण्यं हस्ते धृतवान् । विचर्षणिर्विविधदर्शनयुक्तः । विचर्षणिः पश्यतीत्यर्थः । विचर्षणिर्विश्वचर्षणिरिति तन्नामसु पाठात् । सविता देव उभे द्यावापृथिवी अन्तः उभयोर्लोकयोर्मध्य ईयते । गच्छति । अमीवां रोगादिबाधामप बाधते । सम्यग्निराकरोति । तथा । सूर्यं वेति गच्छति । यद्यपि सवितृसूर्ययोरेकदेवतात्वं तथापि मूर्तिभेदेन गन्तृगन्तव्यभावः । कृष्णेन तमसः कर्षकेण निवर्तकेन रजसा तेजसा द्यामाकाशमभ्यृणोति । सर्वतो व्याप्नोति ॥
+
+*hiraṇyapāṇiḥ suvarṇamayahastayuktaḥ | yadvā | yajamānebhyo dātuṃ hiraṇyaṃ haste dhṛtavān | vicarṣaṇir vividhadarśanayuktaḥ | vicarṣaṇiḥ paśyatīty arthaḥ | vicarṣaṇir viśvacarṣaṇir iti tannāmasu pāṭhāt | savitā deva ubhe dyāvāpṛthivī antaḥ ubhayor lokayor madhya īyate | gacchati | amīvāṃ rogādibādhām apa bādhate | samyag nirākaroti | tathā | sūryaṃ veti gacchati | yadyapi savitṛsūryayor ekadevatātvaṃ tathāpi mūrtibhedena gantṛgantavyabhāvaḥ | kṛṣṇena tamasaḥ karṣakeṇa nivartakena rajasā tejasā dyām ākāśam abhyṛṇoti | sarvato vyāpnoti ||*
+
+**Translation:** "*Hiraṇyapāṇiḥ* — having golden hands; or, holding gold in his hand to give to the sacrificers. *Vicarṣaṇiḥ* — endowed with varied seeing, i.e. 'he sees': since *vicarṣaṇiḥ*, *viśvacarṣaṇiḥ* is read in the lists of such names. Savitṛ the god *īyate*, goes, *antaḥ*, in the midst of the two worlds, *ubhe dyāvāpṛthivī*. *Amīvām* — the affliction of disease and the like — *apa bādhate*, he drives away completely. Likewise *sūryaṃ veti* — he goes to Sūrya: although Savitṛ and Sūrya are one deity, there is yet the relation of goer and goal, by a difference of form. *Kṛṣṇena rajasā* — with the radiance that draws away, that removes, the darkness — *dyām*, the sky, *abhi ṛṇoti*, he pervades on all sides."
+
+**Grammar within the bhāṣya** *(p. 164, characterized)*: *dyāvāpṛthivī* (*divasaś ca pṛthivyām* — the word *ca* carries *dyāvā* as the substitute of *div* before *pṛthivī* in a *dvandva* of deity-names; *devatādvandve ca* gives both members their natural accent; the rule on a following unaccented second member does not bar it); *īyate* (*īṅ gatau*; the *tiṅ* is lowered by *tiṅ ṅatiṅaḥ*); *bādhate ca vā iti* (the sense of *ca* is understood though the word *ca* is not used, so by *cādilope vibhāṣā* the lowering [*nighāta*] is not applied); *veti* (*vī gatiprajanakāntyasanakhādaneṣu*; *śap* lost by *adādi*; *tip* is *pit*, so unaccented and the root's accent stays; though *sūryam* is a second-case word, the *tiṅ* [*veti*] stands after it, so there is no lowering of the verb); *ṛṇoti* (*ṛṇu gatau*, *tanādi*; of the *tanādi* roots only *kṛ* takes *guṇa*, as *śali*… *ut*-ness; so no *guṇa* here).
+
+**Pratipadārtha** *(p. 165)* — "**hiraṇyapāṇiḥ** — with golden hands (or holding gold in the hand, to give it to the sacrificer); **vicarṣaṇiḥ** — of varied seeing (able to look at what has been, is, and will be); **savitā** — the Savitṛ deity; **ubhe dyāvāpṛthivī** — of the two worlds, earth and mid-region; **antaḥ** — in the middle; **īyate** — moves about; **amīvām** — the afflictions of disease and the like; **apa bādhate** — destroys completely; **sūryam** — to the Sun's neighbourhood; **veti** — goes; **kṛṣṇena** — [that which] removes darkness; **rajasā** — with radiance; **dyām** — the sky; **abhi ṛṇoti** — pervades all round."
+
+**Bhāvārtha** *(p. 165)* — "The Savitṛ deity's hands are of gold, or he always holds gold in his hand to give to the sacrificer. He can see everything, and can behold past, future and present. This Savitṛ moves in the middle of the two worlds, earth and mid-region. He destroys completely disease and troubles of that kind. He goes also to the neighbourhood of the Sun, who is of a different form from himself; and with his divine radiance, which removes the darkness, he pervades the whole sky."
+
+**English Translation (the source's own, p. 165)** — "The golden-handed, all seeing Savitri travels between heaven and earth, dispels diseases, approaches the sun, and ascends the heaven through the dark regions of space·" *(the print ends with a raised dot where a full stop is expected)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 165** *(begun; continued on p. 166)*
+- **hiraṇyapāṇiḥ** = *suvarṇamayahastayuktaḥ | yadvā | yajamānebhyo dātuṃ hiraṇyaṃ haste dhṛtavān*: "one who has golden hands, or one who holds gold in his hand in order to give it to sacrificers. We have explained this word in detail in Ṛgveda Saṃhitā Part 3 [as read], pages 62 and 66 [?]."
+- **vicarṣaṇiḥ** = *viśeṣeṇa draṣṭā athavā viśvasya bhuvanasya draṣṭā*: "the one who sees specially, or who sees the whole universe. There is nothing that is not seen by the Sun's eye; that is, the sense is that the Sun's rays pervade the whole world."
+
+*(The rest of the Special Topics and the grammar of Rik 9 follow on p. 166 and later pages, to be viewed next.)*
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 160 (PDF 174) reached; Riks 35.1–35.7 complete; Rik 35.8 written through the source's English (Special Topics and grammar follow on p. 161).**
+---
 
-**Next task:** continue at printed p. 161 (PDF 175) with the Special Topics and grammar of Rik 8, then Rik 9. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 175 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 165 (PDF 179) reached; Riks 35.1–35.8 complete; Rik 35.9 written through the first two Special-Topics entries (*hiraṇyapāṇiḥ*, *vicarṣaṇiḥ*).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) several derivations and rule-names in the grammar tails of Riks 2, 3, 5, 6, 7 and 8 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), the words "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya) and the clause on *yojanā* in the Rik 8 bhāṣya are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant (as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain.
+**Next task:** continue at printed p. 166 (PDF 180) with the rest of Rik 9's Special Topics and grammar, then Riks 10 and 11. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 180 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) several derivations and rule-names in the grammar tails of Riks 2, 3, 5–9 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya) and the *yojanā* clause (Rik 8 bhāṣya) are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant (as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain; (7) in the Rik 8 Special Topics the river list ends "Vitastā", where the Sūkta 34 list ended "Marudvṛdhā" (as printed); (8) the cross-reference "Part 3, pp. 62 and 66" in the Rik 9 Special Topics is as read and unchecked.
