@@ -5441,8 +5441,76 @@
 
 ---
 
+**Rik 53.11, continued** *(pp. 301–303, PDF 317–319)*
+
+**Sāyaṇa-bhāṣya** *(p. 301)*
+
+> **हे इन्द्र ये वयम् उदृचि यज्ञसमाप्तौ वर्तमाना देवगोपा देवैः पालितास्ते तव सखायः सखिवदत्यन्तं प्रियाः अत एव शिवतमा असाम अतिशयेन कल्याणा अभूम ते वयं यज्ञसमाप्त्युत्तरकालमपि त्वां स्तोषाम स्तवाम । अस्माभिः स्तुतेन त्वया सुवीराः शोभनपुत्रवन्तः सन्तो द्राघीयोऽतिशयेन दीर्घमायुर्जीवनं प्रतरं प्रकृष्टतरं यथा भवति तथा दधाना धारयन्तो भूयास्म ॥**
+
+*he indra ye vayam udṛci yajñasamāptau vartamānā devagopā devaiḥ pālitās te tava sakhāyaḥ sakhivad atyantaṃ priyāḥ ata eva śivatamā asāma atiśayena kalyāṇā abhūma te vayaṃ yajñasamāptyuttarakālam api tvāṃ stoṣāma stavāma | asmābhiḥ stutena tvayā suvīrāḥ śobhanaputravantaḥ santo drāghīyo 'tiśayena dīrgham āyur jīvanaṃ prataraṃ prakṛṣṭataraṃ yathā bhavati tathā dadhānā dhārayanto bhūyāsma ||*
+
+*(The tail of the bhāṣya, p. 301, is characterized:* devagopāḥ *(bahuvrīhi);* asāma *(*as bhuvi*, *loṭ* in the sense of the *liṅ*; *uttama* plural *mas*; *śnasor allopaḥ* excluded because *pittva* is stated; Pā. 6-4-111);* stoṣāma *(*ṣṭuñ stutau*, *adādi*, *leṭ*; *sip*; *ādyudāttaḥ*);* suvīrāḥ *(*vīravīryau ca*, Pā. 6-2-120 as read [?]);* drāghīyaḥ *(*dīrgha* + *īyasun*; *priyasthirasphirorubahulagurvaṅga…*, Pā. 6-4-157 as read [?]; the substitute *drāghā*; *nit*, so initial-acute);* prataram *(*pra* + *tarap*, then *amu ca chandasi*, Pā. 5-4-12 as read [?]);* dadhānāḥ *(*ḍudhāñ dhāraṇapoṣaṇayoḥ*, *śānac*, *juhotyādibhyaḥ śluḥ*, reduplication, *hrasva* and *jaśtva*; *abhyastānām ādiḥ*).)*
+
+**Translation of the bhāṣya:** "O Indra, we who *udṛci*, are present at the close of the sacrifice, *devagopāḥ*, protected by the gods, *te sakhāyaḥ*, your friends — exceedingly dear, like friends — and therefore *śivatamāḥ asāma*, may we be most auspicious; we, even after the end of the sacrifice, *tvāṃ stoṣāma*, will praise you. *Tvayā*, through you, praised by us, *suvīrāḥ*, having fair sons, *drāghīyaḥ āyuḥ*, a very long life, *prataram*, in the best way, *dadhānāḥ*, holding, may we be."
+
+**Pratipadārtha** *(p. 301)* — "**indra** — O Indra; **ye** — we who; **devagopāḥ** — protected by the gods; **udṛci** — at the close of the sacrifice; **te** — your; **śivatamāḥ** — most fortunate; **sakhāyaḥ** — friends; **asāma** — we are; **tvām** — you; **stoṣāma** — we praise (even though the sacrifice is complete); **tvayā** — (praised) by you; **suvīrāḥ** — having fair offspring; **drāghīyaḥ** — long; **prataram** — causing the highest stability; **āyuḥ** — life; **dadhānāḥ** — [we are] holding."
+
+**Bhāvārtha** *(p. 301)* — "O Indra, protected by the gods, we, at the close of the sacrifice, are your most fortunate friends. We praise you; by your favour we hold fair offspring and a long life that gives high stability, and so we praise you even at the end of the sacrifice."
+
+**English Translation (the source's own, p. 301)** — "Protected by the gods, remain, Indra, at the close of the sacrifice, your most fortunate friends; we praise you, for we enjoy through you excellent offspring and a long and prosperous life,"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 302**
+- **udṛci** — "'At the time of the close of the sacrifice' is the sense."
+- **ye** — "Following the context, here too the word *yat* should be taken in the sense of *asmat*, 'we'."
+- **devagopāḥ** — "*Devāḥ gopāḥ rakṣakāḥ yeṣām*: the full sense of this word is 'we who live protected by the gods'."
+- **suvīrāḥ** — "By the sense 'those who have fair sons', the fruit-statement (*phalaśruti*) is made plain here, that those who praise Indra even at the end of the sacrifice obtain the wealth of sons."
+- **drāghīyaḥ** — "A thing with a very long extent. Since it is an epithet of *āyus*, the sense must be said to be 'a long time'."
+
+**Vyākaraṇa-prakriyā** *(pp. 302–303 — grammar pages, noted briefly)*
+- **devagopāḥ**: "*devā gopā yeṣām*": a bahuvrīhi: *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member.
+- **asāma**: *as bhuvi*; *vyatyayo bahulam* gives *loṭ* in the sense of the *liṅ*; first person plural *mas*; *loṭo laṅvat* gives *laṅ*-ness, so *nityaṃ ṅitaḥ* drops the *s* of *mas*; *āḍ uttamasya pic ca* (Pā. 3-4-92) gives *āṭ* to it; as it is stated *pit*, *sārvadhātukam apit* does not make it *ṅit*; therefore *śnasor allopaḥ* does not drop the *a* of *as*; since *pit* is stated, the *tiṅ* is *anudātta*, so the accent of the root remains.
+- **stoṣāma**: *ṣṭuñ stutau*, *adādi*; the first-person plural of *loṭ* — *leṭ*: *yeṣ* as before; the *s* dropped; by *sibbahulaṃ leṭi* (Pā. 3-1-34), since *bahulam* is taken, *sip* also comes in the *leṭ*; being *pit*, *guṇa* of the root; after an *i*-class [*iṇ*], *ādeśapratyayayoḥ* gives *ṣatva*; *āḍ uttamasya pic ca* gives the augment *āṭ*: *stoṣāma*; following an *atiṅ*, *nighāta*.
+- **suvīrāḥ**: "*śobhanā vīrā yeṣām*"; *vīravīryau ca* (Pā. 6-2-120) gives the initial-acute of the last member.
+- **drāghīyaḥ**: after *dīrgha*, a quality-word, *īyasun* in the sense of surpassing: *dvivacanavibhajyopapade tarabīyasunau* (Pā. 5-3-57); when *īyasun* follows, *priyasthirasphirorubahulagurvaṅgadīrghavṛddhatṛpradīrghavṛndārakāṇāṃ prasthasphiravarabaṃhigarvarṣitrap…* [as read, Pā. 6-4-157] gives *drāghā* for *dīrgha*; *yasyeti ca* drops the *a*: *drāghīyas*; since *nit*, *ñnityādir nityam* gives the initial acute.
+- **prataram**: with *tarap* after *pra*, *amu ca chandasi* (Pā. 5-4-12) gives *amu* when the sense of surpassing is not of substance (*adravyagata*); *prataram*; end-acute by the suffix-accent.
+- **dadhānāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the sense of *laṭ*; *juhotyādibhyaḥ śluḥ* gives *ślu*; reduplication by *ślau*; *hrasvaḥ*; *jhalāṃ jaś jhaśi*: *dadhāna*; *abhyastānām ādiḥ* gives the initial acute. **|| 11 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.10 complete; Rik 53.11 (Triṣṭubh, the last Rik) Saṃhitā and Pada written (printed p. 300, PDF 316). Its bhāṣya begins on p. 301 (PDF 317). The rest of Rik 53.11 and the close of Sūkta 53 are NOT yet written.**
+### Close of Sūkta 53
 
-**Next task:** continue at printed p. 301 (PDF 317) with "**Rik 53.11, continued**" (bhāṣya etc.), then the close of Sūkta 53 (Sūkta 54 begins ≈ p. 303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha", the Taittirīya Brāhmaṇa Namuci passage (words crowded) and the eight Ṛgveda citations (numerals and several words [?], glosses mine/tentative); Rik 8 "anānudaḥ/ananudaḥ", "bibhidiṣe | vadhīḥ", the Ṛg citation "ye 'rṇaye 'śnam uta vā karañje" [?]; Rik 9 Suśravas references [?]; Rik 10 Āyu/Tūrvayāṇa reference numerals [?]; Rik 11 Saṃhitā "udṛci"/Pada "ut-ṛci" [?]; Uṇādi and Pāṇini numerals as read [?].
+*(The print gives no closing sentence for Sūkta 53: the last grammar paragraph, on* dadhānāḥ*, ends the Rik on p. 303 and a short rule separates it from the title of the next sūkta, which begins on the same page. My own summary, not the source's:)*
+
+**Sūkta 53 (Maṇḍala 1, Tenth Anuvāka, 11 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī, with Riks 10 and 11 Triṣṭubh) — printed pp. 264–303, PDF 280–319.** The Riks offer praise to the great Indra in the sacrificer's house, who quickly seizes the demons' treasure like a thief taking the property of the sleeping (1); he is the giver of horses, cattle and barley, the ancient protector, dear to the priests (2); the source of all the wealth that is seen, whom the praiser begs not to leave his wish unfulfilled (3); the one whose favour, with the soma, drives away poverty and brings the foe's defeat (4); for whose power the praisers pray for wealth, food, brilliant strength and increase (5); whom the Maruts and the oblations gladdened when he slew the ten thousand obstacles of the sacrificer (6); the warrior from battle to battle, city to city, who slew the deceiver Namuci with the foam of the waters, a story the source gives at length from the Taittirīya Brāhmaṇa and with eight Ṛgveda parallels (7); who slew Karañja and Parṇaya for Atithigva and broke the hundred cities of Vaṅgṛda for Ṛjiśvan (8); who overthrew the twenty kings and their sixty thousand ninety-nine followers for Suśravas (9) and made Kutsa, Atithigva and Āyu subject to him (10); and finally the friends whom the gods protect, who praise Indra at the close of the sacrifice (11). Many numerals are marked [?] in the Riks.
+
+---
+
+## SŪKTA 54 (printed p. 303 –, PDF 319 –)
+
+### Title and Sāyaṇa's introduction *(p. 303)*
+
+**ಐವತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-fourth sūkta")*
+
+**Sāyaṇa-bhāṣya (introduction)**
+
+> **मा न इत्येकादशर्चं चतुर्थं सूक्तम् । षष्ठ्यष्टमीनवम्येकादश्यस्त्रिष्टुभः । शिष्टाः सप्त जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । मा नोऽन्त्या त्रिष्टुप् षष्ठ्यष्टमी नवमी चेति । अतिरात्रे प्रथमे पर्याये ऽच्छावाकशस्त्र इदं सूक्तम् । तथा च सूत्रितम् । मानो अस्मिन्मघवन्निन्द्र पिबा तुभ्यं सुतो मदायेति याज्या । आश्व. ६-४ [?] इति ॥**
+
+*mā na ity ekādaśarcaṃ caturthaṃ sūktam | ṣaṣṭhyaṣṭamīnavamyekādaśyas triṣṭubhaḥ | śiṣṭāḥ sapta jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti | atirātre prathame paryāye 'cchāvākaśastra idaṃ sūktam | tathā ca sūtritam | mā no asmin maghavann indra pibā tubhyaṃ suto madāyeti yājyā | āśva. 6-4 [?] iti ||*
+
+*(Reading note: the Anukramaṇī's "*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*" is crowded in the print ("ṣaṣṭhyaṣṭavi navamī ce…"), [?]; the Āśvalāyana numeral "6-4" is as read, [?]. The quotation* mā no asmin maghavann indra pibā tubhyaṃ suto madāya *is as the print gives it; the Rik's own words (Rik 54.1) are* mā no asmin maghavan pṛtsv aṃhasi*, so I treat the quotation as the* yājyā*-verse, not as Rik 54.1.)*
+
+**Translation:** "'*Mā naḥ*': a sūkta of eleven Riks, the fourth [of the Tenth Anuvāka]; the sixth, eighth, ninth and eleventh are Triṣṭubh; the remaining seven are Jagatī. The seer is Savya, the deity Indra; so the Anukramaṇī: '*Mā naḥ*: the last [is] Triṣṭubh; the sixth, the eighth and the ninth' [?]. In the Atirātra rite, in the first *paryāya*, this sūkta belongs to the recitation of the Acchāvāka; so it is aphorized: '*mā no asmin maghavann indra pibā tubhyaṃ suto madāya*' is the *yājyā* (Āśv. 6-4 as read [?])."
+
+**Anuvāda (Kannada, p. 303)** — "'*Mā naḥ*' is the fourth sūkta in the tenth anuvāka. It has eleven Riks. The sixth, eighth, ninth and eleventh Riks of this sūkta are in the Triṣṭubh metre; the remaining seven Riks are in Jagatī. The seer of this sūkta is Savya; the deity is Indra. In the Anukramaṇikā it is said '*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*' [?]. In the sacrifice called *Atirātra*, in the first *paryāya*, this sūkta is to be used by the priest Acchāvāka for the śastra mantras; the sūtra '*mā no asmin maghavann indra pibā tubhyaṃ suto madāya*' in the Āśvalāyana Śrauta Sūtra shows this (Āś. 6-4 as read [?])."
+
+*(The heading block and Rik 54.1 begin on p. 304 (PDF 320).)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319; Sūkta 53 ends and Sūkta 54 begins on p. 303). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, Maṇḍala 1, Anuvāka 10, 11 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Triṣṭubh in Riks 6, 8, 9, 11, Jagatī in the other seven) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 303, PDF 319). The heading block and Rik 54.1 begin on p. 304 (PDF 320) — NOT yet written.**
+
+**Next task:** continue at printed p. 304 (PDF 320) with the heading block of Sūkta 54 and Rik 54.1 (Saṃhitā; Pada on p. 305), then Riks 2–11 and the close of Sūkta 54 (the contents table puts Sūkta 55 at p. ≈ 342 [?] — check the print). At the end of Sūkta 54: **the user's instruction ("translate Sūktas 51–54") is then fulfilled — STOP**; update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **User instruction: translate Sūktas 51–54 (51, 52, 53 done; 54 now); routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages, e.g. 331–380). Flags for Sūkta 53 are listed in the Riks and the closing summary; for Sūkta 54: the introduction's Anukramaṇī half-line and Āśvalāyana numeral [?].
