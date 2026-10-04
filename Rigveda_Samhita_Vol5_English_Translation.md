@@ -4763,8 +4763,118 @@
 
 ---
 
+### Heading block of Sūkta 53 *(p. 265, PDF 281)*
+
+- Maṇḍala 1 · Anuvāka 10 · Sūkta 53
+- Aṣṭaka 1 · Adhyāya 4 · Varga 13, 14 [as read, small numerals, [?]]
+- Number of Riks in the sūkta: 11
+- Ṛṣi: Savya Āṅgirasa
+- Deity: Indra
+- Metre: Riks 1–9 Jagatī; Riks 10 and 11 Triṣṭubh *(read "೧-೯ ಜಗತೀ । ೧೦, ೧೧ ತ್ರಿಷ್ಟುಪ್")*
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280; Sūkta 52 ends on p. 264, where Sūkta 53 begins). Sūkta 53 (*nyū ṣu vācam*, Maṇḍala 1, Anuvāka 10, 11 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Jagatī with Riks 10 and 11 Triṣṭubh) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 264, PDF 280). The heading block and Rik 53.1 begin on p. 265 (PDF 281) — NOT yet written.**
+### Rik 53.1 (pp. 265–269, PDF 281–285)
 
-**Next task:** continue at printed p. 265 (PDF 281) with the heading block of Sūkta 53 and Rik 53.1 (Saṃhitā; Pada on p. 266), then Riks 2–11 and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print; Sūkta 53 should be ≈ 40 pages). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 52 are noted in the individual Riks (crowded passages, numerals all [?]); Sūkta 53 introduction: the Āśvalāyana numeral 6-4 [?], "*upra*" in the quotation as printed.
+**Saṃhitā-pāṭha** *(p. 265; accents printed, not reproduced)*
+
+> **न्यू षु वाचं प्र महे भरामहे गिर इन्द्राय सदने विवस्वतः ।**
+> **नू चिद्धि रत्नं ससतामिवाविदन्न दुष्टुतिर्द्रविणोदेषु शस्यते ॥ १ ॥**
+
+*nyū ṣu vācaṃ pra mahe bharāmahe gira indrāya sadane vivasvataḥ |*
+*nū cid dhi ratnaṃ sasatām ivāvidan na duṣṭutir draviṇodeṣu śasyate || 1 ||*
+
+**Pada-pāṭha** *(p. 265)*
+
+> नि । ऊं इति । सु । वाचम् । प्र । महे । भरामहे । गिरः । इन्द्राय । सदने । विवस्वतः ।
+> नु । चित् । हि । रत्नम् । ससताम्ऽइव । अविदत् । न । दुःऽस्तुतिः । द्रविणःऽदेषु । शस्यते ॥ १ ॥
+
+*ni | ūṃ iti | su | vācam | pra | mahe | bharāmahe | giraḥ | indrāya | sadane | vivasvataḥ |*
+*nu | cit | hi | ratnam | sasatām-iva | avidat | na | duḥ-stutiḥ | draviṇaḥ-deṣu | śasyate || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 265–266)*
+
+> **महे महत इन्द्राय सु वाचं शोभनां स्तुतिं नि प्र भरामहे । नितरां प्रयुञ्ज्महे [?] । उ इति पादपूरणः । यतो विवस्वतः परिचरतो यजमानस्य सदने यज्ञगृह इन्द्राय गिरः स्तुतयः क्रियन्ते । हि यस्मात्स इन्द्रो नू चित् क्षिप्रमेव रत्नं रमणीयमसुराणां धनमविदत् विन्दति । तत्र दृष्टान्तः । ससतामिव । यथा स्वपतां पुरुषाणां धनं चोरः क्षिप्रं लभते तद्वत् । अतोऽस्मभ्यं धनं दातुं शक्त इति भावः । द्रविणोदेषु धनस्य दातृषु पुरुषेषु दुष्टुतिरसमीचीना स्तुतिर्न शस्यते नाभिधीयते । अतः सुवाचं प्र भरामह इति पूर्वेण संबन्धः ॥**
+
+*mahe mahata indrāya su vācaṃ śobhanāṃ stutiṃ ni pra bharāmahe | nitarāṃ prayuñjmahe [?] | u iti pādapūraṇaḥ | yato vivasvataḥ paricarato yajamānasya sadane yajñagṛha indrāya giraḥ stutayaḥ kriyante | hi yasmāt sa indro nū cit kṣipram eva ratnaṃ ramaṇīyam asurāṇāṃ dhanam avidat vindati | tatra dṛṣṭāntaḥ | sasatām iva | yathā svapatāṃ puruṣāṇāṃ dhanaṃ coraḥ kṣipraṃ labhate tadvat | ato 'smabhyaṃ dhanaṃ dātuṃ śakta iti bhāvaḥ | draviṇodeṣu dhanasya dātṛṣu puruṣeṣu duṣṭutir asamīcīnā stutir na śasyate nābhidhīyate | ataḥ suvācaṃ pra bharāmaha iti pūrveṇa saṃbandhaḥ ||*
+
+*(Reading note: "*prayuñjmahe*" is as I read the print, [?]. The tail of the bhāṣya, p. 266 foot –, is characterized:* nyū ṣu *(the acute-svarita sandhi; the lengthening of* u *by* ikaḥ suñi*, Pā. 6-3-134 as read [?]; the* ṣatva *of the* s *of* su *by* sūñ… *Pā. 8-3-107 as read [?]);* mahe *(*maha pūjāyām*, *kvip ca*, *mah*, the dative);* nū cit *(lengthening in the Saṃhitā by* ṛcitunughamakṣutaru…*, Pā. 6-3-133 as read [?]);* sasatām iva *(*sasa svapne*, *śatṛ*, *śatur anumo nadyajādī*; the compound with* iva *where the case-ending is not dropped, *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca*, Pā. 2-1-4 as read [?]);* avidat *(*vid lābhe*, *luṅ* in the present sense,* cleraṅ*,* nighāta *forbidden by* hi ca*);* draviṇodeṣu *(*dru gatau*, Uṇādi* inan*; *dravina*; *dā* with* ka* by* ātaś copasarge* / *supi sthaḥ*, *ātolopa iṭi ca*, the *su*-augment in the Veda, *hośi ca* gives* o*, *gatikārako…*);* śasyate *(*śaṃsu stutau*, passive* laṭ*, *yak*, the loss of the penultimate nasal).)*
+
+**Translation of the bhāṣya:** "To *mahe*, the great Indra, we *ni pra bharāmahe*, we offer *su vācam*, a fair speech, praise; *u* is a mere filler. Because in the house of the sacrificer — the *vivasvat*, the one who serves — in the sacrificial house, praises are made for Indra; and because that Indra, *nū cit*, quickly gets *ratnam*, the delightful wealth of the Asuras — an example: *sasatām iva*, as a thief quickly gets the property of men who are asleep — so he is able to give wealth to us, is the sense. Among *draviṇodeṣu*, the persons who give wealth, a *duṣṭuti*, an unsuitable praise, is not praised, is not accepted. Therefore '*suvācaṃ pra bharāmahe*' connects with the first line."
+
+**Pratipadārtha** *(p. 266)* — "**mahe** — to the one of wonderful majesty; **indrāya** — to Indra; **su vācam** — fair praise; **ni pra bharāmahe** — we offer completely; **vivasvataḥ** — of the worshipping (sacrificer); **sadane** — in the sacrificial house; **giraḥ** — [to Indra] the praise-words [are offered]; **hi** — because; **indraḥ** — Indra; **nū cit** — quickly, with alertness; **ratnam** — the delightful wealth (of the Rākṣasas); **sasatām iva** — as one gains wealth from the rich who sleep (as thieves gain it when they are alert); **avidat** — gets (he seizes, and is able to give it to us); **draviṇodeṣu** — among those who give wealth; **duṣṭutiḥ** — unsuitable praise; **na śasyate** — is not honoured."
+
+**Bhāvārtha** *(p. 266)* — "The majesty of Indra is exceedingly wonderful. We offer fair praise to please him. In the sacrificial house of the sacrificer, praises are offered to him. Being excited by these praises, he quickly takes the delightful wealth of the Rākṣasas, as thieves take the wealth of a rich man while he sleeps, and distributes it to us. Among givers of wealth, praises offered in an unsuitable way have no value."
+
+**English Translation (the source's own, p. 267)** — "We offer laudatory words to the mighty Indra; we offer filling praise to Indra in the house of the sacrificer engaged in the service. He (Indra) has quickly acquired riches, as a thief hastily carries off the property of the sleeping; Ill-expressed words are not praised among the givers of wealth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 267–268** *(the first two Special Topics are on p. 267; the rest on p. 268)*
+- **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
+
+  > **अत्रेदमुक्तं भवति । निद्रिताः पुरुषा इव यदा मनुष्या धनं नोपेक्षन्ते तदपि तेभ्य इन्द्रः क्षिप्रं धनं ददाति । विशादेषु धनदेषु विषयेषु च समीचीना स्तुतिः शंस्या भवति । अतः कारणात्सर्वाचीनानि स्तोत्राणि रचयित्वास्य नो यजमानस्य यज्ञशालायां महत इन्द्रायोर्पयामेति ॥**
+
+  *atredam uktaṃ bhavati | nidritāḥ puruṣā iva yadā manuṣyā dhanaṃ nopekṣante tadāpi tebhya indraḥ kṣipraṃ dhanaṃ dadāti | viśādeṣu [?] dhanadeṣu viṣayeṣu ca samīcīnā stutiḥ śaṃsyā bhavati | ataḥ kāraṇāt sarvācīnāni stotrāṇi racayitvāsya no yajamānasya yajñaśālāyāṃ mahata indrāyārpayāmeti ||* — "Here this is meant: when men, like sleeping persons, take no care of wealth, even then Indra quickly gives wealth to them. For givers of wealth and in matters of this kind, a fitting praise is to be recited. For this reason, having composed hymns suited to the occasion, let us offer them to the great Indra in the sacrificial hall of our sacrificer." *(The print's* viśādeṣu *is crowded, [?]; the Kannada adds: "As to men asleep there is no concern about property; in just that way, Indra, hurrying, gives wealth quickly even to praisers who are not hurrying after wealth. Therefore the intention here is clear: having composed the best hymns to Indra, who is worthy of hymns, in the sacrificial hall of the sacrificer, let us offer them to Indra.")*
+- **ni + ū + su = nyū ṣu** — "Here *ni* is a preposition. The *ū* serves only to fill the foot; it has no meaning. The word *su* means 'fine, beautiful'; the word *su* qualifies the word *vāc*."
+- **ratnam** — "In this context the meaning that arises from the connection is 'the delightful wealth of the Rākṣasas'."
+- **sasatām iva** — "This word, formed from the root *sasa svapne*, gives the sense 'of those who sleep'. The sense is given as an illustration of the matter above: Indra takes away the wealth of the Rākṣasas and gives it to the sacrificer and the like, the good people."
+- **duṣṭutiḥ** — "*Asamīcīnā stutiḥ*: praise that is not good for the mind."
+- **draviṇodeṣu** — "From the root *dru gatau* the word *draviṇa* is formed. Such persons who give *draviṇa* (movable wealth) are *draviṇodāḥ*. It is well known that a praise that is not suitable cannot be effective among the givers of wealth."
+
+**Vyākaraṇa-prakriyā** *(pp. 267–269 — grammar pages, noted briefly)*
+- **nyū ṣu**: *ni* + *ū*: *yaṇ* for the *i*; *udāttasvaritayor yaṇaḥ svaritonudāttasya* gives *svarita* to the *ū*, because the *yaṇ* has come in the place of an acute vowel; since the following *su* is acute, the *svarita* is trembled (*kampa*) in the Saṃhitā; *ikaḥ suñi* (Pā. 6-3-134 as read [?]) lengthens the *u*; *sūñ* [as read, Pā. 8-3-107 as read, [?]] gives *ṣatva* to the *s* of *su*, which stands after the *nimitta* in an earlier word and is a *nipāta*.
+- **mahe**: *maha pūjāyām*; *kvip ca* gives *kvip*: *mah*; dative singular: *mahe*; by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 as read [?]) the ending is acute; or, the *mahat* word with the Vedic loss of the end, in which case the accent is as before.
+- **nū cit**: *nu cit*: the lengthening in the Saṃhitā by *ṛcitunughamakṣutaruṣu*… (Pā. 6-3-133 as read [?]).
+- **sasatām iva**: *sasa svapne*, *śatṛ* in the present sense; genitive plural *sasatām*; by *śaturanumo nadyajādī* the ending is acute; then the compound with *iva*; *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca* (Pā. 2-1-… as read [?]): the ending is not dropped, though in a compound.
+- **avidat**: *vid lābhe*, *tudādi*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the sense of the present; since the third-person-plural-like ending…, *itaś ca* drops the *i*; *saṃyogāntalopa* drops the *t*; *puṣādidyutādi…* (Pā. 3-1-55) gives *aṅ* in place of *cli* in *luṅ*; *aṭ* as the *luṅ*-nimitta; because *hi* is before, *hi ca* (Pā. 8-1-34) forbids the *nighāta*, so *aṭ* is acute.
+- **draviṇodeṣu**: "*draviṇāni dhanāni dadāti iti draviṇodāḥ*"; *dru gatau*; the Uṇādi *inan* by *drudakṣibhyām inan* (Uṇ. 2-… as read [?]); *guṇa* of the root before the suffix; the *n* after *r*, so *ṇatva* by *aṭkupvāṅnumvyavāye 'pi*: *draviṇa*; with *draviṇa* as the *upapada*, *ātaś copasarge kaḥ* (Pā. 3-2-3) gives *ka* after *dā*; being *kit*, *ātolopa iṭi ca* drops the *ā*; for the first member *draviṇa* the *su*-augment comes in the Veda, and since it is final, *ruḥ*; *hośi ca* gives *u* and *guṇa*; so *draviṇodaḥ*; since the first member is a *kāraka* word, *gatikārakopapadāt kṛt* gives the accent of the last member; locative plural.
+- **śasyate**: *śaṃsu stutau*; *laṭ* in the passive; *sārvadhātuke yak* gives *yak*; *kit*, so *anidita…halantānām* drops the penultimate nasal; *ṭita ātmanepadānāṃ ṭer e* gives *e*: *śasyate*; *tiṅ atiṅaḥ*, *nighāta*. **|| 1 ||**
+
+---
+
+### Rik 53.2 (pp. 269–, PDF 285–)
+
+**Saṃhitā-pāṭha** *(p. 269; accents printed, not reproduced)*
+
+> **दुरो अश्वस्य दुर इन्द्र गोरसि दुरो यवस्य वसुन इनस्पतिः ।**
+> **शिक्षानरः प्रदिवो अकामकर्शनः सखा सखिभ्यस्तमिदं गृणीमसि ॥ २ ॥**
+
+*duro aśvasya dura indra gor asi duro yavasya vasuna inas patiḥ |*
+*śikṣānaraḥ pradivo akāmakarśanaḥ sakhā sakhibhyas tam idaṃ gṛṇīmasi || 2 ||*
+
+**Pada-pāṭha** *(p. 269)*
+
+> दुरः । अश्वस्य । दुरः । इन्द्र । गोः । असि । दुरः । यवस्य । वसुनः । इनः । पतिः ।
+> शिक्षानरः । प्रऽदिवः । अकामऽकर्शनः । सखा । सखिऽभ्यः । तम् । इदम् । गृणीमसि ॥ २ ॥
+
+*duraḥ | aśvasya | duraḥ | indra | goḥ | asi | duraḥ | yavasya | vasunaḥ | inaḥ | patiḥ |*
+*śikṣānaraḥ | pra-divaḥ | akāma-karśanaḥ | sakhā | sakhi-bhyaḥ | tam | idam | gṛṇīmasi || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 269)*
+
+> **हे इन्द्र त्वमश्वस्य दुरो दाताऽसि । तथा गोः पश्वादेर्दुरो दाताऽसि । तथा यवस्य यवादेर्धान्यजातस्य दुरो दाताऽसि । वसुनो निवासहेतोर्धनस्येनः स्वामी पतिः सर्वेषां पालयिता शिक्षानरः । शिक्षतिर्दानकर्मा । शिक्षायां दानस्य नेताऽसि । प्रदिवः पुराणः । प्रगता दिवो दिवसा यस्मिन्स तथोक्तः । अकामकर्शनः । कामान्कर्शयति नाशयतीति कामकर्शनः । न कामकर्शनोऽकामकर्शनः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । हविर्दत्त्वतां यजमानानां कामानभिमतफलप्रदानेन पूरयितेत्यर्थः । सखिभ्यः समानख्यानेभ्य ऋत्विग्भ्यः सखा सखिवदत्यन्तं प्रियः । एवंभूतो य इन्द्रस्तं प्रतीदं स्तोत्रलक्षणं वचो गृणीमसि ब्रूमहे ॥**
+
+*he indra tvam aśvasya duro dātāsi | tathā goḥ paśvāder duro dātāsi | tathā yavasya yavāder dhānyajātasya duro dātāsi | vasuno nivāsahetor dhanasyenaḥ svāmī patiḥ sarveṣāṃ pālayitā śikṣānaraḥ | śikṣatir dānakarmā | śikṣāyāṃ dānasya netāsi | pradivaḥ purāṇaḥ | pragatā divo divasā yasmin sa tathoktaḥ | akāmakarśanaḥ | kāmān karśayati nāśayatīti kāmakarśanaḥ | na kāmakarśano 'kāmakarśanaḥ | avyayapūrvapadaprakṛtisvaratvam | havirdattvatāṃ yajamānānāṃ kāmān abhimataphalapradānena pūrayitety arthaḥ | sakhibhyaḥ samānakhyānebhya ṛtvigbhyaḥ sakhā sakhivad atyantaṃ priyaḥ | evaṃbhūto ya indras taṃ pratīdaṃ stotralakṣaṇaṃ vaco gṛṇīmasi brūmahe ||*
+
+*(The tail of the bhāṣya, p. 270 head: on* duraḥ *(*ḍudāñ dāne*, with the Uṇādi* uraca *by* mandivāśimathicaticaṅkyaṅkibhya uraca*, Uṇ. 1-… as read [?]; the loss of* a *before* eva… [crowded]);* śikṣānaraḥ *(*śikṣa vidyopādāne*, *guroś ca halaḥ* gives *a*-suffix; *ṣaṣṭhīsamāsaḥ*, the accent of the last member);* gṛṇīmasi *(*gṝ śabde*, kryādi, *prādīnāṃ hrasvaḥ*, "*idantaḥ… maseriḥ*": the *mas* → *masi*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, you are the *duraḥ*, the giver, of horses; likewise of cows, cattle and the like; likewise of *yavasya*, barley and the rest, of the kinds of grain — *vasunaḥ inaḥ patiḥ*, the lord, the master, of wealth which is the cause of dwelling, the protector of all; *śikṣānaraḥ* — *śikṣati* is a verb of giving: you are the leader of giving in the bestowing; *pradivaḥ*, old: he of whom the days of the sky have gone forth, so called; *akāmakarśanaḥ*: *kāmakarśana* is one who thins out, destroys desires; *akāmakarśana*, not a destroyer of desires — one who fulfils, by granting the desired fruit, the desires of sacrificers who have given the offering; *sakhā sakhibhyaḥ*, a friend to the *sakhis*, the priests who are named *sakhi*: exceedingly dear, like a friend. Such an Indra — to him we *gṛṇīmasi*, we speak, this praise-speech."
+
+**Pratipadārtha** *(p. 270)* — "**indra** — O Indra (you); **aśvasya** — of horses; **duraḥ** — also the giver; **goḥ** — of cows and cattle and the like; **duraḥ** — the giver; **asi**; **yavasya** — of grain; **duraḥ** — the giver; **vasunaḥ** — of wealth (the cause of dwelling); **inaḥ** — the master; **patiḥ** — protector of all; **śikṣānaraḥ** — the foremost among givers; **pradivaḥ** — ancient; **akāmakarśanaḥ** — one who does not break the hopes of devotees; **sakhibhyaḥ** — to our friends, the priests; **sakhā** — the dear one; **taṃ** — to him; **idam** — this word of the form of praise; **gṛṇīmasi** — we speak."
+
+**Bhāvārtha** *(p. 270)* — "O Indra, you give us horses, cows and cattle, and grain. We offer praise to that Indra who is the master of wealth, the protector of all, the foremost among givers, the ancient, the one who does not break the hopes of devotees, and the one who is dear to our friends, the priests."
+
+**English Translation (the source's own, p. 270)** — "Indra, you are the giver of horses, of cows, of barley, the lord and protector of wealth, the instrument of habitation, the foremost in liberality, the most ancient god: you do not disappoint the desires addressed to you; you are a friend to our friends; we praise such Indra."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 270 (begins; continues on p. 271)**
+- **duraḥ** — "'One who gives': this is the meaning of this word. It is formed from the root *ḍudāñ dāne*. This word shows that Indra is the giver of everything."
+- **yavasya** — "Here, though the word *yava* has the sense only of barley, by *lakṣaṇā* (implication) the sense of all grains, beginning with barley, is given."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: heading block and Rik 53.1 complete; Rik 53.2 written from the Saṃhitā through the English translation and the first two Special Topics (*duraḥ*, *yavasya*) (printed p. 270, PDF 286). The remaining Special Topics (from p. 271, PDF 287) and Vyākaraṇa notes of Rik 2, and Riks 53.3–53.11, are NOT yet written.**
+
+**Next task:** continue at printed p. 271 (PDF 287) with "**Rik 53.2, continued**" (the remaining Special Topics: *vasunaḥ inaḥ patiḥ* etc., then Vyākaraṇa), then Riks 3–11 and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and the Special-Topic Sanskrit "viśādeṣu" [?]; Uṇādi and Pāṇini numerals as read [?].
