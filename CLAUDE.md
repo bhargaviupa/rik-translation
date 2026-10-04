@@ -1,23 +1,24 @@
-# Rigveda Samhita Translation — Volumes 1–4 (Volume 4 in progress)
+# Rigveda Samhita Translation — Volumes 1–5 (Volume 5 in progress; Volume 6 follows)
 
 Translating a 1949 Kannada commentary on the Rigveda (Sayana's Sanskrit bhashya + Kannada
 explanation by H. P. Venkata Rao) into English. Volume 1 (complete — `Rigveda_Samhita_Vol1_English_Translation.md`) covered the
-front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete — `Rigveda_Samhita_Vol2_English_Translation.md`) covered Suktas 3–19
-(the First Adhyaya of the First Ashtaka); Volume 3 (complete — `Rigveda_Samhita_Vol3_English_Translation.md`) covered Suktas 20–32
-(the Second Adhyaya). **Volume 4** covers Mandala 1, **Suktas 33–46** (the Third Adhyaya of the First Ashtaka).
+front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete) covered Suktas 3–19; Volume 3 (complete) covered Suktas 20–32;
+Volume 4 (complete — `Rigveda_Samhita_Vol4_English_Translation.md`, `.docx` rebuilt) covered Suktas 33–46 (the Third Adhyaya).
+**Volume 5** covers Mandala 1, **Suktas 47–61** (the Fourth Adhyaya of the First Ashtaka). **Volume 6** (`Rig_Vol6.pdf`, 638 PDF pages) follows and has not been examined yet.
 
-**Current source file:** `Rig_Vol4.pdf` (622 pages, scanned; contents table in the header of the output file).
-**Current output file:** `Rigveda_Samhita_Vol4_English_Translation.md` — append-only; never rewrite earlier sections.
-Volumes 1–3 files are closed; do not edit them.
+**Current source file:** `Rig_Vol5.pdf` (724 pages, scanned; contents table in the header of the output file).
+**Current output file:** `Rigveda_Samhita_Vol5_English_Translation.md` — append-only; never rewrite earlier sections.
+Volumes 1–4 files are closed; do not edit them. (`Rig_Vol1(1).pdf`, `Rig_Vol1(2).pdf` are extra Volume 1 scans added by the user; not in use.)
 
 ## Current position
 
-**Volume 4 is COMPLETE: Sūktas 33–46, printed pp. 1–608 = PDF 15–622 (the last page, ending with the colophon of the Third Adhyāya).** There is no next task in Volume 4. **Volume 5 has not been started**: the user has added `Rig_Vol5.pdf` (and `Rig_Vol6.pdf`, `Rig_Vol1(1).pdf`, `Rig_Vol1(2).pdf`) to the repository, but do not begin Volume 5 until the user asks; then follow "Starting the next volume" below (confirm filename, page count, PDF-to-printed-page offset, sūktas covered; new output file; update this section). Scheduled routines created for Volume 4 should, finding Volume 4 complete, stop and report rather than start Volume 5.
+**Volume 5: set-up done; no sūkta translated yet.** **Next task: Sūkta 47** (*ayaṃ vāṃ madhumattamaḥ*, Maṇḍala 1, Anuvāka 9, ten Riks, ṛṣi Praskaṇva Kāṇva, the Aśvins, Prāgātha–Bārhata), starting at printed p. 1 = PDF 17 (title of the Fourth Adhyāya and Sāyaṇa's introduction), heading on p. 2 (PDF 18), Rik 1 on p. 2. The contents table (in the output file header) lists Sūktas 47–61 and, at printed pp. 531–707, a Kannada Pariśiṣṭa (appendix on deities and persons) that is **not** to be translated unless the user asks. Sūkta start pages in the table are approximate (earlier volumes were off by 1–2 pages): check against the print.
 One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
-The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
+**After Volume 5 is complete (Sūkta 61 done): move on to Volume 6** (the user's instruction): in one session do the "Starting the next volume" set-up below for `Rig_Vol6.pdf` (confirm basics, offset, sūktas covered, new output file `Rigveda_Samhita_Vol6_English_Translation.md`, update this section), then translate sūktas one per session. Build the Volume 5 .docx only if the user asks.
+The Kannada preface of each volume (Volume 4: PDF 7–10; Volume 5: PDF 9) is deliberately not translated (an essay on the ṛṣis; its gist is recorded in the output header).
 
-**PDF-to-printed-page offset (Volume 4): printed page = PDF page − 14.** (Volumes 2–3: − 15.) Printed p. 1 is PDF 15 (title of the Third Adhyāya
-and Sāyaṇa's introduction); the heading of Sūkta 33 is on printed p. 2 (PDF 16). Page headers are as before ("Maṇḍala 1, Aṣṭaka 1, Adhyāya 3, Varga N").
+**PDF-to-printed-page offset (Volume 5): printed page = PDF page − 16.** (Volume 4: − 14; Volumes 2–3: − 15.) Printed p. 1 is PDF 17 (title of the Fourth Adhyāya
+and Sāyaṇa's introduction); the heading of Sūkta 47 is on printed p. 2 (PDF 18). Page headers are as before ("Maṇḍala 1, Aṣṭaka 1, Adhyāya 3, Varga N").
 Re-check the offset at the start of the next volume rather than assuming it.
 
 **Lessons from Sūkta 33 (add to the working habits):** (a) the Pada-pāṭha is printed *after* the Saṃhitā on the next page: do not write a reading note on
