@@ -1125,8 +1125,94 @@
 
 ---
 
+**Rik 48.8, continued** *(from p. 57)*
+
+**Sāyaṇa-bhāṣya** *(pp. 56–57)*
+
+> **विश्वं सर्वं जगत् जङ्गमं प्राणिजातमस्या उषसश्चक्षसे प्रकाशाय ननाम । प्रह्वीभवति । रात्रौ तमसि निमग्नाः सर्वे जनास्तन्निवारयित्रीमुषसमुपलभ्य नमस्कुर्वन्तीत्यर्थः । कुतः । यस्मादेषा सूनरी सुष्ठु नेत्री अभिमतफलस्य प्रापयित्र्येषा ज्योतिष्कृणोति सर्वं प्रकाशयति । किंच मघोनी मघवती धनवती दिवो दुहिता द्युलोकसकाशादुत्पन्नेषा द्वेषो द्वेष्ट्रॄनपोच्छत् । अपवर्जयति । तथा स्रिधः शोषयित्रॄनपोच्छत् । अपवर्जयति । तस्मादिष्टप्राप्त्यनिष्टपरिहारहेतुभूतामुषोदेवतां विश्वं जगन्नमस्करोतीत्यर्थः ॥ अस्याः । इदमोऽन्वादेश इत्येशादेशोऽनुदात्तः । विभक्तिश्च सुप्त्वादेनुदात्तेति सर्वानुदात्तत्वं । ननाम । संहितायामन्येषामपि दृश्यत इत्यभ्यासस्य दीर्घत्वं । तुजादित्वे हि तोतुजान इत्यादावि[व] पदकालेऽपि दीर्घः श्रूयते । ज्योतिः । इणः षः इत्यनुवृत्तावि सुसोः सामर्थ्ये । पा. ८-३-४४ । इति विसर्जनीयस्य षत्वं । द्वेषः । द्विष अप्रीतौ । अन्येभ्योऽपि दृश्यन्त इति विच् । लघूपधगुणः । मघोनी । मघं वनति सम्भजत इति मघोनी । श्वन्नुक्षन्नित्यादिना मघवन्शब्दः कनिन्प्रत्ययान्तो निपातितः । स्त्रियामृन्नेभ्यो ङीबिति ङीप् । भसंज्ञायां श्वयुवमघोनामतद्धित इति संप्रसारणं । उच्छत् । उछी विवासे । विवासो वर्जनं । छन्दसि लुङ्लङ्लिटः इति वर्तमाने लङ् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । स्रिधः । स्रिधु शोषणे । क्विप्चेति क्विप् ॥**
+
+*viśvaṃ sarvaṃ jagat jaṅgamaṃ prāṇijātam asyā uṣasaś cakṣase prakāśāya nanāma | prahvībhavati | rātrau tamasi nimagnāḥ sarve janās tannivārayitrīm uṣasam upalabhya namaskurvantīty arthaḥ | kutaḥ | yasmād eṣā sūnarī suṣṭhu netrī abhimataphalasya prāpayitry eṣā jyotiṣ kṛṇoti sarvaṃ prakāśayati | kiṃca maghonī maghavatī dhanavatī divo duhitā dyulokasakāśād utpannaiṣā dveṣo dveṣṭṝn apocchat | apavarjayati | tathā sridhaḥ śoṣayitṝn apocchat | apavarjayati | tasmād iṣṭaprāptyaniṣṭaparihārahetubhūtām uṣodevatāṃ viśvaṃ jagan namaskarotīty arthaḥ || asyāḥ | idamo 'nvādeśa ity eśādeśo 'nudāttaḥ | vibhaktiś ca suptvād enudātteti sarvānudāttatvaṃ | nanāma | saṃhitāyām anyeṣām api dṛśyata ity abhyāsasya dīrghatvaṃ | tujāditve hi totujāna ity ādāv i[va] padakāle 'pi dīrghaḥ śrūyate | jyotiḥ | iṇaḥ ṣaḥ ity anuvṛttāv i susoḥ sāmarthye | pā. 8-3-44 | iti visarjanīyasya ṣatvaṃ | dveṣaḥ | dviṣa aprītau | anyebhyo 'pi dṛśyanta iti vic | laghūpadhaguṇaḥ | maghonī | maghaṃ vanati sambhajata iti maghonī | śvann ukṣann ity ādinā maghavanśabdaḥ kaninpratyayānto nipātitaḥ | striyām ṛnnebhyo ṅībiti ṅīp | bhasaṃjñāyāṃ śvayuvamaghonām ataddhita iti saṃprasāraṇaṃ | ucchat | uchī vivāse | vivāso varjanaṃ | chandasi luṅlaṅliṭaḥ iti vartamāne laṅ | bahulaṃ chandasy amāṅyoge 'pīty aḍāgamābhāvaḥ | sridhaḥ | sridhu śoṣaṇe | kvip ceti kvip ||*
+
+*(Crowded: "tujāditve … totujāna … i[va]", the Pāṇini number after* susoḥ sāmarthye*, and the word after* aprītau*; marked as read, [?]. The print says* ucchat*; the Saṃhitā's line-end is thus* ucchad apa sridhaḥ*.)*
+
+**Translation:** "*Viśvam*, the whole, *jagat*, the moving beings, *asyāḥ*, of this Uṣas, *cakṣase*, for the light, *nanāma*, bows: becomes humble. Sunk in darkness in the night, all people, finding Uṣas who removes it, bow: this is the meaning. Why? Because this *sūnarī*, the good leader who brings the desired fruit, *jyotiḥ kṛṇoti*, makes light — illumines everything. Furthermore, *maghonī*, possessed of wealth, *divaḥ duhitā*, daughter of heaven, born from the world of heaven, *dveṣaḥ apa ucchat*, drives away haters; and *sridhaḥ*, those who dry up (wealth), drives away. Therefore the whole world bows to the goddess Uṣas, the cause of the gaining of the wished and of the removal of the unwished. *Asyāḥ*: *eś* is substituted in the *anvādeśa*, unaccented; the case-ending also unaccented, so all-unaccented. *Nanāma*: by *anyeṣām api dṛśyate*, the reduplicative syllable is lengthened in the Saṃhitā. *Jyotiḥ*: the *visarga* becomes *ṣ* (Pā. 8-3-44 [?]). *Dveṣaḥ*: root *dviṣa aprītau*; *vic* by *anyebhyo 'pi dṛśyante*. *Maghonī*: 'she who partakes of *magha*'; the word *maghavan* given by *nipātana* with *kanin* by *śvann ukṣann…*; *ṅīp* by *ṛnnebhyo ṅīp*; *saṃprasāraṇa* in the *bha*-name by *śvayuvamaghonām ataddhite*. *Ucchat*: root *uchī vivāse*; 'avoidance'; *laṅ* in the sense of the present by *chandasi luṅlaṅliṭaḥ*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*. *Sridhaḥ*: root *sridhu śoṣaṇe*, *kvip*."
+
+**Pratipadārtha** *(p. 57)* — "**viśvaṃ jagat** — the whole world (the group of living beings); **asyāḥ** — of this goddess Uṣas; **cakṣase** — for the light; **nanāma** — bows; **sūnarī** — the goddess Uṣas, who accomplishes (the wished fruit); **jyotiṣkṛṇoti** — (makes everything) light; **maghonī** — endowed with wealth; **divaḥ duhitā** — born from the heavenly world; **uṣāḥ** — the goddess Uṣas; **dveṣaḥ** — those who wish ill; **apa ucchat** — drives away; **sridhaḥ** — enemies who injure (our wealth and strength); **apa** (**ucchat**) — chases off."
+
+**Bhāvārtha** *(p. 57)* — "The whole world, which has experienced the darkness of night, bows and worships the goddess Uṣas, at the time of her rising, to destroy the darkness and give light. This goddess, who accomplishes everyone's wished-for object, lights up everything in the world. This goddess chases away from us those who wish us ill, and the enemies who, before, injured all that we had."
+
+**English Translation (the source's own, p. 57)** — "All creation bows to her manifestation ; bringer of good, she lights up the world ; the rich daughter of heaven drives away the haters and disperses the absorbers (of moisture ?)"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 58**
+- **nanāma** — "to bow. For the convenience of metre the first syllable of this word has been lengthened."
+- **jyotiṣkṛṇoti** — "*sarvaṃ prakāśayati*: she makes light the whole world. By driving away the darkness of night and giving light she gives joy to all beings. The idea is that everyone bows with gratitude to the goddess Uṣas, who does such a favour."
+- **sūnarī** — "though the word *sūnarī* has the sense 'goddess Uṣas', since in this ṛk the separate word *uṣāḥ* is present, the commentator has devised a literal sense for *sūnarī*: '*suṣṭhu netrī, abhimataphalasya prāpayitrī*', 'a good leader, one who brings the wished-for fruit'."
+- **dveṣaḥ** — "those who hate; enemies."
+- **maghonī** — "*magha* is wealth; one who has wealth or lordship, or one who gives wealth."
+- **duhitā divaḥ** — "daughter of heaven. She is called daughter of heaven since she comes from near the Sun, who is in heaven (in the atmosphere)."
+- **sridhaḥ** — "*sridhu śoṣaṇe*: those who dry up, who injure. What they injure is not clear."
+
+**Vyākaraṇa-prakriyā** *(pp. 58–60 — grammar pages, noted briefly)*
+- **asyāḥ**: after *idam*, in the genitive singular *ṅas*: *idam + ṅas*; in the *anvādeśa*, that is, when it takes up something previously present for another purpose, *idamo 'nvādeśe śanudāttas tṛtīyādau* (Pā. 2-4-32 as read) gives the unaccented substitute *aś* for *idam* when a third-case or later ending follows; because *aś* is *śit*, it replaces the whole: *a + as*; being a pronoun, in the feminine *syāṭ* comes to the ending and the stem is shortened; *ru*, *visarga*: *asyāḥ*; the case-ending is unaccented by *anudāttau suppitau*, and the substitute, being unaccented, makes the whole word all-unaccented.
+- **nanāma**: root *ṇama prahvatve śabde ca*, *bhvādi*; *liṭ*, third person singular; *anyeṣām api dṛśyate* (Pā. 6-3-137 as read) lengthens the reduplicative syllable in the Saṃhitā. The Kannada author raises a doubt: since the lengthening of the reduplicative syllable could be read in the *tujādi* list (*tujādīnāṃ dīrgho 'bhyāsasya*, Pā. 6-1-7 as read), and *nam* may be added to that list, then the lengthening, being constant, would also be heard in the *pada*-text; but here it is heard only in the Saṃhitā; so, as said before, it must be stated by *anyeṣām api dṛśyate* and only in the Saṃhitā.
+- **jyotiḥ**: *jyotis + kṛṇoti*; *s* becomes *ru*, *visarga*; *iṇaḥ ṣaḥ* continues and *i-susoḥ sāmarthye* (Pā. 8-3-44 as read) makes the *visarga* optionally *ṣ* before a *ku*- or *pu*-letter in the same sense; the "capacity" (*sāmarthya*) of Sanskrit is twofold; here the *vyapekṣā*-type is to be accepted, in which the words show mutual expectation; here *jyotis* and the verb are related, so there is capacity: *jyotiṣ kṛṇoti*.
+- **dveṣaḥ**: root *dviṣa aprītau*, *adādi*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read) gives *vic* even where no cause is stated; the *c* of *vic* is a marker, *i* is for pronunciation, *v* drops by *vero 'pṛktasya* (Pā. 6-1-67 as read); so only the root remains; *pugantalaghūpadhasya ca* gives *guṇa*: *dveṣ*; *śas*: *dveṣaḥ*.
+- **maghonī**: "*maghaṃ vanati sambhajate*", "he who has lordship"; *śvannukṣan…* (Uṇ. 1-15[?]6 as read [?]) gives *maghavan* by *nipātana*, ending in *kanin*; root *maha pūjāyām*; with *kanin*, the augment *a* and *gh* for *h*; *magh + av + an = maghavan*; for the feminine, *ṛnnebhyo ṅīp* (Pā. 4-1-5 as read) gives *ṅīp* to a stem in *n*; *maghavan + ī*, with the *bha*-name since a vowel-initial suffix follows; *śvayuvamaghonām ataddhite* (Pā. 6-4-133 as read) gives *saṃprasāraṇa* (*v* → *u*) in the *bha*-name when a non-*taddhita* suffix follows; *pūrvarūpa*: *magha + u + n + ī*; *guṇa*: *maghonī*.
+- **ucchat**: root *uchī vivāse*, *tudādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *laṅ* in the sense of the present; *śa* for the *tudādi*; *uchcha + a + ti*; *itaś ca* (Pā. 3-4-100 as read) drops the *i* of *laṅ*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read) — *aṭ* does not come, so the *aṭ* that should come before *laṅ* does not come: *ucchat*.
+- **sridhaḥ**: root *sridhu śoṣaṇe*; *kvip ca* (Pā. 3-2-76 as read) gives *kvip* after roots generally, as after *vij* and the rest; as in *vic*, all drops; since *sridh* is a *kṛdanta*, it is a *prātipadika*; accusative plural: *sridhaḥ*. **|| 8 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 56 (PDF 72) reached; introduction, heading and Riks 48.1–48.7 complete; Rik 48.8's Saṃhitā and Pada written at the foot of p. 56; its Sāyaṇa-bhāṣya begins there and continues on p. 57 and is NOT yet written.**
+### Rik 48.9 (pp. 60–62, PDF 76–78)
 
-**Next task:** continue at printed p. 56 foot / p. 57 (PDF 72–73) with the bhāṣya of Rik 48.8 (read afresh from the print), then Riks 9–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 72 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-072.jpg`). Flags for 48.6–7: 48.6's bhāṣya has several crowded stretches (marked [?] in the text) and its first word may be *yā* not *yo*; the Kannada gloss of *nakiḥ* as "all" kept as printed; 48.7's "eṣoṣodevī" as printed; the Rik 8 Saṃhitā line-end reading from the Pada [?]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 60; accents not reproduced)*
+
+> **उष आ भाहि भानुना चन्द्रेण दुहितर्दिवः ।**
+> **आवहन्ती भूर्यस्मभ्यं सौभगं व्युच्छन्ती दिविष्टिषु ॥ ९ ॥**
+
+*uṣa ā bhāhi bhānunā candreṇa duhitar divaḥ |*
+*āvahantī bhūry asmabhyaṃ saubhagaṃ vyucchantī diviṣṭiṣu || 9 ||*
+
+**Pada-pāṭha** *(p. 60)*
+
+> उषः । आ । भाहि । भानुना । चन्द्रेण । दुहितः । दिवः ।
+> आऽवहन्ती । भूरि । अस्मभ्यम् । सौभगम् । विऽउच्छन्ती । दिविष्टिषु ॥ ९ ॥
+
+*uṣaḥ | ā | bhāhi | bhānunā | candreṇa | duhitaḥ | divaḥ |*
+*ā-vahantī | bhūri | asmabhyam | saubhagam | vi-ucchantī | diviṣṭiṣu || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 60–61)*
+
+> **हे दिवो दुहितर्द्युलोकस्य पुत्रि उष उषोदेवते चन्द्रेण सर्वेषामाह्लादकेन भानुना प्रकाशेन आ समन्तादा भाहि । प्रकाशस्व । किं कुर्वती । दिविष्टिषु दिवसेषु भूरि प्रभूतं सौभगं सौभाग्यमस्मभ्यमावहन्ती संपादयन्ती । तथा व्युच्छन्ती तमांसि वर्जयन्ती ॥ उषः । षाष्ठिकमामन्त्रिताद्युदात्तत्वं । दुहितर्दिवः । परमपि छन्दसेति दिव इत्यस्य परस्य षष्ठ्यन्तस्य पूर्वामन्त्रिताङ्गवद्भावे सति षष्ठ्यामन्त्रितसमुदायस्याष्टमिकं सर्वानुदात्तत्वं । आवहन्ती । जीप्सपौ पित्त्वादनुदात्तौ । शतुश्चामुपदेशाल्लसार्वधातुकस्वरेणानुदात्तत्वं । आतो धातुस्वरः शिष्यते । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । भूरि । प्रभवति न विनश्यतीति भूरि । आदिशदिभूशुभिभ्यः क्रिन् । उ. ४-६३ [?] । इति क्रिन् । नित्त्वाद्यु[…]दात्तत्वं । सुभगस्य भावः सौभगं । सुभगा[न्त्र] इत्यादिना । इत्यद्वा[…] । हृद्भगसिन्ध्वन्ते पूर्वपदस्य चेत्युभयपदवृद्धौ प्राप्तायां सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनादुत्तरपदवृद्धिर्न भवतीति वृत्तावुक्तं । का. ७-३-१९ [?] । व्युच्छन्ती । उछी विवासे । विवासो वर्जनं । तौदादिकः । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे विकरणस्वरः । दिविष्टिषु । दिव्शब्देन दिविष्ट आदित्यो लक्ष्यते । तस्येष्टयः एषणानि गमनानि येषु दिवसेषु ते दिविष्टयः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥**
+
+*he divo duhitar dyulokasya putri uṣa uṣodevate candreṇa sarveṣām āhlādakena bhānunā prakāśena ā samantād ā bhāhi | prakāśasva | kiṃ kurvatī | diviṣṭiṣu divaseṣu bhūri prabhūtaṃ saubhagaṃ saubhāgyam asmabhyam āvahantī saṃpādayantī | tathā vyucchantī tamāṃsi varjayantī || uṣaḥ | ṣāṣṭhikam āmantritādyudāttatvaṃ | duhitar divaḥ | param api chandaseti diva ity asya parasya ṣaṣṭhyantasya pūrvāmantritāṅgavadbhāve sati ṣaṣṭhyāmantritasamudāyasyāṣṭamikaṃ sarvānudāttatvaṃ | āvahantī | ṅīpsapau pittvād anudāttau | śatuś cāmupadeśāl lasārvadhātukasvareṇānudāttatvaṃ | āto dhātusvaraḥ śiṣyate | samāse kṛduttarapadaprakṛtisvaratvaṃ | bhūri | prabhavati na vinaśyatīti bhūri | ādiśadibhūśubhibhyaḥ krin | u. 4-63 [?] | iti krin | nittvād yu[…]dāttatvaṃ | subhagasya bhāvaḥ saubhagaṃ | subhagā[ntra] ity ādinā | ity advā[…] | hṛdbhagasindhvante pūrvapadasya cety ubhayapadavṛddhau prāptāyāṃ sarve vidhayaś chandasi vikalpyanta iti vacanād uttarapadavṛddhir na bhavatīti vṛttāv uktaṃ | kā. 7-3-19 [?] | vyucchantī | uchī vivāse | vivāso varjanaṃ | taudādikaḥ | adupadeśāl lasārvadhātukānudāttatve vikaraṇasvaraḥ | diviṣṭiṣu | div-śabdena diviṣṭa ādityo lakṣyate | tasyeṣṭayaḥ eṣaṇāni gamanāni yeṣu divaseṣu te diviṣṭayaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+
+*(Crowded stretches in the print, marked […] and [?]: the words after "nittvād", the sentence "subhagā[ntra] ityādinā | ityadvā[…]", the Uṇādi and Kāśikā numbers. The print has "diviṣṭa" for the Sun, where I read "div-" with "iṣṭa", [?].)*
+
+**Translation:** "O *divo duhitar*, daughter of the heavenly world, O Uṣas, *candreṇa*, with delight-giving to all, *bhānunā*, with light, *ā bhāhi*, shine all around. Doing what? *Diviṣṭiṣu*, on the days, *bhūri*, abundantly, *saubhagam*, good fortune, *asmabhyam*, for us, *āvahantī*, bringing, accomplishing; and *vyucchantī*, driving away darknesses. *Uṣaḥ*: the vocative's initial acute by the genitive-ending rule. *Āvahantī*: *ṅīp* and *śap* are unaccented, being *pit*; *śatṛ*, from the list, is unaccented by *lasārvadhātuka*; the root-accent remains. *Bhūri*: 'what prevails and does not perish'; *krin* (Uṇ. 4-63 [?]). *Saubhagam*: 'the state of *subhaga*'; *vṛddhi* of both members is obtained by *hṛdbhagasindhvante pūrvapadasya ca*, but since all rules are optional in the Chandas, the *vṛddhi* of the second member does not come (Kāśikā 7-3-19 [?]). *Vyucchantī*: root *uchī vivāse*, of the *tudādi* class; the *vikaraṇa*-accent. *Diviṣṭiṣu*: by the word *div* the Sun, 'the desired one' (*iṣṭa*), is indicated [?]; 'the days in which there are his goings'; in the bahuvrīhi, the first member keeps its natural accent."
+
+**Pratipadārtha** *(p. 61)* — "**divaḥ duhitaḥ** — O daughter of the heavenly world; **uṣaḥ** — O goddess Uṣas; **diviṣṭiṣu** — every day; **bhūri** — very much; **saubhagam** — happiness; **asmabhyam** — to us; **āvahantī** — bringing about; **vṛcchantī** — dispelling (the night); **candreṇa** — delighting; **bhānunā** — with light; **ā bhāhi** — shine all around."
+
+**Bhāvārtha** *(p. 61)* — "O goddess Uṣas, born of the heavenly world, bring us abundant happiness every day. Drive away the night, which obstructs our works. Shine everywhere with your light, which gives joy to all."
+
+**English Translation (the source's own, p. 61)** — "Ushas, shine around with delightful brightness, bringing us every day much happiness and dispersing darkness."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 61**
+- **bhānunā** — "*prakāśena*: with light. Although in the Nirukta (Ni. 1-[?]1 as read) the word *bhānu* is explained as *ahaḥ*, 'day', the commentator, since there is the light of the Sun in the day, has taken the word *bhānu* in the sense of light. Or there is room for the doubt: since at the time of dawn the Moon is still visible and the Sun is beginning to rise, the ṛṣi might have prayed, 'O goddess of dawn, shine together with the Sun and the Moon.' Since the word *candra* is explained in the Nirukta (Ni. 1-[?]0 as read) as *hiraṇya*, 'gold', and in the same place (Ni. 1[?]-[?]) '*candraś candateḥ kāntikarmaṇaḥ*' (Ni. as read, crowded [?]) — "*candra* from the root *candati*, with the sense of 'shining'" — the word *candra* can also denote brightness. Taking the chief idea, the commentator has explained the word *candra* as 'delightful like the Moon' and the word *bhānu* as 'bright like the Sun'; this is acceptable."
+  — Nirukta citation (**untranslated in the source**), given in three layers:
+
+  > **चन्द्रश्चन्दतेः कान्तिकर्मणः ।** *(Ni. [?]-[?] as read [?])*
+
+  *candraś candateḥ kāntikarmaṇaḥ |* — mine and tentative: "*candra* (is) from *candati*, which has the sense of shining/being lovely."
+
+*(The Vyākaraṇa-prakriyā of Rik 9 begins on p. 62, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 61 (PDF 77) reached; introduction, heading and Riks 48.1–48.8 complete; Rik 48.9's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics are written; its grammar begins on p. 62 and is NOT yet written.**
+
+**Next task:** continue at printed p. 62 (PDF 78): insert "**Rik 48.9, continued** *(from p. 62)*" with the Vyākaraṇa-prakriyā of Rik 9 (if the page starts with the Special Topics' remainder, write that first); then Riks 10–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 78 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded). Flags for 48.8–9: crowded stretches in the bhāṣya tail (marked […]/[?] in the text); the Nirukta glosses are tentative; the Pāṇini/Uṇādi/Kāśikā numerals "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
