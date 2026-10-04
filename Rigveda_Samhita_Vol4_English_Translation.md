@@ -9447,8 +9447,118 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 45.7, continued** *(from p. 561)*
+
+**Sāyaṇa-bhāṣya** *(p. 561)*
+
+> **हे अग्ने विप्रा मेधाविनो दिविष्टिषु योगेषु त्वां नि दधिरे । स्थापितवन्तः । कीदृशं । होतारमाह्वातारं ऋत्विजमृतुषु यजनशीलं वसुवित्तममतिशयेन धनस्य लम्भयितारं श्रुत्कर्णं श्रवणयोग्यकर्णोपेतं सप्रथस्तममतिशयेन प्रख्यातं ॥ दधिरे । इरेच्चित्त्वादन्तोदात्तत्वं । पादादित्वान्निघाताभावः । दिविष्टिषु । इष्टय एषणानि । दिवः स्वर्गस्यैषणानि येषु योगेषु ते दिविष्टयः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनाद्दिव उत् । पा. ६-१-१३१ [?] । इत्युत्त्वं न क्रियते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥**
+
+*he agne viprā medhāvino diviṣṭiṣu yogeṣu tvāṃ ni dadhire | sthāpitavantaḥ | kīdṛśaṃ | hotāram āhvātāraṃ ṛtvijam ṛtuṣu yajanaśīlaṃ vasuvittamam atiśayena dhanasya lambhayitāraṃ śrutkarṇaṃ śravaṇayogyakarṇopetaṃ saprathastamam atiśayena prakhyātaṃ || dadhire | irecchittvād antodāttatvaṃ | pādāditvān nighātābhāvaḥ | diviṣṭiṣu | iṣṭaya eṣaṇāni | divaḥ svargasyaiṣaṇāni yeṣu yogeṣu te diviṣṭayaḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād diva ut | pā. 6-1-131 [?] | ity uttvaṃ na kriyate | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
+
+**Translation:** "O Agni, the wise sages, *diviṣṭiṣu*, in the sacrifices, *ni dadhire*, have set you down, established you. What kind of one? *Hotāram*, the caller; *ṛtvijam*, one given to worship in the seasons; *vasuvittamam*, one who most of all makes wealth be obtained; *śrutkarṇam*, endowed with ears fit for hearing; *saprathastamam*, most renowned. *Dadhire*: since the ending *ire* is *cit*, the end is acute; being at the head of a *pāda*, the all-unaccented does not come. *Diviṣṭiṣu*: *iṣṭayaḥ* means desires; those sacrifices in which there are desires for heaven (*divaḥ*, of *svarga*) are *diviṣṭayaḥ*; by the saying that all rules are optional in the Chandas, the *u* for *div* (Pā. 6-1-131 [?]) is not made; in the bahuvrīhi the first member keeps its natural accent."
+
+**Pratipadārtha** *(p. 561)* — "**agne** — O Agni; **viprāḥ** — the discerning (wise); **hotāram** — as one who calls (the deities); **ṛtvijam** — as one who sacrifices properly in the seasons; **vasuvittamam** — as the giver of abundant wealth; **śrutkarṇam** — as one with ears that hear subtly; **saprathastamam** — as one extremely renowned; **tvā** — you; **diviṣṭiṣu** — in the sacrifices; **ni dadhire** — have established."
+
+**Bhāvārtha** *(p. 561)* — "O Agni, you are the one who calls the gods to the sacrifice. You sacrifice properly in the seasons, give abundant wealth, and have subtle ears that hear the praises of the sacrificers well. By all these qualities you are extremely renowned. The wise and discerning priests have established you, endowed with these excellent qualities, in the sacrifices (have installed you)."
+
+**English Translation (the source's own, p. 561)** — "Agni, the wise men have placed (established) you in their sacrifices as the invoker, the priest, the giver of vast wealth, the quick-hearing and well-renowned."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 561–562**
+- **vasuvittamam** — "*atiśayena dhanasya lambhayitāram*: greatly, that is, in great measure; one who makes wealth be got by the sacrificer."
+- **śrutkarṇam** — "one who has ears that hear our invocation; that is, one who hears our invocation quickly."
+- **saprathastamam** — "*atiśayena prakhyātam*: very much renowned, greatly famous."
+- **diviṣṭiṣu** — "*iṣṭaya eṣaṇāni; divaḥ svargasyaiṣaṇāni yeṣu yogeṣu te diviṣṭayaḥ*: in the sacrifices that are performed in order to attain heaven."
+
+**Vyākaraṇa-prakriyā** *(p. 562 — grammar page, noted briefly)*
+- **dadhire**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *liṭ*, *jha* as substitute; *liṭas tajhayor eśirec* (Pā. 3-4-81 as read) — लिटस्तझयोरेशिरेच् — in place of *ta* and *jha* of *liṭ*, *eś* and *irec*; hence *irec* for *jha*; doubling; shortening of the reduplicative syllable; *abhyāse carca* (Pā. 8-4-54 as read) — अभ्यासे चर्च — the aspirated and other *jhal* letters in the reduplicative syllable become *car* and *jaś* letters: the *dh* of the reduplicative syllable becomes *d*; *dadhā + ire*; *āto lopa iṭi ca* (Pā. 6-4-64 as read) drops the *ā*: *dadhire*. The ending *ire* is *cit*, hence the end-acute; because it stands at the head of the second *pāda*, the all-unaccented by *tiṅ atiṅaḥ* does not come.
+- **diviṣṭiṣu**: root *iṣa gatau*; *striyāṃ ktin*, the *ṣṭutva*; "*divaḥ iṣṭiḥ eṣaṇaṃ yeṣu yogeṣu te diviṣṭayaḥ*", a bahuvrīhi — those sacrifices in which there is a desire for heaven; *diva ut* (Pā. 6-1-131 as read [?]) — दिव उत् — the final of *div* in the *pada* becomes *u*; though it is obtained, the maxim *sarve vidhayaś chandasi vikalpyante* (paribhāṣā, "63" as read [?]) makes it optional, so it does not come; the first member keeps its natural accent. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 560 (PDF 574) reached; heading, introduction and Riks 45.1–45.6 complete; Rik 45.7's Saṃhitā and Pada written at the foot of p. 560 (its bhāṣya begins on p. 561).**
+### Rik 45.8 (pp. 563–565, PDF 577–579)
 
-**Next task:** continue at printed p. 561 (PDF 575) with the bhāṣya of Rik 45.7, then Riks 8–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 575 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Rik 45.6: Āśvalāyana section-name and numerals, the Uṇādi number, the last word of the *voḷhave* tail and the Prātiśākhya-type rule on *ḷh* are [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 563; accents not reproduced)*
+
+> **आ त्वा विप्रा अचुच्यवुः सुतसोमा अभि प्रयः ।**
+> **बृहद्भा बिभ्रतो हविरग्ने मर्ताय दाशुषे ॥ ८ ॥**
+
+*ā tvā viprā acucyavuḥ sutasomā abhi prayaḥ |*
+*bṛhadbhā bibhrato havir agne martāya dāśuṣe || 8 ||*
+
+**Pada-pāṭha** *(p. 563)*
+
+> आ । त्वा । विप्राः । अचुच्यवुः । सुतऽसोमाः । अभि । प्रयः ।
+> बृहत् । भाः । बिभ्रतः । हविः । अग्ने । मर्ताय । दाशुषे ॥
+
+*ā | tvā | viprāḥ | acucyavuḥ | suta-somāḥ | abhi | prayaḥ |*
+*bṛhat | bhāḥ | bibhrataḥ | haviḥ | agne | martāya | dāśuṣe ||*
+
+*(As printed, the Pada stops without the closing numeral; the Pada divides* bṛhadbhā *as* bṛhat *|* bhāḥ*, which the bhāṣya follows.)*
+
+**Sāyaṇa-bhāṣya** *(p. 563)*
+
+> **हे अग्ने सुतसोमा अभिषुतसोमयुक्ता विप्रा मेधाविन ऋत्विजः प्रयोऽभि हविर्लक्षणमन्नमभिलक्ष्य त्वा आचुच्यवुः । त्वामागमयन्ति । कीदृशं त्वां । बृहन्महान्तं भा भासमानं । कीदृशा विप्राः । दाशुषे मर्ताय हविष्प्रदस्य [?] यजमानस्य सम्बन्धि हविर्बिभ्रतो धारयन्तः ॥ आचुच्यवुः । च्युङ् गतौ । अस्मादन्तर्भावितण्यर्थात् लङ् व्यत्ययेन परस्मैपदं । बहुलं छन्दसीति शपः श्लुः । सिजभ्यस्तविदिभ्यश्च । पा. ३-४-१०९ [?] । इति झेर्जुसादेशः । जुसि च । पा. ७-३-८३ [?] । इति गुणः । बृहत् । भाः । उभयत्र सुपां सुलुगिति विभक्तेर्लुक् । बिभ्रतः । डुभृञ् धारणपोषणयोः । शतरि नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । मर्ताय दाशुषे । उभयत्र षष्ठ्यर्थे चतुर्थी वक्तव्या । पा. २-३-६२-१ [?] । इति चतुर्थी ॥**
+
+*he agne sutasomā abhiṣutasomayuktā viprā medhāvina ṛtvijaḥ prayo 'bhi havirlakṣaṇam annam abhilakṣya tvā ācucyavuḥ | tvām āgamayanti | kīdṛśaṃ tvāṃ | bṛhan mahāntaṃ bhā bhāsamānaṃ | kīdṛśā viprāḥ | dāśuṣe martāya haviṣpradasya [?] yajamānasya sambandhi havir bibhrato dhārayantaḥ || ācucyavuḥ | cyuṅ gatau | asmād antarbhāvitaṇyarthāt laṅ vyatyayena parasmaipadaṃ | bahulaṃ chandasīti śapaḥ śluḥ | sijabhyastavidibhyaś ca | pā. 3-4-109 [?] | iti jher jusādeśaḥ | jusi ca | pā. 7-3-83 [?] | iti guṇaḥ | bṛhat | bhāḥ | ubhayatra supāṃ sulug iti vibhakter luk | bibhrataḥ | ḍubhṛñ dhāraṇapoṣaṇayoḥ | śatari nābhyastāc chatur iti numāgamapratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvaṃ | martāya dāśuṣe | ubhayatra ṣaṣṭhyarthe caturthī vaktavyā | pā. 2-3-62-1 [?] | iti caturthī ||*
+
+*(The phrase "haviṣpradasya" in the middle of the bhāṣya is crowded in the print, [?]; the verb-form* ācucyavuḥ *is* ā *+* acucyavuḥ *joined.)*
+
+**Translation:** "O Agni, the *sutasomāḥ*, those furnished with pressed Soma, the *viprāḥ*, the wise priests, *abhi prayaḥ*, with the food in the form of the oblation in view, *ā acucyavuḥ*, have made you come. What kind of you? *Bṛhat*, great, *bhāḥ*, shining. What kind of priests? *Bibhrataḥ*, bearing, holding, the *haviḥ* of the sacrificer who is the *dāśuṣe martāya*, the mortal who gives the oblation."
+
+**Grammatical tail** *(characterized; numerals as read [?])*
+- *ācucyavuḥ*: root *cyuṅ gatau*, with the causative sense (*ṇic*) included; the imperfect (*laṅ*) with the *parasmaipada* by the principle of exchange (*vyatyaya*); *śap* → *ślu* "because of the Chandas"; *jhi* → *jus* by *sijabhyastavidibhyaś ca* (Pā. 3-4-109 as read [?]); *guṇa* by *jusi ca* (Pā. 7-3-83 as read [?]).
+- *bṛhat*, *bhāḥ*: in both the case-ending is dropped (*supāṃ suluk…*). *Bibhrataḥ*: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; before *śatṛ*, the augment *num* is forbidden by *nābhyastāc chatuḥ*; the initial acute by *abhyastānām ādiḥ*.
+- *martāya dāśuṣe*: in both, the dative is to be said in the sense of the genitive (vārttika, Pā. 2-3-62-1 as read [?]).
+
+**Pratipadārtha** *(p. 563)* — "**agne** — O Agni; **sutasomāḥ** — those furnished with pressed Soma juice; **dāśuṣe** — who gives the oblation; **martāya** — (on behalf) of the human sacrificer; **haviḥ** — the oblation; **bibhrataḥ** — and holding; **viprāḥ** — the wise priests; **bṛhat** — of great form; **bhāḥ** — and shining; **tvā** — you; **prayaḥ abhi** — towards the food in the form of the oblation; **ā acucyavuḥ** — have caused to come."
+
+**Bhāvārtha** *(p. 564)* — "O Agni, the wise priests, having pressed the Soma juice, have taken the oblation up to offer it to you on behalf of the sacrificer who gives the oblation. You are of great form and shining. They have caused you, endowed with radiance, to come towards the food in the form of the oblation."
+
+**English Translation (the source's own, p. 564)** — "O Agni, shining with great splendour, the wise priests with libations of Soma-juice and holding the oblation on behalf of the person who presents it, have summoned you to partake of the sacrificial food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 564**
+- **ācucyavuḥ** — "*cyuṅ gatau*: they have caused (you) to come."
+- **bṛhadbhāḥ** — "*bṛhan mahāntaṃ bhā bhāsamānaḥ*: one who shines with great, abundant brilliance."
+- **bibhrato haviḥ** — "standing holding the oblation in order to offer it to you."
+- **martāya dāśuṣe** — "on behalf of the man who offers the oblation to you, that is, on behalf of the sacrificer."
+- **prayaḥ** — "food in the form of the oblation."
+
+**Vyākaraṇa-prakriyā** *(pp. 564–565 — grammar pages, noted briefly)*
+- **acucyavuḥ**: root *cyuṅ gatau* (class 1), the root including *ṇic*; *laṅ*; the *ātmanepada* "should lawfully come" by *anudātta-ṅita ātmanepadam* (Pā. 1-3-12 as read) but by *vyatyayo bahulam* (Pā. 3-1-85 as read) the *parasmaipada*; the *aṭ* augment; *jhi*; *śap* → *śla* by *bahulaṃ chandasi* (Pā. 2-4-73 as read); doubling after *śla*; *halādiḥ śeṣaḥ* drops the *y* of the reduplicative syllable (*cyu → cu*); *pūrvo 'bhyāsaḥ* (Pā. 6-1-4) names the first part of the doubled word the *abhyāsa*; *sijabhyastavidibhyaś ca* (Pā. 3-4-109 as read) — सिजभ्यस्तविदिभ्यश्च — *jus* in place of *jhi* after *sic*, an *abhyasta* or *vid*; *ubhe abhyastam* (Pā. 6-1-5 as read) — the whole doubled word is named *abhyasta*; *jusi ca* (Pā. 7-3-83 as read) — जुसि च — *guṇa* for the *ik*-ending *aṅga* before *jus*: *u* → *o*; *acucyo + us*; *avādeśa*: *acucyavus*; *ru*, *visarga*.
+- **bṛhat-bhāḥ**: in both, the case-ending drops by *supāṃ suluk…* (Pā. 7-1-39 as read).
+- **bibhrataḥ**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*; *laṭaḥ śatṛśānacau* — *śatṛ* in place of *laṭ*; by *nābhyastāc chatuḥ* (Pā. 7-1-78 as read) no *num* after an *abhyasta* stem; so when *jas* follows, the *num* that would come by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* does not come; *abhyastānām ādiḥ* (Pā. 6-1-189 as read) gives the initial acute.
+- **martāya, dāśuṣe**: *ṣaṣṭhyarthe caturthī vacanam* (Pā. 2-3-62 [vārttika], as read "2-3-62-1" [?]) — षष्ठ्यर्थे चतुर्थी वचनम् — the dative in the sense of the genitive. **|| 8 ||**
+
+---
+
+### Rik 45.9 (p. 565 foot, PDF 579–)
+
+**Saṃhitā-pāṭha** *(p. 565; accents not reproduced)*
+
+> **प्रातर्याव्णः सहस्कृत सोमपेयाय सन्त्य ।**
+> **इहाद्य दैव्यं जनं बर्हिरा सादया वसो ॥ ९ ॥**
+
+*prātaryāvṇaḥ sahaskṛta somapeyāya santya |*
+*ihādya daivyaṃ janaṃ barhir ā sādayā vaso || 9 ||*
+
+**Pada-pāṭha** *(p. 565)*
+
+> प्रातःऽयाव्णः । सहःऽकृत । सोमऽपेयाय । सन्त्य ।
+> इह । अद्य । दैव्यम् । जनम् । बर्हिः । आ । सादय ।
+> वसो इति ॥ ९ ॥
+
+*prātaḥ-yāvṇaḥ | sahaḥ-kṛta | soma-peyāya | santya |*
+*iha | adya | daivyam | janam | barhiḥ | ā | sādaya |*
+*vaso iti || 9 ||*
+
+*(The bhāṣya of Rik 9 begins on p. 566, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 565 (PDF 579) reached; heading, introduction and Riks 45.1–45.8 complete; Rik 45.9's Saṃhitā and Pada written at the foot of p. 565 (its bhāṣya begins on p. 566).**
+
+**Next task:** continue at printed p. 566 (PDF 580) with the bhāṣya of Rik 45.9, then Rik 10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 580 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.7–8: "haviṣpradasya" in 45.8's bhāṣya crowded [?]; Pāṇini numerals "as read [?]"; the Pada of 45.8 printed without closing numeral. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
