@@ -1184,10 +1184,120 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 34.2 — Vyākaraṇa-prakriyā, concluded (p. 85, PDF 99; grammar page, noted briefly)
+
+- **skabhitāsaḥ** (concluded): *yasya vibhāṣā* — यस्य विभाषा — Pā. 7-2-15 bars the *iṭ* of *ktvā*/*kta* after a root whose *iṭ* is optional somewhere; so with *skabh + ta* the *iṭ* would be barred; but the sūtra *grasitaskabhitastabhita…* — ग्रसितस्कभितस्तभित… — Pā. 7-2-34 [as printed 7-2-3[?]] lists *skabhita* as an irregular form, so *iṭ* comes; *jas* takes *asuk*.
+- **ārabhe**: root *rabha rābhasye* with the preverb *ā*; *sampadādibhyaḥ kvip* — a vārtika — gives *kvip* in the verbal-noun sense; *gatikārakopapadāt kṛt* — Pā. 6-2-139 — the later member keeps its natural accent; the case-ending is replaced by *śe*. Rik 2 ends here (*|| 2 ||*).
+
+### Rik 34.3 (pp. 85–89, PDF 99–103)
+
+**Saṃhitā-pāṭha** *(p. 85; accents not reproduced)*
+
+> **समाने अहन्त्रिरवद्यगोहना त्रिरद्य यज्ञं मधुना मिमिक्षतम् ।**
+> **त्रिर्वाजवतीरिषो अश्विना युवं दोषा अस्मभ्यमुषसश्च पिन्वतम् ॥ ३ ॥**
+
+*samāne ahan trir avadyagohanā trir adya yajñaṃ madhunā mimikṣatam |*
+*trir vājavatīr iṣo aśvinā yuvaṃ doṣā asmabhyam uṣasaś ca pinvatam || 3 ||*
+
+**Pada-pāṭha** *(p. 85)*
+
+> समाने । अहन् । त्रिः । अवद्यऽगोहना । त्रिः । अद्य । यज्ञम् । मधुना । मिमिक्षतम् ॥
+> त्रिः । वाजऽवतीः । इषः । अश्विना । युवम् । दोषाः । अस्मभ्यम् । उषसः । च । पिन्वतम् ॥ ३ ॥
+
+*samāne | ahan | triḥ | avadya-gohanā | triḥ | adya | yajñam | madhunā | mimikṣatam ||*
+*triḥ | vāja-vatīḥ | iṣaḥ | aśvinā | yuvam | doṣāḥ | asmabhyam | uṣasaḥ | ca | pinvatam || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 86; the first half in full, the grammatical tail characterized)*
+
+> हे अश्विना अश्विनौ देवौ युवं युवामुभौ समानेऽहन्नेकस्मिन्ननुष्ठानदिने त्रिरवद्यगोहना त्रिवारमनुष्ठानगतानां दोषाणां संवरणकारिणौ भवतम् । अद्यास्मिन्दिने यज्ञं यज्ञगतं हविर्मधुना मधुररसेन त्रिर्मिमिक्षतम् । त्रिवारं सिञ्चतम् । किंच दोषा उषसश्च रात्रीर्दिवसांश्च रात्रिषु दिवसेषु नैरन्तर्येण वाजवतीर्बलकारिणीरिषोऽन्नान्यस्मभ्यं पिन्वतम् । सिञ्चतम् । प्रयच्छतमित्यर्थः ॥
+
+*he aśvinā aśvinau devau yuvaṃ yuvām ubhau samāne 'han ekasminn anuṣṭhānadine trir avadyagohanā trivāram anuṣṭhānagatānāṃ doṣāṇāṃ saṃvaraṇakāriṇau bhavatam | adyāsmin dine yajñaṃ yajñagataṃ havir madhunā madhurarasena trir mimikṣatam | trivāraṃ siñcatam | kiṃca doṣā uṣasaś ca rātrīr divasāṃś ca rātriṣu divaseṣu nairantaryeṇa vājavatīr balakāriṇīr iṣo 'nnāny asmabhyaṃ pinvatam | siñcatam | prayacchatam ity arthaḥ ||*
+
+**Translation:** "O Aśvins, divine ones, both of you, on *samāne ahan* — on one and the same day of performance — be *triḥ avadyagohanā* — three times coverers (concealers) of the faults that occur in the performance. *Adya* — today — sprinkle *triḥ* — thrice — *yajñam*, the oblation in the sacrifice, *madhunā*, with the sweet juice. And *doṣā uṣasaḥ ca* — by nights and by days — i.e. in the nights and the days continuously — *pinvatam* — pour out, give — to us *iṣaḥ*, foods, *vājavatīḥ* — strength-giving."
+
+**Grammar within the bhāṣya** *(p. 86, characterized)*: *ahan* (the seventh-case singular dropped by *supāṃ sulug…*, *saptamyā luk*); *avadyagohanā* (root *guhū saṃvaraṇe*; *avadyasya gūhayitārau*, "concealers of fault", with *lyu*, and the Vedic non-lengthening: the rule *ūduḥ upadhāyā goṭ* [read *ūduṇ upadhāyā goḥ* — Pā. 6-4-89 [?]] is not applied here, being Vedic; the dual ending *ā*); *mimikṣatam* (root *miha secane*, desiderative *san*; there is no *iṭ* by *ekāca upadeśe 'nudāttāt* — Pā. 7-2-10; *halantāc ca* — Pā. 1-2-10 makes *san* *kit*, so no *guṇa*; doubling, the reduplicate cut down by *halādiḥ śeṣaḥ*; *dvirbhāva*…); *vājavatīḥ* (*ugitaś ca* — Pā. 4-1-6 — *ṅīp*); *pinvatam* (root *pivi*, *minyi*/*ninvi* *secane*; *idit*, so the nasal augment; *śap*).
+
+**Pratipadārtha** *(p. 86)* — "**aśvinā** — O Aśvin deities; **yuvam** — you; **samāne ahan** — on one day; **triḥ avadyagohanā** — (do) thrice conceal (our) faults; **adya** — today; **yajñam** — the oblation connected with the sacrifice; **madhunā** — with the sweet *soma* juice; **triḥ mimikṣatam** — [desire] thrice to sprinkle (not only once); **doṣā** — by night; **uṣasaḥ ca** — and also by day; **asmabhyam** — to us; **vājavatīḥ** — nourishing; **iṣaḥ** — foods; **pinvatam** — pour out [for us]."
+
+**Bhāvārtha** *(p. 86)* — "O gods, you are great-hearted. On a single day, three times, forgive and cover our faults. And, looking upon our oblation three times with sweet [juice], give us foods that nourish us, by night and by day, in abundance."
+
+**English Translation (the source's own, p. 86)** — "Thrice on the same day you forgive the faults of the worshippers ; thrice this day you sprinkle our sacrifice with honey ; O Aswins, thrice give us nourishing foods every night and every day."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 87**
+- **samāne ahan** — "*whole day* [the print's English]; in one whole day on which we perform the sacrifice."
+- **triḥ avadyagohanā** = *trivāram anuṣṭhānagatānāṃ doṣāṇāṃ saṃvaraṇakāriṇau bhavatam*: "in the sacrifice that we perform, in the three times — morning, midday, evening — do cover over the faults and omissions that may occur through carelessness, so that the sacrifice may be made complete with all its limbs, without deficiency or excess."
+- **yajñaṃ madhunā mimikṣatam** — "sprinkle the sacrifice with honey; that is, make the sacrificial work and the oblations used in it well acceptable."
+- **vājavatīḥ iṣaḥ** = *vājavatīr balakāriṇīr iṣo 'nnān*: "*vāja* means food, *iṣa* also means food; hence the bhāṣyakāra explains *vājavatīḥ* as *balakāriṇī*, i.e. *nourishing* [the print's English]."
+- **asmabhyaṃ pinvatam** = *asmabhyaṃ siñcatam*: "give us."
+- **doṣā, uṣasaḥ** — "*doṣā* means night with darkness; *uṣasaḥ* = the dawn-time, which is light: day. The sense is: by day and by night."
+
+**Vyākaraṇa-prakriyā** *(pp. 87–88, grammar pages, noted briefly)*
+- **ahan** (p. 87): the seventh-case singular dropped by *supāṃ sulug…* — सुपां सुलुक्… — Pā. 7-1-39 (as *luk*).
+- **avadyagohanā**: root *guhū saṃvaraṇe* ("to cover"); *avadya* = fault; *avadyasya gūhayitārau*; the suffix *lyu* by *nandigrahipacādibhyo lyuṇinyacaḥ* — Pā. 3-1-134, with *ana* for *yu*; *avadya + guh + ana*; the lengthening of the root's penultimate *u* — *ūduṇ upadhāyā goḥ* [printed *ūdupadhāyā goḥ*] — ऊदुपधाया गोहः — Pā. 6-4-89 — occurs before a vowel-initial *guṇa*-causing ending and is not applied here (Vedic); the dual ending replaced by *ā*.
+- **mimikṣatam** (p. 87 end – p. 88, PDF 101–102): root *miha secane*; the suffix *san*; *ekāca upadeśe 'nudāttāt* — एकाच उपदेशेऽनुदात्तात् — Pā. 7-2-10: no *iṭ* for a *val*-initial *ārdhadhātuka* after a one-vowelled *anudātta* root, hence none for *san*; *halantāc ca* — हलन्ताच्च — Pā. 1-2-10: *san* after a consonant-final root is *kit* (the print explains *anta* as "near", and *hal* as with the ablative ending dropped), so *kṅiti ca* — Pā. 1-1-5 bars *guṇa*; doubling by *sanyaṅoḥ* — Pā. 6-1-9, *halādiḥ śeṣaḥ* dropping the first *h*; *h* → *ḍh* by *ho ḍhaḥ* — हो ढः — Pā. 8-2-31; *ḍh* → *k* by *ṣaḍhoḥ kassi* — षढोः कः सि — Pā. 8-2-41; *s* → *ṣ* by *ādeśapratyayayoḥ* — आदेशप्रत्यययोः — Pā. 8-3-59: *mimikṣa*; then the *loṭ* second-person dual, replaced by *tam*.
+- **vājavatīḥ**: *vāja* = strength [the print's gloss]; *matup* by *tadasyāsty asminn iti matup* — तदस्यास्त्यस्मिन्निति मतुप् — Pā. 5-2-94; the *m* of *matup* becomes *v* after a stem ending in *a* [or *ā*] by *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — Pā. 8-2-9; *matup* is *ugit*, so *ṅīp* in the feminine by *ugitaś ca* — उगितश्च — Pā. 4-1-6.
+- **pinvatam**: root *pivi secane*, *idit*, so the augment *num* by *idito num dhātoḥ* — इदितो नुम् धातोः — Pā. 7-1-58; *loṭ*, *thas*, *lasya* … replaced by *tam*; *śap* by *kartari śap* — Pā. 3-1-68. Rik 3 ends here (*|| 3 ||*).
+
+### Rik 34.4 (pp. 88–91, PDF 102–105)
+
+**Saṃhitā-pāṭha** *(p. 88; accents not reproduced)*
+
+> **त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् ।**
+> **त्रिर्नान्द्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतम् ॥ ४ ॥**
+
+*trir vartir yātaṃ trir anuvrate jane triḥ suprāvye tredheva śikṣatam |*
+*trir nāndyaṃ vahatam aśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvatam || 4 ||*
+
+**Pada-pāṭha** *(p. 89)*
+
+> त्रिः । वर्तिः । यातम् । त्रिः । अनुऽव्रते । जने । त्रिः । सुऽप्रऽअव्ये । त्रेधाऽइव । शिक्षतम् ॥
+> त्रिः । नान्द्यम् । वहतम् । अश्विना । युवम् । त्रिः । पृक्षः । अस्मे इति । अक्षराऽइव । पिन्वतम् ॥ ४ ॥
+
+*triḥ | vartiḥ | yātam | triḥ | anu-vrate | jane | triḥ | su-pra-avye | tredhā-iva | śikṣatam ||*
+*triḥ | nāndyam | vahatam | aśvinā | yuvam | triḥ | pṛkṣaḥ | asme iti | akṣarā-iva | pinvatam || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 89; the first half in full, the grammatical tail characterized)*
+
+> हे अश्विना युवं त्रिर्वर्तिर्यातम् । अस्मदीयवर्तनसाधनं गृहं त्रिर्यातम् । त्रिवारं प्राप्नुतम् । तथानुव्रतेऽस्मदनुकूलव्यापारयुक्ते जने त्रिर्यातम् । त्रिवारं तदनुग्रहाय गच्छतम् । त्रिः सुप्राव्ये त्रिवारं सुष्ठु प्रकर्षेण भवद्भ्यां रक्षणीये प्रवर्तमानास्मान् त्रेधेव त्रिभिरेव प्रकारैः शिक्षतम् । पुनःपुनरनुष्ठानमुपदेश्वन्यम् [?] इत्यर्थः । तथा नान्द्यं नन्दनीयं संतोषकरं फलं त्रिर्वहतम् । प्रापयतम् । अस्मे अस्मासु पृक्षोऽन्नं त्रिः पिन्वतम् । त्रिवारं प्रयच्छतम् । तत्र दृष्टान्तः । अक्षरेव । अक्षराण्युदकानि अक्षरा स्रोतस्तृप्तिरिति तन्नामसु पाठात् । तानि पर्जन्यो यथा प्रयच्छति तद्वत् ॥
+
+*he aśvinā yuvaṃ trir vartir yātam | asmadīyavartanasādhanaṃ gṛhaṃ trir yātam | trivāraṃ prāpnutam | tathānuvrate 'smadanukūlavyāpārayukte jane trir yātam | trivāraṃ tadanugrahāya gacchatam | triḥ suprāvye trivāraṃ suṣṭhu prakarṣeṇa bhavadbhyāṃ rakṣaṇīye pravartamānāsmān tredheva tribhir eva prakāraiḥ śikṣatam | punaḥ punar anuṣṭhānam upadeśvanyam [?] ity arthaḥ | tathā nāndyaṃ nandanīyaṃ saṃtoṣakaraṃ phalaṃ trir vahatam | prāpayatam | asme asmāsu pṛkṣo 'nnaṃ triḥ pinvatam | trivāraṃ prayacchatam | tatra dṛṣṭāntaḥ | akṣareva | akṣarāṇy udakāni akṣarā srotas tṛptir iti tannāmasu pāṭhāt | tāni parjanyo yathā prayacchati tadvat ||*
+
+**Translation:** "O Aśvins, *triḥ vartiḥ yātam* — go thrice to our *vartiḥ*, our house, the means of our livelihood: reach it three times; likewise, go three times to the man *anuvrate* — engaged in works favourable to us — for his favour. *Triḥ suprāvye* — three times, to [us] who are engaged in matters to be protected well and excellently by you, *tredheva śikṣatam* — instruct in threefold manner: that is, the sense is that [you should teach] the performance again and again [the exact words of the middle clause are uncertain to me]. And *nāndyam* — a pleasing, joy-giving fruit — *triḥ vahatam* — bring three times. *Asme* — to us — *pṛkṣaḥ*, food, *triḥ pinvatam* — pour out, give thrice. The simile: *akṣareva* — as *akṣarāṇi*, waters ('*akṣarā*', 'stream', 'satisfaction', being read in the lists of such names) — as Parjanya gives those [waters], so [give us food]."
+
+**Grammar within the bhāṣya** *(p. 89, characterized)*: *vartiḥ* (*vartate 'trety vartir gṛham*; the suffix *in* by *hṛpiṣiruhivṛtividi…* [the Uṇādi sūtra on the *in*-suffix, number read as 4-[?]]); *suprāvye* (*su* + *pra* + *ava*, the *ṇyat* suffix in the object sense after *av* with two preverbs, *vṛddhi* absent because "a rule that has a technical term as its antecedent is not constant"; *svarita* by *titsvaritam*); *śikṣatam* (*śikṣa vidyopādāne*); *nāndyam* (ending in *ṇyat*); *pṛkṣaḥ* (root *pṛcī samparke*, with the augment *suṭ* before *asun*); *asme* (*śe* in place of the ending by *supāṃ sulug…*); *akṣarā iva* (*akṣarāṇy udakāni*, "that which pervades"; the Uṇādi suffix *kṣara*; loss of *śi*).
+
+**Pratipadārtha** *(pp. 89–90)* — "**aśvinā** — O Aśvin deities; **yuvam** — you; **triḥ** — three times; **vartiḥ** — to our house; **yātam** — graciously come; **anuvrate** — [him] who does what is good for us; **jane** — [to] the people (to their house also); **triḥ yātam** — come thrice; **triḥ** — three times; **suprāvye** — to us, who are fit to be protected; **tredhā iva** — in three ways; **śikṣatam** — [teach] (knowledge); **nāndyam** — a delight-giving fruit; **triḥ vahatam** — bring thrice; **akṣarā iva** — as streams of water (Parjanya); **asme** — to us; **pṛkṣaḥ** — food; **triḥ** — three times; **pinvatam** — give abundantly."
+
+**Bhāvārtha** *(p. 90)* — "O Aśvin deities, three times each day, favour with your kindness the house of those who do us good, and ours. We are worthy of protection. Teach us threefold knowledge. Give us food, too, three times a day."
+
+**English Translation (the source's own, p. 90)** — "O Aswins, thrice visit our house and persons who are well disposed towards us ; thrice repair to him who deserves your protection and instruct us in three-fold knowledge ; thrice grant us rewards which please us ; thrice bestow upon us food as the unceasing streams of water (rain)" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 90–91**
+- **anuvrate jane** = *asmadanukūlavyāpārayukte jane*: "among people acting favourably toward us; our well-wishers."
+- **suprāvye** = *suṣṭhu bhavadbhyāṃ rakṣaṇīye*: "by those who, by praising and calling on you with hymns, are worthy of your protection."
+- **tredheva śikṣatam**: "What the threefold teaching is, is doubtful here. Probably 'by body, by speech and by mind' are the meanings suggested."
+- **nāndyam** = *nandanīyam, harṣapradam*: "joy-giving; what is pleasing to us, a thing that we need."
+- **vahatam** = *prāpayetam*: "cause us to obtain."
+- **pṛkṣaḥ** = "food; since *pṛkṣaḥ* is read among the thirty-eight words for food beginning *andhaḥ*, *vājaḥ* (Ni. 2-7 [?]), *pṛkṣa* means food, nourishment."
+- **akṣareva pinvatam** = *udakam iva siñcatam*: "sprinkle [us] as with water. Since *akṣara* is read among the hundred names for water beginning *aṇaḥ*, *kṣodaḥ* (Ni. 1-12 [?]), *akṣareva* means 'like a stream, like rain'. On this the ṛk:"
+
+> तस्याः समुद्रा अधि वि क्षरन्ति तेन जीवन्ति प्रदिशश्चतस्रः ।
+> ततः क्षरत्यक्षरं तद्विश्वमुप जीवति ॥ (ऋ. सं. १-१६४-४२ [?])
+
+*tasyāḥ samudrā adhi vi kṣaranti tena jīvanti pradiśaś catasraḥ | tataḥ kṣaraty akṣaraṃ tad viśvam upa jīvati || (ṛ. saṃ. 1-164-42 [?])*
+
+"clearly explains the sense of the word *akṣara*. Here: *kṣarati akṣaram tadviśvam upajīvati* — (the clouds) *udakaṃ varṣanti tena udakena viśvaṃ bhūtajātam upajīvati* — 'the clouds shower the water as rain; by that water all the beings in the world (the plant world included) live': this is the main sense. So the water that falls as rain is necessary to the world of beings and gives it joy; likewise, we pray that you give us food and the like that bring joy." *(Translation of the ṛk mine, tentative: "From her the oceans flow forth, by it the four quarters live; thence flows the imperishable [water], and by that all the world lives". The reference numerals are read from small Kannada digits and are [?].)*
+- **pinvatam** = *siñcatam*; **yacchatam** — "give, favour", etc.
+
+**Vyākaraṇa-prakriyā** *(p. 91, PDF 105 — grammar page, noted briefly; begun, to continue on p. 92)*
+- **vartiḥ**: root *vṛtu vartane*; *vartate asmin* ("in which one dwells"); the Uṇādi sūtra *hṛpiṣiruhivṛtividicidi kīrtibhyaś ca* — हृपिषिरुहिवृतिविदिचिदि कीर्तिभ्यश्च — [Uṇ. 4-[?]] — gives the suffix *in* after the seven roots *hṛ* (*haraṇe*), *pisṛ* [read *piṣḷ saṃcūrṇane*], *ruha* (*bījajanmani prādurbhāve ca*), *vṛtu vartane*, *vida sattāyām*, *bhidir dvaidhīkaraṇe* and *kṛta saṃveṣṭane*; the preceding sūtra *sarvadhātubhya in* — सर्वधातुभ्य इन् — [Uṇ. 4-[?]] makes *in* run on, so there is no room to say that *i* is the suffix; *in* is *nit*, hence the first syllable would be acute; yet in the mantra *vartiḥ* is final-acute; so the suffix may be taken as *i* by the sūtra [read *iḥ*], where the accent is as seen; the print remarks, with the proverb *seyam ubhayataḥ pāśā rajjuḥ* (as I read it: "a rope with a noose at both ends"), that the matter is caught either way. The print then observes that one who rejects the suffix *in* may enter the word *vartiḥ* in the *ākṛtigaṇa* of *uñchādi* and, by *uñchādīnāṃ ca* — उञ्छादीनां च — Pā. 6-1-160 [as printed], teach the final accent; and that in the *Veda-bhāṣya*, in explaining *yasya saṃsthe vṛṇvate harī* (ṛ. saṃ. [reference not read]), the suffix *in* is taught by the same Uṇādi sūtra *hṛpiṣiruhi…*. Hence it is not right to teach the suffix *i* here by this sūtra. Then *supāṃ sulug…* gives *su* in place of *am* of the accusative singular…
+
 ---
 
-**Progress note — Volume 4, Sūkta 34 in progress: printed p. 84 (PDF 98) reached; Riks 34.1 complete; Rik 34.2 written through the start of its grammar page (*madhuvāhane*, *viduḥ*, *skambhāsaḥ*, *skabhitāsaḥ*).**
+---
 
-**Next task:** continue at printed p. 85 (PDF 99) with the rest of Rik 2's grammar, then Rik 3. Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 99 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+**Progress note — Volume 4, Sūkta 34 in progress: printed p. 91 (PDF 105) reached; Riks 34.1–34.3 complete; Rik 34.4 written through the Special Topics and the start of its grammar page (*vartiḥ*).**
 
-**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76 and 83 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ. and Ai. Brā. numerals are [?]; *yotrāyām* in the Rik 2 bhāṣya is doubtful.
+**Next task:** continue at printed p. 92 (PDF 106) with the rest of Rik 4's grammar, then Rik 5. Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 106 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+
+**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76, 83 and 91 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ. and Ai. Brā. numerals are [?]; *yotrāyām* (Rik 2) and *upadeśvanyam* (Rik 4) in the bhāṣya are doubtful.
