@@ -5739,8 +5739,66 @@
 
 ---
 
+**Rik 54.4, continued** *(pp. 315–317, PDF 331–333)*
+
+**Bhāvārtha** *(p. 315)* — "O Indra, by your own enemy-destroying strength you destroyed the Rākṣasa named Śambara. When your enemies came together to conquer you, then you hurled, against those deceitful ones, with a delighted and firmly resolved mind, your thunderbolt — sharpened, and filled with rays — with force. By that onrush you shook the lofty region of the very great heaven."
+
+**English Translation (the source's own, p. 315)** — "You have shaken the summit of the spacious heavens; you have yourself killed Sambara by your foe-destroying might; you have hurled with exulting and determined mind the sharp and bright-eyed thunderbolt against the assembled Asuras."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 315–316**
+- **idam uktaṃ bhavati** *(Kannada, p. 315; the print gives it in Kannada with a few Sanskrit words)*: "This is what is said: Śambara, accompanied by many *māyā*-working followers, came to fight with Indra. Then Indra, taking his sharp thunderbolt, which is fit to be grasped in the hand, and with delight born from drinking soma, and filled with courage and enthusiasm, fought with Śambara and killed him. At that time even the great heaven trembled with fear of Indra. The deceitful ones, of evil conduct, with many followers, came wishing to fight Indra; then Indra, having drunk the soma and become delighted, firm and enthusiastic, took his bright thunderbolt in his hand, fought Śambara and killed him. At that time, the great world of heaven also shook with the force of Indra."
+- **divaḥ sānu** — "The upper part of the world of heaven. In common usage the word *sānu* means the 'table-land of a mountain'; here they have said 'the upper part'."
+- **tmanā** — "The word *ātman* in the Veda, by the loss of the letter *ā*, gives the very sense of the word *ātman*."
+- **śambaram** — "Śambara is a well-known Rākṣasa. There are many tales in the Purāṇas that Manmatha (Kāma) killed him."
+- **vṛndinaḥ** — "This is an epithet of the word *māyinaḥ*: those who have taken a gentle manner by guile in order to conquer their enemies; or those who always have hosts of Asuras."
+- **mandinā** — "One of delighted mind. This is an epithet of Indra."
+- **dhṛṣatā** — "One who has the nature of a mind able to destroy enemies. (The context here is the praise of Indra.)"
+- **gabhastim** — "*Hastena gṛhītā*; or *gabhastiḥ* is a name of rays: possessing them. The thunderbolt that is to be held in Indra's hand, and that has bright rays."
+- **pṛtanyasi** — "The word *pṛtanā* has both senses, 'battle' and 'army'. Here the meaning is 'we make the thunderbolt into the army'."
+
+**Vyākaraṇa-prakriyā** *(pp. 316–317 — grammar pages, noted briefly)*
+- **kopayaḥ**: *kupa kope*, *curādi*; *laṅ* after *ṇic*, second singular *sip*; *itaś ca* drops the *i*; before *ṇic* the root's penultimate takes *guṇa* (*pugantalaghūpadhasya ca*); *śap* causing *guṇa* and *ayādeśa* for *ṇic*; *ru*, *visarga*: *kopayaḥ*; *bahulaṃ chandasy amāṅyoge 'pi* — no *aṭ*; *nighāta*.
+- **tmanā**: instrumental of *ātman*; *mantreṣv āṅyādeḥ ātmanaḥ* (Pā. 6-4-141) drops the *a*.
+- **māyinaḥ**: as before, *vrīhyādibhyaś ca* gives *ini*; *yasyeti ca*; instrumental [i.e. accusative/nominative] plural form; the *i* acute by the suffix.
+- **vṛndinaḥ**: "*vṛnde 'sya asti iti vṛndī*"; *ata ini-ṭhanau* gives *ini*; *yasyeti ca* drops the *a*; the middle acute by the initial acute of the suffix.
+- **dhṛṣat**: *ñidhṛṣā prāgalbhye*; *śatṛ*; *vyatyaya* gives *śa* for *śap*; *ato guṇe*, *pararūpa*; in the instrumental singular *supāṃ suluk* drops the ending (*luk*): *dhṛṣat*; *ekāra*… the accent of the characteristic (*śatṛ*).
+- **śitām**: *śo tanūkaraṇe*; *niṣṭhā* *kta*; *śo + ta*: *śācchoranyatarasyām* (Pā. 7-4-… as read [?]) gives optional *i* for *ā*: *śita*; in the feminine *ajādyatas ṭāp*; end-acute by the suffix; accusative singular.
+- **pṛtanyasi**: "*pṛtanām ātmana icchati pṛtanyati*"; *supa ātmanaḥ kyac* gives *kyac* in the sense of desire; since *pṛtanā* + *ya*, *kavyadhvarapṛtanasyarci lopaḥ* (Pā. 7-4-39) drops the end of *pṛtanā*; *sanādyantā dhātavaḥ* gives the root-designation; *laṭ* second singular *sip*; *kartari śap*; *ato guṇe*: *pṛtanyasi*; since *yat* stands first, *yadvṛttān nityam* forbids the *nighāta*; by the suffix-accent the vowel after *y* is acute. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.3 complete; Rik 54.4 written from the Saṃhitā and Pada through the Pratipadārtha (printed p. 314, PDF 330). Its Bhāvārtha, English, Special Topics, Vyākaraṇa (from p. 315, PDF 331) and Riks 54.5–54.11 are NOT yet written.**
+### Rik 54.5 (pp. 317–, PDF 333–)
 
-**Next task:** render PDF 331 onward (`pdftoppm -jpeg -r 150 -f 331 -l 400 Rig_Vol5.pdf /tmp/x/w`) and continue at printed p. 315 (PDF 331) with "**Rik 54.4, continued**" (Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 5–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and the Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head "bṛhato maruto divo" and "mṛdubhāvaṃ" [?].
+**Saṃhitā-pāṭha** *(p. 317; accents printed, not reproduced)*
+
+> **नि यद्वृणक्षि श्वसनस्य मूर्धनि शुष्णस्य चिद्वृन्दिनो रोरुवद्वना ।**
+> **प्राचीनेन मनसा बर्हणावता यदद्या चित्कृणवः कस्त्वा परि ॥ ५ ॥**
+
+*ni yad vṛṇakṣi śvasanasya mūrdhani śuṣṇasya cid vṛndino roruvad vanā |*
+*prācīnena manasā barhaṇāvatā yadadyā cit kṛṇavaḥ kas tvā pari || 5 ||*
+
+**Pada-pāṭha** *(p. 317)*
+
+> नि । यत् । वृणक्षि । श्वसनस्य । मूर्धनि । शुष्णस्य । चित् । वृन्दिनः । रोरुवत् । वना ।
+> प्राचीनेन । मनसा । बर्हणाऽवता । यत् । अद्य । चित् । कृणवः । कः । त्वा । परि ॥ ५ ॥
+
+*ni | yat | vṛṇakṣi | śvasanasya | mūrdhani | śuṣṇasya | cit | vṛndinaḥ | roruvat | vanā |*
+*prācīnena | manasā | barhaṇā-vatā | yat | adya | cit | kṛṇavaḥ | kaḥ | tvā | pari || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 317 — begins; continues on p. 318)*
+
+> **हे इन्द्र त्वं रोरुवत् मेघैः शब्दार्थं शब्दयन् श्वसनस्य । अन्तरिक्षे श्वसितीति श्वसनो वायुः । तस्य वृन्दिनः स्वकिरणैराम्रफलादीनां मृदुभावं प्रापयतः शुष्णस्य चित् रसानां शोषयितुरादित्यस्यापि मूर्धन्युपरिप्रदेशे वना वनान्युदकानि यद्यस्मान्निवृणक्षि आवर्जयसि । प्रापयसीत्यर्थः । वायुना सूर्यकिरणैश्च वृष्टा आपः सूर्यस्योपरि पुनरवस्थाप्यन्ते । तदेवावस्थापनमिन्द्रः करोतीत्युपचर्यते । प्राचीनेन प्रकर्षेण गन्त्रा । अपरा जुमेनेत्यर्थः [?] । बर्हणावता निबर्हयतीति वधकर्मसु पाठाद्बर्हणा शत्रूणां हिंसा । तद्वता । एवंभूतेन मनसा युक्तस्त्वं यद्यस्मादद्याचिदद्यापि कृणवः । घर्मकाले सूर्यस्योपरि भौमा रसान् वस्थापयसि वर्षासु च वर्षयसीति । यस्मादेतत्कुरुषे तस्मात्कारणात्वां परि … कः … [crowded] … अतस्त्वमेव सर्वाधिक इति भावः ॥**
+
+*he indra tvaṃ roruvat meghaiḥ śabdārthaṃ śabdayan śvasanasya | antarikṣe śvasitīti śvasano vāyuḥ | tasya vṛndinaḥ svakiraṇair āmraphalādīnāṃ mṛdubhāvaṃ prāpayataḥ śuṣṇasya cit rasānāṃ śoṣayitur ādityasyāpi mūrdhany upariprade­śe vanā vanāny udakāni yad yasmān nivṛṇakṣi āvarjayasi | prāpayasīty arthaḥ | vāyunā sūryakiraṇaiś ca vṛṣṭā āpaḥ sūryasyopari punar avasthāpyante | tad evāvasthāpanam indraḥ karotīty upacaryate | prācīnena prakarṣeṇa gantrā | aparājumenety arthaḥ [?] | barhaṇāvatā nibarhayatīti vadhakarmasu pāṭhād barhaṇā śatrūṇāṃ hiṃsā | tadvatā | evaṃbhūtena manasā yuktas tvaṃ yad yasmād adyācid adyāpi kṛṇavaḥ | gharmakāle sūryasyopari bhaumā rasān vasthāpayasi varṣāsu ca varṣayasīti | yasmād etat kuruṣe tasmāt kāraṇāt tvāṃ pari … kaḥ … [crowded] … atas tvam eva sarvādhika iti bhāvaḥ ||*
+
+*(Reading notes: this page's bhāṣya is printed in a dense block and the middle is crowded: "*aparājumena*", "*bhaumā rasān vasthāpayasi*" and the last sentence "*tvāṃ pari … kaḥ …*" are as I could read, [?]; the sense is confirmed by the Kannada Pratipadārtha on the next page, which is given with the next batch. The remaining tail — on* vṛṇakṣi *(*vṛjī varjane*, rudhādi, the loss of the* ī *and the* num*), with the passage on* ṇa-*substitution — begins at the foot of p. 317 and continues on p. 318.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.4 complete; Rik 54.5 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 317, PDF 333; the bhāṣya's last sentence is crowded). Its remaining tail, Pratipadārtha, Bhāvārtha, English, Special Topics and Vyākaraṇa (from p. 318, PDF 334) and Riks 54.6–54.11 are NOT yet written. NOTE: the heading I wrote above Rik 54.4 ("metre Triṣṭubh? …") is clumsy; Rik 4 is in Jagatī (Triṣṭubh Riks are 6, 8, 9, 11); the file is append-only so I leave it.**
+
+**Next task:** continue at printed p. 318 (PDF 334) with "**Rik 54.5, continued**", then Riks 6–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and the Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head "bṛhato maruto divo" and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded [?].
