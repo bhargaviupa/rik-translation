@@ -2781,10 +2781,108 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.4 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 190–191, PDF 204–205)
+
+**Sāyaṇa-bhāṣya** *(p. 190; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने वरुणादयस्त्रयो देवासो देवाः प्रत्नं पुरातनं दूतं त्वां समिन्धते । सम्यग्दीपयन्ति । यो मर्त्यो मनुष्यो यजमानस्ते तुभ्यं ददाश हविर्दत्तवान् स यजमानस्त्वया सहायभूतेन विश्वं सर्वं धनं जयति ॥
+
+*he agne varuṇādayas trayo devāso devāḥ pratnaṃ purātanaṃ dūtaṃ tvāṃ samindhate | samyag dīpayanti | yo martyo manuṣyo yajamānas te tubhyaṃ dadāśa havir dattavān sa yajamānas tvayā sahāyabhūtena viśvaṃ sarvaṃ dhanaṃ jayati ||*
+
+**Translation:** "O Agni, the three gods, *devāsaḥ*, Varuṇa and the others, *sam indhate* — kindle fully — you, the *pratna*, the ancient *dūta*, messenger. *Yo martyaḥ* — the mortal, the man, the sacrificer, who *te dadāśa* — has given you the oblation — that sacrificer *viśvaṃ dhanaṃ jayati*, wins all wealth, *tvayā*, with you as his helper."
+
+**Grammar within the bhāṣya** *(p. 190, characterized)*: *aryamā* (*āryān nimīte*, "he measures out [or favours] the noble"; the group of words *śvan*, *takṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parjanya*, *mātariśvan*… are given as *kanin*-ending by *nipātana*, in the Uṇādi sūtra of the *śvan*-list [Uṇ. 1-[?], numerals not read]); *indhate* (*ñi-indhī dīptau*; *śnam*, with *śnān nalopaḥ* and *śnasor allopaḥ*); *dadāśa* (*dāśṛ dāne*, *liṭ*, with the accent of the *liṭ*-preceding letter [*liti*], and no lowering because of the connected relative *yaḥ*: *yadvṛttayogād anighātaḥ*).
+
+**Pratipadārtha** *(p. 190)* — "**agne** — O Agni; **varuṇaḥ, mitraḥ, aryamā, devāsaḥ** — the three deities Varuṇa, Mitra and Aryaman; **pratnam** — ancient; **dūtam** — the messenger, you; **sam indhate** — cause [you] to blaze well; **yaḥ martyaḥ** — whatever sacrificer; **te** — to you; **dadāśa** — offers the oblation; **saḥ** — that sacrificer; **tvayā** — by you (with your help); **viśvaṃ dhanam** — all wealth; **jayati** — wins."
+
+**Bhāvārtha** *(p. 190)* — "O Agni, you are very ancient, a messenger of the gods from the beginning. The three deities Varuṇa, Mitra and Aryaman too make you blaze. Those among men who, with you in view, perform sacrifices and offer you oblations, win by your help all the wealth they need."
+
+**English Translation (the source's own, p. 190)** — "The gods Varuna, Mitra and Aryaman, kindle you, their ancient messenger; the man who has offered you oblations gets through you great wealth·" *(the print ends with a raised dot where a full stop is expected; "Varuna", "Aryaman" as printed)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 190–191**
+- **pratnam** = *purātanam*: "Agni is long famed as the messenger of the gods."
+- **sam indhate** = *samyag dīpayanti*: "they cause [him] to shine well; they put wood and the like into Agni and make him blaze well."
+- **tvayā** — "by you, or by your help."
+- **yas te dadāśa martyaḥ** — "that man who offers oblations to you."
+- **viśvaṃ dhanaṃ jayati** — "*viśvam* means all, i.e. much wealth: he wins, he gains."
+
+**Vyākaraṇa-prakriyā** *(p. 191, PDF 205 — grammar page, noted briefly)*
+- **aryamā**: "*śvan*, *takṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parjanya*, *mātariśvan*, *aghnan*[?]" — these thirteen words, by the Uṇādi sūtra [number as read: Uṇ. 1-[?]], are given as ending in *kanin*; in *aryaman* the root *mā māne* with *arya* as its *upapada*, the suffix *kanin*; *aryā + an*; *ato lopa iṭi ca* — अतो लोप इटि च — loss of the *ā*; by the suffix-accent the word is final-acute.
+- **indhate**: root *ñi-indhī dīptau*, *laṭ*, *jha*; *ātmanepadeṣv nataḥ* — आत्मनेपदेष्वनतः — in the *ātmanepada*, a *jh* [of the ending] after a base not ending in *a* is replaced by *at*: so *jha* → *at*; *rudhādibhyaḥ śnam* — *śnam*, which is *mit*, placed after the last vowel by *midaco 'ntyāt paraḥ*; *ind + na + dh + at*, *śnān nalopaḥ* — loss of the *n* [of *śnam*] before the *jh* [of the ending]: the *n* in front; and *śnasor allopaḥ* — loss of the *a* of *śnam*, as the earlier mantra [Rik 3] explains.
+- **dadāśa**: root *dāśṛ dāne*, *liṭ*, *tip*; *parasmaipadānāṃ ṇalatusustha…* — *ṇal*; doubling (*dvitva*), shortening (*hrasva*), the *ś* in the reduplicate: by *abhyāse carca* — the *jaś* [or *car*] for its own class: "*prakṛtijaś*"; the letter before the *ṇal* suffix is acute by *liti* (*litī svaraḥ*); because the relative word *yaḥ* [in *yas te dadāśa*] is connected, *yadvṛttayogād anighātaḥ*; the print recalls that "*pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ*", in the sūtra with the repeated *pūjita*, the separation notwithstanding, the prohibition of *yadvṛtta* stands, as shown before: so *tiṅ ṅatiṅaḥ*'s wholly-unaccented does not arise. Rik 4 ends here (*|| 4 ||*).
+
+### Rik 36.5 (pp. 191–195, PDF 205–209)
+
+**Saṃhitā-pāṭha** *(p. 191; accents not reproduced)*
+
+> **मन्द्रो होता गृहपतिरग्ने दूतो विशामसि ।**
+> **त्वे विश्वा संगतानि व्रता ध्रुवा यानि देवा अकृण्वत ॥ ५ ॥**
+
+*mandro hotā gṛhapatir agne dūto viśām asi |*
+*tve viśvā saṃgatāni vratā dhruvā yāni devā akṛṇvata || 5 ||*
+
+**Pada-pāṭha** *(p. 192)*
+
+> मन्द्रः । होता । गृहऽपतिः । अग्ने । दूतः । विशाम् । असि ॥
+> त्वे इति । विश्वा । सम्ऽगतानि । व्रता । ध्रुवा । यानि । देवाः । अकृण्वत ॥ ५ ॥
+
+*mandraḥ | hotā | gṛha-patiḥ | agne | dūtaḥ | viśām | asi ||*
+*tve iti | viśvā | saṃ-gatāni | vratā | dhruvā | yāni | devāḥ | akṛṇvata || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 192; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने त्वं मन्द्रो हर्षहेतुर्होता देवानामाह्वाता विशां यजमानरूपाणां प्रजानां गृहपतिर्गृहस्य पालको दूतो देवदूतोऽसि । त्वे त्वयि विश्वा व्रता सर्वाणि कर्माणि संगतानि । व्रतं कर्मेति कर्मनामसु व्रतशब्दः पठितः । पृथिव्यादयो देवा ध्रुवा स्थिराणि यानि कर्माण्यकृण्वत कृतवन्तः । पृथिवी धारयति पर्जन्यो वर्षति सूर्यः प्रकाशयति । तान्येतानि त्वयि संगतानीति पूर्वत्रान्वयः ॥
+
+*he agne tvaṃ mandro harṣahetur hotā devānām āhvātā viśāṃ yajamānarūpāṇāṃ prajānāṃ gṛhapatir gṛhasya pālako dūto devadūto 'si | tve tvayi viśvā vratā sarvāṇi karmāṇi saṃgatāni | vrataṃ karmeti karmanāmasu vrataśabdaḥ paṭhitaḥ | pṛthivyādayo devā dhruvā sthirāṇi yāni karmāṇy akṛṇvata kṛtavantaḥ | pṛthivī dhārayati parjanyo varṣati sūryaḥ prakāśayati | tāny etāni tvayi saṃgatānīti pūrvatrānvayaḥ ||*
+
+**Translation:** "O Agni, you are *mandraḥ*, the cause of delight, the *hotṛ*, the caller of the gods, the *gṛhapati* — the master, the protector of the house — of the *viśām*, the creatures in the form of sacrificers, and the *dūta*, the gods' messenger. *Tve* — in you — *viśvā vratā* — all works — are *saṃgatāni*, joined together ('*vrata*' being read among the names for 'work'). The gods, earth and the rest, *akṛṇvata*, have done the *dhruvā*, steady, works: the earth supports, Parjanya rains, the Sun illumines: those works are united in you — so the connection with the preceding."
+
+**Grammar within the bhāṣya** *(p. 192, characterized; the print is crowded)*: *gṛhapatiḥ* (*patyāv aiśvaryān*, with the first-member natural accent; *tve* by *supāṃ sulug…*, *śe* for the seventh-case *ṅi*, and *tvamāv ekavacane* — *tva* in the singular; *śeṣe lopaḥ* or the loss of the final; the accent of the ending by the *udāttanivṛtti* accent in the one view, and by the single-substitute in the other); *saṃgatāni* (*gamer*: *niṣṭhā* in the sense of the object; *ekāca upadeśe 'nudāttāt* bars *iṭ*; *anudāttopadeśa…* loses the nasal; *gatir anantaraḥ*: the preverb's natural accent); *vratā dhruvā* (*śi* lost by *śeś chandasi bahulam*); *akṛṇvata* (*kṛñ hiṃsākaraṇayoḥ*; *vyatyaya* of voice, *ātmanepada*; *dhinvikṛṇvor a ca* gives *u* for *śap*; the accent of the verb not lowered for the connected *yāni*).
+
+**Pratipadārtha** *(p. 192)* — "**agne** — O Agni; **mandraḥ** — the giver of delight; **hotā** — the caller [of the gods to the sacrifice]; **viśām** — of the people who are sacrificers; **gṛhapatiḥ** — the protector of the house; **dūtaḥ** — the messenger of the gods; **asi** — you are; **devāḥ** — the gods, earth and the rest; **yāni** — which; **dhruvā** — steady; **vratā** — works; **akṛṇvata** — have done (the support of the earth, Parjanya's raining, the Sun's shining, and in the same way the works suited to the nature of the other gods); **viśvā** — [for the welfare of the world] all those; **tve** — in you; **saṃgatāni** — joined together, are bound up."
+
+**Bhāvārtha** *(p. 193)* — "O Agni, you are a kinsman to men and to the gods alike. You are the giver of delight to all. You call the gods to their sacrifices on men's behalf. You are the protector of the sacrificers' homes. You are the messenger of the gods to men, and the support of all their works. The works the earth does in supporting, the work Parjanya does in raining, the work the Sun does in shining, and likewise all the works that the other gods firmly carry on for the welfare of the world, all those join and are bound up in you — that is, they proceed through you."
+
+**English Translation (the source's own, p. 193)** — "O Agni, you are the giver of delight, the invoker and messenger of gods and the lord of the house ; the good actions which the gods perform are all united in you·" *(printed "actions" with a damaged letter; the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 193**
+- **mandraḥ** = *harṣahetuḥ*: "one who causes delight."
+- **hotā** = *devānām āhvātā*: "one who calls the gods at sacrifices."
+- **gṛhapatiḥ** — "the protector of the house. Since Agni is always in the house of the sacrificer who performs works such as the setting up of the fires, Agni is called the protector of the house."
+- **saṃgatāni** — "are joined. All the works the gods perform each [in their own sphere] are joined in you, i.e. are fulfilled only by your help."
+- **vratā dhruvā yāni devā akṛṇvata** — "the works that the gods, by their duty, have to do: the earth gives support to beings and helps them to live; Parjanya sends the rain, his own work; the Sun gives light for the comfort of the people of the world; and so on, whatever works the gods do day by day, all are joined in you, Agni — that is, go on by your help."
+
+**Vyākaraṇa-prakriyā** *(pp. 193–195, PDF 207–209 — grammar pages, noted briefly)*
+- **gṛhapatiḥ** (p. 193–194): *gṛhasya patiḥ* — "the lord of the house"; the word *pati* ends in the Uṇādi suffix *ḍati* [*pāteś ḍatiḥ*, as read]; *patyāv aiśvaryān* — पत्यावैश्वर्ये — [Pā. 6-2-18 (as I read the numerals)]: when *pati* in the sense of lordship follows, the first member of a *tatpuruṣa* keeps its natural accent; so *gṛha*, the first member, keeps its own accent. *Gṛha* is formed with *geha ka* — *gehe kaḥ* — [Pā. 3-1-144]: the suffix *ka* after *graha upādāne* when *geha* (a house) is the agent; *grahijyāvayivyadhivaṣṭi…* — *saṃprasāraṇa* of *gṛ*: *gṛha*; the suffix-accent makes it final-acute.
+- **tve** (p. 194): after *yuṣmad*, the seventh-case singular *ṅi*, replaced by *śe* by *supāṃ sulug…*; *tvamāv ekavacane* — त्वमावेकवचने — *tva*, *ma* replace the end-portion of *yuṣmad*, *asmad* in the singular, so *tva*; because the ending is a substitute, *yo 'ci* [Pā. 7-2-89] does not apply; *śeṣe lopaḥ* — loss of the remaining *d* [or *ad*] before an ending: "the first view is the *ṭi*-loss alternative (loss of the *ad* that is left beyond the *ma*), the second is the final-letter-loss alternative. *Tva*, *ma* are said to be *ajanta* or *halanta*, two views"; on the *ajanta* view, *ato guṇe* gives *pararūpa*; *tvad + e*: the loss of the *ṭi*; and by *anudāttasya ca yatrodāttalopaḥ* the *e* is acute; the root *yuṣ* has the Uṇādi *madik* — *yuṣyasibhyāṃ madik* — so the suffix-accent gives the *ad* acute, and it becomes the cause of its loss; in the final-letter-loss view, *tva + e*: *ato guṇe* gives *pararūpa*, and *ekādeśa udāttenodāttaḥ* makes the *e* acute.
+- **saṃgatāni**: *sam* the preverb, root *gamḷ gatau*; the suffix *kta* in the sense of the object by *niṣṭhā* [Pā. 3-2-102]; *tayor evakṛtyaktakhalarthāḥ* — तयोरेव कृत्यक्तखलर्थाः — the *kṛtya* suffixes, *kta*, *khal*-sense suffixes occur in the senses of *bhāva* and *karman* only; so with the transitive *gam* the *kta* is in the object sense; *ekāca upadeśe 'nudāttāt* — no *iṭ*; *anudāttopadeśa…* — loss of the *m*; *gatir anantaraḥ* — a directly adjacent *gati* (preverb) keeps its natural accent before a *kṛdanta* in the object sense.
+- **vratā, dhruvā**: these forms stand for *vratāni*, *dhruvāṇi*; in both the *śi* is lost by *śeś chandasi bahulam*.
+- **akṛṇvata** (pp. 194–195): root *kṛvi hiṃsākaraṇayoḥ ca*, *idit*, so *idito num dhātoḥ*; "this root is in the first class [bhvādi] and also read in the *svādi* class; in the sense of motion too it has usage"; this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanepada* comes; *laṅ*, *jha*; *dhinvikṛṇvor a ca* — धिन्विकृण्व्योर च — [Pā. 3-1-80]: after *dhinv* and *kṛṇv* the final letter becomes *a*, and *u* comes in place of *śap* when a *kartṛ*-sense *sārvadhātuka* follows; so *kṛn + u + jha*; *ātmanepadeṣv nataḥ* — *jha* → *at*; the augment *aṭ*; *akṛn + u + at*; *ato lopaḥ* [as read: *ātolopa iṭi ca* — Pā. 6-4-64] — the final *a* lost; no *guṇa*; *yaṇ*-substitution; *ṛvarṇān nasya ṇatvaṃ vācyam* — *n* → *ṇ*: *akṛṇvata*. Rik 5 ends here (*|| 5 ||*).
+
+### Rik 36.6 (p. 195 onward, PDF 209–)
+
+**Saṃhitā-pāṭha** *(p. 195; accents not reproduced)*
+
+> **त्वे इदग्ने सुभगे यविष्ठ्य विश्वमा हूयते हविः ।**
+> **स त्वं नो अद्य सुमना उतापरं यक्षि देवान्त्सुवीर्या ॥ ६ ॥**
+
+*tve id agne subhage yaviṣṭhya viśvam ā hūyate haviḥ |*
+*sa tvaṃ no adya sumanā utāparaṃ yakṣi devān suvīryā || 6 ||*
+
+**Pada-pāṭha** *(p. 195)*
+
+> त्वे इति । इत् । अग्ने । सुऽभगे । यविष्ठ्य । विश्वम् । आ । हूयते । हविः ॥
+> सः । त्वम् । नः । अद्य । सुऽमनाः । उत । अपरम् । यक्षि । देवान् । सुऽवीर्या ॥ ६ ॥
+
+*tve iti | it | agne | su-bhage | yaviṣṭhya | viśvam | ā | hūyate | haviḥ ||*
+*saḥ | tvam | naḥ | adya | su-manāḥ | uta | aparam | yakṣi | devān | su-vīryā || 6 ||*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 189 (PDF 203) reached; Riks 36.1–36.3 complete; Rik 36.4's Saṃhitā and Pada written (p. 189).**
+---
 
-**Next task:** continue at printed p. 190 (PDF 204) with Rik 36.4's bhāṣya, then Rik 5. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 204 -l 265 Rig_Vol4.pdf /tmp/x/v`.
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 195 (PDF 209) reached; Riks 36.1–36.5 complete; Rik 36.6's Saṃhitā and Pada written (p. 195); its bhāṣya begins at the foot of p. 195.**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar on *devayatīnām* (Rik 1), *haviṣmantaḥ*, *mahaḥ* and *santya* (Riks 2–3) is characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") reproduced as [sic].
+**Next task:** continue at printed p. 195 foot / p. 196 (PDF 210) with Rik 36.6's bhāṣya (re-view p. 195's last lines too), then Rik 7. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 209 -l 265 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar on *devayatīnām* (Rik 1), *haviṣmantaḥ*, *mahaḥ* and *santya* (Riks 2–3), *aryamā* and *dadāśa* (Rik 4) and *tve*, *saṃgatāni* (Rik 5) is characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") reproduced as [sic].
