@@ -2663,10 +2663,128 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.2 (pp. 183–186, PDF 197–200)
+
+**Saṃhitā-pāṭha** *(p. 183; accents not reproduced)*
+
+> **जनासो अग्निं दधिरे सहोवृधं हविष्मन्तो विधेम ते ।**
+> **स त्वं नो अद्य सुमना इहाविता भवा वाजेषु सन्त्य ॥ २ ॥**
+
+*janāso agniṃ dadhire sahovṛdhaṃ haviṣmanto vidhema te |*
+*sa tvaṃ no adya sumanā ihāvitā bhavā vājeṣu santya || 2 ||*
+
+**Pada-pāṭha** *(p. 183)*
+
+> जनासः । अग्निम् । दधिरे । सहःऽवृधम् । हविष्मन्तः । विधेम । ते ॥
+> सः । त्वम् । नः । अद्य । सुऽमनाः । इह । अविता । भव । वाजेषु । सन्त्य ॥ २ ॥
+
+*janāsaḥ | agnim | dadhire | sahaḥ-vṛdham | haviṣmantaḥ | vidhema | te ||*
+*saḥ | tvam | naḥ | adya | su-manāḥ | iha | avitā | bhava | vājeṣu | santya || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 183; the first half in full, the grammatical tail characterized)*
+
+> जनासोऽनुष्ठातारो जनाः सहोवृधं बलस्य वर्धयितारमग्निं दधिरे । धृतवन्तः । हविष्मन्तो हविर्युक्ता वयं हे अग्ने ते त्वां विधेम । परिचरेम । विधतिः परिचरणकर्मा । विधेम सपर्येतीति परिचरणकर्मसु पठितत्वात् । वाजेष्वन्नेषु सन्त्य दानशील हे अग्ने स त्वमद्यास्मिन्दिन इह कर्मणि नोऽस्माकं सुमनाः शोभनमनस्कोऽविता रक्षिता भव ॥
+
+*janāso 'nuṣṭhātāro janāḥ sahovṛdhaṃ balasya vardhayitāram agniṃ dadhire | dhṛtavantaḥ | haviṣmanto havir yuktā vayaṃ he agne te tvāṃ vidhema | paricarema | vidhatiḥ paricaraṇakarmā | vidhema saparyetīti paricaraṇakarmasu paṭhitatvāt | vājeṣv anneṣu santya dānaśīla he agne sa tvam adyāsmin dina iha karmaṇi no 'smākaṃ sumanāḥ śobhanamanasko 'vitā rakṣitā bhava ||*
+
+**Translation:** "*Janāsaḥ* — the people, the performers — *dadhire* — have taken up (*dhṛtavantaḥ*) Agni, the *sahovṛdham*, the increaser of strength. We, *haviṣmantaḥ*, furnished with oblations, O Agni, *te vidhema* — would serve you, wait on you ('*vidhati*' being a word of serving; '*vidhema*', '*saparyati*' are read among the verbs of serving). O *santya*, you who are given to giving, in *vājeṣu* — foods — O Agni: that [you], today, on this day, here in this rite, *sumanāḥ* — well-minded towards us — *avitā*, a protector, *bhava* — be."
+
+**Grammar within the bhāṣya** *(p. 183, characterized)*: *sahovṛdham* (root *vṛdhu vṛddhau* with the sense of the causative understood [*antarbhāvitaṇyartha*], *kvip*; the later member of a *kṛt*-compound keeps its natural accent); *haviṣmantaḥ* (*haviḥ eṣāṃ santi*; *matup*; here the word has no *pada*-name before *matup*, so the *ru*-rules do not apply); *vidhema* (*vidha vidhāne*, *tudādi*; *liṅ*, the augment *yāsuṭ*, loss of *s*; *śa*; *iya*-substitution; no *guṇa*); *sumanāḥ* (*śobhanaṃ mano yasya*; *somanasī alomoṣasī*: the later member after *su*, ending in *manas*, is first-syllable acute); *bhava* (the accent of the verb not lowered because it stands at the beginning of the third pāda: *pādādityāt tiṅ atiṅaḥ*…; in the Saṃhitā lengthened by *dvyacotastiṅaḥ*); *santya* (*ṣaṇu dāne*; *ktic*; "*santiḥ* is a giver", *santyaḥ* — *tatra bhavaḥ*; *bhave chandasi yat*; vocative).
+
+**Pratipadārtha** *(p. 184)* — "**janāsaḥ** — the people who perform the sacrifice; **sahovṛdham** — [him] who increases strength; **agnim** — the deity Agni; **dadhire** — take refuge in (O Agni!); **haviṣmantaḥ** — we, too, holding the oblation (ready); **te** — you; **vidhema** — we worship; **vājeṣu** — in matters of food; **santya** — O Agni, you who are generous in giving; **saḥ tvam** — such a you; **adya** — today; **iha** — in this sacrifice of ours; **naḥ** — to us; **sumanāḥ** — of favourable mind; **avitā** — a protector; **bhava** — be."
+
+**Bhāvārtha** *(p. 184)* — "All the people engaged in Vedic works take refuge in the Agni deity, who increases their strength, for their protection. O Agni, we too worship you, having made the oblations ready. You are very generous in the giving of food. Showing that generosity today, be well-minded and our protector in this sacrificial work of ours."
+
+**English Translation (the source's own, p. 184)** — "The people have approached the Agni who is the increaser of vigour; Agni, we worship you with oblations ; O liberal giver of food, be well disposed to us here this day and be our protector·" *(the print ends with a raised dot where a full stop is expected)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 184–185**
+- **janāsaḥ** — "an ancient usage of the word *janāḥ*: people."
+- **dadhire** = *dhṛtavantaḥ*: "with a spirit of devotion, they have come near to praise you; such is the sense."
+- **sahovṛdham** = *balasya vardhayitāram*: "*sahaḥ* means strength (Ni. 5-[?] [?]); one who increases strength, who gives strength."
+- **haviṣmantaḥ** = *havir yuktā vayam*: "we, who have made oblations ready to offer to you."
+- **sumanāḥ** = *śobhanamanaskaḥ*: "one of good, or generous, mind towards us."
+- **avitā** = *rakṣitā*: "a protector; one who guards us."
+- **vājeṣu santya** — "one generous, giving in matters of food and other foods."
+
+**Vyākaraṇa-prakriyā** *(pp. 185–186, PDF 199–200 — grammar pages, noted briefly)*
+- **sahovṛdham**: root *vṛdhu vṛddhau*; "though there is no *ṇic* suffix, to yield its meaning it is said to contain a causative sense (*antarbhāvitaṇyartha*); after such a root, *kvip*; *saho vardhayatīti sahovṛdh*, 'that which increases strength'; *vṛdh* is acute by the root's accent; after the compound the later member, a *kṛdanta*, keeps its natural accent, so that stays."
+- **haviṣmantaḥ**: root *hu dānādanayoḥ*; *arciśucihusṛpichādicharditṛbhya isiḥ* — [Uṇādi 2-[?], as read] — the suffix *isi*; *guṇa*, *av*-substitution; since *nabviṣayasyāniṣantasya* [a Phiṭ-sūtra, as read] excludes it by negation, the first syllable is not acute; *haviḥ eṣāṃ santi*; *tadasyāstyasminn iti matup*; *havis + mat*; *tasau matvarthe* — तसौ मत्वर्थे — before a suffix in the sense of *matup* the bases ending in *t* or *s* take the name *bha* — which makes the *pada*-name not apply; and since there is no *pada*-ness, *sasajuṣo ruḥ* and the other rules for *ru* do not operate.
+- **vidhema**: root *vidha vidhāne*, *tudādi*; *parasmaipada*; *vidhiliṅ* in the first-person plural *mas*, loss of *s* [*sa-lopa*]; *tudādibhyaḥ śaḥ* — *śa*; *vidh + a + īma*; *guṇa* prevented; *yāsuṭ*; *iya*-substitution and *guṇa* [as read].
+- **sumanāḥ** (p. 186 begins): *śobhanaṃ manaḥ yeṣāṃ te*, a *bahuvrīhi*; *somanasī alomoṣasī* — सोमनसी अलोमोषसी — in a *bahuvrīhi*, after *su*, a later member that is not *lomān*/*uṣas* but ends in *man* or *as* is first-syllable acute; so the *asun*-final *manas* after *su* is first-syllable acute.
+- **bhava**: *loṭ*, second-person singular; "it stands at the beginning of the third pāda; *anudāttaṃ sarvam apādādau* is prohibited for what is at the beginning of a pāda; so the wholly-unaccented accent of *tiṅ ṅatiṅaḥ* does not come; in the Saṃhitā *dvyacotastiṅaḥ* lengthens the *a* of a *tiṅ*-form with two vowels: *bhavā*".
+- **santya** (pp. 185–186): root *ṣaṇu dāne*; *dhātvādeḥ ṣaḥ saḥ*; *ktic ktau ca saṃjñāyām* — in the sense of a name or a blessing, *ktic*/*kta* after roots; "*sanutāt* — *santiḥ*: *san + ti*"; *na kticī dīrghaś ca* — न क्तिचि दीर्घश्च — before *ktic* the lengthening and the loss of the nasal that other rules teach for roots like *vana*, *tana* do not apply; *anunāsikasya kvijhaloḥ kṅiti* — but this lengthening is also blocked; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* — the loss of the nasal is likewise prohibited; the nasals are the *ñ*, *m*, *ṅ*, *ṇ*, *n* of the fifth letters; *titutra…* — no *iṭ*; *santiḥ* means "a giver" — *santyaṃ bhavaḥ*, *santyaḥ*; *bhave chandasi* — *yat* in the Veda in the sense "born, existing in"; *santi + ya*; *yasyeti ca* — loss of the *i*; the vocative singular. Rik 2 ends here (*|| 2 ||*).
+
+### Rik 36.3 (pp. 186–189, PDF 200–203)
+
+**Saṃhitā-pāṭha** *(p. 186; accents not reproduced)*
+
+> **प्र त्वा दूतं वृणीमहे होतारं विश्ववेदसम् ।**
+> **महस्ते सतो वि चरन्त्यर्चयो दिवि स्पृशन्ति भानवः ॥ ३ ॥**
+
+*pra tvā dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam |*
+*mahas te sato vi caranty arcayo divi spṛśanti bhānavaḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 186)*
+
+> प्र । त्वा । दूतम् । वृणीमहे । होतारम् । विश्वऽवेदसम् ॥
+> महः । ते । सतः । वि । चरन्ति । अर्चयः । दिवि । स्पृशन्ति । भानवः ॥ ३ ॥
+
+*pra | tvā | dūtam | vṛṇīmahe | hotāram | viśva-vedasam ||*
+*mahaḥ | te | sataḥ | vi | caranti | arcayaḥ | divi | spṛśanti | bhānavaḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 187; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने होतारं होमनिष्पादकमाह्वातारं वा विश्ववेदसं सर्वज्ञं दूतं देवानां दूत्ये प्रवृत्तम् । अग्निर्वै देवानां दूत आसीदिति श्रुत्यन्तरात् । तादृशं त्वां वृणीमहे । प्रकर्षेण वरणं कुर्मः । महो महतः सतो नित्यं वर्तमानस्य ते तवार्चयो दीप्तयो वि चरन्ति । विविधं प्रचरन्ति । भानवस्त्वदीया रश्मयो दिवि द्युलोके स्पृशन्ति । तत्रत्यान्प्राणिनः प्रकाशयन्तीत्यर्थः ॥
+
+*he agne hotāraṃ homaniṣpādakam āhvātāraṃ vā viśvavedasaṃ sarvajñaṃ dūtaṃ devānāṃ dūtye pravṛttam | agnir vai devānāṃ dūta āsīd iti śrutyantarāt | tādṛśaṃ tvāṃ vṛṇīmahe | prakarṣeṇa varaṇaṃ kurmaḥ | maho mahataḥ sato nityaṃ vartamānasya te tavārcayo dīptayo vi caranti | vividhaṃ pracaranti | bhānavas tvadīyā raśmayo divi dyuloke spṛśanti | tatratyān prāṇinaḥ prakāśayantīty arthaḥ ||*
+
+**Translation:** "O Agni — the *hotṛ*, the accomplisher of the offering or the caller; *viśvavedasam*, all-knowing; the *dūta*, engaged in the messenger's work of the gods ('Agni was the messenger of the gods', so another Vedic text) — such a one we *pra vṛṇīmahe*, choose earnestly. *Mahaḥ sataḥ te* — of you, great and ever existing — *arcayaḥ*, the flames, *vi caranti* — move about in many ways; *bhānavaḥ*, your rays, *divi spṛśanti* — touch the heavenly world; they illumine the beings there."
+
+**Grammar within the bhāṣya:** the bhāṣya of Rik 3 on p. 187 has its grammatical tail in the lines after the main sense: *viśvavedasam* (*viśvāni vetti*, the Uṇādi *asun*, with the first-member accent; or *veda* = wealth, a *bahuvrīhi* with *bahuvrīhau viśvaṃ saṃjñāyām*, so the first member is final-acute); *mahaḥ* (*maha pūjāyām*, *kvip*; the genitive ending after a one-vowelled base is acute by *sāvekāca…*; or from *mahat*, with the Vedic loss of *āt*); *sataḥ* (*as bhuvi*, *śatṛ*, *śnasor allopaḥ*, and *śaturanumo nadyajādī* for the ending's acute); *divi* (*ūḍidam…*, the ending acute). These are taken up again in the Vyākaraṇa-prakriyā below.
+
+**Pratipadārtha** *(p. 187)* — "**hotāram** — [O Agni] who brings the offering to completion, or the inviter (the caller) of the gods; **viśvavedasam** — all-knowing; **dūtam** — one engaged in the messenger's work of the gods; (such) you, **pra vṛṇīmahe** — we choose first; **mahaḥ** — of great power (worshipful); **sataḥ** — being without destruction and eternal; **te** — your; **arcayaḥ** — the flames; **vi caranti** — spread in all directions; **bhānavaḥ** — [your] rays; **divi** — in the mid-region; **spṛśanti** — touch (and make bright the beings there)."
+
+**Bhāvārtha** *(p. 187)* — "O Agni, you accomplish our offerings. You are the one who calls the gods to our sacrifice on our behalf. You are all-knowing. You are busy in the messenger's work of the gods. Therefore we choose you, at our sacrifice, as the chief (we call you). You are of great power, imperishable, without beginning or end. Such flames of yours spread in all directions and light all the worlds. Your rays enter the mid-region and light up the beings there."
+
+**English Translation (the source's own, p. 187)** — "We select ( invoke ) you, O Agni, the messenger and invoker of gods ; **yon** [sic] are **ɔndowed** [sic] with all knowledge ; you are mighty and your flames spread in all directions touching even heaven·" *(the print ends with a raised dot where a full stop is expected)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 188**
+- **dūtam** — "since there is a Vedic statement '*agnir devānāṃ dūta āsīt*', Agni is the messenger who goes to men and calls the gods to them."
+- **hotāram** = *homaniṣpādakam āhvātāraṃ vā*: "the one who accomplishes the offering, or who calls the gods to come to the sacrifice."
+- **viśvavedasam** — "the one who knows all."
+- **vi caranty arcayaḥ** — "your lights spread all round; when Agni blazes, its brightness spreads everywhere, is the sense."
+- **divi spṛśanti bhānavaḥ** — "the rays of your light touch even heaven."
+
+**Vyākaraṇa-prakriyā** *(pp. 188–189, PDF 202–203 — grammar pages, noted briefly)*
+- **viśvavedasam**: *viśvaṃ vetti iti viśvavedāḥ* — "one who knows the universe"; root *vida jñāne*; *sarvadhātubhyo 'sun* — the Uṇādi suffix *asun* [Uṇ. 4-[?], as read]; since it belongs to the *marudvṛdhādi* group, the later member's [?] first member is final-acute (*pūrvapadāntodāttatva*); or, as the Nirukta says (Ni. 3-[?]), *veda* is a word for wealth: *viśvaṃ vedo dhanaṃ yasya saḥ* — "he whose wealth is the whole [world]"; a *bahuvrīhi*, by which *bahuvrīhau prakṛtyā pūrvapadam* would give the natural accent of the first member, but this is overridden by *bahuvrīhau viśvaṃ saṃjñāyām* — in a *bahuvrīhi* where a name is shown the first member *viśva* is final-acute; hence final-acute.
+- **mahaḥ**: root *maha pūjāyām*; *kvip ca* — *kvip*; the genitive singular *ṅas*/*as*; [the print: after *kvip* it is a one-vowelled base, *maṭ*], so *sāvekācas tṛtīyādir vibhaktiḥ* — the ending from the third case onward after a one-vowelled base is acute, hence *as* is acute; or *mahat* from *vartamāne pṛṣanmahadbṛhajjagacchatṛvac ca*… [Uṇ. 2-84, as read] — *mahat* formed with the suffix *ati*, whose *āt* is lost in the Veda; the ending has its natural accent; since the *śatṛ*-like substitution applies, *śaturanumo nadyajādī* may be cited as well for the ending's accent.
+- **sataḥ** (p. 189): root *as bhuvi*, *laṭ*, *śatṛ*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ* — *luk* of *śap*; *as + at*; *śnasor allopaḥ* — श्नसोरल्लोपः — the *a* of *as* and of *śnā* is lost before a *kit*/*ñit* *sārvadhātuka*: *s + at*; *sat*, genitive singular, *śaturanumo nadyajādī* — the ending after a word ending in *śatṛ* that is final-acute and does not take *num* is acute: *sataḥ*.
+- **divi**: *ūḍidaṃ padādyāpumrai­dyubhyaḥ* — the *asarvanāmasthāna* ending after *div* is acute: *divi*. Rik 3 ends here (*|| 3 ||*).
+
+### Rik 36.4 (p. 189 onward, PDF 203–)
+
+**Saṃhitā-pāṭha** *(p. 189; accents not reproduced)*
+
+> **देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।**
+> **विश्वं सो अग्ने जयति त्वया धनं यस्ते ददाश मर्त्यः ॥ ४ ॥**
+
+*devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate |*
+*viśvaṃ so agne jayati tvayā dhanaṃ yas te dadāśa martyaḥ || 4 ||*
+
+**Pada-pāṭha** *(p. 189)*
+
+> देवासः । त्वा । वरुणः । मित्रः । अर्यमा । सम् । दूतम् । प्रत्नम् । इन्धते ॥
+> विश्वम् । सः । अग्ने । जयति । त्वया । धनम् । यः । ते । ददाश । मर्त्यः ॥ ४ ॥
+
+*devāsaḥ | tvā | varuṇaḥ | mitraḥ | aryamā | sam | dūtam | pratnam | indhate ||*
+*viśvam | saḥ | agne | jayati | tvayā | dhanam | yaḥ | te | dadāśa | martyaḥ || 4 ||*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 182 (PDF 196) reached; the Sanskrit introduction, anuvāda and heading of Sūkta 36 (pp. 176–178) and Rik 36.1 complete (Saṃhitā through grammar).**
+---
 
-**Next task:** continue at printed p. 182 foot / p. 183 (PDF 197) with Rik 36.2. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 197 -l 265 Rig_Vol4.pdf /tmp/x/v`.
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 189 (PDF 203) reached; Riks 36.1–36.3 complete; Rik 36.4's Saṃhitā and Pada written (p. 189).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar on *devayatīnām* (end of Rik 1) is characterized from a crowded passage on *na chandasy aputrasya*, *aśvāghasyāt* and the Mahābhāṣya on *ekādeśasvara*, and may contain slips in detail.
+**Next task:** continue at printed p. 190 (PDF 204) with Rik 36.4's bhāṣya, then Rik 5. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 204 -l 265 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar on *devayatīnām* (Rik 1), *haviṣmantaḥ*, *mahaḥ* and *santya* (Riks 2–3) is characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") reproduced as [sic].
