@@ -337,8 +337,95 @@
 
 ---
 
+**Rik 47.4, continued** *(from p. 13)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 13**
+- **triṣadhasthe** — "*[karmāśraya]trayarūpeṇāstīrṇatayā triṣu sthāneṣv avasthite barhiṣi darbhe* [the first words of the Sanskrit are crowded, [?]]: on the *darbha* seat that is spread in three places; the idea is that, as a seat on which to sit, the *darbha* grass is laid on the ground one layer on another, so as to make a seat of three layers."
+- **viśvavedasā** — "those who know everything, omniscient; [the source adds in English:] 'Omniscient'."
+- **madhvā** — "Although the word *madhu* means honey, in the Ṛgveda the word *madhu* is generally used as an adjective of the Soma juice. In such contexts one should give *madhu* the sense 'sweet like honey, delicious'. In many places, without the word *soma*, the word *madhu* alone is used to indicate Soma. So it is in this ṛk too."
+- **sutasomāḥ** — "they who have prepared the Soma juice (on the day before)."
+- **abhidyavaḥ** — "*abhigatadīptayaḥ*: the shining ones, that is, the famous."
+
+**Vyākaraṇa-prakriyā** *(pp. 13–14 — grammar pages, noted briefly)*
+- **triṣadhasthe**: "*triṣu* = in three places, *saha* = together, *tiṣṭhati* = stays"; *trisadhastham* means *barhis*, the *darbha* grass. *Supi sthaḥ* (Pā. 3-2-4 as read [?]) — सुपिस्थः — when a *subanta* stands as *upapada*, the suffix *ka* comes after the root *sthā*: *tri + saha + sthā + a*; *āto lopa iṭi ca* (Pā. 6-4-64 as read) drops the *ā* of *sthā*; *sadha mādasthayoś chandasi* (Pā. 6-3-96 as read) — सध मादस्थयोश्छन्दसि — in the Veda, when *māda* or *stha* follows, *sadha* replaces *saha*; *tri + sadha + stha + a*; *pūrvapadāt* (Pā. 8-3-106 as read [?]) — पूर्वपदात् — *ṣ* for the *s* that follows an *iṇ* or *ku*-letter in the first member: *i* of *tri* → *tri-ṣadhastha*: *triṣadhastham*.
+- **madhvā**: the word *madhu* is formed by the Uṇādi rule *phalipāṭi…* (Uṇ. [?]); it is always neuter; after it the instrumental singular *ṭā*; *iko 'ci vibhaktau* (Pā. 7-1-73 as read) would give *num* to the *aṅga* ending in *i*, *u* or *ṛ* when a vowel-initial case-ending follows; but that augment, which should properly come, does not come by the saying *āgamaśāstram anityam* (Paribhāṣā, "98" as read [?]) — "the rule of augments is not invariable"; *ājjaser asuk*-type rules aside, *ājino nāstriyām* (Pā. 7-3-120 as read [?]) gives *nā* for *ṭā* after a *ghi*-stem; this does not apply in the feminine; though *nā* should properly come, *jasi ca* (Pā. 7-3-109 as read [?]) — in this sūtra "in the case of *jas* and the others, in the Chandas, optionally" is a stated option (*vāvacanam*: *aco 'ñṇiti*-type vārttika, as read "7-3-109-1" [?]); here the word *ādi* is not "beginning" but "kind" (*prakāra*): by "similarity in one context" what is meant is that, *ñau ca ñyupadhāyāḥ hrasvaḥ*-type rules being optional in the Chandas, *nā* does not come; *yaṇ* comes, and *madhvā* results.
+- **mimikṣatam**: root *miha secane*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7 as read) gives *san*; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10 as read) — an *ārdhadhātuka* beginning with a consonant takes no *iṭ* after a root of one vowel that is unaccented in the list; *miha* has one vowel, and in the verse "*vasatir dahati dihi duhor nehā mih*" the root *mih* is read among the unaccented-in-the-list roots; so no *iṭ*; *hal-antāc ca* (Pā. 1-2-10 as read) makes *san* *kit* after a root ending in a consonant preceded by *i, u, ṛ, ḷ*; so *san* is *kit*, and the *guṇa* of the light penultimate (*pugantalaghūpadhasya ca*) is forbidden by *kṅiti ca*; doubling: *mih + mih + sa*; *halādiḥ śeṣaḥ* drops the *h* of the reduplicative syllable; *hoḍhaḥ* (Pā. 8-2-31 as read) gives *ḍh*, and as *jhal* follows, *ḍh* in the word-end area; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41 as read) gives *k* before *s*; *ādeśapratyayayoḥ* gives *ṣ*: *mimikṣata*; the dual *thas* → *tam*.
+- **sutasomāḥ**: "*sutaḥ somaḥ yaiḥ*", by whom Soma was pressed; being a bahuvrīhi, the natural accent of the first member comes.
+- **abhidyavaḥ**: *dyu* is a name for the day; the light of the day exists even in the dark of night; on the basis of the day's connection, the word *dyu* denotes by *lakṣaṇā* the light connected with the day; "*abhigatāḥ dyum*", those who have reached light; the Kannada author cites *atyādayaḥ krāntādyarthe dvitīyayā* (Mahābhāṣya vārttika, "2-2-18-4" as read [?]) — compound of *ati* etc. with an accusative-ending subanta in the sense of "gone beyond", etc.; the first member *abhi* is an indeclinable; *tatpuruṣe tulyārthatṛtīyā…* gives it its natural accent. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 in progress: printed p. 12 (PDF 28) reached; introduction, heading and Riks 47.1–47.3 complete; Rik 47.4's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English are written; its Special Topics and grammar begin on p. 13 and are NOT yet written.**
+### Rik 47.5 (pp. 15–17, PDF 31–33)
 
-**Next task:** continue at printed p. 13 (PDF 29): insert "**Rik 47.4, continued** *(from p. 13)*" with the Special Topics and grammar of Rik 4; then Riks 5–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 29 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-029.jpg`). Flags for 47.3–4: sūtra numerals "as read [?]"; in 47.4 the words after *triṣadhasthe* in the bhāṣya, and "dyur iti … nāma", and the Mahābhāṣya-style number are crowded [?]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 15; accents not reproduced)*
+
+> **याभिः कण्वमभिष्टिभिः प्रावतं युवमश्विना ।**
+> **ताभिः ष्वस्माँ अवतं शुभस्पती पातं सोममृतावृधा ॥ ५ ॥**
+
+*yābhiḥ kaṇvam abhiṣṭibhiḥ prāvataṃ yuvam aśvinā |*
+*tābhiḥ ṣv asmām̐ avataṃ śubhaspatī pātaṃ somam ṛtāvṛdhā || 5 ||*
+
+**Pada-pāṭha** *(p. 15)*
+
+> याभिः । कण्वम् । अभिष्टिऽभिः । प्र । आवतम् । युवम् । अश्विना ।
+> ताभिः । सु । अस्मान् । अवतम् । शुभः । पती इति । पातम् । सोमम् । ऋतऽवृधा ॥ ५ ॥
+
+*yābhiḥ | kaṇvam | abhiṣṭi-bhiḥ | pra | āvatam | yuvam | aśvinā |*
+*tābhiḥ | su | asmān | avatam | śubhaḥ | patī iti | pātam | somam | ṛta-vṛdhā || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 15)*
+
+> **हे अश्विना युवं युवामुभौ याभिरभिष्टिभिरपेक्षिताभी रक्षाभिः कण्वं महर्षिं प्रावतं रक्षितवन्तौ हे शुभस्पती शोभनस्य कर्मणः पालकौ ताभी रक्षाभिरस्माननुष्ठातॄन् सु अवतं [?] । सुष्ठु रक्षतम् । हे ऋतावृधा यज्ञस्य वर्धकौ सोमं पातं । पिबतं । स्पष्टमन्यत् ॥ अभिष्टिभिः । अभिमुख्येनेष्यन्त इत्यभिष्टयः फलानि । इषु इच्छायां । कर्मणि क्तिनि तितुत्रेत्यादिनेट्प्रतिषेधः । एमनादिषु छन्दसि पररूपं वक्तव्यं । पा. ६-१-९४-६ [?] । इति पररूपत्वं । ताडौ चेति गतेः प्रकृतिस्वरत्वं । उपसर्गाश्चाभिवर्जं । फि. ४-१३ [?] । इत्यभिरन्तोदात्तः । शुभस्पती । शुभ दीप्तौ । क्विप्चेति क्विप् । षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य सत्वं । सुबामन्त्रित इति षष्ठ्यन्तस्य परांगवद्भावात् षष्ठ्यामन्त्रितसमुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥ ५ ॥**
+
+*he aśvinā yuvaṃ yuvām ubhau yābhir abhiṣṭibhir apekṣitābhī rakṣābhiḥ kaṇvaṃ maharṣiṃ prāvataṃ rakṣitavantau he śubhaspatī śobhanasya karmaṇaḥ pālakau tābhī rakṣābhir asmān anuṣṭhātṝn su avataṃ [?] | suṣṭhu rakṣatam | he ṛtāvṛdhā yajñasya vardhakau somaṃ pātaṃ | pibataṃ | spaṣṭam anyat || abhiṣṭibhiḥ | abhimukhyeneṣyanta ity abhiṣṭayaḥ phalāni | iṣu icchāyāṃ | karmaṇi ktini titutretyādineṭpratiṣedhaḥ | emanādiṣu chandasi pararūpaṃ vaktavyaṃ | pā. 6-1-94-6 [?] | iti pararūpatvaṃ | tāḍau ceti gateḥ prakṛtisvaratvaṃ | upasargāś cābhivarjaṃ | phi. 4-13 [?] | ity abhir antodāttaḥ | śubhaspatī | śubha dīptau | kvip ceti kvip | ṣaṣṭhyāḥ patiputreti visarjanīyasya satvaṃ | subāmantrita iti ṣaṣṭhyantasya parāṅgavadbhāvāt ṣaṣṭhyāmantritasamudāyasyāṣṭamikaṃ sarvānudāttatvaṃ || 5 ||*
+
+*(The words "spaṣṭam anyat", "the rest is clear", are the print's own. The words "su avatam" (the print reads like "ṣv avatam") and the numerals are crowded [?].)*
+
+**Translation:** "O Aśvins, *yuvam*, you two, with the *abhiṣṭibhiḥ*, the desired protections, with which you protected the great sage *kaṇvam*, *prāvatam*; O *śubhaspatī*, guardians of good work, with those same protections protect *asmān*, us, the performers, well (*su avatam*): protect well. O *ṛtāvṛdhā*, promoters of the sacrifice, *somam pātam*, drink the Soma. The rest is clear. *Abhiṣṭibhiḥ*: *abhiṣṭayaḥ* are fruits that are chiefly wished for; the root *iṣu icchāyām*; *ktin* in the passive; the *iṭ* is excluded by *tituttra…*; in the Chandas *pararūpa* is to be said for *emanādi* words (Pā. 6-1-94 vārttika [?]); the first member keeps its accent by *tāḍau ca*; the list says *abhi* is end-acute among the prepositions (Phiṭ-sūtra 4-13 [?]). *Śubhaspatī*: root *śubha dīptau*, *kvip*; the *visarga* becomes *s* by *ṣaṣṭhyāḥ patiputra…*; the genitive-ending word being treated as part of the following by *subāmantrite parāṅgavat…*, the whole of the genitive-and-vocative group gets the all-unaccented of the eighth chapter."
+
+**Pratipadārtha** *(p. 15)* — "**śubhaspatī** — O Aśvin gods, protectors of holy acts or of rites of dharma; **aśvinā** — O Aśvins; **yuvam** — you both; **yābhiḥ** — with which; **abhiṣṭibhiḥ** — with desired protections; **kaṇvam** — the sage Kaṇva; **prāvatam** — you protected; **tābhiḥ** — with those protections; **asmān** — us (the performers of the sacrifice); **su avatam** — protect well; **ṛtāvṛdhā** — O promoters of the sacrifice or of truth; **somam** — the Soma juice; **pātam** — drink."
+
+**Bhāvārtha** *(p. 16)* — "O Aśvin gods, protectors of holy acts, both of you together protected the sage Kaṇva with the protections he desired. With those same protections protect well us too, who perform the sacrifice. O Aśvin gods, promoters of sacrifice or of truth, drink the Soma juice."
+
+**English Translation (the source's own, p. 16)** — "O Aswins, with such protection as you extended to Kanwa protect us also ; cherishers of pious acts, drink, the soma juice."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 16**
+- "When the Kāṇvas, the descendants of the sage Kaṇva, pray to the Aśvin gods, they ask: 'As you protected the sage Kaṇva, the first ancestor of our line, so protect us too.'"
+- **abhiṣṭibhiḥ** — "*āpekṣitābhī rakṣābhiḥ*: with the protections that are necessary or that we desire; that is, from the fear of enemies, from the harm of cruel beasts, or from the fear of diseases: this is the idea."
+- **śubhaspatī** — "these words are used especially when addressing the Aśvin gods in praise."
+
+**Vyākaraṇa-prakriyā** *(pp. 16–17 — grammar pages, noted briefly)*
+- **abhiṣṭibhiḥ**: "*abhi*, facing; *iṣyante*, are desired"; the root *iṣu icchāyām*; *striyāṃ ktin* (Pā. 3-3-94 as read [?]) — स्त्रियां क्तिन् — in the feminine the suffix *ktin* comes after all roots, in the abstract sense and in a *kāraka* sense other than the agent; so *ktin* after *iṣ* in the passive: *iṣ + ti*; *titutratathasisusarakaseṣu ca* (Pā. 7-2-9 as read [?]) — the ten *kṛt* suffixes beginning with *ti, tu, tra, tha, si, su, sara, ka, sa* take no *iṭ*; hence the *iṭ* is excluded; *emanādiṣu chandasi pararūpaṃ vaktavyam* (vārttika on Pā. 6-1-94, as read "6-1-94-6" [?]) — in the Chandas, when *eman* and the like follow, *pararūpa* is to be said — and the word *iṣṭi* is to be included among *eman* etc.; so, when *abhi + iṣṭi* is formed, the homogeneous lengthening is overridden and *pararūpa* comes, a single *i* standing in place of the two; *ktin* is *nit*, so as a *kṛt* (*tāḍau ca nitikṛty atau*, Pā. 6-2-50 as read [?]) — when a *kṛt* beginning with *t* and not *tu*, and being *nit*, follows, the *gati* before it keeps its natural accent; *abhi* by its natural accent: *upasargāś cābhivarjam* (Phiṭ-sūtra, "4-13" as read [?]) — the prepositions other than *abhi* are initial-acute; *abhi* is end-acute; this stays after compounding.
+- **śubhaspatī**: root *śubha dīptau*; *kvip ca* (Pā. 3-2-76 as read [?]) — after all roots, whether there is an *upapada* or not, in the world and in the Veda, *kvip*; *śubhaḥ + pati*; *ṣaṣṭhyāḥ patiputrapṛṣṭhapārapadapayaspoṣeṣu* (Pā. 8-3-53 as read [?]) — षष्ठ्याः पतिपुत्रपृष्ठपारपदपयस्पोषेषु — *visarga* of the genitive becomes *s* when *pati, putra, pṛṣṭha, pāra, pada, paya* or *poṣa* follows; *subāmantrite parāṅgavat svare* (Pā. 2-1-2 as read [?]) — when it is accent that is to be determined, a *subanta* standing before a vocative is treated as part of the following word; *śubhaḥ* is thus treated as a part of *patī*; so these two make a single word; *ṣaṣṭhyāmantritasamudāyasya* [as I read the Kannada: some say that the vocative ending of the first case is called *āmantrita*]; *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented to both. **|| 5 ||**
+
+---
+
+### Rik 47.6 (pp. 17–, PDF 33–)
+
+**Saṃhitā-pāṭha** *(p. 17; accents not reproduced)*
+
+> **सुदासे दस्रा वसु बिभ्रता रथे पृक्षो वहतमश्विना ।**
+> **रयिं समुद्रादुत वा दिवस्पर्यस्मे धत्तं पुरुस्पृहम् ॥ ६ ॥**
+
+*sudāse dasrā vasu bibhratā rathe pṛkṣo vahatam aśvinā |*
+*rayiṃ samudrād uta vā divas pary asme dhattaṃ puruspṛham || 6 ||*
+
+**Pada-pāṭha** *(p. 17)*
+
+> सुऽदासे । दस्रा । वसु । बिभ्रता । रथे । पृक्षः । वहतम् । अश्विना ।
+> रयिम् । समुद्रात् । उत । वा । दिवः । परि । अस्मे इति । धत्तम् । पुरुऽस्पृहम् ॥ ६ ॥
+
+*su-dāse | dasrā | vasu | bibhratā | rathe | pṛkṣaḥ | vahatam | aśvinā |*
+*rayim | samudrāt | uta | vā | divaḥ | pari | asme iti | dhattam | puru-spṛham || 6 ||*
+
+*(The bhāṣya of Rik 6 begins at the foot of p. 17 and runs on to p. 18; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 in progress: printed p. 17 (PDF 33) reached; introduction, heading and Riks 47.1–47.5 complete; Rik 47.6's Saṃhitā and Pada written at the foot of p. 17 (its bhāṣya begins at the foot of p. 17 and continues on p. 18).**
+
+**Next task:** continue at printed p. 17 foot / p. 18 (PDF 33–34) with the bhāṣya of Rik 47.6 (read it afresh from the print), then Riks 7–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 33 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-033.jpg`). Flags for 47.4–5: sūtra numerals "as read [?]"; in 47.5 "su avatam" and the end of the bhāṣya's first sentence crowded; the grammar discussion of *madhvā* (*num*/*nā*/*jasi ca*) outlined only. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
