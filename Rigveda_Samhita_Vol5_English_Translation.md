@@ -6014,8 +6014,122 @@
 
 ---
 
+### Rik 54.9 (pp. 331–333, PDF 347–349; metre Triṣṭubh)
+
+**Saṃhitā-pāṭha** *(p. 331; accents printed, not reproduced)*
+
+> **तुभ्येदेते बहुला अद्रिदुग्धाश्चमूषदश्चमसा इन्द्रपानाः ।**
+> **व्यश्नुहि तर्पया कामसेषामथा मनो वसुदेयाय कृष्व ॥ ९ ॥**
+
+*tubhyed ete bahulā adridugdhāś camūṣadaś camasā indrapānāḥ |*
+*vy aśnuhi tarpayā kāmam eṣām athā mano vasudeyāya kṛṣva || 9 ||*
+
+*(The print joins "*kāmam eṣām*" as "kāmasesām"-looking in the Saṃhitā line; I read* kāmam eṣām *from the Pada.)*
+
+**Pada-pāṭha** *(p. 331)*
+
+> तुभ्य । इत् । एते । बहुलाः । अद्रिऽदुग्धाः । चमूऽसदः । चमसाः । इन्द्रऽपानाः ।
+> वि । अश्नुहि । तर्पय । कामम् । एषाम् । अथ । मनः । वसुऽदेयाय । कृष्व ॥ ९ ॥
+
+*tubhya | it | ete | bahulāḥ | adri-dugdhāḥ | camū-sadaḥ | camasāḥ | indra-pānāḥ |*
+*vi | aśnuhi | tarpaya | kāmam | eṣām | atha | manaḥ | vasu-deyāya | kṛṣva || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 331)*
+
+> **हे इन्द्र तुभ्येत् तुभ्यमेव चमसाः । चम्यन्ते भक्ष्यन्त इति चमसाः सोमाः । एते सोमास्त्वदर्थं संपादिताः । कीदृशा इत्याह । बहुलाः प्रभूता अद्रिदुग्धाः अद्रिभिर्ग्रावभिरभिषुताश्चमूषदश्चमूषु चमसेष्ववस्थिता इन्द्रपानाः इन्द्रस्य पानेन सुखकराः । अतस्त्वं तान्यश्नुहि । व्याप्नुहि । व्याप्य चैषां त्वदीयानामिन्द्रियाणां कामम् अभिलाषं तर्पय पूरयेति यावत् । अथानन्तरं वसुदेयायास्मभ्यमभिमतधनप्रदानाय त्वदीयं मनः कृष्व कुरुष्व ॥**
+
+*he indra tubhyet tubhyam eva camasāḥ | camyante bhakṣyanta iti camasāḥ somāḥ | ete somās tvadarthaṃ saṃpāditāḥ | kīdṛśā ity āha | bahulāḥ prabhūtā adridugdhāḥ adribhir grāvabhir abhiṣutāś camūṣadaś camūṣu camaseṣv avasthitā indrapānāḥ indrasya pānena sukhakarāḥ | atas tvaṃ tāny aśnuhi | vyāpnuhi | vyāpya caiṣāṃ tvadīyānām indriyāṇāṃ kāmam abhilāṣaṃ tarpaya pūrayeti yāvat | athānantaraṃ vasudeyāyāsmabhyam abhimatadhanapradānāya tvadīyaṃ manaḥ kṛṣva kuruṣva ||*
+
+*(The tail of the bhāṣya, p. 331 foot: on* tubhya *(the dative form with the loss of the* m *by* chāndasa*),* adridugdhāḥ *(*duha prapūraṇe*; *kta*; *dādhaḥ… ghoḥ* for the *h*; *tṛtīyā karmaṇi*, the accent of the first member),* camūṣadaḥ *(*camu adane*, *kvip*; *ṣatva* by *pūrvapadāt saṃjñāyām agaḥ*),* indrapānāḥ *(*karmaṇi ca yena saṃsparśāt kartuḥ śarīrasukham*, *lyuṭ*),* aśnuhi *(*aśū vyāptau*, *svādi*; *śnu*),* vasudeyāya *(*ḍudāñ dāne*, *yat* by *aco yat*; *īt* by *īdyati*)* and* kṛṣva *(*ḍukṛñ karaṇe*; the loss of the *u*-vikaraṇa by *bahulaṃ chandasi*) — is characterized, echoed in the Kannada grammar notes below.)*
+
+**Translation of the bhāṣya:** "O Indra, *tubhya it*: for you alone — *camasāḥ*: the *camasas* are Somas, so called because they are *camyante*, consumed. These Somas have been prepared for you. What are they like? *Bahulāḥ*, abundant; *adridugdhāḥ*, pressed by the stones; *camūṣadaḥ*, seated in the *camū*, the cups; *indrapānāḥ*, giving ease through Indra's drinking. Therefore you *aśnuhi*, partake — *vy*: pervade — of them, and, having filled yourself, *kāmaṃ tarpaya*, satisfy, fulfil, the desire of these your senses. Then, *manaḥ kṛṣva*, set your mind, *vasudeyāya*, upon giving us the wealth we desire."
+
+**Pratipadārtha** *(p. 332)* — "(O Indra) **tubhya it** — for you alone; **bahulāḥ** — abundant; **adridugdhāḥ** — pressed with stones; **camūṣadaḥ** — in the cups; **indrapānāḥ** — fit for Indra's drinking; **ete camasāḥ** — these soma juices (have been prepared); **vyaśnuhi** — you drink them completely (and); **eṣām** — of your senses; **kāmam** — desire; **tarpaya** — satisfy; **atha** — afterwards; **vasudeyāya** — for the wealth to be given to us; **manaḥ** — your mind; **kṛṣva** — set."
+
+**Bhāvārtha** *(p. 332)* — "O Indra, these soma juices, fit for your drinking, have been abundantly pressed with stones and set in the cups. Drink them as much as you wish and satisfy the desire of your senses. Afterwards set your mind upon giving us the wealth we need."
+
+**English Translation (the source's own, p. 332)** — "These copious Soma-juices expressed with stones and contained in ladles, are prepared for you; they are the beverage of Indra; drink them; Satiate your appetite with them; and then fix your mind on the wealth that is to be given to us."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 332–333**
+- **tubhyet** — "*Tubhya* + *it*: in the Veda the form *tubhyam*, the dative singular of *yuṣmad*, is used with the loss of the anusvāra (the letter *m*)."
+- **camasāḥ** — "*Camyante bhakṣyante iti camasāḥ somāḥ*: the soma juice fit to be consumed by the deities is called *camasa*."
+- **adridugdhāḥ** — "Here the word *adri* means stone: 'soma juice pressed with the help of stones'."
+- **camūṣadaḥ** — "*Camūṣu camaseṣu avasthitāḥ*: those which lie in the vessels called *camasa*, made of wood in the form of a ladle."
+- **indrapānāḥ** — "Soma juice suited to Indra's drinking; it is an epithet of the word *camasāḥ*."
+- **vasudeyāya** — "To give us the desired objects — that is, wealth, gold and the like — when you have been satisfied with the soma juice."
+- **kṛṣva** — "In the verb-form *kṛṇuṣva*, following the sūtra *bahulaṃ chandasi*, the middle *nu* — the *vikaraṇa* suffix — is dropped. The intention is: 'set your mind'."
+
+**Vyākaraṇa-prakriyā** *(pp. 333 — grammar page, noted briefly)*
+- **tubhya**: *tubhyam*: *supāṃ… tubhyamahyau ṅayi* (Pā. 7-2-95) gives *tubhya* when *ṅe* follows the *yuṣmad*; the ending *ṅe* is replaced by *ya* (*ṅer yaḥ*) [as read, "*jaya*" for the ending], *ṅe prathamayor am* gives *am*, *śeṣe lopaḥ* drops the rest, *ami pūrvaḥ* gives the earlier substitution: *tubhyam*; in the Veda the *m* drops.
+- **adridugdhāḥ**: *druha jighāṃsāyām* [as printed; read *duha prapūraṇe*, [?]]; *kta* in the passive; *hodhaḥ*… when the *ḍhatva* is obtained, *dādo… vā druhamuhaṣṇuhaṣṇihām* gives *gha* [optional]; *dhaḥ* for *t* by *jhaṣas tathor dho 'dhaḥ*; *jhalāṃ jaś jhaśi*, *gha* → *g*; *adribhir dugdhāḥ*: *tṛtīyā karmaṇi* (Pā. 6-2-48) gives the accent of the first member, an exception to the *kṛdanta* final-member accent.
+- **camūṣadaḥ**: *camu adane*; *camanti anena iti camūḥ*; *kṛṣicamitanidhanisarjyarthi…* (Uṇ. 1-… as read [?]) the Uṇādi *ū*; *camūṣu sīdanti iti camūṣadaḥ*; *sat-sūdviṣadruha…* (Pā. 3-2-61) gives *kvip*; *pūrvapadāt saṃjñāyām agaḥ* (Pā. 8-3-106) gives *ṣatva*; *gatikārakopapadāt kṛt* gives the *kṛdanta* accent of the final member.
+- **indrapānāḥ**: *karmaṇi ca yena saṃsparśāt kartuḥ śarīrasukham* (Pā. 3-3-116): *lyuṭ* after *pā* with the object as *upapada*; *yuvor anākau* gives *ana*: *indrapāna*.
+- **aśnuhi**: *aśū vyāptau*, *svādi*; *vyatyayo bahulam* gives the *parasmaipada*; *loṭ* second singular *sip*; *hi* for *sip*; *svādibhyaḥ śnuḥ* gives *śnu*: *aśnuhi*; *tiṅ atiṅaḥ*, *nighāta*.
+- **vasudeyāya**: *ḍudāñ dāne*; *aco yat* (Pā. 3-1-97) gives *yat* after *ac*-ending roots, in the sense of the action here; *īdyati* (Pā. 6-4-65) gives *ī* to the root's *ā* before *yat*; *dī + ya*: *guṇa*; *yato 'nāvaḥ* gives the initial acute; compound with *vasu*, so *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*. **|| 9 ||**
+- **kṛṣva** *(p. 334, PDF 350)*: *ḍukṛñ karaṇe*, *ñit*, so both *padas*; *loṭ* second singular, *thāsaḥ se* (Pā. 3-4-80) gives *se*; *bahulaṃ chandasi* drops the *u*-characteristic (*vikaraṇa*); *sa* after *v*: *savābhyāṃ vāmau* (Pā. 3-4-91) gives *va* [the optional ending]; since *s* arises, *ādeśapratyayayoḥ* gives *ṣatva*; since *sārvadhātukam apit* gives *ṅit*-ness, *guṇa* of the *ṛ* does not arise: *kṛṣva*; *tiṅ atiṅaḥ*, *nighāta*. **|| 9 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.8 complete (through printed p. 330, PDF 346). Rik 54.9 (Triṣṭubh) begins at the head of p. 331 (PDF 347) — NOT yet written; nor Riks 54.10–54.11.**
+### Rik 54.10 (pp. 334–338, PDF 350–354; metre Jagatī)
 
-**Next task:** continue at printed p. 331 (PDF 347) with **Rik 54.9**, then Riks 10 (Jagatī) and 11 (Triṣṭubh) and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]; Rik 8 Nirukta numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
+**Saṃhitā-pāṭha** *(p. 334; accents printed, not reproduced)*
+
+> **अपामतिष्ठद्धरुणह्वरं तमोऽन्तर्वृत्रस्य जठरेषु पर्वतः ।**
+> **अभीमिन्द्रो नद्यो वव्रिणा हिता विश्वा अनुष्ठाः प्रवणेषु जिघ्नते ॥ १० ॥**
+
+*apām atiṣṭhad dharuṇahvaraṃ tamo 'ntar vṛtrasya jaṭhareṣu parvataḥ |*
+*abhīm indro nadyo vavriṇā hitā viśvā anuṣṭhāḥ pravaṇeṣu jighnate || 10 ||*
+
+**Pada-pāṭha** *(p. 334)*
+
+> अपाम् । अतिष्ठत् । धरुणऽह्वरम् । तमः । अन्तः । वृत्रस्य । जठरेषु । पर्वतः ।
+> अभि । ईम् । इन्द्रः । नद्यः । वव्रिणा । हिताः । विश्वाः । अनुऽस्थाः । प्रऽवणेषु । जिघ्नते ॥ १० ॥
+
+*apām | atiṣṭhat | dharuṇa-hvaram | tamaḥ | antaḥ | vṛtrasya | jaṭhareṣu | parvataḥ |*
+*abhi | īm | indraḥ | nadyaḥ | vavriṇā | hitāḥ | viśvāḥ | anu-sthāḥ | pra-vaṇeṣu | jighnate || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 334)*
+
+> **अपां वृष्ण्युदकानां धरुणह्वरम् । धरुणशब्दो धारावाचनः । धारानिरोधकं तमोऽन्धकारमतिष्ठत् । अयमेवार्थः स्पष्टीक्रियते । वृत्रस्य लोकत्रयावरितुरसुरस्य जठरेषूदरप्रदेशेष्वन्तर्मध्ये पर्वतः पर्ववान्मेघोऽभूत् । अतस्तमोरूपेण वृत्रेण मेघस्यावृतत्वाद्वृष्ण्युदकमस्यावृतमित्युच्यते । ईमिमाः पूर्वोक्ताः नद्यो नदीरपः । नदनान्नद्य इति व्युत्पत्त्या नदीशब्देनाप उच्यन्ते । वव्रिणावरकेण वृत्रेण हिताः पिहिता विश्वा व्यापनीरनुष्ठा अनुक्रमेण तिष्ठन्तीः । एवंविधा अप इन्द्रः प्रवणेषु निम्नेषु भूप्रदेशेष्वभिजिघ्नते अभिगमयति ॥**
+
+*apāṃ vṛṣṇyudakānāṃ dharuṇahvaram | dharuṇaśabdo dhārāvācanaḥ | dhārānirodhakaṃ tamo 'ndhakāram atiṣṭhat | ayam evārthaḥ spaṣṭīkriyate | vṛtrasya lokatrayāvariturasurasya jaṭhareṣūdarapradeśeṣv antar madhye parvataḥ parvavān megho 'bhūt | atas tamorūpeṇa vṛtreṇa meghasyāvṛtatvād vṛṣṇyudakam asyāvṛtam ity ucyate | īm imāḥ pūrvoktāḥ nadyo nadīr apaḥ | nadanān nadya iti vyutpattyā nadīśabdenāpa ucyante | vavriṇāvarakeṇa vṛtreṇa hitāḥ pihitā viśvā vyāpanīr anuṣṭhā anukrameṇa tiṣṭhantīḥ | evaṃvidhā apa indraḥ pravaṇeṣu nimneṣu bhūpradeśeṣv abhijighnate abhigamayati ||*
+
+*(The tail of the bhāṣya, pp. 334 foot–335, is characterized:* vavriṇā *(*vṛñ varaṇe*, the suffix *ki* by *ādṛgamahanajana…*, Pā. 3-2-171; reduplication, *urat*, *halādiḥ śeṣaḥ*; *yaṇ*),* anuṣṭhāḥ *(*ṣṭhā gatinivṛttau* with *ka* by *ātaś copasarge*; *ātolopa iṭi ca*; *upasargāt sunoti…*, *ṣṭutva*),* jighnate *(*han hiṃsāgatyoḥ* in the sense of going; *ātmanepada* by *vyatyaya*; *śap*, *śluḥ*; reduplication, the *gh*; *artipiparty…* — the Kannada notes below give the details).)*
+
+**Translation of the bhāṣya:** "*Apām*, of the waters — the rain-waters — *dharuṇahvaram*: *dharuṇa* means a stream; *tamas*, darkness, blocking the streams, *atiṣṭhat*, stood. The same sense is made clear: *vṛtrasya*, of Vṛtra, the Asura who covers the three worlds, *jaṭhareṣu*, in the belly-regions, *antaḥ*, inside, *parvataḥ*, the cloud with its joints, was. Therefore, since the cloud is covered by Vṛtra of the form of darkness, the rain-water is said to be covered by him. *Īm*, these just-spoken *nadyaḥ*, rivers — the waters (by the derivation *nadanāt nadyaḥ*, 'from sounding', the word *nadī* signifies waters) — *vavriṇā*, by the coverer Vṛtra, *hitāḥ*, covered, *viśvāḥ*, all of them, pervading, *anuṣṭhāḥ*, standing in succession: such waters Indra *pravaṇeṣu*, in the low places of the earth, *abhi jighnate*, makes go all round."
+
+**Pratipadārtha** *(p. 335)* — "**apām** — of the (rain) waters; **dharuṇahvaram** — that obstructs the currents; **tamaḥ** — darkness; **atiṣṭhat** — stood; **vṛtrasya** — of Vṛtra, who covered the three worlds; **jaṭhareṣu** — in the belly-regions; **antaḥ** — in the middle; **parvataḥ** — the cloud (was hidden); **vavriṇā** — by Vṛtra, who covered everything; **hitāḥ** — covered, (such); **viśvāḥ** — all; **anuṣṭhāḥ** — standing in succession; **īm nadyaḥ** — these waters; **indraḥ** — Indra; **pravaṇeṣu** — in the low places (of the earth); **abhi jighnate** — makes flow all round."
+
+**Bhāvārtha** *(p. 335)* — "Because Vṛtra covered the three worlds, the darkness that obstructs the streams of the waters stood. In the middle of Vṛtra's belly the cloud was hidden. When Vṛtra thus stopped the waters, Indra released all those waters one after another, and made them flow all round into the low places of the earth."
+
+**English Translation (the source's own, p. 335)** — "The darkness obstructed the current of the waters, the cloud was within the belly of Vritra, but Indra precipitated all the waters which the obstructor had concealed, in succession, down to the hollows (of the earth)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 335–336**
+- **atredam uktaṃ bhavati** *(a Sanskrit passage in the print, p. 335)*:
+
+  > **अत्रेदमुक्तं भवति । पुरा किल जलानां वर्षकं मेघं वृत्रः स्वोदरे निधाय सकलं जगत् तिमिरावृतं कृत्वा मेघोदकानि निरुद्धवान् । तदेन्द्रस्तदुदरस्थं मेघरूपं पर्वतं भित्त्वा तत्रस्थान्युदकानि भूमौ पातितवानिति ॥**
+
+  *atredam uktaṃ bhavati | purā kila jalānāṃ varṣakaṃ megham vṛtraḥ svodare nidhāya sakalaṃ jagat timirāvṛtaṃ kṛtvā meghodakāni niruddhavān | tadendras tadudarasthaṃ megharūpaṃ parvataṃ bhittvā tatrasthāny udakāni bhūmau pātitavān iti ||* — "Here this is meant: formerly Vṛtra, having placed in his own belly the cloud that sends the waters, made the whole world covered with darkness, and stopped the cloud-waters. Then Indra, having split the cloud-mountain that stood in his belly, caused the waters in it to fall on the earth." The Kannada adds: "Formerly the Asura Vṛtra, having kept in his belly the cloud that causes rain, made the whole world dark and held back the rain. Then Indra pierced the cloud — which lay in Vṛtra's belly in the form of a mountain — and made the water in it fall on the earth as rain."
+- **dharuṇahvaram** — "Here the word *dharuṇa* has the sense of *dhārā*, a stream (of water). That which obstructs it is *dharuṇahvara*. Here this is an epithet of *tamaḥ*, darkness. Vṛtra pervaded the whole atmosphere, caused darkness, and obstructed the rain coming to the earth."
+- **īm** — "This word gives the sense of the plural of the pronoun *idam*. It is an epithet of the word *nadyaḥ*."
+- **nadyaḥ** — "By the derivation *nadanāt nadyaḥ*, the word *nadī* means water."
+- **vavriṇā** — "One who covers the whole world, in the form of cloud and in the form of darkness: Vṛtra."
+- **anuṣṭhāḥ** — "*Anu kramena tiṣṭhantīti anuṣṭhāḥ*: this word conveys the sense that the stopped water will flow in succession."
+- **pravaṇeṣu** — "In the hollow lands of the earth. The sense is that, having killed Vṛtra, Indra caused the mass of water, which had stood in one place, to flow in low places."
+
+**Vyākaraṇa-prakriyā** *(pp. 336–338 — grammar pages, noted briefly)*
+- **atiṣṭhat**: *ṣṭhā gatinivṛttau*, *bhvādi*; *laṅ* third singular *tip*; *itaś ca* drops the *i* [of *tip*]; *pāghrādhmāsthāmnādāṇdṛśyartisartiśadasadām…* (Pā. 7-3-78) gives *tiṣṭha*; *aṭ* as the *laṅ* augment: *atiṣṭhat*; *tiṅ atiṅaḥ*, *nighāta*.
+- **vavriṇā**: *vṛñ varaṇe*; *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171) gives *ki*, with *liḍvad bhāva*, so reduplication; *urat*; *halādiḥ śeṣaḥ*; before *ki*, *yaṇ*; *vavri*, a stem in *i*; end-acute by the initial acute of the suffix; instrumental singular.
+- **hitāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; before *kta*, *dadhāter hiḥ* (Pā. 7-4-42) gives *hi*; end-acute by the suffix; nominative plural.
+- **anuṣṭhāḥ**: the prefix *anu* as *upapada*, *ātaś copasarge* (Pā. 3-3-106 [as read]) gives *ka* after *sthā*; *ātolopa iṭi ca* drops the *ā* before *ka*; *upasargāt sunoti…* gives *ṣatva*; by *ṣṭutva* the *th* becomes *ṭh*: *anuṣṭha*; end-acute by the suffix.
+- **jighnate**: *han hiṃsāgatyoḥ*, taken here in the sense of going; *vyatyayo bahulam* gives the *ātmanepada* ending; since *adādi*, *śap* would drop (*luk*), but *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* gives reduplication; *abhyāsāc ca* gives *gh* by *kutva*; *artipiparty…*; the *hanteḥ* is *ñit*… so *ṭita ātmanepadānām ṭer e* gives *e*; *jighnate*; *tiṅ atiṅaḥ*, *nighāta*. **|| 10 ||**
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.10 complete (through printed p. 338, PDF 354, the grammar page of Rik 10 as far as *jighnate*; if p. 338 holds a further grammar paragraph for Rik 10 it is at the head of p. 338 — check). Rik 54.11 (the last Rik, Triṣṭubh) and the close of Sūkta 54 are NOT yet written.**
+
+**Next task:** view PDF 353–356 (printed pp. 337–340) — finish any remaining grammar of Rik 10, then write Rik 54.11 and the close of Sūkta 54 (the end of the sūkta should fall before Sūkta 55's start, ≈ p. 342 [?] per the table). Then the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]; Rik 8 Nirukta numeral [?]; Rik 9 grammar note on *adridugdhāḥ* (the print's "druha" for "duha") [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
