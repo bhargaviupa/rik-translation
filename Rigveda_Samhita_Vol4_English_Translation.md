@@ -6102,10 +6102,125 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Rik 40.2, continued** *(from p. 382; the Saṃhitā is above)*
+
+**Pada-pāṭha** *(p. 382)*
+
+> त्वाम् । इत् । हि । सहसः । पुत्र । मर्त्यः । उपऽब्रूते । धने । हिते ।
+> सुऽवीर्यम् । मरुतः । आ । सुऽअश्व्यम् । दधीत । यः । वः । आऽचके ॥ २ ॥
+
+*tvām | it | hi | sahasaḥ | putra | martyaḥ | upa-brūte | dhane | hite |*
+*su-vīryam | marutaḥ | ā | su-aśvyam | dadhīta | yaḥ | vaḥ | ā-cake || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 382)*
+
+> **हे सहसस्पुत्र बलस्य बहुपालक ब्रह्मणस्पते । पुत्रः पुरु त्रायते निपरणाद्वेति निरुक्तं । नि. २-११ [?] । मर्त्यो मनुष्यो हिते शत्रुषु प्रक्षिप्ते धने निमित्तभूते सति त्वामित् । त्वामेवोपब्रूते हि । समीपं प्राप्य स्तौति खलु । तद्धनसम्पादनाय प्रार्थयत इत्यर्थः । हे मरुतो यो धनार्थी मर्त्यो वो युष्मान् ब्रह्मणस्पतिसहितानाचके स्तौति । स मर्त्यः स्वश्व्यं शोभनाश्वयुक्तं सुवीर्यं शोभनवीर्ययुक्तं च धनं दधीत । धारयेत् ॥ सहसस्पुत्र । ब्रह्मणस्पत इतिवत् । षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य सत्वं । उपब्रूते । हि चेति निघातप्रतिषेधः । तिङश्चोदात्तवतीति गतेरनुदात्तत्वं । हिते । निष्ठायां दधातेर्हिरिति हिरादेशः । सुवीर्यं । शोभनं वीर्यं यस्येति बहुव्रीहौ वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं । स्वश्व्यं । अश्वानां समूहोऽश्वीयं । केशाश्वाभ्यां यञ्छावन्यतरस्यां । पा. ४-२-४८ [?] । इति समूहार्थे छप्रत्ययः । छस्य ईयादेशः । शोभनमश्वीयं यस्य तत् स्वश्व्यं । ईकारलोपश्छान्दसः । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । दधीत । सीयुटः सकारलोपे सत्यभ्यस्तानामादिरित्याद्युदात्तत्वं । पादादित्वान्निघाताभावः । आचके । कै गै रै शब्दे । आदेच इत्यात्वं । लिटि द्विर्वचनेऽभ्यासस्य ह्रस्वचुत्वे । आतो लोप इटि चेत्याकारलोपः । प्रत्ययस्वरः । यद्वृत्तयोगादनिघातः ॥**
+
+*he sahasas putra balasya bahupālaka brahmaṇaspate | putraḥ puru trāyate niparaṇād veti niruktaṃ | ni. 2-11 [?] | martyo manuṣyo hite śatruṣu prakṣipte dhane nimittabhūte sati tvām it | tvām evopabrūte hi | samīpaṃ prāpya stauti khalu | taddhanasampādanāya prārthayata ity arthaḥ | he maruto yo dhanārthī martyo vo yuṣmān brahmaṇaspatisahitān ācake stauti | sa martyaḥ svaśvyaṃ śobhanāśvayuktaṃ suvīryaṃ śobhanavīryayuktaṃ ca dhanaṃ dadhīta | dhārayet || sahasas putra | brahmaṇaspata itivat | ṣaṣṭhyāḥ patiputreti visarjanīyasya satvaṃ | upabrūte | hi ceti nighātapratiṣedhaḥ | tiṅaś codāttavatīti gater anudāttatvaṃ | hite | niṣṭhāyāṃ dadhāter hir iti hirādeśaḥ | suvīryaṃ | śobhanaṃ vīryaṃ yasyeti bahuvrīhau vīravīryau cety uttarapadādyudāttatvaṃ | svaśvyaṃ | aśvānāṃ samūho 'śvīyaṃ | keśāśvābhyāṃ yañchāvanyatarasyāṃ | pā. 4-2-48 [?] | iti samūhārthe chapratyayaḥ | chasya īyādeśaḥ | śobhanam aśvīyaṃ yasya tat svaśvyaṃ | īkāralopaś chāndasaḥ | parādiś chandasi bahulam ity uttarapadādyudāttatvaṃ | dadhīta | sīyuṭaḥ sakāralope saty abhyastānām ādir ity ādyudāttatvaṃ | pādāditvān nighātābhāvaḥ | ācake | kai gai rai śabde | ādeca ity ātvaṃ | liṭi dvirvacane 'bhyāsasya hrasvacutve | āto lopa iṭi cety ākāralopaḥ | pratyayasvaraḥ | yadvṛttayogād anighātaḥ ||*
+
+**Translation:** "O son of strength [*sahasas putra*], great protector of strength, Brahmaṇaspati. '*Putra*: he protects much, or he protects from the hell *pura*', says the Nirukta (Ni. 2-11 [?]). *Martyaḥ*, the man, *hite*, when wealth has been thrown among the enemies [= abandoned by them] becomes the occasion, *tvām it*, on you alone *upabrūte*, he calls: having come close, he praises; the sense is: he prays for the winning of that wealth. O Maruts, the man who, wanting wealth, *ācake*, praises you, who are with Brahmaṇaspati — may that man *dadhīta*, hold, obtain, wealth that has good horses (*svaśvya*) and good heroism (*suvīrya*). *Sahasas putra*: as [in] *brahmaṇaspate*; by *patiputra…* the visarga becomes *s*. *Upabrūte*: the prohibition of *nighāta* by *hi ca*; the preverb is unaccented by *tiṅaś codāttavati*. *Hite*: in the participle, the substitute *hi* for *dhā*. *Suvīryam*: a bahuvrīhi, 'of which the heroism is good'; the first syllable of the latter member is acute by *vīravīryau ca*. *Svaśvyam*: 'a collection of horses' is *aśvīya*; by *keśāśvābhyāṃ yañchāv anyatarasyām* [Pā. 4-2-48 [?]] the suffix *cha* in the sense of collection; *īya* for *cha*; '*svaśvya*, that which has fine horses'; the loss of *ī* is Vedic; the first syllable of the latter member is acute by *parādiś chandasi bahulam*. *Dadhīta*: when the *s* of *sīyuṭ* is lost, the first syllable is acute by *abhyastānām ādiḥ*; no *nighāta* because it begins a *pāda*. *Ācake*: root *kai gai rai śabde*; *ā* by *ādeca…*; in *liṭ*, doubling, shortening and palatalization of the reduplicate; loss of the *ā* by *āto lopa iṭi ca*; accent of the suffix; no *nighāta* because of the connection with *yat*."
+
+**Pratipadārtha** *(p. 383)* — "**sahasaspatra** — O Brahmaṇaspati, protector of strength; **martyaḥ** — man; **hite** — thrown aside (by the enemy); **dhane** — for the sake of wealth; **tvām it** — you alone; **upabrūte** — comes close and praises; **marutaḥ** — O Maruts; **yaḥ** — which man, desiring wealth; **vaḥ** — you (together with Brahmaṇaspati); **ā cake** — praises; **svaśvyam** — with excellent horses; **suvīryam** — with excellent heroism; **itarat** [print: *itarakka*] **dhanam** — other wealth; **dadhīta** — may he obtain."
+
+**Bhāvārtha** *(p. 383)* — "O Brahmaṇaspati, you are the protector of strength, that is, you are exceedingly mighty. With the help of your strength, a man approaches you with his praises for the sake of wealth lying among enemies. O Maruts, since you are together with Brahmaṇaspati, the man who, desiring wealth, praises you will obtain excellent horses, excellent heroism and wealth."
+
+**English Translation (the source's own, p. 383)** — "O Son of strength, ( Brahmanaspati ) the mortal worships you with praises for the sake of wealth abandoned by the enemy ; Maruts, may he who praises you obtain (wealth consisting of) excellent horses and great strength."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 383–384**
+- **sahasas putra** — "*sahas* means strength or power. *Putra* son. Although this word is specially established as used of Agni, here it is used of Indra and, in this ṛk, of Brahmaṇaspati. The commentator takes the word *putra* in this ṛk as 'protector', following Yāska's explanation '*putraḥ puru trāyate niparaṇād vā*' (Ni. 2-11); '*balasya putra*' means 'giver of strength'."
+- **upa brūte** = *samīpaṃ prāpya stauti* — "comes to your presence and praises."
+- **hite** — "a word formed from the root *dhā*. Its sense is: in a battle, when enemies flee and run away, the wealth they abandon — horses, chariots and the like, and goods such as money —"
+- **svaśvyam** = *śobhanāśvayuktatvam* — "the gain of excellent horses."
+- **ā dadhīta** = *dhārayet* — "will obtain without doubt" (*niḥsaṃśayaṃ prāpnuyāt*) — "may he obtain, in full."
+- **yo va ā cake** — "one who desires to praise you: that is, one who praises you."
+
+**Vyākaraṇa-prakriyā** *(pp. 384–386 — grammar pages, noted briefly)*
+- **sahasaspatra**: root *saha marṣaṇe*; the Uṇādi *asun*, of the *oṇādika* kind; "*puru trāyate*, so *putra*": the root *trai pālane*; *ato 'nupasarge kaḥ* [Pā. 3-2-3 as read [?]] *ka* and the loss of the *ā*; the *s* for the visarga and the wholly-unaccented as in *brahmaṇaspate*.
+- **upabrūte**: *brūñ vyaktāyāṃ vāci*, *adādi*, *ubhayapadī*; the *ātmanepada* ending here; *śap* elided; by *hi ca* the verb is not wholly unaccented, since it is joined with *hi*; the ending *te* is acute by the suffix accent. *Tiṅ codāttavati* — तिङ् चोदात्तवति — [Pā. 8-1-71 as read [?]]: when a verb with an acute follows, a *gati* is unaccented; hence *upa* is unaccented. The print says that *nipātā ādyudāttāḥ* does not apply here, since *tiṅ codāttavati* is an exception to it, and discusses at length why the word *tiṅ* is needed in that sūtra (with the example *ā mandrair indra haribhir yāhi*, where *mandra*, ending in *rak*, is acute), the definition of *gati* by *prādayas tatpratyeva gatyupasargasaṃjñāḥ*… and the Kaumudī's remark *tiṅgrahaṇam udāttavataḥ parimāṇārtham*. *(Drift only; the passage is crowded.)*
+- **hite**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *niṣṭhā*: *kta*; *dadhāter hiḥ* — दधातेर्हिः — [Pā. 7-4-42 as read [?]]: *hi* for *dhā* before a *kit* suffix beginning with *t*.
+- **suvīryam**: bahuvrīhi; *vīravīryau ca* — वीरवीर्यौ च — [Pā. 6-2-120 as read [?]]: in the Veda, in a bahuvrīhi, *vīra* and *vīrya* are first-syllable acute, even after *su*; the word *vīra* is from *vīra vikrāntau* with *ac*; *vīrya* by *yat* [*acoyat*] or *tatra sādhuḥ*.
+- **svaśvyam**: "*aśvānāṃ samūhaḥ*": *keśāśvābhyāṃ yañchāv anyatarasyām* — केशाश्वाभ्यां यञ्छावन्यतरस्याम् — [Pā. 4-2-48 as read [?]]: after *keśa* and *aśva*, in the sense of collection, *yañ* and *cha* respectively; *cha*; *āyaneyīnīyiyaḥ phaḍhakhachaghām* [Pā. 7-1-2] gives *īya*; "*śobhanam aśvīyaṃ yasya tat*", a bahuvrīhi; the loss of *ī* by Vedic usage; *parādiś chandasi bahulam* [Pā. 6-2-199 as read [?]] the first syllable of the latter member is acute.
+- **dadhīta**: root *ḍudhāñ*; *liṅ*, *ātmanepada*; *liṅaḥ sīyuṭ* [Pā. 3-4-102]; *liṅaḥ salopo 'nantyasya* [Pā. 7-2-79 as read [?]] loss of the *s*; *suṭ tithoḥ* [Pā. 3-4-107 as read [?]] — the print notes that the *s* of *suṭ* is also lost as before; *śnābhyastayor ātaḥ* — the *ā* → *ī*… [as read]; *yalopa*; *abhyastānām ādiḥ* — first-syllable acute; but the *apādādau* prohibition applies; so there is no wholly-unaccented form.
+- **ācake**: root *kai gai rai śabde*, first class [read as the 5th root]; *ādeca upadeśe 'śiti* — *ā* for *ai*; *vyatyayo bahulam* gives the *ātmanepada* in place of the *parasmaipada*; *liṭ*, *ta*; *eś*; doubling *kā + kā + e*; shortening of the reduplicate; *kuhoś cuḥ* — कुहोश्चुः — [Pā. 7-4-62 as read] *c* for *k*: *cakā + e*; *āto lopa iṭi ca* — आतो लोप इटि च — [Pā. 6-4-64 as read] loss of the *ā* before a *kit* or *ñit* *ārdhadhātuka* beginning with a vowel, or *iṭ*; the accent of the suffix; because of the connection with *yat* in *yo va ā cake*, *yadvṛttān nityam* prohibits wholly-unaccented. *Pūjitāt* [print: *nāt pūjitāt*, as read] — the print adds a remark on the use of *pūjita* in another sūtra (*atra prakaraṇe pañcamīnirdeśe 'pi nānantaryam iṣyate*) [as read, crowded [?]]; and says that, though *va* intervenes, *yadvṛttān nityam* applies. Rik 2 ends here (*|| 2 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–39 COMPLETE; Sūkta 40 in progress: printed p. 381 (PDF 395) reached; introduction (p. 376), heading (p. 377) and Rik 40.1 complete; Rik 40.2's Saṃhitā written at the foot of p. 381 (its Pada follows on p. 382).**
+### Rik 40.3 (pp. 386–389, PDF 400–403)
 
-**Next task:** continue at printed p. 382 (PDF 396) with the Pada and bhāṣya of Rik 40.2, then Riks 3–8 and the close of Sūkta 40 (to about p. 409; Sūkta 41 *yaṃ rakṣanti* begins about p. 410, check), then STOP at the end of Sūkta 40 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 396 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 386; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40 so far: (1) varga numerals and metre line of the heading small, read with doubt; (2) intro: every Āśvalāyana and Ṛgveda reference numeral is "as read [?]"; (3) Rik 1's Special Topics: the Nirukta definition of Brahmaṇaspati is clear, but the Ṛgveda quotation *aśmāsyam avataṃ…* (reference "2-24-4" as read [?]) and the Nirukta paraphrase beginning *aśanavantam…* are crowded and my glosses are tentative; (4) Rik 1's grammar: the *kyac* / *na chandasy aputrasya* / *aśvāghasyāt* argument (pp. 380–381) is characterized only; every Pāṇini number is "as read [?]"; (5) in the bhāṣya's grammatical tail the clause on *brahmaṇaspate* ("*subāmantrita*…", *āptamikam*) is crowded [?].
+> **प्रैतु ब्रह्मणस्पतिः प्र देव्येतु सूनृता ।**
+> **अच्छा वीरं नर्यं पङ्क्तिराधसं देवा यज्ञं नयन्तु नः ॥ ३ ॥**
+
+*praitu brahmaṇaspatiḥ pra devy etu sūnṛtā |*
+*acchā vīraṃ naryaṃ paṅktirādhasaṃ devā yajñaṃ nayantu naḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 386)*
+
+> प्र । एतु । ब्रह्मणः । पतिः । प्र । देवी । एतु । सूनृता ।
+> अच्छ । वीरम् । नर्यम् । पङ्क्तिऽराधसम् । देवाः । यज्ञम् ।
+> नयन्तु । नः ॥ ३ ॥
+
+*pra | etu | brahmaṇaḥ | patiḥ | pra | devī | etu | sūnṛtā |*
+*accha | vīram | naryam | paṅkti-rādhasam | devāḥ | yajñam |*
+*nayantu | naḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 386)*
+
+> **चतुर्विंशेऽहनि मरुत्वतीये उत्तिष्ठ ब्रह्मणस्पत इत्यस्मात्प्रगाथात्पूर्वं प्रैतु ब्रह्मणस्पतिरित्ययं प्रगाथो विनियुक्तः । सूत्रं तूत्तिष्ठ ब्रह्मणस्पत इत्यत्रैव [?] उदाहृतं ॥ महावीरमादाय शालां प्रतिगच्छंत्सु प्रैतु ब्रह्मणस्पतिरित्येतां पठन् होतानुगच्छेत् । सूत्रं च । प्रैतु ब्रह्मणस्पतिरित्यन्वुव्रजेत् । आ. ४-२ [?] । इति ॥ एष्वेवाग्नीषोमीयप्रणयनेऽपि नियुक्ता । सूत्रितं च । प्रैतु ब्रह्मणस्पतिर्होता देवो अमर्त्यः । आ. ४-१० [?] । इति ॥**
+
+*caturviṃśe 'hani marutvatīye uttiṣṭha brahmaṇaspata ity asmāt pragāthāt pūrvaṃ praitu brahmaṇaspatir ity ayaṃ pragātho viniyuktaḥ | sūtraṃ tūttiṣṭha brahmaṇaspata ity atraiva [?] udāhṛtaṃ || mahāvīram ādāya śālāṃ pratigacchantsu praitu brahmaṇaspatir ity etāṃ paṭhan hotānugacchet | sūtraṃ ca | praitu brahmaṇaspatir ity anvuvrajet | ā. 4-2 [?] | iti || eṣv evāgnīṣomīyapraṇayane 'pi niyuktā | sūtritaṃ ca | praitu brahmaṇaspatir hotā devo amartyaḥ | ā. 4-10 [?] | iti ||*
+
+**Translation:** "On the twenty-fourth day, in the *Marutvatīya*, this *pragātha* '*praitu brahmaṇaspatiḥ*' is applied before the *pragātha* beginning '*uttiṣṭha brahmaṇaspate*'; the sūtra is quoted just there [?]. When [the priests] are going back to the sacrificial hall with the *Mahāvīra* [pot], the *hotṛ*, reciting this ṛk '*praitu brahmaṇaspatiḥ*', follows; and the sūtra: '*praitu brahmaṇaspatir ity anvuvrajet*' (Āś. 4-2 [?]). It is also applied in the *Agnīṣomīya praṇayana* [the leading forward of the Agni-Soma victim]; it is laid down: '*praitu brahmaṇaspatir hotā devo amartyaḥ*' (Āś. 4-10 [?])."
+
+> **ब्रह्मणस्पतिर्देवः प्रैतु । अस्मान्प्राप्नोतु । सूनृता देवी प्रियसत्यरूपा वाग्देवता प्रैतु । अस्मान्प्राप्नोतु । देवा ब्रह्मणस्पत्यादयो देवताः वीरं शत्रुं निःशेषेण दूरे प्रेरयन्तु । तं नर्यं मनुष्येभ्यो हितं पङ्क्तिराधसं ब्राह्मणोक्तहविष्पङ्क्त्यादिभिः समृद्धं यज्ञं प्रति नोऽस्मान् अच्छाभिमुख्येन नयन्तु ॥ प्रैतु । एजि पररूपं । पा. ६-१-९४ । इति पररूपे प्राप्ते एत्येधत्यूठ्सु । पा. ६-१-८९ । इति वृद्धिः । देव्यैत्वित्यादि [?] उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्येति स्वरितत्वं । नर्यं । नरेभ्यो हितं । प्राक्क्रीतीये उगवादिलक्षणो यत्प्रत्ययो द्रष्टव्यः । पा. ५-१-२ । पङ्क्तिराधसं । पङ्क्तिभी राध्नोतीति पङ्क्तिराधाः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च । उ. ४-२२६ [?] । इत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । यज्ञं । यजयाचेत्यादिना यजतेर्नङ् ॥**
+
+*brahmaṇaspatir devaḥ praitu | asmān prāpnotu | sūnṛtā devī priyasatyarūpā vāgdevatā praitu | asmān prāpnotu | devā brahmaṇaspatyādayo devatāḥ vīraṃ śatruṃ niḥśeṣeṇa dūre prerayantu | taṃ naryaṃ manuṣyebhyo hitaṃ paṅktirādhasaṃ brāhmaṇoktahaviṣpaṅktyādibhiḥ samṛddhaṃ yajñaṃ prati no 'smān acchābhimukhyena nayantu || praitu | eji pararūpaṃ | pā. 6-1-94 | iti pararūpe prāpte etyedhatyūṭhsu | pā. 6-1-89 | iti vṛddhiḥ | devyaitv ity ādi [?] udāttasvaritayor yaṇaḥ svarito 'nudāttasyeti svaritatvaṃ | naryaṃ | narebhyo hitaṃ | prākkrītīye ugavādilakṣaṇo yatpratyayo draṣṭavyaḥ | pā. 5-1-2 | paṅktirādhasaṃ | paṅktibhī rādhnotīti paṅktirādhāḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca | u. 4-226 [?] | ity asun pūrvapadaprakṛtisvaratvaṃ ca | yajñaṃ | yajayācety ādinā yajater naṅ ||*
+
+*(The word "atraiva" in the first clause is doubtful [?]; the few letters before* udāttasvaritayor yaṇaḥ… *in the grammatical tail (printed after* devy… *) are crowded and are given as* ādi [?]*.)*
+
+**Translation:** "*Brahmaṇaspatir devaḥ praitu* — let the god Brahmaṇaspati come forward: let him come to us. *Sūnṛtā devī* — the goddess in the form of pleasant truth, the deity of speech — *praitu*, let her come: let her reach us. *Devāḥ* — the deities, Brahmaṇaspati and the others — *vīram* — the enemy — drive away completely, far off. *Naryam* — beneficial to men — *paṅktirādhasam* — rich in the rows of oblations and so on spoken of in the Brāhmaṇas — *yajñam prati*, towards the sacrifice, *naḥ*, us, *acchā*, facing it, *nayantu*, let them lead. *Praitu*: *eji pararūpam* [Pā. 6-1-94] would give *pararūpa*; but by *etyedhatyūṭhsu* [Pā. 6-1-89] *vṛddhi*. *Devy etu*: the *svarita* by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*. *Naryam*: 'beneficial to men'; the suffix *yat* by the *ugavādi* rule in the *prākkrītīya* section [Pā. 5-1-2]. *Paṅktirādhasam*: '*paṅktibhī rādhnoti*', he succeeds by the rows; accent of the first member also with a *gati* or *kāraka*; the Uṇādi *asun* [Uṇ. 4-226 [?]]; the accent of the first member. *Yajñam*: *naṅ* after *yaj* by *yajayācetyādinā*."
+
+**Pratipadārtha** *(p. 387)* — "**brahmaṇaspatiḥ** — Brahmaṇaspati, the god; **praitu** — let him come to us; **sūnṛtā** — [she who is] pleasant and in the form of truth; **devī** — the goddess of speech; **praitu** — let her come to us; **devāḥ** — the deities such as Brahmaṇaspati; **vīram** — [the] strong enemy; (let them drive [him] far away); **naryam** — [the sacrifice] that does good to men; **paṅktirādhasam** — full of rows of oblations (as spoken in the Brāhmaṇas); **yajñam acchā** — facing the sacrifice; **naḥ** — us; **nayantu** — let them lead."
+
+**Bhāvārtha** *(p. 387)* — "May the god Brahmaṇaspati, the goddess of speech who is dear and in the form of truth, and the other deities, by their grace drive far away the enemy, who is strong and the destroyer of the sacrifice. May they lead us safely towards the sacrifice that does good to us and that is filled with rows of oblations as spoken in the Brāhmaṇas."
+
+**English Translation (the source's own, p. 387)** — "May Brahmanaspathi approach us ; may the goddess of speech who always speaks the truth come to us ; may the Gods drive away every enemy and conduct us to the sacrifice which is benifical [sic] to man and which is well supplied with five fold oblations."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 387–388**
+- **Application** — "On the twenty-fourth day of the sacrifice, in the *Marutvatīya śastra*-mantra recitation in the *Saṃvarta* [?], the application is stated here itself (in the introduction of this sūkta) that the ṛks *uttiṣṭha brahmaṇaspate* and *praitu brahmaṇaspatiḥ*, which are in the *Prāgātha* (Bṛhatī) metre, are to be recited. In the sacrifice called *Pravargya*, when the *Hotṛ* takes the *Mahāvīra* — the large clay vessel (pot) used in the sacrifice — and goes to the sacrificial hall, he should recite this ṛk *praitu brahmaṇaspatiḥ* and follow: this is explained in the Āśvalāyana Śrauta-sūtra (Āś. 4-2) by the sūtra '*praitu brahmaṇaspatir ity anuvrajet*'. In the leading forward of the Agni-Soma [victim] too this ṛk has application, as set forth by the sūtra of the Āśvalāyana Śrauta-sūtra (Āś. 4-10) '*praitu brahmaṇaspatir hotā devo amartyaḥ*'."
+- **sūnṛtā** — "although the word *sūnṛtā* means the goddess Uṣas (Ni. 2-[?]) and also 'food' (Ni. 2-[?]), since in this ṛk it is an attribute of *devī*, the commentator has explained it as 'the goddess of speech, in the form of pleasant truth'."
+- **vīram** — "the commentator has given for this word 'enemy': a powerful enemy."
+- **naryam** = *narebhyo hitam* — "[the sacrifice] that does good to men."
+- **paṅktirādhasam** = *brāhmaṇoktahaviṣpaṅktyādibhiḥ samṛddham* — "In the Brāhmaṇas, such as the Aitareya, the word *paṅkti* is used in the sense 'five', as related to oblations of many kinds. *Rādhas* means wealth. One may say 'having five kinds of wealth' or 'having wealth in the form of rows of oblations'. The word *paṅktirādhasam* is not read anywhere else in the Ṛgveda but in this ṛk; therefore it is hard to give the exact sense of this word."
+
+**Vyākaraṇa-prakriyā** *(pp. 388–389 — grammar pages, noted briefly)*
+- **praitu**: root *iṇ gatau*, *loṭ*, third-person singular, *etu*; when *pra + etu* the *eji pararūpam*… [print: *eñi pararūpam*] — एङि पररूपम् — [Pā. 6-1-94 as read]: before an *eṅ*-initial root after a prefix ending in *a*, the *pararūpa*; this is barred by *etyedhatyūṭhsu* — एत्येधत्यूठ्सु — [Pā. 6-1-89 as read]: when *eti*, *edhati* or *ūṭh* follows, *vṛddhi* for the preceding and following vowels: *a* + *e* = *ai*.
+- **devy etu**: *devī + etu*; *iko yaṇaci* — [Pā. 6-1-77] gives *y*; the word *devī* is final-acute; *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* — उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य — [Pā. 8-2-4 as read]: in the Saṃhitā the unaccented vowel after a *yaṇ* standing for an acute or *svarita* becomes *svarita*; so the following syllable is *svarita*.
+- **naryam**: "*narebhyo hitam*": *ugavādibhyo yat* — उगवादिभ्यो यत् — [Pā. 5-1-2 as read]: after words ending in *u* and the *gavādi* group, *yat* in the senses prescribed up to *tena krītam*; the print explains that this sūtra has no sense indicated and is related to the following sūtras with their sense-indications; so also in *tasmai hitam* [Pā. 5-1-5], *ugavādibhyo yat* is carried over: after a base ending in *u* or in the *gavādi* group, *yat* in the sense *hita* with the fourth case; *nara + ya*; *yasyeti ca* the loss of the *a*.
+- **paṅktirādhasam**: "*paṅktiviṃśati…*" — पङ्क्तिविंशतित्रिंशच्चत्वारिंशत्पञ्चाशत्षष्टिसप्तत्यशीतिनवतिशतम् — [Pā. 5-1-59 as read [?]]: the word *paṅkti* is given as a *nipāta* ending in *ti*; *pañcan + ti*; loss of *ṭi*; *pañc + ti*; *coḥ kuḥ*: *k*; *anusvāra* and *parasavarṇa*: *paṅkti*; the analysis "*pañcaparimāṇasya paṅktiḥ*"; this analysis serves only to give the etymology, since the word is a *rūḍhi* word and is used in many senses — number four, ten, metre and the like are denoted by it. "*Paṅktibhī rādhnoti*": a *kāraka* [instrumental] as *upapada*: *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca* — [Uṇ. 4-226 as read [?]]: when a *gati* or *kāraka* is the *upapada*, after the root *asi* [*asun*] and the accent of the first member; the root *rādha saṃsiddhau*, then *asi*, and the accent of the first member.
+- **yajñam**: *yaja devapūjādau*; *yajayācayatavichaprachrakṣo naṅ* — यजयाचयतविच्छप्रच्छरक्षो नङ् — [Pā. 3-3-90 as read]: *naṅ* after these roots; *yaj + na*; *stoḥ ścunā ścuḥ* and *yaño nāk kuḥ* [as read, crowded]: the *n* becomes the fifth of the *c*-class; *jajñayoḥ yogād*… *jñaḥ*: *yajña*. Rik 3 ends here (*|| 3 ||*).
+
+---
+
+### Rik 40.4 (p. 389 foot, PDF 403–)
+
+**Saṃhitā-pāṭha** *(p. 389; accents not reproduced)*
+
+> **यो वाघते ददाति सूनरं वसु स धत्ते अक्षिति श्रवः ।**
+> **तस्मा इळां सुवीरामा यजामहे सुप्रतूर्तिमनेहसम् ॥ ४ ॥**
+
+*yo vāghate dadāti sūnaraṃ vasu sa dhatte akṣiti śravaḥ |*
+*tasmā iḷāṃ suvīrām ā yajāmahe supratūrtim anehasam || 4 ||*
+
+*(The Pada, the bhāṣya and the rest of Rik 4 begin on p. 390 and are not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–39 COMPLETE; Sūkta 40 in progress: printed p. 389 (PDF 403) reached; Riks 40.1–40.3 complete; Rik 40.4's Saṃhitā written at the foot of p. 389 (its Pada follows on p. 390).**
+
+**Next task:** continue at printed p. 390 (PDF 404) with the Pada and bhāṣya of Rik 40.4, then Riks 5–8 and the close of Sūkta 40 (to about p. 409; Sūkta 41 *yaṃ rakṣanti* begins about p. 410, check), then STOP at the end of Sūkta 40 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 404 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40 so far: (1) varga numerals and metre line of the heading small, read with doubt; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini and Uṇādi reference numeral is "as read [?]"; (3) Rik 1's Special Topics: the Ṛgveda quotation *aśmāsyam avataṃ…* and the Nirukta paraphrase *aśanavantam…* are crowded and my glosses are tentative; (4) Rik 1's grammar: the *kyac* / *na chandasy aputrasya* / *aśvāghasyāt* argument (pp. 380–381) characterized only; (5) Rik 2: in the print the Pratipadārtha has *itarakka dhanam* where the bhāṣya has only "wealth with good horses and heroism"; the grammar of *upabrūte* (the *tiṅ codāttavati* / *nipātā ādyudāttāḥ* argument, p. 384) is characterized only; the remark on *pūjita* at the top of p. 386 is crowded [?]; (6) Rik 3: the word *atraiva* in the bhāṣya's first clause and the letters before *udāttasvaritayor yaṇaḥ* in the grammatical tail are doubtful [?]; the source's English prints "benifical" [sic] and "Brahmanaspathi"; the word *saṃvarta* in the Special Topics ("*saṃvarbhadalli*") is read doubtfully [?]; (7) in the working file for Rik 2 a first draft of the bhāṣya contained a slip; it was removed before appending and only the print-based Sanskrit was appended.
