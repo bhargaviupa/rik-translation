@@ -5056,10 +5056,115 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Rik 38.9, continued** *(from p. 317; the Saṃhitā and Pada are above)*
+
+**Sāyaṇa-bhāṣya** *(p. 317)*
+
+> **ते मरुत उदवाहेनोदकधारिणा पर्जन्येन मेघेन सूर्यमाच्छाद्य दिवा चिदहन्यपि तमः कृण्वन्ति । अन्धकारं कुर्वन्ति यद्यदा पृथिवीं भूमिं व्युन्दन्ति । विशेषेण क्लेदयन्ति । तदानीमतिवृष्टिकाले तमः कुर्वन्तीति पूर्वत्रान्वयः ॥ उदवाहेन । उदकानि वहतीत्युदवाहः । कर्मण्यण् । मेघविशेषस्येयं सञ्ज्ञा । उदकस्योदः सञ्ज्ञायां । पा. ६-३-५७ [?] । इत्युदकशब्दस्योदभावः । कृदुत्तरपदप्रकृतिस्वरत्वं । व्युन्दन्ति । उन्दी क्लेदने । रुधादित्वात् श्नम् । श्नान्नलोपः । पा. ६-४-२३ [?] । इति नलोपः । यद्वृत्तयोगादनिघातः ॥**
+
+*te maruta udavāhenodakadhāriṇā parjanyena meghena sūryam ācchādya divā cid ahany api tamaḥ kṛṇvanti | andhakāraṃ kurvanti yad yadā pṛthivīṃ bhūmiṃ vyundanti | viśeṣeṇa kledayanti | tadānīm ativṛṣṭikāle tamaḥ kurvantīti pūrvatrānvayaḥ || udavāhena | udakāni vahatīty udavāhaḥ | karmaṇy aṇ | meghaviśeṣasyeyaṃ sañjñā | udakasyodaḥ sañjñāyāṃ | pā. 6-3-57 [?] | ity udakaśabdasyodabhāvaḥ | kṛduttarapadaprakṛtisvaratvaṃ | vyundanti | undī kledane | rudhāditvāt śnam | śnān nalopaḥ | pā. 6-4-23 [?] | iti nalopaḥ | yadvṛttayogād anighātaḥ ||*
+
+**Translation:** "Those Maruts, with the *udavāha* — the water-bearing *parjanya*, the cloud — covering the sun, *divā cit*, even by day, *tamaḥ kṛṇvanti*, make darkness, make gloom, *yad*, when they *pṛthivīm vyundanti*, drench the earth, specially wet it. The sense is to be connected with what precedes: at that time, in the time of excessive rain, they make darkness. *Udavāhena*: '*udakāni vahati*', that which carries waters; the suffix *aṇ* with an object [as *upapada*]; this is the name of a particular cloud; by *udakasyodaḥ saṃjñāyām* [Pā. 6-3-57 [?]] *uda* for the word *udaka*; the accent of the first member of a compound ending in a *kṛt*. *Vyundanti*: root *undī kledane*; *śnam* because of the *rudhādi* class; by *śnān nalopaḥ* [Pā. 6-4-23 [?]] the *n* is lost; no *nighāta* because of the connection with *yat*."
+
+**Pratipadārtha** *(p. 317)* — "(**marutaḥ** — the Maruts) **yat** — when; **pṛthivīm** — the earth; **vyundanti** — they drench, so that it is filled as if with rushing water (when, before that); **udavāhena** — bearing water; **parjanyena** — with the cloud; **divā cit** — even by day; **tamaḥ kṛṇvanti** — they make darkness."
+
+**Bhāvārtha** *(p. 317)* — "Before the Maruts drench the earth with a flood of rain, they make darkness even by day with the cloud that bears water."
+
+**English Translation (the source's own, p. 317)** — "Even in the day they create darkness with the water-bearing cloud when they drench the earth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 317** — "When black clouds fill the atmosphere, the darkness [is there] even in the daytime. At such a time the Maruts make the rain pour and make the earth wet with water: such is the main intention."
+
+**Vyākaraṇa-prakriyā** *(pp. 317–319 — grammar pages, characterized)*
+- **kṛṇvanti**: "explained in the earlier mantra [Rik 7]."
+- **udavāhena**: root *vaha prāpaṇe*; "*udakāni vahati*, so *udavāhaḥ*": *karmaṇy aṇ* — कर्मण्यण् — [Pā. 3-2-1 as read [?]]: when a word in the case of the object is *upapada*, the suffix *aṇ* comes after the root. The print adds that the analysing sentence is of two kinds, *laukika* and *alaukika*: the *laukika* is what everyone uses in the world; the *alaukika* is the one used only by grammarians, separating base and suffix for the purposes of the śāstra. In the *laukika* sentence one says *udakāni vahati*; in the *alaukika* one has *udaka + as + vah + aṇ*, where the genitive-case ending, not the accusative, is what is wanted, because a word ending in a *kṛt* is not used in the *laukika* sentence; by *kartṛkarmaṇoḥ kṛti* — कर्तृकर्मणोः कृति — [Pā. 2-3-65 as read [?]] the sixth case-ending comes after the word that expresses the agent or the object of a *kṛt*-base; hence the sixth case after *udaka*. *Ata upadhāyāḥ* — अत उपधायाः — [Pā. 7-2-116 as read [?]]: *vṛddhi* of the short *a* of the penultimate before a *ñit*/*ṇit* suffix: *vah* → *vāh*; *udaka + as + vāha*. *Tatropapadaṃ saptamīstham* — तत्रोपपदं सप्तमीस्थम् — [Pā. 3-1-92 as read [?]]: the word in the locative-sense in the *dhātvadhikāra* is the *upapada*; *upapadam atiṅ* — उपपदमतिङ् — [Pā. 2-2-19 as read [?]] compound with a word that is not a verb: a *tatpuruṣa*; *supo dhātuprātipadikayoḥ* — सुपो धातुप्रातिपदिकयोः — [Pā. 2-4-71] the loss of *as*: *udakavāha*; *udakasyodaḥ saṃjñāyām* — उदकस्योदः सञ्ज्ञायाम् — [Pā. 6-3-57 as read [?]]: in a name the *udaka* of the first member becomes *uda* (here a name for a cloud). The final syllable of *vāha*, a *kṛt*, is acute by the suffix; after the compound *gatikārakopapadāt kṛt* — गतिकारकोपपदात्कृत् — [Pā. 6-2-139 as read [?]] gives the accent of the first member to the whole, so by *kṛduttarapadaprakṛtisvara* the same accent remains.
+- **vyundanti**: the prefix *vi*; root *undī kledane*, *rudhādi*; *laṭ*, *jhi*, the substitute *ant*; *rudhādibhyaḥ śnam* — रुधादिभ्यः श्नम् — [Pā. 3-1-78 as read [?]] *śnam* after the last vowel of the root: *vi + und + śna + anti*; *śnān nalopaḥ* — श्नान्नलोपः — [Pā. 6-4-23 as read [?]] the *n* of *śnam* is lost; *śnasor allopaḥ* — श्नसोरल्लोपः — [Pā. 6-4-111 as read] the *a* of *śna* is lost before a *kit*/*ṅit* *sārvadhātuka*; *vi* → *vy* by *yaṇ*: *vyundanti*. As *yat pṛthivīm* gives the connection with *yat*, *yadvṛttān nityam* — यद्वृत्तान्नित्यम् — prohibits the verb's being wholly unaccented. Rik 9 ends here (*|| 9 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–37 COMPLETE; Sūkta 38 in progress: printed p. 316 (PDF 330) reached; Riks 38.1–38.8 complete; Rik 38.9's Saṃhitā and Pada written (its bhāṣya begins on p. 317).**
+### Rik 38.10 (pp. 319–321, PDF 333–335)
 
-**Next task:** continue at printed p. 317 (PDF 331) with the bhāṣya of Rik 38.9, then Riks 10–15 and the close of Sūkta 38 (to about p. 338), then STOP at the end of Sūkta 38 unless told otherwise; Sūkta 39 (*pra yad itthā*) begins about p. 339 (check). Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–352); re-render if lost: `pdftoppm -jpeg -r 150 -f 331 -l 352 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 319; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38 so far: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1's bhāṣya: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in both Saṃhitā and Pada (possibly a mis-set *ṣu* or a pluti mark; unresolved); the bhāṣya spelling *tannādīnām* against the grammar page's *tanvādīnām*; (5) Rik 2: a misprinted heading *bhāvārtha* over the Pada, and *tabādeśaḥ* in the bhāṣya against *tap* on the grammar page; (6) every Pāṇini / Kāśikā / Uṇādi / Taittirīya / Nirukta / Ṛgveda number is "as read [?]"; (7) the long grammar entries of Rik 4 (*pṛśnimātaraḥ*), Rik 6 (*vadhīt*, *padīṣṭa*) and Rik 7 (*kṛṇvanti*) are characterized in outline from very crowded print and may contain slips; the *Kaumudī* quotation on p. 308 and the *pakṣīṣṭa* remark on p. 310 are not reproduced or understood; (8) Rik 5: the root *jṝṣ* is printed with a doubtful vowel; (9) Rik 6's English prints "him" for Nirṛti; (10) Rik 7: the clause on the substitution at the *va* of *kṛṇvanti* is doubtful, and the two Ṛgveda quotations in the Special Topics are glossed by me, tentatively, with reference numerals as read [?]; (11) Rik 8: the Pada's *sisakti* (s or ṣ?) is unsettled, and *prastuta°*/*prasnuta°* in the bhāṣya is my reading.
+> **अध स्वनान्मरुतां विश्वमा सद्म पार्थिवम् ।**
+> **अरेजन्त प्र मानुषाः ॥ १० ॥**
+
+*adha svanān marutāṃ viśvam ā sadma pārthivam |*
+*arejanta pra mānuṣāḥ || 10 ||*
+
+**Pada-pāṭha** *(p. 319)*
+
+> अध । स्वनात् । मरुताम् । विश्वम् । आ । सद्म । पार्थिवम् ।
+> अरेजन्त । प्र । मानुषाः ॥ १० ॥
+
+*adha | svanāt | marutām | viśvam | ā | sadma | pārthivam |*
+*arejanta | pra | mānuṣāḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 319–320)*
+
+> **मरुतां सम्बन्धिनः स्वनादध ध्वनेर्गर्जनरूपादनन्तरं पार्थिवं पृथिवीसम्बन्धि विश्वं सद्म सर्वं गृहमा समन्तादरेजतेति शेषः । तथा मानुषा गृहवर्तिनो मनुष्या अपि प्रारेजन्त । प्रकर्षेण कम्पितवन्तः ॥ अध । छान्दसं ध्त्वं । सद्म । षद्लृ विशरणगत्यवसादनेषु । अन्येभ्योऽपि दृश्यन्ते इति मनिन् । पार्थिवं । पृथिव्याः सम्बन्धि । पृथिव्या ञाञौ । पा. ४-१-८४ [?] । इति प्राग्दीव्यतीयोऽञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वं । अरेजन्त । रेजृ कम्पने ॥**
+
+*marutāṃ sambandhinaḥ svanād adha dhvaner garjanarūpād anantaraṃ pārthivaṃ pṛthivīsambandhi viśvaṃ sadma sarvaṃ gṛham ā samantād arejateti śeṣaḥ | tathā mānuṣā gṛhavartino manuṣyā api prārejanta | prakarṣeṇa kampitavantaḥ || adha | chāndasaṃ dhtvaṃ | sadma | ṣadḷ viśaraṇagatyavasādaneṣu | anyebhyo 'pi dṛśyante iti manin | pārthivaṃ | pṛthivyāḥ sambandhi | pṛthivyā ñāñau | pā. 4-1-84 [?] | iti prāgdīvyatīyo 'ñpratyayaḥ | ñittvād ādyudāttatvaṃ | arejanta | rejṛ kampane ||*
+
+**Translation:** "*Adha* — then, after the *svanāt*, the sound [belonging to the Maruts], their sound in the form of thunder — *pārthivam*, belonging to the earth — *viśvam sadma*, every house — *ā*, all round, *arejata* ['shook': so the remainder is supplied]. Likewise *mānuṣāḥ*, men dwelling in houses, *prārejanta* — shook greatly. *Adha*: the *dha* [for *tha*] is Vedic. *Sadma*: root *ṣadḷ* in the senses of dissolving, going, sinking; *manin* by *anyebhyo 'pi dṛśyante*. *Pārthivam*: 'belonging to the earth'; the suffix *añ* of the *prāgdīvyatīya* group after *pṛthivī* by the vārttika *pṛthivyā ñāñau* [Pā. 4-1-84 [?]]; being *ñit* it is first-syllable acute. *Arejanta*: root *rejṛ kampane*."
+
+**Pratipadārtha** *(p. 320)* — "**marutām** — of the Maruts; **svanād adha** — immediately upon the sound in the form of thunder; **pārthivam** — belonging to the earth-world; **viśvaṃ sadma** — every house too; **ā** (**arejata**) — shook all round (even so); **mānuṣāḥ** — all the men (who dwell in the houses) too; **prārejanta** — trembled completely."
+
+**Bhāvārtha** *(p. 320)* — "Through the clouds, as soon as the Maruts' sound in the form of thunder comes, every house dwelling on the earth shakes. In the same way all the people who live in those houses tremble completely."
+
+**English Translation (the source's own, p. 320)** — "At the roaring of the Maruts, every house on the earth shakes and men also greatly tremble."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 320**
+- **svanāt** — "when rain falls with a sound, or with thunder, the wind blows violently, with sound, and terribly."
+- **arejanta** — "even houses shake, unable to bear the blow of the wind. People, drenched by the rain-water and struck by the blows of the wind, walk shivering with the cold: this is the sense. In the earlier ṛks, and in this ṛk, there is a description of the first monsoon rain [*muṅgāru maḷe*] that comes together with hail, lightning and black clouds."
+
+**Vyākaraṇa-prakriyā** *(pp. 320–321 — grammar page, noted briefly)*
+- **adha**: the *tha* of the word *atha* has become *dha* by Vedic usage.
+- **sadma**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *dhātvādeḥ ṣaḥ saḥ* the *s*; *anyebhyo 'pi dṛśyante* — अन्येभ्योऽपि दृश्यन्ते — [Pā. 3-2-75 as read [?]]: the four suffixes *manin*, *kvanip*, *vanip*, *vic* are seen after roots also [other than the ones taught]; so *manin*; the suffix being *nit*, the print says *pratyayānta ādyudātta* ("the end of the suffix: first-syllable acute") — as printed.
+- **pārthivam**: *prath prakhyāne*; *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् सम्प्रसारणं च — [Uṇ. 1-154 [?], as read]: the suffix *ṣivan* after *prath*, with *saṃprasāraṇa* of the *r*, giving *ṛ*: *pṛthiv-*; *ṣidgaurādibhyaś ca* — षिद्गौरादिभ्यश्च — [Pā. 4-1-41 as read [?]]: *ṅīṣ* after a root with indicatory *ṣ* and after the *gaurādi* group: *pṛthivī*; *pṛthivyā ñāñau* — the vārttika [Pā. 4-1-83, vārttika 2 [?], as read]: in the *prāgdīvyatīya* senses the suffixes *ñ* and *añ* come after the word *pṛthivī*; so *añ*: *pṛthivī + a*; *yasyeti ca* the loss of *ī*; *taddhiteṣv acām ādeḥ* — तद्धितेष्वचामादेः — [Pā. 7-2-117 as read [?]]: when a *ñit* or *ṇit* suffix follows, the first vowel of the base takes *vṛddhi*: *ṛ* → *ār*: *pārthiva*; the *taddhita* suffix is *ñit*; *ñnityādir nityam* — ञ्नित्यादिर्नित्यम् — [Pā. 6-1-197] gives the first-syllable acute; accusative singular.
+- **arejanta**: *rejṛ kampane*; *laṅ*, *jha*; *jho 'ntaḥ* the substitute *ant*; *śap*; the augment *aṭ*. Rik 10 ends here (*|| 10 ||*).
+
+---
+
+### Rik 38.11 (pp. 321–, PDF 335–)
+
+**Saṃhitā-pāṭha** *(p. 321; accents not reproduced)*
+
+> **मरुतो वीळुपाणिभिश्चित्रा रोधस्वतीरनु ।**
+> **यातेमखिद्रयामभिः ॥ ११ ॥**
+
+*maruto vīḷupāṇibhiś citrā rodhasvatīr anu |*
+*yātem akhidrayāmabhiḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 321)*
+
+> मरुतः । वीळुपाणिऽभिः । चित्राः । रोधस्वतीः । अनु ।
+> यात । ईम् । अखिद्रयामऽभिः ॥ ११ ॥
+
+*marutaḥ | vīḷupāṇi-bhiḥ | citrāḥ | rodhasvatīḥ | anu |*
+*yāta | īm | akhidrayāma-bhiḥ || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 322)*
+
+> **हे मरुतो यूयं वीळुपाणिभिर्दृढहस्तैः सहिताः सन्तो रोधस्वतीरनु कूलयुक्ता नदीरनुलक्ष्याखिद्रयामभिरखिन्नगमनैर्यातेम् । गच्छतैव ॥ मरुतः । आमन्त्रिताद्युदात्तत्वं । वीळुपाणिभिः । वीळ्विति बलनाम । वीळु ज्यौत्नमिति [?] तन्नामसु पाठात् । तेन च तद्वाल्लक्ष्यते [?] । वीळवश्च ते पाणयश्च । समासस्येत्यन्तोदात्तत्वं । रोधस्वतीः । रुधिर् आवरणे । रुणद्धि स्रोत इति रोधः कूलं । रोधः कूलं निरुणद्धि स्रोतः । नि. ६-१ [?] । इत्युक्तत्वात् । असुनो नित्त्वादाद्युदात्तत्वं । तद्युक्ता रोधस्वत्यः । मादुपधाया इति मतुपो वत्वं । उगितश्चेति ङीप् । मतुब्ङीपोः पित्त्वादनुदात्तत्वेऽसुनः स्वर एव शिष्यते । यात । या प्रापणे । अदादित्वाच्छपो लुक् । ईम् । चादयोऽनुदात्ता इत्यनुदात्तत्वं । गुण एकादेश उदात्तेनोदात्त इत्याद्युदात्तत्वं । अखिद्रयामभिः । खिद दैन्ये । स्पायितञ्चीत्यादिना रक् । खिद्रं यान्तीति खिद्रयामानः । न खिद्रयामानोऽखिद्रयामानः । त्रैः । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥**
+
+*he maruto yūyaṃ vīḷupāṇibhir dṛḍhahastaiḥ sahitāḥ santo rodhasvatīr anu kūlayuktā nadīr anulakṣyākhidrayāmabhir akhinnagamanair yātem | gacchataiva || marutaḥ | āmantritādyudāttatvaṃ | vīḷupāṇibhiḥ | vīḷv iti balanāma | vīḷu jyautnam iti [?] tannāmasu pāṭhāt | tena ca tadvāl lakṣyate [?] | vīḷavaś ca te pāṇayaś ca | samāsasyety antodāttatvaṃ | rodhasvatīḥ | rudhir āvaraṇe | ruṇaddhi srota iti rodhaḥ kūlaṃ | rodhaḥ kūlaṃ niruṇaddhi srotaḥ | ni. 6-1 [?] | ity uktatvāt | asuno nittvād ādyudāttatvaṃ | tadyuktā rodhasvatyaḥ | mād upadhāyā iti matupo vatvaṃ | ugitaś ceti ṅīp | matub-ṅīpoḥ pittvād anudāttatve 'sunaḥ svara eva śiṣyate | yāta | yā prāpaṇe | adāditvāc chapo luk | īm | cādayo 'nudāttā ity anudāttatvaṃ | guṇa ekādeśa udāttenodātta ity ādyudāttatvaṃ | akhidrayāmabhiḥ | khida dainye | spāyitañcī ty ādinā rak | khidraṃ yāntīti khidrayāmānaḥ | na khidrayāmāno 'khidrayāmānaḥ | traiḥ | avyayapūrvapadaprakṛtisvaratvaṃ ||*
+
+**Translation:** "O Maruts, you, accompanied by *vīḷupāṇibhiḥ*, strong hands, *rodhasvatīr anu*, along the rivers that have banks, *akhidrayāmabhiḥ*, with unwearied goings, *yātem* — go indeed. *Vīḷupāṇibhiḥ* — *vīḷu* is a name for strength, since it is read among its names [*vīḷu* … as read, doubtful [?]]; and by it its possessors are indicated [?]; they are strong and they are hands [or: those whose hands are strong]; the accent is final by *samāsasya*. *Rodhasvatīḥ* — root *rudhir āvaraṇe*: '*ruṇaddhi srotaḥ*', that which checks the stream is *rodhaḥ*, the bank; as is said, '*rodhaḥ kūlaṃ niruṇaddhi srotaḥ*' (Ni. 6-1 [?]); since the suffix *asun* is *nit* the first syllable is acute; the rivers that have them are *rodhasvatyaḥ*; *mādupadhāyāḥ* gives *va* for *matup*; *ṅīp* by *ugitaś ca*; because *matup* and *ṅīp* are *pit* they are unaccented, so only the accent of *asun* remains. *Yāta* — root *yā prāpaṇe*; the *śap* elided because of the *adādi* class. *Īm* — particles such as *ca* are unaccented. *Akhidrayāmabhiḥ* — root *khida dainye*; the suffix *rak* by *spāyitañci-…*: '*khidraṃ yānti*', those who go in weakness; *na khidrayāmāna*, the unwearied; the accent of the first member as an indeclinable."
+
+**Pratipadārtha** *(p. 322)* — "**marutaḥ** — O Maruts (you); **vīḷupāṇibhiḥ** — having capable hands; **citrāḥ** — charming (from being filled with trees and creepers of many kinds); **rodhasvatīḥ anu** — along the rivers that have banks; **akhidrayāmabhiḥ** — with goings that have no hindrance; **yātam** — go about, certainly."
+
+**Bhāvārtha** *(p. 322)* — "O Maruts, with strong hands (*vṛdha-hasta*; the print adds '*pādagaḷinda?*', 'with feet?' [?]), go along the rivers with their banks, charming from being full of trees and creepers of many kinds, without hindrance."
+
+**English Translation (the source's own, p. 322)** — "Maruts with strong hands (legs ?) come along the beautiful banks of the rivers with unbroken speed."
+
+*(The Special Topics of Rik 11 begin at the foot of p. 322 and continue on p. 323; not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–37 COMPLETE; Sūkta 38 in progress: printed p. 322 (PDF 336) reached; Riks 38.1–38.10 complete; Rik 38.11's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and English written (the Special Topics begin at the foot of p. 322).**
+
+**Next task:** continue at the foot of printed p. 322 (PDF 336) with the Special Topics and grammar of Rik 38.11, then Riks 12–15 and the close of Sūkta 38 (to about p. 338), then STOP at the end of Sūkta 38 unless told otherwise; Sūkta 39 (*pra yad itthā*) begins about p. 339 (check). Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–352); re-render if lost: `pdftoppm -jpeg -r 150 -f 336 -l 352 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38 so far: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1's bhāṣya: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in both Saṃhitā and Pada (unresolved); *tannādīnām* in the bhāṣya against *tanvādīnām* on the grammar page; (5) Rik 2: a misprinted heading *bhāvārtha* over the Pada, and *tabādeśaḥ* against *tap*; (6) every Pāṇini / Kāśikā / Uṇādi / Taittirīya / Nirukta / Ṛgveda number is "as read [?]"; (7) the long grammar entries of Riks 4, 6, 7 and 9 (*pṛśnimātaraḥ*, *vadhīt*, *padīṣṭa*, *kṛṇvanti*, *udavāhena*) are characterized in outline from very crowded print and may contain slips; the *Kaumudī* quotation on p. 308 and the *pakṣīṣṭa* remark on p. 310 are not reproduced or understood; (8) Rik 5: the root *jṝṣ* with a doubtful vowel; (9) Rik 6's English prints "him" for Nirṛti; (10) Rik 7: a doubtful clause on *kṛṇvanti*; two Ṛgveda quotations glossed by me tentatively; (11) Rik 8: the Pada's *sisakti* (s or ṣ?) unsettled and *prastuta°*/*prasnuta°* is my reading; (12) Rik 11: the Nighaṇṭu-type quotation on *vīḷu* and the clause *tena ca tadvāl lakṣyate* are doubtful [?], and the Kannada Bhāvārtha's "*pādagaḷinda?*" query is reproduced as printed.
