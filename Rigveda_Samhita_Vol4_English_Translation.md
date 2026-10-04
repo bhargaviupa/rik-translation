@@ -7999,10 +7999,102 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 43.8, continued** *(from p. 488; the Saṃhitā and Pada are above)*
+
+**Sāyaṇa-bhāṣya** *(p. 488)*
+
+> **सोमपरिबाधः सोमस्य परितो बाधका यागरहिता नोऽस्मान् मा जुहुरन्त । मा हिंसन्तु । तथारातयः शत्रवो मा जुहुरन्त । हे इन्दो सोम वाजे बलविषये ऽन्नविषये वा नोऽस्मानाभज । सर्वतः सेवस्व ॥ सोमपरिबाधः । सोमं परिबाधन्त इति सोमपरिबाधः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं । अरातयः । रा दाने । कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तरि क्तिन् । यद्वा । क्तिच्क्तौ च सञ्ज्ञायामिति क्तिच् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । जुहुरन्त । ह्वृ प्रसह्यकरणे । व्यत्ययेनात्मनेपदं । लङ् । जुहोत्यादित्वात् श्लुः । बहुलं छन्दसीति बहुलवचनादिकारस्याप्यृत्त्वं । द्विर्भावहलादिशेषाः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनादभ्यस्तादिति । पा. ७-१-४ [?] । इत्यादेशाभावे सति झोऽन्त इत्यन्तादेशः । न माङ्योग इत्यडभावः ॥ ८ ॥**
+
+*somaparibādhaḥ somasya parito bādhakā yāgarahitā no 'smān mā juhuranta | mā hiṃsantu | tathārātayaḥ śatravo mā juhuranta | he indo soma vāje balaviṣaye 'nnaviṣaye vā no 'smān ābhaja | sarvataḥ sevasva || somaparibādhaḥ | somaṃ paribādhanta iti somaparibādhaḥ | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvaṃ | arātayaḥ | rā dāne | kṛtyalyuṭo bahulam iti bahulavacanāt kartari ktin | yadvā | ktickktau ca saṃjñāyām iti ktic | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | juhuranta | hvṛ prasahyakaraṇe | vyatyayenātmanepadaṃ | laṅ | juhotyāditvāt śluḥ | bahulaṃ chandasīti bahulavacanād ikārasyāpy ṛttvaṃ | dvirbhāvahalādiśeṣāḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād abhyastād iti | pā. 7-1-4 [?] | ity ādeśābhāve sati jho 'nta ity antādeśaḥ | na māṅyoga ity aḍabhāvaḥ || 8 ||*
+
+*(In the grammatical tail the form "ṛttvaṃ" in "bahulavacanād ikārasyāpy ṛttvaṃ" is as I read it, doubtful [?]; the sūtra number 7-1-4 is as read [?].)*
+
+**Translation:** "*Somaparibādhaḥ*, those who harass Soma on all sides, [and are] without sacrifice, *naḥ*, us, *mā juhuranta*, let them not harm; and likewise *arātayaḥ*, enemies, let them not harm. O *indo*, O Soma, *vāje*, in the matter of strength or of food, *naḥ*, us, *ā bhaja*, attend upon on all sides. *Somaparibādhaḥ*: '*somaṃ paribādhante*', *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*. *Arātayaḥ*: root *rā dāne*; *ktin* in the agent sense by the word *bahulam* in *kṛtyalyuṭo bahulam*; or *ktic* by *ktickktau ca saṃjñāyām*; a *nañ*-compound with the accent of the first member as an indeclinable. *Juhuranta*: root *hvṛ prasahyakaraṇe*; *ātmanepada* by *vyatyaya*; *laṅ*; *ślu* from the *juhotyādi* class; by the word *bahulam* even the *i* [of the reduplicate] gets *ṛ* [as read]; doubling and the remainder by *halādiḥ śeṣaḥ*; since all operations are optional in the Veda, the substitute by *abhyastād ataḥ* [Pā. 7-1-4 [?]] does not occur, so *ant* for *jha* by *jho 'ntaḥ*; no *aṭ* in connection with *mā*."
+
+**Pratipadārtha** *(p. 488)* — "**somaparibādhaḥ** — those who harass [ritual] Soma, i.e. the enemies of Soma who do not perform sacrifice; **naḥ** — us; **mā juhuranta** — let them not injure; **arātayaḥ** — enemies; **mā (juhuranta)** — let them not injure; **indo** — O god Soma; **vāje** — whether in the matter of food or of strength; **naḥ** — us; **ā bhaja** — nourish well."
+
+**Bhāvārtha** *(p. 488)* — "O god Soma, let those who hate you and do not offer you sacrifice not injure us, and let our other enemies not injure us. O Pūṣan [as printed; apparently a slip of the Kannada author for Soma], give us food or strength, and nourish us well."
+
+**English Translation (the source's own, p. 488)** — "Let not the adversaries of Soma, let not our enemies harm us ; O soma, procure us abundant food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 488–489**
+- **somaparibādhaḥ** — "*somaṃ paribādhante ye te tādṛśāḥ somaparibādhaḥ | somasya bādhakāḥ yāgarahitāḥ*: they cause harm to Soma by not performing the sacrifice; hence the enemies of Soma."
+- **arātayaḥ** — "*rā dāne*: since they are not those who give us anything, our opponents or enemies."
+- **mā juhuranta** — "*hvṛ prasahyakaraṇe*: let them not injure."
+- **indo** — "the word *indu* has the senses 'rain' (Ni. 3-[?]) and 'sacrifice' (Ni. 3-[?]); and Yāska has also said '**इन्दुः । इन्धेरुनत्तेर्वा**' (Ni. 10-[?]) — *induḥ | indher unatter vā* — he has explained the word *indu* from *indh* [in the sense of] shining, or from *und* [in the sense of] wetting. Here Soma is addressed as 'brilliant'; or, since the Soma juice has the power of wetting, it can be called by the name *indu*. One may also say that *indu* means moon; but in the Ṛgveda the word *soma* has no conventional use for the moon."
+- **vāje** — "since the word *vājaḥ* is read among the eighteen names of food beginning with *kṣandam* [?], *vāje* means food."
+
+**Vyākaraṇa-prakriyā** *(p. 489 — grammar page, noted briefly)*
+- **somaparibādhaḥ**: "*somaṃ paribādhante iti somaparibādhaḥ*; *kvip ca* [Pā. 3-2-76 as read] *kvip*, here after a root in the sense of *prathanā*, in the plural; the accent of the first member of a compound with a *kṛt*."
+- **arātayaḥ**: root *rā dāne*; by the word *bahulam* in *kṛtyalyuṭo bahulam* *ktin* in the agent sense; or *ktic ktau ca saṃjñāyām*; *titutra…* prohibits *iṭ*; a *nañ*-compound; the accent of the first member as an indeclinable.
+- **juhuranta**: root *hvṛ prasahyakaraṇe*, *juhotyādi*; *laṅ*, *jha*; by *na māṅyoge* the augment *aṭ* is prohibited; although the verb is *parasmaipadin*, by *vyatyayo bahulam* the *ātmanepada* comes; *juhotyādibhyaḥ śluḥ*; *ślau*: doubling; *hvṛ + hvṛ + jha*; by *bahulaṃ chandasi* [Pā. 7-4-78 as read], by the word *bahula*, *i* for the *ṛ* of the reduplicate, *raparatva*; *halādiḥ śeṣaḥ* the loss of *r*; *kuhoś cuḥ* gives *jh* for *h*, and *abhyāse car ca* [Pā. 8-4-54 as read] *j* for *jh*: *ju + hvṛ + jha*; *bahulaṃ chandasi* [Pā. 6-1-… as read] *u* for the *ṛ*; if *dvirvacane 'ci* applied here, *hur* would [be doubled]; this does not occur since *sarve vidhayaś chandasi vikalpyante*; the *at* substitute for *jha* by *adabhyastāt* does not come, because of the optionality; *jho 'ntaḥ* gives *ant*; *juhuranta*; *tiṅ atiṅaḥ*: wholly unaccented. Rik 8 ends here (*|| 8 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–42 COMPLETE; Sūkta 43 in progress: printed p. 487 (PDF 501) reached; introduction, heading and Riks 43.1–43.7 complete; Rik 43.8's Saṃhitā and Pada written at the foot of p. 487 (its bhāṣya begins on p. 488).**
+### Rik 43.9 (pp. 490–492, PDF 504–506)
 
-**Next task:** continue at printed p. 488 (PDF 502) with the bhāṣya of Rik 43.8, then Rik 9 (Anuṣṭubh) and the close of Sūkta 43 (to about p. 492; Sūkta 44 *agne vivasvat* begins about p. 493 per the contents table — check), then STOP at the end of Sūkta 43 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 478–515) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 502 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 490; accents not reproduced; Anuṣṭubh)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43 so far: (1) the heading's varga numerals and Rik numerals are small and doubtful; the Mitra–Varuṇa ṛk is Rik **3** (correction note in the text; the previous progress note's "Rik 5" was wrong); (2) the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and Ṛgveda references in the anuvāda are read with doubt; (3) Rik 1: English "cherist" [sic]; Nirukta passage on *rudra* (Kāṭhaka / Hāridravika) untranslated in the source — my gloss tentative; grammar of *mīḷhuṣṭamāya* and *tavyase* crowded, characterized only; (4) Rik 2: two Taittirīya quotations glossed by me tentatively, numerals doubtful; (5) Rik 3: "*ciketanti*/*ciketaṃti*" doubtful; English "hyman" [sic]; (6) Rik 4: Śaṃyu's ṛk-count and Ṛgveda sūkta numerals doubtful; Yajurveda quotation crowded; (7) Rik 5: the Uṇādi rule-name "*śṛsvasnihi…*" crowded; (8) Rik 6: the Āśvalāyana reference "3-10", the Pāṇini number for *nṛnarayor vṛddhiś ca* and the rule-name "*rvaṇastrasāvananaḥ*" are crowded [?]; the long *meṣyai* discussion (*jāti* marks, *udāttayaṇaḥ*) is characterized only; the Kannada author's comment on *meṣye* is given in full; (9) Rik 7: the source's English prints "nonrishing" [sic]; (10) Rik 8: the Saṃhitā's last word is *juhuranta* (confirmed); (11) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
+> **यास्ते प्रजा अमृतस्य परस्मिन्धामन्नृतस्य ।**
+> **मूर्धा नाभा सोम वेन आभूषन्तीः सोम वेदः ॥ ९ ॥**
+
+*yās te prajā amṛtasya parasmin dhāmann ṛtasya |*
+*mūrdhā nābhā soma vena ābhūṣantīḥ soma vedaḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 490)*
+
+> याः । ते । प्रऽजाः । अमृतस्य । परस्मिन् । धामन् । ऋतस्य ।
+> मूर्धा । नाभा । सोम । वेनः । आऽभूषन्तीः । सोम ।
+> वेदः ॥ ९ ॥
+
+*yāḥ | te | pra-jāḥ | amṛtasya | parasmin | dhāman | ṛtasya |*
+*mūrdhā | nābhā | soma | venaḥ | ā-bhūṣantīḥ | soma |*
+*vedaḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 490)*
+
+> **हे सोम ते तव सम्बन्धिन्यो याः प्रजाः सन्ति स्तोत्रं वा कुर्वन्ति ताः प्रजाः मूर्धा शिरःस्थानीयस्त्वं नाभा सन्नहनयुक्ते यज्ञगृहे । वेनः कामयस्व । कीदृशस्य ते । अमृतस्य मरणरहितस्य परस्मिन्धामन्नृतस्य उत्तमे स्थाने प्राप्तस्य । हे सोम आभूषन्तीः सर्वतस्त्वामलंकुर्वन्तीः प्रजा वेदः । जानीहि ॥ धामन् । सुपां सुलुगिति सप्तम्या लुक् । नाभा । णह बन्धने । नहो भश्च । उ. ४-१३३ [?] । इति कर्मणीञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वं । सुपां सुलुगिति सप्तम्या डादेशः । वेनः । वेनतिः कान्तिकर्मा । लेटि सिप्यडागमः । तिङ्ङतिङ इति निघातः । आभूषन्तीः । भूष अलंकारे । भौवादिकः । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वं । समासे कृदुत्तरपदप्रकृतिस्वरत्वं । वेदः । विद ज्ञाने । लेटि सिप्यडागमः ॥ १२ ॥ ॥ ९ ॥**
+
+*he soma te tava sambandhinyo yāḥ prajāḥ santi stotraṃ vā kurvanti tāḥ prajāḥ mūrdhā śiraḥsthānīyas tvaṃ nābhā sannahanayukte yajñagṛhe | venaḥ kāmayasva | kīdṛśasya te | amṛtasya maraṇarahitasya parasmin dhāmann ṛtasya uttame sthāne prāptasya | he soma ābhūṣantīḥ sarvatas tvām alaṃkurvantīḥ prajā vedaḥ | jānīhi || dhāman | supāṃ sulug iti saptamyā luk | nābhā | ṇaha bandhane | naho bhaś ca | u. 4-133 [?] | iti karmaṇīñpratyayaḥ | ñittvād ādyudāttatvaṃ | supāṃ sulug iti saptamyā ḍādeśaḥ | venaḥ | venatiḥ kāntikarmā | leṭi sipy aḍāgamaḥ | tiṅ atiṅa iti nighātaḥ | ābhūṣantīḥ | bhūṣa alaṃkāre | bhauvādikaḥ | śapaḥ pittvād anudāttatvaṃ | śatuś ca lasārvadhātukasvareṇa dhātusvareṇādyudāttatvaṃ | samāse kṛduttarapadaprakṛtisvaratvaṃ | vedaḥ | vida jñāne | leṭi sipy aḍāgamaḥ || 12 || || 9 ||*
+
+*(The bhāṣya ends with two numerals, "|| 12 ||" and "|| 9 ||"; the second is the Rik number; the first (possibly a varga numeral) is not understood [?].)*
+
+**Translation:** "O Soma, those *prajāḥ*, people, who belong to you, who offer praise, those people — you, [who are] *mūrdhā*, in the position of head, [being] *nābhā*, at the place of tying together [the sacrificial hall] — *venaḥ*, desire [them]. Of you, what kind? Of the deathless, of one who has reached *parasmin dhāman*, the highest place, *ṛtasya* [of truth/of the sacrifice]. O Soma, *ābhūṣantīḥ*, the people who adorn you on all sides, *vedaḥ*, know. *Dhāman*: the locative elided by *supāṃ sulug…*. *Nābhā*: root *ṇaha bandhane*; *iñ* in the passive sense by *naho bhaś ca* [Uṇ. 4-133 [?]]; first-syllable acute as *ñit*; *ḍā* for the locative by *supāṃ sulug…*. *Venaḥ*: *venati* is a verb of desire; *leṭ*, *sip*, with the augment *aṭ*; unaccented by *tiṅ atiṅaḥ*. *Ābhūṣantīḥ*: root *bhūṣa alaṃkāre*, of the first class; *śap* being *pit* is unaccented; *śatṛ* — the root accent — first-syllable acute; in the compound the accent of the first member of a *kṛt*-ending compound. *Vedaḥ*: root *vida jñāne*; *leṭ*, *sip*, the augment *aṭ*."
+
+**Pratipadārtha** *(pp. 490–491)* — "**soma** — O god Soma; **amṛtasya** — [you who are] deathless; **parasmin dhāman ṛtasya** — [and] who are in the most excellent dwelling-place; **te** — your; **yāḥ prajāḥ** — those people (who praise [you]); **mūrdhā** — as their head (leader); **nābhā** — in the sacrificial hall; **venaḥ** — desire; **soma** — O Soma; **ābhūṣantīḥ** — those who adorn you on all sides; **vedaḥ** — know [them]."
+
+**Bhāvārtha** *(p. 491)* — "O Soma, you are deathless and stay in the most excellent dwelling-place. Your devotees decorate you on all sides. In the sacrificial hall, being their leader, know well the service they do to you and treat them well."
+
+**English Translation (the source's own, p. 491)** — "O Soma, you are immortal and live in excellent dwelling ; have regard for your subjects who are engaged in decorating you in the sacrificial hall with you at their head." *(The source's heading for this English reads "Euglib Translation" — a misprint [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 491**
+- **amṛtasya** — "of Soma, who is without death."
+- **parasmin dhāman ṛtasya** = *uttame sthāne prāptasya* — "who sits in the highest place; here the highest place is the sacrificial hall where the praise is made."
+- **mūrdhā** = *śiraḥsthānīyas tvam* — "one who is in the position of the head, i.e. excellent, or the foremost: 'at their head'; i.e., in front of you, as a leader."
+- **nābhā** = *sannahanayukte yajñagṛhe* — "in the sacrificial hall."
+- **venaḥ** — "*venatiḥ kāntikarmā*: [a verb] of desire; 'desire'; 'wish, wish for'."
+- **ābhūṣantīḥ** = *sarvatas tvām alaṃkurvantīḥ* — "decorating you on all sides. What is meant by decorating Soma is not clear. Probably the ṛṣi has described in another way the preparing of the utensils for crushing the Soma juice [as the 'decoration']."
+- **vedaḥ** = *vida jñāne* — "know."
+
+**Vyākaraṇa-prakriyā** *(p. 492 — grammar page, noted briefly)*
+- **dhāman**: the locative ending is elided by *supāṃ sulug…*.
+- **nābhā**: root *ṇaha bandhane*; *ṇo naḥ* [Pā. 6-1-65 as read] *n* for the initial *ṇ*; *naho bhaś ca* — नहो भश्च — [Uṇ. 4-133 as read [?]]: after the root *nah* the suffix *iñ* and *bh* for *h*, in the passive sense; *upadhāvṛddhi*: *nābhi*; the locative singular with *supāṃ sulug…* giving *ḍā*; loss of *ṭi*.
+- **venaḥ**: "*venatiḥ kāntikarmā*" (Nirukta 2-[?]-[?]) [as read]: one must take the root *vena kāntau*, *icchā*; *leṭ*, *sip*, the augment *aṭ*; *tiṅ atiṅaḥ* wholly unaccented.
+- **ābhūṣantīḥ**: root *bhūṣa alaṃkāre*, first class; *laṭ*, *śatṛ*, *śap*; *ato guṇe* *pararūpa*; *bhūṣat*; *ugitaś ca* [Pā. 4-1-6 as read]: *ṅīp* after an *ugit* base; *āc-chnuaś ca…* — *ājñonāṅgasya numāgamo…* [Pā. 7-1-80 as read]: the augment *num* for an *aṅga* ending in *a* that has a *śatṛ* suffix, when *śī* or a *nadī*-named [suffix] follows; *bhūṣantī*; accusative plural *śas*, *pūrvasavarṇadīrgha*, *ru*, visarga; with *āṅ*, the compound; the accent of the first member of a compound ending in a *kṛt*; the *śap* in the latter member is unaccented, and by *tāsyanudāttet…* the *śatṛ* is unaccented, so the root accent remains.
+- **vedaḥ**: root *vida jñāne*; *leṭ* [*sip*]; the augment *aṭ*, *śap*, *laghūpadhaguṇa*: *ved + a + a + as*, *pararūpa*, *ru*, visarga. Rik 9 ends here (*|| 9 ||*).
+
+---
+
+**Close of Sūkta 43.** Printed on p. 492 after the grammar: "*illige 43ne sūktavu mugidudu*" — "Here the 43rd sūkta has ended." *(Numeral read as "43".)* With it the Eighth Anuvāka (printed pp. 251–492; Sūktas 37–43) ends. The next leaf, **p. 493 = PDF 507**, carries the title "*nalavattanālkaneya sūktavu*" ("the forty-fourth sūkta") and the long Sanskrit introduction and Kannada anuvāda of **Sūkta 44** (*agne vivasvat*, fourteen Riks, the first sūkta of the **Ninth Anuvāka**, which has seven sūktas, 44–50; ṛṣi Praskaṇva, son of Kaṇva; deity Agni, with the Aśvins and Uṣas for Riks 1–3; metres: the odd Riks Bṛhatī, the even Satobṛhatī; Rik 1 *Agne vivasvad*). These are **not yet written** and belong to the next session. *(The old contents table gave p. 493 for Sūkta 44 — this is confirmed.)*
+
+**Summary of Sūkta 43 (my note).** Nine Riks, the first six and Rik 3 to Rudra and Mitra–Varuṇa, the last three to Soma. Rik 1 asks when a pleasing hymn will be recited to the wise, mighty Rudra, cherished in the heart; Rik 2 asks that the earth give his medicine to our cattle, men and children; Rik 3, that Mitra, Varuṇa, Rudra and all the gods look kindly on us; Rik 4, for the happiness that Śaṃyu enjoyed; Rik 5 describes Rudra as shining like the Sun and gold, best of the gods; Rik 6, that he bring happiness to horses, sheep, men, women and cows; Riks 7–9 turn to Soma, asking for wealth for a hundred men, protection from enemies and from those who harass Soma, and his regard for his adorers. All nine Riks are written in full; the heavily crowded grammar passages are characterized only.
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–43 COMPLETE (printed pp. 1–492 = PDF 15–506; Sūkta 43 occupies pp. 464 foot–492 and ends with a printed closing note on p. 492, which is also the end of the Eighth Anuvāka).**
+
+**Next task:** Sūkta 44 (*agne vivasvat*, the first sūkta of the Ninth Anuvāka, 14 Riks, ṛṣi Praskaṇva Kāṇva; deity Agni, with the Aśvins and Uṣas for Riks 1–3 [as read from the introduction]; Bṛhatī for odd, Satobṛhatī for even Riks), starting at the top of printed p. 493 = PDF 507 (title line "*nalavattanālkaneya sūktavu*", a long Sanskrit introduction, the Kannada anuvāda; the heading and Rik 1 follow on p. 494 = PDF 508) — a clean boundary. The contents table gives Sūkta 45 (*tvam agne vasūn*) at p. 541 and Sūkta 46 (*eṣo uṣāḥ*) at p. 571 — read the actual boundaries. Ṛṣi, deities and metre change with this anuvāka: record them from the print. One session per sūkta; read the last ~40 lines of this file first. Rendered pages may be lost; re-render with `pdftoppm -jpeg -r 150 -f 507 -l 545 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; they will pick up from here.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43: (1) the heading's varga numerals and Rik numerals are small and doubtful; the Mitra–Varuṇa ṛk is Rik **3** (correction note in the text); (2) the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and Ṛgveda references in the anuvāda read with doubt; (3) Rik 1: English "cherist" [sic]; Nirukta passage on *rudra* untranslated in the source — my gloss tentative; grammar of *mīḷhuṣṭamāya*, *tavyase* crowded; (4) Rik 2: two Taittirīya quotations glossed by me tentatively, numerals doubtful; (5) Rik 3: "*ciketanti*/*ciketaṃti*" doubtful; English "hyman" [sic]; (6) Rik 4: Śaṃyu's ṛk-count and Ṛgveda numerals doubtful; Yajurveda quotation crowded; (7) Rik 5: Uṇādi rule-name crowded; (8) Rik 6: Āśvalāyana reference, Pāṇini number for *nṛnarayor vṛddhiś ca* and rule-name "*rvaṇastrasāvananaḥ*" crowded; the *meṣyai* discussion characterized only; (9) Rik 7: English "nonrishing" [sic]; (10) Rik 8: the Kannada Bhāvārtha says "Pūṣan" for Soma (apparent slip, kept as printed); the Nirukta quotation on *indu* is untranslated in the source — my gloss tentative; the vowel substitution in the bhāṣya's tail (*ṛttvaṃ*) doubtful; (11) Rik 9: the source's English heading prints "Euglib Translation" [sic]; the bhāṣya closes with two numerals ("12", "9") — the first not understood; (12) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".

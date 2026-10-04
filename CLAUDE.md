@@ -12,8 +12,8 @@ Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 4: Sūktas 33–42 are COMPLETE (printed pp. 1–464 = PDF 15–478).** **Next task: Sūkta 43** (*kad rudrāya*, Maṇḍala 1, Anuvāka 8, 9 Riks, ṛṣi Kaṇva Ghaura; Rudra, Mitra–Varuṇa and Soma; Gāyatrī, with Rik 9 in Anuṣṭubh),
-whose title line and first lines of Sanskrit introduction are at the foot of printed p. 464 = PDF 478 (the end of Sūkta 42 shares that leaf; not yet written); the rest of the introduction, the Kannada anuvāda and the heading are on p. 465 (PDF 479); Rik 1 follows on p. 466 (PDF 480). (The old contents table gave p. 465; the print shows the foot of p. 464.) Sūkta 44 begins at about p. 493 per the contents table — check.
+**Volume 4: Sūktas 33–43 are COMPLETE (printed pp. 1–492 = PDF 15–506; the Eighth Anuvāka ended at p. 492).** **Next task: Sūkta 44** (*agne vivasvat*, Maṇḍala 1, the first sūkta of the Ninth Anuvāka, 14 Riks, ṛṣi Praskaṇva Kāṇva; Agni, with the Aśvins and Uṣas for Riks 1–3 [as read]),
+whose title line, long Sanskrit introduction and Kannada anuvāda fill printed p. 493 = PDF 507 (a clean boundary: Sūkta 43 ended on p. 492); the heading and Rik 1 follow on p. 494 (PDF 508). Sūkta 45 begins at about p. 541 and Sūkta 46 at about p. 571 per the contents table — check. Ṛṣi, deities and metres change with the new anuvāka: record them from the print.
 One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
 The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
