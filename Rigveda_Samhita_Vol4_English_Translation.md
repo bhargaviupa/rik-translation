@@ -3501,12 +3501,216 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.17 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 236–239, PDF 250–253)
+
+**Sāyaṇa-bhāṣya** *(foot of p. 236 – p. 237; the first half in full, the grammatical tail characterized)*
+
+> अग्निर्देवः सुवीर्यं शोभनवीर्योपेतं धनमुद्दिश्य वव्ने । याचितः । सोऽग्निः कण्वाय महर्षये सौभाग्यं शोभनधनादिरूपं भाग्यं प्रायच्छदिति शेषः । तथाग्निर्मित्राण्यस्मन्मित्राणि प्रावत् । प्रकर्षेण रक्षितवान् । उताऽपि च मेध्यातिथिं मेधयोग्यैरतिथिभिरुपेतमृषिं प्रावत् । तथोपस्तुतमन्यमपि स्तोतारं यजमानं सातौ धनादिदाननिमित्तं प्रावदिति शेषः ॥
+
+*agnir devaḥ suvīryaṃ śobhanavīryopetaṃ dhanam uddiśya vavne | yācitaḥ | so 'gniḥ kaṇvāya maharṣaye saubhāgyaṃ śobhanadhanādirūpaṃ bhāgyaṃ prāyacchad iti śeṣaḥ | tathāgnir mitrāṇy asmanmitrāṇi prāvat | prakarṣeṇa rakṣitavān | utāpi ca medhyātithiṃ medhayogyair atithibhir upetam ṛṣiṃ prāvat | tathopastutam anyam api stotāraṃ yajamānaṃ sātau dhanādidānanimittaṃ prāvad iti śeṣaḥ ||*
+
+**Translation:** "The god Agni, *vavne* — was begged — for *suvīryam*, wealth furnished with good heroic strength. That Agni gave to the great ṛṣi Kaṇva *saubhagam* — good fortune, a share in the form of beautiful wealth and so on — [so] it is to be supplied. Likewise Agni *pra āvat* — protected excellently — our friends (*mitrā*, = *mitrāṇi*). And [he protected] *medhyātithim*, the ṛṣi who has guests fit for the sacrifice. Likewise [he protected] *upastutam*, another praiser, a sacrificer, *sātau*, with a view to giving wealth and the like — so it is to be supplied."
+
+**Grammar within the bhāṣya** *(p. 237, characterized)*: *vavne* (*vanu yācane*, *liṭ* in the passive, *liṭas tajhayor eśirec*; *na śasadadavādiguṇānām* — the *a* of this *va*-initial root does not become *e* nor does the reduplicate lose its vowel; the loss of the penultimate is Vedic); *saubhagam* (*subhagāt*: *aṇ*, because *subhaga* is in the *udgātrādi* group, in the sense "state of that" — *añ*; first-syllable acute by *ñnityādir nityam*); *mitrā* (neuter plural; *śi* lost by *śeś chandasi bahulam*); *upastutam* (*ktic ktau ca saṃjñāyām*; *ṣṭuñ*; *thāthaghañktā…*: final-acute).
+
+**Pratipadārtha** *(p. 237)* — "**agniḥ** — the Agni deity; **suvīryam** — [wealth] that is beneficial and gives strength; **vavne** — was prayed for; **agniḥ** — Agni; **kaṇvāya** — to the great ṛṣi Kaṇva; **saubhagam** — good fortune in the form of prosperity [he gave]; **agniḥ** — Agni; **mitrā** — our friends; **prāvat** — protected well; **uta** — and besides; **medhyātithim** — the ṛṣi who has guests worthy of worship; **upastutam** — another devotee who praised [him], the sacrificer; **sātau** — [for the sake of] his desire of gaining wealth, [with the power] to satisfy [him]; [**prāvat** — protected well]."
+
+**Bhāvārtha** *(p. 237)* — "It is possible for a man to receive, through the favour of the Agni deity, the principal wealth, which is beneficial and gives strength. For the sake of that wealth all his devotees prayed to him. He gave it to all his devotees. To the devotee, the ṛṣi Kaṇva, to our other friends, and to all the devotees who praise him, he gave that good fortune in the form of prosperity, and, favouring all, protected the wished-for aim of all, in the form of the desire for wealth, by satisfying it."
+
+**English Translation (the source's own, p. 237)** — "Agni is praised for power and wealth ; he has granted prosperity to Kanwa, he has protected our friends, he has protected Medhyatithi and Upastuta ( or sacrificer ) who prayed for him to get riches·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 238**
+- **suvīryam** = *śobhanavīryopetaṃ dhanam uddiśya*: "that is, 'with a view to wealth endowed with good fortune (or valour)'; *vīrya* means strength, power, valour. The sense 'wealth' has to be supplied."
+- **saubhagam** = *śobhanadhanādirūpaṃ bhāgyam*: "the best of wealth, lordship and the like."
+- **agniḥ pra āvan mitrā uta medhyātithiḥ** — "Agni protected our friends, or [the friends] of the ṛṣi Kaṇva, and also the ṛṣi named Medhyātithi, of Kaṇva's family. Here it is more fitting to say that the *medhyātithi* is an ṛṣi of the Kaṇva line, rather than to give, as the bhāṣyakāra does, the sense of the parts '*medhayogyair atithibhir upetam*' — 'one furnished with guests worthy of worship'; for Medhyātithi is one famed ṛṣi in the Kaṇva line, so it is right to recall the name of that [ṛṣi]. Besides, the sense that Skandasvāmin gives to the word *mitrā*, *mitrāvaruṇau*, is not quite suitable: since Mitra and Varuṇa are chief deities, like Agni, it does not seem right that one deity should protect another."
+
+**Vyākaraṇa-prakriyā** *(pp. 238–239, PDF 252–253 — grammar pages, noted briefly)*
+- **vavne** (p. 238): root *vanu yācane*, *tanādi*; *liṭ* in the passive (*karmaṇi*), *ta*; *liṭas tajhayor eśirec* — *e* for *ta*; *na śasadadavādiguṇānām* — न शसददवादिगुणानाम् — [Pā. 6-4-126]: there is no *e* for the *a* of the roots *śas*, *dad*, *va*-initial roots and the roots with *guṇa* named, and no loss of the reduplicate [by *abhyāsasya*… *eṭi*] — "that is, for the *a* of the *va*-initial root *van* there is no *e*-substitution and no loss of the reduplicate *vavan + e*; the loss of the penultimate is Vedic".
+- **saubhagam**: *subhaga* is read in the *udgātrādi* group; *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — [Pā. 5-1-129]: *añ* after words denoting a living being, a species or an age, and after the *udgātrādi* words, in the sense *bhāva* or *karman*; *subhaga + a*; *vṛddhi*; *ñnityādir nityam* — first-syllable acute.
+- **mitrā**: *mitra*, neuter; *śas* → *śi*; *śeś chandasi bahulam* — *luk* of *śi*.
+- **upastutam** (p. 239): *ṣṭuñ stutau*; *ktic ktau ca saṃjñāyām* — *kta* in the sense of agent; *thāthaghañktā…*: the later member is final-acute. Rik 17 ends here (*|| 17 ||*).
+
+### Rik 36.18 (pp. 239–244, PDF 253–258)
+
+**Saṃhitā-pāṭha** *(p. 239; accents not reproduced)*
+
+> **अग्निना तुर्वशं यदुं परावत उग्रादेवं हवामहे ।**
+> **अग्निर्नयन्नववास्त्वं बृहद्रथं तुर्वीतिं दस्यवे सहः ॥ १८ ॥**
+
+*agninā turvaśaṃ yaduṃ parāvata ugrādevaṃ havāmahe |*
+*agnir nayan navavāstvaṃ bṛhadrathaṃ turvītiṃ dasyave sahaḥ || 18 ||*
+
+*(Reading note: the Saṃhitā's "ugrādevam" is the Pada's* ugra-devam *with Vedic lengthening of the first member; the print marks both the long vowel and the division.)*
+
+**Pada-pāṭha** *(p. 239)*
+
+> अग्निना । तुर्वशम् । यदुम् । पराऽवतः । उग्रऽदेवम् । हवामहे ॥
+> अग्निः । नयत् । नवऽवास्त्वम् । बृहत्ऽरथम् । तुर्वीतिम् । दस्यवे । सहः ॥ १८ ॥
+
+*agninā | turvaśam | yadum | parā-vataḥ | ugra-devam | havāmahe ||*
+*agniḥ | nayat | nava-vāstvam | bṛhat-ratham | turvītim | dasyave | sahaḥ || 18 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 239–240; the first half in full, the grammatical tail characterized)*
+
+> अग्निना सहावस्थितान् तुर्वशनामकं यदुनामकमुग्रदेवनामकं च राजर्षीन्परावतो दूरादेशाद्धवामहे । आह्वयामः । स चाग्निर्नववास्तुनामकं बृहद्रथनामकं तुर्वीतिनामकं च राजर्षीन्नयत् । इहानयतु । कीदृशोऽग्निः । दस्यवे सहः अस्मदुपप्रवहेतोश्चोरस्याभिभविता ॥ नयत् । णीञ् प्रापणे । लेट्, तिप्, लेटोऽडाटौ । इतश्च लोपः परस्मैपदेषु । लेट्यडागमः । इतश्च लोप इतीकारलोपः । नववास्त्वम् । नवं वास्तु यस्यासौ नववास्तुः । वा छन्दसीत्यनुवृत्तेरमि पूर्वत्वाभावे यणादेशः । बृहद्रथम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*agninā sahāvasthitān turvaśanāmakaṃ yadunāmakam ugradevanāmakaṃ ca rājarṣīn parāvato dūradeśād dhavāmahe | āhvayāmaḥ | sa cāgnir navavāstunāmakaṃ bṛhadrathanāmakaṃ turvītināmakaṃ ca rājarṣīn nayat | ihānayatu | kīdṛśo 'gniḥ | dasyave sahaḥ asmadupapravahetoś corasyābhibhavitā || nayat | ṇīñ prāpaṇe | leṭ, tip, leṭo 'ḍāṭau | itaś ca lopaḥ parasmaipadeṣu | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | navavāstvam | navaṃ vāstu yasyāsau navavāstuḥ | vā chandasīty anuvṛtter ami pūrvatvābhāve yaṇādeśaḥ | bṛhadratham | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+
+**Translation:** "Staying together with Agni, the royal sages named *Turvaśa*, *Yadu* and *Ugradeva* we invoke *parāvataḥ* — from a far-off place. And may that Agni lead here the royal sages named *Navavāstu*, *Bṛhadratha* and *Turvīti*. What sort of Agni? *Dasyave sahaḥ* — the overcomer of the thief who is the cause of the carrying off of our [possessions]."
+
+**Grammar within the bhāṣya** *(p. 240, characterized)*: *nayat* (*ṇīñ prāpaṇe*, class 1; *leṭ*, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*; *śap*; the two *a*'s by *ato guṇe*: *pararūpa*; *guṇa*; *ay*); *navavāstvam* (*navaṃ vāstu yasya*, "he who has a new house"; *amipūrvaḥ* does not make *pūrvarūpa* because *vā chandasi* continues, so *yaṇ*); *bṛhadratham* (first-member accent of a bahuvrīhi).
+
+**Pratipadārtha** *(p. 240)* — "**agninā** — together with the Agni deity (and the others); **turvaśam, yadum, ugradevam** — the royal sages named Turvaśa, Yadu and Ugradeva; **parāvataḥ** — from a far-off place; **havāmahe** — we invite; **dasyave sahaḥ** — [Agni who] checks and conquers the robber, the strong rākṣasa; **agniḥ** — Agni; **navavāstvam, bṛhadratham, turvītim** — the royal sages named Navavāstu, Bṛhadratha, Turvīti, too; **nayat** — may he bring to this sacrificial ground."
+
+**Bhāvārtha** *(p. 240)* — "With Agni there are many royal sages, endowed with good qualities. We give them all an invitation so that they may accept hospitality at our sacrifice. May the powerful Agni, restraining and conquering the rākṣasas, who are wicked and thievish, bring all the royal sages — Turvaśa, Yadu, Ugradeva, Navavāstu, Bṛhadratha and Turvīti — to this our sacrificial ground."
+
+**English Translation (the source's own, p. 240)** — "We invoke from a distant place, Turvasa, Yadu, Ugradeva along with Agni ; let Agni who overcomes the robbers (demons) bring Navavastwa, Brihadratha and Turviti·" *(the print ends with a raised dot; the proper names are spelled so in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 240–243**
+
+"In this ṛk the ṛṣi mentions the names of certain well-known and little-known persons; their names appear to have been in use among the people of that time."
+
+**turvaśam** — "*Turvaśa* is the name of a man or of a tribe (*janāṅga*). This word is read in many contexts in the Ṛgveda together with the word *yadu*, another masculine word. Since these two words are used each with its own case-ending and number, the two are different persons. Some examples on this matter *(the ṛks are untranslated in the source; the numerals are small and I give them with [?]; my glosses are **mine and tentative**)*:"
+
+> १. त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो । (ऋ. सं. १-५४-६ [?])
+> २. प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति । (ऋ. सं. १-१७४-९ [?]; ६-२०-१२ [?])
+> ३. य आनयत्परावतः सुनीती तुर्वशं यदुम् । इन्द्रः स नो युवा सखा । (ऋ. सं. ६-४५-१ [?])
+> ४. महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७ [?])
+> ५. येनाव तुर्वशं यदुं येन कण्वं धनस्पृतम् । (ऋ. सं. ८-५-२ [?])
+> ६. इमे सोमास अधि तुर्वशे यदौ इमे कण्वेषु वामथ । (ऋ. सं. ८-९-१४ [?])
+> ७. सत्यं तत्तुर्वशे यदौ विदानो अह्नवाय्यम् । (ऋ. सं. ८-४५-२७ [?])
+> ८. अहं सप्तहा नहुषो नहुष्टरः प्राश्रावयं शवसा तुर्वशं यदुम् । (ऋ. सं. १०-४९-८ [?])
+> ९. यदिन्द्राग्नी यदुषु तुर्वशेषु यद्द्रुह्युष्वनुषु पूरुषु स्थः । (ऋ. सं. १-१०८-८ [?])
+
+*1. tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato | (ṛ. saṃ. 1-54-6 [?])*
+*2. pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti | (ṛ. saṃ. 1-174-9 [?]; 6-20-12 [?])*
+*3. ya ānayat parāvataḥ sunītī turvaśaṃ yadum | indraḥ sa no yuvā sakhā | (ṛ. saṃ. 6-45-1 [?])*
+*4. mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7 [?])*
+*5. yenāva turvaśaṃ yaduṃ yena kaṇvaṃ dhanaspṛtam | (ṛ. saṃ. 8-5-2 [?])*
+*6. ime somāsa adhi turvaśe yadau ime kaṇveṣu vām atha | (ṛ. saṃ. 8-9-14 [?])*
+*7. satyaṃ tat turvaśe yadau vidāno ahnavāyyam | (ṛ. saṃ. 8-45-27 [?])*
+*8. ahaṃ saptahā nahuṣo nahuṣṭaraḥ prāśrāvayaṃ śavasā turvaśaṃ yadum | (ṛ. saṃ. 10-49-8 [?])*
+*9. yad indrāgnī yaduṣu turvaśeṣu yad druhyuṣv anuṣu pūruṣu sthaḥ | (ṛ. saṃ. 1-108-8 [?])*
+
+*(Mine and tentative: 1. "you helped the heroic Turvaśa and Yadu, you [helped] Turvīti and Vayya, O Śatakratu"; 2. "when you, O hero, cross the sea, bring Turvaśa and Yadu across in safety"; 3. "[Indra] who led Turvaśa and Yadu from afar with good guidance — that Indra is our young friend"; 4. "great is your visible deed, O bull; may we see Turvaśa and Yadu"; 5. "[the aid] with which [you helped] Turvaśa and Yadu, with which Kaṇva, the wealth-gaining"; 6. "these soma[s are] for Turvaśa and Yadu, these for the Kaṇvas, and for you two"; 7. "that is true [for] Turvaśa and Yadu, [you who] knew what was not to be denied [?]"; 8. "I, the slayer of seven, Nahuṣa-like, made Turvaśa and Yadu hear [of] my might"; 9. "when, O Indra and Agni, you are among the Yadus, Turvaśas, Druhyus, Anus, Pūrus". All are tentative.)*
+
+"Some take Turvaśa and Yadu to be the progenitors of two chief tribes. That the names Turvaśa and Yadu were used to call the tribes — Turvaśas and Yadus — may be understood from the last examples. Since the names of five chief tribes (*Tribes* [the print's English]) — the Anus, Druhyus, Turvaśas, Yadus and Pūrus — are mentioned in many places in the Ṛgveda, these must have been famous tribes of that time. Among them the words Turvaśa and Yadu in particular are read together, so it may be inferred that the people of these two tribes lived near to each other and had a close relationship."
+
+"Turvaśa's chief act was a war with a king named Sudāsa. He could not be conquered by them [Sudāsa's men?]; and he fled out of fear. For this reason the scholar **Hopkins** [the print's Latin letters] thinks that the name *Turvaśa* [= 'he who escapes from the field'] came to him. In some ṛks it is said that Indra helped him to come back safe from the battle:"
+
+> प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति ॥ (ऋ. सं. १-१७४-९ [?])
+> उत त्या तुर्वशायदू अस्नातारा शचीपतिः । इन्द्रो विद्वाँ अपारयत् ॥ (ऋ. सं. ४-३०-१७ [?])
+> त्वमपो यदवे तुर्वशायारमयः सुदुघाः पार इन्द्र । (ऋ. सं. ५-३१-८ [?])
+> महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७ [?])
+
+*pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti || (ṛ. saṃ. 1-174-9 [?])*
+*uta tyā turvaśāyadū asnātārā śacīpatiḥ | indro vidvām̐ apārayat || (ṛ. saṃ. 4-30-17 [?])*
+*tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra | (ṛ. saṃ. 5-31-8 [?])*
+*mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7 [?])*
+
+*(Mine and tentative: "and those two, Turvaśa and Yadu, [who were] not swimmers — Indra, lord of power, knowing, carried them across"; "you set the waters [to rest], easily-milked, for Yadu and Turvaśa, O Indra, [so that they went] to the far shore".)* "In the war with Sudāsa mentioned above, Anu and Druhyu are described as defeated and drowned in the water; Turvaśa and Yadu alone came out alive by Indra's help."
+
+> य आनयत्परावतः सुनीती तुर्वशं यदुम् । (ऋ. सं. ६-४५-१ [?])
+> पुरः सद्य इत्थाधिये दिवोदासाय शम्बरम् । अध त्यं तुर्वशं यदुम् ॥ (ऋ. सं. ७-१९-८ [?])
+
+*ya ānayat parāvataḥ sunītī turvaśaṃ yadum | (ṛ. saṃ. 6-45-1 [?])*
+*puraḥ sadya itthādhiye divodāsāya śambaram | adha tyaṃ turvaśaṃ yadum || (ṛ. saṃ. 7-19-8 [?])*
+
+*(Mine and tentative: "…the fortresses at once, for the pious Divodāsa, [and] Śambara; and then that Turvaśa and Yadu".)* "In these ṛks there is mention that Turvaśa and Yadu fought with Divodāsa, Sudāsa's father. The account of this war is given in the verses 3–5 [?] of the 18th [?] sūkta of the 6th maṇḍala of the Ṛgveda Saṃhitā. Here some say that the *Vṛcīvants* are the Turvaśas, and others that the Vṛcīvants and the Turvaśas are different tribes, while others hold that they were each other's helpers in battle. This war seems to have taken place on the bank of the river Yavyāvatī. In the Śatapatha Brāhmaṇa [Śat. Brā. 13-5-4-[?] [?]] there is a description that the Turvaśas and the Pañcālas were friends in battle, and that the Turvaśas had [numbers read as '13?' horses and '6000' [?]] fighting warriors. From the Ṛgveda's 8th [?] sūkta [verse 7 [?]] it is clear that the Turvaśas crossed a river called Paruṣṇī; but the place where these Turvaśas lived is not clear."
+
+**ugradevam** — "For this word the bhāṣyakāra says only '*etannāmakaṃ rājarṣim*' — 'the royal sage of this name'. Who this Ugradeva was, and what is known of him, is not clear. This word occurs in the Ṛgveda only in this ṛk. It is also found in the Pañcaviṃśa Brāhmaṇa of the Sāmaveda [Pañc. Brā. 14-3-12 [?] and 25-10-11 [?]] and in the Taittirīya Āraṇyaka [Tai. Ā. 5-4-12 [?]]. No further account is found."
+
+**navavāstvam, bṛhadratham** — "The word *navavāstva* is read in the Ṛgveda in the ṛk now at hand and in these ṛks only:"
+
+> परा नववास्त्वमनुदेयं महे पित्रे ददाथ स्वं नपातम् । (ऋ. सं. ६-२०-११ [?])
+> अहं स यो नववास्त्वं बृहद्रथं सं वृत्रेव दासं वृत्रहारुजम् ॥ (ऋ. सं. १०-४९-६ [?])
+
+*parā navavāstvam anudeyaṃ mahe pitre dadātha svaṃ napātam | (ṛ. saṃ. 6-20-11 [?])*
+*ahaṃ sa yo navavāstvaṃ bṛhadrathaṃ saṃ vṛtreva dāsaṃ vṛtrahārujam || (ṛ. saṃ. 10-49-6 [?])*
+
+*(Mine and tentative, the first very uncertain: "[you gave] Navavāstva, a grandson of one to be granted, to the great father [?]"; "I am he who [broke] Navavāstva [and] Bṛhadratha, like [one breaks] a Vṛtra-foe, a Dāsa".)* "In the first ṛk Navavāstva is spoken of together with Agni; from the above examples it is understood that Indra was helping [him]. And the sense that he is the son of Uśanas, dear to Indra, is implied. But in the last example the matter of Bṛhadratha's being defeated by Indra is stated in two ṛks only — in the ṛk of the Ṛgveda now in question and in the above [10-49-6 [?]]. Since in both places the word *bṛhadratha* is used together with the word *navavāstva*, it is open to doubt whether this Bṛhadratha is a different person, or whether the word *bṛhadratha* (a great charioteer) is an adjective of *navavāstva*. Mainly, about Navavāstva and Bṛhadratha we do not find any more in the Ṛgveda."
+
+**turvītim** — "This word is read in the ṛk now in question; in the ṛks [1-54-6 [?]; 1-112-23 [?]] [also] the word *turvīti* [is read], and the word *turvītaye* [is read] only in the ṛks 1-61-11 [?]; 2-13-12 [?]; 4-19-6 [?]. In some contexts this word is used together with the name of a person named *Vayya*. In some of the above ṛks it is said that Indra helped Turvīti and Vayya to cross the course of a river; **Ludwig** and some other Western scholars take this Turvīti to be the king of the tribes Turvaśa and Yadu. But there is no proof to support that. It may only be said that he was also one of the Turvaśa tribe."
+
+- **dasyave sahaḥ** — "as the bhāṣyakāra says, [Agni] who overcomes the thief."
+
+**Vyākaraṇa-prakriyā** *(p. 244, PDF 258 — grammar page, noted briefly)*
+- **nayat**: root *ṇīñ prāpaṇe*, of the first class; *leṭ*, *tip*; *leṭo 'ḍāṭau* — लेटोऽडाटौ — [Pā. 3-4-94]: *aṭ* for the *leṭ*-ending; *itaś ca lopaḥ parasmaipadeṣu* — इतश्च लोपः परस्मैपदेषु — [Pā. 3-4-97]: the *i* of the ending is lost; *śap*; *ato guṇe* — the two *a*'s [of *aṭ* and *śap*] take *pararūpa*; *guṇa*; *ay*-substitution.
+- **navavāstvam**: *navaṃ vāstu yasya saḥ* — "he who has a new dwelling": the sense of the parts; here it applies only to the name; the second case singular *am*: *navavāstu + am*; *amipūrvaḥ* — अमि पूर्वः — [Pā. 6-1-107]: before *am* the *pūrvarūpa* comes for *ak*-final bases, but "*vā chandasi*" [Pā. 6-1-106] is carried on, so in the Veda it is optional: hence it does not arise, and the *yaṇ*-substitution comes.
+- **bṛhadratham**: by the nature of a bahuvrīhi the first member keeps its natural accent. Rik 18 ends here (*|| 18 ||*).
+
+### Rik 36.19 (pp. 244–247, PDF 258–261)
+
+**Saṃhitā-pāṭha** *(p. 244; accents not reproduced)*
+
+> **नि त्वामग्ने मनुर्दधे ज्योतिर्जनाय शश्वते ।**
+> **दीदेथ कण्व ऋतजात उक्षितो यं नमस्यन्ति कृष्टयः ॥ १९ ॥**
+
+*ni tvām agne manur dadhe jyotir janāya śaśvate |*
+*dīdetha kaṇva ṛtajāta ukṣito yaṃ namasyanti kṛṣṭayaḥ || 19 ||*
+
+**Pada-pāṭha** *(p. 244)*
+
+> नि । त्वाम् । अग्ने । मनुः । दधे । ज्योतिः । जनाय । शश्वते ॥
+> दीदेथ । कण्वे । ऋतऽजातः । उक्षितः । यम् । नमस्यन्ति । कृष्टयः ॥ १९ ॥
+
+*ni | tvām | agne | manuḥ | dadhe | jyotiḥ | janāya | śaśvate ||*
+*dīdetha | kaṇve | ṛta-jātaḥ | ukṣitaḥ | yam | namasyanti | kṛṣṭayaḥ || 19 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 245; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने ज्योतिः प्रकाशरूपं त्वां शश्वते बहुविधाय जनाय मनुः प्रजापतिर्नि दधे । देवयजनदेशे स्थापितवान् । हे अग्ने त्वमृतजात ऋतेन यज्ञेन निमित्तभूतेनोत्पन्न उक्षितो हविर्भिस्तर्पितः सन् कण्वे एतन्नामके महर्षौ दीदेथ । दीप्तवानसि । यमग्निं कृष्टयो मनुष्याः । कृष्टयश्चर्षणय इति मनुष्यनामसु पठितत्वात् । नमस्यन्ति नमस्कुर्वन्ति । स त्वमिति पूर्वत्रान्वयः ॥
+
+*he agne jyotiḥ prakāśarūpaṃ tvāṃ śaśvate bahuvidhāya janāya manuḥ prajāpatir ni dadhe | devayajanadeśe sthāpitavān | he agne tvam ṛtajāta ṛtena yajñena nimittabhūtenotpanna ukṣito havirbhis tarpitaḥ san kaṇve etannāmake maharṣau dīdetha | dīptavān asi | yam agniṃ kṛṣṭayo manuṣyāḥ | kṛṣṭayaś carṣaṇaya iti manuṣyanāmasu paṭhitatvāt | namasyanti namaskurvanti | sa tvam iti pūrvatrānvayaḥ ||*
+
+**Translation:** "O Agni — *jyotiḥ*, of the form of light — *tvām*, you, for *śaśvate janāya*, for the many-kinded people, Manu Prajāpati *ni dadhe* — established, at the place of the divine sacrifice. O Agni, you, *ṛtajātaḥ* — born of the *ṛta*, the sacrifice, as the cause — *ukṣitaḥ*, sated with the oblations, *kaṇve*, in the great ṛṣi so named, *dīdetha* — have shone. *Yam* — which Agni — *kṛṣṭayaḥ*, men (*kṛṣṭayaḥ*, *carṣaṇayaḥ* being read among the names for 'men') — *namasyanti*, make obeisance to. That you — the connection with the preceding."
+
+**Grammar within the bhāṣya** *(pp. 245, characterized)*: *dīdetha* (*dīdī dīptau*, Vedic; *liṭ*, *sip* → *thal*; in the section on doubling a rule *chandasi vā* [as printed "*thali dvirvacanaprakaraṇe chandasi vā vaktavyam*", a Kāśikā remark, Pā. 6-4-[?] [?]] — doubling optional in the Veda; so no doubling; no *iṭ*, since the rule on augments is not constant; the syllable before the *lit*-suffix is acute); *ṛtajātaḥ* (*ṛte janyate*; *śvīdito niṣṭhāyām*: no *iṭ*; *janasanakhanāṃ…*: *ā* for the *n*; first-member accent of an instrumental compound); *namasyanti* (*namovarivaś citraṅaḥ kyac*); *kṛṣṭayaḥ* (*kṛṣa vilekhane*, *ktic ktau ca saṃjñāyām*).
+
+**Pratipadārtha** *(p. 245)* — "**agne** — O Agni; **jyotiḥ** — of the nature of light; **tvām** — you; **śaśvate** — for the sake of many kinds; **janāya** — of people (for their help); **manuḥ** — Manu Prajāpati; **ni dadhe** — established [at the sacrificial ground]; **yam** — whom; **kṛṣṭayaḥ** — men; **namasyanti** — worship with obeisance; **ṛtajātaḥ** — [you, the cause being] born of the sacrifice; **ukṣitaḥ** — satisfied by the oblation; **kaṇve** — in the great ṛṣi Kaṇva; **dīdetha** — [graciously] have shone."
+
+**Bhāvārtha** *(p. 245)* — "O Agni, giving light and strength to the many kinds of people of the world, Manu Prajāpati established you at the sacrificial ground in order to help them. Remembering your help, all men do obeisance to you and worship you. You are born of the sacrifice, and are the cause of it. The sage Kaṇva, offering oblations in the sacrifice, has satisfied you. Satisfied, you have shone upon him with your grace."
+
+**English Translation (the source's own, p. 246)** — "O Agni, Manu established you as a light for all people ; born of sacrifice, Agni, whom men adore shone brighly in the house of Kanva." *("brighly" [sic]; "the house of Kanva" for *kaṇve*; the print has no raised dot here.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 246**
+- **manuḥ** — "Prajāpati; the explanation of this word was given earlier."
+- **janāya śaśvate** = *bahuvidhāya janāya*: "for people of many kinds."
+- **ṛtajātaḥ** = *ṛtena yajñena nimittabhūtenotpannaḥ*: "*ṛta* means sacrifice; since he is born because of the sacrifice, Agni has the name *ṛtajāta*."
+- **ukṣitaḥ** = *havirbhis tarpitaḥ*: "satisfied by the *pavitra* [kuśa-grass sprinkling] and the like."
+- **dīdetha** = *dīptavān asi*; *saṃtuṣṭo 'si*: "you shine with delight; you are pleased."
+- **kṛṣṭayaḥ** = *manuṣyāḥ*: "since the word *kṛṣṭayaḥ* is read among the twenty-five names of men beginning with *nṛ*, *narāḥ* (Ni. 2-2 [?]), *kṛṣṭayaḥ* means men."
+
+**Vyākaraṇa-prakriyā** *(pp. 246–247, PDF 260–261 — grammar pages, noted briefly)*
+- **dīdetha** (p. 246): root *dīdī dīptau*, used only in the Veda; *liṭ*, *sip*; *parasmaipadānāṃ ṇalatusus…*: *thal*; "in the sūtra *liṭi dhātor anabhyāsasya* the Kāśikā-authors say that, in the section on doubling, one must say *chandasi vā*, 'optionally in the Veda'; so there is no doubling"; "since *āgamaśāstram anityam*, no *iṭ*"; *dīdī + tha*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; by *liti* [Pā. 6-1-193] the syllable before the suffix is acute.
+- **ṛtajātaḥ**: *ṛta* is sacrifice; root *janī prādurbhāve*, *īdit*; *ṛtena jāyate ayam*; *niṣṭhā*, *kta* in the passive; *śvīdito niṣṭhāyām* — श्वीदितो निष्ठायाम् — [Pā. 7-2-14]: *kta* and *ktavatu* take no *iṭ* after *śvi* and *īdit* roots; *janasanakhanāṃ sañjhaloḥ* — [Pā. 6-4-42]: *ā* for the final of *jan*, *san*, *khan* before *jhal*-initial *san* or *kit*/*ñit* suffix: *jā + ta*; *tṛtīyā karmaṇi* [Pā. 6-2-48]: the first member in the third case keeps its natural accent.
+- **namasyanti** (p. 247): *namovarivaścitraṅaḥ kyac* — नमोवरिवश्चित्रङः क्यच् — [Pā. 3-1-19]: *kyac* after *namas* in the sense of worship, after *varivas* in the sense of service, after *citra* in the sense of wonder; so *kyac* after *namas*: *namasya*, ending in *kyac*; *sanādyantā dhātavaḥ* — [Pā. 3-1-32]: so it is a root; *laṭ*, *jhi* → *ant*; *śap*; the *jha* [i.e. *ant*] is unaccented because it stands after an *anudātta*-marked [*anupadeśa*] *śap*; the *kyac*-ending root is acute by the root accent.
+- **kṛṣṭayaḥ**: *kṛṣa vilekhane* ["to draw a line"]; *ktic ktau ca saṃjñāyām* — *ktic*; *kṛṣ + ti*; *ṣṭutva*. Rik 19 ends here (*|| 19 ||*).
+
+### Rik 36.20 (p. 247 foot, PDF 261–)
+
+**Saṃhitā-pāṭha** *(p. 247; accents not reproduced)*
+
+> **त्वेषासो अग्नेरमवन्तो अर्चयो भीमासो न प्रतीतये ।**
+> **रक्षस्विनः सदमिद्यातुमावतो विश्वं समत्रिणं दह ॥ २० ॥**
+
+*tveṣāso agner amavanto arcayo bhīmāso na pratītaye |*
+*rakṣasvinaḥ sadam id yātumāvato viśvaṃ sam atriṇaṃ daha || 20 ||*
+
+**Pada-pāṭha** *(the first line at the foot of p. 247; the second on p. 248, not yet written)*
+
+> त्वेषासः । अग्नेः । अमऽवन्तः । अर्चयः । भीमासः । न । प्रतिऽइतये ।
+
+*tveṣāsaḥ | agneḥ | ama-vantaḥ | arcayaḥ | bhīmāsaḥ | na | prati-itaye |*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 236 (PDF 250) reached; Riks 36.1–36.16 complete; Rik 36.17's Saṃhitā and Pada written (foot of p. 236).**
+---
+
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 247 (PDF 261) reached; Riks 36.1–36.19 complete; Rik 36.20's Saṃhitā and the first line of its Pada written (foot of p. 247).**
 
 **Plan agreed with the user:** do Sūkta 36 and then Sūkta 37 in the same session, stopping at the end of Sūkta 37.
 
-**Next task:** continue at printed p. 236 foot / p. 237 (PDF 251) with Rik 36.17's bhāṣya (re-view the last lines of p. 236), then Riks 18–20 and the close of Sūkta 36. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264) — the contents table says Sūkta 37 begins about p. 251, check; Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 250 -l 320 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 248 (PDF 262) with the rest of Rik 36.20's Pada, its bhāṣya etc. and the close of Sūkta 36; then Sūkta 37. Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 262 -l 330 Rig_Vol4.pdf /tmp/x/v`. The contents table puts Sūkta 37 at about p. 251; check.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) and of Medhyātithi's ṛks (Rik 10) are partly uncertain; (5) the grammar notes of Riks 1–16 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ*, *ghnantaḥ*, *śocasva*, *īdhe*, *dīdiyuḥ*, *pūrdhi*, *vihvayāmahe*, *atriṇam*, *jighāṃsataḥ*, *śiśīte*) are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words: Rik 8 (*apaḥ* clause, *bhuvat*), Rik 9 (*utkṛṣṭa*), Rik 11 (the opening phrase), Rik 12 (the printed "*svadhā arka*", which does not suit the sense), Rik 13 (*vahadbhiḥ* [?]), Rik 16 (a damaged conjunct after "*ādātṝn*"); (7) the Ṛgveda quotations on *vṛṣā* (Rik 10) and on the *yūpa* (Rik 13) in the Special Topics are crowded and given as read, with tentative glosses of mine; (8) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (9) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained", Rik 13 "annointing", Rik 15 "Youthfull".
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read — in Rik 18's Special Topics (the Turvaśa/Yadu quotations, pp. 240–243) all Ṛgveda, Brāhmaṇa and Āraṇyaka references are in small Kannada digits and are given as read with [?]; the glosses I give for those untranslated quotations are mine and tentative; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) and of Medhyātithi's ṛks (Rik 10) are partly uncertain; (5) the grammar notes of Riks 1–19 are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words: Rik 8 (*apaḥ* clause, *bhuvat*), Rik 9 (*utkṛṣṭa*), Rik 11 (the opening phrase), Rik 12 (the printed "*svadhā arka*", which does not suit the sense), Rik 13 (*vahadbhiḥ* [?]), Rik 16 (a damaged conjunct after "*ādātṝn*"); (7) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (8) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained", Rik 13 "annointing", Rik 15 "Youthfull", Rik 19 "brighly".
