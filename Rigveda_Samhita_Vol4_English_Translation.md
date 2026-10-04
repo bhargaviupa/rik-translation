@@ -3776,12 +3776,244 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Page 252 (PDF 266) — heading of Sūkta 37 and Rik 37.1
+
+**॥ ॐ ॥**
+
+> **सूक्त — ३७**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ३७ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — १२ [?], १३, १४ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — मरुतः ॥
+> ॥ छन्दः — गायत्री ॥
+
+*sūkta 37 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 12 [?], 13, 14 | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
+
+**Translation of the heading:** "Sūkta 37; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga 12 [?], 13, 14; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
+
+### Rik 37.1 (pp. 252–257, PDF 266–271)
+
+**Saṃhitā-pāṭha** *(p. 252; accents not reproduced)*
+
+> **क्रीळं वः शर्धो मारुतमनर्वाणं रथेशुभम् ।**
+> **कण्वा अभि प्र गायत ॥ १ ॥**
+
+*krīḷaṃ vaḥ śardho mārutam anarvāṇaṃ ratheśubham |*
+*kaṇvā abhi pra gāyata || 1 ||*
+
+**Pada-pāṭha** *(p. 252)*
+
+> क्रीळम् । वः । शर्धः । मारुतम् । अनर्वाणम् । रथेऽशुभम् ॥
+> कण्वाः । अभि । प्र । गायत ॥ १ ॥
+
+*krīḷam | vaḥ | śardhaḥ | mārutam | anarvāṇam | rathe-śubham ||*
+*kaṇvāḥ | abhi | pra | gāyata || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 252–253; the first half in full, the grammatical tail characterized)*
+
+> हे कण्वाः कण्वगोत्रोत्पन्ना महर्षयः । यद्वा । मेधाविन ऋत्विजः । वो युष्मदर्थं मारुतं मरुत्समूहरूपं शर्धो बलमभि प्र गायत । आभितः प्रकर्षेण स्तुत्ध्वम् । कीदृशं शर्धः । क्रीळं विहरणशीलम् अनर्वाणं भ्रातृव्यरहितम् । अत एव श्रुत्यन्तरब्राह्मणेन मन्त्रान्तरमेव व्याख्यातम् । अनर्वा प्रेहीत्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्यै इति । रथेशुभं स्वकीये रथेऽवस्थाय शोभमानम् ॥
+
+*he kaṇvāḥ kaṇvagotrotpannā maharṣayaḥ | yadvā | medhāvina ṛtvijaḥ | vo yuṣmadarthaṃ mārutaṃ marutsamūharūpaṃ śardho balam abhi pra gāyata | ābhitaḥ prakarṣeṇa stutdhvam | kīdṛśaṃ śardhaḥ | krīḷaṃ viharaṇaśīlam anarvāṇaṃ bhrātṛvyarahitam | ata eva śrutyantarabrāhmaṇena mantrāntaram eva vyākhyātam | anarvā prehīty āha bhrātṛvyo vā arvā bhrātṛvyāpanutyai iti | rathe-śubhaṃ svakīye rathe 'vasthāya śobhamānam ||*
+
+*(Reading note: "stutdhvam" is as printed. The Brāhmaṇa quotation "anarvā prehīty āha…" is read with some doubt.)*
+
+**Translation:** "O *kaṇvāḥ* — great ṛṣis born in the family (*gotra*) of Kaṇva, or, otherwise, wise priests — *abhi pra gāyata* — sing out, praise greatly, on all sides, for yourselves, *mārutam śardhaḥ* — the strength (*śardhas*) of the Maruts, in the form of the host of Maruts. What sort of *śardhas*? *Krīḷam* — given to sport (*viharaṇaśīlam*); *anarvāṇam* — without a rival (*bhrātṛvya*). For this very reason another mantra has been explained by another Vedic Brāhmaṇa: '*anarvā, go forward*, he says: the *arvan* [is] a rival — for the removal of the rival.' *Rathe-śubham* — shining, standing in their own chariot."
+
+**Grammar within the bhāṣya** *(p. 253, characterized)*: *krīḷam* (*krīḍṛ vihāre*, the *pacādi* suffix *ac*; *ḍ* → *ḷ* between two vowels, by the Bahvṛca tradition); *śardhaḥ* (*śṛdhu prasahane*; *śardhayaty anena śatrūn*; *asun*; *nit*, so first-syllable acute); *mārutam* (*marutām idam*, *tasyedam*: *aṇ*; the accent first-syllable by *vyatyaya*; or *anudātte… añ* in the sense of "collection"); *anarvāṇam* (masculine by *vyatyaya* instead of neuter; *nañsubhyām*: the later member final-acute); *rathe-śubham* (*śubha dīptau*, *rathe śobhate*: *rathe-śubh*, *kvip*; *tatpuruṣe kṛti bahulam*: the locative is not elided; the later member of a *kṛt*-compound keeps its accent); *gāyata* (*kai gai rai śabde*; *tiṅ ṅatiṅaḥ*: the lowering).
+
+**Pratipadārtha** *(p. 253)* — "**kaṇvāḥ** — O sages born in the line of the ṛṣi Kaṇva, or O wise priests; **vaḥ** — for you (for your good); **krīḷam** — [that] is fond of sport; **anarvāṇam** — [that] has no rival; **rathe-śubham** — [that] shines seated in its own chariot; **mārutam** — [that] has the nature of the group of Maruts; **śardhaḥ** — the strength; **abhi pra gāyata** — sing praise well on all sides."
+
+**Bhāvārtha** *(p. 253)* — "O sages born in the line of Kaṇva, the Marut deities, endowed with great strength, enjoy themselves seated in their splendid, unobstructed chariots. Praise the host of those Marut deities well with hymns and the like."
+
+**English Translation (the source's own, p. 253)** — "Celebrate, Kanwas, the aggregate strength of the maruths, sportive, free from enemies and shining in their car·" *(Printed so, with "maruths" in lower case; the print ends with a raised dot.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 253–256**
+
+**marutaḥ** — "Yāska's explanation of the word *marutaḥ* is as follows:"
+
+> मरुतो मितराविणो वा मितरोचिनो वा महद्द्रवन्तीति वा । (नि. ११-१३ [?])
+
+*maruto mitrāviṇo vā mitarocino vā mahad dravantīti vā | (ni. 11-13 [?])*
+
+"*Mita* means 'well joined': because they sound well-joined — that is, 'resounding, blowing' — or because they shine well, or because they sound abundantly: from this they are called *marutaḥ*. Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *mitarāviṇaḥ* [*amitarāviṇaḥ*, as read], and explain *amita* as 'very many', and *rāviṇaḥ* as 'sounding'; and in the same way, dividing *amitarocinaḥ*, they take the sense 'shining much'." *(Translation of the Nirukta sentence mine and tentative; the Sanskrit is as read, with [?] on its numeral.)*
+
+"The Marut deities are praised together with Indra in many contexts. Since there is the praise of Indra in the ṛk '*marudbhir indra sakhyaṃ te astu*' (Ṛg. 8-[?]-[?] [?]), they too have a status like Indra's. In the Ṛgveda thirty-three sūktas are wholly addressed to the Maruts. Besides, there are seven sūktas where they are praised together with Indra, and one each where they are praised with Pūṣan and with Agni. These Marut deities are many. In some places it is said '*trisaptaiḥ*' (Ṛg. 1-133-6 [?]), that is, three groups of seven each; in other places '*tri ṣaṣṭis tvā maruto*' (Ṛg. 8-96-8 [?]), that is, that there are Marut deities numbering sixty [-three]. They are also said to be the sons of Rudra, and so they are called by the name *Rudriyāḥ*. To these Marut deities Pṛśni (the cow of the heavenly world) is [their] mother, and so they are called *pṛśnimātaraḥ*, 'those whose mother is Pṛśni'; here *Pṛśni* may mean the clouds. When clouds shed rain, the wind commonly blows swiftly and with a sound; so the name may have come to these deities. They are also said to be born of lightning and of the cloud, born of the wind and of heaven, and self-born. A deity named Rodasī is said to be their wife, and Indrāṇī and Sarasvatī are said to have a special connection with them."
+
+"The abode of the Marut deities is in the three worlds, heaven, mid-region and earth. Their connection is chiefly with the rain that comes in lightning and thunder, and so it is the established usage to call them very brilliant. Lightning is their weapon. There are many descriptions: they wear golden ornaments on the head, feet, breast and other limbs, and hold a spear [*ṛṣṭi*] in the hand; and there is the description of their travelling seated in a chariot to which spotted deer [*spotted deer*, the print's English] are yoked."
+
+"These Marut deities are youths, handsome, young; cruel like wild beasts, and yet they are engaged in sport like children. The sound of their travelling is terrible like thunder. They bring rain with them. A famous river named Marutvṛdhā is a witness to their exploits [as read]. The rain they bring is called by various names, *jenutupa*, milk, *tuppa*, and the like. It is also said that, besides bringing rain, they make the mountains shake. Their song gives strength to Indra at the time of Vṛtra's slaughter. In various places they are described as drinking soma, as singing, and as taking part in sacrifices. The chief act of the Marut deities is the help given to Indra when he slew Vṛtra. In some places, though they are addressed as sons or brothers of Indra, there are one or two sūktas (Ṛg. 1-165 [?]; 1-170 [?]) which say that on certain principal occasions they left Indra without help and that Indra, for that reason, took up revenge upon them and was ready to slay them, and that the sage Agastya had to pacify Indra with much effort."
+
+"In connection with Rudra's being with the Maruts there is a description that they use their weapons, the spear and the thunderbolt (Ṛg. 2-[?]-[?] and others, as read, not secure)."
+
+"In the matter of sacrificial ceremonies, especially in the soma sacrifice, there are many differences between the Marut deities and the god Vāyu. Vāyu is called in the *prātaḥsavana*; the Maruts are invoked in the midday and third pressings. In the sacrifice called *cāturmāsya* the vessel of the Maruts is special."
+
+"Let us consider briefly the nature of the Marut deities. The difference between Vāyu and the Maruts is this: Vāyu is the ordinary blowing wind; the Maruts are the wind that, in the rainy season, comes with thunder, lightning and clouds, together with great rain and a loud and terrible blast. Hence, descriptions of many kinds are found: that the Marut deities shine, that they sound, that they are cruel, that they have great strength and power, that they are the sons of the mid-region (heaven), and that they are always engaged in sport, since they blow always in the mid-region."
+
+**krīḷam** = *viharaṇaśīlam*: "fond of play; engaged in games and wandering about."
+
+**śardhaḥ** — "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 2-9 [?]), *śardhaḥ* means strength or valour."
+
+**mārutam** = *marutsamūham*: "since the Marut deities are always many, they are addressed in the plural only. Here the singular *mārutam* means 'the host of the Maruts'."
+
+**anarvāṇam** = *bhrātṛvyarahitam*: "without enemies. To show how this sense follows from the word, the bhāṣyakāra has cited the Brāhmaṇa sentence '*anarvā prehīty āha | bhrātṛvyo vā arvā | bhrātṛvyāpanutyai*' [as read]. Some Western scholars have explained the word *anarvāṇam* differently: *arvā* means a horse; *anarvā* means those who have no horses. Since the chariot of the Marut deities has no horses harnessed to it, but is drawn by the spotted deer, *pṛṣatīḥ*, they hold that these deities are called *anarvāṇa*."
+
+**rathe-śubham** — "shining seated in their own chariot."
+
+**kaṇvāḥ** — "the Kaṇvas are those born in the line of the ṛṣi Kaṇva."
+
+**abhi pra gāyata** — "all together, join and sing the praises of the Maruts in a loud voice: such is the sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 256–257, PDF 270–271 — grammar pages, noted briefly)*
+- **krīḷam**: root *krīḍṛ vihāre*, class 1; *pacādi* *ac*; "the *ḍ* between two vowels becomes *ḷ* by the Bahvṛca tradition".
+- **śardhaḥ**: root *śṛdhu prasahane*, class 10 [as read]; *śardhayaty anena śatrūn* — "by this one overcomes enemies" — *balam*; the Uṇādi *asun*; *laghūpadha-guṇa*, *raparatva*; *ñnityādir nityam* — first-syllable acute.
+- **mārutam**: *marutām idam*; *tasyedam* — तस्येदम् — [Pā. 4-3-120]: after a sixth-case form, in the sense "this belongs to him", *aṇ* and the other general suffixes, and, by the enjoined rule *rāṣṭrāvāra…*, the suffixes *gha* etc.; so *aṇ*; first-syllable acute by *vyatyaya* in the suffix-accent; or, in the sense of collection, *anudāttādeḥ añ* — अनुदात्तादेरञ् — [Pā. 4-3-140]: *añ* after a word that begins with an unaccented syllable and ends in the sixth case: *marutāṃ samūhaḥ*; *marut* is from the Uṇādi *mṛgror uti* — मृगोरुतिः — [Uṇ. 1-94]: *uti* after *mṛṅ prāṇatyāge* and *gṝ nigaraṇe*; *mṛ + uti*, *guṇa*, *raparatva*; the *u* is acute by the suffix-accent, the rest unaccented: this *marut* is *anudāttādi*.
+- **anarvāṇam**: "this is an adjective of *śardhaḥ*; the masculine appears in place of the neuter; *nañsubhyām* [Pā. 6-2-172]: the later member is final-acute."
+- **rathe-śubham**: root *śubha dīptau*; *rathe śobhate* — *rathe-śubh*; *kvip ca*; *tatpuruṣe kṛti bahulam* — तत्पुरुषे कृति बहुलम् — [Pā. 6-3-14]: in a *tatpuruṣa*, before a *kṛdanta* second member, the seventh case is not elided, in many cases; so *aluk*; the *kṛdanta* second member keeps its natural accent.
+- **gāyata**: root *kai gai rai śabde*; *tiṅ ṅatiṅaḥ* — wholly unaccented. Rik 1 ends here (*|| 1 ||*).
+
+### Rik 37.2 (pp. 257–260, PDF 271–274)
+
+**Saṃhitā-pāṭha** *(p. 257; accents not reproduced)*
+
+> **ये पृषतीभिर्ऋष्टिभिः साकं वाशीभिरञ्जिभिः ।**
+> **अजायन्त स्वभानवः ॥ २ ॥**
+
+*ye pṛṣatībhir ṛṣṭibhiḥ sākaṃ vāśībhir añjibhiḥ |*
+*ajāyanta svabhānavaḥ || 2 ||*
+
+**Pada-pāṭha** *(p. 257)*
+
+> ये । पृषतीभिः । ऋष्टिऽभिः । साकम् । वाशीभिः । अञ्जिऽभिः ॥
+> अजायन्त । स्वऽभानवः ॥ २ ॥
+
+*ye | pṛṣatībhiḥ | ṛṣṭi-bhiḥ | sākam | vāśībhiḥ | añji-bhiḥ ||*
+*ajāyanta | sva-bhānavaḥ || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 258; the first half in full, the grammatical tail characterized)*
+
+> ये मरुतः पृषत्यादिभिः साकं स्वभानवः स्वकीयदीप्तियुक्ता अजायन्त इति सम्पन्नाः । पृषत्यो बिन्दुयुक्ता मृग्यो मरुद्वाहनभूताः । पृषत्यो मरुतामिति निघण्टावुक्तत्वात् । ऋष्टय आयुधानि । वाश्यः शब्दविशेषाः परकीयसेनाभीतिहेतवः । वाशी वाणीति वाङ्नामसु पठितत्वात् । आञ्जयोऽलंकरणानि । तान् स्तुम इति शेषः ॥ अजायन्त । जनीप्रादुर्भावे । श्यन् ज्ञाजनोर्जा । इति जादेशः । अडागम उदात्तः । स्वभानवः । स्वकीया भानवो येषाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*ye marutaḥ pṛṣatyādibhiḥ sākaṃ svabhānavaḥ svakīyadīptiyuktā ajāyanteti sampannāḥ | pṛṣatyo binduyuktā mṛgyo marudvāhanabhūtāḥ | pṛṣatyo marutām iti nighaṇṭāv uktatvāt | ṛṣṭaya āyudhāni | vāśyaḥ śabdaviśeṣāḥ parakīyasenābhītihetavaḥ | vāśī vāṇīti vāṅnāmasu paṭhitatvāt | āñjayo 'laṃkaraṇāni | tān stuma iti śeṣaḥ || ajāyanta | janī prādurbhāve | śyan jñājanor jā | iti jādeśaḥ | aḍāgama udāttaḥ | svabhānavaḥ | svakīyā bhānavo yeṣām | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+
+**Translation:** "The Maruts who, together with *pṛṣatībhiḥ* and the rest, *ajāyanta* — came into being, *svabhānavaḥ* — furnished with their own radiance. *Pṛṣatyaḥ* — spotted does, the vehicles of the Maruts (since '*pṛṣatyo marutām*' is said in the Nighaṇṭu). *Ṛṣṭayaḥ* — weapons. *Vāśīḥ* — particular sounds that are the cause of fear for an enemy army; since *vāśī*, *vāṇī* are read among the words for speech. *Añjayaḥ* — ornaments. Them we praise: so it is to be supplied."
+
+**Grammar within the bhāṣya** *(p. 258, characterized)*: *ajāyanta* (*janī prādurbhāve*; *divādi*, *ātmanepada*, *laṅ*, *jha* → *ant*; *śyan*; *jñājanor jā*: *jā* in place of *jan*; the augment *aṭ* is acute); *svabhānavaḥ* (a bahuvrīhi; the first member keeps its accent).
+
+**Pratipadārtha** *(p. 258)* — "**svabhānavaḥ** — [those] endowed with their own radiance; **ye** — which Maruts; **pṛṣatībhiḥ sākam** — together with the spotted does, their vehicles; **ṛṣṭibhiḥ** — with sharp weapons; **vāśībhiḥ** — with war-cries [terrible to enemies]; **añjibhiḥ** — with ornaments; **ajāyanta** — are born [we praise the power of such hosts of Maruts]."
+
+**Bhāvārtha** *(p. 258)* — "The Marut deities shine with their own radiance. Bearing weapons that destroy enemies, raising war-cries, yoking the spotted does, they travel seated in their chariots, adorned with various ornaments. [Praise the virtues of the Marut deities.]"
+
+**English Translation (the source's own, p. 258)** — "( Praise ) the self-luminous Maruths, borne by spotted deer, with weapons, war-cries and decorations·" *(Printed so, with "Maruths"; the print ends with a raised dot.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 258–259**
+- **pṛṣatībhiḥ** — "Yāska, in regard to the vehicles and so on of some deities, says:"
+
+> हरी इन्द्रस्य । रोहिताग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुताम् । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥ (नि. १-२-८ [?])
+
+*harī indrasya | rohitāgneḥ | harita ādityasya | rāsabhāv aśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutām | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ || (ni. 1-2-8 [?])*
+
+"*Harī* [is the name of the two horses] of Indra; *rohitā* of Agni; *haritaḥ* — [as in] '*bhadrā aśvā haritaḥ sūryasya*' (Ṛg. 1-115-3 [?]) — of Āditya; *rāsabhau*, the two asses, of the Aśvins; *ajāḥ*, the she-goats, of Pūṣan; *pṛṣatyaḥ*, the spotted does, of the Maruts; *aruṇyaḥ gāvaḥ*, the red cows, of Uṣas; *śyāvāḥ*, brown or tawny horses, of Savitṛ; *viśvarūpāḥ* of Bṛhaspati; *niyutaḥ* of Vāyu: these are the names of their vehicles. Hence the does that are the Maruts' horses are called here by the word *pṛṣatībhiḥ*." *(Translation of the Nirukta passage mine and tentative; the print also gives the English glosses 'spotted deer' and 'brown or tawny horses'.)*
+- **ṛṣṭibhiḥ** = *āyudhaiḥ*: "with weapons."
+- **vāśībhiḥ** — "since *vāśī* is read among the fifty-nine names for speech beginning *vāk*, *dhārā* (Ni. 1-11 [?]), *vāśībhiḥ* means 'with sounds'. The bhāṣyakāra says here: 'with terrible sounds, or with war-cries that frighten enemies'."
+- **añjibhiḥ** — "furnished with ornaments."
+- **svabhānavaḥ** = *svakīyā bhānavo yeṣāṃ te svabhānavaḥ*: "those who shine by their own light."
+
+**Vyākaraṇa-prakriyā** *(p. 259, PDF 273 — grammar page, noted briefly)*
+- **ajāyanta**: root *janī prādurbhāve*, *divādi*, *ātmanepada*; *laṅ*, *jha*, *ant* [by *jho 'ntaḥ*]; *divādibhyaḥ śyan*; the augment *aṭ*; *ajan + ya + anta*; *jñājanor jā* — ज्ञाजनोर्जा — [Pā. 7-3-79]: *jā* in place of *jñā* and *jan* before a *śit* suffix: *ajāya + anta*; *pararūpa*; the augment *aṭ* is acute.
+- **svabhānavaḥ**: *svakīyāḥ bhānavaḥ yeṣāṃ te*, a bahuvrīhi: "whose light is their own"; the first member keeps its natural accent. Rik 2 ends here (*|| 2 ||*).
+
+### Rik 37.3 (pp. 260–262, PDF 274–276)
+
+**Saṃhitā-pāṭha** *(p. 260; accents not reproduced)*
+
+> **इहेव शृण्व एषां कशा हस्तेषु यद्वदान् ।**
+> **नि यामञ्चित्रमृञ्जते ॥ ३ ॥**
+
+*iheva śṛṇva eṣāṃ kaśā hasteṣu yad vadān |*
+*ni yāmañ citram ṛñjate || 3 ||*
+
+**Pada-pāṭha** *(p. 260)*
+
+> इहऽइव । शृण्वे । एषाम् । कशाः । हस्तेषु । यत् । वदान् ॥
+> नि । यामन् । चित्रम् । ऋञ्जते ॥ ३ ॥
+
+*iha-iva | śṛṇve | eṣām | kaśāḥ | hasteṣu | yat | vadān ||*
+*ni | yāman | citram | ṛñjate || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 260; the first half in full, the grammatical tail characterized)*
+
+> एषां मरुतां हस्तेषु स्थिताः कशाः स्वस्ववाहनताडनहेतवो यद्वदान् यद्वदन्ति यं ध्वनिं कुर्वन्ति तं ध्वनिमिहेवात्रेव स्थित्वा शृण्वे । शृणोमि । स ध्वनिविशेषो यामन् संग्रामे चित्रं विविधं शौर्यं न्यृञ्जते । नितरामलंकरोति । ऋजन्तिः प्रसाधनकर्मेति यास्कः । नि. ६-२० [?] ॥
+
+*eṣāṃ marutāṃ hasteṣu sthitāḥ kaśāḥ svasvavāhanatāḍanahetavo yad vadān yad vadanti yaṃ dhvaniṃ kurvanti taṃ dhvanim ihevātreva sthitvā śṛṇve | śṛṇomi | sa dhvaniviśeṣo yāman saṃgrāme citraṃ vividhaṃ śauryaṃ ny ṛñjate | nitarām alaṃkaroti | ṛjantiḥ prasādhanakarmeti yāskaḥ | ni. 6-20 [?] ||*
+
+**Translation:** "The whips (*kaśāḥ*) held in the hands of these Maruts, which are the means of whipping their own vehicles, *yad vadān* — make a sound — that sound I, standing as it were *iha* — right here — *śṛṇve*, hear. That particular sound, *yāman* — in battle — *citram*, manifold, *śauryam*, valour, *ny ṛñjate* — adorns thoroughly (*ṛjanti* being, says Yāska, a verb of *prasādhana* [= adorning, accomplishing]; Ni. 6-20 [?])."
+
+**Grammar within the bhāṣya** *(p. 260, characterized)*: *śṛṇve* (*śru śravaṇe*; *vyatyaya*: *ātmanepada*; *śruvaḥ śṛ ca*: *śnu* for *śap* and *śṛ* for *śru*; *huśnuvoḥ sārvadhātuke*: *yaṇ*); *vadān* (*vada vyaktāyāṃ vāci*; *leṭ*, the augment *aṭ*; *itaś ca lopa*; the loss of the final conjunct; the root's accent; *yadvṛttayogād anighātaḥ*); *yāman* (the seventh-case singular dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ*: no loss of the *n*); *ṛñjate* (*ṛji bhṛjī bharjane*, in the sense of *prasādhana*).
+
+**Pratipadārtha** *(pp. 260–261)* — "**eṣām** — of these Maruts; **hasteṣu** — in the hands (which are); **kaśāḥ** — whips [that strike the horses]; **yat vadān** — which make the sound; **iha iva** — standing here, as it were; **śṛṇve** — I hear [that special sound]; **yāman** — in battle; **citram** — manifold and wonderful valour; **ni ṛñjate** — adorns completely (gives incitement to valour)."
+
+**Bhāvārtha** *(p. 261)* — "However far away they may be, the sound of the whips in the hands of these Maruts is heard clearly. As I stand here, I hear the cracking sound of their whips. When I hear it, then in the time of battle our valour grows and is spurred to the crushing of our enemies."
+
+**English Translation (the source's own, p. 261)** — "I hear the cracking of the whips in their hands, wonderfully inspiring courage in the fight·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 261**
+- **kaśā** — "the whip that strikes horses."
+- **kaśā hasteṣu yad vadān** — "the sound of the whips in the hands of the Marut deities."
+- **ihaiva śṛṇva eṣām** — "I hear here, from where I stand, the sound of the whips of those Maruts with which they strike their horses; that is, it is audible to me here."
+- **citram** — "manifold valour, bravery and the like."
+- **ṛñjate** = *ṛji bhṛjī bharjane | ṛjantiḥ prasādhanakarmā* (Ni. 6-[?] [?]): "to favour, to incite; the sound of the whips of the Marut deities incites in us valour, bravery and the like."
+
+**Vyākaraṇa-prakriyā** *(pp. 261–262, PDF 275–276 — grammar pages, noted briefly)*
+- **śṛṇve** (p. 261): root *śru śravaṇe*, class 1; *parasmaipada* gives way to *ātmanepada* by *vyatyaya*; *laṭ*, *iṭ* → *e* [*ṭita ātmanepadānāṃ ṭere*]; *śruvaḥ śṛ ca* — श्रुवः शृ च — [Pā. 3-1-74]: *śnu* in place of *śap* and *śṛ* in place of *śru*: *śṛ + nu + e*; *huśnuvoḥ sārvadhātuke* — हुश्नुवोः सार्वधातुके — [Pā. 6-4-87]: *yaṇ* for the *u* of a *śnu*-ending base of several vowels before a vowel-initial *sārvadhātuka*: *v*.
+- **vadān** (p. 262): root *vada vyaktāyāṃ vāci*; *leṭ*, the third-person plural *jhi*; *jhy*'s *anti* by *jhor antaḥ* [read: *jha* → *ant*]; *śap*; *vad + a + anti*; *leṭo 'ḍāṭau*: the augment *aṭ*; *savarṇadīrgha* for the repeated *a*'s; *itaś ca lopaḥ*: the *i* of *anti* lost; *saṃyogāntasya lopaḥ*: the *t* lost; *śap* is *pit*, so unaccented; *tāsyanudāttenṅid…*: the *lasārvadhātuka* is unaccented as it stands after an *anupadeśa* [*śap*]; the root's accent stays; *yadvṛttānnityam*: no wholly-unaccented, since *yat* is connected.
+- **yāman**: after *yāman* the seventh-case singular *ṅi*, dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ* — न ङिसम्बुद्ध्योः — [Pā. 8-2-8]: the *n* is not lost when *ṅi* or a vocative follows, so *nalopaḥ prātipadikāntasya* is blocked.
+- **ṛñjate**: root *ṛji bhṛjī bharjane*; "here the sense *prasādhana* means *alaṃkāra*; this sense follows from the Nirukta passage *ṛñjatiḥ prasādhanakarmā* (Ni. 6-[?] [?])." Rik 3 ends here (*|| 3 ||*).
+
+### Rik 37.4 (pp. 262–, PDF 276–)
+
+**Saṃhitā-pāṭha** *(p. 262; accents not reproduced)*
+
+> **प्र वः शर्धाय घृष्वये त्वेषद्युम्नाय शुष्मिणे ।**
+> **देवत्तं ब्रह्म गायत ॥ ४ ॥**
+
+*pra vaḥ śardhāya ghṛṣvaye tveṣadyumnāya śuṣmiṇe |*
+*devattaṃ brahma gāyata || 4 ||*
+
+**Pada-pāṭha** *(p. 262)*
+
+> प्र । वः । शर्धाय । घृष्वये । त्वेषऽद्युम्नाय । शुष्मिणे ॥
+> देवऽत्तम् । ब्रह्म । गायत ॥ ४ ॥
+
+*pra | vaḥ | śardhāya | ghṛṣvaye | tveṣa-dyumnāya | śuṣmiṇe ||*
+*deva-ttam | brahma | gāyata || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 263; the first half in full, the grammatical tail characterized)*
+
+> हे ऋत्विजो वो युष्माकं सम्बन्धिने शर्धाय प्रसहनशीलाय घृष्वये शत्रुघर्षणयुक्ताय त्वेषद्युम्नाय दीप्यमानयशसे । द्युम्नं द्योतते र्यशो वान्नं वेति यास्कः । नि. ५-५ [?] । शुष्मिणे बलवते । शुष्मं शुष्णमिति बलनामसु पाठात् । एवंभूताय मरुद्गणाय ब्रह्म हविर्लक्षणमन्नमुद्दिश्य प्र गायत । स्तुत्ध्वम् । कीदृशं ब्रह्म । देवत्तं देवैर्दत्तं देवतानुग्रहाल्लब्धम् ॥ शर्धाय । शृधु प्रसहने । शर्धयत्यभिभवतीति शर्धो बलम् । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । घृष्वये । घृषु संघर्षे । कविघृष्वीत्यादिना । उ. ४-५६ [?] । क्विन्त्यन्तो निपातितः । त्वेषद्युम्नाय । त्विष दीप्तौ । पचाद्यच् । त्वेषं दीप्तं द्युम्नं यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । देवत्तम् । देवैर्दत्तम् । छान्दसो वर्णलोपः । उक्तं च । द्वौ चापरौ वर्णविकारनाशौ । का. ६-४-१०९ [?] । इति । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*he ṛtvijo vo yuṣmākaṃ sambandhine śardhāya prasahanaśīlāya ghṛṣvaye śatrughar­ṣaṇayuktāya tveṣadyumnāya dīpyamānayaśase | dyumnaṃ dyotate ryaśo vānnaṃ veti yāskaḥ | ni. 5-5 [?] | śuṣmiṇe balavate | śuṣmaṃ śuṣṇam iti balanāmasu pāṭhāt | evaṃbhūtāya marudgaṇāya brahma havirlakṣaṇam annam uddiśya pra gāyata | stutdhvam | kīdṛśaṃ brahma | devattaṃ devair dattaṃ devatānugrahāl labdham || śardhāya | śṛdhu prasahane | śardhayaty abhibhavatīti śardho balam | pacādyac | vṛṣāditvād ādyudāttatvam | ghṛṣvaye | ghṛṣu saṃgharṣe | kavighṛṣvītyādinā | u. 4-56 [?] | kvintyanto nipātitaḥ | tveṣadyumnāya | tviṣa dīptau | pacādyac | tveṣaṃ dīptaṃ dyumnaṃ yasya | bahuvrīhau pūrvapadaprakṛtisvaratvam | devattam | devair dattam | chāndaso varṇalopaḥ | uktaṃ ca | dvau cāparau varṇavikāranāśau | kā. 6-4-109 [?] | iti | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ||*
+
+*(The print's "dyotate ryaśo" in the Yāska citation is partly illegible; the citation is given as read, with [?].)*
+
+**Translation:** "O priests, for *vaḥ* — your — *śardhāya*, the one given to overpowering; *ghṛṣvaye* — endowed with the rubbing-down of enemies; *tveṣadyumnāya* — whose glory (*dyumna*) is shining ('*dyumna*, from *dyut*, is glory or food', so Yāska, Ni. 5-5 [?]); *śuṣmiṇe* — the powerful (since *śuṣma*, *śuṣṇa* are read among the names for strength): for such a host of Maruts *brahma* — [praise] relating to the oblation, to food — *pra gāyata*, sing out. What sort of *brahma*? *Devattam* — given by the gods, obtained by the gods' favour."
+
+**Grammar within the bhāṣya** *(p. 263, characterized)*: *śardhāya* (*śṛdhu prasahane*, the *pacādi* *ac*, first-syllable acute as of the *vṛṣādi* group); *ghṛṣvaye* (*ghṛṣu saṃgharṣe*, the Uṇādi suffix *kvin*, given by *nipātana*: *kavighṛṣvi…*; *tveṣadyumnāya* (*tviṣa dīptau*, *pacādi* *ac*; a bahuvrīhi with the first-member accent); *devattam* (*devair dattam*; the Vedic loss of a letter; the line "*dvau cāparau varṇavikāranāśau*" is quoted [Kāś. on Pā. 6-4-109 [?]]; *tṛtīyā karmaṇi*: the first member keeps its natural accent).
+
+**Pratipadārtha** *(p. 263)* — "**vaḥ** — [O priests] to you; **śardhāya** — [that] is endowed with the power to restrain; **ghṛṣvaye** — [that] crushes enemies; **tveṣadyumnāya** — [that] has shining fame; **śuṣmiṇe** — [that] is strong; **(marudgaṇāya)** — for the host of Maruts; **devattam** — [which the gods have favoured by] teaching and giving; **brahma** — the hymn of prayer; **(havir-rūpa-annam uddiśya** — with a view to [the oblation, i.e.] food**)**; **pra gāyata** — sing well."
+
+**Bhāvārtha** *(p. 263)* — "O priests, the power of the host of Maruts is always boundless. It protects itself and its devotees, and checks and crushes enemies. Its fame is exceedingly shining. Whenever one wishes to praise that power, sing well the hymn of prayer that the gods have favoured and taught to you. The food you wish, in the form of oblation, will be obtained."
+
+**English Translation (the source's own, p. 263)** — "Sing forth, O Kanwas, the god-given hymn in honour of your victorious, splendidly glorious, mighty hosts of Maruths·" *(Printed so, "god-given hymn" with a hyphen; the print ends with a raised dot.)*
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–36 COMPLETE (printed pp. 1–250 = PDF 15–264); Sūkta 37 begun (the introduction and anuvāda on p. 251 = PDF 265 written).**
+---
+
+**Progress note — Volume 4: Sūktas 33–36 COMPLETE; Sūkta 37 in progress: printed p. 263 (PDF 277) reached; Riks 37.1–37.3 complete; Rik 37.4 written through the source's English (its Special Topics and grammar follow on p. 264).**
 
 **Plan agreed with the user:** do Sūkta 36 and Sūkta 37 in the same session, stopping at the end of Sūkta 37. Sūkta 36 is done.
 
-**Next task:** continue at printed p. 252 (PDF 266) with the heading of Sūkta 37 and Rik 37.1. Sūkta 37 (*krīḷaṃ vaḥ śardhaḥ*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī) runs to about printed p. 291 (PDF 305); Sūkta 38 begins about p. 292 per the contents table (check). Render with `pdftoppm -jpeg -r 150 -f 266 -l 310 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 264 (PDF 278) with the Special Topics and grammar of Rik 37.4, then Rik 5. Sūkta 37 (*krīḷaṃ vaḥ śardhaḥ*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī) runs to about printed p. 291 (PDF 305); Sūkta 38 begins about p. 292 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 278 -l 312 Rig_Vol4.pdf /tmp/x/v`.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle and its translation is tentative; (2) the heading's deity line has overlapping ranges ("1–13 [?]" and "13–14"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read — in Rik 18's Special Topics (the Turvaśa/Yadu quotations) all Ṛgveda, Brāhmaṇa and Āraṇyaka references are in small digits and are given as read with [?], and my glosses are tentative; (5) the grammar notes of Riks 1–20 are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words in Riks 8, 9, 11, 12, 13 and 16 (see the git history of this file for the earlier notes); (7) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (8) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained", Rik 13 "annointing", Rik 15 "Youthfull", Rik 19 "brighly"; (9) the closing note of Sūkta 36 gives the sūkta number in small numerals (read "36"), and no varga-end statement is printed. For Sūkta 37 so far: the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" are doubtful) and its translation is tentative.
+**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md "Lessons" and the git history of this file). For Sūkta 37 so far: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" are doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) in Rik 1's Special Topics the Nirukta, Ṛgveda and Āśvalāyana references (Ni. 11-13 [?], Ṛg. 8-…, 1-133-6 [?], 8-96-8 [?], 1-165 [?], 1-170 [?]) are small and uncertain, and the sentence on the river "Marudvṛdhā" is read with doubt; (4) in Rik 2's Special Topics the Nirukta list of vehicles (Ni. 1-2-8 [?]) is as read, with a tentative translation of mine; (5) the Yāska citation in Rik 4 ("dyumnaṃ dyotate ryaśo vānnaṃ veti") is partly illegible; (6) the grammar notes of Riks 1–4 are characterized from crowded passages and may contain slips in detail; (7) misprints reproduced as [sic]: the English of Rik 1 and Rik 2 ("maruths", "Maruths").
