@@ -5469,10 +5469,140 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Vyākaraṇa-prakriyā of Rik 39.1, continued** *(p. 343, PDF 357 — grammar page, noted briefly)*
+- **itthā**: *thā hetau ca chandasi* — था हेतौ च छन्दसि — [Pā. 5-3-26 as read [?]]: the suffix *thā* in the senses of cause and manner after *idam* and *kim*, in the Veda; the print explains that *idam* comes by carry-over (*anuvṛtti*) from the sūtra *idamas thamu* — इदमस्थमुः — [Pā. 5-3-24 as read [?]] and *kim* from *kimaś ca* — किमश्च —; "the *idam* is carried over, since in the Veda the words *kim* and *idam* are in question"; *idam + thā*; *idam iś* — इदम इश् — would give *iś* in its place, but it is barred by *etetau rathoḥ* — एतेतौ रथोः — [Pā. 5-3-4 as read [?]]: before a *prāgdīvyatīya* suffix beginning with *r* or *th*, *idam* gets the substitutes *eta* and *it*: *it*; *it + thā = itthā*. The print adds that if one does not accept this carry-over, one takes *idam* + *thamu* ("*itthamu*") and gives the ending following it the substitute *ḍā* by *supāṃ sulug…*, with loss of the *ṭi*: *itthā*. In the first alternative the word is final-acute by the suffix accent; in the second the ending is acute by *anudāttasya ca yatrodāttalopaḥ* [Pā. 6-1-161 as read [?]], so again final-acute.
+- **asyatha**: root *asu kṣepaṇe*, *divādi*; *loṭ*, madhyama *tha* [as the print says]; *divādibhyaḥ śyan* — दिवादिभ्यः श्यन् — [Pā. 3-1-69 as read]: *śyan*; by the paribhāṣā *anekāntā anubandhāḥ* the root's accentual status is that of an *adupadeśa*; the *la*-substitute *sārvadhātuka* after it is unaccented by *tāsyanudāttetṅidupadeśalasārvadhātukam anudāttam*, and *śyan* being *nit*, the word ending in the suffix is first-syllable acute; because of the connection with *yat* there is no wholly-unaccented form.
+- **kratvā**: *jasādiṣu chandasi vā vacanam prāṅṇau caṅy upadhāyāḥ* — the vārttika [on Pā. 7-3-109, as read [?]]: in this section the operations laid down up to *ṇau caṅy upadhāyāḥ* are optional in the Veda; so *ā ṅo nāstriyām* [as printed, doubtful [?]] — the *nā*-substitute for the instrumental *ṭā* — does not come; the *yaṇ* substitution: *kratu + ā = kratvā*.
+- **varpasā**: *vṛj śīṅbhyāṃ rūpasvāṅgayoḥ puk ca* — [Uṇ., as read]: after the roots *vṛj* and *śīṅ*, in the senses "form" and "own limb", the suffix *asun*, and the augment *puk* in the base; *vṛp + as*, *guṇa* of the light penultimate: *varpas*; instrumental singular. "Here the word *rūpa* ['form'] is by implication to be taken as 'praise that reveals the form', because of the association with the word *kratu*." Rik 1 ends here (*|| 1 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–38 COMPLETE; Sūkta 39 in progress: printed p. 342 (PDF 356) reached; introduction (p. 339), heading (p. 340) and Rik 39.1 written through the first grammar entry (*pra*).**
+### Rik 39.2 (pp. 344–346, PDF 358–360)
 
-**Next task:** continue at printed p. 343 (PDF 357) with the rest of the grammar of Rik 39.1, then Riks 2–10 and the close of Sūkta 39 (to about p. 375; Sūkta 40 *uttiṣṭha brahmaṇas pate* begins about p. 376, check), then STOP at the end of Sūkta 39 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 357 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 344; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the git history of this file's progress note, e.g. the commit "Vol 4: Sūkta 38 complete"). Sūkta 39 so far: (1) the varga numerals and the metre line in the heading are small and read with doubt; (2) in the introduction the last words of the Anukramaṇikā quotation are crowded [?]; (3) Rik 1's bhāṣya: *asmād antarikṣād asyatha* (after *itthā*) is doubtful, the Pāṇini / Uṇādi / vārttika numbers are "as read [?]", and the Special Topics' reference to an earlier sūkta of Hiraṇyastūpa (number printed unclearly) is not settled.
+> **स्थिरा वः सन्त्वायुधा परा णुदे वीळू उत प्रतिष्कभे ।**
+> **युष्माकमस्तु तविषी पनीयसी मा मर्त्यस्य मायिनः ॥ २ ॥**
+
+*sthirā vaḥ santv āyudhā parā ṇude vīḷū uta pratiṣkabhe |*
+*yuṣmākam astu taviṣī panīyasī mā martyasya māyinaḥ || 2 ||*
+
+**Pada-pāṭha** *(p. 344)*
+
+> स्थिरा । वः । सन्तु । आयुधा । परा-नुदे । वीळु । उत ।
+> प्रति-स्कभे ।
+> युष्माकम् । अस्तु । तविषी । पनीयसी । मा । मर्त्यस्य ।
+> मायिनः ॥ २ ॥
+
+*sthirā | vaḥ | santu | āyudhā | parā-nude | vīḷu | uta |*
+*prati-skabhe |*
+*yuṣmākam | astu | taviṣī | panīyasī | mā | martyasya |*
+*māyinaḥ || 2 ||*
+
+*(The Saṃhitā prints* parā ṇude *and* vīḷū uta *with the sandhi; the Pada prints* parā-nude *and* vīḷu*.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 344–345)*
+
+> **हे मरुतो व आयुधा युष्माकमायुधानि परानुदे शत्रूणामपनोदनाय स्थिरा सन्तु स्थिराणि भवन्तु । उतापि च प्रतिष्कभे शत्रूणां प्रतिबन्धाय वीळु सन्तु । दृढानि सन्तु । युष्माकं तविषी बलं पनीयसी अतिशयेन स्तोतव्यं भवतु । मायिनोऽस्मासु छद्मचारिणो मर्त्यस्य मनुष्यस्य शत्रोर्मा । बलं मा भवतु ॥ स्थिरा । आयुधा । उभयत्र शेश्छन्दसि बहुलमिति शेर्लोपः । परानुदे । णुद प्रेरणे । सम्पदादिलक्षणः क्विप् । उपसर्गादसमासेऽपि । पा. ८-४-१४ [?] । इति णत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं । वीळु । सुपां सुलुगिति विभक्तेर्लुक् । ईषाअक्षादिषु [?] प्रकृतिभावः । पा. ६-१-१२७ [?] । प्रतिष्कभे । स्कम्भुः सौत्रो धातुः । सम्पदादिलक्षणो भावे क्विप् । अनिदितामिति नलोपः । पनीयसी । पनतिः स्तुत्यर्थः । अस्मादौणादिकः कर्मण्यसुन् । तत ईयसुनि टेरिति टिलोपः । उगितश्चेति ङीप् । ईयसुनो नित्त्वादाद्युदात्तत्वं । मायिनः । मायाशब्दस्य व्रीह्यादिषु पाठात् व्रीह्यादिभ्यश्चेति मत्वर्थीये इनिः ॥**
+
+*he maruto va āyudhā yuṣmākam āyudhāni parānude śatrūṇām apanodanāya sthirā santu sthirāṇi bhavantu | utāpi ca pratiṣkabhe śatrūṇāṃ pratibandhāya vīḷu santu | dṛḍhāni santu | yuṣmākaṃ taviṣī balaṃ panīyasī atiśayena stotavyaṃ bhavatu | māyino 'smāsu chadmacāriṇo martyasya manuṣyasya śatror mā | balaṃ mā bhavatu || sthirā | āyudhā | ubhayatra śeś chandasi bahulam iti śer lopaḥ | parānude | ṇuda preraṇe | sampadādilakṣaṇaḥ kvip | upasargād asamāse 'pi | pā. 8-4-14 [?] | iti ṇatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ | vīḷu | supāṃ sulug iti vibhakter luk | īṣāakṣādiṣu [?] prakṛtibhāvaḥ | pā. 6-1-127 [?] | pratiṣkabhe | skambhuḥ sautro dhātuḥ | sampadādilakṣaṇo bhāve kvip | anidit ām iti nalopaḥ | panīyasī | panatiḥ stutyarthaḥ | asmād auṇādikaḥ karmaṇy asun | tata īyasuni ṭer iti ṭilopaḥ | ugitaś ceti ṅīp | īyasuno nittvād ādyudāttatvaṃ | māyinaḥ | māyāśabdasya vrīhyādiṣu pāṭhāt vrīhyādibhyaś ceti matvarthīye iniḥ ||*
+
+**Translation:** "O Maruts, *vaḥ āyudhā*, your weapons — *parānude*, in order to thrust away enemies — *sthirā santu*, let them be firm. *Uta* — and — *pratiṣkabhe*, in order to check enemies, *vīḷu santu*, let them be strong, stout. *Yuṣmākam taviṣī*, your strength, let it be *panīyasī*, extremely praiseworthy; and the strength of the *martyasya*, the mortal, the man who is an enemy, *māyinaḥ*, deceitful towards us, going about in disguise — *mā*, let it not be. *Sthirā*, *āyudhā*: in both the loss of *śi* by *śeś chandasi bahulam*. *Parānude*: root *ṇuda preraṇe*; *kvip* of the *sampadādi* class; *ṇatva* by *upasargād asamāse 'pi* [Pā. 8-4-14 [?]]; the accent of the first member of a compound ending in a *kṛt*. *Vīḷu*: loss of the ending by *supāṃ sulug…*; *prakṛtibhāva* by the rule *īṣā-akṣādiṣu…* [Pā. 6-1-127 [?]]. *Pratiṣkabhe*: *skambhu* is a *sautra* root; *kvip* in the abstract sense; the loss of *n* by *anidit ām…*. *Panīyasī*: the root *pana* in the sense of praise; from it the Uṇādi *asun* in the passive sense; then *īyasun*, loss of the *ṭi*; *ṅīp* by *ugitaś ca*; *īyasun* is *nit* so the first syllable is acute. *Māyinaḥ*: since *māyā* is read in the *vrīhyādi* group, the suffix *ini* in the sense of *matup* by *vrīhyādibhyaś ca*."
+
+**Pratipadārtha** *(p. 345)* — "**marutaḥ** — O Maruts; **vaḥ** — your; **āyudhā** — weapons; **parānude** — for driving away the enemies; **sthirā** — firm; **santu** — let them be; **uta** — and; **pratiṣkabhe** — for checking the enemies too; **vīḷu** — let them be strong; **yuṣmākam** — your; **taviṣī** — strength; **panīyasī** — let it be extremely praiseworthy; **māyinaḥ** — [him who] deceives (us); **martyasya** — of the enemy in human form; **mā** — let [his strength] not be [praiseworthy]."
+
+**Bhāvārtha** *(p. 345)* — "O Maruts, may your weapons be firm for driving away our powerful enemies. May they be strong for checking them. May your strength be worthy of praise. May the enemy in human form, who deceives us, be without strength."
+
+**English Translation (the source's own, p. 345)** — "May your weapons be steady, may they be strong to drive away or resist the enemy ; may your strength merit praise, not that of a treacherous mortal."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 345**
+- **parānude** — "*ṇuda preraṇe*: in the matter of opposing enemies."
+- **vīḷu** — "*vīḍu*: firmly, steady." (English as printed: "steady").
+- **pratiṣkabhe** = *śatrūṇāṃ pratibandhāya* — "for the checking of enemies."
+- **taviṣī** = *balam* — "strength, power, capacity and the like."
+- **panīyasī** = *panatiḥ stutyarthaḥ | atiśayena stotavyā bhavatu* — "let it be worthy of much praise."
+- **māyinaḥ** = *chadmacāriṇo manuṣyasya* — "of a wicked man who deceives": the source adds "treacherous or vily [sic] person."
+
+**Vyākaraṇa-prakriyā** *(p. 346 — grammar page, noted briefly)*
+- **sthirā**, **āyudhā**: in both words the loss of *śi* by *śeś chandasi bahulam*.
+- **parānude**: root *ṇuda preraṇe*; *kvip* by *sampadādibhyaḥ kvip* — सम्पदादिभ्यः क्विप् —; *upasargād asamāse 'pi ṇopadeśasya* — उपसर्गादसमासेऽपि णोपदेशस्य — [Pā. 8-4-14 as read [?]]: the *n* of a root taught with *ṇ*, after the *r* and *ṣ* of a prefix, becomes *ṇ*, even without compounding; the print explains that the root *ṇuda* has *ṇ* at the beginning; the eight roots *nṛt*, *nāṭ*, *nāth*, *nādh*, *nand*, *nakk*, *nṛ*, *nard* [as read] are excepted from *ṇopadeśa*-hood (*ṇopadeśās tv anarda-nāṭi-nādh-nādh-nand-nakka-nṛtaḥ* [as read]); *parānud* takes the accent of the first member of a compound with a *kṛt* last member.
+- **vīḷu**: *supāṃ sulug* for the ending; in the Saṃhitā, in *vīḷu + uta*, *prakṛtibhāva* by *īṣākṣādiṣu chandasi prakṛtibhāvam [ātram]* [Pā. 6-1-127 as read [?]].
+- **pratiṣkabhe**: the root *skambhu* is not read in the present *dhātupāṭha*, but Pāṇini's sūtras use it: *grasitaskabhita…* [Pā. 7-2-34 as read [?]] has *skabhita* from the root *skambhu* ("*skambhu rodhane*"); *kvip* of the *sampadādi* class; *anidito hala upadhāyāḥ kṅiti* — अनिदितां हल उपधायाः क्ङिति — [Pā. 6-4-24 as read [?]] loss of the nasal.
+- **panīyasī**: the root *pana* is read in the sense of praise; after it the Uṇādi *asun* in the passive sense; in the sense of excess, *dvivacanavibhajyopapade tarabīyasunau* [Pā. 5-3-57 as read [?]] *īyasun*; *ṭeḥ* — टेः — [Pā. 6-4-155 as read [?]] loss of *as*; *panīyas* is *ugit*, so *ugitaś ca* [Pā. 4-1-6 as read [?]] gives *ṅīp* in the feminine; *īyasun* is *nit*, so the first syllable is acute.
+- **māyinaḥ**: *vrīhyādibhyaś ca* — व्रीह्यादिभ्यश्च — [Pā. 5-2-116 as read [?]]: after the words in the *vrīhyādi* group the suffixes *ini* and *ṭhan* in the sense of *matup*; by *anyebhya ubhayam* ["both"] both suffixes come; and *vini* by *asmāyāmedhāsrajo viniḥ* [Pā. 5-2-121 as read [?]]; so the forms *māyāvī*, *māyī*, *māyikaḥ*; in the *vrīhyādi* group "*vrīhi-māyā*" is read. Rik 2 ends here (*|| 2 ||*).
+
+---
+
+### Rik 39.3 (pp. 347–349, PDF 361–363)
+
+**Saṃhitā-pāṭha** *(p. 347; accents not reproduced)*
+
+> **परा ह यत्स्थिरं हथ नरो वर्तयथा गुरु ।**
+> **वि याथन वनिनः पृथिव्या व्याशाः पर्वतानाम् ॥ ३ ॥**
+
+*parā ha yat sthiraṃ hatha naro vartayathā guru |*
+*vi yāthana vaninaḥ pṛthivyā vy āśāḥ parvatānām || 3 ||*
+
+**Pada-pāṭha** *(p. 347)*
+
+> परा । ह । यत् । स्थिरम् । हथ । नरः । वर्तयथ । गुरु ।
+> वि । याथन । वनिनः । पृथिव्याः । वि । आशाः । पर्वतानाम् ॥ ३ ॥
+
+*parā | ha | yat | sthiram | hatha | naraḥ | vartayatha | guru |*
+*vi | yāthana | vaninaḥ | pṛthivyāḥ | vi | āśāḥ | parvatānām || 3 ||*
+
+*(The Saṃhitā prints* vartayathā *with a long final vowel, the Pada* vartayatha *short.)*
+
+**Sāyaṇa-bhāṣya** *(p. 347)*
+
+> **हे नरो नेतारो मरुतो यद्यदा स्थिरं वसु पराहथ वृक्षादिकं पराहतं भग्नं कुरुथ । गुरु पाषाणादिकं गुरुत्वोपेतं वर्तयथ प्रेरयथ । तदानीं पृथिव्याः सम्बन्धिनो वनिनो वनवतो वृक्षान्वियाथन । वियुज्य मध्ये गच्छथ । अरण्यगतानां निबिडानां वृक्षाणां मध्ये यस्य कस्यापि वृक्षस्य भग्नत्वादितरवृक्षाणां परस्परवियोगेन प्रौढो मार्गो भवति । तथा पर्वतानामाशाः पर्वतार्णदिशो [?] वियाथन । वियुज्य गच्छथ ॥ हथ । हन हिंसागत्योः । अनुदात्तोपदेशेत्यादिना अनुनासिकलोपः । यद्वृत्तयोगादनिघातः । नरः । पादादित्वादामन्त्रितनिघाताभावः । वर्तयथ । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे णिचः स्वर एव शिष्यते । यच्छब्दानुषङ्गान्निघाताभावः । याथन । तप्तनप्तनथनाश्चेति थनादेशः ॥**
+
+*he naro netāro maruto yad yadā sthiraṃ vasu parāhatha vṛkṣādikaṃ parāhataṃ bhagnaṃ kurutha | guru pāṣāṇādikaṃ gurutvopetaṃ vartayatha prerayatha | tadānīṃ pṛthivyāḥ sambandhino vanino vanavato vṛkṣān viyāthana | viyujya madhye gacchatha | araṇyagatānāṃ nibiḍānāṃ vṛkṣāṇāṃ madhye yasya kasyāpi vṛkṣasya bhagnatvād itaravṛkṣāṇāṃ parasparaviyogena prauḍho mārgo bhavati | tathā parvatānām āśāḥ parvatārṇadiśo [?] viyāthana | viyujya gacchatha || hatha | hana hiṃsāgatyoḥ | anudāttopadeśety ādinā anunāsikalopaḥ | yadvṛttayogād anighātaḥ | naraḥ | pādāditvād āmantritanighātābhāvaḥ | vartayatha | ād upadeśāl lasārvadhātukānudāttatve ṇicaḥ svara eva śiṣyate | yacchabdānuṣaṅgān nighātābhāvaḥ | yāthana | tapta-nap-tana-thanāś ceti thanādeśaḥ ||*
+
+**Translation:** "O *naraḥ*, leaders, Maruts, *yad*, when, [a thing that is] *sthiram*, firm, [you] *parā hatha* — you break down, make felled and broken — trees and the like; *guru*, heavy things such as rocks, you *vartayatha*, make roll, set going. Then *pṛthivyāḥ*, belonging to the earth, *vaninaḥ*, forest trees, *viyāthana* — you go through, having parted [them]. Among the dense trees that have gone into the forest, through the breaking of some one tree or other, a broad way is made by the separation of the other trees from each other. Likewise *parvatānām āśāḥ*, the *āśā* of the mountains [the print reads *parvatārṇadiśo* [?], 'regions of mountain passes'] *viyāthana* — you go through, parting [them]. *Hatha*: root *han hiṃsāgatyoḥ*; the loss of the nasal by the rule beginning *anudāttopadeśa…*; no *nighāta* because of the connection with *yat*. *Naraḥ*: [not unaccented, since it is] at the beginning of a *pāda*, there is no *āmantrita-nighāta*. *Vartayatha*: [after the *śap*] the *la*-substitute *sārvadhātuka* is unaccented by *ād upadeśāt…*, so only the accent of *ṇic* remains; no *nighāta* because *yat* is to be supplied. *Yāthana*: the substitute *thana* by *tapta-nap-tana-thanāś ca*."
+
+**Pratipadārtha** *(p. 347)* — "**naraḥ** — O leaders of men (Maruts); **yat** — when; **sthiram** — fixed, immovable (trees and the like); **parā hatha** — you roll down (and); **guru** — heavy objects (such as rocks); **vartayatha** — you cause to move (when); **pṛthivyāḥ** — belonging to the earth; **vaninaḥ** — forest trees; **viyāthana** — you go through, separating (just so); **parvatānām** — of mountains; **āśāḥ** — the directions [print: *dikkugaḷannu*] (of the narrow passes); **vi (yāthana)** — you go, separating."
+
+**Bhāvārtha** *(p. 348)* — "O leaders, Marut-deities, you roll down firm trees and the like. You set heavy things such as rocks in motion. Breaking even the forest trees with your force, and parting the narrow mountain passes, you go about easily and freely."
+
+**English Translation (the source's own, p. 348)** — "O leaders of men, (Maruts) whenever you move you demolish what is stable, scatter what is heavy, then make your way through the forest trees of earth and through the regious [sic] of the mountains."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 348**
+- **Main intention** — "When the Marut-deities move, nothing hinders them. On the earth they roll down, roots and all, the big, big trees that stand well grown and firm. Heavy things, houses and the like, are shaken by the blow of the wind. When they blow among clusters of densely grown forest trees on earth, they break many trees, make a way, and press on. In mountain regions too they make their way through narrow passes."
+- **parā hatha** — "*hana hiṃsāgatyoḥ*; *bhagnaṃ kurutha*: you break; you throw down."
+- **naraḥ** — "nominative plural of the *ṛ*-ending word *nṛ*: leaders, guides of men."
+- **guru** — "extremely heavy stones, houses and such things."
+- **vi yāthana** = *viyujya madhye gacchatha* — "...in a forest, among densely grown trees, since one tree or another has been broken, the other trees being separated from one another, a broad path comes to be: so the intention."
+- **āśāḥ parvatānām** — "the slopes of mountains, or the narrow-pass regions between the mountains."
+
+**Vyākaraṇa-prakriyā** *(p. 349 — grammar page, noted briefly)*
+- **hatha**: *han hiṃsāgatyoḥ*; *laṭ*, *tha*; the *śap* elided; by *anudāttopadeśa…* the loss of the *n*; because of the connection with *yat* the verb is not wholly unaccented.
+- **naraḥ**: because it stands at the beginning of a *pāda*, the unaccented vocative of the eighth *adhyāya* does not apply.
+- **vartayatha**: *śap* is *pit* and so unaccented; the *la*-substitute *sārvadhātuka* after it is unaccented by *tāsyanudāttet…*, so the accent of *ṇic* remains; "the word *yat* of *yat sthiram* is to be connected here too", and by *yadvṛttān nityam* the wholly-unaccented form is prohibited.
+- **yāthana**: *yā prāpaṇe*, *loṭ*, madhyama *tha* → *ta*; *tapta-nap-tana-thanāś ca* gives *thana*.
+- **vaninaḥ**: "*vanam eṣām asti*": the suffix *ini*.
+- **pṛthivyāḥ**: the root *prath* + *ṣivan*; *ṣidgaurādibhyaś ca* gives *ṅīṣ*, acute; the genitive ending [print: *jas*], the *yaṇ* substitution; *udāttayaṇo hal-pūrvāt* gives the acute to the ending. Rik 3 ends here (*|| 3 ||*).
+
+---
+
+### Rik 39.4 (p. 349 foot, PDF 363–)
+
+**Saṃhitā-pāṭha** *(p. 349; accents not reproduced)*
+
+> **नहि वः शत्रुर्विविदे अधि द्यवि न भूम्यां रिशादसः ।**
+> **युष्माकमस्तु तविषी तना युजा रुद्रासो नू चिदाधृषे ॥ ४ ॥**
+
+*nahi vaḥ śatrur vivide adhi dyavi na bhūmyāṃ riśādasaḥ |*
+*yuṣmākam astu taviṣī tanā yujā rudrāso nū cid ādhṛṣe || 4 ||*
+
+*(The Pada, the bhāṣya and the rest of Rik 4 are on p. 350 onward and are not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–38 COMPLETE; Sūkta 39 in progress: printed p. 349 (PDF 363) reached; Riks 39.1–39.3 complete; Rik 39.4's Saṃhitā written (the Pada and bhāṣya begin on p. 350).**
+
+**Next task:** continue at printed p. 350 (PDF 364) with the Pada and bhāṣya of Rik 39.4, then Riks 5–10 and the close of Sūkta 39 (to about p. 375; Sūkta 40 *uttiṣṭha brahmaṇas pate* begins about p. 376, check), then STOP at the end of Sūkta 39 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 364 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the commit "Vol 4: Sūkta 38 complete"). Sūkta 39 so far: (1) varga numerals and metre line in the heading are small and read with doubt; (2) intro: last words of the Anukramaṇikā quotation crowded [?]; (3) Rik 1's bhāṣya: *asmād antarikṣād asyatha* after *itthā* doubtful, the reference to the earlier Hiraṇyastūpa sūkta unsettled; (4) every Pāṇini / Uṇādi / Phiṭ / vārttika number is "as read [?]"; (5) Rik 2: the *īṣākṣādiṣu* prakṛtibhāva rule is partly garbled in print; the misprint "vily" in the source's English is kept [sic]; (6) Rik 3: *parvatārṇadiśo* in the bhāṣya is doubtful [?], the source's English misprints "regious" [sic]; the Pada has *vartayatha* short against the Saṃhitā's long.
