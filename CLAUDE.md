@@ -12,8 +12,8 @@ Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 4: Sūktas 33–40 are COMPLETE (printed pp. 1–409 = PDF 15–423).** **Next task: Sūkta 41** (*yaṃ rakṣanti*, Maṇḍala 1, Anuvāka 8, 9 Riks, ṛṣi Kaṇva Ghaura, Gāyatrī; Varuṇa–Mitra–Aryaman and the Ādityas),
-whose title line, Sanskrit introduction, Kannada anuvāda and heading fill the top of printed p. 410 = PDF 424 (a clean boundary: Sūkta 40 ended on p. 409); Rik 1 follows on p. 411 (PDF 425). Sūkta 42 begins at p. 433 per the contents table.
+**Volume 4: Sūktas 33–41 are COMPLETE (printed pp. 1–434 = PDF 15–448).** **Next task: Sūkta 42** (*saṃ pūṣan*, Maṇḍala 1, Anuvāka 8, 10 Riks, ṛṣi Kaṇva Ghaura, Pūṣan, Gāyatrī),
+whose title line, Sanskrit introduction, Kannada anuvāda and heading fill the top of printed p. 435 = PDF 449 (a clean boundary: Sūkta 41 ended on p. 434); Rik 1 follows on p. 436 (PDF 450). (The old contents table gave p. 433 for Sūkta 42; the print shows p. 435.) Sūkta 43 begins at about p. 465 per the contents table — check.
 One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
 The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
