@@ -4336,12 +4336,239 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+*(Correction to the entry above: the foot of p. 281 also carries the second line of the Pada of Rik 11, which was not written there:)*
+
+> प्र । च्यवयन्ति । यामभिः ॥ ११ ॥
+
+*pra | cyavayanti | yāmabhiḥ || 11 ||*
+
+*(The Pada prints* cyavayanti *(short* a*), against the Saṃhitā's* cyāvayanti*; the Pada also prints a small division sign inside* yāma-bhiḥ*; the bhāṣya below explains the shortening, "*padakāle hrasvaś chāndasaḥ*".)*
+
+**Sāyaṇa-bhāṣya** *(p. 282; Sanskrit printed in Kannada script)*
+
+> **त्यं चिद्घा । प्रसिद्धो यो मेघस्तमपि मेघं यामभिः स्वकीयैर्गमनैः प्र च्यावयन्ति । मरुतः प्रकर्षेण गमयन्ति । कीदृशम् । दीर्घमायामोपेतं पृथुं तिर्यङ्निस्सृतं मिहो नपातं सेचनीयस्य जलस्य न पातयितारं । वृष्टिमकुर्वन्तमित्यर्थः । अमृध्रं केनाप्यहिंस्यं ॥**
+
+*tyaṃ cid ghā | prasiddho yo meghas tam api meghaṃ yāmabhiḥ svakīyair gamanaiḥ pra cyāvayanti | marutaḥ prakarṣeṇa gamayanti | kīdṛśam | dīrgham āyāmopetaṃ pṛthuṃ tiryaṅ-nisṛtaṃ miho napātaṃ secanīyasya jalasya na pātayitāraṃ | vṛṣṭim akurvantam ity arthaḥ | amṛdhraṃ kenāpy ahiṃsyaṃ ||*
+
+**Translation:** "*Tyaṃ cid ghā*: that well-known cloud — even that cloud — they *pra cyāvayanti* by their *yāmas*, their own goings: the Maruts make [it] go forth strongly. Of what kind? *Dīrgham* — possessed of length; *pṛthum* — broad, spread out sideways; *miho napātam* — one that does not make fall the water that is to be sprinkled, i.e. one that makes no rain, so the sense; *amṛdhram* — not to be injured by anyone."
+
+**Grammar within the bhāṣya** *(p. 282, characterized; the Sanskrit is transcribed in part only)*: *ghā* (lengthened by the rule beginning *ṛci tunu-gha-…*); *mihaḥ* (root *miha secane*; *mehatīti miṭ* — rain; *kvip*; the ending of the genitive singular has the acute by *sāvekācaḥ*); *napātam* (*na pātayatīti napāt*; the *naṅ* keeps its own form by *nabhrāṇ-napāt-…*; the accent of the first member of a compound beginning with an indeclinable); *amṛdhram* (root *śṛdhu mṛdhu undane*; "*mardhati*" — he wets (the Kannada: "recalls/wets with water", *nīrinda nenesuvudu*; the print is unclear to me [?]); the Uṇādi suffix *rak* by the word *bahulam*; in a compound named by *saṃjñā* the accent of the first member as before) — or else, "*mṛdha* is, by the word *saṅgrāma* [as read], a name of battle, and by implication means *hiṃsā*, injury; the suffix *ra* is in the sense of *matup*; compound and accent as before"; *cyāvayanti* (*cyuṅ gatau*; *ṇic*; *vṛddhi* and *āv*-substitution; "at the Pada stage the short vowel is Vedic").
+
+**Pratipadārtha** *(p. 282)* — "**dīrgham** — long, spread wide; **pṛthum** — immense; **miho napātam** — one that stays holding back the rain from falling; **amṛdhram** — not to be injured (i.e. with nothing hindering its own going); **tyaṃ cit** — that well-known cloud, whichever it is; **yāmabhiḥ** — by their goings (the Maruts); **pra cyāvayanti** — they make go forward (they make it go in the way favourable for raining)."
+
+**Bhāvārtha** *(p. 282)* — "At the time when the cloud, having drawn up the water that is the most important thing for the life of all beings, stands holding back the rain, no one but the Maruts can make it rain. The well-known cloud is long, wide and immense and moves at its own will. Such a cloud the Maruts, in their times of going, make move forward, and by the form of rain they pour out the water and do good to the world."
+
+**English Translation (the source's own, p. 282)** — "They drive before them in their course, the long, vast, uninjuarable [sic] rain-retaining cloud."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 283**
+- **ghā** — "indicates the well-known sense (*prasiddhārtha*). For the sake of the metre it is long in the Saṃhitā text."
+- **miho napātam** = *secanīyasya jalasya na pātayitāram | vṛṣṭim akurvantam ity arthaḥ | miha secane* — "[one who does] not let the rain pour" (the Kannada sentence is printed breaking off after "the rain they pour…").
+- **cyāvayanti** = *gamayanti* — "they make go forward." The source adds the English "Drive before them."
+
+**Vyākaraṇa-prakriyā** *(p. 283 — grammar page, noted briefly)*
+- **ghā**: the lengthening of *gha* is by the sūtra beginning *ṛci tunu-gha-makṣu-taṅ-kutro-ruṣyāṇām* — ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् — [Pā. 6-3-13? [?]]; the print then discusses whether the *gha* of this rule is the technical *gha* (*tarap-tamapau ghaḥ*, [Pā. 1-1-22, as read, garbled; ?]), concluding that, since the lengthening is seen in the Veda for the particle *gha* in this sequence of sounds, the technical name is not taken.
+- **mihaḥ**: *miha secane*, *mehatīti miṭ*, "rain"; *kvip*; for the genitive singular, the acute by *sāvekācaḥ* — सावेकाचः — [Pā. 6-1-168 as I know it; the number is not read in the print].
+- **napātam**: *na pātayatīti napāt*; *nabhrāṇ-napāt-…* gives *prakṛtibhāva* to *naṅ*; the compound-rule beginning *tatpuruṣe tulya-artha-…* gives the accent of the first member of an indeclinable-first compound.
+- **amṛdhram**: *śṛdhu mṛdhu undane*; "*mardhati*" = remembers/wets with water [the Kannada *nīrinda nenesuvudu*, which I cannot read with certainty [?]]; "*uṇādayo bahulam*" — उणादयो बहुलम् — the Uṇādi *rak* by the wide sense of *bahula*; compound with *naṅ* as before. Alternatively the lexicon quotation "*mṛdhaskandanaṃ saṃkhyaṃ samīkaṃ sāmparāyakam*" — मृधस्कन्दनं सङ्ख्यं समीकं साम्परायकम् — [as read] gives *mṛdha* the sense "war"; here the sense *hiṃsā* is to be taken by implication; the suffix *ra* in the sense of *matup*, with loss of *a* in the Veda; compound and accent as before.
+- **cyāvayanti**: *cyuṅ gatau*, *ṇic*; *aco ñṇiti* — अचो ञ्णिति — [Pā. 7-2-115, number as read, doubtful [?]] for the *vṛddhi*; *u* to *au* and then *āv*; "in the Pada the short vowel is Vedic". Rik 11 ends here (*|| 11 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–36 COMPLETE; Sūkta 37 in progress: printed p. 281 (PDF 295) reached; Riks 37.1–37.10 complete; Rik 37.11's Saṃhitā and the first line of its Pada written (foot of p. 281).**
+### Rik 37.12 (pp. 284–286, PDF 298–300)
 
-**Plan agreed with the user:** do Sūkta 36 and Sūkta 37 in the same session, stopping at the end of Sūkta 37. Sūkta 36 is done.
+**Saṃhitā-pāṭha** *(p. 284; accents are printed; the nasal sign of* janām̐ *and* girīm̐r *was checked on an enlarged slice)*
 
-**Next task:** continue at printed p. 282 (PDF 296) with the rest of Rik 37.11's Pada and its bhāṣya etc., then Riks 12–15 and the close of Sūkta 37. Sūkta 37 (*krīḷaṃ vaḥ śardhaḥ*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī) runs to about printed p. 291 (PDF 305); Sūkta 38 begins about p. 292 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 296 -l 312 Rig_Vol4.pdf /tmp/x/v`.
+> **मरुतो यद्ध वो बलं जनाँ अचुच्यवीतन ।**
+> **गिरीँरचुच्यवीतन ॥ १२ ॥**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md "Lessons" and the git history of this file). For Sūkta 37 so far: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" are doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) the Nirukta, Ṛgveda, Brāhmaṇa and Uṇādi references in the Special Topics and bhāṣya tails (Riks 1, 2, 4, 5, 10) are small and uncertain, and are marked [?] or "as read"; (4) the verse on *mānuṣa*/*māṇava* in Rik 7's grammar is read with doubt and its translation is mine and tentative; (5) the grammar notes of Riks 1–10 are characterized from crowded passages and may contain slips in detail, especially the *vyavasthitavibhāṣā* passage in Rik 8 and the *eṣām* passage in Rik 9; (6) in Rik 7 the indicatory letter of the root *dhṛ* is not clear in the print; (7) misprints reproduced as [sic] or as printed: Rik 1 and Rik 2 English ("maruths", "Maruths"), Rik 6 ("whᵒ"), Rik 8 ("aproach", "ehfeebled", "tbrough"); (8) Rik 11's word *avṛdhram* was checked on an enlarged slice and is as read.
+*maruto yad dha vo balaṃ janām̐ acucyavītana |*
+*girīm̐r acucyavītana || 12 ||*
+
+**Pada-pāṭha** *(p. 284)*
+
+> मरुतः । यत् । ह । वः । बलम् । जनान् । अचुच्यवीतन ।
+> गिरीन् । अचुच्यवीतन ॥ १२ ॥
+
+*marutaḥ | yat | ha | vaḥ | balam | janān | acucyavītana |*
+*girīn | acucyavītana || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 284)*
+
+> **हे मरुतो यद्ध यस्मादेव कारणाद्वो युष्माकं बलमस्ति अस्मादेव कारणाज्जनान्प्राणिनोऽचुच्यवीतन । स्वस्वव्यापारेषु प्रेरयत । तथा गिरीन्मेघान् अचुच्यवीतन । प्रेरयत ॥**
+
+*he maruto yad dha yasmād eva kāraṇād vo yuṣmākaṃ balam asti asmād eva kāraṇāj janān prāṇino 'cucyavītana | svasvavyāpāreṣu prerayata | tathā girīn meghān acucyavītana | prerayata ||*
+
+**Translation:** "O Maruts, *yad dha* — for the very reason that you have strength, for that very reason *janān*, the living beings, *acucyavītana* — impel [them] to their several occupations. And likewise *girīn*, the clouds, *acucyavītana* — impel [them]."
+
+> **मरुतः । आमन्त्रिताद्युदात्तत्वं । अचुच्यवीतन । च्यवतेर्… व्यत्ययेन परस्मैपदं । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसि । [Pā. ?] इतीडागमः । गुणावादेशौ । तिङ्ङतिङः इति निघातः । गिरीन् । दीर्घादटि समानपाद इति संहितायां नकारस्य रुत्वं । अत्रानुनासिक इतीकारस्यानुनासिकः ॥**
+
+*marutaḥ | āmantritādyudāttatvaṃ | acucyavītana | cyavater … vyatyayena parasmaipadaṃ | tapta-nap-tana-thanāś ceti tasya tanabādeśaḥ | bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasi | [Pā. ?] itīḍāgamaḥ | guṇāvādeśau | tiṅ atiṅaḥ iti nighātaḥ | girīn | dīrghād aṭi samānapāda iti saṃhitāyāṃ nakārasya rutvaṃ | atrānunāsika itīkārasyānunāsikaḥ ||*
+
+**Translation of the grammatical tail** *(characterized; the lakāra named after* cyavateḥ *is not legible to me [?])*: *marutaḥ* — accent on the first syllable, as a vocative. *Acucyavītana* — from *cyu*, by *vyatyaya* the *parasmaipada* [for the root which is *ātmanepadin*]; for the ending *tha* the substitute *tana* by the rule *tapta-nap-tana-thanāś ca*; the *śap* is elided by *bahulaṃ chandasi*; [the rule] *bahulaṃ chandasi* then gives the augment *iṭ*; *guṇa* and *av*-substitution; the verb is unaccented by *tiṅ atiṅaḥ*. *Girīn* — by *dīrghād aṭi samānapāde* the *n* becomes *ru* in the Saṃhitā; by *atrānunāsikaḥ…* the *ī* before it is nasalized.
+
+**Pratipadārtha** *(p. 284)* — "**marutaḥ** — O Maruts; **yad ha** — for whatever (natural) reason; **vaḥ** — to you; **balam** — strength [there is], for that very reason; **janān** — the living beings; **acucyavītana** — impel [them] (so that they carry on their several affairs); **girīn** — the clouds; **acucyavītana** — impel [them] (so that they do their work of raining and giving water to the world)."
+
+**Bhāvārtha** *(pp. 284–285)* — "O Maruts, all the activities of all things in the world, sentient and insentient, must proceed by your impulsion. You have the natural strength to enliven the whole world. Because of that strength you have, impel all beings so that they do the activities fitting their several natures, and impel the clouds so that they pour down the rain, the support of all life, and make welfare for the world."
+
+**English Translation (the source's own, p. 285)** — "Maruts, you have vigour and therefore invigorate mankind and make the clouds to rain."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 285**
+- **ghā** [so printed as the heading, though the Saṃhitā of this Rik has *yad dha*] — "here the word *gha* indicates the sense *eva*. For the sake of the metre the *gha* is long in the Saṃhitā text."
+- **acucyavītana** = *svasvavyāpāreṣu prerayata* — "impel people and the clouds and so on to act in their several activities."
+- **girīn** = *meghān* — "among the thirty names of the cloud beginning *adriḥ grāvā* [as printed], the word *giri* is read; therefore *girīn* means 'the clouds'."
+
+**Vyākaraṇa-prakriyā** *(pp. 285–286 — grammar page, noted briefly)*
+- **marutaḥ**: the suffix *uti* by *mṛgror utiḥ* — मृग्रोरुतिः — [Uṇ., number not read]; by *āmantritasya ca* — आमन्त्रितस्य च — [the sūtra of the sixth *adhyāya*] it is accented on the first syllable.
+- **acucyavītana**: *cyuṅ gatau*, first class; by *ñit* / *anudāttaṅita ātmanepadam* — ञित्…/ अनुदात्तङित आत्मनेपदम् — [Pā. 1-3-7? as read [?]] the *ātmanepada* is due, and in its place the *parasmaipada* has come; *laṅ* [as read; the lakāra is not certain [?]], madhyama-puruṣa plural *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*, and by *tapta-nap-tana-thanāś ca* the substitute *tana* [Pā. 7-1-45, as read [?]]; by *bahulaṃ chandasi* [Pā. 2-4-73, as read [?]] the *śap* is elided (*śluḥ*); *ślau* gives doubling: *cyu-cyu-tana*; by *halādiḥ śeṣaḥ* the first *y* is dropped; by *bahulaṃ chandasi* [Pā. 7-3-97 [?]] the augment *īṭ* comes at the beginning of *tana*: *cucyu + ītana*; the augment *aṭ*; *guṇa*; *av*-substitution. Fully unaccented.
+- **girīn**: *dīrghād aṭi samānapāde* — दीर्घादटि समानपादे — [Pā. 8-3-9 as read [?]]: when in a single *pāda* there is a long vowel and a following *aṭ* [-initial word], the *n* standing after the long vowel and before … gets *ru* in the Saṃhitā; *atrānunāsikaḥ pūrvasya tu vā* — अत्रानुनासिकः पूर्वस्य तु वा — the vowel before *ru* is nasalized. Rik 12 ends here (*|| 12 ||*).
+
+---
+
+### Rik 37.13 (pp. 286–288, PDF 300–302)
+
+**Saṃhitā-pāṭha** *(p. 286; accents printed)*
+
+> **यद्ध यान्ति मरुतः सं ह ब्रुवतेऽध्वन्ना ।**
+> **शृणोति कश्चिदेषाम् ॥ १३ ॥**
+
+*yad dha yānti marutaḥ saṃ ha bruvate 'dhvann ā |*
+*śṛṇoti kaś cid eṣām || 13 ||*
+
+**Pada-pāṭha** *(p. 286)*
+
+> यत् । ह । यान्ति । मरुतः । सम् । ह । ब्रुवते । अध्वन् । आ ।
+> शृणोति । कः । चित् । एषाम् ॥ १३ ॥
+
+*yat | ha | yānti | marutaḥ | sam | ha | bruvate | adhvan | ā |*
+*śṛṇoti | kaḥ | cit | eṣām || 13 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 286)*
+
+> **यद्ध यदा खलु मरुतो यान्ति गच्छन्ति तदानीमध्वन्ना मार्गे सर्वतः सं ब्रुवते ह । संभूय ध्वनिमवश्यं कुर्वन्ति । एषां मरुतां सम्बन्धिनं शब्दं कश्चित् यः कोऽपि शृणोति ॥**
+
+*yad dha yadā khalu maruto yānti gacchanti tadānīm adhvann ā mārge sarvataḥ saṃ bruvate ha | saṃbhūya dhvanim avaśyaṃ kurvanti | eṣāṃ marutāṃ sambandhinaṃ śabdaṃ kaścit yaḥ ko 'pi śṛṇoti ||*
+
+**Translation:** "*Yad dha* — whenever indeed the Maruts *yānti*, go, then *adhvann ā*, all around on the way, *saṃ bruvate ha* — together, they certainly make a sound; coming together they surely make a noise. The sound belonging to these Maruts *kaś cit* — whoever, anyone at all — *śṛṇoti*, hears."
+
+**Grammar within the bhāṣya** *(p. 286, characterized)*: *yānti* (*yā prāpaṇe*; *śap* elided because the root belongs to the *adādi* class; by *jho 'ntaḥ* the substitute *ant*, which, treated as in the *upadeśa*, is acute on the first syllable; the single substitute with the root has its accent; no *nighāta* because of the connection with *yat*); *bruvate* (*brūñ vyaktāyāṃ vāci*; after the substitute for *jha*, the *guṇa* that would be due by "later rule" is barred by being *ṅit*, so *uvaṅ*); *adhvan* (the locative ending elided by *supāṃ sulug…*); *śṛṇoti* (since *tip* is *pit*, the *anudātta* is not present, and the accent is that of the *vikaraṇa*).
+
+**Pratipadārtha** *(pp. 286–287)* — "**yad ha** — whenever, wherever; **marutaḥ** — the Maruts; **yānti** — move (then); **adhvan ā** — all around on the way; **saṃ bruvate ha** — together they sound well; **eṣām** — of these Maruts [the sound]; **kaś cit** — every one (that is, everybody); **śṛṇoti** — hears [it] (certainly)."
+
+**Bhāvārtha** *(p. 287)* — "The Maruts, who enliven the world, move making sound at all the places where they move. Since they move through the whole world, people everywhere hear their sound."
+
+**English Translation (the source's own, p. 287)** — "Wherever the Maruts pass they make great noises in their way ; every one hears their noise."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 287** — "When the wind blows with great force, every single person certainly hears its sound: such is the sense."
+
+**Vyākaraṇa-prakriyā** *(p. 287, begun; the rest on p. 288 not yet written)*
+- **yānti**: *yā prāpaṇe*, *laṭ*, *jhi*; *jho 'ntaḥ* — झोऽन्तः — [Pā. 7-1-3, as read [?]] gives *ant* for *jh*; the substitute is ordered in the *aṅgādhikāra*, hence it is *antaraṅga* (the suffix being dependent on the base); the accent of the suffix (*ādyudātta*) comes first by the rule *āyannādi-…* [as read, doubtful]; *ant* is acute on the first syllable by the accent of a suffix; *śap* elided (*adādi*); *yā + anti*, *savarṇadīrgha*, and by *ekādeśa udāttena* the single substitute is acute.
+- **bruvate**: *brūñ vyaktāyāṃ vāci*, *laṭ*, *jha*; *śap* elided (*adādi*); *ātmanepadeṣv nataḥ* — आत्मनेपदेष्वनतः — *at* for *jha*; *ṭi* becomes *e*; *brū + ate*; *sārvadhātukārdhadhātukayoḥ* — सार्वधातुकार्धधातुकयोः — [Pā. 7-3-84 as read [?]] gives *guṇa*, and *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* — अचि श्नुधातुभ्रुवां य्वोरियङुवङौ — [Pā. 6-4-77 as read [?]] gives *uvaṅ*; if there is a conflict the later rule is to be applied, *vipratiṣedhe paraṃ kāryam* — विप्रतिषेधे परं कार्यम् — [Pā. 1-4-2 as read [?]], namely *guṇa*; but *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — … *(continued on p. 288, PDF 302.)*
+
+---
+
+**Vyākaraṇa-prakriyā of Rik 37.13, continued** *(p. 288, PDF 302 — grammar page, noted briefly)*
+- **bruvate**, concluded: *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — [Pā. 1-2-4 as read [?]], hence *ṅit*; and *kṅiti ca* — क्ङिति च — [Pā. 1-1-5 as read [?]] prohibits *guṇa*; therefore only the *uvaṅ*-substitution comes.
+- **adhvan**: *supāṃ sulug…* — सुपां सुलुक्… — the locative ending is elided.
+- **śṛṇoti**: *śru śravaṇe*, *tip*; *śruvaḥ śṛ ca* — श्रुवः शृ च — [Pā. 3-1-74 as read [?]]: the substitute *śṛ* and the *vikaraṇa śnu* come; *guṇa* and so on; because *tip* is *pit* it is *anudātta*, and the accent stands on the *vikaraṇa*. Rik 13 ends here (*|| 13 ||*).
+
+---
+
+### Rik 37.14 (pp. 288–290, PDF 302–304)
+
+**Saṃhitā-pāṭha** *(p. 288; accents printed)*
+
+> **प्र यात शीभमाशुभिः सन्ति कण्वेषु वो दुवः ।**
+> **तत्रो षु मादयाध्वै ॥ १४ ॥**
+
+*pra yāta śībham āśubhiḥ santi kaṇveṣu vo duvaḥ |*
+*tatro ṣu mādayādhvai || 14 ||*
+
+**Pada-pāṭha** *(p. 288)*
+
+> प्र । यात । शीभम् । आशुभिः । सन्ति । कण्वेषु । वः । दुवः ।
+> तत्रो इति । सु । मादयाध्वै ॥ १४ ॥
+
+*pra | yāta | śībham | āśu-bhiḥ | santi | kaṇveṣu | vaḥ | duvaḥ |*
+*tatro iti | su | mādayādhvai || 14 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 288–289)*
+
+> **हे मरुत आशुभिर्वेगवद्भिः स्वकीयैर्वाहनैः शीभं शीघ्रं । शीभं तृषु तूयमिति [?] क्षिप्रनामसु पाठात् । प्रयात । प्रकर्षेण कर्मभूमिं गच्छत । कण्वेषु मेधाविष्वनुष्ठातृषु वो युष्माकं दुवो दुवांसि परिचरणानि सन्ति । तत्रो षु तेष्वेव परिचारकेषु कण्वेषु मादयाध्वै । तृप्ता भवत ॥ आशुभिः । अशू व्याप्तौ । कृवापाजीत्यादिना उण् । प्रत्ययस्वरः । सन्ति । श्नसोरल्लोपे इत्याकारलोपः । मादयाध्वै । मद तृप्तियोगे । चुरादिः । आकुस्मीये आत्मनेपदी । लेट्यडागमः । टेरेत्वं । वैतोऽन्यत्र । [Pā. 3-4-96, as read [?]] । इत्येकारस्यैकारादेशः ॥**
+
+*he maruta āśubhir vegavadbhiḥ svakīyair vāhanaiḥ śībhaṃ śīghraṃ | śībhaṃ tṛṣu tūyam iti [?] kṣipranāmasu pāṭhāt | prayāta | prakarṣeṇa karmabhūmiṃ gacchata | kaṇveṣu medhāviṣv anuṣṭhātṛṣu vo yuṣmākaṃ duvo duvāṃsi paricaraṇāni santi | tatro ṣu teṣv eva paricārakeṣu kaṇveṣu mādayādhvai | tṛptā bhavata || āśubhiḥ | aśū vyāptau | kṛvāpājity ādinā uṇ | pratyayasvaraḥ | santi | śnasor allope ity ākāralopaḥ | mādayādhvai | mada tṛptiyoge | curādiḥ | ākusmīye ātmanepadī | leṭy aḍāgamaḥ | ṭer etvaṃ | vaito 'nyatra | [Pā. 3-4-96, as read [?]] | ity ekārasyaikārādeśaḥ ||*
+
+**Translation:** "O Maruts, *āśubhiḥ* — with your own swift, speedy vehicles — *śībham*, quickly ('*śībham*, *tṛṣu*, *tūyam*' [as read, doubtful [?]]: it is read among the names of 'quick'); *prayāta* — go forth strongly to the place of the rite. Among the *kaṇvas*, the wise performers, *vaḥ*, for you, *duvaḥ* — services, attentions — *santi*, there are. *Tatro ṣu* — among those very servants, the Kaṇvas, *mādayādhvai* — be satisfied; become pleased. *Āśubhiḥ*: root *aśū vyāptau*; the *uṇ* suffix by [the Uṇādi rule] *kṛvāpāji-…*; the accent of the suffix. *Santi*: by *śnasor allopaḥ* the loss of the *a*. *Mādayādhvai*: root *mada tṛptiyoge*, of the *curādi* class; belongs to the *ākusmīya* [roots], *ātmanepada*; in *leṭ*, the augment *aṭ*; *e* for *ṭi*; by *vaito 'nyatra* [Pā. 3-4-96, as read [?]] the *e* is replaced by *ai*."
+
+**Pratipadārtha** *(p. 289)* — "**āśubhiḥ** — O Maruts, with your swift-going [vehicles]; **śībham** — promptly; **prayāta** — come rightly to the place of the sacrifice; **kaṇveṣu** — among the Kaṇvas, the wise sacrificers; **vaḥ** — for you; **duvaḥ** — materials of worship and so on; **santi** — are ready; **tatro ṣu** — among those very sacrificers (in their concern); **mādayādhvai** — be satisfied."
+
+**Bhāvārtha** *(p. 289)* — "O Maruts, because all the affairs of the world must proceed by your impulsion, you must always be satisfied. For your satisfaction, the wise sacrificers have kept ready, and wait with, the materials of worship that must go to your share. Come to the place of the rite, doing us the favour, on your swift-moving vehicles; accept their worship and so on, and show your satisfaction among the sacrificers."
+
+**English Translation (the source's own, p. 289)** — "O Maruts, come quickly with your swift moving ( vehicles ); the Kanwas have prepared the offerings ; be pleased with them."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 289**
+- **āśubhiḥ** = *aśū vyāptau | vegavadbhiḥ svakīyair vāhanaiḥ* — "by your own vehicles that can move swiftly."
+- **śībham** = *śīghram* — "since the word *śībham* is read among the twenty-six [as read, *ippattāru*] names of 'quick' beginning with *nu* (Ni. 2-9 [?], as read), *śībham* means 'quickly', 'at once'."
+- **mādayādhvai** = *mada tṛptiyoge* — "attain satisfaction."
+
+**Vyākaraṇa-prakriyā** *(pp. 289–290 — grammar page, noted briefly)*
+- **āśubhiḥ**: *aśū vyāptau*; *kṛvāpāji-misvadi-sādhyaśūbhya uṇ* — कृवापाजिमिस्वदिसाध्यशूभ्य उण् — [Uṇ. 1-1 [?], as read]: the Uṇādi *uṇ*; *ādyudāttaś ca* gives the suffix the first-syllable acute.
+- **santi**: *as bhuvi*, *jhi*, *ant* for *jh*, *śap* elided; *as + anti*; *śnasor allopaḥ* — श्नसोरल्लोपः — [Pā. 6-4-111 as read]: before a *kit* or *ṅit sārvadhātuka* the *a* of *śna* and of *as* is lost.
+- **mādayādhvai**: *mada tṛptiyoge*, tenth class; "in this class, from the root *cita saṃketane* up to *kusma*, the roots called *ākusmīya*" take the *ātmanepada* even where the fruit does not go to the agent; *leṭ*; *aṭ* as augment; madhyama-puruṣa plural *dhvam*; *ṭi* → *e*; *mad + i + ādhvai*; *upadhā-vṛddhi*, *guṇa*, *ay*-substitution: *mādaya + ādhvai*. By *vaito 'nyatra* — वैतोऽन्यत्र — [Pā. 3-4-96, as read [?]], leaving aside the matter of the sūtra *ātaḥ…* [garbled in print], the *e* of *leṭ* optionally gets *ai*: hence *mādayādhvai*. Rik 14 ends here (*|| 14 ||*).
+
+---
+
+### Rik 37.15 (pp. 290–292, PDF 304–306)
+
+**Saṃhitā-pāṭha** *(p. 290; accents printed)*
+
+> **अस्ति हि ष्मा मदाय वः स्मसि ष्मा वयमेषाम् ।**
+> **विश्वं चिदायुर्जीवसे ॥ १५ ॥**
+
+*asti hi ṣmā madāya vaḥ smasi ṣmā vayam eṣām |*
+*viśvaṃ cid āyur jīvase || 15 ||*
+
+**Pada-pāṭha** *(p. 290)*
+
+> अस्ति । हि । स्म । मदाय । वः । स्मसि । स्म । वयम् । एषाम् ।
+> विश्वम् । चित् । आयुः । जीवसे ॥ १५ ॥
+
+*asti | hi | sma | madāya | vaḥ | smasi | sma | vayam | eṣām |*
+*viśvam | cit | āyuḥ | jīvase || 15 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 290–291)*
+
+> **हे मरुतो वो युष्माकं मदाय तृप्तयेऽस्ति हि ष्म । अस्माभिः प्रयुज्यमानं हविर्वो विद्यते खलु । एषां युष्माकं भृत्यभूता वयं स्मसि ष्म । विद्यामहे खलु । जीवसे जीवितुं विश्वं चिदायुः सर्वमप्यायुः प्रयच्छेति शेषः ॥ ष्म । निपातस्य चेति संहितायां दीर्घः । स्मसि । इदन्तो मसिः । जीवसे । तुमर्थे सेसेनित्यसे प्रत्ययः ॥**
+
+*he maruto vo yuṣmākaṃ madāya tṛptaye 'sti hi ṣma | asmābhiḥ prayujyamānaṃ havir vo vidyate khalu | eṣāṃ yuṣmākaṃ bhṛtyabhūtā vayaṃ smasi ṣma | vidyāmahe khalu | jīvase jīvituṃ viśvaṃ cid āyuḥ sarvam apy āyuḥ prayaccheti śeṣaḥ || ṣma | nipātasya ceti saṃhitāyāṃ dīrghaḥ | smasi | idanto masiḥ | jīvase | tumarthe sesenity ase pratyayaḥ ||*
+
+**Translation:** "O Maruts, *vaḥ* — for your *madāya*, satisfaction, *asti hi ṣma* — there is, indeed: the oblation that is being offered by us is surely at hand for you. *Eṣām* — of you [as such], *vayam* — we, who have become your servants, *smasi ṣma* — we are, indeed: we are at hand. *Jīvase* — in order to live — *viśvaṃ cid āyuḥ*, the whole of life — grant [it]: so the remainder is to be supplied. *Ṣma*: the lengthening in the Saṃhitā by *nipātasya ca*. *Smasi*: the *masi*-ending taking *i*. *Jīvase*: the suffix *ase* in the sense of the infinitive [*tumartha*], by the rule *tumarthe se-sen-…* [as printed]."
+
+**Pratipadārtha** *(p. 291)* — "**vaḥ** — (O Maruts) your; **madāya** — for the sake of [your] satisfaction; **asti hi ṣma** — [the oblation prepared by us] is indeed ready; **eṣām** — of you [your devotees]; **vayam** — we; **smasi ṣma** — we are indeed ready; **jīvase** — for our living here; **viśvaṃ cid āyuḥ** — give [us] a complete life-span."
+
+**Bhāvārtha** *(p. 291)* — "O Maruts, for your satisfaction we have obtained oblations and have kept them ready. As your devotees we are ready for your service at all times. So that we may help to give you everlasting satisfaction, and so that we may be able to live a long time, favour us with a full span of life."
+
+**English Translation (the source's own, p. 291)** — "The offering is prepared for your gratification. we are your worshippers ; give us long life." *(The lower-case "we" after the full stop is as printed.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 291**
+- **hi ṣma** — "indicates the well-known sense (*prasiddhārtha*)."
+- **smasi** = *vidyāmahe* — "'we wish' — that is, we are ready to praise you: this is the sense."
+- **viśvaṃ cid āyuḥ** — "the entire life-span: that is, favour us men with the hundred years that we can live, or an even longer span of life."
+
+**Vyākaraṇa-prakriyā** *(pp. 291–292 — grammar page, noted briefly)*
+- **ṣma**: *nipātasya ca* — निपातस्य च — [Pā. 6-3-13? as read [?]]: in a mantra a *nipāta* takes the long vowel; hence the long (*ṣmā*).
+- **smasi**: *as bhuvi*; *mas*; by *śnasor allopaḥ* the *a* of the root is lost; by *idanto masiḥ* — इदन्तो मसिः — [Pā. 7-1-46 as read [?]] the augment *ik* comes to *mas* (this is the refined sense), and when the *ik* comes it becomes *smasi*.
+- **jīvase**: *jīva prāṇadhāraṇe*; the suffix *ase* in the sense of the infinitive by the rule beginning *tumarthe se-sen-…* [as printed]. Rik 15 ends here (*|| 15 ||*).
+
+**Close of Sūkta 37.** Printed on p. 292, after the grammar: "*illige 37ne sūkta pūrṇavu*" — "Here the 37th sūkta is complete." *(The numeral is read as "37" in the print; the Kannada script is clear in this closing note.)* With it the Eighth Anuvāka's second sūkta (printed pp. 251–292) ends. Below it, on the same leaf (p. 292), begins Sūkta 38 (*kad dha nūnam*, 15 Riks, Kaṇva Ghaura, Maruts, Gāyatrī) with its Sanskrit introduction and Kannada *anuvāda*; these are **not yet written** and belong to the next session.
+
+**Summary of Sūkta 37 (my note).** Fifteen Riks to the Maruts, all written in full. Riks 10–13 (the part most recently written) speak of their spreading of the waters and driving the cows to drink, of the cloud they set in motion, of their strength impelling beings and clouds, and of the sound of their going; Riks 14–15 invite them to the offering prepared by the Kaṇvas and pray for a full life. The doubtful parts are the Sanskrit introduction on p. 251 and the many small reference numerals (see the flags below).
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–37 COMPLETE (printed pp. 1–292 = PDF 15–306; Sūkta 37 occupies pp. 251–292 and closes at the top of p. 292).**
+
+**Next task:** Sūkta 38 (*kad dha nūnam*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī), starting with its heading, Sanskrit introduction and Kannada *anuvāda* on printed p. 292 (PDF 306), which share the leaf with the end of Sūkta 37 (not yet written); then Rik 1 on p. 293 (PDF 307). One session per sūkta; read the last ~40 lines of this file first. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 306 -l 312 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md and the git history of this file). For Sūkta 37: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) Nirukta, Ṛgveda, Brāhmaṇa, Uṇādi and Pāṇini references are small and uncertain and are marked [?] or "as read" (in Riks 11–15 every Pāṇini number is "as read [?]"); (4) the verse on *mānuṣa*/*māṇava* in Rik 7's grammar is doubtful; (5) grammar notes of Riks 1–15 are characterized from crowded passages and may contain slips (especially Rik 8's *vyavasthitavibhāṣā*, Rik 9's *eṣām*, Rik 11's *amṛdhra*, Rik 13's *yānti* accent passage, Rik 14's *vaito 'nyatra* passage); (6) misprints reproduced as printed: Riks 1, 2 ("maruths", "Maruths"), 6 ("whᵒ"), 8 ("aproach", "ehfeebled", "tbrough"), 11 ("uninjuarable" [sic]), 15 (lower-case "we" after a full stop); (7) Rik 11's second Pada line (foot of p. 281) was omitted when Rik 11 was first written and is supplied by a correction note; (8) in Rik 12 the lakāra of *acucyavītana* is not legible to me and the Special Topics heading prints *gha* though the Rik has *ha*; (9) Rik 14's bhāṣya quotation of the *kṣipra* names (*śībhaṃ tṛṣu tūyam*) is doubtful; (10) Rik 11's *avṛdhram* was checked on an enlarged slice and is as read.

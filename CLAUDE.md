@@ -12,8 +12,8 @@ Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 4: Sūktas 33, 34 and 35 are COMPLETE (printed pp. 1–176 = PDF 15–190).** **Next task: Sūkta 36** (*pra vo yahvam*, Maṇḍala 1, Anuvāka 8, 20 Riks, ṛṣi Kaṇva Ghaura),
-which begins at the foot of printed p. 176 = PDF 190 (the end of Sūkta 35 shares that leaf; only that end was written from it), and runs to about printed p. 250 (Sūkta 37 at p. 251 per the contents table; check).
+**Volume 4: Sūktas 33–37 are COMPLETE (printed pp. 1–292 = PDF 15–306).** **Next task: Sūkta 38** (*kad dha nūnam*, Maṇḍala 1, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī),
+whose heading, Sanskrit introduction and Kannada anuvāda are at the foot of printed p. 292 = PDF 306 (the end of Sūkta 37 shares that leaf; not yet written); Rik 1 is on p. 293 (PDF 307). Check the contents table for where Sūkta 38 ends.
 One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
 The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
