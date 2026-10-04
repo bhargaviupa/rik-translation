@@ -2141,8 +2141,149 @@
 
 ---
 
+**Rik 50.3, continued** *(from p. 114)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 114**
+- **ketavaḥ prajñāpakāḥ** — "the word *ketu* has the sense of 'knowledge' (Ni. 3-[?]3 as read); here, since *ketavaḥ* is an adjective of *raśmayaḥ*, *ketavaḥ* may be said to mean 'those that make knowledge arise, that impel the understanding', and so on. Because, with the help of the rays of the Sun or the Sun's light, there arises knowledge of outer things, the commentator gives *ketavaḥ* the sense 'giving knowledge'."
+- **adṛśram raśmayaḥ janān anu** — "the rays of the Sun look at men: that is, the rays of the Sun shine among the people (in the world), and with the help of that light the people become able to look at the things of the universe."
+- **bhrājanto agnayo yathā** — "as fire, burning well and blazing, lights up the world, so the rays of the Sun too light up the whole universe."
+
+**Vyākaraṇa-prakriyā** *(p. 115 — grammar page, noted briefly)*
+- **adṛśram**: root *dṛśir prekṣaṇe*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *luṅ* in the present sense; third person plural *jhi* would be obtained, but by *vyatyayo bahulam* and *tiṅāṃ tiṅo bhavanti* a first-person singular ending (*mip*) comes in its place; *dṛś + mi*; *itaś ca* (Pā. 3-4-100 as read) drops the *i*; *cli* → *aṅ* by *irito vā* (Pā. 3-1-57 as read), since *dṛśir* has the marker *ir*; *dṛś + a + am*; *bahulaṃ chandasi* (Pā. 2-1-8 [? as read]) gives the augment *ruṭ* — in this sūtra the *ruṭ* is carried over from *śīṅjoḥ ruṭ* — to a suffix standing after a root; the *aṭ*, being what *luṅ* causes, comes to the root: *a-dṛś-ruṭ-a-m*: *adṛśram*; *ṛdṛśo 'ṅi guṇaḥ* (Pā. 7-4-16 as read) would give *guṇa* to the *ṛ*, but because of *bahulam* (stated just before) no *guṇa* comes here. The Kannada author adds that in other recensions the third-person plural itself is heard, "*adṛśrann asya ketavaḥ*" (Atharva Saṃhitā 13-1-18 as read [?]).
+- **janān**: *dīrghād aṭi samānapāde* (Pā. 8-3-9 as read) gives *ru* for the *n* in the Saṃhitā, then *y*-substitution and loss; *atrānunāsikaḥ pūrvasya tu vā* (Pā. 8-3-2 as read) gives nasalization before the *ru*; in the *pada*-text, *janān*.
+- **bhrājantaḥ**: root *bhrāja dīptau*, *bhvādi*; *lṛṭ*?— the print says *laṭaḥ śatṛśānacau* (Pā. 3-2-124 as read), *śatṛ*; *śap* as *vikaraṇa* because *śit* follows; *bhrājat*, a stem in *t*; in the nominative plural *jas*, with the *sarvanāmasthāna* name, the stem being *ugit* gets *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *anusvāra* and homogeneous nasal: *bhrājantaḥ*; *śap* is *pit* and unaccented; *śatṛ*, *lasārvadhātuka*, is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read), being after the *śap*; the root-accent alone remains; *bhrājantaḥ* is initial-acute. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 114 (PDF 130) reached; title, introduction, anuvāda, heading and Riks 50.1–50.2 complete; Rik 50.3's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English are written; its Special Topics (begin mid-p. 114) and grammar are NOT yet written.**
+### Rik 50.4 (pp. 116–120, PDF 132–136)
 
-**Next task:** continue at printed p. 114 (PDF 130, at the heading "viśeṣa viṣayagaḷu" lower on the page): insert "**Rik 50.3, continued** *(from p. 114)*" with the Special Topics and grammar of Rik 3; then Riks 4–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 130 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-130.jpg`). Flags for 50.1–3: Anukramaṇikā word "saptronā" crowded; Nirukta, Taittirīya, Atharvaveda, Uṇādi and Mahābhāṣya numerals all "as read [?]" (the Uṇādi number printed "4-666" in 50.1 as printed [?]); Nirukta/Taittirīya citations have glosses mine and tentative; the source's English in 50.3 gives "High illuminating rays" and "llke" (kept [sic]); 50.2's English has "approuch" [sic]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 116; accents not reproduced)*
+
+> **तरणिर्विश्वदर्शतो ज्योतिष्कृदसि सूर्य ।**
+> **विश्वमा भासि रोचनम् ॥ ४ ॥**
+
+*taraṇir viśvadarśato jyotiṣkṛd asi sūrya |*
+*viśvam ā bhāsi rocanam || 4 ||*
+
+**Pada-pāṭha** *(p. 116)*
+
+> तरणिः । विश्वऽदर्शतः । ज्योतिःऽकृत् । असि । सूर्य ।
+> विश्वम् । आ । भासि । रोचनम् ॥ ४ ॥
+
+*taraṇiḥ | viśva-darśataḥ | jyotiḥ-kṛt | asi | sūrya |*
+*viśvam | ā | bhāsi | rocanam || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 116–117)*
+
+> **चातुर्मास्येषु शुनासीर्ये पर्वणि सौर्य एककपालः । तस्य तरणिरित्येषानुवाक्या । तथा च सूत्रितं । तरणिर्विश्वदर्शतश्चित्रं देवानामुदगादनीकमिति याज्यानुवाक्याः । आ. २-२० [?] । इति । तथातिमूर्तिनाम्न्येकाहे कृष्णपक्षे सौर्येष्टिः कर्तव्या । तस्यामस्यैषानुवाक्या । अतिमूर्तिनेति खण्डे सूत्रितं । नवो नवो भवति जायमानस्तरणिर्विश्वदर्शतः । आ. ९-८ [?] । इति ॥**
+>
+> **हे सूर्य त्वं तरणिस्तरिता । अन्येन गन्तुमशक्यस्य महतोऽध्वनो गन्तासि । तथा च स्मर्यते । योजनानां सहस्रे द्वे द्वे शते द्वे च योजने । एकेन निमिषार्धेन क्रममाण नमोऽस्तु ते ॥ इति । यद्वा । उपासकानां रोगात्तारयितासि । आरोग्यं भास्करादिच्छेदिति स्मरणात् । तथा विश्वदर्शतो विश्वैः सर्वैः प्राणिभिर्दर्शनीयः । आदित्यदर्शनस्य चण्डालादिदर्शनजनितपापनिर्हरणहेतुत्वात् । तथा चापस्तम्बः । दर्शने ज्योतिषां दर्शनमिति । यद्वा । विश्वं सकलं भूतजातं दर्शतं द्रष्टव्यं प्रकाश्यं येन स तथोक्तः । तथा ज्योतिष्कृत् ज्योतिषः प्रकाशस्य कर्ता । सर्वस्य वस्तुनः प्रकाशयितेत्यर्थः । यद्वा । चन्द्रादीनां रात्रौ प्रकाशयिता । रात्रौ हि बिम्बीयेषु चन्द्रादिबिम्बेषु सूर्यकिरणाः प्रतिफलिताः सन्तोऽन्धकारं निवारयन्ति यथा द्वारस्थदर्पणोपरि निपतिताः सूर्यरश्मयो गृहान्तर्गतं तमो निवारयन्ति तद्वदित्यर्थः । यस्मादेवं तस्माद्विश्वं व्याप्तं रोचनं रोचमानमन्तरिक्षमा समन्ताद्भासि । प्रकाशयसि ॥**
+
+*cāturmāsyeṣu śunāsīrye parvaṇi saurya ekakapālaḥ | tasya taraṇir ity eṣānuvākyā | tathā ca sūtritaṃ | taraṇir viśvadarśataś citraṃ devānām udagād anīkam iti yājyānuvākyāḥ | ā. 2-20 [?] | iti | tathātimūrtināmny ekāhe kṛṣṇapakṣe sauryeṣṭiḥ kartavyā | tasyām asyaiṣānuvākyā | atimūrtineti khaṇḍe sūtritaṃ | navo navo bhavati jāyamānas taraṇir viśvadarśataḥ | ā. 9-8 [?] | iti ||*
+
+*he sūrya tvaṃ taraṇis taritā | anyena gantum aśakyasya mahato 'dhvano gantāsi | tathā ca smaryate | yojanānāṃ sahasre dve dve śate dve ca yojane | ekena nimiṣārdhena kramamāṇa namo 'stu te || iti | yadvā | upāsakānāṃ rogāt tārayitāsi | ārogyaṃ bhāskarād icchet iti smaraṇāt | tathā viśvadarśato viśvaiḥ sarvaiḥ prāṇibhir darśanīyaḥ | ādityadarśanasya caṇḍālādidarśanajanitapāpanirharaṇahetutvāt | tathā cāpastambaḥ | darśane jyotiṣāṃ darśanam iti | yadvā | viśvaṃ sakalaṃ bhūtajātaṃ darśataṃ draṣṭavyaṃ prakāśyaṃ yena sa tathoktaḥ | tathā jyotiṣkṛt jyotiṣaḥ prakāśasya kartā | sarvasya vastunaḥ prakāśayiteti arthaḥ | yadvā | candrādīnāṃ rātrau prakāśayitā | rātrau hi bimbīyeṣu candrādibimbeṣu sūryakiraṇāḥ pratiphalitāḥ santo 'ndhakāraṃ nivārayanti yathā dvārasthadarpaṇopari nipatitāḥ sūryaraśmayo gṛhāntargataṃ tamo nivārayanti tadvad ity arthaḥ | yasmād evaṃ tasmād viśvaṃ vyāptaṃ rocanaṃ rocamānam antarikṣam ā samantād bhāsi | prakāśayasi ||*
+
+*(Crowded: the Āśvalāyana numerals "2-20" and "9-8" [?]; the verse "yojanānāṃ sahasre dve…" as printed.)*
+
+**The bhāṣya continues with a second, Vedāntic reading (p. 116 foot – p. 117):**
+
+> **यद्वा । हे सूर्य अन्तर्यामितया सर्वस्य प्रेरक परमात्मन् तरणिः संसाराब्धेस्तारकोऽसि । यस्मात्त्वं विश्वदर्शतो विश्वैः सर्वैर्मुमुक्षुभिर्दर्शतो द्रष्टव्यः । साक्षात्कर्तव्य इत्यर्थः । अधिष्ठानसाक्षात्कारे ह्यारोपितं निवर्तते । ज्योतिष्कृत् ज्योतिषः सूर्यादेः कर्ता । तथा चाम्नायते । चन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत । तै. आ. ३-१२-६ [?] । इति । ईदृशस्त्वं चिद्रूपतया विश्वं सर्वं दृश्यजातं रोचनं रोचमानं दीप्यमानं यथा भवति तथा भासि । प्रकाशयसि । चैतन्यस्फुरणे हि सर्वं जगद्दृश्यते । तथा चाम्नायते । तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति । क. उ. ३-१५ [?] । इति ॥ तरणिः । तॄ प्लवनतरणयोः । अस्मादन्तर्भावितण्यर्थादर्तिसृभृधृधम्यश्यविभ्रिभ्योऽनिः । उ. २-१०१ [?] । इत्यनिप्रत्ययः । प्रत्ययाद्युदात्तत्वं । ज्योतिष्कृत् । ज्योतिः करोतीति । क्विप् च । नित्यं समासेऽनुत्तरपदस्थस्येति विसर्जनीयस्य षत्वं । भासि । भा दीप्तौ । अन्तर्भावितण्यर्थाल्लट् । अदादित्वाच्छपो लुक् ॥**
+
+*yadvā | he sūrya antaryāmitayā sarvasya preraka paramātman taraṇiḥ saṃsārābdhes tārako 'si | yasmāt tvaṃ viśvadarśato viśvaiḥ sarvair mumukṣubhir darśato draṣṭavyaḥ | sākṣātkartavya ity arthaḥ | adhiṣṭhānasākṣātkāre hy āropitaṃ nivartate | jyotiṣkṛt jyotiṣaḥ sūryādeḥ kartā | tathā cāmnāyate | candramā manaso jātaś cakṣoḥ sūryo ajāyata | tai. ā. 3-12-6 [?] | iti | īdṛśas tvaṃ cidrūpatayā viśvaṃ sarvaṃ dṛśyajātaṃ rocanaṃ rocamānaṃ dīpyamānaṃ yathā bhavati tathā bhāsi | prakāśayasi | caitanyasphuraṇe hi sarvaṃ jagad dṛśyate | tathā cāmnāyate | tam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti | ka. u. 3-15 [?] | iti || taraṇiḥ | tṝ plavanataraṇayoḥ | asmād antarbhāvitaṇyarthād artisṛbhṛdhṛdhamyaśyavibhribhyo 'niḥ | u. 2-101 [?] | ity anipratyayaḥ | pratyayādyudāttatvaṃ | jyotiṣkṛt | jyotiḥ karotīti | kvip ca | nityaṃ samāse 'nuttarapadasthasyeti visarjanīyasya ṣatvaṃ | bhāsi | bhā dīptau | antarbhāvitaṇyarthāl laṭ | adādittvāc chapo luk ||*
+
+*(Crowded: the Taittirīya Āraṇyaka and Kaṭha Upaniṣad references, the Uṇādi number, and the root-list of the Uṇādi rule; as read, [?]. The print's rule-name reads "artisṛbhṛdhṛdhamyaśyavibhribhyo" [?].)*
+
+**Translation (first sense):** "In the Cāturmāsya (four-monthly) rites, at the *Śunāsīrya* parvan, there is a *saurya* offering on a single potsherd; for it this ṛk '*taraṇi*' is the *anuvākyā*; so it is prescribed: '*taraṇir viśvadarśataḥ*, *citraṃ devānām udagād anīkam*, the *yājyā* and *anuvākyā*' (Āśv. 2-20 [?]). Likewise, in the one-day rite named *Atimūrti*, in the dark fortnight, a Saurya *iṣṭi* is to be done, and for it this ṛk is the *anuvākyā*: prescribed in the section '*atimūrtinā*': '*navo navo bhavati jāyamānas taraṇir viśvadarśataḥ*' (Āśv. 9-8 [?]). O Sūrya, you are *taraṇiḥ*, the crosser, the one who travels the great road that none other can travel; and thus it is remembered: 'Homage to you, who, in half a twinkling, cross two thousand two hundred and two *yojanas*'. Or: you ferry the worshippers out of disease: 'one should wish for health from the Sun', so runs the Smṛti. And *viśvadarśataḥ*, to be seen by all beings: since the seeing of the Āditya removes the sin that arises from seeing a Caṇḍāla and the like; so Āpastamba: 'on seeing, the sight of the lights'. Or *viśvadarśataḥ*: he by whom the whole creation is made visible. *Jyotiṣkṛt*: the maker of light, the illuminer of everything; or the illuminer, at night, of the Moon and the rest: at night the Sun's rays, reflected in the disks of the Moon and the rest, dispel the darkness, as the Sun's rays that fall on a mirror at a door dispel the darkness inside the house. Since it is so, *viśvam rocanam*, the whole, pervading, shining middle region, *ā bhāsi*, you light up on every side."
+
+**Translation (second, Vedāntic sense):** "Or: O Sūrya — O Supreme Self, who from within impel all — you are *taraṇiḥ*, the one who takes across the ocean of *saṃsāra*; since you are *viśvadarśataḥ*, to be seen, that is, realized, by all who seek liberation; for when the ground is directly known, what was superimposed on it ceases. *Jyotiṣkṛt*: the maker of the lights, the Sun and the rest: as it is said, 'the Moon was born of the mind, the Sun was born of the eye' (Tai. Ā. 3-12-6 [?]). Being such, you, in the form of consciousness, *bhāsi*, shine so that the whole visible universe is *rocanam*, shining: for, when consciousness flashes forth, the whole world is seen; as it is said, 'after him, as he shines, everything shines; by his light all this shines' (Kaṭha Up. 3-15 [?])." *(The grammatical tail is as given in the Sanskrit above:* taraṇiḥ*: root *tṝ plavanataraṇayoḥ* with the causative sense included; the Uṇādi *ani*-suffix (Uṇ. 2-101 [?]); initial acute of the suffix; jyotiṣkṛt*: *kvip*; *ṣatva* of the *visarga* in a compound by *nityaṃ samāse 'nuttarapadasthasya*; *bhāsi*: root *bhā dīptau*, *śap* dropped, being of the *adādi* class.)*
+
+**Pratipadārtha** *(p. 117)* — "**sūrya** — O god Sūrya; **taraṇiḥ** — (you) who travel along the great path that others cannot, or who take (your worshippers) across from disease; **asi** — you are; **viśvadarśataḥ** — who are seen by all beings, or who make all beings shine; **jyotiṣkṛt** — who make light, or make the Moon and the rest of the nature of light (therefore); **viśvam** — pervading everywhere; **rocanam** — the atmosphere; **ā bhāsi** — you light up all round."
+
+**Bhāvārtha** *(p. 117)* — "O god Sūrya, you travel along the great path that cannot be travelled by others, or you carry across those who worship you from disease. You are visible to all beings, or you make all beings visible. You create light; or you place your rays in the Moon, full of dew, and make it of the nature of light. You light up the whole of the all-pervading atmosphere."
+
+**(Alternative sense, Pratipadārtha, p. 117)** — "**sūrya** — O Supreme Self, impelling all as the inner controller; **taraṇiḥ** — you are the one who ferries across the ocean of *saṃsāra*; **viśvadarśataḥ** — to be realized directly by all who desire liberation; **jyotiṣkṛt** — you make the Sun and the rest, which are of the nature of lights; **viśvam** — the whole world; **rocanam** — so that it shines; **ā bhāsi** — you shine all round."
+
+**(Alternative sense, Bhāvārtha, pp. 117–118)** — "O Supreme Self, impelling all while remaining within all as the inner controller: you take everyone across the ocean of *saṃsāra*; therefore all who desire liberation wish to realize you directly. You create the Sun and the other lights. Being of the nature of consciousness, you shine all round so that the whole world shines."
+
+**English Translation (the source's own, p. 118)** — "O Surya, you overtake all in speed ; you are visible to all ; you are the source of light ; you shine throughout the whole firmanent [sic]."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 118–119**
+- "The special use (*viniyoga*) of this ṛk is stated in the Āśvalāyana Śrauta-sūtra: in the *Cāturmāsya* sacrifice, when the *saurya ekakapāla* cake-offering is made to the Sun, this ṛk '*taraṇir viśvadarśataḥ*' is to be used as *yājyā*-mantra, by the sūtra '*taraṇir viśvadarśataś citraṃ devānām udagād anīkam iti yājyānuvākyāḥ*' (Ā. 2-20 [?]); and the *Saurya iṣṭi* that is done in a single day called *Atimūrti* is to be done in the dark fortnight; there this ṛk is to be recited as the *puro 'nuvākyā* mantra; in the section *atimūrtinā* the sūtra '*navo navo bhavati jāyamānas taraṇir viśvadarśataḥ*' explains it."
+- "The commentator has given two senses to this ṛk: one in respect of the Sun seen directly; the other in respect of the Supreme Self who impels all."
+- **taraṇiḥ** — "one who travels the path of the atmosphere, which is difficult for others to go along. The commentator has quoted a verse that the Sun has the power to cross, in the blink of an eye (in the time of half a twinkling), a distance of 2202 *yojanas*. Skandasvāmin explains the word *taraṇi* as '*kṣipra*', 'swiftly'; or one may say 'the remover of diseases'. According to those skilled in medical science, the Sun's light is necessary not only for the existence of many diseases (through his heat) but for the health and the growth of all living beings (and of plant life); our experience in the world is the same; so to say that the Sun removes diseases is quite fitting. There is the saying '*ārogyaṃ bhāskarād icchet*'. In the sense that refers to the Supreme Self, one may say that he takes living beings across the ocean of *saṃsāra*." — **untranslated in the source**:
+
+  > **आरोग्यं भास्करादिच्छेत् ।** *(Smṛti, source not given in the print)*
+
+  *ārogyaṃ bhāskarād icchet |* — mine and tentative: "one should seek health from the Sun."
+- **viśvadarśataḥ** — "one who is looked at by all beings, that is, all look at the Sun; or the Sun looks at the whole world. And it is well known that looking at the Sun as an expiation (*prāyaścitta*) removes faults, to remove ordinary sins; in the recitation of the mantra '*jyok ca sūryaṃ dṛśe*' at times of doing rites, to remove the faults of the world that arise by not seeing (the Sun), there is a custom. Or it may be said, 'he who lights up the whole world with his light'. In respect of the Supreme Self: he is looked at by all knowing ones who desire liberation; that is, those who desire liberation seek the direct realization of the Supreme Self."
+- **jyotiṣkṛt** — "*jyotiṣaḥ prakāśasya kartā*: the cause of light. It is from the Sun that light comes to us; the Sun is the cause of all kinds of light; without the Sun I get no light of any kind. Or, since the Sun's rays, besides giving light to us directly, fall on the Moon's disk and the like and, reflected, reach us indirectly, the Sun is the source of every light. In respect of the Supreme Self: the creator of the bodies of the Sun and other lights. There is a Śruti sentence on this: '*candramā manaso jāto*, *cakṣoḥ sūryo ajāyata*' (Tai. Ā. 3-12-6 [?])." — **untranslated in the source**:
+
+  > **चन्द्रमा मनसो जातश्चक्षोः सूर्यो अजायत ।** *(Tai. Ā. 3-12-6 as read [?]; cf. the Puruṣa-sūkta)*
+
+  *candramā manaso jātaś cakṣoḥ sūryo ajāyata |* — mine and tentative: "the Moon was born of the mind; the Sun was born of the eye."
+- **viśvam ā bhāsi rocanam** — "here *rocanam* means the atmosphere; the Sun lights up the whole wide atmosphere. In respect of the Supreme Self: he lights, by his consciousness, the whole universe of the moving and the unmoving (he impels it)" — **untranslated in the source**, the Kaṭha-Upaniṣad verse:
+
+  > **तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ।** *(Kaṭha Up. 3-15 as read [?]; the print attributes it to the Kaṭhopaniṣad)*
+
+  *tam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti |* — mine and tentative: "after him, as he shines, all shines; by his light all this shines."
+
+**Vyākaraṇa-prakriyā** *(pp. 119–120 — grammar pages, noted briefly)*
+- **taraṇiḥ**: root *tṝ plavanataraṇayoḥ*, *bhvādi*; here the causative sense must be taken as included (*antarbhāvitaṇyartha*; the sense "he who makes cross" is intended, even though no *ṇic* appears); *artisṛbhṛdhṛdhamyaśyavibhribhyo 'niḥ* (Uṇ. 2-[?]01 as read [?]) gives the suffix *ani*; *tṛ + ani*, *guṇa* since an *ārdhadhātuka*-named suffix follows; *r* standing as a cause, *aṭ* … *ṇatva* even with an intervening vowel: *taraṇi*; by the suffix-accent, the *i*'s *a*? [as printed: "the *a* in *ani* is acute"]; *taraṇiḥ* is middle-acute.
+- **jyotiṣkṛt**: "*jyotiḥ karoti*", he who makes light; *kvip ca* (Pā. 3-2-76 as read) gives *kvip* after *ḍukṛñ* [whether or not an *upapada* is present, in the Veda and in the world]; all of *kvip* drops; being *pit*, *hrasvasya piti kṛti tuk* (Pā. 6-1-71 as read) gives *tuk* to the short *ṛ*; being *kit*, the final of the compound-member comes; *jyotiḥ kṛt*; *nityaṃ samāse 'nuttarapadasthasya* (Pā. 8-3-45 as read) gives *ṣatva* of a *visarga* after *iṣ* or *uṣ* (here the *s* of *jyotis*) that does not stand in the second member, before a *ku*- or *pu*-letter, always in a compound: *jyotiṣkṛt*.
+- **bhāsi**: root *bhā dīptau*, *adādi*; here too the causative sense is to be taken inside the root-sense, "he makes shine"; *laṭ*, second person singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 as read) gives *luk* of *śap* because the root is of the *adādi* class; since a *tiṅ* stands in the middle of the *pāda*, *tiṅ atiṅaḥ* gives the all-unaccented. **|| 4 ||**
+
+---
+
+### Rik 50.5 (pp. 120–122, PDF 136–138)
+
+**Saṃhitā-pāṭha** *(p. 120; accents not reproduced)*
+
+> **प्रत्यङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् ।**
+> **प्रत्यङ् विश्वं स्वर्दृशे ॥ ५ ॥**
+
+*pratyaṅ devānāṃ viśaḥ pratyaṅṅ udeṣi mānuṣān |*
+*pratyaṅ viśvaṃ svar dṛśe || 5 ||*
+
+**Pada-pāṭha** *(p. 120)*
+
+> प्रत्यङ् । देवानाम् । विशः । प्रत्यङ् । उत् । एषि । मानुषान् ।
+> प्रत्यङ् । विश्वम् । स्वः । दृशे ॥ ५ ॥
+
+*pratyaṅ | devānām | viśaḥ | pratyaṅ | ut | eṣi | mānuṣān |*
+*pratyaṅ | viśvam | svaḥ | dṛśe || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 120–121)*
+
+> **हे सूर्य त्वं देवानां विशो मरुन्नामकान्देवान् । मरुतो वै देवानां विशः । तै. सं. २-२-५-२ [?] । इति श्रुत्यन्तरात् । तान्मरुत्संज्ञकान्देवान्प्रत्यङ् उदेषि । तानभिगच्छन्नुदयं प्राप्नोषि । तेषामभिमुखं यथा भवति तथेत्यर्थः । तथा मानुषान्मनुष्यान्प्रत्यङ् उदेषि । तेऽपि यथास्मदभिमुख इव सूर्य उदेतीति मन्यन्ते । तथा विश्वं व्याप्तं स्वः स्वर्लोकं दृशे द्रष्टुं प्रत्यङ् उदेषि । यथा स्वर्लोकवासिनो जनाः स्वस्वाभिमुख्येन पश्यन्ति तथोदेषीत्यर्थः । एतदुक्तं भवति । लोकत्रयवर्तिनो जनाः सर्वेऽपि स्वस्वाभिमुख्येन सूर्यं पश्यन्तीति । तथा चाम्नायते । तस्मात्सर्व एव मन्यते मां प्रत्यदगादिति ॥ प्रत्यङ् । प्रत्यञ्चतीति प्रत्यङ् । अञ्चु गतिपूजनयोः । ऋत्विग्दधृगित्यादिना क्विन् । अनिदितामिति नलोपः । उगिदचामिति नुम् । हल्ङ्यादिसंयोगान्तलोपौ । संयोगान्तलोपस्यासिद्धत्वादुपधादीर्घनलोपयोरभावः । क्विन्प्रत्ययस्य कुः । पा. ८-२-६२ । इति कुत्वं । अनिगन्तोऽञ्चतौ । पा. ६-२-५२ । इत्यनिगन्ते इति पर्युदासात्पूर्वपदप्रकृतिस्वराभावे कृदुत्तरपदप्रकृतिस्वरत्वं । एषि । इण् गतौ । सिप्यदादित्वाच्छपो लुक् । आदेशप्रत्यययोरिति षत्वं । स्वः । सुपूर्वादर्तेर्विच् । गुणे यणादेशः । नैज्स्वरा स्वरितौ चेति स्वरितत्वं । दृशे । दृशिर् प्रेक्षण इत्यस्माद्दृशे विख्ये चेति तुमर्थे निपातितः ॥ ५ ॥**
+
+*he sūrya tvaṃ devānāṃ viśo marunnāmakān devān | maruto vai devānāṃ viśaḥ | tai. saṃ. 2-2-5-2 [?] | iti śrutyantarāt | tān marutsaṃjñakān devān pratyaṅ udeṣi | tān abhigacchann udayaṃ prāpnoṣi | teṣām abhimukhaṃ yathā bhavati tathety arthaḥ | tathā mānuṣān manuṣyān pratyaṅ udeṣi | te 'pi yathāsmadabhimukha iva sūrya udetīti manyante | tathā viśvaṃ vyāptaṃ svaḥ svarlokaṃ dṛśe draṣṭuṃ pratyaṅ udeṣi | yathā svarlokavāsino janāḥ svasvābhimukhyena paśyanti tathodeṣīty arthaḥ | etad uktaṃ bhavati | lokatrayavartino janāḥ sarve 'pi svasvābhimukhyena sūryaṃ paśyantīti | tathā cāmnāyate | tasmāt sarva eva manyate māṃ pratyadagād iti || pratyaṅ | pratyañcatīti pratyaṅ | añcu gatipūjanayoḥ | ṛtvigdadhṛg ity ādinā kvin | anidītām iti nalopaḥ | ugidacām iti num | halṅyādisaṃyogāntalopau | saṃyogāntalopasyāsiddhatvād upadhādīrghanalopayor abhāvaḥ | kvinpratyayasya kuḥ | pā. 8-2-62 | iti kutvaṃ | anigantoñcatau | pā. 6-2-52 | ity anigante iti paryudāsāt pūrvapadaprakṛtisvarābhāve kṛduttarapadaprakṛtisvaratvaṃ | eṣi | iṇ gatau | sipy adādittvāc chapo luk | ādeśapratyayayor iti ṣatvaṃ | svaḥ | supūrvād arter vic | guṇe yaṇādeśaḥ | naijsvarā svaritau ceti svaritatvaṃ | dṛśe | dṛśir prekṣaṇa ity asmād dṛśe vikhye ceti tumarthe nipātitaḥ || 5 ||*
+
+*(Crowded: the Taittirīya Saṃhitā number, the rule-name "anigantoñcatau" and its number, and the clause "naijsvarā svaritau ca"; as read, [?]. "Pā. 8-2-62" for the *kutva* rule is as printed.)*
+
+**Translation:** "O Sūrya, you, *devānām viśaḥ*, the gods called Maruts — 'the Maruts are, indeed, the people of the gods' (Tai. Saṃ. 2-2-5-2 [?], another Śruti) — *pratyaṅ udeṣi*, rise facing those gods called Maruts: going towards them, you reach the rising, so as to face them. Likewise, *mānuṣān*, men, you rise facing (*pratyaṅ*); they too think 'the Sun rises as if facing us'. Likewise *viśvam svaḥ dṛśe*, the all-pervading heaven, for it to see, you rise facing it: you rise so that the people who dwell in heaven see you each as facing them. The sense is that all people in the three worlds see the Sun each as facing themselves; as it is declared, 'therefore everyone thinks "he has risen facing me"'. *Pratyaṅ*: 'he who goes towards (*pratyañcati*)'; root *añcu gatipūjanayoḥ*; *kvin* by *ṛtvigdadhṛk…*; the nasal-dropping by *anidītām*; *num* by *ugidacām*; the loss of the final of the conjunct by *hal-ṅyādi*; because that loss is *asiddha*, the lengthening of the penultimate and the loss of the nasal do not come; *kutva* of the *kvin*-suffix (Pā. 8-2-62); by *anigantoñcatau* (Pā. 6-2-52 [?]) the first member's natural accent does not hold and the second member's, as a *kṛdanta*, remains. *Eṣi*: root *iṇ gatau*; *śap* drops in *sip*, the root being *adādi*; *ṣatva* by *ādeśapratyayayoḥ*. *Svaḥ*: *vic* after *ṛ* with *su*; *guṇa*, *yaṇ*; the *svarita*. *Dṛśe*: from *dṛśir prekṣaṇe*; *dṛśe vikhye ca* gives it by *nipātana* in the infinitive sense."
+
+**Pratipadārtha** *(p. 121)* — "**devānām viśaḥ** — (O Sūrya, you) the Maruts, the subjects of the world of the gods; **pratyaṅ** — facing; **udeṣi** — you rise; **mānuṣān pratyaṅ** — facing men (you rise); **viśvam** — the all-pervading; **svaḥ** — the world of heaven; **dṛśe** — to be seen; **pratyaṅ** — you rise facing it."
+
+**Bhāvārtha** *(p. 121)* — "O god Sūrya, you rise facing the Marut gods, who are the subjects of the world of the gods; facing all men; and facing the all-pervading world of heaven, so that all may see you."
+
+**English Translation (the source's own, p. 121)** — "You rise opposite to Maruts (or divine beings) opposite to the men and opposite to all the heaven that they may see."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 121 (first part)**
+- **pratyaṅ** — "facing, opposite."
+- **devānām viśaḥ** — "the commentator has explained these words as 'the Marut deities', and for this has quoted the Taittirīya Saṃhitā sentence '*maruto vai devānāṃ viśaḥ*' (Tai. Saṃ. 2-2-5-2 [?])." — **untranslated in the source**:
+
+  > **मरुतो वै देवानां विशः ।** *(Tai. Saṃ. 2-2-5-2 as read [?])*
+
+  *maruto vai devānāṃ viśaḥ |* — mine and tentative: "the Maruts are, indeed, the people (clan) of the gods."
+
+*(The rest of the Special Topics of Rik 5 begins at the foot of p. 121 and continues on p. 122; then the grammar; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 121 (PDF 137) reached; title, introduction, heading and Riks 50.1–50.4 complete; Rik 50.5's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*pratyaṅ*, *devānāṃ viśaḥ*) are written; the rest of its Special Topics begins at the foot of p. 121 and the grammar follows (p. 122 on) — NOT yet written.**
+
+**Next task:** continue at printed p. 121 foot / p. 122 (PDF 137–138): insert "**Rik 50.5, continued** *(from p. 121 foot)*"; then Riks 6–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 137 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-137.jpg`). Flags for 50.3–5: all Āśvalāyana, Taittirīya, Kaṭha, Uṇādi, Pāṇini numerals "as read [?]"; 50.4 has two readings (the Sun, and the Supreme Self) both given; citations in the Special Topics glossed "mine and tentative". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
