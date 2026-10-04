@@ -4639,8 +4639,132 @@
 
 ---
 
+**Rik 52.14, continued** *(pp. 259–261, PDF 275–277)*
+
+**Sāyaṇa-bhāṣya** *(p. 259)*
+
+> **यस्येन्द्रस्य व्यचो व्यापनं द्यावापृथिवी द्यावापृथिव्यौ नान्वानशाते । प्राप्तुमसमर्थे बभूवतुः । तथा रजसोऽन्तरिक्षलोकस्योपरि सिन्धवः स्यन्दनशीला आपो यस्येन्द्रस्य तेजसोऽन्तमवसानं नानशुः । न प्राप्नुवन् । उतापि च सोमपानेन मदे हर्षे सति स्ववृष्टिं स्वीकृतवृष्टिं वृत्रादिं युध्यतो युध्यमानस्येन्द्रस्य बलस्यान्तं वृत्रादयो न प्रापुः । अतो हे इन्द्र एकस्त्वमन्यत्त्वद्व्यतिरिक्तं विश्वं सर्वं भूतजातमानुषक् आनुषक्तं चकृषे । सकलमपि भूतजातं त्वदधीनमभूदिति भावः ॥**
+
+*yasyendrasya vyaco vyāpanaṃ dyāvāpṛthivī dyāvāpṛthivyau nānvānaśāte | prāptum asamarthe babhūvatuḥ | tathā rajaso 'ntarikṣalokasyopari sindhavaḥ syandanaśīlā āpo yasyendrasya tejaso 'ntam avasānaṃ nānaśuḥ | na prāpnuvan | utāpi ca somapānena made harṣe sati svavṛṣṭiṃ svīkṛtavṛṣṭiṃ vṛtrādiṃ yudhyato yudhyamānasyendrasya balasyāntaṃ vṛtrādayo na prāpuḥ | ato he indra ekas tvam anyat tvadvyatiriktaṃ viśvaṃ sarvaṃ bhūtajātam ānuṣak ānuṣaktaṃ cakṛṣe | sakalam api bhūtajātaṃ tvadadhīnam abhūd iti bhāvaḥ ||*
+
+*(The tail of the bhāṣya, pp. 259–261, is characterized:* dyāvāpṛthivī *(*dyauś ca pṛthivī ca*, the substitute* dyāvā *for* div *by* divo dyāvā*, Pā. 6-3-29 as read [?]; *pṛthivī *with the* ṅīṣ *of* ṣid gaurādibhyaś ca*; *devatādvandve ca *so that both members keep their accent; the quoted Vedic* āpṛthivī rudrapūṣamanthiṣu *(Ṛ./Kāṭh. [?]) about the prohibition);* vyacaḥ *(*vyaca vyājīkaraṇe*, tudādi, Uṇādi* asun*, "*vyaceḥ kuṭādittvam anasi*" Kā. 1-2-1 as read, [?]);* ānaśuḥ *(*aśū vyāptau*, the Vedic* parasmaipada*, the* uṣ *for* jhi *by* parasmaipadānāṃ ṇalatusus…*, reduplication, lengthening of the reduplicative vowel and the augment* nuṭ *by* aśnoteś ca*, *yadvṛttānnityam* barring the* nighāta*);* yudhyataḥ*;* cakṛṣe.)*
+
+**Translation of the bhāṣya:** "That Indra whose *vyacaḥ*, pervasion, *dyāvāpṛthivī*, heaven and earth, *nānvānaśāte*, did not reach — the two were unable to attain it. And of that Indra, *rajasaḥ*, above the atmosphere-world, the *sindhavaḥ*, the streaming waters, did not attain *antam*, the end, the limit of his brilliance. And further, *made*, when delighted by the drinking of soma, *svavṛṣṭim*, with Vṛtra and the like, who had taken the rain to themselves, *yudhyataḥ*, of Indra fighting — Vṛtra and the rest did not attain *antam*, the limit of his strength. Therefore, O Indra, you alone, *anyat viśvam*, everything other than you, all that is born, *ānuṣak*, in succession, *cakṛṣe*, you have made [dependent]: the whole host of beings has become subject to you — this is the sense."
+
+**Pratipadārtha** *(p. 259)* — "**yasya** — of which Indra; **vyacaḥ** — the power that pervades; **dyāvāpṛthivī** — both heaven and earth; **na anu** — were not capable of attaining; (likewise) **rajasaḥ** — streams of water flowing above the atmosphere; **sindhavaḥ** — currents of water; **antam** — (of which Indra's greatness) the limit; **na ānaśuḥ** — did not reach; **uta** — and; **made** — excited by drinking soma; **svavṛṣṭim** — with Vṛtra, who had stopped his own rain; **yudhyataḥ** — to the one who fought; **asya** — of such an Indra; (strength) — his enemies **na prāpuḥ** — could not attain; (therefore, O Indra) **ekaḥ** — you alone; **anyat viśvam** — all beings other than you; **ānuṣak** — in succession; **cakṛṣe** — you have made (subject to you)."
+
+**Bhāvārtha** *(p. 259)* — "Both heaven and earth are unable to reach the extent of Indra's pervasive power, which is exceedingly wide. The currents of water that flow above the atmosphere could not reach the limit of Indra's majesty. At the time of the fight with Vṛtra, who had stopped the rain, when Indra was excited by drinking soma, his enemies could not attain his power. Therefore, O Indra, apart from you alone, you have made all other beings subject to you."
+
+**English Translation (the source's own, p. 260)** — "You, Indra, of whom heaven and earth have not attained the ampitude [sic: "amplitude"]; of whose energy the waters flowing above the heavens have not reached the limit; of whom, when fighting with animation, created by the Soma against the withholder of the rains, his adversaries have not equalled the prowess; you alone have made everything else dependent on you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 260**
+- **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
+
+  > **यो भूलोकान्तरिक्षलोकद्युलोकान् व्याप्यावशेषस्थितिं तिष्ठति यस्य च बलं वृत्रहननप्रसङ्गे केनापि परिमितत्वेन न ज्ञातं स इन्द्र एव विश्वस्यैतस्य वस्तुमात्रस्य निर्माता भवतीति भावः ॥**
+
+  *yo bhūlokāntarikṣalokadyulokān vyāpyāvaśeṣasthitiṃ tiṣṭhati yasya ca balaṃ vṛtrahananaprasaṅge kenāpi parimitatvena na jñātaṃ sa indra eva viśvasyaitasya vastumātrasya nirmātā bhavatīti bhāvaḥ ||* — "He who, having pervaded the earth-world, the atmosphere-world and the heaven-world, still stands with something left over, and whose strength at the time of slaying Vṛtra was not known by anyone as limited — that Indra alone is the maker of this whole world, of every single thing: this is the sense." The Kannada adds: "Though the strength and valour of Indra pervade the earth, atmosphere and heaven worlds, there is still some of it left over. No man can truly know how great the glory of such deeds of Indra as the slaying of Vṛtra is. It is this Indra who has created all the things that are in this world."
+- **vyacaḥ** — "*Vyāpanaṃ vyacaḥ*: by the sūtra '*vyaceḥ kuṭādittvam anasi*' (Kā. 1-2-1-1 as read [?]) the root *vyac* takes the form *vyacaḥ* and gives the sense 'pervasion'."
+- **sindhavaḥ** — "*Syandanaśīlāḥ āpaḥ*: it gives the sense of water, whose nature it is to flow always."
+- **svavṛṣṭim** — "Vṛtra and the like, who have the capacity to stop the rain and hold it back."
+- **ānuṣak** — "'Closely connected, attached': the sense 'dependent, being in close connection' is shown."
+
+**Vyākaraṇa-prakriyā** *(pp. 260–261 — grammar pages, noted briefly)*
+- **dyāvāpṛthivī**: "*dyauś ca pṛthivī ca*"; *divo dyāvā* (Pā. 6-3-29 as read [?]) gives the substitute *dyāvā* when the second member follows, and it is made initial-acute by *nipātana*; the word *pṛthivī*, as one of the *ṣid gaurādi* words, takes *ṅīṣ* and is end-acute; *devatādvandve ca* (Pā. 6-2-141 as read [?]) keeps the original accent of both members; though *nottarapade 'nudāttādau* (Pā. 6-2-… as read [?]) would forbid the first member's natural accent when the second member, *pṛthivī*, begins with a non-acute, the prohibition does not apply when *pṛthivī* is the second member, since it is explicitly stated in "*āpṛthivī rudrapūṣamanthiṣu*" [as read, [?]].
+- **vyacaḥ**: *vyaca vyājīkaraṇe*; *tudādi*; the Uṇādi *asun*; "*vyaceḥ kuṭādittvam anasi*" (Kā. 1-2-1-1 as read [?]), because it is said "*paryudāsa*" for *asun*, *ṅittva* does not come; hence *grahijyā…* *saṃprasāraṇa* also does not come; since *asun* is *nit*, initial-acute.
+- **ānaśuḥ**: *aśū vyāptau*; *vyatyayo bahulam* gives the *parasmaipada*; *liṭ* third plural *jhi*, replaced by *us* by *parasmaipadānāṃ ṇalatusus…*; being *liṅ*-nimitta, reduplication; *halādiḥ śeṣaḥ*; for the *guṇa*'s barrier, *ata ādeḥ* lengthens the reduplicative *a*; *aśnoteś ca* (Pā. 7-4-… as read [?]) gives the augment *nuṭ* after the long vowel of the reduplicative syllable: *ānaśuḥ*; since the word *yasya* is connected, *yadvṛttānnityam* forbids the *nighāta*, and the accent comes by the suffix, end-acute.
+- **yudhyataḥ**: *yudha saṃprahāre*; *śatṛ* in the sense of *laṭ*; *divādibhyaḥ śyan*: *yudhyat*; genitive singular; the *śatṛ* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam…*; *śyan* being *śit*, the initial acute.
+- **cakṛṣe**: after a word that is not a *tiṅ*… *tiṅ atiṅaḥ* gives all-*anudātta* accent; *liṭ* second singular. **|| 14 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.13 complete; Rik 52.14's Saṃhitā and Pada written (printed p. 258, PDF 274). Its bhāṣya begins on p. 259 (PDF 275). Riks 52.14 (rest) and 52.15 and the close of Sūkta 52 are NOT yet written.**
+### Rik 52.15 (pp. 261–264, PDF 277–280; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 259 (PDF 275) with "**Rik 52.14, continued**" (bhāṣya etc.), then Rik 52.15 (Triṣṭubh) and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation mine; 52.5 Trita-legend clause crowded [?], Ṛ. Saṃ. 1-158-5 verse and Tai. Saṃ. passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra", final clause crowded [?]; 52.9 "svasvevamānāḥ", "anupūrvyeṇa harṣaṃ prāpayan" crowded [?]; 52.10, 52.11 Special-Topic Sanskrit passages crowded in places [?]; 52.13 opening sentence "bhūnāmna ekāhe" and Āśvalāyana numeral [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 261; accents printed, not reproduced)*
+
+> **आर्चन्नत्र मरुतः सस्मिन्नाजौ विश्वे देवासो अमदन्ननु त्वा ।**
+> **वृत्रस्य यद्भृष्टिमता वधेन नि त्वमिन्द्र प्रत्यानं जघन्थ ॥ १५ ॥**
+
+*ārcann atra marutaḥ sasminn ājau viśve devāso amadann anu tvā |*
+*vṛtrasya yad bhṛṣṭimatā vadhena ni tvam indra pratyānaṃ jaghantha || 15 ||*
+
+**Pada-pāṭha** *(p. 261)*
+
+> आर्चन् । अत्र । मरुतः । सस्मिन् । आजौ । विश्वे । देवासः । अमदन् । अनु । त्वा ।
+> वृत्रस्य । यत् । भृष्टिऽमता । वधेन । नि । त्वम् । इन्द्र । प्रति । आनम् । जघन्थ ॥ १५ ॥
+
+*ārcan | atra | marutaḥ | sasmin | ājau | viśve | devāsaḥ | amadan | anu | tvā |*
+*vṛtrasya | yat | bhṛṣṭi-matā | vadhena | ni | tvam | indra | prati | ānam | jaghantha || 15 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 262)*
+
+> **हे इन्द्र त्वां मरुतोऽत्र सस्मिन्नाजौ संग्रामे आर्चन् । प्रहर भगवो जहि वीरयस्वेत्यनेन वचनेनापूजयन् । सस्मिन् तस्मिन् । यद्वा सर्वस्मिन्नाजौ संग्रामे विश्वे देवासस्ते सर्वे दानादिगुणयुक्ता मरुतस्त्वा त्वामन्वमदन् । अनुक्रमेण हर्षं प्रापयन् । यद्वा । त्वदीयमदानन्तरं तेऽपि मदं प्राप्ताः । हे इन्द्र त्वं यद्यदा भृष्टिमता । भ्रंशयति शत्रूनिति भृष्टिरश्रिः । तद्वता वधेन हननसाधनेन वज्रेण । अश्रिमत्त्वं च वज्रस्य ब्राह्मणे समाम्नातम् । वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः । ऐ. ब्रा. २-१ [?] इति । तेन वज्रेण वृत्रस्यानं प्रति आननं मुखं प्रति यद्वा श्वासहेतुं घ्राणं प्रति नि जघन्थ । नितरां प्राहार्षीः ॥**
+
+*he indra tvāṃ maruto 'tra sasminn ājau saṃgrāme ārcan | prahara bhagavo jahi vīrayasvety anena vacanenāpūjayan | sasmin tasmin | yadvā sarvasminn ājau saṃgrāme viśve devāsas te sarve dānādiguṇayuktā marutas tvā tvām anvamadan | anukrameṇa harṣaṃ prāpayan | yadvā | tvadīyamadānantaraṃ te 'pi madaṃ prāptāḥ | he indra tvaṃ yad yadā bhṛṣṭimatā | bhraṃśayati śatrūn iti bhṛṣṭir aśriḥ | tadvatā vadhena hananasādhanena vajreṇa | aśrimattvaṃ ca vajrasya brāhmaṇe samāmnātam | vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ | ai. brā. 2-1 [?] iti | tena vajreṇa vṛtrasyānaṃ prati ānanaṃ mukhaṃ prati yadvā śvāsahetuṃ ghrāṇaṃ prati ni jaghantha | nitarāṃ prāhārṣīḥ ||*
+
+*(The tail of the bhāṣya, p. 262: on* ārcan *(*arca pūjāyām*, bhvādi, *aṭ* with the Vedic* āṭ*), *sasmin *(*sasminn iti tasmin*, with the Vedic loss of the letter),* devāsaḥ *(*ājjaserasuk*),* ānam *(*ana prāṇane*, *ghañ* — "*ānanaṃ*", with the loss of the letter),* śloka*-less; *jaghantha *(*han*, *thal* with no *iṭ*, *abhyāsāc ca* for the *h*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, *atra*, here, *sasmin ājau*, in this battle, the Maruts *ārcan*, worshipped you with the words 'strike, O lord, slay, show valour' [Ai. Brā., numeral as in the Special Topics, [?]]. *Sasmin* is *tasmin*, 'in that'; or: in all the battle all the gods, all those Maruts, endowed with the virtues of giving and the rest, *anvamadan*, rejoiced after you, successively; or: after your own delight, they too attained delight. O Indra, *yat*, when you, with *bhṛṣṭimatā vadhena*, with the weapon, the thunderbolt that has *bhṛṣṭi* — *bhṛṣṭi* is a corner or edge that makes enemies fall (*bhraṃśayati*) — and that the thunderbolt has edges is declared in the Brāhmaṇa: 'The sacrificial post is the thunderbolt; it must be made eight-edged, for the thunderbolt is eight-edged' (Ai. Brā. 2-1 [?]) — with that thunderbolt *nijaghantha*, you struck down, *vṛtrasya ānam prati*, Vṛtra on his face, his mouth, or, on the nose, the cause of breathing."
+
+**Pratipadārtha** *(p. 262)* — "(O Indra, you) **marutaḥ** — the Maruts; **atra** — in this (battle); **ārcan** — worshipped; **sasmin ājau** — in that (or all) battle; **indra** — O Indra; **tvam** — you; **yat** — when; **bhṛṣṭimatā** — sharp; **vadhena** — with the thunderbolt that is a weapon of killing; **vṛtrasya** — of Vṛtra; **ānam prati** — towards the face, or on the nose that causes breath; **nijaghantha** — you struck well; **viśve devāsaḥ** — all those Marut deities; **tvā** — you; **anu amadan** — rejoiced in succession, or rejoiced after you."
+
+**Bhāvārtha** *(p. 262)* — "O Indra, in this battle the Maruts worshipped you. When you struck Vṛtra on the mouth with your thunderbolt — sharp, and a killer — all the Marut deities rejoiced just as you did."
+
+**English Translation (the source's own, p. 263)** — "The Marutś worshipped you in this battle; all the gods in this engagement imitated you in exultation, when you had struck the face of Vritra with your sharp and fatal bolt."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 263**
+- **ārcan** — "The Marut deities worshipped Indra with praise-words such as '*prahara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20 as read [?])."
+- **anu amadan** — "The Maruts gave Indra gladness one after another. Or: after Indra was glad, they too were glad — the sense can be told in these two ways."
+- **bhṛṣṭimatā** — "*bhraṃśayati śatrūn iti bhṛṣṭiḥ*: 'that which destroys enemies' — the sharp edge, called *bhṛṣṭi* or *aśri*. The thunderbolt is one that has such edges; this the śruti '*vajro vā eṣa yad yūpaḥ so 'ṣṭāśiḥ kartavyo 'ṣṭāśrir vai vajraḥ*' (Ai. Brā. 2-1 as read [?]) tells."
+
+  > **वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः ।** *(Ai. Brā. 2-1 as read [?])*
+
+  *vajro vā eṣa yad yūpaḥ so 'ṣṭāśiḥ kartavyo 'ṣṭāśrir vai vajraḥ |* — mine and tentative: "this sacrificial post is the thunderbolt; it is to be made eight-cornered, for the thunderbolt is eight-cornered." *(The print reads* aṣṭāśiḥ *in one place and* aṣṭāśriḥ *in another; I give* aṣṭāśri *as in the bhāṣya.)*
+- **ānam prati** — "The word *āna* has two senses: *anana* (face, mouth) or the nose that serves for breathing. Indra struck Vṛtra's face or nose. If *anana*, with loss of a letter, is pronounced in the Veda, it means 'mouth'; and if derived as '*anyate 'nena*' ('that by which one breathes') it means 'nose'."
+
+**Vyākaraṇa-prakriyā** *(pp. 263–264 — grammar pages, noted briefly)*
+- **ārcan**: *arca pūjāyām*, *bhvādi*; *laṅ* third plural *jhi*; *jher jhoḥ… ant*-substitute; *itaś ca* drops the *i* of the ending there; *kartari śap*; *ato guṇe* — single substitute; because the root begins with a vowel, *āḍajādīnām* gives *āṭ*; *āṭaś ca* gives *vṛddhi*; since it begins a *pāda*, no *nighāta*, so the acute *āṭ* is acute: initial-acute.
+- **sasmin**: for *tasmin*; *tado doḥ saḥ sāvanantyayoḥ* (Pā. 7-2-106) — the *sa* substitute laid down for the *t* is by *vyatyaya* found in the locative too; or, by the Vedic loss of a letter in *sarvasmin*, *sasmin*.
+- **devāsaḥ**: *deva* + *jas*; *ājjaserasuk* (Pā. 7-1-50) gives *asuk*; *devāsas*: *ru*, *visarga*: *devāsaḥ*.
+- **amadan**: *madī harṣe*; *laṅ* third plural: *amadan*; *nighāta* by *tiṅ atiṅaḥ*.
+- **ānam**: *ananam*: by the Vedic loss of a letter, *ānam*; or from *ana prāṇane*, "*anyate 'nena*" in the instrumental sense *ghañ*; being *ñit*, *ata upadhāyāḥ* gives *vṛddhi*: *āna*; end-acute by *kṛṣṭāpadi*… [Pā. 6-1-… as read, [?]].
+- **jaghantha**: *han hiṃsāgatyoḥ*, *adādi*; *liṭ* second singular *sip*; *thal* by *parasmaipadānāṃ ṇalatusus…*; *thal* being the next suffix, reduplication; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* gives the *h* of the root after the reduplicative the *kutva* and *gh* by *jhaṣ…*; *upadeśe 'tvataḥ* (Pā. 7-2-62) forbids *iṭ*; *naś cāpadāntasya jhali* gives the *anusvāra* for the *n*, and *anusvārasya yayi parasavarṇaḥ* the homorganic nasal: *jaghantha*; since *thal* is *lit*, *liti* gives the acute to the vowel before the suffix; the *a* after *gh* is acute. **|| 15 ||**
+
+---
+
+### Close of Sūkta 52
+
+*(The print gives no closing sentence for Sūkta 52: the last grammar paragraph, on* jaghantha*, ends the Rik at p. 264, and a small ornament separates it from the title of the next sūkta. My own summary, not the source's:)*
+
+**Sūkta 52 (Maṇḍala 1, Tenth Anuvāka, 15 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī, with Riks 13 and 15 Triṣṭubh) — printed pp. 212–264, PDF 228–280.** The Riks praise Indra as the foe of enemies who makes heaven known (1), who stands like a mountain among the waters and grows in strength when he has slain the river-obstructing Vṛtra (2), the one with a straight, delight-giving brilliance whom the sages invoke with a good mind (3), whom the Somas fill as rivers fill the ocean and whom the Maruts attend (4–5), whose thunderbolt strikes the jaws of the pervading Vṛtra (6), to whom the hymns come as streams to a lake while Tvaṣṭṛ sharpens the bolt (7); who slays Vṛtra and sets the sun in the sky (8); for whom the Bṛhatsāman is sung in fear of Vṛtra (9), whose strike makes heaven tremble (10); whose strength would be renowned though the earth were tenfold (11); the measure of the earth, the lord of heaven, who fills the sky (12–13); whose pervasion neither heaven and earth nor the rivers above the atmosphere reach, and who makes all else dependent on himself (14); and, lastly, whom the Maruts worship in the battle when he strikes Vṛtra's face with the eight-edged bolt (15). Long Special Topics are the Trita-legend with Wilson's note (Rik 5), the legend of Vala from the Taittirīya Saṃhitā (Rik 5), and the rule for the Bṛhatsāman (Rik 9). Many numerals are marked [?] in the Riks.
+
+---
+
+## SŪKTA 53 (printed p. 264 –, PDF 280 –)
+
+### Title and Sāyaṇa's introduction *(p. 264)*
+
+**ಐವತ್ತಮೂರನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-third sūkta")*
+
+**Sāyaṇa-bhāṣya (introduction)**
+
+> **न्यू षु वाचमित्येकादशर्चं तृतीयं सूक्तम् । दशम्येकादश्यौ त्रिष्टुभौ । शिष्टा नव जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । न्यू ष्वेकादशान्त्ये त्रिष्टुभाविति । अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिनः शस्त्र एतत्सूक्तम् । तथा चासूत्रयदाचार्यः । न्यू षु वाचमुप्र धूतस्य हरिवः पिबेहेति याज्या । आश्व. ६-४ [?] इति ॥**
+
+*nyū ṣu vācam ity ekādaśarcaṃ tṛtīyaṃ sūktam | daśamy ekādaśyau triṣṭubhau | śiṣṭā nava jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | nyū ṣv ekādaśāntye triṣṭubhāv iti | atirātre prathame paryāye brāhmaṇācchaṃsinaḥ śastra etat sūktam | tathā cāsūtrayad ācāryaḥ | nyū ṣu vācam upra dhūtasya harivaḥ pibeheti yājyā | āśva. 6-4 [?] iti ||*
+
+*(Reading note: "*upra*" is as printed in the quotation, probably a misprint or crowded for* pra *— the quoted words are the opening of the sūkta and of Rik 53.1's* nyū ṣu vācaṃ pra mahe bharāmahe*? I do not complete it; the Āśvalāyana numeral "6-4" is as read, [?].)*
+
+**Translation:** "'*Nyū ṣu vācam*': a sūkta of eleven Riks, the third [of the Tenth Anuvāka]. The tenth and eleventh are Triṣṭubh; the remaining nine are Jagatī. The seer is Savya, the deity Indra; so the Anukramaṇī: '*nyū ṣv ekādaśa, the last two Triṣṭubh*'. In the Atirātra rite, in the first *paryāya*, this sūkta belongs to the recitation of the Brāhmaṇācchaṃsin; so the teacher has aphorized: '*nyū ṣu vācam…*' [and *dhūtasya harivaḥ pibeha* as the *yājyā* (offering-verse)] (Āśv. 6-4 as read [?])."
+
+**Anuvāda (Kannada, p. 264)** — "'*Nyū ṣu*' is the third sūkta in the tenth anuvāka. It has eleven Riks. The seer of this sūkta is Savya, and Indra is the deity. The tenth and eleventh Riks are in the Triṣṭubh metre; the rest are in the Jagatī metre. In the Anukramaṇikā it is said '*nyū ṣv ekādaśānte triṣṭubhāv iti*'. In the sacrifice called *Atirātra*, in the first *paryāya* (round), this sūkta is to be used by the priest Brāhmaṇācchaṃsin for the śastra mantras; the sūtra '*nyū ṣu vācam…*' in the Āśvalāyana Śrauta Sūtra shows this (Āś. 6-4 as read [?])."
+
+*(The heading block and Rik 53.1 begin on p. 265 (PDF 281).)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280; Sūkta 52 ends on p. 264, where Sūkta 53 begins). Sūkta 53 (*nyū ṣu vācam*, Maṇḍala 1, Anuvāka 10, 11 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Jagatī with Riks 10 and 11 Triṣṭubh) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 264, PDF 280). The heading block and Rik 53.1 begin on p. 265 (PDF 281) — NOT yet written.**
+
+**Next task:** continue at printed p. 265 (PDF 281) with the heading block of Sūkta 53 and Rik 53.1 (Saṃhitā; Pada on p. 266), then Riks 2–11 and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print; Sūkta 53 should be ≈ 40 pages). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 52 are noted in the individual Riks (crowded passages, numerals all [?]); Sūkta 53 introduction: the Āśvalāyana numeral 6-4 [?], "*upra*" in the quotation as printed.
