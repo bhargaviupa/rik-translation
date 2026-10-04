@@ -5509,8 +5509,74 @@
 
 ---
 
+### Heading block of Sūkta 54 *(p. 304, PDF 320)*
+
+- Maṇḍala 1 · Anuvāka 10 · Sūkta 54
+- Aṣṭaka 1 · Adhyāya 4 · Varga 14, 15 [as read, small numerals, [?]]
+- Number of Riks in the sūkta: 11
+- Ṛṣi: Savya Āṅgirasa
+- Deity: Indra
+- Metre: Riks 1–5, 7, 10 Jagatī; Riks 6, 8, 9, 11 Triṣṭubh *(the print's numerals "೧-೫, ೭, ೧೦ ಜಗತೀ । ೬, ೮, ೯, ೧೧ ತ್ರಿಷ್ಟುಪ್", small, [?])*
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319; Sūkta 53 ends and Sūkta 54 begins on p. 303). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, Maṇḍala 1, Anuvāka 10, 11 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Triṣṭubh in Riks 6, 8, 9, 11, Jagatī in the other seven) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 303, PDF 319). The heading block and Rik 54.1 begin on p. 304 (PDF 320) — NOT yet written.**
+### Rik 54.1 (pp. 304–306, PDF 320–322)
 
-**Next task:** continue at printed p. 304 (PDF 320) with the heading block of Sūkta 54 and Rik 54.1 (Saṃhitā; Pada on p. 305), then Riks 2–11 and the close of Sūkta 54 (the contents table puts Sūkta 55 at p. ≈ 342 [?] — check the print). At the end of Sūkta 54: **the user's instruction ("translate Sūktas 51–54") is then fulfilled — STOP**; update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **User instruction: translate Sūktas 51–54 (51, 52, 53 done; 54 now); routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages, e.g. 331–380). Flags for Sūkta 53 are listed in the Riks and the closing summary; for Sūkta 54: the introduction's Anukramaṇī half-line and Āśvalāyana numeral [?].
+**Saṃhitā-pāṭha** *(p. 304; accents printed, not reproduced)*
+
+> **मा नो अस्मिन्मघवन्पृत्स्वंहसि नहि ते अन्तः शवसः परीणशे ।**
+> **अक्रन्दयो नद्यो रोरुवद्वना कथा न क्षोणीर्भियसा समारत ॥ १ ॥**
+
+*mā no asmin maghavan pṛtsv aṃhasi nahi te antaḥ śavasaḥ parīṇaśe |*
+*akrandayo nadyo roruvad vanā kathā na kṣoṇīr bhiyasā sam ārata || 1 ||*
+
+**Pada-pāṭha** *(p. 304)*
+
+> मा । नः । अस्मिन् । मघऽवन् । पृत्ऽसु । अंहसि । नहि । ते । अन्तः । शवसः । परिऽनशे ।
+> अक्रन्दयः । नद्यः । रोरुवत् । वना । कथा । न । क्षोणीः । भियसा । सम् । आरत ॥ १ ॥
+
+*mā | naḥ | asmin | magha-van | pṛt-su | aṃhasi | nahi | te | antaḥ | śavasaḥ | pari-naśe |*
+*akrandayaḥ | nadyaḥ | roruvat | vanā | kathā | na | kṣoṇīḥ | bhiyasā | sam | ārata || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 304–305)*
+
+> **हे मघवन् धनवन्निन्द्र अस्मिन् परिदृश्यमानेंऽहसि पापे पृत्सु पृतनासु पापफलभूतेषु संग्रामेषु च नोऽस्मान्मा प्रक्षैप्सीरिति शेषः । यस्मात्ते तव शवसो बलस्यान्तोऽवसानं परीणशे परितो व्याप्तुं न हि शक्यते । सर्वोऽपि जनस्त्वदीयं बलमतिक्रमितुं न शक्नोतीत्यर्थः । तस्मात्त्वमन्तरिक्षे वर्तमानो रोरुवत् आत्मार्थं शब्दं कुर्वन् नद्यो नदीर्वना तत्संबन्धीन्युदकानि चाक्रन्दयः शब्दयसि । क्षोणीः क्षोण्यः । क्षोणीति पृथिवीनाम । कदुफलक्षणास्त्रयो लोका भियसा त्वदीयेन कथा कथं न समारत । न संगच्छन्ते । त्वदीयं बलमवलोक्य त्रयोऽपि लोका बिभ्यतीति भावः ॥**
+
+*he maghavan dhanavann indra asmin paridṛśyamāne 'ṃhasi pāpe pṛtsu pṛtanāsu pāpaphalabhūteṣu saṃgrāmeṣu ca no 'smān mā prakṣaipsīr iti śeṣaḥ | yasmāt te tava śavaso balasyānto 'vasānaṃ parīṇaśe parito vyāptuṃ na hi śakyate | sarvo 'pi janas tvadīyaṃ balam atikramituṃ na śaknotīty arthaḥ | tasmāt tvam antarikṣe vartamāno roruvat ātmārthaṃ śabdaṃ kurvan nadyo nadīr vanā tatsaṃbandhīny udakāni cākrandayaḥ śabdayasi | kṣoṇīḥ kṣoṇyaḥ | kṣoṇīti pṛthivīnāma | kaduphalakṣaṇās trayo lokā bhiyasā tvadīyena kathā kathaṃ na samārata | na saṃgacchante | tvadīyaṃ balam avalokya trayo 'pi lokā bibhyatīti bhāvaḥ ||*
+
+*(Reading notes: "*prakṣaipsīḥ*" is the print's "*prakṣaipsīr*", doubtful; "*kaduphalakṣaṇāḥ*" ("marked by ... fruit"?) is crowded in the print and I leave it as read, [?] — the Kannada Special Topics and Pratipadārtha say "the three worlds beginning with earth", so I translate so. The grammatical tail on pp. 305 — on* pṛtsu *(*pṛtanā* with the substitute* pṛt *by* pṛtanāyāṃ… *Pā. 6-1-63 *vārttika*),* parīṇaśe *(*naśa adarśane*, *kenyaḥ*? — "*kṛtyārthe tavaikakenn*" read as* kenn *suffix, Pā. 3-4-14 as read [?]; *nipātasya ca* lengthening),* nadyaḥ*,* roruvat *(*ru śabde*, *yaṅluk*, *śatṛ*; *adādivac ca*),* kathā *(*kim* + *thāl*, *kimaḥ kaḥ*),* ārata *(*ṛ gatau*, *saṃ* with *gamy-ṛcchi…*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O *maghavan*, wealthy Indra, in this visible *aṃhasi*, sin, and in *pṛtsu*, battles that are the fruit of sin, do not throw us (this is understood). Because the end, the limit, of your *śavasaḥ*, your strength, cannot be pervaded all round (*parīṇaśe*) — everyone is unable to surpass your strength, is the sense. Therefore you, abiding in the atmosphere, *roruvat*, roaring for your own sake, *akrandayaḥ*, make *nadyaḥ*, the rivers, and *vanā*, their waters, sound. *Kṣoṇīḥ* — *kṣoṇī* is a name for earth — the three worlds, beginning with the earth, *kathā na samārata*, how should they not be filled — *bhiyasā*, with fear of you? Seeing your strength all three worlds are afraid, is the sense."
+
+**Pratipadārtha** *(p. 305)* — "**maghavan** — O wealthy Indra; **asmin aṃhasi** — in this visible sin; **pṛtsu** — in battles that are the fruit of sin; **naḥ** — us; **mā** (prakṣaipsīḥ) — do not forcibly throw (because); **te** — your; **śavasaḥ** — strength's; **antaḥ** — limit; **parīṇaśe** — to pervade; **na hi** — it is not possible; (you, standing in the atmosphere) **roruvat** — making a roaring sound; **nadyaḥ** — the rivers; **vanā** — their waters; **akrandayaḥ** — you make to sound; **kṣoṇīḥ** — the three worlds beginning with the earth; **bhiyasā** — through fear of you; **kathā** — how; **na samārata** — are they not filled?"
+
+**Bhāvārtha** *(p. 305)* — "O wealthy Indra, do not cast us forcibly into this visible sin, nor into the battles that are its fruit. For no one can measure the limit of your strength. Standing in the atmosphere you make a roaring sound and make the rivers and their waters resound. How is it that the three worlds, earth and the rest, are not filled with fear of one of such majesty?"
+
+**English Translation (the source's own, p. 305)** — "O Maghaven, do not throw us into this iniquity, into these sinful conflicts, for the limit of your strength cannot be measured ; you are shouting in the heavens and making the waters of the rivers roar ; why shall not the earth be filled with terror ?" *(The print's heading reads "Engish Transation"; reproduced as printed, [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 306**
+- *(first Special Topic, a Sanskrit passage in the print)*:
+
+  > **केचिदेवमाहुः । किंचित्संग्राममुपसंप्राणसंकटप्रसंगमुद्दिश्य वचनमिदं सव्यस्य । य इन्द्रो वृत्रं भित्त्वा सगर्जनेन तथा लोकान् भयहेतुत्वात्सन्मासयेषा महता मेघजलवर्षणेन तेजसा नदीर्महदेकशब्दयेत् तेन च स्वबलमनंतमित्याविरभावयेत् सोऽस्मिन्धारुणे प्रसंगेऽस्माकं प्राणसंकटस्य निवारको भविष्यतीति भागवतम् ॥**
+
+  *kecid evam āhuḥ | kiṃcit saṃgrāmam upasaṃprāṇasaṃkaṭaprasaṅgam uddiśya vacanam idaṃ savyasya | ya indro vṛtraṃ bhittvā sagarjanena tathā lokān bhayahetutvāt …[crowded, [?]] … meghajalavarṣaṇena tejasā nadīr mahad ekaśabdayet tena ca svabalam anantam ity āvirabhāvayet so 'smin dhāruṇe prasaṅge 'smākaṃ prāṇasaṃkaṭasya nivārako bhaviṣyatīti bhāgavatam ||* — "Some say thus: This saying of Savya is made with reference to some battle and a crisis of life: Indra who, having split Vṛtra, with a roar … by showering the rain-water of the cloud with brilliance made the rivers resound as one great sound, and thereby revealed his own boundless strength — he will be the remover of the crisis of our lives in this dreadful situation: so says the Bhāgavata." *(The print's middle is crowded, so this is a rough rendering, [?].)* The Kannada adds: "These are the words of Savya, the seer of the sūkta, in fear of battle. It is said in the Bhāgavata and the Purāṇas that when Indra killed Vṛtra there was a great rain with a loud sound and lightning, and a great river began to roar with terrible noise; seeing it the army (Savya) was frightened and praised Indra in this way to protect him."
+- **pṛtsu** — "In battles that are the fruit of sin. For *pṛtanā*, a word meaning 'army', the substitute *pṛt* comes and gives the form *pṛtsu*."
+- **parīṇaśe** — "*Parito vyāptuṃ*: here the root *naś*, with the prefix *pari*, is understood in the sense of the action of pervading: 'to pervade fully'."
+- **nadyaḥ** — "This is used in the first case in the sense of the third [sic: second] case."
+- **vanā** — "The word *vana*, meaning water, ends here in a long vowel and gives the sense of water connected with rivers."
+- **kṣoṇī** — "Though this word generally means earth, here one must say it means the three worlds, marked by earth and the rest."
+
+**Vyākaraṇa-prakriyā** *(p. 306 — grammar page, noted briefly; continues on p. 307)*
+- **pṛtsu**: the word *pṛtanā* in the locative plural; *padādiṣu māṃspṛtsnūnām upasaṃkhyānam* (Pā. 6-1-63 *vārttika*, as read [?]) gives *pṛt* for it: *pṛtsu*.
+- **parīṇaśe**: *naśa adarśane*; here with the sense of pervasion; *kṛtyārthe tavaikakenn…* (Pā. 3-4-14 as read [?]) gives *kenn*; being *nit*, initial-acute; with *pari* standing first, *nipātasya ca* (Pā. 6-3-… as read [?]) lengthens the *i*.
+- **nadyaḥ**: from *nadī*, *jas* following, *dīrghājjasi ca* (Pā. 6-1-… as read [?]) forbids the long same-sound substitution; *yaṇ*; here the first case stands in the second-case sense.
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks; Triṣṭubh in Riks 6, 8, 9, 11, Jagatī in the rest) in progress: introduction and heading written; Rik 54.1 written through the Special Topics and the first grammar notes (*pṛtsu, parīṇaśe, nadyaḥ*) (printed p. 306, PDF 322). The remaining grammar notes of Rik 1 (*vanā, roruvat, kathā, kṣoṇīḥ, ārata*; p. 307, PDF 323) and Riks 54.2–54.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 307 (PDF 323) with "**Rik 54.1, grammar (end)**", then Riks 2–11 and the close of Sūkta 54 (the contents table puts Sūkta 55 at p. ≈ 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages). Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?].
