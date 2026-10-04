@@ -7713,10 +7713,145 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Correction to the heading of Sūkta 43 above (made now that Riks 3 and 5 have been read).** The ṛk *yathā no mitro varuṇaḥ* (whose deity the anuvāda calls Mitra–Varuṇa) is **Rik 3**, not Rik 5; this agrees with the Anukramaṇikā's "*tṛtīyā maitrāvaruṇī*" (the third ṛk is Mitra–Varuṇa). So the deity line of the heading, which I gave as "1, [2?], 4, 6 Rudra; 5 Mitra–Varuṇa", is to be read as **Rudra for Riks 1, 2, 4, 5, 6; Mitra–Varuṇa for Rik 3; Soma for Riks 7–9**. The numerals in the print's deity line remain small and doubtful [?]. The statement "Mitra–Varuṇa for Rik 5" in the earlier progress notes was my slip.
+
+**Rik 43.2, concluded** *(from p. 472)*
+
+**Special Topics (concluded, p. 472)** — "… [the Kannada sentence begins mid-clause at the top of the page]: the sentences of the Taittirīya Saṃhitā of the Kṛṣṇa-Yajurveda have been quoted as examples. Of these, the second example states the sense of this ṛk itself clearly."
+
+**Vyākaraṇa-prakriyā** *(pp. 472–473 — grammar pages, noted briefly)*
+- **karat**: root *ḍukṛñ karaṇe*, *luṅ*. By *tanādikṛñbhya uḥ* the *u*-*vikaraṇa* ought to come, but *śap* comes in its place [by Vedic usage]; by *bahulaṃ chandasy amāṅyogepi* the augment *aṭ* is prohibited; by *itaś ca lopaḥ* the loss of *i*; *guṇa*, *raparatva*: this is one process. Another: the root *kṛ*, *leṭ*, *tip*, the augment *aṭ* for *leṭ*; *śap*; the loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*; *guṇa*, *raparatva*: *kar + a + at*; *pararūpa*: this is another process. In both of these *śap* is *pit* and unaccented; the augment *aṭ* in the second, by *leṭo 'ḍāṭau*, is likewise unaccented since *pit*; the single substitute that arises is unaccented by *sthāneṇ-…* [as read]; so only the root accent remains. Or from the root *kṛ* with *luṅ*, *cli*: by *kṛmṛdṛruhibhyaś chandasi* [Pā. 3-1-59 as read] *aṅ* optionally for *cli*; *ṛdṛśo 'ṅi guṇaḥ* [Pā. 7-4-16 as read] *guṇa* of a root ending in *ṛ* and of *dṛś* before *aṅ*; *raparatva*; the loss of the *i*; by *vyatyayo bahulam* the root accent; because of *yat* [in *yathā*] the wholly-unaccented does not come.
+- **paśve**: *ṅe* after *paśu*; *ghor jñati* [Pā. 7-3-111 as read [?]]: *guṇa* for a stem with the *ghi* name before a *ṅit* *sup*; the print explains *ghi* as stems in *i* and *u* other than *sakhi* (*śeṣo ghy asakhi*, Pā. 1-4-7); *paśu* has the *ghi* name so *guṇa* is obtained, but "*saṃjñāpūrvako vidhir anityaḥ*" makes it not occur; *iko yaṇaci* gives *yaṇ*.
+- **nṛbhyaḥ**: *nṛ cānyatarasyām* — नृ चान्यतरस्याम् — [Pā. 6-1-184 as read]: the *jhalādi* ending after *nṛ* is optionally acute; since it is optional, no acute comes here; this is an exception to *sāvekācaḥ…*.
+- **gave**: "in the locative plural *goṣu* the form is *go*; here *gav* is the substitute for *go*; by the *sthānivadbhāva* whatever form occurs in the locative plural occurs here; hence *sāvekācaḥ* [Pā. 6-1-168] would give the ending an acute, which is prohibited by *na goścansāvavarṇarāḍaṅkrutkṛtkṛdbhyaḥ* [Pā. 6-1-182 as read]."
+- **rudriyam**: the suffix *gha* after *rudra* in the sense *tasyedam*; *āyaneyīnīyiyaḥ…* gives *iya*; *yasyeti ca* the loss of *a*. Rik 2 ends here (*|| 2 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–42 COMPLETE; Sūkta 43 in progress: printed p. 471 (PDF 485) reached; introduction, heading and Rik 43.1 complete; Rik 43.2's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the beginning of its Special Topics written.**
+### Rik 43.3 (pp. 473–475, PDF 487–489)
 
-**Next task:** continue at printed p. 472 (PDF 486) with the rest of the Special Topics and the grammar of Rik 43.2, then Riks 3–9 and the close of Sūkta 43 (to about p. 492; Sūkta 44 *agne vivasvat* begins about p. 493 per the contents table — check), then STOP at the end of Sūkta 43 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 478–515) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 486 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 473; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43 so far: (1) the heading's varga numerals and the Rik numerals of the deity line are small and doubtful — the deity line appears to read "1, 3, 4, 6 Rudra" (leaving Rik 2 without a deity), given as "1, [2?], 4, 6"; (2) the Anukramaṇikā quotation's "*tṛtīyā maitrāvaruṇī*" is crowded and does not match the anuvāda (Mitra–Varuṇa for Rik 5); the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and the Ṛgveda references in the anuvāda are read with doubt; (3) Rik 1: the source's English prints "cherist" [sic]; the Nirukta passage on *rudra* and the Kāṭhaka / Hāridravika attributions are quoted untranslated — my gloss is mine and tentative; the grammar of *mīḷhuṣṭamāya* (kvasu, *bha*/*pada* names, *saṃprasāraṇa*, *ḍh→ḷh*) and of *tavyase* is crowded and characterized only; (4) Rik 2: two Taittirīya Saṃhitā quotations, untranslated in the source, are glossed by me tentatively and their numerals read with doubt; "*ghor jñati*" in the bhāṣya's tail is crowded [?]; (5) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
+> **यथा नो मित्रो वरुणो यथा रुद्रश्चिकेतति ।**
+> **यथा विश्वे सजोषसः ॥ ३ ॥**
+
+*yathā no mitro varuṇo yathā rudraś ciketati |*
+*yathā viśve sajoṣasaḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 473)*
+
+> यथा । नः । मित्रः । वरुणः । यथा । रुद्रः । चिकेतति ।
+> यथा । विश्वे । सऽजोषसः ॥ ३ ॥
+
+*yathā | naḥ | mitraḥ | varuṇaḥ | yathā | rudraḥ | ciketati |*
+*yathā | viśve | sa-joṣasaḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 473–474)*
+
+> **मित्रो वरुणश्च नोऽस्मान्यथा येन प्रकारेण चिकेतति अनुग्राह्यत्वेन जानाति । रुद्रोऽपि यथा चिकेतति । सजोषसः समानप्रीतयो विश्वे सर्वे देवा यथा चिकेतन्ति [?] । तथा भवत्विति शेषः । यद्वा । यथाशब्दोपेतमन्त्रद्वयस्य तथा कदा वोचेमेति पूर्वत्रान्वयः ॥ चिकेतति । कित ज्ञाने । लेट्यडागमः । नाभ्यस्तस्याचि पिति सार्वधातुके । पा. ७-३-८७ [?] । इति गुणनिषेधो न भवति । बहुलं छन्दसीति वक्तव्यमिति वचनात् । सार्वधातुकत्वाच्चाभ्यस्तानामादिरित्याद्युदात्तत्वं । सजोषसः । जुषी प्रीतिसेवनयोः । समानं जुषन्तीति सजोषसः । समानस्य छन्दसीति सभावः । असुनो नित्त्वादुत्तरपदस्याद्युदात्तत्वं । तदेनं कृदुत्तरपदप्रकृतिस्वरत्वेन शिष्यते ॥ ३ ॥**
+
+*mitro varuṇaś ca no 'smān yathā yena prakāreṇa ciketati anugrāhyatvena jānāti | rudro 'pi yathā ciketati | sajoṣasaḥ samānaprītayo viśve sarve devā yathā ciketanti [?] | tathā bhavatv iti śeṣaḥ | yadvā | yathāśabdopetamantradvayasya tathā kadā vocemeti pūrvatrānvayaḥ || ciketati | kita jñāne | leṭy aḍāgamaḥ | nābhyastasyāci pite sārvadhātuke | pā. 7-3-87 [?] | iti guṇaniṣedho na bhavati | bahulaṃ chandasīti vaktavyam iti vacanāt | sārvadhātukatvāc cābhyastānām ādir ity ādyudāttatvaṃ | sajoṣasaḥ | juṣī prītisevanayoḥ | samānaṃ juṣantīti sajoṣasaḥ | samānasya chandasīti sabhāvaḥ | asuno nittvād uttarapadasyādyudāttatvaṃ | tad enaṃ kṛduttarapadaprakṛtisvaratvena śiṣyate || 3 ||*
+
+*(The word I give as "ciketanti" in the first sentence of the bhāṣya is printed* ciketaṃti*, doubtful [?].)*
+
+**Translation:** "As *mitraḥ varuṇaḥ* — Mitra and Varuṇa — *naḥ*, us, *yathā*, in whatever way, *ciketati*, take note of [as to be favoured]; as Rudra also takes note; as *viśve sajoṣasaḥ*, all the gods who are united in pleasure, take note — so let it be: so the remainder. Or, [the two ṛks that contain *yathā*] are to be connected with the preceding: 'in that way, when shall we recite?' *Ciketati*: root *kita jñāne*; *leṭ* with the augment *aṭ*; the prohibition of *guṇa* by *nābhyastasyāci…* does not apply, because of the statement *bahulaṃ chandasīti vaktavyam*; because it is *sārvadhātuka*, first-syllable acute by *abhyastānām ādiḥ*. *Sajoṣasaḥ*: root *juṣī prītisevanayoḥ*; '*samānaṃ juṣante*': *sajoṣasaḥ*; *sa* for *samāna* by *samānasya chandasi*; because *asun* is *nit*, the first syllable of the latter member is acute; this is then laid down as the accent of the first member of a *kṛt*-ending compound."
+
+**Pratipadārtha** *(p. 474)* — "**mitraḥ** — Mitra; **varuṇaḥ** — Varuṇa; **naḥ** — us; **yathā** — in whatever way; **ciketati** — [they will consider us as fit to be favoured]; **rudraḥ** — Rudra also; **yathā** — in whatever way [he knows us]; **sajoṣasaḥ** — those who have equal satisfaction; **viśve** — all gods; **yathā** — in whatever way [they know]; or, 'when shall we recite that hymn through which we may obtain those favours?'"
+
+**Bhāvārtha** *(p. 474)* — "By what hymn and mantra will Mitra, Varuṇa and Rudra, and likewise all other deities who share in equal satisfaction (or who long for satisfaction), come to know us as fit; or by reciting what hymn shall we obtain their favours — when shall we recite that hymn?"
+
+**English Translation (the source's own, p. 474)** — "( What hyman [sic] shall we recite to Rudra ) by which Mitra, Varuna and Rudra and all the gods being gratified, confer favours upon us ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 474**
+- **ciketati** = *kita jñāne | anugrāhyatvena jānāti* — "he comes to know the hymn we are making and favours us."
+- **sajoṣasaḥ** = *juṣī prītisevanayoḥ | samānaṃ juṣantīti sajoṣasaḥ | samānaprīteyaḥ* — "those who are equal in affection, or satisfied with equal service."
+
+**Vyākaraṇa-prakriyā** *(pp. 474–475 — grammar pages, noted briefly)*
+- **ciketati**: *kita nivāse rogāpanayane ca*, first class; *kita jñāne*, *juhotyādi*: the root *kita jñāne* is not found in the present *dhātupāṭhas*; it makes no difference whether one takes the unaccompanied root *kita* in the *juhotyādi*; or, with the sense of knowing, the root of the first class, with *śap* → *ślu* by *bahulagrahaṇa*; or the augment *tuk* by Vedic usage for the root *kita*. After the root, *leṭ*, *tip*, the augment *aṭ*; *śap* → *ślu*, doubling: *kit + kit + ati*; *kuhoś cuḥ* gives *c*; *nābhyastasyāci piti sārvadhātuke* — नाभ्यस्तस्याचि पिति सार्वधातुके — [Pā. 7-3-87 as read]: the prohibition of *guṇa* of the light penultimate of a reduplicated stem before a vowel-initial *pit* *sārvadhātuka* would apply; but the vārttikakāra says *bahulaṃ chandasīti vaktavyam*, so the prohibition comes only variously in the Veda; here it does not come. Since *ati* is *sārvadhātuka*, *abhyastānām ādiḥ* gives first-syllable acute.
+- **viśve**: *aśūpruṣilaṭikaṇikhaṭivisibhyaḥ kvan* [Uṇ. 1-[?] as read]: after the root *viśa praveśane* the suffix *kvan*.
+- **sajoṣasaḥ**: root *juṣī prītisevanayoḥ*; "*samānaṃ juṣante*": after *juṣ*, with *samāna* as *upapada*, *sarvadhātubhyo 'sun* [Uṇ. 4-[?] as read]; *samānasya chandasi mūrdhaprabhṛtyudarkeṣu* — समानस्य छन्दस्यमूर्धप्रभृत्युदर्केषु — [Pā. 6-3-84 as read]: *sa* for *samāna*, except before *mūrdhan*, *prabhṛti*, *udarka*; *asun* is *nit*, so the latter member is first-syllable acute by *ñnityādir nityam*; after the compound, *gatikārakopapadāt kṛt* gives the accent of the latter *kṛt*-ending member, so the original accent stays. Rik 3 ends here (*|| 3 ||*).
+
+---
+
+### Rik 43.4 (pp. 475–478, PDF 489–492)
+
+**Saṃhitā-pāṭha** *(p. 475; accents not reproduced)*
+
+> **गाथपतिं मेधपतिं रुद्रं जलाषभेषजम् ।**
+> **तच्छंयोः सुम्नमीमहे ॥ ४ ॥**
+
+*gāthapatiṃ medhapatiṃ rudraṃ jalāṣabheṣajam |*
+*tac chaṃyoḥ sumnam īmahe || 4 ||*
+
+**Pada-pāṭha** *(p. 476)*
+
+> गाथऽपतिम् । मेधऽपतिम् । रुद्रम् । जलाषऽभेषजम् ।
+> तत् । शम्ऽयोः । सुम्नम् । ईमहे ॥ ४ ॥
+
+*gātha-patim | medha-patim | rudram | jalāṣa-bheṣajam |*
+*tat | śam-yoḥ | sumnam | īmahe || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 476)*
+
+> **रुद्रमभिलक्ष्य वयं शंयोर्बृहस्पतिपुत्रस्य सम्बन्धि तत्प्रसिद्धं सर्वप्रजाभ्यो हितं सुम्नं सुखमीमहे । याचामहे । कीदृशं रुद्रं । गाथपतिं स्तुतिपालकं । मेधपतिं यज्ञपालकं । जलाषभेषजं सुखरूपौषधोपेतं । यद्वा । उदकरूपौषधोपेतं । उदकं हि रुद्रनामाभिमन्त्रितं सदौषधं भवति ॥ गाथपतिं । गाथेति वाङ्नाम । गाथा गण इति तन्नामसु पठितत्वात् । वाग्रूपायाः स्तुतेः पतिर्गाथपतिः । कै गै रै शब्दे । आदेच इत्यात्वं । उषिकुषिगार्तिभ्यस्थन् । इति थन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । ज्यापोः सञ्ज्ञाछन्दसोर्बहुलमिति पूर्वपदस्य ह्रस्वत्वं । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते मरुद्वृधादीनां छन्दस्युपसंख्यानमिति पूर्वपदान्तोदात्तत्वं । मेधपतिं । पूर्ववत् । जलाषभेषजं । जनी प्रादुर्भावे । जायन्त इति जाः । अन्येष्वपि दृश्यत इति । पा. ३-२-१०१ । दृशिग्रहणात्केवलादपि डप्रत्ययः । लाषः । लष कान्तौ । कान्तिरभिलाषः । भावे घञ् । जानां लाषो यस्मिंस्तज्जलाषं सुखं । जलाषरूपं भेषजं यस्मिन्रुद्रे स जलाषभेषजः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । शंयोः । कंशंभ्यां । पा. ५-२-१३८ । इति मत्वर्थीयो युस्प्रत्ययः । सिति च । पा. १-४-१६ । इति पदसञ्ज्ञायामनुस्वारपरसवर्णौ । प्रत्ययस्वरः ॥ ४ ॥**
+
+*rudram abhilakṣya vayaṃ śaṃyor bṛhaspatiputrasya sambandhi tatprasiddhaṃ sarvaprajābhyo hitaṃ sumnaṃ sukham īmahe | yācāmahe | kīdṛśaṃ rudraṃ | gāthapatiṃ stutipālakaṃ | medhapatiṃ yajñapālakaṃ | jalāṣabheṣajaṃ sukharūpauṣadhopetaṃ | yadvā | udakarūpauṣadhopetaṃ | udakaṃ hi rudranāmābhimantritaṃ sadauṣadhaṃ bhavati || gāthapatiṃ | gātheti vāṅnāma | gāthā gaṇa iti tannāmasu paṭhitatvāt | vāgrūpāyāḥ stuteḥ patir gāthapatiḥ | kai gai rai śabde | ādeca ity ātvaṃ | uṣikuṣigārtibhyas than | iti thanpratyayaḥ | nittvād ādyudāttatvaṃ | jyāpoḥ saṃjñāchandasor bahulam iti pūrvapadasya hrasvatvaṃ | patyāv aiśvarya iti pūrvapadaprakṛtisvare prāpte marudvṛdhādīnāṃ chandasy upasaṃkhyānam iti pūrvapadāntodāttatvaṃ | medhapatiṃ | pūrvavat | jalāṣabheṣajaṃ | janī prādurbhāve | jāyanta iti jāḥ | anyeṣv api dṛśyata iti | pā. 3-2-101 | dṛśigrahaṇāt kevalād api ḍapratyayaḥ | lāṣaḥ | laṣa kāntau | kāntir abhilāṣaḥ | bhāve ghañ | jānāṃ lāṣo yasmiṃs taj jalāṣaṃ sukhaṃ | jalāṣarūpaṃ bheṣajaṃ yasmin rudre sa jalāṣabheṣajaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | śaṃyoḥ | kaṃśaṃbhyāṃ | pā. 5-2-138 | iti matvarthīyo yuspratyayaḥ | siti ca | pā. 1-4-16 | iti padasaṃjñāyām anusvāraparasavarṇau | pratyayasvaraḥ || 4 ||*
+
+**Translation:** "Aiming at Rudra, we ask — *īmahe* — *tat*, that renowned *sumnam*, happiness, *śaṃyoḥ*, belonging to Śaṃyu the son of Bṛhaspati, that is beneficial to all creatures. What kind of Rudra? *Gāthapatim*, the protector of praise; *medhapatim*, the protector of sacrifice; *jalāṣabheṣajam*, possessed of a medicine that is of the nature of pleasure; or, possessed of a medicine in the form of water: for water, consecrated with the names of Rudra, becomes a medicine. *Gāthapatim*: '*gāthā*' is a name for speech, as it is read among its names ('*gāthā*, *gaṇaḥ*' …); '*gāthāyāḥ patiḥ*', lord of the praise that has the form of speech; root *kai gai rai śabde*; *ā* by *ādeca…*; the suffix *than* by *uṣikuṣigārtibhyas than*; first-syllable acute as *nit*; the shortening of the first member by *jyāpoḥ saṃjñāchandasor bahulam*; where the first-member accent would come by *patyāv aiśvarye*, the first member is acute at its end by the vārttika *marudvṛdhādīnāṃ chandasy upasaṃkhyānam*. *Jalāṣabheṣajam*: root *janī prādurbhāve*; '*jāyante*', they are born: *jāḥ*; by *anyeṣv api dṛśyate* [Pā. 3-2-101] *ḍa* also after the bare root (from the word *dṛśi*); *lāṣaḥ*: root *laṣa kāntau*, 'desire'; *ghañ* in the abstract; 'the pleasure in which the desire of the born is': *jalāṣam*, happiness; 'in which Rudra the medicine is in the form of *jalāṣa*': *jalāṣabheṣajaḥ*; the accent of the first member in the bahuvrīhi. *Śaṃyoḥ*: from *kaṃ* and *śaṃ*, by *kaṃśaṃbhyāṃ…* [Pā. 5-2-138] the suffix *yus* in the sense of *matup*; *anusvāra* and *parasavarṇa* by the *pada* name through *siti ca* [Pā. 1-4-16]; accent of the suffix."
+
+**Pratipadārtha** *(p. 476)* — "**gāthapatim** — the protector of praise; **medhapatim** — the protector of sacrifices; **jalāṣabheṣajam** — having medicines that give happiness, or having medicines in the form of water; **rudram** — Rudra; **śaṃyoḥ** — the happiness that is enjoyed by Śaṃyu, the son of Bṛhaspati; **tat** — that renowned one, beneficial to all creatures; **sumnam** — happiness; [for it] **īmahe** — we pray."
+
+**Bhāvārtha** *(p. 477)* — "We pray to Rudra, who is the protector of praise, the protector of sacrifices, and who has medicines that give happiness, or medicines in the form of water, in order that he may give the well-known happiness that the [ṛṣi] Śaṃyu, the son of Bṛhaspati, enjoyed."
+
+**English Translation (the source's own, p. 477)** — "So we pray to Rudra, the lord of hymns, the protector of sacrifices possessed of medicament that give delight, for such happiness as shown to Samyu."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 477**
+- **gāthapatim** — "since the word *gāthā* is read among the thirty-three [?] names of speech beginning with *śloka*, *dhārā* [as read], *gāthā* means speech in the form of praise; *gāthapati* is the lord of hymns, i.e. one who is praised with hymns."
+- **medhapatim** = *yajñapālakam* — "protector of sacrifices."
+- **jalāṣabheṣajam** — "*janī prādurbhāve | jāyante iti jāḥ | laṣa kāntau | kāntir abhilāṣaḥ | jānāṃ lāṣo yasmiṃs taj jalāṣaṃ sukhaṃ | jalāṣarūpaṃ bheṣajaṃ yasmin rudre sa jalāṣabheṣajaḥ*: *laṣa* needs a desire, and *janī* means arising; so the pleasure that fulfils our desire is called *sukha*. Rudra who has such a remedy of the nature of happiness is called *jalāṣabheṣaja*. Or one may say [Sāyaṇa's second sense] 'he who is joined with remedies in the form of water'; for it is well known that water consecrated with mantras to Rudra has the medicinal power of preventing diseases."
+- **śaṃyoḥ** — "Śaṃyu is the name of Bṛhaspati's son. This Śaṃyu is the ṛṣi of altogether [63? the numeral is read with doubt [?]] ṛks in the sūktas [Ṛg. Saṃ. 6-44, 6-45, 6-46 [?]] of the sixth maṇḍala of the Ṛgveda. It is well known that the ṛṣi obtained excellent happiness by the grace of Rudra and the other deities. The ṛṣi prays that such well-known happiness be given. In many śruti sentences such as '*tac chaṃyor āvṛṇīmahe*' [as read, [?]] there are many occasions in which deities are prayed to for the very happiness that Śaṃyu obtained; therefore it is well known that the happiness of Śaṃyu is of an exalted kind." *(The Yajurveda quotation is as printed, crowded [?]; its reference is not given.)*
+
+**Vyākaraṇa-prakriyā** *(pp. 478–479 — grammar pages, noted briefly)*
+- **gāthapatim**: "on *gāthā* — in the Nirukta (Ni. 1-11-[?], as read [?]) Yāska reads the word *gāthā* among the names of speech; so *gāthā* means *vāk*; here praise in the form of speech is conveyed by this word. Root *kai gai rai śabde*; *ādeca upadeśe 'śiti*: *ā* for *ai* of *gai*; *uṣikuṣigārtibhyas than* — उषिकुषिगार्तिभ्यस्थन् — [Uṇ. 2-[?] as read]: *than*; since the feminine is shown, *ajādyatas ṭāp* gives *ṭāp*; *savarṇadīrgha*; *gāthā*; the *ḍati* suffix after the root *pā rakṣaṇe* in *pāter ḍatiḥ* [Uṇ. 4-[?] as read] would give *pati*; '*gāthāyāḥ patiḥ*': *gāthapatiḥ*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — [Pā. 6-3-63 as read]: the shortening of *ṭāp* in the first member; the word *gātha* is *nit* so first-syllable acute; *patyāv aiśvarye* [Pā. 6-2-18 as read] would give the first-member accent; but *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives acute at the end of the first member."
+- **medhapatim**: "the process is to be stated as before."
+- **rudram**: the suffix *rak* by *roder ṇiluk ca*.
+- **jalāṣabheṣajam**: root *janī prādurbhāve*; "*jāyante iti jāḥ*"; *anyeṣv api dṛśyate* [Pā. 3-2-101 as read]: *ḍa* after the root *jan* seen even where there is no other *upapada*; because of the word *dṛśyate*, it comes even without an *upapada*; loss of the *ṭi*; root *laṣa kāntau*, then *ghañ* in the abstract; *upadhāvṛddhi*: *lāṣa*; *kānti* means desire; 'in which the *lāṣa* of the born is'; *bheṣam*, disease, '*jayati*', conquers: *bheṣajam*; a bahuvrīhi containing *jalāṣam bheṣajaṃ yasya saḥ*: Rudra with remedies of the nature of happiness is conveyed by the word *jalāṣabheṣaja*; the accent of the first member.
+- **śaṃyoḥ**: *kaṃśaṃbhyāṃ babhayustitutayasaḥ* — कंशंभ्यां बभयुस्तितुतयसः — [Pā. 5-2-138 as read]: after *kam* and *śam* the seven suffixes *ba*, *bha*, *yus*, *ti*, *tu*, *ta*, *ya* in the sense of *matup*; *kam* and *śam* are indeclinables ending in *m*; *kam* means water or happiness, *śam* happiness; *śam + yus*; *siti ca* [Pā. 1-4-16 as read]: when a suffix with the *s*-*it* follows, the preceding has the *pada* name, so the *m* of *śam* takes *anusvāra* by *mo 'nusvāraḥ* and then the homorganic nasal by *anusvārasya yayi parasavarṇaḥ*: *śayyu*; suffix accent, *guṇa*, *jasi ca*, *pūrvarūpa*, *ru*, visarga: *śaṃyoḥ*. Rik 4 ends here (*|| 4 ||*).
+
+---
+
+### Rik 43.5 (pp. 479–, PDF 493–)
+
+**Saṃhitā-pāṭha** *(p. 479; accents not reproduced)*
+
+> **यः शुक्र इव सूर्यो हिरण्यमिव रोचते ।**
+> **श्रेष्ठो देवानां वसुः ॥ ५ ॥**
+
+*yaḥ śukra iva sūryo hiraṇyam iva rocate |*
+*śreṣṭho devānāṃ vasuḥ || 5 ||*
+
+**Pada-pāṭha** *(p. 479)*
+
+> यः । शुक्रः । इव । सूर्यः । हिरण्यम् । इव । रोचते ।
+> श्रेष्ठः । देवानाम् । वसुः ॥ ५ ॥
+
+*yaḥ | śukraḥ | iva | sūryaḥ | hiraṇyam | iva | rocate |*
+*śreṣṭhaḥ | devānām | vasuḥ || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 479; it continues on p. 480, not yet written)*
+
+> **यो रुद्रः सूर्य इव शुक्रः सूर्यवद्दीप्तिमान् । हिरण्यमिव रोचते । यथा सर्वेषां प्राणिनां हिरण्यं प्रीतिकरं भवति तथा रुद्रोऽपि । स च देवानां सर्वेषां मध्ये श्रेष्ठो वसुर्निवासहेतुश्च ॥ रोचते । रुच दीप्तावभिप्रीत्यां च । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । श्रेष्ठः । प्रशस्यशब्दादिष्ठनि…**
+
+*yo rudraḥ sūrya iva śukraḥ sūryavad dīptimān | hiraṇyam iva rocate | yathā sarveṣāṃ prāṇināṃ hiraṇyaṃ prītikaraṃ bhavati tathā rudro 'pi | sa ca devānāṃ sarveṣāṃ madhye śreṣṭho vasur nivāsahetuś ca || rocate | ruca dīptāv abhiprītyāṃ ca | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | śreṣṭhaḥ | praśasyaśabdād iṣṭhani…*
+
+**Translation of this part:** "That Rudra who *śukraḥ sūrya iva*, shines like the Sun, is radiant like the Sun; *hiraṇyam iva rocate*, he shines like gold: as gold is pleasing to all beings, so is Rudra also. And he *śreṣṭhaḥ*, the best, *devānām*, among all the gods, *vasuḥ*, the abode, the cause of dwelling. *Rocate*: root *ruca dīptāv abhiprītyāṃ ca*; the root accent, since the *la*-substitute *sārvadhātuka* is unaccented after a root with an acute in the *upadeśa*. *Śreṣṭhaḥ*: from the word *praśasya*, by *iṣṭhan*…" *(the sentence continues on p. 480.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–42 COMPLETE; Sūkta 43 in progress: printed p. 479 (PDF 493) reached; introduction, heading and Riks 43.1–43.4 complete; Rik 43.5's Saṃhitā, Pada and the first part of its bhāṣya written (the bhāṣya breaks off mid-sentence at "*praśasyaśabdād iṣṭhani…*" on p. 479).**
+
+**Next task:** continue at printed p. 480 (PDF 494) with the end of the bhāṣya of Rik 43.5, then its Pratipadārtha etc., Riks 6–9 and the close of Sūkta 43 (to about p. 492; Sūkta 44 *agne vivasvat* begins about p. 493 per the contents table — check), then STOP at the end of Sūkta 43 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 478–515) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 494 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43 so far: (1) the heading's varga numerals and Rik numerals are small and doubtful; **correction:** the Mitra–Varuṇa ṛk is Rik **3** (not Rik 5 as stated in the previous progress note); Rudra for Riks 1, 2, 4, 5, 6 and Soma for 7–9 — a correction note is in the text after the heading; (2) the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and the Ṛgveda references in the anuvāda are read with doubt; (3) Rik 1: the source's English prints "cherist" [sic]; the Nirukta passage on *rudra* and the Kāṭhaka / Hāridravika attributions are untranslated in the source — my gloss is tentative; the grammar of *mīḷhuṣṭamāya* and *tavyase* is crowded and characterized only; (4) Rik 2: two Taittirīya quotations, untranslated, glossed by me tentatively, numerals doubtful; "*ghor jñati*" crowded; (5) Rik 3: the verb form after *yathā viśve sajoṣasaḥ* in the bhāṣya ("*ciketanti*"/"*ciketaṃti*") is doubtful; the source's English prints "hyman" [sic]; (6) Rik 4: the number of ṛks credited to Śaṃyu in the Special Topics and the Ṛgveda sūkta numerals are read with doubt; the Yajurveda quotation is crowded; (7) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
