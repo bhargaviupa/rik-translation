@@ -11,9 +11,8 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20–28 are complete — through printed page 437.** (Sūkta 28, "yatra grāvā pṛthubudhna ūrdhvo", has 9 Riks on the soma-pressing implements.) Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242) and the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409) are provisional and should be re-checked at a higher resolution.
-**Next task: begin Sūkta 29 ("yac cid dhi satya somapā", 7 Riks, to Indra; Rishi Śunaḥśepa) — heading on printed p. 438 (PDF page 453).** Sūktas and their first
-pages: 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+Volume 3 translation is under way: **Sūktas 20–29 are complete — through printed page 457.** (Sūkta 29, "yac cid dhi satya somapā", has 7 Riks to Indra; Sūkta 28 ends p. 438.) Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), and the Sūkta 29 Rik 7 bhāṣya wording (p. 455, reconstructed [?]) are provisional and should be re-checked at a higher resolution.
+**Next task: begin Sūkta 30 ("ā va indram", 22 Riks; Rishi Śunaḥśepa; Indra, then Aśvins, then Uṣas) — heading on printed p. 458 (PDF page 473); Rik 1 follows.** Sūkta 31 and 32 starting pages are unverified (older guesses p.517 and p.587); read the real headings. The volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
