@@ -5159,8 +5159,121 @@
 
 ---
 
+**Rik 53.7, continued** *(pp. 286–290, PDF 302–306)*
+
+**Sāyaṇa-bhāṣya, rest of the main sense** *(p. 286 head)*
+
+> **… स्मान्निबर्हयः नितरामहिंसीः । अतस्त्वमेवं स्तूयस इत्यर्थः ॥**
+
+*… smān nibarhayaḥ nitarām ahiṃsīḥ | atas tvam evaṃ stūyasa ity arthaḥ ||* *(The first syllables, "…smān", join the unfinished clause of p. 285, "yad yadā …": I read "*yasmān nibarhayaḥ*", [?].)*
+
+*(The tail of the bhāṣya, p. 286, is characterized:* yudhā *(*yudha saṃprahāre*, *kvip* by* saṃpadādibhyaḥ kvip*; the accent of the ending after a monosyllable by* sāvekācas tṛtīyādiḥ*);* eṣi *(*iṇ gatau*, *adādi*, *śap* elided);* dhṛṣṇuyā *(*ñidhṛṣā prāgalbhye*, Uṇādi *knu* by* trasigṛdhidhṛṣikṣipeḥ knuḥ*, Pā. 3-2-140 as read [?]; *kit*, no *guṇa*; the *supāṃ suluk* substitute *yā*;* citaḥ*);* purā *(*pyā pālanapūraṇayoḥ*, *kvip*, *udoṣṭhyapūrvasya*, *urat*; the Vedic form);* haṃsi *(*han*, *laṭ* second singular *sip*, *adiprabhṛtibhyaḥ śapaḥ* *luk*; *naś cāpadāntasya jhali* gives the anusvāra);* namyā *(*ṇamu prahvatve*, Uṇādi* in*; *supāṃ suluk* gives *ḍyā*; *ḍit*, so *ṭi* is lost);* sakhyā *(*śeṣo ghy asakhi*, Pā. 1-4-7: *sakhi* does not get the *ghi*-designation; hence no *ṅa* for the instrumental by* āṅo nāstriyām*; *yaṇ*: *sakhyā*);* namucim *("*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*", *muc*, Uṇādi *kin*; *naño 'ntaḥ…*, *nabhrāṇnapātsvara*; *prakṛtibhāva*);* māyinam *(*māyā* in the *vrīhyādi* list, *vrīhyādibhyaś ca* Pā. 5-2-116, *ini*, *yasyeti ca*).)*
+
+**Translation of the bhāṣya (complete sentence):** "O Indra, *dhṛṣṇuyā*, you who overwhelm enemies, *yudhā*, in battle — *yudham yudham upa ghed eṣi*: you go to every battle — you are always given to fighting (*ghu*/*gha* is a mere filler). *Purā puram idaṃ*: with the city of the enemies, the Asuras, you break this city before you, the enemy city, by your strength; you destroy it completely: you broke the cities of the enemies, is the sense. O Indra, with your *namyā*, bowing (the enemies), *sakhyā*, friendly, helping thunderbolt, *parāvati*, in a distant place, the Asura *namucim nāma*, known by the name Namuci, the *māyinam*, the deceiver — when you *nibarhayaḥ*, destroyed utterly: for that reason you are praised thus — this is the sense."
+
+**Pratipadārtha** *(p. 286)* — "(O Indra) **dhṛṣṇuyā** — you who overpower the enemies; **yudhā** — in battle; **yudham** — to battle; **upa gheṣi** — you approach (you are always of warlike nature); **purā** — with the cities of the enemies; **idaṃ puram** — this city (before you); **ojasā** — by your power; **saṃ haṃsi** — you destroy completely; **indra** — O Indra (you); **namyā** — which makes (enemies) bow; **sakhyā** — which is always your friend (helper), by the thunderbolt; **parāvati** — in a far-off place; **namucim nāma** — the one named Namuci; **māyinam** — the deceitful Rākṣasa; **yat** — for which reason; **nibarhayaḥ** — you destroyed without remainder (and so you are praised)."
+
+**Bhāvārtha** *(p. 286)* — "O Indra, you overpower enemies and rush from battle to battle, destroying, by your strength, city after city. O Indra, with the thunderbolt that makes enemies bow and is always your helper, you killed in a distant place the deceitful Rākṣasa named Namuci; therefore you are praised."
+
+**English Translation (the source's own, p. 286)** — "Humiliator of adversaries, you go from battle to battle, and destroy, by your might city after city; with you foe-prostrating associate (the thunderbolt) you Indra, did slay afar off the deceiver named Namuchi."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 287–289**
+- **namucim** — "*Indreṇa saha yuddhaṃ na muñcatīti namuciḥ*: 'one who does not give up fighting with Indra'; hence he is called Namuci. Namuci is a Rākṣasa. Because he was of great strength, it was very difficult for Indra to fight and win against him. On this matter there is a narrative in the Taittirīya Brāhmaṇa:"
+
+  > **इन्द्रो वृत्रग्ं हत्वा । असुरान् पराभाव्य । नमुचिमासुरं नालभत । तग्ं शच्यागृह्णात् । तौ समलभेताम् । सोऽस्मादभिशनतरोऽभवत् । सोऽब्रवीत् । संधां संदधावहै । अथ त्वावसृजामि । न मा शुष्केण नार्द्रेण हनः । न दिवा न नक्तमिति । स एतमपां फेनमसिञ्चत् । न वा एष शुष्को नार्द्रो व्युष्टासीत् । अनुदितः सूर्यः । न वा एतद्दिवा न नक्तम् । तस्यैतस्मिन् लोके । अपां फेनेन शिर उदवर्तयत् । तदेनमन्ववर्तत । मित्रध्रुगिति । स एतानपामार्गानजनयत् । तानजुहोत् । तैर्वै स रक्षाग्ंस्यपाहत । यदपामार्गहोमो भवति । रक्षसामपहत्यै ॥** *(Tai. Brā. 1-2-1 as read [?]; several words crowded — "*śacyāgṛhṇāt*", "*vyuṣṭāsīt*", "*anudithaḥ*" — and I do not complete them, [?])*
+
+  *indro vṛtragṃ hatvā | asurān parābhāvya | namucim āsuraṃ nālabhata | tagṃ śacyāgṛhṇāt | tau samalabhetām | so 'smād abhiśanataro 'bhavat | so 'bravīt | saṃdhāṃ saṃdadhāvahai | atha tvāvasṛjāmi | na mā śuṣkeṇa nārdreṇa hanaḥ | na divā na naktam iti | sa etam apāṃ phenam asiñcat | na vā eṣa śuṣko nārdro vyuṣṭāsīt | anuditaḥ sūryaḥ | na vā etad divā na naktam | tasyaitasmin loke | apāṃ phenena śira udavartayat | tad enam anvavartata | mitradhrug iti | sa etān apāmārgān ajanayat | tān ajuhot | tair vai sa rakṣāgṃsy apāhata | yad apāmārgahomo bhavati | rakṣasām apahatyai ||* — mine and tentative, rough: "Indra, having killed Vṛtra and routed the Asuras, did not get hold of the Asura Namuci; [Śacī? — crowded] seized him; the two grappled; he became the stronger of the two. He said: 'Let us make a compact; then I shall release you: do not kill me with dry or with wet, neither by day nor by night.' He [Indra] sprinkled this foam of the waters. It was neither dry nor wet, the dawn had come but the sun had not risen; this was neither day nor night. With the foam of the waters he cut off his head; [the head] followed him, [crying] 'Mitra-traitor!' He produced these *apāmārga* plants, offered them; by them he drove away the Rākṣasas; therefore there is an *apāmārga*-oblation, for the removal of the Rākṣasas." *(The Kannada retelling that follows (p. 287–288) agrees in sense.)*
+- The Kannada retelling (pp. 287–288): "After Indra killed Vṛtra he also killed other Rākṣasas; but he could not conquer the Rākṣasa Namuci. He was very strong; no weapon hurt him. Therefore Indra, wishing to conquer him by his own bodily strength, began wrestling with him; but as they fought, Namuci's strength only grew. Indra could not free himself from his grip. Then Indra asked Namuci to release him, and that Asura said to Indra: 'O Indra, if you wish to be released you must do as I say. Let us now make a compact between us. You must not wish to kill me by any weapon and any fighting. You must not use a weapon that is dry or wet; you must not kill me in the daytime or at night. If you agree to these conditions I shall release you.' Indra agreed and, freed from his grip, began to consider how to defeat him. After some time Indra thought of a way. The foam of the sea fell in his sight. This foam was neither dry nor wet. 'I shall therefore make this foam my weapon and kill Namuci.' When the night had passed and the dawn had begun, before the sun's rising, the time was clear and bright; since that time was not the night and the sun had not risen, it was not the day either. At such a time Indra fought with Namuci and cut off his head with the weapon made of foam of water, resolving that 'I shall not be a breaker of my word.' Even so, that Daitya, not dead, came pursuing Indra to kill him. 'O Indra, traitor to a friend, stand! Having promised that you would not kill me, you have done such a treacherous deed; I shall not leave you even now without killing you,' he said. Then Indra, afraid, created the tree called *apāmārga* and, with its twigs, offered oblations in the fire to increase his strength. By that Indra's strength increased and he killed that Namuci. Therefore those who wish to be free from the harm of Rākṣasas should offer oblations of *apāmārga* twigs."
+- The name of Namuci in the Ṛgveda (p. 288) — "Besides this Rik, the name of Namuci occurs in these Riks of the Ṛgveda:" *(eight Riks are quoted in Kannada-script Sanskrit; I give each in three layers, with the Ṛgveda references as read — all numerals [?] — and a mine-and-tentative gloss)*:
+
+  1. > **यः पिप्रुं नमुचिं यो रुधिकां तस्मा इन्द्रायान्धसो जुहोत ।** *(Ṛ. Saṃ. 2-14-5 as read [?])*
+
+     *yaḥ pipruṃ namuciṃ yo rudhikāṃ tasmā indrāyāndhaso juhota |* — "To that Indra who [slew] Pipru, Namuci, Rudhikā: offer the soma-food." *(mine, tentative; "*rudhikāṃ*" as printed, [?])*
+  2. > **निवेशने शततमाविवेषीरहञ्च वृत्रं नमुचिमुताहन् ।** *(Ṛ. Saṃ. 2-19-… as read [?])*
+
+     *niveśane śatatamāviveṣīr ahañ ca vṛtraṃ namucim utāhan |* — "…in the dwelling you [pervaded…], and you slew Vṛtra and also Namuci." *(mine, tentative; the first half-line is crowded, [?])*
+  3. > **त्वं जघन्थ नमुचिं मखस्युं दासं कृण्वान ऋषये विमानम् ।** *(Ṛ. Saṃ. 10-… as read [?])*
+
+     *tvaṃ jaghantha namuciṃ makhasyuṃ dāsaṃ kṛṇvāna ṛṣaye vimānam |* — "You slew Namuci, the sacrifice-seeking [?] dāsa, making a [?] for the seer." *(mine, tentative)*
+  4. > **अत्राह दासस्य नमुचेः शिरो यदवर्तयो मनवे गातुमिच्छन् ।** *(Ṛ. Saṃ. 5-30-7 as read [?])*
+
+     *atrāha dāsasya namucheḥ [sic print: namuceḥ] śiro yad avartayo manave gātum icchan |* — "Here you cut off the head of the dāsa Namuci, wishing a way for Manu." *(mine, tentative)*
+  5. > **युजं हि मामकृथा आदिदिन्द्र शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 5-30-8 as read [?])*
+
+     *yujaṃ hi mām akṛthā ād id indra śiro dāsasya namucer mathāyan |* — "You made me your yoke-fellow, O Indra, and then crushed the head of the dāsa Namuci." *(mine, tentative)*
+  6. > **प्र श्येनो न मदिरमंशुमस्मै शिरो दासस्य नमुचेर्मथायन् ।** *(Ṛ. Saṃ. 6-20-6 as read [?])*
+
+     *pra śyeno na madiram aṃśum asmai śiro dāsasya namucer mathāyan |* — "Like a falcon [bringing] the exhilarating soma-stalk to him, crushing the head of the dāsa Namuci." *(mine, tentative)*
+  7. > **अपां फेनेन नमुचेः शिर इन्द्रोदवर्तयः ।** *(Ṛ. Saṃ. 8-14-13 as read [?])*
+
+     *apāṃ phenena namuceḥ śira indrodavartayaḥ |* — "With the foam of the waters, O Indra, you cut off Namuci's head."
+  8. > **युवं सुरामम् अश्विना नमुचावासुरे सचा ।** *(Ṛ. Saṃ. 10-131-4 as read [?])*
+
+     *yuvaṃ surāmam aśvinā namucāv āsure sacā |* — "You two, Aśvins, [gave?] the *surāma*-drink to Namuci the Asura together…" *(mine, tentative; the line is the first half of a longer Rik)*
+
+  "…and in other Riks also; nowhere else." *(The Kannada: "ಎಂಬ ಋಕ್ಕುಗಳಲ್ಲಿರುವುದು. ಮತ್ತೆಲ್ಲಿಯೂ ಇರುವುದಿಲ್ಲ" — "it occurs in these Riks; it occurs nowhere else.")*
+- **mukhyābhiprāya** *(a Sanskrit passage in the print, p. 288)*:
+
+  > **यदा इन्द्रः स्तोपासकस्य नमिनाम्नः ऋषये रक्षणार्थं नमुचिनामानमसुरं हतवान् तदा तेन नमुचिना सहैकस्माद्युद्धादनन्तरमन्यद्युद्धमेवं प्रकारेणानेकानि युद्धानि चकार । तथैकस्मान्नगरादनन्तरमन्यन्नगरमेवं प्रकारेण नमुचेः सर्वाण्यपि नगराणि हतवानित्यर्थः ॥**
+
+  *yadā indraḥ stopāsakasya naminnāmnaḥ ṛṣaye rakṣaṇārthaṃ namucināmānam asuraṃ hatavān tadā tena namucinā sahaikasmād yuddhād anantaram anyad yuddham evaṃ prakāreṇānekāni yuddhāni cakāra | tathaikasmān nagarād anantaram anyan nagaram evaṃ prakāreṇa namuceḥ sarvāṇy api nagarāṇi hatavān ity arthaḥ ||* — "When Indra, to protect the sage named Nami, a worshipper, killed the Asura named Namuci, then with that Namuci he fought, after one battle another, and so many battles; and after one city another, in this way he destroyed all the cities of Namuci — this is the sense." The Kannada adds: "To protect the sage Nami, who praised him, Indra fought many times with the Asura Namuci; each time he destroyed one of his cities and then another; and finally he killed him. Some take the word *sakhyā* to mean the sage Nami, a friend of Indra; the bhāṣyakāra took it to mean the thunderbolt, as a dear friend of Indra." *(The "Nami" reading of *namyā sakhyā* is the Kannada author's report of "some" interpreters.)*
+- **gha it eṣi** — "Here the syllable *gha* is a mere filler for the foot; it has no meaning."
+- **dhṛṣṇuyā** — "This is an epithet of the word *yudhā*. The word *dhṛṣṇu*, formed from the root *ñidhṛṣā prāgalbhye*, shows 'one who destroys enemies in a bold way'."
+- **namyā** — "This word, in the sense 'one who makes enemies bow', is an epithet of *sakhyā*, which denotes the thunderbolt. Some take this word to refer to the sage Nami."
+
+**Vyākaraṇa-prakriyā** *(pp. 289–290 — grammar pages, noted briefly)*
+- **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental singular; by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168) the ending of a mono-syllable is acute.
+- **eṣi**: *iṇ gatau*, *adādi*; *laṭ* second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* *luk*; since *sip* is *sārvadhātuka*, *guṇa* of the root; after *iṇ*, the suffix's *s* becomes *ṣ* (*ādeśapratyayayoḥ*); following an *atiṅ*, *nighāta*.
+- **dhṛṣṇuyā**: *ñidhṛṣā prāgalbhye*; the suffix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ*; being *kit*, no *guṇa*: *dhṛṣṇu*; in the instrumental singular the Vedic *yā* by *supāṃ suluk…*; *citaḥ* gives the end-acute.
+- **purā**: *pyā pālanapūraṇayoḥ*; "*pūrayati rājñām abhimatāni iti purā*"; *kvip ca*; *udoṣṭhyapūrvasya* (Pā. 7-1-102) gives *u* to the root; *uraṇ raparaḥ*; instrumental singular *purā*; by the word *pur*; *sāvekācas tṛtīyādiḥ* gives the ending the acute.
+- **haṃsi**: *han hiṃsāgatyoḥ*; second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ*; *naś cāpadāntasya jhali* (Pā. 8-3-24) gives the anusvāra for the *n* of the word that does not end the *pada*; following an *atiṅ*, *nighāta*.
+- **namyā**: *ṇamu prahvatve*; the Uṇādi suffix *in*: *nami*; in the instrumental singular, *supāṃ suluk* gives *ḍyā*; since *ḍit*, the *ṭi* is dropped: *namyā*.
+- **sakhyā**: *śeṣo ghy asakhi* (Pā. 1-4-7): in the sūtra that gives the *ghi*-designation, *asakhi* is expressly excluded; so *sakhi* does not get the name *ghi*; hence *āṅo nāstriyām* does not apply to the instrumental singular (*ṅā*); by *yaṇ* the form is *sakhyā*.
+- **namucim**: "*indreṇa saha yuddhaṃ na muñcatīti namuciḥ*" ("one who does not abandon fighting with Indra"); *muḷ* [= *muc*] *mokṣaṇe*; the Uṇādi *ki*; being *kit*, no *guṇa*; compound with *naña*, *nabhrāṇ-napāt…* (Pā. 6-2-… as read [?]) the *naña* retains its natural accent; since *nañ na gatiḥ na ca kārakam*, there being no occasion for the accent of the last member after *kṛt*, the accent of the first member, the particle, prevails.
+- **māyinam**: the word *māyā* is read among the *vrīhyādi*, so *vrīhyādibhyaś ca* (Pā. 5-2-116) gives *ini* in the sense of "having"; *yasyeti ca* drops the *ā* before *ini*: *māyin*; accusative singular; by the suffix-accent the *i* is acute. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.6 complete; Rik 53.7 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 285, PDF 301); the bhāṣya continues on p. 286 (PDF 302) at "…namuciṃ nāma … māyinam asuraṃ yad yadā …". Riks 53.8–53.11 are NOT yet written.**
+### Rik 53.8 (pp. 290–, PDF 306–)
 
-**Next task:** continue at printed p. 286 (PDF 302) with "**Rik 53.7, continued**" (start from "yad yadā …" at the head of p. 286; tail characterized; Pratipadārtha, Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 8–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha" [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 290; accents printed, not reproduced)*
+
+> **त्वं करञ्जमुत पर्णयं वधीस्तेजिष्ठयातिथिग्वस्य वर्तनी ।**
+> **त्वं शता वङ्गृदस्याभिनत्पुरोऽनानुदः परिषूता ऋजिश्वना ॥ ८ ॥**
+
+*tvaṃ karañjam uta parṇayaṃ vadhīs tejiṣṭhayātithigvasya vartanī |*
+*tvaṃ śatā vaṅgṛdasyābhinat puro 'nānudaḥ pariṣūtā ṛjiśvanā || 8 ||*
+
+**Pada-pāṭha** *(p. 290)*
+
+> त्वम् । करञ्जम् । उत । पर्णयम् । वधीः । तेजिष्ठया । अतिथिऽग्वस्य । वर्तनी ।
+> त्वम् । शता । वङ्गृदस्य । अभिनत् । पुरः । अननुदः । परिऽसूताः । ऋजिश्वना ॥ ८ ॥
+
+*tvam | karañjam | uta | parṇayam | vadhīḥ | tejiṣṭhayā | atithi-gvasya | vartanī |*
+*tvam | śatā | vaṅgṛdasya | abhinat | puraḥ | ananudaḥ | pari-sūtāḥ | ṛjiśvanā || 8 ||*
+
+*(The Saṃhitā's* anānudaḥ *against the Pada's* ananudaḥ *is as printed: the Pada has the short vowel; the Saṃhitā lengthens — see the grammar notes.)*
+
+**Sāyaṇa-bhāṣya** *(p. 291)*
+
+> **हे इन्द्र त्वं करञ्जमेतत्संज्ञकमसुरमुताऽपि च पर्णयमेतन्नामानमसुरं चातिथिग्वस्यैतत्संज्ञस्य राज्ञः प्रयोजनाय तेजिष्ठया अतिशयेन तेजस्विन्या वर्तन्या वर्तन्या शत्रुप्रेरणकुशलया शक्त्या वधीः । हतवानसि । तथाननुदः । अनु पश्चाद्ध्नुदति खण्डयतीत्यनुदः । अनुचरः । तादृशोऽनुचरहित एक एव त्वमृजिश्वनैतत्संज्ञकेन राज्ञा परिषूताः परितोऽवष्टब्धाः शता शतानि शतसंख्याका वङ्गृदस्यैतत्संज्ञकस्यासुरस्य पुरः पुराणि नगराण्यभिनत् । बिभिदिषे । वधीः ।**
+
+*he indra tvaṃ karañjam etatsaṃjñakam asuram utāpi ca parṇayam etannāmānam asuraṃ cātithigvasyaitatsaṃjñasya rājñaḥ prayojanāya tejiṣṭhayā atiśayena tejasvinyā vartanyā vartanyā śatrupreraṇakuśalayā śaktyā vadhīḥ | hatavān asi | tathānanudaḥ | anu paścād dhnudati khaṇḍayatīty anudaḥ | anucaraḥ | tādṛśo 'nucarahita eka eva tvam ṛjiśvanaitatsaṃjñakena rājñā pariṣūtāḥ parito 'vaṣṭabdhāḥ śatā śatāni śatasaṃkhyākā vaṅgṛdasyaitatsaṃjñakasyāsurasya puraḥ purāṇi nagarāṇy abhinat | bibhidiṣe | vadhīḥ |*
+
+*(Reading notes: "*vartanyā vartanyā*" — the second is a repetition of the print's gloss; "*anu paścād dhnudati*" and the end "*bibhidiṣe | vadhīḥ*" (a clumsy gloss) are as read, [?]. The grammatical tail, pp. 291–: on* vadhīḥ *(*han*, *luṅ*, *sic*, the substitute* vadha *by* hano vadha liṅi*, Pā. 2-4-42 and 43 as read, [?]),* tejiṣṭhayā *(*tejas* + *iṣṭhan* ... with *vini* — "*tejasvī*"), *vartanī *(*vṛtu vartane*, *lyuṭ*, *ṅīp*),* abhinat*,* ananudaḥ *(*nud* with *ka*; *nañsubhyām*),* pariṣūtāḥ *(*ṣūṅ prāṇigarbhavimocane / sū preraṇe*, *kta*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, you *karañjam*, the Asura of that name, and *uta*, also *parṇayam*, the Asura of that name, *vadhīḥ*, you killed, for the sake of the king named Atithigva, with *tejiṣṭhayā vartanyā* — with a most brilliant force, skilled in driving back enemies; and *ananudaḥ*, without a follower: *anudaḥ* is one who afterwards breaks; a follower; you, such, without a follower, alone, *śatā purah*, hundreds of the cities of the Asura named *vaṅgṛda*, *pariṣūtāḥ*, surrounded all round, besieged, by the king Ṛjiśvan, *abhinat*, broke."
+
+**Pratipadārtha** *(p. 291)* — "(O Indra) **tvam** — you; **karañjam** — the Asura named Karañja; **uta** — and; **parṇayam** — the Asura named Parṇaya; **atithigvasya** — for the sake of the king named Atithigva; **tejiṣṭhayā** — with your most brilliant; **vartanī** — force that drives enemies away; **vadhīḥ** — you killed; (likewise) **ananudaḥ** — without the help of any follower; **tvam** — you alone; **ṛjiśvanā** — by the king named Ṛjiśvan; **pariṣūtāḥ** — besieged all round; **vaṅgṛdasya** — of the Asura named Vaṅgṛda; **śatā** — a hundred; **puraḥ** — cities; **abhinat** — you broke."
+
+**Bhāvārtha** *(p. 291)* — "O Indra, you killed the Asuras Karañja and Parṇaya, for the sake of the king Atithigva, with your brilliant, enemy-repelling force. Likewise, without the help of any follower, you alone destroyed the hundred cities of the Asura Vaṅgṛda, which were besieged on all sides by the king Ṛjiśvan."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.7 complete; Rik 53.8 written from the Saṃhitā through the Bhāvārtha (printed p. 291, PDF 307). Its English translation, Special Topics and Vyākaraṇa-prakriyā (pp. 292–, PDF 308–) and Riks 53.9–53.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 292 (PDF 308) with "**Rik 53.8, continued**" (English, Special Topics, Vyākaraṇa), then Riks 9–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print; so Sūkta 53 should end ≈ p. 302). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha", the Taittirīya Brāhmaṇa Namuci passage (words crowded) and the eight Ṛgveda citations (all numerals and several words [?], glosses mine/tentative); Rik 8 "anānudaḥ/ananudaḥ", "bibhidiṣe | vadhīḥ" [?]; Uṇādi and Pāṇini numerals as read [?].
