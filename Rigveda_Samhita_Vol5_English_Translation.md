@@ -209,8 +209,67 @@
 
 ---
 
+**Rik 47.2, continued** *(from p. 7)*
+
+**Pratipadārtha** *(p. 7)* — "**aśvinā** — O Aśvin gods; **trivandhureṇa** — beautiful with three seats (or posts); **trivṛtā** — (since it has no obstruction) moving in the three worlds (going about them); **supeśasā** — made of excellent gold; **rathena** — with the chariot; **āyātam** — come (here); **kaṇvāsaḥ** — the sons of Kaṇva or wise priests; **vām** — to you; **adhvare** — in the sacrifice; **brahma** — a mantra in the form of praise, or food in the form of the oblation; **kṛṇvanti** — make (offer); **teṣām** — of those sons of Kaṇva or wise priests; **havam** — the invocation; **su śṛṇutam** — hear with regard."
+
+**Bhāvārtha** *(p. 7)* — "O Aśvin gods, come to this place of sacrifice, seated in your chariot, which is made of excellent gold, is beautiful with three seats, and moves in the three worlds without obstruction. Here the sons of Kaṇva, or wise priests, offer you, in the sacrifice, mantras in the form of praise or food in the form of the oblation. Hear their invocation with regard."
+
+**English Translation (the source's own, p. 7)** — "Come hither, O Aswins, in your triangular and beautiful car of the three-fold pole. The Kanwas compose and ^repeat [sic: the first letter of "repeat" is printed raised] your praise at the sacrifice ; Kindly hear their invocation."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 7–8**
+- "In this ṛk the form of the chariot of the Aśvin gods is described. *Trivandhureṇa trivṛtā rathena*: the idea is that their chariot is triangular in shape and has three posts. The commentator explains the word *trivṛtā* as 'having unobstructed motion in the three worlds'. This manner of describing the chariot of the Aśvin gods is seen in several places in the Ṛgveda. For example:" — three Ṛgveda citations, **untranslated in the source**; I give each in three layers, my gloss *mine and tentative*, references "as read [?]":
+
+  1. > **त्रिवन्धुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्वाक् ॥** *(Ṛ. Saṃ. 1-118-2 as read [?])*
+
+     *trivandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātam arvāk ||* — mine and tentative: "Come hither with your chariot of the three seats, the threefold, three-wheeled, well-rolling one."
+  2. > **त्रिवन्धुरेण त्रिवृता रथेना यातमश्विना ॥** *(Ṛ. Saṃ. 8-8-[?] as read [?])*
+
+     *trivandhureṇa trivṛtā rathenā yātam aśvinā ||* — mine and tentative: "Come, O Aśvins, with the three-seated, threefold chariot." (the line is the same as the first half of this Rik 2)
+  3. > **अर्वाङ् त्रिचक्रो मधुवाहनो रथो जीराश्वो अश्विनोर्यातु सुष्टुतः ।**
+     > **त्रिवन्धुरो मघवा विश्वसौभगः शं न आ वक्षद्द्विपदे चतुष्पदे ॥** *(Ṛ. Saṃ. 1-157-3 as read [?])*
+
+     *arvāṅ tricakro madhuvāhano ratho jīrāśvo aśvinor yātu suṣṭutaḥ | trivandhuro maghavā viśvasaubhagaḥ śaṃ na ā vakṣad dvipade catuṣpade ||* — mine and tentative: "May the Aśvins' well-praised chariot, three-wheeled, honey-bearing, drawn by swift horses, come this way; three-seated, bountiful, bringing all good fortune, may it bring well-being to us, to our bipeds and quadrupeds."
+
+  "In these ṛks, the chariot of the Aśvin gods is described in many places as having three wheels. Therefore, in describing the chariot of the Aśvin gods, the words *trivandhura*, *trivṛt* and *tricakra* have been used by many sages, and so it can be understood that these words have a definite meaning."
+- **kaṇvāsaḥ** — "*medhāvino ṛtvijaḥ*: wise priests; or the sons of the sage Kaṇva; the descendants of the sage Kaṇva."
+- **brahma** — "among the twenty-eight [?] names of food beginning *andhaḥ, vājaḥ*, the word *brahma* is read, so *brahma* means food (Ni. 2-[?] as read); and among the twenty-eight [?] names of wealth beginning *rekṇaḥ*, the word *brahma* is read, so *brahma* means wealth (Ni. 2-[?] as read); and, according to (Ni. 13-[?] as read), *brahma* means stotra: three meanings. Here any of the meanings may be given."
+
+**Vyākaraṇa-prakriyā** *(pp. 8–9 — grammar pages, noted briefly)*
+- **tribandhureṇa** *(the print here spells the first member with* b*: "tribanduraṇa" / "tribandhura")*: root *bandha bandhane*; "*badhnanti iti bandhurāḥ*"; the Uṇādi suffix *uran*; "*trayaḥ bandhurāḥ yasya saḥ*", a bahuvrīhi meaning "having a carriage of wood tied in three ways". *Bandhura* by the *nit*-accent is initial-acute; *tri* by the *prātipadika* accent is end-acute; after the compound is formed, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read) would give the first member's natural accent; but in the section on end-acute (*antodātta*), the vārttika "*tricakrādīnāṃ chandasy upasaṃkhyānam*" (Pā. 6-2-199 vārttika, as read "6-2-199-1" [?]) — "*tricakra* and the like are to be added in the Chandas" — gives the end of such words as *tricakra* and *tribandhura* the acute in the Chandas; this overrides the first member's natural accent, giving end-acute.
+- **trivṛtā**: "*triṣu lokeṣu vartate*", "is in the three worlds"; after the root *vṛtu vartane*, with *tri* as *upapada*, *kvip*; instrumental singular.
+- **supeśasā**: *peśa* is a name for gold; "*śobhanaṃ peśaḥ yasya saḥ*", "having fine gold"; *ādyudāttaṃ dvyac chandasi* (Pā. 6-1-119 as read [?]) — a second member of two vowels, after *su*, is initial-acute in the Chandas; here, after the root *piśa dīpane*, the Uṇādi suffix *asun*, so *peśas* is initial-acute.
+- **śṛṇutam**: root *śru śravaṇe*, *loṭ*, second person dual *thas*; *loṭo laṅvat* gives *laṅ*-likeness; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101 as read [?]) gives *tam*; *śru + ta*; *śruvaḥ śṛ ca* (Pā. 3-1-74 as read [?]) — श्रुवः शृ च — before a *kartṛ*-sense *sārvadhātuka* suffix in the Vedic, *śṛ* is substituted for *śru* and *śnu* comes as the *vikaraṇa* in place of *śap*: *śṛ + nu + ta*; the Kannada author says that both substitute and *vikaraṇa* are "left over together" (*sanniyogaśiṣṭa*), so both come in a single act; *ur nuvarṇāt* [i.e. *nor ṇatvaṃ*, as printed — crowded [?]] gives the *n* its *ṇ*: *śṛṇutam*.
+- **havam**: root *hveñ spardhāyāṃ śabde ca*; *bhāve 'nupasargasya* (Pā. 3-3-70 as read [?]) — भावेऽनुपसर्गस्य — in the abstract sense, for a root without a prefix, *saṃprasāraṇa* of *hve* (*v* → *u*) and the suffix *ap*; *hu + e + a*, *pūrvarūpa*: *hu + a*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa*: *u* → *o*; *āv* in place of that *o*; accusative singular *am*: *havam*; the suffix *ap* is *pit* and the case-ending is *sup*, so both are unaccented (*anudāttau suppitau*), and the root-accent alone remains. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 in progress: printed p. 6 (PDF 22) reached; Fourth-Adhyāya title, Sāyaṇa's introduction, anuvāda, heading, Rik 47.1 complete; Rik 47.2's Saṃhitā, Pada and Sāyaṇa-bhāṣya (with translation and grammatical tail) written; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (pp. 23–24) are NOT yet written.**
+### Rik 47.3 (pp. 9–, PDF 25–)
 
-**Next task:** continue at printed p. 7 (PDF 23): insert "**Rik 47.2, continued** *(from p. 7)*" with the Pratipadārtha etc.; then Riks 3–10 and the close of Sūkta 47 (ends before printed p. 30 — check the print); then STOP at the end of Sūkta 47 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–48) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 23 -l 48 Rig_Vol5.pdf /tmp/x/w` (file names are zero-padded: `w-023.jpg`). Flags for 47.1–2: Anukramaṇikā clause, the "paribhāṣā" phrases and Āśvalāyana numerals crowded [?]; the varga numerals "1, 2" doubtful; the Kannada numeral for the even-ṛk list of Satobṛhatī misprinted as "3"; the print reads *trivandhura* where *tribandhura* is expected (given as printed); numerals of sūtras "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5, and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 9; accents not reproduced)*
+
+> **अश्विना मधुमत्तमं पातं सोममृतावृधा ।**
+> **अथाद्य दस्रा वसु बिभ्रता रथे दाश्वांसमुप गच्छतम् ॥ ३ ॥**
+
+*aśvinā madhumattamaṃ pātaṃ somam ṛtāvṛdhā |*
+*athādya dasrā vasu bibhratā rathe dāśvāṃsam upa gacchatam || 3 ||*
+
+**Pada-pāṭha** *(p. 9)*
+
+> अश्विना । मधुमत्ऽतमम् । पातम् । सोमम् । ऋतऽवृधा ।
+> अथ । अद्य । दस्रा । वसु । बिभ्रता । रथे । दाश्वांसम् । उप । गच्छतम् ॥ ३ ॥
+
+*aśvinā | madhumat-tamam | pātam | somam | ṛta-vṛdhā |*
+*atha | adya | dasrā | vasu | bibhratā | rathe | dāśvāṃsam | upa | gacchatam || 3 ||*
+
+*(The bhāṣya of Rik 3 begins at the foot of p. 9 and runs on to p. 10; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 in progress: printed p. 9 (PDF 25) reached; introduction, heading and Riks 47.1–47.2 complete; Rik 47.3's Saṃhitā and Pada written (its bhāṣya begins at the foot of p. 9 and continues on p. 10).**
+
+**Next task:** continue at printed p. 9 foot / p. 10 (PDF 25–26) with the bhāṣya of Rik 47.3 (read it afresh from the print: the first two lines are at the foot of PDF 25), then Riks 4–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 25 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (file names zero-padded, `w-025.jpg`). Flags for 47.2: Ṛgveda references "as read [?]"; the grammar page spells *tribandhura* with b, the Saṃhitā/Pada with v (given as printed); the *śṛṇutam* note crowded in one clause. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
