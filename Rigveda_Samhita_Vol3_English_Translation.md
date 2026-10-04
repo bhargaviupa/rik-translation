@@ -5834,6 +5834,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **Close of the sūkta** *(p. 457)*: the Kannada colophon reads "the twenty-ninth sūkta is ended" (*ippattombhattaneya sūktavu samāptavāgide*). *(The foot-number "58" with the "Volume 3" signature is the printer's sheet mark; the printed page number is 457.)*
 
 ---
+
 ## ॥ ಮೂವತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 30 — *"ā va indram"* ("The Thirtieth Sūkta"; seventh sūkta of the Sixth Anuvāka)
 
 *(Printed pp. 458–. The introductory note, with the Kannada Anuvāda and heading block, is on p. 458; Rik 1 begins on p. 459. From here the Saṃhitā and Pada texts are printed **with accent-marks** (Rik 1 at least); they are not reproduced below, as in earlier sūktas.)*
@@ -5882,6 +5883,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **सिञ्चे (siñce)** — *ṣicir kṣaraṇe* ['to flow, sprinkle']: we make [him] wet with water, that is, fill; as *indubhiḥ* is present, the sense to be given is 'we satisfy Indra with Soma-juices'.
 
 ---
+
 ### Pages 462–464 — Sūkta 30, Rik 2
 
 **Saṃhitā-pāṭha:** शतं वा यः शुचीनां सहस्रं वा समाशिराम् । एदु निम्नं न रीयते ॥ २ ॥
@@ -5941,6 +5943,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **व्यचो दधे (vyaco dadhe)** — *vyāptyarthe dhṛtā bhavati*: 'being spread' means they are held filling the belly.
 
 ---
+
 ### Pages 466–468 — Sūkta 30, Rik 4
 
 **Saṃhitā-pāṭha:** अयमु ते समतसि कपोत इव गर्भधिम् । वचस्तच्चिन्न ओहसे ॥ ४ ॥
@@ -6025,6 +6028,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 472)* *The chief sense:* O Indra, you are one who has done many mighty deeds; therefore now, in the battle that is being fought, rise without delay to protect us. The other matters we two shall discuss afterwards.
 
 ---
+
 ### Pages 473–475 — Sūkta 30, Rik 7
 
 **Saṃhitā-pāṭha:** योगेयोगे तवस्तरं वाजेवाजे हवामहे । सखाय इन्द्रमूतये ॥ ७ ॥
@@ -6081,6 +6085,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **सहस्रिणीभिः ऊतिभिः वाजेभिः (sahasriṇībhiḥ ūtibhiḥ vājebhiḥ)** — *ūtibhiḥ* are the protections that protect us, the means required for it; *vājebhiḥ* are foods and other such requisites; the sense is that 'he will bring these in thousands, that is, in great numbers, and come near us'.
 
 ---
+
 ### Pages 478–480 — Sūkta 30, Rik 9
 
 **Saṃhitā-pāṭha:** अनु प्रत्नस्यौकसो हुवे तुविप्रतिं नरम् । यं ते पूर्वं पिता हुवे ॥ ९ ॥
@@ -6234,6 +6239,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **क्षुमन्तः (kṣumantaḥ)** — *kṣu* is food (Nirukta 2-7 [?]); *kṣumantaḥ* means 'those who have food'.
 
 ---
+
 ### Pages 490–494 — Sūkta 30, Rik 14
 
 **Saṃhitā-pāṭha:** आ घा त्वावान्त्मनाप्तः स्तोतृभ्यो धृष्ण्वियानः । ऋणोरक्षं न चक्र्योः ॥ १४ ॥
@@ -6294,6 +6300,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 **शचीभिः (śacībhiḥ)** — *karmabhiḥ* | *śakaṭocitavyāpāraviśeṣaiḥ*: since *śacī* is read among the twenty-six names of action beginning *apas*, *śacībhiḥ* = 'by actions, by works'. Because the word *cakryoḥ* is used here [in the preceding rik], the sense is 'by the works of the wheels or the chariot, that is, by swift-moving actions'.
 
 ---
+
 ### Pages 496–500 — Sūkta 30, Rik 16 (Triṣṭubh)
 
 **Saṃhitā-pāṭha:** शश्वदिन्द्रः पोप्रुथद्भिर्जिगाय नानदद्भिः शाश्वसद्भिर्धनानि । स नो हिरण्यरथं दंसनावान्त्स नः सनिता सनये स नोऽदात् ॥ १६ ॥
@@ -6358,6 +6365,7 @@ In this rik the words *saḥ* and *naḥ* are read twice; this repetition is to 
 **दस्रा (dasrā)** — the Aśvin gods who are destroyers of foes. Although the word *dasra* denotes one of the two Aśvins, here both are meant, so it is used in the dual.
 
 ---
+
 ### Pages 503–505 — Sūkta 30, Rik 18 (to the Aśvins)
 
 **Saṃhitā-pāṭha:** समानयोजनो हि वां रथो दस्रावमर्त्यः । समुद्रे अश्विनेयते ॥ १८ ॥
@@ -6418,6 +6426,7 @@ Since this is said, [Skandasvāmin] cites this rik in support that, though the c
 Since in many places it is said that the Aśvins' chariot has three wheels (Ṛg-Saṃhitā 1-34-9 etc.), the third wheel is not located in this rik.
 
 ---
+
 ### Pages 508–513 — Sūkta 30, Rik 20 (first of the Uṣas riks)
 
 **Saṃhitā-pāṭha:** कस्त उषः कधप्रिये भुजे मर्तो अमर्त्ये । कं नक्षसे विभावरि ॥ २० ॥
