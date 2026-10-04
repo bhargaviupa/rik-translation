@@ -9728,8 +9728,77 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 46.2 (pp. 574–576, PDF 588–590)
+
+**Saṃhitā-pāṭha** *(p. 574; accents not reproduced)*
+
+> **या दस्रा सिन्धुमातरा मनोतरा रयीणाम् ।**
+> **धिया देवा वसुविदा ॥ २ ॥**
+
+*yā dasrā sindhumātarā manotarā rayīṇām |*
+*dhiyā devā vasuvidā || 2 ||*
+
+**Pada-pāṭha** *(p. 574)*
+
+> या । दस्रा । सिन्धुऽमातरा । मनोतरा । रयीणाम् ।
+> धिया । देवा । वसुऽविदा ॥ २ ॥
+
+*yā | dasrā | sindhu-mātarā | manotarā | rayīṇām |*
+*dhiyā | devā | vasu-vidā || 2 ||*
+
+*(The print repeats the heading "Saṃhitā-pāṭha" above the bhāṣya on p. 574, evidently a misprint for "Sāyaṇa-bhāṣya"; I give the bhāṣya under its proper heading.)*
+
+**Sāyaṇa-bhāṣya** *(p. 574)*
+
+> **या देवा यावश्विनौ वक्ष्यमाणगुणयुक्तौ तौ स्तुष इति पूर्वत्रान्वयः । कीदृशौ । दस्रा दस्रौ दर्शनीयौ सिन्धुमातरा समुद्रमातृकौ । यद्यपि सूर्यचन्द्रमसावेव समुद्रजौ तथाप्यश्विनोः केषांचिन्मते तद्रूपत्वात्तथात्वं । रयीणां धनानां मनोतरा मनसा तारयितारौ धिया कर्मणा वसुविदा निवासस्थानस्य लम्भयितारौ ॥ मनोतरा । मनसा तरत इति मनोतरौ । तरतेरन्तर्भावितण्यर्थात् ऋदोरबिति अप् । पूर्वपदान्तस्य सकारस्य रुत्वे सति च्छान्दसमुत्वं । रयीणां । नामन्यतरस्यामिति नाम उदात्तत्वं । धिया । सावेकाच इति विभक्तेरुदात्तत्वं । वसुविदा । वसूनि निवासस्थानानि विन्देते इति वसुविदौ । क्विप्छेति क्विप् ॥**
+
+*yā devā yāv aśvinau vakṣyamāṇaguṇayuktau tau stuṣa iti pūrvatrānvayaḥ | kīdṛśau | dasrā dasrau darśanīyau sindhumātarā samudramātṛkau | yady api sūryacandramasāv eva samudrajau tathāpy aśvinoḥ keṣāṃcin mate tadrūpatvāt tathātvaṃ | rayīṇāṃ dhanānāṃ manotarā manasā tārayitārau dhiyā karmaṇā vasuvidā nivāsasthānasya lambhayitārau || manotarā | manasā tarata iti manotarau | taratér antarbhāvitaṇyarthāt ṛdor ab iti ap | pūrvapadāntasya sakārasya rutve sati cchāndasam utvaṃ | rayīṇāṃ | nāmanyatarasyām iti nām udāttatvaṃ | dhiyā | sāvekāca iti vibhakter udāttatvaṃ | vasuvidā | vasūni nivāsasthānāni vindete iti vasuvidau | kvipcheti kvip ||*
+
+**Translation:** "The gods, the two Aśvins, who are endowed with the qualities about to be told — *tau stuṣe*, I praise them: so the connexion with the previous (ṛk) runs. What kind? *Dasrā*, *dasrau*, beautiful to behold; *sindhumātarā*, whose mother is the sea. Although it is the Sun and the Moon that are sea-born, yet, in the view of some, the Aśvins are of that form, and therefore are so. *Rayīṇām manotarā*, who with the mind cause (men) to cross over (to) riches (the givers of wealth); *dhiyā*, by (their) work, *vasuvidā*, who cause the dwelling-place to be obtained."
+
+**Grammatical tail** *(p. 574; characterized)*
+- *manotarā*: "those who cross (or make to cross) by mind"; the root *tṝ*, with the causative sense included, takes the suffix *ap* by *ṛdor ap*; when the *s* at the end of the first member becomes *ru*, the *u* is Vedic.
+- *rayīṇām*: *nām* is acute by *nāmanyatarasyām*. *Dhiyā*: the case-ending is acute by *sāvekāca…*. *Vasuvidā*: "they who obtain (*vindete*) dwellings"; *kvip* by *kvip ca*.
+
+**Pratipadārtha** *(p. 574)* — "**dasrā** — who are beautiful in form; **sindhumātarā** — whose mother is the sea; **rayīṇām** — of riches; **manotarā** — who distribute (them) with their mind; **dhiyā** — (to each one) according to his work (as the fruit of it); **vasuvidā** — who cause dwelling-places to be obtained; **yā devā** — whichever Aśvin gods there are (those I praise)."
+
+**Bhāvārtha** *(p. 575)* — "The Aśvin gods are sons of the sea. They are of beautiful form. They distribute riches with great generosity, with good mind; but without discrimination they do not show their generosity. To each one, in accord with his work, and as the very fruit of it, they cause dwelling-places to be obtained. I praise the Aśvin gods who are such generous givers and lovers of justice."
+
+**English Translation (the source's own, p. 575)** — "( I praise Aswins ) who are divine, of pleasing appearance, children of the sea, givers of wealth and granters of dwellings ( as the reward of the sacrifice)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 575**
+- **dasrā** — "*darśanīyau*: beautiful, or destroyers of enemies."
+- **sindhumātarā** — "those whose mother is the sea, that is, sons of the sea. According to some, as the Sun and the Moon are born of the sea, so these Aśvin gods too are born of the sea, and therefore, the commentator says, it is proper to call them sons of the sea. *Sindhu* means the sea. As the word *samudra* also means the atmosphere (*antarikṣa*), one may say that these Aśvin gods were born in the atmosphere."
+- **manotarā** — "*manasā tārayitārau; manasā tarata iti manotarau; dhanānāṃ dātārāv ity arthaḥ*: those who distribute wealth, that is, those who give."
+- **dhiyā** — "*karmaṇā*: by work (Ni. 3-[?] as read)."
+- **vasuvidā** — "*vasūni nivāsasthānāni vindete iti vasuvidau; nivāsasthānasya lambhayitārau*: those who get dwelling-places for performers of sacrifices and the like."
+
+**Vyākaraṇa-prakriyā** *(pp. 575–576 — grammar pages, noted briefly)*
+- **manotarā**: "*manasā tarata*"; root *tṝ plavanataraṇayoḥ*, the root with *ṇic*-sense included; after it *ṛdor ap* (Pā. 3-3-57 as read [?]) — ऋदोरप् — the suffix *ap* after a root ending in *ṛ* or *u* in the abstract sense or for a non-agent *kāraka*; *guṇa* with *raparatva*. *Sasajuṣo ruḥ* (Pā. 8-2-66 as read) gives *ru* for the final *s* of *manas* at the end of a *pada* (*manar + tara*). The Kannada author then notes that *ru* is followed by a *ta*, not by an *a*, so *ato ror aplutād aplute* (Pā. 6-1-113) and *haśi ca* (Pā. 6-1-114) cannot give *u*; hence the *u* for *ru* is Vedic; *mana + u + tara*; *ād guṇaḥ* (Pā. 6-1-87 as read); in the dual, *ḍā* for *au* by *supāṃ suluk…* (Pā. 7-1-39 as read).
+- **rayīṇām**: *nāmanyatarasyām* (Pā. 6-1-177 as read) — नामन्यतरस्याम् — after a word that ends in an acute and whose short vowel (that stood before *matup*) …, *nām* is optionally acute; the example given is *rayimān*, where the short *i* stands before *matup* and the word ends in an acute; hence *nām* is acute.
+- **dhiyā**: *sāvekācas tṛtīyādir vibhaktiḥ* (Pā. 6-1-168 as read) — साबेकाचस्तृतीयादिर्विभक्तिः — [as I read the print, "*sāvekācaś…*"] the instrumental ending is acute.
+- **vasuvidā**: "*vasūni* = dwellings *vindete* = obtain"; *vasuvidau*; root *vidḷ lābhe*, *kvip* by *kvip ca*. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 573 (PDF 587) reached; heading, introduction and Rik 46.1 complete.**
+### Rik 46.3 (p. 576 foot, PDF 590–)
 
-**Next task:** continue at printed p. 574 (PDF 588) with Rik 46.2; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 588 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.1: Anukramaṇikā clause and Āśvalāyana numeral doubtful; "bṛhatprabhūtam" in the bhāṣya and the start of the tail crowded [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 576; accents not reproduced)*
+
+> **वच्यन्ते वां ककुहासो जूर्णायामधि विष्टपि ।**
+> **यद्वां रथो विभिष्पतात् ॥ ३ ॥**
+
+*vacyante vāṃ kakuhāso jūrṇāyām adhi viṣṭapi |*
+*yad vāṃ ratho vibhiṣ patāt || 3 ||*
+
+*(The Pada of Rik 3 is on p. 577, not yet seen; I give the Saṃhitā as printed and mark the word-division as the Saṃhitā's only: "vibhiṣ patāt" is my reading of the Saṃhitā's* विभिष्पतात्*, subject to the Pada.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 576 (PDF 590) reached; heading, introduction and Riks 46.1–46.2 complete; Rik 46.3's Saṃhitā written at the foot of p. 576 (its Pada is on p. 577).**
+
+**Next task:** continue at printed p. 577 (PDF 591) with the Pada of Rik 46.3 and its bhāṣya etc.; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 591 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.2: the heading above the bhāṣya on p. 574 misprinted as "Saṃhitā-pāṭha"; Pāṇini numerals "as read [?]". **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
