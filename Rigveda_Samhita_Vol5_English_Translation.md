@@ -3707,8 +3707,98 @@
 
 ---
 
+**Rik 51.14, continued** *(pp. 206–208, PDF 222–224)*
+
+**Bhāvārtha** *(p. 206)* — "Indra accepts the praises of his worshippers even though they are poor. Because the praises that the Aṅgirasa sages made, though they were poor, stand firm like the sacrificial post that stands at the door, Indra accepted those praises; and Indra desires horses, cows, chariots, wealth and the like in order to give them to his devotees. To those who praise him, Indra alone is the giver of wealth and the rest."
+
+**English Translation (the source's own, p. 206)** — "Indra repairs to the house of the pious even in poverty ; with the Pajras the praise of Indra is firm as the doorpost. Desirous of (winning in battle) horses, cows, chariots and riches for his worshippers, Indra the giver of riches is alone the lord of riches."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 206–208**
+- **etad uktaṃ bhavati** *(the Sanskrit note in the print)*:
+
+  > **एतदुक्तं भवति । इन्द्रो न केवलं सति धने स्तोपासकानां गृहे सोमपानाय गच्छति ते वा तमुपासते अपि तु प्राप्तेऽपि नैर्धन्ये स तेषां गृहे गच्छति ते तमुपासते । अत एव पज्रेषु सति वा न वा सति धने इन्द्रस्य स्तोत्रं द्वारि स्थिता स्थूणेव निश्चलम् । सततमिति यावत् । गीयते । अपि च यजमानेभ्योऽश्वादीन् संपादयन्निन्द्र एव धनस्य प्रभुरस्तीत्यर्थः ॥**
+
+  *etad uktaṃ bhavati | indro na kevalaṃ sati dhane stopāsakānāṃ gṛhe somapānāya gacchati te vā tam upāsate api tu prāpte 'pi nairdhanye sa teṣāṃ gṛhe gacchati te tam upāsate | ata eva pajreṣu sati vā na vā sati dhane indrasya stotraṃ dvāri sthitā sthūṇeva niścalam | satatam iti yāvat | gīyate | api ca yajamānebhyo 'śvādīn saṃpādayann indra eva dhanasya prabhur astīty arthaḥ ||* — "This is what is said: Indra does not go to the house of his praisers for the drinking of soma only when there is wealth, nor do they worship him only then; but even when destitution has come he goes to their house, and they worship him. Therefore, among the Pajras, whether there is wealth or not, the praise of Indra is sung firm, like a post standing at the door — that is, constantly. And further, providing horses and the rest to the sacrificers, Indra alone is the lord of wealth: this is the sense." *(The Kannada print here gives this Sanskrit passage in the line "*ಪತದುಕ್ತಂ ಭವತಿ*" — the first word is crowded; I read* etad uktaṃ bhavati*, [?].)*
+- **sudhyaḥ** — "Those whose work is praiseworthy, or sacrificers whose wisdom is spotless."
+- **nireke** — "This indicates that, when afflicted by poverty and the like, sacrificers perform sacrifices and so on in order to please Indra."
+- **pajreṣu** — "*Pajrā* is a name of the sages called Aṅgirasas": the śruti '*pajrā vā aṅgirasaḥ paśukāmās tapyotapyanta*' tells this.
+
+  > **पज्रा वा अङ्गिरसः पशुकामास्तप्योतप्यन्त ।** *(Śāṭyāyani-śruti, as quoted; reading [?])*
+
+  *pajrā vā aṅgirasaḥ paśukāmās tapyotapyanta |* — mine and tentative: "the Pajras, the Aṅgirasas, desiring cattle, practised austerity."
+- **stomaḥ** — "Unshaken praise."
+- **duryo na yūpaḥ** — "*dure bhavaḥ duryaḥ*: 'that which is at the door'; here the word *na* means 'like': like a sacrificial post set up at the door. This takes its construction with the preceding word *sudhya*, which means the sacrificers."
+- **aśvayuḥ, gavyuḥ, rathayuḥ, vasūyuḥ** *(p. 207)* — "Here, after the words *aśva* and the like, following the sūtra *chandasi parecchāyām* (Kā. 3-1-8-… as read [?]), the suffix *kyac* in the sense of desiring another's … comes; and Yāska explains differently: '*idaṃyuḥ — idaṃ kāmayamānaḥ*', and likewise it is explained 'in the sense of that': '*vasūyur indro vasumān ity arthaḥ*, *aśvayur gavyū rathayur vasūyur ity api nigamo bhavati*' (Ni. 6-31 as read [?]). According to that sūtra, the meaning 'one who wishes for horses and the like' may be given." *(p. 208 adds: the formation* aśvayuḥ *is made, in the sense of "one who wishes the horse for sacrificers", with the* kyac *from the Vedic rule; Yāska's other explanation takes the suffix* u *added to the* kyac*-ending stem in the sense "who has"; for example* vasūyuḥ *= "Indra, who has wealth"; so words like* aśvayuḥ *are also valid in the sense of possession — this is the sense.)*
+
+**Vyākaraṇa-prakriyā** *(pp. 207–208 — grammar pages, noted briefly)*
+- **aśrāyi**: *śriñ sevāyām*; *luṅ* third singular in the agent sense; before the third-person ending, *ciṇ* by *ciṇ…* replaces *cli*'s *sic*-type formation (*cli luṅi*, Pā. 3-1-43 as read [?]) — the *ciṇ* substituted by *vyatyayo bahulam*; being *ñit*, *vṛddhi* of the root vowel (*ato halādeḥ* [?] / *ac*-rule as read); *āyādeśa*; *ciṇo luk* (Pā. 6-4-104) drops the following *ta*; with *aṭ*: *aśrāyi*.
+- **sudhyaḥ**: *dhīḥ* is a name of action; "*śobhanā dhīr yeṣāṃ te sudhyaḥ*"; *sudhī* with *śas*: *yaṇ* would be forbidden by *nabhūsudhiyoḥ*, but *chandasy ubhayathā* gives *yaṇādeśa*: *sudhyaḥ*; end-acute by *nañsubhyām* in the bahuvrīhi; since the acute *i* is replaced by *y*, the following *anudātta* becomes *svarita* by *udāttasvaritayor yaṇaḥ svaritaḥ*.
+- **nireke**: "*nitarāṃ recanaṃ nirekaḥ*"; *ric virecane*; *ghañ* in the sense of the action; *laghūpadhaguṇa* before *ghañ*; *ci-jor ku ghiṇṇyatoḥ* (Pā. 7-3-52) gives *kutva*: *vi* upasarga + *rek*; end-acute of the final member by *thāthaghañktājabitrāṇām*.
+- **duryaḥ**: *dure bhavaḥ duryaḥ*; *bhave chandasi* (Pā. 4-4-110) gives *yat*; *yasyeti ca* drops the earlier *a*; *yato 'nāvaḥ*, initial-acute.
+- **yūpaḥ**: *yu miśraṇe*; "*yūyate yujyate 'smin*"; *pa* by *kuyubhyāṃ ca* (Uṇ. 3-… as read [?]); lengthening (*sruvo dīrghaś ca* [?] continued as a rule): no *guṇa*, since *kṅiti ca* continues, or since the *dīrgha* itself was prescribed (if *guṇa* came, the *dīrgha* would be useless).
+- **aśvayuḥ**: *yajamānebhyo 'śvān icchan aśvayuḥ*; *chandasi parecchāyām* gives *kyac* after *aśva*; *kyaci ca* would give *īt*, but *na chandasy aputrasya* (Pā. 7-4-35) forbids the *ī* and the lengthening; the *ā* that *aśvāghasyāt* would require does not come, being Vedic; the stem in *kyac* is a root; *kyāc chandasi* gives *u* after the *kyac* ending; *ato lopaḥ* drops the *a* of *kyac*: *aśvayuḥ*. In the same way, in *gavyuḥ* (wishing the cow for the sacrificer) *kyac* after *go*, and *vānto yi pratyaye* (Pā. 6-1-79) gives *av* for *o*; all other operations as before. Yāska, however, explains otherwise (above).
+- **kṣayati**: *kṣi kṣaye*, *bhvādi*; *kartari śap*; *sārvadhātukanimitta* *guṇa*, *ayādeśa*: *kṣayati*; *nighāta* since it follows an *atiṅ*.
+- **prayantā**: *yama uparame*; *tṛc* in the agent sense; *eka ca upadeśe 'nudāttāt* forbids *iṭ*; the *m* of the root becomes *anusvāra* by *naś cāpadāntasya jhali*; before *y*… *anusvārasya yayi parasavarṇaḥ* gives *n* as the homorganic: *yantṛ*; nominative singular; the end-acute by *ciṭaḥ* [?]; with *pra*, *gatisamāsa*, so *gatikārakopapadāt kṛt* gives the accent of the final member. **|| 14 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.13 complete; Rik 51.14 written from the Saṃhitā through the Pratipadārtha (printed p. 205, PDF 221). Its Bhāvārtha (p. 206), English, Special Topics, grammar and all of Rik 51.15 (pp. 206–, PDF 222–) are NOT yet written.**
+### Rik 51.15 (pp. 209–211, PDF 225–227)
 
-**Next task:** continue at printed p. 206 (PDF 222) with "**Rik 51.14, continued**", then Rik 51.15 and the close of Sūkta 51 (15 Riks; confirm the actual start of Sūkta 52 from the print — the contents table's p. 212 is already past). **User instruction: translate Sūktas 51–54 (52 from ≈212→ check, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3, 51.5–51.6, 51.12, 51.13 reference numerals [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]"; 51.8 "karmaṇy anuṣṭhātṝn" "duṣṭānām" crowded; 51.9 "valmīkavapā/vasā" etc.; 51.10 "pūrvoktena balenaikā"; 51.11 "kāmayamāne"; 51.12 "evam asmāsi" [?]; 51.13 "svabhāryayoḥ", "kathety uktvāyaṃ", "ataḥ" crowded [?]; 51.14 clause after "sthūṇeva" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8), "sema" (51.12), "Satakratu" for *sukrato* (51.13) [sic].
+**Saṃhitā-pāṭha** *(p. 209; accents printed, not reproduced; metre Triṣṭubh)*
+
+> **इदं नमो वृषभाय स्वराजे सत्यशुष्माय तवसेऽवाचि ।**
+> **अस्मिन्निन्द्र वृजने सर्ववीराः स्मत्सूरिभिस्तव शर्मन्त्स्याम ॥ १५ ॥**
+
+*idaṃ namo vṛṣabhāya svarāje satyaśuṣmāya tavase 'vāci |*
+*asminn indra vṛjane sarvavīrāḥ smat sūribhis tava śarman syāma || 15 ||*
+
+**Pada-pāṭha** *(p. 209)*
+
+> इदम् । नमः । वृषभाय । स्वऽराजे । सत्यऽशुष्माय । तवसे । अवाचि ।
+> अस्मिन् । इन्द्र । वृजने । सर्वऽवीराः । स्मत् । सूरिऽभिः । तव । शर्मन् । स्याम ॥ १५ ॥
+
+*idam | namaḥ | vṛṣabhāya | sva-rāje | satya-śuṣmāya | tavase | avāci |*
+*asmin | indra | vṛjane | sarva-vīrāḥ | smat | sūri-bhiḥ | tava | śarman | syāma || 15 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 209)*
+
+> **इदं पुरोवर्ति नमः स्तुतिलक्षणं वचो हे इन्द्र तुभ्यमवाचि । अस्माभिः प्रायोजि । कीदृशाय । वृषभाय । वर्षणशीलाय । स्वराजे । स्वकीयेन तेजसा राजमानाय । सत्यशुष्माय । शुष्ममिति बलनाम शत्रूणां शोषकत्वात् । अवितथबलयुक्ताय । तवसे । अत्यन्तं प्रवृद्धाय । यस्मादेवं तस्मादस्मिन्वृजने वर्जनवति संग्रामे सर्ववीराः । विशेषेणेरयन्त्यमित्रानिति वीरा भटाः । तादृशैः सर्वैर्भटैरुपेता वयम् । स्मदिति निपातः सुशब्दार्थः । तव स्मत् शर्मन् त्वया दत्ते शोभने गृहे सूरिभिर्विद्वद्भिः पुत्रादिभिः सह स्याम । भवेम । निवसेमेत्यर्थः । यद्वा त्वत्संबन्धिनि शोभने यज्ञगृहे सूरिभिर्विद्वद्भिर्ऋत्विग्भिः सह स्याम । शर्मेति गृहनाम । शर्म वर्मेति पठितत्वात् ॥**
+
+*idaṃ purovarti namaḥ stutilakṣaṇaṃ vaco he indra tubhyam avāci | asmābhiḥ prāyoji | kīdṛśāya | vṛṣabhāya | varṣaṇaśīlāya | svarāje | svakīyena tejasā rājamānāya | satyaśuṣmāya | śuṣmam iti balanāma śatrūṇāṃ śoṣakatvāt | avitathabalayuktāya | tavase | atyantaṃ pravṛddhāya | yasmād evaṃ tasmād asmin vṛjane varjanavati saṃgrāme sarvavīrāḥ | viśeṣeṇerayanty amitrān iti vīrā bhaṭāḥ | tādṛśaiḥ sarvair bhaṭair upetā vayam | smad iti nipātaḥ suśabdārthaḥ | tava smat śarman tvayā datte śobhane gṛhe sūribhir vidvadbhiḥ putrādibhiḥ saha syāma | bhavema | nivasemety arthaḥ | yadvā tvatsaṃbandhini śobhane yajñagṛhe sūribhir vidvadbhir ṛtvigbhiḥ saha syāma | śarmeti gṛhanāma | śarma varmeti paṭhitatvāt ||*
+
+*(The grammatical tail of the bhāṣya, on* svarāje*,* satyaśuṣmāya*,* tavase*,* vṛjane*,* śarman*,* syāma*, is characterized: the Uṇādi* asi *for* tavase*, "*tavatiḥ sautro dhātuḥ*", *kvip* by* satsūdviṣa… *for* svarāje*, the dropping of the locative by* supāṃ suluk *with the exclusion of* nalopa *in* śarman*, the* dhuḍ-āgama *after* nāntaḥ *in the Saṃhitā — "*naś ca*" — and the discussion* khari ca*,* jhayo dvitīyāḥ…*, Pauṣkarasādi.)*
+
+**Translation of the bhāṣya:** "This *namaḥ*, this word of the nature of praise, set before (you), O Indra, *avāci*, has been uttered for you — has been applied by us. For one of what sort? *Vṛṣabhāya*, for the showerer; *svarāje*, for the one who shines by his own splendour; *satyaśuṣmāya* — *śuṣma* is a name of strength, because it dries up the enemies — for him who possesses unfailing strength; *tavase*, for the exceedingly grown. Since it is so, *asmin vṛjane*, in this *vṛjana* — a battle in which men are 'turned aside' — *sarvavīrāḥ*: those who impel the enemies variously are *vīrās*, warriors; being furnished with all such warriors, we — *smat* is a particle with the meaning of *su*, 'well' — *tava śarman*, in the fair house given by you, *sūribhiḥ*, with the learned, with sons and others, *syāma*, may we be, dwell. Or: in your fair sacrificial house, together with the learned priests (*ṛtvijaḥ*), may we be. *Śarma* is a name for house, since it is read '*śarma varma*'."
+
+**Pratipadārtha** *(p. 210)* — "**indra** — O Indra; **vṛṣabhāya** — to him who sends rain; **svarāje** — who shines by his own splendour; **satyaśuṣmāya** — who has real strength (that is effective in destroying enemies); **tavase** — who is mighty (therefore, for you); **idaṃ namaḥ** — this word in the form of praise; **avāci** — has been uttered (by us; therefore); **asmin vṛjane** — in this battle; **sarvavīrāḥ** — accompanied by all the warriors, we (helped by them); **tava smat śarman** — in the fair house given by you; **sūribhiḥ** — together with learned sons; **syāma** — may we be (may we dwell). [Or: **tava smat śarman** — in your fair sacrificial house; **sūribhiḥ** — with learned ṛtvijs; **syāma** — may we be.]"
+
+**Bhāvārtha** *(p. 210)* — "O Indra, you are the sender of rain; you shine by your own splendour; you are possessed of true, effective strength; you are exceedingly mighty. This word of praise, in the form of salutation, has been offered to you who have such qualities. In this battle, with the help of all the warriors, may we dwell together with learned sons and others in the fair house given by you. Or: may we be with the ṛtvijs in the sacrificial house."
+
+**English Translation (the source's own, p. 210)** — "This adoration is offered to the shedder of rain, the self-resplendent, the possessor of true vigour, the mighty ; Indra, may we be aided in this conflict by many heroes and abide in a prosperous drvelling [sic: "dwelling"] bestowed by you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 210–211**
+- **namaḥ** — "A word that conveys praise."
+- **vṛṣabhāya** — "One whose nature is to send rain: Indra."
+- **satyaśuṣmāya** — "*Satyam* — *śuṣmam*: one whose strength is real, destroying enemies; that is, one who has strength that is truly destructive of enemies and not in vain."
+- **sarvavīrāḥ** — "*viśeṣeṇa īrayanti amitrān iti vīrāḥ*: warriors of such prowess as to destroy all enemies in a moment."
+- **smat** — "A particle with the meaning of the word *su* ('excellent')."
+- **śarman** — "By the Nirukta sūtra '*śarma varma*' (Ni. 3-4 as read [?]) the word *śarma* means house. *Śarman* is used in the sense of the locative *śarmaṇi*. The sense is: 'In the excellent house provided by you, may we dwell happily together with many learned men and priests.'"
+
+**Vyākaraṇa-prakriyā** *(pp. 211 — grammar page, noted briefly)*
+- **svarāje**: *rāja dīptau*, *bhvādi*; *kvip* by *satsūdviṣadruhaduhayujavidabhidachidajinīrājām upasarge…* (Pā. 3-2-61 as read [?]); *sarvalopa* in *kvip*; being ending in a *kṛt*, it has the *prātipadika* designation; dative singular.
+- **satyaśuṣmāya**: "*satyaṃ śuṣmaṃ balaṃ yasya saḥ*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*.
+- **tavase**: *tava* is a *sautra* root; the Uṇādi suffix *asi* gives *tavas*; dative singular.
+- **vṛjane**: *vṛjī varjane*; *kyu* by *kyaṣyavṛjimandinidhāñbhyaḥ kyuḥ* (Uṇ. 2-… as read [?]); *yuvor anākau*; being *kit*, no *guṇa* of the penultimate; *vṛjana*; locative singular; middle-acute by the suffix-accent.
+- **śarman**: *śarman* in the locative singular: *supāṃ suluk* drops the locative ending; *nalopaḥ prātipadikāntasya* would drop the *n*, but *na ṅisambuddhyoḥ* (Pā. 8-2-8) forbids it, since the *ṅi* follows.
+- **syāma**: *as bhuvi*, *adādi*; *vidhiliṅ* first person plural *mas*; *nityaṃ ṅitaḥ* (Pā. 3-4-99) drops the *s* of *mas*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdāttaḥ…*; *śnasoral lopaḥ* drops the *a* of *as*: *syāma*.
+- **śarman + syāma**: in the Saṃhitā, *naś ca* (Pā. 8-3-30 as read [?]) makes the *s* after a word ending in *n* take *dhuṭ*; *dhuṭ* being *ṭit*, it stands as the first member of the *s*; *khari ca* (Pā. 8-4-55) turns the *dh* into *t* before a hard letter; so *śarmant syāma*; and by *jhayo dvitīyāḥ śari pauṣkarasāder iti vācyam* (Pā. 8-4-… *vārttika*, as read [?]), an optional *th* for the *t*; one need not suspect that *khari ca* would again make *th* into *t*, since, in the opinion of the teacher Pauṣkarasādi, the prescription of the second letter would be pointless if the *carva* came again. **|| 15 ||**
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 (15 Riks) written through Rik 51.15 and its grammar (printed p. 211, PDF 227). The closing note of Sūkta 51 (if any) and my closing summary are NOT yet written; check the head of p. 212 (PDF 228) for a colophon/closing sentence and for the start of Sūkta 52.**
+
+**Next task:** view PDF 228 (printed p. 212): if it holds a closing sentence of Sūkta 51 or just the end of the grammar, write the close of Sūkta 51 (short summary of the 15 Riks), update this progress note and CLAUDE.md "Current position" (Sūktas 47–51 complete; next Sūkta 52), commit/push; then **Sūkta 52** (contents table: *tyaṃ sumeṣam* [?], Maṇḍala 1, Anuvāka 10; confirm actual start page). **User instruction: translate Sūktas 51–54 (52 next, 53 ≈ p. 264, 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 51: legend in the introduction unreadable; Riks 2, 3, 5, 6, 12, 13 reference numerals [?]; 4 "āsāvariṣṭāḥ" unresolved; 7 "sadhryak [sadhrīcīnam?]"; 8 "karmaṇy anuṣṭhātṝn" "duṣṭānām"; 9 "valmīkavapā/vasā" etc.; 10 "pūrvoktena balenaikā", Uśanas list not transcribed; 11 "kāmayamāne"; 12 "evam asmāsi"; 13 "svabhāryayoḥ", "kathety uktvāyaṃ"; 14 clause after "sthūṇeva" and the opening of the Special Topics ("etad uktaṃ bhavati") [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8), "sema" (51.12), "Satakratu" for *sukrato* (51.13), "drvelling" (51.15) [sic].
