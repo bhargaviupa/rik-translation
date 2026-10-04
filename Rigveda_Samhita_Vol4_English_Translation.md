@@ -2007,10 +2007,68 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 35.2 — Special Topics concluded and grammar (pp. 138–139, PDF 152–153; grammar page, noted briefly)
+
+**Special Topics, continued from p. 137**
+- **hiraṇyayena** = *suvarṇanirmitena*: "made of gold. It is a convention to describe the chariot of the Sun, or of Savitṛ, as golden: since at sunrise and at sunset the Sun is covered with shining reddish rays (like the colour of gold), the ṛṣis describe the Sun's chariot as golden."
+
+**Vyākaraṇa-prakriyā** *(p. 138)*
+- **amṛtam**: *na vidyate mṛtaṃ yasya saḥ* — "he who has no death"; this overrides *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) by *nañjor jaramaramitramṛtāḥ* — नञ्जोर्जरमरमित्रमृताः — (Pā. 6-2-116, as read [?]): the words *jara*, *mara*, *mitra*, *mṛta* after *nañ* in a *bahuvrīhi* are first-syllable acute.
+- **martyam**: the Uṇādi sūtra *hasimṛgṛṇvāmidamilūpūdhūrvibhyas tan* — हसिमृग्रिण्वामिदमिलूपूधूर्विभ्यस्तन् — (Uṇ. 3-146, as I read the numerals [?]): after the ten roots *hase hasane*, *mṛṅ prāṇatyāge*, *gṝ nigaraṇe*, *iṇ gatau*, *ṇā*[?], *amu gatyādiṣu*, *damu upaśame*, *lūñ chedane*, *pūñ pavane*, *dhurvī hiṃsāyām* [the Kannada letters of two of these are unclear to me] the suffix *tan*; *titutratathasi…* bars the *iṭ*; *guṇa*, *raparatva*: *marta*, "the earth-world"; *tatra bhavo martyaḥ* — "born there is *martya*"; the *Tattvabodhinī* says that *digādibhyo yat* — दिगादिभ्यो यत् — (Pā. 4-3-54) is applicable since *digādi* is an open list (*ākṛtigaṇa*); or, *bhave chandasi* — भवे छन्दसि — (Pā. 4-4-110) gives *yat* in the sense "born in" after a word in the seventh case; *yato 'nāvaḥ* — Pā. 6-1-213 — makes it first-syllable acute.
+- **hiraṇyayena**: *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi* — ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि — (Pā. 6-4-175): after the word *ṛtu* in the sense of "born in it" the suffix *yat* and *yaṇ*-substitution are given by *nipātana*; after *vāsu*, *yat* and *añ* together, *yaṇ*; after *madhu* in the feminine, *añ* and *yaṇ*; and *hiraṇyasya vikāraḥ*, "the product of gold", takes *mayaṭ* — here the *m* of *mayaṭ* is lost by *nipātana*: *hiraṇya + aya*; the *a* of *hiraṇya* is lost by *yasyeti ca*; *aya* is first-syllable acute by the suffix-accent (*ādyudāttaś ca*). The print adds that the Kaumudī-author states a loss of the group *ma* + [*ya*? the printed letters are unclear] in this view, so that *hiraṇya + ya* would arise and *yasyeti ca* would be expected; since the loss of *m* is *asiddha*, it must be handled by the maxim *aṅgavṛtte punarvṛttāv avidhiḥ*; the lengthening that would arise by *akṛtsārvadhātukayor dīrghaḥ* must also be handled; the Veda-bhāṣya, on the ṛk 1-2-[?] [?], follows the same method; *ekādeśa udāttena* — Pā. 8-2-5 — is cited to say that the single substitute is acute.
+- **bhuvanāni**: root *bhū sattāyām*; the Uṇādi sūtra *bhūsūdhūbhrasjibhyaś chandasi* — भूसूधूभ्रस्जिभ्यश्छन्दसि — (Uṇ. 2-48, as I read the numerals [?]) gives *kyun* after *bhū sattāyām*, *ṣūṅ prāṇiprasave*, *dhūñ kampane*, *bhrasja pāke*; the *yu* of the suffix stays and *ana* replaces it; *aci śnudhātubhruvāṃ…* — Pā. 6-4-77 — *uvaṅ*; the suffix is *nit*, so the first syllable is acute. Rik 2 ends here (*|| 2 ||*).
+
+### Rik 35.3 (pp. 139–142, PDF 153–156)
+
+**Saṃhitā-pāṭha** *(p. 139; accents not reproduced)*
+
+> **याति देवः प्रवता यात्युद्वता याति शुभ्राभ्यां यजतो हरिभ्याम् ।**
+> **आ देवो याति सविता परावतोऽप विश्वा दुरिता बाधमानः ॥ ३ ॥**
+
+*yāti devaḥ pravatā yāty udvatā yāti śubhrābhyāṃ yajato haribhyām |*
+*ā devo yāti savitā parāvato 'pa viśvā duritā bādhamānaḥ || 3 ||*
+
+**Pada-pāṭha** *(pp. 139–140)*
+
+> याति । देवः । प्रऽवता । याति । उत्ऽवता । याति । शुभ्राभ्याम् । यजतः । हरिऽभ्याम् ॥
+> आ । देवः । याति । सविता । पराऽवतः । अप । विश्वा । दुःऽइता । बाधमानः ॥ ३ ॥
+
+*yāti | devaḥ | pra-vatā | yāti | ut-vatā | yāti | śubhrābhyām | yajataḥ | hari-bhyām ||*
+*ā | devaḥ | yāti | savitā | parā-vataḥ | apa | viśvā | duḥ-itā | bādhamānaḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 140; the first half in full, the grammatical tail characterized; the phrase marked [?] is partly unclear)*
+
+> देवो दीप्यमानः सविता प्रवता प्रवणवता मार्गेण याति । गच्छति । तथोद्वतोत्कृष्ट [?]ऊर्ध्वदेशयुक्तेन मार्गेण याति । उदयानन्तरम् आ मध्याह्नमूर्ध्वो मार्गः । ततस्तत उपरि आ सायं प्रवणो मार्ग इति विवेकः । तथा यजतो यष्टव्यः स देवः शुभ्राभ्यां श्वेताभ्यां हरिभ्यामश्वाभ्यां याति । देवयजनदेशे गच्छति । सविता देवो विश्वा दुरिता सर्वाणि पापान्यप बाधमानो विनाशयन् परावतो दूरदेशात् । परावत इति दूरनामसु पठितत्वात् । तादृशाद्द्युलोकादायाति । यागदेश आगच्छति ॥
+
+*devo dīpyamānaḥ savitā pravatā pravaṇavatā mārgeṇa yāti | gacchati | tathodvatotkṛṣṭa [?]ūrdhvadeśayuktena mārgeṇa yāti | udayānantaram ā madhyāhnam ūrdhvo mārgaḥ | tatas tata upari ā sāyaṃ pravaṇo mārga iti vivekaḥ | tathā yajato yaṣṭavyaḥ sa devaḥ śubhrābhyāṃ śvetābhyāṃ haribhyām aśvābhyāṃ yāti | devayajanadeśe gacchati | savitā devo viśvā duritā sarvāṇi pāpāny apa bādhamāno vināśayan parāvato dūradeśāt | parāvata iti dūranāmasu paṭhitatvāt | tādṛśād dyulokād āyāti | yāgadeśa āgacchati ||*
+
+**Translation:** "The shining god Savitṛ goes (*yāti*) by *pravatā*, a path with a slope [downward]; likewise he goes by *udvatā*, a path with an elevation, rising [upward]. After the rising, up to midday, the path is upward; thence on, up to evening, the path is a downward slope: that is the distinction. And *yajataḥ* — he who is to be worshipped — that god goes with *śubhrābhyāṃ haribhyām*, two white horses; he goes to the place of the sacrifice to the gods. Savitṛ the god, *viśvā duritā apa bādhamānaḥ* — warding off, destroying all sins — *parāvataḥ*, from a distant place (*parāvataḥ* being read in the lists of names for 'far') — comes from such a heaven: he comes to the place of the rite."
+
+**Grammar within the bhāṣya** *(p. 140, characterized)*: *pravatā* (root *vana paṇa sambhaktau*, with *pra*, *kvip* [the print gives the preverb-form in a way I could not read], the nasal dropped by the vārtika *gamādīnām iti vaktavyam* [Pā. 6-4-40, vārtika; as read], then *tuk* — *tatas tuk*; the accent of the later member of a *kṛt*-compound); *udvatā* ("with *ut* before the root *vana*, the same process"); *yajataḥ* (*bhṛmṛdṛśiyajiparvi…* [Uṇ. 3-110, as I read the numerals]; *yajateḥ karmaṇi atac*); *viśvā duritā* (in both words the *śi* is lost by *śeś chandasi bahulam*).
+
+**Pratipadārtha** *(p. 140)* — "**devaḥ** — the shining Savitṛ; **udvatā** — by the path that goes upward (from sunrise up to midday); **pravatā** — by the path that goes downward (from midday up to evening); **yāti** — goes (moves about); **yāti** — moves; **yajataḥ** — he who is worthy of worship; **śubhrābhyām** — with two bright; **haribhyām** — horses; **yāti** — moves; **devaḥ** — the shining; **savitā** — Savitṛ; **viśvā** — all; **duritā** — sins; **apa bādhamānaḥ** — destroying; **parāvataḥ** — from a distant place; **ā yāti** — comes (graciously to this sacrificial ground)."
+
+**Bhāvārtha** *(pp. 140–141)* — "The shining Savitṛ's movement is by an upward way from sunrise to midday, and by a downward way from midday to evening. Everywhere he moves, mounted on a chariot drawn by two bright horses. Worthy of worship, he comes to this sacrificial ground from afar, destroying all sins."
+
+**English Translation (the source's own, p. 141)** — "The divine Savitri travels by an upward path ; then he travels by a downward path ; deserving worship he journeys with two white horses ; he comes hither from a distance removing all sins (of true worshippers)" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 141**
+- "When the Sun rises, he rises in the east in the lower part of the mid-region; then, towards midday, he comes to the middle of the mid-region — a high place; and then, as evening approaches, descending downward, he sets in the west. This very matter is stated in this ṛk."
+- **pravatā** = *prakarṣeṇa gacchatā*: "going swiftly; by the lower [downward] path."
+- **udvatā** = *ūrdhvadeśayuktena mārgeṇa*: "by an upward path."
+- **śubhrābhyāṃ haribhyām**: "with two clear or bright horses; that is, [Savitṛ is] seated in a chariot to which two bright horses are yoked."
+- **parāvataḥ** — "from afar."
+- **viśvā duritā bādhamānaḥ** — "driving off all troubles or sins."
+
+**Vyākaraṇa-prakriyā** *(p. 141, PDF 155 — grammar page, noted briefly; begun, to continue on p. 142)*
+- **pravatā**: the root *vana paṇa sambhaktau* is read in the Dhātupāṭha; *gamaḥ kvau* — गमः क्वौ — (Pā. 6-4-40, as read): the nasal of *gam* is lost before *kvip*; the vārtika *gamādīnām iti vaktavyam* — "[it must be said that] this is for the *gamādi* [roots]" — so that the rule for the nasal of *gam* alone is not enough, and the loss of the nasal before *kvip* must be taught for many other roots; the verse "*uktānuktadurūktānāṃ cintā vārttikaṃ matam*" — "a vārtika is held to be the consideration of what is said, not said, or ill said" — is cited for the vārtika's character; then for *van* + *kvip* the *n* is lost by this vārtika; *hrasvasya piti kṛti tuk* — ह्रस्वस्य पिति कृति तुक् — (Pā. 6-1-71, as read): after the *p* of *kvip* is *it*, a *kṛt* that is *pit* … *(the page breaks off here and continues on p. 142)*.
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 137 (PDF 151) reached; Riks 35.1 complete; Rik 35.2 written through the first part of its Special Topics (*niveśayan*).**
+---
 
-**Next task:** continue at printed p. 138 (PDF 152) with the rest of Rik 2's Special Topics and grammar, then Rik 3. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 152 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 141 (PDF 155) reached; Riks 35.1–35.2 complete; Rik 35.3 written through the Special Topics and the start of its grammar page (*pravatā*).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta and Aitareya-Āraṇyaka numerals are [?] or not read; (4) the *bhuvanāni* derivation and the *ūtaye* Mahābhāṣya quotation in the grammar pages are partly uncertain.
+**Next task:** continue at printed p. 142 (PDF 156) with the rest of Rik 3's grammar, then Rik 4. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 156 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka and Uṇādi numerals are [?] or not read; (4) the *bhuvanāni*, *martyam* and *hiraṇyayena* derivations (Rik 2 grammar) and a phrase of the Rik 3 bhāṣya (*udvatā…*) are partly uncertain.
