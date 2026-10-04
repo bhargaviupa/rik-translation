@@ -3849,8 +3849,58 @@
 
 ---
 
+**Rik 52.1, continued** *(pp. 213–215, PDF 229–231)*
+
+**Pada-pāṭha** *(p. 213)*
+
+> त्वम् । सु । मेषम् । महय । स्वःऽविदम् । शतम् । यस्य । सुऽभ्वः । साकम् । ईरते ।
+> अत्यम् । न । वाजम् । हवनऽस्यदम् । रथम् । आ । इन्द्रम् । ववृत्याम् । अवसे । सुवृक्तिऽभिः ॥ १ ॥
+
+*tvam | su | meṣam | mahaya | svaḥ-vidam | śatam | yasya | su-bhvaḥ | sākam | īrate |*
+*atyam | na | vājam | havana-syadam | ratham | ā | indram | vavṛtyām | avase | suvṛkti-bhiḥ || 1 ||*
+
+*(The Pada shows the verb-form as* mahaya *(imperative) and* ā … vavṛtyām *as a split verb with* ā *standing before* indram*; so the Saṃhitā's "ratham endraṃ" is* ratham | ā | indram*, as I had read.)*
+
+**Sāyaṇa-bhāṣya** *(p. 213)*
+
+> **त्वं तं प्रसिद्धं मेषं शत्रुभिः सह स्पर्धमानं स्वर्विदम् । स्वरादित्यो द्यौर्वा । तस्य वेदितारं लब्धारं वा । यद्वा । स्वः सुष्ठु अरणीयं धनम् । तस्य लम्भयितारम् । एवंगुणविशिष्टमिन्द्रं हे अध्वर्यो सु महय । सम्यक् पूजय । यस्येन्द्रस्य शतं शतसंख्याकाः सुभ्वः स्तोतारः साकं सहैव युगपत् [?] ईरते स्तुतौ प्रवर्तन्ते । यद्वा यस्येन्द्रस्य रथं शतं सुभ्वः शतसंख्याका अश्वाः साकं सहेरते । गमयन्ति । तमिन्द्रमवसेऽस्मद्रक्षणाय सुवृक्तिभिः सुष्ठु दोषवर्जकैः [?] स्तोत्रैः रथमाववृत्याम् । रथं प्रत्यावर्तयामि । कीदृशं रथम् । हवनस्यदम् । हवनमाह्वानं यागं वा प्रति वेगेन गच्छन्तम् । वेगगमने दृष्टान्तः । अत्यं न वाजम् । गमनसाधनमश्वमिव ।**
+
+*tvaṃ taṃ prasiddhaṃ meṣaṃ śatrubhiḥ saha spardhamānaṃ svarvidam | svar ādityo dyaur vā | tasya veditāraṃ labdhāraṃ vā | yadvā | svaḥ suṣṭhu araṇīyaṃ dhanam | tasya lambhayitāram | evaṃguṇaviśiṣṭam indraṃ he adhvaryo su mahaya | samyak pūjaya | yasyendrasya śataṃ śatasaṃkhyākāḥ subhvaḥ stotāraḥ sākaṃ sahaiva yugapat [?] īrate stutau pravartante | yadvā yasyendrasya rathaṃ śataṃ subhvaḥ śatasaṃkhyākā aśvāḥ sākaṃ saheirate | gamayanti | tam indram avase 'smadrakṣaṇāya suvṛktibhiḥ suṣṭhu doṣavarjakaiḥ [?] stotraiḥ ratham āvavṛtyām | rathaṃ pratyāvartayāmi | kīdṛśaṃ ratham | havanasyadam | havanam āhvānaṃ yāgaṃ vā prati vegena gacchantam | vegagamane dṛṣṭāntaḥ | atyaṃ na vājam | gamanasādhanam aśvam iva |*
+
+*(Reading notes: "*yugapat*" after "*sahaiva*" and "*suṣṭhu doṣavarjakaiḥ*" are crowded, [?]; the sense is confirmed by the Pratipadārtha below. The long grammatical tail — on* mahaya*,* subhvaḥ*,* īrate*,* atyam*,* vājam*,* havanasyadam*,* vavṛtyām *— is characterized, not transcribed: it argues, for example, that the Vedic lengthening in the Saṃhitā of* mahayā *comes by* anyeṣām api dṛśyate*, that the* nighāta *accent is blocked by the* ṅit *of* yāsuṭ*, and that in* havanasyadam *the root* syand *("to flow") takes* vic *… with the loss of the nasal and the* vṛddhi-*prohibition, the accent being that of the last member; the Kannada grammar pages (pp. 215–216) repeat these.)*
+
+**Translation of the bhāṣya:** "You, O Adhvaryu, worship well that well-known Indra — *meṣam*, who vies with enemies, *svarvidam*: *svar* is the sun, or heaven; the knower or obtainer of that; or: *svar* = excellent wealth that is to be sought, one who makes it obtained — Indra possessed of such qualities, *su mahaya*, worship properly. Of that Indra, *yasya*, a hundred *subhvaḥ*, praisers, *sākam īrate*, together proceed into praise; or: the chariot of that Indra a hundred *subhvaḥ*, horses, draw together. That Indra, for our protection, with *suvṛktibhiḥ*, with praises [that remove faults well, [?]], I shall turn to the chariot (*ratham ā vavṛtyām*) — I shall bring him back to the chariot. What sort of chariot? *Havanasyadam*, running swiftly towards the invocation or the sacrifice. As an example of swift going, *atyam na vājam*, like a horse, the means of going."
+
+**Pratipadārtha** *(p. 214)* — "(O Adhvaryu) **tvam** — you; **meṣam** — who vies with the enemies, the well-known; **svarvidam** — who makes heaven known (or the sun-world) or who gains wealth; **indram** — Indra; **su mahaya** — worship well; **yasya** — whose (Indra's); **śatam** — hundred in number; **subhvaḥ** — the praisers; **sākam** — gathered together; **īrate** — praise; [or: **yasya** — of which Indra (his chariot); **śatam** — a hundred in number; **subhvaḥ** — horses; **sākam** — together; **īrate** — draw (him) swiftly;] **indram** — that Indra; **avase** — for our protection; **atyam na vājam** — like a horse running with speed; **havanasyadam** — running quickly towards the invocation or the sacrifice; **ratham** — the chariot; **suvṛktibhiḥ** — with praises worthy of worship; **ā vavṛtyām** — I shall cause (him) to mount."
+
+**Bhāvārtha** *(p. 214)* — "O Adhvaryu, worship well the well-known Indra, who contends with the enemies and makes heaven known. A hundred praisers together praise that Indra. Praying to him with praises worthy of worship, I shall cause him to mount the chariot that runs swiftly like a horse, and to come, for our protection, towards our sacrifice."
+
+**English Translation (the source's own, p. 214)** — "Worship well that ram (Indra) who makes heaven known, whom a hundred worshippers at once are praising. I implore Indra with many prayers to ascend the car which hastens like a fleet horse to the Sacrifice for my protection."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 214–215**
+- **tvam** — "This is the second-person singular of the word *tyad*, which means 'well-known'. 'Well-known' is its sense." *(The print has* tyaṃ*, the second-case singular of* tyad*; I give it as the Kannada states, "the accusative singular of *tyad*", the word* tyam *glossing the Saṃhitā's* tvaṃ [?] — the Saṃhitā text itself reads* tvaṃ su meṣam *and the bhāṣya* tvaṃ taṃ prasiddhaṃ meṣam*, so the Kannada note's "*tvaṃ*" is the print's own heading, and the note is as read.)*
+- **meṣam** — "Indra who contends with enemies. (The explanation of this word is given in detail at Ṛ. Saṃ. 1-51-1 [i.e., Rik 51.1 above].)"
+- **svarvidam** — "*svar* is the sun, or heaven; its knower or obtainer; or, 'who makes the excellent wealth to be obtained'. As one who has gained heaven and the sun-world and who knows all matters there, or as one who makes the sacrificers obtain excellent wealth, this word is an epithet of Indra."
+- **śatam subhvaḥ sākam īrate** — "Here the word *subhū* has two senses: 'praisers' and 'horses'. A hundred praisers, singing praise of Indra together in one voice; or, a hundred horses draw the chariot of Indra together, swiftly — thus the meaning may be taken."
+- **atyam** — "It means a horse. '*atyaḥ hayaḥ*' (Ni. 1-14 as read [?]) — in the Nirukta it is read in the sense of horse."
+
+  > **अत्यो हयः ।** *(Ni., numeral as read [?])*
+
+  *atyo hayaḥ |* — mine and tentative: "*atya* [means] horse."
+- **vājam** — "*vājyate gamyate anena*: the word *vāja*, with this derivation, gives the sense 'going swiftly'. The sentence *atyaṃ na vājam* has the sense 'like a horse that is an instrument of going'."
+- **suvṛktibhiḥ** — "*Suvṛkti* is the name of praiseworthy hymns that draw the mind wherever one may be."
+
+**Vyākaraṇa-prakriyā** *(p. 215 and following — grammar pages, noted briefly; continued on p. 216)*
+- **mahaya**: *maha pūjāyām*, *curādi*, a root in *a*; *loṭ* second singular *sip*, for which *hi*; *ṇic* in the own sense by *satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic* (Pā. 3-1-25); *ato lopaḥ* drops the *a* before *ṇic*; *śap*; *ato heḥ* drops *hi*; *śap* being the cause, *guṇa* and *ayādeśa*: *mahaya*; in the Saṃhitā the lengthening *anyeṣām api dṛśyate* (Pā. 6-3-137 as read [?]) gives *mahayā*; being a verb standing after a non-verb, *nighāta*.
+- **subhvaḥ**: "*su bhavanti iti subhvaḥ*, praisers"; *bhū sattāyām* with *kvip ca* (Pā. 3-2-76 as read [?]) gives *kvip*: *subhū*; compound with the prefix *su*; *gatikārakopapadāt kṛt* gives the final-member accent; before *jas* the *yaṇ* of *oḥ supi* would be forbidden by *nabhūsudhiyoḥ* (Pā. 6-4-85), but *chandasy ubhayathā* ("both ways in the Veda") — the prohibition not applying — the general rule gives *yaṇ*: *subhvaḥ*; since the *ū* becomes *v*, the ending's *udātta* by *udāttasvaritayor yaṇaḥ svaritaḥ…* is *svarita*.
+- **īrate**: *īra gatau kampane ca*, *adādi*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; since the root ends in *a*, the *jh* of the *ātmanepada* is replaced by *at* by *ātmanepadeṣv anataḥ* (Pā. 7-1-5); *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79) gives *e*: *īrate*. *(The remaining notes — on* atyam*,* vājam*,* havanasyadam*,* vavṛtyām *— are on p. 216, given with the next batch.)*
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, Maṇḍala 1, Anuvāka 10, 15 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Jagatī with Riks 13 and 15 Triṣṭubh) in progress: title, Sāyaṇa's introduction, anuvāda, heading block and the Saṃhitā of Rik 52.1 written (printed p. 212, PDF 228). The Pada of Rik 1 is on p. 213 (PDF 229).**
+---
 
-**Next task:** continue at printed p. 213 (PDF 229) with the Pada of Rik 52.1 (heading "**Rik 52.1, continued**"), then its bhāṣya etc., Riks 2–15 and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264; Sūkta 52 is thus ≈ 50 pages). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; for Sūkta 51 the flags are listed in the closing summary above and in the individual Riks.
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Rik 52.1 written through the Vyākaraṇa notes on *īrate* (printed p. 215, PDF 231). The remaining grammar notes of Rik 1 (*atyam, vājam, havanasyadam, vavṛtyām*, on p. 216, PDF 232) and Rik 52.2 onward are NOT yet written.**
+
+**Next task:** continue at printed p. 216 (PDF 232) with the last grammar notes of Rik 52.1 ("**Rik 52.1, grammar (end)**"), then Rik 52.2 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?].
