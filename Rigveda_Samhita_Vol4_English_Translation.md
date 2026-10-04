@@ -7848,10 +7848,161 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 43.5, continued** *(from p. 479; the Saṃhitā and Pada are above)*
+
+**Sāyaṇa-bhāṣya, end** *(p. 480 top)*
+
+> **… प्रशस्यस्य श्रः । पा. ५-३-६० [?] । इति श्रादेशः । नित्त्वादाद्युदात्तत्वं । वसुः । वासयति सर्वमिति वसुः । वस निवासे । अन्तर्भावितण्यर्थात् शृस्वस्निहीत्यादिनोप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं ॥ ५ ॥**
+
+*… praśasyasya śraḥ | pā. 5-3-60 [?] | iti śrādeśaḥ | nittvād ādyudāttatvaṃ | vasuḥ | vāsayati sarvam iti vasuḥ | vasa nivāse | antarbhāvitaṇyarthāt śṛsvasnihītyādinā upratyayaḥ | nid ity anuvṛtter ādyudāttatvaṃ || 5 ||*
+
+*(In this tail the rule-name "śṛsvasnihī…" is as read and crowded [?].)*
+
+**Translation of the end:** "… [*iṣṭhan*], *śra* is the substitute for *praśasya* [Pā. 5-3-60 [?]]; since it is *nit*, first-syllable acute. *Vasuḥ*: '*vāsayati sarvam*', he makes all dwell; root *vasa nivāse*, with an implicit causative sense; the suffix *u* by the rule beginning *śṛsvasnihi…*; since *nit* is carried forward, first-syllable acute."
+
+**Pratipadārtha** *(p. 480)* — "**yaḥ** — which Rudra; **sūrya iva** — like the Sun; **śukraḥ** — shining; **hiraṇyam iva** — like gold [pleasing to all beings]; **rocate** — shines [we pray to that Rudra: *saḥ* — he]; **devānām** — among all the gods; **śreṣṭhaḥ** — the best; **vasuḥ** — the giver of a dwelling-place."
+
+**Bhāvārtha** *(p. 480)* — "The god Rudra, shining like the Sun, is a benefactor to the world; like gold, he is pleasing and attracts the world. Among all the gods he holds a most excellent position."
+
+**English Translation (the source's own, p. 480)** — "( Rudra ) who shines like the brilliant sun, shines, like gold ; the highest and best of the gods."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 480**
+- **śukraḥ** = *dīptimān* — "very bright."
+- **hiraṇyam iva** — "who shines brilliantly like gold, or who is dear to all like gold."
+- **vasuḥ** — "*vasa nivāse | vāsayati sarvam iti vasuḥ | nivāsahetuḥ*: the cause of the dwelling-places of all, i.e. the giver of dwelling-places. Or the words *śreṣṭho devānāṃ vasuḥ* may be taken as *devānāṃ śreṣṭho vasuḥ*: the sense 'the very best among the gods' may also be given."
+
+**Vyākaraṇa-prakriyā** *(pp. 480–481 — grammar pages, noted briefly)*
+- **sūryaḥ**: *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* — राजसूयसूर्यमृषोद्यरुच्यकुप्यकृष्टपच्याव्यथ्याः — [Pā. 3-1-114 as read]: by this sūtra after the root *ṣū preraṇe* the suffix *kyap* and the augment *ruṭ* are irregularly given; *suvati karmaṇi lokaṃ preryati iti sūryaḥ* — he who urges the world to its works: the sense is that the Sun, rising, urges people to engage in their several tasks. Since *kyap* is *pit*, it is unaccented, and the root accent remains.
+- **hiraṇyam**: root *haryati gatikāntyoḥ*; *haryater hiraṇ-kanyan hiraṇ ca* — हर्यतेर्हिरञ् कन्यन् हिरञ् च — [Uṇ. 5-[?] as read]: the suffix *kanyan* and the substitute *hiraṇ* for *hary*.
+- **rocate**: root *ruca dīptāv abhiprītau ca*, first class, *ātmanepada*; *laṭ*, *ta*, *e*, *śap*; *laghūpadhaguṇa*; *śap* being *pit* is unaccented, and *tāsyanudāttet…* makes *te* unaccented; the root accent remains; *yadvṛttān nityam* prohibits the wholly-unaccented.
+- **śreṣṭhaḥ**: *praśasyasya śraḥ* — प्रशस्यस्य श्रः — [Pā. 5-3-60 as read]: *śra* as substitute for *praśasya* before the suffixes *iṣṭhan* and *īyasun*; although *praśasya* is a word denoting an action, the paribhāṣā-indicating form of the sūtra shows that *iṣṭhan* and *īyasun* come after *praśasya*; or one may say it means *praśastatva* ("excellence"); *atiśāyane tamabiṣṭhanau*, *dvivacanavibhajyopapade tarabīyasunau* [Pā. 5-3-55, 57 as read]; *prakṛtyaikāc* — प्रकृत्यैकाच् — [Pā. 6-4-163 as read]: a one-syllable word keeps its natural form before *iṣṭhan*, *imanic* and *īyasun*, i.e. there is no *ṭi*-loss and so on; *ād guṇaḥ*; the suffix being *nit*, the end of the suffix is first-syllable acute.
+- **vasuḥ**: "*vāsayati sarvam iti vasuḥ*": the root *vasa nivāse*, with an implicit causative sense; *śṛsvasnihitrapiṣivasihanikledibandhimanibhyaś ca* — शृस्वस्निहित्रप्यसिवसिहनिक्लेदिबन्धिमनिभ्यश्च — [Uṇ. 1-10 as read [?]]: the suffix *u*; *dhānye nit* [Uṇ. 1-9 as read [?]]: *nit* is carried over, so the suffix *u* is *nit* and the end of the suffix is first-syllable acute. Rik 5 ends here (*|| 5 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–42 COMPLETE; Sūkta 43 in progress: printed p. 479 (PDF 493) reached; introduction, heading and Riks 43.1–43.4 complete; Rik 43.5's Saṃhitā, Pada and the first part of its bhāṣya written (the bhāṣya breaks off mid-sentence at "*praśasyaśabdād iṣṭhani…*" on p. 479).**
+### Rik 43.6 (pp. 482–485, PDF 496–499)
 
-**Next task:** continue at printed p. 480 (PDF 494) with the end of the bhāṣya of Rik 43.5, then its Pratipadārtha etc., Riks 6–9 and the close of Sūkta 43 (to about p. 492; Sūkta 44 *agne vivasvat* begins about p. 493 per the contents table — check), then STOP at the end of Sūkta 43 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 478–515) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 494 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 482; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43 so far: (1) the heading's varga numerals and Rik numerals are small and doubtful; **correction:** the Mitra–Varuṇa ṛk is Rik **3** (not Rik 5 as stated in the previous progress note); Rudra for Riks 1, 2, 4, 5, 6 and Soma for 7–9 — a correction note is in the text after the heading; (2) the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and the Ṛgveda references in the anuvāda are read with doubt; (3) Rik 1: the source's English prints "cherist" [sic]; the Nirukta passage on *rudra* and the Kāṭhaka / Hāridravika attributions are untranslated in the source — my gloss is tentative; the grammar of *mīḷhuṣṭamāya* and *tavyase* is crowded and characterized only; (4) Rik 2: two Taittirīya quotations, untranslated, glossed by me tentatively, numerals doubtful; "*ghor jñati*" crowded; (5) Rik 3: the verb form after *yathā viśve sajoṣasaḥ* in the bhāṣya ("*ciketanti*"/"*ciketaṃti*") is doubtful; the source's English prints "hyman" [sic]; (6) Rik 4: the number of ṛks credited to Śaṃyu in the Special Topics and the Ṛgveda sūkta numerals are read with doubt; the Yajurveda quotation is crowded; (7) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
+> **शं नः करत्यर्वते सुगं मेषाय मेष्ये ।**
+> **नृभ्यो नारिभ्यो गवे ॥ ६ ॥**
+
+*śaṃ naḥ karaty arvate sugam meṣāya meṣye |*
+*nṛbhyo nāribhyo gave || 6 ||*
+
+**Pada-pāṭha** *(p. 482)*
+
+> शम् । नः । करति । अर्वते । सुऽगम् । मेषाय । मेष्ये ।
+> नृऽभ्यः । नारिऽभ्यः । गवे ॥ ६ ॥
+
+*śam | naḥ | karati | arvate | su-gam | meṣāya | meṣye |*
+*nṛ-bhyaḥ | nāri-bhyaḥ | gave || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 482)*
+
+> **आग्निमारुते शं नः करोतीति धाय्या । अथ यथेतमिति खण्डे सूत्रितं । वैश्वानराय पृथुपाजसे शं नः करत्यर्वते । आ. ३-१० [?] । इति ॥ नोऽस्माकं सम्बन्धिभ्योऽर्वादिभ्यः सुगं सुष्ठु गम्यं शं सुखं करति । देवः करोतु । अर्वते अश्वाय । अर्वन्निति अश्वनाम । अर्वा वाजीति तन्नामसु पाठात् । मेषाय मेषजातिपुरुषाय मेष्यै तज्जातीयस्त्रियै नृभ्यः पुरुषेभ्यो नारिभ्यः स्त्रीभ्यो गवे गोजातये ॥ करति । डुकृञ् करणे । व्यत्ययेन शप् । अर्वते । अर्ति गच्छतीत्यर्वा । अन्येभ्योऽपि दृश्यन्त इति वनिप् । चतुर्थ्येकवचने र्वणस्त्रसावनञः । इति नकारस्य तृ आदेशः । वनिप्पुसौ पित्त्वादनुदात्तौ । धातुस्वरः । मेषाय । मिष स्पर्धायां । पचाद्यच् । देवसेनमेषादयः पचादिषु द्रष्टव्या इति वचनात् । मेष्यै । जातेरस्त्रीविषयादयोपधात् । पा. ४-१-६३ । ङीष्प्रत्ययः । प्रत्ययस्वरः । चतुर्थ्येकवचने आगमानुशासनस्यानित्यत्वादाडागमाभावः । उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्येति स्वरितत्वं । उदात्तयणो हल्पूर्वादिति तु न भवति । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनात् । नृभ्यः । सावेकाच इति प्राप्तस्य विभक्त्युदात्तस्य नृ चान्यतरस्यामिति प्रतिषेधः । नारिभ्यः । नृनरयोर्वृद्धिश्च । पा. ४-१-… [?] । इति शार्ङ्गरवादिषु पाठात् ङीन्प्रत्ययः । नित्त्वादाद्युदात्तः । गवे । न गोश्वन्साववर्णेति विभक्त्युदात्तस्य प्रतिषेधः ॥ ६ ॥**
+
+*āgnimārute śaṃ naḥ karotīti dhāyyā | atha yathetam iti khaṇḍe sūtritaṃ | vaiśvānarāya pṛthupājase śaṃ naḥ karaty arvate | ā. 3-10 [?] | iti || no 'smākaṃ sambandhibhyo 'rvādibhyaḥ sugaṃ suṣṭhu gamyaṃ śaṃ sukhaṃ karati | devaḥ karotu | arvate aśvāya | arvann ity aśvanāma | arvā vājīti tannāmasu pāṭhāt | meṣāya meṣajātipuruṣāya meṣyai tajjātīyastriyai nṛbhyaḥ puruṣebhyo nāribhyaḥ strībhyo gave gojātaye || karati | ḍukṛñ karaṇe | vyatyayena śap | arvate | arti gacchatīty arvā | anyebhyo 'pi dṛśyanta iti vanip | caturthyekavacane rvaṇastrasāvananaḥ | iti nakārasya tṛ ādeśaḥ | vanippusau pittvād anudāttau | dhātusvaraḥ | meṣāya | miṣa spardhāyāṃ | pacādyac | devasenameṣādayaḥ pacādiṣu draṣṭavyā iti vacanāt | meṣyai | jāter astrīviṣayād ayopadhāt | pā. 4-1-63 | ṅīṣpratyayaḥ | pratyayasvaraḥ | caturthyekavacane āgamānuśāsanasyānityatvād āḍāgamābhāvaḥ | udāttasvaritayor yaṇaḥ svarito 'nudāttasyeti svaritatvaṃ | udāttayaṇo hal-pūrvād iti tu na bhavati | sarve vidhayaś chandasi vikalpyanta iti vacanāt | nṛbhyaḥ | sāvekāca iti prāptasya vibhaktyudāttasya nṛ cānyatarasyām iti pratiṣedhaḥ | nāribhyaḥ | nṛnarayor vṛddhiś ca | pā. 4-1-… [?] | iti śārṅgaravādiṣu pāṭhāt ṅīnpratyayaḥ | nittvād ādyudāttaḥ | gave | na goścansāvavarṇeti vibhaktyudāttasya pratiṣedhaḥ || 6 ||*
+
+*(In the bhāṣya the Āśvalāyana reference "ā. 3-10" is as read [?]; the number of the Pāṇini rule on* nṛnarayor vṛddhiś ca *is crowded and left as [?]; the rule-name "rvaṇastrasāvananaḥ" is as read, crowded [?].)*
+
+**Translation:** "[This is] the *dhāyyā* verse of the Āgnimāruta [śastra]: '*śaṃ naḥ karoti*'. It is laid down in the section beginning *atha yathetam*: '*vaiśvānarāya pṛthupājase*, [and] *śaṃ naḥ karaty arvate*' (Āś. 3-10 [?]). *Śam*, happiness, easy to travel [*sugam*, easy to go to], *karati*, may the god make, *naḥ*, for those who belong to us, *arvate*, for the horse ('*arvan*' is a name for horse, since '*arvā*, *vājī*' are read among its names), *meṣāya*, for the ram, the male of the sheep kind, *meṣye*, for the ewe, a female of that kind, *nṛbhyaḥ*, for men, *nāribhyaḥ*, for women, *gave*, for the cow kind. *Karati*: root *ḍukṛñ karaṇe*; *śap* by *vyatyaya*. *Arvate*: '*arti gacchati*', one who goes: *arvā*; *vanip* by *anyebhyo 'pi dṛśyante*; in the dative singular *tṛ* for the *n* [of *arvan*] by *rvaṇas trasāv ananaḥ*; *vanip* and *pus* being *pit* are unaccented, and the root accent remains. *Meṣāya*: root *miṣa spardhāyām*; *ac* of the *pacādi* class, since '*devasena*, *meṣa* and the like are to be seen in the *pacādi*'. *Meṣyai*: *ṅīṣ* by *jāter astrīviṣayād ayopadhāt* [Pā. 4-1-63]; accent of the suffix; in the dative singular no augment *āṭ*, because the teaching of augments is not constant; the *svarita* by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*; *udāttayaṇo hal-pūrvāt* does not apply, since all operations are optional in the Veda. *Nṛbhyaḥ*: the ending's acuteness, obtained by *sāvekāca*, is prohibited by *nṛ cānyatarasyām*. *Nāribhyaḥ*: by *nṛnarayor vṛddhiś ca*, since [*nṛ*] is read in the *śārṅgaravādi* group, *ṅīn*; since *nit*, first-syllable acute. *Gave*: the acuteness of the ending is prohibited by *na goścansāvavarṇa…*."
+
+**Pratipadārtha** *(p. 483)* — "(**rudraḥ** — the god Rudra) **naḥ** — for those who belong to us; **arvate** — for horses; **meṣāya** — for rams; **meṣye** — for ewes; **nṛbhyaḥ** — for men; **nāribhyaḥ** — for women; **gave** — for the race of cattle; **sugam** — which is easy to obtain (by his favour); **śam** — happiness; **karati** — makes."
+
+**Bhāvārtha** *(p. 483)* — "The god Rudra makes happiness for our horses, for our sheep (ewes), for men and women and for cows."
+
+**English Translation (the source's own, p. 483)** — "( Rudra ) bestows happiness ( or does good to ) on our horses, rams, ewes, men, women and cows."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 483**
+- **arvate** — "since the word *arvā* is read among the twenty-six names of the horse beginning with *aśvaḥ*, *hayaḥ*, *arvate* (the dative singular of *arvan*) means 'for the horse'."
+- **karati** = *karoti* — "makes."
+- **sugam** = *suṣṭhu gamyam* — "that which is easy to get; [happiness] easily obtained."
+- **meṣye** — "here *meṣī* means a female sheep; *meṣye*: to a ewe. The commentator gives this word the sense 'a female of the sheep kind'. This is not entirely suitable: for the words *nṛbhyaḥ* and *nāribhyaḥ* used here denote men and women; so it is proper to say that likewise the words *meṣāya* and *meṣye* denote just the male sheep and the female sheep. And since in this ṛk the ṛṣi prays that happiness be made for men, women and the animals — horses, cows and sheep — it is proper to say that [the sheep are] both kinds of sheep, the female and the male."
+
+**Vyākaraṇa-prakriyā** *(pp. 484–485 — grammar pages, noted briefly)*
+- **karati**: root *ḍukṛñ karaṇe*, *laṭ*, *tip*; in place of the *u* of *tanādikṛñbhya uḥ*, *śap* comes by Vedic usage.
+- **arvate**: "*ṛti gacchatīty arvā*": the root *ṛ gatau*; *anyebhyo 'pi dṛśyante*: *vanip*; *guṇa*, *raparatva*: *arvan*; dative singular; *ṅe* [print: *je*]; *arvaṇas tṛ… sāvanañaḥ* [Pā. 6-4-127 as read]: for an *aṅga* ending in *arvan* with no *nañ* before it, when no *su* follows, *tṛ* is the substitute for the final [*n*]: *arvat + e = arvate*; *anudāttau suppitau*: *vanip* and the *ṅe* ending are both unaccented; the root accent stays.
+- **meṣāya**: root *miṣa spardhāyām*, *tudādi*; *nandigrahipacādibhyo lyuṇinyacaḥ* [Pā. 3-1-134 as read]: *ac* of the *pacādi* kind.
+- **meṣyai**: "*meṣasya strī meṣī*": *jāter astrīviṣayād ayopadhāt* — जातेरस्त्रीविषयादयोपधात् — [Pā. 4-1-63 as read]: *ṅīṣ* is given after a word denoting a species, not ending in a feminine suffix, which is not always feminine in gender and has *y* as a penultimate. The print explains *jāti* with the verse "*ākṛtigrahaṇā jātiḥ liṅgānāṃ ca na sarvabhāk | sakṛdākhyātanirgrāhyā gotraṃ ca caraṇaiḥ saha ||*" — three marks of a *jāti*: it is known by form (e.g. *taṭī*, a shape such as nearness to water), it does not partake of all genders, and, once said of one person, it is understood of another without being said (e.g. *vṛṣalī*: not used in the neuter; said of one person, his son, brother and so on are also understood to be *vṛṣala*); a word ending in a patronymic suffix or denoting a branch of the Veda is also a *jāti* (e.g. *aupagavī*, *karī*); *meṣa* is not neuter and is understood of another when said of one; so by the two marks "not of all genders" and "once said it is understood" it is a *jāti*-word; so *ṅīṣ* comes: *meṣī*; the accent of the suffix is final; because *āgamaśāstram anityam* the *āṭ* of *āṇ nadyāḥ* does not come; *yaṇ*: *meṣy + e*; *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* — उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य — [Pā. 8-2-4 as read]: after a *yaṇ* standing for an acute or *svarita* vowel the following unaccented vowel becomes *svarita*; *udāttayaṇo hal-pūrvāt* [Pā. 6-1-174 as read]: a *yaṇ* standing for an acute and preceded by a consonant causes the following *nadī*-ending and *ajādi* [ending] to be acute; here the *y* stands for the acute *ī* and is preceded by *ṣ*, so one could say the ending *e* should be acute; but since the *svarita* rule of the eighth *adhyāya* is invisible by *pūrvatrāsiddham*, it cannot come; in all these examples *udāttayaṇaḥ* is the subject of the *anuvāda* of *udāttasvaritayor…*; therefore the ending should be acute by *udāttayaṇaḥ*; but by *sarve vidhayaś chandasi vikalpyante* it does not come.
+- **nṛbhyaḥ**: "*nṛ cānyatarasyām* is an exception to *sāvekācaḥ…*; being optional, it gives no acute here."
+- **nāribhyaḥ**: in the sūtra *śārṅgaravādibhyo ṅīn* — शार्ङ्गरवादिभ्यो ङीन् — [Pā. 4-1-73 as read] there is the *gaṇasūtra* *nṛnarayor vṛddhiś ca*: when *nṛ* and *nara* are shown with the feminine, the suffix *ṅīn* comes, and with it *vṛddhi*; so *nārī*; *jyāposaṃjñāchandasor bahulam* [Pā. 6-3-63 as read] the shortening of *ṅī*; *bhyas*: *nāribhyaḥ*.
+- **gave**: "*sāvekācaḥ…* [is prohibited] by *na goścansāvavarṇa…*." Rik 6 ends here (*|| 6 ||*).
+
+---
+
+### Rik 43.7 (pp. 485–487, PDF 499–501)
+
+**Saṃhitā-pāṭha** *(p. 485 foot; accents not reproduced)*
+
+> **अस्मे सोम श्रियमधि नि धेहि शतस्य नृणाम् ।**
+> **महि श्रवस्तुविनृम्णम् ॥ ७ ॥**
+
+*asme soma śriyam adhi ni dhehi śatasya nṛṇām |*
+*mahi śravas tuvinṛmṇam || 7 ||*
+
+**Pada-pāṭha** *(p. 486)*
+
+> अस्मे इति । सोम । श्रियम् । अधि । नि । धेहि । शतस्य । नृणाम् ।
+> महि । श्रवः । तुविऽनृम्णम् ॥ ७ ॥
+
+*asme iti | soma | śriyam | adhi | ni | dhehi | śatasya | nṛṇām |*
+*mahi | śravaḥ | tuvi-nṛmṇam || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 486)*
+
+> **हे सोम देव नृणां पुरुषाणां शतस्य पर्याप्तां श्रियमस्मे अस्मास्वधि नि धेहि । आधिक्येन स्थापय । तथा महि महत् तुविनृम्णं प्रभूतबलयुक्तं श्रवोऽन्नमस्मास्वधि नि धेहि ॥ अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः । नृणां । नृ च । पा. ६-४-६ । इति दीर्घप्रतिषेधः । नामन्यतरस्यामिति नाम उदात्तत्वं । महीत्यादयो गताः ॥ ७ ॥**
+
+*he soma deva nṛṇāṃ puruṣāṇāṃ śatasya paryāptāṃ śriyam asme asmāsv adhi ni dhehi | ādhikyena sthāpaya | tathā mahi mahat tuvinṛmṇaṃ prabhūtabalayuktaṃ śravo 'nnam asmāsv adhi ni dhehi || asme | supāṃ sulug iti saptamyāḥ śe ādeśaḥ | nṛṇāṃ | nṛ ca | pā. 6-4-6 | iti dīrghapratiṣedhaḥ | nām anyatarasyām iti nām udāttatvaṃ | mahīty ādayo gatāḥ || 7 ||*
+
+**Translation:** "O god Soma, *śriyam*, prosperity that is sufficient *śatasya nṛṇām*, for a hundred men, *asme*, in us, *adhi ni dhehi*, place in excess. Likewise *mahi*, great, *tuvinṛmṇam*, endowed with abundant strength, *śravaḥ*, food, *adhi ni dhehi*, place upon us. *Asme*: *śe* as the substitute for the locative by *supāṃ sulug…*. *Nṛṇām*: the prohibition of lengthening by *nṛ ca* [Pā. 6-4-6]; the *nām* is optionally acute by *nām anyatarasyām*. *Mahi* and the rest have been explained."
+
+**Pratipadārtha** *(p. 486)* — "**soma** — O god Soma; **nṛṇām** — for men; **śatasya** — for a hundred persons (as much as is complete); **śriyam** — wealth; **asme** — upon us; **adhi ni dhehi** — set it firmly; **mahi** — exceedingly much; **tuvinṛmṇam** — together with abundant strength; **śravaḥ** — food [give us]."
+
+**Bhāvārtha** *(p. 486)* — "O god Soma, give us abundant wealth, as much as suffices for a hundred men; and give us also food which is exceedingly abundant and which gives great strength."
+
+**English Translation (the source's own, p. 486)** — "O Soma, grant us prosperity more than sufficient for a hundred men and much nonrishing [sic] food." *(Printed "nonrishing".)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 486–487**
+- **adhi śatasya nṛṇāṃ śriyam** — "wealth greater than what a hundred men should have."
+- **asme nidhehi** = *asmāsu sthāpaya* — "place in us, that is, give to us."
+- **mahi** = *mahat* — "greater, excellent."
+- **śravaḥ** — "*śrava ity annanāma* (Ni. 10-[?]); also *dhananāma* (Ni. 2-[?]): although the word *śravaḥ* has many senses — food, wealth, strength — the commentator accepts here the sense 'food'."
+- **tuvinṛmṇam** — "*tuvi* means much (Ni. 3-[?]); *nṛmṇam* means strength (Ni. 2-[?]); so *tuvinṛmṇam* means 'one with much strength'."
+
+**Vyākaraṇa-prakriyā** *(p. 487 — grammar page, noted briefly)*
+- **asme**: *supāṃ sulug…*: *śe* as the substitute for the locative.
+- **nṛṇām**: *nṛ ca* — नृ च — [Pā. 6-4-6 as read]: before *nām* the lengthening of a stem ending in a vowel is optionally prohibited for *nṛ*; being optional, the lengthening does not occur here.
+- **mahi** and the rest: "the process has been given before." Rik 7 ends here (*|| 7 ||*).
+
+---
+
+### Rik 43.8 (p. 487 foot, PDF 501–)
+
+**Saṃhitā-pāṭha** *(p. 487; accents not reproduced)*
+
+> **मा नः सोम परिबाधो मारातयो जुहुरन्त ।**
+> **आ न इन्दो वाजे भज ॥ ८ ॥**
+
+*mā naḥ soma paribādho mārātayo juhuranta |*
+*ā na indo vāje bhaja || 8 ||*
+
+**Pada-pāṭha** *(p. 487)*
+
+> मा । नः । सोम । परिऽबाधः । मा । अरातयः । जुहुरन्त ।
+> आ । नः । इन्दो इति । वाजे । भज ॥ ८ ॥
+
+*mā | naḥ | soma | pari-bādhaḥ | mā | arātayaḥ | juhuranta |*
+*ā | naḥ | indo iti | vāje | bhaja || 8 ||*
+
+*(The bhāṣya, Pratipadārtha and the rest of Rik 8 begin on p. 488, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–42 COMPLETE; Sūkta 43 in progress: printed p. 487 (PDF 501) reached; introduction, heading and Riks 43.1–43.7 complete; Rik 43.8's Saṃhitā and Pada written at the foot of p. 487 (its bhāṣya begins on p. 488).**
+
+**Next task:** continue at printed p. 488 (PDF 502) with the bhāṣya of Rik 43.8, then Rik 9 (Anuṣṭubh) and the close of Sūkta 43 (to about p. 492; Sūkta 44 *agne vivasvat* begins about p. 493 per the contents table — check), then STOP at the end of Sūkta 43 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 478–515) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 502 -l 515 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 42's list is in the commit "Vol 4: Sūkta 42 complete"). Sūkta 43 so far: (1) the heading's varga numerals and Rik numerals are small and doubtful; the Mitra–Varuṇa ṛk is Rik **3** (correction note in the text; the previous progress note's "Rik 5" was wrong); (2) the Gṛhya-sūtra quotation (Āś. Gṛ. 4-9-10 [?]) and Ṛgveda references in the anuvāda are read with doubt; (3) Rik 1: English "cherist" [sic]; Nirukta passage on *rudra* (Kāṭhaka / Hāridravika) untranslated in the source — my gloss tentative; grammar of *mīḷhuṣṭamāya* and *tavyase* crowded, characterized only; (4) Rik 2: two Taittirīya quotations glossed by me tentatively, numerals doubtful; (5) Rik 3: "*ciketanti*/*ciketaṃti*" doubtful; English "hyman" [sic]; (6) Rik 4: Śaṃyu's ṛk-count and Ṛgveda sūkta numerals doubtful; Yajurveda quotation crowded; (7) Rik 5: the Uṇādi rule-name "*śṛsvasnihi…*" crowded; (8) Rik 6: the Āśvalāyana reference "3-10", the Pāṇini number for *nṛnarayor vṛddhiś ca* and the rule-name "*rvaṇastrasāvananaḥ*" are crowded [?]; the long *meṣyai* discussion (*jāti* marks, *udāttayaṇaḥ*) is characterized only; the Kannada author's comment on *meṣye* is given in full; (9) Rik 7: the source's English prints "nonrishing" [sic]; (10) Rik 8: the Saṃhitā's last word is *juhuranta* (confirmed); (11) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
