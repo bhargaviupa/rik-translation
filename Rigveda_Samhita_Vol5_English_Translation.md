@@ -3191,8 +3191,96 @@
 
 ---
 
+**Rik 51.6, continued** *(pp. 172–176, PDF 188–192)*
+
+**Pada-pāṭha** *(p. 172)*
+
+> त्वम् । कुत्सम् । शुष्णऽहत्येषु । आविथ । अरन्धयः । अतिथिऽग्वाय । शम्बरम् ।
+> महान्तम् । चित् । अर्बुदम् । नि । क्रमीः । पदा । सनात् । एव । दस्युऽहत्याय । जज्ञिषे ॥ ६ ॥
+
+*tvam | kutsam | śuṣṇa-hatyeṣu | āvitha | arandhayaḥ | atithi-gvāya | śambaram |*
+*mahāntam | cit | arbudam | ni | kramīḥ | padā | sanāt | eva | dasyu-hatyāya | jajñiṣe || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 172)*
+
+> **हे इन्द्र त्वं कुत्सं कुत्ससंज्ञकमृषिं शुष्णहत्येषु । शुष्णः शोषयिता । एतन्नाम्नोऽसुरस्य हननयुक्तेषु संग्रामेष्वाविथ । ररक्षिथ । तथातिथिग्वायातिथिभिर्गन्तव्याय दिवोदासाय शम्बरनामानमसुरमरन्धयः । हिंसां प्रापितः । तथा महान्तं चित् अतिप्रवृद्धमप्यर्बुदमेतत्संज्ञकमसुरं पदा पादेन नि क्रमीः । नितरामाक्रमिताभूः । यस्मादेवं तस्मात्सनादेव चिरकालादेवारभ्य दस्युहत्याय उपक्षपयितॄणां हननाय जज्ञिषे । सर्वदा त्वं दस्युहननशीलो भवसीत्यर्थः ॥**
+
+*he indra tvaṃ kutsaṃ kutsasaṃjñakam ṛṣiṃ śuṣṇahatyeṣu | śuṣṇaḥ śoṣayitā | etannāmno 'surasya hananayukteṣu saṃgrāmeṣv āvitha | rarakṣitha | tathā atithigvāya atithibhir gantavyāya divodāsāya śambaranāmānam asuram arandhayaḥ | hiṃsāṃ prāpitaḥ [?] | tathā mahāntaṃ cit atipravṛddham apy arbudam etatsaṃjñakam asuraṃ padā pādena ni kramīḥ | nitarām ākramitā abhūḥ | yasmād evaṃ tasmāt sanād eva cirakālād evārabhya dasyuhatyāya upakṣapayitṝṇāṃ hananāya jajñiṣe | sarvadā tvaṃ dasyuhananaśīlo bhavasīty arthaḥ ||*
+
+**Translation of the bhāṣya:** "O Indra, you *kutsam*, the sage named Kutsa, *śuṣṇahatyeṣu* — *śuṣṇa* is 'the one who dries up'; in battles involving the killing of an Asura of that name — *āvitha*, protected. And for *atithigvāya*, for Divodāsa, to whom guests go, you brought the Asura named Śambara to destruction (*arandhayaḥ*). And *mahāntam cit*, though very great, the Asura named Arbuda — *padā*, with the foot, *ni kramīḥ*, you trampled down. Since this is so, *sanāt eva*, from ancient times, *dasyuhatyāya*, for the killing of the destroyers, you were born: at all times you are one whose nature is to kill the Dasyus."
+
+**Grammatical tail of the bhāṣya** *(p. 172 — characterized, not transcribed)*: *arandhayaḥ* (*radh hiṃsāsaṃrādhyoḥ*; the *num* augment by *radhijabhor aci*, Pā. 7-1-61 as read [?]); *atithigvāya* (*gam* with an Uṇādi *ḍu*/*ḍva* suffix); *kramīḥ* (*kramu pādavikṣepe*; no *vṛddhi* by *hyantakṣaṇaśvasa…*, Pā. 7-2-5 as read [?]; *aṭ* dropped by *bahulaṃ chandasy amāṅyoge 'pi*); *padā* (the vibhakti-accent by *sāvekācas tṛtīyādiḥ* or *ūḍidaṃ padādi…*); *jajñiṣe* (*janī prādurbhāve*, *liṭ*, with *gamahanajana…* the loss of the penultimate).
+
+**Pratipadārtha** *(p. 172)* — "(O Indra) **tvam** — you; **kutsam** — the sage named Kutsa; **śuṣṇahatyeṣu** — in the battles fought for the destruction of the Rākṣasa named Śuṣṇa; **āvitha** — protected; **atithigvāya** — for the devotee Divodāsa, who goes in the company of guests; **śambaram** — the Rākṣasa named Śambara; **arandhayaḥ** — you caused to be destroyed; **mahāntam cit** — though very powerful; **arbudam** — the Rākṣasa named Arbuda; **padā** — with the foot; **ni kramīḥ** — trampled down (you destroyed him, and therefore); **sanāt eva** — from very long ago; **dasyuhatyāya** — for the destruction of the thieving Rākṣasas; **jajñiṣe** — you were born."
+
+**Bhāvārtha** *(p. 173)* — "O Indra, in the battles fought to destroy the Rākṣasa named Śuṣṇa you protected the sage named Kutsa. You tormented and killed the Rākṣasa named Śambara for Divodāsa, who went about devoted to the honour of guests. Although the Rākṣasa named Arbuda was exceedingly powerful, you trampled him down with your foot. Therefore you have been born from long ago just for the destruction of the thieving Rākṣasas."
+
+**English Translation (the source's own, p. 173)** — "You have defended Kutsa in fatal fights with Sushna ; You have destroyed Sambara in defence of Atithigwa ; you have trodden with your foot upon the great Arbuda ; from remote times you were born for the destruction [sic: printed "destructlon"] of oppressors."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 173–175** *(all Ṛgveda, Brāhmaṇa and other numerals in the long lists are small Kannada digits; I give them as read and mark every one [?]; I have not tried to reconcile them against outside lists)*
+- **kutsam** — "Kutsa is a warrior; his name occurs in many places in the Ṛgveda. Since his name was very ancient, not many matters about him are known in the Ṛgveda. In Ṛ. Saṃ. 4-16-… [?]; 6-… [?]; 8-1-11 [?] he is called *Ārjuneya*, 'the son of Arjuna', and his name is hinted at in various places when Indra fought with the Asura Śuṣṇa. This is hinted in Ṛ. Saṃ. 1-6-3 [?]; 1-121-9 [?]; … and others (a list of about ten Riks). The matter of his being compared with Smadibha, Tugra and Vetasu is told in Ṛ. Saṃ. 10-49-4 [?]. In Ṛ. Saṃ. 1-53-10 [?]; 5-… [?]; 8-53-2 [?] his name occurs with Atithigva and Āyu. In Ṛ. Saṃ. 1-53-10 [?] it is said that he was defeated by Turvayāṇa. In Ṛ. Saṃ. 1-… [?]; 6-… [?] he is counted as a friend of Indra. Besides this his name occurs in Ṛ. Saṃ. 10-… [?]; the Pañcaviṃśa Brāhmaṇa 9-… [?]; the Jaiminīya Brāhmaṇa 1-… [?]."
+- **śuṣṇahatyeṣu** — "In the battle that kills the Rākṣasa named Śuṣṇa."
+- **atithigvāya** — "Śambara, the Asura, harassed greatly Divodāsa, who went anywhere for the sake of guests. Indra killed such a Śambara to protect Divodāsa. See p. 174."
+- **cit** — "This word means 'even though greatly grown'."
+- **sanāt** — "Its meaning 'from a long time' may be known as obtained from *sanātana* by the dropping of a part of the word (*padaikadeśa*)."
+- **atithigvāya** (continued, p. 174) — "The name Atithigva is found in many places in the Ṛgveda. Because he is generally mentioned in all those places along with a king named Divodāsa, there are strong reasons for supposing that they are one and the same person. Ṛ. Saṃ. 1-53-8 [?]; 1-103-8 [?]; 1-130-7 [?]; 4-26-3 [?]; 6-18-13 [?] support this. In these places the matter of his fighting with Śambara is hinted. In Ṛ. Saṃ. 1-53-8 [?]; 10-48-8 [?] it is said that he was Indra's helper when Indra destroyed Parṇaya and Karañja. In Ṛ. Saṃ. 2-19-6 [?] he is said to be an enemy of Turvaśa and Yadu. In Ṛ. Saṃ. 1-53-10 [?]; 3-… [?]; 6-… [?]; 8-53-2 [?] it is stated that Atithigva, with Āyu and Kutsa, compared Turvayāṇa. In the Dānastuti of Ṛ. Saṃ. 8-68-15–16 [?], the Atithigva met with may be a different person; his son's name there is Indrota. Some Western scholars hold that there were three persons named Atithigva: one an enemy of Parṇaya and Karañja; the second, Atithigva Divodāsa; the third, an enemy of Turvayāṇa. But since his name was used especially in that ancient time, he is regarded as an ancient hero, and so appears in many Riks."
+- **śambaram** — "Śambara is an enemy of Indra. His name and his story are told in Ṛ. Saṃ. 1-51-6 [sic, this Rik]; 1-54-4 [?]; 1-59-6 [?]; 1-101-3 [?]; 1-103-8 [?]; 1-112-14 [?]; 1-130-7 [?]; 2-12-11 [?]; 2-14-6 [?]; 2-19-6 [?]; 4-26-3 [?]; 4-30-14 [?]; 6-18-8 [?]; 6-26-5 [?]; 6-31-4 [?]; 6-43-1 [?]; 6-47-2 [?]; 6-47-21 [?]; 7-18-20 [?]; 7-99-5 [?] (list as read, many doubtful). In Ṛ. Saṃ. 4-30-14 [?] he is said to be a *dāsa*, son of Kulitara. In general his name occurs together with Śuṣṇa, Pipru and Varcin. It is said in Ṛ. Saṃ. 1-130-7 [?]; 2-19-6 [?]; 2-14-6 [?] that he had 90, 99 and 100 forts. In Ṛ. Saṃ. 2-24-2 [?] the word *śambarāṇi* has been used to indicate his forts. He was Divodāsa Atithigva's chief enemy, and it is described in Ṛ. Saṃ. 6-… [?]; 1-130-7 [?]; 2-19-6 [?]; 4-26-3 [?] and others that Atithigva defeated him with Indra's help." "Some Western scholars have expressed different views about this Śambara — one doubts whether he was a really living person or only famous by name. Hillebrandt takes him to be a real person, the chief enemy of Divodāsa (p. 175:) and he thinks that he was a chief of the earlier inhabitants of this country, who, dwelling in hill-fortresses, gave trouble to the Āryas."
+- **arbudam** — "He is a Rākṣasa. In the Pañcaviṃśa Brāhmaṇa 25-13 [?] (as read) one named Arbuda is said to be a priest (*ṛtvij*) who performs the *grāvastuti* at the sarpa-sacrifice. Probably he may be the ṛṣi *Arbudaḥ Kādraveyaḥ* seen in the mantras of Aitareya Brāhmaṇa 6-1 [?]; Kauṣītaki Brāhmaṇa 29-1 [?]; Śatapatha Brāhmaṇa 13-… [?]. Not many matters about him are known."
+
+**Vyākaraṇa-prakriyā** *(pp. 175–176 — grammar pages, noted briefly)*
+- **arandhayaḥ**: *radha hiṃsāsaṃrādhyoḥ*, *curādi*, *laṅ* second singular *sip*; *ṇic* in the own sense; *num* by *radhijabhor aci*; *śap*, *guṇa*, *ayādeśa*: *arandhayaḥ*.
+- **atithigvāya**: *atithibhir gantavyaḥ atithigvaḥ*; *gam* with the Uṇādi suffix *ḍvu* ([?] as read "ḍva"); *ṭi* lost (*ṭeḥ*) though the *bha*-designation is absent; *m* lost; dative singular.
+- **kramīḥ**: *kramu pādavikṣepe*, *bhvādi*, *luṅ* second singular *sip*; *cli* replaced by *sic*; *iṭ*; *īṭ* by *asticisipo 'pṛkte*; *iṭ* before *īṭ* lost; *vṛddhi* barred by *hyantakṣaṇaśvasajāgṛṇiśvyeditām* (Pā. 7-2-5 as read [?]) since the root ends in *m*; *aṭ* not applied by *bahulaṃ chandasy amāṅyoge 'pi*; *ru*, *visarga*.
+- **padā**: from *pād* in the instrumental singular, *pad* by *padannomāsa…* (Pā. 6-1-63 as read [?]); the vibhakti-accent by *sāvekācas tṛtīyādiḥ* (the vibhakti after a mono-syllable stem is acute) overriding the *anudātta*; or by *ūḍidaṃ padādi…* (Pā. 6-1-171 as read [?]).
+- **jajñiṣe**: *janī prādurbhāve*, *divādi*, *liṭ* second singular *thās*, *se* by *thāsaḥ se*; *iṭ* because the ending is *ardhadhātuka*; reduplication, *halādiḥ śeṣaḥ*, *jajan + ise*; *gamahanajana…* (Pā. 6-4-98 as read [?]) removes the *a*; *n* → *ñ* by the conjunct with the *i*; *ṣatva* of *s* after *iṇ*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.5 complete; Rik 51.6's Saṃhitā written (printed p. 171, PDF 187); its Pada is on p. 172 (PDF 188).**
+### Rik 51.7 (pp. 176–, PDF 192–)
 
-**Next task:** continue at printed p. 172 (PDF 188) with the Pada of Rik 51.6 and its bhāṣya, then Riks 7–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 Vimada references and Uṇādi/Pāṇini numerals [?]; 51.4 "āsāvariṣṭāḥ" unresolved [?]; 51.5 Kauṣītaki quotation and all Ṛgveda numerals in the Pipru/Ṛjiśvan notes [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5) [sic].
+**Saṃhitā-pāṭha** *(p. 176; accents printed, not reproduced)*
+
+> **त्वे विश्वा तविषी सध्र्यग्घिता तव राधः सोमपीथाय हर्षते ।**
+> **तव वज्रश्चिकिते बाह्वोर्हितो वृश्चा शत्रोरव विश्वानि वृष्ण्या ॥ ७ ॥**
+
+*tve viśvā taviṣī sadhryag ghitā tava rādhaḥ somapīthāya harṣate |*
+*tava vajraś cikite bāhvor hito vṛścā śatror ava viśvāni vṛṣṇyā || 7 ||*
+
+**Pada-pāṭha** *(p. 176)*
+
+> त्वे इति । विश्वा । तविषी । सध्र्यक् । हिता । तव । राधः । सोमऽपीथाय । हर्षते ।
+> तव । वज्रः । चिकिते । बाह्वोः । हितः । वृश्च । शत्रोः । अव । विश्वानि । वृष्ण्या ॥ ७ ॥
+
+*tve iti | viśvā | taviṣī | sadhryak | hitā | tava | rādhaḥ | soma-pīthāya | harṣate |*
+*tava | vajraḥ | cikite | bāhvoḥ | hitaḥ | vṛśca | śatroḥ | ava | viśvāni | vṛṣṇyā || 7 ||*
+
+*(The Pada's "vṛśca" for the Saṃhitā's "vṛścā" is as printed.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 176–177)*
+
+> **हे इन्द्र त्वे त्वयि विश्वा तविषी सर्वं बलं सध्र्यक् [सम्यगञ्चनं?] यथा भवति तथा हिता निहिता । तथा तव राधो मनः सोमपीथाय सोमपानाय हर्षते । हृष्यति । किंच तव बाह्वोर्हस्तयोर्हितोऽवस्थितो वज्रश्चिकिते । अस्माभिर्ज्ञायते । अतः शत्रोः शातयितुर्वृत्रस्य विश्वानि सर्वाणि वृष्ण्या वृष्ण्यानि वीर्याण्यववृश्च । भेदनं कुरु ॥**
+
+*he indra tve tvayi viśvā taviṣī sarvaṃ balaṃ sadhryak [samyag añcanaṃ? — crowded, [?]] yathā bhavati tathā hitā nihitā | tathā tava rādho manaḥ somapīthāya somapānāya harṣate | hṛṣyati | kiṃca tava bāhvor hastayor hito 'vasthito vajraś cikite | asmābhir jñāyate | ataḥ śatroḥ śātayituḥ vṛtrasya viśvāni sarvāṇi vṛṣṇyā vṛṣṇyāni vīryāṇy ava vṛśca | bhedanaṃ kuru ||*
+
+**Translation of the bhāṣya:** "O Indra, in you (*tve*) all strength (*viśvā taviṣī*) is *sadhryak* — placed together, concentrated — *hitā*, laid. And your *rādhaḥ*, mind, rejoices (*harṣate*) for drinking soma (*somapīthāya*). Moreover, the thunderbolt, *hitaḥ*, placed, in your two arms, is known (*cikite*) to us. Therefore, of the enemy, the harassing Vṛtra, cut off (*ava vṛśca*) all (*viśvāni*) the manly powers (*vṛṣṇyā*) — split them."
+
+**Grammatical tail of the bhāṣya** *(p. 177 — characterized, not transcribed)*: *sadhryak* (*saha añcatīti*, the suffix *kvin*, the *sahasya sadhriḥ* substitution in the compound; accent); *rādhaḥ* (*rādhnoti samṛddho bhavaty anena*, "here *rādhaḥ* means mind"; *asun* suffix, initial acute because *n*-marked); *somapīthāya* (*pā pāne*, the suffix *thak* by *pātṛtudivacidhūsūsūtisūyatibhyas*… [?] — as read the list is crowded — with *ghumāsthā…* the *ī*); *harṣate* (*hṛṣa tuṣṭau*; *śap* by *vyatyaya*; *ātmanepada*); *cikite* (*kita jñāne*; the *liṭ* in the present-passive sense, by *chandasi luṅlaṅliṭaḥ*); *bāhvoḥ* (the vibhakti-accent *udāttena*); *vṛśca* (*oś vraścū chedane*, *tudādi*; *saṃprasāraṇa* by *grahijyā…*; the *vikaraṇa*-accent; lengthening in *saṃhitā* by *dyubhyo 'ṇ*…); *vṛṣṇyā* (*vṛṣa secane*, Uṇādi *nak*; *tatra bhavāni vṛṣṇyāni*, *bhave chandasi yat*; initial-acute by *yato 'nāvaḥ*; *śeś chandasi* — the *ś*-substitute dropped).
+
+**Pratipadārtha** *(p. 177)* — "(O Indra) **tve** — in you; **viśvā taviṣī** — all strength; **sadhryak hitā** — has been together concentrated; **tava** — your; **rādhaḥ** — mind; **somapīthāya** — for the drinking of the soma juice; **harṣate** — becomes glad; **tava bāhvoḥ** — in your hands; **hitaḥ** — placed; **vajraḥ** — the thunderbolt; **cikite** — has come to be known (to us; therefore); **śatroḥ** — of the destroying enemy; **viśvāni vṛṣṇyā** — all prowess; **ava vṛśca** — split off."
+
+**Bhāvārtha** *(p. 177)* — "O Indra, all strength is concentrated together in you. Your mind rejoices for the drinking of the soma juice. We know that you keep the thunderbolt in your hands. Therefore split off all the prowess of the destroying enemy."
+
+**English Translation (the source's own, p. 177)** — "O Indra, all vigour is fully concentrated in you ; your will delight to [sic: "your will" for "your mind" — printed so] drink the soma juice ; it is known by us that the thunderbolt is deposited in your hands ; cut off all prowess from the enemy."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 177 ff.**
+- **tve** — "*tvayi*: according to Vedic procedure, in the locative case the form *tve* is obtained in place of *tvayi*." *(The special topics of this Rik continue on p. 178; they are given in the next batch.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.6 complete; Rik 51.7 written through the English translation and the first Special Topic *tve* (printed p. 177, PDF 193). The rest of Rik 7's Special Topics and its Vyākaraṇa-prakriyā are on pp. 178– (PDF 194–) and are NOT yet written.**
+
+**Next task:** continue at printed p. 178 (PDF 194) with the remaining Special Topics and grammar of Rik 51.7 (begin with a heading "**Rik 51.7, continued**"), then Riks 8–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 Ṛgveda/Brāhmaṇa/Uṇādi/Pāṇini numerals all [?] (long lists of references on Pipru, Ṛjiśvan, Kutsa, Atithigva, Śambara not reconciled); 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [samyag añcanaṃ?]" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6) [sic].
