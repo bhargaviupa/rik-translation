@@ -7160,10 +7160,161 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 42.2, continued** *(from p. 443)*
+
+**English Translation (the source's own, p. 443)** — "O Pushan, if a wicked person, a robber or one who delights in evil deeds directs us to a wrong way, drive him away to a place far off." *(Scan noise at the end of the line; no full stop.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 443**
+- **aghaḥ** = *āhantā | durjātaḥ* — "a bad man; a wicked person."
+- **vṛkaḥ** — "*vṛka ādāne*; *vartate iti vṛkaḥ | asmākaṃ dhanasyāpahartā*: a thief who steals our wealth."
+- **ādideśati** — "one who commands [that we go by such a road]; who 'directs, points out'" (the English words are the source's).
+- **duḥśevaḥ** — "*duṣṭaṃ śevaṃ yasyāsau duḥśevaḥ | sevituṃ duḥśako duṣṭasukho vā*: one who is attached to doing bad deeds, or one who delights in them; a promoter of evil ways."
+- **apa jahi sma** = *apākuru* — "drive far away."
+
+**Vyākaraṇa-prakriyā** *(pp. 443–444 — grammar pages, noted briefly)*
+- **vṛkaḥ**: the root *kuka vṛka ādāne*; the suffix *ka* by *igupadhajñāprīkiraḥ kaḥ* [Pā. 3-1-135 as read]; since the suffix is *kit* there is no *guṇa* of the light penultimate. "*Vartaśe iti vṛkaḥ*": one who takes or receives; first-syllable acute by *vṛṣādīnāṃ ca*.
+- **duḥśevaḥ**: *dur* is a preverb; after the root *śīṅ* [print: *śīḍ*] the suffix *vaṇ*… [as read, crowded [?]: *iñjśīṅbhyāṃ veṇ*, Uṇ. as read]: *guṇa*; "*duṣṭaṃ śevaṃ yasya saḥ*", a bahuvrīhi; *parādiś chandasi bahulam* gives the latter member first-syllable acute. "If one explains it thus the etymology does not fit the sense; so another process may be stated: *duḥkhena sevyate iti duḥśevaḥ*, from the root *sev sevane*; *īṣad-duḥ-suṣu kṛcchrākṛcchrārtheṣu khal*; *t* for *s* [by *varṇavyatyaya*]; the *e* before the suffix is acute by the *lit* accent; after the compound is made the accent of the first member of a *kṛt*-ending latter member comes by *gatikārakopapadāt kṛt*."
+- **ādideśati**: root *diśa atisarjane*; *leṭ*, *tip*; the augment *aṭ*; *bahulaṃ chandasi* [as read] *śap* → *ślu*; doubling, loss of *ś* of the reduplicate; *di + diś + ati*; *guṇa* of the light penultimate. Although *sārvadhātuke ca / abhyastasya aci piti sārvadhātuke* [Pā. 6-4-… as read] would prohibit the *guṇa* of a light penultimate in a reduplicated stem before a *pit* *sārvadhātuka* beginning with a vowel (the name *abhyasta* for a doubled word is laid down by *ubhe abhyastam*), by *bahulaṃ chandasīti vaktavyam* [vārttika, as read [?]] the prohibition is only variously applied in the Veda; hence here the prohibition does not occur.
+- **pathaḥ**: *patheś ṣṭhaś ca* — पतेः ष्ठ च — [Uṇ. 4-[?], as read]: after the root *patlṛ* the suffix *ini* with *th* for *t*: *pathin*; the suffix accent makes the *in* acute; *bhasya ṭer lopaḥ* [Pā. 6-4-143 as read]: when the ablative-genitive singular *ṅas* follows, the *in* is lost; for the ending, which is the cause of the loss of an acute, *anudāttasya ca yatrodāttalopaḥ* [Pā. 6-1-161 as read] gives it the acute. Rik 2 ends here (*|| 2 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 442 (PDF 456) reached; introduction, heading, Rik 42.1 complete (with its long Special Topics essay on Pūṣan); Rik 42.2's Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written.**
+### Rik 42.3 (pp. 444–447, PDF 458–461)
 
-**Next task:** continue at printed p. 443 (PDF 457) with the English, Special Topics and grammar of Rik 42.2, then Riks 3–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 457 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 444; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) the introduction's Gṛhya-sūtra reference reads 3-8-10 in the Sanskrit and 3-2-10 in the Kannada [?]; its Anukramaṇikā clause ("*pauṣṇam*") is read with doubt; (3) Rik 1's bhāṣya is crowded and partly garbled in the middle (*adbhyaḥ pṛthivī*, *napātrajā*, *pūṣādhvanaḥ pākṣityārheyaṃ vai pūṣā*, the Śatapatha numeral) — the translation of those lines is tentative; (4) the long Special Topics essay on Pūṣan quotes eight Ṛgveda passages and two Nirukta/Brāhmaṇa passages untranslated in the source; all my glosses are mine and tentative and every reference numeral is read with doubt [?]; (5) the grammar of *pra ṇaḥ* (Pāṇini's *upasargād anotparaḥ* vs the Mahābhāṣya's *bahulam*) is summarized from a crowded passage; every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]"; (6) Rik 2: the clause "*bahulaṃ chandasīti vaktavyam*" with its sūtra number is crowded [?].
+> **अप त्यं परिपन्थिनं मुषीवाणं हुरश्चितम् ।**
+> **दूरमधि स्रुतेरज ॥ ३ ॥**
+
+*apa tyaṃ paripanthinaṃ muṣīvāṇaṃ huraścitam |*
+*dūram adhi sruter aja || 3 ||*
+
+**Pada-pāṭha** *(p. 444)*
+
+> अप । त्यम् । परिऽपन्थिनम् । मुषीवाणम् । हुःऽचितम् ।
+> दूरम् । अधि । स्रुतेः । अज ॥ ३ ॥
+
+*apa | tyam | pari-panthinam | muṣīvāṇam | huḥ-citam |*
+*dūram | adhi | sruteḥ | aja || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 445)*
+
+> **त्वं तादृशं पूर्वोक्तगुणयुक्तं स्रुतेर्मार्गादधि दूरमत्यंतदूरदेशं प्रति अपाज । अपगमय । कीदृशं । परिपन्थिनं मार्गप्रतिबन्धकं मुषीवाणं तस्कररूपं । मुषीवेति तस्करस्य नाम । मुषीवान् मलिम्लुश्च इति तन्नामसु पाठात् । हुरश्चितं कौटिल्यानां सञ्चेतारं ॥ परिपन्थिनं । छन्दसि परिपन्थिपरिपरिणौ पर्यवस्थातरि । पा. ५-२-८९ । इति शत्रवाभिधेये इनिप्रत्ययान्तो निपातितः । मुषीवाणं । मुष स्तेये । मोषणं मुषिः । औणादिको भावे किप्रत्ययः । मुषिं वनति सम्भजत इति मुषीवा । वन षण सम्भक्तौ । अन्येभ्योऽपि दृश्यन्त इति विच्प्रत्ययः । सर्वनामस्थाने चासम्बुद्धौ । पा. ६-४-८ । इति दीर्घः । अन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वं । हुरश्चितं । हुर्छा कौटिल्ये । सम्पदादिलक्षणो भावे क्विप् । रात्सस्य । पा. ८-२-२४ [?] । इति सकारलोपः [print: *ra-ālloṇpa iti ṣakāralopaḥ* [?]]। हुरश्चिनोतीति हुरश्चित् । चिनोतेः क्विपि तुगागमः । तत्पुरुषे कृति बहुलमित्यलुक् । कृदुत्तरपदप्रकृतिस्वरत्वं । स्रुतेः । स्रु गतौ । क्तिच्क्तौ च सञ्ज्ञायामिति क्तिच् । चित इत्यन्तोदात्तत्वं । अज । अज गतिक्षेपणयोः ॥**
+
+*tvaṃ tādṛśaṃ pūrvoktaguṇayuktaṃ sruter mārgād adhi dūram atyantadūradeśaṃ prati apāja | apagamaya | kīdṛśaṃ | paripanthinaṃ mārgapratibandhakaṃ muṣīvāṇaṃ taskararūpaṃ | muṣīveti taskarasya nāma | muṣīvān malimluś ceti tannāmasu pāṭhāt | huraścitaṃ kauṭilyānāṃ saṃcetāraṃ || paripanthinaṃ | chandasi paripanthiparipariṇau paryavasthātari | pā. 5-2-89 | iti śatravābhidheye iniprayayāntaṃ nipātitaḥ [sic: nipātitam] | muṣīvāṇaṃ | muṣa steye | moṣaṇaṃ muṣiḥ | auṇādiko bhāve kipratyayaḥ | muṣiṃ vanati sambhajata iti muṣīvā | vana ṣaṇa sambhaktau | anyebhyo 'pi dṛśyanta iti vicpratyayaḥ | sarvanāmasthāne cāsambuddhau | pā. 6-4-8 | iti dīrghaḥ | anyeṣām api dṛśyata iti pūrvapadasya dīrghatvaṃ | huraścitaṃ | hurchā kauṭilye | sampadādilakṣaṇo bhāve kvip | rātsasya | pā. 8-2-24 [?] | iti sakāralopaḥ | huraścinotīti huraścit | cinoteḥ kvipi tugāgamaḥ | tatpuruṣe kṛti bahulam ity aluk | kṛduttarapadaprakṛtisvaratvaṃ | sruteḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic | cita ity antodāttatvaṃ | aja | aja gatikṣepaṇayoḥ ||*
+
+*(In the grammatical tail the words after "pā. 5-2-89 | iti" (the form is stated as ending in the suffix* ini*), and the clause "rātsasya … sakāralopaḥ" with its number, are crowded [?]; the translation below is tentative for those clauses.)*
+
+**Translation:** "You, such a one — [him] endowed with the qualities spoken of before — *sruteḥ adhi*, from the road, *dūram*, to a very far place, *apa aja*, drive off: make go away. What kind? *Paripanthinam*, one who obstructs the road; *muṣīvāṇam*, of the nature of a thief ('*muṣīvā*' is a name for a thief, since it is read among the names of thief: '*muṣīvān*, *malimlu*' [and so on]); *huraścitam*, a gatherer of crookednesses. *Paripanthinam*: by *chandasi paripanthi-paripariṇau paryavasthātari* [Pā. 5-2-89] the form ending in *ini* is irregularly given in the sense of enemy. *Muṣīvāṇam*: root *muṣa steye*; '*moṣaṇam*' is *muṣiḥ*, the Uṇādi *ki* in the abstract; '*muṣiṃ vanati*', one who shares in theft: *muṣīvā*; *vic* by *anyebhyo 'pi dṛśyante*; the lengthening by *sarvanāmasthāne cāsambuddhau* [Pā. 6-4-8]; the lengthening of the first member by *anyeṣām api dṛśyate*. *Huraścitam*: root *hurchā kauṭilye*; *kvip* of the *sampadādi* class in the abstract sense; the loss of *s* … [crowded]; '*huraś cinoti*', he gathers crookedness: *huraścit*; the augment *tuk* with *kvip* after *ci*; *aluk* by *tatpuruṣe kṛti bahulam*; the accent of the first member of a compound ending in a *kṛt*. *Sruteḥ*: root *sru gatau*; *ktic* by *ktickktau ca saṃjñāyām*; final-acute by *citaḥ*. *Aja*: root *aja gatikṣepaṇayoḥ*."
+
+**Pratipadārtha** *(p. 445)* — "**paripanthinam** — one who makes obstruction on our way; **muṣīvāṇam** — [of] the form of a thief; **huraścitam** — one who deceives; **tyam** — [with other bad qualities mentioned before] that enemy of ours; **sruteḥ** — from the road; **adhi dūram** — to a very distant region; **apa aja** — drive away."
+
+**Bhāvārtha** *(p. 445)* — "O Pūṣan, drive far away from our way our enemy who makes obstruction to our straight way and hinders our journey, who is a thief and a deceiver."
+
+**English Translation (the source's own, p. 445)** — "Drive him far away from the road, the hinderer of our journey, a thief a deceiver." *(The comma is missing between "thief" and "a deceiver" in the print.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 445–446**
+- **tyam** — "the word *tya* has the sense of *tat*; *tyam* means 'such a one'."
+- **paripanthinam** = *mārgapratibandhakam* — "one who obstructs people travelling on the road; a road-obstructor: 'hinderer, obstructer'" (the English words are the source's).
+- **huraścitam**, **muṣīvāṇam** — "*muṣa steye*; *moṣaṇaṃ muṣiḥ | muṣiṃ vanati sambhajata iti muṣīvā taṃ | taskararūpaṃ puruṣam*: a thief, a robber. Since the words *muṣīvān* and *huraścit* are read among the fourteen names of thief beginning with *tṛpuḥ*, *takvā* [as read], *muṣīvān huraścit* means a thief, a robber. As the word *huraścit* is formed from the root *hurchā kauṭilye*, the sense 'one who deceives' may be given: *huraś cinotīti huraścit*, one who commits fraud."
+- **sruteḥ** = *sru gatau* — "*sruti* means a way along which one goes or travels; *sruteḥ*: from the road."
+- **aja** = *aja gatikṣepaṇayoḥ* — "drive [away]."
+
+**Vyākaraṇa-prakriyā** *(pp. 446–447 — grammar pages, noted briefly)*
+- **paripanthinam**: *chandasi paripanthiparipariṇau paryavasthātari* — छन्दसि परिपन्थिपरिपरिणौ पर्यवस्थातरि — [Pā. 5-2-89 as read]: in the Veda the words *paripanthin* and *paripariṇ*, in the sense *paryavasthātṛ* (enemy), are irregularly formed; the suffix *ini* in its own sense after the word *paryavasthātṛ*, and *panthi*, *pari* as substitutes for *avasthātṛ*, are irregularly given.
+- **muṣīvāṇam**: *muṣa steye*; *kiḥ* in the abstract by the Uṇādi; since the suffix is *kit* there is no *guṇa*; "*moṣaṇaṃ muṣiḥ*"; "*muṣiṃ vanati*, one who obtains theft"; *anyebhyo 'pi dṛśyante* [Pā. 3-2-75 as read]: *manin*, *kvanip*, *vanip* and *vic* come after roots as well; the suffix *vic*: *muṣivan*, then *am*; *sarvanāmasthāne cāsambuddhau* — सर्वनामस्थाने चासम्बुद्धौ — [Pā. 6-4-8 as read]: the lengthening of the penultimate vowel of an *n*-ending word before a non-vocative *sarvanāmasthāna* suffix; *muṣivān + am*; *anyeṣām api dṛśyate* gives the lengthening of *muṣi*.
+- **huraścitam**: *hurchā kauṭilye*; *sampadādibhyaḥ kvip*; *rāllopaḥ* — रात्सस्य — [Pā. 8-2-24 as read]: the *kvip* suffix [print: *kvip pratyaya*]; before suffixes beginning with *jh* or a nasal, the *ch* or *v* after *r* are lost; so the *ch* after the *r* is lost: *hur*; "*huraḥ ciraṇoti iti huraścit*"; *ci ṣ cayane*, the root; *hrasvasya piti kṛti tuk* — ह्रस्वस्य पिति कृति तुक् — the augment *tuk*; *tatpuruṣe kṛti bahulam* — तत्पुरुषे कृति बहुलम् — [Pā. 6-3-14 as read]: in a tatpuruṣa whose latter member ends in a *kṛt*, *aluk* of the locative is variously found; so by the word *bahula* the *aluk* also of the genitive-case ending is understood; the layman's analysis "*huraḥ cinoti*" ends in the accusative plural; but in the technical analysis it is *hur + am + cit*; since there is a *kṛt*-ending word, the sixth case by *kartṛkarmaṇoḥ kṛti*; *cit* is acute by the root accent; after the compound is made, by *gatikārakopapadāt kṛt* the *kṛt*-ending latter member keeps its own accent, so the original accent remains.
+- **sruteḥ**: *ktic ktau ca saṃjñāyām* — क्तिच्क्तौ च सञ्ज्ञायाम् — [Pā. 3-3-174 as read]: *ktic* after *sru gatau*; prohibition of *guṇa*; final-acute by *citaḥ*.
+- **aja**: root *aja gatikṣepaṇayoḥ*, first class; *loṭ*, madhyama, *sip* → *hi*, *śap*; *ato heḥ* [Pā. 6-4-105] elides *hi*; wholly unaccented. Rik 3 ends here (*|| 3 ||*).
+
+---
+
+### Rik 42.4 (pp. 447–449, PDF 461–463)
+
+**Saṃhitā-pāṭha** *(p. 447; accents not reproduced)*
+
+> **त्वं तस्य द्वयाविनोऽघशंसस्य कस्य चित् ।**
+> **पदाभि तिष्ठ तपुषिम् ॥ ४ ॥**
+
+*tvaṃ tasya dvayāvino 'ghaśaṃsasya kasya cit |*
+*padābhi tiṣṭha tapuṣim || 4 ||*
+
+**Pada-pāṭha** *(p. 447)*
+
+> त्वम् । तस्य । द्वयाविनः । अघऽशंसस्य । कस्य । चित् ।
+> पदा । अभि । तिष्ठ । तपुषिम् ॥ ४ ॥
+
+*tvam | tasya | dvayāvinaḥ | agha-śaṃsasya | kasya | cit |*
+*padā | abhi | tiṣṭha | tapuṣim || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 447–448)*
+
+> **हे पूषन् त्वं तस्य चोरस्य तपुषिं परसन्तापकं देहं पदाभि तिष्ठ । भवदीयेन पादेनाक्रम्य तिष्ठ । कीदृशस्य । द्वयाविनः प्रत्यक्षापहारः परोक्षापहारश्चेति यद्द्वयं तद्युक्तस्य अघशंसस्य अस्माकमघमनिष्टं शंसतः । अघशंस इति तस्करनाम । तृप्सुः तक्वा …[?] इति । कस्य चित् अनिर्दिष्टविशेषस्य कस्यापि ॥ द्वयाविनः । द्वयमस्यास्तीति द्वयावी । बहुलं छन्दसीति मत्वर्थीयो विनिः । अन्येषामपि दृश्यत इति दीर्घत्वं । अघशंसस्य । अघे पापे शंसो मनसोऽभिलाषो यस्य सोऽयमघशंसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । तपुषिं । तापयत्यनेनान्यमिति तपुषिः । औणादिक उषिन्प्रत्ययः । बहुलवचनादिकारस्येत्संज्ञा । नित्त्वादाद्युदात्तत्वं ॥**
+
+*he pūṣan tvaṃ tasya corasya tapuṣiṃ parasantāpakaṃ dehaṃ padābhi tiṣṭha | bhavadīyena pādenākramya tiṣṭha | kīdṛśasya | dvayāvinaḥ pratyakṣāpahāraḥ parokṣāpahāraś ceti yad dvayaṃ tadyuktasya aghaśaṃsasya asmākam agham aniṣṭaṃ śaṃsataḥ | aghaśaṃsa iti taskaranāma | tṛpsuḥ takvā … [?] iti | kasya cit anirdiṣṭaviśeṣasya kasyāpi || dvayāvinaḥ | dvayam asyāstīti dvayāvī | bahulaṃ chandasīti matvarthīyo viniḥ | anyeṣām api dṛśyata iti dīrghatvaṃ | aghaśaṃsasya | aghe pāpe śaṃso manaso 'bhilāṣo yasya so 'yam aghaśaṃsaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | tapuṣiṃ | tāpayaty anenānyam iti tapuṣiḥ | auṇādika uṣinpratyayaḥ | bahulavacanād ikārasyetsaṃjñā | nittvād ādyudāttatvaṃ ||*
+
+*(In the line "tṛpsuḥ takvā … iti", where the bhāṣya refers to the list of thief-names, the print has an abbreviated, crowded clause [?]. The bhāṣya's final clause on the* ikāra *as an* it *is read in drift.)*
+
+**Translation:** "O Pūṣan, you, that thief's — *tapuṣim*, the body that torments others — *padā abhi tiṣṭha*, stand upon it, treading [it] with your foot. Whose? *Dvayāvinaḥ*, [of him] possessed of the pair of [things] — theft done openly and theft done secretly; *aghaśaṃsasya*, who wishes evil to us ('*aghaśaṃsa*' is a name for thief, as in the list *tṛpsuḥ*, *takvā* …); *kasya cit*, of whomever, without any particular specification. *Dvayāvinaḥ*: '*dvayam asyāsti*'; *vini* in the sense of *matup* by *bahulaṃ chandasi*; the lengthening by *anyeṣām api dṛśyate*. *Aghaśaṃsasya*: 'he whose *śaṃsa*, desire of mind, is for *agha*, evil': a bahuvrīhi with the accent of the first member. *Tapuṣim*: '*tāpayaty anenānyam*', that by which another is tormented: *tapuṣiḥ*; the Uṇādi suffix *uṣin*; by the word *bahula* the *i* takes the name of an *it*-letter; because it is *nit*, first-syllable acute."
+
+**Pratipadārtha** *(p. 448)* — "(**pūṣan** — O Pūṣan) **tvam** — you; **dvayāvinaḥ** — [one who is] possessed of two kinds of thievery, that which steals openly and that which steals secretly; **aghaśaṃsasya** — [of one who] desires evil for us; **kasya cit** — of whichever one; **tasya** — of that thief; **tapuṣim** — the body that causes distress to others; **padā tiṣṭha** — stand upon with your foot."
+
+**Bhāvārtha** *(p. 448)* — "O Pūṣan, whoever the thief may be, who robs our possessions openly in our presence and secretly behind our back when we are not there — who does both these kinds of theft, who wishes evil for others and causes distress to the world — trample the body of such a thief under your foot."
+
+**English Translation (the source's own, p. 448)** — "Trample with your feet, the body of that deceitful and evil-minded thief (who both steals and robs) whoever he may be." *(In the print the word "steals" is overprinted/struck through and "both steals" is garbled — "both stenls" — a scan defect; I give the words as best read.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 448–449**
+- **dvayāvinaḥ** — "*pratyakṣāpahāraḥ parokṣāpahāraś ceti yad dvayaṃ cauryaṃ tadyuktasya*: of one who has two kinds of theft: one who snatches by force, as if seen, and one who steals secretly, as if unseen: in the stealing there are two kinds; it is meant that he does both these kinds of theft" (the source adds: "one who steals and robs").
+- **aghaśaṃsasya** — "one who wishes us evil. Since the word *aghaśaṃsaḥ* is read among the fourteen names of thief beginning with *tṛpuḥ*, *takvā*, this word means a thief."
+
+**Vyākaraṇa-prakriyā** *(p. 449 — grammar page, noted briefly)*
+- **tapuṣim**: "*paraṃ saṃtāpakaṃ deham*: a body that torments others." The same as in the bhāṣya.
+- **dvayāvinaḥ**: "*dve avayave asya*": *saṃkhyāyā avayave tayap* — संख्याया अवयवे तयप् — [Pā. 5-2-42 as read]: after a numeral, in the sense of 'part', *tayap*; *dvitribhyāṃ tayasyāyaj vā* — द्वित्रिभ्यां तयस्यायज्वा — [Pā. 5-2-43 as read]: *ayac* as substitute for *tayap* after *dvi* and *tri*: *dvi + aya*; *yasyeti ca* the loss of the *i*; "*dvayam asyāsti*": *bahulaṃ chandasi* [Pā. 5-2-122 as read] gives *vini* in the sense of *matup*; *dvaya + vin*; *anyeṣām api dṛśyate* the lengthening of the *dvaya*: *dvayāvin*; *am* [print: *avan*] suffix.
+- **aghaśaṃsasya**: "*aghe* [in sin] *śaṃsaḥ* [desire in the mind] *yasya saḥ*": a bahuvrīhi; the accent of the first member.
+- **tapuṣim**: root *tapa santāpe*; "*tāpayaty anenānyam*"; hence 'one who torments'. In the sense of the instrument the Uṇādi suffix *uṣin* comes; *tap + uṣi*, then *am*: *tapuṣim*; since the suffix is *nit*, first-syllable acute at the end of the suffix [as printed: *pratyayāntaḥ ādyudāttaḥ*]. Rik 4 ends here (*|| 4 ||*).
+
+---
+
+### Rik 42.5 (pp. 449–, PDF 463–)
+
+**Saṃhitā-pāṭha** *(p. 449 foot; accents not reproduced)*
+
+> **आ तत्ते दस्र मन्तुमः पूषन्नवो वृणीमहे ।**
+> **येन पितॄनचोदयः ॥ ५ ॥**
+
+*ā tat te dasra mantumaḥ pūṣann avo vṛṇīmahe |*
+*yena pitṝn acodayaḥ || 5 ||*
+
+**Pada-pāṭha** *(p. 450)*
+
+> आ । तत् । ते । दस्र । मन्तुऽमः । पूषन् । अवः । वृणीमहे ।
+> येन । पितॄन् । अचोदयः ॥ ५ ॥
+
+*ā | tat | te | dasra | mantu-maḥ | pūṣan | avaḥ | vṛṇīmahe |*
+*yena | pitṝn | acodayaḥ || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 450)*
+
+> **हे मन्तुमो ज्ञानवन् दस्र दर्शनीय यद्वा वैरिणामुपक्षयकारिन् पूषन् ते त्वदीयं तदवस्थादृशं रक्षणमा वृणीमहे । सर्वतः प्रार्थयामहे । येन रक्षणेन पितॄन् अङ्गिरःप्रभृतीन्स्त्वदेवानचोदयः प्रेरितवानसि । तत्प्रार्थयाम इति पूर्वत्रान्वयः ॥ दस्र । दसि दंसनदर्शनयोः । स्पायितञ्चीत्यादिना रक् । आगमानुशासनस्यानित्यत्वान्नुमभावः । यद्वा । दसु उपक्षये इत्यस्माद् अन्तर्भावितण्यर्थात्पूर्ववद्रक् । मन्तुमः । मन ज्ञाने । कमिमनिजनीत्यादिना । उ. १-७३ [?] । भावे तुप्रत्ययः । मन्तुर्ज्ञानमस्यास्तीति मन्तुमान् । सम्बुद्धौ मतुवसो रुरिति रुत्वं । अचोदयः । चुद सम्चोदने । चौरादिकः ॥ ५ ॥**
+
+*he mantumo jñānavan dasra darśanīya yadvā vairiṇām upakṣayakārin pūṣan te tvadīyaṃ tadavasthādṛśaṃ rakṣaṇam ā vṛṇīmahe | sarvataḥ prārthayāmahe | yena rakṣaṇena pitṝn aṅgiraḥprabhṛtīn stvadevān acodayaḥ preritavān asi | tat prārthayāma iti pūrvatrānvayaḥ || dasra | dasi daṃsanadarśanayoḥ | spāyitañcītyādinā rak | āgamānuśāsanasyānityatvān numabhāvaḥ | yadvā | dasu upakṣaye ity asmād antarbhāvitaṇyarthāt pūrvavad rak | mantumaḥ | mana jñāne | kamimanijanītyādinā | u. 1-73 [?] | bhāve tupratyayaḥ | manturjñānam asyāstīti mantumān | sambuddhau matuvaso rur iti rutvaṃ | acodayaḥ | cuda saṃcodane | caurādikaḥ || 5 ||*
+
+*(The word "stvadevān" after "aṅgiraḥprabhṛtīn" is crowded and doubtful [?]; the translation leaves it out.)*
+
+**Translation:** "O *mantumaḥ*, possessing knowledge; *dasra*, beautiful to see, or, one who causes the decay of enemies; Pūṣan — *te*, your, *tat*, that [kind of] *avaḥ*, protection, *ā vṛṇīmahe*, we ask for on all sides: that protection by which you *acodayaḥ*, urged on, *pitṝn*, the forefathers beginning with Aṅgiras [the word after it is doubtful [?]]. We pray for that: so it is connected with what precedes. *Dasra*: root *dasi daṃsanadarśanayoḥ*; *rak* by *spāyitañci…*; because the teaching of augments is not constant, no *num*; or from the root *dasu upakṣaye* with an implicit causative sense, *rak* as before. *Mantumaḥ*: root *mana jñāne*; the abstract *tu* by *kamimanijanī…* [Uṇ. 1-73 [?]]; '*manturjñānam asyāsti*', one who has knowledge: *mantumān*; in the vocative the *ru* by *matuvaso ruḥ*. *Acodayaḥ*: root *cuda saṃcodane*, of the *curādi* class."
+
+**Pratipadārtha** *(p. 450)* — "**mantumaḥ** — one who has subtle knowledge; **dasra** — one of beautiful form, or one who destroys enemies; **pūṣan** — O Pūṣan; **te** — your; **yena** — by which protection; **pitṝn** — the forefathers (Aṅgiras and others); **acodayaḥ** — you encouraged and caused to prosper; **tat** — that (your) protection; **ā vṛṇīmahe** — we ask for on all sides."
+
+**Bhāvārtha** *(p. 450)* — "O Pūṣan, you are of subtle knowledge, of beautiful form, and a destroyer of enemies. Formerly, favouring them with your protection, you gave encouragement to Aṅgiras and the others, and through them you made the world prosper. Even now we ask for that protection of yours on all sides."
+
+**English Translation (the source's own, p. 450, begun)** — "O wise and handsome Pushan, we entreat you that protection which you extended to our ancestors" *(the sentence continues on p. 451, not yet written)*.
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 450 (PDF 464) reached; introduction, heading and Riks 42.1–42.4 complete; Rik 42.5's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the first words of its English written (the English sentence continues on p. 451).**
+
+**Next task:** continue at printed p. 451 (PDF 465) with the rest of the English, then the Special Topics and grammar of Rik 42.5, then Riks 6–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 465 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) introduction: Gṛhya-sūtra reference 3-8-10 (Sanskrit) vs 3-2-10 (Kannada) [?]; Anukramaṇikā clause "*pauṣṇam*" read with doubt; (3) Rik 1: the bhāṣya is crowded and partly garbled in the middle (translation of those lines tentative); the Special Topics essay on Pūṣan quotes eight Ṛgveda passages untranslated in the source — my glosses are tentative, all reference numerals [?]; the *pra ṇaḥ* / *upasargād anotparaḥ* argument summarized from crowded print; (4) Rik 2: the root *śīṅ*/*śīḍ* and *iñjśīṅbhyāṃ…* suffix-name for *duḥśevaḥ*, and the vārttika on *bahulaṃ chandasi* (guṇa-prohibition) are crowded [?]; (5) Rik 3: the grammatical tail (the sūtra naming *ini* for *paripanthin*; the *rāt sasya* clause) is crowded [?]; the source's English lacks a comma ("a thief a deceiver"); (6) Rik 4: the Nirukta/Nighaṇṭu list "*tṛpsuḥ takvā …*" is abbreviated in the print; the source's English is overprinted ("both stenls") — read as "both steals" [scan defect]; (7) Rik 5: one word after "*aṅgiraḥprabhṛtīn*" in the bhāṣya is crowded [?]; (8) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
