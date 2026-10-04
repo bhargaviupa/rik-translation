@@ -10022,8 +10022,166 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 46.7, continued** *(from p. 589)*
+
+**Pada-pāṭha** *(p. 589)*
+
+> आ । नः । नावा । मतीनाम् । यातम् । पाराय । गन्तवे ।
+> युञ्जाथाम् । अश्विना । रथम् ॥ ७ ॥
+
+*ā | naḥ | nāvā | matīnām | yātam | pārāya | gantave |*
+*yuñjāthām | aśvinā | ratham || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 589)*
+
+> **हे अश्विना मतीनां स्तुतीनां पाराय गन्तवे पारं गन्तुं नावा नौरूपेण गमनसाधनेन नोऽस्मान्प्रत्या यातं । समुद्रमध्यादागच्छतं । भूमावागन्तुं रथं भवदीयं युञ्जाथां । साश्वं कुरुतम् ॥ नावा । सावेकाच इति विभक्तेरुदात्तत्वं । गन्तवे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । युञ्जाथां । युजिर् योगे । लोट्याथामिति रुधादित्वाच्छ्नम् । श्नसोरल्लोपः । प्रत्ययस्वरः ॥**
+
+*he aśvinā matīnāṃ stutīnāṃ pārāya gantave pāraṃ gantuṃ nāvā naurūpeṇa gamanasādhanena no 'smān pratyā yātaṃ | samudramadhyād āgacchataṃ | bhūmāv āgantuṃ rathaṃ bhavadīyaṃ yuñjāthāṃ | sāśvaṃ kurutam || nāvā | sāvekāca iti vibhakter udāttatvaṃ | gantave | tumarthe sesen iti tavenpratyayaḥ | nittvād ādyudāttatvaṃ | yuñjāthāṃ | yujir yoge | loṭy āthām iti rudhādityāc chnam | śnasor allopaḥ | pratyayasvaraḥ ||*
+
+**Translation:** "O Aśvins, to go across to the farther shore of the *matīnām*, praises (*stutīnām*), *pārāya gantave* — *nāvā*, in the form of a boat, with a means of going, *naḥ* — to us, *ā yātam*, come, from the middle of the sea; and, to come on the earth, *ratham yuñjāthām*, yoke your chariot (make it with its horses). *Nāvā*: the case-ending is acute by *sāvekāca…*. *Gantave*: the suffix *tavenū* by *tumarthe sesenase…*; being *nit*, the initial acute. *Yuñjāthām*: root *yujir yoge*, in the imperative *āthām*; *śnam* because of the *rudhādi* class; the *a* of *śna* drops; the suffix-accent."
+
+**Pratipadārtha** *(p. 589)* — "**aśvinā** — O Aśvin gods; **matīnām** — of the praises (as vast as the sea); **pārāya gantave** — in order to go to the farther shore; **nāvā** — in the form of a boat; **naḥ** — facing us; **āyātam** — come graciously; **rathaṃ** — your chariot; **yuñjāthām** — join with the horses."
+
+**Bhāvārtha** *(p. 589)* — "O Aśvin gods, in the form of a boat, fit for crossing the ocean of stotras vast as the sea, come facing us; and, to come down from above to the earth, harness your horses to the chariot."
+
+**English Translation (the source's own, p. 589)** — "O Aswins, come as a ship to bear us over the ocean of praises ; harness your car."
+
+**Special Topics (*viśeṣa-viṣaya*, singular in the print), pp. 589–590** — "The sense of this ṛk does not fit properly. 'O Aśvin gods, to reach the shore — the end — of the sea of the stotras that we are making; that is, [come so that] you hear our stotras; hearing them and being satisfied, make your chariot ready to come near us': this may be the chief idea."
+
+**Vyākaraṇa-prakriyā** *(p. 590 — grammar page, noted briefly)*
+- **nāvā**: after the word *nau*, the instrumental singular suffix *ṭā*; *eco 'yavāyāvaḥ* (Pā. 6-1-78 as read) gives *āv* for the *o*; *sāvekācaḥ…* — the case-ending is acute.
+- **gantave**: root *gamḷ gatau*; *tumarthe sesenasase…* gives the suffix *tavenū*; *gam + tave*; *naś chapadāntasya jhali* (Pā. 8-3-24 as read) gives the *anusvāra* for *m*; *anusvārasya yayi parasavarṇaḥ* (Pā. 8-4-58 as read) the homogeneous nasal; the *nit* suffix gives the initial acute.
+- **yuñjāthām**: root *yujir yoge*, *loṭ*, *ātmanepada*, second person dual *āthām*; *rudhādibhyaḥ śnam*; *yunaj + āthām*; *śnasor allopaḥ* (Pā. 6-4-111 as read) drops the *a* of the *śna* suffix; the substitute-treatment (*sthānivadbhāva*) of the dropped *a* is denied by the rule beginning *na padānta-dvirvacana-vareyalopa-svara-savarṇānusvāra-dīrghajaś-cartvidhiṣu* (Pā. 1-1-58 as read); the *anusvāra* and homogeneous nasals as before; being at the head of a *pāda*, no all-unaccented; the suffix-accent. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 588 (PDF 602) reached; heading, introduction and Riks 46.1–46.6 complete; Rik 46.7's Saṃhitā written at the foot of p. 588 (its Pada is on p. 589).**
+### Rik 46.8 (pp. 590–592, PDF 604–606)
 
-**Next task:** continue at printed p. 589 (PDF 603) with the Pada of Rik 46.7 and its bhāṣya etc.; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 603 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.6: "yad annam" read from "yeḍannam" [?]; Pāṇini numerals "as read [?]"; the *sanvat*-discussion outlined only. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active. (The remote branch also holds user-added PDFs, merged in; no conflict.)
+**Saṃhitā-pāṭha** *(p. 590; accents not reproduced)*
+
+> **अरित्रं वां दिवस्पृथु तीर्थे सिन्धूनां रथः ।**
+> **धिया युयुज्र इन्दवः ॥ ८ ॥**
+
+*aritraṃ vāṃ divas pṛthu tīrthe sindhūnāṃ rathaḥ |*
+*dhiyā yuyujra indavaḥ || 8 ||*
+
+**Pada-pāṭha** *(p. 590)*
+
+> अरित्रम् । वाम् । दिवः । पृथु । तीर्थे । सिन्धूनाम् । रथः ।
+> धिया । युयुज्रे । इन्दवः ॥ ८ ॥
+
+*aritram | vām | divaḥ | pṛthu | tīrthe | sindhūnām | rathaḥ |*
+*dhiyā | yuyujre | indavaḥ || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 591)*
+
+> **हे अश्विनौ वां युवयोर्दिवस्पृथु द्युलोकादपि विस्तीर्णमरित्रं गमनसाधनं नौरूपं सिन्धूनां समुद्राणां तीर्थेऽवतरणप्रदेशे विद्यते इति शेषः । रथश्च भूमौ गन्तुं विद्यते । इन्दवः सोमा धिया भवद्विषयेण कर्मणा युयुज्रे । युक्ता बभूवुः ॥ अरित्रं । ऋ गतौ । अर्तिलूधूसूखनसहचर इत्रः । पा. ३-२-१८४ [?] । इति करण इत्रप्रत्ययः । प्रत्ययस्वरः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वं । तीर्थे । तॄ प्लवनतरणयोः । पात्र्यतुदिवचिरिचिसिचिभ्यस्थक् [?] । उ. २-२ [?] । इति थक् । ऋत इद्धातोरिति इत्वं । हलि चेति दीर्घः । युयुज्रे । लिटेरयो रे [?] । पा. ६-४-८२ [?] । इतीरेचो रेआदेशः ॥**
+
+*he aśvinau vāṃ yuvayor divas pṛthu dyulokād api vistīrṇam aritraṃ gamanasādhanaṃ naurūpaṃ sindhūnāṃ samudrāṇāṃ tīrthe 'vataraṇapradeśe vidyate iti śeṣaḥ | rathaś ca bhūmau gantuṃ vidyate | indavaḥ somā dhiyā bhavadviṣayeṇa karmaṇā yuyujre | yuktā babhūvuḥ || aritraṃ | ṛ gatau | artilūdhūsūkhanasahacara itraḥ | pā. 3-2-184 [?] | iti karaṇa itrapratyayaḥ | pratyayasvaraḥ | divaḥ | ūḍidam iti vibhakter udāttatvaṃ | tīrthe | tṝ plavanataraṇayoḥ | pātryatudivacirici…bhyas thak [?] | u. 2-2 [?] | iti thak | ṛta iddhātor iti itvaṃ | hali ceti dīrghaḥ | yuyujre | liṭer ayo re [?] | pā. 6-4-82 [?] | itīreco re ādeśaḥ ||*
+
+*(The Uṇādi rule-name and the two numbers marked [?] are crowded; the form of the* liṭ *rule is partly legible only.)*
+
+**Translation:** "O Aśvins, your *aritram*, boat-vessel, a means of going, *divas pṛthu*, wider than even heaven, exists at the *tīrthe*, the landing-place, *sindhūnām*, of the seas (so the sentence is completed); and the chariot exists, for going on the earth. *Indavaḥ*, the Soma drops, *dhiyā*, by rites concerned with you, *yuyujre*, have been joined (made ready)."
+
+**Pratipadārtha** *(p. 591)* — "**(aśvinā)** — O Aśvin gods; **vām** — your; **divaspṛthu** — wider than heaven; **aritram** — (the vessel for moving in the sea) boat; **sindhūnām** — of the seas; **tīrthe** — on the shore (stands); **rathaḥ** — the chariot (stands on the earth); **somāḥ** — the Soma juices; **dhiyā** — with (the rites performed with you in view); **yuyujre** — are joined (are made ready)."
+
+**Bhāvārtha** *(p. 591)* — "O Aśvin gods, your boat, wider than heaven, for moving on the sea, stands at the shore of the seas. Your chariot stands on the earth. The Soma juice is made ready in the sacrificial rites performed with you in view. Come here and drink it."
+
+**English Translation (the source's own, p. 591)** — "Your vessel vaster than the sky rests on the sea-shore ; your chariot waits on the land ; the drops of Soma-juice are expressed for your worship."
+
+**Special Topics (*viśeṣa-viṣaya*), pp. 591–592**
+- **aritram** — "*ṛ gatau*: a thing that is a means for going. Since the word *sindhūnām*, 'of the seas', is here, a thing for moving on the sea is meant — a boat."
+- **divaspṛthu** — "*dyulokād api vistīrṇam*: wider than heaven, very vast; that is, very big."
+- **tīrthe** — "*avataraṇapradeśe*: a place of crossing; the shore of the sea."
+- **dhiyā** — "*karmaṇā*: by work. *Dhiyā yuyujra indavaḥ*: the Soma juices have been joined with the rites of the sacrifice, etc.; that is, in this sacrificial rite that we are performing, the Soma juices have been made ready to be offered to you."
+- The Kannada author adds: "In this ṛk, because the case-endings are not in order, and also because they are as they are, the sense does not fit properly without supplying some words (*adhyāhāra*)."
+
+**Vyākaraṇa-prakriyā** *(p. 592 — grammar page, noted briefly)*
+- **aritram**: root *ṛ gatau*; *artilūdhūsūkhanasahacara itraḥ* (Uṇ. 3-2-18[?] as read [?]) — the suffix *itra*; *guṇa*; the suffix-accent.
+- **divaḥ**: *ūḍidampadādyap…* — the case-ending is acute.
+- **tīrthe**: root *tṝ plavanataraṇayoḥ*; the Uṇādi rule *pātrytudivacirici-sicibhyaḥ thak* (as printed, crowded, [?]) gives the suffix *thak*; *kṅiti ca* forbids *guṇa*; *ṛta iddhātoḥ* (Pā. 7-1-100 as read) gives *ir* (*i* with *repha*); *hali ca* lengthens.
+- **yuyujre**: root *yuj*, *liṭ*, *jha*; *liṭas tajhayor eśirec* gives *irec* for *jha*; doubling; *irayo re* (Pā. 6-4-76 as read) — in the Chandas *re* replaces *ire*: *re* for *irec*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 8 ||**
+
+---
+
+### Rik 46.9 (pp. 592–595, PDF 606–609)
+
+**Saṃhitā-pāṭha** *(p. 592; accents not reproduced)*
+
+> **दिवस्कण्वास इन्दवो वसु सिन्धूनां पदे ।**
+> **स्वं वव्रिं कुह धित्सथः ॥ ९ ॥**
+
+*divaskaṇvāsa indavo vasu sindhūnāṃ pade |*
+*svaṃ vavriṃ kuha dhitsathaḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 593)*
+
+> दिवः । कण्वासः । इन्दवः । वसु । सिन्धूनाम् । पदे ।
+> स्वम् । वव्रिम् । कुह । धित्सथः ॥ ९ ॥
+
+*divaḥ | kaṇvāsaḥ | indavaḥ | vasu | sindhūnām | pade |*
+*svam | vavrim | kuha | dhitsathaḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 593)*
+
+> **हे कण्वासः कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनाविस्थं पृच्छतेति शेषः । कथमिति तदुच्यते । दिवो द्युलोकसकाशादिन्दवः सूर्यरश्मयः प्रादुर्भूताः । सिन्धूनामपां वृष्टिरूपाणां स्यन्दनस्वभावानां पदे स्थानेऽन्तरिक्षे वसु अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां स्वं वव्रिं स्वकीयं रूपं कुह धित्सथः । कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह । वा ह च छन्दसि । पा. ५-३-१३ [?] । इति किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । पा. ७-२-१०४ [?] । इति किमः कुः । धित्सथः । डुधाञ् धारणपोषणयोः । सनि मीमाघुरभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । इत्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ [?] । इत्यभ्यासलोपः । सः स्यार्धधातुके । पा. ७-४-४९ [?] । इति सकारस्य तकारः ॥**
+
+*he kaṇvāsaḥ kaṇvaputrāḥ | yadvā | medhāvina ṛtvijaḥ | aśvināv itthaṃ pṛcchateti śeṣaḥ | katham iti tad ucyate | divo dyulokasakāśād indavaḥ sūryaraśmayaḥ prādurbhūtāḥ | sindhūnām apāṃ vṛṣṭirūpāṇāṃ syandanasvabhāvānāṃ pade sthāne 'ntarikṣe vasu asmadādinivāsahetubhūtam uṣaḥkālīnaṃ jyotir āvirbhūtam iti śeṣaḥ | asminn avasare yuvāṃ svaṃ vavriṃ svakīyaṃ rūpaṃ kuha dhitsathaḥ | kutra sthāpayitum icchathaḥ | atrāgatya pradarśanīyam iti tātparyārthaḥ || kuha | vā ha ca chandasi | pā. 5-3-13 [?] | iti kiṃśabdāt saptamyarthe hapratyayaḥ | ku tihoḥ | pā. 7-2-104 [?] | iti kimaḥ kuḥ | dhitsathaḥ | ḍudhāñ dhāraṇapoṣaṇayoḥ | sani mīmāghurabhalabhaśakapatapadām aca is | pā. 7-4-54 [?] | ity ākārasya isādeśaḥ | atra lopo 'bhyāsasya | pā. 7-4-58 [?] | ity abhyāsalopaḥ | saḥ syārdhadhātuke | pā. 7-4-49 [?] | iti sakārasya takāraḥ ||*
+
+**Translation:** "O *kaṇvāsaḥ*, O sons of Kaṇva; or, O wise priests: ask the Aśvins thus (the words 'ask' being understood). How? That is told. *Divaḥ*, from the heaven-world, *indavaḥ*, the Sun's rays have appeared. *Sindhūnām pade*, in the place of the waters — which are of the nature of flowing as rain — that is, in the atmosphere, *vasu*, the light of the time of dawn, the cause of our dwelling and so on, has appeared (so the sentence is completed). At this moment, *svaṃ vavrim*, your own form, *kuha dhitsathaḥ*, where do you wish to place it? Where do you wish to set it? The sense is: it is to be shown, coming here."
+
+**Pratipadārtha** *(p. 593)* — "**kaṇvāsaḥ** — O sons of Kaṇva, or wise priests (ask the Aśvins thus); **divaḥ** — from the heaven-world; **indavaḥ** — the rays of the Sun (have appeared); **sindhūnām** — of the waters; **pade** — in the place, in the atmosphere; **vasu** — the light of the time of dawn (the cause of our dwelling) (has appeared); **svaṃ vavrim** — your own form; **kuha** — where; **dhitsathaḥ** — do you wish to place? (come graciously and let us see it)."
+
+**Bhāvārtha** *(p. 593)* — "O sages of the line of Kaṇva (or wise priests), ask the Aśvin gods thus: 'How have the rays of the Sun arisen and gone forth from heaven? How does the dawn become visible in the atmosphere beyond the sea? Where have you set your form?', that is, 'Where can we see you?'"
+
+**English Translation (the source's own, p. 594)** — "O Kanwas, ask this of the Aswins—How do the rays of the Sun proceed from the sky ? How does the dawn rise on the waters beyond the horizon ? where do you desire to make your own appearance ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 594** — "The sense of this ṛk does not fit properly. Each one interprets this ṛk in a different way. The commentator's sense indicates one kind of idea; it is not clear whether this is the intention of the ṛṣi."
+
+**Vyākaraṇa-prakriyā** *(pp. 594–595 — grammar pages, noted briefly)*
+- **kuha**: *vā ha ca chandasi* (Pā. 5-3-13 as read [?]) — वा ह च छन्दसि — in the Chandas the suffix *ha* after the word *kim* in the locative sense; *kṛttaddhitasamāsāś ca* (Pā. 1-2-46 as read) gives the *taddhita*-ending word the name *prātipadika*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71 as read) drops the locative ending; *kim + ha*; *prāgdiśo vibhaktiḥ* (Pā. 5-3-1 as read) — the suffixes enjoined from here up to *diśaśabdebhyaḥ…* (Pā. 5-3-27 as read) are given the name *vibhakti*; *kutiho* (Pā. 7-2-104 as read) — *ku* for *kim* before a *t*- or *h*-beginning *vibhakti*: *kuha*. If *ha* were stated as an independent suffix, the suffix-accent would come and the end would be acute; so the Kannada author holds that *saptamyās tral* (Pā. 5-3-10 as read) gives *tral*, and *ha* is substituted for it, and that *vā ha ca chandasi* means "in the Chandas, after *kim*, *ha* replaces *tral*"; then by *lititi* the letter before the suffix is acute, the rest unaccented, and by *udāttād anudāttasya svaritaḥ* (Pā. 8-4-66 as read) the suffix is *svarita*.
+- **dhitsathaḥ**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7 as read) gives *san*; *sanyaṅoḥ* (Pā. 6-1-9 as read) doubling; *dhā + dhā + sa*; *sani mīmāghurabhalabhaśakapatapadām aca is* (Pā. 7-4-54 as read) — सनि मीमाघुरभलभशकपतपदामच इस् — before a *san* beginning with *s*, the vowel of these roots is replaced by *is*; so the *ā* of the latter part becomes *is*; *atra lopo 'bhyāsasya* (Pā. 7-4-58 as read) drops the reduplicative syllable: *dhis + sa*; *saḥ syārdhadhātuke* (Pā. 7-4-49 as read) — a *t* for the *s* before an *ārdhadhātuka* beginning with *s*: *dhitsa*; *laṭ*, second person dual *thas*, *śap*, *pararūpa*, *ru*, *visarga*: *dhitsathaḥ*. **|| 9 ||**
+
+---
+
+### Rik 46.10 (p. 595 foot, PDF 609–)
+
+**Saṃhitā-pāṭha** *(p. 595; accents not reproduced)*
+
+> **अभूदु भा उ अंशवे हिरण्यं प्रति सूर्यः ।**
+> **व्यख्यज्जिह्वयासितः ॥ १० ॥**
+
+*abhūd u bhā u aṃśave hiraṇyaṃ prati sūryaḥ |*
+*vyakhyaj jihvayāsitaḥ || 10 ||*
+
+**Pada-pāṭha** *(p. 595)*
+
+> अभूत् । ऊं इति । भाः । ऊं इति । अंशवे । हिरण्यम् ।
+> प्रति । सूर्यः ।
+> वि । अख्यत् । जिह्वया । असितः ॥ १० ॥
+
+*abhūt | ūṃ iti | bhāḥ | ūṃ iti | aṃśave | hiraṇyam |*
+*prati | sūryaḥ |*
+*vi | akhyat | jihvayā | asitaḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 595)*
+
+> **भा उ सूर्यस्य दीप्तिस्त्वंशव उषःकालीनरश्मिसिद्ध्यर्थमभूदु । प्रादुर्भूतैव । सूर्यश्च हिरण्यं प्रति स्वकीयोदयेन हिरण्यसदृशोऽभूत् । अग्निश्चासितः स्वकीयदीप्तेः सूर्यप्रवेशेन स्वयं कृष्णो भूत्वा जिह्वया स्वकीयया ज्वालया व्यख्यत् । प्रकाशितवान् । तस्मादयमश्विनोर्युवयोरागमनकाल इत्यर्थः ॥ अभूत् । भूसुवोस्तिङीति गुणप्रतिषेधः । हिरण्यं प्रति । प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ [?] । इति प्रतेः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते द्वितीया । पा. २-३-८ [?] । इति द्वितीया । अख्यत् । चक्षिङ् व्यक्तायां वाचि । लुङि चक्षिङः ख्याञिति ख्याञादेशः ॥ १० [?] ॥**
+
+*bhā u sūryasya dīptis tv aṃśava uṣaḥkālīnaraśmisiddhyartham abhūd u | prādurbhūtaiva | sūryaś ca hiraṇyaṃ prati svakīyodayena hiraṇyasadṛśo 'bhūt | agniś cāsitaḥ svakīyadīpteḥ sūryapraveśena svayaṃ kṛṣṇo bhūtvā jihvayā svakīyayā jvālayā vyakhyat | prakāśitavān | tasmād ayam aśvinor yuvayor āgamanakāla ity arthaḥ || abhūt | bhūsuvos tiṅīti guṇapratiṣedhaḥ | hiraṇyaṃ prati | pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 [?] | iti prater karmapravacanīyatvaṃ | karmapravacanīyayukte dvitīyā | pā. 2-3-8 [?] | iti dvitīyā | akhyat | cakṣiṅ vyaktāyāṃ vācī | luṅi cakṣiṅaḥ khyāñ iti khyāñādeśaḥ || 10 [?] ||*
+
+*(The numeral closing the bhāṣya is printed so that it reads like "34" — crowded or a slip for "10" [?]; the Rik is the tenth, as the Saṃhitā and Pada numerals show.)*
+
+**Translation:** "*Bhā*, the splendour of the Sun, *aṃśave*, for the production of the rays of the time of dawn, *abhūt*, has come into being, has appeared. And the Sun, *hiraṇyaṃ prati*, in his own rising, has become like gold. And Agni, *asitaḥ*, (become) dark when the Sun entered his own splendour, having himself become black, *vyakhyat*, has lit up, *jihvayā*, with his own flame. So this is the time of your coming, O Aśvins, is the sense. *Abhūt*: *guṇa* is forbidden by *bhūsuvos tiṅi*. *Hiraṇyaṃ prati*: *prati* in the sense of 'representing' or 'returning' (Pā. 1-4-92 [?]) has the name *karmapravacanīya*; the accusative where a *karmapravacanīya* is joined (Pā. 2-3-8 [?]). *Akhyat*: root *cakṣiṅ vyaktāyāṃ vāci*; in the aorist *khyāñ* is substituted for *cakṣiṅ*."
+
+*(Pratipadārtha, Bhāvārtha, the source's English, Special Topics and grammar of Rik 10 begin on p. 596 and are not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 595 (PDF 609) reached; heading, introduction and Riks 46.1–46.9 complete; Rik 46.10's Saṃhitā, Pada, bhāṣya (with its translation) are written; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar begin on p. 596 and are NOT yet written.**
+
+**Next task:** continue at printed p. 596 (PDF 610) with the rest of Rik 46.10 (insert it with a heading "**Rik 46.10, continued** *(from p. 596)*"), then Riks 11–15; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 610 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.7–10: *sūtra* and Uṇādi numerals "as read [?]"; in 46.8 the rule-names for *tīrthe* and *yuyujre* crowded; 46.9 and the source's own comment that the sense of the ṛk "does not fit properly" kept; 46.10's closing bhāṣya numeral misprinted ("34"). **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
