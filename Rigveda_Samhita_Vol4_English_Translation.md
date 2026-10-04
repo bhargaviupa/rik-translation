@@ -9653,8 +9653,83 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+## SŪKTA 46 *(printed p. 571 foot = PDF 585; third sūkta of the Ninth Anuvāka, the last sūkta of Volume 4)*
+
+**Forty-sixth Sūkta** *(large Kannada title line on p. 571: "nalavattāraneya sūktavu")*
+
+### Pages 571–572 (PDF 585–586) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script at the foot of p. 571; read from the 150-dpi image; the words marked [?] are crowded)*
+
+> एषो उषा इति पञ्चदशर्चं तृतीयं सूक्तं प्रस्कण्वस्यार्षम् । इदमुत्तरं चाश्विनं गायत्रीच्छन्दस्कम् । अत्रानुक्रमणिका । एषो पञ्चोनाश्विनं तु गायत्रमिति [?] ॥ प्रातरनुवाक आश्विने क्रतौ गायत्रीच्छन्दस्याश्विनशस्त्रे चेदं सूक्तं । आथाश्विन एषो उषाः । आ. ४-१३ [?] । इति सूत्रितम् ॥
+
+*eṣo uṣā iti pañcadaśarcaṃ tṛtīyaṃ sūktaṃ praskaṇvasyārṣam | idam uttaraṃ cāśvinaṃ gāyatrīchandaskam | atrānukramaṇikā | eṣo pañconāśvinaṃ tu gāyatram iti [?] || prātaranuvāka āśvine kratau gāyatrīchandasyāśvinaśastre cedaṃ sūktaṃ | āthāśvina eṣo uṣāḥ | ā. 4-13 [?] | iti sūtritam ||*
+
+**Translation** *(mine, tentative; the Anukramaṇikā clause and the Āśvalāyana reference are read with doubt)*: "'*Eṣo uṣāḥ*' is the third sūkta, of fifteen ṛks, the *ārṣa* (revelation) of Praskaṇva. This one and the following are Āśvina and in the Gāyatrī metre. The Anukramaṇikā here: '*eṣo pañconā aśvinaṃ tu gāyatram*' [?]. In the Prātaranuvāka, at the Āśvina rite, this sūkta is [used] in the Gāyatrī-metre Āśvina-śastra; it is prescribed by '*athāśvina eṣo uṣāḥ*' (Āśv. 4-13 [?])."
+
+**Anuvāda (Kannada), p. 571** — "*Eṣo uṣā* is the third sūkta in the ninth anuvāka. In it there are fifteen ṛks. The ṛṣi of this sūkta is Praskaṇva. This sūkta and the next sūkta have the Aśvin gods as deity; this sūkta is in the Gāyatrī metre. The Anukramaṇikā says: '*eṣo pañconāśvinaṃ tu gāyatram*' [?]. In the time of reciting the mantras of the Prātaranuvāka this sūkta is used for reciting the Gāyatrī-metre Āśvina-śastra mantras connected with the Āśvina rite; this is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*athāśvina eṣo uṣāḥ*' (Ā. 4-13 [?])."
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४६**
+> ॥ मण्डल — १ ॥ अनुवाक — ९ ॥ सूक्त — ४६ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [३३], [३४], [३५] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
+> ॥ ऋषिः — प्रस्कण्वः काण्वः ॥
+> ॥ देवता — अश्विनौ ॥
+> ॥ छन्दः — गायत्री ॥
+
+*sūkta 46 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 3 | varga [33], [34], [35] | ṛks 15 | ṛṣi: Praskaṇva Kāṇva | devatā: the Aśvins | chandas: Gāyatrī.*
+
+*(The varga numerals are small and read with doubt, [?]; "sūktadalliruva ṛksaṃkhyai" is Kannada for "number of ṛks in the sūkta", left in its Kannada form as in earlier sūktas.)*
+
+### Rik 46.1 (pp. 572–573, PDF 586–587)
+
+**Saṃhitā-pāṭha** *(p. 572; accents not reproduced)*
+
+> **एषो उषा अपूर्व्या व्युच्छति प्रिया दिवः ।**
+> **स्तुषे वामश्विना बृहत् ॥ १ ॥**
+
+*eṣo uṣā apūrvyā vyucchati priyā divaḥ |*
+*stuṣe vām aśvinā bṛhat || 1 ||*
+
+**Pada-pāṭha** *(p. 572)*
+
+> एषो इति । उषाः । अपूर्व्या । वि । उच्छति । प्रिया । दिवः ।
+> स्तुषे । वाम् । अश्विना । बृहत् ॥ १ ॥
+
+*eṣo iti | uṣāḥ | apūrvyā | vi | ucchati | priyā | divaḥ |*
+*stuṣe | vām | aśvinā | bṛhat || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 572–573)*
+
+> **एषो एषैवास्माभिः परिदृश्यमाना प्रिया सर्वेषां प्रीतिहेतुरपूर्व्यापूर्वेषु मध्यरात्रादिकालेषु विद्यमाना न भवति किन्त्विदानींतन्युषा उषोदेवता दिवो द्युलोकस्य सकाशादागत्य । व्युच्छति । तमो वर्जयति । हे अश्विनौ वां युवां बृहत्प्रभूतं [?] यथा भवति तथा स्तुषे । स्तौमि ॥ स्तुषे । ष्टुञ् स्तुतौ । तिङां तिङो भवन्तीत्यत्रोत्तमैकवचनस्य [?] मध्यमैकवचनादेशः । यद्वा । लेट्युत्तमैकवचने सिब्बहुलं लेटीति सिप् ॥**
+
+*eṣo eṣaivāsmābhiḥ paridṛśyamānā priyā sarveṣāṃ prītihetur apūrvyāpūrveṣu madhyarātrādikāleṣu vidyamānā na bhavati kintv idānīṃtanyuṣā uṣodevatā divo dyulokasya sakāśād āgatya | vyucchati | tamo varjayati | he aśvinau vāṃ yuvāṃ bṛhatprabhūtaṃ [?] yathā bhavati tathā stuṣe | staumi || stuṣe | ṣṭuñ stutau | tiṅāṃ tiṅo bhavantīty atrottamaikavacanasya [?] madhyamaikavacanādeśaḥ | yadvā | leṭy uttamaikavacane sibbahulaṃ leṭīti sip ||*
+
+*(Two words are crowded: "bṛhatprabhūtam" and the first word of the grammatical tail's "…aikavacanasya"; both [?].)*
+
+**Translation:** "*Eṣo uṣāḥ*: this very Uṣas, seen by us, *priyā*, the cause of joy to all, *apūrvyā*, not present in the earlier times such as midnight but the present Uṣas, the goddess Uṣas, having come *divaḥ*, from the heavenly world, *vyucchati*, drives off the darkness. O Aśvins, *vām*, you two — *stuṣe*, I praise (you), *bṛhat*, in a great (abundant) way. *Stuṣe*: root *ṣṭuñ stutau*; by the rule that the person-endings replace one another, the first-person singular is replaced by the second-person singular; or, in the *leṭ*, in the first-person singular, *sip* comes by *sibbahulaṃ leṭi*."
+
+**Pratipadārtha** *(p. 573)* — "**priyā** — the cause of joy (to all); **apūrvyā** — manifest only now, not before this (all night); **eṣo uṣāḥ** — this goddess Uṣas who is seen by our eyes; **divaḥ** — from the sky (coming); **vyucchati** — drives away the darkness; **aśvinā** — O Aśvin gods; **vām** — you; **bṛhat** — exceedingly; **stuṣe** — I praise."
+
+**Bhāvārtha** *(p. 573)* — "After the night, which was full of darkness, had gone, the goddess Uṣas has just now appeared. Coming from the sky, driving away the darkness and spreading radiance, she is the cause of joy to all. O Aśvin gods, helpers of the appearing of Uṣas, who gives joy to all, I praise you exceedingly."
+
+**English Translation (the source's own, p. 573)** — "This beloved Ushas, until now unseen, scatters the darkness from the sky ; O Aswins, I greatly praise you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 573**
+- **apūrvyā** — "*pūrvam avidyamānā; nūtanā*: one not existing before; new; one not existing, or not seen, until now."
+- "In this sūkta the ṛṣi, aiming at the Aśvin deities who are to be prayed to in the morning, describes the time of Uṣas as their forerunner."
+
+**Vyākaraṇa-prakriyā** *(p. 573 — grammar page, noted briefly)*
+- **stuṣe**: root *ṣṭuñ stutau*; by "*tiṅāṃ tiṅo bhavanti*" (as printed, a general maxim of exchange of person-endings), the first-person singular *iṭ* is replaced by the second-person singular *thās*, which becomes *se*; *stu + se*, *ṣatva*. Or: the first-person singular *iṭ* of *leṭ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read [?]) gives the *e*; *sip* by *sibbahulaṃ leṭi* (Pā. 3-1-34 as read [?]); *stuṣe*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE (printed pp. 1–571 = PDF 15–585); Sūkta 46, the last of the volume, begins at the foot of printed p. 571.**
+---
 
-**Next task:** Sūkta 46 (*eṣo uṣā*, Maṇḍala 1, Anuvāka 9, third sūkta, 15 Riks, ṛṣi Praskaṇva, Aśvins, Gāyatrī): its title, Sanskrit introduction and Kannada anuvāda are at the foot of printed p. 571 = PDF 585, identified but **not yet written**; the heading block and Rik 1 follow on p. 572 (PDF 586). Check the contents table for where Sūkta 46 ends and what (if anything) follows it in the volume (to PDF 622). One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 585 -l 622 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 573 (PDF 587) reached; heading, introduction and Rik 46.1 complete.**
+
+**Next task:** continue at printed p. 574 (PDF 588) with Rik 46.2; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 588 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.1: Anukramaṇikā clause and Āśvalāyana numeral doubtful; "bṛhatprabhūtam" in the bhāṣya and the start of the tail crowded [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
