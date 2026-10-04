@@ -12,9 +12,9 @@ Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 4: Sūkta 33 is COMPLETE (printed pp. 1–70 = PDF 15–84).** **Next task: Sūkta 34** (*triś cin no adya*, 12 Riks), printed p. 71 = PDF 85,
-running to about printed p. 130 (PDF 144). One session per sūkta; read the last ~40 lines of the output file first.
-The user asked in this session to stop at the end of the first sūkta; for later sessions follow whatever stopping point the user gives.
+**Volume 4: Sūktas 33 and 34 are COMPLETE (printed pp. 1–131 = PDF 15–145).** **Next task: Sūkta 35** (*hvayāmy agnim*, 10 or 11 Riks [?]), starting at the top of
+printed p. 131 = PDF 145 (the end of Sūkta 34 shares that leaf; only the grammar of Sūkta 34 Rik 12 was written from it), running to about printed p. 176 (PDF 190).
+One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
 The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
 **PDF-to-printed-page offset (Volume 4): printed page = PDF page − 14.** (Volumes 2–3: − 15.) Printed p. 1 is PDF 15 (title of the Third Adhyāya
