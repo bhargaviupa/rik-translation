@@ -8715,8 +8715,64 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 44.11 (pp. 528–531)
+
+**Saṃhitā-pāṭha** *(p. 528; accents not reproduced)*
+
+> **नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् ।**
+> **मनुष्वद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यम् ॥ ११ ॥**
+
+*ni tvā yajñasya sādhanam agne hotāram ṛtvijam |*
+*manuṣvad deva dhīmahi pracetasaṃ jīraṃ dūtam amartyam || 11 ||*
+
+**Pada-pāṭha** *(p. 528)*
+
+> नि । त्वा । यज्ञस्य । साधनम् । अग्ने । होतारम् । ऋत्विजम् ।
+> मनुष्वत् । देव । धीमहि । प्रऽचेतसम् । जीरम् । दूतम् ।
+> अमर्त्यम् ॥ ११ ॥
+
+*ni | tvā | yajñasya | sādhanam | agne | hotāram | ṛtvijam |*
+*manuṣvat | deva | dhīmahi | pra-cetasam | jīram | dūtam |*
+*amartyam || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 528)*
+
+> **हे अग्ने देव मनुष्वत् यथा मनुर्यागदेशे निदधाति तद्वद्वयमपि त्वां नि धीमहि । अत्र स्थापयामः । कीदृशं । यज्ञस्य साधनं यज्ञनिष्पादकं होतारमृत्विजं ऋतौ वसन्तादिके यष्टारं प्रचेतसं प्रकृष्टप्रज्ञानयुक्तं जीरं शत्रूणां वयोहानिकरं दूतं देवानां दूतस्थानीयं अमर्त्यं मरणरहितं ॥**
+
+*he agne deva manuṣvat yathā manur yāgadeśe nidadhāti tadvad vayam api tvāṃ ni dhīmahi | atra sthāpayāmaḥ | kīdṛśaṃ | yajñasya sādhanaṃ yajñaniṣpādakaṃ hotāram ṛtvijaṃ ṛtau vasantādike yaṣṭāraṃ pracetasaṃ prakṛṣṭaprajñānayuktaṃ jīraṃ śatrūṇāṃ vayohānikaraṃ dūtaṃ devānāṃ dūtasthānīyaṃ amartyaṃ maraṇarahitaṃ ||*
+
+**Translation:** "O Agni, O god! *Manuṣvat*, as Manu places (you) at the place of the sacrifice, even so we also *ni dhīmahi*, set you down, establish you here. What kind of one? *Yajñasya sādhanam*, the accomplisher of the sacrifice; *hotāram ṛtvijam*, the sacrificer in the seasons such as the spring; *pracetasam*, endowed with excellent wisdom; *jīram*, the one who diminishes the life of enemies; *dūtam*, standing in the place of messenger of the gods; *amartyam*, free from death."
+
+**Grammatical tail** *(p. 528 foot; characterized, the sūtra number as read [?])*
+- *manuṣvat*: the word *manas* (*manus*) ends with the Uṇādi suffix *asi*; the suffix *vati* by the rule "*tena tulyaṃ kriyā ced vatiḥ*" (Pā. 5-1-115 as read [?]) — "*vati* in the sense of 'equal to that' if it is an action". Because the word is of the *ayasmaya* class (as printed, *ayasmayādītvena*), it takes the *bha*-designation, so the *ru*-change and so on do not arise.
+- *dhīmahi*: root *dudhāñ dhāraṇapoṣaṇayoḥ*; loss of the reduplicative syllable after *liṅ* is Vedic (*lin-ābhyāsa-lopaś chāndasaḥ*, as printed).
+- *jīram*: the root *ju* is a *sautra* root (taken from the sūtras, not from the root-list); the suffix *rak* by "*jorī ca*" (Uṇ. 2-[?] as read); Kātyāyana says "*raki jyaḥ saṃprasāraṇe jīra iti*" (as printed).
+
+**Pratipadārtha** *(pp. 528–529)* — "**agne deva** — O god Agni; **yajñasya sādhanam** — as the accomplisher of the sacrifice; **hotāram ṛtvijam** — as one who performs the sacrifice in the seasons beginning with spring; **pracetasam** — as one endowed with excellent knowledge; **jīram** — as the destroyer of the lives of enemies; **dūtam** — as the messenger of the gods; **amartyam** — as one who is free from death; **tvā** — you; **manuṣvat** — in the manner in which Manu established (you) in the sacrificial ground; **(vayam** — we also**) nidhīmahi** — establish (you) here."
+
+**Bhāvārtha** *(p. 529)* — "O god Agni, you are the accomplisher of the sacrifice. You are one who sacrifices in the seasons beginning with spring, being endowed with excellent knowledge. You destroy the lives of enemies and are free from death. Since you are the messenger of the gods, the destroyer of enemies and the nourisher of friends, Manu established you in the sacrificial ground. Like him we too establish you in this sacrificial ground."
+
+**English Translation (the source's own, p. 529)** — "O Agni, we place you as Manu placed you in sacrificial altar [sic] ; you are the main factor of the sacrifice, the invoker, the ministering priest, the wise, the destroyer of enemies, immortal and the messenger of gods."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 529**
+- **yajñasya sādhanam** — "since Agni is absolutely necessary for performing a sacrifice, he is said to be the chief instrument of the sacrifice."
+- **hotāram, ṛtvijam** — "*hotāram* means one who invokes the deities in the sacrifice, or the one principal priest who recites the mantras in the sacrifice for the invocation of the deities. In the sacrifice the *hotṛ* has a place of great prominence. *Ṛtvijam* means one of the priests who take part in the sacrifice. In every sacrifice there are four chief priests, *hotṛ, adhvaryu, udgātṛ* and *brahmā*; these four, and also their assistant groups, are by custom called *ṛtvij*. When *ṛtvij* is said, it can be any one of them. For the explanation of these words see Ṛgveda Saṃhitā part 1, p. 615 [numeral as read, ?]."
+- **manuṣvat** — "*manuvat*: as the Prajāpati Manu established and set Agni in the sacrifice that he performed, in that manner; this is the meaning."
+- **jīram** — "*ju iti sautro dhātuḥ; śatrūṇāṃ vayohānikaram*: the destroyer of the life-span of enemies, one who diminishes (their life), one who makes (it) decay."
+
+**Vyākaraṇa-prakriyā** *(pp. 530–531 — grammar pages, noted briefly; the crowded stretches not reproduced)*
+- **yajñasya**: root *yaja devapūjādau*; the suffix *naṅ* by "*yajayācayataviccha-pracchā rakṣo naṅ*" (Pā. 3-3-90 as read [?]) — यजयाचयतविच्छप्रश्नरक्षो नङ् — [as printed, the sūtra's wording is partly legible; I give it only in the standard form and the number as read]; *yaj + na*; the next step by "*stoḥ ścunā ścuḥ*" (Pā. 8-4-40 as read) — स्तोः श्चुना श्चुः — concerning the change of the dental nasal after the palatal; the suffix-accent (*pratyayasvara*) then arises. (The Kannada explanation of this step is partly unclear to me [?].)
+- **manuṣvat**: root *mana jñāne*; the Uṇādi suffix *usi*; *man + us = manus*; the analysis *manuṣā tulyam* "equal to Manu"; the rule *tena tulyaṃ kriyā cet vatiḥ* (Pā. 5-1-115 as read [?]): after a word in the instrumental the suffix *vati* in the sense of "equal", but only if what is equal is an action — here *manuṣā tulyaṃ dhīmahi* gives the action. Because *vati* comes, the word gets the *bha*-designation by *ayasmayādīni chandasi* (Pā. 1-4-20 as read), so there is no *pada*-designation; therefore the *ru*-change which has *pada*-designation as its cause by "*sa sajuṣo ruḥ*" (Pā. 8-2-66) does not come; nor does the *u* by "*haśi ca*" (Pā. 6-1-114).
+- **deva**: root *divu* … by the *pacādi*-rule (the rule beginning *nandigrahipacādibhyaḥ…*, as printed) the suffix *ac*; the vocative is unaccented (*āmantritasya*).
+- **dhīmahi**: *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṅ*, *mahiṅ*, *liṅaḥ sīyuṭ*; *liṅaḥ salopo 'nantyasya* (the *s* is lost); *lopo vyor vali* (the *y* is lost); *śap* with *ślu*; doubling after *ślu*; the Vedic loss of the reduplicative syllable; *dhā + īmahi*; "*śnābhyastayor ātaḥ*" (Pā. 6-4-112 as read [?]) — the *ā* of the root is dropped when a non-*kit/ṅit* personal ending follows the *śnā*-suffix or reduplicated verb; *dh + īmahi = dhīmahi*.
+- **jīram**: *ju gatau vege ca*; this root is not in the root-list but is established by what Pāṇini says in the rule beginning *ju-caṅkramya…* (Pā. 3-2-150 as read [?]); roots that are thus used in sūtras are called *sautra*. The Uṇādi sūtra *jorī ca* (Uṇ. 2-[?] as read): after *ju* the suffix *rak*, and *ī* for the final letter, giving *jīra*. Some read instead of *jorī ca* the sūtra *jyāś ca* (Uṇ. 2-[?] as read): *rak* after the root *jyā vayohānau*; *jyā + ra*, and *grahijyā-vayi…* (Pā. 6-1-16 as read) gives *saṃprasāraṇa*; *saṃprasāraṇāc ca* (Pā. 6-1-108) gives the earlier form (*pūrvarūpa*); *halaḥ* (Pā. 6-4-2) lengthens the final of the stem after a *saṃprasāraṇa* standing after a consonant: *jīra*. *na dhātulopa ārdhadhātuke* (Pā. 1-1-4) etc.; and Kātyāyana's vārttika "*raki jyaḥ saṃprasāraṇam*" is cited; hence the reading *jyāśca* is evidently the one approved by Kātyāyana. **|| 11 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 527 (PDF 541) reached; introduction, heading and Riks 44.1–44.10 complete.**
+---
 
-**Next task:** continue at printed p. 528 (PDF 542) with Rik 44.11, then Riks 12–14 and the close of Sūkta 44 (the contents table puts Sūkta 45 at p. 541 — check), then STOP at the end of Sūkta 44 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 542 -l 570 Rig_Vol4.pdf /tmp/x/v`. Flags for 44.10: sūtra numerals all "as read [?]"; the source's English breaks off at "man-" at the page end. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+---
+
+**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 531 (PDF 545) reached; introduction, heading and Riks 44.1–44.11 complete.**
+
+**Next task:** Rik 44.12 begins at the middle of printed p. 531 (PDF 545): its Saṃhitā, Pada and the first lines of the bhāṣya (*he mitramaho …*) are on that page but not yet written; continue from there, then Riks 13–14 and the close of Sūkta 44, then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 545 -l 570 Rig_Vol4.pdf /tmp/x/v` if the images are lost. Flags for 44.11: sūtra numerals "as read [?]"; the Kannada explanation of *yajñasya* (*naṅ* then *stoḥ ścunā ścuḥ*) partly unclear. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
