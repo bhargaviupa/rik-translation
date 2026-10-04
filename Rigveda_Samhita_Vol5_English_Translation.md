@@ -5092,8 +5092,75 @@
 
 ---
 
+**Rik 53.6, continued** *(pp. 283–285, PDF 299–301)*
+
+**Sāyaṇa-bhāṣya, rest of the main sense** *(p. 283)*
+
+> **… चरुपुरोडाशादीनि हवींषि त्वामामदन् । ते सोमासः प्रसिद्धाः सोमाश्च त्वामामदन् । यद्यदा कारवे स्तुतिकर्त्रे बर्हिष्मते यज्ञवते यजमानाय दश सहस्राण्यपरिमितानि वृत्राख्यावरकाण्युपद्रवजातान्यप्रति शत्रुभिरप्रतिगतस्त्वं निबर्हयः न्यवधीः । तदानीमिति पूर्वेण संबन्धः ॥**
+
+*… caru-puroḍāśādīni havīṃṣi tvām amadan | te somāsaḥ prasiddhāḥ somāś ca tvām amadan | yad yadā kārave stutikartre barhiṣmate yajñavate yajamānāya daśa sahasrāṇy aparimitāni vṛtrākhyāvarakāṇy upadravajātāny aprati śatrubhir apratigatas tvaṃ nibarhayaḥ nyavadhīḥ | tadānīm iti pūrveṇa saṃbandhaḥ ||* *(the print: "*carupu-*" at the end of p. 282 and "*roḍāśādīni*" at the head of p. 283; read as joined.)*
+
+*(The tail of the bhāṣya, p. 283, is characterized:* vṛṣṇyā *(*śeś chandasi bahulam*, the loss of* śi*);* barhayaḥ *("*barhatir hiṃsākarmā*", Ni. as read, [?]; *laṅ*, no* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; *śap *being* pit, *anudātta*; the accent of the* ṇic*; *yadvṛttānnityam* barring the *nighāta*).)*
+
+**Translation of the bhāṣya:** "O *satpate*, protector of the good, Indra: *vṛtrahatyeṣu*, on the occasions of the slaying of Vṛtra, those *madāḥ* spoken of — the exhilarating Maruts — gladdened you; those oblations, *caru*, *puroḍāśa* and the like, gladdened you; and those well-known soma-drops gladdened you; *yat*, when, for the praiser, the *barhiṣmat*, the sacrificer who performs sacrifice, you, unopposed by enemies, *ni barhayaḥ*, destroyed ten thousands, countless, of the afflictions called *vṛtras*, the obstructors — then (this connects with the first part)."
+
+**Pratipadārtha** *(p. 283)* — "**satpate** — O Indra, protector of the good; **vṛtrahatyeṣu** — on the occasions of the slaying of Vṛtra; **te** — those spoken of; **madāḥ** — the friends possessing the means of delight, the Maruts; **tvā** — you; **amadan** — gladdened; **yat** — when; **kārave** — to the praiser; **barhiṣmate** — to the sacrificer who performs the sacrifice; **daśa sahasrāṇi** — ten thousands, innumerable; **vṛtrāṇi** — obstructions; **aprati** — you who go forward unopposed by enemies; **ni barhayaḥ** — destroyed completely, then; **tāni vṛṣṇyā** — those oblations offered on the occasions of Vṛtra's slaying — *caru*, *puroḍāśa* and the like; **te somāsaḥ** — those well-known soma juices; (**tvām amadan** — gladdened you)."
+
+**Bhāvārtha** *(p. 283)* — "O Indra, protector of the good: at the time of slaying Vṛtra, the destroyer of the good, your friends the Maruts gladdened you. When you, unobstructed by enemies, destroyed ten thousands of obstructions of the sacrificer — who praises you and gives you oblations — then the oblations offered by the sacrificers, *caru*, *puroḍāśa* and the like, and those well-known soma juices, gladdened you."
+
+**English Translation (the source's own, p. 283)** — "O protector of the pious, they, who were your allies (the Maruts) gladdened you while you were engaged in slaying Vritra; those oblations and libations gladdened you, when you, unimpeded by foes destroyed the ten thousand obstacles opposed to him who praised you and offered you oblations."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 283–284**
+- *(first Special Topic, a Sanskrit passage in the print, p. 283 foot – p. 284 head)*:
+
+  > **यदा यदेन्द्रः स्तोपासकानां शत्रून् हंति तदा तदा तैरुपासकैः समर्पितान् सोमान् चरुपुरोडाशादीनि चान्नानि भक्षयित्वा हृष्टः सन्नेव हंति । तस्मादेधुनास्माभिः सोमादीनि भक्षयितुमर्हतीत्यर्थः ॥**
+
+  *yadā yadendraḥ stopāsakānāṃ śatrūn haṃti tadā tadā tair upāsakaiḥ samarpitān somān carupuroḍāśādīni cānnāni bhakṣayitvā hṛṣṭaḥ sanneva haṃti | tasmād edhunāsmābhiḥ somādīni bhakṣayitum arhatīty arthaḥ ||* *(the print's first word "*yadā yadendraḥ*" and "*edhunā*" are crowded, [?])* — "Whenever Indra kills the enemies of those who worship him, then he kills them, having eaten, delighted, the soma and the food — *caru*, *puroḍāśa* and the rest — offered by those worshippers. Therefore it is fitting that he now eat the soma and the like offered by us — this is the sense." The Kannada adds: "After Indra kills the enemies of those who praise him, he is satisfied by eating the offerings, such as soma, *caru* and *puroḍāśa*, made by the worshippers. So we now pray that he be gracious to us, accepting the soma and the rest that we have prepared."
+- **vṛtrahatyeṣu** — "This word means: 'as the occasion of the action of destroying the Asura Vṛtra'. The locative here is used in the sense of the cause (*nimitta*)."
+- **madāḥ** — "This word means the Maruts, who increase Indra's joy by helping him at the time of battle."
+- **vṛṣṇyā** — "Indra is the one who favours the *vṛṣṇi*, the showerer. He is named *vṛṣṇi*. The *caru*, *puroḍāśa* and the like that suit Indra are called *vṛṣṇya*."
+- **barhiṣmate** — "As in the Nirukta sūtra '*barhatir hiṃsākarmā*' (Ni. 2-… as read [?]), the word *barhis* means 'sacrifice'; the one who is chiefly consecrated in the sacrifice is *barhiṣmat*."
+- **aprati** — "*Śatrubhir apratigatas tvam*: a word praising Indra, 'you, who have never been destroyed in fighting with enemies'. The word *prati* here means one who opposes."
+
+**Vyākaraṇa-prakriyā** *(pp. 284–285 — grammar pages, noted briefly)*
+- **tvā**: in the second singular accusative of *yuṣmad*, *trāmau dvitīyāyāḥ* — *tvā* [Pā. 8-1-23 as read, [?]] is the *anudātta* substitute that comes in its entirety.
+- **amadan**: *madī harṣe*; the sense of the causative (*ṇic*) is included in the root's own sense; *laṅ* third plural; it follows an *atiṅ*, so *nighāta*.
+- **vṛṣṇyā**: in the neuter, *jaśśasoḥ śiḥ* gives *śi* for *jas* [= *śas*]; *napuṃsakasya jhalacaḥ* gives *num*; *sarvanāmasthāne cāsambuddhau* lengthens the penultimate of the stem in *n*; *śeś chandasi bahulam* (Pā. 6-1-70 as read [?]) drops *śi*.
+- **vṛtrahatyeṣu**: "*vṛtrasya hatyāni*" — in these; *hana hiṃsāgatyoḥ*; *hanas ta ca* (Pā. 3-1-108) — since the *subanta* is not a preposition and stands as the *upapada*, *kyap* in the sense of the action and the substitution of *t* for the *n* come together; *kyap* being *pit*, the accent of the root is initial-acute; since the *kāraka* is the first member, *gatikārakopapadāt kṛt* gives the accent of the last member.
+- **barhayaḥ**: "*barhatir hiṃsākarmā*" (Ni. 2-… as read [?]): the root *barha* is in the sense of harming; *laṅ* second singular, *barhayaḥ*. By *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, and so the accent of the *ṇic* alone prevails, so that the word is end-acute… [the print says "*ṇic*'s accent is *citaḥ*… *ṇic* being *cit*… the *a* is acute and the vowel after *h* is acute"]; since the word *yat* is connected before, *nipātair yadyadihanta* (Pā. 8-1-30) forbids the *nighāta*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.5 complete; Rik 53.6 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 282, PDF 298); the bhāṣya continues on p. 283 (PDF 299) at "…tāni pūrvoktāni vṛṣṇyā vṛṣṇaḥ secanasamarthasya tava saṃbandhīni carupu-…". Riks 53.7–53.11 are NOT yet written.**
+### Rik 53.7 (pp. 285–, PDF 301–)
 
-**Next task:** continue at printed p. 283 (PDF 299) with "**Rik 53.6, continued**" (take care to start from the end of the sentence at "carupu…"), then Riks 7–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]" [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 285; accents printed, not reproduced)*
+
+> **युधा युधमुप घेदेषि धृष्णुया पुरा पुरं समिदं हंस्योजसा ।**
+> **नम्या यदिन्द्र सख्या परावति निबर्हयो नमुचिं नाम मायिनम् ॥ ७ ॥**
+
+*yudhā yudham upa ghed eṣi dhṛṣṇuyā purā puraṃ sam idaṃ haṃsy ojasā |*
+*namyā yad indra sakhyā parāvati nibarhayo namucim nāma māyinam || 7 ||*
+
+**Pada-pāṭha** *(p. 285)*
+
+> युधा । युधम् । उप । घ । इत् । एषि । धृष्णुऽया । पुरा । पुरम् । सम् । इदम् । हंसि । ओजसा ।
+> नम्या । यत् । इन्द्र । सख्या । परावति । निऽबर्हयः । नमुचिम् । नाम । मायिनम् ॥ ७ ॥
+
+*yudhā | yudham | upa | gha | it | eṣi | dhṛṣṇu-yā | purā | puram | sam | idam | haṃsi | ojasā |*
+*namyā | yat | indra | sakhyā | parāvati | ni-barhayaḥ | namucim | nāma | māyinam || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 285 — begins; continues on p. 286)*
+
+> **हे इन्द्र धृष्णुया शत्रूणां धर्षकस्त्वं युधा युद्धेन संबद्धं युद्धं युद्धमुप घेदेषि उपैव गच्छसि । सर्वदा युद्धशीलो भवसीत्यर्थः । घु इति पादपूरणः । शत्रूणामसुराणां पुरा पुरेण नगरेण सहेदं पुरोवर्ति पुरं शत्रुनगरमोजसा बलेन सं हंसि । सम्यग्विनाशयसि । शत्रूणां पुराण्यभैत्सीरित्यर्थः । हे इन्द्र त्वं नम्या शत्रुषु नमनशीलेन सख्या सहायभूतेन वज्रेण परावति दूरदेशे नमुचिं नामानया संज्ञया प्रसिद्धं मायिनं मायाविनमसुरं यद्यदा …**
+
+*he indra dhṛṣṇuyā śatrūṇāṃ dharṣakas tvaṃ yudhā yuddhena saṃbaddhaṃ yuddhaṃ yuddham upa ghed eṣi upaiva gacchasi | sarvadā yuddhaśīlo bhavasīty arthaḥ | ghu iti pādapūraṇaḥ | śatrūṇām asurāṇāṃ purā pureṇa nagareṇa sahedaṃ purovarti puraṃ śatrunagaram ojasā balena saṃ haṃsi | samyagvināśayasi | śatrūṇāṃ purāṇy abhaitsīr ity arthaḥ | he indra tvaṃ namyā śatruṣu namanaśīlena sakhyā sahāyabhūtena vajreṇa parāvati dūradeśe namuciṃ nāmānayā saṃjñayā prasiddhaṃ māyinaṃ māyāvinam asuraṃ yad yadā …* *(continued on p. 286; "*ghu*" for the Saṃhitā's* gha *is as printed, [?])*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.6 complete; Rik 53.7 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 285, PDF 301); the bhāṣya continues on p. 286 (PDF 302) at "…namuciṃ nāma … māyinam asuraṃ yad yadā …". Riks 53.8–53.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 286 (PDF 302) with "**Rik 53.7, continued**" (start from "yad yadā …" at the head of p. 286; tail characterized; Pratipadārtha, Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 8–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha" [?]; Uṇādi and Pāṇini numerals as read [?].
