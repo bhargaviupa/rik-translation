@@ -2879,10 +2879,103 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.6 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 195–197, PDF 209–211)
+
+**Sāyaṇa-bhāṣya** *(foot of p. 195 – p. 196; the first half in full, the grammatical tail characterized)*
+
+> हे यविष्ठ्य युवत्तमाग्ने सुभगे सौभाग्ययुक्ते त्वे इत् त्वय्येव विश्वं सर्वं हविरा हूयते । सर्वतः प्रक्षिप्यते । स त्वं नोऽस्मान्प्रति सुमनाः शोभनमनस्को भूत्वाद्यास्मिन्दिन उताऽपि चापरं श्वोऽपरश्व इत्यादिकमुत्तरं कालं सर्वस्मिन्नपि काले नैरन्तर्येण सुवीर्यान् शोभनवीर्योपेतान्देवान्यक्षि । यज ॥
+
+*he yaviṣṭhya yuvattamāgne subhage saubhāgyayukte tve it tvayy eva viśvaṃ sarvaṃ havir ā hūyate | sarvataḥ prakṣipyate | sa tvaṃ no 'smān prati sumanāḥ śobhanamanasko bhūtvādyāsmin dina utāpi cāparaṃ śvo 'paraśva ity ādikam uttaraṃ kālaṃ sarvasminn api kāle nairantaryeṇa suvīryān śobhanavīryopetān devān yakṣi | yaja ||*
+
+**Translation:** "O *yaviṣṭhya* — the very youngest — Agni, *subhage*, endowed with good fortune: *tve it*, in you alone, *viśvaṃ haviḥ* — every oblation — *ā hūyate*, is cast on all sides. That [you], being *sumanāḥ*, well-minded towards us, today, on this day, *uta* — and — *aparam*, in the later time, tomorrow, the day after, and so on — in all times, continuously, *yakṣi* — sacrifice to, i.e. perform the worship of — the *devān suvīryān*, the gods endowed with good heroic strength. (*Yakṣi* = *yaja*.)"
+
+**Grammar within the bhāṣya** *(p. 196, characterized)*: *subhage* (*śobhano bhago yasya*, a bahuvrīhi; first-syllable acute); *yaviṣṭhya* (*yuvan* + *iṣṭhan*; *sthūladūra…* — the *ya* of *yuvan* is dropped and the preceding vowel takes *guṇa*; the *y* is inserted by Vedic usage); *yakṣi* (*laṭ*/*loṭ* sense; *śap* lost by *bahulaṃ chandasi*; *ś* → *ṣ*, *ṣ* → *k*, *ṣatva*); *suvīryā* (*śobhanaṃ vīryaṃ yeṣām*; *vīravīryau ca*: first-syllable acute; the *śas* ending replaced by *ā*).
+
+**Pratipadārtha** *(p. 196)* — "**yaviṣṭhya** — exceedingly youthful; **agne** — O Agni; **subhage** — meritorious; **tve it** — in you alone; **viśvam** — all; **haviḥ** — oblation; **ā hūyate** — is offered everywhere; **saḥ tvam** — such a you; **naḥ** — with regard to us; **sumanāḥ** — with an auspicious mind; **adya** — today; **uta** — and; **aparam** — on other days too (without interruption); **suvīryā** — [on behalf of] gods who give prosperity and are powerful; **devān** — in the name of the gods; **yakṣi** — perform sacrifice."
+
+**Bhāvārtha** *(p. 196)* — "O Agni, you are ancient yet ageless. You are always exceedingly youthful, and meritorious. All the oblations of the sacrifices are offered in you alone, everywhere. Be well-minded towards us, the sacrificers, and, to bring us prosperity, summon the gods at all times and perform sacrifice, without break, in the name of those prosperous and powerful gods."
+
+**English Translation (the source's own, p. 196)** — "Youthfull and good natured Agni, all the oblations intended for the gods are offered through you ; be well disposed towards us now or at any other time and convey the oblations to the powerful gods." *("Youthfull" and "disposed" [printed "dispcsed"] as in the print.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 197**
+- **adya uta aparam** — "now, and at other times: that is, on this day, on which we are performing the sacrifice, and on other days, in future, on which we may perform sacrifices — *now and in future* [the print's English]."
+- **suvīryā** = *suvīryān* | *śobhanavīryopetān*: "of very mighty valour; this word is in the accusative plural, an adjective of the word *devān*."
+
+**Vyākaraṇa-prakriyā** *(p. 197, PDF 211 — grammar page, noted briefly)*
+- **subhage**: *śobhano bhago yasya saḥ*, a *bahuvrīhi*; *ādyudāttaṃ dvyac chandasi* — आद्युदात्तं द्व्यच्छन्दसि — [Pā. 6-2-119, as read]: in a *bahuvrīhi* compound a second member of two vowels, beginning with an acute, after *su*, is first-syllable acute; the first member's natural accent does not arise.
+- **yaviṣṭhya**: after *yuvan*, *atiśāyane tamabiṣṭhanau* — *iṣṭhan*; *yuvan + iṣṭha*; *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* — स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः — [Pā. 6-4-156, as read]: before *iṣṭhan*, *imanic* and *īyasun*, the part of these six words [*sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra*] beginning with the *yaṇ* is dropped and the preceding vowel takes *guṇa*: so *yuva* → *yo*, then *av*-substitution; the *y* is, in the Veda, added extra.
+- **yakṣi**: root *yaja devapūjādau*, *loṭ*, *sip*; *bahulaṃ chandasi* — [Pā. 2-4-73]: *luk* of *śap*; *vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ* — [Pā. 8-2-36]: *j* → *ṣ*; *ṣaḍhoḥ kaḥ si* — *ṣ* → *k*; *ādeśapratyayayoḥ* — *s* → *ṣ*.
+- **suvīryā**: *śobhanaṃ vīryaṃ yeṣāṃ te*, a *bahuvrīhi*; *vīravīryau ca* — वीरवीर्यौ च — [Pā. 6-2-120]: in a *bahuvrīhi* the words *vīra*, *vīrya* after *su* are first-syllable acute in the Veda; *vīra vikrāntau* with *ac* gives *vīra*, and *aco yat* or *tatra sādhuḥ* gives *vīrya*; the print then argues that the sūtra *yato 'nāvaḥ* would already give the first-syllable acute for *vīrya*, so the mention of *vīrya* in this sūtra shows that *yato 'nāvaḥ* does not apply to *vīrya*; the accusative plural *śas* is replaced by *ā* by *supāṃ sulug…*. Rik 6 ends here (*|| 6 ||*).
+
+### Rik 36.7 (pp. 198–202, PDF 212–216)
+
+**Saṃhitā-pāṭha** *(p. 198; accents not reproduced)*
+
+> **तं घेमित्था नमस्विन उप स्वराजमासते ।**
+> **होत्राभिरग्निं मनुषः समिन्धते तितिर्वांसो अति स्रिधः ॥ ७ ॥**
+
+*taṃ ghem itthā namasvina upa svarājam āsate |*
+*hotrābhir agniṃ manuṣaḥ samindhate titirvāṃso ati sridhaḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 198)*
+
+> तम् । घ । ईम् । इत्था । नमस्विनः । उप । स्वऽराजम् । आसते ॥
+> होत्राभिः । अग्निम् । मनुषः । सम् । इन्धते । तितिर्वांसः । अति । स्रिधः ॥ ७ ॥
+
+*tam | gha | īm | itthā | namasvinaḥ | upa | sva-rājam | āsate ||*
+*hotrābhiḥ | agnim | manuṣaḥ | sam | indhate | titirvāṃsaḥ | ati | sridhaḥ || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 198; the viniyoga and the first half, the grammatical tail characterized)*
+
+> अभिप्लवे सायंकालीन उत्तरस्मिन्पटले तं घेमित्था नमस्विन इत्येषा विनियुक्ता । अथोत्तरमिति खण्डे सूत्रितम् । प्रागाथीं पूर्वाह्णे काण्वीमपराह्णे । आ. ४-२ [?] । इति ॥ हे अग्ने नमस्विनोऽन्नयुक्ता नमस्कारयुक्ता वा । नम आयुः सूनृतेत्यन्ननामसु पाठान्नमःशब्दादन्नवाचित्वम् । तादृशा यजमानाः स्वराजं स्वतो दीप्यमानं तं घेमं तमेव पूर्वोक्तसर्वगुणविशिष्टं त्वामित्थानेन प्रकारेण हविष्प्रदानादिरूपेणोपासते । मनुषो मनुष्या यजमाना होत्राभिः सप्तभिर्वषट्कर्तृभिः । सप्त होत्राः प्राचीर्वषट्कुर्वन्तीति श्रुत्यन्तरात् । अग्निं त्वा समिन्धते । सम्यग्दीपयन्ति । कीदृशा मनुष्याः स्रिधः शत्रूनति तितिर्वांसोऽतिशयेन तरन्तः ॥
+
+*abhiplave sāyaṃkālīna uttarasmin paṭale taṃ ghem itthā namasvina ity eṣā viniyuktā | athottaram iti khaṇḍe sūtritam | prāgāthīṃ pūrvāhṇe kāṇvīm aparāhṇe | ā. 4-2 [?] | iti || he agne namasvino 'nnayuktā namaskārayuktā vā | nama āyuḥ sūnṛtety annanāmasu pāṭhān namaḥśabdād annavācitvam | tādṛśā yajamānāḥ svarājaṃ svato dīpyamānaṃ taṃ ghemaṃ tam eva pūrvoktasarvaguṇaviśiṣṭaṃ tvām itthānena prakāreṇa haviṣpradānādirūpeṇopāsate | manuṣo manuṣyā yajamānā hotrābhiḥ saptabhir vaṣaṭkartṛbhiḥ | sapta hotrāḥ prācīr vaṣaṭkurvantīti śrutyantarāt | agniṃ tvā samindhate | samyag dīpayanti | kīdṛśā manuṣyāḥ sridhaḥ śatrūn ati titirvāṃso 'tiśayena tarantaḥ ||*
+
+**Translation:** "In the *abhiplava* [ṣaḍaha], in the evening part of the later *paṭala* [of the recitation], this ṛk '*taṃ ghem itthā namasvinaḥ*' is applied. It is laid down in the section beginning '*athottaram*': 'the Prāgātha-ṛk in the forenoon, the Kāṇva [one] in the afternoon' (Āś. 4-2 [?]). — O Agni, *namasvinaḥ* — furnished with food or with obeisance (since '*namaḥ*, *āyuḥ*, *sūnṛtā*' are read among the names for food, the word *namas* denotes food) — such sacrificers *upa āsate*, worship, in this manner, by gifts of oblation and the like, that very you, *svarājam* — shining by yourself — endowed with all the qualities named before ('*tam gha īm*' being [the same as] *tam eva*, 'that very one'). *Manuṣaḥ* — the human sacrificers — *hotrābhiḥ*, with the seven *vaṣaṭ*-makers ('the seven *hotrās* make the *vaṣaṭ* towards the east', says another Vedic text) — *agniṃ sam indhate*: kindle you, Agni, well. What sort of men? *Titirvāṃsaḥ* — those who cross over, excel — *sridhaḥ ati*, over their enemies."
+
+**Grammar within the bhāṣya** *(p. 198, characterized)*: *namasvinaḥ* (*asmāyāmedhāsrajo viniḥ*: *vin* after *namas*, with the lengthening of the vowel and the accent by suffix); *svarājam* (*sva* + *rāj*, *kvip* in a compound with a *sup* word; *satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasargepi*; the later member's natural accent); *āsate* (*āsa upaveśane*; *śap* lost, *ādādi*; *ātmanepadeṣv nataḥ*); *titirvāṃsaḥ* (*tṝ plavanataraṇayoḥ*; *chandasi liṭ*: *kvasu* in the sense of the past by *chandasi luṅlaṅliṭaḥ*; *vasv ekājāḍghasām* — *iṭ* for *kvasu* only after a one-vowelled base, an *ā*-ending base or *ghas*, hence none after *tṝ*; and the Mahābhāṣya's *anantarasya vidhir vā bhavati pratiṣedho vā*); *sridhaḥ* (*sridhu śoṣaṇe*, *kvip*).
+
+**Pratipadārtha** *(p. 199)* — "**agne** — O Agni; **namasvinaḥ** — [those] possessed of food or of homage, the sacrificers; **svarājam** — one who shines by his own radiance; **tam gha īm** — that you, endowed with all the qualities named before; **itthā** — in this manner, by offering oblations; **upāsate** — worship; **sridhaḥ** — enemies; **ati titirvāṃsaḥ** — [those who have] well conquered with force; **manuṣaḥ** — the human sacrificers; **hotrābhiḥ** — through the seven priests, makers of the *vaṣaṭ*, beginning with the *hotṛ* (offering oblations); **agnim** — you, the deity Agni; **sam indhate** — cause to blaze well."
+
+**Bhāvārtha** *(p. 199)* — "O Agni deity, you are always shining by your own radiance. Your devotees, the sacrificers, offer you food as oblation with reverence and worship you. Through your help all of them have conquered their enemies. To show that joy and gratitude, they all perform the sacrifice, offer you oblations through the seven priests, the *vaṣaṭ*-makers, and cause you to blaze well."
+
+**English Translation (the source's own, p. 199)** — "In this manner the devout persons ( sacrificers and others ) adore you who are bright with your own radiance; the ( seven ) priests including Hotri who are victorious over their enemies, kindle Agni with oblations·" *(headed "Englis Translation" [sic] in the print; the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 199–200**
+- *Viniyoga:* "At the time of reciting the *abhiplava* hymns, the ṛk *taṃ ghem itthā* is to be recited in the evening, so says the Āśvalāyana Śrauta-sūtra in the sūtra '*prāgāthīṃ pūrvāhṇe kāṇvīm aparāhṇe*' in the section *athottaram* (Āś. 4-2 [?])."
+- **gha īm** — "these words are used for filling out the pāda; though they have no definite meaning, the sense of *eva* may be given to them: *tam* = him; *tam gha īm* or *tam ghem* = 'that very one'."
+- **namasvinaḥ** = *namasvino 'nnayuktā namaskārayuktā vā*: "those who have prepared food in the form of oblations for offering to the deity, or those who do obeisance."
+- **svarājam** = *svabhāsā rājata iti svarāṭ taṃ*: "one who shines by his own radiance. Agni and Sūrya need no other help for their light: they light up everything by their own light."
+- **āsate** = *upāsate*: "they sit near and pray, serve, perform worship: *worship* [the print's English]."
+- **hotrābhiḥ** — "though in sacrifices the *hotṛ* is only one, the word *hotrābhiḥ* is used in the plural, to take in the other priests who take part in the sacrifice: the Adhvaryu, Udgātṛ, Potṛ, Neṣṭṛ, Brahman and the others — the priests of the sacrificer."
+- **manuṣaḥ** = *manuṣyāḥ*: "men; the *ṣa* is short for the convenience of the metre."
+- **titirvāṃsaḥ** = *tṝ plavanataraṇayoḥ | sridhaḥ ati titirvāṃsaḥ*: "those who go beyond [*atikramiṇaḥ*]: the bhāṣyakāra explains here that they have crossed their enemies."
+
+**Vyākaraṇa-prakriyā** *(pp. 200–202, PDF 214–216 — grammar pages, noted briefly)*
+- **namasvinaḥ**: *asmāyāmedhāsrajo viniḥ* — अस्मायामेधास्रजो विनिः — [Pā. 5-2-121]: the suffix *vin* in the sense of *matup* after *namas*, ending in *as*.
+- **svarājam**: *svataḥ rājate* — *svarāṭ*; the root *rāja dīptau*; *satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip* — सत्सूद्विषद्रुहदुहयुजविदभिदच्छिदजिनीराजामुपसर्गेऽपि क्विप् — [Pā. 3-2-61]: *kvip* after these roots whether a preverb is present or not, when a related word stands as *upapada*; and *gatikārakopapadāt kṛt* gives the natural accent of the later member.
+- **āsate**: *āsa upaveśane*, *adādi*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *ātmanepadeṣv nataḥ*: *jha* → *at*.
+- **titirvāṃsaḥ** (pp. 200–202): root *tṝ plavanataraṇayoḥ*; *chandasi liṭ* — छन्दसि लिट् — [Pā. 3-2-105]: in the Veda *liṭ* is added after roots in the sense of the past in general, "so by this sūtra *liṭ* cannot be had in the present sense"; *chandasi luṅlaṅliṭaḥ* [Pā. 3-4-6]: when a relation of sense with a root is shown, in the Veda *luṅ*, *laṅ* and *liṭ* come in all times, past, present, future; hence *liṭ* in the present sense; *kvasuś ca* — क्वसुश्च — [Pā. 3-2-107]: in the Veda *kvasu* replaces *liṭ* in the sense of the past [completed] participle. The print then takes up the Mahābhāṣya's "*ājñ ājñivān*; *chandasau kānac-kvasū*", and argues from the paribhāṣā *anantarasya vidhir vā bhavati pratiṣedho vā* (Pari. 63 [?]) that, by the Veda-sūtra *chandasi liṭ*, the suffixes *kānac* and *kvasu* may be added to the *liṭ* so enjoined; the sūtra *vibhāṣā pūrvāhṇāparāhṇābhyām* [as read] in the Mahābhāṣya, on *papuṣa āgataṃ papivān ṛjīṣyam*, with *pā* and *kvasu*, shows that this paribhāṣā does not operate here; therefore *kvasu* comes in the Veda and in the world alike in place of all *liṭs*; the *vṛtti*-authors say, by the repeated *liṭ* in *liṭaḥ kānaj vā*, that all *liṭs* are meant; thus even a *liṭ* arising by *chandasi luṅ…* may take *kvasu*; though *chandasi* belongs to the sūtra, the *kvasu* occurs even for a *liṭ* in the present sense; the Bhāṣya's *chandasau kānac-kvasū* applies to *kvasu* of the root *ājñ*-type [*añj*], which is not used in the world; but for the rest there is use in the world too, and so the quoted Bhāṣya examples are reconciled. When *kvasu* comes after *tṝ*: *tṝ + vas*; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; *neḍ vaśi kṛti* — [Pā. 7-2-8] — bars *iṭ* before *kṛt* beginning with *vaś* for the roots of *vaśādi*; *kṛsṛbhṛvṛstudrusruśruvo liṭi* — कृसृभृवृस्तुद्रुस्रुश्रुवो लिटि — [Pā. 7-2-13]: no *iṭ* of *liṭ* after these roots [*kṛ*, *sṛ*, *bhṛ*, *vṛ*, *stu*, *dru*, *sru*, *śru*]; whether the *liṭ* ban belongs to the suffix or to the root, *iṭ* arises after *kṛ* and the rest in the *liṭ* only when the ban holds; for the other roots there is no ban; "so the roots *kṛ* etc. are the restrictors (*niyāmaka*), the others the enjoiners"; by this restriction the *tṝ* root, not in the *kṛ*-group, would take *iṭ* for its *liṭ*, that is, for the *vas* that replaced the *liṭ*; but another restrictor stops it: *vasv ekājāḍghasām* — वस्वेकाजाद्घसाम् — [Pā. 7-2-67]: *iṭ* is added to *vas* only after one-vowelled bases after doubling, *ā*-ending bases and *ghas*; so no *iṭ* after *tṝ*. *Ṛta id dhātoḥ* — [Pā. 7-1-100]: *ṛ*-ending base gets *i*: *tir*; *alo 'ntyasya* [Pā. 1-1-52] and *uraṇ raparaḥ* [Pā. 1-1-51] give *r*; *tir + vas*; *ṛcchatyṛtām* — ऋच्छत्यृताम् — [Pā. 7-4-11]: the *guṇa* of *ṛcch*, *ṛ*-ending roots of the *tudādi* group before *liṭ*, and *halica* — हलिच — [Pā. 8-2-77]: the lengthening of *i*, *u*, *ṛ* before a consonant for bases ending in *r* or *v*; "these would apply, but since they are non-constant by *saṃjñāpūrvako vidhir anityaḥ*, they do not arise here; for the *tṝ* root, *guṇa* is first possible before the *itva*, lengthening after *itva*"; doubling, *halādiḥ śeṣaḥ*: *tir + vas*, *jas*; *ugidacāṃ…*: *num*: *titirvans + as*; *sāntamahataḥ saṃyogasya* — सान्तमहतः संयोगस्य — [Pā. 6-4-10]: the lengthening of the vowel before the *n* in a conjunct ending in *s* [and in *mahat*]: *titirvāns*; *naś cāpadāntasya jhali*: *n* → anusvāra; *ru*, *visarga*: *titirvāṃsaḥ*. Or, by the *gaṇa*-sūtra *bahulam etannidarśanam*, a new root *tir* is imagined and the process *liṭ*, *vas* follows as before; in this view *ṛcchatyṛtām* never arises; *halica* is possible but not applied, since if the root is taken as ending in *a*, the *sthānivadbhāva* of the loss by *ato lopaḥ* prevents the base's ending in *r*, so *halica* has no application either.
+- **sridhaḥ**: *sridhu śoṣaṇe*, *kvip ca*. Rik 7 ends here (*|| 7 ||*).
+
+### Rik 36.8 (p. 202 foot, PDF 216–)
+
+**Saṃhitā-pāṭha** *(p. 202; accents not reproduced)*
+
+> **घ्नन्तो वृत्रमतरन्रोदसी अप उरु क्षयाय चक्रिरे ।**
+> **भुवत्कण्वे वृषा द्युम्न्याहुतः क्रन्ददश्वो गविष्टिषु ॥ ८ ॥**
+
+*ghnanto vṛtram ataran rodasī apa uru kṣayāya cakrire |*
+*bhuvat kaṇve vṛṣā dyumny āhutaḥ krandad aśvo gaviṣṭiṣu || 8 ||*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 195 (PDF 209) reached; Riks 36.1–36.5 complete; Rik 36.6's Saṃhitā and Pada written (p. 195); its bhāṣya begins at the foot of p. 195.**
+---
 
-**Next task:** continue at printed p. 195 foot / p. 196 (PDF 210) with Rik 36.6's bhāṣya (re-view p. 195's last lines too), then Rik 7. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 209 -l 265 Rig_Vol4.pdf /tmp/x/v`.
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 202 (PDF 216) reached; Riks 36.1–36.7 complete; Rik 36.8's Saṃhitā written (foot of p. 202).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar on *devayatīnām* (Rik 1), *haviṣmantaḥ*, *mahaḥ* and *santya* (Riks 2–3), *aryamā* and *dadāśa* (Rik 4) and *tve*, *saṃgatāni* (Rik 5) is characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") reproduced as [sic].
+**Plan agreed with the user:** do Sūkta 36 and then Sūkta 37 in the same session, stopping at the end of Sūkta 37.
+
+**Next task:** continue at printed p. 203 (PDF 217) with Rik 36.8's Pada and bhāṣya. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 217 -l 300 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar notes of Riks 1–7 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, and the long discussion of *titirvāṃsaḥ* in Rik 7) are characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") and that of Rik 7 a heading misprint ("Englis"), reproduced as [sic].
