@@ -5995,10 +5995,117 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+## SŪKTA 40 *(printed p. 376 = PDF 390)*
+
+**Fortieth Sūkta** *(large Kannada title line: "nalavattaneya sūktavu")*
+
+### Page 376 (PDF 390) — Sāyaṇa's introduction and the Kannada anuvāda
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the words marked [?] are crowded)*
+
+> उत्तिष्ठेत्यष्टर्चं पञ्चमं सूक्तं कण्वस्यार्षं बार्हतं । युजः सतोबृहत्यः । अयुजो बृहत्यः । ब्रह्मणस्पतिदेवताकं । अनुक्रम्यते च । उत्तिष्ठाष्टौ ब्राह्मणस्पत्यमिति ॥ सूक्तविनियोगो लैङ्गिकः । चतुर्विंशेऽहनि मरुत्वतीये प्राकृताद्ब्रह्मणस्पत्यागाथात्पूर्वमुत्तिष्ठ ब्रह्मणस्पत इत्ययं प्रगाथः । मरुत्वतीये इति खण्डे सूत्रितं । प्रैतु ब्रह्मणस्पतिरुत्तिष्ठ ब्रह्मणस्पत इति ब्राह्मणस्पत्यावापते पूर्वौ नित्यात् । आ. ६-३ [?] । इति ॥ आद्या तु प्रवर्ग्येऽभिष्टवे विनियुक्ता । उत्तिष्ठ ब्रह्मणस्पत इत्येतामुक्त्वावतिष्ठते । आ. ४-२ [?] । इति सूत्रितत्वात् ॥
+
+*uttiṣṭhety aṣṭarcaṃ pañcamaṃ sūktaṃ kaṇvasyārṣaṃ bārhataṃ | yujaḥ satobṛhatyaḥ | ayujo bṛhatyaḥ | brahmaṇaspatidevatākaṃ | anukramyate ca | uttiṣṭhāṣṭau brāhmaṇaspatyam iti || sūktaviniyogo laiṅgikaḥ | caturviṃśe 'hani marutvatīye prākṛtād brahmaṇaspatyāgāthāt pūrvam uttiṣṭha brahmaṇaspata ity ayaṃ pragāthaḥ | marutvatīye iti khaṇḍe sūtritaṃ | praitu brahmaṇaspatir uttiṣṭha brahmaṇaspata iti brāhmaṇaspatyāvāpate pūrvau nityāt | ā. 6-3 [?] | iti || ādyā tu pravargye 'bhiṣṭave viniyuktā | uttiṣṭha brahmaṇaspata ity etām uktvāvatiṣṭhate | ā. 4-2 [?] | iti sūtritatvāt ||*
+
+**Translation:** "*Uttiṣṭha* — the fifth sūkta [of the anuvāka], of eight ṛks, the seer's work of Kaṇva, of the Bārhata [Prāgātha] kind; the even-numbered [ṛks] are *Satobṛhatī*, the odd-numbered *Bṛhatī*; its deity is Brahmaṇaspati. And the Anukramaṇikā says: '*uttiṣṭhāṣṭau brāhmaṇaspatyam*'. The application (*viniyoga*) of the sūkta is *laiṅgika*: on the twenty-fourth day [of the Soma sacrifice], in the *Marutvatīya* [śastra], before the regular Brahmaṇaspati *gāthā*, this *pragātha* '*uttiṣṭha brahmaṇaspate*'. It is laid down in the section called *Marutvatīya*: '*praitu brahmaṇaspatiḥ*' and '*uttiṣṭha brahmaṇaspate*' — the two Brāhmaṇaspatya [verses] are the earlier ones before the *āvāpa* [insertion], since they are constant (Āś. 6-3 [?]). The first ṛk is applied in the *Pravargya*, in the *abhiṣṭava*: '*uttiṣṭha brahmaṇaspate*' — having said this one stands up (Āś. 4-2 [?]), as it is laid down." *(Translation tentative; numerals as read.)*
+
+**Anuvāda (Kannada), p. 376** — "*Uttiṣṭha brahmaṇaspate* is the fifth sūkta in this eighth anuvāka. It has eight ṛks. The even-numbered ṛks are in the *Satobṛhatī* metre; the odd-numbered in the *Bṛhatī* metre. Brahmaṇaspati is the deity of this sūkta. In the Anukramaṇikā: '*uttiṣṭhāṣṭau brāhmaṇaspatyam*' — the sūkta of eight ṛks beginning *uttiṣṭha* has Brahmaṇaspati as deity. The application of the sūkta is *laiṅgika*; and in the Somayāga, on the twenty-fourth day, when the *Marutvatīya śastra* mantras are recited, this sūkta *uttiṣṭha brahmaṇaspate* is recited for the ṛks of the *Prāgātha* metre that concern Brahmaṇaspati. This matter is explained in the Āśvalāyana Śrauta-sūtra, in the section called *Marutvatīya*, by the sūtra '*praitu brahmaṇaspatir* (Ṛg. 1-40-3 [?]) *uttiṣṭha brahmaṇaspata* (Ṛg. 1-40-1 [?]) *iti brāhmaṇaspatyāvāpate pūrvau nityāt*' (Āś. 6-3). The application of the first ṛk of this sūkta in the *Pravargya* and *abhiṣṭava* sacrifices is explained by the sūtra of the Āśvalāyana Śrauta-sūtra (Āś. 4-2) '*uttiṣṭha brahmaṇaspata ity etām uktvāvatiṣṭhate*'."
+
+*(The print abbreviates the Ṛgveda references as "Ṛ. Saṃ."; the numerals are read with doubt [?].)*
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–39 COMPLETE (printed pp. 1–375 = PDF 15–389; Sūkta 39 occupies pp. 339 foot–375 and ends with a printed closing note on p. 375).**
+### Page 377 (PDF 391) — heading of Sūkta 40 and Rik 40.1
 
-**Next task:** Sūkta 40 (*uttiṣṭha brahmaṇas pate*, Anuvāka 8, the fifth sūkta of the anuvāka, 8 Riks per the Kannada anuvāda, ṛṣi Kaṇva Ghaura, deity Brahmaṇaspati, *prāgātha* metre — *bṛhatī* odd Riks, *satobṛhatī* even), starting at the top of printed p. 376 = PDF 390 (title line "*nalavattaneya sūktavu*", Sanskrit introduction and Kannada anuvāda, whole leaf; not yet written); the heading and Rik 1 follow on p. 377 (PDF 391). The contents table gives Sūkta 41 (*yaṃ rakṣanti*) at p. 410. One session per sūkta (or as the user directs); read the last ~40 lines of this file first. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 390 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+**॥ ॐ ॥**
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the commit "Vol 4: Sūkta 38 complete"). Sūkta 39: (1) heading varga numerals and metre line small, read with doubt; (2) intro: last words of the Anukramaṇikā quotation crowded [?]; (3) Rik 1: *asmād antarikṣād asyatha* after *itthā* doubtful; the Hiraṇyastūpa reference unsettled; (4) every Pāṇini / Uṇādi / Phiṭ / vārttika / Nirukta / Amara number is "as read [?]"; (5) English misprints kept [sic]: Rik 2 "vily", Rik 3 "regious", Rik 4 "distroyers", "Rudras", "four", Rik 5 "wether you wlll", "in to vicated", Rik 10 "wrathfull"; (6) Rik 4: the *vivide* / *cādilope vibhāṣā* passage characterized only; (7) Rik 6: the long *abībhayanta* argument (pp. 360–361) characterized only; the Nirukta list of deities' vehicles is untranslated in the source and my gloss is tentative; (8) Rik 7: the *tanaya* clause, the *tabādeśaḥ* spelling and the Śruti quotation on *arodīt* are crowded; (9) Rik 8: *yuṣmeṣito* read with *e* (agrees with the grammar page); the grammar of *yuṣmeṣitaḥ* and *yuṣmākābhiḥ* (pp. 367–369) characterized only; (10) Rik 9: the opening of the grammatical tail on *asāmi* is crowded [?]; (11) Rik 10: the grammar page's cross-reference to "the 38th mantra of this sūkta" for the root *iṣa* is unsettled (the sūkta has ten Riks), the *abhitobhāvi* examples and the Uṇādi quotation on *īṣa* are crowded, and the Nirukta passage on *asāmi* (bhāṣya) is read with doubt; (12) the heading's metre line was read as "Bārhata Prāgātha, odd *bṛhatī*, even *satobṛhatī*"; the introduction (p. 339) says the even Riks are *satobṛhatī* and the odd *bṛhatī* — consistent.
+> **सूक्त — ४०**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ४० ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — २०, २१ [?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — ८ ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — ब्रह्मणस्पतिः ॥
+> ॥ छन्दः — प्रागाथं बार्हतं ॥ १, ३, ५, ७ बृहती । २, ४, ६, ८ सतोबृहती ॥
+
+*sūkta 40 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 20, 21 [?] | ṛks 8 | ṛṣi: Kaṇva Ghaura | devatā: Brahmaṇaspati | chandas: Prāgātha, Bārhata — Riks 1, 3, 5, 7 Bṛhatī; Riks 2, 4, 6, 8 Satobṛhatī.*
+
+**Translation of the heading:** "Sūkta 40; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga 20, 21 [?]; number of ṛks in the sūkta: 8; Ṛṣi: Kaṇva Ghaura; Deity: Brahmaṇaspati; Metre: Prāgātha of the Bārhata kind — Riks 1, 3, 5, 7 Bṛhatī; Riks 2, 4, 6, 8 Satobṛhatī." *(Varga numerals and metre line small, read with doubt.)*
+
+### Rik 40.1 (pp. 377–381, PDF 391–395)
+
+**Saṃhitā-pāṭha** *(p. 377; accents not reproduced)*
+
+> **उत्तिष्ठ ब्रह्मणस्पते देवयन्तस्त्वेमहे ।**
+> **उप प्र यन्तु मरुतः सुदानव इन्द्र प्राशूर्भवा सचा ॥ १ ॥**
+
+*uttiṣṭha brahmaṇaspate devayantas tvemahe |*
+*upa pra yantu marutaḥ sudānava indra prāśūr bhavā sacā || 1 ||*
+
+**Pada-pāṭha** *(p. 377)*
+
+> उत् । तिष्ठ । ब्रह्मणः । पते । देवऽयन्तः । त्वा । ईमहे ।
+> उप । प्र । यन्तु । मरुतः । सुऽदानवः । इन्द्र । प्राशूः ।
+> भव । सचा ॥ १ ॥
+
+*ut | tiṣṭha | brahmaṇaḥ | pate | deva-yantaḥ | tvā | īmahe |*
+*upa | pra | yantu | marutaḥ | su-dānavaḥ | indra | prāśūḥ |*
+*bhava | sacā || 1 ||*
+
+*(The Saṃhitā prints* tvemahe *with the sandhi* tvā + īmahe*, and* bhavā *with a long final vowel, the Pada* bhava *short.)*
+
+**Sāyaṇa-bhāṣya** *(p. 378)*
+
+> **हे ब्रह्मणस्पते एतन्नामक देव उत्तिष्ठ । अस्मदनुग्रहाय त्वदीयनिवासादुत्थानं कुरु । देवयन्तो देवान् कामयमाना वयं त्वा त्वामीमहे । याचामहे । सुदानवः शोभनदानयुक्ता मरुत उप प्र यन्तु । समीपे प्रकर्षेण गच्छन्तु । हे इन्द्र त्वं सचा ब्रह्मणस्पतिना सह प्राशूः सोमस्य प्राशको भव । यद्वा । वृत्रस्य हिंसको भव ॥ उत्तिष्ठ । ऊर्ध्वकर्मत्वादात्मनेपदाभावः । पा. १-३-२४ [?] । ब्रह्मणस्पते । सुबामन्त्रित इति परांगवद्भावात् षष्ठ्यामन्त्रितसमुदायकस्याप्तमिकं सर्वानुदात्तत्वं । देवयन्तः । देवानात्मन इच्छन्तः । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येत्यस्यैव दीर्घस्यापि निषेधः । अश्वाघस्यादिति पुनरात्वविधानसामर्थ्यात् । ईमह इत्यादयो गताः । प्राशूः । श्रा हिंसायां । प्रकर्षेण समन्तात् शृणाति हिनस्तीति प्राशूः । बहुलं छन्दसीत्यत्वं । वोरुपधाया छैर्घः । कृदुत्तरपदप्रकृतिस्वरत्वं । भव । द्व्यचोऽतस्तिङ इति संहितायां दीर्घत्वं ॥**
+
+*he brahmaṇaspate etannāmaka deva uttiṣṭha | asmadanugrahāya tvadīyanivāsād utthānaṃ kuru | devayanto devān kāmayamānā vayaṃ tvā tvām īmahe | yācāmahe | sudānavaḥ śobhanadānayuktā maruta upa pra yantu | samīpe prakarṣeṇa gacchantu | he indra tvaṃ sacā brahmaṇaspatinā saha prāśūḥ somasya prāśako bhava | yadvā | vṛtrasya hiṃsako bhava || uttiṣṭha | ūrdhvakarmatvād ātmanepadābhāvaḥ | pā. 1-3-24 [?] | brahmaṇaspate | subāmantrita iti parāṅgavadbhāvāt ṣaṣṭhyāmantritasamudāyakasyāptamikaṃ sarvānudāttatvaṃ | devayantaḥ | devān ātmana icchantaḥ | supa ātmanaḥ kyac | na chandasy aputrasyety asyaiva dīrghasyāpi niṣedhaḥ | aśvāghasyād iti punarātvavidhānasāmarthyāt | īmaha ity ādayo gatāḥ | prāśūḥ | śrā hiṃsāyāṃ | prakarṣeṇa samantāt śṛṇāti hinastīti prāśūḥ | bahulaṃ chandasīty atvaṃ | vor upadhāyā chair ghaḥ | kṛduttarapadaprakṛtisvaratvaṃ | bhava | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghatvaṃ ||*
+
+**Translation:** "O Brahmaṇaspati — god of this name — *uttiṣṭha*, rise up. For our favour, make a rising from your dwelling. *Devayantaḥ*, we who desire the gods, *tvā īmahe*, ask you; we beg. *Sudānavaḥ*, endowed with fine giving, Maruts, *upa pra yantu*, let them go close up, strongly. O Indra, you, *sacā*, with Brahmaṇaspati, *prāśūḥ bhava*, be a partaker of the Soma; or be a slayer of Vṛtra. *Uttiṣṭha*: since the action is an upward one there is no *ātmanepada* [Pā. 1-3-24 [?]]. *Brahmaṇaspate*: by *subāmantrite parāṅgavat…* [the print is crowded; the sense: the vocative group is unaccented as a whole]. *Devayantaḥ*: 'desiring the gods for themselves'; *kyac* by *supa ātmanaḥ kyac*; the prohibition of the lengthening by *na chandasy aputrasya* [Pā. 7-4-35 [?]] applies here; the ability of *aśvāghasyāt* to prescribe *ā* again [shows this]. *Īmahe* and the rest have been dealt with. *Prāśūḥ*: root *śrā hiṃsāyām*; '*prakarṣeṇa samantāt śṛṇāti*', it injures; the *u* by *bahulaṃ chandasi*; the lengthening by *vor upadhāyā…*; the accent of the first member in a compound ending in a *kṛt*. *Bhava*: in the Saṃhitā the long vowel by *dvyaco 'tastiṅaḥ*."
+
+**Pratipadārtha** *(p. 378)* — "**brahmaṇaspate** — O Brahmaṇaspati, the god; **uttiṣṭha** — (for the sake of favouring us) rise up; **devayantaḥ** — we who desire the help of the gods; **tvā** — you; **īmahe** — we beseech; **sudānavaḥ** — [those] with auspicious gifts; **marutaḥ** — the Maruts; **upa pra yantu** — let them come exceedingly near [to us]; **indra** — O Indra, [you]; **sacā** — with Brahmaṇaspati; **prāśūḥ** — one who drinks the Soma juice, or one who destroys Vṛtra; **bhava** — be."
+
+**Bhāvārtha** *(p. 378)* — "O Brahmaṇaspati, rise from your seat to favour us. We, who desire the help of the gods, beseech you: 'Give your protection.' Let the Maruts, who give auspicious and noble gifts, come near us. O Indra, drink the Soma juice together with Brahmaṇaspati, or become the destroyer of Vṛtra."
+
+**English Translation (the source's own, p. 378)** — "Rise up, Brahmanaspati ; we who desire to worship the gods Solicit you ; may the liberal Maruts also come up with you ; and Indra, be a partaker of the libation."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 379–380**
+- **brahmaṇaspate** — "Brahmaṇaspati is the deity of this sūkta. Who is this Brahmaṇaspati? We shall explain in brief what his place and station among the deities are. The great ṛṣi Yāska in the Nirukta (Ni. 10-[?]-[?]), when considering Brahmaṇaspati, says:
+  **ब्रह्मणस्पतिः । ब्रह्मणस्पतिर्ब्रह्मणः पाता वा पालयिता वा ॥** — *brahmaṇaspatiḥ | brahmaṇaspatir brahmaṇaḥ pātā vā pālayitā vā* — 'Brahmaṇaspati is the protector, or the sustainer, of *brahman*.'
+  Here the word *brahma* has the senses 'food', 'wealth' and 'praise' (Ni. 2-[?]). So '*brahmaṇaḥ pātā*' means lord or master of food (of the 'eater', *āhāra* [as read, doubtful [?]]). How Brahmaṇaspati is lord of food Yāska shows by an example, quoting the ṛk
+  **अश्मास्यमवतं ब्रह्मणस्पतिर्मधुधारमभि यमोजसातृणत् । तमेव विश्वे पपिरे स्वर्दृशो बहुसाकं सिसिचुरुत्समुद्रिणम् ॥** (Ṛg. Saṃ. 2-24-4 [?], as read) — *aśmāsyam avataṃ brahmaṇaspatir madhudhāram abhi yam ojasātṛṇat | tam eva viśve papire svardṛśo bahusākaṃ sisicur utsam udriṇam* — mine and tentative: "Brahmaṇaspati, with might, split open the stone-mouthed well, the stream of honey; all the sun-seeing ones drank just that; together they poured out the spring that holds water"; and then giving the Nirukta explanation
+  **अशनवन्तमास्यन्तनवन्तमुवाततम् … ब्रह्मणस्पतिर्मधुधारमभियमोजसा बलेनाभ्यतृणत्तमेव सर्वे पिबन्ति रश्मयः सूर्यादृशो बह्वेनं सह सिञ्चन्त्युत्समुद्रिणमुदकवन्तम्** (Ni. 10-[?], as read) — *aśanavantam āsyantanavantam uvātatam [sic?] … brahmaṇaspatir madhudhāram abhi yam ojasā balenābhyatṛṇat tam eva sarve pibanti raśmayaḥ sūryād-ṛśo bahv enaṃ saha siñcanty utsam udriṇam udakavantam* — the print is crowded and doubtful from the beginning [?]; mine and tentative: "…a stream full of water; the rays, seeing from the sun, all drink it; together they pour much of this spring, rich in water." The main intention is that Brahmaṇaspati, by the help of the sun's rays, makes the clouds drink the water of the ocean and makes that water fall specially on the earth as rain; from rain come plants and trees, and from them food and the like; hence Brahmaṇaspati is the protector of food. When *brahma* is taken as 'praise' or 'wealth', Brahmaṇaspati is lord of mantras and lord of wealth. The commentator [Sāyaṇa] says this very thing in explaining the ṛk quoted above.
+  "Hymns to Brahmaṇaspati are numerous in the Ṛgveda; in them Brahmaṇaspati is said to give wealth and food. Many doubt whether this Brahmaṇaspati is a separate deity or another form of Agni. As he gives wealth and food together with Agni and other deities, some say Brahmaṇaspati is a special form of Agni. Yāska has remained silent on this point, that is, he has said nothing clearly. In the ṛks on Brahmaṇaspati there is likewise no sufficient basis to say that this deity is another form of Agni. Therefore it may be said confidently that Brahmaṇaspati is a separate deity, like Indra and Agni."
+- **upa pra yantu marutaḥ** — "let the Marut-deities come near you: that is, come together with you."
+- **prāśūḥ** = *somasya prāśakaḥ* — "one who partakes of the Soma juice: that is, one who drinks."
+- **sacā** = *sahitaḥ* — "accompanied: accompanied by Brahmaṇaspati."
+
+**Vyākaraṇa-prakriyā** *(pp. 380–381 — grammar pages, characterized)*
+- **uttiṣṭha**: *udo 'nūrdhvakarmaṇi* — उदोऽनूर्ध्वकर्मणि — [Pā. 1-3-24 as read [?]]: the *ātmanepada* after the root *sthā* with *ud*, in the sense of an action not of the "upward-direction" kind; here the deity Brahmaṇaspati rises from his place upward, so *sthā* here denotes an action that suits an upward direction, and so *ātmanepada* does not come by this sūtra; hence the *parasmaipada* alone. *Ṣṭhā gatinivṛttau*, first class; *dhātvādeḥ ṣaḥ saḥ*: *s*; the *th* [stays]; *loṭ*, *sip*, *hi*; *śap*; *pāghrādhmā…* — पाघ्राध्मास्थाम्नादाण्… — [Pā. 7-3-78 as read] gives *tiṣṭha* for *sthā*; *tiṣṭha + a + hi*; *ato heḥ* — loss of *hi*, or *pararūpa* in the alternative where the *a*-ending substitute…; *ud* + *tiṣṭha* = *uttiṣṭha*.
+- **brahmaṇaspate**: "*brahmaṇaḥ patiḥ*": *ṣaṣṭhyāḥ patiputrapṛṣṭhapārapadapayaspoṣeṣu* — [Pā. 8-3-53 as read [?]]: the *s* for the visarga of a genitive; *pati* here is a vocative; for the accent, by *subāmantrite parāṅgavat svare* — सुबामन्त्रिते पराङ्गवत्स्वरे — [Pā. 2-1-2 as read [?]] *brahmaṇaḥ* becomes a part of *pate*; and for *brahmaṇaspate* by *āmantritasya ca* [Pā. 8-1-19 as read [?]] the whole is unaccented.
+- **devayantaḥ**: "*devān ātmana icchantaḥ*"; *supa ātmanaḥ kyac* — सुप आत्मनः क्यच् — [Pā. 3-1-8 as read [?]]; *akṛtsārvadhātukayor dīrghaḥ* — अकृत्सार्वधातुकयोर्दीर्घः — [Pā. 7-4-25 as read [?]], *kyaci ca* — क्यचि च — [Pā. 7-4-33 as read [?]] (*īt* for the *a*), *na chandasy aputrasya* — न छन्दस्यपुत्रस्य — [Pā. 7-4-35 as read [?]]; the print discusses the order of these three sūtras and the paribhāṣā *anantarasya vidhir vā bhavati pratiṣedho vā*, concluding that the prohibition *na chandasi* prohibits only the *īt* of *kyaci ca*, not the lengthening; otherwise *aśvāyantaḥ* would have a long *ā* and *aśvāghasyāt* [Pā. 7-4-37 as read [?]] would be useless; so the prohibition covers both the *ī*- and the long-*ā* operations in *deva + ya*.
+- **īmahe**: "the process of the words from this up to *indra* has been given earlier."
+- **prāśūḥ**: root *śṝ hiṃsāyām*, *kryādi*; "*prakarṣeṇa āsamantāt hinasti*": *bahulaṃ chandasi* [Pā. 7-1-103 as read [?]]: *u* for the *ṛ* in the Veda, with *raparatva*: *śur*; *prāśur*, a *su*-ending; *halṅyābbhyo dīrghāt…* the loss of *su*; *vor upadhāyā dīrgha ikaḥ* — वोरुपधायाश्चदीर्घ इकः — [Pā. 8-2-76 as read [?]] the penultimate *ik* of a root ending in *r* or *v* is lengthened at the end of a word: *prāśūr*; *kharavasānayor visarjanīyaḥ*.
+- **bhava**: root *bhū sattāyām*, *loṭ*, madhyama singular; in the Saṃhitā the long vowel by *dvyaco 'tastiṅaḥ*. Rik 1 ends here (*|| 1 ||*).
+
+---
+
+### Rik 40.2 (p. 381 foot, PDF 395–)
+
+**Saṃhitā-pāṭha** *(p. 381; accents not reproduced)*
+
+> **त्वामिद्धि सहसस्पुत्र मर्त्य उपब्रूते धने हिते ।**
+> **सुवीर्यं मरुत आ स्वश्व्यं दधीत यो व आचके ॥ २ ॥**
+
+*tvām id dhi sahasas putra martya upabrūte dhane hite |*
+*suvīryaṃ maruta ā svaśvyaṃ dadhīta yo va ācake || 2 ||*
+
+*(The Pada, the bhāṣya and the rest of Rik 2 are on p. 382 onward and are not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–39 COMPLETE; Sūkta 40 in progress: printed p. 381 (PDF 395) reached; introduction (p. 376), heading (p. 377) and Rik 40.1 complete; Rik 40.2's Saṃhitā written at the foot of p. 381 (its Pada follows on p. 382).**
+
+**Next task:** continue at printed p. 382 (PDF 396) with the Pada and bhāṣya of Rik 40.2, then Riks 3–8 and the close of Sūkta 40 (to about p. 409; Sūkta 41 *yaṃ rakṣanti* begins about p. 410, check), then STOP at the end of Sūkta 40 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 396 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40 so far: (1) varga numerals and metre line of the heading small, read with doubt; (2) intro: every Āśvalāyana and Ṛgveda reference numeral is "as read [?]"; (3) Rik 1's Special Topics: the Nirukta definition of Brahmaṇaspati is clear, but the Ṛgveda quotation *aśmāsyam avataṃ…* (reference "2-24-4" as read [?]) and the Nirukta paraphrase beginning *aśanavantam…* are crowded and my glosses are tentative; (4) Rik 1's grammar: the *kyac* / *na chandasy aputrasya* / *aśvāghasyāt* argument (pp. 380–381) is characterized only; every Pāṇini number is "as read [?]"; (5) in the bhāṣya's grammatical tail the clause on *brahmaṇaspate* ("*subāmantrita*…", *āptamikam*) is crowded [?].
