@@ -3953,8 +3953,79 @@
 
 ---
 
+**Rik 52.2, Vyākaraṇa-prakriyā** *(pp. 219–220, PDF 235–236 — grammar pages, noted briefly)*
+- **nadīvṛtam** — (first the Special Topic, p. 219:) "*nadanān nadyaḥ* — *tāsām āvarītāram*: he who was in the middle of the mass of waters, the Asura Vṛtra; Indra destroyed such a Vṛtra."
+- **dharuṇeṣu**: *dhṛñ avasthāne*; the Uṇādi suffix *una* by *dhārayater nir lug ca* [as read, [?]]; *guṇa* of the root; *ṇatva* of the *n* after *r* by *aṭkupvāṅnumvyavāye 'pi*; *dharuṇa*; locative plural; the initial acute of the suffix gives the *u* after *r* an acute.
+- **sahasramūtiḥ**: "*sahasram ūtayo yasya asau*"; in the compound, the dropping of the case ending that *supo dhātuprātipadikayoḥ* would give is not applied in the Veda.
+- **vavṛdhe**: *vṛdhu vṛddhau*, *bhvādi*; *liṭ* third singular *ta*, replaced by *e* by *liṭas tajhayor eśirec*; being *ṇit*-like (*liṅ*), the root is reduplicated; *urat*; *halādiḥ śeṣaḥ*; *asaṃyogāl liṭ kit* gives it the *kit* nature, so no *guṇa*: *vavṛdhe*; *tiṅ atiṅaḥ*: *nighāta*; in the Saṃhitā the reduplicative vowel is lengthened by *anyeṣām api dṛśyate*: *vāvṛdhe*.
+- **nadīvṛtam**: "*nadīṃ vṛṇotīti nadīvṛt*"; *vṛñ varaṇe*; *kvip ca*; *hrasvasya piti kṛti tuk* gives *tuk* after the root's short vowel; since the suffix is *kit*, no *guṇa*; accusative singular.
+- **ubjan**: *ubja ārjave*, *tudādi*, *śatṛ* in the present sense; *tudādibhyaḥ śaḥ*; *ubjat*; nominative singular, *ugit*, so *num*; *halṅyādi* drops *su*, then the *saṃyogāntalopa*: *ubjan*; the *vikaraṇa*-accent makes the *a* after *j* acute.
+- **arṇāṃsi**: *ṛ gatau*; *udake nuṭ ca* (Uṇ. 4-… as read [?]) — when the sense is "water", the Uṇādi *asun* and the *nuḍ*-augment; *ṇatva* by *raṣābhyāṃ no ṇaḥ samānapade*: *arṇas*; accusative plural *arṇāṃsi*; because *asun* is *nit*, initial-acute by *ñnityādir nityam*.
+- **jarhṛṣāṇaḥ**: *hṛṣa tuṣṭau* in the intensive sense: *yaṅ*, elided here by *yaṅo 'ci ca*; *sanādyantā dhātavaḥ*, so the root-designation; reduplication; *abhyāsasya halādiḥ śeṣaḥ*; *cutva* gives *j*; *rugrikau ca luki* (Pā. 7-4-91) the *ruk*-augment: *jarhṛṣ*; though suited to *śatṛ*, *vyatyayo bahulam* gives *śānac*; *ṇatva* by *aṭkupvāṅnumvyavāye*; *abhyastānām ādiḥ*, initial-acute; or, after *yaj* ending, *śānac*, and by *bahulaṃ chandasi* elision of *śap*, with *chandasy ubhayathā*, *ārdhadhātuka* nature for *śānac*, and *ato lopo yasya hala*, the form is as before.
+- **andhasā**: "*adyate iti andhaḥ*"; *ad bhakṣaṇe*; the Uṇādi *nuṭ* (num) *ādeḥ nuḍ dhaś ca* (Uṇ. 4-… as read [?]) — *num* to the root and *asun*, with *dh* for the final *d*: *andhas*; instrumental singular; *asun* is *nit*, so *ñnityādir nityam* gives the initial acute. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.2 written through the Special Topics of 52.2 (printed p. 218, PDF 234). The Vyākaraṇa-prakriyā of Rik 2 (begins p. 219, PDF 235) and Rik 52.3 onward are NOT yet written.**
+### Rik 52.3 (pp. 220–224, PDF 236–240)
 
-**Next task:** continue at printed p. 219 (PDF 235) with "**Rik 52.2, Vyākaraṇa-prakriyā**" (grammar page, note briefly), then Rik 52.3 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?]; the Kannada note on *tvam* in 52.1 reads as if the head-word were *tyam* [?].
+**Saṃhitā-pāṭha** *(p. 220; accents printed, not reproduced)*
+
+> **स हि द्वरो द्वरिषु वव्र ऊधनि चन्द्रबुध्नो मदवृद्धो मनीषिभिः ।**
+> **इन्द्रं तमह्वे स्वपस्यया धिया मंहिष्ठरातिं स हि पप्रिरन्धसः ॥ ३ ॥**
+
+*sa hi dvaro dvariṣu vavra ūdhani candrabudhno madavṛddho manīṣibhiḥ |*
+*indraṃ tam ahve svapasyayā dhiyā maṃhiṣṭharātiṃ sa hi paprir andhasaḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 220)*
+
+> सः । हि । द्वरः । द्वरिषु । वव्रः । ऊधनि । चन्द्रऽबुध्नः । मदऽवृद्धः । मनीषिऽभिः ।
+> इन्द्रम् । तम् । अह्वे । सुऽअपस्यया । धिया । मंहिष्ठऽरातिम् [print: "रातिः", [?]] । सः । हि । पप्रिः । अन्धसः ॥ ३ ॥
+
+*saḥ | hi | dvaraḥ | dvariṣu | vavraḥ | ūdhani | candra-budhnaḥ | mada-vṛddhaḥ | manīṣi-bhiḥ |*
+*indram | tam | ahve | su-apasyayā | dhiyā | maṃhiṣṭha-rātim [the print reads "-rātiḥ", doubtful, [?]] | saḥ | hi | papriḥ | andhasaḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 221)*
+
+> **स पूर्वोक्तगुणविशिष्ट इन्द्रो द्वरिष्वावरीतृषु शत्रुषु द्वरो हि अतिशयेनावरीता खलु । शत्रुजयशील इत्यर्थः । यस्मादूधन्यद्भुतजलवत्यन्तरिक्षे [?] वव्रः संभक्तो व्याप्य वर्तते । अत एव चन्द्रबुध्नः । सर्वासां प्रजानामाह्लादकमूलः । अन्तरिक्षस्य सर्वाह्लादकत्वात् । मदवृद्धः । माद्यन्त्येभिरिति मदाः सोमाः । तैर्वर्धितः । एवंभूतो य इन्द्रो मंहिष्ठरातिं प्रवृद्धधनं प्रवृद्धदानं वा तमिन्द्रं मनीषिभिर्मनस ईशित्रभिः प्राज्ञैर्ऋत्विग्भिः सह स्वपस्यया धिया शोभनकर्मयोग्यया बुद्ध्याह्वे । आह्वयामि । हि यस्मात्स इन्द्रोऽन्धसोऽन्नस्यास्मदपेक्षितस्य पप्रिः पूरयिता ॥**
+
+*sa pūrvoktaguṇaviśiṣṭa indro dvariṣv āvarītṛṣu śatruṣu dvaro hi atiśayenāvarītā khalu | śatrujayaśīla ity arthaḥ | yasmād ūdhany adbhutajalavaty antarikṣe [?] vavraḥ saṃbhakto vyāpya vartate | ata eva candrabudhnaḥ | sarvāsāṃ prajānām āhlādakamūlaḥ | antarikṣasya sarvāhlādakatvāt | madavṛddhaḥ | mādyanty ebhir iti madāḥ somāḥ | tair vardhitaḥ | evaṃbhūto ya indro maṃhiṣṭharātiṃ pravṛddhadhanaṃ pravṛddadānaṃ vā tam indraṃ manīṣibhir manasa īśitṛbhiḥ prājñair ṛtvigbhiḥ saha svapasyayā dhiyā śobhanakarmayogyayā buddhyāhve | āhvayāmi | hi yasmāt sa indro 'ndhaso 'nnasyāsmadapekṣitasya paprih pūrayitā ||*
+
+*(Reading notes: "*ūdhany adbhutajalavaty antarikṣe*" is crowded at the edge of the line, [?]; "*adbhuta*" may be "*abhrajala-*" (water of clouds) — the Pratipadārtha has "in the sky full of water-laden clouds", which I follow in the translation. The tail of the bhāṣya, pp. 221–222, is characterized: *dvaraḥ* (*dvṛ*, "*dvarati āvṛṇotīti*", *pacādi ac*, accent by the *cit*);* dvariṣu *(the suffix* ṭi*… as the agent suffix);* vavraḥ *(*vṛñ saṃbhaktau*, *ka* by "*ghañarthe kavidhānaṃ sthāsnāpāvyadhihanīyudhyartham*", the doubling of the root);* ūdhani *(*ūrdhvaṃ dhriyate 'smin jalam*, the substitute* anaṅ *for* ūdhas *by* dṛśigrahaṇa*, or in a compound by* ūdhasoṅ*… *[Pā. 5-4-131 as read, [?]]);* candrabudhnaḥ *(*cadi āhlādane dīptau ca*, Uṇādi* rak*; bahuvrīhi);* madavṛddhaḥ *(*madī harṣe*, *ap* by* mado 'nupasarge *with the third-case compound);* ahve *(*hve ñ spardhāyāṃ śabde ca*, the Vedic* luṅ *in the present sense with* cleraṅ*);* svapasyayā*,* maṃhiṣṭharātim*,* papriḥ *as in the grammar notes below.)*
+
+**Translation of the bhāṣya:** "That Indra, possessed of the qualities just told, *dvaraḥ hi dvariṣu*: among the enemies who cover (the world), he is indeed an exceeding coverer [or: overwhelmer] — victorious over enemies, is the sense — *vavraḥ ūdhani*: because he pervades and is well-established in the sky, [full of water-laden clouds, [?]]. Hence *candrabudhnaḥ*: the root of delight for all creatures, since the sky delights all. *Madavṛddhaḥ*: *madāḥ* are the Somas by which men are intoxicated; he is increased by them. That Indra, *maṃhiṣṭharātim*, the one of exceeding wealth, or exceeding gifts — *taṃ indram*, that Indra *ahve*, I invoke, together with *manīṣibhiḥ*, the wise priests, the masters of mind, *svapasyayā dhiyā*, with an intellect fitted for good works; because he, *saḥ hi*, is *paprih*, the fulfiller, *andhasaḥ*, of the food we desire."
+
+**Pratipadārtha** *(pp. 221–222)* — "**saḥ** — that Indra; **dvariṣu** — among the obstructing enemies; **dvaraḥ hi** — (exceedingly mighty, therefore) victorious indeed; **ūdhani** — in the sky filled with clouds that carry water; **vavraḥ** — pervading; **candrabudhnaḥ** — the cause of delight for all; **madavṛddhaḥ** — increased by the soma juice — (he who is of such qualities); **maṃhiṣṭharātim** — one of exceeding wealth or exceeding gifts; **tam indram** — that Indra; **manīṣibhiḥ** — with the learned ṛtvijs; **svapasyayā dhiyā** — with the intellect that is fit for sacred acts; **ahve** — I invoke; **hi** — the reason: **saḥ** — that Indra; **andhasaḥ** — of the food desired by us; **paprih** — the fulfiller (who bestows abundant food on us)."
+
+**Bhāvārtha** *(p. 222)* — "That Indra conquers enemies who are exceedingly powerful. Because he pervades the sky filled with water-laden clouds, he is a cause of delight. Such a Indra, full of qualities, increased by the soma juice, and generous with gifts, I invoke together with the wise ṛtvijs, with a pure mind fitted for sacred acts; for he bestows abundant food on us."
+
+**English Translation (the source's own, p. 222)** — "He who is victorious over his enemies, who is spread through the dewy firmament, the root of happiness, who is exhilarated by the soma-juice ; him I invoke, the most bountiful Indra along with learned priests with a mind disposed to pious adoration, for he is the bestower of abundant food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 222–223**
+- **dvaraḥ** — "*dvarati āvṛṇotīti dvaraḥ*: an enemy who attacks in an exceeding manner. In the sentence *dvariṣu dvaraḥ hi*, which refers to Indra, it means one who, attacking even the very strong enemies together, destroys them."
+- **ūdhani** — "Its derivation is '*ut ūrdhvaṃ dhriyate 'smin jalam*' — 'in which the water is held up above'. By this, the sense of this word is the mass of clouds, which is the support of water in the upper region."
+- **candrabudhnaḥ** — "One who gladdens like the moon. The word *candra*, formed from the root *cadi āhlādane dīptau ca*, is used here in the senses both of gladdening and of brightness."
+- **madavṛddhaḥ** — "Indra, who is specially increased by the drinking of the soma juice, which gives delight."
+- **maṃhiṣṭharātim** — "By the derivation '*maṃhiṣṭhā rātir yasya saḥ*', Indra is shown to be one of exceeding wealth, or one who especially gives. The word *rāti* has two senses, lordship and gift."
+- **paprih** — "From the root *pyā*, 'to protect and to fill', in the sense of filling: this word has the sense 'one who fills (makes full)'."
+
+**Vyākaraṇa-prakriyā** *(pp. 223–224 — grammar pages, noted briefly)*
+- **dvaraḥ**: the root is established by a variant reading, *dvṛ*, "to cover" (*dvṛ ity eke*); "*dvarati āvṛṇotīti dvaraḥ*"; being in the *pacādi* group, *ac* by *nandigrahipacādibhyo lyuṇinyacaḥ*; end-acute by *citaḥ*; *guṇa* of the root: *dvaraḥ*.
+- **dvariṣu**: for the root as above, the suffix *i* by *ācer iḥ* [Uṇ. 4-… as read, [?]]; *guṇa*: *dvari*; locative plural.
+- **vavraḥ**: *vṛñ saṃbhaktau*; "*vriyate saṃbhajyate iti vavraḥ*"; the *ka*-suffix by *ghañarthe kavidhānaṃ sthāsnāpāvyadhihanīyudhyarthaṃ* (Pā. 3-3-58 *vārttika*, as read [?]) — the list of roots in this *vārttika* is only indicative of others, so *ka* comes also after this root in the sense of the action; reduplication by the Vedic rule; being *kit*, no *guṇa*: *vavraḥ*.
+- **ūdhani**: "*ut ūrdhvaṃ dhriyate 'smin jalam*": *ūdhaḥ*, a word ending in *s*; in the locative singular, when the ending follows, *asthidadhisakthyakṣṇām anaṅudāttaḥ* (Pā. 7-1-75) — by the word *dṛśi* (*chandasy api dṛśyate*) *anaṅ* comes also to the word *ūdhas*; or, by *ūdhaso 'naṅ* (Pā. 5-4-131 as read [?]) the *anaṅ* that is laid down in a compound, being Vedic, comes to the bare *ūdhas*; since it has a mute *ṅ* it comes at the end; *vibhāṣā ṅiśyoḥ* does not give the loss of *a* here.
+- **candrabudhnaḥ**: *cadi āhlādane dīptau ca*; *idit*, so *num* by *idito num dhātoḥ*; the suffix *rak* by *sphāyitañcivañcy…* (Uṇ. 2-… as read [?]): *candra*; end-acute by the suffix; then a bahuvrīhi; by *bahuvrīhau prakṛtyā pūrvapadam* the accent stays in the compound.
+- **madavṛddhaḥ**: *madī harṣe*; "*mādyanty ebhir iti madāḥ*"; *mado 'nupasarge* (Pā. 3-3-67) gives *ap* in the instrument sense; being *pit*, *anudātta* by *anudāttau supitau*; so the root's end-acute remains; *vṛddhaḥ madavṛddhaḥ*: *tṛtīyā karmaṇi* (Pā. 6-2-48) gives the accent of the first member.
+- **ahve**: *hve ñ spardhāyāṃ śabde ca*; by *chandasi luṅlaṅliṭaḥ* *luṅ* in the present sense; first singular *iṭ*; *ātmanepadeṣv anyatarasyām* (Pā. 3-1-54) gives *aṅ* in place of *cli*; since the root ends in *ñ* [i.e. the *e*], *ādeca upadeśe 'śiti* (Pā. 6-1-45) gives *ā*; before *aṅ*, *ato lopa iṭi ca* (Pā. 6-4-… as read [?]) drops the root's *ā*; *aṭ* augment; *guṇa* of *a* with *i*: *ahve*; the *tiṅanta*'s *nighāta*.
+- **svapasyayā**: *apaḥ* is the name of action; "*śobhanam apaḥ svapaḥ*"; "*tad arhatīti svapasyā*": *yat* by *chandasi ca* in the sense "fit for"; in the feminine, *ṭāp* by *ajādyataṣṭāp*; instrumental singular.
+- **maṃhiṣṭharātim**: *mahi vṛddhau*; *idit*, so *num*; *tṛc* in the agent sense; the feminine by *ugitaś ca*… (*ṅīp*): *maṃhitrī*; "*atiśayena maṃhitrī maṃhiṣṭhā*" with the suffix *iṣṭhan* by *tuś chandasi*; before *iṣṭhan* the *tṛ* drops by *turiṣṭhemeyaḥsu* (Pā. 6-4-154); since *iṣṭhan* is *nit*, initial-acute; "*maṃhiṣṭhā rātir yasya*" a bahuvrīhi; *striyāḥ puṃvat* (Pā. 6-3-34) gives the masculine form, *maṃhiṣṭha* with a short *a*; accent of the first member.
+- **papriḥ**: *pyā pālanapūraṇayoḥ*, *juhotyādi*; *kin* by *ādṛgamahanajana…* (Pā. 3-2-171); since it takes *liṭ*-like doubling, reduplication, *urat*, *halādiśeṣa*; with *pipṛ + i* (here *pap* + *i*) *udoṣṭhyapūrvasya* would give *u*, but *bahulaṃ chandasi* prevents it, so *yaṇ* for *ṛ*: *papri*; though *yaṇ* first, *dvirvacane 'ci* applies as though the substituted form remained; since *kin* is *nit*, *ñnityādir nityam* gives the initial acute. **|| 3 ||**
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.3 complete (printed through p. 224, PDF 240). Rik 52.4 begins at the head of p. 225 (PDF 241) — NOT yet written.**
+
+**Next task:** continue at printed p. 225 (PDF 241) with **Rik 52.4**, then Riks 5–15 and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?]; the Kannada note on *tvam* in 52.1 reads as if the head-word were *tyam* [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" and bhāṣya "ūdhany adbhutajalavaty antarikṣe" [?]; Uṇādi and Pāṇini numerals in the grammar notes as read [?].
