@@ -3381,12 +3381,132 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.15 (continued) — Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 229–231, PDF 243–245)
+
+**Pada-pāṭha** *(p. 229)*
+
+> पाहि । नः । अग्ने । रक्षसः । पाहि । धूर्तेः । अराव्णः ॥
+> पाहि । रिषतः । उत । वा । जिघांसतः । बृहद्भानो इति बृहत्ऽभानो । यविष्ठ्य ॥ १५ ॥
+
+*pāhi | naḥ | agne | rakṣasaḥ | pāhi | dhūrteḥ | arāvṇaḥ ||*
+*pāhi | riṣataḥ | uta | vā | jighāṃsataḥ | bṛhadbhāno iti bṛhat-bhāno | yaviṣṭhya || 15 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 229; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने हे बृहद्भानो बृहन्तो भानवो यस्य तादृश हे यविष्ठ्य युवत्तम हे अग्ने नोऽस्मान्रक्षसो बाधकाद्राक्षसादेः पाहि । पालय । तथा अराव्णो धनादीनामदात्रूपाद्धूर्तेर्हिंसकात्पाहि । तथा रिषतो हिंसकाद्व्याघ्रादेः सकाशात्पाहि । उत वा अथवा जिघांसतो हन्तुमिच्छतः शत्रोः सकाशात्पाहि ॥
+
+*he agne he bṛhadbhāno bṛhanto bhānavo yasya tādṛśa he yaviṣṭhya yuvattama he agne no 'smān rakṣaso bādhakād rākṣasādeḥ pāhi | pālaya | tathā arāvṇo dhanādīnām adātṛrūpād dhūrter hiṃsakāt pāhi | tathā riṣato hiṃsakād vyāghrādeḥ sakāśāt pāhi | uta vā athavā jighāṃsato hantum icchataḥ śatroḥ sakāśāt pāhi ||*
+
+**Translation:** "O Agni — O *bṛhadbhānu*, he whose rays are great — O *yaviṣṭhya*, most youthful: Agni, *naḥ* — us — *rakṣasaḥ*, from the *rākṣasa* who is an obstructor, and the like — *pāhi*, protect. Likewise from *arāvṇaḥ* — from one who does not give wealth and the like — *dhūrteḥ*, from the injurer, protect. Likewise from *riṣataḥ*, from the injurer such as a tiger, protect. *Uta vā* — or — from *jighāṃsataḥ*, the enemy who wishes to kill, protect."
+
+**Grammar within the bhāṣya** *(p. 229, characterized)*: *dhūrteḥ* (*dhurvī hiṃsārthe*; *kvic*-type suffix *kvip* [the print: *ktic*] in the agent sense; the *iṭ* is barred by *titutra…*; *rālopaḥ*: *v* is lost before the *kvip*-like suffix, *halica* lengthens); *arāvṇaḥ* (*rā dāne*; *vanip* by *ato manin kvanib vanipaś ca*; *na rāvan*, a *nañ*-compound; *pañcamyāḥ ekavacane*; *allopo 'naḥ*: loss of the *a* of *an*; the first-member accent of a *nañ*-prefixed indeclinable compound); *riṣataḥ* (*riṣa hiṃsāyām*, *śatṛ*, *śap* lost, with the first-syllable acute by *vyatyaya*); *jighāṃsataḥ* (*han* + *san*; *ajjhanagamāṃ sani*: lengthening; *abhyāsāc ca*: *h* → *gh*; *sanyataḥ*: *i* for the reduplicate; the *ṭ*-… *śatṛ* unaccented by *tāsyanudāttet…*; *san* being *nit*, first-syllable acute); *bṛhadbhāno* (at the beginning of a pāda, so *āmantritasya ca* does not make it wholly unaccented but first-syllable acute); *yaviṣṭhya* (explained in the sixth ṛk).
+
+**Pratipadārtha** *(pp. 229–230)* — "**bṛhadbhāno** — O Agni, having radiant rays; **yaviṣṭhya** — extremely youthful; **agne** — O Agni; **naḥ** — us; **rakṣasaḥ** — from the rākṣasa who does us harm; **pāhi** — protect; **arāvṇaḥ** — from one who gives us no wealth or the like [and is hostile]; **dhūrteḥ** — from the deceitful and injurious one; **pāhi** — protect; **riṣataḥ** — from [animals that] cause us harm; **pāhi** — protect; **uta vā** — or; **jighāṃsataḥ** — from the enemy who wishes to kill us; [**pāhi**] — protect."
+
+**Bhāvārtha** *(p. 230)* — "O Agni, you are always blazing with radiant rays and are forever youthful. All our protection belongs to you. There are many enemies who wish us harm. There are rākṣasas who do us harm, and wicked, hostile men who deceive and injure us and do not give what they should — wealth and grain — and animals such as tigers that harm us in many ways, and enemies who always wish to kill us. Protect us from all these."
+
+**English Translation (the source's own, p. 230)** — "Youthfull and most brilliant Agni, protect us from evil spirits and from the wicked man who gives no gifts ; protect us from harmful animals and from those who desire to kill us" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 230–231**
+- **dhūrteḥ** = *hiṃsakāt*: "from one who gives trouble; a man of wicked nature."
+- **arāvṇaḥ** = *rā dāne*: "one who gives no wealth and the like; that is, one who is opposed to us and does not wish us well."
+- **riṣataḥ** = *riṣa hiṃsāyām*: "from wicked animals that do injury."
+- **jighāṃsataḥ** = *hantum icchataḥ śatroḥ sakāśāt*: "from enemies who desire to kill us."
+- **yaviṣṭhya** = *yuvattama*: "the best of the young, the foremost: that is, a young man, a youth. Since Agni burns for a very long time even when fuel and the like are put in, it is the established usage to compare him to a young man who lives a long time without ageing. Therefore, in describing Agni's qualities it is the established usage to use such words as *yuvā*, *yaviṣṭhya* and the like."
+- **bṛhadbhāno** = *bṛhanto bhānavo yasya*: "one who has large or many rays; that is, exceedingly brilliant."
+
+**Vyākaraṇa-prakriyā** *(p. 231, PDF 245 — grammar page, noted briefly)*
+- **dhūrteḥ**: root *dhurvī hiṃsārthaḥ*; *ktic ktau ca saṃjñāyām* — [Pā. 3-3-174, as read]: *ktic* in the agent sense; *titutra…*: no *iṭ*; *rālopaḥ* — रालोपः — [Pā. 6-4-21]: the *v* after the *r* in front of *kvip*, a *jhal*-initial suffix or a nasal-initial suffix is lost; *dhur + ti*; *halica* — [Pā. 8-2-77]: *u* lengthened: *dhūrti*; fifth-case singular.
+- **arāvṇaḥ**: root *rā dāne*; *ato manin kvanib vanipaś ca* — आतो मनिन्क्वनिब्वनिपश्च — [Pā. 3-2-74]: *vanip* after *ā*-ending roots; *rāvan*, *na rāvan* (a *nañ*-compound); *tasmān nuḍ aci*; the accent of the first member of an indeclinable-prefixed compound; fifth-case singular *as*; *allopo 'naḥ* — अल्लोपोऽनः — [Pā. 6-4-134]: the *a* of *an* is lost.
+- **riṣataḥ**: root *riṣa hiṃsāyām*; *laṭaḥ śatṛ*; *śap* lost; by the Veda the first syllable is acute.
+- **jighāṃsataḥ**: root *han hiṃsāgatyoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* — *san* in the sense *icchati*; *sanyaṅoḥ*: doubling, loss of the *a*'s…; *ajjhanagamāṃ sani* — अज्झनगमां सनि — [Pā. 6-4-16]: lengthening of the penultimate of *ac*-ending roots and of *han*, *gam* before *jhal*-initial *san*; *abhyāsāc ca* — अभ्यासाच्च — [Pā. 7-3-55]: *h* of *han* after the reduplicate becomes *gh* [*kutva*]; *abhyāse carca*: the first *h* becomes *j*; *sanyataḥ* — सन्यतः — [Pā. 7-4-79]: *i* for the reduplicate's *a* before *san*; the *n* → anusvāra: *jighāṃsa*; *śatṛ* is unaccented by *tāsyanudāttenṅid…*, the *san* being *nit* gives the first-syllable acute.
+- **bṛhadbhāno**: at the beginning of a pāda, so the wholly-unaccented accent of the eighth *adhyāya*'s *āmantritasya ca* [Pā. 8-1-19] does not occur; by the sixth *adhyāya*'s *āmantritasya ca* [Pā. 6-1-198] the first syllable is acute.
+- **yaviṣṭhya**: "explained in the sixth mantra of this sūkta." Rik 15 ends here (*|| 15 ||*).
+
+### Rik 36.16 (pp. 232–236, PDF 246–250)
+
+**Saṃhitā-pāṭha** *(p. 232; accents not reproduced)*
+
+> **घनेव विष्वग्वि जह्यराव्णस्तपुर्जम्भ यो अस्मध्रुक् ।**
+> **यो मर्त्यः शिशीते अत्यक्तुभिर्मा नः स रिपुरीशत ॥ १६ ॥**
+
+*ghaneva viṣvag vi jahy arāvṇas tapurjambha yo asmadhruk |*
+*yo martyaḥ śiśīte aty aktubhir mā naḥ sa ripur īśata || 16 ||*
+
+**Pada-pāṭha** *(p. 232)*
+
+> घनाऽइव । विष्वक् । वि । जहि । अराव्णः । तपुःऽजम्भ । यः । अस्मऽध्रुक् ॥
+> यः । मर्त्यः । शिशीते । अति । अक्तुऽभिः । मा । नः । सः । रिपुः । ईशत ॥ १६ ॥
+
+*ghanā-iva | viṣvak | vi | jahi | arāvṇaḥ | tapuḥ-jambha | yaḥ | asma-dhruk ||*
+*yaḥ | martyaḥ | śiśīte | ati | aktu-bhiḥ | mā | naḥ | saḥ | ripuḥ | īśata || 16 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 232–233; the first half in full, the grammatical tail characterized)*
+
+> हे तपुर्जम्भ तप्यमानरश्म्यायुक्ताग्ने अराव्णोऽस्मभ्यं देयस्य धनस्यादात्त्न्न्रिपो विष्वक् सर्वतो वि जहि । विशेषेण मारय । तत्र दृष्टान्तः । घनेव । यथा कठिनेन दण्डपाषाणादिना भाण्डादिभङ्गं करोति तद्वत् । योऽन्योऽपि रिपुरस्मध्रुक् अस्मद्विषयद्रोहकारी भर्त्सनादिना बाधते । यश्चान्यो मर्त्यो मनुष्यः शत्रुरक्तुभिरायुधैरति शिशीते तनूकरोति । अस्मान्प्रहरतीत्यर्थः । स रिपुर्भर्त्सनप्रहारकारी द्विविधोऽपि शत्रुर्नोऽस्मान्प्रति मेशत । ईश्वरः शक्तो मा भूत् ॥
+
+*he tapurjambha tapyamānaraśmyāyuktāgne arāvṇo 'smabhyaṃ deyasya dhanasyādātṝn ripo viṣvak sarvato vi jahi | viśeṣeṇa māraya | tatra dṛṣṭāntaḥ | ghaneva | yathā kaṭhinena daṇḍapāṣāṇādinā bhāṇḍādibhaṅgaṃ karoti tadvat | yo 'nyo 'pi ripur asmadhruk asmadviṣayadrohakārī bhartsanādinā bādhate | yaś cānyo martyo manuṣyaḥ śatrur aktubhir āyudhair ati śiśīte tanūkaroti | asmān praharatīty arthaḥ | sa ripur bhartsanapraharakārī dvividho 'pi śatrur no 'smān prati meśata | īśvaraḥ śakto mā bhūt ||*
+
+*(The print's "nm" after "ādātṝn" is a damaged conjunct; I read the sentence as above, with the damaged letters as "n ripo" [?].)*
+
+**Translation:** "O *tapurjambha* — Agni, who has burning rays [as weapons] — *arāvṇaḥ* — [those] who give us no wealth that is to be given — enemies — *viṣvak*, on all sides, *vi jahi*, destroy specially. The illustration is *ghaneva*: as one breaks pots and the like with a hard stick or stone and the like. And *yaḥ asmadhruk* — whichever other enemy does injury to us and troubles [us] by threats and the like; and *yaḥ martyaḥ* — whichever other mortal, a man, an enemy, *ati śiśīte* — whets [= sharpens] [his] *aktubhiḥ*, his weapons: that is, he strikes us — *saḥ ripuḥ*, that enemy, of both kinds, the threatener and the striker, *mā naḥ īśata* — may he not be lord, able, over us."
+
+**Grammar within the bhāṣya** *(pp. 232–233, characterized)*: *ghaneva* (*supāṃ sulug…*: *ṭā* → *ḍā*; loss of *ṭi*; the compound with *iva* by *iveneva…*); *jahi* (*hano vadha…*; *hantes jaḥ*: *ja* for *han* before *hi*; *ato heḥ* [read: *hi* lost]; *asiddhavad atrābhāt*; the lengthening is not made); *tapurjambha* (*tapa santāpe*, the Uṇādi *usin* in the instrument sense; *tapus* is first-syllable acute; *jabhī nāśane*, *ghañ* in the instrument sense; *jambhāni* "weapons that destroy enemies"; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi; vocative: *āmantritādyudāttatvam*); *asmadhruk* (*asmabhyaṃ drogdhi*; *druha jighāṃsāyām*; *satsūdviṣa…*: *kvip*; *halṅyābbhyo…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām*: *h* → *gh* optional; *ekāco baśo bhaṣ*: *g* → *gh* [read: *dh*]; *carva*); *śiśīte* (*śo tanūkaraṇe*, *divādi*; *vyatyayo bahulam*: *ātmanepada*; *śyan* → *ślu* by *bahulam*; *ādeca upadeśe*: *ā* for *o*; *ślau*: doubling; *śā + śā + te*; the reduplicate shortened; *bahulaṃ chandasi*: *i* for the reduplicate vowel; *ī* for *ā* by *hali ghoḥ*; the first syllable acute by *vyatyaya*; because the relative *yaḥ* is connected, no lowering: *yadvṛttānnityam*); *īśata* (*īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*, no *aṭ* by *na māṅyoge*; *śap* would be lost for an *adādi* root, but by *bahulaṃ chandasi* it is not).
+
+**Pratipadārtha** *(p. 233)* — "**tapurjambha** — O Agni, whose weapons are the burning rays; **arāvṇaḥ** — the enemies who do not give us the wealth [that is due]; **ghaneva** — as pots are broken by hard stones; **viṣvak** — on all sides; **vi jahi** — destroy completely; **yaḥ** — whichever other enemy; **asmadhruk** — wishing to injure us [by terrifying us]; **yaḥ** — which enemy in the form of a man; **aktubhiḥ** — by dark weapons; **ati śiśīte** — whets and strikes at us; **saḥ ripuḥ** — that enemy (or those enemies); **naḥ** — over us; **mā īśata** — may he not be able to prevail."
+
+**Bhāvārtha** *(p. 233)* — "O Agni, your rays are always strong and carry [your] strength; they destroy our enemies. They need no effort at all to kill the enemies who hinder us from [receiving] the wealth we are to receive. As easily as one breaks the pots of a potter with hard stones and sticks, destroy our enemies. Destroy together those enemies in the form of rākṣasas who injure us by terrifying us, and also those in the form of men who strike at us and terrify us with dark weapons; so that, when they raise their hands against us, they may not be able to conquer us."
+
+**English Translation (the source's own, p. 233)** — "Agni, with the burning rays destroy entirely our enemies who give no gifts ( as a man smashes earthen pots ) with a hammer ; let not the person who hates us, nor the man who attacks us with sharp weapons prevail against us·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 234**
+- **ghaneva** = *kaṭhinena daṇḍapāṣāṇādinā*: "with a hard or thick stick, a stone, and similar weapons: as pots and such things that break easily are broken, so destroy our enemies."
+- **viṣvak** = *sarvataḥ*: "on all sides, or completely."
+- **tapurjambha** = *tapa santāpe | jabhī nāśane*: "Agni whose flames or rays burn everything, mainly the enemies: the Agni who has well-burning rays."
+- **asmadhruk** = *asmadviṣayadrohakārī*: "one who wishes harm to us; our enemy."
+- **śiśīte atyaktubhiḥ** — "the bhāṣyakāra's explanation is 'he strikes us with weapons and the like'. The commentators on the Veda have explained the word *aktubhiḥ* as 'in the night-time' — and the same sense, as it is given in the ṛk:"
+
+> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः । (ऋ. सं. १-११२-२५ [?])
+
+*dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ | (ṛ. saṃ. 1-112-25 [?])*
+
+"fits well here too." *(My gloss, tentative: "protect us by days and nights, O Aśvins, with unharmed good fortunes"; the same ṛk was quoted at Sūkta 34, Rik 8.)*
+- **mā naḥ sa ripur īśata** — "may such an enemy as stated above not rule over us and give us trouble: such is the sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 234–236, PDF 248–250 — grammar pages, noted briefly)*
+- **ghaneva** (p. 234): after *ghana*, the third-case singular *ṭā*, replaced by *ḍā* by *supāṃ sulug…*; loss of *ṭi*; *iveneva samāso vibhaktyalopaḥ…* — compound with *iva*, nitya.
+- **jahi**: root *han*; *loṭ*, *sip*, *hi*; *hanter jaḥ* — हन्तेर्जः — [Pā. 6-4-36]: *ja* for *han* before *hi*; *ato heḥ* [Pā. 6-4-105] would give *luk* of *hi* after a short *a*; but, since the substitution *ja* is *asiddha* by *asiddhavad atrābhāt* — असिद्धवदत्राभात् — [Pā. 6-4-22], and the rule operates in the same domain, *ja* is *asiddha* [for the purpose of *ato heḥ*]; so *hi* remains after *han*, and *luk* is not made, since it does not stand after a short *a*.
+- **tapurjambha** (p. 235): root *tapa santāpe*; the Uṇādi suffix *usin* in the instrument sense [*tapeḥ…*, Uṇ. 2-[?]]; *tapus* is first-syllable acute by *nit*; *jabhī nāśane*, class 10 [as read: the *gaṇa* number]; *jambhyante śatravaḥ ebhiḥ* — "by which enemies are destroyed": *ghañ* in the instrument sense; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi — Agni whose weapons are the burning rays; the vocative takes the first-syllable acute by *āmantritasya ca* [Pā. 6-1-198] and is not wholly unaccented, being at the beginning of a pāda.
+- **asmadhruk**: *asmabhyaṃ drogdhi* — *druha jighāṃsāyām*, a *divādi* root; *satsūdviṣadruha…*: *kvip*; loss of the case-ending of the compound by *luk*; *halṅyābbhyaḥ…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām* — वा द्रुहमुहष्णुहष्णिहाम् — [Pā. 8-2-33]: for the final *h* of these four roots *gh* optionally replaces [*ghatva*], even at the end of a word before a *jhal*; *ekāco baśo bhaṣ jhaṣantasya sdhvoḥ* — [Pā. 8-2-37]: for the *baś* of a one-vowelled root ending in *jhaṣ*: *d* → *dh*; hence *asmadhruġh*, and *carva* [*khari ca*] gives *asmadhruk*.
+- **śiśīte**: root *śo tanūkaraṇe*, *divādi*, *parasmaipada*; *vyatyayo bahulam* — व्यत्ययो बहुलम् — [Pā. 3-1-85]: the *vikaraṇa* (*śap* etc.) and the voice appear interchanged in the Veda; the print explains the word *bahulam* here with the verse "*supāṃ… kālahalacsvarakartṛyaṅāṃ ca | vyatyayam icchati śāstrakṛd eṣāṃ so 'pi ca siddhyati bāhulakena*" — [the verse, as read; "the authors of the *śāstra* allow interchange (*vyatyaya*) of the case-endings, tenses, consonants, vowels, agents, and *yaṅ* — and that too is established by *bāhulaka*"]; "*upagraha*" means the *parasmaipada* and *ātmanepada*; so *ātmanepada* in place of *parasmaipada*; *śyan* → *śnu*? [the print: *śyan* with *ślu* by *bahulaṃ chandasi*]; *ādeca upadeśe 'śiti* — [Pā. 6-1-45]: *o* → *ā* before a non-*śit* suffix; *ślau* [Pā. 6-1-10]: doubling; *śā + śā + te*; *hrasva*; *bahulaṃ chandasi* [Pā. 7-4-78]: *i* for the reduplicate; *hali ghoḥ* — हल्यघोः — [Pā. 6-4-113]: *ī* for the *ā* of *śā*/*śa* before a *kit* or *ñit* consonant-initial *sārvadhātuka*: *śiśīte*; first-syllable acute by *vyatyaya*; the relative *yaḥ* is connected, so no *sarvānudātta* [*yadvṛttānnityam*].
+- **īśata** (p. 236): root *īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*; *na māṅyoge* — [Pā. 6-4-74]: no *aṭ*; *śap* should be lost for an *adādi* root; but by *bahulaṃ chandasi* [Pā. 2-4-73] the *luk* is not made [as read]. Rik 16 ends here (*|| 16 ||*).
+
+### Rik 36.17 (p. 236 foot, PDF 250–)
+
+**Saṃhitā-pāṭha** *(p. 236; accents not reproduced)*
+
+> **अग्निर्वव्ने सुवीर्यमग्निः कण्वाय सौभगम् ।**
+> **अग्निः प्रावन्मित्रोत मेध्यातिथिमग्निः साता उपस्तुतम् ॥ १७ ॥**
+
+*agnir vavne suvīryam agniḥ kaṇvāya saubhagam |*
+*agniḥ prāvan mitrota medhyātithim agniḥ sātā upastutam || 17 ||*
+
+**Pada-pāṭha** *(p. 236)*
+
+> अग्निः । वव्ने । सुऽवीर्यम् । अग्निः । कण्वाय । सौभगम् ॥
+> अग्निः । प्र । आवत् । मित्रा । उत । मेध्यऽअतिथिम् । अग्निः । साता । उपऽस्तुतम् ॥ १७ ॥
+
+*agniḥ | vavne | su-vīryam | agniḥ | kaṇvāya | saubhagam ||*
+*agniḥ | pra | āvat | mitrā | uta | medhya-atithim | agniḥ | sātā | upa-stutam || 17 ||*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 228 (PDF 242) reached; Riks 36.1–36.14 complete; Rik 36.15's Saṃhitā written (foot of p. 228).**
+---
+
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 236 (PDF 250) reached; Riks 36.1–36.16 complete; Rik 36.17's Saṃhitā and Pada written (foot of p. 236).**
 
 **Plan agreed with the user:** do Sūkta 36 and then Sūkta 37 in the same session, stopping at the end of Sūkta 37.
 
-**Next task:** continue at printed p. 229 (PDF 243) with Rik 36.15's Pada and bhāṣya, then Riks 16–20. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 243 -l 300 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 236 foot / p. 237 (PDF 251) with Rik 36.17's bhāṣya (re-view the last lines of p. 236), then Riks 18–20 and the close of Sūkta 36. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264) — the contents table says Sūkta 37 begins about p. 251, check; Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 250 -l 320 Rig_Vol4.pdf /tmp/x/v`.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) and of Medhyātithi's ṛks (Rik 10) are partly uncertain; (5) the grammar notes of Riks 1–14 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ*, *ghnantaḥ*, *śocasva*, *īdhe*, *dīdiyuḥ*, *pūrdhi*, *vihvayāmahe*, *atriṇam*) are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words: Rik 8 (*apaḥ* clause, *bhuvat*), Rik 9 (*utkṛṣṭa*), Rik 11 (the opening phrase), Rik 12 (the printed "*svadhā arka*", which does not suit the sense), Rik 13 (*vahadbhiḥ* [?]); (7) the Ṛgveda quotations on *vṛṣā* (Rik 10) and on the *yūpa* (Rik 13) in the Special Topics are crowded and given as read, with tentative glosses of mine; (8) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (9) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained", Rik 13 "annointing".
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) and of Medhyātithi's ṛks (Rik 10) are partly uncertain; (5) the grammar notes of Riks 1–16 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ*, *ghnantaḥ*, *śocasva*, *īdhe*, *dīdiyuḥ*, *pūrdhi*, *vihvayāmahe*, *atriṇam*, *jighāṃsataḥ*, *śiśīte*) are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words: Rik 8 (*apaḥ* clause, *bhuvat*), Rik 9 (*utkṛṣṭa*), Rik 11 (the opening phrase), Rik 12 (the printed "*svadhā arka*", which does not suit the sense), Rik 13 (*vahadbhiḥ* [?]), Rik 16 (a damaged conjunct after "*ādātṝn*"); (7) the Ṛgveda quotations on *vṛṣā* (Rik 10) and on the *yūpa* (Rik 13) in the Special Topics are crowded and given as read, with tentative glosses of mine; (8) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (9) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained", Rik 13 "annointing", Rik 15 "Youthfull".
