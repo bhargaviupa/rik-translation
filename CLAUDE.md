@@ -11,9 +11,9 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20–26 are complete — through printed page 373.** (Sūkta 26, "vasiṣvā hi miyedhya", has 10 Riks, all to Agni.) Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242) is provisional and should be re-checked at a higher resolution.
-**Next task: begin Sūkta 27 ("aśvaṃ na tvā vāravantam", 13 Riks, to Agni; Rishi Śunaḥśepa) — heading on printed p. 374 (PDF page 389).** Sūktas and their first
-pages: 27 p.374; 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
+Volume 3 translation is under way: **Sūktas 20–27 are complete — through printed page 408 (upper part).** (Sūkta 27, "aśvaṃ na tvā vāravantam", has 13 Riks: twelve to Agni, the last to the Viśvedevas.) Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242) is provisional and should be re-checked at a higher resolution.
+**Next task: begin Sūkta 28 ("yatra grāvā pṛthubudhna ūrdhvo", 9 Riks, to Indra and the mortar/pestle; Rishi Śunaḥśepa) — heading on the lower half of printed p. 408 (PDF page 423); Rik 1 on p. 409.** Sūktas and their first
+pages: 28 p.408; 29 p.438; 30 ~p.447; 31 p.517; 32 p.587; the volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
