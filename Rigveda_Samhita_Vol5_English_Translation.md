@@ -3797,8 +3797,60 @@
 
 ---
 
+### Close of Sūkta 51
+
+*(The print gives no closing sentence for Sūkta 51: the last grammar paragraph — on* syāma *and the* dhuḍ*-āgama in* śarmant syāma *— ends at the foot of p. 211 with a small ornament, and the next sūkta begins at the head of p. 212 (PDF 228). My own summary, not the source's:)*
+
+**Sūkta 51 (Maṇḍala 1, Tenth Anuvāka, 15 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī, with Riks 14–15 as the Sāyaṇa-introduction states Triṣṭubh) — printed pp. 147–211, PDF 163–227.** Its Riks recall Indra's deeds: breaking the cloud and releasing the waters for the Aṅgirasas, the guiding of Atri and the gifts to Vimada (3); the opening of the water-receptacles and the exposure of the sun after the slaying of Vṛtra (4); the humbling of the Asuras who offered the oblation to their own mouths, the cities of Pipru and the protection of Ṛjiśvan (5); the defence of Kutsa and Atithigva, Śambara and Arbuda (6); the chastisement of the Dasyus for the sake of the Āryas and the sacrificer (7–8); Vamra and the sacrificial store (9); the strength sharpened by Uśanas and the wind-swift horses (10–11); the legend of Śāryāta and the Aśvins' share, as told in the Kauṣītaki Brāhmaṇa (12); the gift of Vṛcayā to Kakṣīvat and Indra's birth as Menā, the legend of Dīrghatamas and the maid Uśik (13); the unshaken praise of the Pajras (14); and the closing prayer for dwelling in Indra's fair house with learned sons, or in the sacrificial house with the priests (15). In the Special Topics the source gathers its longest accounts of Pipru, Ṛjiśvan, Kutsa, Atithigva, Śambara, Arbuda, Śāryāta and Kakṣīvān, with their Ṛgveda references in small numerals — all of which I have marked [?] and not reconciled.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 (15 Riks) written through Rik 51.15 and its grammar (printed p. 211, PDF 227). The closing note of Sūkta 51 (if any) and my closing summary are NOT yet written; check the head of p. 212 (PDF 228) for a colophon/closing sentence and for the start of Sūkta 52.**
+## SŪKTA 52 (printed p. 212 –, PDF 228 –)
 
-**Next task:** view PDF 228 (printed p. 212): if it holds a closing sentence of Sūkta 51 or just the end of the grammar, write the close of Sūkta 51 (short summary of the 15 Riks), update this progress note and CLAUDE.md "Current position" (Sūktas 47–51 complete; next Sūkta 52), commit/push; then **Sūkta 52** (contents table: *tyaṃ sumeṣam* [?], Maṇḍala 1, Anuvāka 10; confirm actual start page). **User instruction: translate Sūktas 51–54 (52 next, 53 ≈ p. 264, 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 51: legend in the introduction unreadable; Riks 2, 3, 5, 6, 12, 13 reference numerals [?]; 4 "āsāvariṣṭāḥ" unresolved; 7 "sadhryak [sadhrīcīnam?]"; 8 "karmaṇy anuṣṭhātṝn" "duṣṭānām"; 9 "valmīkavapā/vasā" etc.; 10 "pūrvoktena balenaikā", Uśanas list not transcribed; 11 "kāmayamāne"; 12 "evam asmāsi"; 13 "svabhāryayoḥ", "kathety uktvāyaṃ"; 14 clause after "sthūṇeva" and the opening of the Special Topics ("etad uktaṃ bhavati") [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8), "sema" (51.12), "Satakratu" for *sukrato* (51.13), "drvelling" (51.15) [sic].
+### Title and Sāyaṇa's introduction *(p. 212)*
+
+**ಐವತ್ತೆರಡನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-second sūkta")*
+
+**Sāyaṇa-bhāṣya (introduction)**
+
+> **त्वं सु मेषमिति पञ्चदशर्चं द्वितीयं सूक्तं सव्यस्यार्षमैन्द्रम् । त्रयोदशीपञ्चदश्यौ त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रान्तम् । त्वं सु त्रयोदश त्र्यं[?] त्रिष्टुभाविति ॥ गवामयनस्य मध्यमेऽहनि विषुवत्संज्ञके मरुत्वतीयशस्त्र इदं सूक्तं विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितम् । त्वं सु मेषं कयोशुभेति च मरुत्वतीयम् । आश्व. ८-६ [?] इति ॥**
+
+*tvaṃ su meṣam iti pañcadaśarcaṃ dvitīyaṃ sūktaṃ savyasyārṣam aindram | trayodaśīpañcadaśyau triṣṭubhau śiṣṭā jagatyaḥ | tathā cānukrāntam | tvaṃ su trayodaśa tryaṃ[?] triṣṭubhāv iti || gavāmayanasya madhyame 'hani viṣuvatsaṃjñake marutvatīyaśastra idaṃ sūktaṃ viṣuvān divākīrtya iti khaṇḍe sūtritam | tvaṃ su meṣaṃ kayośubheti ca marutvatīyam | āśva. 8-6 [?] iti ||*
+
+*(Reading note: "*trayodaśīpañcadaśyau triṣṭubhau*" — the print shows* trayodaśī pañcadaśī triṣṭubhā *crowded; I read it with the anuvāda below, which says that Riks 13 and 15 are Triṣṭubh. The Anukramaṇī half-line "*tvaṃ su trayodaśa tryaṃ…*" is crowded, [?]; the Āśvalāyana numerals "8-6" as read, [?].)*
+
+**Translation:** "'*Tvaṃ su meṣam*': a sūkta of fifteen Riks, the second [of the Tenth Anuvāka]; the seer is Savya, the deity Indra; the thirteenth and fifteenth are Triṣṭubh, the rest Jagatī — so the Anukramaṇī: 'Tvaṃ su: thirteen … two Triṣṭubhs' [?]. On the middle day of the Gavāmayana, called the Viṣuvat, this sūkta is prescribed for the Marutvatīya-śastra — in the section beginning '*viṣuvān divākīrtyaḥ*' it is laid down: '*tvaṃ su meṣaṃ*' and '*kayā śubhā*' are the Marutvatīya (Āśv. [Śrauta Sūtra] 8-6 as read [?])."
+
+**Anuvāda (Kannada, p. 212)** — "'*Tvaṃ su meṣam*' is the second sūkta in the tenth anuvāka. It has fifteen Riks. The seer of this sūkta is Savya; the deity is Indra. The thirteenth and fifteenth Riks are in the Triṣṭubh metre; the remaining Riks are in Jagatī. In the Anukramaṇikā it is said '*tvaṃ su trayodaśe triṣṭubhāv iti*' [?]. In the *Gavāmayana* sacrifice, on the middle day called *Viṣuvat*, this sūkta must be used for reciting the Marutvatīya-śastra mantras; this is explained in the Āśvalāyana Śrauta Sūtra, in the section '*viṣuvān divākīrtyaḥ*', by the sūtra '*tvaṃ su meṣaṃ kayā śubhā ca marutvatīyam*' (Āśv. 8-6 as read [?])."
+
+**Heading block** *(p. 212)*
+- Maṇḍala 1 · Anuvāka 10 · Sūkta 52
+- Aṣṭaka 1 · Adhyāya 4 · Varga 12, 13, 14 [as read, small numerals, [?]]
+- Number of Riks in the sūkta: 15
+- Ṛṣi: Savya Āṅgirasa
+- Deity: Indra
+- Metre: Riks 1–12 and 14 Jagatī; Riks 13 and 15 Triṣṭubh *(read "೧-೧೨, ೧೪ ಜಗತೀ । ೧೩, ೧೫ ತ್ರಿಷ್ಟುಪ್")*
+
+---
+
+### Rik 52.1 (pp. 212–, PDF 228–)
+
+**Saṃhitā-pāṭha** *(p. 212; accents printed, not reproduced)*
+
+> **त्वं सु मेषं महया स्वर्विदं शतं यस्य सुभ्वः साकमीरते ।**
+> **अत्यं न वाजं हवनस्यदं रथमेन्द्रं ववृत्यामवसे सुवृक्तिभिः ॥ १ ॥**
+
+*tvaṃ su meṣaṃ mahayā svarvidaṃ śataṃ yasya subhvaḥ sākam īrate |*
+*atyaṃ na vājaṃ havanasyadaṃ ratham endraṃ vavṛtyām avase suvṛktibhiḥ || 1 ||*
+
+*(The Pada, on p. 213, is given with the next batch. Note: the print breaks the second line as "…ratham eindraṃ…"; I read* ratham | indraṃ *as Saṃhitā* ratham endraṃ*, as in Rik 51.1 [?].)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, Maṇḍala 1, Anuvāka 10, 15 Riks, ṛṣi Savya Āṅgirasa, deity Indra, Jagatī with Riks 13 and 15 Triṣṭubh) in progress: title, Sāyaṇa's introduction, anuvāda, heading block and the Saṃhitā of Rik 52.1 written (printed p. 212, PDF 228). The Pada of Rik 1 is on p. 213 (PDF 229).**
+
+**Next task:** continue at printed p. 213 (PDF 229) with the Pada of Rik 52.1 (heading "**Rik 52.1, continued**"), then its bhāṣya etc., Riks 2–15 and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264; Sūkta 52 is thus ≈ 50 pages). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; for Sūkta 51 the flags are listed in the closing summary above and in the individual Riks.
