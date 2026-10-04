@@ -3458,8 +3458,120 @@
 
 ---
 
+**Rik 51.10, continued** *(pp. 189–191, PDF 205–207)*
+
+**Bhāvārtha** *(pp. 189–190)* — "O Indra, when Uśanas makes your strength keen with his own strength, then your strength, with the keenness that purifies everything, makes both earth and atmosphere tremble (it has the power to frighten even Vṛtra). O Indra, most kindly-minded among men, may the horses — which attach themselves to the chariot by mere thought, and run at the speed of the wind — bring you, who are of such power, facing the food in the form of the oblation."
+
+**English Translation (the source's own, p. 190)** — "If Usanas should sharpen your vigour by his own, then your might would terrify by its intensity both heaven and earth. Friend of man, let the will-harnessed horses, with the velocity of the wind convey you, replete with vigour to partake of the sacrificial food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 190**
+- **uśanā** — "Uśanas is the son of Kavi; therefore the name *Uśanā Kāvyaḥ* has become established (Ṛ. Saṃ. 4-16-2 as read [?]). This Uśanas is a very ancient sage. His name occurs, generally together with Kutsa and Indra, in many Riks of the Ṛgveda — in about a dozen places given in small numerals (beginning with 1-51-10, this Rik), of which I do not trust the rest, [?] — and also in the Atharvaveda (4-29-6 as read [?]). It is said, in the Taittirīya Saṃhitā (numeral [?]), the Pañcaviṃśa Brāhmaṇa (numeral [?]), the Sāṅkhyāyana Śrauta Sūtra (numeral [?]) and other places, that when the Asuras fought with the deities, he was the *purohita* (family priest) of the Asuras."
+- **majmanā** — "A sharp nature that finds out everything; this is the power that Śukrācārya employed for destroying the army of the gods."
+- **rodasī** — "The earth and the atmosphere. Here is the occasion of praying to Indra to protect the earth and atmosphere, oppressed by the Asura Vṛtra. The śruti '*yasya śuṣmād rodasī abhyasetām*' (Ṛ. Saṃ. 2-12-1 as read [?]) supports this sense."
+
+  > **यस्य शुष्माद्रोदसी अभ्यसेताम् ।** *(Ṛ. Saṃ. numeral as read [?])*
+
+  *yasya śuṣmād rodasī abhyasetām |* — mine and tentative: "from whose might heaven and earth both trembled."
+- **śavaḥ** — "This word is here suitable in the sense of strength, or of army."
+- **nṛmaṇaḥ** — "One who protects, with kindly mind, the consecrated sacrificers who are to be protected (Indra)."
+- **śravo 'bhi** — "*havirlakṣaṇam annam abhilakṣya*: Here the sense is that your (Indra's) horses, running with the speed of the wind, may come, awaiting the oblation given by the sacrificers (the consecrated) at the time of the destruction of the enemies."
+
+**Vyākaraṇa-prakriyā** *(p. 191 — grammar page, noted briefly)*
+- **takṣat**: *takṣū tvakṣū tanūkaraṇe*, *bhvādi*, *laṅ* third singular; *śap* as the characteristic; the *i* of *tip* lost; the *aṭ*-augment does not come by *bahulaṃ chandasy amāṅyoge 'pi*; *śap* being *pit* is *anudātta*, and so the accent of the root alone remains (*dhātoḥ*, end-acute).
+- **uśanā**: *vaś kāntau*, *adādi*; the suffix *kanasi* by *vaśeḥ kanasiḥ* (Uṇ. 4-… as read [?]); being *kit*, *saṃprasāraṇa* by *grahijyā…*; *v* → *u*: *u+aś+anas*; the single substitute after *saṃprasāraṇa* is the earlier form: *uśanas*; in the nominative singular when the *su* follows, *ṛduśanaspurudaṃsoneho 'nehasāṃ ca* (Pā. 7-1-94) gives *anaṅ* for words ending in *ṛ*, *uśanas* and the like when it is not a vocative; the *ṅit*… in the final place (*anaṅ* has mute *ṅ*, so substituted for the final); *uśanan*; *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8) lengthens the penultimate of a stem in *n* when *su* follows; *su* dropped by *halṅyābbhyo…*; *nalopaḥ prātipadikāntasya* drops the *n*: *uśanā*.
+- **majmanā**: *ṭumasjo śuddhau*, *tudādi*; Uṇādi *manin*; *masj + man*: *sko saṃyogādyor* drops the *s* [of *sj*]; instrumental singular *majmanā*.
+- **nṛmaṇaḥ**: explained under an earlier mantra [as read, [?]].
+- **avahan**: *vaha prāpaṇe*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the sense of prayer; third plural: *avahan*; the *nighāta* accent.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.9 complete; Rik 51.10 written from the Saṃhitā through the Pratipadārtha (printed p. 189, PDF 205). Its Bhāvārtha (begins at the foot of p. 189), English translation, Special Topics and grammar (pp. 190–, PDF 206–) are NOT yet written.**
+### Rik 51.11 (pp. 191–194, PDF 207–210)
 
-**Next task:** continue at printed p. 189 foot / p. 190 (PDF 205–206) with "**Rik 51.10, continued**": Bhāvārtha, English, Special Topics, Vyākaraṇa notes; then Riks 11–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 reference numerals all [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]" crowded; 51.8 "karmaṇy anuṣṭhātṝn" "duṣṭānām" crowded; 51.9 "valmīkavapā/vasā", "stutyṛddhiraṇaśīla", "saṃdihaḥ samyag upacitā" crowded [?]; 51.10 "pūrvoktena balenaikā" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8) [sic].
+**Saṃhitā-pāṭha** *(p. 191; accents printed, not reproduced)*
+
+> **मन्दिष्ट यदुशने काव्ये सचा इन्द्रो वङ्कू वङ्कुतराधि तिष्ठति ।**
+> **उग्रो ययिं निरपः स्रोतसासृजद्वि शुष्णस्य दृंहिता ऐरयत्पुरः ॥ ११ ॥**
+
+*mandiṣṭa yad uśane kāvye sacā indro vaṅkū vaṅkutarādhi tiṣṭhati |*
+*ugro yayiṃ nir apaḥ srotasāsṛjad vi śuṣṇasya dṛṃhitā airayat puraḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 192)*
+
+> मन्दिष्ट । यत् । उशने । काव्ये । सचा । इन्द्रः । वङ्कू इति । वङ्कुऽतरा । अधि । तिष्ठति ।
+> उग्रः । ययिम् । निः । अपः । स्रोतसा । असृजत् । वि । शुष्णस्य । दृंहिताः । ऐरयत् । पुरः ॥ ११ ॥
+
+*mandiṣṭa | yat | uśane | kāvye | sacā | indraḥ | vaṅkū iti | vaṅku-tarā | adhi | tiṣṭhati |*
+*ugraḥ | yayim | niḥ | apaḥ | srotasā | asṛjat | vi | śuṣṇasya | dṛṃhitāḥ | airayat | puraḥ || 11 ||*
+
+*(The Saṃhitā's "tiṣṭhati … asṛjad … airayat": as printed; the Pada's* vaṅkū iti *marks the dual.)*
+
+**Sāyaṇa-bhāṣya** *(p. 192)*
+
+> **यद्यदेन्द्र उशने कामयमाने काव्ये सचा सह मन्दिष्ट स्तुतोऽभूत् तदानीं वङ्कू वङ्कुतरातिशयेन कुटिलं गच्छन्तावश्वावधितिष्ठति । रथे संयोजितमारोहतीत्यर्थः । यद्वा वङ्कुतरातिशयेन वक्रं गच्छति रथे वङ्कू वक्रगमनशीलावश्वौ संयोज्येति योजनीयम् । उग्र उद्गूर्णस्तादृश इन्द्रो ययिं गमनयुक्तान्मेघात् स्रोतसा प्रवाहरूपेणापो निरसृजत् । जलानि निरगमयत् । तथा शुष्णस्य सर्वस्य शोषयितुरसुरस्य दृंहिताः प्रवृद्धाः पुरो नगराणि निवासस्थानानि व्यैरयत् । विविधं प्रेरितवान् ॥**
+
+*yad yadendra uśane kāmayamāne kāvye sacā saha mandiṣṭa stuto 'bhūt tadānīṃ vaṅkū vaṅkutarātiśayena kuṭilaṃ gacchantāv aśvāv adhitiṣṭhati | rathe saṃyojitam āroha­tīty arthaḥ | yadvā vaṅkutarātiśayena vakraṃ gacchati rathe vaṅkū vakragamanaśīlāv aśvau saṃyojyeti yojanīyam | ugra udgūrṇas tādṛśa indro yayiṃ gamanayuktān meghāt srotasā pravāharūpeṇāpo nirasṛjat | jalāni niragamayat | tathā śuṣṇasya sarvasya śoṣayitur asurasya dṛṃhitāḥ pravṛddhāḥ puro nagarāṇi nivāsasthānāni vy airayat | vividhaṃ preritavān ||*
+
+*(Reading notes: "*kāmayamāne*" is as read — the print is crowded here; the tail of the bhāṣya — on* mandiṣṭa*,* uśane*,* sacā*,* vaṅkū*,* vaṅkutarā*,* yayim*,* dṛṃhitāḥ*,* airayat*, with a quoted Mīmāṃsā-style sūtra "*ājyājayor ca copasaṃkhyānam*" [as read, [?]] — is characterized, not transcribed.)*
+
+**Translation of the bhāṣya:** "When Indra, *kāvye uśane*, together with Uśanas, son of Kavi, who wished (him), *sacā mandiṣṭa*, was pleased — was praised — then he mounts (*adhitiṣṭhati*) the two horses *vaṅkū vaṅkutarā*, going in an extremely crooked way, i.e. he ascends the chariot to which they are yoked; or, one should construe, 'harnessing to the chariot the two horses whose habit is to go crookedly'. *Ugraḥ*, the fierce, the uplifted, such Indra *srotasā*, in streams, *apaḥ nir asṛjat*, let out the waters from the moving cloud (*yayim*), and *vy airayat*, variously impelled — broke — *dṛṃhitāḥ puraḥ*, the strongly grown cities, the dwellings, of the Asura *Śuṣṇa*, the all-parching."
+
+**Pratipadārtha** *(pp. 192–193)* — "**yat** — when; **indraḥ** — Indra; **uśane kāvye sacā** — together with Uśanas, son of Kavi, being praised; **mandiṣṭa** — he was delighted (he became pleased); **vaṅkū vaṅkutarā** — the (horses) of extremely crooked going (drawing the chariot) — or: **vaṅkutarā vaṅkū** — the (horses) of extremely crooked motion; **adhi tiṣṭhati** — he mounts and sits (in the chariot); **ugraḥ** — (such) the fearsome Indra; **yayim** — from the moving cloud; **srotasā** — in the form of a stream; **apaḥ** — the waters; **niḥ asṛjat** — poured out and released; **śuṣṇasya** — of the Rākṣasa named Śuṣṇa, the all-parching; **dṛṃhitāḥ** — widely grown; **puraḥ** — the cities; **vi airayat** — broke in many ways (destroyed)."
+
+**Bhāvārtha** *(p. 193)* — "Indra, delighted by the praise he desires, mounts the chariot drawn by horses of an extremely crooked gait. The fearsome Indra poured out the waters, in the form of streams, from the moving cloud. He smote in many ways and destroyed the cities of the Rākṣasa named Śuṣṇa, the all-parching, which had grown wide."
+
+**English Translation (the source's own, p. 193)** — "When Indra is delighted with acceptable hymns, he ascends (his car) drawn by more and more obliquely-curveting horses ; fierce, he extracts the water from the passing cloud in a torrent, and has overwhelmed the extensive cities of Sushna."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 193**
+- **sacā** — "This word is used in the sense of *saha*, 'with'."
+- **vaṅkū vaṅkutarādhi tiṣṭhati** — "Indra mounts the chariot, having yoked horses that go in an exceedingly crooked fashion, and sets out for battle; or: he turns to face the battle, having yoked to his own chariot, which goes by a winding path, strong horses. These two meanings are seen from the above sentence. From the root *vaṅku gatau*, the purpose of using the word *vaṅku*, which in general conveys a sense of motion, together with the suffix *tarap*, is to tell the special sense of a particular kind of motion."
+- **śuṣṇasya** — "'Of the one who dries up everything, i.e. who makes things dry': a Rākṣasa."
+
+**Vyākaraṇa-prakriyā** *(pp. 193–194 — grammar pages, noted briefly)*
+- **mandiṣṭa**: *madi stutimodamadasvapnakāntigatiṣu*; *luṅ* third singular *ta*; *cli* → *sic*; the root has an *i*-marker (*idit*), so *num* is added; *iṭ* before *sic*; *ṣatva* of the substitute: *mandiṣṭa*; *aṭ* not added by *bahulaṃ chandasy amāṅyoge 'pi*.
+- **uśane**: *vaś kāntau*, an Uṇādi suffix *kyu*; *yuvor anākau* gives *ana* for the remaining *yu*; *grahijyā…* the *saṃprasāraṇa* of the root; the earlier form (*pūrvarūpa*) for the *a* + *a*: *uśana*; locative singular.
+- **sacā**: *saca samavāye*, *bhvādi*; since the word is in the *saṃpadādi* group, *kvip* by *saṃpadādibhyaḥ kvip* (Pā. 3-3-108 as read [?]); *dhātvādeḥ ṣaḥ saḥ* makes the initial *ṣ* an *s*; instrumental singular *ṭā*; *āṅ-yājayoś ca* [as read, [?]] substitutes *ā* (*ācaḥ… upasaṅkhyānam*); in the Saṃhitā the nasalization by *āṅo 'nunāsikaś chandasi* (Pā. 6-1-126 as read [?]).
+- **vaṅkū**: *vaṅku gatau*; an Uṇādi *u*; by *bahulam* in the Veda *kutva* comes even without a ground for it; dual accusative: *pūrvasavarṇadīrgha*: *vaṅkū*.
+- **vaṅkutarā**: *atiśayena vaṅkū vaṅkutarā*; in the dual, *tarap* by *dvivacanavibhajya…* (Pā. 5-3-57 as read [?]); the dual ending *au* replaced by *ā* by *supāṃ suluk*: *vaṅkutarā*; here, through the word that conveys the general sense of motion, a particular kind of motion — crooked going — is understood.
+- **yayim**: *yā prāpaṇe*, *adādi*; *ki* by *ādṛgamahanajana…* (Pā. 3-2-171 as read [?]); *liḍvadbhāva* gives reduplication and shortening; *yayā + i*: the *ā* lost by *āto lopa iṭi ca*; end-acute by the suffix; *supāṃ suluk* with the ablative (*pañcamī*) given *am*: *yayim*.
+- **dṛṃhitāḥ**: *dṛhi vṛddhau*, *bhvādi*; *num* since *idit*; *kta* with *iṭ*: *dṛṃhita*; accusative plural *dṛṃhitāḥ*.
+- **airayat**: *īra preraṇe*, *curādi*; *laṅ* third singular *tip*; *ṇic* in the own sense; *śap*; since it begins with a vowel, *āṭ*; *ā + īr + at* → *āṭaś ca* (Pā. 6-1-90) gives *vṛddhi*: *airayat*. **|| 11 ||**
+
+---
+
+### Rik 51.12 (pp. 195–, PDF 211–)
+
+**Saṃhitā-pāṭha** *(p. 195; accents printed, not reproduced)*
+
+> **आ स्मा रथं वृषपाणेषु तिष्ठसि शार्यातस्य प्रभृता येषु मन्दसे ।**
+> **इन्द्र यथा सुतसोमेषु चाकनोऽनर्वाणं श्लोकमा रोहसे दिवि ॥ १२ ॥**
+
+*ā smā rathaṃ vṛṣapāṇeṣu tiṣṭhasi śāryātasya prabhṛtā yeṣu mandase |*
+*indra yathā sutasomeṣu cākano 'narvāṇaṃ ślokam ā rohase divi || 12 ||*
+
+**Pada-pāṭha** *(p. 195)*
+
+> आ । स्म । रथम् । वृषऽपानेषु । तिष्ठसि । शार्यातस्य । प्रऽभृताः । येषु । मन्दसे ।
+> इन्द्र । यथा । सुतऽसोमेषु । चाकनः । अनर्वाणम् । श्लोकम् । आ । रोहसे । दिवि ॥ १२ ॥
+
+*ā | sma | ratham | vṛṣa-pāneṣu | tiṣṭhasi | śāryātasya | pra-bhṛtāḥ | yeṣu | mandase |*
+*indra | yathā | suta-someṣu | cākanaḥ | anarvāṇam | ślokam | ā | rohase | divi || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 195)*
+
+> **अत्र कौषीतकिन इतिहासमाचक्षते । शार्यातनाम्नो राजर्षेर्यज्ञे भृगुगोत्रोत्पन्नश्च्यवनो महर्षिरश्विनौ ग्रहमगृह्णात् । इन्द्रस्तं दृष्ट्वा क्रुद्धोऽभूत् । तमिन्द्रमनुनीय पुनः सोमं तस्मै प्रादादिति । अयमर्थोऽस्यां प्रतिपाद्यत इति ॥ हे इन्द्र त्वं वृषपाणेषु । वृषः सेचनसमर्थस्य सोमस्य पानानि वृषपानानि । तेषु निमित्तभूतेषु रथमातिष्ठसि स्म । स्वयमेव रथमारुह्य गच्छसि । न त्वन्यः कश्चित्प्रवर्तयितेति भावः । एवं च सति येषु सोमेषु त्वं मन्दसे हर्षं प्राप्नोषि तादृशाः सोमाः शार्यातस्यैतन्नाम्नो राजर्षेः संबन्धिनः प्रभृताः । प्रकर्षेण संपादिताः । अभिषवादिसंस्कार्यैः संस्कृता इत्यर्थः । अतः सुतसोमेषु अभिषुतसोमयुक्तेष्वस्मदीयेषु यज्ञेषु यथा चाकनः यथा कामयसे एवमस्मासि [?] शार्यातस्य सोमान्कामयस्व । तथा सति दिवि द्युलोकेऽनर्वाणं गमनरहितं स्थिरं श्लोकं स्तोत्रलक्षणं वचो यशो वा आ रोहसे । प्राप्नोषि । यद्वा । इमं यजमानं दिवि द्युलोक उक्तलक्षणं यशः प्रापयसि ॥ स्म । निपातस्य चेति दीर्घत्वम् ।**
+
+*atra kauṣītakina itihāsam ācakṣate | śāryātanāmno rājarṣer yajñe bhṛgugotrotpannaś cyavano maharṣir aśvinau graham agṛhṇāt | indras taṃ dṛṣṭvā kruddho 'bhūt | tam indram anunīya punaḥ somaṃ tasmai prādād iti | ayam artho 'syāṃ pratipādyata iti || he indra tvaṃ vṛṣapāṇeṣu | vṛṣaḥ secanasamarthasya somasya pānāni vṛṣapānāni | teṣu nimittabhūteṣu ratham ātiṣṭhasi sma | svayam eva ratham āruhya gacchasi | na tv anyaḥ kaścit pravartayiteti bhāvaḥ | evaṃ ca sati yeṣu someṣu tvaṃ mandase harṣaṃ prāpnoṣi tādṛśāḥ somāḥ śāryātasyaitannāmno rājarṣeḥ saṃbandhinaḥ prabhṛtāḥ | prakarṣeṇa saṃpāditāḥ | abhiṣavādisaṃskāryaiḥ saṃskṛtā ity arthaḥ | ataḥ sutasomeṣu abhiṣutasomayukteṣv asmadīyeṣu yajñeṣu yathā cākanaḥ yathā kāmayase evam asmāsi [?] śāryātasya somān kāmayasva | tathā sati divi dyuloke 'narvāṇaṃ gamanarahitaṃ sthiraṃ ślokaṃ stotralakṣaṇaṃ vaco yaśo vā ā rohase | prāpnoṣi | yadvā | imaṃ yajamānaṃ divi dyuloka uktalakṣaṇaṃ yaśaḥ prāpayasi || sma | nipātasya ceti dīrghatvam |*
+
+*(Reading notes:* evam asmāsi *is as I read it — the print may mean* asmāsu*, "in our case"; I leave it [?]. The Kauṣītaki legend is read clearly. The grammatical tail begins at the foot of p. 195 with* sma *(lengthened by* nipātasya ca*) and continues on p. 196 — given in the next batch.)*
+
+**Translation of the first part of the bhāṣya:** "Here the followers of the Kauṣītaki (school) tell this legend: 'At the sacrifice of the royal sage named Śāryāta, the great sage Cyavana, born in the line of Bhṛgu, took up the cup (*graha*) for the Aśvins. Indra, seeing him, became angry. Having appeased that Indra, he gave him Soma again.' This sense is set out in this Rik. O Indra, you *vṛṣapāṇeṣu* — *vṛṣa* means 'capable of showering'; drinks of the soma that is so — in those, as the occasion, *ratham ātiṣṭhasi sma*: you mount the chariot yourself and go; no one else drives you, is the sense. And that being so, those Somas in which you rejoice, that is, delight — such Somas, belonging to the royal sage named Śāryāta, were *prabhṛtāḥ*, were well provided, made ready by the pressing and other acts. Therefore, in our sacrifices, *sutasomeṣu*, where the Soma has been pressed, as you desire (*cākanaḥ*), so desire Śāryāta's Somas [and ours]; and then, in heaven (*divi*), you obtain (*ā rohase*) the *anarvāṇam*, the unmoving, firm *ślokam* — a word of praise, or fame; or: you cause this sacrificer to obtain, in heaven, the said fame."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.11 complete; Rik 51.12 written from the Saṃhitā through the main bhāṣya (printed p. 195, PDF 211); the grammatical tail of the bhāṣya begins at the foot of p. 195 and continues on p. 196 (PDF 212); Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 12 (pp. 196–, PDF 212–) are NOT yet written.**
+
+**Next task:** continue at printed p. 196 (PDF 212) with "**Rik 51.12, continued**", then Riks 13–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print; Sūkta 51 may run to ≈ p. 211 or later). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 reference numerals all [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]" crowded; 51.8 "karmaṇy anuṣṭhātṝn" "duṣṭānām" crowded; 51.9 "valmīkavapā/vasā", "stutyṛddhiraṇaśīla", "saṃdihaḥ samyag upacitā" crowded [?]; 51.10 "pūrvoktena balenaikā" crowded, Uśanas reference list not transcribed; 51.11 "kāmayamāne" crowded; 51.12 "evam asmāsi" [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8) [sic].
