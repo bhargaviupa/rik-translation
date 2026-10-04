@@ -2411,10 +2411,88 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 35.9 — Special Topics concluded and grammar (pp. 166–168, PDF 180–182; grammar pages, noted briefly)
+
+**Special Topics, continued from p. 165 (p. 166)**
+- **ubhe dyāvāpṛthivī antar īyate** — "below the earth, above heaven: [he] moves between these worlds, by the path of the mid-region; such is the meaning."
+- **amīvām apa bādhate** — "one who destroys disease and the like. It is the opinion of the physicians that the Sun's rays have the power to remove many illnesses. On this matter the ṛk:"
+
+> हृद्रोगं मम सूर्य हरिमाणं च नाशय । (ऋ. सं. १-५०-११)
+
+*hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya | (ṛ. saṃ. 1-50-11)*
+
+"— 'destroy my heart-disease and my jaundice, O Sūrya' — so Praskaṇva, the ṛṣi of that sūkta, prays to the Sun. That the Sun's light is indispensable to the life of living beings and of plants, and that without the Sun beings and plants could not live on the earth, even ordinary people know well." *(Translation of the ṛk mine, tentative; the reference numerals are as read from small Kannada digits and agree with the ṛk's standard place as far as I know it [?].)*
+- **sūryam abhi** — "Here the bhāṣyakāra says '*yady api savitṛsūryayor ekadevatātvaṃ tathāpi mūrtibhedena gantṛgantavyabhāvaḥ*' (he is both the goer and the goal by a difference of form); that is, though Sūrya and Savitṛ are one deity, by a difference of form one may be said to go to the neighbourhood of the other: this is the reconciliation he offers. In explaining the word *sūrya* Yāska says '*sūryaḥ saterva suvater vā svīryater vā*' (Ni. 12-14 [?]). Of these three explanations, *svīryater vā* means *su-pūrvasya vā īrayater gatyarthasya* — 'one who moves well, or swiftly'. If this sense is taken in this ṛk, it will be right to say that the Sun, moving swiftly in the mid-region, goes towards the world of heaven." *(Translation of the Nirukta quotation mine and tentative.)*
+- **kṛṣṇena rajasā** — "the mid-region through which the Sun travels is full of darkness. The Sun lights up everything by his own light."
+
+**Vyākaraṇa-prakriyā** *(pp. 166–168)*
+- **dyāvāpṛthivī** (pp. 166–167): *dyauś ca pṛthivī ca*, a *dvandva*; *divasaś ca pṛthivyām* — दिवसश्च पृथिव्याम् — the *ca* carries on the preceding rule's *divo dyāvā*, so *dyāvā* is the substitute of *div* [the print notes the *svarita*-announcement, *svaritatvapratijñā*, so *divaḥ* continues]; in a *dvandva* with *pṛthivī* as second member, *div* is replaced by *divas* or *dyāvā*; here *dyāvā*, which is first-syllable acute by *nipātana*; *devatādvandve ca* — देवताद्वन्द्वे च — in a *dvandva* of deity-names both members keep their natural accent together, i.e. the accent they had before stays; the print adds that there is no *vyatyāsa* of this [i.e. no reversal]. *Pṛthivī*: *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् संप्रसारणं च — [Uṇ. 1-[?]] — after *prath prakhyāne* the suffix *ṣivan*, with *saṃprasāraṇa* of the base: *pṛthivi*; *ṣiddhaurādibhyaś ca* — *ṅīṣ*; the word is final-acute by the suffix; the *pṛ* is unaccented by the *śeṣa-nighāta*; the print then argues that the prohibition *notarapade 'nudāttādau* — नोत्तरपदेऽनुदात्तादौ — (the rule that a second member beginning with an unaccented syllable stops the natural accent of both members) might be thought to apply, but that rule itself says *apṛthivīrudrapūṣamanthiṣu* — "except for *pṛthivī*, *rudra*, *pūṣan*, *manthin*" — so it does not apply here, where *pṛthivī* is the second member.
+- **īyate** (p. 167): root *īṅ gatau*, 4th class; the root is *ṅit*, so *anudāttaṅita ātmanepadam* — the *ātmanepada*; *laṭ* → *ta*; *ṭita ātmanepadānāṃ ṭere* gives *e*; *divādibhyaḥ śyan*; *kṅiti ca* bars *guṇa*; *tiṅ ṅatiṅaḥ* makes the verb wholly unaccented.
+- **amīvām**: root *amu roge*; *śīvayeśajihvāgrīvāpyāmīvāḥ* — [Uṇ. 1-155, as I read the numerals [?]] — the suffix *van*, with the augment *īṭ*, irregularly; *ṭāp*; accusative singular *am*, *pūrvarūpa*.
+- **bādhate**: "although the sense of *ca* is understood — 'he destroys disease, *and* goes to the Sun, though of a different form' — the word *ca* is not used; so by *cādilope vibhāṣā* there is a prohibition of the wholly-unaccented accent of the verb."
+- **veti**: root *vī gatiprajanakāntyasanakhādaneṣu*; *laṭ*, *tip*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *guṇa*; *tip* is *pit* and so unaccented; the root's own accent stays; this is the second *tiṅanta* of the sentence, so *cādilope* is not applicable; but since it stands after the *tiṅanta* *bādhate*, the lowering by *tiṅ ṅatiṅaḥ* does not arise (it requires a non-*tiṅ* before).
+- **ṛṇoti** (pp. 167–168): root *ṛṇu gatau*, *tanādi*; *laṭ*, *tip*; *tanādikṛñbhya uḥ* — तनादिकृञ्भ्य उः — the suffix *u*; with this *u* as the cause *laghūpadha-guṇa* would arise; the teachers Ātreya, Āpiśali and others, by *saṃjñāpūrvako vidhir anityaḥ* [as read], hold that *guṇa* does not arise in the *tanādi*; by their opinion no *guṇa* here. Or, following *bahulam etannidarśanam*, the root *ṛ* is read in the *svādi* class, and *svādibhyaḥ śnuḥ* gives the *śnu* of the *vikaraṇa*, an *apit sārvadhātuka* and so *ṅit*; *kṅiti ca* prevents *guṇa*; the result is *ṛṇoti*. Rik 9 ends here (*|| 9 ||*).
+
+### Rik 35.10 (pp. 168–170, PDF 182–184)
+
+**Saṃhitā-pāṭha** *(p. 168; accents not reproduced)*
+
+> **हिरण्यहस्तो असुरः सुनीथः सुमृळीकः स्ववाँ यात्वर्वाङ् ।**
+> **अपसेधन्रक्षसो यातुधानानस्थाद्देवः प्रतिदोषं गृणानः ॥ १० ॥**
+
+*hiraṇyahasto asuraḥ sunīthaḥ sumṛḷīkaḥ svavām̐ yātv arvāṅ |*
+*apasedhan rakṣaso yātudhānān asthād devaḥ pratidoṣaṃ gṛṇānaḥ || 10 ||*
+
+*(Reading note, written after viewing the Pada on the same page: the Saṃhitā's "svavām̐ yātv arvāṅ" is the Pada's* sva-vān | yātu | arvāṅ *joined by sandhi, with the Vedic nasalised* ām̐ *before a vowel-initial word.)*
+
+**Pada-pāṭha** *(p. 168)*
+
+> हिरण्यऽहस्तः । असुरः । सुऽनीथः । सुऽमृळीकः । स्वऽवान् । यातु । अर्वाङ् ॥
+> अपऽसेधन् । रक्षसः । यातुऽधानान् । अस्थात् । देवः । प्रतिऽदोषम् । गृणानः ॥ १० ॥
+
+*hiraṇya-hastaḥ | asuraḥ | su-nīthaḥ | su-mṛḷīkaḥ | sva-vān | yātu | arvāṅ ||*
+*apa-sedhan | rakṣasaḥ | yātu-dhānān | asthāt | devaḥ | prati-doṣam | gṛṇānaḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 168–169; the first half in full, the grammatical tail characterized)*
+
+> हिरण्यहस्तोऽसुरः प्राणदाता सुनीथः सुष्ठु नेता । प्रशस्य इत्यर्थः । सुनीथः पाक इति प्रशस्यनामसु पाठात् [?] । सुमृळीकः सुष्ठु सुखयिता स्ववान् धनवान् अर्वाङ् अभिमुखः कर्मदेशे गच्छतु । किंचायं देवः प्रतिदोषं प्रतिरात्रि गृणानः स्तूयमानोऽस्थात् । स्थितवान् । किं कुर्वन् । रक्षसो बाधकत्वेन रक्षणनिमित्तभूतान् । रक्षो रक्षितव्यमस्मादिति यास्कः । नि. ४-१८ [?] । यातुधानानसुरानपसेधन् निराकुर्वन् ॥
+
+*hiraṇyahasto 'suraḥ prāṇadātā sunīthaḥ suṣṭhu netā | praśasya ity arthaḥ | sunīthaḥ pāka iti praśasyanāmasu pāṭhāt [?] | sumṛḷīkaḥ suṣṭhu sukhayitā svavān dhanavān arvāṅ abhimukhaḥ karmadeśe gacchatu | kiṃcāyaṃ devaḥ pratidoṣaṃ pratirātri gṛṇānaḥ stūyamāno 'sthāt | sthitavān | kiṃ kurvan | rakṣaso bādhakatvena rakṣaṇanimittabhūtān | rakṣo rakṣitavyam asmād iti yāskaḥ | ni. 4-18 [?] | yātudhānān asurān apasedhan nirākurvan ||*
+
+**Translation:** "*Hiraṇyahastaḥ* — golden-handed; *asuraḥ* — the giver of life; *sunīthaḥ* — good leader, i.e. praiseworthy, since *sunīthaḥ* is read among the names for 'praiseworthy' [the citation is as read and not secure [?]]; *sumṛḷīkaḥ* — the one who gives good happiness; *svavān* — possessed of wealth: let him come *arvāṅ* — facing us, to the place of the rite. Moreover this god, being praised every night (*pratidoṣam*), *asthāt* — has stood [here]. Doing what? *Rakṣasaḥ* — [driving away those] who, by being injurers, are the occasion for [our] need of protection ('*rakṣas*, that from which [one] must be protected', so Yāska, Ni. 4-18 [?]); *yātudhānān*, the asuras — *apasedhan*, keeping off, driving away."
+
+**Grammar within the bhāṣya** *(p. 169, characterized; the print is crowded and several rule-names only partly legible [?])*: "*hiraṇyahasta* and the like are as before"; *sumṛḷīkaḥ* (*suṣṭhu mṛḷīkaṃ sukhaṃ yasyāsau*, *nañsubhyām* — final-acute of the later member); *svavān* (*svam asyāsti*; *matup*, with *m* → *v* by *māduparadhāyā* [the rule on *matup* after a base with *m* or *a*]; the *n* in the Saṃhitā becomes *ru* by *dīrghād aṭi samānapāde*, the *ā* is nasalised by *ato 'ṭi nityam*, and the *ru* becomes *y* (*ro 'ri*, *yalopaḥ*) [as read, [?]]); *apasedhan* (*ṣidhu gatyām*; *śap* *pit* so unaccented; *śatṛ* and the *lasārvadhātuka* accent keeps the compound's later member's natural accent); *rakṣasaḥ* (*rakṣa pālane*; the Uṇādi *asun*; or *rakṣyate 'neneti rakṣaḥ*, "strength", *karaṇe 'sun*; the loss of the possessive suffix is Vedic; accent by the suffix); *yātudhānān* (*yata nikāropaskārayoḥ* — "to oppose, to prepare"; the Uṇādi suffix; *yātanā* — torments — *dhīyante eṣu*, "in whom torments are placed"; *adhikaraṇe lyuṭ*; the accent of what precedes a *lit* suffix); *asthāt* (*gātisthā…* *luk* of *sic*); *pratidoṣam* (*prati* in the sense of repetition, with an *avyayībhāva*: "night by night"); *gṛṇānaḥ* (*gṝ śabde*; *laṭ* in the passive, *śānac*; *śnā* by *vyatyaya*; the shortening of *ṛ*; final-acute by *cit*).
+
+**Pratipadārtha** *(p. 169)* — "**hiraṇyahastaḥ** — golden-handed (or holding gold in the hand to give to the sacrificer); **asuraḥ** — life-giver; **sunīthaḥ** — praiseworthy because he leads [one] to the desired place by showing the way; **sumṛḷīkaḥ** — full of great delight (or giving joy); **svavān** — Savitṛ, the wealthy; **arvāṅ** — facing the sacrificial place (let him walk); **devaḥ** — the god Savitṛ; **pratidoṣam** — every night; **gṛṇānaḥ** — being praised; **rakṣasaḥ** — the injurious; **yātudhānān** — the rākṣasas; **apasedhan** — warding off and driving away; **asthāt** — he stands [at the sacrificial place]."
+
+**Bhāvārtha** *(pp. 169–170)* — "The hands of the Savitṛ deity are of gold; or he always holds gold in his hand to give to the sacrificer. He gives breath to all living beings. By showing light to all and guiding them, he gives joy to all. May such a rich Savitṛ walk towards the sacrificial ground — for at the sacrificial place the injury done by the rākṣasas is great. If one praises the Savitṛ deity well every night, he, pleased by that praise, stands at the sacrificial ground and, driving off the injuring rākṣasas, remains there."
+
+**English Translation (the source's own, p. 170)** — "May the golden-handed Savitri, the excellent guide, the giver of happiness and possessor of riches come to this sacrifice ; praised by men he drives off the harmful Rukshasas every night·" *(Printed so, with "Rukshasas" and a raised dot after "night".)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 170** *(begun; continued on p. 171)*
+- **hiraṇyahastaḥ** — "its meaning and derivation are the same as those of the word *hiraṇyapāṇiḥ*."
+- **asuraḥ** = *asuṃ prāṇaṃ rāti dadātīty asuraḥ | prāṇadātā*: "the giver of breath, who protects the breath: *life giving* [the print's English]."
+- **sunīthaḥ** — *suṣṭhu netā praśasya ity arthaḥ*: "a leader, an excellent one, one worthy of praise; among the ten words for 'praiseworthy' beginning *asremāḥ*, *anemāḥ* [as read, [?]] the word *sunīthaḥ* is read; so *sunīthaḥ* means praiseworthy."
+- **sumṛḷīkaḥ** = *suṣṭhu sukhayitā* — "the one who makes happiness."
+- **svavān** = *svam asyāstīti svavān | dhanavān* — "he who has wealth."
+- **apasedhan** = *nirākurvan* — "contemning, driving away, shunning, and so on."
+- **rakṣaḥ** = *rakṣanty anena iti rakṣo balam | rakṣo rakṣitavyam asmād iti yāskaḥ* (Ni. 4-[?]): "one who protects, or one who is able to protect from the rākṣasas and the like."
+- **yātudhānān** — "In general this word means rākṣasas, those who roam at night; asuras are also meant; but its exact sense is: one who works by spells — a sorcerer, a conjurer (*māṭugāra*, 'one who talks' [?]), a magician; *Sorcerer, Wizard, magician* [the print's English]. We give one or two examples:"
+
+> अयोदंष्ट्रो अर्चिषा यातुधानानुप स्पृश जातवेदः समिद्धः । (ऋ. सं. १०-८७-२ [?])
+> उतान्तरिक्षे परि याहि राजन् जम्भैः सं धेह्यभि यातुधानान् । (ऋ. सं. १०-८७-३ [?])
+
+*ayodaṃṣṭro arciṣā yātudhānān upa spṛśa jātavedaḥ samiddhaḥ | (ṛ. saṃ. 10-87-2 [?])*
+*utāntarikṣe pari yāhi rājan jambhaiḥ saṃ dhehy abhi yātudhānān | (ṛ. saṃ. 10-87-3 [?])*
+
+*(Untranslated in the source. My gloss, **mine and tentative**: "O Jātavedas, kindled, iron-fanged, touch the *yātudhānas* with your flame"; "and in the mid-region too, O king, go round; set your jaws on the *yātudhānas*". The reference numerals are as read from small Kannada digits [?].)* *(The list of examples continues on p. 171, to be viewed next.)*
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 165 (PDF 179) reached; Riks 35.1–35.8 complete; Rik 35.9 written through the first two Special-Topics entries (*hiraṇyapāṇiḥ*, *vicarṣaṇiḥ*).**
+---
 
-**Next task:** continue at printed p. 166 (PDF 180) with the rest of Rik 9's Special Topics and grammar, then Riks 10 and 11. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 180 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 170 (PDF 184) reached; Riks 35.1–35.9 complete; Rik 35.10 written through the first part of its Special Topics (the *yātudhānān* examples, continued on p. 171).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) several derivations and rule-names in the grammar tails of Riks 2, 3, 5–9 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya) and the *yojanā* clause (Rik 8 bhāṣya) are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant (as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain; (7) in the Rik 8 Special Topics the river list ends "Vitastā", where the Sūkta 34 list ended "Marudvṛdhā" (as printed); (8) the cross-reference "Part 3, pp. 62 and 66" in the Rik 9 Special Topics is as read and unchecked.
+**Next task:** continue at printed p. 171 (PDF 185) with the rest of Rik 10's Special Topics and its grammar, then Rik 11 (the last of the sūkta). Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 185 -l 191 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) several derivations and rule-names in the grammar tails of Riks 2, 3, 5–10 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya), the *yojanā* clause (Rik 8 bhāṣya) and the *sunīthaḥ* citation (Rik 10 bhāṣya and Special Topics: "asremāḥ, anemāḥ") are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant (as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain; (7) in the Rik 8 Special Topics the river list ends "Vitastā", where the Sūkta 34 list ended "Marudvṛdhā" (as printed); (8) the cross-reference "Part 3, pp. 62 and 66" in the Rik 9 Special Topics is as read and unchecked.
