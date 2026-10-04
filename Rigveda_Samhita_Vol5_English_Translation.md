@@ -2282,8 +2282,139 @@
 
 ---
 
+**Rik 50.5, continued** *(from the foot of p. 121)*
+
+**Special Topics, continued (p. 122)**
+- **svaḥ** — "O Āditya, O Sūrya: *svar ādityo bhavati* — there is the Nirukta statement (Ni. 2-[?]4 as read)." — **untranslated in the source**:
+
+  > **स्वरादित्यो भवति ।** *(Ni. 2-[?]4 as read [?])*
+
+  *svar ādityo bhavati |* — mine and tentative: "*svar* is the Āditya (the Sun)."
+- **mukhyābhiprāya** — "when the Sun rises, the people of the world of the earth and the world of heaven all look at the Sun; the Sun, rising, lights up the earth, the atmosphere and the world of heaven."
+- "Yāska's Nirukta has the following on this ṛk" (**untranslated in the source**; "Ni. 12-24" as read [?]):
+
+  > **प्रत्यङ्ङिदं सर्वमुदेषि प्रत्यङ्ङिदं ज्योतिरुच्यते । प्रत्यङ्ङिदं सर्वमभिविपश्यसीति ॥** *(Ni. 12-24 as read [?])*
+
+  *pratyaṅṅ idaṃ sarvam udeṣi pratyaṅṅ idaṃ jyotir ucyate | pratyaṅṅ idaṃ sarvam abhivipaśyasīti ||* — mine and tentative: "You rise facing all this; 'facing' is said of this light; you look upon all this facing it." The Kannada author gives Yāska's gloss: "*Pratyaṅ devānāṃ viśaḥ*: having made them (the Maruts) face you, you rise before them; and having made men too face you in the same way, you rise before them. In short, O *svaḥ*, O Āditya, having made this whole world face yourself, you look upon all from the front." "The meaning is the same as the commentator's explanation; so it need not be expanded."
+
+**Vyākaraṇa-prakriyā** *(pp. 122–123 — grammar pages, noted briefly)*
+- **pratyaṅ**: "*prati añcati*", one who goes facing; root *añcu gatipūjanayoḥ*, *bhvādi*; *ṛtvigdadhṛksragdigus·ṇihyuṣṇigañcuyujikrucāṃ ca* (Pā. 3-2-59 as read) gives *kvin* for these words, some forms of which are given by *nipātana*; so, after *añc* with a *subanta* as *upapada*, *kvin*; *prati* is a *subanta*; *avyayād āp supaḥ* (Pā. 2-4-82 as read) makes the *sup* after it *luk*; all of *kvin* drops; *kṛttaddhitasamāsāś ca* gives the name *prātipadika* to what is left (*pratyañc*); *anidītāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 as read) drops the penultimate nasal of the root before a *kit*; but *añcu* being *ugit*, *ugidacāṃ sarvanāmasthāne 'dhātoḥ* gives *num* in the first-case *su* with the *sarvanāmasthāna* name; the *su* drops by *halṅyābbhyo dīrghāt…* (Pā. 6-1-68 as read) and the final conjunct consonant drops by *saṃyogāntasya lopaḥ* (Pā. 8-2-23 as read); since the dropping of the conjunct-final consonant is *asiddha* (as the Kannada says), the lengthening of the penultimate by *sarvanāmasthāne cāsambuddhau* and the *n*-loss by *nalopaḥ prātipadikāntasya* do not come; *kvin*'s *k* gives *kutva* (*kvinpratyayasya kuḥ*, Pā. 8-2-62 as read): the *c* of the root becomes *k*, and the *n* before it becomes *ṅ*: *pratyaṅ*; the accent: *anigantoñcatau vapratyaye* (Pā. 6-2-52 as read) says that a *gati* before an *añc* that ends in *vap*-suffix (*kvin*) keeps its natural accent unless it ends in *ik*; *prati* ends in *i* (*ik*), so *prati* does not keep it; the *kṛdanta* second member's natural accent holds (*gatikārakopapadāt kṛt*, Pā. 6-2-139 as read); *pratyaṅ* is end-acute.
+- **eṣi**: root *iṇ gatau*, *adādi*; second person singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 as read) drops *śap*; *i + si*; *guṇa* of the final *ik* by *sārvadhātukārdhadhātukayoḥ*; the *s* of the suffix becomes *ṣ* by *ādeśapratyayayoḥ* (Pā. 8-3-59 as read); *eṣi*; at the end of a pronounced *pāda*, the all-unaccented by *tiṅ atiṅaḥ*.
+- **svaḥ**: *su* is a prefix with *gati* name; root *ṛ gatau*, *bhvādi*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read) gives *vic* in the same way as *manin, kvanip, vanip* after roots; *guṇa* before *vic*; for the *ṛ* an *r* comes: *su + ar + vic*, all of the suffix drops; *yaṇ* for the *u*: *svar*; with the *visarga*, the end: *svaḥ*; *nyaṅ svarau svaritau ca* (Phiṭ-sūtra 4-[?]4 as read) gives *svarita*.
+- **dṛśe**: root *dṛśir prekṣaṇe*, *bhvādi*; *dṛśe viḥkhye ca* (Pā. 3-4-11 as read) makes this root take, by *nipātana*, the form *dṛśe* in the sense of the infinitive; so *dṛśe* means "to see". **|| 5 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 121 (PDF 137) reached; title, introduction, heading and Riks 50.1–50.4 complete; Rik 50.5's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*pratyaṅ*, *devānāṃ viśaḥ*) are written; the rest of its Special Topics begins at the foot of p. 121 and the grammar follows (p. 122 on) — NOT yet written.**
+### Rik 50.6 (pp. 123–126, PDF 139–142)
 
-**Next task:** continue at printed p. 121 foot / p. 122 (PDF 137–138): insert "**Rik 50.5, continued** *(from p. 121 foot)*"; then Riks 6–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 137 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-137.jpg`). Flags for 50.3–5: all Āśvalāyana, Taittirīya, Kaṭha, Uṇādi, Pāṇini numerals "as read [?]"; 50.4 has two readings (the Sun, and the Supreme Self) both given; citations in the Special Topics glossed "mine and tentative". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 123; accents not reproduced)*
+
+> **येना पावक चक्षसा भुरण्यन्तं जनाँ अनु ।**
+> **त्वं वरुण पश्यसि ॥ ६ ॥**
+
+*yenā pāvaka cakṣasā bhuraṇyantaṃ janām̐ anu |*
+*tvaṃ varuṇa paśyasi || 6 ||*
+
+**Pada-pāṭha** *(p. 123)*
+
+> येन । पावक । चक्षसा । भुरण्यन्तम् । जनान् । अनु ।
+> त्वम् । वरुण । पश्यसि ॥ ६ ॥
+
+*yena | pāvaka | cakṣasā | bhuraṇyantam | janān | anu |*
+*tvam | varuṇa | paśyasi || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 124)*
+
+> **हे पावक सर्वस्य शोधक वरुणानिष्टनिवारक सूर्य त्वं जनान्जातान्प्राणिनो भुरण्यन्तं धारयन्तं पोषयन्तं वेमं लोकं येन चक्षसा प्रकाशेनानु पश्यसि । अनुक्रमेण प्रकाशयसि । तं प्रकाशं स्तुम इति शेषः । यद्वा । उत्तरस्यामृचि सम्बन्धः । तेन चक्षसा व्येषीति । तथा च यास्केनोक्तं । तत्ते वयं स्तुम इति वाक्यशेषोऽपि वोत्तरस्या मन्त्रयस्तेन व्येषि । नि. १२-२१ [?] । इति ॥ भुरण्यन्तं । भुरण धारणपोषणयोः । कण्ड्वादित्वाद्यक् । ततः शतरि कर्तरि शप् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । वरुण । वृङ् वरणे । अस्मादन्तर्भावितण्यर्थात्क्यावृत्यादारिभ्य उनन् । उ. ३-५३ [?] । इत्युनन्प्रत्ययः । अत्र वरुणशब्देनादित्य एवोच्यते । तथा चान्यत्राम्नातं । तस्मै मित्रश्च वरुणश्चाजायेताम् । मित्रश्च वरुणश्च धाता चार्यमा च । तै. आ. १-१३-३ [?] । इति च ॥**
+
+*he pāvaka sarvasya śodhaka varuṇāniṣṭanivāraka sūrya tvaṃ janān jātān prāṇino bhuraṇyantaṃ dhārayantaṃ poṣayantaṃ vemaṃ lokaṃ yena cakṣasā prakāśenānu paśyasi | anukrameṇa prakāśayasi | taṃ prakāśaṃ stuma iti śeṣaḥ | yadvā | uttarasyām ṛci sambandhaḥ | tena cakṣasā vyeṣīti | tathā ca yāskenoktaṃ | tat te vayaṃ stuma iti vākyaśeṣo 'pi vottarasyā mantrayas tena vyeṣi | ni. 12-21 [?] | iti || bhuraṇyantaṃ | bhuraṇa dhāraṇapoṣaṇayoḥ | kaṇḍvādittvād yak | tataḥ śatari kartari śap | adupadeśāl lasārvadhātukānudāttatve yaka eva svaraḥ śiṣyate | varuṇa | vṛṅ varaṇe | asmād antarbhāvitaṇyarthāt kyāvṛtyādāribhya unan | u. 3-53 [?] | ity unanpratyayaḥ | atra varuṇaśabdenāditya evocyate | tathā cānyatrāmnātaṃ | tasmai mitraś ca varuṇaś cājāyetām | mitraś ca varuṇaś ca dhātā cāryamā ca | tai. ā. 1-13-3 [?] | iti ca ||*
+
+*(Crowded: the Nirukta number; the sentence "tat te vayaṃ stuma iti vākyaśeṣo 'pi vottarasyā mantrayas tena vyeṣi" is as I read it, [?]; the Uṇādi number and the Taittirīya Āraṇyaka number.)*
+
+**Translation:** "O *pāvaka*, purifier of all; O *varuṇa*, warder-off of the unwished; O Sūrya: *janān*, the born beings — *bhuraṇyantam*, upholding and nourishing this world — *yena cakṣasā*, with which light, *anu paśyasi*, you look after them in order, you illumine — *that light we praise*: this is the part understood. Or the connexion is with the next ṛk: 'with that light you move through (the sky)'. And as Yāska says: 'We praise that of yours: or the rest of the sentence is joined with the next ṛk, with which you go through' (Ni. 12-21 [?]). *Bhuraṇyantam*: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *yak* because it is of the *kaṇḍvādi* class; then *śatṛ*, *śap*; since the *lasārvadhātuka* is unaccented, the accent of *yak* alone remains. *Varuṇa*: root *vṛṅ varaṇe*, with the causative sense included; *unan* by *kyāvṛtyādāribhya*… (Uṇ. 3-53 [?]); by the word *varuṇa* the Āditya alone is meant: as it is said elsewhere, 'for him Mitra and Varuṇa were born'; 'Mitra and Varuṇa, Dhātṛ and Aryaman' (Tai. Ā. 1-13-3 [?])."
+
+**Pratipadārtha** *(p. 124)* — "**pāvaka** — O Sūrya, purifier of all; **varuṇa** — and ward-off of the unwished; **tvam** — you; **janān** — all beings born; **bhuraṇyantam** — upholding or nourishing this world; **yena cakṣasā** — with what light; **anu paśyasi** — you look upon in order (making it shine); (that light we praise)."
+
+**Bhāvārtha** *(p. 124)* — "O god Sūrya, you purify all. You ward off, so that all may be well, the things that are unwished. We praise the light with which you make shine this world that upholds, or nourishes, all beings."
+
+**English Translation (the source's own, p. 124)** — "With that light with which you, the purifier and defender from evil, look upon this world full of living beings."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 124–125**
+- **bhuraṇyantam** — "*bhuraṇa dhāraṇapoṣaṇayoḥ*; *dhārayantam*, *poṣayantam vā*: the world that nourishes people or that supports (protects) them."
+- **varuṇa** — "*vṛṅ varaṇe*; *aniṣṭanivāraka*: one who wards off the unwished things of men (that is, their sins). The commentator says that the word *varuṇa* indicates the Āditya, and for this he gives two Śruti sentences" — **untranslated in the source**:
+
+  1. > **तस्मै मित्रश्च वरुणश्चाजायेताम् ।** *(Tai. Brā. 1-6-9-2 as read [?]; the print gives "1-r-9-2")*
+
+     *tasmai mitraś ca varuṇaś cājāyetām |* — mine and tentative: "for him Mitra and Varuṇa were born."
+  2. > **मित्रश्च वरुणश्च धाता चार्यमा च ।** *(Tai. Ā. 1-13-3 as read [?])*
+
+     *mitraś ca varuṇaś ca dhātā cāryamā ca |* — mine and tentative: "Mitra and Varuṇa, Dhātṛ and Aryaman."
+- "Yāska has given the following explanation of this ṛk" (**untranslated in the source**; "Ni. 12-22" as read [?], the Sanskrit as printed and crowded in places):
+
+  > **भुरण्युरिति क्षिप्रनाम । भुरण्यः शकुनिर्भूरिमध्वानं नयेत्स्वर्गस्य लोकस्यापि वोढा तत्सम्पाती भुरण्युरनेन पावकख्यातेन । भुरण्यन्तं जनाननु । त्वं वरुण पश्यसि । तत्ते वयं स्तुम इति वाक्यशेषः ॥** *(Ni. 12-22 as read [?])*
+
+  *bhuraṇyur iti kṣiprānāma | bhuraṇyaḥ śakunir bhūrim adhvānaṃ nayet svargasya lokasyāpi voḷhā tatsampātī bhuraṇyur anena pāvakakhyātena | bhuraṇyantaṃ janān anu | tvaṃ varuṇa paśyasi | tat te vayaṃ stuma iti vākyaśeṣaḥ ||* — mine and tentative, doubtful: "*Bhuraṇyu* is a name for 'swift'. The *bhuraṇya* (bird) might carry (one) over a long road; or the carrier of the world of heaven, he who flies together with it, is *bhuraṇyu*, by this [verse] called *pāvaka*. 'You, Varuṇa, look upon the nourishing (world) in order': 'that of you we praise' is the remainder of the sentence."
+- The Kannada author explains: "The word *bhuraṇyu* means swiftly: the one who moves swiftly along the path of the atmosphere, or the one who holds up heaven, or the one who guards heaven — this is the meaning of the word *bhuraṇyantam*: O Sūrya, such as you are, you look upon people, that is, people look at you: 'we praise you who are such'; or one may, if one wishes, connect it with the verb *vi eṣi* of the next ṛk, that is, state the connexion with the next ṛk thus: 'you who go forth with the light with which you...'."
+
+**Vyākaraṇa-prakriyā** *(pp. 125–126 — grammar pages, noted briefly)*
+- **cakṣasā**: root *cakṣiṅ vyaktāyāṃ vāci*; *cakṣer bahulaṃ śic ca* (Uṇ. 4-[?]23 as read [?]) gives *asun* (with the *śit*-marker); *cakṣas*, a stem in *s*; since it is *śit*, no *ārdhadhātuka*-name, hence no *khyāñ* by *cakṣiṅaḥ khyāñ*; the instrumental singular *cakṣasā*.
+- **bhuraṇyantam**: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *kaṇḍvādi*; *laṭ*, with the sense of agent; *bhuraṇ + at*; *kaṇḍvādibhyo yak* (Pā. 3-1-27 as read) gives *yak*; as the *yak* of the *kaṇḍvādi* is *sārvadhātuka* with an agentive sense standing after, *śap* as *vikaraṇa* follows; since *yak* is in the *sanādi* list, a *yak*-ending form is a root (*sanādyantā dhātavaḥ*); *bhuraṇya + a + at*; *ato guṇe* gives *pararūpa* in view of the two things taken together; *bhuraṇyat*, a stem in *t*; the accusative singular, *ugit*-ness gives *num*: *bhuraṇyantam*. Here *śap* is unaccented; since *śatṛ* as a *lasārvadhātuka* after a root that has an *upadeśa* ending in *a* is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read), the accent of *yak* alone remains, and the *a* after *y* is acute.
+- **varuṇa**: root *vṛṅ varaṇe*, *svādi*; here the causative sense is to be taken as included; *kyāvṛtyādāribhya unan* (Uṇ. 3-[?]3 as read [?]) gives *unan*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* before *unan*, the *ṛ* becoming *ar*; *varuṇa*; *aṭkupvāṅnumvyavāye 'pi* (Pā. 8-4-2 as read) gives *ṇatva* because the *n* follows a *repha*; in the vocative the *su* drops after a short stem (*eṅhrasvāt sambuddheḥ*); being a vocative, *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented. By the word *varuṇa* the Sun alone is said (the Kannada author cites the two Śruti sentences given above, from the Taittirīya Brāhmaṇa and Āraṇyaka). **|| 6 ||**
+
+---
+
+### Rik 50.7 (pp. 126–129, PDF 142–145)
+
+**Saṃhitā-pāṭha** *(p. 126; accents not reproduced)*
+
+> **वि द्यामेषि रजस्पृथ्वहा मिमानो अक्तुभिः ।**
+> **पश्यञ्जन्मानि सूर्य ॥ ७ ॥**
+
+*vi dyām eṣi rajas pṛthv ahā mimāno aktubhiḥ |*
+*paśyañ janmāni sūrya || 7 ||*
+
+**Pada-pāṭha** *(p. 126)*
+
+> वि । द्याम् । एषि । रजः । पृथु । अहा । मिमानः । अक्तुऽभिः ।
+> पश्यन् । जन्मानि । सूर्य ॥ ७ ॥
+
+*vi | dyām | eṣi | rajaḥ | pṛthu | ahā | mimānaḥ | aktu-bhiḥ |*
+*paśyan | janmāni | sūrya || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 126–127)*
+
+> **हे सूर्य त्वं पृथु विस्तीर्णं रजो लोकं । लोका रजांस्युच्यन्त इति यास्कः । नि. ४-१९ [?] । कं लोकं । द्यामन्तरिक्षलोकं । व्येषि । विशेषेण गच्छसि । किं कुर्वन् । अहाहान्यक्तुभी रात्रिभिः सह मिमान उत्पादयन् । आदित्यगत्यधीनत्वादहोरात्रविभागस्य । तथा जन्मानि जननवन्ति भूतजातानि पश्यन् प्रकाशयन् ॥ रजस्पृथ्विति [crowded, ?] । छन्दसि वाप्रवेऽडितयोः [?] । पा. ८-३-३९ [?] । इति विसर्जनीयस्य सत्वं । अहा । शेश्छन्दसि बहुलमिति शेर्लोपः । मिमानः । माङ् माने । जौहोत्यादिकः । शानचि श्लौ द्विर्भावे भृञामित्यभ्यासस्येत्वं । श्नाभ्यस्तयोरात इत्याकारलोपः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । जन्मानि । जनी प्रादुर्भावे । अन्येभ्योऽपि दृश्यन्त इति मनिन् । नित्त्वादाद्युदात्तत्वम् ॥**
+
+*he sūrya tvaṃ pṛthu vistīrṇaṃ rajo lokaṃ | lokā rajāṃsy ucyanta iti yāskaḥ | ni. 4-19 [?] | kaṃ lokaṃ | dyām antarikṣalokaṃ | vyeṣi | viśeṣeṇa gacchasi | kiṃ kurvan | ahāhāny aktubhī rātribhiḥ saha mimāna utpādayan | ādityagatyadhīnatvād ahorātravibhāgasya | tathā janmāni jananavanti bhūtajātāni paśyan prakāśayan || rajaspṛthv iti [crowded, ?] | chandasi vāprave 'ḍitayoḥ [?] | pā. 8-3-39 [?] | iti visarjanīyasya satvaṃ | ahā | śeś chandasi bahulam iti śer lopaḥ | mimānaḥ | māṅ māne | jauhotyādikaḥ | śānaci ślau dvirbhāve bhṛñām ity abhyāsasyetvaṃ | śnābhyastayor āta ity ākāralopaḥ | abhyastānām ādir ity ādyudāttatvaṃ | janmāni | janī prādurbhāve | anyebhyo 'pi dṛśyanta iti manin | nittvād ādyudāttatvam ||*
+
+*(The clause on* rajaspṛthu*'s sandhi — "rajaspṛthv iti … chandasi vāprave 'ḍitayoḥ" — is crowded in the print and given as read [?].)*
+
+**Translation:** "O Sūrya, you *pṛthu rajaḥ*, the wide expanse — *rajas* is the world: 'the worlds are called *rajāṃsi*' says Yāska (Ni. 4-19 [?]) — which world? *dyām*, the middle region — *vi eṣi*, you go through specially. Doing what? *Aktubhiḥ ahā mimānaḥ*, producing the days together with the nights, because the division of day and night depends on the Āditya's movement; and *janmāni paśyan*, looking at (illumining) the born beings. *Ahā*: *śi* dropped by *śeś chandasi bahulam*. *Mimānaḥ*: root *māṅ māne*, of the *juhotyādi* class; with *śānac*, *ślu*, doubling, the *i* in the reduplicative syllable by *bhṛñām it*; the *ā* drops by *śnābhyastayor ātaḥ*; the initial acute by *abhyastānām ādiḥ*. *Janmāni*: root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*; initial-acute because *nit*."
+
+**Pratipadārtha** *(p. 127)* — "**sūrya** — O god Sūrya; **tvam** — you; **ahā** — the days; **aktubhiḥ** — with the nights; **mimānaḥ** — producing; (so also) **janmāni** — all beings that have been born; **paśyan** — lighting up; **pṛthu** — wide; **dyām rajaḥ** — in the world of the atmosphere; **vi eṣi** — you move about specially."
+
+**Bhāvārtha** *(p. 127)* — "O god Sūrya, the day and the nights are all dependent on your movements. By your movements, creating them in order, and so lighting up all the beings that are born, you move for ever in the wide world of the atmosphere."
+
+**English Translation (the source's own, p. 127)** — "You travel through the vast space of the firmament, measuring days and nights and observing all creatures."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 127**
+- **dyāṃ rajaḥ** — "*rajas* means the wide world of the atmosphere, that is, the world; there is the Nirukta statement '*lokā rajāṃsy ucyante*' (Ni. 4-19 [?])." — **untranslated in the source**:
+
+  > **लोका रजांस्युच्यन्ते ।** *(Ni. 4-19 as read [?])*
+
+  *lokā rajāṃsy ucyante |* — mine and tentative: "the worlds are called *rajāṃsi*."
+- **mimānaḥ** — "*māṅ māne*: measuring, that is, dividing day and night evenly. Since the measure of day and night is equal, the root *māṅ* is used here."
+- **ahā aktubhiḥ** — "making the days equal with the nights; the idea is that the time-measure of day and night is made one and equal."
+- **janmāni** — "*jananavanti bhūtajātāni*: all beings that are born or will be born; there are no beings that are not under the sight of the Sun; therefore it is a custom to say that the Sun, who sees all, is the *karmasākṣī*, the witness of acts."
+
+*(The grammar of Rik 7 begins on p. 128, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 127 (PDF 143) reached; title, introduction, heading and Riks 50.1–50.6 complete; Rik 50.7's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics are written; its grammar begins on p. 128 and is NOT yet written.**
+
+**Next task:** continue at printed p. 128 (PDF 144): insert "**Rik 50.7, continued** *(from p. 128)*" with the Vyākaraṇa-prakriyā of Rik 7; then Riks 8–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 144 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-144.jpg`). Flags for 50.5–7: the Nirukta citations (esp. the one on *bhuraṇyu* in 50.6, doubtful) and the Taittirīya citations have glosses mine and tentative; numerals "as read [?]"; 50.7's *rajaspṛthu* sandhi clause crowded. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
