@@ -6820,10 +6820,183 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Rik 41.6, continued** *(from p. 425)*
+
+**English Translation (the source's own, p. 425)** — "That mortal whom you favour, obtains without any obstacles, all valuable wealth, and progeny like himself."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 425**
+- **tokam** — "*tuk*; since the word *tokam* is read among the fifteen names of offspring beginning with *tokam* [as read, crowded [?]], *tokam* means offspring, progeny of sons — 'progeny, offspring'" (the source adds the English words).
+- **astṛtaḥ** = *stṛñ hiṃsāyām* — "without obstacles, without trouble: 'without obstacles, without any hindrance'" (the English words are the source's).
+
+**Vyākaraṇa-prakriyā** *(p. 425 — grammar page, noted briefly)*
+- **ratnam**: *sabbiṣayaś syāni saṃtasya* [as read, crowded [?]; Phiṭ. sūtra number as read [?]]: first-syllable acute.
+- **tmanā**: *mantreṣv āṅyāder ātmanaḥ* — मन्त्रेष्वाङ्याद्रेरात्मनः — [Pā. 6-4-141 as read]: *āṅ* means the third-case singular ending of the ancients' technical term (*prācīnasaṃjñā*); when *āṅ* follows, the first letter of *ātman* is lost in the Veda, so the *ā* is lost.
+- **acchā**: *nipātasya ca* [Pā. 6-3-136 as read]: a particle in a mantra takes the long vowel; *acchā gatyarthavadeṣu* — अच्छ गत्यर्थवदेषु — [Pā. 1-4-69 as read]: when the roots of going and the root *vad* are used with it, the indeclinable *accha* takes the *gati* name and the *nipāta* name; hence the long vowel in the Saṃhitā.
+- **astṛtaḥ**: *stṛñ hiṃsāyām*, *svādi* (short-ending) or *kryādi* (long-ending), and in the sense of covering *stṛ* is read; the commentators of the Veda (*vedabhāṣyakāra*) take it also in the sense of injury; *kta*; this is an *ajanta* root; *ūdṛdantaiḥ* [as read, crowded [?]] does not include it, so it is unaccented; *ekāca upadeśe 'nudāttāt* — the prohibition of *iṭ*; or *titutra…* [Pā. 7-2-9 as read] the prohibition of *iṭ*; "*na stṛtaḥ*": a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the first-member accent as an indeclinable. Rik 6 ends here (*|| 6 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–40 COMPLETE; Sūkta 41 in progress: printed p. 424 (PDF 438) reached; introduction, heading and Riks 41.1–41.5 complete; Rik 41.6's Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written (English, Special Topics and grammar begin on p. 425).**
+### Rik 41.7 (pp. 426–428, PDF 440–442)
 
-**Next task:** continue at printed p. 425 (PDF 439) with the English, Special Topics and grammar of Rik 41.6, then Riks 7–9 and the close of Sūkta 41 (to about p. 432; Sūkta 42 *saṃ pūṣan* begins about p. 433, check), then STOP at the end of Sūkta 41 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 424–450) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 439 -l 450 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 426; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 40's list is in the commit "Vol 4: Sūkta 40 complete"). Sūkta 41 so far: (1) heading varga numerals and the Rik numerals of the deity line small, read with doubt; (2) every Pāṇini / Uṇādi / Nirukta / Phiṭ reference numeral is "as read [?]"; (3) Rik 1: the grammar page's "*darbh+ya+te*" for *dabhyate* (root *dambhu*) is as printed; two senses offered; (4) Rik 2: the grammar discussion of the root *pyā*/*pṛ* and the Vedic shortening (p. 415) characterized only; (5) Rik 3: the grammatical tail on *durgā* crowded [?]; (6) Rik 4: a stray *a* before *nāsti* in the bhāṣya and the rule-name for *ksaran* are doubtful; the Nirukta reference for *ṛkṣaraḥ* and the *indriya-pralaya-mūrti-bhāva* clause are crowded [?]; (7) Rik 5: the Saṃhitā prints *nayathā* against the Pada's *nayatha*; the grammar of *dhītaye* (the *ghu* name by *grāmaṇyādi*… paribhāṣā) and the root-name of *naśat* are crowded [?].
+> **कथा राधाम सखायः स्तोमं मित्रस्यार्यम्णः ।**
+> **महि प्सरो वरुणस्य ॥ ७ ॥**
+
+*kathā rādhāma sakhāyaḥ stomaṃ mitrasyāryamṇaḥ |*
+*mahi psaro varuṇasya || 7 ||*
+
+**Pada-pāṭha** *(p. 426)*
+
+> कथा । राधाम । सखायः । स्तोमम् । मित्रस्य । अर्यम्णः ।
+> महि । प्सरः । वरुणस्य ॥ ७ ॥
+
+*kathā | rādhāma | sakhāyaḥ | stomam | mitrasya | aryamṇaḥ |*
+*mahi | psaraḥ | varuṇasya || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 426)*
+
+> **हे सखायः सखिभूता ऋत्विजो मित्रादीनां त्रयाणां महि महत् प्सरो रूपं । अतस्तदनुरूपं स्तोमं स्तोत्रं कथा केन प्रकारेण राधाम । साधयामः ॥ कथा । थाहेतौ च च्छन्दसि । पा. ५-३-२६ [?] । इति किंशब्दात्प्रकारवचनेषु प्राग्दिशो विभक्तिरिति विभक्तिसंज्ञायां किमः कः । पा. ७-२-१०३ । इति कादेशः । प्रत्ययस्वरः । राधाम । राध साध संसिद्धौ । लेटि बहुलं छन्दसीति विकरणस्य लुक् । तिङ्ङतिङ इति निघातः । स्तोमं । ष्टुञ् स्तुतौ । आर्तिस्तुस्वित्यादिना भावे मन् । नित्त्वादाद्युदात्तत्वं । आर्यम्णः । षष्ठ्यैकवचनेऽल्लोपोऽन इत्यकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । महि । मह पूजायां । औणादिक इन्प्रत्ययः । प्सरः । प्सा भक्षणे । प्साति भक्षयतीति प्सरो रूपं । औणादिको दरप्रत्ययः ॥**
+
+*he sakhāyaḥ sakhibhūtā ṛtvijo mitrādīnāṃ trayāṇāṃ mahi mahat psaro rūpaṃ | atas tadanurūpaṃ stomaṃ stotraṃ kathā kena prakāreṇa rādhāma | sādhayāmaḥ || kathā | thā hetau ca chandasi | pā. 5-3-26 [?] | iti kiṃśabdāt prakāravacaneṣu prāgdiśo vibhaktir iti vibhaktisaṃjñāyāṃ kimaḥ kaḥ | pā. 7-2-103 | iti kādeśaḥ | pratyayasvaraḥ | rādhāma | rādha sādha saṃsiddhau | leṭi bahulaṃ chandasīti vikaraṇasya luk | tiṅ atiṅa iti nighātaḥ | stomaṃ | ṣṭuñ stutau | ārtistuswity ādinā bhāve man | nittvād ādyudāttatvaṃ | āryamṇaḥ | ṣaṣṭhyaikavacane 'llopo 'na ity akāralopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ | mahi | maha pūjāyāṃ | auṇādika in-pratyayaḥ | psaraḥ | psā bhakṣaṇe | psāti bhakṣayatīti psaro rūpaṃ | auṇādiko darapratyayaḥ ||*
+
+**Translation:** "O *sakhāyaḥ*, friends, the priests who are [as] friends: the *mahi*, great, *psaraḥ*, form, of the three, Mitra and the others. Therefore *stomam*, a praise, to match it — *kathā*, in what way — *rādhāma*, shall we accomplish? *Kathā*: by *thā hetau ca chandasi* [Pā. 5-3-26 [?]] the suffix *thā* after *kim*, in the senses of manner; since *prāgdiśo vibhaktiḥ* gives the *vibhakti* name, *kā* for *kim* by *kimaḥ kaḥ* [Pā. 7-2-103]; accent of the suffix. *Rādhāma*: root *rādha sādha saṃsiddhau*; in *leṭ* the *vikaraṇa* is elided by *bahulaṃ chandasi*; *tiṅ atiṅaḥ*. *Stomam*: root *ṣṭuñ stutau*; *man* in the abstract sense by *ārtistu…*; since *nit*, first-syllable acute. *Āryamṇaḥ*: in the genitive singular the loss of *a* by *alopo 'naḥ*; the ending acute by the accent that follows loss of an acute. *Mahi*: root *maha pūjāyām*; the Uṇādi suffix *in*. *Psaraḥ*: root *psā bhakṣaṇe*: '*psāti*, it devours': *psaraḥ*, form; the Uṇādi *dara*."
+
+**Pratipadārtha** *(p. 426)* — "**sakhāyaḥ** — O friends, the priests; **mitrasya** — of Mitra; **aryamṇaḥ** — of Aryaman; **varuṇasya** — of Varuṇa [these three deities]; **mahi** — of greatness; **psaraḥ** — [their] glory; **stomam** — the praise [fit to praise it]; **kathā** — in what way; **rādhāma** — shall we accomplish?"
+
+**Bhāvārtha** *(p. 426)* — "O priests, our friends, in what way shall we accomplish the glory, and the praise, of these three deities, Mitra, Aryaman and Varuṇa?"
+
+**English Translation (the source's own, p. 427)** — "My friends, how shall we recite the praise worthy of the great glory of Mitra, Varuna, and Aryaman ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 427**
+- **kathā** = *kena prakāreṇa* — "in what manner."
+- **rādhāma** — "*rādha sādha saṃsiddhau*: let us accomplish; let us bring it to completion."
+- **sakhāyaḥ** — "here the sacrificer addresses the priests as friends. Since in the third *saṃhitā* of the *Yajurveda* [?] there is a statement '*ṛtvijo vā asya sakhāyaḥ*' [as read [?]], the priests are called friends of the sacrificer."
+- **mahi** = *maha pūjāyām | mahat | śreṣṭhaṃ pūjyam* — "great; excellent; worthy of worship."
+- **psaraḥ** — "*psā bhakṣaṇe*; '*psāti bhakṣayatīti psaro rūpam*': the form of glory, greatness, 'glory'" (the English word is the source's).
+
+**Vyākaraṇa-prakriyā** *(pp. 427–428 — grammar pages, noted briefly)*
+- **kathā**: *thā hetau ca chandasi* — था हेतौ च छन्दसि — [Pā. 5-3-26 as read]: *thā* after *kim* both in the sense of cause and manner; *prāgdiśo vibhaktiḥ* — प्रागिशो विभक्तिः — [Pā. 5-3-1 as read] gives *thā* the name *vibhakti*; *kimaḥ kaḥ* — किमः कः — [Pā. 7-2-103 as read]: *ka* for *kim* before a *vibhakti*; the accent of the suffix.
+- **rādhāma**: *rādha sādha saṃsiddhau*; *leṭ*, first-person plural; *mas*, *sa uttamasya* — स उत्तमस्य — [Pā. 3-4-98 as read]: the *s* of the *leṭ* first-person ending is optionally lost; so the loss of *s* [*s* of *mas*]; *bahulaṃ chandasi* gives *luk* to the *vikaraṇa*; *leṭo 'ḍāṭau* the *aṭ* augment; *tiṅ atiṅaḥ* wholly unaccented.
+- **stomam**: *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ* the *s*; *ārtistuśū…* — आर्तिस्तुसुहुसृघृशृयाजिभ्यो मन् — [Uṇ., as read [?]]: the suffix *man* in the abstract; *guṇa*: *o*; the suffix being *nit*, the word is first-syllable [final] acute.
+- **āryamṇaḥ**: after *aryaman*, the genitive singular *ṅas*; *alopo 'naḥ* — अल्लोपोऽनः — [Pā. 6-4-134 as read]: the loss of the *a* of a stem ending in *an* when it is a *bha*, before an *ac*-initial ending; the print argues at length that the rule's *aṅga* is the *an*-ending *aṅga* in the *bha* sense, and not merely the *a* after *t* in *takṣṇaḥ*; *āryamṇaḥ*: *aryam + n + as*; *aṭkupvāṅ…* gives *ṇ*; the ending is acute by the *udāttanivṛtti* rule.
+- **mahi**: *maha pūjāyām*; the Uṇādi *in*.
+- **psaraḥ**: *psā bhakṣaṇe*, *adādi*; "*psāti bhakṣayatīti*, so *psaraḥ*, form, i.e. form"; the Uṇādi suffix *dara*; in the suffix the *ḍ* [as *ḍit*] gives the *ṭi*-loss: the *ā* of the root is lost; first-syllable acute by the suffix accent. Rik 7 ends here (*|| 7 ||*).
+
+---
+
+### Rik 41.8 (pp. 428–431, PDF 442–445)
+
+**Saṃhitā-pāṭha** *(p. 428; accents not reproduced)*
+
+> **मा वो घ्नन्तं मा शपन्तं प्रति वोचे देवयन्तम् ।**
+> **सुम्नैरिद्व आ विवासे ॥ ८ ॥**
+
+*mā vo ghnantaṃ mā śapantaṃ prati voce devayantam |*
+*sumnair id va ā vivāse || 8 ||*
+
+**Pada-pāṭha** *(p. 428)*
+
+> मा । वः । घ्नन्तम् । मा । शपन्तम् । प्रति । वोचे । देवऽयन्तम् ।
+> सुम्नैः । इत् । वः । आ । विवासे ॥ ८ ॥
+
+*mā | vaḥ | ghnantam | mā | śapantam | prati | voce | deva-yantam |*
+*sumnaiḥ | it | vaḥ | ā | vivāse || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 429)*
+
+> **हे मित्रादयो देवा देवयन्तं देवान्कामयमानं यजमानं यः शत्रुर्घ्नन्तं तादृशं शत्रुं वो युष्मभ्यं मा प्रति वोचे । दुरुक्तकथनभीत्याहं न कथयामि । तथा यजमानं यः शत्रुः शपति तमपि शपन्तं मा प्रति वोचे । भवद्भिरेव विचार्य शिक्षणीय इत्यर्थः । अहं तु सुम्नैरिद्धन्यैरेव वो युष्मानाविवासे । सर्वतः परिचरामि ॥ घ्नन्तं । हन्तीति घ्नन् । गमहनेत्यादिनोपधालोपः । हो हन्तेरिति कुत्वे प्रत्ययस्वरः । शपन्तं । शप आक्रोशे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । वोचे । ब्रूञ् व्यक्तायां वाचि । माजः लुङ्लृट्ं ब्रुवो वचिः । पा. ३-४-५३ [?] । इति वचिः । अस्यतिवक्तीत्यादिना च्लेरङादेशः । वच उमित्युमागमः । न माङ्योगे इत्यडभावः । देवयन्तं । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येत्वप्रतिषेधः । सुम्नैः । म्ना अभ्यासे । सुष्ठु म्नायतेऽभ्यस्यते इति सुम्नं । आतश्चोपसर्ग इति कप्रत्ययः । आतो लोप इटि चेत्याकारलोपः । विवासे । विवासतिः परिचरणकर्मा ॥**
+
+*he mitrādayo devā devayantaṃ devān kāmayamānaṃ yajamānaṃ yaḥ śatrur ghnantaṃ tādṛśaṃ śatruṃ vo yuṣmabhyaṃ mā prati voce | duruktakathanabhītyāhaṃ na kathayāmi | tathā yajamānaṃ yaḥ śatruḥ śapati tam api śapantaṃ mā prati voce | bhavadbhir eva vicārya śikṣaṇīya ity arthaḥ | ahaṃ tu sumnair id dhanyair eva vo yuṣmān ā vivāse | sarvataḥ paricarāmi || ghnantaṃ | hantīti ghnan | gamahanety ādinopadhālopaḥ | ho hanter iti kutve pratyayasvaraḥ | śapantaṃ | śapa ākrośe | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | voce | brūñ vyaktāyāṃ vāci | māja[?]ḥ luṅ… [?] bruvo vaciḥ | pā. 3-4-53 [?] | iti vaciḥ | asyativaktītyādinā ca cler aṅādeśaḥ | vaca um ity umāgamaḥ | na māṅyoge ity aḍabhāvaḥ | devayantaṃ | supa ātmanaḥ kyac | na chandasy aputrasyety ītvapratiṣedhaḥ | sumnaiḥ | mnā abhyāse | suṣṭhu mnāyate 'bhyasyate iti sumnaṃ | ātaś copasarga iti kapratyayaḥ | āto lopa iṭi cety ākāralopaḥ | vivāse | vivāsatiḥ paricaraṇakarmā ||*
+
+*(In the bhāṣya's grammatical tail, the stretch printed before the sūtra-name* bruvo vaciḥ *("māja[?]ḥ luṅ…") is crowded and the sūtra number is read with doubt [?].)*
+
+**Translation:** "O Mitra and the other gods, the enemy who *ghnantam*, kills, the sacrificer *devayantam*, who desires the gods — such an enemy [by name] *vaḥ*, to you, *mā prati voce*, I do not tell: out of fear of speaking ill words I do not tell. Likewise the enemy who curses (*śapati*) the sacrificer, that curser *mā prati voce*: [I do not tell; it is meant that] you should yourselves consider and instruct him. *Aham tu*, I, however, *sumnaiḥ it*, with riches alone, *vaḥ*, you, *ā vivāse*, I serve on all sides. *Ghnantam*: '*hanti*'; the loss of the penultimate by *gamahana…*; *ku* by *ho hanteḥ*; accent of the suffix. *Śapantam*: root *śapa ākrośe*; the root accent. *Voce*: root *brūñ vyaktāyāṃ vāci*; *vaci* for *brū* [Pā. 3-4-53 [?]]; *aṅ* for *cli* by *asyativaktī…*; *um* augment for *vac*; no *aṭ* in connection with *mā*. *Devayantam*: *kyac*; the prohibition of *ī* by *na chandasy aputrasya*. *Sumnaiḥ*: root *mnā abhyāse*; '*suṣṭhu mnāyate*'; the suffix *ka* by *ātaś copasarge*; loss of *ā*. *Vivāse*: *vivāsati* is a verb of serving."
+
+**Pratipadārtha** *(p. 429)* — "(O Mitra and the other deities,) **devayantam** — the devotee who desires [the help of] the gods; **ghnantam** — the enemy who injures [him] (his name); **mā prati voce** — I do not speak [out of fear of the fault of reviling others]; **śapantam** — the enemy who reviles [the sacrificer]; **mā (prati voce)** — I do not name him; **sumnaiḥ it** — only with riches; **vaḥ** — you; **ā vivāse** — I serve and honour from all sides."
+
+**Bhāvārtha** *(p. 429)* — "O deities, Mitra and the others, I do not complain to you about the enemy who injures the sacrificer who praises you, nor about the enemy who reviles him. Rather I serve you with wealth and other offerings."
+
+**English Translation (the source's own, p. 429)** — "I do not complain against any man who injures or reviles the man devoted to the gods ; I rather serve you with wealth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 430**
+- **ghnantam** = *hantīti ghnan tam* — "one who injures, kills, harms."
+- **śapantam** — "*śapa ākrośe*: one who reviles, who speaks bad words."
+- **devayantam** = *devān kāmayamānam* — "[the sacrificer] who wishes to praise the gods."
+- **sumnaiḥ** — "*mnā abhyāse*; *suṣṭhu mnāyate 'bhyasyate iti sumnam*; the word *sumnam* is read among the names of happiness (Ni. 3-[?])."
+- **vivāse** = *vivāsatiḥ paricaraṇakarmā* — "I shall serve."
+
+**Vyākaraṇa-prakriyā** *(pp. 430–431 — grammar pages, noted briefly)*
+- **ghnantam**: root *han hiṃsāgatyoḥ*, *laṭ*; *laṭaḥ śatṛśānacau…* [Pā. 3-2-124 as read] gives *śatṛ*; *śap* elided; *han + at*; *sārvadhātukam apit*: the *śatṛ* is *ṅit*; *gamahana…* gives loss of the penultimate *a*; *ho hanter ñṇinneṣu* [Pā. 7-3-54 as read] makes *h* into *gh* (*kutva*) because of the *n*; in place of *h*, which is voiced and *mahāprāṇa*, a *gh* of the same kind comes; *ghnat*; accusative singular *am*; *ugidacāṃ sarvanāmasthāne 'dhātoḥ* [Pā. 7-1-70 as read]: the augment *num*; *anusvāra* and *parasavarṇa*.
+- **śapantam**: root *śapa ākrośe*, *divādi*; instead of *śyan* the *śap* *vikaraṇa* [by Vedic usage], which is *pit* and unaccented; *tāsyanudāttet…* makes the *śatṛ* unaccented; the rest of the process as before.
+- **voce**: root *brūñ vyaktāyāṃ vāci*, *luṅ*, *ātmanepada*, first person, *iṭ*, *cli*, *luṅ*; *bruvo vaciḥ* [Pā. 2-4-53 as read [?]]: *vaci* for *brū* before an *ārdhadhātuka*; the *i* in *vaci* is for ease of pronunciation; *vac* remains; *asyativakti…* [Pā. 3-1-52 as read [?]]: *aṅ* for *cli* after *as*, *vac* and *khyā*; *vaca um* [Pā. 7-4-20 as read [?]]: the augment *um*: *v + u + c + a + i*; *ād guṇaḥ*; *na māṅyoge* prohibits the augment *aṭ*: *voce*.
+- **devayantam**: *supa ātmanaḥ kyac*; *na chandasy aputrasya* prohibits the *ī* and long vowel; *laṭ*, *śatṛ*.
+- **sumnam**: *mnā abhyāse*, first class; *ātaś copasarge* — आतश्चोपसर्गे — [Pā. 3-1-136 as read]: when a prefix is the *upapada*, the suffix *ka* after a root ending in *ā*; *āto lopa iṭi ca* the loss of *ā*.
+- **vivāse**: "*vivāsatiḥ paricaraṇakarmā*" (Ni. 3-3-10 [as read [?]]): the root has the sense of serving; first-person *iṭ*, *e*. Rik 8 ends here (*|| 8 ||*).
+
+---
+
+### Rik 41.9 (pp. 431–434, PDF 445–448)
+
+**Saṃhitā-pāṭha** *(p. 431; accents not reproduced)*
+
+> **चतुरश्चिद्दमानाद्बिभीयादा निधातोः ।**
+> **न दुरुक्ताय स्पृहयेत् ॥ ९ ॥**
+
+*caturaś cid dadamānād bibhīyād ā nidhātoḥ |*
+*na duruktāya spṛhayet || 9 ||*
+
+**Pada-pāṭha** *(p. 431)*
+
+> चतुरः । चित् । ददमानात् । बिभीयात् । आ । निऽधातोः ।
+> न । दुःऽउक्ताय । स्पृहयेत् ॥ ९ ॥
+
+*caturaḥ | cit | dadamānāt | bibhīyāt | ā | ni-dhātoḥ |*
+*na | duḥ-uktāya | spṛhayet || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 431–432)*
+
+> **घ्नन्तं शपन्तं च मा प्रतिवोच इति यदुक्तं तत्रोपपत्तिरुच्यते । दुरुक्ताय न स्पृहयेत् । दुष्टं वाक्यं न कामयेत् किंतु दुरुक्ताद्बिभीयात् । तत्रावशिष्टो मन्त्रभागः सर्वोऽपि दृष्टान्तः । चिदित्युपमार्थे वर्तते । अक्षद्यूतं कुर्वतोरुभयोर्मध्ये यः पुमान् चतुरक्षान् चतुःसंख्याकान्कपर्दकान्ददमानात् दधतो हस्ते धारयेतः पुरुषात् आ निधातोः कपर्दकनिपातपर्यन्तं बिभीयात् अस्य जयो भविष्यति न भविष्यतीत्यन्यो भीतिं प्राप्नुयात् । अत्र यथा भयं तथा दुरुक्ताद्भेतव्यमिति धर्मरहस्यं । तस्मादहं घ्नन्तं शपन्तं मा प्रतिवोच इत्यभिप्रायः । अत्र निरुक्तं । चतुरोऽक्षान्स्मारयेत इति । तद्यथा कितवाद्बिभीयादेवमेव दुरुक्ताद्बिभीयान्न दुरुक्ताय स्पृहयेत् । नि. ३-१६ [?] । इति ॥ चतुरः । चतुः शसि । पा. ६-१-१६७ [?] । इति विभक्तेः पूर्वस्योदात्तत्वं । ददमानात् । दद दाने । अत्र धारणार्थः । शपः पित्त्वादनुदात्तत्वं । अदुपदेशाल्लसार्वधातुकानुदात्तत्वेन शानजनुदात्तः धातुस्वर एव शिष्यते । बिभीयात् । ञिभी भये । लिङः जुहोत्यादित्वाच्छपः श्लुः । यासुट उदात्तत्वं । पादादित्वान्निघाताभावः । निधातोः । निपूर्वाद्दधातेः सितनिगमिमसिसच्यविधाञ्कुशिभ्यस्तुन् । उ. १-६९ [?] । भावे तुन्प्रत्ययः । व्यत्ययेनाद्युदात्तत्वं । तादौ चेति गतिस्वरो न भवति । अतावित पर्युदस्तत्वात् । दुरुक्ताय । स्पृहेरीप्सित इति सम्प्रदानसञ्ज्ञायां चतुर्थी सम्प्रदाने । पा. २-३-१३ । इति चतुर्थी । स्पृहयेत् । स्पृह ईप्सायां । चुरादिरदन्तः । अतो लोपस्य स्थानिवद्भावाल्लघूपधगुणाभावः ॥ ९ ॥**
+
+*ghnantaṃ śapantaṃ ca mā prativoca iti yad uktaṃ tatropapattir ucyate | duruktāya na spṛhayet | duṣṭaṃ vākyaṃ na kāmayet kiṃtu duruktād bibhīyāt | tatrāvaśiṣṭo mantrabhāgaḥ sarvo 'pi dṛṣṭāntaḥ | cid ity upamārthe vartate | akṣadyūtaṃ kurvator ubhayor madhye yaḥ pumān caturakṣān catuḥsaṃkhyākān kapardakān dadamānāt dadhato haste dhārayetaḥ puruṣāt ā nidhātoḥ kapardakanipātaparyantaṃ bibhīyāt asya jayo bhaviṣyati na bhaviṣyatīty anyo bhītiṃ prāpnuyāt | atra yathā bhayaṃ tathā duruktād bhetavyam iti dharmarahasyaṃ | tasmād ahaṃ ghnantaṃ śapantaṃ mā prativoca ity abhiprāyaḥ | atra niruktaṃ | caturo 'kṣān smārayeta iti | tad yathā kitavād bibhīyād evam eva duruktād bibhīyān na duruktāya spṛhayet | ni. 3-16 [?] | iti || caturaḥ | catuḥ śasi | pā. 6-1-167 [?] | iti vibhakteḥ pūrvasyodāttatvaṃ | dadamānāt | dada dāne | atra dhāraṇārthaḥ | śapaḥ pittvād anudāttatvaṃ | adupadeśāl lasārvadhātukānudāttatvena śānajanudāttaḥ dhātusvara eva śiṣyate | bibhīyāt | ñibhī bhaye | liṅaḥ juhotyāditvāc chapaḥ śluḥ | yāsuṭa udāttatvaṃ | pādāditvān nighātābhāvaḥ | nidhātoḥ | nipūrvād dadhāteḥ sitanigamimasisacyavidhāñkuśibhyas tun | u. 1-69 [?] | bhāve tunpratyayaḥ | vyatyayenādyudāttatvaṃ | tādau ceti gatisvaro na bhavati | atāv iti paryudastatvāt | duruktāya | spṛher īpsita iti sampradānasañjñāyāṃ caturthī sampradāne | pā. 2-3-13 | iti caturthī | spṛhayet | spṛha īpsāyāṃ | curādir adantaḥ | ato lopasya sthānivadbhāvāl laghūpadhaguṇābhāvaḥ || 9 ||*
+
+**Translation:** "What was said — 'I do not tell [the Maruts?] of the one who kills, nor of the one who curses' — the reason for it is now given. *Duruktāya na spṛhayet*: one should not desire an evil word; rather one should fear evil speech. The whole remaining part of the mantra is the example. *Cit* is in the sense of comparison. As between two persons playing at dice, the man [fears] the other who holds four dice (*caturaḥ*) — four cowries — in his hand, *ā nidhātoḥ*, until the fall of the cowries — [thinking] 'will victory be mine or not?' the other feels fear. Here, as there is fear, so one should fear evil speech: this is the secret of right conduct. Therefore the sense is: 'I do not tell of the one who kills, nor of the one who curses.' The Nirukta here: '*caturo 'kṣān smārayeta*'; 'as one would fear a gambler, so one should fear evil speech and not desire an evil word' (Ni. 3-16 [?]). *Caturaḥ*: by *catuḥ śasi* [Pā. 6-1-167 [?]] the syllable before the ending is acute. *Dadamānāt*: root *dada dāne*; here it means holding; the *śap* being *pit* is unaccented; the *śānac*, unaccented by the rule on the *la*-substitute after a root with an acute, so only the root accent remains. *Bibhīyāt*: root *ñibhī bhaye*; *śap* → *ślu* of the *juhotyādi* class; *yāsuṭ* acute; no *nighāta* since it begins a *pāda*. *Nidhātoḥ*: from *dhā* with *ni*, the suffix *tun* in the abstract sense [Uṇ. 1-69 [?]]; first-syllable acute by *vyatyaya*; the *gati* accent by *tādau ca* does not come, since *tāv* is excluded. *Duruktāya*: dative by *sampradāne* [Pā. 2-3-13] after *spṛhe īpsitaḥ*. *Spṛhayet*: root *spṛha īpsāyām*, of the *curādi* class, ending in *a*; since the lost *a* counts as present, no *guṇa* of the light penultimate."
+
+**Pratipadārtha** *(p. 432)* — "**duruktāya** — for reviling others; **na spṛhayet** — one should not desire; **caturaḥ** — four cowries (or dice); **dadamānāt** — from the man who holds them in his hand; **ā nidhātoḥ cit** — as [the gambler] fears (about the defeat for himself) until the [cowries] fall down; **bibhīyāt** — one should fear."
+
+**Bhāvārtha** *(p. 432)* — "One should not desire to speak ill of others; for many harms arise from it. As the gamester fears, while the opponent still holds the dice or cowries in his hand and until they fall to the ground, whether defeat will come to him, so one who speaks ill of others should likewise fear what trouble will come to him."
+
+**English Translation (the source's own, p. 432)** — "A man should be afraid to speak evil of any one as a gamester fears his opponent holding the four dice in his hand until they are thrown." *(The source's heading reads "English Translaion" — a printed misprint [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 433**
+- **Main intention** — "The point made in the previous ṛk, that we do not speak ill of the enemy of the sacrificer, is explained here. The main intention is: we shall not speak ill words about anyone, nor desire to speak them; if we speak evil we must be afraid of it. When two are playing dice, one person fears, in his mind, where the disaster that will turn against himself will fall, so long as the four dice (or cowries) are in the hand of the opponent, till they fall below; so must we be afraid in our minds of the matter of evil speech. Therefore we should not wish to speak evil words about that."
+- **caturaḥ** = *catuḥsaṃkhyākān kapardān* — "four cowries; or dice, as one wishes to say. In the ṛk only the word *caturaḥ* — 'four' — occurs; the word 'cowries' or 'dice' is to be supplied. In this matter Yāska says:
+  **चतुरोऽक्षान् धारयते इति तद्यथा कितवाद्बिभीयादेवमेव दुरुक्ताद्बिभीयान्न दुरुक्ताय स्पृहयेत्कदाचित्** (Ni. 3-[?]-[?], as read) — *caturo 'kṣān dhārayate iti | tad yathā kitavād bibhīyād evam eva duruktād bibhīyān na duruktāya spṛhayet kadācit* — mine and tentative: 'he holds four dice; as one would fear the gambler, so one should fear evil speech and never desire it'. That is: a man playing dice, with the four dice in the hand of his opponent, fears where the unfavourable throw will fall; so we should never wish to speak evil of others." *(The print gives the Nirukta in a form slightly different from the bhāṣya's quotation [*smārayeta* against *dhārayate*]; I give both as printed.)*
+- **caturaḥ** — "four; here four means four cowries or dice."
+- **cit** — "the word *cit* here must be taken in the sense of *iva* [as], a particle of comparison."
+- **dadamānāt** — "*dada dāne*; here the sense of holding; *hasto dhārayataḥ puruṣāt*: from the man who holds the dice in his hand."
+- **ā nidhātoḥ** — "until [they] are thrown down, until they fall."
+
+**Vyākaraṇa-prakriyā** *(pp. 433–434 — grammar pages, noted briefly)*
+- **caturaḥ**: *cati yācane*; *catir uran* — चतेरुरन् — [Uṇ. 5-[?] as read [?]]: the suffix *uran* after the root *cati*; it is *nit*, so the final syllable would be acute; but *catura śasi* — चतुरः शसि — [Pā. 6-1-167 as read [?]]: when *śas* follows, the last letter of the word *catur* is acute [by the pre-ending rule], so the *u* is acute.
+- **dadamānāt**: *dada dāne*, first class, *ātmanepada*; for *laṭ*, *laṭaḥ śatṛśānacau…* gives *śānac*; *śap*; *dad + a + āna*; *āner muk* — आनेर्मुक् — [Pā. 7-2-82 as read]: the augment *muk*; because *śap* is *pit* it is unaccented; *tāsyanudāttet…* makes the *śānac* unaccented; the root accent stands; ablative singular.
+- **bibhīyāt**: root *ñibhī bhaye*; *vidhiliṅ*, *śap* → *ślu*; doubling, shortening, *jaś*; *yāsuṭparasmaipadeṣūdātto ṅicca* [Pā. 3-4-103 as read] gives the acute augment *yāsuṭ*; *suṭ*; *liṅaḥ sa-lopo 'nantyasya* [Pā. 7-2-79 as read] the loss of both *s*; since it begins a *pāda* it is not wholly unaccented.
+- **nidhātoḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ* with *ni*; *sitanigamimasisacyavidhāñkuśibhyas tun* — सितनिगमिमसिसच्यविधाञ्कुशिभ्यस्तुन् — [Uṇ. 1-69 as read [?]]: the suffix *tun* after the root; *titutratatha…* [Pā. 7-2-9 as read] prohibits *iṭ*; *tādau ca niti kṛtyatau* — तादौ च नि ति कृत्यतौ — [Pā. 6-2-50 as read]: a *gati* before a *kṛt* suffix beginning with *t* [non-*tun* etc.] keeps its own accent; but since *tu* is excluded (*atau*), the *gati* does not keep it; *gatikārakopapadāt kṛt* would then give the accent of the latter member; by *vyatyayo bahulam* it becomes first-syllable acute.
+- **duruktāya**: *spṛher īpsitaḥ* — स्पृहेरीप्सितः — [Pā. 1-4-36 as read]: when the root *spṛh* is used, that which is desired gets the *sampradāna* name; *caturthī sampradāne* [Pā. 2-3-13] the fourth case.
+- **spṛhayet**: *spṛha īpsāyām*, *curādi*, ending in *a*; *satyāpapāśa…* — सत्यापपाशरूपवीणातूलश्लोकसेनालोमत्वचवर्मवर्णचूर्णचुरादिभ्यो णिच् — [Pā. 3-1-25 as read]: *ṇic*; *āto lopa…*; *aco ñṇiti*: the loss of *a* with *sthānivad bhāva* so no *guṇa*; *liṅ*, *tip*; the loss of *i*; *śap*; *yāsuṭ*, *suṭ*; the loss of both *s*; *spṛhi + a + yā + t*; *guṇa*, *ay*-substitution: *spṛhaya + yāt*; *ato yeyaḥ* gives *iya* for *yā*: *spṛhaya + iya + t*; *ād guṇaḥ*; *lopo vyor vali*: the *y* is lost: *spṛhayet*. Rik 9 ends here (*|| 9 ||*).
+
+---
+
+**Close of Sūkta 41.** Printed on p. 434 after the grammar: "*illige 41neya sūkta mugidudu*" — "Here the 41st sūkta has ended." *(Numeral read as "41".)* With it the Sixth Sūkta of the Eighth Anuvāka (printed pp. 410–434) ends. The next leaf, **p. 435 = PDF 449**, carries the title "*nalavattaraḍaneya sūktavu*" ("the forty-second sūkta"), the Sanskrit introduction and Kannada anuvāda of **Sūkta 42** (*saṃ pūṣan*, ten Riks, Kaṇva Ghaura, Pūṣan, Gāyatrī — to be recited when setting out on a journey) and its heading; these are **not yet written** and belong to the next session. *(The contents table in this file's header gave p. 433 for Sūkta 42; the print shows p. 435. The table's numerals were read at low resolution and are superseded.)*
+
+**Summary of Sūkta 41 (my note).** Nine Riks to Varuṇa, Mitra and Aryaman (Riks 1–3, 7–9) and the Ādityas (Riks 4–6). Rik 1: the man they protect defeats his enemies. Rik 2: he is filled with riches and prospers unhurt. Rik 3: they destroy the enemies' strongholds, then the enemies, then the sacrificer's sins. Rik 4: the Ādityas' road to the sacrifice is smooth and free of thorns, and no unworthy oblation is prepared. Rik 5: may the sacrifice they lead by the straight way reach them. Rik 6: the man they favour gains wealth and offspring. Rik 7: how shall the priests praise the glory of the three? Rik 8: the poet will not complain about his enemies but will serve the gods with wealth. Rik 9: one should fear evil speech as a gambler fears the opponent holding the dice. All nine Riks are written in full; the heavily crowded grammar passages are characterized only.
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–41 COMPLETE (printed pp. 1–434 = PDF 15–448; Sūkta 41 occupies pp. 410–434 and ends with a printed closing note on p. 434).**
+
+**Next task:** Sūkta 42 (*saṃ pūṣan*, Anuvāka 8, the seventh sūkta of the anuvāka, 10 Riks, ṛṣi Kaṇva Ghaura, deity Pūṣan, Gāyatrī; to be recited on setting out on a journey), starting at the top of printed p. 435 = PDF 449 (title line "*nalavattaraḍaneya sūktavu*", Sanskrit introduction, Kannada anuvāda and the start of the heading; not yet written) — a clean boundary. Rik 1 follows on p. 436 (PDF 450). The old contents table (p. 433 for Sūkta 42) is superseded: the print shows p. 435. The contents table gives Sūkta 43 (*kad rudrāya*) at p. 465; read the actual boundary. One session per sūkta; read the last ~40 lines of this file first. Rendered pages may be lost; re-render with `pdftoppm -jpeg -r 150 -f 449 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; they will pick up from here.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 40's list is in the commit "Vol 4: Sūkta 40 complete"). Sūkta 41: (1) heading varga numerals and the Rik numerals of the deity line small, read with doubt; (2) every Pāṇini / Uṇādi / Nirukta / Phiṭ reference numeral is "as read [?]"; (3) Rik 1: "*darbh+ya+te*" for *dabhyate* as printed; (4) Rik 2: the root *pyā*/*pṛ* discussion characterized only; (5) Rik 3: grammatical tail on *durgā* crowded; (6) Rik 4: stray *a* before *nāsti*, the rule-name for *ksaran*, the Nirukta reference and the *indriya-pralaya-mūrti-bhāva* clause doubtful; (7) Rik 5: *nayathā*/*nayatha*; *dhītaye* paribhāṣā and the root-name of *naśat* crowded; (8) Rik 6: the *tokam* name-count and the grammar on *ratnam* (Phiṭ. rule) and *astṛtaḥ* crowded [?]; (9) Rik 7: the statement quoted for *sakhāyaḥ* ("*ṛtvijo vā asya sakhāyaḥ*", from a Yajurveda saṃhitā) is read with doubt; the *alopo 'naḥ* argument (pp. 427–428) is characterized only; (10) Rik 8: the stretch before *bruvo vaciḥ* in the bhāṣya's tail is crowded; (11) Rik 9: the Nirukta text quoted in the Special Topics (*dhārayate*) differs from the bhāṣya's quotation (*smārayeta*) — both are given as printed; the source's English heading "English Translaion" is a misprint [sic]; (12) the contents-table page for Sūkta 42 was wrong (433 → 435).
