@@ -3015,8 +3015,69 @@
 
 ---
 
+**Rik 51.3, continued** *(from p. 160, PDF 176)*
+
+**Sāyaṇa-bhāṣya, grammatical tail** *(pp. 160 — characterized, not transcribed)* — the print continues with the grammar of the words of the Rik, in the order: *śatadureṣu* (explained as "*śataṃ durā dvārāṇy eṣām*", the doors being *dvṛ*-derived, with a Vedic *saṃprasāraṇa* and *pararūpa*, and with *uraṇ raparaḥ* — Pā. 1-1-51 as read [?]); *gātuvit* (*gāñ gatau*, a *tu*-suffix by an Uṇādi sūtra, 1-71 or 1-73 as read [?]; *vid* "to obtain" with *kvip*; the accent by *kṛdut­tarapada­prakṛtisvaratva*); *sasena* (*sasam* is a name of food — the Naighaṇṭuka reads *sasaṃ namaḥ āyuḥ*, as the print says "since it is read among those names"); *ājau* (*ājiḥ* is a name of battle, *ahava ājau*, Ni. 2-… [?]); *adriṃ* (*atti bhakṣayati vairiṇam iti adrir vajraḥ* — "the thunderbolt, which eats the enemy"; the suffix *krin* by *ādiśadibhūśubhibhyaḥ krin*, Uṇ. 4-… [?]; Yāska's own explanation "*adrir ādṛṇāty anenāpi vā attes syāt*", Ni. 4-4 as read [?]); *vavasānasya* (*vasa nivāse*, *śānac* in the agent sense; *śap* elided by *bahulaṃ chandasi*, reduplication, final-acute by the *cit* rule). The Pada of the bhāṣya's own words is as in the Pratipadārtha and Special Topics below; a grammar page, noted briefly. (Kannada-script numerals as read, [?].)
+
+**Pratipadārtha** *(p. 160)* — "**indra** — O Indra; **tvam** — you; **gotram** — (stopping the rain, the cloud) that makes a sound; **aṅgirobhyaḥ** — for the Aṅgirasas (who are sages); **apa āvṛṇoḥ** — (with the thunderbolt) you uncovered (you released the rain). [Or: **gotram** — the herd of cows hidden in caves, carried off by the Paṇis; **aṅgirobhyaḥ** — for the Aṅgirasa sages; **apa āvṛṇoḥ** — you opened the doors of the caves and let them out.] **uta** — and; **śatadureṣu** — (for the destruction of enemies) in a hundred doors; **atraye** — for the great sage Atri; **gātuvit** — you were the finder of the way; **vimadāya cit** — also for the great sage named Vimada; **sasena** — together with food; **vasu** — wealth; **āvahaḥ** — you brought it (likewise); **ājau** — in battle; **vavasānasya** — (who is eager for self-protection) to the praiser who exerts himself (for his help); **adrim** — the thunderbolt; **nartayan** — wielding (you protected him also)."
+
+**Bhāvārtha** *(p. 160)* — "O Indra, you, for the Aṅgirasa sages, broke the cloud and made it rain. For the great sage Atri, who was tormented in machines of a hundred doors, you became the guide of the way. To the great sage named Vimada you granted wealth together with food. In battle you also protect the praiser who is exerting himself for his own protection, wielding the thunderbolt in his help."
+
+**English Translation (the source's own, p. 161)** — "You have opened the cloud for the Angirasas, you have shown the way to Atri who vexes his adversaries by a hundred devices ; you have granted wealth with food to Vimada; you are wielding your thunderbolt in defence of a worshipper engaged in battle." *(Printed "Vimada" as small capitals; "Angirasas" without diacritics — reproduced as printed.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 161–162**
+- **aṅgirobhyaḥ** — "For a detailed account of the Aṅgirasa sages see what we have written in Ṛ. Saṃ. Part 3, pp. 520–522."
+- **atraye** — "For the great sage Atri. The sage Atri is the original ancestor of the well-known Atri line. This Atri sage and his descendants are the ṛṣis of the hymns of the fifth Maṇḍala of the Ṛgveda. It is seen that among the people of the Atri line, Priyamedha, Kaṇva, Gotama and Kakṣīvat were closely connected with them. In Ṛ. Saṃ. Maṇḍala 5 and 1-… [?] (as read) the rivers Paruṣṇī and Yamunā are mentioned; from this it may be guessed that the Atri people were settled in those regions."
+- **gotram** — "*avyaktaśabdavantaṃ vṛṣṭyudakasyāvarakaṃ megham | yadvā gotraṃ gosamūhaṃ paṇibhir apahṛtam*": "the cloud that makes an indistinct sound and covers the water of the rain. Or the herd of cows carried off by the Paṇis." "The word *gotra* is formed from the root *guj avyakte śabde* (to sound indistinctly) of the Uṇādi group, and gives the sense 'the cloud, which sounds indistinctly and is the support of rain'. Or, with the word *go* and the sūtra *inatrakaṭyaś ca* (Pā. 4-2-39 as read [?]), the suffix *tra* in the sense of 'collection' gives 'a herd of cows'."
+- **śatadureṣu** — **untranslated in the source:**
+
+  > **शतद्वारेषु यंत्रेष्वसुरैः पीडार्थं प्रक्षिप्ताय । शतं दुरा द्वाराण्येषाम् ॥**
+
+  *śatadvāreṣu yaṃtreṣv asuraiḥ pīḍārthaṃ prakṣiptāya | śataṃ durā dvārāṇy eṣām ||* — the source adds, in Kannada: "a special machine (*yantra*) with doors (holes) of many kinds; a weapon used for torturing Rākṣasas." (Mine and tentative gloss of the Sanskrit: "to one thrown, in order to torment him, by the Asuras into machines with a hundred doors; 'a hundred doors are theirs'.")
+- **sasena** — "*annena yuktaṃ*: joined with food. '*sasaṃ namaḥ āyuḥ*' (Ni. 3-… [?]): in the sense of food the word *sasa* is read."
+- **adrim** — "*vajraṃ* — *atti bhakṣayati vairiṇam iti adrir vajraḥ*; the word *adri* is here explained as pertaining to the thunderbolt, in the sense of 'the destroyer of enemies'. Yāska gives this explanation of the word *adri* in the Nirukta: '*adrir ādṛṇāty anenāpi vā attes syāt | te somād iti ha vijñāyate*' — that is, the thunderbolt eats the very essence of the mountain (*adri*). Or it is the *abhiṣavaṇagrāvā*, the pressing-stone of the soma-pressing: 'one that has an *adri*' is *adrivān*; the stone that crushes or grinds the soma is also called *adri*." (Ni. 4-4 as read [?])
+
+  > **अद्रिरादृणात्येनेनापि वात्तेः स्यात् । ते सोमादित इति ह विज्ञायते ॥**
+
+  *adrir ādṛṇāty anenāpi vā atteḥ syāt | te somād iti ha vijñāyate ||* — mine and tentative: "*adri* may be from *ā-dṛ* 'to split' (the mountain, with it), or from *ad* 'to eat'; 'it is known that they (are eaten) by soma' [?]." *(The second sentence is a crowded print; reading uncertain, [?].)*
+- **vavasānasya** — "To the root *vasa nivāse* the suffix *cānaś* in the agent-habitual sense (the 'dwelling in', i.e. 'who is dwelling') is attached; the meaning 'one who is making an abode' is obtained here." *(The print has the word "ವಾಸಮಾಡುತ್ತಲಿರುವ" "living".)*
+- **vimadāya** — "Vimada is a ṛṣi. This ṛṣi is the seer of … Riks in Sūktas 10-20 to 26 (as read [?]) of the eighth [sic: "ಹತ್ತನೆಯ", read 'tenth'? print reads 'ಹತ್ತನೆಯ'] Maṇḍala of the Ṛgveda. The ṛṣi Vimada and his line are referred to in Ṛ. Saṃ. 10-20-10 (as read [?]); 10-35-2 [?]; Atharvaveda 4-29-4 [?]; and the name of Vimada is also found in the mantras of the Aitareya Brāhmaṇa 5-35-1 [?]." *(All numerals in this item are small Kannada digits, uncertain; the 'eighth/tenth' reading is not certain.)*
+
+**Vyākaraṇa-prakriyā** *(pp. 162–163 — grammar pages, noted briefly)*
+- **gotram**: *guj avyakte śabde*, *bhvādi*; Uṇādi suffix *tra*, *guṇa*: *gotra*; or, from *go* (continued from *khalagorathāt*) with *inatrakaṭyaś ca* (Pā. 4-2-39 as read [?]) the suffix *tra* in the sense "collection" (*tasya samūhaḥ*).
+- **śatadureṣu**: *dvṛ saṃvaraṇe*; *ka* by *ghañarthe kavidhānam*; Vedic *saṃprasāraṇa*, *saṃprasāraṇāc ca*, *antādivac ca* (Pā. 6-1-85 as read [?]) and *uraṇ raparaḥ* (Pā. 1-1-51) give *dur*; locative plural *śatadureṣu*; or *saṃprasāraṇa* of *dvāra* itself.
+- **gātuvit**: two roots — *gāñ gatau* with *kamimanijanigābhāpāyāhibhyaś ca* (Uṇ. 1-… as read [?]) the suffix *tu*: *gātu*; *vid lābhe* (the causative sense implied), *kvip* with a subanta upapada; *gatikārakopapadāt kṛt* gives the accent of the final member.
+- **sasena**: *sasa* is a name of food (*sasaṃ namaḥ āyuḥ*, Ni. as read [?]); instrumental singular.
+- **ājau**: *ājiḥ*, battle; *ahave ājau* (Ni. [?]); locative singular.
+- **adrim**: *ad bhakṣaṇe* with *ādiśadibhūśubhibhyaḥ krin* (Uṇ. 4-… as read [?]); the *r* of *krin* alone remains; accusative; initial acute because the suffix has a mute *n* (*ñnityādir nityam*, Pā. 6-1-197 as read [?]). Yāska's explanation as above.
+- **vavasānasya**: *vasa nivāse*, *bhvādi*; *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129 as read [?]); *śap* with *vikaraṇa* (*śit*), elided as *śluḥ* by *bahulaṃ chandasi*; reduplication by *ślau*; *halādiḥ śeṣaḥ*; genitive singular; final-acute because *cānaś* has a mute *c* (*citaḥ*). **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: printed p. 159 (PDF 175) reached; introduction, heading and Riks 51.1–51.2 complete; Rik 51.3's Saṃhitā, Pada and the first part of the bhāṣya (up to the sense of *vāvasānasya … nartayan*) are written; the grammatical tail on p. 160 and the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (pp. 160–) are NOT yet written.**
+### Rik 51.4 (pp. 163–, PDF 179–)
 
-**Next task:** continue at printed p. 160 (PDF 176) with the tail of the bhāṣya of Rik 51.3 ("gotram … " etc.), then the rest of Rik 3, Riks 4–15 and the close of Sūkta 51 (15 Riks; the contents table puts Sūkta 52 at printed p. 212 — check the print). **User instruction this session: translate Sūktas 51–54 (51 now; then 52 from p. 212, 53 from p. 264, 54 from p. 303 per the contents table); keep going until Sūkta 54 ends unless told otherwise; the scheduled routines are PAUSED.** To save effort the grammatical tails of the bhāṣya and the Vyākaraṇa-prakriyā pages are now characterized (2–4 lines naming words and sūtras), per CLAUDE.md; Rik texts, the bhāṣya's main sense, Pratipadārtha, Bhāvārtha, English and Special Topics keep full treatment. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 163–300) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 176 -l 300 Rig_Vol5.pdf /tmp/x/w` (zero-padded). Flags so far: 51.1's legend in Sāyaṇa's introduction ("āśrehisamācakṣase", "matsyālyaḥ") unreadable, sense taken from the anuvāda; ṛṣi Savya Āṅgirasa; 51.2's Pada/Saṃhitā join "avanvan su-abhiṣṭim" doubtful; Kāśikā/Ṛgveda/Aitareya numerals "as read [?]"; the source's English in 51.2 has "vaice" and "Marnts" [sic].
+**Saṃhitā-pāṭha** *(p. 163; accents are printed in this Rik, not reproduced)*
+
+> **त्वमपामपिधानावृणोरपाधारयः पर्वते दानुमद्वसु ।**
+> **वृत्रं यदिन्द्र शवसावधीरहिमादित्सूर्यं दिव्यारोहयो दृशे ॥ ४ ॥**
+
+*tvam apām apidhānāvṛṇor apādhārayaḥ parvate dānumad vasu |*
+*vṛtraṃ yad indra śavasāvadhīr ahim ād it sūryaṃ divy ārohayo dṛśe || 4 ||*
+
+**Pada-pāṭha** *(p. 163)*
+
+> त्वम् । अपाम् । अपिऽधाना । अवृणोः । अप । अधारयः । पर्वते । दानुऽमत् । वसु ।
+> वृत्रम् । यत् । इन्द्र । शवसा । अवधीः । अहिम् । आत् । इत् । सूर्यम् । दिवि । आ । अरोहयः । दृशे ॥ ४ ॥
+
+*tvam | apām | api-dhānā | avṛṇoḥ | apa | adhārayaḥ | parvate | dānu-mat | vasu |*
+*vṛtram | yat | indra | śavasā | avadhīḥ | ahim | āt | it | sūryam | divi | ā | arohayaḥ | dṛśe || 4 ||*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.3 complete; Rik 51.4's Saṃhitā and Pada (printed p. 163, PDF 179) written; its bhāṣya begins on p. 164 (PDF 180).**
+
+**Next task:** continue at printed p. 164 (PDF 180) with the bhāṣya of Rik 51.4, then Riks 5–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable (sense from the anuvāda); 51.2 Pada join "avanvan su-abhiṣṭim" doubtful; 51.3 Vimada references and Uṇādi/Pāṇini numerals [?]; source's English in 51.2 has "vaice" and "Marnts" [sic].
