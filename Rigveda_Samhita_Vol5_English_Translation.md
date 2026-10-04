@@ -1437,8 +1437,110 @@
 
 ---
 
+**Rik 48.13, continued** *(from p. 77)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 77**
+- **ruśantaḥ** — "*śatrūn hiṃsantaḥ bhadrāḥ kalyāṇāḥ*: those that injure enemies, or auspicious ones; root *ruśa riśa hiṃsāyām*" *(the source adds in English: "dazzling to the eyes, auspicious, refreshing &c.")*.
+- **arcayaḥ** — "since the word *arciḥ* is read among the twelve [?] names of flames beginning *jamat, kalpalīkinam* (Ni. 2-2[?]8 as read), *arcayaḥ* means shining rays."
+- **viśvavāram** — "*viśvair varaṇīyam*: desired by all, wanted by all" *(in English: "desirable by all")*. "Since this word has been used by many sages on many occasions, it appears to be of special use. We give one or two examples" — eight Ṛgveda citations in the print, **untranslated in the source**; I give each in three layers, my gloss *mine and tentative*, every reference numeral "as read [?]":
+
+  1. > **अस्मे रयिं विश्ववारं समिन्वास्मे विश्वानि द्रविणानि धेहि ॥** *(Ṛ. Saṃ. 3-4-2 as read [?])*
+
+     *asme rayiṃ viśvavāraṃ sam inva asme viśvāni draviṇāni dhehi ||* — mine and tentative: "bring together for us wealth desirable to all; put in us all riches."
+  2. > **आर्वाग्रथं विश्ववारं त उग्रेन्द्र युक्तासो हरयो वहन्तु ॥** *(Ṛ. Saṃ. 6-37-1 as read [?])*
+
+     *ārvāgratham viśvavāraṃ ta ugrendra yuktāso harayo vahantu ||* — mine and tentative: "may your yoked bay horses, O mighty Indra, bring hither your chariot that all desire."
+  3. > **प्र वायुमच्छा बृहती मनीषा बृहद्रयिं विश्ववारं रथप्राम् ॥** *(Ṛ. Saṃ. 6-49-4 as read [?])*
+
+     *pra vāyum acchā bṛhatī manīṣā bṛhad rayiṃ viśvavāraṃ rathaprām ||* — mine and tentative: "may great prayer go forth to Vāyu, to the great wealth desired by all, the chariot-filler."
+  4. > **द्यौश्च यं पृथिवी बावृधाते आ यं होता यजति विश्ववारम् ॥** *(Ṛ. Saṃ. 7-7-5 as read [?])*
+
+     *dyauś ca yaṃ pṛthivī bāvṛdhāte ā yaṃ hotā yajati viśvavāram ||* — mine and tentative: "whom heaven and earth have caused to grow, whom the *hotṛ* worships, desired by all."
+  5. > **आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारम् ॥** *(Ṛ. Saṃ. 7-10-4 as read [?])*
+
+     *ādityebhir aditiṃ viśvajanyāṃ bṛhaspatim ṛkvabhir viśvavāram ||* — mine and tentative: "with the Ādityas, Aditi who is kind to all; Bṛhaspati, with the praisers, desired by all."
+  6. > **अस्मे इन्द्रावरुणा विश्ववारं रयिं धत्तं वसुमन्तं पुरुक्षुम् ॥** *(Ṛ. Saṃ. 7-84-4 as read [?])*
+
+     *asme indrāvaruṇā viśvavāraṃ rayiṃ dhattaṃ vasumantaṃ purukṣum ||* — mine and tentative: "O Indra and Varuṇa, place in us wealth desired by all, rich in good things, abounding in food."
+  7. > **रयिं देहि विश्ववारम् ॥** *(Ṛ. Saṃ. 8-71-3 as read [?])*
+
+     *rayiṃ dehi viśvavāram ||* — mine and tentative: "give wealth desired by all."
+  8. > **त्वामु जातवेदसं विश्ववारं गृहे धियो ॥** *(Ṛ. Saṃ. 10-150-3 as read [?])*
+
+     *tvām u jātavedasaṃ viśvavāraṃ gṛhe dhiyo ||* — mine and tentative: "you, O Jātavedas, desired by all, in the house [we seat?] our prayers" — the sentence is cut off in the print and the sense is doubtful [?].
+
+  followed by "*ityādi*", "and so on".
+- **supeśasam** — "*peśa* is a name for form; *śobhanarūpopetam*: of fine form, one with a good form."
+- **sugmyam** — "*suṣṭhu gantavyam*: well to be gone to. Or, *sugmyam* is a name for happiness. Since the word *sugmyam* is read among the twenty-eight [?] names of happiness beginning *śiṃbātā, śakarā* [as printed, crowded, [?]] (Ni. 3-1[?]3 as read), *sugmyam* means happiness. The ṛṣi's idea is that the goddess Uṣas give us the wealth that all desire, and happiness as well."
+
+**Vyākaraṇa-prakriyā** *(pp. 78–79 — grammar pages, noted briefly)*
+- **ruśantaḥ**: root *ruśa riśa hiṃsāyām*, *tudādi*; *śatṛ* in the place of *laṭ*; *ruś + at*; the *tudādi* *vikaraṇa* *śa*; *ato guṇe* gives *pararūpa* for the *a* of *śa* and the *a* of *śatṛ*; *ruśat*, a stem ending in *t*; because *śatṛ* is *ugit*, the first-case plural *jas*, having the name *sarvanāmasthāna*, gets *num* by *ugidacām sarvanāmasthāne 'dhātoḥ*; the nasal becomes *anusvāra* and homogeneous nasal; the *s* gets *ru* and *visarga*: *ruśantaḥ*. Here *śatṛ*, being *lasārvadhātuka*, is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*, and the accent of the *vikaraṇa* (initial acute) would be the strong one; but by *vyatyayo bahulam* (Pā. 3-1-85 as read) the root-accent is strong here; it is initial-acute, so the *u* after *r* is acute: *ruśantaḥ* is initial-acute.
+- **adṛkṣata**: root *dṛśir prekṣaṇe*, *bhvādi*; passive *luṅ*, third person plural *jha*; *dṛś + jha*; *ātmanepadeṣv ana…* (*ātmanepadeṣv anataḥ*, Pā. 7-1-5 as read) gives *at* for *jha* after a non-*a* stem; the *cli* of *luṅ* → *sic* (*cleḥ sic*); *kṣa* would be the substitute (*śalo 'ig upadhād dhaletaḥ kṣaḥ*, Pā. 3-1-45 as read), but *na dṛśaḥ* (Pā. 3-1-47 as read) forbids it; *dṛś + s + ata*; *sic* being *ārdhadhātuka*, *iṭ* would be obtained, but *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10 as read) forbids *iṭ* after a one-vowel, unaccented-in-the-list root; *liṅsicāv ātmanepadeṣu* (Pā. 1-2-11 as read) makes *liṅ* and *sic* *kit* when an *ātmanepada* follows, when the root ends in a consonant after a vowel *ik*; here *sic* is *kit* (the *ś* of the root precedes, and the *ātmanepada* follows), so no *guṇa* of the light penultimate; *kṅiti ca* does the forbidding; likewise *sṛjidṛśor jhaly akiti* (Pā. 6-1-58 as read) — *am*-augment for these two roots before a *jhal*-initial non-*kit* suffix — does not come, since *sic* is *kit*; *vraścabhrasja…* gives *ṣ* for *ś*; *ṣaḍhoḥ kaḥ si* gives *k* before *s*; *ādeśapratyayayoḥ* gives *ṣ* for the *s*: the cluster *kṣ*; the *aṭ* augment, which is the cause of *luṅ*, comes to the root; since the augment is acute by the sūtra that enjoins it, the *a* at the start is acute: *adṛkṣata* is initial-acute; because *yasyāḥ* (with *yat*) is in connexion, *tiṅ atiṅaḥ* gives no all-unaccented.
+- **viśvavāram**: "*viśvaṃ vṛṇoti*", that which covers the world; root *vṛñ varaṇe*; *karmaṇy aṇ* (Pā. 3-2-1 as read) gives *aṇ* when an object is *upapada*; *vṛ + a*, *ñit/ṇit*, so *aco ñṇiti* (Pā. 7-2-115 as read) gives *vṛddhi* in place of the *ṛ*, with *r*: *vāra*; or "*viśvair vriyate*", what is desired by the world, *ghañ* in the passive; as the *ghañ* is *ñit*, *vṛddhi* as before. The word is read in the *marudvṛdhādi* list, where end-acute is enjoined for the first member; so the last *a* of *viśva* is acute here; *viśvavāram* is a word with the acute on the second syllable [as the Kannada says, "*dvitīyāc*-udātta"].
+- **sugmyam**: "*suṣṭhu gantavyaḥ sugmaḥ*", well attainable (happiness); root *gamḷ gatau*, *bhvādi*; *ghañarthe kavidhānam* (vārttika on Pā. 3-3-58, as read "3-3-58 vā" [?]) gives the suffix *ka* in the sense of *ghañ*; *su + gam + a*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* (Pā. 6-4-98 as read) drops the penultimate of *gam* etc. before a *kit* or *ṅit* suffix other than *aṅ*; here the suffix is *kit* and vowel-initial, so the *a* of *gam* drops: *sugma*; "*sugme bhavam*", belonging to *sugma*: *bhave chandasi* (Pā. 4-4-110 as read) gives *yat* after a locative; *yasyeti ca* (Pā. 6-4-148 as read) drops the *a* of *sugma* before *yat*; *yato 'nāvaḥ* (Pā. 6-1-213 as read) gives the initial acute to a *yat*-ending word of two vowels (other than *nau*); *sugmyam* is initial-acute; the unaccented final after an acute becomes *svarita*. **|| 13 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 76 (PDF 92) reached; introduction, heading and Riks 48.1–48.12 complete; Rik 48.13's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English are written; its Special Topics and grammar begin on p. 77 and are NOT yet written.**
+### Rik 48.14 (pp. 79–, PDF 95–)
 
-**Next task:** continue at printed p. 77 (PDF 93): insert "**Rik 48.13, continued** *(from p. 77)*" with the Special Topics and grammar of Rik 13; then Riks 14–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 93 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-093.jpg`). Flags for 48.11–13: the long grammar passages on *karman*/*akathitaṃ ca* and on *adhvarān* sandhi outlined only; in 48.12's tail the print reads "āśvāvat" [?]; numerals "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 79; accents not reproduced)*
+
+> **ये चिद्धि त्वामृषयः पूर्व ऊतये जुहूरेऽवसे महि ।**
+> **सा नः स्तोमाँ अभि गृणीहि राधसोषः शुक्रेण शोचिषा ॥ १४ ॥**
+
+*ye cid dhi tvām ṛṣayaḥ pūrva ūtaye juhūre 'vase mahi |*
+*sā naḥ stomām̐ abhi gṛṇīhi rādhasoṣaḥ śukreṇa śociṣā || 14 ||*
+
+**Pada-pāṭha** *(p. 80)*
+
+> ये । चित् । हि । त्वाम् । ऋषयः । पूर्वे । ऊतये ।
+> जुहूरे । अवसे । महि ।
+> सा । नः । स्तोमान् । अभि । गृणीहि । राधसा । उषः ।
+> शुक्रेण । शोचिषा ॥ १४ ॥
+
+*ye | cit | hi | tvām | ṛṣayaḥ | pūrve | ūtaye |*
+*juhūre | avase | mahi |*
+*sā | naḥ | stomān | abhi | gṛṇīhi | rādhasā | uṣaḥ |*
+*śukreṇa | śociṣā || 14 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 80)*
+
+> **हे महि महते पूजनीये वोषोदेवते त्वां ये चिद्धि ये खलु प्रसिद्धाः पूर्वे चिरंतना ऋषयो मन्त्रद्रष्टार ऊतये रक्षणाय । अव इत्यन्ननाम । अवसेऽन्नाय च जुहूरे जुह्विरे आहूतवन्तः । सूक्तरूपैर्मन्त्रैः स्तुतवन्त इत्यर्थः । हे उषः सा तादृशी त्वं राधसास्माभिर्दत्तेन हविर्लक्षणेन धनेन शुक्रेण शोचिषा दीप्तेन तमो निवारयितुं समर्थेन तेजसा चोपलक्षिता सती तेषामृषीणामिव नोऽस्माकं स्तोमानभि स्तुतीरभिलक्ष्य गृणीहि । सम्यक् स्तुतमिति शब्दय । अस्मदीयाभिः स्तुतिभिः संतुष्टा भवेत्यर्थः ॥ ऊतये । अवतेः क्तिनि ज्वरत्वरेत्यादिना वकारस्योपधायाश्च ऊठ् । ऊतियूतीत्यादिना क्तिन उदात्तो निपातितः । जुहूरे । ह्वेञ् स्पर्धायां शब्दे च । लिट्यभ्यस्तस्य चेति द्विर्वचनात्पूर्वमेवाभ्यस्तकारणभूतस्य ह्वयतेः संप्रसारणं । अभ्यस्तस्य यो ह्वयतिः कश्चाभ्यस्तस्य ह्वयतिः यस्तस्य कारणम् । का. ६-१-३३ [?] । इति व्याख्यातत्वात् । परपूर्वत्वे हल इति दीर्घत्वं । द्विर्वचनादीनि । इरयो र इतीरेचो रेआदेशः । चित इत्यन्तोदात्तत्वं । यद्वृत्तयोगादनिघातः । तत्र हि पञ्चमीनिर्देशेऽपि व्यवहितेऽपि कार्यं भवतीत्युक्तं । का. ८-१-६६ [?] । मही । मह पूजायां । औणादिक इ प्रत्ययः । कृदिकारादक्तिन इति ङीष् । संबुद्धावम्बार्थेति ह्रस्वत्वं । पा. ७-३-१०७ [?] । स्तोमान् । संहितायां नकारस्य रुत्वाद्युक्तं । नित्त्वाद्युदात्तत्वं । गृणीहि । गॄ शब्दे । क्र्यादिकः । शिति प्वादीनां ह्रस्व इति ह्रस्वत्वं । राधसा । राध्नोत्यनेनेति राधः । असुनो नित्त्वाद्युदात्तत्वं । उषः पादादित्वादष्टमिकनिघाताभावे षाष्ठिकमामन्त्रिताद्युदात्तत्वं ॥ १४ [?] ॥**
+
+*he mahi mahate pūjanīye voṣodevate tvāṃ ye cid dhi ye khalu prasiddhāḥ pūrve ciraṃtanā ṛṣayo mantradraṣṭāra ūtaye rakṣaṇāya | ava ity annanāma | avase 'nnāya ca juhūre juhvire āhūtavantaḥ | sūktarūpair mantraiḥ stutavanta ity arthaḥ | he uṣaḥ sā tādṛśī tvaṃ rādhasāsmābhir dattena havirlakṣaṇena dhanena śukreṇa śociṣā dīptena tamo nivārayituṃ samarthena tejasā copalakṣitā satī teṣām ṛṣīṇām iva no 'smākaṃ stomān abhi stutīr abhilakṣya gṛṇīhi | samyak stutam iti śabdaya | asmadīyābhiḥ stutibhiḥ saṃtuṣṭā bhavety arthaḥ || ūtaye | avateḥ ktini jvaratvarety ādinā vakārasyopadhāyāś ca ūṭh | ūtiyūtī ty ādinā ktina udātto nipātitaḥ | juhūre | hveñ spardhāyāṃ śabde ca | liṭy abhyastasya ceti dvirvacanāt pūrvam evābhyastakāraṇabhūtasya hvayateḥ saṃprasāraṇaṃ | abhyastasya yo hvayatiḥ kaś cābhyastasya hvayatiḥ yas tasya kāraṇam | kā. 6-1-33 [?] | iti vyākhyātatvāt | parapūrvatve hala iti dīrghatvaṃ | dvirvacanādīni | irayo ra itīreco re ādeśaḥ | cita ity antodāttatvaṃ | yadvṛttayogād anighātaḥ | tatra hi pañcamīnirdeśe 'pi vyavahite 'pi kāryaṃ bhavatīty uktaṃ | kā. 8-1-66 [?] | mahī | maha pūjāyāṃ | auṇādika i pratyayaḥ | kṛdikārād aktina iti ṅīṣ | saṃbuddhāv ambārtheti hrasvatvaṃ | pā. 7-3-107 [?] | stomān | saṃhitāyāṃ nakārasya rutvādy uktaṃ | nittvād ādyudāttatvaṃ | gṛṇīhi | gṝ śabde | kryādikaḥ | śiti pvādīnāṃ hrasva iti hrasvatvaṃ | rādhasā | rādhnoty aneneti rādhaḥ | asuno nittvād ādyudāttatvaṃ | uṣaḥ pādādittvād aṣṭamikanighātābhāve ṣāṣṭhikam āmantritādyudāttatvaṃ || 14 [?] ||*
+
+*(The first words of the bhāṣya in the print read "he mahi mahate pūjanīye voṣodevate", where I read* uṣodevate*; the clause "vakārasyopadhāyāś ca ūṭh", the numbers after* kā.*, and the closing numeral are crowded, [?].)*
+
+**Translation:** "O *mahi*, O great, venerable goddess Uṣas: *ye cid dhi*, those well-known ancient sages, seers of mantras, *pūrve*, of old — *ūtaye*, for protection; *ava* is a name for food — *avase*, and for food, *juhūre*, called you: they praised you with mantras in the form of hymns. O Uṣas, *sā*, such as you are, *rādhasā*, with the wealth in the form of oblations given by us, and with *śukreṇa śociṣā*, bright light, with splendour able to hold off darkness, being marked, *naḥ stomān abhi gṛṇīhi*, as for those sages, so for us, hearing our praises, utter a word of approval: be pleased with our praises. *Ūtaye*: from *ava*, with *ktin*, *ūṭh* in place of the *v* and the penultimate by *jvaratvara…*; the acute of *ktin* given by *nipātana* in *ūtiyūti…*. *Juhūre*: root *hveñ spardhāyāṃ śabde ca*; in *liṭ*, the *saṃprasāraṇa* of the root *hveñ* that is the cause of the *abhyasta* comes before the doubling; … the lengthening by *hala*; *ire* (for *irec*) by *irayo re*; the end-acute by *citaḥ*; because of the *yad*-connexion no all-unaccented. *Mahī*: root *maha pūjāyām*; Uṇādi *i*; *ṅīṣ* by *kṛdikārād aktinaḥ*; the shortening in the vocative by *ambārtha*… *Stomān*: …; initial-acute because *nit*. *Gṛṇīhi*: root *gṝ śabde*, *kryādi*; the shortening by *pvādīnāṃ hrasvaḥ* when *śit* follows. *Rādhasā*: 'that by which one succeeds' is *rādhas*; initial-acute because *asun* is *nit*. *Uṣaḥ*: because it is at the head of the *pāda*, the eighth-chapter all-unaccented does not come, and the sixth-chapter initial acute of the vocative comes."
+
+**Pratipadārtha** *(pp. 80–81)* — "**mahi** — O venerable goddess Uṣas; **tvām** — you; **ye cid dhi** — which well-known; **pūrve** — ancient; **ṛṣayaḥ** — sages, seers of mantras; **ūtaye** — for protection; **avase** — and for food; **juhūre** — called (with mantras in the form of hymns); **uṣaḥ** — O goddess; **sā** — so praised, you; **rādhasā** — with the wealth in the form of oblations offered by us; **śukreṇa śociṣā** — and with bright light able to ward off darkness (as you listened to the praises of those sages); **naḥ** — to our; **stomān abhi** — accepting the hymns; **gṛṇīhi** — utter a word (that shows your delight)."
+
+**Bhāvārtha** *(p. 81)* — "O venerable goddess Uṣas, the ancient and famous sages, with divine vision and knowing the form of mantras, called you with mantras in the form of hymns, both for protection and for food. You, satisfied with their praise, favoured them. In the same way, accepting also our hymns, together with the wealth in the form of oblations that we offer and with your bright light, which is able to ward off darkness, utter a word that shows your delight."
+
+**English Translation (the source's own, p. 81)** — "Adorable Ushas, ancient sages invoked you for protection and food; you Ushas who shine with pure light, accept our offerings and commend our praises"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 81**
+- **cit** — "*cid ity eṣo 'nekakarmā* (Ni. 1-[?] as read) — the word *cit* has many senses; here the commentator has given the sense 'well-known'." — Nirukta citation, **untranslated in the source**:
+
+  > **चिदित्येषोऽनेककर्मा ।** *(Ni. 1-[?] as read [?])*
+
+  *cid ity eṣo 'nekakarmā |* — mine and tentative: "this *cit* has many functions."
+- **mahi** — "*mahate, pūjanīye*: venerable."
+- **stomān** — "*stotrāṇi*: the hymns, in the form of *sūktas*, that we make."
+- "The chief idea of the ṛk: O venerable goddess Uṣas, the sages of old called you for protection and for food and prayed; as then, you, who shine with a splendour that drives away darkness, accept the hymns we make."
+
+**Vyākaraṇa-prakriyā** *(pp. 81–82 — grammar pages, noted briefly so far)*
+- **ūtaye**: root *ava rakṣaṇe*, *bhvādi*; *ktin* in the abstract sense; *av + ti*; *jvaratvarasrivyavimavām upadhāyāś ca* (Pā. 6-4-20 as read) — when *kvip* or a suffix beginning with a *jhal* or a nasal follows the roots *jvar, tvar, sriv, avi, mav*, the penultimate and the *v* are together replaced by *ūṭh*: here, because of the *a* as penultimate, *ūṭ* replaces for all; *ktin* is *kit* [the *k* is a marker], so the form is *ūti*; in the dative singular, with *ṅe*, *ghi* has its name, and the *guṇa* and *ay* come: *ūtaye*; *ūtiyūtijūtisātihetikīrtayaś ca* (Pā. 3-3-97 as read) gives *ktin* by *nipātana* as acute on the end, which overrides the usual suffix-accent, so the *a* after *t* is acute: *ūtaye* is middle-acute.
+- **juhūre**: root *hveñ spardhāyāṃ śabde ca*, *bhvādi*; *liṭ*, third person plural *jha*; *liṭas tajhayor eśirec* (Pā. 3-4-81 as read) gives *irec*; *liṭi dhātor anabhyāsasya* (Pā. 6-1-8 as read) would give doubling to the root, but *abhyastasya ca* (Pā. 6-1-32 as read) gives *saṃprasāraṇa* to *hve*, which is going to form the *abhyasta*, so the *saṃprasāraṇa* comes first; after the doubling, the two parts get the name *abhyasta*; the Kannada author quotes the commentary's own explanation of *abhyastasya* (Kāśikā 6-1-33 as read [?]): "the *hveñ* that is the cause of the *abhyasta*"; *hu + e + ire*; *saṃprasāraṇāc ca* gives *pūrvarūpa*: *hu + ire*; *halaḥ* (Pā. 6-4-2 as read) lengthens the *saṃprasāraṇa* before a consonant: *hū + ire*; doubling: *hū + hū + ire*; *hrasvaḥ* (Pā. 7-4-59 as read) shortens the vowel of the reduplicative syllable: *hu*; *kuhoś cuḥ* (Pā. 7-4-62 as read) gives *j* for *h*: *juhū + ire*; *irayo re* (Pā. 6-4-76 as read) gives *re* for *ire* in the Chandas: *juhūre*; *citaḥ* (Pā. 6-1-163 as read) gives the end-acute since *irec* is *cit*; the *yad*-connexion (*yat*, in *ye*) prevents the all-unaccented (*yadvṛttān nityam*). The Kannada author explains that, in the sūtra, the fifth case is used, and that by the *paribhāṣā* *tasmād ity uttarasya* the relation should arise only with the immediately next word, so that the prohibition would not apply when words intervene; but the *vṛtti* (Kāśikā 8-1-66 as read [?]) says it applies even with an intervening word.
+
+*(The rest of the Vyākaraṇa-prakriyā of Rik 14 (on* mahi *and the following words) is on pp. 82–83 and is not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 82 (PDF 98) reached; introduction, heading and Riks 48.1–48.13 complete; Rik 48.14's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar of *ūtaye* and *juhūre* are written; the rest of its grammar (*mahi*, *stomān*, *gṛṇīhi*, *rādhasā*, *uṣaḥ* …) is on pp. 82–83 and is NOT yet written.**
+
+**Next task:** continue at printed p. 82 (PDF 98, from the word *mahi*): insert "**Rik 48.14, continued** *(from p. 82)*" with the rest of the grammar of Rik 14; then Riks 15–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 98 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-098.jpg`). Flags for 48.13–14: the eight Ṛgveda citations on *viśvavāra* and the Nirukta citations all "as read [?]" with tentative glosses; the first word of 48.14's bhāṣya printed *voṣodevate* (read *uṣodevate*); the sentence on *hveñ*/*abhyasta* in the grammar outlined only. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
