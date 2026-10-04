@@ -9272,8 +9272,122 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 45.4 (pp. 553–555, PDF 567–569)
+
+**Saṃhitā-pāṭha** *(p. 553; accents not reproduced)*
+
+> **महिकेरव ऊतये प्रियमेधा अहूषत ।**
+> **राजन्तमध्वराणामग्निं शुक्रेण शोचिषा ॥ ४ ॥**
+
+*mahikerava ūtaye priyamedhā ahūṣata |*
+*rājantam adhvarāṇām agniṃ śukreṇa śociṣā || 4 ||*
+
+**Pada-pāṭha** *(p. 553)*
+
+> महिऽकेरवः । ऊतये । प्रियऽमेधाः । अहूषत ।
+> राजन्तम् । अध्वराणाम् । अग्निम् । शुक्रेण । शोचिषा ॥ ४ ॥
+
+*mahi-keravaḥ | ūtaye | priya-medhāḥ | ahūṣata |*
+*rājantam | adhvarāṇām | agnim | śukreṇa | śociṣā || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 554)*
+
+> **महिकेरवः प्रौढकर्माणः प्रियमेधाः प्रियेण यज्ञेनोपेता ऋषयः ऊतये रक्षार्थमग्निमहूषत । आहूतवन्तः । कीदृशं अध्वराणां यज्ञानां मध्ये शुक्रेण शोचिषा शुद्धेन प्रकाशेन राजन्तं दीप्यमानं ॥ महिकेरवः । मह पूजायां । औणादिक इन्प्रत्ययः । डुकृञ् करणे । कृवापाजीत्युण् [?] । महयो महान्तः कारवो येषां ते तथोक्ताः । आकारस्यैकारादेशश्छान्दसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । प्रियमेधाः । प्रियो मेधो येषां ते । आहूषत । ह्वेञ् स्पर्धायां शब्दे च । लुङि [?] सिचि बहुलं छन्दसीति संप्रसारणं परपूर्वत्वं । हल इति दीर्घत्वं । आदेशप्रत्यययोरिति षत्वं ॥**
+
+*mahikeravaḥ prauḍhakarmāṇaḥ priyamedhāḥ priyeṇa yajñenopetā ṛṣayaḥ ūtaye rakṣārtham agnim ahūṣata | āhūtavantaḥ | kīdṛśaṃ adhvarāṇāṃ yajñānāṃ madhye śukreṇa śociṣā śuddhena prakāśena rājantaṃ dīpyamānaṃ || mahikeravaḥ | maha pūjāyāṃ | auṇādika inpratyayaḥ | ḍukṛñ karaṇe | kṛvāpājītyuṇ [?] | mahayo mahāntaḥ kāravo yeṣāṃ te tathoktāḥ | ākārasyaikārādeśaś chāndasaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | priyamedhāḥ | priyo medho yeṣāṃ te | āhūṣata | hveñ spardhāyāṃ śabde ca | luṅi [?] sici bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvaṃ | hala iti dīrghatvaṃ | ādeśapratyayayor iti ṣatvaṃ ||*
+
+*(Two small words in the tail are crowded: the Uṇādi-sūtra name "kṛvāpājī-…" and the mood-name "luṅi", marked [?].)*
+
+**Translation:** "The *mahikeravaḥ*, doers of mighty works, the *priyamedhāḥ*, sages joined to a dear sacrifice, *ahūṣata*, called (*āhūtavantaḥ*) Agni *ūtaye*, for protection. What kind of Agni? He who *rājantam*, shines, *śukreṇa śociṣā*, with pure light, among the *adhvarāṇām*, sacrifices. *Mahikeravaḥ*: root *maha pūjāyām*, the Uṇādi suffix *in*; root *ḍukṛñ karaṇe*, the suffix *uṇ*; 'those whose workers (*kāravaḥ*) are great (*mahayaḥ*)'; the substitution of *e* for *ā* is Vedic; in the bahuvrīhi the first member keeps its natural accent. *Priyamedhāḥ*: those whose *medha* (sacrifice) is dear. *Āhūṣata*: root *hveñ spardhāyāṃ śabde ca*; in the aorist with *sic* the Vedic *saṃprasāraṇa* ('*bahulaṃ chandasi*'), the *pūrvarūpa*, the lengthening by *halaḥ*, and the *ṣa* by *ādeśapratyayayoḥ*."
+
+**Pratipadārtha** *(p. 554)* — "**mahikeravaḥ** — those who perform great acts; **priyamedhāḥ** — the sages (or the descendants of the sage Priyamedha), joined to a sacrifice dear (to the gods); **ūtaye** — for their protection; **adhvarāṇām** — in the midst of the sacrifices; **śukreṇa śociṣā** — with a pure flame; **agnim** — the god Agni; **rājantam** — who shines; **ahūṣata** — have called with prayers."
+
+**Bhāvārtha** *(p. 554)* — "The sages are of pure heart. They do excellent works. They love the sacrifice. The descendants of such a sage, Priyamedha, have called the god Agni, with prayers, both for their own protection and for the protection of the sacrifice. He is shining in the midst of the sacrifices with a pure flame."
+
+**English Translation (the source's own, p. 554)** — "The performers of great ceremonies, the offerers of acceptable sacrifices (or the Priyamedhas) have invoked for their protection Agni, shining with brilliant spelendour [sic] in the midst of sacrifices."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 554–555**
+- **mahikeravaḥ** — "*prauḍhakarmāṇaḥ*: [in Kannada] those who do great and great sacrifices and the like; [the source adds in English:] 'performers of great sacrifices'."
+- **priyamedhāḥ** — "*priyeṇa yajñenopetāḥ*: those who perform a sacrifice dear to the deities, or to Agni; or, if desired, the word may be said to mean the descendants of the sage Priyamedha."
+- **agniṃ śukreṇa śociṣā** — "Agni, who shines with a greatly radiant splendour." *(The sentence is cut off at the end of the line in the print, "… the shining Agni — …").*
+
+**Vyākaraṇa-prakriyā** *(p. 555 — grammar page, noted briefly)*
+- **mahikeravaḥ**: root *maha pūjāyām*, the Uṇādi suffix *in*: *mahi*; root *ḍukṛñ karaṇe*, the suffix *uṇ* by the Uṇādi rule beginning *kṛ-vā-pā-ji-mi-sv…* (Uṇ. 1-1 as read; the print of the rule is crowded [?]) — कृ-वा-पा-जि-मि-स्वदि-साध्य-शूभ्य उण् [as I read it, [?]] — *kṛ-vā-pā-ji-mi-svadi-sādhy-aśūbhya uṇ*; *añco 'ñṇiti* (Pā. 7-2-115 as read [?]) — अचोऽञ्णिति — when a *ñit* or *ṇit* suffix follows, the final vowel of the *aṅga* takes *vṛddhi*: *ṛ* → *ār*; *mahikāru*; the *ā* becomes *e* by the Vedic rule; *mahikeru*; before *jas*, *guṇa* by *jasi ca*; *avādeśa*; *ru*, *visarga*. "*Mahayaḥ kāravaḥ yeṣāṃ te*", a bahuvrīhi; the first member keeps its natural accent.
+- **priyamedhāḥ**: "*priyaḥ medhaḥ yeṣāṃ te*".
+- **āhūṣata**: root *hveñ spardhāyāṃ śabde ca*; *luṅ*; the *ātmanepada* by *svaritañitaḥ kartrabhiprāye kriyāphale* (Pā. 1-3-72 as read) — स्वरितञितः कर्त्रभिप्राये क्रियाफले — when the fruit of the action goes to the agent; *jhi* → *jha* → *ata*; *cleḥ sic* (Pā. 3-1-44 as read) the *sic* for *cli*; the *aṭ* augment; *āhve + s + jha*; *ātmanepadeṣv anataḥ* (Pā. 7-1-5 as read) gives *at* for *jha*; "*bahulaṃ chandasi*" (Pā. 6-1-34 as read) a variety of *saṃprasāraṇa* of the root *hveñ* in the Chandas; *ahu + e + s + ata*; *saṃprasāraṇāc ca* (Pā. 6-1-108 as read) makes a single *pūrvarūpa* substitute *u* for *u + e*; *halaḥ* (Pā. 6-4-2 as read) lengthens the *u* (the *saṃprasāraṇa* standing after a consonant at the end of the *aṅga*); *ādeśapratyayayoḥ* (Pā. 8-3-59 as read) gives *ṣ* for *s*: *āhūṣata*. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 553 (PDF 567) reached; heading, introduction and Riks 45.1–45.3 complete; Rik 45.4's Saṃhitā and Pada are on the lower part of p. 553 and are NOT yet written.**
+### Rik 45.5 (pp. 556–557, PDF 570–571)
 
-**Next task:** Rik 45.4 (*mahikerava ūtaye priyamedhā ahūṣata | rājantam adhvarāṇām agniṃ śukreṇa śociṣā || 4 ||*, read from the print; its bhāṣya begins p. 554) — start from the Saṃhitā at the foot of p. 553 (PDF 567), then Riks 5–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 567 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.1–3: see the notes in each Rik; in 45.3 the Nirukta passage in the bhāṣya partly crowded, the many Ṛgveda reference numerals not reproduced or [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 556; accents not reproduced)*
+
+> **घृताहवन सन्त्येमा उ षु श्रुधी गिरः ।**
+> **याभिः कण्वस्य सूनवो हवन्तेऽवसे त्वा ॥ ५ ॥**
+
+*ghṛtāhavana santyemā u ṣu śrudhī giraḥ |*
+*yābhiḥ kaṇvasya sūnavo havante 'vase tvā || 5 ||*
+
+**Pada-pāṭha** *(p. 556)*
+
+> घृतऽआहवन । सन्त्य । इमाः । ऊं इति । सु । श्रुधि । गिरः ।
+> याभिः । कण्वस्य । सूनवः । हवन्ते । अवसे । त्वा ॥ ५ ॥
+
+*ghṛta-āhavana | santya | imāḥ | ūṃ iti | su | śrudhi | giraḥ |*
+*yābhiḥ | kaṇvasya | sūnavaḥ | havante | avase | tvā || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 556)*
+
+> **हे घृताहवन घृतेनाहूयमान सन्त्य फलप्रदाग्ने इमा उ गिरोऽस्माभिः प्रयुज्यमाना अपि स्तोत्ररूपा वाचः सु श्रुधि । सुष्ठु शृणु । कण्वस्य महर्षेः सूनवः पुत्रा याभिर्गीर्भिरवसे स्वरक्षणार्थं त्वा हवन्ते त्वामाह्वयन्ति ॥ घृताहवन । घृतेनाहूयतेऽस्मिन्निति घृताहवनः । अधिकरणे ल्युट् । आमन्त्रिताद्युदात्तत्वं । श्रुधि । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् ॥ ५ ॥**
+
+*he ghṛtāhavana ghṛtenāhūyamāna santya phalapradāgne imā u giro 'smābhiḥ prayujyamānā api stotrarūpā vācaḥ su śrudhi | suṣṭhu śṛṇu | kaṇvasya maharṣeḥ sūnavaḥ putrā yābhir gīrbhir avase svarakṣaṇārthaṃ tvā havante tvām āhvayanti || ghṛtāhavana | ghṛtenāhūyate 'smin iti ghṛtāhavanaḥ | adhikaraṇe lyuṭ | āmantritādyudāttatvaṃ | śrudhi | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk || 5 ||*
+
+*(The closing numeral of the bhāṣya is printed so that it reads like "30" or "50", a slip or a crowded numeral [?]; the Rik is the fifth, as the Saṃhitā and Pada numerals show.)*
+
+**Translation:** "O *ghṛtāhavana*, O Agni, called with ghee; O *santya*, giver of fruit: *imā u giraḥ*, these very words — these stotra-words too, though uttered by us — *su śrudhi*, hear well, *yābhiḥ*, the songs with which *kaṇvasya sūnavaḥ*, the sons of the great sage Kaṇva, *havante*, call you *avase*, for their own protection. *Ghṛtāhavana*: 'he in whom (or by whom) one is called with ghee'; the suffix *lyuṭ* in the locative sense; the initial acute of the vocative. *Śrudhi*: *dhi* in place of *hi* by *śrūśṛṇuprakṛvṛbhyaḥ chandasi*; the *vikaraṇa* is dropped by *bahulaṃ chandasi*."
+
+**Pratipadārtha** *(p. 556)* — "**ghṛtāhavane** — O one who is called by the oblation of ghee; **santya** — O Agni, giver of fruit; **kaṇvasya** — of the sage Kaṇva; **sūnavaḥ** — the sons; **yābhiḥ** — with which words; **avase** — for protection; **tvā** — you; **havante** — call; **imā u giraḥ** — these very words of praise (even though uttered by us); **su śrudhi** — hear well."
+
+**Bhāvārtha** *(p. 556)* — "O Agni, who are invoked in the sacrifice by pouring ghee and who give fruit to the sacrificers, hear well these words of praise that the sons of the sage Kaṇva speak to you for their protection."
+
+**English Translation (the source's own, p. 557)** — "O generous Agni, invoked with ghee, listen to these praises with which the sons of Kanwa invoke you for protection."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 557**
+- **ghṛtāhavana** — "one who is called by pouring ghee in Agni."
+- **santya** — "the giver of fruit."
+
+**Vyākaraṇa-prakriyā** *(p. 557 — grammar page, noted briefly)*
+- **ghṛtāhavana**: "*ghṛtena āhūyate asmin*"; *karaṇādhikaraṇayoś ca* (Pā. 3-3-117 as read [?]) — करणाधिकरणयोश्च — the suffix *lyuṭ* in the locative sense; *yuvor anākau* (Pā. 7-1-1 as read) *ana* for *yu*; *guṇa* of the root *hu*, *avādeśa*; *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented.
+- **śrudhi**: explained at Ṛ. Saṃ. 1-4[?]-13 (as printed; this would be the thirteenth ṛk of the preceding sūkta); in the Saṃhitā two lengthenings come by *anyeṣām api dṛśyate*. **|| 5 ||**
+
+---
+
+### Rik 45.6 (p. 557 foot, PDF 571–)
+
+**Saṃhitā-pāṭha** *(p. 557; accents not reproduced)*
+
+> **त्वां चित्रश्रवस्तम हवन्ते विक्षु जन्तवः ।**
+> **शोचिष्केशं पुरुप्रियाग्ने हव्याय वोळ्हवे ॥ ६ ॥**
+
+*tvāṃ citraśravastama havante vikṣu jantavaḥ |*
+*śociṣkeśaṃ purupriyāgne havyāya voḷhave || 6 ||*
+
+**Pada-pāṭha** *(p. 557)*
+
+> त्वाम् । चित्रश्रवःऽतम । हवन्ते । विक्षु । जन्तवः ।
+> शोचिःऽकेशम् । पुरुऽप्रिय । अग्ने । हव्याय । वोळ्हवे ॥ ६ ॥
+
+*tvām | citraśravaḥ-tama | havante | vikṣu | jantavaḥ |*
+*śociḥ-keśam | puru-priya | agne | havyāya | voḷhave || 6 ||*
+
+*(The bhāṣya of Rik 6 begins on p. 558, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 557 (PDF 571) reached; heading, introduction and Riks 45.1–45.5 complete; Rik 45.6's Saṃhitā and Pada written at the foot of p. 557 (its bhāṣya begins on p. 558).**
+
+**Next task:** continue at printed p. 558 (PDF 572) with the bhāṣya of Rik 45.6, then Riks 7–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 572 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.4–5: the Uṇādi-sūtra name and the mood-name in 45.4's bhāṣya tail crowded [?]; 45.5's closing bhāṣya numeral misprinted/crowded (reads like "30"/"50"); source English misprint "spelendour" [sic] kept. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
