@@ -8833,8 +8833,71 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 44.13 (pp. 534–537)
+
+**Saṃhitā-pāṭha** *(p. 534; accents not reproduced)*
+
+> **श्रुधि श्रुत्कर्ण वह्निभिर्देवैरग्ने सयावभिः ।**
+> **आ सीदन्तु बर्हिषि मित्रो अर्यमा प्रातर्यावाणो अध्वरम् ॥ १३ ॥**
+
+*śrudhi śrutkarṇa vahnibhir devair agne sayāvabhiḥ |*
+*ā sīdantu barhiṣi mitro aryamā prātaryāvāṇo adhvaram || 13 ||*
+
+**Pada-pāṭha** *(p. 534)*
+
+> श्रुधि । श्रुत्ऽकर्ण । वह्निऽभिः । देवैः । अग्ने । सयावऽभिः ।
+> आ । सीदन्तु । बर्हिषि । मित्रः । अर्यमा । प्रातःऽयावानः ।
+> अध्वरम् ॥ १३ ॥
+
+*śrudhi | śrut-karṇa | vahni-bhiḥ | devaiḥ | agne | sayāva-bhiḥ |*
+*ā | sīdantu | barhiṣi | mitraḥ | aryamā | prātaḥ-yāvānaḥ |*
+*adhvaram || 13 ||*
+
+*(The Pada prints the last compound's second member as* -yāvānaḥ*, with the long* ā *of the Saṃhitā* prātaryāvāṇaḥ *replaced by* n*; this is the print's own reading of the Pada, given as printed.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 534–535)*
+
+> **हे श्रुत्कर्ण श्रवणसमर्थाभ्यां कर्णाभ्यां युक्ताग्ने श्रुधि । अस्मदीयं वचनं शृणु । यो मित्रो देवो यश्चार्यमा ये चान्ये प्रातर्यावाणः प्रातःकाले देवयजनं गच्छन्तो देवास्तैः सर्वैः सयावभिराहवनीयाग्निना त्वया समानगतिभिरन्यैर्वह्निभिर्देवैः सहाध्वरं क्रतुमुद्दिश्य बर्हिषि दर्भे आ सीदन्तु । उपविशन्तु ॥**
+
+*he śrutkarṇa śravaṇasamarthābhyāṃ karṇābhyāṃ yuktāgne śrudhi | asmadīyaṃ vacanaṃ śṛṇu | yo mitro devo yaś cāryamā ye cānye prātaryāvāṇaḥ prātaḥkāle devayajanaṃ gacchanto devās taiḥ sarvaiḥ sayāvabhir āhavanīyāgninā tvayā samānagatibhir anyair vahnibhir devaiḥ sahādhvaraṃ kratum uddiśya barhiṣi darbhe ā sīdantu | upaviśantu ||*
+
+*(The line is broken at the page-foot of p. 534 at "prātaḥ-" and continues on p. 535.)*
+
+**Translation:** "O *śrutkarṇa*, O Agni, whose ears are fit for hearing, *śrudhi*, hear — hear our words. The god Mitra, and Aryaman, and the other gods, *prātaryāvāṇaḥ*, who go to the place of worship in the morning — may all those *ā sīdantu*, sit down, *barhiṣi*, on the *darbha* grass, *adhvaram*, with a view to the sacrifice, together with you, the *āhavanīya* fire, and with the other gods, the carriers (*vahnibhiḥ*) who go together with you (*sayāvabhiḥ*)."
+
+**Grammatical tail** *(p. 535; characterized, numerals as read [?])*
+- *śrudhi*: root *śru śravaṇe*; *hi* is replaced by *dhi* in the Chandas by a rule beginning *śrūśṛṇupṛkṛvṛbhyaś chandasi* (as printed, number not given here); the *vikaraṇa* (*śnu*) is dropped by "*bahulaṃ chandasi*".
+- *śrutkarṇa*: "he who hears" = *śrut*; *tuk* augment when *kvip* follows; bahuvrīhi "he whose ears are *śrut*".
+- *vahnibhiḥ*: root *vaha prāpaṇe*; the suffix *ni* by a rule beginning *vahiśriyuśruglā-hā-tvaribhyo nit* (Uṇ. 4-[?] as read), being *nit*, the word has initial acute.
+- *sayāvabhiḥ*: "they who go together" (*samānaṃ yāntīti*); *yā prāpaṇe*; *vanip* by a rule beginning *ato manin* …; the accent as in a *kṛd*-ending second member (*kṛduttarapadaprakṛtisvaratvam*, as printed).
+- *prātaryāvāṇaḥ*: as before (*pūrvavat*); the change to *ṇ* by *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read).
+
+**Pratipadārtha** *(p. 535)* — "**śrutkarṇa** — O Agni, endowed with ears that hear subtly; **agne** — O Agni; **śrudhi** — hear (our) words; **mitraḥ** — Mitra; **aryamā** — and Aryaman; **prātaryāvāṇaḥ** — and the other gods who go (towards the sacrificial place) in the morning; **sayāvabhiḥ** — who move along with you in the form of the *āhavanīya*; **vahnibhiḥ** — together with the other fire-gods; **adhvaram** — with the sacrifice as the object; **barhiṣi** — on the seat of *darbha* grass; **ā sīdantu** — let them sit down."
+
+**Bhāvārtha** *(p. 535)* — "O Agni, since your ears are very subtle in hearing, listen well to our words in the form of praise. Let Mitra, Aryaman and the other gods who go in the morning towards the sacrificial place, and also the other fire-gods who move together with you in the form of the *āhavanīya*, together come here with a view to the sacrifice we are performing, and sit on the *darbha* seat."
+
+**English Translation (the source's own, p. 535)** — "O Agni, whose ears can hear, hear our invocation ; let Mitra and Aryaman and other gods that move together in the early morning with all the accompanying gods that carry oblations, sit down at the sacrifice upon the sacred kusa-grass."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 535–536**
+- **śrutkarṇa** — "*śṛṇotīti śrut; śrutau karṇau yasyāsau śrutkarṇaḥ*; *śravaṇasamarthābhyāṃ karṇābhyāṃ yuktaḥ*: *śrut* means one who hears, *karṇa* means ear; one whose ears are able to hear the invocation — Agni is meant."
+- **vahnibhiḥ** — "*vaha prāpaṇe*: the ones who by nature carry, that is, those who carry the oblations."
+- **sayāvabhiḥ** — "*yā prāpaṇe; samānaṃ yāntīti sayāvānaḥ*: *āhavanīyāgninā tvayā samānagatibhiḥ*: those who go in company with you (Agni), going together."
+- **prātaryāvāṇaḥ** — "*prātaḥkāle devayajanaṃ gacchanto devāḥ*: the gods who go to the place of the sacrifice in the morning; this is the meaning."
+- **adhvaram** — "having come here now with reference to the sacrifice we are performing."
+
+**Vyākaraṇa-prakriyā** *(pp. 536–537 — grammar pages, noted briefly)*
+- **śrudhi**: root *śru śravaṇe*; *loṭ*, *sip*, *hi* as substitute; "*śṛṇu-prākṛvṛbhyaś chandasi*" (Pā. 6-4-102 as read [?]) gives *dhi* in place of *hi*; "*bahulaṃ chandasi*" the *vikaraṇa* (*śnu*) is dropped (*luk*).
+- **śrutkarṇa**: root *śru śravaṇe*; "*śṛṇotīti śrut*", *kvip* by *kvip ca*; *hrasvasya piti kṛti tuk* gives the *tuk* augment; bahuvrīhi "*śrutau karṇau yasya saḥ*" — "one whose ears have the power to hear" (the meaning: one whose ears are not deaf); vocative, so unaccented (*āmantritānudātta*).
+- **vahnibhiḥ**: *vaha prāpaṇe*; the Uṇādi sūtra "*vahiśriyuśruglā-hā-tvaribhyo nit*" (Uṇ. 4-[?] as read; I give the name as printed): after the roots *vaha prāpaṇe, śriñ sevāyām, yu miśraṇe, śru śravaṇe, glai harṣakṣaye, o hāk tyāge*, and *tvarā sambhrame* the suffix *ni* comes, being *nit* — the sūtra means this. (The Kannada author notes that the sūtra beginning *vahi-śri-yu-druv…* is the form found in the present Uṇādi-list [?].) *vah + ni = vahni*; since the suffix is *nit*, the initial acute.
+- **sayāvabhiḥ**: analysis "*samānaṃ yānti*"; *yā prāpaṇe*; "*ato manin kvanib vanipaś ca*" (Pā. 3-2-74 as read [?]) — when a *subanta* or a preposition stands as *upapada* the three suffixes *manin, kvanip, vanip* come in the Chandas after roots ending in *ā*: here *vanip* after *yā* with the word *samāna* as *upapada*; *samānasya chandasy amūrdhaprabhṛtyudarkeṣu* (Pā. 6-3-84 as read [?]) gives *sa* for *samāna*: *sa + yā + van = sayāvan*; *bhis*; "*na lopaḥ prātipadikāntasya*" the *n* is dropped; *ru*, *visarga*. For the second member *yāvan*, ending in a *kṛt*, by "*gatikārakopapadāt kṛt*" (Pā. 6-2-139 as read [?]) the natural (*prakṛti*) accent of the first member remains.
+- **prātaryāvāṇaḥ**: *prātar* as *upapada*, root *yā*, *vanip* as before: *prātaryāvan*, *jas*; *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read) — पूर्वपदात् … — "the *n* which stands at the end of a *prātipadika*, in *num*, or in a case-ending, becomes *ṇ* if preceded by a *repha* or *ṣ* in the earlier member, or if followed (at a distance) by one"; thus the *n* at the end of the stem becomes *ṇ*. **|| 13 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 534 (PDF 548) reached; introduction, heading and Riks 44.1–44.12 complete.**
+---
 
-**Next task:** Rik 44.13 begins in the middle of printed p. 534 (PDF 548): its Saṃhitā, Pada and the first lines of the bhāṣya (*he śrutkarṇa …*) are on that page but not yet written; continue from there, then Rik 14 and the close of Sūkta 44, then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 548 -l 570 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 44.12: the augment in *prasvanitāsaḥ* printed "*āsugāgamaḥ*" [?] (grammar page says *asuk*); sūtra and Uṇādi numerals "as read [?]". **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+---
+
+**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 537 (PDF 551) reached; introduction, heading and Riks 44.1–44.13 complete.**
+
+**Next task:** Rik 44.14 (the last) begins in the middle of printed p. 537 (PDF 551): its Saṃhitā, Pada and the first two lines of the bhāṣya (*marutā devāḥ stomam asmadīyaṃ stotraṃ śṛṇvantu …*) are on that page but not yet written; continue from there, then the closing note of Sūkta 44 and my summary of it, update CLAUDE.md "Current position", then STOP. Re-render with `pdftoppm -jpeg -r 150 -f 551 -l 565 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 44.13: the Pada's last compound printed *-yāvānaḥ* (as read); the Kannada author's comment on the Uṇādi sūtra *vahi-śri-yu-…* partly unclear; numerals "as read [?]". **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
