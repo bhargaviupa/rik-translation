@@ -2116,10 +2116,60 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+*(Correction of a note above: the Special Topics of Rik 4 end on p. 144 with the entry **taviṣīṃ dadhānaḥ** — "making brightness by his own power" — the last line of that page; p. 145 opens directly with the grammar. The words "continues on p. 145" in the preceding paragraph were my own premature remark.)*
+
+### Rik 35.4 — Vyākaraṇa-prakriyā (pp. 145–146, PDF 159–160; grammar pages, noted briefly)
+
+Numerals read at 150 dpi, "as read" where not firm.
+
+- **abhīvṛtam** (p. 145): *abhito vartate* = *abhīvṛt*; root *vṛtu vartane* after the preverb *abhi*; *kvip ca* [Pā. 3-2-76, as read] gives *kvip*, and the augment *tuk* would yield *vṛt*; *nahivṛtivṛṣivyadhiruciṣahitaniṣu kvau* — नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ — (Pā. 6-3-116): before roots ending in *kvip*, the first member is lengthened: *abhi* → *abhī*.
+- **viśvarūpam**: *viśvāni rūpāṇi yasya saḥ* — "a chariot having many kinds of forms"; *bahuvrīhau viśvaṃ saṃjñāyām* — बहुव्रीहौ विश्वं संज्ञायाम् — (Pā. 6-2-106, as read): when a name is shown, the first member *viśva* is final-acute; "although no name is shown here, being Vedic this rule operates by *vyatyaya* even without one".
+- **hiraṇyaśamyam**: root *haryate gatikāntyoḥ*; *haryateḥ kanyan hirac* — हर्यतेः कन्यन् हिरच् — (Uṇ. 3-231, as I read the numerals [?]): *kanyan* after the root *harya*, with *hir* substituted for the root; the *c* is *it* and lost, the *a* is only for pronunciation; in the suffix *k* and *n* are *it*, leaving *ya*: *hir + ya* = *hiraṇya*; *aṭkupvāṅnumvyavāye 'pi* — (Pā. 8-4-2) turns *n* into *ṇ*; by the *nit* accent it is first-syllable acute; *śamyāḥ* are pegs for yoking horses; *hiraṇyāḥ śamyā yasmin saḥ*, a *bahuvrīhi*, first-member accent.
+- **āsthāt**: root *ṣṭhā gatinivṛttau*, *ṣ* → *s*; *luṅ*, *tip*, loss of the *i*, *cli*, *sic*, *aṭ*: *ā-asthā + s + t*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — (Pā. 2-4-77): *luk* for *sic* after these; "by *gā* is meant the *gā* substituted for *iṇ* by *iṇo gā luṅi* — इणो गा लुङि — (Pā. 2-4-45), and by *pā* the root *pā pāne*"; hence *luk* of *sic*; *aṭ*; the preverb *ā*.
+- **kṛṣṇā**: *kṛṣer varṇe* — कृषेर्वर्णे — (Uṇ. 3-4, as read): when colour is meant, *nak* after *kṛṣ*; *kṛṣ + na*; *raṣābhyāṃ no ṇaḥ samānapade* — रषाभ्यां नो णः समानपदे — (Pā. 8-4-1): *n* → *ṇ*; the word is neuter; *śas* → *śi*; *śeś chandasi bahulam* — (Pā. 6-1-70): *luk* of the *śi*; the augment *num*, the lengthening of the penultimate and the loss of *n* occur.
+- **taviṣīm**: the root *tava* is established by usage, not in the sūtra-list; *tavaḥ kerṇidvā* [read: *tavater ṇid vā*, as the printed letters are crowded] — तवतेर्णिद्वा — (Uṇ. 1-64, as I read the numerals [?]): after *tav* the suffix *ṭiṣac*; *tav + iṣa*; the suffix is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasaj…* (Pā. 4-1-15, as read); as a *cit* suffix it should be final-acute by *citaḥ saprakṛter bahvakajartham* — चितः सप्रकृतेर्बह्वकजर्थम् — (Pā. 6-1-163), "properly"; but placing the word in the *vṛṣādi* group, *vṛṣādīnāṃ ca* — वृषादीनां च — (Pā. 6-1-203), it is first-syllable acute.
+- **dadhānaḥ** (p. 146): root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *laṭ*; *laṭaḥ śatṛśānacau*, *śānac*; *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — (Pā. 2-4-75) *ślu* for *śap*; *ślau* — श्लौ — (Pā. 6-1-10) doubling: *dhā-dhā-āna*; *hrasvaḥ* — ह्रस्वः — (Pā. 7-4-59) shortens the reduplicate; *abhyāse carca* — अभ्यासे चर्च — (Pā. 8-4-54): in the reduplicate *jhal* → *car* and *jaś*, so *dh* → *d* by similarity of place; *ubhe abhyastam* — उभे अभ्यस्तम् — (Pā. 6-1-5): both [the repeated parts] are called *abhyasta*; *abhyastānām ādiḥ* — (Pā. 6-1-189) — first-syllable acute. Rik 4 ends here (*|| 4 ||*).
+
+### Rik 35.5 (pp. 146–, PDF 160–)
+
+**Saṃhitā-pāṭha** *(p. 146; accents not reproduced)*
+
+> **वि जनाञ्छ्यावाः शितिपादो अख्यन् रथं हिरण्यप्रउगं वहन्तः ।**
+> **शश्वद्विशः सवितुर्दैव्यस्योपस्थे विश्वा भुवनानि तस्थुः ॥ ५ ॥**
+
+*vi janāñ chyāvāḥ śitipādo akhyan rathaṃ hiraṇyaprauugaṃ vahantaḥ |*
+*śaśvad viśaḥ savitur daivyasyopasthe viśvā bhuvanāni tasthuḥ || 5 ||*
+
+**Pada-pāṭha** *(p. 146)*
+
+> वि । जनान् । श्यावाः । शितिऽपादः । अख्यन् । रथम् । हिरण्यऽप्रउगम् । वहन्तः ॥
+> शश्वत् । विशः । सवितुः । दैव्यस्य । उपऽस्थे । विश्वा । भुवनानि । तस्थुः ॥ ५ ॥
+
+*vi | janān | śyāvāḥ | śiti-pādaḥ | akhyan | ratham | hiraṇya-prauugam | vahantaḥ ||*
+*śaśvat | viśaḥ | savituḥ | daivyasya | upa-sthe | viśvā | bhuvanāni | tasthuḥ || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 147; the first half in full, the grammatical tail characterized)*
+
+> श्यावा एतन्नामकाः सूर्यस्याश्वाः । श्यावाः सवितुरिति निघण्टावुक्तत्वात् । ते च शितिपादः श्वेतैः पादैरुपेता हिरण्यप्रउगं रथस्य मुखमीषयोरग्रं युगबन्धनस्थानं प्रउगमित्युच्यते । तच्चात्र सुवर्णमयम् । तद्युक्तं रथं वहन्तो जनान्प्राणिनो व्यख्यन् । विशेषेण प्रकाशितवन्त इत्यर्थः । शश्वत् सर्वदा विशः प्रजा दैव्यस्येतरदेवसम्बन्धिनः सवितुः प्रेरकस्य सूर्यस्योपस्थे समीपस्थाने तस्थुः । स्थितवत्यः । न केवलं प्रजाः किं तर्हि विश्वा भुवनानि सर्वे च लोकाः प्रकाशाय सूर्यसमीपे तस्थुः ॥
+
+*śyāvā etannāmakāḥ sūryasyāśvāḥ | śyāvāḥ savitur iti nighaṇṭāv uktatvāt | te ca śitipādaḥ śvetaiḥ pādair upetā hiraṇyaprauugaṃ rathasya mukham īṣayor agraṃ yugabandhanasthānaṃ prauugam ity ucyate | tac cātra suvarṇamayam | tadyuktaṃ rathaṃ vahanto janān prāṇino vyakhyan | viśeṣeṇa prakāśitavanta ity arthaḥ | śaśvat sarvadā viśaḥ prajā daivyasyetaradevasambandhinaḥ savituḥ prerakasya sūryasyopasthe samīpasthāne tasthuḥ | sthitavatyaḥ | na kevalaṃ prajāḥ kiṃ tarhi viśvā bhuvanāni sarve ca lokāḥ prakāśāya sūryasamīpe tasthuḥ ||*
+
+**Translation:** "*Śyāvāḥ* — the horses of Sūrya who bear this name ('*śyāvāḥ savituḥ*' being so stated in the Nighaṇṭu). They, *śitipādaḥ* — furnished with white feet — bearing a chariot with a *hiraṇyaprauuga*, a golden front-yoke (the front of the chariot, the tip of the two shafts, the place for fastening the yoke is called *prauuga*; here it is made of gold) — *janān* — the creatures — *vi akhyan* — brightened especially. *Śaśvat*, always, *viśaḥ* — the people — [being] those of Savitṛ, the *daivya*, belonging to the other gods, the impeller Sūrya — *upasthe*, in his lap, in a near place — *tasthuḥ*, stood. Not only the people: *viśvā bhuvanāni*, all the worlds, too, stood near the Sun for light."
+
+**Grammar within the bhāṣya** *(p. 147, characterized; some of the quoted rule-names are crowded and I give them as read, [?])*: *śitipādaḥ* (*śitayaḥ śvetavarṇāḥ pādā yeṣām te*; *supāṃ sulug…* — *jas* → *su*?; or *śitiḥ* "white as crystal", *sa iva pādo yeṣām*; *pādasya lopo 'hastyādibhyaḥ* — पादस्य लोपोऽहस्त्यादिभ्यः — (Pā. 5-4-138, as read [?]): the final of the *pāda* at the end of such a compound is lost, since *upamānāt* is carried on there; *pāda* is first-syllable acute as of the *vṛṣādi* group; *bahuvrīhau śiter nityabahujbahuvrīhāv abhasat* — (Pā. 6-2-194, as read [?]) the later member keeps its natural accent); *akhyan* (root *khyā*, *luṅ*, *cli* → *aṅ* by the rule *asyativaktikhyātibhyo 'ṅ*, as I read the garbled name); *hiraṇyaprauugam* (a *bahuvrīhi*, first-member accent); *vahantaḥ* (*śap* is *pit* so unaccented; *śatṛ* and the *lasārvadhātuka* accent keep the root's); *daivyasya* (*tasyedam* — *devād yañ iñau* — (Pā. 4-1-85), *yañ* after *deva* by *prāgdīvyatīya*; *vṛddhi* by *taddhiteṣv acām ādeḥ*; first-syllable acute by *ñnityādir nityam*); *upasthe* (*ātaś copasarge kaḥ*; the *ā* lost by *ātolopa iṭi ca*; first-member final accent as of *marudvṛdhādi*).
+
+**Pratipadārtha** *(p. 147)* — "**śitipādaḥ** — with white-coloured feet; **śyāvāḥ** — the horses of Savitṛ named Śyāva; **hiraṇyaprauugam** — with a golden [front part, the Kannada *mūkī*]; **ratham** — the chariot; **vahantaḥ** — carrying; **janān** — beings; **vi akhyan** — have lit up well; **śaśvat** — always; **viśaḥ** — the people (and); **viśvā bhuvanāni** — all the worlds also; **daivyasya** — belonging to the other gods; **savituḥ** — of Savitṛ, the impeller of the world; **upasthe** — near; **tasthuḥ** — have stood."
+
+**Bhāvārtha** *(p. 147)* — "The horses of the Sun, named Śyāva, carry the chariot with the golden [front-yoke]. With their radiance they light up the whole world of beings. The people and the rest, and all the worlds as well, have stood near the shining Savitṛ, the impeller of the world."
+
+*(The source's English translation, the Special Topics and the grammar of Rik 5 follow on p. 148 and later pages, to be viewed next.)*
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 144 (PDF 158) reached; Riks 35.1–35.3 complete; Rik 35.4 written through the middle of its Special Topics (*taviṣīṃ dadhānaḥ*, which continues on p. 145).**
+---
 
-**Next task:** continue at printed p. 145 (PDF 159) with the rest of Rik 4's Special Topics and its grammar, then Rik 5. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 159 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 147 (PDF 161) reached; Riks 35.1–35.4 complete; Rik 35.5 written through the Bhāvārtha (p. 147).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka and Uṇādi numerals are [?] or not read; (4) the *bhuvanāni*, *martyam* and *hiraṇyayena* derivations (Rik 2 grammar), a phrase of the Rik 3 bhāṣya (*udvatā…*) and the Kannada word *mūkīmara* (Rik 4) are partly uncertain.
+**Next task:** continue at printed p. 148 (PDF 162) with the source's English for Rik 5, its Special Topics and grammar, then Rik 6. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 162 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka and Uṇādi numerals are [?] or not read; (4) the *bhuvanāni*, *martyam* and *hiraṇyayena* derivations (Rik 2 grammar), a phrase of the Rik 3 bhāṣya (*udvatā…*), the Kannada word *mūkī(mara)* (Riks 4–5) and several rule-names in the Rik 5 bhāṣya tail are partly uncertain.
