@@ -2065,10 +2065,61 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 35.3 — Vyākaraṇa-prakriyā, concluded (p. 142, PDF 156; grammar page, noted briefly)
+
+- **pravatā** (concluded): after the *tuk* the form is *pravat*; the preverb *pra* + the third-case singular *ṭā*; in *pravat* the *va* is acute by the root's accent; once the compound with the preverb is made, *gatikārakopapadāt kṛt* — गतिकारकोपपदात्कृत् — (Pā. 6-2-139, as read) lets the accent of the later member, the *kṛdanta*, stand.
+- **udvatā**: "here the preverb *ut* stands in place of *pra*; the rest of the process is as before."
+- **yajataḥ**: root *yaja devapūjāyām*; *bhṛmṛdṛśiyajiparvipacyamitamināmidayibhyo 'tac* — भृमृदृशियजिपर्विपच्यमितमिनमिदयिभ्योऽतच् — (Uṇ. 3-110, as I read the numerals [?]): *atac* after *yaj*: *yajata*.
+- **viśvā duritā**: *viśvāni duritāni*, second-case plural; the *śi* from *jaśśasoḥ śiḥ* is dropped by *śeś chandasi bahulam* — (Pā. 6-1-70); by the *sarvanāmasthāna* status the augment *num* had come and the lengthening of the penultimate; after the *luk* the *n* is lost. Rik 3 ends here (*|| 3 ||*).
+
+### Rik 35.4 (pp. 142–, PDF 156–)
+
+**Saṃhitā-pāṭha** *(p. 142; accents not reproduced)*
+
+> **अभीवृतं कृशनैर्विश्वरूपं हिरण्यशम्यं यजतो बृहन्तम् ।**
+> **आस्थाद्रथं सविता चित्रभानुः कृष्णा रजांसि तविषीं दधानः ॥ ४ ॥**
+
+*abhīvṛtaṃ kṛśanair viśvarūpaṃ hiraṇyaśamyaṃ yajato bṛhantam |*
+*āsthād rathaṃ savitā citrabhānuḥ kṛṣṇā rajāṃsi taviṣīṃ dadhānaḥ || 4 ||*
+
+**Pada-pāṭha** *(pp. 142–143)*
+
+> अभिऽवृतम् । कृशनैः । विश्वऽरूपम् । हिरण्यऽशम्यम् । यजतः । बृहन्तम् ॥
+> आ । अस्थात् । रथम् । सविता । चित्रऽभानुः । कृष्णा । रजांसि । तविषीम् । दधानः ॥ ४ ॥
+
+*abhi-vṛtam | kṛśanaiḥ | viśva-rūpam | hiraṇya-śamyam | yajataḥ | bṛhantam ||*
+*ā | asthāt | ratham | savitā | citra-bhānuḥ | kṛṣṇā | rajāṃsi | taviṣīm | dadhānaḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 143; the first half in full, the grammatical tail characterized)*
+
+> सविता रथमास्थात् । आस्थितवान् । आरूढवानित्यर्थः । कीदृशम् । अभीवृतम् अभितो वर्तमानम् । तथा कृशनैर्विश्वरूपं सुवर्णेन नानारूपम् । कृशनं लोहमिति सुवर्णनामसु पाठात् । क्वचित्सुवर्णनिर्मितगजपङ्क्तिः क्वचिदश्वपङ्क्तिः क्वचिन्मनुष्यपङ्क्तिरित्येवं बहुरूपत्वम् । हिरण्यशम्यम् अश्वानां स्कन्धेषु रथयोजनवेलायां नियन्तुं प्रक्षेप्यमाणाः शङ्कवः शम्याः । ताः सुवर्णमय्यो रथे वर्तन्ते । बृहन्तं प्रौढम् । कीदृशः सविता । यजतो यष्टव्यः । चित्रभानुर्विविधरश्मियुक्तः कृष्णा रजांसि अन्धकारयुक्ततया कृष्णवर्णान् लोकानुद्दिश्य तमोनिवारणार्थं तविषीं बलं स्वकीयं प्रकाशरूपं दधानः ॥
+
+*savitā ratham āsthāt | āsthitavān | ārūḍhavān ity arthaḥ | kīdṛśam | abhīvṛtam abhito vartamānam | tathā kṛśanair viśvarūpaṃ suvarṇena nānārūpam | kṛśanaṃ loham iti suvarṇanāmasu pāṭhāt | kvacit suvarṇanirmitagajapaṅktiḥ kvacid aśvapaṅktiḥ kvacin manuṣyapaṅktir ity evaṃ bahurūpatvam | hiraṇyaśamyam aśvānāṃ skandheṣu rathayojanavelāyāṃ niyantuṃ prakṣepyamāṇāḥ śaṅkavaḥ śamyāḥ | tāḥ suvarṇamayyo rathe vartante | bṛhantaṃ prauḍham | kīdṛśaḥ savitā | yajato yaṣṭavyaḥ | citrabhānur vividharaśmiyuktaḥ kṛṣṇā rajāṃsi andhakārayuktatayā kṛṣṇavarṇān lokān uddiśya tamonivāraṇārthaṃ taviṣīṃ balaṃ svakīyaṃ prakāśarūpaṃ dadhānaḥ ||*
+
+**Translation:** "Savitṛ *ratham āsthāt* — has mounted the chariot. What sort? *Abhīvṛtam* — encircled all round; and *kṛśanair viśvarūpam* — many-formed with gold ('*kṛśana*' = iron/metal, being read among the names of gold): in places a row of elephants made of gold, in places a row of horses, in places a row of men — thus the many forms. *Hiraṇyaśamyam* — the pegs (*śaṅku*) that are thrust on the shoulders of the horses, at the time of yoking the chariot, to restrain them, are *śamyāḥ*; those, made of gold, are in the chariot. *Bṛhantam* — large, grand. What sort of Savitṛ? *Yajataḥ* — worthy of worship; *citrabhānuḥ* — with rays of many kinds; *kṛṣṇā rajāṃsi* — [looking] to the worlds which are dark-coloured through being full of darkness; *taviṣīm* — his own strength in the form of light, *dadhānaḥ* — bearing, for the removal of that darkness."
+
+**Grammar within the bhāṣya** *(p. 143, characterized)*: *abhīvṛtam* (*abhito vartata ity abhīvṛt*; root *vṛtu vartane*; *kvip*; the lengthening of the first member by *nahivṛtivṛṣivyadhi…* [Pā. 6-3-116, as read]); *viśvarūpam* (*viśvāni rūpāṇi yasyāsau*; *bahuvrīhau viśvaṃ saṃjñāyām* — the first-member final-acute here, by *vyatyaya*, even without a name); *hiraṇyaśamyam* (*haryate gatikāntyoḥ* — *haryater hiran ca* [Uṇ. 3-[?]]: the suffix *kanyan* and the substitution *hiran* for the root; initial-acute by the *nit* accent; first-member accent of a *bahuvrīhi*); *āsthāt* (root *ṣṭhā*, *luṅ*, *sic* dropped by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*); *kṛṣṇā* (root *kṛṣ* in the sense of colour; the Uṇādi sūtra *kṛṣer varṇe* [Uṇ. 3-4, as read] — the suffix *nak*; *śi* dropped by *śeś chandasi bahulam*); *taviṣīm* (the root *tavati* from the *sautra* list; the Uṇādi suffix *iṣac* [*tavater ṇid vā*, Uṇ. 1-[?]], *ṭit*, so *ṅīp*; first-syllable accent by *vyatyaya*, to be seen as of the *vṛṣādi* class); *dadhānaḥ* (*śānac*; *abhyastānām ādiḥ* — first-syllable acute).
+
+**Pratipadārtha** *(p. 143)* — "**yajataḥ** — worthy of worship; **citrabhānuḥ** — endowed with rays of many colours; **savitā** — Savitṛ; **kṛṣṇā rajāṃsi** — the worlds filled with darkness (in order to destroy their darkness); **taviṣīm** — his own strength in the form of light; **dadhānaḥ** — bearing; **abhīvṛtam** — surrounded; **kṛśanaiḥ viśvarūpam** — of many forms, with pictures of elephants and others made of gold; **hiraṇyaśamyam** — having golden pegs (and [thereby] beautiful); **bṛhantam** — large; **ratham** — the chariot; **āsthāt** — has mounted."
+
+**Bhāvārtha** *(p. 144)* — "The Savitṛ-deity, worthy of worship, shining with rays of many colours and destroying the darkness of the dark worlds by his own splendour, has mounted his chariot: a lofty chariot, with a golden pole and pegs for yoking the horses, made of gold and the like, and adorned with all sorts of pictures."
+
+**English Translation (the source's own, p. 144)** — "The adorable Savitri of beautiful splendour having power to disperse darkness from the world has mounted his chariot decorated with many kinds of golden ornaments and furnished with great golden yokes·" *(the print ends with a raised dot where a full stop is expected)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 144**
+- "In this ṛk the ṛṣi describes the chariot of the Sun. The Sun's chariot has golden [front beams — the Kannada word is *mūkīmara*, as I read it [?]]; and the chariot has been made with all kinds of golden ornaments, so that it is delightful with the many pictures all round it — rows of elephants, rows of horses and the like, made of gold. The Savitṛ has mounted such a shining chariot."
+- **abhīvṛtaṃ kṛśanaiḥ viśvarūpam** — "encircled all round with ornaments made of gold and the other metals, and furnished with pictures of many kinds, and so on."
+- **hiraṇyaśamyam** = *aśvānāṃ skandheṣu rathayojanavelāyāṃ niyantuṃ prakṣepyamāṇāḥ śaṅkavaḥ śamyāḥ | suvarṇamayyo rathe vartante*: "a chariot furnished with golden [front-beams] meant for yoking horses" [the Kannada gloss, as printed; the *śamyā* is the yoke-pin of the bhāṣya's own explanation].
+- **citrabhānuḥ** = *atiprakāśayuktaḥ* — "possessing great brightness, *of beautiful spendour* [the print's English, sic]."
+- **kṛṣṇā rajāṃsi** — "worlds with darkness. Before the Sun rises, all the worlds are full of darkness; the Sun rises and lights the worlds with brightness."
+- **taviṣīṃ dadhānaḥ** — "making brightness by his own power…" *(the entry continues on p. 145, to be viewed next)*.
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 141 (PDF 155) reached; Riks 35.1–35.2 complete; Rik 35.3 written through the Special Topics and the start of its grammar page (*pravatā*).**
+---
 
-**Next task:** continue at printed p. 142 (PDF 156) with the rest of Rik 3's grammar, then Rik 4. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 156 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 144 (PDF 158) reached; Riks 35.1–35.3 complete; Rik 35.4 written through the middle of its Special Topics (*taviṣīṃ dadhānaḥ*, which continues on p. 145).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka and Uṇādi numerals are [?] or not read; (4) the *bhuvanāni*, *martyam* and *hiraṇyayena* derivations (Rik 2 grammar) and a phrase of the Rik 3 bhāṣya (*udvatā…*) are partly uncertain.
+**Next task:** continue at printed p. 145 (PDF 159) with the rest of Rik 4's Special Topics and its grammar, then Rik 5. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 159 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka and Uṇādi numerals are [?] or not read; (4) the *bhuvanāni*, *martyam* and *hiraṇyayena* derivations (Rik 2 grammar), a phrase of the Rik 3 bhāṣya (*udvatā…*) and the Kannada word *mūkīmara* (Rik 4) are partly uncertain.
