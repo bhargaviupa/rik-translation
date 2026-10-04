@@ -268,8 +268,77 @@
 
 ---
 
+**Rik 47.3, continued** *(from the foot of p. 9)*
+
+**Sāyaṇa-bhāṣya** *(pp. 9–10)*
+
+> **हे ऋतावृधा यज्ञस्य वर्धकावश्विना मधुमत्तमं सोमं पातं । पिबतं । हे दस्राश्विनौ सोमपानार्थमथास्मदाह्वानानन्तरमद्यास्मिन्नहनि रथे स्वकीये वसु बिभ्रता अस्मदुपयुक्तं धनं धारयन्तौ दाश्वांसं हविष्प्रदं यजमानमुप गच्छतं । समीपे प्राप्नुतम् ॥ बिभ्रता । डुभृञ् धारणपोषणयोः । शतरि जुहोत्यादित्वाच्छपः श्लुः । भृञामित्यभ्यासस्येत्वं । शतुर्जित्त्वाद्गुणाभावे यणादेशः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥**
+
+*he ṛtāvṛdhā yajñasya vardhakāv aśvinā madhumattamaṃ somaṃ pātaṃ | pibataṃ | he dasrāśvinau somapānārtham athāsmadāhvānānantaram adyāsminn ahani rathe svakīye vasu bibhratā asmadupayuktaṃ dhanaṃ dhārayantau dāśvāṃsaṃ haviṣpradaṃ yajamānam upa gacchataṃ | samīpe prāpnutam || bibhratā | ḍubhṛñ dhāraṇapoṣaṇayoḥ | śatari juhotyādittvāc chapaḥ śluḥ | bhṛñām ity abhyāsasyetvaṃ | śator jittvād guṇābhāve yaṇādeśaḥ | abhyastānām ādir ity ādyudāttatvam ||*
+
+**Translation:** "O *ṛtāvṛdhā*, promoters of the sacrifice, O Aśvins, drink the most sweet Soma. O *dasrā*, O Aśvins, for the drinking of Soma, *atha*, after our call, *adya*, today, *rathe*, in your own chariot, *vasu bibhratā*, bearing wealth useful to us, *dāśvāṃsam upa gacchatam*, come near to the sacrificer who offers the oblation, reach (him) close by. *Bibhratā*: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *śatṛ*; *ślu* for *śap* because the root is of the *juhotyādi* class; *i* for the reduplicative syllable by *bhṛñām…*; since *śatṛ* is *jit*, there is no *guṇa*, and *yaṇ*; the initial acute by *abhyastānām ādiḥ*."
+
+**Pratipadārtha** *(p. 10)* — "**ṛtāvṛdhā** — O Aśvin gods, promoters of sacrifice; **madhumattamam** — exceedingly sweet; **somam** — the Soma juice; **pātam** — drink; **dasrā** — O Aśvin gods of delightful form (for drinking the Soma juice); **atha** — after our call; **adya** — today; **rathe** — in your chariot; **vasu** — (useful to us) wealth; **bibhratā** — bearing; **dāśvāṃsam** — the sacrificer who gives the oblation; **upa gacchatam** — approach."
+
+**Bhāvārtha** *(p. 10)* — "O Aśvin gods, promoters of the sacrifice and of delightful form, drink the exceedingly sweet Soma juice. For the drinking of Soma, be pleased to accept our invitation, and, carrying in your chariot wealth that is useful to us, come to the sacrificer who offers the oblation."
+
+**English Translation (the source's own, p. 10)** — "Aswins, encouragers of sacrifice and of pleasing aspects, drink this most sweet soma juice ; approach to-day the giver of the offering, bearing wealth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 10**
+- **ṛtāvṛdhā** — "the explanation of this word is given in the first ṛk of this sūkta. This word is used especially when praising the Aśvin gods."
+- **adya** — "now, or today."
+- **dasrā** — "among the Aśvin gods one is named *dasra* and the other *nāsatya*; though so, here this word is used to indicate both."
+
+**Vyākaraṇa-prakriyā** *(pp. 10–11 — grammar pages, noted briefly)*
+- **bibhratā**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *laṭ*; *laṭaḥ śatṛśānacau* (Pā. 3-2-124 as read [?]) gives *śatṛ* for *laṭ*; *śap*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 as read [?]) gives *ślu* for *śap*; *ślau* (Pā. 6-1-10 as read [?]) gives doubling when *ślu* follows: *bhṛ + bhṛ + at*; *bhṛñām it* (Pā. 7-4-76 as read [?]) — भृञामित् — *i* for the reduplicative syllable of the three roots *bhṛñ*, *māṅ* and *ohāṅ*, when *ślu* follows [the Kannada author says "of the three roots beginning with *bhṛñ*"]; the *i* standing for *ṛ*, *uraṇ raparaḥ* (Pā. 1-1-51) gives it a *repha*: *bhir*; *halādiḥ śeṣaḥ* drops the *r*: *bhi + bhṛ + at*. The suffix *śatṛ* is not *pit* but is *sārvadhātuka*; by *sārvadhātukam apit* (Pā. 1-2-4 as read) a *sārvadhātuka* that is not *pit* is *ṅit*, so *śatṛ* acts as *ṅit*; therefore, by *kṅiti ca* (Pā. 1-1-5 as read), the *guṇa* that would arise through *gi*, *ki* or *ṅit* suffixes as cause is forbidden, and *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84 as read) gives no *guṇa*; *iko yaṇaci* gives *yaṇ*: *ṛ* → *r*; in the nominative dual the *au* takes *ā* by *supāṃ suluk…* (Pā. 7-1-39 as read): *bibhratā*.
+- *abhyastānām ādiḥ* (Pā. 6-1-189 as read) — the *sārvadhātuka* suffix coming in place of *l*, beginning with a vowel and not being *iṭ*: the first of the repeated word is acute — here *at* is a vowel-initial *laḥ-sthānika sārvadhātuka*; *bibhṛ* is *abhyasta*, its first *bhi* is acute. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 in progress: printed p. 9 (PDF 25) reached; introduction, heading and Riks 47.1–47.2 complete; Rik 47.3's Saṃhitā and Pada written (its bhāṣya begins at the foot of p. 9 and continues on p. 10).**
+### Rik 47.4 (pp. 11–13, PDF 27–29)
 
-**Next task:** continue at printed p. 9 foot / p. 10 (PDF 25–26) with the bhāṣya of Rik 47.3 (read it afresh from the print: the first two lines are at the foot of PDF 25), then Riks 4–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 25 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (file names zero-padded, `w-025.jpg`). Flags for 47.2: Ṛgveda references "as read [?]"; the grammar page spells *tribandhura* with b, the Saṃhitā/Pada with v (given as printed); the *śṛṇutam* note crowded in one clause. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 11; accents not reproduced)*
+
+> **त्रिषधस्थे बर्हिषि विश्ववेदसा मध्वा यज्ञं मिमिक्षतम् ।**
+> **कण्वासो वां सुतसोमा अभिद्यवो युवां हवन्तेऽश्विना ॥ ४ ॥**
+
+*triṣadhasthe barhiṣi viśvavedasā madhvā yajñaṃ mimikṣatam |*
+*kaṇvāso vāṃ sutasomā abhidyavo yuvāṃ havante 'śvinā || 4 ||*
+
+**Pada-pāṭha** *(p. 11)*
+
+> त्रिऽसधस्थे । बर्हिषि । विश्वऽवेदसा । मध्वा । यज्ञम् । मिमिक्षतम् ।
+> कण्वासः । वाम् । सुतऽसोमाः । अभिऽद्यवः । युवाम् । हवन्ते । अश्विना ॥ ४ ॥
+
+*tri-sadhasthe | barhiṣi | viśva-vedasā | madhvā | yajñam | mimikṣatam |*
+*kaṇvāsaḥ | vām | suta-somāḥ | abhi-dyavaḥ | yuvām | havante | aśvinā || 4 ||*
+
+*(The Saṃhitā prints the first word* triṣadhasthe*, the Pada* tri-sadhasthe*: the* s *becomes* ṣ *by sandhi.)*
+
+**Sāyaṇa-bhāṣya** *(p. 12)*
+
+> **हे विश्ववेदसा सर्वज्ञावश्विनौ त्रिषधस्थे [कर्माश्रय]त्रयरूपेणास्तीर्णतया [?] त्रिषु स्थानेष्ववस्थिते बर्हिषि दर्भे स्थित्वा मध्वा मधुरेण रसेन यज्ञं मिमिक्षतं । सेक्तुमिच्छतं । हे अश्विना वां युष्मदर्थं सुतसोमा अभिषुतसोमयुक्ता अभिद्यवोऽभिगतदीप्तयः कण्वासो युवामुभौ हवन्ते । आह्वयन्ते ॥ त्रिषधस्थे । त्रिषु स्थानेषु सह तिष्ठतीति त्रिसधस्थं बर्हिः । सुपि स्थ इति कप्रत्ययः । आतो लोप इटि चेत्याकारलोपः । सध मादस्थयोश्छन्दसि । पा. ६-३-९६ । इति सहशब्दस्य सधादेशः । मध्वा । आगमानुशासनस्यानित्यत्वान्नुमभावः । जसि चेत्यत्र जसादिषु छन्दसि वावचनं । पा. ७-३-१०९-१ [?] । इति वचनान्नाभावाभावश्च । मिमिक्षतं । मिह सेचने । सन्येकाच इतीट्प्रतिषेधः । हलन्ताच्चेति सनः कित्त्वाल्लघूपधगुणाभावः । अभ्यासहलादिशेषौ । ढत्वकुत्वषत्वानि । सुतसोमाः । सुतः सोमो यैः । बहुव्रीहिस्वरः । अभिद्यवः । द्युरिति [अहर्]नाम [?] । तेन तत्सम्बन्धी प्रकाशो लक्ष्यते । अभिगता द्युं । अत्यादयः क्रान्ताद्यर्थे द्वितीयया । म. २-२-१८-४ [?] । इति समासः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥**
+
+*he viśvavedasā sarvajñāv aśvinau triṣadhasthe [karmāśraya]trayarūpeṇāstīrṇatayā [?] triṣu sthāneṣv avasthite barhiṣi darbhe sthitvā madhvā madhureṇa rasena yajñaṃ mimikṣataṃ | sektum icchataṃ | he aśvinā vāṃ yuṣmadarthaṃ sutasomā abhiṣutasomayuktā abhidyavo 'bhigatadīptayaḥ kaṇvāso yuvām ubhau havante | āhvayante || triṣadhasthe | triṣu sthāneṣu saha tiṣṭhatīti trisadhasthaṃ barhiḥ | supi stha iti kapratyayaḥ | āto lopa iṭi cety ākāralopaḥ | sadha mādasthayoś chandasi | pā. 6-3-96 | iti sahaśabdasya sadhādeśaḥ | madhvā | āgamānuśāsanasyānityatvān numabhāvaḥ | jasi cety atra jasādiṣu chandasi vāvacanaṃ | pā. 7-3-109-1 [?] | iti vacanān nābhāvābhāvaś ca | mimikṣataṃ | miha secane | sanyekāca itīṭpratiṣedhaḥ | halantāc ceti sanaḥ kittvāl laghūpadhaguṇābhāvaḥ | abhyāsahalādiśeṣau | ḍhatvakutvaṣatvāni | sutasomāḥ | sutaḥ somo yaiḥ | bahuvrīhisvaraḥ | abhidyavaḥ | dyur itīty [ahar]nāma [?] | tena tatsambandhī prakāśo lakṣyate | abhigatā dyuṃ | atyādayaḥ krāntādyarthe dvitīyayā | ma. 2-2-18-4 [?] | iti samāsaḥ | avyayapūrvapadaprakṛtisvaratvam ||*
+
+*(Crowded: the words after* triṣadhasthe *("karmāśraya-trayarūpeṇa…"), and* dyur iti … nāma*, which reads like "dhyur ita harnāma", perhaps "dyur ity ahar nāma"; the Pāṇini and Mahābhāṣya-style numerals; all [?].)*
+
+**Translation:** "O *viśvavedasā*, omniscient Aśvins, *triṣadhasthe*, on the *barhis*, the *darbha* grass that is laid out in the form of three [?] and stands in three places, sitting, *madhvā*, with the sweet juice, *yajñam mimikṣatam*, wish to sprinkle the sacrifice. O Aśvins, *vām*, for you, *kaṇvāsaḥ*, the Kaṇvas, *sutasomāḥ*, with Soma pressed, *abhidyavaḥ*, of resplendent brightness, *yuvām*, you both, *havante*, call. *Triṣadhasthe*: 'the *barhis* which stays together in three places'; the suffix *ka* by *supi sthaḥ*; the *ā* drops by *āto lopa iṭi ca*; *sadha* for *saha* in the Chandas by *sadha mādasthayoś chandasi* (Pā. 6-3-96); *madhvā*: because the rule for augments is not invariable, the *num* does not come; the option (*vā*) in the Chandas for the *jas*-and-other endings; *mimikṣatam*: root *miha secane*; no *iṭ* by *sany ekāca…*; *san* is *kit* by *halantāc ca*, so no *guṇa* of the light penultimate; the reduplication and the remaining consonant; *ḍhatva*, *kutva*, *ṣatva*; *sutasomāḥ*: 'those by whom Soma is pressed', a bahuvrīhi; *abhidyavaḥ*: *dyu* is a name for … ['day', *ahar* [?]], by which the light connected with it is indicated; 'those who have gone to *dyu*'; the compound of *ati* etc. with the accusative in the sense of 'gone to' (Ma. 2-2-18 [?]); the accent of an indeclinable first member."
+
+**Pratipadārtha** *(p. 12)* — "**viśvavedasā** — O Aśvin gods, who know all; **triṣadhasthe** — in the three places; **barhiṣi** — on the *darbha* seat; **madhvā** — with the sweet juice; **yajñam** — the sacrifice; **mimikṣatam** — wish to sprinkle; **aśvinā** — O Aśvin gods; **vām** — you two; **sutasomāḥ** — holding the pressed Soma juice; **abhidyavaḥ** — with brightness; **kaṇvāsaḥ** — the sons of Kaṇva or the wise priests; **yuvām** — you two; **havante** — call with prayer."
+
+**Bhāvārtha** *(p. 12)* — "O all-knowing Aśvin gods, for you to sit, the *darbha* seats have been made ready in three places, one after another. Sitting on them, wish to sprinkle the sacrifice with the sweet juice. O gods, the Kaṇvas, the sons of Kaṇva or wise priests, who are radiant, hold the pressed Soma juice and call you both with prayers."
+
+**English Translation (the source's own, p. 12)** — "Omniscient Aswins, sitting on the thrice heaped kusa grass, sprinkle the sacrifice with the sweet (soma) juice; the bright Kanwas having extracted the soma juice are invoking you."
+
+*(The Special Topics and grammar of Rik 4 begin on p. 13, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 in progress: printed p. 12 (PDF 28) reached; introduction, heading and Riks 47.1–47.3 complete; Rik 47.4's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English are written; its Special Topics and grammar begin on p. 13 and are NOT yet written.**
+
+**Next task:** continue at printed p. 13 (PDF 29): insert "**Rik 47.4, continued** *(from p. 13)*" with the Special Topics and grammar of Rik 4; then Riks 5–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 29 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-029.jpg`). Flags for 47.3–4: sūtra numerals "as read [?]"; in 47.4 the words after *triṣadhasthe* in the bhāṣya, and "dyur iti … nāma", and the Mahābhāṣya-style number are crowded [?]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
