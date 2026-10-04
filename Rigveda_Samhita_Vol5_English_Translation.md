@@ -2413,8 +2413,131 @@
 
 ---
 
+**Rik 50.7, continued** *(from p. 128)*
+
+**Special Topics, continued (p. 128)** — "Yāska's Nirukta on this ṛk" (**untranslated in the source**; reference not given in the print at this place):
+
+> **व्येषि द्यां रजश्च पृथु महान्तं लोकमहानि च विमानोऽक्तुभी रात्रिभिः सह पश्यञ्जन्मानि जातानि सूर्य ॥** *(Ni. [reference not legible] [?])*
+
+*vyeṣi dyāṃ rajaś ca pṛthu mahāntaṃ lokam ahāni ca vimāno 'ktubhī rātribhiḥ saha paśyañ janmāni jātāni sūrya ||* — mine and tentative: "You go through the heaven and the wide, great expanse, the world, and the days, measuring them out with the nights, seeing the born beings, O Sūrya." "There is no difference between the commentator's explanation and Yāska's explanation."
+
+**Vyākaraṇa-prakriyā** *(pp. 128 — grammar page, noted briefly)*
+- **rajaspṛthu**: *rajaḥ pṛthu*; *chandasi vāprāpremyāḍitayoḥ* [? as read: *chandasi vāprapremāḍitayoḥ*] (Pā. 8-3-49 as read [?]) — except for *pra* and a word in *āmreḍita*, in the Chandas the *visarga* optionally becomes *s* before a *ku*- or *pu*-letter; so, since a *p* follows, the *upadhmānīya* is set aside and the *visarga* becomes *s*: *rajaspṛthu*.
+- **ahā**: after *ahan*, the accusative plural *śas*; for a neuter, *śas* → *śi* by *jaśśasoḥ śiḥ*; *śi* has the *sarvanāmasthāna* name, so the penultimate of the *n*-ending *aṅga* is lengthened before it; *ahān + i*; *śeś chandasi bahulam* (Pā. 6-1-70 as read) drops *śi* variously; the *n*-loss by *nalopaḥ prātipadikāntasya* does not come; so *ahā*.
+- **mimānaḥ**: root *māṅ māne*, *juhotyādi*, with an *ñit*-marker, so *ātmanepada*; *laṭaḥ śatṛśānacau* gives *śānac*; *ślu* for the *vikaraṇa*; doubling by *ślau*; *mā + mā + āna*; *bhṛñām it* (Pā. 7-4-76 as read) gives *i* for the reduplicative syllable of *bhṛñ, māṅ, ohāṅ* before *ślu*: *mimā + āna*; *śnābhyastayor ātaḥ* (Pā. 6-4-112 as read) drops the *ā* of the root: *mimāna*; *abhyastānām ādiḥ* (Pā. 6-1-189 as read) gives the initial acute of the *abhyasta* when a vowel-initial *lasārvadhātuka* that is not *iṭ* follows; so here, *śānac* being *lasārvadhātuka*, the root's accent is overridden and the initial is acute; *mimānaḥ* is initial-acute.
+- **janmāni**: root *janī prādurbhāve*, *divādi*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read) gives *manin*; *janman*; accusative plural *śas* → *śi* in the neuter; the penultimate lengthened by *sarvanāmasthāne cāsambuddhau*: *janmāni*; *manin* is *nit*, so initial-acute by *ñnityādir nityam*: *janmāni* is initial-acute. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 127 (PDF 143) reached; title, introduction, heading and Riks 50.1–50.6 complete; Rik 50.7's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics are written; its grammar begins on p. 128 and is NOT yet written.**
+### Rik 50.8 (pp. 129–130, PDF 145–146)
 
-**Next task:** continue at printed p. 128 (PDF 144): insert "**Rik 50.7, continued** *(from p. 128)*" with the Vyākaraṇa-prakriyā of Rik 7; then Riks 8–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 144 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-144.jpg`). Flags for 50.5–7: the Nirukta citations (esp. the one on *bhuraṇyu* in 50.6, doubtful) and the Taittirīya citations have glosses mine and tentative; numerals "as read [?]"; 50.7's *rajaspṛthu* sandhi clause crowded. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 129; accents not reproduced)*
+
+> **सप्त त्वा हरितो रथे वहन्ति देव सूर्य ।**
+> **शोचिष्केशं विचक्षण ॥ ८ ॥**
+
+*sapta tvā harito rathe vahanti deva sūrya |*
+*śociṣkeśaṃ vicakṣaṇa || 8 ||*
+
+**Pada-pāṭha** *(p. 129)*
+
+> सप्त । त्वा । हरितः । रथे । वहन्ति । देव । सूर्य ।
+> शोचिःऽकेशम् । विऽचक्षण ॥ ८ ॥
+
+*sapta | tvā | haritaḥ | rathe | vahanti | deva | sūrya |*
+*śociḥ-keśam | vi-cakṣaṇa || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 129)*
+
+> **हे सूर्य देव द्योतमान विचक्षण सर्वस्य प्रकाशयितः सप्त सप्तसंख्याका हरितोऽश्वा रसहरणशीला रश्मयो वा त्वा त्वां वहन्ति । प्रापयन्ति । कीदृशं । रथेऽवस्थितमिति शेषः । तथा शोचिष्केशं । शोचींषि तेजांस्येव यस्मिन्केशा इव दृश्यन्ते स तथोक्तः । तं । हरित इत्यादित्याश्वानां संज्ञा । हरित आदित्यस्येति निघण्टावुक्तत्वात् ॥ शोचिष्केशं । शुच दीप्तौ । अर्चिशुचिहृसृपिछादिछर्दिभ्य इसिः । उ. २-१०८ [?] । इसिप्रत्ययान्तोऽन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते । नित्यं समासेऽनुत्तरपदस्थस्येति विसर्जनीयस्य षत्वम् ॥**
+
+*he sūrya deva dyotamāna vicakṣaṇa sarvasya prakāśayitaḥ sapta saptasaṃkhyākā harito 'śvā rasaharaṇaśīlā raśmayo vā tvā tvāṃ vahanti | prāpayanti | kīdṛśaṃ | rathe 'vasthitam iti śeṣaḥ | tathā śociṣkeśaṃ | śociṃṣi tejāṃsy eva yasmin keśā iva dṛśyante sa tathoktaḥ | taṃ | harita ity ādityāśvānāṃ saṃjñā | harita ādityasyeti nighaṇṭāv uktatvāt || śociṣkeśaṃ | śuca dīptau | arciśucihṛsṛpichādichardibhya isiḥ | u. 2-108 [?] | isipratyayānto 'ntodāttaḥ | sa eva bahuvrīhau pūrvapadaprakṛtisvaratvena śiṣyate | nityaṃ samāse 'nuttarapadasthasyeti visarjanīyasya ṣatvam ||*
+
+*(Crowded: "rasaharaṇaśīlā" and the Uṇādi number; as read, [?].)*
+
+**Translation:** "O Sūrya, O shining god, O *vicakṣaṇa*, illuminer of all: *sapta*, seven, *haritaḥ*, the horses, or the rays that draw up the sap, *tvā vahanti*, bear you — as you stand in the chariot (the words understood). And *śociṣkeśam*, he in whom the flames, the splendours, are seen as it were as hair. *Harit* is a name of the Sun's horses, as the Nighaṇṭu says: '*harita* is the Āditya's'. *Śociṣkeśam*: root *śuca dīptau*; the Uṇādi *isi* suffix (Uṇ. 2-108 [?]), end-acute; this alone remains in the bahuvrīhi by the first member's natural accent; *ṣatva* of the *visarga* in a compound by *nityaṃ samāse 'nuttarapadasthasya*."
+
+**Pratipadārtha** *(p. 129)* — "**deva** — O shining one; **vicakṣaṇa** — who make all shine; **sūrya** — O god Sūrya; **rathe** — seated in the chariot; **śociṣkeśam** — whose hair is of flames, endowed with locks of splendour; **tvā** — you; **sapta haritaḥ** — seven horses called *harit*, or the rays that draw up water; **vahanti** — bear."
+
+**Bhāvārtha** *(p. 129)* — "O god Sūrya, you shine by yourself and make everything shine. Your splendours are like locks of hair for you. Seven horses named *harit*, or the rays that draw up the sap, bear you as you sit in your chariot."
+
+**English Translation (the source's own, p. 130)** — "Divine and light-spreading Surya, your seven horses (mares) bear you bright-haired in your car."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 130**
+- **sapta haritaḥ** — "the Sun's chariot has seven horses. These horses are well known as of green-tawny colour. As Yāska says '*harita ādityasya*' (Ni. 1-[?]7 as read), the horses of the Sun are called *haritaḥ*. Since *haritaḥ* also means rays, the rays of the Sun are themselves spoken of as the horses of the Sun. Some say that the seven days of the week are the seven horses." — **untranslated in the source**:
+
+  > **हरित आदित्यस्य ।** *(Ni. 1-[?]7 as read [?])*
+
+  *harita ādityasya |* — mine and tentative: "the *haritas* (tawny ones) are the Āditya's."
+- **śociṣkeśam** — "*śuca dīptau*; *śociṃṣi tejāṃsy eva yasmin keśā iva dṛśyante sa śociṣkeśaḥ*: since the bright rays of the Sun are seen like hair, the poet describes the Sun as *śociṣkeśa*, 'having locks of shining splendour', in order to say that he has shining rays."
+
+**Vyākaraṇa-prakriyā** *(p. 130 — grammar page, noted briefly)*
+- **vahanti**: root *vaha prāpaṇe*, *bhvādi*; third person plural: *vahanti*; the *tiṅ* is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*; *śap* being *pit* is unaccented; the end-acute of the root remains.
+- **śociṣkeśam**: root *śuca dīptau*, *bhvādi*; *arciśucihṛsṛpichādichardibhya isiḥ* (Uṇ. 2-[?]08 as read [?]) gives *isi*; *guṇa* of the root's penultimate; *śociṣ* → *śociḥ* with *ru* and *visarga*; end-acute by the suffix-accent. "*Śociṃṣi keśāḥ yasya saḥ*": a bahuvrīhi; *nityaṃ samāse 'nuttarapadasthasya* (Pā. 8-3-45 as read) gives *ṣatva* to the *visarga* of the first member's *is* before a *ku*-letter, always in a compound; accusative singular: *śociṣkeśam*; since it is a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read) gives the first member's natural accent, overriding the compound-accent; the *i* after *c* is acute, and the unaccented after it becomes *svarita*. **|| 8 ||**
+
+*(A printer's ornament at the foot of p. 130 closes the page; no varga-end note is printed there.)*
+
+---
+
+### Rik 50.9 (pp. 131–134, PDF 147–150)
+
+**Saṃhitā-pāṭha** *(p. 131; accents not reproduced)*
+
+> **अयुक्त सप्त शुन्ध्युवः सूरो रथस्य नप्त्यः ।**
+> **ताभिर्याति स्वयुक्तिभिः ॥ ९ ॥**
+
+*ayukta sapta śundhyuvaḥ sūro rathasya naptyaḥ |*
+*tābhir yāti svayuktibhiḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 131)*
+
+> अयुक्त । सप्त । शुन्ध्युवः । सूरः । रथस्य । नप्त्यः ।
+> ताभिः । याति । स्वयुक्तिऽभिः ॥ ९ ॥
+
+*ayukta | sapta | śundhyuvaḥ | sūraḥ | rathasya | naptyaḥ |*
+*tābhiḥ | yāti | svayukti-bhiḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 131)*
+
+> **सूरः सर्वस्य प्रेरकः सूर्यः शुन्ध्युवः शोधिका अश्वस्त्रियः तादृशीः सप्त सप्तसंख्याका आयुक्त स्वरथे योजितवान् । कीदृश्यः । रथस्य नप्त्यः न पातयित्र्यः । याभिर्युक्ताभी रथो याति न पतति तादृशीभिरित्यर्थः । एवंभूताभिस्ताभिरश्वस्त्रीभिः स्वयुक्तिभिः स्वकीययोजनेन रथे संबद्धाभिर्याति । यज्ञगृहं प्रत्यागच्छति । अतस्तस्मै हविर्दातव्यमिति वाक्यशेषः ॥ आयुक्त । युजिर् योगे । स्वरितेत्वात्कर्त्रभिप्राय आत्मनेपदं । लुङि च्लेः सिच् । एकाच इतीट्प्रतिषेधः । लिङ्सिचावात्मनेपदेषु । पा. १-२-११ । इति सिचः कित्त्वाल्लघूपधगुणाभावः । झलो झलीति सिचः सकारलोपः । चोः कुरिति कुत्वं । शुन्ध्युवः । शुन्ध विशुद्धौ । यजिमनिशुन्धिदसिजनिभ्यो युः । उ. ३-२० [?] । इति युप्रत्ययः । शसि तन्नादीनां छन्दसि बहुलमुपसंख्यानं । पा. ६-४-८८-१ [?] । इत्युवजादेशः । सूरः । षू प्रेरणे । सुसूधागृधिभ्यः क्रन् । उ. २-२४ [?] । इति क्रन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । नप्त्यः । न पातयतीत्यर्थे नप्तृनेष्टृ… । उ. २-९६ [?] । इत्यादिनोणादिषु नप्तृशब्दस्त्यजन्तो निपातितः । यन्नेभ्यो ङीबिति ङीप् । यणादेश उदात्तयणो हल्पूर्वादिति ङीप उदात्तत्वं । सुपां सुपो भवन्तीति शसो जसादेशः । ततो यणादेश उदात्तस्वरितयोर्यणः इति स्वरितत्वं । रेफलोपश्छान्दसः । उक्तं च । द्वौ चापरा वर्णविकारनाशौ । का. ६-३-१०९ [?] । इति । शाखान्तरे तु नप्त्र्यै इत्येव पठ्यते । स्वयुक्तिभिः । स्वकीयाः सूर्यसंबन्धिन्यो युक्तयो योजनानि यासां । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं ॥**
+
+*sūraḥ sarvasya prerakaḥ sūryaḥ śundhyuvaḥ śodhikā aśvastriyaḥ tādṛśīḥ sapta saptasaṃkhyākā āyukta svarathe yojitavān | kīdṛśyaḥ | rathasya naptyaḥ na pātayitryaḥ | yābhir yuktābhī ratho yāti na patati tādṛśībhir ity arthaḥ | evaṃbhūtābhis tābhir aśvastrībhiḥ svayuktibhiḥ svakīyayojanena rathe saṃbaddhābhir yāti | yajñagṛhaṃ pratyāgacchati | atas tasmai havir dātavyam iti vākyaśeṣaḥ || āyukta | yujir yoge | svaritettvāt kartrabhiprāya ātmanepadaṃ | luṅi cleḥ sic | ekāca itīṭpratiṣedhaḥ | liṅsicāv ātmanepadeṣu | pā. 1-2-11 | iti sicaḥ kittvāl laghūpadhaguṇābhāvaḥ | jhalo jhalīti sicaḥ sakāralopaḥ | coḥ kur iti kutvaṃ | śundhyuvaḥ | śundha viśuddhau | yajimaniśundhidasijanibhyo yuḥ | u. 3-20 [?] | iti yupratyayaḥ | śasi tannādīnāṃ chandasi bahulam upasaṃkhyānaṃ | pā. 6-4-88-1 [?] | ity uvajādeśaḥ | sūraḥ | ṣū preraṇe | susūdhāgṛdhibhyaḥ kran | u. 2-24 [?] | iti kranpratyayaḥ | nittvād ādyudāttatvaṃ | naptyaḥ | na pātayatīty arthe naptṛneṣṭṛ… | u. 2-96 [?] | ity ādinoṇādiṣu naptṛśabdas tyajanto nipātitaḥ | yanebhyo ṅīb iti ṅīp | yaṇādeśa udāttayaṇo halpūrvād iti ṅīpa udāttatvaṃ | supāṃ supo bhavantīti śaso jasādeśaḥ | tato yaṇādeśa udāttasvaritayor yaṇaḥ iti svaritatvaṃ | rephalopaś chāndasaḥ | uktaṃ ca | dvau cāparā varṇavikāranāśau | kā. 6-3-109 [?] | iti | śākhāntare tu naptryai ity eva paṭhyate | svayuktibhiḥ | svakīyāḥ sūryasaṃbandhinyo yuktayo yojanāni yāsāṃ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ ||*
+
+*(Crowded stretch: the root-list of the Uṇādi rule* naptṛneṣṭṛ… *(the print gives it only as "naptṛnesṭṛ…", an unfinished list), the Uṇādi and Kāśikā numbers, and the clause on* naptyaḥ*'s* ṅīp *and loss of* r*; as read, [?]. The word* nitye *in the print's* "ṇ-ādi" is as I read it. Note: the print reads "uṇādiṣu naptṛśabdas tyajanto" for "naptṛ-śabda ṛdantaḥ" [?]; given as printed.)*
+
+**Translation:** "*Sūraḥ*, the Sun, the impeller of all, *ayukta*, has yoked to his own chariot *sapta śundhyuvaḥ*, seven purifying mares. Of what kind? *Rathasya naptyaḥ*, those that do not let the chariot fall: with those yoked, the chariot goes and does not fall. *Tābhiḥ svayuktibhiḥ*, by those mares attached to the chariot by their own yoking, he goes — he comes to the sacrificial house. Therefore the oblation is to be offered to him (the remainder of the sentence). *Āyukta*: root *yujir yoge*; the *ātmanepada* because the agent has the fruit in view; *sic* for *cli*; no *iṭ*; since *sic* is *kit* by *liṅsicāv ātmanepadeṣu*, no *guṇa*; the *s* of *sic* drops by *jhalo jhali*; *kutva* by *coḥ kuḥ*. *Śundhyuvaḥ*: root *śundha viśuddhau*; the Uṇādi suffix *yu* (Uṇ. 3-20 [?]); in the accusative plural, *uv* is substituted, the *tannādi* words being in the Chandas varied. *Sūraḥ*: root *ṣū preraṇe*; *kran* (Uṇ. 2-24 [?]); initial-acute because *nit*. *Naptyaḥ*: 'those who do not cause to fall'; the word *naptṛ* is given by *nipātana* among the Uṇādi words; *ṅīp*; the *yaṇ*; the acute of *ṅīp* by *udāttayaṇo hal pūrvāt*; *jas* for *śas*; the *r* is dropped in the Chandas; as it is said, 'two other things, change and loss of a letter' (Kāśikā 6-3-109 [?]); in another recension the reading is *naptryai*. *Svayuktibhiḥ*: 'those whose yokings are their own, connected with the Sun'; bahuvrīhi, so the first member's natural accent."
+
+**Pratipadārtha** *(pp. 131–132)* — "**sūraḥ** — the Sun who impels all; **rathasya naptyaḥ** — (while travelling) that do not let the chariot fall; **sapta śundhyuvaḥ** — seven pure mares; **ayukta** — has yoked (to the chariot); **svayuktibhiḥ** — the ones that have themselves come to be yoked to the chariot; **tābhiḥ** — with the help of those mares; **yāti** — he comes to the sacrificial house (therefore the oblation is to be offered to him)."
+
+**Bhāvārtha** *(p. 132)* — "The god Sūrya, the impeller of all, has yoked seven mares to his chariot. However fast they carry the chariot, they do not let it fall, but carry it safely. These pure mares have, of themselves, come to be yoked to the chariot. With the help of these mares the Sun comes to the sacrificial house; therefore the oblation is to be offered to him."
+
+**English Translation (the source's own, p. 132)** — "The sun has yoked the seven horses that safely draw his chaiot [sic] and comes with those self-harnessed horses."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 132**
+- **śundhyuvaḥ** — "*śundha viśuddhau*; *śundhyur ādityo bhavati śodhanāt*, (Ni. 4-[?]1 as read): since he purifies all, the Āditya is called *śundhyu*. The horses connected with that *śundhyu* are called *śundhyuvaḥ*. Or *śundhyuvaḥ* are the rays that purify all." — **untranslated in the source**:
+
+  > **शुन्ध्युरादित्यो भवति शोधनात् । तस्य स्वभूताः ॥** *(Ni. 4-[?]1 as read [?]; the print's text is partly crowded)*
+
+  *śundhyur ādityo bhavati śodhanāt | tasya svabhūtāḥ ||* — mine and tentative: "the Āditya is *śundhyu* from 'purifying'; [they are] his own."
+- **sūraḥ** — "*sarvasya prerakaḥ sūryaḥ*: the Sun who impels all."
+- **naptyaḥ** — "*na pātayitryaḥ*: those who do not let [the chariot] fall; since, with these mares yoked, the chariot goes smoothly without falling, these mares are *naptyaḥ*, those that do not let the chariot go to ruin."
+- **svayuktibhiḥ** — "*svakīyayojanena rathe saṃbaddhābhiḥ*; *svayam eva ye rathe yujyante tāḥ svayuktayaḥ*: those that of themselves yoke themselves, without another's help, to the Sun's chariot. The same idea is indicated in the case of Indra's horses called *hari*."
+- **ayukta** — "has yoked (to the chariot)"; **tābhiḥ** — "with the help of those mares"; **yāti** — "he comes to the sacrificial house (therefore the oblation is to be given to him)".
+
+**Vyākaraṇa-prakriyā** *(pp. 132–134 — grammar pages, noted briefly so far)*
+- **āyukta**: root *yujir yoge*, *rudhādi*, with *svarita*-marker *ir* and *ñit*-nature; *svaritañitaḥ kartrabhiprāye kriyāphale* (Pā. 1-3-72 as read) gives the *ātmanepada* when the fruit of the action goes to the agent — here the fruit of the activity, shown by the sense of the root, goes to the agent, the Sun; *luṅ*, third person singular *ta*; *yuj + ta*; *cli*, *cleḥ sic*; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10 as read) forbids *iṭ* before the *ārdhadhātuka* *sic*, a *val*-initial; *pugantalaghūpadhasya ca* would give *guṇa*; but *liṅsicāv ātmanepadeṣu* (Pā. 1-2-11 as read) makes a *liṅ* and a *sic* standing after the *ātmanepada* suffix *kit* when what precedes ends in a consonant after a vowel; here the consonant is *j* after *u*, and *sic* is followed by the *ātmanepada* *ta*, so *sic* is *kit*; *kṅiti ca* forbids *guṇa*; *jhalo jhali* (Pā. 8-2-26 as read) drops the *s* of *sic* when a *jhal* follows; *coḥ kuḥ* (Pā. 8-2-30 as read) gives *g* for *j*, *khari ca* (Pā. 8-4-55 as read) gives *k*; the *aṭ* augment, which *luṅ* causes, comes to the *aṅga*: *āyukta* (with the prefix *ā*? — the print's form is *ayukta*); because the word *ayukta* has no *yad* (relative) in its sentence, there is no all-unaccented prohibition; the accent is the root-accent: initial-acute.
+- **śundhyuvaḥ**: root *śundha viśuddhau*, *bhvādi*; *yajimaniśundhidasijanibhyo yuḥ* (Uṇ. 3-[?]00 as read [?]) gives *yu*; then *śundhyu*, a stem in *u*; in the accusative plural *śas*, the homogeneous lengthening would be obtained, but *tenādīnāṃ chandasi bahulam upasaṃkhyānam* (Pā. 6-4-88 vārttika, as read "6-4-88 vā. 1" [?]) gives *uvaṅ* in its place: *śundhyu + uv + as*; *ru*, *visarga*: *śundhyuvaḥ*.
+- **sūraḥ**: root *ṣū preraṇe*, *tudādi*; *dhātvādeḥ ṣaḥ saḥ* (Pā. 6-1-64 as read) makes the *ṣ* of the root *s*; *susūdhāgṛdhibhyaḥ kran* (Uṇ. 2-[?]34 as read [?]) gives the suffix *kran*; only *ra* remains: *sūra*; since *kran* is *nit*, *ñnityādir nityam* (Pā. 6-1-197 as read) gives the initial acute: *sūraḥ* is initial-acute.
+- **naptyaḥ**: "*na pātayati*", one who does not cause to fall; *naptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛprāśāstṛ* (Uṇ. 2-[?]95 as read [?]) — the word *naptṛ* is given by *nipātana* among the Uṇādi words, as ending in *tṛc*; for the feminine, *ṛnnebhyo ṅīp* (Pā. 4-1-5 as read) gives *ṅīp*; *naptṛ + ī*; *yaṇ*: *naptr + ī*; *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read) is the rule on the acute… *(the Kannada author's treatment of the loss of the* r *and of the case-ending continues on p. 133–134, to be written with the next batch)*.
+
+*(The rest of the grammar of Rik 9 — the end of* naptyaḥ *and* svayuktibhiḥ *— is on p. 134 and is not yet written; the sūkta continues with Rik 10 on p. 134.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 133 (PDF 149) reached; title, introduction, heading and Riks 50.1–50.8 complete; Rik 50.9's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar of *āyukta*, *śundhyuvaḥ*, *sūraḥ* and the beginning of *naptyaḥ* are written; the rest of its grammar (end of *naptyaḥ*, *svayuktibhiḥ*) is at the foot of p. 133 / p. 134 and is NOT yet written.**
+
+**Next task:** continue at printed p. 133 foot / p. 134 (PDF 149–150): insert "**Rik 50.9, continued** *(from p. 133)*" with the rest of the grammar of Rik 9, then Riks 10–13 (Anuṣṭubh) and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 149 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-149.jpg`). Flags for 50.7–9: Nirukta references and the Yāska passage in 50.7 unnumbered in the print; *naptyaḥ* Uṇādi rule-name list unfinished in the print; the source's English in 50.9 has "chaiot" [sic]; the print's Rik 9 Saṃhitā/Pada verb is *ayukta* where the bhāṣya's gloss and my tail wrote *āyukta* (kept as printed in the Rik, the tail's "āyukta" is the print's). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
