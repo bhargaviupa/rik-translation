@@ -9840,8 +9840,136 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 46.4 (pp. 580–583, PDF 594–597)
+
+**Saṃhitā-pāṭha** *(p. 580; accents not reproduced)*
+
+> **हविषा जारो अपां पिपर्ति पपुरिर्नरा ।**
+> **पिता कुटस्य चर्षणिः ॥ ४ ॥**
+
+*haviṣā jāro apāṃ pipartti papurir narā |*
+*pitā kuṭasya carṣaṇiḥ || 4 ||*
+
+*(The Saṃhitā runs* papurir narā*, as the Pada's* papuriḥ | narā *shows; the Saṃhitā's printed spacing is* papurirnarā*.)*
+
+**Pada-pāṭha** *(p. 580)*
+
+> हविषा । जारः । अपाम् । पिपर्ति । पपुरिः । नरा ।
+> पिता । कुटस्य । चर्षणिः ॥ ४ ॥
+
+*haviṣā | jāraḥ | apām | pipartti | papuriḥ | narā |*
+*pitā | kuṭasya | carṣaṇiḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 580)*
+
+> **हे अश्विनौ देवौ अपां जारः स्वकीयतापेनोदकानां जरयिता सूर्यो हविषास्मद्दत्तेन पिपर्ति । देवान्प्रीणयति । उदिते सूर्ये हविःप्रदानात्सूर्यस्य पूरकत्वं द्रष्टव्यं । अतः सूर्योदयकाले युवाभ्यामागन्तव्यमित्यर्थः । कीदृशो जारः । पपुरिरुक्तक्रमेण पूरणस्वभावः पिता पालकः कुटस्य चर्षणिः कर्मणो द्रष्टा । अत्र निरुक्तं । हविषापां जरयिता पिपर्ति पपुरिति पृणातिनिगमौ वा प्रीणातिनिगमौ वा पिता कृतस्य कर्मणश्चायितादित्यः । नि. ५-२४ [?] इति ॥ जारः । जरयतीति जार आदित्यः । दारजारौ कर्तरि णिलुक् च । पा. ३-३-२० [?] इति घञन्तो निपातितः । कर्षात्वत इत्यन्तोदात्तत्वं । अपां । ऊडिदमिति विभक्तेरुदात्तत्वं । पिपर्ति । पॄ पालनपूरणयोः । तिपि जुहोत्यादित्वाच्छपः श्लुः । अर्तिपिपर्त्योश्च । इत्यभ्यासस्येत्वं । अनुदात्ते चेत्यभ्यस्तस्याद्युदात्तत्वं । पपुरिः । आदृगमहनेति किन्प्रत्ययः । लिड्वद्भावात्कित्त्वे सिद्धेऽपि पुनः किक्करणसामर्थ्यात् ऋच्छत्यृतां । पा. ७-४-११ [?] । इति गुणाभावः । उदोष्ठ्यपूर्वस्येत्युत्वं । नित्त्वादाद्युदात्तत्वं ॥**
+
+*he aśvinau devau apāṃ jāraḥ svakīyatāpenodakānāṃ jarayitā sūryo haviṣāsmaddattena pipartti | devān prīṇayati | udite sūrye haviḥpradānāt sūryasya pūrakatvaṃ draṣṭavyaṃ | ataḥ sūryodayakāle yuvābhyām āgantavyam ity arthaḥ | kīdṛśo jāraḥ | papurir uktakrameṇa pūraṇasvabhāvaḥ pitā pālakaḥ kuṭasya carṣaṇiḥ karmaṇo draṣṭā | atra niruktaṃ | haviṣāpāṃ jarayitā pipartti papur iti pṛṇātinigamau vā prīṇātinigamau vā pitā kṛtasya karmaṇaś cāyitādityaḥ | ni. 5-24 [?] iti || jāraḥ | jarayatīti jāra ādityaḥ | dārajārau kartari ṇilukca | pā. 3-3-20 [?] iti ghañanto nipātitaḥ | karṣātvata ity antodāttatvaṃ | apāṃ | ūḍidam iti vibhakter udāttatvaṃ | pipartti | pṝ pālanapūraṇayoḥ | tipi juhotyāditvāc chapaḥ śluḥ | artipipartyoś ca | ity abhyāsasyetvaṃ | anudātte cety abhyastasyādyudāttatvaṃ | papuriḥ | ādṛgamahaneti kinpratyayaḥ | liḍvadbhāvāt kittve siddhe 'pi punaḥ kikkaraṇasāmarthyāt ṛcchatyṛtāṃ | pā. 7-4-11 [?] | iti guṇābhāvaḥ | udoṣṭhyapūrvasyety utvaṃ | nittvād ādyudāttatvaṃ ||*
+
+**Translation:** "O Aśvins, the gods: the Sun, *apāṃ jāraḥ*, who by his own heat makes the waters decay (dry up), *haviṣā*, with the oblation given by us, *pipartti*, nourishes — satisfies — the gods. Since the oblation is given when the Sun has risen, the Sun's being the fulfiller is to be seen; so, at the time of sunrise you two should come: this is the sense. What kind of *jāraḥ*? *Papuriḥ*, by nature a filler, in the way stated; *pitā*, protector; *kuṭasya carṣaṇiḥ*, beholder of the work (rite). Here the Nirukta [says]: 'The one who dries up the waters, with the *havis* he fills (*pipartti*), *papuḥ* — these are words of the Veda from the root *pṛ*, "to fill", or *prī*, "to please"; the father, the watcher of what is done, is Āditya' (Ni. 5-24 [?])."
+
+**Grammatical tail** *(p. 580; characterized, numerals as read [?])*
+- *jāraḥ*: "that which makes decay (*jarayati*)", the Āditya; by *dārajārau kartari ṇiluk ca* a *ghañ*-ending form given by *nipātana*; the end-acute by the rule beginning *karṣātvataḥ…*.
+- *apām*: the case-ending is acute by *ūḍidam…*.
+- *pipartti*: root *pṝ pālanapūraṇayoḥ*, *tip*; *śap* → *ślu* because the root is of the *juhotyādi* class; the *i* of the reduplicative syllable by *artipipartyoś ca*; initial acute of the reduplicated stem by *anudātte ca*.
+- *papuriḥ*: the suffix *kin* by *ādṛgamahana…*; though *kit*-ness is already given by the *liṭ*-likeness, the *guṇa* is excluded by the separate making of *kit* — *ṛcchatyṛtām* (Pā. 7-4-11 as read [?]); *u* by *udoṣṭhyapūrvasya*; being *nit*, the initial acute.
+
+**Pratipadārtha** *(p. 580–581)* — "**narāḥ** — O leaders (Aśvins); **papuriḥ** — (the Sun) whose nature is to nourish (the gods with oblation); **pitā** — as protector; **kuṭasya carṣaṇiḥ** — as the observer of the (sacrificial) rite; **apāṃ jāraḥ** — the Sun who, as it were, makes the waters shrink by his heat; **haviṣā** — with the oblation offered by us; **pipartti** — nourishes (the gods)."
+
+**Bhāvārtha** *(p. 581)* — "O Aśvin gods, leaders, the Sun is the protector of the world and observes the work of all in the world. He is the one who makes the waters shrink by his heat. In the same way, with the oblation offered by us he makes the gods well nourished."
+
+**English Translation (the source's own, p. 581)** — "O Guides (Aswins), the Sun the evaporator of the waters, the nourisher the protector and beholder of sacred rite. [o]urishes [sic: the first letter of the verb is lost in the print] the gods with our oblations."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 581–582**
+- **jāraḥ apām** — "one who makes water shrink by his heat, that is, the Sun."
+- **haviṣā pipartti** — "makes the gods nourished with the oblation; that is, after sunrise those who sacrifice offer oblations with the deities in view, and that oblation brings nourishment to the deities. Since the oblation has to be offered after sunrise, in the morning, the Sun, being a helper in this offering, is himself the one who brings nourishment to the deities: the ṛṣi has said this chief idea in another manner."
+- **papuriḥ** — "*uktakrameṇa pūraṇasvabhāvaḥ*: one whose nature is to fill the oblation."
+- **jāraḥ** — "*jarayatīti jāra ādityaḥ*: one who causes heat, that is, Āditya [as printed in Kannada]."
+- **pitā** — "protector; protector of the works that men do."
+- **kuṭasya carṣaṇiḥ** — "*kṛtasya karmaṇaś cāyitā draṣṭā*: one who looks at all the works that men do; the witness of work."
+- Yāska on this ṛk (**untranslated in the source**; reference "Ni. 5-2[?]" as read):
+
+  > **हविषापां जरयिता पिपर्ति पपुरिति पृणातिनिगमौ वा प्रीणातिनिगमौ वा पिता कृतस्य कर्मणश्चायितादित्यः ॥** *(Ni. 5-2[?] as read)*
+
+  *haviṣāpāṃ jarayitā pipartti papur iti pṛṇātinigamau vā prīṇātinigamau vā pitā kṛtasya karmaṇaś cāyitādityaḥ ||* — mine and tentative: "With the oblation (or: water) the dryer-up of the waters fills (*pipartti*); *papuḥ*: (these are) Vedic words from *pṛ* 'to fill' or *prī* 'to please'; the father, the observer of what is done, Āditya."
+
+  The Kannada author explains: "That is, though Āditya dries up the water, at all times he fills the whole created world with *havis*, that is, with water (the word *havis* is read among the names of water in the Nighaṇṭu, Ni. 1-1[?]); he draws the water that is in seas and other reservoirs by his rays and fills the earth with water in the form of rain from the cloud. *Pipartti* and *papuḥ* are both *nigama* (Vedic) words; for these words the meanings are 'fill' (*pūrayati*) or 'please' (*prīṇāti*), filling or satisfying; and this Sun is the protector of the whole world and a witness of all works that people do, that is, one who sees everything: this is the idea."
+
+**Vyākaraṇa-prakriyā** *(pp. 582–583 — grammar pages, noted briefly)*
+- **jāraḥ**: the root *jūṣ [?] vayohānau* [the print's root-name is crowded, as in Rik 3]; *parimāṇākhyāyāṃ sarvebhyaḥ* (Pā. 3-3-20 as read [?]) — परिमाणाख्यायां सर्वेभ्यः — on which there is the vārttika "*dāra-jārau kartari ṇiluk ca*": after the roots *dṝ vidāraṇe* and *jūṣ [?] vayohānau*, being *ṇijanta*, the suffix *ghañ* in the agent sense, and the *ṇi* drops. By this *jārayati* → *jāra*: *jṝ + ṇic*, *ghañ*, the *ṇi*'s *luk*, *jṝ + a*, *vṛddhi* with *raparatva*: *jāra*. The word is well known in the Upaniṣad, and here denotes the Sun: the Śruti sentence "*yo 'sau tapann eti sa sarveṣāṃ bhūtānāṃ prāṇān ādāyodeti*" (as printed; in Sanskrit) — यो॒ऽसौ तपन्नेति स सर्वेषां भूतानां प्राणानादायोदेति — *yo 'sau tapann eti sa sarveṣāṃ bhūtānāṃ prāṇān ādāyodeti* — mine and tentative: "he who goes about burning, he rises taking up the vital breaths of all beings" — says that the Sun takes away life. The root-sense is "loss of age"; so it is proper that the word should denote the Sun, who diminishes the span of life. *Karṣātvato ghañaḥ anta udāttaḥ* (Pā. 6-1-159 as read [?]) gives the end-acute.
+- **apām**: *ūḍidampadādyappumraidyubhyaḥ* (Pā. 6-1-171 as read [?]) — ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः — the case-ending is acute.
+- **pipartti**: root *pṝ pālanapūraṇayoḥ*; *juhotyādi*, *laṭ*, *tip*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 as read) *ślu* for *śap*; doubling after *ślu*; *urat* (Pā. 7-4-66 as read) gives *a* for the reduplicative syllable's *ṛ*; *artipipartyoś ca* (Pā. 7-4-77 as read [?]) — अर्तिपिपर्त्योश्च — *i* for the reduplicative syllable of *ṛ* and *pṝ*; *halādiḥ śeṣaḥ* drops the *r* of the reduplicative syllable: *pip + pṛ + ti*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* with *raparatva* to the second part; *anudātte ca* (Pā. 6-1-190 as read [?]) the initial of the reduplicated word is acute when a non-acute *sārvadhātuka* suffix follows.
+- **papuriḥ**: root *pṝ pālanapūraṇayoḥ*; *ādṛgamahanaḥ kikinau liṭ ca* (Pā. 3-2-171 as read [?]) — आदृगमहनः किकिनौ लिट् च — after roots in *ā* or *ṛ*, and *gam* and *han*, the suffixes *ki* and *kin*, which are also *liṭ*-like. [The Kannada author's discussion of whether the reading is "*ā-dṛ*" or "*ādṛ…*" and of the *taparaḥ* in "*tatkālasya*" is crowded and given here only in outline: since *ā* is said with *tapara*, only the *ā*, and not the long forms, is taken; *pṛ + i*; the *kit*-ness already follows from the *liṭ*-likeness (*āsaṃyogāl liṭ kit*, Pā. 1-2-5 as read), but *ki/kin* is made separately so that *ṛcchatyṛtām* (Pā. 7-2-11 [? the bhāṣya's number, "7-4-11", differs]) — the *guṇa* otherwise given before *liṭ* — does not apply. *Udoṣṭhyapūrvasya* (Pā. 7-1-102 as read) gives *u* for the *ṛ* of the *aṅga* preceded by a labial: *pur*; doubling; *urat* gives *a* for the reduplicative syllable: *papur + i*. The suffix is *nit*, so *ñnityādir nityam* (Pā. 6-1-197 as read) gives initial acute. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 579 (PDF 593) reached; heading, introduction and Riks 46.1–46.3 complete.**
+### Rik 46.5 (pp. 583–585, PDF 597–599)
 
-**Next task:** continue at printed p. 580 (PDF 594) with Rik 46.4; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 594 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.3: root-name "jūṣ" [?] (print reads like "jyāṣ"); the Kannada says *vibhiḥ* is "caturthī-bahuvacana" (a slip, kept as printed, [sic]) and glosses *vayaḥ* as birds where the bhāṣya says horses; Pāṇini numerals "as read [?]". **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 583; accents not reproduced)*
+
+> **आदारो वां मतीनां नासत्या मतवचसा ।**
+> **पातं सोमस्य धृष्णुया ॥ ५ ॥**
+
+*ādāro vāṃ matīnāṃ nāsatyā matavacasā |*
+*pātaṃ somasya dhṛṣṇuyā || 5 ||*
+
+**Pada-pāṭha** *(p. 583)*
+
+> आऽदारः । वाम् । मतीनाम् । नासत्या । मतऽवचसा ।
+> पातम् । सोमस्य । धृष्णुऽया ॥ ५ ॥
+
+*ā-dāraḥ | vām | matīnām | nāsatyā | mata-vacasā |*
+*pātam | somasya | dhṛṣṇu-yā || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 583–584)*
+
+> **हे मतवचसाभिमतस्तोत्रौ नासत्यावश्विनौ वां युवयोर्मतीनां बुद्धीनामादारः प्रेरको यः सोमोऽस्ति सोमस्य तं सोमं पातं । युवां पिबतं । कीदृशं सोमं । धृष्णुया धर्षणशीलं । मदैकरत्वेन [?] तीव्रमित्यर्थः ॥ आदारः । दृङ् आदरे । आदारयेत्यादारः । दारजारौ कर्तरि णिलुक्चेति घञ्प्रत्ययः । थाथादिनोत्तरपदान्तोदात्तत्वं । मतीनां । नामन्यतरस्यामिति नाम उदात्तत्वं । मतवचसा । मतमभिमतं स्तोत्ररूपं वचो ययोस्तौ । सुपां सुलुगिति विभक्तेराकारः । पातं । पा पाने । बहुलं छन्दसीति शपो लुकि सति पाघ्रेत्यादिना पिबादेशो न भवति । सोमस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । धृष्णुया । सुपां सुलुगिति विभक्तेर्याजादेशः ॥ ५ ॥**
+
+*he matavacasābhimatastotrau nāsatyāv aśvinau vāṃ yuvayor matīnāṃ buddhīnām ādāraḥ prerako yaḥ somo 'sti somasya taṃ somaṃ pātaṃ | yuvāṃ pibataṃ | kīdṛśaṃ somaṃ | dhṛṣṇuyā dharṣaṇaśīlaṃ | madaikaratvena [?] tīvram ity arthaḥ || ādāraḥ | dṛṅ ādare | ādārayety ādāraḥ | dārajārau kartari ṇilukceti ghañpratyayaḥ | thāthādinottarapadāntodāttatvaṃ | matīnāṃ | nāmanyatarasyām iti nām udāttatvaṃ | matavacasā | matam abhimataṃ stotrarūpaṃ vaco yayos tau | supāṃ suluk iti vibhakter ākāraḥ | pātaṃ | pā pāne | bahulaṃ chandasīti śapo luki sati pāghretyādinā pibādeśo na bhavati | somasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ sampradānatvāc caturthyarthe ṣaṣṭhī | dhṛṣṇuyā | supāṃ suluk iti vibhakter yājādeśaḥ || 5 ||*
+
+*(The phrase "madaikaratvena" is crowded in the print, [?].)*
+
+**Translation:** "O *matavacasā*, you whose praise-words are approved, O Nāsatyas, Aśvins: that Soma which is the *ādāraḥ*, the impeller, of your (*vām*) minds (*matīnām*) — *somasya*, of the Soma — *taṃ somaṃ pātam*, drink that Soma: you two drink. What kind of Soma? *Dhṛṣṇuyā*, of daring nature: that is, keen, by being the sole bringer of exhilaration."
+
+**Pratipadārtha** *(p. 584)* — "**matavacasā** — you whose praise-words are approved (by you); **nāsatyā** — O Aśvin gods; **vām** — of you two; **matīnām** — of the minds; **ādāraḥ** — that which awakens; **dhṛṣṇuyā** — that makes (you) full of vigour; **somasya** — the Soma juice; **pātam** — drink."
+
+**Bhāvārtha** *(p. 584)* — "O Aśvin gods, stotras are highly agreeable to you. Along with those who offer those stotras that are agreeable to you, drink the Soma juice, which awakens your minds and makes you full of vigour."
+
+**English Translation (the source's own, p. 584)** — "O Nasatyas, accept our praises and drink of the exhilarating Soma-juice, the animator of your mind."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 584**
+- **ādāraḥ vāṃ matīnām** — "*dṛṅ ādare; ādārayatīty ādāraḥ; yuvayor matīnāṃ prerakaḥ somaḥ*: the Soma juice that stimulates or expands your intellect."
+- **matavacasā** — "*matam abhimataṃ stotrarūpaṃ vaco yayos tau; abhimatastotrau*: the stotras that we make are agreeable to you, that is, approved; so, 'you who have accepted, who are pleased with, my stotras'."
+- **dhṛṣṇuyā** — "*dharṣaṇaśīlam*: the Soma juice that stimulates the intellect, produces intoxication, makes the intellect expand and become sharp."
+
+**Vyākaraṇa-prakriyā** *(p. 585 — grammar page, noted briefly)*
+- **ādāraḥ**: root *dṛṅ ādare* [as printed]; "*ādārayati iti ādāraḥ*"; *dārajārau kartari ṇiluk ca* (Pā. 3-3-20 vārttika, as read "3-3-20-1" [?]): here, by the word *dāra*, both the root *dṛṅ* and the root *dṝ* are taken, as is seen; if *dṝ vidāraṇe* is meant, "*dārayanti iti dārāḥ*", those who melt the mind — and "wife" is the denoted sense of this word [*sic*, as printed]. *Thāthaghañktājabitrakāṇām* (Pā. 6-2-144 as read [?]) gives the last member the end-acute.
+- **matīnām**: *nām* is acute by *nāmanyatarasyām*.
+- **matavacasā**: "*mataṃ* = approved, *vacaḥ* = words in the form of praise, of whom they are"; the vocative dual's ending *ā* by *supāṃ suluk…* (Pā. 7-1-39 as read).
+- **pātam**: root *pā pāne*, *loṭ*, [the print states "second person, plural, *tha*-suffix"; the form is evidently the dual, *thas*, as printed *tam*]; *loṭo laṅvat* gives *laṅ*-likeness; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101 as read) gives *tam*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) drops the *śap*; now no suffix beginning with *ś* follows, so the *piba*-substitution by *pāghrādhmā…* (Pā. 7-3-78 as read) does not come.
+- **somasya**: *kriyāgrahaṇaṃ kartavyam* — the *soma* is a recipient (*sampradāna*), so the genitive stands for the dative.
+- **dhṛṣṇuyā**: *supāṃ suluk…*: *yāc* is substituted for the genitive singular ending [as the Kannada says; "genitive" here is as printed]. **|| 5 ||**
+
+---
+
+### Rik 46.6 (p. 585 foot, PDF 599–)
+
+**Saṃhitā-pāṭha** *(p. 585; accents not reproduced)*
+
+> **या नः पीपरदश्विना ज्योतिष्मती तमस्तिरः ।**
+> **ताम् अस्मे रासाथामिषम् ॥ ६ ॥**
+
+*yā naḥ pīparad aśvinā jyotiṣmatī tamas tiraḥ |*
+*tām asme rāsāthām iṣam || 6 ||*
+
+*(Printed as one word* तामस्मे *in the Saṃhitā; I separate it for reading. The Pada of Rik 6 is on p. 586, not yet seen.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 585 (PDF 599) reached; heading, introduction and Riks 46.1–46.5 complete; Rik 46.6's Saṃhitā written at the foot of p. 585 (its Pada is on p. 586).**
+
+**Next task:** continue at printed p. 586 (PDF 600) with the Pada of Rik 46.6 and its bhāṣya etc.; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 600 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.4–5: Nirukta reference numerals and Pāṇini numerals "as read [?]"; in 46.4 the source's English first letter lost ("[o]urishes"); the grammar discussion of *ādṛgamahana…* partly crowded (outlined only); in 46.5 "madaikaratvena" crowded, the print calls *pātam* plural *tha*-form and *dhṛṣṇuyā* genitive (kept as printed). **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
