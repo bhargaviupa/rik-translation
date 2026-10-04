@@ -1705,12 +1705,112 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 34.10 (continued) — end of the bhāṣya grammar, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 118–120, PDF 132–134)
+
+**End of the grammar within the bhāṣya** *(p. 118; characterized)*: *yuvoḥ* — "explained already under *yuvor hi yantram*" (Rik 1); *iṣyati* — root *iṣa gatau*; *śyan* is *nit*, so the root's first syllable is acute, and *hi ca* [Pā. 8-1-34, as I read the numerals [?]] bars the lowering of the verb after *hi*.
+
+**Pratipadārtha** *(p. 118)* — "**nāsatyā** — O Aśvin deities (come here for the sake of our sacrifice); **āgacchatam** — graciously come; **haviḥ** — the oblation; **hūyate** — is being offered; **madhupebhiḥ** — [with mouths] able to drink sweet liquid (able to enjoy tasting it); **āsabhiḥ** — with mouths; **madhvaḥ** — our sweet oblations; **pibatam** — drink; **savitā** — the Sun; **uṣasaḥ pūrvam** — before the dawn-time; **yuvoḥ** — your; **citram** — wonderful (by its three wheels and other extraordinary parts); **ghṛtavantam** — furnished with oil (put in the hole that has a rim, so that the wind turns well [the Kannada gloss reads "so that the air circulates well in the axle-hole with its rim"]); **ratham** — chariot; **ṛtāya** — for our sacrifice (for your coming to our sacrifice); **iṣyati hi** — sends, does he not?"
+
+**Bhāvārtha** *(p. 118)* — "O Aśvin deities, kindly come to our sacrifice; we offer you sweet oblations. Drink this oblation with your mouths that are always drinking sweet liquid. For this very purpose Sūrya sends your chariot to you even before the dawn. That chariot is furnished with the three wheels and other wonderful parts, and with the oil that lets the wheels turn smoothly."
+
+**English Translation (the source's own, p. 118)** — "Nasatyas, come to the sacrifice ; the oblation is offered ; drink the soma juice with your mouths relishing its sweet savour ; before the dawn Savitri ( Sun ) sends forth your wonderful and well-oiled chariot to the sacrifice" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 118–119**
+- **pūrvaṃ uṣasaḥ** — "*before the dawn-time*: that is, in the sacrifice, after midnight until the dawn-time they recite the *Āśvina-kratu* hymns during the recitation of the *prātaranuvāka* mantras. The ṛṣi prays that [the Aśvins] come to the sacrificial ground at the time those mantras are being recited, before the dawn, in order to receive them."
+- **ṛtāya** = *yajñāya*: "Yāska explains the word *ṛta* as *satyaṃ vā yajñaṃ vā* (Ni. 4-[?]) — 'truth or sacrifice'; here the sense 'sacrifice' is given."
+- **citram** = *pūrvoktaiś cakratrayādibhiś citram*: "a wonderful chariot with the three wheels and the rest as described before. Ordinarily a chariot has four wheels, and the chariot is square; but the Aśvins' chariot is triangular and has three wheels, so it is not an ordinary chariot but a wonderful one."
+- **ghṛtavantam** = *akṣāñjanasādhanena ghṛtenopetam*: "so that the wheels turn properly, it is the custom to put grease in the axle-hole and in the hole between the wheels. In the same way, here, it is a chariot in which, in place of grease, ghee has been applied to the axles and the wheels turn smoothly."
+
+**Vyākaraṇa-prakriyā** *(pp. 119–120, PDF 133–134 — grammar pages, noted briefly)*
+- **gacchatam** (p. 119): root *gamḷ gatau*; *loṭ*, second-person dual *thas*, replaced by *tam* by *tasthasthamipāṃ tāṃtaṃtāmaḥ* — तस्थस्थमिपां तांतंतामः — (Pā. 3-4-101, number as read); *gam + tam*, *śap*; *iṣugamiyamāṃ chaḥ* — इषुगमियमां छः — (Pā. 7-3-77, as read) gives *ch* for the *m*; *tuk* by *chे ca* (i.e. *che ca* — छे च — Pā. 6-1-73, as read); *ścutva*, *stoḥ ścunā ścuḥ* — स्तोः श्चुना श्चुः — (Pā. 8-4-40) giving *cch*; the *loṭ*-substitute *tam* is *lasārvadhātuka* and stands after *śap*, which is *anupadeśa*; *tiṅ* is accented [anudātta] by *tāsyanudāttenṅidadupadeśāt…* [Pā. 6-1-186, as read [?]], and the root's accent remains. The page goes on to explain that the meaning "come to the sacrifice and drink the oblation" calls for the particle *ca* to be understood after *āgacchatam*, "*nāsatyā āgacchataṃ pibatam ca*"; since the word *ca* is not actually used, *cādilope vibhāṣā* — चादिलोपे विभाषा — (Pā. 8-1-63) is applied: when *ca*, *vā*, *ha*, *aha*, *eva* are dropped, the verb standing first in the sentence [*gacchatam*] does not become *sarvānudātta*; the sūtra's sense is that the grammar does not itself prescribe the dropping of *cādi* words, but where the sense of *ca* is felt from the context and the word is not used, it must be understood that it has been dropped.
+- **hūyate** (p. 119 end – p. 120): root *hve̐ śabde*, *laṭ* in the passive; *laṭ* is replaced by *ta*, with *ṭita ātmanepadānāṃ ṭere* — टित आत्मनेपदानां टेरे — (Pā. 3-4-79, as read) giving *e*; *hve + ya + te*; *sārvadhātuke yak* — सार्वधातुके यक् — (Pā. 3-1-67) gives *yak* in the passive; *vacisvapiyajādīnāṃ kiti* — वचिस्वपियजादीनां किति — (Pā. 6-1-15) gives *saṃprasāraṇa*, whence *hu + ya + te*; *halaḥ* — हलः — (Pā. 6-4-2) lengthens the vowel of a base that has *saṃprasāraṇa* before a final consonant-group; *hūyate*; the *te* is *lasārvadhātuka* and unaccented by *tāsyanudāttenṅid…*; the *yak* suffix makes the accent fall on its own *ya* [as the print says, *yak* is *kit*: *yakpratyayasvareṇa udāttaḥ*].
+- **madhvaḥ** (p. 120): "*madhu* is derived, as I said before, by the Uṇādi sūtra *phalipāṭi…* [Uṇ. 1-18 (?) [?]]; the word is neuter, but here it is used as masculine by *vyatyaya*: *śas* of the second case plural, *madhu + as*; by rule *prathamayoḥ pūrvasavarṇaḥ* — प्रथमयोः पूर्वसवर्णः — (Pā. 6-1-102) the long vowel of the first should result, but by Vedic usage here *yaṇādeśa* comes: *madhvaḥ*."
+- **madhupebhiḥ**: *madhu pibantīti madhupāḥ*, *taiḥ*; root *pā pāne*; with *madhu* as *upapada* the suffix *ka* after a root ending in *ā*, *ātoʼnupasarge kaḥ* — आतोऽनुपसर्गे कः — (Pā. 3-2-3); *ātolopa iṭi ca* — Pā. 6-4-64: loss of *ā*; *pa* is acute by the suffix-accent.
+- **āsabhiḥ**: after *āsya*, *bhis*; *pad-dan-no-māsa-hṛn-niśa-…-śas-prabhṛtiṣu* — पद्दन्नोमास्हृन्निशसन्… — (Pā. 6-1-63): *āsan* replaces *āsya*; *n* lost by *na lopaḥ prātipadikāntasya* — न लोपः प्रातिपदिकान्तस्य — (Pā. 8-2-7).
+- **yuvoḥ**: "explained under *yuvor hi yantram*" (Rik 1).
+- **iṣyati**: root *iṣa gatau*, *divādi*; *laṭ*, *tip*; *divādibhyaḥ śyan*; *śyan* is *nit*, so *hi ca* prevents the loss of accent and *ñnityādir nityam* — ञ्नित्यादिर्नित्यम् — (Pā. 6-1-197) makes the first syllable acute. Rik 10 ends here (*|| 10 ||*).
+
+### Rik 34.11 (pp. 120–124, PDF 134–138)
+
+**Saṃhitā-pāṭha** *(pp. 120–121; accents not reproduced)*
+
+> **आ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना ।**
+> **प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥ ११ ॥**
+
+*ā nāsatyā tribhir ekādaśair iha devebhir yātaṃ madhupeyam aśvinā |*
+*prāyus tāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā || 11 ||*
+
+**Pada-pāṭha** *(p. 121)*
+
+> आ । नासत्या । त्रिऽभिः । एकादशैः । इह । देवेभिः । यातम् । मधुऽपेयम् । अश्विना ॥
+> प्र । आयुः । तारिष्टम् । निः । रपांसि । मृक्षतम् । सेधतम् । द्वेषः । भवतम् । सचाऽभुवा ॥ ११ ॥
+
+*ā | nāsatyā | tri-bhiḥ | ekādaśaiḥ | iha | devebhiḥ | yātam | madhu-peyam | aśvinā ||*
+*pra | āyuḥ | tāriṣṭam | niḥ | rapāṃsi | mṛkṣatam | sedhatam | dveṣaḥ | bhavatam | sacā-bhuvā || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 121–122; the first half in full, the grammatical tail characterized; where the print is crowded I mark [?])*
+
+> हे नासत्या असत्येनानृतेन रहिताव् अश्विनौ देवौ युवां त्रिभिरेकादशैः । ये देवासो दिव्येकादश स्थ । ऋग्वे. १-१३९-११ [?] । इत्यादिमन्त्रप्रतिपादितैस्त्रिसंख्याकैरेकादशात्मकैर्गणत्रयगतैर्देवैः सह मधुपेयं सोमात्मकं मधुरद्रव्यं पानमुखलक्ष्य [?] इहास्मिन्सवनयजनदेश आ यातम् । आगच्छतम् । आयुरस्मदीयमायुष्यं प्रतारिष्टम् । प्रवर्धयतम् । रपांस्यस्मदीयानि पापानि निर्मृक्षतम् । निःशेषेण शोधयतम् । द्वेषो द्वेषकर्तॄन् सेधतम् । प्रतिषेधतम् । सचाभुवा अस्माभिः सहावस्थितौ भवतम् ॥
+
+*he nāsatyā asatyenānṛtena rahitāv aśvinau devau yuvāṃ tribhir ekādaśaiḥ | ye devāso divy ekādaśa stha | ṛgve. 1-139-11 [?] | ity ādimantrapratipāditais trisaṃkhyākair ekādaśātmakair gaṇatrayagatair devaiḥ saha madhupeyaṃ somātmakaṃ madhuradravyaṃ pānamukhalakṣya [?] ihāsmin savanayajanadeśa ā yātam | āgacchatam | āyur asmadīyam āyuṣyaṃ pratāriṣṭam | pravardhayatam | rapāṃsy asmadīyāni pāpāni nirmṛkṣatam | niḥśeṣeṇa śodhayatam | dveṣo dveṣakartṝn sedhatam | pratiṣedhatam | sacābhuvā asmābhiḥ sahāvasthitau bhavatam ||*
+
+**Translation:** "O Nāsatyas, Aśvins, free of falsehood and untruth: with *tribhir ekādaśaiḥ* — the three elevens: 'you gods who are eleven in heaven' (Ṛg. 1-139-11 [?]) and so on in the mantras — the gods of three groups, each of eleven, come, together with them, *iha*, here, to this place of the soma pressing and sacrifice, for the *madhupeya* — the drinking of the sweet substance, soma [the middle phrase of the print is partly obscured]. *Āyuḥ* — our lifetime — *pra tāriṣṭam* — extend. *Rapāṃsi* — our sins — *nir mṛkṣatam* — cleanse completely. *Dveṣaḥ* — those who hate — *sedhatam* — ward off. *Sacābhuvā* — be together with us."
+
+**Grammar within the bhāṣya** *(pp. 121–122, characterized)*: *tribhiḥ*, *ekādaśaiḥ* (*ekādaśānāṃ pūraṇaiḥ*, the suffix *ḍaṭ* in the ordinal sense, *tasya pūraṇe ḍaṭ* [Pā. 5-2-48, as read]); *madhupeyam* (root *pā*, *yat* after a vowel-final root, *ac*-ending roots by *aco yat* [Pā. 3-1-97, as read], *ī* for *ā* by *īdyati* [Pā. 6-4-65, as read], *yato nāvaḥ* initial-acute rule, the compound *madhu ca tat peyam ca*, accent of the later member of a *kṛt*-compound); *tāriṣṭam* (root *tṝ plavanataraṇayoḥ*; *luṅ* in the sense of a prayer, Vedic, *cli* → *sic*, the *iṭ* augment, *vyato vā* [Pā. 7-2-38, as I read the numerals [?]], the lengthening [or not] of the augment; *bahulaṃ chandasy amāṅyoge 'pi* — the absence of *aṭ*; the print adds that here *tāriṣṭam* and *mṛkṣatam* have, by the understanding of a *ca* that is not used, no *nighāta*); *ādiḥ sicopy anyatarasyām* … *mṛkṣatam* (root *mṛśa āmarśane*; *chandasi luṅlaṅliṭaḥ*, *luṅ* in the sense of *loṭ*; *śala igupadhād aniṭaḥ kṣaḥ* — Pā. 3-1-45 [as read]; *kṣa* is *it*-marked, no *iṭ*, no *guṇa]; *sedhatam* (root *ṣidhu gatyām*; here the plain root has the sense of "preventing" because it is understood with *prati*; *loṭ* in the prayer sense, *śap* *pit* so unaccented; *tiṅ* [*tāsyanudāttenṅid…*, Pā. 6-1-186 [?]] so the root's accent stands); *dveṣaḥ* (root *dviṣa apṛtau*? — *anyebhyo 'pi dṛśyante*, *viC* in the agent sense — "[those] who make hatred"); *bhavatam* (the word *dveṣaḥ* is in another sentence and so *bhavatam* [being the sentence's first verb] is not lowered; a rule is cited from the vārtika that *yuṣmad-asmad*-substitutes come only in the same sentence, Pā. 8-1-[?] [?]); *sacābhuvā* (*sacā* is an indeclinable of the meaning of *saha*; Yāska: '*sacā sahety artha iti*' (Ni. 5-[?]); *sacā bhavate iti sacābhūḥ*, *kvip*; *oḥ supi* — ओः सुपि — Pā. 6-4-83 would give *yaṇ*, but *na bhūsudhiyoḥ* — न भूसुधियोः — Pā. 6-4-85 forbids the *yaṇ*-substitution for *bhū* and *sudhī*; the dual ending replaced by *ā* by *supāṃ sulug…*)."
+
+**Pratipadārtha** *(p. 122)* — "**nāsatyā** — [O two] free of untruth; **aśvinā** — O Aśvin deities; **tribhir ekādaśaiḥ devebhiḥ** — with the thrice-eleven, i.e. thirty-three, gods; **madhupeyam** — for [the sake of drinking] the sweet and drinkable soma juice; **iha** — to this place of our sacrifice; **ā yātam** — come; **āyuḥ** — our lifetime; **pra tāriṣṭam** — increase; **rapāṃsi** — our sins; **niḥ mṛkṣatam** — wash well, make pure; **dveṣaḥ** — those who hate us (our enemies); **sedhatam** — keep off; **sacābhuvā** — being with us; **bhavatam** — be."
+
+**Bhāvārtha** *(p. 122)* — "O Aśvin deities, you never speak untruth. Kindly come to this place of our sacrifice with the thirty-three gods, to drink the sweet soma juice. Increase our lives, wash away our sins and make us pure, and keep off our enemies. Be always with us."
+
+**English Translation (the source's own, p. 122)** — "Come hither, O Nasatyas, with the thrice eleven gods to drink the sweet Soma ; prolong our lives, efface our faults ; ward off our enemies and be ever with us·" *(the print ends with a raised dot where a full stop is expected)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 123–124**
+
+**tribhir ekādaśaiḥ** — "The meaning of this ṛk is clear. *Tribhir ekādaśaiḥ* means 'thrice eleven', or thirty-three. In the Ṛgveda, and in the other Vedas here and there, it is stated that there are thirty-three gods. In some ṛks it is said that one group of eleven gods dwells on the earth, another group of eleven in the mid-region, and a third group of eleven in heaven."
+
+> ये देवासो दिव्येकादश स्थ पृथिव्यामध्येकादश स्थ ।
+> अप्सुक्षितो महिनैकादश स्थ ते देवासो यज्ञमिमं जुषध्वम् ॥ (ऋ. सं. १-१३९-११)
+
+*ye devāso divy ekādaśa stha pṛthivyām adhy ekādaśa stha | apsukṣito mahinaikādaśa stha te devāso yajñam imaṃ juṣadhvam || (ṛ. saṃ. 1-139-11)*
+
+"The idea here is: 'Let the eleven gods who are in heaven, the eleven who are on earth, and the eleven who are in the mid-region (*apaḥ* = mid-region, Ni. 1-[?] [?]) come to this sacrifice and accept the oblation.' And:"
+
+> शृष्टीवानो हि दाशुषे देवा अग्ने विचेतसः ।
+> तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥ (ऋ. सं. १-४५-२)
+> पत्नीवतस्त्रिंशतं त्रींश्च देवाननुष्वधमा वह मादयस्व ॥ (ऋ. सं. ३-६-९)
+> त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् ॥ (ऋ. सं. ३-९-९)
+
+*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ | tān rohidaśva girvaṇas trayastriṃśatam ā vaha || (ṛ. saṃ. 1-45-2)*
+*patnīvatas triṃśataṃ trīṃś ca devān anuṣvadham ā vaha mādayasva || (ṛ. saṃ. 3-6-9)*
+*trīṇi śatā trī sahasrāṇy agniṃ triṃśac ca devā nava cāsaparyan || (ṛ. saṃ. 3-9-9)*
+
+*(Untranslated in the source. My glosses, **mine and tentative**: 1.45.2 "for the giver the gods, O Agni, are attentive [?], wise: bring those thirty-three, O red-horsed, lover of songs"; 3.6.9 "bring the thirty-three gods with their wives, and rejoice according to [their] custom [?]"; 3.9.9 "three hundred, three thousand, thirty and nine gods served Agni". The reference numerals are as read from small Kannada digits [?]; for 3.9.9 the second numeral is least secure.)* "Besides these ṛks, in the Yajurveda — Taittirīya Saṃhitā 1-4-[?] [?], Śatapatha Brāhmaṇa 4-5-[?]-[?] [?] and other [texts] — the number of the gods is likewise said to be thirty-three. In the Śatapatha Brāhmaṇa these thirty-three gods are given as the Vasus 8, the Rudras 11, the Ādityas 12, and Dyāvāpṛthivī 2 — in all thirty-three; but that division must be understood as a separate matter. The notion that in each of the three worlds — earth, mid-region, heaven — there are eleven gods, thirty-three in all, is the one specially seen in the Ṛgveda. The statement in the Purāṇas and elsewhere that there are thirty-three *koṭi* gods may rest on [a misreading of] what is said in the Ṛgveda. In the Viṣṇu Purāṇa too [the count is given as] Vasus 8, Rudras 11, Ādityas 12, Prajāpati 1, the *vaṣaṭkāra* 1 — in all thirty-three gods."
+
+**madhupeyam** = "the drinking of soma juice that is sweet like honey."
+
+**pra tāriṣṭam** = *tvā plavanataraṇayoḥ | pravardhayatam* — "let there be increase."
+
+**rapāṃsi** = *asmadīyāni pāpāni* — "our sins [the print adds the English: *our sins, our faults or errors &c*]. On this word Yāska says '*rapo ripram iti pāpanāmanī bhavataḥ*' (Ni. 4-[?] [?]): the two words *rapaḥ* and *ripram* are names of sin."
+
+**nir mṛkṣatam** = *mṛśa āmarśane | niḥśeṣeṇa śodhayatam* — "cleanse fully, wipe away [sins], and so on."
+
+**sedhatam** = *ṣidhu gatyām* — "though the root *ṣidh* has the sense of motion, the bhāṣyakāra says that here, being joined with the preverb *prati*, it has the sense *prati-ṣidh* = 'prevent' (*pratiṣedhatam*): 'keep off, obstruct'."
+
+**sacābhuvā** = *sacety ayaṃ nipātaḥ sahaśabdasamānārthaḥ | sāhāyyārthaṃ asmābhiḥ sahāvasthitau* — "here *sacā* is [said in the Kannada to be] an *upasarga*; its sense is *saha*, 'with'; so *sacābhuvā* means 'staying with [us]': be with us, near us, for our protection."
+
+**Vyākaraṇa-prakriyā** *(p. 124, PDF 138 — grammar page, noted briefly; begun, to continue on p. 125)*
+- **tribhiḥ**: *ṣaṭtricaturbhyo halādiḥ* — षट्त्रिचतुर्भ्यो हलादिः — (Pā. 6-1-180, number as read [?]): an ending beginning with a consonant, after *ṣaṭ*, *tri* or *catur*, is acute; so *bhis* is acute.
+- **ekādaśaiḥ**: *ekādaśānāṃ pūraṇāḥ, taiḥ*; the *aṃśa* (part) that completes the number eleven; *tasya pūraṇe ḍaṭ* — तस्य पूरणे डट् — (Pā. 5-2-48): after a word denoting a number, in the sixth case, the suffix *ḍaṭ* comes when the completer of that number is meant.
+- **madhupeyam**: *pātum yogyam peyam*; *aco yat* — अचो यत् — (Pā. 3-1-97): after a root ending in a vowel the suffix *yat*; *pā + ya*; *īdyati* — ईद्यति — (Pā. 6-4-65): before *yat*, an *ā* [of a root] becomes *ī*; then *guṇa* by *sārvadhātukārdhadhātukayoḥ* — Pā. 7-3-84; *yato 'nāvaḥ* — यतोऽनावः — (Pā. 6-1-213): a word ending in the suffix *yat* — other than *nau* — and having two syllables is first-syllable acute; hence *peya* is first-syllable acute; *madhu ca tat peyam ca* is a *karmadhāraya*; *gatikārakopapadāt kṛt* — Pā. 6-2-139: the accent of the later member, being a *kṛt*, is retained.
+
 ---
 
-**Progress note — Volume 4, Sūkta 34 in progress: printed p. 117 (PDF 131) reached; Riks 34.1–34.9 complete; Rik 34.10's Saṃhitā, Pada and the first half of the bhāṣya written (p. 117); the bhāṣya's grammatical tail begins at the foot of p. 117.**
+---
 
-**Next task:** continue at printed p. 118 (PDF 132) with the grammatical tail of Rik 10's bhāṣya, then the rest of Rik 10, then Riks 11 and 12 (the last, in Triṣṭup). Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 132 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+**Progress note — Volume 4, Sūkta 34 in progress: printed p. 124 (PDF 138) reached; Riks 34.1–34.10 complete; Rik 34.11 written through the Special Topics and the start of its grammar page (*tribhiḥ*, *ekādaśaiḥ*, *madhupeyam*).**
+
+**Next task:** continue at printed p. 125 (PDF 139) with the rest of Rik 11's grammar, then Rik 12 (the last of the sūkta, in Triṣṭup), and the close of Sūkta 34. Sūkta 34 runs to about printed p. 130 (PDF 144) — per the contents table; check whether Sūkta 35 begins there. Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 139 -l 150 Rig_Vol4.pdf /tmp/v/v`.
 
 **Page numbering:** the leaf at PDF 110 prints "95" in its header, repeating the number of PDF 109 though its text is new; read as 96. The offset printed = PDF − 14 is kept.
 
-**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76, 83, 91, 95, 99–100, 105–106, 110–111 and 114–115 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ., Ai. Brā. and Tai. Saṃ. numerals are [?], and in the Rik 9 Special Topics most Ṛgveda references are in small Kannada digits I did not read, so they are left as [?]; *yotrāyām* (Rik 2), *upadeśvanyam* (Rik 4), the garbled first words of the Rik 5 bhāṣya and the second quotation in the Rik 9 *vandhura* list are doubtful; in Rik 7 the source's English ("three distant worlds") and its Kannada gloss ("three altars") on *tisraḥ* differ, as printed.
+**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76, 83, 91, 95, 99–100, 105–106, 110–111, 114–115 and 123 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ., Ai. Brā., Tai. Saṃ. and Śat. Brā. numerals are [?], and in the Rik 9 Special Topics most Ṛgveda references are in small Kannada digits I did not read, so they are left as [?]; *yotrāyām* (Rik 2), *upadeśvanyam* (Rik 4), the garbled first words of the Rik 5 bhāṣya, the second quotation in the Rik 9 *vandhura* list and the phrase *pānamukhalakṣya* in the Rik 11 bhāṣya are doubtful; in Rik 7 the source's English ("three distant worlds") and its Kannada gloss ("three altars") on *tisraḥ* differ, as printed.
