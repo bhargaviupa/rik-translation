@@ -2736,8 +2736,83 @@
 
 ---
 
+**Rik 50.12, continued** *(from p. 143 foot, p. 144)*
+
+**Vyākaraṇa-prakriyā, continued** *(p. 144 — grammar page, noted briefly)*
+- **dadhmasi** *(end)*: *idanto masiḥ* (Pā. 7-1-46 as read) — the *i* in this sūtra's wording stands for pronunciation: *mas* takes an *i*-augment as being of the form of an *i*-ending (*antyāvayava*); hence the *ru*, *visarga* that would come are set aside and *masi* becomes the suffix: *dadhmasi*; because the *tiṅ* comes after a non-verb, *tiṅ atiṅaḥ* gives the all-unaccented: *dadhmasi* is all-unaccented. **|| 12 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 143 (PDF 159) reached; title, introduction, heading and Riks 50.1–50.11 complete; Rik 50.12's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the opening of the grammar (*dadhmasi*) are written; the rest of the grammar of Rik 12 (from "*idanto masi*" at the foot of p. 143), Rik 13 (the last) and the close of Sūkta 50 are NOT yet written.**
+### Rik 50.13 (pp. 144–147, PDF 160–163)
 
-**Next task:** continue at printed p. 143 foot / p. 144 (PDF 159–160): insert "**Rik 50.12, continued** *(from p. 143 foot)*" with the rest of the grammar of Rik 12, then Rik 50.13 and the close of Sūkta 50 (check the print for the end of the sūkta and the contents table's p. 147 for Sūkta 51); write my summary of Sūkta 50; then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 159 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-159.jpg`). Flags for 50.10–12: 50.11's bhāṣya tail is crowded (the rule-name on *āmu*, the Pāṇini number printed so that it reads "5-4-11" in the grammar page and my "8-2-17" in the tail — both [?]); the Bṛhaddevatā reference "5-1[?]3"; the Śaunaka verse as printed; the print's English in 50.11 says "yellowness (of my body)" kept; numerals "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 144; accents not reproduced)*
+
+> **उदगादयमादित्यो विश्वेन सहसा सह ।**
+> **द्विषन्तं मह्यं रन्धयन्मो अहं द्विषते रधम् ॥ १३ ॥**
+
+*ud agād ayam ādityo viśvena sahasā saha |*
+*dviṣantaṃ mahyaṃ randhayan mo ahaṃ dviṣate radham || 13 ||*
+
+**Pada-pāṭha** *(p. 144)*
+
+> उत् । अगात् । अयम् । आदित्यः । विश्वेन । सहसा । सह ।
+> द्विषन्तम् । मह्यम् । रन्धयन् । मो इति । अहम् । द्विषते । रधम् ॥ १३ ॥
+
+*ut | agāt | ayam | ādityaḥ | viśvena | sahasā | saha |*
+*dviṣantam | mahyam | randhayan | mo iti | aham | dviṣate | radham || 13 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 144)*
+
+> **आयं पुरोवर्त्यादित्योऽदितेः पुत्रः सूर्यो विश्वेन सहसा सर्वेण बलेन सहोदगात् । उदयं प्राप्तवान् । किं कुर्वन् । मह्यं द्विषन्तं रन्धयन् । मम ओपद्रवकारिणं हिंसन् । अपि चाहं द्विषतेऽनिष्टकारिणे रोगायु नो रधं । नैव हिंसां करोमि । सूर्य एव अस्मदनिष्टकारिणं रोगं विनाशयेदित्यर्थः ॥ अगात् । एतेर्लुङ्ङिणो गा लुङीति गादेशः । गातिस्थेति सिचो लुक् । आदित्यः । दित्यदित्यादित्यपत्युत्तरपदाण्ण्यः । पा. ४-१-८५ । इति ण्यप्रत्ययः । रन्धयन् । रध हिंसासंराद्ध्योः । ण्यन्ताल्लटः शतृ । रधिजभोरचि । पा. ७-१-६१ । इति णौ धातोर्नुमागमः । नो । मा उ निपातद्वयसमुदायो न्यैवेत्यस्यार्थे । ओत् । पा. १-१-१५ । इति प्रगृह्यत्वे प्लुतप्रगृह्या अचीति प्रकृतिभावः । द्विषते । शतुरनुम इति विभक्तेरुदात्तत्वं । रधं । रधेर्लुङि पुषादित्वात् च्लेरङादेशः । रधिजभोरचीति धातोर्नुम् । अनिदितामित्यनुषङ्गलोपः । न माङ्योगे इत्यडभावः ॥**
+
+*āyaṃ purovartyādityo 'diteḥ putraḥ sūryo viśvena sahasā sarveṇa balena sahodagāt | udayaṃ prāptavān | kiṃ kurvan | mahyaṃ dviṣantaṃ randhayan | mama opadravakāriṇaṃ hiṃsan | api cāhaṃ dviṣate 'niṣṭakāriṇe rogāyu no radhaṃ | naiva hiṃsāṃ karomi | sūrya eva asmadaniṣṭakāriṇaṃ rogaṃ vināśayed ity arthaḥ || agāt | eter luṅ iṇo gā luṅīti gādeśaḥ | gātisthe ti sico luk | ādityaḥ | dityadityādityapatyuttarapadāṇ ṇyaḥ | pā. 4-1-85 | iti ṇyapratyayaḥ | randhayan | radha hiṃsāsaṃrāddhyoḥ | ṇyantāl laṭaḥ śatṛ | radhijabhor aci | pā. 7-1-61 | iti ṇau dhātor num āgamaḥ | no | mā u nipātadvayasamudāyo naiveti asyārthe | oṭ | pā. 1-1-15 | iti pragṛhyatve plutapragṛhyā aceti prakṛtibhāvaḥ | dviṣate | śatur anuma iti vibhakter udāttatvaṃ | radhaṃ | radher luṅi puṣāditvāt cler aṅādeśaḥ | radhijabhor aceti dhātor num | anidītām ity anuṣaṅgalopaḥ | na māṅyoge ity aḍābhāvaḥ ||*
+
+*(The printed first word is "āyaṃ" for "ayaṃ" in the Sanskrit gloss and the reading "rogāyu no radhaṃ" [print: "rogā yu no rathaṃ"] is crowded: I give it as read, [?]. The Pāṇini numbers, as read.)*
+
+**Translation:** "This Āditya before us, the son of Aditi, Sūrya, *viśvena sahasā saha*, with all his might, *ud agāt*, has risen. Doing what? *Mahyam dviṣantam randhayan*, injuring my hater, the one who makes trouble for me. And also *aham dviṣate*, I, to the hater, the doer of ill, to the disease, *no radham*, do not do harm: let the Sun himself destroy the disease that does us ill — this is the sense. *Agāt*: *luṅ* of *i*, *gā* by *iṇo gā luṅi*; *luk* of *sic* by *gātisthā…*. *Ādityaḥ*: *ṇya* after *aditi*, by *dityadityādityapatyuttarapadāṇ ṇyaḥ*. *Randhayan*: root *radha hiṃsāsaṃrāddhyoḥ*; *śatṛ* after *laṭ* with *ṇic*; *num* by *radhijabhor aci*. *No*: the combination of the two *nipātas* *mā* and *u*, in the sense of *na eva*; *pragṛhya* by *oṭ*, so the *prakṛtibhāva* by *plutapragṛhyā aci*. *Dviṣate*: the case-ending is acute by *śatur anumaḥ…*. *Radham*: aorist of *radh*, with *aṅ* because the root is in the *puṣādi* list; *num* by *radhijabhor aci*; the nasal dropped; no *aṭ* by *na māṅyoge*."
+
+**Pratipadārtha** *(p. 145)* — "**ayam ādityaḥ** — this son of Aditi, Sūrya, who is before us; **viśvena sahasā saha** — together with all his strength; **mahyam** — for me; **dviṣantam** — the enemy in the form of disease; **randhayan** — destroying; **ud agāt** — has risen; **aham** — I; **dviṣate** — to the enemy who does me harm in the form of disease; **no radham** — do no harm. (Let the Sun himself destroy the enemy for my sake.)"
+
+**Bhāvārtha** *(p. 145)* — "This Sun, the son of Aditi, who is before us, has risen with all his strength, destroying the enemy in the form of disease that is in me. I have no power to destroy that enemy. Let the Sun himself destroy it."
+
+**English Translation (the source's own, p. 145)** — "This Aditya has risen with all his might (glory) destroying my adversary, for I am unable to resist my enemy."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 145**
+- **ayam ādityaḥ** — "this Sun, that is, the Sun who is visible before me; the Sun who has now risen."
+- **viśvena sahasā saha** — "with all strength, that is, with all rays, with abundant radiance: 'with all his glory' [printed in English]. The word *sahas* is read among the names of strength (Ni. 2-[?]9 as read)."
+- **mahyaṃ dviṣantaṃ randhayan** — "causing the enemies who do me harm to be injured; Skandasvāmin explains the word *randhayan* as '*radhyatir vaśagamane*', 'to make subject', and '*mama vaśaṃ nayann ity arthaḥ*', that is, 'bringing my enemies under my control'." — **untranslated in the source**:
+
+  > **रध्यतिर्वशगमने । मम वशं नयन्नित्यर्थः ।** *(Skandasvāmin, as the print gives it)*
+
+  *radhyatir vaśagamane | mama vaśaṃ nayann ity arthaḥ |* — mine and tentative: "*radhyati* is in the sense of 'bringing under control'; the sense is 'leading (them) under my control'."
+- **mo aham dviṣate radham** — "*asya bhagavataḥ prasādān nāhaṃ śatror vaśaṃ gaccheyam*": 'by the grace of this blessed one may I not come under the power of my enemy' — the meaning, "that I may not be made subject to enemies", is also fitting. The commentator explains these words as 'I would not injure my enemies in the form of diseases; let the Sun himself destroy them'." — **untranslated in the source**:
+
+  > **अस्य भगवतः प्रसादान्नाहं शत्रोर्वशं गच्छेयम् ।** *(Skandasvāmin, as the print gives it)*
+
+  *asya bhagavataḥ prasādān nāhaṃ śatror vaśaṃ gaccheyam |* — mine and tentative: "by the grace of this blessed one, may I not go under the power of an enemy."
+
+**Vyākaraṇa-prakriyā** *(pp. 145–147 — grammar pages, noted briefly)*
+- **agāt**: root *iṇ gatau*, *adādi*; *luṅ*, third person singular *tip*; *itaś ca* drops the *i*; *iṇo gā luṅi* (Pā. 2-4-45 as read) gives *gā* for *iṇ* when *luṅ* follows; *cleḥ sic*; the *aṭ* augment; *a + gā + s + t*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read) drops the *sic*: *agāt*.
+- **ādityaḥ**: "*aditeḥ apatyaṃ pumān*", a son of Aditi; *dityadityādityapatyuttarapadāṇ ṇyaḥ* (Pā. 4-1-85 as read) gives *ṇya* after *diti, aditi, āditya* and words ending in *pati* in the sense of "offspring", as an exception to *aṇ*; *aditi + ya*, being *ṇit*, *taddhiteṣv acām ādeḥ* gives *vṛddhi* to the first vowel; *yasyeti ca* drops the final *i* before *ya*: *āditya*; end-acute by the suffix-accent.
+- **randhayan**: root *radha hiṃsāsaṃrāddhyoḥ*, *divādi*; *hetumati ca* (Pā. 3-1-26 as read) gives *ṇic* when the sense is "causing"; *rādhi* is the root, *ṇic* being in the *sanādi* list (*sanādyantā dhātavaḥ*); *laṭaḥ śatṛśānacau* gives *śatṛ*; *radh + i + at*; *radhijabhor aci* (Pā. 7-1-61 as read) gives *num* to *radh* and *jabh* before an *ac*-initial suffix; being *mit*, *num* comes after the last vowel: *randh*; since *a* is not the penultimate of *randh* (the nasal intervenes), no *vṛddhi*; *guṇa*, *ay*: *randhayat*, a stem in *t*; *num* for the *śatṛ* (*ugit*) in the nominative singular; *halṅyābbhyo…* drops the *su*; the final conjunct drops (*saṃyogāntasya lopaḥ*), and since that is *asiddha*, *nalopaḥ prātipadikāntasya* does not apply the second time: *randhayan*.
+- **mo**: the union of the two *nipātas* *mā* and *u*, in the sense of *eva* ("indeed not"); *mo + aham*: *avādeśa* is obtained, but *oṭ* (Pā. 1-1-15 as read) gives the *pragṛhya* name to an *o*-ending *nipāta*; *plutapragṛhyā aci nityam* (Pā. 6-1-125 as read) makes the *pragṛhya* keep its form before a vowel: *mo aham*.
+- **dviṣate**: root *dviṣa aprītau*, *adādi*; *śatṛ*, stem *dviṣat*; dative singular *dviṣate*; *śatur anumo nadyajādī* (Pā. 6-1-173 as read): a vowel-initial case-ending after a *śatṛ* stem without *num* is acute; so the *e* of *dviṣate* is acute; *dviṣate* is end-acute.
+- **radham**: root *radha hiṃsāsaṃrāddhyoḥ*, *divādi*; *luṅ*; *sic*, then for *cli* the substitute *aṅ* (*puṣādidyutādilṛditaḥ parasmaipadeṣu*, Pā. 3-1-55 as read) since the root is in the *puṣādi* list; *radhijabhor aci* gives *num* to the root before the *ac*-initial *aṅ*: *randh + a*; *anidītāṃ hala upadhāyāḥ kṅiti* drops the nasal because of *ṅit*-ness; *na māṅyoge* (Pā. 6-4-74 as read) forbids *aṭ* where *māṅ* is connected: here *mo* (= *mā + u*) is connected, so no *aṭ*; *radh + a + am*: *radham*; being after a non-verb, the all-unaccented by *tiṅ atiṅaḥ* does not apply since this is *aṅ* — the print says that the *aṅ*-form is end-acute. **|| 13 ||**
+
+---
+
+**Close of Sūkta 50.** After the grammar of Rik 13, at the foot of printed p. 147, a short printed rule closes the sūkta; **no closing sentence** is printed. The sūkta (*ud u tyaṃ jātavedasam*, thirteen Riks to Sūrya) therefore occupies printed pp. 106–147 (PDF 122–163). Below the rule, on the same leaf (**p. 147 = PDF 163**), stands the large title "*aivattomdaneya sūktavu*" ("the fifty-first sūkta"), so the contents table's page for Sūkta 51 (p. 147) is confirmed.
+
+**Beginning of Sūkta 51 (identification only, not translated here).** Sāyaṇa's introduction (Kannada script) reads, as I see it: "*daśame 'nuvāke sapta sūktāni | tatrābhi tyam iti pañcadaśarcaṃ prathamaṃ sūktaṃ | āṅgiraso nodhā ṛṣiḥ …*" — the first of the seven sūktas of the **Tenth Anuvāka**, **fifteen ṛks**, beginning *abhi tyaṃ meṣam*; the Anukramaṇikā ("*abhi tyaṃ pañconā savyo dvitriṣṭubbantam*") and the legend are given: "the sage Aṅgiras, wishing for a son equal to Indra, worshipped the gods; then Indra, thinking 'none on earth is equal to me', himself was born to the sage as a son named *Savya*; this Savya, the Āṅgirasa, is the ṛṣi of this sūkta" [as I read the Kannada anuvāda, p. 147]; the fourteenth and fifteenth ṛks are Triṣṭubh, the rest Jagatī; the deity is Indra; used in the Atirātra rite and the Viṣuvat day (Āśv. 6-4, 9-6 [?]). The page ends in the middle of the anuvāda; the heading block (Maṇḍala 1, Anuvāka 10, Sūkta 51, Aṣṭaka 1, Adhyāya 4, varga …) and Rik 1 are on p. 148. The Sanskrit introduction and the Kannada anuvāda are **not yet written** and belong to the next session. *(Note: the anuvāda names the ṛṣi as Savya Āṅgirasa; the Sanskrit introduction's first words read "āṅgiraso nodhā" — two sages are named in the print, and the contents-page preface mentions Nodhas; to be checked on p. 147 when it is translated.)*
+
+**Summary of Sūkta 50 (my note).** Thirteen Riks to Sūrya, all written in full. Rik 1 says the Sun's horses or rays carry him aloft for all to see; Rik 2 says the stars flee with the nights like thieves at his coming; Rik 3 compares his rays to blazing fires seen among men; Rik 4 praises him as the swift crosser of the sky, visible to all, the maker of light (and in a second sense, as the Supreme Self who ferries men across *saṃsāra*); Rik 5 says he rises facing the Maruts, men and heaven, that all may see him; Rik 6 asks to praise the light by which he looks on the world; Rik 7 says he travels the middle region, measuring days and nights; Rik 8 describes his seven *harit* horses and his flame-hair; Rik 9, his seven self-yoked mares; Rik 10 (the first Anuṣṭubh) says that, seeing the highest light, we have reached the Sun; Riks 11–13 (the triad for the cure of disease) pray that he rising to the highest sky destroy the sickness of the heart and the yellowness of the body, transfer the yellowness to parrots, starlings and the *haritāla* tree, and destroy the enemy-disease that the poet cannot resist. All thirteen Riks are written in full. The doubtful parts are the Anukramaṇikā word in the introduction, the many reference numerals (all "as read [?]"), the Nirukta, Taittirīya and Śatapatha citations (glosses mine and tentative), the unnumbered Yāska passage in Rik 7, the crowded bhāṣya tails of Riks 9 and 11, and the outlined (not transcribed) grammar discussions (*uttarām*'s *āmu*, *naptyaḥ*, *pratyaṅ*).
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE (printed pp. 1–147 = PDF 17–163). Sūkta 51 begins in the middle of printed p. 147 (PDF 163).**
+
+**Next task:** Sūkta 51 (*abhi tyaṃ meṣam*, Maṇḍala 1, **Tenth Anuvāka**, first of its seven sūktas, **15 Riks**, ṛṣi Savya Āṅgirasa [the anuvāda names him; the Sanskrit introduction's first words seem to read "āṅgiraso nodhā" — check], deity Indra, Jagatī with Riks 14–15 in Triṣṭubh): its title, Sāyaṇa's introduction and the first part of the Kannada anuvāda are on the lower half of printed p. 147 = PDF 163, identified but **not yet written**; the anuvāda continues and the heading block and Rik 1 are on p. 148 (PDF 164). The contents table puts Sūkta 52 at printed p. 212 — check the print. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 163 -l 230 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-163.jpg`). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
