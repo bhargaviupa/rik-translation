@@ -8512,10 +8512,172 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 44.7, continued** *(from p. 517; the Saṃhitā, Pada and the beginning of the bhāṣya are above)*
+
+**Sāyaṇa-bhāṣya, end** *(p. 517)*
+
+> **… यद्वा । वेद इति धननाम । विश्वानि वेदांसि यस्यासौ विश्ववेदा । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वं । इन्धते । ञिइन्धी दीप्तौ । श्नसोरल्लोप इत्यकारलोपः । श्नान्नलोपः । पा. ६-४-२३ [?] । प्रत्ययस्वरः । हि चेति निघातप्रतिषेधः ॥ ७ ॥**
+
+*… yadvā | veda iti dhananāma | viśvāni vedāṃsi yasyāsau viśvavedā | bahuvrīhau viśvaṃ saṃjñāyām iti pūrvapadāntodāttatvaṃ | indhate | ñi indhī dīptau | śnasor allopa ity akāralopaḥ | śnān nalopaḥ | pā. 6-4-23 [?] | pratyayasvaraḥ | hi ceti nighātapratiṣedhaḥ || 7 ||*
+
+**Translation of the end:** "… Or: *veda* is a name for wealth; '*viśvāni vedāṃsi yasya*', he who has all wealth: *viśvavedāḥ*; in the bahuvrīhi the first member is final-acute by *viśvaṃ saṃjñāyām*. *Indhate*: root *ñi indhī dīptau*; the loss of *a* by *śnasor allopaḥ*; the loss of *n* by *śnān nalopaḥ* [Pā. 6-4-23 [?]]; accent of the suffix; the prohibition of *nighāta* by *hi ca*."
+
+**Pratipadārtha** *(p. 517)* — "**hotāram** — [you who are] the accomplisher of the offering; **viśvavedasam** — and all-knowing; **tvā** — you; **viśaḥ** — all the people; **sam indhate hi** — it is right [to say that] they make [you] blaze well; **puruhūta** — O [you who are] called by many; **agne** — O Agni; **saḥ** — that you; **pracetasaḥ** — endowed with excellent knowledge; **devān** — the gods; **iha** — to this sacrificial rite; **dravat** — with promptness; **ā vaha** — bring [them] face to face."
+
+**Bhāvārtha** *(p. 517)* — "O Agni, since you are all-knowing and the accomplisher of the offering, all the people make you blaze well in the sacrifice. They all give you invitations. Accept their invitations and bring promptly to this rite of ours the gods endowed with excellent knowledge."
+
+**English Translation (the source's own, p. 517)** — "O Agni, the people kindle you, the all-knowing invoker ( Agani [sic] ) invoked [printed "nvoked"] by many, you bring hither, the wise gods quickly."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 517**
+- **viśaḥ** — "*prajāḥ*, people, that is, priests and others who praise you in the sacrifice."
+- **pracetasaḥ** = *prakṛṣṭajñānayuktān* — "gods of excellent knowledge."
+- **dravat** — "quickly. Since the word *dravat* is read among the twenty-six names of 'quick' beginning with *nu*, *makṣu*, *dravat* means promptly, quickly."
+
+**Vyākaraṇa-prakriyā** *(pp. 517–518 — grammar pages, noted briefly)*
+- **hotāram**: root *hu dānādanayoḥ*; *tṛc*; *guṇa*, *upadhādīrgha*; *am*.
+- **viśvavedasam**: "*viśvāni vetti*": root *vida jñāne*; *sarvadhātubhyo 'sun* [Uṇ. 4-[?] as read]; *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives the first member final-acute; or *veda* = wealth: "he whose wealth is all": a bahuvrīhi; *bahuvrīhau viśvaṃ saṃjñāyām* [Pā. 6-2-106 as read]: when a name is meant, the word *viśva* as the first member of a bahuvrīhi is final-acute.
+- **indhate**: root *ñi indhī dīptau*, *rudhādi*, *ātmanepada*; *laṭ*, *jha*; *ātmanepadeṣv nataḥ*: *at* for *jha*; *rudhādibhyaḥ śnam*; *śnasor allopaḥ* [Pā. 6-4-111 as read]: the *a* of *śna* is lost before a *kit* or *ṅit* *sārvadhātuka*; *śnān nalopaḥ* [Pā. 6-4-23 as read]: the *n* of the root, after *śna*, is lost; *ṭi* → *e* by *ṭita ātmanepadānāṃ ṭer e*; *ād ādyudāttaś ca* [as read]: since the substitute *at* is counted as in the *upadeśa* (*āyannādiṣūpadeśivadvacanaṃ svarasiddhyartham*), the *at* is first-syllable acute and by *ādyudāttaś ca* the suffix *ate* is acute; *hi ca* prohibits the wholly-unaccented. Rik 7 ends here (*|| 7 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 516 (PDF 530) reached; introduction, heading and Riks 44.1–44.6 complete; Rik 44.7's Saṃhitā, Pada and the first part of its bhāṣya written (the bhāṣya breaks off mid-sentence at "*marudvṛdhāditvāt pūrvapadāntodāttatvaṃ …*" at the foot of p. 516).**
+### Rik 44.8 (pp. 518–521, PDF 532–535)
 
-**Next task:** continue at printed p. 517 (PDF 531) with the end of the bhāṣya of Rik 44.7, then its Pratipadārtha etc., Riks 8–14 and the close of Sūkta 44 (the contents table puts Sūkta 45 at p. 541 — check), then STOP at the end of Sūkta 44 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 507–545) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 531 -l 560 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 518; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 43's list is in the commit "Vol 4: Sūkta 43 complete"). Sūkta 44 so far: (1) ṛṣi Praskaṇva Kāṇva; heading numerals and the deity-line Rik numerals doubtful; the Anukramaṇikā's last clause crowded; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini and Uṇādi reference numeral is "as read [?]"; (3) Rik 1: the Nirukta passage on *jātavedas* untranslated in the source — my gloss tentative; (4) **Rik 2: a placeholder slip of mine** ("*niṣṭhāyāṃ …*" in the bhāṣya's tail, not in the print) was repaired in place after the fact (correction note in the text) — the file is not strictly append-only there; (5) the source's English misprints are kept [sic]: Rik 2 "Agani", "well-iiked", "conducter"; Rik 3 "to-lay"; (6) Rik 3: "*yogāsevinaṃ*" and the tail on *vyuṣṭiṣu* crowded; (7) Rik 4: the rule-name for *yaviṣṭha* (*sthūladūra…*) and the long Uṇādi sūtra on *atithi* (list of roots and suffixes) are crowded and not reproduced; (8) Rik 5: the bhāṣya's closing numeral reads like "25" (Rik number 5; unexplained); (9) Rik 6: the clause on the optional *pit*-ness of *hi* and *laghūpadhaguṇa* in the bhāṣya is crowded [?]; the ṛk-count and sūkta numerals for Praskaṇva in the Special Topics, and the cross-reference to "Ṛgveda Saṃhitā part 2, p. 539", are small and read with doubt; (10) Rik 7: the Nighaṇṭu-type quotation "*dravadoṣam*" is read with doubt.
+> **सवितारमुषसमश्विना भगमग्निं व्युष्टिषु क्षपः ।**
+> **कण्वासस्त्वा सुतसोमास इन्धते हव्यवाहं स्वध्वर ॥ ८ ॥**
+
+*savitāram uṣasam aśvinā bhagam agniṃ vyuṣṭiṣu kṣapaḥ |*
+*kaṇvāsas tvā sutasomāsa indhate havyavāhaṃ svadhvara || 8 ||*
+
+**Pada-pāṭha** *(p. 518)*
+
+> सवितारम् । उषसम् । अश्विना । भगम् । अग्निम् । विऽउष्टिषु ।
+> क्षपः ।
+> कण्वासः । त्वा । सुतऽसोमासः । इन्धते । हव्यऽवाहम् ।
+> सुऽअध्वर ॥ ८ ॥
+
+*savitāram | uṣasam | aśvinā | bhagam | agnim | vi-uṣṭiṣu |*
+*kṣapaḥ |*
+*kaṇvāsaḥ | tvā | suta-somāsaḥ | indhate | havya-vāham |*
+*su-adhvara || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 519)*
+
+> **हे स्वध्वर शोभनयोगयुक्ताग्ने । व्युष्टिषूषःकालेषु श्रवोऽन्नमाहुतिरूपमभिलक्ष्य सवित्रादीन्देवानावहेत्यनुवर्तते । स्वध्वरेत्याहवनीयोग्नेः सम्बोधनं । अग्निमिति हविष उद्देश्यं देवतान्तरमुच्यते सुतसोमासोऽभिषुतसोमाः कण्वासो मेधाविन ऋत्विजो हव्यवाहं हविषः प्रापकमाहवनीयं त्वामिन्धते दीपयन्ति ॥ व्युष्टिषु । उभी विवासे । विवासो वर्जनं । व्युच्छ्यते तमसा वर्ज्यते इति व्युष्टिरुषःकालः । कर्मणि क्तिनि क्रादौ च नितीति गतेः प्रकृतिस्वरत्वं । संहितायामुदात्तस्वरितयोर्यण इति परस्यानुदात्तस्य स्वरितत्वं । क्षपः । क्षपेति रात्रिनाम । जस्यातो धातोः । पा. ६-४-१४० । इत्यत्रात इति योगविभागादाकारलोपः । सुतसोमासः । सुतः सोमो यैस्ते । निष्ठेति पूर्वनिपातः । पा. २-२-३६ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । हव्यवाहं । हव्यं वहतीति हव्यवाट् । वहश्चेति ण्विप्रत्ययः ॥ ८ ॥**
+
+*he svadhvara śobhanayogayuktāgne | vyuṣṭiṣūṣaḥkāleṣu śravo 'nnam āhutirūpam abhilakṣya savitrādīn devān āvahety anuvartate | svadhvarety āhavanīyognaḥ saṃbodhanaṃ | agnim iti haviṣa uddeśyaṃ devatāntaram ucyate sutasomāso 'bhiṣutasomāḥ kaṇvāso medhāvina ṛtvijo havyavāhaṃ haviṣaḥ prāpakam āhavanīyaṃ tvām indhate dīpayanti || vyuṣṭiṣu | ubhī vivāse | vivāso varjanaṃ | vyucchyate tamasā varjyate iti vyuṣṭir uṣaḥkālaḥ | karmaṇi ktini krādau ca niti iti gateḥ prakṛtisvaratvaṃ | saṃhitāyām udāttasvaritayor yaṇa iti parasyānudāttasya svaritatvaṃ | kṣapaḥ | kṣapeti rātrināma | jasy āto dhātoḥ | pā. 6-4-140 | ity atrāta iti yogavibhāgād ākāralopaḥ | sutasomāsaḥ | sutaḥ somo yais te | niṣṭheti pūrvanipātaḥ | pā. 2-2-36 | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | havyavāhaṃ | havyaṃ vahatīti havyavāṭ | vahaś ceti ṇvipratyayaḥ || 8 ||*
+
+*(In the bhāṣya "āhavanīyognaḥ" (for* āhavanīyo 'gneḥ*) is as read, doubtful [?]; the clause "ktini krādau ca niti" and the Pāṇini numbers are read with doubt.)*
+
+**Translation:** "O *svadhvara*, Agni, endowed with fine sacrificial connections — *vyuṣṭiṣu*, at the times of dawn, *śravaḥ*, food, in the form of the offering, aiming at: 'bring the gods beginning with Savitṛ' is carried over. '*Svadhvara*' is the address to the *Āhavanīya* fire. '*Agnim*' is said of another deity who is the object of the oblation. *Sutasomāsaḥ*, those who have pressed the Soma, *kaṇvāsaḥ*, the wise priests, *havyavāham*, the bearer of oblations, the *Āhavanīya* which conveys the oblation — you — *indhate*, they kindle. *Vyuṣṭiṣu*: root *ubhī vivāse*; '*vivāsaḥ*' is *varjanam*; the time of dawn, when [the world] is specially dispelled by darkness. *Kṣapaḥ*: *kṣapā* is a name for night; the loss of the *ā* by the *yogavibhāga* of *ata* in *jasy āto dhātoḥ* [Pā. 6-4-140]. *Sutasomāsaḥ*: '[those] by whom the Soma is pressed'; *niṣṭhā* comes first in the compound [Pā. 2-2-36]; the accent of the first member in the bahuvrīhi. *Havyavāham*: '*havyaṃ vahati*', *havyavāṭ*; *ṇvip* by *vahaś ca*."
+
+**Pratipadārtha** *(p. 519)* — "**svadhvara** — O Agni, endowed with excellent sacrifices; **kṣapaḥ** — after the night; **vyuṣṭiṣu** — at the times of dawn; **savitāram** — Savitṛ; **uṣasam** — Uṣas; **aśvinā** — the Aśvin deities; **bhagam** — Bhaga; **agnim** — [and] the god Agni (bring [them]); **sutasomāsaḥ** — those who have the Soma juice [pressed]; **kaṇvāsaḥ** — the wise priests; **havyavāham** — you who carry the oblations; **indhate** — they make [you] blaze."
+
+**Bhāvārtha** *(p. 519)* — "O Agni, you are endowed with excellent sacrifices. At the times of dawn, immediately after the night, bring to our sacrifice Savitṛ, Uṣas, the Aśvin deities, Bhaga and the god Agni. The wise priests press the Soma juice and make you, who carry the oblations, blaze."
+
+**English Translation (the source's own, p. 519)** — "O Agni, who is worshipped well in the sacrifices, bring hither, at the break of the day preceeding [sic] the night, Savitru, Ushas, the Aswins, Bhaga and Agni ; the Kanwas having pressed and poured out the soma libations, kindle you, the carrier of oblation ( to the gods )." *(The source's heading for this English reads "Englih Translation" — a misprint [sic]; "Agni" is printed "Agui" once.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 520**
+- **savitāram, uṣasam, aśvinā, bhagam, agnim** — "the ṛṣi prays Agni to come bringing these deities. Since Agni is also among the deities here, it is impossible that Agni should call Agni himself. So the main intention is: 'together with these deities we invite you too'."
+- **kṣapaḥ** — "*kṣapā* means night; here 'after the night'; since the word *kṣapā* is read among the twenty-three names of night beginning with *śyāvī*, *kṣapā*, the word means night."
+- **kaṇvāsaḥ** — "the sons of the ṛṣi Kaṇva, or the descendants of the ṛṣi Kaṇva."
+- **sutasomāsaḥ** — "*sutaḥ somo yaiḥ te*: those who have pressed and made ready the Soma juice."
+- **indhate** — "they kindle; they make blaze; after churning the fire, they first establish that fire in the fire-pit called *Āhavanīya*, set up in the eastern part of the sacrificial altar."
+- **svadhvara** = *śobhanayogayuktāgne* — "one who is worshipped in excellent sacrifices."
+
+**Vyākaraṇa-prakriyā** *(pp. 520–521 — grammar pages, noted briefly)*
+- **vyuṣṭiṣu**: "explained in the third mantra of this sūkta."
+- **kṣapaḥ**: "*kṣapā* is a name for night. After it *jas*; *jasy āto dhātoḥ* [Pā. 6-4-140 as read]: the final *ā* of a *bha*-named *aṅga* that ends in an *ā*-ending root is lost; but *kṣapā* is not an *ā*-ending root; so this sūtra cannot give the loss here. Here the sūtra has been divided (*yogavibhāga*) into *ātaḥ*: [it provides that] the final *ā* of an *ā*-ending *aṅga* that has the *bha* name is lost; the sense of the second part is as said before; here the loss of the *ā* comes by *ātaḥ*."
+- **sutasomāsaḥ**: root *ṣuñ abhiṣave*; *kta* in the passive sense; "*sutaḥ somo yaiḥ te*", a bahuvrīhi; *niṣṭhā* [Pā. 2-2-36 as read]: in a bahuvrīhi a *kta*/*ktavatu*-ending word is used as the first member; so *suta* is put first; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member.
+- **havyavāham**: the same *ṇyuṭ* as in the first pāda of Rik 2 [Ṛg. 1-44-2] is possible by *havye 'nantaḥpādam*; but here the word stands at the beginning of the fourth *pāda*, so *havye 'nantaḥ…* does not apply; and *vahaś ca* — वहश्च — [Pā. 3-2-64 as read]: when a *subanta* is the *upapada*, *ṇvi* after *vah*; so *ṇvi*; *upadhāvṛddhi*, *ṭh-tva* [*ḍhatva*] and the like. Rik 8 ends here (*|| 8 ||*).
+
+---
+
+### Rik 44.9 (pp. 521–524, PDF 535–538)
+
+**Saṃhitā-pāṭha** *(p. 521; accents not reproduced)*
+
+> **पतिर्ह्यध्वराणामग्ने दूतो विशामसि ।**
+> **उषर्बुध आ वह सोमपीतये देवाँ अद्य स्वर्दृशः ॥ ९ ॥**
+
+*patir hy adhvarāṇām agne dūto viśām asi |*
+*uṣarbudha ā vaha somapītaye devām̐ adya svardṛśaḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 521)*
+
+> पतिः । हि । अध्वराणाम् । अग्ने । दूतः । विशाम् । असि ।
+> उषःऽबुधः । आ । वह । सोमऽपीतये । देवान् । अद्य ।
+> स्वःऽदृशः ॥ ९ ॥
+
+*patiḥ | hi | adhvarāṇām | agne | dūtaḥ | viśām | asi |*
+*uṣaḥ-budhaḥ | ā | vaha | soma-pītaye | devān | adya |*
+*svaḥ-dṛśaḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 521–522)*
+
+> **हे अग्ने विशां प्रजानां सम्बन्धिनो येऽध्वरा योगास्तेषां पतिः पालकस्त्वं दूतोऽसि हि । देवानां वार्ताहारो भवसि खलु । उषर्बुध उषःकाले प्रबुद्धान् स्वर्दृशः सूर्यदर्शिनो देवानद्यास्मिन्दिने सोमपीतये सोमपानार्थमा वह । अभिमुख्येन प्रापय ॥ असि । हि चेति निघातप्रतिषेधः । सोमपीतये । पा पाने । स्थागापापचो भाव इति भावे क्तिन् । घुमास्थेतीत्वं । सोमस्य पीतिः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । स्वर्दृशः । सुष्ठ्वर्ति गच्छतीति स्वरादित्यः । अर्तेरन्येभ्योऽपि दृश्यन्त इति विच् । तं पश्यन्तीति स्वर्दृशः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ ९ ॥**
+
+*he agne viśāṃ prajānāṃ sambandhino ye 'dhvarā yogās teṣāṃ patiḥ pālakas tvaṃ dūto 'si hi | devānāṃ vārtāhāro bhavasi khalu | uṣarbudha uṣaḥkāle prabuddhān svardṛśaḥ sūryadarśino devān adyāsmin dine somapītaye somapānārtham ā vaha | abhimukhyena prāpaya || asi | hi ceti nighātapratiṣedhaḥ | somapītaye | pā pāne | sthāgāpāpaco bhāva iti bhāve ktin | ghumāstheti ītvaṃ | somasya pītiḥ | dāsībhārāditvāt pūrvapadaprakṛtisvaratvaṃ | svardṛśaḥ | suṣṭhv arti gacchatīti svarādityaḥ | arter anyebhyo 'pi dṛśyanta iti vic | taṃ paśyantīti svardṛśaḥ | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvaṃ || 9 ||*
+
+*(In the grammatical tail the words "svarādityaḥ" (for* svar ādityaḥ*, 'svar' = the Sun) and the rule-name* sthāgāpāpaco bhāve *are as read, doubtful [?].)*
+
+**Translation:** "O Agni, you, the *patiḥ*, the protector, of the *adhvarāṇām*, sacrifices that belong to *viśām*, the people — *dūtaḥ asi hi*, you are the messenger of the gods, the carrier of tidings. *Uṣarbudhaḥ*, the gods who have awakened at the time of Uṣas, *svardṛśaḥ*, who see the sun, *adya*, today, *somapītaye*, for the drinking of Soma, *ā vaha*, bring, make [them] reach face to face. *Asi*: the prohibition of *nighāta* by *hi ca*. *Somapītaye*: root *pā pāne*; *ktin* in the abstract sense by *sthāgāpāpacaḥ* [as read]; *ī* by *ghumāsthā…*; 'the drinking of Soma': by belonging to the *dāsībhārādi* group the first member keeps its accent. *Svardṛśaḥ*: '*suṣṭhu arti gacchati*' [gives] *svar*, the sun; *vic* by *anyebhyo 'pi dṛśyante* after *ṛ*; '*taṃ paśyanti*', those who see him: *svardṛśaḥ*; *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*."
+
+**Pratipadārtha** *(p. 522)* — "**agne** — O Agni; **viśām** — of the people; **adhvarāṇām** — of the sacrifices; **patiḥ** — as protector; **dūtaḥ** — as messenger of the gods; **asi hi** — you are; **uṣarbudhaḥ** — those who rise at dawn; **svardṛśaḥ** — and who look at the sun; **devān** — the gods; **adya** — today; **somapītaye** — for the drinking of the Soma juice; **ā vaha** — bring [them] face to face to [us]."
+
+**Bhāvārtha** *(p. 522)* — "O Agni, you are the protector of the sacrifices of the people and the messenger of the gods. Therefore you are a benefactor equally to the gods and to men. The gods awake at dawn and look at the sun. Bring those gods to our sacrificial place to drink the Soma juice."
+
+**English Translation (the source's own, p. 522)** — "O Agni, you are the protector of the sacrifices of the people and the messenger of the gods ; bring hither to-day the gods awaking at dawn and seeing the sun, to drink the Soma-juice."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 522–523**
+- **adhvarāṇāṃ patiḥ** — "*yajñānāṃ pālakaḥ*: the protector of sacrifices: 'protector of sacrifices or lord of the sacrifices' (English as printed). Lord of sacrifices: since Agni has pre-eminence in sacrifices, he is called *yajñapati*."
+- **viśāṃ** — "*prajānāṃ sambandhino ye adhvarās teṣām*: the commentator says it means 'the protector of the sacrifices that the people perform'. Rather than this, it seems more suitable to connect the word *viśām* with the word *dūtaḥ* and take *dūto viśām asi* as 'you are the messenger who goes from the people to the gods'."
+- **uṣarbudhaḥ** — "the explanation of this word I have given in the first ṛk of this sūkta."
+- **svardṛśaḥ** — "*suṣṭhu arti gacchatīti svaḥ* — it is one who goes in the atmosphere; thus *svaḥ* means the Sun; those who see him are *svardṛśaḥ*. The gods are in heaven, so they look at the Sun who is in heaven. Or, taken with the word *uṣarbudhaḥ*: the gods who, rising at dawn, look at the Sun at the time of his rising."
+
+**Vyākaraṇa-prakriyā** *(pp. 523–524 — grammar pages, noted briefly)*
+- **patiḥ**: root *pā rakṣaṇe*; *pāter ḍatiḥ* — पातेर्डतिः — [Uṇ. 4-[?] as read]: the suffix *ḍati*, with loss of *ṭi*; by the suffix accent first-syllable acute (as printed: *ādyudātta*).
+- **adhvarāṇām**: "*na vidyate dhvaraḥ* (injury) *yeṣu te adhvarāḥ*, of those"; a bahuvrīhi; *nañ-subhyām* gives the latter member final-acute.
+- **agne**: begins a *pāda*; the eighth-*adhyāya* unaccentedness does not come; *āmantritasya ca* gives first-syllable acute.
+- **asi**: root *as bhuvi*, *adādi*; *sip*; *śap* → *luk*; *tāsasty…* gives the loss of the *s* of the root; the prohibition of the wholly-unaccented by *hi ca*; *sip* being *pit* is unaccented.
+- **somapītaye**: "*ṣuñ abhiṣave*; *mun*… [Uṇ. 1-1-62 as read: *ārtistusuhusṛghṛkṣiptabhāyāvāpadiyakṣinībhyo man*]: the suffix *man* after *ṣuñ*, *guṇa*: *soma*; root *pā pāne*; *sthāgāpāpacō bhāve* — स्थागापापचो भावे — [Pā. 3-3-95 as read]: after these roots *ktin* in the abstract; *ghumāsthāgāpājahātisāṃ hali* [Pā. 6-4-66 as read]: *ī* for the *ā* of these roots before a *kit* or *ñit* *ārdhadhātuka* beginning with a consonant: *pīti*; '*somasya pītiḥ*': a *ṣaṣṭhī*-tatpuruṣa; *kurugārhapatarikta-guru-sūtajaratśleṣmīla* [— the rule *kurugārhapatarikta…* is Pā. 6-2-42 as read]: a list of seven compounds — words belonging to the *dāsībhārādi* group keep the accent of the first member, so the first member keeps its accent; the first member is first-syllable acute by the *nit*-accent; so this stays.
+- **svardṛśaḥ**: "*suṣṭhu ati* = goes [well], hence *svaḥ*, the Sun; '*ṛ gatau*' after *su* as *upapada*; *anyebhyo 'pi dṛśyante* [Pā. 3-2-75 as read]: *manin*, *kvanip*, *vanip*, *vic* — the four suffixes come after roots, hence *vic*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* with *raparatva*: *su + ar*; *yaṇ*: *svar*; '*svaḥ paśyanti*'; *kvip ca*: after *dṛśir prekṣaṇe*, *kvip*, *svardṛk*; by *gatikārakopapadāt kṛt* the *kṛt*-ending latter member keeps its accent; accusative plural *śas*: *svardṛśaḥ*." Rik 9 ends here (*|| 9 ||*).
+
+---
+
+### Rik 44.10 (p. 524 foot, PDF 538–)
+
+**Saṃhitā-pāṭha** *(p. 524; accents not reproduced)*
+
+> **अग्ने पूर्वा अनूषसो विभावसो दीदेथ विश्वदर्शतः ।**
+> **असि ग्रामेष्वविता पुरोहितोऽसि यज्ञेषु मानुषः ॥ १० ॥**
+
+*agne pūrvā anūṣaso vibhāvaso dīdetha viśvadarśataḥ |*
+*asi grāmeṣv avitā purohito 'si yajñeṣu mānuṣaḥ || 10 ||*
+
+**Pada-pāṭha** *(p. 524)*
+
+> अग्ने । पूर्वाः । अनु । उषसः । विभावसो इति विऽभावसो ।
+> दीदेथ । विश्वऽदर्शतः ।
+> असि । ग्रामेषु । अविता । पुरःऽहितः । असि । यज्ञेषु ।
+> मानुषः ॥ १० ॥
+
+*agne | pūrvāḥ | anu | uṣasaḥ | vibhāvaso iti vi-bhāvaso |*
+*dīdetha | viśva-darśataḥ |*
+*asi | grāmeṣu | avitā | puraḥ-hitaḥ | asi | yajñeṣu |*
+*mānuṣaḥ || 10 ||*
+
+*(The Saṃhitā prints* anūṣasaḥ *with a long* ū *where the Pada has* anu uṣasaḥ*; I give both as printed.)*
+
+*(The bhāṣya of Rik 10 begins on p. 525, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 524 (PDF 538) reached; introduction, heading and Riks 44.1–44.9 complete; Rik 44.10's Saṃhitā and Pada written at the foot of p. 524 (its bhāṣya begins on p. 525).**
+
+**Next task:** continue at printed p. 525 (PDF 539) with the bhāṣya of Rik 44.10, then Riks 11–14 and the close of Sūkta 44 (the contents table puts Sūkta 45 at p. 541 — check), then STOP at the end of Sūkta 44 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 507–545) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 539 -l 560 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 43's list is in the commit "Vol 4: Sūkta 43 complete"). Sūkta 44 so far: (1) ṛṣi Praskaṇva Kāṇva; heading numerals and the deity-line Rik numerals doubtful; the Anukramaṇikā's last clause crowded; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini and Uṇādi reference numeral is "as read [?]"; (3) Rik 1: the Nirukta passage on *jātavedas* untranslated in the source — my gloss tentative; (4) **Rik 2: a placeholder slip of mine** (“*niṣṭhāyāṃ …*” in the bhāṣya's tail, not in the print) was repaired in place (correction note in the text); (5) source English misprints kept [sic]: Rik 2 "Agani", "well-iiked", "conducter"; Rik 3 "to-lay"; Rik 7 "Agani", "nvoked"; Rik 8 "Englih Translation", "preceeding", "Agui"; (6) Rik 3: "*yogāsevinaṃ*" and the tail on *vyuṣṭiṣu* crowded; (7) Rik 4: rule-name for *yaviṣṭha* and the long Uṇādi sūtra on *atithi* crowded; (8) Rik 5: closing numeral of the bhāṣya reads like "25"; (9) Rik 6: clause on optional *pit*-ness of *hi* crowded; ṛk-count and sūkta numerals for Praskaṇva and the cross-reference "Ṛgveda Saṃhitā part 2, p. 539" doubtful; (10) Rik 7: "*dravadoṣam*" read with doubt; (11) Rik 8: "*āhavanīyognaḥ*" and "*ktini krādau ca niti*" doubtful; the *kṣapā* yogavibhāga explanation characterized; (12) Rik 9: "*svarādityaḥ*" and the rule-name *sthāgāpāpaco bhāve* doubtful; the Kannada author's alternative construction of *viśām* with *dūtaḥ* is given as printed.
