@@ -2970,12 +2970,126 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.8 (pp. 203–207, PDF 217–221)
+
+**Pada-pāṭha** *(p. 203)*
+
+> घ्नन्तः । वृत्रम् । अतरन् । रोदसी इति । अपः । उरु । क्षयाय । चक्रिरे ॥
+> भुवत् । कण्वे । वृषा । द्युम्नी । आऽहुतः । क्रन्दत् । अश्वः । गोऽइष्टिषु ॥ ८ ॥
+
+*ghnantaḥ | vṛtram | ataran | rodasī iti | apaḥ | uru | kṣayāya | cakrire ||*
+*bhuvat | kaṇve | vṛṣā | dyumnī | ā-hutaḥ | krandat | aśvaḥ | go-iṣṭiṣu || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 203; the first half in full, the grammatical tail characterized)*
+
+> हे अग्ने घ्नन्तस्त्वत्सहायेनेतरे देवाः प्रहरन्तो वृत्रमतरन् । तीर्णवन्तः । तदनन्तरं रोदसी द्यावापृथिव्यावपोऽन्तरिक्षं च क्षयाय प्राणिनां निवासार्थमुरु विस्तारो यथा भवति तथा चक्रिरे । आपः पृथिवीति तन्नामसु पठितत्वात् । भुवत् [?] । कण्वे कण्वनामके महर्षौ वृषा कामानां वर्षिता द्युम्नी धनवान् आहुतः सर्वतो होमयुक्तश्च भुवत् । भवतु । तत्र दृष्टान्तः । गविष्टिषु गोविषयेच्छायुक्तेषु संग्रामेष्वश्वः क्रन्दत् शब्दं कुर्वन् यथाभीष्टप्रापकस्तथेति शेषः ॥
+
+*he agne ghnantas tvatsahāyenetare devāḥ praharanto vṛtram ataran | tīrṇavantaḥ | tadanantaraṃ rodasī dyāvāpṛthivyāv apo 'ntarikṣaṃ ca kṣayāya prāṇināṃ nivāsārtham uru vistāro yathā bhavati tathā cakrire | āpaḥ pṛthivīti tannāmasu paṭhitatvāt | bhuvat [?] | kaṇve kaṇvanāmake maharṣau vṛṣā kāmānāṃ varṣitā dyumnī dhanavān āhutaḥ sarvato homayuktaś ca bhuvat | bhavatu | tatra dṛṣṭāntaḥ | gaviṣṭiṣu goviṣayecchāyukteṣu saṃgrāmeṣv aśvaḥ krandat śabdaṃ kurvan yathābhīṣṭaprāpakas tatheti śeṣaḥ ||*
+
+**Translation:** "O Agni, the other gods, *ghnantaḥ* — striking — by your help, *vṛtram ataran* — crossed over [= overcame] Vṛtra. Thereafter they made *rodasī* — heaven and earth — and *apaḥ*, the mid-region (the print reads '*āpaḥ pṛthivī*' as read among the names, a point I could not follow exactly [?]), *uru* — wide — *kṣayāya*, for the dwelling of living beings. *Bhuvat* — let [Agni] be to the great ṛṣi Kaṇva *vṛṣā*, the shower of desires, *dyumnī*, the possessor of wealth, *āhutaḥ*, furnished with oblations on all sides. The illustration: as a horse *krandat*, neighing, in *gaviṣṭiṣu*, in battles [fought] in desire for cattle, is the means of obtaining what is wished, so [may Agni be] — as is to be supplied."
+
+**Grammar within the bhāṣya** *(p. 203, characterized)*: *ghnantaḥ* (*han* + *śatṛ*, *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*: the penultimate lost; *ho hanter ñṇinneṣu*: *h* → *gh*); *āpaḥ* (*ūḍidam…*: the ending acute); *kṣayāya* (*kṣi nivāsagatyoḥ*, *gha* by *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa*; *kṣayo nivāse*: first-syllable acute); *bhuvat* (*leṭ*, the augment *aṭ*, *itaś ca lopaḥ*, the loss of *śap* by *bahulaṃ chandasi*; no *guṇa* by *bhūsuvos tiṅi*; *uvaṅ*); *āhutaḥ* (*hu dānādanayoḥ*, *kta* in the object sense; the preverb keeps its accent); *krandat* (*kradi*, *śatṛ*, the augment *num* is absent); *gaviṣṭiṣu* (*iṣu icchāyām*, *ktin*; "*gavām iṣṭayaḥ yeṣu saṃgrāmeṣu*"; a bahuvrīhi with first-member accent).
+
+**Pratipadārtha** *(p. 204)* — "(O Agni, by your help) **ghnantaḥ** — the other gods who destroy the enemies; **vṛtram** — Vṛtra, the asura; **ataran** — conquered; (and crossed over in fear); thereafter, **rodasī** — heaven and earth; **apaḥ** — the mid-region too; **kṣayāya** — for the dwelling of the creatures; **uru** — as wide; **cakrire** — made; **gaviṣṭiṣu** — in the time of the battles fought in the desire of getting cattle; **aśvaḥ** — a horse; **krandat** — neighing (as it does to the cause of the sacrificer's wished-for aim); **āhutaḥ** — one who has the share of the oblation in the sacrifice; **dyumnī** — you, the possessor of wealth; **kaṇve** — to the ṛṣi Kaṇva; **vṛṣā** — the giver of the wished-for aim (a benefactor); **bhuvat** — be."
+
+**Bhāvārtha** *(p. 204)* — "O Agni, the other gods, destroyers of enemies, with your help alone, slew Vṛtra the asura and conquered him. Thereafter, having entirely escaped the troubles of enemies, they made the three worlds, earth and the others, spacious and suited to the dwelling of living creatures. As a horse, in a battle that men fight for the sake of cattle, carries its master and neighs, and helps in the destruction of his enemy so that he may win cattle, even so, O wealthy Agni, may you also, being called at the sacrifice of the sage Kaṇva, come and be the giver of what he wishes."
+
+**English Translation (the source's own, p. 204)** — "The gods who destroy enemies have slain Vritra ; they have made earth and heaven and the firmament the spacious dwelling place for living creatures ; may Agni, the possessor of wealth when invoked be to Kanwa the giver of wealth like a horse which neighs ( with pleasure ) in a battle faught for the possession of cattle·" *(Printed "faught" [sic]; the print ends with a raised dot.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 204–205**
+- **ghnantaḥ** — "killing, destroying. Here the bhāṣyakāra says the sense 'the gods who destroy their enemies'."
+- **ataran** = *tīrṇavantaḥ*: "overcame, destroyed, and so on."
+- **rodasī** — "since *rodasī* is read among the twenty-four names of heaven and earth beginning *svadhe*, *purandhī* (Ni. 3-30 [?]), *rodasī* means heaven and earth."
+- **apaḥ** — "since the word *āpaḥ* is read among the sixteen names of the mid-region beginning *ambaram*, *viyat*, *apaḥ* means the mid-region."
+- **kṣayāya** — "*kṣaya* here means a place to live (Ni. 3-[?] [?]): the three worlds, earth, heaven and mid-region, made free of the troubles of enemies and suited to be dwelt in."
+- **kaṇve** — "Kaṇva, the ṛṣi of this sūkta, prays that Agni give him lordship [wealth] and the like."
+- **vṛṣā** = *kāmānāṃ varṣitā*: "one who showers desired objects, i.e. gives."
+- **dyumnī** = *dhanavān*: "one of wealth."
+- **krandad aśvo gaviṣṭiṣu** — "This simile does not fit well here. There seems to be no similarity between Agni's giving wealth and lordship to the ṛṣi Kaṇva when pleased, and a horse's neighing with joy in a battle fought for cattle; therefore the meaning of these words is not clear."
+
+**Vyākaraṇa-prakriyā** *(pp. 205–207, PDF 219–221 — grammar pages, noted briefly)*
+- **ghnantaḥ**: root *han hiṃsāgatyoḥ*, *adādi*; *laṭ*, *laṭaḥ śatṛśānacau*, *śatṛ*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *han + at*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — गमहनजनखनघसां लोपः क्ङित्यनङि — [Pā. 6-4-98]: the penultimate vowel of these roots is lost before a vowel-initial *kit* or *ñit* suffix other than *aṅ*: so the *a* of *han* is lost; *sārvadhātukam apit* makes *śatṛ* *ṅit*; *hn + at*; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — [Pā. 7-3-54]: the *h* of *han* becomes *gh* [*kutva*] before a suffix with *ñ* or *ṇ* as a marker or before *n*; "the sūtra is read with *it*-marking [*ñṇinnā*]: the *ñ*, *ṇ* and *n* in the sūtra are called *ñit*, *ṇit*, *nit*; and by the sense of the *dvandva*-end rule (*dvandvānte śrūyamāṇaṃ padaṃ pratyekam abhisambadhyate*) the word *it* is joined to each of the three; *ñṇinnau ca nas ca*: 'the suffixes with *ñ*, *ṇ* or the letter *n*'; so when any one of these follows, *kutva* [= the *k*-class] is the substitute of *h* of *han*; *kutva* means the *k*-varga, that is, the corresponding *gh* in the place of the *h*, which is *ghoṣa*, *nāda*, *saṃvāra*, *mahāprāṇa*"; by the force of the rule's mention of *n*, *acaḥ parasmin pūrvavidhau* does not make the loss of *a* a *sthānivat* element; *ghn + at = ghnat*; *jas*; *ugitaś ca* — *num*; *ru*, *visarga*.
+- **apaḥ** (p. 206): after *ap*, the accusative plural *śas*; *ūḍidaṃ padādyāpumrai­dyubhyaḥ* [Pā. 6-1-171]: the *asarvanāmasthāna* ending after these is acute: *śas* is acute.
+- **kṣayāya**: root *kṣi nivāsagatyoḥ*; *kṣiyanti* = "they dwell"; *atra iti kṣayaḥ* — "a dwelling place"; *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* — पुंसि संज्ञायां घः प्रायेण — [Pā. 3-3-118]: *gha* [*ghaḥ*] after a root in the senses of instrument and locus, for a masculine name, mostly; *kṣi + a*, *guṇa*, *ay*-substitution; *kṣayo nivāse* — क्षयो निवासे — [Pā. 6-1-201]: the word *kṣaya* in the sense of dwelling is first-syllable acute; the fourth singular.
+- **bhuvat**: root *bhū sattāyām*; *liṅarthe leṭ* — लिङर्थे लेट् — [Pā. 3-4-7]: *leṭ*; *tip*, *śap*; *bahulaṃ chandasi*: *luk* of *śap* [as read, [Pā. 2-4-73]]; *itaś ca lopaḥ parasmaipadeṣu* — [Pā. 3-4-97, as read]: the *i* of the ending is lost; *leṭo 'ḍāṭau* — the augment *aṭ*; *bhūsuvos tiṅi* — भूसुवोस्तिङि — [Pā. 7-3-88]: no *guṇa* for *bhū*, *sū* before a *sārvadhātuka tiṅ*; *aci śnudhātubhruvāṃ…*: *uvaṅ*: *bhuvat*.
+- **āhutaḥ**: *ā hūyate* — *āhutaḥ*; root *hu dānādanayoḥ*; *niṣṭhā* — *kta* in the object sense; *gatir anantaraḥ* [Pā. 6-2-49]: the preverb keeps its natural accent before a *kta*-ending later member.
+- **krandat**: root *kadi kradi kladi āhvāne*, one of the same class; *laṭ*, *śatṛ*; *śap*; *pararūpa*; *su*; *ugidacām…* would give *num*, but in the Veda it does not arise here; loss of *su*; *tāsyanudāttenṅidadupadeśāt…*: *śatṛ* after *śap* unaccented; the root's accent stands.
+- **gaviṣṭiṣu** (p. 207): root *iṣu icchāyām*; *striyāṃ ktin*; *gavām iṣṭayaḥ yeṣu saṃgrāmeṣu te* — "battles in which cows are sought"; a bahuvrīhi, so the first-member natural accent. Rik 8 ends here (*|| 8 ||*).
+
+### Rik 36.9 (pp. 207–210, PDF 221–224)
+
+**Saṃhitā-pāṭha** *(p. 207; accents not reproduced)*
+
+> **सं सीदस्व महाँ असि शोचस्व देववीतमः ।**
+> **वि धूमम् अग्ने अरुषं मियेध्य सृज प्रशस्त दर्शतम् ॥ ९ ॥**
+
+*saṃ sīdasva mahām̐ asi śocasva devavītamaḥ |*
+*vi dhūmam agne aruṣaṃ miyedhya sṛja praśasta darśatam || 9 ||*
+
+**Pada-pāṭha** *(p. 207)*
+
+> सम् । सीदस्व । महान् । असि । शोचस्व । देवऽवीतमः ॥
+> वि । धूमम् । अग्ने । अरुषम् । मियेध्य । सृज । प्रऽशस्त । दर्शतम् ॥ ९ ॥
+
+*sam | sīdasva | mahān | asi | śocasva | deva-vītamaḥ ||*
+*vi | dhūmam | agne | aruṣam | miyedhya | sṛja | pra-śasta | darśatam || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 207–208; the viniyoga and the first half in full, the grammatical tail characterized)*
+
+> प्रवर्ग्ये महावीरे खरे संसाद्यमाने स सीदस्व महाँ असीत्येषा । स्पृष्टोदकमिति खण्डे सं सीदस्व महाँ असीति संसाद्यमाने । आ. ४-७ [?] । इति ॥ हे अग्ने सं सीदस्व । बर्हिषि उपविश । महानसि । गुणाधिको भवसि । देववीतमोऽतिशयेन देवान्कामयमानः शोचस्व । दीप्यस्व । हे मियेध्य मेधार्ह प्रशस्त उत्कृष्ट [?] अग्ने अरुषं गमनशीलं दर्शतं दर्शनीयं धूमं वि सृज । विशेषेण सम्पादय ॥
+
+*pravargye mahāvīre khare saṃsādyamāne sa sīdasva mahām̐ asity eṣā | spṛṣṭodakam iti khaṇḍe saṃ sīdasva mahām̐ asīti saṃsādyamāne | ā. 4-7 [?] | iti || he agne saṃ sīdasva | barhiṣi upaviśa | mahān asi | guṇādhiko bhavasi | devavītamo 'tiśayena devān kāmayamānaḥ śocasva | dīpyasva | he miyedhya medhārha praśasta utkṛṣṭa [?] agne aruṣaṃ gamanaśīlaṃ darśataṃ darśanīyaṃ dhūmaṃ vi sṛja | viśeṣeṇa sampādaya ||*
+
+**Translation:** "[This ṛk] '*saṃ sīdasva mahām̐ asi*' is applied when the *mahāvīra*, the *khara* [altar-mound], is being put in place in the *pravargya*. It is laid down in the section beginning '*spṛṣṭodakam*': 'when it is being put in place, "*saṃ sīdasva mahām̐ asi*"' (Āś. 4-7 [?]). — O Agni, *saṃ sīdasva* — sit down together, seat yourself on the *barhis*; *mahān asi* — you are great, superior in qualities; *devavītamaḥ* — yearning exceedingly for the gods — *śocasva*, blaze. O *miyedhya* — worthy of the sacrifice, praised, excellent [?] — Agni, *aruṣam* — going [upward], *darśatam* — beautiful — *dhūmam* — smoke — *vi sṛja*, send forth specially."
+
+**Grammar within the bhāṣya** *(pp. 207–208, characterized)*: *sīdasva* (*ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayena ātmanepadam*; *loṭ* in a prayer; *pāghrādhmā…*: *sīda* for *sad*; *thās* → *se* → *sva*); *mahān* (the Saṃhitā's *n* before *a* becomes *r*, *ru*, and the *ā* is nasalised: *rutvānunāsikau*); *śocasva* (*śuca dīptau*, with *anudātta* for the verb ending, so the root's accent stays; no lowering, since it is a *tiṅ* after a *tiṅ* but the preceding *asi*… *āti*… — the print adds that the prohibition applies); *devavītamaḥ* (*vī gatiprajananakāntyasanakhādaneṣu*; *devān vetīti devavīḥ*; *kvip*; *atiśayena devavīḥ*, *tamap*, which is *pit* and so unaccented; the later member of a *kṛt* compound keeps its natural accent); *aruṣam* (*ruṣa riṣa hiṃsāyām*; *ghañarthe kavidhānam*; *nāsti ruṣo 'sya*, *nañsubhyām*: final-acute of the later member); *miyedhya* (*medhṛ medhāhiṃsanayoḥ*, *kvip*; *chandasi ca*: *yat* in the sense of *arhati*; *medha* "worthy of the sacrifice"; the augment *iy*; vocative: wholly unaccented); *sṛja* (*sṛja visarge*, *tudādi*, *śa*: no *sarvānudātta* since it stands at the beginning of a pāda); *darśatam* (*bhṛmṛdṛśiyaji…*: *atac* after *dṛśir prekṣaṇe*).
+
+**Pratipadārtha** *(p. 208)* — "(**agne** — O Agni); **saṃ sīdasva** — be seated (on the *darbha* seat); **mahān asi** — you are very powerful; **devavītamaḥ** — one who gives satisfaction to the gods; **śocasva** — shine forth with your radiance; **miyedhya** — one worthy of a share in the sacrifice; **praśasta** — one of praiseworthy, eminent qualities; **agne** — O Agni; **aruṣam** — moving; **darśatam** — beautiful; **dhūmam** — the smoke; **vi sṛja** — send forth."
+
+**Bhāvārtha** *(p. 208)* — "O Agni deity, you are of great power and great greatness. Kindly come and be seated on the *darbha* seat. You are the messenger of the gods, so shine forth, filling the gods with the satisfaction of their portions of the sacrifice, each one for himself. You are worthy of the portions of the sacrifice. Your excellent qualities are extremely praiseworthy. Lead [him] to the place of sacrifice and send forth the smoke, which rises upward and is beautiful to look at."
+
+**English Translation (the source's own, p. 208)** — "O Agni, take your seat on the sacred grass ; you are great· and devoted to the gods ; shine forth, adorable and excellent Agni, send forth your reddish and beautiful smoke·" *(Printed so, with a raised dot after "great" and at the end.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 208–209**
+- **devavītamaḥ** = *atiśayena devān kāmayamānaḥ*: "one who has great regard for the gods."
+- **miyedhya** = *medhārha*: "one fit to be worshipped, or honoured."
+- **darśatam** = *darśanīyam*: "delightful to look at, very beautiful."
+- **aruṣam** = *gamanaśīlam*: "moving upward, or having a slightly reddish colour."
+
+**Vyākaraṇa-prakriyā** *(pp. 209–210, PDF 223–224 — grammar pages, noted briefly)*
+- **sīdasva** (p. 209): root *ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayo bahulam*: the *ātmanepada* comes; *loṭ* in the prayer sense; *tip*/*thās*; *śap*; *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* — [Pā. 7-3-78]: *sīda* for *sad* before a *śit* ending beginning with a consonant [*śit* = *śap*]; *ṭita ātmanepadānāṃ ṭere*: *e* for the *ṭi* of *thās* → *se*; *sa-vābhyāṃ vāmau* — [Pā. 3-4-91]: *se* → *sva*.
+- **mahān**: in the Saṃhitā, the next word begins with *a* [*asi*], an *aṭ*-letter; *dīrghād aṭi samānapāde* — [Pā. 8-3-9]: *n* → *ru*; *ato 'ṭi nityam* — [Pā. 8-3-3]: the *ā* is nasalised.
+- **śocasva**: root *śuca dīptau*, *ātmanepada*, *loṭ*, *thās* → *se* → *sva*; *e* → *a* [by *ṭita ātmane…*, as read]; the *sārvadhātuka* [*sva*] being *lasthānika* after an *anudāttet*... *tāsyanudāttenṅidadupadeśāt…*: unaccented; the root's accent stands; since it follows the *tiṅ* *asi* in the Saṃhitā, *ati* … [the print: "*āti jiḥ*", read as a reference to the prohibition], so there is no wholly-unaccented accent.
+- **devavītamam** (p. 209): root *vī gatiprajanakāntyasanakhādaneṣu*; *devān vetīti devavīḥ* — "who goes toward the gods"; *kvip ca*; *dhātoḥ* — [Pā. 6-1-162]: the root *vī* is acute; with *atiśaya* intended, *atiśāyane tamabiṣṭhanau*: *tamap*, *pit*, so unaccented; the *kṛdanta* later member keeps its natural accent, so *vī* stays acute even after the compound.
+- **aruṣam**: *ruśa riṣa hiṃsāyām*; *ghañarthe kavidhānaṃ sthāsnāpāvyadhihanī yudhyarthām* — [vārtika to Pā. 3-3-58]: *ka* is taught in the sense of *ghañ*; *bhāva* and *kartṛ*-different *kāraka* are the senses of *ghañ*; though the root is read in the sense of injuring, roots have many senses and here it means going; *nāsti ruṣaḥ — gamanam asyāsau*, a bahuvrīhi; *nañsubhyām* [Pā. 6-2-172]: the later member after *nañ* or *su* is final-acute.
+- **miyedhya** (p. 210): root *medhṛ medhāhiṃsanayoḥ*; *kvip*; *chandasi ca* — छन्दसि च — [Pā. 5-1-67]: *yat* in the Veda after a word in the second case, in the sense *arhati*; *medha marhati* = "he is worthy of the sacrifice" — *yat* [*yam*]; the Vedic augment *iy*; vocative, so wholly unaccented.
+- **sṛja**: *sṛja visarge*, *loṭ*, *sip*; *tudādibhyaḥ śaḥ* — [Pā. 3-1-77]: *śa* as the *vikaraṇa*; since it stands at the beginning of a pāda, it is not wholly unaccented.
+- **darśatam**: *bhṛmṛdṛśiyaji…* — [Uṇ. 3-110, as read]: the suffix *atac* after *dṛśir prekṣaṇe*. Rik 9 ends here (*|| 9 ||*).
+
+### Rik 36.10 (p. 210 onward, PDF 224–)
+
+**Saṃhitā-pāṭha** *(p. 210; accents not reproduced)*
+
+> **यं त्वा देवासो मनवे दधुरिह यजिष्ठं हव्यवाहन ।**
+> **यं कण्वो मेध्यातिथिर्धनस्पृतं यं वृषा यमुपस्तुतः ॥ १० ॥**
+
+*yaṃ tvā devāso manave dadhur iha yajiṣṭhaṃ havyavāhana |*
+*yaṃ kaṇvo medhyātithir dhanaspṛtaṃ yaṃ vṛṣā yam upastutaḥ || 10 ||*
+
+**Pada-pāṭha** *(the first line at the foot of p. 210; the rest on p. 211 is not yet written)*
+
+> यम् । त्वा । देवासः । मनवे । दधुः । इह । यजिष्ठम् । हव्यऽवाहन ।
+
+*yam | tvā | devāsaḥ | manave | dadhuḥ | iha | yajiṣṭham | havya-vāhana |*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 202 (PDF 216) reached; Riks 36.1–36.7 complete; Rik 36.8's Saṃhitā written (foot of p. 202).**
+---
+
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 210 (PDF 224) reached; Riks 36.1–36.9 complete; Rik 36.10's Saṃhitā and the first line of its Pada written (foot of p. 210).**
 
 **Plan agreed with the user:** do Sūkta 36 and then Sūkta 37 in the same session, stopping at the end of Sūkta 37.
 
-**Next task:** continue at printed p. 203 (PDF 217) with Rik 36.8's Pada and bhāṣya. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 217 -l 300 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 211 (PDF 225) with the rest of Rik 36.10's Pada and its bhāṣya. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 225 -l 300 Rig_Vol4.pdf /tmp/x/v`.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar notes of Riks 1–7 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, and the long discussion of *titirvāṃsaḥ* in Rik 7) are characterized from crowded passages and may contain slips in detail; (6) the English of Rik 3 carries two misprints ("yon", "ɔndowed") and that of Rik 7 a heading misprint ("Englis"), reproduced as [sic].
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar notes of Riks 1–9 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ* in Rik 7, *ghnantaḥ* in Rik 8 and *śocasva* in Rik 9) are characterized from crowded passages and may contain slips in detail; (6) in Rik 8 the bhāṣya's gloss of *apaḥ* ("āpaḥ pṛthivī…") and the word *bhuvat* in the bhāṣya, and in Rik 9 *utkṛṣṭa* [?], are doubtful; (7) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (8) the English of Rik 3 carries two misprints ("yon", "ɔndowed"), that of Rik 7 a heading misprint ("Englis") and that of Rik 8 "faught", reproduced as [sic].
