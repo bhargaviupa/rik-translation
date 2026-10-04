@@ -175,12 +175,127 @@ The grammar of Rik 1 runs on from p. 5 through p. 7 in Kannada prose, with the s
 
 **Vyākaraṇa-prakriyā** *(p. 10, grammar page — noted briefly)*: **dhanadām** (*dhanaṃ dadāti* → *dhanadāḥ*; the suffix *vic* by *āto maninkvanibvanipaś ca* — आतो मनिन्क्वनिब्वनिपश्च — Pā. 3-2-74 [?], with all the letters of *vic* dropped; the *su* of the compound's member elided by *luk*; accusative singular). **juṣṭām** (*juṣī prītisevanayoḥ*; the root is *īdit*, so the *iṭ* augment is barred before the participial suffix by *śvīdito niṣṭhāyām* — श्वीदितो निष्ठायाम् — Pā. 7-2-14; the first syllable is accented by *nityaṃ mantre* — नित्यं मन्त्रे — Pā. 6-1-210 with the preceding *juṣṭārpite ca chandasi* — जुष्टार्पिते च छन्दसि — Pā. 6-1-209, which the Kaumudī's author says need not be made a separate sūtra). **patāmi** (*liṅarthe leṭ* — लिङर्थे लेट् — Pā. 3-4-7; first-person singular *mip*; the augment *āṭ* by *leṭo 'ḍāṭau* — Pā. 3-4-94; *śap*; lengthening). **namasyan** (*namovarivaścitraṅaḥ kyac* — नमोवरिवश्चित्रङः क्यच् — Pā. 3-1-19, with the word *karaṇe* carried on from the preceding sūtra on *śabdavaira-…*, and the vārtikas *karaṇaṃ kriyā*, *namasaḥ pūjāyām*, *varivasaḥ paricaryāyām*, *citraṅa āścarye* — "*namas* in the sense of worship, *varivas* in service, *citra* in the sense of wonder"; *kyac* is *udātta* by its suffix-accent; then *laṭ*, *śatṛ*, *anudātta* by *tāsyanudāttenṅid…* [Pā. 6-1-186 as printed [?]], *śap* *pit*; the page breaks off in the discussion of the single substitute of *a* and the *kyac*'s *ac*).
 
----
+### Rik 33.2 — Vyākaraṇa-prakriyā, continued (p. 11, PDF 25; grammar page, noted briefly)
+
+**upamebhiḥ** (*upamīyante ebhir ity upamāḥ*; root *māṅ māne*; the suffix *ka* in the sense of *ghañ* — *ghañarthe kavidhānam* — "the suffix *ka* is prescribed in the sense of *ghañ*", cited with a vārtika under Pā. 3-3-58 [?]; Sāyaṇa's view is that it applies beyond the cases listed in the vārtika; loss of *ā* by *ātolopa iṭi ca* — आतो लोप इटि च — Pā. 6-4-64; instrumental plural *bhis* and the Vedic *bahulaṃ chandasi* which prevents the usual *ais*; accent of the first member by *gatikārakopapadāt kṛt* — गतिकारकोपपदात्कृत् — Pā. 6-2-139, the final syllable being acute by the suffix). **havyaḥ** (root *hve̐ śabde*; the semivowel *v* gives *u* as the "former form" by *bahulaṃ chandasi* — Pā. 6-1-34 [?]; the suffix *yat* after a root ending in a vowel, *ac̄o yat* — अचो यत् — Pā. 3-1-97 [?]; *guṇa* by *sārvadhātukārdhadhātukayoḥ* — सार्वधातुकार्धधातुकयोः — Pā. 7-3-84; *av* in place of *o* by *dhātos tannimittasyaiva* — धातोस्तन्निमित्तस्यैव — Pā. 6-1-80, with the companion rule *vānto yi pratyaye* — Pā. 6-1-79; the initial accent, because *yato nāvaḥ* — यतो नावः — Pā. 6-1-213 would apply only to *nau + yat*, not here). Rik 2 ends at the close of this page (*|| 2 ||*).
+
+### Rik 33.3 (pp. 11–14, PDF 25–28)
+
+**Saṃhitā-pāṭha** *(p. 11; accents not reproduced)*
+
+> **नि सर्वसेन इषुधीँरसक्त समर्यो गा अजति यस्य वष्टि ।**
+> **चोष्कूयमाण इन्द्र भूरि वामं मा पणिर्भूरस्मदधि प्रवृद्ध ॥ ३ ॥**
+
+*ni sarvasena iṣudhīm̐r asakta sam aryo gā ajati yasya vaṣṭi |*
+*coṣkūyamāṇa indra bhūri vāmaṃ mā paṇir bhūr asmad adhi pravṛddha || 3 ||*
+
+**Pada-pāṭha** *(p. 12)*
+
+> नि । सर्वऽसेनः । इषुऽधीन् । असक्त । सम् । अर्यः । गाः । अजति । यस्य । वष्टि ।
+> चोष्कूयमाणः । इन्द्र । भूरि । वामम् । मा । पणिः । भूः । अस्मत् । अधि । प्रऽवृद्ध ॥ ३ ॥
+
+*ni | sarva-senaḥ | iṣu-dhīn | asakta | sam | aryaḥ | gāḥ | ajati | yasya | vaṣṭi |*
+*coṣkūyamāṇaḥ | indra | bhūri | vāmam | mā | paṇiḥ | bhūḥ | asmat | adhi | pra-vṛddha || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 12)*
+
+> सर्वसेनः कृत्स्नसेनायुक्त इषुधीन्बाणानामाधारभूतान्निषङ्गान्न्यसक्त । नितरां पृष्ठभागे संयोजितवान् । अर्यः स्वामिरूप इन्द्रो यस्य देवस्य वष्टि असुरेणापहृता गाः प्रदातुं कामयते तस्य देवस्य गृहे ता गाः समजति । सम्यक् प्रापयति । हे प्रवृद्ध प्रकृष्टवृद्धियुक्तेन्द्र भूरि वामं प्रभूतं गोरूपं धनं चोष्कूयमाणोऽस्मभ्यं प्रयच्छन् अस्मदधि अस्मासु पणिर्मा भूः । व्यवहारी मा भूयोः गवां मूल्यं मा याचस्वेत्यर्थः ॥
+
+*sarvasenaḥ kṛtsnasenāyukta iṣudhīn bāṇānām ādhārabhūtān niṣaṅgān nyasakta | nitarāṃ pṛṣṭhabhāge saṃyojitavān | aryaḥ svāmirūpa indro yasya devasya vaṣṭi asureṇāpahṛtā gāḥ pradātuṃ kāmayate tasya devasya gṛhe tā gāḥ samajati | samyak prāpayati | he pravṛddha prakṛṣṭavṛddhiyuktendra bhūri vāmaṃ prabhūtaṃ gorūpaṃ dhanaṃ coṣkūyamāṇo 'smabhyaṃ prayacchan asmadadhi asmāsu paṇir mā bhūḥ | vyavahārī mā bhūyoḥ [sic: bhūyāḥ ?] gavāṃ mūlyaṃ mā yācasvety arthaḥ ||*
+
+**Translation:** "*Sarvasenaḥ* — he who has the whole army — *ni asakta* — has fixed *iṣudhīn*, the quivers that are the receptacles of arrows, firmly on his back. *Aryaḥ* — Indra, in the form of the lord — to the house of whichever god he *vaṣṭi* ('wishes') to give back the cows carried off by the demon, he *sam ajati* — leads those cows rightly, brings them. O *pravṛddha*, Indra of surpassing growth, [you who are] *coṣkūyamāṇaḥ* — giving us abundantly *bhūri vāmam*, plentiful wealth in the form of cows — do not become a *paṇi* towards us (*asmad adhi*): do not be a trader; the meaning is 'do not ask the price of the cows'."
+
+**Grammar within the bhāṣya** *(pp. 12–13, characterized, not transcribed)*: the bhāṣya parses *sarvasenaḥ* (*bahuvrīhi*; its accent via *pratyayalakṣaṇa* and a Kāśikā citation), *iṣudhīn* (*iṣu + dhā*, suffix *ki* by *karmaṇy adhikaraṇe ca* — Pā. 3-3-93 [?]; *n* → *ru* by the rule on a long vowel before *aṭ* and the optional nasalization of the previous vowel by *anunāsikaḥ pūrvasya tu vā* — Pā. 8-3-2, as printed), *asakta* (root *ṣaca samavāye*, *śap* elided by *bahulaṃ chandasi*), *aryaḥ* (*aryaḥ svāmivaiśyayoḥ* — अर्यः स्वामिवैश्ययोः — Pā. 3-1-103, *yat*-ending irregularly formed; final-acute by a Phiṭ-sūtra, number [?]), *ajati* (root *aja gatikṣepaṇayoḥ*), *vaṣṭi* (root *vaśa kāntau*, *śap* elided as it belongs to the *ad* class; *ṣ*-substitution then *ṣṭutva*), *coṣkūyamāṇaḥ* (root *skui āpravaṇe*, *yaṅ* by *dhātor ekāca…*, lengthening, doubling, *ś*-initial reduplicate cut down; the last *ś* [*sakāraḥ*] is dropped; *ānac* for *laṭ* via *yajanta* [?]; stem accent from the *lasārvadhātuka* ending), *bhūḥ* (*aorist*; *luk* of *sic* by *gātisthā…*). Several of these sūtra numbers on pp. 12–13 are small and I did not chase them.
+
+**Pratipadārtha** *(p. 13)* — "**sarvasenaḥ** — Indra, who has all armies; **iṣudhīn** — the quivers that hold arrows; **ni asakta** — has fastened firmly (on his back); **aryaḥ** — Indra, the lord; **yasya** — [with regard to] which deity; **vaṣṭi** — he wishes; (to the house of such a deity) **gāḥ** — the cows; **sam ajati** — he drives rightly; **(he) pravṛddha** — (O) one endowed with excellent growth; **indra** — Indra; **bhūri** — in abundance; **vāmam** — abundant (cow-form) wealth; **coṣkūyamāṇaḥ** — giving bountifully; **asmadadhi** — with regard to us; **paṇiḥ** — a trader (a haggler); **mā bhūḥ** — do not become."
+
+**Bhāvārtha** *(p. 13)* — "Indra, the lord of all the gods, with all his armies, has bound the quivers firmly on his shoulder. He leads the cows that were carried off, to the houses of his own gods. O Indra of excellent prosperity, give us more and more of the wealth of cows that we wish. But do not ask us for only their price, and do not behave towards us like a trader."
+
+**English Translation (the source's own, p. 13)** — "Indra, the leader of the whole army ties the quivers on his back ; the lord drives the cattle to the dwelling of whom he pleases ; O, mighty Indra, the giver of abundant wealth, do not take advantage of us like a dealer."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 13–14** — **sarvasenaḥ** = *kṛtsnasenāyuktaḥ*: "The leader of all armies [the print adds this English], the overlord of all the armies, one who has all armies." **iṣudhīn** = *iṣava iṣu dhīyante itīṣudhayaḥ*, "quivers in which arrows are placed." **aryaḥ** = *svāmivaiśyayoḥ* (Pā. 3-1-103 [as printed]): "master, sacrificer, Lord [English in the print]." **coṣkūyamāṇaḥ** = *asmabhyaṃ prayacchan*, "one who gives [cows] to us." **mā paṇir bhūḥ** = *vyavahārī mā bhūyāḥ*: "Do not become a trader and haggle; that is, in giving us wealth do not stint, nor haggle over how much to give, but give wealth as is wished." The print adds in English: "Do not make a hard bargain, **dont** [sic] haggle, do not demand too much from worshippers etc."
+
+**Vyākaraṇa-prakriyā** *(p. 14, grammar page — noted briefly)*: **sarvasenaḥ** — *sarva* belongs to the *uñchādi* group, so it is final-acute by *uñchādīnāṃ ca* — उञ्छादीनां च — Pā. 6-1-160; *ina* = master; *inena saha vartate iti senā*, a *bahuvrīhi*, with *sa* for *saha* by *vopasarjanasya* — वोपसर्जनस्य — Pā. 6-3-82; then *sarvā senā yasya saḥ*, the case-ending of the first member elided by *supo dhātuprātipadikayoḥ* — सुपो धातुप्रातिपदिकयोः — Pā. 2-4-71. Because *sarvasya supi* — सर्वस्य सुपि — Pā. 6-1-191 gives *sarva* the first-syllable accent before a *sup* ending, the page asks how this applies once the ending is elided; it cites the Kāśikā-author that the accent comes by *pratyayalakṣaṇa* — *pratyayalope pratyayalakṣaṇam* — प्रत्ययलोपे प्रत्ययलक्षणम् — Pā. 1-1-62 — and explains that the prohibition *na lumatāṅgasya* — न लुमताङ्गस्य — Pā. 1-1-63 does not obstruct, and that the "seventh case" in accent-rules means "ending in …", i.e. applies to words in a *subanta*. After the *bahuvrīhi* the first-member accent supervenes and the same accent remains.
+
+### Rik 33.3 — Vyākaraṇa-prakriyā, continued (pp. 15–16, PDF 29–30; grammar pages, noted briefly)
+
+Kannada prose with sūtras quoted; the numerals are small, so those given are as read at 150 dpi and are marked [?] unless they agree with the standard numbering as I know it.
+
+- **iṣudhīn** (p. 15): *iṣavaḥ iṣu dhīyante* — "arrows are placed in them" (the quiver; Kannada *battalike*); the suffix *ki* after *dhā* when a word for the object stands in front, *karmaṇy adhikaraṇe ca* — कर्मण्यधिकरणे च — *karmaṇy adhikaraṇe ca* (Pā. 3-3-93); loss of the *ā* by *ātolopa iṭi ca* — आतो लोप इटि च — Pā. 6-4-64; accusative plural *śas*; in the Saṃhitā the *n* becomes *ru* after a long vowel in one foot (*dīrghād aṭi samānapāde* — दीर्घादटि समानपादे — Pā. 8-3-9 [?]) and the preceding vowel is optionally nasalized (*anunāsikaḥ pūrvasya tu vā* — अनुनासिकः पूर्वस्य तु वा — Pā. 8-3-2).
+- **asakta**: root *ṣaca samavāye* (1st class, *ubhayapadin*), *laṅ* [print: *luṅ*-type third singular *ta* of the middle voice, "*laṅ* pr. pu. e. va."]; *śap* elided by *bahulaṃ chandasi* (Pā. 2-4-73 [?]); *c* → *k* by *coḥ kuḥ* — चोः कुः — Pā. 8-2-30; the augment *aṭ*.
+- **aryaḥ**: *aryaḥ svāmivaiśyayoḥ* — अर्यः स्वामिवैश्ययोः — Pā. 3-1-103; root *ṛ gatau*, *yat* as an exception to *ṇyat*, *guṇa* and *raparatva* giving *ārya*-type form; the final syllable acute by the Phiṭ-sūtras *aryasya svāmyākhyā cet* and *aṅguśmodakabakavaśānāṃ chandasy antaḥ* (numbers [?]), which override the first-syllable accent that *yato nāvaḥ* — यतो नावः — Pā. 6-1-213 or *yonyasya…* (a later rule) would give.
+- **ajati**: root *aja gatikṣepaṇayoḥ*, *laṭ*, *tip*, *śap*. **vaṣṭi**: root *vaśa kāntau*, *ad*-class, *śap* elided; *ś* → *ṣ* by *vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ* — व्रश्चभ्रस्जसृजमृजयजराजभ्राजच्छशां षः — Pā. 8-2-36; then *ṣṭunā ṣṭuḥ* — ष्टुना ष्टुः — Pā. 8-4-41, giving *vaṣṭi*.
+- **coṣkūyamāṇaḥ** (p. 16): root *skui āpravaṇe*; *yaṅ* in the sense of repetition or intensity after a root with one vowel and an initial consonant (*dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* — Pā. 3-1-22), lengthening (*akṛtsārvadhātukayor dīrghaḥ* — Pā. 7-4-25), doubling (*sanyaṅoḥ* — Pā. 6-1-9), shortening of the reduplicate (*hrasvaḥ* — Pā. 7-4-59), the first *s* of the doubled *skū* lost (*śarpūrvāḥ khayaḥ* — Pā. 7-4-61), *k* of the reduplicate → *c* (*kuhoś cuḥ* — Pā. 7-4-62), *guṇa* of the reduplicate (*guṇo yaṅluktoḥ* — Pā. 7-4-82), *s* → *ṣ* by the list *suṣāmādiṣu ca* (Pā. 8-3-98), *śānac* for *laṭ* (*laṭaḥ śatṛśānacau* — Pā. 3-2-124), *a + o* → single *o* (*ato guṇe* — Pā. 6-1-97), the augment *muk* (*āne muk* — Pā. 7-2-82), *n*-substitution (*aṭkupvāṅnumvyavāye 'pi* — Pā. 8-4-2) giving *coṣkūyamāṇa*; the *śānac* ending is unaccented (*tāsyanudāttenṅidadupadeśāt…*, Pā. 6-1-186), so the root accent stays.
+- **bhūḥ**: root *bhū sattāyām*, *luṅ*, *sic*; the augment *aṭ* is barred when *mā* is connected (*na māṅyoge*); the *luk* of *sic* by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — Pā. 2-4-77; *itaś ca* — इतश्च — Pā. 3-4-100 drops the *i* of the ending; *ru* and *visarga*. Rik 3 ends at this point (*|| 3 ||*).
+
+### Rik 33.4 (p. 16 onwards, PDF 30–)
+
+**Saṃhitā-pāṭha** *(p. 16; accents not reproduced; the last word is divided across two lines in the print: *prēti-mīyuḥ*)*
+
+> **वधीर्हि दस्युं धनिनं घनेन एकश्चरन्नुपशाकेभिरिन्द्र ।**
+> **धनोरधि विषुणक्ते व्यायन्नयज्वानः सनकाः प्रेतिमीयुः ॥ ४ ॥**
+
+*vadhīr hi dasyuṃ dhaninaṃ ghanena ekaś carann upaśākebhir indra |*
+*dhanor adhi viṣuṇak te vy āyann ayajvānaḥ sanakāḥ pretim īyuḥ || 4 ||*
+
+*(Reading note: the Saṃhitā text of the second line is read as printed — *viṣuṇak te* — the second word being a single printed unit "ವಿಷುಣಕ್ತೇ"; the Pada on the next page will show how the print divides it. The Saṃhitā is **not** completed with the Pada here; Rik 4's Pada, bhāṣya and the rest follow from p. 17 and are not yet written.)*
+
+### Rik 33.4 (continued) — Pada-pāṭha, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 17–20, PDF 31–34)
+
+**Pada-pāṭha** *(p. 17)* — this settles the reading noted under the Saṃhitā: *viṣuṇak te* is *viṣuṇak | te*.
+
+> वधीः । हि । दस्युम् । धनिनम् । घनेन । एकः । चरन् । उपऽशाकेभिः । इन्द्र ॥
+> धनोः । अधि । विषुणक् । ते । वि । आयन् । अयज्वानः । सनकाः । प्रऽइतिम् । ईयुः ॥ ४ ॥
+
+*vadhīḥ | hi | dasyum | dhaninam | ghanena | ekaḥ | caran | upa-śākebhiḥ | indra ||*
+*dhanoḥ | adhi | viṣuṇak | te | vi | āyan | ayajvānaḥ | sanakāḥ | pra-itim | īyuḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 17–18; the print's first half is given in full; the grammatical tail is characterized below)*
+
+> हे इन्द्र धनिनं बहुधनोपेतं दस्युं चोरं वृत्रं घनेन कठिनेन वज्रेण वधीर्हि । त्वं हतवान्खलु । धनित्वं वाजसनेयिनोऽपि स्पष्टमामनन्ति । वृत्रस्यान्तः सर्वे देवाः सर्वाश्च विद्याः सर्वाणि हवींषि चासन्निति । उपशाकेभिः समीपवर्तिभिः शक्तियुक्तैर्मरुद्भिः सहितोऽपि भूत्वैकश्चरन् । प्रहर्तुं स्वयमेक एव गच्छन् । यद्यपि मरुतः समीपे वर्तन्ते तथापि ते प्रोत्साहयन्त्येव न तु वृत्रं प्रहरन्ति । प्रहर्ता तु स्वयमेक एव । तथा च ब्राह्मणे समाम्नातम् । मरुतो हैनं नाजहुः प्रहर भगवो वीरयस्वेत्येवैनमेतां वाचं वदन्त उपातिष्ठन्त । ऐ. ब्रा. ३-२० [?] । इति । धनोरधि इन्द्रसम्बन्धिनो धनुष उपरि विषुणक् विविधं नाशमुद्दिश्य यद्वा विष्वक् सर्वतस्ते वृत्रानुचरा व्यायन् । विविधमागच्छन् । आगत्य चायज्वानो यज्ञविरोधिनः सन्तः सनका एतन्नामका वृत्रानुचराः प्रेतिमीयुः । मरणं प्राप्ताः ॥
+
+*he indra dhaninaṃ bahudhanopetaṃ dasyuṃ coraṃ vṛtraṃ ghanena kaṭhinena vajreṇa vadhīr hi | tvaṃ hatavān khalu | dhanitvaṃ vājasaneyino 'pi spaṣṭam āmananti | vṛtrasyāntaḥ sarve devāḥ sarvāś ca vidyāḥ sarvāṇi havīṃṣi cāsann iti | upaśākebhiḥ samīpavartibhiḥ śaktiyuktair marudbhiḥ sahito 'pi bhūtvaikaś caran | prahartuṃ svayam eka eva gacchan | yadyapi marutaḥ samīpe vartante tathāpi te protsāhayanty eva na tu vṛtraṃ praharanti | prahartā tu svayam eka eva | tathā ca brāhmaṇe samāmnātam | maruto hainaṃ nājahuḥ prahara bhagavo vīrayasvety evainam etāṃ vācaṃ vadanta upātiṣṭhanta | ai. brā. 3-20 [?] | iti | dhanor adhi indrasambandhino dhanuṣa upari viṣuṇak vividhaṃ nāśam uddiśya yadvā viṣvak sarvatas te vṛtrānucarā vy āyan | vividham āgacchan | āgatya cāyajvāno yajñavirodhinaḥ santaḥ sanakā etannāmakā vṛtrānucarāḥ pretim īyuḥ | maraṇaṃ prāptāḥ ||*
+
+**Translation:** "O Indra, you slew with the *ghana*, the hard vajra, the *dhanin* — the possessor of much wealth — the *dasyu* — the thief — Vṛtra: you have indeed killed [him]. The Vājasaneyins also state clearly that he has wealth: 'Inside Vṛtra were all the gods, all the sciences, and all the oblations.' *Upaśākebhiḥ* — though accompanied by the Maruts who stand near, endowed with power — *ekaḥ caran* — going alone, going by yourself to strike. Though the Maruts are near, they only encourage; it is not they who strike Vṛtra: the striker is you alone. So it is handed down in a Brāhmaṇa: 'The Maruts did not abandon him; saying "Strike, O Lord, show your valour!" they stood by him' (Ai. Brā. 3-20 [?]). *Dhanor adhi* — upon Indra's bow; *viṣuṇak* — with various destruction in view, or on all sides — those followers of Vṛtra *vy āyan*, came in various ways; and having come, being *ayajvānaḥ* — enemies of sacrifice — the followers of Vṛtra by the name *sanakāḥ* *pretim īyuḥ* — met their death."
+
+**Grammar within the bhāṣya** *(pp. 17–18, characterized)*: the bhāṣya's tail treats *vadhīḥ* (root *han* replaced by *vadha* in the *luṅ* by a sūtra whose number [Pā. 2-4-43 as I read it] I give with [?]; loss of the *a* and absence of *vṛddhi*; *sic* lost before *īṭ*, the *īṭ* augment [Pā. 8-2-28 [?]]), *ghanena* and *ekaḥ* (the Vedic *prakṛtibhāva* in the Saṃhitā text before *īṣā-akṣādi*-type compounds, Pā. 6-1-115 [?]; the nasalisation is Vedic), *upaśākebhiḥ* (*upaśaktaṃ kurvantīty upaśākāḥ*, from *śakḷ śaktau*, in the causative sense, with *ac*; the last syllable of the second member acute), *viṣuṇak* (*kvip* after *naś* [or *añc*] preceded by *viṣu*; *kutva* by *naśer vā* — Pā. 8-2-63 [?]), *sanakāḥ* (*ṣaṇu dāne*, "they who give", *sanā dātāraḥ*; *pacādyac*; *sanān nāyanti śabdayantīti sanakāḥ*; suffix *ka* by *ato 'nupasarge kaḥ*; loss of *ā* by *ātolopa iṭi ca*), *pretim* (the preverb keeps its accent by *tādau ca niti* [Pā. 6-2-50]), and *īyuḥ* (root *i*, *liṭ* third plural *us*, *yaṇ*-substitution, doubling, lengthening of the reduplicate by *dīrgha iṇaḥ kiti* — Pā. 7-4-69 [?]).
+
+**Pratipadārtha** *(p. 18)* — "**(he) indra** — O Indra (you); **upaśākebhiḥ** — though your powerful Maruts, staying near you, are close at hand; **ekaḥ** — you alone; **caran** — moving about (by your own strength alone); **dhaninam** — the rich; **dasyum** — the thief Vṛtra; **ghanena** — with the hard vajra weapon; **vadhīr hi** — [you] killed; (and) **ayajvānaḥ** — the enemies of sacrifice; **te** — those followers of Vṛtra; **sanakāḥ** — Sanaka and the other rākṣasas; **dhanor adhi** — in front of (your) bow; **viṣuṇak** — from many directions; **vy āyan** — came; (and) **pretim** — death; **īyuḥ** — obtained."
+
+**Bhāvārtha** *(p. 18)* — "O Indra, you are exceedingly heroic. Though the powerful Maruts were with you, near you, for your help, you alone, without expecting their help, killed Vṛtra with your vajra. Moreover, the enemies of sacrifice and the followers of Vṛtra — Sanaka and the other rākṣasas — who came from many directions in the sky against your weapon, also met death."
+
+**English Translation (the source's own, p. 18)** — "O Indra, though you are accompanied by your powerful allies Maruths, you alone did slay the rich demon Vritra with your thunderbolt ; those unsacrificing Sanakas coming against your bow from all sides met with their death."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 19–20** — **dasyuṃ dhaninam** — "Vṛtra the thief is famed as very rich. 'Within Vṛtra were all the gods, all the sciences, all the oblations' — [this] is known from the Śukla-Yajurveda. Although the word *dasyum* here means only 'thief', its meaning must be given as Vṛtra: because it is stated here that Indra struck him with his vajra, and because it is said in many places that Vṛtra was struck down and killed with the vajra, *dasyum* must be understood to refer to Vṛtra the *dasyu*. The sense is that by thieving he gained wealth and became famous as rich."
+
+**ekaś carann upaśākebhiḥ** — "Though the Maruts, who are Indra's friends, were near, encouraging [him], Indra did not look for their help but leapt alone upon the enemy and struck him with the vajra. Hence Indra needs no help from anyone else; he alone has immeasurable strength and power. On this the bhāṣyakāra has cited the Aitareya-Brāhmaṇa sentence":
+
+> मरुतो हैनं नाजहुः प्रहर भगवो वीरयस्वेत्येवैनमेतां वाचं वदन्त उपातिष्ठन्ते [print here: *-nte*; in the bhāṣya: *-nta*] । (ऐ. ब्रा. ३-२०)
+
+*maruto hainaṃ nājahuḥ prahara bhagavo vīrayasvety evainam etāṃ vācaṃ vadanta upātiṣṭhante | (ai. brā. 3-20)*
+
+"The Maruts did not abandon him; saying to him these words, 'Strike, O lord, show your valour', they stood by him."
+
+**upaśākebhiḥ** — *upaśaktaṃ kurvantīty upaśākāḥ | upaśākebhiḥ samīpavartibhiḥ śaktiyuktair marudbhiḥ*: "by the powerful Maruts who stand near." **āyajvānaḥ** — *yajvavirodhinaḥ*: "opponents of those who sacrifice, or those who do not sacrifice." **sanakāḥ** — *etannāmakā vṛtrānucarāḥ*: "the *sanakas* are Vṛtra's followers. The word *sanaka* (*sanakāt*) occurs in the Ṛgveda in only two ṛks:"
+
+> १. प्र सप्तहोता सनकादरोचत मातुरुपस्थे यदशोचदूधनि ।
+> न नि मिषति सुरणो दिवेदिवे यदसुरस्य जठरादजायत ॥ (ऋ. सं. ३-२९-१४ [?])
+> २. अयमग्निर्वध्र्यश्वस्य वृत्रहा सनकात्प्रेद्धो नमसोपवाक्यः ।
+> स नो अजामीरुत वा विजामीनभि तिष्ठ शर्धतो वाध्र्यश्व ॥ (ऋ. सं. १०-६९-१२ [?])
+
+*1. pra saptahotā sanakād arocata mātur upasthe yad aśocad ūdhani | na ni miṣati suraṇo dive-dive yad asurasya jaṭharād ajāyata || (ṛ. saṃ. 3-29-14 [?])*
+*2. ayam agnir vadhryaśvasya vṛtrahā sanakāt preddho namasopavākyaḥ | sa no ajāmīr uta vā vijāmīn abhi tiṣṭha śardhato vādhryaśva || (ṛ. saṃ. 10-69-12 [?])*
+
+"1. 'The seven-priested one shone forth from of old, when he blazed in the lap of the mother, in the udder [?]; the glad one does not wink day by day, since he was born from the belly of the *asura*.' 2. 'This Agni, Vṛtra-slayer of Vadhryaśva, kindled from of old, is to be addressed with homage: overcome for us, O Vādhryaśva, the hostile [?] — both the kinsfolk and the non-kinsfolk — who press upon us.'" *(The translations are mine and tentative: the source leaves these two ṛks untranslated, and the second verse's second line is dense.)* The source then notes: "In these two ṛks the word *sanakāt* has Agni as its sense; it does not suggest the meaning 'Vṛtra's follower'."
+
+**Vyākaraṇa-prakriyā** *(p. 20, grammar page — noted briefly)*: **vadhīḥ** — root *han hiṃsāgatyoḥ*, *luṅ*, *tip*; the *i* of the *parasmaipada* ending is lost by *itaś ca* — इतश्च — Pā. 3-4-100; *cli* in place of *śap* by *cli luṅi* — च्लि लुङि — Pā. 3-1-43; *sic* for *cli* by *cleḥ sic* — च्लेः सिच् — Pā. 3-1-44; *vadha* for *han* in *luṅ* by *luṅi ca* — लुङि च — Pā. 2-4-43; the *a* of *vadha* dropped by *ato lopaḥ* — अतो लोपः — Pā. 6-4-48 (the print, in the Veda-bhāṣya, cites this as "*ātolopaḥ*", which the author says is a slip — *pramādikavāgi*); the optional *vṛddhi* by *ato halādeḥ laghoḥ* — अतो हलादेर्लघोः — Pā. 7-2-7, and its non-occurrence because of the *sthānivadbhāva* rule *acaḥ parasmin pūrvavidhau* — अचः परस्मिन्पूर्वविधौ — Pā. 1-1-57; the augment *iṭ* by *asti-sico 'pṛkte* — अस्तिसिचोऽपृक्ते — Pā. 7-3-96, the *īṭ*; the *s* lost by *iṭa īṭi* — इट ईटि — Pā. 8-2-28; the *pūrvatrāsiddham* — पूर्वत्रासिद्धम् — Pā. 8-2-1 does not make the loss of *s* "unseen"; the augment *aṭ* is Vedic and does not appear; the augments *iṭ* and *īṭ* are unaccented (*āgamā anudāttāḥ*), so the root's accent remains.
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 10 (PDF 24) reached; Riks 33.1 and 33.2 written through the grammar of *namasyan* (p. 10).**
+---
 
-**Next task:** continue at printed p. 11 (PDF 25) with the rest of Rik 2's grammar page(s), then Rik 3. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 20 (PDF 34) reached; Riks 33.1–33.4 written through the grammar of *vadhīḥ* (p. 20).**
 
-**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 is recorded as printed. (3) Sūtra numerals marked [?] are unverified; the others are as read from the print and match the standard Pāṇini numbering. (4) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
+**Next task:** continue at printed p. 21 (PDF 35) with the rest of Rik 4's grammar page(s), then Rik 5. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end.
+
+**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4, Special Topics) are mine, not the source's. (5) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
