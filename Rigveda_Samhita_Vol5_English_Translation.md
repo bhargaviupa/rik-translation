@@ -1016,8 +1016,117 @@
 
 ---
 
+**Rik 48.6, continued** *(from the foot of p. 49)*
+
+**Sāyaṇa-bhāṣya** *(pp. 49–50)*
+
+> **या देवता समनं समीचीनचेष्टावन्तं पुरुषं वि सृजति प्रेरयति । गृहारामादिचेष्टाकुशलान्पुरुषानुषःकालः शयनादुत्थाप्य स्वस्वव्यापारे प्रेरयतीति प्रसिद्धं । किंच उषा अर्थिनो याचकान् सृजति । तेऽपि ह्युषःकाले समुत्थाय स्वकीयदातृगृहे गच्छन्ति । ओदत्येषोदेवता पदं स्थानं न वेति । न कामयते । उषःकालः शीघ्रं गच्छतीत्यर्थः । हे वाजिनीवत्येषोदेवते ते व्युष्टौ त्वदीये प्रभातकाले पप्तिवांसः पतनयुक्ता वयः पक्षिणो नकिरासते । न तिष्ठन्ति । किंतु स्वस्वनीडाद्विनिर्गत्य गच्छन्तीत्यर्थः ॥ सृजति । सृज विसर्गे । तुदादित्वाच्छः । कस्य [?] ङित्त्वाल्लघूपधगुणाभावः । प्रत्ययस्य पित्त्वादनुदात्तत्वे विकरणस्वरः । यद्वृत्तयोगादनिघातः । ओदती । उन्दी क्लेदने । उनत्ति सर्वं नीहारेणेत्योदत्युषाः । शतरि व्यत्ययेन शप् । व्यत्ययेनानुनासिकलोपे लघूपधगुणः । उगितश्चेति ङीप् । आगमानुशासनस्यानित्यत्वान्नुमभावः । शपः पित्त्वादनुदात्तत्वं । शतुरदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरेणाद्युदात्तत्वं । न च शतुरनुम इति नद्या उदात्तत्वं । अन्तोदात्ताच्छपः [?] … [crowded, ?] । नकिष्टे । युष्मत्तत्त्वक्षुःष्वन्तःपादमिति [?] षत्वं । पप्तिवांसः । पतऌ गतौ । लिटः क्वसुः । क्रादिनियमात्प्राप्त इट् वस्वेकाजाद्घसामिति नियमान्न प्राप्नोति तत्कृ[…] यते सर्वविधीनां छन्दसि विकल्पितत्वात् । कसिपतेर्ग्रहेश्छन्दसि [?] । पा. ६-४-६९ [?] । इत्युपधालोपः । द्विर्वचनेचीति स्थानिवद्भावाद्द्विर्भावः । प्रत्ययस्वरः । वाजिनीवति । वाजोऽन्नमस्या अस्तीति वाजिनी क्रिया । मत्वर्थीय इनिः । ऋन्नेभ्य इति ङीप् । तादृशी क्रिया यस्याः सा । तदस्यास्तीति मतुप् । संज्ञायामिति मतुपो वत्वम् ॥**
+
+*yā [or yo, ?] devatā samanaṃ samīcīnaceṣṭāvantaṃ puruṣaṃ vi sṛjati prerayati | gṛhārāmādiceṣṭākuśalān puruṣān uṣaḥkālaḥ śayanād utthāpya svasvavyāpāre prerayatīti prasiddhaṃ | kiṃca uṣā arthino yācakān sṛjati | te 'pi hy uṣaḥkāle samutthāya svakīyadātṛgṛhe gacchanti | odaty eṣodevatā padaṃ sthānaṃ na veti | na kāmayate | uṣaḥkālaḥ śīghraṃ gacchatīty arthaḥ | he vājinīvaty eṣodevate te vyuṣṭau tvadīye prabhātakāle paptivāṃsaḥ patanayuktā vayaḥ pakṣiṇo nakir āsate | na tiṣṭhanti | kiṃtu svasvanīḍād vinirgatya gacchantīty arthaḥ || sṛjati | sṛja visarge | tudādittvāc chaḥ | kasya [?] ṅittvāl laghūpadhaguṇābhāvaḥ | pratyayasya pittvād anudāttatve vikaraṇasvaraḥ | yadvṛttayogād anighātaḥ | odatī | undī kledane | unatti sarvaṃ nīhāreṇety odaty uṣāḥ | śatari vyatyayena śap | vyatyayenānunāsikalope laghūpadhaguṇaḥ | ugitaś ceti ṅīp | āgamānuśāsanasyānityatvān numabhāvaḥ | śapaḥ pittvād anudāttatvaṃ | śatur adupadeśāl lasārvadhātukānudāttatve dhātusvareṇādyudāttatvaṃ | na ca śatur anuma iti nadyā udāttatvaṃ | antodāttāc chapaḥ [?] … [crowded, ?] | nakiṣṭe | yuṣmattatvakṣuḥṣv antaḥpādam iti [?] ṣatvaṃ | paptivāṃsaḥ | patḷ gatau | liṭaḥ kvasuḥ | krādiniyamāt prāpta iṭ vasvekājāghasām iti niyamān na prāpnoti tatkṛ[…]yate sarvavidhīnāṃ chandasi vikalpitatvāt | kasipater graheś chandasi [?] | pā. 6-4-69 [?] | ity upadhālopaḥ | dvirvacane ceti sthānivadbhāvād dvirbhāvaḥ | pratyayasvaraḥ | vājinīvati | vājo 'nnam asyā astīti vājinī kriyā | matvarthīya iniḥ | ṛnnebhya iti ṅīp | tādṛśī kriyā yasyāḥ sā | tad asyāstīti matup | saṃjñāyām iti matupo vatvam ||*
+
+*(This is the longest crowded stretch of the bhāṣya so far: the word* kasya *after* tudādittvāc chaḥ*, the clause* antodāttāc chapaḥ …*, the rule-names* yuṣmattatvakṣuḥṣv antaḥpādam*,* kasipater graheś chandasi*, the clause* tatkṛ[…]yate*, and all the numerals are as read and doubtful, each marked [?]. The first word of the bhāṣya, printed "yo", may be "yā" [?].)*
+
+**Translation:** "The deity who *samanam*, the man who is of right activity, *vi sṛjati*, sends out, sets going — it is well known that the time of dawn raises men skilled in the work of the house and the garden from their beds and sets them to their own tasks. And furthermore Uṣas sends out the *arthinaḥ*, the beggars; they too, rising at the time of dawn, go to the houses of their own givers. *Odatī*, this goddess does not wish for a *padam*, a place; that is, the time of dawn goes quickly. O Uṣas, *vājinīvati*, in your *vyuṣṭau*, at your time of dawn, *paptivāṃsaḥ*, flying, *vayaḥ*, the birds, *nakiḥ āsate*, do not stay; but, going out of their own nests, they go. *Sṛjati*: root *sṛja visarge*, *śa* because the root is of the *tudādi* class; no *guṇa* of the light penultimate (the suffix being marked as *ṅit* [?]); the suffix being *pit* is unaccented and the accent of the *vikaraṇa* remains; because of the *yad*-connexion the all-unaccented does not come. *Odatī*: root *undī kledane*; 'she wets everything with mist'; *śap* by exchange in *śatṛ*; *guṇa* of the light penultimate when the nasal is dropped by exchange; *ṅīp* by *ugitaś ca*; *num* does not come, since the rule of augments is not invariable; and so on. *Nakiṣṭe*: …*ṣa* by *antaḥpāda*-type rule [?]. *Paptivāṃsaḥ*: root *patḷ gatau*; *kvasu* for *liṭ*; the *iṭ* that comes by *krādiniyama* is not obtained, because of the restriction *vasvekājāghasām*; but that restriction is optional, all rules being optional in the Chandas; the penultimate dropped; doubling by the *sthānivat* rule; the suffix-accent. *Vājinīvati*: 'she who has *vāja*, food — *vājinī*, activity'; *ini* in the sense of possession; *ṅīp* by *ṛnnebhyo ṅīp*; 'she who has such activity'; *matup*, *v* for *m* by *saṃjñāyām*."
+
+**Pratipadārtha** *(p. 50)* — "**yā** — which (goddess Uṣas); **samanam** — the industrious man; **visṛjati** — sends (to his work); **arthinaḥ** — the beggars; **vi (sṛjati)** — (sends) to go to the houses of their respective donors; **odatī** — the goddess Uṣas; **padam** — a (lasting) place; **na vāti** — does not wish for (she rises and goes away); **vājinīvati** — O Uṣas, endowed with food (the giver of food); **te vyuṣṭau** — at your dawning; **paptivāṃsaḥ** — having the nature of flying; **vayaḥ** — the birds; **nakiḥ āsate** — do not remain (in their nests)."
+
+**Bhāvārtha** *(p. 50)* — "The goddess Uṣas (the time of dawn) sets the men who have fixed their tasks in the house, the garden and other places, to work at their own tasks, each one's, rousing them from their beds. She sends beggars to the houses of their several givers. When she has risen she does not stay long in the same place, but disappears at once. O goddess Uṣas, endowed with food and a giver of food, as soon as you rise, the birds do not stay in their nests but fly away for their food."
+
+**English Translation (the source's own, p. 50)** — "She animates the industrious and sends solicitors to their donors ; she never stays in one place (but moves on). O bestower of food, birds no longer stay but begin to fly at your approach."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 51**
+- **sṛjati** — "*sṛja visarge*: she sends, makes (them) go."
+- **samanam** — "*samīcīnaceṣṭāvantam*: the man who works with an effort that is good; the industrious man" *(the source adds in English: "diligent, busy, industrious")*.
+- **odatī** — "*undī kledane*: '*unatti sarvaṃ nīhāreṇety odatyuṣāḥ*'. The word *odatī* arises from the root *undī*, which has the sense of 'to wet'. At the time of dawn, before the Sun rises, dew falls on the earth and on the grass and the like and wets everything; so the goddess Uṣas is the one who wets everything. Therefore the goddess Uṣas is to be called *odatī*, 'the wetter'."
+- **nakiḥ** — "all, the whole. Since the word *nakiḥ* is read among the nine [?] pronoun-names beginning *hiraṃ, nukam* (Ni. 2-1[?]3 as read), *nakiḥ* means 'all', 'the whole'."
+
+*(The Kannada author's gloss on* nakiḥ *reads "all, the whole" where, in Rik 6 itself, the word is the negative "no one/never"; I give the gloss as printed [sic?].)*
+
+**Vyākaraṇa-prakriyā** *(pp. 51–53 — grammar pages, noted briefly)*
+- **sṛjati**: root *sṛja visarge*, *tudādi*; third person singular; *tudādibhyaḥ śaḥ* (Pā. 3-1-77 as read) gives *śa*; *sārvadhātukam apit* (Pā. 1-2-4 as read) makes it *ṅit* [print: "jit", [?]], so no *guṇa* of the light penultimate; *tip* is *pit* and unaccented (*anudāttau suppitau*), so the accent of the *vikaraṇa* remains; *ādyudāttaś ca* (Pā. 3-1-3 as read) makes it acute; the *a* after *j* is acute; after an acute, an unaccented *tip* becomes *svarita*; because *yā* occurs before, by the *yad*-connexion, *tiṅ atiṅaḥ* gives no all-unaccented (the Kannada author says the prohibition is stated when *yat*-words are connected).
+- **odatī**: root *undī kledane*, *rudhādi*; "*unatti sarvaṃ nīhāreṇa*", the Uṣas who wets everything with the moisture of the dew; *laṭaḥ śatṛśānacau* gives *śatṛ*; the *śnam* of the *rudhādi* class would come; in its place, by *vyatyayo bahulam*, *śap*; *und + a + at*; the nasal's dropping by *anudāttopadeśa…* is by exchange in the Chandas; *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read) gives *guṇa* to the light penultimate *u* of *ud*; *odat*; for the feminine, *ugitaś ca* gives *ṅīp*, *śatṛ* being *ugit*; *odatī*. As *śatṛ* is *ugit*, in the nominative singular *sarvanāmasthāne* *ugidacāṃ sarvanāmasthāne 'dhātoḥ* (Pā. 7-1-70 as read) would give *num*; but by *āgamaśāstram anityam* (Paribhāṣā, "98" as read [?]) the *num* does not come. *Śap* being *pit* is unaccented; *śatṛ*, if it were end-acute by its suffix-accent, is made unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read); then the root-accent (end-acute) alone remains, so *odatī* is initial-acute [as the Kannada says]. A doubt arises: why does the *ī* with the *nadī*-name not take the acute by *śatur anumo nadyajādī*? — the sūtra's sense is that, after a *śatṛ*-ending word without *num*, the *nadī* and the vowel-initial case-endings are acute, and by continuation of "end-acute", the *nadī* standing after an end-acute *śatṛ*-ending word; here the *śatṛ* is not end-acute; the condition is lacking, so there is no acute on the *nadī*.
+- **nakiṣṭe**: *nakiḥ te*; *visarjanīyasya saḥ* (Pā. 8-3-34 as read) gives *s* for the *visarga* before *t*; *nakis + te*; *yuṣmattatakṣuḥṣv antaḥpādam* (Pā. 8-3-103 as read [?]) — *ṣ* for *s* after *iṇ/ku* in the middle of a *pāda* before the substitutes of *yuṣmad* beginning with *t*: *te* here comes from *yuṣmad* by *temayāv ekavacanasya* (Pā. 8-1-22 as read); *ṣṭunā ṣṭuḥ* (Pā. 8-4-41 as read) gives *ṭ* for *t*: *nakiṣṭe*.
+- **paptivāṃsaḥ**: root *patḷ gatau*, *bhvādi*; *chandasi liṭ* continuing, *kvasuś ca* (Pā. 3-2-107 as read) gives *kvasu* in the place of *laṭ* in the past in the Chandas; only *vas* remains; it is *ārdhadhātuka* by being *ṭit*-like; the *iṭ* that would come to a vowel-less *ārdhadhātuka* beginning with a consonant is restricted by *kṛsṛbhṛvṛstudruśruzrubhyaś chandasi* (Pā. 7-2-13 as read [?]) and by *vasvekājāghasām* (Pā. 7-2-67 as read): *iṭ* for *vasu* after a one-vowel root that is doubled, a root ending in *a*, and *ghas*; by the second restriction, the *iṭ* would not come, but the Kannada author says that, by *chandasi vā* (*yogavibhāga* at Pā. 1-4-9 [as read [?]]) all rules are optional in the Chandas, so *iṭ* comes; *pat + iv + as*; *tanipatyor…* (Pā. 6-4-98 as read) drops the penultimate *a* before a *kit* suffix; doubling by *dvirvacane 'ci* with the *sthānivat* rule; *halādiḥ śeṣaḥ*: *paptivas*; before *jas*, *num* (*sarvanāmasthāna*) by *ugidacām…*; *āt svasaṃbuddhyoḥ* … *apadāntasya*, the lengthening of the penultimate by *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8 as read); the nasal becomes *anusvāra* by *naś chapadāntasya jhali*: *paptivāṃsaḥ*; *kvasu* is initial-acute by the suffix-accent [as the print says "*ādyudātta*" of the suffix]; the case-ending is unaccented and becomes *svarita*; the rest are unaccented.
+- **vājinīvati**: *vāja* is food; "*vājaḥ annam asyā asti*" is *vājinī*, meaning "activity"; *ato 'nekācaḥ…* (*ata iniṭhanau*, Pā. 5-2-115 as read [?]) gives *ini* in the sense of possession; the *i* is for pronunciation, *in* remains; *yasyeti ca* (Pā. 6-4-148 as read) drops the *a* of the stem; *vājin*, ending in *n*, so *ṛnnebhyo ṅīp* (Pā. 4-1-5 as read) gives *ṅīp* in the feminine: *vājinī*; "*tādṛśī kriyā yasyāḥ sā*"; again *matup* by *tadasyāstyasminn iti matup*; *vājinī + mat*; *saṃjñāyām* (Pā. 8-2-11 as read) — *v* for the *m* of *matup* after a stem when a name is intended; *vājinīvat*; for the feminine, *ugitaś ca* gives *ṅīp*: *vājinīvatī*; in the vocative, *ambārthanadyor hrasvaḥ* shortens it and *su* drops: *vājinīvati*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 49 (PDF 65) reached; introduction, heading and Riks 48.1–48.5 complete; Rik 48.6's Saṃhitā and Pada written; its Sāyaṇa-bhāṣya begins at the foot of p. 49 and continues on p. 50 and is NOT yet written.**
+### Rik 48.7 (pp. 54–56, PDF 70–72)
 
-**Next task:** continue at printed p. 49 foot / p. 50 (PDF 65–66) with the bhāṣya of Rik 48.6 (read it afresh from the print; the first words, "yo/yā devatā samanaṃ …", are at the foot of PDF 65), then Riks 7–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 46–120) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 65 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-065.jpg`). Flags for 48.4–5: in 48.5 the grammatical tail's rule-names, the Paribhāṣā numbers 3 and 89, the Uṇādi number and the Kāśikā number are crowded [?]; the long discussion of the accent of *padvat* is outlined only; the *kṛṣṇavṛji…* Uṇādi list was read from the grammar page. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 54; accents not reproduced)*
+
+> **एषायुक्त परावतः सूर्यस्योदयनादधि ।**
+> **शतं रथेभिः सुभगोषा इयं वि यात्यभि मानुषान् ॥ ७ ॥**
+
+*eṣāyukta parāvataḥ sūryasyodayanād adhi |*
+*śataṃ rathebhiḥ subhagoṣā iyaṃ vi yāty abhi mānuṣān || 7 ||*
+
+**Pada-pāṭha** *(p. 54)*
+
+> एषा । अयुक्त । परावतः । सूर्यस्य । उत्ऽअयनात् । अधि ।
+> शतम् । रथेभिः । सुऽभगा । उषाः । इयम् । वि । याति । अभि । मानुषान् ॥ ७ ॥
+
+*eṣā | ayukta | parāvataḥ | sūryasya | ut-ayanāt | adhi |*
+*śatam | rathebhiḥ | su-bhagā | uṣāḥ | iyam | vi | yāti | abhi | mānuṣān || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 54)*
+
+> **एषोषोदेवी शतमयुक्त । स्वकीयानां रथानां शतं योजितवती । सुभगा सौभाग्ययुक्तेयमुषाः परावतो दूरस्थात् सूर्यस्योदयनादधि सूर्योदयस्थानादधिकाद्द्युलोकान्मानुषानभि मनुष्यानुद्दिश्य रथेभिः शतसंख्यैर्युक्तै रथैर्वि याति । विशेषेण गच्छति ॥ आयुक्त । लुङि झलो झलि । पा. ८-२-२६ । इति सिचो लोपः । उदयनात् । उदेत्यत्रेत्युदयनं । इण् गतौ । अधिकरणे ल्युट् । कृदुत्तरपदप्रकृतिस्वरत्वं । सुभगा । शोभनो भगो यस्याः सा । आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । मानुषान् । मनोः पुत्राः मानुषाः । मनोर्जातावञ्यतौ षुक् च । इत्यञ् षुगागमश्च । ञित्त्वादाद्युदात्तत्वं ॥**
+
+*eṣoṣodevī śatam ayukta | svakīyānāṃ rathānāṃ śataṃ yojitavatī | subhagā saubhāgyayuktēyam uṣāḥ parāvato dūrasthāt sūryasyodayanād adhi sūryodayasthānād adhikād dyulokān mānuṣān abhi manuṣyān uddiśya rathebhiḥ śatasaṃkhyair yuktai rathair vi yāti | viśeṣeṇa gacchati || āyukta | luṅi jhalo jhali | pā. 8-2-26 | iti sico lopaḥ | udayanāt | udety atrety udayanaṃ | iṇ gatau | adhikaraṇe lyuṭ | kṛduttarapadaprakṛtisvaratvaṃ | subhagā | śobhano bhago yasyāḥ sā | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | mānuṣān | manoḥ putrāḥ mānuṣāḥ | manor jātāv añyatau ṣuk ca | ity añ ṣugamaś ca | ñittvād ādyudāttatvam ||*
+
+*(The print has the unusual "eṣoṣodevī" for "eṣā uṣodevī" [as I read it]; "ñityādir nityam" is printed "ñitsvara…". The numerals are as read.)*
+
+**Translation:** "This goddess Uṣas *śatam ayukta*, has harnessed a hundred — a hundred of her own chariots. *Subhagā*, fortunate, this Uṣas, *parāvataḥ*, from afar, *sūryasya udayanāt adhi*, beyond the place of the Sun's rising, from the heaven, *mānuṣān abhi*, towards men, *rathebhiḥ*, with chariots yoked, a hundred in number, *vi yāti*, goes specially. *Āyukta*: in the aorist the *sic* drops by *jhalo jhali* (Pā. 8-2-26). *Udayanāt*: 'where one rises' is *udayana*; root *iṇ gatau*; *lyuṭ* in the locative sense; the second member's accent. *Subhagā*: 'she who has fortune'; the second member is initial-acute after *su* by *ādyudāttaṃ dvyac chandasi*. *Mānuṣān*: 'sons of Manu are *mānuṣāḥ*'; *añ* with the augment *ṣuk* by *manor jātāv añyatau ṣuk ca*; initial-acute because the suffix is *ñit*."
+
+**Pratipadārtha** *(p. 54)* — "**eṣā** — this goddess Uṣas; **śatam** — a hundred (in her chariots); **ayukta** — has made ready; **subhagā** — the auspicious; **iyam uṣāḥ** — this goddess Uṣas; **parāvataḥ** — from very far; **sūryasya udayanāt adhi** — from the heaven that is higher than the place of the Sun's rising; **mānuṣān abhi** — facing men; **rathebhiḥ** — with (her hundred chariots); **vi yāti** — comes in splendour."
+
+**Bhāvārtha** *(p. 54)* — "The auspicious goddess Uṣas, preparing a hundred chariots at the time of her rising, comes in splendour with her hundred chariots, facing men, from the heaven, which is far away and higher than the place of the Sun's rising."
+
+**English Translation (the source's own, p. 55)** — "This auspicious Ushas has harnessed (her chariot) from afar, above the rising of the sun ; and she goes gloriously towards men with a hundred chariots."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 55**
+- **parāvataḥ sūryasya** — "of the Sun who is far away; the Sun rises very far off; the idea is that the goddess Uṣas comes from a place farther away than that."
+- **śataṃ rathebhiḥ** — "accompanied by a hundred, or many, chariots, sitting in many chariots. Here some hold that 'chariots' means the rays of the Sun."
+- **subhagā** — "*saubhāgyayuktā*: auspicious, who bestows good fortune or the grace of wealth."
+- **abhi mānuṣān** — "facing men; the idea is that she comes facing the earth, the world of men, starting from the heavenly world or the atmosphere."
+
+**Vyākaraṇa-prakriyā** *(pp. 55–56 — grammar pages, noted briefly)*
+- **ayukta**: root *yujir yoge*, *rudhādi*, both *padas*, *luṅ*, third person singular; *yuj + ta*; in the *cli* which would be general, *sic* by *cleḥ sic* (Pā. 3-1-44 as read); *yuj + s + ta*; *jhalo jhali* (Pā. 8-2-26 as read) drops the *s* when a *jhal* follows a *jhal*: the *s* after *j* and before *t* (a *jhal*); the *aṭ* augment; *coḥ kuḥ* (Pā. 8-2-30 as read) gives *g* for *j*, *khari ca* (Pā. 8-4-55 as read) gives *k*: *ayukta*; the Kannada author notes that the *tiṅ* is not made all-unaccented since it begins a *pāda*.
+- **udayanāt**: "*udeṣyati atra iti udayanam*"; root *iṇ gatau*; *lyuṭ ca* (Pā. 3-3-115 as read [?]) gives *lyuṭ* in the locative sense; *yu* → *ana*; *guṇa*, *ay*; *ut* being a prefix, *gatikārakopapadāt kṛt* leaves the natural accent; with *lit*-accent (*liti*, Pā. 6-1-193 as read) the syllable before the suffix is acute: in *udayanāt*, only the *a* after *d* is acute.
+- **subhagā**: "*śobhanaṃ bhagaḥ yasyāḥ sā*", one with greatness such as lordship; *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119 as read) — a second member having two vowels and initial-acute, standing after *su* in a bahuvrīhi, is initial-acute; so the word *bhaga* stays initial-acute in the compound; *subhagā* is middle-acute.
+- **mānuṣān**: "*manoḥ putrāḥ mānuṣāḥ*", sons of Manu; *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161 as read) — after the word *manu*, in the sense of a *jāti* (community), the suffixes *añ* and *yat*, and the augment *ṣuk*; the augment is *kit*, so it comes at the end; here *añ* is used; *manu + ṣ + a*; since the suffix is *ñit*, *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 as read) gives *vṛddhi* to the first vowel; *mānuṣa*; *ñnityādir nityam* (Pā. 6-1-197 as read) gives the initial acute; in the accusative plural, *mānuṣān*: the syllable after *n*; the unaccented *u* after the acute becomes *svarita*, and so on. **|| 7 ||**
+
+---
+
+### Rik 48.8 (p. 56 foot, PDF 72–)
+
+**Saṃhitā-pāṭha** *(p. 56; accents not reproduced)*
+
+> **विश्वमस्या नानाम चक्षसे जगज्ज्योतिष्कृणोति सूनरी ।**
+> **अप द्वेषो मघोनी दुहिता दिव उषा उच्छदप स्रिधः ॥ ८ ॥**
+
+*viśvam asyā nānāma cakṣase jagaj jyotiṣ kṛṇoti sūnarī |*
+*apa dveṣo maghonī duhitā diva uṣā uccha dapa sridhaḥ || 8 ||*
+
+*(The Saṃhitā prints* nānāma *with a long* ā *and* uccha dapa*; the Pada has* nanāma *and* uchchhat | apa*; I read the line-end as* ucchad apa sridhaḥ*, from the Pada, [?].)*
+
+**Pada-pāṭha** *(p. 56)*
+
+> विश्वम् । अस्याः । ननाम । चक्षसे । जगत् । ज्योतिः । कृणोति । सूनरी ।
+> अप । द्वेषः । मघोनी । दुहिता । दिवः । उषाः । उच्छत् । अप । स्रिधः ॥ ८ ॥
+
+*viśvam | asyāḥ | nanāma | cakṣase | jagat | jyotiḥ | kṛṇoti | sūnarī |*
+*apa | dveṣaḥ | maghonī | duhitā | divaḥ | uṣāḥ | ucchat | apa | sridhaḥ || 8 ||*
+
+*(The bhāṣya of Rik 8 begins at the foot of p. 56 and continues on p. 57; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 56 (PDF 72) reached; introduction, heading and Riks 48.1–48.7 complete; Rik 48.8's Saṃhitā and Pada written at the foot of p. 56; its Sāyaṇa-bhāṣya begins there and continues on p. 57 and is NOT yet written.**
+
+**Next task:** continue at printed p. 56 foot / p. 57 (PDF 72–73) with the bhāṣya of Rik 48.8 (read afresh from the print), then Riks 9–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` may be lost; re-render with `pdftoppm -jpeg -r 150 -f 72 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-072.jpg`). Flags for 48.6–7: 48.6's bhāṣya has several crowded stretches (marked [?] in the text) and its first word may be *yā* not *yo*; the Kannada gloss of *nakiḥ* as "all" kept as printed; 48.7's "eṣoṣodevī" as printed; the Rik 8 Saṃhitā line-end reading from the Pada [?]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
