@@ -5876,8 +5876,93 @@
 
 ---
 
+**Rik 54.6, continued** *(p. 323, PDF 339)*
+
+**Special Topics, rest**
+- **vayyaṃ turvītim** — "*Vayya* is the name of a family. The one born in it is the king named Turvīti. Indra saved him from the troubles of the Rākṣasas and protected him."
+- **etaśaṃ ratham** — "The two words *ratha* and *etaśa* may each indicate the name of a king; or the word *ratha* may mean the chariots of some of the kings spoken of before, and the word *etaśa* may mean 'horse' — 'one who goes (*eti*)' is the derivation for the sense of horse."
+- **navatiṃ nava** — "It means ninety-nine. It is an epithet of the word *puraḥ*. The Asura Śambara had ninety-nine cities; Indra destroyed all of them: thus Indra is praised here."
+
+**Vyākaraṇa-prakriyā** *(p. 323 — grammar page, noted briefly)*
+- **āvitha**: *ava rakṣaṇe*; *liṭ* second singular *sip*, *thal* by *parasmaipadānāṃ ṇalatusus…*; reduplication; *halādiḥ śeṣaḥ*; lengthening by *akaś ca ādeḥ* [as read, "*ataḥ ādeḥ*", Pā. 7-4-70]; *iṭ* for *thal*: *āvitha*; following an *atiṅ*, *nighāta*.
+- **śatakrato**: *āmantritasya ca* gives the *nighāta*.
+- **etaśam**: "*eti gacchatīti etaśaḥ*"; *iṇ gatau*, *adādi*; *iṇas taśan-kaśasunau* (Uṇ. 3-… as read [?]) gives *taśan*; when *taśan* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *ñnityādir nityam* gives the initial acute.
+- **kṛtvye**: *pṛṣodarādīni yathopadiṣṭam*: since *kartavye* is thus read, the form *kṛtvye* arises by letter-change and loss.
+- **dambhayaḥ**: *dambhu dambhe*, *curādi*; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *kartari śap* after *ṇic*; *guṇa* and *ayādeśa* with *śap* as cause; *ru*, *visarga*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*: *dambhayaḥ*; *tiṅ atiṅaḥ*, *nighāta*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.5 complete; Rik 54.6 (Triṣṭubh) written from the Saṃhitā through the Special Topics *turvaśam/turvītim/naryam/śatakrato* (printed p. 322, PDF 338). The remaining Special Topics (from p. 323, PDF 339), Vyākaraṇa notes of Rik 6 and Riks 54.7–54.11 are NOT yet written.**
+### Rik 54.7 (pp. 324–327, PDF 340–343)
 
-**Next task:** continue at printed p. 323 (PDF 339) with "**Rik 54.6, continued**" (remaining Special Topics, Vyākaraṇa), then Riks 7–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation and numerals [?]; Rik 6 Part-4 page references and Ṛ. Saṃ. numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
+**Saṃhitā-pāṭha** *(p. 324; accents printed, not reproduced)*
+
+> **स घा राजा सत्पतिः शूशुवज्जनो रातहव्यः प्रति यः शासमिन्वति ।**
+> **उक्था वा यो अभिगृणाति राधसा दानुरस्मा उपरा पिन्वते दिवः ॥ ७ ॥**
+
+*sa ghā rājā satpatiḥ śūśuvaj jano rātahavyaḥ prati yaḥ śāsam invati |*
+*ukthā vā yo abhigṛṇāti rādhasā dānur asmā uparā pinvate divaḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 324)*
+
+> सः । घ । राजा । सत्ऽपतिः । शूशुवत् । जनः । रातऽहव्यः । प्रति । यः । शासम् । इन्वति ।
+> उक्था । वा । यः । अभिऽगृणाति । राधसा । दानुः । अस्मै । उपरा । पिन्वते । दिवः ॥ ७ ॥
+
+*saḥ | gha | rājā | sat-patiḥ | śūśuvat | janaḥ | rāta-havyaḥ | prati | yaḥ | śāsam | invati |*
+*ukthā | vā | yaḥ | abhi-gṛṇāti | rādhasā | dānuḥ | asmai | uparā | pinvate | divaḥ || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 324)*
+
+> **स घ स खलु जनो जातो राजा राजमानः सत्पतिः सतां पालयिता यजमानः शूशुवत् आत्मानं वर्धयति । य इन्द्रं प्रति रातहव्यो दत्तहविष्कः सन् शासमिन्द्रकर्तृकमनुशासनं यद्वा तस्य स्तुतिमिन्वति व्याप्नोति । उक्था वोक्थानि शस्त्राणि वा यः स्तोता राधसा हविर्लक्षणेनान्नेन सहाभिगृणाति तस्याभिमुखीकरणाय शंसति । अस्मै स्तोत्रे दानुरभिमतफलप्रदातेन्द्र उपरो परान्मेघान् । उपर इति मेघनाम । स च यास्केनैवं निरुक्तः । उपर उपलो मेघो भवत्युपरमन्तेऽस्मिन्नभ्राण्युपरता आप इति वा । निरु. २-२१ [?] इति । तान् मेघान् दिवः सकाशात् पिन्वते । सेचयति । दोग्धीति यावत् ॥**
+
+*sa gha sa khalu jano jāto rājā rājamānaḥ satpatiḥ satāṃ pālayitā yajamānaḥ śūśuvat ātmānaṃ vardhayati | ya indraṃ prati rātahavyo dattahaviṣkaḥ san śāsam indrakartṛkam anuśāsanaṃ yadvā tasya stutim invati vyāpnoti | ukthā vokthāni śastrāṇi vā yaḥ stotā rādhasā havirlakṣaṇenānnena sahābhigṛṇāti tasyābhimukhīkaraṇāya śaṃsati | asmai stotre dānur abhimataphalapradātendra upero [= uparo] parān meghān | upara iti meghanāma | sa ca yāskenaivaṃ niruktaḥ | upara upalo megho bhavaty uparamante 'sminn abhrāṇy uparatā āpa iti vā | niru. 2-21 [?] iti | tān meghān divaḥ sakāśāt pinvate | secayati | dogdhīti yāvat ||*
+
+*(Reading notes: "*upero [uparo] parān meghān*" is crowded, [?]; the Nirukta numeral as read, [?]. The tail of the bhāṣya, pp. 324 foot–325: on* gha *(the lengthening in the Saṃhitā by* ṛci tunughamakṣutaṅkutroruṣyāṇām*, Pā. 6-3-133),* satpatiḥ *(*patyāv aiśvaryye*),* śūśuvat *(*ṭuoś vi gatiḥ vṛddhyoḥ*; *ṇic*, *luṅ*, *caṅ*; *saṃprasāraṇa*; reduplication; *dīrgho laghoḥ*; *uvaṅ*),* rātahavyaḥ*,* śāsam *(*śāsu anuśiṣṭau*, *ghañ*),* invati *(*ivi vyāptau*, *num*, *śap*),* abhigṛṇāti*,* uparā *(lengthening by same-sound),* pinvate *(*pivi mivi ṇivi secane*) — is characterized and also given in the Kannada grammar notes below.)*
+
+**Translation of the bhāṣya:** "*Sa gha*: that man indeed, born a *rājā*, shining, *satpatiḥ*, the protector of the good — the sacrificer — *śūśuvat*, increases himself — who, *rātahavyaḥ*, having given offerings to Indra, *śāsam invati*, comes to the command given by Indra, or pervades his praise; and who, the praiser, *abhigṛṇāti*, praises, in order to turn him towards himself, *ukthā*, recitations, or *śastras*, together with *rādhasā*, food in the form of the oblation; for that praiser, Indra, *dānuḥ*, the giver of the desired fruit, *uparā*, makes the clouds — *upara* is a name for cloud, which Yāska explains thus: 'the *upara*, *upala*, is the cloud: on it the clouds are stopped, or the waters are stopped' (Ni. 2-21 [?]) — *divaḥ*, from heaven, *pinvate*, rain down, milk, as it were."
+
+**Pratipadārtha** *(p. 325)* — "**yaḥ** — which man (towards Indra); **prati** — towards Indra; **rātahavyaḥ** — offering oblations; **śāsam** — Indra's command, or his praise; **invati** — is obeying (also); **yaḥ** — which one; **ukthā vā** — whether with *uktha* or with *śastra* hymns [of the form of *uktha* or of *śastra*]; **rādhasā** — with the food of the form of oblation; **abhigṛṇāti** — praises, to draw (him) towards himself; **saḥ gha** — that very; **janaḥ** — man; **rājā** — shining; **satpatiḥ** — the protector of the good, the sacrificer; **śūśuvat** — increases himself; **asmai** — for such a praiser; **dānuḥ** — Indra, the giver of desired things; **uparā** — clouds; **divaḥ** — from the atmosphere; **pinvate** — makes rain down."
+
+**Bhāvārtha** *(p. 325)* — "The sacrificer who offers oblations to Indra, obeys his command, and praises him with *uktha* and *śastra* hymns together with the food-oblation, becomes a king, shining, the protector of the good, and grows. And Indra, the giver of desired fruits, calls down the clouds from the atmosphere and makes the rain fall for such a praiser."
+
+**English Translation (the source's own, p. 325)** — "That eminent person, the cherisher of the pious, advances his own prosperity, who while offering oblations to Indra, sings his praise; or who, along with the offerings he presents, recites hymns in honour of him; for him the bounteous Indra causes the clouds to rain from heaven."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 325–326**
+- **idam uktaṃ bhavati** *(a Sanskrit passage in the print, p. 325)*:
+
+  > **इदमुक्तं भवति । यो जनो दत्तहविष्कः सन् तथा दत्तराधाः सन्निन्द्रस्य शासनं पालयति तथा तस्य स्तुतीर्गायति स निःसंशयं सत्पती राजा भूत्वा वर्धते तदर्थे च दिव्या मेघोदकवृष्टिर्विपुलं यथा तथा पतेतीति ॥**
+
+  *idam uktaṃ bhavati | yo jano dattahaviṣkaḥ san tathā dattarādhāḥ sann indrasya śāsanaṃ pālayati tathā tasya stutīr gāyati sa niḥsaṃśayaṃ satpatī rājā bhūtvā vardhate tadarthe ca divyā meghodakavṛṣṭir vipulaṃ yathā tathā patetīti ||* — "This is what is said: the man who, having given the oblation and having given food, obeys Indra's command and sings his praises, undoubtedly becomes a king, protector of the good, and grows; and for his sake the divine rain from the clouds falls in abundance." The Kannada adds: "Whichever sacrificer offers the oblation and the like to Indra, obeys his commands and, with hymns and the like, pleases Indra, becomes a king: for his benefit the clouds rain specially. In this matter, there is no doubt."
+- **gha** — "This is the word *gha*; it means *khalu* (indeed), 'with respect'. By the sūtra *ṛci tunughamakṣu…* the lengthening arises in the Saṃhitā."
+- **satpatiḥ** — "Here, one who protects the good — a sacrificer who is consecrated for a sacrifice."
+- **śūśuvat** — "This word, formed from the root *ṭuoś vi gativṛddhyoḥ*, a root with the sense of growth, indicates that 'he increases himself'."
+- **rātahavyaḥ** — "*Rātaṃ havyaṃ yena saḥ*: by this derivation, one who has offered the oblation to the deities."
+- **śāsam** — "This word, from the root *śāsu anuśiṣṭau*, gives the sense of Indra's command, or the praise of Indra."
+- **rādhasā** — "With food that is joined with the oblation."
+- **ukthā vā** — "Here the word *uktha* means certain mantras called *śastras*."
+- **uparā** — "*Upara* is a name of the cloud. The Nirukta sūtra '*upara upalo megho bhavaty uparamante 'sminn abhrāṇy uparatā āpa iti vā*' (Ni. 2-21 [?]) is the authority for this."
+
+  > **उपर उपलो मेघो भवत्युपरमन्तेऽस्मिन्नभ्राण्युपरता आप इति वा ।** *(Ni. 2-21 as read [?])*
+
+  *upara upalo megho bhavaty uparamante 'sminn abhrāṇy uparatā āpa iti vā |* — mine and tentative: "*upara*, *upala*, is a cloud: in it the clouds come to rest; or [it is] the waters brought to a halt."
+- **dānuḥ** — "Indra, who gives all the desired objects the sacrificers ask for."
+
+**Vyākaraṇa-prakriyā** *(pp. 326–327 — grammar pages, noted briefly)*
+- **gha**: *ṛci tunughamakṣutaṅkutroruṣyāṇām* (Pā. 6-3-133) gives the lengthening in the Saṃhitā.
+- **satpatiḥ**: "*satāṃ patiḥ*": *patyāv aiśvaryye* (Pā. 6-2-18) keeps the accent of the first member.
+- **śūśuvat**: *ṭuoś vi gativṛddhyoḥ*; by *hetumati ca* the causative sense is shown, so *ṇic*; *sanādyantā dhātavaḥ* gives the root-designation; in the sense of the present, *chandasi luṅlaṅliṭaḥ* gives *luṅ*; third singular *tip*; *itaś ca* drops the *i*; *ṇiśridrusrubhyaḥ kartari caṅ* gives *caṅ* for *cli*; the *ṭu* and *o* of the root are *it* [markers]; *tasya lopaḥ*; since *ṇic* follows, the *vṛddhi* would be reached, but by *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ* (Pā. *paribhāṣā*) the *saṃprasāraṇa* of the *v* of *śvi* takes precedence over *vṛddhi* etc., since it is more internal; *hvaś ca saṃprasāraṇaṃ ca* gives *u* for *v*; *saṃprasāraṇāc ca* gives the earlier form; reduplication by *caṅi*; *śu + i + at*; since *saṃjñāpūrvako vidhir anityaḥ*, no *vṛddhi*; the *ṇi* is dropped by *ṇer aniṭi*; *śuśu + at*; *sanvallaghuni caṅparehy anoglope* gives *sanvad bhāva*, so by *dīrgho laghoḥ* (Pā. 7-4-94) the reduplicative light vowel is lengthened; *ajiśnudhātubhruvāṃ…* gives *uvaṅ* for the *u*: *śūśuvat*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*.
+- **rātahavyaḥ**: "*rātaṃ havyaṃ yena saḥ*": a bahuvrīhi: first-member accent; *rā ādāne*, suffix *kta*; the suffix-accent gives the end-acute.
+- **śāsam**: *śāsu anuśiṣṭau*; *ghañ* in the sense of the action; *karṣātvato ghaño 'nta udāttaḥ* would give the end-acute, but *vyatyayo bahulam* gives the initial-acute; or, because it belongs to the *vṛṣādi* list, *vṛṣādīnāṃ ca* gives the initial-acute; or from *śaṃsu stutau* with *ghañ* in the action sense, the loss of *n* even without the cause by *vyatyaya*; *ata upadhāyāḥ* gives *vṛddhi*: *śāsa*.
+- **invati**: *ivi vyāptau*, *bhvādi*; *idito num dhātoḥ* gives *num*; *kartari śap*; *laṭ* third singular *tip*; *śap* being *pit*, *anudātta*, so the root's accent stays; since *yaḥ* precedes, *yadvṛttān nityam* forbids the *nighāta*.
+- **abhigṛṇāti**: *gṝ śabde*, *kryādi*; *laṭ* with *tip*; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ* shortens the root's vowel; *ṛvarṇān nasya ṇatvaṃ vācyam* gives *ṇa*: *gṛṇāti*; *tip* being *pit*, *anudātta*, so the characteristic's accent stays; since *yaḥ* precedes, no *nighāta*.
+- **uparā**: *upara* + *śas*; *supāṃ suluk…* gives the same-sound lengthening.
+- **pinvate**: *pivi mivi ṇivi secane*; *idit*, so *num*; *vyatyayo bahulam* gives the *ātmanepada*; *ṭita ātmanepadānām ṭer e* gives *e*: *pinvate*; *tiṅ atiṅaḥ*, *nighāta*. **|| 7 ||**
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.7 complete (through printed p. 327, PDF 343). Rik 54.8 (Triṣṭubh) begins at the head of p. 328 (PDF 344) — NOT yet written; nor Riks 54.9–54.11.**
+
+**Next task:** continue at printed p. 328 (PDF 344) with **Rik 54.8**, then Riks 9–11 (Triṣṭubh: 8, 9, 11) and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
