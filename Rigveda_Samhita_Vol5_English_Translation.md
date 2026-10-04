@@ -4206,8 +4206,105 @@
 
 ---
 
+**Rik 52.6, Special Topic and grammar notes** *(pp. 236–237, PDF 252–253 — grammar pages, noted briefly)*
+- **ghṛṇā** (Special Topic, p. 236): "In common usage this word means 'compassion'; but here it must be taken as the radiance — or the lustre — that indicates victory over enemies."
+- **titviṣe**: *tviṣa dīptau*; *liṭ* with *ta*, replaced by *e* by *liṭas tajhayor eśirec*; being *kit*-like, reduplication; *halādiḥ śeṣaḥ*: *titviṣe*; initial-acute by the suffix-accent on the root's last…: the middle acute; since *carati* (a verb) follows, the *nighāta* does not come.
+- **vṛtvī**: *vṛñ varaṇe*; *ktvā*; for *vṛtvā*, *snātvyādayaś ca* (Pā. 3-4-49 [?]) — by the word *ādi* in it, *ktvā* is replaced by *ī*-ending: *vṛtvī*; end-acute by the suffix.
+- **rajasaḥ**: *ranja rāge*; "*rajanty asmin gandharvādayaḥ iti rajaḥ antarikṣam*"; *asun* after all roots; *rajakarajanarajaḥsūpasaṃkhyānam* (a *vārttika*, as read [?]) drops the *n*: *rajas*.
+- **āśayat**: *śīṅ svapne*; *vyatyayo bahulam* gives the *parasmaipada*; *laṅ* third singular *tip*, whose *i* is lost by *itaś ca*; by *bahulaṃ chandasi* *śap* is not elided; guṇa since *śap* is the cause; *ayādeśa*; *aṭ* as the augment; *tiṅ atiṅaḥ*, *nighāta*.
+- **durgṛbhiśvanaḥ**: *graha upādāne* and *aśū vyāptau*; with *dus* as the first member, these two roots follow *pṛṣodarādīni yathopadiṣṭam*, being in that group, so the desired form is obtained by letter-change and the like.
+- **nijaghantha**: *han hiṃsāgatyoḥ*; *liṭ* second singular *sip*, replaced by *thal* by *parasmaipadānāṃ ṇalatusus…*; though the root is *anit* by *kryādiniyama*, an *iṭ* would come to *thal*, but *upadeśe 'tvataḥ* (Pā. 7-2-62) forbids it again, because the root has *a* [as read]; reduplication; *halādiśeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* gives *gh* for the *h* of the root after the reduplicative syllable; *n* becomes anusvāra and the homorganic: *jaghantha*; *thal* being *lit*, the acute is on the part before the suffix (*liti*, Pā. 6-1-193); because of the earlier *yat*, the *nighāta* is forbidden by *yadvṛttān nityam*.
+- **tanyatum**: *tanu vistāre*; *atu* by *ṛtanyañjiyam…* (Uṇ. 3-… as read [?]) — *yatuc* in the Kannada notes: *yatuc*; or from *stana śabde* with *yatuc* by the *bahulam* of *uṇādayo bahulam*; the loss of *s* is Vedic: *tanyatu*; end-acute by *citaḥ*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.5 complete; Rik 52.6 written from the Saṃhitā through the Special Topics (printed p. 235, PDF 251). The Vyākaraṇa-prakriyā of Rik 6 (begins p. 236, PDF 252) and Rik 52.7 onward are NOT yet written.**
+### Rik 52.7 (pp. 237–239, PDF 253–255)
 
-**Next task:** continue at printed p. 236 (PDF 252) with "**Rik 52.6, Vyākaraṇa-prakriyā**" (grammar page, note briefly), then Rik 52.7 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ" and "tṛtīyārthe dvitīyā" crowded [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 237; accents printed, not reproduced)*
+
+> **ह्रदं न हि त्वा न्यृषन्त्यूर्मयो ब्रह्माणीन्द्र तव यानि वर्धना ।**
+> **त्वष्टा चित्ते युज्यं वावृधे शवस्ततक्ष वज्रमभिभूत्योजसम् ॥ ७ ॥**
+
+*hradaṃ na hi tvā nyṛṣanty ūrmayo brahmāṇīndra tava yāni vardhanā |*
+*tvaṣṭā cit te yujyaṃ vāvṛdhe śavas tatakṣa vajram abhibhūtyojasam || 7 ||*
+
+**Pada-pāṭha** *(p. 237)*
+
+> ह्रदम् । न । हि । त्वा । निऽऋषन्ति । ऊर्मयः । ब्रह्माणि । इन्द्र । तव । यानि । वर्धना ।
+> त्वष्टा । चित् । ते । युज्यम् । ववृधे । शवः । ततक्ष । वज्रम् । अभिभूतिऽओजसम् ॥ ७ ॥
+
+*hradam | na | hi | tvā | ni-ṛṣanti | ūrmayaḥ | brahmāṇi | indra | tava | yāni | vardhanā |*
+*tvaṣṭā | cit | te | yujyam | vavṛdhe | śavaḥ | tatakṣa | vajram | abhibhūti-ojasam || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 237)*
+
+> **हे इन्द्र यानि ब्रह्माणि स्तोत्रशस्त्ररूपाणि मन्त्रजातानि तव वर्धना वर्धयित्रीणि तानि त्वा त्वां न्यृषन्ति हि । नितरां प्राप्नुवन्त्येव । तत्र दृष्टान्तः । ऊर्मयो जलप्रवाहा ह्रदं न । यथा जलाशयं प्राप्नुवन्ति तद्वत् । त्वष्टा चित् स त्वष्टा च देवस्ते तव युज्यं योग्यं शवो बलं वावृधे प्रावर्धयत् । अपि चाभिभूत्योजसं शत्रूणामभिभवित्रीणामोजसा बलेन युक्तं वज्रं ततक्ष । तीक्ष्णीचकार ॥**
+
+*he indra yāni brahmāṇi stotraśastrarūpāṇi mantrajātāni tava vardhanā vardhayitrīṇi tāni tvā tvāṃ nyṛṣanti hi | nitarāṃ prāpnuvanty eva | tatra dṛṣṭāntaḥ | ūrmayo jalapravāhā hradaṃ na | yathā jalāśayaṃ prāpnuvanti tadvat | tvaṣṭā cit sa tvaṣṭā ca devas te tava yujyaṃ yogyaṃ śavo balaṃ vāvṛdhe prāvardhayat | api cābhibhūtyojasaṃ śatrūṇām abhibhavitrīṇām ojasā balena yuktaṃ vajraṃ tatakṣa | tīkṣṇīcakāra ||*
+
+*(The tail of the bhāṣya, pp. 237–238, is characterized:* nyṛṣanti *(*ṛṣī gatau*, tudādi; *jher antaḥ*;* śa*; the single substitute* ato guṇe*; the* nighāta *is forbidden by* hi ca, Pā. 8-1-34 as read [?]);* ūrmayaḥ *(*ṛ gatau*, Uṇādi* mi*, *ārter ūc ca*, Uṇ. 4-… as read [?];* ūrmi*);* vardhanā *(*vṛdhu vṛddhau*, *lyuṭ* in the instrument sense, *yu* → *ana*, the Vedic* śeś chandasi bahulam*);* tatakṣa *(*takṣū tvakṣū tanūkaraṇe*, *liṭ* third singular, *ṇal*, the acute before* ṇal *by* liti*);* abhibhūtyojasam *(*abhibhūyate 'neneti abhibhūti*, *ktin*… *kti* with *tāḍau ca*, the prefix keeps its own accent).)*
+
+**Translation of the bhāṣya:** "O Indra, those *brahmāṇi*, the groups of mantras in the form of hymns and recitations, that are your *vardhanā*, 'increasers' — they attain you indeed, enter you completely: as *ūrmayaḥ*, waves, streams of water, enter a lake (*hradam na*). And the god Tvaṣṭṛ himself increased your suitable strength; and sharpened your thunderbolt, which is joined with *abhibhūtyojas*, the strength that overcomes the enemies."
+
+**Pratipadārtha** *(p. 238)* — "**indra** — O Indra; **yāni brahmāṇi** — which mantras in the form of hymns (or recitations); **tava vardhanā** — those that glorify you and make you grow; **hradaṃ na** — as streams of water enter the ocean; **tvā** — you; **nyṛṣanti hi** — enter you completely; **tvaṣṭā cit** — even Tvaṣṭṛ, (the deity); **te** — your; **yujyam** — suitable; **śavaḥ** — strength; **vavṛdhe** — made to grow; **abhibhūtyojasam** — the thunderbolt, joined with the strength that overcomes the enemies; **tatakṣa** — made very keen."
+
+**Bhāvārtha** *(p. 238)* — "O Indra, the mantras in the form of hymns, which praise your greatness and cause you to grow, enter you completely as streams of water enter the ocean. Tvaṣṭṛ, the deity, made your fitting strength grow, and made your thunderbolt, the strength that overcomes all enemies, exceedingly keen."
+
+**English Translation (the source's own, p. 238)** — "O Indra, the hymns, that glorify you, attain you as rivulets flow into a lake. Twashtri has augmented your appropriate vigour ; he has sharpened your bolt with overpowering might."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 238–239**
+- **hradaṃ na** — "The particle *na*, which has the sense of comparison, in this context gives the sense 'as streams flow into a pool'." *(The Kannada word is "ಕೊಳ", a pool.)*
+- **nyṛṣanti** — "This word, formed from the root *ṛṣī gatau* of the sense of motion, gives the meaning 'they enter completely, without obstruction'."
+- **tvaṣṭā cit** — "*sa tvaṣṭā deva eva*: here the word *cit* has the sense of *eva*, 'indeed'. Is that Tvaṣṭṛ the deity? is the sense." *(i.e., the very deity Tvaṣṭṛ.)*
+- **abhibhūtyojasam** — "*abhibhūti* + *ojasam*: *abhibhūti ojo yasya tat*; 'that which has the capacity to overpower or humble the enemies' — this qualifies the thunderbolt. *Abhibhūyate 'neneti abhibhūti*: that by which one is overcome."
+
+**Vyākaraṇa-prakriyā** *(p. 239 — grammar page, noted briefly)*
+- **nyṛṣanti**: *ni* + *ṛṣanti*; *ṛṣī gatau*, *tudādi*; the *jhi* replaced by *ant* by *jher antaḥ*; *tudādibhyaḥ śaḥ*; *ato guṇe* (Pā. 6-1-97) gives the *pararūpa*: *ṛṣanti*; being after a non-*tiṅ*, the *nighāta* would come by *tiṅ atiṅaḥ*, which is blocked by *hi ca* (Pā. 8-1-34 as read [?]); the characteristic's accent remains.
+- **ūrmayaḥ**: *ṛ gatau*; "*ṛcchanti gacchantīti ūrmayaḥ*"; *mi* by *ārter ūc ca* (Uṇ. 4-… as read [?]); *guṇa* before *mi*; the *a* of *ar* becomes *ū*: *ūrmi*; end-acute by the suffix-accent.
+- **vardhanā**: *vṛdhu vṛddhau*; "*vardhate ebhir iti vardhanā*"; *lyuṭ* in the instrumental sense; *yuvor anākau* gives *ana*; in the nominative plural, *num* and the lengthening; *śeś chandasi bahulam* drops the *śi*: *vardhanā*.
+- **tatakṣa**: *takṣū tvakṣū tanūkaraṇe*; *liṭ* third singular *tip*, *ṇal* by *parasmaipadānāṃ ṇalatusus…*; reduplication by the *liṅ*-nimitta; *halādiḥ śeṣaḥ*; *ṇal* is *lit*, so the vowel before the suffix is acute by *liti*; since it is the beginning of the *pāda*, *āpādādau* prohibits the *nighāta*… no *nighāta* comes.
+- **abhibhūtyojasam**: *abhibhūyate 'neneti abhibhūti*; *bhū* with *ktin* in the instrumental sense; *tāḍau ca* (Pā. 6-2-50 as read [?]) the prefix *abhi* keeps its natural accent; "*abhibhūti ojo yasya tat*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*. **|| 7 ||**
+
+---
+
+### Rik 52.8 (pp. 239–, PDF 255–)
+
+**Saṃhitā-pāṭha** *(p. 239; accents printed, not reproduced)*
+
+> **जघन्वाँ उ हरिभिः संभृतक्रतविन्द्र वृत्रं मनुषे गातुयन्नपः ।**
+> **अयच्छथा बाह्वोर्वज्रमायसमधारयो दिवि सूर्यं दृशे ॥ ८ ॥**
+
+*jaghanvāṃ u haribhiḥ saṃbhṛtakratav indra vṛtraṃ manuṣe gātuyann apaḥ |*
+*ayacchathā bāhvor vajram āyasam adhārayo divy ā sūryaṃ dṛśe || 8 ||*
+
+*(The print joins* saṃbhṛtakratav indra*; the Pada below shows the vocative* saṃbhṛtakrato iti*, i.e. the Saṃhitā sandhi is* -o *+* i- → -av i-*, as printed. The Saṃhitā's* divy ā *is as printed; the Pada* divi | ā *— so the print's "ā" before* sūryaṃ *belongs to* adhārayaḥ *by the Pada.)*
+
+**Pada-pāṭha** *(p. 240)*
+
+> जघन्वान् । ऊं इति । हरिऽभिः । संभृतक्रतो इति संभृतऽक्रतो । इन्द्र । वृत्रम् । मनुषे । गातुऽयन् । अपः ।
+> अयच्छथाः । बाह्वोः । वज्रम् । आयसम् । अधारयः । दिवि । आ । सूर्यम् । दृशे ॥ ८ ॥
+
+*jaghanvān | ūṃ iti | hari-bhiḥ | saṃbhṛtakrato iti saṃbhṛta-krato | indra | vṛtram | manuṣe | gātu-yan | apaḥ |*
+*ayacchathāḥ | bāhvoḥ | vajram | āyasam | adhārayaḥ | divi | ā | sūryam | dṛśe || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 240)*
+
+> **हे संभृतक्रतो संपादितकर्मन् संपादितप्रज्ञ वेन्द्र मनुषे जनाय गातुयन् गातुं मार्गमिच्छन् वृत्रं लोकानामावरकमसुरं हरिभिरश्वैर्युक्तस्त्वं जघन्वान् उ । हतवान् खलु । तदनन्तरमपो वृष्ट्युदकानि प्रावर्तयः इत्यध्याहारः । बाह्वोस्त्वदीययोर्हस्तयोरायसमयोमयं वज्रमयच्छथाः । आग्रहीः । आकारः समुच्चयार्थः । सूर्यं च दिवि द्युलोके दृशे द्रष्टुं सर्वेषामस्माकं दर्शनायाधारयः । स्थापयाम् चकृषे ॥**
+
+*he saṃbhṛtakrato saṃpāditakarman saṃpāditaprajña vendra manuṣe janāya gātuyan gātuṃ mārgam icchan vṛtraṃ lokānām āvarakam asuraṃ haribhir aśvair yuktas tvaṃ jaghanvān u | hatavān khalu | tadanantaram apo vṛṣṭyudakāni prāvartayaḥ ity adhyāhāraḥ | bāhvos tvadīyayor hastayor āyasam ayomayaṃ vajram ayacchathāḥ | āgrahīḥ | ākāraḥ samuccayārthaḥ | sūryaṃ ca divi dyuloke dṛśe draṣṭuṃ sarveṣām asmākaṃ darśanāyādhārayaḥ | sthāpayām cakṛṣe* [sic — print reads crowded, [?]] ||*
+
+*(Reading notes: the print's last clause is crowded; I read "*sthāpayāṃ cakṛṣe*" doubtfully, [?]; sense is clear from the Pratipadārtha. The grammatical tail — on* jaghanvān*,* gātuyan*,* ayacchathāḥ*,* bāhvoḥ *— is characterized: for* jaghanvān *the* kvasu *after* han *with the Vedic loss of the optional* iṭ *(*vibhāṣā gamahanavidaviśām*, Pā. 2-… as read [?]); for* gātuyan *the* kyac *by* chandasi parecchāyām*, with the lengthening forbidden by* na chandasy aputrasya*; for* bāhvoḥ *the vibhakti-accent by* udāttayaṇo hal pūrvāt*.)*
+
+**Translation of the bhāṣya:** "O *saṃbhṛtakrato*, O Indra of accomplished works or accomplished wisdom, *manuṣe*, for the man, for the people, *gātuyan*, wishing a way — you, yoked with *haribhiḥ*, the horses, *jaghanvān u*, killed Vṛtra, the Asura who encloses the worlds; and after that you set the waters, the rain-waters, flowing (this is understood). *Bāhvoḥ*, in your two hands you *ayacchathāḥ*, held, the iron thunderbolt; and *divi*, in the sky, you *adhārayaḥ*, set the sun, *dṛśe*, to be seen — so that we all may see."
+
+**Pratipadārtha** *(p. 240)* — "**saṃbhṛtakrato** — O Indra, who have accomplished sacred rites, or have accomplished wisdom; **mānuṣe** — for man; **gātuyan** — wishing to give (him) a way; **vṛtram** — Vṛtra, who covered the whole world; **haribhiḥ** — with horses; **jaghanvān u** — you have killed, haven't you? (and then); **apaḥ** — the waters (you released and made to flow); **bāhvoḥ** — in your two arms; **āyasam** — made of iron; **vajram** — the thunderbolt; **ayacchathāḥ** — you took up; and; **sūryam** — also the sun; **divi** — in the sky; **dṛśe** — to be visible (to us); **adhārayaḥ** — you set."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.7 complete; Rik 52.8 written from the Saṃhitā through the Pratipadārtha (printed p. 240, PDF 256). Its Bhāvārtha, English translation, Special Topics and Vyākaraṇa-prakriyā (pp. 241–, PDF 257–) and Rik 52.9 onward are NOT yet written.**
+
+**Next task:** continue at printed p. 241 (PDF 257) with "**Rik 52.8, continued**", then Rik 52.9 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra" as printed, final clause of the bhāṣya "sthāpayāṃ cakṛṣe" crowded [?]; Uṇādi and Pāṇini numerals as read [?].
