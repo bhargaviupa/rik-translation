@@ -3899,8 +3899,62 @@
 
 ---
 
+**Rik 52.1, grammar (end)** *(p. 216, PDF 232 — grammar page, noted briefly)*
+- **the accent of *īrate***: since the root ends in the *anudātta*-marked suffix, only the end-acute of the root is left. Because *yasya* was just before, connected with the *yat*-word, the *nighāta* is forbidden by *yadvṛttān nityam* (Pā. 8-1-66 as read [?]); though the sūtra names the first case (the *yat*-word immediately following), the Kannada notes that the rule *vyavahite 'pi kāryam iṣyate* applies, so the action holds here too, though something intervenes.
+- **atyam**: *atya* is a name for the horse; "*atyaḥ hayaḥ*" (Ni. numeral as read, [?]) is read as a synonym.
+- **vājam**: "*vājyate gamyate 'neneti vājaḥ*"; *vaja vraja gatau*; *ghañ* in the instrumental sense; *ata upadhāyāḥ* gives *vṛddhi* of the penultimate; by *ajiv rajyoś ca* (Pā. 7-3-60 as read [?]), since the word *ca* there brings in what is not stated, no *kutva* of *vaj* in *vājaḥ*, *vājyam*; *ñnityādir nityam*, initial-acute.
+- **havanasyadam**: *syandū prasravaṇe*; the sūtra *syado jave* (Pā. 6-4-28 as read [?]) has laid down the speed sense, so *ghañ* is laid down as an *nipāta* of this root, so the loss of the nasal and the non-*vṛddhi* are established; the Kannada discusses an objection (why not take *na dhātulopa ārdhadhātuke* for the *vṛddhi*-prohibition?) and answers that this sūtra forbids only *vṛddhi* that is *ik*-marked, whereas here the *vṛddhi* is by *ata upadhāyāḥ*, not *ik*-marked; hence the *nipāta* must be accepted; since *ghañ* is *ñit*, the last member is initial-acute; in the compound, *gatikārakopapadāt kṛt* gives the accent of the final member.
+- **vavṛtyām**: *vṛtu vartane*, *bhvādi*, *ātmanepada*; *vyatyayo bahulam* gives *parasmaipada* *liṅ*; *bahulaṃ chandasi* replaces *śap* by *ślu*; *ślau* gives reduplication; *halādiḥ śeṣaḥ*; *uratva*; *tasthasthamipāṃ tāmtamtāmaḥ* (Pā. 3-4-101) replaces *mip* by *am*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdātto ṅicca*; *vavṛtyām*; because the *yāsuṭ* is treated as *ṅit*, the penultimate takes no *guṇa* (*pugantalaghūpadhasya ca*); being a verb after a non-verb, *nighāta* by *tiṅ atiṅaḥ*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Rik 52.1 written through the Vyākaraṇa notes on *īrate* (printed p. 215, PDF 231). The remaining grammar notes of Rik 1 (*atyam, vājam, havanasyadam, vavṛtyām*, on p. 216, PDF 232) and Rik 52.2 onward are NOT yet written.**
+### Rik 52.2 (pp. 217–, PDF 233–)
 
-**Next task:** continue at printed p. 216 (PDF 232) with the last grammar notes of Rik 52.1 ("**Rik 52.1, grammar (end)**"), then Rik 52.2 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?].
+**Saṃhitā-pāṭha** *(p. 217; accents printed, not reproduced)*
+
+> **स पर्वतो न धरुणेष्वच्युतः सहस्रमूतिस्तविषीषु वावृधे ।**
+> **इन्द्रो यद्वृत्रमवधीन्नदीवृतमुब्जन्नर्णांसि जर्हृषाणो अन्धसा ॥ २ ॥**
+
+*sa parvato na dharuṇeṣv acyutaḥ sahasramūtis taviṣīṣu vāvṛdhe |*
+*indro yad vṛtram avadhīn nadīvṛtam ubjann arṇāṃsi jarhṛṣāṇo andhasā || 2 ||*
+
+**Pada-pāṭha** *(p. 217)*
+
+> सः । पर्वतः । न । धरुणेषु । अच्युतः । सहस्रमूतिः [सहस्रऽऊतिः] । तविषीषु । ववृधे ।
+> इन्द्रः । यत् । वृत्रम् । अवधीत् । नदीऽवृतम् । उब्जन् । अर्णांसि । जर्हृषाणः । अन्धसा ॥ २ ॥
+
+*saḥ | parvataḥ | na | dharuṇeṣu | acyutaḥ | sahasra-ūtiḥ | taviṣīṣu | vavṛdhe |*
+*indraḥ | yat | vṛtram | avadhīt | nadī-vṛtam | ubjan | arṇāṃsi | jarhṛṣāṇaḥ | andhasā || 2 ||*
+
+*(The Pada's* vavṛdhe *against the Saṃhitā's* vāvṛdhe*: the Saṃhitā lengthens the reduplicative vowel — see the bhāṣya's tail.)*
+
+**Sāyaṇa-bhāṣya** *(p. 217)*
+
+> **अन्धसा सोमलक्षणेनान्नेन जर्हृषाणोऽत्यर्थं हृष्यन्निन्द्रो यद्यदा वृत्रं त्रयाणां लोकानामावरीतारमसुरमवधीत् । हतवान् । कीदृशं वृत्रम् । नदीवृतम् । नदनान्नद्य आपः । तासामावरीतारम् । किं कुर्वन्निन्द्रः । अर्णांसि जलान्युब्जन् । अधःपातयन् । तदानीं स इन्द्रः पर्वतो न पर्वत इव शिलोच्चय इव धरुणेषु सर्वस्य धारकेषूदकेषु मध्येऽच्युतश्चलनराहित्येन स्थितः सहस्रमूतिर्बहुविधरक्षणवान् तविषीषु बलेषु वावृधे । प्रवृद्धो बभूव ॥**
+
+*andhasā somalakṣaṇenānnena jarhṛṣāṇo 'tyartham hṛṣyann indro yad yadā vṛtraṃ trayāṇāṃ lokānām āvarītāram asuram avadhīt | hatavān | kīdṛśaṃ vṛtram | nadīvṛtam | nadanān nadya āpaḥ | tāsām āvarītāram | kiṃ kurvann indraḥ | arṇāṃsi jalāny ubjan | adhaḥpātayan | tadānīṃ sa indraḥ parvato na parvata iva śilo­ccaya iva dharuṇeṣu sarvasya dhārakeṣūdakeṣu madhye 'cyutaś calanarāhityena sthitaḥ sahasramūtir bahuvidharakṣaṇavān taviṣīṣu baleṣu vāvṛdhe | pravṛddo babhūva ||*
+
+*(The tail of the bhāṣya, pp. 217–218, is characterized: on* dharuṇeṣu *(*dhāraya­teḥ… luk ca*, with the* unaprakṛti *suffix);* sahasramūtiḥ *(the* ūtayaḥ *"protections"; the lengthening; the* lug-bhāva *…);* vāvṛdhe *(the lengthened reduplication in the Saṃhitā by* abhyāsasyānyeṣām api dṛśyate*);* nadīvṛtam*;* ubjan *(*ubja ārjave*, a* śatṛ*);* arṇāṃsi *(the Uṇādi* asun *after* ṛ*, with* nuṭ *and the* nuḍāgama*);* jarhṛṣāṇaḥ *(*hṛṣa tuṣṭau*, reduplicated frequentative with* śānac*);* andhasā *(*adyata iti andhaḥ*, Uṇ. 4-… [?] *asun*).)*
+
+**Translation of the bhāṣya:** "*Andhasā*, with the food in the form of soma, *jarhṛṣāṇaḥ*, exceedingly delighted, Indra, *yat*, when he killed Vṛtra, the Asura who covers the three worlds — what sort of Vṛtra? *nadīvṛtam*: *nadya* are the 'sounding' waters; he who covers them. What was Indra doing? *Arṇāṃsi ubjan*: pouring the waters downward. Then that Indra, *parvato na*, like a mountain, like a mass of rock, *dharuṇeṣu*, in the midst of the waters that support all, *acyutaḥ*, stood unmoving, without any wavering, *sahasramūtiḥ*, having protection of many kinds, *taviṣīṣu*, in strengths, *vāvṛdhe*: grew exceedingly."
+
+**Pratipadārtha** *(p. 218)* — "**andhasā** — with the food in the form of soma; **jarhṛṣāṇaḥ** — taking delight; **indraḥ** — Indra; **arṇāṃsi** — the waters; **ubjan** — pouring downward; **nadīvṛtam** — obstructing the waters; **vṛtram** — Vṛtra (who covered the three worlds); **yat** — when; **avadhīt** — he killed; **saḥ** — that Indra; **parvato na** — like a mountain (a mass of rocks); **dharuṇeṣu** — in the midst of the waters, which support all; **acyutaḥ** — without movement (firm), standing; **sahasramūtiḥ** — with thousands of means of protection; **taviṣīṣu** — in strengths; **vāvṛdhe** — grew (became exceedingly strong)."
+
+**Bhāvārtha** *(p. 218)* — "Indra, taking delight in the sacrificial food, when he had killed Vṛtra, who obstructs the waters, pouring the waters downward, stood unmoving like a mountain amid the waters that support all, and grew exceedingly powerful, with thousands of means of protection for his devotees."
+
+**English Translation (the source's own, p. 218)** — "When Indra, who delights in the sacrificial food had slain the stream-obstructing Vritra, and was pouring down the waters, he stood firm amid the torrents like mountain, and endowed with a thousand means of protecting, increased in vigour."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 218**
+- **parvato na** — "The sense 'like a mountain' is obtained from the co-occurrence of the *na* of comparison."
+- **dharuṇeṣu** — "*sarvasya dhārakeṣūdakeṣu madhye*: in the midst of the waters, supporters of all. It is described that Indra, at the time of confronting the Asura Vṛtra, stood firm, unafraid, in the midst of the water, like a mountain."
+- **sahasramūtiḥ** — "By the derivation '*sahasram ūtayaḥ yasya saḥ*', 'one who has a thousand protections' — one who has protection of many kinds."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.2 written through the Special Topics of 52.2 (printed p. 218, PDF 234). The Vyākaraṇa-prakriyā of Rik 2 (begins p. 219, PDF 235) and Rik 52.3 onward are NOT yet written.**
+
+**Next task:** continue at printed p. 219 (PDF 235) with "**Rik 52.2, Vyākaraṇa-prakriyā**" (grammar page, note briefly), then Rik 52.3 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?]; the Kannada note on *tvam* in 52.1 reads as if the head-word were *tyam* [?].
