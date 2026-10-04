@@ -1294,10 +1294,148 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 34.4 — Vyākaraṇa-prakriyā, continued and concluded (p. 92, PDF 106; grammar page, noted briefly)
+
+- **suprāvye**: *su* and *pra*, two preverbs, before the root *av rakṣaṇe*; *ṇyat* in the sense of *bhāva* or *karman* after a root ending in *ṛ*-vowel or a consonant, by *ṛhaloṇ­yat* — ऋहलोर्ण्यत् — Pā. 3-1-124, in the object sense here: *su + pra + av + ya*. *Ata upadhāyāḥ* — अत उपधायाः — Pā. 7-2-116: before an *ñit* or *ṇit* suffix the penultimate short *a* takes *vṛddhi*; but *vṛddhi* here is blocked since *vṛddhir ād aic* — वृद्धिरादैच् — Pā. 1-1-1 is a rule with a technical term as its antecedent, and "*saṃjñāpūrvako vidhir anityaḥ*" (Paribhāṣā 93 [?]) applies; when the word is analysed it must be *avye*, not *āvye*. Lengthening of the vowel (*savarṇadīrgha*); the seventh-case singular; *titsvaritam* — तित्स्वरितम् — Pā. 6-1-185: the *ya* of *suprāvya* is *svarita*.
+- **śikṣatam**: root *śikṣa vidyopādāne*, *loṭ*, second-person dual *thas*, replaced by *tam* by *loṭo laṅvat* [read *tasthasthamipāṃ…*].
+- **nāndyam**: root *ṭu nadi samṛddhau*, *idit*, so the augment *num*; since the root ends in a consonant, *ṇyat* in the verbal-noun sense; *yat* is *svarita*; the lengthening of *n* is Vedic.
+- **pṛkṣaḥ**: root *pṛcī samparke*; *asun* by *sarvadhātubhyo 'sun* — [Uṇ. 4-[?]]; the augment *suṭ* is Vedic; *pṛc + sas*; *c* → *k* by *co kuḥ* — चोः कुः — Pā. 8-2-30; *s* → *ṣ* by *ādeśapratyayayoḥ*; *pṛkṣas*; elision of the accusative singular, *ru*, *visarga*.
+- **asme**: *asmad* + seventh-case plural *sup*; *supāṃ sulug…* — Pā. 7-1-39 — gives *śe* in place of *sup*; *asmad + e*; by *śeṣe lopaḥ* — Pā. 7-2-90 [as printed 7-2-9[?]] the *ṭi* is lost; the *e* is acute by the acute-restoring accent; in the alternative of final-letter loss, *asma + e*, Vedic *pararūpa* and the single-substitute accent.
+- **akṣarā iva**: root *aśū vyāptau*; *aśnuvanti* = "they pervade [all]"; *akṣarāṇi* means water; the Uṇādi suffix *kṣara* after *aś*; *aś + śara*; *ś* → *ṣ* by *vraścabhrasja…ṣaḥ* — Pā. 8-2-36; *ṣ* → *k* by *ṣaḍhoḥ kassi*; *ṣatva*: *akṣara*; *jas*, replaced by *śi* by *jaśśasoḥ śiḥ* — Pā. 7-1-20; loss of *śi* by *śeś chandasi bahulam* — Pā. 6-1-70; the augment *num* by *napuṃsakasya jhalacaḥ* — Pā. 7-1-72; lengthening by *sarvanāmasthāne cāsambuddhau* — Pā. 6-4-8; loss of the *n*; compounded with *iva* as a nitya-samāsa. Rik 4 ends here (*|| 4 ||*).
+
+### Rik 34.5 (pp. 93–96, PDF 107–110)
+
+**Saṃhitā-pāṭha** *(p. 93; accents not reproduced)*
+
+> **त्रिर्नो रयिं वहतमश्विना युवं त्रिर्देवताता त्रिरुतावतं धियः ।**
+> **त्रिः सौभगत्वं त्रिरुत श्रवांसि नस्त्रिष्ठं वां सूरे दुहिता रुहद्रथम् ॥ ५ ॥**
+
+*trir no rayiṃ vahatam aśvinā yuvaṃ trir devatātā trir utāvataṃ dhiyaḥ |*
+*triḥ saubhagatvaṃ trir uta śravāṃsi nas triṣṭhaṃ vāṃ sūre duhitā ruhad ratham || 5 ||*
+
+**Pada-pāṭha** *(p. 93)*
+
+> त्रिः । नः । रयिम् । वहतम् । अश्विना । युवम् । त्रिः । देवऽताता । त्रिः । उत । अवतम् । धियः ॥
+> त्रिः । सौभगऽत्वम् । त्रिः । उत । श्रवांसि । नः । त्रिऽस्थम् । वाम् । सूरे । दुहिता । आ । रुहत् । रथम् ॥ ५ ॥
+
+*triḥ | naḥ | rayim | vahatam | aśvinā | yuvam | triḥ | devatātā | triḥ | uta | avatam | dhiyaḥ ||*
+*triḥ | saubhaga-tvam | triḥ | uta | śravāṃsi | naḥ | tri-stham | vām | sūre | duhitā | ā | ruhat | ratham || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 93–94; the first half in full, the grammatical tail characterized)*
+
+> हे अश्विना युवं नोऽस्मभ्यं [read thus; the print is garbled: "नोऽस्मान्न ... यिं"] रयिं धनं त्रिर्वहतम् । त्रिवारं प्रापयतम् । देवताता देवताती देवैर्युक्ते कर्मणि त्रिस्त्रिवारमागच्छतमिति शेषः । उताऽपि च धियोऽस्मद्बुद्धीस्त्रिस्त्रिवारं रक्षतम् । सौभगत्वं सौभाग्यं त्रिर्वहतमिति शेषः । उताऽपि च श्रवांसि अन्नानि नोऽस्मभ्यं त्रिर्वहतम् । वां युवयोः सम्बन्धिनं त्रिष्ठं चक्रत्रयोपस्थितं रथं सूरे सूर्यस्य दुहिता पुत्री । दुहिता दुर्हिता दूरे हिता दोग्धेर्वा । नि. ३-४ [?] । इति यास्कः । सारूढवती ॥
+
+*he aśvinā yuvaṃ no 'smabhyaṃ [the print is garbled here] rayiṃ dhanaṃ trir vahatam | trivāraṃ prāpayatam | devatātā devatātau devair yukte karmaṇi tris trivāram āgacchatam iti śeṣaḥ | utāpi ca dhiyo 'smadbuddhīs tris trivāraṃ rakṣatam | saubhagatvaṃ saubhāgyaṃ trir vahatam iti śeṣaḥ | utāpi ca śravāṃsi annāni no 'smabhyaṃ trir vahatam | vāṃ yuvayoḥ sambandhinaṃ triṣṭhaṃ cakratrayopasthitaṃ rathaṃ sūre sūryasya duhitā putrī | duhitā durhitā dūre hitā dogdher vā | ni. 3-4 [?] | iti yāskaḥ | sārūḍhavatī ||*
+
+**Translation:** "O Aśvins, *triḥ vahatam* — bring three times — *rayim*, wealth, to us. *Devatātā* — at the rite that is joined with gods — come thrice (so the sentence is to be completed). *Uta* — and — *dhiyaḥ*, our thoughts, *avatam* — protect, thrice. *Saubhagatvam* — good fortune — [bring] thrice, as is to be supplied. And *śravāṃsi*, food [for us], bring thrice. *Vām* — your *triṣṭham* — [the chariot] standing on three wheels — *ratham*, the chariot, *sūre duhitā* — the Sun's daughter, his *duhitā*: '*duhitā* is *durhitā* (ill-placed [= placed far away]), or *dūre hitā* (placed far), or from *dogdhi* (milks)' (Ni. 3-4 [?]), so says Yāska — *ā ruhat* — has mounted."
+
+**Grammar within the bhāṣya** *(p. 94, characterized)*: *devatātā* (*devatāti* is the suffix *tātil* added in its own sense, so the word denotes a sacrifice connected with the gods; *devatātā mukhaḥ* is read among the names of the sacrifice in the Nirukta; the accent of the syllable before *lit*-suffixes is acute; *ḍā* in place of the seventh-case ending by *supāṃ sulug…*); *triṣṭham* (*triṣu cakreṣu tiṣṭhatīti triṣṭhaḥ*; the suffix *ka* after *sthā* when a *sup*-ending word is the *upapada*, by *supi sthaḥ* — सुपि स्थः — Pā. 3-2-4; *s* → *ṣ* by the rule beginning *ambāmbagobhūmi…*); *sūre* (root *ṣū preraṇe*; the Uṇādi suffix *kran* after *su*, *sū*, *dhā*, *gṛdhi* [Uṇ. 2-[?]]; the initial acute of a *nit* suffix; the seventh case in place of the first by *vyatyaya*); *ā ruhat* (root *ruha*; *aṅ* in place of *cli* in the Veda by *kṛmṛdṛruhibhyaś chandasi* — कृमृदृरुहिभ्यश्छन्दसि — Pā. 3-1-59).
+
+**Pratipadārtha** *(p. 94)* — "**aśvinā** — O Aśvin deities; **yuvam** — you; **naḥ** — to us; **rayim** — wealth; **triḥ vahatam** — bring thrice; **devatātā** — at our rite meant for the gods; **triḥ** [**āgacchatam**] — come three times; **uta** — and; **dhiyaḥ** — our thoughts; **triḥ** [**rakṣatam**] — protect thrice; **saubhagatvam** — prosperity; **triḥ** [**vahatam**] — bring thrice; **uta** — and; **śravāṃsi** — food; **naḥ** — to us; **triḥ** [**vahatam**] — bring thrice; **vām** — your; **triṣṭham** — [which stands] on three wheels; **ratham** — chariot; **sūre** — of the Sun; **duhitā** — daughter; **ā ruhat** — mounted."
+
+**Bhāvārtha** *(p. 94)* — "O Aśvin deities, the daughter of the Sun has mounted your chariot, which rests on three wheels. [Pleased with that,] grant us wealth and prosperity thrice; come thrice to the rites we perform in honour of the gods; protect our thoughts thrice. Give us food thrice."
+
+**English Translation (the source's own, p. 94)** — "O Aswins, thrice bestow upon us riches; thrice approach our divine rite ; thrice protect our intellects; thrice grant us prosperity and thrice food ; the daughter of the Sun has ascended your three-wheeled car."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 94–95**
+- **triṣṭham** = *triṣu cakreṣu tiṣṭhatīti triṣṭhaḥ*: "a chariot with three wheels."
+- **sūre duhitā** = *sūryasya putrī*: "the daughter of the Sun: the goddess Sūryā, or Sāvitrī. On this Yāska says:"
+
+> दुहिता दुर्हिता दूरे हिता दोग्धेर्वा ॥ (नि. ३-४ [?])
+
+*duhitā durhitā dūre hitā dogdher vā || (ni. 3-4 [?])*
+
+"That is: *durhitā* — she who is ill-placed [= made to live elsewhere] where she is given; for she, in the very place where she is given [in marriage], is *durhitā*; or *dūre satī sā pituḥ hitā pathyā bhavatīti duhitety ucyate* — 'being far off she is [still] a benefit to her father, so she is called *duhitā*'; or *dogdher vā* — 'from the root *duh*, since she is always milking wealth from her father by requests'. *Duhitā* means daughter. Since a girl dwelling in her husband's house is not well placed among strangers, she is called *durhitā* or *duhitā*; or, since she lives in the husband's house, far from her father's home, the daughter is named *dūre hitā*, 'placed afar'; or, since she, entreating her father (many times pressing him), takes wealth and the like for her husband, the daughter is named *duhitā*: so Yāska has explained the word *duhitā* in his Nirukta."
+- **sūre duhitā ruhad ratham**: "On the thought that the Sun's daughter mounted the chariot of the Aśvins, see what we have written in the Special Topics of the second ṛk of this sūkta [*sic*: the print says 'the 2nd'; the relevant matter is in the notes on Rik 2, pp. 83–84]. And:"
+
+> युवो रथं दुहिता सूर्यस्य सह श्रिया नासत्यावृणीत ॥ (ऋ. सं. १-११६-१७ [?])
+> आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ॥ (ऋ. सं. १-११९-५ [?])
+> आ यद्वां सूर्या रथं तिष्ठद्रघुष्यदं सदा ॥ (ऋ. सं. ५-७३-५ [?])
+
+*yuvo rathaṃ duhitā sūryasya saha śriyā nāsatyāvṛṇīta || (ṛ. saṃ. 1-116-17 [?])*
+*ā vāṃ rathaṃ yuvatis tiṣṭhad atra juṣṭvī narā duhitā sūryasya || (ṛ. saṃ. 1-119-5 [?])*
+*ā yad vāṃ sūryā rathaṃ tiṣṭhad raghuṣyadaṃ sadā || (ṛ. saṃ. 5-73-5 [?])*
+
+"These ṛks inform us that the Sun's daughter was seated in the chariot of the Aśvins; for in some places it is said that the Aśvins married the Sun's daughter. Therefore, descriptions are suggested here and there that the Aśvins seated the Sun's daughter, who was dear to them, in their chariot and travelled toward their home." *(The source leaves these ṛks untranslated. My glosses, **mine and tentative**: 1. "O Nāsatyas, the Sun's daughter chose your chariot, with [her] splendour"; 2. "The maiden, the Sun's daughter, rejoicing, mounted your chariot here, O heroes"; 3. "When Sūryā mounted your swift-running chariot always". The reference numerals are read from small Kannada digits and are [?].)*
+
+**Vyākaraṇa-prakriyā** *(pp. 95–96, PDF 109–110 — grammar pages, noted briefly)*
+*Note on page numbering:* the leaf at **PDF 110** carries a printed **95** in its header — the same number as the preceding leaf (PDF 109) — although its text continues without repeat; so it is evidently a misprint for 96. The offset (printed = PDF − 14) is therefore kept, and the printed number "95" on PDF 110 is read as 96.
+- **devatātā** (p. 95): *sarvadevāt tātil* — सर्वदेवात्तातिल् — Pā. 4-4-142 [as printed; I recall this as 4-4-142]: the suffix *tātil* is added, in its own sense, after the words *sarva* and *deva*; so *deva + tāti* — *devatāti* means "the divine [thing]"; the page notes that here the sacrifice with divinities is denoted by *lakṣaṇā*; Yāska reads this word among the names of sacrifice in the Nirukta (*devatātā makhaḥ*, Ni. 3-[?]-[?] [?]). *Lit* (*litī* — लिति — Pā. 6-1-193): the vowel before a suffix with *l* as the marker is acute; hence the *va* is acute. After *devatāti*, the *ṅi*-ending, replaced by *ḍā* by *supāṃ sulug…*; the *ḍ* of *ḍā* [as the page says, on the strength of the marker] causes loss of *ṭi*.
+- **triṣṭham** (p. 96): *triṣu tiṣṭhati iti triṣṭhaḥ* — "that which stands on three"; root *ṣṭhā gatinivṛttau*, the *ṣ* → *s*; the *ṣ* of *ṣṭhā* is dropped by *nimittāpāye naimittikasyāpy apāyaḥ*; *sthā*, *supi sthaḥ* — सुपि स्थः — Pā. 3-2-4 [as printed 3-2-[?]], which the print divides as *supi — sthaḥ*. The print then discusses the paribhāṣā *kṛtrimākṛtrimayoḥ kṛtrimasyaivagrahaṇam* — कृत्रिमाकृत्रिमयोः कृत्रिमस्यैवग्रहणम् — ("where both the technical and the non-technical are possible, only the technical is taken"): the word *sup* as seventh-case plural; if *sup* is formed as a *pratyāhāra* — the first *su* of the case-endings together with the *p* of the last, by *ādir antyena sahetā* — आदिरन्त्येन सहेता — Pā. 1-1-71 — it indicates all the twenty-one case-endings, a convention made by the sages of Pāṇini's school; so by the paribhāṣā just mentioned *sup* here covers all twenty-one endings. *Dhātoḥ* — धातोः — Pā. 3-1-91 is the governing heading; *kartari kṛt* — कर्तरि कृत् — Pā. 3-4-67 makes it agentive; so when a *sup*-ending word is the *upapada*, the suffix *ka* comes after roots in the agent sense: after the *sthā* with the object word *tri* as *upapada* in the verbal-noun [read: agent] sense; *kṛdanta* status, *prātipadika* status, loss of the *sup* by *luk*; *tri + sthā + a*; loss of *ā* by *ātolopa iṭi ca* — Pā. 6-4-64; then *ambāmbagobhūmisavyāpadvitriku­śekuśaṅkvaṅgumañjipuñjiparame barhirdivyagnibhyaḥ sthaḥ* — अम्बाम्बगोभूमिसव्यापद्वित्रिकुशेकुशङ्क्वङ्गुमञ्जिपुञ्जिपरमे बर्हिर्दिव्यग्निभ्यः स्थः — Pā. 8-3-97: after these eighteen words — *amba*, *āmba*, *go*, *bhūmi*, *savya*, *apa*, *dvi*, *tri*, *kuśe*, *ku*, *śaṅku*, *aṅgu*, *mañji*, *puñji*, *parame*, *barhis*, *divi*, *agni* — the *s* of a *sthā* ending in a *ka*-suffix becomes *ṣ*; *ṣṭunā ṣṭuḥ* — ष्टुना ष्टुः — Pā. 8-4-41: the second letter of the *t*-class, *th*, becomes *ṭh*: *triṣṭha*; second-case singular.
+- **sūre** (p. 96): root *ṣū preraṇe* ("to impel"); *ṣ* → *s* by *dhātvādeḥ ṣaḥ saḥ* — Pā. 6-1-64; the Uṇādi sūtra *susūdhāgṛdhibhyaḥ kran* — सुसूधागृधिभ्यः क्रन् — [Uṇ. 2-[?]] — gives *kran* after the roots *ṣuñ abhiṣave*, *ṣū preraṇe*, *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *gṛdhu abhikāṅkṣāyām*; so *kran* after *sū*: *sū + ra*; the suffix is *kit* [read: *nit*? the print says *kittvāt*], so there is no *guṇa*; the *nit* accent makes the first syllable acute; the seventh case is used for the first by Vedic *vyatyaya*.
+
+### Rik 34.5 — Vyākaraṇa-prakriyā, concluded (p. 97, PDF 111; grammar page, noted briefly)
+
+- **ā ruhat**: root *ruha bījajanmani prādurbhāve ca*; *luṅ*, the augment *aṭ*, *cli*; *cli luṅi* — च्लि लुङि — Pā. 3-1-43; by *kṛmṛdṛruhibhyaś chandasi* — कृमृदृरुहिभ्यश्छन्दसि — Pā. 3-1-59 — *cli* after *ḍukṛñ karaṇe*, *mṛṅ prāṇatyāge*, *dṛ vidāraṇe*, *ruha bījajanmādau* optionally becomes *aṅ* in the Veda: *cli* → *aṅ*; *ā* + *ruha*; *savarṇadīrgha*; *āruhat* — "in the world it would be *ārukṣat*". Rik 5 ends here (*|| 5 ||*).
+
+### Rik 34.6 (pp. 97–100, PDF 111–114)
+
+**Saṃhitā-pāṭha** *(p. 97; accents not reproduced)*
+
+> **त्रिर्नो अश्विना दिव्यानि भेषजा त्रिः पार्थिवानि त्रिरु दत्तमद्भ्यः ।**
+> **ओमानं शंयोर्ममकाय सूनवे त्रिधातु शर्म वहतं शुभस्पती ॥ ६ ॥**
+
+*trir no aśvinā divyāni bheṣajā triḥ pārthivāni trir u dattam adbhyaḥ |*
+*omānaṃ śaṃyor mamakāya sūnave tridhātu śarma vahataṃ śubhas patī || 6 ||*
+
+**Pada-pāṭha** *(p. 97)*
+
+> त्रिः । नः । अश्विना । दिव्यानि । भेषजा । त्रिः । पार्थिवानि ॥
+> त्रिः । ऊं इति । दत्तम् । अत्ऽभ्यः ॥
+> ओमानम् । शंऽयोः । ममकाय । सूनवे । त्रिऽधातु । शर्म । वहतम् । शुभः । पती इति ॥ ६ ॥
+
+*triḥ | naḥ | aśvinā | divyāni | bheṣajā | triḥ | pārthivāni ||*
+*triḥ | ūṃ iti | dattam | at-bhyaḥ ||*
+*omānam | śaṃ-yoḥ | mamakāya | sūnave | tri-dhātu | śarma | vahatam | śubhaḥ | patī iti || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 98; the first half in full, the grammatical tail characterized)*
+
+> हे अश्विना नोऽस्मभ्यं दिव्यानि द्युलोकवर्तीनि भेषजा भेषजान्योषधानि त्रिर्दत्तम् । तथा पार्थिवानि पृथिव्यामुत्पन्नान्योषधानि त्रिर्दत्तम् । अद्भ्य उ अन्तरिक्षसकाशादुत्पन्नान्योषधानि त्रिर्दत्तम् । आप इत्यन्तरिक्षनाम आपः पृथिवी भूरिति तन्नामसु पाठात् । शंयोरेतन्नामकस्य बृहस्पतिपुत्रस्य । ते शंयुं बार्हस्पत्यमब्रुवन् । तै. सं. २-२-१०-१ [?] । इति ब्राह्मणान्तरात् । तस्य सम्बन्धिनमोमानं सुखविशेषं ममकाय सूनवे मदीयाय पुत्राय दत्तम् । हे शुभस्पती शोभनस्यौषधजातस्य पालकौ युवां त्रिधातु वातपित्तश्लेष्मधातुत्रयशमनविषयं सुखं वहतं प्रापयतम् ॥
+
+*he aśvinā no 'smabhyaṃ divyāni dyulokavartīni bheṣajā bheṣajāny oṣadhāni trir dattam | tathā pārthivāni pṛthivyām utpannāny oṣadhāni trir dattam | adbhya u antarikṣasakāśād utpannāny oṣadhāni trir dattam | āpa ity antarikṣanāma āpaḥ pṛthivī bhūr iti tannāmasu pāṭhāt | śaṃyor etannāmakasya bṛhaspatiputrasya | te śaṃyuṃ bārhaspatyam abruvan | tai. saṃ. 2-2-10-1 [?] | iti brāhmaṇāntarāt | tasya sambandhinam omānaṃ sukhaviśeṣaṃ mamakāya sūnave madīyāya putrāya dattam | he śubhaspatī śobhanasyauṣadhajātasya pālakau yuvāṃ tridhātu vātapittaśleṣmadhātutrayaśamanaviṣayaṃ sukhaṃ vahataṃ prāpayatam ||*
+
+**Translation:** "O Aśvins, give us three times *divyāni bheṣajā*, the medicaments (herbs) that belong to the heavenly world; and likewise *pārthivāni*, the herbs born on earth, thrice; and *adbhyaḥ u*, the herbs born from the mid-region, thrice (*āpaḥ* being a name of the mid-region, since it is read in the lists '*āpaḥ*, *pṛthivī*, *bhūḥ*'). [Give] *śaṃyoḥ omānam*, the particular happiness (*omāna*) belonging to Śaṃyu, the son of Bṛhaspati — 'they said to Śaṃyu Bārhaspatya' (Tai. Saṃ. 2-2-10-1 [?]) from another Brāhmaṇa — *mamakāya sūnave*, to my son. O *śubhaspatī*, protectors of the herbs of good kind: you — *tridhātu śarma vahatam* — bring happiness related to the pacifying of the three constituents, wind, bile and phlegm."
+
+**Grammar within the bhāṣya** *(p. 98, characterized; the print is crowded and I did not chase the small numerals)*: *divyāni* (*daṇḍādibhyo yaḥ* — दण्डादिभ्यो यः — Pā. 5-1-66, in the *arhati* sense: "worthy of the heavens"); *bheṣajā* (root *bhiṣaj cikitsāyām*, *ghañ* — *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* —; *śaṃyoḥ* from *śasu upaśame* with *kvip* [*śam*] and *yu miśraṇe* with *vic*; the accent of the later member of a *kṛt* compound); *tridhātu* (the Uṇādi sūtra *sitanigamimasisacyavidhāñkruśibhyas tun* [Uṇ. 1-[?]]); *adbhyaḥ* (the ending is acute by *ūḍidam…*); *omānam* (the Uṇādi-type suffix *manin* after *av* — *anyebhyo 'pi dṛśyante* — with the replacement of *av* by *ū* by the rule *jvaratvara…*; *guṇa* by the *sārvadhātuka*–*ārdhadhātuka* rule); *śubhaspatī* (*śubh dīptau*, *kvip* by the *sampadādi* group; *ṣaṣṭhyāḥ patiputra…* — the Saṃhitā's *visarjanīya* becomes *s*; because of the vocative's being *parāṅgavat* [?] the whole vocative group is unaccented).
+
+**Pratipadārtha** *(p. 98)* — "**aśvinā** — O Aśvin deities; **naḥ** — to us; **divyāni** — born in the world of the gods; **bheṣajā** — medicines (herbs); **triḥ** — three times; **pārthivāni** — born on earth [herbs]; **triḥ** — three times; **adbhyaḥ u** — born in the mid-region [herbs]; **triḥ** — three times; **dattam** — give; **śaṃyoḥ** — [belonging to] Śaṃyu (the son of Bṛhaspati); **omānam** — prosperity (happiness); **mamakāya** — my; **sūnave** — to [my] son; **dattam** — give; **śubhaspatī** — O Aśvin deities, protectors of auspicious herbs; **tridhātu** — related to the three constituents — wind, bile and phlegm; **śarma** — happiness; **vahatam** — give."
+
+**Bhāvārtha** *(pp. 98–99)* — "O Aśvin deities, doers of good, protectors of herbs, grant us thrice the herbs born in the world of the gods, on earth and in the mid-region. Be gracious to my son with the very happiness of Śaṃyu, the son of Bṛhaspati. Keep our three bodily constituents — wind, bile and phlegm — in order, and grant us the bodily well-being that comes of that."
+
+**English Translation (the source's own, p. 99)** — "Aswins, thrice grant us the medicaments of heaven and those of earth and those of sky; give my son the prosperity of Samyu ; lords of bliss, preserve the well-being of the three humours of the body."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 99–100**
+- **bheṣajā** = *oṣadhāni*: "medicines, herbs. Here it is prayed that these herbs be brought and given from all three worlds, heaven, mid-region and earth. The word *triḥ* in this ṛk is used not so much to indicate 'three times' as to lay stress on the matter (*for the sake of emphasis* [the print's English])."
+- **adbhyaḥ** = *meghodakapradeśebhyaḥ āntarikṣāt*: "from the mid-region; since *āpaḥ* is read among the sixteen names of the mid-region beginning *ambaram*, *viyat* (Ni. 1-3 [?]), *adbhyaḥ* means 'from the mid-region'."
+- **omānam** = *ava rakṣaṇe*: "protection. In explaining the word *omāsaḥ* in the ṛk 1-3-7 [?], Yāska gives the sense *avitāraḥ*, 'protectors' (Ni. 10-[?])."
+- **śaṃyoḥ** — "the son of Bṛhaspati. This Śaṃyu Bārhaspatya is the ṛṣi of the 6th maṇḍala, sūktas 44–48 [as read: four numerals, uncertain] [?]. The ṛṣi of this sūkta, Hiraṇyastūpa, prays that the protection with which the Aśvins protected him, whom they desired, be given to my son."
+- **tridhātu**: "On this word the bhāṣyakāra says, in this ṛk, *vātapittaśleṣmadhātutrayaśamanaviṣayaṃ* — 'having as its object the quieting of the three humours of wind, bile and phlegm' — that is, as stated in medical science: to quiet the three kinds of bodily constituents, wind, bile and phlegm, and so the happiness that comes of it. [According to medical teaching] if these three constituents are balanced in the body, there is health; if the balance is upset, with increase or decrease, health suffers. Hence the bhāṣyakāra says here the sense of happiness connected with bodily health. Besides this, in the ṛk:"
+
+> य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥ (ऋ. सं. १-१५४-४ [?])
+
+*ya u tridhātu pṛthivīm uta dyām eko dādhāra bhuvanāni viśvā || (ṛ. saṃ. 1-154-4 [?])*
+
+"for the word *tridhātu* [Sāyaṇa] explains *pṛthivyapteja-ūpatrayaviśiṣṭam* [as printed; I read *pṛthivyaptejorūpatrayaviśiṣṭam*]: 'distinguished by the three forms of earth, water and fire'; and in the ṛk:"
+
+> येनोपयाथः सुकृतो दुरोणं त्रिधातुना पतथो विर्न पर्णैः ॥ (ऋ. सं. १-१५७-१ [?])
+
+*yenopayāthaḥ sukṛto duroṇaṃ tridhātunā patatho vir na parṇaiḥ || (ṛ. saṃ. 1-157-1 [?])*
+
+"the word *tridhātunā* is explained as *triprakārasthānopetena suvarṇarajatatāmradhātutrayopetena vā* — 'furnished with three kinds of places, or furnished with the three metals gold, silver and copper'. In the same way, the word *tridhātu* has been given various senses in various ṛks to suit the context; so the general sense of *tridhātu* may be said to be 'of three kinds'." *(The source leaves the two ṛks untranslated; my glosses, **mine and tentative**: 1.154.4 "he who, as the one [god] with the threefold [support], upheld earth and heaven and all the worlds"; 1.157.1 "with which you go to the house of the pious, flying like a bird with wings, with the three-fold [chariot]". Both references, read from small Kannada digits, are [?], and my reading of the first ṛk's first word in the print is uncertain.)*
+- **śubhaspatī** = *śobhanasyauṣadhajātasya pālakau*: "protectors of the best medicines, lords, etc. *Śubha* means causing beauty, the best of deeds; *pati* means protectors; the general sense of these words is here rendered by the bhāṣyakāra, to suit the context, as 'protectors of the best medicines'."
+
+**Vyākaraṇa-prakriyā** *(p. 100, PDF 114 — grammar page, noted briefly; begun, to continue on p. 101)*
+- **divyāni**: *daṇḍādibhyo yaḥ* — दण्डादिभ्यो यः — Pā. 5-1-66: after a word in the second-case form that belongs to the *daṇḍādi* group, the suffix *ya* comes in the sense "who is worthy of [this]"; so, when "worthy of heaven" (*divam arhati*) is intended, *ya*.
+- **bheṣajā**: the root *bhiṣaj cikitsāyām* is not found in the Dhātupāṭha now available; by *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* — पुंसि संज्ञायां घः प्रायेण — Pā. 3-3-118 the suffix *gha* comes, mostly, after roots in the instrument or locus sense when a masculine name results — so *gha*; the *gh* is given the name *it* by *lasakvataddhite* — लशक्वतद्धिते — Pā. 1-3-8 and dropped: *bhiṣaj + a*; the suffix is *ghit*; *cajoḥ kughiṇyatoḥ* — चजोः कुघिण्ण्यतोः — Pā. 7-3-52: before a *ghit* suffix or *ṇyat*, *c* and *j* change to the *k*-class: *j* → *g*, and the *i* of *bhi* becomes *e* [the print remarks that this is laborious]; hence if *gha* is accepted, the word must be masculine, whereas here the word … *(the page breaks off mid-sentence; it continues on p. 101)*.
+
 ---
 
-**Progress note — Volume 4, Sūkta 34 in progress: printed p. 91 (PDF 105) reached; Riks 34.1–34.3 complete; Rik 34.4 written through the Special Topics and the start of its grammar page (*vartiḥ*).**
+---
 
-**Next task:** continue at printed p. 92 (PDF 106) with the rest of Rik 4's grammar, then Rik 5. Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 106 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+**Progress note — Volume 4, Sūkta 34 in progress: printed p. 100 (PDF 114) reached; Riks 34.1–34.5 complete; Rik 34.6 written through the Special Topics and the start of its grammar page (*divyāni*, *bheṣajā*).**
 
-**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76, 83 and 91 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ. and Ai. Brā. numerals are [?]; *yotrāyām* (Rik 2) and *upadeśvanyam* (Rik 4) in the bhāṣya are doubtful.
+**Next task:** continue at printed p. 101 (PDF 115) with the rest of Rik 6's grammar, then Rik 7. Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 115 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+
+**Page numbering:** the leaf at PDF 110 prints "95" in its header, repeating the number of PDF 109 though its text is new; read as 96. The offset printed = PDF − 14 is kept (PDF 111 = 97, as printed).
+
+**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76, 83, 91, 95 and 99–100 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ., Ai. Brā. and Tai. Saṃ. numerals are [?]; *yotrāyām* (Rik 2), *upadeśvanyam* (Rik 4) and the garbled first words of the Rik 5 bhāṣya are doubtful.
