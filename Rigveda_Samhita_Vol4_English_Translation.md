@@ -5599,10 +5599,142 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Rik 39.4, continued** *(from p. 349 foot; the Saṃhitā is above)*
+
+**Pada-pāṭha** *(p. 350)*
+
+> नहि । वः । शत्रुः । विविदे । अधि । द्यवि । न । भूम्यां । रिशादसः ।
+> युष्माकम् । अस्तु । तविषी । तना । युजा । रुद्रासः । नु ।
+> चित् । आऽधृषे ॥ ४ ॥
+
+*nahi | vaḥ | śatruḥ | vivide | adhi | dyavi | na | bhūmyām | riśādasaḥ |*
+*yuṣmākam | astu | taviṣī | tanā | yujā | rudrāsaḥ | nu |*
+*cit | ā-dhṛṣe || 4 ||*
+
+*(The Saṃhitā prints* nū cid*, the Pada* nu cit*; the lengthening is dealt with in the grammar.)*
+
+**Sāyaṇa-bhāṣya** *(p. 350)*
+
+> **हे रिशादसः शत्रुहिंसका मरुतोऽधिद्यवि द्युलोकस्योपरि वो युष्माकं शत्रुर्नहि विविदे । न च बभूव । तथा भूम्यामपि शत्रुर्न बभूव । हे रुद्रासो रुद्रपुत्रा मरुतो युष्माकमेकोनपञ्चाशत्संख्यानां भवतां युजा योगेन परस्परैकमत्येनाधृषे वैरिणां सर्वतो धर्षणाय तविषी बलं नू चित् क्षिप्रमेव तनास्तु । विस्तृता भवतु ॥ विविदे । विद सत्तायां । लिटि प्रत्ययस्वरः । द्यवि नहि विविदे भूम्यां च न हि विविद इति चशब्दार्थप्रतीतेश्चादिलोपे विभाषेति प्रथमायास्तिङ्ङतिङ [?] निघातप्रतिषेधः । प्राथम्यं चानुषक्तक्रियापेक्षया । रिशादसः । रिश हिंसायां । रिशन्ति हिंसन्तीति रिशाः । इगुपधलक्षणः कः । तानदन्तीति रिशादसः । असुन् । आमन्त्रितनिघातः । युजा । युजिर् योगे । ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च । पा. ३-२-५९ [?] । इति क्विन् । सावेकाच इति विभक्तेरुदात्तत्वं । रुद्रासः । रुद्रशब्देन तत्सम्बन्धिनो मरुतो लक्ष्यन्ते । आज्जसेरसुक् । नू चित् । ऋचि तुनुघेत्यादिना दीर्घः । आधृषे । धृषा प्रागल्भ्ये । सम्पदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥**
+
+*he riśādasaḥ śatruhiṃsakā maruto 'dhidyavi dyulokasyopari vo yuṣmākaṃ śatrur nahi vivide | na ca babhūva | tathā bhūmyām api śatrur na babhūva | he rudrāso rudraputrā maruto yuṣmākam ekonapañcāśatsaṃkhyānāṃ bhavatāṃ yujā yogena parasparaikamatyenādhṛṣe vairiṇāṃ sarvato dharṣaṇāya taviṣī balaṃ nū cit kṣiprameva tanāstu | vistṛtā bhavatu || vivide | vida sattāyāṃ | liṭi pratyayasvaraḥ | dyavi nahi vivide bhūmyāṃ ca na hi vivida iti caśabdārthapratīteś cādilope vibhāṣeti prathamāyās tiṅ atiṅa [?] nighātapratiṣedhaḥ | prāthamyaṃ cānuṣaktakriyāpekṣayā | riśādasaḥ | riśa hiṃsāyāṃ | riśanti hiṃsantīti riśāḥ | igupadhalakṣaṇaḥ kaḥ | tān adantīti riśādasaḥ | asun | āmantritanighātaḥ | yujā | yujir yoge | ṛtvigdadhṛksragdiguṣṇigañcuyujikruñcāṃ ca | pā. 3-2-59 [?] | iti kvin | sāvekāca iti vibhakter udāttatvaṃ | rudrāsaḥ | rudraśabdena tatsambandhino maruto lakṣyante | ājjaser asuk | nū cit | ṛci tunughety ādinā dīrghaḥ | ādhṛṣe | dhṛṣā prāgalbhye | sampadādilakṣaṇo bhāve kvip | kṛduttarapadaprakṛtisvaratvam ||*
+
+**Translation:** "O *riśādasaḥ*, destroyers of enemies, Maruts — *adhi dyavi*, above the heaven-world, *vaḥ*, for you, an enemy *nahi vivide*, is not found; and there has not been one; likewise, on the earth also, an enemy has not been. O *rudrāsaḥ*, sons of Rudra, Maruts — of you who are forty-nine in number, *yujā*, by union, by agreement among one another, *ādhṛṣe*, for the overcoming of enemies on all sides, may [your] *taviṣī*, strength, *nū cit*, quickly indeed, *tanā astu*, be extended: be spread. *Vivide*: root *vida sattāyām*; the suffix accent in *liṭ*; [the verb is understood in both halves — '*dyavi nahi vivide, bhūmyāṃ ca na hi vivide*' — because the sense of *ca* is perceived]; on the dropping of a *cādi* word, by *vibhāṣā*, for the first [of the pair] the prohibition of *nighāta* [the print's wording is crowded [?]]; the first is 'first' in respect of the action understood. *Riśādasaḥ*: root *riśa hiṃsāyām*; '*riśanti*, they injure': *riśāḥ*; the suffix *ka* by the rule of *ik*-penultimate roots; '*tān adanti*', they eat them: *riśādasaḥ*; the suffix *asun*; unaccented as a vocative. *Yujā*: root *yujir yoge*; *kvin* by *ṛtvigdadhṛk-…* [Pā. 3-2-59 [?]]; the ending is acute by *sāvekāca*. *Rudrāsaḥ*: by the word *rudra* the Maruts connected with him are indicated; *asuk* by *ājjaser asuk*. *Nū cit*: the lengthening by *ṛci tunughā…*. *Ādhṛṣe*: root *dhṛṣā prāgalbhye*; *kvip* in the abstract sense of the *sampadādi* class; the accent of the first member in a compound ending in a *kṛt*."
+
+**Pratipadārtha** *(p. 350)* — "**riśādasaḥ** — O destroyers of enemies, Maruts; **adhi dyavi** — in the heaven-world above; **vaḥ** — for you; **śatruḥ** — an enemy; **na hi vivide** — there is not [such] a one; **bhūmyām** — on the earth also; **na babhūva** — there has not been at all; **rudrāsaḥ** — O Maruts, sons of Rudra; **yuṣmākam** — of you (of forty-nine in number); **yujā** — by union; **ādhṛṣe** — for the overpowering of enemies on all sides; **taviṣī** — [your] strength; **nū cit** — quickly indeed; **tanā astu** — let it be extended."
+
+**Bhāvārtha** *(p. 351)* — "O destroyers of enemies, Maruts, for you there is no room for an enemy, whether in heaven or on earth. O Maruts, sons of Rudra, may your joined strength, of you who are forty-nine in number, quickly increase for the destruction of enemies."
+
+**English Translation (the source's own, p. 351)** — "O distroyers [sic] of the wicked, there exists no adversary of yours above heavens, nor upon this earth, O Sons of Rudras [sic], may four [sic] collective strength be quickly exerted to humble your enemies"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 351**
+- **riśādasaḥ** — "*riśa hiṃsāyām*; *riśanti hiṃsanti iti riśāḥ*, enemies; *tān adanti iti riśādasaḥ*: the root *riśa* has the sense 'to injure'; those who injure are enemies; these are those who devour or destroy them; so *riśādasaḥ*: destroyers of enemies."
+- **adhi dyavi** = *dyulokasyopari* — "in the upper part of heaven, or even in the heaven that is above."
+- **taviṣī** — "strength, power."
+- **tanā** — "*tanu vistāre*, *vistṛtā*: let it be spread, that is, let it increase and grow. The word *tanā* is specially used in the Ṛgveda."
+- **yujā** = *yogena parasparaikamatyena* — "that the Maruts are forty-nine in number is said in the Purāṇas and elsewhere. In the Ṛgveda they are described in another way; see the explanation we wrote on the 1st ṛk of the [37th [?]] sūkta."
+- **rudrāsaḥ** — "that the Maruts are the sons of Rudra is described in many places in the Ṛgveda; we have already explained this."
+
+**Vyākaraṇa-prakriyā** *(pp. 351–353 — grammar pages, noted briefly)*
+- **nahi**: "*abhāve nahy nośāpi*" [as read, with a lexicon reference *Amara*, crowded [?]]: *nahi* is one unbroken word, an indeclinable; by *evādīnām antaḥ* — एवादीनामन्तः — it may be said to be final-acute as belonging to the *evādi* group. Or, by *saha supā* — सह सुपा — [Pā. 2-1-4 as read [?]], where *saha* is taken as a separate rule (*yogavibhāga*): a *sup*-ending word compounds with a competent *sup*-ending word; *na* and *hi* are compounded by this sūtra; *samāsasya* — समासस्य — [Pā. 6-1-223 as read [?]] the last syllable of the compound is acute; hence final-acute.
+- **vaḥ**: *bahuvacanasya vasnasau* — बहुवचनस्य वस्नसौ — [Pā. 8-1-21 as read [?]]: for *yuṣmākam*, ending in the genitive plural, the unaccented substitute *vas*.
+- **vivide**: root *vida sattāyām*, *divādi*, *ātmanepada*; *liṭ* → *eś* for *ṭe*; the doubling, and the loss of the reduplicate's [consonant] ; no *guṇa* of the light penultimate: *vivide*. In the second half, "*bhūmyāṃ ca na hi vivide*", the sense of *ca* is understood though *ca* is not used; there is no verb in the second half of the ṛk, but the verb said before has to be repeated and joined with the second sentence; this brought-in verb is the second; the one in the mantra is the first; by *cādilope vibhāṣā* — चादिलोपे विभाषा — [Pā. 8-1-63 as read [?]], when a *cādi* word is dropped, the first of the two verbs is optionally not unaccented; so there is a prohibition of *anudātta* for the first.
+- **na**: being a *nipāta*, first-syllable acute.
+- **riśādasaḥ**: root *riśa hiṃsāyām*; "*riśanti hiṃsanti iti riśāḥ*": enemies who give injury; *igupadhajñāprīkiraḥ kaḥ* — इगुपधज्ञाप्रीकिरः कः — [Pā. 3-1-135 as read [?]]: after roots with an *ik* as penultimate (*ik* = *i u ṛ ḷ*), and after *jñā* etc., the suffix *ka*; the suffix is *kit*, so no *guṇa* of the light penultimate; the root *ad bhakṣaṇe*: "*riśān adanti*", they eat enemies, that is, destroy them; *sarvadhātubhyo 'sun* [Uṇ. 4-188 as read [?]] *asun*; the vocative is unaccented by the eighth-*adhyāya* rule.
+- **yujā**: *yujir yoge*; *ṛtvigdadhṛksragdiguṣṇigañcuyujikruñcāṃ ca* — ऋत्विग्दधृक्स्रग्दिगुष्णिगञ्चुयुजिक्रुञ्चां च — [Pā. 3-2-59 as read [?]]: *kvin*; instrumental singular *ṭā*; by *sāvekācaḥ…* the ending is acute; *yuj* has one syllable in the locative plural *yukṣu*.
+- **rudrāsaḥ**: "*rodayatīti rudraḥ*": by [the Uṇādi rule beginning] *roror…* [as read, crowded [?]; Uṇ. 2-129 [?]]: after the root *rudir aśruvimocane*, ending in the *ṇic* suffix, the suffix *rak*, and the *ṇic* is elided: *rudra*; here by implication "belonging to Rudra", that is, the Maruts, are denoted by this word; *jas* with the augment *asuk* by *ājjaser asuk*.
+- **nū**: *ṛci tunughamakṣutaṅkutroruṣyāṇām* — ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् — [Pā. 6-3-133 as read [?]]: in a mantra, with *ṛg* as a following *upapada*, these words take the long vowel: *nū*.
+- **ādhṛṣe**: the root *dhṛṣā prāgalbhye* [print: *ghṛṣā*]; *sampadādibhyaḥ kvip* in the abstract sense; compounded with *āṅ*; the accent of the first member in a compound ending in a *kṛt*. Rik 4 ends here (*|| 4 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–38 COMPLETE; Sūkta 39 in progress: printed p. 349 (PDF 363) reached; Riks 39.1–39.3 complete; Rik 39.4's Saṃhitā written (the Pada and bhāṣya begin on p. 350).**
+### Rik 39.5 (pp. 353–356, PDF 367–370)
 
-**Next task:** continue at printed p. 350 (PDF 364) with the Pada and bhāṣya of Rik 39.4, then Riks 5–10 and the close of Sūkta 39 (to about p. 375; Sūkta 40 *uttiṣṭha brahmaṇas pate* begins about p. 376, check), then STOP at the end of Sūkta 39 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 364 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 353; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the commit "Vol 4: Sūkta 38 complete"). Sūkta 39 so far: (1) varga numerals and metre line in the heading are small and read with doubt; (2) intro: last words of the Anukramaṇikā quotation crowded [?]; (3) Rik 1's bhāṣya: *asmād antarikṣād asyatha* after *itthā* doubtful, the reference to the earlier Hiraṇyastūpa sūkta unsettled; (4) every Pāṇini / Uṇādi / Phiṭ / vārttika number is "as read [?]"; (5) Rik 2: the *īṣākṣādiṣu* prakṛtibhāva rule is partly garbled in print; the misprint "vily" in the source's English is kept [sic]; (6) Rik 3: *parvatārṇadiśo* in the bhāṣya is doubtful [?], the source's English misprints "regious" [sic]; the Pada has *vartayatha* short against the Saṃhitā's long.
+> **प्र वेपयन्ति पर्वतान्वि विञ्चन्ति वनस्पतीन् ।**
+> **प्रो आरत मरुतो दुर्मदा इव देवासः सर्वया विशा ॥ ५ ॥**
+
+*pra vepayanti parvatān vi viñcanti vanaspatīn |*
+*pro ārata maruto durmadā iva devāsaḥ sarvayā viśā || 5 ||*
+
+**Pada-pāṭha** *(p. 353)*
+
+> प्र । वेपयन्ति । पर्वतान् । वि । विञ्चन्ति । वनस्पतीन् ।
+> प्रो इति । आरत । मरुतः । दुर्मदाः-इव । देवासः ।
+> सर्वया । विशा ॥ ५ ॥
+
+*pra | vepayanti | parvatān | vi | viñcanti | vanaspatīn |*
+*pro iti | ārata | marutaḥ | durmadāḥ-iva | devāsaḥ |*
+*sarvayā | viśā || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 353–354)*
+
+> **पर्वतान्मेरुहिमवदादीन् प्रवेपयन्ति । मरुतः प्रकर्षेण कम्पयन्ति । वनस्पतीन् वटाश्वत्थादींश्च विञ्चन्ति । परस्परवियुक्तान्कुर्वन्ति । हे मरुतो देवासो देवाः सर्वया विशा प्रजया सहिता यूयं प्रो आरत । प्रकर्षेणैव सर्वतो गच्छत । तत्र दृष्टान्तः । दुर्मदा इव । यथा मदोन्मत्ताः स्वेच्छया सर्वतः क्रीडन्ति तद्वत् ॥ वेपयन्ति । टुवेपृ कम्पने । वेपमानान् प्रयुञ्जते । हेतुमण्णिच् । विञ्चन्ति । विचिर् पृथग्भावे । रुधादित्वात् श्नम् । श्नसोरल्लोप इत्यकारलोपः । वनस्पतीन् । वनानां पतयो वनस्पतयः । पारस्करादित्वात्सुट् । वनस्पतिशब्दाद्युदात्तत्वं [?] । उभे वनस्पत्यादिषु युगपदिति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं । आरत । ऋ गतौ । लङि मध्यमबहुवचने बहुलं छन्दसीति शपो लुगभावः । यद्वा लुङ् । सर्त्तिशास्त्यर्तिभ्यश्च । पा. ३-१-५६ [?] । इत्यङ् । आडजादीनामित्याडागमः । आटश्च । पा. ६-१-९० । इति वृद्धिः । देवासः । आमन्त्रिताद्युदात्तत्वं । सर्वया । सर्वस्य सुपि । पा. ६-१-१९१ [?] । इत्याद्युदात्तत्वं । विशा । सावेकाच इति विभक्तेरुदात्तत्वं ॥**
+
+*parvatān meruhimavadādīn pravepayanti | marutaḥ prakarṣeṇa kampayanti | vanaspatīn vaṭāśvatthādīṃś ca viñcanti | parasparaviyuktān kurvanti | he maruto devāso devāḥ sarvayā viśā prajayā sahitā yūyaṃ pro ārata | prakarṣeṇaiva sarvato gacchata | tatra dṛṣṭāntaḥ | durmadā iva | yathā madonmattāḥ svecchayā sarvataḥ krīḍanti tadvat || vepayanti | ṭuvepṛ kampane | vepamānān prayuñjate | hetumaṇṇic | viñcanti | vicir pṛthagbhāve | rudhāditvāt śnam | śnasor allopa ity akāralopaḥ | vanaspatīn | vanānāṃ patayo vanaspatayaḥ | pāraskarāditvāt suṭ | vanaspatiśabdādyudāttatvaṃ [?] | ubhe vanaspatyādiṣu yugapad iti pūrvottarapadayoḥ yugapat prakṛtisvaratvaṃ | ārata | ṛ gatau | laṅi madhyamabahuvacane bahulaṃ chandasīti śapo lugabhāvaḥ | yadvā luṅ | sartiśāstyartibhyaś ca | pā. 3-1-56 [?] | ity aṅ | āḍajādīnām ity āḍāgamaḥ | āṭaś ca | pā. 6-1-90 | iti vṛddhiḥ | devāsaḥ | āmantritādyudāttatvaṃ | sarvayā | sarvasya supi | pā. 6-1-191 [?] | ity ādyudāttatvaṃ | viśā | sāvekāca iti vibhakter udāttatvaṃ ||*
+
+**Translation:** "*Parvatān* — mountains such as Meru and Himavat — *pra vepayanti*: the Maruts make them shake greatly. *Vanaspatīn* — banyan, fig and other trees — *vi viñcanti*: they make them separated from one another. O Maruts, gods, with *sarvayā viśā*, with all your people, *pro ārata*, go forth: go greatly on all sides. The example: *durmadā iva* — as those drunk with intoxication sport on all sides at their own will, so. *Vepayanti*: root *ṭuvepṛ kampane*; the *ṇic* of the causative: they make [the mountains] shaking. *Viñcanti*: root *vicir pṛthagbhāve*; *śnam* because of the *rudhādi* class; loss of the *a* by *śnasor allopaḥ*. *Vanaspatīn*: '*vanānām patayaḥ*'; the augment *suṭ* because of the *pāraskarādi* group; both members keep their accent at the same time by *ubhe vanaspatyādiṣu yugapat*. *Ārata*: root *ṛ gatau*; in *laṅ* second-person plural, by *bahulaṃ chandasi* the *śap* is not elided [as it otherwise would be]; or *luṅ*: *aṅ* by *sartiśāstyartibhyaś ca* [Pā. 3-1-56 [?]]; the augment *āṭ* by *āḍ ajādīnām*; *vṛddhi* by *āṭaś ca*. *Devāsaḥ*: vocative, first-syllable acute. *Sarvayā*: first-syllable acute by *sarvasya supi*. *Viśā*: the ending acute by *sāvekāca*."
+
+**Pratipadārtha** *(p. 354)* — "(**marutaḥ** — Maruts) **parvatān** — mountains such as Meru and Himavat; **pravepayanti** — they shake well; **vanaspatīn** — forest trees such as the banyan and the fig (grown close together); **vi viñcanti** — they make to be separate from one another; **devāsaḥ marutaḥ** — O Maruts, who are gods; **sarvayā viśā** — together with all your people; **durmadā iva** — as those full of intoxication wander and sport at will; **pro ārata** — wander freely all around."
+
+**Bhāvārtha** *(p. 354)* — "The Marut-deities make the immovable mountains, Meru, Himavat and the like, shake well. They make the forest trees that grow close together be separated one from another. O Maruts, who are deities, you are free. As men intoxicated with ecstasy sport and wander at will, you too, together with your people, go all around, sporting and wandering."
+
+**English Translation (the source's own, p. 354)** — "They make the mountains tremble ; They slit asunder the forest trees ; divine Maruts go wether [sic] you wlll [sic] with all your progeny like men in to vicated [sic]."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 354–355**
+- **Main intention** — "Because the power of the Maruts is boundless, they make the mountains shake. Trees and the like that have grown close together are struck by the wind's blow and become separate. O Marut-deities, together with all those in your group — as a man intoxicated moves, as his mind wishes, with no obstruction, so you, with no obstruction, move about at your will."
+- **durmadā iva** — "like men intoxicated by drinking an intoxicating substance, who, having no control of the mind, wherever they are, wander about there; or like those who, proud from arrogance and cunning, go about as their mind wishes, with regard to no one."
+- **sarvayā viśā** — "with all the people; here 'all the people' means the attendants of the Marut-deities, or the host of the Maruts, forty-nine in number, united."
+
+**Vyākaraṇa-prakriyā** *(pp. 355–356 — grammar pages, noted briefly)*
+- **pra**: *upasargāś cābhivarjam* [Phiṭ.]: first-syllable acute.
+- **vepayanti**: root *ṭuvepṛ kampane*, first class, *ātmanepada*: *vepate* in the present; "*parvatāḥ vepante*" means "the mountains shake"; the sense to be intended is that the Maruts make the mountains shake. *Hetumati ca* — हेतुमति च — [Pā. 3-1-26 as read [?]]: *hetu* = the instigator; *ṇic* after roots when the action of an instigator is to be expressed; the *Pāṇinīya* sages' term *hetu* is for the one who is the instigator of the agent; *vep + i*; since the result goes to another, *ṇicaś ca* — णिचश्च — [Pā. 1-3-74 as read [?]] the *ātmanepada* does not come; *parasmaipada*, *laṭ*, *jhi*, *ant*, *śap*, *guṇa* and *ay*-substitution: *vepayanti*.
+- **viñcanti**: *vicir pṛthagbhāve*; *jhi*, *ant*; *rudhādibhyaḥ śnam* — रुधादिभ्यः श्नम् — [Pā. 3-1-78 as read [?]]; *vi-n-c + anti*; *śnasor allopaḥ* — श्नसोरल्लोपः — [Pā. 6-4-111 as read]: the *a* of the suffix is lost before a *kit* or *ṅit* *sārvadhātuka*; *naś cāpadāntasya jhali* — नश्चापदान्तस्य झलि — [Pā. 8-3-24 as read [?]] *anusvāra* for *n*; *anusvārasya yayi parasavarṇaḥ* — अनुस्वारस्य ययि परसवर्णः — [Pā. 8-4-58 as read [?]] gives the homorganic nasal (*ñ*): *viñcanti*.
+- **vanaspatīn**: "*vanānāṃ patayaḥ*"; *pāraskaraprabhṛtīni ca saṃjñāyām* — पारस्करप्रभृतीनि च सञ्ज्ञायाम् — [Pā. 6-1-157 as read [?]]: the *pāraskarādi* words, in names, take *suṭ*; the group is open (*ākṛtigaṇa*); so *suṭ* comes to *pati*: *vanaspati*. The neuter word *vana* is first-syllable acute [as read from a Phiṭ. sūtra number [?]]; *pāter ḍatiḥ* — पातेर्डतिः — [Uṇ. 4-[?], as read]: the word *pati* with the suffix *ḍati* is first-syllable acute by the suffix accent; on compounding, by *ubhe vanaspatyādiṣu yugapat* — उभे वनस्पत्यादिषु युगपत् — [Pā. 6-2-140 as read [?]]: in the words of the *vanaspatyādi* group both first and last members have their own accent at the same time: so both members retain their accent.
+- **ārata**: *ṛ gatau*; *laṅ*, second-person plural *tha* → *ta*; since the root belongs to a *ślu*-taking class, *śap* would be elided, but by *bahulaṃ chandasi* [Pā. 2-4-73 as read [?]] it is not; *ṛ + a + ta*; the augment *aṭ*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *ā + ar + ta*; *āṭaś ca* — आटश्च — [Pā. 6-1-90] *vṛddhi*: *ārata*. Or: the root *ṛ*, *luṅ*, *ta*; *cli*; *sartiśāstyartibhyaś ca* — सर्तिशास्त्यर्तिभ्यश्च — [Pā. 3-1-56 as read [?]] *aṅ* for *cli*; *ṛdṛśo 'ṅi guṇaḥ* — ऋदृशोऽङि गुणः — [Pā. 7-4-16 as read [?]] *guṇa*; *ar + a + ta*; *āḍ ajādīnām* — आडजादीनाम् — [Pā. 6-4-72 as read [?]] the augment *āṭ*; *ā + ar + a + ta*; *āṭaś ca*: *ārata*. In the second alternative there is no trouble of resorting to Vedic usage; the form may be used in the world also; but by the first process the form is valid in the Veda only.
+- **devāsaḥ**: vocative plural; the augment *asuk* by *ājjaser asuk*; since it is at the beginning of the fourth *pāda* the eighth-*adhyāya* unaccentedness of the vocative does not apply; by *āmantritasya ca* — the sixth-*adhyāya* sūtra — it is first-syllable acute.
+- **sarvayā**: *sarvasya supi* — सर्वस्य सुपि — [Pā. 6-1-191 as read [?]]: the first syllable of *sarva* is acute before a *sup*.
+- **viśā**: root *viśa praveśane*; *kvip*; instrumental singular *ṭā*; *sāvekācas tṛtīyādir vibhaktiḥ* [Pā. 6-1-168 as read [?]] gives the ending the acute [the print says *ādyudātta* here, apparently by slip]. Rik 5 ends here (*|| 5 ||*).
+
+---
+
+### Rik 39.6 (pp. 357–, PDF 371–)
+
+**Saṃhitā-pāṭha** *(p. 357; accents not reproduced)*
+
+> **उपो रथेषु पृषतीरयुग्ध्वं प्रष्टिर्वहति रोहितः ।**
+> **आ वो यामाय पृथिवी चिदश्रोदबीभयन्त मानुषाः ॥ ६ ॥**
+
+*upo ratheṣu pṛṣatīr ayugdhvaṃ praṣṭir vahati rohitaḥ |*
+*ā vo yāmāya pṛthivī cid aśrod abībhayanta mānuṣāḥ || 6 ||*
+
+**Pada-pāṭha** *(p. 357)*
+
+> उपो इति । रथेषु । पृषतीः । अयुग्ध्वम् । प्रष्टिः । वहति ।
+> रोहितः ।
+> आ । वः । यामाय । पृथिवी । चित् । अश्रोत् । अबीभयन्त ।
+> मानुषाः ॥ ६ ॥
+
+*upo iti | ratheṣu | pṛṣatīḥ | ayugdhvam | praṣṭiḥ | vahati |*
+*rohitaḥ |*
+*ā | vaḥ | yāmāya | pṛthivī | cit | aśrot | abībhayanta |*
+*mānuṣāḥ || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 357; it breaks off at the foot of the page and continues on p. 358, not yet written)*
+
+> **हे मरुतो रथेषु भवदीयेषु पृषतीर्बिन्दुयुक्ता मृगीरुपो सामीप्येनैवायुग्ध्वं । योजितवन्तः । प्रष्टिरेतत्संज्ञको वाहनत्रयमध्यवर्ती मृगविशेषो रोहितो मृगान्तरजातिर्लोहितवर्णो वहति । रथं नयति । वो युष्माकं यामाय गमनाय पृथिवी चिदन्तरिक्षमप्यश्रोत् । अभिमुख्येनाशृणोत् । अनुजानातीत्यर्थः । पृथिवीत्यन्तरिक्षनाम । पृथिवी भूः स्वयम्भूरिति तन्नामसु पाठात् । मानुषाः भूलोकवर्तिनः पुरुषा अबीभयन्त । स्वयं भीताः सन्तोऽन्येषामपि भीतिमुत्पादितवन्तः ॥ उपो इति निपातद्वयसमुदायात्मकमन्यन्निपातान्तरं । ओत् । पा. १-१-१५ । इति प्रगृह्यत्वं । आयुग्ध्वं । लुङि झलो झलि । पा. ८-२-२६ । इति सकारस्य लोपः । चोः कुरिति कुत्वं । रोहितः । रुहे रश्च लो वा । उ. ३-९४ [?] । इतीतन्प्रत्ययान्तः । नित्त्वादाद्युदात्तः । यामाय । यमेर्भावे घञ् । कर्षात्वत इत्यन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वं । अश्रोत् । श्रु श्रवणे । बहुलं छन्दसीति विकरणस्य लुक् । अबीभयन्त । ञिभी भये । अस्माण्ण्यन्तात् लुङि भीस्म्योर्हेतुभये । पा. १-३-६८ । इत्यात्मने-**
+
+*he maruto ratheṣu bhavadīyeṣu pṛṣatīr binduyuktā mṛgīr upo sāmīpyenaivāyugdhvaṃ | yojitavantaḥ | praṣṭir etatsañjñako vāhanatrayamadhyavartī mṛgaviśeṣo rohito mṛgāntarajātir lohitavarṇo vahati | rathaṃ nayati | vo yuṣmākaṃ yāmāya gamanāya pṛthivī cid antarikṣam apy aśrot | abhimukhyenāśṛṇot | anujānātīty arthaḥ | pṛthivīty antarikṣanāma | pṛthivī bhūḥ svayambhūr iti tannāmasu pāṭhāt | mānuṣāḥ bhūlokavartinaḥ puruṣā abībhayanta | svayaṃ bhītāḥ santo 'nyeṣām api bhītim utpāditavantaḥ || upo iti nipātadvayasamudāyātmakam anyan nipātāntaraṃ | ot | pā. 1-1-15 | iti pragṛhyatvaṃ | āyugdhvaṃ | luṅi jhalo jhali | pā. 8-2-26 | iti sakārasya lopaḥ | coḥ kur iti kutvaṃ | rohitaḥ | ruhe raś ca lo vā | u. 3-94 [?] | itītanpratyayāntaḥ | nittvād ādyudāttaḥ | yāmāya | yamer bhāve ghañ | karṣātvata ity antodāttatve prāpte vṛṣādiṣu pāṭhād ādyudāttatvaṃ | aśrot | śru śravaṇe | bahulaṃ chandasīti vikaraṇasya luk | abībhayanta | ñibhī bhaye | asmāṇṇyantāt luṅi bhīsmyor hetubhaye | pā. 1-3-68 | ity ātmane-* *(breaks off)*
+
+**Translation of this part:** "O Maruts, *ratheṣu*, in your chariots, *pṛṣatīḥ*, the spotted does — *upo* (*upa* + *u*) — you have yoked, close by. *Praṣṭiḥ*, [the animal] so named, standing in the middle of the three draught-animals, *rohitaḥ*, another kind of deer, red-coloured, *vahati*, draws the chariot. *Vaḥ yāmāya*: for your going — *pṛthivī cit*, even the atmosphere — *aśrot*, heard, i.e. gave assent, so the sense. '*Pṛthivī*' is a name of the atmosphere, since it is read among the names of it ('*pṛthivī, bhūḥ, svayambhūḥ*' [as read]). *Mānuṣāḥ*, men living in the earth-world, *abībhayanta*: being themselves frightened, they caused fear to others also." The grammatical tail so far: *upo* is a further particle made up of the two particles; by *ot* [Pā. 1-1-15] it is *pragṛhya* [exempt from sandhi]; *āyugdhvam*: in *luṅ*, by *jhalo jhali* [Pā. 8-2-26] the loss of the *s*, *k* for *c* by *coḥ kuḥ*; *rohitaḥ*: from *ruh*, with the Uṇādi rule *ruhe raś ca lo vā* [Uṇ. 3-94 [?]], the suffix *itan*; because it is *nit*, first-syllable acute; *yāmāya*: *ghañ* in the abstract sense of *yam*; though the final acute would be due by *karṣātvataḥ…*, the word is read in the *vṛṣādi* group, so first-syllable acute; *aśrot*: root *śru śravaṇe*; the *vikaraṇa* elided by *bahulaṃ chandasi*; *abībhayanta*: root *ñibhī bhaye*, in the causative, in *luṅ*, *ātmanepada* by *bhīsmyor hetubhaye* [Pā. 1-3-68] — *(the sentence ends here at the foot of the page).* *(On p. 357 the Pada of Rik 6 is printed without a heading directly under the Saṃhitā.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–38 COMPLETE; Sūkta 39 in progress: printed p. 357 (PDF 371) reached; Riks 39.1–39.5 complete; Rik 39.6's Saṃhitā, Pada and the first part of its bhāṣya written (the bhāṣya breaks off at the foot of p. 357, mid-sentence: "…*ity ātmane-*").**
+
+**Next task:** continue at printed p. 358 (PDF 372) with the end of the bhāṣya of Rik 39.6 (the sentence continues "…*ātmanepadam*…"), then its Pratipadārtha etc., then Riks 7–10 and the close of Sūkta 39 (to about p. 375; Sūkta 40 *uttiṣṭha brahmaṇas pate* begins about p. 376, check), then STOP at the end of Sūkta 39 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 372 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the commit "Vol 4: Sūkta 38 complete"). Sūkta 39 so far: (1) heading varga numerals and metre line small, read with doubt; (2) intro: last words of the Anukramaṇikā quotation crowded [?]; (3) Rik 1: *asmād antarikṣād asyatha* after *itthā* doubtful; the reference to an earlier Hiraṇyastūpa sūkta unsettled; (4) every Pāṇini / Uṇādi / Phiṭ / vārttika / Amara number is "as read [?]"; (5) Rik 2: the *īṣākṣādiṣu* prakṛtibhāva rule partly garbled; the source's English misprint "vily" kept [sic]; (6) Rik 3: *parvatārṇadiśo* doubtful [?]; "regious" kept [sic]; (7) Rik 4: the *vivide* / *cādilope vibhāṣā* passage (pp. 350, 352) is crowded and characterized only; the source's English misprints "distroyers", "Rudras", "four" kept [sic]; the Special Topics' cross-reference to the 37th sūkta numeral is unsettled; (8) Rik 5: the English misprints "wether you wlll" and "in to vicated" kept [sic]; the clause on *vanaspatiśabda* accent and the Phiṭ number are doubtful; the print's *ādyudātta* for *viśā*'s ending looks like a slip of the Kannada author; (9) Rik 6's bhāṣya breaks at the page foot.
