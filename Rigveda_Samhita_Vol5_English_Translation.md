@@ -424,8 +424,81 @@
 
 ---
 
+**Rik 47.6, continued** *(from the foot of p. 17)*
+
+**Sāyaṇa-bhāṣya** *(pp. 17–18)*
+
+> **हे दस्रा दर्शनीयावश्विनौ सुदासे शोभनदानयुक्ताय राज्ञे पिजवनपुत्राय रथे वसु बिभ्रता युवां पृक्षोऽन्नं वहतं । प्रापयितवन्तौ । समुद्रादन्तरिक्षात् । समुद्रमित्यन्तरिक्षनाम । समुद्रोऽध्वरमिति तन्नामसु पाठात् । उत वा दिवस्परि अथवा स्वर्गात्पर्योहृत्य पुरुस्पृहं बहुभिः स्पृहणीयं रयिं धनमस्मे धत्तं । अस्मासु स्थापयेतम् ॥ सुष्ठु ददातीति सुदाः । असुनि कृदुत्तरपदप्रकृतिस्वरत्वं । दिवस्परि । पञ्चम्याः परावध्यर्थे । पा. ८-३-५१ [?] । इति विसर्जनीयस्य सत्वं । पुरुस्पृहं । स्पृह ईप्सायां । चुरादिरदन्तः । पुरुभिः स्पृह्यत इति पुरुस्पृहः । कर्मणि घञ् । अतो लोपस्य स्थानिवत्त्वाल्लघूपधगुणाभावः । ञित्स्वरेणोत्तरपदस्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरेण तदेव शिष्यते ॥**
+
+*he dasrā darśanīyāv aśvinau sudāse śobhanadānayuktāya rājñe pijavanaputrāya rathe vasu bibhratā yuvāṃ pṛkṣo 'nnaṃ vahataṃ | prāpayitavantau | samudrād antarikṣāt | samudram ity antarikṣanāma | samudro 'dhvaram iti tannāmasu pāṭhāt | uta vā divas pari athavā svargāt paryohṛtya puruspṛhaṃ bahubhiḥ spṛhaṇīyaṃ rayiṃ dhanam asme dhattaṃ | asmāsu sthāpayetam || suṣṭhu dadātīti sudāḥ | asuni kṛduttarapadaprakṛtisvaratvaṃ | divaspari | pañcamyāḥ parāvadhyarthe | pā. 8-3-51 [?] | iti visarjanīyasya satvaṃ | puruspṛhaṃ | spṛha īpsāyāṃ | curādir adantaḥ | purubhiḥ spṛhyata iti puruspṛhaḥ | karmaṇi ghañ | ato lopasya sthānivattvāl laghūpadhaguṇābhāvaḥ | ñitsvareṇottarapadasyādyudāttatve kṛduttarapadaprakṛtisvareṇa tad eva śiṣyate ||*
+
+*(The reading "ñitsvareṇa" is crowded; the print has a letter like* ghāt*, read ñit [?].)*
+
+**Translation:** "O *dasrā*, O Aśvins, beautiful to behold: *sudāse*, to King Sudās, the son of Pijavana, who is endowed with fair giving, *rathe*, in your chariot, *vasu bibhratā*, bearing wealth, you two *pṛkṣaḥ vahatam*, brought food; *samudrāt*, from the atmosphere — *samudra* is a name of the atmosphere, being read among its names ('*samudro 'dhvaram*'). *Uta vā divas pari*, or, bringing from heaven, *puruspṛham rayim*, wealth that is longed for by many, *asme dhattam*, place in us. *Sudāḥ*: 'he who gives well'; with *asun*, the accent of a second member that ends in a *kṛt*. *Divaspari*: the *visarga* becomes *s* by the rule on the ablative in the sense of 'above, beyond' (Pā. 8-3-51 [?]). *Puruspṛham*: root *spṛha īpsāyām*, of the *curādi* class, ending in *a*; '*puruspṛhaḥ*, longed for by many'; *ghañ* in the passive; because the dropped *a* is treated as present, the *guṇa* of the light penultimate does not come; …"
+
+**Pratipadārtha** *(p. 18)* — "**dasrā** — O Aśvin gods of beautiful form; **sudāse** — to Sudās (the son of Pijavana), who is endowed with excellent giving; **rathe** — in the chariot; **vasu** — wealth; **bibhratā** — bearing, you who came; **pṛkṣaḥ** — abundant food; **vahatam** — brought; **samudrāt** — from the atmosphere; **uta vā** — or; **divas pari** — from heaven (having brought); **puruspṛham** — wealth longed for by many; **rayim** — the wealth; **asme** — in us; **dhattam** — place (give to us too)."
+
+**Bhāvārtha** *(p. 18)* — "O Aśvin gods of beautiful form, you brought in your chariot wealth and, in abundance, food for King Sudās, the son of Pijavana, who is of excellent and generous giving. In the same way, bring and give us too wealth that many people long for, whether from the atmosphere or from heaven."
+
+**English Translation (the source's own, p. 18)** — "Good-looking Aswins, you brought in your car abundant food to Sudas; In the same manner bring us riches which many covet whether from the sky or from heaven beyond."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 18–19**
+- **sudāse** — "Sudās was the son of a well-known king named Pijavana. In the Viṣṇu Purāṇa it is described that a king named Sudās was born in the solar line; another king of the same name in the lunar line; and yet another king of the same name in the lunar line as the son of the king Divodāsa. The name of Divodāsa is mentioned in the Ṛgveda."
+- **pṛkṣaḥ** — "since the word *pṛkṣaḥ* is read among the twenty-eight [?] words that signify food, beginning *andhaḥ*, *vājaḥ* (Ni. 2-[?] as read), *pṛkṣa* means food or sustenance."
+- **samudrāt** — "since the word *samudraḥ* is read among the sixteen names of the atmosphere beginning *ambaram*, *viyat* (Ni. 1-[?] as read), *samudrāt* means 'from the atmosphere'. Besides this, because the words *uta vā divas pari* are used in this ṛk, the ṛṣi prays that the Aśvin gods bring wealth from their own place, heaven or the atmosphere."
+- **puruspṛham** — "*bahubhiḥ spṛhaṇīyam*: desired by many; all desire riches such as wealth, power; it is wanted by all. The ṛṣi's idea is that such wealth be given."
+
+**Vyākaraṇa-prakriyā** *(p. 19 — grammar page, noted briefly)*
+- **sudāse**: "*suṣṭhu dadāti iti sudāḥ*"; after the root *ḍudāñ dāne* with *su* before it, *sarvadhātubhyo 'sun* (Uṇ. 4-[?]8 as read [?]) gives *asun*; by the *nit*-accent the second member would be initial-acute; but *gatikārakopapadāt kṛt* (Pā. 6-2-139 as read [?]) leaves the first member's natural accent; the dative singular.
+- **divaspari**: *divaḥ* is an ablative, with *pari* following; *pañcamyāḥ parāvadhyarthe* (Pā. 8-3-51 as read [?]) — पञ्चम्याः परावध्यर्थे — "the *visarga* belonging to an ablative case-ending becomes *s* when *pari*, which expresses the sense of 'above' (*upari-bhāva*) as in *adhi* ("one who is above"), follows".
+- **puruspṛham**: root *spṛha īpsāyām*, which is read in the *hatvādi* list as ending in *a* (*curādi*); "*purubhiḥ spṛhyate*" — "longed for by many", the *ghañ* in the passive; *ato lopaḥ* (Pā. 6-4-48 as read [?]) drops the *a*; because that dropped *a* is treated as present (*ac-pareṣv* [as read: *ac parasmin pūrvavidhau*, Pā. 1-1-57]), the *guṇa* of the light penultimate (*pugantalaghūpadhasya*, Pā. 7-3-86) does not come; the second member is initial-acute by the *ñit* accent; after compounding, *kṛduttarapadaprakṛtisvara* applies and this alone remains. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 in progress: printed p. 17 (PDF 33) reached; introduction, heading and Riks 47.1–47.5 complete; Rik 47.6's Saṃhitā and Pada written at the foot of p. 17 (its bhāṣya begins at the foot of p. 17 and continues on p. 18).**
+### Rik 47.7 (pp. 19–20, PDF 35–36)
 
-**Next task:** continue at printed p. 17 foot / p. 18 (PDF 33–34) with the bhāṣya of Rik 47.6 (read it afresh from the print), then Riks 7–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 33 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-033.jpg`). Flags for 47.4–5: sūtra numerals "as read [?]"; in 47.5 "su avatam" and the end of the bhāṣya's first sentence crowded; the grammar discussion of *madhvā* (*num*/*nā*/*jasi ca*) outlined only. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 19; accents not reproduced)*
+
+> **यन्नासत्या परावति यद्वा स्थो अधि तुर्वशे ।**
+> **अतो रथेन सुवृता न आ गतं साकं सूर्यस्य रश्मिभिः ॥ ७ ॥**
+
+*yan nāsatyā parāvati yad vā stho adhi turvaśe |*
+*ato rathena suvṛtā na ā gatam sākaṃ sūryasya raśmibhiḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 20)*
+
+> यत् । नासत्या । परावति । यत् । वा । स्थः । अधि । तुर्वशे ।
+> अतः । रथेन । सुऽवृता । नः । आ । गतम् । साकम् । सूर्यस्य । रश्मिऽभिः ॥ ७ ॥
+
+*yat | nāsatyā | parāvati | yat | vā | sthaḥ | adhi | turvaśe |*
+*ataḥ | rathena | su-vṛtā | naḥ | ā | gatam | sākam | sūryasya | raśmi-bhiḥ || 7 ||*
+
+*(The print divides* parāvati *with an avagraha mark as* parā-vati*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 20)*
+
+> **हे नासत्यावसत्यरहितावश्विनौ यद्यदि युवां परावति दूरदेशे स्थो वर्तेथे । यद्वा अथवाधि तुर्वशेऽधिके समीपे स्थः । अतोऽस्माद्दूरात्समीपाद्वा सूर्यस्य रश्मिभिः साकं सूर्योदयकाले सुवृता शोभनवर्तनयुक्तेन रथेन नोऽस्मान् प्रत्या गतं । आगच्छतम् ॥ नासत्या । सत्सु भवौ सत्यौ । न सत्यावसत्यौ । न असत्यौ नासत्यौ । नभ्राण्नपादित्यादिना नञः प्रकृतिभावः । स्थः । अस भुवि । श्नसोरल्लोप इत्यकारलोपः । यद्वृत्तयोगादनिघातः । गतं । गमेर्लोटि बहुलं छन्दसीति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः ॥**
+
+*he nāsatyāv asatyarahitāv aśvinau yad yadi yuvāṃ parāvati dūradeśe stho vartethe | yad vā athavādhi turvaśe 'dhike samīpe sthaḥ | ato 'smād dūrāt samīpād vā sūryasya raśmibhiḥ sākaṃ sūryodayakāle suvṛtā śobhanavartanayuktena rathena no 'smān pratyā gataṃ | āgacchataṃ || nāsatyā | satsu bhavau satyau | na satyāv asatyau | na asatyau nāsatyau | nabhrāṇnapād ity ādinā nañaḥ prakṛtibhāvaḥ | sthaḥ | asa bhuvi | śnasor allopa ity akāralopaḥ | yadvṛttayogād anighātaḥ | gataṃ | gamer loṭi bahulaṃ chandasīti śapo luk | anudāttopadeśety ādinānunāsikalopaḥ ||*
+
+*(The clause "nāsatyā | satsu bhavau satyau | …" is as I read it; the Kannada print of the etymology is crowded [?].)*
+
+**Translation:** "O Nāsatyas — you who are free of untruth — O Aśvins, *yat*, if you two *parāvati*, are in a far-off place, *yad vā*, or *adhi turvaśe*, are in a nearer place: *ataḥ*, from that far place or near place, *sūryasya raśmibhiḥ sākam*, together with the rays of the Sun, at the time of the Sun's rising, *rathena suvṛtā*, with your chariot of fair movement, *naḥ ā gatam*, come to us. *Nāsatyā*: 'those who exist among the true are true'; 'not true' is *asatya*; 'not untrue' is *nāsatya*; the natural state of *na* by *nabhrāṇ-napāt…*. *Sthaḥ*: root *asa bhuvi*; the *a* drops by *śnasor allopaḥ*; because of the *yad*-connexion, there is no all-unaccented. *Gatam*: *loṭ* of *gam*; *śap* drops; the nasal drops by *anudāttopadeśa…*."
+
+**Pratipadārtha** *(p. 20)* — "**nāsatyā** — O Aśvin gods who are free of untruth; **yat** — if (you); **parāvati** — in a distant place; **sthaḥ** — are (both); **yad vā** — or; **adhi turvaśe** — in a very near place (are); **ataḥ** — from there (from the far place or from the near place); **sūryasya** — of the Sun; **raśmibhiḥ sākam** — together with the rays (at the time of sunrise); **suvṛtā** — of excellent motion; **rathena** — in the chariot; **naḥ** — facing us; **ā gatam** — come."
+
+**Bhāvārtha** *(p. 20)* — "O Aśvin gods, free of untruth, whether you are in a distant place or in a place very near to us, at the time of the Sun's rising come to us from the place where you are, together with the rays of the Sun, in your chariot of excellent motion, facing us."
+
+**English Translation (the source's own, p. 20)** — "O Truthful Nasatyas, whether you happen to be far off at a distance or close at hand, come to us in your well-constructed chariot along with rays of the sun (in the morning)."
+
+*(The Special Topics and grammar of Rik 7 begin on p. 21, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 in progress: printed p. 20 (PDF 36) reached; introduction, heading and Riks 47.1–47.6 complete; Rik 47.7's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English are written; its Special Topics and grammar begin on p. 21 and are NOT yet written.**
+
+**Next task:** continue at printed p. 21 (PDF 37): insert "**Rik 47.7, continued** *(from p. 21)*" with the Special Topics and grammar of Rik 7; then Riks 8–10 and the close of Sūkta 47 (ends before printed p. 30); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 37 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-037.jpg`). Flags for 47.6–7: sūtra and Nirukta numerals "as read [?]"; "ñitsvareṇa" in 47.6 crowded; the etymology of *nāsatya* in 47.7 crowded [?]; the Rik 6 translation of the tail breaks off after "the *guṇa* of the light penultimate does not come" (the rest is in the bhāṣya text above). **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
