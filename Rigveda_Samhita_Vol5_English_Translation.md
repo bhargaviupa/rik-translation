@@ -1687,8 +1687,180 @@
 
 ---
 
+## SŪKTA 49 *(printed p. 91 = PDF 107; sixth sūkta of the Ninth Anuvāka)*
+
+**Forty-ninth Sūkta** *(large Kannada title line at the head of p. 91: "nalavattombhattaneya sūktavu")*
+
+### Pages 91–92 (PDF 107–108) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; words marked [?] are crowded)*
+
+> उषो भद्रेभिरिति चतुर्ऋचं षष्ठं सूक्तं । अत्रानुक्रम्यते । उषश्चतुष्कमानुष्टुभं त्विति [?] । कण्वपुत्रः प्रस्कण्व ऋषिः । तुह्यादिपरिभाषयेदमुत्तरं चानुष्टुभं । पूर्वत्रोषस्यं त्वित्युक्तत्वादिदमपि सूक्तमुषस्यं । प्रातरनुवाक उषस्ये क्रतावानुष्टुभे छन्दस्येतत्सूक्तं । सूत्र्यते हि । उषो भद्रेभिरित्यानुष्टुभं । आ. ४-१४ [?] । इति ॥ आश्विनशस्त्रेऽप्येतत्सूक्तं प्रातरनुवाकन्यायेन । आ. ६-५ [?] । इत्यतिदेशात् ॥
+
+*uṣo bhadrebhir iti caturṛcaṃ ṣaṣṭhaṃ sūktaṃ | atrānukramyate | uṣaś catuṣkam ānuṣṭubhaṃ tv iti [?] | kaṇvaputraḥ praskaṇva ṛṣiḥ | tuhyādiparibhāṣayedam uttaraṃ cānuṣṭubhaṃ | pūrvatroṣasyaṃ tv ity uktatvād idam api sūktam uṣasyaṃ | prātaranuvāka uṣasye kratāv ānuṣṭubhe chandasy etat sūktaṃ | sūtryate hi | uṣo bhadrebhir ity ānuṣṭubhaṃ | ā. 4-14 [?] | iti || āśvinaśastre 'py etat sūktaṃ prātaranuvākanyāyena | ā. 6-5 [?] | ity atideśāt ||*
+
+**Translation** *(mine, tentative; the Anukramaṇikā clause and the Āśvalāyana numerals are read with doubt)*: "'*Uṣo bhadrebhiḥ*' is the sixth sūkta, of four ṛks. The Anukramaṇikā here: '*uṣaś catuṣkam ānuṣṭubham*' [?]. The ṛṣi is Praskaṇva, son of Kaṇva. By the convention beginning *tuhyādi* this sūkta and the next are in Anuṣṭubh; and since the preceding was said to be of Uṣas, this sūkta too is of Uṣas. In the Prātaranuvāka, at the Uṣasya rite, this sūkta is [used] in the Anuṣṭubh metre; it is prescribed: '*uṣo bhadrebhir*, the Anuṣṭubh' (Āśv. 4-14 [?]). In the Āśvina-śastra, too, this sūkta is [used] by the rule of the Prātaranuvāka, as it is extended (Āśv. 6-5 [?])."
+
+**Anuvāda (Kannada), p. 91** — "*Uṣo bhadrebhiḥ* is the sixth sūkta in the ninth anuvāka. It has four ṛks. In the Anukramaṇikā it is said that this sūkta of four ṛks is in the Anuṣṭubh metre. The ṛṣi of this sūkta is Praskaṇva, son of the sage Kaṇva. The metre is Anuṣṭubh; the deity is Uṣas. This sūkta is used at the time of reciting the Prātaranuvāka, for reciting the ṛks in Anuṣṭubh metre among the mantras of the Uṣasya rite. This is stated in the Āśvalāyana Śrauta-sūtra by the sūtra '*uṣo bhadrebhir ity ānuṣṭubham*' (Ā. 4-14 [?]); and in the same place, by the sūtra '*prātaranuvākanyāyena*' (Ā. 6-5), it is said that this sūkta is also to be used for reciting the Āśvina-śastra mantras."
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४९**
+> ॥ मण्डल — १ ॥ अनुवाक — ९ ॥ सूक्त — ४९ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ४ ॥ वर्ग — ६ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — ४ ॥
+> ॥ ऋषिः — प्रस्कण्वः काण्वः ॥
+> ॥ देवता — उषाः ॥
+> ॥ छन्दः — अनुष्टुप् ॥
+
+*sūkta 49 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 4 | varga 6 | ṛks 4 | ṛṣi: Praskaṇva Kāṇva | devatā: Uṣas | chandas: Anuṣṭubh.*
+
+### Rik 49.1 (pp. 91–94, PDF 107–110)
+
+**Saṃhitā-pāṭha** *(p. 91; accents not reproduced)*
+
+> **उषो भद्रेभिरा गहि दिवश्चिद्रोचनादधि ।**
+> **वहन्त्वरुणप्सव उप त्वा सोमिनो गृहम् ॥ १ ॥**
+
+*uṣo bhadrebhir ā gahi divaś cid rocanād adhi |*
+*vahantv aruṇapsava upa tvā somino gṛham || 1 ||*
+
+**Pada-pāṭha** *(p. 92)*
+
+> उषः । भद्रेभिः । आ । गहि । दिवः । चित् । रोचनात् । अधि ।
+> वहन्तु । अरुणऽप्सवः । उप । त्वा । सोमिनः । गृहम् ॥ १ ॥
+
+*uṣaḥ | bhadrebhiḥ | ā | gahi | divaḥ | cit | rocanāt | adhi |*
+*vahantu | aruṇa-psavaḥ | upa | tvā | sominaḥ | gṛham || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 92)*
+
+> **हे उष उषोदेवते भद्रेभिर्भन्दनीयैः शोभनैर्मार्गैर्दिवोऽन्तरिक्षलोकात् रोचनाद्रोचमानाद्दीप्यमानात् । अधिरुपर्यर्थः । उपरि वर्तमानात् । चिदिति पूजितार्थः । पूजितादेवंविधादन्तरिक्षलोकादा गहि । आ गच्छ । हे उषः अरुणप्सवोऽरुणवर्णा गावः सोमिनः सोमयुक्तस्य यजमानस्य गृहं देवयजनरूपं यज्ञगृहं त्वा त्वामुपवहन्तु । प्रापयन्तु ॥ गहि । गमेर्लोटि बहुलं छन्दसेति शपो लुक् । हेरपित्त्वेन ङित्त्वेऽनुदात्तोपदेशेत्यादिनानुनासिकलोपः । आतो हेरिति लुग्न भवति । असिद्धवदत्राभादित्यनुनासिकलोपस्यासिद्धत्वात् । रोचनात् । रुच दीप्तौ । अनुदात्तेतश्च हलादेरिति युच् । योरनादेशे चित इत्यन्तोदात्तत्वं । अरुणप्सवः । प्सा भक्षणे । प्सान्ति भक्षयन्ति स्तनं पिबन्तीति प्सवो वत्साः । औणादिकः कुप्रत्ययः । आतो लोप इटि चेत्याकारलोपः । अरुणाः प्सवो यासां तास्तथोक्ताः । अत्र वत्सानामारुण्यप्रतिपादनात्तज्जनन्यादीनामपि तथात्वं गम्यते । पैतृकमश्वा अनुहरन्ते मातृकं गावोऽनुहरन्ते । म. १-२-२१-५ [?] इति गोनर्दीयः । तासां चोषोवाहनत्वं निघण्टावुक्तं । अरुण्यो गाव उषसामिति । अरुणशब्दोऽर्तेश्च । उ. ३-६३ [?] इत्युन्नप्रत्ययान्तः । तृणाख्यायां चित् । उ. ३-६४ [?] इत्यत्र चिदित्यनुवृत्तेरन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते ॥**
+
+*he uṣa uṣodevate bhadrebhir bhandanīyaiḥ śobhanair mārgair divo 'ntarikṣalokāt rocanād rocamānād dīpyamānāt | adhir uparyarthaḥ | upari vartamānāt | cid iti pūjitārthaḥ | pūjitād evaṃvidhād antarikṣalokād ā gahi | ā gaccha | he uṣaḥ aruṇapsavo 'ruṇavarṇā gāvaḥ sominaḥ somayuktasya yajamānasya gṛhaṃ devayajanarūpaṃ yajñagṛhaṃ tvā tvām upavahantu | prāpayantu || gahi | gamer loṭi bahulaṃ chandaseti śapo luk | herapittvena ṅittve 'nudāttopadeśety ādinānunāsikalopaḥ | āto her iti lug na bhavati | asiddhavad atrābhād ity anunāsikalopasyāsiddhatvāt | rocanāt | ruca dīptau | anudāttetaś ca halāder iti yuc | yor anādeśe cita ity antodāttatvaṃ | aruṇapsavaḥ | psā bhakṣaṇe | psānti bhakṣayanti stanaṃ pibantīti psavo vatsāḥ | auṇādikaḥ kupratyayaḥ | āto lopa iṭi cety ākāralopaḥ | aruṇāḥ psavo yāsāṃ tās tathoktāḥ | atra vatsānām āruṇyapratipādanāt tajjananyādīnām api tathātvaṃ gamyate | paitṛkam aśvā anuharante mātṛkaṃ gāvo 'nuharante | ma. 1-2-21-5 [?] iti gonardīyaḥ | tāsāṃ coṣovāhanatvaṃ nighaṇṭāv uktaṃ | aruṇyo gāva uṣasām iti | aruṇaśabdo 'rteś ca | u. 3-63 [?] ity unnapratyayāntaḥ | tṛṇākhyāyāṃ cit | u. 3-64 [?] ity atra cid ity anuvṛtter antodāttaḥ | sa eva bahuvrīhau pūrvapadaprakṛtisvaratvena śiṣyate ||*
+
+*(Crowded: the Mahābhāṣya-style number after* gonardīyaḥ*, the two Uṇādi numbers, and the clause "tṛṇākhyāyāṃ cit … cid ity anuvṛtter"; all as read, [?].)*
+
+**Translation:** "O Uṣas, goddess of the dawn, *bhadrebhiḥ*, by lovely, auspicious paths, *divaḥ*, from the middle region, *rocanāt*, from the shining, glowing one — *adhi* has the sense of 'above', being above; *cit* has the sense 'honoured' — from such a honoured middle region *ā gahi*, come. O Uṣas, *aruṇapsavaḥ*, the red-coloured cows, *sominaḥ gṛham*, the house of the sacrificer with Soma, that is, the sacrifice-house that serves as the place of divine worship, *upa vahantu*, let them bring you. *Gahi*: *loṭ* of *gam*, the *śap* dropped by *bahulaṃ chandasi*; since *hi* is *ṅit* by non-*pit*-ness, the nasal drops by *anudāttopadeśa…*; the *luk* of *hi* does not come (*āto heḥ*) because of *asiddhavat*. *Rocanāt*: root *ruca dīptau*; *yuc*; *ana* for *yu*; end-acute by *citaḥ*. *Aruṇapsavaḥ*: root *psā bhakṣaṇe*; *psavaḥ* are the calves that drink the udder; the Uṇādi *ku*-suffix; the *ā* drops; 'those whose calves are red'; by showing the redness of the calves, the redness of their mothers is also understood: 'horses take after the father, cows after the mother' (Mahābhāṣya, as read [?]). In the Nighaṇṭu it is said that the cows are the vehicles of Uṣas: '*aruṇyo gāva uṣasām*'. The word *aruṇa* ends with the suffix *una* after *ṛ* (Uṇ. 3-63 [?]); it is end-acute; this alone remains in the bahuvrīhi by the first member's natural accent."
+
+**Pratipadārtha** *(p. 92)* — "**uṣaḥ** — O goddess Uṣas; **adhi cit** — in the place above, held in honour; **rocanāt** — from the shining; **divaḥ** — from the middle region; **bhadrebhiḥ** — by auspicious paths; **ā gahi** — be gracious and come; (O goddess,) **aruṇapsavaḥ** — red-coloured cows; **sominaḥ** — of the sacrificer who has prepared the Soma juice; **gṛham** — to the sacrificial house (made for the deities); **tvā** — you; **upa vahantu** — let them bring near."
+
+**Bhāvārtha** *(p. 92)* — "O goddess Uṣas, come to this place, by auspicious paths, from the middle region, which shines in the place above and is honoured. May the red-coloured cows bring you to the sacrificial house of the sacrificer who holds the Soma juice."
+
+**English Translation (the source's own, p. 93)** — "Ushas, come by auspicious ways from above the bright region of the firmament ; let the ruddy coloured cows bring you to the dwelling of the offerer of the soma juice."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 93**
+- **bhadrebhiḥ** — "*śobhanair mārgaiḥ*: by excellent paths. Some, such as Vedārthayatna and the like, have explained the word *bhadrebhiḥ* as '*bhadrebhir aśvaiḥ*', with excellent horses. Since in the ṛk neither *mārgaiḥ* nor *aśvaiḥ* is present but only the word *bhadrebhiḥ*, it is not clear what the ṛṣi's intention is in using the word."
+- **aruṇapsavaḥ** — "*aruṇa* is red; *psu* is form (Ni. 3-[?]3 as read); so *aruṇapsavaḥ* means 'those having red forms'. The commentator explains the word as '*aruṇavarṇā gāvaḥ*', red-coloured cows. He says that the sense that the cows bring Uṣas to the sacrificer's house is stated in the Nighaṇṭu section. Since there are red horses among horses, one may explain it as red horses. Or, since at sunrise the Sun's rays are made visible by their red colour, one may also say here 'by red-coloured rays'. In the Nirukta it is said that red cows are the vehicles of the goddess Uṣas (Ni. 1-[?]3 as read)." — **untranslated in the source**:
+
+  > **अरुण्यो गाव उषसाम् ।** *(Ni. 1-[?]3 as read [?])*
+
+  *aruṇyo gāva uṣasām |* — mine and tentative: "the red cows (are) of the Uṣases [i.e. their vehicles]."
+- **sominaḥ** — "*somayuktasya yajamānasya*: of the sacrificer who has made ready the Soma juice in order to offer it to the deity."
+
+**Vyākaraṇa-prakriyā** *(pp. 93–94 — grammar pages, noted briefly)*
+- **gahi**: root *gamḷ gatau*, *bhvādi*; *loṭ*, second person singular *sip*; *serhy apicca* (Pā. 3-4-87 as read) gives *hi* in place of *sip*, which is non-*pit*; *gam + hi*, *śap* would come but *bahulaṃ chandasi* (Pā. 2-4-73 as read) gives its *luk*; *sārvadhātukam apit* (Pā. 1-2-4 as read) makes *hi* *ṅit*; then *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37 as read) drops the nasal *m*: *ga + hi*; here *hi* after an *a*-ending stem would be dropped by *ato heḥ* (Pā. 6-4-105 as read), but the dropping of the nasal is *asiddhavat* by *bhāt* (Pā. 6-4-22 as read) in the *bha*-section, so it does not count as having happened; as if the *m* were still there, *hi* is not dropped; so *gahi*.
+- **rocanāt**: root *ruca dīptau*; *anudāttetaś ca halādeḥ* (Pā. 3-2-149 as read) gives *yuc* after an intransitive root with an unaccented *it*-marker and a consonant-initial; *yo 'nākau* gives *ana*; *pugantalaghūpadhasya ca* gives *guṇa* to the penultimate: *rocana*; ablative singular: *rocanāt*; *citaḥ* (Pā. 6-1-163 as read) makes it end-acute, so *rocana* is end-acute; the single substitute with the case-ending is acute.
+- **aruṇapsavaḥ**: root *psā bhakṣaṇe*, *adādi*; "*psānti bhakṣayanti, stanaṃ pibanti iti psavaḥ vatsāḥ*"; the Uṇādi-formed *ku*-suffix; the *ā* of the root drops by *āto lopa iṭi ca*: *psu*; "*aruṇāḥ psavaḥ yāsāṃ tāḥ*", cows whose calves are red; in general it is known that calves have the qualities of their mothers; the Kannada author quotes the Mahābhāṣya (Pā. Ma. 1-2-[?]) that Patañjali too says "horses take on the father's qualities, cows the mother's": *paitṛkam aśvā anuharante mātṛkaṃ gāvo 'nuharante*; and "that they are the vehicles of Uṣas has been told in the Nighaṇṭu". The word *aruṇa* ends with the suffix *una* given by *ārter ca* (Uṇ. 3-[?]3 as read [?]), where *cit* is carried over from the *tṛṇākhyā* rule; so it is end-acute; the bahuvrīhi leaves it the first member's natural accent, so the end-acute of *aruṇa* stays; *aruṇapsavaḥ* is middle-acute; the unaccented *a* after *ṇ* becomes *svarita*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–48 COMPLETE (printed pp. 1–90 = PDF 17–106). Sūkta 49 begins at the head of printed p. 91 (PDF 107).**
+### Rik 49.2 (pp. 95–98, PDF 111–114)
 
-**Next task:** Sūkta 49 (*uṣo bhadrebhir ā gahi*, Maṇḍala 1, Anuvāka 9, sixth sūkta, **4 Riks**, ṛṣi Praskaṇva Kāṇva, deity Uṣas, Anuṣṭubh): its title, Sāyaṇa's introduction, Kannada anuvāda, heading block (varga "6" [?]) and Rik 1 (Saṃhitā) are on printed p. 91 = PDF 107, identified but **not yet written**. The contents table puts Sūkta 50 at printed p. 106 — check the print. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 107 -l 160 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-107.jpg`). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 95; accents not reproduced)*
+
+> **सुपेशसं सुखं रथं यमध्यस्था उषस्त्वम् ।**
+> **तेना सुश्रवसं जनं प्रावाद्य दुहितर्दिवः ॥ २ ॥**
+
+*supeśasaṃ sukhaṃ rathaṃ yam adhyasthā uṣas tvam |*
+*tenā suśravasaṃ janaṃ prāvādya duhitar divaḥ || 2 ||*
+
+**Pada-pāṭha** *(p. 95)*
+
+> सुऽपेशसम् । सुऽखम् । रथम् । यम् । अधिऽअस्थाः । उषः । त्वम् ।
+> तेन । सुऽश्रवसम् । जनम् । प्र । अव । अद्य । दुहितः । दिवः ॥ २ ॥
+
+*su-peśasam | su-kham | ratham | yam | adhi-asthāḥ | uṣaḥ | tvam |*
+*tena | su-śravasam | janam | pra | ava | adya | duhitaḥ | divaḥ || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 95)*
+
+> **हे उषस्त्वं यं रथमध्यस्थाः अधितिष्ठसि । कीदृशं रथं । सुपेशसं शोभनावयवं शोभनरूपयुक्तं वा । पेश इति रूपनामेति यास्कः । नि. ३-१० [?] । यद्वा । शोभनहिरण्ययुक्तं । पेशः कृशनमिति तन्नामसु पाठात् । सुखं शोभनेन खेनाकाशेन युक्तं । विस्तृतमित्यर्थः । यद्वा । सुखहेतुभूतं । अथवा सुखमिति क्रियाविशेषणं । सुखं यथा भवति तथेत्यर्थः । हे दिवो दुहितर्द्युलोकसकाशादुत्पन्न उषोदेवते तेन रथेनाद्यास्मिन्काले सुश्रवसं शोभनहवियुक्तं जनं यजमानं प्राव । प्रकर्षेण गच्छ ॥ सुपेशसं । पिश अवयवे । अस्मादसुन्प्रत्ययः । निस्त्वाद्याद्युदात्तः पेशस्शब्दः । शोभनं पेशो यस्यासौ सुपेशाः । आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । अध्यस्थाः । तिष्ठतेश्छन्दसि लुङ्लङ्लिट इति वर्तमाने लुङ् गातिस्थेति सिचो लुक् । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । तिङि चोदात्तवतीति गतेरनुदात्तत्वं । तेन । अन्येषामपि दृश्यत इति संहितायां दीर्घः । सुश्रवसं । श्रव इत्यन्ननाम । श्रूयते इति सतः [?] । नि. १०-३ [?] इति यास्कः । सुपेशसमितिवदुत्तरपदाद्युदात्तत्वं । अव । अव रक्षणगतिप्रीतितृप्तीत्युक्तत्वादत्रावतिर्गत्यर्थः । दुहितर्दिवः । परमपि छन्दसेति षष्ठ्यन्तस्य पूर्वामन्त्रिताङ्गवद्भावे सति पदद्वयसमुदायस्याष्टमिकं सर्वानुदात्तत्वं ॥**
+
+*he uṣas tvaṃ yaṃ ratham adhyasthāḥ adhitiṣṭhasi | kīdṛśaṃ rathaṃ | supeśasaṃ śobhanāvayavaṃ śobhanarūpayuktaṃ vā | peśa iti rūpanāmeti yāskaḥ | ni. 3-10 [?] | yadvā | śobhanahiraṇyayuktaṃ | peśaḥ kṛśanam iti tannāmasu pāṭhāt | sukhaṃ śobhanena khenākāśena yuktaṃ | vistṛtam ity arthaḥ | yadvā | sukhahetubhūtaṃ | athavā sukham iti kriyāviśeṣaṇaṃ | sukhaṃ yathā bhavati tathety arthaḥ | he divo duhitar dyulokasakāśād utpanna uṣodevate tena rathenādyāsmin kāle suśravasaṃ śobhanahaviyuktaṃ janaṃ yajamānaṃ prāva | prakarṣeṇa gaccha || supeśasaṃ | piśa avayave | asmād asunpratyayaḥ | nittvād ādyudāttaḥ peśasśabdaḥ | śobhanaṃ peśo yasyāsau supeśāḥ | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | adhyasthāḥ | tiṣṭhater chandasi luṅlaṅliṭa iti vartamāne luṅ gātisthe ti sico luk | aḍāgama udāttaḥ | yadvṛttayogād anighātaḥ | tiṅi codāttavatīti gater anudāttatvaṃ | tena | anyeṣām api dṛśyata iti saṃhitāyāṃ dīrghaḥ | suśravasaṃ | śrava ity annanāma | śrūyata iti sataḥ [?] | ni. 10-3 [?] iti yāskaḥ | supeśasam itivad uttarapadādyudāttatvaṃ | ava | ava rakṣaṇagatiprītitṛptīty uktatvād atrāvatir gatyarthaḥ | duhitar divaḥ | param api chandaseti ṣaṣṭhyantasya pūrvāmantritāṅgavadbhāve sati padadvayasamudāyasyāṣṭamikaṃ sarvānudāttatvaṃ ||*
+
+*(The phrase "śrūyata iti sataḥ" and the numerals after the Nirukta references are crowded, [?]; "tiṣṭhater chandasi" is as I read it.)*
+
+**Translation:** "O Uṣas, *yam ratham adhyasthāḥ*, the chariot you mount — what kind of chariot? *Supeśasam*, with fine parts or of fine form (Yāska: '*peśa* is a name for form', Ni. 3-10 [?]); or with fine gold, *peśaḥ* being read among the names of gold; *sukham*, joined with a fine *kha*, space, that is, spacious; or, the cause of ease; or *sukham* is an adverb: as it may be easy. O *duhitar divaḥ*, daughter of heaven, O Uṣas, *tena rathena*, with that chariot, *adya*, now, *suśravasam janam*, to the sacrificer who has a fine oblation, *pra ava*, go forth. *Supeśasam*: root *piśa avayave*, with *asun*; *peśas* is initial-acute because *asun* is *nit*; 'she who has fine *peśas*'; the second member is initial-acute by *ādyudāttaṃ dvyac chandasi*. *Adhyasthāḥ*: *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; *sic* dropped by *gātisthā…*; the *aṭ* is acute; no all-unaccented, by the *yad*-connexion; the *gati* is unaccented by *tiṅi codāttavati*. *Tena*: the lengthening in the Saṃhitā by *anyeṣām api dṛśyate*. *Suśravasam*: *śravas* is a name for food — '*śrūyate*…' (Ni. 10-3 [?]); the second member initial-acute as in *supeśasam*. *Ava*: since *ava* is stated in the senses of protection, going, pleasure and satisfaction, here the root has the sense of going."
+
+**Pratipadārtha** *(pp. 95–96)* — "**uṣaḥ** — O goddess Uṣas; **tvam** — you; **supeśasam** — furnished with beautiful parts, or of beautiful form, or made of excellent gold; **sukham** — joined with a great expanse (wide), or giving comfort; **yaṃ ratham** — which chariot; **adhyasthāḥ** — you sit in; **tena rathena** — with that chariot; **divaḥ duhitaḥ** — O goddess born of the world of heaven; **adya** — now; **suśravasam** — one who has excellent oblations; **janam** — the sacrificer; **prāva** — go with eagerness."
+
+**Bhāvārtha** *(p. 96)* — "O goddess Uṣas, the chariot you sit in is furnished with fine parts, is of lovely form, and made of excellent gold; it is spacious like the great sky and gives comfort. O goddess, born of the world of heaven, seated in that chariot go with eagerness to the sacrificer who holds excellent oblations."
+
+**English Translation (the source's own, p. 96)** — "Ushas, daughter of heaven, sitting in the beautiful and easy-moving chariot, come to the pious offerer of the oblation."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 96**
+- **supeśasam** — "*peśa* means form (Ni. 3-[?]1 as read); so *supeśasam* means 'of excellent form', beautiful, pleasing to look at. Or, since *peśa* also means gold (*hiraṇya*, Ni. 1-[?]0 as read), *supeśasam* may be said to mean 'made of fine gold'."
+- **sukham** — "*kham* means sky. Since it moves in the sky, the commentator explains *sukham* as 'spacious'. This sense is not quite fitting. He also gives the sense of the adverb: *sukhaṃ yathā bhavati tathā*, 'comfortably'. This sense is the proper one here. *Sukham* may also be said to mean 'got ready with soft seats so that one may sit comfortably', or 'moving easily so as not to tire those sitting in it'."
+- **suśravasam** — "*śrava* is a name for food (Ni. 1[?]0-[?] as read); *śobhanahaviyuktam*: joined with a fine oblation; one who has prepared an excellent oblation (food) and set it ready."
+- **prāva** — "*rakṣaṇārthaṃ prakarṣeṇa gaccha*: go for protection; protect, guard."
+
+**Vyākaraṇa-prakriyā** *(pp. 97–98 — grammar pages, noted briefly)*
+- **supeśasam**: root *piśa avayave*; *sarvadhātubhyo 'sun* (Uṇ. 4-[?]8 as read [?]) gives *asun*; *ñnityādir nityam* (Pā. 6-1-197 as read) — because the suffix *asun* is *nit*, *peśas* is initial-acute; "*śobhanaṃ peśaḥ yasyāḥ saḥ*", a bahuvrīhi: *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119 as read) — a two-vowel initial-acute word standing after *su* is initial-acute also in a bahuvrīhi; so *peśas* stays initial-acute and overrides the compound-accent, as a second member; the *e* after *p* is acute; accusative singular *am*: *supeśasam*.
+- **adhyasthāḥ**: *adhi* a prefix; root *ṣṭhā gatinivṛttau*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *luṅ* in the present; second person singular *sip*, *sthā + si*; *itaś ca* drops the *i* of *sip*; *cli* → *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read) drops the *sic* after *sthā*; the *aṭ* augment comes to the root, since *luṅ* is its cause; the *s* of *sip* → *ru*, *visarga*: *adhi + asthāḥ*; *āgamā udāttāḥ* makes the *aṭ* acute; *yadvṛttān nityam* (Pā. 8-1-66 as read) — because of *yam* (with *yat*) earlier, no all-unaccented; *tiṅi codāttavati* (Pā. 8-1-71 as read) — a *gati* before a verb with acute is unaccented, so *adhi* is unaccented.
+- **tena**: *tad + ṭā*, *tena*; *anyeṣām api dṛśyate* (Pā. 6-3-137 as read) gives the lengthening in the mantra text only: *tenā* in the Saṃhitā.
+- **suśravasam**: "*śrava* is a name for food; *śrūyate*", with *asun*; the second member initial-acute as before by *ādyudāttaṃ dvyac chandasi*; the Kannada author notes that Yāska says the traditionalists use *śrava* as a name of food (Ni. 10-3 [?]).
+- **ava**: the root *ava* is read, with many senses (*rakṣaṇa, gati, kānti, prīti, tṛpti, avagama, praveśa, śravaṇa, svāmi, artha, yācana, kriyā, icchā, dīpti, avāpti, āliṅgana, hiṃsā, ādāna, bhāga, vṛddhi*), and here means going; *loṭ*, second person singular, *śap*; *hi* replaced; the *hi* drops after an *a*-ending stem: *ava*.
+- **duhitar divaḥ**: *subāmantrite parāṅgavat svare* (Pā. 2-1-2 as read) says a *subanta* standing before a vocative acts as a part of the following word; the *vārttika* *param api chandasi* says a *subanta* standing after a vocative acts as part of the preceding vocative; so, here, *divaḥ*, standing after the vocative *duhitaḥ*, acts as its part; *āmantritasya ca* (Pā. 8-1-19 as read) gives the whole two-word group the all-unaccented. **|| 2 ||**
+
+---
+
+### Rik 49.3 (pp. 98–, PDF 114–)
+
+**Saṃhitā-pāṭha** *(p. 98; accents not reproduced)*
+
+> **वयश्चित्ते पतत्रिणो द्विपच्चतुष्पदर्जुनि ।**
+> **उषः प्रारन्नृतूँरनु दिवो अन्तेभ्यस्परि ॥ ३ ॥**
+
+*vayaś cit te patatriṇo dvipac catuṣpad arjuni |*
+*uṣaḥ prārann ṛtūm̐r anu divo antebhyas pari || 3 ||*
+
+**Pada-pāṭha** *(p. 98)*
+
+> वयः । चित् । ते । पतत्रिणः । द्विऽपत् । चतुःऽपत् । अर्जुनि ।
+> उषः । प्र । आरन् । ऋतून् । अनु । दिवः । अन्तेभ्यः । परि ॥ ३ ॥
+
+*vayaḥ | cit | te | patatriṇaḥ | dvi-pat | catuḥ-pat | arjuni |*
+*uṣaḥ | pra | āran | ṛtūn | anu | divaḥ | antebhyaḥ | pari || 3 ||*
+
+*(The print's Pada shows the verb as "ār" with a cluster that I read as* āran*, [?]; the Saṃhitā's* prārann *and the grammar below show* āran*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 98)*
+
+> **हे अर्जुनि शुभ्रवर्णे उष उषोदेवते ते तव ऋतूनु गमनान्यनुलक्ष्य द्विपत् द्विपादं मनुष्यादिकं चतुष्पत् गवादिकं तथा पतत्रिणः पतत्रवन्तः पक्षोपेता वयश्चित् पक्षिणश्च दिवोऽन्तेभ्य आकाशप्रान्तेभ्यः पर्युपरि प्रारन् । प्रकर्षेण गच्छन्ति । रात्र्यन्धकारेणाभिभूताः सर्वे प्राणिनस्त्वदागमानन्तरं चेष्टावन्तो भवन्तीत्यर्थः ॥ पतत्रिणः । पत्लृ गतौ । पतत्यनेनेति पतत्रं । अमिनक्षीत्यादिना । उ. ३-१०२ [?] । अत्रप्रत्ययः । अतो मत्वर्थीये इनिः । द्विपत् । द्वौ पादावस्येति संख्यासुपूर्वस्य । पा. ५-४-१४० [?] । इति पादशब्दस्यान्त्यलोपः समासान्तः । आयस्यादित्वेन भत्वात् पादः पत् । पा. ६-४-१३० । इति पद्भावः । द्विचतुर्भ्यां पादन्नॄर्थेषु बहुव्रीहौ [?] । पा. ६-२-१९८ [?] । इत्युत्तरपदान्तोदात्तत्वं । चतुष्पत् । चत्वारः पादा अस्य । स्वरव्यतिरिक्तं पूर्ववत् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । इणः ष इत्यनुवृत्तावि दुदुपधस्य चाप्रत्ययस्य । पा. ८-३-४१ । इति विसर्जनीयस्य षत्वं । न च परत्वेनास्य विद्धत्वात् कुप्वोः क पौ च । पा. ८-३-३७ । इत्युपध्मानीयादेशः शङ्कनीयः । येन नाप्राप्तिन्यायेन तस्यापवादत्वात् । अपवादेषु परमपि पूर्वं बाधक एवेति वृत्तावुक्तं । आरन् । ऋ गतौ । छन्दसि लुङ्लङ्लिट इति वर्तमाने लुङि सर्तिशास्त्यर्तिभ्यश्चेति च्लेरङादेशः । ऋदृशोऽङि गुण इति गुणः । अडागमः । ऋतून् । ऋ गतौ । अस्मादौणादिको भावे कुप्रत्ययः । अनु । अनुर्लक्षणे । पा. १-४-८४ । इत्यनोः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते । पा. २-३-८ । इति द्वितीया । संहितायां दीर्घादटि समानपाद इति नकारस्य रुत्वं । अत्रानुनासिकः पूर्वस्य तु वेति रोः पूर्वस्य वर्णस्य सानुनासिकत्वं । दिवः । ऊडिदमिति विभक्तिरुदात्ता । अन्तेभ्यः । पञ्चम्याः परावध्यर्थ इति विसर्जनीयस्य सत्वं ॥**
+
+*he arjuni śubhravarṇe uṣa uṣodevate te tava ṛtūnu gamanāny anulakṣya dvipat dvipādaṃ manuṣyādikaṃ catuṣpat gavādikaṃ tathā patatriṇaḥ patatravantaḥ pakṣopetā vayaś cit pakṣiṇaś ca divo 'ntebhya ākāśaprāntebhyaḥ pary upari prāran | prakarṣeṇa gacchanti | rātryandhakāreṇābhibhūtāḥ sarve prāṇinas tvadāgamānantaraṃ ceṣṭāvanto bhavantīty arthaḥ || patatriṇaḥ | patḷ gatau | patatyanena iti patatraṃ | aminakṣīty ādinā | u. 3-102 [?] | atrapratyayaḥ | ato matvarthīye iniḥ | dvipat | dvau pādāv asyeti saṃkhyāsupūrvasya | pā. 5-4-140 [?] | iti pādaśabdasyāntyalopaḥ samāsāntaḥ | āyasyāditvena bhatvāt pādaḥ pat | pā. 6-4-130 | iti padbhāvaḥ | dvicaturbhyāṃ pādannṝrtheṣu bahuvrīhau [?] | pā. 6-2-198 [?] | ity uttarapadāntodāttatvaṃ | catuṣpat | catvāraḥ pādā asya | svaravyatiriktaṃ pūrvavat | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | iṇaḥ ṣa ity anuvṛttāv i duduṣpadhasya cāpratyayasya | pā. 8-3-41 | iti visarjanīyasya ṣatvaṃ | na ca paratvenāsya viddhatvāt kupvoḥ ka pau ca | pā. 8-3-37 | ity upadhmānīyādeśaḥ śaṅkanīyaḥ | yena nāprāptinyāyena tasyāpavādatvāt | apavādeṣu param api pūrvaṃ bādhaka eveti vṛttāv uktaṃ | ārann | ṛ gatau | chandasi luṅlaṅliṭa iti vartamāne luṅi sartiśāstyartibhyaś ceti cler aṅādeśaḥ | ṛdṛśo 'ṅi guṇa iti guṇaḥ | aḍāgamaḥ | ṛtūn | ṛ gatau | asmād auṇādiko bhāve kupratyayaḥ | anu | anur lakṣaṇe | pā. 1-4-84 | ity anoḥ karmapravacanīyatvaṃ | karmapravacanīyayukte | pā. 2-3-8 | iti dvitīyā | saṃhitāyāṃ dīrghād aṭi samānapāda iti nakārasya rutvaṃ | atrānunāsikaḥ pūrvasya tu veti roḥ pūrvasya varṇasya sānunāsikatvaṃ | divaḥ | ūḍidam iti vibhaktir udāttā | antebhyaḥ | pañcamyāḥ parāvadhyartha iti visarjanīyasya satvaṃ ||*
+
+*(Crowded in the print: "ṛtūnu" for "ṛtūn" at the start, the Pāṇini numbers 5-4-140, 6-2-198, 8-3-41, 8-3-37 and the clause on* duduṣpadhasya*, and the Uṇādi number; all as read, [?].)*
+
+**Translation:** "O *arjuni*, O bright-hued one, O Uṣas: *te*, your *ṛtūn anu*, following your goings — *dvipat*, the two-footed, men and the like, *catuṣpat*, the four-footed, cows and the like, and likewise *patatriṇaḥ*, the winged, *vayaś cit*, the birds, *divaḥ antebhyaḥ pari*, from the ends of the sky, above, *pra āran*, set forth: all beings, overcome by the darkness of the night, become active after your coming. *Patatriṇaḥ*: root *patḷ gatau*; 'that by which one flies' is *patatra*; *itra* by the Uṇādi list (Uṇ. 3-102 [?]); *ini* in the possessive sense. *Dvipat*: 'having two feet'; the final of *pāda* drops as a compound-ending; *pat* for *pād* by *pādaḥ pat* (Pā. 6-4-130); the second member end-acute by *dvicaturbhyām…* [?]. *Catuṣpat*: 'having four feet'. *Āran*: root *ṛ gatau*; in the present sense *luṅ*; *aṅ* in place of *cli*; the *guṇa* of the *ṛ*; the *aṭ*. *Ṛtūn*: from *ṛ gatau*, the Uṇādi *ku*-suffix in the abstract sense. *Anu*: *anu* is a *karmapravacanīya* in the sense of 'following'; the accusative where a *karmapravacanīya* is joined; in the Saṃhitā the *n* becomes *ru* by *dīrghād aṭi samānapāde*, with the nasalization of the preceding vowel by *atrānunāsikaḥ pūrvasya tu vā*."
+
+**Pratipadārtha** *(p. 99)* — "**arjuni** — O Uṣas of bright colour; **te** — your; **ṛtūn anu** — following your goings (as soon as you rise); **dvipat** — the beings that have two feet, such as men; **catuṣpat** — and the four-footed, such as cows; **patatriṇaḥ** — the winged; **vayaś cit** — the birds too; **divaḥ** — of the atmosphere; **antebhyaḥ** — from the boundaries (from many corners); **pari** — above; **prāran** — (flocking together) move with eagerness."
+
+**Bhāvārtha** *(p. 99)* — "O Uṣas of bright colour, as soon as you rise the two-footed beings such as men, and the four-footed beings such as cows, begin to move, following your goings. Birds with wings too, flocking together from the many corners of the atmosphere, go about with eagerness."
+
+**English Translation (the source's own, p. 99)** — "O bright Ushas, at your coming in the morning the bipeds (men) and quadrupeds (animals with four legs) begin to move and even the winged birds flock around from the boundaries of the sky."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 99** — "**mukhyābhiprāya** — As soon as it is light at the time of dawn, two-footed men, and four-footed cows and other beings, begin to move about. The birds with wings begin to fly about in flocks in the sky. In the night, because it is dark, there is no room for beings to move. As soon as it is light, all living beings, men, animals, birds and so on, take up their own movements and tasks. Therefore the idea is that all beings welcome your (the time of dawn's) coming."
+
+*(The grammar of Rik 3 begins on p. 100, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–48 COMPLETE; Sūkta 49 in progress: printed p. 99 (PDF 115) reached; title, introduction, anuvāda, heading and Riks 49.1–49.2 complete; Rik 49.3's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics are written; its grammar (p. 100 on) is NOT yet written.**
+
+**Next task:** continue at printed p. 100 (PDF 116): insert "**Rik 49.3, continued** *(from p. 100)*" with the Vyākaraṇa-prakriyā of Rik 3 (words: *patatriṇaḥ*, *dvipat*, *catuṣpat*, *āran*, *ṛtūn*, *anu* …), then Rik 49.4 (the last) and the close of Sūkta 49 (4 Riks; the contents table puts Sūkta 50 at printed p. 106 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–175) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 116 -l 175 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-116.jpg`). Flags for 49.1–3: Anukramaṇikā clause and Āśvalāyana numerals crowded [?]; all Nirukta/Uṇādi/Mahābhāṣya numerals "as read [?]"; in 49.3 the Pada's verb printed "ār…" (read *āran* [?]) and the clause on *ṣatva*/*upadhmānīya* crowded. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
