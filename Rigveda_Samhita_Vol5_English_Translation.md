@@ -678,8 +678,140 @@
 
 ---
 
+## SŪKTA 48 *(printed p. 30 = PDF 46; fifth sūkta of the Ninth Anuvāka)*
+
+**Forty-eighth Sūkta** *(large Kannada title line at the head of p. 30: "nalavattettaneya sūktavu")*
+
+### Pages 30–31 (PDF 46–47) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the words marked [?] are crowded)*
+
+> सह वामेनेति षोडशर्चं पञ्चमं सूक्तं । प्रस्कण्व ऋषिः । बार्हतत्वाद्[?]आयुजो बृहत्यो युजः सतोबृहत्यः । उषा देवता । सह षोळशोषस्यं [?] इत्यत्रानुक्रमणिका । प्रातरनुवाक उषस्ये क्रतौ बार्हते छन्दसीदं सूक्तं । अथोषस्य इति खण्डे सूत्रितं । प्रत्यु अदर्शि सह वामेनेति बार्हतं । आ. ४-१४ [?] । इति । तथाश्विनशस्त्रेऽप्येतत्सूक्तं । प्रातरनुवाकन्यायेन । आ. ६-५ [?] । इत्यतिदिष्टत्वात् ॥
+
+*saha vāmeneti ṣoḍaśarcaṃ pañcamaṃ sūktaṃ | praskaṇva ṛṣiḥ | bārhatatvād [?] āyujo bṛhatyo yujaḥ satobṛhatyaḥ | uṣā devatā | saha ṣoḷaśoṣasyaṃ [?] ity atrānukramaṇikā | prātaranuvāka uṣasye kratau bārhate chandasīdaṃ sūktaṃ | athoṣasya iti khaṇḍe sūtritaṃ | praty u adarśi saha vāmeneti bārhataṃ | ā. 4-14 [?] | iti | tathāśvinaśastre 'py etat sūktaṃ | prātaranuvākanyāyena | ā. 6-5 [?] | ity atidiṣṭatvāt ||*
+
+**Translation** *(mine, tentative; the clause on metre and the Anukramaṇikā words are crowded)*: "'*Saha vāmena*' is the fifth sūkta, of sixteen ṛks. The ṛṣi is Praskaṇva. The odd ṛks are Bṛhatī, the even ṛks Satobṛhatī [? the opening words are crowded]. The deity is Uṣas. The Anukramaṇikā here: '*saha ṣoḍaśoṣasyam*' [?]. In the Prātaranuvāka, at the Uṣasya rite, this sūkta is [used] in the Bārhata metre; it is prescribed in the section '*athoṣasya*': '*praty u adarśi*, *saha vāmena*, the Bārhata' (Āśv. 4-14 [?]). Likewise, this sūkta is [used] in the Āśvina-śastra by the rule of the Prātaranuvāka, as it is extended there (Āśv. 6-5 [?])."
+
+**Anuvāda (Kannada), p. 30** — "The sūkta beginning *saha vāmena* is the fifth sūkta in the ninth anuvāka. It has sixteen ṛks. The ṛṣi of this sūkta is Praskaṇva, the son of Kaṇva. The odd-numbered ṛks of this sūkta, 1, 3, 5 and so on, are in the Bṛhatī metre; the even-numbered ṛks, 2, 4, 6 and so on, are in the Satobṛhatī metre. The deity is Uṣas. The Anukramaṇikā's '*saha ṣoḍaśoṣasyam*' gives the description of the ṛṣi, deity and metre. At the time of reciting the Prātaranuvāka mantras, the ṛks of this sūkta are used as the mantras in Bṛhatī metre connected with the Uṣasya rite. This is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*athoṣasya*', by the sūtra '*praty u adarśi saha vāmeneti*' (Ā. 4-14 [?]). Besides, it is said in the same place (Ā. 6-5) that this sūkta is used for the Śastra mantras of the Aśvins at the time of reciting the Prātaranuvāka mantras."
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४८**
+> ॥ मण्डल — १ ॥ अनुवाक — ९ ॥ सूक्त — ४८ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ४ ॥ वर्ग — ३, ४, ५ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १६ ॥
+> ॥ ऋषिः — प्रस्कण्वः काण्वः ॥
+> ॥ देवता — उषाः ॥
+> ॥ छन्दः — प्राग्गाथं बार्हतं । १, ३, ५, ७, ९, ११, १३, १५ बृहती । २, ४, ६, ८, १०, १२, १४, १६ सतोबृहती ॥
+
+*sūkta 48 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 4 | varga 3, 4, 5 | ṛks 16 | ṛṣi: Praskaṇva Kāṇva | devatā: Uṣas | chandas: Prāgātha–Bārhata — Riks 1, 3, 5, 7, 9, 11, 13, 15 Bṛhatī; Riks 2, 4, 6, 8, 10, 12, 14, 16 Satobṛhatī.*
+
+*(The varga numerals are small and read with doubt. In the Kannada anuvāda the print lists the first group as "1, 3, 5, …" and the second as "2 [printed like 3], 4, 6, …".)*
+
+### Rik 48.1 (pp. 30–34, PDF 46–50)
+
+**Saṃhitā-pāṭha** *(p. 30; accents not reproduced)*
+
+> **सह वामेन न उषो व्युच्छा दुहितर्दिवः ।**
+> **सह द्युम्नेन बृहता विभावरि राया देवि दास्वती ॥ १ ॥**
+
+*saha vāmena na uṣo vyucchā duhitar divaḥ |*
+*saha dyumnena bṛhatā vibhāvari rāyā devi dāsvatī || 1 ||*
+
+*(The print has* vyucchā *with a long* ā *in the Saṃhitā, and the Pada* vi | uccha*; I give both as printed.)*
+
+**Pada-pāṭha** *(p. 31)*
+
+> सह । वामेन । नः । उषः । वि । उच्छ । दुहितः । दिवः ।
+> सह । द्युम्नेन । बृहता । विभावरि । राया । देवि । दास्वती ॥ १ ॥
+
+*saha | vāmena | naḥ | uṣaḥ | vi | uccha | duhitaḥ | divaḥ |*
+*saha | dyumnena | bṛhatā | vibhāvari | rāyā | devi | dāsvatī || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 31)*
+
+> **हे दुहितर्दिवो द्युदेवतायाः पुत्रि उष उषःकालदेवते नोऽस्मदर्थं वामेन धनेन सह व्युच्छ । प्रभातं कुरु । हे विभावर्युषोदेवते बृहता प्रभूतेन द्युम्नेनान्नेन सह व्युच्छ । हे देवि त्वं दास्वती दानयुक्ता सती राया पशुलक्षणेन धनेन सह व्युच्छ ॥ उच्छ । उछी विवासे । दुहितर्दिवः । सुबामन्त्रिते परांगवत्स्वर इत्यत्र परमपि छन्दसि । पा. २-१-२-६ [?] । इति वचनात् दिव इत्यस्य पूर्वाङ्गवद्भावे सत्यामन्त्रितस्य चेति षष्ठ्यामन्त्रितसमुदायस्याष्टमिकं सर्वानुदात्तत्वं । बृहता । बृहन्महतोरुपसंख्यानमिति विभक्तेरुदात्तत्वं । विभावरि । भा दीप्तौ । आतो मनिन्क्वनिब्वनिपश्च इत्यादिना वनिप् । वनो र च इति ङीप् । तत्सन्नियोगेन नकारस्य रेफादेशः । सम्बुद्धौ ह्रस्वत्वं । दास्वती । डुदाञ् दाने । भावेऽसुन्प्रत्ययः । तदस्यास्ति । पा. ५-२-९४ [?] । इति दास्वती । मादुपधायाः इति मतुपो वत्वं । उगितश्चेति ङीप् ॥**
+
+*he duhitar divo dyudevatāyāḥ putri uṣa uṣaḥkāladevate no 'smadarthaṃ vāmena dhanena saha vyuccha | prabhātaṃ kuru | he vibhāvary uṣodevate bṛhatā prabhūtena dyumnenānnena saha vyuccha | he devi tvaṃ dāsvatī dānayuktā satī rāyā paśulakṣaṇena dhanena saha vyuccha || uccha | uchī vivāse | duhitar divaḥ | subāmantrite parāṅgavat svara ity atra param api chandasi | pā. 2-1-2-6 [?] | iti vacanād diva ity asya pūrvāṅgavadbhāve satyāmantritasya ceti ṣaṣṭhyāmantritasamudāyasyāṣṭamikaṃ sarvānudāttatvaṃ | bṛhatā | bṛhanmahator upasaṃkhyānam iti vibhakter udāttatvaṃ | vibhāvari | bhā dīptau | āto manin kvanib vanipaś ca ity ādinā vanip | vano ra ca iti ṅīp | tatsanniyogena nakārasya rephādeśaḥ | sambuddhau hrasvatvaṃ | dāsvatī | ḍudāñ dāne | bhāve 'sun pratyayaḥ | tad asyāsti | pā. 5-2-94 [?] | iti dāsvatī | mādupadhāyāḥ iti matupo vatvaṃ | ugitaś ceti ṅīp ||*
+
+*(The print has* rāyo *where the Saṃhitā has* rāyā *in the bhāṣya's "rāyo paśulakṣaṇena": taken as a misprint; and "nakārasya rephādeśaḥ" is my reading of "rephādeśaḥ" [?].)*
+
+**Translation:** "O *duhitar divaḥ*, daughter of the heavenly deity, O Uṣas, goddess of the time of dawn, *naḥ*, for us, *vāmena*, with wealth, *saha vyuccha*, dawn: make the break of day. O *vibhāvari*, O Uṣas, with *bṛhatā dyumnena*, abundant food, dawn. O *devi*, you, *dāsvatī*, being generous, *rāyā*, with wealth in the form of cattle, dawn. *Uccha*: root *uchī vivāse*. *Duhitar divaḥ*: by the statement that, in the Chandas, even a following word counts as a preceding part for accent (Pā. 2-1-2 vārttika [?]), *divaḥ* acts as a preceding part, and the genitive-and-vocative group gets the all-unaccented of the eighth chapter. *Bṛhatā*: the case-ending is acute by *bṛhanmahator upasaṃkhyānam*. *Vibhāvari*: root *bhā dīptau*; *vanip* by *āto manin…*; *ṅīp* by *vano ra ca*, with *r* for *n*; shortened in the vocative. *Dāsvatī*: root *ḍudāñ dāne*; *asun* in the abstract sense; *matup* ('he has it'), the *v* for *m*; *ṅīp* by *ugitaś ca*."
+
+**Pratipadārtha** *(p. 31)* — "**duhitar divaḥ** — O Uṣas, daughter of the deity of heaven; **naḥ** — for us; **vāmena saha** — with wealth; **vyuccha** — dawn; **vibhāvari** — O Uṣas, who spread radiance; **bṛhatā** — abundant; **dyumnena saha** — with food (dawn); **devi** — O goddess; **dāsvatī** — being endowed with giving; **rāyā** — with wealth in the form of cattle (dawn)."
+
+**Bhāvārtha** *(p. 31)* — "O goddess Uṣas, daughter of heaven, dawn upon us with wealth. O Uṣas, who spread radiance, dawn with abundant food. O goddess, being generous, dawn with wealth in the form of cattle and the like."
+
+**English Translation (the source's own, p. 31)** — "O Ushas, daughter of heaven, dawn upon us with riches ; O brilliant goddess dawn upon us with abundant food ; bountiful goddess, dawn upon us with wealth (of cattle)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 32–33**
+- "The deity of this sūkta is the time of dawn, or the deity who presides over the time of dawn. In the Ṛgveda there are about twenty sūktas that have the Uṣas deity. All of these are sūktas of the highest class: in description, in the joining of words and in the treatment of the subject they are of great importance. The brightness that arises when night is over and before the Sun rises is the time of dawn. That time of dawn must have given great delight to the sages and the people of that time. Therefore they described the time of dawn very well. In general, the time of dawn is imagined as a woman with a body, and the qualities and the ornaments of that deity are variously described. Since light comes to us from the atmosphere, it is natural that the dawn should be described as *duhitā divaḥ*, 'the daughter of the atmosphere, or of heaven'. Since this deity rises every day, she is described in various ways: as a young woman ever new and not past her youth; as one who, as the days pass, reduces men's lifespan; as one who, as soon as she rises, gives joy to all beings; as one who, on rising, drives away the night-wandering Rākṣasas, Piśācas and the like; as the mother of the cows, because in the morning she makes light and causes the cows to come out from the stalls; and, because at sunrise the Sun's rays are slightly red, as one who travels swiftly seated in a chariot to which red horses or bulls are yoked."
+- On the derivation of the word *uṣas* the great sage Yāska's explanation is as follows (**untranslated in the source**; reference "Ni. 2-1[?]9" as read):
+
+  > **उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥** *(Ni. 2-[?] as read [?])*
+
+  *uṣāḥ kasmād ucchatīti satyā rātrer aparaḥ kālaḥ ||* — mine and tentative: "Why is *uṣas* so called? Because (she) *ucchati* (dispels); truly she is the later time of the night."
+
+  The Kannada author gives Yāska's fuller wording: "How does the word *uṣas* arise? '*Ucchatīti satyāḥ, uchī vivāse; vivāsayati hīyaṃ tamāṃsi, tasmād ucchatīty enām asyā uṣā ity etad abhidhānaṃ bhavati. punar iṣu mukhā? rātrer aparaḥ kālaḥ*'" (Ni. 2-[?] as read; Sanskrit as printed, crowded [?]) — उच्छतीति सत्याः उछी विवासे । विवासयति ह्ययं तमांसि तस्मादुच्छतीत्येनमस्या उषा इत्येतदभिधानं भवति । पुनरिषुमुखा ? रात्रेरपरः कालः — *ucchatīti satyāḥ | uchī vivāse | vivāsayati hy ayaṃ tamāṃsi | tasmād ucchatīty enam asyā uṣā ity etad abhidhānaṃ bhavati | punar iṣumukhā | rātrer aparaḥ kālaḥ* — mine and tentative, doubtful: "'She dawns' (*ucchati*) for the true (*satyā*): *uchī* in the sense of 'to drive away'; for she drives away the darknesses; therefore, as she drives away (*ucchati*), this name '*uṣā*' is given to her. Again, whose face is toward the arrow? [crowded] — the later time of the night." The Kannada author explains: "The word *uṣas* arises from the root *uchī*, which means 'to put out'. What is put out? Darkness. Because she gives light by putting out darkness, this deity is named *uṣas*. Who is this deity? She is the last part of the night, that is, the time when, the night being over, the light spreads before the rising of the Sun. This is called '*rātrer aparaḥ kālaḥ*'. Yāska states another sense in another place in his Nirukta:" — **untranslated in the source**:
+
+  > **उषाः वष्टेः कान्तिकर्मण उच्छतेरितरा माध्यमिका ॥** *(Ni. 1[?]-2[?] as read [?])*
+
+  *uṣāḥ vaṣṭeḥ kāntikarmaṇa ucchater itarā mādhyamikā ||* — mine and tentative: "*Uṣas* from *vaṣṭi* (the root *vaś*), 'to shine, to desire'; from *ucchati* [it is] the other, the middle-region one." The Kannada author explains: "that is, the word *uṣas* arises from the root *vaśa kāntau*; because it gives light, this deity is named *uṣas* (as against the sense of 'putting out darkness' given by the root *uchī*, the derivation from *uchī* is to be said to be *mādhyamika*, optional)."
+- "These sages describe this Uṣas deity in many ways: as the dearest of the Sun — since she is born after the night has gone and the light comes — as the daughter of the night, as the sister of the Ādityas, Bhaga and Varuṇa, as the daughter of heaven, as the friend of the Aśvin gods, and with other epithets."
+- **duhitar divaḥ** — "daughter of heaven or of the atmosphere. Since the Sun's light reaches us from the atmosphere (heaven), and since the time of dawn exists as a forerunner of the Sun's rising, the goddess Uṣas is called *duhitā divaḥ*, 'daughter of heaven'" *(the source adds in English: "daughter of heaven")*.
+- **dyumnam** — (**untranslated in the source**; reference "Ni. 5-[?]" as read)
+
+  > **द्युम्नं द्योततेर्यशो वा अन्नं वा ॥** *(Ni. 5-[?] as read [?])*
+
+  *dyumnaṃ dyotater yaśo vā annaṃ vā ||* — mine and tentative: "*dyumna* (is from) *dyotati*, 'it shines': fame, or food." "The word *dyumna* has many meanings: fame or food. In this ṛk the commentator has accepted the sense of food. And since the word *dyumna* is read among the twenty-eight [?] names for wealth beginning *maghaṃ, rekṇaḥ* (Ni. 2-[?] as read), *dyumna* may also mean wealth."
+- **vibhāvarī** — "since *vibhāvarī* is read among the sixteen names of Uṣas beginning *vibhāvarī, sūnarī, bhāsvatī* (Ni. 1-[?]9 as read), *vibhāvarī* means the goddess Uṣas."
+- **dāsvatī** — "*dānayuktā*; root *ḍudāñ dāne*: she who gives; one who gives food, wealth and the like."
+
+**Vyākaraṇa-prakriyā** *(pp. 33–34 — grammar pages, noted briefly)*
+- **uccha**: root *uchī vivāse*, *bhvādi*; used generally with the prefix *vi* before it; *vivāsa* means "completion", an end; *śap*; for the second-person singular *sip* → *hi* by *loṭ*; *hi*'s dropping after an *a*-ending stem: so *uccha*.
+- **duhitar divaḥ**: *subāmantrite parāṅgavat svare* (Pā. 2-1-2 as read [?]) — when accent is being determined, a vocative *subanta* standing before another word is treated as part of that following word; on this sūtra the vārttika "*param api chandasi pūrvāṅgavat*" (Pā. 2-1-2 vārttika, as read "2-1-2-6" [?]) has been begun: "in the Chandas, even a following word is treated as a preceding part"; following it, here *duhitaḥ* is a vocative before; the vocative of the first case is called *āmantrita*; so *divaḥ*, though standing after, acquires the nature of a preceding part; since *duhitaḥ* is a part, *duhitar divaḥ* becomes a single vocative; then *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented to the vocative group, which stands within the *pāda* and not at its head.
+- **bṛhatā**: after *bṛhat*, the instrumental singular *ṭā*; the case-ending should be acute by the rule on case-endings; by the vārttika *bṛhanmahator upasaṃkhyānam* (as printed) the case-ending after *bṛhat* is acute.
+- **vibhāvarī**: root *bhā dīptau*, *adādi*; *ato manin kvanib vanipaś ca* (Pā. 3-2-74 as read [?]) — whether the word be a *subanta* or a prefix standing as *upapada*, the suffixes *manin* etc. come after a root ending in *a* in the Chandas; here, the prefix *vi* being *upapada* (a word pronounced near is called *upapada*), *vanip* after *bhā*: *vibhāvan*, a stem in *n*; *vano ra ca* (Pā. 4-1-7 as read) — *ṅīp* after a stem ending in *van* [or *vana*], and *r* in place of *n*: *vibhāvarī*; *yū strī ākhyau nadī* (Pā. 1-4-3 as read) gives the name *nadī*; *ambārthanadyor hrasvaḥ* (Pā. 7-3-107 as read) shortens a *nadī*-ending stem in the vocative; *eṅhrasvāt sambuddheḥ* (Pā. 6-1-69 as read) drops *su* after a short-ending word in the vocative: *vibhāvari*.
+- **dāsvatī**: root *ḍudāñ dāne*, *juhotyādi*; *sarvadhātubhyo 'sun* (Uṇ. 4-[?]8 as read [?]) gives *asun* in the abstract sense; the stem *dāsas*, ending in *s*; "*dāḥ = dānam asyāsti*" — *tadasyāstyasminniti matup* (Pā. 5-2-94 as read [?]) gives *matup*; *dās + matup*; *mādupadhāyāś ca matoḥ vo 'yavādibhyaḥ* (Pā. 8-2-9 as read [?]) — because an *a* is the penultimate, the *m* of *matup* becomes *v*: *dāsvat*; when the feminine is intended, *ugitaś ca* (Pā. 4-1-6 as read) gives *ṅīp* to a *prātipadika* ending in an *ugit*-suffix (*uk* is a marker in *matup*, so it is *ugit*): *dāsvatī*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 COMPLETE (printed pp. 1–29 = PDF 17–45). Sūkta 48 begins at the head of printed p. 30 (PDF 46).**
+### Rik 48.2 (pp. 35–, PDF 51–)
 
-**Next task:** Sūkta 48 (*saha vāmena*, Maṇḍala 1, Anuvāka 9, fifth sūkta, **16 Riks**, ṛṣi Praskaṇva Kāṇva, deity Uṣas, Prāgātha–Bārhata: odd Riks Bṛhatī, even Satobṛhatī): its title, Sāyaṇa's introduction, Kannada anuvāda, heading block and Rik 1 (Saṃhitā) are on printed p. 30 = PDF 46, identified but **not yet written**; Rik 1's Pada is on p. 31. The contents table puts Sūkta 49 at p. 91. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 46 -l 120 Rig_Vol5.pdf /tmp/x/w` (file names zero-padded: `w-046.jpg`). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 35; accents not reproduced)*
+
+> **अश्वावतीर्गोमतीर्विश्वसुविदो भूरि च्यवन्त वस्तवे ।**
+> **उदीरय प्रति मा सूनृता उषश्चोद राधो मघोनाम् ॥ २ ॥**
+
+*aśvāvatīr gomatīr viśvasuvido bhūri cyavanta vastave |*
+*ud īraya prati mā sūnṛtā uṣaś coda rādho maghonām || 2 ||*
+
+**Pada-pāṭha** *(p. 35)*
+
+> अश्वऽवतीः । गोऽमतीः । विश्वऽसुविदः । भूरि । च्यवन्त । वस्तवे ।
+> उत् । ईरय । प्रति । मा । सूनृताः । उषः । चोद । राधः । मघोनाम् ॥ २ ॥
+
+*aśva-vatīḥ | go-matīḥ | viśva-suvidaḥ | bhūri | cyavanta | vastave |*
+*ut | īraya | prati | mā | sūnṛtāḥ | uṣaḥ | coda | rādhaḥ | maghonām || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 35)*
+
+> **अश्वावतीरश्वैरुपेता गोमतीर्बहुभिर्गोभिर्युक्ता विश्वसुविदः कृत्स्नस्य धनस्य सुष्ठु लम्भयित्र्य उषोदेवता वस्तवे प्रजानां निवासाय भूरि प्रभूतं यथा भवति तथा च्यवन्त । प्राप्ताः । हे उषोदेवते मा प्रति मामुद्दिश्य सूनृताः प्रियहितवाचा उदीरय । ब्रूहि । मघोनां धनवतां सम्बन्धि राधो धनं चोद । अस्मदर्थं प्रेरय ॥ अश्वावतीः । मन्त्रे सोमाश्वेन्द्रियविश्वदेव्यस्य मतौ । पा. ६-३-१३१ [?] । इति पूर्वपदस्य दीर्घत्वं । वा छन्दसीति पूर्वसवर्णदीर्घनिषेधस्य पाक्षिकस्योक्तेः पूर्वसवर्णदीर्घत्वं । च्यवन्त । च्युङ् गतौ । लङि बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । वस्तवे । वस निवासे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । ईरय । ईर गतौ कम्पने च । हेतुमति णिच् । चोद । चुद सञ्चोदने चौरादिकः । लोटि छन्दस्युभयथेति कप आर्धधातुकत्वात् णेरनितीति णिलोपः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः । पादादित्वान्निघाताभावः । मघोनां । षष्ठीबहुवचने श्वयुवमघोनामतद्धिते । पा. ६-४-१३३ [?] । इति संप्रसारणं ॥**
+
+*aśvāvatīr aśvair upetā gomatīr bahubhir gobhir yuktā viśvasuvidaḥ kṛtsnasya dhanasya suṣṭhu lambhayitryā uṣodevatā vastave prajānāṃ nivāsāya bhūri prabhūtaṃ yathā bhavati tathā cyavanta | prāptāḥ | he uṣodevate mā prati mām uddiśya sūnṛtāḥ priyahitavācā udīraya | brūhi | maghonāṃ dhanavatāṃ sambandhi rādho dhanaṃ coda | asmadarthaṃ preraya || aśvāvatīḥ | mantre somāśvendriyaviśvadevyasya matau | pā. 6-3-131 [?] | iti pūrvapadasya dīrghatvaṃ | vā chandasīti pūrvasavarṇadīrghaniṣedhasya pākṣikasyokteḥ pūrvasavarṇadīrghatvaṃ | cyavanta | cyuṅ gatau | laṅi bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | vastave | vasa nivāse | tumarthe sesen iti tavenpratyayaḥ | nittvād ādyudāttatvaṃ | īraya | īra gatau kampane ca | hetumati ṇic | coda | cuda sañcodane caurādikaḥ | loṭi chandasy ubhayatheti kapa ārdhadhātukatvāṇ ṇer aniti ṇilopaḥ | śapaḥ pittvād anudāttatve dhātusvaraḥ | pādādittvān nighātābhāvaḥ | maghonāṃ | ṣaṣṭhībahuvacane śvayuvamaghonām ataddhite | pā. 6-4-133 [?] | iti saṃprasāraṇaṃ ||*
+
+*(The print reads "somāścendriya…" in the first rule-name; I give "somāśvendriya…" [?]. The sentence "ṇer aniṭi" is the print's "ṇerani…"; the second pāda of "coda" crowded.)*
+
+**Translation:** "*Aśvāvatīḥ*, furnished with horses, *gomatīḥ*, joined with many cows, *viśvasuvidaḥ*, who well procure all wealth — the dawns, the goddess Uṣas in many forms — *vastave*, for the dwelling of the people, *bhūri*, abundantly, *cyavanta*, have arrived. O goddess Uṣas, *mā prati*, turning to me, *sūnṛtāḥ*, kind and beneficial words, *ud īraya*, utter, speak; *maghonām*, of those who have wealth, *rādhaḥ*, the wealth, *coda*, send, impel for us. *Aśvāvatīḥ*: the first member is lengthened by 'in a mantra, before *mati*' (Pā. 6-3-131 [?]); since the prohibition of the homogeneous lengthening is optional in the Chandas, the lengthening is allowed. *Cyavanta*: root *cyuṅ gatau*; in the imperfect the *aṭ* does not come, by *bahulaṃ chandasy amāṅyoge 'pi*. *Vastave*: root *vasa nivāse*; *tavenū*; initial-acute because *nit*. *Īraya*: root *īra gatau kampane ca*; *ṇic* in the causative. *Coda*: root *cuda sañcodane*, of the *curādi* class; in the imperative, *ṇi* drops by *ṇer aniṭi* because *kap* is an *ārdhadhātuka*; the root-accent; because it stands at the head of a *pāda*, no all-unaccented. *Maghonām*: *saṃprasāraṇa* in the genitive plural by *śvayuvamaghonām ataddhite*."
+
+*(The Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 2 begin on p. 36, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 35 (PDF 51) reached; introduction, heading and Rik 48.1 complete; Rik 48.2's Saṃhitā, Pada and Sāyaṇa-bhāṣya (with translation and grammatical tail) written; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 36 onward) are NOT yet written.**
+
+**Next task:** continue at printed p. 36 (PDF 52): insert "**Rik 48.2, continued** *(from p. 36)*" with the Pratipadārtha etc.; then Riks 3–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 46–120) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 52 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-052.jpg`). Flags for 48.1–2: Anukramaṇikā clause and Āśvalāyana numerals crowded; Nirukta passages in the Special Topics partly crowded, glosses tentative; the print's bhāṣya gives *rāyo* for *rāyā*; sūtra numerals "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
