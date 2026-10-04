@@ -5961,8 +5961,61 @@
 
 ---
 
+### Rik 54.8 (pp. 328–330, PDF 344–346; metre Triṣṭubh)
+
+**Saṃhitā-pāṭha** *(p. 328; accents printed, not reproduced)*
+
+> **असमं क्षत्रमसमा मनीषा प्र सोमपा अपसा सन्तु नेमे ।**
+> **ये त इन्द्र ददुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ॥ ८ ॥**
+
+*asamaṃ kṣatram asamā manīṣā pra somapā apasā santu neme |*
+*ye ta indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca || 8 ||*
+
+**Pada-pāṭha** *(p. 328)*
+
+> असमम् । क्षत्रम् । असमा । मनीषा । प्र । सोमऽपाः । अपसा । सन्तु । नेमे ।
+> ये । ते । इन्द्र । ददुषः । वर्धयन्ति । महि । क्षत्रम् । स्थविरम् । वृष्ण्यम् । च ॥ ८ ॥
+
+*asamam | kṣatram | asamā | manīṣā | pra | soma-pāḥ | apasā | santu | neme |*
+*ye | te | indra | daduṣaḥ | vardhayanti | mahi | kṣatram | sthaviram | vṛṣṇyam | ca || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 328)*
+
+> **इन्द्रस्य क्षत्रं बलमसमम् । न केनचित्समम् । सर्वाधिकमित्यर्थः । तथा मनीषा बुद्धिश्चासमा । न कस्यापि बुद्ध्या समाना । सर्वं वस्तु विषयीकरोतीत्यर्थः । नेमे इति सर्वनामशब्द एतच्छब्दसमानार्थः । नेमे एते सोमपाः सोमस्य पातारो यजमाना अपसा कर्मणा प्र सन्तु । प्रवृद्धा भवन्तु । हे इन्द्र ते तव ददुषो हविर्दत्तवन्तो ये त्वदीयं महि महत् क्षत्रं बलं स्थविरं स्थूलं प्रवृद्धं वृष्ण्यं वृषत्वं पुंस्त्वं च वर्धयन्ति प्रवृद्धं कुर्वन्ति । यद्वा । ददुषो यजमानेभ्यो यागफलं दत्तवतस्तव ॥**
+
+*indrasya kṣatraṃ balam asamam | na kenacit samam | sarvādhikam ity arthaḥ | tathā manīṣā buddhiś cāsamā | na kasyāpi buddhyā samānā | sarvaṃ vastu viṣayīkarotīty arthaḥ | neme iti sarvanāmaśabda etacchabdasamānārthaḥ | neme ete somapāḥ somasya pātāro yajamānā apasā karmaṇā pra santu | pravṛddhā bhavantu | he indra te tava daduṣo havirdattavanto ye tvadīyaṃ mahi mahat kṣatraṃ balaṃ sthaviraṃ sthūlaṃ pravṛddhaṃ vṛṣṇyaṃ vṛṣatvaṃ puṃstvaṃ ca vardhayanti pravṛddhaṃ kurvanti | yadvā | daduṣo yajamānebhyo yāgaphalaṃ dattavatas tava ||*
+
+*(The tail of the bhāṣya, pp. 328 foot: on* neme *(*traya… sarvādi*, the *sarvanāma*-designation; *jasaḥ śī*; the accent by *tva sama sima nema*… *phiṭ sūtra* 4-… as read [?]),* daduṣaḥ *(*ḍudāñ dāne*, *kvasu* for *liṭ*; reduplication; *ātolopa iṭi ca*; *vasoḥ saṃprasāraṇa*; *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ*; *śāsivasighasīnāṃ ca*),* mahi *(*maha pūjāyām*, Uṇādi *in*),* sthaviram *(*ṣṭhā gatinivṛttau*, *kirac* by* ajirośiraśithilasthirasphirasthavira…*, Uṇ. 1-… as read [?]) — is characterized and echoed in the Kannada notes below.)*
+
+**Translation of the bhāṣya:** "*Indra's kṣatra*, strength, is *asamam*, equal to none: surpassing all, is the sense. And his *manīṣā*, wisdom, is also *asamā*, equal to none: no one's wisdom is like it; it takes in every object. *Neme* is a pronoun with the sense of *ete*, 'these': *neme somapāḥ*, these sacrificers, drinkers of soma, *apasā*, by rite, *pra santu*: may they grow great. O Indra, those *daduṣaḥ*, givers of oblations to you, who increase your *mahi kṣatram*, great strength, *sthaviram*, vast, enlarged, and *vṛṣṇyam*, manliness: they make it grow. Or: *daduṣaḥ* — of you who have given to the sacrificers the fruit of the sacrifice."
+
+**Pratipadārtha** *(p. 329)* — "(**Indrasya**) **kṣatram** — the strength; **asamam** — has no equal (it exceeds the strength of all); **manīṣā** — also the wisdom; **asamā** — is unequalled; **neme somapāḥ** — these sacrificers who drink the soma juice; **apasā** — by their pure rites; **pra santu** — may they grow great (may they obtain strength and wisdom equal to Indra's); **indra** — O Indra; **te** — your (or of you who give the sacrificers the right fruits); **daduṣaḥ** — those who offer oblations; **ye** — which sacrificers; **mahi** — your great; **kṣatram** — strength; **sthaviram** — vast; **vṛṣṇyam ca** — and manly vigour; **vardhayanti** — make to grow; may they grow great."
+
+**Bhāvārtha** *(p. 329)* — "O Indra, your strength is unequalled, and your wisdom is unequalled. May these sacrificers, drinkers of the soma juice, grow great by their pure rites, and obtain strength and wisdom equal to Indra's. O Indra, the sacrificers who offer oblations to you make your great strength and your vast manly vigour grow."
+
+**English Translation (the source's own, p. 329)** — "Peerless is his power; peerless is his wisdom; may these drinkers of the soma-juice become equal to him by the pious act, for they, Indra, who present oblations, to your augment your vast strength and your manly vigour."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 329–330**
+- **kṣatram asamam** — "Indra's power of *kṣatra* — the ability to destroy enemies — is greater than that of all. The sense is that none equal Indra in qualities such as valour."
+- **neme** — "This is a pronoun. It has the sense of the word *etad* ('this'): *neme* means 'these'."
+- **somapāḥ** — "Those who drink the soma juice, the sacrificers."
+- **apasā** — "The word *apas* means rites such as sacrifice (Ni. 2-1 as read [?])."
+- **daduṣaḥ** — "It must be understood that this is both the nominative plural and the genitive singular. As nominative plural it has the sense 'those who give oblations'; as genitive singular it is also used as an epithet of Indra, in the sense of 'Indra who gives the fruit of the sacrifice to sacrificers'."
+
+**Vyākaraṇa-prakriyā** *(p. 330 — grammar page, noted briefly)*
+- **somapāḥ**: "*somaṃ pibanti iti somapāḥ*"; *pā pāne*; *kvip*; since the *kāraka* is first, *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta* final member.
+- **santu**: *as bhuvi*, *adādi*; *jhoṅtaḥ* (Pā. 7-1-3 as read [?]) gives *ant*; *eru ruḥ* gives *u*; *śnasor allopaḥ* drops the *a* of the root: *santu*; *tiṅ atiṅaḥ*, *nighāta*.
+- **neme**: since it is read in the *sarvādi* list, *sarvādīni sarvanāmāni* gives the *sarvanāma*-designation; when *jas* follows, *jaśaḥ śī* (Pā. 7-1-17) gives *śī* for *jas*; *anekāl śit sarvasya* makes it replace the whole; *ādguṇaḥ*: *neme*; since *tva sama sima nema* (Phiṭ-sūtra) would give all-*anudātta*, *vyatyayo bahulam* gives the initial acute.
+- **daduṣaḥ**: *ḍudāñ dāne*; *kvasuś ca* gives *kvasu* for *liṭ*; reduplication; the reduplicative vowel shortened; *dadā + vas*: *ātolopa iṭi ca* drops the *ā*; *vyatyayo bahulam* gives *śas*-substitution for *jas*; *ārdhadhātukasyeḍ valādeḥ* would give *iṭ* and *vasoḥ saṃprasāraṇam* the *saṃprasāraṇa* of *v*; since *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ* the *saṃprasāraṇa* takes precedence even over *iṭ*; *saṃprasāraṇāc ca* gives the earlier form; *śāsivasighasīnāṃ ca* gives *ṣatva*: *daduṣaḥ*; since the suffix is initial-acute, *daduṣaḥ* is middle-acute.
+- **mahi**: *maha pūjāyām*; *uṇādayo bahulam* gives *in*; *nit*, so the initial acute.
+- **sthaviram**: *ṣṭhā gatinivṛttau*; *ajirośiraśithilasthirasphirasthavira…* (Uṇ. 1-… as read [?]) the suffix *kirac* is irregularly given; "*nipāta*" is the irregular utterance including operations not obtainable by other rules; hence the initial acute. **|| 8 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.7 complete (through printed p. 327, PDF 343). Rik 54.8 (Triṣṭubh) begins at the head of p. 328 (PDF 344) — NOT yet written; nor Riks 54.9–54.11.**
+---
 
-**Next task:** continue at printed p. 328 (PDF 344) with **Rik 54.8**, then Riks 9–11 (Triṣṭubh: 8, 9, 11) and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.8 complete (through printed p. 330, PDF 346). Rik 54.9 (Triṣṭubh) begins at the head of p. 331 (PDF 347) — NOT yet written; nor Riks 54.10–54.11.**
+
+**Next task:** continue at printed p. 331 (PDF 347) with **Rik 54.9**, then Riks 10 (Jagatī) and 11 (Triṣṭubh) and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]; Rik 8 Nirukta numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
