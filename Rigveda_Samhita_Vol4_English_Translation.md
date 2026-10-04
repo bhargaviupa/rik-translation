@@ -7311,10 +7311,161 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 42.5, continued** *(from p. 451)*
+
+**English Translation (the source's own, p. 450–451)** — "O wise and handsome Pushan, we entreat you that protection which you extended to our ancestors" *(the sentence stops here in the print; no full stop)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 451**
+- **mantumaḥ** — "*mana jñāne | manturjñānam asyāstīti mantumān tasya sambuddhiḥ mantumaḥ*: one possessed of knowledge, intelligent: 'wise, sagacious, prudent &c.'" (the English words are the source's).
+- **dasra** — "*dasi daṃsanadarśanayoḥ | darśanīya | yadvā dasu upakṣaye | vairiṇām upakṣayakārin*: handsome, or destroyer of enemies: 'Handsome or destroyer of foes'."
+- **avaḥ** = *rakṣaṇam* — "protection."
+- **yena pitṝn acodayaḥ** — "the intention: as you gave protection to our forefathers, or elders, in former times, give protection to us also."
+
+**Vyākaraṇa-prakriyā** *(p. 451 — grammar page, noted briefly)*
+- **dasra**: root *dasi daṃsanadarśanayoḥ*, first class; *idit*, so *idito num dhātoḥ* would give *num*, which is to be prevented by *āgamaśāstram anityam*; or the root *dasu upakṣaye*, of the *divādi* class, is taken; whichever it is, it is one root; then the suffix *rak* by *spāyitañci…* [Uṇ.].
+- **mantumaḥ**: root *mana jñāne* of the *divādi* class; *kamimanijanigāhāyāhibhyaś ca* [Uṇ. 1-73 as read]: *tu* in the abstract; *titutratatha…* prohibits *iṭ*; *man + tu*, *anusvāra*, *parasavarṇa*; *mantu* means knowledge; "*manturasyāsti*"; *tadasyāsty asminn iti matup*; *mantumat*; then the vocative *su*; *matuvasor ru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — [Pā. 8-3-1 as read]: in the Veda, *ru* for the final of a stem ending in *matup* or *vasu* in the vocative singular; *mantumar + su*; *halṅyābbhyo…* the loss of *su*; *kharavasānayor visarjanīyaḥ* the visarga.
+- **acodayaḥ**: root *cuda saṃcodane*, tenth class; *satyāpapāśa…* gives *ṇic*; *luṅ*, madhyama singular *sip*, *śap*; the augment *aṭ*; *acud + i + a + si*; because of *ṇic* the *laghūpadhaguṇa*; because of *śap* *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *e*, *ay*-substitution; *itaś ca* the loss of the *i*; *ru*, visarga. Rik 5 ends here (*|| 5 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 450 (PDF 464) reached; introduction, heading and Riks 42.1–42.4 complete; Rik 42.5's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the first words of its English written (the English sentence continues on p. 451).**
+### Rik 42.6 (pp. 452–454, PDF 466–468)
 
-**Next task:** continue at printed p. 451 (PDF 465) with the rest of the English, then the Special Topics and grammar of Rik 42.5, then Riks 6–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 465 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 452; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) introduction: Gṛhya-sūtra reference 3-8-10 (Sanskrit) vs 3-2-10 (Kannada) [?]; Anukramaṇikā clause "*pauṣṇam*" read with doubt; (3) Rik 1: the bhāṣya is crowded and partly garbled in the middle (translation of those lines tentative); the Special Topics essay on Pūṣan quotes eight Ṛgveda passages untranslated in the source — my glosses are tentative, all reference numerals [?]; the *pra ṇaḥ* / *upasargād anotparaḥ* argument summarized from crowded print; (4) Rik 2: the root *śīṅ*/*śīḍ* and *iñjśīṅbhyāṃ…* suffix-name for *duḥśevaḥ*, and the vārttika on *bahulaṃ chandasi* (guṇa-prohibition) are crowded [?]; (5) Rik 3: the grammatical tail (the sūtra naming *ini* for *paripanthin*; the *rāt sasya* clause) is crowded [?]; the source's English lacks a comma ("a thief a deceiver"); (6) Rik 4: the Nirukta/Nighaṇṭu list "*tṛpsuḥ takvā …*" is abbreviated in the print; the source's English is overprinted ("both stenls") — read as "both steals" [scan defect]; (7) Rik 5: one word after "*aṅgiraḥprabhṛtīn*" in the bhāṣya is crowded [?]; (8) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
+> **अधा नो विश्वसौभग हिरण्यवाशीमत्तम ।**
+> **धनानि सुषणा कृधि ॥ ६ ॥**
+
+*adhā no viśvasaubhaga hiraṇyavāśīmattama |*
+*dhanāni suṣaṇā kṛdhi || 6 ||*
+
+**Pada-pāṭha** *(p. 452)*
+
+> अध । नः । विश्वऽसौभग । हिरण्यवाशीमत्ऽतम ।
+> धनानि । सुऽसना । कृधि ॥ ६ ॥
+
+*adha | naḥ | viśva-saubhaga | hiraṇyavāśīmat-tama |*
+*dhanāni | su-sanā | kṛdhi || 6 ||*
+
+*(The Saṃhitā prints* adhā *and the Pada* adha*; the Pada has* su-sanā *with* s*, the Saṃhitā and the bhāṣya* suṣaṇā *— as printed.)*
+
+**Sāyaṇa-bhāṣya** *(p. 452)*
+
+> **हे विश्वसौभग कृत्स्नधनयुक्त । यद्वा कृत्स्नसौभाग्ययुक्त हिरण्यवाशीमत्तम अतिशयेन सुवर्णमयायुधवन् । पूषन् अध पूर्वोक्तास्मदीयप्रार्थनानन्तरं नोऽस्माकं धनानि सुवर्णमणिमुक्तादीनि सुषणा सुष्ठु दानयुक्तानि कृधि । कुरु ॥ अध । अथशब्दे धत्वं छान्दसं । निपातस्य चेति संहितायां दीर्घत्वं । विश्वसौभग । सुभगान्मन्त्र इत्युद्गात्रादिषु पाठादण्भावेऽञ् । पा. ४-१-१२९ [?] । हृद्भगसिन्ध्वन्ते पूर्वपदस्य च । पा. ७-३-१९ । इत्युत्तरपदवृद्धौ प्राप्तायां सत्यां सर्वविधीनां छन्दसि विकल्पितत्वादुत्तरपदवृद्धिर्न भवतीति वृत्त्वाप्युक्तं । विश्वानि सौभगानि यस्यासौ विश्वसौभगः । आमन्त्रितनिघातः । हिरण्यवाशीमत्तम । हिरण्यमयी वाशी । तदेषामस्तीति हिरण्यवाशीमन्तः । अतिशयेन हिरण्यवाशीमान् हिरण्यवाशीमत्तमः । आमन्त्रितनिघातः । सुषणा । वन षण सम्भक्तौ । सुखेन सम्भज्यन्त इति सुषणानि । ईषद्दुःसुष्विति खल् । शेश्छन्दसीति शेर्लोपः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं । कृधि । डुकृञ् करणे । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् ॥**
+
+*he viśvasaubhaga kṛtsnadhanayukta | yadvā kṛtsnasaubhāgyayukta hiraṇyavāśīmattama atiśayena suvarṇamayāyudhavan | pūṣan adha pūrvoktāsmadīyaprārthanānantaraṃ no 'smākaṃ dhanāni suvarṇamaṇimuktādīni suṣaṇā suṣṭhu dānayuktāni kṛdhi | kuru || adha | athaśabde dhatvaṃ chāndasaṃ | nipātasya ceti saṃhitāyāṃ dīrghatvaṃ | viśvasaubhaga | subhagān mantra ity udgātrādiṣu pāṭhād aṇ bhāve 'ñ | pā. 4-1-129 [?] | hṛdbhagasindhvante pūrvapadasya ca | pā. 7-3-19 | ity uttarapadavṛddhau prāptāyāṃ satyāṃ sarvavidhīnāṃ chandasi vikalpitatvād uttarapadavṛddhir na bhavatīti vṛttvāpy uktaṃ | viśvāni saubhagāni yasyāsau viśvasaubhagaḥ | āmantritanighātaḥ | hiraṇyavāśīmattama | hiraṇyamayī vāśī | tad eṣām astīti hiraṇyavāśīmantaḥ | atiśayena hiraṇyavāśīmān hiraṇyavāśīmattamaḥ | āmantritanighātaḥ | suṣaṇā | vana ṣaṇa sambhaktau | sukhena sambhajyanta iti suṣaṇāni | īṣad-duḥ-suṣu iti khal | śeś chandasīti śer lopaḥ | liti iti pratyayāt pūrvasyodāttatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ | kṛdhi | ḍukṛñ karaṇe | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhir ādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk ||*
+
+**Translation:** "O *viśvasaubhaga*, possessed of all wealth — or possessed of all good fortune — *hiraṇyavāśīmattama*, exceedingly possessed of golden-axed weapons [*vāśī* = a weapon]; Pūṣan — *adha*, then, after this our prayer spoken above, *naḥ*, to us, *dhanāni*, riches — gold, gems, pearls and so on — *suṣaṇā*, well-given, *kṛdhi*, make. *Adha*: the *dha* for *tha* in the word *atha* is Vedic; the lengthening in the Saṃhitā by *nipātasya ca*. *Viśvasaubhaga*: since *subhaga* and *mantra* are read in the *udgātrādi* group, *añ* in the abstract by *añ* [Pā. 4-1-129 [?]]; *vṛddhi* of the latter member would be obtained by *hṛdbhagasindhvante pūrvapadasya ca* [Pā. 7-3-19]; but since all operations are optional in the Veda the commentator [*vṛttikāra*] says there is no *vṛddhi* of the latter member; '*viśvāni saubhagāni yasya*': *viśvasaubhagaḥ*; unaccented as a vocative. *Hiraṇyavāśīmattama*: '*hiraṇyamayī vāśī*', a golden axe/weapon; '*tad eṣām asti*': *hiraṇyavāśīmantaḥ*; 'very much so': *hiraṇyavāśīmattamaḥ*. *Suṣaṇā*: root *vana ṣaṇa sambhaktau*; '*sukhena sambhajyante*': *suṣaṇāni*, [things] easily enjoyed; *khal* by *īṣad-duḥ-suṣu*; loss of *śi* by *śeś chandasi*. *Kṛdhi*: root *ḍukṛñ karaṇe*; by *śruśṛṇupṛkṛvṛbhyaś chandasi* the substitute *dhi* for *hi*; the *vikaraṇa* elided by *bahulaṃ chandasi*."
+
+**Pratipadārtha** *(pp. 452–453)* — "**viśvasaubhaga** — O you who are united with all wealth, or with all good fortune; **hiraṇyavāśīmattama** — Pūṣan, who have exceedingly golden weapons; **adha** — after the earlier prayer [of ours]; **naḥ** — to us; **dhanāni** — riches made of gold, diamonds, cat's-eye gems and so on; **suṣaṇā** — [become] given in noble gifts; **kṛdhi** — make (give as much as we wish)."
+
+**Bhāvārtha** *(p. 453)* — "O Pūṣan, you are possessed of all wealth, and you bear weapons made of gold. Now that we have prayed to you, give us wealth in the form of gold, diamonds and so on, and other things that we need, as much as we wish."
+
+**English Translation (the source's own, p. 453)** — "O Pushan, you are possessed of all prosperity and well equipped with golden weapons ; bestow upon us riches that may be accepted." *(The source's heading for this English reads "English Translaion" — a misprint [sic].)* 
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 453**
+- **adhā** — "in place of the word *atha* the word *adha* is used, for the convenience of the Veda: *dha* for *tha*; and in the Saṃhitā text *dha* may also be long."
+- **viśvasaubhaga** = *viśvāni saubhagāni yasyāsau viśvasaubhagaḥ* — "possessed of all wealth, or of all good fortune."
+- **hiraṇyavāśīmattama** — "*hiraṇyamayī vāśī | tad eṣām astīti hiraṇyavāśīmantaḥ | atiśayena hiraṇyavāśīmān hiraṇyavāśīmattamaḥ*: *vāśī* is a weapon of golden make; exceedingly well adorned with golden weapons."
+- **suṣaṇā** = *vana ṣaṇa sambhaktau | sukhena sambhajyante iti suṣaṇāni* — "things pleasant to enjoy, objects of enjoyment, means to happiness."
+
+**Vyākaraṇa-prakriyā** *(pp. 453–454 — grammar pages, noted briefly)*
+- **adhā**: "the *tha* of the word *atha* has become *dha* by Vedic usage; in the Saṃhitā the long vowel by *nipātasya ca*."
+- **viśvasaubhaga**: *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — [Pā. 5-1-129 as read]: *añ* after the *udgātrādi* group; *subhaga* and *mantra* are read in this group [by *subhagamantre*, as printed]; *taddhiteṣv acām ādeḥ* gives *vṛddhi*; before the *añ* the *u* of *su* becomes *o* [the print says: *su* of *subhaga* takes *guṇa* in place of the *u*]; *hṛdbhagasindhvante pūrvapadasya ca* — हृद्भगसिन्ध्वन्ते पूर्वपदस्य च — [Pā. 7-3-19 as read]: before a *ñit*, *ṇit* or *kit* suffix, in a compound ending in *hṛd*, *bhaga*, *sindhu*, both the first and the latter member take *vṛddhi* of their first vowel; so both members should take it; but by the paribhāṣā *sarve vidhayaś chandasi vikalpyante* the *vṛddhi* of both members does not occur, says the *Vṛttikāra* in the sūtra *hṛdbhaga…*
+- **hiraṇyavāśīmattama**: "*hiraṇyamayā ca sā vāśī ca hiraṇyavāśī*": *vāśī* means a weapon [*āyudha*]; "*hiraṇyavāśy eṣām asti*": *tadasyāsty asminn iti matup*; "*atiśayena hiraṇyavāśīmān*": *atiśāyane tamabiṣṭhanau* — the suffix *tamap*; *hiraṇyavāśīmattama*; vocative singular, wholly unaccented.
+- **suṣaṇā**: *vana ṣaṇa sambhaktau*; *sukhena sanyate = sambhajyate iti suṣaṇāni*; *īṣad-duḥ-suṣu kṛcchrākṛcchrārtheṣu khal* — the suffix *khal* after the root *san*; *ādeśapratyayayoḥ* gives *ṣ*; *raṣābhyāṃ no ṇaḥ samānapade* [Pā. 8-4-1 as read] *ṇ* for *n*; *śas*, augment *num*, lengthening of the penultimate; *śeś chandasi bahulam* loss of *śi*; loss of the nasal; by *lit* the syllable before the suffix is acute; the accent of the first member of a compound ending in a *kṛt*.
+- **kṛdhi**: root *ḍukṛñ karaṇe*; *loṭ*, *sip*, *hi*; *śruśṛṇupṛkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — [Pā. 6-4-102 as read]: *dhi* for *hi*; *bahulaṃ chandasi* the *vikaraṇa* [*u*] is elided; *hi* is *apit*, so *ṅit*; *kṅiti ca* prohibits *guṇa*: *kṛdhi*. Rik 6 ends here (*|| 6 ||*).
+
+---
+
+### Rik 42.7 (pp. 454–456, PDF 468–470)
+
+**Saṃhitā-pāṭha** *(p. 454; accents not reproduced)*
+
+> **अति नः सश्चतो नय सुगा नः सुपथा कृणु ।**
+> **पूषन्निह क्रतुं विदः ॥ ७ ॥**
+
+*ati naḥ saścato naya sugā naḥ supathā kṛṇu |*
+*pūṣann iha kratuṃ vidaḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 455)*
+
+> अति । नः । सश्चतः । नय । सुऽगा । नः । सुऽपथा । कृणु ।
+> पूषन् । इह । क्रतुम् । विदः ॥ ७ ॥
+
+*ati | naḥ | saścataḥ | naya | su-gā | naḥ | su-pathā | kṛṇu |*
+*pūṣan | iha | kratum | vidaḥ || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 455)*
+
+> **सश्चतोऽस्मद्बाधनाय प्राप्नुवतः शत्रून्नोऽस्मान् अतिक्रम्य नय । अन्यत्र प्रापय । नोऽस्मान् सुगा सुष्ठु गन्तुं शक्येन सुपथा शोभनमार्गेण कृणु । गन्तॄन्कुरु । हे पूषन् इहाध्वनि क्रतुं प्रज्ञानमस्मद्रक्षणरूपं विदः जानीहि ॥ सश्चतः । ष्वश्च गतौ । सश्चिमप्येके पठन्तीति धातुवृत्त्वावुक्तं । अस्माल्लटः शतृ । बहुलं छन्दसीति शपो लुक् । प्रत्ययस्वरेण शतुरुदात्तत्वं । शतुरनुम इति विभक्त्युदात्ताभावश्छान्दसः । सुगा । सुष्ठु गच्छन्त्यत्रेति सुगः । सुदुरोरधिकरण इति गमेर्डप्रत्ययः । सुपां सुलुगिति तृतीयाया आकारः । सुपथा । शोभनेन पथा । न पूजनात् । पा. ५-४-६९ । इति समासान्तप्रतिषेधः । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । क्रत्वादयश्चेत्युत्तरपदाद्युदात्तत्वं न भवति । अबहुव्रीहित्वात् । तत्र हि बहुव्रीहाविति वर्तते । कृणु । कृवि हिंसाकरणयोः । धिन्विकृण्व्योरच । इत्यप्रत्ययः । उतश्च प्रत्ययादिति हेर्लुक् । विदः । विद ज्ञाने । लेट्यडागमः । इतश्च लोप इतीकारलोपः ॥**
+
+*saścato 'smadbādhanāya prāpnuvataḥ śatrūn no 'smān atikramya naya | anyatra prāpaya | no 'smān sugā suṣṭhu gantuṃ śakyena supathā śobhanamārgeṇa kṛṇu | gantṝn kuru | he pūṣan ihādhvani kratuṃ prajñānam asmadrakṣaṇarūpaṃ vidaḥ jānīhi || saścataḥ | ṣvaśca gatau | saścim apy eke paṭhantīti dhātuvṛttāv uktaṃ | asmāl laṭaḥ śatṛ | bahulaṃ chandasīti śapo luk | pratyayasvareṇa śatur udāttatvaṃ | śatur anuma iti vibhaktyudāttābhāvaś chāndasaḥ | sugā | suṣṭhu gacchanty atreti sugaḥ | sudurorādhikaraṇa iti gamer ḍapratyayaḥ | supāṃ sulug iti tṛtīyāyā ākāraḥ | supathā | śobhanena pathā | na pūjanāt | pā. 5-4-69 | iti samāsāntapratiṣedhaḥ | parādiś chandasi bahulam ity uttarapadādyudāttatvaṃ | kratvādayaś cety uttarapadādyudāttatvaṃ na bhavati | abahuvrīhitvāt | tatra hi bahuvrīhāv iti vartate | kṛṇu | kṛvi hiṃsākaraṇayoḥ | dhinvikṛṇvyor a ca | ity apratyayaḥ | utaś ca pratyayād iti her luk | vidaḥ | vida jñāne | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ ||*
+
+*(In the grammatical tail the root-name "ṣvaśca" (read as* ṣaśca *"going") and the phrase "saścim apy eke paṭhanti" are crowded and doubtful [?].)*
+
+**Translation:** "The enemies who *saścataḥ*, come on to harass us, *ati naya*, pass beyond [them] and lead us — take us elsewhere. *Naḥ sugā supathā kṛṇu*: make us travellers by a good road, one easy to go by. O Pūṣan, *iha*, on this road, *kratum*, [the] knowledge, in the form of protecting us, *vidaḥ*, know. *Saścataḥ*: root *ṣaśca* [?] *gatau*; some read *saści* also, as said in the *Dhātuvṛtti*; from it *śatṛ* for *laṭ*; *śap* elided by *bahulaṃ chandasi*; the accent of *śatṛ* by the suffix accent; the non-acuteness of the ending by *śatur anumaḥ* is Vedic. *Sugā*: '*suṣṭhu gacchanty atra*', *sugaḥ*; *ḍa* after *gam* by *sudurorādhikaraṇe*; *ā* for the instrumental by *supāṃ sulug…*. *Supathā*: 'by a good path'; the *samāsānta* is prohibited by *na pūjanāt* [Pā. 5-4-69]; the first syllable of the latter member by *parādiś chandasi bahulam*; the first-syllable accent of *kratvādi* does not occur since it is not a bahuvrīhi (that rule is governed by *bahuvrīhau*). *Kṛṇu*: root *kṛvi hiṃsākaraṇayoḥ*; the suffix *u* by *dhinvikṛṇvyor a ca*; the loss of *hi* by *utaś ca pratyayāt*. *Vidaḥ*: root *vida jñāne*; *leṭ* with augment *aṭ*; loss of the *i* by *itaś ca lopaḥ*."
+
+**Pratipadārtha** *(p. 455)* — "**saścataḥ** — enemies who come to cause trouble to us; **naḥ** — to us; **ati naya** — send far away; **naḥ** — us; **sugā** — [make us] travellers by a way easy to go; **supathā** — by an excellent road; **kṛṇu** — make; **pūṣan** — O Pūṣan; **iha** — in this journey; **kratum** — [the] knowledge needed to protect us; **vidaḥ** — know."
+
+**Bhāvārtha** *(pp. 455–456)* — "O Pūṣan, send the many enemies who come to give us trouble far away from us. Make our road free from obstacles and our travelling easy. Know well the way in which you must protect us on this journey. Make us walkers by an excellent road."
+
+**English Translation (the source's own, p. 456)** — "Lead the enemies away from us ; make the path good and safe for us ; O Pushan, know how to protect us on this journey."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 456**
+- **saścataḥ** — "*ṣaśca gatau*; *asmadbādhanāya prāpnuvataḥ*: [the enemies] who come to give us trouble."
+- **sugā** = *suṣṭhu gacchanty atreti sugaḥ* — "good for travelling."
+- **supathā** — "by a good road; by a road free from enemies' ambush; by a road with security."
+- **kratum** — "knowledge; understanding. Since the word *kratu* is read among the eleven names of knowledge beginning with *ketaḥ*, *keśaḥ* [as read], *kratum* means knowledge, understanding."
+
+**Vyākaraṇa-prakriyā** *(pp. 456–457 — grammar pages, noted briefly)*
+- **saścataḥ**: the root *ṣaśca gatau* (the print's first letters are crowded [?]), the first class: "some read here the root *saśca* as well", as said in the *Dhātuvṛtti*; from it *laṭ*, *śatṛ*; *bahulaṃ chandasi* [Pā. 2-4-73 as read] elides *śap*; the suffix accent comes; if *śap* were not elided, *ato guṇe* would give *pararūpa* and the form would be *saścat*; but in that case *tāsyanudāttet…* would make the *sārvadhātuka* unaccented; since the *śap* has been elided, it is not later than *upadeśa*, so the unaccented does not come; *śatur anumo nadyajādī* — शतुरनुमो नद्यजादी — [Pā. 6-1-173 as read]: the ending of an *ajādi* after a *śatṛ* without *num*, and the *nadī* name, is acute with it; so *śas* after [*śatṛ*] should be acute; but by *sarve vidhayaś chandasi vikalpyante* [paribhāṣā, number as read [?]] it does not occur here.
+- **sugā**: "*suṣṭhu gacchanty atra*": *sudurorādhikaraṇe*: *ḍa* after *gam* with *su*; *ṭi* lost; *supāṃ sulug…* [Pā. 7-1-39 as read]: *ḍā* for the instrumental singular: *suga + ā*; *ṭi* lost; the ending acute by the accent that follows loss of an acute.
+- **supathā**: *śobhanaś cāsau panthāś ca*: *ṛkpūrabdhūḥpathām ānakṣe* — ऋक्पूरब्धूःपथामानक्षे — [Pā. 5-4-74 as read]: the *samāsānta* suffix *a* (*ac*) comes at the end of compounds ending in *ṛk*, *pur*, *ap*, *dhur*, *pathin*; but in compounds ending in *dhur* in connection with the axle (*akṣa*) the *a* does not come; if the *a* were obtained, *na pūjanāt* — न पूजनात् — [Pā. 5-4-69 as read] prohibits the *samāsānta* after words denoting honour; "here the *vārttikakāra* says this prohibition holds only where *su* and *ati* are used"; *kratvādayaś ca* — क्रत्वादयश्च — [Pā. 6-2-118 as read] applies only in a bahuvrīhi, so it gives no first-syllable acute here to the latter member; by *parādiś chandasi bahulam* the first-syllable acute for the latter member comes.
+- **kṛṇu**: *kṛvi hiṃsākaraṇayoś ca*; *loṭ*, *sip*, *hi*; *dhinvikṛṇvyor a ca* — [Pā. 3-1-80 as read]: *u* [print: *upratyaya*] and an *a*-substitute for *v*; *kṛṇ + u + hi*; *ato lopaḥ* the loss of the *a*; *ṛvarṇān nasya ṇatvaṃ vācyam* the *ṇ* for the *n*; *utaś ca pratyayād asaṃyogapūrvāt* — उतश्च प्रत्ययादसंयोगपूर्वात् — [Pā. 6-4-106 as read]: the loss of *hi* after a suffix with *u* not preceded by a conjunct.
+- **vidaḥ**: root *vida jñāne*; *leṭ*, *sip*, the augment *aṭ*; *itaś ca lopaḥ* the loss of the *i*; *śap* elided because of the *adādi* class; no *laghūpadhaguṇa*; *ru*, visarga. Rik 7 ends here (*|| 7 ||*).
+
+---
+
+### Rik 42.8 (pp. 457–, PDF 471–)
+
+**Saṃhitā-pāṭha** *(p. 457 foot; accents not reproduced)*
+
+> **अभि सूयवसं नय न नवज्वारो अध्वने ।**
+> **पूषन्निह क्रतुं विदः ॥ ८ ॥**
+
+*abhi sūyavasaṃ naya na navajvāro adhvane |*
+*pūṣann iha kratuṃ vidaḥ || 8 ||*
+
+**Pada-pāṭha** *(p. 458)*
+
+> अभि । सुऽयवसम् । नय । न । नवऽज्वारः । अध्वने ।
+> पूषन् । इह । क्रतुम् । विदः ॥ ८ ॥
+
+*abhi | su-yavasam | naya | na | nava-jvāraḥ | adhvane |*
+*pūṣan | iha | kratum | vidaḥ || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 458)*
+
+> **हे पूषन् सुयवसं शोभनतृणोपलक्षितं सर्वौषधियुक्तं देशमभि नय । अस्मानभितः प्रापय । अध्वने मार्गाय नवज्वारो नूतनः सन्तापो न भवतीति शेषः । मार्गे गच्छतामस्माकमिदानीन्तनः क्लेशः कोऽपि मा भूदित्यर्थः । गतार्थमन्यत् ॥ सूयवसं । शोभनं यवसं यस्मिन्देशे स सूयवसो देशः । निपातस्य चेति पूर्वपदस्य दीर्घत्वं । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । क्रत्वादिर्वा द्रष्टव्यः । नवज्वारः । ज्वर रोगे । भावे घञ् । नवश्चासौ ज्वरो नवज्वारः । थाथादिनोत्तरपदान्तोदात्तत्वं ॥ ८ ॥**
+
+*he pūṣan suyavasaṃ śobhanatṛṇopalakṣitaṃ sarvauṣadhiyuktaṃ deśam abhi naya | asmān abhitaḥ prāpaya | adhvane mārgāya navajvāro nūtanaḥ saṃtāpo na bhavatīti śeṣaḥ | mārge gacchatām asmākam idānīntanaḥ kleśaḥ ko 'pi mā bhūd ity arthaḥ | gatārtham anyat || sūyavasaṃ | śobhanaṃ yavasaṃ yasmin deśe sa sūyavaso deśaḥ | nipātasya ceti pūrvapadasya dīrghatvaṃ | parādiś chandasi bahulam ity uttarapadādyudāttatvaṃ | kratvādir vā draṣṭavyaḥ | navajvāraḥ | jvara roge | bhāve ghañ | navaś cāsau jvaro navajvāraḥ | thāthādinottarapadāntodāttatvaṃ || 8 ||*
+
+**Translation:** "O Pūṣan, *suyavasam*, a place marked by good grass, provided with all herbs — *abhi naya*, lead us to it, take us there on all sides. *Adhvane*, for the road, *navajvāraḥ*, a new heat or affliction, *na* [bhavati], let there not be: so the remainder is to be supplied. The sense: for us who go on the road let no new trouble of the moment arise. The rest has been explained. *Sūyavasam*: 'a place where there is good fodder'; the lengthening of the first member by *nipātasya ca*; the first syllable of the latter member by *parādiś chandasi bahulam*, or it may be seen as belonging to the *kratvādi* group. *Navajvāraḥ*: root *jvara roge*; *ghañ* in the abstract; 'a new *jvara*': *navajvāraḥ*; final-acute of the latter member by *thāthādi…*."
+
+**Pratipadārtha** *(p. 458)* — "**pūṣan** — O Pūṣan; **suyavasam** — [to the place] filled with excellent green grass and medicinal herbs; **abhi naya** — lead [us] and bring us there; **adhvane** — on the road; **navajvāraḥ** — a new heat [of the sun]; **na** — let there not be; **iha** — in this journey; **kratum** — the way of protecting [us]; **vidaḥ** — know."
+
+**Bhāvārtha** *(p. 458)* — "O Pūṣan, lead us to a place filled with excellent green grass and the best herbs. See that no new affliction comes to us on the road. Know well the way of protecting us on this journey."
+
+**English Translation (the source's own, p. 458)** — "Lead us where there is abundant grass ; let there be no extreme heat on our way ; Pushan, know how to protect us on this journey."
+
+*(The Special Topics and grammar of Rik 8 begin on p. 459, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 458 (PDF 472) reached; introduction, heading and Riks 42.1–42.7 complete; Rik 42.8 written through its source's English (Special Topics and grammar begin on p. 459).**
+
+**Next task:** continue at printed p. 459 (PDF 473) with the Special Topics and grammar of Rik 42.8, then Riks 9–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 473 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) introduction: Gṛhya-sūtra reference 3-8-10 (Sanskrit) vs 3-2-10 (Kannada) [?]; Anukramaṇikā clause "*pauṣṇam*" doubtful; (3) Rik 1: bhāṣya crowded and partly garbled in the middle (translation tentative); the Special Topics essay on Pūṣan quotes eight Ṛgveda passages untranslated in the source — my glosses are tentative, all reference numerals [?]; the *pra ṇaḥ* argument summarized; (4) Rik 2: the *duḥśevaḥ* suffix-name and the *bahulaṃ chandasi* vārttika crowded [?]; (5) Rik 3: the sūtra naming *ini* for *paripanthin* and the *rāt sasya* clause crowded [?]; English lacks a comma; (6) Rik 4: the thief-name list "*tṛpsuḥ takvā …*" abbreviated; the source's English is overprinted ("both stenls") [scan defect]; (7) Rik 5: one word after "*aṅgiraḥprabhṛtīn*" crowded [?]; the English sentence runs across two pages; (8) Rik 6: the source's English heading prints "English Translaion" [sic]; the Pada has *su-sanā* against the Saṃhitā's *suṣaṇā* as printed; the *viśvasaubhaga* vṛddhi discussion (pp. 453–454) is characterized only; (9) Rik 7: the root-name *ṣaśca* and the phrase "*saścim apy eke paṭhanti*" crowded [?]; (10) every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]".
