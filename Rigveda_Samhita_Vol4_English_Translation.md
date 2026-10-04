@@ -956,12 +956,238 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+## SŪKTA 34 *(printed p. 71 = PDF 85)*
+
+**॥ ॐ ॥** — **Thirty-fourth Sūkta** *(Kannada title line: "mūvattanālkaneya sūktavu")*
+
+### Page 71 (PDF 85) — Sāyaṇa's introduction and the Kannada anuvāda
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
+
+> त्रिश्चिन्नो अद्येति चतुर्थं सूक्तं द्वादशर्चम् । ऋषिश्चान्यस्माद्[?]इति परिभाषयाऽऽङ्गिरसो हिरण्यस्तूप ऋषिः । अश्विनौ देवता । क्व त्री चक्रेति नवमी आ नो अश्विनेति द्वादशी च त्रिष्टुभौ । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । त्रिश्चिद्द्वादशाश्विनं नवम्यन्ते त्रिष्टुभावित्यनुक्रमणिका ॥ प्रातरनुवाक आश्विने क्रतौ जागते छन्दसीदं सूक्तम् । अथाश्विन इति खण्डे सूत्रितम् । त्रिश्चिन्नो अद्येळी द्यावापृथिवी इति जागतम् । आ. ४-१३ [?] । इति ॥ आश्विने शस्त्रेऽप्येतत्सूक्तं प्रातरनुवाकन्यायेन । आ. ६-५ [?] । इत्यतिदिष्टत्वात् ॥
+
+*triś cin no adyeti caturthaṃ sūktaṃ dvādaśarcam | ṛṣiś cānyasmād [?] iti paribhāṣayāṅgiraso hiraṇyastūpa ṛṣiḥ | aśvinau devatā | kva trī cakreti navamī ā no aśvineti dvādaśī ca triṣṭubhau | śiṣṭās triṣṭubantaparibhāṣayā jagatyaḥ | triś cid dvādaśāśvinaṃ navamy ante triṣṭubhāv ity anukramaṇikā || prātaranuvāka āśvine kratau jāgate chandasīdaṃ sūktam | athāśvina iti khaṇḍe sūtritam | triś cin no adyeḷī dyāvāpṛthivī iti jāgatam | ā. 4-13 [?] | iti || āśvine śastre 'py etat sūktaṃ prātaranuvākanyāyena | ā. 6-5 [?] | ity atidiṣṭatvāt ||*
+
+**Translation:** "The fourth sūkta, *triś cin no adya*, has twelve ṛks. By the rule 'and the ṛṣi [is the same] as the other' (the reading of the last words of this rule is uncertain) the ṛṣi is Hiraṇyastūpa Āṅgirasa. The deity is the Aśvins. The ninth ṛk, *kva trī cakrā*, and the twelfth, *ā no aśvinā*, are Triṣṭup; the remaining [ṛks], by the rule 'what is left [takes the metre] up to the Triṣṭup', are Jagatī. [So] the Anukramaṇikā: '*triś cid* [has] twelve, [and is] Aśvin; at the end of the ninth [and the twelfth] two Triṣṭups.' In the *prātaranuvāka*, in the Aśvina rite, this sūkta [serves] for the Jagatī metre. It is so stated in the section beginning '*athāśvine*' [of the Āśvalāyana Śrauta-sūtra]: '*triś cin no adyeḷī dyāvāpṛthivī* — [these] are in Jagatī' (Āś. 4-13 [?]). And at the Aśvina śastra this sūkta also [is used], by the principle of the *prātaranuvāka*, since it is extended thus (Āś. 6-5 [?])."
+
+**Anuvāda (Kannada):** "*Triś cin no adya* is the fourth sūkta in the seventh anuvāka. It has twelve ṛks. The ṛṣi of this sūkta is Hiraṇyastūpa; the deities are the Aśvins. The ninth ṛk, *kva trī cakrā*, and the twelfth, *ā no aśvinā*, are in the Triṣṭup metre; the remaining ṛks in Jagatī. The Anukramaṇikā says: '*triś cid dvādaśāśvinaṃ navamy ante triṣṭubhau*' — 'a sūkta with the twelve [ṛks] *triś cit*, addressed to the Aśvins; the ninth and the last are Triṣṭup'. When the Jagatī ṛks connected with the Aśvina-kratu are recited at the time of the recitation of the *prātaranuvāka* mantras, this sūkta is to be recited: such is its application — this is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*athāśvine*', by the sūtra '*triś cin no adyeḷī dyāvāpṛthivī iti jāgatam*' (Āś. 4-13 [?]). It is also prescribed that this sūkta be recited for the Aśvina-śastra mantras among the *prātaranuvāka* mantras (Āś. 6-5 [?])."
+
+### Page 72 (PDF 86) — heading of Sūkta 34 and Rik 34.1
+
+**॥ ॐ ॥**
+
+> **सूक्त — ३४**
+> ॥ मण्डल — १ ॥ अनुवाक — ७ ॥ सूक्त — ३४ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — ४, ५ [?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै १—१२ ॥
+> ॥ ऋषिः — हिरण्यस्तूप आङ्गिरसः ॥
+> ॥ देवता — अश्विनौ ॥
+> ॥ छन्दः — १–८, १०, ११ जगती । ९–१२ [as printed; the ninth and twelfth, by the introduction] त्रिष्टुप् ॥
+
+*sūkta 34 | maṇḍala 1 | anuvāka 7 | aṣṭaka 1 | adhyāya 3 | varga 4, 5 [?] | ṛks 1–12 | ṛṣi: Hiraṇyastūpa Āṅgirasa | devatā: the Aśvins | chandas: 1–8, 10, 11 Jagatī; 9–12 [as printed] Triṣṭup.*
+
+**Translation of the heading:** "Sūkta 34; Maṇḍala 1, Anuvāka 7; Aṣṭaka 1, Adhyāya 3, Varga 4, 5 [the second numeral is not certain]; ṛks in the sūkta: 1–12; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: the Aśvins; Metre: Jagatī for 1–8, 10, 11; Triṣṭup for '9–12' as printed — which the introduction on p. 71 corrects to the ninth and the twelfth alone."
+
+### Rik 34.1 (pp. 72–75, PDF 86–89)
+
+**Saṃhitā-pāṭha** *(p. 72; accents not reproduced)*
+
+> **त्रिश्चिन्नो अद्या भवतं नवेदसा विभुर्वां याम उत रातिरश्विना ।**
+> **युवोर्हि यन्त्रं हिम्येव वाससोऽभ्यायंसेन्या भवतं मनीषिभिः ॥ १ ॥**
+
+*triś cin no adyā bhavataṃ navedasā vibhur vāṃ yāma uta rātir aśvinā |*
+*yuvor hi yantraṃ himyeva vāsaso 'bhyāyaṃsenyā bhavataṃ manīṣibhiḥ || 1 ||*
+
+**Pada-pāṭha** *(p. 72)*
+
+> त्रिः । चित् । नः । अद्य । भवतम् । नवेदसा । विऽभुः । वाम् । यामः । उत । रातिः । अश्विना ॥
+> युवोः । हि । यन्त्रम् । हिम्याःऽइव । वासः । अभिऽआयंसेन्या । भवतम् । मनीषिऽभिः ॥ १ ॥
+
+*triḥ | cit | naḥ | adya | bhavatam | navedasā | vi-bhuḥ | vām | yāmaḥ | uta | rātiḥ | aśvinā ||*
+*yuvoḥ | hi | yantram | himyāḥ-iva | vāsaḥ | abhi-āyaṃsenyā | bhavatam | manīṣi-bhiḥ || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 73; the first half in full, the grammatical tail characterized)*
+
+> हे नवेदसाश्विना मेधाविनावश्विदेवौ । नवेदा इति मेधाविनाम नवेदाः कविर्मनीषीति तन्नामसु पठितत्वात् । तादृशौ युवां त्रिश्चित् त्रिवारमप्यद्यास्मिन्कर्मणि नोऽस्मदर्थं भवतम् । आगतौ भवतम् । अत्र त्रिरिति वचनं सवनत्रयापेक्षम् । आदरातिशयद्योतनार्थं वा । त्रिषत्या हि देवा इति श्रुत्यन्तरात् । वां युवयोर्यामो गमनसाधनभूतो रथो विभुर्व्याप्तः । उताऽपि च रातिर्दानं विभुरिति शेषः । युवोर्युवयोरुभयोर्यन्त्रं हि परस्परनियमरूपः सम्बन्धविशेषोऽस्ति खलु । तत्र दृष्टान्तः । वाससः सूर्यरश्म्याच्छादनयुक्तस्य वासरस्य हिम्येव । हिमयुक्तया रात्र्येव । यथा रात्र्या सह दिवसस्य सम्बन्धः कदाचिदपि नापैति तद्वत् । युवामुभौ मनीषिभिर्मेधाविभिर्ऋत्विग्भिः । मनीषीति मेधाविनाम मनीषे मन्धातेति तन्नामसु पठितत्वात् । अभ्यायंसेन्याभितो नियन्तव्यौ अनुग्रहवशात्तदधीनौ भवतम् ॥
+
+*he navedasāśvinā medhāvināv aśvidevau | navedā iti medhāvināma navedāḥ kavir manīṣīti tannāmasu paṭhitatvāt | tādṛśau yuvāṃ triś cit trivāram apy adyāsmin karmaṇi no 'smadarthaṃ bhavatam | āgatau bhavatam | atra trir iti vacanaṃ savanatrayāpekṣam | ādarātiśayadyotanārthaṃ vā | triṣatyā hi devā iti śrutyantarāt | vāṃ yuvayor yāmo gamanasādhanabhūto ratho vibhur vyāptaḥ | utāpi ca rātir dānaṃ vibhur iti śeṣaḥ | yuvor yuvayor ubhayor yantraṃ hi parasparaniyamarūpaḥ sambandhaviśeṣo 'sti khalu | tatra dṛṣṭāntaḥ | vāsasaḥ sūryaraśmyācchādanayuktasya vāsarasya himyeva | himayuktayā rātryeva | yathā rātryā saha divasasya sambandhaḥ kadācid api nāpaiti tadvat | yuvām ubhau manīṣibhir medhāvibhir ṛtvigbhiḥ | manīṣīti medhāvināma manīṣe mandhāteti tannāmasu paṭhitatvāt | abhyāyaṃsenyābhito niyantavyau anugrahavaśāt tadadhīnau bhavatam ||*
+
+**Translation:** "O *navedasā* Aśvins — wise ones, divine Aśvins (*navedāḥ* being a word for 'wise', since it is read in the list of such names: *navedāḥ*, *kaviḥ*, *manīṣī*). Such as you are, *triś cit* — even three times — *adya*, today, in this rite, *bhavatam naḥ* — be for us; be come. The word 'thrice' here refers to the three pressings; or it is to show great respect, from another Veda-text, '[the gods] are indeed *triṣatya* [?]'. *Vām yāmaḥ* — your *yāma*, the chariot that is the means of going, is *vibhuḥ* — pervading; *uta* — and *rātiḥ*, your gift, is also pervading — that is what is to be supplied. *Yuvor hi yantram* — between you two there is indeed a bond of mutual restraint; the illustration is *vāsasaḥ himyā iva*: like the day (*vāsara*), which is clothed [= covered] by the sun's rays, and the night, which is accompanied by dew: as the connexion of the day with the night never ceases, so [is yours]. Both of you, *manīṣibhiḥ* — by the wise priests (*manīṣī* being read in the list of names for the wise) — *abhyāyaṃsenyā* — to be held [to the sacrificer] on all sides, by their grace dependent on them [the priests] — *bhavatam* — be."
+
+**Grammar within the bhāṣya** *(p. 73, characterized; the print is crowded and I did not chase the small numerals)*: the bhāṣya goes through *adya* (the particle's shortening or lengthening in the Saṃhitā), *navedasā* (*vid jñāne* with the Uṇādi suffix *asun*, with *nañ* in the sense "not unwise" — "*na bhrāṇ…*"-type rule for the *nañ*-compound; the *a*-vowel in the vocative-dual; the vocative accent), *vibhuḥ*, *yāmaḥ* (root *yam uparame* with *ghañ*, the first syllable acute by *vṛṣādīnām*; or *yamu uparame*, from the root with *man* [*atisṛstṛ…* *man*], acute initial by *nit*), *rātiḥ* (root *rā dāne*, *ktin*, with *mantre vṛṣeṣapacamana…* giving the first syllable acute for *ktin*), *yuvoḥ* (the genitive-locative dual; *ṣaṣṭhī dvivacana* replaced by *yuvā*...; no *yatva* because of the rule *ata ādeśa…*), *himyā iva* (*himā* "night", from the root *han* with the Uṇādi *mak* — *hanter hi ca* — Uṇ. 1-[?]; *hima* in the sense of "night", read in the list of names; then *himyā* with *ṅas* and *ac*), *vāsasaḥ* (root *vasa ācchādane*, *vāsayati prakāśenācchādayati* — "the day, which covers with light"), *abhyāyaṃsenyā* (*abhi* + *ā* + *yam*, with the Uṇādi suffix *senya*; the *sup*-ending dropped).
+
+**Pratipadārtha** *(pp. 73–74)* — "**navedasā** — O wise (knowing) [ones]; **aśvinā** — Aśvin deities (you); **adya** — in our sacrificial rite today; **naḥ** — for us; **triś cit** — in all three times (the three pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram hi** — a mutual bond; **vāsasaḥ** — of the day covered by the sun's sharp rays; **himyā iva** — as with the dewy night; **vām** — your; **yāmaḥ** — chariot; **vibhuḥ** — all-pervading (vast); **uta** — and; **rātiḥ** — generosity (is vast); **manīṣibhiḥ** — by the wise priests; **abhyāyaṃsenyā** — to be controlled (subject to their wishes); **bhavatam** — (both of you) be."
+
+**Bhāvārtha** *(p. 74)* — "O Aśvin deities, your relation to each other is fixed, as is that of the day covered by the sun's rays and the night cooled by dew. Your chariot is vast and pervades everywhere; so too your generosity is vast. Out of kindness, today in our sacrifice be with us in all three times; and, regarding the wise sacrificers, be subject to their wishes."
+
+**English Translation (the source's own, p. 74)** — "Wise Aswins, be present with us thrice to day ; your chariot is vast and extensive and filled with gifts ; and your connection is like that of the **shinning** [sic] day and dewy night ; Aswins, be accessible to the pious (priests)"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 74–75**
+
+*Triḥ and the number three:* "This sūkta begins with the word *triḥ*. In every pāda of every ṛk a number-word — *tri* or *trayaḥ* — is generally present. This arrangement is not only so as to enrich the rhyme [?] of the metre [the Kannada word is uncertain in the print]; it is also to make clear, by repetition, that matters connected with these Aśvin deities come in threes. For the Aśvins' chariot has three wheels, and the chariot has three pillars. These deities are invoked in the three pressings — the morning pressing, the midday pressing, and the third pressing. Their pervasion is in the three worlds: earth, mid-region and heaven. And so on."
+
+*Yāska's account of the Aśvins (Ni. 12-1 [?]), summarized in the source:* "Yāska has said in his Nirukta [Ni. 12-1 [?]] about the Aśvin deities; we explain it here briefly:"
+
+> (१) अश्विनौ । अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः ।
+> (२) अश्वैरश्विनावित्यौर्णवाभः ।
+> (३) तत्कावश्विनौ द्यावापृथिव्यावित्येके ।
+> (४) अहोरात्रावित्येके ।
+> (५) सूर्याचन्द्रमसावित्येके ।
+> (६) राजानौ पुण्यकृतावित्यैतिहासिकाः ।
+> (७) तयोः काल ऊर्ध्वमर्धरात्रात् प्रकाशीभावस्यानुविष्टम्भम् । अनुत्तमो भागो हि मध्यमः ज्योतिर्भागः आदित्यः ।
+> (८) तयोः समानकालयोः समानकर्मणोः संस्तुतेप्रायाणयोः [?] । असंस्तवेनैषोऽर्धर्चो भवति ।
+
+*(1) aśvinau | aśvinau yad vyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | (2) aśvair aśvināv ity aurṇavābhaḥ | (3) tat kāv aśvinau dyāvāpṛthivyāv ity eke | (4) ahorātrāv ity eke | (5) sūryācandramasāv ity eke | (6) rājānau puṇyakṛtāv ity aitihāsikāḥ | (7) tayoḥ kāla ūrdhvam ardharātrāt prakāśībhāvasyānuviṣṭambham | anuttamo bhāgo hi madhyamaḥ jyotirbhāga ādityaḥ | (8) tayoḥ samānakālayoḥ samānakarmaṇoḥ saṃstute prāyaṇayoḥ [?] | asaṃstavenaiṣo 'rdharco bhavati ||*
+
+"(1) *aśvinau*: since they pervade everything, the one with water, the other with light — these deities pervade all with water or with light, so they are called Aśvins. (2) *aśvair aśvinau* — 'with horses [they are] Aśvins' — the opinion of the teacher Aurṇavābha: since they are yoked with horses they are called Aśvin deities. (3) 'Who are the Aśvins?' — when this is asked, some say '*dyāvāpṛthivī*', i.e. the earth and the mid-region [as the Kannada puts it], visible to us. (4) Others say 'day and night'. (5) Still others say 'the sun and the moon'. (6) The historians (*aitihāsikāḥ*) hold that they are two pious kings, performers of meritorious deeds. (7) 'Their time is after midnight, supporting the advent of light; the middle part is the unsurpassed part; the light-part is Āditya.' The time of these Aśvin deities — the time in which they are generally praised — is the period from midnight to sunrise. In this period the darkness gradually thins and the dawn, the light, begins; this is called the middle period. It is in this period that they praise the Aśvins with the *prātaranuvāka* mantras (the Aśvina-kratu). '*Jyotirbhāga ādityaḥ*': when it has become fully light, that time belongs to Āditya (Sūrya); that is, when the darkness has gone and it is light (the Āditya-kratu) they praise Āditya with the *prātaranuvāka* mantras. (8) 'Of these two, who have the same time and the same action, ... [the print's Sanskrit is crowded and the middle words are uncertain]; ...this half-ṛk is without a [separate] praise.' The Aśvin deities are two. These two are praised at the same time, i.e. together. Working with the two together in view [*the print breaks off here and the account continues on p. 76*]." *(The translations of the Nirukta citations are mine and tentative; the numerals [?] are uncertain.)*
+
 ---
 
-**Progress note — Volume 4: Sūkta 33 COMPLETE (printed pp. 1–70 = PDF 15–84; Riks 1–15; Maṇḍala 1, Anuvāka 7, First Aṣṭaka, Third Adhyāya, Varga 1–3 [?]).**
+### Rik 34.1 (continued) — Special Topics (pp. 76–77, PDF 90–91) and grammar (p. 78, PDF 92)
 
-**This session:** the volume basics (622 PDF pages; printed page = PDF − 14; Sūktas 33–46, Third Adhyāya), the header and contents table, and the whole of Sūkta 33 in the full pipeline (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics) with the grammar pages noted briefly.
+**Special Topics, continued from p. 75** *(the Kannada commentary on Yāska's items, ending item (8))*: "…Working with both in view, therefore, the mantras that praise the two in this manner are called *saṃstava-mantras*. In ṛks that are not *saṃstava* mantras, it is to be understood that each of the two is praised in a half-ṛk."
 
-**Next task:** Sūkta 34 (*triś cin no adya*, 12 Riks, as the page 71 heading states), beginning at printed p. 71 = PDF 85 and running to about printed p. 130 (PDF 144), per the contents table. Start a fresh session; render with `pdftoppm -jpeg -r 150 -f 85 -l 144 Rig_Vol4.pdf /tmp/v`. This file and the tail of this output are the position record.
+**(9)** — Yāska's next item, as printed:
 
-**Open flags (Volume 4):** (1) The preface (PDF 7–10) is not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 is recorded as printed. (3) Sūtra, Nirukta and Ṛgveda reference numerals marked [?] are unverified; the others are as read from the print at 150 dpi (no enlargement except one slice in Rik 2). (4) My glosses of the untranslated Ṛgveda quotations in the Special Topics (Riks 4, 6, 11, 13, 14) are tentative and mine, not the source's. (5) A few doubtful bhāṣya words (Riks 6, 7, 13, 15: *pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation, "*vināśya [?]*", *tvadīyasaṃcālanena [?]*) and the Pada's last word in Rik 15 (*akar-ity-akaḥ*, as printed). (6) The grammar paragraphs "within the bhāṣya" and the Vyākaraṇa-prakriyā pages are characterized, not transcribed, as CLAUDE.md directs. (7) Two process slips caught and corrected in the text: the Rik 1 reading note under the Saṃhitā (p. 2) and its "provisional" translation were written before the Pada was viewed (corrected at the head of the Rik 1 continuation); and a first draft of several sūtra numbers written from memory was removed before the page was committed. (8) The varga numerals of the page headers were not recorded; no varga closing note was seen for Sūkta 33.
+> वासात्यो अन्य उच्यते उषःपुत्रस्त्वान्य इति ॥
+
+*vāsātyo anya ucyate uṣaḥputras tv anya iti ||*
+
+"One is called Vāsātya, but the other is Uṣaḥputra." The Kannada explains: "Some explain what is said in the ṛk *vasātiṣu sma carathaḥ* in this way: *Vasātayaḥ* is a well-known people (*janapada*), and the ṛk speaks of two pious kings, the Aśvins, who were lords of that people. To make clear that this sense is not right, Yāska gives the sentence above: that is, one of these Aśvins is the son of Vasāti — *vasāti* means night, *vāsātya* means 'night's son' — and the other is Uṣaḥputra, 'dawn's son'. Since these Aśvin deities are connected with both times, night and day, to call one the son of the night and the other the son of the day — of the dawn — is conventional (*rūḍhi*)." *(Item number (9) read from a small numeral [?]; translation of the Sanskrit mine, tentative.)*
+
+**Yāska's illustrations of these points, as quoted by the source** *(untranslated by the source; my glosses are mine and tentative; the first quotation has no reference printed, the numerals of the others are [?])*:
+
+> (१) वसातिषु स्म चरथोऽसितौ पेत्वाविव [?] ।
+> कदेदमश्विना युवमभि देवा अगच्छतम् ॥
+> (२) इहेह जाता समुवामशीतावरेपसा [?] तन्वा नामभिः स्वैः ।
+> जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ॥ (ऋ. सं. १-१८१-४ [?])
+
+*(1) vasātiṣu sma carathaḥ asitau petvāv iva [?] | kad edam aśvinā yuvam abhi devā agacchatam || (2) iheha jātā samu vām aśītāvarepasā [?] tanvā nāmabhiḥ svaiḥ | jiṣṇur vām anyaḥ sumakhasya sūrir divo anyaḥ subhagaḥ putra ūhe || (ṛ. saṃ. 1-181-4 [?])*
+
+"(2) 'Born here and here ... with their own bodies and names: one of you is the victor, the patron of the good sacrifice; the other, the fortunate one, is borne as a son of heaven.'" *(Gloss mine, tentative, as the first line is uncertain in my reading.)*
+
+*To illustrate the Aśvins being praised at the time of the prātaranuvāka recitation by "joint" mantras — that is, mantras that praise the two together — the source cites these ṛks:*
+
+> (१) प्रातर्युजा वि बोधयाश्विनावेह गच्छताम् ।
+> अस्य सोमस्य पीतये ॥ (ऋ. सं. १-२२-१ [?])
+> (२) प्रातर्यजध्वमश्विना हिनोत न सायमस्ति देवया अजुष्टम् ।
+> उतान्यो अस्मद्यजते वि चावः पूर्वःपूर्वो यजमानो वनीयान् ॥ (ऋ. सं. ५-७७-२ [?])
+
+*(1) prātaryujā vi bodhayāśvināv eha gacchatām | asya somasya pītaye || (ṛ. saṃ. 1-22-1 [?]) (2) prātar yajadhvam aśvinā hinota na sāyam asti devayā ajuṣṭam | utānyo asmad yajate vi cāvaḥ pūrvaḥ-pūrvo yajamāno vanīyān || (ṛ. saṃ. 5-77-2 [?])*
+
+"(1) 'Wake the Aśvins, yoked at dawn; let them come here, to drink this soma.' (2) 'Sacrifice at dawn to the Aśvins; speed [them on]; there is no [offering] to the gods in the evening that is ... [?] — another [priest] sacrifices ahead of us; the earlier sacrificer is the more victorious [?].'" *(Glosses mine, tentative; the second is doubtful.)* The source adds that "for fear of lengthening the book" the explanation of these ṛks is out of place here and will be given on the proper occasions.
+
+**Special Topics, word by word (p. 77)**
+- **navedasā** — "the dual of the *s*-stem word *navedas*, in the vocative sense (the Vedic form of *navedasā*). The word *navedāḥ* is read among the twenty-four names for the wise, *navedā*, *vipra*, *vigra* [?], etc. (Ni. 3-19 [?]), so *navedasā* means wise, intelligent."
+- **triś cit** = *trivāram*: "thrice, i.e. the three times — morning, midday and evening — or the three pressings."
+- **adya**: "now; or in this sacrifice that we are performing."
+- **vibhuḥ** = *vyāptaḥ*: "pervading."
+- **yāmaḥ** = *yāyate gamyate 'neneti yāmo gamanasādhanabhūto rathaḥ*: "the root *yā* has the sense of going; *yāmaḥ* is that by which one sits and goes — a means of going — so *yāmaḥ* means the chariot."
+- **rātiḥ** = *rā dāne*: "from the root *rā*, 'to give', the word *rātiḥ* means gift."
+- **yantram** = *sambandhaviśeṣaḥ*: "a particular connection — that is, the connection that obtains between the two Aśvin deities."
+- **himyeva vāsasaḥ**: "Among the twenty-three names for night beginning *śyāvī*, *kṣapā* (Ni. 1-7 [?]) the word *himā* is read; so *himā* means night, or night endowed with *hima*, frost. *Vāsasaḥ* = *sūryaraśmyācchādanayuktasya vāsarasya*, 'of the day that is covered by the sun's rays', that is, of the day with sunshine or heat. So the simile *himyeva vāsasaḥ* means that your relation is as the relation between the dewy night and the sunny day: since night and day come one after the other, they have a mutual relation; so do you, the two Aśvin deities."
+- **abhyāyaṃsenyā** = *abhito niyantavyau anugrahavaśāt tadadhīnau*: "[to be] held on all sides — those who, by favour, are dependent: that is, dependent on the sacrificers, and so on."
+- **manīṣibhiḥ** = *medhāvibhiḥ ṛtvigbhiḥ*: "by intelligent people, or by priests and others."
+
+**Vyākaraṇa-prakriyā** *(p. 78, PDF 92 — grammar page, noted briefly; begun here, to continue on p. 79)*
+- **adya**: *asmin ahani* — "on this day"; the sūtra *sadyaḥ parut parāry aiṣamaḥ paredyavy adya…* — सद्यः परुत्परार्यैषमः परेद्यव्यद्य… — Pā. 5-3-22 (as printed) lists the word as an irregular formation; the bhāṣyakāra explains its working by *idamo 'śdyaś ca*: after *idam* ending in the seventh case, *dyu* comes and *idam* is replaced by *aś*, giving *adya*; the long final in the Saṃhitā by *nipātasya ca* — निपातस्य च — Pā. 6-3-136.
+- **navedasā**: *viparītaṃ na vitta iti navedasau* — "one who does not know wrongly", a *nañ*-tatpuruṣa; root *vida jñāne*, the Uṇādi suffix *asun* by *sarvadhātubhyo 'sun* — [Uṇ. 4-[?]]; the *nañ* compound would normally lose its *n* by *nalopo nañaḥ* — Pā. 6-3-73, but the sūtra *na bhrāṇnapānnavedā…* — न भ्राण्नपान्नवेदा… — Pā. 6-3-75 prescribes *prakṛtibhāva* here, so the *n* is retained; the vocative dual *au* is replaced by *ā* by *supāṃ sulug…* — सुपां सुलुक्… — Pā. 7-1-39; it is *āmantrita* by *sāmantritam* — सामन्त्रितम् — Pā. 2-3-48 [?]; and by *āmantritasya ca* — आमन्त्रितस्य च — Pā. 8-1-19 a vocative that is not at the beginning of a pāda is wholly unaccented (*sarvānudātta*).
+- **yāmaḥ**: the Uṇādi sūtra *arti-stu-su-hu-sṛ-dhṛ-kṣi-kṣu-bhā-yā-vā-pad-yakṣi-nībhyo man* — अर्तिस्तुसुहुसृधृक्षिक्षुभायावापदियक्षिनीभ्यो मन् — [Uṇ. 1-[?]] gives *man* after these fourteen roots, so *man* after *yā* (to go); the Medinī-kośa has "*yāmas tu puṃsi prahare saṃyame 'pi prakīrtitaḥ*"; here the sense is derived from the parts: *yāyate gamyate* "[that] by which one goes", hence "chariot", with initial acute. The other derivation: root *yama uparame* (1st class), *yamyate uparamyate idam iti yāmaḥ* — that which, once its work is done, stops in one place: the sense of "ceasing" applies to the chariot; *ghañ* in the object sense, *upadhā-vṛddhi*, *karṣātvato ghañ anta udāttaḥ* — कर्षात्वतो घञोऽन्त उदात्तः — Pā. 6-1-159 would make the final syllable acute — the exception *vṛṣādīnāṃ ca* — वृषादीनां च — Pā. 6-1-203 gives the first syllable the acute.
+- **rātiḥ** (begun): root *rā ādāne*; *striyāṃ ktin* — स्त्रियां क्तिन् — Pā. 3-3-94 (the suffix after all roots in the feminine, in the verbal-noun sense and in senses other than the agent); the page then begins on **titutra** (see p. 79).
+### Rik 34.1 — Vyākaraṇa-prakriyā, continued and concluded (pp. 79–80, PDF 93–94; grammar pages, noted briefly)
+
+- **rātiḥ** (end of the entry, p. 79): the augment *iṭ* is barred; the suffix *ktin* after *rā* is acute by *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* — मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः — Pā. 3-3-96 (as printed).
+- **yuvoḥ**: the Uṇādi suffix *madik* after the root *yuṣ* (*yuṣyasibhyāṃ madik* — युष्यसिभ्यां मदिक् — [Uṇ. 1-[?]]), giving *yuṣmad*, final-acute by the suffix; the genitive-locative dual *os*; *yuṣmad + os*; the elision/replacement by *supāṃ sulug…* — सुपां सुलुक्… — Pā. 7-1-39, on which the Mahābhāṣya adds "*supāṃ ca supo bhavanti*" — "the *sup*-endings replace *sup*-endings" — so that the substitution may be made to extend to all the endings; the print refers also to the general rule *vyatyayo bahulam* — व्यत्ययो बहुलम् — Pā. 3-1-85. The substitute ending *os* is then an *ādeśa*-ending, and, as a vowel-initial ending that is not a substitute-ending, *yoci* — योऽचि — Pā. 7-2-89 [as printed 7-2-[?]] would give *ya* for the end of *yuṣmad*, *asmad*; therefore *da* is not replaced by *yā*. By *śeṣe lopaḥ* — शेषे लोपः — Pā. 7-2-90 — the seventh case taken in the sense of the locus — "in what remains": either the *ad* that remains after *ma* is lost before an ending (the *ṭi*-loss alternative), or [as a second sense] the *d* is lost by *alo 'ntyasya* — अलोऽन्त्यस्य — Pā. 1-1-52 (the final-letter-loss alternative). In the first alternative the *tva*/*ma*-substitutions are exceptions to the loss, so there is no loss where they occur; in *yuvad + os*, if the loss of *ad* as taught takes place, the *o* is acute by the *anudāttasya ca yatrodāttalopaḥ* — अनुदात्तस्य च यत्रोदात्तलोपः — Pā. 6-1-161 principle; in the final-letter-loss alternative, *yuva + os*: by the Vedic *pararūpa* the single substitute comes; otherwise the *o* is taught by *osi ca* — ओसि च — Pā. 7-3-104 [as printed [?]]; and by *ekādeśa udāttena* — एकादेश उदात्तेन — Pā. 8-2-5 the *o* is acute. The print notes that the two alternatives (*ṭilopa* and *antyalopa*) differ in their results.
+- **himyā iva** (p. 80): *ūdhaḥ payaḥ himā* [Ni. 1-2-22 [?]] — the Nirukta's list of words for night contains the word *himyā*, hence it means "night". *Hanerhi ca* — हनेर्हि च — [Uṇ. 1-[?]]: after *han hiṃsāgatyoḥ* the suffix *mak* and the substitution *hi* for *han*: *hima*, *kit*, so no *guṇa*; *hanti padmāni iti himam* ("that which kills the lotuses") — frost; or *himam asyā asti* ("she has frost") by *arśa ādibhyo 'c* — अर्श आदिभ्योऽच् — Pā. 5-2-127, then *ṭāp*: *himā*, "the night with dew". Here the word *hima* is final-acute by the suffix, *ṭāp* is unaccented because the word is *pit*, and the *savarṇadīrgha* is acute by the single-substitute accent; the third singular *ṭā* after it; then, by *supāṃ sulukpūrvasavarṇācchepāyāḍāḍyāyājālaḥ* — सुपां सुलुक्पूर्वसवर्णाच्छेयाडाड्यायाजालः — Pā. 7-1-39, *ḍyā* replaces *ṭā*; loss of *ṭi* by the *ḍ*-marker; *himyā*; the *yā* is acute by the *udāttanivṛtti* accent. The compound with *iva* comes by the vārtika "*iveneva samāso vibhakty-alopaḥ pūrvapadaprakṛtisvaratvaṃ ca*" — "the compound with *iva* [is formed] without elision of the case-ending, and with the accent of the first member" (as printed, Pā. 2-1-[?]).
+- **vāsasaḥ**: root *vasa ācchādane*, "to cover, to clothe"; *vāsaḥ* denotes the day (*ahaḥ*) because it covers with light; with the causative *ṇic*, the Uṇādi suffix *asun*, *upadhā-vṛddhi*, loss of *ṇi*, *jas*, *ru* and *visarga*.
+- **abhyāyaṃsenyā**: the two preverbs *abhi*, *ā* before *yama uparame*, the Uṇādi suffix *senya*: *abhi + ā + yam + senya*; *yaṇ*-substitution; *abhyāyam + senya*; *m* → anusvāra by *naś cāpadāntasya jhali* — Pā. 8-3-24 (as printed); the dual ending replaced by *ā* by *supāṃ sulug…*. Rik 1 ends here (*|| 1 ||*).
+
+### Rik 34.2 (p. 80 onward, PDF 94–)
+
+**Saṃhitā-pāṭha** *(first line only, at the foot of p. 80; accents not reproduced; the second line is on p. 81 and is not yet written)*
+
+> **त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।**
+
+*trayaḥ pavayo madhuvāhane rathe somasya venām anu viśva id viduḥ |*
+### Rik 34.2 (pp. 80–84, PDF 94–98)
+
+**Saṃhitā-pāṭha** *(pp. 80–81; accents not reproduced)*
+
+> **त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।**
+> **त्रयः स्कम्भासः स्कभितास आरभे त्रिर्नक्तं याथस्त्रिर्वश्विना दिवा ॥ २ ॥**
+
+*trayaḥ pavayo madhuvāhane rathe somasya venām anu viśva id viduḥ |*
+*trayaḥ skambhāsaḥ skabhitāsa ārabhe trir naktaṃ yāthas trir v aśvinā divā || 2 ||*
+
+*(Reading note, written after viewing the Pada on p. 81: the Saṃhitā prints "trirv-aśvinā"; the Pada divides this as* triḥ | ūṃ iti | aśvinā*, so* trir v aśvinā *is the particle* ū *joined to* aśvinā *by sandhi.)*
+
+**Pada-pāṭha** *(p. 81)*
+
+> त्रयः । पवयः । मधुऽवाहने । रथे । सोमस्य । वेनाम् । अनु । विश्वे । इत् । विदुः ॥
+> त्रयः । स्कम्भासः । स्कभितासः । आऽरभे । त्रिः । नक्तम् । याथः । त्रिः । ऊं इति । अश्विना । दिवा ॥ २ ॥
+
+*trayaḥ | pavayaḥ | madhu-vāhane | rathe | somasya | venām | anu | viśve | it | viduḥ ||*
+*trayaḥ | skambhāsaḥ | skabhitāsaḥ | ā-rabhe | triḥ | naktam | yāthaḥ | triḥ | ūṃ iti | aśvinā | divā || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 81–82; the first half in full, the grammatical tail characterized)*
+
+> मधुवाहने मधुरद्रव्याणां नानाविधखाद्यादीनां वहनेन युक्तेऽश्विनोः सम्बन्धिनि रथे पवयो वज्रसमाना दृढाश्चक्रविशेषास्त्रयस्त्रिसंख्याकाः सन्ति । इत् इत्थं चक्रत्रयसद्भावप्रकारं विश्वे सर्वे देवाः सोमस्य चन्द्रस्य वेनां कमनीयां भार्यामभिलक्ष्य योत्रायां विदुः । जानन्ति । यदा सोमस्य वेनया सह विवाहस्तदानीं नानाविधखाद्ययुक्तं चक्रत्रयोपेतं प्रौढं रथमारुह्याश्विनौ गच्छत इति सर्वे देवा जानन्तीत्यर्थः । तस्य रथस्योपरि स्कम्भासः स्तम्भविशेषास्त्रयस्त्रिसंख्याकाः स्कभितासः । स्थापिताः । किमर्थम् । आरभे । आरब्धुम् । अवलम्बितुम् । यदा रथस्त्वरया याति तदानीं पतनभीतिनिवृत्त्यर्थं हस्तालम्बनभूताः स्तम्भा इत्यर्थः । हे अश्विना युवां तादृशेन रथेन नक्तं रात्रौ त्रिर्याथः । त्रिवारं गच्छथः । तथा दिवा दिवसेऽपि त्रिर्याथः । रात्र्यहनि च रथमारुह्य पुनःपुनः क्रीडथ इत्यर्थः ॥
+
+*madhuvāhane madhuradravyāṇāṃ nānāvidhakhādyādīnāṃ vahanena yukte 'śvinoḥ sambandhini rathe pavayo vajrasamānā dṛḍhāś cakraviśeṣās trayas trisaṃkhyākāḥ santi | it itthaṃ cakratrayasadbhāvaprakāraṃ viśve sarve devāḥ somasya candrasya venāṃ kamanīyāṃ bhāryām abhilakṣya yotrāyāṃ [?] viduḥ | jānanti | yadā somasya venayā saha vivāhas tadānīṃ nānāvidhakhādyayuktaṃ cakratrayopetaṃ prauḍhaṃ ratham āruhyāśvinau gacchata iti sarve devā jānantīty arthaḥ | tasya rathasyopari skambhāsaḥ stambhaviśeṣās trayas trisaṃkhyākāḥ skabhitāsaḥ | sthāpitāḥ | kimartham | ārabhe | ārabdhum | avalambitum | yadā rathas tvarayā yāti tadānīṃ patanabhītinivṛttyarthaṃ hastālambanabhūtāḥ stambhā ity arthaḥ | he aśvinā yuvāṃ tādṛśena rathena naktaṃ rātrau trir yāthaḥ | trivāraṃ gacchathaḥ | tathā divā divase 'pi trir yāthaḥ | rātryahani ca ratham āruhya punaḥ punaḥ krīḍatha ity arthaḥ ||*
+
+**Translation:** "In the chariot of the Aśvins, which is *madhuvāhane* — furnished with the carrying of sweet things, various kinds of food and the like — there are *pavayaḥ*, wheels, firm and hard as the vajra, *trayaḥ* — three in number. *It* — in this very way, the state of having three wheels — *viśve*, all the gods *viduḥ* — know, *somasya venām anu* — with reference to Soma's, the moon's, lovely wife Vena ['at the [bridal] procession' — the word I read as *yotrāyām* is doubtful]. When Soma's marriage with Vena [took place], all the gods know that the two Aśvins went mounted on a splendid chariot with three wheels, carrying various foods. On that chariot, *skambhāsaḥ* — pillars, three in number — *skabhitāsaḥ* — were set up. For what purpose? *Ārabhe* — to take hold, to hold on to: when the chariot moves swiftly, the pillars are the supports for the hand, to remove the fear of falling. O Aśvins, with such a chariot you go *naktam*, by night, *triḥ*, three times; and likewise *divā*, by day, you go three times: by night and by day you mount the chariot and sport again and again."
+
+**Grammar within the bhāṣya** *(p. 82, characterized; the print is crowded and I did not chase the numerals)*: *madhuvāhane* (root *vaha prāpaṇe*; *lyuṭ* in the instrument/locus sense, *kṛdutta­rapadaprakṛtisvaratva*); *viduḥ* (root *vida jñāne*, *laṭ* → *jhi* → *us* by the optional rule *vido laṭo vā*, *śap* elided); *skambhāsaḥ* (root *skabhi*/*stabhi* "to hold back", the suffix *ac* of the *pacādi* class); *skabhitāsaḥ* (*skabhu* of the *sautra*-root list, marked *udit*, so *iṭ* is optional before *ktvā*; the *iṭ* augment is therefore introduced "as an augment of the participle"; *niṣṭhā* with *iṭ*; *asun* ...); *ārabhe* (root *rabha rābhasye*, the suffix *kvip* [*bhāve kvip*] with the first-member accent of a *kṛt*-compound).
+
+**Pratipadārtha** *(p. 82)* — "**aśvinā** — O Aśvin deities (you two); **madhuvāhane** — [laden] with delicious foods; **rathe** — [in your] chariot; **trayaḥ pavayaḥ** — three wheels firm as the vajra; **it** — in this manner; **somasya** — of the moon; **venām anu** — in the wedding procession with Vena, his wife; **viśve** — all the gods; **viduḥ** — know; **ārabhe** — for the sake of holding on; **skabhitāsaḥ** — [that are] supports; **trayaḥ** — three; **skambhāsaḥ** — pillars [in that chariot]; **naktam** — at night; **triḥ yāthaḥ** — you go three times; **divā** — by day; **triḥ** — three times [you go]."
+
+**Bhāvārtha** *(p. 82)* — "O Aśvin deities, at the time of the wedding of the beloved Vena, Soma's wife, you went in your chariot, filled with sweet foods, to take part in the wedding. All the gods know that your chariot has three auspicious wheels and, so that those who sit within may not fall when it runs fast, three pillars to hold on to. In your chariot you go three times by day and three times by night for sport. Spend the time always in this way, with delight."
+
+**English Translation (the source's own, p. 82)** — "There are three wheels to your honey-**bearig** [sic] (foods!& c) chariot as all the gods have known it to be when attending the marriage of Vena, the beloved of Soma ; O Aswins, there are three posts fixed in the chariot for support, and in it thrice you drive by night and thrice by day."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 83–84**
+
+"In this ṛk it is said that the Aśvins' chariot has three wheels; that, while it goes at speed, there are three pillars for the occupants to hold on to so as not to fall; and that the Aśvins, seated in such a chariot, travel thrice by day and thrice by night. And, as the bhāṣyakāra says, it is also described that all the gods knew that at the wedding of Vena, the wife of Soma, the Aśvins went in their own chariot filled with sweet and various foods. Here the bhāṣyakāra explains *somasya* as 'of the moon'. But it seems fitting to take the word *somasya* as the Soma-deity, who is proud of the soma-juice, or Soma the king. In the Veda there is a convention of calling Soma (the soma-juice) 'king'; and in the Taittirīya Brāhmaṇa of the Yajurveda it is said:"
+
+> अथ ह सीता सावित्री । सोमᳩं राजानं चकमे ।
+
+*atha ha sītā sāvitrī | somaṃ rājānaṃ cakame |*
+
+"'Then Sītā, the daughter of Savitṛ, desired King Soma.' *(The source's Kannada: 'Sītā, the daughter of Savitṛ (the Sun), desired — was pleased with — King Soma'; the reference is not given in the print here.)* It is worth noting that this matter is connected with the matter of Venā and Soma mentioned in this ṛk. In this context the following two ṛks are also worth noticing:"
+
+> सूर्याया अश्विना वराग्निरासीत्पुरोगवः ॥ (ऋ. सं. १०-८५-८ [?])
+> सोमो वधूयुरभवदश्विनास्तामुभा वरा ।
+> सूर्यां यत्पत्ये शंसन्तीं मनसा सविताददात् ॥ (ऋ. सं. १०-८५-९ [?])
+
+*sūryāyā aśvinā varāgnir āsīt purogavaḥ || (ṛ. saṃ. 10-85-8 [?])*
+*somo vadhūyur abhavad aśvināstām ubhā varā | sūryāṃ yat patye śaṃsantīṃ manasā savitādadāt || (ṛ. saṃ. 10-85-9 [?])*
+
+*(The source leaves these untranslated. My gloss, **mine and tentative**: "Agni was the leader of the wooers of Sūryā [the second half-verse: 'Soma was the one who desired the bride; the two Aśvins were both the wooers; when Savitṛ gave Sūryā, who was praising [?] her husband, with the mind']". The numerals are read from small Kannada digits and are uncertain.)*
+
+"The matter stated in these two ṛks is worth noting: Soma desired Sūryā-devī, the daughter of Savitṛ, as wife. In the same way the Aśvin deities too wished to become suitors of Sūryā-devī; and [it is] described that Savitṛ gave Sūryā-devī to Soma, and so on. Besides this, in the Aitareya Brāhmaṇa [the source reads]:"
+
+> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छन् ॥ (ऐ. ब्रा. ४-७ [?])
+
+*prajāpatir vai somāya rājñe duhitaraṃ prāyacchat sūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchan || (ai. brā. 4-7 [?])*
+
+"'Prajāpati gave his daughter Sūryā Sāvitrī to King Soma; to her all the gods came as suitors.'" *(Translation mine from the Sanskrit; the source gives it in a Kannada paraphrase as above.)*
+
+- **madhuvāhane** = *madhu vāhyate 'neneti madhuvāhanaḥ*: "*madhu* means honey, or delicious food; a chariot that bears these, i.e. a chariot filled [with them], is meant."
+- **somasya venām anu id viduḥ**: "*All the gods knew of the wedding that took place with Venā*: that is, as stated above (Ai. Brā. 4-7 [?]), when Soma had wished to marry Sūryā-devī the Aśvins and all the other gods, too, came to that wedding rite desiring that the woman should become [their] bride; as the Aśvins also themselves wished to marry her (ṛ. saṃ. 10-85-8 and 9 [?]). For this reason — that is, in order to win the bride — the Aśvins filled their chariot with sweet foods and went to Soma's wedding; and since all the gods had come there, all of them knew of this matter: such is the main idea of the description in this ṛk."
+- **ārabhe** = *ārabdhuṃ | avalambitum*: "*to hold on to*. When a chariot goes fast it is natural for it to shake; then, for those sitting inside to hold on firmly lest they fall, there are three pillars in the chariot — such is the sense."
+
+**Vyākaraṇa-prakriyā** *(p. 84, PDF 98 — grammar page, noted briefly; begun, to continue on p. 85)*
+- **madhuvāhane**: the Uṇādi sūtra beginning *phalipāṭanami-mani-jana…* — फलिपाटनमिमनिजनांगुक्पटिनाकिधतश्च — [Uṇ. 1-[?]] gives the suffix *u* after the root *mana*, with *dha* in place of the *n*: *madhu*; the word is final-acute by the suffix-accent. *Karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — Pā. 3-3-117: *lyuṭ* after a root in the instrument or locus sense; so *lyuṭ* after the causative stem of *vah*, *upadhā-vṛddhi*, loss of *ṇi*, *ana* for *yu*.
+- **viduḥ**: root *vida jñāne*; *laṭ*; *jhi*; *vido laṭo vā* — विदो लटो वा — Pā. 3-4-83: the substitutes *ṇal*, *atus*, *us* etc. optionally replace the *laṭ*-endings of *vid*; here *us* for *jhi*; *śap*, elided as the root is of the *ad*-class; *vid + us*, *ru*, *visarga*.
+- **skambhāsaḥ**: root *skabhi*/*stabhi* "to hold back, to stop" (*gatipratibandhe*); *skambhate* "is checked"; the suffix *ac* of the *pacādi* class by *nandigrahipacādibhyo lyuṇinyacaḥ* — नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः — Pā. 3-1-134.
+- **skabhitāsaḥ**: the root *skabhu* of the *sautra* list, marked *udit*; *udito vā* — उदितो वा — Pā. 7-2-56: before *ktvā* the *iṭ* augment is optional for an *udit* root; hence the augment, here.
+
+---
+
+---
+
+**Progress note — Volume 4, Sūkta 34 in progress: printed p. 84 (PDF 98) reached; Riks 34.1 complete; Rik 34.2 written through the start of its grammar page (*madhuvāhane*, *viduḥ*, *skambhāsaḥ*, *skabhitāsaḥ*).**
+
+**Next task:** continue at printed p. 85 (PDF 99) with the rest of Rik 2's grammar, then Rik 3. Sūkta 34 (12 Riks) runs to about printed p. 130 (PDF 144). Rendered pages: `/tmp/v/v-NNN.jpg` (150 dpi, PDF 85–144); re-render if the session was restarted: `pdftoppm -jpeg -r 150 -f 99 -l 144 Rig_Vol4.pdf /tmp/v/v`.
+
+**Open flags:** the Volume 4 flags of Sūkta 33 still stand (see CLAUDE.md "Lessons"); in addition for Sūkta 34: the heading's metre line prints "9–12 Triṣṭup" against the introduction's ninth and twelfth; the Nirukta items (7)–(9) and the Yāska/Ṛgveda/Brāhmaṇa quotations on pp. 75–76 and 83 are partly uncertain, with my glosses labelled tentative; Āś., Ni., Ṛ. and Ai. Brā. numerals are [?]; *yotrāyām* in the Rik 2 bhāṣya is doubtful.
