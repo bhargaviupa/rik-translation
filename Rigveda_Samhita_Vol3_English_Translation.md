@@ -5220,13 +5220,368 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 **महद्भ्यः** — *mahānto guṇair adhikāḥ tebhyaḥ*: those greater in qualities or excellence among the gods. **अर्भकेभ्यः** — those less in qualities (the little ones). **युवभ्यः** — to the young. **आशिनेभ्यः** — *āśinā vayasā vyāptā vṛddhāḥ*: those advanced in age, the old. **ज्यायसः** — the great, the excellent, the endowed with good qualities, or elder in age. **मा वृक्षि** — *o vraścū bhedane*; I shall not cause it to be broken off: that is, I shall not stop reciting the praise; I shall go on doing it. 
 
 **॥ Close of Sūkta 27 ॥** *(p. 408, upper part: large print "The twenty-seventh sūkta is ended"; the varga number is not given.)*
+## ॥ ಇಪ್ಪತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 28 — *"yatra grāvā pṛthubudhna ūrdhvo"* ("The Twenty-eighth Sūkta"; fifth sūkta of the Sixth Anuvāka)
+
+*(Printed pp. 408 lower half–437. The introductory note is on the lower half of p. 408 and p. 409, with the heading block on p. 409; Rik 1 begins on p. 410.)*
+
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note; printed p. 408–409)** *(read at 130 dpi from small print; many words doubtful — this is a provisional reading)*
+
+> यत्र ग्रावेति पञ्चमं सूक्तं नवर्चम् । आदितः षडनुष्टुभः । आयजीत्याद्यास्तिस्रो गायत्र्यः । आदितश्चतस्र ऐन्द्र्यः । ततो द्वे उलूखलदेवत्ये । तदनन्तरभाविन्यावुलूखलमुसलोभयदेवताके । अन्त्याया उच्छिष्टमित्येषा हरिश्चन्द्राधिषवणचर्मसोमानामन्यतमो देवता [?] । तथा च बृहद्देवतायामुक्तम् — चर्माधिषवणीयं वा सोमं वान्त्या प्रशंसति (बृ. ३-१०१ [?]) इति । तदुक्तमनुक्रमण्याम् — यत्र ग्रावा नव षळनुष्टुबादि यच्चिद्ध्यूलूखल्यौ परे मौसल्यौ च प्रजापतेर्हरिश्चन्द्रस्यान्त्या चर्मप्रशंसा वेति [?] । आद्याश्चतस्र ऊञ्जसवे [?] होमे विनियुक्ताः । पञ्चम्याद्याश्चतस्रोऽभिषवणे । अन्त्या द्रोणकलशे सोमावनयने ।
+
+*yatra grāveti pañcamaṃ sūktaṃ navarcam | āditaḥ ṣaḍanuṣṭubhaḥ | āyajītyādyās tisro gāyatryaḥ | āditaś catasra aindryaḥ | tato dve ulūkhaladevatye | tadanantarabhāvinyāv ulūkhalamusalobhayadevatāke | antyāyā ucchiṣṭam ity eṣā hariścandrādhiṣavaṇacarmasomānām anyatamo devatā [?] | tathā ca bṛhaddevatāyām uktam — carmādhiṣavaṇīyaṃ vā somaṃ vāntyā praśaṃsati (bṛ. 3-101 [?]) iti | taduktam anukramaṇyām — yatra grāvā nava ṣaḷanuṣṭubādi yac cid dhy ūlūkhalyau pare mausalyau ca prajāpater hariścandrasyāntyā carmapraśaṃsā veti [?] | ādyāś catasra ūñjasave [?] home viniyuktāḥ | pañcamyādyāś catasro 'bhiṣavaṇe | antyā droṇakalaśe somāvanayane |*
+
+**Translation (provisional):** "The sūkta *yatra grāvā* is the fifth [of this anuvāka] and has nine riks. The first six are in Anuṣṭubh; the three beginning *āyajī* are in Gāyatrī. The first four are to Indra; then two have the mortar (*ulūkhala*) as deity; the two next have both mortar and pestle (*musala*); of the last, *ucchiṣṭam*, one of Hariścandra, the pressing-skin (*adhiṣavaṇa-carma*) or Soma is the deity [reading doubtful]. So the Bṛhaddevatā says: 'with the last [rik] he praises either the pressing-skin or the Soma' (Bṛ. 3-101 [?]). So also the Anukramaṇikā [the wording is garbled in my reading]. The first four are applied in the *homa* [of the opening?]; the four from the fifth in the pressing; the last at the *Droṇakalaśa*, in the pouring-out of the Soma."
+
+**॥ Anuvāda (Kannada rendering) ॥** *(pp. 408–409)* *Yatra grāvā* is the fifth sūkta of the sixth anuvāka and has nine riks. The first six riks are in Anuṣṭubh; the three beginning *āyajī* are in Gāyatrī. The first four riks have Indra as deity; the next two the mortar; the two after that the mortar and the pestle; the last rik has Hariścandra, the *adhiṣavaṇa* skin, or Soma as deity. The *Bṛhaddevatā*, a work by Śaunaka, says: *carmādhiṣavaṇīyaṃ nā somaṃ vāntyā praśaṃsati* (Bṛ. [3-101]); the Anukramaṇikā too says: *yatra grāvā nava ṣaḷanuṣṭubādi yac cid dhy ūlūkhalyau pare mausalyau ca prajāpater hariścandrasyāntyā carmapraśaṃsā veti* [as printed]. The application of this sūkta is as follows: the first four riks are used in the *añjasava* [?] homa; the four from the fifth in the pressing (*abhiṣavaṇa*); the last rik is used when the Soma-juice is poured into the *Droṇakalaśa*, the wooden vessel, for the mantras needed. In this connection:
+
+> अथ हैतं शुनःशेपोऽञ्जःसवनं ददर्श तमेताभिश्च तिसृभिरभिषुषाव यच्चिद्धि त्वं गृहे गृह इत्यैनं द्रोणकलशमभ्यवनिनायोच्चैस्त्वं चर्मोर्भरीर्ति [?] … अथ हास्मिन्नाराब्धे पूर्वाभिश्च तिसृभिः ससृहाहाकाराभिर्जुहवां चकार । (ऐ. ब्रा. २-१२ [?])
+
+*atha haitaṃ śunaḥśepo 'ñjaḥsavanaṃ dadarśa tam etābhiś ca tisṛbhir abhiṣuṣāva yac cid dhi tvaṃ gṛhe gṛha ity ainaṃ droṇakalaśam abhyavanināyoccaistvaṃ carmorbharīrti [?] … atha hāsminn ārabdhe pūrvābhiś ca tisṛbhiḥ sasṛhāhākārābhir juhavāṃ cakāra | (ai. brā. 2-12 [?])* — "Then Śunaḥśepa saw this *añjaḥsavana* [?]; he pressed [the soma] with these [three riks] and with *yac cid dhi tvaṃ gṛhe gṛhe* he led it to the *Droṇakalaśa* … [the rest of the sentence is garbled in my reading, and I do not translate it]." *(This Brāhmaṇa quotation is very crowded and unreliable in my reading; the Kannada gloss that follows it says: "we have explained its meaning in the Śunaḥśepa legend itself.")*
+
+**॥ Heading block of the sūkta (p. 409) ॥**
+
+> मण्डल १ — अनुवाक ६ — सूक्त २८ । अष्टक १ — अध्याय २ — वर्ग [२४, २५] [?] । ऋक्संख्या ९ ।
+> ऋषिः — शुनःशेप आजीगर्तिः । देवता — १–४ इन्द्रः । ५–६ उलूखलम् । ७–८ उलूखलमुसले । ९ हरिश्चन्द्र अधिषवणचर्म वा सोमो वा । छन्दः — १–६ अनुष्टुप् । ७–९ गायत्री ।
+
+*Maṇḍala 1 — Anuvāka 6 — Sūkta 28. Aṣṭaka 1 — Adhyāya 2 — Varga [24, 25] [?]. Riks: 9. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: 1–4 Indra; 5–6 the Mortar; 7–8 the Mortar and the Pestle; 9 Hariścandra, or the pressing-skin, or Soma. Metre: 1–6 Anuṣṭubh; 7–9 Gāyatrī.* *(Numerals read at 130 dpi, marked [?].)*
 
 ---
 
-**Progress note — printed page 408 (upper part) reached; Sūkta 27 complete (all 13 Riks).**
+### Pages 410–416 — Sūkta 28, Rik 1
 
-**This batch:** Riks 12–13 of Sūkta 27 (printed pp. 401–408). Sūkta 27 is now finished; grammar pages given as short notes.
+**॥ Saṃhitāpāṭhaḥ ॥**
 
-**Next task:** begin Sūkta 28 ("yatra grāvā pṛthubudhna ūrdhvo", 9 Riks; the introductory note on the lower half of printed p. 408 is already seen: it says that *yatra grāvā* is the fifth sūkta of the Sixth Anuvāka, with nine riks — the first six in Anuṣṭubh, the three *āyajī…* riks in Gāyatrī; riks 1–4 to Indra, riks 5–6 to the *Ulūkhala* [mortar] deities, riks 7–8 to Ulūkhala and Musala [pestle], rik 9 to Indra; the application is in the Soma-pressing and the *Droṇakalaśa*, quoting Aitareya-brāhmaṇa; Rishi Śunaḥśepa; the Anuvāda and heading block follow on p. 409, PDF page 424; Rik 1 begins on p. 409); Sūkta 28 runs to printed p. 437; Sūkta 29 begins at p. 438. Pages 389–460 are rendered at 130 dpi in /tmp/s27/r-NNN.jpg (printed page = NNN − 15); render more with `pdftoppm -jpeg -r 130 -f N -l M Rig_Vol3.pdf`.
+> यत्र ग्रावा पृथुबुध्न ऊर्ध्वो भवति सोतवे ।
+> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ १ ॥
 
-**Open flags:** as in earlier notes. Sūkta 27: Anukramaṇikā quotation in the introductory note, sūtra/Uṇādi/Nirukta numerals marked [?]; Rik 12–13 grammar only outlined; Rik 13's *vṛkṣi* derivation read from a crowded print.
+*yatra grāvā pṛthubudhna ūrdhvo bhavati sotave | ulūkhalasutānām aved v indra jalgulaḥ || 1 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> यत्र । ग्रावा । पृथुऽबुध्नः । ऊर्ध्वः । भवति । सोतवे ॥ उलूखलऽसुतानाम् । अव । इत् । ऊं इति । इन्द्र । जल्गुलः ॥ १ ॥
+
+*yatra | grāvā | pṛthu-budhnaḥ | ūrdhvaḥ | bhavati | sotave || ulūkhala-sutānām | ava | it | ūṃ iti | indra | jalgulaḥ || 1 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 410)*
+
+> हे इन्द्र यत्र यस्मिन्नञ्जःसवे कर्मणि सोतवेऽभिषवार्थं ग्रावा पाषाणः पृथुबुध्नः स्थूलमूल ऊर्ध्व उन्नतो भवति तस्मिन्कर्मण्युलूखलसुतानामुलूखलेनाभिषुतानां रसमवेदित्स्वकीयत्वेनावगत्यैव जल्गुलः । भक्षय ॥ पृथुबुध्नः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । भवति । निपातैर्यद्यदिहन्तेति निघातप्रतिषेधः । सोतवे । षुञ् अभिषवे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । उलूखलसुतानाम् । उलूखलेन सुतानाम् । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । जल्गुलः । गल अदने । अस्माद्यङो लुकि लेण्मध्यमैकवचने लेटोऽडाटाविति अडागमः । इतश्च लोप इतीकारलोपः । उपधायाः उत्त्वं च हलादिशेषाभावश्च पृषोदरादित्वात् ॥
+
+*he indra yatra yasminn añjaḥsave karmaṇi sotave 'bhiṣavārthaṃ grāvā pāṣāṇaḥ pṛthubudhnaḥ sthūlamūla ūrdhva unnato bhavati tasmin karmaṇy ulūkhalasutānām ulūkhalenābhiṣutānāṃ rasam aved svakīyatvenāvagatyaiva jalgulaḥ | bhakṣaya || pṛthubudhnaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | bhavati | nipātair yad yadihanteti nighātapratiṣedhaḥ | sotave | ṣuñ abhiṣave | tumarthe sesen iti tavenpratyayaḥ | nittvād ādyudāttatvam | ulūkhalasutānām | ulūkhalena sutānām | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | jalgulaḥ | gala adane | asmād yaṅo luki leṇmadhyamaikavacane leṭo 'ḍāṭāv iti aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | upadhāyāḥ utvaṃ ca halādiśeṣābhāvaś ca pṛṣodarāditvāt ||*
+
+**Translation:** "O Indra! In the rite in which (*yatra*) the *grāvan* — the pressing stone — *pṛthubudhnaḥ* (broad at the base) *ūrdhvaḥ bhavati* — is raised up — for pressing (*sotave*): in that rite, *ulūkhalasutānām* — of the juices pressed in the mortar — know (*ava it*, 'know indeed') the juice [to be] your own and partake (*jalgulaḥ*, eat/drink). *Pṛthubudhnaḥ*: *bahuvrīhi*, the first member's accent. *Bhavati*: the lowering of the verb is prevented because *yatra* [a *yat*-word] precedes. *Sotave*: *ṣuñ abhiṣave*; *tavenn* in the infinitive sense; first-syllable acute by *nit*. *Ulūkhalasutānām*: 'pressed with the mortar'; the third-case compound with a *kṛdanta* [*sutānām*] takes the first member's accent by P. 6-2-48. *Jalgulaḥ*: *gala adane* ['to swallow']; *yaṅ-luk*; *leṭ*, 2nd singular, with the *aṭ* augment; loss of the *i*; the *u* for the penultimate and the absence of *halādiḥ śeṣa* are by the *pṛṣodarādi* rule." *(Grammar pages 415–416, noted briefly: the words treated are* pṛthubudhnaḥ *[bahuvrīhi; first member's accent, P. 6-2-1],* bhavati *[*bhū sattāyām*; since *yatra* is a *yat*-word, the verb is not lowered, P. 8-1-66 *yadvṛttān nityam*],* sotave *[*ṣuñ abhiṣave*; *tavenn*, P. 3-4-9; the *ṣ* of the root becomes *s* by P. 6-1-64; guṇa before the suffix; the accent of the *nit*-suffix],* ulūkhalasutānām *[*sutānām* — *kta* in the passive; the instrumental compound keeps the first member's accent by P. 6-2-48 *tṛtīyā karmaṇi*; *ū* is acute] and* jalgulaḥ *[*gala adane*, *curādi*, *yaṅ* in the sense of repetition (the Vedic *yaṅ-luk*); doubling by P. 6-1-9; the reduplicate's *g* → *j* by *cutva* P. 7-4-62; *leṭ* 2nd singular *sip*, *aṭ* by P. 3-4-94 *leṭo 'ḍāṭau*; loss of *i* by P. 3-4-97 *itaś ca lopaḥ parasmaipadeṣu*; *ru*-*visarga*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 410)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which sacrificial rite | **सोतवे (sotave)** — for pressing | **पृथुबुध्नः (pṛthubudhnaḥ)** — broad at the base | **ग्रावा (grāvā)** — the stone | **ऊर्ध्वः भवति (ūrdhvaḥ bhavati)** — stands raised up [in that rite] | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the [soma] pressed in the mortar | **अवेत् उ (aved u)** — know [it to be] yours | **जल्गुलः (jalgulaḥ)** — partake.
+
+**॥ Bhāvārthaḥ ॥** O Indra! In the sacrificial rite in which the broad-based stone is lifted up in order to crush the soma-creeper, [do you], knowing that the soma-juice pressed in the mortar in that rite is prepared for you alone, partake of it.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Indra, in the sacrifice in which flat-bottomed stone is raised to press the Soma-juice, partake of that Soma expressed in the mortar.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 411–415)* **Chief sense.** O Indra! In this sacrifice the soma-creeper is placed in the mortar, and a broad-based stone is raised in the hand for crushing it, and the juice is taken; know that the soma-juice thus crushed and standing here is prepared for you alone; accept it, that is, drink it, and be satisfied.
+
+*The preparation of the soma-juice (summary of the author's long note, pp. 411–413).* In the *Soma-yāga* it is customary to crush, press and strain the soma-creeper with a stone, mix with it milk, curds and barley, offer it to the gods, and then for the priests and the sacrificer to drink the rest. This is done on the chief days in the morning, at midday and in the evening — the *prātaḥsavana*, *mādhyandinasavana* and *tṛtīyasavana* — the pressing being called *abhiṣavaṇa*, *savana*. The soma-creeper is no longer found nowadays; formerly it grew on river banks and on the mountains and was brought, at great cost, for sacrificial use; even now the rite of *somakrayaṇa* ('buying the soma') is performed. The creeper is brown (*babhru*), ruddy (*aruṇa*), or yellow-brown; its juice is *amśu*, *indu*, *vṛṣan*, *vāṇa* (the Ṛgveda calls the stalk *parvan*); the author cites a long list of Ṛgveda passages for these names (numerals partly illegible at this resolution, so I omit them rather than guess). The mortar in which it is crushed is the *ulūkhala*; the stone for pounding is the *grāvan* or *adri*; the vessel in which it is offered to the gods is *camū*; the vessels for the priests' drinking are *kalaśa* and *camasa*; the skin on which it is pounded is the *adhiṣavaṇa-carma*, of ox-hide (*gocarma*); the vessels for collecting the juice are *kośa*, *sadastha*, *dru*, *vana*, *droṇa*; the ladle is *sruva*; the strainer of wool is *pavitra*; the juice is called *śukra* or *śuci* [bright], and, according to colour, *babhru*, *harita*, *aruṇa*, *aruṣa*, *śoṇa*. To give the juice a taste, milk is mixed (*gavāśira*), curds (*dadhyāśira*), barley (*yavāśira*); the residue after pressing is *ṛjīṣa*.
+
+**ग्रावा** — the stone for crushing the soma: here it is described as *pṛthubudhna*, a stone with a broad base — like the round pounding stone in a stone mill. **पृथुबुध्नः** — *sthūlamūla ūrdhva unnataḥ*: broad at the base; a stone that is round like a grindstone. **ऊर्ध्वो भवति सोतवे** — to lift the stone up in the hand to crush the creeper — when it is necessary to pound the creeper placed in the mortar or on the stone, another stone is held and brought down: this is what is said here. **उलूखलसुतानाम्** — the *ulūkhala* is the mortar, a stone in the middle of which there is a hollow, the vessel to receive the creeper pounded and its juice. On the word *ulūkhala* Yāska says:
+
+> उलूखलम् । उलूखलमुरुकरं वोर्ध्वखं वोर्ककरं वोरु मे कुर्विति वा ब्राह्मणम् । उरुकरं वैतत्र्यदुलूखलमित्याचक्षते परोक्षेणेति ब्राह्मणम् ॥ (नि. ९-१० [?])
+
+*ulūkhalam | ulūkhalam urukaraṃ vordhvakhaṃ vorkakaraṃ voru me kurv iti vā brāhmaṇam | urukaraṃ vaitat tryad ulūkhalam ity ācakṣate parokṣeṇeti brāhmaṇam || (ni. 9-10 [?])* — "*Ulūkhala*: either *urukara*, 'making much [food]'; or *ūrdhvakha*, 'a hollow that is upright'; or *ūrkkara*, 'making sap' [*ūrj*]; or 'Make much for me!' [*uru me kuru*] — so the Brāhmaṇa; 'they call this *urukara* indirectly by the name *ulūkhala*' — [so says] the Brāhmaṇa." *(The Kannada exposition follows: the *l* is for *r*, so *urukhara*/*urukara*; the grain placed in it and pounded with the pestle gives much food; or the one on which the creeper is crushed gives the juice; and so on.)*
+
+The Taittirīya Saṃhitā lists ten sacrificial implements:
+
+> यो वै दश यज्ञायुधानि वेद मुखतोऽस्य यज्ञः कल्पते । स्फ्यश्च कपालानि चाग्निहोत्रहवणी च शूर्पं च कृष्णाजिनं च शम्या चोलूखलं च मुसलं च दृषच्चोपला चैतानि वै दश यज्ञायुधानि य एवं वेद मुखतोऽस्य यज्ञः कल्पते ॥ (तै. सं. १-६-८ [?])
+
+*yo vai daśa yajñāyudhāni veda mukhato 'sya yajñaḥ kalpate | sphyaś ca kapālāni cāgnihotrahavaṇī ca śūrpaṃ ca kṛṣṇājinaṃ ca śamyā colūkhalaṃ ca musalaṃ ca dṛṣac copalā caitāni vai daśa yajñāyudhāni ya evaṃ veda mukhato 'sya yajñaḥ kalpate ||* — "He who knows the ten sacrificial weapons — for him the sacrifice is arranged from the very start: the *sphya* (wooden sword), the *kapālas* (potsherds), the *agnihotra-havaṇī* (ladle), the *śūrpa* (winnowing-basket), the black antelope skin, the *śamyā* (peg), the mortar, the pestle, the *dṛṣad* (lower stone) and the *upalā* (upper stone). These are the ten weapons of the sacrifice; for him who knows thus the sacrifice is arranged from the very start." *(Tai. Saṃ. reference as read, [?].)* The author then explains each: the *sphya* is a wooden sword for cutting *darbha* and the like; the *kapālas* are the potsherds on which the *puroḍāśa* cake is baked; the *agnihotra-havaṇī* is a wooden ladle-like vessel for the *agnihotra* oblation; the *śūrpa* is the winnowing basket; the *kṛṣṇājina* is the black antelope-skin on which the pounding is done; the *śamyā* is the peg used for killing the animal; the *ulūkhala*, the mortar, is for pounding grain and pressing soma; the *musala*, pestle, for pounding grain; the *dṛṣad* is the lower stone on which soma is pounded, or a stone slab; the *upalā* is the pebble stone used to crush what is placed on the *dṛṣad*. Of these ten implements, the mortar is one.
+
+**अव इत्** — *avagatyaiva*: knowing; i.e. 'knowing that the soma-juice pressed in the mortar is prepared for you'. The commentator gives *ava* the sense *avagamanārtha* ('knowing'). Skandasvāmin takes *ava* and *it* as prepositions to be joined with the verb, and glosses *ava it jalgulaḥ* as *punar punar avagira pibety arthaḥ* — 'swallow again and again; drink'. **जल्गुलः** — *gala adane*; *bhakṣaya*: eat, drink — 'knowing that the juice of the soma-creeper pressed in the mortar is prepared for you alone, drink it'.
+
+---
+
+### Pages 416–419 — Sūkta 28, Rik 2
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> यत्र द्वाविव जघनाधिषवण्या कृता ।
+> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ २ ॥
+
+*yatra dvāv iva jaghanādhiṣavaṇyā kṛtā | ulūkhalasutānām aved v indra jalgulaḥ || 2 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> यत्र । द्वौऽइव । जघना । अधिऽसवन्या । कृता ॥ उलूखलऽसुतानाम् । अव । इत् । ऊं इति । इन्द्र । जल्गुलः ॥ २ ॥
+
+*yatra | dvau-iva | jaghanā | adhi-savanyā | kṛtā || ulūkhala-sutānām | ava | it | ūṃ iti | indra | jalgulaḥ || 2 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 417; read with some doubt)*
+
+> यत्र यस्मिन्कर्मण्यधिषवण्या उभे अधिषवणफलके द्वाविव जघना द्वे जघनप्रदेशाविव । जघनं जंघन्यतेरिति यास्कः (नि. ९-१० [?]) । कृता विस्तीर्णे कृते संपादिते । अन्यत्पूर्ववत् ॥ जघना । हन्तेर्द्वित्वं … हन्तेश्शरीरावयवे च । उ. ३-२०० [?] इति । … सुपां सुलुगिति शेषः । कर्दमादीनां च । फि. ३-४९ [?] इति मध्योदात्तत्वम् । अधिषवण्या । षुञ् अभिषवे । ल्युट् । युवोरनाकौ । पा. ७-१-१ । इत्यनादेशः । भवे छन्दसि । पा. ४-४-११० । इति यत् । यस्येति च । पा. ६-४-१४८ । इत्यकारलोपः । उपसर्गात्सुनोतीति षत्वम् । अट्कुप्वाङिति णत्वम् । सुपां सुलुगिति द्विवचनस्य याजादेशः ।
+
+*yatra yasmin karmaṇy adhiṣavaṇyā ubhe adhiṣavaṇaphalake dvāv iva jaghanā dve jaghanapradeśāv iva | jaghanaṃ jaṅghanyater iti yāskaḥ (ni. 9-10 [?]) | kṛtā vistīrṇe kṛte saṃpādite | anyat pūrvavat || jaghanā | hanter dvitvaṃ … hanteś śarīrāvayave ca | u. 3-200 [?] iti | … supāṃ suluk iti śeṣaḥ | kardamādīnāṃ ca | phi. 3-49 [?] iti madhyodāttatvam | adhiṣavaṇyā | ṣuñ abhiṣave | lyuṭ | yuvor anākau | pā. 7-1-1 | ity anādeśaḥ | bhave chandasi | pā. 4-4-110 | iti yat | yasyeti ca | pā. 6-4-148 | ity akāralopaḥ | upasargāt sunotīti ṣatvam | aṭkupvāṅ iti ṇatvam | supāṃ suluk iti dvivacanasya yājādeśaḥ |*
+
+**Translation:** "In the rite in which the two *adhiṣavaṇyā* — the two pressing-boards — are made (*kṛtā*) wide, as if two hips (*dvāv iva jaghanā*) — [*jaghana*, 'hip', is by Yāska '*jaṅghanyate*' (Ni. 9-10 [?])] — [do you, Indra,] know and partake of the juice pressed in the mortar. The rest is as before. *Jaghanā*: from *han* with doubling in the sense of 'a body-part' (Uṇ. 3-200 [?]); the dual ending replaced by *ā* by *supāṃ suluk*; the middle acute by Phiṭ 3-49 [?], the *kardamādi* group. *Adhiṣavaṇyā*: from *ṣuñ abhiṣave* with *lyuṭ*, *ana* for *yu* (P. 7-1-1); *yat* in the sense 'being at' (P. 4-4-110); loss of the *a* by P. 6-4-148; *ṣatva* after the preposition; *ṇatva* by P. 8-4-2; the dual ending replaced by *yā* by *supāṃ suluk*." *(Grammar pages 418–419, noted briefly: the words treated are* jaghanā *[*han hiṃsāgatyoḥ* + *ac* by Uṇ. 3-200 *haner ac ca* [?]; with doubling of the root as 'body-part' (*śarīrāvayave ca*); *halādiḥ śeṣaḥ*; the *h* → *gh* by P. 7-3-55 *abhyāsāc ca*; *jaghana*; dual *au* → *ā* by P. 7-1-39 *supāṃ suluk*; the accent is middle-acute because *jaghana* is read in the *kardamādi* list (Phiṭ 3-49)] and* adhiṣavaṇyā *[*ṣuñ abhiṣave* + *lyuṭ* P. 3-3-115; *yu* → *ana* by P. 7-1-1 *yuvor anākau*; *savana*; *savane bhavaḥ savanyaḥ* with *yat* by P. 4-4-110 *bhave chandasi*; the *a* before *yat* lost by P. 6-4-148; *adhi* + *savanya*: *ṣatva* by P. 8-3-65 *upasargāt sunoti…*; *ṇatva* by P. 8-4-2; dual *au* → *yā* by P. 7-1-39; the accent: *yat* is *tit*-svarita and the word is middle-acute — with a discussion of why P. 6-1-213 *tit svaritam* [read as 6-1-185] and P. 6-1-210 *yato 'nāvaḥ* apply or do not apply; because *adhi*-*savanya* is a *gati*-compound, the *dvyac* rule P. 6-2-… is not engaged]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 417)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which rite | **द्वौ जघनौ इव (dvau jaghanau iva)** — like two hips | **अधिषवण्या (adhiṣavaṇyā)** — the two pressing-boards | **कृता (kṛtā)** — are made [widely spread] | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the [juice] pressed in the mortar | **अवेत् उ (aved u)** — know [it to be yours] | **जल्गुलः (jalgulaḥ)** — partake.
+
+**॥ Bhāvārthaḥ ॥** O Indra! In the sacrificial rite in which the two pressing-boards are spread out wide like two hips, take the soma-juice pressed in the mortar — knowing it to be prepared for you alone.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Where, Indra, the two halves (or platters) of the Soma-press are placed close together like the broad hips of a woman, partake of that Soma expressed in the mortar.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 417–418)* **जघना अधिषवण्या** — *jaghanā* means the two hip-regions of women, the upper parts of the thighs; they are by nature broad and fleshy. *Adhiṣavaṇa* means the wooden boards [vessels] for filling with soma-juice; they are as big as hips — that is, they hold much juice. Or the hip-regions touch each other when close; so when the juice is taken, the two boards, rubbing against each other, press the soma and take the juice: that is the intention. On this occasion *adhiṣavaṇa* means the two wooden boards used for pressing out the soma-juice. Between the ends of these boards the soma-creeper is placed, and the juice is pressed out. The seer compares the rubbing of these boards with the hip-regions of a woman. Or, as the commentator explains, the *adhiṣavaṇa* means the large wooden vessels used for filling with the pressed soma; these, like women's hips, are large and hold much juice — that is the chief intention.
+**[Rik 2, grammar tail — printed p. 419]** *(Grammar, noted briefly: the last word treated is* kṛtā *[*ḍukṛñ karaṇe* + *kta*; the dual ending is replaced by *ā* by P. 7-1-39 *supāṃ suluk…*]; numerals as read.)*
+
+---
+
+### Pages 419–421 — Sūkta 28, Rik 3
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> यत्र नार्यपच्यवमुपच्यवं च शिक्षते ।
+> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ ३ ॥
+
+*yatra nāry apacyavam upacyavaṃ ca śikṣate | ulūkhalasutānām aved v indra jalgulaḥ || 3 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> यत्र । नारी । अपऽच्यवम् । उपऽच्यवम् । च । शिक्षते ॥ उलूखलऽसुतानाम् । अव । इत् । ऊं इति । इन्द्र । जल्गुलः ॥ ३ ॥
+
+*yatra | nārī | apa-cyavam | upa-cyavam | ca | śikṣate || ulūkhala-sutānām | ava | it | ūṃ iti | indra | jalgulaḥ || 3 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 419)*
+
+> यत्र यस्मिन्कर्मणि नारी पत्न्यपच्यवं शालाया निर्गमनमुपच्यवं च शालाप्राप्तिं च शिक्षते अभ्यासं करोति । अन्यत्पूर्ववत् ॥ अपच्यवम् । च्युङ् गतौ । ऊदोरबित्यप् । गुणावादेशौ । थाथादिना । पा. ६-२-१४४ । उत्तरपदान्तोदात्तत्वम् । एवमुपच्यवम् । शिक्षते । शिक्ष विद्योपादाने । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । निपातैर्यद्यदिहन्तेति निघातप्रतिषेधः ॥
+
+*yatra yasmin karmaṇi nārī patny apacyavaṃ śālāyā nirgamanam upacyavaṃ ca śālāprāptiṃ ca śikṣate abhyāsaṃ karoti | anyat pūrvavat || apacyavam | cyuṅ gatau | ūdor ab ity ap | guṇāvādeśau | thāthādinā | pā. 6-2-144 | uttarapadāntodāttatvam | evam upacyavam | śikṣate | śikṣa vidyopādāne | ādupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | nipātair yad yadihanteti nighātapratiṣedhaḥ ||*
+
+**Translation:** "In the rite in which (*yatra*) the *nārī* — the [sacrificer's] wife — practises (*śikṣate*) the *apacyavam* — going out of the hall — and the *upacyavam* — coming back into the hall; the rest as before. *Apacyavam*: *cyuṅ gatau*; *ap* [by the sūtra beginning *ūdor ap*]; guṇa and *av*; by the *thāthādi* rule (P. 6-2-144) the end-acute of the second member. So also *upacyavam*. *Śikṣate*: *śikṣa vidyopādāne*; the root accent. The verb is not lowered since it follows *yatra*." *(Grammar pages 420–421, noted briefly: the words treated are* apacyavam *[*cyuṅ gatau*, *bhvādi*, with *apa* + *ap* by P. 3-3-57 *ūdor ap*; guṇa → *cyav*; the end-acute of the *kṛdanta* second member by P. 6-2-144 *thāthaghañktājabitrakāṇām*],* upacyavam *[as above, with the preposition *upa*] and* śikṣate *[*śikṣa vidyopādāne*, *bhvādi*; *laṭ* 3rd singular *ta* → *te* by P. 3-4-79; *śap* anudātta; the lowering of the verb is prevented by *yatra*, P. 8-1-30]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 419)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which rite | **नारी (nārī)** — the wife [of the sacrificer] | **अपच्यवम् (apacyavam)** — going out of the sacrificial hall | **उपच्यवं च (upacyavaṃ ca)** — and coming into the hall | **शिक्षते (śikṣate)** — practises | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the soma pressed in the mortar | **अवेत् उ (aved u)** — know [it to be yours] | **जल्गुलः (jalgulaḥ)** — partake.
+
+**॥ Bhāvārthaḥ ॥** O Indra! In the sacrificial rite in which the sacrificer's wife keeps going out of the hall and coming back in, partake of the soma pressed in the mortar, knowing it is prepared for you alone.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Indra, in the sacrifice in which the wife of the sacrificer, every now and then enters and goes out of the sacrificial chamber, partake of that Soma expressed in the mortar.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 420)* In the sacrifice, the women — the sacrificer's wife and the others — come and go frequently; the seer describes the sacrificial hall as adorned with such comings and goings. **अपच्यवम् उपच्यवम्** — *cyuṅ gatau*: the sense of these words, formed from the root with the prefixes *apa* and *upa*, is respectively 'going out' and 'coming in'. **शिक्षते** — since the women's comings and goings are repeated, the seer uses the word *śikṣate*, which here has the sense of repetition (*abhyāsa*).
+
+---
+
+### Pages 421–423 — Sūkta 28, Rik 4
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> यत्र मन्थां विबध्नते रश्मीन्यमितवा इव ।
+> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ ४ ॥
+
+*yatra manthāṃ vibadhnate raśmīn yamitavā iva | ulūkhalasutānām aved v indra jalgulaḥ || 4 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> यत्र । मन्थाम् । विऽबध्नते । रश्मीन् । यमितवै । इव ॥ उलूखलऽसुतानाम् । अव । इत् । ऊं इति । इन्द्र । जल्गुलः ॥ ४ ॥
+
+*yatra | manthām | vi-badhnate | raśmīn | yamitavai | iva || ulūkhala-sutānām | ava | it | ūṃ iti | indra | jalgulaḥ || 4 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 421)*
+
+> यत्र यस्मिन्कर्मणि मंथामाशिरमथनहेतुं मन्थानं विबध्नन्ति । तत्र दृष्टान्तः । रश्मीनश्वस्य बन्धनार्थान्संग्रहास्यमितवा इव । नियन्तुमिव । अन्यत्पूर्ववत् ॥ मंथाम् । पथिमथ्यृभुक्षामात् । उ. १-०७ [?] इति द्वितीयायामपि व्यत्ययेनात्वम् । प्रातिपदिकस्वराणामन्तोदात्तत्वे प्राप्ते पथिमथोः सर्वनामस्थाने । पा. ६-१-१९९ । इत्याद्युदात्तत्वम् । यद्वा । मथ्यतेऽनेनेति मन्था । मथि विलोडन इत्यस्माद्धलश्चेति करणे घञ् । तकप्ष्वाप् । ञित्त्वादाद्युदात्तत्वम् । विबध्नते । बन्ध बन्धने । क्र्यादिभ्यः श्ना । अनिदितामिति नलोपे श्नाभ्यस्तयोरात इत्याकारलोपः । प्रत्ययस्वरः । तिङ्ङोदात्तवतीति गतेर्निघातः । यमितवै । यम उपरमे । तुमर्थे सेसेनिति तवैप्रत्ययः । इडागमश्छान्दसः । यद्वा । ण्यन्तात्तवैप्रत्ययस्येडागमे सति णिलोपश्छान्दसः । अन्तश्च तवै युगपत् । पा. ६-१-२०० । इत्याद्यन्तयोरुदात्तत्वम् ॥
+
+*yatra yasmin karmaṇi manthām āśiramathanahetuṃ manthānaṃ vibadhnanti | tatra dṛṣṭāntaḥ | raśmīn aśvasya bandhanārthān saṃgrahāsyamitavā iva | niyantum iva | anyat pūrvavat || maṃthām | pathimathyṛbhukṣām āt | u. 1-07 [?] iti dvitīyāyām api vyatyayenātvam | prātipadikasvarāṇām antodāttatve prāpte pathimathoḥ sarvanāmasthāne | pā. 6-1-199 | ity ādyudāttatvam | yadvā | mathyate 'neneti manthā | mathi viloḍana ity asmād dhalaś ceti karaṇe ghañ | takaṣvāp | ñitvād ādyudāttatvam | vibadhnate | bandha bandhane | kryādibhyaḥ śnā | aniditām iti nalope śnābhyastayor āta ity ākāralopaḥ | pratyayasvaraḥ | tiṅ ṅodāttavatīti gater nighātaḥ | yamitavai | yama uparame | tumarthe sesen iti tavaipratyayaḥ | iḍāgamaś chāndasaḥ | yadvā | ṇyantāt tavaipratyayasyeḍāgame sati ṇilopaś chāndasaḥ | antaś ca tavai yugapat | pā. 6-1-200 | ity ādyantayor udāttatvam ||*
+
+**Translation:** "In the rite in which (*yatra*) they tie up (*vibadhnate*) the *manthā* — the churning-stick, the means of churning the *āśīr* [mixed milk] — like [a rider who ties] the reins (*raśmīn*) *yamitavai iva* — to restrain [the horse]; the rest as before. *Maṃthām*: [*mathin* + accusative with] *ā* by *vyatyaya* [Uṇ. 1-… *pathimathyṛbhukṣām āt*]; the end-acute of the stem would be expected, but by P. 6-1-199 the first-syllable acute. Or: *manthā* is 'that by which one churns', *mathi viloḍane* with *ghañ* in the sense of instrument; *ṭāp*; first-syllable acute by *ñit*. *Vibadhnate*: *bandha bandhane*; *śnā* of the *kryādi* class; loss of the nasal and of *ā* of *śnā*; the suffix's accent; *vi* is lowered by P. 8-1-71. *Yamitavai*: *yama uparame*; the infinitive *tavai*; the *iṭ* augment is Vedic; both the first and the last syllable are acute by P. 6-1-200." *(Grammar pages 422–423, noted briefly: the words treated are* maṃthām *[*mathin*: the accusative singular with *ā* in the stem by P. 7-1-85 *pathimathyṛbhukṣām āt*; the *th* of *mathin* in the weak cases; *ā* + *am* → *ām* by P. 6-1-107; the first-syllable acute by P. 6-1-199 *pathimathoḥ sarvanāmasthāne*; alternatively *mathi viloḍane* + *ghañ* by P. 3-3-121 *halaś ca*, with *num* [*idito num dhātoḥ*] and *ṭāp* — *manthā*; *ñit* gives the first-syllable acute],* vibadhnate *[*bandha bandhane*, *kryādi*; *laṭ* 3rd plural *jha* → *ate* by P. 7-1-5; *śnā*, with its *ā* lost by P. 6-4-112 *śnābhyastayor ātaḥ*; the nasal of the root lost by P. 6-4-24; *śnā* is *śit* and *anudātta*, but the suffix accent remains; *vi* is lowered by P. 8-1-71 *tiṅi codāttavati*] and* yamitavai *[*yamu uparame*, *bhvādi*; the infinitive *tavai* by P. 3-4-9; *iṭ* augment by *chandasi*; alternatively *ṇic* + *tavai* with *iṭ* and the Vedic loss of *ṇic*; P. 6-1-200 *tavai cāntaś ca yugapat* gives the acute on the first and last syllables: *ya* and *vai*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 422)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which rite | **रश्मीन् (raśmīn)** — the reins | **यमितवै इव (yamitavai iva)** — [as one ties] to restrain [a horse] | **मन्थाम् (manthām)** — the churning staff | **विबध्नते (vibadhnate)** — they tie with ropes | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the juice pressed in the mortar | **अवेत् उ (aved u)** — know [it as yours] | **जल्गुलः (jalgulaḥ)** — partake.
+
+**॥ Bhāvārthaḥ ॥** O Indra! In the sacrificial rite in which they tie a rope round the churning-staff, as one ties reins to hold back a horse, know that the soma-juice pressed in the mortar in that rite is prepared for you alone, and partake of it.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Indra, where they bind the churning staff with ropes like reins to restrain (a horse), partake of that Soma expressed in the mortar.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 422)* In this rik the seer describes the process of churning butter with a churning-stick and rope, in which the rope round the churning-stick is compared to the reins tied to a horse. The reins tied to a horse let it go no further than the driver wishes; so the rope fixed to the churning-staff makes it work under control. The seer thus describes the sacrifice as adorned with works of churning and the like. **मन्थाम्** — *mathi viloḍane*; *mathnāty anena iti manthā*: the churning-staff used for churning. **रश्मीन् यमितवा इव** — here the word *aśva* is not stated, but to complete the sense the commentator explains 'as one ties the reins of a horse'. Though *raśanā* means a rope, how the word *raśmi* got this sense the commentator does not explain.
+
+---
+
+### Pages 424–426 — Sūkta 28, Rik 5
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> यच्चिद्धि त्वं गृहेगृह उलूखलक युज्यसे ।
+> इह द्युमत्तमं वद जयतामिव दुन्दुभिः ॥ ५ ॥
+
+*yac cid dhi tvaṃ gṛhe-gṛha ulūkhalaka yujyase | iha dyumattamaṃ vada jayatām iva dundubhiḥ || 5 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> यत् । चित् । हि । त्वम् । गृहेऽगृहे । उलूखलक । युज्यसे ॥ इह । द्युमत्ऽतमम् । वद । जयताम्ऽइव । दुन्दुभिः ॥ ५ ॥
+
+*yat | cit | hi | tvam | gṛhe-gṛhe | ulūkhalaka | yujyase || iha | dyumat-tamam | vada | jayatām-iva | dundubhiḥ || 5 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 424)*
+
+> हे उलूखलक यच्चिद्धि यद्यपि त्वमवघाताथं गृहे गृहे युज्यसे तथापीह वैदिके कर्मणि तीव्रमुसलप्रहारेण द्युमत्तमममतिशयेन दीप्तं प्रभूतध्वनियुक्तं शब्दं वद । तत्र दृष्टान्तः । जयतामिव दुन्दुभिः । यथा युद्धे जयं प्राप्नुवतां राज्ञां दुन्दुभिर्महान्तं ध्वनिं करोति तद्वत् । उलूखलशब्दं यास्क एवं व्याख्यातवान् । उलूखलमुरुकरं वोर्ध्वखं वोर्ककरं वोरु मे कुर्विति वाब्रवीत्तदुलूखलमभवदुरुकरं वै तत्तदुलूखलमित्याचक्षते परोक्षेणेति च ब्राह्मणम् । (नि. ९-१० [?]) इति ॥ उलूखलक । आपादादाविति पर्युदासादाष्टमिकनिघाताभावे षाष्ठिकमाद्युदात्तत्वम् । युज्यसे । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक्स्वरः शिष्यते । न च तिङ्ङतिङ इति निघातः । निपातैर्यद्यदिहन्तेति प्रतिषेधात् । द्युमत्तमम् । दीप्त्यर्थस्य संपदादिलक्षणः क्विप् । दिव उत् । पा. ६-१-१३१ । इत्युत्त्वम् । यणादेशे । ह्रस्वनुड्भ्यां मतुबित मतुप उदात्तत्वम् । ननु दिव उदित्यत्र प्रातिपदिकं गृह्यते न धातुरित्युक्तत्वात् । आक्षद्यूरित्यादावप्यप्राप्तः । …
+
+*he ulūkhalaka yac cid dhi yady api tvam avaghātārthaṃ gṛhe gṛhe yujyase tathāpīha vaidike karmaṇi tīvramusalaprahāreṇa dyumattamam atiśayena dīptaṃ prabhūtadhvaniyuktaṃ śabdaṃ vada | tatra dṛṣṭāntaḥ | jayatām iva dundubhiḥ | yathā yuddhe jayaṃ prāpnuvatāṃ rājñāṃ dundubhir mahāntaṃ dhvaniṃ karoti tadvat | ulūkhalaśabdaṃ yāska evaṃ vyākhyātavān | ulūkhalam urukaraṃ vordhvakhaṃ vorkakaraṃ voru me kurv iti vābravīt tad ulūkhalam abhavad urukaraṃ vai tat tad ulūkhalam ity ācakṣate parokṣeṇeti ca brāhmaṇam | (ni. 9-10 [?]) iti || ulūkhalaka | āpādādāv iti paryudāsād āṣṭamikanighātābhāve ṣāṣṭhikam ādyudāttatvam | yujyase | ādupadeśāl lasārvadhātukānudāttatve yaksvaraḥ śiṣyate | na ca tiṅ atiṅa iti nighātaḥ | nipātair yad yadihanteti pratiṣedhāt | dyumattamam | dīptyarthasya saṃpadādilakṣaṇaḥ kvip | diva ut | pā. 6-1-131 | ity uttvam | yaṇādeśe | hrasvanuḍbhyāṃ matub iti matupa udāttatvam | nanu diva ud ity atra prātipadikaṃ gṛhyate na dhātur ity uktatvāt | ākṣadyūr ity ādāv apy aprāptaḥ | …*
+
+**Translation:** "O *ulūkhalaka* — dear mortar! Although (*yac cid dhi*) you are employed in every house for pounding [grain], yet here, in this Vedic rite, with the sharp strokes of the pestle, utter (*vada*) a sound *dyumattamam* — most brilliant, exceedingly bright, with a great noise. An illustration: *jayatām iva dundubhiḥ* — as, in war, the drum of kings who have won the victory makes a great sound. Yāska has explained the word *ulūkhala* thus [the same passage as under Rik 1]. *Ulūkhalaka*: the first-syllable acute [vocative]; since the sūtra *apādādau* excludes ... the lowering does not apply. *Yujyase*: the *yak* accent remains; no lowering since the *yat*-type particle precedes. *Dyumattamam*: *kvip* of the *saṃpadādi* class for the sense 'to shine'; *ut* for *div* by P. 6-1-131; *y* by *yaṇ* ...; *matup* is acute by [*hrasvanuḍbhyāṃ matup*]; [here follows an objection about whether *div* in P. 6-1-131 means the stem or the root, with *ākṣadyūḥ* as an example — read with doubt]." *(Grammar pages 426, noted briefly: the words treated are* ulūkhalaka *[the vocative singular: since the sūtra *āpādādau* forbids the lowering at the beginning of the pāda... the word *ulūkhalaka* has the vocative *āmantrita* status, but being at the head of the line it is not lowered; the suffix *ka* gives the middle acute; *ū* is acute],* yujyase *[*yuja samādhau*, *divādi*; *laṭ* in the passive; *yak* is *ṅit*-like; the accent of *yak* remains because the sūtra *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam…* makes *se* anudātta; the word is middle-acute; *tiṅ atiṅaḥ* does not lower it because it follows *yat* — P. 8-1-30 and P. 8-1-66], and* dyumattamam *[*div* in the sense of 'shining' (a *saṃpadādi* word with *kvip*); *div* + *u* → *dyu* by P. 6-1-131 *diva ut*; *dyumat* + *tamap* in the sense of excess; *matup* after a short-voweled stem gets the acute by P. 6-1-176; ...the print adds a long argument about *diva ut* applying to the stem and not the root, with the example *akṣadyūḥ* and the *lakṣaṇā* sense *dīpti*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 425)* **उलूखलक (ulūkhalaka)** — O mortar | **यत् चित् हि (yat cit hi)** — although | **गृहेगृहे (gṛhe-gṛhe)** — in every house | **युज्यसे (yujyase)** — you are employed | **इह (iha)** — in this Vedic rite especially | **जयताम् (jayatām)** — of the victorious | **दुन्दुभिः इव (dundubhiḥ iva)** — like the war-drum | **द्युमत्तमम् (dyumattamam)** — [a sound] with exceeding brilliance | **वद (vada)** — utter.
+
+**॥ Bhāvārthaḥ ॥** O mortar! Although you are by nature to be found in every house, in this Vedic rite you must make a ringing sound, loud and clear, for everyone to hear, like the war-drums of conquerors. That is, sound forcefully.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> O Mortar, although you are employed in every house (for household purposes), make a most roaring sound (in the sacrifice) like the drums of victorious warriors.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 425)* **गृहे गृहे** — in every house; for pounding grain, a mortar is present in every house. **उलूखलक** — *ulūkhala* — mortar; although the mortar is an inanimate object, it is here addressed, one must understand, as the deity presiding over it. We have explained the meaning of the word *ulūkhala* under the first rik of this sūkta. **द्युमत्तमम्** — *atiśayena dīptam, prabhūtadhvaniyuktam*: of exceeding brightness, that is, with a very loud sound — the idea is that the sound which is heard when the soma-creeper is placed in the mortar and pounded with the *grāvan* is made loud. **जयतामिव दुन्दुभिः** — *yathā yuddhe jayaṃ prāpnuvatāṃ rājñāṃ dundubhir mahāntaṃ dhvaniṃ karoti tadvat*: as the kings or warriors who have won victory in battle sound their victory-drum loudly. **दुन्दुभिः** — a *bherī*, a war-drum.
+### Pages 427–429 — Sūkta 28, Rik 6
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> उत स्म ते वनस्पते वातो वि वात्यग्रमित् ।
+> अथो इन्द्राय पातवे सुनु सोममुलूखल ॥ ६ ॥
+
+*uta sma te vanaspate vāto vi vāty agram it | atho indrāya pātave sunu somam ulūkhala || 6 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> उत । स्म । ते । वनस्पते । वातः । वि । वाति । अग्रम् । इत् ॥ अथो इति । इन्द्राय । पातवे । सुनु । सोमम् । उलूखल ॥ ६ ॥
+
+*uta | sma | te | vanaspate | vātaḥ | vi | vāti | agram | it || atho iti | indrāya | pātave | sunu | somam | ulūkhala || 6 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 427)*
+
+> उतापि च हे वनस्पते उलूखलरूपवृक्ष ते अग्रमित्तव पुरत एव वातो वि वाति स्म । श्रोरोपेतमुसलप्रहारैर्वायुर्विशेषेण प्रसरति खलु । अथो अनन्तरं हे उलूखल इन्द्रायेन्द्रोपकारार्थं पातवे पातुं सोमं सुनु । सोमाभिषवं कुरु ॥ वनस्पते । पारस्करादित्वात्सुट् । कार्ये कारणशब्दः । पातवे । पा पाने । तुमर्थे सेसेनिति तवेन्प्रत्ययः । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । सुनु । उतश्च प्रत्ययाद्यसंयोगपूर्वादिति हेर्लुक् । विकरणस्वरेणान्तोदात्तत्वम् । पादादित्वादनिघातः । उलूखल । ऊर्ध्वं खमस्येत्युलूखलः । पृषोदरादिः ॥
+
+*utāpi ca he vanaspate ulūkhalarūpavṛkṣa te agram it tava purata eva vāto vi vāti sma | śrorope tamusalaprahārair vāyur viśeṣeṇa prasarati khalu | atho anantaraṃ he ulūkhala indrāyendropakārārthaṃ pātave pātuṃ somaṃ sunu | somābhiṣavaṃ kuru || vanaspate | pāraskarādityāt suṭ | kārye kāraṇaśabdaḥ | pātave | pā pāne | tumarthe sesen iti tavenpratyayaḥ | ñnityādir nityam ity ādyudāttatvam | sunu | utaś ca pratyayād asaṃyogapūrvād iti her luk | vikaraṇasvareṇāntodāttatvam | pādāditvād anighātaḥ | ulūkhala | ūrdhvaṃ kham asyety ulūkhalaḥ | pṛṣodarādiḥ ||*
+
+**Translation:** "And, O *vanaspate* — [O mortar, you] tree-formed — in front of you, at the very top (*agram it*), the wind (*vātaḥ*) blows (*vi vāti sma*); [for] by the strokes of the pestle the air spreads specially. Then, O *ulūkhala*, press the soma (*sunu somam*) for Indra to drink (*pātave*) — for Indra's benefit. *Vanaspate*: the augment *suṭ* by the *pāraskarādi* class; the word for the cause is used for the effect. *Pātave*: *pā pāne*; *tavenn* in the infinitive sense; first-syllable acute by *ñnityādir nityam*. *Sunu*: the *hi* is lost after a *u*-suffix not preceded by a conjunct consonant [P. 6-4-106]; the end-acute from the *vikaraṇa*; no lowering as it is at the head of the pāda. *Ulūkhala*: 'whose hollow (*kha*) is upward' — a *pṛṣodarādi* form." *(Grammar pages 428–429, noted briefly: the words treated are* vanaspate *[*vanasya patiḥ*; the augment *suṭ* by P. 6-1-157 *pāraskaraprabhṛtīni ca saṃjñāyām*; in the vocative *ṅi*→ the *ṛ*-guṇa; the print explains that the word *vanaspati* is applied to the mortar by *lakṣaṇā* — 'a cause for its effect', as in *āyurghṛtam* ('ghee is life'): the mortar is made from the *vanaspati*, i.e. from a tree],* pātave *[*pā pāne* + *tavenn* P. 3-4-9; *nit*, so first-syllable acute P. 6-1-197],* sunu *[*ṣuñ abhiṣave*, *svādi*; *loṭ* 2nd singular, *sip* → *hi* by P. 3-4-87; *śnu* by P. 3-1-73; *ṣa* → *sa* by P. 6-1-64; the *hi* lost by P. 6-4-106 *uto vṛddhir…* [read: *utaś ca pratyayād asaṃyogapūrvāt*]; the end-acute; no lowering at the head of the pāda, P. 8-1-18 *āpādādau*] and* ulūkhala *[*ūrdhvaṃ khaṃ yasya saḥ ulūkhalaḥ* — a *pṛṣodarādi* form, with the loss, augment and change of letters according to need, P. 6-3-109 *pṛṣodarādīni yathopadiṣṭam*; the vocative is lowered by P. 8-1-19]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 427)* **(हे) वनस्पते ((he) vanaspate)** — O tree-formed mortar [or mortar made of wood] | **ते (te)** — your | **अग्रम् इत् (agram it)** — in front, at the top | **वातः (vātaḥ)** — the wind | **वि वाति स्म (vi vāti sma)** — blows specially | **अथो (atho)** — therefore | **(हे) उलूखल ((he) ulūkhala)** — O mortar | **इन्द्राय (indrāya)** — for Indra | **पातवे (pātave)** — to drink | **सोमम् (somam)** — the soma-juice | **सुनु (sunu)** — press out.
+
+**॥ Bhāvārthaḥ ॥** O mortar in the form of a tree, or made of a tree! The wind blows specially in front of you [by the strokes of the pestle]. Therefore press out the soma-juice for Indra to drink.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> And, lord of the forest, the wind is blowing gently over your head; therefore, O mortar, press out the Soma for Indra to drink.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 428)* **वनस्पते** — here the seer addresses the mortar as *vanaspati*, 'lord of the forest', which is to be understood from the fact that the mortar is made of wood; mortars are made both of stone and of wood; the one used here may be a wooden one; hence the word *vanaspati* is used. **वातो वि वात्यग्रमित्** — the wind blows in front, or above; the commentator says that, by the strokes of the pestle, the air stirs and blows. This sense does not fit very well. **उलूखल** — *ūrdhvaṃ khaṃ yasya sa ulūkhalaḥ*: one whose hollow (*kha*, space) is upward.
+
+---
+
+### Pages 429–432 — Sūkta 28, Rik 7 *(Gāyatrī riks begin)*
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> आयजी वाजसातमा ता ह्युच्चा विजर्भृतः ।
+> हरी इवान्धांसि बप्सता ॥ ७ ॥
+
+*āyajī vājasātamā tā hy uccā vijarbhṛtaḥ | harī ivāndhāṃsi bapsatā || 7 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> आयजी इत्याऽयजी । वाजऽसातमा । ता । हि । उच्चा । विऽजर्भृतः ॥ हरी इवेति हरी ऽइव । अन्धांसि । बप्सता ॥ ७ ॥
+
+*āyajī ity ā-yajī | vāja-sātamā | tā | hi | uccā | vi-jarbhṛtaḥ || harī ivā iti harī-iva | andhāṃsi | bapsatā || 7 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 429)*
+
+> ये उलूखलमुसले आयजी सर्वतो यज्ञसाधने वाजसातमा अतिशयेनान्नप्रदे ता ते खलूच्चा प्रौढध्वनिर्यथा भवति तथा विजर्भृतः । निशेषेण पुनःपुनर्निहारं कुरुतः । तत्र दृष्टान्तः । अन्धांस्यन्नानि चणकादीनि खाद्यानि बप्सता भक्षयन्तौ हरी इव इन्द्रस्याश्वाविव । अत्र यास्क एवं व्याचक्ष्व आयजी आयष्टव्ये अन्नानां संभर्तृक्रमेते हि उच्चैर्विहियेते हरी इवान्नानि भुञ्जाने । नि. ९-४२ [?] इति ॥ आयजी । यजेरौणादिकः करणे इप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । वाजसातमा । वाजं सनोतीति वाजसाः । षणु दाने । जनसनेत्यादिना विट्प्रत्ययः । विद्वनोरनुनासिकस्यादित्यात्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । अतिशायनिकस्तमप् । सुपां सुलुगिति पूर्वसवर्णदीर्घः । विजर्भृतः । हृञ् हरणे । अस्माद्यङ्लुक्‑ । अभ्यासहलादिशेषोरत्‑ जश्त्वेषु कृतेषु रुग्रिकौ च लुकि । पा. ७-४-९१ । इति रुगागमः । ततः प्रत्ययलक्षणेन धातुसंज्ञायां लटि द्विवचनं तस् । आदादिवच्चेति वचनाच्छपो लुक् । गुणे प्राप्ते क्ङिति च इति प्रतिषेधः । हृग्रहोर्भश्छन्दसीति भत्वम् । प्रत्ययस्वरः । निघातप्रतिषेधः । बप्सता । भस भर्त्सनदीप्त्योः । जुहोत्यादिभ्यः श्लुः । बभस्‑ । लटः शतृ । घसिभसोर्हलि च । पा. ६-४-१०० । इत्युपधालोपः । नाभ्यस्ताच्छतुः । पा. ७-१-७८ । इति नुम्प्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥
+
+*ye ulūkhalamusale āyajī sarvato yajñasādhane vājasātamā atiśayenānnaprade tā te khalūccā prauḍhadhvanir yathā bhavati tathā vijarbhṛtaḥ | niśeṣeṇa punaḥpunar nihāraṃ kurutaḥ | tatra dṛṣṭāntaḥ | andhāṃsy annāni caṇakādīni khādyāni bapsatā bhakṣayantau harī iva indrasyāśvāv iva | atra yāska evaṃ vyācakṣva āyajī āyaṣṭavye annānāṃ saṃbhartṛkrametehi uccair vihiyete harī ivānnāni bhuñjāne | ni. 9-42 [?] iti || āyajī | yajer auṇādikaḥ karaṇe ipratyayaḥ | kṛduttarapadaprakṛtisvaratvam | vājasātamā | vājaṃ sanotīti vājasāḥ | ṣaṇu dāne | janasanety ādinā viṭpratyayaḥ | viḍvanor anunāsikasyād ityātvam | kṛduttarapadaprakṛtisvaratvam | atiśāyanikas tamap | supāṃ suluk iti pūrvasavarṇadīrghaḥ | vijarbhṛtaḥ | hṛñ haraṇe | asmād yaṅluk … abhyāsahalādiśeṣorat jaśtveṣu kṛteṣu rugrikau ca luki | pā. 7-4-91 | iti rugāgamaḥ | tataḥ pratyayalakṣaṇena dhātusaṃjñāyāṃ laṭi dvivacanaṃ tas | ādādivac ceti vacanāc chapo luk | guṇe prāpte kṅiti ceti pratiṣedhaḥ | hṛgrahor bhaś chandasīti bhatvam | pratyayasvaraḥ | nighātapratiṣedhaḥ | bapsatā | bhasa bhartsanadīptyoḥ | juhotyādibhyaḥ śluḥ | babhas… | laṭaḥ śatṛ | ghasibhasor hali ca | pā. 6-4-100 | ity upadhālopaḥ | nābhyastāc chatuḥ | pā. 7-1-78 | iti numpratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvam ||*
+
+**Translation:** "These two, mortar and pestle — *āyajī*, the instruments of sacrifice on every side; *vājasātamā*, most bountiful givers of food — *tā te khalu* — they, indeed, *uccā* — with a loud sound — *vijarbhṛtaḥ*: they keep working back and forth, repeatedly. An illustration: like the two horses of Indra (*harī iva*) that are eating (*bapsatā*) *andhāṃsi* — grain such as gram. Here Yāska explains: '*āyajī* are things to be offered to; the two collectors of food, they move noisily up and down, like the two [horses] eating their food' (Ni. 9-42 [?]). *Āyajī*: *i* in the instrumental sense by the Uṇādi rule; the *kṛdanta* second member's accent. *Vājasātamā*: 'who gives (*sanoti*) food (*vāja*)' — *viṭ* by P. 3-2-67; *ā* for the nasal by P. 6-4-41; *tamap* in the sense of excess; *supāṃ suluk*. *Vijarbhṛtaḥ*: *hṛñ haraṇe* with *yaṅ-luk*, *rugāgama* by P. 7-4-91; the dual *tas*; the *śap* is lost as in the *adādi* class; no guṇa by P. 1-1-5; *bha* for *ha* by *hṛgrahor bhaś chandasi*; the suffix's accent; no lowering of the verb. *Bapsatā*: *bhasa bhartsanadīptyoḥ*; *śluḥ*; doubling; *śatṛ*; loss of the penultimate by P. 6-4-100; no *num* by P. 7-1-78; first-syllable acute by P. 6-1-189." *(Grammar pages 431–432, noted briefly: the words treated are* āyajī *[*ā* + *yaja devapūjāsaṅgatikaraṇadāneṣu* + *i* in the instrumental sense (an Uṇādi suffix), the compound with the *gati* *ā* takes the *kṛdanta*-final accent by P. 6-2-139; dual *au* → *ī* by P. 7-1-39 *supāṃ suluk*; the word is end-acute],* vājasātamā *[*vājaṃ sanoti*; *ṣaṇu dāne*, *tanādi*; *viṭ* by P. 3-2-67 *janasanakhanāṃ sañjhaloḥ*; the nasal of the root → *ā* by P. 6-4-41 *viḍvanoranunāsikasyāt*; *vājasā*; *tamap* + dual with *ā* by *supāṃ suluk*; the second member's accent by P. 6-2-139],* vijarbhṛtaḥ *[*hṛñ haraṇe*, *bhvādi*, here with *yaṅ-luk* — 'repeated going': doubling of the root; *halādiḥ śeṣaḥ*; the reduplicate's *a* by *urat* P. 7-4-66; *jaśtva* — *ja* for *ha*; the augment *ruk* by P. 7-4-91 *rugrikau ca luki*; so *jarhṛ* → the root *jarbhṛ*; *tas* for *laṭ* 3rd dual; *śap* lost; the *ṅit*-treatment blocks guṇa; *hṛ* → *bhṛ* by *hṛgrahor bhaś chandasi*; the suffix accent; the verb is not lowered since *hi* precedes (P. 8-1-34 *hi ca*)] and* bapsatā *[*bhasa bhartsanadīptyoḥ*, *juhotyādi*; *śatṛ*; *śluḥ* P. 2-4-75; *bhas* doubled — *babhas-at*; the penultimate *a* lost by P. 6-4-100 *ghasibhasajaṇasanaśāṃ…* [the print: *ghasibhasorhali ca*]; *bh* → *p* before *s* by *khari ca* P. 8-4-55 so *bapsat*; the dual *au* → *ā*; no *num* — P. 7-1-78 *nābhyastācchatuḥ*; first-syllable acute by P. 6-1-189 *abhyastānām ādiḥ*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 430)* **आयजी (āyajī)** — the two implements of the sacrifice | **वाजसातमा (vājasātamā)** — the two great givers of food | **ता (tā)** — they, the mortar and the pestle | **हि (hi)** — [as is known] | **उच्चा (uccā)** — [making] a loud sound | **अन्धांसि (andhāṃsi)** — grains such as gram | **बप्सता (bapsatā)** — [two] that are chewing | **हरी इव (harī iva)** — like the two horses of Indra | **विजर्भृतः (vijarbhṛtaḥ)** — they sport [they move to and fro].
+
+**॥ Bhāvārthaḥ ॥** The implements of the sacrifice, which are also the givers of food, the mortar and the pestle, strike together and sound loudly, and sport like the two horses of Indra chewing their gram and the like.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> For, these two implements of sacrifice (mortar and pounder) bestowers of food are sporting like the horses of Indra chewing their fodder (grains).
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 430–431)* **आयजी** — *sarvato yajñasādhane*: the two implements of sacrifice on every side, i.e. the mortar and the pestle; this is a dual form. **वाजसातमा** — *vājaṃ sanotīti vājasāḥ*; *atiśayena vājasāḥ vājasātamau*: *vāja* means food; by giving it the mortar and the pestle are called *vājasātamā*; by pounding grain in the mortar with the help of the pestle one prepares food; so they are said to give the food and the like. **उच्चा** — *uccaiḥ*, with a loud sound: when grain is pounded with the pestle in the mortar, a loud sound is natural. **विजर्भृतः** — *hṛñ haraṇe*: they sport; they seem to sport. **हरी इव** — like Indra's horses; the two horses of Indra are called *harī*; Yāska gives the derivation *harī indrasya* ('the two bay horses of Indra'). **अन्धांसि** — foods: *andhaḥ* (Ni. [3-?]) is a name for food. **बप्सता** — *bhasa bhartsanadīptyoḥ*: eating, chewing; the sound made as horses chew gram and the like is compared to the sound made by pounding in the mortar with the pestle.
+
+---
+
+### Pages 432–435 — Sūkta 28, Rik 8
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> ता नो अद्य वनस्पती ऋष्वावृष्वेभिः सोतृभिः ।
+> इन्द्राय मधुमत्सुतम् ॥ ८ ॥
+
+*tā no adya vanaspatī ṛṣvāv ṛṣvebhiḥ sotṛbhiḥ | indrāya madhumat sutam || 8 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> ता । नः । अद्य । वनस्पती इति । ऋष्वौ । ऋष्वेभिः । सोतृऽभिः ॥ इन्द्राय । मधुऽमत् । सुतम् ॥ ८ ॥
+
+*tā | naḥ | adya | vanaspatī iti | ṛṣvau | ṛṣvebhiḥ | sotṛ-bhiḥ || indrāya | madhu-mat | sutam || 8 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 433)*
+
+> अद्यास्मिन्कर्मणि हे वनस्पती उलूखलमुसलस्वरूपौ तौ युवामृष्वेभिर्दर्शनीयैः सोतृभिरभिषवहेतुभिः सह ऋष्वौ दर्शनीयौ भूत्वेन्द्रायेन्द्रार्थं मधुमन्माधुर्योपेतं सोमद्रव्यं नोऽस्मदीयं सुतं । अभिषुणुतम् ॥ ता । सुपां सुलुगित्याकारः । नो अद्य । प्रकृत्यान्तःपादमिति प्रकृतिभावः । वनस्पती । उभयपदप्रकृतिस्वरे प्राप्ते आमन्त्रितस्येति सर्वानुदात्तत्वम् । प्लुतप्रगृह्या अचि । पा. ६-१-१२५ । इति प्रकृतिभावः । सुतम् । षुञ् अभिषवे । बहुलं छन्दसीति विकरणस्य लुक् । निघातः ॥
+
+*adyāsmin karmaṇi he vanaspatī ulūkhalamusalasvarūpau tau yuvām ṛṣvebhir darśanīyaiḥ sotṛbhir abhiṣavahetubhiḥ saha ṛṣvau darśanīyau bhūtvendrāyendrārthaṃ madhuman mādhuryopetaṃ somadravyaṃ no 'smadīyaṃ sutaṃ | abhiṣuṇutam || tā | supāṃ suluk ity ākāraḥ | no adya | prakṛtyāntaḥpādam iti prakṛtibhāvaḥ | vanaspatī | ubhayapadaprakṛtisvare prāpte āmantritasyeti sarvānudāttatvam | plutapragṛhyā aci | pā. 6-1-125 | iti prakṛtibhāvaḥ | sutam | ṣuñ abhiṣave | bahulaṃ chandasīti vikaraṇasya luk | nighātaḥ ||*
+
+**Translation:** "Today (*adya*), in this rite, O *vanaspatī* — two [mortar and pestle] — you two, with the *ṛṣvebhiḥ* — beautiful — *sotṛbhiḥ* — pressers [the pounders], being yourselves *ṛṣvau* — beautiful — press (*sutam*) for Indra (*indrāya*) the *madhumat* — sweet — soma-substance, ours. *Tā*: *ā* by *supāṃ suluk*. *No adya*: the particle *o* in the pāda stays unchanged by P. 6-1-115. *Vanaspatī*: the dual vocative is *pragṛhya* (P. 1-1-11), so no sandhi before a vowel by P. 6-1-125. *Sutam*: *ṣuñ abhiṣave*, with the *vikaraṇa* lost; the lowering of the accent." *(Grammar pages 434–435, noted briefly: the words treated are* tā *[*tad* + dual *au*; the final *ā* by P. 7-2-102 *tyadādīnām aḥ*? and *ā* by P. 7-1-39; the lengthening of the preceding vowel; the vowel of *tā* — end],* no adya *[*naḥ* + *adya*: the *o* of the *naḥ* → *no* before *a*; P. 6-1-115 *prakṛtyāntaḥpādam avyapare*: *prakṛtibhāva*, so the *a* of *adya* is not elided],* vanaspatī *[dual: the print explains that though the two members would each retain their accent (P. 6-2-140 *ubhe vanaspatyādiṣu yugapat*), the word, being a vocative with *āmantrita* status, is wholly anudātta by P. 8-1-19; the dual ending *ī* is *pragṛhya* by P. 1-1-11 *īdūd dvivacanaṃ pragṛhyam* so, though a vowel follows, there is no sandhi; *plutapragṛhyā aci nityam*],* sutam *[*ṣuñ abhiṣave*, *loṭ* 2nd dual *thas* → *tam* by P. 3-4-101 *tasthasthamipāṃ tāntantāmaḥ*; *śnu* lost by *bahulaṃ chandasi*, the root remains with *ṣ* → *s*; *sārvadhātuka*-*ṅit* so no guṇa; the verb is lowered since *indrāya madhumat* are acute-bearing words]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 433)* **(वनस्पती) ((vanaspatī))** — O mortar and pestle in the form of trees | **ऋष्वौ (ṛṣvau)** — [being] beautiful | **ऋष्वेभिः सोतृभिः (ṛṣvebhiḥ sotṛbhiḥ)** — with beautiful pressing-implements | **अद्य (adya)** — now | **नः (naḥ)** — our | **इन्द्राय (indrāya)** — for Indra | **मधुमत् (madhumat)** — sweet | **सुतम् (sutam)** — press out [the soma].
+
+**॥ Bhāvārthaḥ ॥** O mortar and pestle, you who are in the form of trees! Beautiful as you are, and with the beautiful pressing-implements, press out sweet soma-juice for Indra at this our rite.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Lords of the forest, (mortar and pounder) of pleasing appearance, prepare the sweet Soma-juice for Indra to drink.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 433–434)* **अद्य** — now; i.e. in the sacrificial rite we are performing. **वनस्पती** — here the mortar and pestle are addressed as in the previous rik by the word *vanaspati*; since they are made of wood, they are called *vanaspatī*. **ऋष्वौ, ऋष्वेभिः** — *darśanīyau, darśanīyaiḥ*: beautiful to look at, giving delight; *ṛṣvau* is an epithet of *vanaspatī*, *ṛṣvebhiḥ* of *sotṛbhiḥ*; the sense 'giving pleasure, desirable' may also be taken. **सोतृभिः** — with the things that press out the soma-juice, that is: the mortar, the pestle, the soma-creeper, the stone, the straining cloth, the *kalaśa* (jar) which receives the juice, and so on. **मधुमत्** — *mādhuryopetam*: of sweet, tasty soma-juice. **सुतम्** — *sunoti*, the dual *loṭ* second person of the root.
+
+---
+
+### Pages 435–437 — Sūkta 28, Rik 9 *(closing rik; the Soma is poured into the cow-hide filter)*
+
+**॥ Saṃhitāpāṭhaḥ ॥**
+
+> उच्छिष्टं चम्वोर्भर सोमं पवित्र आ सृज ।
+> नि धेहि गोरधि त्वचि ॥ ९ ॥
+
+*ucchiṣṭaṃ camvor bhara somaṃ pavitra ā sṛja | ni dhehi gor adhi tvaci || 9 ||*
+
+**॥ Padapāṭhaḥ ॥**
+
+> उत् । शिष्टम् । चम्वोः । भर । सोमम् । पवित्रे । आ । सृज ॥ नि । धेहि । गोः । अधि । त्वचि ॥ ९ ॥
+
+*ut | śiṣṭam | camvoḥ | bhara | somam | pavitre | ā | sṛja || ni | dhehi | goḥ | adhi | tvaci || 9 ||*
+
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 435)*
+
+> हे ऋत्विग्विशेष हरिश्चन्द्र वा चम्वोः सोमस्य भक्षणसंपादकयोरधिषवणफलकयोः शिष्टमभिषवावशिष्टं सोममुद्धर । शकटत्यक्तमस्योपरि हर [?] । पवित्रे दशापवित्रे आ सृज । आनीय प्रक्षिप । प्रक्षेपे सत्यवशिष्टं सोमं गोस्त्वचि आनडुहे चर्मण्यधि नि धेहि । अध्यारोप्य स्थापय ॥ चम्वोः । चमु अदने । चम्यते भक्ष्यतेऽत्रेति चमूः । कृषिचमितनिधनीति । उ. १-८१ । ऊप्रत्ययः । तिङादि उप्रत्ययः । प्रत्ययस्वरः । सप्तमीद्विवचनस्योदात्तस्वरितयोर्यणः स्वरित इति स्वरितत्वम् । उदात्तयणो हल्पूर्वादिति नास्ति नियम इति …। भर । हृञ् हरणे । हृग्रहोर्भः । धेहि । ध्वसोरेद्धावभ्यासलोपश्च । पा. ६-४-११९ । इत्येत्वाभ्यासलोपौ । निघातः । त्वचि । सावेकाच इति विभक्तेरुदात्तत्वम् ॥
+
+*he ṛtvigviśeṣa hariścandra vā camvoḥ somasya bhakṣaṇasaṃpādakayor adhiṣavaṇaphalakayoḥ śiṣṭam abhiṣavāvaśiṣṭaṃ somam uddhara | śakaṭatyaktam asyopari hara [?] | pavitre daśāpavitre ā sṛja | ānīya prakṣipa | prakṣepe satyavaśiṣṭaṃ somaṃ gostvaci ānaḍuhe carmaṇy adhi ni dhehi | adhyāropya sthāpaya || camvoḥ | camu adane | camyate bhakṣyate 'treti camūḥ | kṛṣicamitanidhanī | u. 1-81 | ūpratyayaḥ | tiṅādi upratyayaḥ | pratyayasvaraḥ | saptamīdvivacanasyodāttasvaritayor yaṇaḥ svarita iti svaritatvam | udāttayaṇo halpūrvād iti nāsti niyama iti … | bhara | hṛñ haraṇe | hṛgrahor bhaḥ | dhehi | dhvasor eddhāv abhyāsalopaś ca | pā. 6-4-119 | ity etvābhyāsalopau | nighātaḥ | tvaci | sāvekāca iti vibhakter udāttatvam ||*
+
+**Translation:** "O priest [or Hariścandra]! Take up (*ud bhara*) the *śiṣṭam* — the remaining — soma left over after pressing, in the *camvoḥ* — the two pressing-boards that provide the soma [literally 'the eating']; [carry] what remains over to the [filter]. Pour (*ā sṛja*) it into the *pavitra* — the ten-fringed filter. Having brought it, put it in; and then place the remaining soma on (*adhi ni dhehi*) the cow's hide (*goḥ tvaci*) — the ox-skin: set it on top. *Camvoḥ*: *camu adane*; 'that in which it is eaten [drunk] is *camū*'; the suffix *ū* by Uṇ. 1-81; the accent of the suffix; the dual locative's acute and *yaṇ* → *svarita* by P. 8-2-4. *Bhara*: *hṛñ haraṇe*, with *bha* for *ha*. *Dhehi*: *dhā* + *hi* with *e* and loss of the reduplicate by P. 6-4-119; the lowering. *Tvaci*: the case-ending's acute by *sāvekāca*." *(Grammar pages 436–437, noted briefly: the words treated are* camvoḥ *[*camu adane*, *bhvādi* — 'that in which one drinks/eats'; *ū* by Uṇ. 1-81 *kṛṣicamitanidhanisaṃtanikaṭibhyaḥ ūḥ*? — the Uṇ. rule gives the *ū*-suffix; the locative dual *os*: the *ū* → *v* by P. 6-4-77; the accent of the suffix; by P. 8-2-4 the *yaṇ* of an *udātta* becomes *svarita*; the print adds a scholastic argument on P. 6-1-174 *udāttayaṇo hal pūrvāt* — whether the ending takes the acute — read as: the ending is not acute here because the *yaṇ* is preceded by a vowel],* bhara *[*hṛñ haraṇe*, *bhvādi*; *loṭ* 2nd singular *hi*, lost by P. 6-4-105; *ha* → *bha* by P. 7-4-… *hṛgrahor bhaś chandasi*; guṇa],* dhehi *[*ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *loṭ* 2nd singular *sip* → *hi*; *śap* → *śluḥ* P. 2-4-75; doubling P. 6-1-10; *halādiḥ śeṣaḥ*; *jaśtva*; *dadhā* + *hi* → *dhehi* by P. 6-4-119 *ghvasoreddhāv abhyāsalopaś ca*: the root's *ā* → *e*, the reduplicate lost; the verb is lowered by P. 8-1-28] and* tvaci *[*tvac* + *ṅi*; the acute on the ending by P. 6-1-168 *sāvekācas tṛtīyādir vibhaktiḥ*]; numerals as read, pointers only.)*
+
+**॥ Prati-padārthaḥ ॥** *(p. 436)* **शिष्टम् (śiṣṭam)** — the remaining [soma, left unpressed] | **चम्वोः (camvoḥ)** — in the two vessels [boards] | **उद्भर (ud bhara)** — bring up | **सोमम् (somam)** — the soma-juice | **पवित्रे (pavitre)** — in the filter | **आ सृज (ā sṛja)** — pour it | **गोः त्वचि (goḥ tvaci)** — on the cow-hide | **अधि नि धेहि (adhi ni dhehi)** — place it above.
+
+**॥ Bhāvārthaḥ ॥** Take what remains of the soma in the two vessels; pour the juice into the strainer; and place it on the cow-hide.
+
+**॥ English Translation ॥** *(as printed in the source)*
+
+> Fill the remaining Soma in the two jars, pour it on the sieve, and put it on the cow-hide.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 436–437)* In this rik the seer, addressing Hariścandra, the sacrificer, or some priest (the *adhvaryu*, perhaps), tells him what is to be done with the remaining soma. **उच्छिष्टम्** — *śiṣṭam*, the remainder: the soma-creeper is placed in the mortar and crushed, and the juice, standing on top of the stone (*grāvan*), flows down; the remainder, small in amount, is what stays in the mortar [and on the boards]. **चम्वोः** — *camū* is a wooden vessel used in the soma-pressing, used for offering the soma to the gods; here it means the two wooden boards (*adhiṣavaṇa-phalaka*) between which the soma-creeper is pressed. Skandasvāmin explains *camasa* as the drinking-vessel of the priests; the dual here, by *vyatyaya*, stands for 'the two *camasa* vessels'. **पवित्रे** — Yāska explains *pavitra* as 'what purifies' (*punāti*), listing its many senses — *mantra*, ray, water, fire — but here it must be understood as the filter or sieve with which the soma-juice is strained. In some places *kuśa* grass is placed over the vessel in which the soma is strained, and the juice is poured over it so that the pure juice falls into the vessel; hence *pavitra* here means the 'filter'. **गोः त्वचि** — on the cow-hide: besides pouring the soma into *droṇakalaśa* and other wooden vessels, there are descriptions in the Ṛgveda of the soma being poured on a sieve made of cow-hide, or of the hide being spread under the stalks, so that the juice falls on it and goes down — so a cow-hide was used in the soma-pressing.
+
+**॥ Close of Sūkta 28 ॥** *(p. 437: the grammar of Rik 9 ends without a colophon; printed p. 438 begins Sūkta 29. The printed page 437 carries no closing note of the usual kind; I note this rather than supply one.)*
+
+---
+
+**Progress note — printed page 437 reached; Sūkta 28 complete (all 9 Riks).**
+
+**This batch:** Riks 6–9 of Sūkta 28 (printed pp. 427–437). Sūkta 28 is now finished; grammar given as short notes.
+
+**Next task:** begin Sūkta 29 ("yac cid dhi satya somapā", 7 Riks, to Indra, Rishi Śunaḥśepa; heading on printed p. 438, PDF page 453 — not yet viewed; Sūkta 29 runs to printed p. 446; Sūkta 30 begins about p. 447). Pages 423–455 are rendered at 130 dpi in /tmp/s28/r-NNN.jpg (printed page = NNN − 15); render more with `pdftoppm -jpeg -r 130 -f N -l M Rig_Vol3.pdf`.
+
+**Open flags:** as in earlier notes. Sūkta 28: introductory note and the Aitareya-Brāhmaṇa quotation provisional; Rik 7 bhāṣya's Nirukta quotation and Rik 9 bhāṣya's first sentence (*śakaṭatyaktam…*) read with doubt; grammar in outline; Rik 1 Special Topics summarised with Ṛgveda reference numerals omitted.
