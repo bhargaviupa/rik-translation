@@ -9386,8 +9386,69 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 45.6, continued** *(from p. 558)*
+
+**Sāyaṇa-bhāṣya** *(p. 558)*
+
+> **अश्वमेधे पौष्णमिष्ट्वा स्विष्टकृतोऽनुवाक्या त्वां चित्रश्रवस्तमेत्येषा । सर्वान्नामानाप्स्यन्निति [?] खण्डे सूत्रितं । त्वां चित्रश्रवस्तम यद्वाहिष्ठं तदग्नये । आ. १०-६ [?] । इति ॥**
+>
+> **हे चित्रश्रवस्तमातिशयेन विविधहवीरूपान्नयुक्त पुरुप्रिय बहूनां यजमानानां प्रीतिकराग्ने त्वां हव्याय वोळ्हवे हविर्वोढुं विक्षु जन्तवः प्रजासूत्पन्ना यजमाना हवन्ते । आह्वयन्ति । कीदृशं शोचिष्केशं दीप्तिरूपकेशोपेतं । तथा च वाजसनेयिन आमनन्ति । शोचन्त इव ह्येतस्य समिद्धस्य रश्मयः केशा इति ॥ चित्रश्रवस्तम । श्रव इत्यन्ननाम । चित्रं श्रवो यस्यासौ चित्रश्रवाः । अतिशयेन चित्रश्रवाश्चित्रश्रवस्तमः । आमन्त्रितानुदात्तत्वं । शोचिष्केशं । शुच दीप्तौ । अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः । उ. २-१०९ [?] । इतीसिः । प्रत्ययस्वरः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । हव्याय । हवनक्रियया प्राप्यत्वात् क्रियाग्रहणं कर्तव्यमिति संप्रदानत्वाच्चतुर्थी । वोळ्हवे । वह प्रापणे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । ढत्वधत्वष्टुत्वढलोपेषु कृतेषु सहिवहोरोदवर्णस्येति । पा. ६-३-११२ [?] । इत्योकारः [?] । नित्त्वादाद्युदात्तत्वं ॥ ६ ॥**
+
+*aśvamedhe pauṣṇam iṣṭvā sviṣṭakṛto 'nuvākyā tvāṃ citraśravastametyeṣā | sarvānnāmānāpsyann iti [?] khaṇḍe sūtritaṃ | tvāṃ citraśravastama yad vāhiṣṭhaṃ tad agnaye | ā. 10-6 [?] | iti ||*
+
+*he citraśravastamātiśayena vividhahavīrūpānnayukta purupriya bahūnāṃ yajamānānāṃ prītikarāgne tvāṃ havyāya voḷhave havir voḍhuṃ vikṣu jantavaḥ prajāsūtpannā yajamānā havante | āhvayanti | kīdṛśaṃ śociṣkeśaṃ dīptirūpakeśopetaṃ | tathā ca vājasaneyina āmananti | śocanta iva hy etasya samiddhasya raśmayaḥ keśā iti || citraśravastama | srava ity annanāma | citraṃ śravo yasyāsau citraśravāḥ | atiśayena citraśravāś citraśravastamaḥ | āmantritānudāttatvaṃ | śociṣkeśaṃ | śuca dīptau | arciśucihusṛpichādichardibhya isiḥ | u. 2-109 [?] | itīsiḥ | pratyayasvaraḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | havyāya | havanakriyayā prāpyatvāt kriyāgrahaṇaṃ kartavyam iti sampradānatvāc caturthī | voḷhave | vaha prāpaṇe | tumarthe sesen iti tavenpratyayaḥ | ḍhatvadhatvaṣṭutvaḍhalopeṣu kṛteṣu sahivahor odavarṇasyeti | pā. 6-3-112 [?] | ity okāraḥ [?] | nittvād ādyudāttatvaṃ || 6 ||*
+
+*(Crowded: the Āśvalāyana section-name, read "sarvānnāmānāpsyan" in the anuvāda but "…āsyann…" in the bhāṣya's print; the Uṇādi number; the last word of the Pāṇini tail. All marked [?].)*
+
+**Translation:** "In the Aśvamedha, after the offering to Pūṣan, this ṛk '*tvāṃ citraśravastama*' is the *anuvākyā* of the *sviṣṭakṛt* (the offering that makes the rite well-performed); it is prescribed in the section '*sarvānnāmānāpsyan*' [?]: '*tvāṃ citraśravastama*, *yad vāhiṣṭhaṃ tad agnaye*' (Āśv. 10-6 [?]). O *citraśravastama*, you who are specially endowed with food in the form of various oblations; O *purupriya*, who gladden many sacrificers; O Agni: *vikṣu*, among the peoples, *jantavaḥ*, the sacrificers born among the people, call you (*havante*, *āhvayanti*), *havyāya voḷhave*, to carry the oblation. What kind of you? *Śociṣkeśam*, having hair in the form of flames. Thus the Vājasaneyins say: 'for the rays of him when kindled are, as it were, flaming hair.'"
+
+**Pratipadārtha** *(p. 558)* — "**citraśravastama** — one who has food in the form of the most abundant and varied oblations; **purupriya** — dear to many sacrificers; **agne** — O Agni; **śociṣkeśam** — whose hair is blazing; **tvām** — you; **havyāya voḷhave** — to carry the oblations; **vikṣu** — among the peoples; **jantavaḥ** — the sacrificers who are born (as men); **havante** — call with prayer."
+
+**Bhāvārtha** *(p. 558)* — "O Agni, you are very dear to the sacrificers. They offer you food in the form of abundant and varied oblations. Growing by it you shine with your hair in the form of flames. To you, so blazing, the sacrificers born among the peoples pray, that you carry the oblations for the gods."
+
+**English Translation (the source's own, p. 558)** — "Agni, granter of abundant food, who are beloved by many, the sons of men (sacrifices) invoke you, flame-haired, to convey the oblations to the gods."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 559**
+- (opening note) "In the Aśvamedha sacrifice, when the *sviṣṭakṛt* offering is made in the *iṣṭi* connected with Pūṣan, this ṛk '*tvāṃ citraśravastama*' is to be recited as *puro-'nuvākyā*, as shown in the section '*sarvānnāmānāpsyan*' of the Āśvalāyana Śrauta-sūtra by the sūtra '*tvāṃ citraśravastama* (Ṛ. Saṃ. 1-45-6) *yad vāhiṣṭhaṃ tad agnaye* (Ṛ. Saṃ. 5-[?]-[?])' (Ā. 10-6 [?])."
+- **citraśravaḥ** — "*vividha*, various; one who is joined to the substances of offering, such as ghee and *havis*."
+- **śociṣkeśam** — "one whose flames are the hair; as hair is a covering for men, so Agni, covered with radiant splendour, shines — this is the idea. Here *keśa* may be said to mean 'ray'; there is the sentence of the Vājasaneyi Saṃhitā (Śukla Yajurveda): '*śocanta iva hy etasya samiddhasya raśmayaḥ keśāḥ*' (Sanskrit as printed) — शोचन्त इव ह्येतस्य समिद्धस्य रश्मयः केशाः — *śocanta iva hy etasya samiddhasya raśmayaḥ keśāḥ* — mine and tentative: 'for the rays of him, kindled, are as it were flaming, the hairs'."
+- **purupriya** — "dear to the sacrificers, the many people: *bahūnāṃ yajamānānāṃ prītikara*."
+- **vikṣu jantavaḥ** — "*prajāsūtpannā yajamānāḥ*: among the people, that is, those born among men — the sacrificers who are men."
+
+**Vyākaraṇa-prakriyā** *(pp. 559–560 — grammar pages, noted briefly)*
+- **citraśravastamaḥ**: *śravaḥ* is a name for food; "*citraṃ śravaḥ yasya saḥ*", a bahuvrīhi — one who has food in the form of many kinds of oblations. When the sense of excess (*atiśaya*) is meant, the suffix *tamap* by *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55 as read [?]); the vocative; the all-unaccented by *āmantritasya*.
+- **śociṣkeśam**: root *śuca dīptau* (the root in the first class; the Vedic commentator holds that it also has the sense of "shine"); the Uṇādi rule *arci-śuci-hu-sṛpi-chādi-chardibhya isiḥ* (Uṇ. 2-10[?] as read) — roots *arci pūjāyām, śuca śoke, hu dānādanayoḥ, sṛpḷ gatau, chada apavāraṇe* (in the causative), *chardi vamane* [as read] — the suffix *isi*; *śuc + is*; *pugantalaghūpadhasya ca* gives *guṇa* of the light penultimate (*u* → *o*): *śocis*. The accent of the suffix: the *i* is acute. "*Śociḥ keśo yasya taṃ*", a bahuvrīhi, "one whose hair is of the form of light"; the first member keeps its natural accent — that is, whatever accent it had first remains after the compound.
+- **havyāya**: *karmaṇā yam abhipraiti sa sampradānam* (Pā. 1-4-32 as read [?]) — कर्मणा यमभिप्रैति स संप्रदानम् — "whom the agent has in view by the action is the recipient"; the *vārttika* "*kriyāgrahaṇaṃ kartavyam*" is added: that which is the aim of an action also gets the name *sampradāna*; hence *havya*, the aim of the action of carrying signified by *voḷhave*, gets *sampradāna*; *caturthī sampradāne* then gives the dative.
+- **voḷhave**: root *vaha prāpaṇe*; *tumarthe sesenasese…* (Pā. 3-4-9 as read [?]) gives the suffix *tavenū*; *vah + tave*; *hoḍhaḥ* (Pā. 8-2-31 as read) — *h* becomes *ḍh* even before a *jhal* and at the end of a word; *jhaṣas tathor dho 'dhaḥ* (Pā. 8-2-40 as read) *dha* for the *ta*; *ṣṭunā ṣṭuḥ* (Pā. 8-4-41 as read) the *ṣṭu*-change: the *dh* becomes *ḍh*; *ḍho ḍhe lopaḥ* (Pā. 8-3-13 as read) the first *ḍh* is dropped; *sahivahor odavarṇasya* (Pā. 6-3-112 as read) the *o* for the *a* of *vah*: *voḍhave*; by the rule cited as "*ajmadhyasthaṭhakārasya ḷhakāraṃ vaitathā kramam*" [as printed, a Prātiśākhya-type rule, [?]] the *ḍh* is replaced by *ḷh*: *voḷhave*. The suffix is *nit*, so the end of the suffix is acute (*āsyudātta* as printed; the first syllable of the suffix). **|| 6 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 557 (PDF 571) reached; heading, introduction and Riks 45.1–45.5 complete; Rik 45.6's Saṃhitā and Pada written at the foot of p. 557 (its bhāṣya begins on p. 558).**
+### Rik 45.7 (p. 560 foot, PDF 574–)
 
-**Next task:** continue at printed p. 558 (PDF 572) with the bhāṣya of Rik 45.6, then Riks 7–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 572 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.4–5: the Uṇādi-sūtra name and the mood-name in 45.4's bhāṣya tail crowded [?]; 45.5's closing bhāṣya numeral misprinted/crowded (reads like "30"/"50"); source English misprint "spelendour" [sic] kept. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 560; accents not reproduced)*
+
+> **नि त्वा होतारमृत्विजं दधिरे वसुवित्तमम् ।**
+> **श्रुत्कर्णं सप्रथस्तमं विप्रा अग्ने दिविष्टिषु ॥ ७ ॥**
+
+*ni tvā hotāram ṛtvijaṃ dadhire vasuvittamam |*
+*śrutkarṇaṃ saprathastamaṃ viprā agne diviṣṭiṣu || 7 ||*
+
+**Pada-pāṭha** *(p. 560)*
+
+> नि । त्वा । होतारम् । ऋत्विजम् । दधिरे । वसुवित्ऽतमम् ।
+> श्रुत्ऽकर्णम् । सप्रथःऽतमम् । विप्राः । अग्ने । दिविष्टिषु ॥ ७ ॥
+
+*ni | tvā | hotāram | ṛtvijam | dadhire | vasuvit-tamam |*
+*śrut-karṇam | saprathaḥ-tamam | viprāḥ | agne | diviṣṭiṣu || 7 ||*
+
+*(The bhāṣya of Rik 7 begins on p. 561, not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 560 (PDF 574) reached; heading, introduction and Riks 45.1–45.6 complete; Rik 45.7's Saṃhitā and Pada written at the foot of p. 560 (its bhāṣya begins on p. 561).**
+
+**Next task:** continue at printed p. 561 (PDF 575) with the bhāṣya of Rik 45.7, then Riks 8–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 575 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Rik 45.6: Āśvalāyana section-name and numerals, the Uṇādi number, the last word of the *voḷhave* tail and the Prātiśākhya-type rule on *ḷh* are [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
