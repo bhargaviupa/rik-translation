@@ -4565,10 +4565,268 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+## SŪKTA 38 *(printed p. 292 foot = PDF 306)*
+
+**Thirty-eighth Sūkta** *(large Kannada title line: "mūvattentaneya sūktavu")*
+
+### Page 292 (PDF 306) — Sāyaṇa's introduction and the Kannada anuvāda
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the word marked [?] is crowded)*
+
+> कद्ध नूनमिति पञ्चदशर्चं तृतीयं सूक्तम् । घोरपुत्रः कण्व ऋषिः । ऋषिश्चान्यस्मादिति परिभाषितत्वात् । पूर्वसूक्ते मारुतं हीत्युक्तत्वादिदमपि मरुद्देवताकं । गायत्रं त्रि[?]त्युक्तत्वाद्गायत्रीच्छन्दस्कं । कद्धेत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
+
+*kaddha nūnam iti pañcadaśarcaṃ tṛtīyaṃ sūktam | ghoraputraḥ kaṇva ṛṣiḥ | ṛṣiś cānyasmād iti paribhāṣitatvāt | pūrvasūkte mārutaṃ hīty uktatvād idam api maruddevatākaṃ | gāyatraṃ tri[?]ty uktatvād gāyatrīchandaskaṃ | kaddheti anukramaṇikā | viniyogo laiṅgikaḥ ||*
+
+**Translation:** "*Kaddha nūnam* — the third sūkta [of the anuvāka], of fifteen ṛks. Kaṇva, son of Ghora, is the ṛṣi, by the rule 'and the ṛṣi [is the same] as another [sūkta]'. Because in the preceding sūkta it was said '[it is] Māruta indeed', this one also has the Maruts as deity. [Because] the Gāyatra [metre] is stated [in the preceding one — the word is crowded [?]], it has the Gāyatrī metre. [The Anukramaṇikā says] '*kaddha*…'. The application (*viniyoga*) is *laiṅgika* [by the indication of the sense]."
+
+**Anuvāda (Kannada), p. 292** — "*Kaddha nūnam* is the third sūkta in this eighth anuvāka. In it there are fifteen ṛks. The ṛṣi of the preceding sūkta, Kaṇva the son of Ghora, is the ṛṣi of this too. The Maruts are the deities. It is of the Gāyatrī metre. The *viniyoga* is *laiṅgika*, that is, in accordance with the sense and with the occasion."
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–37 COMPLETE (printed pp. 1–292 = PDF 15–306; Sūkta 37 occupies pp. 251–292 and closes at the top of p. 292).**
+### Page 293 (PDF 307) — heading of Sūkta 38 and Rik 38.1
 
-**Next task:** Sūkta 38 (*kad dha nūnam*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī), starting with its heading, Sanskrit introduction and Kannada *anuvāda* on printed p. 292 (PDF 306), which share the leaf with the end of Sūkta 37 (not yet written); then Rik 1 on p. 293 (PDF 307). One session per sūkta; read the last ~40 lines of this file first. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 306 -l 312 Rig_Vol4.pdf /tmp/x/v`.
+**॥ ॐ ॥**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md and the git history of this file). For Sūkta 37: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) Nirukta, Ṛgveda, Brāhmaṇa, Uṇādi and Pāṇini references are small and uncertain and are marked [?] or "as read" (in Riks 11–15 every Pāṇini number is "as read [?]"); (4) the verse on *mānuṣa*/*māṇava* in Rik 7's grammar is doubtful; (5) grammar notes of Riks 1–15 are characterized from crowded passages and may contain slips (especially Rik 8's *vyavasthitavibhāṣā*, Rik 9's *eṣām*, Rik 11's *amṛdhra*, Rik 13's *yānti* accent passage, Rik 14's *vaito 'nyatra* passage); (6) misprints reproduced as printed: Riks 1, 2 ("maruths", "Maruths"), 6 ("whᵒ"), 8 ("aproach", "ehfeebled", "tbrough"), 11 ("uninjuarable" [sic]), 15 (lower-case "we" after a full stop); (7) Rik 11's second Pada line (foot of p. 281) was omitted when Rik 11 was first written and is supplied by a correction note; (8) in Rik 12 the lakāra of *acucyavītana* is not legible to me and the Special Topics heading prints *gha* though the Rik has *ha*; (9) Rik 14's bhāṣya quotation of the *kṣipra* names (*śībhaṃ tṛṣu tūyam*) is doubtful; (10) Rik 11's *avṛdhram* was checked on an enlarged slice and is as read.
+> **सूक्त — ३८**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ३८ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — मरुतः ॥
+> ॥ छन्दः — गायत्री ॥
+
+*sūkta 38 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga [numerals not read with certainty [?]; three varga numbers printed] | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
+
+**Translation of the heading:** "Sūkta 38; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga [numerals unread [?]]; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
+
+### Rik 38.1 (pp. 293–295, PDF 307–309)
+
+**Saṃhitā-pāṭha** *(p. 293; accents not reproduced)*
+
+> **कद्ध नूनं कधप्रियः पिता पुत्रं न हस्तयोः ।**
+> **दधिध्वे वृक्तबर्हिषः ॥ १ ॥**
+
+*kad dha nūnaṃ kadhapriyaḥ pitā putraṃ na hastayoḥ |*
+*dadhidhve vṛktabarhiṣaḥ || 1 ||*
+
+**Pada-pāṭha** *(p. 293)*
+
+> कत् । ह । नूनम् । कधप्रियः । पिता । पुत्रम् । न । हस्तयोः ।
+> दधिध्वे । वृक्तबर्हिषः ॥ १ ॥
+
+*kat | ha | nūnam | kadhapriyaḥ | pitā | putram | na | hastayoḥ |*
+*dadhidhve | vṛkta-barhiṣaḥ || 1 ||*
+
+*(The Pada prints* kat *for the Saṃhitā's* kad*, and a small division sign inside* kadha-priyaḥ *and* vṛkta-barhiṣaḥ*.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 293–294)*
+
+> **हे मरुतः कद्ध कदा खलु नूनमवश्यं हस्तयोर्दधिध्वे । यूयमस्मान्स्ते [?] धारयथ । तत्र दृष्टान्तः । पिता पुत्रं न हस्तयोः । यथा लोके पिता हस्तयोः स्वकीयं पुत्रं धारयति तद्वत् । कीदृशा मरुतः । कधप्रियः स्तुतिप्रीताः । वृक्तबर्हिषः वृक्तं छिन्नं बर्हिर्दर्भो येषां मरुतां यजमानाय ते मरुतस्तथाविधाः ॥**
+
+*he marutaḥ kad dha kadā khalu nūnam avaśyaṃ hastayor dadhidhve | yūyam asmān ste [?] dhārayatha | tatra dṛṣṭāntaḥ | pitā putraṃ na hastayoḥ | yathā loke pitā hastayoḥ svakīyaṃ putraṃ dhārayati tadvat | kīdṛśā marutaḥ | kadhapriyaḥ stutiprītāḥ | vṛktabarhiṣaḥ vṛktaṃ chinnaṃ barhir darbho yeṣāṃ marutāṃ yajamānāya te marutas tathāvidhāḥ ||*
+
+**Translation:** "O Maruts, *kad dha* — when indeed, *nūnam* — surely, will you take [us] in your two hands (*hastayor dadhidhve*)? You hold us [the word *ste* in the print is unclear to me [?]]. The example there: *pitā putraṃ na hastayoḥ* — as, in the world, a father holds his own son in his two hands, so. What kind of Maruts? *Kadhapriyaḥ* — pleased with praise; *vṛktabarhiṣaḥ* — those for whom, for the sacrificer, the *barhis*, the *darbha* grass, has been clipped, cut: such Maruts."
+
+> **कद्ध । कदा । द्यौ चापरौ वर्णविकारनाशौ । का. ६-३-१०९ [?] । इत्येकत्वादाकारलोपः [?] । कधप्रियः । कथा स्तुतिः । तया प्रीणन्तीति कधप्रियः । प्रीञ् प्रीतौ । क्विप् । पूर्वपदस्य ज्यापोः सञ्ज्ञाछन्दसोर्बहुलं । पा. ६-३-६३ [?] । इति ह्रस्वत्वं । थकारश्छान्दसः । आमन्त्रितनिघातः । दधिध्वे । दधातेश्छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । क्रादिनियमादिट् । प्रत्ययस्वरः । वृक्तबर्हिषः । आमन्त्रितनिघातः ॥**
+
+*kad dha | kadā | dvau cāparau varṇavikāranāśau | kā. 6-3-109 [?] | ity ekatvād ākāralopaḥ [?] | kadhapriyaḥ | kathā stutiḥ | tayā prīṇantīti kadhapriyaḥ | prīñ prītau | kvip | pūrvapadasya jyāpoḥ saṃjñāchandasor bahulaṃ | pā. 6-3-63 [?] | iti hrasvatvaṃ | thakāraś chāndasaḥ | āmantritanighātaḥ | dadhidhve | dadhāteś chandasi luṅlaṅliṭa iti vartamāne liṭ | krādiniyamād iṭ | pratyayasvaraḥ | vṛktabarhiṣaḥ | āmantritanighātaḥ ||*
+
+**Translation of the grammatical tail** *(characterized)*: *Kad* stands for *kadā*, "when": by the Kāśikā's statement "two other [operations] are the change and loss of a letter" (*Kā.* 6-3-109 [?], as read) the *ā* is lost [the Sanskrit of this clause is crowded [?]]. *Kadhapriyaḥ*: *kathā* means praise; those who delight in it are *kadhapriyaḥ*; root *prīñ prītau* with *kvip*; the shortening of the first member before *jyā* and *āp* in a name or in the Veda (*pūrvapadasya jyāpoḥ…*, Pā. 6-3-63 [?]); the *dha* for *tha* is Vedic; the vocative is unaccented (*āmantritanighāta*). *Dadhidhve*: root *dhā*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; because of the restriction of the *kṛ*-group the augment *iṭ*; accent of the suffix. *Vṛktabarhiṣaḥ*: vocative, unaccented.
+
+**Pratipadārtha** *(p. 294)* — "**kadhapriyaḥ** — those who are fit to be pleased by praises, and **vṛktabarhiṣaḥ** — for whom seats of clipped *darbha* have been prepared (for you [the Maruts]) — O Maruts, you; **pitā** — a father; **hastayoḥ** — with his two hands; **putraṃ na** — as one takes up his son (with love); **kad ha** — when indeed; **nūnam** — surely; **dadhidhve** — will you take us (with affection) and lift us up with your hands?"
+
+**Bhāvārtha** *(p. 294)* — "O Maruts, you are fit to be pleased by praises. *Darbha* seats are prepared for you. When will you, as a father takes up his son lovingly with his two hands, take us up in your hands and show your regard for us?"
+
+**English Translation (the source's own, p. 294)** — "Maruts, who are fond of praise and for whom a seat of clipped kusa-grass is prepared, when will you take us in your arms as a father does his son ?" *(Space before the question mark as printed.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 294**
+- **kat ha** = *kadā* — "when?"
+- **kadhapriyaḥ** = *stutiprītāḥ* — "*kadha* = *kathā* = *stuti*, praise: those who love praise." The source adds the English: "Who love to be praised."
+- **vṛktabarhiṣaḥ** — "a seat made of *darbha* grass called *barhis* that has been clipped. It is the custom to prepare a *darbha* seat so that the gods may come to the sacrificial altar and sit."
+- **pitā putraṃ na hastayoḥ** — "as a father lovingly lifts his son, the object of his affection, with his hands."
+
+**Vyākaraṇa-prakriyā** *(p. 295 — grammar page, noted briefly)*
+- **kat**: this word stands in place of *kadā*; the Kāśikā statement *dvau cāparau varṇavikāranāśau* — द्वौ चापरौ वर्णविकारनाशौ — [Kāśikā on Pā. 6-3-109, as read [?]]: "the adding of a new letter, the going before or after of letters, [and] the change of letter, i.e. a letter put in place of an existing one, and the loss of one of the letters: these operations occur in words like *pṛṣodara*", so by this the *ā* of *kadā* is lost.
+- **kadhapriyaḥ**: *kathā* = praise; "those who delight in it with praise"; root *prīñ prītau* and *kvip*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — [Pā. 6-3-63 as read [?]]: in a name or in the Veda, when the latter member follows, *ī* and *āp* are shortened, so the *ā* of *kathā* is short; *tha* becomes *dha* by Vedic usage; the form *kadhapriḥ* in the singular; the vocative is unaccented.
+- **dadhidhve**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः — [Pā. 3-4-6 as read [?]]: in the Veda *liṭ* comes after the root in the sense of any tense, here the present; madhyama plural *dhvam*, *ṭi* → *e*. By *kṛsṛbhṛvṛstudruśruvo liṭi* — कृसृभृवृस्तुद्रुश्रुवो लिटि — [Pā. 7-2-13 as read [?]] these roots [being *anudāttopadeśa*, with the rule *ekāca upadeśe 'nudāttāt*] avoid *iṭ* — the prohibition of *iṭ* [for the *kṛ*-group] is made a restriction (*niyama*): only these seven roots avoid *iṭ* in *liṭ*, the rest take it ("the *kṛādi-niyama*"); so *dhā* takes *iṭ* before *liṭ*; the accent is that of the suffix.
+- **vṛktabarhiṣaḥ**: *vṛkta* = clipped, *barhis* = *darbha*; a bahuvrīhi, "of whom, to whom"; by the sūtra [name printed unclearly [?]] the vocative is unaccented. Rik 1 ends here (*|| 1 ||*).
+
+---
+
+### Rik 38.2 (pp. 296–298, PDF 310–312)
+
+**Saṃhitā-pāṭha** *(p. 296; accents not reproduced)*
+
+> **क्व नूनं कद्वो अर्थं गन्ता दिवो न पृथिव्याः ।**
+> **क्व वो गावो न रण्यन्ति ॥ २ ॥**
+
+*kva nūnaṃ kad vo arthaṃ gantā divo na pṛthivyāḥ |*
+*kva vo gāvo na raṇyanti || 2 ||*
+
+**Pada-pāṭha** *(p. 296; the print puts the Pada directly beneath the Saṃhitā on the same page, and over it the heading* bhāvārtha *— a misprint of the heading* padapāṭhaḥ*, noted and not repeated)*
+
+> क्व । नूनम् । कत् । वः । अर्थम् । गन्त । दिवः । न । पृथिव्याः ।
+> क्व । वः । गावः । न । रण्यन्ति ॥ २ ॥
+
+*kva | nūnam | kat | vaḥ | artham | ganta | divaḥ | na | pṛthivyāḥ |*
+*kva | vaḥ | gāvaḥ | na | raṇyanti || 2 ||*
+
+*(The Saṃhitā prints* gantā *with a long final vowel, the Pada* ganta *with a short one; the grammar below accounts for the lengthening.)*
+
+**Sāyaṇa-bhāṣya** *(p. 296)*
+
+> **हे मरुतो नूनमिदानीं क्व । यूयं कुत्र स्थिताः । कत् कदा वो युष्माकमर्थमरणं देवयजनदेशे गमनं । विलम्बं मा कुरुतेत्यर्थः । दिवो गन्त । द्युलोकाद्गच्छथ । पृथिव्या न गन्त । भूलोकान्मा गच्छत । वो युष्मान् क्व रण्यन्ति । देवयजनरूपायाः पृथिव्या अन्यत्र कुत्र शब्दयन्ति । यजमानाः स्तुवन्ति । तत्र दृष्टान्तः । गावो न । यथा गावो रणन्ति । शब्दयन्ति । तद्वत् ॥**
+
+*he maruto nūnam idānīṃ kva | yūyaṃ kutra sthitāḥ | kat kadā vo yuṣmākam artham araṇaṃ devayajanadeśe gamanaṃ | vilambaṃ mā kurutety arthaḥ | divo ganta | dyulokād gacchatha | pṛthivyā na ganta | bhūlokān mā gacchata | vo yuṣmān kva raṇyanti | devayajanarūpāyāḥ pṛthivyā anyatra kutra śabdayanti | yajamānāḥ stuvanti | tatra dṛṣṭāntaḥ | gāvo na | yathā gāvo raṇanti | śabdayanti | tadvat ||*
+
+**Translation:** "O Maruts, *nūnam* — now — *kva*, where? Where are you staying? *Kat* — when will your *artham*, your going, your journey to the place of the divine sacrifice be? Do not delay: so the sense. *Divo ganta* — you go from the heaven-world; *pṛthivyā na ganta* — do not go from the earth-world. *Vo kva raṇyanti* — where else than [on] this earth that is the place of the divine sacrifice do they make a sound [for] you, i.e. the sacrificers praise [you]? The example: *gāvo na* — as cows *raṇanti*, make a sound, so."
+
+> **क्व । किं शब्दात्सप्तम्यन्ताद्विकल्पेन अत् । पा. ५-३-१२ [?] इत्यत्प्रत्ययः । क्वाति । पा. ७-२-१०५ [?] । इति किमः क्वादेशः । तित्स्वरिते इति स्वरितत्वं । अर्थं । ऋ गतौ । उषिकुषिगार्तिभ्यस्थन् । उ. २-४ [?] । इति भावे थन् । नित्त्वादाद्युदात्तत्वं । गन्त । गमेर्लोटि बहुलं छन्दसीति शपो लुक् । थादेशस्य तस्य तप्तनप्तनथनाश्चेति तबादेशः [?] । अत एव जित्त्वाभावादनुदात्तोपदेशेत्यादिनानुनासिकलोपो न भवति । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः । द्व्यचोऽतस्तिङ इति संहितायां दीर्घत्वं । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वं । पृथिव्याः । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वं । रण्यन्ति । रणतिः शब्दार्थः । व्यत्ययेन श्यन् ॥**
+
+*kva | kiṃ śabdāt saptamyantād vikalpena at | pā. 5-3-12 [?] ity atpratyayaḥ | kvāti | pā. 7-2-105 [?] | iti kimaḥ kvādeśaḥ | titsvarite iti svaritatvaṃ | arthaṃ | ṛ gatau | uṣikuṣigārtibhyas than | u. 2-4 [?] | iti bhāve than | nittvād ādyudāttatvaṃ | ganta | gamer loṭi bahulaṃ chandasīti śapo luk | thādeśasya tasya tapta-nap-tana-thanāś ceti tabādeśaḥ [?] | ata eva jittvābhāvād anudāttopadeśety ādinānunāsikalopo na bhavati | pratyayasya pittvād anudāttatve dhātusvaraḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghatvaṃ | divaḥ | ūḍidam iti vibhakter udāttatvaṃ | pṛthivyāḥ | udāttayaṇo hal-pūrvād iti vibhakter udāttatvaṃ | raṇyanti | raṇatiḥ śabdārthaḥ | vyatyayena śyan ||*
+
+**Translation of the grammatical tail** *(characterized; numerals as read [?]; the Sanskrit is transcribed as printed)*: *Kva* — from the word *kim* with a locative ending, optionally the suffix *at*; for the *kim* the substitute *kva* before *at* (*kvāti*); the *svarita* by *tit svaritam*. *Artham* — root *ṛ gatau*; the Uṇādi *than* in the abstract sense, the first syllable acute because it is *nit*. *Ganta* — *loṭ* of *gam*; the *śap* elided by *bahulaṃ chandasi*; for *tha* the substitute [*ta*; the print reads *tabādeśaḥ* where the grammar page has *tap* [?]] by *tapta-nap-tana-thanāś ca*; therefore, as the suffix is not *ñit*, the nasal is not lost by the rule beginning *anudāttopadeśa…*; since the suffix, being *pit*, is unaccented, the accent is that of the root; in the Saṃhitā the lengthening by *dvyaco 'tastiṅaḥ*. *Divaḥ* — the ending acute by *ūḍidam…*. *Pṛthivyāḥ* — the ending acute by *udāttayaṇo hal-pūrvāt*. *Raṇyanti* — *raṇati* is in the sense of sound; *śyan* by *vyatyaya*.
+
+**Pratipadārtha** *(pp. 296–297)* — "(O Maruts) **nūnam** — certainly; (**idānīm** — now) **kva** — where are you? **vaḥ** — your; **artham** — going (to the place of sacrifice); **kat** — when? **divaḥ** — from the heaven-world; **ganta** — set out (towards the earth); **pṛthivyāḥ** — from the earth (outwards); **na** — do not set out; **gāvaḥ na** — as cows make sound; **vaḥ** — about you; **kva** — where else (than our place of sacrifice); **raṇyanti** — they praise, making sound."
+
+**Bhāvārtha** *(p. 297)* — "O Maruts, where are you now, indeed? When will your going to the place of sacrifice be? Come from the heaven-world to the earth; do not go away from the earth. In what place of sacrifice are the sacrificers praising, making sound as cows do?"
+
+**English Translation (the source's own, p. 297)** — "Maruts, where indeed are you at present ? When do you come here ? Depart from heaven and not from the earth. Where do they worship you with sounds of praise as the lowing of the cattle ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 297**
+- **artham** = *ṛ gatau | artham araṇaṃ gamanam* — "coming, arrival."
+- **na ganta** = *na gacchata* — "here the ṛṣi prays to the Marut-deities to come from the heaven-world, and prays them not to leave the earth. For the form of the Marut-deities on the earth is very swift and terrible and brings destruction to dwelling-places such as houses; so he may be praying that they should not come in the form seen on the earth (that is, together with clouds made of thunder, hail and lightning) but should come here in their own true form, shining in the heaven-world." *(Printed with the hedge "may be", *prārthisirabahudu*; the whole note is the Kannada author's.)*
+- **kva vaḥ gāvaḥ na raṇyanti** — "the sense is that the sacrificers and others praise you in other places than this one, with a loud sound, as cows low."
+
+**Vyākaraṇa-prakriyā** *(pp. 297–298 — grammar page, noted briefly)*
+- **kva**: from the word *kim*, with a locative ending, the suffix *at* optionally by *kimo 'ṭ* — किमोऽत् — [Pā. 5-3-12 as read [?]]; the locative ending is elided; *kim + a*; *kvāti* — क्वाति — [Pā. 7-2-105 as read [?]]: before *at* the substitute *kva* for *kim*; then *kva + a*, by *yasyeti ca* the loss of the *a* of *kva*; the suffix is *tiś* [as read] and gives the *svarita*.
+- **artham**: *ṛ gatau*; *uṣikuṣigārtibhyas than* — उषिकुषिगार्तिभ्यस्थन् — [Uṇ. 2-167 as read [?]]: *than*; *guṇa*, *raparatva*; the suffix is *nit*, so the first syllable is acute.
+- **ganta**: *gamḷ gatau*, *loṭ*, substitute for *tha*; *śap* elided by *bahulaṃ chandasi* [Pā. 2-4-73 as read [?]]; *tapta-nap-tana-thanāś ca* gives *tap*, so the suffix is *pit*, *sārvadhātukam apit* does not apply, and so [the *ṅit* effects such as loss of the nasal] do not occur; being *pit* the suffix is unaccented and the root accent remains; *dvyaco 'tastiṅaḥ* — द्व्यचोऽतस्तिङः — [Pā. 6-3-135 as read [?]] the long vowel in the Saṃhitā.
+- **pṛthivyāḥ**: *prath prakhyāne*; *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् सम्प्रसारणं च — [Uṇ. 1-158 as read [?]]: *ṣivan*, with *saṃprasāraṇa*; *ṣidgaurādibhyaś ca* — षिद्गौरादिभ्यश्च — [Pā. 4-1-41 as read] gives *ṅīṣ*; the suffix accent makes it acute; before *jas*/*ṅas* the augment *āṭ* by *āṇ nadyāḥ* — आण्नद्याः — [Pā. 7-3-112 as read [?]]; *āṭaś ca* — आटश्च — [Pā. 6-1-90 as read [?]] *vṛddhi*; *pṛthivī + āṭ + as*, *yaṇ* for *ī*, which has come in place of the acute vowel; *udāttayaṇo hal-pūrvāt* — उदात्तयणो हल्पूर्वात् — [Pā. 6-1-174 as read [?]]: when a *yaṇ* standing in the place of an acute vowel is preceded by a consonant, the following ending of [a word in the *nadī*-class, in *ajādi* etc.] is acute: so the ending is acute.
+- **raṇyanti**: *raṇa śabdārthaḥ*, first class; *śyan* has come in place of *śap*. Rik 2 ends here (*|| 2 ||*).
+
+---
+
+### Rik 38.3 (pp. 298–300, PDF 312–314)
+
+**Saṃhitā-pāṭha** *(p. 298; accents not reproduced. The word* kvo *is followed in the print by a sign shaped like a Kannada "3", in both Saṃhitā and Pada; I have not resolved it, see note below)*
+
+> **क्व वः सुम्ना नव्यांसि मरुतः क्व सुविता ।**
+> **क्वो ३ विश्वानि सौभगा ॥ ३ ॥**
+
+*kva vaḥ sumnā navyāṃsi marutaḥ kva suvitā |*
+*kvo [3] viśvāni saubhagā || 3 ||*
+
+**Pada-pāṭha** *(p. 298)*
+
+> क्व । वः । सुम्ना । नव्यांसि । मरुतः । क्व । सुविता ।
+> क्वो इति [३] । विश्वानि । सौभगा ॥ ३ ॥
+
+*kva | vaḥ | sumnā | navyāṃsi | marutaḥ | kva | suvitā |*
+*kvo iti [3] | viśvāni | saubhagā || 3 ||*
+
+*(Note: I checked this line on a 300-dpi slice. The sign after* kvo *looks like the numeral 3 (a pluti mark?) in the Saṃhitā and again after* kvo iti *in the Pada. I do not read it as* ṣu *and do not decide it; the bhāṣya below glosses only* kvo*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 299)*
+
+> **हे मरुतो वो युष्माकं सम्बन्धीनि नव्यांसि नवतराणि सुम्ना प्रजापशुरूपाणि धनानि । प्रजा वै पशवः सुम्नं । तै. सं. ३-४-६-६ [?] । इति श्रुत्यन्तरात् । क्व कुत्र वर्तन्ते । तथा सुविता शोभनानि प्राप्याणि मणिमुक्तादीनि भवदीयानि क्व कुत्र वर्तन्ते । विश्वानि सर्वाणि सौभगा सौभाग्यरूपाणि गजाश्वादीनि क्वो कुत्र वा वर्तन्ते । भवदीयैः सुम्नादिभिः सर्वैः सहागन्तव्यमित्यर्थः ॥ सुम्ना । शेश्छन्दसि बहुलमिति शेर्लोपः । नव्यांसि । नवशब्दादीयसुनीकारलोपश्छान्दसः । सुविता । सुष्ठु इतानि सुवितानि । तन्नादीनां [?] छन्दसि बहुलमुपसंख्यानं । पा. ६-४-२२१ [?] । इत्युवजादेशः । सौभगा । सुभगान्मन्त्र इति तस्य भाव इत्यर्थेऽञ् । पूर्ववच्छेर्लोपः ॥**
+
+*he maruto vo yuṣmākaṃ sambandhīni navyāṃsi navatarāṇi sumnā prajāpaśurūpāṇi dhanāni | prajā vai paśavaḥ sumnaṃ | tai. saṃ. 3-4-6-6 [?] | iti śrutyantarāt | kva kutra vartante | tathā suvitā śobhanāni prāpyāṇi maṇimuktādīni bhavadīyāni kva kutra vartante | viśvāni sarvāṇi saubhagā saubhāgyarūpāṇi gajāśvādīni kvo kutra vā vartante | bhavadīyaiḥ sumnādibhiḥ sarvaiḥ sahāgantavyam ity arthaḥ || sumnā | śeś chandasi bahulam iti śer lopaḥ | navyāṃsi | navaśabdād īyasunīkāralopaś chāndasaḥ | suvitā | suṣṭhu itāni suvitāni | tannādīnāṃ [?] chandasi bahulam upasaṃkhyānaṃ | pā. 6-4-221 [?] | ity uvajādeśaḥ | saubhagā | subhagān mantra iti tasya bhāva ity arthe 'ñ | pūrvavac cher lopaḥ ||*
+
+**Translation:** "O Maruts, *vaḥ* — yours: *navyāṃsi*, newer ones; *sumnā* — riches in the form of progeny and cattle. 'Progeny and cattle indeed are *sumna*' (Tai. Saṃ. 3-4-6-6 [?]), from another Śruti. *Kva* — where do they exist? Likewise *suvitā* — fine things to be had, jewels, pearls and the like, belonging to you: *kva*, where do they exist? *Viśvāni* — all; *saubhagā* — [things] of the nature of good fortune, elephants, horses and the like: *kvo*, where do they exist? The sense: [you] are to come together with all your riches, *sumna* and the rest. *Sumnā*: by *śeś chandasi bahulam* the loss of *śi*. *Navyāṃsi*: from the word *nava*, [the suffix] *īyasun*, and the loss of the *a* is Vedic. *Suvitā*: *suṣṭhu itāni*, 'well gone-to'; by the supplementary rule *tannādīnāṃ* [as printed; the grammar page reads *tanvādīnām*] *chandasi bahulam*, the substitute *uvaṅ* [Pā. 6-4-221 [?], as read]. *Saubhagā*: from *subhaga*, by *mantra*… the suffix *añ* in the sense 'its state'; the loss of *śi* as before."
+
+**Pratipadārtha** *(p. 299)* — "**marutaḥ** — O Maruts; **vaḥ** — your (own); **navyāṃsi** — many new; **sumnā** — riches in the form of progeny and cattle; **kva** — where? **suvitā** — your priceless possessions such as diamonds and cat's-eye gems [*vajra-vaidūrya*]; **kva** — where? **viśvāni** — all; **saubhagā** — your auspicious riches such as elephants and horses; **kvo** — where are they? (Come to our place of sacrifice with all [your] riches.)"
+
+**Bhāvārtha** *(p. 299)* — "O Maruts, where are your most new riches in the form of progeny and cattle? Where are your priceless riches such as diamonds and cat's-eyes? Where are all your auspicious riches such as elephants and horses? (Come to our place of sacrifice with all riches.)"
+
+**English Translation (the source's own, p. 299)** — "O Maruts, where are your new treasures ? Where are your valuables ? Where are all your gifts of prosperity ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 299–300**
+- **navyāṃsi** = *navatarāṇi, navīyāṃsi* — "newer ones."
+- **sumnā** = *sumnāni* — "possessions such as progeny and cattle." *Prajā vai paśavaḥ sumnam* — "that is: sons, grandsons and other offspring, that is, people, and cattle such as cows and buffaloes, are called riches: there is a śruti sentence [Tai. Saṃ. 3-4-6-6 [?]]. Even in these days, people who are not townsfolk reckon their standing and honour in society, and their wealth and the like, by the wealth of cattle they have — cows, sheep, goats, horses and so on."
+- **suvitā** = *śobhanāni prāpyāṇi maṇimuktādīni* — "priceless things that everyone greatly desires."
+- **saubhagā** — "good fortunes: wealth such as elephants and horses."
+
+**Vyākaraṇa-prakriyā** *(p. 300 — grammar page, noted briefly)*
+- **sumnā**: *śeś chandasi bahulam* — शेश्छन्दसि बहुलम् — [Pā. 6-1-70 as read [?]]: the *ś*-suffix [the *śi* ending] is elided, so *sumnā* is there for *sumnāni*, with the long *ā*.
+- **navyāṃsi**: after *nava*, *dvivacanavibhajyopapade tarabīyasunau* — द्विवचनविभज्योपपदे तरबीयसुनौ — [Pā. 5-3-57 as read [?]] gives *īyasun*; by *yasyeti ca* the loss of the *a* of *nava*; the loss of the ending is Vedic.
+- **suvitā**: *suṣṭhu itāni*; in the sūtra *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* the vārttika *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* — तन्वादीनां छन्दसि बहुलमुपसङ्ख्यानम् — is read: in the section that lays down *uvaṅ*, *iyaṅ* and *uvaṅ* come variously in the Veda for words beginning with *tanu*; by this, for the prefix *su*, *uvaṅ*: *suvitāni*; the loss of *śi* as before. *(Here the print reads* tanvādīnām*, where the bhāṣya reads* tannādīnām*: the bhāṣya spelling is probably a misprint.)*
+- **saubhagā**: *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — [Pā. 5-1-129 as read [?]]: in the *udgātrādi* group of that sūtra the words *subhaga* and *mantra* are read; so after *subhaga* in the abstract sense *añ*; *ādivṛddhi*; the loss of *śi* as before. Rik 3 ends here (*|| 3 ||*).
+
+---
+
+### Rik 38.4 (pp. 301–303, PDF 315–317)
+
+**Saṃhitā-pāṭha** *(p. 301; accents not reproduced)*
+
+> **यद्यूयं पृश्निमातरो मर्तासः स्यातन ।**
+> **स्तोता वो अमृतः स्यात् ॥ ४ ॥**
+
+*yad yūyaṃ pṛśnimātaro martāsaḥ syātana |*
+*stotā vo amṛtaḥ syāt || 4 ||*
+
+**Pada-pāṭha** *(p. 301)*
+
+> यत् । यूयम् । पृश्निऽमातरः । मर्तासः । स्यातन ।
+> स्तोता । वः । अमृतः । स्यात् ॥ ४ ॥
+
+*yat | yūyam | pṛśni-mātaraḥ | martāsaḥ | syātana |*
+*stotā | vaḥ | amṛtaḥ | syāt || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 301)*
+
+> **हे पृश्निनामकधेनुपुत्रा मरुतो यूयं यद्यपि मर्तासो मनुष्याः स्यातन भवेत तथापि वो युष्माकं स्तोता यजमानोऽमृतः स्यात् । देवो भवेत् ॥ पृश्निमातरः । पृश्निर्माता येषां ते । समासान्तविधेरनित्यत्वान्नद्यृतश्चेति कबभावः । पा. ५-४-१५३ [?] । मर्तासः । असिहसीत्यादिना [?] म्रियतेस्तन्प्रत्ययः । आज्जसेरसुक् । स्यातन । अस्तेर्लिङ् तस्य । तप्तनप्तनथनाश्चेति तनादेशः । यासुट् उदात्तत्वं । अमृतः । नञो जरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वं ॥**
+
+*he pṛśnināmakadhenuputrā maruto yūyaṃ yady api martāso manuṣyāḥ syātana bhaveta tathāpi vo yuṣmākaṃ stotā yajamāno 'mṛtaḥ syāt | devo bhavet || pṛśnimātaraḥ | pṛśnir mātā yeṣāṃ te | samāsāntavidher anityatvān nadyṛtaś ceti kabbhāvaḥ | pā. 5-4-153 [?] | martāsaḥ | asihasī[?]ty ādinā mriyates tan pratyayaḥ | ājjaser asuk | syātana | asteḥ liṅ tasya | tapta-nap-tana-thanāś ceti tanādeśaḥ | yāsuṭ udāttatvaṃ | amṛtaḥ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvaṃ ||*
+
+**Translation:** "O Maruts, sons of the cow named Pṛśni, *yūyam* — you — *yady api*, even if you were *martāsaḥ*, men, *syātana*, were to be so, nevertheless *vaḥ stotā*, your praiser, the sacrificer, *amṛtaḥ syāt*, would be immortal: would become a god. *Pṛśnimātaraḥ*: those whose mother is Pṛśni; the *kap* does not come, since the *samāsānta* rule is not constant, [though *nadyṛtaś ca* would give it] (Pā. 5-4-153 [?]). *Martāsaḥ*: from *mṛ* [*mriyate*], the suffix *tan* by the rule beginning *asi-hasi-…* [?]; the *asuk* augment of *jas* by *ājjaser asuk*. *Syātana*: *liṅ* of *as*, for its ending the substitute *tana* by *tapta-nap-tana-thanāś ca*; the augment *yāsuṭ*, acute. *Amṛtaḥ*: by *nañ jaramaramitramṛtāḥ* the first syllable of the latter member is acute."
+
+**Pratipadārtha** *(p. 301)* — "**pṛśnimātaraḥ** — O Maruts, children of the cow called Pṛśni; **yūyam** — you; **martāsaḥ** — as men; **yady api syātana** — if perchance you were; **vaḥ** — your; **stotā** — the devotee who sings your praises; **amṛtaḥ** — immortal; **syāt** — would be."
+
+**Bhāvārtha** *(p. 301)* — "O Maruts, children of the cow called Pṛśni, even if by chance you had belonged to the company of men, still the mortals who sing your praises would become immortals."
+
+**English Translation (the source's own, p. 302)** — "Sons of Prisni, if you had been mortals your praiser (worshipper) would have become immortal."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 302**
+- "The sense of this Ṛk is a little disjointed. What is the main intention? — O Maruts, even if you were mortals (men liable to death), men like us, who sing your extraordinary qualities, would by the greatness of singing your qualities become deathless, *amartyas* (gods). To explain that the power of the Maruts is wonderful, the ṛṣi has spoken this kind of comparison."
+- **pṛśnimātaraḥ** — "the Maruts whose mother is Pṛśni, the cow of the world of the gods; the Marut-deities are well known as the sons of Pṛśni."
+- **martāsaḥ** = *martyāḥ* — "those subject to death: that is, men."
+- **amṛtaḥ** = *maraṇarahitaḥ devaḥ* — "a god, free from death."
+
+**Vyākaraṇa-prakriyā** *(pp. 302–303 — grammar page, noted briefly)*
+- **pṛśnimātaraḥ**: a bahuvrīhi, "of whom Pṛśni is the mother"; *pṛśnimātṛ* ends in *ṛ*; by *nadyṛtaś ca* — नद्यृतश्च — [Pā. 5-4-153 as read [?]] the suffix *kap* comes after a bahuvrīhi that has a *nadī*-ending or a final *ṛ*, and being a *samāsānta* it is obtained; but by the vārttika *pratereṃśvādayas tatpuruṣe* [as read; number [?]] the words *aṃśu* and the rest after *prati* in a tatpuruṣa are final-acute; in that group the word *rājan* is read, and by *rājāhaḥsakhibhyaś ṭac* [Pā. 5-4-91 as read [?]] *ṭac* comes after a tatpuruṣa ending in *rājan*, so final-acuteness is established; therefore the reading of *rājan* in this group would be pointless, which makes known the paribhāṣā *samāsāntavidhir anityaḥ* [number as read, doubtful [?]]. Or else: in the sūtra *ṛkpūrabdhūḥpathām ānakṣe* [Pā. 5-4-74 as read [?]] the word *pathām* is used without a *samāsānta* suffix, which likewise makes known that the *samāsānta* rule is not constant. Therefore here, by this paribhāṣā, *kap* does not come.
+- **martāsaḥ**: *mṛṅ prāṇatyāge*; *asi-hasi-mṛ-…* [Uṇ. 3-166 as read [?]]: the suffix *tan*; *guṇa*, *raparatva*, *jas*, and the augment *asuk* by *ājjaser asuk*.
+- **syātana**: *as bhuvi*; *liṅ*; madhyama *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*; then *tana* by *tapta-nap-tana-thanāś ca*; *śap* elided because the root is *adādi*; by *yāsuṭ parasmaipadeṣūdātto ṅicca* — यासुट् परस्मैपदेषूदात्तो ङिच्च — [Pā. 3-4-103 as read [?]] the augment *yāsuṭ*: *as + yās + tana*; *salopa*; by *śnasor allopaḥ* the loss of the root's *a*; *yāsuṭ* is acute.
+- **amṛtaḥ**: *nañ jaramaramitramṛtāḥ* — नञ्जरमरमित्रमृताः — [Pā. 6-2-116 as read [?]]: when they follow *nañ*, these latter members (*jara*, *mara*, *mitra*, *mṛta*) are first-syllable acute. Rik 4 ends here (*|| 4 ||*).
+
+---
+
+### Rik 38.5 (pp. 303–, PDF 317–)
+
+**Saṃhitā-pāṭha** *(p. 303; accents not reproduced)*
+
+> **मा वो मृगो न यवसे जरिता भूदजोष्यः ।**
+> **पथा यमस्य गादुप ॥ ५ ॥**
+
+*mā vo mṛgo na yavase jaritā bhūd ajoṣyaḥ |*
+*pathā yamasya gād upa || 5 ||*
+
+**Pada-pāṭha** *(p. 303)*
+
+> मा । वः । मृगः । न । यवसे । जरिता । भूत् । अजोष्यः ।
+> पथा । यमस्य । गात् । उप ॥ ५ ॥
+
+*mā | vaḥ | mṛgaḥ | na | yavase | jaritā | bhūt | ajoṣyaḥ |*
+*pathā | yamasya | gāt | upa || 5 ||*
+
+*(The bhāṣya of Rik 5 begins at the foot of p. 303 and is not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–37 COMPLETE; Sūkta 38 in progress: printed p. 303 (PDF 317) reached; Riks 38.1–38.4 complete; Rik 38.5's Saṃhitā and Pada written (its bhāṣya begins at the foot of p. 303).**
+
+**Next task:** continue at the foot of printed p. 303 (PDF 317) with the bhāṣya of Rik 38.5, then Riks 6–15 and the close of Sūkta 38 (to about p. 338), then STOP at the end of Sūkta 38 unless told otherwise; Sūkta 39 (*pra yad itthā*) begins about p. 339 (check). Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–352); re-render if lost: `pdftoppm -jpeg -r 150 -f 317 -l 352 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38 so far: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1's bhāṣya: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in both Saṃhitā and Pada (possibly a mis-set *ṣu* or a pluti mark; unresolved); the bhāṣya spelling *tannādīnām* against the grammar page's *tanvādīnām*; (5) Rik 2: the print has a heading *bhāvārtha* over the Pada (misprint), and *tabādeśaḥ* in the bhāṣya against *tap* on the grammar page; (6) every Pāṇini / Kāśikā / Uṇādi / Taittirīya number is "as read [?]"; (7) the long *pṛśnimātaraḥ* grammar entry (Rik 4) is characterized from a crowded passage and its paribhāṣā number is doubtful.
