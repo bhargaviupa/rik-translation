@@ -9968,8 +9968,62 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 46.6, continued** *(from p. 586)*
+
+**Pada-pāṭha** *(p. 586)*
+
+> या । नः । पीपरत् । अश्विना । ज्योतिष्मती । तमः । तिरः ।
+> ताम् । अस्मे इति । रासाथाम् । इषम् ॥ ६ ॥
+
+*yā | naḥ | pīparat | aśvinā | jyotiṣmatī | tamaḥ | tiraḥ |*
+*tām | asme iti | rāsāthām | iṣam || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 586)*
+
+> **हे अश्विना ज्योतिष्मती रसवीर्यादिरूपज्योतिर्युक्ता यदन्नं [?] नोऽस्मान्पीपरत् । पारयेत् तृप्तिं प्रापयेत् । किं कृत्वा । तमो दारिद्र्यरूपमन्धकारं तिरोऽन्तर्हितं विनष्टं कृत्वा । तामिषं तादृशमन्नमस्मे अस्मभ्यं रासाथां । युवां दत्तम् ॥ पीपरत् । पॄ पालनपूरणयोः । ण्यन्ताल्लुङि चङ् णिलोपः । उपधाह्रस्वत्वद्विर्भावहलादिशेषसन्वद्भावेत्वदीर्घाः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । चङ्यन्यतरस्याम् । पा. ६-१-२१८ [?] । इत्युपोत्तमस्य धात्वकारस्योदात्तत्वे प्राप्ते व्यत्ययेनाभ्यासस्योदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । अस्मे । सुपां सुलुगिति चतुर्थीबहुवचनस्य शेआदेशः । रासाथां । रा दाने ॥ छान्दसे प्रार्थनायां लुङि व्यत्ययेनात्मनेपदं । च्लेः सिच् । एकाच इतीट्प्रतिषेधः । पूर्ववदडभावः । तिङ्ङतिङ इति निघातः ॥**
+
+*he aśvinā jyotiṣmatī rasavīryādirūpajyotiryuktā yad annaṃ [?] no 'smān pīparat | pārayet tṛptiṃ prāpayet | kiṃ kṛtvā | tamo dāridryarūpam andhakāraṃ tiro 'ntarhitaṃ vinaṣṭaṃ kṛtvā | tām iṣaṃ tādṛśam annam asme asmabhyaṃ rāsāthāṃ | yuvāṃ dattam || pīparat | pṝ pālanapūraṇayoḥ | ṇyantāl luṅi caṅ ṇilopaḥ | upadhāhrasvatvadvirbhāvahalādiśeṣasanvadbhāvetvadīrghāḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | caṅy anyatarasyām | pā. 6-1-218 [?] | ity upottamasya dhātvakārasyodāttatve prāpte vyatyayenābhyāsasyodāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | asme | supāṃ suluk iti caturthībahuvacanasya śeādeśaḥ | rāsāthāṃ | rā dāne || chāndase prārthanāyāṃ luṅi vyatyayenātmanepadaṃ | cleḥ sic | ekāca itīṭpratiṣedhaḥ | pūrvavad aḍabhāvaḥ | tiṅ atiṅa iti nighātaḥ ||*
+
+*(The relative's antecedent in the first clause, "yad annam", is printed "yeḍannam"; I read* yad annam *[?].)*
+
+**Translation:** "O Aśvins, *jyotiṣmatī*, endowed with the light of savour, vigour and the like — whatever food *naḥ pīparat*, may carry us across, may bring us satisfaction: having done what? having made the darkness (*tamaḥ*) in the form of poverty *tiraḥ*, hidden, destroyed — *tām iṣam*, such food, *asme*, to us, *rāsāthām*, give (you two). *Pīparat*: root *pṝ pālanapūraṇayoḥ* with the causative (*ṇic*) in the aorist (*luṅ*), *caṅ*, the *ṇi* dropped; shortening of the penultimate, doubling, the remaining initial consonant, behaviour as in the desiderative, the *i*, lengthening; the *aṭ* does not come, even without *mā*, by the saying '*bahulaṃ chandasi…*'; the *abhyāsa* gets the acute by exchange; no all-unaccented, by *yadvṛttān nityam*. *Asme*: *śe* in place of the dative plural. *Rāsāthām*: root *rā dāne*; in a Vedic prayer the aorist with the *ātmanepada* by exchange; *sic* for *cli*; no *iṭ* because the root has one vowel; no *aṭ* as before."
+
+**Pratipadārtha** *(p. 586)* — "**aśvinā** — O Aśvin gods; **jyotiṣmatī** — endowed with light of savour and vigour; **yā** — which (food); **tamaḥ** — the darkness in the form of poverty; **tiraḥ** — destroying; **naḥ** — us; **pīparat** — satisfies; **tām iṣam** — that food; **asme** — to us; **rāsāthām** — give (you two)."
+
+**Bhāvārtha** *(p. 586)* — "O Aśvin gods, give us the food that is endowed with light — that is, savoury, vigorous and nourishing — which destroys the darkness of our poverty, gives us vigour, brilliance and other powers, shows (us) the light, and satisfies us."
+
+**English Translation (the source's own, p. 587)** — "O Aswins, grant us that invigorating food that shall place us beyond the darkness ( of poverty ) thereby satisfying us"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 587**
+- **pīparat** — "*pṝ pālanapūraṇayoḥ*: 'to fill, to satisfy': this is the sense of the root *pṝ*. Hence '*yā naḥ pīparat tām iṣam*', the food that gives us satisfaction, is meant."
+- **jyotiṣmatī tamas tiraḥ** — "here the word *jyotiṣmatī* is an adjective of the word *yā*. 'Shining food' means excellent, nourishing, savoury food. *Tamas tiraḥ*: to make the darkness disappear; the ṛṣi has given the figure that the darkness called poverty or hunger is to be driven away by the light that is excellent food."
+- **rāsāthām** — "*rā dāne*: *rāsāthām* means: O Aśvin gods, both of you give."
+
+**Vyākaraṇa-prakriyā** *(pp. 587–588 — grammar pages, noted briefly)*
+- **pīparat**: root *pṝ pālanapūraṇayoḥ*, *ṇic*, *luṅ*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. 3-1-48 as read) — णिश्रिद्रुस्रुभ्यः कर्तरि चङ् — *caṅ* for *cli*; *ṇer aniṭi* (Pā. 6-4-51 as read) drops the *ṇi* before an *ārdhadhātuka* without *iṭ*; *aco 'ñṇiti* (Pā. 7-2-115 as read) *vṛddhi*: *pā + a + luṅ*; *ṇau caṅy upadhāyā hrasvaḥ* (Pā. 7-4-1 as read) shortens the penultimate: *par*; *caṅi* (Pā. 6-1-11 as read) doubling of the first one-vowel part of the root: *par + par + a + t*; *itaś ca* (Pā. 3-4-100 as read) drops the final *i* of *tip*; *halādiḥ śeṣaḥ* drops the *r* of the reduplicative syllable; *sanvallaghuni caṅpare 'nagloṕe* (Pā. 7-4-93 as read) — the reduplicative syllable behaves as in the desiderative (the Kannada author explains at length how "*aṅgasya*" is carried over; crowded, outlined only); *sanyataḥ* (Pā. 7-4-79 as read) gives *i* for the *a* of the reduplicative syllable; *dīrgho laghoḥ* (Pā. 7-4-94 as read) lengthens it: *pī + par + a + t*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read) forbids the *aṭ*; *caṅy anyatarasyām* (Pā. 6-1-218 as read [?]) — the *upottama* *a* of the root should be optionally acute, but by exchange the *abhyāsa* gets the acute (*vyatyayo bahulam*); *yadvṛttān nityam* forbids the all-unaccented.
+- **asme**: the dative plural ending is replaced by *śe* by *supāṃ suluk…*.
+- **rāsāthām**: root *rā dāne*; in the sense of prayer, *luṅ* by Vedic usage; the *ātmanepada* by exchange; second person dual, *āthām*; *cleḥ sic*; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10 as read) forbids *iṭ*; the *aṭ* is forbidden as before; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 585 (PDF 599) reached; heading, introduction and Riks 46.1–46.5 complete; Rik 46.6's Saṃhitā written at the foot of p. 585 (its Pada is on p. 586).**
+### Rik 46.7 (p. 588 foot, PDF 602–)
 
-**Next task:** continue at printed p. 586 (PDF 600) with the Pada of Rik 46.6 and its bhāṣya etc.; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 600 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.4–5: Nirukta reference numerals and Pāṇini numerals "as read [?]"; in 46.4 the source's English first letter lost ("[o]urishes"); the grammar discussion of *ādṛgamahana…* partly crowded (outlined only); in 46.5 "madaikaratvena" crowded, the print calls *pātam* plural *tha*-form and *dhṛṣṇuyā* genitive (kept as printed). **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 588; accents not reproduced)*
+
+> **आ नो नावा मतीनां यातं पाराय गन्तवे ।**
+> **युञ्जाथामश्विना रथम् ॥ ७ ॥**
+
+*ā no nāvā matīnāṃ yātaṃ pārāya gantave |*
+*yuñjāthām aśvinā ratham || 7 ||*
+
+*(The Pada and bhāṣya of Rik 7 begin on p. 589, not yet seen.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 588 (PDF 602) reached; heading, introduction and Riks 46.1–46.6 complete; Rik 46.7's Saṃhitā written at the foot of p. 588 (its Pada is on p. 589).**
+
+**Next task:** continue at printed p. 589 (PDF 603) with the Pada of Rik 46.7 and its bhāṣya etc.; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 603 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.6: "yad annam" read from "yeḍannam" [?]; Pāṇini numerals "as read [?]"; the *sanvat*-discussion outlined only. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active. (The remote branch also holds user-added PDFs, merged in; no conflict.)
