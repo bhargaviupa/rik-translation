@@ -919,8 +919,105 @@
 
 ---
 
+**Rik 48.4, continued** *(from p. 44)*
+
+**Bhāvārtha** *(p. 44)* — "O goddess Uṣas, at the time of dawn, as soon as you rise, wise masters who know the greatness of giving wish to give. The wise sage Kaṇva praises the names of such generous men, known in the world as givers, at this very time of dawn. Thus the giving of the generous and the praise of these givers go on at the time of dawn. This is the power of the time of dawn."
+
+**English Translation (the source's own, p. 44)** — "Ushas, at your comings wise men turn their minds to free gifts ; of these men the most wise Kanwa proclaims the fame."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 44**
+- **atra aha** — "now, or at this time of dawn."
+- **kaṇvatamaḥ** — "*atiśayena medhāvī*: the very wise one among the Kaṇva line, or the sage Kaṇva."
+- "The sense of the ṛk is somewhat difficult. Even so, it is not at all hard to understand the ṛṣi's intention."
+
+**Vyākaraṇa-prakriyā** *(pp. 44–45 — grammar pages, noted briefly)*
+- **gṛṇāti**: root *gṛ śabde*, *kryādi*; *kryādibhyaḥ śnā* (Pā. 3-1-81 as read) gives *śnā* as the *vikaraṇa*; third person singular *tip*; the *vikaraṇa* before a *sārvadhātuka*; *gṛ + nā + ti*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80 as read) shortens the root's vowel; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārttika, as read) gives *ṇ* optionally for the *n* after *ṛ*: *gṛṇāti*; *tiṅ atiṅaḥ* gives the all-unaccented, since a finite verb stands in the *pāda*'s middle.
+- **nṛṇām**: the stem *nṛ*, masculine, ending in *ṛ*; the genitive plural *ām*; *hrasvanadyāpo nuṭ* (Pā. 7-1-54 as read) gives *nuṭ* to *ām* after a short-vowel stem; being *ṭit*, it comes at the front: *nṛ + nām*; *nāmi* (Pā. 6-4-3 as read) would lengthen the *aṅga* that ends in a vowel; *nṛ ca* (Pā. 6-4-6 as read) makes this lengthening optional for the stem *nṛ* before *nām*, and so here it is not made. *Anudāttau suppitau* would make the case-ending unaccented; but *nṛ cānyatarasyām* (Pā. 6-1-184 as read) makes the case-ending of a word ending in *nṛ* (and so on), beginning with a consonant, optionally acute; so the case-ending is acute; with the *nuṭ* added, the case-ending is a consonant-initial one; because the case-ending is acute, the word *nṛṇām* is end-acute. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 43 (PDF 59) reached; introduction, heading and Riks 48.1–48.3 complete; Rik 48.4's Saṃhitā, Pada, bhāṣya (with translation and tail) and Pratipadārtha written; its Bhāvārtha, English, Special Topics and grammar (p. 44 onward) are NOT yet written.**
+### Rik 48.5 (pp. 45–49, PDF 61–65)
 
-**Next task:** continue at printed p. 44 (PDF 60): insert "**Rik 48.4, continued** *(from p. 44)*" with the Bhāvārtha etc.; then Riks 5–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 46–120) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 60 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-060.jpg`). Flags for 48.2–3: the source's English in 48.2 has "affuence" [sic]; in 48.3 the Uṇādi and some Pāṇini numerals and the clause "suptvādenudātteti" crowded [?]; the Kannada says *dadhrire* is *divādi* (kept as printed); the reading "somāśvendriya…" (Pā. 6-3-131) [?]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 45; accents not reproduced)*
+
+> **आ घा योषेव सूनर्युषा याति प्रभुञ्जती ।**
+> **जरयन्ती वृजनं पद्वदीयत उत्पातयति पक्षिणः ॥ ५ ॥**
+
+*ā ghā yoṣeva sūnary uṣā yāti prabhuñjatī |*
+*jarayantī vṛjanaṃ padvad īyata ut pātayati pakṣiṇaḥ || 5 ||*
+
+**Pada-pāṭha** *(p. 45)*
+
+> आ । घ । योषाऽइव । सूनरी । उषाः । याति । प्रऽभुञ्जती ।
+> जरयन्ती । वृजनम् । पत्ऽवत् । ईयते । उत् । पातयति । पक्षिणः ॥ ५ ॥
+
+*ā | gha | yoṣā-iva | sūnarī | uṣāḥ | yāti | pra-bhuñjatī |*
+*jarayantī | vṛjanam | pat-vat | īyate | ut | pātayati | pakṣiṇaḥ || 5 ||*
+
+*(The Saṃhitā prints the particle as long* ghā*, the Pada as short* gha*; the grammar below explains the lengthening in the mantra.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 45–46)*
+
+> **उषा देवी प्रभुञ्जती प्रकर्षेण सर्वं पालयन्त्या याति घ । प्रतिदिनमागच्छति खलु । तत्र दृष्टान्तः । सूनरी सुष्ठु गृहकृत्यस्य नेत्री योषेव गृहिणीव । कीदृश्युषाः । वृजनं गमनशीलं जङ्गमं प्राणिजातं जरयन्ती जरां प्रापयन्ती । असकृदुषस्यावृत्तायां वयोहान्या प्राणिनो जीर्णा भवन्ति । किंच उषःकाले पद्वत् पादयुक्तं प्राणिजातमीयते । निद्रां परित्यज्य स्वस्वकृत्यार्थं गच्छति । किंच इयमुषाः पक्षिण उत्पातयति । पक्षिणो ह्युषःकाले समुत्थाय तत्र तत्र व्रजन्ति ॥ ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणामिति [?] संहितायां दीर्घः । सुष्ठु नयतीति सूनरी । णीञ् नये । आचेरिति [?] इप्रत्ययः । गतिसमासे कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणं । परि. ३ [?] । इति वचनात् कृदिकारादक्तिनः । पा. ४-१-४५ । इति ङीष् । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । निपातस्य चेति पूर्वपदस्य दीर्घः । प्रभुञ्जती । भुज पालनाभ्यवहारयोः । लटः शतृ । रुधादित्वाच्छ्नम् । श्नसोरल्लोप इत्यकारलोपः । उगितश्चेति ङीप् । शतुरनुम इति नद्या उदात्तत्वं । वृजनं । वृजी वर्जने । वर्ज्यत इति वृजनं प्राणिजातं । कृष्णवृजिमन्दिनिधाञ्भ्यः क्युः । उ. २-८१ [?] । इति क्युप्रत्ययः । किच्त्वाल्लघूपधगुणाभावः । योरनादेशे प्रत्ययस्वरः । पद्वत् । पत् पादः । तदस्यास्तीति मतुप् । झयः इति मतुपो वत्वं । व्यत्ययेन मतुप उदात्तत्वं । न च स्वरविधौ व्यञ्जनमविद्यमानवत् । परि. ८९ [?] । इति व्यञ्जनस्याविद्यमानवत्त्वे सति ह्रस्वनुड्भ्यां मतुबिति मतुप उदात्तत्वमिति वाच्यं । ह्रस्वादित्येव सिद्धे पुनर्नुड्ग्रहणसामर्थ्यादेषा परिभाषा नाश्रीयत इति वृत्तावुक्तं । का. ६-१-१७६ [?] । इतरथा हि मरुत्वानित्यत्रापि मतुप उदात्तत्वं स्यात् ॥ ५ ॥**
+
+*uṣā devī prabhuñjatī prakarṣeṇa sarvaṃ pālayantyā yāti gha | pratidinam āgacchati khalu | tatra dṛṣṭāntaḥ | sūnarī suṣṭhu gṛhakṛtyasya netrī yoṣeva gṛhiṇīva | kīdṛśy uṣāḥ | vṛjanaṃ gamanaśīlaṃ jaṅgamaṃ prāṇijātaṃ jarayantī jarāṃ prāpayantī | asakṛd uṣasyāvṛttāyāṃ vayohānyā prāṇino jīrṇā bhavanti | kiṃca uṣaḥkāle padvat pādayuktaṃ prāṇijātam īyate | nidrāṃ parityajya svasvakṛtyārthaṃ gacchati | kiṃca iyam uṣāḥ pakṣiṇa utpātayati | pakṣiṇo hy uṣaḥkāle samutthāya tatra tatra vrajanti || ṛci tunughamakṣutaṅkutroruṣyāṇām iti [?] saṃhitāyāṃ dīrghaḥ | suṣṭhu nayatīti sūnarī | ṇīñ naye | ācer iti [?] ipratyayaḥ | gatisamāse kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇaṃ | pari. 3 [?] | iti vacanāt kṛdikārād aktinaḥ | pā. 4-1-45 | iti ṅīṣ | parādiś chandasi bahulam ity uttarapadādyudāttatvaṃ | nipātasya ceti pūrvapadasya dīrghaḥ | prabhuñjatī | bhuja pālanābhyavahārayoḥ | laṭaḥ śatṛ | rudhādittvāc chnam | śnasor allopa ity akāralopaḥ | ugitaś ceti ṅīp | śatur anuma iti nadyā udāttatvaṃ | vṛjanaṃ | vṛjī varjane | varjyata iti vṛjanaṃ prāṇijātaṃ | kṛṣṇavṛjimandinidhāñbhyaḥ kyuḥ | u. 2-81 [?] | iti kyupratyayaḥ | kittvāl laghūpadhaguṇābhāvaḥ | yor anādeśe pratyayasvaraḥ | padvat | pat pādaḥ | tad asyāstīti matup | jhayaḥ iti matupo vatvaṃ | vyatyayena matupa udāttatvaṃ | na ca svaravidhau vyañjanam avidyamānavat | pari. 89 [?] | iti vyañjanasyāvidyamānavattve sati hrasvanuḍbhyāṃ matub iti matupa udāttatvam iti vācyaṃ | hrasvād ity eva siddhe punar nuḍgrahaṇasāmarthyād eṣā paribhāṣā nāśrīyata iti vṛttāv uktaṃ | kā. 6-1-176 [?] | itarathā hi marutvān ity atrāpi matupa udāttatvaṃ syāt || 5 ||*
+
+*(The tail is as I read it from the print; several rule-names and numbers ("tunughamakṣutaṅkutroruṣyāṇām", "ācer", the Paribhāṣā numbers 3 and 89, the Uṇādi number 2-81, the Kāśikā number) are crowded, [?]; the reading "kṛṣṇavṛji…" for the print's "kṛṣyāvṛji…" follows the Kannada author's list in the grammar page below.)*
+
+**Translation:** "The goddess Uṣas, *prabhuñjatī*, protecting everything abundantly, *yāti gha*, comes — she comes every day, indeed. A comparison: *sūnarī*, a good leader of household work, *yoṣeva*, like a housewife. What kind of Uṣas? *Vṛjanam*, the moving, animate living beings, *jarayantī*, bringing to old age: when Uṣas returns again and again, living beings become old by the loss of their years. And furthermore, at the time of dawn *padvat*, the creatures that have feet, *īyate*, move: they leave sleep and go about their own tasks. And furthermore, this Uṣas *pakṣiṇaḥ utpātayati*, makes the birds fly up: for birds at the time of dawn rise and go here and there. *In the ṛk, the lengthening in the Saṃhitā* (by the rule beginning *tunughamakṣu…* [?]). *Sūnarī*: 'she who leads well'; root *ṇīñ naye*; the suffix *i*; in a compound with a *gati*, the word *kṛt* includes what has a *gati* or *kāraka* before it (Paribhāṣā 3 [?]); *ṅīṣ* by *kṛdikārād aktinaḥ* (Pā. 4-1-45); the second member is initial-acute by *parādiś chandasi bahulam*; the first member is lengthened by *nipātasya ca*. *Prabhuñjatī*: root *bhuja pālanābhyavahārayoḥ*; *śatṛ* for *laṭ*; *śnam*; the *a* dropped by *śnasor allopaḥ*; *ṅīp* by *ugitaś ca*; the acute on the *nadī* by *śatur anumo nadyajādī*. *Vṛjanam*: root *vṛjī varjane*; 'what is avoided' is *vṛjana*, living beings; the suffix *kyu* (Uṇ. 2-81 [?]); being *kit*, no *guṇa* of the light penultimate; the suffix-accent when *ana* is substituted. *Padvat*: *pat* is a foot; *matup* in the sense 'he has it'; *v* for *m* by *jhayaḥ*; *matup* is acute by exchange; and the Kannada author notes the statement that this follows the statement of the Kāśikā (6-1-176 [?]) that the *paribhāṣā* 'in an accent rule a consonant counts as non-existent' is not applied here."
+
+**Pratipadārtha** *(p. 46)* — "**uṣāḥ** — the goddess Uṣas; **sūnarī** — an ideal, excellent (in household work); **yoṣeva** — like a housewife (the mistress of the house); **prabhuñjatī** — nourishing and protecting everyone well; **vṛjanam** — the whole group of moving beings; **jarayantī** — bringing to old age; **ā yāti gha** — she comes every day, does she not? (at the time of dawn); **padvat** — the group of beings with feet (that move); **īyate** — wakes from sleep and goes to its own work (and this Uṣas); **pakṣiṇaḥ** — the birds; **utpātayati** — makes fly up."
+
+**Bhāvārtha** *(p. 46)* — "As a housewife, skilled in household work and like an ideal, feeds and nourishes everyone in the house, the goddess Uṣas rises every day and nourishes everything in the world. But when she rises thus again and again she makes the whole group of moving beings old. All the moving beings that have feet rise from sleep at the time of dawn and go to their own work. The birds rise and fly off for their food."
+
+**English Translation (the source's own, p. 46)** — "Ushas, nourishing all comes daily like a beautiful young damsel well versed in household duties ; she makes the people old ; at her coming those beings that have feet get up from their sleep and make a stir ; she wakes up the birds."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 46–47**
+- **yoṣeva** — "like a young woman, like an excellent woman, that is, like a housewife."
+- **sūnarī** — "Although the word *sūnarī* is read among the sixteen names of Uṣas (Ni. 1-[?]9 as read), here the commentator has explained the word *sūnarī* as '*suṣṭhu gṛhakṛtyasya netrī gṛhiṇī*' — a housewife who carries on household duties well. For the word *uṣāḥ* itself is present in this ṛk."
+- **prabhuñjatī** — "*prakarṣeṇa sarvaṃ pālayantī*; *bhuja pālanābhyavahārayoḥ*: protecting everyone, nourishing."
+- **jarayantī vṛjanam** — "she who wastes the lifespan of the moving beings, she who makes them old. Since the goddess Uṣas rises every day, the lifespans of beings pass one day at a time and the span of their life diminishes: this is the idea."
+- **padvat** — "*pādayuktaṃ prāṇijātam*: the beings that have feet or legs, such as men."
+- **pakṣiṇaḥ utpātayati** — "as soon as the time of dawn comes, since it becomes light, birds that are asleep wake up and fly about to gather food. In the night, because it is dark, the birds cannot move and sleep in their nests. At the dawn, as soon as it is light, they rise from sleep and take up their activities. Therefore the ṛṣi has described the time of dawn or the goddess of dawn as making the birds rise and move."
+
+**Vyākaraṇa-prakriyā** *(pp. 47–49 — grammar pages, noted briefly; the long discussion of the accent of* padvat *is outlined only)*
+- **gha**: used in the sense of "indeed" (*khalu*); *ṛci tunughamakṣutaṅkutroruṣyāṇām* (Pā. 6-3-133 as read [?]) gives lengthening in a mantra; so *ghā* in the Mantra-pāṭha.
+- **sūnarī**: "*suṣṭhu nayati*"; *su* is a *nipāta*, and a *nipāta* is also named *upasarga* in some contexts; root *ṇīñ prāpaṇe*, *kryādi*; the Uṇādi rule *ācer…* [as read; the Uṇādi number crowded, [?]] gives the suffix *i* after a root ending in a vowel; before it *guṇa* by *sārvadhātukārdhadhātukayoḥ*: *nar + i = nari*; compounded with the *nipāta* *su*: a *gati*-compound (*gati-samāsa*); *su* gets *gati*-status along with *nipāta*-status, since it is in connexion with a root; *kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam* (Paribhāṣā, "3[?]" as read) — what is *kṛdanta* is also taken as *kṛdanta* when it has a *gati* or *kāraka* before it; here, being preceded by a *gati*, *sunari* is a *kṛdanta* of a special kind; *kṛdikārād aktinaḥ* (Pā. 4-1-45 vārttika/gaṇa, as read) — a *kṛdanta* *prātipadika* ending in *i*, other than *ktin*, takes *ṅīṣ* optionally in the feminine; as said before, because particular words of the *kṛdanta* class are named, here *sūnari*, preceded by a *gati*, is itself the *kṛdanta*; *ṅīṣ*: *sūnarī*. *Parādiś chandasi bahulam* (Pā. 6-2-199 as read [?]) — in the Chandas, the initial of the following word is variously acute — here, the initial-acute of the second member is the main one; though in the preceding sūtra only the second member *uktha* was prescribed to be initial-acute, the word *bahulam* completes the sense; *nipātasya ca* (Pā. 6-3-136 as read) gives lengthening to the first member, being a *nipāta*, in the Chandas: *sū* from *su*: *sūnarī*.
+- **prabhuñjatī**: *pra* is a preposition; root *bhuja pālanābhyavahārayoḥ*, *rudhādi*; *laṭaḥ śatṛśānacau…* gives *śatṛ* for *laṭ*; *ś* and *ṛ* are markers; *śnam*, the *vikaraṇa* of the *rudhādi* class, since *śit* follows; *midaco 'ntyāt paraḥ* (Pā. 1-1-47 as read) — being *mit*, it comes after the last vowel of the root: *bhu + na + j + at*; *śnasor allopaḥ* (Pā. 6-4-111 as read) drops the *a* of *śna* and of *as*; the *anusvāra* and homogeneous nasal give *bhuñjat*; for the feminine, *ugitaś ca* (Pā. 4-1-6 as read) gives *ṅīp*, since *śatṛ* is *ugit*; *prabhuñjatī*; *śatur anumo nadyajādī* (Pā. 6-1-173 as read) — after a *śatṛ*-ending word without *num*, the *nadī* (*ī* or *ū*) and the vowel-initial endings are acute — here, since there is no *num*, the *ī* of the *ṅīp* with the *nadī*-name is acute; so *prabhuñjatī* is end-acute.
+- **vṛjanam**: root *vṛjī varjane*, *adādi*; "*varjyate iti vṛjanam*" — a group of living beings, those that by nature go; *kṛṣṇavṛjimandinidhāñbhyaḥ kyuḥ* (Uṇ. 2-8[?] as read [?]) gives the suffix *kyu*; the *k* is a marker; *yu* → *ana* by *yuvor anākau* (Pā. 7-1-1 as read); because *k* is a marker, *kṅiti ca* forbids the *guṇa* of the light penultimate; so *vṛjana*; *ādyudāttaś ca* (Pā. 3-1-3 as read) gives the suffix-accent.
+- **padvat**: *pat* means a foot; "*pat asya asti*", "this has feet": *tadasyāsty asminn iti matup* (Pā. 5-2-94 as read) gives *matup*; *jhayo ho 'nyatarasyām* … [as read: *jhayaḥ*, Pā. 8-2-10 as read [?]] gives *v* for the *m* of *matup* after a *jhay* letter; *t* becomes *d* by *jaśtva*: *padvat*; the *matup* is acute by *vyatyayo bahulam*; *matup* being *pit*, it should be unaccented; so the exchange must be accepted. The Kannada author gives a long objection, in the form of a prior view (*pūrvapakṣa*), that the principle *svaravidhau vyañjanam avidyamānavat* (Paribhāṣā, "89" as read [?]) — "in an accent rule a consonant counts as non-existent" — makes *hrasvanuḍbhyāṃ matup* (Pā. 6-1-176 as read) apply, since in *padvat* only a *d* (consonant) stands between the short *a* and *matup*; that *nuṭ* is mentioned in the sūtra and so there would be no need for the exchange; the examples *akṣaṇvantaḥ* and the like show the *matup* after *nuṭ* acute; that if the *nuṭ* were not in the sūtra, by the *paribhāṣā* it would still do so; so why must *nuṭ* be stated? Therefore, the commentary says, that *paribhāṣā* is not relied on here (the *Kāśikā* at 6-1-176 [?] says so); otherwise *marutvān* and the like would also have an acute *matup*, where there is no intervening consonant; this is not done anywhere. Therefore, for *padvat*, the acute on *matup* must be explained by the exchange. **|| 5 ||**
+
+---
+
+### Rik 48.6 (pp. 49–, PDF 65–)
+
+**Saṃhitā-pāṭha** *(p. 49; accents not reproduced)*
+
+> **वि या सृजति समनं व्यर्थिनः पदं न वेत्योदती ।**
+> **वयो नकिष्टे पप्तिवांस आसते व्युष्टौ वाजिनीवति ॥ ६ ॥**
+
+*vi yā sṛjati samanaṃ vy arthinaḥ padaṃ na vety odatī |*
+*vayo nakiṣ ṭe paptivāṃsa āsate vyuṣṭau vājinīvati || 6 ||*
+
+**Pada-pāṭha** *(p. 49)*
+
+> वि । या । सृजति । समनम् । वि । अर्थिनः । पदम् । न । वेति । ओदती ।
+> वयः । नकिः । ते । पप्तिऽवांसः । आसते । विऽउष्टौ । वाजिनीऽवति ॥ ६ ॥
+
+*vi | yā | sṛjati | samanam | vi | arthinaḥ | padam | na | veti | odatī |*
+*vayaḥ | nakiḥ | te | papti-vāṃsaḥ | āsate | vi-uṣṭau | vājinī-vati || 6 ||*
+
+*(The Saṃhitā's* vyarthinaḥ *is read as* vi arthinaḥ *as in the Pada; "nakiṣ ṭe" is my reading of the Saṃhitā's* नकिष्टे*, from the Pada* nakiḥ | te*.)*
+
+*(The Sāyaṇa-bhāṣya of Rik 6 begins at the foot of p. 49 and runs on to p. 50; it is written in full with the next batch, from the print, so that no word is given twice from a partial view.)*
+
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 complete; Sūkta 48 in progress: printed p. 49 (PDF 65) reached; introduction, heading and Riks 48.1–48.5 complete; Rik 48.6's Saṃhitā and Pada written; its Sāyaṇa-bhāṣya begins at the foot of p. 49 and continues on p. 50 and is NOT yet written.**
+
+**Next task:** continue at printed p. 49 foot / p. 50 (PDF 65–66) with the bhāṣya of Rik 48.6 (read it afresh from the print; the first words, "yo/yā devatā samanaṃ …", are at the foot of PDF 65), then Riks 7–16 and the close of Sūkta 48 (16 Riks; the contents table puts Sūkta 49 at printed p. 91 — check the print); then STOP at the end of Sūkta 48 unless told otherwise. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 46–120) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 65 -l 120 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-065.jpg`). Flags for 48.4–5: in 48.5 the grammatical tail's rule-names, the Paribhāṣā numbers 3 and 89, the Uṇādi number and the Kāśikā number are crowded [?]; the long discussion of the accent of *padvat* is outlined only; the *kṛṣṇavṛji…* Uṇādi list was read from the grammar page. **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
