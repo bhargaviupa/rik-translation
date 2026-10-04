@@ -2489,10 +2489,96 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 35.10 — Special Topics concluded and grammar (pp. 171–173, PDF 185–187; grammar pages, noted briefly)
+
+**Special Topics, continued from p. 170 (p. 171)** — the list of examples for *yātudhānān*, two more ṛks:
+
+> इह प्र ब्रूहि यतमः सो अग्ने यो यातुधानो य इदं कृणोति । (ऋ. सं. १०-८७-[?] [?])
+> तस्याग्ने पृष्टीर्हरसा शृणीहि त्रेधा मूलं यातुधानस्य वृश्च । (ऋ. सं. १०-८७-[?] [?])
+
+*iha pra brūhi yatamaḥ so agne yo yātudhāno ya idaṃ kṛṇoti | (ṛ. saṃ. 10-87-[?] [?])*
+*tasyāgne pṛṣṭīr harasā śṛṇīhi tredhā mūlaṃ yātudhānasya vṛśca | (ṛ. saṃ. 10-87-[?] [?])*
+
+*(Mine and tentative: "here tell, O Agni, which one he is, the yātudhāna who does this"; "break his ribs with your heat, O Agni; cut the root of the yātudhāna in three ways". The reference numerals are as read from small Kannada digits and not secure [?].)* "And the word *yātudhāna* is also used in the Atharvaveda [references to several hymns, numerals not read], the Kāṭhaka Saṃhitā, the Vājasaneyi Saṃhitā, the Śatapatha Brāhmaṇa and other mantras."
+- **pratidoṣam** = *pratirātrāṇi* — "every night, on the night of every day."
+- **gṛṇānaḥ** = *gṝ śabde* — **stūyamānaḥ**: "one who is being praised."
+
+**Vyākaraṇa-prakriyā** *(pp. 171–173)*
+- **svavān** (p. 171): *svam eṣām asti* — *tadasyāstyasminn iti matup*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — the *m* of *matup* becomes *v* after a base ending in *a* or having *m* or *a* as penultimate [the print explains the compound rule in two ways] and not belonging to the *yavādi* group; *sva* ends in *a*, so *svavat*; *su*; *asaṃtasya cādhātoḥ* — असन्तस्य चाधातोः — the penultimate vowel is lengthened before a *sarvanāmasthāna* ending, of a base not a *dhātu* ending in *at*; the augment *num* (*ugidacām…*); *svavān + su*, *halṅyābbhyo…* — loss of *su*; *saṃyogāntasya lopaḥ*: loss of the *t*; this loss, being *asiddha*, does not allow the loss of *n*; in the Saṃhitā, *dīrghād aṭi samānapāde* turns the *n* into *ru*; *ato 'ṭi nityam* — *ā* nasalised; *bhobhago 'gho 'pūrvasya yo 'śi* — *ru* → *y*; *lopaḥ śākalyasya* — loss of the *y*.
+- **apasedhan** (p. 172): root *ṣidha gatyām*, "1st class, 47th root [as read]; *ṣidhū śāstre māṅgalye ca*, *ṣidhu saṃrāddhau*, the other roots; in the present Dhātupāṭha *ṣidha gatyām* is not found"; *laṭ*, *śatṛ*, *śap*, *laghūpadha-guṇa*: *sedhat*; *su*; *num* by *ugit*; *sedhan + su*; *halṅyādilopa*, loss of the *t*; the preverb *apa*; *śap* is *pit* and *śatṛ* is *lasārvadhātuka*, so both unaccented; after the compound with *apa*, the later member keeps its natural accent (*kṛdutarapadaprakṛtisvara*).
+- **rakṣasaḥ**: root *rakṣa pālane*, 1st class; the Uṇādi suffix *asin* in the sense of *apādāna*: *rakṣanty asmāt* — "those from whom protection is [needed]", i.e. the occasion for protection; or *rakṣyate 'nena* — *rakṣaḥ*, in the sense of instrument, the Uṇādi *asun*: "strength": one who is protected by *yātu* is thus protected; without strength protection cannot be done; so *rakṣaḥ* = strength; *rakṣo 'syāsti* = *rakṣasvin*, "powerful"; *asmāyāmedhāsrajo viniḥ* — the suffix *vin*, whose *luk* is Vedic: *rakṣasaḥ*, *rakṣasvinaḥ*, "powerful ones"; the *a* of *as* is acute by the suffix-accent; had *asun* been intended, the first syllable would have been acute.
+- **yātudhānān**: root *yata nikāropaskārayoḥ*, 1st class; *satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic* — the suffix *ṇic* in its own sense; after it, the Uṇādi suffix *u* in the verbal-noun sense; loss of *ṇi*; *upadhā-vṛddhi*: *yātu*, "torment, harassment"; *yātavo dhīyante eṣu* — "in whom torments are placed"; *karaṇādhikaraṇayoś ca* — *lyuṭ* after *dhā* in the locus sense: *ana*; *yātudhā + ana*; *lit* — the syllable before the *lit* is acute; *savarṇadīrgha*; single-substitute accent.
+- **asthāt**: the print has "*asmāt*" at this entry and says it is explained in the eighth mantra of this sūkta; evidently a misprint for *asthāt* (see Rik 8: *gātisthā…* *luk* of *sic*).
+- **pratidoṣam** (pp. 172–173): *doṣā* = night; the phrase *doṣāṃ prati*; *prati* compounded with *doṣā*: *avyayaṃ vibhaktisamīpasamṛddhivṛddhyarthābhāvātyayāsampratiśabdaprādurbhāvapaścādyathānupūrvyayaugapadyasādṛśyasampattisākalyāntavacaneṣu* — an indeclinable in any of these senses (case-sense, proximity, prosperity…) compounds with a *subanta*, and it is *avyayībhāva*; here *yathā*-sense; the four senses of *yathā* are *yogyatā* (fitness), *vīpsā* (repetition), *padārthānativṛtti* (not exceeding) and *sādṛśya* (likeness); here *vīpsā*: "*vīpsā* means *vyāpti*, relating fully; when *vīpsā* is shown in a sentence, doubling comes by *nityavīpsayoḥ*; but in a compound the *vīpsā* is already expressed and so no doubling — so Kaiyaṭa says on a rule [the word printed *hayavarāṭ*]"; *avyayībhāvaś ca* — neuter; *hrasvo napuṃsake prātipadikasya* — shortening; *nāvyayībhāvād ato 'm tv apañcamyāḥ* — after an *avyayībhāva* ending in *a* the *sup* is replaced by *am* (not *luk*), except the fifth case; *amipūrvaḥ*: *pūrvarūpa*: *pratidoṣam*.
+- **gṛṇānaḥ** (p. 173): root *gṝ śabde*, *kryādi*; *laṭ* in the passive, *śānac*; *kryādibhyaḥ śnā* — *śnā* as the *vikaraṇa*: *gṛ + nā + āna*; the root's vowel is shortened [the print: *prādīnāṃ hrasvaḥ*, as read, [?]]; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārtika): *n* → *ṇ*; *cita*: final-acute. Rik 10 ends here (*|| 10 ||*).
+
+### Rik 35.11 (pp. 173–176, PDF 187–190)
+
+**Saṃhitā-pāṭha** *(p. 173; accents not reproduced)*
+
+> **ये ते पन्थाः सवितः पूर्व्यासोऽरेणवः सुकृता अन्तरिक्षे ।**
+> **तेभिर्नो अद्य पथिभिः सुगेभी रक्षा च नो अधि च ब्रूहि देव ॥ ११ ॥**
+
+*ye te panthāḥ savitaḥ pūrvyāso 'reṇavaḥ sukṛtā antarikṣe |*
+*tebhir no adya pathibhiḥ sugebhī rakṣā ca no adhi ca brūhi deva || 11 ||*
+
+**Pada-pāṭha** *(p. 174)*
+
+> ये । ते । पन्थाः । सवितः । पूर्व्यासः । अरेणवः । सुऽकृताः । अन्तरिक्षे ॥
+> तेभिः । नः । अद्य । पथिऽभिः । सुऽगेभिः । रक्ष । च । नः । अधि । च । ब्रूहि । देव ॥ ११ ॥
+
+*ye | te | panthāḥ | savitaḥ | pūrvyāsaḥ | areṇavaḥ | su-kṛtāḥ | antarikṣe ||*
+*tebhiḥ | naḥ | adya | pathi-bhiḥ | su-gebhiḥ | rakṣa | ca | naḥ | adhi | ca | brūhi | deva || 11 ||*
+
+*(The Saṃhitā's "sugebhī rakṣā" is the Pada's *sugebhiḥ | rakṣa*, with the *visarga* lost and the vowels lengthened by Vedic sandhi, as the grammar on p. 176 explains.)*
+
+**Sāyaṇa-bhāṣya** *(p. 174; the first half in full, the grammatical tail characterized)*
+
+> हे सवितः ते तव पन्था मार्गाः पूर्व्यासः पूर्वसिद्धा अरेणवो धूलिरहिता अन्तरिक्षे सुकृताः सुष्ठु सम्पादिताः । सुगेभिः सुष्ठु गन्तुं शक्यैस्तेभिः पथिभिस्त्वन्मार्गैरागत्याद्यास्मिन्दिने नोऽस्मान्रक्ष च । पालनमपि कुरु । तथा हे देव नोऽस्मान् अनुष्ठातॄन् [?] अधि ब्रूहि च । देवानामग्रेऽधिकत्वेन कथय च ॥
+
+*he savitaḥ te tava panthā mārgāḥ pūrvyāsaḥ pūrvasiddhā areṇavo dhūlirahitā antarikṣe sukṛtāḥ suṣṭhu sampāditāḥ | sugebhiḥ suṣṭhu gantuṃ śakyais tebhiḥ pathibhis tvanmārgair āgatyādyāsmin dine no 'smān rakṣa ca | pālanam api kuru | tathā he deva no 'smān anuṣṭhātṝn [?] adhi brūhi ca | devānām agre 'dhikatvena kathaya ca ||*
+
+**Translation:** "O Savitṛ, *te panthāḥ* — your paths, the ways — *pūrvyāsaḥ* — made in former times — *areṇavaḥ* — free of dust — *antarikṣe* — in the mid-region — *sukṛtāḥ* — well made. By *tebhiḥ pathibhiḥ* — those paths of yours that are *sugebhiḥ*, easy to travel — come, today, on this day, and protect us (*naḥ rakṣa ca*), guard us also. And O god, *naḥ* — us, the performers [?] — *adhi brūhi ca* — speak for us, speak of us as superior in the presence of the gods."
+
+**Grammar within the bhāṣya** *(p. 174, characterized)*: *panthāḥ* (*su* for *jas* by *supāṃ sulug…*; *pathimathoḥ sarvanāmasthāne* — initial-acute); *pūrvyāsaḥ* (*pūrvaiḥ kṛtam* — the suffix *ya* [*iniyau ca*, as read]; *jas* with *asuk*; the *ya*-suffix accent); *areṇavaḥ* (*nañsubhyām*: final-acute of the later member); *sukṛtāḥ* (*ktaḥ* in the passive; *gatir anantaraḥ* — the preverb's accent natural); *sugebhiḥ* (*suṣṭhu gacchanty eṣu* — *sudurorādhikaraṇe* [as read], the suffix *ḍa* after *gam*; the later member of a *kṛt* compound keeps its accent); *rakṣa* (*dvyacotastiṅaḥ* — in the Saṃhitā a two-syllabled verb-form is lengthened).
+
+**Pratipadārtha** *(p. 174)* — "**savitaḥ** — O Savitṛ deity; **te** — your; **panthāḥ** — the paths (to come to the place of sacrifice); **pūrvyāsaḥ** — established from of old (made by our forbears); **areṇavaḥ** — dustless; **antarikṣe** — in the mid-region; **sukṛtāḥ** — well made; **sugebhiḥ** — easy to travel; **tebhiḥ pathibhiḥ** — by those paths (coming); **naḥ** — us; **rakṣa** — protect; **ca** — and; **he deva** — O shining Savitṛ; **naḥ** — us (those who keep the Vedic observances); **adhi brūhi** — speak well of us (in the presence of the other gods; speak favourably for us)."
+
+**Bhāvārtha** *(p. 175)* — "O Savitṛ deity, the paths you must take to reach the sacrificial ground are made from of old, dustless and well prepared. By those easy paths come to our sacrificial ground in kindness and protect us. And speak of us before the other gods as those who always perform sacrifices with the Vedic observances, offering them oblations, and as pure of conduct."
+
+**English Translation (the source's own, p. 175)** — "O Savitri, your paths are ancient, are free from dust and well placed in the firmament ; by those paths easy to be traversed come and protect us ; speak well of us ( to the gods )" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 175**
+- **pūrvyāsaḥ** = *pūrvasiddhāḥ*: "established of old: since they have been used for many ages, every day, the Sun's path is an ancient one, or a very old one."
+- **areṇavaḥ** = *dhūlirahitāḥ*: "ordinarily dust is natural on roads; but since the path the Sun travels lies in the mid-region, there is no dust at all there; hence 'dustless ways'."
+- **sukṛtā** — "well made, or in a good state: *Well-kept* [the print's English]."
+- **sugebhiḥ** = *suṣṭhu gantuṃ śakyaiḥ* — "easy to travel on; *easy to go &c.* [the print's English]."
+- **adhi ca brūhi** — "[besides protecting us] speak a good word about us to the gods; such is the sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 175–176, PDF 189–190 — grammar pages, noted briefly)*
+- **panthāḥ** (p. 175): after *pathin*, *jas*, replaced by *su* by *supāṃ sulug…*; *pathin + su*; *pathimathyṛbhukṣām āt* — पथिमथ्यृभुक्षामात् — when a *sup*-suffix [i.e. *su*] follows, these words take *ā* as final substitute; "we take it by *praśleṣa* (the supplying of a word not heard, by the help of the *śāstra*) as 'that which has the form *ā*'; so even in place of a nasal *n* the non-nasal *ā* comes"; *ito 'tsarvanāmasthāne* — इतोऽत्सर्वनामस्थाने — the *i* of *pathi* and the others becomes *a* before a *sarvanāmasthāna*; *tho nthaḥ* — थो न्थः — the *th* of *pathin*, *mathin* becomes *nth*; *ru*, *visarga*; *pathimathoḥ sarvanāmasthāne* — पथिमथोः सर्वनामस्थाने — first-syllable acute before a *sarvanāmasthāna*.
+- **pūrvyāsaḥ** (p. 176): *pūrvaiḥ kṛtam* — the Uṇādi/*taddhita* suffixes *ina* and *ya* in the sense *kṛta* after the third-case plural of *pūrva* (*pūrvaiḥ kṛtam iniyau ca*, as read): *ya*; *yasyeti ca* — loss of *a*; *jas*, with *ājjasor asuk* the augment *asuk*; the accent is acute by the suffix *ya*.
+- **sugebhiḥ**: *suṣṭhu gacchanti eṣu* — "they go happily on these"; *sudurorādhikaraṇe* — सुदुरोरधिकरणे — the suffix *ḍa* after *gam* in the locus sense when *su* or *dur* is the *upapada*; *su gam + a*, the *ḍ* — by its force the *ṭi* is lost; *bhis* does not become *ais*, by *bahulaṃ chandasi*; after the compound, *gatikārakopapadāt kṛt* — the *kṛdanta* later member keeps its natural accent.
+- **rakṣa**: root *rakṣa pālane*, 1st class; *loṭ*, second singular; *dvyacotastiṅaḥ* — द्व्यचोऽतस्तिङः — in the mantras a two-syllabled *tiṅ*-form with an *a* is lengthened: *rakṣā*. Rik 11 ends here (*|| 11 ||*).
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 170 (PDF 184) reached; Riks 35.1–35.9 complete; Rik 35.10 written through the first part of its Special Topics (the *yātudhānān* examples, continued on p. 171).**
+### Close of Sūkta 35
 
-**Next task:** continue at printed p. 171 (PDF 185) with the rest of Rik 10's Special Topics and its grammar, then Rik 11 (the last of the sūkta). Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 185 -l 191 Rig_Vol4.pdf /tmp/w/v`.
+**The sūkta has 11 Riks** (printed pp. 131–176; PDF 145–190), as the heading on p. 132 states ("ṛks 1–11") and the Sanskrit introduction ("*ekādaśarcam*") says; the Kannada anuvāda's "ten" (p. 131) is thus a slip. The metre line of the heading, read together with the introduction, makes Riks 1 and 9 Jagatī and the rest Triṣṭup. **Closing note** (p. 176, in Kannada, printed in ordinary type under the last grammar paragraph): *illige mūraneya sūktavu mugidudu* — "Here the third sūkta [of this Adhyāya] is finished" (Sūkta 35 is the third of the Third Adhyāya, after Sūktas 33 and 34; the sūkta's number is not given, and this is not the "*samāptavu*" formula of earlier volumes); no varga-end statement is printed. An ornament follows.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) several derivations and rule-names in the grammar tails of Riks 2, 3, 5–10 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya), the *yojanā* clause (Rik 8 bhāṣya) and the *sunīthaḥ* citation (Rik 10 bhāṣya and Special Topics: "asremāḥ, anemāḥ") are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant (as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain; (7) in the Rik 8 Special Topics the river list ends "Vitastā", where the Sūkta 34 list ended "Marudvṛdhā" (as printed); (8) the cross-reference "Part 3, pp. 62 and 66" in the Rik 9 Special Topics is as read and unchecked.
+**Sūkta 36 begins at the foot of the same leaf, printed p. 176 = PDF 190**, with *oṃ* and the large heading *mūvattāraneya sūktavu* ("the thirty-sixth sūkta"); its Sanskrit introduction begins "*aṣṭame 'nuvāke 'ṣṭau sūktāni | tatra pra vo yahvam iti viṃśatyṛcaṃ prathamaṃ sūktam | ghoraputraḥ kaṇva ṛṣiḥ | …*" (the eighth anuvāka has eight sūktas; the first, *pra vo yahvam*, has twenty ṛks; the ṛṣi is Kaṇva, son of Ghora). It is **not translated here** and belongs to the next session; the contents table's page for Sūkta 36 (p. 177) was a leaf out, as the sūkta begins on p. 176.
+
+**Summary of the sūkta (from the Bhāvārthas):** a hymn to Savitṛ, the Sun as impeller — invoking Agni, Mitra-Varuṇa, Night and Savitṛ for protection (Rik 1); his golden chariot moving through the dark mid-region, setting gods and men to their tasks (Rik 2); his upward and downward paths and white horses, driving off sin (Rik 3); the chariot with its golden ornaments and pegs (Rik 4); his horses Śyāva and the worlds standing near him (Rik 5); the three heavens, the mid-region as the way of the dead to Yama, and the Sun's greatness beyond man's knowing (Rik 6); the quivering, life-giving ray and the wonder at where the Sun is at night (Rik 7); the lighting of the eight quarters, the three worlds and the seven rivers (Rik 8); the golden-handed Savitṛ moving between heaven and earth, driving away disease (Rik 9); his coming to the sacrifice to drive off the rākṣasas (Rik 10); and a closing prayer to come by his dustless ancient paths and speak well of the worshippers to the gods (Rik 11).
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33, 34 and 35 COMPLETE (printed pp. 1–176 = PDF 15–190; Sūkta 35 = Maṇḍala 1, Anuvāka 7, Third Adhyāya, Riks 1–11, Varga "6, 7" [?] per the heading).**
+
+**This session:** Sūkta 35 (*hvayāmy agnim*) from the top of printed p. 131 through its close on p. 176, in the full pipeline (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics), with the grammar pages noted briefly.
+
+**Next task:** Sūkta 36 (*pra vo yahvam*, Maṇḍala 1, **Anuvāka 8**, 20 Riks, ṛṣi Kaṇva Ghaura), which **begins at the foot of printed p. 176 = PDF 190** (the end of Sūkta 35 shares that leaf; only that end was written from it). Per the contents table it would run to about printed p. 250 (Sūkta 37 at p. 251). Start a fresh session; begin from the top of printed p. 176's lower third (the Sanskrit introduction), then p. 177 on. Render with `pdftoppm -jpeg -r 150 -f 190 -l 265 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"). For Sūkta 35: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Kannada anuvāda says "ten" ṛks, the Sanskrit introduction and heading "eleven" (eleven were read); (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta, Aitareya-Āraṇyaka, Uṇādi and Brāhmaṇa numerals are [?] or not read; (4) many derivations and rule-names in the grammar tails of Riks 2, 3, 5–11 are partly uncertain (marked [?] or "as read"); the Kannada word *mūkī(mara)* (Riks 4–5), "tasyaitasya viśvarūpam" (Rik 6 bhāṣya), "kaṃ [?] lokam" (Rik 7 bhāṣya), the *yojanā* clause (Rik 8 bhāṣya), the *sunīthaḥ* citation (Rik 10: "asremāḥ, anemāḥ") and "anuṣṭhātṝn" (Rik 11 bhāṣya) are doubtful; (5) the Special Topics of Rik 5 refer to "the third ṛk" where the fifth is meant, and the grammar of Rik 10 prints *asmāt* for *asthāt* (both as printed); (6) in the Rik 7 Special Topics the list-heading "bhedayaḥ kiraṇāḥ" is as read and uncertain; (7) the Rik 8 river list ends "Vitastā", where the Sūkta 34 list ended "Marudvṛdhā" (as printed); (8) the cross-reference "Part 3, pp. 62 and 66" in the Rik 9 Special Topics is as read and unchecked; (9) the closing note of Sūkta 35 says "third sūkta" (i.e. of the Adhyāya) and no varga-end note is printed; (10) *process note:* one correction was made within the session — a muddled reading-note under the Rik 10 Saṃhitā was replaced before it was committed.
