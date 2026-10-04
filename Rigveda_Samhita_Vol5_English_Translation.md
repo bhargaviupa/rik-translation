@@ -5797,8 +5797,87 @@
 
 ---
 
+**Rik 54.5, continued** *(pp. 318–321, PDF 334–337)*
+
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 318 — characterized, not transcribed)*: *prācīnena* (*añcu gatipūjanayoḥ*, with *ṛtvikdadhṛk…* the suffix *kvin*; the loss of the nasal; *prāc*, and the suffix *kha* by *vibhāṣāñcer adikstriyām*, Pā. 5-4-8 as read [?]; the *īna* substitute by *āyaneyīnīyiyaḥ…*; *aco 'ñciti*…); *adyā cit* (*nipātasya ca*, lengthening); *kṛṇavaḥ* (*kṛvi hiṃsākaraṇayoś ca*, *idit*, *num*; *leṭ*, *sip*, *aṭ*; the *u* suffix by *dhinvikṛṇvyor a ca*, Pā. 3-1-80 as read [?]; the *v* becomes *a*; *ato lopa*; *guṇa*, *avādeśa*); and the Nirukta passage (Ni. 3-… as read [?]):
+
+> **वृन्दी वृन्देर्मृदुभावकर्मणः । निवृणक्षि यच्छ्वसनस्य मूर्धनि शब्दकारिणः शुष्णस्यादित्यस्य च शोषयितुः रोरूयमाणो वनानीति वा धनानीति वा ।**
+
+*vṛndī vṛnder mṛdubhāvakarmaṇaḥ | nivṛṇakṣi yac chvasanasya mūrdhani śabdakāriṇaḥ śuṣṇasyādityasya ca śoṣayituḥ roruyamāṇo vanānīti vā dhanānīti vā |* — mine and tentative: "*vṛndin* is from *vṛnd* [a root] of the action of becoming soft; 'when you pour down on the head of the sounding wind and of the drying sun, roaring, the *vana*, or [= the *dhana*]' — [the Nirukta] says 'the waters' or 'the riches' (?)" — the Kannada (p. 321) says that in the *dhanāni* alternative the sense is "the waters of the cloud" ("*meghasya dhanānīti vyākhyeyam*").
+
+**Translation of the bhāṣya (as far as the print is legible, [?]):** "O Indra, you, roaring through the clouds, in the head — the upper region — of *śvasanasya*, the wind (*śvasana*, that which breathes in the atmosphere), *vṛndinaḥ*, which brings softness to the mango-fruit and the like by its rays, and of *śuṣṇasya cit*, even of the sun, the drier-up of the juices, *vanā*, the waters, *ni vṛṇakṣi*, you pour down: you cause to reach. For the waters rained down by the wind and by the sun's rays are placed again above the sun; and Indra does just that placing — thus it is figuratively said. *Prācīnena*, with a mind of forward going, *barhaṇāvatā*, set on the destruction of enemies — such a mind — *yad adyā cit kṛṇavaḥ*: because even today you do this: in the hot season you hold up the earth's juices above the sun, and in the rains you rain. Because you do this, *kaḥ tvā pari*, who is above you [?]: therefore you alone are the highest — this is the sense."
+
+**Pratipadārtha** *(p. 318)* — "(O Indra, you) **roruvat** — making a roaring sound (with the clouds); **śvasanasya** — of the wind; **vṛndinaḥ** — of the ripener (of fruits); **śuṣṇasya cit** — of the sun, the drier-up of juices; **mūrdhani** — upon the head; **vanā** — the waters; **yat** — for which reason (by whose power); **ni vṛṇakṣi** — you pour down (and not only that); **prācīnena** — with a mind of excellent (firm) motion; **barhaṇāvatā** — intent upon destroying enemies; **manasā** — with such a mind; (you) **yat** — because; **adyā cit** — even today; **kṛṇavaḥ** — you are doing (the extraordinary acts spoken of); **tvā pari** — above you; **kaḥ** — who is there?"
+
+**Bhāvārtha** *(p. 318)* — "O Indra, roaring with the clouds, you pour down the waters upon the head of the wind and upon the head of the sun, the ripener of fruits and the drier of juices; and even today, with a mind of excellent motion, intent upon destroying enemies, you do such extraordinary acts. Who then is above you in power?"
+
+**English Translation (the source's own, p. 318)** — "Loud-shouting (Indra) you have poured the rain upon the wind and on the head of the maturing and absorbing (sun). Who is above you in the work that you, endowed with a mind, unaltered and bent upon destroying enemies have done to-day ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 319**
+- **idam uktaṃ bhavati** *(Kannada, with a Sanskrit quotation)*: "This is what is said: Indra, in former times, struck with a cloud-rain the head of the Asura named Śuṣṇa, whose form is that of the absorbing [drier], and killed him: such is the statement in the words of the seers, and well known. *Even today*, if Indra wishes, he is able to do the same. This being so, who is greater than Indra? There is no one, is the sense." The Kannada adds: "In the past, when Indra killed the Asura named Śuṣṇa — who had the nature of drying up all things, absorbing water — it is told in the words of the seers that he killed him by sending down water from the cloud upon his head."
+- **roruvat** — "One who roars specially with the help of clouds: Indra."
+- **śvasanasya** — "*Antarikṣe śvasitīti śvasanaḥ*, the wind; 'one who breathes in the atmosphere', that is, 'one who moves', — this word denotes the wind."
+- **vṛndinaḥ, śuṣṇasya** — "Both these words denote the sun: one who, with the help of his own rays, makes hard things like the mango fruit soft; and also dries all the juices seen on this earth. Both these powers are in the sun. In the hot season he draws up with the sun all the juices that lie on the earth, and in the rainy season gives them back; since Indra has this power of giving them to the sun, Indra is called the best of all."
+- **vṛṇakṣi** — "*Āvarjayasi*: the rain that falls to the earth from the sun and the wind joins the sun and the wind again in the form of vapour. This work is done by Indra; thus Indra is praised."
+- **barhaṇāvatā** — "As the word *barhaṇā* is read in the sense of harm, *barhaṇāvatā* means 'making harm'. This applies to Indra's mind."
+- **kṛṇavaḥ** — "This word, formed from the root *kṛvi hiṃsākaraṇayoś ca*, gives the sense of 'doing'."
+- **vṛndinaḥ śuṣṇasya** — "The explanation of these words is given in the Nirukta thus: '*vṛndī vṛndeḥ mṛdubhāvakarmaṇaḥ; śuṣṇasyādityasya ca śoṣayituḥ; roruyamāṇo vanānīti vā dhanānīti vā*' (Ni. 3-… as read [?])." *(p. 321 adds: "In another order": "'*nivṛṇakṣi yac chvasanasya mūrdhani śabdakāriṇaḥ śuṣṇasyādityasya ca śoṣayituḥ roruyamāṇo vanānīti vā dhanānīti vā*' (Ni. 3-… [?])". The Kannada: "In the alternative of 'dhanāni', the explanation is 'the waters of the cloud'.")*
+
+**Vyākaraṇa-prakriyā** *(pp. 320–321 — grammar pages, noted briefly)*
+- **vṛṇakṣi**: *vṛjī varjane*, *rudhādi*; *laṭ* second singular *sip*; *rudhādibhyaḥ śnam*; being *mit*, it follows the last vowel; *vṛnaj + si*: *coḥ kuḥ* gives *g* by *kutva*; *khari ca* gives *k* by *carva*; *ādeśapratyayayoḥ* gives *ṣatva*; with *k* + *ṣ* the cluster *kṣ*; *ṛkāra*-preceded, *ṇatva* by *ṛvarṇān nasya ṇatvaṃ vācyam*: *vṛṇakṣi*; there being a *yat* before, no *nighāta*; by the characteristic's accent the vowel after *ṇ* is acute; *sip* being *pit*, *anudātta*.
+- **prācīnena**: *añcu* with the prefix *pra*; *ṛtvikdadhṛk…* gives *kvin*; *anidītāṃ hala upadhāyāḥ kṅiti* drops the penultimate nasal; *prāc*; with *vibhāṣāñcer adikstriyām* (Pā. 5-4-8 as read [?]) the suffix *kha* in the pleonastic sense; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* gives *īn* for *kha*; *ac*: *acaḥ* (Pā. 6-4-138) drops the *a* of the *añc* root which has lost its nasal; because of *cau*, the lengthening of the preceding syllable when the root's nasal and *a* are lost: *prācīna*; since *kha* is *ṅit*-like, *īn* is treated as *upadeśavat*, so the *ī* is acute (*acaḥ… upadeśavad bhāva*); instrumental singular.
+- **adyā cit**: *adya* is a *nipāta*; *nipātasya ca* gives the lengthening.
+- **kṛṇavaḥ**: *kṛvi hiṃsākaraṇayoś ca*; *idit*, so *num*; *leṭ* second singular *sip*; *leṭo 'ṭāṭau* gives *aṭ*; *dhinvikṛṇvor a ca* (Pā. 3-1-80) gives *u*; the *v* of the root becomes *a*; *ato lopaḥ* drops it; because of *aci śnudhātubhruvāṃ…* (*śnudhātu*…); *pugantalaghūpadhasya ca* does not give *guṇa*; *kṛṇu + as*: *ṇatva* after *ṛ*; *guṇa* of the *u* for the *as*; *avādeśa*; *ru*, *visarga*: *kṛṇavaḥ*; since *aṭ* is *anudātta*, the vowel after *ṇ* is acute by the suffix; since *yat* is connected, no *nighāta*.
+- The Kannada gives here another way of deriving the form in the Nirukta: "*vṛndī* from the root *vṛnd* in the sense of becoming soft; *ṇini* in the sense of habit: *vṛndinaḥ* in the plural."
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.4 complete; Rik 54.5 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 317, PDF 333; the bhāṣya's last sentence is crowded). Its remaining tail, Pratipadārtha, Bhāvārtha, English, Special Topics and Vyākaraṇa (from p. 318, PDF 334) and Riks 54.6–54.11 are NOT yet written. NOTE: the heading I wrote above Rik 54.4 ("metre Triṣṭubh? …") is clumsy; Rik 4 is in Jagatī (Triṣṭubh Riks are 6, 8, 9, 11); the file is append-only so I leave it.**
+### Rik 54.6 (pp. 321–, PDF 337–; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 318 (PDF 334) with "**Rik 54.5, continued**", then Riks 6–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and the Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head "bṛhato maruto divo" and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded [?].
+**Saṃhitā-pāṭha** *(p. 321; accents printed, not reproduced)*
+
+> **त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।**
+> **त्वं रथमेतशं कृत्व्ये धने त्वं पुरो नवतिं दम्भयो नव ॥ ६ ॥**
+
+*tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*
+*tvaṃ ratham etaśaṃ kṛtvye dhane tvaṃ puro navatiṃ dambhayo nava || 6 ||*
+
+**Pada-pāṭha** *(p. 321)*
+
+> त्वम् । आविथ । नर्यम् । तुर्वशम् । यदुम् । त्वम् । तुर्वीतिम् । वय्यम् । शतक्रतो इति शतऽक्रतो ।
+> त्वम् । रथम् । एतशम् । कृत्व्ये । धने । त्वम् । पुरः । नवतिम् । दम्भयः । नव ॥ ६ ॥
+
+*tvam | āvitha | naryam | turvaśam | yadum | tvam | turvītim | vayyam | śatakrato iti śata-krato |*
+*tvam | ratham | etaśam | kṛtvye | dhane | tvam | puraḥ | navatim | dambhayaḥ | nava || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 321)*
+
+> **हे इन्द्र त्वं नर्यादीन् त्रीन् राज्ञ आविथ ररक्षिथ । तथा हे शतक्रतो बहुविधकर्मन् बहुविधप्रज्ञ वा त्वं वय्यं वय्यकुलजं तुर्वीतिनामानं राजानमाविथेत्येव । अपि च त्वं रथं रंहणस्वभावमेतत्संज्ञमृषिमेतशमेतत्संज्ञकं धने धननिमित्ते संग्रामे कृत्व्ये कर्तव्ये सत्याविथेति शेषः । यद्वा । पूर्वोक्तानां राज्ञां रथम् । एतशः इत्यश्वनाम । एतशमश्वं च ररक्षिथेति योज्यम् । तथा त्वं शंबरस्य नवतिं नव नवोत्तरनवतिसंख्याकाः पुरः पुराणि दम्भयः व्यनीनशः ॥**
+
+*he indra tvaṃ naryādīn trīn rājña āvitha rarakṣitha | tathā he śatakrato bahuvidhakarman bahuvidhaprajña vā tvaṃ vayyaṃ vayyakulajaṃ turvītināmānaṃ rājānam āvithety eva | api ca tvaṃ rathaṃ raṃhaṇasvabhāvam etatsaṃjñam ṛṣim etaśam etatsaṃjñakaṃ dhane dhananimitte saṃgrāme kṛtvye kartavye satyāvitheti śeṣaḥ | yadvā | pūrvoktānāṃ rājñāṃ ratham | etaśaḥ ity aśvanāma | etaśam aśvaṃ ca rarakṣitheti yojyam | tathā tvaṃ śaṃbarasya navatiṃ nava navottaranavatisaṃkhyākāḥ puraḥ purāṇi dambhayaḥ vyanīnaśaḥ ||*
+
+*(The tail, p. 321 foot: on* etaśam *(*iṇ gatau*, Uṇādi* kaśa* / *iṇas tan-kaśasunau*, Uṇ. 3-… as read [?], with the suffix *taśa*; *guṇa*),* kṛtvye *(*kartavye*, a Vedic letter-change of *kṛtya*; *pṛṣodarādi*) — is characterized; the further notes continue on p. 323 and are given with the next batch.)*
+
+**Translation of the bhāṣya:** "O Indra, you protected *naryādīn trīn*, the three kings beginning with Narya [Narya, Turvaśa and Yadu]; and, O *śatakrato*, of many works or many wisdoms, you protected the king named Turvīti, born in the family of Vayya. Further, you protected, in the battle for wealth that was to be fought, the chariot — of swift nature — and the sage named Etaśa; or: the chariot of those kings spoken of; *etaśa* is a name for the horse: construe 'you protected the horse also'. And you, *navatiṃ nava*, ninety-nine cities of Śambara you *dambhayaḥ*, destroyed."
+
+**Pratipadārtha** *(p. 322)* — "(O Indra) **tvam** — you; **naryam** — (the king) Narya; **turvaśam** — Turvaśa; **yadum** — Yadu; **āvitha** — protected; (likewise) **śatakrato** — O Indra of many works, or of many kinds of wisdom (or who performed a hundred sacrifices); **tvam** — you; **vayyam** — born in the family of Vayya; **turvītim** — the king named Turvīti (protected); **tvam** — you; **ratham** — [their] chariots; **etaśam** — and horses — or [**ratham** — the sage named Ratha; **etaśam** — the sage named Etaśa]; **dhane** — in the battle for wealth; **kṛtvye** — that must necessarily be fought (you protected); **tvam** — you; **śambarasya** — of Śambara; **navatiṃ nava** — ninety-nine; **puraḥ** — cities; **dambhayaḥ** — destroyed."
+
+**Bhāvārtha** *(p. 322)* — "O Indra of many works, you protected the kings Narya, Turvaśa and Yadu, and likewise Turvīti, of the family of Vayya. You protected their chariots and horses in the battle for wealth that had to be won. And you destroyed Śambara's ninety-nine cities."
+
+**English Translation (the source's own, p. 322)** — "You have protected Narya, Turvasa, Yadu and Turviti, of the race of Vayya; you have protected their chariots and horses in a battle undertaken for necessary wealth; you have destroyed the ninety-nine cities (of Sambara)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 322 (begins)**
+- **turvaśam, yaduṃ** — "See what we have written on them in Ṛ. Saṃ. Part 4, pp. 210–212 [numerals as read, [?]]."
+- **turvītim** — "His matter is described in Ṛ. Saṃ. Part 4, p. 214 [?]."
+- **naryam** — "The name of a king. His name occurs in this Rik and in Ṛ. Saṃ. 1-100-… [?]. Since it is found nowhere else, we have not learned more about him."
+- **śatakrato** — "'One who has many kinds of deeds,' or 'one who has many kinds of wisdom,' or 'one who has performed a hundred sacrifices': thus they explain the word *indra* in many ways."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.5 complete; Rik 54.6 (Triṣṭubh) written from the Saṃhitā through the Special Topics *turvaśam/turvītim/naryam/śatakrato* (printed p. 322, PDF 338). The remaining Special Topics (from p. 323, PDF 339), Vyākaraṇa notes of Rik 6 and Riks 54.7–54.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 323 (PDF 339) with "**Rik 54.6, continued**" (remaining Special Topics, Vyākaraṇa), then Riks 7–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation and numerals [?]; Rik 6 Part-4 page references and Ṛ. Saṃ. numeral [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
