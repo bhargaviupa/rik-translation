@@ -8771,8 +8771,70 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 44.12 (pp. 531–534)
+
+**Saṃhitā-pāṭha** *(p. 531; accents not reproduced)*
+
+> **यद्देवानां मित्रमहः पुरोहितोऽन्तरो यासि दूत्यम् ।**
+> **सिन्धोरिव प्रस्वनितास ऊर्मयोऽग्नेर्भ्राजन्ते अर्चयः ॥ १२ ॥**
+
+*yad devānāṃ mitramahaḥ purohito 'ntaro yāsi dūtyam |*
+*sindhor iva prasvanitāsa ūrmayo 'gner bhrājante arcayaḥ || 12 ||*
+
+**Pada-pāṭha** *(p. 531)*
+
+> यत् । देवानाम् । मित्रमहः इति मित्रऽमहः । पुरःऽहितः । अन्तरः ।
+> यासि । दूत्यम् ।
+> सिन्धोःऽइव । प्रऽस्वनितासः । ऊर्मयः । अग्नेः । भ्राजन्ते ।
+> अर्चयः ॥ १२ ॥
+
+*yat | devānām | mitramahaḥ iti mitra-mahaḥ | puraḥ-hitaḥ | antaraḥ |*
+*yāsi | dūtyam |*
+*sindhoḥ-iva | pra-svanitāsaḥ | ūrmayaḥ | agneḥ | bhrājante |*
+*arcayaḥ || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 531–532)*
+
+> **हे मित्रमहो मित्राणां पूजकाग्ने यद्यदा पुरोहितस्त्वं वेदेः पूर्वस्यां दिशि स्थापितोऽन्तरो देवयजनमध्ये वर्तमानः सन् देवानां दूत्यं दूतकर्म यासि प्राप्नोषि तदानीमग्नेस्तवार्चयो दीप्तयो भ्राजन्ते । दीप्यन्ते । तत्र दृष्टान्तः । सिन्धोरिव यथा समुद्रस्य प्रस्वनितासः प्रकृष्टध्वनियुक्ता ऊर्मयस्तरंगा भ्राजन्ते तद्वत् ॥**
+
+*he mitramaho mitrāṇāṃ pūjakāgne yad yadā purohitas tvaṃ vedeḥ pūrvasyāṃ diśi sthāpito 'ntaro devayajanamadhye vartamānaḥ san devānāṃ dūtyaṃ dūtakarma yāsi prāpnoṣi tadānīm agnes tavārcayo dīptayo bhrājante | dīpyante | tatra dṛṣṭāntaḥ | sindhor iva yathā samudrasya prasvanitāsaḥ prakṛṣṭadhvaniyuktā ūrmayas taraṅgā bhrājante tadvat ||*
+
+**Translation:** "O *mitramahaḥ*, O Agni, worshipped by friends (or: worshipper of friends); *yat*, when you, set up as *purohita* on the east side of the altar, being *antaraḥ*, in the middle of the place of divine worship, *yāsi dūtyam*, perform and attain the office of messenger of the gods, *tadānīm*, then your *arcayaḥ*, flames, *bhrājante*, blaze, shine. The simile: *sindhor iva*, just as the *prasvanitāsaḥ*, loudly resounding *ūrmayaḥ*, waves, of the ocean shine, so do they."
+
+**Grammatical tail** *(p. 532; characterized, numerals as read [?])*
+- *mitramahaḥ*: root *maha pūjāyām*; "he who is honoured (*mahyate*) by friends, the priests"; the Uṇādi suffix *asun*.
+- *yāsi*: because of the *yad*-relation (*yadvṛtta*) the verb is not unaccented (*anighāta*).
+- *dūtyam*: "the work of a messenger"; the suffix *yat* by "*dūtasya bhāgakarmaṇī*" (Pā. 4-4-120 as read [?]); by the saying "all rules are optional in the Chandas" the initial acute does not arise, and by *tit svaritam* a *svarita* comes.
+- *prasvanitāsaḥ*: root *svana / dhvana śabde*; *niṣṭhā* in the abstract sense; "those whose sounding is excellent" (*prakṛṣṭaṃ svanitaṃ yeṣāṃ te*); the *āsuk*-augment (printed "*āsugāgamaḥ*", doubtful reading [?]; the grammar page names it *asuk*); in the bahuvrīhi the first member keeps its natural accent.
+- *ūrmayaḥ*: *arter ūc ca* (Uṇ. 4-[?] as read), the suffix *mi*.
+
+**Pratipadārtha** *(p. 532)* — "**mitramahaḥ** — O Agni, worshipped by the priests or by friendly people; **yat** — when; **purohitaḥ** — placed as *purohita* in the eastern part of the altar; **antaraḥ** — being in the middle part of the sacrificial place; **devānām** — of the gods; **dūtyam** — the work of messenger; **yāsi** — you take up (then); **agneḥ** — of you, god Agni; **arcayaḥ** — the flames; **sindhoḥ** — of the ocean; **prasvanitāsaḥ** — roaring with sound; **ūrmayaḥ** — the waves; **(iva** — as if, shining**)**; **bhrājante** — shine."
+
+**Bhāvārtha** *(p. 532)* — "O god Agni, many priests worship you. When you are placed in the eastern part of the altar as *purohita* and, being in the middle of the sacrificial place, take up the work of messenger of the gods — then, since you alone carry all the oblations offered to all the gods, your flames rise very high. Then, like the waves of the ocean that roar and shine, they shine with sound and with brilliance."
+
+**English Translation (the source's own, p. 532)** — "O Agni, you are being worshipped by the friendly priests ; when you are placed in front of the altar ( or as a Purohita at a sacrifice ) and are installed as the messenger of the gods, then your flames roar like the resounding billows of the ocean."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 533**
+- **yat** — "*yadā*: when."
+- **mitramahaḥ** — "*mitrair ṛtvigbhir mahyate pūjyate iti mitramahāḥ, tasya sambuddhir mitramahaḥ*: one who is worshipped by the priests, who are friendly to you and objects of your affection."
+- **purohitaḥ** — "the explanation of this word was given at the tenth ṛk of this sūkta."
+- **sindhor iva ūrmayaḥ** — "like the waves of the ocean."
+- **prasvanitāsaḥ** — "*svana dhvana śabde; prakṛṣṭaṃ svanitaṃ yeṣāṃ te prasvanitāḥ*: making sound very loudly, roaring."
+- **arcayaḥ** — "the flames of Agni; the flames of Agni that blaze well, with a crackling, from the oblations such as ghee which the priests pour in the sacrifice. The idea is that they blaze up, as the waves of the ocean, struck by the wind, come to the shore and dash and roar loudly."
+
+**Vyākaraṇa-prakriyā** *(pp. 533–534 — grammar pages, noted briefly)*
+- **mitramahaḥ**: analysis "*mitraiḥ mahyate pūjyate*"; root *maha pūjāyām*; the suffix *asun* by "*sarvadhātubhyo 'sun*" (Uṇ. 4-[?], as printed without a number I could read).
+- **yāsi**: *yadvṛttān nityam* (Pā. 8-1-66 as read [?]) — यद्वृत्तान्नित्यम् — forbids the all-unaccented (*sarvānudātta*) of the verb.
+- **dūtyam**: *dūtasya bhāgakarmaṇī* (Pā. 4-4-120 as read [?]) — दूतस्य भागकर्मणी — the suffix *yat* in the senses of "share" and "work"; *dūta + ya*, *yasyeti ca* (the *a* is dropped); the rule on acute *yato 'nāvaḥ* is optional in the Veda by the maxim "*sarve vidhayaś chandasi vikalpyante*" (paribhāṣā, number as read "63" [?]), so does not come here; by *tit svaritam* a *svarita* arises. The Kāśikā-author is said to quote the statement "*dūtavaṇigbhyāṃ ca*" [as read, ?] at this place; from this too the desired accent is not obtained when *ya* comes.
+- **prasvanitāsaḥ**: root *svana* (or *dhvana*) *śabde*; *niṣṭhā* (*kta*) in the abstract sense by "*niṣṭhā*" (as printed); *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; *svanita*; *prakṛṣṭaṃ svanitaṃ yeṣāṃ te*, a bahuvrīhi (the sense of *pra* being "excellent"); first member keeps its accent; then *jas*; *prasvanita + as* with the *asuk* augment by *ājjaser asuk* (Pā. 7-1-50).
+- **ūrmayaḥ**: root *ṛ gatau*; *arter ūc ca* (Uṇ. 4-[?] as read): the suffix *mi* after *ṛ* and *ū* as the substitute for the root's vowel; the *ū* replacing *ṛ* is *raparatva*: *ūr + mi = ūrmi*. Some hold that the *ū* without the *repha* is enough and that by *hali ca* (Pā. 8-2-77 as read) lengthening follows, so that *ūrmi* is obtained thus. **|| 12 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 531 (PDF 545) reached; introduction, heading and Riks 44.1–44.11 complete.**
+---
 
-**Next task:** Rik 44.12 begins at the middle of printed p. 531 (PDF 545): its Saṃhitā, Pada and the first lines of the bhāṣya (*he mitramaho …*) are on that page but not yet written; continue from there, then Riks 13–14 and the close of Sūkta 44, then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 545 -l 570 Rig_Vol4.pdf /tmp/x/v` if the images are lost. Flags for 44.11: sūtra numerals "as read [?]"; the Kannada explanation of *yajñasya* (*naṅ* then *stoḥ ścunā ścuḥ*) partly unclear. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+---
+
+**Progress note — Volume 4: Sūktas 33–43 COMPLETE; Sūkta 44 in progress: printed p. 534 (PDF 548) reached; introduction, heading and Riks 44.1–44.12 complete.**
+
+**Next task:** Rik 44.13 begins in the middle of printed p. 534 (PDF 548): its Saṃhitā, Pada and the first lines of the bhāṣya (*he śrutkarṇa …*) are on that page but not yet written; continue from there, then Rik 14 and the close of Sūkta 44, then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 548 -l 570 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 44.12: the augment in *prasvanitāsaḥ* printed "*āsugāgamaḥ*" [?] (grammar page says *asuk*); sūtra and Uṇādi numerals "as read [?]". **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
