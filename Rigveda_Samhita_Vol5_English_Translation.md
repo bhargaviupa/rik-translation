@@ -5368,8 +5368,81 @@
 
 ---
 
+**Rik 53.10, continued** *(pp. 298–300, PDF 314–316)*
+
+**Pada-pāṭha** *(p. 298)*
+
+> त्वम् । आविथ । सुऽश्रवसम् । तव । ऊतिऽभिः । तव । त्रामऽभिः । इन्द्र । तूर्वयाणम् ।
+> त्वम् । अस्मै । कुत्सम् । अतिथिऽग्वम् । आयुम् । महे । राज्ञे । यूने । अरन्धनायः ॥ १० ॥
+
+*tvam | āvitha | su-śravasam | tava | ūti-bhiḥ | tava | trāma-bhiḥ | indra | tūrvayāṇam |*
+*tvam | asmai | kutsam | atithi-gvam | āyum | mahe | rājñe | yūne | arandhanāyaḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 298)*
+
+> **हे इन्द्र त्वं तवोतिभिस्त्वदीयैः पालनैः सुश्रवसं पूर्वोक्तं राजानमाविथ ररक्षिथ । तथा तूर्वयाणमेतन्नामानं राजानं तव त्रामभिस्त्वदीयैस्त्रायकैः पालकैर्बलैराविथेति शेषः । किंच त्वं महे महते यूने तरुणायास्मै सुश्रवसे राज्ञे कुत्सादीन् त्रीन् राज्ञोऽरन्धनायः । वशमनयः । रध्यतिर्वशगमने । नि. ६-३२ [?] इति यास्कः ॥**
+
+*he indra tvaṃ tavotibhis tvadīyaiḥ pālanaiḥ suśravasaṃ pūrvoktaṃ rājānam āvitha rarakṣitha | tathā tūrvayāṇam etannāmānaṃ rājānaṃ tava trāmabhis tvadīyais trāyakaiḥ pālakair balair āvitheti śeṣaḥ | kiṃca tvaṃ mahe mahate yūne taruṇāyāsmai suśravase rājñe kutsādīn trīn rājño 'randhanāyaḥ | vaśam anayaḥ | radhyatir vaśagamane | ni. 6-32 [?] iti yāskaḥ ||* *(The Nirukta numeral as read, [?].)*
+
+*(The tail of the bhāṣya, p. 298: on* trāmabhiḥ *(*trai pālane*, *ādeca upadeśe 'śiti* gives *ā*; *manin* by* ātro manin kvanip vanipaś ca*, Pā. 3-2-74 as read [?]; the initial-acute from the *nit* suffix),* arandhanāyaḥ *(*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*; *tatkaroti tadācaṣṭe*, *ṇic*; *iṣṭhavad bhāva*, *ṭilopa*; *laṅ* second singular; *śap*; the Vedic lengthening) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, you, *tavotibhiḥ*, by your protections, *suśravasam*, protected the king spoken of above; and likewise *tūrvayāṇam*, the king of that name, you protected *trāmabhiḥ*, with your forces that protect (supply: you protected). Further, *mahe yūne*, for this great, young Suśravas, the king, you *arandhanāyaḥ* — brought under his sway — three kings, Kutsa and the others; *radhyati* has the sense of coming under control, says Yāska (Ni. 6-32 [?])."
+
+**Pratipadārtha** *(p. 298)* — "**indra** — O Indra; **tvam** — you; **tava ūtibhiḥ** — by your help; **suśravasam** — the king Suśravas; **āvitha** — protected; **tūrvayāṇam** — the king Tūrvayāṇa also; **tava trāmabhiḥ** — by your protective forces; (you protected); **tvam** — you; **yūne** — young; **mahe** — of great majesty; **asmai rājñe** — to this king Suśravas; **kutsam** — Kutsa; **atithigvam** — Atithigva; **āyum** — and Āyu (these three kings); **arandhanāyaḥ** — you made subject."
+
+**Bhāvārtha** *(p. 298)* — "O Indra, by your help you protected the king named Suśravas, and by your protective forces you saved Tūrvayāṇa also. And because this Suśravas, though young, was of great majesty, you made these three kings — Kutsa, Atithigva and Āyu — subject to him."
+
+**English Translation (the source's own, p. 299)** — "Indra, you have preserved Susravas by your protection. Turvayana by your help; you have made kutsa, Atithigwa, and Ayu subject to the mighty, though youthful Susravas."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 299**
+- **atithigvam** — "See what we wrote on his account on p. 174."
+- **kutsam** — "His account is given on p. 173."
+- **āyum** — "It is known that Āyu was a king, a ruler of the people called *Śakta* [?]. Here it is said that Tūrvayāṇa defeated him with Indra's help. His name occurs in the Riks Ṛ. Saṃ. 6-18-… [?]; 1-… [?]; 9-… [?]; 10-… [?] (all numerals uncertain)."
+- **tava ūtibhiḥ** — "Though the word *ūti* has the sense of protection, here by implication it must be taken as 'by the special acts that give protection'."
+- **tūrvayāṇam** — "This is the name of a king protected by Indra. In Ṛ. Saṃ. 2-… [?] he is called an enemy of Atithigva, Āyu and Kutsa; in Ṛ. Saṃ. 10-… [?] it is said that he was a king of the people called *Śakta*. His name occurs also in the Riks Ṛ. Saṃ. 1-… [?]; 6-… [?]."
+- **trāmabhiḥ** — "This word, formed from the root *trai pālane*, gives the special sense 'by the armies that protect those who take refuge'."
+- **rājñe** — "'To the king named Suśravas': this is the meaning of this word."
+- **arandhanāyaḥ** — "'You made subject': this is its meaning. According to Yāska's idea '*radhyatir vaśagamane*' (Ni. 6-32 [?]), they explain this word as *randhanaṃ vaśīkaraṇaṃ karoti randhanayati*."
+
+  > **रध्यतिर्वशगमने ।** *(Ni. 6-32 as read [?])*
+
+  *radhyatir vaśagamane |* — mine and tentative: "*radh* is [a root] in the sense of 'coming under control'."
+
+**Vyākaraṇa-prakriyā** *(pp. 299–300 — grammar pages, noted briefly)*
+- **āvitha**: *ava rakṣaṇe*; *liṭ* second singular *sip*; *parasmaipadānāṃ ṇalatusus…* gives *thal*; reduplication; *halādiḥ śeṣaḥ*; *akaś ca ādeḥ* … *dīrgha* lengthens the *a* of the reduplicative; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ* to *thal*: *āvitha*; following an *atiṅ*, *nighāta*.
+- **suśravasam**: explained under the previous Rik; accusative singular.
+- **trāmabhiḥ**: *trai pālane*; *ādeca upadeśe 'śiti* (Pā. 6-1-45) gives *ā* in place of the *ai*; *ātro manin kvanip vanipaś ca* (Pā. 3-2-74 as read [?]) gives *manin*: *trāman*; being *nit*, initial-acute; in the instrumental plural, *na loopaḥ prātipadikāntasya* (Pā. 8-2-7) prevents the loss of *n* — no: *nalopaḥ prātipadikāntasya* drops the *n*? The print says "*na lopaḥ prātipadikāntasya*" gives *nalopa* — the *n* is dropped before *bhis*: *trāmabhiḥ*.
+- **asmai**: for the word *idam*, in the substitution-context *idam*… *anvādeśe*, [and for the dative] *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. 2-4-32) gives the *anudātta* substitute *aśa*; since it is *śit*, it replaces the whole word; *anudāttaṃ supitau* [*anudāttaṃ sup pit*] makes the ending *anudātta*.
+- **arandhanāyaḥ**: "*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*"; *tatkaroti tadācaṣṭe* (Pā. 3-1-26 as read [?]) gives *ṇic* when the sense of the root is intended after a *prātipadika*; before *ṇic*, *iṣṭhavad bhāva* [*iṣṭhasya*] … *iṣṭhavad bhāvaḥ prātipadikasya* (Pā. 6-4-… as read [?]) — as before *iṣṭhan*, so before *ṇic* the *ṭi* is dropped, the same acts that apply before *iṣṭhan* apply before *ṇic*: *ṭilopa*; the *randhani* is a *ṇic*-ending, which by *sanādyantā dhātavaḥ* is a root; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *kartari śap*; since *śap* is the cause, *guṇa* before *ṇic*… the *i*; *ayādeśa*: the *s* of the ending becomes *ru*, *visarga*; *aṭ* as the *laṅ* augment: *arandhanayaḥ*; the lengthening is Vedic: *arandhanāyaḥ*; following an *atiṅ*, *nighāta*. **|| 10 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.9 complete; Rik 53.10 (Triṣṭubh) Saṃhitā written (printed p. 297, PDF 313); its Pada is on p. 298 (PDF 314). Riks 53.10 (rest) and 53.11 and the close of Sūkta 53 are NOT yet written.**
+### Rik 53.11 (pp. 300–, PDF 316–; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 298 (PDF 314) with the Pada of Rik 53.10 (heading "**Rik 53.10, continued**"), then bhāṣya etc., Rik 53.11 and the close of Sūkta 53 (Sūkta 54 begins ≈ p. 303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha", the Taittirīya Brāhmaṇa Namuci passage (words crowded) and the eight Ṛgveda citations (numerals and several words [?], glosses mine/tentative); Rik 8 "anānudaḥ/ananudaḥ", "bibhidiṣe | vadhīḥ", the Ṛg citation "ye 'rṇaye 'śnam uta vā karañje" [?]; Rik 9 Suśravas references [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 300; accents printed, not reproduced)*
+
+> **य उद्ऋचीन्द्र देवगोपाः सखायस्ते शिवतमा असाम ।**
+> **त्वां स्तोषाम त्वया सुवीरा द्राघीय आयुः प्रतरं दधानाः ॥ ११ ॥**
+
+*ya udṛcīndra devagopāḥ sakhāyas te śivatamā asāma |*
+*tvāṃ stoṣāma tvayā suvīrā drāghīya āyuḥ prataraṃ dadhānāḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 300)*
+
+> ये । उत्ऽऋचि । इन्द्र । देवऽगोपाः । सखायः । ते । शिवऽतमाः । असाम ।
+> त्वाम् । स्तोषाम । त्वया । सुऽवीराः । द्राघीयः । आयुः । प्रऽतरम् । दधानाः ॥ ११ ॥
+
+*ye | ut-ṛci | indra | deva-gopāḥ | sakhāyaḥ | te | śiva-tamāḥ | asāma |*
+*tvām | stoṣāma | tvayā | su-vīrāḥ | drāghīyaḥ | āyuḥ | pra-taram | dadhānāḥ || 11 ||*
+
+*(The Saṃhitā's* ya udṛci *is as printed; the Pada's* ut-ṛci *(a locative) is the Pada's division; I do not alter either, and note it as doubtful, [?].)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.10 complete; Rik 53.11 (Triṣṭubh, the last Rik) Saṃhitā and Pada written (printed p. 300, PDF 316). Its bhāṣya begins on p. 301 (PDF 317). The rest of Rik 53.11 and the close of Sūkta 53 are NOT yet written.**
+
+**Next task:** continue at printed p. 301 (PDF 317) with "**Rik 53.11, continued**" (bhāṣya etc.), then the close of Sūkta 53 (Sūkta 54 begins ≈ p. 303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]", "yadā yadendraḥ … edhunā" [?]; Rik 7 "ghu" for "gha", the Taittirīya Brāhmaṇa Namuci passage (words crowded) and the eight Ṛgveda citations (numerals and several words [?], glosses mine/tentative); Rik 8 "anānudaḥ/ananudaḥ", "bibhidiṣe | vadhīḥ", the Ṛg citation "ye 'rṇaye 'śnam uta vā karañje" [?]; Rik 9 Suśravas references [?]; Rik 10 Āyu/Tūrvayāṇa reference numerals [?]; Rik 11 Saṃhitā "udṛci"/Pada "ut-ṛci" [?]; Uṇādi and Pāṇini numerals as read [?].
