@@ -704,12 +704,76 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 **Vyākaraṇa-prakriyā** *(pp. 54–55, grammar pages — noted briefly)*: **avidhyat** (p. 54: root *vyadha tāḍane*, *laṅ*, *tip*, the *i* of the ending elided; *śyan* by *divādibhyaḥ śyan* — दिवादिभ्यः श्यन् — Pā. 3-1-69, which is *kit* because *sārvadhātukam apit*; the *saṃprasāraṇa* of the root by *grahijyāvayivyadhivaṣṭi…ṅiti ca* — ग्रहिज्यावयिव्यधिवष्टि… ङिति च — Pā. 6-1-16, i.e. *y* → *i*, giving *vidh + ya + t*; the augment *aṭ*, *avidhyat*; the *tiṅ* is unaccented by *tiṅ atiṅaḥ* [Pā. 8-1-28], so the whole word is *sarvānudātta*; by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* — उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य — Pā. 8-2-4 the unaccented syllable following a *yaṇ*-substitute for an acute or *svarita* becomes *svarita* — e.g. in *abhy abhi*, where the *y* stands for the *i* of an end-acute *abhi*; and *anudāttaṃ ca* [Pā. 8-1-3] makes the second *abhi* of a doubled word unaccented; here, *ni* being, by the Phiṭ-rule *upasargāś cābhivarjam*, first-syllable-acute, its *i* is replaced by *y* by *iko yaṇaci* — इको यणचि — Pā. 6-1-77, and the augment's *a* after it gets the *svarita*). **ilībiśasya** (*pṛṣodarādīni yathopadiṣṭam* — पृषोदरादीनि यथोपदिष्टम् — Pā. 6-3-109: forms like *pṛṣodara* are as the cultured pronounce them, so the form *ilībiśa* is established). **dṛḷhā** (root *dṛha*/*dṛhi vṛddhau*, first class; the *num* augment by *idito num dhātoḥ* — इदितो नुम् धातोः — Pā. 7-1-58; *n* → anusvāra by *naś cāpadāntasya jhali* — नश्चापदान्तस्य झलि — Pā. 8-3-24; the suffix *kta*; *dṛḍhaḥ sthūlabalayoḥ* — दृढः स्थूलबलयोः — Pā. 7-2-20, "irregular: *dṛḍha* in the sense 'stout', 'strong'", without *iṭ*, *t* → *dh*, *h* lost, and the *n* of the *idit* root lost; *śas*, replaced by *śi* by *jaśśasoḥ śiḥ* — Pā. 7-1-20, which is *sarvanāmasthāna*; the augment *num* by *napuṃsakasya jhalacaḥ* — नपुंसकस्य झलचः — Pā. 7-1-72; *dṛḍhan + śi*; lengthening of the penultimate by *sarvanāmasthāne cāsambuddhau* — Pā. 6-4-8; and the Vedic *śeś chandasi bahulam* — Pā. 6-1-70 — optional loss of the *śi*… *(the page ends here, mid-sentence)*.
 
----
+### Rik 33.12 — end of the grammar (p. 55, PDF 69)
+
+**dṛḷhā** (concluded): after the loss of *śi* (by *śeś chandasi bahulam*), the *n* is lost by *nalopaḥ prātipadikāntasya* — नलोपः प्रातिपदिकान्तस्य — Pā. 8-2-7: *dṛḍhā*. The print then cites a verse on the Vedic *ḷ*:
+
+> अज्मध्यस्थडकारस्य ळकारं बह्वृचा जगुः । अज्मध्यस्थढकारस्य ळ्हकारं वै यथाक्रमम् ॥
+
+*ajmadhyasthaḍakārasya ḷakāraṃ bahvṛcā jaguḥ | ajmadhyasthaḍhakārasya ḷhakāraṃ vai yathākramam ||*
+
+"The Bahvṛcas (Ṛgvedins) sing the *ḷa* for a *ḍa* standing between vowels, and the *ḷha* for a *ḍha* standing between vowels, respectively." By this the *ḍh* becomes *ḷh*. *(Translation mine; the verse is as read.)*
+
+**abhinat** (root *bhidir vidāraṇe*; *laṅ*, *tip*; *śnam* by *rudhādibhyaḥ śnam* — रुधादिभ्यः श्नम् — Pā. 3-1-78, which being *mit* places the *n* after the last vowel of the root; the *i* of the ending dropped by *itaś ca* — Pā. 3-4-100; the augment *aṭ*; the *t* of the ending dropped by *halṅyābbhyo dīrghāt sutisyapṛktaṃ hal* — हल्ङ्याब्भ्यो दीर्घात्सुतिस्यपृक्तं हल् — Pā. 6-1-68, which then is restored to *t* by *vāvasāne* — वावसाने — Pā. 8-4-56). **śuṣṇam** (root *śuṣa śoṣaṇe*, 4th class; the Uṇādi suffix *na* by *tṛṣiśuṣirasibhyaḥ kit na* — तृषिशुषिरसिभ्यः कित् नः — [Uṇ. 3-[?]], which is *kit*, so no *guṇa*; *ṇa* for *na* by *raṣābhyāṃ no ṇaḥ samānapade* — रषाभ्यां नो णः समानपदे — Pā. 8-4-1; first-syllable acute). **avadhīḥ** (root *han hiṃsāgatyoḥ*, *ad*-class; *luṅ*, *sip*; augment *aṭ*; *itaś ca*; *cli*, *sic*; *vadha* for *han* by *luṅi ca* — Pā. 2-4-43; loss of *a*, the augments *iṭ*, *īṭ*, the loss of *sic* [by *siji-lopa…*]; *savarṇadīrgha*; the *s* of the ending dropped by *halṅyābbhyo…*; *ru*, *visarga*). **pṛtanyum** (*pṛtanām ātmana icchati iti pṛtanyuḥ*; *kyac* by *supa ātmanaḥ kyac* — Pā. 3-1-8; in the Ṛgveda the final letter of *kavi*, *adhvara*, *pṛtanā* is dropped before *kyac* by *kavyadhvarapṛtanasyarci lopaḥ* — Pā. 7-4-39 [?]; *kyāc chandasi* — क्याच्छन्दसि — Pā. 3-2-170 gives the suffix *u* after a *kya*-ending word in the Veda; loss of *a* by *ātolopaḥ*). Rik 12 ends here (*|| 12 ||*).
+
+### Rik 33.13 (pp. 55–58, PDF 69–72)
+
+**Saṃhitā-pāṭha** *(pp. 55–56; accents not reproduced; the last word is divided across two lines in the print)*
+
+> **अभि सिध्मो अजिगादस्य शत्रून्वि तिग्मेन वृषभेणा पुरोऽभेत् ।**
+> **सं वज्रेणासृजद्वृत्रमिन्द्रः प्र स्वां मतिमतिरच्छाशदानः ॥ १३ ॥**
+
+*abhi sidhmo ajigād asya śatrūn vi tigmena vṛṣabheṇā puro 'bhet |*
+*saṃ vajreṇāsṛjad vṛtram indraḥ pra svāṃ matim atirac chāśadānaḥ || 13 ||*
+
+**Pada-pāṭha** *(p. 56)*
+
+> अभि । सिध्मः । अजिगात् । अस्य । शत्रून् । वि । तिग्मेन । वृषभेण । पुरः । अभेत् ॥
+> सम् । वज्रेण । असृजत् । वृत्रम् । इन्द्रः । प्र । स्वाम् । मतिम् । अतिरत् । शाशदानः ॥ १३ ॥
+
+*abhi | sidhmaḥ | ajigāt | asya | śatrūn | vi | tigmena | vṛṣabheṇa | puraḥ | abhet ||*
+*sam | vajreṇa | asṛjat | vṛtram | indraḥ | pra | svām | matim | atirat | śāśadānaḥ || 13 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 56; the first half in full, the grammatical tail characterized)*
+
+> अस्येन्द्रस्य सिध्मः साधको वज्रः शत्रूनभि इन्द्रवैरिणोऽभिलक्ष्याजिगात् । गतवान् । जिगातिर्गतिकर्मा । गाति जिगातीति गतिकर्मसु पाठात् । स चेन्द्रस्तिग्मेन तीक्ष्णेन वृषभेण श्रेष्ठेनायुधेन तेन वज्रेण पुरो वृत्रस्य पुराणि व्यभेत् । विविधं भिन्नवान् । ततः स इन्द्रो वज्रेण स्वकीयेन वृत्रं समसृजत् । संयोजितवान् । संयोज्य च शाशदानो वृत्रं हिंसन् स्वां मतिं स्वकीयां हर्षोपेतां बुद्धिं प्रातिरत् । प्रकर्षेण वर्धितवान् ॥
+
+*asyendrasya sidhmaḥ sādhako vajraḥ śatrūn abhi indravairiṇo 'bhilakṣyājigāt | gatavān | jigātir gatikarmā | gāti jigātīti gatikarmasu pāṭhāt | sa cendras tigmena tīkṣṇena vṛṣabheṇa śreṣṭhenāyudhena tena vajreṇa puro vṛtrasya purāṇi vyabhet | vividhaṃ bhinnavān | tataḥ sa indro vajreṇa svakīyena vṛtraṃ samasṛjat | saṃyojitavān | saṃyojya ca śāśadāno vṛtraṃ hiṃsan svāṃ matiṃ svakīyāṃ harṣopetāṃ buddhiṃ prātirat | prakarṣeṇa vardhitavān ||*
+
+**Translation:** "This Indra's *sidhmaḥ* — effective, accomplishing — thunderbolt *ajigāt* — went [and struck] — *śatrūn abhi* — aiming at the enemies, Indra's foes. *Jigāti* is a verb of motion, because *gāti*, *jigāti* are read among the verbs of motion. And that Indra, with the *tigmena*, sharp, *vṛṣabheṇa*, excellent weapon, that thunderbolt, *puraḥ vi abhet* — broke up variously the cities of Vṛtra. Then that Indra *sam asṛjat* — joined — Vṛtra with his own vajra: having joined [them], *śāśadānaḥ* — destroying Vṛtra — he *pra atirat* — increased greatly — his own mind, his intelligence now full of joy."
+
+**Grammar within the bhāṣya** *(p. 56, characterized)*: *sidhmaḥ* (root *ṣidhu saṃrāddhau*; the Uṇādi suffix *mak*; *kit*-ness, so no *guṇa*; suffix accent); *ājigāt* (root *gā stutau*, here in the sense of motion; the *juhotyādi* *ślu*; doubling; shortening and *i* for the reduplicate by *bahulaṃ chandasi*); *tigmena* (the Uṇādi sūtra *yujirucitijāṃ kuś ca* [Uṇ. 1-[?]], suffix *mak*, *kutva*); *vṛṣabheṇa* (the Uṇādi sūtra *ṛṣivṛṣibhyāṃ kit* [Uṇ. 3-103 [?]], suffix *abhac*); *abhet* (root *bhidir vidāraṇe*; *śnam* expected but by *vyatyaya* *śap*, then elided by *bahulaṃ chandasi*; with *guṇa* of the penultimate, loss of the *t*'s ending per *halṅyābbhyaḥ*; or the *cli* is dropped in the *luṅ*); *ātirat* (root *tira* "to increase" with *pra*; or root *tṝ* with *śa* by *vyatyaya*; the *ī*-form [?]); *śāśadānaḥ* (root *śadḷ śātane*, the suffix *cānac* after a root in the *yaja*-class; the Vedic double-form *chandasy ubhayathā* makes it *ārdhadhātuka*, so the loss of *a* and of *y*; as *sārvadhātuka*, the first syllable is acute by *abhyastānām ādiḥ*).
+
+**Pratipadārtha** *(p. 57)* — "**asya** — of this Indra; **sidhmaḥ** — the thunderbolt, which accomplishes the work; **śatrūn abhi** — taking aim at the enemies; **ajigāt** — went and struck; **saḥ indraḥ** — that Indra; **tigmena** — with the sharp (and); **vṛṣabheṇa** — excellent thunderbolt-weapon; **puraḥ** — Vṛtra's cities; **vi abhet** — broke to pieces; **vajreṇa** — with the thunderbolt-weapon; **vṛtram** — Vṛtra; **sam asṛjat** — joined (struck); **śāśadānaḥ** — thus destroying (killing) Vṛtra; **svām matim** — his own intelligence, endowed with joy; **pra atirat** — made to grow (that is, became glad)."
+
+**Bhāvārtha** *(p. 57)* — "Indra's thunderbolt is exceedingly sharp, and excellent. For the destruction of enemies this alone is Indra's chief means; by using it he destroyed all enemies. By it he demolished all the cities of Vṛtra. He used it on Vṛtra, struck him and destroyed him. From the joy thus arising he gained self-satisfaction."
+
+**English Translation (the source's own, p. 57)** — "The weapon of Indra fell upon his adversaries; with his sharp and excellent bolt he destroyed their cities ; he then getting his thunderbolt slew him and was pleased with his success."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 57–58**
+- **sidhmaḥ** = *ṣidhu saṃrāddhau | sādhakaḥ*: "effective; serving as the means, in war, of destroying the enemies."
+- **ājigāt** = *gatavān | jigātir gatikarmā | gāti jigātīti gatikarmasu pāṭhāt*: "here *ājigāt* means 'went', 'struck' and the like. It is stated [in the list] that the root *jigāti* can have the sense of motion."
+- **tigmena** = *tīkṣṇena | tigmaṃ tejater utsāhakarmaṇaḥ* (Ni. 10-[?]): "bright; Yāska has given the sense of *tigma* as 'shining' or 'full of enthusiasm'. And since *tigma* is read among the eighteen names of the thunderbolt beginning with *nemi* (Ni. 2-11 [?]), *tigma* means thunderbolt." The source cites a ṛk:
+
+> आषाळ्हाय सहमानाय वेधसे तिग्मायुधाय भरता शृणोतु नः ॥ (ऋ. सं. ६-४६-१ [?])
+
+*āṣāḷhāya sahamānāya vedhase tigmāyudhāya bharatā śṛṇotu naḥ || (ṛ. saṃ. 6-46-1 [?])*
+
+"In this ṛk *tigma* indicates 'the thunderbolt weapon that glitters' (Ni. 10-[?]). In the ṛk now at hand there is the separate word *vajreṇa*, so *tigma* is given the sense 'thunderbolt' *[this sentence of the print is as I read it]*. The bhāṣyakāra gives the sense 'shining, sharp' and uses it as an attribute of the word *vajreṇa*." *(The source leaves the ṛk untranslated; mine, tentative: "Bring [praise] to him who is victorious, who overpowers, the ordainer, with the sharp weapon — let him hear us".)*
+- **vṛṣabheṇa** = *śreṣṭhena*: "Yāska says of *vṛṣabha*: '*vṛṣabhaḥ prajāṃ varṣatīti vātibṛhatīreta iti vā tad vṛṣakarmā varṣaṇād vṛṣabhaḥ*' (Ni. [?]) — "the *vṛṣabha* rains on the creatures, or [since these great ones go forth], a bull is named from showering" — thus giving the sense of rain-causing; but here the bhāṣyakāra gives the sense used in modern Sanskrit, 'best'." *(Translation of the Nirukta quotation mine and tentative; the Sanskrit is as read.)*
+- **puraḥ** = *vṛtrasya purāṇi*: "Vṛtra's cities."
+- **vajreṇa sam asṛjat**: "he used the thunderbolt and struck — such is the sense."
+- **matiṃ pra atirat**: "increased his intellect especially; that is, he rejoiced. Because he destroyed the enemy, Indra's mind was delighted — such is the sense."
+- **śāśadānaḥ** = *śadḷ śātane | vṛtraṃ hiṃsan*: "one who injures or destroys Vṛtra."
+
+**Vyākaraṇa-prakriyā** *(p. 58, grammar page — noted briefly)*: **sidhmaḥ** (*ṣidhu saṃrāddhau*, a *divādi* root; the Uṇādi suffix *mak*; *ṣ* → *s*; no *laghūpadha-guṇa* since the suffix is *kit*; the suffix accent). **ājigāt** (root *gā stutau*, which is listed in the *juhotyādi* group in the sense of praise, but since roots have several senses it here conveys "going"; *laṅ*, *tip*, loss of the *i*, *śap*, *ślu* by *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — Pā. 2-4-75; doubling by *ślau* — Pā. 6-1-10; shortening of the reduplicate by *hrasvaḥ*, *g* → *j* by *kuhoś cuḥ*; and the rule *bhṛñāmit* — भृञामित् — Pā. 7-4-76 [as printed], which the print says is extended by *bahulaṃ chandasi* — Pā. 7-4-78 — to give the reduplicate *i*; the augment *aṭ*: *ājigāt*).
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 54 (PDF 68) reached; Riks 33.1–33.11 complete; Rik 33.12 written through the middle of its grammar page (*dṛḷhā*, p. 54).**
+---
 
-**Next task:** continue at printed p. 55 (PDF 69): the rest of Rik 12's grammar, then Riks 13–15. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 69 -l 84 Rig_Vol4.pdf /tmp/v`.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 58 (PDF 72) reached; Riks 33.1–33.12 complete; Rik 33.13 written through its grammar (*sidhmaḥ*, *ājigāt*; the grammar of *tigmena* etc. may follow on p. 59).**
 
-**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda/Nirukta reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4), the six *navagva* half-verses (Rik 6) and the five *sadhrīcīna* half-verses (Rik 11) are mine, not the source's. (5) A few doubtful words in the bhāṣya of Riks 6–7 (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation, "*vināśya [?]*"). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
+**Next task:** continue at printed p. 59 (PDF 73): the rest of Rik 13's grammar (check where it ends), then Riks 14–15. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 73 -l 84 Rig_Vol4.pdf /tmp/v`.
+
+**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda/Nirukta reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4), the six *navagva* half-verses (Rik 6), the five *sadhrīcīna* half-verses (Rik 11) and the *āṣāḷhāya* ṛk (Rik 13) are mine, not the source's. (5) A few doubtful words in the bhāṣya of Riks 6–7 and 13. (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
