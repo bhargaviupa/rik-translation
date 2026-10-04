@@ -1,26 +1,36 @@
-# Rigveda Samhita Translation — Volumes 1–3 (Volume 3 in progress)
+# Rigveda Samhita Translation — Volumes 1–4 (Volume 4 in progress)
 
 Translating a 1949 Kannada commentary on the Rigveda (Sayana's Sanskrit bhashya + Kannada
 explanation by H. P. Venkata Rao) into English. Volume 1 (complete — `Rigveda_Samhita_Vol1_English_Translation.md`) covered the
 front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete — `Rigveda_Samhita_Vol2_English_Translation.md`) covered Suktas 3–19
-(the First Adhyaya of the First Ashtaka). **Volume 3** covers Mandala 1, **Suktas 20–32** (the Second Adhyaya of the First Ashtaka).
+(the First Adhyaya of the First Ashtaka); Volume 3 (complete — `Rigveda_Samhita_Vol3_English_Translation.md`) covered Suktas 20–32
+(the Second Adhyaya). **Volume 4** covers Mandala 1, **Suktas 33–46** (the Third Adhyaya of the First Ashtaka).
 
-**Current source file:** `Rig_Vol3.pdf` (663 pages, scanned; contents list in the header of the output file).
-**Current output file:** `Rigveda_Samhita_Vol3_English_Translation.md` — append-only; never rewrite earlier sections.
-Volumes 1–2 files are closed; do not edit them.
+**Current source file:** `Rig_Vol4.pdf` (622 pages, scanned; contents table in the header of the output file).
+**Current output file:** `Rigveda_Samhita_Vol4_English_Translation.md` — append-only; never rewrite earlier sections.
+Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 3 translation is COMPLETE: Sūktas 20–32 are all translated, through the last leaf (printed p. 648 = PDF 663).** Actual sūkta start pages: 30 p.458; 31 p.517; 32 p.587 (earlier guesses in older notes were wrong). Provisional items to re-check at a higher resolution: Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), the Sūkta 29 Rik 7 bhāṣya wording (p. 455), the dense Brāhmaṇa quotations in Sūkta 30 Riks 16–20, the Ṛg-Saṃhitā/Nirukta citations in Sūkta 31's Special Topics, and Sūkta 32's *trikadruka* citations and Rik 14 Brāhmaṇa quotations. One process error is corrected in the file (Sūkta 32 Rik 6 grammar written before viewing pp. 610–611): **never write any part of a note from a page not yet viewed.**
-**Next task: none for Volume 3 except optional clean-up** (fix the contents table in the md header; known-limitations appendix; expert review). When the user supplies the next volume, follow "Starting the next volume" below.
-The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
+**Volume 4: Sūkta 33 is COMPLETE (printed pp. 1–70 = PDF 15–84).** **Next task: Sūkta 34** (*triś cin no adya*, 12 Riks), printed p. 71 = PDF 85,
+running to about printed p. 130 (PDF 144). One session per sūkta; read the last ~40 lines of the output file first.
+The user asked in this session to stop at the end of the first sūkta; for later sessions follow whatever stopping point the user gives.
+The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
-**PDF-to-printed-page offset (Volume 3): printed page = PDF page − 15.** (Same as Volume 2.) The first printed page is PDF page 16, the heading
-page of Sūkta 20.
+**PDF-to-printed-page offset (Volume 4): printed page = PDF page − 14.** (Volumes 2–3: − 15.) Printed p. 1 is PDF 15 (title of the Third Adhyāya
+and Sāyaṇa's introduction); the heading of Sūkta 33 is on printed p. 2 (PDF 16). Page headers are as before ("Maṇḍala 1, Aṣṭaka 1, Adhyāya 3, Varga N").
+Re-check the offset at the start of the next volume rather than assuming it.
 
-## Starting the next volume (Volume 3 and later)
+**Lessons from Sūkta 33 (add to the working habits):** (a) the Pada-pāṭha is printed *after* the Saṃhitā on the next page: do not write a reading note on
+word-division under the Saṃhitā until the Pada has been viewed; (b) never supply sūtra numbers from memory: give a number only where it was read in the
+print, mark the rest [?]; (c) the bhāṣya's own grammatical tail (after the main sense) and the separate Vyākaraṇa-prakriyā pages are both characterized, not
+transcribed; (d) a small helper that strips the single trailing "Progress note" and appends a section, run with the section and note as files, worked well
+(strip only within the last ~6000 characters; assert exactly one note afterwards); (e) Ṛgveda citations in the Special Topics are left untranslated by
+the source: transcribe in three layers, give a short gloss labelled "mine and tentative", mark every reference numeral [?].
 
-Volumes 1–2 are closed. When the user supplies the next volume (after Volume 3)'s PDF:
+## Starting the next volume (Volume 5 and later)
+
+Volumes 1–3 are closed. When the user supplies the next volume (after Volume 4)'s PDF:
 
 1. **Confirm the basics first, before translating:** the PDF filename, its page count, the PDF-to-printed-page offset (view the first
    pages: title page, preface, contents), and which sūktas/maṇḍala it covers (from its own table of contents). Then replace
