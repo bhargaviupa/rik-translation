@@ -4942,10 +4942,124 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+**Rik 38.7, continued** *(from p. 311; the Saṃhitā and Pada are above)*
+
+**Sāyaṇa-bhāṣya** *(p. 311)*
+
+> **धन्वन् चित् मरुदेशेऽपि रुद्रियासो रुद्रेण पालितत्वात्तदीया मरुत आ सर्वतोऽवाताम् वायुरहितां मिहं वृष्टिं कुर्वन्ति । तदेतत्सत्यं । कीदृशा रुद्रियासः । त्वेषा दीप्ता अमवन्तो बलवन्तः । मरुतां रुद्रपालनमाख्यानेषु प्रसिद्धं ॥**
+
+*dhanvan cit marudeśe 'pi rudriyāso rudreṇa pālitatvāt tadīyā maruta ā sarvato 'vātām vāyurahitāṃ miham vṛṣṭiṃ kurvanti | tad etat satyaṃ | kīdṛśā rudriyāsaḥ | tveṣā dīptā amavanto balavantaḥ | marutāṃ rudrapālanam ākhyāneṣu prasiddhaṃ ||*
+
+**Translation:** "*Dhanvan cit* — even in a desert region — the *rudriyāsaḥ*, the Maruts who belong to Rudra because they are protected by Rudra, *ā* — all round — *avātām*, free from wind, *miham*, rain, they make. That is the truth (*satyam*). What are the *rudriyāsaḥ* like? *Tveṣāḥ* — shining; *amavantaḥ* — strong. That the Maruts are protected by Rudra is famed in the narratives."
+
+> **धन्वन् । रिवि रवि धवि गत्यर्थाः । इदित्त्वान्नुम् । कनिन्युवृषितक्षीत्यादिना कनिन् । नित्त्वादाद्युदात्तत्वं । सुपां सुलुगिति सप्तम्या लुक् । रुद्रियासः । रुद्रस्येमे रुद्रियाः । तस्येदमित्यर्थे घः । आज्जसेरसुक् । मिहं । मिह सेचने । क्विप्चेति क्विप् । कृण्वन्ति । कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योररच । इत्यप्रत्ययः । तत्सन्नियोगेन वकारस्य चाकारादेशः [?] । अतो लोपेन लुप्तस्य स्थानिवद्भावाल्लघूपधगुणाभावः ॥**
+
+*dhanvan | rivi ravi dhavi gatyarthāḥ | iditvān num | kanin-yuvṛṣitakṣī ty ādinā kanin | nittvād ādyudāttatvaṃ | supāṃ sulug iti saptamyā luk | rudriyāsaḥ | rudrasyeme rudriyāḥ | tasyedam ity arthe ghaḥ | ājjaser asuk | miham | miha secane | kvip ceti kvip | kṛṇvanti | kṛvi hiṃsākaraṇayoś ca | dhinvikṛṇvyor a ca | ity apratyayaḥ | tatsanniyogena vakārasya cākārādeśaḥ [?] | ato lopena luptasya sthānivadbhāvāl laghūpadhaguṇābhāvaḥ ||*
+
+**Translation of the grammatical tail** *(characterized; the clause marked [?] is as I read it)*: *Dhanvan* — the roots *rivi*, *ravi*, *dhavi* are in the sense of going; because of the indicatory *i* the augment *num*; the suffix *kanin* by the Uṇādi rule beginning *kanin-yuvṛṣitakṣi-…*; since the suffix is *nit* the final syllable is acute; the locative ending elided by *supāṃ sulug…*. *Rudriyāsaḥ* — "these belong to Rudra": the suffix *gha* in the sense "this is his" (*tasyedam*); the augment *asuk* of *jas* by *ājjaser asuk*. *Miham* — root *miha secane*; *kvip* by *kvip ca*. *Kṛṇvanti* — root *kṛvi* in the senses of injuring and making; by *dhinvikṛṇvyor a ca* the suffix *a* [*u*]; in connection with it a substitution at the *va* [?]; because the *a* is lost, and what is lost counts as still present, there is no *guṇa* of the light penultimate vowel.
+
+**Pratipadārtha** *(p. 311)* — "**tveṣāḥ** — brilliant ones; **amavantaḥ** — mighty ones; **rudriyāsaḥ** — the Maruts, who belong to Rudra, because they are cherished by Rudra; **dhanvan cit** — even in the desert; **ā** — all round; **avātām** — without wind; **miham** — rain; **kṛṇvanti** — they pour down; **satyam** — (this is) certain."
+
+**Bhāvārtha** *(p. 311)* — "The brilliant and mighty sons of Rudra, that is, the Marut-deities, pour down rain without wind, even in the desert. This is true."
+
+**English Translation (the source's own, p. 311)** — "The brilliant and mighty Maruts, cherished by Rudra send down rain without wind ( even ) upon the desert."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 311–312**
+- **dhanvan cit** = *marudeśe 'pi* — "a desert in which no rain falls." "On the word *dhanvan* Yāska has said '*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*' (Ni. 5-5 as read [?]): *dhanva* means the atmosphere; because rain falls through the atmosphere. The commentator [Sāyaṇa] explains it as *desert*."
+- **rudriyāsaḥ** = *rudrasya ime rudrapālitāḥ* — "'the Maruts are cherished by Rudra'; and in several passages they are described as the sons of Rudra. These two ṛks support the point:
+  (1) **प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।** (Ṛg. 1-64-2, as read [?]) — *pra ye śumbhante janayo na saptayo yāman rudrasya sūnavaḥ sudaṃsasaḥ* — mine and tentative: "who adorn themselves on their going, like women, like horses, the sons of Rudra, skilful in deed";
+  (2) **इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनम् ।** (Ṛg. 1-114-6, as read [?]) — *idaṃ pitre marutām ucyate vacaḥ svādoḥ svādīyo rudrāya vardhanam* — mine and tentative: "this word is spoken to the father of the Maruts, sweeter than the sweet, a strengthening for Rudra.""
+- **miham** = *secanam* — "rain, the rainfall."
+- **avātām** = *vāyurahitām* — "even though the wind does not help; the intention of the use of this word here is not clear." *(The doubt is the Kannada author's.)*
+
+**Vyākaraṇa-prakriyā** *(pp. 312–313 — grammar pages, characterized; the print is crowded)*
+- **dhanvan**: *rivi ravi dhavi gatyarthāḥ*; *idito num dhātoḥ* — इदितो नुम् धातोः — [Pā. 7-1-58 as read [?]]: *num* after the last vowel of a root with indicatory *i*; only the *n* remains: *dhanv*; *kanin-yuvṛṣitakṣirājidhanvidyupratidivaḥ* — [Uṇ. 1-156 as read [?]]: *kanin* after these roots, of which *an* remains; *dhanv + an*; the suffix is *nit*, so the last syllable is acute; *supāṃ sulug* for the locative.
+- **rudriyāsaḥ**: *rudrasya ime rudriyāḥ*; the suffix *gha* in the sense *tasyedam* — तस्येदम् — [Pā. 4-3-120 as read [?]]; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* — आयनेयीनीयियः फढखछघां प्रत्ययादीनाम् — [Pā. 7-1-2] gives *iya* for *gha*; *yasyeti ca* the loss of the *a*; *jas* with the augment *asuk*.
+- **miham**: *miha secane*; *kvip* by *kvip ca*; accusative singular.
+- **kṛṇvanti**: *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, *jhi*; by *jho 'ntaḥ* [Pā. 7-1-3 as read [?]] the substitute *ant*; *num* from the indicatory *i*; *kṛṇv + anti*; *dhinvikṛṇvyor a ca* — धिन्विकृण्व्योर च — [Pā. 3-1-80 as read [?]]: in the Vedic words *dhinv-*, *kṛṇv-* the suffix *u* and an *a* at their end; the print then argues at length about whether *guṇa* of the *u* is barred: *ato lopaḥ* [Pā. 6-4-48 as read [?]] removes the *a*; *pugantalaghūpadhasya ca* — पुगन्तलघूपधस्य च — [Pā. 7-3-86 as read [?]] would give *guṇa* to a light penultimate; the lost *a* counts as present by *acaḥ parasmin pūrvavidhau* [Pā. 1-1-57 as read [?]]; by *yena nāvyavadhānaṃ tena vyavahite 'pi* [paribhāṣā] a gap of one letter would not prevent *laghūpadha-guṇa*, but a gap of two letters does, so no *guṇa* here; *sārvadhātukam apit* makes *anti ṅit*; *kṅiti ca* — क्ङिति च — [Pā. 1-1-5] prohibits *guṇa* of the *u*; *kṛnu + anti*; *iko yaṇaci* — इको यणचि — [Pā. 6-1-77] gives the *yaṇ*: *v*; *kṛṇvanti*; the *ṇ* by the vārttika *ṛvarṇān nasya ṇatvaṃ vācyam* — ऋवर्णान्नस्य णत्वं वाच्यम्. Rik 7 ends here (*|| 7 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–37 COMPLETE; Sūkta 38 in progress: printed p. 310 (PDF 324) reached; Riks 38.1–38.6 complete; Rik 38.7's Saṃhitā and Pada written (its bhāṣya begins on p. 311).**
+### Rik 38.8 (pp. 313–316, PDF 327–330)
 
-**Next task:** continue at printed p. 311 (PDF 325) with the bhāṣya of Rik 38.7, then Riks 8–15 and the close of Sūkta 38 (to about p. 338), then STOP at the end of Sūkta 38 unless told otherwise; Sūkta 39 (*pra yad itthā*) begins about p. 339 (check). Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–352); re-render if lost: `pdftoppm -jpeg -r 150 -f 325 -l 352 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 313 foot; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38 so far: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1's bhāṣya: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in both Saṃhitā and Pada (possibly a mis-set *ṣu* or a pluti mark; unresolved); the bhāṣya spelling *tannādīnām* against the grammar page's *tanvādīnām*; (5) Rik 2: a misprinted heading *bhāvārtha* over the Pada, and *tabādeśaḥ* in the bhāṣya against *tap* on the grammar page; (6) every Pāṇini / Kāśikā / Uṇādi / Taittirīya / Nirukta / Ṛgveda number is "as read [?]"; (7) the long grammar entries of Rik 4 (*pṛśnimātaraḥ*) and Rik 6 (*vadhīt*, *padīṣṭa*, pp. 308–310) are characterized in outline from very crowded print and may contain slips; the *Kaumudī* quotation on p. 308 and the remark about *pakṣīṣṭa* on p. 310 are not reproduced or understood; (8) in Rik 5 the root *jṝṣ* is printed with a doubtful vowel; (9) Rik 6's English prints "him" for Nirṛti.
+> **वाश्रेव विद्युन्मिमाति वत्सं न माता सिषक्ति ।**
+> **यदेषां वृष्टिरसर्जि ॥ ८ ॥**
+
+*vāśreva vidyun mimāti vatsaṃ na mātā siṣakti |*
+*yad eṣāṃ vṛṣṭir asarji || 8 ||*
+
+**Pada-pāṭha** *(p. 314)*
+
+> वाश्रा-इव । वि-द्युत् । मिमाति । वत्सम् । न । माता । सिसक्ति [?] ।
+> यत् । एषाम् । वृष्टिः । असर्जि ॥ ८ ॥
+
+*vāśrā-iva | vi-dyut | mimāti | vatsam | na | mātā | sisakti [?] |*
+*yat | eṣām | vṛṣṭiḥ | asarji || 8 ||*
+
+*(The Saṃhitā and the bhāṣya print* siṣakti*; the Pada seems to print* sisakti *with* s*, which I cannot settle at 150 dpi and mark [?]. The Pada has* vāśrā *with a long final vowel, against* vāśra *in the compound with* iva*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 314)*
+
+> **कारीर्यां मारुतं सप्तकपालमित्यस्य हविषो वाश्रेव विद्युदित्येषानुवाक्या । वर्षकामेष्टिरिति खण्डे सूत्रितं । वाश्रेव विद्युन्मिमाति पर्वतेश्चिन्मह वृद्धो बिभाय । आ. २-१३ [?] । इति ॥ वाश्रेव शब्दयुक्ता प्रस्नुतस्तनवती [?] धेनुरिव विद्युन्मेघस्था दृश्यमाना सती मिमाति । शब्दं करोति । विद्युद्वेलायां हि मेघगर्जनं प्रसिद्धं । माता धेनुः वत्सं न वत्समिव सिषक्ति । इयं विद्युन्मरुतः सेवते । सिषक्तिः सेवनार्थः । सिषक्ति सचत इति सेवमानस्य । नि. ५-२१ [?] । इति यास्केनोक्तत्वात् । यद्यस्मात्कारणादेषां मरुतां सम्बन्धिनी वृष्टिरसर्जि गर्जनसहिते विद्युत्काले वृष्टा भवति । तस्माद्विद्युतो मरुत्सेवनमुपपन्नं ॥**
+
+*kārīryāṃ mārutaṃ saptakapālam ity asya haviṣo vāśreva vidyud ity eṣānuvākyā | varṣakāmeṣṭir iti khaṇḍe sūtritaṃ | vāśreva vidyun mimāti parvateś cin mahi vṛddho bibhāya | ā. 2-13 [?] | iti || vāśreva śabdayuktā prasnutastanavatī [?] dhenur iva vidyun meghasthā dṛśyamānā satī mimāti | śabdaṃ karoti | vidyudvelāyāṃ hi meghagarjanaṃ prasiddhaṃ | mātā dhenuḥ vatsaṃ na vatsam iva siṣakti | iyaṃ vidyun marutaḥ sevate | siṣaktiḥ sevanārthaḥ | siṣakti sacata iti sevamānasya | ni. 5-21 [?] | iti yāskenoktatvāt | yad yasmāt kāraṇād eṣāṃ marutāṃ sambandhinī vṛṣṭir asarji garjanasahite vidyutkāle vṛṣṭā bhavati | tasmād vidyuto marutsevanam upapannaṃ ||*
+
+**Translation:** "In the [rain-wishing] *kārīrī* [iṣṭi], for the offering '*a seven-potsherd cake for the Maruts*', the ṛk *vāśreva vidyut* is the *anuvākyā*. It is laid down in the section called *varṣakāmeṣṭi*: '*vāśreva vidyun mimāti*, [and] *parvataś cin mahi vṛddho bibhāya*' (Āś. 2-13 [?]). *Vāśreva* — like a cow that cries out [with overflowing breasts [?]] — the lightning, visible in the cloud, *mimāti*, makes a sound; for thunder in the cloud at the time of lightning is well known. *Mātā*, the mother, the cow, *vatsaṃ na*, as [she] a calf, *siṣakti*: this lightning serves the Maruts. *Siṣaktiḥ* has the sense of serving: '*siṣakti*, *sacate*, for one who serves' (Ni. 5-21 [?]), as Yāska has said. *Yad* — because *eṣām*, the rain that belongs to these Maruts, *asarji*, is let loose [= is poured] at the time of the lightning together with thundering. Therefore the service of the Maruts by the lightning is [shown to be] fitting."
+
+*(The print seems to have* prastuta° *for the word I give as* prasnuta°*; I read it so because the Kannada pratipadārtha says "with overflowing milk" [?].)*
+
+> **वाश्रेव । वाश्र शब्दे स्पायितञ्चीत्यादिना रक् । मिमाति । माङ्माने शब्दे च । व्यत्ययेन परस्मैपदं । जुहोत्यादित्वात् श्लुः । भृञामित् । पा. ७-४-७६ [?] । इत्यभ्यासस्येत्वं । सिषक्ति । षच समवाये । लटि बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसीत्यभ्यासस्येत्वं । असर्जि । सृज विसर्गे । कर्मणि लुङ् । चिण् भावकर्मणोः । पा. ३-१-६६ [?] । इति चिण् । चिणो लुक् । पा. ६-४-१०४ [?] । इति तशब्दस्य लुक् । गुणः । अडागम उदात्तः । यद्वृत्तयोगादनिघातः ॥**
+
+*vāśreva | vāśra śabde spāyitañcī ty ādinā rak | mimāti | māṅ māne śabde ca | vyatyayena parasmaipadaṃ | juhotyāditvāt śluḥ | bhṛñām it | pā. 7-4-76 [?] | ity abhyāsasyetvaṃ | siṣakti | ṣaca samavāye | laṭi bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasīty abhyāsasyetvaṃ | asarji | sṛja visarge | karmaṇi luṅ | ciṇ bhāvakarmaṇoḥ | pā. 3-1-66 [?] | iti ciṇ | ciṇo luk | pā. 6-4-104 [?] | iti taśabdasya luk | guṇaḥ | aḍāgama udāttaḥ | yadvṛttayogād anighātaḥ ||*
+
+**Translation of the grammatical tail** *(characterized; numerals as read [?])*: *Vāśreva* — root *vāśṛ śabde*; the suffix *rak* by the Uṇādi rule beginning *spāyi-tañci-…*. *Mimāti* — *māṅ māne śabde ca*; *parasmaipada* by *vyatyaya*; *ślu* [for *śap*] as the root is of the *juhotyādi* type; the *i* of the reduplicate by *bhṛñām it* [Pā. 7-4-76 [?]]. *Siṣakti* — root *ṣaca samavāye*; *śap* elided in the present by *bahulaṃ chandasi*; *i* in the reduplicate by *bahulaṃ chandasi*. *Asarji* — root *sṛja visarge*; *luṅ* in the passive; *ciṇ* by *ciṇ bhāvakarmaṇoḥ* [Pā. 3-1-66 [?]]; the *ta* lost by *ciṇo luk* [Pā. 6-4-104 [?]]; *guṇa*; the augment *aṭ* is acute; no *nighāta* because of the connection with *yat*.
+
+**Pratipadārtha** *(p. 314)* — "**vāśrā iva** — like a cow that cries out [from love of her calf] (and whose milk overflows); **vidyut** — the lightning (appearing in the midst of the cloud); **mimāti** — makes a sound; **mātā** — whichever cow, as a mother; **vatsaṃ na** — as one tends her calf; **siṣakti** — [the lightning] serves [the Maruts]; **yat** — for which reason (because the lightning serves the Maruts); **vṛṣṭiḥ** — rain; **asarji** — is let loose."
+
+**Bhāvārtha** *(p. 314)* — "As a cow lows lovingly for her calf and goes to make it suckle, so the lightning in the middle of the cloud thunders, and because of that the rain falls."
+
+**English Translation (the source's own, p. 315)** — "Like a parent cow that bellows for its calf, the lightning roars and hence the rain is set free by the Maruts."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 315**
+- "In the rain-wishing sacrifice called *Kārīrī*, when the seven-potsherd cake for the Marut deities is offered, this ṛk *vāśreva vidyut* is to be used as the *puro 'nuvākyā* mantra: so it is explained in the Āśvalāyana Śrauta-sūtra, in the section called *varṣakāmeṣṭi*, by the sūtra '*vāśreva vidyun mimāti* (Ṛg. 1-38-8) *parvataś cin mahi vṛddho bibhāya* (Ṛg. 5-60-3 [as read])'."
+- **vāśreva mātā vatsaṃ na** — "like a cow with sound: a cow going along calling for her calf. Here the cow, with her udder full of milk, goes lowing to her calf to make it suckle; just so, when the Marut-deities make a great sound of lightning in the middle of the cloud, they pour down the rain: this is the sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 315–316 — grammar pages, noted briefly)*
+- **vāśreva**: *vāśṛ śabde*, *divādi*; the Uṇādi sūtra beginning *spāyitañci-vañci-śaki-kṣipi-kṣudi-sṛpi-tṛpi-dṛpi-vasu-…* [a long list of roots; the print counts them, the number not read [?]; Uṇ. 2-170 as read [?]]: after these roots *rak*; *ṭāp*; *savarṇadīrgha*; *vāśrā iva* = *vāśreva*, a compound with *iva*, always compounded.
+- **mimāti**: *māṅ māne śabde ca*; being *ñit* the *ātmanepada* is due by *anudāttañita ātmanepadam* — अनुदात्तङित आत्मनेपदम् — [Pā. 1-3-72 as read [?]]; here *parasmaipada* has come in its place; *laṭ*, *tip*; *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — [Pā. 2-4-75 as read [?]]: *śap* is elided; *ślau* — श्लौ — [Pā. 6-1-10 as read [?]] doubling; *mā-mā + ti*; *hrasvaḥ* shortens the reduplicate; *bhṛñām it* — भृञामित् — [Pā. 7-4-76 as read [?]]: by the plural, following the *kapiñjalādhikaraṇa* principle, the reduplicate of three roots beginning with *bhṛñ* (*bhṛñ*, *māṅ*, *ohāṅ*) takes *i*: hence the *a* of the first *m*-syllable becomes *i*: *mimāti*.
+- **siṣakti**: *ṣaca samavāye*; *laṭ*, *tip*; *bahulaṃ chandasi* [Pā. 2-4-73 as read [?]] *śap* → *ślu*; doubling *sac + sac + ti*, the *c* of the reduplicate lost; *bahulaṃ chandasi* [Pā. 7-4-78 as read [?]] *i* in the reduplicate: *sisac + ti*; *coḥ kuḥ* — चोः कुः — [Pā. 8-2-30 as read [?]] *c* → *k*: *sisak + ti*; *dhātvādeḥ ṣaḥ saḥ* [Pā. 6-1-64] the *s*; *ādeśapratyayayoḥ* [Pā. 8-3-59 as read [?]] *ṣ* for the *s* after *i*: *siṣakti*.
+- **asarji**: *sṛja visarge*; *luṅ* with the sense of the passive; *bhāvakarmaṇoḥ* — भावकर्मणोः — [Pā. 1-3-13 as read [?]] *ātmanepada*; *luṅ* + *ta*; *cli luṅi* [Pā. 3-1-43 as read [?]] *cli*; *ciṇ bhāvakarmaṇoḥ* [Pā. 3-1-66 as read [?]] *ciṇ* for *cli*, of which only *i* remains; *sṛj + i + ta*; *ciṇo luk* — चिणो लुक् — [Pā. 6-4-104 as read [?]] *ta* elided; *pugantalaghūpadhasya ca* [Pā. 7-3-86 as read [?]] *guṇa*: *sarj + i*; *luṅlaṅlṛṅkṣv aḍudāttaḥ* — लुङ्लङ्लृङ्क्ष्वडुदात्तः — [Pā. 6-4-71 as read [?]] the acute augment *aṭ* at the beginning: *asarji*; *yadvṛttān nityam* — यद्वृत्तान्नित्यम् — [Pā. 8-1-66 as read [?]] prevents the verb from being unaccented. Rik 8 ends here (*|| 8 ||*).
+
+---
+
+### Rik 38.9 (pp. 316–, PDF 330–)
+
+**Saṃhitā-pāṭha** *(p. 316; accents not reproduced)*
+
+> **दिवा चित्तमः कृण्वन्ति पर्जन्येनोदवाहेन ।**
+> **यत्पृथिवीं व्युन्दन्ति ॥ ९ ॥**
+
+*divā cit tamaḥ kṛṇvanti parjanyenodavāhena |*
+*yat pṛthivīṃ vyundanti || 9 ||*
+
+**Pada-pāṭha** *(p. 316)*
+
+> दिवा । चित् । तमः । कृण्वन्ति । पर्जन्येन । उद-वाहेन ।
+> यत् । पृथिवीम् । वि-उन्दन्ति ॥ ९ ॥
+
+*divā | cit | tamaḥ | kṛṇvanti | parjanyena | uda-vāhena |*
+*yat | pṛthivīm | vi-undanti || 9 ||*
+
+*(The bhāṣya of Rik 9 begins on p. 317, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–37 COMPLETE; Sūkta 38 in progress: printed p. 316 (PDF 330) reached; Riks 38.1–38.8 complete; Rik 38.9's Saṃhitā and Pada written (its bhāṣya begins on p. 317).**
+
+**Next task:** continue at printed p. 317 (PDF 331) with the bhāṣya of Rik 38.9, then Riks 10–15 and the close of Sūkta 38 (to about p. 338), then STOP at the end of Sūkta 38 unless told otherwise; Sūkta 39 (*pra yad itthā*) begins about p. 339 (check). Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–352); re-render if lost: `pdftoppm -jpeg -r 150 -f 331 -l 352 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38 so far: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1's bhāṣya: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in both Saṃhitā and Pada (possibly a mis-set *ṣu* or a pluti mark; unresolved); the bhāṣya spelling *tannādīnām* against the grammar page's *tanvādīnām*; (5) Rik 2: a misprinted heading *bhāvārtha* over the Pada, and *tabādeśaḥ* in the bhāṣya against *tap* on the grammar page; (6) every Pāṇini / Kāśikā / Uṇādi / Taittirīya / Nirukta / Ṛgveda number is "as read [?]"; (7) the long grammar entries of Rik 4 (*pṛśnimātaraḥ*), Rik 6 (*vadhīt*, *padīṣṭa*) and Rik 7 (*kṛṇvanti*) are characterized in outline from very crowded print and may contain slips; the *Kaumudī* quotation on p. 308 and the *pakṣīṣṭa* remark on p. 310 are not reproduced or understood; (8) Rik 5: the root *jṝṣ* is printed with a doubtful vowel; (9) Rik 6's English prints "him" for Nirṛti; (10) Rik 7: the clause on the substitution at the *va* of *kṛṇvanti* is doubtful, and the two Ṛgveda quotations in the Special Topics are glossed by me, tentatively, with reference numerals as read [?]; (11) Rik 8: the Pada's *sisakti* (s or ṣ?) is unsettled, and *prastuta°*/*prasnuta°* in the bhāṣya is my reading.
