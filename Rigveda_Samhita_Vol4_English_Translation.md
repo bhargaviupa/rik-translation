@@ -3084,12 +3084,175 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 36.10 (continued) — Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 211–214, PDF 225–228)
+
+**Pada-pāṭha, concluded** *(pp. 210–211; the first line was given at the foot of p. 210)*
+
+> यम् । कण्वः । मेध्यऽअतिथिः । धनऽस्पृतम् । यम् । वृषा । यम् । उपऽस्तुतः ॥ १० ॥
+
+*yam | kaṇvaḥ | medhya-atithiḥ | dhana-spṛtam | yam | vṛṣā | yam | upa-stutaḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 211; the first half in full, the grammatical tail characterized)*
+
+> हे हव्यवाहन हविषो वाहकाग्ने मनवे मनोरनुग्रहाय देवासः सर्वे देवा यजिष्ठमतिशयेन पूज्यं यष्टृतमं वा यं त्वामिह देवयजनदेशे दधुः । धृतवन्तः । मेध्यातिथिर्मेधार्हैरतिथिभिर्युक्तः कण्व एतन्नामको महर्षिर्यं त्वां धनस्पृतं धनेन प्रीणयितारं कृत्वा दध इति शेषः ॥ तथा वृषेन्द्रो यं त्वां दधे । तथोपस्तुतोऽन्योऽपि स्तोता यजमानो यं त्वां दधे । स त्वं सं सीदस्वेति पूर्वत्रान्वयः ॥
+
+*he havyavāhana haviṣo vāhakāgne manave manor anugrahāya devāsaḥ sarve devā yajiṣṭham atiśayena pūjyaṃ yaṣṭṛtamaṃ vā yaṃ tvām iha devayajanadeśe dadhuḥ | dhṛtavantaḥ | medhyātithir medhārhair atithibhir yuktaḥ kaṇva etannāmako maharṣir yaṃ tvāṃ dhanaspṛtaṃ dhanena prīṇayitāraṃ kṛtvā dadha iti śeṣaḥ || tathā vṛṣendro yaṃ tvāṃ dadhe | tathopastuto 'nyo 'pi stotā yajamāno yaṃ tvāṃ dadhe | sa tvaṃ saṃ sīdasveti pūrvatrānvayaḥ ||*
+
+**Translation:** "O *havyavāhana* — Agni, the bearer of the oblation — for the favour of Manu, *devāsaḥ* — all the gods — *dadhuḥ*, set [established] you, *yajiṣṭham* — the most worthy of worship, or the best of sacrificers — *iha*, here, at the place of the divine sacrifice. *Medhyātithiḥ* — joined with guests worthy of the sacrifice — Kaṇva, the great ṛṣi so named, *dadhe* — established you, *yam*, whom, having made [you] *dhanaspṛtam*, the one who gratifies [him] with wealth. So also Vṛṣan [Indra] established you; and also another praiser, a sacrificer, *upastutaḥ*, established you. That you — the connection with the foregoing ('*saṃ sīdasva*': sit down)."
+
+**Grammar within the bhāṣya** *(p. 211, characterized)*: *dadhuḥ* (*dhā*, *liṭ*, *jhi* → *us*, doubling, shortening, *asaṃyogāl liṭ kit*, *ātolopa iṭi ca*; the suffix accent); *yajiṣṭham* (*yaṣṭṛ* + *iṣṭhan*; the loss of *tṛc* by *turiṣṭhemeyaḥsu*; first-syllable acute by the *nit* accent); *havyavāhana* (*havyaṃ vahati*, *havyavāhanaḥ*; *havye 'nantaḥpādam* — *ṇyuṭ* after *vah* with *havya* in the same pāda; *ana* for *yu*, *upadhā-vṛddhi*); *medhyātithiḥ* (*medhyā atithayo yasya*, a bahuvrīhi, first-member accent); *dhanaspṛtam* (*dhanair asmān spṛṇoti*, *spṛ prītibalayoḥ*, *kvip*, *tuk*; later member of a *kṛt*-compound keeps its accent); *upastutaḥ* (*ṣṭuñ stutau*, *ktic* in the sense of agent [*ktic ktau ca saṃjñāyām*], final-acute).
+
+**Pratipadārtha** *(p. 211)* — "**havyavāhana** — [O Agni] who carries the oblations to the gods; **manave** — for the sake of Manu (to favour him); **devāsaḥ** — all the gods; **yajiṣṭham** — [you who are] most worthy of worship, or most excellent among sacrificers; **yam tvā** — whom you; **iha** — in this sacrificial ground; **dadhuḥ** — established, with earnestness; **medhyātithiḥ** — he who has worthy guests; **kaṇvaḥ** — the ṛṣi named Kaṇva (or Medhyātithi, a ṛṣi of the Kaṇva line); **yam** — whom you; **dhanaspṛtam** — as the one who gratifies with the gift of wealth; **dadhe** — established; **vṛṣā** — Indra; **yam** — whom you; **dadhe** — established; **upastutaḥ** — another worshipper; **yam** — whom you [being established, such a you]; **sīdasva** — be seated."
+
+**Bhāvārtha** *(p. 212)* — "O Agni, you carry the oblations to all the gods and so are a benefit to all. For that very reason all the gods established you at the sacrificial ground, for the favour of Manu. The sage Kaṇva, to treat his guests with hospitality, begged and established you, who are exceedingly worthy of worship. You give satisfaction by the gift of wealth to him and to others too. Indra, and the other devotees as well, established you, seeking your favour. Be seated at the sacrificial ground to favour us too."
+
+**English Translation (the source's own, p. 212)** — "O bearer of oblations, the gods have established you here as the best sacrificer for the sake of Manu ; you› whom Kanwa, host of pious guests has established ; whom, giver of wealth, Indra has detained ; whom some other worshipper has detained·" *(Printed so: the "you›" has a stray mark, and "detained" stands where "established" is meant; the print ends with a raised dot.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 212–213**
+- **manave** — "for the sake of Manu, that is, Manu the Prajāpati; Manu is held to be the first progenitor of men. People descended from Manu or of Manu's line are called *mānava*, or *manuṣya*. So *manave* may be taken as a generic singular, 'for the sake of men'."
+- **devāso dadhur iha** = *devā iha devayajanadeśe dhṛtavantaḥ*: "the gods established you (Agni) at the sacrificial altar."
+- **yajiṣṭham** = *atiśayena pūjyam*, *yaṣṭṛtamam*: "most worthy of worship, or the foremost among sacrificers — among those who carry the gods' share of the sacrifice."
+- **havyavāhana** = *havyaṃ vahatīti havyavāhanaḥ*: "he who carries to the gods the oblations offered by the sacrificers."
+- **kaṇvo medhyātithiḥ** = *medhyā atithayo yasya sa medhyātithiḥ*: "Kaṇva the ṛṣi, joined with guests worthy of worship. Here *medhyātithi* is the name of a ṛṣi of Kaṇva's line, and the Kaṇva, son of Ghora, may be spoken of by that name. Rather than give an etymological sense to this word, it is right to say that *medhyātithi* is a ṛṣi of the Kaṇva line. This Medhyātithi is the ṛṣi of the ṛks [3–9 [?]] of the first sūkta of the 8th maṇḍala, of the 24 [?] ṛks of the 3rd [?] sūkta of the same maṇḍala, and of the 18 [?] ṛks of the 33rd [?] sūkta of the same maṇḍala — in all 20 [?] ṛks [the numerals of this entry are small and not secure]; he is a famous ṛṣi in the Kaṇva line. The word *medhyātithi* is used in this ṛk and the next with him in view."
+- **dhanaspṛtam** = *dhanair asmān spṛṇoti prīṇayatīti dhanaspṛt*: "one who pleases us by giving wealth."
+- **vṛṣā** — "the bhāṣyakāra explains the word *vṛṣā* here as Indra. Since he showers what is wished for, Indra may be called *vṛṣā*." The source then cites, as showing that *vṛṣā* signifies Indra, the following *(untranslated by the source; my sense, **mine and tentative**: "for the mighty one, O fierce one, they make [you] a bull far and near; the bull is renowned near by …; they are your bulls, the pressing-stones; the whip is a bull, golden …; the chariot is a bull, O Maghavan, the two bays are bulls, you are a bull, O Śatakratu; the pressing priest is a bull — let him press for you; O bull, bring the …; the bull has set the bull in the streams, for you, [O] lord of the bays". The first line is read with difficulty and the references are small, so all of this is tentative)*:
+
+> वृषा ह्युग्र कृण्विषे परावति वृषो अर्वावति श्रुतः [?] ।
+> वृषणस्ते अभीशवो वृषा कशा हिरण्ययी ।
+> वृषा रथो मघवन्वृषणा हरी वृषा त्वं शतक्रतो ।
+> वृषा सोता सुनोतु ते वृषन्नृजीपिन्ना भर ।
+> वृषा दधन्वे वृषणं नदीष्वा तुभ्यं स्थाता हरीणाम् ॥ (ऋ. सं. ८-३३-१० [?] ff., as printed "from 8-33-10 to 12" [?])
+
+*vṛṣā hy ugra kṛṇviṣe parāvati vṛṣo arvāvati śrutaḥ [?] | vṛṣaṇas te abhīśavo vṛṣā kaśā hiraṇyayī | vṛṣā ratho maghavan vṛṣaṇā harī vṛṣā tvaṃ śatakrato | vṛṣā sotā sunotu te vṛṣann ṛjīpinn ā bhara | vṛṣā dadhanve vṛṣaṇaṃ nadīṣv ā tubhyaṃ sthātā harīṇām || (ṛ. saṃ. 8-33-10 [?] ff.)*
+
+"In these ṛks the word *vṛṣā* indicates the sense 'Indra'." *(The ṛk text in the print is crowded; I give it as read, with [?] where a word is doubtful.)*
+- **upastutaḥ** = *anyo 'pi stotā*: "another person too who praises you: that is, the sacrificer and the rest who perform sacrifices."
+
+**Vyākaraṇa-prakriyā** *(pp. 213–214, PDF 227–228 — grammar pages, noted briefly)*
+- **dadhuḥ** (p. 213–214): root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, *jhi*; *parasmaipadānāṃ ṇalatusus…*: *jhi* → *us*; doubling, shortening, *jaś* [*dh* → *d*]: *dadhā + us*; *asaṃyogāl liṭ kit* — असंयोगाल्लिट्कित् — [Pā. 1-2-5]: *us* is *kit*; *ātolopa iṭi ca* — [Pā. 6-4-64]: the *ā* is lost before a *kit* or *ñit* vowel-initial *ārdhadhātuka* and before *iṭ*; the suffix-accent.
+- **yajiṣṭham**: root *yaja devapūjāyām*, *tṛc*; "the word *yaṣṭṛ* is not an adjective of quality (*guṇavacana*)"; *ajādī guṇavacanād eva* — [Pā. 5-3-58]: *iṣṭhan* and *īyasun* come only after a quality-word; yet *tuśchandasi* — तुश्छन्दसि — [Pā. 5-3-59, as read]: in the Veda *iṣṭhan* and *īyasun* come after bases ending in *tṛn* or *tṛc*, even when not quality-words, so *iṣṭhan* after *yaṣṭṛ* in the sense of excess; *turiṣṭhemeyaḥsu* — तुरिष्ठेमेयस्सु — [Pā. 6-4-154]: before *iṣṭhan*, *imanic*, *īyasun* the *tṛ* is lost: *yajiṣṭha*; first-syllable acute by the *nit* accent.
+- **havyavāhana**: *havyaṃ vahatīti havyavāhanaḥ*; *havye 'nantaḥpādam* — हव्येऽनन्तःपादम् — [Pā. 3-2-66]: the suffix *ṇyuṭ* after *vah* when *havya* is the *upapada* and is not inside the pāda [i.e. is at the end of a pāda]; *ana* for *yu*; *upadhā-vṛddhi*; the vocative, wholly unaccented.
+- **medhyātithiḥ**: *medhyāḥ* "pure", *atithayaḥ* "guests", *yasya saḥ*, a bahuvrīhi with the first-member accent.
+- **dhanaspṛtam**: *dhanair asmān spṛṇoti iti*; the root *spṛ prītibalayoḥ*, *svādi* [one reads *spṛ prītichalanayoḥ*, as the print notes]; *kvip ca*; *hrasvasya piti kṛti tuk* — [Pā. 6-1-71]: *tuk*; the later member keeps its natural accent.
+- **upastutaḥ**: *ṣṭuñ stutau*; *ktic ktau ca saṃjñāyām* — [Pā. 3-2-174, as read]: *kta* in the sense of agent; *thāthaghañktājabitrakāṇām* — [Pā. 6-2-144]: final-acute. Rik 10 ends here (*|| 10 ||*).
+
+### Rik 36.11 (pp. 215–217, PDF 229–231)
+
+**Saṃhitā-pāṭha** *(p. 215; accents not reproduced)*
+
+> **यमग्निं मेध्यातिथिः कण्व ईध ऋतादधि ।**
+> **तस्य प्रेषो दीदियुस्तमिमा ऋचस्तमग्निं वर्धयामसि ॥ ११ ॥**
+
+*yam agniṃ medhyātithiḥ kaṇva īdha ṛtād adhi |*
+*tasya preṣo dīdiyus tam imā ṛcas tam agniṃ vardhayāmasi || 11 ||*
+
+**Pada-pāṭha** *(p. 215)*
+
+> यम् । अग्निम् । मेध्यऽअतिथिः । कण्वः । ईधे । ऋतात् । अधि ॥
+> तस्य । प्र । इषः । दीदियुः । तम् । इमाः । ऋचः । तम् । अग्निम् । वर्धयामसि ॥ ११ ॥
+
+*yam | agnim | medhya-atithiḥ | kaṇvaḥ | īdhe | ṛtāt | adhi ||*
+*tasya | pra | iṣaḥ | dīdiyuḥ | tam | imāḥ | ṛcaḥ | tam | agnim | vardhayāmasi || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 215; the first half in full, the grammatical tail characterized)*
+
+> मेध्यातिथिर्यागयोग्या अतिथय ऋत्विग्रूपा यस्य [?] ताद्दृशः कण्व ऋषिर्ऋतादधि आदित्यादधिकं यमग्निमीधे दीप्तवान् तस्याग्नेरिषो गमनस्वभावा रश्मयः प्र दीदियुः । प्रकर्षेण दीप्यन्ते । तथा तमग्निमिमा अस्माभिः प्रयुज्यमाना ऋचो वर्धयन्तीति शेषः । वयमपि तमग्निं वर्धयामसि । स्तोत्रैर्वर्धयामः ॥
+
+*medhyātithir yāgayogyā atithaya ṛtvigrūpā yasya [?] tādṛśaḥ kaṇva ṛṣir ṛtād adhi ādityād adhikaṃ yam agnim īdhe dīptavān tasyāgner iṣo gamanasvabhāvā raśmayaḥ pra dīdiyuḥ | prakarṣeṇa dīpyante | tathā tam agnim imā asmābhiḥ prayujyamānā ṛco vardhayantīti śeṣaḥ | vayam api tam agniṃ vardhayāmasi | stotrair vardhayāmaḥ ||*
+
+*(The opening words of the bhāṣya are crowded; the first word is read "medhātithir…" and the sentence as given, with [?].)*
+
+**Translation:** "Kaṇva the ṛṣi, *medhyātithiḥ* — he whose guests, in the form of priests, are fit for the sacrifice — *ṛtāt adhi*, more than [the sun, *āditya*], *īdhe* — kindled — that Agni whom [he kindled]. *Tasya iṣaḥ* — that Agni's rays, whose nature is to move — *pra dīdiyuḥ*, shine forth greatly. And these ṛks, being recited by us, *tam agnim* — that Agni — [make] grow (to be supplied). We too, *vardhayāmasi*, make that Agni grow by [our] praises."
+
+**Grammar within the bhāṣya** *(p. 215, characterized)*: *īdhe* (*ñi-indhī dīptau*, *liṭ*, *kitvāt* the loss of the *n*; doubling and *halādiḥ śeṣaḥ*; *savarṇadīrgha*; suffix accent; no lowering because the relative *yam* is connected); *iṣaḥ* (*iṣa gatau*; the rays that "go away": *iṣyanti gacchanti*); *dīdiyuḥ* (*dīdī dīptau*, Vedic only; *liṭ*, *jhi* → *us*; *liṭy abhyasya… ij ādeśaḥ*: *iy* for *ī*; *ireṇekāco…*: the *yaṇ*-substitution does not arise in the Veda); *vardhayāmasi* (*idanto masiḥ* — the *i* augment for *masi*).
+
+**Pratipadārtha** *(p. 215–216)* — "**medhyātithiḥ** — he who has guests who are fit for the sacrifice, in the form of priests; **kaṇvaḥ** — the ṛṣi Kaṇva; **ṛtād adhi** — more than the Sun; **yam agnim** — which Agni; **īdhe** — kindled; **tasya** — of that Agni; **iṣaḥ** — the rays that have the nature of moving; **pra dīdiyuḥ** — have shone greatly; **tam** — that Agni; **imāḥ** — these; **ṛcaḥ** — ṛks [recited by us]; (**vardhayanti** — make [him] spread); **vayam api** — we also; **tam agnim** — that Agni; **vardhayāmasi** — cause to prosper."
+
+**Bhāvārtha** *(p. 216)* — "The sage Kaṇva was always famous for the entertainment of guests. The guests of this sage, worthy of worship and entitled to perform sacrifices, accept his hospitality in the form of priests of the sacrifice. With the help of such guests Kaṇva makes the sacrifice and makes Agni blaze more than the Sun. The rays of that Agni, which move in a deep, unfathomable course, shine with great brilliance. The ṛks we have recited cause that Agni to blossom forth. We, too, by performing sacrifices, cause that Agni deity to prosper."
+
+**English Translation (the source's own, p. 216)** — "The rays of that Agni whom Medhyatithi Kanwa made more brilliant than the sun, shine brightly ; we praise (extol) that same Agni by reciting hymns·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 216**
+- **ṛtāt** = *ādityāt*: "from the Sun; there is a Vedic statement '*ṛtenādityas tapati*' (Tai. Up. [?])."
+- **iṣaḥ** = *gamanasvabhāvā raśmayaḥ*: "rays whose nature is to move, to spread and pervade."
+- **imā ṛcaḥ** — "these ṛks that we are now reciting."
+- **agniṃ vardhayāmasi** = *agniṃ stotrair vardhayāmaḥ*: "we praise Agni with ṛks in the form of praises."
+
+**Vyākaraṇa-prakriyā** *(pp. 216–217, PDF 230–231 — grammar pages, noted briefly)*
+- **īdhe** (p. 216–217): root *ñi-indhī dīptau*; *liṭ*, *ta*; *liṭas tajhayor eśirec* — [Pā. 3-4-81]: *eś* [*e*] for *ta*, and *irec* for *jha*; *indhibhavatibhyāṃ ca* — इन्धिभवतिभ्यां च — [Pā. 1-2-6]: after *indh* and *bhū*, *liṭ* is *kit* even when not [otherwise] *kit*; "*indh* and *bhū*, because they are *guru*-vowelled; since the *liṭ* of a root with a heavy penultimate would not take *kit*, *kit*-ness is here taught; and *ijādeś ca gurumato 'nṛcchaḥ* — [Pā. 3-1-36]: *ām* for *liṭ* after a root beginning with *ij*-letters that has a heavy vowel — hence *ām* would arise for *indh*, but *amantre* [Pā. 3-1-35] prohibits [*ām*] in the Veda; *chandasy ubhayathā* [Pā. 3-4-117] makes the *sārvadhātuka* also *ārdhadhātuka*, and *sārvadhātukam apit* gives *ṅit*; so, since the *kit*-ness is there, the *kit*-based changes arise even without the *ṅit*-ness"; "the *vuk* augment is always there for the *liṭ* after *bhū*, so that *vṛddhi* has no occasion; and so *indhibhavatibhyāṃ ca* is explained as a prohibition [*pratyākhyāna*]"; *anidītāṃ hala upadhāyāḥ kṅiti* — [Pā. 6-4-24]: the *n* of *indh* is lost: *idh + e*; doubling, loss of the reduplicate's consonant, *savarṇadīrgha*; *yam agnim* — because the relative *yam* is connected, the wholly-unaccented is forbidden; the suffix-accent comes.
+- **iṣaḥ**: root *iṣa gatau*, *divādi*; *iṣyanti* = "[they] go"; *iṣaḥ* = "the rays [which], leaving the support, go far away".
+- **dīdiyuḥ**: root *dīdī dīptau*, Vedic only; after it *liṭ*, *jhi*, *us*; *dīdī + us*; *ācchinnaḥ…*: *iyaṅ* [as read: *ajñ… iy*] by the rule *ac chnu…*; "*vero 'nekāco 'saṃyogapūrvasya* — [Pā. 6-4-82]: the *yaṇ* for the final *i*/*ī*/*u*/*ū* of a base of several vowels, not preceded by a conjunct, is replaced here by *iy* since the rule *sarve vidhayaś chandasi vikalpyante* (Pari. 63 [?]) makes the *yaṇ* optional; so no *yaṇ*, and no doubling here."
+- **vardhayāmasi**: *idanto masi* — इदन्तो मसि — [Pā. 7-1-46]: the *masi*-ending takes *i* at the end [by the indicatory phrase]; "*mas* of the first-person plural, after a *ṇic*-ending base *vṛdh*, takes *i*": *vardhayāmasi*. Rik 11 ends here (*|| 11 ||*).
+
+### Rik 36.12 (pp. 217–220, PDF 231–234)
+
+**Saṃhitā-pāṭha** *(p. 217; accents not reproduced)*
+
+> **रायस्पूर्धि स्वधावोऽस्ति हि तेऽग्ने देवेष्वाप्यम् ।**
+> **त्वं वाजस्य श्रुत्यस्य राजसि स नो मृळ महाँ असि ॥ १२ ॥**
+
+*rāyas pūrdhi svadhāvo 'sti hi te 'gne deveṣv āpyam |*
+*tvaṃ vājasya śrutyasya rājasi sa no mṛḷa mahām̐ asi || 12 ||*
+
+**Pada-pāṭha** *(p. 218)*
+
+> रायः । पूर्धि । स्वधाऽवः । अस्ति । हि । ते । अग्ने । देवेषु । आप्यम् ॥
+> त्वम् । वाजस्य । श्रुत्यस्य । राजसि । सः । नः । मृळ । महान् । असि ॥ १२ ॥
+
+*rāyaḥ | pūrdhi | svadhā-vaḥ | asti | hi | te | agne | deveṣu | āpyam ||*
+*tvam | vājasya | śrutyasya | rājasi | saḥ | naḥ | mṛḷa | mahān | asi || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 218; the first half in full, the grammatical tail characterized)*
+
+> हे स्वधावोऽन्नवन्नग्ने । स्वधा अर्क इति तन्नामसु पाठात् [as printed; the Special Topics below give 'svadhā' as a word for food]। अस्माकं रायो धनानि पूर्धि पूरय देहि वा । पूर्धि पूरय देहीति वा । नि. ४-३ [?] । इति यास्कः । हे अग्ने ते तव देवेष्वाप्यं प्रापणीयं सख्यमस्ति हि । विद्यते खलु । त्वं श्रुत्यस्य श्रवणीयस्य वाजस्यान्नस्य राजसि । ईश्वरो भवसि । स त्वं नोऽस्मान्मृळ । सुखय । महान् गुणैरधिकोऽसि ॥
+
+*he svadhāvo 'nnavann agne | svadhā arka iti tannāmasu pāṭhāt [as printed] | asmākaṃ rāyo dhanāni pūrdhi pūraya dehi vā | pūrdhi pūraya dehīti vā | ni. 4-3 [?] | iti yāskaḥ | he agne te tava deveṣv āpyaṃ prāpaṇīyaṃ sakhyam asti hi | vidyate khalu | tvaṃ śrutyasya śravaṇīyasya vājasyānnasya rājasi | īśvaro bhavasi | sa tvaṃ no 'smān mṛḷa | sukhaya | mahān guṇair adhiko 'si ||*
+
+**Translation:** "O *svadhāvaḥ* — Agni, possessed of food (*svadhā* is read among the lists of such names [the print's word is "*arka*", which does not suit; the Special Topics below give 'food'] ) — *rāyaḥ pūrdhi* — fill [us] with wealth, or give: '*pūrdhi* = *pūraya*, or *dehi*' (Ni. 4-3 [?]), so Yāska. O Agni, indeed there is *āpyam* — friendship to be obtained — with the gods, in you. You *rājasi* — are the lord — of the *śrutya* [famed, to-be-heard-of] *vāja*, food. That you, *mṛḷa* — make [us] happy. *Mahān asi* — you are great, superior in qualities."
+
+**Grammar within the bhāṣya** *(p. 218, characterized)*: *rāyaḥ* (the ending acute by *ūḍidam…*); *pūrdhi* (*pṝ pālanapūraṇayoḥ*; *hi* for *sip*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — *dhi* for *hi*; *śap* lost by *bahulaṃ chandasi*; *hi* is *apit*, so *ṅit*, *kṅiti ca*: no *guṇa*; *udoṣṭhyapūrvasya*: *u* for *ṛ* after a labial; *halica*: lengthening); *svadhāvaḥ* (*svadhā asyāsti*, *matup*; the *su* of the vocative becomes *ru*, by *matuvasor ru sambuddhau chandasi*; *māduparadhāyāś ca*: *m* → *v*); *āpyam* (*āpa vyāptau*, *yat*, by *poradupadhāt*; the accent of *yato 'nāvaḥ*); *śrutyasya* (*śru śravaṇe*, *kyap* by the Uṇādi [*oṇādika*], with *tuk*; or *śrutau bhavaḥ*, *yat* by *bhave chandasi*; *yasyeti ca*); *mṛḷa* (*mṛḍa sukhane*; *loṭ*, *hi*; *śa*; *ito 'tohe luk*, and the Bahvṛca *ḍ* → *ḷ*).
+
+**Pratipadārtha** *(p. 218)* — "**svadhāvaḥ** — O Agni [you who are] endowed with food (the giver); **asmākam** — to us; **rāyaḥ** — riches; **pūrdhi** — fill; **agne** — O Agni; **te** — your; **deveṣu** — among the gods; **āpyam** — friendship [that can be had, i.e. our friendship with the gods can be had through you]; **asti hi** — it truly exists; **tvam** — you; **śrutyasya** — [of the food that is] famous to the ears; **vājasya** — of food; **rājasi** — are the lord; **saḥ tvam** — such a you; **naḥ** — us; **mṛḷa** — make happy; **mahān asi** — you are great, of eminent qualities."
+
+**Bhāvārtha** *(p. 219)* — "O Agni, you are endowed with excellent qualities and have eminence. You are always the giver of food, rich in abundance of food, to all of us. You are lord of all famous gain of food. Give us food and make us happy. As you are the friend of the gods, make us too stand with those gods; for the sake of pleasing them, fill us with the riches that are needed to perform the sacrifice."
+
+**English Translation (the source's own, p. 219)** — "Agni, giver of food, fill us with wealth ; you are friendly with the gods (or our friendship of the gods is obtainable through you) you are lord of famous food, make happy, for you are great·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 219**
+- **pūrdhi** = *pūraya dehi vā*: "fill; that is, give. Yāska has explained the word *pūrdhi* as '*pūrdhi pūraya dehīti vā*' (Ni. 4-3 [?])."
+- **svadhāvaḥ** — "the vocative singular of *svadhāvān*. Since the word *svadhā* is read among the twenty-eight words for food beginning *andhaḥ*, *vājaḥ* (Ni. 2-7 [?]), *svadhā* means food, an eating; *svadhāvān* means one who has food, or an eater."
+- **āpyam** = *prāpaṇīyam*: "that which is fit to be obtained, that which can be reached: the friendship of the gods can be had only through you, is the sense."
+- **śrutyasya** = *śravaṇīyasya*, *prasiddhasya*: "that which is famous, needed by all, desired."
+- **rājasi** = *īśvaro bhavasi*: "you shine as the chief, the lord."
+
+**Vyākaraṇa-prakriyā** *(pp. 219–220, PDF 233–234 — grammar pages, noted briefly)*
+- **rāyaḥ**: *ūḍidaṃ padādyāpumrai­dyubhyaḥ*: the *śas* ending is acute.
+- **pūrdhi**: root *pṝ pālanapūraṇayoḥ*; *loṭ*, *sip*; *sip* → *hi* [*serhy apic ca*]; *bahulaṃ chandasi*: *luk* of *śap*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — [Pā. 6-4-102]: *dhi* for *hi* after *śru*, *śṛṇu*, *pṝ*, *kṛ*, *vṛ* in the Veda; *hi* is *apit* by *serhy apic ca*, so *sārvadhātukam apit* makes it *ṅit*; *kṅiti ca* bars *guṇa*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य — [Pā. 7-1-102]: the *ṛ* at the end of a base preceded by a labial becomes *u*: the labials are *u*, the *p*-series, *upadhmānīya*; *pur + dhi*; *halica* — हलि च — [Pā. 8-2-77]: the lengthening of *i*, *u*, *ṛ* as penultimates of bases ending in *r* or *v* before a consonant: *pūrdhi*.
+- **svadhāvaḥ**: *svadhā asyāsti iti svadhāvān*; *tadasyāstyasminn iti matup*; *matuvasoru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — [Pā. 8-3-1]: *ru* for the last letter of a word ending in *matup* or *vasu*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ*: *m* → *v*.
+- **āpyam**: root *āpḷ vyāptau* — "this root does not have a short *a* penultimate; but by *vyatyaya* *poradupadhāt* — पोरदुपधात् — [Pā. 3-1-98] gives *yat* after a root ending in a labial and with a short *a* penultimate"; *yato 'nāvaḥ*: first-syllable acute for a *yat*-ending word of two vowels (other than *nau*); or the *ṇyat* of *ṛhaloṇyat*, by the Vedic first-syllable acute.
+- **śrutyasya**: *śru śravaṇe*; the *oṇādika* *kyap*, with *hrasvasya piti kṛti tuk*: *tuk*; or *śrutau bhavaḥ* — *bhave chandasi* [Pā. 4-4-110]: *yat*; *yasyeti ca*: loss of *i*.
+- **mṛḷa**: root *mṛḍa sukhane*, *loṭ*, *sip*, *hi*; *tudādibhyaḥ śaḥ*: *śa*, which is *ṅit* by the *ik*-letter *ś* [as read], so no *laghūpadha-guṇa*; *ato heḥ* — अतो हेः — [Pā. 6-4-105]: *luk* of *hi* after a base ending in *a*; *ḍ* → *ḷ* in the Bahvṛca tradition. Rik 12 ends here (*|| 12 ||*).
+
+### Rik 36.13 (p. 220 foot, PDF 234–)
+
+*(The thirteenth and fourteenth ṛks are the two addressed to the *yūpa* (or Agni as its support), per the introduction on p. 177.)*
+
+**Saṃhitā-pāṭha** *(p. 220; accents not reproduced)*
+
+> **ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सविता ।**
+> **ऊर्ध्वो वाजस्य सनिता यदञ्जिभिर्वाघद्भिर्विह्वयामहे ॥ १३ ॥**
+
+*ūrdhva ū ṣu ṇa ūtaye tiṣṭhā devo na savitā |*
+*ūrdhvo vājasya sanitā yad añjibhir vāghadbhir vihvayāmahe || 13 ||*
+
 ---
 
-**Progress note — Volume 4, Sūkta 36 in progress: printed p. 210 (PDF 224) reached; Riks 36.1–36.9 complete; Rik 36.10's Saṃhitā and the first line of its Pada written (foot of p. 210).**
+---
+
+**Progress note — Volume 4, Sūkta 36 in progress: printed p. 220 (PDF 234) reached; Riks 36.1–36.12 complete; Rik 36.13's Saṃhitā written (foot of p. 220).**
 
 **Plan agreed with the user:** do Sūkta 36 and then Sūkta 37 in the same session, stopping at the end of Sūkta 37.
 
-**Next task:** continue at printed p. 211 (PDF 225) with the rest of Rik 36.10's Pada and its bhāṣya. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 225 -l 300 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 221 (PDF 235) with Rik 36.13's Pada and bhāṣya, then Riks 14–20. Sūkta 36 (*pra vo yahvam*, Anuvāka 8, 20 Riks; ṛṣi Kaṇva Ghaura; deity Agni, with Riks 13–14 [*ūrdhva ū ṣu*, *ūrdhvo naḥ*] addressed to the *yūpa* or Agni) runs to about printed p. 250 (PDF 264); Sūkta 37 begins about p. 251 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–265); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 235 -l 300 Rig_Vol4.pdf /tmp/x/v`.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) are partly uncertain; (5) the grammar notes of Riks 1–9 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ* in Rik 7, *ghnantaḥ* in Rik 8 and *śocasva* in Rik 9) are characterized from crowded passages and may contain slips in detail; (6) in Rik 8 the bhāṣya's gloss of *apaḥ* ("āpaḥ pṛthivī…") and the word *bhuvat* in the bhāṣya, and in Rik 9 *utkṛṣṭa* [?], are doubtful; (7) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (8) the English of Rik 3 carries two misprints ("yon", "ɔndowed"), that of Rik 7 a heading misprint ("Englis") and that of Rik 8 "faught", reproduced as [sic].
+**Open flags (Volume 4):** the flags of Sūktas 33–35 still stand (see CLAUDE.md "Lessons"). For Sūkta 36 so far: (1) the Sanskrit introduction on pp. 176–177 is crowded in the middle ("*anudrāvāt*", "*uttamām uddharet*", "*itivam uddhāraṃ brūyāt*" are doubtful) and its translation is tentative; (2) the heading's deity line reads "1–13 [?], 15–20 Agni; 13–14 Agni or Yūpa" (the ranges overlap at 13; probably "1–12"); (3) the metre note "13 Upariṣṭādbṛhatī — Ai. Brā. [numerals not read]" is as read; (4) Āśvalāyana, Nirukta, Uṇādi and Ṛgveda reference numerals are [?] or not read; the Special Topics' statements of the number of this ṛṣi's sūktas and ṛks (101 [?]) and of Medhyātithi's ṛks (Rik 10) are partly uncertain; (5) the grammar notes of Riks 1–12 (especially *devayatīnām*, *haviṣmantaḥ*, *mahaḥ*, *santya*, *aryamā*, *dadāśa*, *tve*, *saṃgatāni*, *titirvāṃsaḥ*, *ghnantaḥ*, *śocasva*, *īdhe*, *dīdiyuḥ*, *pūrdhi*) are characterized from crowded passages and may contain slips in detail; (6) doubtful bhāṣya words: Rik 8 (*apaḥ* clause, *bhuvat*), Rik 9 (*utkṛṣṭa*), Rik 11 (the opening phrase on *medhyātithiḥ*), Rik 12 (the printed "*svadhā arka*", which does not suit the sense — the source's own Special Topics gloss *svadhā* as food); (7) the Ṛgveda quotation on *vṛṣā* in the Rik 10 Special Topics is crowded and given as read, with a tentative gloss of mine; (8) the source itself remarks (Rik 8 Special Topics) that the simile of the neighing horse does not fit; (9) misprints reproduced as [sic]: Rik 3 English ("yon", "ɔndowed"), Rik 7 heading ("Englis"), Rik 8 "faught", Rik 10 "you›"/"detained".
