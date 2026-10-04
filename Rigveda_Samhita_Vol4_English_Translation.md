@@ -6509,10 +6509,171 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+## SŪKTA 41 *(printed p. 410 = PDF 424)*
+
+**Forty-first Sūkta** *(large Kannada title line: "nalavattondaneya sūktavu")*
+
+### Page 410 (PDF 424) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
+
+> यं रक्षन्तीति नवर्चं षष्ठं सूक्तं । तत्रानुक्रमणं । यं रक्षन्ति नव वरुणमित्रार्यम्णां मध्ये तृचं च आदित्येभ्यो गायत्रं हीति । घोरपुत्रः कण्व ऋषिः । इदमादित्रीणि सूक्तानि गायत्राणि । आद्यन्तयोस्तृचयोर्वरुणमित्रार्यमणो देवताः । मध्यतृचस्य सुगः पन्था इत्यस्यादित्या देवताः ॥ गतो विनियोगः ॥
+
+*yaṃ rakṣantīti navarcaṃ ṣaṣṭhaṃ sūktaṃ | tatrānukramaṇaṃ | yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hīti | ghoraputraḥ kaṇva ṛṣiḥ | idam ādi trīṇi sūktāni gāyatrāṇi | ādyantayos tṛcayor varuṇamitrāryamaṇo devatāḥ | madhyatṛcasya sugaḥ panthā ity asyādityā devatāḥ || gato viniyogaḥ ||*
+
+**Translation:** "*Yaṃ rakṣanti* — the sixth sūkta [of the anuvāka], of nine ṛks. The Anukramaṇikā there: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hi*' [as printed: nine [ṛks], of Varuṇa–Mitra–Aryaman; in the middle a *tṛca* for the Ādityas; Gāyatra]. Kaṇva, son of Ghora, is the ṛṣi. This and the next two sūktas are in the Gāyatrī metre. For the first and the last *tṛca* the deities are Varuṇa, Mitra and Aryaman; for the middle *tṛca* — beginning *sugaḥ panthāḥ* — the Ādityas. The application has been stated [before]." *(Translation mine; the print is clear here.)*
+
+**Anuvāda (Kannada), p. 410** — "*Yaṃ rakṣanti* is the sixth sūkta in the eighth anuvāka. It has nine ṛks. In the Anukramaṇikā: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hi*'. The ṛṣi of this sūkta is Kaṇva, the son of Ghora. This sūkta and the next two are of the Gāyatrī metre. For the first three ṛks and the last three ṛks the deities are Varuṇa, Mitra and Aryaman; for the middle three ṛks, that is [Riks] 4–6 [numerals read "4–6" [?]], the Ādityas are the deities. The application has been stated already."
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४१**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ४१ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — २२, २३ [?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — ९ ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — १–३, ७–९ वरुणमित्रार्यमणः । ४–६ आदित्याः ॥
+> ॥ छन्दः — गायत्री ॥
+
+*sūkta 41 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 22, 23 [?] | ṛks 9 | ṛṣi: Kaṇva Ghaura | devatā: Riks 1–3 and 7–9 Varuṇa–Mitra–Aryaman; Riks 4–6 the Ādityas | chandas: Gāyatrī.*
+
+*(Varga numerals and the Rik numerals of the deity line are small and read with doubt.)*
+
+### Rik 41.1 (pp. 411–412, PDF 425–426)
+
+**Saṃhitā-pāṭha** *(p. 411; accents not reproduced)*
+
+> **यं रक्षन्ति प्रचेतसो वरुणो मित्रो अर्यमा ।**
+> **नू चित्स दभ्यते जनः ॥ १ ॥**
+
+*yaṃ rakṣanti pracetaso varuṇo mitro aryamā |*
+*nū cit sa dabhyate janaḥ || 1 ||*
+
+**Pada-pāṭha** *(p. 411)*
+
+> यम् । रक्षन्ति । प्रऽचेतसः । वरुणः । मित्रः । अर्यमा ।
+> नु । चित् । सः । दभ्यते । जनः ॥ १ ॥
+
+*yam | rakṣanti | pra-cetasaḥ | varuṇaḥ | mitraḥ | aryamā |*
+*nu | cit | saḥ | dabhyate | janaḥ || 1 ||*
+
+*(The Saṃhitā prints* nū*, the Pada* nu*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 411)*
+
+> **प्रचेतसः प्रकृष्टज्ञानयुक्ता वरुणादयो देवा यं यजमानं रक्षन्ति स जनो यजमानो नू चित् क्षिप्रमेव दभ्यते । दभ्नोति । शत्रून् हिनस्ति । प्रचेतसः । प्रकृष्टं चेतो येषां । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । नू चित् । ऋचि तुनुघेत्यादिना दीर्घः । दभ्यते । दम्भु दम्भे । व्यत्ययेन श्यन् आत्मनेपदं च ॥**
+
+*pracetasaḥ prakṛṣṭajñānayuktā varuṇādayo devā yaṃ yajamānaṃ rakṣanti sa jano yajamāno nū cit kṣiprameva dabhyate | dabhnoti | śatrūn hinasti | pracetasaḥ | prakṛṣṭaṃ ceto yeṣāṃ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | nū cit | ṛci tunughety ādinā dīrghaḥ | dabhyate | dambhu dambhe | vyatyayena śyan ātmanepadaṃ ca ||*
+
+**Translation:** "*Pracetasaḥ*, endowed with excellent knowledge, the gods Varuṇa and the rest — whichever sacrificer they protect, that man, the sacrificer, *nū cit*, quickly indeed, *dabhyate*: he *dabhnoti*, he destroys the enemies. *Pracetasaḥ*: 'of whom the mind is excellent'; in the bahuvrīhi the accent of the first member. *Nū cit*: the lengthening by *ṛci tunugha…*. *Dabhyate*: root *dambhu dambhe*; by *vyatyaya* the suffix *śyan* and the *ātmanepada*."
+
+**Pratipadārtha** *(p. 411)* — "**pracetasaḥ** — those of excellent knowledge; **varuṇaḥ** — Varuṇa; **mitraḥ** — Mitra; and **aryamā** — Aryaman; **yam** — which sacrificer [the performer of the sacrifice]; **rakṣanti** — they protect; **saḥ janaḥ** — that sacrificer; **nū cit** — carefully [quickly]; **dabhyate** — destroys [the enemies]."
+
+**Bhāvārtha** *(p. 411)* — "The sacrificer whom Varuṇa, Mitra and Aryaman, the deities of excellent knowledge, protect, carefully destroys his enemies."
+
+**English Translation (the source's own, p. 412)** — "That person whom wise Varuna, Mitra, and Aryaman protect quickly defeats his enemies."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 412**
+- **pracetasaḥ** = *prakṛṣṭajñānayuktāḥ* — "those who are endowed with excellent knowledge, the wise."
+- **nū cit** = *kṣiprameva* — "swiftly, quickly."
+- **dabhyate** — "*dambhu dambhe*; *dabhnoti iti śatrūn hinasti* — he destroys enemies; or, if the sense of the passive use must be given: *nū cit dabhyate*, 'he is not injured by the enemy' — in this context the word *nū* must be taken in the sense of a negative, *na*."
+
+**Vyākaraṇa-prakriyā** *(p. 412 — grammar page, noted briefly)*
+- **rakṣanti**: root *rakṣa pālane*, first class; because of the connection with *yat* (*yam*) the wholly-unaccented form does not come.
+- **pracetasaḥ**: "*prakṛṣṭaṃ cetaḥ yeṣāṃ te*": a bahuvrīhi; the accent of the first member.
+- **varuṇaḥ**: *kṛvādārībhya uṇan* [Uṇ., as read [?]]: the suffix *uṇan* [print: *unan*]; since it is *nit* the first syllable is acute.
+- **nū**: the lengthening by the sūtra *ṛci tunughamakṣu…* [as read].
+- **dabhyate**: *dambhu dambhe*, *svādi*; the *śnu* *vikaraṇa* would properly come, but by *vyatyayo bahulam* [as read] *śyan* comes, and by the same sūtra the *ātmanepada* in place of the *parasmaipada*: *dan bh + ya + te* [print: *darbh+ya+te*]; because *śyan* is *sārvadhātukam apit* it is *ṅit*; by *anidito hala upadhāyāḥ kṅiti* the penultimate nasal is lost; since *anusvāra* and *parasavarṇa* are treated as non-existent (*asiddha*), it is to be understood that the nasal is present as far as the sūtra that gives the loss is concerned. Rik 1 ends here (*|| 1 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–40 COMPLETE (printed pp. 1–409 = PDF 15–423; Sūkta 40 occupies pp. 376–409 and ends with a printed closing note on p. 409).**
+### Rik 41.2 (pp. 413–415, PDF 427–429)
 
-**Next task:** Sūkta 41 (*yaṃ rakṣanti*, Anuvāka 8, the sixth sūkta of the anuvāka, 9 Riks, ṛṣi Kaṇva Ghaura, Gāyatrī metre; deities per the Kannada anuvāda: Varuṇa–Mitra–Aryaman for Riks 1–3 and 7–9, the Ādityas for Riks 4–6 — the heading's own line reads with doubt), starting at the top of printed p. 410 = PDF 424 (title line "*nalavattondaneya sūktavu*", Sanskrit introduction, Kannada anuvāda and the heading, all on that one leaf; not yet written); Rik 1 follows on p. 411 (PDF 425). The contents table gives Sūkta 42 (*saṃ pūṣan*) at p. 433. One session per sūkta (or as the user directs); read the last ~40 lines of this file first. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 424 -l 450 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 413; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40: (1) heading varga numerals and metre line small, read with doubt; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini, Uṇādi and Kāśikā reference numeral is "as read [?]"; (3) Rik 1: the Ṛgveda quotation *aśmāsyam avataṃ…* and the Nirukta paraphrase are crowded, glosses tentative; the *kyac* argument (pp. 380–381) characterized only; (4) Rik 2: the *upabrūte* accent argument (p. 384) and *pūjita* remark (p. 386) characterized only; (5) Rik 3: *atraiva* and a few letters of the grammatical tail doubtful; English "benifical" [sic]; (6) Rik 4: English "recieves", "worriors" [sic]; the *anehasa* / Amara passage crowded; (7) Rik 5: *indranivid-pragāthā* doubtful; closing numeral of the bhāṣya reads like "10"/"30"; eight untranslated Ṛgveda quotations glossed by me tentatively, reference numerals [?]; scan defect "b:en praised"; (8) Rik 6: *vocemā* (Saṃhitā) vs *vocema* (Pada); the Daśapādī discussion (p. 401) and the *ceṇ* argument characterized only; (9) Rik 7: Saṃhitā sandhi *asthitāntarvāvat* as printed; the *antarvāvat* grammar offers two derivations, the second crowded [?]; (10) Rik 8: in the bhāṣya's grammatical tail the rule-name behind "*mankktinn ity ādinā*" and the words "*vṛño tevā*" are doubtful [?]; the Kannada grammar page's list (*grasitaskabhita…tarutṛ*) is quoted in part only; the source's English prints "he firmly hold" [sic].
+> **यं बाहुतेव पिप्रति पान्ति मर्त्यं रिषः ।**
+> **अरिष्टः सर्व एधते ॥ २ ॥**
+
+*yaṃ bāhuteva piprati pānti martyaṃ riṣaḥ |*
+*ariṣṭaḥ sarva edhate || 2 ||*
+
+**Pada-pāṭha** *(p. 413)*
+
+> यम् । बाहुताऽइव । पिप्रति । पान्ति । मर्त्यम् । रिषः ।
+> अरिष्टः । सर्वः । एधते ॥ २ ॥
+
+*yam | bāhutā-iva | piprati | pānti | martyam | riṣaḥ |*
+*ariṣṭaḥ | sarvaḥ | edhate || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 413)*
+
+> **यं यजमानं पिप्रति वरुणादयो देवा धनैः पूरयन्ति । तत्र दृष्टान्तः । बाहुतेव स्वकीये बाहुवर्गोऽपेक्षितं धनमानीय यथा पूरयति तद्वत् । तथा यं मर्त्यं मनुष्यं यजमानं रिषो हिंसकात् पान्ति रक्षन्ति स सर्वो यजमानोऽरिष्टः केनाप्यहिंसितः सन् एधते । वर्धते ॥ बाहुतेव । बाहुता बाहुत्वं । भाववाचिनानेन शब्देन बाहवस्तदाश्रया लक्ष्यन्ते । यद्वा । समूहार्थे तल्प्रत्ययो द्रष्टव्यः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । पिप्रति । प्या पालनपूरणयोः । पै इत्येके । जुहोत्यादित्वात् श्लुः । आर्तिपिपत्योर्ऋश्चेत्यभ्यासस्येत्वं । अभ्यस्तानामादिरित्याद्युदात्तत्वं । पान्ति । तिङः परत्वात्पादादित्वाद्वा निघाताभावः । रिषः । रिष हिंसायां क्विप्चेति क्विप् । सावेकाच इति विभक्तेरुदात्तत्वं । अरिष्टः । रिष हिंसायां । एकाच इतीट्प्रतिषेधः । व्रश्चादिना षत्वं । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं ॥**
+
+*yaṃ yajamānaṃ piprati varuṇādayo devā dhanaiḥ pūrayanti | tatra dṛṣṭāntaḥ | bāhuteva svakīye bāhuvargo 'pekṣitaṃ dhanam ānīya yathā pūrayati tadvat | tathā yaṃ martyaṃ manuṣyaṃ yajamānaṃ riṣo hiṃsakāt pānti rakṣanti sa sarvo yajamāno 'riṣṭaḥ kenāpy ahiṃsitaḥ san edhate | vardhate || bāhuteva | bāhutā bāhutvaṃ | bhāvavācinānena śabdena bāhavas tadāśrayā lakṣyante | yadvā | samūhārthe talpratyayo draṣṭavyaḥ | liti iti pratyayāt pūrvasyodāttatvaṃ | piprati | pyā pālanapūraṇayoḥ | pai ity eke | juhotyāditvāt śluḥ | ārtipipatyor ṛś cety abhyāsasyetvaṃ | abhyastānām ādir ity ādyudāttatvaṃ | pānti | tiṅaḥ paratvāt pādāditvād vā nighātābhāvaḥ | riṣaḥ | riṣa hiṃsāyāṃ kvip ceti kvip | sāvekāca iti vibhakter udāttatvaṃ | ariṣṭaḥ | riṣa hiṃsāyāṃ | ekāca itīṭpratiṣedhaḥ | vraścādinā ṣatvaṃ | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ ||*
+
+**Translation:** "The sacrificer whom Varuṇa and the other gods *piprati*, fill with wealth. The example: *bāhutā iva* — as a company of arms (*bāhuvarga*) fetches the wealth needed and fills his own [house], so. And the mortal, the man, the sacrificer whom they protect from *riṣaḥ*, from a destroyer, that whole sacrificer, *ariṣṭaḥ*, uninjured by anyone, *edhate*, prospers. *Bāhuteva*: *bāhutā* is 'arm-ness'; by this abstract word the arms, as that on which it rests, are indicated; or the suffix *tal* in the sense of a collection is to be seen; the syllable before the suffix is acute by *lit*. *Piprati*: root *pyā pālanapūraṇayoḥ* (some read *pai*); *ślu* because of the *juhotyādi* class; *i* in the reduplicate by *ārtipipatyor ṛś ca* [print as read]; the first syllable acute by *abhyastānām ādiḥ*. *Pānti*: no *nighāta*, since it follows a *tiṅ* or because it is at the beginning of a *pāda*. *Riṣaḥ*: root *riṣa hiṃsāyām*, *kvip*; the ending acute by *sāvekāca*. *Ariṣṭaḥ*: the prohibition of *iṭ* by *ekāca…*; *ṣatva* by *vraścādi…*; the accent of the first member in a *nañ*-compound with an indeclinable."
+
+**Pratipadārtha** *(p. 413)* — "**bāhuteva** — as with his own arms (bringing in as much as he wishes) he fills; **yam** — which sacrificer; **piprati** — [Varuṇa and the other deities] fill with wealth; and **martyam** — which man; **riṣaḥ** — from a harming enemy; **pānti** — they protect; **sarvaḥ** — each such (sacrificer); **ariṣṭaḥ** — uninjured by anyone; **edhate** — grows."
+
+**Bhāvārtha** *(p. 414)* — "As one fills himself with as much goods as he needs, bringing them with his own arms, so Varuṇa and the other deities fill the sacrificer with wealth, and the man whom they protect from an injuring enemy attains prosperity without any hindrance."
+
+**English Translation (the source's own, p. 414)** — "He whom they ( gods ) help with riches, as if collected by his own arms ; the man whom they defend from the malignant ; every such man safe from injury prospers."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 414**
+- **bāhuteva** = *svakīyo bāhuvargo 'pekṣitaṃ dhanam ānīya yathā pūrayati tadvat* — "as one's own arms bring as much wealth as he needs and fill [his house]."
+- **piprati** = *pūrayanti* — "they fill, they make full."
+- **riṣaḥ** = *hiṃsakāt* — "from the enemy who injures."
+- **ariṣṭaḥ** — "free from the injury of enemies or from hindrance."
+
+**Vyākaraṇa-prakriyā** *(pp. 414–415 — grammar pages, noted briefly)*
+- **bāhuteva**: *tasya bhāvas tvatalau* — तस्य भावस्त्वतलौ — [Pā. 5-1-119 as read [?]]: the suffix *tal* in the abstract sense; by the abstract word *bāhutā* the arms, as the support of *bāhutva*, are indicated by implication; or else, by *grāmajanabandhubhyas tal* — ग्रामजनबन्धुभ्यस्तल् — [Pā. 4-2-43 as read [?]], *tal* is prescribed after *grāma* and the like in the sense of collection, and by Vedic usage the same holds for *bāhu*; *liti* [Pā. 6-1-193 as read [?]]: the syllable before the suffix is acute.
+- **piprati**: root *pyā pālanapūraṇayoḥ*, *juhotyādi* (some read it as *pṛ*, ending in a short vowel); after it *laṭ*, *jhi*; *ad abhyastāt* — अदभ्यस्तात् — [Pā. 7-1-4 as read] *at* for *jh*; *śap* → *ślu*; *ślau* doubling: *pṛ + pṛ + ati*; if the root ends in a long vowel, *uraṭ* is not obtained as stated; the print says the *ṛ*-form reading is not in conformity with Pāṇini, who in his view reads the root with a Vedic shortening (*chāndasa hrasva*) — "'*pāṇinīyamate tu taṃ rodasī pipṛtam*', in this and in similar passages Bhaṭṭoji Dīkṣita has said that the shortening is Vedic [*chāndasatvaṃ śaraṇam*]"; *ur at* gives *a* in the reduplicate, with *raparatva*; *halādiḥ śeṣaḥ* the loss of *r*; *ārtipipartyoś ca* — ऋतिपिपर्त्योश्च — [Pā. 7-4-77 as read [?]]: the *a* of the reduplicate of the roots *ṛ*, *pṛ* (or *pā*) takes *i* when *ślu* has come: *pipṛ + ati*; *yaṇ*: *piprati*; by *abhyastānām ādiḥ* — first-syllable acute.
+- **pānti**: root *pā rakṣaṇe*; since it stands after a verb, or at the beginning of a *pāda*, *tiṅ atiṅaḥ* does not make it wholly unaccented.
+- **riṣaḥ**: *riṣa hiṃsāyām*; *kvip ca* [Pā. 3-2-76 as read] *kvip*; *jas*; *sāvekācaḥ…* the ending is acute.
+- **ariṣṭaḥ**: *riśa hiṃsāyām*, *tudādi* [print: *riśa*]; after it *kta*; this being in the list *riś-ruś-liś-viś-spṛś-kṛṣaḥ* (the *anudāttopadeśa* roots enumerated), it is unaccented; *ekāca upadeśe 'nudāttāt* — the prohibition of *iṭ*; *vraścabhrasjasṛjamṛjayajarājabhrājachśām ṣaḥ* [Pā. 8-2-36 as read] gives *ṣ* for the *ś*; *ṣṭutva*; "*na riṣṭaḥ*": a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the accent of the first member as an indeclinable. Rik 2 ends here (*|| 2 ||*).
+
+---
+
+### Rik 41.3 (pp. 415–, PDF 429–)
+
+**Saṃhitā-pāṭha** *(p. 415 foot; accents not reproduced)*
+
+> **वि दुर्गा वि द्विषः पुरो घ्नन्ति राजान एषाम् ।**
+> **नयन्ति दुरिता तिरः ॥ ३ ॥**
+
+*vi durgā vi dviṣaḥ puro ghnanti rājāna eṣām |*
+*nayanti duritā tiraḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 416)*
+
+> वि । दुःऽगा । वि । द्विषः । पुरः । घ्नन्ति । राजानः । एषाम् ।
+> नयन्ति । दुःऽइता । तिरः ॥ ३ ॥
+
+*vi | duḥ-gā | vi | dviṣaḥ | puraḥ | ghnanti | rājānaḥ | eṣām |*
+*nayanti | duḥ-itā | tiraḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 416)*
+
+> **राजानो वरुणादयो ये एषां स्वकीययजमानानां पुरः पुरस्तात् दुर्गा गन्तुं दुःशकानि शत्रुनगराणि वि घ्नन्ति । विशेषेण नाशयन्ति । तथा द्विषः शत्रूनपि वि घ्नन्ति । तथा दुरिता दुरितानि यजमानसम्बन्धीनि पापानि तिरो नयन्ति । विनाशं प्रापयन्ति ॥ दुर्गा । दुःखेन गच्छन्त्येत्रेति दुर्गाणि । सुदुरोरधिकरणे । पा. ३-२-४८ [?] । इति गमेर्डप्रत्ययः । शेश्छन्दसि बहुलमिति शेर्लोपः । पुरः । कालवाचिनः पूर्वशब्दात् सप्तम्यर्थे पूर्वाधरावराणां । पा. ५-३-३९ [?] । इत्यसिप्रत्ययः । तत्सन्नियोगेन पूर्वशब्दस्य पुरादेशश्च प्रत्ययस्वरः । घ्नन्ति । हन्तेर्लट्यदादित्वाच्छपो लुक् । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ [?] । इति घत्वं । अङ्गादेशस्योपदेशवचनादाद्युदात्तत्वं । पादादित्वादनिघातः ॥**
+
+*rājāno varuṇādayo ye eṣāṃ svakīyayajamānānāṃ puraḥ purastāt durgā gantuṃ duḥśakāni śatrunagarāṇi vi ghnanti | viśeṣeṇa nāśayanti | tathā dviṣaḥ śatrūn api vi ghnanti | tathā duritā duritāni yajamānasambandhīni pāpāni tiro nayanti | vināśaṃ prāpayanti || durgā | duḥkhena gacchanty atreti durgāṇi | sudurorādhikaraṇe | pā. 3-2-48 [?] | iti gamer ḍapratyayaḥ | śeś chandasi bahulam iti śer lopaḥ | puraḥ | kālavācinaḥ pūrvaśabdāt saptamyarthe pūrvādharāvarāṇāṃ | pā. 5-3-39 [?] | ity asipratyayaḥ | tatsanniyogena pūrvaśabdasya purādeśaś ca pratyayasvaraḥ | ghnanti | hanter laṭy adāditvāc chapo luk | gamahanety ādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 [?] | iti ghatvaṃ | aṅgādeśasyopadeśavacanād ādyudāttatvaṃ | pādāditvād anighātaḥ ||*
+
+*(In the grammatical tail the words "gacchanty atreti", the sūtra-name beginning "sudurorā…" and the number given for it are crowded [?].)*
+
+**Translation:** "The *rājānaḥ*, the kings Varuṇa and the others — of these, [their] own sacrificers, *puraḥ*, in front — *durgā*, strongholds hard to go to, enemy cities, *vi ghnanti*, they shatter; they destroy utterly. Likewise they *vi ghnanti* the *dviṣaḥ*, the enemies themselves. Likewise *duritā*, the sins connected with the sacrificer, *tiraḥ nayanti*, they lead away: they bring to destruction. *Durgā*: '*duḥkhena gacchanty atra*', where they go with difficulty: *durgāṇi*; the suffix *ḍa* after *gam* in the locative sense; the loss of *śi* by *śeś chandasi bahulam*. *Puraḥ*: from *pūrva* of time-denoting sense, in the sense of the locative, the suffix *asi* by *pūrvādharāvarāṇām* [Pā. 5-3-39 [?]], and in connection with it the substitute *pur* for *pūrva*; the accent of the suffix. *Ghnanti*: *laṭ* of *han*; *śap* elided as the root is of the *adādi* class; loss of the penultimate by *gamahana…*; *gha* for *ha* by *ho hanteḥ*; first-syllable acute for a substitute of the base, because of the statement of the *upadeśa*; no *nighāta* because it begins a *pāda*."
+
+**Pratipadārtha** *(p. 416)* — "**rājānaḥ** — (Varuṇa and the other) lords; **eṣām** — of these (devotees who worship them with devotion), the sacrificers; **puraḥ** — in front, even beforehand; **durgā** — the cities [of enemies] difficult to enter, [with strongholds and walls]; **vi ghnanti** — destroy completely; **dviṣaḥ** — enemies; **vi (ghnanti)** — they destroy [in the same way]; **duritā** — the sins [committed by the sacrificer]; **tiraḥ nayanti** — they make to perish."
+
+**Bhāvārtha** *(p. 416)* — "Varuṇa and the other deities destroy, before those devotees who worship them with devotion, the strongholds and cities of their enemies and in the end the enemies themselves, completely. In the same way they destroy all the sins, the enemies within, of the sacrificer."
+
+*(The English translation, Special Topics and grammar of Rik 3 begin on p. 417, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–40 COMPLETE; Sūkta 41 in progress: printed p. 416 (PDF 430) reached; introduction, heading and Riks 41.1–41.2 complete; Rik 41.3's Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written (English, Special Topics and grammar begin on p. 417).**
+
+**Next task:** continue at printed p. 417 (PDF 431) with the English, Special Topics and grammar of Rik 41.3, then Riks 4–9 and the close of Sūkta 41 (to about p. 432; Sūkta 42 *saṃ pūṣan* begins about p. 433, check), then STOP at the end of Sūkta 41 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 424–450) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 431 -l 450 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) will each start a fresh session and do one sūkta; if they start before this sūkta is finished they will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 40's list is in the commit "Vol 4: Sūkta 40 complete"). Sūkta 41 so far: (1) heading varga numerals and the Rik numerals of the deity line are small, read with doubt; (2) every Pāṇini / Uṇādi reference numeral is "as read [?]"; (3) Rik 1: the grammar page says "*darbh+ya+te*" for the formation of *dabhyate*, where the root is *dambhu* — as printed; the Special Topics offer two senses of *dabhyate* (active "destroys" or passive "is not injured"); (4) Rik 2: the grammar discussion of the root *pyā*/*pṛ* and the Vedic shortening (p. 415, quoting Bhaṭṭoji Dīkṣita) is characterized only; (5) Rik 3: the grammatical tail of the bhāṣya on *durgā* is crowded [?].
