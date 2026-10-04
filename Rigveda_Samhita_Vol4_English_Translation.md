@@ -409,12 +409,72 @@ Kannada prose with sūtras quoted; the numerals are small, so those given are as
 
 **Vyākaraṇa-prakriyā** *(p. 30, grammar page — noted briefly)*: **ayuyutsan** — root *yudha saṃprahāre*; the form is explained as *yoddhum icchan*, "wishing to fight"; the wishers are the followers of Vṛtra, who are the agents of both *iṣ* and *yudh*; the *san* suffix in the sense of "wishing" comes after a root whose agent is the same as that of the wishing (*dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* — धातोः कर्मणः समानकर्तृकादिच्छायां वा — Pā. 3-1-7, as printed); then *yudh + sa*, with *sanyaṅoḥ* — सन्यङोः — Pā. 6-1-9 [?] for the doubling; the page breaks off in the discussion of the doubling.
 
----
+### Rik 33.6 — Vyākaraṇa-prakriyā, continued (pp. 31–33, PDF 45–47; grammar pages, noted briefly)
+
+Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
+
+- **ayuyutsan** (p. 31, continued): doubling of the root (*sanyaṅoḥ* [?]), *halādiḥ śeṣaḥ* trimming the reduplicate; the *san* ending after a consonant-final root is *kit* (*halantāc ca* — हलन्ताच्च — Pā. 1-2-10), so no *guṇa* of the penultimate (also *kṅiti ca* — Pā. 1-1-5); no *iṭ* augment, as the root is one-vowelled and *anudātta* (*ekāca upadeśe 'nudāttāt* — एकाच उपदेशेऽनुदात्तात् — Pā. 7-2-10); the Saṃgraha-kārikā verse "*bandhir yudhi rudhī …*" lists *yudh* as *anudātta*. The root is of the 4th class, *ātmanepada*, and by *pūrvavat sanaḥ* — पूर्ववत्सनः — Pā. 1-3-62 [?] *san* would also take *ātmanepada* so that *śānac* is expected; but by Vedic *vyatyaya* *parasmaipada* comes, then *laṭaḥ śatṛśānacau* — लटः शतृशानचौ — Pā. 3-2-124, whence *ayuyutsan*.
+- **senām**: *inena saha vartate iti senā*; *tena saheti tulyayoge* — तेन सहेति तुल्ययोगे — Pā. 2-2-28 (*saha* compounded with an instrumental in the sense of simultaneity, a *bahuvrīhi*); *sa* for *saha* by *vopasarjanasya* — वोपसर्जनस्य — Pā. 6-3-82; first-member accent by *bahuvrīhau prakṛtyā pūrvapadam* — Pā. 6-2-1.
+- **ayātayanta**: root *yatī prayatne*; the causative *ṇic* by *hetumati ca* — हेतुमति च — Pā. 3-1-26; *hetu* defined by *tatprayojako hetuś ca* — Pā. 1-4-55; *laṅ*, *aṭ*, *upadhā-vṛddhi*, *ātmanepada*, *śap*, *guṇa*, *jhaḥ → ant*, *ayādeśa*: *ayātayanta*.
+- **kṣitayaḥ** (p. 31 end – p. 32): root *kṣi nivāsagatyoḥ*; the suffix *ktic* (*ktic ktau ca saṃjñāyām* — क्तिच्क्तौ च संज्ञायाम् — Pā. 3-3-174), *kṣiyanti gacchanti* = "those who go, or know", men.
+- **navagvāḥ** (p. 32): *navabhir māsaiḥ gacchantīti navagvāḥ* — "ṛṣis who obtained their fruit in nine months"; root *gam* with the Uṇādi suffix *ḍva* (the *ḍ*-marker explains the loss of *am*): *gv*; or an alternative: *kvip* after *gam*, loss of the nasal (*gamaḥ kvau* — गमः क्वौ — Pā. 6-4-40), *ūṭ* for the verb-root (a vārtika: *ūj ca gamādīnām*), lengthening to *ū* before *jas*; *oḥ supi* — ओः सुपि — Pā. 6-4-83 gives *yaṇ* (*ū* → *v*): *navagvaḥ*; the Vedic lengthening gives *navagvāḥ*.
+- **vṛṣāyudhaḥ**: *vṛṣeṇa saha yuddhyati*; *kvip ca* — क्विप् च — Pā. 3-2-76 (*kvip* after all roots, even without an upapada, in the Veda and in the world, as the Kāśikā shows on *sopapadebhyo nirupapadebhyaḥ*); Vedic lengthening of the first member by *anyeṣām api dṛśyate* — अन्येषामपि दृश्यते — Pā. 6-3-137.
+- **niraṣṭāḥ**: root *aśū vyāptau*, *ūdit*, so *iṭ* is optional (*svaratisūtisūyatidhūñūdito vā* — Pā. 7-2-44); the *niṣṭhā* suffix in the state-sense (*niṣṭhā*, Pā. 3-2-102); no *iṭ* by *yasya vibhāṣā* — यस्य विभाषा — Pā. 7-2-15; *ś* → *ṣ* by *vraścabhrasja…* — Pā. 8-2-36, *ṣṭutva* giving *aṣṭa*; the *bahuvrīhi* with first-member accent; an alternative derivation with *asta* from the root *as*, *niḥ + asta*; the preverb keeps its accent by *gatir anantaraḥ* — गतिरनन्तरः — Pā. 6-2-49 [?].
+- **pravadbhiḥ** (p. 33): root *vana paṇa sambhaktau* after *pra*; *kvip*; the nasal lost by *gamaḥ kvau* — Pā. 6-4-40 (with the vārtika "*gamādīnām iti vaktavyam*"); *n* lost; the augment *tuk* by *hrasvasya piti kṛti tuk* — ह्रस्वस्य पिति कृति तुक् — Pā. 6-1-71: *pravat*; *bhis*; first-member accent by *gatikārakopapadāt kṛt*.
+- **citayantaḥ**: root *citī saṃjñāne*; causative *ṇic* by *hetumati ca* — Pā. 3-1-26; *guṇa* of the penultimate would be expected by *pugantalaghūpadhasya ca* — पुगन्तलघूपधस्य च — Pā. 7-3-86, but "all rules are optional in the Veda" (*sarve vidhayaś chandasi vikalpyante*); the augment's non-universality (*anityam āgamaśāsanam*) is also cited; then *laṭ*, *śatṛ*, *śap*, *guṇa* → *ay*; the augment *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* — उगिदचां सर्वनामस्थानेऽधातोः — Pā. 7-1-70; *ru* and *visarga*. Rik 6 ends here (*|| 6 ||*).
+
+### Rik 33.7 (pp. 33–36, PDF 47–50)
+
+**Saṃhitā-pāṭha** *(p. 33; accents not reproduced)*
+
+> **त्वमेतान्रुदतो जक्षतश्चायोधयो रजस इन्द्र पारे ।**
+> **अवादहो दिव आ दस्युमुच्चा प्र सुन्वतः स्तुवतः शंसमावः ॥ ७ ॥**
+
+*tvam etān rudato jakṣataś cāyodhayo rajasa indra pāre |*
+*avādaho diva ā dasyum uccā pra sunvataḥ stuvataḥ śaṃsam āvaḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 34)*
+
+> त्वम् । एतान् । रुदतः । जक्षतः । च । अयोधयः । रजसः । इन्द्र । पारे ।
+> अव । अदहः । दिवः । आ । दस्युम् । उच्चा । प्र । सुन्वतः । स्तुवतः । शंसम् । आवः ॥ ७ ॥
+
+*tvam | etān | rudataḥ | jakṣataḥ | ca | ayodhayaḥ | rajasaḥ | indra | pāre |*
+*ava | adahaḥ | divaḥ | ā | dasyum | uccā | pra | sunvataḥ | stuvataḥ | śaṃsam | āvaḥ || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 34; the first half in full, the grammatical tail characterized)*
+
+> हे इन्द्र त्वं रुदतो रोदनं कुर्वतो जक्षतो भक्षणं हसनं वा कुर्वतश्चैतान्द्विविधानपि वृत्रानुचरान्रजसः पारेऽन्तरिक्षस्य परभागे । रजःशब्दोऽन्तरिक्षवाची लोका रजांस्युच्यन्ते । नि. ४-१९ [?] । इत्युक्तत्वात् । अयोधयः युद्धमकरोः । युद्धेन मारितवानित्यर्थः । दस्युमुपक्षयितारं वृत्रं दिव आ द्युलोकादानीयोच्चोत्कर्षेणावादहः । दग्धवानसि । वृत्रं सपरिवारं विनाश्य [word unclear, "ते[?]"] ऊर्ध्वं सुन्वतः सोमाभिषवं कुर्वतः स्तुवतः स्तोत्रं कुर्वतो यजमानस्य शंसं स्तुतिं प्रावः । प्रकर्षेण रक्षितवानसि ॥
+
+*he indra tvaṃ rudato rodanaṃ kurvato jakṣato bhakṣaṇaṃ hasanaṃ vā kurvataś caitān dvividhān api vṛtrānucarān rajasaḥ pāre 'ntarikṣasya parabhāge | rajaḥśabdo 'ntarikṣavācī lokā rajāṃsy ucyante | ni. 4-19 [?] | ity uktatvāt | ayodhayaḥ yuddham akaroḥ | yuddhena māritavān ity arthaḥ | dasyum upakṣayitāraṃ vṛtraṃ diva ā dyulokād ānīyoccotkarṣeṇāvādahaḥ | dagdhavān asi | vṛtraṃ saparivāraṃ vināśya [?] ūrdhvaṃ sunvataḥ somābhiṣavaṃ kurvataḥ stuvataḥ stotraṃ kurvato yajamānasya śaṃsaṃ stutiṃ prāvaḥ | prakarṣeṇa rakṣitavān asi ||*
+
+**Translation:** "O Indra, you [fought] these followers of Vṛtra, of both kinds — those who weep and those who eat or laugh (*jakṣataḥ* = eating, or laughing) — at the far side (*pāre*) of the *rajas*, the mid-region. The word *rajas* means the mid-region, since it is said 'the worlds are called *rajāṃsi*' (Ni. 4-19 [?]). *Ayodhayaḥ* — you fought; the sense is that you killed them in battle. The *dasyu*, the destroyer Vṛtra, having brought down from the heavenly world, *uccā* — loftily, with distinction — *avādahaḥ* — you burnt up. Having destroyed Vṛtra with his retinue [the next phrase is unclear in my reading], you *prāvaḥ* — protected excellently — the praise (*śaṃsa*, *stuti*) of the sacrificer who presses the soma (*sunvataḥ*) and recites hymns (*stuvataḥ*)."
+
+**Grammar within the bhāṣya** *(pp. 34–35, characterized)*: *rudataḥ* (root *rudir aśruvimocane*, *laṭ*, *śatṛ*; *śap* elided; the participle takes the final-acute by its suffix; the ending of *śas* is acute by *śatur anumo nadyajādī* — Pā. 6-1-173 [?]), *jakṣataḥ* (root *jakṣa bhakṣahasanayoḥ*; *jakṣityādayaḥ ṣaṭ* — जक्षित्यादयः षट् — Pā. 6-1-6, which gives the technical name *abhyasta* to *jakṣ* and the five roots that follow; the first syllable is acute by *abhyastānām ādiḥ* — अभ्यस्तानामादिः — Pā. 6-1-189), *sunvataḥ* (root *ṣuñ abhiṣave*; *ṣ* → *s* by *dhātvādeḥ ṣaḥ saḥ* — धात्वादेः षः सः — Pā. 6-1-64; *śnu* after a *svādi* root by *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः — Pā. 3-1-73; *yaṇ* by *huśnuvoḥ sārvadhātuke* — हुश्नुवोः सार्वधातुके — Pā. 6-4-87), *stuvataḥ* (root *ṣṭuñ stutau*; *ṣ* → *s*; the loss of *ṭ* by *nimittāpāye naimittikasyāpy apāyaḥ*; *śap* elided; *uvaṅ* in place of *u* by *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* — Pā. 6-4-77).
+
+**Pratipadārtha** *(pp. 34–35)* — "**he indra** — O Indra; **tvam** — you; **rudataḥ** — weeping (those who are weeping); **jakṣataḥ ca** — or laughing; **etān** — these rākṣasas, followers of Vṛtra; **rajasaḥ pāre** — at the edge of the mid-region; **ayodhayaḥ** — you fought; **dasyum** — (and) the thief Vṛtra; **divaḥ ā** — bringing him down from the mid-region [= from heaven]; **uccā** — completely; **avādahaḥ** — you burned to ashes; (thereafter) **sunvataḥ** — of the one pressing the soma-juice; **stuvataḥ** — of the one reciting praises (the sacrificer); **śaṃsam** — the praise; **pra āvaḥ** — you protected well (made it true to its meaning)."
+
+**Bhāvārtha** *(p. 35)* — "O Indra, you punish the wicked and protect the good. You pursued the rākṣasas, followers of Vṛtra, whether they were weeping or laughing, and slew them at the very edge of the mid-region. You destroyed Vṛtra, the thief, and made the praise offered by the sacrificer at the sacrifice true to its meaning."
+
+**English Translation (the source's own, p. 35)** — "O Indra, you have destroyed them whether weeping or laughing off the other end of the sky ; you have burned the demon (or robber) having dragged him from heaven and have received the praises of him who pressed the Soma juice for you and sang your glories."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 35** — **jakṣataḥ** = *jakṣa bhakṣahasanayoḥ*, *bhakṣaṇaṃ hasanaṃ vā kurvantaḥ*: "the root *jakṣ* means to eat or to laugh; therefore *jakṣataḥ* means those who are eating or those who are laughing." — **rajasaḥ pāre**: "*rajas* here is the mid-region (Ni. 4-19 [?]); therefore *rajasaḥ pāre* means at the end of the mid-region, in the mid-region, at a great height." — **uccā**: "greatly, especially."
+
+**Vyākaraṇa-prakriyā** *(pp. 35–36, grammar pages — noted briefly)*: **rudataḥ** (root *rudir aśruvimocane*; *laṭ*, replaced by *śatṛ*; *śap* elided by *ādiprabhṛtibhyaḥ śapaḥ* — आदिप्रभृतिभ्यः शपः — Pā. 2-4-72; the lasārvadhātuka *śatṛ* is *anudātta* by *tāsyanudāttenṅid…*, but the accent of the suffix is retained, so *rudat* is final-acute; *śas* acute by *śatur anumo nadyajādī* — शतुरनुमो नद्यजादी — Pā. 6-1-173 [?], under which a stem ending in *śatṛ* without the augment *num*, if it is final-acute, makes the following *nadī*-class or vowel-initial endings acute) — **jakṣataḥ** (as above; so *abhyasta*-status and first-syllable acute) — **sunvataḥ** (*ṣuñ*; *ṣ* to *s*; *śnu*; *u* → *v*) — **stuvataḥ** (*ṣṭuñ stutau*; *iyaṅuvaṅ*; same accent as before). Rik 7 ends here (*|| 7 ||*).
+
+### Rik 33.8 (p. 36 onward, PDF 50–)
+
+**Saṃhitā-pāṭha** *(first line only, at the foot of p. 36; the rest follows on p. 37 and is not yet written)*
+
+> **चक्राणासः परीणहं पृथिव्या हिरण्येन मणिना शुम्भमानाः ।**
+
+*cakrāṇāsaḥ parīṇahaṃ pṛthivyā hiraṇyena maṇinā śumbhamānāḥ |*
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 30 (PDF 44) reached; Riks 33.1–33.6 written; Rik 6's grammar begun (*ayuyutsan*, p. 30).**
+---
 
-**Next task:** continue at printed p. 31 (PDF 45) with the rest of Rik 6's grammar, then Rik 7. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 36 (PDF 50) reached; Riks 33.1–33.7 complete; Rik 33.8's first Saṃhitā line written (foot of p. 36).**
 
-**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4) and the six *navagva* half-verses (Rik 6) are mine, not the source's. (5) The sāyaṇa-bhāṣya of Rik 6 has a few doubtful words (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
+**Next task:** continue at printed p. 37 (PDF 51): the rest of Rik 8's Saṃhitā, its Pada, bhāṣya etc. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 51 -l 84 Rig_Vol4.pdf /tmp/v`.
+
+**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda/Nirukta reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4) and the six *navagva* half-verses (Rik 6) are mine, not the source's. (5) A few doubtful words in the bhāṣya of Riks 6–7 (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation, "*vināśya [?]*"). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
