@@ -12,8 +12,7 @@ Volumes 1–3 files are closed; do not edit them.
 
 ## Current position
 
-**Volume 4: Sūktas 33–45 are COMPLETE (printed pp. 1–571 = PDF 15–585).** **Next task: Sūkta 46** (*eṣo uṣā*, Maṇḍala 1, the third sūkta of the Ninth Anuvāka, 15 Riks, ṛṣi Praskaṇva, the Aśvins, Gāyatrī — the last sūkta of Volume 4),
-whose title, Sanskrit introduction and Kannada anuvāda are at the foot of printed p. 571 = PDF 585 (Sūkta 45 ended there); the heading block and Rik 1 are on p. 572 (PDF 586). Check the contents table for the end of Sūkta 46 and for any closing material up to PDF 622.
+**Volume 4 is COMPLETE: Sūktas 33–46, printed pp. 1–608 = PDF 15–622 (the last page, ending with the colophon of the Third Adhyāya).** There is no next task in Volume 4. **Volume 5 has not been started**: the user has added `Rig_Vol5.pdf` (and `Rig_Vol6.pdf`, `Rig_Vol1(1).pdf`, `Rig_Vol1(2).pdf`) to the repository, but do not begin Volume 5 until the user asks; then follow "Starting the next volume" below (confirm filename, page count, PDF-to-printed-page offset, sūktas covered; new output file; update this section). Scheduled routines created for Volume 4 should, finding Volume 4 complete, stop and report rather than start Volume 5.
 One session per sūkta; read the last ~40 lines of the output file first. For each session follow whatever stopping point the user gives.
 The Kannada preface (PDF 7–10) of Volume 4 was deliberately not translated (an essay on the ṛṣis and the maṇḍalas; recorded in the output header).
 
