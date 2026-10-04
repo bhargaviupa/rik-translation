@@ -290,12 +290,131 @@ Kannada prose with sūtras quoted; the numerals are small, so those given are as
 
 **Vyākaraṇa-prakriyā** *(p. 20, grammar page — noted briefly)*: **vadhīḥ** — root *han hiṃsāgatyoḥ*, *luṅ*, *tip*; the *i* of the *parasmaipada* ending is lost by *itaś ca* — इतश्च — Pā. 3-4-100; *cli* in place of *śap* by *cli luṅi* — च्लि लुङि — Pā. 3-1-43; *sic* for *cli* by *cleḥ sic* — च्लेः सिच् — Pā. 3-1-44; *vadha* for *han* in *luṅ* by *luṅi ca* — लुङि च — Pā. 2-4-43; the *a* of *vadha* dropped by *ato lopaḥ* — अतो लोपः — Pā. 6-4-48 (the print, in the Veda-bhāṣya, cites this as "*ātolopaḥ*", which the author says is a slip — *pramādikavāgi*); the optional *vṛddhi* by *ato halādeḥ laghoḥ* — अतो हलादेर्लघोः — Pā. 7-2-7, and its non-occurrence because of the *sthānivadbhāva* rule *acaḥ parasmin pūrvavidhau* — अचः परस्मिन्पूर्वविधौ — Pā. 1-1-57; the augment *iṭ* by *asti-sico 'pṛkte* — अस्तिसिचोऽपृक्ते — Pā. 7-3-96, the *īṭ*; the *s* lost by *iṭa īṭi* — इट ईटि — Pā. 8-2-28; the *pūrvatrāsiddham* — पूर्वत्रासिद्धम् — Pā. 8-2-1 does not make the loss of *s* "unseen"; the augment *aṭ* is Vedic and does not appear; the augments *iṭ* and *īṭ* are unaccented (*āgamā anudāttāḥ*), so the root's accent remains.
 
----
+### Rik 33.4 — Vyākaraṇa-prakriyā, continued (pp. 21–22, PDF 35–36; grammar pages, noted briefly)
+
+- **ghanena ekaḥ** (p. 21): the Saṃhitā keeps the vowels unchanged — *īṣākṣādiṣu chandasi prakṛtibhāvamātram* — ईषाक्षादिषु छन्दसि प्रकृतिभावमात्रम् — "in the Veda the compounds *īṣā-akṣa* and the like keep their natural form only" (Pā. 6-1-115 [?], as read); *mātram* excludes shortening as well as *guṇa*. The nasalisation in *ghanena* [the print marks the *e* with the nasal sign] is Vedic and is not produced by a sūtra of Pāṇini but belongs to the Prātiśākhya process.
+- **upaśākebhiḥ**: *upaśaktaṃ kurvanti*, root *śakḷ śaktau*, causative *ṇic* by *hetumati ca* — हेतुमति च — Pā. 3-1-26; *vṛddhi* of the penultimate by *ata upadhāyāḥ* — अत उपधायाः — Pā. 7-2-116; suffix *ac* of the *pacādi* class (*nandigrahipacādibhyo lyuṇinyacaḥ* — Pā. 3-1-134); loss of *ṇi* by *ṇer aniṭi* — णेरनिटि — Pā. 6-4-51; final acute by *thāthaghañktājabitrakāṇām* — थाथघञ्क्ताजबित्रकाणाम् — Pā. 6-2-144.
+- **viṣuṇak**: suffix *kvip* after *naś adarśane* with *viṣu* in front (*sampadādibhyaḥ kvip*, a vārtika); *kutva* of *ś* by *naśer vā* — नशेर्वा — Pā. 8-2-63 (the page shows the whole chain: *ṣa* by *vraścabhrasja…* — Pā. 8-2-36, *ḍa* by *jhalāṃ jaśo 'nte* — Pā. 8-2-39, *ka* by *khari ca* — Pā. 8-4-55, then *ṇa* for *n*); alternatively root *añcu gatipūjanayoḥ* with *viṣu*, *kvip*, the augment *nuṭ*, and *kutva* by *coḥ kuḥ* — चोः कुः — Pā. 8-2-30.
+- **sanakāḥ**: the name of a class of asuras; root *ṣaṇu dāne*, *sanvanti iti sanāḥ* "givers"; or root *kai śabde* with *ā* for *ai* (*ādeca upadeśe 'śiti* — आदेच उपदेशेऽशिति — Pā. 6-1-45), *sanān kāyati* "he who calls out the *sana* [praises?]"; suffix *ka* by *ato 'nupasarge kaḥ* — अतोऽनुपसर्गे कः — Pā. 3-2-3; loss of *ā* by *ātolopa iṭi ca* — Pā. 6-4-64; accent of the first member of a *kṛt* compound.
+- **pretim**: *pra* + root *iṇ* + *ktin*, *guṇa*; the preverb keeps its accent by *tādau ca niti kṛtyatau* — Pā. 6-2-50.
+- **īyuḥ** (p. 22): root *iṇ gatau*, *liṭ*, *jhi* replaced by *us* (*parasmaipadānāṃ ṇalatusustha-lathusaṇalvamāḥ* — Pā. 3-4-82); doubling by *liṭi dhātor anabhyāsasya* — Pā. 6-1-8; *iṇo yaṇ* — Pā. 6-4-81 gives *y* for the second *i*, but a doubling-condition sūtra *dvirvacane 'ci* — Pā. 1-1-59 makes the replaced *i* count as present for doubling; lengthening of the reduplicate by *dīrgha iṇaḥ kiti* — दीर्घ इणः किति — Pā. 7-4-69; *ī + y + us*, *ru*, *visarga*: *īyuḥ*. Rik 4 ends here (*|| 4 ||*).
+
+### Rik 33.5 (pp. 22–24, PDF 36–38)
+
+**Saṃhitā-pāṭha** *(p. 22; accents not reproduced; the Pada's *yajvabhiḥ* is read for the Saṃhitā's printed word, which is small and could be read *yajñabhiḥ*)*
+
+> **परा चिच्छीर्षा वववृजुस्त इन्द्रायज्वानो यज्वभिः स्पर्धमानाः ।**
+> **प्र यद्दिवो हरिवः स्थातरुग्र निरव्रताँ अधमो रोदस्योः ॥ ५ ॥**
+
+*parā cic chīrṣā vavṛjus ta indrāyajvāno yajvabhiḥ spardhamānāḥ |*
+*pra yad divo harivaḥ sthātar ugra nir avratām̐ adhamo rodasyoḥ || 5 ||*
+
+**Pada-pāṭha** *(pp. 22–23)*
+
+> परा । चित् । शीर्षा । ववृजुः । ते । इन्द्र । अयज्वानः । यज्वऽभिः । स्पर्धमानाः ॥
+> प्र । यत् । दिवः । हरिऽवः । स्थातः । उग्र । निः । अव्रतान् । अधमः । रोदस्योः ॥ ५ ॥
+
+*parā | cit | śīrṣā | vavṛjuḥ | te | indra | ayajvānaḥ | yajva-bhiḥ | spardhamānāḥ ||*
+*pra | yat | divaḥ | hari-vaḥ | sthātaḥ | ugra | niḥ | avratān | adhamaḥ | rodasyoḥ || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 23; the first half in full, the grammatical tail characterized)*
+
+> हे इन्द्र ते वृत्रानुचराः शीर्षा स्वकीयानि शिरांसि परा चित् पराङ्मुखान्येव कृत्वा वववृजुः । गतवन्तः । कीदृशास्ते । अयज्वानः स्वयं यागरहिताः प्रत्युत यज्वभिर्यागानुष्ठातृभिः सह स्पर्धमानाः । हे हरिवो हरिनामकाश्वयुक्त स्थातः स्थितियुक्त युद्धे पलायनरहित उग्र शौर्ययुक्तेन्द्र यद्यदा दिवोऽन्तरिक्षाद्रोदस्योर्द्यावापृथिव्योः सकाशाच्च वृत्रानुचरान्निःप्राधमो [sic: as printed] निःशेषेण धमनं कृतवानसि । तदानीं त्वदीयमुखवायुना नुन्नाः सन्तो वववृजुरिति पूर्वत्रान्वयः ॥
+
+*he indra te vṛtrānucarāḥ śīrṣā svakīyāni śirāṃsi parā cit parāṅmukhāny eva kṛtvā vavṛjuḥ | gatavantaḥ | kīdṛśās te | ayajvānaḥ svayaṃ yāgarahitāḥ pratyuta yajvabhir yāgānuṣṭhātṛbhiḥ saha spardhamānāḥ | he harivo harināmakāśvayukta sthātaḥ sthitiyukta yuddhe palāyanarahita ugra śauryayuktendra yad yadā divo 'ntarikṣād rodasyor dyāvāpṛthivyoḥ sakāśāc ca vṛtrānucarān niḥprādhamo niḥśeṣeṇa dhamanaṃ kṛtavān asi | tadānīṃ tvadīyamukhavāyunā nunnāḥ santo vavṛjur iti pūrvatrānvayaḥ ||*
+
+**Translation:** "O Indra, those followers of Vṛtra, having made their own heads (*śīrṣā*) turned away (*parā cit* = facing backwards), fled (*vavṛjuḥ* = went). What were they like? *Ayajvānaḥ* — themselves without sacrifice, and, moreover, contending with the *yajvans*, the performers of sacrifices. O *harivaḥ* — you who have the horses named Hari; *sthātaḥ* — steadfast, not fleeing from battle; *ugra* — Indra endowed with valour: when (*yat* = *yadā*) you blew away completely (*niḥśeṣeṇa dhamanam*) those followers of Vṛtra from the sky, from [the realm] of the *rodasī* — heaven and earth — then, driven by the breath of your mouth, they fled: thus the connection with the preceding."
+
+**Grammar within the bhāṣya** *(p. 23, characterized)*: *śīrṣā* (loss of *śe* by *śeś chandasi bahulam* — शेश्छन्दसि बहुलम् — Pā. 6-1-70 [?]); *vavṛjuḥ* (root *vṛjī varjane*; *liṭ* after a root not ending in a conjunct is *kit* — *asaṃyogāl liṭ kit* — असंयोगाल्लिट् कित् — Pā. 1-2-5, so no *guṇa*); *ayajvānaḥ* (root *yaj* with the suffix *ṅvanip* — *suyajor ṅvanip* — सुयजोर्ङ्वनिप् — Pā. 3-2-103 — in the past sense; *nañ*-compound with first-member accent); *divaḥ* (the ending accented by the rule on *ūḍ*-forms); *harivaḥ* (*harī asya staḥ iti harivān*; *matup*'s *m* → *v* in the Veda by *chandasīra* [Pā. 8-2-15 [?]]; *ru* in the vocative by *sambuddhau matuvasor ru*); *avratān* (*nañ*-*bahuvrīhi*, final acute; *n* → *ru* after a long vowel before *aṭ*, with a nasalised *ā*); *adhamaḥ* (root *dhmā śabdāgnisaṃyogayoḥ*, *laṅ*, *sip*, *śap*; *dhama* in place of *dhmā* by *pāghrādhmāsthā…* [Pā. 7-3-78 [?]]).
+
+**Pratipadārtha** *(p. 23)* — "**harivaḥ** — O one who has the horses named Hari; **sthātaḥ** — (in battle) steadfast; **ugra** — fearsome; **indra** — Indra; **yat** — when; **divaḥ** — from the heaven; **rodasyoḥ** — from the earth and the mid-region (they came); **avratān** — those who have no Vedic observances (the followers of Vṛtra); **niḥ pra adhamaḥ** — you blew away utterly (with the breath of your mouth) [as I read the print]; **ayajvānaḥ** — those who are not performers of sacrifices; **yajvabhiḥ spardhamānāḥ** — contending with the sacrificers; **te** — they; **śīrṣā** — their heads; **parā cit** — turning back; **vavṛjuḥ** — fled."
+
+**Bhāvārtha** *(p. 24)* — "O Indra, the two horses called Hari are your excellent vehicles. In battle you fight steadily, never turning your back on the enemy. You are fearsome to your enemies. When those followers of Vṛtra, who observe no Vedic vows and have fallen from sacrifice, come, contending with the performers of sacrifices, to do harm from the heavenly world, from the earth and from the mid-region, then you blow them away utterly with the breath of your mouth. They fled without showing their faces, turned back."
+
+**English Translation (the source's own, p. 24)** — "O Indra, the **neglecters** of sacrifices striving hard with the sacrificers fled with their faces turned back ; O mighty Indra, lord of horses, when you blew the unreligious they disappeared from the heaven, earth and sky."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 24** — **parācit śīrṣā** = *parāṅmukhā*: "turning (bending) their heads, and looking backwards, they fled — such is the sense." — **āyajvānaḥ yajvabhiḥ spardhamānāḥ** — "those who do not sacrifice (that is, the *dasyus*, *rākṣasas*, and the like), contending with those who sacrifice (those who please the gods, Indra and the others, by invoking them at the sacrifice)." — **adhamaḥ** = *dhmā śabdāgnisaṃyogayoḥ*: "the root *dhmā* means blowing for kindling a fire, or blowing forcibly so that a sound results (as with a conch and the like). Therefore *adhamaḥ* means: you drove them off, making them flee, by roaring and other sounds, with the breath of your mouth." — **harivaḥ** = *harī asya staḥ iti harivān*: "Indra, who has two horses named Hari." — **avratān** = "those who have not performed vows such as the performance of sacrifice — the dasyus and the like." — **rodasyoḥ** = *dyāvāpṛthivyoḥ* "from the earth and the mid-region" *(the entry continues on p. 25)*.
+
+### Rik 33.5 — Vyākaraṇa-prakriyā (pp. 25–26, PDF 39–40; grammar pages, noted briefly)
+
+Kannada prose with sūtras quoted; the numerals are small, so those given are as read at 150 dpi and are marked [?] where the reading is not firm.
+
+- **śīrṣā**: *śirasa* + *śas*; *śas* → *śī* by *jaśśasoḥ śiḥ* — जश्शसोः शिः — Pā. 7-1-20, which is *sarvanāmasthāna* by *śi sarvanāmasthānam* — शि सर्वनामस्थानम् — Pā. 1-1-42; *śiras* → *śīrṣan* in the Veda by *śīrṣañ chandasi* — शीर्षञ्छन्दसि — Pā. 6-1-60; loss of *śi* by *śeś chandasi bahulam* — Pā. 6-1-70; lengthening by *sarvanāmasthāne cāsambuddhau* — Pā. 6-4-8; loss of the final *n* by *nalopaḥ prātipadikāntasya* — नलोपः प्रातिपदिकान्तस्य — Pā. 8-2-7.
+- **vavṛjuḥ**: root *vṛjī varjane*, *liṭ*, *jhi* → *us*, doubling; the reduplicate's *ṛ* becomes *ar* by *ur at* — उरत् — Pā. 7-4-66, with *halādiḥ śeṣaḥ* trimming the reduplicate; *guṇa* of the root would be expected by *sārvadhātukārdhadhātukayoḥ* — Pā. 7-3-84, but it is barred by *kṅiti ca* — Pā. 1-1-5, the ending *us* being treated as *kit* because of *asaṃyogāl liṭ kit* — असंयोगाल्लिट् कित् — Pā. 1-2-5 (the root does not end in a conjunct).
+- **ayajvānaḥ**: root *yaja devapūjāsaṅgatikaraṇadāneṣu*; suffix *ṅvanip* in the past sense by *suyajor ṅvanip* — सुयजोर्ङ्वनिप् — Pā. 3-2-103; *yaj + van* = *yajvan*, the suffix *pit* and so unaccented; *na yajvā* as a *nañ*-compound; the first member, an indeclinable, keeps its accent (*tatpuruṣe … avyayadvitīyākṛtyāḥ* — Pā. 6-2-2 [?]), so the same accent remains after the compound is formed (particles being first-syllable-acute by a Phiṭ-sūtra, number [?]).
+- **divaḥ**: ablative singular, which by its *sup*-ending should be unaccented, but *ūḍidaṃ padādyappumraidyubhyaḥ* — ऊडिदं पदाद्यप्पुम्रैद्युभ्यः — Pā. 6-1-171 makes the ending acute.
+- **harivaḥ**: *harī asya staḥ*; the suffix *matup* by *tadasyāsminn iti matup* — तदस्यास्मिन्निति मतुप् — Pā. 5-2-94; *m* → *v* in the Veda by *chandasīraḥ* — छन्दसीरः — Pā. 8-2-15 [?]; the augment *num* by *ugidacāṃ…* — उगिदचां… — Pā. 7-1-70 [?]; *su* dropped, the final conjunct-letter dropped; *ru* of the vocative by *matuvasor ru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — Pā. 8-3-1; *visarga*.
+- **avratān**: *na vidyate vrataṃ yeṣāṃ te*; final-acute of the second member after *nañ* by *nañsubhyām* — नञ्सुभ्याम् — Pā. 6-2-172; *n* → *ru* after the long *ā* before a vowel in the Saṃhitā (*dīrghād aṭi samānapāde* — Pā. 8-3-9 [?]) with a nasalised *ā* by *ato 'ṭi nityam* — अतोऽटि नित्यम् — Pā. 8-3-3 [?].
+- **adhamaḥ**: root *dhmā śabdāgnisaṃyogayoḥ*, *laṅ*, *sip*, *śap*; *dhama* for *dhmā* by *pāghrādhmāsthāmnādāṇdṛśyartisartiśadasadāṃ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* — Pā. 7-3-78 [?]; *ru*, *visarga*. Rik 5 ends here (*|| 5 ||*).
+
+### Rik 33.6 (pp. 26–30, PDF 40–44)
+
+**Saṃhitā-pāṭha** *(p. 26; accents not reproduced)*
+
+> **अयुयुत्सन्ननवद्यस्य सेनामयातयन्त क्षितयो नवग्वाः ।**
+> **वृषायुधो न वध्रयो निरष्टाः प्रवद्भिरिन्द्राच्चितयन्त आयन् ॥ ६ ॥**
+
+*ayuyutsann anavadyasya senām ayātayanta kṣitayo navagvāḥ |*
+*vṛṣāyudho na vadhrayo niraṣṭāḥ pravadbhir indrāc citayanta āyan || 6 ||*
+
+**Pada-pāṭha** *(p. 27)*
+
+> अयुयुत्सन् । अनवद्यस्य । सेनाम् । अयातयन्त । क्षितयः । नवऽग्वाः ।
+> वृषऽयुधः । न । वध्रयः । निःऽअष्टाः । प्रवत्ऽभिः । इन्द्रात् । चितयन्तः । आयन् ॥ ६ ॥
+
+*ayuyutsan | anavadyasya | senām | ayātayanta | kṣitayaḥ | nava-gvāḥ |*
+*vṛṣa-yudhaḥ | na | vadhrayaḥ | niḥ-aṣṭāḥ | pravat-bhiḥ | indrāt | citayantaḥ | āyan || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 27; the first half in full, the grammatical tail characterized)*
+
+> अनवद्यस्य गर्हणीयदोषरहितस्येन्द्रस्य सेनां प्रत्ययुयुत्सन् [sic: as printed; the Pada has *ayuyutsan*] । वृत्रस्यानुचरा योद्धुमिच्छन् । तदानीं नवग्वा नवनीयगतयः स्तोतव्यचरित्राः । यद्वा । अङ्गिरसां सत्रमासीनानां मध्ये ये नवभिर्मासैरवाप्तफला उत्थितास्तेषां नवग्वा इति संज्ञा । नवग्वासः सुतसोमास इन्द्रम् [?] ऋग्वेदे [reference not read] इत्यादिषु तथाभिहितत्वात् । क्षितयो मनुष्या अङ्गिरःप्रभृतयः । क्षितयः कृष्टय इति तन्नामसु पाठात् । अयातयन्त । युद्धार्थमिन्द्रं नानाविधैर्मन्त्रैः प्रोत्साहितवन्तः । इन्द्रे योद्धुं गते सति निरष्टास्तेनेन्द्रेण निराकृता वृत्रानुचराश्चितयन्तः स्वकीयामशक्तिं ज्ञापयन्त इन्द्रादिन्द्रस्य सकाशात्प्रवद्भिः पालयितुं सुशक्यैर्मार्गैरायन् । दूरे गतवन्तः । तत्र दृष्टान्तः । वृषायुधो वृषेण सेचनसमर्थेन पुंस्त्वयुक्तेन शूरेण सह युद्धं कुर्वन्तो वध्रयो न नपुंसका इव । निसर्गपण्डो वध्रिः इत्यादिस्मृतिषु प्रयोगात् । ते यथा प्रबलेन दूरे निराकृता भवन्ति तद्वत् ॥
+
+*anavadyasya garhaṇīyadoṣarahitasyendrasya senāṃ pratyayuyutsan [sic] | vṛtrasyānucarā yoddhum icchan | tadānīṃ navagvā navanīyagatayaḥ stotavyacaritrāḥ | yadvā | aṅgirasāṃ satram āsīnānāṃ madhye ye navabhir māsair avāptaphalā utthitās teṣāṃ navagvā iti saṃjñā | navagvāsaḥ sutasomāsa indram [?] ṛgvede [reference not read] ity ādiṣu tathābhihitatvāt | kṣitayo manuṣyā aṅgiraḥprabhṛtayaḥ | kṣitayaḥ kṛṣṭaya iti tannāmasu pāṭhāt | ayātayanta | yuddhārtham indraṃ nānāvidhair mantraiḥ protsāhitavantaḥ | indre yoddhuṃ gate sati niraṣṭās tenendreṇa nirākṛtā vṛtrānucarāś citayantaḥ svakīyām aśaktiṃ jñāpayanta indrād indrasya sakāśāt pravadbhiḥ pālayituṃ sukaśyair [read: sukaraiḥ?] mārgair āyan | dūre gatavantaḥ | tatra dṛṣṭāntaḥ | vṛṣāyudho vṛṣeṇa secanasamarthena puṃstvayuktena śūreṇa saha yuddhaṃ kurvanto vadhrayo na napuṃsakā iva | nisargapaṇḍo vadhriḥ ity ādismṛtiṣu prayogāt | te yathā prabalena dūre nirākṛtā bhavanti tadvat ||*
+
+**Translation:** "*Anavadyasya* — of Indra, who is free of any blameworthy fault — the followers of Vṛtra wished to fight against his army. Then the *navagvāḥ* — those of praiseworthy conduct, of 'new' ways [?] — [encouraged him]. Or: of the Aṅgirases sitting at a long sacrifice (*satra*), those who rose up having gained the fruit in nine months have the name *navagvāḥ*; for it is so stated in passages such as '*navagvāsaḥ sutasomāsa indram*' [?]. *Kṣitayaḥ* — human beings, the Aṅgirases and others, since *kṣitayaḥ* is read among the names of man (*kṛṣṭayaḥ*). *Ayātayanta* — they encouraged Indra with various mantras for the sake of the fight. When Indra went to fight, they were *niraṣṭāḥ* — driven off by that Indra — the followers of Vṛtra, who, *citayantaḥ* — making known their own weakness — went away from Indra by *pravadbhiḥ*, easily-managed paths [?] for saving themselves; they went far off. The illustration: like *vadhrayaḥ* — eunuchs — fighting with a *vṛṣāyudha*, a hero of virility, able to shower (*vṛṣā* + *āyudha*); eunuchs are, as in the *smṛti* passages ('the *vadhri* is a eunuch by nature'), thrown far off by a strong man; so were they."
+
+**Grammar within the bhāṣya** *(pp. 27–28, characterized; the print is crowded and I did not chase the small numerals)*: the bhāṣya's tail parses, word by word, *ayuyutsan* (root *yudha saṃprahāre*, the desiderative *san*, with a sūtra on *kit*-ness so that there is no *guṇa*, and a ban on the *iṭ* augment for a one-vowel root), *senām* (*inena saha vartate*, *sa* for *saha*, accent of the first member), *ayātayanta* (root *yatī prayatne*, causative), *kṣitayaḥ* (root *kṣi nivāsagatyoḥ*, "those who go", i.e. men), *navagvāḥ* (*navabhir māsair gacchantīti navagvāḥ*, with a suffix after the root *gam* — a *ḍa*/*kvip* alternative is argued — and loss of the nasal, lengthening to *ū*; the exact sūtra numbers on p. 27 and p. 28 were not read), *vṛṣāyudhaḥ* (a denominative in *kyaṣ*/*kvip*, with a dispute whether the prefix word may be compounded), *niraṣṭāḥ* (root *aśū vyāptau* in the sense of the state, the *niṣṭhā* ending, no *iṭ* by *yasya vibhāṣā*; the *ṣ* of *vraścādi*-type; first-member accent of the *bahuvrīhi*; the form with *ṣ* for *s* is Vedic), *pravadbhiḥ* (root *vana paṇa sambhaktau*, the suffix *kvip*, the augment *tuk* [?]) and *citayantaḥ* (root *citī saṃjñāne*, *śatṛ*, *śap*; the absence of *guṇa* of the penultimate is explained by "the rule on augments is not universal", *anityam āgamaśāsanam*).
+
+**Pratipadārtha** *(p. 28)* — "**anavadyasya** — (when Vṛtra's followers) of the irreproachable Indra; **senām** — the army; **ayuyutsan** — wished to fight [the print's words "ಪ್ರತಿಭಟಿಸಲಿಚ್ಛಿಸಿ…" are partly obscured: "wished to confront"]; **navagvāḥ** — those of praiseworthy conduct (or: those who obtained the fruit of the whole sacrifice in nine months); **kṣitayaḥ** — (the Aṅgirases and others) human beings; **ayātayanta** — encouraged Indra with various mantras; (**te** — those rākṣasas who came to fight Indra); **niraṣṭāḥ** — made powerless (by Indra); **citayantaḥ** — showing their own powerlessness; **vṛṣāyudhaḥ** — fighting with a strong, mighty one; **vadhrayaḥ na** — like eunuchs; **pravadbhiḥ** — by precipitous paths (suited to flight); **indrāt** — from Indra; **āyan** — went away (fled)."
+
+**Bhāvārtha** *(p. 28)* — "Indra is faultless. The wicked followers of Vṛtra wished to fight his army. The Aṅgirases and other praiseworthy leaders of men encouraged Indra with many kinds of mantras. Then, when Indra went out to battle, those rākṣasas became powerless. Showing their weakness, like eunuchs against a strong man, they were unable to fight Indra, and fled in various directions along whatever paths they found."
+
+**English Translation (the source's own, p. 29)** — "They ( followers of Vritra ) desired to fight with the army of irreproachable Indra. Men (Angirasas) engaged in offering libations to Indra for nine months encouraged Indra to give them fight; like eunuchs fighting with a hero they fled by precipitous paths exposing their backs away from Indra."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 29–30**
+- **anavadyasya** = *garhaṇīyadoṣarahitasya*: "one without any bad faults."
+- **kṣitayaḥ** = *kṣi nivāsagatyoḥ*; *kṣiyanti gacchantīti kṣitayo manuṣyāḥ*: "since the root *kṣi* has the senses of 'dwelling' and 'going', *kṣitayaḥ* means men who are going about, able to move. Since the word *kṣitayaḥ* is read among the twenty-five names of man beginning with *narāḥ* (Ni. 2-2 [?]), *kṣitayaḥ* means men."
+- **navagvāḥ** = *navabhir māsair gacchantīti navagvāḥ | aṅgirasāṃ satram āsīnānāṃ madhye ye navabhir māsair avāptaphalā utthitās teṣāṃ navagvā iti saṃjñā*: "Some in the family of the ṛṣi Aṅgiras gained their wish in nine months, through performing a sacrifice (*satra*) that lasts a year. These are called *navagvāḥ*; there is a convention that this name is given to the best of the Aṅgirasa ṛṣi-family, who obtained their wish in nine months. In some passages those who obtained the fruit in ten months are called *daśagvāḥ*. On this, Western scholars, explaining the word, [say], in the print's own English: '**the term Navagva is applied to a man, generally an Angiras in the highest degree (Angirastama—ಅಂಗಿರಸ್ತಮ) who appear as a mystic race of olden times coupled with, and conceived probably as related to the Angirases. they are often associated with the Dasagvas (ದಶಗ್ವ)**' [as printed; the English is not attributed]. The usage of this word occurs in many ṛks of the Ṛgveda. We give some examples:"
+
+> १. येना नवग्वो दध्यङ्ङपोर्णुते येन विप्रास आपिरे ॥ (ऋ. सं. [८-?-?] [?])
+> २. नवग्वो नु दशग्वो अङ्गिरस्तमः सचा देवेषु मंहते ॥ (ऋ. सं. १०-६२-६ [?])
+> ३. सरण्युभिः फलिगमिन्द्र शक्र बलं रवेण दरयो दशग्वैः ॥ (ऋ. सं. १-६२-४ [?])
+> ४. सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् ॥ (ऋ. सं. ३-३९-५ [?])
+> ५. अङ्गिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः ॥ (ऋ. सं. १०-१४-६ [?])
+> ६. येना नवग्वे अङ्गिरे दशग्वे सप्तास्ये रेवती रेवदूष ॥ (ऋ. सं. ४-५१-४ [?])
+
+*1. yenā navagvo dadhyaṅṅ apornute yena viprāsa āpire || (ṛ. saṃ. 8-[?] [?])*
+*2. navagvo nu daśagvo aṅgirastamaḥ sacā deveṣu maṃhate || (ṛ. saṃ. 10-62-6 [?])*
+*3. saraṇyubhiḥ phaligam indra śakra balaṃ raveṇa darayo daśagvaiḥ || (ṛ. saṃ. 1-62-4 [?])*
+*4. sakhā ha yatra sakhibhir navagvair abhijñvā satvabhir gā anugman || (ṛ. saṃ. 3-39-5 [?])*
+*5. aṅgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ || (ṛ. saṃ. 10-14-6 [?])*
+*6. yenā navagve aṅgire daśagve saptāsye revatī revad ūṣa || (ṛ. saṃ. 4-51-4 [?])*
+
+*(The source leaves these six half-verses untranslated. My glosses, **mine and tentative**: 1. "[the aid] by which Navagva Dadhyañc opens [?], by which the inspired ones obtained [?]." 2. "The Navagva and the Daśagva, most Aṅgirasa-like, rejoice together among the gods." 3. "O mighty Indra, with the swift ones [?] you split the *phaliga* [?], with a roar, [your] strength, with the Daśagvas." 4. "Where the friend [Indra], with his friends the Navagvas, [following] the cows with the brave [?] went after them." 5. "Our fathers the Aṅgirases, the Navagvas, the Atharvans, the Bhṛgus, worthy of soma." 6. "[That aid] by which, O wealthy [dawn], you shone richly on Navagva, Aṅgiras, Daśagva, Saptāsya." The reference numbers were read from small Kannada numerals and are all uncertain.)* The source adds that the same word *navagva* is used in many Ṛgveda ṛks and in Atharva-veda passages, "Ath. Saṃ. 18-1-36 [?]; 19-2-30 [?]", and that "in the second of these examples [no. 2 above], the one called *navagva* and *daśagva*, the most distinguished among the Aṅgirasa ṛṣi-family, is honoured even by the gods — which is worth noting."
+
+- **vṛṣāyudhaḥ** = *vṛṣeṇa secanasamarthena puṃstvayuktena śūreṇa*: "with a hero who is capable of showering [virility], i.e. a man of manly strength."
+- **vadhrayaḥ** = *napuṃsakāḥ*: "eunuchs, the weak, men without strength; cowards."
+- **pravadbhiḥ** = *pravaṇaiḥ sukarair mārgaiḥ*: "by favourable [easy] paths."
+- **citayantaḥ** = *citī saṃjñāne*; *svakīyām aśaktiṃ jñāpayantaḥ*: "showing their own powerlessness."
+
+**Vyākaraṇa-prakriyā** *(p. 30, grammar page — noted briefly)*: **ayuyutsan** — root *yudha saṃprahāre*; the form is explained as *yoddhum icchan*, "wishing to fight"; the wishers are the followers of Vṛtra, who are the agents of both *iṣ* and *yudh*; the *san* suffix in the sense of "wishing" comes after a root whose agent is the same as that of the wishing (*dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* — धातोः कर्मणः समानकर्तृकादिच्छायां वा — Pā. 3-1-7, as printed); then *yudh + sa*, with *sanyaṅoḥ* — सन्यङोः — Pā. 6-1-9 [?] for the doubling; the page breaks off in the discussion of the doubling.
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 20 (PDF 34) reached; Riks 33.1–33.4 written through the grammar of *vadhīḥ* (p. 20).**
+---
 
-**Next task:** continue at printed p. 21 (PDF 35) with the rest of Rik 4's grammar page(s), then Rik 5. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 30 (PDF 44) reached; Riks 33.1–33.6 written; Rik 6's grammar begun (*ayuyutsan*, p. 30).**
 
-**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4, Special Topics) are mine, not the source's. (5) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
+**Next task:** continue at printed p. 31 (PDF 45) with the rest of Rik 6's grammar, then Rik 7. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end.
+
+**Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4) and the six *navagva* half-verses (Rik 6) are mine, not the source's. (5) The sāyaṇa-bhāṣya of Rik 6 has a few doubtful words (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
