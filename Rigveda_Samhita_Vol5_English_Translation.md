@@ -4420,8 +4420,116 @@
 
 ---
 
+**Rik 52.10, continued** *(pp. 246–248, PDF 262–264)*
+
+**Pratipadārtha** *(pp. 246–247)* — "**amavān** — the powerful; **dyauḥ cit** — even heaven; **asya aheḥ** — of this Vṛtra; **svanāt** — from the roaring sound; **bhiyasā** — in fear; **ayoyavīt** — it was shaken; **indra** — O Indra; **te** — your; **sutasya** — of the previously poured, prepared soma; **made** — when delight arose by drinking; **vajraḥ** — your thunderbolt; **rodasī** — both heaven and earth (the two worlds); **badbadhānasya** — of the one who afflicts by nature; **vṛtrasya** — of the Asura Vṛtra; **śiraḥ** — the head; **yat** — when; **śavasā** — with strength (the force obtained from you); **abhinat** — split: then the quaking of heaven stopped."
+
+**Bhāvārtha** *(p. 247)* — "Even strong heaven was shaken with fear at the roaring of this Asura Vṛtra. But, O Indra, when, delighted by drinking the soma juice that had been prepared long before, you split, with your strong thunderbolt, the head of Vṛtra, who afflicts both earth and atmosphere, then the quaking of heaven ceased."
+
+**English Translation (the source's own, p. 247)** — "The strong heaven was rent asunder with fear at the clamour of that Ahi (Vritra) when you, Indra, delighted by drinking the effused soma-juice struck with your thunderbolt vigorously the head of Vritra, the obstructer of heaven and earth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 247–248**
+- **etad uktaṃ bhavati** *(a Sanskrit passage in the print, with Kannada comment)*:
+
+  > **एतदुक्तं भवति । यदा द्यावापृथिव्योरपि उपद्रवकारिणं वृत्रमिन्द्रोऽवधीत्तदा परममहिमयुक्तो द्युलोकोऽपि भयेन चकम्पे । तथा महाबलयुक्तमपीन्द्रस्य वज्रं स्वकृताद्वृत्रहननादेनन्तरं द्युलोकवदेव चकम्पे ॥**
+
+  *etad uktaṃ bhavati | yadā dyāvāpṛthivyor api upadravakāriṇaṃ vṛtram indro 'vadhīt tadā paramamahimayukto dyuloko 'pi bhayena cakampe | tathā mahābalayuktam apīndrasya vajraṃ svakṛtād vṛtrahanan[ād anan]taraṃ dyulokavad eva cakampe ||* — "This is what is said: when Indra killed Vṛtra, who troubled even heaven and earth, then even heaven, endowed with supreme majesty, trembled with fear; and likewise, though endowed with great strength, Indra's thunderbolt itself trembled, as heaven did, after the slaying of Vṛtra that it had itself brought about [?]." *(The second half-line is crowded — read "*vṛtrahanan… anantaram*", [?].)* The Kannada adds: "The chief sense is this: when Indra killed Vṛtra, who was causing trouble to the worlds of heaven and earth, even the heaven of great majesty was made to tremble in fear. So too one may take it that the thunderbolt of Indra, though of great strength, trembled as heaven did."
+- **dyauś cit** — "The atmosphere also; here the word *cit* has the sense of *api*."
+- **ayoyavīt** — "For this word, which is the *luṅ*-ending form of the *yaṅ*-ending of the root *yu miśraṇāmiśraṇayoḥ*, the sense here is 'it trembled', or 'it was separated individually'."
+- **badbadhānasya** — "To the root *bādhṛ vilodane* the suffix *cānaś* is added; the sense is 'of one who has the nature of afflicting'."
+- **sutasya** — "Soma purified by the sacrificial rites such as pressing is called *suta*. Here too, following the context, one must give the sense 'by drinking soma'."
+
+**Vyākaraṇa-prakriyā** *(p. 248 — grammar page, noted briefly)*
+- **ayoyavīt**: *yu miśraṇāmiśraṇayoḥ*, *adādi*; with the sense of intensity, *yaṅ*; *yaṅo 'ci ca* gives *luk* of *yaṅ* [here, *yajo 'ci ca* as printed; read *yaṅo 'ci ca*, [?]]; *laṅ*/*luṅ* third singular *tip*; *itaś ca* drops the *i*; *sanyaṅoḥ* — *guṇa* of the root; *guṇo yaṅluk*… — the reduplication takes *guṇa*; *yajo vā* [as read, [?]] the *īṭ*-augment to the *t* that has the name *aprkta*; since *śap* … follows, *guṇa* and *ayādeśa* on account of the *sārvadhātuka*; *aṭ* from *luṅ*; the word begins a *pāda*, so no *nighāta*; since the augment *aṭ* is acute, the word is initial-acute.
+- **indra**: the vocative, *āmantritasya ca* (Pā. 8-1-19), the *nighāta* accent.
+- **badbadhānasya**: *bādhṛ vilodane*; *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129) gives *cānaś*; *śap* replaced by *ślu*; reduplication by *ślau*; the Vedic non-application of *halādiḥ śeṣaḥ* here; *hrasvaḥ* shortens the reduplicative syllable's vowel, since it is not the last; *jhalāṃ jaś jhaśi* turns the *dh* of the reduplicative into *d*: *badbadhāna*; genitive singular; since *cānaś* is *cit*, *citaḥ* gives end-acute.
+- **abhinat**: *bhidir vidāraṇe*, *rudhādi*; *laṅ* third singular; *itaś ca* drops *i*; *rudhādibhyaḥ śnam*; being *mit*, the *na* goes after the last vowel (*mid aco 'ntyāt paraḥ*); *aṭ* [absent]; *abhinad-t*, *saṃyogāntalopa* drops *t* — *abhinat*; by the connected *yat* word the *nighāta* is forbidden by *yadvṛttān nityam*; since the *aṭ* is acute, [the word is initial-acute]. **|| 10 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.9 complete; Rik 52.10 written from the Saṃhitā through the bhāṣya (printed p. 246, PDF 262). The Pratipadārtha of Rik 10 begins at the foot of p. 246 and continues on p. 247 (PDF 263); the Bhāvārtha, English, Special Topics and Vyākaraṇa-prakriyā of Rik 10 and Rik 52.11 onward are NOT yet written.**
+### Rik 52.11 (pp. 249–252, PDF 265–268)
 
-**Next task:** continue at printed p. 246 foot / p. 247 (PDF 262–263) with "**Rik 52.10, continued**" (Pratipadārtha: "**amavān** — powerful; **dyauḥ cit** — even heaven; **asya aheḥ** — of this Vṛtra; **svanāt** — from the roaring sound; **bhiyasā** — afraid; **ayoyavīt** — was shaken off; **indra** — O Indra; **te** — your; **sutasya** — of the previously offered, prepared soma; **made** — in the delight; **vajraḥ** — (your) thunderbolt; **rodasī** — the earth and atmosphere; …" — re-view PDF 262–263 for the rest), then Rik 52.11 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra" as printed, final clause of the bhāṣya crowded [?]; 52.9 "svasvevamānāḥ", "anupūrvyeṇa harṣaṃ prāpayan" crowded [?], Ni. numeral for *pradhanam* [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 249; accents printed, not reproduced)*
+
+> **यदिन्न्विन्द्र पृथिवी दशभुजिरहानि विश्वा ततनन्त कृष्टयः ।**
+> **अत्राह ते मघवन्विश्रुतं सहो द्यामनु शवसा बर्हणा भुवत् ॥ ११ ॥**
+
+*yad in nv indra pṛthivī daśabhujir ahāni viśvā tatananta kṛṣṭayaḥ |*
+*atrāha te maghavan viśrutaṃ saho dyām anu śavasā barhaṇā bhuvat || 11 ||*
+
+**Pada-pāṭha** *(p. 249)*
+
+> यत् । इत् । नु । इन्द्र । पृथिवी । दशऽभुजिः । अहानि । विश्वा । ततनन्त । कृष्टयः ।
+> अत्र । अह । ते । मघऽवन् । विऽश्रुतम् । सहः । द्याम् । अनु । शवसा । बर्हणा । भुवत् ॥ ११ ॥
+
+*yat | it | nu | indra | pṛthivī | daśa-bhujiḥ | ahāni | viśvā | tatananta | kṛṣṭayaḥ |*
+*atra | aha | te | magha-van | vi-śrutam | sahaḥ | dyām | anu | śavasā | barhaṇā | bhuvat || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 249)*
+
+> **यदिन्नु यदा खलु पृथिवी दशभुजिर्दशगुणिता भवेत् । यदि वा कृष्टयः सर्वे मनुष्या विश्वा सर्वाण्यहानि ततनन्त । विस्तारयेयुः । हे मघवन् धनवन्निन्द्र अत्राह अत्रैव पूर्वोक्तेष्वेव देशकालकर्तृकेषु ते त्वदीयं सहो वृत्रवधादिकारणं बलं विश्रुतं विख्यातं प्रसिद्धम् । शवसा त्वदीयेन बलेन कृता बर्हणा वृत्रादेर्वधरूपा क्रिया द्यामनु भुवत् । अनुभवति । यथा द्यौर्महती तथा त्वत्कृतं वृत्रादेर्हिंसनमपि महदिति भावः ॥**
+
+*yad in nu yadā khalu pṛthivī daśabhujir daśaguṇitā bhavet | yadi vā kṛṣṭayaḥ sarve manuṣyā viśvā sarvāṇy ahāni tatananta | vistārayeyuḥ | he maghavan dhanavann indra atrāha atraiva pūrvokteṣv eva deśakālakartṛkeṣu te tvadīyaṃ saho vṛtravadhādikāraṇaṃ balaṃ viśrutaṃ vikhyātaṃ prasiddham | śavasā tvadīyena balena kṛtā barhaṇā vṛtrāder vadharūpā kriyā dyām anu bhuvat | anubhavati | yathā dyaur mahatī tathā tvatkṛtaṃ vṛtrāder hiṃsanam api mahad iti bhāvaḥ ||*
+
+*(The tail of the bhāṣya, pp. 249–250, is characterized:* tatananta *(*tanu vistāre*, with the Vedic* ātmanepada*,* luṅ/laṅ/liṭ *in the sense of the* liṭ*,* śap *in place of* u*, the substitution* ant*, the doubling and the* ata ādeḥ*); *viśrutam *(*śru śravaṇe*, *kta*, the prefix's accent by* gatir anantaraḥ*);* barhaṇā *(*barha vala hiṃsāchādaneṣu*, "*nibarhayati*", Ni. 6-… [?], with the Uṇādi* kyu *and the* ṭāp*; the* vabayor abhedaḥ*);* bhuvat *(*leṭ* third singular, with* aṭ*, *itaś ca* [loss of *i*], *bhūsuvos tiṅi*, the* uvaṅ *substitute by* bahulaṃ chandasi*).)*
+
+**Translation of the bhāṣya:** "*Yad in nu*: if the earth, *daśabhujiḥ*, were ten times (as large), or if all men, *kṛṣṭayaḥ*, *viśvā ahāni*, day by day, *tatananta*, were to multiply (spread) — then, O wealthy *maghavan* Indra, *atra aha*, even there, in the very places, times and persons aforesaid, *te saho*, your strength, the cause of the slaying of Vṛtra and the rest, *viśrutam*, is renowned. *Śavasā*, by your strength, the deed *barhaṇā*, the act of killing Vṛtra and the rest, *dyām anu bhuvat*, comes to equal heaven: as heaven is great, so your slaying of Vṛtra and the rest is great — this is the sense."
+
+**Pratipadārtha** *(p. 250)* — "**yadinnu** — if perchance; **pṛthivī** — the earth; **daśabhujiḥ** — ten times as large as it is now; **kṛṣṭayaḥ** — all men; **viśvā ahāni** — day by day; **tatananta** — should increase in number; **maghavan** — O wealthy; **indra** — O Indra; **atrāha** — even in all these increases; **te** — your; **saha** — strength, which is the cause of the slaying of Vṛtra and so on; **viśrutam** — becomes famous; **śavasā** — by your strength (accomplished); **barhaṇā** — the accomplishment (of the slaying of Vṛtra and the rest); **dyām anu** — following the atmosphere (as broadly); **bhuvat** — enjoys (renown)."
+
+**Bhāvārtha** *(p. 250)* — "O Indra, even if the earth should be ten times larger than now, and all men should increase in number day by day, your strength — the cause of the slaying of Vṛtra and the rest — would be equally renowned in all that increase. This accomplishment, brought about by your own strength, in the form of the slaying of Vṛtra and the rest, enjoys a fame as widely spread as the atmosphere."
+
+**English Translation (the source's own, p. 250)** — "O Indra, had the earth been tenfold (in its extent) and men multiplied every day, then, Maghavan, your prowess would have been properly renowned; the exploits, achieved by your might are vast like the sky."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 250–251**
+- **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
+
+  > **अत्रेदमुक्तं भवति । इन्द्रस्य वृत्रहननादिक्रियायां प्रकाशितेन पराक्रमेण यद्यपि तस्य प्रभावः प्रसिद्ध एवास्ति तदपि तस्य प्रसेधयित्वाणां [?] मनुष्यभावजन्यादल्पायुष्ट्वात्तेषां च स्थानभूतायाः पृथिव्या अल्पत्वात्तस्य महिमा द्युलोकादाश्रावयितुं न शक्यते । यदि तु पृथिवी दशगुणिता भवेत्सा च स्तोतृभिर्मनुष्यैः परिपूर्णा स्यात्स्तोतारश्च मरणरहिता भूत्वाहर्निशमिन्द्रस्य तपसो महिमानमेव वर्णयेयुस्तदैव स सर्वामपि द्यां व्याप्नुयान्न प्रागिति ॥**
+
+  *atredam uktaṃ bhavati | indrasya vṛtrahananādikriyāyāṃ prakāśitena parākrameṇa yady api tasya prabhāvaḥ prasiddha evāsti tad api tasya prasedhayitvāṇāṃ [?] manuṣyabhāvajanyād alpāyuṣṭvāt teṣāṃ ca sthānabhūtāyāḥ pṛthivyā alpatvāt tasya mahimā dyulokād āśrāvayituṃ na śakyate | yadi tu pṛthivī daśaguṇitā bhavet sā ca stotṛbhir manuṣyaiḥ paripūrṇā syāt stotāraś ca maraṇarahitā bhūtvāhar-niśam indrasya tapaso mahimānam eva varṇayeyus tadaiva sa sarvām api dyāṃ vyāpnuyān na prāg iti ||* — "Here this is meant: although Indra's majesty is indeed well known through the valour displayed in the act of slaying Vṛtra and the rest, yet [by the men who tell of it — crowded, [?]], because they are short-lived by being men, and because their place, the earth, is small, his greatness cannot be made to reach the world of heaven. If the earth were ten times as large, and filled with men who praise, and the praisers were free from death and described by day and night only the greatness of Indra's power, then only would it extend over all heaven — not before." The Kannada adds: "Though the daring deeds done by Indra, such as the slaying of Vṛtra, are very well known, it is impossible for the praise made by men — short-lived, and subject to death, inhabitants of the earth — to be heard from the earth up to heaven. If the earth's extent were ten times larger, and the praising men lived long as though free from death, then the description of Indra's daring deeds made by the men of earth could fill the whole of heaven. Otherwise it is impossible. The sense is that Indra's greatness is as extraordinary as that."
+- **yad-it-nu** — "*yadinnu*: the particles *yat*, *it* and *nu* are used here in the sense of 'if indeed'."
+- **barhaṇā** — "*vṛtrādeḥ vadharūpā kriyā*: the word formed from the root *barha*, in accordance with the worldly rule *vabayor abhedaḥ*, has become *barhaṇā*. The Nirukta writers have used this word with the sense of 'killer' in the sūtra *barhaṇā* (Ni. 6-… as read [?])."
+- **dyām anu bhuvat** — "'It becomes as vast as the atmosphere': the sense comes from the connection with *anu*; and one may see in the śruti the Vedic (*leṭ*) form of the root *bhū*."
+
+**Vyākaraṇa-prakriyā** *(pp. 251–252 — grammar pages, noted briefly)*
+- **tatananta**: *tanu vistāre*; with the sense of the fruit of the action going to the agent, *ātmanepada* by *svaritañitaḥ kartrabhiprāye kriyāphale*; *chandasi luṅlaṅliṭaḥ* gives *laṅ*/*liṭ* in the sense of *liṭ*; *tanādikṛñbhya uḥ* would give *u*, but *vyatyayo bahulam* gives *śap*; the plural *jha* → *anta* by *jho 'ntaḥ*; the Vedic reduplication of the root; *halādiḥ śeṣaḥ*; *ato guṇe* gives *pararūpa* with *śap*'s *a*: *tatananta*; *śap* being *pit*, anudātta by *tāsyanudāttenṅidadupadeśāl…*, so the root's end-acute remains; because of the connected *yat*, no *nighāta*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes.
+- **viśrutam**: *śru śravaṇe*; *kta* in the sense of the object; being *kit*, no *guṇa*; *gatir anantaraḥ* (Pā. 6-2-49) gives the prefix *vi* its natural accent.
+- **barhaṇā**: *barha valha paribhāṣaṇahiṃsāchādaneṣu*; the Uṇādi suffix *kyu*; *yuvor anākau* gives *ana*; *vabayor abhedaḥ* gives *b* for the *v* of *valha*: *barhaṇ*; in the feminine, since it ends in *a*, *ṭāp*; by the suffix-accent, the *ā* after *ṇ* is acute; "*nibarhayati*" (Ni. 6-… as read [?]) is read in the sense of killing.
+- **maghavan**: the process was told earlier; the *nighāta* by *āmantritasya ca*.
+- **bhuvat**: *bhū sattāyām*; *leṭ* third singular *tip*; *leṭo 'ṭāṭau* gives *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* drops the *i* of *tip*; since *bhūsuvos tiṅi* (Pā. 7-3-88) forbids *guṇa*, *āciśnudhātubhruvāṃ…* (Pā. 6-4-77) gives *uvaṅ*: *bhuvat*; being after an *atiṅ*, *nighāta*. **|| 11 ||**
+
+---
+
+### Rik 52.12 (pp. 252–, PDF 268–)
+
+**Saṃhitā-pāṭha** *(p. 252; accents printed, not reproduced)*
+
+> **त्वमस्य पारे रजसो व्योमनः स्वभूत्योजा अवसे धृषन्मनः ।**
+> **चकृषे भूमिं प्रतिमानमोजसोऽपः स्वः परिभूरेष्या दिवम् ॥ १२ ॥**
+
+*tvam asya pāre rajaso vyomanaḥ svabhūtyojā avase dhṛṣanmanaḥ |*
+*cakṛṣe bhūmiṃ pratimānam ojaso 'paḥ svaḥ paribhūr eṣy ā divam || 12 ||*
+
+**Pada-pāṭha** *(p. 252)*
+
+> त्वम् । अस्य । पारे । रजसः । विऽओमनः । स्वभूतिऽओजाः । अवसे । धृषत्ऽमनः ।
+> चकृषे । भूमिम् । प्रतिऽमानम् । ओजसः । अपः । स्वः [स्वरिति] । परिऽभूः । एषि । आ । दिवम् ॥ १२ ॥
+
+*tvam | asya | pāre | rajasaḥ | vi-omanaḥ | svabhūti-ojāḥ | avase | dhṛṣat-manaḥ |*
+*cakṛṣe | bhūmim | prati-mānam | ojasaḥ | apaḥ | svar iti svaḥ | pari-bhūḥ | eṣi | ā | divam || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 252 — begins here; continues on p. 253)*
+
+> **हे धृषन्मनः शत्रूणां धर्षकमनोयुक्तेन्द्र । अस्यास्माभिः पश्यमानस्य व्योमनो व्याप्तस्यान्तरिक्षस्य रजसो लोकस्य पार उपरिप्रदेशे वर्तमानः स्वभूत्योजाः स्वभूतबलस्त्वमवसेऽस्मद्रक्षणार्थं भूमिं भूलोकं चकृषे कृतवानसि । किंच ओजसो बलवतां बलस्य प्रतिमानं प्रतिनिधिरभूः । तथा स्वः सुष्ठु …** *(the sentence continues on p. 253, PDF 269)*
+
+*he dhṛṣanmanaḥ śatrūṇāṃ dharṣakamanoyuktendra | asyāsmābhiḥ paśyamānasya vyomano vyāptasyāntarikṣasya rajaso lokasya pāra upariprade­śe vartamānaḥ svabhūtyojāḥ svabhūtabalas tvam avase 'smadrakṣaṇārthaṃ bhūmiṃ bhūlokaṃ cakṛṣe kṛtavān asi | kiṃca ojaso balavatāṃ balasya pratimānaṃ pratinidhir abhūḥ | tathā svaḥ suṣṭhu …* *(continued on p. 253)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.11 complete; Rik 52.12 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 252, PDF 268); the bhāṣya continues on p. 253 (PDF 269) at "tathā svaḥ suṣṭhu …" — NOT yet written: the rest of the bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 12, and Riks 52.13–52.15.**
+
+**Next task:** continue at printed p. 253 (PDF 269) with "**Rik 52.12, continued**" (take care to start from the end of the sentence "…tathā svaḥ suṣṭhu…"), then Riks 13 (Triṣṭubh), 14 (Jagatī), 15 (Triṣṭubh) and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264; the sūkta is thus nearly 50 pages). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra" as printed, final clause of the bhāṣya crowded [?]; 52.9 "svasvevamānāḥ", "anupūrvyeṇa harṣaṃ prāpayan" crowded [?], Ni. numeral for *pradhanam* [?]; 52.10 Special Topics passage "etad uktaṃ bhavati" crowded in places [?]; 52.11 Special Topics Sanskrit passage "prasedhayitvāṇām" crowded [?]; Uṇādi and Pāṇini numerals as read [?].
