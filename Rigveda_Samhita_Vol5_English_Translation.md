@@ -6128,8 +6128,81 @@
 
 ---
 
+**Rik 54.10, grammar (end)** *(p. 337 head, PDF 353)*: for *jighnate*, the *hanteḥ* here gives *ātmanepada* by *vyatyaya*; *aprkta* *te* is *ṅit* by *sārvadhātukam apit*, so *te* takes *ṅit*-ness; hence *gamahanajana…* (Pā. 6-4-98) drops the penultimate *a*; the *h* of the root turns to *gh* by *hohanter ñṇnaneṣu* [as printed, "*hohaṃte*", Pā. 7-3-54 as read, [?]]; alternatively by *abhyāsāc ca* (Pā. 7-3-55) *gh* comes from *kutva*; the *i* that *artipiparty…* [and] *bahulaṃ chandasi* (Pā. 7-4-78) prescribe, comes to the reduplicative here: *jighnate*; since it follows an *atiṅ*, *nighāta*. **|| 10 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.10 complete (through printed p. 338, PDF 354, the grammar page of Rik 10 as far as *jighnate*; if p. 338 holds a further grammar paragraph for Rik 10 it is at the head of p. 338 — check). Rik 54.11 (the last Rik, Triṣṭubh) and the close of Sūkta 54 are NOT yet written.**
+### Rik 54.11 (pp. 337–340, PDF 353–356; metre Triṣṭubh — the last Rik)
 
-**Next task:** view PDF 353–356 (printed pp. 337–340) — finish any remaining grammar of Rik 10, then write Rik 54.11 and the close of Sūkta 54 (the end of the sūkta should fall before Sūkta 55's start, ≈ p. 342 [?] per the table). Then the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–400 in `/tmp/x/w-NNN.jpg`. Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and numerals [?]; Rik 4 bhāṣya head and "mṛdubhāvaṃ" [?]; Rik 5 bhāṣya middle and last sentence crowded, Nirukta quotation [?]; Rik 6 reference numerals [?]; Rik 7 "upero [uparo] parān" and Nirukta numeral [?]; Rik 8 Nirukta numeral [?]; Rik 9 grammar note on *adridugdhāḥ* (the print's "druha" for "duha") [?]. The heading above Rik 54.4 is clumsy (it is Jagatī).
+**Saṃhitā-pāṭha** *(p. 337; accents printed, not reproduced)*
+
+> **स शेवृधमधि धा द्युम्नमस्मे महि क्षत्रं जनाषाळिन्द्र तव्यम् ।**
+> **रक्षा च नो मघोनः पाहि सूरीन्राये च नः स्वपत्या इषे धाः ॥ ११ ॥**
+
+*sa śevṛdham adhi dhā dyumnam asme mahi kṣatraṃ janāṣāḷ indra tavyam |*
+*rakṣā ca no maghonaḥ pāhi sūrīn rāye ca naḥ svapatyā iṣe dhāḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 337)*
+
+> सः । शेवृधम् । अधि । धाः । द्युम्नम् । अस्मे इति । महि । क्षत्रम् । जनाषाट् । इन्द्र । तव्यम् ।
+> रक्ष । च । नः । मघोनः । पाहि । सूरीन् । राये । च । नः । सुऽअपत्यै । इषे । धाः ॥ ११ ॥
+
+*saḥ | śevṛdham | adhi | dhāḥ | dyumnam | asme iti | mahi | kṣatram | janāṣāṭ | indra | tavyam |*
+*rakṣa | ca | naḥ | maghonaḥ | pāhi | sūrīn | rāye | ca | naḥ | su-apatyai | iṣe | dhāḥ || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 337–338)*
+
+> **हे इन्द्र स त्वमस्मे अस्मासु द्युम्नं यशोऽधि धाः । अधिनिधेहि । कीदृशमित्याह । शेवृधम् । शं शमनं । रोगाणां शमने सति यद्वर्धते तादृशम् । तथा महि महत् जनाषाट् शत्रुजनानामभिभवित्तव्यं तव्यं प्रवृद्धं क्षत्रं बलं चाधि धा इति शेषः । किंच हे इन्द्र नोऽस्मान्मघोनो धनवतः कृत्वा रक्ष । पालय । सूरीन् विदुषो विद्वान्पाहि । पालय । तथा रायै धनाय च स्वपत्यै शोभनपुत्रयुक्तायेषे चान्नाय च नोऽस्मान् धेहि । स्थापय ॥**
+
+*he indra sa tvam asme asmāsu dyumnaṃ yaśo 'dhi dhāḥ | adhinidhehi | kīdṛśam ity āha | śevṛdham | śaṃ śamanaṃ | rogāṇāṃ śamane sati yad vardhate tādṛśam | tathā mahi mahat janāṣāṭ śatrujanānām abhibhavittavyaṃ [?] tavyaṃ pravṛddhaṃ kṣatraṃ balaṃ cādhi dhā iti śeṣaḥ | kiṃca he indra no 'smān maghono dhanavataḥ kṛtvā rakṣa | pālaya | sūrīn vidușo vidvān pāhi | pālaya | tathā rāyai dhanāya ca svapatyai śobhanaputrayuktāyeṣe cānnāya ca no 'smān dhehi | sthāpaya ||*
+
+*(Reading notes: "*abhibhavittavyaṃ*" in the print is crowded; I read from the Pratipadārtha "overcoming enemies". "*sūrīn vidușo vidvān*" is as read — the print has the repetition "*vidvān*"… [?]. The grammatical tail, pp. 338, is characterized:* dhāḥ *(*ḍudhāñ*, *luṅ/laṅ/liṭ* for the prayer sense; the loss of *ī*; *luk* by *gātisthā…*; no *āṭ* by *bahulaṃ chandasy amāṅyoge 'pi*),* asme *(*supāṃ suluk* gives *śe* for the locative; *śeṣe lopaḥ*),* janāṣāṭ *(*sahe*, *chandasi sahaḥ*, *ṇvi*; *ata upadhāyāḥ*; *saheḥ sāḍaḥ saḥ* gives *ṣatva*; the lengthening of the first member; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*, *vāvasāne* gives *ṭ*),* tavyam *(*tu* in the sense of growth; *aco yat*; *dhātoḥ… avādeśa*),* rakṣa*,* maghonaḥ *(*śvayuvamaghonām atad dhite*, Pā. 6-4-133: *saṃprasāraṇa*; *guṇa*),* pāhi*,* svapatyai *(*śobhanāny apatyāni yasyāḥ*; *jasādiṣu chandasi vā vacanam* gives *yāṭ*; *vṛddhir eci*; *nañsubhyām*; *ekādeśa udāttenodāttaḥ*; *ayādeśa* with optional loss of *y*) — the Kannada pp. 338–340 give these in full, noted below.)*
+
+**Translation of the bhāṣya:** "O Indra, you, *asme*, upon us — *dyumnam*, fame — *adhi dhāḥ*, bestow: what kind? *Śevṛdham*: *śam* is cessation; that which grows when diseases cease — such. And *mahi*, great, *janāṣāṭ*, overcoming the people who are enemies, *tavyam*, enlarged, *kṣatram*, strength: bestow it (this is understood). Further, O Indra, *naḥ maghonaḥ kṛtvā*, making us wealthy, *rakṣa*, protect; *sūrīn*, the wise, *pāhi*, protect; and *rāye*, for wealth, *svapatyai*, for excellent offspring, and *iṣe*, for food, *naḥ dhāḥ*, establish us."
+
+**Pratipadārtha** *(p. 338)* — "**indra** — O Indra; **saḥ** — you; **asme** — in us; **śevṛdham** — that which grows (renown); **dyumnam** — fame; **adhi dhāḥ** — place and favour us (likewise); **mahi** — great; **janāṣāṭ** — that which overcomes enemies; **tavyam** — that which is grown; **kṣatram** — strength; (**adhi dhāḥ** — place); (and, O Indra) **naḥ** — us; **maghonaḥ** — make wealthy; **rakṣa** — protect; **ca** — and; **sūrīn** — other learned men; **pāhi** — protect; **rāye** — for wealth; **svapatyai** — together with excellent sons; **iṣe ca** — and for food; **naḥ** — us; **dhāḥ** — establish (make us possess wealth and food)."
+
+**Bhāvārtha** *(p. 338)* — "O Indra, favour us with fame that spreads widely and with great, enemy-overcoming, increasing strength. Make us wealthy and protect us. Protect other learned men also. Favour us with wealth and with food together with excellent sons."
+
+**English Translation (the source's own, p. 338)** — "Bestow upon us, Indra, increasing reputation; (bestow upon us) great augmenting and foe-subduing strength; protect us by making us rich; cherish the wise; and confer upon us wealth with excellent progeny and food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 339**
+- **asme** — "This is the form of the seventh case plural of the word *asmad*; it is used in the sense of *asmāsu* ('in us'). This word is used in the sense of all the cases."
+- **śevṛdham** — "*Śaṃ śamanam; rogāṇāṃ śamane sati yad vardhate tādṛśam*: that which grows after the cessation of a disease, as a patient does: may our fame grow in just that way."
+- **janāṣāṭ** — "That which overcomes enemy people. It is an epithet of the word *kṣatram*. Its derivation is *janān sahate iti janāṣāṭ*."
+- **maghonaḥ** — "Since the word *magha* means wealth, when praying 'make us wealthy', this word is an epithet of the word *asmān*."
+- **svapatyai** — "*Śobhanāni apatyāni yasyāḥ*: that which has excellent children and the like. This word is an epithet of *iṣe* [i.e. *annāya*]."
+
+**Vyākaraṇa-prakriyā** *(pp. 339–340 — grammar pages, noted briefly)*
+- **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of prayer, *chandasi luṅlaṅliṭaḥ* gives *laṅ*; *itaś ca* drops the *i* of *sip*; *cleḥ sic* → *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) drops *sic*; *bahulaṃ chandasy amāṅyoge 'pi* gives no *aṭ*; *ru*, *visarga*: *dhāḥ*; *nighāta*.
+- **asme**: the seventh-case plural of *asmad*; *supāṃ suluk…* gives *śe* for the locative; *śeṣe lopaḥ* drops the part of *asmad* above *ma*: *asme*.
+- **janāṣāṭ**: "*janān sahate*"; *chandasi sahaḥ* (Pā. 3-2-63) gives *ṇvi* after *sah*; being *ñit*, *ata upadhāyāḥ* gives *vṛddhi*; in the nominative singular *saheḥ sāḍaḥ saḥ* (Pā. 8-3-56) gives *ṣatva* to the *s*; *anyeṣām api dṛśyate* lengthens the first member; *janāsāh* + *s*: *halṅyābbhyo…* drops *su*; *hoḍhaḥ* gives *ḍha*; *jhalāṃ jaśo 'nte* gives *ḍ*; *vāvasāne* gives *carva* optionally: *janāṣāṭ*; *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*.
+- **tavyam**: *tu* in the sense of growth (read only in sūtras); *aco yat* gives *yat*; when *yat* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; since *o* is followed by *y*, *dhātos tannimittasyaiva* (Pā. 6-1-80) gives *av*; *yato 'nāvaḥ* gives the initial acute.
+- **rakṣa**: *rakṣa pālane*; *loṭ* second singular *sip*, → *hi*; *śap*; before *a*, *ato heḥ* drops *hi*: *rakṣa*; *śap* being *pit* is *anudātta*, so the root's accent holds; since the word begins a *pāda*, *apādādau* forbids *nighāta*; in the Saṃhitā *dvyaco 'tas tiṅaḥ* lengthens it: *rakṣā*.
+- **maghonaḥ**: *maghavan* with *śas*; because of the *bha*-designation, *śvayuvamaghonām atadhite* (Pā. 6-4-133) gives *saṃprasāraṇa*; *saṃprasāraṇāc ca*; *magha + un + as*: *guṇa*; *ru*, *visarga*: *maghonaḥ*.
+- **pāhi**: *pā rakṣaṇe*, *adādi*; *loṭ* second singular *sip* → *hi*; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; since *hi* is stated as *apit*, the suffix-accent holds; *pāhi* is end-acute; though *maghonaḥ* — a *tiṅanta* — stood before, it belongs to a different sentence; since *pāhi* is at the head of the sentence, *nighāta* does not come.
+- **svapatyai**: "*śobhanāny apatyāni yasyāḥ sā svapatyā*"; dative singular, feminine *ṅe* → *ṅī*… *jasādiṣu chandasi vā vacanam* gives *yāṭ* for the *ṅe* after a feminine stem [the *āṭ* *yoḍāpaḥ*, Pā. 7-3-113]; *vṛddhir eci* (Pā. 6-1-88) gives *vṛddhi*: *svapatyai*; *nañsubhyām* gives the end-acute of the last member; *ekādeśa udāttenodāttaḥ* gives the acute to *ai*; in the Veda, because the *e* is followed by *i*, *eco 'yavāyāvaḥ* gives *āy*, and optionally the *y* is dropped.
+
+**Closing note** *(p. 340, printed large)* — "**ಐವತ್ತ ನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-fourth sūkta is ended." *(Unlike Sūktas 47–53, this sūkta carries a closing sentence in the print; a small ornament follows.)* **|| 11 ||**
+
+---
+
+### Close of Sūkta 54
+
+**Sūkta 54 (Maṇḍala 1, Tenth Anuvāka, 11 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī in Riks 1–5, 7, 10; Triṣṭubh in Riks 6, 8, 9, 11 by the introduction) — printed pp. 303–340, PDF 319–356.** The Riks are a petition and praise addressed to Indra: do not cast us into sin and sinful battles, for the limit of your strength cannot be measured and even the earth is afraid (1); worship the listening, powerful Indra who adorns heaven and earth and sends rain (2); offer him a delight-giving hymn, for he is great-renowned and breaks enemies (3); he shook the summit of heaven and killed Śambara by his own strength and hurled the sharp bolt at the Asuras (4); he pours water on the head of the wind and the sun, and who is above him (5); he protected Narya, Turvaśa, Yadu and Turvīti and broke the ninety-nine cities of Śambara (6); the sacrificer who praises him becomes a king and Indra brings rain from heaven for him (7); his strength and wisdom are peerless and the sacrificers grow by their rites (8); here are the pressed soma juices, drink and then turn your mind to giving us wealth (9); he released the waters from the darkness-covered belly of Vṛtra (10); and a final prayer for fame, strength, wealth, protection of the wise, offspring and food (11). The Special Topics carry little reference-matter: the Bhāgavata note on Savya's fear (Rik 1), the Śambara and Turvīti accounts by cross-reference (Riks 4, 6), and the Nirukta glosses on *upara* and *vṛndin*.
+
+---
+
+## END OF THE USER'S REQUESTED RANGE (Sūktas 51–54)
+
+*(Sūkta 55 begins at the head of printed p. 341 = PDF 357; it is not translated in this session.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340 = PDF 17–356; Sūkta 54 ends at the foot of p. 340 with the closing line "the fifty-fourth sūkta is ended"). The user's instruction of this session ("translate Sūktas 51–54") is FULFILLED. Next: Sūkta 55 begins at the head of printed p. 341 = PDF 357 — NOT yet examined.**
+
+**Next task (when the user asks):** Sūkta 55 (check its title page and counts from the print at PDF 357; the contents table in the header gives approximate starts for Sūktas 55–61). Page images for PDF 331–400 exist in `/tmp/x/w-NNN.jpg` (re-render beyond with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w`). The scheduled routines remain PAUSED (re-enable only on the user's request). Flags for Sūktas 51–54 are recorded in the individual Riks (crowded passages and all reference/sūtra numerals marked [?]); the heading above Rik 54.4 is clumsy (it is Jagatī); the Rik 54.11 bhāṣya has two crowded phrases ("abhibhavittavyaṃ", "vidvān" repetition) [?].
