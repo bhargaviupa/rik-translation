@@ -5674,8 +5674,73 @@
 
 ---
 
+**Rik 54.3, continued** *(pp. 312–313, PDF 328–329)*
+
+**Pratipadārtha** *(p. 312)* — "(O praiser) **dive** — to the shining; **bṛhate** — the wonderful Indra; **śūṣyam** — delight-giving; **vacaḥ** — (the hymn-form) word; **arca** — offer, utter; **dhṛṣataḥ** — who makes enemies afraid, or who is himself fearless; **yasya** — of which Indra; **svakṣatram** — firm by his own strength; **manaḥ** — the mind; **dhṛṣat** — has become fixed (with single-pointed intent); **hi saḥ** — for that Indra; **bṛhacchravāḥ** — of excessive renown; **asuraḥ** — the sender of rain-water; **barhaṇā** — the one who breaks and drives off the enemies; **rathaḥ** — the one who moves (hither; i.e. who comes to us)."
+
+**Bhāvārtha** *(p. 312)* — "O praiser, offer a delight-giving hymn to the shining, wonderful Indra. That Indra, whose firm mind is single-pointedly set, who makes enemies fear and himself fears none, is of great renown; he sends down the water of the rain; he breaks and drives off enemies, and comes to us."
+
+**English Translation (the source's own, p. 312)** — "Offer pleasant laudations to the great and illustrious Indra, who is the victor of enemies and is firm-minded by his own strength. He, of great renown is obeyed by his horses, the showerer of bounties and impetuous, drives away the Asuras and enemies."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 312**
+- **dive** — "The word *div*, which denotes the atmosphere, has here the sense of brightness. It is an epithet of the word *bṛhat*."
+- **śūṣyam** — "*Śūṣa* means happiness. A hymn that gives happiness is called *śūṣya*."
+- **asuraḥ** — "One who casts off enemies. Or: *asuḥ prāṇo balaṃ vā tadvān asuraḥ*: if one explains thus, it means 'one who has special strength'. Or *asavaḥ* means the life-breaths, and by that, water is also meant: the śruti '*prāṇā vā āpaḥ*' (Tai. Brā. 3-2-5-2 as read [?]) is the authority for this. One who *rāti*, gives, such water: the Rākṣasas like Vṛtra from time to time took the form of clouds and obstructed the earth's waters; he kills such. Or, he himself brings the rain to the earth (Indra)."
+
+  > **प्राणा वा आपः ।** *(Tai. Brā. 3-2-5-2 as read [?])*
+
+  *prāṇā vā āpaḥ |* — mine and tentative: "the waters are indeed the life-breaths."
+- **barhaṇā** — "One who makes the enemies flee in all directions."
+- **vṛṣabhaḥ** — "One who rains the desired ends like rain."
+- **rathaḥ** — "*Raṃhaṇaśīlaḥ*: one whose nature is to move swiftly; one who attacks enemies (Indra)."
+
+**Vyākaraṇa-prakriyā** *(p. 313 — grammar page, noted briefly)*
+- **dive**: dative singular of *div*; the vibhakti-accent by *ūḍidaṃ padādi…* (Pā. 6-1-171).
+- **śūṣyam**: "*śūṣe sādhu śūṣyam*", *tatra sādhuḥ* (Pā. 4-4-98) gives *yat*; because it begins with *y* it gets the *bha*-designation; *yasyeti ca* drops the *a*; since *yat* is *tit*, *yato 'nāvaḥ* would give the initial acute, but "all rules are optional in the Veda" (*sarve vidhayaś chandasi vikalpyante*), so it does not come here; *tit svaritam* gives *svarita*.
+- **dhṛṣataḥ**: *ñidhṛṣā prāgalbhye*; *śatṛ* in the sense of *laṭ*; *vyatyayo bahulam* gives *śa*-characteristic instead of *śap*; so no *laghūpadha-guṇa*; *sārvadhātukam apit* makes it *ṅit*; *ato guṇe* gives *pararūpa*: *dhṛṣat*; genitive singular; *śaturanumo nadyajādī* gives the ending its acute.
+- **bṛhacchravāḥ**: "*bṛhat śravo yasya*": a bahuvrīhi; *bahuvrīhau prakṛtyā pūrvapadam*.
+- **asuraḥ**: *asu kṣepaṇe*, *divādi*; *asser uran* (Uṇ. 1-42 as read [?]) gives *uran*; being *nit*, *ñnityādir nityam* gives the initial acute.
+- **barhaṇā**: *supāṃ suluk*… gives *ā* in the instrumental [as printed; probably "nominative"] dual…: [the print says "third dual"; I note it as read, [?]].
+- **puraḥ**: *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39 as read [?]) gives *asi* in the sense of "from this"; with it *pūrva* takes the substitute *pur*: *puras*; *ru*, *visarga*: *puraḥ*; end-acute by the suffix-accent. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.2 complete; Rik 54.3 written from the Saṃhitā and Pada through the main bhāṣya (printed p. 311, PDF 327). Its Pratipadārtha etc. (from p. 312, PDF 328) and Riks 54.4–54.11 are NOT yet written.**
+### Rik 54.4 (pp. 313–, PDF 329–; metre Triṣṭubh? — the heading marks Riks 6, 8, 9, 11 as Triṣṭubh, so Rik 4 is Jagatī)
 
-**Next task:** continue at printed p. 312 (PDF 328) with "**Rik 54.3, continued**" (Pratipadārtha, Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 4–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages). Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and the Taittirīya Brāhmaṇa numeral [?].
+**Saṃhitā-pāṭha** *(p. 313; accents printed, not reproduced)*
+
+> **त्वं दिवो बृहतः सानु कोपयोऽव त्मना धृषता शंबरं भिनत् ।**
+> **यन्मायिनो वृन्दिनो मन्दिना धृषच्छिताम् गभस्तिमशनिं पृतन्यसि ॥ ४ ॥**
+
+*tvaṃ divo bṛhataḥ sānu kopayo 'va tmanā dhṛṣatā śaṃbaraṃ bhinat |*
+*yan māyino vṛndino mandinā dhṛṣac chitāṃ gabhastim aśaniṃ pṛtanyasi || 4 ||*
+
+**Pada-pāṭha** *(p. 314)*
+
+> त्वम् । दिवः । बृहतः । सानु । कोपयः । अव । त्मना । धृषता । शम्बरम् । भिनत् ।
+> यत् । मायिनः । वृन्दिनः । मन्दिना । धृषत् । शिताम् । गभस्तिम् । अशनिम् । पृतन्यसि ॥ ४ ॥
+
+*tvam | divaḥ | bṛhataḥ | sānu | kopayaḥ | ava | tmanā | dhṛṣatā | śambaram | bhinat |*
+*yat | māyinaḥ | vṛndinaḥ | mandinā | dhṛṣat | śitām | gabhastim | aśanim | pṛtanyasi || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 314)*
+
+> **हे इन्द्र त्वं बृहतो महतो दिवो द्युलोकस्य सानु समुच्छ्रितमुपरिप्रदेशं कोपयः । आकम्पयः । धृषता शत्रूणां धर्षयित्रा त्मनात्मना स्वयमेव शंबरमेतत्संज्ञमसुरमवाभिनत् । अवधीः । यद्यदा वृन्दिनः शत्रून् जेतुं मृदुभावं प्राप्तान् । यद्वा वृन्दं समूहः । असुरसमूहवतः । मायिनो मायाविनोऽसुरान् मन्दिना हृष्वेन धृषत् धृषता प्रागल्भ्यं प्राप्तवता मनसा युक्तस्त्वं शिताम् तीक्ष्णीकृताम् गभस्तिं हस्तेन गृहीताम् । यद्वा गभस्तिरिति रश्मिनाम । तद्वतीमशनिं वज्रं पृतन्यसि । तानसुरान् जेतुं पृतनारूपेणेच्छसि । तान् प्रति प्रेरयसीत्यर्थः । तदानीं बृहतो दिवः सानु कोपयः इति पूर्वेणान्वयः ॥**
+
+*he indra tvaṃ bṛhato mahato divo dyulokasya sānu samucchritam upariprade­śaṃ kopayaḥ | ākampayaḥ | dhṛṣatā śatrūṇāṃ dharṣayitrā tmanātmanā svayam eva śambaram etatsaṃjñam asuram avābhinat | avadhīḥ | yad yadā vṛndinaḥ śatrūn jetuṃ mṛdubhāvaṃ prāptān | yadvā vṛndaṃ samūhaḥ | asurasamūhavataḥ | māyino māyāvino 'surān mandinā hṛṣvena dhṛṣat dhṛṣatā prāgalbhyaṃ prāptavatā manasā yuktas tvaṃ śitāṃ tīkṣṇīkṛtāṃ gabhastiṃ hastena gṛhītām | yadvā gabhastir iti raśminām | tadvatīm aśaniṃ vajraṃ pṛtanyasi | tān asurān jetuṃ pṛtanārūpeṇecchasi | tān prati prerayasīty arthaḥ | tadānīṃ bṛhato divaḥ sānu kopayaḥ iti pūrveṇānvayaḥ ||*
+
+*(Reading notes: the print's "*bṛhato maruto divo*" at the head — I read "*bṛhato mahato*", which the Pratipadārtha supports ("of the very great heaven"), [?]; "*mṛdubhāvaṃ*" is crowded, [?]. The grammatical tail, pp. 314: on* kopayaḥ *(*kupa kope*, *ṇic*, *laṅ*; the Vedic non-*aṭ*),* tmanā *(*mantreṣv āṅy ādeḥ…* the loss of the *a* in *ātman*),* dhṛṣat *(*supāṃ suluk* with *luk* for the instrumental),* śitām *(*śo tanūkaraṇe*, *niṣṭhāyāṃ śāc choranyatarasyām*, Pā. 6-4-… as read [?]),* pṛtanyasi *(*pṛtanām icchati*, *supa ātmanaḥ kyac*, the loss of the end of *pṛtanā*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, you *kopayaḥ*, shook, *sānu*, the lofty top, the upper region, of *bṛhataḥ divaḥ*, the great heaven; *dhṛṣatā*, overpowering enemies, *tmanā*, of yourself, by yourself alone, *śambaram*, the Asura of that name, *avābhinat*, you split; killed — *yat*, when *vṛndinaḥ* [those enemies that had become soft in order to conquer — or, *vṛnda* is a multitude: possessed of hosts of Asuras], the *māyinaḥ*, the deceitful Asuras: you, joined with a mind *mandinā*, glad and *dhṛṣat*, bold, *pṛtanyasi*, desire as an army — you hurl against them — *aśanim*, the thunderbolt, *śitām*, sharpened, *gabhastim*, held in the hand (or: *gabhasti* is a name of rays — bearing rays); to conquer those Asuras. Then, 'you shook the top of great heaven' — connect with the first part."
+
+**Pratipadārtha** *(p. 314)* — "(O Indra) **dhṛṣatā** — causing fear to the enemies; **tmanā** — by your own power alone; **śambaram** — the Rākṣasa named Śambara; **āvābhinat** — you destroyed; **yat** — when; **vṛndinaḥ** — those who have taken a gentle manner in order to conquer their enemies, or those joined together in a mass; **māyinaḥ** — the deceitful Rākṣasas; **mandinā** — with a delighted; **dhṛṣat (dhṛṣatā)** — firm-resolved for the destruction of enemies, mind (you); **śitām** — sharpened; **gabhastim** — filled with rays, or held in the hand; **aśanim** — the thunderbolt; **pṛtanyasi** — you hurled with force (upon that Asura); **tvam** — you; **bṛhataḥ** — very great; **divaḥ** — of the sky; **sānu** — the lofty region; **kopayaḥ** — shook."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.3 complete; Rik 54.4 written from the Saṃhitā and Pada through the Pratipadārtha (printed p. 314, PDF 330). Its Bhāvārtha, English, Special Topics, Vyākaraṇa (from p. 315, PDF 331) and Riks 54.5–54.11 are NOT yet written.**
+
+**Next task:** render PDF 331 onward (`pdftoppm -jpeg -r 150 -f 331 -l 400 Rig_Vol5.pdf /tmp/x/w`) and continue at printed p. 315 (PDF 331) with "**Rik 54.4, continued**" (Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 5–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti", Tai. Brā. numeral and the Kannada grammar note on *barhaṇā* [?]; Rik 4 bhāṣya head "bṛhato maruto divo" and "mṛdubhāvaṃ" [?].
