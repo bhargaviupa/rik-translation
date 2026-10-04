@@ -599,8 +599,87 @@
 
 ---
 
+**Rik 47.9, continued** *(from p. 26)*
+
+**Pratipadārtha** *(p. 26)* — "**nāsatyā** — O Aśvin gods; **yena** — with which chariot (in which); **dāśuṣe** — to the sacrificer who gives the oblation; **vasu** — wealth; **śaśvat** — always; **ūhathuḥ** — have brought, conveying; **sūryatvacā** — covered by the Sun (by the rays of the Sun), or like the rays of the Sun; **tena** — by that well-known; **rathena** — with the chariot (sitting in it); **madhvaḥ** — sweet; **somasya** — of the Soma juice; **pītaye** — for drinking; **ā gatam** — come."
+
+**Bhāvārtha** *(p. 26)* — "O Aśvin gods, your chariot is famous in the world. In it you have always conveyed wealth to the sacrificer who gives the oblation. When it travels, it is covered by the rays of the Sun, or shines like the rays of the Sun. Come, seated in that chariot, to drink the Soma juice."
+
+**English Translation (the source's own, p. 26)** — "Truthful Aswins, come hither to drink the sweet soma with your chariot, bright as the sun in which you have ever conveyed wealth to the worshipper."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 26**
+- **sūryatvacā** — "*sūryasaṃvṛtena, sūryaraśmisadṛśena vā*: covered by the Sun, or like the rays of the Sun, that is, shining like the Sun."
+- **śaśvat** — "*sarvadā*: always."
+- "In this ṛk there are uses of the words *yena* and *tena*. 'O Aśvin gods, come here, sitting in that shining chariot of yours, like the Sun, in which you have been bringing wealth and the like to the sacrificer who performs the sacrifice, to drink the Soma': this is the idea."
+
+**Vyākaraṇa-prakriyā** *(pp. 26–27 — grammar pages, noted briefly)*
+- **sūryatvacā**: root *tvaca saṃvaraṇe*; "*tvacati* = *saṃvṛṇoti*", *tvak* (the sense of "covering", i.e. concealing; the Sun's ray covers the whole world, or conceals); "*sūryasya tvag iva tvak yasya saḥ*", one whose ray is like the Sun's ray. *Rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* (Pā. 3-1-114 as read [?]) — राजसूयसूर्य… — in the words of this sūtra, the *kyap*-ending forms are given by *nipātana*; the augment *ruṭ* is also given by *nipātana* in the word *sūrya*; the suffix is *pit*, so unaccented; the first member's natural accent in the bahuvrīhi.
+- **ūhathuḥ**: root *vaha prāpaṇe*; *liṭ*, *thas* → *athus* (*tasthasthamipāṃ…*); *asaṃyogāl liṭ kit* (Pā. 1-2-5 as read) makes *liṭ* *kit*; doubling; *liṭy abhyāsasyobhayeṣām* (Pā. 6-1-17 as read) gives *saṃprasāraṇa* to the reduplicative syllable of roots such as *vaci* and *grahi*, when *liṭ* follows: the *v* of the reduplicative syllable becomes *u*, *pūrvarūpa*; *halādiḥ śeṣaḥ* drops the *h*; *u + vah + athus*; *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15 as read) gives *saṃprasāraṇa* of *vah* before a *kit* suffix; *pūrvarūpa*: *u-uh-athus*; *savarṇadīrgha*; *ru*, *visarga*; the suffix-accent. The *yad*-connexion is present through *yena*, so no all-unaccented. **|| 9 ||**
+
 ---
 
-**Progress note — Volume 5: Sūkta 47 in progress: printed p. 25 (PDF 41) reached; introduction, heading and Riks 47.1–47.8 complete; Rik 47.9's Saṃhitā, Pada and Sāyaṇa-bhāṣya (with translation) are written; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar begin on p. 26 and are NOT yet written.**
+### Rik 47.10 (pp. 27–29, PDF 43–45)
 
-**Next task:** continue at printed p. 26 (PDF 42): insert "**Rik 47.9, continued** *(from p. 26)*"; then Rik 10 and the close of Sūkta 47 (ends before printed p. 30 — check the print; the start of Sūkta 48 is on the same leaf); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 42 -l 48 Rig_Vol5.pdf /tmp/x/w` if lost (`w-042.jpg`). Flags for 47.7–9: sūtra, Uṇādi and Nirukta numerals "as read [?]"; in 47.8 the opening phrase "savanedupāsmad…" and the printed *savanedupa* crowded; the Mahābhāṣya-style rule after *saptamīpamānety ādinā* in 47.9 crowded; the discussion of *yadvṛtta* and *pūjanāt pūjitam* in 47.7 outlined only; the source's English in 47.8 has "he offering" [sic]. **Note:** both scheduled routines (12:45 and 05:52 IST daily) now do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 27; accents not reproduced)*
+
+> **उक्थेभिरर्वागवसे पुरूवसू अर्कैश्च नि ह्वयामहे ।**
+> **शश्वत्कण्वानां सदसि प्रिये हि कं सोमं पपथुरश्विना ॥ १० ॥**
+
+*ukthebhir arvāg avase purūvasū arkaiś ca ni hvayāmahe |*
+*śaśvat kaṇvānāṃ sadasi priye hi kaṃ somaṃ papathur aśvinā || 10 ||*
+
+**Pada-pāṭha** *(p. 27)*
+
+> उक्थेभिः । अर्वाक् । अवसे । पुरुवसू इति पुरुऽवसू । अर्कैः । च ।
+> नि । ह्वयामहे ॥
+> शश्वत् । कण्वानाम् । सदसि । प्रिये । हि । कम् । सोमम् । पपथुः । अश्विना ॥ १० ॥
+
+*ukthebhiḥ | arvāk | avase | puruvasū iti puru-vasū | arkaiḥ | ca |*
+*ni | hvayāmahe ||*
+*śaśvat | kaṇvānām | sadasi | priye | hi | kam | somam | papathuḥ | aśvinā || 10 ||*
+
+*(The Saṃhitā prints the second word as* arvāg*, the Pada as* arvāk*: the final consonant is voiced by sandhi.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 27–28)*
+
+> **पुरूवसू प्रभूतधनावश्विनौ अवसेऽस्मद्रक्षणार्थमुक्थेभिरुक्थैः शस्त्रैरर्कैश्चार्चनसाधनैः स्तोत्रैश्चार्वागस्माभिमुख्येन नि ह्वयामहे । निकरामाह्वयामः । हे अश्विना कण्वानां कण्वपुत्राणां मेधाविनां वा प्रिये सदसि यज्ञस्थाने शश्वत्सर्वदा सोमं पपथुर्हि कं । युवां पीतवन्तौ खलु ॥ उक्थेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । बहुवचने झल्येदित्येत्वं । अर्कैः । ऋच स्तुतौ । पुंसि संज्ञायां घः प्रायेणेति करणे घः । चजोः कु घिण्ण्यतोरिति कुत्वं । नि ह्वयामहे । निसमुपविभ्यो ह्वः । पा. १-३-३० । इत्यात्मनेपदं । सदः । सीदन्त्यस्मिन्निति सदः । असुनो नित्त्वादाद्युदात्तत्वं । पपथुः । पा पाने । लिट्यतो लोप इटि चेत्याकारलोपः । प्रत्ययस्वरः । हि चेति निघातप्रतिषेधः ॥ १० ॥**
+
+*purūvasū prabhūtadhanāv aśvinau avase 'smadrakṣaṇārtham ukthebhir ukthaiḥ śastrair arkaiś cārcanasādhanaiḥ stotraiś cārvāg asmābhimukhyena ni hvayāmahe | nikarām āhvayāmaḥ | he aśvinā kaṇvānāṃ kaṇvaputrāṇāṃ medhāvināṃ vā priye sadasi yajñasthāne śaśvat sarvadā somaṃ papathur hi kaṃ | yuvāṃ pītavantau khalu || ukthebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | bahuvacane jhaly et ity etvaṃ | arkaiḥ | ṛca stutau | puṃsi saṃjñāyāṃ ghaḥ prāyeṇeti karaṇe ghaḥ | cajoḥ ku ghiṇṇyatoriti kutvaṃ | ni hvayāmahe | nisamupavibhyo hvaḥ | pā. 1-3-30 | ity ātmanepadaṃ | sadaḥ | sīdanty asminn iti sadaḥ | asuno nittvād ādyudāttatvaṃ | papathuḥ | pā pāne | liṭy ato lopa iṭi cety ākāralopaḥ | pratyayasvaraḥ | hi ceti nighātapratiṣedhaḥ || 10 ||*
+
+**Translation:** "*Purūvasū*, O Aśvins of abundant wealth, *avase*, for our protection, *ukthebhiḥ*, with *uktha*-hymns (*śastras*, recitations), *arkaiḥ ca*, and with *arkas*, hymns that serve as means of worship, *arvāk*, turned towards us — *ni hvayāmahe*, we call you earnestly. O Aśvins, *kaṇvānām*, of the Kaṇvas, the sons of Kaṇva or wise priests, *priye sadasi*, in the dear seat, the place of sacrifice, *śaśvat*, always, *somam papathuḥ hi kam*, you have drunk the Soma (*kam*: the print explains the particle as 'indeed'); you two have drunk, surely. *Ukthebhiḥ*: *bhis* does not become *ais* (*bahulaṃ chandasi*); *e* by *bahuvacane jhaly et*. *Arkaiḥ*: root *ṛca stutau*; *gha* by *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* in the instrument sense; *ku* by *cajoḥ ku ghiṇṇyatoḥ*. *Ni hvayāmahe*: the *ātmanepada* by *ni-sam-upa-vibhyo hvaḥ* (Pā. 1-3-30). *Sadaḥ*: 'in which they sit'; *asun* is *nit* and so initial-acute. *Papathuḥ*: root *pā pāne*; *liṭ*; the *ā* drops by *āto lopa iṭi ca*; the suffix-accent; the all-unaccented is blocked by *hi ca*."
+
+**Pratipadārtha** *(p. 28)* — "**purūvasū** — the Aśvin gods who have abundant wealth; **avase** — for (our) protection; **ukthebhiḥ** — with *śastra* mantras; **arkaiḥ ca** — and with hymns of worship; **arvāk** — facing us (in order to come near us); **ni hvayāmahe** — we call earnestly (praying); **aśvinā** — O Aśvin gods; **kaṇvānām** — of the sons of Kaṇva, or wise priests; **priye sadasi** — in the dear place of sacrifice; **śaśvat** — always; **somam** — the Soma juice; **papathuḥ hi kam** — you have drunk, have you not?"
+
+**Bhāvārtha** *(p. 28)* — "We call earnestly, with *uktha* mantras and with hymns of worship, the Aśvin gods who have abundant wealth, to come near us for our protection. O Aśvin gods, have you not always drunk the Soma juice in the sacrificial hall, dear to you, of the sons of Kaṇva or wise priests?"
+
+**English Translation (the source's own, p. 28)** — "With hymns and songs we invoke the wealthy Aswins to be present for our protection. Have you not always drunk the soma juice in the favoured dwelling of the Kanwas ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 28**
+- **ukthebhiḥ** — "*śastra*-mantras, that is, Ṛgveda mantras recited firmly (steadily)."
+- **arkaiḥ ca** — "*stotraiḥ ca*: with Sāmaveda mantras fit for singing."
+- **sadasi priye** — "in the sacrificial hall of the Kaṇva line, dear to you. *Sīdanty asmin iti sadaḥ*: a place to sit, an assembly, a sacrificial hall, and so on."
+
+**Vyākaraṇa-prakriyā** *(p. 29 — grammar page, noted briefly)*
+- **ukthebhiḥ**: root *vaca paribhāṣaṇe*; the Uṇādi rule *pātrā-tudi-vaci-rici-sici-bhyaḥ thak* (Uṇ. 2-[?]4 as read [?]) gives the suffix *thak* after these roots; *vacisvapi…* gives *saṃprasāraṇa*; *bahulaṃ chandasi* (Pā. 7-1-10 as read) — *ais* does not come for *bhis*; *bahuvacane jhaly et* (Pā. 7-3-103 as read) — *e* for the final *a* of an *aṅga* ending in *a*, before a plural *sup* beginning with a *jhal*.
+- **arkaiḥ**: root *ṛca gatau* [as printed; the bhāṣya says *stutau*]; *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* (Pā. 3-3-118 as read [?]) — in the masculine, in a name, the suffix *gha* comes by and large in the instrument or locative sense; *cajoḥ ku ghiṇṇyatoḥ* (Pā. 7-3-52 as read [?]) gives *k* and *g* for *c* and *j* before *gha*, *ṇit* and *yat*; *ṛ* gets *guṇa* of the light penultimate and *raparatva*: *arka*.
+- **ni hvayāmahe**: root *hveñ spardhāyāṃ śabde ca*, which is *ñit*; the *ātmanepada* follows from *svaritañitaḥ kartrabhiprāye kriyāphale* (Pā. 1-3-72 as read) when the fruit goes to the agent, and also in some cases without it; *nisamupavibhyo hvaḥ* (Pā. 1-3-30 as read) — after *ni, sam, upa, vi*, the root *hveñ* takes the *ātmanepada*.
+- **sadasi**: "*sīdanty asmin*", the place where all sit together; *sarvadhātubhyo 'sun* (Uṇ. 4-[?]8 as read [?]) after *ṣadḷ*; being *nit*, initial-acute.
+- **papathuḥ**: root *pā pāne*; *liṭ*, *thas* → *athus*; *pā + athus*, doubling, shortening of the reduplicative syllable; *papā + athus*; *āto lopa iṭi ca* (Pā. 6-4-64 as read) — the *ā* drops before an *ārdhadhātuka* that is *kit* or *ñit* beginning with a vowel, and before *iṭ*; so the *ā* drops; *ru*, *visarga*; *hi ca* (Pā. 8-1-34 as read) — when *hi* is present, a finite verb is not unaccented; so the all-unaccented is blocked; the *a* of *athus* is acute by the suffix-accent. **|| 10 ||**
+
+---
+
+**Close of Sūkta 47.** After the grammar of Rik 10, at the foot of printed p. 29, only a flourish (a printer's ornament) closes the sūkta; **no printed closing sentence** ("*illige … sūktavu mugidudu*") appears. The sūkta (*ayaṃ vāṃ madhumattamaḥ*, ten Riks) therefore occupies printed pp. 1–29 (PDF 17–45). The next leaf, **p. 30 = PDF 46**, begins with the large title "*nalavattettaneya sūktavu*" ("the forty-eighth sūkta") at the head of the page — a clean boundary, and the contents table's page for Sūkta 48 (p. 30) is confirmed.
+
+**Beginning of Sūkta 48 (identification only, not translated here).** Sāyaṇa's introduction (Kannada script) reads, as I see it: "*saha vāmeneti ṣoḍaśarcaṃ pañcamaṃ sūktaṃ | praskaṇva ṛṣiḥ | bārhatatvāpayeyujo bṛhatyo yujaḥ satobṛhatyaḥ [?] | uṣā devatā | saha ṣoḷaśoṣasyaṃ [?] ity atrānukramaṇikā | prātaranuvāka uṣasye kratau bārhate chandasīdaṃ sūktaṃ | athoṣasya iti khaṇḍe sūtritaṃ | pratyu adarśi saha vāmeneti bārhatam | ā. 4-14 [?] | iti | tathāśvinaśastre 'py etat sūktaṃ prātaranuvākanyāyena | ā. 6-5 [?] ity atidiṣṭatvāt*" — the fifth sūkta of the ninth anuvāka, **sixteen ṛks**, ṛṣi Praskaṇva Kāṇva, deity **Uṣas**, metre Prāgātha–Bārhata (the odd ṛks Bṛhatī, the even Satobṛhatī), used in the Prātaranuvāka at the Uṣasya rite (Āśv. 4-14 [?]) and in the Āśvina-śastra (Āśv. 6-5 [?]). The heading block (varga "3, 4, 5") and Rik 1 (*saha vāmena na uṣo vyucchā duhitar divaḥ | saha dyumnena bṛhatā vibhāvari rāyā devi dāsvatī ||*, as read on p. 30) are on the same page. The Kannada anuvāda, heading and Rik 1 are **not yet written** and belong to the next session.
+
+**Summary of Sūkta 47 (my note).** Ten Riks to the Aśvins, the first sūkta of the Fourth Adhyāya. Rik 1 offers them the sweet Soma pressed on the previous day and asks riches for the sacrificer; Rik 2 invites them in their three-seated, three-fold chariot, as the Kaṇvas make hymns; Rik 3 asks them to drink the Soma and then come, bearing wealth, to the sacrificer; Rik 4 says the Kaṇvas, with Soma pressed, call them to sit on the three-layered grass and sprinkle the sacrifice; Rik 5 asks them to protect us as they protected Kaṇva; Rik 6 asks for the food and the much-desired wealth they brought to Sudās, son of Pijavana; Rik 7 asks them to come, whether from far or near, with the Sun's rays; Rik 8 asks that their horses bring them to the three pressings and that they sit on the grass; Rik 9 invites them in the sun-bright chariot that has always carried wealth to the giver; Rik 10 says we call them with *uktha*-hymns and *arkas* for protection and asks whether they have not always drunk Soma in the Kaṇvas' hall. All ten Riks are written in full. The doubtful parts are the many reference numerals (all "as read [?]"), several crowded words flagged under each Rik, the Anukramaṇikā clause in the introduction, and the outlined (not transcribed) grammar discussions (*madhvā*, *yadvṛtta*, *vas* in *śāsivasighasīnām*).
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūkta 47 COMPLETE (printed pp. 1–29 = PDF 17–45). Sūkta 48 begins at the head of printed p. 30 (PDF 46).**
+
+**Next task:** Sūkta 48 (*saha vāmena*, Maṇḍala 1, Anuvāka 9, fifth sūkta, **16 Riks**, ṛṣi Praskaṇva Kāṇva, deity Uṣas, Prāgātha–Bārhata: odd Riks Bṛhatī, even Satobṛhatī): its title, Sāyaṇa's introduction, Kannada anuvāda, heading block and Rik 1 (Saṃhitā) are on printed p. 30 = PDF 46, identified but **not yet written**; Rik 1's Pada is on p. 31. The contents table puts Sūkta 49 at p. 91. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 46 -l 120 Rig_Vol5.pdf /tmp/x/w` (file names zero-padded: `w-046.jpg`). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
