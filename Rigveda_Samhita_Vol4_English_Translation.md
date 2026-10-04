@@ -6328,10 +6328,106 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 40.6 (pp. 398–402, PDF 412–416)
+
+**Saṃhitā-pāṭha** *(p. 398; accents not reproduced)*
+
+> **तमिद्वोचेमा विदथेषु शम्भुवं मन्त्रं देवा अनेहसम् ।**
+> **इमां च वाचं प्रतिहर्यथा नरो विश्वेद्वामा वो अश्नवत् ॥ ६ ॥**
+
+*tam id vocemā vidatheṣu śambhuvaṃ mantraṃ devā anehasam |*
+*imāṃ ca vācaṃ pratiharyathā naro viśved vāmā vo aśnavat || 6 ||*
+
+**Pada-pāṭha** *(p. 398)*
+
+> तम् । इत् । वोचेम । विदथेषु । शम्ऽभुवम् । मन्त्रम् ।
+> देवाः । अनेहसम् ।
+> इमाम् । च । वाचम् । प्रतिऽहर्यथ । नरः । विश्वा । इत् ।
+> वामा । वः । अश्नवत् ॥ ६ ॥
+
+*tam | it | vocema | vidatheṣu | śam-bhuvam | mantram |*
+*devāḥ | anehasam |*
+*imām | ca | vācam | prati-haryatha | naraḥ | viśvā | it |*
+*vāmā | vaḥ | aśnavat || 6 ||*
+
+*(The Saṃhitā prints* viśved vāmā*, the Pada* viśvā it vāmā*; the print has* vocemā *in the Saṃhitā against* vocema *in the Pada.)*
+
+**Sāyaṇa-bhāṣya** *(p. 398)*
+
+> **हे देवा ब्रह्मणस्पतिप्रभृतयस्तमित् तमेवेन्द्रादिसर्वदेवताप्रतिपादकं मन्त्रं विदथेषु यज्ञेषु वोचेम । वयमृत्विजो ब्रवाम । कीदृशं । शम्भुवं सुखस्य भावयितारं अनेहसमहिंसनीयं दोषरहितं । हे नरो नेतारो देवा इमामस्माभिरुच्यमानां मन्त्ररूपां वाचं प्रतिहर्यथ च । यूयं कामयध्वे चेत् । तर्हि विश्वेत् सर्वापि वामा वननीया वाग् वो युष्मानश्नवत् । व्याप्नुयात् ॥ वोचेम । वच परिभाषणे । आशीर्लिङ् । लिङ्याशिष्यङ् । वच उमित्यु-मागमः । छन्दस्युभयथेति सार्वधातुकत्वाल्लिङः सलोपोऽनन्त्यस्येति यासुटः सकारस्य लोपः । अतो येय इतीयादेशः । आद्गुणः । तिङ्ङतिङ इति निघातः । विदथेषु । विद ज्ञाने । विद्यते फलसाधनत्वेन ज्ञायत इति विदथो यज्ञः । रुविदिभ्यां कित् । उ. ३-११८ [?] । इत्यथप्रत्ययः । शम्भुवं । भवतेरन्तर्भावितण्यर्थात् क्विप्चेति क्विप् । ओः सुपि । पा. ६-४-८३ । इति यणादेशस्य न भूसुधियोः । पा. ६-४-८५ । इति प्रतिषेधः । मन्त्रादयो गताः । प्रतिहर्यथ । हर्य गतिकान्त्योः । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वं । इमां चेत्यत्र चशब्दश्चेदर्थः । चेणिति निपातान्तरं न च समुच्चयार्थः । तेन निपातैर्यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम् । पा. ८-१-३० । इति निघातप्रतिषेधः । अश्नवत् । अशू व्याप्तौ । लेट्यडागमः । व्यत्ययेन परस्मैपदं । इतश्च लोप इतीकारलोपः । इयेजुवङ्भ्यां गुणवृद्धी भवतो विप्रतिषेधेन । का. ६-४-८८ [?] । इति गुणः ॥ ६ ॥**
+
+*he devā brahmaṇaspatiprabhṛtayas tam it tam evendrādisarvadevatāpratipādakaṃ mantraṃ vidatheṣu yajñeṣu vocema | vayam ṛtvijo bravāma | kīdṛśaṃ | śambhuvaṃ sukhasya bhāvayitāraṃ anehasam ahiṃsanīyaṃ doṣarahitaṃ | he naro netāro devā imām asmābhir ucyamānāṃ mantrarūpāṃ vācaṃ pratiharyatha ca | yūyaṃ kāmayadhve cet | tarhi viśvet sarvāpi vāmā vananīyā vāg vo yuṣmān aśnavat | vyāpnuyāt || vocema | vaca paribhāṣaṇe | āśīrliṅ | liṅyāśiṣy aṅ | vaca um ity u-māgamaḥ | chandasy ubhayatheti sārvadhātukatvāl liṅaḥ salopo 'ntyasyeti yāsuṭaḥ sakārasya lopaḥ | ato yeya itīyādeśaḥ | ād guṇaḥ | tiṅ atiṅa iti nighātaḥ | vidatheṣu | vida jñāne | vidyate phalasādhanatvena jñāyata iti vidatho yajñaḥ | ruvidibhyāṃ kit | u. 3-118 [?] | ity athapratyayaḥ | śambhuvaṃ | bhavater antarbhāvitaṇyarthāt kvip ceti kvip | oḥ supi | pā. 6-4-83 | iti yaṇādeśasya na bhūsudhiyoḥ | pā. 6-4-85 | iti pratiṣedhaḥ | mantrādayo gatāḥ | pratiharyatha | harya gatikāntyoḥ | śapaḥ pittvād anudāttatvaṃ | tiṅaś ca lasārvadhātukasvareṇa dhātusvareṇādyudāttatvaṃ | imāṃ cety atra caśabdaś cedarthaḥ | ceṇ iti nipātāntaraṃ na ca samuccayārthaḥ | tena nipātair yadyadihantakuvinnec cec caṇkaccid yatrayuktam | pā. 8-1-30 | iti nighātapratiṣedhaḥ | aśnavat | aśū vyāptau | leṭy aḍāgamaḥ | vyatyayena parasmaipadaṃ | itaś ca lopa itīkāralopaḥ | iyejuvaṅbhyāṃ guṇavṛddhī bhavato viprati­ṣedhena | kā. 6-4-88 [?] | iti guṇaḥ || 6 ||*
+
+**Translation:** "O gods, Brahmaṇaspati and the rest, *tam it*, that very *mantra* that expresses all the deities beginning with Indra, *vidatheṣu*, in the sacrifices, *vocema*, we, the priests, would speak. What kind? *Śambhuvam*, bringing about happiness; *anehasam*, not to be injured, free from fault. O *naraḥ*, leaders, gods, *imāṃ vācam*, this speech in the form of a mantra, uttered by us, *pratiharyatha ca*, if you desire it — *viśvā it vāmā*, then all the lovely speech *vaḥ aśnavat*, may it reach you. *Vocema*: root *vaca paribhāṣaṇe*; the benedictive (*āśīrliṅ*); *aṅ* after *liṅ* in the benedictive sense; the augment *um* for *vaca*; since by *chandasy ubhayathā* the *liṅ* is *sārvadhātuka*, the loss of the *s* of *yāsuṭ*; the substitute *iya* for *ya* by *ato yeyaḥ*; *guṇa* by *ād guṇaḥ*; the verb is unaccented by *tiṅ atiṅaḥ*. *Vidatheṣu*: root *vida jñāne*: '*vidyate*, it is known as the means of the fruit': *vidathaḥ*, a sacrifice; the suffix *atha* by *ruvidibhyāṃ kit* [Uṇ. 3-118 [?]]. *Śambhuvam*: from *bhū* with an implicit causative sense, *kvip* by *kvip ca*; the *yaṇ*-substitution by *oḥ supi* [Pā. 6-4-83] is prohibited by *na bhūsudhiyoḥ* [Pā. 6-4-85]. *Pratiharyatha*: root *harya gatikāntyoḥ*; the *śap* being *pit* is unaccented; the verb takes the accent of the root. In *imāṃ ca* the word *ca* is in the sense of *cet*, 'if'; it is a different particle *ceṇ*, not in the sense of conjunction; therefore the prohibition of *nighāta* by *yadyadihanta…* [Pā. 8-1-30]. *Aśnavat*: root *aśū vyāptau*; *leṭ* with the augment *aṭ*; *parasmaipada* by *vyatyaya*; the loss of the *i* by *itaś ca lopaḥ*; *guṇa* by the rule that when *iyaṅ*/*uvaṅ* and *guṇa*/*vṛddhi* conflict, the later rule [guṇa] applies (Kāśikā [?])."
+
+**Pratipadārtha** *(p. 399)* — "**devāḥ** — O Brahmaṇaspati and the other deities; **śambhuvam** — one that brings happiness; **anehasam** — also faultless; **tam it mantram** — that very mantra (that expresses all the deities, Indra and the rest); **vidatheṣu** — in sacrifices; **vocema** — we, the priests, recite; **naraḥ** — O leaders, all deities; **imām** — which is recited by us, this mantra-form; **vācam** — speech; **pratiharyatha** — if you desire (have wished for); **viśvet vāmā** — all speech dear to you; **vaḥ** — you; **aśnavat** — may it pervade."
+
+**Bhāvārtha** *(p. 399)* — "O Brahmaṇaspati and the other deities, we recite in the sacrifices that mantra which brings happiness, is faultless, and expresses all the deities. O deities, you are our leaders. If our speech in the form of the mantra, which we the priests recite, is good for you and desired by you, then may all our speech, dear to you, pervade you; may it bring you satisfaction."
+
+**English Translation (the source's own, p. 399)** — "O gods, we will recite that delightful and faultless prayer in our sacrifices ; O brave leaders, if you desire to hear that prayer, that all that is said will reach you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 400**
+- **vidatheṣu** = *yajñeṣu* — "*vidyate phalasādhanatvena jñāyate iti vidathaḥ yajñaḥ*: since the word *vidathaḥ* is read among the fifteen names of sacrifice beginning with *yajñaḥ*, *vena* (Ni. 3-17 [?]), *vidatheṣu* means 'in sacrifices'."
+- **śambhuvam** = *sukhasya bhāvayitāram* — "that which makes happiness; delightful to hear."
+- **anehasam** = *ahiṃsanīyam | doṣarahitam* — "faultless, without any deficiency."
+- **imāṃ ca vācam** — "this speech in the form of praise."
+- **pratiharyatha** — "*harya gatikāntyoḥ*: desire, wish to hear."
+- **vāmā** = *vananīyā vāk* — "pervading speech, that is, speech that all wish to hear."
+- **aśnavat** = *vyāpnuyāt* — "let it pervade, let it reach you, let it be heard by you."
+
+**Vyākaraṇa-prakriyā** *(pp. 400–402 — grammar pages, noted briefly)*
+- **vocema**: root *vaca paribhāṣaṇe*; *āśīrliṅ*, uttama plural *mas*; *nityaṃ ṅitaḥ* — नित्यं ङितः — [Pā. 3-4-99 as read [?]]: the *s* at the end of a *ṅit* [*liṅ*] first-person ending is always lost; *yāsuṭ*; *liṅyāśiṣy aṅ* — लिङ्याशिष्यङ् — [Pā. 3-1-86 as read [?]]: in the Veda, after roots in the benedictive *liṅ*, the *vikaraṇa* *aṅ*; this is stated in general, but the *vikaraṇa* is seen mostly only after the roots *sthā*, *gā*, *gam*, *vac*, *vid*, *śak*, *ruh*; when *aṅ* comes: *vac + a + yās + ma*; *vaca um* — वच उम् — [Pā. 7-4-20 as read [?]]: the augment *um* for *vac* before *aṅ*; *chandasy ubhayathā* gives the benedictive also *sārvadhātuka* name; *liṅaḥ salopo 'nantyasya* [Pā. 7-2-79 as read [?]]: the loss of the non-final *s* of a *sārvadhātuka* *liṅ*; *ato yeyaḥ* — अतो येयः — [Pā. 7-2-80 as read [?]]: *iya* for the *yā* of a *sārvadhātuka* *liṅ* after a short *a*; *v + uc + a + iya + ma*; *lopo vyor vali* [Pā. 6-1-66] loss of *y*; *ād guṇaḥ* gives *o* for *a* + *u* and *e* for *a* + *i*: *vocema*; *tiṅ atiṅaḥ* wholly unaccented.
+- **vidatheṣu**: *vida jñāne*, *adādi* [print: *vida jñāne*, *vidyate svargādiphalagaḷige sādhana*]; "*vidathaḥ* means *yajña*, the word *vidatha* in the sense of sacrifice"; *rudiśvidibhyām kit* [Uṇ. 3-118 as read [?]]: *atha* after *rudir aśruvimocane* and *vida jñāne*; it is *kit*, so no *guṇa* of the light penultimate; the print holds that this reading of the sūtra (with *gājñ-kuṭādi-…* [Pā. 1-2-1]) agrees with the *Mahābhāṣya*; and notes that some commentators (the *Daśapādīvṛttikāra*) read *rudivididbhyāṃ kit*, with whom *athaj* of the earlier *bhāṣya* would not be consistent; hence these views are not the accepted ones.
+- **śambhuvam**: "*śaṃ bhāvayatīti śambhūḥ*": *kvip ca* [Pā. 3-2-76 as read [?]] after *bhū*; *śambhū + am*; *oḥ supi* — ओः सुपि — [Pā. 6-4-83 as read [?]]: the *yaṇ* substitution for the final *u*/*ū* of a root-ending stem before an *ac*-initial *sup*; prohibited by *na bhūsudhiyoḥ* — न भूसुधियोः — [Pā. 6-4-85 as read [?]]; *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* [Pā. 6-4-77] gives *uvaṅ*.
+- **mantram**: "the process was given in the preceding mantra [Rik 5]." **anehasam**: "described in the earlier [Rik 4], where it was separated."
+- **pratiharyatha**: root *harya gatikāntyoḥ*, first class; *tha*, *śap*, with the prefix *prati*; because *śap* is *pit* it is unaccented; *tāsyanudāttet…* makes the *la*-substitute *sārvadhātuka* *tha* unaccented; by the root accent *haryatha* is first-syllable acute; by *tiṅ codāttavati* [Pā. 8-1-71] *prati* is unaccented.
+- **imāṃ ca**: "the *ca* here is not the *ca* in the sense of conjunction; it is the particle *ceṇ* [i.e. *cet*, 'if'] with its *ṇ* an indicatory letter, leaving *ca*; hence its sense is 'if'. By *nipātair yadyadihantakuvinnec cec caṇ kaccid yatrayuktam* — निपातैर्यद्यदिहन्तकुविन्नेच्चेच्चण्कच्चिद्यत्रयुक्तम् — [Pā. 8-1-30 as read] it is meant that what is joined with these particles is not unaccented"; so the wholly-unaccented does not come to *pratiharyatha*; the *bhāṣya* shows the direct connection as "*pratiharyatha ca*".
+- **aśnavat**: root *aśū vyāptau*; *leṭ*, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*; *itaś ca lopaḥ parasmaipadeṣu* the loss of the *i*; *aś + nu + at* when the *śnu* *vikaraṇa* comes; *āc-chnudhātu…*; the substitute *uvaṅ* [Pā. 6-4-87 as read] and *guṇa* [Pā. 7-3-84] both being possible, the later rule, *guṇa*, prevails; from the Kāśikā text *iyejuvaṅbhyāṃ guṇavṛddhī bhavato vipratiṣedhena* (Pā. 6-4-88 as read [?]): "where *iyaṅ*/*uvaṅ* are taught and *guṇa*/*vṛddhi* both obtain simultaneously, by the paribhāṣā *vipratiṣedhe paraṃ kāryam* the latter, *guṇa* or *vṛddhi*, is applied." Rik 6 ends here (*|| 6 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–39 COMPLETE; Sūkta 40 in progress: printed p. 397 (PDF 411) reached; Riks 40.1–40.5 complete (Rik 5 ends at the foot of p. 397); Rik 40.6 begins on p. 398.**
+### Rik 40.7 (pp. 402–, PDF 416–)
 
-**Next task:** continue at printed p. 398 (PDF 412) with Rik 40.6 (Saṃhitā, Pada, bhāṣya…), then Riks 7–8 and the close of Sūkta 40 (to about p. 409; Sūkta 41 *yaṃ rakṣanti* begins about p. 410, check), then STOP at the end of Sūkta 40 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 412 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+**Saṃhitā-pāṭha** *(p. 402; accents not reproduced; the sandhi* asthitāntarvāvat *is as printed)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40 so far: (1) varga numerals and metre line of the heading small, read with doubt; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini and Uṇādi reference numeral is "as read [?]"; (3) Rik 1: the Ṛgveda quotation *aśmāsyam avataṃ…* and the Nirukta paraphrase *aśanavantam…* are crowded, my glosses tentative; the *kyac* / *na chandasy aputrasya* argument (pp. 380–381) characterized only; (4) Rik 2: the *upabrūte* accent argument (p. 384) and the *pūjita* remark (p. 386) characterized only or crowded; (5) Rik 3: *atraiva* in the bhāṣya and a few letters in the grammatical tail doubtful; English "benifical" kept [sic]; (6) Rik 4: English misprints "recieves", "worriors" kept [sic]; the Nirukta list of priests' names and the senses of *iḷā* are cited with unread reference numerals; the *anehasa* / Amara passage (p. 393) is crowded [?]; (7) Rik 5: the application sentence of the bhāṣya (*indranivid-pragāthā*) is doubtful; the closing numeral of the bhāṣya reads like "10" or "30" and is taken as 5; the eight Ṛgveda quotations in the Special Topics are untranslated in the source — my glosses are tentative and all reference numerals are read with doubt [?]; the source's English has a scan defect ("b:en praised"); the grammar of *ukthyam* (p. 396–397) and *okāṃsi* (p. 397) is characterized in drift only.
+> **को देवयन्तमश्नवज्जनं को वृक्तबर्हिषम् ।**
+> **प्रप्र दाश्वान्पस्त्याभिरस्थित अन्तर्वावत्क्षयं दधे ॥ ७ ॥**
+
+*ko devayantam aśnavaj janaṃ ko vṛktabarhiṣam |*
+*prapra dāśvān pastyābhir asthitāntarvāvat kṣayaṃ dadhe || 7 ||*
+
+**Pada-pāṭha** *(p. 402)*
+
+> कः । देवऽयन्तम् । अश्नवत् । जनम् । कः । वृक्तऽबर्हिषम् ।
+> प्रऽप्र । दाश्वान् । पस्त्याभिः । अस्थित । अन्तर्वावत् ।
+> क्षयम् । दधे ॥ ७ ॥
+
+*kaḥ | deva-yantam | aśnavat | janam | kaḥ | vṛkta-barhiṣam |*
+*pra-pra | dāśvān | pastyābhiḥ | asthita | antarvāvat |*
+*kṣayam | dadhe || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 402–403)*
+
+> **देवयन्तं देवान्कामयमानं जनं कोऽश्नवत् । ब्रह्मणस्पतिव्यतिरिक्तः को नाम देवो व्याप्नुयात् । तथा वृक्तबर्हिषमनुष्ठानाय छिन्नबर्हिषं यजमानं कोऽन्यो देवोऽश्नवत् । दाश्वान् हविर्दत्तवान्यजमानः पस्त्याभिर्मनुष्यैर्ऋत्विग्भिः सह प्रप्रास्थित । देवयजनदेशं प्रति प्रस्थितवान् । अन्तर्वावत् अन्तः स्थितबहुधनोपेतं । यद्वा । अन्तः स्थितपुत्रपौत्रादिप्रयुक्तबहुविधवागुपेतं क्षयं निवासस्थानं गृहं दधे । धृतवान् भवति । देवयन्तमित्यादयो गताः । प्रप्र । प्रसमुपोदः पादपूरणे । पा. ८-१-६ । इति प्रशब्दस्य द्विर्भावः । अनुदात्तं चेत्याम्रेडितानुदात्तत्वं । अस्थित । ष्ठा गतिनिवृत्तौ । लुङि समवप्रविभ्यः स्थः । पा. १-३-२२ । इत्यात्मनेपदं । स्थाघ्वोरिच्च । पा. १-२-१७ । इति धातुसिचोरित् । कित्त्वे ह्रस्वादङ्गात् । पा. ८-२-२७ । इति सलोपः । अन्तर्वावत् । वागतिगन्धनयोः । अन्तर्वान्ति गच्छन्तीत्यन्तर्वाः पुत्रपशवादयः । आतो मनिन्नित्यादिना विच् । तदस्यास्तीति मतुप् । मतुपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वं । यद्वा । वावदीतेः क्विप् । क्षयं । क्षियन्ति निवसन्त्यस्मिन्निति क्षयः । पुंसि सञ्ज्ञायामित्यधिकरणे घः । क्षयो निवास इत्याद्युदात्तत्वं ॥ ७ ॥**
+
+*devayantaṃ devān kāmayamānaṃ janaṃ ko 'śnavat | brahmaṇaspativyatiriktaḥ ko nāma devo vyāpnuyāt | tathā vṛktabarhiṣam anuṣṭhānāya chinnabarhiṣaṃ yajamānaṃ ko 'nyo devo 'śnavat | dāśvān havirdattavān yajamānaḥ pastyābhir manuṣyair ṛtvigbhiḥ saha prapra 'sthita | devayajanadeśaṃ prati prasthitavān | antarvāvat antaḥ sthitabahudhanopetaṃ | yadvā | antaḥ sthitaputrapautrādiprayuktabahuvidhavāgupetaṃ kṣayaṃ nivāsasthānaṃ gṛhaṃ dadhe | dhṛtavān bhavati | devayantam ity ādayo gatāḥ | prapra | prasamupodaḥ pādapūraṇe | pā. 8-1-6 | iti praśabdasya dvirbhāvaḥ | anudāttaṃ cety āmreḍitānudāttatvaṃ | asthita | ṣṭhā gatinivṛttau | luṅi samavapravibhyaḥ sthaḥ | pā. 1-3-22 | ity ātmanepadaṃ | sthāghvor ic ca | pā. 1-2-17 | iti dhātusicor it | kittve hrasvād aṅgāt | pā. 8-2-27 | iti salopaḥ | antarvāvat | vāgatigandhanayoḥ | antarvānti gacchantīty antarvāḥ putrapaśvādayaḥ | āto manin ity ādinā vic | tad asyāstīti matup | matupaḥ pittvād anudāttatve kṛduttarapadaprakṛtisvaratvaṃ | yadvā | vāvadīteḥ kvip | kṣayaṃ | kṣiyanti nivasanty asminn iti kṣayaḥ | puṃsi saṃjñāyām ity adhikaraṇe ghaḥ | kṣayo nivāsa ity ādyudāttatvaṃ || 7 ||*
+
+**Translation:** "*Devayantam*, desiring the gods — *janam*, [which] man — *kaḥ aśnavat*, who would reach? Who else, other than Brahmaṇaspati, which god would reach [him]? Likewise *vṛktabarhiṣam*, [a sacrificer] who has clipped his sacred grass for the rite — which other god would reach him? *Dāśvān*, the sacrificer who has given an oblation, *pastyābhiḥ*, with men, with priests, *prapra asthita*, has set forth well, set out towards the place of the divine rite. *Antarvāvat*, possessed of much wealth stored inside — or: possessed of many kinds of speech belonging to the sons and grandsons within — *kṣayam*, a dwelling, a house, *dadhe*, he bears. [For the grammatical tail:] *Prapra*: by *prasamupodaḥ pādapūraṇe* [Pā. 8-1-6] the doubling of *pra*; the second is unaccented by *anudāttaṃ ca*. *Asthita*: root *ṣṭhā gatinivṛttau*; *ātmanepada* by *samavapravibhyaḥ sthaḥ* [Pā. 1-3-22]; *sthāghvor ic ca* [Pā. 1-2-17]; the loss of *s* by *hrasvād aṅgāt* [Pā. 8-2-27]. *Antarvāvat*: root *vā gatigandhanayoḥ*; '*antarvānti*', that which goes within — sons, cattle and so on: *antarvāḥ*; the suffix *vic* by *āto manin…*; then *matup*; since *matup* is *pit* and unaccented, the accent of the first member of a compound ending in a *kṛt*; or *kvip* from *vāvadīti*. *Kṣayam*: '*kṣiyanti*, they dwell in it': *kṣayaḥ*; *gha* in the locative sense by *puṃsi saṃjñāyām*; first-syllable acute as '*kṣayo nivāsaḥ*'."
+
+**Pratipadārtha** *(p. 403)* — "**devayantam** — [the sacrificer] desiring the help of the gods; **janaḥ** — the sacrificer; **kaḥ** — (other than Brahmaṇaspati) which other deity himself; **aśnavat** — will approach? **vṛktabarhiṣam** — [the sacrificer] who has the *darbha* grass collected (for the sacrificial rite); **kaḥ** — which other deity himself (will come and join [him])? **dāśvān** — the sacrificer who offers the oblation; **pastyābhiḥ** — together with the priests; **pra pra asthita** — has set out (towards the place of the divine sacrifice); **[that sacrificer]** **antarvāvat** — rich in much wealth within, or accompanied by sons and grandsons; **kṣayam** — his own dwelling, the house; **dadhe** — has."
+
+**Bhāvārtha** *(p. 403)* — "To the sacrificer who desires the gods — which deity, other than Brahmaṇaspati, will himself come? Which other deity will himself come near the sacrificer who has collected and spread *darbha* sticks so that the gods may come and sit? Now the sacrificer has come to the place of sacrifice together with the priests to offer oblations to the deities. The sacrificial house of that sacrificer is full of many invaluable things; or it is full of people such as sons and grandsons."
+
+**English Translation (the source's own, p. 403)** — "Who, except Brahmanaspati, will approach the man desirous of worshipping the gods ? who will approach the sacrificer by whom clipped sacred grass is spread ( for the gods to sit on ) ? the giver of oblations has proceeded with his priests to the sacrificial hall which is full of precious things."
+
+*(The Special Topics and grammar of Rik 7 begin on p. 404, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–39 COMPLETE; Sūkta 40 in progress: printed p. 403 (PDF 417) reached; Riks 40.1–40.6 complete; Rik 40.7 written through its source's English (the Special Topics and grammar begin on p. 404).**
+
+**Next task:** continue at printed p. 404 (PDF 418) with the Special Topics and grammar of Rik 40.7, then Rik 8 and the close of Sūkta 40 (to about p. 409; Sūkta 41 *yaṃ rakṣanti* begins about p. 410, check), then STOP at the end of Sūkta 40 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–424) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 418 -l 424 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 39's list is in the commit "Vol 4: Sūkta 39 complete"). Sūkta 40 so far: (1) varga numerals and metre line of the heading small, read with doubt; (2) every Āśvalāyana, Ṛgveda, Nirukta, Pāṇini, Uṇādi and Kāśikā reference numeral is "as read [?]"; (3) Rik 1: the Ṛgveda quotation *aśmāsyam avataṃ…* and the Nirukta paraphrase are crowded, glosses tentative; the *kyac* argument (pp. 380–381) characterized only; (4) Rik 2: the *upabrūte* accent argument (p. 384) and *pūjita* remark (p. 386) characterized only; (5) Rik 3: *atraiva* and a few letters in the grammatical tail doubtful; English "benifical" [sic]; (6) Rik 4: English "recieves", "worriors" [sic]; the *anehasa* / Amara passage (p. 393) crowded; (7) Rik 5: *indranivid-pragāthā* doubtful; closing numeral of the bhāṣya reads like "10"/"30"; eight untranslated Ṛgveda quotations glossed by me tentatively, reference numerals [?]; scan defect "b:en praised" in the English; (8) Rik 6: the print has *vocemā* (Saṃhitā) against *vocema* (Pada); the Daśapādī / *rudividibhyāṃ kit* discussion (p. 401) is characterized only; the passage on the particle *ceṇ* (*imāṃ ca*) is read in drift only; (9) Rik 7: the Saṃhitā sandhi *asthitāntarvāvat* is as printed; during drafting I first wrote *antarāvat* by slip — corrected before appending; the source's English has no [sic] issues but the Kannada Pratipadārtha's gloss of *antarvāvat* ("with much wealth within, or with sons and grandsons") follows the bhāṣya's two alternatives.
