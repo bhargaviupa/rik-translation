@@ -6993,10 +6993,177 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+## SŪKTA 42 *(printed p. 435 = PDF 449)*
+
+**Forty-second Sūkta** *(large Kannada title line: "nalavattaraḍaneya sūktavu")*
+
+### Page 435 (PDF 449) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
+
+> सं पूषन्निति दशर्चं सप्तमं सूक्तं काण्वं गायत्रं पूषदेवताकं । सं पूषन्नध्वन इत्यनुक्रांतं पौष्णमित्यनुक्रान्तं [?] । स्मार्ते महान्तमध्वानमेष्यन्निदं सूक्तं जपेत् । सं पूषन्नध्वन इति महान्तमध्वानमेष्यन् प्रतिभयं वा । आ. गृ. ३-८-१० [?] । इति सूत्रितत्वात् । तत्र जपेदित्यनुवर्तते ॥
+
+*saṃ pūṣann iti daśarcaṃ saptamaṃ sūktaṃ kāṇvaṃ gāyatraṃ pūṣadevatākaṃ | saṃ pūṣann adhvana ity anukrāntaṃ pauṣṇam ity anukrāntaṃ [?] | smārte mahāntam adhvānam eṣyann idaṃ sūktaṃ japet | saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā | ā. gṛ. 3-8-10 [?] | iti sūtritatvāt | tatra japed ity anuvartate ||*
+
+**Translation:** "*Saṃ pūṣan* — the seventh sūkta [of the anuvāka], of ten ṛks, by Kaṇva's family, in the Gāyatrī metre, with Pūṣan as deity. It is listed in the Anukramaṇikā as '*saṃ pūṣann adhvanaḥ*' [and as Pauṣṇa — the second clause is read with doubt [?]]. In the Smārta [domestic] rite, one about to set out on a long journey should mutter (*japet*) this sūkta: since it is laid down '*saṃ pūṣann adhvana iti*, one about to go on a long journey, or [when there is] danger' (Āś. Gṛ. 3-8-10 [?]); '*japet*' is carried over there." *(Translation mine; reference numerals read with doubt.)*
+
+**Anuvāda (Kannada), p. 435** — "*Saṃ pūṣan* is the seventh sūkta in this eighth anuvāka. It has ten ṛks. The ṛṣi is Kaṇva, the son of Ghora; the deity is Pūṣan; the metre is Gāyatrī. In the Anukramaṇikā: '*saṃ pūṣan daśa pauṣṇam*'. In the Smārta practice, or in worldly custom, when going on a long journey or when one has to travel far, this sūkta is to be recited; this is explained in the Āśvalāyana Gṛhya-sūtra by the sūtra '*saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā*' (Āś. Gṛ. 3-2-10 [?]). Therefore this sūkta is to be recited on the occasions mentioned above." *(The Kannada reads the Gṛhya reference as 3-2-10 against 3-8-10 in the Sanskrit; both read with doubt [?].)*
+
+**॥ ॐ ॥**
+
+> **सूक्त — ४२**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ४२ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [२४ ?], [२५ ?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १० ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — पूषा ॥
+> ॥ छन्दः — गायत्री ॥
+
+*sūkta 42 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga [24?], [25?] | ṛks 10 | ṛṣi: Kaṇva Ghaura | devatā: Pūṣan | chandas: Gāyatrī.*
+
+*(The varga numerals are small and read with doubt.)*
+
+### Rik 42.1 (pp. 436–441, PDF 450–455)
+
+**Saṃhitā-pāṭha** *(p. 436; accents not reproduced)*
+
+> **सं पूषन्नध्वनस्तिर व्यंहो विमुचो नपात् ।**
+> **सक्ष्वा देव प्र णस्पुरः ॥ १ ॥**
+
+*saṃ pūṣann adhvanas tira vy aṃho vimuco napāt |*
+*sakṣvā deva pra ṇas puraḥ || 1 ||*
+
+**Pada-pāṭha** *(p. 436)*
+
+> सम् । पूषन् । अध्वनः । तिर । वि । अंहः । विऽमुचः । नपात् ।
+> सक्ष्व । देव । प्र । नः । पुरः ॥ १ ॥
+
+*sam | pūṣan | adhvanaḥ | tira | vi | aṃhaḥ | vi-mucaḥ | napāt |*
+*sakṣva | deva | pra | naḥ | puraḥ || 1 ||*
+
+*(The Saṃhitā prints* sakṣvā*, the Pada* sakṣva*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 436)*
+
+> **हे पूषन् जगत्पोषक पृथिव्यभिमानि देव अध्वनो मार्गात्त्वं तिर । अस्मानभीष्टस्थानं सम्यक् प्रापय । अंहो विघ्नहेतुं पापात्मानं वि तिर । विनाशय । पूषा विशेष्यते । विमुचो नपात् जलविमोचकहेतोर्मेघस्य पुत्र । नपादिति पुत्रनाम । नपात्रजेति तन्नामसु पाठात् । श्रुत्यन्तरे । द्भ्यः पृथिवीति जलाद्भूम्युत्पत्तिः श्रूयते । तथान्यत्राप्युदकसारत्वं पृथिव्याः श्रूयते । तद्यदपां सार आसीत्तत्समहन्यत सा पृथिव्यभवदिति । मेघस्य जलधारित्वादुदकपुत्र एव मेघपुत्रो भवति । न च पृथिव्या मेघपुत्रत्वे पूष्णः किमायातमिति वाच्यं । पृथिव्या एव पूषत्वात् । तथा च श्रुत्यन्तरे कस्यचिन्मन्त्रस्य ब्राह्मणमेवमाम्नायते । पूषाध्वनः पाक्षित्यार्हेयं वै पूषेति । तन्निर्वचनं चान्यत्रैवमाम्नायते । इयं वै पूषेयं हीदं सर्वं पुष्यति यदिदं किं च । श. ब्रा. १४-४-२-३३ [?] । इति ॥ हे देव पूषन् नः पुरोऽस्माकं पुरतः प्र सक्ष्व । प्रसक्तो भव । पुरतो गच्छेत्यर्थः । विमुचो नपात् । उदकं विमुञ्चतीति विमुज्मेघः । क्विप्चेति क्विप् । न पातयति कुलमिति नपात् पुत्रः । नञ्पूर्वात् पातयतेः क्विप् । नभ्राण्नपादित्यादिना नञः प्रकृतिभावः । सुबामन्त्रित इति परांगवद्भावात् षष्ठ्यामन्त्रितसमुदायस्याष्टमिकं सर्वानुदात्तत्वं । सक्ष्व । षच सेवने । अनुदात्तेत्वादात्मनेपदं । लोटि बहुलं छन्दसीति शपो लुक् । तास्यनुदात्तेदिति लसार्वधातुकानुदात्तत्वे धातुस्वरः । प्र णः । उपसर्गाद्बहुलमिति नसो णत्वं । पुरः । उक्तं ॥**
+
+*he pūṣan jagatpoṣaka pṛthivyabhimāni deva adhvano mārgāt tvaṃ tira | asmān abhīṣṭasthānaṃ samyak prāpaya | aṃho vighnahetuṃ pāpātmānaṃ vi tira | vināśaya | pūṣā viśeṣyate | vimuco napāt jalavimocakahetor meghasya putra | napād iti putranāma | napātrajeti tannāmasu pāṭhāt | śrutyantare | dbhyaḥ pṛthivīti jalād bhūmyutpattiḥ śrūyate | tathānyatrāpy udakasāratvaṃ pṛthivyāḥ śrūyate | tad yad apāṃ sāra āsīt tat samahanyata sā pṛthivy abhavad iti | meghasya jaladhāritvād udakaputra eva meghaputro bhavati | na ca pṛthivyā meghaputratve pūṣṇaḥ kim āyātam iti vācyaṃ | pṛthivyā eva pūṣatvāt | tathā ca śrutyantare kasyacin mantrasya brāhmaṇam evam āmnāyate | pūṣādhvanaḥ pākṣityārheyaṃ vai pūṣeti | tannirvacanaṃ cānyatraivam āmnāyate | iyaṃ vai pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yad idaṃ kiṃ ca | śa. brā. 14-4-2-33 [?] | iti || he deva pūṣan naḥ puro 'smākaṃ purataḥ pra sakṣva | prasakto bhava | purato gacchety arthaḥ | vimuco napāt | udakaṃ vimuñcatīti vimuj megha | kvip ceti kvip | na pātayati kulam iti napāt putraḥ | nañpūrvāt pātayateḥ kvip | nabhrāṇ napād ity ādinā nañaḥ prakṛtibhāvaḥ | subāmantrita iti parāṅgavadbhāvāt ṣaṣṭhyāmantritasamudāyasyāṣṭamikaṃ sarvānudāttatvaṃ | sakṣva | ṣaca sevane | anudātteṭtvād ātmanepadaṃ | loṭi bahulaṃ chandasīti śapo luk | tāsyanudātted iti lasārvadhātukānudāttatve dhātusvaraḥ | pra ṇaḥ | upasargād bahulam iti naso ṇatvaṃ | puraḥ | uktaṃ ||*
+
+*(The print is crowded in the middle of this bhāṣya. Doubtful stretches: the letters "dbhyaḥ pṛthivīti" (probably* adbhyaḥ pṛthivī*), "napātraje[ti]", the clause "pūṣādhvanaḥ pākṣityārheyaṃ vai pūṣeti", the Śatapatha Brāhmaṇa numeral, and "anudātteṭtvād", all read with doubt [?].)*
+
+**Translation:** "O Pūṣan — nourisher of the world, the god who presides over the earth — *adhvanaḥ*, from the road, *tira*, bring [us] across: bring us well to the place we wish. *Aṃhaḥ*, sin, the cause of obstacle, the sinful one, *vi tira*: destroy. *Pūṣā* is further described: *vimuco napāt*, son of the cloud, the cause of releasing water. '*Napāt*' is a name for son, as it is read among its names ('*napātrajā*' and so on [?]). In another Śruti: 'the earth [arose] from the waters' (*adbhyaḥ pṛthivī*) — the origin of the earth from water is heard; likewise elsewhere the earth's being the essence of water is heard: 'the essence of the waters that there was was gathered together; it became the earth.' Since the cloud holds the water, the son of water is the son of the cloud. And it should not be said, 'what has the son-hood of the earth to the cloud to do with Pūṣan?' — because the earth itself is Pūṣan. And so, in another Śruti, the Brāhmaṇa on a certain mantra [...] reads thus: '*pūṣādhvanaḥ pākṣityārheyaṃ vai pūṣā*' [crowded [?]]; and its explanation is read elsewhere thus: 'this [earth] is Pūṣan, for this [earth] nourishes all this, whatever there is' (Śat. Brā. 14-4-2-33 [?]). O god Pūṣan, *naḥ puraḥ*, before us, *pra sakṣva*, attach yourself: go in front: so the sense. *Vimuco napāt*: '*udakaṃ vimuñcati*', the cloud is *vimuk*; *kvip* by *kvip ca*; '*na pātayati kulam*', one who does not cause the family to fall: *napāt*, a son; *kvip* after *pātayati* with *nañ*; the *nañ* keeps its natural form by *nabhrāṇ napāt…*; the whole vocative group is unaccented [crowded [?]]. *Sakṣva*: root *ṣaca sevane*; *ātmanepada*; *śap* elided by *bahulaṃ chandasi*; the root accent. *Pra ṇaḥ*: *ṇatva* of *nas* after a preverb by *upasargād bahulam*. *Puraḥ*: already explained."
+
+**Pratipadārtha** *(p. 437)* — "**pūṣan** — O Pūṣan, nourisher of the world and the deity who presides over the earth; **adhvanaḥ** — from the proper road; **saṃ tira** — taking us to our desired destination, bring us there; **aṃhaḥ** — the sinful one who obstructs [us] on the way; **vi tira** — drive [him] away from the road and destroy [him]; **vimucaḥ** — of the cloud that sheds rain; **napāt** — son, O god Pūṣan; **naḥ puraḥ** — in front of us; **pra sakṣva** — go on (with attachment to us)."
+
+**Bhāvārtha** *(p. 437)* — "O Pūṣan, you are the son of the king of the clouds, who sheds rain and causes the world to flourish. Take us by the right road to our desired destination; on the way destroy the sinful enemy who would injure us. Have kindly regard for us and go in front of us as our guide."
+
+**English Translation (the source's own, p. 437)** — "O Pushan, lead us over the road, remove the wicked obstructer of the way ; son of the cloud, go before us. (as a guide)" *(The print has the bracket "( as a guide )".)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 437–440** *(a long essay by the Kannada author on the deity Pūṣan; translated in full, with its quotations in three layers)*
+
+"On the deity Pūṣan in this ṛk the commentator has explained some points. This deity Pūṣan is the lord of roads. It is said that when one sets out on a long journey, if one recites the mantra belonging to this deity, one can reach the destination comfortably, without trouble on the way. On this matter there is a Śruti sentence: '*pūṣādhvanaḥ pākṣityāha | iyaṃ vai pūṣā*' [as read, crowded [?]].
+
+*Vimucaḥ napāt* — '*udakaṃ vimuñcatīti vimuk meghaḥ | na pātayati kulam iti napāt putraḥ | napād iti putranāma*': since it sheds water, clouds are called *vimuc*; since he does not cause the family to fall but makes it grow and go forward, a son is called *napāt*. Here *vimuco napāt* means the son of the cloud. Besides, according to the Śruti statement beginning '*adbhyaḥ pṛthivī*', the earth arose from the waters, and in the Śruti '*tad yad apāṃ sāra āsīt tat samahanyata sā pṛthivy abhavat*' ['whatever was the essence of the waters was gathered together; it became the earth'] there is the statement that she became the earth to gather together everything that was essence in the water. Among the twenty-one names of the earth, *gauḥ*, *gmā* and so on, the word *pūṣā* is read; so *pūṣā* also means the earth. Therefore, by the statement '*pṛthivyā eva pūṣatvāt*', Pūṣan is said to be the deity who presides over the earth.
+
+Yāska the great ṛṣi on this word: '**पूषा । यदश्मिपोषं पुष्यति तत्पूषा भवति**' (Ni. 12-[?]-[?] as read [?]) — *pūṣā | yad aśmipoṣaṃ puṣyati tat pūṣā bhavati* — mine and tentative: 'Pūṣan: because he nourishes with rays [or: because he nourishes the nourishment], therefore he is Pūṣan' — that is, since he is the one who nourishes with rays, this god is called Pūṣan. In the Śatapatha Brāhmaṇa also: '**इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किं च**' (Śat. Brā. 14-[?]-[?]-[?]) — *iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yad idaṃ kiṃ ca* — 'this [earth] indeed is Pūṣan, for she nourishes all this, whatever there is' — it is said that this deity is called Pūṣan because he nourishes everyone. Such a meaning supports the view that Pūṣan is one of the twelve Ādityas.
+
+The qualities of the god Pūṣan are of many kinds, and as they all show his different forms, it is difficult to say clearly what his original nature is. For the modern critics this is a complicated question. Before learning the diversity of these opinions, it is necessary to know what pre-eminence this deity has in the Saṃhitā.
+
+The main portion of the hymns to the deity Pūṣan is contained in the sixth maṇḍala of the Ṛgveda, in the sūktas 53 to 58 [?]. It appears that the ṛṣis of the Bharadvāja family had Pūṣan as their chief deity. Some scholars call this portion the *Pūṣa-saṃhitā*. Besides, in other parts of the Saṃhitā also Pūṣan is invoked along with other deities such as Indra and Soma. For example:
+
+**रथीतमं कपर्दिनमीशानं राधसो महः ।** (Ṛg. Saṃ. 6-55-2 [?])
+*rathītamaṃ kapardinam īśānaṃ rādhaso mahaḥ |*
+mine and tentative: "the best of charioteers, the one with braided hair, the lord of great bounty";
+
+**या ते अष्ट्रा गोओपशाघृणे पशुसाधनी ।** (Ṛg. Saṃ. 6-53-9 [?])
+*yā te aṣṭrā goopaśāghṛṇe paśusādhanī |*
+"the goad that you have, O radiant one, which drives and tends cattle" [the print's first words of the second pāda are crowded [?]];
+
+**ये एनमादिदेशति करम्भादिति पूषणम् ।** (Ṛg. Saṃ. 6-56-1 [?])
+*ye enam ādideśati karambhād iti pūṣaṇam |*
+"who point him out [saying], 'Pūṣan [feeds] on porridge'" [crowded [?]];
+
+**रायो धारास्याघृणे वसो राशिरजाश्व ।** (Ṛg. Saṃ. 6-55-3 [?])
+*rāyo dhārāsy aghṛṇe vaso rāśir ajāśva |*
+"you are a stream of riches, O radiant one, a heap of wealth, O lord of goat-steeds."
+
+In these ṛks the descriptions *kapardī* (with braided hair), *paśusādhanī* (the goad that drives cattle), *aṣṭrā* (the goad), *karambhād* (eating porridge), *ajāśva* (with goat-steeds) and so on all give us a certain clear picture of Pūṣan. Along with the general qualities shared with other deities, in this sixth maṇḍala it appears that Pūṣan has a prominence in one special respect: it is clearly stated that he is the deity who tends cattle; that with his favour the cattle-wealth of his worshippers must grow; and that he is the protector of cows and the like that have strayed. For example:
+
+**पूषा गा अन्वेतु नः पूषा रक्षत्वर्वतः । पूषा वाजं सनोतु नः ॥** (Ṛg. Saṃ. 6-54-5 [?])
+*pūṣā gā anv etu naḥ pūṣā rakṣatv arvataḥ | pūṣā vājaṃ sanotu naḥ ||*
+"may Pūṣan follow the cows for us; may Pūṣan guard our horses; may Pūṣan win us [vigorous] strength";
+
+**माकिर्नेशन्माकीं रिषन्माकीं सं शारि केवटे ।** (Ṛg. Saṃ. 6-54-7 [?])
+*mākir neśan mākīṃ riṣan mākīṃ saṃ śāri kevaṭe |*
+"let none be lost, let none be harmed, let none be broken in a pit."
+
+In this manner they pray in various ways that their cattle-wealth be increased. Modern critics conjecture that the Bharadvāja family wandered from place to place, never settling in one place, and in their wanderings thought of Pūṣan as guide and protector. Because in the 1st, 2nd and 3rd ṛks of the sūkta in question Pūṣan is invoked as protector of the roads, and because the adjective *pathaspati* ['lord of the path'] is used as chief, there is room for this conjecture. They say that, since in this respect Pūṣan has a distinction above other deities, he holds a distinct place of his own and does not belong to the group of other deities.
+
+But the Vedic tradition is opposed to this view. Yāska counts Pūṣan as one of the twelve Ādityas. The same view is seen in the *Bṛhaddevatā*. The view of scholars such as Max Müller agrees with this. The scholar Bloomfield, however, on the basis of the single word *āghṛṇi* in the three ṛks (Ṛg. 6-48-[?]; 6-53-[?]; 6-55-[?]) [numerals read with doubt [?]], holds that Pūṣan is a solar deity who spreads light. The way of reasoning of those who oppose this view is this: the word *āghṛṇi* relates only to brilliance, so it may belong to any deity made of brilliance; there is no insistence that it must be the Sun; for example, this adjective is applied to Agni also (Ṛg. Saṃ. 8-[?]-[?] [?]); therefore, from this one adjective one cannot establish that Pūṣan is a solar deity. In the same way, they argue that whatever other adjectives the Vedic and other scholars take to prove that Pūṣan is a solar deity, none of those adjectives need apply to the Sun alone; they can be applied to all deities.
+
+But even those who suggest this opposition show some grounds and put forward their own side. For example:
+
+**ताभिर्याति दूत्यां सूर्यस्य कामेन कृतश्रव इच्छमानः ॥** (Ṛg. Saṃ. 6-58-3 [?])
+*tābhir yāti dūtyāṃ sūryasya kāmena kṛtaśrava icchamānaḥ ||*
+mine and tentative: "with those [golden ships] he goes on the Sun's embassy, wishing [it], of famed renown, by [his own] desire";
+
+and, citing examples from many places, they show clearly the difference between the Sun and Pūṣan. Moreover, in describing the nature of the Viśvedevas (Ṛg. Saṃ. 8-[?]), there is no description of any solar quality attached to Pūṣan. (Ṛg. Saṃ. 6-[?]-6.) Thus they reckon [him] as against the traditional view, argue that Pūṣan is not a solar deity and show that he, being a 'cattle-tending' deity, has obtained a distinction of his own. We shall discuss elsewhere, in detail, which of these differing views is more consistent.
+
+In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*. He is the protector of the roads; he is one who destroys the thieves and robbers on the way and protects his devotees; the giver of abundant food-wealth to the devotees; and one who takes them to a place of prosperity and brings them to it. In this and other ways his various natures and powers are described. He is also described as a gentle (*saumya*) deity, with power and beauty in harmony."
+
+*(All Ṛgveda references in this essay are read from small print with doubt; the quotations are given as printed, and the glosses are mine and tentative. The source leaves the quotations untranslated.)*
+
+- **saṃ tira** = *asmān abhīṣṭasthānaṃ samyak prāpaya* — "make us reach, safely, the place we must go to."
+- **pra sakṣva puraḥ** — "*ṣaca sevane*; *prasakto bhava*; *purato gaccheti*: go in front of us, as a guide."
+
+**Vyākaraṇa-prakriyā** *(p. 441 — grammar page, noted briefly)*
+- **vimuco napāt**: root *muñcḷ mokṣaṇe* (with *vi*): *kvip ca* [Pā. 3-2-76 as read] *kvip*; *vimuc*; genitive singular *vimucaḥ*. "*Vimuñcatīti vimuk*" — that which sheds water abundantly, i.e. a cloud. "*Na pātayati kulam*": the one who does not make the family fall: *napāt*, meaning son (Yāska: '*na pātā prajā*' as printed [?]); *kvip* after the root *pata* in the causative with *nañ*; *ṇic*-loss, *upadhāvṛddhi*; *nabhrāṇnapān…* [Pā. 6-3-75 as read]: *nañ* keeps its form (*prakṛtibhāva*); *subāmantrite parāṅgavat svare* [Pā. 2-1-2 as read] makes *vimucaḥ* a part of the vocative *napāt*; so by *āmantritasya ca* [Pā. 8-1-19 as read] the group is wholly unaccented.
+- **sakṣva**: root *ṣaca sevane*; since it is *anudāttet*, the *ātmanepada* by *anudāttaṅita ātmanepadam*; *loṭ*, *bahulaṃ chandasi* [as read] elides *śap*; *thās* → *se* [print: *sa*]; *savābhyāṃ vāmau* gives *va*; *sac + sva*; *coḥ kuḥ* gives *k*: *sak + sva*; *ādeśapratyayayoḥ* gives *ṣ*; *tāsyanudāttet…* makes *sva* unaccented.
+- **pra ṇaḥ**: *upasargād bahulam* — उपसर्गाद्बहुलम् — [Pā. 8-4-28 as read]: the *n* of *nas* after the *r* or *ṣ* of a preverb optionally becomes *ṇ*. "Although Pāṇini reads *upasargād anotparaḥ* [as read], this would give no *ṇatva* in *praṇonaya*, and would give it in *pra ṇaḥ pūṣā* wrongly; so, by this reasoning, the Mahābhāṣyakāra removed *anotparaḥ* and put *bahulam* in the sūtra; with this *ṇatva* *pra ṇaḥ* results."
+- **puraḥ**: "explained in [Ṛg. 1-41-3 as read [?]]." Rik 1 ends here (*|| 1 ||*).
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–41 COMPLETE (printed pp. 1–434 = PDF 15–448; Sūkta 41 occupies pp. 410–434 and ends with a printed closing note on p. 434).**
+### Rik 42.2 (pp. 441–, PDF 455–)
 
-**Next task:** Sūkta 42 (*saṃ pūṣan*, Anuvāka 8, the seventh sūkta of the anuvāka, 10 Riks, ṛṣi Kaṇva Ghaura, deity Pūṣan, Gāyatrī; to be recited on setting out on a journey), starting at the top of printed p. 435 = PDF 449 (title line "*nalavattaraḍaneya sūktavu*", Sanskrit introduction, Kannada anuvāda and the start of the heading; not yet written) — a clean boundary. Rik 1 follows on p. 436 (PDF 450). The old contents table (p. 433 for Sūkta 42) is superseded: the print shows p. 435. The contents table gives Sūkta 43 (*kad rudrāya*) at p. 465; read the actual boundary. One session per sūkta; read the last ~40 lines of this file first. Rendered pages may be lost; re-render with `pdftoppm -jpeg -r 150 -f 449 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; they will pick up from here.
+**Saṃhitā-pāṭha** *(p. 441 foot; accents not reproduced)*
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 40's list is in the commit "Vol 4: Sūkta 40 complete"). Sūkta 41: (1) heading varga numerals and the Rik numerals of the deity line small, read with doubt; (2) every Pāṇini / Uṇādi / Nirukta / Phiṭ reference numeral is "as read [?]"; (3) Rik 1: "*darbh+ya+te*" for *dabhyate* as printed; (4) Rik 2: the root *pyā*/*pṛ* discussion characterized only; (5) Rik 3: grammatical tail on *durgā* crowded; (6) Rik 4: stray *a* before *nāsti*, the rule-name for *ksaran*, the Nirukta reference and the *indriya-pralaya-mūrti-bhāva* clause doubtful; (7) Rik 5: *nayathā*/*nayatha*; *dhītaye* paribhāṣā and the root-name of *naśat* crowded; (8) Rik 6: the *tokam* name-count and the grammar on *ratnam* (Phiṭ. rule) and *astṛtaḥ* crowded [?]; (9) Rik 7: the statement quoted for *sakhāyaḥ* ("*ṛtvijo vā asya sakhāyaḥ*", from a Yajurveda saṃhitā) is read with doubt; the *alopo 'naḥ* argument (pp. 427–428) is characterized only; (10) Rik 8: the stretch before *bruvo vaciḥ* in the bhāṣya's tail is crowded; (11) Rik 9: the Nirukta text quoted in the Special Topics (*dhārayate*) differs from the bhāṣya's quotation (*smārayeta*) — both are given as printed; the source's English heading "English Translaion" is a misprint [sic]; (12) the contents-table page for Sūkta 42 was wrong (433 → 435).
+> **यो नः पूषन्नघो वृको दुःशेव आदिदेशति ।**
+> **अप स्म तं पथो जहि ॥ २ ॥**
+
+*yo naḥ pūṣann agho vṛko duḥśeva ādideśati |*
+*apa sma taṃ patho jahi || 2 ||*
+
+**Pada-pāṭha** *(p. 442)*
+
+> यः । नः । पूषन् । अघः । वृकः । दुःऽशेवः । आऽदिदेशति ।
+> अप । स्म । तम् । पथः । जहि ॥ २ ॥
+
+*yaḥ | naḥ | pūṣan | aghaḥ | vṛkaḥ | duḥ-śevaḥ | ā-dideśati |*
+*apa | sma | tam | pathaḥ | jahi || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 442)*
+
+> **हे पूषन् यः प्रतिपक्षी नोऽस्मानादिदेशति अनेन मार्गेण गन्तव्यमित्येवमाज्ञापयति । कीदृशः । अघः आहन्ता वृकोऽस्मदीयस्य धनस्यादाता । अपहर्तेत्यर्थः । दुःशेवः सेवितुं दुःशकः दुष्टसुखो वा । तं तादृशं प्रतिपक्षिणं पथो मार्गादपजहि स्म । अवश्यमपाकुरु ॥ वृकः । कुक वृक आदाने । वर्तत इति वृकः इगुपधलक्षणः कः । वृषादित्वादाद्युदात्तत्वं । दुःशेवः । दुष्टं शेवं यस्यासौ दुःशेवः । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वं । यद्वा । दुःखेन सेव्यते इति दुःशेवः । वर्णव्यत्ययेन सकारस्य तकारः । ईषद्दुःसुष्विति खल् । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं । आदिदेशति । दिश अतिसर्जने । लेट्यडागमः । बहुलं छन्दसि । बहुलं छन्दसीति वक्तव्यं । पा. ६-४-७५ । इति वचनान्नाभ्यस्तस्याचीति लघूपधगुणप्रतिषेधाभावः । पथः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं ॥**
+
+*he pūṣan yaḥ pratipakṣī no 'smān ādideśati anena mārgeṇa gantavyam ity evam ājñāpayati | kīdṛśaḥ | aghaḥ āhantā vṛko 'smadīyasya dhanasyādātā | apahartety arthaḥ | duḥśevaḥ sevituṃ duḥśakaḥ duṣṭasukho vā | taṃ tādṛśaṃ pratipakṣiṇaṃ patho mārgād apajahi sma | avaśyam apākuru || vṛkaḥ | kuka vṛka ādāne | vartata iti vṛkaḥ igupadhalakṣaṇaḥ kaḥ | vṛṣāditvād ādyudāttatvaṃ | duḥśevaḥ | duṣṭaṃ śevaṃ yasyāsau duḥśevaḥ | parādiś chandasi bahulam ity uttarapadādyudāttatvaṃ | yadvā | duḥkhena sevyate iti duḥśevaḥ | varṇavyatyayena sakārasya takāraḥ | īṣad-duḥ-suṣv iti khal | litsvareṇa pratyayāt pūrvasyodāttatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ | ādideśati | diśa atisarjane | leṭy aḍāgamaḥ | bahulaṃ chandasi | bahulaṃ chandasīti vaktavyaṃ | pā. 6-4-75 | iti vacanān nābhyastasyācīti laghūpadhaguṇapratiṣedhābhāvaḥ | pathaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ ||*
+
+*(Two transliterations in the grammatical tail are doubtful: "aghaḥ āhantā" is as read; the clause on* bahulaṃ chandasīti vaktavyaṃ *with its sūtra number is crowded [?].)*
+
+**Translation:** "O Pūṣan, whichever *pratipakṣī*, rival, *naḥ*, to us, *ādideśati*, commands, 'you must go by this road' — what kind? *Aghaḥ*, a striker, *vṛkaḥ*, a wolf, a taker of our wealth: the sense is a robber; *duḥśevaḥ*, hard to approach or of evil comfort. Such a rival, *pathaḥ*, from the road, *apa jahi sma*, drive off: certainly remove. *Vṛkaḥ*: root *kuka vṛka ādāne*; '*vartate*', it exists; the suffix *ka* of the *ik*-penultimate rule; first-syllable acute from the *vṛṣādi* group. *Duḥśevaḥ*: 'whose *śeva*, comfort, is bad'; the first syllable of the latter member by *parādiś chandasi bahulam*; or, 'served with difficulty': *duḥśevaḥ*; *t* for *s* by *varṇavyatyaya*; *khal* by *īṣad-duḥ-suṣu…*; the syllable before the suffix is acute by the *lit* accent; the accent of the first member of a compound ending in a *kṛt*. *Ādideśati*: root *diśa atisarjane*; *leṭ* with the augment *aṭ*; because of the statement '*bahulaṃ chandasi*' [Pā. 6-4-75 [?]] there is no non-occurrence of the prohibition of *guṇa* of the light penultimate for a reduplicated stem before a vowel. *Pathaḥ*: the ending acute by the accent that follows loss of an acute."
+
+**Pratipadārtha** *(p. 442)* — "**pūṣan** — O Pūṣan; **aghaḥ** — sinful; **vṛkaḥ** — a thief who steals our wealth; **duḥśevaḥ** — one who delights in evil work; **yaḥ** — whichever enemy; **naḥ** — us; **ādideśati** — compels (showing a dangerous road, saying 'go by this one'); **tam** — such an opponent; **pathaḥ** — from our right road; **apa jahi sma** — surely drive far away."
+
+**Bhāvārtha** *(p. 442)* — "O Pūṣan, drive far away to a distant place that enemy of ours who is sinful, a thief who steals our wealth, one who delights in evil work, and who insists that we go along a dangerous road."
+
+*(The source's English, Special Topics and grammar of Rik 2 begin on p. 443, not yet written.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–41 COMPLETE; Sūkta 42 in progress: printed p. 442 (PDF 456) reached; introduction, heading, Rik 42.1 complete (with its long Special Topics essay on Pūṣan); Rik 42.2's Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written.**
+
+**Next task:** continue at printed p. 443 (PDF 457) with the English, Special Topics and grammar of Rik 42.2, then Riks 3–10 and the close of Sūkta 42 (to about p. 464; Sūkta 43 *kad rudrāya* begins about p. 465 per the contents table — check), then STOP at the end of Sūkta 42 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 449–485) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 457 -l 485 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before this sūkta is finished it will check the git log and stop if a run is active.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 41's list is in the commit "Vol 4: Sūkta 41 complete"). Sūkta 42 so far: (1) heading varga numerals small, read with doubt; (2) the introduction's Gṛhya-sūtra reference reads 3-8-10 in the Sanskrit and 3-2-10 in the Kannada [?]; its Anukramaṇikā clause ("*pauṣṇam*") is read with doubt; (3) Rik 1's bhāṣya is crowded and partly garbled in the middle (*adbhyaḥ pṛthivī*, *napātrajā*, *pūṣādhvanaḥ pākṣityārheyaṃ vai pūṣā*, the Śatapatha numeral) — the translation of those lines is tentative; (4) the long Special Topics essay on Pūṣan quotes eight Ṛgveda passages and two Nirukta/Brāhmaṇa passages untranslated in the source; all my glosses are mine and tentative and every reference numeral is read with doubt [?]; (5) the grammar of *pra ṇaḥ* (Pāṇini's *upasargād anotparaḥ* vs the Mahābhāṣya's *bahulam*) is summarized from a crowded passage; every Pāṇini / Uṇādi / Nirukta reference numeral is "as read [?]"; (6) Rik 2: the clause "*bahulaṃ chandasīti vaktavyam*" with its sūtra number is crowded [?].
