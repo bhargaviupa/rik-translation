@@ -5575,8 +5575,107 @@
 
 ---
 
+**Rik 54.1, grammar (end)** *(p. 307, PDF 323 — grammar page, noted briefly)*
+- **roruvat**: *ru śabde*; in the sense of intensity, *yaṅ* by *dhātor ekāco halādeḥ…*; *yaṅ* is dropped (*luk*) by *yaño 'ci ca* (as read, [?]); reduplication; *guṇo yaṅlukoḥ* gives *guṇa* to the reduplicative; *sanādyantā dhātavaḥ* gives the root-designation; *śatṛ* in the present sense; *yaṅluki* the *adādivat* extension drops *śap* by *adiprabhṛtibhyaḥ śapaḥ*; since *śatṛ* is *ṅit*-like, no *guṇa* by *sārvadhātukam apit*; *ro-ru + at*: *āciśnudhātubhruvāṃ…* gives *uvaṅ*: *roruvat*; *nābhyastācchatuḥ* forbids *num* even after *sarvanāmasthāna*; *halṅyābbhyo…* drops *su*: *roruvat*; *abhyastānām ādiḥ* gives the initial acute.
+- **kathā**: the word *kim*; where the sense of the interrogative is shown, *thā hetau ca chandasi* (Pā. 5-3-26 as read [?]) gives *thāl*; since the suffix is in the *prāg diśo vibhaktiḥ* section it takes the *vibhakti*-designation, so *kimaḥ kaḥ* (Pā. 7-2-103) gives *ka* for *kim*: *kathā*; end-acute by the suffix-accent.
+- **ārata**: *ṛ gatau*; with *sam* before, *samo gamyṛcchibhyām* (Pā. 1-3-29) gives the *ātmanepada*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; for the third plural *jha*, *ātmanepadeṣv anataḥ* gives *at*; being in the *adādi*, *śap* drops by *adiprabhṛtibhyaḥ śapaḥ*; *āḍajādīnām* gives *āṭ*; *āṭaś ca* gives *vṛddhi*: *ārata*; *tiṅ atiṅaḥ*, *nighāta*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks; Triṣṭubh in Riks 6, 8, 9, 11, Jagatī in the rest) in progress: introduction and heading written; Rik 54.1 written through the Special Topics and the first grammar notes (*pṛtsu, parīṇaśe, nadyaḥ*) (printed p. 306, PDF 322). The remaining grammar notes of Rik 1 (*vanā, roruvat, kathā, kṣoṇīḥ, ārata*; p. 307, PDF 323) and Riks 54.2–54.11 are NOT yet written.**
+### Rik 54.2 (pp. 307–310, PDF 323–326)
 
-**Next task:** continue at printed p. 307 (PDF 323) with "**Rik 54.1, grammar (end)**", then Riks 2–11 and the close of Sūkta 54 (the contents table puts Sūkta 55 at p. ≈ 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages). Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?].
+**Saṃhitā-pāṭha** *(p. 307; accents printed, not reproduced)*
+
+> **अर्चा शक्राय शाकिने शचीवते शृण्वन्तमिन्द्रं महयन्नभि ष्टुहि ।**
+> **यो धृष्णुना शवसा रोदसी उभे वृषा वृषत्वा वृषभो न्यृञ्जते ॥ २ ॥**
+
+*arcā śakrāya śākine śacīvate śṛṇvantam indraṃ mahayann abhi ṣṭuhi |*
+*yo dhṛṣṇunā śavasā rodasī ubhe vṛṣā vṛṣatvā vṛṣabho nyṛñjate || 2 ||*
+
+**Pada-pāṭha** *(p. 308)*
+
+> अर्च । शक्राय । शाकिने । शचीऽवते । शृण्वन्तम् । इन्द्रम् । महयन् । अभि । स्तुहि ।
+> यः । धृष्णुना । शवसा । रोदसी इति । उभे इति । वृषा । वृषऽत्वा । वृषभः । निऽऋञ्जते ॥ २ ॥
+
+*arca | śakrāya | śākine | śacī-vate | śṛṇvantam | indram | mahayan | abhi | stuhi |*
+*yaḥ | dhṛṣṇunā | śavasā | rodasī iti | ubhe iti | vṛṣā | vṛṣa-tvā | vṛṣabhaḥ | ni-ṛñjate || 2 ||*
+
+*(The Saṃhitā's* arcā *has the lengthened final vowel, the Pada's* arca *the short, as the grammar note says.)*
+
+**Sāyaṇa-bhāṣya** *(p. 308)*
+
+> **हे अध्वर्यो शाकिने शक्तियुक्ताय शचीवते प्रज्ञावते शक्रायेन्द्रायार्च । एवंविधमिन्द्रं पूजय । किंच स्तुतीः शृण्वन्तं समीचीनेयं स्तुतिरिति जानन्तं तमिन्द्रं महयन् पूजयन्नभि ष्टुहि । आभिमुख्येन तस्य स्तोत्रं कुरु । य इन्द्रो धृष्णुना शत्रूणां धर्षकेण शवसा बलेनोभे रोदसी द्यावापृथिव्यौ न्यृञ्जते नितरां प्रसाधयति । ऋञ्जतिः प्रसाधनकर्मा । नि. ६-२१ [?] इति यास्कः । स इन्द्रो वृषा सेचनसमर्थो वृषत्वा वृषत्वेनैव सेचनसामर्थ्येन वृषभो वर्षिता कामानां यद्वा वृष्ण्युदकानाम् ॥**
+
+*he adhvaryo śākine śaktiyuktāya śacīvate prajñāvate śakrāyendrāyārca | evaṃvidham indraṃ pūjaya | kiṃca stutīḥ śṛṇvantaṃ samīcīneyaṃ stutir iti jānantaṃ tam indraṃ mahayan pūjayann abhi ṣṭuhi | ābhimukhyena tasya stotraṃ kuru | ya indro dhṛṣṇunā śatrūṇāṃ dharṣakeṇa śavasā balenobhe rodasī dyāvāpṛthivyau nyṛñjate nitarāṃ prasādhayati | ṛñjatiḥ prasādhanakarmā | ni. 6-21 [?] iti yāskaḥ | sa indro vṛṣā secanasamartho vṛṣatvā vṛṣatvenaiva secanasāmarthyena vṛṣabho varṣitā kāmānāṃ yadvā vṛṣṇyudakānām ||*
+
+*(The grammatical tail, p. 308 foot: on* arca *(*pit*-ness of* śap*, the root accent; the Vedic lengthening in the Saṃhitā by* dvyacas tiṅaḥ*),* śākine*,* abhi ṣṭuhi *(*upasargāt sunoti…* for the *ṣatva*; *ṣṭuñ stutau*; *hi* for* sip*),* vṛṣatvā *(the suffix *tva* in the Veda by* tva *in the sense of the action),* nyṛñjate *(*ṛñjatiḥ prasādhanakarmā*, Ni. 6-21 as read [?]; *ṛji bhrjī bharjane*, *num*; *vyatyaya*, *śa*) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Adhvaryu, *arca*, worship *śakrāya*, Indra — *śākine*, endowed with power, *śacīvate*, with wisdom: such an Indra, worship. And *mahayan*, honouring that Indra, *śṛṇvantam*, who hears the praises, knowing 'this is a fitting praise' — *abhi ṣṭuhi*, praise him face to face, make his hymn. Indra *yaḥ dhṛṣṇunā śavasā*, with his strength that overpowers enemies, *ubhe rodasī*, both heaven and earth, *ni ṛñjate*, adorns exceedingly — *ṛñjati* has the sense of adorning, says Yāska (Ni. 6-21 [?]). That Indra is *vṛṣā*, capable of showering; *vṛṣatvā*, by that very capacity of showering, *vṛṣabhaḥ*, the shower of desires, or of the waters."
+
+**Pratipadārtha** *(p. 308)* — "(O Adhvaryu) **śākine** — to the powerful; **śacīvate** — the wise; **śakrāya** — to Indra; **arca** — offer worship; **śṛṇvantam** — [him] who listens (to your hymns); **indram** — Indra; **mahayan** — worshipping; **abhi stuhi** — stand before him and praise him; **yaḥ** — which Indra; **dhṛṣṇunā** — overpowering (the enemies); **śavasā** — by strength; **ubhe rodasī** — both heaven and earth; **nyṛñjate** — adorns completely; (**saḥ**) — that Indra; **vṛṣā** — able to cause the rain; **vṛṣatvā** — by this capacity; **vṛṣabhaḥ** — the giver of our desires, or the giver of the waters of the rain (so well known)."
+
+**Bhāvārtha** *(p. 309)* — "O Adhvaryu, offer worship to Indra, who is powerful and wise. Worshipping Indra who listens to your hymns, stand before him and praise him. Indra who adorns both heaven and earth with his enemy-overpowering strength is capable of sending the rain, and by his own capacity gives us our desires."
+
+**English Translation (the source's own, p. 309)** — "Adore the wise and powerful Indra; adoring the listening Indra, praise him who adorns both heaven and earth by his irresestible [sic] might, he is the sender of showers, and by his bounty gratifies our desires."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 309**
+- **śākine** — "For the word *śāka*, formed from the root *śakḷ śaktau*, the sense is 'power'. One who has *śāka* is *śākī*: one who has complete power."
+- **śṛṇvantam** — "This is an epithet of the word *indra*: 'one who listens attentively to the hymns of those who praise him'."
+- **abhi ṣṭuhi** — "Stand facing him and make his hymn."
+- **ubhe rodasī** — "The two, heaven and earth. Here, though the sense of the word *ubhe* is understood from the dual alone on the word *rodasī*, one should know that the use of the word *ubhe* is for clarity."
+- **nyṛñjate** — "*Nitarāṃ prasādhayati*: from the root *ṛji bhrjī bharjane*, joined with the preposition *ni*, this verb-form gives the sense 'adorns'. The Nirukta itself is the authority: '*ṛñjatiḥ prasādhanakarmā*' (Ni. 6-21 as read [?])."
+
+  > **ऋञ्जतिः प्रसाधनकर्मा ।** *(Ni. 6-21 as read [?])*
+
+  *ṛñjatiḥ prasādhanakarmā |* — mine and tentative: "*ṛñj* is [a verb] of the action of adorning."
+- **vṛṣā** — "One who causes the rain."
+- **vṛṣatvā** — "One who has the capacity of showering rain."
+- **vṛṣabhaḥ** — "One who fulfils the desires of the sacrificers; or one who satisfies all with the gift in the form of rain (Indra)."
+
+**Vyākaraṇa-prakriyā** *(pp. 309–310 — grammar pages, noted briefly)*
+- **arca**: *arca pūjāyām*; *loṭ* second singular *sip*; *serhy apicca* (Pā. 3-4-87) gives *hi* for *sip*; *kartari śap*; since *a* precedes, *ato heḥ* drops *hi*; since the word begins a *pāda*, there is no *nighāta*; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, so the root's own accent remains; in the Saṃhitā, *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135) lengthens the final: *arcā*.
+- **śākine**: *śaktiḥ śākaḥ*; *śakḷ śaktau*; *ghañ* in the sense of the action; *ñit*, so *ata upadhāyāḥ* gives *vṛddhi*; "*śāko 'syāsti*": *ata ini-ṭhanau* (Pā. 5-2-115) gives *ini*; *yasyeti ca* drops the *a*: *śākin*; dative: the dative stands since *kriyāgrahaṇaṃ kartavyam* gives the object the *sampradāna*-name.
+- **abhi ṣṭuhi**: *ṣṭuñ stutau*; *loṭ* second singular, *sip*→*hi*; being *apit*, no *guṇa*; *adiprabhṛtibhyaḥ śapaḥ* drops *śap*: *stuhi*; *upasargāt sunoti…* (Pā. 8-3-65) gives *ṣatva* to the root's *s* after the prefix *abhi*; *ṣṭunā ṣṭuḥ* turns the *t* of the root into *ṭ*; so *ṣṭuhi*; *nighāta*.
+- **dhṛṣṇunā**: *ñidhṛṣā prāgalbhye*; *trasigṛdhidhṛṣikṣipeḥ knuḥ*; being *kit*, no *guṇa*; the instrumental singular: *nā*, since *dhṛṣṇu* has the *ghi*-designation, *āṅo nā*… the *nā* is allowed; the suffix-accent applies.
+- **vṛṣatvā**: *vṛṣu secane*; *tva* in the sense of the action; in the instrumental, *supāṃ suluk* gives *ā*: *vṛṣatvā*; end-acute by the suffix-accent.
+- **nyṛñjate**: *ṛji bhrjī bharjane*; since *idit*, *idito num dhātoḥ* gives *num*; *vyatyayo bahulam* gives *śa* [as *śap*] for the characteristic; *ṛñjate*; with the prefix *ni*, *iko yaṇaci* gives *yaṇ* to the *i*; since it follows an *atiṅ*… the *anudātta* accent from *tāsyanudāttenṅidadupadeśāl…*, so the *vikaraṇa* accent holds; because the relative *yaḥ* stands before, *yadvṛttānnityam* forbids the *nighāta*. **|| 2 ||**
+
+---
+
+### Rik 54.3 (pp. 311–, PDF 327–)
+
+**Saṃhitā-pāṭha** *(p. 311; accents printed, not reproduced)*
+
+> **अर्चा दिवे बृहते शूष्यं वचः स्वक्षत्रं यस्य धृषतो धृषन्मनः ।**
+> **बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः ॥ ३ ॥**
+
+*arcā dive bṛhate śūṣyaṃ vacaḥ svakṣatraṃ yasya dhṛṣato dhṛṣan manaḥ |*
+*bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 311)*
+
+> अर्च । दिवे । बृहते । शूष्यम् । वचः । स्वऽक्षत्रम् । यस्य । धृषतः । धृषत् । मनः ।
+> बृहत्ऽश्रवाः । असुरः । बर्हणा । कृतः । पुरः । हरिभ्याम् । वृषभः । रथः । हि । सः ॥ ३ ॥
+
+*arca | dive | bṛhate | śūṣyam | vacaḥ | sva-kṣatram | yasya | dhṛṣataḥ | dhṛṣat | manaḥ |*
+*bṛhat-śravāḥ | asuraḥ | barhaṇā | kṛtaḥ | puraḥ | haribhyām | vṛṣabhaḥ | rathaḥ | hi | saḥ || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 311)*
+
+> **हे स्तोतः दिवे दीप्ताय बृहते महते इन्द्राय शूष्यम् । शूषमिति सुखनाम । तत्र साधु शूष्यम् । तादृशं स्तुतिलक्षणं वचोऽर्च । उच्चारय । यस्येन्द्रस्य धृषतः शत्रून्धर्षयतः स्वक्षत्रं स्वभूतबलवन्मनो धृषत् धृष्टं भवति । हि षः स हि स खल्विन्द्रो बृहच्छ्रवाः प्रभूतयशा असुरः शत्रूणां निरसिता । यद्वा । असुः प्राणो बलं वा । तद्वान् । रो मत्वर्थीयः । अथवा । असवः प्राणाः । तेन चापो लक्ष्यन्ते । प्राणा वा आपः । तै. ब्रा. ३-२-५-२ [?] इति श्रुतेः । तानाप्रति ददातीत्यसुरः । बर्हणा शत्रूणां निबर्हयिता हरिभ्यामश्वाभ्यां पुरस्कृतः पूजितः वृषभः कामानां वर्षिता रथो रंहणशीलः ॥**
+
+*he stotaḥ dive dīptāya bṛhate mahate indrāya śūṣyam | śūṣam iti sukhanāma | tatra sādhu śūṣyam | tādṛśaṃ stutilakṣaṇaṃ vaco 'rca | uccāraya | yasyendrasya dhṛṣataḥ śatrūn dharṣayataḥ svakṣatraṃ svabhūtabalavan mano dhṛṣat dhṛṣṭaṃ bhavati | hi ṣaḥ sa hi sa khalv indro bṛhacchravāḥ prabhūtayaśā asuraḥ śatrūṇāṃ nirasitā | yadvā | asuḥ prāṇo balaṃ vā | tadvān | ro matvarthīyaḥ | athavā | asavaḥ prāṇāḥ | tena cāpo lakṣyante | prāṇā vā āpaḥ | tai. brā. 3-2-5-2 [?] iti śruteḥ | tān āpraṭi [?] dadātīty asuraḥ | barhaṇā śatrūṇāṃ nibarhayitā haribhyām aśvābhyāṃ puraskṛtaḥ pūjitaḥ vṛṣabhaḥ kāmānāṃ varṣitā ratho raṃhaṇaśīlaḥ ||*
+
+*(Reading notes: "*tān āpraṭi dadātīty*" — the print gives "tānāpraṭi" or "tānāprati", crowded, [?]; I take the sense "he gives these [the waters, the life-breaths]". The grammatical tail, p. 311 foot: on* śūṣyam *(*sukhanāma*; *tatra sādhuḥ*, *yat*),* dhṛṣataḥ*,* bṛhacchravāḥ *(bahuvrīhi with first-member accent),* asuraḥ *(*asu kṣepaṇe*, Uṇādi* uran*, Uṇ. 1-… as read [?]; or the *ra*-suffix in the possessive sense),* barhaṇā*,* puraḥ *(*pūrvādharāvarāṇām*…, as read, [?]) — is characterized.)*
+
+**Translation of the bhāṣya:** "O praiser: to Indra, *dive*, the shining, *bṛhate*, the great — *śūṣyam*: *śūṣa* is a name for happiness, and what is good in that is *śūṣya* — such a word of praise, *arca*, utter. Of that Indra *dhṛṣataḥ*, who overpowers enemies, *svakṣatram*, whose own-born strength, *manaḥ*, mind, is *dhṛṣat*, bold; for he, *bṛhacchravāḥ*, of great renown, *asuraḥ*, the thrower-off of enemies — or *asu* is breath, or strength; one who has it (*ra* is the possessive suffix); or *asavaḥ* are the life-breaths, and by that the waters are meant ('the waters are indeed life-breaths', Tai. Brā. 3-2-5-2 [?]); he who gives these — *barhaṇā*, the destroyer of enemies, *haribhyām*, honoured by the two horses placed in front, *vṛṣabhaḥ*, the shower of desires, *rathaḥ*, swift-going [or: 'a chariot', as the print has the word *rathaḥ* separate, [?]]."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–53 COMPLETE (printed pp. 1–303 = PDF 17–319). Sūkta 54 (*mā no asmin maghavan pṛtsv aṃhasi*, 11 Riks) in progress: Riks 54.1–54.2 complete; Rik 54.3 written from the Saṃhitā and Pada through the main bhāṣya (printed p. 311, PDF 327). Its Pratipadārtha etc. (from p. 312, PDF 328) and Riks 54.4–54.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 312 (PDF 328) with "**Rik 54.3, continued**" (Pratipadārtha, Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 4–11 and the close of Sūkta 54 (Sūkta 55 starts at ≈ p. 342 [?] — check the print). At the end of Sūkta 54 the user's instruction ("translate Sūktas 51–54") is fulfilled — STOP, update CLAUDE.md "Current position" (Sūktas 47–54 complete; next Sūkta 55) and report. **Routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` for later pages). Flags for Sūkta 54: introduction's Anukramaṇī half-line and Āśvalāyana numeral [?]; Varga and metre numerals in the heading [?]; Rik 1 "prakṣaipsīr", "kaduphalakṣaṇāḥ" and the first Special Topic's Sanskrit crowded [?]; Rik 2 Nirukta numeral [?]; Rik 3 "tānāpraṭi dadāti" and the Taittirīya Brāhmaṇa numeral [?].
