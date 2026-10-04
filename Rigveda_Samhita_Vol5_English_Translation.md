@@ -4152,8 +4152,62 @@
 
 ---
 
+**Rik 52.5, grammar (end)** *(p. 233, PDF 249 — grammar page, noted briefly)*
+- **raghvīḥ** (continued): in the feminine, *vāto guṇavacanāt* [Pā. 4-1-44 as read, [?]] gives *ṅīṣ*; the *u* becomes *v* by *yaṇ*; the plural ending *jas* after *raghvī*: *vā chandasi* (Pā. 6-1-106) gives the lengthening by the same-sound rule; *ru*, *visarga*: *raghvīḥ*.
+- **dhṛṣamāṇaḥ**: *ñidhṛṣā prāgalbhye*; *vyatyayo bahulam* gives the *ātmanepada* *śānac*; *śnā* would be the characteristic (*kryādi*), but *vyatyaya* gives *śa* even there; *āne muk* (Pā. 7-2-82) the *muk*-augment at the end of the characteristic; *aṭkupvāṅnumvyavāye 'pi* gives *ṇatva* of the *n*: *dhṛṣamāṇa*; the suffix, being after the root accented on the last syllable, is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam…*; the accent of the characteristic gives the vowel after *ṣ* its acute.
+- **bhinat**: *bhidir vidāraṇe*, *rudhādi*; *laṅ* third singular *tip*; the *i* of *tip* dropped by *itaś ca*; *rudhādibhyaḥ śnam*; being *mit*, the *na* goes after the last vowel of the root; *bhinad-t*: *halṅyābbhyo…* drops the *t*; *vāvasāne* (Pā. 8-4-56) gives *carva*: *d* → *t*; the *aṭ*-augment is absent by *bahulaṃ chandasy amāṅyoge 'pi*; the accent comes from the characteristic; because of the earlier *yat*, the *nighāta* is forbidden by *yadvṛttān nityam*.
+- **valasya**: *vala saṃvaraṇe*; "*valati saṃvṛṇoti sarvam iti valaḥ*", the root being in the open *pacādi* list, *ac* by *nandigrahipacādibhyo lyuṇinyacaḥ*: *vala*; "the mention of the action must be added", so the object takes the designation *sampradāna* and the genitive stands in the sense of the dative; end-acute by *citaḥ*.
+- **paridhīn**: "*pari dhīyante iti paridhayaḥ*"; *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *upasarge ghoḥ kiḥ* (Pā. 3-3-92 as read [?]) gives *ki* in the passive sense when the prefix is the *upapada*; *ato lopa iṭi ca* drops the *ā*; *paridhi*; with the prefix *pari*, *gatikārakopapadāt kṛt* gives the accent of the last member; before *śas*, the lengthening by the same-sound rule; *tasmāc chaso naḥ puṃsi* turns the *s* of *śas* into *n*: *paridhīn*. **|| 5 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.4 complete; Rik 52.5 written from the Saṃhitā through the Special Topics (including Wilson's long English note on Trita, summarized) and the Vyākaraṇa notes through *raghvīḥ* (printed p. 232, PDF 248). The rest of Rik 5's grammar (p. 233, PDF 249) and Rik 52.6 onward are NOT yet written.**
+### Rik 52.6 (pp. 233–, PDF 249–)
 
-**Next task:** continue at printed p. 233 (PDF 249) with "**Rik 52.5, grammar (end)**", then Rik 52.6 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause "havirlepanirgharṣaṇādyayogye" and "tān yathā" crowded [?], Tai. Brā. numeral, the Ṛ. Saṃ. 1-158-5 verse transcribed as printed with doubtful ending, the Taittirīya Saṃhitā passage on Vala partly illegible; Wilson's note summarized not word-for-word; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 233; accents printed, not reproduced)*
+
+> **परीं घृणा चरति तित्विषे शवोऽपो वृत्वी रजसो बुध्नमाशयत् ।**
+> **वृत्रस्य यत्प्रवणे दुर्गृभिश्वनो निजघन्थ हन्वोरिन्द्र तन्यतुम् ॥ ६ ॥**
+
+*parīṃ ghṛṇā carati titviṣe śavo 'po vṛtvī rajaso budhnam āśayat |*
+*vṛtrasya yat pravaṇe durgṛbhiśvano nijaghantha hanvor indra tanyatum || 6 ||*
+
+**Pada-pāṭha** *(p. 234)*
+
+> परि । ईम् । घृणा । चरति । तित्विषे । शवः । अपः । वृत्वी । रजसः । बुध्नम् । आ । अशयत् ।
+> वृत्रस्य । यत् । प्रवणे । दुःऽगृभिश्वनः । निऽजघन्थ । हन्वोः । इन्द्र । तन्यतुम् ॥ ६ ॥
+
+*pari | īm | ghṛṇā | carati | titviṣe | śavaḥ | apaḥ | vṛtvī | rajasaḥ | budhnam | ā | aśayat |*
+*vṛtrasya | yat | pravaṇe | duḥ-gṛbhiśvanaḥ | ni-jaghantha | hanvoḥ | indra | tanyatum || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 234)*
+
+> **यो वृत्रोऽपो वृत्वी । उदकान्यावृत्य रजसो बुध्नमन्तरिक्षस्योपरिप्रदेशमाशयत् । आश्रित्यास्त । तस्य वृत्रस्य प्रवणे प्रकर्षेण वननीयेऽन्तरिक्षे वर्तमानस्य दुर्गृभिश्वनो दुर्ग्रहव्यापनस्य । तस्य हि व्यापनं न केनापि ग्रहीतुं शक्यते । स इमाँल्लोकानावृणोदिति श्रुतेः । एवंभूतस्य वृत्रस्य हन्वोर्मुखपार्श्वयोः । हे इन्द्र यद्यदा तन्यतुं प्रहारं विस्तारयन्तं यद्वा शब्दकारिणं वज्रं [print: तृतीयार्थे द्वितीया] । तन्यतुना वज्रेण निजघन्थ । नितरां प्राजहर्थ । तदानीमिमेनं त्वामिन्द्रं घृणा शत्रुजयलक्षणा दीप्तिः परिचरति । परितो व्याप्नोति । त्वदीयं शवो बलं च तित्विषे । प्रदिदीपे ॥**
+
+*yo vṛtro 'po vṛtvī | udakāny āvṛtya rajaso budhnam antarikṣasyopariprade­śam āśayat | āśrityāsta | tasya vṛtrasya pravaṇe prakarṣeṇa vananīye 'ntarikṣe vartamānasya durgṛbhiśvano durgrahavyāpanasya | tasya hi vyāpanaṃ na kenāpi grahītuṃ śakyate | sa imāṃl lokān āvṛṇod iti śruteḥ | evaṃbhūtasya vṛtrasya hanvor mukhapārśvayoḥ | he indra yad yadā tanyatuṃ prahāraṃ vistārayantaṃ yadvā śabdakāriṇaṃ vajraṃ [tṛtīyārthe dvitīyā] | tanyatunā vajreṇa nijaghantha | nitarāṃ prājaharthā | tadānīm imenaṃ tvām indraṃ ghṛṇā śatrujayalakṣaṇā dīptiḥ paricarati | parito vyāpnoti | tvadīyaṃ śavo balaṃ ca titviṣe | pradidīpe ||*
+
+*(Reading notes: "*mukhapārśvayoḥ*" for the jaws, and the bracketed grammatical remark "*tṛtīyārthe dvitīyā*" — "the second case in the sense of the third", which is the Kannada Special Topics' remark — I read from the print, which is crowded in this line, [?]. The tail of the bhāṣya, p. 234 foot –: on* vṛtvī *(*vṛñ varaṇe*, *kvanip* with the Uṇādi list "*snātvyādayaś ca*", Pā. 3-2-… as read [?]),* rajasaḥ *(*ranja rāge*, "*rajanty asmin gandharvādayaḥ*", the loss of* na *by "*rajakaraja…*"),* āśayat *(*śīṅ svapne*, with a Vedic* parasmaipada *and the non-elision of* śap*),* durgṛbhiśvanaḥ *(*graha upādāne*, "*kūpusam…*" and the Vedic substitute *śvan* in "*durgṛbhi*… *pṛṣodarādi*"),* nijaghantha *(*han hiṃsāgatyoḥ*, *liṭ* with* thal*, no* iṭ *by the* kṛdādi*-rule,* abhyāsāc ca *for* ku*),* tanyatum *(*tanu vistāre*, the Uṇādi* atu*, "*yadvā stana śabde*" with the loss of* s*) — is characterized.)*
+
+**Translation of the bhāṣya:** "The Vṛtra who, *vṛtvī*, having covered the waters, *āśayat*, lay on the *rajasaḥ budhnam*, the summit of the atmosphere, resting on it: of that Vṛtra, who dwelt *pravaṇe*, in the atmosphere that is excellently to be resorted to, *durgṛbhiśvanaḥ*, whose spreading could not be checked — his pervasion cannot be seized by anyone, according to the śruti 'he covered these worlds' — of such a Vṛtra, *hanvoḥ*, on the two jaws (the sides of the mouth): O Indra, when you struck, *nijaghantha*, hard, with the *tanyatu*, the spreading blow — or the sounding thunderbolt — then, *īm*, this you, Indra, *ghṛṇā*, the radiance that signifies victory over the enemy, *pari carati*, goes round, pervades on every side; and your strength, power, *titviṣe*, blazed."
+
+**Pratipadārtha** *(pp. 234–235)* — "(**yaḥ** — which Vṛtra) **apaḥ** — the waters; **vṛtvī** — having covered (obstructed); **rajasaḥ budhnam** — the upper part of the atmosphere; **āśayat** — he rested, having taken refuge there; **pravaṇe** — in the beautiful atmosphere; **durgṛbhiśvanaḥ** — (whose course) pervades so that it cannot be checked; **vṛtrasya** — of this Vṛtra; **hanvoḥ** — on the jaws; **indra** — O Indra; **yat** — when; **tanyatum** — the thunderbolt that spreads (or sounds), (with it); **nijaghantha** — you struck well; **īm** — this you; **ghṛṇā** — (the radiance, indicating victory over enemies); **pari carati** — spreads on all sides; **śavaḥ** — (your) strength; **titviṣe** — it was caused to blaze."
+
+**Bhāvārtha** *(p. 235)* — "O Indra, when Vṛtra, having obstructed the waters, took refuge in the beautiful atmosphere and lay pervading all of it so that none could check him, you struck him strongly on the jaws with your thunderbolt. Then your radiance, indicative of victory over the enemy, spread on all sides, caused your strength to blaze, and spread your fame."
+
+**English Translation (the source's own, p. 235)** — "O Indra, when you had smitten with your thunderbolt the cheeks of the wide-extended Vritra, who, having obstructed the waters, reposed in the region above the firmament, your fame spread afar, your prowess was renowned."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 235**
+- **īm** — "This is a word with the sense of *etat* ('this'); *enam*, 'him', is its meaning. Here it qualifies Indra."
+- **vṛtvī** — "This word, formed from the root *vṛñ varaṇe*, gives the sense of 'covering'."
+- **rajasaḥ budhnam** — "*rajanti asmin gandharvādayaḥ iti rajaḥ antarikṣam*: here, the atmosphere, which is the support of the going about and the sport of the Gandharvas and others; Vṛtra, having taken refuge both in it as a whole and in its upper part, pervaded it."
+- **pravaṇe durgṛbhiśvanaḥ** — "No one could check the Asura Vṛtra who thus stood pervading the atmosphere. Here the word *durgṛbhiśva* has been explained by the sense 'one whose pervasion is hard to seize'. The śruti '*sa imān lokān avṛṇot*' supports this."
+- **tanyatum** — "The word *tanyatu* means all-pervading, or the thunderbolt that makes a sound. Here the word, though in the second case, gives the sense of the third case."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.5 complete; Rik 52.6 written from the Saṃhitā through the Special Topics (printed p. 235, PDF 251). The Vyākaraṇa-prakriyā of Rik 6 (begins p. 236, PDF 252) and Rik 52.7 onward are NOT yet written.**
+
+**Next task:** continue at printed p. 236 (PDF 252) with "**Rik 52.6, Vyākaraṇa-prakriyā**" (grammar page, note briefly), then Rik 52.7 onward to the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ" and "tṛtīyārthe dvitīyā" crowded [?]; Uṇādi and Pāṇini numerals as read [?].
