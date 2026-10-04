@@ -3359,8 +3359,107 @@
 
 ---
 
+**Rik 51.8, continued** *(p. 184, PDF 200 — grammar page, noted briefly)*
+- **śākī**: *śak śaktau*, *svādi*; *ghañ* in the sense of the action; the *ñit* gives *vṛddhi* of the penultimate *a* (*ata upadhāyāḥ*): *śāka*; "*śākam asyāstīti śākī*": the suffix *ini* in the sense "having" by *ata iniṭhanau*; the accent that comes from the suffix would be end-acute, but by *vyatyaya* in the Veda it is initial-acute; or, since the word is read in the *vṛṣādi* list, the initial-acute comes by *vṛṣādīnāṃ ca* (Pā. 6-1-203 as read [?]).
+- **viśvā tā**: for *viśvāni tāni*; the neuter plural substitute *śi* is dropped by *śeś chandasi bahulam*; the two words are *viśvā*, *tā*.
+- **sadhamādeṣu**: "*saha mādyanti eṣu*" — *sadamādāḥ* — the sacrifices in which all rejoice; from the root *mad harṣe*, the suffix *ghañ* in the locative sense; the *a* lengthened gives *māda*. Here an objection arises: when a non-preposition is the *upapada*, *mado 'nupasarge* (Pā. 3-3-67 as read [?]) gives *ap* in place of *ghañ*; how then does the form come from *ghañ*? Answer given in the *Dhātuvṛtti*: the Nyāsakāra explains that the sūtra *vyadhajapor anupasarge* (Pā. 3-3-61 as read [?]), which stands just before and also gives *ap*, could have taken *mad* into it; that *mad* has been kept separate as *mado 'nupasarge* shows that *ghañ* is also optionally obtained for this root; so the desired form comes from the optional *ghañ*. *Sadhamādastha-yoś chandasi* (Pā. 6-3-96 as read [?]) gives *sadha* for *saha*; locative plural *sadhamādeṣu*.
+- **cākana**: *kana dīptikāntigatiṣu*, here in the sense of desire (*kānti*); *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; the first-person *ṇal*; reduplication, *halādiḥ śeṣaḥ*, *cutva*; the *ṇ* is optional by *ṇal uttamo vā* (Pā. 7-1-91 as read [?]), so no *vṛddhi* here; the reduplicative vowel is lengthened because the root is read in the *tujādi* list (*tujādīnāṃ dīrgho 'bhyāsasya*): *cākana*. **|| 8 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.7 complete; Rik 51.8 written from the Saṃhitā through the Special Topics, and the Vyākaraṇa notes through *śāsat* (printed p. 183, PDF 199). The remaining grammar of Rik 8 (śākī, viśvā, sadhamādeṣu, cākana, on p. 184, PDF 200) is NOT yet written.**
+### Rik 51.9 (pp. 185–188, PDF 201–204)
 
-**Next task:** continue at printed p. 184 (PDF 200) — begin with a short "**Rik 51.8, continued**" heading for the last grammar notes, then Riks 9–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 reference numerals all [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]" crowded [?]; 51.8 "karmaṇy anuṣṭhātṝn" and "duṣṭānām" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8) [sic].
+**Saṃhitā-pāṭha** *(p. 185; accents printed, not reproduced)*
+
+> **अनुव्रताय रन्धयन्नपव्रतानाभूभिरिन्द्रः श्नथयन्ननाभुवः ।**
+> **वृद्धस्य चिद्वर्धतो द्यामिनक्षतः स्तवानो वम्रो वि जघान संदिहः ॥ ९ ॥**
+
+*anuvratāya randhayann apavratān ābhūbhir indraḥ śnathayann anābhuvaḥ |*
+*vṛddhasya cid vardhato dyām inakṣataḥ stavāno vamro vi jaghāna saṃdihaḥ || 9 ||*
+
+**Pada-pāṭha** *(p. 185)*
+
+> अनुऽव्रताय । रन्धयन् । अपऽव्रतान् । आऽभूभिः । इन्द्रः । श्नथयन् । अनाऽभुवः ।
+> वृद्धस्य । चित् । वर्धतः । द्याम् । इनक्षतः । स्तवानः । वम्रः । वि । जघान । सम्ऽदिहः ॥ ९ ॥
+
+*anu-vratāya | randhayan | apa-vratān | ābhūbhiḥ | indraḥ | śnathayan | anābhuvaḥ |*
+*vṛddhasya | cit | vardhataḥ | dyām | inakṣataḥ | stavānaḥ | vamraḥ | vi | jaghāna | saṃ-dihaḥ || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 185–186)*
+
+> **य इन्द्रोऽनुव्रतायानुकूलकर्मणे यजमानायापव्रतानपगतकर्मणो यजमानान् रन्धयन् हिंसयन् स्वीकुर्वन्वा । तथाभूभिः आभिमुख्येन भवन्तीत्याभुवः स्तोतारः । तैरनाभुवस्तद्विपरीतान् श्नथयन् हिंसयन् वर्तते । वृद्धस्य चिद्वर्धतः पूर्वं वृद्धस्यापि पुनर्वर्धमानस्य द्यामिनक्षतः स्वर्गं व्याप्नुवतस्तस्येन्द्रस्य स्तवानः स्तुतिं कुर्वाणो वम्रः स्तुत्यृद्धिरणशील [?] एतत्संज्ञक ऋषिः संदिहः सम्यगुपचिता [?] वल्मीकवपा [print perhaps वसा, [?]] वि जघान । इन्द्रेण परिहृतान्तरायः सन् पृथिव्याः सारभूतं वल्मीकवपालक्षणं यज्ञसंभारमाहार्षीदित्यर्थः । तथा च शाखान्तरे समाम्नातम् । यद्वल्मीकवपासंभारो भवति ऊर्जमेव रसं पृथिव्या अवरुन्धे । तै. ब्रा. [?] इति ॥**
+
+*ya indro 'nuvratāyānukūlakarmaṇe yajamānāyāpavratān apagatakarmaṇo yajamānān randhayan hiṃsayan svīkurvan vā | tathā ābhūbhiḥ ābhimukhyena bhavantīty ābhuvaḥ stotāraḥ | tair anābhuvas tadviparītān śnathayan hiṃsayan vartate | vṛddhasya cid vardhataḥ pūrvaṃ vṛddhasyāpi punar vardhamānasya dyām inakṣataḥ svargaṃ vyāpnuvatas tasyendrasya stavānaḥ stutiṃ kurvāṇo vamraḥ stutyṛddhiraṇaśīla [?] etatsaṃjña ṛṣiḥ saṃdihaḥ samyag upacitā [?] valmīkavapā [print perhaps vasā, [?]] vi jaghāna | indreṇa parihṛtāntarāyaḥ san pṛthivyāḥ sārabhūtaṃ valmīkavapālakṣaṇaṃ yajñasaṃbhāram āhārṣīd ity arthaḥ | tathā ca śākhāntare samāmnātam | yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe | tai. brā. [?] iti ||*
+
+*(Reading notes: the line "*vamraḥ stutyṛddhiraṇaśīla*" and "*saṃdihaḥ samyag upacitā*" are crowded and doubtful, [?]; I read "*svargaṃ*" for the sky-going sense from the anuvāda; the Taittirīya Brāhmaṇa reference numeral is unreadable. The grammatical tail — on* anuvratāya*,* śnathayan*,* vardhataḥ*,* inakṣataḥ*,* stavānaḥ*,* jaghāna*,* saṃdihaḥ *— is characterized below.)*
+
+**Translation of the bhāṣya:** "That Indra who, for *anuvratāya*, the sacrificer who performs favourable rites, *randhayan*, harming — or bringing under his control — *apavratān*, the sacrificers who have turned away from the rites, and with the *ābhūbhiḥ*, those who stand facing him — the praisers — *śnathayan*, striking down *anābhuvaḥ*, the opposite kind — thus he abides. *Vṛddhasya cit vardhataḥ*, though grown earlier, growing again, *dyām inakṣataḥ*, pervading the sky, of that Indra *stavānaḥ*, offering praise, *vamraḥ*, the ṛṣi of that name (who is eager for the success of his praise [?]), *saṃdihaḥ*, the well-gathered (materials), the ant-hill *vapā*, [?] *vi jaghāna* — took away: freed by Indra from obstacles, he fetched the sacrificial material — described as the ant-hill fat, the very essence of the earth — is the sense. So it is declared in another śākhā: 'because there is a collection of ant-hill fat, he wins the very sap, the essence of the earth' (Tai. Brā., numeral [?])."
+
+**Pratipadārtha** *(p. 186)* — "**indraḥ** — Indra; **anuvratāya** — for the sacrificer who performs rites that are favourable; **apavratān** — those who have left the rites, the lapsed ones; **randhayan** — subduing and bringing them under his control, and; **ābhūbhiḥ** — with those who face (the deities) and praise; **anābhuvaḥ** — those who do not worship; **śnathayan** — he strikes down (and stays firm); **vṛddhasya cit vardhataḥ** — though grown earlier, again growing; **dyām inakṣataḥ** — who pervades all heaven; **stavānaḥ** — the praising; **vamraḥ** — the sage named Vamra; **saṃdihaḥ** — the sacrificial materials that are well-gathered; **vi jaghāna** — carried off."
+
+**Bhāvārtha** *(p. 186)* — "Indra, for the sake of the sacrificer who performs sacrificial rites, subduing and bringing under his own control the lapsed sacrificers who have left the rites, stands firm, striking down all those who do not worship, by means of the devotees who stand facing him and praise him. The sage named Vamra, who praises this Indra — who, though earlier grown, is again growing and pervades all heaven — carried off the well-gathered sacrificial materials for Indra."
+
+**English Translation (the source's own, p. 186)** — "Indra abides, humbling the neglecters of holy acts in favour of those who observe them, and punishing those who turn away from his worship in favour of those who are present with their praise ; Vamra, while praising him though old still growing, and spreading through heaven, carried off the accumulated (materials of the sacrifice)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 186–187**
+- **anuvratāya** — "This is an epithet of the sacrificer who performs *yāga* and the like according to the rule laid down in the śruti — by the derivation '*anukūlaṃ vrataṃ yasya saḥ*', 'one whose rite is favourable'."
+- **ābhūbhiḥ** — "*ābhimukhyena bhavantīti ābhuvaḥ stotāraḥ*: the praisers who, standing in front of the deities, recite praise."
+- **vṛddhasya cit** — "*vardhataḥ*: it makes clear the sense of Indra 'who, though already grown (even if of small strength), is growing again by other powers'."
+- **cit** — "The word *cit* is here used in the sense of 'again'."
+- **dyām inakṣataḥ** — "*dyām* — *inakṣataḥ*: one who moves, or abides, in the sky. In *inakṣataḥ*, formed from the root *nakṣ gatau*, the first-standing *i* is Vedic (*chāndasa*) and does not come within the grammatical rules; or one must say that there is a separate stem *inakṣati*, with the sense 'to go'."
+- **vamraḥ** — "The name of a sage who repeatedly wishes to recite praise of the deities. He praised Indra much, removed all the obstacles, and procured the sacrificial material called *valmīkavapā*, the essence of the earth. That *valmīkavapā* is the essence of the earth the śruti '*yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe*' (Tai. Brā. numeral as read [?]) is the proof."
+
+  > **यद्वल्मीकवपासंभारो भवति । ऊर्जमेव रसं पृथिव्या अवरुन्धे ।** *(Tai. Brā. numeral [?])*
+
+  *yad valmīkavapāsaṃbhāro bhavati | ūrjam eva rasaṃ pṛthivyā avarundhe |* — mine and tentative: "when there is a collection of ant-hill fat, he wins the very sap (*ūrj*), the essence, of the earth."
+
+**Vyākaraṇa-prakriyā** *(pp. 187–188 — grammar pages, noted briefly)*
+- **anuvratāya**: *anukūlaṃ vrataṃ yasya saḥ anuvrataḥ*, a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*; dative.
+- **śnathayan**: *śnatha hiṃsāyām*, *bhvādi*; *śatṛ* after *ṇic*; *vṛddhi* of the penultimate (*ata upadhāyāḥ*): *śnāthayat*; the root being in the *ghaṭādi* group within the *bhvādi*, it has the *mit* designation (*ghaṭādayo mitaḥ*), and so *mitāṃ hrasvaḥ* (Pā. 6-4-92 as read [?]) shortens it before *ṇic*; nominative singular, *num*, *sulopa*, *talopa*: *śnathayan*.
+- **vardhataḥ**: *vṛdhu vṛddhau*, *bhvādi*, *anudāttet*; by *vyatyayo bahulam* the *parasmaipada* suffix (*śatṛ*) appears in place of *śānac*; genitive singular *vardhataḥ*.
+- **inakṣataḥ**: *nakṣ gatau*; *śatṛ* in the present sense; a Vedic *i* comes as upapada [?]; genitive singular; or a separate root *inakṣati*, "to go", which is not in the Dhātupāṭha and has to be known from usage (*anuvāda*); the roots of *bhvādi* and *curādi* are *ākṛtigaṇa*, so such roots must be taken into them.
+- **stavānaḥ**: *ṣṭuñ stutau*, *adādi*; *sam ānac stuvaḥ* (Uṇ. 3-… as read [?]) — *ānac* after this root when *sam* is the upapada; by the word *bahulam*, *ānac* also comes without an upapada; with *ānac* alone the root takes *guṇa* and *avādeśa*; *stavāna*; initial-acute by *vyatyaya* instead of the suffix-accent.
+- **jaghāna**: *han hiṃsāgatyoḥ*, *adādi*, *liṭ* third singular, *ṇal*; reduplication, *halādiḥ śeṣaḥ*, *cutva*; *abhyāsāc ca* (Pā. 7-3-55) — the *h* of *han* after a reduplicative syllable becomes a *k*-class letter, *gha* by nearness: *jaghāna*.
+- **saṃdihaḥ**: *diha upacaye*, *adādi*; *kṛtyalyuṭo bahulam* (Pā. 3-3-113), by *bahulam* *kvip* in the object sense; *sarvalopa*; accusative plural *saṃdihaḥ*; *gatikārakopapadāt kṛt* gives the accent of the final member. **|| 9 ||**
+
+---
+
+### Rik 51.10 (pp. 188–, PDF 204–)
+
+**Saṃhitā-pāṭha** *(p. 188; accents printed, not reproduced)*
+
+> **तक्षद्यत्त उशना सहसा सहो वि रोदसी मज्मना बाधते शवः ।**
+> **आ त्वा वातस्य नृमणो मनोयुज आ पूर्यमाणमवहन्नभि श्रवः ॥ १० ॥**
+
+*takṣad yat ta uśanā sahasā saho vi rodasī majmanā bādhate śavaḥ |*
+*ā tvā vātasya nṛmaṇo manoyuja ā pūryamāṇam avahann abhi śravaḥ || 10 ||*
+
+**Pada-pāṭha** *(p. 188)*
+
+> तक्षत् । यत् । ते । उशना । सहसा । सहः । वि । रोदसी इति । मज्मना । बाधते । शवः ।
+> आ । त्वा । वातस्य । नृऽमनः । मनःऽयुजः । आ । पूर्यमाणम् । अवहन् । अभि । श्रवः ॥ १० ॥
+
+*takṣat | yat | te | uśanā | sahasā | sahaḥ | vi | rodasī iti | majmanā | bādhate | śavaḥ |*
+*ā | tvā | vātasya | nṛ-manaḥ | manaḥ-yujaḥ | ā | pūryamāṇam | avahan | abhi | śravaḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 189)*
+
+> **हे इन्द्र यद्यदोशना काव्यः सहसात्मीयेन बलेन ते सहस्त्वदीयं बलं तक्षत् तनूकृतवान् । सम्यक् तीक्ष्णमकार्षीदित्यर्थः । तदा शवस्त्वदीयं बलं मज्मना सर्वस्य शोधकेन स्वतैक्ष्ण्येन रोदसी द्यावापृथिव्यौ वि बाधते । ते बिभीत इत्यर्थः । तथा चान्यत्राम्नातम् । यस्य शुष्माद्रोदसी अभ्यसेताम् (ऋग्वे. २-१२-१ [?]) इति । यद्वा । रोदसी यस्माद्वृत्रादेर्बिभीतस्तं बाधत इत्यर्थः । हे नृमणः नृषु रक्षितव्येषु यजमानेष्वनुग्रहबुद्धियुक्तेन्द्र आ पूर्यमाणं पूर्वोक्तेन बलेनैका [?] समन्तात्पूर्यमाणं त्वा त्वां मनोयुजो मनोव्यापारमात्रेण युक्ता वातस्य वायोः संबन्धिनः तद्वेगेन गच्छन्त इत्यर्थः । एवंभूता अश्वाः श्रवोऽभि हविर्लक्षणमन्नमभिलक्ष्यावहन् । अभिमुख्येन प्राप्यन्तु [?] ॥**
+
+*he indra yad yadośanā kāvyaḥ sahasātmīyena balena te sahas tvadīyaṃ balaṃ takṣat tanūkṛtavān | samyak tīkṣṇam akārṣīd ity arthaḥ | tadā śavas tvadīyaṃ balaṃ majmanā sarvasya śodhakena svataikṣṇyena rodasī dyāvāpṛthivyau vi bādhate | te bibhīta ity arthaḥ | tathā cānyatrāmnātam | yasya śuṣmād rodasī abhyasetām (ṛgve. 2-12-1 [?]) iti | yadvā | rodasī yasmād vṛtrād er bibhītas taṃ bādhata ity arthaḥ | he nṛmaṇaḥ nṛṣu rakṣitaveṣu yajamāneṣv anugrahabuddhiyuktendra ā pūryamāṇaṃ pūrvoktena balenaikā [?] samantāt pūryamāṇaṃ tvā tvāṃ manoyujo manovyāpāramātreṇa yuktā vātasya vāyoḥ saṃbandhinaḥ tadvegena gacchanta ity arthaḥ | evaṃbhūtā aśvāḥ śravo 'bhi havirlakṣaṇam annam abhilakṣyāvahan | abhimukhyena prāpyantu [?] ||*
+
+*(Reading notes: "*pūrvoktena balenaikā*" is crowded, [?]; the final verb I read as an imperative from the Pratipadārtha's "may bring"; the Ṛgveda numeral in the quotation is as read, [?]. The grammatical tail —* takṣat*,* uśanā*,* majmanā*,* nṛmaṇaḥ*,* avahan *— is characterized: root* takṣū tvakṣū tanūkaraṇe*, a* laṅ *without the* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; the accent of the root retained after the* śap *is mute-*p*; *uśanā *from* vaś kāntau *with an Uṇādi* kanas *[Uṇ. as read, [?]] and* saṃprasāraṇa*, with the sūtras* kṣudhiśanaspṛudaṃśo… *[?] and* sarvanāmasthāne ca *(Pā. 6-4-8) for the lengthening, and a loss of the final* a *of the stem;* majmanā *from* masj *with an Uṇādi* manin*; *nṛmaṇaḥ *the* ṇatva *after the avagraha by* chandasy… *;* avahan *a* laṅ *in the prayer sense by* chandasi luṅlaṅliṭaḥ *[?].)*
+
+**Translation of the bhāṣya:** "O Indra, when Uśanas Kāvya, with his own strength, *takṣat*, made keen — *te sahaḥ*, your strength — made it well sharpened, then your *śavaḥ*, strength, with *majmanā*, with its keenness that purifies everything, *rodasī*, heaven and earth, *vi bādhate*, afflicts: they are afraid, is the sense; and so it is said elsewhere: 'from whose might heaven and earth tremble' (Ṛg. 2-12-1 [?]). Or: it afflicts that Vṛtra and the like of whom heaven and earth are afraid. O *nṛmaṇaḥ*, Indra, kindly-minded towards the sacrificers who are to be protected: you, *ā pūryamāṇam*, filled all round with the strength spoken of before, — *manoyujaḥ*, yoked by a mere act of thought, belonging to the Wind (*vātasya*), going with its speed — such horses *avahan*, may bring [you], *śravo 'bhi*, towards the oblation, the food."
+
+**Pratipadārtha** *(p. 189)* — "(O Indra) **yat** — when; **uśanā** — Uśanas; **sahasā** — by his strength; **te** — your; **sahaḥ** — strength; **takṣat** — made very keen; **śavaḥ** — your strength; **majmanā** — with the keenness that purifies all; **rodasī** — both heaven and earth; **vi bādhate** — frightens (or: afflicts also Vṛtra, who tears them apart); **nṛmaṇaḥ** — O Indra, who are kindly-minded to the (sacrificing) men; **ā pūryamāṇam** — filled, by such strength, fully; **tvā** — you; **manoyujaḥ** — those that attach themselves to the chariot by thought alone; **vātasya** — of the Wind (those that can run with speed — the horses); **śravaḥ abhi** — towards the food in the form of the oblation; **ā avahan** — may they bring (you) facing it."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.9 complete; Rik 51.10 written from the Saṃhitā through the Pratipadārtha (printed p. 189, PDF 205). Its Bhāvārtha (begins at the foot of p. 189), English translation, Special Topics and grammar (pp. 190–, PDF 206–) are NOT yet written.**
+
+**Next task:** continue at printed p. 189 foot / p. 190 (PDF 205–206) with "**Rik 51.10, continued**": Bhāvārtha, English, Special Topics, Vyākaraṇa notes; then Riks 11–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 reference numerals all [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]" crowded; 51.8 "karmaṇy anuṣṭhātṝn" "duṣṭānām" crowded; 51.9 "valmīkavapā/vasā", "stutyṛddhiraṇaśīla", "saṃdihaḥ samyag upacitā" crowded [?]; 51.10 "pūrvoktena balenaikā" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8) [sic].
