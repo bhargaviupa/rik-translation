@@ -3076,8 +3076,123 @@
 
 ---
 
+**Rik 51.4, continued** *(pp. 164–166, PDF 180–182)*
+
+**Sāyaṇa-bhāṣya** *(p. 164)*
+
+> **हे इन्द्र त्वमपामुदकानामपिधानानि आच्छादकान् मेघानपावृणोः । आसावरिष्टाः [?] । तथा पर्वते पर्वति पूरयितव्यप्रदेशयुक्ते स्वकीयनिवासस्थाने दानुमत् दानुमतो हिंसायुक्तस्य । यद्वा । दनुरसुरमाता तस्यैव दानुः । तद्वतः तादृशस्य वृत्रादेर्वसु धनमधारयः । शत्रोर्जित्वा तदीयं धनमुपहृत्य स्वगृहे न्यचिक्षिपः इत्यर्थः । यद्वा । दानुमदिति वसुविशेषणम् । शोभनदानयुक्तमित्यर्थः । हे इन्द्र त्वं यद्यदा शवसा बलेन वृत्रं त्रयाणां लोकानामावरीतारम् । तथा च शाखान्तरे समाम्नातम् । यदिमान् लोकानवृणोत् तद्वृत्रस्य वृत्रत्वम् (तै. सं. [?]) इति । अहिमा समन्ताद्धन्तारम् । तथा च वाजसनेयिनः समामनन्ति । सोऽग्नीषोमावभिसंबभूव सर्वां विद्यां सर्वं यशः सर्वमन्नाद्यं सर्वां श्रियं स यत्सर्वमेतत्समभवत्तस्मादहिरिति । एवंभूतमसुरमवधीर्वधं प्रापितः । आदित् अनन्तरमेव दिवि द्युलोके दृशे द्रष्टुं सूर्यमारोहयः । वृत्रेणावृतं सूर्यं तस्माद्वृत्रादमूमुचः इत्यर्थः ।**
+
+*he indra tvam apām udakānām apidhānāni ācchādakān meghān apāvṛṇoḥ | āsāvariṣṭāḥ [?] | tathā parvate parvati pūrayitavyapradeśayukte svakīyanivāsasthāne dānumat dānumato hiṃsāyuktasya | yadvā | danur asuramātā tasyaiva dānuḥ | tadvataḥ tādṛśasya vṛtrāder vasu dhanam adhārayaḥ | śatror jitvā tadīyaṃ dhanam upahṛtya svagṛhe nyacikṣipaḥ ity arthaḥ | yadvā | dānumad iti vasuviśeṣaṇam | śobhanadānayuktam ity arthaḥ | he indra tvaṃ yad yadā śavasā balena vṛtraṃ trayāṇāṃ lokānām āvarītāram | tathā ca śākhāntare samāmnātam | yad imān lokān avṛṇot tad vṛtrasya vṛtratvam (tai. saṃ. [?]) iti | ahim ā samantād dhantāram | tathā ca vājasaneyinaḥ samāmananti | so 'gnīṣomāv abhisaṃbabhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvam annādyaṃ sarvāṃ śriyaṃ sa yat sarvam etat samabhavat tasmād ahir iti | evaṃbhūtam asuram avadhīr vadhaṃ prāpitaḥ [?] | ād it anantaram eva divi dyuloke dṛśe draṣṭuṃ sūryam ārohayaḥ | vṛtreṇāvṛtaṃ sūryaṃ tasmād vṛtrād amūmucaḥ ity arthaḥ |*
+
+*(Reading notes: the word printed* āsāvariṣṭāḥ *after* apāvṛṇoḥ *I cannot resolve — the line is crowded — and leave it [?]; "dānuḥ … danur asuramātā" and "avadhīr vadhaṃ prāpitaḥ" are as read, doubtful; the Taittirīya numeral is unclear. The tail of the bhāṣya, on* apām *[the accent by* ūḍidam*],* apidhānā*,* adhārayaḥ*,* parvate*,* dānumat*, is characterized in the grammar notes below.)*
+
+**Translation of the bhāṣya:** "O Indra, you uncovered the *apidhānāni* of the waters — the clouds that covered them. And *parvate*, in the mountain, i.e. in the place of his own dwelling, full of regions that need filling (*parvan*); *dānumat*, of the violent one (*dānumat*); or: *danu* is the mother of the Asuras, *dānu* is her very son, one who belongs to her — of such a Vṛtra and the like you held (*adhārayaḥ*) the wealth: having conquered the enemy you took his wealth and placed it in your own house, is the sense. Or: *dānumat* is an epithet of *vasu*: 'wealth that is full of good giving'. O Indra, *yat*, when, by your strength, you killed Vṛtra, the encompasser of the three worlds — and so it is handed down in another śākhā: 'because he enclosed (*avṛṇot*) these worlds, that is Vṛtra's vṛtra-ness' (Tai. Saṃ. [?]); *ahim*, the one who strikes on all sides, for so the Vājasaneyins teach: 'He (the Asura) overcame Agni and Soma, and took all knowledge, all fame, all food, all fortune; because he took in all this, he is *ahi*' — such an Asura you slew. *Ād it*, immediately afterwards, *divi*, in the sky, *dṛśe*, to be seen, you made the sun rise: the sun was covered by Vṛtra, and you released it from him, is the sense."
+
+**Pratipadārtha** *(p. 164)* — "**indra** — O Indra; **tvam** — you; **apām** — of the waters; **apidhānā** — the covering ones, the veils; **apa āvṛṇoḥ** — you have released (and caused the rain); **parvate** — in the mountain region (your dwelling-place); **dānumat** — of the violent one, or of Vṛtra the Asura together with Dānu; **vasu** — the wealth [or: *dānumat vasu*, the excellent, giving-rich wealth]; **adhārayaḥ** — you have laid up (collected); **yat** — when; **śavasā** — by strength; **ahim** — the all-round destroyer, and; **vṛtram** — Vṛtra the Asura who covered the three worlds; **avadhīḥ** — you killed; **āt it** — at once; **divi** — in the sky; **dṛśe** — for the sight (of all); **sūryam** — the sun (covered by Vṛtra); **ārohayaḥ** — you released and made to shine."
+
+**Bhāvārtha** *(pp. 164–165)* — "O Indra, you filled the waters and released the clouds that covered them, and made it rain. Having conquered the harmful Rākṣasa, you put all his wealth in the mountain regions that are your dwelling. When, by your strength, you killed the Asura Vṛtra who covered the three worlds, at once you released the sun from his grip and made him visible to all three worlds."
+
+**English Translation (the source's own, p. 165)** — "You have opened the receptacle of the waters ; you have detained in the mountain the treasure of the malignant; when you had slain Vritra, the destroyer, you made the sun visible in the sky."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 165**
+- **parvate** — "*parvati pūrayitavyapradeśayukte svakīyanivāsasthāne*; *parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā* (Ni. 1-20 as read [?])": Yāska explains the word *parvata* as "what is filled with stones, peaks and the like"; by adding "*prīṇāter vā*" he shows we need not take it as only 'filled with rocks' — it can also mean 'the thing that pleases the gods with stone and other things'."
+
+  > **पर्व पुनः पृणातेः प्रीणातेर्वा ।** *(Ni. 1-20 as read [?])*
+
+  *parva punaḥ pṛṇāteḥ prīṇāter vā |* — mine and tentative: "and *parvan* [a joint, a hill-ridge] (is) from *pṛ* 'to fill' or from *prī* 'to please'."
+- **ahim** — "*ā samantād dhantāram*: the complete destroyer of everything. This is explained in the Vājasaneyi śruti, '*so 'gnīṣomāv abhisaṃbabhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvam annādyaṃ sarvāṃ śriyaṃ sa yat sarvam etat samabhavat tasmād ahiḥ*' — he, having conquered the deities Agni and Soma, took away all their knowledge, fame, food and the like, and prosperity; hence the Rākṣasa."
+- **vṛtram** — "*trayāṇāṃ lokānām āvarītāram*: he who pervades (covers) the three worlds. The śruti '*yad imān lokān avṛṇot tad vṛtrasya vṛtratvam*' (Tai. Saṃ. numeral as read [?]) supports this."
+
+**Vyākaraṇa-prakriyā** *(pp. 165–166 — grammar pages, noted briefly)*
+- **apām**: *ap*, genitive plural *apām*; the vibhakti-accent by *ūḍidaṃ padādy…* (Pā. 6-1-171 as read [?]) overrides the *anudātta*.
+- **apidhānā**: *apidhīyate ācchādyate ebhir iti apidhānāni*; *lyuṭ* in the instrument sense on *dhāñ*; *yu* → *ana* by *yuvor anākau*; accusative plural *śas*, *pūrvasavarṇadīrgha* by *supāṃ sulug…*; the accent on the preceding vowel by *lity…*; the single-substitute (*ekādeśa udāttenodāttaḥ*, Pā. 8-2-5) and the accent of the final member by *gatikārakopapadāt kṛt*.
+- **adhārayaḥ**: *dhṛñ avasthāne*, *tudādi* with *ṇic*, *laṅ* second person singular; *āpādādau* forbids the *nighāta*; the *āṭ*-augment is acute: initial-acute word.
+- **parvate**: *parvān parvataḥ* — suffix *tap* by *tap parvamarudbhyām* (vārttika, as read [?]) in the sense "having"; Yāska's derivation (above).
+- **dānumat**: *do avakhaṇḍane* or *dāṇ dāne*; *dābhābhyāṃ nuḥ* (Uṇ. 3-… as read [?]) gives *nu*; *matup* by *tad asyāsty asmin*; for the genitive singular *ṅas* the *sulug* … *dānumat*; *matup* has a mute *p*, so the word is *anudātta*-ending.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.3 complete; Rik 51.4's Saṃhitā and Pada (printed p. 163, PDF 179) written; its bhāṣya begins on p. 164 (PDF 180).**
+### Rik 51.5 (pp. 166–171, PDF 182–187)
 
-**Next task:** continue at printed p. 164 (PDF 180) with the bhāṣya of Rik 51.4, then Riks 5–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable (sense from the anuvāda); 51.2 Pada join "avanvan su-abhiṣṭim" doubtful; 51.3 Vimada references and Uṇādi/Pāṇini numerals [?]; source's English in 51.2 has "vaice" and "Marnts" [sic].
+**Saṃhitā-pāṭha** *(p. 166; accents printed, not reproduced)*
+
+> **त्वं मायाभिरप मायिनोऽधमः स्वधाभिर्ये अधि शुप्तावजुह्वत ।**
+> **त्वं पिप्रोर्नृमणः प्रारुजः पुरः प्र ऋजिश्वानं दस्युहत्येष्वाविथ ॥ ५ ॥**
+
+*tvaṃ māyābhir apa māyino 'dhamaḥ svadhābhir ye adhi śuptāv ajuhvata |*
+*tvaṃ piprornṛmaṇaḥ prārujaḥ puraḥ pra ṛjiśvānaṃ dasyuhatyeṣv āvitha || 5 ||*
+
+**Pada-pāṭha** *(p. 167)*
+
+> त्वम् । मायाभिः । अप । मायिनः । अधमः । स्वधाभिः । ये । अधि । शुप्तौ । अजुह्वत ।
+> त्वम् । पिप्रोः । नृऽमनः । प्र । अरुजः । पुरः । प्र । ऋजिश्वानम् । दस्युऽहत्येषु । आविथ ॥ ५ ॥
+
+*tvam | māyābhiḥ | apa | māyinaḥ | adhamaḥ | svadhābhiḥ | ye | adhi | śuptau | ajuhvata |*
+*tvam | pipro | nṛ-manaḥ | pra | arujaḥ | puraḥ | pra | ṛjiśvānam | dasyu-hatyeṣu | āvitha || 5 ||*
+
+*(The Pada prints "ನೃಮನಃ" for the Saṃhitā's "nṛmaṇaḥ" — the cerebral* ṇ *comes by the avagraha rule cited on p. 170; I give the Pada as printed.)*
+
+**Sāyaṇa-bhāṣya** *(pp. 167–168)*
+
+> **हे इन्द्र त्वं मायाभिर्जयोपायज्ञानैः । माया इति ज्ञाननाम । शची माया इति तन्नामसु पाठात् । यद्वा मायाभिर्लोकप्रसिद्धैः कपटैः । मायिन उक्तलक्षणमायोपेतान् स्वत्रादीनसुरानपाधमः [?] । अधमः (धमतिर्गतिकर्मेति यास्कः । नि. [?]) जितवानसि । ये ऽसुराः स्वधाभिर्निर्वृष्टैरन्नैः [?] शुप्तावधि शोभमाने स्वकीये मुख एवाजुह्वत आहौषुः नाग्नौ । तानसुरानिति पूर्वेण संबन्धः । तथा च कौषीतकिभिराम्नायते । असुरा वा आत्मन्नेव जुहुवुः …ते पराभवन् इति [?] । वाजसनेयिभिरप्यास्नातम् । देवाश्च ह वा असुराश्चास्पर्धन्त ततो हासुरा अभिमानेन कस्मै च न जुहुम इति स्वेस्वेवास्येषु जुह्वतश्चेरुस्ते पराबभूवुरिति । तथा हे नृमणः नृषु यजमानेषु रक्षितव्येष्वनुग्रहबुद्धियुक्त त्वं पिप्रोः पूरयितुरेतन्नाम्नोऽसुरस्य पुरः पुराणि निवासस्थानानि प्रारुजः प्राभांक्षीः । एवं कृत्वा तेनासुरेणोपद्रुतमृजिश्वानमृजुगमनमेतत्संज्ञकं स्तोतारं दस्युहत्येषु दस्यूनामुपक्षपयितॄणां हननेन युक्तेषु संग्रामेषु । यद्वा । दस्यूनां हननेन निमित्तभूतेषु । प्राविथ प्रकर्षेण ररक्षिथ ।**
+
+*he indra tvaṃ māyābhir jayopāyajñānaiḥ | māyā iti jñānanāma | śacī māyā iti tannāmasu pāṭhāt | yadvā māyābhir lokaprasiddhaiḥ kapaṭaiḥ | māyina uktalakṣaṇamāyopetān svatrādīn asurān apādhamaḥ [?] | adhamaḥ (dhamatir gatikarmeti yāskaḥ | ni. [?]) jitavān asi | ye 'surāḥ svadhābhir nirvṛṣṭair annaiḥ [?] śuptāv adhi śobhamāne svakīye mukha evājuhvata āhauṣuḥ nāgnau | tān asurān iti pūrveṇa saṃbandhaḥ | tathā ca kauṣītakibhir āmnāyate | asurā vā ātmann eva juhuvuḥ … te parābhavan iti [?] | vājasaneyibhir apy āsnātam | devāś ca ha vā asurāś cāspardhanta tato hāsurā abhimānena kasmai ca na juhuma iti sveṣv evāsyeṣu juhvataś cerus te parābabhūvur iti | tathā he nṛmaṇaḥ nṛṣu yajamāneṣu rakṣitavyeṣv anugrahabuddhiyukta tvaṃ piproḥ pūrayitur etannāmno 'surasya puraḥ purāṇi nivāsasthānāni prārujaḥ prābhāṅkṣīḥ | evaṃ kṛtvā tenāsureṇopadrutam ṛjiśvānam ṛjugamanam etatsaṃjñakaṃ stotāraṃ dasyuhatyeṣu dasyūnām upakṣapayitṝṇāṃ hananena yukteṣu saṃgrāmeṣu | yadvā | dasyūnāṃ hananena nimittabhūteṣu | prāvitha prakarṣeṇa rarakṣitha |*
+
+*(Readings doubtful, [?]:* apādhamaḥ*, the clause "*svadhābhir nirvṛṣṭair*" (the print seems to have* nirvṛṣṭair*), and the Kauṣītaki quotation, where the print reads "asurā vā ātmann eva juhuvur udgātre 'gnau te parābhavann iti" — I could not settle the middle. The bhāṣya's tail — on* māyinaḥ*,* śuptau*,* ajuhvata*,* piproḥ*,* nṛmaṇaḥ*,* arujaḥ*,* ṛjiśvānam*,* dasyuhatyeṣu*,* āvitha*, with sūtras such as* hanas ta ca *— is characterized below.)*
+
+**Translation of the bhāṣya:** "O Indra, with *māyābhiḥ* — with the knowledges that are means to victory (*māyā* is a name for knowledge: "*śacī māyā*" is read among the names; or with the well-known deceits) — *māyinaḥ*, the Asuras possessing such craft, you *apādhamaḥ* [?], conquered (*dhamati* is a verb of motion, says Yāska). Those Asuras who, *svadhābhiḥ*, with the foods (the offerings), *adhi śuptau*, in their own shining mouths — *ajuhvata*, offered: they offered in their mouths, not in the fire. So the Kauṣītakins teach, and so the Vājasaneyins have it: 'The gods and the Asuras competed; then the Asuras, out of pride, saying "we will offer to no one", went about offering into their own mouths, and were defeated.' And, O *nṛmaṇaḥ*, you who are full of kindly mind towards the men, the sacrificers who must be protected, you broke the *puraḥ*, the cities, the dwellings, of the Asura named *Pipru* — the 'filler'. Having done so, *ṛjiśvānam*, the praiser of that name ('going straight'), who had been harassed by that Asura, *dasyuhatyeṣu*, in battles that attend the killing of the Dasyus (destroyers) — or: that have the killing of Dasyus as their cause — *prāvitha*, you fully protected."
+
+**Pratipadārtha** *(p. 168)* — "(O Indra) **tvam** — you; **māyābhiḥ** — by knowledges (means of victory) or by tricks; **ye** — which Rākṣasas; **svadhābhiḥ** — with oblations in the form of food; **śuptau adhi** — in their own shining mouths; **ajuhvata** — offered; **māyinaḥ** — those deceitful Rākṣasas; **apa adhamaḥ** — you trampled down and conquered; **nṛmaṇaḥ** — you who are kindly-minded to men; **tvam** — you; **piproḥ** — of the Rākṣasa named Pipru; **puraḥ** — the cities; **pra arujaḥ** — broke; **ṛjiśvānam** — the devotee Ṛjiśvan (harassed by that Rākṣasa); **dasyuhatyeṣu** — in battles fought to destroy the thieving Rākṣasas; **pra āvitha** — protected completely."
+
+**Bhāvārtha** *(p. 168)* — "O Indra, you conquered, by means of victory-giving devices, the deceitful Rākṣasas who, without pouring the oblations into the fire, put them in their own mouths. O Indra, kindly to men, you destroyed the cities of the Rākṣasa Pipru. In the battles fought to destroy the thieving Rākṣasas you wholly protected the devotee Ṛjiśvan."
+
+**English Translation (the source's own, p. 168)** — "O Indra, by your devices you have humbled the deceivers who presented oblations to their own mouths; propitions [sic: "propitious"] to men, you have destroyed the cities of Pipru and have well defended Rijiswan [as read] in robber-destroying contests." *(The print has "Iudra"? — the first word reads "O Indra" in the print.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 168–169**
+- **pipro** — "Pipru is a Rākṣasa, an enemy of Indra. In order to protect one called Ṛjiśvan, Indra overcame this man; in many Riks of the Ṛgveda — namely Ṛ. Saṃ. 1-101-2 [?]; 4-16-13 [?]; 5-29-11 [?]; 6-20-7 [?]; 8-64-10 [?]; 10-99-11 [?]; 10-138-3 [?] … (the list as printed in small numerals; all [?]) — the matter of the cities of this Pipru is mentioned. In Ṛ. Saṃ. 8-… [?] and 10-138-3 [?] he is called *dāsa* and *asura*. From Ṛ. Saṃ. 1-101-1 [?] and 4-16-13 [?] the impression arises that he had some connection with the Kṛṣṇa (dark) people, the former inhabitants of this land."
+- **māyobhiḥ** [sic: *māyābhiḥ*] — "Here the word *māyā* means 'a means of gaining victory'. Generally the word *māyā* is known in the sense of deceit; yet in the Nirukta sūtra '*śacī māyā*' (Ni. 3-9 as read [?]) the word *māyā* is stated in the sense of knowledge."
+- **māyinaḥ** — "The word *māyā* here denotes the worldly well-known deceit. *Māyinaḥ* means Vṛtra and the others, who are adept in the means of deceit."
+- **adhamaḥ** — "*dhamatir gatikarmā* (Ni. 6-… as read [?]): Yāska; since the root *dham* is said to mean 'to go', this is the imperative second singular, 'you conquer'."
+- **adhi śuptau ajuhvata** — "Here it is said that the Rākṣasas put the offerings into their own mouths, without offering them in the fire. The same sense is in the Kauṣītaki śruti '*asurā vā ātmann eva juhuvur udgātre 'gnau te parābhavann*' [?], and the Vājasaneyi śruti '*devāś ca ha vā asurāś cāspardhanta tato hāsurā abhimānena kasmai ca na juhumaḥ iti sveṣv evāsyeṣu juhvataś cerus te parābabhūvuḥ*': when the gods and the Asuras competed, the Asuras, from pride, saying 'we will not offer to anyone', put the oblations into their own mouths and were therefore conquered."
+
+  > **देवाश्च ह वा असुराश्चास्पर्धन्त । ततो हासुरा अभिमानेन कस्मै च न जुहुम इति स्वेष्वेवास्येषु जुह्वतश्चेरुस्ते पराबभूवुः ।** *(Vājasaneyi, as quoted in the bhāṣya)*
+
+  *devāś ca ha vā asurāś cāspardhanta | tato hāsurā abhimānena kasmai ca na juhuma iti sveṣv evāsyeṣu juhvataś cerus te parābabhūvuḥ |* — mine and tentative: "The gods and the Asuras competed. Then the Asuras, from pride, 'we will offer to nobody', went about offering into their own mouths, and were defeated."
+- **nṛmaṇaḥ** — "*nṛṣu mano yasya saḥ nṛmaṇaḥ*: when so analysed, it means 'one who protects men with an attentive mind'. But here 'men' means the sacrificers who have been consecrated in the sacrificial act; and he is explained as the protector of those."
+- **dasyuhatyeṣu** — "The word may also mean 'in the battles that kill the robbers who steal the means of sacrifice'. Or, from the above (*dasyūnāṃ hananena nimittabhūteṣu*), one may suppose the sense 'occasioned by the killing of the Dasyus'. In both senses the word is suitable here."
+- **ṛjiśvānam** — "The name of Ṛjiśvan is found in the Ṛgveda, in Ṛ. Saṃ. 1-53-8 [?]; 1-101-1 [?]; 4-… [?]; 6-20-7 [?]; 8-64-10 [?]; 10-99-11 [?]; 10-138-3 [?] and others; but nothing more is known of him. While Indra was fighting with Pipru, this man's helping Indra is indicated. Among Western scholars, Ludwig, the German, on the basis of Ṛ. Saṃ. 10-99-11 [?] has expressed the opinion that this Ṛjiśvan was a son of Uśij. In Ṛ. Saṃ. 4-16-13 [?]; 6-20-11 [?] he is clearly called Vaidathina, son of Vidathin." *(All numerals here are small Kannada digits, uncertain; I have not attempted to reconcile the two lists.)*
+
+**Vyākaraṇa-prakriyā** *(pp. 169–171 — grammar pages, noted briefly)*
+- **māyinaḥ**: *māyā asyāsti iti māyī*; *vrīhyādibhyaś ca* (Pā. 5-2-116 as read [?]) gives *ini* also after these (and *māyā* is read in the list); accusative plural *māyinaḥ*.
+- **śuptau**: *śubha dīptau*, *bhvādi*, *ktin* in the sense of *karman*; *iṭ* forbidden by *titutratatheṣu…*; by *jhaṣas tathor dho 'dhaḥ* (Pā. 8-2-40 as read [?]) *ti*'s *t* would become *dh* but this does not come in the Veda by *vyatyayo bahulam*; *khari ca* (Pā. 8-4-55) replaces *bh* by *p*; *śupti*, a stem in *i*; locative singular *śuptau*.
+- **ajuhvata**: *hu dānādanayoḥ*, *juhotyādi*; *parasmaipadin*, but the *ātmanepada* endings by *vyatyaya*; *laṅ* 3rd plural *jhi* → *jh*; *ślu* reduplication; *kuhoś cuḥ* (Pā. 7-4-62 as read [?]) gives *j*; *adabhyastāt* (Pā. 7-1-4) *at* for *jh*; *huśnuvoḥ sārvadhātuke* (Pā. 6-4-87 as read [?]) gives *yaṇ* (*v*); *aṭ* augment: *ajuhvata*.
+- **piproḥ**: *pyā pālanapūraṇayoḥ*, suffix *ku* by *pyābhidivyadhigṛdhṛṣibhyaḥ* (Uṇ. 1-… as read [?]); *udoṣṭhyapūrvasya* (Pā. 7-1-102) is not applied in the Veda (*bahulaṃ chandasi*); reduplication; *urat*; *halādiḥ śeṣaḥ*; *arti-pipartyoś ca* (Pā. 7-4-77 as read [?]) not applying for want of *śap*, but *bahulaṃ chandasi* (Pā. 7-4-78) the *i*; *ṛ* → *yaṇ*: *pipru*; genitive singular.
+- **nṛmaṇaḥ**: *nṛṣu mano yasya saḥ*; *chandasy…* (*avagraha* rule, Pā. 8-4-26 as read [?]): *na* → *ṇa* after the avagraha-*y*…; *nṛmaṇaḥ*.
+- **arujaḥ**: *rujo bhaṅge*, *tudādi*, *laṅ*, second singular *sip*; *śa*; *sārvadhātukam apit*; *kṅiti ca* forbids *laghūpadhaguṇa*; the *i* of *sip* elided by *iteś ca*; *aṭ*.
+- **ṛjiśvānam**: *ṛju aśnute prāpnotīti ṛjiśvā*; *aśū vyāptau*, *svādi*; irregular formation by *pṛṣodarādīni yathopadiṣṭam* (Pā. 6-3-109): *u* of *ṛju* lost and *i* for the *a* of *aś*; accusative singular.
+- **dasyuhatyeṣu**: *dasyūnāṃ hatyā yeṣu*; the battle is meant by the other-member sense; *hana* with *kyap* by *hanas ta ca* (Pā. 3-1-108 as read [?]); *parādiś chandasi bahulam* (Pā. 6-2-199 as read [?]) gives the initial-acute; with a tatpuruṣa, the accent of the final member by *gatikārakopapadāt kṛt*.
+- **āvitha**: *ava rakṣaṇe*, *bhvādi*, *liṭ* second singular; reduplication, *halādiḥ śeṣaḥ*, lengthening, *iṭ*: *āvitha*. **|| 5 ||**
+
+---
+
+### Rik 51.6 (pp. 171–, PDF 187–)
+
+**Saṃhitā-pāṭha** *(p. 171; accents printed, not reproduced)*
+
+> **त्वं कुत्सं शुष्णहत्येष्वाविथारन्धयोऽतिथिग्वाय शम्बरम् ।**
+> **महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ॥ ६ ॥**
+
+*tvaṃ kutsaṃ śuṣṇahatyeṣv āvithārandhayo 'tithigvāya śambaram |*
+*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe || 6 ||*
+
+*(The Pada is on p. 172 and is given with the next batch.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.5 complete; Rik 51.6's Saṃhitā written (printed p. 171, PDF 187); its Pada is on p. 172 (PDF 188).**
+
+**Next task:** continue at printed p. 172 (PDF 188) with the Pada of Rik 51.6 and its bhāṣya, then Riks 7–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 Vimada references and Uṇādi/Pāṇini numerals [?]; 51.4 "āsāvariṣṭāḥ" unresolved [?]; 51.5 Kauṣītaki quotation and all Ṛgveda numerals in the Pipru/Ṛjiśvan notes [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5) [sic].
