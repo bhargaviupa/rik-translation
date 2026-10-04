@@ -1957,10 +1957,60 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 ---
 
+### Rik 35.1 — Vyākaraṇa-prakriyā, continued and concluded (p. 135, PDF 149; grammar page, noted briefly)
+
+- **rātrīm** (concluded): in the Veda *ṅīp* comes after the word *rātri* even where the case is not *jas* [or *as*] — that *ṅīp* is itself *anudātta*; *rātri + ī*, the *i* of *rātri* is lost by *yasyeti ca* — यस्येति च — (Pā. 6-4-148), so *rātrī* is first-syllable acute; then *am*, with *ami pūrvaḥ* — अमि पूर्वः — (Pā. 6-1-107) giving *pūrvarūpa*; the single substitute standing in place of an unaccented vowel and an acute one takes the accent of the nearer, and by *udāttād anudāttasya svaritaḥ* — उदात्ताद् अनुदात्तस्य स्वरितः — (Pā. 8-4-66, as read [?]) the *ī* is *svarita*.
+- **niveśanīm**: *niviśante 'syām* — "in which they settle"; *karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — (Pā. 3-3-117, as read): *lyuṭ* after a root in the sense of instrument or locus — here locus (*adhikaraṇa* = support); root *viśa praveśane* with *ni*; *viś + yu*; *yuvor anākau* — युवोरनाकौ — (Pā. 7-1-1) gives *ana* for *yu*; *laghūpadha-guṇa*; *ni* + *veśana*; *lyuṭ* is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasajdaghnañmātrac…* — टिड्ढाणञ्द्वयसज्दघ्नञ्मात्रच्तयप्ठक्ठञ्कञ्क्वरपः — (Pā. 4-1-15, as read): after a base ending in *a* that has at its end any of the *ṭit*-suffixes etc. which is not subordinate, *ṅīp* appears when the feminine is meant; *niveśan + ī*, loss of *a*.
+- **ūtaye**: root *ava rakṣaṇe*, *ktin*; *jvaratvarasrivyavimavāmupadhāyāś ca* — ज्वरत्वरस्रिव्यविमवामुपधायाश्च — (Pā. 6-4-20) gives *ūṭh* for the *v* and the penultimate; *ūtiyūtijūti…* — ऊतियूतिजूति… — (Pā. 3-3-97, as read) makes *ktin* acute. The print then discusses *ekaḥ pūrvaparayoḥ* — एकः पूर्वपरयोः — (Pā. 6-1-84) with the vārtika "*vyākaraṇe 'pi hy anyatra dvayoḥ sthāninor eka ādeśaḥ*" and the Mahābhāṣya on *jvaratvara…* ("here, in the *jvaratvara* sūtra, one substitute stands in place of two substituends"), and the other view in the Bhāṣya ("*iha tāvat jvaratvarasrivyavimavām upadhāyāś ceti | syāt tv ādyudātte nāsti doṣaḥ | savarṇadīrghatvena siddham*" as I read it, and so unsure of its exact words [?]) that there are two substitutes for the two substituends, made good by *savarṇadīrgha*. Rik 1 ends here (*|| 1 ||*).
+
+### Rik 35.2 (pp. 135–, PDF 149–)
+
+**Saṃhitā-pāṭha** *(p. 135; accents not reproduced)*
+
+> **आ कृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च ।**
+> **हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ॥ २ ॥**
+
+*ā kṛṣṇena rajasā vartamāno niveśayann amṛtaṃ martyaṃ ca |*
+*hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan || 2 ||*
+
+**Pada-pāṭha** *(p. 136)*
+
+> आ । कृष्णेन । रजसा । वर्तमानः । निऽवेशयन् । अमृतम् । मर्त्यम् । च ॥
+> हिरण्ययेन । सविता । रथेन । आ । देवः । याति । भुवनानि । पश्यन् ॥ २ ॥
+
+*ā | kṛṣṇena | rajasā | vartamānaḥ | ni-veśayan | amṛtam | martyam | ca ||*
+*hiraṇyayena | savitā | rathena | ā | devaḥ | yāti | bhuvanāni | paśyan || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 136; the first half in full, the grammatical tail characterized)*
+
+> सविता सूर्यः कृष्णेन रजसा कृष्णवर्णेन लोकेन । कृष्णं कृष्यतेर्निकृष्टो वर्णः । नि. २-२० [?] । इति यास्कः । लोका रजांस्युच्यन्ते । नि. ४-१९ [?] । इति च । अन्तरिक्षलोको हि सूर्यगमनात्पुरा कृष्णवर्णो भवति । तेनान्तरिक्षमार्गेण वर्तमानः पुनःपुनरागच्छन् अमृतं देवं मर्त्यं मनुष्यं च निवेशयन् स्वस्वस्थाने ऽवस्थापयन् । यद्वा । अमृतं मरणरहितं प्राणं मरणसहितं शरीरं च निवेशयन् । तथा चारण्यककाण्डे अमर्त्यो मर्त्येना सयोनिरित्येतस्य मन्त्रभागस्य व्याख्यानरूपे ब्राह्मणे यथोक्तोऽर्थोऽवगम्यते । मर्त्यानि हीमानि शरीराण्यमृतैषा देवता । ऐ. आ. २-१-८ [?] । इति । यथोक्तगुणोपेतः सविता देवो भुवनानि सर्वान्लोकान्पश्यन् अवेक्षमाणः प्रकाशयन्नित्यर्थः । हिरण्ययेन सुवर्णनिर्मितेन रथेना याति । अस्मत्समीपमागच्छति ॥
+
+*savitā sūryaḥ kṛṣṇena rajasā kṛṣṇavarṇena lokena | kṛṣṇaṃ kṛṣyater nikṛṣṭo varṇaḥ | ni. 2-20 [?] | iti yāskaḥ | lokā rajāṃsy ucyante | ni. 4-19 [?] | iti ca | antarikṣaloko hi sūryagamanāt purā kṛṣṇavarṇo bhavati | tenāntarikṣamārgeṇa vartamānaḥ punaḥ punar āgacchan amṛtaṃ devaṃ martyaṃ manuṣyaṃ ca niveśayan svasvasthāne 'vasthāpayan | yadvā | amṛtaṃ maraṇarahitaṃ prāṇaṃ maraṇasahitaṃ śarīraṃ ca niveśayan | tathā cāraṇyakakāṇḍe amartyo martyenā sayonir ity etasya mantrabhāgasya vyākhyānarūpe brāhmaṇe yathokto 'rtho 'vagamyate | martyāni hīmāni śarīrāṇy amṛtaiṣā devatā | ai. ā. 2-1-8 [?] | iti | yathoktaguṇopetaḥ savitā devo bhuvanāni sarvān lokān paśyan avekṣamāṇaḥ prakāśayann ity arthaḥ | hiraṇyayena suvarṇanirmitena rathenā yāti | asmatsamīpam āgacchati ||*
+
+**Translation:** "Savitṛ — Sūrya — *kṛṣṇena rajasā*, by the dark-coloured world: '*kṛṣṇa*, from the root *kṛṣ*, is a base [lowly] colour' (Ni. 2-20 [?]), so Yāska; and 'the worlds are called *rajāṃsi*' (Ni. 4-19 [?]). For the mid-region, before the sun's going, is dark in colour. Moving through that path of the mid-region, coming again and again, *niveśayan* — establishing, each in its own place — *amṛtam*, the immortal god, and *martyam*, the mortal man. Or: establishing the deathless vital breath and the mortal body. And so in the Brāhmaṇa that explains the mantra portion '*amartyo martyenā sayoniḥ*' in the Āraṇyaka section the meaning as stated is understood: 'These bodies are mortal; this deity is immortal' (Ai. Ā. 2-1-8 [?]). Savitṛ the god, endowed with the stated qualities, *bhuvanāni paśyan* — looking on, regarding all the worlds, i.e. illuminating them — *hiraṇyayena*, with a chariot made of gold, *ā yāti* — comes to our neighbourhood."
+
+**Grammar within the bhāṣya** *(p. 136, characterized)*: *amṛtam* (*mṛtaṃ maraṇaṃ nāsty asya*, a *bahuvrīhi* with *nañ*: *jaramaramitramṛtāḥ* — the later member [*mṛta*] takes the first-syllable acute); *martyam* (*marte bhavam*; *bhave chandasi* — *yat*; *yato 'nāvaḥ* — first syllable acute); *hiraṇyayena* (*mayaṭ*, with loss of the *m* by *nipātana*, under *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi* [Pā. 6-4-175, as read]; the suffix-accent after the loss of *a* by *yasyeti ca*); *bhuvanāni* (root *bhū sattāyām*; the Uṇādi sūtra *bhūdhūsubhrasjibhyaś chandasi* [Uṇ. 2-80 (as I read the numerals [?])] — suffix *kyun*; *ana* for *yu*; *uvaṅ*; the first syllable is acute as *nit* [the exact steps are uncertain to me]).
+
+**Pratipadārtha** *(pp. 136–137)* — "**devaḥ** — the shining; **savitā** — the deity Savitṛ; **kṛṣṇena** — [by that which is] full of darkness; **rajasā** — through the region of the sky (by the sky-path); **ā vartamānaḥ** — moving again and again; **amṛtam** — the deathless gods; **martyam** — and men who are subject to death; **niveśayan** — setting (in the place of their duties); **hiraṇyayena** — made of gold; **rathena** — in a chariot; [seated]; **bhuvanāni** — the various worlds; **paśyan** — looking at (illuminating); **ā yāti** — comes near to us."
+
+**Bhāvārtha** *(p. 137)* — "Savitṛ, who gives light to all the worlds, moving again and again in the dark expanse of the sky, sets all the gods and men in the places of their duties. Seated in a chariot made of gold, he comes near us, looking upon the many worlds and making them bright."
+
+**English Translation (the source's own, p. 137)** — "Travelling through dark space (firmament) arousing **martals** [sic] and immortals, the divine Savitri **come** [sic] in his golden chariot beholding the several worlds" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 137**
+- "It is the custom to use this ṛk, at the time of the *saṃdhyā* prayer, as the mantra for offering the *arghya* addressed to the Sun. In the Taittirīya Saṃhitā the word *satyena* stands in place of *kṛṣṇena*."
+- **kṛṣṇena rajasā** = *kṛṣṇavarṇena lokena*: "before sunrise the darkness is spread everywhere. The Sun moves through the worlds [the mid-region and the rest] that are full of that darkness and drives the darkness away. *Kṛṣṇena* means 'covered with darkness'. *Rajasā* means 'by the path of the world' (Ni. 4-19 [?])."
+- **amṛtaṃ, martyam** — "*amṛta* means the gods, who are free of death; *martya* means men, who are subject to death."
+- **niveśayan** — "causing the darkness of the night-time to depart, he sets the gods and the men to their own undertakings: such is the sense."
+
+*(The Special Topics of this ṛk and its grammar page continue on p. 138, to be viewed next.)*
+
 ---
 
-**Progress note — Volume 4, Sūkta 35 in progress: printed p. 134 (PDF 148) reached; Rik 35.1 written through the start of its grammar page (*mitrāvaruṇau*, *rātrīm*).**
+---
 
-**Next task:** continue at printed p. 135 (PDF 149) with the rest of Rik 1's grammar, then Rik 2. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten" — recorded as printed) runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 149 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+**Progress note — Volume 4, Sūkta 35 in progress: printed p. 137 (PDF 151) reached; Riks 35.1 complete; Rik 35.2 written through the first part of its Special Topics (*niveśayan*).**
 
-**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons" and the Sūkta 34 note in git history); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana and Nirukta numerals are [?] or not read.
+**Next task:** continue at printed p. 138 (PDF 152) with the rest of Rik 2's Special Topics and grammar, then Rik 3. Sūkta 35 (11 Riks by the heading; the Kannada anuvāda prints "ten") runs to about printed p. 176 (PDF 190); Sūkta 36 starts p. 177. Rendered pages: `/tmp/w/v-NNN.jpg` (150 dpi, PDF 145–190); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 152 -l 190 Rig_Vol4.pdf /tmp/w/v`.
+
+**Open flags (Volume 4):** the flags of Sūktas 33–34 still stand (see CLAUDE.md "Lessons"); for Sūkta 35 so far: (1) the heading's metre line reads "1–9 Jagatī; 2–8, 10, 11 Triṣṭup" with an unclear dash/comma, against the introduction's "first and ninth Jagatī, the rest Triṣṭup"; (2) the Sanskrit introduction says eleven ṛks, the Kannada anuvāda "ten"; (3) *nividdhānam* in the introduction and the Āśvalāyana, Nirukta and Aitareya-Āraṇyaka numerals are [?] or not read; (4) the *bhuvanāni* derivation and the *ūtaye* Mahābhāṣya quotation in the grammar pages are partly uncertain.
