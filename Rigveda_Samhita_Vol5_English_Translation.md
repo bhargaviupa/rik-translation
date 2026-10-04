@@ -2536,8 +2536,115 @@
 
 ---
 
+**Rik 50.9, continued** *(from p. 133 foot, p. 134)*
+
+**Vyākaraṇa-prakriyā, continued** *(p. 134 — grammar page, noted briefly)*
+- **naptyaḥ** *(end)*: in *naptr + ī* the *yaṇ* comes, and by *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read) the *nadī*-named *ī* after a *yaṇ* that has stood in place of an acute vowel, and a consonant before it, and also the case-ending after it, are acute — so here, since a *tṛ*'s *ṛ* was acute in the earlier word, the *ī* is acute and the ending is made *svarita*; *vyatyayo bahulam* gives *jas* in place of *śas* (*supāṃ supo bhavanti*); *naptr + as* with *dīrghāj jasi ca* forbids the homogeneous lengthening and *yaṇ* comes again; *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. 8-2-4 as read) makes the unaccented after a *yaṇ* standing for an acute or a *svarita* a *svarita*; here the *ṅīp*'s *ī* has *yaṇ*, so the following unaccented ending is *svarita*. When *yaṇ* has come, the *r* is heard: *naptryaḥ*; the dropping of it must be said to be Vedic (*chāndasa*): hence in the Mantra it is read without the *r*, *naptyaḥ*; this is what is meant by "*dvau cāparau varṇavikāranāśau*" (Kāśikā 6-3-109 as read [?]): in the Chandas change and loss of letters occur even without a cause. In another recension the reading is *naptryaḥ* with the *r* intact.
+- **svayuktibhiḥ**: "*svakīyāḥ sūryasambandhinyo yuktayo yojanāni yāsāṃ tāḥ svayuktayaḥ*": by *sva* the Sun is to be taken; *yukti* is "joining"; so "those [mares] whose joinings are connected with the Sun", an other-member-chief bahuvrīhi; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read) gives the first member's natural accent. **|| 9 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 133 (PDF 149) reached; title, introduction, heading and Riks 50.1–50.8 complete; Rik 50.9's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar of *āyukta*, *śundhyuvaḥ*, *sūraḥ* and the beginning of *naptyaḥ* are written; the rest of its grammar (end of *naptyaḥ*, *svayuktibhiḥ*) is at the foot of p. 133 / p. 134 and is NOT yet written.**
+### Rik 50.10 (pp. 134–137, PDF 150–153)
 
-**Next task:** continue at printed p. 133 foot / p. 134 (PDF 149–150): insert "**Rik 50.9, continued** *(from p. 133)*" with the rest of the grammar of Rik 9, then Riks 10–13 (Anuṣṭubh) and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 149 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-149.jpg`). Flags for 50.7–9: Nirukta references and the Yāska passage in 50.7 unnumbered in the print; *naptyaḥ* Uṇādi rule-name list unfinished in the print; the source's English in 50.9 has "chaiot" [sic]; the print's Rik 9 Saṃhitā/Pada verb is *ayukta* where the bhāṣya's gloss and my tail wrote *āyukta* (kept as printed in the Rik, the tail's "āyukta" is the print's). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+*(From Rik 10 the metre is Anuṣṭubh, as the heading states.)*
+
+**Saṃhitā-pāṭha** *(p. 134; accents not reproduced)*
+
+> **उद्वयं तमसस्परि ज्योतिः पश्यन्त उत्तरम् ।**
+> **देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तमम् ॥ १० ॥**
+
+*ud vayaṃ tamasas pari jyotiḥ paśyanta uttaram |*
+*devaṃ devatrā sūryam aganma jyotir uttamam || 10 ||*
+
+**Pada-pāṭha** *(p. 134)*
+
+> उत् । वयम् । तमसः । परि । ज्योतिः । पश्यन्तः । उत्ऽतरम् ।
+> देवम् । देवऽत्रा । सूर्यम् । अगन्म । ज्योतिः । उत्ऽतमम् ॥ १० ॥
+
+*ut | vayam | tamasaḥ | pari | jyotiḥ | paśyantaḥ | ut-taram |*
+*devam | deva-trā | sūryam | aganma | jyotiḥ | ut-tamam || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 135)*
+
+> **अवभृथेष्टौ होत्रकाः जलान्निष्क्रम्योद्वयं तमसस्परीति मन्त्रं ब्रूयुः । तथा च पत्नीसंयाजैश्चरित्वेति खण्डे सूत्रितं । उद्वयं तमसस्परीत्युदेत्य । आ. ६-१३ [?] । इति ॥**
+>
+> **वयमनुष्ठातारस्तमसस्परि तमस उपरि रात्रेरूर्ध्वं वर्तमानं तमसः पापात्पर्युपरि वर्तमानं वा । पापरहितमित्यर्थः । तथा चाम्नायते । उद्वयं तमसस्परीत्याहु पाप्मा वै तमः पाप्मानमेवास्मादप हन्ति । तै. सं. ३-१-८-६ [?] । इति । ज्योतिस्तेजस्विनमुत्तरमुद्गततरमुत्कृष्टतरं वा देवत्रा देवेषु मध्ये देवं दानादिगुणयुक्तं सूर्यं पश्यन्तः स्तुतिभिर्हविर्भिश्चोपासीनाः सन्त उत्तमं उत्कृष्टतमं ज्योतिः सूर्यरूपमगन्म । प्राप्नुमः । तथा च श्रूयते । अगन्म ज्योतिरुत्तममित्याहासौ वा आदित्यो ज्योतिरुत्तममादित्यस्यैव सायुज्यं गच्छतीति । युक्तं चैतत् । तं यथा यथोपासते तदेव भवन्तीति श्रुत्यन्तरात् ॥ तमसस्परि । पञ्चम्याः परावध्यर्थ इति विसर्जनीयस्य सत्वं । ज्योतिष्पश्यन्तः । इसुसोः सामर्थ्ये । पा. ८-३-४४ । इति विसर्जनीयस्य षत्वं । व्यपेक्षालक्षणं सामर्थ्यं तत्रांगीक्रियते । देवत्रा । देवमनुष्यपुरुषपुरुमर्त्येभ्यो द्वितीयासप्तम्योर्बहुलं । पा. ५-४-५६ । इति सप्तम्यर्थे त्राप्रत्ययः । प्रत्ययस्वरः । अगन्म । छन्दसि लुङ्लङ्लिट इति प्रार्थनायां लङि बहुलं छन्दसीति शपो लुक् । म्वोश्च । पा. ८-२-६५ । इति धातोर्मकारस्य नकारः । आडुदात्तः । पादादित्वान्निघाताभावः । उत्तमं । तमसः पित्त्वादनुदात्तत्वे प्राप्त उत्तमशश्वत्तमौ सर्वत्रेत्युंभादिषु पाठादन्तोदात्तत्वं ॥**
+
+*avabhṛtheṣṭau hotrakāḥ jalān niṣkramyod vayaṃ tamasas parīti mantraṃ brūyuḥ | tathā ca patnīsaṃyājaiś caritveti khaṇḍe sūtritaṃ | ud vayaṃ tamasas parīty udetya | ā. 6-13 [?] | iti ||*
+
+*vayam anuṣṭhātāras tamasas pari tamasa upari rātrer ūrdhvaṃ vartamānaṃ tamasaḥ pāpāt pary upari vartamānaṃ vā | pāparahitam ity arthaḥ | tathā cāmnāyate | ud vayaṃ tamasas parīty āhu pāpmā vai tamaḥ pāpmānam evāsmād apa hanti | tai. saṃ. 3-1-8-6 [?] | iti | jyotis tejasvinam uttaram udgatataram utkṛṣṭataraṃ vā devatrā deveṣu madhye devaṃ dānādiguṇayuktaṃ sūryaṃ paśyantaḥ stutibhir havirbhiś copāsīnāḥ santa uttamaṃ utkṛṣṭatamaṃ jyotiḥ sūryarūpam aganma | prāpnumaḥ | tathā ca śrūyate | aganma jyotir uttamam ity āhāsau vā ādityo jyotir uttamam ādityasyaiva sāyujyaṃ gacchatīti | yuktaṃ caitat | taṃ yathā yathopāsate tad eva bhavantīti śrutyantarāt || tamasaspari | pañcamyāḥ parāvadhyartha iti visarjanīyasya satvaṃ | jyotiṣpaśyantaḥ | isusoḥ sāmarthye | pā. 8-3-44 | iti visarjanīyasya ṣatvaṃ | vyapekṣālakṣaṇaṃ sāmarthyaṃ tatrāṅgīkriyate | devatrā | devamanuṣyapuruṣapurumartyebhyo dvitīyāsaptamyor bahulaṃ | pā. 5-4-56 | iti saptamyarthe trāpratyayaḥ | pratyayasvaraḥ | aganma | chandasi luṅlaṅliṭa iti prārthanāyāṃ laṅi bahulaṃ chandasīti śapo luk | mvoś ca | pā. 8-2-65 | iti dhātor makārasya nakāraḥ | āḍudāttaḥ | pādādittvān nighātābhāvaḥ | uttamaṃ | tamasaḥ pittvād anudāttatve prāpta uttamaśaśvattamau sarvatrety uṃbhādiṣu pāṭhād antodāttatvaṃ ||*
+
+*(The print's Pāṇini numerals "6-13" (Āśvalāyana), "3-1-8-6" (Tai. Saṃ.), "8-3-44", "5-4-56", "8-2-65" are as read, [?]; the clause "avabhṛtheṣṭau hotrakāḥ" is as I read it.)*
+
+**Translation:** "At the *avabhṛtha* ending-rite, the *hotṛ*'s priests, coming out of the water, should recite the mantra '*ud vayaṃ tamasas pari*'; it is prescribed in the section '*patnīsaṃyājaiś caritvā*': '*ud vayaṃ tamasas pari*, having risen' (Āśv. 6-13 [?]). *Vayam*, we, the performers, *tamasas pari*, above the darkness — above night, standing higher; or above the darkness of sin, that is, free of sin; as it is declared: 'they recite "*ud vayaṃ tamasas pari*"; darkness, indeed, is sin: by it one strikes away sin from himself' (Tai. Saṃ. 3-1-8-6 [?]). *Jyotiḥ*, the radiant, *uttaram*, risen higher, or most excellent; *devatrā*, among the gods; *devam*, the god endowed with qualities such as generosity; *sūryam paśyantaḥ*, seeing the Sun, worshipping with hymns and oblations; *jyotir uttamam aganma*, we have reached the highest light, in the form of the Sun. As the Śruti says: 'he says "*aganma jyotir uttamam*": the Āditya is the highest light; he attains union with the Āditya himself'; and this is fitting, from another Śruti: 'as one worships him, so one becomes'. *Tamasaspari*: the *visarga* becomes *s* before *pari* in the sense of 'above'. *Jyotiṣpaśyantaḥ*: *ṣatva* of the *visarga* by *isusoḥ sāmarthye*, with the capacity of mutual expectation accepted here. *Devatrā*: the suffix *trā* in the locative sense after *deva, manuṣya, puruṣa, puru, martya* (Pā. 5-4-56); suffix-accent. *Aganma*: in a prayer, *laṅ* in the Chandas; *śap* dropped; *n* for the *m* of the root by *mvoś ca*; the *āṭ*-augment acute; no all-unaccented, it being at the head of a *pāda*. *Uttamam*: the *tamap* being *pit*, unaccented, but because *uttama* is listed among the *uṃbhādi* words, end-acute."
+
+**Pratipadārtha** *(p. 135)* — "**vayam** — we (who perform the rites); **tamasaḥ pari** — (after the night, full of darkness,) above it, or free from sin; **jyotiḥ** — radiant; **uttaram** — the one who rises upwards, or the greatly excellent; **devatrā** — among the gods; **devam** — the one endowed with qualities such as giving; **sūryam** — the god Sūrya; **paśyantaḥ** — worshipping with hymns and oblations; **uttamam** — the most excellent; **jyotiḥ** — the light (in the form of the Sun); **ud aganma** — we reach."
+
+**Bhāvārtha** *(p. 135)* — "After the night, which is of the form of darkness, has passed, the Sun, free from sin, radiant and most excellent, rises and comes up. Worshipping with hymns and oblations this god Sūrya, who among the gods is endowed with qualities such as generosity, we reach the light that is of this form."
+
+**English Translation (the source's own, p. 136)** — "Beholding the up-rising light above the darkness, we approach the divine Sun among the gods, the excellent light."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 136**
+- "At the *avabhṛtha* ending-rite the priests of the *hotṛ* group bathe, and as they come out of the water they use the ṛk '*ud vayaṃ tamasas pari*'; this matter is explained in the Āśvalāyana Śrauta-sūtra, in the section '*patnīsaṃyājaiś caritvā*', by the sūtra '*ud vayaṃ tamasas parīty udetya*' (Ā. 6-13 [?])."
+- "For this ṛk too the commentator has given two senses."
+- **tamasaspari** — "*tamasa upari rātrer ūrdhvam*: after the darkness has gone and it has become light, after the night has passed and morning has come; or *tamasaḥ pāpāt pary upari vartamānam pāparahitam*: after the darkness of ignorance has been removed, or after sin has been destroyed, free of sin. In this matter there is the Taittirīya Śruti sentence '*ud vayaṃ tamasas parīty āha pāpmā vai tamaḥ pāpmānam evāsmād apa hanti*' (Tai. Saṃ. 3-1-8-6 [?])." — **untranslated in the source**:
+
+  > **उद्वयं तमसस्परीत्याह पाप्मा वै तमः पाप्मानमेवास्मादप हन्ति ।** *(Tai. Saṃ. 3-1-8-6 as read [?])*
+
+  *ud vayaṃ tamasas parīty āha pāpmā vai tamaḥ pāpmānam evāsmād apa hanti |* — mine and tentative: "he says '*ud vayaṃ tamasas pari*'; darkness is, indeed, sin: he strikes sin away from him."
+- **devatrā** — "among the gods. This is a word ending in the accusative that has been used in the sense of the locative. In this connexion there is Pāṇini's sūtra *devamanuṣyapuruṣapurumartyebhyo dvitīyāsaptamyor bahulam* (Pā. 5-4-56 as read [?])."
+- **aganma jyotir uttamam** — "we reach the light that is excellent, in the form of the Sun (the world of the Sun, or union with him). In this connexion the Śatapatha Brāhmaṇa sentence '*svargo vai lokaḥ | sūryo jyotir uttamaḥ | svarga eva loke 'ntataḥ pratitiṣṭhati*' (Śat. Brā. 1-9-3-[?] as read), and the Taittirīya Śruti sentence '*aganma jyotir uttamam ity āhāsau vā ādityo jyotir uttamam ādityasyaiva sāyujyaṃ gacchati*', both support this idea." — **untranslated in the source**:
+
+  1. > **स्वर्गो वै लोकः । सूर्यो ज्योतिरुत्तमः । स्वर्ग एव लोकेऽन्ततः प्रतितिष्ठति ।** *(Śat. Brā. 1-9-3-[?] as read [?])*
+
+     *svargo vai lokaḥ | sūryo jyotir uttamaḥ | svarga eva loke 'ntataḥ pratitiṣṭhati |* — mine and tentative: "heaven is, indeed, the world; the Sun is the highest light; he is established, in the end, in the world of heaven."
+  2. > **अगन्म ज्योतिरुत्तममित्याहासौ वा आदित्यो ज्योतिरुत्तममादित्यस्यैव सायुज्यं गच्छति ।** *(Tai. Saṃ. [number not legible] as read [?])*
+
+     *aganma jyotir uttamam ity āhāsau vā ādityo jyotir uttamam ādityasyaiva sāyujyaṃ gacchati |* — mine and tentative: "he says '*aganma jyotir uttamam*'; the Āditya is, indeed, the highest light: he attains union with the Āditya himself."
+
+**Vyākaraṇa-prakriyā** *(pp. 136–137 — grammar pages, noted briefly)*
+- **tamasaspari**: *tamasaḥ pari*; *pañcamyāḥ parāvadhyartha* (Pā. 8-3-51 as read [?]) gives *s* for the *visarga* when *pari* in the sense of "above" follows: *tamasas pari*.
+- **jyotiṣpaśyantaḥ**: *jyotiḥ paśyantaḥ*; *isusoḥ sāmarthye* (Pā. 8-3-44 as read [?]) gives *ṣ* for the *visarga* of an *is* or *us* before a *ku*- or *pu*-letter when there is *sāmarthya*; the Kannada notes that *sāmarthya* in the sense of *vyapekṣā* (mutual expectation) is what is accepted here, since the verb and the "light" (object) are connected by the sense of object (*karmatā*): *jyotiṣ paśyantaḥ*.
+- **devatrā**: *devamanuṣyapuruṣapurumartyebhyo dvitīyāsaptamyor bahulam* (Pā. 5-4-56 as read [?]) gives *trā* after these words in the sense of the accusative and locative; here, after *deva* in the sense "among the gods": *devatrā*; the suffix is initial-acute (*ādyudāttaś ca*)? — the print says by the suffix-accent *devatrā* is end-acute.
+- **aganma**: root *gamḷ gatau*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *laṅ* in the sense of a prayer; first person plural *mas*; *nityaṃ ṅitaḥ* (Pā. 3-4-99 as read) drops the *s* of *mas*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) drops the *śap*; the *aṭ* comes: *agam + ma*; *mvoś ca* (Pā. 8-2-65 as read) gives *n* for the *m* of a root ending in *m* before *m* or *v*: *aganma*; *āḍudāttaḥ* gives the initial acute; because it stands at the head of the *pāda*, *apādādau* forbids the all-unaccented.
+- **uttamam**: "*atiśayena ut*"; *tamap* in the sense of excess; being *pit*, unaccented by *anudāttau suppitau*; *uṃbhādīnāṃ ca* (Pā. 6-1-160 as read) — in the *uṃbhādi* list (in which *uttama* and *śaśvattama* are read "everywhere" [*sarvatra*]) gives the end-acute; so *uttamam* is end-acute. **|| 10 ||**
+
+---
+
+### Rik 50.11 (pp. 137–, PDF 153–)
+
+**Saṃhitā-pāṭha** *(p. 137; accents not reproduced)*
+
+> **उद्यन्नद्य मित्रमह आरोहन्नुत्तरां दिवम् ।**
+> **हृद्रोगं मम सूर्य हरिमाणं च नाशय ॥ ११ ॥**
+
+*udyann adya mitramaha ārohann uttarāṃ divam |*
+*hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya || 11 ||*
+
+**Pada-pāṭha** *(p. 138)*
+
+> उत्ऽयन् । अद्य । मित्रऽमहः । आऽरोहन् । उत्ऽतराम् । दिवम् ।
+> हृत्ऽरोगम् । मम । सूर्य । हरिमाणम् । च । नाशय ॥ ११ ॥
+
+*ut-yan | adya | mitra-mahaḥ | ā-rohan | ut-tarām | divam |*
+*hṛt-rogam | mama | sūrya | harimāṇam | ca | nāśaya || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 138, first part)*
+
+> **उद्यन्नित्ययं तृचो रोगशान्त्यर्थः । तथा चानुक्रमण्यामुक्तं । अन्त्यस्तृचो रोगघ्नः । उपनिषदि च । युक्तं चैतत् । यस्मादेनेन तृचेन त्वग्दोषशान्तये प्रस्कण्वः सूर्यमस्तौत्तेन तृचेन स्तुतः सूर्यस्तमृषिं रोगान्निरगमयेत्तस्मादिदानीमपि रोगशान्तयेऽनेन तृचेन सूर्य उपासनीयः । तदुक्तं शौनकेन । उद्यन्नद्येति मन्त्रोऽयं सौरः पापप्रणाशनः । रोगघ्नश्च विषघ्नश्च भुक्तिमुक्तिफलप्रद इति ॥**
+
+*udyann ity ayaṃ tṛco rogaśāntyarthaḥ | tathā cānukramaṇyām uktaṃ | antyas tṛco rogaghnaḥ | upaniṣadi ca | yuktaṃ caitat | yasmād anena tṛcena tvagdoṣaśāntaye praskaṇvaḥ sūryam astauttena tṛcena stutaḥ sūryas tam ṛṣiṃ rogān niragamayet tasmād idānīm api rogaśāntaye 'nena tṛcena sūrya upāsanīyaḥ | tad uktaṃ śaunakena | udyann adyeti mantro 'yaṃ sauraḥ pāpapraṇāśanaḥ | rogaghnaś ca viṣaghnaś ca bhuktimuktiphalaprada iti ||*
+
+*(The bhāṣya of Rik 11 continues from here to p. 139, with the explanation of the words; it is not yet written. The print's "astauttena" is as read, crowded [?].)*
+
+**Translation of this first part:** "*Udyann* [this Rik and the two that follow] is a triad for the cessation of disease: so it is said in the Anukramaṇī, 'the last triad is disease-destroying', and in the Upaniṣad (*i.e.* the *Upaniṣad-brāhmaṇa* [?]). And this is fitting: since Praskaṇva praised the Sun with this triad for the stilling of a skin-ailment, the Sun, so praised, led the sage out of his diseases; therefore, even now, the Sun should be worshipped with this triad for the stilling of disease. So Śaunaka says: 'this Saura mantra *udyann adya* destroys sin, is a destroyer of disease and of poison, and gives the fruit of enjoyment and liberation'."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 138 (PDF 154) reached; title, introduction, heading and Riks 50.1–50.10 complete (50.9's grammar completed); Rik 50.11's Saṃhitā, Pada and the first paragraph of its bhāṣya (on the triad *udyann* for the cure of disease, with Śaunaka's verse) are written; the rest of its bhāṣya (the explanation of the words, p. 138 lower part) is NOT yet written.**
+
+**Next task:** continue at printed p. 138 (PDF 154), the second paragraph of the bhāṣya of Rik 50.11 beginning *he sūrya sarvasya preraka mitramahaḥ …* (the page's last two thirds), then its tail, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (pp. 139–141), then Riks 12–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Insert with a heading "**Rik 50.11, continued** *(from p. 138)*". Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 154 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-154.jpg`). Flags for 50.9–11: Pāṇini/Āśvalāyana/Taittirīya/Śatapatha numerals "as read [?]"; the first words of 50.11's bhāṣya ("udyann ity ayaṃ tṛco…", "astauttena") as read; 50.10's grammar note on *devatrā*'s accent unclear; all untranslated citations glossed "mine and tentative". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
