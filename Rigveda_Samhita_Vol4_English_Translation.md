@@ -10180,8 +10180,97 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 46.10, continued** *(from p. 596)*
+
+**Pratipadārtha** *(p. 596)* — "**bhā u** — the brilliance of the Sun; **aṃśave** — in order to make the dawn bright; **abhūdu** — has appeared; **sūryaḥ** — the god Sun; **hiraṇyaṃ prati** — (by the light of his time of rising) like gold; **asitaḥ** — (before the Sun's radiance) the dimmed Agni; **jihvayā** — with the (dim) flame; **vyakhyat** — lit up. (As this is the proper time for your coming, O Aśvin gods, come too.)"
+
+**Bhāvārtha** *(p. 596)* — "O Aśvin gods, for making bright the dawn, delightful to the world, the brilliance of the Sun has appeared. The Sun has become, by the radiance of his time of rising, delightful, like gold. The flame of the fire that shone all night has also become dim before the Sun's brilliance. Since the time of the rising of such a radiant Sun is also the time of your coming, come graciously."
+
+**English Translation (the source's own, p. 596)** — "There was just enough light to make the dawn visible ; then the Sun rose like gold ; the fire shone with darkened flames."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 596**
+- "Although the sense of this ṛk is clear, some words have to be supplied for the sense to fit properly."
+- **hiraṇyaṃ prati** — "since at the time of the Sun's rising his light has a slight reddish tinge, it is usual to compare the radiance of the Sun at that time to the light of gold."
+- **jihvayā asitaḥ** — "*sita* means white or shining; *asitaḥ* means not shining, dim. *Jihvayā*: by the tongue, that is, by the tongues of Agni, which are the flames. Here the idea is that Agni shone with dim flames — that is, before the Sun's light the light of Agni became dim."
+
+**Vyākaraṇa-prakriyā** *(pp. 596–597 — grammar pages, noted briefly)*
+- **abhūt**: root *bhū sattāyām*, *luṅ*, *cli*; *cleḥ sic*; the *aṭ* augment; *abhū + s + luṅ*; *tip*; *itaś ca* drops the *i*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read) — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — *luk* of the *sic*; *bhūsuvos tiṅi* (Pā. 7-3-88 as read) — भूसुवोस्तिङि — *guṇa* is forbidden for *bhū* and *sū* when a *tiṅ* with the name *sārvadhātuka* follows.
+- **hiraṇyaṃ prati**: *pratiḥ pratinidhipratidānayoḥ* (Pā. 1-4-92 as read) — प्रतिः प्रतिनिधिप्रतिदानयोः — *pratinidhi* means "like"; *pratidāna* means giving back what was given; in these senses *prati* has the name *karmapravacanīya*; *karmapravacanīyayukte dvitīyā* (Pā. 2-3-8 as read) — the accusative.
+- **akhyat**: root *cakṣiṅ vyaktāyāṃ vāci*, *luṅ*, *cli*; *cakṣiṅaḥ khyāñ* (Pā. 2-4-54 as read) — चक्षिङः ख्याञ् — *khyāñ* is substituted for *cakṣiṅ* before an *ārdhadhātuka* suffix; being *ñit* (the *ñ* is a marker) both *parasmaipada* and *ātmanepada* may come by *svaritañitaḥ…*; here *parasmaipada*, *tip*, the *i* dropped; the *aṭ* augment; *akhyā + cli + t*; *asyativaktikhyātibhyo 'ṅ* (Pā. 3-1-52 as read) — अस्यतिवक्तिख्यातिभ्योऽङ् — *aṅ* for *cli*; *āto lopa iṭi ca* (Pā. 6-4-64 as read) drops the *ā*: *akhyat*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 10 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 595 (PDF 609) reached; heading, introduction and Riks 46.1–46.9 complete; Rik 46.10's Saṃhitā, Pada, bhāṣya (with its translation) are written; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar begin on p. 596 and are NOT yet written.**
+### Rik 46.11 (pp. 597–599, PDF 611–613)
 
-**Next task:** continue at printed p. 596 (PDF 610) with the rest of Rik 46.10 (insert it with a heading "**Rik 46.10, continued** *(from p. 596)*"), then Riks 11–15; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 610 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.7–10: *sūtra* and Uṇādi numerals "as read [?]"; in 46.8 the rule-names for *tīrthe* and *yuyujre* crowded; 46.9 and the source's own comment that the sense of the ṛk "does not fit properly" kept; 46.10's closing bhāṣya numeral misprinted ("34"). **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 597; accents not reproduced)*
+
+> **अभूदु पारमेतवे पन्था ऋतस्य साधुया ।**
+> **अदर्शि वि स्रुतिर्दिवः ॥ ११ ॥**
+
+*abhūd u pāram etave panthā ṛtasya sādhuyā |*
+*adarśi vi srutir divaḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 597)*
+
+> अभूत् । ऊं इति । पारम् । एतवे । पन्थाः । ऋतस्य । साधुऽया ।
+> अदर्शि । वि । स्रुतिः । दिवः ॥ ११ ॥
+
+*abhūt | ūṃ iti | pāram | etave | panthāḥ | ṛtasya | sādhu-yā |*
+*adarśi | vi | srutiḥ | divaḥ || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 598)*
+
+> **ऋतस्य सूर्यस्य पारमेतवे रात्रेः पारभूतमुदयाद्रिं गन्तुं पन्था मार्गः साधुया समीचीनोऽभूदु । निष्पन्न एव । दिवो द्योतनात्मकस्य सूर्यस्य स्रुतिः प्रसृता दीप्तिर्व्यदर्शि । विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यं ॥ एतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । साधुया । सुपां सुलुगिति विभक्तेर्याजादेशः । अदर्शि । कर्मणि लुङ् । च्लेश्चिणादेशः । चिणो लुक् । पा. ६-४-१०४ [?] । इति तशब्दस्य लुक् । स्रुतिः । स्रु गतौ । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥**
+
+*ṛtasya sūryasya pārametave rātreḥ pārabhūtam udayādriṃ gantuṃ panthā mārgaḥ sādhuyā samīcīno 'bhūd u | niṣpanna eva | divo dyotanātmakasya sūryasya srutiḥ prasṛtā dīptir vyadarśi | viśeṣeṇa dṛṣṭā | tasmād aśvinau yuvābhyām āgantavyaṃ || etave | iṇ gatau | tumarthe sesen iti tavenpratyayaḥ | sādhuyā | supāṃ suluk iti vibhakter yājādeśaḥ | adarśi | karmaṇi luṅ | cleś ciṇādeśaḥ | ciṇo luk | pā. 6-4-104 [?] | iti taśabdasya luk | srutiḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic ||*
+
+**Translation:** "*Ṛtasya*, for the Sun *pāram etave*, to go to the far side — to the mountain of rising which lies beyond the night — *panthāḥ*, the path, the road, *sādhuyā*, has become proper, fit; it is just ready. *Divaḥ srutiḥ*, the spreading radiance of the Sun, whose nature is to shine, *vyadarśi*, has been specially seen. Therefore you, Aśvins, are to come. *Etave*: root *iṇ gatau*; the suffix *tavenū* by *tumarthe sesen…*. *Sādhuyā*: *yāc* for the case-ending by *supāṃ suluk*. *Adarśi*: passive aorist; *ciṇ* for *cli*; the *luk* of *ciṇ* drops the *ta*. *Srutiḥ*: root *sru gatau*; *ktic* by *ktic ktau ca saṃjñāyām*."
+
+**Pratipadārtha** *(p. 598)* — "**ṛtasya** — for the Sun; **pāram** — the end of the night, the mountain of rising; **etave** — to go and reach; **panthāḥ** — the path; **sādhuyā** — in a fit manner; **abhūdu** — has been made; **divaḥ** — of the Sun, whose self is splendour; **srutiḥ** — the spreading radiance; **vi adarśi** — has become clearly visible. (Therefore, Aśvin gods, come too.)"
+
+**Bhāvārtha** *(p. 598)* — "O Aśvin gods, the night, with its darkness, has come to an end. The path of the Sun to reach the mountain of rising, which lies at the end of it, is in order. The radiance of the Sun, whose nature is to spread across the world, is clearly seen. Since this is the right time for your coming too, come graciously."
+
+**English Translation (the source's own, p. 598)** — "A fit path was made for the sun to go at the end of the night ( in the morning ); the radiance of the sun became visible."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 598**
+- **ṛtasya** — "*sūryasya*: since he moves in the atmosphere, *ṛtasya* means 'of the Sun'."
+- **sādhuyā** — "fit, favourable for moving."
+- **srutiḥ** — "*sru gatau*: since it spreads on all sides, *srutiḥ* means brilliance, radiance, light."
+
+**Vyākaraṇa-prakriyā** *(p. 599 — grammar page, noted briefly)*
+- **etave**: *tumarthe sesenasase…* gives the suffix *tavenū* after the root *iṇ gatau*; *guṇa*; being *nit*, the initial acute.
+- **sādhuyā**: after the word *sādhu* the nominative singular *su*; for it *yāc* by *supāṃ suluk…*.
+- **adarśi**: root *dṛśir prekṣaṇe*, passive *luṅ*, *cli*; *bhāvakarmaṇoḥ* (Pā. 1-3-13 as read) gives the suffix *ta*; *dṛś + cli + ta*; *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66 as read) — चिण् भावकर्मणोः — when *ta*, in the abstract or passive sense, follows, *ciṇ* replaces *cli*; the *aṭ* augment; *a + dṛś + i + ta*; *ciṇo luk* (Pā. 6-4-104 as read) drops *ta*, which stands after *ciṇ*; the *guṇa* of the light penultimate.
+- **srutiḥ**: root *sru gatau*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 as read) gives the suffix *ktic*; *kṅiti ca* forbids *guṇa*; the suffix is *cit*, so by *citaḥ* (Pā. 6-1-163 as read) the end is acute. **|| 11 ||**
+
+---
+
+### Rik 46.12 (p. 599 foot, PDF 613–)
+
+**Saṃhitā-pāṭha** *(p. 599; accents not reproduced)*
+
+> **तत्तदिदश्विनोरवो जरिता प्रति भूषति ।**
+> **मदे सोमस्य पिप्रतोः ॥ १२ ॥**
+
+*tat tad id aśvinor avo jaritā prati bhūṣati |*
+*made somasya pipratoḥ || 12 ||*
+
+**Pada-pāṭha** *(p. 599)*
+
+> तत्ऽतत् । इत् । अश्विनोः । अवः । जरिता । प्रति । भूषति ।
+> मदे । सोमस्य । पिप्रतोः ॥ १२ ॥
+
+*tat-tat | it | aśvinoḥ | avaḥ | jaritā | prati | bhūṣati |*
+*made | somasya | pipratoḥ || 12 ||*
+
+*(The bhāṣya of Rik 12 begins on p. 600, not yet seen.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE; Sūkta 46 (the last of the volume) in progress: printed p. 599 (PDF 613) reached; heading, introduction and Riks 46.1–46.11 complete; Rik 46.12's Saṃhitā and Pada written at the foot of p. 599 (its bhāṣya begins on p. 600).**
+
+**Next task:** continue at printed p. 600 (PDF 614) with the bhāṣya of Rik 46.12, then Riks 13–15; Sūkta 46 has 15 Riks. Check the print for the close of Sūkta 46 and what follows it up to PDF 622 (closing note, colophon, errata or index pages — characterize briefly, do not skip silently); then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 614 -l 622 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for 46.10–11: *sūtra* numerals "as read [?]"; 46.10 the source's own note that words must be supplied. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
