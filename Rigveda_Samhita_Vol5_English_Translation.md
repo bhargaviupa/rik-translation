@@ -4978,8 +4978,122 @@
 
 ---
 
+**Rik 53.4, continued** *(pp. 277–279, PDF 293–295)*
+
+**Sāyaṇa-bhāṣya, grammatical tail** *(pp. 276 foot – 277 — characterized, not transcribed)*: *nirundhānaḥ* (*rudhir āvaraṇe*; the *śnam* and the *śānac*; the loss of the *a* of *śnam* by *śnasor allopaḥ*, Pā. 6-4-111 as read [?]); *amatim* ("*maṃhitvyā matir aiśvaryam*"; *na matir amatiḥ*, a *nañ* compound with the accent of the first member; "*na lokāvyayeti ṣaṣṭhīpratiṣedhaḥ*"); *aśvinā* ("*aśvo 'syāstīty aśvi dhanam*", *matup* sense; *iniḥ*).
+
+**Pratipadārtha** *(p. 277)* — "(O Indra) **ebhiḥ dyubhiḥ** — with these shining *puroḍāśas* and the like (offered by us); **ebhiḥ indubhiḥ** — with these soma juices; (satisfied); **amatim** — our poverty; **gobhiḥ** — by giving cattle; **aśvinā** — by giving wealth in the form of horses; **nirundhānaḥ** — destroying; **sumanāḥ** — be of gracious mind; (we) **indubhiḥ** — satisfied by the soma juice offered by us; **indreṇa** — by Indra; **dasyum** — the destroying enemy; **darayantaḥ** — harming; **yutadveṣasaḥ** — freed from the enemy; **iṣā** — with the food (given by Indra); **sam rabhemahi** — may we come together and be happy."
+
+**Bhāvārtha** *(p. 277)* — "O Indra, satisfied with these *puroḍāśa* and other offerings made by us and with these soma juices, destroy our poverty by giving gifts of wealth — cattle, horses and the like — and be gracious towards us. With the help of Indra, satisfied by the soma juice we have offered, may we cause the destroying enemy to be harmed, be freed from him, and together enjoy the food given by Indra."
+
+**English Translation (the source's own, p. 277)** — "Propitiated by these offerings, by these libations, drive away poverty with gifts of wealth consisting of cattle and horses and be delighted; Indra, may we, subduing our enemy, and relieved from foes by our libations enjoy together abundant food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 277–278**
+- **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
+
+  > **दीप्तिमतो योऽस्मोवानां [?] वयमर्पयोऽमुस्मान् पीत्वेन्द्रः प्रसन्नो भविष्यति । अपि चास्माकं शत्रुहननाय साहाय्यं करिष्यति तेन वयं निश्शत्रवः कृता अन्नसंपन्ना भवेमेत्यर्थः । एभिरित्यस्य द्विरुक्तिरादरार्थेत्यनुसंधेयम् ॥**
+
+  *dīptimato yo 'smovānāṃ [?] vayam arpayo 'musmān pītvendraḥ prasanno bhaviṣyati | api cāsmākaṃ śatruhananāya sāhāyyaṃ kariṣyati tena vayaṃ niśśatravaḥ kṛtā annasampannā bhavemety arthaḥ | ebhir ity asya dviruktir ādarārthety anusaṃdheyam ||* — The Sanskrit of this note is garbled in the print; I read the sense from the Kannada: "By drinking the shining soma we offer, Indra will be pleased; and he will help us to kill our enemies; thus freed of enemies, we shall be rich in food. It should be understood that the repetition of the word *ebhiḥ* is for respect (*ādara*)." The Kannada adds: "Because Indra, pleased by drinking the shining soma, will help us in destroying enemies, not only will our troubles from enemies end, but food and the like will be obtained for us in abundance. Since the word *ebhiḥ* is repeated in this Rik, it shows the great respect felt for Indra by those who praise him."
+- **dyubhiḥ** — "*Dīptaiś caru-puroḍāśādibhiḥ*: by shining offerings, *puroḍāśa* and the like — the sense of 'shining things' comes by implication (*lakṣaṇā*)."
+- **amatim** — "*Maṃhitvyā matir aiśvaryam; na matir amatiḥ*: by this derivation the word has the sense of poverty."
+- **indubhiḥ** — "For this word the sense is 'by the soma offerings and the *puroḍāśa* that are the bright substances used in the sacrifice'."
+- **yutadveṣasaḥ** — "Those who have driven away the hating enemies, that is, who have wholly destroyed the enemies."
+- **aśvinā** — "*Aśvo 'syāstīti aśvi dhanam*: by this explanation it means all kinds of wealth beginning with horses."
+
+**Vyākaraṇa-prakriyā** *(pp. 278–279 — grammar pages, noted briefly)*
+- **sumanāḥ**: "*śobhanaṃ manaḥ yasya saḥ*"; *sormanasī alomoṣasī* (Pā. 6-2-117) — *su* before *manas*, in a bahuvrīhi, *asun*-ending: the acute is on the first syllable of the last member.
+- **nirundhānaḥ**: *rudhir āvaraṇe*, *rudhādi*; *svaritañitaḥ kartrabhiprāye kriyāphale* gives *ātmanepada*, *śānac*; *śānac* following, *rudhādibhyaḥ śnam* gives *śnam*; being *mit*, it goes after the last vowel (*mid aco 'ntyāt paraḥ*); *śnasor allopaḥ* (Pā. 6-4-111) drops the *a* of *śnam*: *nirundhāna*; being *cit*, *citaḥ* gives the end-acute; with the prefix *ni*, the compound is formed and *gatikārakopapadāt kṛt* gives the accent of the last member.
+- **amatim**: "*maṃhitvyā matiḥ aiśvaryam*"; *ktin* after the root *man*; being *kit*, *anudāttopadeśa…* drops the *n*; "*na matiḥ amatiḥ*": *tatpuruṣe tulyārtha…* gives the accent of the first member; for such places as *amatiṃ nirundhānaḥ*, though *kartṛkarmaṇoḥ kṛti* would give the genitive, *na lokāvyayaniṣṭhākhalarthatṛnām* (Pā. 2-3-69) forbids the genitive, since the word *lādeśa* applies [as printed].
+- **aśvinā**: "*aśvo 'syāsti iti aśvi*"; *dhanam*; in the *matup* sense, *ata ini-ṭhanau* (Pā. 5-2-115) gives *ini*; by the suffix-accent the *i* is acute; instrumental singular.
+- **darayantaḥ**: *dṝ bhaye*; *śatṛ* after the *ṇic*-ending; being in the *ghaṭādi* list, *mit*, so *mitāṃ hrasvaḥ* shortens before *ṇic*; *śap* as the cause gives *guṇa* and *ayādeśa*: *darayat*; by the *ṇic*-accent the *a* after *r* is acute; in the nominative plural, being *ugit*, *num* comes: *darayantaḥ*.
+- **rabhemahi**: *rabha rābhasye*, *bhvādi*; *vidhiliṅ* first person plural *mahiṅ*; *liṅaḥ sīyuṭ* gives *sīyuṭ* to *mahiṅ*; *kartari śap*; *liṅaḥ salopo 'nantyasya* drops the *s* of *sīyuṭ*; *guṇa*: *rabhemahi*; *tiṅ atiṅaḥ*, *nighāta*. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.3 complete; Rik 53.4 written from the Saṃhitā through the translation of the main bhāṣya (printed p. 276, PDF 292). The grammatical tail of the bhāṣya continues on p. 277 (PDF 293) with Pratipadārtha etc.; Riks 53.5–53.11 are NOT yet written.**
+### Rik 53.5 (pp. 279–282, PDF 295–298)
 
-**Next task:** continue at printed p. 277 (PDF 293) with "**Rik 53.4, continued**" (tail characterized, Pratipadārtha, Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 5–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 279; accents printed, not reproduced)*
+
+> **सम् इन्द्र रायो समिषा रभेमहि सं वाजेभिः पुरुश्चन्द्रैरभिद्युभिः ।**
+> **सं देव्या प्रमत्या वीरशुष्मया गोअग्रयाश्वावत्या रभेमहि ॥ ५ ॥**
+
+*(The print gives the opening as "समिन्द्र राया"; I read it as* sam indra rāyā*:)* *sam indra rāyā sam iṣā rabhemahi saṃ vājebhiḥ puruścandrair abhidyubhiḥ |*
+*saṃ devyā pramatyā vīraśuṣmayā goagrayāśvāvatyā rabhemahi || 5 ||*
+
+**Pada-pāṭha** *(p. 279)*
+
+> सम् । इन्द्र । राया । सम् । इषा । रभेमहि । सम् । वाजेभिः । पुरुश्चन्द्रैः । अभिद्युऽभिः ।
+> सम् । देव्या । प्रऽमत्या । वीरऽशुष्मया । गोऽअग्रया । अश्वऽवत्या । रभेमहि ॥ ५ ॥
+
+*sam | indra | rāyā | sam | iṣā | rabhemahi | sam | vājebhiḥ | puruścandraiḥ | abhidyu-bhiḥ |*
+*sam | devyā | pra-matyā | vīra-śuṣmayā | go-agrayā | aśva-vatyā | rabhemahi || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 279–280)*
+
+> **हे इन्द्र रायो धनेन वयं सं रभेमहि । संगच्छेमहि ॥ तथेषान्नेन सं रभेमहि । तथा वाजेभिर्बल्यैः सं रभेमहि । कीदृशैर्वाजैः । पुरुश्चन्द्रैः पुरूणां बहूनामाह्लादकैः अभिद्युभिरभितो दीप्यमानैः । किंच देव्या द्योतमानया प्रमत्या त्वदीयया प्रकृष्टबुद्ध्या सं रभेमहि । कीदृश्या । वीरशुष्मया वीरं विशेषेण शत्रूणां क्षेपणसमर्थं शुष्मं बलं यस्याः सा तथोक्ता । गोअग्रया । स्तोतृभ्यो दानार्थमग्रे प्रमुखत एव गावो यस्याः सा तथोक्ता । अश्वावत्या अश्वैरुपेतया ॥**
+
+*he indra rāyo dhanena vayaṃ saṃ rabhemahi | saṃgacchemahi || tatheṣānnena saṃ rabhemahi | tathā vājebhir balyaiḥ saṃ rabhemahi | kīdṛśair vājaiḥ | puruścandraiḥ purūṇāṃ bahūnām āhlādakaiḥ abhidyubhir abhito dīpyamānaiḥ | kiṃca devyā dyotamānayā pramatyā tvadīyayā prakṛṣṭabuddhyā saṃ rabhemahi | kīdṛśyā | vīraśuṣmayā vīraṃ viśeṣeṇa śatrūṇāṃ kṣepaṇasamarthaṃ śuṣmaṃ balaṃ yasyāḥ sā tathoktā | goagrayā | stotṛbhyo dānārtham agre pramukhata eva gāvo yasyāḥ sā tathoktā | aśvāvatyā aśvair upetayā ||*
+
+*(The grammatical tail: on* rāyaḥ *(the vibhakti-accent by* ūḍidam padādi…*),* puruścandraiḥ *(*hrasvāc candrottarapade mantre*, the augment* suṭ*;* ścutva*; compound accent),* abhidyubhiḥ *(*abhigatā dyaur dīptir yeṣām*; *div *implying radiance; the accent of the particle-first compound),* devyā *(*udāttayaṇo hal pūrvāt*),* pramatyā *(*tādau ca niti*; Pā. 6-2-50 as read [?] — the prefix keeps its accent),* goagrayā *(*sarvatra vibhāṣā goḥ*, Pā. 6-1-122 as read [?], with no* avādeśa *by* prakṛtibhāva*),* aśvāvatyā *(*mantre somāśvendriya…*, lengthening before* matup*) — is given in full on pp. 281–282 and noted below.)*
+
+**Translation of the bhāṣya:** "O Indra, may we *sam rabhemahi*, come together, with *rāyaḥ*, wealth; with *iṣā*, food; with *vājebhiḥ*, strengths — what kind of strengths? *puruścandraiḥ*, delighting many; *abhidyubhiḥ*, shining all round. And with *devyā pramatyā*, the shining *pramati*, your excellent wisdom — what kind of wisdom? *vīraśuṣmayā*: that of which the *śuṣma*, strength, is able to hurl enemies far (*vīra*); *goagrayā*: that has cattle given ahead, at the front, for giving to the praisers; *aśvāvatyā*, with horses — may we be joined."
+
+**Pratipadārtha** *(p. 280)* — "**indra** — O Indra; (we) **rāyaḥ** — with wealth; **sam rabhemahi** — may we gain prosperity; **iṣā** — with food; **sam** [rabhemahi]; **puruścandraiḥ** — delighting many people; **abhidyubhiḥ** — shining all round; **vājebhiḥ** — with powers; **sam** [rabhemahi]; **devyā** — shining; **vīraśuṣmayā** — having strength to destroy enemies; **goagrayā** — with cows placed in front [for giving]; **aśvāvatyā** — joined with horses; **pramatyā** — with your excellent intelligence; **sam rabhemahi** — may we come together completely (may we attain complete increase)."
+
+**Bhāvārtha** *(p. 280)* — "O Indra, so favour us that we gain wealth and food completely and have the powers that delight many people and shine all round. Favour us also that we may increase by your excellent intelligence — shining, destroying enemies' strength, with cattle placed in front for giving, and rich in horses."
+
+**English Translation (the source's own, p. 280)** — "Indra, may we become possessed of riches and of food; and with energies agreeable to many, and shining around, may we prosper through your divine power, the source of prowess, of cattle and of horses."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 281**
+- **puruścandraiḥ** — "The word *candra*, which comes from the root *cadi āhlādane*, means only 'a delighting thing'. The word *puru* here has the sense 'many' or 'extreme'. Therefore the full sense of this word is 'by things that give extreme delight'."
+- **abhidyubhiḥ** — "For the word *div* here the secondary meaning is 'radiance'. By the derivation '*abhigatā dyaur dīptir yeṣām te*', it means things that shine all round."
+- **vīraśuṣmayā** — "This is an epithet of *pramatyā* (Indra's excellent intelligence). By explaining '*vīraṃ viśeṣeṇa śatrūṇāṃ kṣepaṇasamarthaṃ śuṣmaṃ balaṃ yasyāḥ sā*', it makes clear the sense that Indra's intelligence is able to destroy all the measureless strength of enemies."
+- **goagrayā** — "Indra has the generosity to give cows and the like, first of all, to those who praise him, satisfying them with oblations and the like. Such is the nature of Indra's *pramati* (intelligence)."
+
+**Vyākaraṇa-prakriyā** *(pp. 281–282 — grammar pages, noted briefly)*
+- **rāyaḥ**: *rai* + *ā* [= *rai* + *ṅas*/*śas*]: *eco 'yavāyāvaḥ* gives *āy*; *ūḍidaṃ padādi…* (Pā. 6-1-171) gives the vibhakti an acute.
+- **puruścandraiḥ**: *hrasvāc candrottarapade mantre* (Pā. 6-1-151) gives *suṭ* to the word *candra*; since a *ca* follows [the *s* + *c*], *stoḥ ścunā ścuḥ* turns the *s* of *suṭ* into *ś*; "*purūṇāṃ candrāḥ puruścandrāḥ*", and by the compound's accent *samāsasya* the end-acute.
+- **abhidyubhiḥ**: "*abhigatā dyaur dīptir yeṣām abhidivaḥ tair abhidyubhiḥ*"; the word *div* has the sense of radiance by *lakṣaṇā*; the accent of the first member, the particle (*avyayapūrvapada…*).
+- **devyā**: the instrumental singular of *devī*; *udāttayaṇo hal pūrvāt* (Pā. 6-1-174) gives the ending an acute.
+- **pramatyā**: *man jñāne*; *ktin* by *striyāṃ ktin*; *anudāttopadeśa…* drops the nasal *n*; compound with *pra*; *tādau ca niti* (Pā. 6-2-50) — since the suffix is a *ti*-ending (*tādi*) and *nit*, the prefix keeps its accent; the word is initial-acute.
+- **vīraśuṣmayā**: "*vīraṃ śuṣmaṃ yasyāḥ sā*": a bahuvrīhi; the first member's accent by *bahuvrīhau prakṛtyā pūrvapadam*.
+- **goagrayā**: "*gāvaḥ agre yasyāḥ sā goagrā tayā*"; as for bahuvrīhi, the accent as before; *sarvatra vibhāṣā goḥ* (Pā. 6-1-122) gives *prakṛtibhāva*, so the *o* does not become *av*.
+- **aśvāvatyā**: "*aśvāḥ asyāḥ santi iti aśvāvatī*"; *tad asyāsty asmin* gives *matup*; since it follows an *a*, *māduḥ upadhāyāś ca matoḥ* turns the *m* of *matup* into *v*; in the feminine, *ugitaś ca* gives *ṅīp*; *mantre somāśvendriyaviśvadevyasya matau* (Pā. 6-3-131 as read [?]) lengthens the earlier *aśva* before *matup*: *aśvāvatī*; instrumental singular. **|| 5 ||**
+
+---
+
+### Rik 53.6 (pp. 282–, PDF 298–)
+
+**Saṃhitā-pāṭha** *(p. 282; accents printed, not reproduced)*
+
+> **ते त्वा मदा अमदन्तानि वृष्ण्या ते सोमासो वृत्रहत्येषु सत्पते ।**
+> **यत्कारवे दश वृत्राण्यप्रति बर्हिष्मते नि सहस्राणि बर्हयः ॥ ६ ॥**
+
+*te tvā madā amadan tāni vṛṣṇyā te somāso vṛtrahatyeṣu satpate |*
+*yat kārave daśa vṛtrāṇy aprati barhiṣmate ni sahasrāṇi barhayaḥ || 6 ||*
+
+**Pada-pāṭha** *(p. 282)*
+
+> ते । त्वा । मदाः । अमदन् । तानि । वृष्ण्या । ते । सोमासः । वृत्रऽहत्येषु । सत्ऽपते ।
+> यत् । कारवे । दश । वृत्राणि । अप्रति । बर्हिष्मते । नि । सहस्राणि । बर्हयः ॥ ६ ॥
+
+*te | tvā | madāḥ | amadan | tāni | vṛṣṇyā | te | somāsaḥ | vṛtra-hatyeṣu | sat-pate |*
+*yat | kārave | daśa | vṛtrāṇi | aprati | barhiṣmate | ni | sahasrāṇi | barhayaḥ || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 282 — begins; continues on p. 283)*
+
+> **हे सत्पते सतां पालयितरिन्द्र वृत्रहत्येषु वृत्रहननेषु निमित्तभूतेषु सत्सु ते पूर्वोक्ता मदा मादका मरुतस्त्वा त्वामामदन् । अमदेर्य । हर्षं प्राप्नुयाः । तानि पूर्वोक्तानि वृष्ण्या वृष्णः सेचनसमर्थस्य तव संबन्धीनि चरुपु-…** *(continued on p. 283)*
+
+*he satpate satāṃ pālayitar indra vṛtrahatyeṣu vṛtrahananeṣu nimittabhūteṣu satsu te pūrvoktā madā mādakā marutas tvā tvām amadan | amadery[a] [?] | harṣaṃ prāpnuyāḥ [?] | tāni pūrvoktāni vṛṣṇyā vṛṣṇaḥ secanasamarthasya tava saṃbandhīni carupu-…* *(continued on p. 283)*
+
+*(Reading note: the clause "*amadery[a] harṣaṃ prāpnuyāḥ*" is crowded in the print, [?]; the sense — "the Maruts, the exhilarators, gladdened you" — is clear from the Pratipadārtha on p. 283.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–52 COMPLETE (printed pp. 1–264 = PDF 17–280). Sūkta 53 (*nyū ṣu vācam*, 11 Riks) in progress: Riks 53.1–53.5 complete; Rik 53.6 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 282, PDF 298); the bhāṣya continues on p. 283 (PDF 299) at "…tāni pūrvoktāni vṛṣṇyā vṛṣṇaḥ secanasamarthasya tava saṃbandhīni carupu-…". Riks 53.7–53.11 are NOT yet written.**
+
+**Next task:** continue at printed p. 283 (PDF 299) with "**Rik 53.6, continued**" (take care to start from the end of the sentence at "carupu…"), then Riks 7–11 (Riks 10 and 11 are Triṣṭubh) and the close of Sūkta 53 (the contents table puts Sūkta 54 at p. ≈303 — check the print). Update CLAUDE.md "Current position" at the end of Sūkta 53 (Sūktas 47–53 complete; next Sūkta 54). **User instruction: translate Sūktas 51–54 (51, 52 done; 53 now; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags for Sūkta 53: introduction's Āśvalāyana numeral 6-4 and "upra" [?]; Rik 1 "prayuñjmahe" and Special-Topic Sanskrit "viśādeṣu" [?]; Rik 4 bhāṣya "aśvinā(śvayuktena)" and the garbled Sanskrit note in the Special Topics [?]; Rik 6 "amadery[a]" [?]; Uṇādi and Pāṇini numerals as read [?].
