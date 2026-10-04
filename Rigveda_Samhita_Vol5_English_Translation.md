@@ -3279,8 +3279,88 @@
 
 ---
 
+**Rik 51.7, continued** *(pp. 178–179, PDF 194–195)*
+
+*(Correction to the bhāṣya reading above, from the first Special Topic on p. 178: the Kannada note on* sadhryak *begins "*sadhrīcīnaṃ … yathā bhavati tathā*", so the doubtful phrase after* sadhryak *in the bhāṣya is probably* sadhrīcīnam*, "going together", not my* samyag añcanaṃ *[?]; the line is crowded, still [?].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 178 (continued)**
+- **sadhryak** — "*sadhrīcīnam … yathā bhavati tathā*: this word, joined with the word *hitā*, gives the sense of an army-strength that is mighty and trustworthy and cannot be opposed for any reason. It is a word that conveys, in a simple phrase, all the special qualities of the strength of Devendra."
+- **somapīthāya** — "Here the word *pītha* is used in the sense of drinking."
+- **vṛṣṇyā** — "*vṛṣṇyāni vīryāṇi*: the word *vṛṣṇya*, formed from the root *vṛṣa secane*, 'to sprinkle', gives the sense of *vīrya*, prowess."
+- **vṛśca** — "Its meaning is 'cut'. In the Saṃhitā alone it is pronounced long by the sūtra *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135)."
+
+**Vyākaraṇa-prakriyā** *(pp. 178–179 — grammar pages, noted briefly)*
+- **sadhryak**: *saha añcatīti*; *añcu gatipūjanayoḥ*; *kvin* after the root when a subanta stands as the *upapada* (*ṛtvikdadhṛk…*, Pā. 3-2-59); the nasal of *añc* lost by *aniditāṃ…*; with *saha* in the compound, *sahasya sadhriḥ* (Pā. 6-3-95) gives *sadhri*; *su* elided by *halṅyābbhyo…*; *co kuḥ* (Pā. 8-2-30) turns *c* into *k*; the accent of the final member by *gatikārakopapadāt kṛt* is overridden by the rule that *adrisadhryor antodāttatvaṃ nipātanam* (as read [?]); the semi-vowel by *udāttasvaritayor yaṇaḥ* (Pā. 8-2-4) gives a *svarita*-ending word.
+- **rādhaḥ**: *rādha saṃsiddhau*, "*rādhnoti samṛddho bhavaty anena*"; the Uṇādi *asun* by *sarvadhātubhyo 'sun* (Uṇ. 4-… as read [?]); *rādhas*; initial-acute by *ñnityādir nityam*.
+- **somapīthāya**: *somasya pīthaḥ*; *pā pāne*, *bhvādi*; *thak* by *pātṛtudivaci…* (Uṇ. 2-… as read [?]); *ghumāsthāgāpā…* (Pā. 6-4-66) gives *ī*; dative.
+- **harṣate**: *hṛṣa tuṣṭau*, *divādi*; *laṭ* third singular; *śyan* replaced by *śap* by *vyatyayo bahulam*; *guṇa*; *nighāta*.
+- **cikite**: *kita jñāne*; by *chandasi luṅlaṅliṭaḥ* a *liṭ* in the present passive sense; reduplication; *halādiḥ śeṣaḥ*; *cutva*.
+- **bāhvoḥ**: genitive dual; the vibhakti-accent by *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read [?]).
+- **vṛśca**: *ovraścū chedane*, *tudādi*, *loṭ* second singular *sip*; *tudādibhyaḥ śaḥ*; because *sip* is *apit*, the *śa* is *ṅit*; *saṃprasāraṇa* by *grahijyā…* (Pā. 6-1-16); *hi* for *sip*, elided by *ato heḥ*; accent from the *vikaraṇa*, end-acute; in the Saṃhitā lengthened by *dvyaco 'tas tiṅaḥ*.
+- **vṛṣṇyā**: *vṛṣa secane*; the Uṇādi suffix *nak*: *vṛṣṇa*; *vṛṣṇe bhavāni vṛṣṇyāni*; *bhave chandasi* (Pā. 4-4-110 as read [?]) gives *yat*; *yasyeti ca* drops the *a*; accusative plural *śas* → *śi*, which is lost by *śeś chandasi*; the initial acute by *yato 'nāvaḥ* (Pā. 6-1-213) as the *yat*-ending word. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.6 complete; Rik 51.7 written through the English translation and the first Special Topic *tve* (printed p. 177, PDF 193). The rest of Rik 7's Special Topics and its Vyākaraṇa-prakriyā are on pp. 178– (PDF 194–) and are NOT yet written.**
+### Rik 51.8 (pp. 180–, PDF 196–)
 
-**Next task:** continue at printed p. 178 (PDF 194) with the remaining Special Topics and grammar of Rik 51.7 (begin with a heading "**Rik 51.7, continued**"), then Riks 8–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 Ṛgveda/Brāhmaṇa/Uṇādi/Pāṇini numerals all [?] (long lists of references on Pipru, Ṛjiśvan, Kutsa, Atithigva, Śambara not reconciled); 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [samyag añcanaṃ?]" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6) [sic].
+**Saṃhitā-pāṭha** *(p. 180; accents printed, not reproduced)*
+
+> **वि जानीह्यार्यान्ये च दस्यवो बर्हिष्मते रन्धया शासदव्रतान् ।**
+> **शाकी भव यजमानस्य चोदिता विश्वेत्ता ते सधमादेषु चाकन ॥ ८ ॥**
+
+*vi jānīhy āryān ye ca dasyavo barhiṣmate randhayā śāsad avratān |*
+*śākī bhava yajamānasya coditā viśvet tā te sadhamādeṣu cākana || 8 ||*
+
+**Pada-pāṭha** *(p. 180)*
+
+> वि । जानीहि । आर्यान् । ये । च । दस्यवः । बर्हिष्मते । रन्धय । शासत् । अव्रतान् ।
+> शाकी । भव । यजमानस्य । चोदिता । विश्वा । इत् । ता । ते । सधऽमादेषु । चाकन ॥ ८ ॥
+
+*vi | jānīhi | āryān | ye | ca | dasyavaḥ | barhiṣmate | randhaya | śāsat | avratān |*
+*śākī | bhava | yajamānasya | coditā | viśvā | it | tā | te | sadha-mādeṣu | cākana || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 180–181)*
+
+> **हे इन्द्र त्वमार्यान् कर्मण्यनुष्ठात्रृंस्तान् [?] वि जानीहि । विशेषेण बुध्यस्व । ये च दस्यवस्तेषामनुष्ठातॄणामुपक्षपयितारः शत्रवस्तानपि वि जानीहीति शेषः । ज्ञात्वा च बर्हिष्मते बर्हिषा यज्ञेन युक्ताय यजमानायाव्रतान् । व्रतमिति कर्मनाम । कर्मविरोधिनस्तान् रन्धय । हिंसां प्रापय । यद्वा । यजमानस्य वशं गमय । रध्यतिर्वशगमने (नि. ६-३२ [?]) इति यास्कः । किं कुर्वन् । शासत् दुष्टानामनुशासनं निग्रहं कुर्वन् [?] । अतः शाकी शक्तियुक्तस्त्वं यजमानस्य चोदिता प्रेरको भव । यज्ञविघातकानसुरांस्तिरस्कृत्य यज्ञान्यजमानैः सम्यगनुष्ठापयेति भावः । अहमपि स्तोता ते तव ता तानि पूर्वोक्तानि कर्माणि विश्वेत् सर्वाण्येव सधमादेषु सहमदनयुक्तेषु यज्ञेषु स्तोतुं चाकन । कामये ।**
+
+*he indra tvam āryān karmaṇy anuṣṭhātṝṃs tān [?] vi jānīhi | viśeṣeṇa budhyasva | ye ca dasyavas teṣām anuṣṭhātṝṇām upakṣapayitāraḥ śatravas tān api vi jānīhīti śeṣaḥ | jñātvā ca barhiṣmate barhiṣā yajñena yuktāya yajamānāyāvratān | vratam iti karmanāma | karmavirodhinas tān randhaya | hiṃsāṃ prāpaya | yadvā | yajamānasya vaśaṃ gamaya | radhyatir vaśagamane (ni. 6-32 [?]) iti yāskaḥ | kiṃ kurvan | śāsat duṣṭānām anuśāsanaṃ nigrahaṃ kurvan [?] | ataḥ śākī śaktiyuktas tvaṃ yajamānasya coditā prerako bhava | yajñavighātakān asurāṃs tiraskṛtya yajñān yajamānaiḥ samyag anuṣṭhāpayeti bhāvaḥ | aham api stotā te tava tā tāni pūrvoktāni karmāṇi viśvet sarvāṇy eva sadhamādeṣu sahamadanayukteṣu yajñeṣu stotuṃ cākana | kāmaye |*
+
+*(Reading notes: "*karmaṇy anuṣṭhātṝn*" and "*duṣṭānām*" are crowded in the print — [?]; the Nirukta numeral is as read, [?]. The grammatical tail on p. 180–181 —* jānīhi *with the sūtra* jñājanor jā*,* barhiṣmate*,* randhaya*,* śāsat*,* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is characterized, not transcribed: it argues, as the Kannada grammar notes on p. 183 also do, about the shortening of the root vowel under the rule* prādīnāṃ hrasvaḥ*.)*
+
+**Translation of the bhāṣya:** "O Indra, *vi jānīhi*, discern especially, the *āryān* — those who perform the rites — and also those *dasyavaḥ*, who destroy these performers, the enemies; discern them too (this is understood). Having discerned, *barhiṣmate*, for the sacrificer who is joined with the *barhis*, the sacrifice, *randhaya*, bring to destruction *avratān* the 'vow-less' (*vrata* is a name for ritual action; so, the ones opposed to the rites); or, bring them under the sacrificer's control — 'the root *radh* means "to come under control"' says Yāska — doing what? *śāsat*, doing chastisement, restraint, of the wicked. Therefore, *śākī*, you who are powerful, *yajamānasya coditā bhava*, be the impeller of the sacrificer: having set aside the Asuras who obstruct the sacrifice, let the sacrificers duly perform the sacrifices — such is the sense. And I too, the praiser, *te tā viśvet*, all those deeds of yours, spoken of above, *sadhamādeṣu*, in sacrifices attended by joint delight, to praise them *cākana*, I desire."
+
+**Pratipadārtha** *(p. 181)* — "(O Indra, you) **āryān** — the Āryas (who are wise and perform the rites); **vi jānīhi** — discern by discrimination; **ye ca dasyavaḥ** — and those enemies who are thieves (who harass such Āryas) — (discern them also by discrimination, afterwards); **barhiṣmate** — to the sacrificer who is joined with the sacrifice; **avratān** — the Dasyus who oppose the rites; **śāsat** — punishing (restraining); **randhaya** — make them subject (or: harm them and destroy them); **śākī** — you who are mighty; **yajamānasya** — of the sacrificer; **coditā bhava** — be the impeller (and I, your devotee, also); **te** — your; **tā viśvet** — all those deeds described before; **sadhamādeṣu** — in sacrifices that give you satisfaction; **cākana** — I wish to celebrate (them)."
+
+**Bhāvārtha** *(pp. 181–182)* — "O Indra, discern by discrimination who are the Āryas — the wise and the performers of sacrifice — and who are the Dasyus who, without performing sacrifice, harass these Āryas. Chastise the Dasyus who oppose the rites, and bring them under the control of the sacrificer. And, being powerful, impel the sacrificer to carry the sacrifice through. I too wish to celebrate, in sacrifices that give you satisfaction, all your deeds described before."
+
+**English Translation (the source's own, p. 182)** — "Discriminate between the Aryas, and they who are Dasyus; restraining those who perform no religious rites, compel them to submit to the performer of sacrifices; you are powerful, be the encourage [sic: "encourager"] of the sacrificer; I am desirous of celebrating all your deeds in ceremonies that give you satisfaction."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 182**
+- **āryān** — "By *Āryas* are meant the good people who are attached to the acts prescribed in the Veda — sacrifice and the like — and who practise them; by *dasyus*, those who, in contrast to the acts of the Āryas, behave otherwise and do not perform sacrifice and the like — this becomes clear. Further, these Dasyus were the Kṛṣṇa people [?] (*kappu janaru*, 'black people') who were the former inhabitants of this country and were hostile to the Āryas; not mixing with them, they gave them troubles of many kinds; hence the sages have described them as thieves and as enemies of the gods in various places. *Āryān*: this word, meaning 'worthy of honour', gives the sense of persons who are both learned and performers of sacrifice and ritual."
+- **dasyavaḥ** — "These are lowly people who inflict violence, in various ways, on believers (*āstika*s) who are attached to Vedic acts such as sacrifice. Indra is prayed to be the helper of the people before him, both to protect the believers and to punish the unbelievers."
+- **avratān** — "Those who are without *vrata*, that is, those hostile to all Vedic acts."
+- **randhaya** — "This word may be said to mean either 'do violence' or 'subdue'. The Nirukta sūtra '*radhyatir vaśagamane*' (Ni. 6-32 as read [?]) indicates the latter sense."
+
+  > **रध्यतिर्वशगमने ।** *(Ni. 6-32 as read [?])*
+
+  *radhyatir vaśagamane |* — mine and tentative: "the root *radh* is in the sense of 'coming under control'."
+- **śākī** — "'Possessed of power, all-capable': in this sense the word is an epithet of the name Indra."
+- **viśvā it — viśvet** — "Here the word *it* is used in the sense of 'only' (*evakāra*)."
+- **sadhamādeṣu** — "*sahamadanayukteṣu yajñeṣu stotum*: 'for praising in sacrifices that are joined with common delight'. By the derivation *saha mādyanti eṣu*, 'where they rejoice together', the word *sadhamāda* gives the sense of sacrifice. Because the act the sacrificer does, bound by the consecration (*dīkṣā*), along with the *hotṛ* and the *udgātṛ*, is a sacrifice, the word *sadhamāda* is established in the sense of sacrifice."
+- **cākana** — (p. 183) "Formed from the root *kan*, with the senses 'brightness, desire, motion', this word conveys the sense of desire ('I know' [sic: the print has "ತಿಳಿಯುತ್ತೇನೆ" 'I come to know'? — read 'I wish'])." *(The Kannada word after the parenthesis is a crowded small print; I take the sense from the Pratipadārtha, "I wish".)*
+
+**Vyākaraṇa-prakriyā** *(pp. 181, 183–184 — grammar pages, noted briefly)*
+- **jānīhi**: *jñā avabodhane*, *kryādi*, *loṭ* second singular; *hi* by *sip*'s substitute, which being *apit* is *ṅit*, so *śnā* gives *nī* by *īhal…*; *jñājanor jā* (Pā. 7-3-79 as read [?]) substitutes *jā*; the long *ā*. The Kannada notes record at length the discussion of whether *prādīnāṃ hrasvaḥ* (shortening for the *kryādi* group "*pra…*") applies: on one view the *vṛt-karaṇa* in *plī gatau* ended the group; on another it holds only for *lvādi*; the conclusion is that, because the sūtra *jñājanor jā* itself carries the long vowel's mention (*dīrghoccāraṇa*), no shortening comes here. *Jānīhi*.
+- **barhiṣmate**: *barhir asyāsti iti barhiṣmān*, dative singular; with *matup* the *pada*-designation would apply before it (*sāv… svaraḥ*); here, by *tasau matvarthe*, the word takes the *bha*-designation, so *rutva* and *jaśtva* do not occur; *ṣatva*: *barhiṣmate*.
+- **randhaya**: *radha hiṃsāsaṃrādhyoḥ*, as explained under *āṅ* in an earlier mantra.
+- **śāsat**: *śāsu anuśiṣṭau*, *adādi*; *śatṛ* by *laṭaḥ śatṛśānacau…*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; *jakṣityādayaḥ ṣaṭ* (Pā. 6-1-6) — the seven roots *jakṣ*… are called *abhyasta* even when not reduplicated; so *num* is barred by *nābhyastācchatuḥ* (Pā. 7-1-78 as read [?]); the initial acute by *abhyastānām ādiḥ* (Pā. 6-1-189 as read [?]). *(The continuation of this grammar — on* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is on p. 184, given with the next batch.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: Riks 51.1–51.7 complete; Rik 51.8 written from the Saṃhitā through the Special Topics, and the Vyākaraṇa notes through *śāsat* (printed p. 183, PDF 199). The remaining grammar of Rik 8 (śākī, viśvā, sadhamādeṣu, cākana, on p. 184, PDF 200) is NOT yet written.**
+
+**Next task:** continue at printed p. 184 (PDF 200) — begin with a short "**Rik 51.8, continued**" heading for the last grammar notes, then Riks 9–15 and the close of Sūkta 51 (15 Riks; contents table puts Sūkta 52 at p. 212 — check the print). **User instruction: translate Sūktas 51–54 (52 from p. ≈212, 53 from ≈264, 54 from ≈303); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images: `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if `/tmp/x/w-NNN.jpg` are missing. Flags: 51.1 legend in the introduction unreadable; 51.2 Pada join doubtful; 51.3 and 51.5–51.6 reference numerals all [?]; 51.4 "āsāvariṣṭāḥ" unresolved; 51.7 "sadhryak [sadhrīcīnam?]" crowded [?]; 51.8 "karmaṇy anuṣṭhātṝn" and "duṣṭānām" crowded [?]; source's English: "vaice", "Marnts" (51.2), "propitions" (51.5), "destructlon" (51.6), "encourage" (51.8) [sic].
