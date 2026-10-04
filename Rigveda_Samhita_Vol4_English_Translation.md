@@ -469,12 +469,104 @@ Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
 
 *cakrāṇāsaḥ parīṇahaṃ pṛthivyā hiraṇyena maṇinā śumbhamānāḥ |*
 
----
+### Rik 33.8 (pp. 37–39, PDF 51–53)
+
+**Saṃhitā-pāṭha** *(pp. 36–37; accents not reproduced; the first line was given at the foot of p. 36)*
+
+> **चक्राणासः परीणहं पृथिव्या हिरण्येन मणिना शुम्भमानाः ।**
+> **न हिन्वानासस्तितिरुस्त इन्द्रं परि स्पशो अदधात्सूर्येण ॥ ८ ॥**
+
+*cakrāṇāsaḥ parīṇahaṃ pṛthivyā hiraṇyena maṇinā śumbhamānāḥ |*
+*na hinvānāsas titirus ta indraṃ pari spaśo adadhāt sūryeṇa || 8 ||*
+
+**Pada-pāṭha** *(p. 37)*
+
+> चक्राणासः । परिऽनहम् । पृथिव्याः । हिरण्येन । मणिना । शुम्भमानाः ॥
+> न । हिन्वानासः । तितिरुः । ते । इन्द्रम् । परि । स्पशः । अदधात् । सूर्येण ॥ ८ ॥
+
+*cakrāṇāsaḥ | pari-naham | pṛthivyāḥ | hiraṇyena | maṇinā | śumbhamānāḥ ||*
+*na | hinvānāsaḥ | titiruḥ | te | indram | pari | spaśaḥ | adadhāt | sūryeṇa || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 37; the first half in full, the grammatical tail characterized)*
+
+> ये वृत्रानुचराः पृथिव्या भूमेः परीणहमाच्छादनं सर्वतो व्याप्तिं चक्राणासः कुर्वाणा हिरण्येन हिरण्ययुक्तेन मणिना कण्ठबाह्वादिगतेन मण्याद्याभरणेन शुम्भमानाः शोभमानाः हिन्वानासो वर्धमानाः सन्तो वर्तन्ते ते तथाविधा वृत्रानुचरा इन्द्रं युद्धायोद्यन्तं न तितिरुः । जेतुं न समर्था आसन् । तदानीं स इन्द्रः स्पशो बाधकान्वृत्रानुचरान्सूर्येणादित्येन पर्यदधात् । परिहितान्व्यवहितानकरोत् । तथा च ब्राह्मणम् । आदित्यो हैवोद्यन्पुरस्ताद्रक्षांस्यपहन्तीति ॥
+
+*ye vṛtrānucarāḥ pṛthivyā bhūmeḥ parīṇaham ācchādanaṃ sarvato vyāptiṃ cakrāṇāsaḥ kurvāṇā hiraṇyena hiraṇyayuktena maṇinā kaṇṭhabāhvādigatena maṇyādyābharaṇena śumbhamānāḥ śobhamānāḥ hinvānāso vardhamānāḥ santo vartante te tathāvidhā vṛtrānucarā indraṃ yuddhāyodyantaṃ na titiruḥ | jetuṃ na samarthā āsan | tadānīṃ sa indraḥ spaśo bādhakān vṛtrānucarān sūryeṇādityena paryadadhāt | parihitān vyavahitān akarot | tathā ca brāhmaṇam | ādityo haivodyan purastād rakṣāṃsy apahantīti ||*
+
+**Translation:** "Those followers of Vṛtra who *cakrāṇāsaḥ* — making — a *parīṇaha* of the earth, a covering, an all-round pervasion; *hiraṇyena maṇinā* — shining with golden jewel-ornaments worn on the neck, arms and so on; *hinvānāsaḥ* — growing — *na titiruḥ* — were unable to overcome Indra as he rose for battle: they were not strong enough to conquer. Then that Indra *pari adadhāt* — put round, i.e. cut off, hid away — the *spaśaḥ*, the harassers, the followers of Vṛtra, by means of Sūrya, the Sun. So says a Brāhmaṇa: 'The sun, rising in the east, indeed drives away the rākṣasas.'"
+
+**Grammar within the bhāṣya** *(p. 37, characterized)*: *cakrāṇāsaḥ* (the root *kṛ*, the Vedic *liṭ* in the present sense, the participle *kānac*, *āsuk* augment [the print's cited sūtras are *chandasi liḍ…* and *ājjaser asuk*]; accent on the last syllable by *cit*), *parīṇaham* (root *ṇaha bandhane* with *pari*, *kvip*, and the lengthening of the first member by *nahivṛtivṛṣivyadhiruci…* — Pā. 6-3-116 [as printed]), *pṛthivyāḥ* (the ending acute by the *udāttayaṇo hal-pūrvāt* rule), *hinvānāsaḥ* (root *hi gatau vṛddhau ca*, suffix *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś*, the plural *jas* with *asuk*), *titiruḥ* (root *tṝ*, *liṭ* third plural *us*).
+
+**Pratipadārtha** *(pp. 37–38)* — "(**ye** — those followers of Vṛtra who) **pṛthivyāḥ** — of the earth; **parīṇaham** — a covering all round; **cakrāṇāsaḥ** — making; **hiraṇyena** — with ornaments of gold; **maṇinā** — with those set with gems; **śumbhamānāḥ** — shining; **hinvānāsaḥ** — flourishing; **te** — those rākṣasas; **indram** — Indra; **na titiruḥ** — could not conquer; **spaśaḥ** — those harassing rākṣasas; **sūryeṇa** — by means of the sun; **pari adadhāt** — (Indra) scattered and destroyed."
+
+**Bhāvārtha** *(p. 38)* — "The rākṣasas, the followers of Vṛtra, covered all the earth. They shone with ornaments set with gold and gems, and they were increasing. Yet they could not conquer Indra. With the help of the Sun Indra scattered such oppressing rākṣasas."
+
+**English Translation (the source's own, p. 38)** — "Decorated with gold and jewels they (demons) were spreading over (round) the earth ; but though they were mighty they could not vanquish Indra ; he (Indra) dispersed them (with the light of the Sun) at Sunrise" *(no full stop in the print)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 38** — **parīṇaham** = *ācchādanaṃ sarvato vyāptim*: "pervasion, covering. In the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 6-2-1-1 [?]), in the sentence '*pārīṇahyasyaiśe patnyaivānumataṃ nirvapati*' [as read from the print; the second word is uncertain], the word *pārīṇahya* is used in the sense 'vessels used for household work'."
+
+**Vyākaraṇa-prakriyā** *(pp. 38–39, grammar pages — noted briefly)*: **cakrāṇāsaḥ** (root *(ḍu)kṛñ karaṇe*; *liṭ* shown to be in the present sense by *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः — Pā. 3-4-6; *kānac* for *liṭ* by *liṭaḥ kānajvā* — लिटः कानज्वा — Pā. 3-2-106; doubling by *liṭi dhātor anabhyāsasya* — Pā. 6-1-8; *ur at* — उरत् — Pā. 7-4-66 with *halādiḥ śeṣaḥ*, *ścutva*, then *yaṇ*: *cakrāna*; *na* → *ṇa*; *jas* with the augment *asuk* by *ājjaser asuk* — आज्जसेरसुक् — Pā. 7-1-50; *ru*, *visarga*; the *kānac* ending is *cit* so the word is final-acute — *cita* [Pā. 6-1-163]). **parīṇaham** (*pari* + root *ṇaha bandhane* + *kvip*; lengthening of *pari* by *nahivṛtivṛṣivyadhiruci­sahitanīṣu kvau* — Pā. 6-3-116; *n* → *ṇ* by *aṭkupvāṅnumvyavāye 'pi* — Pā. 8-4-2; accusative singular *am*). **pṛthivyāḥ** (the Uṇādi sūtra *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् संप्रसारणं च — [Uṇ. number as printed: 4-2-?? [?]]; root *prath prakhyāne*, *ṣivan*, *saṃprasāraṇa* of the *r*, giving *pṛthivi*; being *ṣit*, it takes *ṅīṣ* by *ṣiddhaurādibhyaś ca* — Pā. 4-1-41; loss of the *a* by *yasyeti ca* — Pā. 6-4-148; *ī* acute by the suffix accent; the augment *āṭ* before *ṅas* by *āṇ nadyāḥ* — Pā. 7-3-112; *vṛddhi* by *āṭaś ca* — Pā. 6-1-90; *yaṇ* in place of the acute *ī*; the ending acute by *udāttayaṇo hal-pūrvāt* — Pā. 6-1-174). **hinvānāsaḥ** (root *hi gatau vṛddhau ca*, with *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś* — Pā. 3-2-129 — "of a habitual nature, age, power": the sense is "growing by habit"; *śnu* by *svādibhyaḥ śnuḥ* — Pā. 3-1-73; *yaṇ* by *huśnuvoḥ…*; *jas* with *asuk*; *ru*, *visarga*). Rik 8 ends here (*|| 8 ||*).
+
+### Rik 33.9 (pp. 39–42, PDF 53–56)
+
+**Saṃhitā-pāṭha** *(p. 39; accents not reproduced)*
+
+> **परि यदिन्द्र रोदसी उभे अबुभोजीर्महिना विश्वतः सीम् ।**
+> **अमन्यमानाँ अभि मन्यमानैर्निर्ब्रह्मभिरधमो दस्युमिन्द्र ॥ ९ ॥**
+
+*pari yad indra rodasī ubhe abubhojīr mahinā viśvataḥ sīm |*
+*amanyamānām̐ abhi manyamānair nir brahmabhir adhamo dasyum indra || 9 ||*
+
+**Pada-pāṭha** *(p. 40)*
+
+> परि । यत् । इन्द्र । रोदसी इति । उभे इति । अबुभोजीः । महिना । विश्वतः । सीम् ॥
+> अमन्यमानान् । अभि । मन्यमानैः । निः । ब्रह्मऽभिः । अधमः । दस्युम् । इन्द्र ॥ ९ ॥
+
+*pari | yat | indra | rodasī iti | ubhe iti | abubhojīḥ | mahinā | viśvataḥ | sīm ||*
+*amanyamānān | abhi | manyamānaiḥ | niḥ | brahma-bhiḥ | adhamaḥ | dasyum | indra || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 40; the first half in full, the grammatical tail characterized)*
+
+> हे इन्द्र यद्यदा रोदसी उभे द्युलोकभूलोकावुभौ महिना त्वदीयेन महिम्ना विश्वतः सीं सर्वतः परिगृह्य पर्यबुभोजीः परितो भुक्तवानसि । तदानीं त्वममन्यमानान्मन्त्रार्थमनुध्यातुमशक्तानपि केवलपाठकान्यजमानानभि मन्यमानैरस्मदीया एते यजमाना रक्षणीया इत्यभिमानं कुर्वद्भिर्ब्रह्मभिर्मन्त्रैर्दस्युं चोरं वृत्रादिरूपमसुरं निरधमः । निःसारितवानसि । धमतिर्गतिकर्मा । नि. ६-३ [?] । इति यास्कः ॥
+
+*he indra yad yadā rodasī ubhe dyulokabhūlokāv ubhau mahinā tvadīyena mahimnā viśvataḥ sīṃ sarvataḥ parigṛhya paryabubhojīḥ parito bhuktavān asi | tadānīṃ tvam amanyamānān mantrārtham anudhyātum aśaktān api kevalapāṭhakān yajamānān abhi manyamānair asmadīyā ete yajamānā rakṣaṇīyā ity abhimānaṃ kurvadbhir brahmabhir mantrair dasyuṃ coraṃ vṛtrādirūpam asuraṃ nir adhamaḥ | niḥsāritavān asi | dhamatir gatikarmā | ni. 6-3 [?] | iti yāskaḥ ||*
+
+**Translation:** "O Indra, when you *paryabubhojīḥ* — enclosed on every side, *viśvataḥ sīm*, the two *rodasī*, heaven and earth, with your greatness, and enjoyed them all round — then, with *brahmabhiḥ*, mantras uttered by those who hold that 'these sacrificers are ours, to be protected' (*manyamānaiḥ*, 'those who have this conviction'), on behalf of sacrificers who are *amanyamānān* — mere reciters, unable to reflect on the meaning of the mantras — you *nir adhamaḥ* — drove out — the *dasyu*, the robber, the asura Vṛtra and the like. *Dhamati* is a verb of motion — so says Yāska (Ni. 6-3 [?])."
+
+**Grammar within the bhāṣya** *(pp. 40, characterized)*: *abubhojīḥ* (root *bhuja pālanābhyavahārayoḥ*, *laṅ*, *sip*; the *vikaraṇa* elided by *ślu* by *bahulaṃ chandasi*, Pā. 2-4-76 [as I read it]; *īṭ* augment [Pā. 7-3-97 [?]], *aṭ* augment, *ru*, *visarga*; no total unaccent because the word contains *yat*), *mahinā* (= *mahimnā*: *imanic* by *pṛthvādibhya imanij vā* [Pā. 5-1-122 [?]], *ṭi*-loss, loss of *m* — Vedic), *amanyamānān* (root *mana jñāne* with *śyan*, *dīrghād aṭi samānapāde* and the nasalisation; the *nañ*-compound keeps the indeclinable's accent).
+
+**Pratipadārtha** *(p. 40)* — "**indra** — O Indra; **yat** — when (you); **ubhe rodasī** — both earth and the mid-region [as printed in Kannada; *rodasī* is elsewhere glossed "heaven and earth"]; **mahinā** — by your greatness; **viśvataḥ sīm** — pervading all round; **pari abubhojīḥ** — you enjoyed all (when); **amanyamānān** — (not knowing the meaning of the mantras) the sacrificers who merely recite the mantras; **abhimanyamānaiḥ** — (with the mantras that hold the conviction 'we must protect the sacrificers who are ours'); **dasyum** — the thief in the form of Vṛtra; **niḥ adhamaḥ** — you drove out [blew away]."
+
+**Bhāvārtha** *(p. 41)* — "O Indra, you are all-powerful and the protector of those who depend on you. By your greatness you pervade both the earth and the mid-region and you enjoy the lordship of both worlds. Even for sacrificers who do not understand the meaning of the mantras and merely recite them, you were pleased by the mantras that praise them with the thought 'these are ours; we must protect them', and you drove out the robber Vṛtra."
+
+**English Translation (the source's own, p. 41)** — "Indra, when you surrounded heaven and earth with your greatness simultaneously on all sides, you have blown away the robber ( Vritra ) being pleased with the prayers of those who know how to worship on behalf of those who do not worship."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 41** — **sīm**: "Yāska says: *sīm iti parigrahārthīyo vā padapūraṇo vā* (Ni. 1-7 [?]) — '*sīm* is a word of the sense of "taking all round", or a mere filler of the verse'. That is, one uses the word *sīm* when one wishes to convey the sense of encompassing, or merely to fill out the foot. Here the bhāṣyakāra has given the sense of encompassing."
+
+**Vyākaraṇa-prakriyā** *(pp. 41–42, grammar pages — noted briefly)*: **abubhojīḥ** (root *bhuja pālanābhyavahārayoḥ* "protecting, eating"; *laṅ*, *sip*; *ślu* for the *vikaraṇa* by *bahulaṃ chandasi* — Pā. 2-4-76, the *bahulam* extending *ślu* even to roots outside the *juhotyādi* class, so that the *śnam* of this root is elided; doubling by *ślau*; *laghūpadha-guṇa*; the *īṭ* augment *bahulaṃ chandasi* [Pā. 7-3-97 [?]]; *aṭ*; *ru*, *visarga*). **mahinā** (= *mahimnā*; *mahat* + *imanic* by *pṛthvādibhya imanij vā* — पृथ्वादिभ्य इमनिज्वा — Pā. 5-1-122; loss of *ṭi* by *ṭeḥ* — Pā. 6-4-155; the *ṭāp*-type ending lowered; *alloponaḥ* — अल्लोपोऽनः — Pā. 6-4-134, loss of the *a* of *an* before a vowel-initial ending; and the Vedic loss of *m*; the *ṭā* ending acute through the *anudāttasya ca yatrodāttalopaḥ* — Pā. 6-1-161 rule). **amanyamānān** (root *mana jñāne*; *śyan* by *divādibhyaḥ śyan* — Pā. 3-1-69; *śānac* by *laṭaḥ śatṛśānacau*; *āne muk*; accusative plural; *n* → *ru* and nasalisation of the preceding vowel by *dīrghād aṭi samānapāde* and *ato 'nunāsikaḥ…* [Pā. 8-3-9, 8-3-2 [?]]). Rik 9 ends here (*|| 9 ||*).
+
+### Rik 33.10 (p. 42 onward, PDF 56–)
+
+**Saṃhitā-pāṭha** *(p. 42; accents not reproduced)*
+
+> **न ये दिवः पृथिव्या अन्तमापुर्न मायाभिर्धनदां पर्यभूवन् ।**
+> **युजं वज्रं वृषभश्चक्र इन्द्रो निर्ज्योतिषा तमसो गा अदुक्षत् ॥ १० ॥**
+
+*na ye divaḥ pṛthivyā antam āpur na māyābhir dhanadāṃ paryabhūvan |*
+*yujaṃ vajraṃ vṛṣabhaś cakra indro nir jyotiṣā tamaso gā adukṣat || 10 ||*
+
+**Pada-pāṭha** *(the first line only, at the foot of p. 42; the rest on p. 43 is not yet written)*
+
+> न । ये । दिवः । पृथिव्याः । अन्तम् । आपुः । न । मायाभिः । धनऽदाम् । परि । अभूवन् ।
+
+*na | ye | divaḥ | pṛthivyāḥ | antam | āpuḥ | na | māyābhiḥ | dhana-dām | pari | abhūvan |*
 
 ---
 
-**Progress note — Volume 4, Sūkta 33 in progress: printed p. 36 (PDF 50) reached; Riks 33.1–33.7 complete; Rik 33.8's first Saṃhitā line written (foot of p. 36).**
+---
 
-**Next task:** continue at printed p. 37 (PDF 51): the rest of Rik 8's Saṃhitā, its Pada, bhāṣya etc. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 51 -l 84 Rig_Vol4.pdf /tmp/v`.
+**Progress note — Volume 4, Sūkta 33 in progress: printed p. 42 (PDF 56) reached; Riks 33.1–33.9 complete; Rik 33.10's Saṃhitā and the first line of its Pada written (foot of p. 42).**
+
+**Next task:** continue at printed p. 43 (PDF 57): the rest of Rik 10's Pada, its bhāṣya etc. Sūkta 33 runs to about printed p. 70 (PDF 84); the user asked to stop at its end. Rendered pages are in the scratchpad as `v-NNN.jpg` (150 dpi, PDF 15–84) and may need re-rendering in a fresh session: `pdftoppm -jpeg -r 150 -f 57 -l 84 Rig_Vol4.pdf /tmp/v`.
 
 **Open flags:** (1) Preface (PDF 7–10) not translated. (2) *arkyaiḥ* (print) vs *arkaiḥ* (bhāṣya) in Rik 2 recorded as printed. (3) Sūtra and Ṛgveda/Nirukta reference numerals marked [?] are unverified; the others are as read from the print. (4) My tentative glosses of the two *sanakāt* ṛks (Rik 4) and the six *navagva* half-verses (Rik 6) are mine, not the source's. (5) A few doubtful words in the bhāṣya of Riks 6–7 (*pratyayuyutsan*, *sukaśyair*, the *navagvāsaḥ* citation, "*vināśya [?]*"). (6) CLAUDE.md still names Volume 3; update at the end of Sūkta 33.
