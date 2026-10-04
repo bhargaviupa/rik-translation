@@ -4008,12 +4008,161 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+### Rik 37.4 (continued) — Special Topics and grammar (pp. 264–265, PDF 278–279)
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 264**
+- **śardhāya** = *prasahanaśīlāya*: "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 2-9 [?]), *śardhāya* means 'powerful, endowed with strength'."
+- **ghṛṣvaye** = *ghṛṣu saṃgharṣe | śatrughar­ṣaṇayuktāya*: "one who fights, who battles with the enemy."
+- **tveṣadyumnāya** — "*tveṣa* means shining; *dyumna* means fame (Ni. 5-5 [?]); *tveṣadyumna* means one whose fame is praised by all."
+- **śuṣmiṇe** — "since *śuṣma* is read among the same twenty-eight names for strength, *śuṣma* means strength; *śuṣmiṇe* means 'strong' (with the Maruts in view)."
+- **devattam** = *daivair dattam | devatānugrahāl labdham*: "here, for the convenience of the metre, the *d* of the word *daivair dattam* is lost, giving the form *devattam*: 'given by the gods, obtained through the gods' favour'."
+- **brahma** — "since *brahma* is read among the twenty-eight names for food beginning *andhaḥ*, *vājaḥ* (Ni. 2-7 [?]), the word *brahma* here means food in the form of the oblation, *havirlakṣaṇam uddiśya havissvarūpam annam*."
+- **brahma gāyata** — "praying that food be given, sing the praises of the Marut deities."
+
+**Vyākaraṇa-prakriyā** *(pp. 264–265 — grammar pages, noted briefly)*
+- **śardhāya**: root *śṛdhu prasahane*, *curādi*; *śardhayatīti śardhaḥ* — "strength that mocks enemies"; the *pacādi* suffix *ac*; *vṛṣādīnāṃ ca* — वृषादीनां च — [Pā. 6-1-203]: first-syllable acute.
+- **ghṛṣvaye**: root *ghṛṣu saṃgharṣe*, class 1; *kavighṛṣvi…* [Uṇ. 4-[?], numerals as read not secure]: the form *ghṛṣvi*, ending in *kvin*, is given by *nipātana*.
+- **tveṣadyumnāya** (p. 265): root *tviṣa dīptau*, the *pacādi* suffix *ac*, *laghūpadha-guṇa*; *tveṣam* = shining, *dyumnam* = fame, *yasya saḥ*: a bahuvrīhi; the first member keeps its natural accent.
+- **devattam**: *daivaiḥ dattam*, a tatpuruṣa compound; *tṛtīyā karmaṇi* — तृतीया कर्मणि — [Pā. 6-2-48]: the first member keeps its natural accent; the Kāśikā-authors, on *pṛṣodarādīni yathopadiṣṭam* — पृषोदरादीनि यथोपदिष्टम् — [Pā. 6-3-109], say *dvau cāparau varṇavikāranāśau* — "two further operations: change of one letter [into another], and loss of a letter"; of these two, here the *d* is lost. Rik 4 ends here (*|| 4 ||*).
+
+### Rik 37.5 (pp. 265–267, PDF 279–281)
+
+**Saṃhitā-pāṭha** *(p. 265; accents not reproduced)*
+
+> **प्र शंसा गोष्वघ्न्यं क्रीळं यच्छर्धो मारुतम् ।**
+> **जम्भे रसस्य वावृधे ॥ ५ ॥**
+
+*pra śaṃsā goṣv aghnyaṃ krīḷaṃ yac chardho mārutam |*
+*jambhe rasasya vāvṛdhe || 5 ||*
+
+**Pada-pāṭha** *(p. 265)*
+
+> प्र । शंस । गोषु । अघ्न्यम् । क्रीळम् । यत् । शर्धः । मारुतम् ॥
+> जम्भे । रसस्य । ववृधे ॥ ५ ॥
+
+*pra | śaṃsa | goṣu | aghnyam | krīḷam | yat | śardhaḥ | mārutam ||*
+*jambhe | rasasya | vavṛdhe || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 265–266; the first half in full, the grammatical tail characterized)*
+
+> गोषु मरुन्मातृभूतपृश्निप्रभृतिषु धेनुष्ववस्थितम् । पृश्न्यै वै पयसो मरुतो जाताः । तै. सं. २-२-११-४ [?] । इति श्रुत्यन्तरात् । अघ्न्यमहन्तव्यं क्रीळं विहारोपेतं मारुतं मरुत्सम्बन्धि शर्धः प्रसहनशीलं तेजो यदस्ति तत्र शंस । हे ऋत्विक्समूह स्तुहि । रसस्य गोक्षीररूपस्य सम्बन्धि तत्तेजो जम्भे मुख उदरे वा ववृधे । वृद्धमभूत् ॥ शंस । शन्सु स्तुतौ । द्व्यचोऽतस्तिङः इति संहितायां दीर्घः । गोषु । सावेकाच इति प्राप्तस्य विभक्त्युदात्तस्य न गोश्वन्साववर्णेति प्रतिषेधः । अघ्न्यम् । घ्नो हननं । घञर्थे कविधानं । पा. ३-३-५८ [?] । इति कः । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ । इति घत्वं । तदर्हतीति घ्न्यं । छन्दसि चेति यः । न घ्न्यमघ्न्यम् । अव्ययेपूर्वपदप्रकृतिस्वरत्वम् । क्रीळादयो गताः । जम्भे । जभि नाशने । जम्भ्यते भक्ष्यतेऽनेनेति जम्भमास्यं । करणे घञ् । ववृधे । वृधु वृद्धौ । लिट् । छान्दसं संहितायामभ्यासदीर्घत्वम् ॥
+
+*goṣu marunmātṛbhūtapṛśniprabhṛtiṣu dhenuṣv avasthitam | pṛśnyai vai payaso maruto jātāḥ | tai. saṃ. 2-2-11-4 [?] | iti śrutyantarāt | aghnyam ahantavyaṃ krīḷaṃ vihāropetaṃ mārutaṃ marutsambandhi śardhaḥ prasahanaśīlaṃ tejo yad asti tatra śaṃsa | he ṛtviksamūha stuhi | rasasya gokṣīrarūpasya sambandhi tat tejo jambhe mukha udare vā vavṛdhe | vṛddham abhūt || śaṃsa | śansu stutau | dvyaco 'tastiṅaḥ iti saṃhitāyāṃ dīrghaḥ | goṣu | sāvekāca iti prāptasya vibhaktyudāttasya na gośvansāvavarṇeti pratiṣedhaḥ | aghnyam | ghno hananaṃ | ghañarthe kavidhānaṃ | pā. 3-3-58 [?] | iti kaḥ | gamahanetyādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 | iti ghatvaṃ | tad arhatīti ghnyaṃ | chandasi ceti yaḥ | na ghnyam aghnyam | avyayepūrvapadaprakṛtisvaratvam | krīḷādayo gatāḥ | jambhe | jabhi nāśane | jambhyate bhakṣyate 'neneti jambham āsyaṃ | karaṇe ghañ | vavṛdhe | vṛdhu vṛddhau | liṭ | chāndasaṃ saṃhitāyām abhyāsadīrghatvam ||*
+
+*(Reading note: "ghno hananam" is as printed; the root-form of* aghnyam *is explained in the grammar below.)*
+
+**Translation:** "*Goṣu* — in the cows, [that is] in the milch cows such as Pṛśni, the mothers of the Maruts ('from Pṛśni's milk the Maruts were born', Tai. Saṃ. 2-2-11-4 [?], from another Vedic text): *aghnyam* — indestructible, *krīḷam* — endowed with sport, *mārutam* — belonging to the Maruts, *śardhaḥ* — that energy whose nature is overpowering — *yat* — which exists: praise (*śaṃsa* = *stuhi*) that, O company of priests. *Rasasya* — that energy relating to the [*rasa*, the] milk of the cow, *jambhe*, in the mouth or belly, *vavṛdhe* — grew."
+
+**Pratipadārtha** *(p. 266)* — "**goṣu** — (O priests) in the milch cows, beginning with Pṛśni, who are the mothers of the Maruts, [that is, in them]; **aghnyam** — indestructible; **krīḷam** — endowed with sport; **mārutam** — belonging to the Maruts; **śardhaḥ** — the energy that has the strength to restrain enemies; **yat (asti)** — whatever it is (with regard to that); **pra śaṃsa** — praise [with hymns]; **rasasya** — [that energy] which is nourished by the milk of the cows; **jambhe** — in the mouth; **vavṛdhe** — grew."
+
+**Bhāvārtha** *(p. 266)* — "In the mouth of the Marut deities there is an extraordinary energy. That energy was nourished by the milk of the heavenly cows, Pṛśni and the rest, the mothers of the Maruts; for that very reason it has a divine radiance. It cannot be destroyed by enemies: it is indestructible, with the power to restrain enemies. Because it is always engaged in sport and enjoys itself, the Marut deities experience that joy, and by the help of that energy give joy to their devotees as well. Praise that divine energy, and sing hymns to it."
+
+**English Translation (the source's own, p. 266)** — "Praise the sportive and resistless might of the Maruts who were born amongst cows and whose strength has been nourished by milk·" *(the print ends with a raised dot)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 266–267**
+- **goṣu** = *marunmātṛbhūtapṛśniprabhṛtiṣu*: "in the cows called Pṛśni, said to be the mothers of the Maruts. According to the Taittirīya Śruti statement '*pṛśnyai vai payaso marutaḥ jātāḥ*' (Tai. Saṃ. 2-2-11-4 [?]) it is famed that the Marut deities were born from the milk of Pṛśni, the cow of the heavenly world."
+- **śaṃsa** — "for the convenience of the metre the *a* is long [*śaṃsā*] in the Saṃhitā text."
+- **aghnyam** = *ahantavyam*: "that which cannot be killed; not to be harmed, and the like."
+- **jambhe** = *mukhe udare vā*: "in the mouth or in the belly."
+- **rasasya** = *gokṣīrarūpasya sambandhi*: "relating to the milk of the cow Pṛśni — the energy."
+
+**Vyākaraṇa-prakriyā** *(pp. 267, PDF 281 — grammar page, noted briefly)*
+- **śaṃsā**: root *śaṃsu stutau*, *loṭ*, second-person singular; *dvyacotastiṅaḥ* — द्व्यचोऽतस्तिङः — in the Saṃhitā the *a* of a two-vowelled *tiṅ*-form is lengthened.
+- **goṣu**: "here the case-ending stands after the word *go*; the acute on the ending that would come by *sāvekācas tṛtīyādir vibhaktiḥ* is prohibited by *na gośvansāvavarṇa…* (quoted in part in the print)."
+- **aghnyam**: root *han hiṃsāgatyoḥ*; *ghañarthe kavidhānam…* — [Pā. 3-3-58, as read]: the suffix *ka* in the sense of *ghañ*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — the penultimate *a* of the root is lost; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — [Pā. 7-3-54]: *h* becomes *gh*: *ghna*, "killing"; *ghnam arhati iti ghnyam* — "one fit for killing"; *chandasi ca* — छन्दसि च — [Pā. 5-1-67]: *yat* in the Veda after a prātipadika in the second case in the sense *arhati*; *na ghnyam = aghnyam*, a nañ-tatpuruṣa; the first member, an indeclinable, keeps its natural accent — "the enumeration *avyaye nañ ku…* [as read] must not be forgotten."
+- **krīḷam, śardhaḥ, mārutam**: "explained in the first mantra of this sūkta."
+- **jambhe**: root *jabhi nāśane*, *curādi*; *jabhyate = nāśyate 'nena iti jambham*, "that by which things eaten are destroyed", that is, the instrument of eating — *jambha* = mouth; *karaṇe ghañ*.
+- **vāvṛdhe** [the Saṃhitā form of *vavṛdhe*]: root *vṛdhu vṛddhau*; *liṭ*, doubling; *liṭas tajhayor eśirec*: *e*; *ur at* — उरत् — (number not read): *a* for the *ṛ* of the reduplicate, with *raparatva*; *halādiḥ śeṣaḥ*: loss of the *r* and *dh*; *vavṛdh + e*; *kṅiti ca*: no *guṇa*; the lengthening of the reduplicate in the Saṃhitā is Vedic. Rik 5 ends here (*|| 5 ||*).
+
+### Rik 37.6 (pp. 268–270, PDF 282–284)
+
+**Saṃhitā-pāṭha** *(p. 268; accents not reproduced)*
+
+> **को वो वर्षिष्ठ आ नरो दिवश्च ग्मश्च धूतयः ।**
+> **यत्सीमन्तं न धूनुथ ॥ ६ ॥**
+
+*ko vo varṣiṣṭha ā naro divaś ca gmaś ca dhūtayaḥ |*
+*yat sīm antaṃ na dhūnutha || 6 ||*
+
+**Pada-pāṭha** *(p. 268)*
+
+> कः । वः । वर्षिष्ठः । आ । नरः । दिवः । च । ग्मः । च । धूतयः ॥
+> यत् । सीम् । अन्तम् । न । धूनुथ ॥ ६ ॥
+
+*kaḥ | vaḥ | varṣiṣṭhaḥ | ā | naraḥ | divaḥ | ca | gmaḥ | ca | dhūtayaḥ ||*
+*yat | sīm | antam | na | dhūnutha || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 268; the first half in full, the grammatical tail characterized)*
+
+> दिवश्च द्युलोकस्यापि ग्मश्च भूलोकस्यापि । गौर्ग्मेति भूनामसु पठितत्वात् । धूतयः कम्पनकारिणो हे नरो नेतारो मरुतो वो युष्माकं मध्य आ समन्ताद्वर्षिष्ठो वृद्धतमः कः । यद्यस्मात्कारणात्सीं सर्वतोऽन्तं न वृक्षाग्रमिव धूनुथ चालयथ । तस्मात्कारणात्कम्पयितॄणां युष्माकं मध्ये कः प्रबल इति प्रश्नः ॥ वर्षिष्ठः । वृद्धशब्दादिष्ठनि प्रियस्थिरेत्यादिना वर्षादेशः । नित्त्वादाद्युदात्तः । ग्मः । ग्माशब्दात्षष्ठ्येकवचन आतो धातोरित्यत्र आत इति योगविभागः कर्तव्यः । का. ६-४-१४० [?] । इत्यकृत्त्वादाकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । धूतयः । धूञ् कम्पने । क्तिच्क्तौ च संज्ञायामिति क्तिच् । तितुत्रेत्यादिनेट्प्रतिषेधः । आमन्त्रितस्य चेति सर्वानुदात्तत्वम् । धूनुथ । स्वादिभ्यः श्नुः । सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति वचनात्सति शिष्टोऽपि विकरणस्वरो लसार्वधातुकस्वरं न बाधते । अतस्तिज् एव स्वरः । यद्वृत्तयोगादनिघातः ॥
+
+*divaś ca dyulokasyāpi gmaś ca bhūlokasyāpi | gaur gmeti bhūnāmasu paṭhitatvāt | dhūtayaḥ kampanakāriṇo he naro netāro maruto vo yuṣmākaṃ madhya ā samantād varṣiṣṭho vṛddhatamaḥ kaḥ | yad yasmāt kāraṇāt sīṃ sarvato 'ntaṃ na vṛkṣāgram iva dhūnutha cālayatha | tasmāt kāraṇāt kampayitṝṇāṃ yuṣmākaṃ madhye kaḥ prabala iti praśnaḥ || varṣiṣṭhaḥ | vṛddhaśabdād iṣṭhani priyasthiretyādinā varṣādeśaḥ | nittvād ādyudāttaḥ | gmaḥ | gmāśabdāt ṣaṣṭhyekavacana āto dhātor ity atra āta iti yogavibhāgaḥ kartavyaḥ | kā. 6-4-140 [?] | ity akṛttvād ākāralopaḥ | udāttanivṛttisvareṇa vibhaktir udāttatvam | dhūtayaḥ | dhūñ kampane | kticktau ca saṃjñāyām iti ktic | titutretyādineṭpratiṣedhaḥ | āmantritasya ceti sarvānudāttatvam | dhūnutha | svādibhyaḥ śnuḥ | sati śiṣṭasvarabalīyastvam anyatra vikaraṇebhya iti vacanāt sati śiṣṭo 'pi vikaraṇasvaro lasārvadhātukasvaraṃ na bādhate | atas tiṅ eva svaraḥ | yadvṛttayogād anighātaḥ ||*
+
+**Translation:** "*Divaḥ ca* — of the heavenly world — and *gmaḥ ca* — of the earthly world ('*gauḥ*', '*gmā*' being read among the names of the earth) — *dhūtayaḥ* — O shakers — *naraḥ* — leaders, Maruts: among you *ā* — all round — who is *varṣiṣṭhaḥ*, the greatest, the most grown? *Yat* — since you *sīm* — on all sides — *antam na dhūnutha* — shake, set in motion, as it were the tip of a tree: therefore, among you who shake, who is the mighty one? — such is the question."
+
+**Grammar within the bhāṣya** *(p. 268, characterized)*: *varṣiṣṭhaḥ* (*iṣṭhan* after *vṛddha*; *priyasthirasphirorubahulaguruvṛddha…*: *varṣi* in place of *vṛddha*; *nit*, so first-syllable acute); *gmaḥ* (sixth-case singular of *gmā*; the sūtra *āto dhātoḥ* is to be divided so that *ātaḥ* is a separate rule, as the Kāśikā [6-4-140 [?]] states: the *ā* is lost because the word is not a *kṛdanta*; the ending is acute by the *udāttanivṛtti* accent); *dhūtayaḥ* (*dhūñ kampane*; *ktic*; *titutra…*: no *iṭ*; *āmantritasya ca*: wholly unaccented); *dhūnutha* (*śnu*; the maxim that an accent remaining [*śiṣṭa*] is stronger except against *vikaraṇa*-accents — so the *vikaraṇa*'s accent does not override the *lasārvadhātuka* accent; therefore the *tiṅ* alone has the accent; no lowering, since *yat* is connected).
+
+**Pratipadārtha** *(pp. 268–269)* — "**divaḥ ca** — of the heaven-world also; **gmaḥ ca** — of the earth-world also; **dhūtayaḥ** — [you who are] the shakers, who make both worlds tremble; **naraḥ** — O heroic Maruts; **yat** — for which reason; **sīm** — all round [on both worlds]; **antam na** — as the tip [of a tree is easily made to shake]; **dhūnutha** — you shake (for that reason, by that powerful host); **vaḥ** — among you; **ā** — such; **varṣiṣṭhaḥ** — the eldest, the most powerful; **kaḥ** — who?"
+
+**Bhāvārtha** *(p. 269)* — "O Maruts, your prowess is beyond that of man. As easily as one can shake the top of a tree, with that same ease, without any effort, you make heaven and earth tremble. Though all of you are endowed with extraordinary strength, the strength of your leader must be greater than that of all. Who is that leader among you, of great prowess, who gives you encouragement?"
+
+**English Translation (the source's own, p. 269)** — "Agitators of heaven and earth, who is chief leader among you who shake all around like the top of tree ?" *(printed so, with "who" in raised type at "whᵒ"; no full stop)*.
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 269**
+- **varṣiṣṭhaḥ** = *vṛddhatamaḥ*: "the most strong, the one endowed with the greatest power, the chief leader, the very mighty."
+- **gmaś ca** — "of the earth. Since the word *gmā* is read among the twenty-one names of the earth beginning with *gauḥ*, *gmā* (Ni. 1-1 [?]), *gmaḥ* means 'of the earth'. It is the sixth-case singular of *gmā*."
+- **dhūtayaḥ, dhūnutha** = *dhūñ kampane*: "as the swiftly blowing wind shakes trees and the like with ease, so the Marut deities are able with ease to shake the heavenly world and the earth: this is the chief sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 269–270, PDF 283–284 — grammar pages, noted briefly)*
+- **varṣiṣṭha** (p. 269): "in the sense of excess, after *vṛddha*, *atiśāyane tamabiṣṭhanau* gives *iṣṭhan* [the print's letters read 'iṣman', evidently a misprint for *iṣṭhan*]; *priyasthirasphirorubahulaguruvṛddha…* — प्रियस्थिरस्फिरोरुबहुलगुरुवृद्ध… — [Pā. 6-4-157] (the sūtra is quoted only in part in the print): *varṣi* replaces *vṛddha* before *iṣṭhan* etc.; the suffix *iṣṭhan* is *nit*, hence the word is first-syllable acute."
+- **gmaḥ** (p. 270): after *gmā*, the sixth-case singular *ṅas*; *gmā + as*; *āto dhātoḥ* — आतो धातोः — [Pā. 6-4-140]: "here *āt* is divided off as a separate rule; its sense is that the *ā* which forms the end of a *bha*-named base is lost"; thereby the *ā* of *gmā* is lost; *anudāttasya ca yatrodāttalopaḥ* — the ending is acute through the *udāttanivṛtti* accent.
+- **dhūtayaḥ**: root *dhūñ kampane*, *svādi*; *ktic ktau ca saṃjñāyām*: *ktic*; *titutra…*: no *iṭ* for *ti*; *āmantritasya ca* — the eighth *adhyāya*'s [Pā. 8-1-19]: wholly unaccented.
+- **dhūnutha**: root *dhūñ*, *laṭ*, second-person plural *tha*; *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः — [Pā. 3-1-73]: *śnu* as the *vikaraṇa*; *dhū + nu + tha*; since the *śnu* comes at the end the accent that comes to it is *satiśiṣṭa*; the dictum *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* — "the *satiśiṣṭa* accent is stronger, except against the *vikaraṇas*" — means the accent from the *vikaraṇa* is not stronger; the accent of the *tiṅ* alone remains. *Yat sīmantam*: the relative *yat* is connected, so *yadvṛttānnityam* forbids the wholly-unaccented. Rik 6 ends here (*|| 6 ||*).
+
+### Rik 37.7 (pp. 270–, PDF 284–)
+
+**Saṃhitā-pāṭha** *(p. 270; accents not reproduced)*
+
+> **नि वो यामाय मानुषो दध्र उग्राय मन्यवे ।**
+> **जिहीत पर्वतो गिरिः ॥ ७ ॥**
+
+*ni vo yāmāya mānuṣo dadhra ugrāya manyave |*
+*jihīta parvato giriḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 270)*
+
+> नि । वः । यामाय । मानुषः । दध्रे । उग्राय । मन्यवे ॥
+> जिहीत । पर्वतः । गिरिः ॥ ७ ॥
+
+*ni | vaḥ | yāmāya | mānuṣaḥ | dadhre | ugrāya | manyave ||*
+*jihīta | parvataḥ | giriḥ || 7 ||*
+
+*(The Saṃhitā's "dadhra ugrāya" is the Pada's* dadhre | ugrāya*, with* e *changed to* a *before the vowel, by Vedic sandhi.)*
+
+**Sāyaṇa-bhāṣya** *(p. 271; the first half in full, the grammatical tail characterized)*
+
+> हे मरुतो वो युष्माकं यामाय गमनार्थं मानुषो गृहस्वामी कश्चिन्मनुजो नि दध्रे । गृहदार्ढ्यार्थं दृढं स्तम्भं निक्षिप्तवान् । भवदीयगमनेन चालितं गृहं पतिष्यतीति भीत्या तन्निवारणाय दृढस्तम्भप्रक्षेपः । कीदृशाय यामाय । उग्राय तीव्राय मन्यवे चालनार्थमभिमन्यमानाय । युज्यते हि भवद्गमनाद्भीतिः । यतो भवद्गत्या चालितः पर्वतो बहुविधपर्वयुक्तो गिरिः शिखरी जिहीत गच्छेत् ॥ मानुषः । मनोर्जाताववश्यतौ षुक् च । पा. ४-१-१६१ । इति मनुशब्दादपत्यार्थेऽञ् षुगागमश्च । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । दध्रे । धृ अवस्थाने [the indicatory letter of the root is not clear in the print] इत्यस्य लिटि कित्त्वाद्गुणाभावे सति यणादेशः । प्रत्ययस्वरः । पादादित्वान्न निघातः । जिहीत । ओहाङ् गतौ लिङ् जुहोत्यादित्वाच्छपः श्लुः । भृञामित् । पा. ७-४-७६ । इत्यभ्यासस्येत्वम् । शाभ्यस्तयोरात इत्याकारलोपः । पर्ववान् पर्वतः । मत्वर्थीयस्तप्रत्ययः ॥
+
+*he maruto vo yuṣmākaṃ yāmāya gamanārthaṃ mānuṣo gṛhasvāmī kaścin manujo ni dadhre | gṛhadārḍhyārthaṃ dṛḍhaṃ stambhaṃ nikṣiptavān | bhavadīyagamanena cālitaṃ gṛhaṃ patiṣyatīti bhītyā tannivāraṇāya dṛḍhastambhaprakṣepaḥ | kīdṛśāya yāmāya | ugrāya tīvrāya manyave cālanārtham abhimanyamānāya | yujyate hi bhavadgamanād bhītiḥ | yato bhavadgatyā cālitaḥ parvato bahuvidhaparvayukto giriḥ śikharī jihīta gacchet || mānuṣaḥ | manor jātāv avaśyatau ṣuk ca | pā. 4-1-161 | iti manuśabdād apatyārthe 'ñ ṣugāgamaś ca | ñnityādir nityam ity ādyudāttatvam | dadhre | dhṛ avasthāne [the indicatory letter of the root is not clear in the print] ity asya liṭi kittvād guṇābhāve sati yaṇādeśaḥ | pratyayasvaraḥ | pādāditvān na nighātaḥ | jihīta | ohāṅ gatau liṅ juhotyāditvāc chapaḥ śluḥ | bhṛñām it | pā. 7-4-76 | ity abhyāsasyetvam | śābhyastayor āta ity ākāralopaḥ | parvavān parvataḥ | matvarthīyas taprayayaḥ ||*
+
+**Translation:** "O Maruts, for your *yāma*, your going, *mānuṣaḥ* — some man, a householder — *ni dadhre* — has set down, driven, a firm post, to make his house firm: the planting of the firm post is in fear that the house, shaken by your going, may fall, and to prevent this. For what *yāma*? *Ugrāya manyave* — [your going which is] fierce, keen, bent on shaking. Fear at your going is indeed fitting: *parvataḥ*, the mountain [that has] many kinds of joints (*parva*) — *giriḥ*, the peaked mountain, being shaken by your passage, *jihīta* — goes [= is shattered]."
+
+**Grammar within the bhāṣya** *(p. 271, characterized)*: *mānuṣaḥ* (*manor jātāv añ ṣuk ca* — Pā. 4-1-161, as read: *añ* with the augment *ṣuk* after *manu* in the sense of descendant; *ñnityādir nityam*: first-syllable acute); *dadhre* (the root's *liṭ* is *kit*, so no *guṇa* and *yaṇ* for the vowel; suffix accent; no lowering because the word begins a pāda [*pādāditvāt*]); *jihīta* (*ohāṅ gatau*; *liṅ*; *śap* → *ślu* as the root belongs to the *juhotyādi*; *bhṛñām it* — Pā. 7-4-76 — *i* for the reduplicate vowel; *śābhyastayor ātaḥ*: loss of the *ā*); *parvataḥ* (*parva asyāsti*, the *mat*-sense suffix *ta* [as read]).
+
+**Pratipadārtha** *(p. 271)* — "**vaḥ** — (O Maruts) your; **ugrāya** — fierce; **manyave** — [that has] a tendency to shake firmly; **yāmāya** — for the going (so that in the time of your going the house should not fall by shaking); **mānuṣaḥ** — the man (the householder); **ni dadhre** — has set a post (to hold the house); **parvataḥ** — [the one] with many ridges; **giriḥ** — the mountain too; **jihīta** — would be shattered (by your violence)."
+
+**Bhāvārtha** *(p. 271)* — "O Maruts, when your self-established prowess makes all of earth and sky tremble, and the mountain on the earth, shattered, goes before your power, it is natural that the helpless man should be afraid at the time of your going. Yet, since your going is to his benefit, without obstructing it, he has set a post to his house, so that during your fierce and steadily shaking passage it may not fall down by trembling."
+
+**English Translation (the source's own, p. 271)** — "The house-holder, in dread of your fierce and violent approach has planted a firm post ; for even the mountain with many ridges is shattered by you·" *(the print ends with a raised dot)*.
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–36 COMPLETE; Sūkta 37 in progress: printed p. 263 (PDF 277) reached; Riks 37.1–37.3 complete; Rik 37.4 written through the source's English (its Special Topics and grammar follow on p. 264).**
+---
+
+**Progress note — Volume 4: Sūktas 33–36 COMPLETE; Sūkta 37 in progress: printed p. 271 (PDF 285) reached; Riks 37.1–37.6 complete; Rik 37.7 written through the source's English (its Special Topics and grammar follow on p. 272).**
 
 **Plan agreed with the user:** do Sūkta 36 and Sūkta 37 in the same session, stopping at the end of Sūkta 37. Sūkta 36 is done.
 
-**Next task:** continue at printed p. 264 (PDF 278) with the Special Topics and grammar of Rik 37.4, then Rik 5. Sūkta 37 (*krīḷaṃ vaḥ śardhaḥ*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī) runs to about printed p. 291 (PDF 305); Sūkta 38 begins about p. 292 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 278 -l 312 Rig_Vol4.pdf /tmp/x/v`.
+**Next task:** continue at printed p. 272 (PDF 286) with the Special Topics and grammar of Rik 37.7, then Rik 8. Sūkta 37 (*krīḷaṃ vaḥ śardhaḥ*, Anuvāka 8, 15 Riks, ṛṣi Kaṇva Ghaura, Maruts, Gāyatrī) runs to about printed p. 291 (PDF 305); Sūkta 38 begins about p. 292 per the contents table (check). Rendered pages: `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–312); re-render if the session restarted: `pdftoppm -jpeg -r 150 -f 286 -l 312 Rig_Vol4.pdf /tmp/x/v`.
 
-**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md "Lessons" and the git history of this file). For Sūkta 37 so far: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" are doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) in Rik 1's Special Topics the Nirukta, Ṛgveda and Āśvalāyana references (Ni. 11-13 [?], Ṛg. 8-…, 1-133-6 [?], 8-96-8 [?], 1-165 [?], 1-170 [?]) are small and uncertain, and the sentence on the river "Marudvṛdhā" is read with doubt; (4) in Rik 2's Special Topics the Nirukta list of vehicles (Ni. 1-2-8 [?]) is as read, with a tentative translation of mine; (5) the Yāska citation in Rik 4 ("dyumnaṃ dyotate ryaśo vānnaṃ veti") is partly illegible; (6) the grammar notes of Riks 1–4 are characterized from crowded passages and may contain slips in detail; (7) misprints reproduced as [sic]: the English of Rik 1 and Rik 2 ("maruths", "Maruths").
+**Open flags (Volume 4):** the flags of Sūktas 33–36 still stand (see CLAUDE.md "Lessons" and the git history of this file). For Sūkta 37 so far: (1) the Sanskrit introduction on p. 251 is partly illegible ("ātreyam", "śvitīti", "yasyeravāviśiṣṭa", "tuhiha", "yemarutaḥ svañcaḥ" are doubtful) and its translation is tentative; (2) the heading's varga numerals read "12 [?], 13, 14"; (3) in Rik 1's Special Topics the Nirukta, Ṛgveda and Āśvalāyana references are small and uncertain, and the sentence on the river "Marudvṛdhā" is read with doubt; (4) in Rik 2's Special Topics the Nirukta list of vehicles is as read, with a tentative translation of mine; (5) the Yāska citation in Rik 4 ("dyumnaṃ dyotate ryaśo vānnaṃ veti") is partly illegible; (6) the grammar notes of Riks 1–7 are characterized from crowded passages and may contain slips in detail; (7) in the Rik 5 bhāṣya grammar "ghno hananam" is as printed, and in Rik 7 the indicatory letter of the root *dhṛ* is not clear in the print; (8) misprints reproduced as [sic] or as printed: the English of Rik 1 and Rik 2 ("maruths", "Maruths"), Rik 6 ("whᵒ"); (9) a process note: while writing Rik 6's grammar I first expanded two sūtras and added two numbers from memory; I removed them before committing, keeping only what the print shows.
