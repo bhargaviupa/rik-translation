@@ -4528,8 +4528,119 @@
 
 ---
 
+**Rik 52.12, continued** *(pp. 253–255, PDF 269–271)*
+
+**Sāyaṇa-bhāṣya, the end of the main sense** *(p. 253)*
+
+> **… तथा स्वः सुष्ठु अरणीयं गन्तव्यम् । अप इत्यन्तरिक्षनाम । अपोऽन्तरिक्षलोकम् आ दिवं द्युलोकं च परिभूः परिग्रहीता । परिपूर्णो भवति परिग्रहार्थः । एषि प्राप्नोषि ॥**
+
+*… tathā svaḥ suṣṭhu araṇīyaṃ gantavyam | apa ity antarikṣanāma | apo 'ntarikṣalokam ā divaṃ dyulokaṃ ca paribhūḥ parigrahītā | paripūrṇo bhavati parigrahārthaḥ | eṣi prāpnoṣi ||* *(the print reads* "svaḥ" *with the gloss "that which is well to be gone to"; and "*apaḥ*" as a name of the atmosphere.)*
+
+*(The tail of the bhāṣya, p. 253, is characterized:* asya *(the vibhakti-accent by* ūḍidam…*);* vyomanaḥ *("*ava rakṣaṇagatikāntī…*", the root* av *with the sense of going; "*viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vatīti vyoma*"; *manin *by* anyebhyo 'pi dṛśyante*; the *ū*-substitute by* jvarasvarisrivyavimavām upadhāyāś ca *Pā. 6-4-20 as read [?]; a bahuvrīhi accent);* svaḥ *(*su* +* ṛ gatau*; *vic*; *yaṇ*; *svarādinipātam avyayam*; *avyayād āpsupaḥ* drops the case-ending, the word being *svar* with *visarga*); *eṣi *(*iṇ gatau*, adādi, *śap* elided).)*
+
+**Translation of the end of the bhāṣya:** "… and *svaḥ*, that which is well to be gone to; *apaḥ* is a name of the atmosphere — the atmosphere-world, and up to heaven, *ā divam*, the heaven-world: you *paribhūḥ*, encompass (the sense of *paribhū* here is 'one who encompasses'; it means 'becomes completely full'): *eṣi*, you reach."
+
+**Pratipadārtha** *(p. 253)* — "**dhṛṣanmanaḥ** — O Indra, of firm mind in the destruction of enemies; **asya** — of this (which is visible to us); **vyomanaḥ** — spread everywhere; **rajasaḥ** — of the atmosphere-world (beyond the atmosphere); **pāre** — in the upper part; **svabhūtyojāḥ** — having your strength established in yourself; **tvam** — you; **avase** — for (our) protection; **bhūmim** — the earth-world; **cakṛṣe** — you have created (and); **ojasaḥ** — of the strength (of the valiant); **pratimānam** — you are the model (likewise); **svaḥ** — easy to go through; **apaḥ** — the atmosphere; **ā divam** — and the heaven-world too; **paribhūḥ** — encompassing; **eṣi** — you pervade."
+
+**Bhāvārtha** *(p. 253)* — "O Indra, of firm mind in destroying enemies, above this atmosphere-world that spreads everywhere, you, established in your own strength, created the earth-world for our protection. You are the model of the strength of the valiant. And you encompass and pervade the atmosphere, easy to go through, and the heaven-world also."
+
+**English Translation (the source's own, p. 253)** — "Indra, bent upon destroying the enemies, living in your strength, above the wide-expanded firmament, you have made the earth for our preservation ; you are the representative of the strong ; you have encompassed the firmament and the sky as far as to the heavens."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 254**
+- **vyomanaḥ** — "*Viśeṣeṇa gacchati vyāpnotīti vyoma*, or *vṛṣṭipradānena viśeṣeṇa prāṇino 'vati rakṣatīti vyoma*: by these two derivations the sky is all-pervading; or the sense is 'that which can protect living beings by giving rain'. By the derivation '*vividham oma rakṣaṇaṃ yasmin*', 'in which there is protection of many kinds', one may say 'protecting all'."
+- **svabhūtyojāḥ** — "One who has strength that is his own; that is, one who does not depend on anything else."
+- **svaḥ** — "*Su* + *araṇīyam gantavyam*: a thing that goes readily — water. But since the word *svar* denotes the atmosphere (Ni. 2-10 as read [?]), the sense 'atmosphere' may be given here too."
+- **paribhūḥ** — "'One who has encompassed': for the root *bhū* preceded by the prefix *pari*, the sense of encompassing is here."
+
+**Vyākaraṇa-prakriyā** *(pp. 254–255 — grammar pages, noted briefly)*
+- **asya**: the genitive singular of *idam*; by *ūḍidaṃpadādyappumrāibhyaḥ* (Pā. 6-1-171) the vibhakti gets an acute accent.
+- **vyomanaḥ**: the root *av* is used here in the sense of going; "*av rakṣaṇagatikāntī…*" is read in many senses. "*Viśeṣeṇa gacchati vyāpnotīti vyoma*", or "*vṛṣṭipradānena viśeṣeṇa prāṇino 'vati rakṣatīti vyoma*": *manin* by *anyebhyo 'pi dṛśyante* (Pā. 3-2-75); by *jvaratvarasrivyavimavāṃ copadhāyāś ca* (Pā. 6-4-20) the penultimate *a* of *av* and the final *v* together take *ū*; *ū* + *man*, the *ārdhadhātuka* nimitta gives *guṇa* to the *ū*; *vi* + *oman*: *yaṇ*: *vyoman*; being in the *dāsībhārādi* group, the accent of the first member; or, in the sense of the action, *manin*, as before *oma*; "*vividham oma rakṣaṇaṃ yasmin*": a bahuvrīhi, so *bahuvrīhau prakṛtyā pūrvapadam*; since in *vi + oman* the acute *i* is replaced by *y*, the *anudātta o* after the *yaṇ* gets *svarita* by *udāttasvaritayor yaṇaḥ svaritonudāttasya*.
+- **cakṛṣe**: *ḍukṛñ karaṇe*; *liṭ* second singular *thās*, *se*; the *iṭ* is forbidden by *ekāca upadeśe 'nudāttāt* [as read]; since the word begins a *pāda*, no *nighāta*; by the suffix-accent, end-acute.
+- **svaḥ**: *su* before, and the root *ṛ gatau*; *vic* by *anyebhyo 'pi dṛśyante*; when the suffix follows, *guṇa* of the root; *su* + *ar*: *yaṇ*; *svarādinipātam avyayam* gives the *avyaya* name; *avyayād āpsupaḥ* drops the case-ending; *svar* — at the end, the *visarga*: *svaḥ*; by *nyaṅ svarau svaritau* (Phiṭ-sūtra 4-… as read [?]) *svaḥ* is *svarita*.
+- **eṣi**: *iṇ gatau*, *adādi*; *laṭ* second singular *sip*; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; *sip* being *sārvadhātuka*, *guṇa* of the root; *ādeśapratyayayoḥ* (Pā. 8-3-59) gives *ṣatva* of the suffix *s*: *eṣi*; since it follows an *atiṅ*, *nighāta*. **|| 12 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.11 complete; Rik 52.12 written from the Saṃhitā and Pada through the opening of the bhāṣya (printed p. 252, PDF 268); the bhāṣya continues on p. 253 (PDF 269) at "tathā svaḥ suṣṭhu …" — NOT yet written: the rest of the bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 12, and Riks 52.13–52.15.**
+### Rik 52.13 (pp. 255–258, PDF 271–274; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 253 (PDF 269) with "**Rik 52.12, continued**" (take care to start from the end of the sentence "…tathā svaḥ suṣṭhu…"), then Riks 13 (Triṣṭubh), 14 (Jagatī), 15 (Triṣṭubh) and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264; the sūkta is thus nearly 50 pages). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; 52.5 Trita-legend clause crowded [?], the Ṛ. Saṃ. 1-158-5 verse and Taittirīya Saṃhitā passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra" as printed, final clause of the bhāṣya crowded [?]; 52.9 "svasvevamānāḥ", "anupūrvyeṇa harṣaṃ prāpayan" crowded [?], Ni. numeral for *pradhanam* [?]; 52.10 Special Topics passage "etad uktaṃ bhavati" crowded in places [?]; 52.11 Special Topics Sanskrit passage "prasedhayitvāṇām" crowded [?]; Uṇādi and Pāṇini numerals as read [?].
+**Saṃhitā-pāṭha** *(p. 255; accents printed, not reproduced)*
+
+> **त्वं भुवः प्रतिमानं पृथिव्या ऋष्ववीरस्य बृहतः पतिर्भूः ।**
+> **विश्वमाप्रा अन्तरिक्षं महित्वा सत्यमद्धा नकिरन्यस्त्वावान् ॥ १३ ॥**
+
+*tvaṃ bhuvaḥ pratimānaṃ pṛthivyā ṛṣvavīrasya bṛhataḥ patir bhūḥ |*
+*viśvam āprā antarikṣaṃ mahitvā satyam addhā nakir anyas tvāvān || 13 ||*
+
+**Pada-pāṭha** *(p. 255)*
+
+> त्वम् । भुवः । प्रतिऽमानम् । पृथिव्याः । ऋष्वऽवीरस्य । बृहतः । पतिः । भूः ।
+> विश्वम् । आ । अप्राः । अन्तरिक्षम् । महित्वा । सत्यम् । अद्धा । नकिः । अन्यः । त्वाऽवान् ॥ १३ ॥
+
+*tvam | bhuvaḥ | prati-mānam | pṛthivyāḥ | ṛṣva-vīrasya | bṛhataḥ | patiḥ | bhūḥ |*
+*viśvam | ā | aprāḥ | antarikṣam | mahitvā | satyam | addhā | nakiḥ | anyaḥ | tvā-vān || 13 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 255–256)*
+
+> **भूनाम्न एकाहे मरुत्वतीयशस्त्रे निविद्धानीयोत्सूक्तात्पुरा त्वं भुवः प्रतिमानमित्येषा शंसनीया । तथैवासूत्रयत् । शस्यमुक्तं बृहस्पतिसवेन त्वं भुवः प्रतिमानं पृथिव्याः । आश्व. ९-५ [?] इति ॥ हे इन्द्र त्वं पृथिव्याः प्रथितायाः विस्तीर्णाया भूमेः प्रतिमानं भुवः । प्रतिनिधिर्भवसि । यथा भूर्लोको महानसंचिन्त्यशक्तिः । एवं त्वमपीत्यर्थः । तथा ऋष्ववीरस्य । वीरयन्ति विक्रान्ता भवन्तीति वीरा देवाः । ऋष्वा दर्शनीया वीरा यस्य स तथोक्तः । तस्य बृहतो बृंहितस्य प्रवृद्धस्य स्वर्गलोकस्य पतिर्भूः । पालयितासि । किंचान्तरिक्षमन्तरा क्षान्तं द्यावापृथिव्योर्मध्ये वर्तमानमाकाशं विश्वं सर्वमपि महित्वा महत्त्वेन सत्यमाप्राः । निश्चयेन आ समन्तादपूरयः । अतस्त्वावान् त्वत्सदृशोऽन्यः कश्चिन्न किरस्ति नास्तीति यदेतत्तद्धा सत्यमेव ॥**
+
+*bhūnāmna ekāhe marutvatīyaśastre nividdhānīyotsūktāt purā tvaṃ bhuvaḥ pratimānam ity eṣā śaṃsanīyā | tathaivāsūtrayat | śasyam uktaṃ bṛhaspatisavena tvaṃ bhuvaḥ pratimānaṃ pṛthivyāḥ | āśva. 9-5 [?] iti || he indra tvaṃ pṛthivyāḥ prathitāyāḥ vistīrṇāyā bhūmeḥ pratimānaṃ bhuvaḥ | pratinidhir bhavasi | yathā bhūrloko mahān asaṃcintyaśaktiḥ | evaṃ tvam apīty arthaḥ | tathā ṛṣvavīrasya | vīrayanti vikrāntā bhavantīti vīrā devāḥ | ṛṣvā darśanīyā vīrā yasya sa tathoktaḥ | tasya bṛhato bṛṃhitasya pravṛddhasya svargalokasya patir bhūḥ | pālayitāsi | kiṃcāntarikṣam antarā kṣāntaṃ dyāvāpṛthivyor madhye vartamānam ākāśaṃ viśvaṃ sarvam api mahitvā mahattvena satyam āprāḥ | niścayena ā samantād apūrayaḥ | atas tvāvān tvatsadṛśo 'nyaḥ kaścin nakir asti nāstīti yad etat tad dhā satyam eva ||*
+
+*(Reading notes: the first sentence reads "*bhūnāmna ekāhe*" — in the print "*bhūnāmne kkāhe*" — crowded, [?]; "*nividdhānīyotsūktāt purā*" — "before the invocation-sūkta" — is read as printed; the Āśvalāyana numeral "9-5" as read, [?]. The tail of the bhāṣya, p. 256 foot –, is characterized:* bhuvaḥ *(*bhū*, *leṭ*, the loss of* i *and* uvaṅ*);* pṛthivyāḥ *(the vibhakti-accent by* udāttayaṇo hal pūrvāt*);* bṛhataḥ *(*bṛhanmahator upasaṅkhyānam*);* bhūḥ *(Vedic* luṅ *in the sense of the present; *aṭ* not coming by* bahulaṃ chandasy amāṅyoge 'pi*);* aprāḥ *(*prā pūraṇe*, adādi,* laṅ*, *aṭ*); *mahitvā *(*supāṃ suluk* gives *ā* for the instrumental; *ṅit*);* tvāvān *(*vatup* in the sense of similarity by* yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṃkhyānam*, Pā. 5-2-39 *vārttika*, with the substitute* tvā*, and *āsarvanāmasthāne*…).)*
+
+**Translation of the bhāṣya:** "In the one-day rite called *Bhū* [?], in the Marutvatīya-recitation, before the *nivid*-sūkta, the Rik '*tvaṃ bhuvaḥ pratimānam*' is to be recited; so the sūtra-writer taught: 'what is to be recited has been said — in the Bṛhaspati-savana, *tvaṃ bhuvaḥ pratimānaṃ pṛthivyāḥ*' (Āśv. 9-5 as read [?]). — O Indra, you are *pratimānam*, the counterpart, the equal, of the extensive, wide earth; just as the earth-world is great, of unthinkable power, so are you, is the sense. And *ṛṣvavīrasya*: *vīrāḥ* are the gods — they exert themselves, they are valiant; one whose heroes are *ṛṣva*, beautiful to see: of that great, grown-up heaven-world you are the lord, the protector. Further, the *antarikṣam* — that which abides between heaven and earth, the sky — *viśvam*, the whole of it, *mahitvā*, by your greatness, *satyam āprāḥ*, you have filled, truly, on all sides. Therefore *nakiḥ anyaḥ tvāvān*, there is no other like you; what is said is *addhā*, indeed true."
+
+**Pratipadārtha** *(p. 256)* — "(O Indra) **tvam** — you; **pṛthivyāḥ** — of the extended earth; **pratimānam bhuvaḥ** — you are the measure (the counterpart); **ṛṣvavīrasya** — of him who has heroes (the gods) beautiful to look at; **bṛhataḥ** — of the great (heaven-world); **patir bhūḥ** — you are the protector; **antarikṣaṃ viśvam** — the whole sky that is between heaven and earth; **mahitvā** — by your greatness; **satyam** — [filled] without a break; **ā aprāḥ** — you fill all round; **tvāvān** — one equal to you; **anyaḥ** — another; **nakiḥ** — there is none; **addhā** — this is true."
+
+**Bhāvārtha** *(p. 256)* — "O Indra, you are the counterpart of the extensive earth. You are the lord of the great heaven-world, which is filled with beautiful and valiant gods. By your greatness you fill all the sky between heaven and earth, unbroken and all round. That there is no other like you is indeed true."
+
+**English Translation (the source's own, p. 256)** — "You are the measure of the extended earth ; you are the protector of the Swarga frequented by the gods ; verily with your greatness, you fill all the firmament ; for, there is none other like you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 257**
+- *(first Special Topic)* "In the one-day rite called *Bhūnāman* [?], the Rik '*tvaṃ bhuvaḥ pratimānam*' is to be said, before the *nivid*-sūkta (the invocation-sūkta), when the Marutvatīya-śastra mantras are recited — this is set out in the Āśvalāyana Śrauta Sūtra by the sūtra '*śasyam uktaṃ bṛhaspatisavena tvaṃ bhuvaḥ pratimānaṃ pṛthivyāḥ*' (Āśv. 9-5 as read [?])."
+- **pṛthivyāḥ** — "Here the word *pṛthivī* means the exceedingly broad earth."
+- **pratimānaṃ bhuvaḥ** — "'You are the counterpart': that is, as the earth has an inconceivable power, so you also have that much power."
+- **ṛṣvavīrasya** — "By the derivation '*ṛṣvāḥ darśanīyāḥ vīrāḥ devāḥ yasya saḥ ṛṣvavīraḥ*' it is clear that this means: Indra possesses beautiful and valiant gods."
+- **bṛhataḥ** — "The sense is of the heaven-world, grown great, which is increasing."
+- **antarikṣam** — "*Antarā kṣāntam dyāvāpṛthivyor madhye vartamānam ākāśam*: the space that is between earth and heaven is called *antarikṣa*."
+- **nakiḥ addhā** — "'There is none': this statement is certain. They have explained *nakiḥ* as: *astīti nāstīti yad etat tat*." *(i.e. the note in the print glosses* nakiḥ *by "'is' or 'is not'; that which is said"; the clause is crowded, [?].)*
+
+**Vyākaraṇa-prakriyā** *(pp. 257–258 — grammar pages, noted briefly)*
+- **bhuvaḥ**: *bhū sattāyām*; *leṭ* second singular *sip*; *itaś ca lopaḥ parasmaipadeṣu* drops the *i* of *sip*; the *uvaṅ* substitute (*bhūsuvos tiṅi*, *āciśnudhātubhruvāṃ…*); *ru*, *visarga*: *bhuvaḥ*; *tiṅ atiṅaḥ*, *nighāta*.
+- **pṛthivyāḥ**: *pṛthivī* + *ṅas*; by *āṇ nadyāḥ* the augment *āṭ* to the ending; *yaṇ* for the *ī*; *ru*, *visarga*; *udāttayaṇo hal pūrvāt* gives the ending the acute.
+- **bṛhataḥ**: the genitive singular of the *nt*-stem; *bṛhanmahator upasaṅkhyānam* gives the ending the acute.
+- **bhūḥ**: *bhū sattāyām*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the present sense; second singular *sip*; *itaś ca* drops its *i*; *cli luṅi* — *cleḥ sic* replaces the characteristic; *gātisthā…* (Pā. 2-4-77) drops *sic*; the suffix's *s* becomes *ru*, *visarga*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *tiṅ atiṅaḥ*, *nighāta*.
+- **aprāḥ**: *prā pūraṇe*, *adādi*; *laṅ* second singular *sip*; the *i* dropped; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; *aṭ* as *laṅ*-nimitta; *nighāta*.
+- **mahitvā**: *supāṃ suluk…* (Pā. 7-1-39) gives *ḍā* for the instrumental ending; since it is *ḍit*, *ṭi* is dropped.
+- **tvāvān**: *vatup* in the sense of "like" after *yuṣmad* by the *vārttika yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṅkhyānam* (Pā. 5-2-39 *vārttika*); *tvā* is the substitute for the *yuṣmad* up to its last by *pratyayottarapadayośca* (Pā. 7-2-98); *āsarvanāmnaḥ* (Pā. 6-3-91) gives the long *ā* to *tva* before *vatup*: *tvāvat*; in the nominative singular, *ugit*, so *num* by *ugidacām*; *āt-saṃyogasya ca* [as printed] gives the penultimate lengthening; *halṅyābbhyo…* drops *su*; *saṃyogāntasya lopaḥ* drops the final *t*; since that is *asiddha*, *nalopa* does not apply: *tvāvān*; since *vatup* is *pit*, *anudātta* by *anudāttau supitau*; so the end-acute of the stem remains. **|| 13 ||**
+
+---
+
+### Rik 52.14 (pp. 258–, PDF 274–)
+
+**Saṃhitā-pāṭha** *(p. 258; accents printed, not reproduced; metre Jagatī)*
+
+> **न यस्य द्यावापृथिवी अनु व्यचो न सिन्धवो रजसो अन्तमानशुः ।**
+> **नोत स्ववृष्टिं मदे अस्य युध्यत एको अन्यच्चकृषे विश्वमानुषक् ॥ १४ ॥**
+
+*na yasya dyāvāpṛthivī anu vyaco na sindhavo rajaso antam ānaśuḥ |*
+*not’a svavṛṣṭiṃ made asya yudhyata eko anyac cakṛṣe viśvam ānuṣak || 14 ||*
+
+*(I read the print's "नोत" as* na uta*, the Pada's* na | uta*; the Saṃhitā writes* nota*.)*
+
+**Pada-pāṭha** *(p. 258)*
+
+> न । यस्य । द्यावापृथिवी इति । अनु । विऽअचः । न । सिन्धवः । रजसः । अन्तम् । आनशुः ।
+> न । उत । स्वऽवृष्टिम् । मदे । अस्य । युध्यतः । एकः । अन्यत् । चकृषे । विश्वम् । आनुषक् ॥ १४ ॥
+
+*na | yasya | dyāvāpṛthivī iti | anu | vi-acaḥ | na | sindhavaḥ | rajasaḥ | antam | ānaśuḥ |*
+*na | uta | sva-vṛṣṭim | made | asya | yudhyataḥ | ekaḥ | anyat | cakṛṣe | viśvam | ānuṣak || 14 ||*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.13 complete; Rik 52.14's Saṃhitā and Pada written (printed p. 258, PDF 274). Its bhāṣya begins on p. 259 (PDF 275). Riks 52.14 (rest) and 52.15 and the close of Sūkta 52 are NOT yet written.**
+
+**Next task:** continue at printed p. 259 (PDF 275) with "**Rik 52.14, continued**" (bhāṣya etc.), then Rik 52.15 (Triṣṭubh) and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" [?]; 52.4 punctuation mine; 52.5 Trita-legend clause crowded [?], Ṛ. Saṃ. 1-158-5 verse and Tai. Saṃ. passage on Vala partly doubtful; Wilson's note summarized; 52.6 "mukhapārśvayoḥ", "tṛtīyārthe dvitīyā" crowded [?]; 52.8 Saṃhitā join "saṃbhṛtakratav indra", final clause crowded [?]; 52.9 "svasvevamānāḥ", "anupūrvyeṇa harṣaṃ prāpayan" crowded [?]; 52.10, 52.11 Special-Topic Sanskrit passages crowded in places [?]; 52.13 opening sentence "bhūnāmna ekāhe" and Āśvalāyana numeral [?]; Uṇādi and Pāṇini numerals as read [?].
