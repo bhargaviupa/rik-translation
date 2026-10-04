@@ -11,8 +11,8 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20–30 are complete — through printed page 517 (upper part).** (Sūkta 30, "ā va indram", has 22 Riks: 1–16 Indra, 17–19 Aśvins, 20–22 Uṣas; it runs pp. 458–517.) Provisional items to re-check at a higher resolution: Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), the Sūkta 29 Rik 7 bhāṣya wording (p. 455), and the dense Brāhmaṇa quotations in Sūkta 30 Riks 16–20.
-**Next task: begin Sūkta 31 ("tvam agne prathamo aṅgirāḥ", 18 Riks, Agni; Rishi Hiraṇyastūpa) — introductory note on the lower half of printed p. 517 (PDF page 532); Rik 1 follows on p. 518.** Sūkta 32's first page is not yet known (older guess p.587 — read the real heading); the volume
+Volume 3 translation is under way: **Sūktas 20–31 are complete — through printed page 587 (upper part).** (Sūkta 31, "tvam agne prathamo aṅgirāḥ", has 18 Riks to Agni, seer Hiraṇyastūpa; it runs pp. 517–587. Sūkta 30 ran pp. 458–517.) Provisional items to re-check at a higher resolution: Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), the Sūkta 29 Rik 7 bhāṣya wording (p. 455), the dense Brāhmaṇa quotations in Sūkta 30 Riks 16–20, and the Special-Topics citations of Ṛg-Saṃhitā/Nirukta in Sūkta 31 (numerals [?]).
+**Next task: begin Sūkta 32 ("indrasya nu vīryāṇi pra vocam", 15 Riks, Indra; Rishi Hiraṇyastūpa; Triṣṭubh) — introductory note on the lower half of printed p. 587 (PDF page 602); Rik 1 follows on p. 588.** The volume
 ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
