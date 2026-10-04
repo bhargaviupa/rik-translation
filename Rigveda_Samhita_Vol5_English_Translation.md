@@ -4024,8 +4024,63 @@
 
 ---
 
+### Rik 52.4 (pp. 225–, PDF 241–)
+
+**Saṃhitā-pāṭha** *(p. 225; accents printed, not reproduced)*
+
+> **आ यं पृणन्ति दिवि सद्मबर्हिषः समुद्रं न सुभ्वः स्वा अभिष्टयः ।**
+> **तं वृत्रहत्ये अनु तस्थुरूतयः शुष्मा इन्द्रमवाता अह्रुतप्सवः ॥ ४ ॥**
+
+*ā yaṃ pṛṇanti divi sadmabarhiṣaḥ samudraṃ na subhvaḥ svā abhiṣṭayaḥ |*
+*taṃ vṛtrahatye anu tasthur ūtayaḥ śuṣmā indram avātā ahrutapsavaḥ || 4 ||*
+
+**Pada-pāṭha** *(p. 225)*
+
+> आ । यम् । पृणन्ति । दिवि । सद्मऽबर्हिषः । समुद्रम् । न । सुऽभ्वः । स्वाः । अभिष्टयः ।
+> तम् । वृत्रऽहत्ये । अनु । तस्थुः । ऊतयः । शुष्माः । इन्द्रम् । अवाताः । अह्रुतऽप्सवः ॥ ४ ॥
+
+*ā | yam | pṛṇanti | divi | sadma-barhiṣaḥ | samudram | na | su-bhvaḥ | svāḥ | abhiṣṭayaḥ |*
+*tam | vṛtra-hatye | anu | tasthuḥ | ūtayaḥ | śuṣmāḥ | indram | avātāḥ | ahruta-psavaḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 225–226)*
+
+> **सद्म सदनं स्थानं बर्हिः शब्दोपलक्षितो यज्ञो येषां सोमानां ते सोमा दिवि स्वर्गलोकेऽवस्थितं यमिन्द्रमापृणन्ति । आ समन्तात्पूरयन्ति । तत्र दृष्टान्तः । सुभ्वः सुष्ठु भवन्तीति सुभ्वो नद्यः समुद्रं न । यथा नद्यः समुद्रं पूरयन्ति तद्वदित्यर्थः । कीदृश्यो नद्यः । स्वाः । समुद्रस्य स्वभूताः । तथा चाम्नायते । समुद्राय वयुनाय सिन्धूनां पतये नमः । तै. सं. ४-६-२-६ [?] इति । अभिष्टयः । अभिमुख्येन गमनवत्यः । ऊतयोऽवितारो मरुतो वृत्रहत्ये वृत्रहननेन निमित्तभूते सति तमिन्द्रमनुतस्थुः । अनुलक्ष्य स्थिता बभूवुः । कीदृशा मरुतः । शुष्माः । शत्रूणां शोषयितारः । अवाताः । वान्ति प्रातिकूल्येन गच्छन्तीति वाताः शत्रवः । तद्रहिताः । अह्रुतप्सवः । अकुटिलरूपाः । शोभनावयवा इत्यर्थः ॥**
+
+*sadma sadanaṃ sthānaṃ barhiḥ śabdopalakṣito yajño yeṣāṃ somānāṃ te somā divi svargaloke 'vasthitaṃ yam indram āpṛṇanti | ā samantāt pūrayanti | tatra dṛṣṭāntaḥ | subhvaḥ suṣṭhu bhavantīti subhvo nadyaḥ samudraṃ na | yathā nadyaḥ samudraṃ pūrayanti tadvad ity arthaḥ | kīdṛśyo nadyaḥ | svāḥ | samudrasya svabhūtāḥ | tathā cāmnāyate | samudrāya vayunāya sindhūnāṃ pataye namaḥ | tai. saṃ. 4-6-2-6 [?] iti | abhiṣṭayaḥ | abhimukhyena gamanavatyaḥ | ūtayo 'vitāro maruto vṛtrahatye vṛtrahananena nimittabhūte sati tam indram anutasthuḥ | anulakṣya sthitā babhūvuḥ | kīdṛśā marutaḥ | śuṣmāḥ | śatrūṇāṃ śoṣayitāraḥ | avātāḥ | vānti prātikūlyena gacchantīti vātāḥ śatravaḥ | tadrahitāḥ | ahrutapsavaḥ | akuṭilarūpāḥ | śobhanāvayavā ity arthaḥ ||*
+
+*(Reading notes: the punctuation of* abhiṣṭayaḥ … ūtayaḥ *is mine — the Kannada Special Topics takes* abhiṣṭayaḥ *as an epithet of the rivers (*svāḥ*), "facing the sea in their course"; the bhāṣya's own phrasing is crowded. The Taittirīya numeral is as read, [?]. The grammatical tail, pp. 226–, is characterized:* pṛṇanti *(*pyā pālanapūraṇayoḥ*, kryādi),* sadmabarhiṣaḥ*,* subhvaḥ*,* abhiṣṭayaḥ *(*iṣa icchāyām*? "*iṣṭayaḥ eṣaṇāni*", [?]),* vṛtrahatye *(*hana* with *kyap*, the substitute* t*),* ahrutapsavaḥ *(*hvā kauṭilye*, *asmānniṣṭhāyāṃ hru hvareś chandasi*, Pā. 7-2-31 as read [?], with* psā bhakṣaṇe *and the Uṇādi* du*; "not* hruta *+* psu*", a negative compound).)*
+
+**Translation of the bhāṣya:** "*Sadma* is a seat, a place; *barhiḥ* is the word that stands for the sacrifice; the Somas that have these — they, *divi*, in the heavenly world, *yam*, whom, Indra who abides (there), *ā pṛṇanti*, fill all round. An example: *subhvaḥ*, the 'well-being' (excellently flowing) rivers, *samudraṃ na*, as rivers fill the ocean — so it is meant. What rivers? *Svāḥ*: those that belong to the ocean; so it is declared: 'Homage to the ocean, to the wise one, to the lord of rivers' (Tai. Saṃ. 4-6-2-6 [?]). *Abhiṣṭayaḥ*: moving in front (facing the sea). The *ūtayaḥ*, the protectors, the Maruts, *vṛtrahatye*, on the occasion of the slaying of Vṛtra, *anu tasthuḥ*, stood by him, keeping him in view. What sort of Maruts? *Śuṣmāḥ*: those who dry up the enemies; *avātāḥ*: *vātāḥ* are the enemies who move in opposition — those without such (unobstructed, free from them); *ahrutapsavaḥ*: of straight, unbent form, with fair limbs is the sense."
+
+**Pratipadārtha** *(p. 226)* — "**svāḥ** — their own, i.e. belonging to the ocean; **subhvaḥ** — the rivers; **samudraṃ na** — as they fill the ocean (with water); **sadmabarhiṣaḥ** — the soma juices, whose place of origin is the sacrificial house with its sacred grass; **yam** — which Indra; **ā pṛṇanti** — fill all round (do they satisfy?); **tam** — that Indra; **abhiṣṭayaḥ** — those who go facing him; **śuṣmāḥ** — destroyers of enemies (or: those who frighten the timid); **avātāḥ** — whose course is unobstructed; **ahrutapsavaḥ** — with unbent, excellent limbs; **ūtayaḥ** — the protecting Maruts; **vṛtrahatye** — on the occasion of the slaying of Vṛtra; **anutasthuḥ** — followed (giving strength)."
+
+**Bhāvārtha** *(p. 226)* — "As rivers fill the ocean, their lord, with water, so the soma juices born in the sacrificial house fill Indra and satisfy him. The Maruts — those who are the destroyers of enemies, who are unobstructed, free-going, with fair unbent limbs, and protectors — followed that Indra at the time of Vṛtra's slaying and attentively gave him strength."
+
+**English Translation (the source's own, p. 226)** — "That Indra, whom in heaven the libations sprinkled on the sacred grass replenish, as the kindred rivers hastening to it fill the ocean ; that Indra whom the Maruts, the driers up of moisture, who are unobstructed, and of undistorted forms attended as helpers at the slaying of Vritra."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 227**
+- **ā pṛṇanti** — "They fill in every way. Since the root *pyā* has the two senses of protecting and filling, it can be taken also as 'they protect in every way'."
+- **sadmabarhiṣaḥ** — "*sadma* is seat, place; *barhis* [stands for] the sacrifice; *yeṣāṃ te sadmabarhiṣaḥ*: the meaning of this word is the Soma, which has obtained the principal place in the sacrifice."
+- **subhvaḥ samudraṃ na** — "As rivers fill the ocean, so the soma juices increase Indra. The śruti '*samudrāya vayunāya sindhūnāṃ pataye namaḥ*' (Tai. Saṃ. 4-6-2-6 as read [?]) also shows that the rivers belong to the ocean."
+
+  > **समुद्राय वयुनाय सिन्धूनां पतये नमः ।** *(Tai. Saṃ. 4-6-2-6 as read [?])*
+
+  *samudrāya vayunāya sindhūnāṃ pataye namaḥ |* — mine and tentative: "Homage to the ocean, to the knowing one, to the lord of the rivers."
+- **abhiṣṭayaḥ** — "*abhimukhyena gamanavatyaḥ*: giving the sense 'rivers of the nature of coming facing the ocean', this word is an epithet of the word *svāḥ*."
+- **anutasthuḥ** — "At the time of Vṛtra's slaying the Marut deities followed Indra without leaving him, and stood and fought."
+- **ahrutapsavaḥ** — "*akuṭilarūpāḥ śobhanāvayavāḥ*: of unbent form, with beautiful limbs — i.e., endowed both with beautiful form and with limbs that suit it."
+
+**Vyākaraṇa-prakriyā** *(p. 227 and following — grammar pages, noted briefly; continued on p. 228)*
+- **pṛṇanti**: *pyā pālanapūraṇayoḥ*, *kryādi*; the *jhi* ending replaced by *ant* by *jher antaḥ*; *kryādibhyaḥ śnā*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) drops the *ā* of *śnā*; *prādīnāṃ hrasvaḥ* shortens the root's vowel; before *ṛ*, the *n* of *śnā* takes *ṇatva*: *pṛṇanti*; because the relative *yam* occurs earlier, the *nighāta* accent is forbidden by *yadvṛttān nityam* (Pā. 8-1-66 as read [?]); by the initial-acute of the suffix, the *ā* after *ṇ* is acute.
+- **sadmabarhiṣaḥ**: *ṣadḷ viśaraṇagatyavasādaneṣu*; "*sīdanty asminn iti sadma*"; *adhikaraṇa*; the Uṇādi *manin* by *…* ; *ṣa* → *sa* by *dhātvādeḥ ṣaḥ saḥ*: *sadman*; being *nit*, the initial-acute; "*sadma barhir yeṣāṃ te*" a bahuvrīhi; *bahuvrīhau prakṛtyā pūrvapadam* keeps the previous accent.
+- **subhvaḥ**: *bhū sattāyām*; *kvip ca* (Pā. 3-2-76 as read [?]) after the *su* prefix; *gatikārakopapadāt kṛt* gives the accent of the last member; the *u* is acute; before *jas*, *oḥ supi* would give *yaṇ*, but the prohibition *nabhūsudhiyoḥ* is overridden in the Veda by *chandasy ubhayathā*… *(continued on p. 228).*
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.3 complete (printed through p. 224, PDF 240). Rik 52.4 begins at the head of p. 225 (PDF 241) — NOT yet written.**
+---
 
-**Next task:** continue at printed p. 225 (PDF 241) with **Rik 52.4**, then Riks 5–15 and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?]; the Kannada note on *tvam* in 52.1 reads as if the head-word were *tyam* [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" and bhāṣya "ūdhany adbhutajalavaty antarikṣe" [?]; Uṇādi and Pāṇini numerals in the grammar notes as read [?].
+---
+
+**Progress note — Volume 5: Sūktas 47–51 COMPLETE (printed pp. 1–211 = PDF 17–227). Sūkta 52 (*tvaṃ su meṣam*, 15 Riks) in progress: Riks 52.1–52.3 complete; Rik 52.4 written from the Saṃhitā through the Vyākaraṇa notes on *subhvaḥ* (printed p. 227, PDF 243). The remaining grammar of Rik 4 (p. 228, PDF 244) and Rik 52.5 onward are NOT yet written.**
+
+**Next task:** continue at printed p. 228 (PDF 244) with the last grammar notes of Rik 52.4 (heading "**Rik 52.4, grammar (end)**"), then Riks 5–15 and the close of Sūkta 52 (check for the start of Sūkta 53 — contents table puts it at p. ≈264). **User instruction: translate Sūktas 51–54 (51 done; 52 now; 53 ≈ p. 264; 54 ≈ p. 303 per the table); keep going until Sūkta 54 ends; routines PAUSED.** Grammatical tails of the bhāṣya and the Vyākaraṇa pages are characterized. Page images exist for PDF 17–330 in `/tmp/x/w-NNN.jpg` (re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing). Flags: Sūkta 52 introduction — Anukramaṇī half-line and Āśvalāyana numeral [?], Varga numerals 12–14 [?]; 52.1 "yugapat", "suṣṭhu doṣavarjakaiḥ" crowded [?], Nirukta numeral for *atyaḥ hayaḥ* [?]; the Kannada note on *tvam* in 52.1 reads as if the head-word were *tyam* [?]; 52.3 Pada "maṃhiṣṭharātiḥ/-ātim" and bhāṣya "ūdhany adbhutajalavaty antarikṣe" [?]; 52.4 punctuation of "abhiṣṭayaḥ … ūtayaḥ" mine; Taittirīya numeral 4-6-2-6 [?]; Uṇādi and Pāṇini numerals in the grammar notes as read [?].
