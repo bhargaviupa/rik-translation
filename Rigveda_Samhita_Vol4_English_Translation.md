@@ -9177,8 +9177,103 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+### Rik 45.3 (pp. 549–553, PDF 563–567)
+
+**Saṃhitā-pāṭha** *(p. 549; accents not reproduced)*
+
+> **प्रियमेधवदत्रिवज्जातवेदो विरूपवत् ।**
+> **अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥ ३ ॥**
+
+*priyamedhavad atrivaj jātavedo virūpavat |*
+*aṅgirasvan mahivrata praskaṇvasya śrudhī havam || 3 ||*
+
+**Pada-pāṭha** *(p. 550)*
+
+> प्रियमेधऽवत् । अत्रिऽवत् । जातऽवेदः । विरूपऽवत् ।
+> अङ्गिरस्वत् । महिऽव्रत । प्रस्कण्वस्य । श्रुधि । हवम् ॥ ३ ॥
+
+*priyamedha-vat | atri-vat | jāta-vedaḥ | virūpa-vat |*
+*aṅgirasvat | mahi-vrata | praskaṇvasya | śrudhi | havam || 3 ||*
+
+*(The Saṃhitā prints the long* śrudhī*; the Pada has the short* śrudhi*, as the grammar below explains by the Vedic lengthening.)*
+
+**Sāyaṇa-bhāṣya** *(p. 550)*
+
+> **हे महिव्रत प्रभूतकर्मन् जातवेदोऽग्ने प्रस्कण्वस्य कण्वपुत्रस्य महर्षेर्हवमाह्वानं श्रुधि । शृणु । तत्र चत्वारो दृष्टान्ताः । प्रियमेधात्रिविरूपाङ्गिरोनामका ऋषयः एतेषामाह्वानं यथा शृणोषि तद्वत् । अत्र निरुक्तं । प्रियमेधः प्रिया अस्य मेधा [?] यज्ञैतेषामृषीणामेवं प्रस्कण्वस्य शृणु ह्वानम् । प्रस्कण्वः कण्वस्य पुत्रः कण्वप्रभवो यथा प्राग्रमिति [?] । विरूपो नानारूपो महिव्रतो महाव्रत इति च । नि. ३-१७ [?] ॥ प्रियमेधवत् । प्रियमेधस्येव । तत्र तस्येवेति । पा. ५-१-११६ [?] । इति षष्ठ्यर्थे वतिः । एवमत्रिवदित्यादावपि । प्रस्कण्वादयो गताः ॥**
+
+*he mahivrata prabhūtakarman jātavedo 'gne praskaṇvasya kaṇvaputrasya maharṣer havam āhvānaṃ śrudhi | śṛṇu | tatra catvāro dṛṣṭāntāḥ | priyamedhātrivirūpāṅgironāmakā ṛṣayaḥ eteṣām āhvānaṃ yathā śṛṇoṣi tadvat | atra niruktaṃ | priyamedhaḥ priyā asya medhā [?] yajñaitesām ṛṣīṇām evaṃ praskaṇvasya śṛṇu hvānam | praskaṇvaḥ kaṇvasya putraḥ kaṇvaprabhavo yathā prāgramiti [?] | virūpo nānārūpo mahivrato mahāvrata iti ca | ni. 3-17 [?] || priyamedhavat | priyamedhasyeva | tatra tasyeveti | pā. 5-1-116 [?] | iti ṣaṣṭhyarthe vatiḥ | evam atrivad ity ādāv api | praskaṇvādayo gatāḥ ||*
+
+*(The Nirukta passage in the middle is partly crowded: the words after* priyā asya medhā *and the clause ending "yathā prāgram" are given as read, doubtful [?].)*
+
+**Translation:** "O *mahivrata*, doer of mighty works, O *jātavedaḥ*, O Agni: *śrudhi*, hear, *havam*, the call of *praskaṇvasya*, of the great sage Praskaṇva, son of Kaṇva. Here are four examples: the sages named Priyamedha, Atri, Virūpa and Aṅgiras — as you hear the call of these, so (hear mine). On this the Nirukta [says]: '*Priyamedhaḥ*: he whose wisdom (*medhā*) is dear …; so for Praskaṇva hear the call; Praskaṇva, son of Kaṇva, born of Kaṇva …; *virūpaḥ*, of many forms; *mahivrataḥ*, of great vow' (Ni. 3-17 [?]). *Priyamedhavat*, like Priyamedha: by 'there, and like of that' (Pā. 5-1-116 [?]) the suffix *vati* in the sense of the genitive; the same for *atrivat* and the rest. *Praskaṇva* and the others have been dealt with."
+
+**Pratipadārtha** *(p. 550)* — "**mahivrata** — O Agni, doer of mighty works; **jātavedaḥ** — one who knows everything that is born; **priyamedhavat** — as you listened to the call of Priyamedha; **atrivat** — as to that of Atri; **virūpavat** — as you heeded the call of Virūpa; **aṅgirasvat** — as you heeded the call of Aṅgiras; **praskaṇvasya** — of the great sage Praskaṇva, son of Kaṇva; **havam** — the invocation; **śrudhi** — hear."
+
+**Bhāvārtha** *(p. 550)* — "O Agni, you are one who knows all that is born. As you heard the invocations of Priyamedha, Atri, Virūpa and Aṅgiras, so now too, hear the invocation of the great sage Praskaṇva, son of Kaṇva, and favour him."
+
+**English Translation (the source's own, p. 550)** — "Agni, accomplisher of great acts, you know all that are born ; hear the invocation of Praskanwa, as you have heard those of Priyamedha, of Atri, of Virupa, of Angiras."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 551–552**
+- **priyamedhavat** — "as one hears the call of the sage named Priyamedha. In the Ṛgveda *Priyamedha Āṅgiras* means the sage named Priyamedha, a son or descendant of Aṅgiras. In the second sūkta of the eighth maṇḍala of the Ṛgveda Saṃhitā he is a ṛṣi of a number of ṛks together with the sage Medhātithi Kāṇva, and he is the ṛṣi of the ṛks of several other sūktas of the same maṇḍala and of one sūkta of the ninth maṇḍala; in all, the ṛṣi of some dozens of ṛks [the Kannada author gives the sūkta numbers and ṛk-counts; the numerals are very small and I do not trust them, so they are not reproduced [?]]. The name of this Priyamedha is cited in many ṛks:" three quotations follow, **untranslated in the source**; I give each in three layers, my gloss *mine and tentative*, every reference "as read [?]":
+
+  1. > **दध्यङ्ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥** *(Ṛ. Saṃ. 1-139-[?] as read)*
+
+     *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ ||* — mine and tentative: "Dadhyañc, the earlier Aṅgiras, Priyamedha, Kaṇva, Atri, Manu knew my birth; those ancestors of mine, Manu, knew."
+  2. > **यथा चित्कण्वमावतं प्रियमेधमुप स्तुतम् ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *yathā cit kaṇvam āvataṃ priyamedham upa stutam |* — mine and tentative: "As you two helped Kaṇva, (and) Priyamedha, who was praised …"
+  3. > **अर्वाञ्चं त्वा पुरुष्टुत प्रियमेधस्तुता हरी ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *arvāñcaṃ tvā puruṣṭuta priyamedhastutā harī |* — mine and tentative: "O much-praised one, may the two bays praised by Priyamedha (bring) you hither."
+
+  "That this sage, being of the Āṅgirasa line, did many stotras and sacrifices especially together with the sage Medhātithi of the Kaṇva line, is to be understood. A close association of the Kaṇva line with the sage Priyamedha and his sons is seen; there are many ṛks whose words indicate '*priyamedhāḥ*, the sons or descendants of Priyamedha':"
+
+  4. > **महिकेरव ऊतये प्रियमेधा अहूषत ।** *(Ṛ. Saṃ. 1-45-4 as read — this very sūkta)*
+
+     *mahikerava ūtaye priyamedhā ahūṣata |* — mine and tentative: "The Priyamedhas, makers of great (deeds), called (Agni) for help."
+  5. > **यजद्धैनं प्रियमेधा इन्द्रं सत्राचा मनसा ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *yajaddhainaṃ priyamedhā indraṃ satrācā manasā |* — mine and tentative: "The Priyamedhas worshipped him, Indra, with a mind turned to him." (the first word as printed is doubtful [?])
+  6. > **इन्द्रं स्तोमेभिर्महयन्त आयवः प्रियमेधासो अस्वरन् ॥** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *indraṃ stomebhir mahayanta āyavaḥ priyamedhāso asvaran ||* — mine and tentative: "The people exalted Indra with praises; the Priyamedhas sang."
+  7. > **धीभिः सातानि काण्वस्य वाजिनः प्रियमेधैरभिद्युभिः ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *dhībhiḥ sātāni kāṇvasya vājinaḥ priyamedhair abhidyubhiḥ |* — mine and tentative: "… the gains of the Kāṇva, the strong, with thoughts, with the Priyamedhas, the shining (?)." (the sense is doubtful [?])
+  8. > **आ वां विश्वाभिरूतिभिः प्रियमेधा अहूषत ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata |* — mine and tentative: "The Priyamedhas called you two (to come) with all (your) helps."
+  9. > **अर्चेत प्रार्चेत प्रियमेधासो अर्चत ।** *(Ṛ. Saṃ. 8-[?]-[?] as read)*
+
+     *arceta prārceta priyamedhāso arcata |* — mine and tentative: "Sing, sing forth, Priyamedhas, sing."
+  10. > **आ वां विश्वाभिरूतिभिः प्रियमेधा अहूषत ।** *(Ṛ. Saṃ. 8-[?]-[?] as read; the line is printed twice, with different reference numerals)*
+
+      *ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata |* — gloss as for 8 above.
+  11. > **वयः सुपर्णा उप सेदुरिन्द्रं प्रियमेधा ऋषयो नाधमानाः ।** *(Ṛ. Saṃ. 10-[?]-[?] as read)*
+
+      *vayaḥ suparṇā upa sedur indraṃ priyamedhā ṛṣayo nādhamānāḥ |* — mine and tentative: "Like birds, like eagles, the Priyamedha seers sat down by Indra, begging."
+
+  "From this it may be inferred that the sage Priyamedha was not only a famous sage but one respected by all."
+- **atrivat** — "the sage Atri is a very famous sage; he and his line are the ṛṣis of the sūktas of the fifth maṇḍala of the Ṛgveda. That the line of this sage had a special connexion and intercourse with the lines of the sages Priyamedha, Kaṇva and Gotama is known from the ṛks [five references, numerals not trusted, [?]] and from the Aitareya Brāhmaṇa [reference, [?]]. And [two further Ṛgveda references, [?]]: since in these two ṛks the names of the rivers Parūṣṇī and Yamunā are indicated, it appears that they had settled in the extensive region along those rivers."
+- **virūpavat** — "the sage named Virūpa is a descendant of the sage Aṅgiras. The name of this sage occurs, besides in this ṛk, only in the ṛk" (**untranslated in the source**; reference "8-[?]-[?]" as read):
+
+  > **तस्मै नूनमभिद्यवे वाचा विरूप नित्यया ।** *(Ṛ. Saṃ. 8-[?]-[?])*
+
+  *tasmai nūnam abhidyave vācā virūpa nityayā |* — mine and tentative: "To him, to the shining one, now, O Virūpa, with constant speech" (the sentence is cut off in the print; no firm sense).
+
+  "Because it is only in this ṛk, we have not learnt more of this sage."
+- **aṅgirasvat** — "the sage Aṅgiras is very famous and the primal ancestor of the sage-line of that name. His name is mentioned in Ṛ. Saṃ. 1-45-3 [this ṛk]; 1-139-[?]; 3-31-[?] and other ṛks."
+
+**Vyākaraṇa-prakriyā** *(p. 553 — grammar page, noted briefly)*
+- **priyamedhavat**: analysis "*priyamedhasyeva*"; *tatra tasyeva* (Pā. 5-1-116 as read [?]) — तत्र तस्येव — the suffix *vati* after words ending in the locative or the genitive in the senses "as in that" and "as of that"; the *i* of *vati* is for pronunciation; the list is read as *tasivati*, hence by *taddhitaś cāsarvavibhaktiḥ* the word is *avyaya*, and the following *sup* is dropped by *avyayād āp supaḥ*.
+- **atrivat**: the process is as before. **jātavedaḥ**: explained at Ṛ. Saṃ. 1-44-1 (as printed [?]). **virūpavat**: "*virūpasyeva*", *vati* after the genitive. **aṅgirasvat**: "*aṅgirasa iva*", the *vati* by *tatra tasyeva*. **praskaṇvasya**: explained at Ṛ. Saṃ. 44-6 (as read [?]). **śrudhi**: *anyeṣām api dṛśyate* gives the lengthening; the rest of the process is given at a place whose numeral I read as "45-1" [?]. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 549 (PDF 563) reached; heading, introduction and Riks 45.1–45.2 complete.**
+---
 
-**Next task:** Rik 45.3 begins in the lower half of printed p. 549 (PDF 563): its Saṃhitā (*priyamedhavad atrivaj jātavedo virūpavat | aṅgirasvan mahivrata praskaṇvasya śrudhī havam || 3 ||*, read from the print) is on that page, but its Pada is on p. 550 and nothing of it is written yet. Continue from there to the end of Sūkta 45 (10 Riks; check the print for the closing note), then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 563 -l 590 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Sūkta 45 so far: Anukramaṇikā clause and Āśvalāyana numerals (4-14 vs 4-13) doubtful; varga numerals read "31, 32" [?]; the Vasu/Rudra/Āditya figures read 8, 11, 12 and a total of 33 (sum 31 — recorded, not adjusted); all Ṛgveda/Nirukta/Vājasaneya references "as read [?]"; the Manu reference list not reproduced; many grammar sūtra numerals [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+---
+
+**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 553 (PDF 567) reached; heading, introduction and Riks 45.1–45.3 complete; Rik 45.4's Saṃhitā and Pada are on the lower part of p. 553 and are NOT yet written.**
+
+**Next task:** Rik 45.4 (*mahikerava ūtaye priyamedhā ahūṣata | rājantam adhvarāṇām agniṃ śukreṇa śociṣā || 4 ||*, read from the print; its bhāṣya begins p. 554) — start from the Saṃhitā at the foot of p. 553 (PDF 567), then Riks 5–10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 567 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.1–3: see the notes in each Rik; in 45.3 the Nirukta passage in the bhāṣya partly crowded, the many Ṛgveda reference numerals not reproduced or [?]. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
