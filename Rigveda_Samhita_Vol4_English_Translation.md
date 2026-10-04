@@ -5387,10 +5387,92 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
+## SŪKTA 39 *(printed p. 339 foot = PDF 353)*
+
+**Thirty-ninth Sūkta** *(large Kannada title line: "mūvattombhattaneya sūktavu")*
+
+### Page 339 (PDF 353) — Sāyaṇa's introduction and the Kannada anuvāda
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the words marked [?] are crowded)*
+
+> प्रयदित्थेति दशर्चं चतुर्थं सूक्तम् । घोरपुत्रस्य कण्वस्यार्षम् । मरुद्देवताकं । युजः सतोबृहत्यः । अयुजो बृहत्यः । प्र यद्दश [?] प्रागाथं त्रि[?]त्यनुक्रमणिका । गतो विनियोगः ॥
+
+*prayad itthety daśarcaṃ caturthaṃ sūktam | ghoraputrasya kaṇvasyārṣam | maruddevatākaṃ | yujaḥ satobṛhatyaḥ | ayujo bṛhatyaḥ | pra yad daśa [?] prāgāthaṃ tri[?]ty anukramaṇikā | gato viniyogaḥ ||*
+
+**Translation:** "*Pra yad itthā* — the fourth sūkta [of the anuvāka], of ten ṛks; the seer's work of Kaṇva, the son of Ghora; its deity is the Maruts; the even-numbered [ṛks] (*yujaḥ*) are *Satobṛhatī*; the odd-numbered (*ayujaḥ*) are *Bṛhatī*. The Anukramaṇikā [says]: '*pra yad daśa prāgātham*' [the last words crowded [?]]. The application (*viniyoga*) has been stated [before]." *(Translation tentative.)*
+
+**Anuvāda (Kannada), p. 339** — "*Pra yad itthā* is the fourth sūkta in the eighth anuvāka. In it there are ten ṛks. The ṛṣi of this sūkta is Kaṇva, the son of Ghora; the deities are the Maruts. *Prāgātha* is the metre: the even-numbered ṛks are in the *Satobṛhatī* metre, the odd-numbered ṛks in the *Bṛhatī* metre. What the Anukramaṇikā says is '*pra yad daśa prāgātham*' [as read]. The *viniyoga* has been stated already."
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–38 COMPLETE (printed pp. 1–339 top = PDF 15–353; Sūkta 38 occupies pp. 292–339 and ends at the top of p. 339, with no printed closing sentence).**
+### Page 340 (PDF 354) — heading of Sūkta 39 and Rik 39.1
 
-**Next task:** Sūkta 39 (*pra yad itthā*, Anuvāka 8, 10 Riks, ṛṣi Kaṇva Ghaura, Maruts, *prāgātha* metre — as read from the foot of p. 339), starting with its heading line, Sanskrit introduction and Kannada anuvāda at the foot of printed p. 339 = PDF 353 (the end of Sūkta 38 shares that leaf; not yet written); Rik 1 follows on p. 340 (PDF 354). The contents table gives Sūkta 40 (*utti­ṣṭha brahmaṇas pate*) at p. 376. One session per sūkta (or as the user directs); read the last ~40 lines of this file first. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–356) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 353 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+**॥ ॐ ॥**
 
-**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history). Sūkta 38: (1) heading varga numerals not read [?]; (2) intro: one word of the metre sentence crowded [?]; (3) Rik 1: *ste* after *asmān* unclear [?]; (4) Rik 3: a sign like a Kannada "3" follows *kvo* in Saṃhitā and Pada (unresolved); *tannādīnām* vs *tanvādīnām*; (5) Rik 2: a misprinted heading *bhāvārtha* over the Pada; *tabādeśaḥ* vs *tap*; (6) every Pāṇini / Kāśikā / Uṇādi / Phiṭ / Taittirīya / Nirukta / Ṛgveda number is "as read [?]"; (7) the long grammar entries of Riks 4, 6, 7, 9, 11, 12, 13, 14 and 15 are characterized in outline from very crowded print and may contain slips; the *Kaumudī* quotation on p. 308, the *pakṣīṣṭa* remark on p. 310, the *upāt…* passage on p. 327, the *sāvekāca* argument on pp. 330–332, the *tasyedam*/*śeṣa* argument on pp. 334–335 and the *ini/ṭhan* argument on p. 338 are not reproduced; (8) Rik 5: root *jṝṣ* with a doubtful vowel; (9) Rik 6's English prints "him" for Nirṛti; (10) Rik 7: a doubtful clause on *kṛṇvanti*; (11) Rik 8: Pada's *sisakti* (s or ṣ?) and *prastuta°*/*prasnuta°* are my readings; (12) Rik 11: the *vīḷu* quotation, the clause *tena ca tadvāl lakṣyate*, and the *sed agnir…* quotation with my tentative gloss; (13) Rik 12: six *nemi* quotations in the Special Topics untranslated in the source, transcribed with my tentative glosses, reference numerals [?] (2 and 5 especially uncertain); the Kannada for *abhīśavaḥ* reads *ugurugaḷu* ("nails"?); (14) Rik 13: Saṃhitā *acchā vadā* (long) vs Pada *accha vada*; the root named *tasu* for *tanu* as printed; (15) Rik 14's Nighaṇṭu count ("fifty-seven" names of speech) is as read; (16) Rik 15: the *vandasva* paribhāṣā passage, the sūtra beginning *tāsyanudāttet…*, and the letter lost in *āsan* (*saṃyogāntasya lopaḥ*) are doubtful; (17) no printed closing sentence at the end of Sūkta 38.
+> **सूक्त — ३९**
+> ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ३९ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [१८ ?], [१९ ?] ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १० ॥
+> ॥ ऋषिः — कण्वो घौरः ॥
+> ॥ देवता — मरुतः ॥
+> ॥ छन्दः — प्रागाथं बार्हतं । १, ३, ५, ७, ९ बृहती । २, ४, ६, ८, १० सतोबृहती ॥
+
+*sūkta 39 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga [18 ?], [19 ?] | ṛks 10 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Prāgātha, Bārhata — Riks 1, 3, 5, 7, 9 Bṛhatī; Riks 2, 4, 6, 8, 10 Satobṛhatī.*
+
+**Translation of the heading:** "Sūkta 39; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga [18?], [19?]; number of ṛks in the sūkta: 10; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Prāgātha of the Bārhata kind: Riks 1, 3, 5, 7, 9 Bṛhatī; Riks 2, 4, 6, 8, 10 Satobṛhatī." *(The metre line and the numerals of the varga are small and read with doubt; the metre names were given a quick plausibility check only: Prāgātha = Bṛhatī + Satobṛhatī alternately.)*
+
+### Rik 39.1 (pp. 340–343, PDF 354–357)
+
+**Saṃhitā-pāṭha** *(p. 340; accents not reproduced)*
+
+> **प्र यदित्था परावतः शोचिर्न मानमस्यथ ।**
+> **कस्य क्रत्वा मरुतः कस्य वर्पसा कं याथ कं ह धूतयः ॥ १ ॥**
+
+*pra yad itthā parāvataḥ śocir na mānam asyatha |*
+*kasya kratvā marutaḥ kasya varpasā kaṃ yātha kaṃ ha dhūtayaḥ || 1 ||*
+
+**Pada-pāṭha** *(p. 340)*
+
+> प्र । यत् । इत्था । परा-वतः । शोचिः । न । मानम् । अस्यथ ।
+> कस्य । क्रत्वा । मरुतः । कस्य । वर्पसा । कम् । याथ । कम् । ह ।
+> धूतयः ॥ १ ॥
+
+*pra | yat | itthā | parā-vataḥ | śociḥ | na | mānam | asyatha |*
+*kasya | kratvā | marutaḥ | kasya | varpasā | kam | yātha | kam | ha |*
+*dhūtayaḥ || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 340–341)*
+
+> **हे धूतयः स्थावरादीनां कम्पनकारिणो मरुतो यद्यदा मानं मननीयं युष्मद्बलं परावतो दूरात् । आरे परावत इति दूरनामसु पाठात् । इत्था अस्मादन्तरिक्षादस्यथ [?] भूमौ प्रक्षिपथ । तत्र दृष्टान्तः । शोचिर्न तेज इव । यथा सूर्यस्य तेजोऽन्तरिक्षाद्भूमौ प्रक्षिप्यते तद्वत् । तदानीं यूयं कस्य यजमानस्य क्रत्वा क्रतुना सङ्गच्छध्व इति शेषः । तथा कस्य यजमानस्य वर्पसा स्तोत्रेण सङ्गच्छध्वे । कं यजमानमुद्दिश्य याथ । देवयजनदेशे गच्छथ । कं ह कं खलु यजमानमनुगृह्णीथेति शेषः ॥ इत्था । थाहेतौ च च्छन्दसि । पा. ५-३-२६ [?] । इतीदंशब्दात्प्रकारवचने थाप्रत्ययः । यदि तत्रेदंशब्दस्य नानुवृत्तिस्तर्हि थमुप्रत्ययान्तादिदंशब्दादुत्तरस्या विभक्तेर्व्यत्ययेन सुपां सुलुगिति डादेशः । प्रथमपक्षे प्रत्ययस्वरः । द्वितीयपक्षे तूदात्तनिवृत्तिस्वरः । अस्यथ । असु क्षेपणे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वं । यद्वृत्तयोगादनिघातः । क्रत्वा । जसादिषु छन्दसि वा वचनं । [Pā. 7-1-[?]] । इति नाभावस्य विकल्पितत्वादभावः । वर्पसा । वृज् सम्भक्तौ । वृजशीङ्भ्यां रूपेस्साङ्गयोः पुक्च [?] । उ. ४-२०० [?] । इत्यसुन् । तत्सन्नियोगेन पुगागमश्च । नित्त्वादाद्युदात्तत्वं । अत्र रूपाभिधायिना वर्पस्शब्देन देवतास्वरूपप्रकाशकं स्तोत्रं लक्ष्यते । क्रतुना साहचर्यात् ॥**
+
+*he dhūtayaḥ sthāvarādīnāṃ kampanakāriṇo maruto yad yadā mānaṃ mananīyaṃ yuṣmadbalaṃ parāvato dūrāt | āre parāvata iti dūranāmasu pāṭhāt | itthā asmād antarikṣād asyatha [?] bhūmau prakṣipatha | tatra dṛṣṭāntaḥ | śocir na teja iva | yathā sūryasya tejo 'ntarikṣād bhūmau prakṣipyate tadvat | tadānīṃ yūyaṃ kasya yajamānasya kratvā kratunā saṅgacchadhva iti śeṣaḥ | tathā kasya yajamānasya varpasā stotreṇa saṅgacchadhve | kaṃ yajamānam uddiśya yātha | devayajanadeśe gacchatha | kaṃ ha kaṃ khalu yajamānam anugṛhṇīteti śeṣaḥ || itthā | thāhetau ca cchandasi | pā. 5-3-26 [?] | itīdaṃśabdāt prakāravacane thāpratyayaḥ | yadi tatredaṃśabdasya nānuvṛttis tarhi thamupratyayāntād idaṃśabdād uttarasyā vibhakter vyatyayena supāṃ sulug iti ḍādeśaḥ | prathamapakṣe pratyayasvaraḥ | dvitīyapakṣe tūdāttanivṛttisvaraḥ | asyatha | asu kṣepaṇe | adupadeśāl lasārvadhātukānudāttatve śyano nittvād ādyudāttatvaṃ | yadvṛttayogād anighātaḥ | kratvā | jasādiṣu chandasi vā vacanaṃ | [Pā. 7-1-[?]] | iti nābhāvasya vikalpitatvād abhāvaḥ | varpasā | vṛj sambhaktau | vṛjaśīṅbhyāṃ rūpesāṅgayoḥ puk ca [?] | u. 4-200 [?] | ity asun | tatsanniyogena pugāgamaś ca | nittvād ādyudāttatvaṃ | atra rūpābhidhāyinā varpaśabdena devatāsvarūpaprakāśakaṃ stotraṃ lakṣyate | kratunā sāhacaryāt ||*
+
+**Translation:** "O *dhūtayaḥ*, shakers of fixed things and the like — Maruts — *yad*, when, *mānam*, your estimable strength, *parāvataḥ*, from afar (since *āre*, *parāvataḥ* are read among the names of 'far'), *itthā*, from this atmosphere [print: *asmād antarikṣād asyatha*, doubtful [?]], *asyatha*, you cast, you throw down to the earth. The example: *śocir na* — like light: as the light of the sun is thrown from the atmosphere to the earth, so. Then, *kasya*, with which sacrificer's *kratu*, rite, do you meet — so the remainder is to be supplied — and, with which sacrificer's *varpas*, praise, are you united? *Kam yātha* — aiming at which sacrificer do you go to the place of the divine rite? *Kam ha* — whom indeed do you favour? so the remainder."
+
+**Translation of the grammatical tail** *(characterized; numerals as read [?])*: *Itthā* — by *thāhetau ca chandasi* [Pā. 5-3-26 [?]] the suffix *thā*, in the sense of manner, after the word *idam*; if the word *idam* is not carried over there, then, after a base ending in *tham*, the case-ending of the word *idam* is given the substitute *ḍā* by *vyatyaya*, via *supāṃ sulug…*; in the first alternative the accent is that of the suffix, in the second the accent that follows the disappearance of an acute. *Asyatha* — root *asu kṣepaṇe*; the unaccentedness of the *sārvadhātuka* after a root with an acute, and since *śyan* is *nit*, the first syllable is acute; no *nighāta* because of the connection with *yat*. *Kratvā* — by the vārttika *jasādiṣu chandasi vā vacanam* the *nā*-substitute is optional, so here it does not occur. *Varpasā* — root *vṛj sambhaktau*; the Uṇādi suffix *asun* with the augment *puk* [Uṇ. 4-200 [?]]; because it is *nit* the first syllable is acute; "here by the word *varpas*, which denotes form, the praise that reveals the nature of the deity is meant, by association with *kratu*."
+
+**Pratipadārtha** *(p. 341)* — "**dhūtayaḥ** — (O Maruts) you who make even immovable things tremble; **marutaḥ** — O Maruts; **yat** — when; **mānam** — your worshipful strength; **parāvataḥ** — from a very distant region; **itthām** — from this atmosphere; **śocir na** — as the sun sends out its rays; **prāsyatha** — you spread [your strength] over the earth; **kasya** — of which sacrificer; **kratvā** — [by the rite] to which will you go? **kasya** — of which sacrificer; **varpasā** — by the praise [will you be satisfied]; **kam** — aiming at which sacrificer; **yātha** — do you go to the place of sacrifice? **kam ha** — whom indeed [will you favour]?"
+
+**Bhāvārtha** *(p. 341)* — "O Maruts, who have the strength to make fixed things tremble: as the rays of the sun fall from the atmosphere and spread out to all the world, your worshipful power spreads from the atmosphere to all the worlds. Now to the sacrifice of which sacrificer will you go? By whose praise will you be satisfied? Aiming at which sacrificer do you go to the place of sacrifice? Whom will you favour?"
+
+**English Translation (the source's own, p. 342)** — "O Maruts, you make all things tremble ; you direct your awful power downwards from afar, as light descends from the heaven ; by whose worship, by whose praise are you attracted ? To what place of sacrifice or to whom indeed do you repair ?"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 342**
+- "The sense of this ṛk begins abruptly [*toḍakāgiruvudu*]. The power of the Marut-deities is boundless. It spreads over the earth like the rays of the sun, falling downward from the atmosphere very far away. O Marut-deities who have such power: now to whose place of sacrifice will you go? To favour whom will you go? — this is the main intention. In this intention, when the ṛṣi asks 'where have you gone?', there must have been a calm state, without thunder and without rain; and therefore he asks where the Marut-deities have gone. In an earlier sūkta — [the sūkta and ṛk numerals are printed unclearly: 35th, 1st ṛk? [?]] — the ṛṣi Hiraṇyastūpa, at night-time, addressing Savitṛ (the Sun), asked a question of this very kind: 'Where is the sun now? What world is he lighting?' When the visible Sun, Maruts and other deities are not seen at an unusual time, astonished questions such as 'Where do they go? Where are they now?' are natural."
+- **parāvataḥ** — "since the word *parāvataḥ* is read among the five names of 'far' beginning with *āke*, *parāke* (Ni. 3-[?]-[?], as read), *parāvataḥ* means 'from afar'. The sense is that the wind blows from very far away in the atmosphere."
+- **śocir na** — "'like a brilliant thing': that is, as the light of the sun comes to the earth from very far: so the intention of the example."
+- **varpasā** = *stotreṇa* — *vṛj sambhaktau* — "by praise."
+- **dhūtayaḥ** = *sthāmādīnāṃ kampanakāriṇaḥ* — "those who, by the power of their strength, make shake [make sway] fixed things such as houses, and trees and the like."
+
+**Vyākaraṇa-prakriyā** *(p. 342 foot, begun; the rest on p. 343 not yet written)*
+- **pra**: *upasargāś cābhivarjam* — उपसर्गाश्चाभिवर्जम् — [Phiṭ. sūtra 80 [?], as read]: the prefixes, except *abhi*, are first-syllable acute; so *pra* is *ādyudātta*. *(Continued on p. 343.)*
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–38 COMPLETE; Sūkta 39 in progress: printed p. 342 (PDF 356) reached; introduction (p. 339), heading (p. 340) and Rik 39.1 written through the first grammar entry (*pra*).**
+
+**Next task:** continue at printed p. 343 (PDF 357) with the rest of the grammar of Rik 39.1, then Riks 2–10 and the close of Sūkta 39 (to about p. 375; Sūkta 40 *uttiṣṭha brahmaṇas pate* begins about p. 376, check), then STOP at the end of Sūkta 39 unless told otherwise. Rendered pages `/tmp/x/v-NNN.jpg` (150 dpi, PDF 190–390) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 357 -l 390 Rig_Vol4.pdf /tmp/x/v`.
+
+**Open flags (Volume 4):** earlier flags stand (see CLAUDE.md and the git history; Sūkta 38's list is in the git history of this file's progress note, e.g. the commit "Vol 4: Sūkta 38 complete"). Sūkta 39 so far: (1) the varga numerals and the metre line in the heading are small and read with doubt; (2) in the introduction the last words of the Anukramaṇikā quotation are crowded [?]; (3) Rik 1's bhāṣya: *asmād antarikṣād asyatha* (after *itthā*) is doubtful, the Pāṇini / Uṇādi / vārttika numbers are "as read [?]", and the Special Topics' reference to an earlier sūkta of Hiraṇyastūpa (number printed unclearly) is not settled.
