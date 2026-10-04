@@ -11,9 +11,8 @@ Volumes 1–2 files are closed; do not edit them.
 
 ## Current position
 
-Volume 3 translation is under way: **Sūktas 20–31 are complete — through printed page 587 (upper part).** (Sūkta 31, "tvam agne prathamo aṅgirāḥ", has 18 Riks to Agni, seer Hiraṇyastūpa; it runs pp. 517–587. Sūkta 30 ran pp. 458–517.) Provisional items to re-check at a higher resolution: Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), the Sūkta 29 Rik 7 bhāṣya wording (p. 455), the dense Brāhmaṇa quotations in Sūkta 30 Riks 16–20, and the Special-Topics citations of Ṛg-Saṃhitā/Nirukta in Sūkta 31 (numerals [?]).
-**Next task: begin Sūkta 32 ("indrasya nu vīryāṇi pra vocam", 15 Riks, Indra; Rishi Hiraṇyastūpa; Triṣṭubh) — introductory note on the lower half of printed p. 587 (PDF page 602); Rik 1 follows on p. 588.** The volume
-ends about printed p. 648. The tail of the output file has the progress note and the open flags — read the last ~40 lines before starting any new batch.
+**Volume 3 translation is COMPLETE: Sūktas 20–32 are all translated, through the last leaf (printed p. 648 = PDF 663).** Actual sūkta start pages: 30 p.458; 31 p.517; 32 p.587 (earlier guesses in older notes were wrong). Provisional items to re-check at a higher resolution: Sūkta 24 Rik 1's Aitareya-Brāhmaṇa Sanskrit (pp. 238–242), the Sūkta 28 introductory note/Brāhmaṇa quotation (pp. 408–409), the Sūkta 29 Rik 7 bhāṣya wording (p. 455), the dense Brāhmaṇa quotations in Sūkta 30 Riks 16–20, the Ṛg-Saṃhitā/Nirukta citations in Sūkta 31's Special Topics, and Sūkta 32's *trikadruka* citations and Rik 14 Brāhmaṇa quotations. One process error is corrected in the file (Sūkta 32 Rik 6 grammar written before viewing pp. 610–611): **never write any part of a note from a page not yet viewed.**
+**Next task: none for Volume 3 except optional clean-up** (fix the contents table in the md header; known-limitations appendix; expert review). When the user supplies the next volume, follow "Starting the next volume" below.
 The user has asked to carry on through the following sūktas in one run; keep grammar notes brief, and commit/push after each sūkta.
 
 **PDF-to-printed-page offset (Volume 3): printed page = PDF page − 15.** (Same as Volume 2.) The first printed page is PDF page 16, the heading
