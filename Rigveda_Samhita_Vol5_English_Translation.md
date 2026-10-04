@@ -2643,8 +2643,101 @@
 
 ---
 
+**Rik 50.11, continued** *(from p. 138, second paragraph of the bhāṣya)*
+
+**Sāyaṇa-bhāṣya, continued** *(pp. 138–)*
+
+> **हे सूर्य सर्वस्य प्रेरक मित्रमहः सर्वेषामनुकूलदीप्तियुक्त अद्यास्मिन्काले उद्यन् उदयं गच्छन् उत्तरामुद्गततरां दिवमन्तरिक्षमारोहन् अभिमुख्येन प्राप्नुवन् । यद्वा । दिवमन्तरिक्षमुत्तरामारोहन् उत्कर्षेण प्राप्नुवन् । एवंविधस्त्वं मम हृद्रोगं हृदयगतमान्तरं रोगं हरिमाणं शरीरगतकान्तिहरणशीलं बाह्यं रोगं । यद्वा । शरीरगतं हरिद्वर्णं रोगप्राप्तं वैवर्ण्यमित्यर्थः । तदुभयमपि नाशय । मां स्तोतारमुभयविधाद्रोगान्मोचयेत्यर्थः ॥ मित्रमहः । मित्रमनुकूलं महस्तेजो यस्यासौ । आमन्त्रितनिघातः । उत्तरां । उदित्यनेनोपसर्गेण स्वसंस्पृष्टधात्वर्थो लक्ष्यते । तस्मादातिशायनिकस्तरप्प्रत्ययः । प्रथमपक्षेऽन्तरिक्षविशेषणत्वेन द्रव्यप्रकर्षप्रतीतेरामू न भवति । द्वितीये त्वारोहणक्रियायाः प्रकर्षो गम्यत इति किमेत्तिङव्ययघादाम्वद्रव्यप्रकर्षे । पा. ८-२-१७ [?] । इति आमुः । प्रथमपक्षे टाप्स्वरपोः पित्त्वादनुदात्तत्व उपसर्गस्वर एव शिष्यते । द्वितीये त्वामुत्प्रत्ययस्य सति शिष्टत्वात्तस्यैव स्वरे प्राप्ते व्यत्ययेनाद्युदात्तत्वं । वृषादिर्वा द्रष्टव्यः । स ह्याकृतिगणः । हृद्रोगं । वा शोकष्यञ्रोगेषु । पा. ६-३-५१ । इति हृदयशब्दस्य हृदादेशः । मम । युष्मदस्मदोर्ङसीत्याद्युदात्तत्वं । हरिमाणं । हृञ् हरणे । जनिहृभ्यामिमनिन् । उ. ४-१५३ [?] । इत्याणादिक इमनिन्प्रत्ययः । व्यत्ययेनान्तोदात्तत्वं । यद्वा । हरिच्छब्दस्य वर्णवाचित्वाद्वर्णदृढादिभ्यः ष्यञ् च । पा. ५-१-१२३ । इति चकारादिमनिच्प्रत्ययः । इष्ठेमेयःसु ... ॥**
+
+*he sūrya sarvasya preraka mitramahaḥ sarveṣām anukūladīptiyukta adyāsmin kāle udyan udayaṃ gacchan uttarām udgatatarāṃ divam antarikṣam ārohan abhimukhyena prāpnuvan | yadvā | divam antarikṣam uttarām ārohan utkarṣeṇa prāpnuvan | evaṃvidhas tvaṃ mama hṛdrogaṃ hṛdayagatam āntaraṃ rogaṃ harimāṇaṃ śarīragatakāntiharaṇaśīlaṃ bāhyaṃ rogaṃ | yadvā | śarīragataṃ haridvarṇaṃ rogaprāptaṃ vaivarṇyam ity arthaḥ | tad ubhayam api nāśaya | māṃ stotāram ubhayavidhād rogān mocayety arthaḥ || mitramahaḥ | mitram anukūlaṃ mahas tejo yasyāsau | āmantritanighātaḥ | uttarāṃ | ud ity anenopasargeṇa svasaṃspṛṣṭadhātvartho lakṣyate | tasmād ātiśāyanikas tarappratyayaḥ | prathamapakṣe 'ntarikṣaviśeṣaṇatvena dravyaprakarṣapratīter āmū na bhavati | dvitīye tv ārohaṇakriyāyāḥ prakarṣo gamyata iti kimettiṅavyayaghād āmvadravyaprakarṣe | pā. 8-2-17 [?] | ity āmuḥ | prathamapakṣe ṭāpsvarapoḥ pittvād anudāttatva upasargasvara eva śiṣyate | dvitīye tv āmutpratyayasya sati śiṣṭatvāt tasyaiva svare prāpte vyatyayenādyudāttatvaṃ | vṛṣādir vā draṣṭavyaḥ | sa hy ākṛtigaṇaḥ | hṛdrogaṃ | vā śokaṣyañrogeṣu | pā. 6-3-51 | iti hṛdayaśabdasya hṛdādeśaḥ | mama | yuṣmadasmador ṅasīty ādyudāttatvaṃ | harimāṇaṃ | hṛñ haraṇe | janihṛbhyām imanin | u. 4-153 [?] | ity āṇādika imaninpratyayaḥ | vyatyayenāntodāttatvaṃ | yadvā | hariñ śabdasya varṇavācitvād varṇadṛḍhādibhyaḥ ṣyañ ca | pā. 5-1-123 | iti cakārād imanicpratyayaḥ | iṣṭhemeyaḥsu …*
+
+*(The bhāṣya is printed in a long crowded stretch at the foot of p. 138 and, as I see it, runs over the page; in the print it ends with "iṣṭhemeyaḥsu …ṭer iti ṭilopaḥ"; the numbers 8-2-17 and 4-153 [?], the rule-name "kimettiṅavyayaghādāmvadravyaprakarṣe", and the reading "ṭāpsvarapoḥ" are crowded. The grammar page below on* uttarām *explains the same points at length, and I rely on it for the rule.)*
+
+**Translation:** "O Sūrya, impeller of all, O *mitramahaḥ*, endowed with a light favourable to all: *adya*, now, *udyan*, rising, *uttarām divam ārohan*, climbing the higher sky — or, climbing the sky ever higher, reaching it by excellence: such as you are, *mama hṛdrogam*, my disease of the heart, an inward disease, and *harimāṇam*, the outward disease that robs the body of its lustre — or, the yellow colour of the body, that is, the discolouration got from disease — *nāśaya*, destroy both: free me, the praiser, from both kinds of disease. *Mitramahaḥ*: 'he whose *mahas*, splendour, is *mitram*, favourable'. *Uttarām*: the prefix *ut* indicates the meaning of the root it touches; from it the superlative-type suffix *tarap*; in the first view, since the greatness of a thing is understood as an adjective of *antarikṣa*, *āmu* does not come; in the second, since the excellence of the act of climbing is understood, *āmu* (*kimettiṅavyayaghād āmu advyaprakarṣe*, Pā. 8-2-17 [?]) comes; and so on. *Hṛdrogam*: *hṛd* for *hṛdaya* by *vā śokaṣyañrogeṣu* (Pā. 6-3-51). *Mama*: initial-acute by *yuṣmadasmador ṅasi*. *Harimāṇam*: root *hṛñ haraṇe*; the *imanin* of the Uṇādi list (Uṇ. 4-153 [?]); by exchange end-acute; or, since *harit* denotes a colour, *imanic* by the *ca* of *varṇadṛḍhādibhyaḥ ṣyañ ca* (Pā. 5-1-123)."
+
+**Pratipadārtha** *(p. 139)* — "**mitramahaḥ** — O Sūrya, possessed of a splendour favourable to all the world; **sūrya** — O Sūrya, impeller of all; **adya** — now; **udyan** — rising; **uttarām divam ārohan** — climbing into the highest sky (the atmosphere), or climbing the atmosphere very high; **mama** — my; **hṛdrogam** — the disease in the heart (within the body); **harimāṇam** — the disease outside that takes away the body's beauty (lustre); or the yellow disease, which gives a ruinous colour; **nāśaya** — destroy."
+
+**Bhāvārtha** *(p. 139)* — "O Sūrya, with your light that is favourable to all the world, you are the impeller of all. Now, rising and climbing to the highest sky, destroy both the disease within my heart and the outward diseases of the body, which make the body yellow, such as jaundice and leprosy."
+
+**English Translation (the source's own, p. 139)** — "O Sun, rising to-day and mounting into the highest heaven you look radiant with benevolent light; remove the sickness of my heart and the yellowness (of my body)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 139–141**
+- **udyann adya** — "it is well known that this ṛk, *udyann adya*, together with the next two ṛks, is used for the cure of disease. In the Anukramaṇikā too it is said '*antyas tṛco rogaghna upaniṣadi ca*' (as printed), that is, that these last three ṛks of the sūkta *udu tyam* destroy disease. And this is fitting: since Praskaṇva, the ṛṣi of this sūkta, prayed to the Sun in these three ṛks that he remove a disease of the skin, the Sun destroyed the sage's disease. Therefore, if the Sun is prayed to even now with these three ṛks, the disease will be removed. On this matter the great sage Śaunaka says" — **untranslated in the source**:
+
+  > **उद्यन्नद्येति मन्त्रोऽयं सौरः पापप्रणाशनः । रोगघ्नश्च विषघ्नश्च भुक्तिमुक्तिफलप्रदः ॥** *(Śaunaka, as the print gives it)*
+
+  *udyann adyeti mantro 'yaṃ sauraḥ pāpapraṇāśanaḥ | rogaghnaś ca viṣaghnaś ca bhuktimuktiphalapradaḥ ||* — mine and tentative: "this Saura mantra, *udyann adya*, destroys sin, destroys disease and poison, and gives the fruit of enjoyment and of liberation." The Kannada author adds: "this is to say that these three ṛks, with the Sun as deity, destroy not only the sins of the one who recites them but all diseases and poisons, and give the pleasures and liberation of this world and the next. In the work called *Bṛhaddevatā* it is also said '*rogaghnas tṛco 'ntyaḥ*' (Bṛ. De. 5-1[?]3 as read)." — **untranslated in the source**:
+
+  > **रोगघ्नस्तृचश्चोत्तमः ।** *(Bṛhaddevatā 5-1[?]3 as read [?])*
+
+  *rogaghnas tṛcaś cottamaḥ |* — mine and tentative: "and the last triad is the destroyer of disease."
+- **udyann adya** *(p. 140)* — "the Sun who has now risen; rising in the lower part of the eastern quarter and climbing in order; *uttarāṃ divam ārohan*: going to the upper part of the heaven (the atmosphere)."
+- **mitramahaḥ** — "*mitram anukūlaṃ mahas tejo yasyāsau*; *sarveṣām anukūladīptiyuktaḥ*: one who is joined with a light favourable to all, or most necessary to all."
+- **uttarāṃ divam ārohan** — "*udgatatarāṃ divam ārohan*: after the rising, going higher and higher in order in the atmosphere. The idea is that the Sun, rising in the morning in the lower part of the atmosphere, comes in order to the upper part at midday."
+- **hṛdrogam** — "the disease connected with the heart."
+- **harimāṇam** — "a kind of skin disease accompanied by a yellow colour in the body; some give this word the sense of leprosy (*toṇṇu*, 'Leprosy' [as printed in English]). The sage Praskaṇva prays to the Sun to remove such a skin disease."
+
+**Vyākaraṇa-prakriyā** *(pp. 140–142 — grammar pages, noted briefly)*
+- **mitramahaḥ**: "*mitram anukūlaṃ mahas tejo yasya sa*", one whose splendour is favourable to all; in the vocative singular after *mitramahas*, *su*; *asambuddhau*… (the rule prohibiting lengthening) forbids the lengthening; *halṅyābbhyo…* drops the *su*; *s* → *ru*, *visarga*: *mitramahaḥ*; *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented.
+- **uttarām**: *ut* is an *upasarga*; by *upasargāḥ kriyāyoge* (Pā. 1-4-59 as read) the name *upasarga* applies only in connexion with a verb; here, there being only the prefix and no verb, we must take a root-sense connected with the prefix; the root-sense is signalled by *lakṣaṇā* through *ut*; when the excess in that signalled root-sense is wanted, *tarap*. The Kannada author shows that there are two ways of explaining *uttarām*: in the first, *uttarām* is an adjective of *antarikṣa* ("higher sky"), and then, since an excess of a thing (substance) is understood, *āmu* does not come after *tarap*, by *kimettiṅavyayaghād āmu advyaprakarṣe* (Pā. 8-2-17? as read [?] — as printed "5-4-11"), which prescribes *āmu* only where the excess does not belong to a substance; in the second, the excess is that of the action of climbing (*ārohaṇa*), and so *āmu* does come on *tarap* by that rule. In the first, since *āmu* does not come, *tarap* after a feminine stem ending in *a* takes *ṭāp*: *uttarā*; in the second case: *uttarām*. Both *ṭāp* and *tarap* being *pit*, unaccented, so the prefix's own acute alone remains: *uttarām* is initial-acute; in the second view, where *tarap* is *pit* and unaccented, the end-acute that the *kṛt*-like rule would give is by exchange initial-acute (or the word is accepted into the *vṛṣādi* list, an *ākṛtigaṇa*, where the initial acute is enjoined).
+- **hṛdrogam**: "*hṛdayasya rogaḥ*"; *vā śokaṣyañrogeṣu* (Pā. 6-3-51 as read) gives *hṛd* for *hṛdaya* before *śoka*, *ṣyañ* and *roga* optionally; *hṛdrogam*.
+- **mama**: the genitive singular *ṅas* of *asmad*; *tavamamau ṅasi* [as printed: *tava mama ṅasi*, *kevalamāmakaikakṛtraka* … (Pā. 7-2-96 as read [?])] gives *mama* for *asmad* and the *ad*-loss by *śeṣe lopaḥ*; *yuṣmadasmadbhyāṃ ṅaso 'śa* (Pā. 7-1-27 as read) gives *aś* for *ṅas*; *ato guṇe* gives *pararūpa*; *ekādeśa udāttenodāttaḥ* would give an acute to the case-ending; but *yuṣmadasmador ṅasi* (Pā. 6-1-211 as read [?]) gives the initial acute: *mama* is initial-acute.
+- **harimāṇam**: root *hṛñ haraṇe*, *bhvādi*; *janihṛbhyām imanin* (Uṇ. 4-[?]53 as read [?]) gives *imanin*; *hṛ + imanin*; the *in* drops; *guṇa* since an *ārdhadhātuka*-named suffix; *har + iman*: *hariman*; the accusative *am*: *harimāṇam*, with *ṇatva* by *aṭkupvāṅnumvyavāye 'pi*; since *imanin* is *nit*, the initial acute; by exchange, end-acute. Or, *harit* is a word for colour; *varṇadṛḍhādibhyaḥ ṣyañ ca* (Pā. 5-1-123 as read) — the *ca* includes *imanic*: *harit + iman*; *ṭeḥ* (Pā. 6-4-143 as read) drops the *ṭi* of the *bha*-named *aṅga* before *iṣṭhan, imanic, īyasun*: the *it* drops; *hariman*; accusative: *harimāṇam* as before. **|| 11 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 138 (PDF 154) reached; title, introduction, heading and Riks 50.1–50.10 complete (50.9's grammar completed); Rik 50.11's Saṃhitā, Pada and the first paragraph of its bhāṣya (on the triad *udyann* for the cure of disease, with Śaunaka's verse) are written; the rest of its bhāṣya (the explanation of the words, p. 138 lower part) is NOT yet written.**
+### Rik 50.12 (pp. 142–144, PDF 158–160)
 
-**Next task:** continue at printed p. 138 (PDF 154), the second paragraph of the bhāṣya of Rik 50.11 beginning *he sūrya sarvasya preraka mitramahaḥ …* (the page's last two thirds), then its tail, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (pp. 139–141), then Riks 12–13 and the close of Sūkta 50 (13 Riks; the contents table puts Sūkta 51 at printed p. 147 — check the print); then update the progress note and CLAUDE.md position and STOP. Insert with a heading "**Rik 50.11, continued** *(from p. 138)*". Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 154 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-154.jpg`). Flags for 50.9–11: Pāṇini/Āśvalāyana/Taittirīya/Śatapatha numerals "as read [?]"; the first words of 50.11's bhāṣya ("udyann ity ayaṃ tṛco…", "astauttena") as read; 50.10's grammar note on *devatrā*'s accent unclear; all untranslated citations glossed "mine and tentative". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 142; accents not reproduced)*
+
+> **शुकेषु मे हरिमाणं रोपणाकासु दध्मसि ।**
+> **अथो हारिद्रवेषु मे हरिमाणं नि दध्मसि ॥ १२ ॥**
+
+*śukeṣu me harimāṇaṃ ropaṇākāsu dadhmasi |*
+*atho hāridraveṣu me harimāṇaṃ ni dadhmasi || 12 ||*
+
+**Pada-pāṭha** *(p. 142)*
+
+> शुकेषु । मे । हरिमाणम् । रोपणाकासु । दध्मसि ।
+> अथो इति । हारिद्रवेषु । मे । हरिमाणम् । नि । दध्मसि ॥ १२ ॥
+
+*śukeṣu | me | harimāṇam | ropaṇākāsu | dadhmasi |*
+*atho iti | hāridraveṣu | me | harimāṇam | ni | dadhmasi || 12 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 142)*
+
+> **मे मदीयं हरिमाणं शरीरगतं हरिद्वर्णस्य भावं शुकेषु तादृशं वर्णं कामयमानेषु पक्षिषु तथा रोपणाकासु शारिकासु पक्षिविशेषेषु दध्मसि । स्थापयामः । अथो अपि च हारिद्रवेषु हरितालद्रुमेषु तादृग्वर्णेषु वत्स्वपि मे मदीयं हरिमाणं नि दध्मसि । निदधीमहि । स च हरिमा तत्रैव सुखेनास्तामस्मान्मा बाधिष्वेत्यर्थः ॥ दध्मसि । इदन्तो मसिरिति मस इकारागमः ॥**
+
+*me madīyaṃ harimāṇaṃ śarīragataṃ haridvarṇasya bhāvaṃ śukeṣu tādṛśaṃ varṇaṃ kāmayamāneṣu pakṣiṣu tathā ropaṇākāsu śārikāsu pakṣiviśeṣeṣu dadhmasi | sthāpayāmaḥ | atho api ca hāridraveṣu haritāladrumeṣu tādṛgvarṇeṣu vatsv api me madīyaṃ harimāṇaṃ ni dadhmasi | nidadhīmahi | sa ca harimā tatraiva sukhenāstām asmān mā bādhiṣveti arthaḥ || dadhmasi | idanto masir iti masa ikārāgamaḥ ||*
+
+*(The print's "vatsv api" is as I read it; "bādhiṣva" also read, [?].)*
+
+**Translation:** "*Me*, my, *harimāṇam*, the yellow colour (the state of the body that is yellow), *śukeṣu*, in parrots — birds that love such a colour — and *ropaṇākāsu*, in the *śārikā* birds, a kind of bird, *dadhmasi*, we place. *Atho*, and also, *hāridraveṣu*, in the *haritāla* trees, which are of such a colour, *me harimāṇam ni dadhmasi*, we deposit my yellowness; may it stay there in comfort, and not trouble us. *Dadhmasi*: *idanto masiḥ*, the *mas* takes the augment *i*."
+
+**Pratipadārtha** *(p. 142)* — "**me** — my (body's); **harimāṇam** — the yellow colour; **śukeṣu** — in parrots (which love that colour); **ropaṇākāsu** — and in starlings; **dadhmasi** — we place (in exchange for that of my body); **atho** — and; **hāridraveṣu** — in the *haritāla* trees; **me** — my (body's); **harimāṇam** — yellow colour; **ni dadhmasi** — we deposit."
+
+**Bhāvārtha** *(p. 143)* — "We place the yellow colour of my body, which is unfavourable to me, in parrots and starlings, which love that colour, and in *haritāla* trees."
+
+**English Translation (the source's own, p. 143)** — "Let us transfer the yellowness (of my body) to the parrots, to the starlings or to the Haridala tree."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 143**
+- "In the previous ṛk the sage Praskaṇva prayed to the Sun to remove the disease of his skin. In this mantra he explains in detail the method of removing the disease."
+- **śukeṣu** — "in parrots: the colour of parrots is both green and yellow. That colour, which belongs to my skin disease, is natural to parrots and the like. Therefore the sage prays to the Sun, indicating the way: that if this yellow colour caused by the disease is placed in birds like parrots, the disease of mine will be easily destroyed."
+- **harimāṇam** — "*haridvarṇasya bhāvam*: this skin disease of mine, with yellow colour; the yellow colour."
+- **ropaṇākāsu** — "in the birds called *śārikā*. [Printed in English:] 'Starlings'."
+- **hāridraveṣu** — "in the trees called *haritāla*; here it is not clear which tree *haritāla* is; perhaps the leaves of that tree are yellow in colour. *Haritāla* may also be said to be the *arasina* [turmeric]."
+
+**Vyākaraṇa-prakriyā** *(p. 143 — grammar page, begun)*
+- **dadhmasi**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, first person plural *mas*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 as read) gives *ślu* as the *vikaraṇa*; *ślau* (Pā. 6-1-10 as read) gives doubling: *dhā + dhā + mas*; *hrasvaḥ* (Pā. 7-4-59 as read) shortens the reduplicative syllable; *abhyāse carca* (Pā. 8-4-54 as read) gives the *jaś*: *dadhā + mas*; *śnābhyastayor ātaḥ* (Pā. 6-4-112 as read) drops the *ā* of the root when the *abhyasta* name applies: *dadh + mas*; *s* → *ru* and *visarga* are obtained; *idanto masi* (Pā. 7-1-46 as read) — the *mas* takes an *i*-augment…
+
+*(The rest of this grammar page, and the whole of Rik 13 with the close of Sūkta 50, are on pp. 143–146; not yet written.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–49 COMPLETE; Sūkta 50 in progress: printed p. 143 (PDF 159) reached; title, introduction, heading and Riks 50.1–50.11 complete; Rik 50.12's Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the opening of the grammar (*dadhmasi*) are written; the rest of the grammar of Rik 12 (from "*idanto masi*" at the foot of p. 143), Rik 13 (the last) and the close of Sūkta 50 are NOT yet written.**
+
+**Next task:** continue at printed p. 143 foot / p. 144 (PDF 159–160): insert "**Rik 50.12, continued** *(from p. 143 foot)*" with the rest of the grammar of Rik 12, then Rik 50.13 and the close of Sūkta 50 (check the print for the end of the sūkta and the contents table's p. 147 for Sūkta 51); write my summary of Sūkta 50; then update the progress note and CLAUDE.md position and STOP. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 17–215) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 159 -l 215 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-159.jpg`). Flags for 50.10–12: 50.11's bhāṣya tail is crowded (the rule-name on *āmu*, the Pāṇini number printed so that it reads "5-4-11" in the grammar page and my "8-2-17" in the tail — both [?]); the Bṛhaddevatā reference "5-1[?]3"; the Śaunaka verse as printed; the print's English in 50.11 says "yellowness (of my body)" kept; numerals "as read [?]". **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
