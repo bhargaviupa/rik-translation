@@ -9557,8 +9557,104 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
+**Rik 45.9, continued** *(from p. 566)*
+
+**Sāyaṇa-bhāṣya** *(p. 566)*
+
+> **हे सहस्कृत बलेन मथित सन्त्य फलदातर्वसो निवासहेतुभूताग्ने इह देवयजनदेशे अद्यास्मिन्दिने सोमपेयाय सोमपानार्थं प्रातर्याव्णः प्रातरागच्छतो देवान् दैव्यं जनमन्यमपि देवताजनं बर्हिरा सादय । यज्ञं प्रापय ॥ प्रातर्याव्णः । अल्लोपोऽन इत्यकारलोपः । सहस्कृत । सहतेऽभिभवत्यनेनेति सहो बलं । तेन क्रियते इति सहस्कृतः । ओजःसहोऽम्भस्तमसस्तृतीयायाः । पा. ६-३-३ [?] । इत्यलुग्भावश्छान्दसः ॥**
+
+*he sahaskṛta balena mathita santya phaladātar vaso nivāsahetubhūtāgne iha devayajanadeśe adyāsmin dine somapeyāya somapānārthaṃ prātaryāvṇaḥ prātar āgacchato devān daivyaṃ janam anyam api devatājanaṃ barhir ā sādaya | yajñaṃ prāpaya || prātaryāvṇaḥ | alloponaḥ ity akāralopaḥ | sahaskṛta | sahate 'bhibhavaty anena iti saho balaṃ | tena kriyate iti sahaskṛtaḥ | ojaḥsaho 'mbhastamasas tṛtīyāyāḥ | pā. 6-3-3 [?] | ity alugbhāvaś chāndasaḥ ||*
+
+*(The rule-name beginning* alloponaḥ*, and the Pāṇini rule for* sahaskṛta*, are crowded; the number and the wording are as read, [?].)*
+
+**Translation:** "O *sahaskṛta*, churned by strength; O *santya*, giver of fruit; O *vaso*, cause of dwelling; O Agni, *iha*, here, in this place of divine worship, *adya*, today, *somapeyāya*, for the drinking of Soma, *ā sādaya*, seat on the sacred grass *prātaryāvṇaḥ*, the gods who come in the morning, and *daivyaṃ janam*, any other group of divine beings. Bring (them to) the sacrifice. *Prātaryāvṇaḥ*: the *a* is dropped by *alloponaḥ*. *Sahaskṛta*: *saha* is strength, that by which one overcomes; 'made by it' is *sahaskṛtaḥ*; the non-dropping of the instrumental ending is Vedic."
+
+**Pratipadārtha** *(p. 566)* — "**sahaskṛte** — born of the power of rubbing (friction); **santya** — giver of fruit; **vaso** — cause of the dwelling-place, O Agni; **iha** — here in this place of divine sacrifice; **adya** — today; **somapeyāya** — for the drinking of Soma juice; **prātaryāvṇaḥ** — the gods who move in the morning; **daivyaṃ janam** — and the group belonging to other deities; **barhiḥ** — on the *darbha* seat of the sacrificial ground; **ā sādaya** — bring (them) and seat (them)."
+
+**Bhāvārtha** *(p. 566)* — "O Agni, born of the power of friction, you are the giver of fruit, the cause of the dwelling-place. Bring the gods who go in the morning, and the group that belongs to the other deities, to drink the Soma, and seat them on the *darbha* of the sacrificial ground."
+
+**English Translation (the source's own, p. 566)** — "Strength-generated (or produced by friction) Agni, giver of rewards, provider of dwellings, bring and seat the gods that move in the morning and other divine beings to drink the Soma-juice in this sacrifice."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 566–567**
+- **sahaskṛte** — "*balena araṇibhyāṃ mathita*: churned by the two *araṇis* with strength. When Agni is produced, strength, that is, force, is used in the *araṇi*-sticks; hence 'one churned (made to appear) by strength' is the idea. *Sahas* means strength (Ni. 2-[?] as read). In the sacrifice they lay one piece of the *araṇi* wood on another, churn it, and produce Agni; for that churning force has to be used." *(The Kannada author adds in English:)* "Produced by friction which requires strength to perform effectually."
+- **prātaryāvṇaḥ** — "*prātarāgacchataḥ*: those who go or move in the morning; that is, those who go to the sacrifices that the sacrificers perform in the morning."
+- **santya** — "the giver of fruit."
+- **iha** — "in these sacrifices"; **adya** — "now, today."
+- **daivyaṃ janam** — "the people belonging to the gods, that is, the deities. Since in this ṛk no particular deity is stated as *daivyaṃ janam*, it may be inferred that the thirty-three deities named Vasus, Rudras and Ādityas, spoken of in the first ṛk of this sūkta, are meant."
+- **āsādaya** — "make (them) sit, cause (them) to sit down." **vaso** — "leader of the place of dwelling."
+
+**Vyākaraṇa-prakriyā** *(p. 567 — grammar page, noted briefly)*
+- **prātaryāvṇaḥ**: *prātar* is an indeclinable ending in *r*; root *yā prāpaṇe*; "*prātaḥ yānti*"; *vanip* by *ato manin kvanib vanipaś ca* (Pā. 3-2-74 as read [?]); *prātaryāvan*, *śas*; *alloponaḥ* (Pā. 6-4-134 as read) drops the *a* of *an*; *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read) gives *ṇ* for *n*; because of the second member being a *kṛd*, the first keeps its natural accent, and the root's own accent (*dhātusvara*) alone remains.
+- **sahaskṛta**: "*sahate 'bhibhavaty anena iti sahaḥ balam*", root *saha marṣaṇe*, the suffix *asun* by *sarvadhātubhyo 'sun*; "*sahasā kṛtaḥ*", an instrumental *tatpuruṣa*; *ojaḥsahombhastamasas tṛtīyāyāḥ* (Pā. 6-3-3 as read [?]) — ओजःसहोऽम्भस्तमसस्तृतीयायाः [as I read it] — the instrumental ending does not drop (*aluk*) when the second member follows; since this is a case-ending that depends on a *prātipadika*, the *luk* that would come by *supo dhātuprātipadikayoḥ* ought logically not to come; but by the maxim *sarve vidhayaś chandasi vikalpyante* this too is optional, and so the *luk* of the instrumental does come here: *sahaskṛta*. **|| 9 ||**
+
 ---
 
-**Progress note — Volume 4: Sūktas 33–44 COMPLETE; Sūkta 45 in progress: printed p. 565 (PDF 579) reached; heading, introduction and Riks 45.1–45.8 complete; Rik 45.9's Saṃhitā and Pada written at the foot of p. 565 (its bhāṣya begins on p. 566).**
+### Rik 45.10 (pp. 568–571, PDF 582–585)
 
-**Next task:** continue at printed p. 566 (PDF 580) with the bhāṣya of Rik 45.9, then Rik 10 and the close of Sūkta 45; then STOP unless told otherwise. Re-render with `pdftoppm -jpeg -r 150 -f 580 -l 600 Rig_Vol4.pdf /tmp/x/v` if lost. Flags for Riks 45.7–8: "haviṣpradasya" in 45.8's bhāṣya crowded [?]; Pāṇini numerals "as read [?]"; the Pada of 45.8 printed without closing numeral. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
+**Saṃhitā-pāṭha** *(p. 568; accents not reproduced)*
+
+> **अर्वाञ्चं दैव्यं जनमग्ने यक्ष्व सहूतिभिः ।**
+> **अयं सोमः सुदानवस्तं पात तिरोअह्न्यम् ॥ १० ॥**
+
+*arvāñcaṃ daivyaṃ janam agne yakṣva sahūtibhiḥ |*
+*ayaṃ somaḥ sudānavas taṃ pāta tiroahnyam || 10 ||*
+
+**Pada-pāṭha** *(p. 568)*
+
+> अर्वाञ्चम् । दैव्यम् । जनम् । अग्ने । यक्ष्व । सहूतिऽभिः ।
+> अयम् । सोमः । सुऽदानवः । तम् । पात । तिरःऽअह्न्यम् ॥ १० ॥
+
+*arvāñcam | daivyam | janam | agne | yakṣva | sahūti-bhiḥ |*
+*ayam | somaḥ | su-dānavaḥ | tam | pāta | tiraḥ-ahnyam || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 568)*
+
+> **हे अग्ने अर्वाञ्चमभिमुखं दैव्यं जनं देवताजातं प्राणिनं सहूतिभिः समानाह्वानैर्देवान्तरैः सह यक्ष्व । यज । हे सुदानवः सुष्ठु फलदातारो देवाः अयं सोमो युष्मदर्थं सोमः पुरतो वर्तते । तं सोमं पात । पिबत । कीदृशं । तिरोअह्न्यमेतन्नामकं । पूर्वस्मिन्नह्न्यभिषुतो यः सोम उत्तरेऽहनि हूयते तस्यैतन्नामधेयं ॥ दैव्यम् । देवाद्यञञौ [?] । इति प्राग्दिव्यतीयार्थे यञ् । यक्ष्व । लोटि बहुलं छन्दसीति शपो लुक् । प्रत्ययस्वराभावश्छान्दसः । अग्न इत्यस्य पादादौ वर्तमानस्यामन्त्रितं पूर्वमविद्यमानवदिति [?] विद्यमानवत्त्वात् तिङ्ङतिङ इति निघाताभावः । सहूतिभिः । समानाहूतिराह्वानं येषां ते सहूतयः । समानस्य च्छन्दसीति सभावः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । पात । पा पाने । बहुलं छन्दसीति शपो लुक् । तिरोअह्न्यं । अहनि भवमह्न्यं । भवे छन्दसीति यत् । नस्तद्धिते इति टिलोपो न भवति अह्नष्टखोरेव । पा. ६-४-१४५ [?] । इति नियमात् । भसंज्ञायामल्लोपोऽनः इत्यकारलोपः । येचाभावकर्मणोः । पा. ६-४-१६८ [?] । इति प्रकृतिभावस्तु सर्वविधीनां छन्दसि विकल्पितत्वान्न क्रियते । तिरोहितोऽह्न्यस्तिरोअह्न्यः । प्रकृत्यान्तःपादमिति प्रकृतिभावः । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥ १० ॥**
+
+*he agne arvāñcam abhimukhaṃ daivyaṃ janaṃ devatājātaṃ prāṇinaṃ sahūtibhiḥ samānāhvānair devāntaraiḥ saha yakṣva | yaja | he sudānavaḥ suṣṭhu phaladātāro devāḥ ayaṃ somo yuṣmadarthaṃ somaḥ purato vartate | taṃ somaṃ pāta | pibata | kīdṛśaṃ | tiroahnyam etannāmakaṃ | pūrvasminn ahny abhiṣuto yaḥ soma uttare 'hani hūyate tasyaitannāmadheyaṃ || daivyam | devādyañañau [?] | iti prāgdivyatīyārthe yañ | yakṣva | loṭi bahulaṃ chandasīti śapo luk | pratyayasvarābhāvaś chāndasaḥ | agna ity asya pādādau vartamānasyāmantritaṃ pūrvam avidyamānavad iti [?] vidyamānavattvāt tiṅ ṅatiṅa iti nighātābhāvaḥ | sahūtibhiḥ | samānāhūtir āhvānaṃ yeṣāṃ te sahūtayaḥ | samānasya cchandasīti sabhāvaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | pāta | pā pāne | bahulaṃ chandasīti śapo luk | tiroahnyaṃ | ahani bhavam ahnyaṃ | bhave chandasīti yat | nas taddhite iti ṭilopo na bhavati ahnaṣṭakhor eva | pā. 6-4-145 [?] | iti niyamāt | bhasaṃjñāyām alloponaḥ ity akāralopaḥ | ye cābhāvakarmaṇoḥ | pā. 6-4-168 [?] | iti prakṛtibhāvas tu sarvavidhīnāṃ chandasi vikalpitatvān na kriyate | tirohito 'hnyas tiroahnyaḥ | prakṛtyāntaḥpādam iti prakṛtibhāvaḥ | avyayapūrvapadaprakṛtisvaratvaṃ || 10 ||*
+
+*(The rule-name beginning* devādyañañau *and the phrase "āmantritaṃ pūrvam avidyamānavad" are crowded in the print and given as read [?]; the closing numeral is printed "|| 1[0] ||".)*
+
+**Translation:** "O Agni, *arvāñcam*, (him who is) turned towards (us), *daivyaṃ janam*, the group of divine beings, born of the deities — *sahūtibhiḥ*, along with the other gods who have a common invocation, *yakṣva*, worship (them). O *sudānavaḥ*, gods who give fruit well: *ayaṃ somaḥ*, this Soma is placed before you; *taṃ pāta*, drink that Soma. Of what kind? *Tiroahnyam*, called by this name: the Soma that is pressed on the preceding day and offered on the following day has this name."
+
+**Grammatical tail** *(p. 568; characterized, numerals as read [?])*
+- *daivyam*: after *deva* the suffix *yañ* in the senses that precede the *divyatīya* group; *yakṣva*: in the imperative the *śap* drops (*bahulaṃ chandasi*); the suffix-accent is absent because of the Chandas; because the vocative *agne* is at the head of the *pāda* and counts as non-existent before, the verb is not unaccented (*tiṅ atiṅaḥ*).
+- *sahūtibhiḥ*: "those for whom the invocation (*āhūti*) is common"; *sa* for *samāna* in the Chandas; in the bahuvrīhi the first member keeps its natural accent.
+- *tiroahnyam*: *ahnyam* = "occurring in the day" (*bhave chandasi*, *yat*); the loss of *ṭi* by *nas taddhite* does not come, since *ahnaṣṭakhoreva* restricts it to the *ṭa*- and *kha*-suffixes; the loss of the *a* of *an* by *alloponaḥ* when it has *bha*-designation; the *prakṛtibhāva* by *ye cābhāvakarmaṇoḥ* is not made, being optional in the Chandas; "*tirohito 'hnyaḥ* = *tiroahnyaḥ*" (*prakṛtyāntaḥpādam* gives *prakṛtibhāva*); the first member, an indeclinable, keeps its natural accent.
+
+**Pratipadārtha** *(pp. 568–569)* — "**agne** — O Agni; **arvāñcam** — (one who is) turned towards (us); **daivyaṃ janam** — the group belonging to the deities; **sahūtibhiḥ** — together with the other gods who have a combined invocation; **yakṣva** — worship; **sudānavaḥ** — O gods, excellent givers of fruit; **ayaṃ somaḥ** — this Soma juice (is before you); **tiroahnyam** — called *tiroahnya* (since it is prepared on the previous day); **tam** — this Soma juice; **pāta** — drink."
+
+**Bhāvārtha** *(p. 569)* — "O Agni, call all the deities, the group belonging to the gods who stand before you, together, and worship them. O gods, the givers of fruit, this Soma juice has been made ready for you. Drink this Soma juice that was pressed on the previous day (yesterday)."
+
+**English Translation (the source's own, p. 569)** — "Agni, bring divine beings (gods) with simultaneous [sic: spelling as printed, 'simultaneous'] invocations and worship them ; O generous gods, this is (here is) the soma-juice, drink it, it was expressed yesterday"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 569**
+- **arvāñcam** — "facing us, in front. The idea: in the sacrifice the gods are to be called and made to sit facing the sacrificer."
+- **daivyaṃ janam** — "the groups of deities, that is, the Vasus, Rudras and Ādityas."
+- **sahūtibhiḥ** — "*samānāhvānaiḥ*: with invocations that call all together."
+- **tiroahnyam** — "*pūrvasminn ahny abhiṣuto yaḥ somaḥ uttare 'hani hūyate tasyaitannāmadheyam*: 'the Soma that is pressed on the previous day and is offered on the next day has this name' (Sanskrit as printed) — पूर्वस्मिन्नह्न्यभिषुतो यः सोमः उत्तरेऽहनि हूयते तस्यैतन्नामधेयम् — mine and tentative: as in the translation above. The 'previous day' means the day gone by: 'I offer to you today the Soma juice pressed and made ready on yesterday's day. Drink it,' the sage prays."
+
+**Vyākaraṇa-prakriyā** *(pp. 569–571 — grammar pages, noted briefly; the crowded stretch characterized only)*
+- **daivyam**: root *divu krīḍādau*, *pacādi*-suffix *ac*, *guṇa* of the light penultimate; "*devād yañ-añau*" (as read [?], a rule of Pā. 4-1-85 type): after *deva*, in the sense that precedes *divyatīya*, the suffix *yañ*; *yasyeti ca* drops the *a*; *taddhiteṣv acām ādeḥ* gives *vṛddhi* of the first vowel: the *e* becomes *ai*.
+- **yakṣva**: root *yaja devapūjādau*; *loṭ*, *thās*, *thāsaḥ se* (Pā. 3-4-80 as read) gives *se*; *savābhyāṃ vāmau* (Pā. 3-4-91 as read) gives *va* for the *e* (*se → sva*); *yaj + sva*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) drops the *śap* (*luk*); *vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ* (Pā. 8-2-36 as read) the *j* becomes *ṣ*; *ṣaḍhoḥ kaḥ si* (Pā. 8-2-41 as read) the *ṣ* becomes *k*: *yak + sva*; *ādeśapratyayayoḥ* gives *ṣ* for *s*: *yakṣva*. The vocative *agne* stands at the head of the *pāda* (so that *agne* is treated as not existing before), *āmantritaṃ pūrvam avidyamānavat* (Pā. 8-1-72 as read) and the word *yakṣva* thus stands at the head of the *pāda*; the all-unaccented by *tiṅ atiṅaḥ* does not come. The Kannada author remarks that although, as the word ends in a verbal suffix, the suffix-accent should come, the root-accent (*dhātusvara*) is what comes, being Vedic.
+- **sahūtibhiḥ**: "*samānā hūtiḥ (āhvānam) yeṣāṃ te sahūtayaḥ, taiḥ*"; *samānasya chandasy amūrdhaprabhṛtyudarkeṣu* (Pā. 6-3-84 as read) — in the Chandas, when a second member follows, *sa* for *samāna*, but not when *mūrdhan*, etc. follow; a bahuvrīhi, so the first member keeps its natural accent.
+- **pāta**: root *pā pāne* (class 1); *loṭ*, *tha*; *loṭo laṅvat* makes it like *laṅ*; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101 as read) gives *ta* for *tha*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) drops *śap*: *pāta*; the all-unaccented by *tiṅ atiṅaḥ*.
+- **tiroahnyam**: "*ahani bhavam* = *ahnyam*": *bhave chandasi* (Pā. 4-4-110 as read) — भवे छन्दसि — in the Chandas the suffix *yat* after a word in the locative in the sense of "being there"; *ahan + ya*; *ahnaṣṭakhoreva* (Pā. 6-4-145 as read) — the *ṭi* of *ahan* drops only when the suffixes *ṭa* and *kha* follow, so with other suffixes the *ṭi* does not drop; so too *nas taddhite* (Pā. 6-4-144 as read), which would drop the *ṭi* of an *aṅga* ending in *n* and called *bha* before a *taddhita*, does not apply; *yaci bham* (Pā. 1-4-18 as read) gives the *bha*-designation; *alloponaḥ* (Pā. 6-4-134 as read) drops the *a* of *an*; *ye cābhāvakarmaṇoḥ* (Pā. 6-4-168 as read) would give *prakṛtibhāva* before a *taddhita* beginning with *y* — but since here a suffix in the sense of "being" (*bhāva*) follows, the *prakṛtibhāva* would, strictly, not apply; yet by *sarve vidhayaś chandasi vikalpyante* it does not come. *Tiras + ahnyan*; *sasajuṣo ruḥ* (Pā. 8-2-66 as read) gives *ru*; *ato ror aplutād aplute* (Pā. 6-1-113 as read) gives *u* for *ru*; *tira + u + ahnyam*; *ād guṇaḥ* (Pā. 6-1-87 as read) gives *guṇa*: *tiro + ahnyam*. *Prakṛtyāntaḥpādam avyapare* (Pā. 6-1-115 as read) — प्रकृत्यान्तःपादमव्यपरे — [the Kannada explanation:] a short *a* that is not followed by a *v* or *y* … standing in the middle of a *pāda*; the *e* and *o* within the *ṛk*-foot keep their natural form (*prakṛtibhāva*): so *tiroahnyam* without elision. *Tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read) gives, to an indeclinable first member, the natural accent. **|| 10 ||**
+
+---
+
+**Close of Sūkta 45.** Printed at the head of p. 571, in ordinary type under the last grammar paragraph: "*illige 45neya sūktavu mugiduvu*" — "Here the 45th sūkta ends." *(The numeral is read as "45"; the Kannada script of the closing note is clear.)* A flourish follows. The sūkta (*tvam agne vasūn*, ten Riks) occupies printed pp. 540–571 (PDF 554–585) and the next, final, sūkta of the volume begins on the same leaf.
+
+**Beginning of Sūkta 46 (identification only, not translated here).** Below the closing note, on the same leaf (p. 571 = PDF 585), stands the large title "*nalavattāraneya sūktavu*" ("the forty-sixth sūkta") and a Sanskrit introduction reading, as I see it: "*eṣo uṣā iti pañcadaśarcaṃ tṛtīyaṃ sūktaṃ praskaṇvasyārṣam | idam uttaraṃ cāśvinaṃ gāyatrīchandaskam | atrānukramaṇikā | eṣo pañconāśvinaṃ tu gāyatram iti* [?] *|| prātaranuvāka āśvine kratau gāyatrīchandasyāśvinaśastre cedaṃ sūktam | athāśvina eṣo uṣāḥ | ā. 4-13 [?] | iti sūtritam*" — the third sūkta of the Ninth Anuvāka, **fifteen ṛks**, ṛṣi Praskaṇva, Gāyatrī metre, the Aśvins as deity (this sūkta and the next, as the Kannada anuvāda says), used in the Prātaranuvāka at the Āśvina rite for the Gāyatrī Āśvina-śastra, prescribed in the Āśvalāyana Śrauta-sūtra by "*athāśvina eṣo uṣāḥ*". The Kannada anuvāda (a short paragraph, p. 571) and the heading block, with Rik 1, are **not yet written** and belong to the next session. This is **the last sūkta of Volume 4**; the volume's remaining pages (to PDF 622) must be checked against the contents table for any closing material.
+
+**Summary of Sūkta 45 (my note).** Ten Riks, nine to Agni and the last in part to the Devas. Rik 1 asks Agni to worship the Vasus, Rudras, Ādityas and other beings born of Manu; Rik 2 says that the wise gods give fruit to the giver of oblations, and asks Agni, with his red horses, to bring the thirty-three; Rik 3 asks him to hear Praskaṇva's call as he heard Priyamedha, Atri, Virūpa and Aṅgiras; Rik 4 says the Priyamedhas have called Agni, shining among sacrifices, for protection; Rik 5 asks him to hear the praises with which Kaṇva's sons call him; Rik 6 says that men call the flame-haired, much-loved Agni to carry the oblation; Rik 7 says the wise have set him down as caller, priest, giver of wealth, quick-hearing and renowned; Rik 8 says the priests with pressed Soma and the oblation have brought him to the food; Rik 9 asks him, born of friction, to seat the morning-going gods and other divine beings on the grass for the Soma; Rik 10 asks him to worship the divine group together, and invites the gods to drink the Soma pressed the day before. All ten Riks are written in full. The long Special Topics essays are on the Vasus, Rudras and Ādityas (Rik 1) with ten Ṛgveda citations and Yāska's account of the Vasus, on the sages Priyamedha, Atri, Virūpa and Aṅgiras (Rik 3) with eleven Ṛgveda citations, and on the *sahaskṛta* kindling and the *tiroahnya* Soma. The doubtful parts are the many reference numerals (all "as read [?]"), the sūtra numerals, the Manu reference list (not reproduced), the figures for the Vasus, Rudras and Ādityas (read 8, 11, 12 and a total of 33; they sum to 31 — recorded, not adjusted), and the crowded grammar passages.
+
+---
+
+---
+
+---
+
+**Progress note — Volume 4: Sūktas 33–45 COMPLETE (printed pp. 1–571 = PDF 15–585); Sūkta 46, the last of the volume, begins at the foot of printed p. 571.**
+
+**Next task:** Sūkta 46 (*eṣo uṣā*, Maṇḍala 1, Anuvāka 9, third sūkta, 15 Riks, ṛṣi Praskaṇva, Aśvins, Gāyatrī): its title, Sanskrit introduction and Kannada anuvāda are at the foot of printed p. 571 = PDF 585, identified but **not yet written**; the heading block and Rik 1 follow on p. 572 (PDF 586). Check the contents table for where Sūkta 46 ends and what (if anything) follows it in the volume (to PDF 622). One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 585 -l 622 Rig_Vol4.pdf /tmp/x/v`. **Note:** two scheduled routines (12:45 and 05:52 IST daily) each start a fresh session and do one sūkta; if one starts before another is finished it will check the git log and stop if a run is active.
