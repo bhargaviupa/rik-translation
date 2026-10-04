@@ -2811,8 +2811,212 @@
 
 ---
 
+## SŪKTA 51 *(printed p. 147 lower half = PDF 163; first sūkta of the Tenth Anuvāka)*
+
+**Fifty-first Sūkta** *(large Kannada title line on p. 147: "aivattomdaneya sūktavu")*
+
+### Pages 147–148 (PDF 163–164) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; words marked [?] are crowded)*
+
+> दशमेऽनुवाके सप्त सूक्तानि । तत्राभि त्यमिति पञ्चदशर्चं प्रथमं सूक्तं । आश्रेहिसमाचक्षसे [?] अङ्गिरा इन्द्रसदृशं पुत्रमात्मनः कामयमानो देवता उपासां चक्रे । तस्य सव्याख्येन पुत्ररूपेणेन्द्र एव स्वयं जज्ञे जगति मत्स्याल्यः [?] कश्चिन्नाभूदिति । स सव्य आङ्गिरसोऽस्य सूक्तस्य ऋषिः । चतुर्दशीपञ्चदश्यौ त्रिष्टुभौ । त्रिष्टुब्बन्तस्य सूक्तस्य शिष्टा जगत्य इति परिभाषयोवशिष्टास्त्रयोदशर्चो जगत्यः । इन्द्रो देवता । तदेतत्सर्वमनुक्रमण्यामुक्तं । अभि त्यं पञ्चोना सव्यो द्वित्रिष्टुब्बन्तमङ्गिरा इन्द्रतुल्यं पुत्रमिच्छन्नभ्यध्यायेत्सव्य इतीन्द्र एवास्य पुत्रोऽजायतेति ॥ अतिरात्रे प्रथमे रात्रिपर्याये होतुः शस्त्र इदं सूक्तं शंसनीयं । अतिरात्रे पर्यायाणामिति खण्डे सूत्रितं । अभि त्यं मेषमध्वर्यवो भरतेन्द्राय सोममिति याज्या । आ. ६-४ [?] । इति । गवामयनस्य मध्यभूते विषुवत्संज्ञके ऽहन्यपि निष्केवल्ये इदं सूक्तं शंसनीयं । तथा च सूत्रितं । यस्तिग्मशृङ्गो ऽभि त्वं मेषमिन्द्रस्य नु वीर्याणीत्येतस्मिन्नैन्द्रीं निविदं शस्त्वा । आ. ८-६ [?] । इति ॥
+
+*daśame 'nuvāke sapta sūktāni | tatrābhi tyam iti pañcadaśarcaṃ prathamaṃ sūktaṃ | āśrehisamācakṣase [?] aṅgirā indrasadṛśaṃ putram ātmanaḥ kāmayamāno devatā upāsāṃ cakre | tasya savyākhyena putrarūpeṇendra eva svayaṃ jajñe jagati matsyālyaḥ [?] kaścin nābhūd iti | sa savya āṅgiraso 'sya sūktasya ṛṣiḥ | caturdaśīpañcadaśyau triṣṭubhau | triṣṭubbantasya sūktasya śiṣṭā jagatya iti paribhāṣayovaśiṣṭās trayodaśarco jagatyaḥ | indro devatā | tad etat sarvam anukramaṇyām uktaṃ | abhi tyaṃ pañconā savyo dvitriṣṭubbantam aṅgirā indratulyaṃ putram icchann abhyadhyāyet savya itīndra evāsya putro 'jāyateti || atirātre prathame rātriparyāye hotuḥ śastra idaṃ sūktaṃ śaṃsanīyaṃ | atirātre paryāyāṇām iti khaṇḍe sūtritaṃ | abhi tyaṃ meṣam adhvaryavo bharatendrāya somam iti yājyā | ā. 6-4 [?] | iti | gavāmayanasya madhyabhūte viṣuvatsaṃjñake 'hany api niṣkevalye idaṃ sūktaṃ śaṃsanīyaṃ | tathā ca sūtritaṃ | yas tigmaśṛṅgo 'bhi tvaṃ meṣam indrasya nu vīryāṇīty etasmin naindrīṃ nividaṃ śastvā | ā. 8-6 [?] | iti ||*
+
+*(Crowded words in the print: "āśrehisamācakṣase" and "matsyālyaḥ" in the legend, which I cannot make into sense; the Āśvalāyana numerals. I give them as read, [?]; the sense of the legend is from the Kannada anuvāda below.)*
+
+**Translation** *(mine, tentative)*: "In the tenth anuvāka there are seven sūktas. Of these *abhi tyam* is the first, of fifteen ṛks. [The legend, crowded:] the sage Aṅgiras, desiring a son like Indra, worshipped the gods; thereupon Indra himself was born as a son called Savya, since there was no one like him in the world. That Savya Āṅgirasa is the ṛṣi of this sūkta. The fourteenth and fifteenth are Triṣṭubh; by the convention 'the rest of a sūkta that ends in Triṣṭubh is Jagatī' the other thirteen are Jagatī. The deity is Indra. All this is said in the Anukramaṇī: '*abhi tyaṃ pañconā savyo dvitriṣṭubbantam* — Aṅgiras, desiring a son like Indra, meditated; Indra himself was born his son, Savya'. In the Atirātra, in the first night-session, this sūkta is to be recited in the *hotṛ*'s śastra; it is prescribed in the section '*atirātre paryāyāṇām*': '*abhi tyaṃ meṣam adhvaryavo bharendrāya somam*, the *yājyā*' (Āśv. 6-4 [?]). On the *Viṣuvat* day, the midday of the Gavāmayana, this sūkta is to be recited in the *niṣkevalya* śastra; so it is prescribed: '*yas tigmaśṛṅgo*, *abhi tvaṃ meṣam*, *indrasya nu vīryāṇi*: in this, having recited the Aindra *nivid*' (Āśv. 8-6 [?])."
+
+**Anuvāda (Kannada), pp. 147–148** — "From this sūkta the tenth anuvāka of the first maṇḍala begins. In this anuvāka there are seven sūktas (51–57). Of them the first, *abhi tyaṃ meṣam*, has fifteen ṛks. Here a legend (*itihāsa*) is told. Once the sage named Aṅgiras, wishing to have a son equal to Indra, worshipped the gods. Then Indra, thinking 'there must be no one in the world equal to me', himself arose for that sage in the form of a son named Savya. This Savya, the son of Aṅgiras, is the ṛṣi of this sūkta. The fourteenth and fifteenth ṛks of this sūkta are in the Triṣṭubh metre; the remaining ṛks are in Jagatī; Indra is the deity. All this is said in the Anukramaṇikā thus: '*abhi tyaṃ pañconā savyo dvitriṣṭubbantam aṅgirā indratulyaṃ putram icchann abhyadhyāyet savya itīndra evāsya putro 'jāyata*'. This sūkta is used for the śastra mantras that the *hotṛ* priest must recite in the first night-course of the sacrifice called Atirātra; this is explained in the Āśvalāyana Śrauta-sūtra in the section '*atirātre paryāyāṇām*' by the sūtra '*abhi tyaṃ meṣam adhvaryavo bharendrāya somam iti yājyā*' (Ā. 6-4). And in the sacrifice called Gavāmayana, on the midday day called *Viṣuvat*, this sūkta is used for the *niṣkevalya* śastra mantras, as explained by the sūtra '*yas tigmaśṛṅgo 'bhi tvaṃ meṣam indrasya nu vīryāṇīty etasmin naindrīṃ nividaṃ śastvā*' (Ā. 8-6)."
+
+**॥ ॐ ॥**
+
+> **सूक्त — ५१**
+> ॥ मण्डल — १ ॥ अनुवाक — १० ॥ सूक्त — ५१ ॥
+> ॥ अष्टक — १ ॥ अध्याय — ४ ॥ वर्ग — ९, १०, ११ ॥
+> ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
+> ॥ ऋषिः — सव्य आङ्गिरसः ॥
+> ॥ देवता — इन्द्रः ॥
+> ॥ छन्दः — १–१३ जगती । १४–१५ त्रिष्टुप् ॥
+
+*sūkta 51 | maṇḍala 1 | anuvāka 10 | aṣṭaka 1 | adhyāya 4 | varga 9, 10, 11 | ṛks 15 | ṛṣi: Savya Āṅgirasa | devatā: Indra | chandas: Riks 1–13 Jagatī, Riks 14–15 Triṣṭubh.*
+
+*(The ṛṣi is thus Savya Āṅgirasa, in the heading and in the Anukramaṇī; the "Nodhas" of the preface and of my earlier flag does not occur on these pages. The varga numerals are small and read with doubt.)*
+
+### Rik 51.1 (pp. 148–153, PDF 164–169)
+
+**Saṃhitā-pāṭha** *(p. 148; accents not reproduced)*
+
+> **अभि त्यं मेषं पुरुहूतमृग्मियमिन्द्रं गीर्भिर्मदता वस्वो अर्णवम् ।**
+> **यस्य द्यावो न विचरन्ति मानुषा भुजे मंहिष्ठमभि विप्रमर्चत ॥ १ ॥**
+
+*abhi tyaṃ meṣaṃ puruhūtam ṛgmiyam indraṃ gīrbhir madatā vasvo arṇavam |*
+*yasya dyāvo na vicaranti mānuṣā bhuje maṃhiṣṭham abhi vipram arcata || 1 ||*
+
+**Pada-pāṭha** *(p. 148)*
+
+> अभि । त्यम् । मेषम् । पुरुऽहूतम् । ऋग्मियम् । इन्द्रम् । गीःऽभिः । मदत । वस्वः । अर्णवम् ।
+> यस्य । द्यावः । न । विऽचरन्ति । मानुषा । भुजे । मंहिष्ठम् । अभि । विप्रम् । अर्चत ॥ १ ॥
+
+*abhi | tyam | meṣam | puru-hūtam | ṛgmiyam | indram | gīḥ-bhiḥ | madata | vasvaḥ | arṇavam |*
+*yasya | dyāvaḥ | na | vi-caranti | mānuṣā | bhuje | maṃhiṣṭham | abhi | vipram | arcata || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 149)*
+
+> **त्यं प्रसिद्धं मेषं शत्रुभिः स्पर्धमानं । यद्वा । कण्वपुत्रं मेधातिथिं यजमानमिन्द्रो मेषरूपेणागत्य तदीयं सोमं पपौ । स ऋषिस्तं मेष इत्यवोचत् । अत इदानीमपि मेष इतीन्द्रोऽभिधीयते । मेधातिथेर्मेषोऽपेति सुब्रह्मण्यामन्त्रैकदेशस्य व्याख्यानरूपं ब्राह्मणमेवमाम्नायते । मेधातिथिं हि कण्वायनिं मेषो भूत्वाजहारेति । आगत्य सोममपहृतवानित्यर्थः । पुरुहूतं पुरुभिर्यजमानैराहूतं ऋग्मियमृग्भिर्वीर्यक्रियमाणं स्तूयमानमित्यर्थः । स्तुत्या हि देवता विक्रीयते । यद्वा । ऋग्भिर्मीयते शब्द्यत इति ऋग्मीः । तं । वस्वो अर्णवं धनानामावासभूमिं समुद्रमिवेन्द्रं हे स्तोतारो गीर्भिः स्तुतिभिरभि मदत । आभिमुख्येन हर्षं प्रापयत । यस्येन्द्रस्य कर्माणि मानुषा मनुष्याणां हितानि विचरन्ति विशेषेण वर्तन्ते । तत्र दृष्टान्तः । द्यावो न । यथा सूर्यरश्मयः सर्वेषां हितकराः । भुजे भोगाय मंहिष्ठमतिशयेन प्रवृद्धं विप्रं मेधाविनं तथाविधमिन्द्रमभ्यर्चत । अभिपूजयत ॥ मेषं मिष स्पर्धायां । इगुपधलक्षणे के प्राप्ते देवसेनमेषादयः पचादिषु द्रष्टव्या इति वचनादच्प्रत्ययः । ऋग्मियं । तस्य विकार इत्यर्थ एकाचो नित्यं मयेटमिच्छन्ति । का. ४-३-१५४ [?] । इति मयट्प्रत्ययः । अकारस्यैकारश्छान्दसः । प्रत्ययस्स्वरः । यद्वा । माङ् माने शब्दे च । ऋग्भिर्मीयत इति ऋग्मीः । क्विपि वलि लोपात्पूर्वमेव परत्वात् घुमास्थेतीत्त्वं । अचि श्नुधात्विति इयङादेशः । कृदुत्तरपदप्रकृतिस्वरत्वं । मदत । मदी हर्षे । हेतुमतीति णिच् । मदी हर्षग्लपनयोरिति घटादिषु पाठाद्धर्षार्थे वर्तमानस्य घटादयो मितः । धा. १-९-१ [?] । इति मित्त्वे सति मितां ह्रस्वः । पा. ६-४-९२ । इति ह्रस्वत्वं । लोण्मध्यमपुरुषबहुवचने शपि छन्दस्युभयथेत्यार्धधातुकत्वात्णेरनिटीति णिलोपः । तशब्दस्य सार्वधातुकमपिदिति ङित्त्वे ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणामिति दीर्घः । वस्वः । जस्यागमानुशासनस्यानित्यत्वान्नुमभावः । जसादिषु छन्दसि वावचनं । पा. २-३-१०९-१ [?] । इति वचनाद्घेर्ङिति । पा. २-३-१११ [?] । इति गुणाभावे यणादेशः । अर्णवं । अर्णः उदकमस्मिन्नस्तीत्यर्णवः समुद्रः । अर्णसो लोपश्च । का. ५-२-१०९-३ [?] । इति मत्वर्थीयो वप्रत्ययः सलोपश्च । तेन शब्देन जलाश्रयवाचिनाश्रयमात्रं लक्ष्यते । प्रत्ययस्वरः । विचरन्ति । चर गत्यर्थः । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । तिङि चोदात्तवतीति गतिरनुदात्ता । यद्वृत्तयोगादनिघातः । मानुषा । शेश्छन्दसि बहुलमिति शेर्लोपः । भुजे । भुज पालनाभ्यवहारयोः । संपदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वं । मंहिष्ठं । महि वहि वृद्धौ । अतिशयेन मंहिता मंहिष्ठः । तुश्छन्दसीतीष्ठन्प्रत्ययः । तुरिष्ठेमेयःस्विति तृलोपः । निथ्त्वाद्द्युदात्तत्वं । अर्चत । अर्च पूजायां । भौवादिकः ॥**
+
+*tyaṃ prasiddhaṃ meṣaṃ śatrubhiḥ spardhamānaṃ | yadvā | kaṇvaputraṃ medhātithiṃ yajamānam indro meṣarūpeṇāgatya tadīyaṃ somaṃ papau | sa ṛṣis taṃ meṣa ity avocat | ata idānīm api meṣa itīndro 'bhidhīyate | medhātither meṣo 'peti subrahmaṇyāmantraikadeśasya vyākhyānarūpaṃ brāhmaṇam evam āmnāyate | medhātithiṃ hi kaṇvāyaniṃ meṣo bhūtvājahāreti | āgatya somam apahṛtavān ity arthaḥ | puruhūtaṃ purubhir yajamānair āhūtaṃ ṛgmiyam ṛgbhir vīryakriyamāṇaṃ stūyamānam ity arthaḥ | stutyā hi devatā vikrīyate | yadvā | ṛgbhir mīyate śabdyata iti ṛgmīḥ | taṃ | vasvo arṇavaṃ dhanānām āvāsabhūmiṃ samudram ivendraṃ he stotāro gīrbhiḥ stutibhir abhi madata | ābhimukhyena harṣaṃ prāpayata | yasyendrasya karmāṇi mānuṣā manuṣyāṇāṃ hitāni vicaranti viśeṣeṇa vartante | tatra dṛṣṭāntaḥ | dyāvo na | yathā sūryaraśmayaḥ sarveṣāṃ hitakarāḥ | bhuje bhogāya maṃhiṣṭham atiśayena pravṛddhaṃ vipraṃ medhāvinaṃ tathāvidham indram abhyarcata | abhipūjayata || meṣaṃ miṣa spardhāyāṃ | igupadhalakṣaṇe ke prāpte devasenameṣādayaḥ pacādiṣu draṣṭavyā iti vacanād ac pratyayaḥ | ṛgmiyaṃ | tasya vikāra ity arthe ekāco nityaṃ mayeṭam icchanti | kā. 4-3-154 [?] | iti mayaṭpratyayaḥ | akārasyaikāraś chāndasaḥ | pratyayasvaraḥ | yadvā | māṅ māne śabde ca | ṛgbhir mīyata ity ṛgmīḥ | kvipi vali lopāt pūrvam eva paratvāt ghumāstheti īttvaṃ | aci śnudhātv iti iyaṅādeśaḥ | kṛduttarapadaprakṛtisvaratvaṃ | madata | madī harṣe | hetumati ṇic | madī harṣaglapanayor iti ghaṭādiṣu pāṭhād harṣārthe vartamānasya ghaṭādayo mitaḥ | dhā. 1-9-1 [?] | iti mittve sati mitāṃ hrasvaḥ | pā. 6-4-92 | iti hrasvatvaṃ | loṇmadhyamapuruṣabahuvacane śapi chandasy ubhayatherty ārdhadhātukatvāt ṇer aniṭīti ṇilopaḥ | taśabdasya sārvadhātukam apid iti ṅittve ṛci tunughamakṣutaṅkutroruṣyāṇām iti dīrghaḥ | vasvaḥ | jasy āgamānuśāsanasyānityatvān numabhāvaḥ | jasādiṣu chandasi vāvacanaṃ | pā. 2-3-109-1 [?] | iti vacanād gher ṅiti | pā. 2-3-111 [?] | iti guṇābhāve yaṇādeśaḥ | arṇavaṃ | arṇaḥ udakam asminn astīty arṇavaḥ samudraḥ | arṇaso lopaś ca | kā. 5-2-109-3 [?] | iti matvarthīyo vapratyayaḥ salopaś ca | tena śabdena jalāśrayavācināśrayamātraṃ lakṣyate | pratyayasvaraḥ | vicaranti | cara gatyarthaḥ | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | tiṅi codāttavatīti gatir anudāttā | yadvṛttayogād anighātaḥ | mānuṣā | śeś chandasi bahulam iti śer lopaḥ | bhuje | bhuja pālanābhyavahārayoḥ | saṃpadādilakṣaṇo bhāve kvip | sāvekāca iti vibhakter udāttatvaṃ | maṃhiṣṭhaṃ | mahi vahi vṛddhau | atiśayena maṃhitā maṃhiṣṭhaḥ | tuś chandasīti iṣṭhanpratyayaḥ | turiṣṭhemeyaḥsv iti tṛlopaḥ | nitvād ādyudāttatvaṃ | arcata | arca pūjāyāṃ | bhauvādikaḥ ||*
+
+*(Crowded in the print: the Kāśikā numbers 4-3-154 and 5-2-109-3, the Dhātupāṭha number, "nitvād", and the line "ṛgmiyam … ṛgmīḥ" which gives two derivations; as read, [?]. The Pada prints* ṛgmiyam *as one word.)*
+
+**Translation:** "*Tyam*, that well-known, *meṣam*, ram, one that contends (*spardhamānam*) with enemies; or: Indra, coming in the form of a ram to the sacrificer Medhātithi, son of Kaṇva, drank his Soma; the sage called him 'ram'; hence even now Indra is called Meṣa; so the Brāhmaṇa runs, explaining a part of the Subrahmaṇyā mantra: 'for as a ram he carried off Medhātithi, the Kāṇvāyana' — meaning he came and took away the Soma. *Puruhūtam*, called by many sacrificers; *ṛgmiyam*, praised, celebrated, by *ṛks* — for a deity is, as it were, bought by praise; or *ṛgmī*, 'he who is measured (spoken of) by *ṛks*'. O praisers, *vasvaḥ arṇavam*, the ocean of wealth, the dwelling-place of riches like the sea — *indram*, Indra, *gīrbhiḥ abhi madata*, gladden with hymns, make glad, facing him. *Yasya*, of which Indra, *karmāṇi*, the deeds, *mānuṣā*, beneficial to men, *vicaranti*, range abroad; the comparison *dyāvo na*, as the Sun's rays are beneficial to all. *Bhuje*, for enjoyment, *maṃhiṣṭham*, exceedingly grown great, *vipram*, wise: such an Indra *abhi arcata*, worship. *Meṣam*: root *miṣa spardhāyām*; *ac* by the note that *devasena*, *meṣa* and the like are to be seen among the *pacādi* words. *Ṛgmiyam*: 'a modification of it': *mayaṭ* after a one-vowel word (Kāś. 4-3-154 [?]); *e* for *a* is Vedic. Or: root *māṅ māne śabde ca*, '*ṛgbhir mīyate*'. *Madata*: root *madī harṣe*, with *ṇic* in the causative; it is in the *ghaṭādi* list and so *mit*; shortening by *mitāṃ hrasvaḥ* (Pā. 6-4-92); in the imperative second plural the *ṇi* drops; the lengthening in the ṛk by *ṛci tunugha…*. *Vasvaḥ*: *num* does not come in *jas*; in the Chandas *jasādi* options (Pā. 2-3-109 vārttika [?]). *Arṇavam*: 'in which there is *arṇas*, water'; *va* in the possessive sense, with loss of *s*; by the word, which means the receptacle of water, mere 'support' is indicated. *Vicaranti*: root *cara*, the sense 'go'; *gati* unaccented by *tiṅi codāttavati*; no all-unaccented, by the *yad*-connexion. *Bhuje*: root *bhuja pālanābhyavahārayoḥ*; *kvip* in the abstract; case-ending acute by *sāvekāca*. *Maṃhiṣṭham*: root *mahi vahi vṛddhau*; *iṣṭhan* by *tuś chandasi*; the *tṛ* drops by *turiṣṭhemeyaḥsu*; initial-acute because *nit*. *Arcata*: root *arca pūjāyām*."
+
+**Pratipadārtha** *(p. 150)* — "**yasya** — of which Indra; **dyāvo na** — like the rays of the Sun; **mānuṣā** — (the deeds), beneficial to men; **vicaranti** — spread everywhere; **tyam** — that well-known; **meṣam** — fighter with enemies, or one who is in the form of a ram; **puruhūtam** — called by many sacrificers; **ṛgmiyam** — praised or called by *ṛks*; **vasvaḥ arṇavam** — like an ocean for riches, a support; **indram** — Indra; **gīrbhiḥ** — with words of praise; **abhi madata** — gladden, facing him; **bhuje** — to enjoy (prosperity); **maṃhiṣṭham** — exceedingly grown; **vipram** — the wise Indra; **abhi arcata** — worship on every side."
+
+**Bhāvārtha** *(p. 150)* — "The deeds of Indra spread everywhere, like the rays of the Sun, for the good of men. So known, he is a fighter with enemies, or one who took the form of a ram; he is called by many sacrificers, praised by *ṛks*, and a support of riches like an ocean. Gladden that Indra with words of praise. Worship that exceedingly grown, wise Indra on every side, in order to enjoy prosperity."
+
+**English Translation (the source's own, p. 150)** — "Animate with praises that ram (Indra) who is adored by many, who is gratified by hymns and is an ocean of wealth ; whose good deeds spread abroad for the benefit of mankind ; Worship the wise and powerful Indra for the enjoyment of prosperity."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 150–151**
+- **tyam** — "this word has the sense of *tad*, 'that'; 'that well-known'."
+- **meṣam** — "*miṣa spardhāyām*: contending with enemies; or the commentator gives a former legend: Medhātithi, son of Kaṇva, was performing a sacrifice when Indra came in the form of a ram, drank the Soma prepared there; so the sage, ṛṣi of this sūkta, Medhātithi, praised Indra as 'ram'. The Brāhmaṇa sentence supports this, the commentator says" — **untranslated in the source**:
+
+  > **मेधातिथिं हि कण्वायनिं मेषो भूत्वाजहार ।** *(Brāhmaṇa, the print gives no reference)*
+
+  *medhātithiṃ hi kaṇvāyaniṃ meṣo bhūtvājahāra |* — mine and tentative: "for, becoming a ram, he carried off Medhātithi, the Kāṇvāyana."
+- **puruhūtam** — "*purubhir bahubhir yajamānair āhūtam*: called by many sacrificers."
+- **ṛgmiyam** — "*ṛgbhir vikriyamāṇaṃ stūyamānam*: praised by *ṛks* or mantras. Here '*vikriyate*' of the deity means 'is praised'; or *ṛgbhir mīyate śabdyata iti ṛgmīḥ*, one who is made to sound with *ṛks*: hence *ṛgmī*."
+- **vasvo arṇavam** — "*dhanānām āvāsabhūmim*, the dwelling-place of riches; the idea is that the possessor of much wealth is, as the sea is the chief resort of water, the chief resort of riches and powers."
+- **dyāvo na** — "beneficial like the Sun's rays."
+- **maṃhiṣṭham** — "*atiśayena pravṛddham*: exceedingly grown, of great greatness." **vipram** — "*medhāvinam*: intelligent, discerning."
+- **mānuṣā** — "of men; here the nominative case-ending is used in the sense of the genitive; *hitāni*, 'beneficial', is to be supplied." **vicaranti** — "move about specially." **abhi arcata** — "worship, praise."
+
+**Vyākaraṇa-prakriyā** *(pp. 151–153 — grammar pages, noted briefly)*
+- **meṣam**: root *miṣa spardhāyām*, *tudādi*; though *ka* by *igupadhajñāprīkiraḥ kaḥ* would be expected, *ac* comes by the statement that *devasenameṣādayaḥ* are among the *pacādi* words (*nandigrahipacādibhyo lyuṇinyacaḥ*, Pā. 3-1-134 as read [?]); *guṇa* of the penultimate: *meṣa*.
+- **ṛgmiyam**: *mayaṭ* in the sense of a modification, after a one-vowel stem (*ekāco nityaṃ mayeṭam icchanti*, Kāśikā as read [?]); *ṛc + maya*, *kutva*: *ṛg*; the *a* of *maya* becomes *i* by Vedic exchange; the suffix-accent (the middle). Or from *māṅ māne śabde ca* with *kvip* (*ṛgbhir mīyate*), *ghumāsthā…* giving *ī*, *iyaṅ* before *am*; the second member's accent as a *kṛdanta*.
+- **madata**: root *madī harṣe*, *bhvādi*, in the *ghaṭādi* list (so *mit*); *hetumati ca* gives *ṇic*; *loṭ* second person plural *tha* → *ta* (*taṃ…tāṃ tam*); *ata upadhāyāḥ* would give *vṛddhi* but *mitāṃ hrasvaḥ* shortens; *ṇi* drops by *ṇer aniṭi*; *śap*; the *ta* is made *ṅit* (*sārvadhātukam apit*) and the lengthening *madatā* in the Saṃhitā by *ṛci tunughamakṣutaṅkutroruṣyāṇām*; all-unaccented, with the earlier word not a verb.
+- **vasvaḥ**: genitive (or accusative) singular of *vasu*; *jas*/*ṅas* + the Vedic options (*jasādiṣu chandasi vāvacanam*; *ghergiti*), *guṇa* not coming, *yaṇ*: *vasvaḥ*.
+- **arṇavam**: "*arṇaḥ udakam asminn asti*", the sea; *arṇaso lopaś ca* (Kāśikā 5-2-109 [?]) gives *va* in the possessive sense, with loss of the *s*; the sense is 'support of water', then 'support'; end-acute by the suffix-accent.
+- **vicaranti**: *vi* a *gati*; root *cara gatibhakṣaṇayoḥ*; *tāsyanudāttenṅidadupadeśāl…* unaccented *anti*, the root-accent; *vi* unaccented by *tiṅi codāttavati*; *yadvṛttān nityam* prevents the all-unaccented.
+- **mānuṣā**: *mānuṣāḥ*'s nominative or genitive; *śe* drops (*śeś chandasi bahulam*).
+- **bhuje**: root *bhuja pālanābhyavahārayoḥ*, *rudhādi*; *kvip* (*saṃpadādibhyaḥ kvip*, vārttika [?]); dative singular; end-acute (*sāvekāca*…).
+- **maṃhiṣṭham**: root *mahi vahi vṛddhau* with *tṛc*: *maṃhitṛ*; *tuś chandasi* (Pā. 5-3-59 as read [?]) gives *iṣṭhan*; *turiṣṭhemeyaḥsu* (Pā. 6-4-154 as read [?]) drops *tṛ*; initial-acute by *nit*.
+- **arcata**: root *arca pūjāyām*; *loṭ* second plural; all-unaccented. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–50 COMPLETE (printed pp. 1–147 = PDF 17–163). Sūkta 51 begins in the middle of printed p. 147 (PDF 163).**
+### Rik 51.2 (pp. 154–, PDF 170–)
 
-**Next task:** Sūkta 51 (*abhi tyaṃ meṣam*, Maṇḍala 1, **Tenth Anuvāka**, first of its seven sūktas, **15 Riks**, ṛṣi Savya Āṅgirasa [the anuvāda names him; the Sanskrit introduction's first words seem to read "āṅgiraso nodhā" — check], deity Indra, Jagatī with Riks 14–15 in Triṣṭubh): its title, Sāyaṇa's introduction and the first part of the Kannada anuvāda are on the lower half of printed p. 147 = PDF 163, identified but **not yet written**; the anuvāda continues and the heading block and Rik 1 are on p. 148 (PDF 164). The contents table puts Sūkta 52 at printed p. 212 — check the print. One session per sūkta; read the last ~40 lines of this file first. Render with `pdftoppm -jpeg -r 150 -f 163 -l 230 Rig_Vol5.pdf /tmp/x/w` (zero-padded: `w-163.jpg`). **Note:** both scheduled routines (12:45 and 05:52 IST daily) do Volume 5 and move to Volume 6 when Volume 5 is complete; if one starts while another is running it will see recent commits and stop.
+**Saṃhitā-pāṭha** *(p. 154; accents not reproduced)*
+
+> **अभीमवन्त्स्वभिष्टिमूतयोऽन्तरिक्षप्रां तविषीभिरावृतम् ।**
+> **इन्द्रं दक्षास ऋभवो मदच्युतं शतक्रतुं जवनी सूनृतारुहत् ॥ २ ॥**
+
+*abhīm avan svabhiṣṭim ūtayo 'ntarikṣaprāṃ taviṣībhir āvṛtam |*
+*indraṃ dakṣāsa ṛbhavo madacyutaṃ śatakratuṃ javanī sūnṛtāruhat || 2 ||*
+
+**Pada-pāṭha** *(p. 154)*
+
+> अभि । ईम् । अवन्वन् । सुऽअभिष्टिम् । ऊतयः । अन्तरिक्षऽप्राम् । तविषीभिः । आऽवृतम् ।
+> इन्द्रम् । दक्षासः । ऋभवः । मदऽच्युतम् । शतऽक्रतुम् । जवनी । सूनृता । आ । अरुहत् ॥ २ ॥
+
+*abhi | īm | avanvan | su-abhiṣṭim | ūtayaḥ | antarikṣa-prām | taviṣībhiḥ | ā-vṛtam |*
+*indram | dakṣāsaḥ | ṛbhavaḥ | mada-cyutam | śata-kratum | javanī | sūnṛtā | ā | aruhat || 2 ||*
+
+*(The Saṃhitā prints the first verb with a conjunct: I read* avan *+* sv… *as the Pada's* avanvan | su-abhiṣṭim*; the printed line-break is at "svabhiṣṭim". Doubtful, [?].)*
+
+**Sāyaṇa-bhāṣya** *(pp. 154–155)*
+
+> **ऊतयो रक्षितारो दक्षासो दक्षयितारः प्रवर्धयितार ऋभवः । उरु भान्तीति नैरुक्तव्युत्पत्त्या ऋभवोऽत्र मरुत उच्यन्ते । एवंभूता मरुत इन्द्रमभीमवन्वन् । आभिमुख्येन खल्वभजन्त । वृत्रेण सह युध्यमानमिन्द्रं सर्वे देवाः पर्यत्यजन् । मरुतस्तु तथा न पर्यत्यक्षुः । तथा चाम्नायते । विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु । ऋ. सं. ८-९६-७ [?] । इति । ब्राह्मणेऽप्याम्नातं । मरुतो ह्येनं नाजहुः । ऐ. ब्रा. ३-२० [?] । इति । कीदृशमिन्द्रं । स्वभिष्टिं शोभनाभ्येषणवन्तं । शोभनाभिगमनमित्यर्थः । अन्तरिक्षप्रां । अन्तरिक्षं द्यूलोकं स्वतेजसा प्राति पूरयतीत्यन्तरिक्षप्राः । द्वादशस्वादित्येषु इन्द्रस्य विद्यमानत्वात् । शाखान्तरेऽपि श्रूयते । तस्या इन्द्रश्च विवस्वाञ्श्चाजायेताम् । तै. ब्रा. १-१-९-३ [?] । इति । इन्द्रश्च विवस्वांश्चेत्येते इति च । तविषीभिरावृतं । तविषीति बलनाम । तविषी शुष्मं इति तन्नामसु पाठात् । बलैरावृतं । अति बलिनमित्यर्थः । अत एव मदच्युतं शत्रूणां मदस्य गर्वस्य च्यावयितारं । किंच शतक्रतुं शतसंख्यानां क्रतूनामाहर्तारं बहुविधकर्माणं वा । पूर्वोक्तं । तमिन्द्रं जवनी वृत्रवधं प्रति प्रेरयित्री सूनृता प्रियसत्यरूपा वाक् । आरुहत् । आरूढवती । वृत्रवधं प्रति सापि वागिन्द्रस्योत्साहकारिण्यभूदित्यर्थः ॥**
+
+*ūtayo rakṣitāro dakṣāso dakṣayitāraḥ pravardhayitāra ṛbhavaḥ | uru bhānti iti nairuktavyutpattyā ṛbhavo 'tra maruta ucyante | evaṃbhūtā maruta indram abhīm avanvan | ābhimukhyena khalv abhajanta | vṛtreṇa saha yudhyamānam indraṃ sarve devāḥ paryatyajan | marutas tu tathā na paryatyakṣuḥ | tathā cāmnāyate | viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu | ṛ. saṃ. 8-96-7 [?] | iti | brāhmaṇe 'py āmnātaṃ | maruto hy enaṃ nājahuḥ | ai. brā. 3-20 [?] | iti | kīdṛśam indraṃ | svabhiṣṭiṃ śobhanābhyeṣaṇavantaṃ | śobhanābhigamanam ity arthaḥ | antarikṣaprāṃ | antarikṣaṃ dyūlokaṃ svatejasā prāti pūrayatīty antarikṣaprāḥ | dvādaśasv ādityeṣu indrasya vidyamānatvāt | śākhāntare 'pi śrūyate | tasyā indraś ca vivasvāñś cājāyetām | tai. brā. 1-1-9-3 [?] | iti | indraś ca vivasvāṃś cety ete iti ca | taviṣībhir āvṛtaṃ | taviṣīti balanāma | taviṣī śuṣmaṃ iti tannāmasu pāṭhāt | balair āvṛtaṃ | ati balinam ity arthaḥ | ata eva madacyutaṃ śatrūṇāṃ madasya garvasya cyāvayitāraṃ | kiṃca śatakratuṃ śatasaṃkhyānāṃ kratūnām āhartāraṃ bahuvidhakarmāṇaṃ vā | pūrvoktaṃ | tam indraṃ javanī vṛtravadhaṃ prati prerayitrī sūnṛtā priyasatyarūpā vāk | āruhat | ārūḍhavatī | vṛtravadhaṃ prati sāpi vāg indrasyotsāhakāriṇy abhūd ity arthaḥ ||*
+
+*(The grammatical tail of the bhāṣya, which follows this on pp. 155 in the print — on* avanvan*,* svabhiṣṭim*,* ūtayaḥ*,* antarikṣaprām*,* āvṛtam*,* dakṣāsaḥ*,* madacyutam*,* śatakratum*,* javanī*,* aruhat *— is characterized, not transcribed (see the grammar notes below). The Ṛgveda and Brāhmaṇa numerals are as read, [?].)*
+
+**Translation:** "*Ūtayaḥ*, the protectors; *dakṣāsaḥ*, the strengtheners, increasers; *ṛbhavaḥ* — by the Nirukta etymology '*uru bhānti*, they shine widely' the *ṛbhus* are here the Maruts. Such Maruts *īm indram abhi avanvan*, served Indra, facing him; for when Indra was fighting with Vṛtra all the gods forsook him, but the Maruts did not forsake him; so it is declared: 'all the gods who were his friends forsook him; with the Maruts, O Indra, let your friendship be' (Ṛ. Saṃ. 8-96-7 [?]); and in the Brāhmaṇa: 'the Maruts, indeed, did not forsake him' (Ai. Brā. 3-20 [?]). What Indra? *Svabhiṣṭim*, of good approach; *antarikṣaprām*, 'he who fills the heavenly world with his own splendour' (among the twelve Ādityas Indra is included; as in another recension, 'Indra and Vivasvān were born of her', Tai. Brā. 1-1-9-3 [?]); *taviṣībhir āvṛtam*, surrounded by powers (*taviṣī* is a name for strength, read among the names of strength); exceedingly strong; therefore *madacyutam*, one who makes the pride of enemies fall; and *śatakratum*, who has performed a hundred sacrifices, or who does many deeds. To that Indra *javanī sūnṛtā*, the impelling word, pleasing and true, *āruhat*, mounted: that voice too, in the killing of Vṛtra, became an encourager of Indra."
+
+**Pratipadārtha** *(p. 155)* — "**ūtayaḥ** — those who protect; **dakṣāsaḥ** — those who nourish and increase; **ṛbhavaḥ** — the Maruts, who shine exceedingly; **svabhiṣṭim** — of deep, profound going; **antarikṣaprām** — who fills the atmosphere (with his splendour); **taviṣībhir āvṛtam** — surrounded by strengths (exceedingly strong); **madacyutam** — who makes (thereby) the pride of enemies fall; **śatakratum** — doer of a hundred sacrifices, or of many pure deeds; **indram** — Indra; **abhi īm avan** — approached and served; **javanī** — (impelling Indra to kill Vṛtra) the word; **sūnṛtā** — pleasant and true (uttered by the Maruts); **āruhat** — went and reached (making Indra eager)."
+
+**Bhāvārtha** *(p. 155)* — "The Maruts, protectors and nourishers of the world and exceedingly shining, approached and served Indra, who is of deep going, who fills the atmosphere with his splendour, is strong, makes the pride of enemies fall, and does a hundred pure sacrifices. The pleasing, true words they uttered to urge him to kill Vṛtra made Indra eager."
+
+**English Translation (the source's own, p. 156)** — "It was this Indra, the great granter of wishes, the pervader of heaven, surrounded by powers that his allies, Maruts, loved ; it was brave Indra that the mighty and wise Maruts loved ; it was Indra of hundred wisdoms that their encouraging voice reached [sic: "vaice", and the sentence is printed without final stop]."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 156**
+- **ṛbhavaḥ** — "*uru bhānti iti*: by the etymology of the Nirukta (the Nirukta-authors' derivation) the word *ṛbhu* here refers to the Maruts, the deities who shine greatly. Also in the Nirukta, in two other ways, '*ṛtena bhānti vā*' and '*ṛtena bhavantīti vā*' (Ni. [?] as read), the derivation is shown, so that *ṛbhu* means 'those who shine by truth' or 'who exist by truth'. That they are truthful has an illustration: when Indra fought Vṛtra, all the deities fled in fear of Vṛtra, but the Maruts alone did not abandon Indra's side. For that reason the Maruts have the fame of being Indra's friends: the Śrutis '*viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu*' (Ṛ. Saṃ. 8-96-7 [?]) and '*maruto hy enaṃ nājahuḥ*' (Ai. Brā. 3-20 [?]) show the same meaning." — **untranslated in the source**:
+
+  1. > **ऋतेन भान्तीति वा । ऋतेन भवन्तीति वा ।** *(Ni. as read [?])*
+
+     *ṛtena bhāntīti vā | ṛtena bhavantīti vā |* — mine and tentative: "or, 'they shine by truth'; or, 'they exist by truth'."
+  2. > **विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु ।** *(Ṛ. Saṃ. 8-96-7 as read [?])*
+
+     *viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu |* — mine and tentative: "the gods who were friends abandoned (you); let your friendship, O Indra, be with the Maruts."
+  3. > **मरुतो ह्येनं नाजहुः ।** *(Ai. Brā. 3-20 as read [?])*
+
+     *maruto hy enaṃ nājahuḥ |* — mine and tentative: "for the Maruts did not abandon him."
+- **antarikṣaprām** — "*antarikṣaṃ dyulokaṃ svatejasā prāti pūrayatīti*: he who fills the atmosphere (the world of heaven) with his own splendour. Since Indra is among the twelve Ādityas, the twelve Ādityas light the world of the gods and all other worlds with their splendour; but, being subject to Indra, this word, signifying the twelve Ādityas, is also an epithet of *indra*. The Śrutis '*tasyā indraś ca vivasvāṃś cājāyetām*' (Tai. Brā. 1-1-9-3 [?]) and '*indraś ca vivasvāṃś cety ete*' (Tai. Ā. 1-13-3 [?]) are illustrations of it." — **untranslated in the source**:
+
+  > **तस्या इन्द्रश्च विवस्वांश्चाजायेताम् ।** *(Tai. Brā. 1-1-9-3 as read [?])*
+
+  *tasyā indraś ca vivasvāṃś cājāyetām |* — mine and tentative: "of her were born Indra and Vivasvān."
+- **taviṣī** — "*taviṣī taviṣīti balanāma*; '*taviṣī śuṣmam*' (Ni. 2-9 as read [?]): since it is said to mean strength, *taviṣī* means strength, power."
+- **śatakratum** — "one who has performed a hundred sacrifices, or who does many deeds."
+- **javanī** — "the word that urged the killing of Vṛtra. *Ju* is a root of the sūtra-list; *lyuṭ* in the instrumental sense."
+- **sūnṛtā** — "the pleasant and true words that the Maruts utter, praising Indra, such as '*pra hara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20 as read [?]), spoken in the Brāhmaṇa." — **untranslated in the source**:
+
+  > **प्रहर भगवो जहि वीरयस्व ।** *(Ai. Brā. 3-20 as read [?])*
+
+  *prahara bhagavo jahi vīrayasva |* — mine and tentative: "strike, O lord; slay; show your valour."
+
+**Vyākaraṇa-prakriyā** *(pp. 157–158 — grammar pages, noted briefly)*
+- **avanvan**: root *vana saṃbhaktau*, *laṅ*, third plural *jhi* → *ant*; *vyatyayo bahulam* gives the *u*-suffix (*tanādi*-like) in place of *śap*; *yaṇ*; the *aṭ*: *avanvan*.
+- **svabhiṣṭim**: *iṣa gatau*, *striyāṃ ktin*; *titutra…* forbids *iṭ*; *ṣatva*; with *abhi*, the single substitute (*pararūpa*) by the Vedic list *annādīnām upasaṅkhyānam*; a bahuvrīhi "of good approach": *nañsubhyām* gives the end-acute.
+- **ūtayaḥ**: root *ava rakṣaṇe*; *ktin* or *ktic* in the agent sense by *kṛtyalyuṭo bahulam* / *ktichau ca saṃjñāyām*; *ūṭh* by *jvaratvarasrivyavimavāṃ…*; end-acute by *citaḥ*; middle-acute as a word.
+- **antarikṣaprām**: root *prā pūraṇe*, *adādi*, *vic* by *ato manin…* with an *upapada*; all of *vic* drops; end-acute.
+- **āvṛtam**: root *vṛñ varaṇe*, *kryādi*; *kta* in the passive (*tayor eva kṛtyaktakhalarthāḥ*); no *guṇa*; *gatir anantaraḥ* gives *ā* its natural accent; initial-acute.
+- **dakṣāsaḥ**: root *dakṣa vṛddhau*; *ghañ* in the instrument sense: *dakṣa*; *jas* takes *asuk* by *ājjaser asuk*; *ru*, *visarga*.
+- **madacyutam**: *madaṃ cyāvayati*; root *cyuṅ gatau* with the causative sense inside; *kvip*; *tuk* by *hrasvasya piti kṛti tuk*; accusative.
+- **śatakratum**: bahuvrīhi, the first member's natural accent.
+- **javanī**: *ju* a *sautra* root; *lyuṭ* in the instrument sense; *yu* → *ana*; *ṅīp* by *ṭiḍḍhāṇañ…*; acute before *ṅīp*.
+- **aruhat**: root *ruha bījajanmani prādurbhāve ca*; *luṅ*; *cli* → *aṅ* by *kṛmṛdṛruhibhyaś chandasi*; *aṭ*: *aruhat*. **|| 2 ||**
+
+---
+
+### Rik 51.3 (pp. 159–, PDF 175–)
+
+**Saṃhitā-pāṭha** *(p. 159; accents not reproduced)*
+
+> **त्वं गोत्रमङ्गिरोभ्योऽवृणोरपोतात्रये शतदुरेषु गातुवित् ।**
+> **ससेन चिद्विमदायावहो वस्वाजावद्रिं वावसानस्य नर्तयन् ॥ ३ ॥**
+
+*tvaṃ gotram aṅgirobhyo 'vṛṇor apotātraye śatadureṣu gātuvit |*
+*sasena cid vimadāyāvaho vasv ājāv adriṃ vāvasānasya nartayan || 3 ||*
+
+**Pada-pāṭha** *(p. 159)*
+
+> त्वम् । गोत्रम् । अङ्गिरःऽभ्यः । अवृणोः । अप । उत । अत्रये । शतऽदुरेषु । गातुऽवित् ।
+> ससेन । चित् । विऽमदाय । अवहः । वसु । आजौ । अद्रिम् । ववसानस्य । नर्तयन् ॥ ३ ॥
+
+*tvam | gotram | aṅgiraḥ-bhyaḥ | avṛṇoḥ | apa | uta | atraye | śata-dureṣu | gātu-vit |*
+*sasena | cit | vi-madāya | avahaḥ | vasu | ājau | adrim | vavasānasya | nartayan || 3 ||*
+
+*(The Pada prints the words as above; the Saṃhitā has the doubled ājau adrim as one word "vasvājāvadrim", which I divide with the Pada; the verb at the end of the first line is divided "avṛṇoḥ | apa", the print's reading, [?].)*
+
+**Sāyaṇa-bhāṣya** *(p. 159, first part)*
+
+> **हे इन्द्र त्वं गोत्रमव्यक्तशब्दवंतं वृष्ट्यादेस्स्यावरकं मेघमङ्गिरोभ्योऽङ्गिरसामृषीणामर्थायापावृणोः । अपवरणं कृतवानसि । वृष्टेरावरकं मेघं वज्रेणोद्घाट्य वर्षणं कृतवानसीत्यर्थः । यद्वा । गोत्रं गोसमूहं पणिभिरपहृतं गुहासु निहितमङ्गिरोभ्य ऋषिभ्योऽपावृणोः । गुहाद्वारोद्घाटनेन प्राकाशयः । उतापि चात्रये महर्षये । कीदृशाय । शतदुरेषु शतद्वारेषु यंत्रेष्वसुरैः पीडार्थं प्रक्षिप्ताय । गातुवित् मार्गस्य लंभयिताभूः । तथा विमदाय चित् विमदनाम्ने महर्षयेऽपि ससेनान्नेन । युक्तं वसु धनमवहः । प्रापितवानसि । तथाजौ संग्रामे जयार्थं वावसानस्य निवसकस्य वर्तमानस्यान्यस्यापि स्तोतुरद्रिं वज्रं नर्तयन् रक्षणं कृतवानसीति शेषः । अतस्तव महिमा केन वर्णयितुं शक्येत इति भावः ॥**
+
+*he indra tvaṃ gotram avyaktaśabdavaṃtaṃ vṛṣṭyādes syāvarakaṃ meghaṃ aṅgirobhyo 'ṅgirasām ṛṣīṇām arthāyāpāvṛṇoḥ | apavaraṇaṃ kṛtavān asi | vṛṣṭer āvarakaṃ megham vajreṇodghāṭya varṣaṇaṃ kṛtavān asīty arthaḥ | yadvā | gotraṃ gosamūhaṃ paṇibhir apahṛtaṃ guhāsu nihitam aṅgirobhya ṛṣibhyo 'pāvṛṇoḥ | guhādvārodghāṭanena prākāśayaḥ | utāpi cātraye maharṣaye | kīdṛśāya | śatadureṣu śatadvāreṣu yaṃtreṣv asuraiḥ pīḍārthaṃ prakṣiptāya | gātuvit mārgasya laṃbhayitābhūḥ | tathā vimadāya cit vimadanāmne maharṣaye 'pi sasenānnena | yuktaṃ vasu dhanam avahaḥ | prāpitavān asi | tathājau saṃgrāme jayārthaṃ vāvasānasya nivasakasya vartamānasyānyasyāpi stotur adriṃ vajraṃ nartayan rakṣaṇaṃ kṛtavān asīti śeṣaḥ | atas tava mahimā kena varṇayituṃ śakyeta iti bhāvaḥ ||*
+
+*(The print's first words are broken: "gotram avyaktaśabdavantaṃ vṛṣṭyāder…āvarakam" — I read "syāvarakam" as the print's crowded "āvarakam"; the line after "vimadāya" and "ṇ" is as read, [?]. The tail of the bhāṣya continues to p. 160, not yet written.)*
+
+**Translation of this part:** "O Indra, you *gotram*, the cloud, which makes an indistinct sound and covers the rain and the like, *aṅgirobhyaḥ*, for the sake of the Aṅgirasa sages, *apāvṛṇoḥ*, uncovered: you opened the cloud that was covering the rain with the thunderbolt and made it rain; or: *gotram*, the herd of cows carried off by the Paṇis and hidden in caves, you uncovered for the Aṅgiras seers, by opening the doors of the caves you made it known. *Uta*, and *atraye*, for the great sage Atri — thrown by the Asuras into machines of a hundred doors to torment him — *gātuvit*, you became the finder of a way. And for *vimadāya*, the great sage named Vimada, *sasena*, with food, with wealth that goes with it, *avahaḥ*, you brought; and in battle, for victory, *vavasānasya*, of any other praiser who lives in need, *adrim nartayan*, brandishing the thunderbolt, you gave protection — this is the part understood. Therefore who can describe your greatness? — this is the sense."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–50 COMPLETE; Sūkta 51 in progress: printed p. 159 (PDF 175) reached; introduction, heading and Riks 51.1–51.2 complete; Rik 51.3's Saṃhitā, Pada and the first part of the bhāṣya (up to the sense of *vāvasānasya … nartayan*) are written; the grammatical tail on p. 160 and the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (pp. 160–) are NOT yet written.**
+
+**Next task:** continue at printed p. 160 (PDF 176) with the tail of the bhāṣya of Rik 51.3 ("gotram … " etc.), then the rest of Rik 3, Riks 4–15 and the close of Sūkta 51 (15 Riks; the contents table puts Sūkta 52 at printed p. 212 — check the print). **User instruction this session: translate Sūktas 51–54 (51 now; then 52 from p. 212, 53 from p. 264, 54 from p. 303 per the contents table); keep going until Sūkta 54 ends unless told otherwise; the scheduled routines are PAUSED.** To save effort the grammatical tails of the bhāṣya and the Vyākaraṇa-prakriyā pages are now characterized (2–4 lines naming words and sūtras), per CLAUDE.md; Rik texts, the bhāṣya's main sense, Pratipadārtha, Bhāvārtha, English and Special Topics keep full treatment. Pages `/tmp/x/w-NNN.jpg` (150 dpi, PDF 163–300) may be lost; re-render with `pdftoppm -jpeg -r 150 -f 176 -l 300 Rig_Vol5.pdf /tmp/x/w` (zero-padded). Flags so far: 51.1's legend in Sāyaṇa's introduction ("āśrehisamācakṣase", "matsyālyaḥ") unreadable, sense taken from the anuvāda; ṛṣi Savya Āṅgirasa; 51.2's Pada/Saṃhitā join "avanvan su-abhiṣṭim" doubtful; Kāśikā/Ṛgveda/Aitareya numerals "as read [?]"; the source's English in 51.2 has "vaice" and "Marnts" [sic].
