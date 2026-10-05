@@ -6809,8 +6809,120 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 56.2, continued** *(pp. 377–379, PDF 393–395)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 377–378**
+- **gūrtayaḥ** — "*Gṛṇanti stuvanti iti gūrtayaḥ*: from the root *gṝ śabde*; it means those who make the hymn."
+- **nemanniṣaḥ** — "*Namantaḥ iṣyanti indraṃ prāpnuvantīti nemanniṣaḥ*: those who go to Indra's presence with salutation; or those who bring oblation and give it to Indra: so explained in two ways."
+- **parīṇasaḥ** — "*Parito nasanti gacchantīti parīṇasaḥ*: the sacrificers who, pervading everywhere, praise Indra and the other deities and carry the sacrifice forward."
+- **saniṣyavaḥ** — "*Saniṃ dhanam ātmana icchanto vaṇijaḥ*: merchants who go for the earning of wealth. As those engaged in earning wealth sit in boats and travel on the ocean, the sacrificers praise Indra to obtain what they wish: this is the point of this context."
+- **sahaḥ** — "Explained as *sahasvantam*, *balavantam*: one of surpassing strength."
+- **venāḥ giriṃ na** — "As women climb a mountain to gather flowers, — here the praise of Indra is given with an illustration: 'always praise Indra for the sake of obtaining your desired ends'."
+
+**Vyākaraṇa-prakriyā** *(pp. 378–379 — grammar pages, noted briefly)*
+- **gūrtayaḥ**: *gṝ śabde*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174): *ktic* here; *bahulaṃ chandasi*: *u* for the root's *ṛ*; *uraṇ raparaḥ*; *halica*: lengthening: *gūrti*; *citaḥ*: end-acute; nominative plural: *guṇa*, *ayādeśa*.
+- **nemanniṣaḥ**: *ṇamu prahvatve śabde ca*; *śatṛ*; *vyatyaya* for *a* → *e* and *t* → *n*: *namantaḥ iṣyanti* — *iṣu gatau*, *kvip ca*: *kvip*; *gatikārakopapadāt kṛt*. Or from *ṇī prāpaṇe*, Uṇādi *man* (*ārtistuṣu…*, Uṇ. 1-… as read [?]); *neman*; *nītāḥ prahatā iṣo yeṣām*: bahuvrīhi, *parādiś chandasi bahulam*: initial-acute of the last member.
+- **parīṇasaḥ**: *ṇasa kauṭilye*, used here with the sense of going; *pari* + *nas*, *kvip*; *nipātasya ca* lengthens the first member; *upasargād asamāse 'pi ṇopadeśasya*: *ṇatva*.
+- **saniṣyavaḥ**: *ṣaṇu dāne*; *ins sarvadhātubhyaḥ* (Uṇ. 4-… as read [?]): *in*; *ṣa* → *s*: *sani*; *sanim ātmana icchati*: *supa ātmanaḥ kyac*; *sarvaprātipadikebhyo lālasāyām asug vaktavyaḥ… sukāgamo 'pi vaktavyaḥ* (Kā.): *suk*; *kyāc chandasi*: *u*; *ato lopaḥ*; end-acute.
+- **nu**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
+- **sahaḥ**: "*saho 'syāstīti sahasvān*"; *tad asyāsty asmin*: *matup*, dropped (*luk*) in the Veda.
+- **roha**: *ruha bījajanmani prādurbhāve ca*; *loṭ* second singular; *nighāta*. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371). User instruction (2026-10-05): next three sūktas = 55 (done), 56, 57. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks) in progress: heading, Rik 56.1 complete, Rik 56.2 written through the English translation (printed p. 377, PDF 393). The Special Topics (p. 377 foot–378) and Vyākaraṇa notes of Rik 2 (pp. 378–, PDF 394–) and Riks 56.3–56.6 NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+### Rik 56.3 (pp. 379–383, PDF 395–399)
 
-**Next task:** continue at printed p. 377 foot / p. 378 (PDF 393–394) with "**Rik 56.2, continued**" (Special Topics: *gūrtayaḥ, nemanniṣaḥ, parīṇasaḥ* [seen: *gūrtayaḥ* from *gṝ śabde* 'praisers'; *nemanniṣaḥ* = 'they who go with salutation, or give oblations'; *parīṇasaḥ* 'spreading round, performers of sacrifice'] — re-view PDF 393–394 for the exact text), then Riks 3–6, close of Sūkta 56, and Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56 Nirukta numerals [?].
+**Saṃhitā-pāṭha** *(p. 379)*
+
+> **स तुर्वणिर्महाँ अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः ।**
+> **येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥ ३ ॥**
+
+*sa turvaṇir mahāṃ areṇu pauṃsye girer bhṛṣṭir na bhrājate tujā śavaḥ |*
+*yena śuṣṇaṃ māyinam āyaso made dudhra ābhūṣu rāmayan ni dāmani || 3 ||*
+
+*(The print's Saṃhitā reads "रामयन्नि दामनि" as "रामयन्नि दामनि"; the Pada: *ramayat | ni | dāmani*. The Saṃhitā's "tujā" in "bhrājate tujā" and the Pada's "tujā" agree. "āyasaḥ" and "ābhūṣu" as printed.)*
+
+**Pada-pāṭha** *(p. 379)*
+
+> सः । तुर्वणिः । महान् । अरेणु । पौंस्ये । गिरेः । भृष्टिः । न । भ्राजते । तुजा । शवः ।
+> येन । शुष्णम् । मायिनम् । आयसः । मदे । दुध्रः । आभूषु । रमयत् । नि । दामनि ॥ ३ ॥
+
+*saḥ | turvaṇiḥ | mahān | areṇu | pauṃsye | gireḥ | bhṛṣṭiḥ | na | bhrājate | tujā | śavaḥ |*
+*yena | śuṣṇam | māyinam | āyasaḥ | made | dudhraḥ | ābhūṣu | ramayat | ni | dāmani || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 380)*
+
+> **स इन्द्रस्तुर्वणिः शत्रूणां हिंसिता क्षिप्रकारी वा । तुर्वणिस्तूर्णवनिरिति यास्कः । नि. ६-१४ । तूर्णसंभजन इति तस्यार्थः । महान्प्रवृद्धश्च भवति । तस्येन्द्रस्य शवो बलं पौंस्ये वीर्यैः पुरुषैः कर्तव्ये संग्रामेऽरेणु अनवद्यं तुजा शत्रूणां हिंसकं सत् भ्राजते । दीप्यते । तत्र दृष्टान्तः । गिरेः पर्वतस्य भृष्टिर्न शृङ्गमिव । तद्यथोन्नतं सद्दीप्यते तद्वत् । आयसः अयोमयकवचयुक्तदेहो दुध्रः दुष्प्राणां शत्रूणां धर्ता वाऽवस्थापयिता एवंभूत इन्द्रो मदे सोमपानेन हर्षे सति येन बलेन शुष्णं सर्वस्य शोषकमसुरं मायिनं मायाविनमाभूषु कारागृहेषु दामनि बन्धके निगडे नि रमयत् न्यवासयत् तद्बलमिति पूर्वेणान्वयः ॥**
+
+*sa indras turvaṇiḥ śatrūṇāṃ hiṃsitā kṣiprakārī vā | turvaṇis tūrṇavanir iti yāskaḥ | ni. 6-14 | tūrṇasaṃbhajana iti tasyārthaḥ | mahān pravṛddhaś ca bhavati | tasyendrasya śavo balaṃ pauṃsye vīryaiḥ puruṣaiḥ kartavye saṃgrāme 'reṇu anavadyaṃ tujā śatrūṇāṃ hiṃsakaṃ sat bhrājate | dīpyate | tatra dṛṣṭāntaḥ | gireḥ parvatasya bhṛṣṭir na śṛṅgam iva | tad yathonnataṃ sad dīpyate tadvat | āyasaḥ ayomayakavacayukta­deho dudhraḥ duṣprāṇāṃ śatrūṇāṃ dhartā vāvasthāpayitā evaṃbhūta indro made somapānena harṣe sati yena balena śuṣṇaṃ sarvasya śoṣakam asuraṃ māyinaṃ māyāvinam ābhūṣu kārāgṛheṣu dāmani bandhake nigaḍe ni ramayat nyavāsayat tad balam iti pūrveṇānvayaḥ ||*
+
+*(The tail, p. 380: on* turvaṇiḥ *(*turvī hiṃsārthaḥ*; Uṇādi *ani*; *ṇatva*),* areṇu *(*reṇuvad ājñādakatvād reṇuśabdenāvadyam ucyate* — "like dust, [a fault] that hinders the eye"; bahuvrīhi; *nañsubhyām*),* tujā *(*tuja hiṃsāyām*; *igupadha*-*ka*; *kit*, no *guṇa*; *suluk*),* dudhraḥ *(*dhṛñ avasthāne*; *antarbhāvitaṇyartha*; *kapratyaya*; *mūlavibhujādibhya upasaṃkhyānam*; *yaṇ*; loss of *r* in *dur*),* ramayat *(*ramu krīḍāyām*; *ṇic*; *laṅ*; *mitāṃ hrasvaḥ*; *yena* before: no *nighāta*; lengthening of the *a* in the Saṃhitā: not in this Saṃhitā) — noted in the Kannada below.)*
+
+**Translation of the bhāṣya:** "That Indra is *turvaṇiḥ*, the slayer of enemies, or the quick doer — Yāska says '*turvaṇi* is *tūrṇavani*', meaning 'one who takes quickly' (Ni. 6-14 [?]); and he is great and grown. That Indra's *śavaḥ*, strength, *pauṃsye*, in the battle to be fought by manly heroes, *areṇu*, faultless, *tujā*, harming the enemies, *bhrājate*, shines; as *girer bhṛṣṭiḥ*, a mountain's peak, high, shines. *Āyasaḥ*, with a body furnished with iron armour, *dudhraḥ*, the holder or establisher of hard-to-subdue enemies — such Indra, *made*, when delighted by drinking the soma, *yena*, with which strength, *śuṣṇam*, the Asura who dries up all, *māyinam*, the deceiver, *ābhūṣu*, in prisons, *dāmani*, in a binding chain, *ni ramayat*, made to dwell: that strength [shines] — connect with the first part."
+
+**Pratipadārtha** *(p. 380)* — "**saḥ** — that Indra; **turvaṇiḥ** — the slayer of enemies, or the swift worker; **mahān** — of great majesty; **āyasaḥ** — the one with a body clad in iron armour; **dudhraḥ** — the subduer of evil enemies; **made** — when delighted by the soma; **yena** — with which strength; **śuṣṇam** — the all-parching; **māyinam** — deceitful Rākṣasa; **ābhūṣu** — in prison; **dāmani** — in a binding chain; **nirmayat** — made to dwell; **śavaḥ** — that strength; **pauṃsye** — in the battles fought by heroes; **areṇu** — free from fault; **tujā** — harming enemies; **gireḥ** — of the mountain; **bhṛṣṭiḥ na** — like the peak (edge); **bhrājate** — shines."
+
+**Bhāvārtha** *(p. 380)* — "Indra is a swift doer, possessed of majesty, with a body clad in iron armour, subduer of evil enemies. When delighted with soma, he put into a chain, in a prison, the deceitful, all-parching Rākṣasa Śuṣṇa; that strength shines in the heroes' battle, faultless and destructive of enemies, like the peak of a mountain."
+
+**English Translation (the source's own, p. 381)** — "He is quick in actions and mighty; his faultless and destructive prowess shines in manly (conflict) like the peak of a mountain (afar) with which clothed in iron (armour), he, the suppressor of the malignant, when exhilarated by the soma-juice, cast the wily sushna into prison and into bonds." *(sic, as printed.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 381**
+- **turvaṇiḥ** — "*Śatrūṇāṃ hiṃsitā kṣiprakārī vā; turvaṇis tūrṇavanir* (Ni. 6-14 [?]); *tūrṇaṃ yaḥ saṃbhajate*": one who praises with vigilance. The word *turvaṇi* occurs in "*śatavarṇir mahāṃ areṇu*" (Ṛ. Saṃ. 1-56-3, this Rik, as quoted in the print, [?]). Here it is shown that Indra gives fruit with vigilance to those who praise him."
+- **pauṃsye** — "Explain this word as '*vīryaiḥ puruṣaiḥ kartavye saṃgrāme*': the battle that is done by heroes."
+- **areṇu** — "*Anavadyam*: not in vain."
+- **tujā** — "From the root *tuja hiṃsāyām*; the word means 'that which harms enemies'."
+- **gireḥ bhṛṣṭir na** — "Like the peak of a mountain; the word *na* has here the sense of *iva*."
+- **dudhraḥ** — "From the root *dhṛñ avasthāne*; it means 'one who makes enemies stay, having punished them, where they are'."
+
+**Vyākaraṇa-prakriyā** *(pp. 381–382 — grammar pages, noted briefly)*
+- **turvaṇiḥ**: *turvī hiṃsārthaḥ*; Uṇādi *ani*; *aṭkupvāṅnum…*: *ṇatva*; middle-acute.
+- **areṇu**: *reṇuvad ājñādakatvāt reṇuśabdenāvadyam ucyate* — "that is, a blemish like dust"; bahuvrīhi; *nañsubhyām*: end-acute of the last member.
+- **bhrājate**: *bhrāja dīptau*; *laṭ*; *nighāta*.
+- **tujā**: *tuja hiṃsāyām*; *igupadhajñāprīkiraḥ kaḥ* (Pā. 3-1-135): *ka*; *kit*: no *guṇa*; before the first-case ending *su*, *supāṃ suluk…* gives *ā*.
+- **māyinam**: *vrīhyādibhyaś ca*: *ini*; *yasyeti ca*; suffix-accent.
+- **dudhraḥ**: *duṣṭān dhriyate avasthāpayati iti dudhraḥ*; *dhṛñ avasthāne*; used here with the causative sense inside; being in *mūlavibhujādi*: *kapraharaṇe mūlavibhujādibhya upasaṃkhyānam* (Pā. 3-2-5 *vārttika*): *ka*; *kit*: no *guṇa*; *yaṇ*; the *r* of *dur* dropped in the Veda; end-acute.
+- **ramayat**: *ramu krīḍāyām*; *hetumati ca*: *ṇic*; *ato halādeḥ…*: *ata upadhāyāḥ*: *vṛddhi*; *janīvadhyāṣaḥ*… (*jani-*)… *mitāṃ hrasvaḥ*: *mit*-designation: shortening; *laṅ* third singular *tip*; *itaś ca*: *i* dropped; *śap*; *ṇic* is cause of *guṇa* and *ayādeśa*; *bahulaṃ chandasy amāṅyoge 'pi*: no *aṭ*; since *yena* occurs before, *yadvṛttān nityam* prevents *nighāta*; the *ṇic*'s accent: the *a* after *m* is acute; in the Saṃhitā the first vowel is lengthened in the Vedic way. **|| 3 ||**
+
+---
+
+### Rik 56.4 (pp. 382–385, PDF 398–401)
+
+**Saṃhitā-pāṭha** *(p. 382)*
+
+> **देवी यदि तविषी त्वावृधोतय इन्द्रं सिषक्त्युषसं न सूर्यः ।**
+> **यो धृष्णुना शवसा बाधते तम इयर्ति रेणुं बृहदर्हरिष्वणिः ॥ ४ ॥**
+
+*devī yadi taviṣī tvāvṛdhotaya indraṃ siṣakty uṣasaṃ na sūryaḥ |*
+*yo dhṛṣṇunā śavasā bādhate tama iyarti reṇuṃ bṛhad arhariṣvaṇiḥ || 4 ||*
+
+**Pada-pāṭha** *(p. 382)*
+
+> देवी । यदि । तविषी । त्वाऽवृधा । ऊतये । इन्द्रम् । सिसक्ति । उषसम् । न । सूर्यः ।
+> यः । धृष्णुना । शवसा । बाधते । तमः । इयर्ति । रेणुम् । बृहत् । अर्हरिऽस्वनिः ॥ ४ ॥
+
+*devī | yadi | taviṣī | tvā-vṛdhā | ūtaye | indram | siṣakti | uṣasam | na | sūryaḥ |*
+*yaḥ | dhṛṣṇunā | śavasā | bādhate | tamaḥ | iyarti | reṇum | bṛhat | arhari-ṣvaṇiḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 383)*
+
+> **यः इन्द्रो धृष्णुना धर्षकेण शवसा बलेन तमस्तमोरूपं वृत्रादिमसुरं बाधते हिनस्ति । ऊतये रक्षणाय त्वावृधा त्वयेगा स्तोत्रा वर्धिशं तमिन्द्रं देवी तविषी द्योतमानं बलं यदि यदा सिषक्ति समन्वेति । सेवते इति यास्कः । सूर्य उषसं न यथोषोदेवतां सेवते । नित्यं तत्संबद्धो भवतीत्यर्थः । तदानीमर्हरिष्वणिः । गच्छन्तो हरन्तीत्यर्हरयः शत्रवः । तेषां व्यथोत्पादनेन स्वनयिता शब्दयितेन्द्रो रेणुं रेषणं हिंसनं बृहत् प्रभूतमियर्ति । शत्रून् गमयेति ॥**
+
+*yaḥ indro dhṛṣṇunā dharṣakeṇa śavasā balena tamas tamorūpaṃ vṛtrādim asuraṃ bādhate hinasti | ūtaye rakṣaṇāya tvāvṛdhā tvayegā [?] stotrā vardhiśaṃ [?] tam indraṃ devī taviṣī dyotamānaṃ balaṃ yadi yadā siṣakti samanveti | sevate iti yāskaḥ | sūrya uṣasaṃ na yathoṣodevatāṃ sevate | nityaṃ tatsaṃbaddho bhavatīty arthaḥ | tadānīm arhariṣvaṇiḥ | gacchanto harantīty arharayaḥ śatravaḥ | teṣāṃ vyathotpādanena svanayitā śabdayitendro reṇuṃ reṣaṇaṃ hiṃsanaṃ bṛhat prabhūtam iyarti | śatrūn gamayeti ||*
+
+*(Reading note: "*tvayegā stotrā vardhiśaṃ*" is crowded, [?]; it appears to say "*tvayā stotrā vardhitam*" — the Pratipadārtha: "(that Indra) who is increased by you, the praiser". Sense: "when the shining power (*taviṣī*) attends that Indra, who is increased by you [as praiser] for [your] protection, as the sun attends the dawn." The grammatical tail (p. 383) is characterized: on* tvāvṛdhā *(*tvaṃ vardhayatīti*, Vedic* kvip *with *āluk*; the prefix *tvā* for *yuṣmad*),* siṣakti *(*saca samavāye*, *juhotyādi*; reduplication; *ślu*),* arhariṣvaṇiḥ *(*hṛ haraṇe*, *arti-pipartyoś ca*, *ac*, *ṇi*; *svan*),* reṇum *(*rī gatireṣaṇayoḥ*; Uṇādi *nu*),* iyarti *(*ṛ gatau*, *juhotyādi*; reduplication with *iy*) — see the Kannada notes on pp. 383–385.)*
+
+**Translation of the bhāṣya:** "*Yaḥ*, the Indra who, *dhṛṣṇunā śavasā*, with enemy-overpowering strength, *tamaḥ bādhate*, strikes the darkness — Vṛtra and the like of the nature of darkness; *ūtaye*, for protection, *tvāvṛdhā*, increased by you the praiser: *taṃ indram*, that Indra, *devī taviṣī*, the shining power, *yadi*, when, *siṣakti*, attends — *saca* is 'to serve' says Yāska — *sūryaḥ uṣasaṃ na*, as the sun attends the dawn goddess; that is, is always joined to him. Then *arhariṣvaṇiḥ*: the *arharayaḥ* are enemies, who go and seize; Indra, who by causing them pain makes them sound (cry out), *reṇum*, harm, injury, *bṛhat*, great, *iyarti*, sends: he makes the enemies go."
+
+**Pratipadārtha** *(p. 383)* — "**yaḥ** — which Indra; **dhṛṣṇunā** — that which overpowers (the enemies); **śavasā** — by strength; **tamaḥ** — Vṛtra and other Asuras of the nature of darkness; **bādhate** — strikes (and); **ūtaye** — for protection; **tvāvṛdhā** — increased by you, the praiser; **taṃ indram** — that Indra; **devī** — divine; **taviṣī** — shining power (of strength); **yadi** — when; **sūryaḥ** — the sun god; **uṣasaṃ na** — as he attends the goddess Uṣas; **siṣakti** — attends (then); **arhariṣvaṇiḥ** — Indra who makes enemies cry out by pressing them hard; **reṇum** — the pain; **bṛhat** — greatly; **iyarti** — causes to the enemies."
+
+**Bhāvārtha** *(p. 383)* — "When the shining power of strength attends — as the sun attends the goddess Uṣas — the Indra who, being increased by you the praiser, with his enemy-overpowering strength strikes Vṛtra and the other Asuras of the nature of darkness, then Indra causes great pain to enemies and makes them cry out."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371). User instruction (2026-10-05): next three sūktas = 55 (done), 56, 57. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks) in progress: Riks 56.1–56.3 complete; Rik 56.4 written through the Bhāvārtha (printed p. 383, PDF 399). Its English translation, Special Topics and Vyākaraṇa (p. 384–385, PDF 400–401) and Riks 56.5–56.6 NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+
+**Next task:** continue at printed p. 384 (PDF 400) with "**Rik 56.4, continued**" (English, Special Topics, Vyākaraṇa), then Riks 5–6, close of Sūkta 56, and Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56: Nirukta numerals [?]; 56.3 the quoted "śatavarṇir mahāṃ areṇu" and Ṛ. Saṃ. numeral [?]; 56.4 bhāṣya "tvayegā stotrā vardhiśaṃ" crowded [?].
