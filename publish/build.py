@@ -3,6 +3,7 @@
 Never edits the source .md; all transformation happens in memory / build files."""
 import re, subprocess, sys, html, pathlib
 import pypandoc
+import voice
 from weasyprint import HTML
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -26,13 +27,14 @@ MINE_RE = re.compile(r'\*\*(Translation|Translation of [^*]*?) \((mine[^)]*)\):\
 def fix_stars(body):
     """Notes written as *( … )* with inner * toggles: after the outer italics are stripped an odd number of
     asterisks remain; the segments between toggles were roman-in-italic (emphasised words) -> render them italic."""
+    body = voice.fix(body)
     if '*' in body:
         parts = body.split('*')
         def emph(p):
             core = p.strip()
             return p[:len(p)-len(p.lstrip())] + (f'*{core}*' if core else '') + p[len(p.rstrip()):]
         body = ''.join(emph(p) if i % 2 else p for i, p in enumerate(parts))
-    return body
+    return voice.fix(body)
 
 def inline_notes(blk, notes, rik_label, seen):
     """Turn inline *( … )* remarks into footnotes; bare source page-references are dropped
@@ -51,10 +53,11 @@ def inline_notes(blk, notes, rik_label, seen):
         return make_ref(body)
     blk = INLINE_RE.sub(sub, blk)
     def mine(m):
-        body = f'The {m.group(1).lower()} here is mine' + m.group(2)[len('mine'):].replace(';', ':',1) if False else m.group(2)
+        body = m.group(2)
         if body in seen: return f'**{m.group(1)}:**'
-        seen.add(body); notes.append((rik_label, body[0].upper()+body[1:] + '.'))
-        return f'**{m.group(1)}:**' + make_ref(body[0].upper()+body[1:] + '.')
+        full = voice.fix(body[0].upper()+body[1:] + '.')
+        seen.add(body); notes.append((rik_label, full))
+        return f'**{m.group(1)}:**' + make_ref(full)
     blk = MINE_RE.sub(mine, blk)
     return re.sub(r'[ \t]+\n', '\n', blk)
 
