@@ -8947,8 +8947,50 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.10 (pp. 510–512, PDF 526–528)
+
+**Saṃhitā-pāṭha** *(p. 510)*
+
+> **अस्येदेव शवसा शुषन्तं वि वृश्चद्वज्रेण वृत्रमिन्द्रः ।**
+> **गा न व्राणा अवनीरमुञ्चदभि श्रवो दावने सचेताः ॥ १० ॥**
+
+*asyed eva śavasā śuṣantaṃ vi vṛścad vajreṇa vṛtram indraḥ |*
+*gā na vrāṇā avanīr amuñcad abhi śravo dāvane sacetāḥ || 10 ||*
+
+**Pada-pāṭha** *(p. 510)*
+
+> अस्य । इत् । एव । शवसा । शुषन्तम् । वि । वृश्चत् । वज्रेण । वृत्रम् । इन्द्रः ।
+> गाः । न । व्राणाः । अवनीः । अमुञ्चत् । अभि । श्रवः । दावने । सऽचेताः ॥ १० ॥
+
+*asya | it | eva | śavasā | śuṣantam | vi | vṛścat | vajreṇa | vṛtram | indraḥ |*
+*gāḥ | na | vrāṇāḥ | avanīḥ | amuñcat | abhi | śravaḥ | dāvane | sa-cetāḥ || 10 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 510)*
+
+> **अस्यैवेन्द्रस्य शवसा बलेन शुषन्तं शुष्यन्तं वृत्रमिन्द्रो वज्रेण वि वृश्चत् । व्यच्छिनत् । तथा गा न चोरैरपहृता गाव इव व्राणा वृत्रेणावृता अवनी रक्षणहेतुभूता अपोऽमुञ्चत् । अवर्षीत् । तथा दावने हविर्दात्रे यजमानाय सचेतास्तेन यजमानेन समानचित्तः सन् श्रवः कर्मफलभूतमन्नमभ्याभिमुख्येन ददातीति शेषः ॥**
+
+*asyaivendrasya śavasā balena śuṣantaṃ śuṣyantaṃ vṛtram indro vajreṇa vi vṛścat | vyacchinat | tathā gā na coraiḥ apahṛtā gāva iva vrāṇā vṛtreṇāvṛtā avanī rakṣaṇahetubhūtā apo 'muñcat | avarṣīt | tathā dāvane havirdātre yajamānāya sacetās tena yajamānena samānacittaḥ san śravaḥ karmaphalabhūtam annam abhyābhimukhyena dadātīti śeṣaḥ ||*
+
+*(The grammatical tail, p. 510, characterized, not transcribed: **śuṣantam** — *śuṣa śoṣaṇe*, *śa* in place of *śyan* by *vyatyaya*, the accent of the *vikaraṇa* remains; **vrāṇāḥ** — *vṛñ varaṇe*, passive *laṭ*, *śānac*, the *yak* lost by *bahulaṃ chandasi*, *yaṇ*; **avanīḥ** — *ava rakṣaṇe*, the suffix *ani* in the instrumental sense (Uṇ. 3-[?] [?]), acute on the suffix; **dāvane** — *āto manin kvanib vanipaś ca* [as read, ?]: *vanip*, the *a*-elision not applied in the dative, by Vedic licence.)*
+
+**Translation of the bhāṣya:** "*Asyaiva*: of this same Indra, *śavasā*, by the strength, *śuṣantam*, the drying [one], *vṛtram*, Vṛtra, Indra *vi vṛścat*, tore apart, with the thunderbolt. And as cows seized by thieves, so *vrāṇāḥ*, the waters held back by Vṛtra, the *avanīḥ*, protectors [or 'refreshers', that are the cause of sustenance] — he *amuñcat*, let loose; i.e. he rained. And *sacetāḥ*, of one mind with that sacrificer, *dāvane*, to the sacrificer who gives the oblation, he gives *śravaḥ*, food that is the fruit of the rite, *abhi*, in front of him [bestowing] — the verb is to be supplied."
+
+**Pratipadārtha** *(p. 510)* — "**asyedeva** — of this Indra himself; **śavasā** — by strength; **śuṣantam** — the one who dries up [the waters]; **vṛtram** — Vṛtra; **indraḥ** — Indra; **vajreṇa** — with the vajra weapon; **vi vṛścat** — tore apart; **gāḥ na** — as one releases cows [stolen by thieves]; **vrāṇāḥ** — [the waters] held by Vṛtra; **avanīḥ** — the waters, which are the cause of protection; **amuñcat** — he released and rained; **dāvane** — to the sacrificer who gives the oblation; **sacetāḥ** — one with a mind in step with his wish; **śravaḥ** — the food [that is the fruit of his rite]; **abhi** — graciously, in front [he gives]."
+
+**Bhāvārtha** *(p. 511)* — "With his own strength Indra tore apart with the vajra Vṛtra, who dries up the waters. As one releases cows stolen by thieves, he released the waters held by Vṛtra and let them rain. And, being of one mind with the sacrificer who offers the oblation, according to his wish, he graciously gives him the food that is the fruit of his rite."
+
+**English Translation (the source's own, p. 511)** — "Indra, by his power, cut to pieces with his thunderbolt Vritra, the absorber (of moisture), and set free the waters obstructed by Vritra and capable of protecting the universe, like cows (recovered from thieves) ; and in accordance with the wishes of the giver of the oblation ; (grants him) food."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 511** — **śuṣantam** — *śuṣyantam*, from the root *śuṣa śoṣaṇe*: "this word, formed from the root meaning 'to dry', means 'one who dries up (the water)'. It is an epithet of the word *vṛtram*." **vrāṇāḥ** — *vṛtreṇāvṛtāḥ*: "the waters in the cloud, held back by the Asura Vṛtra; a word derived from the root *vṛñ varaṇe*." **sacetāḥ** — *tena yajamānena cetaḥ cittaṃ yasya*: "one whose firm mind is with the sacrificer; one whose mind acts in accordance with the sacrificer's wish." **śravaḥ** — *karmaphalabhūtam annam*: "Indra gives those who have performed rites such as sacrifices the food suited to their worth: this is the idea."
+
+**Vyākaraṇa-prakriyā** *(pp. 511–512 — noted briefly)* — *Grammar pages, noted briefly.* **śuṣantam**: *śuṣa śoṣaṇe* (*divādi*); *śatṛ* in the present sense; *divādibhyaḥ śyan* would apply, but by *vyatyayo bahulam* it is *śa*; *śuṣat*; since the *lasārvadhātuka* follows a root of *a*-*upadeśa*, it is unaccented (*tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*), so the accent of the *vikaraṇa* remains; accusative singular: *ugit*, so *num* (*ugidacāṃ…*), with anusvāra by *parasavarṇa*. **vṛścat**: *ovraścū chedane*; *laṅ*, third singular; loss of the *i* of *ti*; *tudādibhyaḥ śaḥ*: *śa*; *sārvadhātukam apit* is *ṅit*, so *grahijyā…*: *saṃprasāraṇa*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*. **vrāṇāḥ**: *vṛñ varaṇe*; passive *laṭ*, *śānac*; *bahulaṃ chandasi*: the *yak* that came from the *sārvadhātuka* is lost; *śānac* being *ñit*, no *guṇa* of the root; *iko yaṇaci*: *yaṇ*; accent at the end by the suffix [the print cites *citaḥ*, as printed]. **avanīḥ**: *ava rakṣaṇe*; in the instrumental sense *artistṛdhṛ…* (Uṇ. 3-[?] as read [?]): the suffix *ani*; the *va* and the following *ā* acute by the suffix's initial acute; accusative plural. **amuñcat**: *mucḷ mokṣaṇe*; *śe muca…*: *num*; *laṅ*, third singular; *nighāta*. **dāvane**: *ḍudāñ dāne*; *āto manin…*: *vanip*; the stem *dāvan*; in the dative singular the *a*-elision does not occur, by Vedic licence.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.9 written (through p. 509 = PDF 525).**
+---
 
-**Next task:** view PDF 526 (printed p. 510): Rik 61.10 Saṃhitā; then Riks 61.10–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.9 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.10 written (through p. 512, upper part = PDF 528).**
+
+**Next task:** Rik 61.11 begins in the lower half of p. 512 (PDF 528; Saṃhitā, Pada, and the first lines of the bhāṣya already viewed, NOT yet written: re-view PDF 528 and continue on PDF 529 [bhāṣya end, Pratipadārtha, Bhāvārtha, English begin p. 513], 530 …); then Riks 61.12–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530 or a little later — the contents table's page is approximate); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.10 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
