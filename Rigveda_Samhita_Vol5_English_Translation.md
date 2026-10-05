@@ -9161,8 +9161,54 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.15 (pp. 523–526, PDF 539–542)
+
+**Saṃhitā-pāṭha** *(p. 523)*
+
+> **अस्मा इदु त्यदनु दायि एषामेको यद्वव्ने भूरेरीशानः ।**
+> **प्रैतशं सूर्ये पस्पृधानं सौवश्व्ये सुष्विमावदिन्द्रः ॥ १५ ॥**
+
+*asmā id u tyad anu dāyy eṣām eko yad vavne bhūrer īśānaḥ |*
+*praitaśaṃ sūrye paspṛdhānaṃ sauvaśvye suṣvim āvad indraḥ || 15 ||*
+
+*(Reading note: the Saṃhitā prints *dāyy eṣām* as *dāyyeṣām*, i.e. *dāyi eṣām* with *y* before *e*; I give it as the Pada does.)*
+
+**Pada-pāṭha** *(p. 524)*
+
+> अस्मै । इत् । ऊं इति । त्यत् । अनु । दायि । एषाम् । एकः । यत् । वव्ने । भूरेः । ईशानः ।
+> प्र । एतशम् । सूर्ये । पस्पृधानम् । सौवश्व्ये । सुस्विम् [?] । आवत् । इन्द्रः ॥ १५ ॥
+
+*asmai | it | ūṃ iti | tyat | anu | dāyi | eṣām | ekaḥ | yat | vavne | bhūreḥ | īśānaḥ |*
+*pra | etaśam | sūrye | paspṛdhānam | sauvaśvye | susvim [?] | āvat | indraḥ || 15 ||*
+
+*(Reading note: the Pada's word before *āvat* is printed *susvim*, with a plain *s*, while the Saṃhitā has *suṣvim* and the grammar page treats it as from *ṣuñ abhiṣave*: I give the Pada as printed with [?], not adjusting it.)*
+
+**Sāyaṇa-bhāṣya** *(p. 524)*
+
+> **एक एक एव शत्रून्जेतुं समर्थो भूरेर्बहुविधस्य धनस्येशानः स्वामी यत्स्तोत्रं वव्ने ययाचे एषां स्तोतॄणां संबन्धि । यद्वा । विभक्तिव्यत्ययः । एभिः स्तोतृभिः तत्प्रसिद्धं स्तोत्रमस्मा इन्द्रायानु दायि । अकारीत्यर्थः [?] । उत्तरार्धस्येयमाख्यायिका । स्वश्वो नाम कश्चिद्राजा । स च पुत्रकामः सूर्यमुपासां चक्रे । तस्य च सूर्य एव पुत्रो बभूव । तेन सहैतशनाम्नो महर्षेर्युद्धं जातमिति तदेतदिहोच्यते ॥ अयमिन्द्रः सौवश्व्ये स्वश्वपुत्रे सूर्ये पस्पृधानं स्पर्धमानं सुष्विं सोमानामभिषोतारमेतशमेतशसंज्ञकमृषिं प्रावत् । प्ररक्षत् ॥**
+
+*eka eka eva śatrūn jetuṃ samartho bhūrer bahuvidhasya dhanasyeśānaḥ svāmī yat stotraṃ vavne yayāce eṣāṃ stotṝṇāṃ saṃbandhi | yadvā | vibhaktivyatyayaḥ | ebhiḥ stotṛbhiḥ tatprasiddhaṃ stotram asmā indrāyānu dāyi | akārīty arthaḥ [?] | uttarārdhasyeyam ākhyāyikā | svaśvo nāma kaścid rājā | sa ca putrakāmaḥ sūryam upāsāṃ cakre | tasya ca sūrya eva putro babhūva | tena sahaitaśanāmno maharṣer yuddhaṃ jātam iti tad etad ihocyate || ayam indraḥ sauvaśvye svaśvaputre sūrye paspṛdhānaṃ spardhamānaṃ suṣviṃ somānām abhiṣotāram etaśam etaśasaṃjñakam ṛṣiṃ prāvat | prarakṣat ||*
+
+*(The grammatical tail, p. 524 foot, characterized, not transcribed: **dāyi** (the *a*-augment absent by *bahulaṃ chandasy amāṅyoge 'pi*); **vavne** (*vanu yācane*, the perfect, the penultimate lost by *vyatyaya*); **paspṛdhānam** (*spardha saṃgharṣe*, *kānac*, reduplication, the *p* remaining by *śarpūrvāḥ khayaḥ*, *citaḥ*); **sauvaśvye** (*svaśva* as a country-name that is also used of a *kṣatriya*, *vā nāmadheyasya vṛddhasaṃjñā vaktavyā*, *ñyaṅ*, no *vṛddhi* after *v*, initial acute by *ñit*); **suṣvim** (*ṣuñ abhiṣave*, *kin*, doubling by the perfect-like rule, *yaṇ*).)*
+
+**Translation of the bhāṣya:** "*Ekaḥ*: he alone, capable of conquering enemies, *bhūreḥ īśānaḥ*, lord, master, of manifold wealth, *yad vavne*, whatever hymn he asked for [belonging to these *eṣām* praisers]; or, with a change of case, by these praisers that well-known hymn has been offered (*anu dāyi*) to this Indra — meaning 'was made' [reading doubtful [?]]. This is the story for the second half: there was a king named Svaśva. He, wishing for a son, worshipped Sūrya, and Sūrya himself became his son. A battle arose between him and the great seer named Etaśa; this is what is told here. This Indra, *sauvaśvye*, in [the war with] the son of Svaśva, *sūrye*, Sūrya, [protected] *etaśam*, the seer named Etaśa, who *paspṛdhānam*, was contending [with Sūrya], *suṣvim*, the presser of the Soma-juices: *prāvat*, protected him well."
+
+**Pratipadārtha** *(p. 524)* — "**ekaḥ** — the sole one, in conquering enemies; **bhūreḥ** — of manifold wealth; **īśānaḥ** — the lord; Indra; **yat** — whatever hymn; **vavne** — he desired; **eṣām** — of those praisers, or by them; **tyat** — that famous hymn; **asmā idu** — to that Indra; **anu dāyi** — has been offered; **indraḥ** — Indra; **sauvaśvye** — [in the matter of] his own son; **sūrye** — with Sūrya; **paspṛdhānam** — who was contending; **etaśam** — the seer named Etaśa; **pra āvat** — protected well."
+
+**Bhāvārtha** *(p. 525)* — "Indra, alone in conquering enemies and lord of manifold wealth: that famous hymn which he desired has been offered to him by the praisers. Indra protected well the seer Etaśa, who was contending with Sūrya, the son of Svaśva."
+
+**English Translation (the source's own, p. 525)** — "He alone (is capable of subduing his enemies) and is the powerful lord of manifold riches ; give unto him the hymns which he has desired for. Indra defended the pious sacrificer Etasa, when fighting Surya, the son of Swaswa."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 525** — **ekaḥ**: "here the word *eka* means 'without a helper'. Indra, without anyone's help, alone, is able to conquer enemies." **eṣām**: "though it should mean 'of these hymns', here, by the exchange of case (*vibhaktivyatyaya*), they have explained it in the sense of the third case — 'by these hymns'." **sauvaśvye**: "in the son of the king named Svaśva: in former times King Svaśva, desiring a son, performed penance addressed to Sūrya; pleased with his penance, Sūrya himself was born as the king's son. A terrible battle arose between him and the great seer Etaśa." **suṣviṃ** — *ṣuñ abhiṣave*: "the one who offers (presses) the Soma-juice. The great seer Etaśa, named above, satisfied Indra by the Soma sacrifice. Indra, pleased with his penance, protected him from Sūrya."
+
+**Vyākaraṇa-prakriyā** *(pp. 525–526 — noted briefly)* — *Grammar pages, noted briefly.* **dāyi**: *ḍudāñ dāne*; passive *luṅ*, third singular *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* for *ta*; *ciṇo luk* (Pā. 6-4-104 as read [?]): loss of the following *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): *yuk*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **vavne**: *vanu yācane*; *liṭ*, third singular; *eś*; doubling; *halādiśeṣa*; by *vyatyaya* the penultimate is lost though there is no cause for it; because of the *yad* word, no *nighāta*; end-acute by the suffix. **paspṛdhānam**: *spardha saṃgharṣe*; *kānac* in place of *liṭ*; doubling; in the reduplicative syllable *śarpūrvāḥ khayaḥ* (Pā. 7-4-61 as read [?]): the *p* remains; by *pṛṣodarādi*, the loss of the *a* of the root and the *saṃprasāraṇa* of *r*, as taught by "as stated" rules; *citaḥ*: end-acute. **sauvaśvye**: *svaśva* is the name of a country and also a *kṣatriya* name; *vā nāmadheyasya vṛddhasaṃjñā vaktavyā* (a *vārttika* on Pā. 1-1-73 [?]): it receives the *vṛddha* name; *vṛddhāt kosalājādāñ ñyaṅ* (Pā. 4-1-171 as read [?]): *ñyaṅ* in the sense of "descendant"; *vṛddhi* would be expected at the beginning, but *na yvābhyāṃ padāntābhyāṃ pūrvau tu tābhyām aic* (Pā. 7-3-3 as read [?]) prevents the *vṛddhi* and gives the *aic* augment after the *v*; being *ñit*, initial acute. **suṣvim**: *ṣuñ abhiṣave*; *utsargaś chandasi* (Pā. 3-2-171 as read [?]): *kin*; doubling by the perfect-like rule (*liḍvadbhāva*); being *kit*, no *guṇa*; *su* + *i*: in the Veda *uvaṅ* does not apply; *yaṇ*: *suṣvi*. **āvat**: *ava rakṣaṇe*; *laṅ*, third singular; *nighāta*, after a non-verb.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.14 written (through p. 523, upper part = PDF 539).**
+---
 
-**Next task:** Rik 61.15 begins in the lower half of p. 523 (PDF 539; Saṃhitā "asmā id u tyad anu dāyy eṣām…" already viewed, NOT yet written: re-view PDF 539 and continue on PDF 540 …); then Rik 61.16 (the Pariśiṣṭa begins at printed p. 531 = PDF 547); then close of Sūkta 61 (printed line if any) and, since this is the last sūkta of Volume 5, any closing colophon; then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.14 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; 61.12 Nirukta numerals [?], Saṃhitā *tiraścēṣyan* reading note; 61.13 Ṛg 1-101-4 and Ni. 3-2 [?]; 61.14 the Ṛg quotation for *nodhāḥ* (*ūvū adarśi…*) uncertain [?], Uṇādi and Nirukta numerals [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.15 written (through p. 526, upper part = PDF 542).**
+
+**Next task:** Rik 61.16 (the last) begins in the lower half of p. 526 (PDF 542; Saṃhitā "evā te hārīyojanā suvṛktīndra brahmāṇi gotamāso akran…" and Pada already viewed, NOT yet written: re-view PDF 542, then PDF 543 …); then the close of Sūkta 61 and any closing colophon (printed line if any) — the end of the First Ashtaka's Fourth Adhyāya / Volume 5's Rik text; the Pariśiṣṭa begins at printed p. 531 = PDF 547 (NOT to be translated); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.15 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; 61.12 Nirukta numerals [?], Saṃhitā *tiraścēṣyan* reading note; 61.13 Ṛg 1-101-4 and Ni. 3-2 [?]; 61.14 the Ṛg quotation for *nodhāḥ* (*ūvū adarśi…*) uncertain [?]; 61.15 Pada *susvim* [?] and clause *akārīty arthaḥ* [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
