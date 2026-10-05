@@ -11,12 +11,53 @@ NOTE_RE = re.compile(r'^\*\((.+)\)\*\s*$', re.S)   # standalone italic parenthet
 H3_RE = re.compile(r'^###\s+Pages?\s+([\d–\-]+)\s+—\s+(S[ūu]kta\s+\d+),\s*(Rik\s+\d+)(.*)$')
 CHAPTER_RE = re.compile(r'^##\s+(.*)$')
 
+
+PAGEREF_RE = re.compile(r'^(?:pp?\.)\s*[\d–\-, ]+(?:\s*lower half[^;]*)?$')
+INLINE_RE = re.compile(r'(?<!\*)\*\((.+?)\)\*(?!\*)')
+MINE_RE = re.compile(r'\*\*(Translation|Translation of [^*]*?) \((mine[^)]*)\):\*\*')
+
+def fix_stars(body):
+    """Notes written as *( … )* with inner * toggles: after the outer italics are stripped an odd number of
+    asterisks remain; the segments between toggles were roman-in-italic (emphasised words) -> render them italic."""
+    if '*' in body:
+        parts = body.split('*')
+        def emph(p):
+            core = p.strip()
+            return p[:len(p)-len(p.lstrip())] + (f'*{core}*' if core else '') + p[len(p.rstrip()):]
+        body = ''.join(emph(p) if i % 2 else p for i, p in enumerate(parts))
+    return body
+
+def inline_notes(blk, notes, rik_label, seen):
+    """Turn inline *( … )* remarks into footnotes; bare source page-references are dropped
+    (they are recorded in the Rik headings); exact repeats within a Sūkta are footnoted once."""
+    if blk.lstrip().startswith(('>', '#', '|')):
+        return blk
+    def sub(m):
+        body = fix_stars(m.group(1).strip())
+        if PAGEREF_RE.match(body):
+            return ''
+        body = re.sub(r'^pp?\.\s*[\d–\-, ]+(?:\s*lower half[^;]*)?;\s*', '', body)   # leading page ref
+        if body in seen:
+            return ''
+        seen.add(body)
+        notes.append((rik_label, body))
+        return f'^[{body}]'
+    blk = INLINE_RE.sub(sub, blk)
+    def mine(m):
+        body = f'The {m.group(1).lower()} here is mine' + m.group(2)[len('mine'):].replace(';', ':',1) if False else m.group(2)
+        if body in seen: return f'**{m.group(1)}:**'
+        seen.add(body); notes.append((rik_label, body[0].upper()+body[1:] + '.'))
+        return f'**{m.group(1)}:**^[{body[0].upper()+body[1:]}.]'
+    blk = MINE_RE.sub(mine, blk)
+    return re.sub(r'[ \t]+\n', '\n', blk)
+
 def split_blocks(text):
     return [b for b in re.split(r'\n{2,}', text.strip('\n'))]
 
 def transform(md):
     """Return (markdown_with_footnotes, notes_by_rik) from raw section markdown."""
     out, notes, rik_label, sukta_label = [], [], "Sūkta introduction", ""
+    seen = set()
     for blk in split_blocks(md):
         first = blk.split('\n', 1)[0]
         m = H3_RE.match(first)
@@ -26,6 +67,7 @@ def transform(md):
             out.append(f'### {rik}{rest} <span class="pp">pp. {pp}</span>')
             continue
         if first.startswith('## '):
+            seen.clear()
             sukta_label = re.sub(r'\*', '', first[3:])
             m2 = re.search(r'S[ūu]kta\s+(\d+)', first)
             rik_label = f"Sūkta {m2.group(1)}, introduction" if m2 else rik_label
@@ -34,11 +76,11 @@ def transform(md):
             out.append(blk); continue
         nm = NOTE_RE.match(blk.replace('\n', ' '))
         if nm and out and not out[-1].startswith('#') and not blk.startswith('*(Printed'):
-            body = nm.group(1).strip()
+            body = fix_stars(nm.group(1).strip())
             notes.append((rik_label, body))
             out[-1] = out[-1].rstrip() + f' ^[{body}]'
             continue
-        out.append(blk)
+        out.append(inline_notes(blk, notes, rik_label, seen))
     return '\n\n'.join(out), notes
 
 def notes_appendix(notes):
@@ -47,10 +89,12 @@ def notes_appendix(notes):
     parts = ['<h1 class="appendix" id="notes">Collected Notes</h1>',
              '<p style="text-align:center;font-style:italic">Every translator’s note and editorial remark of this volume, gathered by Sūkta and Rik.</p>',
              '<div class="notes-app">']
-    n = 0
+    cur = None
     for lab, bodies in by.items():
         parts.append(f'<h3>{html.escape(lab)}</h3>')
         for b in bodies:
+            sk = lab.split(',')[0]
+            if sk != cur: cur, n = sk, 0
             n += 1
             inline = pypandoc.convert_text(b, 'html', format='markdown-smart').replace('<p>', '').replace('</p>', '')
             parts.append(f'<p><b>{n}.</b> {inline}</p>')
