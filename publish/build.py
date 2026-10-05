@@ -94,8 +94,8 @@ def front_matter(vol, vtitle, entries):
  <img class="pic" src="assets/maharaja.jpg" alt="Maharaja of Mysore">
  <p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I.,<br>Maharaja of Mysore, by whose gracious permission the original edition was published.</p></section>
 <section class="portrait"><h2>Guru</h2>
- <div class="placeholder tall">[Portrait of Guruji — to be supplied]</div>
- <p class="cap2">Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa Śilpasiddhānti Śivayogi<br>Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali (Board of Vedic Scholars)<br><i>[English caption drafted from the Kannada caption printed beneath the photograph — please confirm wording and titles]</i></p></section>
+ <img class="pic" src="assets/guruji.jpg" alt="Guruji">
+ <p class="cap2">Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa<br>Śilpasiddhānti Śivayogi Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali</p></section>
 <section class="toc"><h2>Contents</h2><p class="tocsub">Sūkta by Sūkta, and Rik by Rik</p><ul>{toc}<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>
 '''
 
