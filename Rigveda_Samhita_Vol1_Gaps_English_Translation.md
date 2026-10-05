@@ -4995,6 +4995,356 @@ After the commentary of the 6th [?] khaṇḍa, he has made the commentary on th
 
 (the page ends here; the earlier draft resumes from printed p. 284.)
 
+# GAP D — The authors of the Pada-pāṭha (printed pp. 288–295)
+
+### Page 288
+
+> इति श्रीशाकल्यकृतपदविंशतमोऽध्यायः [?]
+>
+> *iti śrīśākalyakṛtapadaviṃśatamo 'dhyāyaḥ [?]*
+>
+> "Thus the twentieth [?] chapter of the Pada[-pāṭha] made by the revered Śākalya."
+
+(The last word of the colophon is as printed and doubtful. This sentence closes the account of the Pada-pāṭha of the Mādhyandina branch begun on the preceding pages, which the earlier draft already has.)
+
+From this a doubt arises whether Śākalya himself wrote the Pada-pāṭha for the Mādhyandina branch also. There are no sufficient grounds to believe this sentence.
+
+This Pada-pāṭha was printed at Bombay in C.E. 18?? [?].
+
+### 3. The authors of the Pada-pāṭha of the Kāṇva Saṃhitā
+
+The name of the author of this Pada-pāṭha, and so on, is not at all known yet. And this work too does not appear to have been printed yet.
+
+### 4. The authors of the Pada-pāṭha of the Maitrāyaṇī Saṃhitā
+
+One Dr. Schroeder has printed it. What he printed is only the Pada-pāṭha of the mantra [part]; not for the Brāhmaṇa portion. A manuscript original of it is at Pune. Now at Nāsik there is a manuscript copy. This is a Pada-pāṭha for the entire Saṃhitā and Brāhmaṇa portions. Who is the author of these Pada-pāṭhas is not known.
+
+There are some differences between the text of the printed copy and the text of the Nāsik manuscript. From these differences it cannot be said that the two are different Pada-pāṭhas. But some differences are seen.
+
+> आतस्त्वं बर्हिः शतवल्शं विरोह सहस्रवल्शा वि वयं रुहेम
+>
+> *ātas tvaṃ barhiḥ śatavalśaṃ viroha sahasravalśā vi vayaṃ ruhema* (1-1-3 [?])
+>
+> "…grow up, O strew, hundred-shooted; may we grow up thousand-shooted."
+
+According to the printed copy the reading is "*śatavalśaṃ*" and "*sahasravalśā*". But in the Nāsik manuscript copy there are "*śatavaliśam*" and "*sahasravaliśā*". That this is so is only a writing according to a difference of pronunciation, and not a difference of reading.
+
+> यो अस्मान्ध्वराद्यग्ं [?] नयं ध्वराम तं ध्वर
+>
+> *yo asmān dhvarād yagṃ [?] nayaṃ dhvarāma taṃ dhvara* (1-1-5 [?])
+>
+> (The line is transcribed as printed; its words are doubtful. The point made is the difference of Pada-readings below.)
+
+In the printed book (the Pune copy) there are the two words "*dhvarāt*" and "*yam*"; in the Nāsik copy there is the reading "*dhvarāyam*", and for it the Pada-reading "*dhvara*" and "*ayam*".
+
+In this way there are differences here and there. It is difficult to say which among them is wrong and which is right. By examining the commentary on those mantras the truth can be known. Or one may also arrange [the matter] in this way: It is well known that in the Maitrāyaṇī branch there are 6–7 sub-divisions. These differences of reading may have arisen from those sub-divisions. At the end of the Nāsik copy —
+
+### Page 289
+
+> इति मैत्रायणीमानववाराहसंहिता समाप्ता
+>
+> *iti maitrāyaṇīmānavavārāhasaṃhitā samāptā*
+>
+> "Thus the Maitrāyaṇī-Mānava-Vārāha Saṃhitā is completed."
+
+That is: here the Maitrāyaṇī-Mānava-Vārāha Saṃhitā ended. These differences of reading must be from differences of branches.
+
+### 5. The authors of the Pada-pāṭha of the Taittirīya Saṃhitā
+
+The author of its Pada-pāṭha is Ātreya. This name is mentioned in many works.
+
+1. Devarājayajvan, when writing the meaning of the word '*vyoman*' in the commentary on the Nighaṇṭu, has written the name of the Pada-pāṭha author, Ātreya.
+2. Bhaṭṭabhāskara, at the beginning of the commentary on the Taittirīya Saṃhitā:
+
+> उखश्चात्रेयाय ददौ येन पदविभागश्चक्रे
+>
+> *ukhaś cātreyāya dadau yena padavibhāgaś cakre*
+>
+> "Ukha gave [it] to Ātreya, by whom the division into words was made."
+
+That is: Ukha taught Ātreya. He has written that Ātreya made the division into words (the transcription is as printed; the form of the first word is doubtful).
+
+3. In the Kāṇḍānukramaṇī there is a sentence with the same intention —
+
+> यस्याः पदकृदात्रेयो वृत्तिकारस्तु कुण्डिनः
+>
+> *yasyāḥ padakṛd ātreyo vṛttikārastu kuṇḍinaḥ*
+
+4. In the Taittirīya Prātiśākhya (5? and 1?-? [?]), the Bodhāyana Gṛhya-sūtra (1-?-? [?]) and the Vedānta-sūtra (3-?-? [?]), Ātreya is said to be the Pada-pāṭha author of the Taittirīya Saṃhitā. In the Bodhāyana Gṛhya-sūtra (?-?-? [?]) — "*ātreyāya padakārāya*" ("to Ātreya, the Pada-maker") — the name of Ātreya has been included in the *ṛṣi-tarpaṇa*.
+
+All the Pada-pāṭha-makers may be said to be roughly of one and the same time. In the introduction to the commentary on the Kṛṣṇa Yajurveda it stands thus on this subject —
+
+"There appears in its treatment of grammer [sic] some ground for dating it earlier than the Padapatha of Rigveda. The latter indeed is simpler in its treatment of the analysis of words into their component elements, but it would be unwise to build any theory on that fact."
+
+Sometimes commentators make a meaning against the Pada-pāṭha. For example, Bhaṭṭabhāskara in his Taittirīya Saṃhitā commentary has made the meaning thus —
+
+> अस्वप्नजः । अस्वप्नशीलः ।........ पदकारानभिमतत्वात् अन्यथा
+> व्याख्यायते—स्वप्नजन्मानो न भवन्तीत्यस्वप्नजाः ॥
+> (तै. सं. १-२-३? [?])
+>
+> *asvapnajaḥ | asvapnaśīlaḥ |........ padakārānabhimatatvāt anyathā vyākhyāyate—svapnajanmāno na bhavantīty asvapnajāḥ ||* (Taittirīya Saṃhitā 1-2-3? [?])
+>
+> "*Asvapnajaḥ*: one not given to sleep… because this is not approved by the Pada-makers, it is explained otherwise: they are not born of sleep, therefore *asvapnajāḥ*."
+
+"*Asvapnajaḥ*" means those who are always awake — that is the meaning. Since this meaning does not agree with the Pada-maker, he has made the meaning "those who are not born of sleep".
+
+### Page 290
+
+### 6. The authors of the Pada-pāṭha of the Sāmaveda
+
+### 1. Gārgya
+
+The author of the Pada-pāṭha of the Sāmaveda is Gārgya. This is determined from the evidence given below.
+
+In the Nirukta (4-3-4 [?]), in writing the commentary on the word '*mehanā*' that occurs there, Skandasvāmin has written thus —
+
+> एकमिति शाकल्यः [print: विकमिति] । त्रीणीति गार्ग्यः ।
+>
+> *ekam iti śākalyaḥ [print: vikam iti] | trīṇīti gārgyaḥ |*
+>
+> "'One [word]', says Śākalya; 'three [words]', says Gārgya."
+
+According to Śākalya '*mehanā*' is one word. In the view of Gārgya there are three words: *ma*, *iha*, *na*. Śākalya has made the meaning of the word *mehanā* as *maṃhanīyam* ("to be given"). In this matter Skandasvāmin writes thus —
+
+> छन्दोगानां तु मेहना शब्दो नैवास्ति यदिन्द्र चित्र मु इह नास्ति इत्येवं
+> रूपः पाठः तेषां—चित्र । मे । इह । न । अस्ति इत्येषां पदानां पंचानां
+> मे इह न इत्येवं रूपाणि मध्यमानि पदानि ॥
+>
+> *chandogānāṃ tu mehanā śabdo naivāsti yad indra citra mu iha nāsti ity evaṃ rūpaḥ pāṭhaḥ teṣāṃ—citra | me | iha | na | asti ity eṣāṃ padānāṃ paṃcānāṃ me iha na ity evaṃ rūpāṇi madhyamāni padāni ||*
+>
+> "For the Chandogas [Sāma-singers] the word *mehanā* does not exist at all; their reading is of the form '*yad indra citra mu iha nāsti*'; in their [Pada-reading]: *citra | me | iha | na | asti* — of these five words the middle ones have the forms *me*, *iha*, *na*." (Translation mine and tentative.)
+
+In the Nirukta commentary, too, Durga writes in the same context thus —
+
+> भाष्यकारेणोभयोः शाकल्यगार्ग्ययोरभिप्रायावत्रानु-
+> विहितौ । पदकारयोः पदविकल्पे कोऽभिप्राय इति ॥
+>
+> *bhāṣyakāreṇobhayoḥ śākalyagārgyayor abhiprāyāv atrānuvihitau | padakārayoḥ padavikalpe ko 'bhiprāya iti ||*
+>
+> "By the commentator the intentions of both, Śākalya and Gārgya, are here recorded: what is the intention of the two Pada-makers in the variation of the word?"
+
+The commentator has given the opinions of both Pada-makers, Śākalya and Gārgya.
+
+The Pada-pāṭha of the Sāmaveda differs a little from the Pada-pāṭhas of the other Vedas. In the Sāmaveda the words are separated a little more. This distinction becomes clear from the table —
+
+| Saṃhitā text | Pada text | Meaning in the Nirukta |
+|---|---|---|
+| मित्रम् *mitram* | मि+त्रम् *mi + tram* | प्रमीतेस्त्रायते [?] *pramīter trāyate* (10-?? [?]) |
+| अद्य *adya* | अ+द्य *a + dya* | अस्मिन् द्यवि *asmin dyavi* (1-? [?]) |
+| सख्ये *sakhye* | स+ख्ये *sa + khye* | समानख्याना *samānakhyānā* (? [?]) |
+| श्रद्धा *śraddhā* | श्रत्+धा *śrat + dhā* | श्रद्धानात् *śraddhānāt* (9-? [?]) |
+| अघ *agha* | अ+घ *a + gha* | हन्तेः । निर्ह्रसितोपसर्गः अहन्तीति *hanteḥ | nirhrasitopasargaḥ ahantīti* (6-11 [?]) |
+| चन्द्रमसः *candramasaḥ* | चन्द्र+मसः *candra + masaḥ* | चन्द्रो माता *candro mātā* (11-? [?]) |
+| समुद्रम् *samudram* | सम्+उद्रम् *sam + udram* | समुद्द्रवन्त्यस्मादापः *samuddravanty asmād āpaḥ* (2-? [?]) |
+| दूरात् *dūrāt* | दुः+आत् *duḥ + āt* | दुरयं वा *durayaṃ vā* (3-? [?]) |
+| स्वस्तये *svastaye* | सु+अस्तये *su + astaye* | सु अस्तीति *su astīti* (3-? [?]) |
+| उस्रियाः *usriyāḥ* | उ+स्रियाः *u + sriyāḥ* | उस्राविणोऽस्यां भोगाः *usrāviṇo 'syāṃ bhogāḥ* (4-? [?]) |
+| पुत्रस्य *putrasya* | पुत्+त्रस्य *put + trasya* | पुन्नरकं ततस्त्रायत इति *punnarakaṃ tatas trāyata iti* (3-? [?]) |
+
+(The Kannada numerals of the Nirukta references are not read with certainty and are marked [?]; the Sanskrit of the third column is transcribed as printed.)
+
+### Page 291
+
+Such Pada-pāṭhas begin from the Sāma Pada-pāṭha edited by Satyavrata Sāmaśramī. Besides these, other Pada-pāṭhas are also found in the Nirukta. From this it can be said that there were other Pada-pāṭhas also besides the Sāma Pada-pāṭha of Gārgya. If they are obtained, the study of the Nirukta will become very easy and clear.
+
+### 7. The authors of the Pada-pāṭha of the Atharvaveda
+
+The Pada-pāṭha of this Veda too is just like the Pada-pāṭha of the Ṛgveda. In place of the avagraha sign *s* (ऽ), the mark "0" (a circle) is here. The author is not known.
+
+## Comparison of the Pada-pāṭhas
+
+It has been told before that there are differences in the Saṃhitā-pāṭhas of the branches of the Vedas. Just so, in the Pada-pāṭhas too there are some differences arising from the differences of branches. The principal among them are briefly given here.
+
+### 1. Repetition of words
+
+In the Pada-pāṭha, when separating compound words, in order to indicate the special part, the Ṛgveda uses the avagraha mark (ऽ). When using the avagraha in the Ṛgveda and the Atharvaveda, the words are not recited again.
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| पुरोहितम् *purohitam* | पुरःऽहितम् *puraḥ-hitam* (Ṛg. Saṃ. 1-1-1) |
+| त्रिसप्ताः *trisaptāḥ* | त्रिऽसप्ताः *tri-saptāḥ* (Ath. Saṃ. 1-1-1) |
+
+In the Pada-pāṭhas of the Śukla Yajurveda, the Taittirīya, the Maitrāyaṇīya and the Sāmaveda there is repetition again.
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| श्रेष्ठतमाय *śreṣṭhatamāya* | श्रेष्ठतमायेति श्रेष्ठतमाय *śreṣṭhatamāyeti śreṣṭha-tamāya* (Śukla. Yaju. 1-1-1) |
+| श्रेष्ठतमाय | श्रेष्ठतमायेति श्रेष्ठ—तमाय (Tai. Saṃ. 1-1-1 and Mai. Saṃ. 1-1-1) |
+| हव्यदातये *havyadātaye* | हव्यदातये हव्यदातये *havyadātaye havyadātaye* (Sā. Pū. 1-1-1) |
+
+(In the print these examples carry the full system of accent marks — udātta, anudātta, svarita and the sign of the numerals 1, 2, 3 for the Sāman — which are not reproduced here; the unaccented words only are given.)
+
+### 2. The use of the word *iva*
+
+In the Pada-pāṭhas of the Ṛk, the Yajus (Śukla), the Atharva and the Maitrāyaṇīya, the word *iva* is counted as a compounded word.
+
+### Page 292
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| पितेव *piteva* | पिता-इव *pitā-iva* (Ṛ. Saṃ. 1-1-9) |
+| राजेव *rājeva* | राजेवेति राजा-इव *rājeveti rājā-iva* (Śukla. Yajuḥ. 13-? [?]) |
+| पितेव | पिता-इव (Atharva. 2-13-1) |
+| वस्त्रेव [as printed: वस्नेव] *vasneva* | वस्नेवेति वस्ना-इव *vasneveti vasnā-iva* (Maitrā. 1,10-2 [?]) |
+
+In the Sāma and Taittirīya Pada-pāṭhas, *iva* is counted as a separate word.
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| क्षोणीरिव *kṣoṇīriva* | क्षोणीः । इव *kṣoṇīḥ | iva* (Sā. Pū. 4-4-4 [?]) |
+| राजेव | राजा । इव *rājā | iva* (Tai. Saṃ. 1-3-14-? [?]) |
+
+In secular literature too the word *iva* is seen to be sometimes compounded and sometimes separate.
+
+Compounded: "*vāgarthāv iva saṃpṛktau*" (Raghuvaṃśa 1-1).
+Not compounded: "*kacācitau viṣvag ivāgajau gajau*" (Kirātārjunīya 1-36? [?]).
+
+Here the word *iva* is connected with the word *gajau*.
+
+### 3. The manner of marking the accents in the Pada-pāṭha
+
+When the avagraha is used, some changes of accent occur. In such contexts, in the Ṛk, Yajus and Sāma Pada-pāṭhas, if there is a *svarita* before the avagraha and then a part having an *anudātta* accent, that *anudātta* becomes *pracaya* [i.e. lowered]; and if there is an *udātta* before the avagraha and then an *anudātta*, that *anudātta* also becomes *svarita*. I give some examples.
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| ऋग्वेद—वीरवत्तमम् *vīravattamam* | वीरवत्-तमम् *vīravat-tamam* (Ṛ. Saṃ. 1-1-3) |
+| घृतप्रतीका *ghṛtapratīkā* | घृत-प्रतीका *ghṛta-pratīkā* (Ṛ. Saṃ. 10-114-3 [?]) |
+| शुक्लयजु—श्रेष्ठतमाय | श्रेष्ठतमायेति श्रेष्ठ-तमाय (Śu. Ya. 1-1) |
+| प्रजावतीः *prajāvatīḥ* | प्रजावतीरिति प्रजा-वतीः *prajāvatīr iti prajā-vatīḥ* (Śu. Ya. 1-1) |
+| अथर्व—अग्निस्वात्ताः *agnisvāttāḥ* | अग्नि-स्वात्ताः *agni-svāttāḥ* (Ath. 18-2-44 [?]) |
+| अग्नितेजाः *agnitejāḥ* | अग्नि-तेजाः *agni-tejāḥ* (Ath. 10-5-25 [?]) |
+
+(The accent marks that distinguish these pairs are in the print and are not reproduced.)
+
+### Page 293
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| तै. सं.—श्रेष्ठतमाय | श्रेष्ठतमायेति श्रेष्ठ-तमाय (Tai. Saṃ. 1-1-1) |
+| प्रजावतीः | प्रजावतीरिति प्रजा-वतीः (Tai. Saṃ. 1-1-1) |
+| मै. सं.—श्रेष्ठतमाय | श्रेष्ठतमायेति श्रेष्ठ-तमाय, or श्रेष्ठतमायेति श्रेष्ठतमाय (Mai. Saṃ. 1-1-1) |
+| अघशंसः *aghaśaṃsaḥ* | अघशंस इत्यघ-शंसः *aghaśaṃsa ity agha-śaṃsaḥ*, or अघशंस इत्यघशंसः with a different accenting (Mai. Saṃ. 1-1-1) |
+
+In the Taittirīya Pada-pāṭha, besides the use of *iti*, instead of the avagraha sign a single dash-sign is used. In the Maitrāyaṇīya Pada-pāṭha some follow the order of the Taittirīya Pada-pāṭha and some that of the Ṛgveda Pada-pāṭha. In the Kāṇva Saṃhitā the manner of marking the accents of the Pada-pāṭha in some contexts is written in this way —
+
+> प्रजावतीरिति प्रजावतीः
+>
+> *prajāvatīr iti prajāvatīḥ*
+
+Here all four kinds of accents — *udātta*, *anudātta*, *svarita* and *pracaya* — have had their marks put.
+
+### 4. *Itikaraṇa* (the use of *iti*)
+
+In the Pada-pāṭhas of the Ṛgveda and the Atharvaveda there is *iti* for *pragṛhya* words. For example —
+
+> वायो इति (ऋ. सं. १-२-१ [?]) *vāyo iti* (Ṛ. Saṃ. 1-2-1)
+> " (अथर्व. सं. ६-६९-१ [?]) (Atharva. Saṃ. 6-69-1 [?])
+
+and there is *iti* for words such as *akaḥ*.
+
+> अकरित्यकः (ऋ. सं. १-३३-१९ [?]) *akar ity akaḥ* (Ṛ. Saṃ. 1-33-19 [?])
+> " (अथर्व. सं. २०-३१-४ [?]) (Atharva. Saṃ. 20-31-4 [?])
+
+In the Yajurveda there is *iti* for *pragṛhya* words and also for words fit for the avagraha.
+
+> विष्णो इति (यजु. १-२) *viṣṇo iti* (Yaju. 1-2)
+> श्रेष्ठतमायेति श्रेष्ठतमाय (यजु. १-१) *śreṣṭhatamāyeti śreṣṭhatamāya* (Yaju. 1-1)
+> अकरित्यकः (यजु. ११-२२) *akar ity akaḥ* (Yaju. 11-22)
+
+### Page 294
+
+In the Maitrāyaṇīya and Taittirīya Pada-pāṭhas there is *itikaraṇa* for *pragṛhya*, *iṅgya* and *upasargas* [prefixes]. For example —
+
+| Class | Example |
+|---|---|
+| *Pragṛhya* | विष्णो इति *viṣṇo iti* (Mai. 1-1-3 [?]); (Tai. 1-1-3-4 [?]) |
+| *Iṅgya* | श्रेष्ठतमायेति श्रेष्ठतमाय (Mai. 1-1-1); (Tai. 1-1-1) |
+| *Upasarga* | प्रेति *preti* (Mai. 1-1-1); (Tai. 1-1-1) |
+
+In some Maitrāyaṇīya Pada-pāṭhas there is no *itikaraṇa* for upasargas. In the Taittirīya Pada-pāṭha too, if two upasargas come at one place, there is no *iti* for the first upasarga; for the second there is.
+
+| Saṃhitā | Pada-pāṭha |
+|---|---|
+| संप्रयच्छति *saṃprayacchati* | सं । प्रेति । यच्छति *saṃ | preti | yacchati* (Tai. 6-2-3 [?]) |
+
+In the Sāmaveda also there is the use of *iti* for pragṛhya words —
+
+> त्वे इति (सा. पू. १-४-४ [?]) *tve iti* (Sā. Pū. 1-4-4 [?])
+
+In different Saṃhitās there are sometimes different Pada-pāṭhas for one and the same word. For example —
+
+> भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
+>
+> *bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ |*
+>
+> "May we hear what is good with our ears, O gods; may we see what is good with our eyes, O worshipful ones."
+
+This occurs in the Ṛgveda (1-89-8), the Yajus (25-21 [?]), the Maitrāyaṇī Saṃhitā (4-14-? [?]), the Kāṇva Saṃhitā (2?-1 [?]) and the Taittirīya Āraṇyaka (1-1-1 [?]) and other places. Except for the last, in all the other Pada-pāṭhas "*yajatrāḥ*" is *nighāta*, that is, wholly *anudātta-svarita* in accent; but in the variant readings of the Taittirīya Āraṇyaka and the Maitrāyaṇī Saṃhitā this "*yajatrāḥ*" is a word with its first syllable *udātta*.
+
+### *Iṣṭā rāyaḥ*
+
+This mantra occurs in the Yajus (?-? [?]), the Śatapatha (?-?-?-? [?]), the Aitareya Brāhmaṇa (1-? [?]) and the Taittirīya Saṃhitā (1-?-? [?]) in these places. *Iṣṭā* is one word in the Taittirīya Saṃhitā. In the Mādhyandina Pada-pāṭha it is "*ā-iṣṭāḥ*" with an avagraha [?]; in the first it is for the vocative sense; in the second it is an epithet of *rāyaḥ*.
+
+In this matter the commentators hold different opinions. It is given below —
+
+### Page 295
+
+> उवट—इष्टा रायः । यजतेः कृतसंप्रसारणस्यैतद्रूपं
+> निष्ठाप्रत्यये परतो दानार्थस्य । आ इष्टा रायः
+> मर्यादया इष्टानि धनानि ॥
+>
+> *uvaṭa—iṣṭā rāyaḥ | yajateḥ kṛtasaṃprasāraṇasyaitadrūpaṃ niṣṭhāpratyaye parato dānārthasya | ā iṣṭā rāyaḥ maryādayā iṣṭāni dhanāni ||*
+>
+> "Uvaṭa: *iṣṭā rāyaḥ* — this is the form of [the root] *yaj*, in the sense of giving, with *saṃprasāraṇa* made, when the *niṣṭhā* suffix follows. *ā iṣṭā rāyaḥ*: wealth that is desired within bounds [?]." (Translation mine and tentative.)
+
+> सायण—हे इष्टः । तृजन्तस्य संबुद्धिः ।
+> सायण—(बेरे स्थलदल्लि) हे इष्टः । ........ यद्वा इष्टा इति प्रथमान्तम् ।
+> भट्टभास्कर—हे इष्टः एषणशील ।
+>
+> *sāyaṇa—he iṣṭaḥ | tṛjantasya saṃbuddhiḥ |*
+> *sāyaṇa—(in another place) he iṣṭaḥ | ........ yadvā iṣṭā iti prathamāntam |*
+> *bhaṭṭabhāskara—he iṣṭaḥ eṣaṇaśīla |*
+>
+> "Sāyaṇa: *he iṣṭaḥ* — the vocative of a [word] ending in *tṛc*. Sāyaṇa (in another place): *he iṣṭaḥ* … or else *iṣṭā* is in the nominative. Bhaṭṭabhāskara: *he iṣṭaḥ* — O one of seeking nature." (Translation mine and tentative.)
+
+> केचिदिष्टायां [?] वर्णव्यत्ययेन इकारस्यैकारमाहुः । अना-
+> मंत्रितत्वं च मन्यंते । तदा आद्युदात्तत्वं च दुर्लभम् ।
+> शाखांतरे तु—आ इष्टः एष्ट इति मत्वा अवग्रहं कुर्वंति ॥
+>
+> *kecid iṣṭāyāṃ [?] varṇavyatyayena ikārasyaikāram āhuḥ | anāmaṃtritatvaṃ ca manyaṃte | tadā ādyudāttatvaṃ ca durlabham | śākhāṃtare tu—ā iṣṭaḥ eṣṭa iti matvā avagrahaṃ kurvaṃti ||*
+>
+> "Some, [in the word] *iṣṭā*, by a change of letters, say [that] *ikāra* [becomes] *aikāra*; and they consider it not a vocative; then the first-syllable *udātta* accent is hard to obtain. But in another branch, thinking '*ā iṣṭaḥ*, *eṣṭaḥ*', they make an avagraha." (Translation mine and tentative.)
+
+And —
+
+> न लक्षणेन पदकारा अनुवर्त्याः पदकारैर्नाम लक्षणमनुवर्त्यम् ।
+> यथालक्षणं पदं कर्तव्यम् ।
+> सर्ववेदपारिषदं ह्येदं शास्त्रम् ॥
+>
+> *na lakṣaṇena padakārā anuvartyāḥ padakārair nāma lakṣaṇam anuvartyam | yathālakṣaṇaṃ padaṃ kartavyam | sarvavedapāriṣadaṃ hy edaṃ śāstram ||*
+>
+> "The Pada-makers are not to be followed by grammar [*lakṣaṇa*]; rather it is by the Pada-makers that the grammar is to be followed. The word is to be made according to the rule. For this science [grammar] is common to all the Vedas."
+
+These are the sentences of Patañjali's Mahābhāṣya. Grammar must not follow the Pada-maker; the Pada-makers themselves must follow grammar. Following grammar, the forms of words must be made.
+
+The Pāṇinian grammar itself is the Prātiśākhya for all Vedas. This is Patañjali's opinion regarding the Pada-pāṭha. In the commentary he has written these sentences in three places —
+
+1. The word "*ājya*" has, according to the commentary, an avagraha: *ā-jyam*. This word occurs many times in the 10th maṇḍala of the Ṛgveda. But there is no avagraha.
+2. The word "*āśitam*" too must be together with the avagraha, according to the commentary. It also occurs in the 10th maṇḍala of the Ṛgveda itself. There is no avagraha.
+3. For the word "*akṣaṇvān*" there must be no avagraha, according to the commentary. In the Ṛgveda (1-164-16) this word has an avagraha.
+
+Patañjali was an excellent grammarian. In order to show that his own science is the best, he must have expressed this kind of idea concerning the Pada-makers.
+
+Skandasvāmin too has, for the word "*ādityai*", written the different opinions "there is an avagraha" and "there is no avagraha", and has said that the opinions of the Pada-makers are quite strange.
+
+> शाकल्यात्रेयप्रभृतिभिर्नावग्रहीतं पूर्वनिर्वचनाभिप्रा-
+> येण । गार्ग्यप्रभृतिभिरवग्रहीतमिति । तदेव कारणम् ।
+> विचित्राः पदकाराणामभिप्रायाः । क्वचिदुपसर्गविषयेऽपि
+>
+> *śākalyātreyaprabhṛtibhir nāvagrahītaṃ pūrvanirvacanābhiprāyeṇa | gārgyaprabhṛtibhir avagrahītam iti | tad eva kāraṇam | vicitrāḥ padakārāṇām abhiprāyāḥ | kvacid upasargaviṣaye 'pi*
+>
+> "By Śākalya, Ātreya and others it was not taken with an avagraha, in accordance with the earlier explanation; by Gārgya and others it was taken with an avagraha. That is the very reason: strange are the intentions of the Pada-makers; sometimes even in a matter of prefixes…" (the sentence continues on the next page; translation mine and tentative).
+
 ---
 
-**Progress note (Gap C):** COMPLETE — printed pp. 261–283 (PDF 287–309) are translated. Gap A and Gap B are complete. Next: Gap D (printed pp. 288–295, PDF 314–321).
+**Progress note (Gap D / ALL GAPS):** Gap D — printed pp. 288–295 (PDF 314–321) — is translated. **All four gaps are now translated:** Gap A (pp. 95–167), Gap B (pp. 191–205), Gap C (pp. 261–283), Gap D (pp. 288–295). Remaining work (not translation): integrate this file into the Vol 1 build (replacing the five edition notices of the earlier draft), renumber the chapters to match the original contents table, rebuild `vol1_full.pdf`, run `voice.residual()`, update `CLAUDE.md`.
