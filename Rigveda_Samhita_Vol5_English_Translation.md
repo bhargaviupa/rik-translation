@@ -7172,8 +7172,124 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 57.2, grammar (end)** *(p. 399, PDF 415 — grammar page, noted briefly)*
+- **iṣṭaye** (end): since *ktin* is *nit*, it would be initial-acute, but by *vyatyaya* … *mantre vṛṣeṣapacamanaviduṣyā…*: *ktin* acute; dative.
+- **nimneva savanā**: both words are neuter plural; the *śi* that replaces *jas/śas* is dropped by *śeś chandasi bahulam*.
+- **samaśīta**: *śīṅ svapne*, *adādi*; *laṅ* third singular, *ta*; *sārvadhātukam apit* makes it *ṅit*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *guṇa* of *śīṅ* (*sārvadhātuke guṇaḥ*, Pā. 7-4-21 as read [?]) does not come, by *saṃjñāpūrvako vidhir anityaḥ*; *aṭ*; *yat* before: no *nighāta*; the *aṭ* is acute.
+- **haryataḥ**: *hary gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…* (Uṇ. 3-… as read [?]): *atac*; *citaḥ*: end-acute.
+- **śnathitā**: *śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlye tṛn*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *śnathitṛ*; *nit*: initial-acute; nominative singular *su*: *ṛdudaśanas…*: *anaṅ*; *aptṛntṛc…*: lengthening of the penultimate; *halṅyādi*: *su* dropped; *nalopaḥ prātipadikāntasya*: *n* dropped. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks) in progress: heading, Rik 57.1 complete, Rik 57.2 written through the first grammar notes (*adha, asat, iṣṭaye*) (printed p. 398, PDF 414). The remaining grammar of Rik 2 (p. 399, PDF 415) and Riks 57.3–57.6 NOT yet written.**
+### Rik 57.3 (pp. 399–402, PDF 415–418)
 
-**Next task:** continue at printed p. 399 (PDF 415) with "**Rik 57.2, grammar (end)**", then Riks 3–6 and the close of Sūkta 57; then STOP (user's "next 3 sūktas" done), update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; the Tenth Anuvāka and the Fourth Adhyāya's later sūktas — check for any anuvāka colophon). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: see Sūktas 55–56 notes (numerals [?]; crowded phrases); 57.1 Nirukta numeral [?]; 57.2 final clause of the bhāṣya "abhyuktyaiva" [?].
+**Saṃhitā-pāṭha** *(p. 399)*
+
+> **अस्मा इदु भीमाय नमसा समध्वर उषो न शुभ्र आ भरा पनीयसे ।**
+> **यस्य धाम श्रवसे नामेन्द्रियं ज्योतिरकारि हरितो नायसे ॥ ३ ॥**
+
+*asmā id u bhīmāya namasā samadhvara uṣo na śubhra ā bharā panīyase |*
+*yasya dhāma śravase nāmendriyaṃ jyotir akāri harito nāyase || 3 ||*
+
+*(The print's first pāda reads "अस्मै" in the Pada and "अस्मा इदु" in the Saṃhitā; I follow each as printed. The Saṃhitā's last word "नायसे" is *na ayase* of the Pada.)*
+
+**Pada-pāṭha** *(p. 399)*
+
+> अस्मै । भीमाय । नमसा । सम् । अध्वरे । उषः । न । शुभ्रे । आ । भर । पनीयसे ।
+> यस्य । धाम । श्रवसे । नाम । इन्द्रियम् । ज्योतिः । अकारि । हरितः । न । अयसे ॥ ३ ॥
+
+*asmai | bhīmāya | namasā | sam | adhvare | uṣaḥ | na | śubhre | ā | bhara | panīyase |*
+*yasya | dhāma | śravase | nāma | indriyam | jyotiḥ | akāri | haritaḥ | na | ayase || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 400)*
+
+> **हे उषः उषोदेवते शुभ्रे शोभने त्वं भीमाय शत्रूणां भयंकराय पनीयसे अतिशयेन स्तोतव्यायास्मा इन्द्रायाध्वरे हिंसारहितेऽस्मिन्याग इति शेषः । न इति संप्रत्यर्थे । तथा च यास्कः । अस्तु कृमार्थस्य संप्रत्यर्थे प्रयोगे इहेव निधेहि । नि. २-६० । इति । संप्रतीदानीं नमसा नमो हविर्लक्षणमन्नं सम् आ भर । सम्यक् संपादय । धाम सर्वस्य धारकं नाम स्तोतृषु नमनशीलं प्रसिद्धं वेन्द्रियमिन्द्रस्य परमैश्वर्यस्य लिङ्गं यस्येन्द्रस्यैवंविधं ज्योतिः श्रवसेऽन्नाय हविर्लक्षणान्नलाभार्थमयसे इति सः कः गमनायाकारि । क्रियते । हरितो न । यथाश्वानादिनः स्वाभिलषितदेशं गमयन्ति तद्वदिन्द्रोऽपि स्वाभिमतहविर्लाभाय स्वकीयं तेजो गमयतीति भावः ॥**
+
+*he uṣaḥ uṣodevate śubhre śobhane tvaṃ bhīmāya śatrūṇāṃ bhayaṃkarāya panīyase atiśayena stotavyāyāsmā indrāyādhvare hiṃsārahite 'smin yāga iti śeṣaḥ | na iti saṃpratyarthe | tathā ca yāskaḥ | astu kṛmārthasya saṃpratyarthe prayoge iheva nidhehi | ni. 2-60 [?] | iti | saṃpratīdānīṃ namasā namo havirlakṣaṇam annaṃ sam ā bhara | samyak saṃpādaya | dhāma sarvasya dhārakaṃ nāma stotṛṣu namanaśīlaṃ prasiddhaṃ vendriyam indrasya paramaiśvaryasya liṅgaṃ yasyendrasyaivaṃvidhaṃ jyotiḥ śravase 'nnāya havirlakṣaṇānnalābhārtham ayase [?] gamanāyākāri | kriyate | harito na | yathāśvānādinaḥ svābhilaṣitadeśaṃ gamayanti tadvad indro 'pi svābhimatahavirlābhāya svakīyaṃ tejo gamayatīti bhāvaḥ ||*
+
+*(The Nirukta quotation "*asta kṛmārthasya*" is as read, crowded, [?]; the numeral "2-60" is likewise [?]. Tail, pp. 400: on* uṣaḥ *(vocative, *āmantritasya ca*; the loss of *nighāta* at the start of a pāda),* śubhre *(*śubha dīptau*, Uṇādi *rak*, *spāyitañcivañcy…*: *rak*),* bhara *(*hṛgrahor bhaś chandasi*; *dvyacas tiṅaḥ*: lengthening in the Saṃhitā),* panīyase *(*pana vyavahāre stutau ca*, *asun*; *īyasun*; *ṭeḥ*),* indriyam*,* akāri *(*luṅ*, *ciṇ* by *cinbhāvakarmaṇoḥ*; *ciṇo luk*),* ayase *(*aya gatau*, *asun*)).)*
+
+**Translation of the bhāṣya:** "O Uṣas, goddess Uṣas, *śubhre*, beautiful one, you *sam ā bhara*, bring well, *namasā*, the food in the form of an oblation, *asmai bhīmāya*, for this Indra who is terrible to enemies, *panīyase*, most praiseworthy — *adhvare*, in this sacrifice free of harm. *Na* here has the sense of 'now' (*saṃprati*): so Yāska [says] 'in the sense of *saṃprati* put it in the place here' (Ni. 2-60 [?]) — *uṣo na*, 'O Uṣas, now'. *Yasya*, whose [Indra's] *dhāma*, the sustainer of all, *nāma*, renowned, bowing before the praisers, *indriyam*, the mark of the supreme lordship, *jyotiḥ*, radiance, *śravase*, to win food in the form of the oblation, *ayase*, in order to go, *akāri*, is made to go — *harito na*, as charioteers make horses go to the place they desire, so Indra too sends his own splendour to obtain the oblation he wants."
+
+**Pratipadārtha** *(p. 400)* — "**śubhre** — O pure; **uṣaḥ** — O goddess Uṣas; **bhīmāya** — to the terrible (to enemies); **panīyase** — to the most praiseworthy; **asmai** — to this Indra; **adhvare** — in this harmless sacrifice; **na** — now; **namasā** — with the food in the form of oblation; **sam ā bhara** — well supply; **yasya** — of which Indra; **dhāma** — the sustainer of all; **nāma** — renowned; **indriyam** — the mark of Indra's unique character; **jyotiḥ** — radiance; **śravase** — for the food in the form of the oblation; **harito na** — as a charioteer drives the horses to his desired place; **ayase** — for going to various places; **akāri** — is made to go."
+
+**Bhāvārtha** *(p. 400)* — "O pure Uṣas, now supply well the food in the form of the oblation for this Indra, terrible to enemies and most praiseworthy, in this harmless sacrifice. The radiance of Indra, the sustainer of all, renowned, the mark of Indra's unique lordship, is sent out in all directions to gather the oblation, as a charioteer drives his horses to the place he wishes."
+
+**English Translation (the source's own, p. 401)** — "Beautiful Ushas, now present the oblation in this rite to the formidable, praise-deserving Indra, whose all-sustaining, celebrated and characteristic radiance has impelled him hither and thither, (in quest) of (sacrificial) food, as a charioteer drives his horses (in various directions)." *(Printed "Transation" [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 401**
+- **uṣaḥ** — "This is the name of a deity named Uṣas. In the Nirukta (Ni. 3-… as read [?]) sixteen synonyms are given for Uṣas. The Nirukta, explaining the word *uṣas* as '*rātrer iva hyaparaḥ kālaḥ uṣā āpyo bhavatīti rātrīṇām abhy uttarāṇi uṣonāmāni*', clarifies the meaning of the word *uṣas* in the mantra '*idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savitus savāyaivā rātry uṣase yonim āraik*' (Ṛ. Saṃ. 1-113-1 as read [?])"; *(I give the mantra, as printed, in three layers:)*
+
+  > **इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥**
+
+  *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāyaṃ evā rātry uṣase yonim āraik ||* — mine and tentative: "This best of lights has come, the bright, wide-shining sign has been born; as one impelled by Savitṛ for his urging, so Night has yielded her womb to Uṣas." *(The print's last words "savāyaivā rātry" are crowded, [?].)* "In sum, the time of the latter half of the night is *uṣaḥ-kāla*, and the deity that presides over that time is Uṣas."
+- **panīyase** — "To the root *pan*, the sense of praise, the suffix added after it in the sense of 'excess': one who is most worthy of praise."
+- **na** — "The word *na* here means *saṃprati*, 'now' — the Nirukta (Ni. 2-… as read [?]) '*astu kṛmārthasya saṃpratyarthe prayoge iheva nidhehi*' establishes *na* as *ivārtha* and *saṃpratyartha*."
+- **indriyam** — "*Indrasya paramaiśvaryasya liṅgam*: it means the radiance of Indra — the radiance that displays the supreme sovereignty in Indra. Indra receives the share of the sacrifice, rich in oblation, through that radiance."
+- **harito na** — "Here the sense is 'like horses': as riders drive their horses to the place they wish, Indra sends his radiance there to receive the share of the oblation."
+
+**Vyākaraṇa-prakriyā** *(pp. 401–402 — grammar pages, noted briefly)*
+- **asmai**: dative of *idam*; *ūḍidam…*: ending acute.
+- **uṣaḥ**: vocative, at the head of the pāda: no *nighāta*; *āmantritasya ca*: initial-acute.
+- **śubhre**: *śubha dīptau*; *spāyitañcivañcy…* (Uṇ. 2-… as read [?]): *rak*; *kit*: no *guṇa*; feminine *ṭāp*; vocative.
+- **bhara**: *hṛ haraṇe*; *loṭ* second singular; *hi* for *sip*; *ato heḥ*: loss; *śap*; *hṛgrahor bhaś chandasi*: *bh*; *dvyaco 'tas tiṅaḥ*: lengthening in the Saṃhitā: *bharā*.
+- **panīyase**: *pana vyavahāre stutau ca*; *uṇādayo bahulam*: *asun*: *panas*; in the sense of excess, *dvivacanavibhajyopapade tarabīyasunau*: *īyasun*; *ṭeḥ* drops *as*: *panīyas*; *nit*: initial-acute; dative.
+- **indriyam**: *indriyam indraliṅgam* (Pā. 5-2-93): *gha* (*ghac*) by *nipāta*; *citaḥ*: end-acute.
+- **akāri**: *ḍukṛñ karaṇe*; Vedic *luṅ*; *cinbhāvakarmaṇoḥ*: *ciṇ*; *ciṇo luk*: loss of *ta*; *ṇit*: *vṛddhi*; *aṭ*; no *nighāta* (*yasya* before).
+- **ayase**: *aya gatau*; *sarvadhātubhyo 'sun*: *asun*: *ayas*; *nit*: initial-acute; dative. **|| 3 ||**
+
+---
+
+### Rik 57.4 (pp. 402–405, PDF 418–421)
+
+**Saṃhitā-pāṭha** *(p. 402)*
+
+> **इमे त इन्द्र ते वयं पुरुष्टुत ये त्वारभ्य चरामसि प्रभूवसो ।**
+> **नहि त्वदन्यो गिर्वणो गिरः सघत्क्षोणीरिव प्रति नो हर्य तद्वचः ॥ ४ ॥**
+
+*ime ta indra te vayaṃ puruṣṭuta ye tvārabhya carāmasi prabhūvaso |*
+*nahi tvad anyo girvaṇo giraḥ saghat kṣoṇīr iva prati no harya tad vacaḥ || 4 ||*
+
+**Pada-pāṭha** *(p. 403)*
+
+> इमे । ते । इन्द्र । ते । वयम् । पुरुऽस्तुत । ये । त्वा । आऽरभ्य । चरामसि । प्रभुवसो इति प्रभुऽवसो ।
+> नहि । त्वत् । अन्यः । गिर्वणः । गिरः । सघत् । क्षोणीःऽइव । प्रति । नः । हर्य । तत् । वचः ॥ ४ ॥
+
+*ime | te | indra | te | vayam | puru-stuta | ye | tvā | ā-rabhya | carāmasi | prabhuvaso iti prabhu-vaso |*
+*nahi | tvat | anyaḥ | girvaṇaḥ | giraḥ | saghat | kṣoṇīḥ-iva | prati | naḥ | harya | tat | vacaḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 403)*
+
+> **हे इन्द्र प्रभूवसो प्रभूतधन अत एव पुरुष्टुत पुरुभिर्बहुभिर्यजमानैः स्तुत ये च वयं त्वा त्वामारभ्याश्रयतयावलम्ब्य चरामसि चरामो यागे वर्तामहे त इमे वयं ते तव स्वभूताः । हे गिर्वणो गीर्भिर्वननीयेन्द्र त्वदन्यस्तत्तोऽन्यः कश्चिदपि गिरः स्तुतीर्नहि सघत् न हि प्राप्नोति । अतस्त्वं नोऽस्माकं तत्स्तुतिलक्षणं वचः प्रति हर्य । कामयस्व । क्षोणीरिव । यथा क्षोणी पृथिवी स्वकीयानि भूतजातानि कामयते ॥**
+
+*he indra prabhūvaso prabhūtadhana ata eva puruṣṭuta purubhir bahubhir yajamānaiḥ stuta ye ca vayaṃ tvā tvām ārabhyāśrayatayāvalambya carāmasi carāmo yāge vartāmahe ta ime vayaṃ te tava svabhūtāḥ | he girvaṇo gīrbhir vananīyendra tvadanyas tatto 'nyaḥ kaścid api giraḥ stutīr nahi saghat na hi prāpnoti | atas tvaṃ no 'smākaṃ tatstutilakṣaṇaṃ vacaḥ prati harya | kāmayasva | kṣoṇīr iva | yathā kṣoṇī pṛthivī svakīyāni bhūtajātāni kāmayate ||*
+
+*(The tail, p. 403 foot: on* carāmasi *(*cara gatibhakṣaṇayoḥ*; *laṭ*; *idantomasi*: *i* augment),* saghat *(*saghu hiṃsāyām*; *leṭ*; *aṭ*; *bahulaṃ chandasi*: *ślu*; *pādāditvān nighātābhāvaḥ*),* kṣoṇīriva *(*halṅyābbhyo…*: loss of *su*… not here: "*sulopābhāvaś chāndasaḥ*"),* harya *(*hary gatikāntyoḥ*; *loṭ*, *a*-loss), with a remark that the roots have many senses (*dhātūnām anekārthatvāt*) — noted below.)*
+
+**Translation of the bhāṣya:** "O Indra, *prabhūvaso*, of abundant wealth, therefore *puruṣṭuta*, praised by many sacrificers: we who, *tvā ārabhya*, having begun with you, relying on you, *carāmasi*, are engaged in the sacrifice — we are *te*, yours. O *girvaṇaḥ*, to be served with praises, Indra: *tvad anyaḥ*, none other than you *saghat*, attains [receives] the *giraḥ*, praises. Therefore you *prati harya*, desire, favour, *tad vacaḥ*, that speech of praise of ours; *kṣoṇīr iva*, as the earth desires the beings of her own."
+
+**Pratipadārtha** *(p. 403)* — "**prabhūvaso** — O Indra of abundant wealth; **puruṣṭuta** — one praised by many (therefore); **ye** — which; **vayam** — we; **tvā** — you; **ārabhya** — taking refuge in; **carāmasi** — are engaged in the sacrifice (in your presence); **te ime vayam** — those same we; **te** — are yours; **girvaṇaḥ** — O Indra, delighted with praise; **tvadanyaḥ** — [any] other than you; **giraḥ** — praises; **nahi saghat** — does not receive; **naḥ** — our; **tat vacaḥ** — those words in the form of praise; **kṣoṇīr iva** — as the earth [nourishes the beings born in her]; **prati harya** — be pleased with."
+
+**Bhāvārtha** *(p. 404)* — "O Indra, you are rich in wealth, and are praised by many. We are yours, since we perform the sacrifice in your presence, relying on you alone. O Indra, delighted with praise: since no one other than you receives our praises, be pleased with those words of praise of ours and increase them, as the earth is pleased to nourish all the beings that are born in her."
+
+**English Translation (the source's own, p. 404)** — "Much-praised and most opulent Indra, we are those, who relying on your favour, approach you; accepter of praise, no other than you receives our commendations; be pleased (with our address) as the earth (cherishes her creatures)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 404**
+- **prabhūvaso** — "By the derivation '*prabhūtaṃ vasu yasya*', one of special wealth; or, by this word the sense 'one who always increases his lordship' is shown."
+- **puruṣṭuta** — "*Purubhiḥ bahubhiḥ yajamānaiḥ stuta*: praised by all sacrificers who are consecrated for the sacrifice."
+- **girvaṇaḥ** — "*Gīrbhiḥ vananīyaḥ*: one who is always praised with hymns."
+- **nahi saghat** — "*Nahi prāpnoti*: the word, from the root *saghu hiṃsāyām*, ought to have meant 'does not hurt'; but by the rule *dhātūnām anekārthatvāt* ('roots have many meanings') it is shown to mean 'does not receive'."
+- **prati no harya tad vacaḥ** — "Take special pleasure in the praise we speak. As an illustration: as the earth lovingly nourishes all the beings in it, so you, listening to our praise-words with regard, protect us."
+
+**Vyākaraṇa-prakriyā** *(p. 404 — grammar page, noted briefly; continues p. 405)*
+- **puruṣṭuta**: "*purubhiḥ bahubhiḥ stutaḥ*"; *ṣṭuñ stutau*; *kta* in the object sense; *āmantritasya ca*: *nighāta* (the vocative).
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks) in progress: Riks 57.1–57.3 complete; Rik 57.4 written through the Special Topics and the first grammar note (*puruṣṭuta*) (printed p. 404, PDF 420). The remaining grammar of Rik 4 (p. 405, PDF 421) and Riks 57.5–57.6 NOT yet written.**
+
+**Next task:** continue at printed p. 405 (PDF 421) with "**Rik 57.4, grammar (end)**", then Riks 5–6 and the close of Sūkta 57 (it should end ≈ p. 410; Sūkta 58 at ≈ p. 411); then STOP (user's "next 3 sūktas" done), update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; check for an anuvāka colophon). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 55–56 numerals [?]; 57.1 Nirukta numeral [?]; 57.2 "abhyuktyaiva" [?]; 57.3 Nirukta quotation "asta kṛmārthasya" and numerals [?], bhāṣya "ayase" gloss and the Ṛ. Saṃ. 1-113-1 quotation partly crowded [?].
