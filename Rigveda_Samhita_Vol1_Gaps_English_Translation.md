@@ -1336,6 +1336,180 @@ In describing the branches of the Ṛgveda a branch by the name Āruṇi was men
 
 In the Śānti-parvan of the Mahābhārata (?? [?]) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-?-?-?? [?]) there is mention of his name. The Sāma... (the sentence continues on the next page).
 
+### Page 127
+
+...(continued) Just as a Tāṇḍya-brāhmaṇa is connected with the Sāmaveda, so the sage Taṇḍi or Tāṇḍya connected with the Sāmaveda, and Tāṇḍya the author of a branch of the Yajurveda — whether these are different persons or one and the same teacher is a matter worthy of inquiry.
+
+## 8. Śyāmāyana branch
+
+According to the Purāṇas, Śyāmāyana was one of the chief pupils of Vaiśampāyana. But in the Caraṇa-vyūha the Śyāmāyanīya branch is called a sub-division (as printed in English, "Sub-division") of the Maitrāyaṇīya branch. In the Anuśāsana-parvan of the Mahābhārata (2-53 [?]) this Śyāmāyana is said to be of the Viśvāmitra gotra. No further information about him is found.
+
+## 9. Kaṭha or Kāṭhaka branch
+
+As the pupils of Vaiśampāyana are called "Cārakāḥ", so the pupils of Kaṭha, or the propagators of the Kaṭha branch, are called Kāṭhakas. The intention of the Aṣṭādhyāyī (4-3-107 [?]) is likewise this. In the 342nd [?] chapter of the Śānti-parvan of the Mahābhārata, in the description of the sacrifice of King Uparicara Vasu, among the [?] chief priests (*ṛtvijaḥ*) one is named Ādya-kaṭha:
+
+> आद्यः कठस्त्रैत्तिरिश्च वैशंपायनपूर्वजः ॥ ९ [?] ॥
+>
+> *ādyaḥ kaṭhas tai[t]tiriś ca vaiśaṃpāyanapūrvajaḥ || 9 [?] ||*
+>
+> "The first, Kaṭha, and Tittiri, the elder [brother] of Vaiśampāyana."
+
+(Read as printed; the word *taittiriś* is not wholly clear.)
+
+From this it is understood that there were several persons named Kaṭha, and that the first of them was one named by the designation "Ādya-kaṭha", a designation that became current. In the verse 59 [?] of the first (Ādi-)parvan of the Mahābhārata:
+
+> उद्दालकः कठश्चैव श्वेतकेतुस्तथैव च ।
+>
+> *uddālakaḥ kaṭhaś caiva śvetaketus tathaiva ca |*
+>
+> "Uddālaka, and Kaṭha, and Śvetaketu likewise."
+
+it is said. Here too the name of a sage Kaṭha has come. According to the Sabhā-parvan (4-?? [?]), at the time when Yudhiṣṭhira entered the assembly, certain sages were there; among them the names Kāpāla and Kaṭhara [as printed] are found.
+
+### Kaṭha is one *caraṇa*
+
+"Kaṭha is a *caraṇa*" means that it is a principal branch with many sub-branches. In the Kāśikā-vṛtti (4-3-?? [?]) it is thus:
+
+> चरणशब्दाः कठकालापादयः ।
+>
+> *caraṇaśabdāḥ kaṭhakālāpādayaḥ |*
+>
+> "Words denoting *caraṇas* are Kaṭha, Kālāpa and the like."
+
+In the Caraṇa-vyūha itself two Kaṭha branches are mentioned: one the Prācya-kaṭha, and another Kapiṣṭhala-kaṭha. In the Atharvaṇa-caraṇa-vyūha a branch named Marcaka-kaṭha is named.
+
+### Kāṭhaka Āmnāya
+
+According to the Vyākaraṇa-mahābhāṣya (4-3-101 [?]) the dharma or tradition (*āmnāya*) of the Kaṭha branch is also called Kāṭhaka. In the Mahābhāṣya (4-2-66 [?]) there is great praise in the discussion of this Āmnāya —
+
+### Page 128
+
+> यथेह भवति—पाणिनीयं महत् सुविहितम् इत्येवमिहापि स्यात् कठकं महत् सुविहितमिति ।
+>
+> *yatheha bhavati—pāṇinīyaṃ mahat suvihitam ityevam ihāpi syāt kaṭhakaṃ mahat suvihitam iti |*
+>
+> "As here it is said, 'the Pāṇinian [grammar] is great and well arranged', so here too let it be said, 'the Kaṭhaka is great and well arranged'."
+
+That is: just as the grammar of Pāṇini is very large and is composed with skill, in a very good arrangement, so the Kaṭha Āmnāya too is large and well arranged with Śrauta-sūtras and the like.
+
+### Kaṭha country and Kaṭha caste
+
+The tradition of the Kaṭha branch is extremely widespread. According to the Purāṇas written earlier, the Kaṭha was current in the northern country; that is, in northern regions such as Ālmoḍā, Garhwal, Kumaon, Kashmir and the Punjab it was in currency. The word Kaṭha may be the name of some specific region in the provinces of the northern country; people of the Kaṭha caste lived in that country. The explanation of the Mahābhāṣya on the sūtra "puṃvat karmadhāraya-jātīya-deśīyeṣu" (6-3-42 [?]) is thus:
+
+> जातेश्च [४६?] इत्युक्तं तत्रापि पुंवद्भवति । कठी वृन्दारिका कठवृन्दारिका । कठजातीया कठदेशीया ।
+>
+> *jāteś ca [46 ?] ity uktaṃ tatrāpi puṃvad bhavati | kaṭhī vṛndārikā kaṭhavṛndārikā | kaṭhajātīyā kaṭhadeśīyā |*
+>
+> "What is said by 'and of a [class-]noun' — there too the masculine form is used: *kaṭhī vṛndārikā* becomes *kaṭhavṛndārikā*; *kaṭhajātīyā*, *kaṭhadeśīyā*."
+
+*Kaṭhī* means a woman of the Kaṭha caste or of the Kaṭha country.
+
+Now the Kaṭha-brāhmaṇa is found only in the Kashmir country — that is, it is in currency there. In the Mahābhāṣya (4-3-101 [?]) Patañjali writes: "At this time the Kaṭha-saṃhitā and others are recited in village after village":
+
+> ग्रामे ग्रामे काठकं कालापकं च प्रोच्यते ।
+>
+> *grāme grāme kāṭhakaṃ kālāpakaṃ ca procyate |*
+>
+> "In every village the Kāṭhaka and the Kālāpaka are recited."
+
+*Was there a connection of the Kaṭha with the dwellers in the Kaṭyūr region?* To the north-east of the Kumaon region there is a mountain tract. Its name is Kaṭyūr. The Kaṭyūri kings of the solar line rule there; their former capital was at a place called Joshimath. The people of that country call themselves Kathāryas. Besides this, there is a usage in the Kāthavāḍi region by which the caste of the people there is called Kāṭhīya, and the people there are called Kaṭha. The people there say that these and the people of the Kaṭyūr region of the northern country had once some connection. Suitable means are needed to settle their truth; there is doubt in this matter.
+
+### Kaṭha literature
+
+The Kāṭhaka-saṃhitā is printed under the editorship of Adhyāpaka Śraudara [as printed; i.e., L. von Schroeder]. Dr. Kālenḍara [Dr. Caland] printed some portions of the Kaṭha-brāhmaṇa; Sūryakānta printed them with the other portions. In it the name of this brāhmaṇa is given as "Śatādhyayana-brāhmaṇa". The author of the Nyāyamañjarī, Bhaṭṭa, also writes so. The Kāṭhaka Yajña-sūtra has not been found up to now; but its Gṛhya portion has been printed. A statement of the Laugākṣi Dharma-sūtra is quoted in Maskarin's bhāṣya on the Gautama Dharma-sūtra (10-45 [?]).
+
+### Page 129
+
+In some Caraṇa-vyūhas it stands thus:
+
+> तत्र कठानां तूपगा यजुर्विशेषाः चतुश्चत्वारिंशदुपग्रंथाः ।
+>
+> *tatra kaṭhānāṃ tūpagā yajurviśeṣāḥ catuścatvāriṃśad upagranthāḥ |*
+>
+> "There, of the Kaṭhas, the special Yajus [texts], accessory works: forty-four."
+
+In other Caraṇa-vyūhas there is a variant reading:
+
+> तत्र कठानां तु ऋकाध्ययनादिविशेषः [?] । चत्वारिंशदुपग्रंथाः । तन्नास्ति यन्न काठके ।
+>
+> *tatra kaṭhānāṃ tu ṛkādhyayanādiviśeṣaḥ [?] | catvāriṃśad upagranthāḥ | tan nāsti yan na kāṭhake |*
+>
+> "There, of the Kaṭhas, the special [features of] study of the Ṛk and the rest; forty accessory works. There is nothing that is not in the Kāṭhaka."
+
+In the Kāṭhaka branches there are 44 accessory works (*upagranthas*) comprising Yajus mantras. The accessory works may have been the adhyāyas. In the other Caraṇa-vyūha it is said that the Kaṭha branches have 40 accessory works. It is not seen that among them study of the Ṛk (a hundred studies) is [found] as it is.
+
+Śrauta scholars have printed the portions left out of the Kaṭha-āraṇyaka or the Kaṭha-pravargya-brāhmaṇa. The Kaṭhopaniṣad is a famous work. There is also printed an Upaniṣad called Kaṭha-śruti-upaniṣad. Besides this, there is a Smṛti, belonging to the Kaṭha branch, called Laugākṣi-smṛti. In it are about 4000 [?] verses. Its manuscript is in the Lahore D.A.V. College.
+
+In the work called Gotra-pravara-mañjarī a scholar named Puruṣottama-paṇḍita quotes many large passages of the work called Laugākṣi-pravara-sūtra. That Laugākṣi-sūtra agrees closely with the Kātyāyana Pravara-sūtra. A work called Viṣṇu-smṛti also belongs to those of the Kaṭha branch. The scholar Vācaspati, who wrote the work called Śrāddha-kalpa or Pitṛbhakti-taraṅgiṇī, quotes a statement of the Viṣṇu-smṛti in his work:
+
+> यत्त्वग्निं परिस्तीर्य पौष्णं चरुं श्रपयित्वा पूषा गा इति विष्णुस्मृतावुक्तं तत्कठशाखापरं तस्य तत्सूत्रकारत्वात् ।
+>
+> *yat tv agniṃ paristīrya pauṣṇaṃ caruṃ śrapayitvā pūṣā gā iti viṣṇusmṛtāv uktaṃ tat kaṭhaśākhāparaṃ tasya tatsūtrakāratvāt |*
+>
+> "As for what is said in the Viṣṇu-smṛti — having strewn the fire, having cooked the Pūṣan oblation, [reciting] 'Pūṣā gāḥ' — that refers to the Kaṭha branch, because he was the author of its sūtra."
+
+Hence it is clear that this smṛti belongs to the Kaṭha branch.
+
+### Kaṭha and Laugākṣi
+
+The Kāṭhaka Gṛhya-sūtra is printed at Lahore, Srinagar and other places. In some manuscripts it is also named Laugākṣi-gṛhya-sūtra. From this the question naturally arises whether Kaṭha and Laugākṣi were one and the same person. But from some evidence that we have found there are grounds enough to say they were different persons. In the Vaikhānasa Ānanda-saṃhitā the Kāṭha-sūtra is said to be wholly different from the Laugākṣi-sūtra. Although the two sūtras have much resemblance, the names of these two sūtras are mentioned in different places; therefore it is possible that they belong to different [authors]. In the Pāṇinīya sūtra (4-3-104 [?]) the usage "Kāṭhaśāthinaḥ" or "Kāṭhaśāḍinaḥ" is found. Likewise in the Gaṇapāṭha (6-2-?? [?]) too there are the usages "Kaṭhakalāpāḥ" and "Kaṭhakauthumāḥ". At these places the Kalāpa, Kauthuma and other teachers mentioned together with Kaṭha must have a special connection with Kaṭha. In the sūtra of Pāṇini (2-4-3 [?]) Haradatta in his Padamañjarī writes thus:
+
+> बह्वृचानामुपस्ति कठशाखा [?] ।
+>
+> *bahvṛcānām upasti kaṭhaśākhā [?] |*
+
+(As printed; the reading is unclear and the sense is not given by the source.)
+
+In this inquiry there is doubt indeed.
+
+[A bracketed numeral, read as "[97?]", stands at the foot of the page in the print; it is not a page number and its purpose is unclear.]
+
+### Page 130
+
+## 10. Kālāpa branch
+
+The name of Vaiśampāyana's third pupil is Kalāpi. He was of the northern country. In the Aṣṭādhyāyī (4-3-104 and 108 [?]) his discussion is written. According to the Sabhā-parvan of the Mahābhārata (4-31 [?]) it has been said before that a twice-born named Kalāpi was there at the time of Yudhiṣṭhira's entry into the assembly. The saṃhitā of this Kalāpi is also called the Kālāpa-saṃhitā, and his pupils are called Kālāpas.
+
+### Kalāpa village
+
+According to the geographical dictionary written by Nandalāl [Nandalal De], a village called Kalāpa was near the Badarikāśrama. Because it was the dwelling place of Kalāpi, this village may have got the name Kalāpagrāma. In the Vāyu Purāṇa (47-?? [?]) there is its description.
+
+### The four pupils of Kalāpi
+
+In the ancient work Kāśikā-vṛtti, belonging to the sūtra 4-3-108 [?] of the Aṣṭādhyāyī, the following verse is quoted:
+
+> हरिद्रुरेषां प्रथमस्ततश्छगलितुंबुरू [?] ।
+> उलपेन चतुर्थेन कालापकमिहोच्यते ॥
+>
+> *haridrur eṣāṃ prathamas tataś chagalituṃburū [?] |*
+> *ulapena caturthena kālāpakam ihocyate ||*
+>
+> "Haridru is the first of these; then Chagali and Tumburu; with Ulapa the fourth — thus is the Kālāpaka spoken of here."
+
+(The names *chagali* and *ulapa* are doubtful in the print.)
+
+That is: there are four Kālāpas: of them the first is Haridru, the second Chagali [?], the third Tumburu, the fourth Ulapa.
+
+### Maitrāyaṇa and Kālāpa
+
+According to one reading of the Caraṇa-vyūha, in the Maitrāyaṇīya branch there are six sub-divisions: Mānava, Vārāha, Dundubha, Chāgaleya, Hāridravīya and Śyāmāyanīya. According to another reading of the same work there are seven sub-divisions: Mānava, Dundubha, Aikheya, Vārāha, Hāridravīya, Śyāma and Śyāmāyanīya. In both these readings Hāridravīya is common. In the first reading the name Bhagali [as printed; i.e., Chagali?] occurs. These Haridru and Bhagali were pupils of Kalāpi. Durga in his Nirukta bhāṣya (10-5 [?]) writes:
+
+> हारिद्रवो नाम मैत्रायणीयानां शाखाभेदः ।
+>
+> *hāridravo nāma maitrāyaṇīyānāṃ śākhābhedaḥ |*
+>
+> "Hāridrava is a sub-branch of the Maitrāyaṇīyas."
+
+From this some infer that the names Maitrāyaṇa and Kalāpi relate to one and the same person. It has been learnt long ago that in the Vyākaraṇa-mahābhāṣya the Kaṭha and Kālāpa saṃhitās were recited in all the villages. The Kaṭha and Maitrāyaṇīya saṃhitās now printed are mutually in agreement, but there are differences of reading. Therefore these two saṃhitās may be different names of one and the same saṃhitā. The teacher Viśvarūpa, in the commentary named Bālakrīḍā which he himself wrote on Yājñavalkya-smṛti (1-2 [?]), writes:
+
+> न हि मैत्रायणी शाखा काठकस्यात्यंतविलक्षणा ।
+>
+> *na hi maitrāyaṇī śākhā kāṭhakasyātyantavilakṣaṇā |*
+>
+> "For the Maitrāyaṇī branch is not wholly different from the Kāṭhaka."
+
+That is: the Maitrāyaṇīya branch has not much difference from the Kāṭhaka branch either. For the reasons stated above, the names Maitrāyaṇīya and Kālāpa branches [are one] (the sentence continues on the next page).
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 126 (PDF 152). Next: p. 127 (PDF 153), continuing the sentence about Tāṇḍya and the Sāmaveda. Open flags: reference numerals on pp. 123–126 mostly marked [?].
+**Progress note (Gap A):** Translated through printed p. 130 (PDF 156). Next: p. 131 (PDF 157), continuing the sentence "…the names Maitrāyaṇīya and Kālāpa branches are one". Open flags: reference numerals on pp. 123–130 mostly [?]; several Sanskrit words marked [?].
