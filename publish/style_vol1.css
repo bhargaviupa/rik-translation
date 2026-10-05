@@ -14,3 +14,4 @@ h3 { font-size: 11pt; border-bottom: none; margin: 1.3em 0 .4em; }
 .toc li.ch a::after { content: leader('.') target-counter(attr(href), page); }
 .toc li.ch.rm a::after { content: leader('.') target-counter(attr(href), page, lower-roman); }
 .toc li.su a::after { content: leader('. ') target-counter(attr(href), page); }
+.toc li.ch.sk { font-weight: 700; padding-left: 0; margin-top: .7em; font-size: 9.5pt; }
