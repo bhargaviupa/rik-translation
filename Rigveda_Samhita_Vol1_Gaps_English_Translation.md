@@ -1642,6 +1642,118 @@ The Maitrāyaṇa-saṃhitā is printed. Professor Schroeder of Germany edited a
 >
 > (As read in the print, which itself marks one word with "(?)"; the list continues on the next page. Gist: after the sacred-thread arrangement for the ancestors [*prācīnāvīta*], libations are offered to the sages Sumantu, Jaimini, Paila and Vaiśampāyana with their pupils; Bhṛgu, Cyavana, Āpnuvāna, Aurva and Jāmadagnya with their pupils; Āṅgirasa, Ambarīṣa, Yauvanāśva, Haridra, Bhāgali… and Tumburu and the Aulaṃbāyanas with their pupils.)
 
+### Page 135
+
+> मानववराहदुंदुभिकसिलबादरायणाः सशिष्याः ।
+> मनुपराशरयाज्ञवल्क्यगौतमाः सशिष्याः ।
+> मैत्रायण्यासुरिगार्गिशाक्त्वर ऋषयः सशिष्याः ।
+> आपस्तंबकात्यायनहारीतनारदवैजंपायनाः [?] सशिष्याः ।
+> शालंकायनांतर्कर्मंतकायिनः (?) सशिष्याः ॥
+>
+> *mānavavarāhaduṃdubhikasilabādarāyaṇāḥ saśiṣyāḥ |*
+> *manuparāśarayājñavalkyagautamāḥ saśiṣyāḥ |*
+> *maitrāyaṇyāsurigārgiśāktvara ṛṣayaḥ saśiṣyāḥ |*
+> *āpastaṃbakātyāyanahārītanāradavaijaṃpāyanāḥ [?] saśiṣyāḥ |*
+> *śālaṃkāyanāṃtarkarmaṃtakāyinaḥ (?) saśiṣyāḥ ||*
+>
+> (As read from the print, which itself marks the last line with "(?)". "…with their pupils": Mānava, Vārāha, Dundubhi[ka], Sila, Bādarāyaṇa; Manu, Parāśara, Yājñavalkya, Gautama; Maitrāyaṇī, Āsuri, Gārgi, Śāktvara — the sages; Āpastamba, Kātyāyana, Hārīta, Nārada, Vaijaṃpāyana [?]; Śālaṃkāyana and the others of the last line.)
+
+Except for the last three names, all the other names in this are clear. Here Haridru and the others form one group; Mānava, Varāha and the others the second group; Maitrāyaṇī, Āsurī and the others another group. In this way [the list] is divided.
+
+In the Vārāha-gṛhya-sūtra (4-1 [?]) the names of the Maitrāyaṇīyas are mentioned.
+
+Like the Mādhyandina, Kāṇva, Kāṭhaka and Cārāyaṇīya saṃhitās, the Maitrāyaṇīya saṃhitā too has [?] adhyāyas. Now this Maitrāyaṇīya saṃhitā is in currency in places such as Khāndeś, Nāsik-kṣetra and Moravī [?]. There are many *kalpa*s of this branch. At the end of some manuscripts "Maitrāyaṇīya-gṛhya" is written, and in some manuscripts "Mānava-gṛhya". Since there is not much difference between these two Gṛhyas, many modern scholars are of the opinion that the sūtras of these two names must be one. In the house of a Yajñeśvara-dīkṣita [as printed: "Yajñeśvarajī"] at Nāsik-kṣetra there is a manuscript of the Maitrāyaṇīya-saṃhitā. At its end:
+
+> इति मैत्रायणी-मानव-वाराहसंहिता समाप्ता ।
+>
+> *iti maitrāyaṇī-mānava-vārāhasaṃhitā samāptā |*
+>
+> "Thus ends the Maitrāyaṇī-Mānava-Vārāha Saṃhitā."
+
+is written. From this it is learnt that these three branches had different Gṛhya-sūtras. If the Maitrāyaṇī and Mānava Gṛhyas were the same, the Maitrāyaṇīya Śrauta and the Mānava Śrauta would also have to be one. But it is not so; the two have much difference. The text of the Maitrāyaṇīya Śrauta, or its pariśiṣṭas, quoted in works such as Hemādri's agrees with the text of the Vārāha Śrauta and its pariśiṣṭas. The differences of these three branches are seen well in the Śulba-sūtras. Vibhūtibhūṣaṇa Datta in his book (*The Science of the Sulba*, Calcutta, 1932, page 6 [sic, as printed in English]) writes that the Maitrāyaṇīya Gṛhya has four khaṇḍas, the Mānava Gṛhya seven khaṇḍas, and the Vārāha Gṛhya three khaṇḍas. But there is doubt in the matter of khaṇḍas as stated by him. Therefore, though there is not much difference among the Maitrāyaṇīya, Mānava and Vārāha saṃhitās, there is evidence enough to say that they are different branches.
+
+Now the sub-divisions of the Maitrāyaṇīya branch (printed in English: "Sub-divisions") will be described. It was said before that the Maitrāyaṇīya branch has seven sub-divisions: Mānava, Dundubha, Aikeya, Vārāha, Hāridravīya, Śyāma and Śyāmāyanīya. Since the descriptions of the last three have already been given, the descriptions of the remaining four, beginning with Mānava, will now be given.
+
+### Page 136
+
+## 25. Mānava branch
+
+Many sūtras belonging to this branch exist. The greater part of the Śrauta-sūtra and the Gṛhya-sūtra is printed in many places. There are many pariśiṣṭas to the Mānava Śrauta and Gṛhya. Many manuscripts are available there [?]. The Mānava pariśiṣṭas are works quite fit to be accepted.
+
+## 26. Vārāha branch
+
+The sage Varāha is mentioned in the Mahābhārata as having been at the time of Mahārāja Yudhiṣṭhira's entry into the assembly. The Vārāha Śrauta-sūtra was printed by Meharchand Lakṣmaṇadāsa, Sanskrit book-sellers of Lahore. In this printing the text is lost in several places. Many complete manuscripts of this work are now available. The Vārāha Śrauta-pariśiṣṭa is not yet printed. The Vārāha Gṛhya-sūtra was printed by the Panjab University. It appears that this book was printed on the basis of a manuscript in the house of Rāmacandra Paurāṇika, who lives at Nāsik-kṣetra.
+
+## 27. Dundubha branch
+
+Only the name of this branch survives now. No works are found.
+
+## 28. Aikeya branch
+
+In some Caraṇa-vyūhas the Aikeya branch is said to be a sub-division of the Mānava branch. In the Mānava-sūtra-pariśiṣṭa an authority is given as an example, as "the view of the teacher Aikeya".
+
+## 29. Taittirīya branch
+
+Among the pupils of Vaiśampāyana, or among their sub-pupils, there was one named Tittiri. In the Mahābhārata, in one place a Tittiri is said to be the elder brother of Vaiśampāyana. But this person has no connection with Tittiri the author of the branch. In Pāṇini's sūtra (4-3-102 [?]) it is said that those who study Tittiri's *chandas*, that is, the Yajurveda, are called Taittirīyas. Among the group of sages who were there at the time of Yudhiṣṭhira's entry into the assembly Tittiri too was present. Since this Tittiri is described as master of the Veda and the Vedāṅgas, he must be the author of the branch. When giving the lineage of the Yādavas, it is said in the Harivaṃśa (32-?? [?] to ?? [?]) that Kapotaromā's son was Taittiri, Taittiri's son Punarvasu, Punarvasu's son Abhijit. There are mentions concerning this relation in many works concerning Tittiri or Taittiri. The saṃhitā spoken by Tittiri is called the Taittirīya-saṃhitā. This Taittirīya branch is now in currency especially in the Southern country. The Taittirīya-saṃhitā has seven *kāṇḍas*. On this division the writing of the author of the Prapañca-hṛdaya is thus:
+
+> तथा यजुर्वेदे तैत्तिरीयशाखा मंत्रब्राह्मणमिश्रा ।
+> सा द्विविधा संहिताशाखाभेदेन । तत्र संहिता चतुष्पादा
+> सप्तकाण्डा चतुश्चत्वारिंशत्प्रश्ना च । तत्र प्रथमकाण्डे ऽष्टौ
+
+### Page 137
+
+> प्रश्नाः । द्वितीयसप्तमौ पंच पंच । तृतीयचतुर्थौ
+> सप्त सप्त । पंचमषष्ठौ षडेकैकौ (?) तस्मादेकादशैकादश
+> प्रश्नाश्चत्वारः पादाः ।
+>
+> *tathā yajurvede taittirīyaśākhā maṃtrabrāhmaṇamiśrā | sā dvividhā saṃhitāśākhābhedena | tatra saṃhitā catuṣpādā saptakāṇḍā catuścatvāriṃśatpraśnā ca | tatra prathamakāṇḍe 'ṣṭau praśnāḥ | dvitīyasaptamau paṃca paṃca | tṛtīyacaturthau sapta sapta | paṃcamaṣaṣṭhau ṣaḍekaikau (?) tasmād ekādaśaikādaśa praśnāś catvāraḥ pādāḥ |*
+>
+> "And in the Yajurveda the Taittirīya branch is a mixture of mantra and brāhmaṇa. It is twofold by the division of saṃhitā and branch [?]. There the saṃhitā has four parts, seven kāṇḍas and forty-four praśnas. There in the first kāṇḍa eight praśnas; the second and seventh five each; the third and fourth seven each; the fifth and sixth six, one each (?); hence eleven, eleven praśnas — four parts."
+
+(Transcribed as printed; the print itself marks one word with "(?)". The author of this commentary then says:) In this saṃhitā there are altogether 44 praśnas, or adhyāyas. The arrangement of praśnas in each kāṇḍa in the sentences quoted above is not correct; there is a slight difference. The correct reading must be this: in the first kāṇḍa 8 praśnas, in the second 6, in the third 5, in the fourth 7, in the fifth 7, in the sixth 6, in the seventh 5 — altogether 8 + 6 + 5 + 7 + 7 + 6 + 5 = 44 praśnas. The description of the matters spoken of in the seven kāṇḍas of the Taittirīya-saṃhitā is well known from the Kāṇḍānukramaṇikā.
+
+The Laugākṣi-smṛti has an extensive explanation of this division. There the descriptions of *prapāṭhaka* (praśna or adhyāya), *anuvāka* and so on are also given. Some verses of that description are given here:
+
+> तानि कांडानि वेदस्य प्रवदामि च सुस्फुटम् ।
+> पौरोडाशो याजमानं हौतारो हौत्रमेव च ॥ १ ॥
+> पितृमेधश्च कथितो ब्राह्मणेन च तत्परम् ।
+> तथैवानुब्राह्मणेन प्राजापत्यानि चोचिरे [?] ॥ २ ॥
+> तत्कांडौघविशेषज्ञा वसिष्ठाद्या महर्षयः ।
+> तद्विशेषप्रकाशार्थं सम्यगेतद्विविच्यते [?] ॥ ३ ॥
+> पौरोडाशा इषे त्याद्या अनुवाकास्त्रयोदश ।
+> तद्ब्राह्मणं तृतीयस्यां प्रत्यष्टं पाठकद्वयम् ॥ ४ ॥
+> एवं चतुश्चत्वारिंशत्काण्डानां [?] तैत्तिरीयके ।
+> महाशाखाविशेषेऽस्मिन् कथिता ब्रह्मवादिभिः ॥ ५ [?] ॥
+>
+> *tāni kāṃḍāni vedasya pravadāmi ca susphuṭam |*
+> *paurodāśo yājamānaṃ hautāro hautram eva ca || 1 ||*
+> *pitṛmedhaś ca kathito brāhmaṇena ca tatparam |*
+> *tathaivānubrāhmaṇena prājāpatyāni cocire [?] || 2 ||*
+> *tatkāṃḍaugha-viśeṣajñā vasiṣṭhādyā maharṣayaḥ |*
+> *tadviśeṣaprakāśārthaṃ samyag etad vivicyate [?] || 3 ||*
+> *paurodāśā iṣe tyādyā anuvākās trayodaśa |*
+> *tadbrāhmaṇaṃ tṛtīyasyāṃ pratyaṣṭaṃ pāṭhakadvayam || 4 ||*
+> *evaṃ catuścatvāriṃśatkāṇḍānāṃ [?] taittirīyake |*
+> *mahāśākhāviśeṣe 'smin kathitā brahmavādibhiḥ || 5 [?] ||*
+
+(Transcribed from the print; the words marked [?] are doubtful in the scan. No translation of the verses is given in the source; as a gist: "I shall now speak clearly of those kāṇḍas of the Veda — the Paurodāśa, the Yājamāna, the Hautra, the Pitṛmedha, and after them the Brāhmaṇa and the Anubrāhmaṇa, the Prājāpatya… The great sages beginning with Vasiṣṭha, who knew the particulars of these kāṇḍa-groups… the Paurodāśa [section] has thirteen anuvākas beginning with 'iṣe tvā'… thus, for the forty-four [divisions] in the Taittirīya, in this special great branch, were declared by the expounders of Brahman." — mine and tentative.)
+
+From these verses it becomes clear that the great sages beginning with Vasiṣṭha must have made the division into kāṇḍas, the division of subject and so on in this branch. This Taittirīya is counted by Vedic scholars as a great branch.
+
+Among the branches belonging to the Kṛṣṇa Yajurveda, the division of subjects is of a different kind in each branch. According to the division of subjects, the mantras and their brāhmaṇas are put together there. In some cases some mantras in one branch are not in another branch. But these mantras — chiefly the Yājyā-anuvākya mantras — are taken from the mantras of the Ṛgveda; so the branch authors may have left them out. Besides, some mantras found in the saṃhitā in one branch are in the brāhmaṇa in another branch. In some branches, since all the mantras are in the saṃhitā portion, those branches may have no brāhmaṇas. This subject becomes clear on comparing the Maitrāyaṇīya saṃhitā with the Kapiṣṭhala-kaṭha saṃhitā or the Taittirīya saṃhitā. Some branch authors have left out some subjects as not so important. For example, in the Maitrāyaṇīya saṃhitā the reading is "*sāvitrāṇi juhoti prasūtyai*" ["he offers the Sāvitra [oblations] for impulsion"]. In the Kapiṣṭhala-kaṭha saṃhitā and in the Taittirīya saṃhitā in this passage it is said "*sāvitrāṇi juhoti prasūtyai caturgṛhītena juhoti*" ["…he offers with the four-times-taken [ghee]"]. Here the ṛks connected with Savitṛ (continued on the next page)
+
+[A small bracketed numeral, read as "[18?]", stands at the foot of this page in the print; it is not a page number.]
+
+### Page 138
+
+...with which the offering is made are held by all branch authors to be the chief thing. But because the manner of making that offering is current by custom, some have given the explanation "*caturgṛhītena juhoti*" on the ground that it is known to all. Differences of this kind are especially present in the Yajurveda branches.
+
+The kāṇḍas, prapāṭhakas and anuvākas in the Taittirīya-saṃhitā are given below:
+
+(The source prints a table in seven blocks, one for each kāṇḍa, with three columns — prapāṭhaka number, number of anuvākas, number of pañcāśats [sets of fifty (words/units)] — and a total row for each kāṇḍa. The Kannada digits of this table are too small and too similar in this print to be read with certainty; I therefore do not reproduce the individual rows. What can be read with confidence is the number of prapāṭhakas in each kāṇḍa, which agrees with the sentence on p. 137: 8, 6, 5, 7, 7, 6, 5 — total 44; and the printed grand total below the table.)
+
+Printed total, below the table: "In all **7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas, 2198 pañcāśats**" (the last two figures read from the print, with the digits of the pañcāśat number [?]).
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 134 (PDF 160). Next: p. 135 (PDF 161), continuing the tarpaṇa list of the Maitrāyaṇīya branch. Open flags: reference numerals on pp. 123–134 mostly [?]; several Sanskrit words marked [?].
+**Progress note (Gap A):** Translated through printed p. 138 (PDF 164). Next: p. 139 (PDF 165). Open flags: reference numerals on pp. 123–138 mostly [?]; page 138's per-prapāṭhaka table not reproduced (only the praśna counts and the printed totals).
