@@ -8229,8 +8229,90 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 59.6, bhāṣya continued and end** *(pp. 454–457, PDF 470–473)*
+
+**Sāyaṇa-bhāṣya, the discussion on Vaiśvānara** *(pp. 454–455; a long passage, in part crowded — given in gist, [?] where doubtful)* — After the grammatical notes the bhāṣya quotes Yāska's Nirukta on this Rik (Ni. 7-… as read [?]): "*pra bravīmi tan mahitvaṃ mahābhāgyaṃ vṛṣabhasya varṣitur apāṃ yaṃ pūravaḥ pūrayitavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacante sevante varṣakāmā dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi, tam agnir vaiśvānaro ghnann abhyadhūnod apaḥ kāṣṭhā abhinac chambaraṃ megham*" (Ni. 2-… as read [?]) — "I proclaim that greatness, the majesty of the showerer of waters, whom men who are to be filled serve, the cloud-slayer, wanting rain; the *dasyu* is from *dasyati* 'to waste': the savours waste away in him, or he makes the rites waste; Agni Vaiśvānara, striking him, shook down the waters, the quarters, and split Śambara the cloud." Sāyaṇa then asks who Vaiśvānara is here: "some say the wind of the middle region, or Indra" (since they have authority over the rain-making rite); "others say the sun, because the three *savanas* — morning, midday and evening — correspond to the three worlds, earth, atmosphere and heaven, and by the third *savana* the sacrificer, reaching heaven, would fall from the earth; to avert that fall, in the last śastra of the Agni–Māruta group the priest, to descend from heaven again to earth, recites this śastra; it begins with the *Vaiśvānara* sūkta; then he descends by sūktas whose deity is Rudra and the Maruts of the middle region; since earth is Agni's place, if Vaiśvānara here were not the sun, how could the descent to the earth be possible?" — the Kannada notes that this is the argument for taking *vaiśvānara* as the sun, "but Sāyaṇācārya's own opinion is that Vaiśvānara here is the lightning-fire of the middle region." The bhāṣya then derives the word three ways: *viśve ca ime narāḥ viśvānarāḥ tatsaṃbandhād vaiśvānaraḥ*; *viśvān sarvān prāṇinaḥ prati ṛto gacchati iti viśvānarau madhyamottamau*, from them *vaiśvānaraḥ* (middle and last [worlds]); and from the arising of the fire from lightning and from the sun, he is Vaiśvānara (*vaidyuto 'gnir madhyamasthānasaṃbaddhaḥ*). The text ends with the thought that Agni is Vaiśvānara because the sacrificial fire arises from lightning after thunder and from the sun in the hot season, citing "*agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ*" (Manu 3-76 as read [?]) — **अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥** *agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ ||* — mine and tentative: "the oblation offered into the fire rises rightly to the sun; from the sun rain is born; from rain, food; from that, creatures." The sentence breaks off crowded at the foot of p. 454 ("*pratyavaroho 'pi na kartṛ…*"), and the passage closes on p. 455 with the remark that, as Yāska (Ni. 7-… [?]) has expanded, "*what has not been said here is to be supplied by connecting with that*."
+
+**Pratipadārtha** *(p. 455)* — "**pūravaḥ** — men; **vṛtrahaṇam** — the splitter of the cloud that covered (the world); **yam** — which Vaiśvānara-Agni; **sacante** — they serve, wishing rain; **vṛṣabhasya** — of that Agni who sends rain; **mahitvam** — greatness; **nu** — alertly; **pra vocam** — I proclaim; **vaiśvānaraḥ agniḥ** — Agni in the form of Vaiśvānara; **dasyum** — [him who] harms the waters or the rites, the Rākṣasa and the like; **jaghanvān** — killed; **kāṣṭhāḥ** — the waters of rain; **adhūnot** — he dropped downward; **śambaram** — the cloud that stopped the water; **ava bhet** — split."
+
+**Bhāvārtha** *(p. 455)* — "I alertly proclaim the greatness of that Vaiśvānara-Agni, the splitter of the cloud that covered all the world, whom all men serve wishing rain, for he sends rain. That Agni killed the Rākṣasas who harm the waters, split the cloud that stopped the water, and let the waters of rain fall down."
+
+**English Translation (the source's own, p. 455)** — "I extol the greatness of that showerer of rain whom men celebrate as the slayer of Vritra; Vaiswanara, Agni killed the stealer (of the waters) and sent them down (upon earth), and clove the (obstructing) cloud."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 455–456** — **pūravaḥ**: "*manuṣyāḥ*: in the Nirukta (Ni. 3-8 as read [?]) the word *puru* is read among the twenty-five synonyms for men." **vaiśvānaraḥ**: "as said earlier: *viśve sarve narā enam agniṃ yajñādau praṇayanti iti viśvanaraḥ, tatsaṃbandhād vaiśvānaraḥ*; or *viśveṣāṃ narāṇāṃ lokāntaraṃ prati netṛtayā saṃbandhī vaiśvānaraḥ*; or *viśvān sarvān prāṇinaḥ prati ṛto gacchati iti viśvānarau madhyamottamau*, from these two arisen, *vaiśvānaraḥ*" (explained in the three ways). **śambaram**: "*svaniroḍhakārinaṃ megham*: the cloud that stops the water." In this Rik, the Kannada says, the praise of Vaiśvānara is conveyed in the sense that "he killed Vṛtra, who covered the cloud, caused rain, and destroyed the Rākṣasas."
+
+**Vyākaraṇa-prakriyā** *(pp. 456–457 — noted briefly)* — **vocam**: *vaca paribhāṣaṇe*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the present sense; *mip*; *tasthasthamipāṃ…*: *am*; *cleḥ* in *luṅ*: *asti-vakti-khyātibhyo 'ṅ* (Pā. 3-1-52): *aṅ*; *vacaḥ um*: *um* augment; *guṇa*; *bahulaṃ chandasy amāṅyoge 'pi*: no *aṭ*; *nighāta*. **sacante**: *saca seṣane sevane ca*; *laṭ* third plural; *yat* before: no *nighāta*; root's accent. **jaghanvān**: *han*; *kvasuś ca*: *kvasu* for *liṭ*; doubling; *kuhoś cuḥ*; *abhyāsāc ca*: *h* → *gh*; *vibhāṣā gamahana…*: optional *iṭ* absent; *jaghanvas*; *āc ca saṃyogasya…*: lengthening; *ugidacām*: *num*; *halṅyābbhyo…*; *saṃyogāntasya lopaḥ*; *dīrghād aṭi samānapāde*: *ru*; nasalization. **adhūnot**: *dhūñ kampane*; *laṅ*; *svādibhyaḥ śnuḥ*; *guṇa*; *aṭ*; at the head of a pāda: no *nighāta*. **bhet**: *bhidir vidāraṇe*; *luṅ*; *bahulaṃ chandasi*: *śnam* → *luk*; *guṇa*; *halṅyābbhyaḥ*: loss of *t*; no *aṭ*; *nighāta*. **|| 6 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, Agni Vaiśvānara, Triṣṭubh) in progress: Riks 59.1–59.5 complete; Rik 59.6 written from the Saṃhitā and Pada through the first part of the bhāṣya (to the sense of "*śambaraṃ ava bhet*") and the grammatical tail on *vocam*, *jaghanvān*, *bhet* (printed p. 453–454, PDF 469–470). The long continuation of the bhāṣya on p. 454 (a discussion, with the Nirukta, of who Vaiśvānara is — lightning-fire / sun / belly-fire — ending "…prativarohe 'pi na kartṛ…") is only partly read; it and the rest of Rik 6 (Pratipadārtha etc. from p. 455, PDF 471) and Rik 59.7 NOT yet written. Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+### Rik 59.7 (pp. 458–461, PDF 474–477; the last Rik)
 
-**Next task:** re-view PDF 470 (printed p. 454) for the long bhāṣya passage on Vaiśvānara (write it as "**Rik 59.6, bhāṣya continued**": translate its gist; mark crowded passages [?]) and PDF 471 on; then Rik 59.7 and close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 59 intro and Āśvalāyana/Nirukta numerals [?]; 59.2 bhāṣya's last words partly crowded [?]; 59.4 Ṛ. Saṃ. 3-3-11 numeral [?]; 59.6 Saṃhitā "bharet" vs Pada "bhet" [?]; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(p. 458)*
+
+> **वैश्वानरो महिम्ना विश्वकृष्टिर्भरद्वाजेषु यजतो विभावा ।**
+> **शातवनेये शतिनीभिरग्निः पुरुणीथे जरते सूनृतावान् ॥ ७ ॥**
+
+*vaiśvānaro mahimnā viśvakṛṣṭir bharadvājeṣu yajato vibhāvā |*
+*śātavaneye śatinībhir agniḥ puruṇīthe jarate sūnṛtāvān || 7 ||*
+
+**Pada-pāṭha** *(p. 458)*
+
+> वैश्वानरः । महिम्ना । विश्वऽकृष्टिः । भरत्ऽवाजेषु । यजतः । विऽभावा ।
+> शातवनेये । शतिनीभिः । अग्निः । पुरुऽनीथे । जरते । सूनृताऽवान् ॥ ७ ॥
+
+*vaiśvānaraḥ | mahimnā | viśva-kṛṣṭiḥ | bharat-vājeṣu | yajataḥ | vi-bhāvā |*
+*śātavaneye | śatinībhiḥ | agniḥ | puru-nīthe | jarate | sūnṛtā-vān || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 458)*
+
+> **वैश्वानरोऽग्निर्महिम्ना महत्त्वेन विश्वकृष्टिः । कृष्टिरिति मनुष्यनाम । विश्वे सर्वे मनुष्या यस्य स्वभूताः स तथोक्तः । भरद्वाजेषु पुष्टिकरहविर्लक्षणान्नवत्सु यागेषु । यद्वा । एतत्संज्ञेष्वृषिषु यजतो यष्टव्यो विभावा विशेषेण प्रकाशयिता सूनृतावान् । सूनृता प्रिया सत्या वाक् । तद्युक्तः । एवंभूतोऽग्निः शातवनेयेऽ शतसंख्याकान् क्रतूनन्वनति संभजत इति शतवनिः । तस्य पुत्रः शातवनेयः । तस्मिन् पुरुणीथे बहूनां नेतर्येतत्संज्ञके राजनि च शतिनीभिर्बहुभिः स्तुतिभिर्जरते । स्तूयते ॥**
+
+*vaiśvānaro 'gnir mahimnā mahattvena viśvakṛṣṭiḥ | kṛṣṭir iti manuṣyanāma | viśve sarve manuṣyā yasya svabhūtāḥ sa tathoktaḥ | bharadvājeṣu puṣṭikarahavirlakṣaṇānnavatsu yāgeṣu | yadvā | etatsaṃjñeṣv ṛṣiṣu yajato yaṣṭavyo vibhāvā viśeṣeṇa prakāśayitā sūnṛtāvān | sūnṛtā priyā satyā vāk | tadyuktaḥ | evaṃbhūto 'gniḥ śātavaneye ['] śatasaṃkhyākān kratūn anvanati saṃbhajata iti śatavaniḥ | tasya putraḥ śātavaneyaḥ | tasmin puruṇīthe bahūnāṃ netary etatsaṃjñake rājani ca śatinībhir bahubhiḥ stutibhir jarate | stūyate ||*
+
+**Translation of the bhāṣya:** "Vaiśvānara Agni, *mahimnā*, by his greatness, is *viśvakṛṣṭiḥ*: *kṛṣṭi* is a name for men; one to whom all men belong. *Bharadvājeṣu*, in sacrifices that have food in the form of oblations that nourish; or, among the sages of that name (Bharadvāja); *yajataḥ*, to be worshipped; *vibhāvā*, shining specially; *sūnṛtāvān*: *sūnṛtā* is pleasant, true speech — endowed with it. Such Agni is *jarate*, praised, in the son of Śatavani (*śātavaneye*; Śatavani is 'one who serves a hundred sacrifices') and in the king *Puruṇītha*, the leader of many, *śatinībhiḥ*, with many praises."
+
+**Pratipadārtha** *(p. 459)* — "**vaiśvānaraḥ** — Agni in the form of Vaiśvānara; **mahimnā** — by his majesty; **viśvakṛṣṭiḥ** — united with all men (and); **bharadvājeṣu** — in sacrifices that have nourishing oblation-food, or among the Bharadvāja sages; **vibhāvā** — very bright; **yajataḥ** — worshipful; **sūnṛtāvān** — one who has pleasant and true words; **agniḥ** — Agni; **śātavaneye** — in the son of Śatavani; **puruṇīthe** — in the king Puruṇītha, who is the guide of many; **śatinībhiḥ** — with many hymns; **jarate** — is praised."
+
+**Bhāvārtha** *(p. 459)* — "Vaiśvānara Agni is united by his greatness with all men. In sacrifices having nourishing oblation-food, very bright, worshipful, with pleasant and true words, Agni is praised with many hymns by the son of Śatavani and by the king Puruṇītha, guide of many."
+
+**English Translation (the source's own, p. 459)** — "Vaiswanara by his magnitude exists in all men, and is worthy of being adored in sacrifices of nourishing foods; Agni, endowed with rays and truthful speech, is praised with many commendations, by Purunitha, and the son of Satavani."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 459–460** — **viśvakṛṣṭiḥ**: "*viśve sarve manuṣyā yasya*: here *kṛṣṭi* means man; in the Nirukta the word *kṛṣṭi* is read as a name for men." **bharadvājeṣu**: "in sacrifices that have food-oblations that give nourishment, or among the Bharadvāja sages in succession; *bharanti poṣayanti bhoktṝn iti bharantaḥ, tādṛśā vājā yeṣu bharadvājāḥ*: thus the derivation in the sense of sacrifice." **vibhāvā**: "from *bhā dīptau*: 'who shines specially'." **sūnṛtāvān**: "*sūnṛtā priyā satyā vāk tadyuktaḥ*: one who has pleasant and true words; an epithet of Agni." **śātavaneye**: "*śatasaṃkhyākān kratūn vanati saṃbhajate iti śatavaniḥ*: the son of the great sage Śatavani, who performed a hundred sacrifices, is Śātavaneya." **puruṇīthe**: "one who is the guide of many people; or the king named Puruṇītha — both senses are suggested."
+
+**Vyākaraṇa-prakriyā** *(pp. 460–461 — noted briefly)* — **bharadvājeṣu**: *bharanti poṣayanti bhoktṝn iti bharantaḥ*; *ḍubhṛñ bharaṇe*; *śatṛ*; bahuvrīhi *bharantaḥ vājā yeṣu te bharadvājāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* would give the first member's accent, but because the word is among *marudvṛdhādi* the final-acute of the first member: *marudvṛdhādiṣu*…: *pūrvapadāntodātta*. **yajataḥ**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *bhṛmṛdṛśiyajiparvipaci…* (Uṇ. 3-… as read [?]): *atac*; *citaḥ*: end-acute. **vibhāvā**: *ato manin kvanib vanibaś ca*: *vanip*; *vibhāvan*; *pit*: anudātta, root's accent stays; nominative: *sarvanāmasthāne cāsambuddhau*: lengthening of the penultimate; *halṅyābbhyo…*; *nalopaḥ prātipadikāntasya*. **śātavaneye**: *iñ sarvadhātubhyaḥ* (Uṇ. 4-… as read [?]): *iñ*: *śatavani*; *iṭaś ca ṇiḥ*… *itaś cāniñaḥ* (Pā. 4-1-122): *ṭhak* for a stem ending in *i* other than *iñ*; *kit*: *ādivṛddhi*; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*: *eya*; *śātavaneya*; *kiṭeḥ*: end-acute. **śatinībhiḥ**: *śata* + *ini* (*tad asyāsti*); *yasyeti ca*: loss of *a*: *śatin*; feminine *ṅīp* (*ṛnnebhyo ṅīp*); *jñīp* is *pit*, anudātta, so the suffix-accent of *ini* stays: *tak* vowel after *t* acute; instrumental plural. **puruṇīthe**: *pūrvapadāt saṃjñāyām agaḥ*: *ṇatva*. **jarate**: *jṝṣ vayohānau*, here used in praise; *vyatyayo bahulam*: *kartṛ* [*śap*] with the object; *laṭ*; *ṭita ātmanepadānām ṭer e*; *kartari śap*; *guṇa*; *nighāta*. **sūnṛtāvān**: *sūnṛtā asya asti*: *tad asyāsty asmin*: *matup*; *māduḥ upadhāyāś ca matoḥ*: *v*; *āt-saṃyogasya*…: lengthening; *ugidacām*: *num*; *nalopa* is not applied because *tasya* [*ta-lopasya*] is *asiddha*. **|| 7 ||**
+
+---
+
+### Close of Sūkta 59
+
+*(The print gives no closing sentence for Sūkta 59: the last grammar paragraph ends on p. 461 and a small ornament separates it from the next title. My own summary, not the source's:)*
+
+**Sūkta 59 (Maṇḍala 1, Eleventh Anuvāka, 7 Riks; ṛṣi Nodhas Gautama; deity Agni Vaiśvānara; Triṣṭubh) — printed pp. 439–461, PDF 455–477.** All other fires are branches of Agni; the deathless gods delight in him; he is the navel of men and holds them up like a deep-planted pillar (1); head of heaven and navel of earth, the ruler of both, created by the gods as light for the Ārya (2); all treasures are stored in him as rays in the sun, and he is lord of the wealth of mountains, herbs, waters and men (3); heaven and earth widen for their son and the hotṛ praises him as a bard praises a king (4); his greatness exceeds heaven; he recovered the Asuras' wealth for the gods (5); he is the lightning-fire that kills the waters' enemy, shakes down the rain and splits the cloud Śambara — with Sāyaṇa's long discussion whether Vaiśvānara here is the wind, Indra, the sun or the lightning-fire (6); and he is praised by Puruṇītha and the son of Śatavani (7).
+
+---
+
+## SŪKTA 60 (printed p. 461 –, PDF 477 –)
+
+**ಅರವತ್ತನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the sixtieth sūkta")*
+
+### Sāyaṇa's introduction *(p. 461)*
+
+> **वह्निमिति पञ्चर्चं तृतीयं सूक्तं नोधस आर्षं त्रैष्टुभमाग्नेयं । अनुक्रान्तं च । वह्निं पञ्चेति ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदं सूक्तमाश्विने शस्त्रे च । तथा च सूत्रितं । वह्निं यशसमुप प्र जिन्वन्निति त्रीणि । आ. ४-१३ । इति ॥**
+
+*vahnim iti pañcarcaṃ tṛtīyaṃ sūktaṃ nodhasa ārṣaṃ traiṣṭubham āgneyaṃ | anukrāntaṃ ca | vahniṃ pañceti || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdaṃ sūktam āśvine śastre ca | tathā ca sūtritaṃ | vahniṃ yaśasam upa pra jinvann iti trīṇi | ā. 4-13 [?] | iti ||*
+
+**Translation:** "'*Vahniṃ*': a sūkta of five Riks, the third [of the eleventh anuvāka]; the seer is Nodhas, the metre Triṣṭubh, the deity Agni; so the Anukramaṇī: '*vahniṃ pañca*'. In the Agni-rite (*āgneya kratu*) of the Prātaranuvāka, in the Triṣṭubh metre, this sūkta belongs also to the Aśvin-śastra: so it is aphorized: '*vahniṃ yaśasam upa pra jinvann*' — three (Āśv. 4-13 [?])."
+
+**Anuvāda (Kannada, p. 461)** — "'*Vahniṃ*' is the third sūkta in the eleventh anuvāka. It has five Riks. The seer is Nodhas; the deity Agni; the metre Triṣṭubh. In the Anukramaṇikā: '*vahniṃ pañca*'. At the time of reciting the Prātaranuvāka mantras, this sūkta is for the Triṣṭubh Riks of the Āgneya-kratu and for the Aśvin-śastra mantras: so the Āśvalāyana Śrauta Sūtra by the sūtra '*vahniṃ yaśasam upa pra jinvann iti trīṇi*' (Āśv. 4-13)."
+
+*(The heading block and Rik 60.1 are on p. 462 (PDF 478).)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–59 COMPLETE (printed pp. 1–461; Sūkta 59 ends on p. 461 with only the last grammar paragraph). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 and 59 DONE. Sūkta 60 (*vahniṃ yaśasam*, 5 Riks, ṛṣi Nodhas Gautama, Agni, Triṣṭubh; Eleventh Anuvāka, third sūkta) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 461, PDF 477). Heading block and Rik 60.1 begin on p. 462 (PDF 478) — NOT yet written. Contents table: Sūkta 61 ≈ p. 478.**
+
+**Next task:** continue at printed p. 462 (PDF 478) with the heading block and Rik 60.1; Riks 2–5; close of Sūkta 60; then Sūkta 61 (*asmā id u*; starts ≈ p. 478, confirm) — after which Volume 5 is COMPLETE: then update CLAUDE.md (Volume 6 set-up when asked; Pariśiṣṭa from p. 531 is not to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 58–59 intro/Āśvalāyana/Nirukta numerals [?]; 59.2, 59.6 crowded passages (the long Vaiśvānara discussion in 59.6 given in gist; its Nirukta quotation partly crowded); 59.6 Saṃhitā "bharet" vs Pada "bhet" [?]; Uṇādi/Pāṇini numerals [?].
