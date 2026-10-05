@@ -885,3 +885,275 @@ The Kāṇva-saṃhitā has 40 adhyāyas, 328 anuvākas and 2086 mantras. Their 
 The disciples of Kaṇva are called Kāṇvas. This Kāṇva branch was at first current among Kaṇva's disciples, that is, among the Kāṇvas. The sage Kaṇva has a gotra; and yet it is known that there were many sages of the name Kaṇva. Among sages of this name the principal ones are: Kaṇva Nārada (Jaiminīya Brāhmaṇa 2-1[?]), Kaṇva Śrāyasa (Taittirīya Saṃhitā 5-4-7-5 [?], Kāṇva Saṃhitā 20-8 [?], Maitrāyaṇīya Saṃhitā 3-3-9 [?]), Kaṇva Sauśravasa (Kāṇva Saṃhitā 13-2 [?]), Kaṇva Ghaura (Ṛgveda-saṃhitā 1-36 to 43 [?]) and others. It is known that the Kaṇva who lived in the time of Mahārāja Duṣyanta belonged to the Kaśyapa gotra. In his hermitage Śakuntalā lived. The sage Kaṇva described in Kālidāsa's play *Śākuntalā* is this same person. He had performed an Aśvamedha sacrifice for King Bharata. In the Ādi-parvan (69-? [?]) it is said *yājayām āsa taṃ kaṇvaḥ* ("Kaṇva made him sacrifice").
 
 In the first chapter of the Śānti-parvan of the Mahābhārata there is a description that the sages Dvaipāyana, Nārada, Devala, Devasthāna and Kaṇva, with their disciples, after the Bhārata war, went to console Yudhiṣṭhira. Again, in the 3?? [?] chapter of the Śānti-parvan it is stated that there was a king named Upacarivasu, a disciple of Bṛhaspati, called after the son of Aṅgiras, Citraśikhaṇḍī; that he performed a great Aśvamedha sacrifice; and that among the 1?? [?] officiating priests of that sacrifice there was a sage named Kaṇva. The real names of these many Kaṇvas are not known to us. In the Mausala-parvan too (3-4 [?]) the name of a Kaṇva is indicated; it is said that this Kaṇva, who was with Viśvāmitra and Nārada, cursed that the Yādava clan would perish.
+
+### Page 115
+
+It is more probable that Kaṇva and his disciples mentioned at the beginning of the Śānti-parvan were connected with this Kāṇva branch. The Kaṇvas belonged to the Āṅgirasa gotra. In chapter 3?? [?] of the Harivaṃśa it is written thus:
+
+> एते ह्यङ्गिरसः पक्षं संश्रिताः कण्वनौद्गलाः [?] ॥६७॥
+>
+> *ete hy aṅgirasaḥ pakṣaṃ saṃśritāḥ kaṇva-naudgalāḥ [?] ||67||*
+>
+> "These, indeed, are attached to the Āṅgirasa side — Kaṇva and the Maudgalas." (The last word is printed *naudgalāḥ*; the sense suggests *maudgalāḥ* [?].)
+
+Likewise in the Brahmāṇḍa Purāṇa (1-1[?]-?) and the Vāyu Purāṇa (99-100 [?]), in these places too, the Kaṇvas are said to belong to the Āṅgirasa gotra.
+
+### Kaṇva's hermitage
+
+According to the Ādi-parvan of the Mahābhārata (68-18 [?]) Kaṇva's hermitage was on the bank of the river Mālinī. This place lies in the Madhyadeśa of ancient times. In the Kāṇva-saṃhitā there is a reading:
+
+> एष वः कुरवो राजैष पञ्चाला राजा ।
+>
+> *eṣa vaḥ kuravo rājaiṣa pañcālā rājā |*
+>
+> "This is your king, O Kurus; this is your king, O Pañcālas."
+
+In the Mādhyandina-saṃhitā, in this same place, it is *eṣa vo 'mī rājā* ("this is your king, O these [people]"). In the Taittirīya and other saṃhitās, in the portion where this reading occurs, the names of other places are given. From this it is known that Kaṇva's hermitage was in the neighbourhood of the Kurus and Pāñcālas.
+
+One *āgama* of Kaṇva is quoted in the Devapāla-bhāṣya (4-6 [?]) on the Kāṭhaka-gṛhya-sūtra. Some verses concerning Kaṇva are quoted in the Śrāddha section of the *Smṛti-candrikā* (pp. 6?–6? [?]). Many authorities concerning Kaṇva and the Kāṇva-dharma-sūtra are found abundantly in the Maskarī-bhāṣya on the Gautama-dharma-sūtra. In the Āpastamba-dharma-sūtra two ācāryas named Kaṇva are mentioned.
+
+### The Kāṇva kings of India
+
+To the west of the Śuṅga kingdom established by Puṣyamitra there was a kingdom named Magadha; that, for another reason, came into the hands of the Kāṇvas. These Kāṇva kings were Brāhmaṇas. In the Purāṇas they are called *Kāṇvāyanas*. The family of these Kāṇva kings too must have been Brāhmaṇas.
+
+### The connection of the Kāṇva branch with the Pāñcarātra-āgama
+
+It is known that those of the Kāṇva branch had some special connection with the Pāñcarātra-āgama. In the first chapter (*paṭala*) of the Saṃhitā named *Jaya* of this āgama it says:
+
+> काण्वीं शाखामधीयानावौपगायनकौशिकौ ।
+> प्रपत्तिशास्त्रनिष्णातौ स्वनिष्ठानिष्ठितावुभौ ॥१०१॥
+> तद्गोत्रसम्भवा एव कल्पान्तं पूजयन्तु माम् ।
+> जयाख्येनाथ पाद्मेन तन्त्रेण सहितेन वै ॥१०२॥
+> अत्राधिकार उभयोस्तयोरेव कुलीनयोः ।
+> शाण्डिल्यश्च भरद्वाजो मुनिर्मौञ्जायनस्तथा ॥१०३॥
+> इमाश्च पञ्चगोत्रस्थाः मुख्याः काण्वीमुपाश्रिताः ।
+> श्रीपाञ्चरात्रतन्त्रीये सर्वेऽस्मिन् मम कर्मणि ॥१०४॥
+>
+> *kāṇvīṃ śākhām adhīyānāv aupagāyana-kauśikau |*
+> *prapatti-śāstra-niṣṇātau sva-niṣṭhā-niṣṭhitāv ubhau ||101||*
+> *tad-gotra-sambhavā eva kalpāntaṃ pūjayantu mām |*
+> *jayākhyenātha pādmena tantreṇa sahitena vai ||102||*
+> *atrādhikāra ubhayos tayor eva kulīnayoḥ |*
+> *śāṇḍilyaś ca bharadvājo munir mauñjāyanas tathā ||103||*
+> *imāś ca pañca-gotra-sthāḥ mukhyāḥ kāṇvīm upāśritāḥ |*
+> *śrī-pāñcarātra-tantrīye sarve 'smin mama karmaṇi ||104||*
+>
+> "The two, Aupagāyana and Kauśika, studying the Kāṇva branch, versed in the science of surrender (*prapatti*), each established in his own duty — let those born in their lineage worship me until the end of the aeon, together with the Pādma tantra called *Jaya*. In this matter the authority belongs to those two, the well-born; Śāṇḍilya, Bhāradvāja and the sage Mauñjāyana likewise: these five gotras, who are chiefly dependent on the Kāṇva [branch], [stand] in the Śrī-Pāñcarātra system, in all this my rite." (The verse numbers as printed read 101, 110 [?], 113 [?], 106 [?]; they are given here as the natural sequence 101–104; the sense of the last verse is not entirely clear [?].)
+
+### Page 116
+
+That is: those who follow the Pāñcarātra-āgama, and among them in particular those of the five gotras Aupagāyana, Kauśika, Śāṇḍilya, Bhāradvāja and Mauñjāyana, used to follow the Kāṇva branch in their rites. Many of their ācāryas also belonged to the Kāṇva branch.
+
+## 4. Mādhyandināḥ
+
+Of the fifteen branches of the Śukla Yajurveda, this Mādhyandina branch alone is the most widely current of all the remaining branches. In Kashmir, Punjab, Rajputana, Gujarat, Maharashtra, Madras, Bengal, Bihar and the United Provinces — generally in all places — the currency of this branch is the greater. In manuscript copies of the Saṃhitā it is generally called simply the Yajurveda or the Vājasaneya-saṃhitā.
+
+It cannot yet be said who the sage Mādhyandina was or from which country. Those who study this branch say that this Saṃhitā contains in all 1975 mantras; this count is according to the division of mantras called *kaṇḍikā*. Besides, if the different mantras within the kaṇḍikās are counted separately, the number of mantras becomes larger. The number of these mantras is found at the end of the *Vāsiṣṭha-śikṣā*; it is quoted and written here:
+
+> ऐकीकृत्य ऋचः सर्वा मुनिषड्वेदभूमिताः ।
+> अब्धिरामाथ वा ज्ञेया वसिष्ठेन च धीमता ॥१॥
+> एवं सर्वाणि यजूंषि रामाश्विवसुयुग्मकाः ।
+> अथ वा पञ्चभिर्न्यूनाः संहितायां विभागतः ॥२॥
+>
+> *aikīkṛtya ṛcaḥ sarvā muni-ṣaḍ-veda-bhūmitāḥ |*
+> *abdhi-rāmātha vā jñeyā vasiṣṭhena ca dhīmatā ||1||*
+> *evaṃ sarvāṇi yajūṃṣi rāmāśvi-vasu-yugmakāḥ |*
+> *atha vā pañcabhir nyūnāḥ saṃhitāyāṃ vibhāgataḥ ||2||*
+>
+> "All the ṛks taken together are measured by *muni, ṣaṭ, veda, bhū* [7, 6, 4, 1 — read in reverse order, 1467]; or, as known to the wise Vasiṣṭha, by *abdhi, rāma* [4, 3 — the sense of this alternative is not clear to the translation [?]]. So also all the yajus-mantras are *rāma, aśvi, vasu, yugmaka* [3, 2, 8, 2 — read in reverse, 2823]; or less by five, according to the division within the Saṃhitā."
+
+In this Śukla Yajurveda Saṃhitā there are in all 1467 ṛks. The remainder are yajus-mantras; their number is not clear in the print. According to this the total number of mantras becomes 4290 or 4285 (the printed figures are read from small numerals; they agree with 1467 + 2823 = 4290, and "less by five" = 4285 [?]).
+
+That is the count of ṛks and yajus-mantras. Now the number of anuvākas is stated according to the *Anuvāka-sūtra* adhyāya. The verses at the end of the *Anuvāka-sūtra* adhyāya are written below:
+
+> दशाध्यायेषु समाख्यातानुवाकाः सर्वसंख्यया ।
+> शतं दशानुवाकाश्च नवान्ये च मनीषिभिः ॥१॥
+> सप्तषष्टिश्चितौ ज्ञेयाः सौत्रामण्यां द्वाविंशतिस्तथा ।
+> अश्वे एकोनपञ्चाशत्पञ्चत्रिंशत्खिले स्मृताः ॥२॥
+> शुक्रियेषु तु विज्ञेया एकादश मनीषिभिः ।
+> ऐकीकृत्य समाख्यातं त्रिशतं त्र्यधिकं मतम् ॥३॥
+>
+> *daśādhyāyeṣu samākhyātānuvākāḥ sarva-saṃkhyayā |*
+> *śataṃ daśānuvākāś ca navānye ca manīṣibhiḥ ||1||*
+> *saptaṣaṣṭiś citau jñeyāḥ sautrāmaṇyāṃ dvāviṃśatis tathā |*
+> *aśve ekona-pañcāśat pañcatriṃśat khile smṛtāḥ ||2||*
+> *śukriyeṣu tu vijñeyā ekādaśa manīṣibhiḥ |*
+> *aikīkṛtya samākhyātaṃ triśataṃ tryadhikaṃ mataṃ ||3||*
+>
+> "In the first ten adhyāyas the anuvākas are declared, by total number, one hundred and nineteen (*śataṃ daśa nava*), by the wise. In the *citi* [the Agnicayana section] sixty-seven are to be known; in the Sautrāmaṇī twenty-two; in the Aśvamedha forty-nine; in the *khila* thirty-five are remembered. In the Śukriya [portion] eleven are to be known by the wise. Taken together, three hundred and three (*triśataṃ tryadhikam*) is the accepted [number]."
+
+That is: in the first 10 adhyāyas there are 119 anuvākas. In adhyāyas 11–18, which describe the Agnicayana, there are 67 anuvākas. In adhyāyas 19–21, which deal with the Sautrāmaṇī sacrifice, 22 anuvākas. In adhyāyas 22–29, relating to the Aśvamedha sacrifice, 49 anuvākas. In adhyāyas 30–35, which are called *khila* or *pariśiṣṭa* adhyāyas, 35 anuvākas. In the last 5 adhyāyas, called *Śukriya* (36–40), 11 anuvākas. Adding all together: 119 + 67 + 22 + 49 + 35 + 11 = 303 anuvākas.
+
+### Page 117
+
+The numbers of the anuvākas, mantras, ṛks and yajus-mantras of the 40 adhyāyas in this Saṃhitā are given in the following table. The counts of anuvākas and mantras are according to the *Anuvāka-sūtra* adhyāya just quoted, and the count of ṛks and yajus-mantras is according to the *Vāsiṣṭha-śikṣā*. There are many errors in the text of the *Vāsiṣṭha-śikṣā* printed at Kāśī; therefore it cannot be said with certainty that the figures in this table are correct. Nevertheless, for the sake of later discussion, the account found in the printed work is given here.
+
+*(The printed table, spread over pp. 117–118, has forty rows, one for each adhyāya, with five columns: adhyāya, anuvākas, mantras, ṛks, yajus-mantras; some cells carry a bracketed variant figure. The numerals are small. The group totals of the anuvāka column, and the total anuvākas and mantras printed at the foot of p. 118, are given above and below. The individual figures of the forty rows, and in particular the ṛk and yajus columns with their bracketed variants, could not be read reliably enough and are therefore not reproduced here [?]. The anuvāka figures of adhyāyas 1–10 are 10, 7, 10, 10, 10, 8, 25, 23, 8, 8, which add up to 119, and the mantra figures of adhyāyas 1–10 are 31, 34, 63, 37, 43, 37, 48, 63, 40, 34; these ten rows were read with confidence.)*
+
+### Page 118
+
+The totals printed at the foot of the table are: anuvākas **303**, mantras **1975**.
+
+There is no adequate evidence that the Śrauta and Gṛhya Sūtras of the Mādhyandina branch existed formerly. But two Śikṣā works bearing the name of this branch have been printed; they are connected with this branch. In them are found many discussions concerning the Pada-pāṭha and details of many ṛks that have been left out. It cannot be said definitely in what period these Śikṣās were composed.
+
+## 5. Śāpeyāḥ
+
+Some readings of this name have been indicated earlier. Among them the reading *Śāpeyāḥ* appears to be the correct one. This reading is correct according to Pāṇini's sūtra *śaunakādibhyaś chandasi* (4-3-106 [?]). In his bhāṣya on adhyāya 3, sūtra 1[?] of Kātyāyana's Prātiśākhya, Anantabhaṭṭa writes thus:
+
+> दुःनाशं । दूणाशं सख्यं तव । इदं शाबीयादिशाखोदाहरणम् ।
+>
+> *duḥnāśaṃ | dūṇāśaṃ sakhyaṃ tava | idaṃ śābīyādi-śākhodāharaṇam |*
+>
+> "*Duḥnāśam*; [and] *dūṇāśaṃ sakhyaṃ tava*. This is an example from the branch of the Śābīyas and others."
+
+That is: in some branches the reading is *duḥnāśam*; but in the Śāpeya branch it is *dūṇāśam*. In the Ṛgveda (6-?-? [?]) there is the reading *dūṇāśaṃ sakhyaṃ tava*. This ṛk is not in the Mādhyandina branch; it may therefore be in the Śāpeya branch.
+
+Again Anantabhaṭṭa writes in his bhāṣya (3-4? [?]):
+
+> षट् दन्तः । षोडन्तो अस्य महतो महित्वात् । शाबीयादेरेतत् ।
+>
+> *ṣaṭ dantaḥ | ṣoḍanto asya mahato mahitvāt | śābīyāder etat |*
+>
+> "*Ṣaṭ dantaḥ*; *ṣoḍanto asya mahato mahitvāt* — this is from [the branch of] the Śābīyas and others."
+
+This mantra is not found in the list of Vedic mantras.
+
+## 6. Tāpanīyāḥ
+
+Paṇḍita Vidyādhara Śāstrī, son of Aṇṇā Śāstrī Vāre, who lived in the Nāsik sacred region, has quoted this authority from the bhāṣya of Gopīnāthabhaṭṭa:
+
+> तापनीयश्रुतिरपि । सप्तद्वीपवशीभूमिर्दक्षिणार्थं न कल्प्यते इति ।
+>
+> *tāpanīya-śrutir api | sapta-dvīpa-vaśī-bhūmir dakṣiṇārthaṃ na kalpyate iti |*
+>
+> "The Tāpanīya Śruti also [says]: 'the earth in one's power, with its seven dvīpas, is not allotted as a sacrificial fee.'"
+
+This statement is not in the *Tāpanīya Upaniṣad*. It may therefore be in the Tāpanīya Brāhmaṇa or Āraṇyaka.
+
+## 7–8. Kāpolāḥ and Pauṇḍravatsāḥ
+
+Nothing further has been learned concerning the Kāpola branch. As for the Pauṇḍravatsa branch, it may be one sub-division of the Vatsa or Vātsya branches. In the places where the branches of the Śākala of the Ṛgveda were described, the matter of the Vātsya branch was mentioned earlier. Now some points concerning Vatsa and the Vātsyas will be stated.
+
+### Page 119
+
+In the Śrāddha section of the *Smṛti-candrikā*, at p. 4?? [?], a large authority from the Vatsa-sūtra is found. Hemādri too quotes the same authority in the Śrāddha-prakaraṇa: *caraka-adhvaryu-sūtra-kṛt vatsaḥ* — that is, Vatsa was the author of a sūtra connected with the Caraka Adhvaryus. Again, in the Saṃskāra-kāṇḍa of the same work, at p. 3?? [?], Vatsa's name is mentioned.
+
+According to the Ādi-parvan of the Mahābhārata (48-9 [?]), at Janamejaya's snake-sacrifice there was a member of the assembly (*sadasya*) named Vātsya. In the Kātyāyana-śrauta-paribhāṣā-sūtra too the name of an ācārya Vātsya is used. The view of a Vātsya is found in the second khaṇḍa of the Mānava-sūtra; in the 3?th khaṇḍa of the same sūtra the view of an ācārya Citrasena-Vātsyāyana is given. In the Taittirīya Āraṇyaka (1-2-3 [?]) the opinion of an ācārya Pañcakarṇa-Vātsyāyana is indicated. It cannot be said whether the Vātsya mentioned above has any connection with the one named Pauṇḍravatsa.
+
+## Branches Nos. 9 to 14
+
+Only the names of these six branches are found — Āvaṭikāḥ, Paramāvaṭikāḥ, Pārāśarāḥ, Vainateyāḥ, Vaidheyāḥ, Kaunteyāḥ — and no further details. Among the groups of Bāṣkala branches connected with the Ṛgveda there is a branch named Parāśara; this is mentioned here for the attention of readers.
+
+## 15. Baijavāpāḥ
+
+A Gṛhya compilation of the Baijavāpa branch has been printed. Some sūtras of this branch's Śrauta-sūtra are seen to be quoted as authority in other works. The Saṃhitā and Brāhmaṇa of the Baijavāpa have not so far been found by us. The *Caraka-saṃhitā* (1-11 [?]) says that among the sages who lived on the slopes of the Himālaya there was also one named Baijavāpi. The Smṛti of the Baijavāpa branch is also quoted as authority in many contexts.
+
+## Kātyāyanāḥ
+
+It is known to all that the Kātyāyana-śrauta-sūtra and the Kātyāyana-gṛhya-sūtras are famous works. It should be noted that the Kātīya-gṛhya differs from the Pāraskara-gṛhya. A work called the *Kātīya-śulba-sūtra* was printed long ago, together with an English translation, in the Sanskrit monthly *Pandit* of Kāśī; this book is also found in the Mysore Oriental Library. A *Kātyāyana-śatapatha-brāhmaṇa* is in the Lālāchand library of the Dayānanda College at Lahore; it contains the first four kāṇḍas, and corresponds to the Śatapatha Brāhmaṇa of the Kāṇva branch. It is worth considering whether all these works (called "Kātyāyana") may belong to some one particular branch.
+
+### Page 120
+
+## The number of mantras of the Śukla Yajurveda
+
+In the Pūrvabhāga of the Brahmāṇḍa Purāṇa, chapter 3? [?], verses 6?–6? [?], and in the Vāyu Purāṇa, chapter 6? [?], verses 6?–6? [?], this reading is found:
+
+> द्वे सहस्रे शते न्यूने मन्त्रे वाजसनेयके ।
+> ऋग्गणः परिसंख्यातो ब्राह्मणं तु चतुर्गुणम् ॥
+> अष्टौ सहस्राणि शतानि चाष्टाशीतिरन्यान्यधिकश्च पादः ।
+> एतत्प्रमाणं यजुषामृचां च सशुक्रियं सखिलं याज्ञवल्क्यम् ॥
+>
+> *dve sahasre śate nyūne mantre vājasaneyake |*
+> *ṛg-gaṇaḥ parisaṃkhyāto brāhmaṇaṃ tu caturguṇam ||*
+> *aṣṭau sahasrāṇi śatāni cāṣṭāśītir anyāny adhikaś ca pādaḥ |*
+> *etat pramāṇaṃ yajuṣām ṛcāṃ ca saśukriyaṃ sakhilaṃ yājñavalkyam ||*
+>
+> "In the Vājasaneyaka [Saṃhitā] the mantras are two thousand less a hundred [1900]; the group of ṛks is [thus] reckoned, and the Brāhmaṇa is four times as much. Eight thousand, [eight] hundred and eighty [?], and one more *pāda*: this is the measure of the yajus-mantras and ṛks together, with the Śukriya and the Khila, of Yājñavalkya." (The words *cāṣṭāśītir* are printed *cāṣṭānaśītir* / *cāṣṭāvaśītir* [?]; the Kannada figure below is 8880.)
+
+In the Vājasaneya-saṃhitā there are 1900 ṛks, and four times as many Brāhmaṇa mantras. Or, taking ṛks, yajus-mantras and khila mantras all together, there are in all 8880 mantras and one *pāda*. This is the mantra-count found in the Yājñavalkya-saṃhitā.
+
+According to the Purāṇas, in the Vājasaneya-saṃhitā there are 8880 mantras and 1 *pāda*; that is, 1900 ṛks, and 6980 and 1 *pāda* of yajus-mantras.
+
+One reading of the *Caraṇa-vyūha* is as follows:
+
+> द्वे सहस्रे शते न्यूने मन्त्रे वाजसनेयके ।
+> ऋग्गणः परिसंख्यातस्तथोऽन्यानि यजूंषि च ॥
+> अष्टौ शतानि सहस्राणि चाष्टाविंशतिरन्यान्यधिकं च पादम् ।
+> एतत्प्रमाणं यजुषां हि केवलं सबालखिल्यं सशुक्रियं ॥
+> ब्राह्मणं च चतुर्गुणम् ॥
+>
+> *dve sahasre śate nyūne mantre vājasaneyake |*
+> *ṛg-gaṇaḥ parisaṃkhyātas tatho 'nyāni yajūṃṣi ca ||*
+> *aṣṭau śatāni sahasrāṇi cāṣṭāviṃśatir anyāny adhikaṃ ca pādam |*
+> *etat pramāṇaṃ yajuṣāṃ hi kevalaṃ sabālakhilyaṃ saśukriyaṃ ||*
+> *brāhmaṇaṃ ca caturguṇam ||*
+>
+> "In the Vājasaneyaka the mantras are two thousand less a hundred; the group of ṛks is reckoned, [and] likewise the other yajus-mantras. Eight [thousand], hundreds, [and] twenty-eight [?], others, and an additional *pāda*: this is the measure of the yajus [portion] alone, with the Bālakhilya and the Śukriya. And the Brāhmaṇa is fourfold." (The verse is given as printed; its words are compressed and the sense of the second line is uncertain [?].)
+
+There is a slight difference between the reading of the *Caraṇa-vyūha* quoted above and the reading of the Purāṇa. According to the *Caraṇa-vyūha* there are in all 8830 [?] and one *pāda* mantras in the Vājasaneya-saṃhitā.
+
+In the fourth khaṇḍa of the *Pratijñā-pariśiṣṭa-sūtra*:
+
+> वाजसनेयिनाम् — अष्टौ सहस्राणि शतानि चान्यान्यष्टौ संमितानि
+> ऋग्भिर्विभक्तं सखिलं सशुक्रियं समस्तो यजूंषि च
+> वेद ॥४॥
+>
+> *vājasaneyinām — aṣṭau sahasrāṇi śatāni cānyāny aṣṭau saṃmitāni*
+> *ṛgbhir vibhaktaṃ sakhilaṃ saśukriyaṃ samasto yajūṃṣi ca*
+> *veda ||4||*
+>
+> "Of the Vājasaneyins: eight thousand, and other eight hundreds, are the measured [mantras]; divided by [the] ṛks, with the Khila and the Śukriya, [it contains] all the yajus-mantras and [the] Veda." (The words are as printed; the construction is not clear [?].)
+
+That is: in the Vājasaneya-saṃhitā there are 8800 mantras in all; that is, just the Yajurveda; and into this the Khila and the Śukriya adhyāyas are also included.
+
+Mahīdāsa, the commentator on the *Caraṇa-vyūha*, when explaining the meaning of this verse, states the total number of ṛks in this Saṃhitā as 1923 [?]. But he does not give a proper reason how this figure was obtained.
+
+According to the *Vāsiṣṭha-śikṣā* it was written earlier that there are 1467 ṛks in the Mādhyandina branch. The total number of ṛks of the 15 branches is 1900. Therefore, apart from the Mādhyandina branch, the remaining 14 branches may contain 433 more. By this reckoning the number of yajus-mantras of the Mādhyandina branch is 2823.
+
+### Page 121
+
+According to the *Pratijñā-sūtra*, apart from the ṛks, the number of the remaining yajus-mantras is 8800 − 1900 = 6900. Therefore 6900 − 2823 = 4077 yajus-mantras may be in the other branches, not the Mādhyandina.
+
+If, as with the Mādhyandina branch, ṛks and yajus-mantras are carefully counted in the Kāṇva branch also, the matter would become very clear. If the text of the work stating the above figures were critically examined, slight differences might be found in the matter of the mantra-count.
+
+## The influence of the Vājasaneyas in the Kuru-Jāṅgala country
+
+Vaiśampāyana had a close connection with the people of the Kaurava country. It was Vaiśampāyana himself who told King Janamejaya the story of the Mahābhārata. For that reason the Caraka branch of Vaiśampāyana (of the Kṛṣṇa Yajurveda) ought to have been current in that country; but it was not. King Janamejaya had given the Vājasaneyas more room in his sacrifices and so on. This Vaiśampāyana could not bear; he cursed Janamejaya, and as a result that king met his destruction — this is stated in the Vāyu Purāṇa, chapter 9? [?], verses 2?–2? [?]; in other Purāṇas too there is a historical account of this matter. From this it is understood that in that kingdom the Vājasaneya branches had the greater strength. Except for Kashmir, the Śukla Yajurveda gradually became current in North Bhārata and in the Saurāṣṭra country.
+
+## Was there a separate branch of the Śukla Yajurveda called "Vājasaneya"?
+
+In the Baudhāyana, Āpastamba and Vaikhānasa śrauta-sūtras, many authorities are cited here and there from statements of the Vājasaneya branch or of the Vājasaneyins. Those statements resemble Brāhmaṇa statements. But those readings are not found in the Śatapatha Brāhmaṇas of the Mādhyandina and Kāṇva branches. In the Vāsiṣṭha-dharma-sūtra too (1?-?? and 1?-?? [?]) the text of a Vājasaneya Brāhmaṇa is quoted twice. The first reading somewhat resembles mantra 1?-5-?-? of the Mādhyandina Śatapatha Brāhmaṇa. In truth, neither of these two readings is found in the Śatapatha Brāhmaṇas. There is therefore material for conjecturing that there was some separate Brāhmaṇa, named the Vājasaneya Brāhmaṇa, belonging to some particular branch. Or it may be that the Brāhmaṇa of some particular branch such as the Jābāla is called the *Vājasaneya-brāhmaṇa*. It is therefore worth considering whether, from the beginning, the Śukla Yajurveda had fifteen (branch) saṃhitās, or whether there was also a separate original Vājasaneya-saṃhitā as the root of all these.
+
+At the end of many saṃhitās of the Śukla Yajurveda there is found written "*iti vājasaneya-saṃhitā*" or "*iti yajurvede*." That saṃhitā agrees with the Mādhyandina text. It should therefore be considered whether the Mādhyandina saṃhitā itself had another name, *Vājasaneya-saṃhitā*.
+
+*[page-end marker in the print: [15 ?]]*
+
+### Page 122
+
+## The two main paths of the Vājasaneyas
+
+According to the 1?th khaṇḍa of the *Pratijñā-pariśiṣṭa* it is understood that among the Vājasaneyas there were two main divisions. Although there are many errors in that work, there is no difference of opinion on this matter. According to it, one was the path of the Ādityas and the other the path of the Āṅgirasas. The path of the Ādityas is the path of Viśvāmitra and the Kauśikas. These two paths are described in the Mādhyandina Śatapatha Brāhmaṇa, Gṛha-kāṇḍa 6 [?], prapāṭhaka 6 [?], khaṇḍa 1?? [?]. In the Kauṣītaki Brāhmaṇa also (30-6 [?]) a description of these two paths is found. In them it is said that Ghora Āṅgirasa, the guru of Śrī Kṛṣṇa, son of Devakī, was an Adhvaryu priest at the sacrifice of the Ādityas. According to this distinction, even among the fifteen disciples of Yājñavalkya there may have been two divisions: one section may have been on the Kauśika side, and the other on the Āṅgirasa side. According to this account Kātyāyana and others were Kauśikas; Kāṇva and others were Āṅgirasas.
+
+## The Vājasaneya and the Śaṅkha-likhita sūtra
+
+Śaṅkha and Likhita composed a Dharma-sūtra. It is followed by the Vājasaneya branch, that is, by all fifteen branches of the Śukla Yajurveda.
+
+## The branches of the Kṛṣṇa Yajurveda
+
+So far the fifteen branches of the Śukla Yajurveda have been described; now the eighty-six [?] — or rather, the branches of the Kṛṣṇa Yajurveda that are now found — will be described.
+
+### Vaiśampāyana, the propagator of the Kṛṣṇa Yajurveda
+
+Among the chief disciples of Kṛṣṇa Dvaipāyana or Vedavyāsa, Vaiśampāyana is the second. Neither the name of his father nor his birthplace is known. According to the Vāyu Purāṇa (61-3 [?]) Vaiśampāyana was the root-ancestor of a gotra. According to the Brahmāṇḍa Purāṇa (34-8 [?]) it is only indicated that Vaiśampāyana was one chief disciple of Vyāsa. Through him the Caraka-śākhā saṃhitā of the Kṛṣṇa Yajurveda in particular came into currency; therefore he was called Carakācārya. In the Kāśikā-vṛtti on the Aṣṭādhyāyī (4-3-104 [?]):
+
+> चरक इति वैशम्पायनस्याख्या ।
+>
+> *caraka iti vaiśampāyanasyākhyā |*
+>
+> "*Caraka* is the name of Vaiśampāyana."
+
+That is: Vaiśampāyana has the name Caraka. Yājñavalkya was the sister's [son] and disciple of this Vaiśampāyana. According to the Śānti-parvan of the Mahābhārata (342-9 [?]), Tittiri or Taittiri was a younger brother of Vaiśampāyana. From this passage of the Mahābhārata a doubt arises whether the one named Vaiśampāyana existed in other yugas also.
+
+### Vaiśampāyana's span of life
+
+Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-58 [?]), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya [went over to the] Śukla Yaju[rveda …] (the sentence continues on the next page).
