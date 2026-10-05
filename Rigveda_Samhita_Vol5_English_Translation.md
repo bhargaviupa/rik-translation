@@ -9207,8 +9207,84 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.16 (pp. 526–529, PDF 542–545; the last Rik)
+
+**Saṃhitā-pāṭha** *(p. 526)*
+
+> **एवा ते हारियोजना सुवृक्तीन्द्र ब्रह्माणि गोतमासो अक्रन् ।**
+> **ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ १६ ॥**
+
+*evā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |*
+*aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātar makṣū dhiyāvasur jagamyāt || 16 ||*
+
+**Pada-pāṭha** *(p. 526)*
+
+> एव । ते । हारिऽयोजन । सुऽवृक्ति । इन्द्र । ब्रह्माणि । गोतमासः । अक्रन् ।
+> आ । एषु । विश्वऽपेशसम् । धियम् । धाः । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ १६ ॥
+
+*eva | te | hāri-yojana | su-vṛkti | indra | brahmāṇi | gotamāsaḥ | akran |*
+*ā | eṣu | viśva-peśasam | dhiyam | dhāḥ | prātaḥ | makṣu | dhiyā-vasuḥ | jagamyāt || 16 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 527)*
+
+> **हर्योरश्वयोर्योजनं यस्मिन्रथे स तथोक्तः । तस्य स्वामित्वेन संबन्धी हारियोजनः । हे हारियोजनेन्द्र गोतमासो गोतमगोत्रोत्पन्ना ऋषयः सुवृक्ति सुष्ठ्वावर्जकान्यभिमुखीकरणकुशलानि ब्रह्माणि स्तुतिरूपाणि मन्त्रजातानि ते तवैवाक्रन् । अकृषत । एषु स्तोतृषु विश्वपेशसं बहुविधरूपयुक्तं धियं धाः । धियो लभ्यत्वाद्धीर्धनमुच्यते । यद्वा । धीशब्दः कर्मवचनः । पश्वादिबहुविधरूपं धनमग्निष्टोमादिकं बहुविधरूपं कर्म वा धाः । धेहि । स्थापय । प्रातरिदानीमिव परेद्युरपि प्रातःकाले धियावसुर्बुद्ध्या कर्मणा वा प्राप्तधन इन्द्रो मक्षु शीघ्रं जगम्यात् । अस्मद्रक्षणार्थमागच्छतु ॥**
+
+*haryor aśvayor yojanaṃ yasmin rathe sa tathoktaḥ | tasya svāmitvena saṃbandhī hāriyojanaḥ | he hāriyojanendra gotamāso gotamagotrotpannā ṛṣayaḥ suvṛkti suṣṭhv āvarjakāny abhimukhīkaraṇakuśalāni brahmāṇi stutirūpāṇi mantrajātāni te tavaivākran | akṛṣata | eṣu stotṛṣu viśvapeśasaṃ bahuvidharūpayuktaṃ dhiyaṃ dhāḥ | dhiyo labhyatvād dhīr dhanam ucyate | yadvā | dhīśabdaḥ karmavacanaḥ | paśvādibahuvidharūpaṃ dhanam agniṣṭomādikaṃ bahuvidharūpaṃ karma vā dhāḥ | dhehi | sthāpaya | prātar idānīm iva paredyur api prātaḥkāle dhiyāvasur buddhyā karmaṇā vā prāptadhana indro makṣu śīghraṃ jagamyāt | asmadrakṣaṇārtham āgacchatu ||*
+
+*(The grammatical tail, p. 527 foot, characterized, not transcribed: **eva** — the Saṃhitā lengthening of the particle (*evā*); **suvṛkti** — loss of the accusative-plural ending; **akran** — *kṛ*, *luṅ*, the loss of *cli* (*mantre ghasahvara…*), *ant*, *yaṇ*, the *aṭ* augment; **dhāḥ** — *dhā*, *luṅ* in the sense of *loṭ*, loss of *sic*, no *aṭ*.)*
+
+**Translation of the bhāṣya:** "*Hāriyojana*: he in whose chariot there is a yoking of two bay horses, thus called; one who is related to it as its owner. O Indra, owner of the yoked bays, the seers *gotamāsaḥ*, born in the Gotama line, *akran*, have made for you alone *brahmāṇi*, groups of mantras in the form of praise, *suvṛkti*, well drawing you toward them, clever in turning [you] to face [them]. *Eṣu*, on these singers, *dhāḥ*, bestow *dhiyam*, *viśvapeśasam*, wealth of manifold forms (*dhī* is called wealth because it is to be won); or the word *dhī* means 'rite': bestow wealth of many forms such as cattle, or manifold rites such as the Agniṣṭoma. [May he], as now, so on the morrow, in the morning-time too, *dhiyāvasuḥ*, Indra who has gained wealth by understanding or by rite, *makṣu*, quickly, *jagamyāt*, come — let him come for our protection."
+
+**Pratipadārtha** *(p. 527)* — "**hāriyojana** — [O Indra,] who have bay horses yoked to your chariot; **indra** — O Indra; **gotamāsaḥ** — the seers born in the Gotama line; **suvṛkti** — good, effective; **brahmāṇi** — mantras in the form of praise; **te eva** — for you alone; **akran** — have made; **eṣu** — on these praisers; **viśvapeśasam** — of manifold kinds; **dhiyam** — wealth such as cattle, or rites such as the Agniṣṭoma; **ā dhāḥ** — bestow with favour; **prātaḥ** — (as now) also in the coming mornings; **dhiyāvasuḥ** — Indra who has obtained wealth by understanding or rite; **makṣu** — vigilantly; **jagamyāt** — may he come [for our protection]."
+
+**Bhāvārtha** *(p. 527)* — "O Indra, who yoke bays to your chariot: the seers born in the Gotama line have composed for you alone mantras in the form of praise, good and effective. Bestow on these seers wealth of manifold kinds such as cattle. And as now, so in the mornings that come, may Indra, who has gained wealth by his own pure rites, come here vigilantly for our protection."
+
+**English Translation (the source's own, p. 527)** — "O Indra, harnesser of horses, the descendants of Gotama, have offered to you well-worded hymns to secure your presence ; confer upon them manifold riches ; may he (Indra) who has acquired wealth by pious deeds, come hither quickly in the morning."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 528** — **hāriyojana** — *haryor aśvayor yojanaṃ yasmin saḥ hariyojanaḥ*: "he who is related to it as its owner is *hāriyojanaḥ*: one who has a chariot with horses; or one seated as master in a horse-chariot." **gotamāsaḥ**: "the seers born in the Gotama line." **suvṛkti** — *suṣṭhv āvarjakāny abhimukhīkaraṇakuśalāni*: "mantras that have the capacity to turn the deities, in an excellent manner, to face the singer: an epithet of the mantras." **brahmāṇi**: "the collections of mantras in the form of praise." **viśvapeśasam** — *bahuvidharūpayuktam*: "endowed with many forms: an epithet of the word *dhiyam*." **dhiyaṃ dhāḥ**: "give wealth. *Dhiyo labhyatvāt dhīḥ dhanam ucyate*: or the word *dhī* is [read as] expressing rite — 'wealth of manifold forms such as cattle, or manifold rites such as the Agniṣṭoma': thus they explain *dhiyam* in two ways, either as wealth to be won by the understanding, or as rites such as the Agniṣṭoma through the word *dhī* meaning 'rite'." **dhiyāvasuḥ**: "one who has gained complete lordship by understanding or by the fruit of rite." **makṣu jagamyāt** — *śīghraṃ asmadrakṣaṇārtham āgacchatu*: "may he come vigilantly to protect us."
+
+**Vyākaraṇa-prakriyā** *(pp. 528–529 — noted briefly)* — *Grammar pages, noted briefly.* **eva**: *nipātasya ca* (Pā. 6-3-136 as read [?]): lengthening in the Saṃhitā. **hāriyojana**: *āmantritasya ca* (Pā. 8-1-19 as read [?]): the vocative *nighāta*. **suvṛkti**: in the neuter accusative plural, loss of the ending by *supāṃ suluk*. **gotamāsaḥ**: nominative plural *jas*: *ājjaser asuk* (Pā. 7-1-50 as read [?]): *asuk*. **akran**: *ḍukṛñ karaṇe*; *luṅ*, third plural: *jho 'ntaḥ*: *ant*; *itaś ca*: loss of *i*; *cli luṅi*: *cli* with its loss by *mantre ghasahvara…* (Pā. 2-4-80 as read [?]); *sārvadhātukam apit* is *ṅit*, so no *guṇa*; *iko yaṇaci*: *yaṇ*; *saṃyogāntasya lopaḥ*: loss of the final *t*; the *aṭ* augment because of *luṅ*; *nighāta*, after a non-verb. **viśvapeśasam**: *viśvāni peśāṃsi yasya*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the sense of *loṭ*; second singular *sip*; *itaś ca*: loss of *i*; *cli luṅi sic*: *sic* for *cli*; *gātisthāghupā…* (Pā. 2-4-77 as read [?]): since it is called *ghu*, loss of *sic*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*. **makṣū**: *ṛcitunughamakṣu…* (Pā. 6-3-133 as read [?]): lengthening in the Saṃhitā.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.15 written (through p. 526, upper part = PDF 542).**
+### Close of Sūkta 61 and of the Fourth Adhyāya *(p. 529, PDF 545)*
 
-**Next task:** Rik 61.16 (the last) begins in the lower half of p. 526 (PDF 542; Saṃhitā "evā te hārīyojanā suvṛktīndra brahmāṇi gotamāso akran…" and Pada already viewed, NOT yet written: re-view PDF 542, then PDF 543 …); then the close of Sūkta 61 and any closing colophon (printed line if any) — the end of the First Ashtaka's Fourth Adhyāya / Volume 5's Rik text; the Pariśiṣṭa begins at printed p. 531 = PDF 547 (NOT to be translated); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.15 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; 61.12 Nirukta numerals [?], Saṃhitā *tiraścēṣyan* reading note; 61.13 Ṛg 1-101-4 and Ni. 3-2 [?]; 61.14 the Ṛg quotation for *nodhāḥ* (*ūvū adarśi…*) uncertain [?]; 61.15 Pada *susvim* [?] and clause *akārīty arthaḥ* [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
+The print closes the sūkta with the line "ಅರವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು" — *aravattondaneya sūktavu samāptavu* — "The sixty-first sūkta is complete."
+
+Then the Sanskrit colophon of the Adhyāya (Devanagari, IAST, translation):
+
+> **वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।**
+> **पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥**
+> **इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये प्रथमाष्टके चतुर्थोऽध्यायः समाप्तः ॥ ॐ तत्सत् ॥**
+
+*vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+*pumarthāṃś caturo deyād vidyātīrthamaheśvaraḥ ||*
+*iti śrīmad-rājādhirāja-parameśvara-vaidikamārga-pravartaka-śrīvīra-bukka-bhūpāla-sāmrājya-dhurandhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye prathamāṣṭake caturtho 'dhyāyaḥ samāptaḥ || oṃ tat sat ||*
+
+**Translation:** "May Vidyātīrtha-Maheśvara, dispelling by the light of the Veda's meaning the darkness of the heart, grant the four aims of human life. Thus ends the fourth Adhyāya in the First Aṣṭaka of the Ṛksaṃhitā-bhāṣya, the *Vedārtha-prakāśa* of the Mādhava school, composed by Sāyaṇācārya, the bearer of the burden of the empire of the illustrious King Vīra-Bukka, the promoter of the Vedic path, the supreme lord of kings. *Oṃ tat sat.*"
+
+Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ ಋಗ್ವೇದಸಂಹಿತೆಯ ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ನಾಲ್ಕನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತಮಾದುದು" — "Here ends the fourth Adhyāya in the first Aṣṭaka of the Ṛgveda-saṃhitā, accompanied by Sāyaṇa's bhāṣya and a Kannada translation."
+
+> **यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।**
+> **तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥ शुभं भूयात् ॥ मङ्गळम् ॥**
+
+*yad akṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yad bhavet |*
+*tat sarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te || śubhaṃ bhūyāt || maṅgaḷam ||*
+
+**Translation:** "Whatever syllable or word has fallen out, or whatever may be lacking in measure — may all that be forgiven, O God, Lord of Speech; salutation to you. May there be well-being. Auspiciousness."
+
+*(PDF 546 = printed p. 530 is blank apart from a small printer's ornament (a rose); the Pariśiṣṭa begins at printed p. 531 = PDF 547 and is not translated.)*
+
+**Sūkta 61 (Maṇḍala 1, Eleventh Anuvāka, 16 Riks; ṛṣi Nodhas Gautama; deity Indra; Triṣṭubh) — printed pp. 478–529, PDF 494–545.** The sūkta, an *ahīna-sūkta* recited at the midday pressing, is a single sustained praise of Indra as warrior and creator of waters: the poet offers hymn and oblation as food to a hungry man (1–2); the hymn is a voice joined to the offering as a horse to a chariot or as a carpenter's chariot sent to its owner (3–5); Tvaṣṭṛ sharpens Indra's *vajra* and he pierces the vital part of Vṛtra (6); Indra drinks Soma and eats oblations at the three pressings, and the Viṣṇu-sacrifice is stolen back and its ripened wealth won (7); the goddesses, wives of the gods, offer him hymns at Ahi's slaying and his greatness exceeds heaven, earth and atmosphere (8–9); he splits Vṛtra, frees the waters like stolen cows (10), and makes the rivers flow, giving a standing-place to Turvīti (11); he is urged to cleave the cloud-Vṛtra limb by limb as a butcher cuts a cow, that the rains may flow (12); the poet is bidden to praise his old deeds (13); mountains stand firm and heaven and earth tremble for fear of him, and Nodhas gains strength (14); Indra defends Etaśa against Sūrya, the son of Svaśva (15); and the Gotamas offer these hymns, asking him to come quickly in the morning (16).
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: ALL SŪKTAS COMPLETE (Sūktas 47–61 = printed pp. 1–529 = PDF 17–545; the Fourth Adhyāya's closing colophon on p. 529 is written; p. 530 is blank; the Pariśiṣṭa, printed pp. 531–707, is deliberately NOT translated). User instruction "finish next 4 sūktas" (58–61) is fulfilled. Routines remain PAUSED.**
+
+**Next task (only when the user asks):** Volume 5 .docx (pandoc command in CLAUDE.md; check Devanagari count); and/or the Volume 6 set-up (`Rig_Vol6.pdf`, 638 pp): confirm basics, offset, sūktas covered, new output file `Rigveda_Samhita_Vol6_English_Translation.md`, update CLAUDE.md. Do not translate the Volume 5 Pariśiṣṭa unless asked.
+
+**Flags (not blockers):** numerals of Brāhmaṇa/Nirukta/Ṛg/Uṇādi/Pāṇini references are [?] throughout Sūktas 58–61; Sūkta 59.6 long Vaiśvānara passage given in gist; Sūkta 60.5 *upekṣate* [?]; Sūkta 61: introduction references, 61.1 *turvitre* and pāda-pūraṇa list, 61.4 *suvṛkti* unclear word, 61.5 *gūrta* root, 61.6 *vidat* gloss and Nirukta *kramamāṇadhā*, 61.7 *ācūcurat* / *sutyādivasātmako* / Taittirīya numerals, 61.9 Ṛg 3-42-3 quotation, 61.14 Ṛg quotation for *nodhāḥ*, 61.15 Pada *susvim*; several sūtra names in the Vyākaraṇa notes of 61.2–61.5 are approximations of small print and should be checked by an expert reviewer; one clumsy heading above Rik 54.4 (left; file is append-only).
