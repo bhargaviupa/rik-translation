@@ -3817,6 +3817,203 @@ Agni, Indra, Varuṇa, the two Aśvins, the Maruts, Vāyu, Āditya, Savitṛ, U�
 
 [A small bracketed numeral, read as "[28]", stands at the foot of this page in the print; it is not a page number.]
 
+# GAP C — Commentators on the Yajurveda, and onward (printed pp. 261–283)
+
+### Page 261
+
+# Chapter Fourteen — Commentators on the Yajurveda
+
+The matter that the Yajurveda has two divisions, the Śukla Yajurveda and the Kṛṣṇa Yajurveda, was explained earlier. Of the Śukla Yajurveda, the Mādhyandina and Kāṇva branches, and of the Kṛṣṇa Yajurveda the Taittirīya branch, are renowned and especially in currency. Therefore we shall briefly make known the commentators of these three branches.
+
+## Commentators of the Mādhyandina branch of the Śukla Yajurveda
+
+### 1. Śaunaka
+
+(time not known)
+
+There are two manuscripts of the commentary composed by Uvaṭa on the Mādhyandina branch of the Yajurveda; one is the Kāśī copy and the other the Pune copy. In the Pune copy there is no Uvaṭa commentary for the Puruṣa-sūkta; in its place there is the commentary of Śaunaka.
+
+> अस्य भाष्यं शौनको नाम ऋषिरकरोत् ।
+>
+> *asya bhāṣyaṃ śaunako nāma ṛṣir akarot |*
+>
+> "The sage named Śaunaka made the commentary on this."
+
+He himself writes that the commentary on this was made by a sage named Śaunaka. This Śaunaka has also described the order of writing his commentary:
+
+> प्रथमं विच्छेदः क्रियाकारकसंबन्धः समासः प्रमेयार्थव्याख्येति ।
+>
+> *prathamaṃ vicchedaḥ kriyākārakasaṃbandhaḥ samāsaḥ prameyārthavyākhyeti |*
+>
+> "First the separation [of words]; the relation of verb and case-roles; the compound; then the explanation of the meaning to be established."
+
+That is: in this commentary first the words are separated, the construction is written, the compound words are analysed, and afterwards the purport (*tātparya*) is written. This is the order he follows.
+
+He declares that the mantras are useful for sacrifices and also give a spiritual (*ādhyātmika*) meaning. In places, using such words as "*kecit*" ("some") and "*apare*" ("others"), he gives examples of the opinions of others. He gives meanings of words following the Nirukta.
+
+> एवं योगिनोऽपि दीपनाद्देवाः ।
+>
+> *evaṃ yogino 'pi dīpanād devāḥ |*
+>
+> "Thus even the yogins [are called] *devāḥ* because of shining."
+
+The opinion of the etymologists (*nairuktas*) is that the word *deva* acquired that name because it makes light (*prakāśa*).
+
+We do not know much about this man. Only this much can be said: whether, as Uvaṭa has said, Śaunaka was one sage, or an ordinary person, he belonged to a very early time.
+
+### Page 262
+
+### 2. Hariswāmī
+
+(time about 638 C.E.)
+
+In determining the time of Skandasvāmin, the first of the Ṛgveda commentators, these verses were quoted from the commentary on the Śatapatha-brāhmaṇa composed by Hariswāmī:
+
+> नागस्वामी तत्र ....श्रीगुहस्वामिनन्दनः ।
+> तत्र याजी प्रमाणज्ञ आद्यो [?] लक्ष्म्या [?] समेधितः ॥ ५ [?] ॥
+> तन्नन्दनो हरिस्वामी प्रस्फुरद्वेदवेदिमान् ।
+> त्रयीव्याख्यानधौरेयोऽधीततन्त्रो गुरोर्मुखात् ॥ ६ [?] ॥
+> यः सम्राट् [?] कृतार्वा [?] सप्तसोमसंस्थास्तथर्क्श्रुतिं [?] ।
+> व्याख्यां कृत्वाथापयन्मां श्रीस्कन्दस्वाम्यस्ति मे गुरुः ॥ ७ [?] ॥
+>
+> *nāgasvāmī tatra ....śrīguhasvāminandanaḥ |*
+> *tatra yājī pramāṇajña ādyo [?] lakṣmyā [?] samedhitaḥ || 5 [?] ||*
+> *tannandano harisvāmī prasphuradvedavedimān |*
+> *trayīvyākhyānadhaureyo 'dhītatantro gurormukhāt || 6 [?] ||*
+> *yaḥ samrāṭ [?] kṛtārvā [?] saptasomasaṃsthās tathark-śrutiṃ [?] |*
+> *vyākhyāṃ kṛtvāthāpayan māṃ śrīskandasvāmy asti me guruḥ || 7 [?] ||*
+
+(The three verses are transcribed from the print letter by letter; several words in the first and third are doubtful and are marked [?]; the verse numbers are uncertain. No translation of these verses is given in the source other than the following gloss.)
+
+From this it is learnt that Hariswāmī was the grandson of one Guhasvāmī, the son of Nāgasvāmī, and the pupil of Skandasvāmin, who composed the commentary on the Ṛgveda. It has already been written that Skandasvāmin composed his commentary about 630 C.E.; Hariswāmī, his pupil, may be guessed to be of about the same time. And Hariswāmī himself has written his own time in his commentary on the Śatapatha-brāhmaṇa:
+
+> यदाब्दानां कलेर्जग्मुः सप्तत्रिंशच्छतानि वै ।
+> चत्वारिंशत्समाश्चान्यास्तदा भाष्यमिदं कृतम् ॥
+>
+> *yadābdānāṃ kaler jagmuḥ saptatriṃśacchatāni vai |*
+> *catvāriṃśat samāś cānyās tadā bhāṣyam idaṃ kṛtam ||*
+>
+> "When thirty-seven hundred years of the Kali [age] had gone, and forty more years, then was this commentary made."
+
+The commentary on the Śatapatha-brāhmaṇa was composed in the year 3740 of the Kali. The Christian era begins from Kali 3102. That is: the composing of Hariswāmī's commentary may be said to be 638 C.E. (3740 − 3102 = 638, as the source states). Sufficient evidence is not obtained to determine his time more firmly than this.
+
+Besides the commentary on the Śatapatha-brāhmaṇa, he has composed a commentary on the Kātyāyana Śrauta-sūtra too. As for his having composed a Yajurveda commentary, further evidence has not been obtained. In the library of the Raghunātha temple there is a work numbered 4509; it is the *pada-pāṭha* of the Rudrādhyāya. It is written that this *pada-pāṭha* follows the opinion of Hariswāmī. From this there is room to believe that Hariswāmī may have composed a commentary on the Yajurveda also.
+
+### 3. Uvaṭa
+
+(time about 1042 C.E.)
+
+Uvaṭa is the renowned one among the commentators on the Śukla Yajurveda. At the end of his commentary he has written his family, time and the like.
+
+> आनन्दपुरवास्तव्यवज्रटाख्यस्य सूनुना ।
+> उवटेन कृतं भाष्यं पदवाक्यैः सुनिश्चितैः ॥
+> ऋष्यादींश्च नमस्कृत्य अनन्त्यामुवटो वर्षे [?] ।
+> मन्त्राणां कृतवान् भाष्यं महीं भोजे प्रशासति ॥
+>
+> *ānandapuravāstavyavajraṭākhyasya sūnunā |*
+> *uvaṭena kṛtaṃ bhāṣyaṃ padavākyaiḥ suniścitaiḥ ||*
+> *ṛṣyādīṃś ca namaskṛtya anantyām uvaṭo varṣe [?] |*
+> *mantrāṇāṃ kṛtavān bhāṣyaṃ mahīṃ bhoje praśāsati ||*
+>
+> "By Uvaṭa, son of the one called Vajraṭa, resident of Ānandapura, was the commentary made with well-determined words and sentences. Having bowed to the seers and the rest, … Uvaṭa made the commentary on the mantras while Bhoja ruled the earth." (The third line is doubtful in the print; the translation of lines 1, 2 and 4 is mine and tentative, closely following the source's own gloss below.)
+
+### Page 263
+
+Vajraṭa was his father. He was of the time of King Bhoja. Uvaṭa's place of residence was Avantī. The same intention is found in the Baroda, Pune and Kāśī readings of this commentary. That the time of King Bhoja was 1017–1059 C.E. is a matter known from history. Therefore Uvaṭa's time may be said to be about 1042 C.E.
+
+The names Uvaṭa, Vajraṭa and the like are from the Kashmir side; they must probably have been Kashmiri Brahmins.
+
+> इति श्रीमद्वज्रटभट्टोपाध्यायात्मजसकलनिगमविज्ञूडामणि [sic]
+> श्रीमदुवटभट्टाचार्यविरचिते........चत्वारिंशत्तमोऽध्यायः ।
+>
+> *iti śrīmadvajraṭabhaṭṭopādhyāyātmajasakalanigamavijñūḍāmaṇi [sic] śrīmaduvaṭabhaṭṭācāryaviracite........ catvāriṃśattamo 'dhyāyaḥ |*
+>
+> "Thus [ends] the fortieth chapter, in the work composed by the venerable Uvaṭa Bhaṭṭācārya, son of the venerable Vajraṭa Bhaṭṭopādhyāya, crest-jewel of all the Vedas…" (The words *vijñūḍāmaṇi* are as printed; read probably *-vic-cūḍāmaṇi*.)
+
+Since the respectful words *upādhyāya* and *bhaṭṭācārya* are used here, it can be said that he was of good family and famous.
+
+Some special features of his commentary:
+
+1. In general he follows and explains in the *yājñika* (ritual) manner. But in places he also sets forth [matters] in the spiritual manner.
+2. He has quoted sentences from Yāska's Nirukta, the Nighaṇṭu and the Bṛhaddevatā. But he rarely tells the names of the authors.
+3. It does not appear that he has seen the Yājuṣa-sarvānukramaṇī. At the beginning of the commentary he has written thus —
+
+> गुरुतस्तर्कतश्चैव तथा शातपथश्रुतेः ।
+> ऋषीन्वक्ष्यामि मन्त्राणां देवताश्छन्दसं च यत् ॥
+>
+> *gurutas tarkataś caiva tathā śātapathaśruteḥ |*
+> *ṛṣīn vakṣyāmi mantrāṇāṃ devatāś chandasaṃ ca yat ||*
+>
+> "From the teacher, from reasoning, and likewise from the Śatapatha Śruti, I shall tell the seers of the mantras, the deities, and the metre."
+
+That is: on the strength of the guru, *tarka* (that is, Nyāya-śāstra) and the Śatapatha-śruti, I shall write the ṛṣi, devatā and chandas of the mantras.
+
+From this it is determined to this extent: the Yājuṣa-sarvānukramaṇī was of little use to the Mādhyandina branch, or that sarvānukramaṇī is not ancient.
+
+He has composed three other works: the Ṛk-prātiśākhya-bhāṣya, the Yajuḥ-prātiśākhya-bhāṣya, and the Ṛk-sarvānukramaṇa-bhāṣya.
+
+### 4. Gauradhara
+
+(time about 1292 C.E.)
+
+Among the commentators on works such as the Mālatīmādhava there was a famous Kashmiri author named Jagaddharabhaṭṭa. His paternal grandfather was Gauradhara. This Jagaddharabhaṭṭa composed a work full of the flavour of devotion called Stutikusumāñjali. In this work he describes his lineage.
+
+> पुरा पुरारेः पदधूलिभूषरः सरस्वतीस्वैरविहारभूरभूत् ।
+> वितालानन्तश्रुतश्रवश्रुतो [?] विपश्चितां गौरधरः किलाग्रणीः ॥ १ ॥
+> अनन्तसिद्धान्तपथान्तगामिनः समस्तशास्त्रार्णवपारदृश्वनः ।
+>
+> *purā purāreḥ padadhūlibhūṣaraḥ sarasvatīsvairavihārabhūr abhūt |*
+> *vitālānantaśrutaśravaśruto [?] vipaścitāṃ gauradharaḥ kilāgraṇīḥ || 1 ||*
+> *anantasiddhāntapathāntagāminaḥ samastaśāstrārṇavapāradṛśvanaḥ |*
+
+(Transcribed as printed; the second line is doubtful; the verse continues on the next page; no translation is given in the source of the verses themselves. Gist, mine and tentative: "Of old there was one adorned with the dust of the feet of Śiva (the foe of Pura), the playground of Sarasvatī: Gauradhara, indeed foremost of the learned … who had reached the end of the path of endless doctrines, who had seen to the far shore of the ocean of all the śāstras".)
+
+### Page 264
+
+> ऋजुर्यजुर्वेदपदार्थवर्णना व्यनक्ति यस्माद्भुतविश्रुतं श्रुतं ॥ ३ ॥
+>
+> *ṛjur yajurvedapadārthavarṇanā vyanakti yasmādbhutaviśrutaṃ śrutam || 3 ||*
+>
+> "…whose straightforward description of the meanings of the words of the Yajurveda makes manifest the wonderful, renowned, heard [tradition]."
+
+(As printed, the verse is a continuation across pages; the verse number 3 is as printed.)
+
+Earlier there were two scholars, born of a good lineage and masters of all the śāstras, both named Gauradhara. They composed a pure commentary on the Yajurveda. The commentator Ratnakaṇṭha, writing the explanation of these verses, says:
+
+> ताद्दृशस्य गौरधरस्य ऋजुर्निर्मला निर्दोषा च यजुर्वेद-
+> पदानामर्थवर्णना भाष्यपद्धतिर्वेदविलासनाम्नी य-
+> स्माद्भुतं च विश्रुतं प्रसिद्धं च श्रुतं व्यनक्ति प्रकटयति ॥
+>
+> *tādṛśasya gauradharasya ṛjur nirmalā nirdoṣā ca yajurveda-padānām arthavarṇanā bhāṣyapaddhatir vedavilāsanāmnī yasmādbhutaṃ ca viśrutaṃ prasiddhaṃ ca śrutaṃ vyanakti prakaṭayati ||*
+>
+> "Of such a Gauradhara, the straightforward, pure and faultless description of the meanings of the words of the Yajurveda — the commentary-method called *Vedavilāsa* — makes manifest, makes clear, what is wonderful, renowned, famous and heard."
+
+Gauradhara composed a commentary on the Yajurveda named *Vedavilāsa*. One copy of this commentary is at Baroda. In it there is a commentary only for adhyāyas 26 to 31 and 38 to 40. At the end:
+
+> इति ऋजुव्याख्याने संहितायां चत्वारिंशत्तमोऽध्यायः ।
+> संवत् १५६४ फाल्गुन शुद्ध १४ भौमे लिखितं ॥
+>
+> *iti ṛjuvyākhyāne saṃhitāyāṃ catvāriṃśattamo 'dhyāyaḥ |*
+> *saṃvat 1564 phālguna śuddha 14 bhaume likhitaṃ ||*
+>
+> "Thus the fortieth chapter in the *Ṛju-vyākhyāna* of the Saṃhitā. Written on Tuesday [*bhauma*], the 14th of the bright half of Phālguna, Saṃvat 1564."
+
+So it is said: it was written in the year Saṃvat 1564, Phālguna śukla caturdaśī, Wednesday [as the Kannada prose of the source says "*budhavāra*"; the Sanskrit colophon as printed has *bhaume*, Tuesday — an inconsistency in the source, noted and not corrected].
+
+He was the grandfather of Jagaddharabhaṭṭa. The editor of the Stutikusumāñjali determines that Jagaddhara composed the Stutikusumāñjali about 1352 C.E. It can be guessed that Gauradhara-bhaṭṭa wrote his commentary about 50 years before him; that is, the commentary was composed about 1292 C.E.
+
+### 5. Rāvaṇa
+
+(first half of the 16th century C.E.)
+
+In describing the history of the commentators on the Ṛgveda, the time of Rāvaṇa and so on has already been discussed. He was a writer of the early part of the 16th century C.E. It is learnt that he composed a commentary on the Yajurveda also. A copy of the Yajurveda commentary has not come to hand till now. The evidence is found that a Yajurveda commentary existed: there is a work called *Rudra-prayoga-darpaṇa*, composed by one Padmanābha. A manuscript of it, written in the year 1659 C.E., was with one Aṇṇāśāstri at Nāsik. At the beginning of this work Padmanābha himself says that when writing the Rudra commentary he wrote it on the basis of Rāvaṇa's Yajurveda commentary. Besides this, no other evidence has been found.
+
+### 6. Mahīdhara
+
+(time about 1587 C.E.)
+
+He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary (the sentence continues on the next page).
+
 ---
 
-**Progress note (Gap B):** COMPLETE — printed pp. 191–205 (PDF 217–231) are done: ṛṣi index (names, descriptors, verse-counts; Kannada-numeral references not reproduced) and the opening of Chapter Eleven. Gap A complete. Next: Gap C (printed pp. 261–283, PDF 287–309), then Gap D (printed pp. 288–295, PDF 314–321).
+**Progress note (Gap C):** Translated printed pp. 261–264 (PDF 287–290). Next: p. 265 (PDF 291). Open flags: verse numbers and some words in the Skandasvāmin/Hariswāmī verses [?].
