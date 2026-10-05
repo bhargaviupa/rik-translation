@@ -91,11 +91,11 @@ def front_matter(vol, vtitle, entries):
 <p>The English translation was prepared with the assistance of Claude, an artificial-intelligence model made by Anthropic, working from scanned pages of the original. Readings that remain uncertain are marked [?] in the text.</p>
 <p><i>[Publisher, ISBN, edition and printing details — to be supplied. Permissions status of the 1949 original and of the portraits — to be confirmed before publication.]</i></p></section>
 <section class="portrait"><h2>Patron</h2>
- <div class="placeholder tall">[Portrait of the Maharaja — to be supplied]</div>
- <p class="cap2">[Name, title and caption — to be supplied]</p></section>
+ <img class="pic" src="assets/maharaja.jpg" alt="Maharaja of Mysore">
+ <p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I.,<br>Maharaja of Mysore, by whose gracious permission the original edition was published.</p></section>
 <section class="portrait"><h2>Guru</h2>
  <div class="placeholder tall">[Portrait of Guruji — to be supplied]</div>
- <p class="cap2">[Name, title and caption — to be supplied]</p></section>
+ <p class="cap2">Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa Śilpasiddhānti Śivayogi<br>Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali (Board of Vedic Scholars)<br><i>[English caption drafted from the Kannada caption printed beneath the photograph — please confirm wording and titles]</i></p></section>
 <section class="toc"><h2>Contents</h2><p class="tocsub">Sūkta by Sūkta, and Rik by Rik</p><ul>{toc}<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>
 '''
 
