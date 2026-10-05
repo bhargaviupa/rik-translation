@@ -4642,6 +4642,193 @@ Here in Kṣura: "*piteva putraṃ dasaye niravasāyayāmi stutibhiḥ iti vyāk
 
 Since Sāyaṇācārya has quoted these five mantras, it can be determined that Kṣura composed a commentary on the whole Taittirīya saṃhitā. But more particulars about him have not been learnt, and the work has not been found.
 
+### Page 277
+
+### 6. Sāyaṇācārya
+
+(C.E. 1315–1387 [?])
+
+The commentary on the Taittirīya Saṃhitā may be said to be the first among the works of Sāyaṇācārya. The method of this is as follows.
+
+> ब्राह्मणं कल्पसूत्रे द्वे मीमांसां व्याकृतिं तथा ।
+> उदाहृत्याथ तैस्सर्वैर्वेदार्थः स्पष्टमीर्यते ॥
+>
+> *brāhmaṇaṃ kalpasūtre dve mīmāṃsāṃ vyākṛtiṃ tathā |*
+> *udāhṛtyātha taissarvair vedārthaḥ spaṣṭam īryate ||*
+>
+> "Having cited the Brāhmaṇa, the two Kalpa-sūtras, the Mīmāṃsā and likewise Grammar, then by all of these the meaning of the Veda is clearly set forth."
+
+Having cited the Taittirīya Brāhmaṇa, the Kalpa-sūtras, the Mīmāṃsā, the Vyākaraṇa and the rest, he afterwards expounds the meaning. As in the other commentaries on the Saṃhitās, here too, for each mantra he makes known its application (*prayoga*) and afterwards writes the exposition. In this commentary the names of ancient commentators are few. He quotes sentences using the words "*anye*" (others) and "*apare*" (others).
+
+Even for words that denote inert things he joins patronymic (*apatyārthaka*) suffixes. Such usage is very rare.
+
+> "अयं पुरो भुवस्तस्य प्राणो भौवायनो वसन्तः प्राणायनः"—(तै. सं. ४-३-२ [?])
+>
+> *"ayaṃ puro bhuvas tasya prāṇo bhauvāyano vasantaḥ prāṇāyanaḥ"* — (Taittirīya Saṃhitā 4-3-2 [?])
+>
+> "This is the front, Bhuvas; his Prāṇa [is] Bhauvāyana, the spring [is] Prāṇāyana." (The words are as in the print; translation mine and tentative.)
+
+> तस्य भुवःशब्दाभिधेयस्य प्रजापतेः सम्बन्धी प्राणः ।
+> अत एवापत्यत्वमुपचर्य भौवायन इत्युच्यते ।
+>
+> *tasya bhuvaḥśabdābhidheyasya prajāpateḥ sambandhī prāṇaḥ | ata evāpatyatvam upacarya bhauvāyana ity ucyate |*
+>
+> "The Prāṇa is related to that Prajāpati who is denoted by the word *bhuvaḥ*. Therefore, treating [him] figuratively as a son, he is called *bhauvāyana*." (the commentary)
+
+Because he is the son of Prajāpati, who is denoted by the word *bhuvaḥ*, Prāṇa (that is, Vāyu) is called "Bhauvāyanaḥ".
+
+### 7. Veṅkaṭeśa
+
+(time not known exactly)
+
+At Śāntiniketan there is a commentary on the Taittirīya Saṃhitā in Grantha script. Its Devanāgarī copy is with Bhagavaddatta. There is a commentary only for the last three kāṇḍas; for the first four there is none. At the end of the work and in the middle, in places, these sentences, or sentences of the same meaning, occur —
+
+> इति नैध्रुवनवेंकटेश [?] विरचिते यजुर्वेदभाष्यसंग्रहसारे ।
+> सप्तमे काण्डे पंचमप्रश्ने पंचविंशोऽनुवाकः ।
+> पंचमकाण्डप्रभृति सप्तमकाण्डपर्यंतं यजुर्वेद-
+> भाष्यसंग्रहं श्रीपदपूर्णनिवासेन [?] लिखितम् ॥
+>
+> *iti naidhruvanaveṃkaṭeśa [?] viracite yajurvedabhāṣyasaṃgrahasāre | saptame kāṇḍe paṃcamapraśne paṃcaviṃśo 'nuvākaḥ | paṃcamakāṇḍaprabhṛti saptamakāṇḍaparyaṃtaṃ yajurvedabhāṣyasaṃgrahaṃ śrīpadapūrṇanivāsena [?] likhitam ||*
+>
+> "Thus in the *Yajurveda-bhāṣya-saṃgraha-sāra* composed by Naidhruva Veṅkaṭeśa [?]: in the seventh kāṇḍa, fifth praśna, the twenty-fifth anuvāka. From the fifth kāṇḍa to the seventh kāṇḍa, the *Yajurveda-bhāṣya-saṃgraha* written by Śrīpada-pūrṇa-nivāsa [?]."
+
+(As printed; two names are doubtful.)
+
+The name of this work is *Veda-bhāṣya-saṃgraha-sāra*. He composed the commentary only for kāṇḍas 5 to 7.
+
+In places in this commentary there are sentences which agree letter for letter with Bhaṭṭabhāskara's commentary. He has not written connecting the Kalpa-sūtras and the like, as Sāyaṇācārya does. Nothing more is known concerning him.
+
+### Page 278
+
+### 8. Bālakṛṣṇa
+
+(time not known)
+
+At Calcutta in the year 1?5? [?] a catalogue was published. In it is a list of the manuscript copies that were in Fort William. In that list there is also a commentary on the Taittirīya Saṃhitā composed by one Bālakṛṣṇa.
+
+### 9. Haradatta Miśra
+
+(time: the 13th century)
+
+He composed a commentary for the Āpastamba mantra-pāṭha, or *Ekāgni-kāṇḍa*. Something about him has been told before. He appears to have been a Śaiva. The auspicious verse of the commentary is thus.
+
+> प्रणिपत्य महादेवं हरदत्तेन धीमता ।
+> एकाग्निकाण्डमन्त्राणां व्याख्या सम्यग्विधीयते ॥
+>
+> *praṇipatya mahādevaṃ haradattena dhīmatā |*
+> *ekāgnikāṇḍamantrāṇāṃ vyākhyā samyag vidhīyate ||*
+>
+> "Having bowed to Mahādeva, by the wise Haradatta the exposition of the mantras of the Ekāgni-kāṇḍa is properly made."
+
+The commentary is excellent. It was printed at Mysore in C.E. 19?? [?]. He has quoted many sentences from the Nighaṇṭu. He expounds the mantras also from the historical point of view. At the end of the commentary —
+
+> इति श्रीपदवाक्यप्रमाणज्ञमहामहोपाध्याय हरदत्तमिश्र-
+> विरचितायामेकाग्निकाण्डमन्त्रव्याख्यायां द्वितीय-
+> प्रश्ने द्वाविंशः खण्डः । प्रश्नश्च समाप्तः ॥
+>
+> *iti śrīpadavākyapramāṇajñamahāmahopādhyāya haradattamiśra-viracitāyām ekāgnikāṇḍamantravyākhyāyāṃ dvitīya-praśne dvāviṃśaḥ khaṇḍaḥ | praśnaś ca samāptaḥ ||*
+>
+> "Thus, in the exposition of the mantras of the Ekāgni-kāṇḍa, composed by the venerable Haradatta Miśra, *mahāmahopādhyāya*, learned in word, sentence and authority, in the second praśna, the twenty-second section; and the praśna is completed."
+
+It is said. Sentences of Haradatta are seen quoted both in Sāyaṇācārya's *Dhātu-vṛtti* and in Devarājayajvan's commentary on the Nighaṇṭu. Therefore he can be said to have been of the 13th century or a little earlier.
+
+### 10. Śatrughna
+
+(time about C.E. 1?[?]?)
+
+The name of his work is *Mantrārtha-dīpikā*. Among the auspicious verses there is one thus —
+
+> उवटे मन्त्रव्याख्या [?] गुणविष्णौ ब्राह्मणीयसर्वस्वे ।
+> वेदविलासिन्मामपि [?] कौशलमीक्ष्य तथापि मे सद्भिः ॥ ६ [?] ॥
+>
+> *uvaṭe mantravākhyā [?] guṇaviṣṇau brāhmaṇīyasarvasve | vedavilāsinmāmapi [?] kauśalam īkṣya tathāpi me sadbhiḥ || 6 [?] ||*
+>
+> (As printed; the verse is not securely intelligible; the following is the source's own statement of what it means.)
+
+Looking at Uvaṭa's Yajurveda commentary, Guṇaviṣṇu's commentary on the Chāndogya mantras, Halāyudha's *Brāhmaṇa-sarvasva* and Gauradhara's *Veda-vilāsinī*, he made this exposition. In verses 10, 11 and 1?th he has said as follows —
+
+"Whatever mantras have been expounded in the earlier commentaries, I have mentioned them here. But only in the difficult places of these, I have tried to write in the easier manner," and so on.
+
+### Page 279
+
+As he himself said, the commentary is simpler than the commentaries of Uvaṭa and others. Explanation is given in order for the *snāna-mantra* (bathing mantras), *sandhyā-mantra*, *devatārcana-mantra* (mantras of worship of the gods), *śrāddha-mantra*, *ṣaḍaṅga-śatarudra*, *vivāha-mantra* (wedding mantras) and the like.
+
+This commentary has been printed at Kāśī. He may be said to have been about C.E. 1?[?]? [the digits are not clear].
+
 ---
 
-**Progress note (Gap C):** Translated printed pp. 261–276 (PDF 287–302). Next: p. 277 (PDF 303). Open flags: dates of Kauśika Bhaṭṭa-Bhāskaramiśra and Kṣura; dhātu and Taittirīya Saṃhitā reference numerals on pp. 276 [?].
+# Chapter Fifteen — Commentators on the Sāmaveda
+
+### 1. Mādhava
+
+(C.E. 7th century)
+
+There are two parts in the Sāmaveda. Of these they call the first the *pūrvabhāga* or *chandas-ārcika*, and the second the *uttarabhāga* or *uttara-ārcika*. In Mādhava's commentary too there are in the same manner two parts: the *Chandasikā-vivaraṇa* and the *Uttara-vivaraṇa*.
+
+Along with Sāyaṇācārya's commentary on the Sāma-saṃhitā, Mādhava's *Vivaraṇa* has been published in the form of notes by one Satyavrata Sāmaśramī. In its introduction he tells how much of the *Vivaraṇa* was found, and in what manner.
+
+> संप्रति बहुयत्नतो माधवीयविवरणाख्यस्यैवैकमात्रस्यातिजीर्णा-
+> शुद्धपुस्तकमेकमर्धमर्ध उभयस्थानादासादितम् । तच्चात्र
+> शरलेशाखां [?] टिप्पण्याकारेण मुद्रितम् ।
+>
+> *saṃprati bahuyatnato mādhavīyavivaraṇākhyasyaivaikamātrasyātijīrṇāśuddhapustakam ekam ardham ardha ubhayasthānād āsāditam | taccātra śaraleśākhāṃ [?] ṭippaṇyākāreṇa mudritam |*
+>
+> "Now, with much effort, a single, very decayed and impure manuscript of the work called *Mādhavīya-vivaraṇa* alone, half and half, from two places, has been obtained; and it has been printed here in the form of notes." (The words "*śaraleśākhāṃ*" are doubtful in the print; translation mine and tentative.)
+
+Only one manuscript copy of the *Vivaraṇa* has been found. In two places half and half were obtained. The copies are decayed and very impure. He says that, having taken the excellent portions of it, he has printed them as notes on Sāyaṇa's commentary on the Sāma-saṃhitā.
+
+A scholar named Weber of Germany has described it, at length, in 2?–3? [?] pages. Since then no one has put a hand to it. Recently Dr. Kunnan Rāja [Dr. C. Kunhan Raja] of Madras has plans to gather together all the manuscript copies wherever they are, and print a pure copy.
+
+His time — the Mādhava-deva whom Devarājayajvan quotes in his commentary on the Nighaṇṭu must be this very person. In writing about Nārāyaṇa, the commentator on the Ṛgveda, both Mādhava, the commentator on the Sāmaveda, and Bāṇa, the author of the *Kādambarī*, have used one and the same auspicious verse; one may therefore guess that both were contemporaries.
+
+### Page 280
+
+After the auspicious verse Mādhava begins, saying that mantras are of 3? [?] kinds, and says that of these five are in the Ṛgveda and the remaining 3? [?] are in the Sāmaveda also. In this way, in dividing the mantras, he has a close likeness to Skandasvāmin and Bahumuṭṭa. From this the two of them must have gathered this matter from one work; otherwise one may be said to be indebted to the other. Or else, as was said earlier, Nārāyaṇa, the colleague of Skandasvāmin, and Nārāyaṇa, Mādhava's father, must be one and the same person. If this point is true, Mādhava may be said to be of the 7th century.
+
+Commentary: the *Vivaraṇa* is a commentary belonging to the best class. He had a good knowledge of the Sāmaveda tradition. Sāyaṇācārya, in many places, following the Ṛgveda text, wrote the exposition of the Sāma mantras; but Mādhava has written the exposition in a different way. For example, in the Uttarārcika of the Sāmaveda —
+
+> आमन्द्रमावरेण्यमाविप्रमामनीषिणम् ।
+> पान्तमा पुरुस्पृहम् ॥
+>
+> *āmandram āvareṇyam āvipram āmanīṣiṇam |*
+> *pāntam ā puruspṛham ||*
+
+— the commentary on it:
+
+> आमन्द्रं आनुपूर्वेण मन्द्रं बलं । आवरेण्यं
+> अभिमुख्येन वरेण्यं तत् । आविप्रं अतिशयेन विपश्चितं ।
+>
+> *āmandraṃ ānupūrveṇa mandraṃ balaṃ | āvareṇyaṃ abhimukhyena vareṇyaṃ tat | āvipraṃ atiśayena vipaścitaṃ |*
+>
+> "*āmandra*: in due order, the delightful strength. *āvareṇya*: that which is choice-worthy, facing [us]. *āvipra*: exceedingly wise."
+
+Here Sāyaṇācārya has taken the prefix "*ā*" in this mantra with the verb-word "*vṛṇīmahe*" of the preceding mantra, and has made the meaning; but Mādhava, regarding *āmandra*, *āvareṇya* and the like as a single word each, with the prefix *ā* at the beginning, has made the meaning accordingly. Therefore the meanings of the two differ. He has written authorities from the Nighaṇṭu, which is now lost. For the mantra which in the Pūrvārcika has been explained at length, in the Uttarārcika he has written briefly. In the inquiry into the mantra "*taratsa mandī dhāvati*", the commentary runs thus —
+
+> तरत्स मन्दी धावतीति चतुर्ऋचः छन्दसिकाभाष्ये ।
+> विस्तरेणोक्तः सप्रयोजनं तथाप्यत्र संक्षेपेणोच्यते ॥
+>
+> *taratsa mandī dhāvatīti caturṛcaḥ chandasikābhāṣye |*
+> *vistareṇoktaḥ saprayojanaṃ tathāpy atra saṃkṣepeṇocyate ||*
+>
+> "'*taratsa mandī dhāvati*' — the group of four ṛks was told at length, with its purpose, in the *Chandasikā-bhāṣya*; nevertheless it is told here in brief."
+
+And —
+
+> प्र व इन्द्राय—अर्चन्त्यर्कं—उपप्रक्षे—एष-
+> स्तृचश्छन्दसिकाभाष्ये उक्तार्थः ॥
+>
+> *pra va indrāya—arcanty arkaṃ—upaprakṣe—eṣa-stṛcaś chandasikābhāṣye uktārthaḥ ||*
+>
+> "'*pra va indrāya*', '*arcanty arkam*', '*upaprakṣe*', '*eṣa*' — the groups of three ṛks, their meaning has been stated in the *Chandasikā-bhāṣya*."
+
+He has said [so]. That is: because the ṛks beginning with "*pra va indrāya*" have been told in the earlier *Chandasikā-bhāṣya*, he writes that there is no need to tell them again here. In some further places there is no commentary at all.
+
+### 2. Bharatasvāmī
+
+(C.E. about 1?00 [?])
+
+His commentary on the Sāmaveda is still not printed. Copies of it are at Tanjore, Madras, Mysore, Baroda and Lahore. At the beginning of the commentary there are these verses (continued on the next page).
+
+---
+
+**Progress note (Gap C):** Translated printed pp. 261–280 (PDF 287–306). Next: p. 281 (PDF 307), the verses at the beginning of Bharatasvāmī's Sāmaveda commentary. Open flags: Sāyaṇa's dates and several manuscript/folio numerals [?]; the Śatrughna verse is unclear.
