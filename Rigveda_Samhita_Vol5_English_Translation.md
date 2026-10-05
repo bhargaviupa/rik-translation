@@ -8779,8 +8779,52 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.6 (pp. 496–498, PDF 512–514)
+
+**Saṃhitā-pāṭha** *(p. 496)*
+
+> **अस्मा इदु त्वष्टा तक्षद्वज्रं स्वपस्तमं स्वर्यं रणाय ।**
+> **वृत्रस्य चिद्विदद्येन मर्म तुजन्नीशानस्तुजता कियेधाः ॥ ६ ॥**
+
+*asmā id u tvaṣṭā takṣad vajraṃ svapastamaṃ svaryaṃ raṇāya |*
+*vṛtrasya cid vidad yena marma tujann īśānas tujatā kiyedhāḥ || 6 ||*
+
+*(Reading note: in the Saṃhitā line the print has a stray small sign after *svaryaṃ*; I read it as a printer's mark and do not reproduce it.)*
+
+**Pada-pāṭha** *(p. 496)*
+
+> अस्मै । इत् । ऊं इति । त्वष्टा । तक्षत् । वज्रम् । स्वपःऽतमम् । स्वर्यम् । रणाय ।
+> वृत्रस्य । चित् । विदत् । येन । मर्म । तुजन् । ईशानः । तुजता । कियेधाः ॥ ६ ॥
+
+*asmai | it | ūṃ iti | tvaṣṭā | takṣat | vajram | svapaḥ-tamam | svaryam | raṇāya |*
+*vṛtrasya | cit | vidat | yena | marma | tujan | īśānaḥ | tujatā | kiyedhāḥ || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 496)*
+
+> **त्वष्टा विश्वकर्मास्मा इदु अस्मा एवेन्द्राय वज्रं वर्जकमायुधं रणाय युद्धार्थं तक्षत् । तीक्ष्णमकरोत् । कीदृशं वज्रं । स्वपस्तममतिशयेन शोभनकर्माणं स्वर्यं सुष्ठु शत्रुषु प्रेर्यं यद्वा स्तुत्यं । तुजन् शत्रून् हिंसन् ईशान ऐश्वर्यवान् कियेधाः बलवान् एवंगुणविशिष्ट इन्द्रो वृत्रस्य चित् आवरकस्यासुरस्य मर्म मर्मस्थानं तुजता हिंसता येन वज्रेण विदत् । प्राहार्षीदित्यर्थः [?] ॥ ... कियेधाः । अत्र निरुक्तं । कियेधाः कियद्धा इति वा क्रमुमाणधा [as read, ?] इति वेति । नि. ६-२० [?] । अस्यायमभिप्रायः । कियत् किंपरिमाणमस्य बलस्य तादृशं बलं दधाति धारयतीति कियद्धाः । यः कोऽप्यस्य बलस्येयत्तां न जानातीत्यर्थः । यद्वा । क्रमुमाणमाक्रमुमाणं परेषां बलं धारयति निवारयतीति क्रमुमाणधाः । उभयत्रापि पृषोदरादित्वात्पूर्वपदस्य कियेभावः । दधातेर्विच् ॥**
+
+*tvaṣṭā viśvakarmāsmā id u asmā evendrāya vajraṃ varjakam āyudhaṃ raṇāya yuddhārthaṃ takṣat | tīkṣṇam akarot | kīdṛśaṃ vajraṃ | svapastamam atiśayena śobhanakarmāṇaṃ svaryaṃ suṣṭhu śatruṣu preryaṃ yadvā stutyaṃ | tujan śatrūn hiṃsan īśāna aiśvaryavān kiyedhāḥ balavān evaṃguṇaviśiṣṭa indro vṛtrasya cit āvarakasyāsurasya marma marmasthānaṃ tujatā hiṃsatā yena vajreṇa vidat | prāhārṣīd ity arthaḥ [?] || ... kiyedhāḥ | atra niruktaṃ | kiyedhāḥ kiyaddhā iti vā kramumāṇadhā [as read, ?] iti veti | ni. 6-20 [?] | asyāyam abhiprāyaḥ | kiyat kiṃparimāṇam asya balasya tādṛśaṃ balaṃ dadhāti dhārayatīti kiyaddhāḥ | yaḥ ko 'py asya balasyeyattāṃ na jānātīty arthaḥ | yadvā | kramumāṇam ākramumāṇaṃ pareṣāṃ balaṃ dhārayati nivārayatīti kramumāṇadhāḥ | ubhayatrāpi pṛṣodarāditvāt pūrvapadasya kiyebhāvaḥ | dadhāter vic ||*
+
+*(The grammatical tail, p. 496, characterized, not transcribed, and marked "…" above where it falls: on **svapastamam** (*śobhanam apaḥ karma yasya*, *tamap*), **svaryam** (the print refers to its earlier treatment in Ṛg 1-32-2 [?] — "*svaryaṃ tatakṣa*"), **vidat** (*vid lṛ lābhe*, *luṅ*, *aṅ* for *cli*, no *aṭ*), **tujan** (*tuja hiṃsāyām*, *śatṛ*, *śa*), **īśānaḥ** (*īśa aiśvarye*, *śānac*, the *śap* lost), **tujatā**; the accents.)*
+
+**Translation of the bhāṣya:** "Tvaṣṭā, Viśvakarman, for this very Indra *takṣat*, sharpened the *vajra*, the felling weapon, *raṇāya*, for battle. What kind of *vajra*? *Svapastamam*, of exceedingly good working; *svaryam*, well to be hurled at enemies, or praiseworthy. Indra — *tujan*, harming enemies, *īśānaḥ*, lordly, *kiyedhāḥ*, mighty, so endowed — *vidat*, [with that *vajra* which harms] found / struck the vital spot (*marma*) of Vṛtra, the Asura who enveloped [the waters]. [The gloss of *vidat*: 'he struck' — reading doubtful [?].] On *kiyedhāḥ* the Nirukta says: '*kiyedhāḥ* is either *kiyaddhāḥ* or *kramamāṇadhāḥ*' (Ni. 6-20 [?]); the meaning: *kiyat*, of what measure is his strength? — he who holds such strength, whose measure no one at all knows, is *kiyaddhāḥ*; or he who holds back (restrains) the strength of others who advance is *kramamāṇadhāḥ*; in both, by the *pṛṣodarādi* class, the first member becomes *kiye*, and *vic* after *dhā*."
+
+**Pratipadārtha** *(p. 497)* — "**tujan** — the destroyer of enemies; **īśānaḥ** — the lord; **kiyedhāḥ** — the strong: Indra; **vṛtrasya cit** — of Vṛtra the Asura; **marma** — the vital spot; **tujatā** — [by that vajra] which destroys (enemies); **yena** — with which vajra; **vidat** — he struck; **svapastamam** — the doer of the most excellent work; **svaryam** — that which is hurled at the enemy, or that which is praiseworthy; **vajram** — the vajra weapon; **tvaṣṭā** — Viśvakarman; **asmā idu** — for this very Indra; **raṇāya** — for fighting; **takṣat** — sharpened."
+
+**Bhāvārtha** *(p. 497)* — "Viśvakarman sharpened for Indra, for battle, the vajra weapon that does most excellent work and is hurled at the enemy. With that same vajra Indra — destroyer of enemies, lord of the world, mighty — struck the vital spot of Vṛtra the Asura and tore it."
+
+**English Translation (the source's own, p. 497)** — "For that Indra, verily Twashtri sharpened the well-acting, sure-aimed thunderbolt for the battle, with which fatal (weapon), the mighty and lordly (Indra) desirous of killing his enemies, pierced the vital parts of Vritra."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 497** — **tvaṣṭā**: "the word *tvaṣṭṛ* here means Viśvakarman, the divine craftsman." **svapastamam** — *atiśayena śobhanakarmāṇam*: "*śobhanam apaḥ karma yasyāsau; atiśayena svapāḥ svapastamaḥ* — explaining the word thus, the *vajra* is taken to be one that performs always [hard, crushing] deeds [the Kannada word is unclear, ?]." **svaryam** — *suṣṭhu śatruṣu preryam yadvā stutyam*: "that which is hurled pitilessly at enemies, or that which is worthy of praise; the same word is used in this sense in the Ṛk-saṃhitā: '*svaryaṃ tatakṣa*' (Ṛg 1-32-2 [?])." **kiyedhāḥ**: "the mighty; the Nirukta explains it thus: '*kiyedhāḥ kiyaddhā iti vā kramamāṇadhā iti vā*' (Ni. 6-20 [?]). *Kiyat kiṃparimāṇam asya balasya tādṛśaṃ balaṃ dadhāti dhārayatīti kiyaddhāḥ* — he who bears strength of such measure and whose strength no one can know; or he who wholly restrains the strength of enemies who attack."
+
+**Vyākaraṇa-prakriyā** *(p. 498 — noted briefly)* — *Grammar page, noted briefly.* **takṣat**: *takṣa tanūkaraṇe*; *luṅ*, third singular; *bahulaṃ chandasy amāṅyoge 'pi*: no *aṭ*; *nighāta*. **svaryam**: "explained at Ṛg 1-32-2 [?]." **vidat**: *vidḷ lābhe*; *luṅ*, *tip*; *itaś ca*: loss of *i*; as the root is *ḷdit*, *aṅ* for *cli* (the print cites a sūtra beginning *pṛṣādi…*, doubtful [?]); being *ṅit*, no *laghūpadha-guṇa*; no *aṭ* by *bahulaṃ chandasy…*; because of the *yad* word (*yena*), the verb is not unaccented; the accent of the *aṅ* syllable leaves the *da* with the acute. **svapastamam**: *śobhanam apaḥ karma yasya*; *svapāḥ*; *tamap* (*pit*, so unaccented); *soḥ…manasī alomoṣasī* (Pā. 6-2-117 as read [?]): the initial acute of the later member. **tujan**: *tuja hiṃsāyām*; *śatṛ*; *vyatyayo bahulam*: *śa* in place of *śap*; *tujat*; *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*: the *vikaraṇa* accent remains; nominative singular *su*: *num* (*ugit*), loss of *su*, loss of the final *t* (*saṃyogāntalopa*): *tujan*. **tujatā**: *śatṛ* as before, instrumental singular; *śatur anumo nadyajādī*: acute on the ending. **kiyedhāḥ**: Yāska as above; by *pṛṣodarādi* the first member becomes *kiye*; *dhā* + *vic*: *dhāḥ*; *kṛdutarapade prakṛtisvaraḥ*: accent of the first member remains.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.5 written (through p. 495 = PDF 511, which ends in the grammar of Rik 5).**
+---
 
-**Next task:** view PDF 512 (printed p. 496): the end of Rik 5's grammar (if any) and Rik 61.6 Saṃhitā; then Riks 61.6–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.5 grammar notes partly summarized, sūtra numerals [?], and some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* "ārīte"-type word unclear [?]; 61.5 *gūrta* root form unclear [?]; earlier flags as before. FUTURE GRAMMAR NOTES: much shorter — name the words treated and only the sūtras legible; do not reconstruct unclear sūtra names.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.6 written (through p. 498 = PDF 514).**
+
+**Next task:** view PDF 515 (printed p. 499): Rik 61.7 Saṃhitā; then Riks 61.7–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.6 grammar notes partly summarized, sūtra numerals [?], and some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss "prāhārṣīt" [?] and Nirukta *kramamāṇadhā* [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
