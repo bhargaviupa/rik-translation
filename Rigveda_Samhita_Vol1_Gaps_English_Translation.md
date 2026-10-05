@@ -2230,8 +2230,169 @@ Dr. Caland has given the number of Sāma mantras according to the lakṣaṇa-wo
 > *paṃcapaṃcāśad ity uktā āraṇyasya kramād ṛcaḥ || 2 ||*
 > *prakṛteḥ ṣaṭśataṃ caiva dvicatvāriṃśaduttaram [?] |*
 >
-> "Of the Āgneya [section], a hundred and sixteen ṛks are said; of the Indra [section], three hundred and fifty-two ṛks are counted; of the Pāvamānī, nineteen hundred [as printed: *ekonaviṃśatiśatam*, 'nineteen hundred' — the figure is doubtful] ṛks are remembered; of the Āraṇya, in order, fifty-five ṛks are told; of the Prakṛti, six hundred and forty-two [?]…" (the verses continue on the next page). (Gist only, mine and tentative: the source gives no translation, and the arithmetic of the figures is not checked because the passage is incomplete.)
+> "Of the Āgneya [section], a hundred and sixteen ṛks are said; of the Indra [section], three hundred and fifty-two ṛks are counted; of the Pāvamānī, *ekonaviṃśatiśatam* — the table on the next page shows 119 — ṛks are remembered; of the Āraṇya, in order, fifty-five ṛks are told; of the Prakṛti, six hundred and forty-two [?]…" (the verses continue on the next page). (Gist only, mine and tentative: the source gives no translation, and the arithmetic of the figures is not checked because the passage is incomplete.)
+
+### Page 151
+
+> प्रकृतेः षट्शतं चैव द्विचत्वारिंशदुत्तरम् ।
+>
+> *prakṛteḥ ṣaṭśataṃ caiva dvicatvāriṃśaduttaram |*
+>
+> "Of the Prakṛti, six hundred and forty-two" [the verse line begun on the previous page].
+
+That is: the Prakṛti ṛk count is 642. Prakṛti sāma count — [?] (the figure is not readable with certainty).
+
+| | |
+|---|---|
+| Āgneya-parvan | 116 |
+| Aindra | 352 |
+| Pāvamānya | 119 |
+| Āraṇa | 55 |
+| **Total Prakṛti ṛk count** | **642** |
+
+(Digits read from an enlarged image; 116 + 352 + 119 + 55 = 642 as printed.)
+
+The total count of the Grāma-geya-gāna and Āraṇya-gāna is [?] (digits unreadable). In the work called Dhāraṇa-lakṣaṇa this count too is given [as the same]. If the counts of the Ūha and Ūhya gānas are added to these, in the Jaiminīya saṃhitā there are altogether [?] mantras; that is, in the Jaiminīya branch there are [?] more mantras than in the Kauthuma branch. It is not seen that the Jaiminīya saṃhitā has yet been printed.
+
+According to Dr. Caland the total mantra count of the Jaiminīya saṃhitā is [?]; in the Pūrvārcika [?] and in the Uttarārcika [?] mantras. The Prakṛti ṛk count of the Pūrvārcika is 642. Why there is a difference of [?] mantras here is not clear; there is the possibility of mistakes in the manuscripts. Thus the Jaiminīya saṃhitā has [?] mantras fewer than the Kauthuma saṃhitā; but it is a matter worth noting that some ṛks that are in the Jaiminīya saṃhitā are not in the Kauthuma saṃhitā.
+
+(All the figures in this paragraph are given as [?] because the Kannada digits could not be separated reliably at the available scan quality.)
+
+### Jaiminīya and Talavakāra
+
+The brāhmaṇa of the Jaiminīya branch is also called the Talavakāra-brāhmaṇa. Jaimini had a pupil named Talavakāra. This brāhmaṇa may have been called by the names of these two; or there may be a sub-branch named Talavakāra in the Jaimini branch. The Brāhmaṇas of this branch are found in the Tinnevelly district of the Madras Presidency.
+
+## 3. Rāṇāyanīyas
+
+Brāhmaṇas who are followers of the Rāṇāyanīya branch are found in many places. But they have no works of the Rāṇāyanīya branch with them. In the absence of proper works nothing more can be said about this branch. Mention of Rāṇāyanīya *khila* mantras is found in Śaṅkara's Vedānta-bhāṣya (3-3-?? [?]); there mention of an Upaniṣad belonging to the Rāṇāyanīya branch is also made. Attention should be paid to the reference concerning the Rāṇāyanīyas on p. 1?? [?] of Hemādri's Śrāddha-kalpa.
+
+## 4. Sātyamugrāḥ
+
+The Sātyamugra branch is one sub-division of the Rāṇāyanīya branch; that is, Sātyamugra is a sub-branch of the Rāṇāyanīya. In this matter, in the 8th [?] chapter of the Āpiśali-śikṣā —
+
+### Page 152
+
+> छंदोगानां सात्यमुग्रिराणायनीया ह्रस्वानि पठंति ।
+>
+> *chaṃdogānāṃ sātyamugrirāṇāyanīyā hrasvāni paṭhaṃti |*
+>
+> "Of the Chandogas, the Sātyamugris and Rāṇāyanīyas recite [the diphthongs] short."
+
+It is said. That is: those of the Sātyamugra branch recite the diphthongs (*sandhyakṣara*) as short, and in the Vyākaraṇa-mahābhāṣya (1-1-48 [?]):
+
+> ननु च भोः छंदोगानां सात्यमुग्रिराणायनीया अर्ध-
+> मेकारमर्धमोकारं चाधीयते । सुजाते ए अश्वसू-
+> नृते । अर्ध्वर्यो ओ अद्रिभिः सुतम् । शुक्रं ते ए अन्यद्य-
+> जतम् ॥
+>
+> *nanu ca bhoḥ chaṃdogānāṃ sātyamugrirāṇāyanīyā ardha-mekāram ardham okāraṃ cādhīyate | sujāte e aśvasūnṛte | ardhvaryo o adribhiḥ sutam | śukraṃ te e anyadyajatam ||*
+>
+> "But, sir, the Sātyamugris and Rāṇāyanīyas among the Chandogas recite half an *e* and half an *o*: *sujāte e aśvasūnṛte*; *adhvaryo o adribhiḥ sutam*; *śukraṃ te e anyad yajatam*." (Translation mine and tentative; the printed *ardhvaryo* is as read.)
+
+It is said. No works of the Sātyamugra branch have been found by us so far.
+
+## 5. Naigeyas
+
+The name of this branch is indicated in the work called Caraṇa-vyūha where the sub-divisions of the Kauthuma branch are described (printed in English: "Sub-divisions"). There is a work named Naigeya-pariśiṣṭa. In it are two prapāṭhakas or adhyāyas. In the first prapāṭhaka is a description of the sages, and in the second a description of the deities. This work has been composed following the Naigeya branch.
+
+## 6. Śārdūlas
+
+Although the works of this branch are rare to obtain, it is not at all impossible to make a collection of works with effort. In the catalogues of the books in the houses of some at Kāśī the names of works of this branch are found. The Khādira Gṛhya-sūtra is said to belong to this branch. On pp. 1?? and 1?? [?] of the Śrāddha-kalpa-paribhāṣā section of Hemādri:
+
+> तद्यथा शार्दूलशाखिनां—स पूर्वो महानामिति मधुश्चुन्निधनम् [?] ।
+>
+> *tadyathā śārdūlaśākhinām—sa pūrvo mahānāmiti madhuścunnidhanam [?] |*
+>
+> "Namely, of the followers of the Śārdūla branch: 'that earlier one [is] the Mahānāmnī', [the Sāman] whose finale is *madhuścut* [?]." (Read as printed; doubtful; translation mine and tentative.)
+
+It is said. That is: this reading belongs to the Śārdūla branch. Besides, many statements of this branch are cited as examples in this Śrāddha-kalpa section.
+
+## 7. Vārṣagaṇyas
+
+Mahīdāsa in his commentary on the Caraṇa-vyūha, when stating the names of the 13 [?] chief Sāma branches, has indicated this branch also. There is no doubt that the saṃhitā and brāhmaṇas of this branch were especially current in former times. Yādavaprakāśa, in his commentary on the Piṅgala Chandas-sūtra (3-?? [?]), when giving an example of the metre called Nāgī-gāyatrī, has written the following mantra:
+
+> ययोरिदं [?] विश्वमोजति शा [?] विद्वांसा हवामहे वां ।
+> वीतं सोम्यं मधु ॥ इति वार्षगण्यानाम् ।
+>
+> *yayor idaṃ [?] viśvam ojati śā [?] vidvāṃsā havāmahe vāṃ |*
+> *vītaṃ somyaṃ madhu || iti vārṣagaṇyānām |*
+>
+> "[of ?] whom this whole world … we call you two, knowing ones: enjoy the Soma-sweet." — "[So reads the text] of the Vārṣagaṇyas." (The first line is doubtful in the print; translation mine and tentative.)
+
+That is: this example of the Nāgī-gāyatrī is found in the saṃhitā of the Vārṣagaṇya.
+
+### Page 153
+
+Among the founders of the Sāṅkhya-śāstra there was a renowned ācārya of the name Vārṣagaṇya. He composed a work called Ṣaṣṭitantra. But whether this Vārṣagaṇya, founder of the Sāṅkhya-śāstra, is the Sāma-saṃhitā-maker, or whether there was another ācārya of the same name earlier than he, is a matter of conjecture.
+
+## 8. Gautamas
+
+Since the Gautama Dharma-sūtra and the Gautama Pitṛmedha-sūtras, and the Gautama-śikṣā work, are still current, it can be said that the saṃhitā of this branch and other works existed in former times. Or the Gautamas may have composed Dharma-sūtras and other works following some other branch. In this matter, enough materials of study are not found, and so nothing can be said with certainty.
+
+## 9. Bhāllavis
+
+Not much particulars about the saṃhitā of this branch are known to us. It can be said with certainty that there was a brāhmaṇa only. Mention of the Bhāllavi-brāhmaṇa occurs in these works: the Bṛhaddevatā (3-?? and 7-?? [?]), the Bhāṣika-sūtra (2-?? [?]), the Nārada-śikṣā (1-?? [?]), the Mahābhāṣya (4-3-104 [?]), the Kātyāyana Upagrantha-sūtra (1-10 [?]), the Drāhyāyaṇa Śrauta-sūtra (3-4-3 [?]), Śaṅkara's Vedānta-sūtra-bhāṣya (3-3-?? [?]), and the Nidāna-sūtra (3-3, 3-6 [?], 7-? and 8-? [?]). A passage from a Nidāna-sūtra composed following this branch is found in the Bodhāyana Dharma-sūtra (1-1-?? [?]).
+
+In the vārtika on the Bṛhadāraṇyaka-bhāṣya, written by Sureśvara, a Śruti passage of the Bhāllavi branch is quoted. The verses of exposition belonging to that passage are thus:
+
+> अतः संन्यस्य कर्माणि सर्वाण्यात्मावबोधतः ।
+> हत्वाविद्यां धियैवेयात्तद्विष्णोः परमं पदम् ॥ २१९ [?] ॥
+> इति भाल्लविशाखायां श्रुतिवाक्यमधीयते ॥ २२० [?] ॥
+>
+> *ataḥ saṃnyasya karmāṇi sarvāṇy ātmāvabodhataḥ |*
+> *hatvāvidyāṃ dhiyaiveyāt tad viṣṇoḥ paramaṃ padam || 219 [?] ||*
+> *iti bhāllaviśākhāyāṃ śrutivākyam adhīyate || 220 [?] ||*
+>
+> "Therefore, having renounced all actions through knowledge of the Self, having destroyed ignorance, one would reach by understanding alone that highest abode of Viṣṇu. — Thus a Śruti sentence is recited in the Bhāllavi branch." (Translation mine and tentative; the source gives none.)
+
+Here the sentence "*hatvāvidyāṃ dhiyaiveyāt tad viṣṇoḥ paramaṃ padam*" is the Śruti passage of the Bhāllavi branch. The branch had some Upaniṣads. In the Jaiminy-upaniṣad-brāhmaṇa (2-4-2 [?]) there is mention of the view of the Bhāllavis. Therefore it can be understood that this branch was in currency before the time of the Jaiminy-upaniṣad-brāhmaṇa. In the Jaiminīya-brāhmaṇa (3-?? [?]) the names Āṣāḍha Bhāllaveya and (1-?? [?]) Indradyumna Bhāllaveya are mentioned.
+
+## 10. Kālabavins
+
+Many statements of the brāhmaṇa of this branch are quoted as authorities in various works. In the Āpastamba Śrauta-sūtra (20-4-9 [?]), the Upagrantha-sūtra (1-10 [?]), the Nidāna-sūtra (6-2 [?]) and the Puṣpa-sūtra (8-8-?? [?]) passages of the Kālabavi-brāhmaṇa are quoted. The saṃhitā and the sūtra works of this branch have not yet been found.
+
+[A small bracketed numeral, read as "[20?]", stands at the foot of this page in the print; it is not a page number.]
+
+### Page 154
+
+## 11. Śāṭyāyanins
+
+It can be known from the authorities cited in several works that this branch had a brāhmaṇa, a kalpa and Upaniṣads. Nothing can be said about the saṃhitā. Many authorities, as "the view of the ācārya Śāṭyāyani", are quoted in many places in the Jaiminy-upaniṣad-brāhmaṇa. Passages of the Śāṭyāyana-brāhmaṇa are quoted in these works: the Upagrantha-sūtra (1-10, 2-1, 2?-? [?]), the Bhāradvāja Gṛhya-sūtra (p. [?]), the Baudhāyana Gṛhya-sūtra (2-5-?, 2-5-? [?]), Veṅkaṭamādhava's Ṛgveda-bhāṣya (1-?-?, 1-?? and others [?]), the Puṣpa-sūtra (8-?-? [?]), Sāyaṇa's bhāṣya on the Tāṇḍya-brāhmaṇa (4-?-?, ?-?-? [?]), and Kātyāyana's Ṛk-sarvānukramaṇī (2-? [?]). Statements of the Śāṭyāyana Kalpa-sūtra are found also in the commentary named Bālakrīḍā (part 1, p. [?]), in Mahādeva's commentary on the Satyāṣāḍha Śrauta-sūtra (6-? p. [?]), in Gopīnātha's commentary on the same work (10-? p. [?]), and in Rudraskanda's commentary on the Khādira Gṛhya-sūtra (p. [?]).
+
+## 12. Raurukins
+
+Many authoritative statements of this branch are found in many works. In the Gobhila Gṛhya-sūtra (3-?-? [?]) and in the commentary on the Drāhyāyaṇa Śrauta-sūtra (4-?-? [?]) there are authorities of this branch. In Sāyaṇa's bhāṣya on the Tāṇḍya-brāhmaṇa (1-4-1 [?]) there is the statement:
+
+> रौरुकिशाखोक्तानि यजूंषि
+>
+> *raurukiśākhoktāni yajūṃṣi*
+>
+> "the yajus [formulas] spoken in the Rauruki branch."
+
+## 13. Kāpeyas
+
+In the Kāśikā-vṛtti (4-1-104 [?]) the Kāpeyas are said to be of a gotra different from the Āṅgirasas. But the Kāpyas must be of the Āṅgirasa gotra. In the Bṛhadāraṇyaka Upaniṣad (3-3-1 [?]) Patañjala Kāpya is said to be of the Āṅgirasa gotra. The name Śaunaka-kāpeya is mentioned in the Jaiminy-upaniṣad-brāhmaṇa (1-?-? [?]). Statements of the brāhmaṇa of this branch are quoted in the Jaiminīya-brāhmaṇa (2-? [?]) and the Satyāṣāḍha Śrauta-sūtra (1-?, ?-?, 1-? [?]).
+
+## 14. Māṣaśarāvyas
+
+In the commentary on the Drāhyāyaṇa Śrauta-sūtra (9-?-? [?]) Dhanvī writes:
+
+> माषशराव्यो नाम केचिच्छाखिनः ।
+>
+> *māṣaśarāvyo nāma kecic chākhinaḥ |*
+>
+> "Some Śākhins by the name Māṣaśarāvya."
+
+This branch's name is in the Pāṇinian Gaṇapāṭha also (4-1-? [?]).
+
+## 15. Keradviṣas
+
+The name of this branch occurs in the Tāṇḍya-brāhmaṇa (2-?-? [?]).
+
+## 16. Śāṇḍilyas
+
+In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (6-11-? [?]) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others the ācārya Śāṇḍilya... (the sentence continues on the next page).
 
 ---
 
-**Progress note (Gap A):** Translated through printed p. 150 (PDF 176). Next: p. 151 (PDF 177), continuing the Jaiminīya mantra-count verses (third verse, line 3 onward). Open flags: Jaiminīya table on p. 150 not reproduced (digits unreadable); several figures marked [?]; the Kauthuma table is arithmetic-checked.
+**Progress note (Gap A):** Translated through printed p. 154 (PDF 180). Next: p. 155 (PDF 181), continuing the Śāṇḍilya sentence. Open flags: many Kannada reference numerals on pp. 151–154 given as [?]; Jaiminīya mantra counts on pp. 150–151 not reproduced (unreadable).
