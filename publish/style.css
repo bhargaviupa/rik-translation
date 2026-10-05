@@ -7,7 +7,7 @@
   @top-right  { content: counter(page); font: 9pt "Noto Serif"; }
   @top-center { content: string(sukhead); font: italic 9pt "Noto Serif"; letter-spacing: .05em; } }
 @page front { @top-left{content:none} @top-right{content:none} @top-center{content:none} }
-@page roman { counter-reset: page 1; }
+
 @page :first { @top-left{content:none} @top-right{content:none} @top-center{content:none} }
 @page chapter-open { @top-left{content:none} @top-right{content:none} @top-center{content:none}
   @bottom-center { content: counter(page); font: 9pt "Noto Serif"; } }
@@ -82,3 +82,22 @@ h1.appendix { page-break-before: right; font-size: 17pt; font-weight:400; text-a
 
 .portrait img.pic { height: 5in; width: auto; max-width: 100%; }
 .portrait .cap2 { margin-top: .15in; }
+
+.portrait.pair { page: front; }
+.placeholder.half { width: 3.2in; height: 3.3in; padding-top: 1.2in; box-sizing: border-box; margin: .15in auto .35in; }
+/* roman folios for the front matter, Arabic restarts at the first Sūkta */
+@page roman { @bottom-center { content: counter(page, lower-roman); font: 9pt "Noto Serif"; } }
+.toc { page: roman; }
+
+
+.noteblock, span.longnote { display:block; font-size: 8.8pt; line-height:1.4; margin: .5em 0 .8em 1.2em; padding-left:.7em; border-left: .8pt solid #bbb; color:#333; text-align:left; font-style: normal; }
+span.longnote::before { content: "Note — "; font-weight: 700; }
+.noteblock::before { content: "Note — "; font-weight: 700; }
+
+@page roman:left  { @top-left{content:none} @top-center{content:none} @bottom-center{content: counter(page, lower-roman); font: 9pt "Noto Serif";} }
+@page roman:right { @top-right{content:none} @top-center{content:none} @bottom-center{content: counter(page, lower-roman); font: 9pt "Noto Serif";} }
+
+h2.sukta.first { page: chapter-first; }
+@page chapter-first { counter-reset: page 1; @top-left{content:none} @top-right{content:none} @top-center{content:none}
+  @bottom-center { content: counter(page); font: 9pt "Noto Serif"; } }
+@page :blank { @top-left{content:none} @top-right{content:none} @top-center{content:none} @bottom-center{content:none} }
