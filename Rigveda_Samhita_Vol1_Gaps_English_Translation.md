@@ -1754,6 +1754,138 @@ The kāṇḍas, prapāṭhakas and anuvākas in the Taittirīya-saṃhitā are 
 
 Printed total, below the table: "In all **7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas, 2198 pañcāśats**" (the last two figures read from the print, with the digits of the pañcāśat number [?]).
 
+### Page 139
+
+The Taittirīya Āraṇyaka has [?] adhyāyas (6 rows in the table), and the Taittirīya Upaniṣad [?] adhyāyas (4 rows). In the Taittirīya Brāhmaṇa the first kāṇḍa has 8 adhyāyas, the second kāṇḍa 8 adhyāyas, the third kāṇḍa 12 adhyāyas. The last 3 adhyāyas of the third kāṇḍa are called Kāṭhakas. Therefore in the Taittirīya branch there are altogether 44 + 6 + 4 + 28 = 82 adhyāyas (the arithmetic is the source's own and is correct as read: 8 + 8 + 12 = 28; 44 + 6 + 4 + 28 = 82).
+
+(The page prints four tables: the Taittirīya Āraṇyaka (6 adhyāyas), the Upaniṣad (4 adhyāyas), and the Taittirīya Brāhmaṇa, first, second and third kāṇḍas, each with columns for adhyāya number, number of anuvākas and number of pañcāśats, with totals. As on p. 138, the digits are too small and too alike to be read reliably, so the individual rows are not reproduced. Read with some confidence: the number of rows in each table (6, 4, 8, 8, 12), which agrees with the sentence above. The printed closing line under the tables reads, with its figures doubtful: "In the Taittirīya Brāhmaṇa the total adhyāyas are 28, anuvākas 300 [?], pañcāśats 1710 [?] (1760 [?])".)
+
+### Relation of the Taittirīya and Kaṭha branches
+
+It is learnt that the Taittirīya and Kaṭha branches had much connection from the beginning. In the Kāṇḍānukramaṇī it is said that adhyāyas 10–12 of the third kāṇḍa of the Taittirīya Brāhmaṇa are called Kāṭhakas. The text of the Taittirīya branch has ended at the end of the 9th [?] (continued)
+
+### Page 140
+
+...adhyāya of the third kāṇḍa. The remaining three adhyāyas belong to the Kaṭha branch. The relation of the Laugākṣi-smṛti to the Kaṭha branch is special. But even in it, in the extensive description of the division into kāṇḍas, it is said that these two branches have a special relation.
+
+There are two sub-divisions in the Taittirīya branch. They are now told.
+
+## 30 [?]. Aukheya branch
+
+In the Caraṇa-vyūha:
+
+> तत्र तैत्तिरीयका नाम द्विभेदा भवंति । औखेयाः खांडिकेयाश्चेति ।
+>
+> *tatra taittirīyakā nāma dvibhedā bhavanti | aukheyāḥ khāṇḍikeyāś ceti |*
+>
+> "There the Taittirīyakas are of two divisions: the Aukheyas and the Khāṇḍikeyas."
+
+It is said. That is: the Taittirīya branch has two sub-divisions, Aukheya and Khāṇḍikeya.
+
+According to the Kāṇḍānukramaṇī a pupil of Tittiri was one called Ukhā. After his name this branch is called Aukheya. According to the Pāṇinian sūtra (4-3-103 [?]) the pupils of Ukhā are called Aukheyas. Particulars of the Aukheya and Aukheyas, such as their gotra, are not known. It appears that these two names belong to people of one division. In the same way the words *khāṇḍikīya* and *khāṇḍikeya* are names of one division.
+
+### Aukheya and Vaikhānasa
+
+At the beginning of the Vaikhānasa Śrauta-sūtra there is a verse:
+
+> येन वेदार्थं विज्ञाय लोकानुग्रहकाम्यया ।
+> प्रणीतं सूत्रमौखेयं तस्मै विखनसे नमः ॥
+>
+> *yena vedārthaṃ vijñāya lokānugrahakāmyayā |*
+> *praṇītaṃ sūtram aukheyaṃ tasmai vikhanase namaḥ ||*
+>
+> "Salutation to Vikhanas, who, having understood the meaning of the Veda, out of a wish to favour the world, composed the Aukheya sūtra."
+
+From this it is clear that the one called Vikhanas composed the Aukheya sūtra. In the 8th adhyāya of the Ānanda-saṃhitā there is a verse:
+
+> औखेयानां गर्भचक्रं न्यासचक्रं वनौकसाम् ।
+> वैखानसान् विनान्येषां तप्तचक्रं प्रकीर्तितम् ॥ १४ [?] ॥
+> औखेयानां गर्भचक्रेक्षा [?] प्रोक्ता महात्मनाम् ॥ ३८ [?] ॥
+>
+> *aukheyānāṃ garbhacakraṃ nyāsacakraṃ vanaukasām |*
+> *vaikhānasān vinānyeṣāṃ taptacakraṃ prakīrtitam || 14 [?] ||*
+> *aukheyānāṃ garbhacakrekṣā [?] proktā mahātmanām || 38 [?] ||*
+
+(Transcribed as printed; the third line is doubtful. The source gives no translation of the verse and explains it as follows.)
+
+That is: among the Aukheyas a special rite (*saṃskāra*) is in currency. When women are pregnant they make a mark of a wheel (*cakra*) on a heap of rice. The pregnant mother eats that rice. This custom is seen to have been in currency among the Vaikhānasas also in former times.
+
+In the book called Prapañca-hṛdaya there is a clear description of the Ukhā branch in some places. In the Ṛṣitarpaṇa section of the Bodhāyana Gṛhya-sūtra (2-?-6 [?]) too the word "Ukhā" is mentioned. Whether this branch had a saṃhitā or a brāhmaṇa, and if it did, what they were like — no materials about these are found now. In the Caraṇa-vyūha also there is no discussion at all of the Vaikhānasas.
+
+### Page 141
+
+## 31 [?]. Ātreya branch
+
+(The numbering of the branches in this part of the print — "30", "31" and so on — is as read from small headings; the source numbers the Aukheya branch with a figure that cannot be read, and the Ātreya, Vaikhānasa and following branches as shown below. The numbers are given with [?] and should not be relied on.)
+
+The mention concerning Ātreyas is found in works such as the Kāṇḍānukramaṇī and the Prapañca-hṛdaya. Ātreya is a renowned gotra. In it there were many lines of teachers. In the Nāgarakhaṇḍa of the Skanda Purāṇa, in the 13?th [?] adhyāya, there is an account of many gotras. In that context:
+
+> आत्रेया दश संख्याताः शुक्लात्रेयास्तथैव च ॥ ?? ॥
+> कृष्णात्रेयास्तथा पंच ॥ ?? ॥
+>
+> *ātreyā daśa saṃkhyātāḥ śuklātreyās tathaiva ca || ?? ||*
+> *kṛṣṇātreyās tathā paṃca || ?? ||*
+>
+> "The Ātreyas are counted as ten, and the Śuklātreyas likewise; the Kṛṣṇātreyas as five."
+
+It is said. That is: those of the Ātreya gotra were of ten divisions, the Śuklātreyas of ten divisions, the Kṛṣṇātreyas of five divisions. (The verse numbers are unreadable and are omitted.)
+
+The medical work called the Caraka-saṃhitā of Āyurveda, spoken of already in the time of the Mahābhārata, was taught to an Ātreya by Punarvasu. The connection of this Punarvasu with the Ātreyas is learnt from the Ātreya-saṃhitā itself. The Jaina teacher Akalaṅkadeva, who lived about the 7th century [?], in his work called Rājavārtika (pages 51 [?] and 59 [?]), when telling the names of the 62 [?] branches of the Veda of persons of the Ājñāna-dṛṣṭi view, takes the name of this branch. In that time this Ātreya branch may have been famous. Since this branch belongs to the Kṛṣṇa Yajurveda, the followers of this branch may be called Kṛṣṇātreyas. In the Bhela-saṃhitā (Caraka-saṃhitā, Sūtrasthāna 14?-100 [?]) Punarvasu is called Candrabhāga; Candrabhāga is the present river Chenab. Therefore it can be conjectured that the hermitage of these Ātreyas was on the bank of the Chenab. And in the Bhela-saṃhitā Punarvasu is also called Kṛṣṇātreya. In the 3?th [?] adhyāya of the Śānti-parvan of the Mahābhārata:
+
+> देवर्षिरोरितं [?] गर्गो कृष्णात्रेयश्चिकित्सितम् ॥ ३३ [?] ॥
+>
+> *devarṣir oritaṃ [?] gargo kṛṣṇātreyaś cikitsitam || 33 [?] ||*
+
+(As printed; the first words are doubtful and no translation is attempted.)
+
+It is said. That is: Kṛṣṇa-Ātreya composed the science of medicine. From all the matters spoken of above it can be said that the names Punarvasu, Punarvasu Ātreya and Kṛṣṇa-Ātreya belong to one person. Because this Ātreya branch belonged to the Caraka branch of the Kṛṣṇa Yajurveda, the Āyurveda saṃhitā composed by him may have been called the Caraka-saṃhitā.
+
+### The nature of the Ātreya-saṃhitā
+
+Though the description given of the Kṛṣṇa Yajurveda in the Kāṇḍānukramaṇī agrees with the Taittirīya-saṃhitā, it belongs to the Ātreya-saṃhitā. In the Ātreya-saṃhitā all the Yājyā ṛks are put together in one place. In the Taittirīya-saṃhitā these same mantras are found separately in different places in the first four kāṇḍas. In the same way, in the Ātreya-saṃhitā the Aśvamedha section is in one place. In the Taittirīya-saṃhitā it is not so. In the Ātreya-saṃhitā the Hotṛ-karma section too is in a separate place.
+
+### Page 142
+
+The sage Ātreya was the author of the *pada*-text of the Taittirīya-saṃhitā. In the Ṛṣi-tarpaṇa section stated in works such as the Bodhāyana Gṛhya-sūtra, the name of the *padakāra* sage Ātreya is also given.
+
+## 32 [?]. Vaikhānasa branch
+
+There are many Kalpa-sūtras of the Vaikhānasa branch. In the work of Prof. Calland [Caland] a description of this branch is found.
+
+## 33 [?]. Khāṇḍikīya branch
+
+In the Pāṇinian sūtra (4-3-103 [?]) there is mention of a sage named Khaṇḍika. The pupils of this sage Khaṇḍika are called Khāṇḍikīyas. The saṃhitā or brāhmaṇa of this branch has not been found so far. The word-use "Khaṇḍika" or "Paṇḍika" is found in the Maitrāyaṇī-saṃhitā (1-4-12 [?]) and in the Jaiminīya-brāhmaṇa (2-?? [?]). Since there is the epithet "Audbhāri" with the name of this person, the name of this sage's father may have been Udbhāra. Not much information has been found about this sage Khaṇḍika.
+
+In the Caraṇa-vyūha five branches or sub-divisions are said for the Khāṇḍikeya-saṃhitā.
+
+### 34–38 [?]. The five Khāṇḍikeya branches
+
+In the matter of the Khāṇḍikīya branches the text of the Caraṇa-vyūha is of two kinds. In one reading:
+
+> कालीता शाट्यायनी हिरण्यकेशी भारद्वाजी आपस्तंबी ।
+>
+> *kālītā śāṭyāyanī hiraṇyakeśī bhāradvājī āpastaṃbī |*
+>
+> "Kālītā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī, Āpastambī."
+
+and in the second reading:
+
+> आपस्तंबी बौधायनी सत्याषाढी हिरण्यकेशी औखेयी ।
+>
+> *āpastaṃbī baudhāyanī satyāṣāḍī hiraṇyakeśī aukheyī |*
+>
+> "Āpastambī, Baudhāyanī, Satyāṣāḍī, Hiraṇyakeśī, Aukheyī."
+
+That is: in the first reading the names Kālītā, Śāṭyāyanī, Hiraṇyakeśī, Bhāradvājī and Āpastambī; in the second reading Āpastambī, Baudhāyanī, Satyāṣāḍī, Hiraṇyakeśī and Aukheyī. The names Kālītā, Śāṭyāyanī and Aukheyī, which occur in these two readings, are not clear. The remaining branches, Āpastamba, Baudhāyana, Satyāṣāḍha, Hiraṇyakeśin and Bhāradvāja, are the renowned Śrauta branches; that is, for these branches there were separate Kalpa-sūtras. They are found even now.
+
+## 39 [?]. Vādhūla branch
+
+A branch specially connected with the Taittirīya branch is current in the Kerala country. This is the Vādhūla branch. The Kalpa-sūtra of this branch too has been found now.
+
+## 40–41 [?]. Kauṇḍinya and Agniveśya branches
+
+Besides the branches named above, there are two more renowned branches of the Kṛṣṇa Yajurveda, Kauṇḍinya and Agniveśya. Their names are stated in the Ānanda-saṃhitā. In that work 1?[?] sūtra… (continued on the next page)
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 138 (PDF 164). Next: p. 139 (PDF 165). Open flags: reference numerals on pp. 123–138 mostly [?]; page 138's per-prapāṭhaka table not reproduced (only the praśna counts and the printed totals).
+**Progress note (Gap A):** Translated through printed p. 142 (PDF 168). Next: p. 143 (PDF 169). Open flags: branch numbers from no. 30 onward are unreliable [?]; the tables on pp. 138–139 are not reproduced row by row.
