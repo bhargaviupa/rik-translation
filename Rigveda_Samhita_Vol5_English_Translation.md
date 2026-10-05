@@ -9075,8 +9075,94 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.13 (pp. 518–520, PDF 534–536)
+
+**Saṃhitā-pāṭha** *(p. 518)*
+
+> **अस्येदु प्र ब्रूहि पूर्व्याणि तुरस्य कर्माणि नव्य उक्थैः ।**
+> **युधे यदिष्णान आयुधान्यृघायमाणो निरिणाति शत्रून् ॥ १३ ॥**
+
+*asyed u pra brūhi pūrvyāṇi turasya karmāṇi navya ukthaiḥ |*
+*yudhe yad iṣṇāna āyudhāny ṛghāyamāṇo nirināti śatrūn || 13 ||*
+
+*(Reading note: in the print's Saṃhitā, line 2, *iṣṇānaḥ* is joined to the next word as *yad iṣṇāna āyudhāni*; the Pada has *iṣṇānaḥ | āyudhāni*.)*
+
+**Pada-pāṭha** *(p. 518)*
+
+> अस्य । इत् । ऊं इति । प्र । ब्रूहि । पूर्व्याणि । तुरस्य । कर्माणि । नव्यः । उक्थैः ।
+> युधे । यत् । इष्णानः । आयुधानि । ऋघायमाणः । निरिणाति । शत्रून् ॥ १३ ॥
+
+*asya | it | ūṃ iti | pra | brūhi | pūrvyāṇi | turasya | karmāṇi | navyaḥ | ukthaiḥ |*
+*yudhe | yat | iṣṇānaḥ | āyudhāni | ṛghāyamāṇaḥ | nirināti | śatrūn || 13 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 519)*
+
+> **उक्थैः शस्त्रैर्नव्यः स्तुत्यो य इन्द्र अस्येदु अस्यैव तुरस्य युद्धार्थं त्वरमाणस्येन्द्रस्य पूर्व्याणि पुराणानि कर्माण्येतत्कृतानि बलकर्माणि हे स्तोतः प्र ब्रूहि । प्रशंस । यद्यदा युधे योधनायायुधानि वज्रादीनीष्णान अभीक्ष्णेन प्रेरयन् शत्रूनृघायमाणो हिंसंश्चेन्द्रो निरिणाति अभिमुखं गच्छति । तदानीं प्र ब्रूहीति पूर्वेण संबन्धः । पूर्व्यमिति पुराणनामसु पाठात् ॥**
+
+*ukthaiḥ śastrair navyaḥ stutyo ya indra asyed u asyaiva turasya yuddhārthaṃ tvaramāṇasyendrasya pūrvyāṇi purāṇāni karmāṇy etatkṛtāni balakarmāṇi he stotaḥ pra brūhi | praśaṃsa | yad yadā yudhe yodhanāyāyudhāni vajrādīny iṣṇāna abhīkṣṇena prerayan śatrūn ṛghāyamāṇo hiṃsaṃś cendro nirināti abhimukhaṃ gacchati | tadānīṃ pra brūhīti pūrveṇa saṃbandhaḥ | pūrvyam iti purāṇanāmasu pāṭhāt ||*
+
+*(The grammatical tail, p. 519, characterized, not transcribed: **turasya** — *tura tvaraṇe*, the suffix *ka*; **navyaḥ** — *ṇu stutau*, *yat*, *āv* for *o*; **iṣṇānaḥ** — *iṣa ābhīkṣṇye*, *kryādi*, the middle voice by *vyatyaya*, *śānac*; **ṛghāyamāṇaḥ** — explained in the passage Ṛg 1-101-4 [?]; **nirināti** — *rī gatireṣaṇayoḥ*, *śnā*, shortening; the absence of *nighāta* because of the relative *yat* (*yadvṛttayogāt*).)*
+
+**Translation of the bhāṣya:** "*Navyaḥ*: praiseworthy by *ukthaiḥ*, the *śastras*, i.e. the Indra who is to be praised; of this same Indra, *turasya*, who hastens to battle, O singer, *pra brūhi*, proclaim, praise, the *pūrvyāṇi*, ancient, deeds — the strength-deeds done by him. *Yad*, when, *yudhe*, for fighting, *iṣṇānaḥ*, constantly sending forth the weapons, the vajra and the rest, *ṛghāyamāṇaḥ*, harming, and *nirināti*, going out against, the enemies [i.e. goes towards them]: then, *pra brūhi* is connected with the preceding. *Pūrvya* ['old'] is read among the names for 'old'."
+
+**Pratipadārtha** *(p. 519)* — "(O singer;) **yat** — when; **yudhe** — in battle; **āyudhāni** — the weapons such as the vajra; **iṣṇānaḥ** — constantly employing; **śatrūn** — enemies; **ṛghāyamāṇaḥ** — harming and destroying; **nirināti** — falls on them [then]; **ukthaiḥ** — with hymns in the form of *śastra*; **navyaḥ** — which Indra is worthy of praise; **asyedu turasya** — of this very Indra, who hastens [to battle]; **pūrvyāṇi** — the former; **karmāṇi** — the deeds of valour; **pra brūhi** — praise well."
+
+**Bhāvārtha** *(p. 519)* — "O singer, praise well the former heroic deeds of that Indra, worthy of praise through the hymns that are *śastras* and quick to go to battle, when he, wielding weapons such as the vajra, falls on the enemies in battle, harming and destroying them."
+
+**English Translation (the source's own, p. 519)** — "Describe, with new hymns, the former exploits of that quick-moving Indra, when holding his weapons in battle, he encounters and destroys his enemies."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 519–520** — **navyaḥ**: "praiseworthy." **asyedu** — *asya + it + u*: "the *it* and the *u* here give the sense *eva* ('indeed')." **turasya**: "of that Indra who hastens for battle." **pūrvyāṇi** — *purāṇāni*: "'*pūrvyam ahnāya*' (Ni. 3-2 [?]): the Nirukta writers read this word among the words for 'old' (*purāṇa*)." **ṛghāyamāṇaḥ**: "one who harms enemies (Indra): *nahi tvā rodasī ubhe ṛghāyamāṇam invataḥ* (Ṛg 1-101-4 [?]) — in this mantra the sense of the word is specially explained."
+
+**Vyākaraṇa-prakriyā** *(p. 520 — noted briefly)* — *Grammar page, noted briefly.* **brūhi**: *brūñ vyaktāyāṃ vāci*; *loṭ* second singular; the ending *hi* is *apit*, hence *ṅit*, so no *guṇa* (as the print says); *nighāta*. **turasya**: *tura tvaraṇe*; *igupadhajñāprīkirakaḥ kaḥ* (Pā. 3-1-135 as read [?]): *ka*; being *kit*, no *laghūpadha-guṇa*; end-acute by the suffix; genitive singular. **navyaḥ**: *ṇu stutau*; since it ends in a vowel, *aco yat* (Pā. 3-1-97 as read [?]): *yat*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; since the *o* arises from the *yat* suffix, *dhātos tannimittasyaiva* (Pā. 6-1-80 as read [?]): *āv*; *yato 'nāvaḥ*: initial acute. **yudhe**: *yudha saṃprahāre*; *kvip*; dative; *sāvekācas tṛtīyādiḥ*: acute on the ending. **iṣṇānaḥ**: *iṣa ābhīkṣṇye*; *kryādi*; *vyatyayo bahulam*: middle voice; *śānac*; *kryādibhyaḥ śnā*: *śnā*; *sārvadhātukam apit* is *ṅit*, so no *laghūpadha-guṇa*; *ṇatva* for the *n* by the *ṣ*; *citaḥ*: end-acute. **ṛghāyamāṇaḥ**: explained at Ṛg 1-101-4 [?]. **nirināti**: *rī gatireṣaṇayoḥ*; *kryādi*; *laṭ* third singular *tip*; *kryādibhyaḥ śnā*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80 as read [?]): shortening; *ṇatva* of the *n* of the *vikaraṇa* (*raṣābhyāṃ…*); *tip* is *pit* and unaccented, so the accent of the *vikaraṇa* remains; because of the *yad* word, no *nighāta*; since a verb with the acute follows, the preposition *nir* is accented by *tiṅ codāttavati* (Pā. 8-1-71 as read [?]).
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.12 written (through p. 518, upper part = PDF 534).**
+### Rik 61.14 (pp. 521–523, PDF 537–539)
 
-**Next task:** Rik 61.13 begins in the lower half of p. 518 (PDF 534; Saṃhitā and Pada already viewed, NOT yet written: re-view PDF 534 and continue on PDF 535 …); then Riks 61.14–61.16 (the Pariśiṣṭa begins at printed p. 531 = PDF 547); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.12 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; 61.12 Nirukta numerals (6-10 / 6-30) [?], Saṃhitā *tiraścēṣyan* reading note; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
+**Saṃhitā-pāṭha** *(p. 521)*
+
+> **अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते ।**
+> **उपो वेनस्य जोगुवान ओणिं सद्यो भुवद्वीर्याय नोधाः ॥ १४ ॥**
+
+*asyed u bhiyā girayaś ca dṛḷhā dyāvā ca bhūmā januṣas tujete |*
+*upo venasya joguvāna oṇiṃ sadyo bhuvad vīryāya nodhāḥ || 14 ||*
+
+**Pada-pāṭha** *(p. 521)*
+
+> अस्य । इत् । ऊं इति । भिया । गिरयः । च । दृळ्हाः । द्यावा । च । भूम । जनुषः । तुजेते इति ।
+> उपो इति । वेनस्य । जोगुवानः । ओणिम् । सद्यः । भुवत् । वीर्याय । नोधाः ॥ १४ ॥
+
+*asya | it | ūṃ iti | bhiyā | girayaḥ | ca | dṛḷhāḥ | dyāvā | ca | bhūma | januṣaḥ | tujete iti |*
+*upo iti | venasya | joguvānaḥ | oṇim | sadyaḥ | bhuvat | vīryāya | nodhāḥ || 14 ||*
+
+*(Reading note: the Saṃhitā has *bhūmā*, the Pada *bhūma*; the grammar page explains the Saṃhitā form with *ā* and the position of *ca* between *dyāvā* and *bhūmā*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 521)*
+
+> **अस्यैवेन्द्रस्य भियो भयेनेत्यर्थः । गिरयः पर्वता अपि दृळ्हाः । निश्चलाः स्वस्वदेशेऽवतिष्ठन्ते । जनुषः प्रादुर्भूतादस्मादेवेन्द्राद्भीत्या द्यावा च भूमा च द्यावापृथिव्यावपि तुजेते । तुजिर्हिंसार्थोऽस्यत्र कंपने द्रष्टव्यः । कंपेते इत्यर्थः । किंच वेनस्य कान्तस्यास्येन्द्रस्योणिं दुःखस्यापनयनकं रक्षणमुपो जोगुवानोऽनेकैः सूक्तैः पुनः पुनरुपशब्दयन् । उपश्लोकयन्नित्यर्थः । एवंभूतो नोधा ऋषिः सद्यस्तदानीमेव वीर्याय भुवत् । वीर्यवानभवत् ॥**
+
+*asyaivendrasya bhiyo bhayenety arthaḥ | girayaḥ parvatā api dṛḷhāḥ | niścalāḥ svasvadeśe 'vatiṣṭhante | januṣaḥ prādurbhūtād asmād evendrād bhītyā dyāvā ca bhūmā ca dyāvāpṛthivyāv api tujete | tujir hiṃsārtho 'syatra kaṃpane draṣṭavyaḥ | kaṃpete ity arthaḥ | kiṃca venasya kāntasyāsyendrasyoṇiṃ duḥkhasyāpanayanakaṃ rakṣaṇam upo joguvāno 'nekaiḥ sūktaiḥ punaḥ punar upaśabdayan | upaślokayann ity arthaḥ | evaṃbhūto nodhā ṛṣiḥ sadyas tadānīm eva vīryāya bhuvat | vīryavān abhavat ||*
+
+*(The grammatical tail, p. 521 foot, characterized, not transcribed: **dyāvā ca bhūmā** (*divo dyāvā*, *ḍā* for the dual, both members keeping their accents); **januṣaḥ** (*janer usiḥ*, an Uṇādi suffix); **joguvānaḥ** (*guja avyakte śabde*, *yaṅluk*, *śānac*, *uvaṅ*); **oṇim** (*oṇṛ apanayane*, the Uṇādi *i*); **bhuvat** (*leṭ*, *aṭ*, no *guṇa*); **nodhāḥ** (Yāska: "*nodhā ṛṣir bhavati navanaṃ dadhātīti*", Ni. 4-16 [?]; *dhāñ*, *asun*, *nava* → *no*).)*
+
+**Translation of the bhāṣya:** "*Asyed u bhiyā*: through fear of this very Indra, *girayaḥ*, even the mountains, *dṛḷhāḥ*, stand firm, motionless, each in its own place. *Januṣaḥ*: from this very Indra who has appeared (been born), out of fear, *dyāvā ca bhūmā ca*, heaven and earth too, *tujete*. The root *tuj*, which means 'to harm', is to be taken here in the sense of 'trembling': the two tremble. Further, *oṇim*, the protection that removes the sorrow of this *venasya*, beloved Indra, *upo joguvānaḥ*, sounding it again and again with many hymns — praising it — such is the sense. Such a one, the seer Nodhas, *sadyaḥ*, at once, *vīryāya bhuvat*, became strong."
+
+**Pratipadārtha** *(p. 522)* — "**asyedu** — of this very Indra; **bhiyā** — from fear (of him who cuts the wings [of the mountains]); **girayaś ca** — the mountains too; **dṛḷhāḥ** — stand firm without moving; **januṣaḥ** — [from fear] of this Indra who has appeared; **dyāvā bhūmā ca** — both heaven and earth; **tujete** — tremble; **venasya** — of the beloved Indra; **oṇim** — the protection that removes sorrow; **upo joguvānaḥ** — [with hymns] praising at every step; **nodhāḥ** — the seer Nodhas; **sadyaḥ** — at once; **vīryāya bhuvat** — became capable of valour."
+
+**Bhāvārtha** *(p. 522)* — "From fear of Indra the mountains stand firm, without moving; from fear of him heaven and earth too tremble. The seer Nodhas, praising step by step, with excellent hymns, the sorrow-removing protection of the beloved Indra, at once became exceedingly strong."
+
+**English Translation (the source's own, p. 522)** — "Though fear of him, the mountains remain still ; and through fear of his appearance, heaven and earth tremble ; praising repeatedly with hymns the preserving power of that beloved Indra, Nodhas speedily acquired vigour."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 522** — **januṣaḥ** — *janī prādurbhāve*: "from the state of Indra who has manifested himself." **tujete**: "though the root *tuj* has the sense of harming, here the sense 'trembling' must be said: heaven and earth shake from fear of Indra's appearance." **venasya** — *kāntasya*: "of the charming (Indra)." **joguvānaḥ** — *guja avyakte śabde*: "one who makes an indistinct sound at every step." **nodhāḥ**: "the meaning of this word is 'seer'. In the Ṛg-saṃhitā: '*ūvū adarśi śundhyavo navakṣo nodhā ivāvir akṛta priyāṇi*' (as read, the Ṛg numeral illegible [?]) — here too the word *nodhas* is explained as 'seer' (my gloss, tentative: 'as [a seer like] Nodhas makes his dear things manifest' — the reading of the verse is uncertain). The Nirukta explanations — '*nodhā iva āvir akṛta priyāṇi*', '*nodhā ṛṣir bhavati navanaṃ dadhāti*' and the like — also give 'seer' as its meaning."
+
+**Vyākaraṇa-prakriyā** *(pp. 522–523 — noted briefly)* — *Grammar pages, noted briefly.* **bhiyā**: instrumental singular; *sāvekācas tṛtīyādiḥ*: acute on the ending. **dyāvā ca bhūmā**: the word *dyāvābhūmī*; the *ca* is read between the two words as a Vedic arrangement; *divo dyāvā* (Pā. 6-3-29 as read [?]): *dyāvā* in place of *div*; *supāṃ suluk*: *ḍā* for the dual ending; *ḍit*: loss of the *ṭi*; *devatādvandve ca* (Pā. 6-2-141 as read [?]): both members keep their own accent; both forms are traditional. **januṣaḥ**: *janī prādurbhāve*; *janer usiḥ* (Uṇ. 2-[?] as read [?]): the *Aunādika* suffix *usi*; *janus*; ablative singular; acute on *u* by the suffix. **joguvānaḥ**: *guja avyakte śabde*; *yaṅ* in the intensive sense; *yañoś ca*: its loss (*luk*); though a *parasmaipada* root, *vyatyayo bahulam*: *śānac*; as *yaṅluganta* roots are read in the *adādi* class (*carkarītaṃ ca*), *adiprabhṛtibhyaḥ śapaḥ*: loss of *śap*; because of *yaṅ*, doubling; *guṇo yaṅluṅkoḥ* (Pā. 7-4-82 as read [?]): *guṇa* of the reduplicative vowel; *joguv + āna*: *aci śnudhātubhruvāṃ…*: *uvaṅ*; *abhyastānām ādiḥ*: initial acute. **oṇim**: *oṇṛ apanayane*; the *Aunādika* *i*; end-acute by the suffix. **bhuvat**: *bhū sattāyām*; *leṭ*, third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88 as read [?]): no *guṇa* of the root; *uvaṅ*; *tiṅ atiṅaḥ*: *nighāta*. **nodhāḥ**: Yāska as above; *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *asun*, which arises on every root; "he holds newness" so *nava* → *no*; *nodhas*; *gatikārakopapadāt kṛt*: the first member's accent; nominative: *atvasantasya cādhātoḥ*: lengthening of the penultimate; *hal-ṅyābbhyo…*: loss of *su*; *rutva*, *visarga*.
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.14 written (through p. 523, upper part = PDF 539).**
+
+**Next task:** Rik 61.15 begins in the lower half of p. 523 (PDF 539; Saṃhitā "asmā id u tyad anu dāyy eṣām…" already viewed, NOT yet written: re-view PDF 539 and continue on PDF 540 …); then Rik 61.16 (the Pariśiṣṭa begins at printed p. 531 = PDF 547); then close of Sūkta 61 (printed line if any) and, since this is the last sūkta of Volume 5, any closing colophon; then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.14 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; 61.12 Nirukta numerals [?], Saṃhitā *tiraścēṣyan* reading note; 61.13 Ṛg 1-101-4 and Ni. 3-2 [?]; 61.14 the Ṛg quotation for *nodhāḥ* (*ūvū adarśi…*) uncertain [?], Uṇādi and Nirukta numerals [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
