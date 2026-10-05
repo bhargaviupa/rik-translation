@@ -4829,6 +4829,172 @@ He has said [so]. That is: because the ṛks beginning with "*pra va indrāya*" 
 
 His commentary on the Sāmaveda is still not printed. Copies of it are at Tanjore, Madras, Mysore, Baroda and Lahore. At the beginning of the commentary there are these verses (continued on the next page).
 
+### Page 281
+
+> नत्वा नारायणं तातं तत्प्रसादादवाप्तधीः ।
+> साम्नां श्रीभरतस्वामी काश्यपो व्याकरोत्यृचम् ॥
+> होसलाधीश्वरे पृथ्वीं रामनाथे प्रशासति ।
+> व्याख्या कृतेयं क्षेमेण श्रीरंगे वसता मया ॥
+>
+> *natvā nārāyaṇaṃ tātaṃ tatprasādād avāptadhīḥ |*
+> *sāmnāṃ śrībharatasvāmī kāśyapo vyākarotyṛcam ||*
+> *hosalādhīśvare pṛthvīṃ rāmanāthe praśāsati |*
+> *vyākhyā kṛteyaṃ kṣemeṇa śrīraṃge vasatā mayā ||*
+>
+> "Having bowed to Nārāyaṇa, my father, by whose grace I obtained [my] understanding, I, Bharatasvāmī, of the Kāśyapa [gotra], expound the ṛk of the Sāmans. While Rāmanātha, lord of the Hosala [Hoysala], governed the earth, this exposition was made by me, dwelling at Śrīraṅga, in peace."
+
+At the end this verse is found —
+
+> इत्थं श्रीभरतस्वामी काश्यपो यज्ञदासुतः ।
+> नारायणार्यतनयो व्याख्यात्साम्नामृचोऽखिलाः ॥
+>
+> *itthaṃ śrībharatasvāmī kāśyapo yajñadāsutaḥ |*
+> *nārāyaṇāryatanayo vyākhyāt sāmnām ṛco 'khilāḥ ||*
+>
+> "Thus Bharatasvāmī, of the Kāśyapa [gotra], son of Yajñadā, son of the noble Nārāyaṇa, expounded all the ṛks of the Sāmans."
+
+From these verses it is learnt that his father was Nārāyaṇa, his mother Yajñadā, his place of residence Śrīraṅga, his gotra Kāśyapa, and the time that of Rāmanātha, the Hosala king. As Burnell's [as printed "Barnal"] history of him tells, this Hosala king was ruling in C.E. 12[5?]8–129[6?] [digits uncertain]. Therefore it can be said that he was living in about 1270 C.E.
+
+Bharatasvāmī's commentary is very brief. It has been of great help to his commentary from Mādhava's commentary. Many sentences quoted from the Aitareya Brāhmaṇa and the Āśvalāyana Sūtra are seen here.
+
+### 3. Sāyaṇa
+
+(time C.E. 1315–1387 [?])
+
+The Sāmaveda commentary also was made in the very time in which the commentaries on the Taittirīya Saṃhitā and the Ṛgveda were made. At the beginning of the Sāma commentary there is an extensive introduction. In it he has discussed many matters connected with the Sāmans. In some places, leaving the Sāma text, he has done the exposition taking the Ṛgveda text. Such places of difference of text have been pointed out by Satyavrata Sāmaśramī in the edition of the Sāmaveda commentary that he published. A verse-form *anukramaṇī* for knowing the ṛṣi, deity and so on has been quoted.
+
+Sāyaṇācārya has put forward the view that the Āraṇyaka-saṃhitā is also included in the Chandas-saṃhitā. This is an opinion contrary to Mādhava the author of the *Vivaraṇa* and to the Sāma traditions.
+
+> योऽयं छन्दोनामकः संहिताग्रन्थः सोऽयमारण्य-
+> केनाध्यायेन षट्संख्यापूरकेन सह षड्भिरध्यायै-
+> रुपेतः ।
+>
+> *yo 'yaṃ chandonāmakaḥ saṃhitāgranthaḥ so 'yam āraṇyakenādhyāyena ṣaṭsaṃkhyāpūrakena saha ṣaḍbhir adhyāyair upetaḥ |*
+>
+> "This Saṃhitā-work named Chandas is furnished with six adhyāyas together with the Āraṇyaka adhyāya, which completes the number six." (Translation mine and tentative; this is as the print reads.)
+
+This is the sentence at the beginning of the commentary. He has written that the sixth adhyāya at the end of the Chandārcika is the Āraṇya-saṃhitā. This is an opinion contrary to the others.
+
+### 4. Sūryadaivajña
+
+(C.E. 1?[?]? approximately)
+
+His introduction was given before. In telling of the matter of Rāvaṇa, the commentator on the Ṛgveda, his matter was also brought up. That he composed a commentary on the Sāmaveda also is learnt from these sentences of his *Gītā-bhāṣya* —
+
+### Page 282
+
+> अथ वामदेवस्य साम्नः प्रवृत्तिरापस्तम्बशाखायां—विश्वेभि-
+> र्देव्यः [?] पृतना जयामि जागतेन छन्दसा सप्तदशेन स्तो-
+> मेन वामदेव्येन साम्ना वषट्कारेण वज्रेण इति । अत्र
+> सामगायने स्तोभस्तोमादिलक्षणमस्माभिः सामभाष्ये
+> प्रोक्तम् ॥
+>
+> *atha vāmadevasya sāmnaḥ pravṛttir āpastambaśākhāyāṃ—viśvebhir devyaḥ [?] pṛtanā jayāmi jāgatena chandasā saptadaśena stomena vāmadevyena sāmnā vaṣaṭkāreṇa vajreṇa iti | atra sāmagāyane stobhastomādilakṣaṇam asmābhiḥ sāmabhāṣye proktam ||*
+>
+> "Now the application of the Vāmadevya Sāman in the Āpastamba branch: 'With all [the gods ?] I conquer the hosts, with the Jagatī metre, with the seventeenfold stoma, with the Vāmadevya Sāman, with the *vaṣaṭ*-call, with the thunderbolt' — thus. Here, in the singing of the Sāman, the characteristics of the *stobha*, *stoma* and the rest have been stated by us in the Sāma-bhāṣya." (The words *viśvebhir devyaḥ* are as printed; translation mine and tentative.)
+
+The characteristics of the singing of the Sāman, the *stobha* and the rest, have been told in the Sāma-bhāṣya. We shall give an example from his Sāma-commentary.
+
+> कया नश्चित्र आभुवदूती सदा वृधः सखा ।
+> कया शचिष्ठया वृता ॥
+>
+> *kayā naś citra ābhuvad ūtī sadā vṛdhaḥ sakhā |*
+> *kayā śaciṣṭhayā vṛtā ||*
+>
+> "By what help would the wonderful, ever-growing friend [of ours] be [here] for us? By what most powerful…?"
+
+Commentary: —
+
+> वामदेवः वृधः सदा सदा वर्धमानः समष्टिरूपः परमात्मा
+> चित्रश्चायनीयः पूजनीयः यद्वा विचित्रकृतिमयः सखा
+> मित्रभूतः परमात्मा केयो [sic] ऊती ऊत्या सन्तर्पणेन
+> कर्मणा वा नः अस्मान् आभुवत् अभिमुख्येनाभवत् ।
+> अनुभवगोचरोऽभवत् ॥
+>
+> *vāmadevaḥ vṛdhaḥ sadā sadā vardhamānaḥ samaṣṭirūpaḥ paramātmā citraś cāyanīyaḥ pūjanīyaḥ yadvā vicitrakṛtimayaḥ sakhā mitrabhūtaḥ paramātmā keyo [sic] ūtī ūtyā santarpaṇena karmaṇā vā naḥ asmān ābhuvat abhimukhyenābhavat | anubhavagocaro 'bhavat ||*
+>
+> "*Vāmadeva*; *vṛdhaḥ* — ever, ever increasing, the Supreme Self in the form of the totality; *citra* — worthy to be honoured, worshipful; or consisting of manifold creations; *sakhā* — the Supreme Self who has become a friend; … by help (*ūti*), by satisfying, or by action, *ābhuvat*, was before [us], facing [us]; became the object of experience." (Translation mine and tentative; the word "*keyo*" is as printed.)
+
+Sūryapaṇḍita in the *Gītā-bhāṣya* quotes many works connected with the Sāmaveda and also mantras. The Sāma tradition was well known to him. For him Rāvaṇa's commentary had special esteem. At the end of the *Gītā-bhāṣya* this is made manifest.
+
+> विदित्वा वेदार्थं दशवदनवाणीपरिणतं
+> शतश्लोकव्याख्यां [?] परमरमणीयामकरवम् ।
+> ततो गीताभाष्यं निखिलनिगमार्थैकनिलयं
+> विधिज्ञार्यः सूर्यो नृहरिकरुणापाङ्गशरणः ॥ ६ [?] ॥
+>
+> *viditvā vedārthaṃ daśavadanavāṇīpariṇataṃ śataślokavyākhyāṃ [?] paramaramaṇīyām akaravam |*
+> *tato gītābhāṣyaṃ nikhilanigamārthaikanilayaṃ vidhijñāryaḥ sūryo nṛharikaruṇāpāṅgaśaraṇaḥ || 6 [?] ||*
+
+(As printed; the first two lines are doubtful. No translation is given by the source beyond the following gloss.)
+
+That is: having learnt the meaning of the Veda from Rāvaṇa's work, … I composed the *Gītā-bhāṣya*.
+
+In the Sāma-commentary he must have mostly given the spiritual (*ādhyātmika*) meaning, because in all the Sāmans that are quoted in the *Gītā-bhāṣya* an exposition of the spiritual kind is seen.
+
+### 5. Mahāsvāmī
+
+(the 17th century [as printed in the heading])
+
+In the catalogue written by Aufrecht [printed "Āparṭ"] there is the name of a Sāma commentary composed by Mahāsvāmī.
+
+A commentary called *Bhāṣika-sūtra* composed by one Mahāsvāmī has been found. Anantācārya, the commentator on the Kāṇva-saṃhitā, has composed a *Bhāṣika-sūtra* commentary too. It may be said that Anantācārya's commentary is a copy (*pratīka*) of Mahāsvāmī's commentary. That is: Mahāsvāmī may be said to be earlier than 300 years ago. If this Mahāsvāmī and the commentator on the Sāmaveda are one and the same, then he too may be said to be earlier than 300 years ago.
+
+Besides this, no other evidence has been found concerning him.
+
+### Page 283
+
+### 6. Śobhākara Bhaṭṭa
+
+(before C.E. 1?70 [?])
+
+He composed a work called *Āraṇyaka-vivaraṇa*. Its copies are in many places. At the beginning of this work this verse is found —
+
+> वेदाख्यगानव्याख्यानं सम्यगेतत्कृतं मया ।
+> आरण्यगानव्याख्यानं तथैवाथ विभाव्यते ॥
+>
+> *vedākhyagānavyākhyānaṃ samyag etat kṛtaṃ mayā |*
+> *āraṇyagānavyākhyānaṃ tathaivātha vibhāvyate ||*
+>
+> "This exposition of the Gāna called Veda [= Veya-gāna] has been properly made by me; likewise now the exposition of the Āraṇya-gāna is being thought out."
+
+From this verse only this much is learnt: before composing the *Āraṇya-vivaraṇa* he had composed another commentary.
+
+His work called *Nāradīya-śikṣā-vivaraṇa* is also there. Since some parts of this work are quoted in the Bharata commentary, one must call this an ancient work. This work appears to have been written following the portion on Śikṣā belonging to the Sāmaveda in the Nāradīya Purāṇa.
+
+The original of the copy at Pune is of C.E. 1?70 [?]. Therefore he may be said to be earlier than 1?70 [?].
+
+Nothing more has so far become known about him.
+
+### 7. Guṇaviṣṇu
+
+(the last part of the 12th century C.E.)
+
+The *Chāndogya-mantra-bhāṣya* is a work composed by him. It has been published by Durgāmohana Bhaṭṭācārya at Calcutta. These matters are clear from its introduction.
+
+This commentary follows the Kauthuma branch. Some mantras are in this text; some are not. Probably these mantras are from some other text, now lost.
+
+> हलायुधेन यो काण्वो कौथुमो गुणविष्णुना ।
+> ख्याता न मन्त्रा व्याख्यातास्तान्व्याख्यातुमिहोद्यमः ॥
+>
+> *halāyudhena yo kāṇvo kauthumo guṇaviṣṇunā |*
+> *khyātā na mantrā vyākhyātās tān vyākhyātum ihodyamaḥ ||*
+>
+> (As printed; the verse is not securely intelligible and the source gives no translation beyond the sentence that follows.)
+
+Since it is thus said, Halāyudha, Sāyaṇa and others have quoted sentences of Guṇaviṣṇu's work. Guṇaviṣṇu was a scholar in the courts of the Mahārāja Ballāḷasena and Lakṣmaṇasena. Therefore he can be said to have been in the last part of the 12th century C.E.
+
+After the commentary of the 6th [?] khaṇḍa, he has made the commentary on the first ṛks of the four Vedas. His commentary is very easy. As an example, one mantra is given here —
+
+> शं नो देवीरभिष्टये [sic: *abhiṣṭaye*] शं नो भवन्तु पीतये [sic] ।
+> शं योरभिस्रवन्तु नः ॥
+>
+> *śaṃ no devīr abhiṣṭaye śaṃ no bhavantu pītaye |*
+> *śaṃ yor abhisravantu naḥ ||*
+>
+> (As printed — the first line differs from the usual reading "*śaṃ no devīr abhiṣṭaya āpo bhavantu pītaye*"; this is the Atharvaveda's first mantra; the print's reading is reproduced and noted [sic].)
+
+(the page ends here; the earlier draft resumes from printed p. 284.)
+
 ---
 
-**Progress note (Gap C):** Translated printed pp. 261–280 (PDF 287–306). Next: p. 281 (PDF 307), the verses at the beginning of Bharatasvāmī's Sāmaveda commentary. Open flags: Sāyaṇa's dates and several manuscript/folio numerals [?]; the Śatrughna verse is unclear.
+**Progress note (Gap C):** COMPLETE — printed pp. 261–283 (PDF 287–309) are translated. Gap A and Gap B are complete. Next: Gap D (printed pp. 288–295, PDF 314–321).
