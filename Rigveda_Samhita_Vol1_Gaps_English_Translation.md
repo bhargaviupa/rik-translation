@@ -2069,6 +2069,169 @@ Jaimini, who had studied the Sāmaveda from Vyāsa, taught it to his son Sumantu
 
 It cannot be firmly said that the description of the Sāma-saṃhitā-makers in the Vāyu and Brahmāṇḍa Purāṇas is pure. In such matters it is difficult to learn the true names of many Sāma-ṛṣis. A description of the Sāmagas has been made from the materials of study that we now have. It is not said that it is free of faults and errors. Still, the matters will be examined as far as possible.
 
+### Page 147
+
+Among Pauṣpaṃji's pupils there were four propagators of saṃhitās. Their names are Laugākṣi, Kuthumi, Kuṣīdi and Lāṅgali. Of these, Laugākṣi had five pupils: Rāṇāyani, Tāṇḍya, Anoveṇa or Mūlacārī, Sakyaiputra [as printed] and Sātyamugra. According to the Brahmāṇḍa Purāṇa he had six pupils. The sixth pupil's name is Sunāmā; this name Sunāmā may be wrong.
+
+### Susāmā, a Sāma-singer of the Mahābhārata period
+
+In the Sabhā-parvan (4?-?? [?]), at Yudhiṣṭhira's Rājasūya sacrifice, Dhanañjaya, Ṛṣabha and Susāmā were singing the Sāmans. In the Lāṭyāyana and Drāhyāyaṇa Śrauta-sūtras the expression "*iti dhānaṃjayyaḥ*" [as printed] is found. Who is this Dhanañjaya? There is a doubt whether he is the same Dhanañjaya spoken of in the Mahābhārata, or whether the names Dhanañjaya and Susāmā relate to one person. It cannot be said with certainty that it is just so.
+
+### Kuthumi's three sons
+
+Kuthumi's three sons Aurasa, Parāśara and Bhāgavitti were pupils of Pauṣpaṃji. Among them the name of Bhāgavitti is quoted in the Bṛhadāraṇyaka Upaniṣad (6-?-? [?]). All these were followers of the Kauthuma branch. Aurasa or Bhāgavitti had two pupils, Śaurdya and Śṛṅgiputra. Rāṇāyani and Saumitri were their friends. Śṛṅgiputra was the propagator of three saṃhitās. Pupils called Jaila, Prācīnayogya and Surāla studied them. In the Chāndogya Upaniṣad (3?-13?-1 [?]) Satyayajña Pauluṣi is addressed with the word Prācīnayogya. In the Jaiminīya Brāhmaṇa (2-?? [?]) the name of Somaśuṣma, son of Sātyayajña or Satyayajña, is mentioned. Him too the text addresses with the word Prācīnayogya.
+
+Pārāśarya and Kauthuma were propagators of six saṃhitās. Pupils called Āsurāyaṇa, Vaiśākhya and Pataṃjali, son of Prācīnayogya, studied them. The other two names are now lost. This Pataṃjali himself may have composed the Nidāna-sūtra. At the beginning of the Chāndogya-śrauta-prayoga-pradīpikā, one residing at Tālavṛnta writes:
+
+> द्राह्यायणीय-पातंजल-वारुरुज-नूशकानुपसंगृह्य ।
+>
+> *drāhyāyaṇīya-pātaṃjala-vārurūja-nūśakān upasaṃgṛhya |*
+>
+> "…having included the Drāhyāyaṇīya, Pātañjala, Vārurūja and Nūśaka [works]…"
+
+(The words are as read from the print; the last two names are doubtful and the quotation is not translated by the source.)
+
+His intention, if it does not agree with Pātañjala's Nidāna-sūtra, must refer to another work, a Pātañjala Śrauta-sūtra.
+
+Lāṅgali and Śāliholra also were each propagators of six saṃhitās. Whether Śāliholra and Kuṣīdī are one person or the names of different persons is worth inquiry. Lāṅgali had six pupils: Bhāllavi, Kāmahāni, Jaimini, Lomagāyani, Kaṇḍu and Kaholā. All of them are called Lāṅgalas.
+
+### Page 148
+
+## Hiraṇyanābha Kausalya, the eastern Sāmaga
+
+Sukarma's second pupil was Hiraṇyanābha, the king of Kosala. There is a mention in the Praśna Upaniṣad (6-1) of the incident of Hiraṇyanābha Kausalya coming to him, which Sukeśa Bhāradvāja told to Pippalāda. Since this Hiraṇyanābha Kausalya is understood to have lived in the Bhārata period, it can be said that he was the Sāma-saṃhitā-maker. Since matters told in the Purāṇas are contradictory of one another in many contexts, nothing can be said firmly in this matter.
+
+## Kṛta
+
+Hiraṇyanābha's pupil was the prince Kṛta. In the Viṣṇu Purāṇa (4-19-? [?]) this Kṛta is said to be the son of Sannatimān of the family of Dvijamīḍha [as read]. There is a Pāṇinian sūtra concerning Kṛta: "kārtakaujapādayaś ca" (6-2-37 [?]). This Kṛta had 24 [?] pupils who were propagators of saṃhitās. Their names are told in the Vāyu and Brahmāṇḍa Purāṇas:
+
+**Vāyu Purāṇa:** राडः — राडवीयः — पंचमः — वाहनः — तलकः — मांडुकः — कालिकः — राजकः — गौतमः — अजबस्त्य — सोमराजायनः — पुष्टिः — परिकृष्टः — उलूखलकः — यवीयसः — वैशालः — अंगुलीयः — कौशिकः — सालिमंजरी — सत्यः — कापीयः — कानिकः — पराशरः ।
+
+*rāḍaḥ — rāḍavīyaḥ — paṃcamaḥ — vāhanaḥ — talakaḥ — māṃḍukaḥ — kālikaḥ — rājakaḥ — gautamaḥ — ajabastya — somarājāyanaḥ — puṣṭiḥ — parikṛṣṭaḥ — ulūkhalakaḥ — yavīyasaḥ — vaiśālaḥ — aṃgulīyaḥ — kauśikaḥ — sālimaṃjarī — satyaḥ — kāpīyaḥ — kānikaḥ — parāśaraḥ |*
+
+**Brahmāṇḍa Purāṇa:** राडिः — महावीर्यः — पंचमः — वाहनः — तालकः — पांडकः — कालिकः — राजकः — गौतमः — अजबस्त्य — सोमराजा — पृष्पष्ठिः [?] — परिकृष्ट्वः [?] — उलूखलकः — यवीयसः — वैशाली — अंगुलीयः — कौशिकः — शालिमंजरि — पाकः — शधीयः — कानिनः — पाराशर्याः ।
+
+*rāḍiḥ — mahāvīryaḥ — paṃcamaḥ — vāhanaḥ — tālakaḥ — pāṃḍakaḥ — kālikaḥ — rājakaḥ — gautamaḥ — ajabastya — somarājā — pṛṣpaṣṭhiḥ [?] — parikṛṣṭvaḥ [?] — ulūkhalakaḥ — yavīyasaḥ — vaiśālī — aṃgulīyaḥ — kauśikaḥ — śālimaṃjari — pākaḥ — śadhīyaḥ — kāninaḥ — pārāśaryāḥ |*
+
+(Both lists are transcribed as printed; some names in the second list are doubtful.)
+
+In both these Purāṇas there are only 23 [?] names. Which the other name is, is not known. It cannot be said that everything in these names is correct. Of the Sāma-saṃhitā-makers it can only be said that Pauṣpaṃji and Kṛta were the chief.
+
+In one reading of the Caraṇa-vyūha seven sub-divisions are said for the Rāṇāyanīya:
+
+> राणायनीयाः । सात्यमुप्राः । कापोलाः । महाकापोलाः । लांगलायनाः । शार्दूलाः । कौथुमाश्चेति ॥
+>
+> *rāṇāyanīyāḥ | sātyamuprāḥ | kāpolāḥ | mahākāpolāḥ | lāṃgalāyanāḥ | śārdūlāḥ | kauthumāś ceti ||*
+>
+> "The Rāṇāyanīyas, the Sātyamugras [as printed: sātyamuprāḥ], the Kāpolas, the Mahākāpolas, the Lāṅgalāyanas, the Śārdūlas and the Kauthumas."
+
+According to another reading:
+
+> राणायनीयाः । शाट्यायनीयाः । सात्यमुग्राः । खल्वलाः । महाखल्वलाः । लांगलाः । कौथुमाः । गौतमाः । जैमिनीयाश्चेति ॥
+>
+> *rāṇāyanīyāḥ | śāṭyāyanīyāḥ | sātyamugrāḥ | khalvalāḥ | mahākhalvalāḥ | lāṃgalāḥ | kauthumāḥ | gautamāḥ | jaiminīyāś ceti ||*
+>
+> "The Rāṇāyanīyas, the Śāṭyāyanīyas, the Sātyamugras, the Khalvalas, the Mahākhalvalas, the Lāṅgalas, the Kauthumas, the Gautamas and the Jaiminīyas."
+
+It is seen that there are nine sub-divisions. In the Kauthuma branch in the first reading:
+
+> आसुरायणाः । वातायनाः । प्रांजलिद्वैर्नभृताः [?] । कौथुमाः । प्राचीनयोग्याः । नैगेयाश्चेति ॥
+>
+> *āsurāyaṇāḥ | vātāyanāḥ | prāṃjalidvairnabhṛtāḥ [?] | kauthumāḥ | prācīnayogyāḥ | naigeyāś ceti ||*
+>
+> "The Āsurāyaṇas, the Vātāyanas, the Prāṃjali-Dvairnabhṛtas [?], the Kauthumas, the Prācīnayogyas and the Naigeyas."
+
+(seven divisions are said); and in the second reading:
+
+### Page 149
+
+> आसुरायणीयाः । वासुरायणीयाः । वार्तांतरेयाः ।
+> प्रांजलाः । ऋग्वैनविधाः । प्राचीनयोग्याः । राणायनीयाश्चेति ॥
+>
+> *āsurāyaṇīyāḥ | vāsurāyaṇīyāḥ | vārtāṃtareyāḥ | prāṃjalāḥ | ṛgvainavidhāḥ | prācīnayogyāḥ | rāṇāyanīyāś ceti ||*
+>
+> "The Āsurāyaṇīyas, the Vāsurāyaṇīyas, the Vārtāntareyas, the Prāṃjalas, the Ṛgvainavidhas, the Prācīnayogyas and the Rāṇāyanīyas."
+
+seven sub-divisions are said. Among the many Sāma branches only the names found in the Purāṇas are known. Of these branches too, only for some are works found. They will be examined in some detail.
+
+## The two divisions of the Sāma-saṃhitās
+
+### Gāna and Ārcika
+
+In every Sāma-saṃhitā there are two divisions called *gāna* and *ārcika*. And in the gāna there are four parts and in the ārcika two parts. On the question whether the last two divisions of the gānas are of human origin (*pauruṣeya*) or not of human origin (*apauruṣeya*), the Nidāna-sūtra (2-? [?]) and the Jaimini-nyāyamālā-vistara (9-2-1 and 2 [?]) sūtras deserve to be seen.
+
+## 1. Kauthumas
+
+**Grāme-geya-gāna = Veya-gāna** — in this there are 17 [?] divisions called prapāṭhakas. In each prapāṭhaka there are two parts, *pūrva* and *uttara*. One Satyavrata Sāmaśramī printed this in 18?? [?]. Another, purer edition has been made by one Kṛṣṇa Svāmi Śrautī. In 19?? [?] an edition in Grantha script has been printed. Its name:
+
+> सामवेदसंहितायां कौथुमशाखायां वेयगानम् ।
+>
+> *sāmavedasaṃhitāyāṃ kauthumaśākhāyāṃ veyagānam |*
+>
+> "The Veya-gāna of the Kauthuma branch in the Sāmaveda-saṃhitā."
+
+It is said. By now many editions have been printed in Bombay and in Germany.
+
+**Araṇye-geya-gāna = Āraṇya-gāna** — in this there are six prapāṭhakas, each with two parts. In it are four parvans: Arka-parvan, Dvandva-parvan, Vrata-parvan and Śukriya-parvan. At the end of these are the ṛks called Mahānāmnī. This is printed in Sāmaśramī's edition.
+
+**Ūha-gāna** — in this there are seven parvans: Daśarātra, Saṃvatsara, Ekāha, Ahīna, Satra, Prāyaścitta and Kṣudra. It has 2? [?] prapāṭhakas, comprising two parts each. It is printed in the Calcutta edition.
+
+**Ūhya-gāna** — in this too there are seven parvans as in the Ūha-gāna. The names Daśarātra and the rest spoken of before apply to its parvans also. In it are 2? [?] prapāṭhakas and 2? [?] half-prapāṭhakas. This too is printed at Calcutta.
+
+## The Sāma-saṃhitā in the form of the Ārcika
+
+**Pūrvārcika** — in this there are 6 prapāṭhakas. The Grāme-geya-gāna sāmans are on these very mantras. In the Āraṇyaka-saṃhitā are five divisions called Daśatis.
+
+### Page 150
+
+**Uttarārcika** — in this there are 9 prapāṭhakas. The mantras of the Ūha-gāna are in this part.
+
+### Number of Sāma mantras of the Kauthuma branch
+
+| | |
+|---|---|
+| Grāme-geya-gāna | 1197 |
+| Āraṇya-gāna | 294 |
+| Ūha-gāna | 1026 |
+| Ūhya-gāna | 205 |
+| **Total** | **2722** |
+
+(Digits read from an enlarged image; the four rows add up to the printed total, 1197 + 294 + 1026 + 205 = 2722.)
+
+According to Dr. Caland's edition the number of Sāma mantras is 1869 [?].
+
+**Kauthuma Gṛhya-sūtra** — In the Mysore Government Oriental Library there is a manuscript of the Kauthuma Gṛhya-sūtra. It has 3? [?] khaṇḍas. In a manuscript of the Sāṅkhyāyana Gṛhya-sūtra in the library of the Bhandarkar Institute at Pune an authority is quoted:
+
+> कौथुमिगृह्ये । कामं गृह्येग्नौ पत्नी जुहुयात् । सायंप्रातरौ होमौ गृहाः । पत्नीगृह्य एषोग्निर्भवति । इति ॥
+>
+> *kauthumigṛhye | kāmaṃ gṛhye 'gnau patnī juhuyāt | sāyaṃprātarau homau gṛhāḥ | patnīgṛhya eṣo 'gnir bhavati | iti ||*
+>
+> "In the Kauthumi Gṛhya: Let the wife, if she wishes, offer in the domestic fire; the two homas, evening and morning, [belong to] the householders; this fire is the wife's domestic fire."
+
+(Read as printed; the middle clause is doubtful and the source gives no translation — mine and tentative.) The time of writing of this manuscript is given as the year 19?? [?] Saṃvatsara. From these reasons it is learnt that the Kauthuma branch had independent Kalpa-sūtras.
+
+## 2. Jaiminīyas
+
+The saṃhitā, brāhmaṇa, śrauta-sūtra and gṛhya-sūtra of this branch are all found now. Manuscripts of the saṃhitā are in the libraries of Baroda and Lahore. The copy in London is not complete. This saṃhitā too is of two kinds. According to many manuscripts the number of sāmans of the Jaimini gānas is of this sort:
+
+(The source prints a table of four rows — Grāma-geya-gāna, Āraṇya-gāna, Ūha-gāna and Ūhya = Rahasya-gāna — with a total. The digits could not be read with confidence even in enlarged form, and the rows do not add up to the printed total as I read them, so the figures are not reproduced. The printed total begins "3 6 …" [?].)
+
+Dr. Caland has given the number of Sāma mantras according to the lakṣaṇa-work called Dhāraṇa-lakṣaṇa. In the manuscript of the Jaiminīya branch in the library of the Panjab University that number is given with a slight difference. That is given below:
+
+> आग्नेयस्य शतं प्रोक्ता ऋचो दश च षट् तथा ।
+> इन्द्रस्य त्रिशतं चैव द्विपंचाशदृचो मिताः ॥ १ ॥
+> एकोनविंशतिशतं पावमान्यः स्मृता ऋचः ।
+> पंचपंचाशदित्युक्ता आरण्यस्य क्रमादृचः ॥ २ ॥
+> प्रकृतेः षट्शतं चैव द्विचत्वारिंशदुत्तरम् [?] ।
+>
+> *āgneyasya śataṃ proktā ṛco daśa ca ṣaṭ tathā |*
+> *indrasya triśataṃ caiva dvipaṃcāśad ṛco mitāḥ || 1 ||*
+> *ekonaviṃśatiśataṃ pāvamānyaḥ smṛtā ṛcaḥ |*
+> *paṃcapaṃcāśad ity uktā āraṇyasya kramād ṛcaḥ || 2 ||*
+> *prakṛteḥ ṣaṭśataṃ caiva dvicatvāriṃśaduttaram [?] |*
+>
+> "Of the Āgneya [section], a hundred and sixteen ṛks are said; of the Indra [section], three hundred and fifty-two ṛks are counted; of the Pāvamānī, nineteen hundred [as printed: *ekonaviṃśatiśatam*, 'nineteen hundred' — the figure is doubtful] ṛks are remembered; of the Āraṇya, in order, fifty-five ṛks are told; of the Prakṛti, six hundred and forty-two [?]…" (the verses continue on the next page). (Gist only, mine and tentative: the source gives no translation, and the arithmetic of the figures is not checked because the passage is incomplete.)
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 146 (PDF 172). Next: p. 147 (PDF 173). Open flags: branch numbers 30–41 on pp. 140–143 are unreliable [?]; tables on pp. 138–139 not reproduced row by row; the count "13 ācāryas" on p. 145 does not match the names as read.
+**Progress note (Gap A):** Translated through printed p. 150 (PDF 176). Next: p. 151 (PDF 177), continuing the Jaiminīya mantra-count verses (third verse, line 3 onward). Open flags: Jaiminīya table on p. 150 not reproduced (digits unreadable); several figures marked [?]; the Kauthuma table is arithmetic-checked.
