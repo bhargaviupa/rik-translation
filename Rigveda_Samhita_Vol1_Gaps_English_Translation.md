@@ -3291,6 +3291,194 @@ Right column:
 | तापसः — अग्निः, घर्मः, मन्युः [cross-references] | *tāpasaḥ — agniḥ, gharmaḥ, manyuḥ* | — |
 | ताक्ष्यः — अरिष्टनेमिः, सुपर्णः [cross-references] | *tākṣyaḥ — ariṣṭanemiḥ, suparṇaḥ* | — |
 
+### Page 197
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| तिरश्चीः आङ्गिरसः | *tiraścīḥ āṅgirasaḥ* | 30 |
+| तृणपाणिः | *tṛṇapāṇiḥ* | 23 |
+| त्रसदस्युः पौरुकुत्स्यः | *trasadasyuḥ paurukutsyaḥ* | 28 |
+| त्रितः आप्त्यः | *tritaḥ āptyaḥ* | 106 |
+| त्रिशिराः त्वाष्ट्रः | *triśirāḥ tvāṣṭraḥ* | 18 |
+| त्रिशोकः काण्वः | *triśokaḥ kāṇvaḥ* | 42 |
+| त्रैवृष्णः त्र्यरुणः (भारतः राजा) [cross-reference] | *traivṛṣṇaḥ tryaruṇaḥ (bhārataḥ rājā)* | — |
+| त्र्यरुणः त्रैवृष्णः (भारतः राजा) | *tryaruṇaḥ traivṛṣṇaḥ (bhārataḥ rājā)* | 18 |
+| त्वष्टा गर्भकर्ता | *tvaṣṭā garbhakartā* | 3 |
+| त्वाष्ट्रः त्रिशिराः [cross-reference] | *tvāṣṭraḥ triśirāḥ* | — |
+| दक्षिणा प्राजापत्या | *dakṣiṇā prājāpatyā* | 11 |
+| दमनः यामायनः | *damanaḥ yāmāyanaḥ* | 14 |
+| दाक्षायणी अदितिः [cross-reference] | *dākṣāyaṇī aditiḥ* | — |
+| दार्ढच्युतः इध्मवाहः [cross-reference] | *dārḍhacyutaḥ idhmavāhaḥ* | — |
+| दिव्यः आङ्गिरसः | *divyaḥ āṅgirasaḥ* | 11 |
+| दीर्घतमाः औचथ्यः | *dīrghatamāḥ aucathyaḥ* | 242 |
+| दुर्मित्रः कौत्सः | *durmitraḥ kautsaḥ* | 11 |
+| दुवस्युः वान्दनः | *duvasyuḥ vāndanaḥ* | 12 |
+| दृळ्हच्युतः आगस्त्यः | *dṛḷhacyutaḥ āgastyaḥ* | 6 |
+| देवगन्धर्वः विश्वावसुः [cross-reference] | *devagandharvaḥ viśvāvasuḥ* | — |
+| देवजामयः इन्द्रमातरः | *devajāmayaḥ indramātaraḥ* | 5 |
+| देवमुनिः ऐरम्मदः | *devamuniḥ airammadaḥ* | 6 |
+| देवरातः वैश्वामित्रः (शुनःशेपः आजीगर्तिः) | *devarātaḥ vaiśvāmitraḥ (śunaḥśepaḥ ājīgartiḥ)* | 15 |
+| देवलः काश्यपः | *devalaḥ kāśyapaḥ* | 164 |
+| देववातः भारतः | *devavātaḥ bhārataḥ* | 5 |
+| देवशुनी सरमा (ऋषिका) [cross-reference] | *devaśunī saramā (ṛṣikā)* | — |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| देवश्रवाः भारतः | *devaśravāḥ bhārataḥ* | 5 |
+| देवश्रवाः यामायनः | *devaśravāḥ yāmāyanaḥ* | 14 |
+| देवाः | *devāḥ* | 14 |
+| देवातिथिः काण्वः | *devātithiḥ kāṇvaḥ* | 21 |
+| देवापिः आर्ष्टिषेणः (वृष्टिकामः) | *devāpiḥ ārṣṭiṣeṇaḥ (vṛṣṭikāmaḥ)* | 12 |
+| दैर्घतमसः कक्षीवान् · दैर्घतमसः कक्षीवान् औशिजः [cross-references] | *dairghatamasaḥ kakṣīvān · … auśijaḥ* | — |
+| दैवोदासिः परुच्छेपः · प्रतर्दनः [cross-references] | *daivodāsiḥ paruchepaḥ · pratardanaḥ* | — |
+| द्युतानः मारुतः | *dyutānaḥ mārutaḥ* | 21 |
+| द्युम्नः विश्वचर्षणिः आत्रेयः | *dyumnaḥ viśvacarṣaṇiḥ ātreyaḥ* | 4 |
+| द्युम्नीकः वासिष्ठः | *dyumnīkaḥ vāsiṣṭhaḥ* | 6 |
+| द्रोणः (शार्ङ्गः) | *droṇaḥ (śārṅgaḥ)* | 2 |
+| द्वितः आप्त्यः | *dvitaḥ āptyaḥ* | 6 |
+| द्वितः मृक्तवाहाः आत्रेयः | *dvitaḥ mṛktavāhāḥ ātreyaḥ* | 5 |
+| धरुणः आङ्गिरसः | *dharuṇaḥ āṅgirasaḥ* | 5 |
+| धानाकः लुशः [cross-reference] | *dhānākaḥ luśaḥ* | — |
+| धिष्ण्याः ऐश्वराः अग्नयः [cross-reference] | *dhiṣṇyāḥ aiśvarāḥ agnayaḥ* | — |
+| ध्रुवः आङ्गिरसः | *dhruvaḥ āṅgirasaḥ* | 6 |
+| नदी (ऋषिका) | *nadī (ṛṣikā)* | 4 |
+| नभः प्रभेदनः वैरूपः | *nabhaḥ prabhedanaḥ vairūpaḥ* | 10 |
+| नरः भारद्वाजः | *naraḥ bhāradvājaḥ* | 10 |
+| नहुषः मानवः | *nahuṣaḥ mānavaḥ* | 3 |
+| नाभाकः काण्वः | *nābhākaḥ kāṇvaḥ* | 38 |
+| नाभानेदिष्ठः मानवः | *nābhānediṣṭhaḥ mānavaḥ* | 38 |
+| नारदः काण्वः | *nāradaḥ kāṇvaḥ* | 45 |
+| नारायणः | *nārāyaṇaḥ* | 16 |
+| नार्मेधः शकपूतः [cross-reference] | *nārmedhaḥ śakapūtaḥ* | — |
+| नाहुषः ययातिः [cross-reference] | *nāhuṣaḥ yayātiḥ* | — |
+| निध्रुविः काश्यपः | *nidhruviḥ kāśyapaḥ* | 30 |
+
+(The verse-counts on this page are printed in Arabic numerals and are legible; *dīrghatamāḥ aucathyaḥ* has 242.)
+
+### Page 198
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| निवावरी सिकता [cross-reference] | *nivāvarī sikatā* | — |
+| नीपातिथिः काण्वः | *nīpātithiḥ kāṇvaḥ* | 15 |
+| नृमेधः आङ्गिरसः | *nṛmedhaḥ āṅgirasaḥ* | 45 |
+| नेमः भार्गवः | *nemaḥ bhārgavaḥ* | 10 |
+| नैर्ऋतः कपोतः [cross-reference] | *nairṛtaḥ kapotaḥ* | — |
+| नोधा गौतमः | *nodhā gautamaḥ* | 85 |
+| नौधसः एकद्यूः [cross-reference] | *naudhasaḥ ekadyūḥ* | — |
+| पणयः असुराः | *paṇayaḥ asurāḥ* | 5 |
+| पतंगः प्राजापत्यः | *pataṃgaḥ prājāpatyaḥ* | 3 |
+| परमेष्ठी प्रजापतिः [cross-reference] | *parameṣṭhī prajāpatiḥ* | — |
+| पराशरः शाक्त्यः | *parāśaraḥ śāktyaḥ* | 105 |
+| परुच्छेपः दैवोदासिः | *paruchepaḥ daivodāsiḥ* | 100 |
+| पर्वतः काण्वः | *parvataḥ kāṇvaḥ* | 45 |
+| पवित्रः आङ्गिरसः | *pavitraḥ āṅgirasaḥ* | 25 |
+| परशुरामः जामदग्न्यः (निर्णयसागरोक्तः पाठः) | *paraśurāmaḥ jāmadagnyaḥ (nirṇayasāgaroktaḥ pāṭhaḥ)* | 11 |
+| पायुः भारद्वाजः | *pāyuḥ bhāradvājaḥ* | 44 |
+| पारुच्छेपिः अनानतः [cross-reference] | *pārucchepiḥ anānataḥ* | — |
+| पावकः अग्निः | *pāvakaḥ agniḥ* | 28 |
+| पुनर्वत्सः काण्वः | *punarvatsaḥ kāṇvaḥ* | 36 |
+| पुरुमीळ्हः आङ्गिरसः | *purumīḷhaḥ āṅgirasaḥ* | 15 |
+| पुरुमीळ्हः सौहोत्रः | *purumīḷhaḥ sauhotraḥ* | 14 |
+| पुरुमेधः आङ्गिरसः | *purumedhaḥ āṅgirasaḥ* | 13 |
+| पुरूरवाः ऐलः (ऋषिः) | *purūravāḥ ailaḥ (ṛṣiḥ)* | 9 |
+| पुरुहन्मा आङ्गिरसः | *puruhanmā āṅgirasaḥ* | 15 |
+| पुष्टिगुः काण्वः | *puṣṭiguḥ kāṇvaḥ* | 10 |
+| पूतदक्षः आङ्गिरसः | *pūtadakṣaḥ āṅgirasaḥ* | 12 |
+| पूरणः वैश्वामित्रः | *pūraṇaḥ vaiśvāmitraḥ* | 5 |
+| पूरुः आत्रेयः | *pūruḥ ātreyaḥ* | 10 |
+| पृथुः वैन्यः | *pṛthuḥ vainyaḥ* | 5 |
+| पृश्नियः अजाः | *pṛśniyaḥ ajāḥ* | 20 |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| पृषध्रः काण्वः | *pṛṣadhraḥ kāṇvaḥ* | 5 |
+| पैजवनः सुदाः [cross-reference] | *paijavanaḥ sudāḥ* | — |
+| पौरः आत्रेयः | *pauraḥ ātreyaḥ* | 20 |
+| पौरुकुत्स्यः त्रसदस्युः [cross-reference] | *paurukutsyaḥ trasadasyuḥ* | — |
+| पौलोमी शची | *paulomī śacī* | 6 |
+| प्रगाथः काण्वः | *pragāthaḥ kāṇvaḥ* | 36 |
+| प्रगाथः घौरः काण्वः | *pragāthaḥ ghauraḥ kāṇvaḥ* | 35 |
+| प्रचेताः आङ्गिरसः | *pracetāḥ āṅgirasaḥ* | 5 |
+| प्रजापतिः परमेष्ठी | *prajāpatiḥ parameṣṭhī* | 7 |
+| प्रजापतिः वाच्यः | *prajāpatiḥ vācyaḥ* | 71 |
+| प्रजापतिः वैश्वामित्रः | *prajāpatiḥ vaiśvāmitraḥ* | 66 |
+| प्रजावान् प्राजापत्यः | *prajāvān prājāpatyaḥ* | 3 |
+| प्रतर्दनः काशिराजः | *pratardanaḥ kāśirājaḥ* | 1 |
+| प्रतर्दनः दैवोदासिः | *pratardanaḥ daivodāsiḥ* | 24 |
+| प्रतिक्षत्रः आत्रेयः | *pratikṣatraḥ ātreyaḥ* | 8 |
+| प्रतिप्रभः आत्रेयः | *pratiprabhaḥ ātreyaḥ* | 5 |
+| प्रतिभानुः आत्रेयः | *pratibhānuḥ ātreyaḥ* | 5 |
+| प्रतिरथः आत्रेयः | *pratirathaḥ ātreyaḥ* | 7 |
+| प्रथः वासिष्ठः | *prathaḥ vāsiṣṭhaḥ* | 1 |
+| प्रभूवसुः आङ्गिरसः | *prabhūvasuḥ āṅgirasaḥ* | 26 |
+| प्रयस्वन्तः आत्रेयाः | *prayasvantaḥ ātreyāḥ* | 4 |
+| प्रयोगः भार्गवः | *prayogaḥ bhārgavaḥ* | 22 |
+| प्रस्कण्वः काण्वः | *praskaṇvaḥ kāṇvaḥ* | 97 |
+| प्रागाथः — कलिः, भर्गः, हर्यतः [cross-references] | *prāgāthaḥ — kaliḥ, bhargaḥ, haryataḥ* | — |
+| प्राजापत्यः — पतंगः, प्रजावान्, यक्ष्मनाशनः, यज्ञः, … [continued on the next page] | *prājāpatyaḥ — pataṃgaḥ, prajāvān, yakṣmanāśanaḥ, yajñaḥ, …* | — |
+
+### Page 199
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| (प्राजापत्यः — continued:) विमदः, विष्णुः, संवरणः, हिरण्यगर्भः [cross-references] | *(prājāpatyaḥ — continued:) vimadaḥ, viṣṇuḥ, saṃvaraṇaḥ, hiraṇyagarbhaḥ* | — |
+| प्राजापत्या दक्षिणा [cross-reference] | *prājāpatyā dakṣiṇā* | — |
+| प्रार्थ्यः तान्वः [cross-reference] | *prārthyaḥ tānvaḥ* | — |
+| प्रियमेधः आङ्गिरसः | *priyamedhaḥ āṅgirasaḥ* | 89 |
+| प्रैयमेधः सिन्धुक्षित् [cross-reference] | *praiyamedhaḥ sindhukṣit* | — |
+| प्लातः गयः [cross-reference] | *plātaḥ gayaḥ* | — |
+| प्लायोगिः आसङ्गः [cross-reference] | *plāyogiḥ āsaṅgaḥ* | — |
+| बन्धुः गोपायनः | *bandhuḥ gopāyanaḥ* | 1 |
+| बन्धुः गौपायनः | *bandhuḥ gaupāyanaḥ* | 40 |
+| बन्धुः लौपायनः | *bandhuḥ laupāyanaḥ* | 1 |
+| बभ्रुः आत्रेयः | *babhruḥ ātreyaḥ* | 15 |
+| बरुः आङ्गिरसः | *baruḥ āṅgirasaḥ* | 13 |
+| बार्हस्पत्यः (अग्निः) | *bārhaspatyaḥ (agniḥ)* | 22 |
+| बार्हस्पत्यः तपुर्मूर्धा [cross-reference] | *bārhaspatyaḥ tapurmūrdhā* | — |
+| बार्हस्पत्यः — भरद्वाजः, शंयुः [cross-references] | *bārhaspatyaḥ — bharadvājaḥ, śaṃyuḥ* | — |
+| बाहुवृक्तः (आत्रेयः) | *bāhuvṛktaḥ (ātreyaḥ)* | 7 |
+| बिन्दुः आङ्गिरसः | *binduḥ āṅgirasaḥ* | 18 |
+| बिभ्राट् सौर्यः | *bibhrāṭ sauryaḥ* | 4 |
+| बुधः आत्रेयः | *budhaḥ ātreyaḥ* | 12 |
+| बुधः सौम्यः | *budhaḥ saumyaḥ* | 12 |
+| बृहदुक्थः वामदेव्यः | *bṛhadukthaḥ vāmadevyaḥ* | 21 |
+| बृहद्दिवः आथर्वणः | *bṛhaddivaḥ ātharvaṇaḥ* | 9 |
+| बृहन्मतिः आङ्गिरसः | *bṛhanmatiḥ āṅgirasaḥ* | 32 |
+| बृहस्पतिः लौक्यः | *bṛhaspatiḥ laukyaḥ* | 9 |
+| ब्रह्मचारी अगस्त्यशिष्यः [cross-reference] | *brahmacārī agastyaśiṣyaḥ* | — |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| ब्रह्मजाया जुहूः [cross-reference] | *brahmajāyā juhūḥ* | — |
+| ब्रह्मवादिनी रोमशा [cross-reference] | *brahmavādinī romaśā* | — |
+| ब्रह्मातिथिः काण्वः | *brahmātithiḥ kāṇvaḥ* | 39 |
+| ब्राह्मः ऊर्ध्वनाभा · रक्षोहा [cross-references] | *brāhmaḥ ūrdhvanābhā · rakṣohā* | — |
+| भयमानः वार्षागिरः | *bhayamānaḥ vārṣāgiraḥ* | 19 |
+| भरद्वाजः बार्हस्पत्यः | *bharadvājaḥ bārhaspatyaḥ* | 532 |
+| भरद्वाजः | *bharadvājaḥ* | 1 |
+| भरद्वाजः बार्हस्पत्यः (सप्तर्षीणाम् एकः) — सप्तर्षयः [cross-reference] | *bharadvājaḥ bārhaspatyaḥ (saptarṣīṇām ekaḥ)* | — |
+| भर्गः प्रागाथः | *bhargaḥ prāgāthaḥ* | 38 |
+| भारतः देववातः [cross-reference] | *bhārataḥ devavātaḥ* | — |
+| भारतः राजा अश्वमेधः · त्रसदस्युः · त्र्यरुणः [cross-references] | *bhārataḥ rājā aśvamedhaḥ · trasadasyuḥ · tryaruṇaḥ* | — |
+| भारद्वाजः — ऋजिश्वा, नरः, पायुः, वसुः, शासः, शिरिम्बिठः, शुनहोत्रः, सप्रथः, सुहोत्रः [cross-references] | *bhāradvājaḥ — ṛjiśvā, naraḥ, pāyuḥ, vasuḥ, śāsaḥ, śirimbiṭhaḥ, śunahotraḥ, saprathaḥ, suhotraḥ* | — |
+| भारद्वाजी रात्रिः [cross-reference] | *bhāradvājī rātriḥ* | — |
+| भार्गवः — इटः, कविः, कृत्नुः, गृत्समदः शौनकः, आङ्गिरसः शौनहोत्रः, च्यवनः, जमदग्निः, नेमः [cross-references] | *bhārgavaḥ — iṭaḥ, kaviḥ, kṛtnuḥ, gṛtsamadaḥ śaunakaḥ, āṅgirasaḥ śaunahotraḥ, cyavanaḥ, jamadagniḥ, nemaḥ* | — |
+
+(The verse-counts on this page are all legible; the three entries for *bandhuḥ* — *gopāyanaḥ* [1], *gaupāyanaḥ* [40], *laupāyanaḥ* [1] — are as printed.)
+
 ---
 
-**Progress note (Gap B):** Translated printed pp. 191–196 (PDF 217–222). Next: p. 197 (PDF 223). Gap B format fixed above (names + verse-counts; Kannada-numeral references not reproduced). Gap A complete.
+**Progress note (Gap B):** Translated printed pp. 191–199 (PDF 217–225). Next: p. 200 (PDF 226). Format as stated at the top of Gap B (names + verse-counts; Kannada-numeral references not reproduced).
