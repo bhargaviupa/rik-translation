@@ -4226,6 +4226,208 @@ Besides having written a commentary on the Yajurveda, he wrote:
 1. A commentary on the Śatapatha-brāhmaṇa — a manuscript copy is at Madras.
 2. *Kaṇva-kaṇṭhābharaṇa* — likewise, at Madras.
 
+### Page 269
+
+3. *Yājuṣa-prātiśākhya-bhāṣya* — "*Padārtha-prakāśa*" — four manuscript copies of this are at Calcutta.
+4. *Bhāṣika-sūtra-bhāṣya* — at the Asiatic Society, Calcutta.
+
+These other works he also composed.
+
+### 4. Kālanātha
+
+(time about C.E. 11?? [?] — the digits are not clear; see the reasoning on p. 270, which points to the end of the 12th century)
+
+The name of his work is *Yajur-mañjarī*. This is not a commentary on the whole Yajurveda. Following the order of the Yājuṣa [*prakramaṇa*], it is in the form of exposition only for [?]0 mantras. At the beginning of the commentary there is this verse —
+
+> विविच्य भाष्यं विविधांश्च कल्पा-
+> नेतस्य तोषाय मुदा व्यतानीत् ।
+> भट्टः स्वयंभूतनयोऽत्र विद्वान्
+> श्रीकालनाथः सहकारिभावम् ॥
+>
+> *vivicya bhāṣyaṃ vividhāṃś ca kalpā-n etasya toṣāya mudā vyatānīt |*
+> *bhaṭṭaḥ svayaṃbhūtanayo 'tra vidvān śrīkālanāthaḥ sahakāribhāvam ||*
+>
+> (Transcribed as printed; the second half-verse is not syntactically clear in the print.)
+
+That is: having examined the commentary and many *kalpas*, for the pleasure of the Mahārāja Devarāja, Kālanātha, son of Svayambhūbhaṭṭa, composed this commentary.
+
+There are not many grounds to determine his time. The following verses help to some extent in finding who the Mahārāja Deva, his patron, was.
+
+> अस्ति प्रशस्तं दिशि पश्चिमायां
+> उच्चाभिधानं नगरं गरीयः ॥ ३ ॥
+> उच्चैस्तनाराध्वरगावगाहं [?]
+> तीर्थं परं पञ्चनदं पवित्रम् ॥ ४ ॥
+>
+> *asti praśastaṃ diśi paścimāyāṃ uccābhidhānaṃ nagaraṃ garīyaḥ || 3 ||*
+> *uccaistanārādhvaragāvagāhaṃ [?] tīrthaṃ paraṃ paṃcanadaṃ pavitram || 4 ||*
+
+> क्षितीश्वराः क्षत्रपदावतंसा-
+> स्तत्राविरासंस्तरुणप्रतापाः ।
+> येषामभूत् वाघरनामधेयः
+> प्ररूढशक्तिः प्रथमो नरेन्द्रः ॥
+>
+> *kṣitīśvarāḥ kṣatrapadāvataṃsā-s tatrāvirāsaṃs taruṇapratāpāḥ |*
+> *yeṣām abhūt vāgharanāmadheyaḥ prarūḍhaśaktiḥ prathamo narendraḥ ||*
+
+(The second verse is clearly legible; in the first, the words of the second half are doubtful.)
+
+That is: in the west-south-west [as printed: "*paścimadikkinalli*"] there is a large city by the name Ucca. Near it there is a holy place (*tīrtha-kṣetra*) called Pañcanada. Here many excellent Kṣatriya kings ruled. Their root-ancestor was one named Vāghara. In this line, Vāghara, Tolloka, Rāma, Hariścandra, Sahadeva, Haṃsapāla, Maṅgala, Vīrapāla, Jayapāla and Mahārājadeva ruled. In the time of the last of these, Mahārājadeva, Kālanātha's *Yajur-mañjarī* was written.
+
+There are two holy places called Pañcanada. Of these, the Pañcanada near Bhāvalpur must be the region pointed to by Kālanātha. Near it there is also a village called Ucca. Kālanātha may have described the genealogy of the kings of this place.
+
+### Page 270
+
+The manuscript copy in the Asiatic Society of Bengal is of the year 1523 C.E. Therefore Kālanātha must have been earlier than this. In all Kālanātha's works the names are those of Hindu kings. No sign of Muslim rule is seen. The entry of Muslims into the region he describes was after 1174 C.E. Therefore it can be said that he lived at the end of the 12th century C.E.
+
+Those who quote from his work are few. His sentences are seen only in the *Śāstradīpikā* of Pārthasārathi Miśra. But the time of the *Śāstradīpikā* is not yet settled. Therefore nothing more can now be said about Kālanātha.
+
+### 5. Murāri Miśra
+
+(time about C.E. 1342)
+
+He wrote a work called *Pāraskara-mantra-bhāṣya*. This is not an independent Veda commentary. As he himself writes at the beginning, taking some matters from the Gṛhya commentary written by his father, he wrote a commentary on the mantras that occur in the Pāraskara Gṛhya sūtras.
+
+> प्रणम्य पूर्वं पुरुषं पुराणं
+> तथैव कात्यायनपादपद्मम् ।
+> तनोति पारस्करमन्त्रभाष्यं
+> मुरारिमिश्रः पितृगृह्यभाष्यात् ॥
+>
+> *praṇamya pūrvaṃ puruṣaṃ purāṇaṃ tathaiva kātyāyanapādapadmam |*
+> *tanoti pāraskaramantrabhāṣyaṃ murārimiśraḥ pitṛgṛhyabhāṣyāt ||*
+>
+> "Having first bowed to the ancient Puruṣa, and likewise to the lotus feet of Kātyāyana, Murāri Miśra composes the commentary on the Pāraskara mantras, from his father's Gṛhya commentary."
+
+> गृह्यप्रकाशाभिधभाष्यगर्भ-
+> ज्ञ्रेवेदमिश्रैर्विधिवत्प्रणीतम् [?] ।
+> आकृष्य बन्धुं विदधाति मन्त्रे
+> मुरारिमिश्रः श्रुतितो विविच्य ॥
+>
+> *gṛhyaprakāśābhidhabhāṣyagarbha-jñrevedamiśrair vidhivat praṇītam [?] |*
+> *ākṛṣya bandhuṃ vidadhāti mantre murārimiśraḥ śrutito vivicya ||*
+>
+> (The first line is transcribed as printed; the word *jñre…* is doubtful and may stand for "Vedamiśra". Gist, mine and tentative: "Drawing on the commentary called *Gṛhya-prakāśa*, duly composed by Vedamiśra [his father], Murāri Miśra, distinguishing from the Śruti, makes [the commentary] on the mantras.")
+
+His father was Vedamiśra. He composed a work called *Gṛhya-prakāśa*. With the help of this work and of the Veda, he collected the matter and composed his *Pāraskara-mantra-bhāṣya*.
+
+In the Asiatic Society of Bengal there is a *Mantra-bhāṣya*. This copy was written in 1370 C.E. The copy in the library of the Raghunātha temple was written in 1362 C.E. Therefore it can be said that this work was composed before 1362 C.E.
+
+### 6. Halāyudha
+
+(time C.E. 1174–1199)
+
+He composed a commentary on the Kāṇva-saṃhitā called "*Brāhmaṇa-sarvasva*". This work was printed at Kāśī in 1877 C.E. Many manuscript copies of it also are found.
+
+Concerning him, Rāy Bahādur Manomohana Cakravartī wrote an essay in the journal of the Asiatic Society in 1915 C.E. And Kāṇe, in his History of Dharmaśāstra too, has written concerning Halāyudha. These two writers, taking as their basis this verse of the *Brāhmaṇa-sarvasva*, are of opinion that Halāyudha composed his works between 1174–1199 C.E.
+
+### Page 271
+
+> बाल्ये ख्यापितराजपण्डितपदं श्वेतातपत्रोज्ज्वल-
+> च्छत्रोत्सिक्तमहानहस्तनुपदं [?] दत्त्वा नवे यौवने ।
+> यस्मै यौवनशेषयोग्यमखिलक्ष्मापालनारायणः
+> श्रीमान्लक्ष्मणसेनदेवनृपतिर्धर्माधिकारं ददौ ॥
+>
+> *bālye khyāpitarājapaṇḍitapadaṃ śvetātapatrojjvala-cchatrotsiktamahānahastanupadaṃ [?] dattvā nave yauvane |*
+> *yasmai yauvanaśeṣayogyam akhilakṣmāpālanārāyaṇaḥ śrīmān lakṣmaṇasenadevanṛpatir dharmādhikāraṃ dadau ||*
+>
+> "In his boyhood [Lakṣmaṇasena] had given him the title of Royal Scholar [*rāja-paṇḍita*], …; in the freshness of his youth the glorious King Lakṣmaṇasena Deva, a Nārāyaṇa among all the guardians of the earth, gave him the office of Dharmādhikāra [judge of religious law], fitted for the remainder of his youth." (The middle of the first line is doubtful in the print; translation mine and tentative.)
+
+King Lakṣmaṇasena Deva gave him the office of Dharmādhikāra. This Lakṣmaṇasena Deva carried on the rule from 1169 to 1199 C.E. Therefore Halāyudha must have composed his works between 1174 and 1199 C.E.
+
+In his commentary Halāyudha has taken help not only from many ancient works but also from the works of such as the Karka-bhāṣya on the Pāraskara Gṛhya sūtras, Mugudācārya's Veda-bhāṣya, Uvaṭa, Yajñapārśva and others. Of these he has taken help chiefly from Uvaṭa's commentary.
+
+He composed not only the *Brāhmaṇa-sarvasva* but other works too. At the beginning of the *Brāhmaṇa-sarvasva* there is this verse —
+
+> मीमांसासर्वस्वं वैष्णवसर्वस्वं यत्कृतं शैवसर्वस्वम् [?] ।
+> पण्डितसर्वस्वमुसौ [?] सर्वस्वं सर्वधराणाम् ॥
+>
+> *mīmāṃsāsarvasvaṃ vaiṣṇavasarvasvaṃ yatkṛtaṃ śaivasarvasvam [?] |*
+> *paṇḍitasarvasvam usau [?] sarvasvaṃ sarvadharāṇām ||*
+>
+> (As printed; the verse is not securely intelligible, and the source gives only the following sentence of explanation.)
+
+He composed also works called *Mīmāṃsā-sarvasva*, *Vaiṣṇava-sarvasva*, *Śaiva-sarvasva* and *Paṇḍita-sarvasva*. But none of these has been found up to now.
+
+### 7. Ādityadarśana
+
+He wrote two works called '*Mantra-vivṛti*' and '*Kaṭha-gṛhya-sūtra-vivaraṇa*'. The *Mantra-vivṛti* follows the Kaṭha mantra-text or the Cārāyaṇīya mantra-text. In the *Vivṛti* itself he has written an explanation of the Kaṭha Gṛhya sūtras. But again he has written the *Vivaraṇa* in a simple language. He has said this intention at the beginning of his *Vivaraṇa*.
+
+> प्रायेण मन्त्रविवृतौ विवृतं मयेदं
+> गुह्यं तथापि बहुभिः शबलीकृतत्वात् ।
+> स्पष्टं सुयुक्तिलघुवाक्यविदामभीप्सि-
+> तमिष्टं चिकीर्षुरहमत्र पुनर्विचित्रम् ॥
+>
+> *prāyeṇa mantravivṛtau vivṛtaṃ mayedaṃ guhyaṃ tathāpi bahubhiḥ śabalīkṛtatvāt |*
+> *spaṣṭaṃ suyuktilaghuvākyavidām abhīpsitam iṣṭaṃ cikīrṣur aham atra punar vicitram ||*
+>
+> (Transcribed as printed; a few words are doubtful and the source gives only the gist: "Though I have mostly explained this secret in the *Mantra-vivṛti*, because it was made variegated by many [others], here again I wish clearly to do the desired thing for those who know well-reasoned short sentences.")
+
+His time is not determined. Two persons have quoted his commentary: Brāhmaṇabala, the author of the work *Kāṭhaka-gṛhya-pañcikā*, and Devapāla, the commentator on the Kāṭhaka Gṛhya-sūtra. Though it is clearly said that Ādityadarśana was earlier than these two, since the time of these two is itself undetermined, it cannot be said with certainty that Ādityadarśana belonged to this very time.
+
+### Page 272
+
+> यो वेददर्शन इति द्विजवर्गमुख्यः
+> सत्यार्जवाशयविशुद्धगुणैः प्रसिद्धः ।
+> आस्तिक्यनिर्मलमतिर्विहितानि चक्रे
+> चारायणीयचरणैकगुणः प्रदाता ॥
+>
+> तस्माज्जातो विगतमत्सरमानसानां
+> मन्त्रार्थतत्त्वविदुषां जयनिन्द्रियाणि [?] ।
+> श्लाघ्यः श्रुताभिजनमाधवरातशिष्य
+> आदित्यदर्शन इमां विवृतिं व्यधत्त ॥
+>
+> *yo vedadarśana iti dvijavargamukhyaḥ satyārjavāśayaviśuddhaguṇaiḥ prasiddhaḥ |*
+> *āstikyanirmalamatir vihitāni cakre cārāyaṇīyacaraṇaikaguṇaḥ pradātā ||*
+> *tasmāj jāto vigatamatsaramānasānāṃ mantrārthatattvaviduṣāṃ jayanindriyāṇi [?] |*
+> *ślāghyaḥ śrutābhijanamādhavarātaśiṣya ādityadarśana imāṃ vivṛtiṃ vyadhatta ||*
+>
+> "He who was the chief of the twice-born, renowned for pure virtues of truthfulness and uprightness of mind, of an unsullied intellect in faith, who performed the prescribed rites, whose one virtue was the Cārāyaṇīya school, a giver — from him was born [Ādityadarśana], praiseworthy, of Vedic lineage, a pupil of Mādhavarāta, who composed this *Vivṛti*." (Translation mine and tentative; the words "*jayanindriyāṇi*" in the second verse are doubtful and are left outside the rendering.)
+
+His father was Vedadarśana, who studied only the Cārāyaṇīya branch. One named Mādhavarāta was his guru. His work is the foremost among the Vedic commentaries.
+
+### 8. Devapāla
+
+He did not write a separate mantra-commentary. What he composed is the commentary on the Kāṭhaka Gṛhya-sūtra. As is included within it, he composed a mantra-commentary also.
+
+> "इति चारायणीयमन्त्रभाष्यं भट्टहरिपालकृतं समाप्तम् ।" (Punjab copy)
+> *"iti cārāyaṇīyamantrabhāṣyaṃ bhaṭṭaharipālakṛtaṃ samāptam |"*
+> "Thus ends the Cārāyaṇīya mantra-commentary made by Bhaṭṭa Haripāla."
+
+> "इति चारायणीयमन्त्रभाष्यं कृतिः श्रीमदाचार्यवर्य-
+> स्वामिभट्टारकहरिपालपूज्यपादानाम्" (काश्मीर प्रति)
+> *"iti cārāyaṇīyamantrabhāṣyaṃ kṛtiḥ śrīmadācāryavarya-svāmibhaṭṭārakaharipālapūjyapādānām"* (Kashmir copy)
+> "Thus the Cārāyaṇīya mantra-commentary, the work of the revered feet of the venerable, foremost Ācārya, Svāmin Bhaṭṭāraka Haripāla."
+
+From these two sentences it is clear that Devapāla included in his Gṛhya-sūtra commentary the mantra-commentary made by his father Haripāla.
+
+> "इति जलंधरीयजयपुरवास्तव्यभट्टोपेन्द्रसूनुहरिपाल-
+> पुत्रदेवपालविरचिते समन्त्रककाठकगृह्यभाष्ये"
+>
+> *"iti jalaṃdharīyajayapuravāstavyabhaṭṭopendrasūnuharipāla-putradevapālaviracite samantrakakāṭhakagṛhyabhāṣye"*
+>
+> "Thus in the Kāṭhaka Gṛhya commentary with the mantras, composed by Devapāla, son of Haripāla, son of Bhaṭṭa Upendra, a resident of Jayapura of the Jalandhara [country]."
+
+From this it is clear that his birthplace was Jalandhara, his place of residence Jayapura, his grandfather Upendra Bhaṭṭa and his father Haripāla.
+
+The commentary of Devapāla, or of Haripāla, is of the *uttama-mata* (best view) course. Though the names Nighaṇṭu and Nirukta are not seen, all the derivations follow them. For the mantras he sets forth the meaning generally in the sacrificial (*yājñika*) way, and here and there also in the spiritual (*ādhyātmika*) way. By way of example I write here the commentary on one ṛk.
+
+> तस्मा अरंगमाम वो यस्म [sic] क्षयाय जिन्वथ ।
+> आपो जनयथा च नः ॥
+>
+> *tasmā araṃgamāma vo yasma [sic] kṣayāya jinvatha |*
+> *āpo janayathā ca naḥ ||*
+>
+> (Ṛgveda 10-9-3 as it stands in the print; the Rik is also found elsewhere; the printed *yasma* stands for *yasya*.)
+
+> ऋष्यं [?] — यस्येति व्यत्ययेन कर्मणि षष्ठी । हे आपः यं रसं
+> प्राणिषु जिन्वथ । जि जये । लट् । व्यत्ययेन श्नुः । ततः शप्
+> बाहुलकात् क्वचिद्द्विर्वचनादिता हुश्नुवोः सार्व-
+>
+> *ṛṣyaṃ [?] — yasyeti vyatyayena karmaṇi ṣaṣṭhī | he āpaḥ yaṃ rasaṃ prāṇiṣu jinvatha | ji jaye | laṭ | vyatyayena śnuḥ | tataḥ śap bāhulakāt kvacid dvirvacanāditā huśnuvoḥ sārva-*
+>
+> "…'of whom' — by *vyatyaya* (inversion) the genitive is in the sense of the object. O waters, the flavour which you quicken in living beings. [The root] *ji* in the sense of 'conquer'; present tense; by *vyatyaya* [the affix] *śnu*; then *śap*, by the 'bahulam' rule, sometimes reduplication… in the *hu*-and-*śnu* [rule?] (the grammatical comment continues on the next page)."
+
+(This grammatical comment is a Vyākaraṇa passage; it is characterised, not transcribed in full, and the sūtra *huśnuvoḥ sārvadhātuke* (Pāṇini 6-4-87) which it begins to cite is given here only because the printed words *huśnuvoḥ sārva-* correspond to it: हुश्नुवोः सार्वधातुके, *huśnuvoḥ sārvadhātuke*; the number is from the standard Pāṇini reference and not read in the print.)
+
 ---
 
-**Progress note (Gap C):** Translated printed pp. 261–268 (PDF 287–294). Next: p. 269 (PDF 295). Open flags: several dates and manuscript-folio numbers on pp. 265–267 marked [?]; headings numbered 1–3 for the Kāṇva commentators are as read.
+**Progress note (Gap C):** Translated printed pp. 261–272 (PDF 287–298). Next: p. 273 (PDF 299), continuing Devapāla's grammatical comment on the ṛk "tasmā araṃgamāma vaḥ". Open flags: Kālanātha's date and mantra-count digits unclear; verse readings for Murāri Miśra and Halāyudha partly [?].
