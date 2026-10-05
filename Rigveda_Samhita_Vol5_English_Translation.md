@@ -7416,8 +7416,174 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+## SŪKTA 58 (printed p. 411 –, PDF 427 –) — first sūkta of the Eleventh Anuvāka
+
+**ಐವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-eighth sūkta")*
+
+### Sāyaṇa's introduction *(p. 411)*
+
+> **एकादशानुवाके सप्त सूक्तानि । तत्र नू चिदिति नवर्चं प्रथमं सूक्तं गौतमस्य नोधस आर्षमाग्नेयम् । आद्याः पञ्च जगत्यः । शिष्टाश्चतस्रस्त्रिष्टुभः । तथा चानुक्रान्तम् । नू चित्रव नोधा गौतम आग्नेयं हि चतुस्त्रिष्टुबन्तमिति । हीति वचनादुत्तरे च द्वे सूक्ते अग्निदेवताके ॥ अभिप्लवषडहस्य पञ्चमेऽहन्यग्निमारुते इदं जातवेदस्यं निविद्धानं । तृतीयस्येति खण्डे सूत्रितं । पृक्षस्य वृष्णो वृष्णे शर्धाय नू चित्सहोजा इत्यग्निमारुतं । आ. ८-२ इति ॥ प्रातरनुवाकस्याग्नेये क्रतावाश्विनशस्त्रे च जागते छन्दस्यादितः पञ्चर्चः । सूत्रितं च । त्वमग्ने प्रथमो अङ्गिरा नू चित्सहोजा अमृतो नि तुन्दत इति पञ्च । आ. ४-१३ । इति ॥**
+
+*ekādaśānuvāke sapta sūktāni | tatra nū cid iti navarcaṃ prathamaṃ sūktaṃ gautamasya nodhasa ārṣam āgneyam | ādyāḥ pañca jagatyaḥ | śiṣṭāś catasras triṣṭubhaḥ | tathā cānukrāntam | nū citrava [= nū cid dhi?] nodhā gautama āgneyaṃ hi catustriṣṭubantam iti | hīti vacanād uttare ca dve sūkte agnidevatāke || abhiplavaṣaḍahasya pañcame 'hany agnimārute idaṃ jātavedasyaṃ nividdhānaṃ | tṛtīyasyeti khaṇḍe sūtritaṃ | pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā ity agnimārutam | ā. 8-2 [?] iti || prātaranuvākasyāgneye kratāv āśvinaśastre ca jāgate chandasy āditaḥ pañcarcaḥ | sūtritaṃ ca | tvam agne prathamo aṅgirā nū cit sahojā amṛto ni tundata iti pañca | ā. 4-13 [?] | iti ||*
+
+*(Reading note: the Anukramaṇī half-line "nū citrava nodhā…" is crowded — it should be "nū cid dhi …", the first words being the sūkta's own opening — [?]; numerals [?].)*
+
+**Translation:** "In the eleventh anuvāka there are seven sūktas. Of them, '*nū cit*' is the first, of nine Riks; the seer is Nodhas Gautama, the deity Agni; the first five are Jagatī, the remaining four Triṣṭubh; so the Anukramaṇī [?]; by the word *hi*, the two following sūktas also have Agni as deity. On the fifth day of the Abhiplava ṣaḍaha this is the *jātavedasya nivid*-accompaniment of the Agni–Māruta [recitation]: in the section 'of the third' it is aphorized: 'pṛkṣasya vṛṣṇo vṛṣṇe śardhāya, nū cit sahojāḥ' is the Agni–Māruta (Āśv. 8-2 [?]). In the Prātaranuvāka, in the Āgneya rite and in the Āśvina-śastra, the first five Riks, being Jagatī: so aphorized: 'tvam agne prathamo aṅgirāḥ, nū cit sahojā amṛto ni tundate' — five (Āśv. 4-13 [?])."
+
+**Anuvāda (Kannada, p. 411)** — "From this sūkta the eleventh anuvāka of the first maṇḍala begins. This anuvāka has seven sūktas. Of them, '*nū cit*' is the first. It has nine Riks. The seer is Nodhas, son of Gotama; the deity is Agni. The first five Riks are Jagatī, the remaining four Triṣṭubh. In the Anukramaṇikā: '*nū cinnava nodhā gautama āgneyaṃ hi catustriṣṭubantam*' [?]; by the word *hi*, the next two sūktas also have Agni as deity. On the fifth day of the sacrifice called *Abhiplavaṣaḍaha*, in the Agni–Māruta mantras this sūkta serves the *jātavedasya nivid*-mantras, in Āśvalāyana Śrauta Sūtra's section '*tṛtīyasya*' (Āśv. 8-2 [?]); and, at the time of reciting the Prātaranuvāka mantras, in the Āgneya-kratu and the Aśvin-śastra, the first five Jagatī Riks are used (Āśv. 4-13 [?])."
+
+### Heading block of Sūkta 58 *(p. 412, PDF 428)*
+
+Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga 23, 24 [as read, [?]] · Riks: 9 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Riks 1–5 Jagatī, Riks 6–9 Triṣṭubh.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411; Sūkta 57 ends p. 411 with its closing line, and the Tenth Anuvāka closes with it). The user's instruction of 2026-10-05 ("continue with next 3 sūktas" = 55, 56, 57) is FULFILLED. Next: Sūkta 58 (*nū cit sahojāḥ*, first sūkta of the ELEVENTH Anuvāka of Maṇḍala 1 — seven sūktas 58–64; 9 Riks; ṛṣi Nodhas Gautama; deity Agni; Riks 1–5 Jagatī, 6–9 Triṣṭubh; Atirātra / Prātaranuvāka uses) begins in the lower half of printed p. 411 = PDF 427 (title, Sāyaṇa's introduction and anuvāda are on that page; heading block and Rik 1 on p. 412 = PDF 428). NOT yet translated.**
+### Rik 58.1 (pp. 412–414, PDF 428–430)
 
-**Next task (when the user asks):** Sūkta 58 from p. 411 (PDF 427) — write its title/introduction/anuvāda fresh from the print; then Riks 1–9 and close; contents table puts Sūkta 59 at ≈ p. 439, 60 ≈ 461, 61 ≈ 478, Pariśiṣṭa from p. 531. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg` (re-render beyond with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w`); append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūktas 55–57: introduction numerals [?] (Anukramaṇī half-lines; Āśvalāyana references); crowded phrases recorded in the individual Riks (55.3 *nākārṣīḥ*; 56.4 "tvayegā stotrā vardhiśaṃ"; 56.5 final clause; 57.2 "abhyuktyaiva"; 57.3 Nirukta quotation and Ṛ. Saṃ. 1-113-1 words; 57.6 first words of the bhāṣya); all Uṇādi/Pāṇini/Nirukta/Brāhmaṇa numerals [?]; grammar pages kept to short characterizations.
+**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+
+> **नू चित्सहोजा अमृतो नि तुन्दते होता यद्दूतो अभवद्विवस्वतः ।**
+> **वि साधिष्ठेभिः पथिभी रजो मम आ देवताता हविषा विवासति ॥ १ ॥**
+
+*nū cit sahojā amṛto ni tundate hotā yad dūto abhavad vivasvataḥ |*
+*vi sādhiṣṭhebhiḥ pathibhī rajo mama ā devatātā haviṣā vivāsati || 1 ||*
+
+**Pada-pāṭha** *(p. 412)*
+
+> नु । चित् । सहःऽजाः । अमृतः । नि । तुन्दते । होता । यत् । दूतः । अभवत् । विवस्वतः ।
+> वि । साधिष्ठेभिः । पथिऽभिः । रजः । ममे । आ । देवऽताता । हविषा । विवासति ॥ १ ॥
+
+*nu | cit | sahaḥ-jāḥ | amṛtaḥ | ni | tundate | hotā | yat | dūtaḥ | abhavat | vivasvataḥ |*
+*vi | sādhiṣṭhebhiḥ | pathi-bhiḥ | rajaḥ | mame | ā | deva-tātā | haviṣā | vivāsati || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 412–413)*
+
+> **सहोजाः सहसा बलेन जातः । अग्निर्हि बलेन मथ्यमानोऽरण्योः सकाशाज्जायते । अमृतो मरणरहितः । एवंभूतोऽग्निर्नू चित् क्षिप्रमेव नि तुन्दते । नितरां व्यथयति । उत्पन्नमात्रस्याग्नेः स्पृष्टुमशक्यत्वात् । यद्वा । निर्गच्छति । तुन्दतिर्गत्यर्थः सौत्रो धातुः । यद्यदा होता देवानामाह्वाता होमनिष्पादको वाग्निर्विवस्वतः परिचरतो यजमानस्य देवान्प्रति हविर्वहनाय दूतोऽभवत् । हविर्वहने नियुक्तो भवति तदानीं साधिष्ठेभिः समीचीनैः पथिभिर्मार्गैर्गच्छन् रजोऽन्तरिक्षलोकं वि ममे । निर्मिमे । पूर्वं विद्यमानमस्यान्तरिक्षमसत्कल्पमभूत् । इदानीं तस्य तेजसा प्रकाशमानं सदुत्पन्नमिव दृश्यते । किंच । देवतातेति यज्ञनाम । देवतातौ देवताता यज्ञे हविषा चरुपुरोडाशादिलक्षणेन देवानां विवासति । परिचरति ॥**
+
+*sahojāḥ sahasā balena jātaḥ | agnir hi balena mathyamāno 'raṇyoḥ sakāśāj jāyate | amṛto maraṇarahitaḥ | evaṃbhūto 'gnir nū cit kṣipram eva ni tundate | nitarāṃ vyathayati | utpannamātrasyāgneḥ spraṣṭum aśakyatvāt | yadvā | nirgacchati | tundatir gatyarthaḥ sautro dhātuḥ | yad yadā hotā devānām āhvātā homaniṣpādako vāgnir vivasvataḥ paricarato yajamānasya devān prati havirvahanāya dūto 'bhavat | havirvahane niyukto bhavati tadānīṃ sādhiṣṭhebhiḥ samīcīnaiḥ pathibhir mārgair gacchan rajo 'ntarikṣalokaṃ vi mame | nirmime | pūrvaṃ vidyamānam asyāntarikṣam asatkalpam abhūt | idānīṃ tasya tejasā prakāśamānaṃ sad utpannam iva dṛśyate | kiṃca | devatāteti yajñanāma | devatātau devatātā yajñe haviṣā caru-puroḍāśādilakṣaṇena devānāṃ vivāsati | paricarati ||*
+
+*(The tail on pp. 413 is characterized, with the Nirukta "*devatātā* … *yajñanāmāni* … fifteen" and the sūtras *sarvadevāt tātil* and *supāṃ sulug…*: on *sahojāḥ*, *amṛtaḥ*, *tundate* (*tuda vyathane*, *svaritet*), *sādhiṣṭhebhiḥ* (*bāḍha* + *iṣṭhan*, *antikabāḍhayor nedasādhau*), *devatātā* (*tātil*), *vivāsati* (*vivāsa paricaraṇe*).)*
+
+**Translation of the bhāṣya:** "*Sahojāḥ*: born by *sahas*, force — for Agni is born of the two fire-sticks when rubbed with force; *amṛtaḥ*, free from death. Such Agni *nū cit*, quickly, *ni tundate*: it troubles utterly — since Agni, once born, cannot be touched; or: it comes forth (*tundati* is a Sautra root of motion). *Yat*, when the *hotā*, the invoker of the gods or performer of the oblation, Agni, became the *dūtaḥ*, messenger of the sacrificer *vivasvataḥ* who serves, to carry the oblations to the gods — when he is appointed to carry oblations — then going by the *sādhiṣṭhebhiḥ pathibhiḥ*, the best paths, he *vi mame*, measures out, creates, *rajaḥ*, the atmosphere-world: formerly it had existed as though non-existent; now, shining by his radiance, it is seen as though newly born. Further: *devatātā* is a name for sacrifice; in the sacrifice, with oblations such as *caru* and *puroḍāśa*, he *vivāsati*, serves, the gods."
+
+**Pratipadārtha** *(p. 413)* — "**sahojāḥ** — born by force (friction); **amṛtaḥ** — deathless; Agni; **nū cit** — quickly, with alertness; **ni tundate** — appears (or burns); **yat** — when; **hotā** — he who invites the gods or the accomplisher of the oblation, Agni; **vivasvataḥ** — to the sacrificer (to offer oblations to the gods); **dūtaḥ abhavat** — became the messenger; **sādhiṣṭhebhiḥ** — by favourable; **pathibhiḥ** — by paths (going); **rajaḥ** — the atmosphere; **vi mame** — created (made shine the dark atmosphere); **devatātā** — in the sacrifice; **haviṣā** — with oblations; **ā vivāsati** — worships (the gods)."
+
+**Bhāvārtha** *(p. 413)* — "Agni, born by force and deathless, appears quickly with alertness. When Agni, the invoker of the gods, becomes the messenger of the sacrificer, then, going by favourable paths, he lights up the dark atmosphere; and in the sacrifice he worships the gods with oblations."
+
+**English Translation (the source's own, p. 413)** — "The immortal Agni, generated by great strength, quickly issues forth, when he became the invoker of the gods and the messenger (of the sacrificer); he, going by suitable paths created the firmament; he worships (the gods) in the sacrifice with oblations."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 414**
+- **sahojāḥ** — "*Sahasā balena jātaḥ*: by consecrated force exerted on the fire-sticks, Agni is born; hence Agni got the name *balajāta* or *sahojas*."
+- **amṛtaḥ** — "*mṛtaṃ maraṇam asya nāstīti*: free from death; an epithet of Agni."
+- **nū cit** — "Both are indeclinables meaning 'alertly'; *cit* is used in the sense of *eva*."
+- **ni tundate** — "*Nitarāṃ vyathayati* or *nirgacchati*: none can touch Agni born of the sticks; if one touches, he causes pain; or: he comes out from the stick, manifesting his form previously hidden. The sense of motion is assigned to the root *tuda*, which means 'to hurt'."
+- **hotā** — "One who invites all the deities in the sacrifice; here, since it is Agni who invites the deities, Agni is called *hotṛ*."
+- **vivasvataḥ** — "The sacrificer who serves Agni."
+- **devatātā** — "A name for sacrifice; in the Nirukta (Ni. 3-17 as read [?]) fifteen synonyms for sacrifice are read: *yajñanāmāny uttarāṇi pañcadaśa*. This word, though in the nominative form, is used in the locative sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 414–415 — grammar pages, noted briefly)*
+- **nu**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
+- **amṛtaḥ**: bahuvrīhi with *naña*: *nañi jaramaramitramṛtāḥ* (Pā. 6-2-116): the last member's initial is acute.
+- **tundate**: *tuda vyathane*, *svaritet*: *ātmanepada* (*svaritañitaḥ…*); *ta* → *e* (*ṭita ātmanepadānāṃ ṭer e*); *tudādibhyaḥ śaḥ*; *ṅit*-ness: no *laghūpadha-guṇa*; *nuṭ* as Vedic augment (*nakārāgama chāndasa*); *nighāta*.
+- **abhavat**: *bhū sattāyām*; *laṅ*; *yat* before: no *nighāta*; *aṭ* acute: initial-acute.
+- **sādhiṣṭhebhiḥ**: *bāḍha* in the sense of excess takes *iṣṭhan*; *antikabāḍhayor nedasādhau* (Pā. 5-3-63): *sādha* for *bāḍha*; *ṭeḥ*: loss of *a*; *sādhiṣṭha*; instrumental plural: *bahulaṃ chandasi*: no *ais* [*ebhis*]; *bahuvacane jhaly et*: *e*; *ru*, *visarga*; *nit*: initial-acute.
+- **devatātā**: *sarvadevāt tātil* (Pā. 4-4-142): *tātil* in the self-sense; *ṭilopa*; *supāṃ sulug…*: *ḍā*-substitution (*ā*) of the locative; *lit*-ness gives the acute before the suffix.
+- **vivāsati**: *vivāsa paricaraṇe*; *laṭ*; *nighāta*. **|| 1 ||**
+
+---
+
+### Rik 58.2 (pp. 415–417, PDF 431–433)
+
+**Saṃhitā-pāṭha** *(p. 415)*
+
+> **आ स्वमद्म युवमानो अजरस्तृषु च्यवानो अविष्यन्नतसेषु तिष्ठति ।**
+> **अत्यो न पृष्ठं प्रुषितस्य रोचते दिवो न सानु स्तनयन्नचिक्रदत् ॥ २ ॥**
+
+*ā svam adma yuvamāno ajaras tṛṣu cyavāno aviṣyann atáseṣu tiṣṭhati |*
+*atyo na pṛṣṭhaṃ pruṣitasya rocate divo na sānu stanayann acikradat || 2 ||*
+
+*(The print's Saṃhitā reads "तृषु च्यवानो" in the first line; the Pada has "तृषु । अविष्यन्" — the Pada reads *tṛṣu | aviṣyan*; I give the Saṃhitā "tṛṣu cyavāno" as printed, doubtful: it may be the print's crowded "tṛṣu ca avānaḥ", [?].)*
+
+**Pada-pāṭha** *(p. 415)*
+
+> आ । स्वम् । अद्म । युवमानः । अजरः । तृषु । अविष्यन् । अतसेषु । तिष्ठति ।
+> अत्यः । न । पृष्ठम् । प्रुषितस्य । रोचते । दिवः । न । सानु । स्तनयन् । अचिक्रदत् ॥ २ ॥
+
+*ā | svam | adma | yuvamānaḥ | ajaraḥ | tṛṣu | aviṣyan | atáseṣu | tiṣṭhati |*
+*atyaḥ | na | pṛṣṭham | pruṣitasya | rocate | divaḥ | na | sānu | stanayan | acikradat || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 416)*
+
+> **अजरो जराराहितोऽयमग्निः स्वं स्वकीयमद्म अदनीयं तृणगुल्मादिकं युवमानः स्वकीयज्वालया संमिश्रयन् तदनन्तरं चाविष्यन् भक्षयंश्च । अविष्यन्नित्येतदत्तिकर्मसु पठितं । एवंभूतोऽग्निस्तृषु क्षिप्रमेवातसेषु प्रभूतेषु काष्ठेषु आ तिष्ठति । आरोहति । अत्रातसशब्दः काष्ठवाची । अतसं न शुष्कम् । ऋग्वे. ४-४-४ । इति दर्शनात् । पृषितस्य दग्धुमितस्ततः प्रवृत्तस्याग्नेः पृष्ठमुपर्यवस्थितं ज्वालाजालमत्यो न रोचते । यथा सततगमनशीलोऽश्व इतस्ततो गच्छन्शोभते एवमग्नेर्ज्वालापि सर्वत्र गच्छन्ती शोभत इति भावः । तदानीं दिवो द्युलोकस्य संबन्धि सानु समुच्छ्रितमभ्रं स्तनयन्निवाचिक्रदत् । गंभीरं शब्दमात्मानमचीकरत् ॥**
+
+*ajaro jarārahito 'yam agniḥ svaṃ svakīyam adma adanīyaṃ tṛṇagulmādikaṃ yuvamānaḥ svakīyajvālayā saṃmiśrayan tadanantaraṃ cāviṣyan bhakṣayaṃś ca | aviṣyann ity etad attikarmasu paṭhitaṃ | evaṃbhūto 'gnis tṛṣu kṣipram evātaseṣu prabhūteṣu kāṣṭheṣu ā tiṣṭhati | ārohati | atrātasaśabdaḥ kāṣṭhavācī | atasaṃ na śuṣkam | ṛgve. 4-4-4 [?] | iti darśanāt | pṛṣitasya dagdhum itas tataḥ pravṛttasyāgneḥ pṛṣṭham upary avasthitaṃ jvālājālam atyo na rocate | yathā satatagamanaśīlo 'śva itas tato gacchañ śobhate evam agner jvālāpi sarvatra gacchantī śobhata iti bhāvaḥ | tadānīṃ divo dyulokasya saṃbandhi sānu samucchritam abhraṃ stanayann ivācikradat | gaṃbhīraṃ śabdam ātmānam acīkarat ||*
+
+*(Reading note: the first word, "*tṛṣu*" for "quickly" (*kṣipram*), is read from the print's glosses; the bhāṣya's *cyavāno* of the Saṃhitā is not commented on and I take the Pada's *tṛṣu | aviṣyan*. The tail — on *yuvamānaḥ*, *ajaraḥ*, *ācikradat* (*kadi kradi kladi* roots), with the remark that the *num* is not added by *āgamānuśāsanam anityam* — is characterized, and the Kannada grammar notes on p. 417–418 are summarized below.)*
+
+**Translation of the bhāṣya:** "*Ajaraḥ*, free from old age, this Agni *yuvamānaḥ*, mixing with his own flame, *svam adma*, his own fuel — grass, shrubs and the like — and afterwards *aviṣyan*, devouring (*aviṣyan* is read among the verbs of eating) — such Agni *tṛṣu*, quickly, *atáseṣu*, on the abundant wood (*atasa* means wood, as in 'not dry wood', Ṛ. 4-4-4 [?]) *ā tiṣṭhati*, mounts. *Pruṣitasya*, of the Agni who moves here and there to burn, *pṛṣṭham*, the mass of flame above, *atyo na rocate*, shines like a horse: as a horse that is always moving shines going hither and thither, so the flame of Agni too goes everywhere and shines. Then, like the cloud lying at the summit of the sky *stanayan*, thundering, he *acikradat*, cried out — made a deep sound."
+
+**Pratipadārtha** *(p. 416)* — "**ajaraḥ** — the undecaying Agni; **svam** — his own; **adma** — food; **yuvamānaḥ** — mixing with his flame; **aviṣyan** — devouring; **tṛṣu** — alertly; **atáseṣu** — on dry sticks; **ā tiṣṭhati** — mounts; **pruṣitasya** — of Agni who spreads all round to burn; **pṛṣṭham** — the flame above (his back); **atyo na** — like an always-moving horse; **rocate** — shines; **divaḥ** — of the sky; **sānu na** — like the cloud at the summit; **stanayan** — thundering; **acikradat** — sounds deeply."
+
+**Bhāvārtha** *(p. 416)* — "The undecaying Agni mixes his food, grass and shrubs, with his flame, devours it alertly, and mounts the dry sticks. The flame spreading all round to burn shines always like a moving horse, and Agni sounds deeply like a thundering cloud at the summit of heaven."
+
+**English Translation (the source's own, p. 416)** — "Undecaying Agni, combining his food (with his flame) and devouring it quickly, ascends the dry wood; (the blaze) situate on the back (of Agni) spreading hither and thither for consuming, shines like a horse and roars like a roaring (cloud) in the height of heaven."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 417**
+- **adma** — "*Adanīyaṃ tṛṇagulmādikam*: the grass, shrubs and the like that are food for Agni."
+- **yuvamānaḥ aviṣyan** — "Agni mixes his food, grass and the like, with the oblation in the sacrifice and consumes it. The Nirukta-author reads the word *aviṣyan* among the verbs of eating (*attikarma*, Ni. 2-… as read [?])."
+- **atáseṣu** — "In abundant sticks and the like: the word *atasa* means wood: 'atasaṃ na śuṣkam' (Ṛ. Saṃ. 4-4-4 as read [?])."
+- **pruṣitasya** — "*Dagdhum itas tataḥ pravṛttasyāgneḥ*: of Agni whose nature is to burn everything, spreading everywhere; in this sense Agni got the name *pruṣita*."
+- **atyo na rocate** — "Here *atya* means horse; *na* has the sense of *iva*. As a horse shines as it moves hither and thither, Agni by the enveloping of his flame spreads everywhere and shines."
+
+**Vyākaraṇa-prakriyā** *(pp. 417–418 — grammar pages, noted briefly)*
+- **adma**: *ad bhakṣaṇe*; Uṇādi *man*; *nit*: initial-acute.
+- **yuvamānaḥ**: *yu miśraṇe*; *vyatyayo bahulam*: *ātmanepada* *śānac*; *kartari śap*: *vyatyaya*: *śa* [= *śap*]; *bahulaṃ chandasi*: no *luk*; *aci śnudhātu…*: *uvaṅ* barred; *āne muk*: *muk* to the *ajanta* stem; *tāsyanudātteṇ…*: *anudātta*; the root's accent stays; the vowel after *v* is acute.
+- **ajaraḥ**: bahuvrīhi, *nañi jaramaramitramṛtāḥ*: initial-acute of the last member.
+- **tiṣṭhati**: *ṣṭhā gatinivṛttau*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
+- **acikradat**: *kadi kradi kladi āhvāne rodane ca*; *āgamānuśāsanam anityam*: no *num* though the root is *idit*; *hetumati ca*: *ṇic*; *luṅ* (Vedic), *tip*; *itaś ca*; *ṇiśridrusrubhyaḥ kartari caṅ*: *caṅ*; *ṇeraniṭi*; *caṅi*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *sanvallaghuni caṅpare 'nogloṕe*: *i* for the reduplicative (*sanyataḥ*); *saṃyogāt-para*: no lengthening; *nighāta*. **|| 2 ||**
+
+---
+
+### Rik 58.3 (pp. 418–421, PDF 434–437)
+
+**Saṃhitā-pāṭha** *(p. 418)*
+
+> **क्राणा रुद्रेभिर्वसुभिः पुरोहितो होता निषत्तो रयिषाळमर्त्यः ।**
+> **रथो न विक्ष्वृञ्जसान आयुषु व्यानुषग्वार्या देव ऋण्वति ॥ ३ ॥**
+
+*krāṇā rudrebhir vasubhiḥ purohito hotā niṣatto rayiṣāḷ amartyaḥ |*
+*ratho na vikṣv ṛñjasāna āyuṣu vy ānuṣag vāryā deva ṛṇvati || 3 ||*
+
+**Pada-pāṭha** *(p. 418)*
+
+> क्राणा । रुद्रेभिः । वसुऽभिः । पुरःऽहितः । होता । निऽसत्तः । रयिऽसाट् । अमर्त्यः ।
+> रथः । न । विक्षु । ऋञ्जसानः । आयुषु । वि । आनुषक् । वार्या । देवः । ऋण्वति ॥ ३ ॥
+
+*krāṇā | rudrebhiḥ | vasu-bhiḥ | puraḥ-hitaḥ | hotā | ni-sattaḥ | rayi-sāṭ | amartyaḥ |*
+*rathaḥ | na | vikṣu | ṛñjasānaḥ | āyuṣu | vi | ānuṣak | vāryā | devaḥ | ṛṇvati || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 418–419)*
+
+> **क्राणा हविर्वहनं कुर्वाणो रुद्रेभी रुद्रैर्वसुभिश्च पुरोहितः पुरस्कृतो होता देवानामाह्वाता निषत्तो हविःस्वीकरणायं देवयजने निषण्णो रयिषाट् रयीणां शत्रुधनानामभिभवितामर्त्यो मरणरहितः । एवंभूतो देवो द्योतमानोऽग्निर्विक्षु प्रजासु लौकिकजनेषु रथो न रथ इवायुषु यजमानलक्षणेषु मनुष्येष्वृञ्जसानः स्तूयमानो वार्या वार्याणि संभजनीयानि धनान्यानुषक् आनुषक्तं यथा भवति तथा वि ऋण्वति । विशेषेण प्रापयति । यद्वा । वार्याणि वरणीयानि हवींषि स्वयं प्राप्नोति ॥**
+
+*krāṇā havirvahanaṃ kurvāṇo rudrebhī rudrair vasubhiś ca purohitaḥ puraskṛto hotā devānām āhvātā niṣatto haviḥsvīkaraṇāya devayajane niṣaṇṇo rayiṣāṭ rayīṇāṃ śatrudhanānām abhibhavitāmartyo maraṇarahitaḥ | evaṃbhūto devo dyotamāno 'gnir vikṣu prajāsu laukikajaneṣu ratho na ratha ivāyuṣu yajamānalakṣaṇeṣu manuṣyeṣv ṛñjasānaḥ stūyamāno vāryā vāryāṇi saṃbhajanīyāni dhanāny ānuṣak ānuṣaktaṃ yathā bhavati tathā vi ṛṇvati | viśeṣeṇa prāpayati | yadvā | vāryāṇi varaṇīyāni havīṃṣi svayaṃ prāpnoti ||*
+
+*(The tail — on *krāṇā* (*kṛ* + *kānac* with *karoter bahulaṃ chandasi*, loss of *śap*; *citaḥ*), *rayiṣāṭ* (*saheḥ sāḍaḥ saḥ*; *chandasi sahaḥ*; *ṣatva*), *ṛñjasānaḥ* (*ṛñjatiḥ stutikarmā*; *āsānajityanuvṛtyā…*; *kit*), *āyuṣu* (*āyuḥ iti manuṣyanāma*; Uṇādi *uṣ*), *vāryā* (*vṛñ saṃbhaktau*; *ṇyat*), *ṛṇvati* (*ṛ gatau*; *svādi*; *śnu*; *vyatyaya*; *nighāta*) — is characterized.)*
+
+**Translation of the bhāṣya:** "*Krāṇā*, doing the carrying of oblations; *rudrebhiḥ vasubhiḥ puro-hitaḥ*, placed in front by the Rudras and Vasus; *hotā*, the invoker of the gods; *niṣattaḥ*, seated at the sacrifice to receive the oblations; *rayiṣāṭ*, conqueror of the wealth of enemies; *amartyaḥ*, deathless; such the god, shining Agni, *vikṣu*, among the people, in worldly folk, *ratho na*, like a chariot, *āyuṣu*, among men, the sacrificers, *ṛñjasānaḥ*, being praised, *vi ṛṇvati*, attains in special measure *vāryā*, desirable wealth, *ānuṣak*, in succession; or: he himself receives the choice oblations."
+
+**Pratipadārtha** *(p. 419)* — "**krāṇā** — (the oblation) bearer; **rudrebhiḥ** — by Rudras; **vasubhiḥ** — by Vasus; **purohitaḥ** — honoured; **hotā** — the invoker of gods; **niṣattaḥ** — seated (at the sacrifice, taking the first place); **rayiṣāṭ** — the conqueror, who wins the wealth of enemies; **amartyaḥ** — deathless and; **devaḥ** — shining Agni; **vikṣu** — among people; **rathaḥ na** — as chariots are honoured; **āyuṣu** — among men who are sacrificers; **ṛñjasānaḥ** — praised; **vāryā** — desired oblations; **ānuṣak** — in succession; **vi ṛṇvati** — obtains in abundance, or he gives the desired wealth to the sacrificers."
+
+**Bhāvārtha** *(p. 419)* — "Agni, the carrier of oblations, honoured by the Rudras and Vasus, the invoker of the gods, who takes the first seat at the sacrifice, conqueror of the wealth of enemies, deathless and shining, is praised by sacrificers as chariots are honoured by people, and receives in abundance the oblations offered to him in succession and the desired ones."
+
+**English Translation (the source's own, p. 419)** — "The immortal and effulgent Agni, the bearer of oblations, placed in front of all by the Rudras and Vasus, the invoker (of the gods) who is present at a sacrifice and conquers the wealth (of the enemies), lauded by his worshippers, and admired like a chariot amongst mankind, accepts the oblations that are successively presented."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58, 59, 60, 61 (the end of Volume 5; the Pariśiṣṭa from p. 531 is NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, ṛṣi Nodhas Gautama, Agni; Eleventh Anuvāka) in progress: introduction, heading, Riks 58.1–58.2 and Rik 58.3 (through English translation) written (printed p. 419, PDF 435). The Special Topics and Vyākaraṇa of Rik 3 (p. 420–, PDF 436–) and Riks 58.4–58.9 NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+
+**Next task:** continue at printed p. 420 (PDF 436) with "**Rik 58.3, continued**" (Special Topics, Vyākaraṇa), then Riks 4–9, close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up is the next job: do it only when the user asks/ in a later session). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line "nū citrava…" and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada "tṛṣu | aviṣyan" [?]; Ṛg 4-4-4 numeral [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
