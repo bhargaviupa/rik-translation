@@ -10811,8 +10811,68 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ---
 
+### Printed p. 674 (PDF 690)
+
+*(Aṅgirases, end)* "…[Indra and the Aṅgi-]rases helped Saramā (1-?-?; compare 1-?-?). It is also said that the Aṅgirases themselves discovered the cows and horses belonging to the Paṇi (1-?-?). Bṛhaspati too has a part in the work of freeing the cows belonging to the Paṇis (10-?-?, ?, ?); when, breaking the mountain, he took the cows, he too has the epithet *Aṅgiras* (6-?-?), and when he grants cows as Bhaga would grant (10-?-?), the same epithet."
+
+"When, joined with Indra, he drove out the cows and made the water flow, Bṛhaspati is called Aṅgiras himself (2-?-?). Leaving aside this one context, all the other singular usages are of Agni. Agni is the first seer, Aṅgiras (1-?-?), the ancient Aṅgiras (10-?-?), or the most ancient among the Aṅgirases (1-?-?), and the one of greatest brilliance (6-?-?). Agni is many times called the leader of the Aṅgirases (1-?-?; etc.). But the word *Aṅgirastama* ('the most Aṅgiras', i.e. the foremost of the Aṅgirases) is used, once or twice, also of Indra, Uṣas and Soma. Sometimes the word is used of persons such as Agni without any relation: of the ancient Aṅgirases among the Fathers, one (1-?-?), or in the usage '*Aṅgirasvat*' (1-?-?) the singular sense, according to the context, is evident; but the usage itself has no connection. In 'O Agni, O Aṅgiras, as you were prayed to by Manu and the Aṅgirases, come near us, granting our prayer' (1-?-?), both Agni and the Fathers are intended by that word."
+
+"In the Anukramaṇī, the Aṅgirases belong to a lineage of *purohitas*; they are the seers of the mantras of the ninth maṇḍala. In '*Atharva-Aṅgirasaḥ*' too they are intended. The Atharvaveda itself has the name *Atharvāṅgirasa* (Av. 10-?-?). The same idea is in the Śatapatha Brāhmaṇa (Śat. Brā. 11-?-?-?; etc.)."
+
+"This group were slightly superior to men; they moved between the deities and men, or they may be called the messengers of Agni, the messenger of the deities. They may be said to be the flames of Agni embodied."
+
+### Virūpas
+
+"The name Virūpa, connected with the Aṅgirases, has occurred three times in the plural. The Aṅgirases and the Virūpas are sons of the sky-deity (*divas putrāḥ*, 3-?-?). The Virūpas are seers, sons of Aṅgiras, born of Agni, of the sky (10-?-?, ?). 'One who praises Agni' is *Virūpa* in the singular in one place (8-?-?). In 1-?-? it is used in the singular sense, like *medhāvat*, *atrivat*, *aṅgirasvat*, as *virūpavat* ('like Virūpa'). In 10-?-? the Aṅgirases, the Vairūpas (sons of Virūpa) and Yama are praised together. The meaning of *Virūpa* is 'one with changing forms';"
+
+### Printed p. 675 (PDF 691)
+
+"generally this word is used together with the word *Aṅgirasaḥ*; therefore it may be considered an epithet of Aṅgiras or of the Aṅgirases."
+
+### Navagvas
+
+"Including six occurrences along with the Aṅgirases, this word occurs fourteen times in all. They are our ancient Fathers (6-?-?); or the Aṅgirases, Atharvans, Bhṛgus and Navagvas are our Fathers (10-?-?). In the matter of Indra, Saramā and the cows connected with the Paṇis, and in the history of these cows, the Navagvas too are included (1-?-?, ?; 5-?-?; 10-?-?). Making the Navagvas his friends, Indra found the cows (2-?-?). Preparing the Soma juice, they praise Indra with songs and break the doors of the cow-pens (5-?-?). With the stones that purify Soma they sang for ten months (5-?-?, ?). In the plural, it occurs twice; in one of them it is an epithet of the rays of Agni (6-?-?). In the singular it occurs thrice, as an epithet of Aṅgiras (4-?-?; 10-?-?) or of Dadhyañc (9-?-?). The meaning of that word is 'going in a group of nine'. Probably it may indicate nine ancient seers."
+
+### Daśagvas
+
+"It occurs seven times — three times in the singular, twice only separately in the plural of seven — generally together with the Navagvas. They were the first to perform sacrifice (3-?-?). Indra found the cows, accompanied by the Navagvas, and saw Sūrya in the company of the Daśagvas (3-?-?). Joined with the Navagvas and Daśagvas, Indra split the mountain and Vala (1-?-?). The Navagvas and Daśagvas praised Indra and broke open the cow-pens (5-?-?). Uṣas shone upon the Navagva Aṅgiras and the Daśagva of seven mouths (4-?-?). The Daśagva accompanied by the Navagva is called 'the most Aṅgiras' (10-?-?). It is said that Indra helped the Daśagva when he was in trouble (8-?-?). Though the Navagvas and Daśagvas differ in number, they may be said to be of one kind."
+
+### The Seven Seers (*Saptarṣigaḷu*)
+
+"This class of seers, famous as the Saptarṣis, appears in the Ṛgveda in only four places: our Fathers, seven seers (4-?-?); those of divine nature (10-?-?); those connected with the deities (10-?-?). This number may be suggested by the seven priests mentioned in 3-?-?; those seven would be the Saptarṣis. In the Śatapatha Brāhmaṇa each of these seven has a name (Śat. Brā. 14-?-?-?; Bṛhadā. Upa. 2-?-?). In the same Brāhmaṇa (3-?-?; Ṛk. Ve. 8-?-?) it is said that those seven persons were at first called bears (*ṛkṣa*), and that they are the seven stars of the Saptarṣi-maṇḍala. The word *ṛkṣa* has two meanings, 'star' (1-?-?) and 'bear' (5-?-?), and in both contexts the number is the same; so this idea may have arisen."
+
+### Printed p. 676 (PDF 692)
+
+"…[In the Brāhmaṇa it is said that] they were formerly bears. The seven *vipras* and the Navagvas praised Indra (6-?-?; compare 3-?-?; 4-?-?): there the seven *vipras* must be the Saptarṣis. 'The seven *hotṛs*, together with Manu, gave the first oblation to the deities' (10-?-?): here too the same idea must be meant."
+
+### Atri
+
+"One of the ancient seers who is most often mentioned in the Ṛgveda. In the singular it occurs sixty times, and in the plural thrice, in the sense of those of the Atri *gotra*. The seer belonging to the five peoples (1-?-?); one of the original men of the human group such as Manu (1-?-?)."
+
+"Agni helped Atri (5-?-?) and other ancient seers (1-?-?; 10-?-?). Indra too, hearing Atri's prayer, together with the Aṅgirases, opened the cow-pen for Atri (1-?-?). But Atri is mainly presented as dependent on the Aśvins, and the story about Atri is related to the Aśvins. They freed Atri from darkness (6-?-?; 8-?-?), destroyed the magic nets of a wicked Rākṣasa (1-?-?), and lifted Atri, along with his companions (1-?-?; 1-?-?), out of a pit (5-?-?). Atri fell into a large fire-pit, and the Aśvins lifted him; but they give him revivifying drink (1-?-?; 1-?-?). Or they made the very fire-pit into which he fell pleasant to him, and made his dwelling-house favourable to him (10-?-?; 8-?-?); they covered him so that fire would not burn him (8-?-?); they saved Atri, who was being burned by the heat of the pit (10-?-?), giving him coolness and removing the heat (1-?-?; 8-?-?), and favoured him as the cooling water of cold would (1-?-?). They again made the aged Atri young (10-?-?)."
+
+"Atri found Sūrya, who had been hidden by Svarbhānu, and set him again in the sky (5-?-?, ?). In the mantra that follows it is said that Atris are those who accomplished this great deed. In the Atharvaveda too the matter of finding this Sūrya and setting him in the sky is raised (Av. 13-?-?, ?, ?). In the Śatapatha Brāhmaṇa, Atri is the *purohita* who removes darkness (Śat. Brā. 4-?-?-?), one born of the goddess of speech (1-?-?-?), and also said to be the goddess of speech himself (14-?-?-?)."
+
+### Printed p. 677 (PDF 693)
+
+"The whole of the fifth maṇḍala is seen by the seer Atri, or the mantras are seen by the Atris. In the usage of the word *Atri* in singular or plural, a quarter of the usages are in this very maṇḍala. By the plural word *Atrayaḥ*, the seers of that *gotra* are meant."
+
+"It may be derived from the root *ad* ('to eat'). The word *atrin* ('devourer') too is formed from this root and is used in the Ṛgveda as an epithet of Rākṣasas and so on. Probably in this sense *Atri* is an epithet of Agni (3-?-?). Along with the word *Atri*, the word *Saptavadhri* has occurred about four times. Saptavadhri is dependent on the Aśvins; the Aśvins are prayed to release him from bondage (5-?-?, ?), and Saptavadhri made the flame of Agni green by his praise (8-?-?). The Aśvins did what was good for the burning womb-region by means of Atri-Saptavadhri (10-?-?). Probably Atri and Saptavadhri are two names of one person."
+
+### Kaṇva and others (*Kaṇva modalādavaru*)
+
+**Kaṇva.** "This name occurs about sixty-odd times. He too is an ancient seer and the Kaṇvas are his descendants. There are about equal numbers of singular and plural usages. Kaṇva is the son of Nṛṣad (10-?-?); therefore he has the name *Nārṣada* (1-?-?; Av. 4-?-?). Kaṇva's name is also in the list of the primal men of the world, such as Manu and the Aṅgirases (1-?-?). Agni was given to Kaṇva and others by the deities. Agni kindled by them did not favour them (1-?-?, ?, ?). Agni helped Kaṇva, Atri, Trasadasyu and others in battle (10-?-?), and he is the leader and friend of Kaṇva and the rest (10-?-?). Indra favoured Kaṇva, Trasadasyu and others with gold and cows (Vāl. 1-?; 3-?); and the Maruts showed favour in wealth to Kaṇva, who was joined with Turuśva and the Yadus (8-?-?). The Aśvins helped Kaṇva many times (1-?-?; 1-?-?; 8-?-?; 8-?-?). When Kaṇva was blind, the Aśvins healed him (8-?-?) and gave him sight (1-?-?)."
+
+"Most of the eighth maṇḍala has the Kaṇvas as seers; the names of the seers in the mantras are Kaṇva. But the story of 'the blind Kaṇva' has not been raised there. Some say that the blind Kaṇva is the sun of the night, or Agni who is hidden, or Soma."
+
+**Medhyātithi** (Medhātithi). "Of the lineage of Kaṇva, and also called Kāṇva (8-?-?). The name has occurred nine times. Further, in the lists of the ancients, along with Kaṇva and the others…"
+
 ---
 
-**Progress note — Volume 5 PARIŚIṢṬA (added at the user's request, 2026-10-06): translating the Kannada appendix, printed pp. 531–707 = PDF 547–723 (printed = PDF − 16). Done: printed pp. 531–673 (PDF 547–689): preface note, all deities and groups (through Ṛbhus, Apsarases, Gandharvas, protective deities), and the "(Imaginary) Historical Seers" section: Manu, the Bhṛgus, Atharvan, Dadhyañc, and the Aṅgirases through "…in Saramā's finding the cows, Indra and the Aṅgi-" (last line of p. 673; continues on p. 674).**
+---
 
-**Next task:** continue at printed p. 674 (PDF 690): the end of the Aṅgirases, then Virūpa, the Navagvas and Daśagvas, the Saptarṣis, Atri, Kaṇva, Medhātithi, Kutsa, Kāvya Uśanā; then animals and things, material things, evil spirits and demons (Asuras, Paṇis, Dāsas/Dasyus, Vṛtra, Vala …), funeral rites (the soul, heaven, hell, the fathers, Yama, Mṛtyu, Vivasvān) (contents list in the file header; the Pariśiṣṭa ends at printed p. 707 = PDF 723). Work ~4 pages per batch: view PDF images (`/tmp/x/w-NNN.jpg`, re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing), write the English at once, append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`; section file ends with a `---` line), commit and push (`git push origin claude/modest-ptolemy-9efv8s`). Rik conventions do not apply; reference numerals (small Kannada digits) are given as read and unverified ("?" where the print's digits were not legible at 150 dpi); crowded passages rendered loosely. Sanskrit words in three layers. At the end: update CLAUDE.md and the header note about the Pariśiṣṭa, rebuild the Vol 5 .docx and push (merge to main only if asked).
+---
+
+**Progress note — Volume 5 PARIŚIṢṬA (added at the user's request, 2026-10-06): translating the Kannada appendix, printed pp. 531–707 = PDF 547–723 (printed = PDF − 16). Done: printed pp. 531–677 (PDF 547–693): preface note, all deities and groups, Ṛbhus, Apsarases, Gandharvas, protective deities, and the seers: Manu, Bhṛgus, Atharvan, Dadhyañc, Aṅgirases (complete), Virūpas, Navagvas, Daśagvas, Saptarṣis, Atri, Kaṇva, and Medhātithi begun, through "…along with Kaṇva and the others…" (last line of p. 677; continues on p. 678).**
+
+**Next task:** continue at printed p. 678 (PDF 694): the rest of Medhātithi, then Kutsa, Kāvya Uśanā, and any other persons; then animals and things, material things, evil spirits and demons (Asuras, Paṇis, Dāsas/Dasyus, Vṛtra, Vala …), funeral rites (the soul, heaven, hell, the fathers, Yama, Mṛtyu, Vivasvān) (contents list in the file header; the Pariśiṣṭa ends at printed p. 707 = PDF 723). Work ~4 pages per batch: view PDF images (`/tmp/x/w-NNN.jpg`, re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing), write the English at once, append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`; section file ends with a `---` line), commit and push (`git push origin claude/modest-ptolemy-9efv8s`). Rik conventions do not apply; reference numerals (small Kannada digits) are given as read and unverified ("?" where the print's digits were not legible at 150 dpi); crowded passages rendered loosely. Sanskrit words in three layers. At the end: update CLAUDE.md and the header note about the Pariśiṣṭa, rebuild the Vol 5 .docx and push (merge to main only if asked).
