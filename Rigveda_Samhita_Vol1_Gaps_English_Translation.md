@@ -3479,6 +3479,189 @@ Right column:
 
 (The verse-counts on this page are all legible; the three entries for *bandhuḥ* — *gopāyanaḥ* [1], *gaupāyanaḥ* [40], *laupāyanaḥ* [1] — are as printed.)
 
+### Page 200
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| (भार्गवः — continued from the previous page:) प्रयोगः, वेनः, सोमाहुतिः, स्यूमरश्मिः [cross-references] | *(bhārgavaḥ — continued:) prayogaḥ, venaḥ, somāhutiḥ, syūmaraśmiḥ* | — |
+| भार्म्यश्वः मुद्गलः [cross-reference] | *bhārmyaśvaḥ mudgalaḥ* | — |
+| भालन्दनः वत्सप्रिः [cross-reference] | *bhālandanaḥ vatsapriḥ* | — |
+| भावयव्यः | *bhāvayavyaḥ* | 1 |
+| भिक्षुः आङ्गिरसः | *bhikṣuḥ āṅgirasaḥ* | 9 |
+| भिषक् आथर्वणः | *bhiṣak ātharvaṇaḥ* | 23 |
+| भुवनः आप्त्यः | *bhuvanaḥ āptyaḥ* | 5 |
+| भूतांशः काश्यपः | *bhūtāṃśaḥ kāśyapaḥ* | 11 |
+| भृगुः वारुणिः | *bhṛguḥ vāruṇiḥ* | 38 |
+| भौमः अत्रिः [cross-reference] | *bhaumaḥ atriḥ* | — |
+| भौवनः विश्वकर्मा · साधनः [cross-references] | *bhauvanaḥ viśvakarmā · sādhanaḥ* | — |
+| मत्स्यः साम्मदः | *matsyaḥ sāmmadaḥ* | 21 |
+| मत्स्यः (जालनद्धाः बहवः) | *matsyaḥ (jālanaddhāḥ bahavaḥ)* | 21 |
+| मथितः यामायनः | *mathitaḥ yāmāyanaḥ* | 8 |
+| मधुच्छन्दाः वैश्वामित्रः | *madhucchandāḥ vaiśvāmitraḥ* | 112 |
+| मनुः आप्सवः | *manuḥ āpsavaḥ* | 3 |
+| मनुः वैवस्वतः | *manuḥ vaivasvataḥ* | 59 |
+| मनुः सांवरणः | *manuḥ sāṃvaraṇaḥ* | 3 |
+| मन्युः तापसः | *manyuḥ tāpasaḥ* | 14 |
+| मन्युः वासिष्ठः | *manyuḥ vāsiṣṭhaḥ* | 3 |
+| मरुतः | *marutaḥ* | 4 |
+| मातरिश्वा काण्वः | *mātariśvā kāṇvaḥ* | 8 |
+| माधुच्छन्दसः — अघमर्षणः, जेता [cross-references] | *mādhucchandasaḥ — aghamarṣaṇaḥ, jetā* | — |
+| मानवः — चक्षुः, नहुषः, नाभानेदिष्ठः, शार्यातः [cross-references] | *mānavaḥ — cakṣuḥ, nahuṣaḥ, nābhānediṣṭhaḥ, śāryātaḥ* | — |
+| मान्धाता यौवनाश्वः (पूर्वार्धः) | *māndhātā yauvanāśvaḥ (pūrvārdhaḥ)* | 5½ |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| मान्यः मैत्रावरुणिः | *mānyaḥ maitrāvaruṇiḥ* | 21 |
+| माया | *māyā* | 1 |
+| मारीचः कश्यपः [cross-reference] | *mārīcaḥ kaśyapaḥ* | — |
+| मारुतः द्युतानः [cross-reference] | *mārutaḥ dyutānaḥ* | — |
+| माषाः अकृष्वाः | *māṣāḥ akṛṣvāḥ* | 20 |
+| मुद्गलः भार्म्यश्वः | *mudgalaḥ bhārmyaśvaḥ* | 12 |
+| मुष्मवान् इन्द्रः [cross-reference] | *muṣmavān indraḥ* | — |
+| मूर्धन्वान् आङ्गिरसः | *mūrdhanvān āṅgirasaḥ* | 19 |
+| मूर्धन्वान् वामदेव्यः | *mūrdhanvān vāmadevyaḥ* | 19 |
+| मृक्तवाहाः आत्रेयः · द्वितः [cross-reference] | *mṛktavāhāḥ ātreyaḥ · dvitaḥ* | — |
+| मृळीकः वासिष्ठः | *mṛḷīkaḥ vāsiṣṭhaḥ* | 8 |
+| मेधातिथिः काण्वः | *medhātithiḥ kāṇvaḥ* | 270 |
+| मेध्यः काण्वः | *medhyaḥ kāṇvaḥ* | 15 |
+| मेध्यातिथिः काण्वः | *medhyātithiḥ kāṇvaḥ* | 70 |
+| मैत्रावरुणिः — अगस्त्यः, मान्यः, वासिष्ठः [cross-references] | *maitrāvaruṇiḥ — agastyaḥ, mānyaḥ, vāsiṣṭhaḥ* | — |
+| यक्ष्मनाशनः प्राजापत्यः | *yakṣmanāśanaḥ prājāpatyaḥ* | 5 |
+| यजतः आत्रेयः | *yajataḥ ātreyaḥ* | 3 |
+| यजतः आत्रेयः (second entry) | *yajataḥ ātreyaḥ* | 10 |
+| यज्ञः प्राजापत्यः | *yajñaḥ prājāpatyaḥ* | 7 |
+| यमः वैवस्वतः (ऋषिः) | *yamaḥ vaivasvataḥ (ṛṣiḥ)* | 34 [?] |
+| यमी वैवस्वती (ऋषिका) | *yamī vaivasvatī (ṛṣikā)* | 11 |
+| ययातिः नाहुषः | *yayātiḥ nāhuṣaḥ* | 3 |
+| यविष्ठः सहसः पुत्रः | *yaviṣṭhaḥ sahasaḥ putraḥ* | 22 |
+| यामायनः — ऊर्ध्वकृशनः, कुमारः, दमनः, देवश्रवाः, मथितः [cross-references] | *yāmāyanaḥ — ūrdhvakṛśanaḥ, kumāraḥ, damanaḥ, devaśravāḥ, mathitaḥ* | — |
+
+(The count against *yamaḥ vaivasvataḥ* is printed as "[34]" with a doubtful middle digit; it is given as 34 [?]. The two entries for *yajataḥ ātreyaḥ* are as printed, with different counts.)
+
+### Page 201
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| यामायनः — शंखः, संकुसुकः [cross-references] | *yāmāyanaḥ — śaṃkhaḥ, saṃkusukaḥ* | — |
+| यौवनाश्वः मान्धाता [cross-reference] | *yauvanāśvaḥ māndhātā* | — |
+| रक्षोहा ब्राह्मः | *rakṣohā brāhmaḥ* | 6 |
+| रहूगणः आङ्गिरसः | *rahūgaṇaḥ āṅgirasaḥ* | 12 |
+| राजर्षिः ऋणंचयः [cross-reference] | *rājarṣiḥ ṛṇaṃcayaḥ* | — |
+| रातहव्यः आत्रेयः | *rātahavyaḥ ātreyaḥ* | 12 |
+| रात्रिः भारद्वाजी | *rātriḥ bhāradvājī* | 8 |
+| रामः जामदग्न्यः | *rāmaḥ jāmadagnyaḥ* | 11 |
+| राहूगणः गौतमः [cross-reference] | *rāhūgaṇaḥ gautamaḥ* | — |
+| रेणुः वैश्वामित्रः | *reṇuḥ vaiśvāmitraḥ* | 28 |
+| रेभः काश्यपः | *rebhaḥ kāśyapaḥ* | 15 |
+| रेभसूनुः काश्यपः | *rebhasūnuḥ kāśyapaḥ* | 17 |
+| रेभसूनू काश्यपौ | *rebhasūnū kāśyapau* | 17 |
+| रोमशा ब्रह्मवादिनी | *romaśā brahmavādinī* | 1 |
+| रौहिदश्वः वसुमनाः [cross-reference] | *rauhidaśvaḥ vasumanāḥ* | — |
+| लबः ऐन्द्रः | *labaḥ aindraḥ* | 13 |
+| लुशः धानाकः | *luśaḥ dhānākaḥ* | 28 |
+| लोपामुद्रा | *lopāmudrā* | 2 |
+| लौक्यः बृहस्पतिः [cross-reference] | *laukyaḥ bṛhaspatiḥ* | — |
+| लौपायनः बन्धुः · विप्रबन्धुः · श्रुतबन्धुः · सुबन्धुः [cross-references] | *laupāyanaḥ bandhuḥ · viprabandhuḥ · śrutabandhuḥ · subandhuḥ* | — |
+| वत्सः आग्नेयः | *vatsaḥ āgneyaḥ* | 5 |
+| वत्सः काण्वः | *vatsaḥ kāṇvaḥ* | 58 |
+| वत्सप्रिः भालन्दनः | *vatsapriḥ bhālandanaḥ* | 32 |
+| वम्रः वैखानसः | *vamraḥ vaikhānasaḥ* | 22 |
+| वरुणः आग्निः सोमः | *varuṇaḥ āgniḥ somaḥ* | 6 |
+| वव्रिः आत्रेयः | *vavriḥ ātreyaḥ* | 5 |
+| वशः अश्व्यः | *vaśaḥ aśvyaḥ* | 33 |
+| वसिष्ठः मैत्रावरुणिः | *vasiṣṭhaḥ maitrāvaruṇiḥ* | 848 |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| वसिष्ठः | *vasiṣṭhaḥ* | 12 |
+| वसिष्ठः मैत्रावरुणिः (सप्तर्षीणाम् एकः) — सप्तर्षयः [cross-reference] | *vasiṣṭhaḥ maitrāvaruṇiḥ (saptarṣīṇām ekaḥ)* | — |
+| वसिष्ठपुत्राः | *vasiṣṭhaputrāḥ* | 5 |
+| वसुः भारद्वाजः | *vasuḥ bhāradvājaḥ* | 15 |
+| वसुकर्णः वासुक्रः | *vasukarṇaḥ vāsukraḥ* | 30 |
+| वसुकृत् वासुक्रः | *vasukṛt vāsukraḥ* | 66 |
+| वसुक्रः ऋषिः | *vasukraḥ ṛṣiḥ* | 6 |
+| वसुक्रः ऐन्द्रः | *vasukraḥ aindraḥ* | 32 |
+| वसुक्रः वासिष्ठः | *vasukraḥ vāsiṣṭhaḥ* | 3 |
+| वसुक्रपत्नी इन्द्रस्नुषा (ऋषिका) | *vasukrapatnī indrasnuṣā (ṛṣikā)* | 1 |
+| वसुमनाः रौहिदश्वः | *vasumanāḥ rauhidaśvaḥ* | 1 |
+| वसुरोचिषः आङ्गिरसः सहस्रम् | *vasurociṣaḥ āṅgirasaḥ sahasram* | 3 |
+| वसुश्रुतः आत्रेयः | *vasuśrutaḥ ātreyaḥ* | 44 |
+| वसूयवः आत्रेयाः | *vasūyavaḥ ātreyāḥ* | 18 |
+| वाक् आम्भृणी | *vāk āmbhṛṇī* | 8 |
+| वाच्यः प्रजापतिः [cross-reference] | *vācyaḥ prajāpatiḥ* | — |
+| वाजंभरः सप्तिः [cross-reference] | *vājaṃbharaḥ saptiḥ* | — |
+| वातजूतिः (वातरशनः) | *vātajūtiḥ (vātaraśanaḥ)* | 1 |
+| वातरशनाः (१ ऋष्यशृङ्गः, २ एतशः, ३ करिक्रतः, ४ जूतिः, ५ वातजूतिः, ६ विप्रजूतिः, ७ वृषाणकः) | *vātaraśanāḥ (1 ṛṣyaśṛṅgaḥ, 2 etaśaḥ, 3 karikrataḥ, 4 jūtiḥ, 5 vātajūtiḥ, 6 viprajūtiḥ, 7 vṛṣāṇakaḥ)* | 7 |
+| वातायनः — अनिलः, उलः [cross-references] | *vātāyanaḥ — anilaḥ, ulaḥ* | — |
+| वाध्र्यश्वः सुमित्रः [cross-reference] | *vādhryaśvaḥ sumitraḥ* | — |
+| वान्दनः दुवस्युः [cross-reference] | *vāndanaḥ duvasyuḥ* | — |
+| वामदेवः गौतमः | *vāmadevaḥ gautamaḥ* | 560½ |
+| वामदेव्यः — अंहोमुक्, बृहदुक्थः [cross-references] | *vāmadevyaḥ — aṃhomuk, bṛhadukthaḥ* | — |
+| वामदेवः मूर्धन्वान् [cross-reference] | *vāmadevaḥ mūrdhanvān* | — |
+
+### Page 202
+
+Left column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| वारुणिः — भृगुः, सत्यधृतिः [cross-references] | *vāruṇiḥ — bhṛguḥ, satyadhṛtiḥ* | — |
+| वार्षागिरः — अम्बरीषः, ऋज्राश्वः, भयमानः, सहदेवः, सुराधाः [cross-references] | *vārṣāgiraḥ — ambarīṣaḥ, ṛjrāśvaḥ, bhayamānaḥ, sahadevaḥ, surādhāḥ* | — |
+| वार्ष्टिहव्यः उपस्तुतः [cross-reference] | *vārṣṭihavyaḥ upastutaḥ* | — |
+| वासिष्ठः — इन्द्रप्रमतिः, उपमन्युः, कर्णश्रुत्, चित्रमहाः, द्युम्नीकः, प्रथः, मन्युः, मृळीकः, वसुक्रः, वृषगणः, व्याघ्रपात् [cross-references] | *vāsiṣṭhaḥ — indrapramatiḥ, upamanyuḥ, karṇaśrut, citramahāḥ, dyumnīkaḥ, prathaḥ, manyuḥ, mṛḷīkaḥ, vasukraḥ, vṛṣagaṇaḥ, vyāghrapāt* | — |
+| वासुक्रः — वसुकर्णः, वसुकृत् [cross-references] | *vāsukraḥ — vasukarṇaḥ, vasukṛt* | — |
+| विप्रजूतिः (वातरशनः) | *viprajūtiḥ (vātaraśanaḥ)* | 1 |
+| विप्रबन्धुः गोपायनः | *viprabandhuḥ gopāyanaḥ* | 4 |
+| विप्रबन्धुः गौपायनः | *viprabandhuḥ gaupāyanaḥ* | 40 |
+| विप्रबन्धुः लौपायनः | *viprabandhuḥ laupāyanaḥ* | 4 |
+| विमदः ऐन्द्रः | *vimadaḥ aindraḥ* | 66 |
+| विमदः प्राजापत्यः | *vimadaḥ prājāpatyaḥ* | 66 |
+| विरूपः आङ्गिरसः | *virūpaḥ āṅgirasaḥ* | 79 |
+| विवस्वान् आदित्यः | *vivasvān ādityaḥ* | 5 |
+| विवृहः काश्यपः | *vivṛhaḥ kāśyapaḥ* | 6 |
+| विभ्राट् सौर्यः | *vibhrāṭ sauryaḥ* | 4 |
+| विश्वकः कार्ष्णिः | *viśvakaḥ kārṣṇiḥ* | 5 |
+| विश्वकर्मा भौवनः | *viśvakarmā bhauvanaḥ* | 14 |
+
+Right column:
+
+| Ṛṣi (Devanagari) | IAST | Verses |
+|---|---|---|
+| विश्वचर्षणिः आत्रेयः · द्युम्नः [cross-reference] | *viśvacarṣaṇiḥ ātreyaḥ · dyumnaḥ* | — |
+| विश्वमनाः वैयश्वः | *viśvamanāḥ vaiyaśvaḥ* | 109 |
+| विश्ववारा | *viśvavārā* | 1 |
+| विश्ववारा आत्रेयी | *viśvavārā ātreyī* | 6 |
+| विश्वसामा आत्रेयः | *viśvasāmā ātreyaḥ* | 4 |
+| विश्वामित्रः गाथिनः | *viśvāmitraḥ gāthinaḥ* | 501 |
+| विश्वामित्रः गाथिनः (सप्तर्षीणाम् एकः) — सप्तर्षयः [cross-reference] | *viśvāmitraḥ gāthinaḥ (saptarṣīṇām ekaḥ)* | — |
+| विश्वामित्रः | *viśvāmitraḥ* | 1 |
+| विश्वामित्रः जमदग्निः | *viśvāmitraḥ jamadagniḥ* | 4 |
+| विश्वावसुः देवगन्धर्वः | *viśvāvasuḥ devagandharvaḥ* | 6 |
+| विष्णुः प्राजापत्यः | *viṣṇuḥ prājāpatyaḥ* | 3 |
+| विहव्यः आङ्गिरसः | *vihavyaḥ āṅgirasaḥ* | [0] — printed "[0]", presumably a misprint [?] |
+| वीतहव्यः आङ्गिरसः | *vītahavyaḥ āṅgirasaḥ* | 19 |
+| वृशः जानः | *vṛśaḥ jānaḥ* | 12 |
+| वृषगणः वासिष्ठः | *vṛṣagaṇaḥ vāsiṣṭhaḥ* | 3 |
+| वृषाकपिः ऐन्द्रः | *vṛṣākapiḥ aindraḥ* | 3 |
+| वृषाणकः (वातरशनः) | *vṛṣāṇakaḥ (vātaraśanaḥ)* | 1 |
+| वेनः भार्गवः | *venaḥ bhārgavaḥ* | 20 |
+| वैकुण्ठः इन्द्रः [cross-reference] | *vaikuṇṭhaḥ indraḥ* | — |
+| वैखानसः वम्रः [cross-reference] | *vaikhānasaḥ vamraḥ* | — |
+| वैखानसः (शतम्) | *vaikhānasaḥ (śatam)* | 30 |
+| वैतहव्यः अरुणः [cross-reference] | *vaitahavyaḥ aruṇaḥ* | — |
+| वैन्यः पृथुः [cross-reference] | *vainyaḥ pṛthuḥ* | — |
+| वैयश्वः विश्वमनाः [cross-reference] | *vaiyaśvaḥ viśvamanāḥ* | — |
+| वैराजः ऋषभः [cross-reference] | *vairājaḥ ṛṣabhaḥ* | — |
+| वैरूपः — अष्ट्रादंष्ट्रः, नभःप्रभेदनः, शतप्रभेदनः, सध्रिः [cross-references] | *vairūpaḥ — aṣṭrādaṃṣṭraḥ, nabhaḥprabhedanaḥ, śataprabhedanaḥ, sadhriḥ* | — |
+
 ---
 
-**Progress note (Gap B):** Translated printed pp. 191–199 (PDF 217–225). Next: p. 200 (PDF 226). Format as stated at the top of Gap B (names + verse-counts; Kannada-numeral references not reproduced).
+**Progress note (Gap B):** Translated printed pp. 191–202 (PDF 217–228). Next: p. 203 (PDF 229). Format as stated at the top of Gap B.
