@@ -1,0 +1,103 @@
+@page { size: 6.5in 9.5in; margin: 0.9in 0.8in 0.95in 0.9in;
+  @footnote { border-top: 0.4pt solid #888; padding-top: 4pt; max-height: 40%; } }
+@page :left  { margin-left: 0.8in; margin-right: 0.95in;
+  @top-left   { content: counter(page); font: 9pt "Noto Serif"; }
+  @top-center { content: string(volhead); font: italic 9pt "Noto Serif"; letter-spacing: .05em; } }
+@page :right { margin-left: 0.95in; margin-right: 0.8in;
+  @top-right  { content: counter(page); font: 9pt "Noto Serif"; }
+  @top-center { content: string(sukhead); font: italic 9pt "Noto Serif"; letter-spacing: .05em; } }
+@page front { @top-left{content:none} @top-right{content:none} @top-center{content:none} }
+
+@page :first { @top-left{content:none} @top-right{content:none} @top-center{content:none} }
+@page chapter-open { @top-left{content:none} @top-right{content:none} @top-center{content:none}
+  @bottom-center { content: counter(page); font: 9pt "Noto Serif"; } }
+
+html { font: 10.5pt/1.5 "Noto Serif", "Noto Serif Devanagari", "Noto Serif Kannada", serif;
+  hyphens: manual; text-align: justify; orphans: 3; widows: 3; font-variant-numeric: oldstyle-nums; }
+:lang(sa), .dev { font-family: "Noto Serif Devanagari", "Noto Serif", serif; }
+p { margin: 0 0 .55em; }
+.kn { font-family: "Noto Serif Kannada", serif; }
+
+/* front matter */
+.cover, .portrait, .halftitle, .titlepage, .copyright, .dedication, .creditspage { page: front; page-break-after: always; text-align: center; }
+.halftitle { padding-top: 3.2in; font-size: 17pt; letter-spacing: .12em; }
+.titlepage { padding-top: .35in; }
+.titlepage .inv { font: 13pt "Noto Serif Devanagari"; margin-bottom: .7in; }
+.titlepage h1 { font-size: 26pt; font-weight: 400; letter-spacing: .08em; margin: 0 0 .15in; string-set: volhead "Ṛgveda-saṃhitā"; }
+.titlepage .sub { font-style: italic; font-size: 12pt; margin-bottom: .35in; }
+.titlepage .orn, .orn { font-size: 18pt; letter-spacing: .6em; margin: .3in 0; color: #555; }
+.titlepage .who { font-size: 11pt; line-height: 1.8; }
+.copyright { text-align: left; font-size: 8.5pt; padding-top: 3.4in; line-height: 1.45; }
+.dedication { padding-top: 2.6in; font-style: italic; }
+.placeholder { border: 0.6pt dashed #999; padding: .35in .2in; margin: .25in auto; width: 2.6in; color: #777; font-size: 9pt; }
+.creditspage h2 { font-size: 13pt; font-weight: 400; letter-spacing: .1em; }
+
+/* contents */
+.toc { page: roman; page-break-before: always; }
+.toc h2 { text-align: center; font-size: 15pt; font-weight: 400; letter-spacing: .12em; margin-bottom: .3in; }
+.toc ul { list-style: none; padding: 0; margin: 0; }
+.toc li { margin: .28em 0; text-align: left; }
+.toc li a { color: inherit; text-decoration: none; }
+.toc li a::after { content: leader('. ') target-counter(attr(href), page); }
+.toc li.sub { padding-left: 1.2em; font-size: 9.5pt; }
+
+/* body */
+h1.part { page: chapter-open; page-break-before: right; page-break-after: always; text-align:center; padding-top: 2.5in;
+  font-size: 22pt; font-weight: 400; letter-spacing: .06em; }
+h2.sukta { counter-reset: footnote; page-break-before: right; page: chapter-open; string-set: sukhead attr(data-short);
+  text-align: center; font-size: 15pt; font-weight: 400; margin: 1.1in 0 .3in; line-height: 1.35; }
+h2.sukta::before { content: "❖"; display:block; font-size: 16pt; color:#666; margin-bottom:.18in; }
+h2.sukta::after { content: ""; display:block; width: 1.4in; margin: .22in auto 0; border-top: .6pt solid #777; }
+h3 { font-size: 11.5pt; font-weight: 700; letter-spacing: .04em; margin: 1.6em 0 .5em; text-align: left;
+  border-bottom: .4pt solid #bbb; padding-bottom: 2pt; page-break-after: avoid; }
+h3 .pp { float: right; font-weight: 400; font-style: italic; font-size: 8.5pt; color: #666; }
+p > strong:only-child { display: block; text-align: center; margin: .9em 0 .3em; letter-spacing: .03em; }
+blockquote { margin: .5em 0 .7em 1.2em; padding-left: .7em; border-left: 1.2pt solid #c9b88a; text-align: left; }
+blockquote p { margin: 0 0 .3em; }
+table { border-collapse: collapse; width: 100%; font-size: 9pt; margin: .6em 0; }
+td, th { border-bottom: .4pt solid #aaa; padding: 2pt 4pt; text-align: left; vertical-align: top; }
+
+/* footnotes */
+span.fn { float: footnote; font-size: 8.3pt; line-height: 1.35; text-align: left; font-style: normal; }
+span.fn::footnote-call { content: counter(footnote); font-size: 7pt; vertical-align: super; line-height: none; }
+span.fn::footnote-marker { content: counter(footnote) ". "; font-weight: 700; }
+
+/* notes appendix */
+h1.appendix { page-break-before: right; font-size: 17pt; font-weight:400; text-align:center; letter-spacing:.08em; margin: 1in 0 .3in; string-set: sukhead "Collected Notes"; }
+.notes-app h3 { font-size: 10pt; margin-top: 1.1em; }
+.notes-app p { text-align: left; font-size: 9pt; margin: 0 0 .4em 1.2em; text-indent: -1.2em; }
+
+.cover { padding-top: .25in; } .cover img { height: 6.1in; width: auto; }
+.cover .cap { margin-top: .25in; font-size: 11pt; letter-spacing: .1em; font-variant: small-caps; }
+.copyright p { margin-bottom: .8em; }
+.portrait h2 { font-size: 13pt; font-weight: 400; letter-spacing: .14em; margin: .4in 0 .3in; text-transform: uppercase; }
+.placeholder.tall { width: 3.6in; height: 4.4in; padding-top: 1.9in; box-sizing: border-box; }
+.portrait .cap2 { text-align: center; font-size: 9.5pt; color: #666; }
+.toc .tocsub { text-align: center; font-style: italic; font-size: 9.5pt; margin-top: -.15in; }
+.toc li.su { margin-top: .75em; font-weight: 700; font-size: 10pt; }
+.toc li.rl { margin: 0; }
+.toc ul.riks { columns: 3; column-gap: .25in; margin: .15em 0 0 .6em; }
+.toc ul.riks li { font-size: 8.5pt; margin: 0; break-inside: avoid; }
+.toc ul.riks li a::after { content: leader('.') target-counter(attr(href), page); }
+
+.portrait img.pic { height: 5in; width: auto; max-width: 100%; }
+.portrait .cap2 { margin-top: .15in; }
+
+.portrait.pair { page: front; }
+.placeholder.half { width: 3.2in; height: 3.3in; padding-top: 1.2in; box-sizing: border-box; margin: .15in auto .35in; }
+/* roman folios for the front matter, Arabic restarts at the first Sūkta */
+@page roman { @bottom-center { content: counter(page, lower-roman); font: 9pt "Noto Serif"; } }
+.toc { page: roman; }
+
+
+.noteblock, span.longnote { display:block; font-size: 8.8pt; line-height:1.4; margin: .5em 0 .8em 1.2em; padding-left:.7em; border-left: .8pt solid #bbb; color:#333; text-align:left; font-style: normal; }
+span.longnote::before { content: "Note — "; font-weight: 700; }
+.noteblock::before { content: "Note — "; font-weight: 700; }
+
+@page roman:left  { @top-left{content:none} @top-center{content:none} @bottom-center{content: counter(page, lower-roman); font: 9pt "Noto Serif";} }
+@page roman:right { @top-right{content:none} @top-center{content:none} @bottom-center{content: counter(page, lower-roman); font: 9pt "Noto Serif";} }
+
+h2.sukta.first { page: chapter-first; }
+@page chapter-first { counter-reset: page 1; @top-left{content:none} @top-right{content:none} @top-center{content:none}
+  @bottom-center { content: counter(page); font: 9pt "Noto Serif"; } }
+@page :blank { @top-left{content:none} @top-right{content:none} @top-center{content:none} @bottom-center{content:none} }
