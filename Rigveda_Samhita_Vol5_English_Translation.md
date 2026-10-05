@@ -7582,8 +7582,118 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 58.3, continued** *(pp. 419–421, PDF 435–437)*
+
+**Bhāvārtha** *(p. 419)* — "Agni, the carrier of oblations, honoured by the Rudras and Vasus, the invoker of the gods, who takes the first seat at the sacrifice, conqueror of the wealth of enemies, deathless and shining, is praised by sacrificers as chariots are honoured by people, and receives in abundance the oblations offered to him in succession."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 420**
+- **krāṇā** — "*Havirvahanaṃ kurvāṇaḥ*: one who carries oblations to the deities in the sacrifice."
+- **niṣattaḥ** — "*Haviḥsvīkaraṇāya devayajane niṣaṇṇaḥ*: Agni is seated, ready to accept the oblation in all the sacrificial acts performed for the sake of the deities."
+- **rayiṣāṭ** — "From the root *saha abhibhave* [*sah*, with the sense of overcoming] comes *ṣāṭ*, 'one who overcomes'; here *rayi* is wealth of enemies: one who wholly destroys, wins and brings the property of enemies."
+- **vikṣu ratho na** — "As a chariot is the means of accomplishing wishes for people engaged in worldly transactions, so Agni is specially helpful to sacrificers in offering the share of the sacrifice to the deities they desire."
+- **āyuṣu** — "*Yajamānalakṣaṇeṣu manuṣyeṣu*: here the word *āyus* means 'man'; it is read so in the Nirukta (Ni. 3-3-… as read [?])."
+- **vi ṛṇvati** — "From the root *ṛvi gatau*: it means 'obtains in a special way'."
+
+**Vyākaraṇa-prakriyā** *(pp. 420–421 — grammar pages, noted briefly)*
+- **krāṇā**: *ḍukṛñ karaṇe*; *śānac*; *bahulaṃ chandasi*: *u* of the characteristic dropped; being *apit sārvadhātuka*, *ṅit*: no *guṇa*; *yaṇ*; *āṭ kupvāṅ…*: *ṇatva*; *citaḥ*: end-acute; *supāṃ suluk*: lengthening of the vibhakti: *krāṇā*.
+- **niṣattaḥ**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *kta*; *natva* barred by *nasattaniṣatta…* (Pā. 8-2-61) given by *nipāta*; *upasargāt sunoti…*: *ṣatva*; *gatir anantaraḥ*: prefix accent.
+- **rayiṣāṭ**: *saha abhibhave*; *chandasi sahaḥ*: *ṇvi*; *ata upadhāyāḥ*: *vṛddhi*; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*; *vānasaṃsaneyā*… optional *ṭ* or *ḍ*; *saheḥ sāḍaḥ saḥ*: *ṣatva*: *rayiṣāṭ*.
+- **ṛñjasānaḥ**: *ṛji* in the sense of praise; *asānac*; *ṛñjivṛdhimandi sahibhyaḥ kit* (Uṇ. 2-… as read [?]): *asānac* in the object sense; *kit*; *citaḥ*: end-acute.
+- **āyuṣu**: *āyavaḥ iti manuṣyanāma*; *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-… as read [?]): *uṇ*; *ṇit*: *vṛddhi*; *ay*: *āyu*; suffix-accent: end-acute; locative plural.
+- **vāryā**: *vṛñ saṃbhaktau*; *ṛhaloṇyat*: *ṇyat*; *ṇit*: *vṛddhi*; *titsvaritam*: *svarita* is obtained, but *īḍavandavṛśaṃsa…*: initial-acute; in the neuter plural *śi*, dropped by *śeś chandasi bahulam*.
+- **ṛṇvati**: *ṛvi gatau*; *idito num dhātoḥ*; *vyatyaya*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *laṭ*; *kartari śap*; *ṛvarṇān nasya ṇatvaṃ vācyam*; *nighāta*. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58, 59, 60, 61 (the end of Volume 5; the Pariśiṣṭa from p. 531 is NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, ṛṣi Nodhas Gautama, Agni; Eleventh Anuvāka) in progress: introduction, heading, Riks 58.1–58.2 and Rik 58.3 (through English translation) written (printed p. 419, PDF 435). The Special Topics and Vyākaraṇa of Rik 3 (p. 420–, PDF 436–) and Riks 58.4–58.9 NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+### Rik 58.4 (pp. 421–424, PDF 437–440)
 
-**Next task:** continue at printed p. 420 (PDF 436) with "**Rik 58.3, continued**" (Special Topics, Vyākaraṇa), then Riks 4–9, close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up is the next job: do it only when the user asks/ in a later session). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line "nū citrava…" and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada "tṛṣu | aviṣyan" [?]; Ṛg 4-4-4 numeral [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
+**Saṃhitā-pāṭha** *(p. 421)*
+
+> **वि वातजूतो अतसेषु तिष्ठते वृथा जुहूभिः सृण्या तुविष्वणिः ।**
+> **तृषु यदग्ने वनिनो वृषायसे कृष्णं त एम रुशदूर्मे अजर ॥ ४ ॥**
+
+*vi vātajūto atáseṣu tiṣṭhate vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ |*
+*tṛṣu yad agne vanino vṛṣāyase kṛṣṇaṃ ta ema ruśadūrme ajara || 4 ||*
+
+**Pada-pāṭha** *(p. 421)*
+
+> वि । वातऽजूतः । अतसेषु । तिष्ठते । वृथा । जुहूऽभिः । सृण्या । तुविऽस्वनिः ।
+> तृषु । यत् । अग्ने । वनिनः । वृषऽयसे । कृष्णम् । ते । एमः । रुशत्ऽऊर्मे । अजर ॥ ४ ॥
+
+*vi | vāta-jūtaḥ | atáseṣu | tiṣṭhate | vṛthā | juhū-bhiḥ | sṛṇyā | tuvi-svaniḥ |*
+*tṛṣu | yat | agne | vaninaḥ | vṛṣa-yase | kṛṣṇam | te | emaḥ | ruśat-ūrme | ajara || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 422)*
+
+> **वातजूतो वायुना प्रेरितस्तुविष्वणिर्महास्वनः । एवंभूतोऽग्निर्जुहूभिः स्वकीयाभिर्जिह्वाभिः सृण्या सरणशीलेन तेजःसमूहेन च युक्तः सन् । वृथेत्यनायासवचनः । वृथानायासेनैव वातसेषूत्रतेषु वृक्षेषु वि तिष्ठते । विशेषेण तिष्ठति । हे अग्ने यद्यदा वनिनो वनसंबन्धान्वृक्षान्दग्धुं वृषायसे वृषवदाचरसि दहसीत्यर्थः । हे रुशदूर्मे दीप्तज्वाल अजर जरारहिताग्ने ते तवैव गमनमार्गः कृष्णं कृष्णवर्णो भवति ॥ वातजूतः । जू इति सौत्रो धातुः । वातेन जूतो वातजूतः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । वि तिष्ठते । समवप्रविभ्यः स्थः इत्यात्मनेपदं । जुहूभिः । हु दानादनयोः । हूयते आसु इति जुह्वः । हुवः श्लुवच्च । उ. २-१०८ । इति क्विप् । चकाराद्दीर्घः । श्लुवद्भावाद्द्विर्भावादि । धातोरित्यन्तोदात्तत्वं । सृण्या । सृ गतौ । सरतीति सृणिः । सृवृषिभ्यां कित् । उ. ४-४९ । इति निप्रत्ययः । एमु । एत्यनेनेत्येमु मार्गः । इण् गताविति । ओणादिको मनिन् । नित्त्वादाद्युदात्तत्वं ॥**
+
+*vātajūto vāyunā preritas tuviṣvaṇir mahāsvanaḥ | evaṃbhūto 'gnir juhūbhiḥ svakīyābhir jihvābhiḥ sṛṇyā saraṇaśīlena tejaḥsamūhena ca yuktaḥ san | vṛtheti anāyāsavacanaḥ | vṛthānāyāsenaiva vātaseṣūnnateṣu vṛkṣeṣu vi tiṣṭhate | viśeṣeṇa tiṣṭhati | he agne yad yadā vanino vanasaṃbandhān vṛkṣān dagdhuṃ vṛṣāyase vṛṣavad ācarasi dahasīty arthaḥ | he ruśadūrme dīptajvāla ajara jarārahitāgne te tavaiva gamanamārgaḥ kṛṣṇaṃ kṛṣṇavarṇo bhavati || vātajūtaḥ | jū iti sautro dhātuḥ | vātena jūto vātajūtaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | vi tiṣṭhate | samavapravibhyaḥ sthaḥ ity ātmanepadam | juhūbhiḥ | hu dānādanayoḥ | hūyate āsu iti juhvaḥ | huvaḥ śluvac ca | u. 2-108 [?] | iti kvip | cakārād dīrghaḥ | śluvadbhāvād dvirbhāvādi | dhātor ity antodāttatvaṃ | sṛṇyā | sṛ gatau | saratīti sṛṇiḥ | sṛvṛṣibhyāṃ kit | u. 4-49 [?] | iti ni-pratyayaḥ | emu | ety anenety emu mārgaḥ | iṇ gatāv iti | oṇādiko manin | nittvād ādyudāttatvaṃ ||*
+
+*(Reading note: "*vātaseṣu*" is the print's rendering of *atáseṣu*, dropping the first vowel; I read *atáseṣu* with the Pada and the Pratipadārtha. "*vṛṣāyase*" etc. as printed.)*
+
+**Translation of the bhāṣya:** "*Vātajūtaḥ*, urged on by the wind; *tuviṣvaṇiḥ*, of great sound: such Agni, *juhūbhiḥ*, with his tongues, and *sṛṇyā*, with a restlessly moving mass of flame, *vṛthā* (*vṛthā* means 'without effort') — *vi tiṣṭhate*, stands spread over *atáseṣu*, the lofty trees, with no effort. O Agni, *yad*, when you act like a bull — *vṛṣāyase* — to burn the *vaninaḥ*, the trees of the forest, that is, you burn: O *ruśadūrme*, of shining flames, *ajara*, ageless Agni, *te emaḥ*, your path of going, *kṛṣṇam*, becomes black."
+
+**Pratipadārtha** *(p. 422)* — "**vātajūtaḥ** — urged on by the wind; **tuviṣvaṇiḥ** — of a roaring sound; Agni; **juhūbhiḥ** — with his flames; **sṛṇyā** — with his spreading radiance; **vṛthā** — without effort; **atáseṣu** — on lofty trees; **vi tiṣṭhate** — stands pervading; **ruśadūrme** — of fierce flames; **ajara** — ageless; **agne** — O Agni; **yat** — when; **vaninaḥ** — forest trees (to burn); **tṛṣu** — alertly; **vṛṣāyase** — you rush forward like a bull; **te** — your; **emaḥ** — path (that you have traversed); **kṛṣṇam** — becomes black."
+
+**Bhāvārtha** *(p. 422)* — "Urged on by the wind and roaring loudly, Agni, with his flames and his spreading radiance, easily pervades and burns the lofty trees. O ageless Agni of fierce flames, when you rush forward like a bull to burn the forest trees, the path you have traversed becomes black."
+
+**English Translation (the source's own, p. 423)** — "Urged on by the wind, and roaring loudly, Agni easily sits upon the trees with his burning tongue and diffusive energy; when, undecaying and fiercely-blazing Agni, you rush rapidly like a bull amongst the forest trees, your path is blackened."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 423**
+- **vātajūtaḥ** — "*Vātena jūtaḥ*: urged on by the wind. *Jū* is a mere Sautra root; it is not often seen in ordinary usage."
+- **tuviṣvaṇiḥ** — "*Mahāsvanaḥ*: at the time of receiving oblations Agni is making a *bhaṭabhaṭa* sound; therefore here Agni is called 'endowed with sound', and the wind is said to be the cause of that sound."
+- **sṛṇyā** — "*Saratīti sṛṇiḥ*: this word, from the root *sṛ gatau*, shows that Agni pervades and burns everything."
+- **vṛthā** — "Here the word *vṛthā* means 'without effort'."
+- **vanino vṛṣāyase** — "In burning the forest trees you advance like a bull, that is, rush forward: whatever you want to burn, you advance with only a little strength, without effort; for no accomplishment is your whole strength needed — this is the sense."
+- **ruśadūrme** — "*Ruśantaḥ ūrmayaḥ yasya*: one of shining flames; Agni is praised so."
+- **ema** — "*Ety anena iti emu*: from the root *iṇ gatau*, it means 'path'."
+
+**Vyākaraṇa-prakriyā** *(pp. 423–424 — grammar pages, noted briefly)*
+- **vātajūtaḥ**: *jū* is a Sautra root; *kta*; *tṛtīyā karmaṇi* (Pā. 6-2-48): the first member's accent.
+- **vi tiṣṭhate**: *samavapravibhyaḥ sthaḥ* (Pā. 1-3-22): *ātmanepada* because of the prefix *vi*; *laṭ*; *ṭita ātmanepadānāṃ ṭer e*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
+- **juhūbhiḥ**: *hu dānādanayoḥ*; *huvaḥ śluvac ca* (Uṇ. 2-… as read [?]): *kvip*; the *ca* gives lengthening; *śluvad bhāva*: doubling; *hrasva*; *kuhoś cuḥ*: *j*; the suffix is wholly lost: *dhātoḥ*: end-acute.
+- **sṛṇyā**: *sṛ gatau*; *sṛvṛṣibhyāṃ kit* (Uṇ. 4-… as read [?]): *ni*; *kit*: no *guṇa*; after *ṛ*: *ṇatva*.
+- **vṛṣāyase**: *upamānād ācāre*: *kyac* after *vṛṣa* in the sense of behaving like; *kyaṅ* in this Veda... [the print: *kyac* — *jit*, so *ātmanepada*]; *yat* connected: no *nighāta*.
+- **ema**: *iṇ gatau*; Uṇādi *manin* in the sense of instrument; *guṇa*; *eman*; neuter *su*: *svamor napuṃsakāt*: *su* lost; *nalopaḥ prātipadikāntasya*; *nit*: initial-acute. **|| 4 ||**
+
+---
+
+### Rik 58.5 (pp. 424–427, PDF 440–443)
+
+**Saṃhitā-pāṭha** *(p. 424)*
+
+> **तपुर्जम्भो वन आ वातचोदितो यूथे न साह्वाँ अव वाति वंसगः ।**
+> **अभिव्रजन्नक्षितं पाजसा रजः स्थातुश्चरथं भयते पतत्रिणः ॥ ५ ॥**
+
+*tapurjambho vana ā vātacodito yūthe na sāhvāñ ava vāti vaṃsagaḥ |*
+*abhivrajann akṣitaṃ pājasā rajaḥ sthātuś carathaṃ bhayate patatriṇaḥ || 5 ||*
+
+**Pada-pāṭha** *(p. 425)*
+
+> तपुःऽजम्भः । वने । आ । वातऽचोदितः । यूथे । न । साह्वान् । अव । वाति । वंसगः ।
+> अभिऽव्रजन् । अक्षितम् । पाजसा । रजः । स्थातुः । चरथम् । भयते । पतत्रिणः ॥ ५ ॥
+
+*tapuḥ-jambhaḥ | vane | ā | vāta-coditaḥ | yūthe | na | sāhvān | ava | vāti | vaṃsagaḥ |*
+*abhi-vrajan | akṣitam | pājasā | rajaḥ | sthātuḥ | caratham | bhayate | patatriṇaḥ || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 425)*
+
+> **तपुर्जम्भः । तपूंषि ज्वाला एव जम्भा आयुधानि मुखानि वा यस्य स तथोक्तः । वातचोदितो वायुना प्रेरितः । एवंभूतोऽग्नियूर्थे ज्वालासमूहे सत्यक्षितमक्षीणं रजः आर्द्रवृक्षान्तर्गतमुदकं पाजसा तेजोबलेनाभिव्रजन् अभिमुखेन गच्छन्नेवारण्ये साह्वान् सर्वमभिभवन् आ अभिमुखेनाव वाति । व्याप्नोति । तत्र दृष्टान्तः । वंसगो न । यथा वननीयगतिर्वृषो गोयूथे सर्वमभिभवन्वर्तते तद्वत् । यस्मादेवं तस्मात्पतत्रिणः पतनवतोऽग्नेः सकाशात्स्थातुः स्थावरं चरथं चं जङ्गमं च भयते । बिभेति ॥**
+
+*tapurjambhaḥ | tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya sa tathoktaḥ | vātacodito vāyunā preritaḥ | evaṃbhūto 'gnir yūthe jvālāsamūhe saty akṣitam akṣīṇaṃ rajaḥ ārdravṛkṣāntargatam udakaṃ pājasā tejobalenābhivrajan abhimukhena gacchann evāraṇye sāhvān sarvam abhibhavan ā abhimukhenāva vāti | vyāpnoti | tatra dṛṣṭāntaḥ | vaṃsago na | yathā vananīyagatir vṛṣo goyūthe sarvam abhibhavan vartate tadvat | yasmād evaṃ tasmāt patatriṇaḥ patanavato 'gneḥ sakāśāt sthātuḥ sthāvaraṃ carathaṃ ca jaṅgamaṃ ca bhayate | bibheti ||*
+
+*(The tail of the bhāṣya, p. 425, is characterized: on *sāhvān* (*dāśvān sāhvān…* *kvasu* nipātana; the lengthening *dīrghād aṭ samānapāde*, the *ru* of *n*; *yatvalopaḥ*), *sthātuḥ* (*kimimanijanī…*: *tun*), and *bhayate* (*ñibhī bhaye*; *vyatyaya*: *ātmanepada*; *bahulaṃ chandasi*: *śluk* absent; *guṇa*).)*
+
+**Translation of the bhāṣya:** "*Tapurjambhaḥ*: *tapūṃsi*, the flames, are his *jambhāḥ*, weapons or mouths; *vātacoditaḥ*, urged on by the wind. Such Agni, *yūthe*, in the mass of flames, *akṣitam rajaḥ*, the undecayed water that is inside the wet trees, *pājasā*, by the strength of his radiance, *abhivrajan*, going towards, *sāhvān*, overcoming everything, in the forest, *ā ava vāti*, blows through and pervades. An illustration: *vaṃsago na*, as a bull of attractive gait overcomes everything in a herd of cows. Therefore *patatriṇaḥ*, from the flying Agni, the *sthātuḥ* — the immovable — and the *caratham*, the movable, *bhayate*, are afraid."
+
+**Pratipadārtha** *(p. 425)* — "**tapurjambhaḥ** — whose weapons are flames; **vātacoditaḥ** — urged on by the wind; **agni** — Agni; **yūthe** — in the mass of flames; **akṣitam** — undecaying; **rajaḥ** — the water in the wet trees; **pājasā** — by his radiance and strength; **abhivrajan** — rushing forward; **sāhvān** — overcoming everything; **vane** — in the forest; **vaṃsagaḥ na** — like a bull of attractive gait, victorious; **ava vāti** — pervades all round; **patatriṇaḥ** — from Agni who flies; **sthātuḥ** — the stationary world; **caratham** — the moving world; or after the stationary the moving world; **bhayate** — is afraid."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, Agni; Eleventh Anuvāka) in progress: Riks 58.1–58.4 complete; Rik 58.5 (Jagatī) written through the Pratipadārtha (printed p. 425, PDF 441). Its Bhāvārtha (p. 426), English, Special Topics, Vyākaraṇa (to p. 427) and Riks 58.6–58.9 (6–9 are Triṣṭubh) NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+
+**Next task:** continue at printed p. 426 (PDF 442) with "**Rik 58.5, continued**" (Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 6–9 and the close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up is the next job, when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada [?]; Ṛg 4-4-4 numeral [?]; 58.4 bhāṣya "vātaseṣu" for *atáseṣu* [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
