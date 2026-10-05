@@ -7963,8 +7963,119 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 59.1, continued** *(pp. 440–443, PDF 456–459)*
+
+**Pada-pāṭha** *(p. 440)*
+
+> वयाः । इत् । अग्ने । अग्नयः । ते । अन्ये । त्वे इति । विश्वे । अमृताः । मादयन्ते ।
+> वैश्वानर । नाभिः । असि । क्षितीनाम् । स्थूणाऽइव । जनान् । उपऽमित् । यमन्थ ॥ १ ॥
+
+*vayāḥ | it | agne | agnayaḥ | te | anye | tve iti | viśve | amṛtāḥ | mādayante |*
+*vaiśvānara | nābhiḥ | asi | kṣitīnām | sthūṇā-iva | janān | upa-mit | yayantha || 1 ||*
+
+*(The Saṃhitā's "yayantha" is as printed.)*
+
+**Sāyaṇa-bhāṣya** *(p. 440)*
+
+> **वयाः शाखा वेतेर्वातायना भवन्तीति यास्कः । नि. १-४ । हे अग्ने येऽत्र नैवान्येऽग्नयः सन्ति ते सर्वेऽपि ते तव वया इत् शाखा एव । तत्स्वतोऽन्ये न सन्तीति भावः । किंच त्वे त्वयि सति विश्वे सर्वेऽमृता अमरणधर्माणो देवा मादयन्ते । हृष्यन्ति । न हि त्वद्व्यतिरेकेण तैर्जीवितुं शक्यते । हे वैश्वानर विश्वेषां नराणां जाठररूपेण संबन्धिन्नग्ने क्षितीनां मनुष्याणां नाभिः संनद्धासि । आवस्थापको भवसि । अतस्त्वमुपमिदुपस्थापयिता सन् । यद्वा । उपमिदित्येतद्दृष्टान्तविशेषणं । जनान्ययन्थ । आधारयेः । तत्र दृष्टान्तः । उपमिदुपनिखाता स्थूणेव वंशधारणार्थं निखातः स्तम्भो यथा गृहोपरिस्थं वंशं धारयति तद्वत् ॥**
+
+*vayāḥ śākhā veter vātāyanā bhavantīti yāskaḥ | ni. 1-4 [?] | he agne ye 'tra naivānye 'gnayaḥ santi te sarve 'pi te tava vayā it śākhā eva | tat svato 'nye na santīti bhāvaḥ | kiṃca tve tvayi sati viśve sarve 'mṛtā amaraṇadharmāṇo devā mādayante | hṛṣyanti | na hi tvadvyatirekeṇa tair jīvituṃ śakyate | he vaiśvānara viśveṣāṃ narāṇāṃ jāṭharūpeṇa saṃbandhinn agne kṣitīnāṃ manuṣyāṇāṃ nābhiḥ saṃnaddhāsi | āvasthāpako bhavasi | atas tvam upamid upasthāpayitā san | yadvā | upamid ity etad dṛṣṭāntaviśeṣaṇaṃ | janān yayantha | ādhārayeḥ | tatra dṛṣṭāntaḥ | upamid upanikhātā sthūṇeva vaṃśadhāraṇārthaṃ nikhātaḥ stambho yathā gṛhoparisthaṃ vaṃśaṃ dhārayati tadvat ||*
+
+**Translation of the bhāṣya:** "*Vayāḥ* are branches — 'the *vayāḥ* are from *vetiḥ*; they are the wind-passages [i.e. branches]', says Yāska (Ni. 1-4 [?]). O Agni, whatever other fires there are here, all of them are only your *vayā it*, branches; apart from you they do not exist on their own. Further, *tve*, when you are, *viśve amṛtāḥ*, all the immortal gods *mādayante*, rejoice; they cannot live without you. O *vaiśvānara*, Agni, related to all men in the form of the belly-fire, you are *nābhiḥ*, the navel, the centre, of *kṣitīnām*, men: you are the establisher. Therefore you, *upamit*, as one who sets firmly, *janān yayantha*, uphold the people — an example: *sthūṇā iva*, as a pillar planted deep to hold the beam holds the roof-beam over a house."
+
+**Pratipadārtha** *(pp. 440–441)* — "**agne** — O Agni; **anye agnayaḥ** — whichever other fires; **vayā it** — are but your branches; **tve** — in you; **viśve amṛtāḥ** — all the deathless gods; **mādayante** — rejoice; **vaiśvānara** — O Agni, who among all men in the form of the belly-fire; **kṣitīnām** — of men; **nābhiḥ asi** — are the centre, as the navel; **upamit** — set deep; **sthūṇā iva** — as a pillar [holds the house up well]; **janān** — men; **yayantha** — you hold, giving support."
+
+**Bhāvārtha** *(p. 441)* — "O Agni, whatever other fires there are in the world are your branches. Because of you all the deathless gods rejoice. Dwelling in the belly of all men as belly-fire, you stand in the centre as the navel. Like a deep-planted pillar that holds up the roof-beam of a house, you stand holding and supporting all men."
+
+**English Translation (the source's own, p. 441)** — "O Agni, whatever other fires there may be, they are but ramifications of you; all the immortals rejoice in you; you Vaiswanara, are the navel of men and uphold them like a deep-planted column."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 441**
+- **vayāḥ** — "*Vayā śākhā veter vātāyanā bhavanti* (Ni. 1-4 [?]): the word *vayas* means 'branch'. The Nirukta explains *vayaḥ* as a synonym of *śākhā*: '*vayaḥ śākhāḥ*'."
+- **mādayante** — "*Hṛṣyanti*: if the gods are to rejoice greatly, Agni's help is absolutely necessary: that is the sense — without Agni they cannot be satisfied."
+- **vaiśvānara** — "*Viśve ca ime narāḥ viśvānarāḥ tatsaṃbandhī vaiśvānaraḥ*: Agni who abides in the heart of all men in the form of the belly-fire."
+- **upamit** — "One who establishes. This word may be made an epithet of Agni or of the post given as an illustration here: as a pillar planted to bear the burden of a house bears all the weight of the house, you, standing in the belly of men, are the support of the life of all."
+
+**Vyākaraṇa-prakriyā** *(pp. 442–443 — grammar pages, noted briefly)*
+- **mādayante**: *mada tṛptiyoge*, *curādi*; *satyāpapāśa…*: *ṇic* in the own sense; *ata upadhāyāḥ*: *vṛddhi*; *laṭ* third plural; *nighāta*.
+- **vaiśvānara**: *viśve ca ime narāś ca viśvānarāḥ*; *nare saṃjñāyām* (Pā. 6-3-129): lengthening of the first member; *viśvānarasya ayaṃ vaiśvānaraḥ*: *tasyedam*: *aṇ*; *ñit*: *ādivṛddhi*; the vocative: *eṅhrasvāt sambuddheḥ*: *sulopa*; at the head of a pāda: no *nighāta*; *āmantritasya ca*: initial-acute.
+- **nābhiḥ**: *ṇah bandhane*; *ṇo naḥ*: *na* for *ṇa*; *nahobhaś ca* (Uṇ. 4-… as read [?]): *iñ*; *bh* by *ante* for the root's *h*; *ñit*: *ata upadhāyāḥ*: *vṛddhi*; *ñnityādir nityam*: initial-acute.
+- **asi**: *as bhuvi*; *sip*; *tāsasty…*: loss of *s*; *nighāta*.
+- **kṣitīnām**: *kṣi nivāsagatyoḥ*; *ktic ktau ca saṃjñāyām*: *ktic*; *kit*: no *guṇa*; *citaḥ*: end-acute; genitive plural *nām*; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām*: acute of the vowel.
+- **janān**: accusative plural; *dīrghād aṭi samānapāde*: *n* → *ru*; *ato 'ṭ ni…*: nasalization of the preceding *ā*.
+- **upamit**: *ḍumiñ prakṣepaṇe*; with *upa* before: *bahulavacanāt*: *kvip* in the object sense; *hrasvasya piti kṛti tuk*: *tuk*; *gatikārakopapadāt kṛt*: the *kṛdanta*'s accent.
+- **yayantha**: *yamu uparame*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; though the root is *aniṭ*, *kradiniyama*: *iṭ* would be obtained for *thal*, but *upadeśe 'tvataḥ*: *iṇ-niṣedha* because the root has *a* in the *upadeśa*; the *m* before *th*: *anusvāra*, then *anusvārasya yayi parasavarṇaḥ*: *n*; *nighāta*. **|| 1 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439; Sūkta 58 ends p. 439 with its closing line). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated) — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, ṛṣi Nodhas Gautama, Agni Vaiśvānara, Triṣṭubh; Eleventh Anuvāka, second sūkta) in progress: introduction, heading and the Saṃhitā of Rik 59.1 written (printed p. 439, PDF 455). The Pada is on p. 440 (PDF 456). Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+### Rik 59.2 (pp. 443–445, PDF 459–461)
 
-**Next task:** continue at printed p. 440 (PDF 456) with "**Rik 59.1, continued**" (Pada, bhāṣya, …), Riks 2–7, close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro numerals [?], 58.2 Saṃhitā "tṛṣu cyavāno" [?], 58.4 "vātaseṣu" [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
+**Saṃhitā-pāṭha** *(p. 443)*
+
+> **मूर्धा दिवो नाभिरग्निः पृथिव्या अथाभवदरती रोदस्योः ।**
+> **तं त्वा देवासोऽजनयन्त देवं वैश्वानर ज्योतिरिदार्याय ॥ २ ॥**
+
+*mūrdhā divo nābhir agniḥ pṛthivyā athābhavad aratī rodasyoḥ |*
+*taṃ tvā devāso 'janayanta devaṃ vaiśvānara jyotir id āryāya || 2 ||*
+
+**Pada-pāṭha** *(p. 443)*
+
+> मूर्धा । दिवः । नाभिः । अग्निः । पृथिव्याः । अथ । अभवत् । अरतिः । रोदस्योः ।
+> तम् । त्वा । देवासः । अजनयन्त । देवम् । वैश्वानर । ज्योतिः । इत् । आर्याय ॥ २ ॥
+
+*mūrdhā | divaḥ | nābhiḥ | agniḥ | pṛthivyāḥ | atha | abhavat | aratiḥ | rodasyoḥ |*
+*tam | tvā | devāsaḥ | ajanayanta | devam | vaiśvānara | jyotiḥ | it | āryāya || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 443)*
+
+> **विषुवत्संज्ञेऽहन्यग्निमारुते मूर्धा दिवो नाभिरग्निः पृथिव्या इति वैकल्पिकोऽनुरूपस्तृचः । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । मूर्धानं दिवो अरतिं पृथिव्या मूर्धा दिवो नाभिरग्निः पृथिव्या इति वा । आ. ८-६ [?] इति ॥ अयमग्निर्दिवो द्युलोकस्य मूर्धा शिरोवत्प्रधानभूतो भवति । पृथिव्या भूमेश्च नाभिः संनाहकः । रक्षक इत्यर्थः । अथानन्तरं रोदस्योर्द्यावापृथिव्योरयमरतिरधिपतिरभवत् । हे वैश्वानर तं तादृशं देवं दानादिगुणयुक्तं त्वा त्वां देवासः सर्वे देवा आर्याय विदुषे मनवे यजमानाय वा ज्योतिरित् ज्योतीरूपमेवाजनयन्त । उदपादयन् ॥ मूर्तमस्मिन्धीयत इति मूर्धा । नि. २-२२ । श्वन्नुक्षन्निति…**
+
+*viṣuvatsaṃjñe 'hany agnimārute mūrdhā divo nābhir agniḥ pṛthivyā iti vaikalpiko 'nurūpas tṛcaḥ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā | ā. 8-6 [?] iti || ayam agnir divo dyulokasya mūrdhā śirovat pradhānabhūto bhavati | pṛthivyā bhūmeś ca nābhiḥ saṃnāhakaḥ | rakṣaka ity arthaḥ | athānantaraṃ rodasyor dyāvāpṛthivyor ayam aratir adhipatir abhavat | he vaiśvānara taṃ tādṛśaṃ devaṃ dānādiguṇayuktaṃ tvā tvāṃ devāsaḥ sarve devā āryāya viduṣe manave yajamānāya vā jyotir it jyotīrūpam evājanayanta | udapādayan || mūrtam asmin dhīyata iti mūrdhā | ni. 2-22 [?] | śvann ukṣann iti …*
+
+*(The last words, "*śvann ukṣann iti*", begin the grammatical tail on the Nirukta etymology of *mūrdhan*; the tail — on *pṛthivyāḥ* (*ṣid gaurādibhyaś ca*), *ajanayanta* (*janī prādurbhāve*, *ṇic*, *mitāṃ hrasvaḥ*; *janījṛṣkṣnasuraṃjo mantāś ca*, Dhā. gaṇa-sūtra as read [?]) — is characterized.)*
+
+**Translation of the bhāṣya:** "On the day called Viṣuvat, in the Agni–Māruta [recitation], 'mūrdhā divo nābhir agniḥ pṛthivyāḥ' is an optional alternative to the preceding triplet; in the section 'viṣuvān divākīrtyaḥ' it is aphorized: '*mūrdhānaṃ divo aratiṃ pṛthivyāḥ* or *mūrdhā divo nābhir agniḥ pṛthivyāḥ*' (Āśv. 8-6 [?]). This Agni is the *mūrdhā*, head, of heaven: chief like a head; *nābhiḥ*, navel — the binder, the protector — of the earth; and then *rodasyoḥ*, of heaven and earth, he became *aratiḥ*, the lord. O Vaiśvānara, such a god, endowed with qualities like generosity, *tvā*, you, *devāsaḥ*, all the gods *ajanayanta*, produced, for the *āryāya*, the wise Manu or the sacrificer, *jyotir it*, as light itself. *Mūrdhā*: 'that in which the formed [body] is placed' (Ni. 2-22 [?])."
+
+**Pratipadārtha** *(p. 444)* — "**agniḥ** — Agni; **divaḥ** — of heaven; **mūrdhā** — (the principal) head; **pṛthivyāḥ** — of earth; **nābhiḥ** — (protector) as the navel; **atha** — and; **rodasyoḥ** — of heaven and earth; **aratiḥ** — the lord; **abhavat** — became; **vaiśvānara** — O Agni; **tam** — such; **devam** — one endowed with generosity; **tvā** — you; **devāsaḥ** — all the gods; **āryāya** — for the wise Manu, or for the sacrificer; **jyotiḥ it** — as light; **ajanayanta** — created."
+
+**Bhāvārtha** *(p. 444)* — "Agni is chief of the heaven world like a head; he is the protector of the earth as the navel is of the body; and he is the lord of both heaven and earth. O Agni, endowed with generosity and other qualities, all the gods created you in the form of light for the wise sacrificer."
+
+**English Translation (the source's own, p. 444)** — "Agni, the head of heaven, the navel of earth, became the ruler over earth and heaven; all the gods created you, Vaiswanara, in the shape of light for the Arya." *(Printed "Transation" [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 444**
+- *(first Special Topic)* "In the sacrifice called Viṣuvat, when reciting the Agni–Māruta śastra mantras, the three Riks beginning '*mūrdhā divo nābhir agniḥ pṛthivyāḥ*' may be used as an optional alternative; the Āśvalāyana Śrauta Sūtra in the section '*viṣuvān divākīrtyaḥ*' explains it by the sūtra '*mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā*' (Āśv. 8-6 [?])."
+- **mūrdhā** — "*Śirovat pradhānabhūto bhavati*: Agni is the chief among all the gods, as the head among the limbs. The Nirukta-author supports it: '*mūrtam asmin dhīyate iti mūrdhā*' (Ni. 2-22 [?])."
+- **āryāya** — "*Vidvāṃsāya, manave, yajamānāya*: the sense 'wise one, Manu, the sacrificer' is given here."
+- **jyotir it** — "*Jyotīrūpam eva*: here the word *it* is established in the sense of *eva*; 'he became light itself' is its sense."
+
+**Vyākaraṇa-prakriyā** *(p. 445 — grammar page, noted briefly)*
+- **mūrdhā**: "*mūrtam asmin dhīyate*" (Ni. 2-22 [?]), Yāska's etymology; *śvan-ukṣan…* (Uṇ. 1-… as read [?]): the form is established as an irregular *nipāta*.
+- **divaḥ**: *ūḍidam…*: ending acute.
+- **pṛthivyāḥ**: *pṛthivī*, with the *ṅīṣ* by *ṣid gaurādibhyaś ca*, hence end-acute; genitive; *udāttayaṇo hal pūrvāt*: the ending acute.
+- **abhavat**: *bhū sattāyām*; *laṅ*; *nighāta*.
+- **devāsaḥ**: *ājjaserasuk*.
+- **ajanayanta**: *janī prādurbhāve*; the causative; *hetumati ca*: *ṇic*; *ata upadhāyāḥ*: *vṛddhi*; *jani* is a root by *sanādyantā dhātavaḥ*; *laṅ* third plural, *jha*: *jho 'ntaḥ*: *anta*; *janījṛṣkṣnasuraṃjo 'mantāś ca* (Dhātupāṭha *gaṇa*, as read [?]): the root is *mit*, hence *mitāṃ hrasvaḥ*: shortening; *śap*, *guṇa*, *ayādeśa*; *laṅ* gives *aṭ*; *nighāta*.
+- **nābhiḥ**, **vaiśvānara**: explained in the previous mantra. **|| 2 ||**
+
+---
+
+### Rik 59.3 (pp. 445–, PDF 461–)
+
+**Saṃhitā-pāṭha** *(p. 445)*
+
+> **आ सूर्यो न रश्मयो ध्रुवासो वैश्वानरे दधिरेऽग्ना वसूनि ।**
+> **या पर्वतेष्वोषधीष्वप्सु या मानुषेष्वसि तस्य राजा ॥ ३ ॥**
+
+*ā sūryo na raśmayo dhruvāso vaiśvānare dadhire 'gnā vasūni |*
+*yā parvateṣv oṣadhīṣv apsu yā mānuṣeṣv asi tasya rājā || 3 ||*
+
+*(The print's reading of the last line is "या मानुषेष्वसि तस्य राजा" — I take the Pada's* yā mānuṣeṣu | asi | tasya | rājā*, pending the Pada on p. 446.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, Agni Vaiśvānara, Triṣṭubh) in progress: Riks 59.1–59.2 complete; Rik 59.3 Saṃhitā written (printed p. 445, PDF 461). Its Pada is on p. 446 (PDF 462). Riks 59.3 (rest)–59.7 NOT yet written. Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+
+**Next task:** continue at printed p. 446 (PDF 462) with "**Rik 59.3, continued**" (Pada, bhāṣya …), Riks 4–7, close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro numerals [?]; Sūkta 59 intro and Āśvalāyana/Nirukta numerals [?]; 59.2 bhāṣya's last words (Nirukta etymology) partly crowded [?]; Uṇādi/Pāṇini numerals [?].
