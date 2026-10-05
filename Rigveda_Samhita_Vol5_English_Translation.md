@@ -8074,8 +8074,163 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 59.3, continued** *(pp. 446–448, PDF 462–464)*
+
+**Pada-pāṭha** *(p. 446)*
+
+> आ । सूर्ये । न । रश्मयः । ध्रुवासः । वैश्वानरे । दधिरे । अग्ना । वसूनि ।
+> या । पर्वतेषु । ओषधीषु । अप्ऽसु । या । मानुषेषु । असि । तस्य । राजा ॥ ३ ॥
+
+*ā | sūrye | na | raśmayaḥ | dhruvāsaḥ | vaiśvānare | dadhire | agnā | vasūni |*
+*yā | parvateṣu | oṣadhīṣu | ap-su | yā | mānuṣeṣu | asi | tasya | rājā || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 446)*
+
+> **अग्ना वैश्वानरे ग्नौ वसूनि धनान्या दधिरे । आहितानि स्थापितानि बभूवुः । तत्र दृष्टान्तः । ध्रुवासो निश्चला रश्मयः किरणाः सूर्ये न यथा सूर्य आधीयन्ते तद्वत् । अतस्त्वं पर्वतादिषु यानि धनानि विद्यन्ते तस्य धनजातस्य राजासि । अधिपतिर्भवसि ॥**
+
+*agnā vaiśvānare 'gnau vasūni dhanāny ā dadhire | āhitāni sthāpitāni babhūvuḥ | tatra dṛṣṭāntaḥ | dhruvāso niścalā raśmayaḥ kiraṇāḥ sūrye na yathā sūrya ādhīyante tadvat | atas tvaṃ parvatādiṣu yāni dhanāni vidyante tasya dhanajātasya rājāsi | adhipatir bhavasi ||*
+
+*(The tail, p. 446: on *agnā* (*supāṃ sulug…*: *ḍā* for the locative), *ojasā*… *oṣadhīṣu* (*uṣa dāhe*, *ghañ*, *oṣaḥ pākaḥ*; *oṣa āsu dhīyate*; *kirupa* in the locative-sense), *apsu* (*ūḍidam…*) — characterized.)*
+
+**Translation of the bhāṣya:** "*Agnā*, in the fire Vaiśvānara, *vasūni*, treasures, *ā dadhire*, were deposited, set up. An example: as the *dhruvāsaḥ*, steady rays are placed in the sun, so. Therefore you are the king, the lord, of all the treasures that exist in mountains and the like."
+
+**Pratipadārtha** *(p. 446)* — "**vaiśvānare agnā** — in Agni who abides as Vaiśvānara; **vasūni** — (all) treasures; **dhruvāsaḥ** — constant; **raśmayaḥ** — rays; **sūrye na** — as they are placed in the sun; **ā dadhire** — are deposited (therefore you); **parvateṣu** — in mountains; **oṣadhīṣu** — in herbs; **apsu** — in waters; **mānuṣeṣu** — among men; **yā** — whatever treasures; **tasya** — of all that mass of wealth; **rājā asi** — you are the lord."
+
+**Bhāvārtha** *(p. 446)* — "As the constant rays are placed in the sun, all wealth is deposited in Agni, who abides as Vaiśvānara. Therefore, O Agni, you are the lord of all the wealth that is in mountains, in herbs, in waters and among men."
+
+**English Translation (the source's own, p. 447)** — "Treasures were deposited in Agni, Vaiswanara, like the permanent rays (of light) the Sun; You are the sovereign of all the treasures that exist in the mountains, in the herbs, in the waters, or amongst men."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 447** — **agnā**: "here the vocative sense of *he agne* is expressed by the *ā* substitution for the first case." **ā dadhire**: "*āhitāni sthāpitāni babhūvuḥ*: were completely placed." **sūryena** [*sūrye na*]: "as steady rays are contained in the sun, so all kinds of treasure are contained in you — that is the illustration given for praising Agni." **oṣadhīṣu**: "from *uṣa dāhe*: *oṣaḥ* means *pāka*, 'ripening'; by the derivation '*oṣaḥ āsu dhīyate iti oṣadhayaḥ*', it is shown that every kind of quality is produced by ripening, in the word *oṣadhi*."
+
+**Vyākaraṇa-prakriyā** *(p. 447 — noted briefly)*: **dhruvāsaḥ**: *ājjaserasuk*. **dadhire**: *ḍudhāñ*; *liṭ* third plural; *liṭas tajhayor eśirec*: *irec*; *nighāta*. **agnā**: *agni* + locative; *supāṃ suluk…*: *ḍā*; *ḍit*: loss of *ṭi*. **yā**: *yad*; neuter plural *śi* lost (*śeś chandasi bahulam*). **oṣadhīṣu**: *uṣa dāhe*; *ghañ*; *pugantalaghūpadha-guṇa*; *ñit* hence initial-acute; *karmaṇy adhikaraṇe ca* (Pā. 3-3-93): *ki* in the locative sense; loss of *ā* of *dhā*; *dāsībhārādi*: first member's accent. **apsu**: *ap*, locative plural; *ūḍidam…*: ending acute; *asi*: *yat* before: no *nighāta*; root's accent. **|| 3 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, Agni Vaiśvānara, Triṣṭubh) in progress: Riks 59.1–59.2 complete; Rik 59.3 Saṃhitā written (printed p. 445, PDF 461). Its Pada is on p. 446 (PDF 462). Riks 59.3 (rest)–59.7 NOT yet written. Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+### Rik 59.4 (pp. 448–450, PDF 464–466)
 
-**Next task:** continue at printed p. 446 (PDF 462) with "**Rik 59.3, continued**" (Pada, bhāṣya …), Riks 4–7, close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro numerals [?]; Sūkta 59 intro and Āśvalāyana/Nirukta numerals [?]; 59.2 bhāṣya's last words (Nirukta etymology) partly crowded [?]; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(p. 448)*
+
+> **बृहती इव सूनवे रोदसी गिरो होता मनुष्यो न दक्षः ।**
+> **स्वर्वते सत्यशुष्माय पूर्वीर्वैश्वानराय नृतमाय यह्वीः ॥ ४ ॥**
+
+*bṛhatī iva sūnave rodasī giro hotā manuṣyo na dakṣaḥ |*
+*svarvate satyaśuṣmāya pūrvīr vaiśvānarāya nṛtamāya yahvīḥ || 4 ||*
+
+**Pada-pāṭha** *(p. 448)*
+
+> बृहती इवेति बृहती ऽइव । सूनवे । रोदसी इति । गिरः । होता । मनुष्यः । न । दक्षः ।
+> स्वःऽवते । सत्यऽशुष्माय । पूर्वीः । वैश्वानराय । नृऽतमाय । यह्वीः ॥ ४ ॥
+
+*bṛhatī iveti bṛhatī-iva | sūnave | rodasī iti | giraḥ | hotā | manuṣyaḥ | na | dakṣaḥ |*
+*svaḥ-vate | satya-śuṣmāya | pūrvīḥ | vaiśvānarāya | nṛ-tamāya | yahvīḥ || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 448)*
+
+> **रोदसी द्यावापृथिव्यौ सूनवे स्वपुत्राय वैश्वानराय बृहती इव प्रभूते इवाभूतां । वैश्वानरस्य द्यावापृथिव्योः पुत्रत्वं मन्त्रान्तरे स्पष्टमवगम्यते । उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसेति । ऋग्वे. ३-३-११ । इति । महतो वैश्वानरस्यावस्थानाय द्यावापृथिव्यौ विस्तृते जाते इत्यर्थः । किंचायं होता देवानामाह्वाता दक्षः समर्थः पूर्वीर्बहुविधा यह्वीर्महतीर्गिरः स्तुतीर्वैश्वानरायाग्नये प्रायुंक्तेति शेषः । कीदृशायास्मै । स्वर्वते शोभनगमनयुक्ताय । सत्यशुष्मायावितथबलाय । नृतमायातिशयेन सर्वेषां नेत्रे । तत्र दृष्टान्तः । मनुष्यो न । यथा मनुष्यो लौकिको वन्दी दातारं प्रभुं बहुविधया स्तुत्या स्तौति तद्वत् ॥**
+
+*rodasī dyāvāpṛthivyau sūnave svaputrāya vaiśvānarāya bṛhatī iva prabhūte ivābhūtāṃ | vaiśvānarasya dyāvāpṛthivyoḥ putratvaṃ mantrāntare spaṣṭam avagamyate | ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retaseti | ṛgve. 1-… [print: ३-३-११, i.e. 3-3-11 [?]] | iti | mahato vaiśvānarasyāvasthānāya dyāvāpṛthivyau vistṛte jāte ity arthaḥ | kiṃcāyaṃ hotā devānām āhvātā dakṣaḥ samarthaḥ pūrvīr bahuvidhā yahvīr mahatīr giraḥ stutīr vaiśvānarāyāgnaye prāyuṅkteti śeṣaḥ | kīdṛśāyāsmai | svarvate śobhanagamanayuktāya | satyaśuṣmāyāvitathabalāya | nṛtamāyātiśayena sarveṣāṃ netre | tatra dṛṣṭāntaḥ | manuṣyo na | yathā manuṣyo laukiko vandī dātāraṃ prabhuṃ bahuvidhayā stutyā stauti tadvat ||*
+
+**Translation of the bhāṣya:** "*Rodasī*, heaven and earth, for *sūnave*, their own son Vaiśvānara, became *bṛhatī iva*, vast as it were. That Vaiśvānara is the son of heaven and earth is clearly understood from another mantra: 'Agni was born making both parents great, heaven and earth, rich in seed' (Ṛ. 3-3-11 [?]) — that is: heaven and earth became broad for the abiding of the great Vaiśvānara. Further, this *hotā*, the invoker of the gods, *dakṣaḥ*, capable, *pūrvīḥ yahvīḥ giraḥ*, many mighty praises, [offers] to Vaiśvānara, Agni (this is understood) — to what sort of one? *Svarvate*, who has an attractive gait; *satyaśuṣmāya*, of unfailing strength; *nṛtamāya*, the best leader of all men. An example: *manuṣyo na*, as an ordinary man, a bard, praises a generous lord with praises of many kinds."
+
+**Pratipadārtha** *(p. 449)* — "**rodasī** — heaven and earth; **sūnave** — for their son (Agni in the form of Vaiśvānara); **bṛhatī iva** — as if became vast; **dakṣaḥ** — the capable; **hotā** — the invoker; **svarvate** — to one of attractive motion; **satyaśuṣmāya** — of effective strength; **nṛtamāya** — the best guide; **vaiśvānarāya** — to Agni; **manuṣyo na** — as a worldly bard praises (the praiser of the qualities of a king); **pūrvīḥ** — ancient, or of many kinds; **yahvīḥ** — and great; **giraḥ** — praises; (he offers)."
+
+**Bhāvārtha** *(p. 449)* — "Heaven and earth both appeared widely spread for their son Agni. The capable hotṛ offers to Agni — of attractive motion, effective strength, and best guide — ancient and great praises, as a bard praises the qualities of a king."
+
+**English Translation (the source's own, p. 449)** — "Heaven and earth expanded as it were for their son. The experienced sacrificer recites, like a bard, many ancient and copious praises addressed to the graceful-moving, truly-vigorous and all-guiding Vaiswanara."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 449–450**
+- **sūnave** — "Here Agni is the son of heaven and earth. As proof the śruti '*ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā*' (Ṛ. Saṃ. 3-3-11 [?])."
+
+  > **उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसा ।**
+
+  *ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā |* — mine and tentative: "making both parents great, Agni was born, heaven and earth, with abundant seed." — "It says that heaven and earth are Agni's mother and father: for the sake of the great Agni's abiding the earth and atmosphere became very wide."
+- **svarvate, satyaśuṣmāya** — "These two words indicate Agni's special manner of going: though his gait is graceful, he is [praised as] of special strength."
+- **manuṣyo na** — "'like a man'; here the illustration: as in the world a man, being a bard, praises the lord who gives wealth with many kinds of praise, so the hotṛ praises Agni with many praises."
+
+**Vyākaraṇa-prakriyā** *(p. 450 — noted briefly)*
+- **manuṣyaḥ**: *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161): *yat* after *manu*; *ṣuk*; *titsvaritam*: *svarita*; *yato 'nāvaḥ* would give initial-acute, but because of the continued *dvyacaḥ* there, as the word is polysyllabic, the rule does not apply.
+- **svarvate**: *svar* (*ṛ gatau*; *su* before; *vic*); *guṇa*; *svar* [*svaḥ*] has *matup*: *tad asyāsty asmin*; *māduḥ upadhāyāś ca matoḥ*: *v*; *nyaṅ svarau svaritau*: *svarita*; dative.
+- **satyaśuṣmāya**: bahuvrīhi; first member's accent.
+- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *pyābhidivyadhi…* (Uṇ. 1-… as read [?]): *ku*; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*: *puru*; *voto guṇavacanāt*: *ṅīṣ* for the feminine; *yaṇ* for the acute *u*; *halica*: lengthening; suffix-accent: end-acute. **|| 4 ||**
+
+---
+
+### Rik 59.5 (pp. 450–453, PDF 466–469)
+
+**Saṃhitā-pāṭha** *(p. 450)*
+
+> **दिवश्चित्ते बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वम् ।**
+> **राजा कृष्टीनामसि मानुषीणां युधा देवेभ्यो वरिवश्चकर्थ ॥ ५ ॥**
+
+*divaś cit te bṛhato jātavedo vaiśvānara pra ririce mahitvam |*
+*rājā kṛṣṭīnām asi mānuṣīṇāṃ yudhā devebhyo varivaś cakartha || 5 ||*
+
+**Pada-pāṭha** *(p. 451)*
+
+> दिवः । चित् । ते । बृहतः । जातऽवेदः । वैश्वानर । प्र । रिरिचे । महित्वम् ।
+> राजा । कृष्टीनाम् । असि । मानुषीणाम् । युधा । देवेभ्यः । वरिवः । चकर्थ ॥ ५ ॥
+
+*divaḥ | cit | te | bṛhataḥ | jāta-vedaḥ | vaiśvānara | pra | ririce | mahitvam |*
+*rājā | kṛṣṭīnām | asi | mānuṣīṇām | yudhā | devebhyaḥ | varivaḥ | cakartha || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 451)*
+
+> **हे जातवेदो जातानां वेदितर्वैश्वानराग्ने ते तव महित्वं माहात्म्यं बृहतो महतो दिवश्चित् द्युलोकादपि प्र रिरिचे । प्रववृधे । किंच त्वं मानुषीणां मनोर्जातानां कृष्टीनां प्रजानां राजासि । अधिपतिर्भवसि । तथा वरिवोऽसुरैरपहृतं धनं युधा युद्धेन देवेभ्यश्चकर्थ । देवाधीनमकार्षीः ॥**
+
+*he jātavedo jātānāṃ veditar vaiśvānarāgne te tava mahitvaṃ māhātmyaṃ bṛhato mahato divaś cit dyulokād api pra ririce | pravavṛdhe | kiṃca tvaṃ mānuṣīṇāṃ manor jātānāṃ kṛṣṭīnāṃ prajānāṃ rājāsi | adhipatir bhavasi | tathā vari­vo 'surair apahṛtaṃ dhanaṃ yudhā yuddhena devebhyaś cakartha | devādhīnam akārṣīḥ ||*
+
+*(The tail, p. 451: on *ririce* (*ricir virecane*; *upasargavaśāt* the sense "to exceed"), *kṛṣṭīnām*, *mānuṣīṇām* (*śārṅgaravādyañño ṅīn*), *yudhā* (*kvip*), *variva* (*nabviṣayasyānyatarasyām*) — characterized.)*
+
+**Translation of the bhāṣya:** "O *jātavedaḥ*, knower of what is born, Vaiśvānara Agni, your *mahitvam*, greatness, *pra ririce*, exceeds — grows beyond — even *divaḥ bṛhataḥ*, the vast heaven. And you are *rājā*, lord, of *mānuṣīṇām kṛṣṭīnām*, the peoples born of Manu; and *varivaḥ*, the wealth carried off by the Asuras, *yudhā*, by battle, *devebhyaḥ cakartha*, you recovered for the gods — you placed it under the gods' control."
+
+**Pratipadārtha** *(p. 451)* — "**jātavedaḥ** — you who know all that is born; **vaiśvānara** — O Agni; **te** — your; **mahitvam** — greatness; **bṛhataḥ** — spacious; **divaḥ cit** — than even heaven; **pra ririce** — exceeded; **mānuṣīṇām** — born of Manu; **kṛṣṭīnām** — of all peoples; **rājā asi** — you are the lord; (likewise) **varivaḥ** — the wealth carried off by Asuras; **yudhā** — by battle; **devebhyaḥ** — for the gods; **cakartha** — [again] gained."
+
+**Bhāvārtha** *(pp. 451–452)* — "O Agni, you know all that is born. Your greatness has grown beyond even the spacious heaven. And you are the lord of all peoples born of Manu; and, fighting against the Asuras, you regained for the gods the wealth they had carried off."
+
+**English Translation (the source's own, p. 452)** — "Vaiswanara, who knows all that are born, your magnitude has exceeded that of the spacious heaven; you are the monarch of Manu-descended men; you have regained for the gods in battle, the wealth (carried off by the Asuras)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 452** — **jātavedaḥ**: "*Jātānāṃ veditā*: one who knows all things born; or one who is known by all." **vaiśvānara**: "one who abides in the heart of all men in the form of belly-fire (Agni)." **varivaḥ**: "*asurair apahṛtaṃ dhanam*: Agni is prayed to as having fought and recovered for the gods the wealth carried off by enemies; in the Nirukta (Ni. 3-8 as read [?]) the word *varivas* is read among eight synonyms of wealth beginning with *maghaṃ*, *rekṇaḥ*."
+
+**Vyākaraṇa-prakriyā** *(pp. 452–453 — noted briefly)* — **vaiśvānara**: as explained in the same sūkta's first mantra; at the head of a pāda: no *nighāta*; *āmantritasya ca*: initial-acute. **ririce**: *ricir virecane*; by the prefix *pra* the sense is reversed to "exceed" (*upasargeṇa dhātvartho balād anyaḥ pratīyate*); *liṭ* third singular; *eś*; doubling; *nighāta*. **kṛṣṭīnām**: *hrasvanadyāpo nuṭ*; *nāmi*: lengthening of the *ī*; *nāmanyatarasyām*: acute of *nām*. **mānuṣīṇām**: *manor jātāv…*: *añ*, so *mānuṣa*; in the feminine *jāter astrīviṣayād ayopadhāt* (Pā. 4-1-63) would give *ṅīṣ*, but by exception *śārṅgaravādyañño ṅīn* (Pā. 4-1-73): *ṅīn*; *ñit*: initial-acute; *nāmanyatarasyām* would give acute on *nām*, but *jyāścandasi bahulam* (Pā. 6-1-… as read [?]): no acute here. **yudhā**: *yudha saṃprahāre*; *saṃpadādibhyaḥ kvip*; instrumental; *sāvekācas tṛtīyādiḥ*. **varivaḥ**: *varivas* means wealth; always neuter; *nabviṣayasyānyatarasyām* (Phiṭ-sūtra 2-… as read [?]): initial-acute. **cakartha**: *ḍukṛñ karaṇe*; *liṭ* second singular; *kradiniyama*: no *iṭ* for *thal* [*iṭ* by the rule not applying]; *nighāta*. **|| 5 ||**
+
+---
+
+### Rik 59.6 (pp. 453–, PDF 469–)
+
+**Saṃhitā-pāṭha** *(p. 453)*
+
+> **प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।**
+> **वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शंबरं भरेत् ॥ ६ ॥**
+
+*pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+*vaiśvānaro dasyum agnir jaghanvāṁ adhūnot kāṣṭhā ava śambaraṃ bhet || 6 ||*
+
+*(The print's last word in the Saṃhitā reads "भरेत्" and in the Pada "भेत्"; the sense is *bhet* ("split"), as the bhāṣya's gloss "*bibheda*" — the Saṃhitā spelling is a crowded print, [?].)*
+
+**Pada-pāṭha** *(p. 453)*
+
+> प्र । नु । महित्वम् । वृषभस्य । वोचम् । यम् । पूरवः । वृत्रऽहनम् । सचन्ते ।
+> वैश्वानरः । दस्युम् । अग्निः । जघन्वान् । अधूनोत् । काष्ठाः । अव । शम्बरम् । भेत् ॥ ६ ॥
+
+*pra | nu | mahitvam | vṛṣabhasya | vocam | yam | pūravaḥ | vṛtra-hanam | sacante |*
+*vaiśvānaraḥ | dasyum | agniḥ | jaghanvān | adhūnot | kāṣṭhāḥ | ava | śambaram | bhet || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 453–454)*
+
+> **अत्र वैश्वानरशब्देन मध्यमस्थानस्थो वैद्युतोऽग्निरभिधीयते । पूरव इति मनुष्यनाम । पूरवो मनुष्या वृत्रहणमावरकस्य मेघस्य हन्तारं यं वैश्वानरं सचन्ते सेवन्ते । वर्षार्थिनः सेवन्ते । तस्य वृषभस्यापां वर्षितुर्वैश्वानरस्य महित्वं माहात्म्यं नु क्षिप्रं प्र वोचं । प्रब्रवीमि । किं तदित्यत आह । अयं वैश्वानरोऽग्निर्दस्युं रसानां कर्मणां वोपक्षयितारं राक्षसादिकं जघन्वान् हतवान् । तथा काष्ठा आपो वृष्ट्युदकान्यधूनोत् । अधोमुखान्यपातयत् । शंबरं तं निरोधकारिणं मेघमव भेत् । अवाभिनत् ॥ वोचं । छन्दसि लुङ्लङ्लिट इति वर्तमाने । लुङ्यस्तिवक्त्यादिना च्लेरजादेशः । वच उमित्यमागमः । गुणः । बहुलं छन्दसमाङ्योगेऽपीत्यडभावः । जघन्वान् । हन्तेर्लिटः क्वसुः । अभ्यासाच्चेत्यभ्यासादुत्तरस्य हकारस्य घत्वं । विभाषा गमहनेति विकल्पनादिडभावः । भेत् । भिदिर् विदारणे । लुङ् बहुलं छन्दसीति विकरणस्य लुक् । हल्ङ्याब्भ्य इति तकारस्य लोपः । पूर्ववदडभावः ॥**
+
+*atra vaiśvānaraśabdena madhyamasthānastho vaidyuto 'gnir abhidhīyate | pūrava iti manuṣyanāma | pūravo manuṣyā vṛtrahaṇam āvarakasya meghasya hantāraṃ yaṃ vaiśvānaraṃ sacante sevante | varṣārthinaḥ sevante | tasya vṛṣabhasyāpāṃ varṣitur vaiśvānarasya mahitvaṃ māhātmyaṃ nu kṣipraṃ pra vocaṃ | prabravīmi | kiṃ tad ity ata āha | ayaṃ vaiśvānaro 'gnir dasyuṃ rasānāṃ karmaṇāṃ vopakṣayitāraṃ rākṣasādikaṃ jaghanvān hatavān | tathā kāṣṭhā āpo vṛṣṭyudakāny adhūnot | adhomukhāny apātayat | śambaraṃ taṃ nirodhakāriṇaṃ megham ava bhet | avābhinat || vocaṃ | chandasi luṅlaṅliṭa iti vartamāne | luṅy astivaktyādinā ca cler aj-ādeśaḥ | vaca um ity amāgamaḥ | guṇaḥ | bahulaṃ chandasamāṅyoge 'pīty aḍabhāvaḥ | jaghanvān | hanter liṭaḥ kvasuḥ | abhyāsāc cety abhyāsād uttarasya hakārasya ghatvaṃ | vibhāṣā gamahaneti vikalpanād iḍabhāvaḥ | bhet | bhidir vidāraṇe | luṅ bahulaṃ chandasīti vikaraṇasya luk | halṅyābbhya iti takārasya lopaḥ | pūrvavad aḍabhāvaḥ ||*
+
+*(Here the print continues with a long passage (pp. 454–455) in which Sāyaṇa quotes the Nirukta on *vaiśvānara* and discusses who Vaiśvānara is — the fire of the atmosphere (lightning), the sun, or the fire of the belly — with views attributed to "some" and the remark that the *sūkta*'s use at the three *savanas* of the Agni–Māruta śastra shows the lightning-fire; the passage is long and partly crowded and I give its gist after reading the next pages (given in the next batch).)*
+
+**Translation of the first part of the bhāṣya:** "Here, by the word *vaiśvānara* the fire of lightning, situated in the middle region, is meant. *Pūravaḥ* is a name for men: the men *sacante*, serve, that Vaiśvānara, *vṛtrahaṇam*, the slayer of the covering cloud; those who wish rain serve him. Of that *vṛṣabhasya*, showerer of waters, Vaiśvānara, I *pra vocam*, proclaim quickly the *mahitvam*, greatness. What is it? This Vaiśvānara Agni *jaghanvān*, has killed the *dasyu*, the Rākṣasa or the like, who injures the savours or the rites; and *adhūnot*, shook down the *kāṣṭhāḥ*, the waters, the rain-waters, made them fall face-downwards; and *śambaram ava bhet*, split the cloud called Śambara, the obstructor."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, Agni Vaiśvānara, Triṣṭubh) in progress: Riks 59.1–59.5 complete; Rik 59.6 written from the Saṃhitā and Pada through the first part of the bhāṣya (to the sense of "*śambaraṃ ava bhet*") and the grammatical tail on *vocam*, *jaghanvān*, *bhet* (printed p. 453–454, PDF 469–470). The long continuation of the bhāṣya on p. 454 (a discussion, with the Nirukta, of who Vaiśvānara is — lightning-fire / sun / belly-fire — ending "…prativarohe 'pi na kartṛ…") is only partly read; it and the rest of Rik 6 (Pratipadārtha etc. from p. 455, PDF 471) and Rik 59.7 NOT yet written. Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+
+**Next task:** re-view PDF 470 (printed p. 454) for the long bhāṣya passage on Vaiśvānara (write it as "**Rik 59.6, bhāṣya continued**": translate its gist; mark crowded passages [?]) and PDF 471 on; then Rik 59.7 and close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 59 intro and Āśvalāyana/Nirukta numerals [?]; 59.2 bhāṣya's last words partly crowded [?]; 59.4 Ṛ. Saṃ. 3-3-11 numeral [?]; 59.6 Saṃhitā "bharet" vs Pada "bhet" [?]; Uṇādi/Pāṇini numerals [?].
