@@ -6601,8 +6601,118 @@
 
 ---
 
+**Rik 55.7, continued** *(pp. 365–367, PDF 381–383)*
+
+**Sāyaṇa-bhāṣya, end of the main sense** *(p. 365)* — "… *bhītās trasnavaḥ śatravas tvā tvāṃ nā dabhnuvanti | na hiṃsanti ||*" — "or: the frightened, fearful enemies *do not harm* you (*dabhnuvanti*)." *(The first sentence of the bhāṣya on p. 364 is thus: "O Indra, drinker of soma, may your mind be for giving what we desire; hearer of praises, make your two horses turn towards our sacrifice; your own charioteers are most skilled controllers of the horses; therefore your *ketāḥ*, adversaries who know hostility, *bhūrṇayaḥ*, bearers of their own weapons — or the frightened, fearful enemies — do not harm you.")*
+
+*(The grammatical tail, p. 365, is characterized: on* somapāvan *(*pā pāne*, *vanip*; the lengthening in the vocative is prevented, since the vocative of such words is read as* asambuddhau*),* arvāñcā *(*añc* with the dual *au* → *ā*),* vandanaśrut *(*vadi abhivādanastutyoḥ*, *num*, *lyuṭ*; *śru*, *kvip*, *tuk*),* yamiṣṭhāsaḥ *(*yam uparame*, *tṛc*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛ*),* ketāḥ *(*kita jñāne*; *ac*, *guṇa*; initial-acute by *vṛṣādi*),* dabhnuvanti *(*dabhu dambhe*, *svādi*, *śnu*; *uvaṅ*),* bhūrṇayaḥ *(*bhṛñ bharaṇe*, *ṇi*: *dhṛṇiḥ pṛśniḥ pārṣṇiḥ*, an irregular formation with *u* and lengthening; or *bhī bhaye*) — compare the Kannada notes.)*
+
+**Pratipadārtha** *(p. 365)* — "**somapāvan** — O Indra, who drink the soma juice; **te** — your; **manaḥ** — mind; **dānāya** — to give (our desires); **astu** — be; **vandanaśrut** — O hearer of our hymns; **harī** — your horses; **arvāñcā** — facing our sacrifice; **ā kṛdhi** — make come; **indra** — O Indra; **te** — your; **ye sārathayaḥ** — whichever charioteers; **yamiṣṭhāsaḥ** — those who are able to run the horses under control; **ketāḥ** — the adversaries or deceivers who understand (your strength); **bhūrṇayaḥ** — the cruel ones bearing weapons, or the ones frightened of your strength, being enemies; **tvā** — you; **na ā dabhnuvanti** — cannot harm (cannot conquer)."
+
+**Bhāvārtha** *(p. 365)* — "O Indra, drinker of the soma, may your mind be inclined to favour us with our desires. O hearer of our hymns, make your horses come facing our sacrifice. Your charioteers are skilled in controlling the horses. Your enemies, the cruel ones who rely on your strength [sic], cannot conquer you."
+
+**English Translation (the source's own, p. 366)** — "Drinker of the soma-juice, may your mind be disposed to grant our desires; hearer of praises, let your horses be present (at our sacrifice); your charioteers are experts in restraining your horses; therefore, (your enemies) cherishing malevolent feelings against you and carrying arms cannot injure you."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 366**
+- **somapāvan** — "'Indra who drinks the soma': the vocative of *somapā*, *somapāvan* (O drinker of soma)."
+- **vandanaśrut** — "'Hearer of the praises': this too is the vocative singular; *vandana* means praise; one who is extremely eager in hearing praise."
+- **arvāñcā harī** — "O Indra, may your strong horses come facing our sacrifice: this is the context of praying that you come with your chariot to our sacrifice and accept the oblation."
+- **ketāḥ** — "*Prātikūlyajñātāraḥ*: *cikete prātikūlyaṃ jānantīti ketāḥ*, or 'those who are known as hostile'. Those who consider everything as against them: enemies."
+- **bhūrṇayaḥ** — "Those who have arms; or enemies who are frightened: so it is explained in two ways."
+
+**Vyākaraṇa-prakriyā** *(pp. 366–367 — grammar pages, noted briefly)*
+- **somapāvan**: *pā pāne*; *ātomanin kvanipvanipaś ca* (Pā. 3-2-74): *vanip*; the vocative: *sarvanāmasthāne cāsambuddhau* does not lengthen, because *asambuddhau* is stated; *halṅyābbhyo…* drops *su*; *nalopaḥ*: no loss since *na ṅisambuddhyoḥ*; *āmantritasya ca*: *nighāta*.
+- **arvāñcā**: *arvāñc + au*: *supāṃ suluk…*: *ā* for the ending.
+- **vandanaśrut**: *vadi abhivādanastutyoḥ*; *idito num dhātoḥ*; *lyuṭ* in the action sense, *yuvor anākau*: *ana*; *śru śravaṇe*, *kvip ca*; *hrasvasya piti kṛti tuk*: *tuk*; vocative.
+- **yamiṣṭhāsaḥ**: *yam uparame*; *tṛc* in the agent sense: *yantṛ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: *tṛ* lost; *yamiṣṭha*; *nit*: initial-acute; *ājjaser asuk*: *asuk* for *jas*: *yamiṣṭhāsaḥ*.
+- **ketāḥ**: *kita jñāne*; *nandigrahipacādibhyaḥ* (*ac*); *pugantalaghūpadhasya ca*: *guṇa*; *citaḥ* would give end-acute, but since *vṛṣādi* is an *ākṛtigaṇa* the initial-acute holds; or *ghañ* in the passive: *ñnityādir nityam*.
+- **dabhnuvanti**: *dabhu dambhe*, *svādi*; *laṭ* third plural, *jhoʼntaḥ*: *ant*; *svādibhyaḥ śnuḥ*; *śnu* is *ṅit*-like (*sārvadhātukam apit*), so *anidatāṃ halaḥ…*: loss of *n* of the root; no *yaṇ* since *śnu* follows a conjunct (*huśnuvoḥ sārvadhātuke*); *āciśnudhātubhruvāṃ…*: *uvaṅ*; *nighāta*.
+- **bhūrṇayaḥ**: *bhṛñ bharaṇe*; *dhṛṣṇipṛśniparṣṇi…* (Uṇ. 4-… as read [?]): *ni* with *u* and lengthening by the *nipāta*; or from *bhī bhaye*; *kṛtyalyuṭo bahulam*: *kranin*; *udoṣṭhyapūrvasya*: *u*; *halica*: lengthening; *ṛkārālādibhyaḥ krin niṣṭhāvad bhavati* (a *vārttika*): treated as *niṣṭhā*, so *ṇatva*: *bhūrṇi*; initial-acute. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 (contents table: 56 ≈ p. 371, 57 ≈ 392, 58 ≈ 411). Sūkta 55 (*divaś cid asya*, 8 Riks) in progress: Riks 55.1–55.6 complete; Rik 55.7 Saṃhitā, Pada and the opening of the bhāṣya written (printed p. 364, PDF 380); the bhāṣya continues on p. 365 (PDF 381) at "…yadvā bhītās trasnavaḥ śatravas tvā tvāṃ nā dabhnuvanti | …". Riks 55.8 NOT yet written.**
+### Rik 55.8 (pp. 368–371, PDF 384–387)
 
-**Next task:** continue at printed p. 365 (PDF 381) with "**Rik 55.7, continued**", then Rik 8 and the close of Sūkta 55; then Sūktas 56 and 57 (confirm start pages from the print); stop after Sūkta 57; then update CLAUDE.md. Page images exist for PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). To save effort the Vyākaraṇa notes are kept to short characterizations. Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* [?]; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(p. 368)*
+
+> **अप्रक्षितं वसु बिभर्षि हस्तयोरषाळ्हं सहस्तन्वि श्रुतो दधे ।**
+> **आवृतासोऽवतासो न कर्तृभिस्तनूषु ते क्रतव इन्द्र भूरयः ॥ ८ ॥**
+
+*aprakṣitaṃ vasu bibharṣi hastayor aṣāḷhaṃ sahas tanvi śruto dadhe |*
+*āvṛtāso 'vatāso na kartṛbhis tanūṣu te kratava indra bhūrayaḥ || 8 ||*
+
+**Pada-pāṭha** *(p. 368)*
+
+> अप्रऽक्षितम् । वसु । बिभर्षि । हस्तयोः । अषाळ्हम् । सहः । तन्वि । श्रुतः । दधे ।
+> आऽवृतासः । अवतासः । न । कर्तृऽभिः । तनूषु । ते । क्रतवः । इन्द्र । भूरयः ॥ ८ ॥
+
+*apra-kṣitam | vasu | bibharṣi | hastayoḥ | aṣāḷham | sahaḥ | tanvi | śrutaḥ | dadhe |*
+*ā-vṛtāsaḥ | avatāsaḥ | na | kartṛ-bhiḥ | tanūṣu | te | kratavaḥ | indra | bhūrayaḥ || 8 ||*
+
+*(The Saṃhitā reads "śruto dadhe", the Pada "śrutaḥ | dadhe"; the Pada's "dadhe" is as printed; the Saṃhitā's "sahas tanvi" is the Pada's* sahaḥ | tanvi*.)*
+
+**Sāyaṇa-bhāṣya** *(p. 368)*
+
+> **हे इन्द्र त्वमप्रक्षितं प्रक्षयरहितं वसु धनं हस्तयोर्बिभर्षि । स्तोतृभ्यो दातुं धारयसि । तथा श्रुतः प्रख्यातो भवं तन्वि तन्वां त्वदीये शरीरेऽषाळ्हं शत्रुभिरनभिभूतं सहो बलं दधे । धारयति । त्वदीयास्तनवः कर्तृभिर्वृत्रादेरसुरस्य वधं कुर्वद्भिर्बलकृतैः सर्वाणि कर्माण्येतस्य शरीरमावृत्यावतिष्ठन्ते । तत्र दृष्टान्तः । अवतासो न । अवत इति कूपनाम । यथा कूपा जलोद्धरणाय प्रवृत्तैः प्राणिभिरावृयन्ते तद्वत् । यस्मादेवं तस्माद्धे इन्द्र ते तव शरीरेषु क्रतवः कर्माणि भूरयो बहूनि विद्यन्ते ॥**
+
+*he indra tvam aprakṣitaṃ prakṣayarahitaṃ vasu dhanaṃ hastayor bibharṣi | stotṛbhyo dātuṃ dhārayasi | tathā śrutaḥ prakhyāto bhavaṃ tanvi tanvāṃ tvadīye śarīre 'ṣāḷhaṃ śatrubhir anabhibhūtaṃ saho balaṃ dadhe | dhārayati | tvadīyās tanavaḥ kartṛbhir vṛtrāder asurasya vadhaṃ kurvadbhir balakṛtaiḥ sarvāṇi karmāṇy etasya śarīram āvṛtyāvatiṣṭhante | tatra dṛṣṭāntaḥ | avatāso na | avata iti kūpanāma | yathā kūpā jalodharaṇāya pravṛttaiḥ prāṇibhir āvṛyante tadvat | yasmād evaṃ tasmād dhe indra te tava śarīreṣu kratavaḥ karmāṇi bhūrayo bahūni vidyante ||*
+
+*(Reading note: the bhāṣya is printed with a few crowded syllables ("*bhavaṃ*", "*dadhe | dhārayati*"); I give the sense from the Pratipadārtha. The tail, pp. 368 foot–369, is characterized:* aprakṣitam *(*kṣi kṣaye*, *niṣṭhā*; *anyadarthe*… no lengthening; *prakṛṣṭaṃ kṣitaṃ yasya*),* bibharṣi *(*ḍubhṛñ*, *juhotyādi*, *ślu*, reduplication, *i*),* aṣāḷham *(*saha abhibhave*, *kta*; *iṭ* optional *triṣahalubha…*; *hodhaḥ*, *jhaṣastathoḥ*, *ṣṭunā*; the Vedic* sādhyā sāḍhya*),* tanvi *(*tanu*, locative *i*; Vedic *tan*),* dadhe *(*ḍudhāñ*, *liṭ*)) — see the Kannada notes below.)*
+
+**Translation of the bhāṣya:** "O Indra, you *hastayoḥ bibharṣi*, hold in both hands, *aprakṣitam*, unexhausted wealth, *vasu*: you keep it in order to give it to the praisers. And *śrutaḥ*, renowned, in your own body (*tanvi*) you have *aṣāḷham*, unconquered by enemies, *sahaḥ*, strength; you hold it. Your limbs are covered, all round, by deeds of strength done by the doers who slay Vṛtra and the like — all those deeds stand about this body, enveloping it. An illustration: *avatāso na*: *avata* is a word for 'well': as wells are surrounded by creatures who go for water. Since this is so, O Indra, *te tanūṣu kratavaḥ bhūrayaḥ*, in your bodies are many deeds."
+
+**Pratipadārtha** *(p. 369)* — "(O Indra, you) **aprakṣitam** — without exhaustion; **vasu** — wealth; **hastayoḥ** — in your two hands; **bibharṣi** — you hold (in order to give to us); **śrutaḥ** — you who are renowned; **tanvi** — in your body; **aṣāḷham** — which enemies cannot withstand; **sahaḥ** — strength; **dadhe** — you hold [i.e. your limbs]; **kartṛbhiḥ** — by deeds of valour (such as killing Vṛtra); **avatāsaḥ na** — as a well is surrounded by those who come for water; **āvṛtāsaḥ** — are full; **indra** — O Indra; **te** — your [bodies']; **kratavaḥ** — valorous deeds; **bhūrayaḥ** — are numerous."
+
+**Bhāvārtha** *(p. 369)* — "O Indra, you hold in both your hands unexhausted wealth to give to us. In your renowned body there is strength that enemies cannot withstand. As a well is surrounded all round by people who come for water, your limbs are filled all round with numerous deeds of valour."
+
+**English Translation (the source's own, p. 369)** — "You hold in you hands unexhausted wealth; renowned Indra, you have irresistible strength in your body; your limbs are invested with (glorious) exploits, as wells are (surrounded by those who come for water); Indra, you have many exploits in your body."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 369–370**
+- **aprakṣitam** — "*Prakṛṣṭaṃ kṣitaṃ yasya tat prakṣitaṃ na prakṣitam aprakṣitam*: wealth that has not suffered any decay — a firm treasure."
+- **tanvi** — "'In the body': the word *tanū* is used in the Veda here and there in the form *tan*."
+- **aṣāḷham** — "Unconquered by enemies. It is an epithet of *jalaśabda* [*sahas*, as the print has it, [?]]."
+- **kartṛbhiḥ** — "By deeds of valour such as the slaying of Vṛtra and other Rākṣasas; by prowess."
+- **avatāso na** — "*Avata* means a well (Ni. 3-… as read [?]); in the Nirukta fourteen words beginning with *avata* are read as names of a well. As people build a wall around a well to draw water, all deeds become strong by resorting to you — so Indra is praised."
+
+**Vyākaraṇa-prakriyā** *(pp. 370–371 — grammar pages, noted briefly)*
+- **aprakṣitam**: *kṣi kṣaye*; *kta* in the sense of the action, *niṣṭhāyām aṇyadarthe* (Pā. 6-4-60): prohibition of lengthening before *niṣṭhā*… since the sense is the action (*bhāva*), the lengthening that would follow *niṣṭhā* does not come; and *śriyo dīrghāt* (Pā. 8-2-46) does not give *natva* to the *t*; "*prakṛṣṭaṃ kṣitaṃ yasya tat prakṣitam, na prakṣitam aprakṣitam*"; *tatpuruṣe tulyārtha…* gives the accent of the first member, the particle.
+- **bibharṣi**: *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*, *laṭ* second singular *sip*; *juhotyādibhyaḥ śluḥ*; *ślau*: reduplication; *jaśtva*; *bhṛñām it* (Pā. 7-4-76): *i* for the reduplicative; *sip* is cause of *guṇa*; *ṣatva* of *s* after *r*; *nighāta*.
+- **aṣāḷham**: *saha abhibhave*; *niṣṭhā* *kta*; *triṣahalubha…* (Pā. 7-2-48): *iṭ* is optional after these roots, so *yasya vibhāṣā* (Pā. 7-2-15) forbids *iṭ* for *kta*; *sah* + *ta*: *ṣatva* at the beginning; *hodhaḥ*: *ḍha* for *h*; *jhaṣas tathor dho 'dhaḥ*: *dh* for *t*; *ṣṭunā ṣṭuḥ*: *ḍh*; *ḍhe ḍhalopaḥ*: the earlier *ḍh* drops; *saha* with *saheḥ sāḍhaḥ*, *sahivahor odavarṇasya* (Pā. 6-3-112): *o* for the *a* — but the Vedic *sāḍhyai sāḍhā sāḍheti nigame* (Pā. 6-3-113) gives *ā* instead; since *sāḍhā* in that sūtra is given as a *tṛc*-ending the Kannada says it is only illustrative: the form occurs in other contexts also.
+- **tanvi**: *tanu*; the locative *ṅi* → *i*; *āc ca ghoḥ* (Pā. 7-3-119): *ṅi* becomes *au* after *ghi*-stems, but *jasādiṣu chandasi vāvacanam* makes it optional, so here it does not come; *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita* on the ending; and *udāttayaṇo hal pūrvāt* would give the ending an acute (because a *hal* precedes the *yaṇ*), but in the Veda it does not.
+- **dadhe**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Vedic *liṭ*, reduplication; *ātolopa iṭi ca*: loss of *ā*; *nighāta*. **|| 8 ||**
+
+---
+
+### Close of Sūkta 55
+
+**Closing note** *(p. 371, printed large)* — "**ಐವತ್ತ ಐದನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-fifth sūkta is ended."
+
+**Sūkta 55 (Maṇḍala 1, Tenth Anuvāka, 8 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī) — printed pp. 341–371, PDF 357–387.** The Riks praise Indra's vastness beyond heaven and earth, and the sharpening of his bolt as a bull whets its horn (1); his taking the waters as the ocean takes the rivers, and his thirst for soma (2); his not striking the cloud for his own food, his mastery of the lords of wealth, and his place as leader of the gods (3); his praise in the forest by the sages and the pleasure he gives the sacrificer (4); his great battles and the faith of all in him (5); his destruction of the Asura cities, the freeing of the luminaries and the release of the waters (6); the petition that he turn his mind to giving, with his well-driven chariot (7); and his unfailing wealth, unconquered strength and countless deeds, likened to a well surrounded by those who come for water (8). The Special Topics contain no long narratives; the Kannada grammar notes carry the main argument on *vīrya* (Rik 3).
+
+---
+
+## SŪKTA 56 (printed p. 371 –, PDF 387 –)
+
+**ಐವತ್ತಾರನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-sixth sūkta")*
+
+### Sāyaṇa's introduction *(p. 371)*
+
+> **एष प्र पूर्वीरिति षडृचं षष्ठं सूक्तं सव्यस्यार्षमैन्द्रं जागतमित्युक्तं । अनुक्रान्तं च । एष प्र षडिति ॥ विषुवति निष्केवल्य एतत्सूक्तं शंसनीयं । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । एष प्र पूर्वीर्वृषामदः प्र मंहिष्ठाय । आ. ८-६ [?] इति ॥**
+
+*eṣa pra pūrvīr iti ṣaḍṛcaṃ ṣaṣṭhaṃ sūktaṃ savyasyārṣam aindraṃ jāgatam ity uktaṃ | anukrāntaṃ ca | eṣa pra ṣaḍ iti || viṣuvati niṣkevalya etat sūktaṃ śaṃsanīyaṃ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya | ā. 8-6 [?] iti ||*
+
+**Translation:** "'*Eṣa pra pūrvīḥ*': a sūkta of six Riks, the sixth [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī, as stated; so the Anukramaṇī: '*eṣa pra ṣaṭ*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; in the section '*viṣuvān divākīrtyaḥ*' it is aphorized: '*eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya*' (Āśv. 8-6 [?])."
+
+**Anuvāda (Kannada, p. 371)** — "'*Eṣa pra pūrvīḥ*' is the sixth sūkta in the tenth anuvāka. It has six Riks. The seer is Savya, the deity Indra, the metre Jagatī. The Anukramaṇikā says '*eṣa pra ṣaṭ*'. In the Viṣuvat sacrifice this sūkta is to be recited for the *niṣkevalya* śastra mantras: so the sūtra '*eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya*' in the section '*viṣuvān divākīrtyaḥ*' of the Āśvalāyana Śrauta Sūtra (Āśv. 8-6) shows."
+
+*(The heading block and Rik 56.1 are on p. 372 (PDF 388).)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371; Sūkta 55 ends p. 371 with its closing line). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 — 55 DONE. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks, ṛṣi Savya Āṅgirasa, Indra, Jagatī) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 371, PDF 387). Heading block and Rik 56.1 begin on p. 372 (PDF 388) — NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+
+**Next task:** continue at printed p. 372 (PDF 388) with the heading block and Rik 56.1; Riks 2–6; close of Sūkta 56; then Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* [?]; Rik 8 print slightly crowded in the bhāṣya; Uṇādi/Pāṇini numerals [?]; Sūkta 56 introduction Āśvalāyana numeral [?].
