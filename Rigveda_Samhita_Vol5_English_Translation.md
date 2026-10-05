@@ -7692,8 +7692,120 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 58.5, continued** *(pp. 426–427, PDF 442–443)*
+
+**Bhāvārtha** *(p. 426)* — "Agni, whose weapons are flames, urged on by the wind, together with his mass of flame and the force of his radiance, rushes forward toward the moisture hidden in the trees; conquering everything that stands before him, he — like a bull of attractive gait who, in a herd of cows, conquers all and moves in victory — fills the whole forest around in victory. As Agni flies forward, the whole world, stationary and moving, is afraid."
+
+**English Translation (the source's own, p. 426)** — "The flame-weaponed and breeze-excited Agni, assailing the unexhaled moisture (of the trees) with all his strength, in a volume of fire, rushes triumphant (against all things) in the forest, like a bull, and all, whether stationary or moveable, are afraid of him as he flies along."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 426**
+- **tapurjambhaḥ** — "*Tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya*: the flames are Agni's weapons; or, since he receives everything by the flame, the flames are his mouths (see Ṛ. Saṃ. Part 4, p. 234 [?])."
+- **rajaḥ** — "*Ārdravṛkṣāntargatam udakam*: Agni, by his mass of flame, dries up the water inside the trees and burns them up, leaving nothing in them. Here the word *rajas* is used in the sense of water."
+- **vaṃsagaḥ na** — "*Vananīyagatiḥ vṛṣaḥ goyūthe sarvam abhibhavan vartate tadvat*: like a bull that moves bravely, which in a herd of cows moves without concern for anything: so Agni burns everything, stationary or moving, without regard."
+- **sthātuḥ caratham ca** — "*Sthāvara* means trees and the like that stand without moving; *caratha*, the animals that move. Here it is also praised: 'having first burnt the stationary things, afterwards I shall burn the moving things'. In the word *caratham* the root *car* has the sense of motion. In this Rik a forest fire (*dāvāgni*) is described."
+
+**Vyākaraṇa-prakriyā** *(pp. 426–427 — grammar pages, noted briefly)*
+- **sāhvān**: *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12): irregularly formed ending in *kvasu*; *sāhvān + ava*: *dīrghād aṭi samānapāde*: *n* becomes *ru* before the following *a* in the same pāda (*nṝn pe*…); *ato roraplutād aplute*: *u*; *bhobhago…*: *yatva*; *lopaḥ śākalyasya*.
+- **vāti**: *vā gatigandhanayoḥ*, *adādi*; *laṭ*; *nighāta*.
+- **sthātuḥ**: Uṇādi *tun* by *kimimanijanīty…*: *kvip* optional; or *tṛc*: *sthātṛ*; then "after the stationary the moving one is afraid" is construed. Genitive *sthātuḥ*.
+- **caratham**: *cara gatibhakṣaṇayoḥ*; here in the sense of motion; Uṇādi *atha*; suffix-accent.
+- **bhayate**: *ñibhī bhaye*; *vyatyaya*: *ātmanepada*; *juhotyādi* but *bahulaṃ chandasi*: no *śluk*; *kartari śap*; *guṇa*; *ayādeśa*; *ṭita…*: *e*; *nighāta*. **|| 5 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, Agni; Eleventh Anuvāka) in progress: Riks 58.1–58.4 complete; Rik 58.5 (Jagatī) written through the Pratipadārtha (printed p. 425, PDF 441). Its Bhāvārtha (p. 426), English, Special Topics, Vyākaraṇa (to p. 427) and Riks 58.6–58.9 (6–9 are Triṣṭubh) NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+### Rik 58.6 (pp. 427–430, PDF 443–446; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 426 (PDF 442) with "**Rik 58.5, continued**" (Bhāvārtha, English, Special Topics, Vyākaraṇa), then Riks 6–9 and the close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up is the next job, when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada [?]; Ṛg 4-4-4 numeral [?]; 58.4 bhāṣya "vātaseṣu" for *atáseṣu* [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
+**Saṃhitā-pāṭha** *(p. 427)*
+
+> **दधुष्ट्वा भृगवो मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः ।**
+> **होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने ॥ ६ ॥**
+
+*dadhuṣ ṭvā bhṛgavo mānuṣeṣv ā rayiṃ na cāruṃ suhavaṃ janebhyaḥ |*
+*hotāram agne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane || 6 ||*
+
+**Pada-pāṭha** *(p. 428)*
+
+> दधुः । त्वा । भृगवः । मानुषेषु । आ । रयिम् । न । चारुम् । सुऽहवम् । जनेभ्यः ।
+> होतारम् । अग्ने । अतिथिम् । वरेण्यम् । मित्रम् । न । शेवम् । दिव्याय । जन्मने ॥ ६ ॥
+
+*dadhuḥ | tvā | bhṛgavaḥ | mānuṣeṣu | ā | rayim | na | cārum | su-havam | janebhyaḥ |*
+*hotāram | agne | atithim | vareṇyam | mitram | na | śevam | divyāya | janmane || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 428)*
+
+> **हे अग्ने त्वा त्वां मानुषेषु मनुष्येषु मध्ये भृगव एतत्संज्ञा महर्षयो दिव्याय जन्मने देवत्वप्राप्तये चारुं रयिं न शोभनं धनमिवा दधुः । आधानसंभारेषु मन्त्रैः स्थापनेन समस्कुर्वन् । कीदृशं त्वाम् । जनेभ्यः सुहवं यजमानार्थमाह्वातुं सुशकं होतारं देवानामाह्वातारम् आतिथिमतिथिवत्पूज्यम् । यद्वा । देवयजनदेशेषु सततं गन्तारम् । वरेण्यां वरणीयं मित्रं न शेवं । यथा सखा सुखकरो भवति तद्वत् सुखकरमित्यर्थः ॥ दधुः । लिट्यस्यातो लोपः । इट् चेत्याकारलोपः । युष्मत्तत्ततक्षुःष्वन्तःपादम् । विसर्जनीयस्य षत्वं । सुहवं । ह्वयतेरीषद्दुःसुषु इति खल् । बहुलं छन्दसीति संप्रसारणं । परपूर्वत्वं । गुणावादेशौ । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥**
+
+*he agne tvā tvāṃ mānuṣeṣu manuṣyeṣu madhye bhṛgava etatsaṃjñā maharṣayo divyāya janmane devatvaprāptaye cāruṃ rayiṃ na śobhanaṃ dhanam ivā dadhuḥ | ādhānasaṃbhāreṣu mantraiḥ sthāpanena samaskurvan | kīdṛśaṃ tvām | janebhyaḥ suhavaṃ yajamānārtham āhvātuṃ suśakaṃ hotāraṃ devānām āhvātāram atithim atithivat pūjyam | yadvā | devayajanadeśeṣu satataṃ gantāram | vareṇyaṃ varaṇīyaṃ mitraṃ na śevaṃ | yathā sakhā sukhakaro bhavati tadvat sukhakaram ity arthaḥ ||*
+
+*(The grammatical tail, p. 428: on *dadhuḥ*, *suhavam* (*hvayater īṣadduḥsuṣu* …*khal*; *saṃprasāraṇa*), *hotāram*, *vareṇyam*, *śevam* — characterized.)*
+
+**Translation of the bhāṣya:** "O Agni, *mānuṣeṣu*, among men, the Bhṛgus, great sages of that name, *divyāya janmane*, to attain divine birth, *dadhuḥ*, placed you like *cāruṃ rayiṃ na*, a beautiful treasure: in the ceremonies of the placing of fire they consecrated you with mantras by establishing you. How do you [stand]? *Janebhyaḥ suhavam*: easy to call for the sake of the sacrificers; *hotāram*, the invoker of the gods; *atithim*, to be honoured like a guest — or one who always goes to the places of the sacrifice of the gods; *vareṇyam*, worthy of choice; *mitraṃ na śevam*: as a friend gives happiness, so you are the one who gives happiness."
+
+**Pratipadārtha** *(p. 428)* — "**agne** — O Agni; **janebhyaḥ** — for the sacrificers; **suhavam** — one who has the power to sacrifice well; **hotāram** — (the invoker of the gods to the sacrifice); **atithim** — the guest (the best) — or one who comes to the place of the sacrifice at the proper time; **vareṇyam** — most desired; **mitram na** — like a friend; **śevam** — giver of happiness; **tvā** — you; **mānuṣeṣu** — among men; **bhṛgavaḥ** — the Bhṛgu sages; **divyāya janmane** — to obtain divine birth; **cāruṃ rayiṃ na** — like a beautiful treasure; **ā dadhuḥ** — placed and honoured."
+
+**Bhāvārtha** *(pp. 428–429)* — "O Agni, you are the performer of sacrifice for sacrificers, the invoker of the gods to the sacrifice, the dear guest, a friend as one who gives happiness. The Bhṛgu sages among men placed you in their sacrificial fire as a beautiful and desired treasure, in order to obtain divine birth, and honoured you."
+
+**English Translation (the source's own, p. 429)** — "The Bhrigus amongst men, for the sake of being born as gods, cherished you like a costly treasure. Agni, you sacrifice for men, you are the invoker of the gods, the welcome guest at sacrifices and you are to be esteemed like a loving friend."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 429**
+- **bhṛgavaḥ** — "Those born in the line of the sage named Bhṛgu."
+- **divyāya janmane** — "To obtain divine nature; that is, to experience the fruit of heaven."
+- **cāruṃ rayiṃ na** — "As wealth pleases all people, all serve you: wealth is a thing needed by all."
+- **suhavam** — "*Yajamānārtham āhvātuṃ suśakam*: Agni is the one who can easily call all the deities for the sacrificer."
+- **atithim** — "Honoured like a guest; or one who always moves in the places of sacrifice."
+- **mitraṃ na śevam** — "A giver of happiness like a friend: as a dear friend desires one's happiness, so Agni gives happiness to the sacrificer."
+
+**Vyākaraṇa-prakriyā** *(pp. 429–430 — grammar pages, noted briefly)*
+- **dadhuḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* third plural; *parasmaipadānāṃ ṇalatusus…*: *us*; doubling; *hrasva*; *jaśtva*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: *ā* dropped; *ru*, *visarga*; since *tvā* follows, *yuṣmattatakṣuḥṣvantaḥpādam* (Pā. 8-3-103): *visarjanīya* becomes *ṣ*: *dadhuṣṭvā*.
+- **suhavam**: *hve ñ spardhāyāṃ śabde ca*; *īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal*: *khal* though no cause, with *su*; *bahulaṃ chandasi*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *guṇa*, *avādeśa*; *lit*: acute before the suffix; *gatikārakopapadāt kṛt*: *kṛdanta* accent.
+- **hotāram**: *hu dānādanayoḥ*; *tṛn*; *nit*: initial-acute; *ṛto 'ṅ sarvanāmasthānayoḥ*: *guṇa*; *āptṛntṛc…*: lengthening of the penultimate. **|| 6 ||**
+
+---
+
+### Rik 58.7 (pp. 430–433, PDF 446–449; metre Triṣṭubh)
+
+**Saṃhitā-pāṭha** *(p. 430)*
+
+> **होतारं सप्त जुह्वो यजिष्ठं यं वाघतो वृणते अध्वरेषु ।**
+> **अग्निं विश्वेषामरतिं वसूनां सपर्यामि प्रयसा यामि रत्नम् ॥ ७ ॥**
+
+*hotāraṃ sapta juhvo yajiṣṭhaṃ yaṃ vāghato vṛṇate adhvareṣu |*
+*agniṃ viśveṣām aratiṃ vasūnāṃ saparyāmi prayasā yāmi ratnam || 7 ||*
+
+**Pada-pāṭha** *(p. 430)*
+
+> होतारम् । सप्त । जुह्वः । यजिष्ठम् । यम् । वाघतः । वृणते । अध्वरेषु ।
+> अग्निम् । विश्वेषाम् । अरतिम् । वसूनाम् । सपर्यामि । प्रयसा । यामि । रत्नम् ॥ ७ ॥
+
+*hotāram | sapta | juhvaḥ | yajiṣṭham | yam | vāghataḥ | vṛṇate | adhvareṣu |*
+*agnim | viśveṣām | aratim | vasūnām | saparyāmi | prayasā | yāmi | ratnam || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 430)*
+
+> **सप्त सप्तसंख्याका जुह्वो होतारो वाघत ऋत्विजोऽध्वरेषु योगेषु यजिष्ठं यष्टृतमं होतारं देवानामाह्वातारं यमग्निं वृणते संभजन्ते विश्वेषां सर्वेषां वसूनामरतिं प्रापयितारं तमग्निं प्रयसा हविर्लक्षणेनान्नेन सपर्यामि । परिचरामि । रत्नं रमणीयं कर्मफलं च यामि । याचामि ॥**
+
+*sapta saptasaṃkhyākā juhvo hotāro vāghata ṛtvijo 'dhvareṣu yogeṣu yajiṣṭhaṃ yaṣṭṛtamaṃ hotāraṃ devānām āhvātāraṃ yam agniṃ vṛṇate saṃbhajante viśveṣāṃ sarveṣāṃ vasūnām aratiṃ prāpayitāraṃ tam agniṃ prayasā havirlakṣaṇenānnena saparyāmi | paricarāmi | ratnaṃ ramaṇīyaṃ karmaphalaṃ ca yāmi | yācāmi ||*
+
+*(The tail, p. 431: on *vṛṇate* (*vṛñ saṃbhaktau*, *kryādi*), *aratim* (*ṛ gatiprāpaṇayoḥ*, Uṇādi *ati*), *saparyāmi* (*sapara pūjāyām*, *kaṇḍvādi*, *ya*), *yāmi* (*yāc*, loss of the letter) — characterized.)*
+
+**Translation of the bhāṣya:** "The seven *juhvaḥ*, hotṛs — the *vāghataḥ*, officiating priests — in the sacrifices (*adhvareṣu*) *vṛṇate*, choose (resort to) Agni, the most worshipful, the invoker of the gods; that Agni, who brings to all *vasūnām*, wealths, I serve *prayasā*, with food in the form of oblation, and *ratnam yāmi*, I ask for delightful fruit of rites."
+
+**Pratipadārtha** *(p. 431)* — "**sapta** — seven; **juhvaḥ** — the priests of the hotṛ's station; **vāghataḥ** — priests; **adhvareṣu** — in the sacrifices; **yajiṣṭham** — the most worshipful; **hotāram** — the invoker (of the gods to the sacrifice); **yam** — which Agni; **vṛṇate** — they choose and worship; **viśveṣām** — of all; **vasūnām** — of the riches; **aratim** — giver; **agnim** — Agni; **prayasā** — with food in the form of oblation; **saparyāmi** — I worship; **ratnam** — delightful fruit of rites (wealth); **yāmi** — I ask for."
+
+**Bhāvārtha** *(p. 431)* — "I worship, with food in the form of oblation, that Agni whom the seven priests who stand in the place of the hotṛ choose as the most worshipful invoker of the gods in sacrifices, the giver of all wealth; and I ask of him lovely wealth."
+
+**English Translation (the source's own, p. 431)** — "I worship with oblations that Agni whom the seven invoking priests invite as the invoker of the gods; who is most worthy of adoration at sacrifices, and who is the giver of all riches; I solicit of him riches;"
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 431–432**
+- **sapta juhvaḥ** — "The seven hotṛs; there is a group of hotṛs consisting of seven priests, to invoke the deities in the sacrifice."
+- **vāghataḥ** — "Priests. Among the eight priest-names beginning with *bhāratāḥ*, *kuravaḥ* [the print lists them], the word *vāghataḥ* is read as 'priests' (Ni. 3-… as read [?])." *(The rest of the Special Topics and the grammar are on p. 432 (PDF 448) and are given in the next batch.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, Agni; Eleventh Anuvāka) in progress: Riks 58.1–58.6 complete; Rik 58.7 (Triṣṭubh) written through the first two Special Topics (*sapta juhvaḥ*, *vāghataḥ*) (printed p. 431, PDF 447). The rest of Rik 7's Special Topics and Vyākaraṇa (p. 432–, PDF 448) and Riks 58.8–58.9 (Triṣṭubh) NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+
+**Next task:** continue at printed p. 432 (PDF 448) with "**Rik 58.7, continued**", then Riks 8–9 and the close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada [?]; 58.4 "vātaseṣu" for *atáseṣu* [?]; Ṛ. Saṃ. Part 4 p. 234 cross-ref in 58.5 [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
