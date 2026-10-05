@@ -8647,8 +8647,52 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.3 (pp. 486–488, PDF 502–504)
+
+**Saṃhitā-pāṭha** *(p. 486)*
+
+> **अस्मा इदु त्यमुपमं स्वर्षां भराम्याङ्गूषमास्येन ।**
+> **मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥ ३ ॥**
+
+*asmā id u tyam upamaṃ svarṣāṃ bharāmy āṅgūṣam āsyena |*
+*maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai || 3 ||*
+
+**Pada-pāṭha** *(p. 486)*
+
+> अस्मै । इत् । ऊं इति । त्यम् । उपमम् । स्वःऽसाम् । भरामि । आङ्गूषम् । आस्येन ।
+> मंहिष्ठम् । अच्छोक्तिऽभिः । मतीनाम् । सुवृक्तिऽभिः । सूरिम् । ववृधध्यै ॥ ३ ॥
+
+*asmai | it | ūṃ iti | tyam | upamam | svaḥ-sām | bharāmi | āṅgūṣam | āsyena |*
+*maṃhiṣṭham | acchokti-bhiḥ | matīnām | suvṛkti-bhiḥ | sūrim | vavṛdhadhyai || 3 ||*
+
+*(Reading note: the Saṃhitā prints the long *ā* in *vāvṛdhadhyai*; the Pada has the short *va*; the grammar page explains the lengthening as a Saṃhitā change. As in Rik 2 the anusvāra before *gū* is the print's.)*
+
+**Sāyaṇa-bhāṣya** *(p. 486)*
+
+> **अस्मा इदु अस्मा एवेन्द्राय त्यं तं प्रसिद्धमुपममुपमानहेतुभूतं स्वर्षां सुष्ठ्वरणीयस्य धनस्य दातारं सूरिं विपश्चितमिन्द्रं ववृधध्यै वर्धयितुं सुवृक्तिभिः सुष्ठ्वावर्जकैः समर्थैरित्यर्थः । मतीनां स्तुतीनां सम्बन्धिभिरच्छोक्तिभिः स्वच्छैर्वचोभिर्मंहिष्ठमतिशयेन प्रवृद्धमेवंलक्षणमाङ्गूषमाघोषमास्येन मुखेन भरामि । करोमीत्यर्थः ॥**
+
+*asmā id u asmā evendrāya tyaṃ taṃ prasiddham upamam upamānahetubhūtaṃ svarṣāṃ suṣṭhv araṇīyasya dhanasya dātāraṃ sūriṃ vipaścitam indraṃ vavṛdhadhyai vardhayituṃ suvṛktibhiḥ suṣṭhv āvarjakaiḥ samarthair ity arthaḥ | matīnāṃ stutīnāṃ sambandhibhir acchoktibhiḥ svacchair vacobhir maṃhiṣṭham atiśayena pravṛddham evaṃlakṣaṇam āṅgūṣam āghoṣam āsyena mukhena bharāmi | karomīty arthaḥ ||*
+
+*(The grammatical tail, p. 486 — characterized, not transcribed: **upamam** — "that by which one compares", the suffix *ka* in the instrumental sense (*ghañarthe kavidhānam*), loss of the final *ā*; **svarṣām** — *svar* (from *su* + *ṛ*), and *ṣaṇu dāne* with *viṭ* (*janasanakhanakramagamo viṭ*, Pā. 3-2-67 as read [?]), *ā* for the nasal (*vidvanoranunāsikasyāt*, Pā. 6-4-41 as read [?]), *ṣatva* (Pā. 8-3-108 as read [?]); **bharāmi** — no *nighāta*, being at the head of a line (*pādādi*); **acchoktibhiḥ** — *bahuvrīhi*, accent of the first member; **matīnām** — *nāmanyatarasyām*; **vavṛdhadhyai** — *vṛdhu vṛddhau*, the causative sense included, the suffix *kadhyai* in the sense of the infinitive, no *guṇa* since it is *kit*, reduplication by Vedic licence; or from the *yaṅ-luk* form; the lengthening of the reduplicative vowel in the Saṃhitā — "in others also it is seen"; acute on the suffix.)*
+
+**Translation of the bhāṣya:** "*Asmā id u*: to this very Indra, *tyam*, that well-known, *upamam*, the one who is the ground of all comparison, *svarṣām*, the giver of wealth that is well to be won, *sūrim*, the wise Indra — to *vavṛdhadhyai*, make him grow, *suvṛktibhiḥ*, with able things that win him well [i.e. strong in effect]; with *acchoktibhiḥ*, bright words that belong to *matīnām*, the hymns — I *bharāmi*, bring, with the mouth (*āsyena*), an *āṅgūṣam*, a proclamation, *maṃhiṣṭham*, most greatly grown: that is, I make it."
+
+**Pratipadārtha** *(pp. 486–487)* — "**asmā idu** — to this very Indra; **tyam** — to the famous; **upamam** — to the exemplar; **svarṣām** — to the good giver of wealth; **sūrim** — to the wise one: that Indra; **vavṛdhadhyai** — to cause to grow [in good qualities]; **suvṛktibhiḥ** — with the able, the effective; **matīnām** — of hymns; **acchoktibhiḥ** — with pure words; **maṃhiṣṭham** — the greatly grown; **āṅgūṣam** — the cry of praise; **āsyena** — with the mouth; **bharāmi** — I offer."
+
+**Bhāvārtha** *(p. 487)* — "To Indra, famous, an exemplar, a good giver of wealth and wise, I offer with my mouth a cry of praise — one that is able to extol his excellent qualities, belongs to the hymns, and is grown great through pure words."
+
+**English Translation (the source's own, p. 487)** — "I offer with my mouth a loud exclamation with powerful and pure words of praise, to exalt him who is the type (of all), the giver (of good things) the great, the wise."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 487** — **svarṣām** — *suṣṭhv araṇīyasya dhanasya dātāram*: "the giver of excellent wealth in plenty — Indra." **maṃhiṣṭham**: "grown in an excessive manner; an epithet of the word *āṅgūṣam*." **āṅgūṣam**: "*āṅgūṣaḥ stoma āghoṣaḥ* (Ni. 3-11 [?]): a proclamation concerned with praise." **upamam**: "*upamīyate 'neneti upamaḥ*: that which is the ground of comparison — i.e. what is the root cause of simile." **bharāmi** — *karomīty arthaḥ*: "though the sense of the root is 'bear', here the sense 'I make' is given."
+
+**Vyākaraṇa-prakriyā** *(pp. 487–488 — noted briefly)* — *Grammar pages, noted briefly.* **tyam**: the word *tyad*; before *am*, *tyadādīnām aḥ*: *a*; *ato guṇe*: *pararūpa*; *ami pūrvaḥ*: the earlier form. **upamam**: *upamīyate 'neneti upamaḥ*; root *māṅ māne*; *ghañarthe kavidhānam*: *ka* in the instrumental sense; as it is *kit*, *āto lopa iṭi ca* (Pā. 6-4-64 as read [?]): loss of *ā*; end-acute from the suffix. **svarṣām**: root *ṛ gatau* after *su*, *anyebhyo 'pi dṛśyante*: *vic*; *guṇa*; *svar*; root *ṣaṇu dāne*, *janasanakhanakramagamo viṭ* (Pā. 3-2-67 as read [?]); before it *vidvanoranunāsikasyāt* (Pā. 6-4-41 as read [?]): *ā* for the nasal; *sanoter anaḥ* (Pā. 8-3-108 [?]): *ṣatva*; so *svarṣā*; *gatikārakopapadāt kṛt*: accent of the first member remains; accusative singular. **bharāmi**: *ḍubhṛñ bharaṇe*; *laṭ* first person; being at the head of a line (*pādādi*), no *nighāta*; since *lasārvadhātuka* after a root with *a*-*upadeśa* is unaccented, the accent of the root stays. **maṃhiṣṭham**: *mahi vṛddhau*; the suffix *tṛc* gives *mahitṛ*; with the sense of excess, *iṣṭhan*; *tureṣṭhemeyaḥsu*: loss of *tṛc*; initial-acute. **acchoktibhiḥ**: *acchā uktayo yeṣām*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member; instrumental plural. **matīnām**: *mana jñāne*; *ktic*; loss of the nasal; genitive plural *ām*; *nuṭ*; lengthening of the vowel before it; *nāmanyatarasyām*: acute on *nām*. **vavṛdhadhyai**: *vṛdhu vṛddhau*; with *ṇic* absorbed in the sense of the root, in the sense of the infinitive *tumarthe sesenasase…* (Pā. 3-4-9): *kadhyai*; as it is *kit*, no *guṇa*; as the suffix follows, reduplication etc. in the Veda; or from *yaj*-form *yañ-luk*; *yañoś cic*: loss of *yañ* [as read]; later *kadhyai* as before; *āgamānuśāsanam anityam*: no *rīk* etc. for the reduplicative syllable; *anyeṣām api dṛśyate* (Pā. 6-3-137 as read [?]): lengthening of the reduplicative vowel in the Saṃhitā; being *ejanta*, *kṛnmejantaḥ*: indeclinable; acute on the *dha*-*ā* part of the suffix.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.2 written (through p. 485 = PDF 501).**
+---
 
-**Next task:** view PDF 502 onward (printed p. 486): Rik 61.3 Saṃhitā, and so on through Rik 61.16 (Pariśiṣṭa begins at p. 531 so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2 grammar partly summarized [?]; earlier flags as before.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.3 written (through p. 488 = PDF 504).**
+
+**Next task:** Rik 61.4 begins on p. 489 (PDF 505, Saṃhitā/Pada/bhāṣya already viewed but NOT yet written — re-view PDF 505); then Riks 61.5–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.3 grammar notes partly summarized and sūtra numerals [?] (a few paraphrased sūtra names in 61.2–61.3 grammar are my approximations of small print — to be checked if an expert reviews); earlier flags as before. Keep future grammar notes shorter and name only sūtras that are legible.
