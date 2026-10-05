@@ -1157,3 +1157,185 @@ That is: Vaiśampāyana has the name Caraka. Yājñavalkya was the sister's [son
 ### Vaiśampāyana's span of life
 
 Like many sages, Vaiśampāyana too was a Brāhmaṇa who lived for a very long time. According to the Ādi-parvan (1-58 [?]), at a place called Takṣaśilā, after the snake-sacrifice, at Vyāsa's command he narrated the story of the Bhārata to Janamejaya. King Janamejaya [went over to the] Śukla Yaju[rveda …] (the sentence continues on the next page).
+
+### Page 123
+
+...to Śukla Yajurveda [continued from p. 122]: it is told in a story that Vaiśampāyana, angry with Yājñavalkya and the other Vājasaneyas — students of the branch of the Veda, whom he had made his priests at his sacrifices and the like — cursed them to be destroyed. Vaiśampāyana's lifetime and Yājñavalkya's lifetime may have been about equal. After he had studied the Kṛṣṇa Yajurveda from Vyāsa, he had it studied by his many pupils, and from those pupils the Kṛṣṇa Yajurveda came to have 86 branches.
+
+Śabarasvāmin, who wrote the bhāṣya on the Pūrva-mīmāṃsā-sūtra, in citing the authority of some ancient work in his bhāṣya (1-1-30 [?]), writes:
+
+> स्मर्यते च—वैशंपायनः सर्वशाखाध्यायी ।
+>
+> *smaryate ca—vaiśaṃpāyanaḥ sarvaśākhādhyāyī |*
+>
+> "And it is remembered: Vaiśampāyana studied all the branches."
+
+That is: Vaiśampāyana knew all these 86 branches of the Kṛṣṇa Yajurveda.
+
+It seems that a metrical work composed by Vaiśampāyana existed in former times. In the Kāśikā-vṛtti (4-3-104 [?]) the expression "Cāraka-ślokas" is written, meaning that these verses were spoken by Vaiśampāyana, who was renowned as Carakācārya. It is possible that these verses are in the Mahābhārata itself.
+
+### The three main divisions of the 86 branches of the Kṛṣṇa Yajurveda
+
+According to the Purāṇas these 86 branches can be arranged in three main divisions. The Vāyu Purāṇa (61 [?]) and the Brahmāṇḍa Purāṇa, Pūrva-bhāga (34 [?]), in these places, say thus:
+
+> वैशंपायनगोत्रोऽसौ यजुर्वेदं व्यकल्पयत् ।
+> षडशीतिस्तु योनोक्ताः संहिता यजुषां शुभाः ॥
+> षडशीतिस्तथा शिष्याः संहितानां विकल्पकाः ।
+> सर्वेषामेव तेषां वै त्रिधा भेदाः प्रकीर्तिताः ॥
+> त्रिधा भेदास्तु ते प्रोक्ता भेदेऽस्मिन्नवमे शुभे ।
+> उदीच्या मध्यदेश्याश्च प्राच्याश्चैव पृथग्विधाः ॥
+> श्यामायनिरुदीच्यानां प्रधानः संबभूव ह ।
+> मध्यदेशप्रतिष्ठाता चारुणिः [आसुरिः ? ब्र.पु.] प्रथमः स्मृतः ॥
+> आलंबिरादिः प्राच्यानां त्रयोदेश्यादयस्तु ते ।
+> इत्येते चरकाः प्रोक्ताः संहितावादिनो द्विजाः ॥
+>
+> *vaiśaṃpāyanagotro 'sau yajurvedaṃ vyakalpayat |*
+> *ṣaḍaśītistu yonoktāḥ saṃhitā yajuṣāṃ śubhāḥ ||*
+> *ṣaḍaśītistathā śiṣyāḥ saṃhitānāṃ vikalpakāḥ |*
+> *sarveṣām eva teṣāṃ vai tridhā bhedāḥ prakīrtitāḥ ||*
+> *tridhā bhedās te proktā bhede 'sminn avame śubhe |*
+> *udīcyā madhyadeśyāś ca prācyāś caiva pṛthagvidhāḥ ||*
+> *śyāmāyanir udīcyānāṃ pradhānaḥ saṃbabhūva ha |*
+> *madhyadeśapratiṣṭhātā cāruṇiḥ [āsuriḥ ? bra.pu.] prathamaḥ smṛtaḥ ||*
+> *āliṃbir ādiḥ prācyānāṃ trayodeśyādayas tu te |*
+> *ity ete carakāḥ proktāḥ saṃhitāvādino dvijāḥ ||*
+
+(The Sanskrit is transcribed as printed; the second line's *yonoktāḥ*, the fifth line's *avame* and the seventh and ninth lines' *trayodeśyādayas* are doubtful in the print and are marked as read, not corrected. The bracketed "āsuriḥ? bra.pu." is the author's own variant note.)
+
+Meaning: Vaiśampāyana had 86 pupils, and from them the Kṛṣṇa Yajurveda came to have 86 branches. Among these 86 branches there are three divisions: Udīcya (northern), Madhyadeśa (middle) and Prācya (eastern). For the Udīcya division Śyāmāyani was the chief, or founder; for the Madhyadeśa, Āruṇi or Āsuri, and for the Prācya division Āliṃbi and others were the founders.
+
+### Page 124
+
+Another passage on this subject has come to light in the Kāśikā-vṛtti (4-3-104 [?]):
+
+> आलंबिश्च रकः प्राचां पलंगकमलावुभौ ।
+> ऋचाभारुणितांड्याश्च मध्यमीयास्त्रयोऽपरे ॥
+> श्यामायन उदीच्येषु उक्तः कठकलापिनौ ।
+>
+> *āliṃbiś ca rakaḥ prācāṃ palaṃgakamalāv ubhau |*
+> *ṛcābhāruṇitāṃḍyāś ca madhyamīyās trayo 'pare ||*
+> *śyāmāyana udīcyeṣu uktaḥ kaṭhakalāpinau |*
+
+(Read as printed; *rakaḥ* and *kaṭhakalāpinau* are doubtful.)
+
+That is: among the branches of Caraka, or the Kṛṣṇa Yajurveda, in the eastern region the branches Āliṃbi, Palaṃga and Kamala; in the middle region the branches Ṛcābha, Āruṇi and Tāṇḍya; in the northern region the branches Śyāmāyana, Kaṭha and Kalāpa were the chief branches in currency.
+
+The author of the Vyākaraṇa-mahābhāṣya, the sage Patañjali, also in the sūtra 4-3-104 [?] says:
+
+> त्रयः प्राच्याः । त्रय उदीच्याः । त्रयो माध्यमाः ।
+>
+> *trayaḥ prācyāḥ | traya udīcyāḥ | trayo mādhyamāḥ |*
+>
+> "Three are eastern; three are northern; three are middle."
+
+That is: among Vaiśampāyana's pupils, three were of the northern region, three of the middle region and three of the eastern region; all of them were propagators of branches. Besides this, in the 34th [?] chapter of the Pūrva-bhāga of the Brahmāṇḍa Purāṇa it stands thus:
+
+> वैशंपायनलौहित्क्याः कठकालापशावधाः [?] ॥ ५ [?] ॥
+> श्यामायनिः पलंगश्च ह्यालंबिः कामलायनिः ।
+> शेषां [?] शिष्याः प्रशिष्याश्च षडशीतिः श्रुतर्षयः ॥ ६ [?] ॥
+>
+> *vaiśaṃpāyanalauhitkyāḥ kaṭhakālāpaśāvadhāḥ [?] || 5 [?] ||*
+> *śyāmāyaniḥ palaṃgaś ca hy ālaṃbiḥ kāmalāyaniḥ |*
+> *śeṣāṃ [?] śiṣyāḥ praśiṣyāś ca ṣaḍaśītiḥ śrutarṣayaḥ || 6 [?] ||*
+
+That is: Vaiśampāyana, Laukhikya [as printed in the Kannada prose: Lauhikya], Kaṭha, Kālāpa, Śāvadha, Śyāmāyani, Palaṃga, Ālaṃbi and Kāmalāyani — these in all are nine teachers who were propagators of branches, together with their pupils and pupils' pupils, 86 in number. The printed text above may have some errors; the word *śāvadha* at the end of the third verse-line is unclear.
+
+Though it is settled, as stated in the Vāyu and Brahmāṇḍa Purāṇas, that the branches of the Kṛṣṇa Yajurveda were 86, it remains a doubtful matter whether all these saṃhitās existed separately. Only the sūtra-authors beginning with Āpastamba are in currency; the saṃhitās of those branches are not found now. Therefore to rely wholly on what is said in the Purāṇas would be very hazardous.
+
+Now only the branches found among the branches of the Kṛṣṇa Yajurveda will be examined here in some detail.
+
+## 1. Caraka-saṃhitā
+
+It cannot be said with certainty what the original Caraka-saṃhitā of Vaiśampāyana (Kṛṣṇa Yajurveda) was like. A "Caraka-saṃhitā" is mentioned only here and there in works such as the Caraṇa-vyūha.
+
+In his bhāṣya on Yajurveda 2-?? [?] and 3?-?? [?], the commentator Uvaṭa quotes some mantras as mantras of the Caraka-saṃhitā. In the Kātyāyana Prātiśākhya-bhāṣya (4-?? [?]) too, Uvaṭa has written the rules of sandhi for the mantras of the Caraka-saṃhitā. Statements of the Caraka-brāhmaṇa also (continued on the next page).
+
+### Page 125
+
+...are likewise quoted there as examples. Many authoritative passages of the Caraka-śrauta are found in the Ānartīya-bhāṣya on the Śāṅkhāyana Śrauta-sūtra [as printed; the reference is doubtful]. In some places of the printed Kaṭha-saṃhitā this reading occurs:
+
+> इति श्रीमद्यजुषि काठके चरकशाखायाम् ।
+>
+> *iti śrīmadyajuṣi kāṭhake carakaśākhāyām |*
+>
+> "Thus, in the revered Yajus, in the Kāṭhaka, in the Caraka branch."
+
+This is necessary to note.
+
+The Śatapatha-brāhmaṇa quotes in great number the Carakādhvaryus' (Caraka Adhvaryu priests') sections. In the Bṛhadāraṇyaka Upaniṣad (3-3-1 [?]) there is a suggestion that the Caraka branch was current in the Madra country. In the Sūtrasthāna of the Caraka-saṃhitā of Āyurveda (?? [?]) it is likewise said that Punarvasu was Candrabhāga [Candrabhāga is the river Chenab]; Candrabhāga, or the Chenab river, was on the border of the Madra country. Therefore Vaiśampāyana's hermitage may have been in the Madra country or near it.
+
+## 2, 3. The Ālaṃbi and Pālaṃgi branches
+
+Only the names of these branches are known now. Ālaṃbi and Palaṃga were teachers of the eastern region. In the 18th [?] chapter of the Anuśāsana-parvan of the Mahābhārata a certain teacher named Ālaṃbāyana is described:
+
+> चारुशीर्षस्ततः प्राह शक्रस्य दयितः सखा ।
+> आलंबायन इत्येवं विश्रुतः करुणात्मकः ॥ ३ [?] ॥
+>
+> *cāruśīrṣas tataḥ prāha śakrasya dayitaḥ sakhā |*
+> *ālaṃbāyana ity evaṃ viśrutaḥ karuṇātmakaḥ || 3 [?] ||*
+>
+> "Then Cāruśīrṣa spoke — the beloved friend of Śakra, renowned thus as Ālaṃbāyana, compassionate of nature."
+
+Ālaṃbi is a person of the eastern country. Indra's kingdom, too, lay in this same direction; therefore it is possible that Ālaṃbi was a friend of Indra.
+
+According to the Sabhā-parvan (4-30 [?]), at the time of Yudhiṣṭhira's entry into the assembly, a person named Ālaṃbi was in the company of many sages. In the closing part of the Śatapatha-brāhmaṇa of the Mādhyandina branch, where the lineage of sages is given, two names, Ālaṃbi and Ālaṃbāyani, are mentioned.
+
+## 4. Kamala branch
+
+According to the Kāśikā-vṛtti (4-3-104 [?]) the students of this branch are called "Kamalins". It is seen that there was also a branch named Kāmalāyana. A great passage of it begins from the 19th [?] section of the Anugrāhika-sūtra:
+
+> अथ ॐ याजिकल्पं कामलायनः समामनंति वसंते वै....।
+>
+> *atha oṃ yājikalpaṃ kāmalāyanaḥ samāmananti vasaṃte vai....|*
+>
+> "Now, Om: the Kāmalāyanas teach the Yājikalpa: in the spring indeed...."
+
+It is difficult to know whether "Kāmalina" and "Kāmalāyana" are one branch or different branches. In grammar "Kāmalinaḥ" is given; in some places "Kāmalāyanaḥ", in some "Kāmulāyanaḥ" [as printed]. There may be some connection among these three names.
+
+### Page 126
+
+In the Chāndogya Upaniṣad (4-10-1) it is said thus:
+
+> उपकोसलो ह वै कामलायनः सत्यकामो जाबाले ब्रह्मचर्यमुवास ।
+>
+> *upakosalo ha vai kāmalāyanaḥ satyakāmo jābāle brahmacaryam uvāsa |*
+>
+> "Upakosala Kāmalāyana lived the life of a student of sacred knowledge with Satyakāma Jābāla."
+
+That is: Upakosala Kāmalāyana was a pupil of Satyakāma Jābāla. If the word Upakosala here is taken to mean "of the Upakosala country", he may well have been connected with this branch; because the propagators of the Kamala branch were of the eastern country, and the Kamalas too are said to be of the east.
+
+## 5. Ārcābhi branch
+
+In the Nirukta (2-?? [?]) Yāska mentions a branch by the name Ārcābhyāmnāya. Durga, Skanda and other commentators on the Nirukta have not written the correct sense of this word. Skanda in his Nirukta commentary writes:
+
+> आर्चाभ्याम्नायो । ऋचां समूह आर्चम् । अभ्याम्नायत इत्याभ्याम्नायः । ऋच एव यजुषा ब्राह्मणेन चामिश्रा
+> आम्नायते अभिमुख्येन यस्मिन्सा वा आर्चाभ्याम्नायः ।
+> तस्मिन् ऋग्वेद इत्यर्थः । अन्ये ऋचाभ्याम्नाय इति पठंति ॥
+>
+> *ārcābhyāmnāyo | ṛcāṃ samūha ārcam | abhyāmnāyata ityābhyāmnāyaḥ | ṛca eva yajuṣā brāhmaṇena cāmiśrā āmnāyate abhimukhyena yasminsā vā ārcābhyāmnāyaḥ | tasmin ṛgveda ityarthaḥ | anye ṛcābhyāmnāya iti paṭhanti ||*
+>
+> "*Ārcābhyāmnāya*: *ārca* is a collection of ṛks; that which is recited facing (*abhi*) is *abhyāmnāya*; that in which the ṛks alone, unmixed with yajus and brāhmaṇa, are recited with face toward them is the *ārcābhyāmnāya*. That is, the Ṛgveda is meant. Others read *ṛcābhyāmnāya*."
+
+(The Sanskrit is transcribed from the Kannada print; some words in the second line are doubtful.)
+
+What he has written applies to the Ṛgveda. But the author of the Kāśikā-vṛtti, in the 4th [?] sūtra, 3rd pāda of the 4th [?] chapter of his vṛtti, in the 104th sūtra [?], writes:
+
+> आलंबिश्च रकः प्राचां पलंगकमलावुभौ ।
+> ऋचाभारुणितांड्याश्च मध्यमीयास्त्रयोऽपरे ॥
+> आलंबिनः । पालंगिनः । कामलिनः । आर्चाभिनः । आरुणिनः । ताण्डिनः ।
+>
+> *āliṃbiś ca rakaḥ prācāṃ palaṃgakamalāv ubhau |*
+> *ṛcābhāruṇitāṃḍyāś ca madhyamīyās trayo 'pare ||*
+> *āliṃbinaḥ | pāliṃginaḥ | kāmalinaḥ | ārcābhinaḥ | āruṇinaḥ | tāṇḍinaḥ |*
+
+and, having written so, he states that Ārcābhi is one particular branch of the Kṛṣṇa Yajurveda.
+
+## 6–7. Āruṇi or Āsuri branch and Tāṇḍya branch
+
+In describing the branches of the Ṛgveda a branch by the name Āruṇi was mentioned. It is still a matter of inference whether this branch belongs to the Ṛgveda or to the Yajurveda, or whether there is a branch of this name in each of the two Vedas. The real name of the Yajurvedic branch may be Āsuri-śākhā. In the Brahmāṇḍa Purāṇa, in place of the place-name "Āruṇi", a variant reading "Āsurī" occurs. A teacher named Āsurī is also known among the propagators of the branches of the Yajurveda. In the Anuśāsana-parvan (45-?? [?]) the name of a sage Tāṇḍi is found; it occurs in the Śānti-parvan [?], and in other chapters this person's name occurs. In the Mahābhāṣya (4-?-?? [?]) there is the statement "Āsurīyaḥ kalpaḥ" [the Āsurīya ritual manual].
+
+In the Śānti-parvan of the Mahābhārata (?? [?]) the name of the sage Tāṇḍya appears in the sacrifice of King Uparicara Vasu. In the Śatapatha-brāhmaṇa also (6-?-?-?? [?]) there is mention of his name. The Sāma... (the sentence continues on the next page).
+
+---
+
+**Progress note (Gap A):** Translated through printed p. 126 (PDF 152). Next: p. 127 (PDF 153), continuing the sentence about Tāṇḍya and the Sāmaveda. Open flags: reference numerals on pp. 123–126 mostly marked [?].
