@@ -6711,8 +6711,106 @@
 
 ---
 
+### Heading block of Sūkta 56 *(p. 372, PDF 388)*
+
+Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga 20 [as read, [?]] · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371; Sūkta 55 ends p. 371 with its closing line). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 — 55 DONE. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks, ṛṣi Savya Āṅgirasa, Indra, Jagatī) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 371, PDF 387). Heading block and Rik 56.1 begin on p. 372 (PDF 388) — NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+### Rik 56.1 (pp. 372–375, PDF 388–391)
 
-**Next task:** continue at printed p. 372 (PDF 388) with the heading block and Rik 56.1; Riks 2–6; close of Sūkta 56; then Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* [?]; Rik 8 print slightly crowded in the bhāṣya; Uṇādi/Pāṇini numerals [?]; Sūkta 56 introduction Āśvalāyana numeral [?].
+**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+
+> **एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः ।**
+> **दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसम् ॥ १ ॥**
+
+*eṣa pra pūrvīr ava tasya camriṣo 'tyo na yoṣām udayaṃsta bhurvaṇiḥ |*
+*dakṣaṃ mahe pāyayate hiraṇyayaṃ ratham āvṛtyā hariyogam ṛbhvasam || 1 ||*
+
+**Pada-pāṭha** *(p. 372)*
+
+> एषः । प्र । पूर्वीः । अव । तस्य । चम्रिषः । अत्यः । न । योषाम् ।
+> उत् । अयंस्त । भुर्वणिः ।
+> दक्षम् । महे । पाययते । हिरण्ययम् । रथम् । आऽवृत्य । हरिऽयोगम् । ऋभ्वसम् ॥ १ ॥
+
+*eṣaḥ | pra | pūrvīḥ | ava | tasya | camriṣaḥ | atyaḥ | na | yoṣām |*
+*ut | ayaṃsta | bhurvaṇiḥ |*
+*dakṣam | mahe | pāyayate | hiraṇyayam | ratham | ā-vṛtya | hari-yogam | ṛbhvasam || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 372–373)*
+
+> **भुर्वणिर्भक्षको भक्षणशीलो वा एष इन्द्रस्तस्य यजमानस्य पूर्वीः प्रभूताश्चम्रिषश्चमूषु चमसेष्ववस्थिताः सोमलक्षणा इषः प्रावोदयंस्त । प्रकर्षेण पानार्थमुद्धरति । तत्र दृष्टान्तः । अत्यो न योषाम् । यथाश्वो वडवां क्रीडार्थमुपगच्छति । स चेन्द्रो हिरण्ययं सुवर्णमयं हरियोगं हरिभ्यां युक्तमृभ्वसमुरु भासमानं रथमावृत्यावस्थाप्य महे महते वृत्रवधादिरूपाय कर्मणे दक्षं प्रवृद्धमात्मानं सोमं पाययते । पानं कारयति ॥**
+
+*bhurvaṇir bhakṣako bhakṣaṇaśīlo vā eṣa indras tasya yajamānasya pūrvīḥ prabhūtāś camriṣaś camūṣu camaseṣv avasthitāḥ somalakṣaṇā iṣaḥ prāvodayaṃsta | prakarṣeṇa pānārtham uddharati | tatra dṛṣṭāntaḥ | atyo na yoṣām | yathāśvo vaḍavāṃ krīḍārtham upagacchati | sa cendro hiraṇyayaṃ suvarṇamayaṃ hariyogaṃ haribhyāṃ yuktam ṛbhvasam uru bhāsamānaṃ ratham āvṛtyāvasthāpya mahe mahate vṛtravadhādirūpāya karmaṇe dakṣaṃ pravṛddham ātmānaṃ somaṃ pāyayate | pānaṃ kārayati ||*
+
+*(The tail, pp. 373, is characterized: on* pūrvīḥ *(*pyā*, Uṇādi *ku*; *ṅīṣ*),* camriṣaḥ *(*camū* + *iṣaḥ*; *camu adane*, Uṇādi *ū*; *camva* with *r* for *v* in the Veda),* ayaṃsta *(*yam uparame*, *luṅ* in the present sense; *sic*; no *iṭ*; *nasya anusvāra*),* bhurvaṇiḥ *(*bhurvatir hiṃsākarmā*, Ni. 6-… as read [?]; *bhurvan*; *aniḥ*),* pāyayate *(*pā pāne*, *ṇic*; *ṇicaś ca*: *ātmanepada*; *śāchāsāhvāvyā… yuk*),* hiraṇyayam *(*mayaṭ*; *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi*: *ma* dropped),* hariyogam*,* ṛbhvasam *(*uru bhāḥ*; *pṛṣodarādi*) — see the Kannada notes.)*
+
+**Translation of the bhāṣya:** "*Bhurvaṇiḥ*, the devouring one — this Indra: *pūrvīḥ*, the abundant *iṣaḥ*, drinks, in the form of soma, of that sacrificer — *camriṣaḥ*, which lie in the *camū*, the cups — *pra ud ayaṃsta*, he lifts up eagerly to drink. An illustration: *atyo na yoṣām*, as a stallion goes to a mare for sport. And that Indra, having mounted and halted the golden chariot — *hiraṇyayam* — *hariyogam*, yoked to the two bays, *ṛbhvasam*, widely shining, *mahe*, for the great deed, the slaying of Vṛtra and the like, *dakṣam*, grown strong, himself, *pāyayate*, has the soma drunk — that is, drinks it."
+
+**Pratipadārtha** *(p. 373)* — "**bhurvaṇiḥ** — the devouring one; **iṣaḥ** — Indra; **yoṣām** — a mare; **atyo na** — as a stallion [goes to a mare for sport], eagerly; **tasya** — of that sacrificer; **pūrvīḥ** — abundant; **camriṣaḥ** — which lie in the vessels, the Soma juices; [to drink them] **pra ava udayaṃsta** — he eagerly rises; **hiraṇyayam** — made of gold; **hariyogam** — joined with horses; **ṛbhvasam** — brilliant; **ratham** — chariot; **āvṛtya** — having mounted; **mahe** — for great deeds (the slaying of Vṛtra and so on); **dakṣam** — for the capable body (the belly); **pāyayate** — he makes (the soma) drunk."
+
+**Bhāvārtha** *(p. 373)* — "As a stallion eagerly goes to a mare for sport, the devouring Indra rises eagerly to drink the soma juices that the sacrificer has offered in abundance, lying in the cups. Having mounted his golden, horse-yoked, brilliant chariot, he drinks the soma to make himself capable of great deeds such as the slaying of Vṛtra."
+
+**English Translation (the source's own, p. 373)** — "Voracious (Indra) has risen up, as a horse (approaches) a mare, to partake of the copious libations (contained) in the sacrificial ladles; having stayed his well-horsed, golden and splendid chariot, he plies himself, capable of heroic (actions with the beverage)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 374**
+- **pūrvīḥ** — "This word, formed from the root *pyā pālanapūraṇayoḥ*, means abundant or exceeding."
+- **camriṣaḥ** — "*Camūṣu vartamānā iṣaḥ* — as the derivation shows, *camū* means the vessel *camasa*; the soma-offerings in them. The word *iṣ* is read among the synonyms of food in the Nirukta (Ni. 2-7 as read [?])."
+- **atyo na yoṣām** — "Here the word *atya* means horse. As a stallion longs for a mare in sport, so Indra desires the oblation distinguished as soma."
+- **hariyogam** — "*Haryoḥ yogaḥ yojanaṃ yasmin*: one that is yoked with two horses. This and *hiraṇyayam*, *ṛbhvasam* ('shining specially') are epithets of Indra's chariot."
+- **bhurvaṇiḥ** — "One who eats. *Bhurvatir hiṃsākarmā* (Ni. 6-… as read [?]) — the Nirukta-authors give 'eater' for this word formed from the root *bhurv hiṃsāyām*."
+
+**Vyākaraṇa-prakriyā** *(pp. 374–375 — grammar pages, noted briefly)*
+- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *prasvabhidivyadhi…* (Uṇ. 1-… as read [?]): *ku*; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*: *puru*; for the feminine, *vottaro guṇavacanāt*: *ṅīṣ*; *yaṇ*; *halica*: lengthening of *ur*; end-acute by the suffix.
+- **camriṣaḥ**: *camu adane*, *kṛṣicamitanidhanisu…* (Uṇ. 1-… as read [?]): *ū*; *camū*, always feminine; *camvāṃ vartamānā iṣaḥ*: the Vedic *r* for *v*; *gatikārakopapadāt kṛt*.
+- **ayaṃsta**: *yam uparame*; Vedic *luṅ* with the present sense; *ātmanepada* by *vyatyaya*; *sic* by *cleḥ sic*; *ekāca upadeśe 'nudāttāt*: no *iṭ*; *naś cāpadāntasya jhali*: *anusvāra*; *aṭ*; *nighāta*.
+- **bhurvaṇiḥ**: *bhurv hiṃsāyām* (*bhurvatir hiṃsākarmā*, Ni.); Uṇādi *ani*; *aṭkupvāṅ…*: *ṇatva*; middle-acute.
+- **pāyayate**: *pā pāne*; *hetumati ca*: *ṇic*; *ṇicaś ca*: *ātmanepada*; *śāchāsāhvāvyāvepāṃ yuk*: *yuk*; *śap*, *guṇa*, *ayādeśa*; *ṭita ātmanepadānāṃ ṭer e*.
+- **hiraṇyayam**: *mayaṭ* after *hiraṇya* in the sense of "made of"; *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi* (Pā. 6-4-175): *ma* dropped by *nipāta*; *hariyogam*: bahuvrīhi; *haris*, ending in *in*, is initial-acute by *jñādyudāttatvam*; *bahuvrīhau prakṛtyā pūrvapadam*.
+- **ṛbhvasam**: *uru bhāḥ yasya sa urubhāḥ tam*: *pṛṣodarādīni yathopadiṣṭam*: *ṛbhvasa*. **|| 1 ||**
+
+---
+
+### Rik 56.2 (pp. 375–378, PDF 391–394)
+
+**Saṃhitā-pāṭha** *(p. 375)*
+
+> **तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः ।**
+> **पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधि रोह तेजसा ॥ २ ॥**
+
+*taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ |*
+*patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā || 2 ||*
+
+**Pada-pāṭha** *(p. 376)*
+
+> तम् । गूर्तयः । नेमन्ऽइषः । परिऽनसः । समुद्रम् । न । संऽचरणे । सनिष्यवः ।
+> पतिम् । दक्षस्य । विदथस्य । नु । सहः । गिरिम् । न । वेनाः । अधि । रोह । तेजसा ॥ २ ॥
+
+*tam | gūrtayaḥ | neman-iṣaḥ | pari-nasaḥ | samudram | na | saṃ-caraṇe | saniṣyavaḥ |*
+*patim | dakṣasya | vidathasya | nu | sahaḥ | girim | na | venāḥ | adhi | roha | tejasā || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 376)*
+
+> **गूर्तयः स्तोतारो नेमन्निषः नमस्कारपूर्वकं गच्छन्तः । यद्वा नीतहविष्काः परीणसः परितो व्याप्नुवन्तः । एवंगुणविशिष्टा यजमानास्तमिन्द्रं स्तुतिभिरधिरोहन्ति । स्तुवन्त इत्यर्थः । तत्र दृष्टान्तः । सनिष्यवः सनिं धनमात्मन इच्छन्तो वणिजो धनार्थं संचरणे संचारे निमित्तभूते सति समुद्रं न । यथा नावा समुद्रमधिरोहन्ति एवं स्तोतारोऽपि स्वाभिमतधनलाभायेन्द्रं स्तुवन्तीति भावः । हे स्तोतस्त्वं च दक्षस्य प्रवृद्धस्य विदथस्य यज्ञस्य पतिं पालयितारं सहः सहस्वन्तं बलवन्तमिन्द्रं तेजसा देवताप्रकाशकेन स्तोत्रेण नु क्षिप्रमधि रोह । स्तुहीति यावत् । तत्र दृष्टान्तः । वेनाः कान्ताः स्त्रियो गिरिं न । यथा पर्वतं स्वाभिमुखपुष्पोपचयार्थमधिरोहन्ति ॥**
+
+*gūrtayaḥ stotāro nemanniṣaḥ namaskārapūrvakaṃ gacchantaḥ | yadvā nītahaviṣkāḥ parīṇasaḥ parito vyāpnuvantaḥ | evaṃguṇaviśiṣṭā yajamānās tam indraṃ stutibhir adhirohanti | stuvanta ity arthaḥ | tatra dṛṣṭāntaḥ | saniṣyavaḥ saniṃ dhanam ātmana icchanto vaṇijo dhanārthaṃ saṃcaraṇe saṃcāre nimittabhūte sati samudraṃ na | yathā nāvā samudram adhirohanti evaṃ stotāro 'pi svābhimatadhanalābhāyendraṃ stuvantīti bhāvaḥ | he stotas tvaṃ ca dakṣasya pravṛddhasya vidathasya yajñasya patiṃ pālayitāraṃ sahaḥ sahasvantaṃ balavantam indraṃ tejasā devatāprakāśakena stotreṇa nu kṣipram adhi roha | stuhīti yāvat | tatra dṛṣṭāntaḥ | venāḥ kāntāḥ striyo giriṃ na | yathā parvataṃ svābhimukhapuṣpopacayārtham adhirohanti ||*
+
+*(The tail, p. 376 foot: on* gūrtayaḥ *(*gṝ śabde*, *ktic*; *gūrti*, Uṇ. as read [?]),* nemanniṣaḥ *(*namanta iṣyanti*; Uṇādi *thak*… *kvip*),* parīṇasaḥ *(*ṇasa kauṭilye*, "*nasate*" with *pari*; *upasargād asamāse*: *ṇatva*),* saniṣyavaḥ *(*ṣaṇu dāne*, *kyac* with *sarvaprātipadikebhyo lālasāyām asug…*: *suk*; *kyāc chandasi*: *u*),* nu*,* sahaḥ *(*matup* dropped) — in the Kannada notes.)*
+
+**Translation of the bhāṣya:** "*Gūrtayaḥ*, the praisers, *nemanniṣaḥ*, who go with salutation — or: who have brought oblations; *parīṇasaḥ*, spread all round: sacrificers of such qualities mount that Indra with their praises, i.e. praise him. An illustration: *saniṣyavaḥ*, merchants wishing wealth for themselves, when there is travelling for wealth, *samudraṃ na*, as they mount the ocean in a ship; so the praisers also praise Indra to obtain the wealth they desire. And you, O praiser, *dakṣasya vidathasya patim*, the protector of the grown sacrifice, *sahaḥ*, the strong, the mighty Indra, *tejasā*, with a hymn that makes the deity shine, *nu*, quickly, *adhi roha*, mount: praise. An illustration: *venāḥ giriṃ na*, as lovely women climb a mountain to gather flowers they like."
+
+**Pratipadārtha** *(p. 377)* — "**gūrtayaḥ** — the praisers; **nemanniṣaḥ** — those who go with salutation, or who carry the oblation; **parīṇasaḥ** — the sacrificers who have gathered round; **saṃcaraṇe** — at the time of travel for wealth; **saniṣyavaḥ** — merchants who want wealth; **samudraṃ na** — as they gather by boats to reach the ocean (so they reach him through hymns, O praiser); **dakṣasya** — the capable; **vidathasya** — of the sacred sacrifice; **patim** — protector; **sahaḥ** — strong; **tejasā** — with a hymn that illumines (the deities); **venāḥ** — women; **giriṃ na** — as they climb a mountain (to gather flowers); **su** — vigilantly; **adhi roha** — approach [Indra] by the hymn."
+
+**Bhāvārtha** *(p. 377)* — "As merchants who want wealth gather in boats to sail the ocean when they travel for wealth, the sacrificers, bearing oblations, gather all round and approach Indra with hymns. O praiser, approach, with a hymn that illumines the deities, Indra — strong, the protector of the sacred sacrifice — as women climb a mountain to gather flowers."
+
+**English Translation (the source's own, p. 377)** — "He adorers, bearing oblations, thronging round (him) as (merchants) covetous of gain crowd the ocean (in vessels) on a voyage; ascend quickly, with a hymn to the powerful Indra, the protector of the solemn sacrifice as women (climb) a mountain."
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371). User instruction (2026-10-05): next three sūktas = 55 (done), 56, 57. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks) in progress: heading, Rik 56.1 complete, Rik 56.2 written through the English translation (printed p. 377, PDF 393). The Special Topics (p. 377 foot–378) and Vyākaraṇa notes of Rik 2 (pp. 378–, PDF 394–) and Riks 56.3–56.6 NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+
+**Next task:** continue at printed p. 377 foot / p. 378 (PDF 393–394) with "**Rik 56.2, continued**" (Special Topics: *gūrtayaḥ, nemanniṣaḥ, parīṇasaḥ* [seen: *gūrtayaḥ* from *gṝ śabde* 'praisers'; *nemanniṣaḥ* = 'they who go with salutation, or give oblations'; *parīṇasaḥ* 'spreading round, performers of sacrifice'] — re-view PDF 393–394 for the exact text), then Riks 3–6, close of Sūkta 56, and Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56 Nirukta numerals [?].
