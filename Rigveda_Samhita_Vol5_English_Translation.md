@@ -7288,8 +7288,136 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 57.4, grammar (end)** *(p. 405, PDF 421 — grammar page, noted briefly)*
+- **ārabhya**: *rabha rābhasye*, *bhvādi*; *ktvā* with the prefix; since the *ā* is a prefix and the word is a compound, *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37): *lyap*; being *pit*, anudātta (so the root's accent stays).
+- **carāmasi**: *cara gatibhakṣaṇayoḥ*; *laṭ* first plural *masi* [*mas*]; *kartari śap*; *ato dīrgho yañi*: lengthening of the *a* before *m*; *idantomasi*: *i* augment; no *nighāta*, because of the *ye* [= *yat*-word] before; *śap* is *pit*, anudātta; *lasārvadhātukam* [the *masi*] is also anudātta; the root's accent remains.
+- **saghat**: *saghu hiṃsāyām*; since roots have many meanings, here it is used in the sense of "reaching"; *dhātvādeḥ ṣaḥ saḥ*; *leṭ* third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: *i* dropped; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: *śap* → *luk*; at the beginning of a pāda: no *nighāta*; *pit*: anudātta; initial-acute of the root.
+- **kṣoṇīriva**: *kṣoṇī* ends in *ī*, hence always feminine; with *su* following, *halṅyābbhyo…* would drop it, but here the Veda keeps it; *sasajuṣo ruḥ*: *ru*.
+- **harya**: *hary gatikāntyoḥ* ("desire"); *loṭ* second singular *sip* → *hi*; *śap*; *ato heḥ*: *hi* dropped; *nighāta* by *tiṅ atiṅaḥ*. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks) in progress: Riks 57.1–57.3 complete; Rik 57.4 written through the Special Topics and the first grammar note (*puruṣṭuta*) (printed p. 404, PDF 420). The remaining grammar of Rik 4 (p. 405, PDF 421) and Riks 57.5–57.6 NOT yet written.**
+### Rik 57.5 (pp. 405–408, PDF 421–424)
 
-**Next task:** continue at printed p. 405 (PDF 421) with "**Rik 57.4, grammar (end)**", then Riks 5–6 and the close of Sūkta 57 (it should end ≈ p. 410; Sūkta 58 at ≈ p. 411); then STOP (user's "next 3 sūktas" done), update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; check for an anuvāka colophon). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 55–56 numerals [?]; 57.1 Nirukta numeral [?]; 57.2 "abhyuktyaiva" [?]; 57.3 Nirukta quotation "asta kṛmārthasya" and numerals [?], bhāṣya "ayase" gloss and the Ṛ. Saṃ. 1-113-1 quotation partly crowded [?].
+**Saṃhitā-pāṭha** *(p. 405)*
+
+> **भूरि त इन्द्र वीर्यं तव स्मस्यस्य स्तोतुर्मघवन्कामामा पृण ।**
+> **अनु ते द्यौर्बृहती वीर्यं मम इयं च ते पृथिवी नेम ओजसे ॥ ५ ॥**
+
+*bhūri ta indra vīryaṃ tava smasy asya stotur maghavan kāmam ā pṛṇa |*
+*anu te dyaur bṛhatī vīryaṃ mama iyaṃ ca te pṛthivī nema ojase || 5 ||*
+
+*(The print's first line reads "तव स्मसि" and "कामम् आ पृण"; I follow the Pada.)*
+
+**Pada-pāṭha** *(p. 406)*
+
+> भूरि । ते । इन्द्र । वीर्यम् । तव । स्मसि । अस्य । स्तोतुः । मघऽवन् । कामम् । आ । पृण ।
+> अनु । ते । द्यौः । बृहती । वीर्यम् । मम इति ममे । इयम् । च । ते । पृथिवी । नेमे । ओजसे ॥ ५ ॥
+
+*bhūri | te | indra | vīryam | tava | smasi | asya | stotuḥ | magha-van | kāmam | ā | pṛṇa |*
+*anu | te | dyauḥ | bṛhatī | vīryam | mame | iyam | ca | te | pṛthivī | neme | ojase || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 406)*
+
+> **हे इन्द्र ते तव वीर्यं सामर्थ्यं भूरि बहु । न केनाप्यवच्छेत्तुं शक्यते । तादृशस्य तव वयं स्मसि । स्वभूता भवामः । हे मघवन्नस्य स्तोतुस्त्वां स्तुवतो यजमानस्य कामम् अभिलाषम् आ पृण । आपूरय । बृहती द्यौर्महान् द्युलोकोऽपि ते तव वीर्यमनु मने । अन्वमंस्त । इन्द्रेण सहावस्थानादियं चेयमपि पृथिवी ते तवौजसे बलाय नेमे । प्रह्वीबभूव । त्वद्बलाद्भीता सत्यथैव वर्तत इति भावः ॥**
+
+*he indra te tava vīryaṃ sāmarthyaṃ bhūri bahu | na kenāpy avacchettuṃ śakyate | tādṛśasya tava vayaṃ smasi | svabhūtā bhavāmaḥ | he maghavann asya stotus tvāṃ stuvato yajamānasya kāmam abhilāṣam ā pṛṇa | āpūraya | bṛhatī dyaur mahān dyuloko 'pi te tava vīryam anu mame | anvamaṃsta | indreṇa sahāvasthānād iyaṃ ceyam api pṛthivī te tavaujase balāya neme | prahvībabhūva | tvadbalād bhītā satyathaiva vartata iti bhāvaḥ ||*
+
+*(The tail, p. 406: on* smasi *(*as bhuvi*, *mas*; *śnasor allopaḥ*; *idantomasi*),* pṛṇa *(*pṛṇa prīṇane*; *tudādi*; *śa*; *loṭ*; no *hi*, since *sip*'s *hi* dropped by *ato heḥ*),* mame *(*māṅ māne śabde ca*; *liṭ*; *ātmanepada*; *lidvat*; *ata ekahalmadhye…*),* neme *(*ṇamu prahvatve*; *liṭ*; *eś*; *ata ekahalmadhye*: *e* for *a*; the loss of the reduplicative)).)*
+
+**Translation of the bhāṣya:** "O Indra, *te vīryam*, your valour, power, is *bhūri*, great; it cannot be cut off by anyone. *Tava smasi*: of such you we are — we are your own. O *maghavan*, *asya stotuḥ kāmam ā pṛṇa*, fulfil the wish of this praiser, the sacrificer who praises you. *Bṛhatī dyauḥ*, the great heaven also *anu mame*, acknowledged [*anvamaṃsta*] your valour; and, through staying with Indra, *iyaṃ ca pṛthivī*, this earth too, *ojase*, before your strength, *neme*, bowed: becoming afraid of your strength, it behaves truly [submissively] — such is the sense."
+
+**Pratipadārtha** *(p. 406)* — "**indra** — O Indra; **te** — your; **vīryam** — prowess; **bhūri** — abundant; **tava** — (such) yours; **smasi** — we are; **maghavan** — O Indra; **asya stotuḥ** — of this praiser; **kāmam** — the wish; **ā pṛṇa** — fulfil; **bṛhatī dyauḥ** — the vast heaven; **te** — your; **vīryam** — prowess; **anu mame** — has acknowledged; **iyaṃ ca pṛthivī** — and this earth too; **te** — your; **ojase** — before your strength; **neme** — has bowed."
+
+**Bhāvārtha** *(p. 407)* — "O Indra, your prowess is exceedingly great. We are yours, as such. O Indra, fulfil the wish of this praiser. The vast heaven has acknowledged your prowess, and this earth too has bowed before your strength."
+
+**English Translation (the source's own, p. 407)** — "Indra, great is your prowess; we are yours; satisfy, Maghavan, the desires of this your worshipper; the vast heaven has acknowledged your might; this earth has been bowed down through your vigour."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 407**
+- **smasi** — "*Svabhūtā bhavāmaḥ*: this word is formed from the root *as bhuvi* with loss of the *a*; 'we shall be yours'."
+- **ā pṛṇa** — "*Āpūraya*: this word, formed from the root *pṛṇa prīṇane*, though giving the sense of 'pleasing', is explained by *lakṣaṇā* as the sense of 'fulfilling': 'fulfil completely our desires'."
+- **neme** — "A form born of the root *ṇamu prahvatve*: 'the earth, afraid of your strength, is bowed before you': thus Indra is praised."
+
+**Vyākaraṇa-prakriyā** *(pp. 407–408 — grammar pages, noted briefly)*
+- **smasi**: *as bhuvi*, *adādi*; *laṭ* first plural *mas*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *sārvadhātukam apit*: *ṅit*; *śnasor allopaḥ*: loss of the *a* of *as*; *idantomasi*: *i* to *mas*; after an *atiṅ*: *nighāta*.
+- **asya**: *idam*, genitive singular; *ūḍidam…*: ending acute.
+- **stotuḥ**: *ṣṭuñ stutau*; *tṛc* in the agent sense; *citaḥ*: end-acute; genitive singular.
+- **pṛṇa**: *pṛṇa prīṇane*, *tudādi*; *loṭ* second singular *sip* → *hi*; *tudādibhyaḥ śaḥ*; *sārvadhātukam apit*; no *laghūpadhaguṇa* (*pugantalaghūpadhasya ca*); *ato heḥ*: *luk*; *tiṅ atiṅaḥ*: *nighāta*.
+- **mame**: *māṅ māne śabde ca*, *juhotyādi*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *nighāta*.
+- **neme**: *ṇamu prahvatve (śabde ca)*; *liṭ* third singular; *eś*; doubling; *kit*; since the root has a single consonant between *a*s, *atra*: *ata ekahalmadhye 'nādeśāder liṭi* (Pā. 6-4-120): *e* for the root-vowel and loss of the reduplicative; *neme*; *tiṅ atiṅaḥ*: *nighāta*. **|| 5 ||**
+
+---
+
+### Rik 57.6 (pp. 408–411, PDF 424–427)
+
+**Saṃhitā-pāṭha** *(p. 408)*
+
+> **त्वं तमिन्द्र पर्वतं महामुरुं वज्रेण वज्रिन्पर्वशश्चकर्तिथ ।**
+> **अवासृजो निवृताः सर्तवा अपः सत्रा विश्वं दधिषे केवलं सहः ॥ ६ ॥**
+
+*tvaṃ tam indra parvataṃ mahām uruṃ vajreṇa vajrin parvaśaś cakartitha |*
+*avāsṛjo nivṛtāḥ sartavā apaḥ satrā viśvaṃ dadhiṣe kevalaṃ sahaḥ || 6 ||*
+
+**Pada-pāṭha** *(p. 408)*
+
+> त्वम् । तम् । इन्द्र । पर्वतम् । महान् । उरुम् । वज्रेण । वज्रिन् । पर्वऽशः । चकर्तिथ ।
+> अव । असृजः । निऽवृताः । सर्तवै । अपः । सत्रा । विश्वम् । दधिषे । केवलम् । सहः ॥ ६ ॥
+
+*tvam | tam | indra | parvatam | mahān | urum | vajreṇa | vajrin | parva-śaḥ | cakartitha |*
+*ava | asṛjaḥ | ni-vṛtāḥ | sartavai | apaḥ | satrā | viśvam | dadhiṣe | kevalam | sahaḥ || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 409)*
+
+> **हे वज्रिन्नायुधवन्निन्द्र त्वं तं प्रसिद्धं महान्मायामतो महान्तमुरुं विस्तीर्णं सर्वं पर्वतं पर्ववन्तं मेघं वृत्रासुरं वा वज्रेणायुधेन पर्वशः पर्वणि पर्वणि चकर्तिथ । शकलीचकृषे । तेन मेघेन निवृता आवृता अपः सर्तवै सरणाय गमनायावासृजः । आवाङ्मुखमस्राक्षीः । अतस्त्वमेव केवलं विश्वं व्याप्तं सहो बलं दधिषे । धारयसि । नान्यः कश्चिदिति । यदेतत्सत्रा सत्यमेव । सत्रेति सत्यनाम । सत्रेत्थेति तन्नामसु पाठात् ॥**
+
+*he vajrinn āyudhavann indra tvaṃ taṃ prasiddhaṃ mahān māyāmato mahāntam uruṃ vistīrṇaṃ sarvaṃ parvataṃ parvavantaṃ megham vṛtrāsuraṃ vā vajreṇāyudhena parvaśaḥ parvaṇi parvaṇi cakartitha | śakalīcakṛṣe | tena meghena nivṛtā āvṛtā apaḥ sartavai saraṇāya gamanāyāvāsṛjaḥ | avāṅmukham asrākṣīḥ | atas tvam eva kevalaṃ viśvaṃ vyāptaṃ saho balaṃ dadhiṣe | dhārayasi | nānyaḥ kaścid iti | yad etat satrā satyam eva | satreti satyanāma | satrettheti tannāmasu pāṭhāt ||*
+
+*(Reading note: "*mahān māyāmato mahāntam*" at the start is crowded, [?]. The tail, p. 409: on* mahān*,* cakartitha *(*kṛtī chedane*; *liṭ* second singular; doubling;* thal*; *iṭ*;* ṛ *→ *ar*),* sartavai *(*sṛ gatau*, *tavai*),* dadhiṣe*.)*
+
+**Translation of the bhāṣya:** "O *vajrin*, wielder of the weapon, Indra, you, *taṃ parvatam*, that well-known cloud (*parvata*, the one with joints) or the Asura Vṛtra — great, broad, vast — *vajreṇa*, with your thunderbolt, *parvaśaḥ*, joint by joint, *cakartitha*, cut up into pieces; and the waters *nivṛtāḥ*, enclosed by that cloud, *sartavai*, to flow, you *ava asṛjaḥ*, let down, turned the mouth downward. Therefore you alone *dadhiṣe*, hold, *viśvam kevalam sahaḥ*, all-pervading strength; none other: *satrā*, truly — *satra* is a name for truth, since 'satrā' is read among the names of truth ('*satrā itthā*')."
+
+**Pratipadārtha** *(p. 409)* — "**vajrin** — wielder of the thunderbolt; **indra** — O Indra; **tvam** — you; **tam** — that well-known; **mahān** — great; **urum** — wide; **parvatam** — cloud, or Vṛtra; **vajreṇa** — with your thunderbolt; **parvaśaḥ** — in each joint; **cakartitha** — cut up in pieces; **nivṛtāḥ** — enclosed by that cloud; **apaḥ** — waters; **sartavai** — to flow; **ava asṛjaḥ** — let down; **kevalam** — you alone; **viśvam sahaḥ** — all power; **dadhiṣe** — hold; **satrā** — this is truth."
+
+**Bhāvārtha** *(p. 409)* — "O Indra, wielder of the thunderbolt, you cut that great, broad, well-known cloud into pieces, joint by joint, with your thunderbolt, and let down the waters shut up in it to flow. Therefore it is true that you alone possess all power."
+
+**English Translation (the source's own, p. 409)** — "Weilder [sic] of the thunderbolt, you have shattered with your bolt, the broad and massive cloud into fragments, and have sent down the waters that were confined in it, to flow (at will); verily you alone possess all power."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 409–410**
+- **mahān** — "Great in extent."
+- **parvatam** — "This word is explained as the cloud (Ni. 3-… as read [?]), or Vṛtra the Asura in the form of a cloud, or the mountain. Yāska says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā | devān asmin prīṇantīti | megho 'pi giries tasmād eva*' (Ni. 1-20 as read [?])." *(In the print the second half is as the first, "*parvataḥ*"; the sense: 'a parvata has joints; "parva" is from "pṛ" to fill or "prī" to please; the gods are pleased in it; the cloud too is a *giri*, from the same'.)*
+- **satrā** — "It conveys the sense of 'truth'. In the Nirukta the word *satrā* is read among the synonyms of truth: '*satrā itthā*' (Ni. 3-10 as read [?])."
+- **parvaśaḥ** — "Joint by joint; in pieces."
+
+**Vyākaraṇa-prakriyā** *(pp. 410–411 — grammar pages, noted briefly)*
+- **mahān**: *mahat*; in the accusative singular *mahāntam*; in the Saṃhitā, *n* and *t* are lost in the Veda.
+- **parvaśaḥ**: *saṃkhyaikavacanāc ca vīpsāyām* (Pā. 5-4-43): *śas* is added to the word *parva* whose sense is "one by one" when repetition is meant.
+- **cakartitha**: *kṛtī chedane*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; *halādiḥ śeṣaḥ*; *ur at*; *kuhoś cuḥ*: *c*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *pugantalaghūpadhasya ca*: *guṇa*; *tiṅ atiṅaḥ*: *nighāta*.
+- **asṛjaḥ**: *sṛja visarge*, *tudādi*; *laṅ* second singular; *śa*; no *laghūpadha-guṇa*; *nighāta*.
+- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ*: *tavai* in the sense of the action; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; *kṛn mejantaḥ*: *avyaya*; *avyayād āpsupaḥ*: *luk* [of the case ending]; *antaś ca tavai yugapat*: both the first and final syllables are acute at once.
+- **dadhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*: *se*; doubling; *hrasva*; *jaśtva*; *kṛsṛbhṛvṛstudru…*: *iṭ* is allowed here because of *kṛsṛ…* limit — so *iṭ*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *ṣatva*; *tiṅ atiṅaḥ*: *nighāta*. **|| 6 ||**
+
+**Closing note** *(p. 411, printed large)* — "**ಐವತ್ತೇಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-seventh sūkta is ended."
+
+---
+
+### Close of Sūkta 57
+
+**Sūkta 57 (Maṇḍala 1, Tenth Anuvāka, 6 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī) — printed pp. 392–411, PDF 408–427.** The Riks offer a hymn to the most generous Indra whose strength no one can withstand, as no one can hold back water rushing to a hollow (1); the whole world became ready for his sacrifice when his golden bolt killed Vṛtra (2); Uṣas is bidden to bring the oblation to the terrible and praiseworthy Indra, whose radiance goes out like a charioteer driving horses (3); the praisers who are Indra's own pray that he accept their praise as the earth cherishes her creatures (4); his prowess is great and heaven and earth bow before it (5); and he cut the vast cloud joint by joint and loosed the waters, so that he alone possesses all power (6). There are no long narratives in the Special Topics.
+
+**End of the Tenth Anuvāka:** with Sūkta 57 the print ends the seven sūktas of the tenth anuvāka (Sūktas 51–57); the next sūkta begins a new anuvāka.
+
+---
+
+## END OF THE USER'S REQUESTED RANGE (Sūktas 55–57)
+
+*(On p. 411, just below the closing line, the print begins Sūkta 58, "ಐವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು" — *nū cit sahojāḥ* — with Sāyaṇa's introduction (seven sūktas in the eleventh anuvāka; Sūkta 58 has nine Riks, ṛṣi Nodhas Gautama, deity Agni; the first five Riks Jagatī, the other four Triṣṭubh) and the Kannada anuvāda. It is not translated in this session; the next session should write its title and introduction from p. 411 (PDF 427) afresh.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411; Sūkta 57 ends p. 411 with its closing line, and the Tenth Anuvāka closes with it). The user's instruction of 2026-10-05 ("continue with next 3 sūktas" = 55, 56, 57) is FULFILLED. Next: Sūkta 58 (*nū cit sahojāḥ*, first sūkta of the ELEVENTH Anuvāka of Maṇḍala 1 — seven sūktas 58–64; 9 Riks; ṛṣi Nodhas Gautama; deity Agni; Riks 1–5 Jagatī, 6–9 Triṣṭubh; Atirātra / Prātaranuvāka uses) begins in the lower half of printed p. 411 = PDF 427 (title, Sāyaṇa's introduction and anuvāda are on that page; heading block and Rik 1 on p. 412 = PDF 428). NOT yet translated.**
+
+**Next task (when the user asks):** Sūkta 58 from p. 411 (PDF 427) — write its title/introduction/anuvāda fresh from the print; then Riks 1–9 and close; contents table puts Sūkta 59 at ≈ p. 439, 60 ≈ 461, 61 ≈ 478, Pariśiṣṭa from p. 531. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg` (re-render beyond with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w`); append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūktas 55–57: introduction numerals [?] (Anukramaṇī half-lines; Āśvalāyana references); crowded phrases recorded in the individual Riks (55.3 *nākārṣīḥ*; 56.4 "tvayegā stotrā vardhiśaṃ"; 56.5 final clause; 57.2 "abhyuktyaiva"; 57.3 Nirukta quotation and Ṛ. Saṃ. 1-113-1 words; 57.6 first words of the bhāṣya); all Uṇādi/Pāṇini/Nirukta/Brāhmaṇa numerals [?]; grammar pages kept to short characterizations.
