@@ -6319,8 +6319,192 @@
 
 ---
 
+**Rik 55.2, continued** *(pp. 347–349, PDF 363–365)*
+
+**Pratipadārtha** *(p. 347)* — "**saḥ indraḥ** — that Indra; **samudriyaḥ** — abiding in the atmosphere; **varīmabhiḥ** — by the power of his greatness; **viśritāḥ** — spread all round; **nadyaḥ** — the waters; **arṇavo na** — as the ocean [takes the rivers]; **prati gṛbhṇāti** — takes (he accepts and sends down the rain); **indraḥ** — Indra; **somasya pītaye** — for the drinking of soma; **vṛṣāyate** — comes impetuous like a bull; **yudhmaḥ** — the warrior; **saḥ** — that Indra; **sanāt** — from long ago, or always; **ojasā** — (by the deeds of valour, such as the slaying of Vṛtra); **panasyate** — looks for praise."
+
+**Bhāvārtha** *(p. 347)* — "Indra, abiding in the atmosphere, takes the waters spread all round by the power of his greatness, as the ocean takes the rivers; and for the drinking of soma he comes like a bull, with joy and impetuosity. That warrior Indra always looks for praise of his valour."
+
+**English Translation (the source's own, p. 347)** — "The firmament-abiding Indra grasps the wide-spread waters with his comprehensive faculties as the ocean receives the rivers; he rushes (impetuous) as a bull, to drink of the soma-juice; he, the warrior ever covets praise for his prowess."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 347–349**
+- *(a Sanskrit passage, p. 347)*: **अत्रेदमुक्तं भवति । इन्द्रः सोमस्य पाने प्रभूतमेव तृष्णालुर्भवति । अतः विवानेकैरुपासकैरर्पितान् सोमान् समुद्रो नदीरिव स्वीकरोति । सोमं पीत्वा च स्तुत्यर्हाणि वृत्रहननादीनि कर्माणि करोतीति ॥** — *atredam uktaṃ bhavati | indraḥ somasya pāne prabhūtam eva tṛṣṇālur bhavati | ataḥ vivānekair upāsakair arpitān somān samudro nadīr iva svīkaroti | somaṃ pītvā ca stutyarhāṇi vṛtrahananādīni karmāṇi karotīti ||* — "Here this is meant: Indra is very thirsty for the drinking of soma; therefore he accepts the Somas offered by the many worshippers as the ocean accepts the rivers; and having drunk the soma he does deeds worthy of praise, the slaying of Vṛtra and the like." (*vivānekair* is crowded in the print, [?].)
+- **samudriyaḥ** — "*Samudravanti asmād āpaḥ iti samudram antarikṣam, tatra bhavaḥ samudriyaḥ*: the atmosphere, which supplies the earth with water. This is an epithet of Indra; to destroy Vṛtra, who in the form of water lay in the atmosphere, Indra went to the atmosphere."
+- **nadyaḥ** — "From the root *nada avyakte śabde* comes the word *nadī*: waters that make a sound. The śruti '*āhāvanavatā hate tasmād ādyo nāma sthā tā vo nāmāni sindhavaḥ*' (Tai. Saṃ. 5-6-1-2 as read [?]) shows this sense." *(Quoted garbled; I give the Devanagari as printed, doubtful:)*
+
+  > **आहावनदता हते तस्मादा नद्यो नाम स्थ ता वो नामानि सिन्धवः ।** *(Tai. Saṃ. 5-6-1-2 as read [?]; crowded)*
+
+  *āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ |* — mine and tentative, incomplete: "…therefore you are named 'sounding ones' (*nadyaḥ*); those are your names, rivers."
+- **vṛṣāyate** — "*Vṛṣa ivācarati*: he comes with joy; Indra is like a bull: he is happy."
+- **panasyate** — "*Panaḥ stotram icchati*: he seeks praise. The word *pana*, which gives the sense of praise (*stotra*), is meant."
+
+**Vyākaraṇa-prakriyā** *(pp. 348–349 — grammar pages, noted briefly)*
+- **arṇavaḥ**: *arṇas*; for the possessive sense *arṇaso lopaś ca* (Kā. 5-2-109 as read [?]) gives *va*, and drops the *s*; end-acute by the suffix.
+- **nadyaḥ**: *nada avyakte śabde*; *ac* (*nandigrahipacādibhyo*); *nadaṭ* is read in a gaṇa, so it is *ṭit*, hence *ṭiḍḍhāṇañ…* gives *ṅīp*; *yasyeti ca*; *anudāttasya ca yatrodāttalopaḥ*: the *ī* is acute; *yaṇ* before *jas*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita*. The nominative stands for the accusative (*vivakṣātaḥ kārakāṇi*).
+- **samudriyaḥ**: *samudrābhrād ghaḥ* (Pā. 4-4-118): *gha*; *āyaneyīnīyiyaḥ…*: *īya*; *īya* treated as *upadeśavat*, so the *ī* is acute.
+- **gṛbhṇāti**: *graha upādāne*, *kryādi*; *śnā*; *grahijyā…* the *saṃprasāraṇa*; *hṛgrahor bhaś chandasi*: *bh* for *h*.
+- **viśritāḥ**: *śriñ sevāyām*; *kta*, no *guṇa*; *gatir anantaraḥ*: the prefix's accent; plural initial-acute.
+- **varīmabhiḥ**: *vṛñ varaṇe*; Uṇādi *īmasin*; *guṇa*; *sit*: *ñnityādir…* initial-acute; instrumental plural; *nalopaḥ*. Or *uru* + *imanic* → *vara* + lengthening, initial-acute [Vedic].
+- **vṛṣāyate**: *kartuḥ kyaṅ salopaś ca* (Pā. 3-1-11): *kyaṅ* in the sense of conduct; *ātmanepada*; *akṛtsārvadhātukayor dīrghaḥ* lengthens the *a* of *vṛṣa*.
+- **yudhmaḥ**: *yudha saṃprahāre*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* (Uṇ. 1-… as read [?]): *mak*; end-acute.
+- **panasyate**: *pana stutau*, *bhvādi*; *panaṃ panaḥ icchati*; *supa ātmanaḥ kyac*; *vyatyaya* gives *ātmanepada*; *panasyate*; *nighāta*. **|| 2 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 (per the contents table: 55 at p. 341, 56 at ≈371, 57 at ≈392, 58 at ≈411). Sūkta 55 (*divaś cid asya*, 8 Riks, ṛṣi Savya Āṅgirasa, Indra, Jagatī) in progress: introduction, heading, Rik 55.1 complete, Rik 55.2 Saṃhitā, Pada and main bhāṣya written (printed p. 346, PDF 362). The rest of Rik 2 (Pratipadārtha etc., p. 347, PDF 363) and Riks 55.3–55.8 NOT yet written.**
+### Rik 55.3 (pp. 349–353, PDF 365–369)
 
-**Next task:** continue at printed p. 347 (PDF 363) with "**Rik 55.2, continued**", then Riks 3–8 and the close of Sūkta 55; then Sūktas 56 and 57 (confirm actual start pages from the print); stop after Sūkta 57; then update CLAUDE.md. Page images exist for PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (usage `cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in a `---` line). Routines PAUSED. Flags for Sūkta 55: introduction small bold print crowded, all Anukramaṇī/Āśvalāyana numerals [?]; Varga numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Atharvaveda quotation in the grammar tail [?].
+**Saṃhitā-pāṭha** *(p. 349)*
+
+> **त्वं तमिन्द्र पर्वतं न भोजसे महो नृम्णस्य धर्मणामिरज्यसि ।**
+> **प्र वीर्येण देवताति चेकिते विश्वस्मा उग्रः कर्मणे पुरोहितः ॥ ३ ॥**
+
+*tvaṃ tam indra parvataṃ na bhojase maho nṛmṇasya dharmaṇām irajyasi |*
+*pra vīryeṇa devatāti cekite viśvasmā ugraḥ karmaṇe purohitaḥ || 3 ||*
+
+**Pada-pāṭha** *(p. 350)*
+
+> त्वम् । तम् । इन्द्र । पर्वतम् । न । भोजसे । महः । नृम्णस्य । धर्मणाम् । इरज्यसि ।
+> प्र । वीर्येण । देवता । अति । चेकिते । विश्वस्मै । उग्रः । कर्मणे । पुरःऽहितः ॥ ३ ॥
+
+*tvam | tam | indra | parvatam | na | bhojase | mahaḥ | nṛmṇasya | dharmaṇām | irajyasi |*
+*pra | vīryeṇa | devatā | ati | cekite | viśvasmai | ugraḥ | karmaṇe | puraḥ-hitaḥ || 3 ||*
+
+*(The Pada reads* pra … ati *as two words: "pra | vīryeṇa | devatā | ati | cekite" — i.e. the Saṃhitā's *devatāti*; I follow the print.)*
+
+**Sāyaṇa-bhāṣya** *(p. 350)*
+
+> **हे इन्द्र त्वं भोजसे भोजनाय पर्वतं पर्ववन्तं मेघं नाकार्षीः । न हि हतो भुङ्क्ते । इन्द्रो हि वर्षणार्थं मेघं वज्रेण हन्ति । तथा महो महतो नृम्णस्य धनस्य धर्मणां धारयितॄणां कुबेरादीनामिरज्यसि । ईशिषे । इरज्यतिरैश्वर्यकर्मा । स इन्द्रो देवता वीर्येणात्यतिशयित इति प्र चेकिते प्रकर्षेणास्माभिर्ज्ञातो बभूव । स चोग्र उद्गूर्ण इन्द्रो विश्वस्मै सर्वस्मै वृत्रवधादिरूपाय कर्मणे देवैः पुरोहितः पुरस्तादवस्थापितः ॥**
+
+*he indra tvaṃ bhojase bhojanāya parvataṃ parvavantaṃ megham nākārṣīḥ [?] | na hi hato bhuṅkte | indro hi varṣaṇārthaṃ megham vajreṇa hanti | tathā maho mahato nṛmṇasya dhanasya dharmaṇāṃ dhārayitṝṇāṃ kuberādīnām irajyasi | īśiṣe | irajyatir aiśvaryakarmā | sa indro devatā vīryeṇātyatiśayita iti pra cekite prakarṣeṇāsmābhir jñāto babhūva | sa cogra udgūrṇa indro viśvasmai sarvasmai vṛtravadhādirūpāya karmaṇe devaiḥ purohitaḥ purastād avasthāpitaḥ ||*
+
+*(Reading notes: "*nākārṣīḥ*" for "you did not make (it) food" is as read, [?] — the Kannada Pratipadārtha says "you did not strike (the cloud) with the thunderbolt [for your own enjoyment], but struck it to make rain for men". The grammatical tail, pp. 350 foot: on* dharmaṇām *(*dhṛ*, *manin*; *uraṇ raparaḥ*),* irajyasi *(*irajyatiḥ aiśvaryakarmā*, Ni. as read [?]; *īrṣyā*; *kaṇḍvādi yak*),* vīryeṇa *(*vīra* + *yat*, the *vīravīryau ca* rule),* devatā *(*devāt tal*),* cekite *(*kita jñāne*, intensive),* purohitaḥ *(*puras*, an avyaya with the *gati* name, so the prefix's accent) — is characterized.)*
+
+**Translation of the bhāṣya:** "O Indra, you did not [strike] the cloud (*parvatam*, the cloud with its joints) *bhojase*, for eating — for one who is struck does not eat; Indra strikes the cloud with the thunderbolt for the sake of rain. And you *irajyasi*, are lord, of *dharmaṇām*, the holders — Kubera and the others — of *mahaḥ nṛmṇasya*, great wealth; *irajyati* is a verb of lordship. That Indra, as a deity, surpasses all by valour: so *pra cekite*, he has come to be well known to us. And he is *ugraḥ*, fierce, uplifted, *viśvasmai karmaṇe*, for every deed such as the slaying of Vṛtra, *purohitaḥ*, placed in front by the gods."
+
+**Pratipadārtha** *(pp. 350–351)* — "**indra** — O Indra; **tvam** — you; **bhojase** — for your own enjoyment; **tam parvatam** — that cloud; **na** — you did not strike with the thunderbolt (you struck the cloud to make rain for men); **mahaḥ** — great; **nṛmṇasya** — of wealth; **dharmaṇām** — of the lords, Kubera and the others; **irajyasi** — you are the lord (you break); **devatā** — Indra in the form of a deity; **vīryeṇa** — by valour; **ati** — he surpasses all; **pra cekite** — he has been known to us well; **ugraḥ** — the proud Indra (valiant); **viśvasmai karmaṇe** — for all deeds (such as the slaying of Vṛtra); **purohitaḥ** — has been put first (among the gods)."
+
+**Bhāvārtha** *(p. 351)* — "O Indra, you did not strike the cloud with the thunderbolt for your own enjoyment, but struck it to cause rain. You are the master of Kubera and the other lords of great wealth. We have come to know that Indra, in the form of a deity, surpasses all by his valour. The valiant Indra stands first among the gods in all deeds of valour."
+
+**English Translation (the source's own, p. 351)** — "Indra, you have not set open the cloud for your own enjoyment; you rule over the great lords of riches; that Divinity (Indra) has been, by his own strength, greatly known to us, that fierce (Indra) has been, on account of his exploits, leader of all the gods."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 351–352**
+- **bhojase** — "*Bhojanāya*: the word *bhojas*, ending in *s*, gives in the Veda the sense of eating."
+- **parvatam** — "*Parvavantaṃ megham*: it gives satisfaction; it gladdens people by giving water and the like. The Nirukta says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā; arthavad apa-parva-devān asmin prīṇantīti*' (Ni. 1-20 as read [?])" *(quoted incompletely in the print)*.
+- **nṛmṇasya** — "This word means wealth (Ni. 2-10 as read [?])."
+- **irajyasi** — "*Apekṣisuttīye*: 'you wish for' — though this is the sense, for the verb *irajyati* of the sense of jealousy (*īrṣyāyām*) some have given the sense of lordship from '*aiśvarye ity eke*'; the commentator takes the sense 'you hold lordship'."
+- **pra cekite** — "*Prakarṣeṇa asmābhir jñāto babhūva*: he has come to be especially known to us. This word is formed from the root *kita jñāne*."
+- **ugraḥ** — "*Udgūrṇa indraḥ*: the Indra who rises against enemies is its sense."
+
+**Vyākaraṇa-prakriyā** *(pp. 352–353 — grammar pages, noted briefly)*
+- **dharmaṇām**: *dhṛñ dhāraṇe*; *manin* (*anyebhyo 'pi dṛśyante*); *guṇa*, *uraṇ raparaḥ*: *dharman*; genitive plural; *nit*, initial-acute.
+- **irajyasi**: *irajyatir aiśvaryakarmā*; *īrṣyāyām* the root *īraj*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak*; *sanādyantā dhātavaḥ*; *laṭ* second singular; *nighāta*.
+- **vīryeṇa**: *vīra* (*śūra vīra vikrāntau*, *curādi*) with *satyāpapāśa…*: *ṇic*; *ac*… *yat* (*aco yat*); *ṇeraniṭi*: loss of *ṇic*; *vīrya*; instrumental. By *yato 'nāvaḥ* initial-acute would arise, but since *vīravīryau ca* restates the initial-acute for compounds, the Kannada reasons that *yat*'s accent does not come here, and *tit svaritam* gives *svarita*; "if *yato 'nāvaḥ* gave the initial acute, *vīravīryau ca* would be needless, since *ādyudāttaṃ dvyac chandasi* already gives it in compounds — so it would be useless; therefore the *svarita* comes here."
+- **devatā**: *deva eva devatā*; *devāt tal* (Pā. 5-4-27): *tal* in the self-sense; *talantaṃ strīyām*: feminine; *liti*: the acute before the suffix.
+- **cekite**: *kita jñāne*; *yaṅ* in the sense of intensity; *sanyaṅoḥ* reduplication; *guṇo yaṅluk…*; *cekitya*; *liṭ* with *te* → *e*… (details as before).
+
+---
+
+**Rik 55.3, grammar (end)** *(p. 353, PDF 369)*: **cekite** — *liṭ* after *yaṅ*-ending root (*liṭ* is *ārdhadhātuka* by *liṭi*…); *ato lopaḥ* drops the *a* of *yaṅ*; *yasya halaḥ* drops *y*; *liṭas tajhayor eśirec* gives *e* for *ta*: *cekite*; following an *atiṅ*, *nighāta*. **purohitaḥ** — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39): *asi* with *pur* for the base: *puras*; being read as an *avyaya* (*taddhitaś cāsarvavibhaktiḥ*, Pā. 1-1-38), *purorvyayam* (Pā. 1-4-67) gives it the *gati*-name, so *gatir anantaraḥ* keeps the first member's accent. **|| 3 ||**
+
+---
+
+### Rik 55.4 (pp. 353–356, PDF 369–372)
+
+**Saṃhitā-pāṭha** *(p. 353)*
+
+> **स इद्वने नमस्युभिर्वचस्यते चारु जनेषु प्रब्रुवाण इन्द्रियम् ।**
+> **वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति ॥ ४ ॥**
+
+*sa id vane namasyubhir vacasyate cāru janeṣu prabruvāṇa indriyam |*
+*vṛṣā chandur bhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yad invati || 4 ||*
+
+**Pada-pāṭha** *(p. 353)*
+
+> सः । इत् । वने । नमस्युऽभिः । वचस्यते । चारु । जनेषु । प्रऽब्रुवाणः । इन्द्रियम् ।
+> वृषा । छन्दुः । भवति । हर्यतः । वृषा । क्षेमेण । धेनाम् । मघवा । यत् । इन्वति ॥ ४ ॥
+
+*saḥ | it | vane | namasyu-bhiḥ | vacasyate | cāru | janeṣu | pra-bruvāṇaḥ | indriyam |*
+*vṛṣā | chanduḥ | bhavati | haryataḥ | vṛṣā | kṣemeṇa | dhenām | maghavā | yat | invati || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 353–354)*
+
+> **स इत् स एवेन्द्रो वने रण्ये । नमस्युभिर्नमसा स्तोत्रेण पूजयितृभिर्ऋषिभिर्वचस्यते । वच इच्छन् क्रियते । स्तूयत इत्यर्थः । यद्वा वचः स्तोत्रमात्मन इच्छति । स चेन्द्र आत्मीयेषु जनेष्विन्द्रियं स्ववीर्यं प्रब्रुवाणः प्रकटयन् चारु वर्तते । किंच स वृषा कामानां वर्षको हर्यतः प्रेप्सावतो यियक्षतश्छन्दुरुपच्छन्दयिता भवति । यियक्षतां पुरुषाणां योगे रुचिमुत्पादयतीति भावः । वृषा हविषां वर्षयिता हविष्प्रदातेत्यर्थः । मघवा धनवान् । एवंभूतो यजमानः क्षेमेणेन्द्रकृतेन रक्षणेन युक्तः सन् यद्यदा धेनां स्तुतिलक्षणां वाचमिन्वति प्रेरयति । तदानीं छन्दुर्भवतीति पूर्वेणान्वयः । यद्वा । मघवा वृषेन्द्रः क्षेमेण क्षेपकरेण मनसा धेनां यजमानैः कृतां स्तुतिं यद्यस्मादिन्वति व्याप्नोति तस्मादिति योज्यम् ॥**
+
+*sa it sa evendro vane raṇye | namasyubhir namasā stotreṇa pūjayitṛbhir ṛṣibhir vacasyate | vaca icchan kriyate | stūyata ity arthaḥ | yadvā vacaḥ stotram ātmana icchati | sa cendra ātmīyeṣu janeṣv indriyaṃ svavīryaṃ prabruvāṇaḥ prakaṭayan cāru vartate | kiṃca sa vṛṣā kāmānāṃ varṣako haryataḥ prepsāvato yiyakṣataś chandur upacchandayitā bhavati | yiyakṣatāṃ puruṣāṇāṃ yoge rucim utpādayatīti bhāvaḥ | vṛṣā haviṣāṃ varṣayitā haviṣpradātety arthaḥ | maghavā dhanavān | evaṃbhūto yajamānaḥ kṣemeṇendrakṛtena rakṣaṇena yuktaḥ san yad yadā dhenāṃ stutilakṣaṇāṃ vācam invati preraya­ti | tadānīṃ chandur bhavatīti pūrveṇānvayaḥ | yadvā | maghavā vṛṣendraḥ kṣemeṇa kṣepakareṇa manasā dhenāṃ yajamānaiḥ kṛtāṃ stutiṃ yad yasmād invati vyāpnoti tasmād iti yojyam ||*
+
+*(The tail, p. 354, characterized: on* namasyubhiḥ *(*namasaḥ kyac*, *kyāc chandasi*: *u*),* vacasyate*,* prabruvāṇaḥ *(*brūñ vyaktāyāṃ vāci*, *śānac*, *uvaṅ*, *ṇatva*),* indriyam *(*indrasya liṅgam*, *gha*),* invati *(*ivi vyāptau*, *num*, *śap*) — and see the Kannada notes below.)*
+
+**Translation of the bhāṣya:** "That very Indra, *vane*, in the forest, is *vacasyate*, praised by the *namasyubhiḥ*, the sages who worship with reverence and hymn; or he himself wishes a *vacas*, a hymn. And Indra, *janeṣu*, among his own people, *prabruvāṇaḥ*, proclaiming *indriyam*, his own valour, abides *cāru*, beautifully. Further, he is *vṛṣā*, the shower of desires, *chanduḥ*, the one who brings pleasure (*upacchandayitā*) to *haryataḥ*, one who wishes to sacrifice: he creates a liking, in men who wish to sacrifice, for the sacrifice. *Vṛṣā* is also the one who showers the oblations, i.e. the giver of oblations; *maghavā*, the wealthy one. When such a sacrificer, endowed with *kṣema*, the protection given by Indra, *invati*, sends out *dhenām*, a speech of praise — then Indra becomes *chandu* (connect with the first). Or: *maghavā vṛṣā* Indra, because he fills with his mind — *kṣemeṇa*, which dispels [trouble] — the *dhenā*, the praise made by the sacrificers, therefore (he becomes a pleasing one)."
+
+**Pratipadārtha** *(p. 354)* — "**saḥ it** — that Indra; **vane** — in the forest; **namasyubhiḥ** — by the sages who worship with salutation; **vacasyate** — is praised, or wishes to be praised; **janeṣu** — among [his own] people; **indriyam** — his own valour; **prabruvāṇaḥ** — revealing; **cāru** — he is beautiful; **vṛṣā** — the giver of oblations, and; **maghavā** — wealthy; such a sacrificer; **kṣemeṇa** — with [Indra-given] protection; **yat** — when; **dhenām** — a praise in the form of speech; **invati** — offers; **vṛṣā** — Indra, who protects the desires; **haryataḥ** — to the sacrificer who wishes to sacrifice; **chanduḥ** — the giver of joy (satisfaction); **bhavati** — becomes."
+
+**Bhāvārtha** *(pp. 354–355)* — "That Indra is praised in the forest by the sages who worship him; he proclaims his beautiful valour among his own people. The sacrificer, wealthy and a giver of oblations, protected by Indra, offers him a praise in speech; then Indra, who grants desires, becomes the giver of satisfaction to the sacrificer who wishes to sacrifice."
+
+**English Translation (the source's own, p. 355)** — "He is praised by adoring (sages) in the forest, he stands beautifully by anouncing his own strength amongst men, when protected by Indra, a wealthy sacrificer, the offerer of oblation, recites laudatory verses, Indra, the showerer of desires, engages him who is desirous of performing a sacrifice in that rite." *(Printed "anouncing" [sic]; heading "Engish Transation" [sic].)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 355**
+- **namasyubhiḥ** — "*Namasā stotreṇa pūjayitṛbhiḥ ṛṣibhiḥ*: by sages who are satisfied by hymn alone. Indra, who loves praise, is satisfied by the praise of the sages in the forest."
+- **vacasyate** — "*Vaca icchati vacasyati*: those sages, who make him *vacasya*, one who wishes hymns. The sense that sages cause Indra to be fond of praise is also fitting."
+- **haryataḥ** — "*Prepsāvato yiyakṣataḥ*: one who sacrifices of his own wish."
+- **chanduḥ bhavati** — "*Upacchandayitā bhavati*: Indra makes the sacrificers fond of the sacrificial act."
+- **vṛṣā** — "Here the word *vṛṣā* refers to Indra, as the giver of desired things, and to the sacrificer, as the one who offers oblations."
+- **dhenām** — "Speech that displays praise: the word is used here in the context that 'one who speaks praise-words dear to Indra gives delight to the sacrificing people'."
+
+**Vyākaraṇa-prakriyā** *(pp. 355–356 — grammar pages, noted briefly)*
+- **namasyubhiḥ**: *namas* is an *avyaya* ending in *s*; *namovarivaścitraṅaḥ kyac* (Pā. 3-1-19) gives *kyac* in the sense of worship; *namasya* is a root; *kyāc chandasi* (Pā. 3-2-170) gives *u* after *kyac*-ending in the Veda; *ato lopaḥ*; by the suffix-accent *namasyu* is end-acute; instrumental plural.
+- **vacasyate**: *vacaḥ icchati vacasyati*; *supa ātmanaḥ kyac*; *taṃ vacasyantaṃ kurvanti munayo vacasyayanti*: *hetumati ca* gives *ṇic* after *kyac*; *ṇer aniṭi* drops it before *yat* …; *yasya halaḥ*, *ato lopaḥ*; or with mere *kyac*, *vacasya*; *vyatyayo bahulam* gives *ātmanepada*; *nighāta*.
+- **prabruvāṇaḥ**: *brūñ vyaktāyāṃ vāci*; *laṭaḥ śānac*; *ādādikāc chapo luk*; *sārvadhātukam apit*: no *guṇa*; *brū + śānac*: *āciśnudhātubhruvāṃ…*: *uvaṅ*; *aṭkupvāṅnum…*: *ṇatva*; *citaḥ*: end-acute; with *pra*, *gatikārakopapadāt kṛt*.
+- **indriyam**: *indrasya liṅgam indriyam*; *indriyam indraliṅgam indradṛṣṭam indrasṛṣṭam indrajuṣṭam indradattam iti vā* (Pā. 5-2-93): *gha* is irregularly given; *gha* → *iya*; *citaḥ*: end-acute.
+- **invati**: *ivi vyāptau*; *idito num dhātoḥ*; *laṭ* third singular; *kartari śap*; *śap* and *tip* being *pit*, anudātta; the root's accent remains; since *yat* stands before, no *nighāta*. **|| 4 ||**
+
+---
+
+### Rik 55.5 (pp. 357–, PDF 373–)
+
+**Saṃhitā-pāṭha** *(p. 357)*
+
+> **स इन्महानि समिथानि मज्मना कृणोति युध्म ओजसा जनेभ्यः ।**
+> **अधा चन श्रद्दधति त्विषीमत इन्द्राय वज्रं निघनिघ्नते वधम् ॥ ५ ॥**
+
+*sa in mahāni samithāni majmanā kṛṇoti yudhma ojasā janebhyaḥ |*
+*adhā cana śraddadhati tviṣīmata indrāya vajraṃ nighanighnate vadham || 5 ||*
+
+**Pada-pāṭha** *(p. 357)*
+
+> सः । इत् । महानि । सम्ऽइथानि । मज्मना । कृणोति । युध्मः । ओजसा । जनेभ्यः ।
+> अध । चन । श्रत् । दधति । त्विषिऽमते । इन्द्राय । वज्रम् । निऽघनिघ्नते । वधम् ॥ ५ ॥
+
+*saḥ | it | mahāni | sam-ithāni | majmanā | kṛṇoti | yudhmaḥ | ojasā | janebhyaḥ |*
+*adha | cana | śrat | dadhati | tviṣi-mate | indrāya | vajram | ni-ghanighnate | vadham || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 357)*
+
+> **स इत् स एवेन्द्रो युध्मो योद्धा महानि समिथानि महतः संग्रामान् मज्मना सर्वस्य शोधकेनौजसा बलेन कृणोति करोति । किमर्थं । जनेभ्यः । स्तोतृजनार्थं । यदेन्द्रो वधं हननसाधनं वज्रमायुधं मेघेषु निघनिघ्नते । निहंति । अधा चन अनन्तरमेव त्विषीमते दीप्तिमत इन्द्राय सर्वे जनाः श्रद्दधति । श्रदिति सत्यनाम । इन्द्रो बलवानिति यदुच्यते तत्सत्यमेवेति सर्वे प्रतिपद्यन्ते ॥**
+
+*sa it sa evendro yudhmo yoddhā mahāni samithāni mahataḥ saṃgrāmān majmanā sarvasya śodhakenaujasā balena kṛṇoti karoti | kimarthaṃ | janebhyaḥ | stotṛjanārtham | yadendro vadhaṃ hananasādhanaṃ vajram āyudhaṃ megheṣu nighanighnate | nihaṃti | adhā cana anantaram eva tviṣīmate dīptimata indrāya sarve janāḥ śraddadhati | śrad iti satyanāma | indro balavān iti yad ucyate tat satyam eveti sarve pratipadyante ||*
+
+*(The tail, pp. 357 foot–358, characterized: on* mahāni *(*mahat* neuter plural; the loss of *t*; *śi*),* samithāni *(*iṇ gatau*, Uṇādi *thak*: "*saṃyanti saṃgacchante 'smin vīrā iti*"),* majmanā*,* kṛṇoti*,* tviṣīmate *(*tviṣa dīptau*),* nighanighnate *(*han*, intensive-like reduplication: *nigha-nighnate*; *vyatyaya* for the *ātmanepada*, plural sense)* with the Nirukta note "*ity ṛcaśabdaḥ prakārārthaḥ*" — the Kannada notes below.)*
+
+**Translation of the bhāṣya:** "That very Indra, *yudhmaḥ*, the warrior, *mahāni samithāni*, great battles, *majmanā*, with strength that purifies everything, *ojasā*, with might, *kṛṇoti*, does — for what? *janebhyaḥ*, for the sake of the praising people — when Indra *vadhaṃ vajram*, the killing thunderbolt, the weapon, *nighanighnate*, strikes down on the clouds. *Adhā cana*, immediately, *tviṣīmate*, to the radiant Indra, all people *śraddadhati*: *śrat* is a name for truth; what is said, 'Indra is mighty', is true — thus all believe."
+
+**Pratipadārtha** *(p. 358)* — "**yudhmaḥ** — the warrior; **saḥ it** — that Indra; **mahāni** — wonderful; **samithāni** — battles; **majmanā** — (that purify everything) that uproot enemies; **ojasā** — with strength; **janebhyaḥ** — for the good of his worshippers; **kṛṇoti** — does (when Indra); **vadham** — the killing; **vajram** — his thunderbolt; **nighanighnate** — hurls repeatedly (on the clouds); **adhā cana** — immediately after that; **tviṣīmate** — to the blazing; **indrāya** — Indra; **śraddadhati** — all people show devotion with trust in his true valour."
+
+**Bhāvārtha** *(p. 358)* — "Indra the warrior fights wonderful battles, for the good of his worshippers, with strength that can root out the enemies. When Indra hurls his deadly thunderbolt repeatedly, immediately all people show devotion, trusting the valour of the blazing Indra."
+
+**English Translation (the source's own, p. 358)** — "Indra, the warrior, engages in many great conflicts for man with his all-purifying prowess; when he hurls his fatal thunderbolt, every one immediately has faith in the resplendent Indra (as being highly powerful)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 358 (begins)**
+- **it** — "A particle with the sense of the word *eva*."
+- **yudhmaḥ** — "The warrior; one who fights."
+- **samithāni** — "*Saṃyanti saṃgacchante 'smin vīrā iti samithāni saṃgrāmāḥ*": battles in which heroes gather together."
+- **majmanā** — "From the root *ṭumasjo śuddhau*: this word means 'purifying everything'." *(Remaining Special Topics and grammar of Rik 5 are on p. 359.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 (contents table: 55 at p. 341, 56 ≈371, 57 ≈392, 58 ≈411). Sūkta 55 (*divaś cid asya*, 8 Riks) in progress: Riks 55.1–55.4 complete; Rik 55.5 written through its first Special Topics (printed p. 358, PDF 374). The remaining Special Topics and Vyākaraṇa notes of Rik 5 (p. 359, PDF 375) and Riks 55.6–55.8 NOT yet written.**
+
+**Next task:** continue at printed p. 359 (PDF 375) with "**Rik 55.5, continued**", then Riks 6–8 and the close of Sūkta 55; then Sūktas 56 and 57 (confirm start pages from the print); stop after Sūkta 57; then update CLAUDE.md. Page images exist for PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* reading [?] and the Kannada argument on *vīrya* accent summarized; Rik 4 grammar tail summarized; Uṇādi/Pāṇini numerals [?].
