@@ -6921,8 +6921,149 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 56.4, continued** *(pp. 384–385, PDF 400–401)*
+
+**English Translation (the source's own, p. 384)** — "Divine strength waits, like the sun, upon the dawn, upon that Indra, who is made more powerful for protection by you, (his worshipper), who with resolute vigour resists the gloom, and inflicts severe castigation upon his enemies, making them cry aloud (with pain)."
+
+**Special Topics (p. 384)**
+- **tvāvṛdhā** — "*Tvayā vardhate iti tvāvṛt*: this word is explained as 'one who is increased by you the praiser'."
+- **siṣakti** — "*Samavaiti* — *sevate iti yāskaḥ* (Ni. 3-21 as read [?]): though the root *saca samavāye* would give 'joins', the Nirukta gives 'serves'; explaining the Ṛgveda passage '*saneḥ siṣakti yas turaḥ*' (Ṛ. Saṃ. 10-… as read [?]), *siṣaktīti sacate*, the Nirukta says 'of one who serves'."
+- **arhariṣvaṇiḥ** — "*Gacchanto haranti iti arharayaḥ śatravaḥ*: the enemies who go and plunder everything on the highway; Indra, who punishes such hostile ones so that they cry out in pain, is *arhariṣvaṇi*."
+- **reṇum** — "*Reṣaṇaṃ hiṃsanam*: it means that Indra gives great harm to his enemies."
+
+**Vyākaraṇa-prakriyā** *(pp. 384–385 — grammar pages, noted briefly)*
+- **tvāvṛdhā**: "*tvayā vardhate iti tvāvṛt*"; *vṛdhu vṛddhau*, *kvip ca*; *pratyayottarapadayoś ca*: *tva* for *yuṣmad*; *śeṣe lopaḥ*; in the Veda *ā* for *t*… *tvāvṛdhā*: *supāṃ suluk*: *ā* for the instrumental/dual.
+- **siṣakti**: *saca samavāye*; *laṭ*; *śap* → *ślu* (*bahulaṃ chandasi*); reduplication; *i* for the reduplicative; *co kuḥ*: *ka* for *c*; *yadi* before: *niṣātasya*… no *nighāta* (*nipātair yadyadihanta…*); *anudātte ca*: initial-acute.
+- **bādhate**: *bādhṛ loḍane*; *laṭ*; *yaḥ* before, so no *nighāta*; the root's accent: initial-acute.
+- **iyarti**: *ṛ gatau*, *juhotyādi*; *ṇic*-sense included; *ślu*; reduplication; *ur at*; *artipiparty…*: *i*; *abhyāsasyāsavarṇe*: *iy*; *guṇa*: *iyarti*; *anudātte ca*: reduplicative initial-acute; the preceding word is of another sentence, so no *nighāta*.
+- **reṇum**: *rī gatireṣaṇayoḥ*; Uṇādi *nu*; *guṇa*; *ṇatva*; end-acute.
+- **arhariṣvaṇiḥ**: *ṛ gatau*; *anyebhyo 'pi dṛśyante*: *viṭ*; *guṇa*: *ar*; *arharayaḥ* = *arayaḥ*, 'going and carrying off': *ariḥ gacchantaś ca ime haraya ca iti arharayaḥ*; *svan* (*svana dhvana śabde*, *hetumati ca*: *ṇic*; *inan* after *ṇic*; *ṇeraniṭi*: loss of *ṇic*; *ghaṭādi* so *mit*: *mitāṃ hrasvaḥ*): *svani*; *arhari*, a *kāraka*-first word, so *gatikārakopapadāt kṛt*: the accent of the *kṛdanta*. **|| 4 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–55 COMPLETE (printed pp. 1–371). User instruction (2026-10-05): next three sūktas = 55 (done), 56, 57. Sūkta 56 (*eṣa pra pūrvīḥ*, 6 Riks) in progress: Riks 56.1–56.3 complete; Rik 56.4 written through the Bhāvārtha (printed p. 383, PDF 399). Its English translation, Special Topics and Vyākaraṇa (p. 384–385, PDF 400–401) and Riks 56.5–56.6 NOT yet written. Sūkta 57 (*pra maṃhiṣṭhāya*) begins ≈ p. 392 per the table (confirm).**
+### Rik 56.5 (pp. 386–388, PDF 402–404)
 
-**Next task:** continue at printed p. 384 (PDF 400) with "**Rik 56.4, continued**" (English, Special Topics, Vyākaraṇa), then Riks 5–6, close of Sūkta 56, and Sūkta 57; stop after Sūkta 57; update CLAUDE.md. Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56: Nirukta numerals [?]; 56.3 the quoted "śatavarṇir mahāṃ areṇu" and Ṛ. Saṃ. numeral [?]; 56.4 bhāṣya "tvayegā stotrā vardhiśaṃ" crowded [?].
+**Saṃhitā-pāṭha** *(p. 386)*
+
+> **वि यत्तिरो धरुणमच्युतं रजोऽतिष्ठिपो दिव आतासु बर्हणा ।**
+> **स्वर्मीळ्हे यन्मद इन्द्र हर्ष्याहन् वृत्रं निरपामौब्जोऽर्णवम् ॥ ५ ॥**
+
+*vi yat tiro dharuṇam acyutaṃ rajo 'tiṣṭhipo diva ātāsu barhaṇā |*
+*svarmīḷhe yan mada indra harṣyāhan vṛtraṃ nir apām aubjo 'rṇavam || 5 ||*
+
+**Pada-pāṭha** *(p. 386)*
+
+> वि । यत् । तिरः । धरुणम् । अच्युतम् । रजः । अतिष्ठिपः । दिवः । आऽतासु । बर्हणा ।
+> स्वःऽमीळ्हे । यत् । मदे । इन्द्र । हर्ष्या । अहन् । वृत्रम् । निः । अपाम् । औब्जः । अर्णवम् ॥ ५ ॥
+
+*vi | yat | tiraḥ | dharuṇam | acyutam | rajaḥ | atiṣṭhipaḥ | divaḥ | ā-tāsu | barhaṇā |*
+*svaḥ-mīḷhe | yat | made | indra | harṣyā | ahan | vṛtram | niḥ | apām | aubjaḥ | arṇavam || 5 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 386–387)*
+
+> **यद्यदा तिरो वृत्रेण तिरोहितं धरुणं सर्वस्य प्राणिजातस्य धारकमच्युतं विनाशरहितं रज उदकं दिवो द्युलोकादातासु । आता इति दिङ्नाम । आशासु विस्तृतासु दिक्षु हे इन्द्र बर्हणा हन्ता त्वं व्यतिष्ठिपो विविधं स्थापयाम् चकृषे । तथा यद्यदा स्वर्मीळ्हे । मीळ्हमिति धननाम । स्वः सुष्ठु गन्तव्यं मीळ्हं धनं यस्मिन् तस्मिन्संग्रामे मदे तव सोमपानेन हर्षे सति हर्ष्या हृष्टया शक्त्या वृत्रमावरकमसुरमहन् त्वमवधीः । तदानीमपां पूर्णमर्णवं मेघं निरौब्जः । वर्षणाभिमुखमधोमुखमकार्षीः । वृष्टेरावरकं वृत्रं हत्वा वृष्टिजलेन भूमिं न्यसैञ्चेरिति तात्पर्यार्थः ॥**
+
+*yad yadā tiro vṛtreṇa tirohitaṃ dharuṇaṃ sarvasya prāṇijātasya dhārakam acyutaṃ vināśarahitaṃ raja udakaṃ divo dyulokād ātāsu | ātā iti diṅnāma | āśāsu vistṛtāsu dikṣu he indra barhaṇā hantā tvaṃ vyatiṣṭhipo vividhaṃ sthāpayām cakṛṣe | tathā yad yadā svarmīḷhe | mīḷham iti dhananāma | svaḥ suṣṭhu gantavyaṃ mīḷhaṃ dhanaṃ yasmin tasmin saṃgrāme made tava somapānena harṣe sati harṣyā hṛṣṭayā śaktyā vṛtram āvarakam asuram ahan tvam avadhīḥ | tadānīm apāṃ pūrṇam arṇavaṃ megham niraubjaḥ | varṣaṇābhimukham adhomukham akārṣīḥ | vṛṣṭer āvarakaṃ vṛtraṃ hatvā vṛṣṭijalena bhūmiṃ nyasaiñceriti tātparyārthaḥ ||*
+
+*(Reading note: the last clause "*vṛṣṭijalena bhūmiṃ nyasaiñceḥ*" is printed "*nyasyairiti*", crowded, [?]. The grammatical tail is characterized: on* atiṣṭhipaḥ *(*ṣṭhā*, *ṇic* with *arti-hrī…*: *puk*; *luṅ*, *ciṇ*; *ṇeraniṭi*; *ṣṭhā* reduplicated *tiṣṭhip*; the loss of *s*),* barhaṇā *(*supāṃ suluk*),* svarmīḷhe *(*mih secane*, *kta*; *hoḍhaḥ*, *jhaṣastathoḥ*; bahuvrīhi),* ahan *(*han*, *laṅ*, *sip*),* aubjaḥ *(*ubja ārjave*, *laṅ*, *śap*, *vṛddhi*)).)*
+
+**Translation of the bhāṣya:** "When, O Indra, *tiraḥ*, concealed by Vṛtra, *dharuṇam*, the sustainer of all living beings, *acyutam*, undecaying, *rajaḥ*, the water, *divaḥ ātāsu*, from the sky, in the wide quarters (*ātā* is a name for quarter) — you, the slayer, *vi atiṣṭhipaḥ*, distributed in many ways; and when, *svarmīḷhe*, in the battle in which a good prize is to be won (*mīḷha* is a name for wealth), *made*, delighted by drinking soma, *harṣyā*, with gladdened power, you *ahan*, slew Vṛtra the coverer, then you *nir aubjaḥ*, turned down towards the earth the cloud, *arṇavam*, full of waters, for rain: by killing the obstructer of rain you drenched the earth with rain-water — such is the sense."
+
+**Pratipadārtha** *(p. 387)* — "**barhaṇā** — the destroyer of enemies; **indra** — O Indra; **yat** — when; **tiraḥ** — concealed by Vṛtra; **dharuṇam** — the life-sustaining; **acyutam** — undecaying; **rajaḥ** — water; **divaḥ** — from heaven; **ātāsu** — in the broad quarters; **vi atiṣṭhipaḥ** — you spread; **yat** — when; **svarmīḷhe** — in the battle for excess of wealth; **made** — when you are delighted (by soma); **harṣyā** — with your gladdened strength; **vṛtram** — Vṛtra, who covered all; **ahan** — you killed; (then) **apām** — with water; **arṇavam** — the ocean-like cloud; **niḥ aubjaḥ** — you sent down (rain)."
+
+**Bhāvārtha** *(p. 387)* — "O Indra, destroyer of enemies: when you freed the water that Vṛtra had hidden — life-sustaining, undecaying — and spread it in the wide quarters of heaven; and when, in battle for wealth, delighted with soma, you killed Vṛtra with your gladdened strength, then you made the water-filled cloud pour down, and made an ocean of rain."
+
+**English Translation (the source's own, p. 387)** — "When you, destroying Vritra, distributed the hidden, life-sustaining, undecaying waters through the different quarters of the heaven, then, animated (by the Soma-juice) you engaged in battle, and with exulting (prowess) slew Vritra and sent down an ocean of waters." *(The printed "destroying India" is for "destroying Indra"/"Vritra"; I reproduce it as printed, [sic].)*
+
+**Special Topics (pp. 387–388)** — **tiraḥ** "an epithet of *rajas* (water): concealed by Vṛtra." **ātāsu** "in the Nirukta eight words such as *ātāḥ*, *āśāḥ* are read as names of the quarters: in the wide quarters." **svarmīḷhe** "*mīḷham* is a name of wealth in the Nirukta; a battle in which one gains wealth." **aubjaḥ** "*varṣaṇābhimukham adhomukham akārṣīḥ*: having killed Vṛtra who hindered the rain, you made the rain fall on the earth, and preserved the earth-world."
+
+**Vyākaraṇa-prakriyā** *(pp. 388–389 — grammar pages, noted briefly)*
+- **atiṣṭhipaḥ**: *ṣṭhā gatinivṛttau*; *hetumati ca*: *ṇic*; *s* for *ṣ* at the beginning; *arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puṅ ṇau* (Pā. 7-3-36): *puk*; *luṅ* second singular *sip*; *itaś ca*; *ṇiśridrusrubhyaḥ*: *caṅ*; *ṇeraniṭi*: *ṇic* dropped; *caṅi*: reduplication; *hrasvaḥ*; *śarpūrvāḥ khayaḥ*: *th* remains; *tiṣṭhater it*: *i*; *abhyāse carca*: *t*; *ṣatva*; *ru*, *visarga*; *aṭ*; *yat* before: no *nighāta*; initial-acute by *aṭ*.
+- **barhaṇā**: *supāṃ suluk…*: *ā* for the case ending.
+- **svarmīḷhe**: *mih secane*; *kta*; *hoḍhaḥ*: *ḍh*; *jhaṣastathor dho 'dhaḥ*: *dh*; *ṣṭunā ṣṭuḥ*; *ḍhoḍhe lopaḥ*; *ḍhralope pūrvasya dīrgho 'ṇaḥ*: lengthening: *mīḷha*; *svar* + *mīḷha*: *svar* is *svarita* (*nyaṅ svarau svaritau*); bahuvrīhi, so the first member's accent; locative.
+- **ahan**: *han*; *laṅ* second singular *sip*; *itaś ca*: loss; *hal-ṅyābbhyaḥ*: loss of *s*; *saṃyogāntalopa*; *aṭ*; *yat* before: no *nighāta*.
+- **aubjaḥ**: *ubja ārjave*, *tudādi*; *laṅ* second singular; *śa*; *āḍ ajādīnām*, *āṭaś ca*: *vṛddhi*; *ru*, *visarga*; *nighāta*. **|| 5 ||**
+
+---
+
+### Rik 56.6 (pp. 389–392, PDF 405–408)
+
+**Saṃhitā-pāṭha** *(p. 389)*
+
+> **त्वं दिवो धरुणं धिष ओजसा पृथिव्या इन्द्र सदनेषु माहिनः ।**
+> **त्वं सुतस्य मदे अरिणा अपो वि वृत्रस्य समया पाष्यारुजः ॥ ६ ॥**
+
+*tvaṃ divo dharuṇaṃ dhiṣa ojasā pṛthivyā indra sadaneṣu māhinaḥ |*
+*tvaṃ sutasya made ariṇā apo vi vṛtrasya samayā pāṣyārujaḥ || 6 ||*
+
+*(On p. 389 the print has labelled the Pada block with the heading "Bhāvārtha" by mistake; it is in fact the Pada-pāṭha. [sic])*
+
+**Pada-pāṭha** *(p. 389)*
+
+> त्वम् । दिवः । धरुणम् । धिषे । ओजसा । पृथिव्याः । इन्द्र । सदनेषु । माहिनः ।
+> त्वम् । सुतस्य । मदे । अरिणाः । अपः । वि । वृत्रस्य । समया । पाष्या । अरुजः ॥ ६ ॥
+
+*tvam | divaḥ | dharuṇam | dhiṣe | ojasā | pṛthivyāḥ | indra | sadaneṣu | māhinaḥ |*
+*tvam | sutasya | made | ariṇāḥ | apaḥ | vi | vṛtrasya | samayā | pāṣyā | arujaḥ || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 390)*
+
+> **हे इन्द्र माहिनः प्रवृद्धस्त्वं दिवो द्युलोकात्पृथिव्याः सदनेषु प्रदेशेष्वोजसा बलेन धरुणं सर्वस्य जगतो धारकं वृष्टिजलं धिषे । दधिषे । स्थापयसि । यस्मात्त्वं सुतस्य सोमस्य पानेन मदे हर्षे सत्यपो जलान्यरिणा मेघान्निरगमयः । वृत्रस्यावरकं वृत्रं च समया घनया पाष्या शिलया यद्वा शक्त्या व्यरुजो विशेषेणाभांक्षीः ॥**
+
+*he indra māhinaḥ pravṛddhas tvaṃ divo dyulokāt pṛthivyāḥ sadaneṣu pradeśeṣv ojasā balena dharuṇaṃ sarvasya jagato dhārakaṃ vṛṣṭijalaṃ dhiṣe | dadhiṣe | sthāpayasi | yasmāt tvaṃ sutasya somasya pānena made harṣe saty apo jalāni ariṇā meghān niragamayaḥ | vṛtrasyāvarakaṃ vṛtraṃ ca samayā ghanayā pāṣyā śilayā yadvā śaktyā vyarujo viśeṣeṇābhāṅkṣīḥ ||*
+
+**Translation of the bhāṣya:** "O Indra, great one, you, from heaven, in the regions of the earth, *ojasā*, with strength, *dhiṣe*, establish *dharuṇam*, the life-sustaining rain-water. For you, when delighted by drinking the pressed soma, *ariṇāḥ*, let out the waters from the clouds; and Vṛtra the coverer you *vi arujaḥ*, broke thoroughly, *samayā pāṣyā*, with the solid stone, or with power."
+
+**Pratipadārtha** *(p. 390)* — "**indra** — O Indra; **māhinaḥ** — the marvellous (honoured); **tvam** — you; **divaḥ** — from heaven; **pṛthivyāḥ** — of the earth; **sadaneṣu** — in the various regions; **ojasā** — by your strength; **dharuṇam** — the water that sustains the whole world; **dhiṣe** — you establish; **tvam** — you; **sutasya** — of the soma juice (by drinking it); **made** — when delighted; **apaḥ** — the waters; **ariṇāḥ** — you sent out from the clouds; **vṛtrasya** — Vṛtra; **samayā** — with the hard; **pāṣyā** — with a rock, or power; **vi arujaḥ** — you destroyed well."
+
+**Bhāvārtha** *(p. 390)* — "O Indra, by your wonderful power you pour down, from heaven into the many regions of the earth, the water of rain that sustains the whole world. When you were delighted by drinking the soma, you sent the waters out of the clouds; and you destroyed Vṛtra with a hard rock."
+
+**English Translation (the source's own, p. 390)** — "O mighty Indra, you sent down from heaven, by your power, upon the realms of earth, the world-sustaining rain; exhilarated by the (soma-juice) you have expelled the waters (from the clouds) and have crushed Vritra by a solid rock."
+
+**Special Topics (p. 391)** — **māhinaḥ** "from the root *maha pūjāyām*: one who grows, or one worthy of worship: an epithet of Indra." **dharuṇam** "*sarvasya jagato dhārakaṃ vṛṣṭijalam*: the water of rain, support of the whole world." **samayā** "from the root *śamu śramu avaikalye*: firm, or strong." **pāṣyā** "this word has the two meanings, stone or power." **vi arujaḥ** "you destroyed in a special way: from the root *ruja bhaṅge*."
+
+**Vyākaraṇa-prakriyā** *(pp. 391–392 — grammar pages, noted briefly)*
+- **dhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*; *dvirvacane…*: no doubling; the *iṭ* of *liṭ* is allowed (*kṛsṛbhṛvṛstudrusrusruvo liṭi*, restricted); *ādeśapratyayayoḥ*: *ṣatva*; *ātolopa iṭi ca*; *nighāta*.
+- **māhinaḥ**: *maha pūjāyām*; *maher iṇañ ca* (Uṇ. 2-… as read [?]): *inan*; *ata upadhāyāḥ*: *vṛddhi*; *māhin*; *nit*: initial-acute.
+- **ariṇāḥ**: *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ* second singular; *sip*; loss of *i*; *prādīnāṃ hrasvaḥ*; *śnā*; *ṇatva*; *ru*, *visarga*; *aṭ*; *tiṅ atiṅaḥ*: *nighāta*; accent from *śnā*.
+- **samayā**: *śam* / *śamu śramu avaikalye*; *nandigrahipacādibhyaḥ*: *ac*; *sa* for *śa*; *citaḥ*: end-acute; instrumental.
+- **pāṣyā**: *piṣḷ saṃcūrṇane*; *sarvadhātubhya in* (Uṇ. 4-… as read [?]): *in*; the *i* of the root's penultimate becomes *a* in the Uṇādi (bahulam): *pāṣi*; in the feminine, *kṛdikārād aktinaḥ* (gaṇa) gives *ṅīṣ*; *yaṇ*; *udāttasvaritayor yaṇaḥ*: *svarita*.
+- **arujaḥ**: *ruja bhaṅge*, *tudādi*; *laṅ* second singular; *itaś ca*; *tudādibhyaḥ śaḥ*; *pugantalaghūpadhasya* barred (*sārvadhātukam apit*); *aṭ*; *ru*, *visarga*; *nighāta*. **|| 6 ||**
+
+**Closing note** *(p. 392)* — "**ಐವತ್ತಾರನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-sixth sūkta is ended."
+
+---
+
+### Close of Sūkta 56
+
+**Sūkta 56 (Maṇḍala 1, Tenth Anuvāka, 6 Riks; ṛṣi Savya Āṅgirasa; deity Indra; Jagatī) — printed pp. 371–392, PDF 387–408.** Indra, like a stallion going to a mare, eagerly takes the soma of the sacrificer and mounts his golden chariot (1); the praisers throng to him as merchants to the ocean (2); his strength shines like a mountain peak; he bound Śuṣṇa in prison (3); the divine power attends him as the sun attends the dawn (4); he released and spread the hidden waters and slew Vṛtra, sending down an ocean of rain (5); and he sends rain from heaven to the earth and crushes Vṛtra with a rock (6).
+
+---
+
+## SŪKTA 57 (printed p. 392 –, PDF 408 –)
+
+**ಐವತ್ತೇಳನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-seventh sūkta")*
+
+### Sāyaṇa's introduction *(p. 392)*
+
+> **प्र मंहिष्ठायेति षडृचं सप्तमं सूक्तं सव्यस्यार्षमैन्द्रं जागतं । तथा चानुक्रान्तं । प्र मंहिष्ठायेति । विषुवति निष्केवल्य इदं सूक्तं शंसनीयं । सूत्रितं च । प्र मंहिष्ठाय त्यमू षु इतीह शाकूर्यमन्ततः ॥ आ. ८-६ इति ॥ उक्थ्यसंस्थे क्रतौ तृतीयसवने ब्राह्मणाच्छंसिनः शस्त्रेऽप्येतत्सूक्तं । सूत्रितं च । सर्वाः ककुभः प्र मंहिष्ठायोदपुतेः । आ. ६-१ । इति ॥**
+
+*pra maṃhiṣṭhāyeti ṣaḍṛcaṃ saptamaṃ sūktaṃ savyasyārṣam aindraṃ jāgataṃ | tathā cānukrāntaṃ | pra maṃhiṣṭhāyeti | viṣuvati niṣkevalya idaṃ sūktaṃ śaṃsanīyaṃ | sūtritaṃ ca | pra maṃhiṣṭhāya tyam ū ṣu itīha śākūryam antataḥ || ā. 8-6 iti || ukthyasaṃsthe kratau tṛtīyasavane brāhmaṇācchaṃsinaḥ śastre 'py etat sūktaṃ | sūtritaṃ ca | sarvāḥ kakubhaḥ pra maṃhiṣṭhāyodaputeḥ | ā. 6-1 | iti ||*
+
+*(Reading note: "*udaputeḥ*" is as printed, probably a crowded form, [?]; the numerals are as read, [?].)*
+
+**Translation:** "'*Pra maṃhiṣṭhāya*': a sūkta of six Riks, the seventh [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī; so the Anukramaṇī: '*pra maṃhiṣṭhāya*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; so it is aphorized: '*pra maṃhiṣṭhāya*', '*tyam ū ṣu*' here, and the Śākūrya at the end (Āśv. 8-6 [?]). In the Ukthya-saṃsthā rite, in the third *savana*, it is also in the śastra of the Brāhmaṇācchaṃsin: 'all the *kakubh* [Riks], *pra maṃhiṣṭhāya*…' (Āśv. 6-1 [?])."
+
+**Anuvāda (Kannada, p. 392)** — "'*Pra maṃhiṣṭhāya*' is the seventh sūkta in the tenth anuvāka. It has six Riks. The seer is Savya, the deity Indra, the metre Jagatī. In the Anukramaṇikā: '*pra maṃhiṣṭhāya*'. In the Viṣuvat sacrifice it is used for the niṣkevalya śastra mantras (Āśv. 8-6); in the Ukthya-saṃsthā rite, in the third savana, the Brāhmaṇācchaṃsin is to recite this sūkta (Āśv. 6-1)."
+
+*(The heading block and Rik 57.1 are on p. 393 (PDF 409).)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392; Sūkta 56 ends p. 392 with its closing line). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks, ṛṣi Savya Āṅgirasa, Indra, Jagatī; last of the Tenth Anuvāka's sūktas 51–57) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 392, PDF 408). Heading block and Rik 57.1 begin on p. 393 (PDF 409) — NOT yet written; contents table puts Sūkta 58 at ≈ p. 411.**
+
+**Next task:** continue at printed p. 393 (PDF 409) with the heading block and Rik 57.1; Riks 2–6; close of Sūkta 57. Then STOP (user's "next 3 sūktas" = 55, 56, 57) and update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; the Tenth Anuvāka ends with Sūkta 57 — check for a closing/colophon for the anuvāka and adhyāya sections). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56: Nirukta numerals [?]; 56.3 quoted "śatavarṇir mahāṃ areṇu" [?]; 56.4 bhāṣya "tvayegā stotrā vardhiśaṃ" crowded [?]; 56.5 final clause of bhāṣya and the printed "destroying India" [sic]; 56.6 Pada block mislabelled "Bhāvārtha" in the print; Sūkta 57 intro "udaputeḥ" and numerals [?].
