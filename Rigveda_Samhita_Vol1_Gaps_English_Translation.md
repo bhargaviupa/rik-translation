@@ -4014,6 +4014,218 @@ In describing the history of the commentators on the Ṛgveda, the time of Rāva
 
 He was a resident of Kāśī. He wrote a Tantra work called *Mantra-mahodadhi*, and a commentary on it too. But in these no capacity of his own is seen. His is like a shadow of Uvaṭa's commentary. There is only this much difference between the two. In Uvaṭa's commentary (the sentence continues on the next page).
 
+### Page 265
+
+...there is no sign that he has quoted sentences of the Kātyāyana Śrauta-sūtra. But Mahīdhara has put everything into his commentary on the basis of Sāyaṇa's commentary on the Kāṇva-saṃhitā. Mahīdhara's commentary has no great excellence.
+
+A little discussion has been made about the time of this man. According to the view of some he was of the 12th century C.E. On this basis they quote the auspicious verse of the commentary:
+
+> प्रणम्य लक्ष्मीं नृहरिं गणेशं भाष्यं विलोक्योवटमाधवीयम् ।
+> यजुर्मनूनां विलिखामि चार्थं परोपकाराय निजेक्षणाय ॥ १ ॥
+>
+> *praṇamya lakṣmīṃ nṛhariṃ gaṇeśaṃ bhāṣyaṃ vilokyovaṭamādhavīyam |*
+> *yajurmanūnāṃ vilikhāmi cārthaṃ paropakārāya nijekṣaṇāya || 1 ||*
+>
+> "Having bowed to Lakṣmī, Nṛhari and Gaṇeśa, and having looked at the commentaries of Uvaṭa and of Mādhava, I write the meaning of the Yajus mantras, for the benefit of others and for my own seeing." (As printed; *manūnām* is read as in the print; translation mine and tentative.)
+
+Here it is said that, relying on the commentaries of Uvaṭa and of Mādhava, he has written the commentary. These people say that this Mādhava was Veṅkaṭamādhava, and that Mahīdhara was in the 12th century. The source quotes in English:
+
+"This view is further confirmed as Mahidhara, the commentator of the Sukla Yajurveda, who belonged to 1100. A.D. mentions a predecessor Madhava by name. This predecessor is probably to be identified with Madhava, son of Venkata." [sic: "Mahidhara", "Sukla", "1100. A.D.", as printed.]
+
+But that this Mādhava is Sāyaṇa-Mādhava is clear from sentences quoted in other places in the commentary.
+
+In the *Mantra-mahodadhi* Mahīdhara has himself written his own time:
+
+> अब्दे विक्रामतो [sic] जाते बाणवेदनृपैर्मिते ।
+> ज्येष्ठाष्टम्यां शिवस्याग्रे पूर्णो मन्त्रमहोदधिः ॥
+>
+> *abde vikrāmato [sic] jāte bāṇavedanṛpair mite |*
+> *jyeṣṭhāṣṭamyāṃ śivasyāgre pūrṇo mantramahodadhiḥ ||*
+>
+> "In the year born of Vikrama, measured by *bāṇa, veda, nṛpa* [5, 4, 16], on the eighth of Jyeṣṭha, before Śiva, the Mantra-mahodadhi was completed."
+
+In the commentary on this verse he has made the meaning clear as "*pañcacatvāriṃśaduttaraṣoḍaśaśatatame vikramasyāpāgte sati*" [as printed]; that is, he has written that the *Mantra-mahodadhi* was finished on the day of Jyeṣṭha aṣṭamī of the year 1645 of the Vikrama era. Therefore, if it is supposed that the commentary was finished some years before this or after it, it can be said that the commentary was composed about 1587 C.E.
+
 ---
 
-**Progress note (Gap C):** Translated printed pp. 261–264 (PDF 287–290). Next: p. 265 (PDF 291). Open flags: verse numbers and some words in the Skandasvāmin/Hariswāmī verses [?].
+## Commentators on the Kāṇva Saṃhitā of the Śukla Yajurveda
+
+### 1. Sāyaṇācārya
+
+(about 1315–1387 C.E. [?])
+
+Sāyaṇācārya composed a commentary on the Kāṇva branch. In this the commentary on 20 adhyāyas has been found. The commentary on the remaining 20 adhyāyas has not been found. The commentary on the twentieth adhyāya... [sic: the source reads "of the second twenty"] must have been lost, or else the first twenty adhyāyas are those which Sāyaṇācārya wrote.
+
+### Page 266
+
+According to the opinion of Ananta, a commentator of this same branch, Sāyaṇācārya did not write a commentary on the last twenty adhyāyas.
+
+> व्याख्याता कण्वशाखीयसंहिता पूर्वविंशतिः ।
+> माधवाचार्यवर्येण स्पष्टीकृत्य न चोत्तरा ॥
+>
+> *vyākhyātā kaṇvaśākhīyasaṃhitā pūrvaviṃśatiḥ |*
+> *mādhavācāryavaryeṇa spaṣṭīkṛtya na cottarā ||*
+>
+> "Of the Saṃhitā of the Kaṇva branch the first twenty [adhyāyas] were explained by the excellent Mādhavācārya, made clear; not the later [ones]."
+>
+> (From the Kāṇva-śākhā Yajurveda commentary that follows.)
+
+It is not so easy to believe this view. This portion may also have been lost, like the last portion of the first kāṇḍa of the commentary on the Śatapatha-brāhmaṇa.
+
+In this commentary Sāyaṇācārya has quoted from works such as Manu, Prakāśātmācārya and his work of exposition (*Vivaraṇa*), the Vedānta-darśana, Jaimini, Kumārilabhaṭṭa, Bhāskarācārya, the Kātyāyana Sarvānukramaṇī, the Kātyāyana Śrauta, the Kāṇva Śatapatha-brāhmaṇa, Āpastamba, the Taittirīya, the Vāsiṣṭha-rāmāyaṇa and others.
+
+In the Yajurveda, the divisions such as *khaṇḍa* are for the convenience of those who study the Veda; as Veṅkaṭamādhava and Ānandatīrtha said of the *vargas* and the other divisions of the Ṛgveda, Sāyaṇācārya too has accepted [this]. In the first adhyāya of the commentary these sentences are:
+
+> माणवकानामावर्तनसौकर्याय खण्डिकाविच्छेदस्य बुद्धिमद्भि-
+> रथ्यासक्तैः [?] कल्पितत्वात् । यथा बह्वृचानां तत्र तत्र सूक्त-
+> मध्येऽपि वर्गविच्छेदः कल्पितः । यथा वा तैत्तिरीयकाणां
+> वाक्यमध्येऽपि पंचाशच्छब्दसंख्यया विच्छेदः आवृत्ति-
+> सौकर्याय कल्प्यते । तद्वदत्राप्यनुगंतव्यम् ।
+>
+> *māṇavakānām āvartanasaukaryāya khaṇḍikāvicchedasya buddhimadbhir athyāsaktaiḥ [?] kalpitatvāt | yathā bahvṛcānāṃ tatra tatra sūktamadhye 'pi vargavicchedaḥ kalpitaḥ | yathā vā taittirīyakāṇāṃ vākyamadhye 'pi paṃcāśacchabdasaṃkhyayā vicchedaḥ āvṛttisaukaryāya kalpyate | tadvad atrāpy anugantavyam |*
+>
+> "For the facility of repetition by students, the division into *khaṇḍikā* has been devised by the wise …; just as for the Bahvṛcas the division into *vargas* is devised here and there even in the middle of a hymn; or as for the Taittirīyakas a division by a count of fifty words is devised, even in the middle of a sentence, for ease of repetition; so should it be followed here too." (Translation mine and tentative; one word in the first line is doubtful.)
+
+By this [account], the Brāhmaṇas are expositions of the mantras. In the *upodghāta* he has said:
+
+> "शतपथब्राह्मणस्य मन्त्रव्याख्यानरूपत्वात्"
+>
+> *"śatapathabrāhmaṇasya mantravyākhyānarūpatvāt"*
+>
+> "Because the Śatapatha-brāhmaṇa is in the form of an exposition of the mantras."
+
+With this same intention, in the commentary he quotes sentences of the Brāhmaṇa here and there.
+
+### 2. Ānandabodha
+
+(1442–1542 C.E.)
+
+He composed a commentary for the entire Kāṇva branch. At Pune there is a commentary on the first 20 adhyāyas. In the library of the Panjab University at Lahore it is from the 19th to the 38th adhyāya. Bhagavaddatta, who wrote the "History of Vedic Literature", has in his own library two parts. In one is the commentary on the 20th to the 39th adhyāyas, and in the second part is the commentary on the Īśāvāsya Upaniṣad, the 40th adhyāya. Taken all together this makes one complete commentary.
+
+At the end of every adhyāya the name "*Kāṇva-veda-mantra-bhāṣya-saṃgraha*" has been used for the work. At the end of the commentary on the Īśāvāsya Upaniṣad, published by Ānandāśrama,
+
+### Page 267
+
+> इति श्रीमत्परमहंसपरिव्राजकाचार्यवर्यश्रीवासुदेव-
+> पुरीपूज्यपादपरमकारुण्यासादितश्रीकृष्णभक्तिसाम्राज्यस्य
+> श्रीमज्ज्ञातवेदभट्टोपाध्यायस्य सूनुना श्रीमदानन्द-
+> भट्टोपाध्यायेन विरचिते काण्ववेदमन्त्रभाष्यसंग्रहे
+> चत्वारिंशोऽध्यायः ।
+>
+> *iti śrīmatparamahaṃsaparivrājakācāryavaryaśrīvāsudeva-purīpūjyapādaparamakāruṇyāsāditaśrīkṛṣṇabhaktisāmrājyasya śrīmajjñātavedabhaṭṭopādhyāyasya sūnunā śrīmadānanda-bhaṭṭopādhyāyena viracite kāṇvavedamantrabhāṣyasaṃgrahe catvāriṃśo 'dhyāyaḥ |*
+>
+> "Thus, in the *Kāṇva-veda-mantra-bhāṣya-saṃgraha* composed by the venerable Ānanda Bhaṭṭopādhyāya, son of the venerable Jñātaveda [as printed] Bhaṭṭopādhyāya, who obtained the empire of devotion to Kṛṣṇa through the supreme compassion of the revered feet of the venerable Vāsudeva-purī, teacher-supreme, the *paramahaṃsa* wanderer — the fortieth chapter."
+
+From this it is learnt that the name of this work is *Kāṇvaveda-mantra-bhāṣya-saṃgraha*, and that his father was Bhaṭṭopādhyāya.
+
+There are not sufficient grounds to state his time with certainty. From the Pune manuscript it can only be guessed that he was earlier than 300 years ago.
+
+One Devayājñika wrote, about 15?? [?] C.E., a work called *Iṣṭakāpūrṇa-bhāṣya*. In his commentary on the Yājuṣa-sarvānukramaṇī he has quoted something from a commentary on the Kāṇva-saṃhitā.
+
+> उर्वन्तरिक्षमित्यस्य रक्षोघ्नं ब्रह्मदेवतेति एवं कण्वसंहिता-
+> भाष्ये व्याख्यातमस्ति ।
+>
+> *urv antarikṣam ity asya rakṣoghnaṃ brahmadevateti evaṃ kaṇvasaṃhitā-bhāṣye vyākhyātam asti |*
+>
+> "Of [the mantra] 'urv antarikṣam', the demon-slaying one, the deity is Brahman — thus it is explained in the commentary on the Kaṇva-saṃhitā."
+
+And —
+
+> अग्निर्देवतेति माधवाचार्याः ।
+>
+> *agnir devateti mādhavācāryāḥ |*
+>
+> "'The deity is Agni' — so say the Mādhavācāryas."
+
+These sentences are not in Sāyaṇācārya's commentary. Moreover, he does not indicate the deities in this manner. Therefore, if these sentences happen to be found in Ānandabodha's commentary, then his time can be stated with certainty.
+
+### 3. Anantācārya
+
+(time: the first half of the 1?th [?] century C.E.)
+
+Parts of his commentary are here and there. In the library of the Alwar State it is from the 3?th [?] to the 40th adhyāya; at Pune, from the 3?th to the 40th (a copy of C.E. 17?? [?]); and at Madras from the 3rd [?] to the 1?th [?]... The commentary on the Īśāvāsya Upaniṣad, the 40th adhyāya, was printed by the Ānandāśrama publishers.
+
+A manuscript of his commentary on the Prātiśākhya, written at the end of the 17th [?] century C.E., is at Calcutta. In his work called *Kaṇva-kaṇṭhābharaṇa* he has quoted a commentary on the Yājuṣa-sarvānukramaṇī. This too is a work written in the early part of the 17th [?] century C.E. And he has taken sentences from Sāyaṇācārya's work also. For these reasons it can be said that he composed his commentary in the first half of the 17th [?] century C.E.
+
+At the beginning of the Madras copy he has bowed to his father and mother, telling their names.
+
+### Page 268
+
+> वन्दे श्रीपितृचरणान् भट्टनागेशसंज्ञकान् ।
+> यत्प्रसादादहं प्राज्ञः संजातो जडधीरपि ॥
+> वन्दे भागीरथीमम्बां ...........गुणशालिनीम् ॥
+>
+> *vande śrīpitṛcaraṇān bhaṭṭanāgeśasaṃjñakān |*
+> *yatprasādād ahaṃ prājñaḥ saṃjāto jaḍadhīr api ||*
+> *vande bhāgīrathīm ambāṃ ...........guṇaśālinīm ||*
+>
+> "I bow to the revered feet of my father, named Bhaṭṭa Nāgeśa, by whose grace I, though dull-witted, have become learned. I bow to my mother Bhāgīrathī, [full of ...], endowed with virtues."
+
+His father was Nāgeśabhaṭṭa, his mother Bhāgīrathī, his place of residence Kāśī. At the end of the Pune copy too the same intention occurs.
+
+> अम्बा भागीरथी यस्य नागदेवः पिता सुधीः ।
+> काश्यां वासः सदा सस्य चित्तं यस्य रमाप्रिये ॥
+>
+> *ambā bhāgīrathī yasya nāgadevaḥ pitā sudhīḥ |*
+> *kāśyāṃ vāsaḥ sadā sasya cittaṃ yasya ramāpriye ||*
+>
+> "Whose mother is Bhāgīrathī, whose father is the wise Nāgadeva; whose residence is always at Kāśī; whose mind [is] on the beloved of Ramā [Viṣṇu]." (Translation mine and tentative; the last words are as printed.)
+
+That he composed a commentary on the entire Kāṇva Saṃhitā is clear from this verse of the Madras copy:
+
+> व्याख्याता काण्वशाखीयसंहिता पूर्वविंशतिः ।
+> माधवाचार्यवर्येण स्पष्टीकृत्यै न चोत्तरा ।
+> अतस्तां व्याकरिष्येऽहमनन्ताचार्यनामकः ॥
+>
+> *vyākhyātā kāṇvaśākhīyasaṃhitā pūrvaviṃśatiḥ |*
+> *mādhavācāryavaryeṇa spaṣṭīkṛtyai na cottarā |*
+> *atas tāṃ vyākariṣye 'ham anantācāryanāmakaḥ ||*
+>
+> "Of the Saṃhitā of the Kāṇva branch the first twenty were explained by the excellent Mādhavācārya, made clear; not the later. Therefore I, named Anantācārya, shall explain it."
+
+Mādhavācārya expounded the first twenty adhyāyas of the Saṃhitā and left the remaining twenty. Therefore, he says, I shall explain the remaining twenty adhyāyas. The name of this commentary is "*Bhāvārtha-dīpikā*". Sometimes it is also called "*Veda-dīpa*".
+
+> अमुना वेददीपेन मया नीराजितो हरिः ।
+>
+> *amunā vedadīpena mayā nīrājito hariḥ |*
+>
+> "By this lamp of the Veda Hari has been waved before [in lamp-worship] by me."
+
+He wrote the commentary after studying the Kātyāyana sūtras, the Śatapatha-brāhmaṇa, many ancient commentaries, and the Vedāṅgas such as the Nirukta. He declares that he composed the commentary not for the sake of showing off his scholarship, nor from greed for wealth, but solely for the satisfaction of the Supreme Self.
+
+> कात्यायनकृतं सूत्रं ब्राह्मणं शतपथाभिधम् ।
+> पुरातनानि भाष्याणि निरुक्ताद्यंगमेव च ॥
+> आलोक्य सम्यग्बहुधा [?] कृतं भाष्यमनुत्तमम् ।
+> सन्ति भाष्याण्यनेकानि प्रणीतानि हि सूरिभिः ॥
+> (पूना प्रति)
+>
+> *kātyāyanakṛtaṃ sūtraṃ brāhmaṇaṃ śatapathābhidham |*
+> *purātanāni bhāṣyāṇi niruktādyaṃgam eva ca ||*
+> *ālokya samyag bahudhā [?] kṛtaṃ bhāṣyam anuttamam |*
+> *santi bhāṣyāṇy anekāni praṇītāni hi sūribhiḥ ||*
+> (Pune copy)
+>
+> "Having looked at the sūtra made by Kātyāyana, the Brāhmaṇa called Śatapatha, the ancient commentaries, and the Vedāṅga beginning with the Nirukta, a most excellent commentary has been made [by me] in many ways [?]. There are indeed many commentaries composed by the learned."
+
+> अनेकग्रन्थमालोच्य दीपिका क्रियते मया ।
+> बहूनि सन्ति भाष्याणि प्रणीतानि हि सूरिभिः ॥
+> न पाण्डित्याभिमानेन न च वित्तस्य लिप्सया ।
+> दीपिका रच्यते किन्तु लक्ष्मीकान्तस्य तुष्टये ॥
+> (मद्रास् प्रति)
+>
+> *anekagranthamālocya dīpikā kriyate mayā |*
+> *bahūni santi bhāṣyāṇi praṇītāni hi sūribhiḥ ||*
+> *na pāṇḍityābhimānena na ca vittasya lipsayā |*
+> *dīpikā racyate kintu lakṣmīkāntasya tuṣṭaye ||*
+> (Madras copy)
+>
+> "Having reflected on many works, a lamp [*dīpikā*] is made by me. There are indeed many commentaries composed by the learned. Not from pride of scholarship, nor from desire for wealth, is the lamp composed, but for the satisfaction of the Lord of Lakṣmī."
+
+Besides having written a commentary on the Yajurveda, he wrote:
+
+1. A commentary on the Śatapatha-brāhmaṇa — a manuscript copy is at Madras.
+2. *Kaṇva-kaṇṭhābharaṇa* — likewise, at Madras.
+
+---
+
+**Progress note (Gap C):** Translated printed pp. 261–268 (PDF 287–294). Next: p. 269 (PDF 295). Open flags: several dates and manuscript-folio numbers on pp. 265–267 marked [?]; headings numbered 1–3 for the Kāṇva commentators are as read.
