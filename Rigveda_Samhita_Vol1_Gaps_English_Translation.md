@@ -2393,6 +2393,223 @@ The name of this branch occurs in the Tāṇḍya-brāhmaṇa (2-?-? [?]).
 
 In the bhāṣya on the Āpastamba Śrauta-sūtra written by Rudradatta (6-11-? [?]) there is a statement of the Śāṇḍilya Gṛhya-sūtra. In the Kalpa-sūtras of Lāṭyāyana, Drāhyāyaṇa and others the ācārya Śāṇḍilya... (the sentence continues on the next page).
 
+### Page 155
+
+...[the ācārya Śāṇḍilya] — many statements are quoted as the opinion of the ācārya. Therefore the Śāṇḍilya Gṛhya-sūtra may well be the Gṛhya-sūtra of the Sāma branch. According to the work called Ānanda-saṃhitā, Śāṇḍilya was a sūtra-author of a Yajus branch. The name of Suyajña-Śāṇḍilya is quoted in the Jaiminīya Upaniṣad-brāhmaṇa (4-12-1 [?]).
+
+## 17. Tāṇḍyas
+
+Tāṇḍya is a renowned branch which has been going on from very ancient times. Śaṅkarācārya in his Vedānta-sūtra-bhāṣya [3-3-32 ?] writes:
+
+> अन्येऽपि शाखिनस्तांडिनः शाट्यायनिनः ।
+>
+> *anye 'pi śākhinas tāṃḍinaḥ śāṭyāyaninaḥ |*
+>
+> "Other branch-followers too: the Tāṇḍins, the Śāṭyāyanins."
+
+and in another place [3-3-?? ?]:
+
+> यद्येकेषां [?] शाखिनां तांडिनां पैंगिनां च ।
+>
+> *yady ekeṣāṃ [?] śākhināṃ tāṃḍināṃ paiṃgināṃ ca |*
+>
+> "…of some branch-followers, of the Tāṇḍins and of the Paiṅgins." (Read as printed; the first word is doubtful; translation mine and tentative.)
+
+and again [3-3-?? ?]:
+
+> यथा तांडिनामुपनिषदि षष्ठे प्रपाठके—स आत्मा........ ।
+>
+> *yathā tāṃḍinām upaniṣadi ṣaṣṭhe prapāṭhake—sa ātmā........ |*
+>
+> "As in the Upaniṣad of the Tāṇḍins, in the sixth prapāṭhaka: 'That is the Self…'"
+
+It is said. This reading is the well-known Śruti of the Chāndogya Upaniṣad (6-8-7 [?]). Although the name Chāndogya is general, this Upaniṣad was probably called at first Tāṇḍya-rahasya-brāhmaṇa or Tāṇḍya-āraṇyaka. The same intention is evident from Śaṅkara's Vedānta-bhāṣya [3-3-?? ?].
+
+It is understood that the Tāṇḍya branch is a sub-division of the Kauthuma branch (printed in English: "Sub-division"). Dr. Caland's opinion too is the same. The Gobhila Gṛhya-sūtra too is according to the Kauthuma branch. But Hemādri, in his Śrāddha-kalpa [pp. 1?? and 1?? [?]], has said that this was composed by the sūtra-author Gobhila-Rāṇāyanīya. If his word is true, it appears that the Tāṇḍya branch must have another Gṛhya-sūtra.
+
+### The Tāṇḍya-brāhmaṇa and the Kauthuma saṃhitā
+
+Dr. Caland has given for study two mantras that occur in the Tāṇḍya-brāhmaṇa and in the Sāma-saṃhitā:
+
+| Tāṇḍya-brāhmaṇa | Sāma-saṃhitā |
+|---|---|
+| इन्द्रं गीर्भिर्हवामहे (11-4-? [?]) | इन्द्रं गीर्भिर्नवामहे [as printed] |
+| *indraṃ gīrbhir havāmahe* | *indraṃ gīrbhir navāmahe* |
+| अक्रांत्समुद्रः परमो विधर्मन् (13?-1-1 [?]) | अक्रांत्समुद्रः प्रथमो विधर्मन् |
+| *akrāṃtsamudraḥ paramo vidharman* | *akrāṃtsamudraḥ prathamo vidharman* |
+
+("We call Indra with songs" / "…with songs we [?]…"; "the ocean strode — the highest [Tāṇḍya] / the first [Sāma-saṃhitā] — in its holding apart". Translation mine and tentative; the point made by the source is the difference of reading.)
+
+This difference in the Tāṇḍya-brāhmaṇa is found in the Nidāna-sūtra also. The authorities concerning this in the Ārṣeya-kalpa too are in agreement with the reading of the brāhmaṇa. For these reasons the idea arises that the connection of the Tāṇḍya-brāhmaṇa must have been with another branch [not the Kauthuma].
+
+### Page 156
+
+## Other propagators of the Sāma branches
+
+Of the founders of branches called Lāṭyāyana, Drāhyāyaṇa, Gobhila, Khādira, Maśaka and Gārgya, the works they propagated are still found. The Kalpa-sūtras of the first five, or some portions of their kalpa-sūtras, and Gārgya's Sāma-pada-pāṭha, are in currency. In works such as the Mahābhāṣya the usages "Gārgakam", "Vātsakam" and the like are especially found. From this it is learnt that there was in former times some separate saṃhitā of Garga. The mutual relation of Drāhyāyaṇa and Khādira is also worthy of inquiry.
+
+## Number of mantras of the Sāmaveda
+
+In the Śatapatha-brāhmaṇa [10-4-2-22 ?]:
+
+> अथेतरौ वेदौ व्यौहत् । द्वादशैव बृहतीसहस्राण्यष्टौ
+> यजुषां चत्वारि सामानाम् । एतावद्धै तयोर्वेदयोर्य-
+> त्प्रजापतिसृष्टं........ ।
+>
+> *athetarau vedau vyauhat | dvādaśaiva bṛhatīsahasrāṇy aṣṭau yajuṣāṃ catvāri sāmānām | etāvad dhai tayor vedayor yat prajāpatisṛṣṭaṃ........ |*
+>
+> "Then he divided the other two Vedas: twelve thousand *bṛhatī* [verses]; eight of the Yajus, four of the Sāmans. So much, of those two Vedas, is what was created by Prajāpati…" (Translation of the quoted words mine, following the source's gloss below; the passage is printed with a gap.)
+
+It is said. That is: the measure of the Sāma mantras amounts to four thousand mantras of the Bṛhatī metre. In the Bṛhatī metre there are 36 syllables. Therefore the measure of the Sāmaveda mantras amounts to 4000 × 36 = 144,000 syllables (the product is the source's own, and is correct). It cannot be said that this is exactly right. In the Vāyu Purāṇa also (1-61-?? [?]) and in the Brahmāṇḍa Purāṇa (2-35-?? and ?? [?]), when stating the count of Sāma mantras:
+
+> अष्टौ सामसहस्राणि सामानि च चतुर्दश ।
+> सारण्यकं सहोहं च एतद्गायंति सामगाः ॥
+>
+> *aṣṭau sāmasahasrāṇi sāmāni ca caturdaśa |*
+> *sāraṇyakaṃ sahohaṃ ca etad gāyaṃti sāmagāḥ ||*
+>
+> "Eight thousand Sāmans and fourteen — together with the Āraṇyaka and with the Ūha — this the Sāma-singers sing."
+
+It is said. That is: including all parts such as the Āraṇyaka and the Ūha-gāna there are in all 8014 Sāmans. A reading of this same sort is in one reading of the Caraṇa-vyūha:
+
+> अष्टौ सामसहस्राणि सामानि च चतुर्दश ।
+> अष्टौ शतानि नवतिर्दशतिर्वालखिल्यकम् ॥
+> सरहस्यं ससुपर्णं प्रेक्ष्य तत्र सामदर्पणम् ।
+> सारण्यकानि ससौर्याण्येतत्सामगणं स्मृतम् ॥
+>
+> *aṣṭau sāmasahasrāṇi sāmāni ca caturdaśa |*
+> *aṣṭau śatāni navatir daśatir vālakhilyakam ||*
+> *sarahasyaṃ sasuparṇaṃ prekṣya tatra sāmadarpaṇam |*
+> *sāraṇyakāni sasauryāṇy etat sāmagaṇaṃ smṛtam ||*
+>
+> (Transcribed as printed; the third line is doubtful and the source gives no translation. Gist, tentative: "Eight thousand Sāmans and fourteen; eight hundred, ninety, ten [?], the Vālakhilya; with the secret [portion], with the Suparṇa [portion], looking into the 'mirror of Sāman' there; those with the Āraṇyaka and with the Saura [portion] — this is remembered as the Sāma group.")
+
+In another reading of the same Caraṇa-vyūha:
+
+> अष्टौ सामसहस्राणि सामानि च चतुर्दश ।
+> अष्टौ शतानि दशभिर्दशसप्त सुवालखिल्यैः ससुपर्णैः प्रेक्ष्यं [?] ।
+> एतत्सामगणं स्मृतम् ।
+>
+> *aṣṭau sāmasahasrāṇi sāmāni ca caturdaśa |*
+> *aṣṭau śatāni daśabhir daśasapta suvālakhilyaiḥ susuparṇaiḥ prekṣyaṃ [?] |*
+> *etat sāmagaṇaṃ smṛtam |*
+>
+> (As printed; doubtful.)
+
+It is said. Besides this, in another sort of variant reading:
+
+> अष्टौ सामसहस्राणि छंदोगार्चिकसंहिता ।
+> गानानि तस्य वक्ष्यामि सहस्राणि चतुर्दश ॥
+>
+> *aṣṭau sāmasahasrāṇi chaṃdogārcikasaṃhitā |*
+> *gānāni tasya vakṣyāmi sahasrāṇi caturdaśa ||*
+>
+> "Eight thousand Sāmans: the Chandoga Ārcika-saṃhitā; its gānas I shall tell: fourteen thousand."
+
+### Page 157
+
+> अष्टौ शतानि ज्ञेयानि दशोत्तरदशैव च ।
+> ब्राह्मणं चोपनिषदं सहस्रं त्रितयं तथा ॥
+>
+> *aṣṭau śatāni jñeyāni daśottaradaśaiva ca |*
+> *brāhmaṇaṃ copaniṣadaṃ sahasraṃ tritayaṃ tathā ||*
+>
+> "Eight hundred are to be known, [and] ten more ten; the Brāhmaṇa and the Upaniṣad: a thousand, three — likewise." (Translation tentative: the figures are as read and the source does not translate them.)
+
+It is said. The intention of the last reading is very strange. According to it, in the Ārcika-saṃhitā of the Sāma there would be 8000 [?] Sāmans and 14,000 gānas. The Sāma counts stated in the Purāṇas and in the other readings of the Caraṇa-vyūha are much smaller than the count stated above. Because of such differences the real meaning of these statements cannot be correctly told. It is seen that the view that all the mantras together amount to about 144,000 syllables, as said in the Śatapatha-brāhmaṇa, is more acceptable as authority; and since in many places the number of Sāma mantras is said to be about 8000 [?], it can be believed that in all the branches of the Sāmaveda together there may be about 8000 [?] mantras.
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 154 (PDF 180). Next: p. 155 (PDF 181), continuing the Śāṇḍilya sentence. Open flags: many Kannada reference numerals on pp. 151–154 given as [?]; Jaiminīya mantra counts on pp. 150–151 not reproduced (unreadable).
+# Chapter Eight — The Atharvaveda and its Branches
+
+Patañjali, in the Paspaśāhnika of the Vyākaraṇa-mahābhāṣya, writes that the branches of the Atharvaveda are nine.
+
+> नवधाथर्वणो वेदः ।
+>
+> *navadhātharvaṇo vedaḥ |*
+>
+> "The Atharvaṇa Veda is ninefold."
+
+That is: the Atharvaveda is of nine kinds; the branches of the Atharvaveda are nine.
+
+In the Atharva-pariśiṣṭa Caraṇa-vyūha there is an account of these nine branches. Except that in the Atharvaveda Sāyaṇopodghāta there is "Taudāḥ" in place of "Staudāḥ", all the rest is just so.
+
+> तत्र ब्रह्मवेदस्य नव भेदा भवंति । तद्यथा—
+> पैप्पलादाः । स्तौदाः । मौदाः । शौनकीयाः । जाजलाः ।
+> जलदाः । ब्रह्मवदाः । देवदर्शाः । चारणवैद्याश्चेति ।
+>
+> *tatra brahmavedasya nava bhedā bhavaṃti | tadyathā—*
+> *paippalādāḥ | staudāḥ | maudāḥ | śaunakīyāḥ | jājalāḥ |*
+> *jaladāḥ | brahmavadāḥ | devadarśāḥ | cāraṇavaidyāś ceti |*
+>
+> "There the Brahma-veda has nine divisions, namely: the Paippalādas, the Staudas, the Maudas, the Śaunakīyas, the Jājalas, the Jaladas, the Brahmavadas, the Devadarśas and the Cāraṇavaidyas."
+
+(The last name is as read: *cāraṇavaidyāḥ* [?].)
+
+In the Atharvaveda there are 9 divisions. What are they: — as above. There is a difference of reading in this list. According to one reading the nine divisions are thus:
+
+### Page 158
+
+> पिप्पलाः । शौनकाः । दामोदाः । तोत्रायनाः । जाबालाः ।
+> कुनखी । ब्रह्मपलाशाः । देवदर्शी । चारणविद्याश्चेति ॥
+>
+> *pippalāḥ | śaunakāḥ | dāmodāḥ | totrāyanāḥ | jābālāḥ | kunakhī | brahmapalāśāḥ | devadarśī | cāraṇavidyāś ceti ||*
+>
+> "The Pippalas, the Śaunakas, the Dāmodas, the Totrāyanas, the Jābālas, [the] Kunakhī, the Brahmapalāśas, [the] Devadarśī, and the Cāraṇavidyas."
+
+The nine divisions according to the second reading are given below:
+
+> पैप्पलाः । दांताः । प्रदांताः । स्तौताः । औताः ।
+> ब्रह्मदापलाशाः । शौनकी । वेददर्शी । चरणविद्याश्चेति ॥
+>
+> *paippalāḥ | dāṃtāḥ | pradāṃtāḥ | stautāḥ | autāḥ | brahmadāpalāśāḥ | śaunakī | vedadarśī | caraṇavidyāś ceti ||*
+>
+> "The Paippalas, the Dāntas, the Pradāntas, the Stautas, the Autas, the Brahmadāpalāśas, [the] Śaunakī, [the] Vedadarśī, and the Caraṇavidyas."
+
+In the Prapañca-hṛdaya a different manner is seen:
+
+> नवैवाथर्वणस्य । ....... । आथर्वणिकाः पैप्पलाद-योद-तोद
+> मोद-दायथ-ब्रह्मपद-शौनक-आंगिरस-देवर्षि-शाखाः ।
+>
+> *navaivātharvaṇasya | ....... | ātharvaṇikāḥ paippalāda-yoda-toda moda-dāyatha-brahmapada-śaunaka-āṃgirasa-devarṣi-śākhāḥ |*
+>
+> "Nine only of the Atharvaṇa… The Atharvaṇikas: the branches Paippalāda, Yoda, Toda, Moda, Dāyatha, Brahmapada, Śaunaka, Āṅgirasa and Devarṣi."
+
+In the Atharvaveda there are nine branches only: Paippalāda, Yoda, Toda, Moda, Dāyatha, Brahmapada, Śaunaka, Āṅgirasa and Devarṣi. The matter of the branches of the Atharvaveda is in the 6?th [?] chapter of the Vāyu Purāṇa [6?-?? ?], the 3?th [?] chapter of the second pāda of the Pūrva-bhāga of the Brahmāṇḍa Purāṇa [3?-?? ?], and the 6th chapter of the third part of the Viṣṇu Purāṇa [3-6-?? ?]. If they are all put together, the branches are as in the following. For the founders of these branches Sumantu is the root-ancestor. From him Kabandha obtained two saṃhitās.
+
+The lineage as drawn in the source:
+
+```
+                 Sumantu
+                    |
+                 Kabandha
+            _______|_______
+           |               |
+         Pathya        Devadarśa
+     ______|______      ____|______________________
+    |      |      |    |      |        |            |
+ Jājali Kumudādi Śaunaka  Moda  Brahmabala  Pippalāda  Śauṣkāyani
+                  |____
+                  |     |
+          Saindhavāyana Babhru
+                  |
+             Muñjakeśa
+```
+
+In the Purāṇas spoken of above, only the names of the branches are given, without a description of them.
+
+But in the 12th and 3?th [?] chapters of the Ahirbudhnya-saṃhitā, the branches of the four Vedas are told in order:
+
+> साम्नां शाखाः सहस्रं स्युः पंचशाखा ह्यथर्वणाम् ॥ ९ [?] ॥
+> अथर्वांगिरसो नाम पंचशाखा महामुने ॥ १० ॥
+>
+> *sāmnāṃ śākhāḥ sahasraṃ syuḥ paṃcaśākhā hy atharvaṇām || 9 [?] ||*
+> *atharvāṃgiraso nāma paṃcaśākhā mahāmune || 10 ||*
+>
+> "Of the Sāmans the branches would be a thousand; of the Atharvans five branches indeed. The 'Atharvāṅgirasa' by name has five branches, O great sage."
+
+How the tradition of the five branches told here came about, or how this idea of this Pāñcarātra Āgama came about thus, cannot now be told.
+
+---
+
+**Progress note (Gap A):** Translated through printed p. 158 (PDF 184). Next: p. 159 (PDF 185). Open flags: reference numerals on pp. 155–158 given as [?]; the Sāma mantra counts on p. 157 partly [?].
