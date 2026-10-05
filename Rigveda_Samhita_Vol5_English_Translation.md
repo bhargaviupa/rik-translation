@@ -7062,8 +7062,118 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Heading block of Sūkta 57 *(p. 393, PDF 409)*
+
+Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga 22, 23 [as read, [?]] · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392; Sūkta 56 ends p. 392 with its closing line). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks, ṛṣi Savya Āṅgirasa, Indra, Jagatī; last of the Tenth Anuvāka's sūktas 51–57) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 392, PDF 408). Heading block and Rik 57.1 begin on p. 393 (PDF 409) — NOT yet written; contents table puts Sūkta 58 at ≈ p. 411.**
+### Rik 57.1 (pp. 393–396, PDF 409–412)
 
-**Next task:** continue at printed p. 393 (PDF 409) with the heading block and Rik 57.1; Riks 2–6; close of Sūkta 57. Then STOP (user's "next 3 sūktas" = 55, 56, 57) and update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; the Tenth Anuvāka ends with Sūkta 57 — check for a closing/colophon for the anuvāka and adhyāya sections). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 55 numerals [?]; 55.3 *nākārṣīḥ* [?]; Sūkta 56: Nirukta numerals [?]; 56.3 quoted "śatavarṇir mahāṃ areṇu" [?]; 56.4 bhāṣya "tvayegā stotrā vardhiśaṃ" crowded [?]; 56.5 final clause of bhāṣya and the printed "destroying India" [sic]; 56.6 Pada block mislabelled "Bhāvārtha" in the print; Sūkta 57 intro "udaputeḥ" and numerals [?].
+**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+
+> **प्र मंहिष्ठाय बृहते बृहद्रये सत्यशुष्माय तवसे मतिं भरे ।**
+> **अपामिव प्रवणे यस्य दुर्धरं राधो विश्वायु शवसे अपावृतम् ॥ १ ॥**
+
+*pra maṃhiṣṭhāya bṛhate bṛhadraye satyaśuṣmāya tavase matiṃ bhare |*
+*apām iva pravaṇe yasya durdharaṃ rādho viśvāyu śavase apāvṛtam || 1 ||*
+
+**Pada-pāṭha** *(p. 393)*
+
+> प्र । मंहिष्ठाय । बृहते । बृहत्ऽरये । सत्यऽशुष्माय । तवसे । मतिम् । भरे ।
+> अपाम्ऽइव । प्रऽवणे । यस्य । दुःऽधरम् । राधः । विश्वऽआयु । शवसे । अपऽवृतम् ॥ १ ॥
+
+*pra | maṃhiṣṭhāya | bṛhate | bṛhat-raye | satya-śuṣmāya | tavase | matim | bhare |*
+*apām-iva | pra-vaṇe | yasya | duḥ-dharam | rādhaḥ | viśva-āyu | śavase | apa-vṛtam || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 393–394)*
+
+> **मंहिष्ठाय । मंहतिर्दानकर्मेति यास्कः । नि. १-२ । दातृतमाय बृहते गुणैर्महते बृहद्रये महाधनाय सत्यशुष्मायावितथबलाय तवस आकारतः प्रवृद्धाय । एवंगुणविशिष्टायेन्द्राय मतिं मननीयां स्तुतिं प्र भरे । प्रकर्षेण संपादयामि । यस्येन्द्रस्य बलं दुर्धरमन्यैर्धर्तुमशक्यं । तत्र दृष्टान्तः । प्रवणे निम्नप्रदेशेऽपामिव । यथा जलानां वेगः केनाप्यवस्थापयितुं न शक्यते तद्वत् । तथा राधो धनं विश्वायु सर्वेषु व्याप्तं शवसे स्तोतृणां बलाय येनेन्द्रेणापावृतं । अपगतावरणं क्रियते तस्मै इन्द्रस्येति पूर्वेण संबन्धः ॥**
+
+*maṃhiṣṭhāya | maṃhatir dānakarmeti yāskaḥ | ni. 1-2 | dātṛtamāya bṛhate guṇair mahate bṛhadraye mahādhanāya satyaśuṣmāyāvitathabalāya tavasa ākārataḥ pravṛddhāya | evaṃguṇaviśiṣṭāyendrāya matiṃ mananīyāṃ stutiṃ pra bhare | prakarṣeṇa saṃpādayāmi | yasyendrasya balaṃ durdharam anyair dhartum aśakyaṃ | tatra dṛṣṭāntaḥ | pravaṇe nimnapradeśe 'pām iva | yathā jalānāṃ vegaḥ kenāpy avasthāpayituṃ na śakyate tadvat | tathā rādho dhanaṃ viśvāyu sarveṣu vyāptaṃ śavase stotṝṇāṃ balāya yenendreṇāpāvṛtaṃ | apagatāvaraṇaṃ kriyate tasmai indrasyeti pūrveṇa saṃbandhaḥ ||*
+
+*(The tail, p. 394, is characterized: on* maṃhiṣṭhāya *(*mahi vṛddhau*, *tṛc*, *tuś chandasi*: *iṣṭhan*, *turiṣṭhemeyaḥsu*),* bṛhate *(*bṛhanmahator upasaṃkhyānam*),* matim *(*man jñāne*, *ktin*, *mantre vṛṣeṣapacamanaviduṣyā…*),* durdharam *(*īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*),* viśvāyu *(*iṇ gatau*, Uṇādi *uṇ*; *bahuvrīhau viśvaṃ saṃjñāyām*),* apāvṛtam*.)*
+
+**Translation of the bhāṣya:** "To *maṃhiṣṭhāya* — *maṃhati* is a verb of giving, says Yāska (Ni. 1-2 [?]) — to the greatest giver; *bṛhate*, great by qualities; *bṛhadraye*, of great wealth; *satyaśuṣmāya*, of unfailing strength; *tavase*, grown in form: to such an Indra I *pra bhare*, present, *matim*, a hymn worth meditating on. Of that Indra *yasya*, whose strength is *durdharam*, not to be withstood by others — an example: *pravaṇe apām iva*, as in a low place the rush of the waters cannot be held by anyone — and *rādhaḥ*, wealth, *viśvāyu*, pervading all, *śavase*, for the strength of the praisers, *apāvṛtam*, which Indra opens, uncovers: connect with the first part."
+
+**Pratipadārtha** *(p. 394)* — "**yasya** — of which Indra; **pravaṇe** — (in a place where it flows) that no one can stop; **apām iva** — like the current of waters; **durdharam** — that cannot be withstood (by enemies); **rādhaḥ** — of which Indra the wealth; **viśvāyu** — spread out among all; **śavase** — for the strength of the praisers; **apāvṛtam** — is opened; **maṃhiṣṭhāya** — to the exceedingly generous; **bṛhate** — the great in qualities; **bṛhadraye** — of abundant wealth; **satyaśuṣmāya** — of effective valour; **tavase** — the powerful: to such Indra; **matim** — a worshipful hymn; **pra bhare** — I offer."
+
+**Bhāvārtha** *(p. 394)* — "Like the current of water that no one can stop, Indra's power cannot be withstood by enemies; his wealth is opened widely to all, to give strength to his worshippers. I offer a worshipful hymn to Indra, who is exceedingly generous, great in qualities, rich, of effective valour and powerful."
+
+**English Translation (the source's own, p. 394)** — "I offer the most desirable praise to the most bountiful, the great, the opulent, the highly powerful and stately Indra, whose irresistible impetuosity is like the rush of waters down a precipice, and by whom, widely-diffused wealth is laid open (to his worshippers) to sustain their strength."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 395**
+- **maṃhiṣṭhāya** — "*Maṃhatir dānakarmā* (Ni. 1-2 [?]): the Nirukta-authors fix that *maṃhati* is an act of giving; *atiśayena maṃhitā maṃhiṣṭhaḥ*: the most excellent among givers."
+- **satyaśuṣmāya** — "*Satyaṃ śuṣmaṃ yasya*: one who has strength that is not in vain."
+- **tavase** — "One of mighty form: an epithet of Indra."
+- **pravaṇe apām iva** — "As water rushes to a hollow, Indra is of exceeding strength; the speed of water rushing to a hollow is given as a comparison, in the praise that no one can stop Indra's power."
+- **viśvāyu** — "*Viśvasmin sarvasmin āyu gamanaṃ yasya tat*: a thing pervading all regions of the world."
+
+**Vyākaraṇa-prakriyā** *(pp. 395–396 — grammar pages, noted briefly)*
+- **maṃhiṣṭhāya**: *mahi vṛddhau*; *tṛc*; *idit*: *num*: *maṃhitṛ*; *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛ*; *nit*: initial-acute; dative.
+- **bṛhate**: *bṛhat*; *bṛhanmahator upasaṃkhyānam*: ending acute.
+- **bṛhadraye**, **satyaśuṣmāya**: bahuvrīhis, first-member accent.
+- **matim**: *man jñāne*; *striyāṃ ktin*; *anudāttopadeśa…*: loss of nasal; *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. 3-3-96): *ktin* acute; accusative: *ekādeśa udāttenodāttaḥ*.
+- **bhare**: *bhṛñ bharaṇe*; *laṭ* first singular; *nighāta*.
+- **apām**: genitive plural; *ūḍidam…*: ending acute.
+- **durdharam**: *dhṛñ dhāraṇe*; *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*: *khal*; *guṇa*; *uraṇ raparaḥ*; *liti*: acute before the suffix.
+- **viśvāyu**: *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-… as read [?]): *uṇ*; *ṇit*: *vṛddhi*; *āy*; *viśvaṃ saṃjñāyām*: end-acute of the first member.
+- **apāvṛtam**: *vṛñ varaṇe*; *kta*; no *guṇa*; *gatir anantaraḥ*: the prefix's accent. **|| 1 ||**
+
+---
+
+### Rik 57.2 (pp. 396–398, PDF 412–414)
+
+**Saṃhitā-pāṭha** *(p. 396)*
+
+> **अध ते विश्वमनु हासदिष्टय आपो निम्नेव सवना हविष्मतः ।**
+> **यत्पर्वते न समशीत हर्यत इन्द्रस्य वज्रः श्नथिता हिरण्ययः ॥ २ ॥**
+
+*adha te viśvam anu hāsad iṣṭaya āpo nimneva savanā haviṣmataḥ |*
+*yat parvate na samaśīta haryata indrasya vajraḥ śnathitā hiraṇyayaḥ || 2 ||*
+
+**Pada-pāṭha** *(p. 396)*
+
+> अध । ते । विश्वम् । अनु । ह । असत् । इष्टये । आपः । निम्नाऽइव । सवना । हविष्मतः ।
+> यत् । पर्वते । न । सम्ऽअशीत । हर्यतः । इन्द्रस्य । वज्रः । श्नथिता । हिरण्ययः ॥ २ ॥
+
+*adha | te | viśvam | anu | ha | asat | iṣṭaye | āpaḥ | nimna-iva | savanā | haviṣmataḥ |*
+*yat | parvate | na | sam-aśīta | haryataḥ | indrasya | vajraḥ | śnathitā | hiraṇyayaḥ || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 397)*
+
+> **अध हानन्तरमेव हे इन्द्र विश्वं सर्वमिदं जगत्ते तव संबन्धिन इष्टये यागायान्वसत् । अन्वभवत् । यद्वा । इष्टये हविरादिभिस्तव प्राप्तय इति योज्यम् । हविष्मतो यजमानस्य सवना सवनानि यज्ञजातानि निम्नेव निम्नानि भूस्थलान्यापा इव त्वां संभजन्त इति शेषः । हर्यतः शत्रुवधं प्रेप्सत इन्द्रस्य । हर्यतिः प्रेप्साकर्मेति यास्कः । नि. २-१२ । यद्वा । हर्यतः शोभनः । हिरण्मयो हिरण्ययः श्नथिता शत्रूणां हिंसनशीलो वज्रः पर्वते पर्ववति शिलोच्चये वृत्रे वा यद्यदा न समशीत संसुप्तो नाभवत् । किंतु जागरितः सन्नवधीदित्यर्थः । यदेन्द्रेण प्रेरितो वज्रोऽप्रतिहतः सन्वृत्रमवधीत्तदाप्यभ्युक्त्यैव शं यष्टुं सर्वे यजमानाः प्रावर्तिषतेति भावः ॥**
+
+*adha hānantaram eva he indra viśvaṃ sarvam idaṃ jagat te tava saṃbandhina iṣṭaye yāgāyānvasat | anvabhavat | yadvā | iṣṭaye haviradibhis tava prāptaya iti yojyam | haviṣmato yajamānasya savanā savanāni yajñajātāni nimneva nimnāni bhūsthalāny āpā iva tvāṃ saṃbhajanta iti śeṣaḥ | haryataḥ śatruvadhaṃ prepsata indrasya | haryatiḥ prepsākarmeti yāskaḥ | ni. 2-12 | yadvā | haryataḥ śobhanaḥ | hiraṇmayo hiraṇyayaḥ śnathitā śatrūṇāṃ hiṃsanaśīlo vajraḥ parvate parvati śiloccaye vṛtre vā yad yadā na samaśīta saṃsupto nābhavat | kiṃtu jāgaritaḥ sann avadhīd ity arthaḥ | yadendreṇa prerito vajro 'pratihataḥ san vṛtram avadhīt tadāpy abhyuktyaiva [?] śaṃ yaṣṭuṃ sarve yajamānāḥ prāvartiṣateti bhāvaḥ ||*
+
+*(The tail, p. 397: on* asat *(*as bhuvi*, *laṅ*; *śap* not elided; no *aṭ*),* iṣṭaye *(*yaja*, *ktin*; *vacisvapiyajādīnāṃ kiti*: *saṃprasāraṇa*; *vraścabhrasja…*: *ṣatva*; *ṣṭutva*; Uṇādi alternative *iṣa gatau*),* nimneva *(*nimna* + *iva*; *eva*; Vedic *ā* shortening),* samaśīta *(*śīṅ svapne*, *laṅ*; *guṇa* barred),* haryataḥ *(*haryatir gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…*: *atac*),* śnathitā *(*śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlika tṛn*; *sit*: *anudātta*, so initial-acute) — see Kannada notes.)*
+
+**Translation of the bhāṣya:** "*Adha*, immediately after that, O Indra, *viśvam*, this entire world, *te iṣṭaye*, for your sacrifice, *anv asat*, was ready — or: *iṣṭaye* 'for reaching you with oblations': connect so. *Haviṣmataḥ savanā*, the sacrifices of the sacrificer who has oblations, *nimneva āpaḥ*, like waters to low places, flow to you (this is understood) — of Indra *haryataḥ*, who desires the slaying of enemies (*haryati* is a verb of desire, Ni. 2-12 [?]); or *haryataḥ*, beautiful. The *hiraṇyayaḥ*, golden, *śnathitā*, enemy-destroying thunderbolt *yad na samaśīta*, did not sleep *parvate*, on the mountain, the heap of rock, or on Vṛtra: it did not become dormant, but, awake, it killed. When the thunderbolt, driven by Indra, unresisted, killed Vṛtra, then all the sacrificers set about the sacrifice, as if bidden, to conclude it, is the sense."
+
+**Pratipadārtha** *(p. 397)* — "**haryataḥ** — who looked for the slaying (of enemies); **indrasya** — of Indra; **hiraṇyayaḥ** — made of gold; **śnathitā** — the destroyer of enemies; **vajraḥ** — the thunderbolt; **parvate** — on the mountain, or when hurled at Vṛtra; **yat** — when; **na samaśīta** — did not sleep (i.e. being sharp, it killed the enemy); **adha ha** — immediately after that; **viśvam** — the whole world; **te** — for you; **iṣṭaye** — for the sacrifice; **anu asat** — became ready; **haviṣmataḥ** — of the sacrificer; **savanā** — the offerings; **nimneva āpaḥ** — like waters flowing in a low place (reached you without obstruction)."
+
+**Bhāvārtha** *(p. 397)* — "O Indra, when, looking for the slaying of the enemy, your golden, enemy-destroying thunderbolt, hurled upon Vṛtra, killed him without the least delay, then immediately the whole world was ready for your sacrifice; the oblations of the sacrificer reached you like water flowing to a hollow, without obstruction."
+
+**English Translation (the source's own, p. 398)** — "Indra, this entire universe was engaged in your sacrifice; the oblations of the sacrificer flowed like water falling to a depth; the beautiful, golden, fatal thunderbolt of Indra did not sleep upon the mountain."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 398**
+- **adha** — "The word *adha* is used in the sense of *atha*, 'afterwards'."
+- **iṣṭaye** — "Explained in two ways: for worshipping you with oblations; or for the sacrifice."
+- **savanā** — "Though the word *savana* denotes only sacrifice, here, by implication, it means all the acts that occur in the sacrifice."
+- **haryataḥ** — "*Śatruvadhaṃ prepsataḥ*; *haryatiḥ prepsākarmā* (Ni. 2-12 [?]): by this Nirukta usage the verb *hary gatikāntyoḥ* [the root *hary* with the senses of motion and desire] takes the sense of an act that is wished for. They also give the sense 'praiseworthy' to this word."
+- **śnathitā** — "The thunderbolt is by nature destroyer of enemies; it is an epithet of *vajra*. After the thunderbolt, driven by Indra, had uprooted the enemies, all began to please Indra with sacrificial acts: this is the point here."
+
+**Vyākaraṇa-prakriyā** *(pp. 398– — grammar pages, noted briefly; continued on p. 399)*
+- **adha**: *atha*; in the Saṃhitā, *chandasi* gives *dhatva*.
+- **asat**: *as bhuvi*; *laṅ* third singular; *itaś ca*: loss of *i*; *bahulaṃ chandasi*: *śap* not elided (*luk* does not come); no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*.
+- **iṣṭaye**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *ktin* in the action sense; *kit*: *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15): *saṃprasāraṇa* of *y*; *vraścabhrasjasṛjamṛjayajarājabhrājacchāṃ ṣaḥ*: *ṣatva* of *j*; the suffix *t* becomes *ṭ* by *ṣṭunā ṣṭuḥ*: *iṣṭi*; though *nit*, by *vyatyaya* end-acute. Or from *iṣa gatau* with *ktin*; no *laghūpadha-guṇa* (*kit*).
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–56 COMPLETE (printed pp. 1–392). User instruction (2026-10-05): next three sūktas = 55, 56 (both DONE), 57. Sūkta 57 (*pra maṃhiṣṭhāya*, 6 Riks) in progress: heading, Rik 57.1 complete, Rik 57.2 written through the first grammar notes (*adha, asat, iṣṭaye*) (printed p. 398, PDF 414). The remaining grammar of Rik 2 (p. 399, PDF 415) and Riks 57.3–57.6 NOT yet written.**
+
+**Next task:** continue at printed p. 399 (PDF 415) with "**Rik 57.2, grammar (end)**", then Riks 3–6 and the close of Sūkta 57; then STOP (user's "next 3 sūktas" done), update CLAUDE.md "Current position" (Sūktas 47–57 complete; next Sūkta 58, *nū cit sahojāḥ*; the Tenth Anuvāka and the Fourth Adhyāya's later sūktas — check for any anuvāka colophon). Page images PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: see Sūktas 55–56 notes (numerals [?]; crowded phrases); 57.1 Nirukta numeral [?]; 57.2 final clause of the bhāṣya "abhyuktyaiva" [?].
