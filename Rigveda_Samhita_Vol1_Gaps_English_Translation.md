@@ -2610,6 +2610,153 @@ But in the 12th and 3?th [?] chapters of the Ahirbudhnya-saṃhitā, the branche
 
 How the tradition of the five branches told here came about, or how this idea of this Pāñcarātra Āgama came about thus, cannot now be told.
 
+### Page 159
+
+## The correct names of the Atharva branches
+
+Among the lists written above the list of the Caraṇa-vyūha appears purer than the other lists. Even in it there is no doubt at all about six branches. Which are they:
+
+| | | |
+|---|---|---|
+| 1 | Paippalādāḥ | 4 Jājalāḥ |
+| 2 | Maudāḥ | 5 Devadarśāḥ |
+| 3 | Śaunakīyāḥ | 6 Cāraṇavidyāḥ or Cāraṇavaidyāḥ |
+
+The names of the remaining three branches, Staudāḥ, Brahmavadāḥ and Jaladāḥ, are not so pure. Though it may be imagined that *Brahmavadāḥ* is used for Brahmapalāśāḥ or Brahmabalāḥ, the matter of the remaining two remains doubtful.
+
+## Sumantu
+
+It must be said that it is somewhat difficult to say definitely who Sumantu, the founder of the branch, was.
+
+Sumantu was the last of the four chief pupils of Kṛṣṇa Dvaipāyana. Jaimini's son Sumantu and this Sumantu must be different persons. There is also a Sumantu renowned among the authors of Dharma-sūtras. Pāṇḍuraṅga Kāṇe, in his History of Dharmaśāstra [pp. ??–?? [?]], has written extensively about the Dharmaśāstra author Sumantu. A small portion of Sumantu's Dharmaśāstra has been printed by T. R. Chintamani in the Prācya-saṃśodhana-patrikā, Madras [The Journal of Oriental Research, Madras, January–March 1934, pp. 75–88] in the January–March issue of its 8th [?] volume. In this Dharma-sūtra Sumantu indicates the names of Aṅgiras and Śaṅkha. In the Śānti-parvan of the Mahābhārata [4?th adhyāya, 6th [?] verse] it is said that when Bhīṣmācārya was lying on his bed of arrows a Sumantu was near him.
+
+## Kabandha Ātharvaṇa
+
+Sumantu, dividing the Atharvaveda into two branches, taught it to his pupil Kabandha. In this connection the dialogue between Uddālaka Āruṇi and Yājñavalkya in the Bṛhadāraṇyaka Upaniṣad [3-7-1 ?] is worthy of inquiry. Uddālaka says thus to Yājñavalkya:
+
+"O Yājñavalkya, I was studying in the Madra country in the house of Patañjala Kāpya. His wife was possessed by a Gandharva. You asked [him] who that Gandharva was. He said he was Kabandha Ātharvaṇa."
+
+(The sentence is thus in the source: "you asked" — *nīnu yārendu praśne māḍide*.)
+
+Could this Kabandha Ātharvaṇa be Sumantu's pupil? The name "Kabandha Ātharvaṇa" is also in the Jaiminīya-brāhmaṇa [3-?? [?]]. Since in both these contexts "Ātharvaṇa" has been added along with the word Kabandha, it is possible that these were Sumantu's pupils.
+
+### Page 160
+
+Kabandha taught the two branches he had himself studied to his two pupils, Pathya and Devadarśa. From them other branches arose down to the present. It was told before that such branches are nine. Their description is given further on.
+
+## 1. Paippalādas
+
+It is said in the Skanda Purāṇa, Nāgarakhaṇḍa, that there was a Pippalāda connected with the renowned Yājñavalkya. At the beginning of the Praśna Upaniṣad it is written that the revered Pippalāda was a great scholar and a great honoured one, to whom six pupils such as Sukeśa and Bhāradvāja had gone for knowledge. In the Śānti-parvan of the Mahābhārata [4?-10 [?]] when Bhīṣmācārya was lying on his bed of arrows, a Pippalāda was near him —
+
+> तथाथर्वणिके पैप्पलादशाखायां मंत्रो विंशतिकांडः । .... ।
+> तद्ब्राह्मणमध्यायाष्टकं [?] ।
+>
+> *tathātharvaṇike paippalādaśākhāyāṃ maṃtro viṃśatikāṃḍaḥ | .... | tadbrāhmaṇam adhyāyāṣṭakaṃ [?] |*
+>
+> "And in the Atharvaṇika, in the Paippalāda branch, the mantra [part] has twenty kāṇḍas…; its brāhmaṇa [has] eight adhyāyas." (This is the Prapañca-hṛdaya passage as printed here with its own gap; the last word is doubtful. Translation tentative.)
+
+The Paippalāda branch had both a saṃhitā and a brāhmaṇa. Since it is mentioned in the Prapañca-hṛdaya that in the saṃhitā of the Paippalāda branch there are twenty kāṇḍas and in the brāhmaṇa eight adhyāyas, this branch must have had both the saṃhitā and the brāhmaṇa.
+
+### The manuscript of the Paippalāda saṃhitā
+
+A manuscript of the Paippalāda saṃhitā [on birch-bark, in Śāradā script] was in Kashmir. In the time of the Kashmir Mahārāja Raṇavīra Siṃha, Roth published a writing connected with this manuscript. This copy, which was with Roth until 18?? [?], came into the hands of the officials of the library of Tübingen University [printed in English: "Tubingen"]. By order of the University's officials, in 19?? [?] this saṃhitā was published in the United States of America [Baltimore, printed in English: "Baltimore U.S."].
+
+Before this saṃhitā went outside our country, three copies were made in Devanāgarī script. Of these three, one copy is preserved in the Bhandarkar Institute at Pune. The second copy was with Roth until 18?? [?].
+
+In the Śāradā-script original copy of this saṃhitā 2? [?] leaves are lost. Leaves 2, 3, 4 [?] and 1? [?] are decayed. Probably a Devanāgarī copy of this very saṃhitā is in the library of the Royal Asiatic Society, Bombay branch. A photographic copy of it is in the Lahore library [No. ?? [?]]. This was written in Kashmir in 18?? [?].
+
+### Other works of the Paippalāda branch
+
+According to the Prapañca-hṛdaya [p. ?? [?]] the Paippalāda branch had one Kalpa-sūtra. It was composed by Agastya. In it there are seven adhyāyas. This work has not been obtained anywhere up to now. In the Śrāddha-kalpa written by Hemādri [p. ?? [?]] there is a Paippalāda Śrāddha-kalpa. This
+
+### Page 161
+
+Śrāddha-kalpa has been edited by Dr. Caland. In the same Prapañca-hṛdaya it is said that there is a Paippalāda Brāhmaṇa of eight adhyāyas. In accordance with this brāhmaṇa there is one sentence in the Anukramaṇī in Veṅkaṭamādhava's Ṛgbhāṣya [8-? [?]]:
+
+> ऐतरेयकमस्माकं पैप्पलादमथर्वणाम् ॥ १९ [?] ॥
+>
+> *aitareyakam asmākaṃ paippalādam atharvaṇām || 19 [?] ||*
+>
+> "The Aitareyaka [is] ours; the Paippalāda [belongs] to the Atharvans."
+
+That is: for the followers of the Ṛgveda and the others there is the Aitareya-brāhmaṇa, and for the followers of the Atharvaveda and the others there are the Paippalāda Brāhmaṇas.
+
+According to the eighth Atharva-pariśiṣṭa, the 19th [?] kāṇḍa of the Atharvaveda, [5?]–[5?] sūktas, are Paippalāda mantras. These are common to both the Atharvaveda and the Paippalāda saṃhitā.
+
+### The first mantra of the Paippalāda saṃhitā
+
+In the Paspaśāhnika of the Mahābhāṣya the mantra "*śanno devīḥ …*" is said to be the first mantra of the Atharvaveda. In the Gopatha-brāhmaṇa too (1-? [?]) the same intention is found. In his bhāṣya on the Chāndogya mantras Guṇaviṣṇu says thus:
+
+> शन्नो देवीः........ अथर्ववेदादिमंत्रोऽयं पिप्पलादद्दृष्टः ।
+>
+> *śanno devīḥ........ atharvavedādimaṃtro 'yaṃ pippalādadṛṣṭaḥ |*
+>
+> "*Śanno devīḥ…* — this first mantra of the Atharvaveda was seen by Pippalāda."
+
+That is: the first mantra of the Atharva branch, seen by Pippalāda, is "*śanno devīḥ ……*".
+
+Since in the manuscript of the Paippalāda branch saṃhitā the first leaf is missing, it is not possible to discuss whether Guṇaviṣṇu's opinion is correct or not.
+
+A scholar called Whitney has said that in the Paippalāda Atharvaveda in Kashmir there are more Brāhmaṇa sentences and *ābhicārika* (hostile-rite) practices. (Printed in English: "Whitney's Translation of the Atharva Veda, Introduction p. lxxx. The Kashmirian Text is more rich in Brahmana passages and in charms and incantations than in the Vulgate"). He has told some differences between the Paippalāda branch and the Atharvaveda in the reading. Some of those differences are given below:
+
+| Atharva | | Paippalāda | | |
+|---|---|---|---|---|
+| तस्मात् *tasmāt* | .... | ततः *tataḥ* | .... | 10-3-8 [?] |
+| जगाम *jagāma* | .... | इयाय *iyāya* | .... | 10-2-30 [?] |
+| योत *yota* | .... | या च *yā ca* | .... | 10-4-10 [?] |
+| ओषं *oṣaṃ* | .... | क्षिप्रं *kṣipraṃ* | .... | 12-1-?? [?] |
+| गृहेषु *gṛheṣu* | .... | आमा च *āmā ca* | .... | 12-4-?? [?] |
+
+(The Atharva and Paippalāda readings are as printed; the reference numerals, printed in the right-hand column, are not certain.)
+
+In the monthly journal of the American Oriental Society the Paippalāda branch has been published in Roman script.
+
+In the catalogue of the Baroda State there is a copy of the Puruṣa-sūkta [No. ?? [?]]. At its end is this sentence —
+
+[A small bracketed numeral, read as "[20?]", stands at the foot of this page in the print; it is not a page number.]
+
+### Page 162
+
+— "This kāṇḍa is in the two branches [the Paippalāda and the Jājala] also." (The sentence quoted from the Baroda catalogue is given in the print as running on from the previous page; its Sanskrit is not reproduced separately in the source.)
+
+The commentary on the sūkta that begins with "*yāṃ kalpayanti*" belonging to the Paippalāda branch is in the Baroda catalogue too. Besides, it is found in other places also.
+
+In the Mahābhāṣya (4-1-?? [?], 4-2-?? [?], 4-3-?? [?]) in these places the words "*maudakam*" and "*paippalādakam*" are used. And in the same work (4-?-?? [?]) "*maudāḥ*" and "*paippalādāḥ*" are also used. That is: these names must have been renowned branches, as the Kāṭhaka, Kālāpaka and others are renowned. With a little effort a proper work of the Paippalāda branch may be found in good condition.
+
+## 2. Staudāḥ
+
+According to Sāyaṇa the usage is "Taudāḥ". In the Atharva-pariśiṣṭa (2?-? [?]) there is this sentence —
+
+> आ स्कंधादुरसो वापीति स्तौदायनैः स्मृता ।
+>
+> *ā skaṃdhād uraso vāpīti staudāyanaiḥ smṛtā |*
+>
+> "'From the shoulder, from the chest…', thus is it remembered by the Staudāyanas."
+
+This sentence, in describing the *araṇi* (fire-stick), tells the intention of Staudāyani. (Translation of the Sanskrit mine and tentative; the source gives the sense only as stated.)
+
+## 3. Maudāḥ
+
+Now only its name remains. It appears that in the time of the Mahābhāṣya this branch was very famous. In the Śābara-bhāṣya (1-1-30 [?]) too this name has come. In the Atharva-pariśiṣṭa (2-4 [?]) it is said that the kingdom of a king who has his work done by a priest of the Jalada and Mauda branches is destroyed. In the same work (2?-3 [?]) the opinion of Mauda is given.
+
+## 4. Śaunakīyas
+
+There were many sages by the name Śaunaka. A Śaunaka who lived at Naimiṣāraṇya was a follower of the Ṛgveda. In the Bhāgavata (1-4-1 [?]) too it is said just so. In the Jaiminy-upaniṣad-brāhmaṇa (3-1-2? [?]) one called Śaunaka Kāpeya is mentioned in discussing the Sāma branches. In the Jaiminīya-brāhmaṇa (1-?? [?]) there is the name of a sage Atidhanvā Śaunaka. Besides these, there are many more Śaunakas. It is not possible to say of what gotra and what country the Atharvaṇa Śaunaka was.
+
+## Ārcī-saṃhitā and Ācārya-saṃhitā
+
+In the work called Pañcapaṭalikā (3-? [?]) there is this verse —
+
+> आचार्यसंहितायां तु पर्यायाणामतः परम् ।
+> अवसानसंख्यां वक्ष्यामि यावती यत्र मिश्रिताः ॥
+>
+> *ācāryasaṃhitāyāṃ tu paryāyāṇāmataḥ param |*
+> *avasānasaṃkhyāṃ vakṣyāmi yāvatī yatra miśritāḥ ||*
+>
+> "In the Ācārya-saṃhitā, after the *paryāyas*, I shall tell the number of the closing [verses], as many as are mixed there." (Translation mine and tentative; the source gives none.)
+
+Here the expression "Ācārya-saṃhitā" is used. In the explanation of the Kauśika-sūtra (8-3? [?]) Dārila has written the meaning of this word thus (the sentence continues on the next page).
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 158 (PDF 184). Next: p. 159 (PDF 185). Open flags: reference numerals on pp. 155–158 given as [?]; the Sāma mantra counts on p. 157 partly [?].
+**Progress note (Gap A):** Translated through printed p. 162 (PDF 188). Next: p. 163 (PDF 189), continuing Dārila's explanation of "Ācārya-saṃhitā". Open flags: reference numerals and dates on pp. 159–162 mostly [?]; the Baroda-catalogue sentence on p. 161–162 is reproduced only in gist.
