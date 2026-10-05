@@ -7804,8 +7804,167 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+**Rik 58.7, continued** *(pp. 432–433, PDF 448–449)*
+
+**Special Topics, rest (p. 432)**
+- **yajiṣṭham** — "Exceedingly eminent among those who perform sacrifice."
+- **vasūnām aratim** — "Agni, who obtains complete lordship [for the sacrificer]."
+- **saparyāmi** — "I serve: *saparyatiḥ paricaraṇakarmā*; from the root *sapara pūjāyām*."
+- **yāmi** — "In the verb-form *yācāmi*, the middle syllable dropped, the word is used in the same sense."
+
+**Vyākaraṇa-prakriyā** *(p. 432 — grammar page, noted briefly)*
+- **yajiṣṭham**: *yaṣṭṛ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛc*; *nit*: initial-acute.
+- **vṛṇate**: *vṛñ saṃbhaktau*, *kryādi*; *laṭ* third plural, *jha*; *kryādibhyaḥ śnā*; *ātmanepadeṣv anataḥ*: *at* for *jha*; the *ā* of *śnā* dropped (*śnābhyastayor ātaḥ*); no *guṇa* of the *ṛ* (*sārvadhātukam apit*, *kit*-like); *yat*: no *nighāta*; suffix-accent: middle-acute.
+- **aratim**: *ṛ gatiprāpaṇayoḥ*; Uṇādi *ati* (*vahivasyarti…*, Uṇ. 4-… as read [?]): *guṇa*; *uraṇ raparaḥ*; *citaḥ*: end-acute; accusative.
+- **saparyāmi**: *sapara pūjāyām*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak*: *yak*; *laṭ* first singular *mip*; *ato lope*: loss of the *a*; *atodīrgho yañi*: lengthening before *y*-ending; at the head of a pāda: no *nighāta*.
+- **yāmi**: *ṭuyāc yācñāyām*, *ubhayapadī*; *laṭ* first singular; *vyatyaya*: *mip*; the middle *c* dropped in the Veda. **|| 7 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–57 COMPLETE (printed pp. 1–411). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated). Sūkta 58 (*nū cit sahojāḥ*, 9 Riks, Agni; Eleventh Anuvāka) in progress: Riks 58.1–58.6 complete; Rik 58.7 (Triṣṭubh) written through the first two Special Topics (*sapta juhvaḥ*, *vāghataḥ*) (printed p. 431, PDF 447). The rest of Rik 7's Special Topics and Vyākaraṇa (p. 432–, PDF 448) and Riks 58.8–58.9 (Triṣṭubh) NOT yet written. Contents table: Sūkta 59 ≈ p. 439, 60 ≈ 461, 61 ≈ 478.**
+### Rik 58.8 (pp. 433–435, PDF 449–451; metre Triṣṭubh)
 
-**Next task:** continue at printed p. 432 (PDF 448) with "**Rik 58.7, continued**", then Riks 8–9 and the close of Sūkta 58; then Sūktas 59, 60, 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro Anukramaṇī half-line and Āśvalāyana numerals [?]; 58.2 Saṃhitā "tṛṣu cyavāno" vs Pada [?]; 58.4 "vātaseṣu" for *atáseṣu* [?]; Ṛ. Saṃ. Part 4 p. 234 cross-ref in 58.5 [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
+**Saṃhitā-pāṭha** *(p. 433)*
+
+> **अच्छिद्रा सूनो सहसो नो अद्य स्तोतृभ्यो मित्रमहः शर्म यच्छ ।**
+> **अग्ने गृणन्तमंहस उरुष्योर्जो नपात्पूर्भिरायसीभिः ॥ ८ ॥**
+
+*acchidrā sūno sahaso no adya stotṛbhyo mitramahaḥ śarma yaccha |*
+*agne gṛṇantam aṃhasa uruṣyorjo napāt pūrbhir āyasībhiḥ || 8 ||*
+
+**Pada-pāṭha** *(p. 433)*
+
+> अच्छिद्रा । सूनो इति । सहसः । नः । अद्य । स्तोतृऽभ्यः । मित्रऽमहः । शर्म । यच्छ ।
+> अग्ने । गृणन्तम् । अंहसः । उरुष्य । ऊर्जः । नपात् । पूःऽभिः । आयसीभिः ॥ ८ ॥
+
+*acchidrā | sūno iti | sahasaḥ | naḥ | adya | stotṛ-bhyaḥ | mitra-mahaḥ | śarma | yaccha |*
+*agne | gṛṇantam | aṃhasaḥ | uruṣya | ūrjaḥ | napāt | pūḥ-bhiḥ | āyasībhiḥ || 8 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 433)*
+
+> **हे सहसः सूनो बलस्य पुत्र । बलेन हि मथ्यमानोऽग्निर्जायते । मित्रमहोऽनुकूलदीप्तिमन्नग्ने नोऽस्मभ्यं स्तोतृभ्योऽद्यास्मिन्कर्मण्यच्छिद्राच्छिद्राणि शर्म शर्माणि सुखानि यच्छ । देहि । किंच हे ऊर्जो नपात् अन्नस्य पुत्र । भुक्तेनान्नेन जठराग्नेः प्रवर्धनादग्नेरन्नपुत्रत्वं । एवंविधाग्ने गृणन्तं त्वां स्तुवन्तमायसीभिर्व्याप्तैः । यद्वा । अयोवद्दृढतरैः । पूर्भिः पालनैरंहसः पापादुरुष्य । रक्ष । उरुष्यती रक्षाकर्मा । नि. ५-२३ [?] इति यास्कः ॥**
+
+*he sahasaḥ sūno balasya putra | balena hi mathyamāno 'gnir jāyate | mitramaho 'nukūladīptimann agne no 'smabhyaṃ stotṛbhyo 'dyāsmin karmaṇy acchidrācchidrāṇi śarma śarmāṇi sukhāni yaccha | dehi | kiṃca he ūrjo napāt annasya putra | bhuktenānnena jaṭharāgneḥ pravardhanād agner annaputratvaṃ | evaṃvidhāgne gṛṇantaṃ tvāṃ stuvantam āyasībhir vyāptaiḥ | yadvā | ayovad dṛḍhatarair | pūrbhiḥ pālanair aṃhasaḥ pāpād uruṣya | rakṣa | uruṣyatī rakṣākarmā | ni. 5-23 [?] iti yāskaḥ ||*
+
+**Translation of the bhāṣya:** "O *sahasaḥ sūno*, son of strength — for Agni, when rubbed with force, is born; *mitramahaḥ*, of favourably shining radiance: Agni, to us the praisers *adya*, today, in this rite, *acchidrā śarma yaccha*, grant uninterrupted joys. And, O *ūrjo napāt*, offspring of food — by the food eaten, the belly-fire is increased, whence Agni is 'the son of food' — such Agni, *gṛṇantam*, you who are praised: *āyasībhiḥ pūrbhiḥ*, with the all-pervading — or, strong as iron — guards, protections, *aṃhasaḥ uruṣya*, protect from sin; *uruṣyati* is a verb of protecting, says Yāska (Ni. 5-23 [?])."
+
+**Pratipadārtha** *(p. 434)* — "**sahasaḥ sūno** — O son of force; **mitramahaḥ** — O (Agni) of favourable radiance; **naḥ stotṛbhyaḥ** — to us the praisers; **adya** — in this sacrifice; **acchidrā** — uninterrupted; **śarma** — happiness; **yaccha** — give; **ūrjo napāt** — O offspring of food; **agne** — Agni; **gṛṇantam** — [you] who are praised (your devotee); **āyasībhiḥ** — extensive, or strong as iron; **pūrbhiḥ** — with protections; **aṃhasaḥ** — from sin; **uruṣya** — protect."
+
+**Bhāvārtha** *(p. 434)* — "O Agni, son of strength, of favourable radiance, graciously grant us, your praisers, in this sacrifice uninterrupted happiness. O Agni, son of food, protect your praising devotee from sin by the iron-strong guards of your protection."
+
+**English Translation (the source's own, p. 434)** — "Son of strength, favourably-shining Agni, grant to your adorers, on this occasion, uninterrupted happiness; offspring of food, preserve him who praises you from sin with guards of iron."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 434**
+- **sahasaḥ sūno** — "This is a vocative of a word that denotes Agni. Since Agni is produced with the help of the fire-sticks only by the exertion of force, the status 'son of force' is attributed to Agni."
+- **mitramahaḥ** — "*Mitraṃ mahaḥ yasya*: one of favourable radiance, i.e. Agni does not, by his radiance in the sacrifice, burn anyone."
+- **ūrjo napāt** — "*Na pātayati iti napāt*: 'son of food'. Men increase the digestive fire by the food they have eaten; so the strength that grows by food came to Agni; hence Agni should be called 'son of food'."
+- **āyasībhiḥ** — "*Vyāptaiḥ* or *ayovad dṛḍhataraiḥ*: two senses, 'all-pervading' or 'stronger than iron', are given for this word."
+- **uruṣya** — "*Rakṣa*: the Nirukta (Ni. 5-23 [?]) says that *uruṣyati* is a verb of protection."
+
+**Vyākaraṇa-prakriyā** *(p. 435 — grammar page, noted briefly)*
+- **acchidrā**: *na chidrāṇi acchidrāṇi*; in the Saṃhitā *śeś chandasi bahulam*: the neuter ending *śi* lost.
+- **sūno sahasaḥ**: though the vocative *sūno* stands before, the genitive *sahasaḥ* is in construction with it (*parampi chandasi*): by *āmantritasya ca* the *nighāta* applies to the two words as a unit; hence at the beginning of the pāda the word *sūno* keeps accent where the *nighāta* is not applied.
+- **śarma**: accusative plural; *supāṃ suluk*: the ending lost.
+- **yaccha**: *dāṇ dāne*; *loṭ* second singular; *sip* → *hi*; *pāghrādhmā…*: *yaccha*; *śap* after *a*: *luk* of *hi*; *nighāta*.
+- **ūrjo napāt**: *na pātayati iti napāt*; *nabhrāṇ napān nāsatyā…* (Pā. 6-3-75): *prakṛtibhāva*; *subāmantrite parāṅgavat svare* (Pā. 2-1-2): the preceding word counts as part of the following vocative; since this stands at the beginning of a pāda, no *nighāta*; *āmantritasya ca*: initial-acute.
+- **pūrbhiḥ**: *pyā pālanapūraṇayoḥ*; *saṃpadādibhyaḥ kvip*: *kvip* in the action sense; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*; *halica*: lengthening; *sāvekācas tṛtīyādiḥ*: acute of the vibhakti. **|| 8 ||**
+
+---
+
+### Rik 58.9 (pp. 435–439, PDF 451–455; metre Triṣṭubh — the last Rik)
+
+**Saṃhitā-pāṭha** *(p. 435)*
+
+> **भवा वरूथं गृणते विभावो भवा मघवन्मघवद्भ्यः शर्म ।**
+> **उरुष्याग्ने अंहसो गृणन्तं प्रातर्मक्षू धियावसुर्जगम्यात् ॥ ९ ॥**
+
+*bhavā varūthaṃ gṛṇate vibhāvo bhavā maghavan maghavadbhyaḥ śarma |*
+*uruṣyāgne aṃhaso gṛṇantaṃ prātar makṣū dhiyāvasur jagamyāt || 9 ||*
+
+**Pada-pāṭha** *(p. 436)*
+
+> भव । वरूथम् । गृणते । विभावः । भव । मघऽवन् । मघवत्ऽभ्यः । शर्म ।
+> उरुष्य । अग्ने । अंहसः । गृणन्तम् । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ ९ ॥
+
+*bhava | varūtham | gṛṇate | vibhāvaḥ | bhava | magha-van | maghavat-bhyaḥ | śarma |*
+*uruṣya | agne | aṃhasaḥ | gṛṇantam | prātaḥ | makṣū | dhiyā-vasuḥ | jagamyāt || 9 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 436)*
+
+> **हे विभावो विशिष्टप्रकाशाग्ने गृणते त्वां स्तुवते यजमानाय । वरूथमिति गृहनाम । वरूथमनिष्टनिवारकं गृहं भव । हे मघवन् धनवन्नग्ने मघवद्भ्यो हविर्लक्षणधनयुक्तेभ्यो यजमानेभ्यः शर्म सुखं यथा भवति तथा भव । हे अग्ने गृणन्तं स्तुवन्तमंहसः पापकारिणः शत्रोरुरुष्य । रक्ष । धियावसुः कर्मणा बुद्ध्या वा प्राप्तधनोऽग्निः प्रातरिदानीमिव परेद्यरपि मक्षु शीघ्रं जगम्यात् । आगच्छतु ॥**
+
+*he vibhāvo viśiṣṭaprakāśāgne gṛṇate tvāṃ stuvate yajamānāya | varūtham iti gṛhanāma | varūtham aniṣṭanivārakaṃ gṛhaṃ bhava | he maghavan dhanavann agne maghavadbhyo havirlakṣaṇadhanayuktebhyo yajamānebhyaḥ śarma sukhaṃ yathā bhavati tathā bhava | he agne gṛṇantaṃ stuvantam aṃhasaḥ pāpakāriṇaḥ śatror uruṣya | rakṣa | dhiyāvasuḥ karmaṇā buddhyā vā prāptadhano 'gniḥ prātar idānīm iva paredyur api makṣu śīghraṃ jagamyāt | āgacchatu ||*
+
+**Translation of the bhāṣya:** "O *vibhāvaḥ*, Agni of special radiance, *gṛṇate*, to the sacrificer who praises you: *varūtha* is a name for house — be a house that keeps off undesired things. O *maghavan*, wealthy Agni, *maghavadbhyaḥ*, to the sacrificers endowed with the wealth of oblation, be as happiness (*śarma*). O Agni, protect your praising devotee from *aṃhasaḥ*, the sin-doing enemy. May Agni, *dhiyāvasuḥ*, wealthy by rite or by wisdom, *prātaḥ*, in the morning, as now, on the next day too, *makṣu*, quickly, come (*jagamyāt*)."
+
+**Pratipadārtha** *(p. 436–437)* — "**vibhāvaḥ** — O Agni of special radiance; **gṛṇate** — to the sacrificer who praises you; **varūtham** — a house (a shelter that wards off misfortune); **bhava** — be; **maghavan** — O wealthy Agni; **maghavadbhyaḥ** — to the wealthy (sacrificers who have the wealth of oblation); **śarma** — happiness; **bhava** — be; **agne** — O Agni; **gṛṇantam** — [one who] praises; **aṃhasaḥ** — from the sin-doing enemy; **uruṣya** — protect; **dhiyāvasuḥ** — Agni, rich by pure rites or wisdom; **prātaḥ** — in the morning (as now); **makṣu** — alertly; **jagamyāt** — may he come."
+
+**Bhāvārtha** *(p. 437)* — "O Agni of special radiance, be a shelter for the sacrificer who praises you. O wealthy Agni, be a source of happiness to the sacrificers who have the wealth of the oblation. O Agni, protect those who praise you from the enemy that does harm. May Agni, who is rich by pure rites, come graciously and alertly in the morning too."
+
+**English Translation (the source's own, p. 437)** — "Agni of various rays, be a house to him who praises you; wealthy Agni, be a source of happiness to the wealthy (sacrificers); protect, Agni, your worshippers from sin; may Agni who is rich with righteous deeds, come to us speedily in the morning."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 437**
+- **vibhāvaḥ** — "Agni shining in a special way; its derivation is *viśiṣṭā bhāḥ vibhāḥ*."
+- **varūtham** — "The word *varūtha* is read among the words for house. In ordinary usage it means 'chariot'. The Nirukta (Ni. 3-4 as read [?]) reads twenty-two words beginning with *gṛhanāmāny uttarāṇi* as names of a house. Here the word has the sense 'house, which wards off undesired things'."
+- **dhiyāvasuḥ** — "*Karmaṇā buddhyā vā prāptadhano 'gniḥ*: Agni, who gains complete lordship by action or by intelligence. In the compound-explanation *dhiyā vasu yasya* the loss of the third-case ending is only Vedic."
+- **makṣu jagamyāt** — "*Śīghram āgacchatu*: a verb-form from the root *gam*."
+
+**Vyākaraṇa-prakriyā** *(pp. 437–439 — grammar pages, noted briefly)*
+- **bhava**: *bhū sattāyām*; *loṭ* second singular; *dvyaco 'tas…*; *dyaucotiśrīḥ*… [as printed: *dvyacotastiṅaḥ*]: final lengthening in the Saṃhitā.
+- **varūtham**: *vṛñ varaṇe*; *jyāvṛñbhyām ūthan* (Uṇ. 2-… as read [?]): *ūthan*; *guṇa*; *uraṇ raparaḥ*; *nit*: initial-acute.
+- **gṛṇate**: *gṝ śabde* (here in the sense of praise); *śatṛ*; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ*; *śatṛ* is *jit*-like: *śnābhyastayor ātaḥ*: the *ā* of *śnā* dropped; *ṇatva* for the *n* after *ṛ*; *śaturanumo nadyajādī*: ending acute.
+- **vibhāvaḥ**: *viśiṣṭā bhāḥ vibhāḥ*; *bhā dīptau*; *ato manin…*: *viṭ*; *vibhāḥ asya asti*: *matup*; *māduḥ upadhāyāś ca matoḥ*: *v*; vocative: *matuvasoruḥ sambuddhau*: *ru*; *āmantritasya ca*: *nighāta*.
+- **maghavadbhyaḥ**: *maghavā bahulam* (Pā. 6-4-128): *tṛ* substitute for the end of *maghavan*; the *ṛ* of *tṛ* is *it*-marked and so dropped; *nānubandhakṛtam anekālśatvam* (*paribhāṣā*): the substitute does not replace the whole by reason of the marker; so it is an *anta*-substitute (*alo 'ntyasya*).
+- **uruṣya**: the root *uruṣya* in the sense of protection; *loṭ* second singular; at the head of the pāda: no *nighāta*.
+- **makṣū**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
+- **dhiyāvasuḥ**: bahuvrīhi; the instrumental ending not dropped in the Veda; *sāvekācas tṛtīyādiḥ*: the ending's acute; end-acute; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent stays.
+- **jagamyāt**: *gamḷ gatau*; *liṅ* third singular; *bahulaṃ chandasi*: *śap* → *ślu*; *ślau*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*: *j*; *yāsuṭ*: *yāsuṭ parasmaipadeṣūdāttaḥ…*; *sulopa*; *liṅaḥ salopo 'nantyasya*: the *s* of *yāsuṭ* and the final *s* dropped; *nighāta*. **|| 9 ||**
+
+**Closing note** *(p. 439, printed large)* — "**ಐವತ್ತ ಎಂಟನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-eighth sūkta is ended."
+
+---
+
+### Close of Sūkta 58
+
+**Sūkta 58 (Maṇḍala 1, Eleventh Anuvāka, 9 Riks; ṛṣi Nodhas Gautama; deity Agni; Jagatī in Riks 1–5, Triṣṭubh in Riks 6–9) — printed pp. 411–439, PDF 427–455.** The Riks celebrate Agni: born of force, deathless, he becomes the messenger of the sacrificer and creates the atmosphere (1); undecaying, he mounts the dry wood and roars like a cloud (2); honoured by Rudras and Vasus, he takes the first seat and receives the oblations (3); urged on by the wind he burns the forest, blackening his path (4); flame-weaponed, like a bull he rushes through the forest, and all that stands and moves is afraid (5); the Bhṛgus placed him among men to gain divine birth (6); the seven priests choose him as most worshipful, and the poet asks him for wealth (7); a prayer to the son of strength and of food for uninterrupted happiness and protection from sin (8); and a final prayer that he be a house for the praiser and come quickly in the morning (9). No long narratives; the Special Topics are word-studies.
+
+---
+
+## SŪKTA 59 (printed p. 439 –, PDF 455 –)
+
+**ಐವತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the fifty-ninth sūkta")*
+
+### Sāyaṇa's introduction *(p. 439)*
+
+> **वया इदिति सप्तर्चं द्वितीयं सूक्तं नोधस आर्षं त्रैष्टुभं । वैश्वानरगुणकोऽग्निर्देवता । तथा चानुक्रान्तं । वया इत्सप्त वैश्वानरीयमिति ॥ सूक्तविनियोगो लिङ्गादवगन्तव्यः ॥**
+
+*vayā id iti saptarcaṃ dvitīyaṃ sūktaṃ nodhasa ārṣaṃ traiṣṭubhaṃ | vaiśvānaraguṇako 'gnir devatā | tathā cānukrāntaṃ | vayā it sapta vaiśvānarīyam iti || sūktaviniyogo liṅgād avagantavyaḥ ||*
+
+**Translation:** "'*Vayā it*': a sūkta of seven Riks, the second [of the eleventh anuvāka]; the seer is Nodhas, the metre Triṣṭubh; the deity is Agni in his quality of Vaiśvānara; so the Anukramaṇī: '*vayā it sapta vaiśvānarīyam*'. The ritual use of the sūkta is to be understood from the indications [of the content]."
+
+**Anuvāda (Kannada, p. 439)** — "'*Vayā it*' is the second sūkta in the eleventh anuvāka. It has seven Riks. The seer of this sūkta is Nodhas Gautama; the metre is Triṣṭubh; the deity is Agni named Vaiśvānara. In the Anukramaṇikā: '*vayā it sapta vaiśvānarīyam*'. The ritual use of the sūkta is to be learned from the sense."
+
+**Heading block** *(p. 439)*: Maṇḍala 1 · Anuvāka 11 · Sūkta 59 · Aṣṭaka 1 · Adhyāya 4 · Varga 25 [as read, [?]] · Riks: 7 · Ṛṣi: Nodhas Gautama · Deity: Agni Vaiśvānara · Metre: Triṣṭubh.
+
+---
+
+### Rik 59.1 (p. 439 –, PDF 455 –)
+
+**Saṃhitā-pāṭha** *(p. 439; accents printed, not reproduced)*
+
+> **वया इदग्ने अग्नयस्ते अन्ये त्वे विश्वे अमृता मादयन्ते ।**
+> **वैश्वानर नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ययन्थ ॥ १ ॥**
+
+*vayā id agne agnayas te anye tve viśve amṛtā mādayante |*
+*vaiśvānara nābhir asi kṣitīnāṃ sthūṇeva janāṁ upamid yayantha || 1 ||*
+
+*(The Pada, on p. 440, is given with the next batch.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–58 COMPLETE (printed pp. 1–439; Sūkta 58 ends p. 439 with its closing line). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 (end of Volume 5; Pariśiṣṭa from p. 531 NOT to be translated) — 58 DONE. Sūkta 59 (*vayā id agne*, 7 Riks, ṛṣi Nodhas Gautama, Agni Vaiśvānara, Triṣṭubh; Eleventh Anuvāka, second sūkta) in progress: introduction, heading and the Saṃhitā of Rik 59.1 written (printed p. 439, PDF 455). The Pada is on p. 440 (PDF 456). Contents table: Sūkta 60 ≈ p. 461, 61 ≈ 478.**
+
+**Next task:** continue at printed p. 440 (PDF 456) with "**Rik 59.1, continued**" (Pada, bhāṣya, …), Riks 2–7, close of Sūkta 59; then Sūktas 60 and 61 (confirm starts); after Sūkta 61 Volume 5 is COMPLETE — update CLAUDE.md (Volume 6 set-up when asked). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 58 intro numerals [?], 58.2 Saṃhitā "tṛṣu cyavāno" [?], 58.4 "vātaseṣu" [?]; Uṇādi/Pāṇini/Nirukta numerals [?].
