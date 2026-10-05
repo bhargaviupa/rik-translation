@@ -1,0 +1,16 @@
+/* Volume 1 specifics */
+.roman-body { page: roman; }
+.roman-body h2.chapter { page-break-before: always; page: roman; }
+h2.chapter { counter-reset: footnote; page-break-before: always; string-set: sukhead attr(data-short);
+  text-align: center; font-size: 14.5pt; font-weight: 400; margin: .9in 0 .3in; line-height: 1.35; }
+h2.chapter::after { content: ""; display:block; width: 1.4in; margin: .2in auto 0; border-top: .6pt solid #777; }
+h1.part.first { page: chapter-first; }
+h1.part { page-break-before: right; page-break-after: always; text-align:center; padding-top: 2.4in; font-size: 21pt; font-weight:400; line-height:1.4; string-set: sukhead attr(id); }
+h3 { font-size: 11pt; border-bottom: none; margin: 1.3em 0 .4em; }
+.pgmark { text-align: right; font-size: 7.5pt; font-style: italic; color: #8a8a8a; margin: .5em 0 .15em; letter-spacing: .03em; }
+.edition-note { border: .6pt solid #999; background: #f6f3ea; padding: .5em .8em; margin: 1em 0; font-size: 9.5pt; text-align: left; }
+.toc ul.chap { columns: 1; }
+.toc li.ch { padding-left: 1.2em; font-size: 9pt; margin: .12em 0; }
+.toc li.ch a::after { content: leader('.') target-counter(attr(href), page); }
+.toc li.ch.rm a::after { content: leader('.') target-counter(attr(href), page, lower-roman); }
+.toc li.su a::after { content: leader('. ') target-counter(attr(href), page); }
