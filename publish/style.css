@@ -80,5 +80,5 @@ h1.appendix { page-break-before: right; font-size: 17pt; font-weight:400; text-a
 .toc ul.riks li { font-size: 8.5pt; margin: 0; break-inside: avoid; }
 .toc ul.riks li a::after { content: leader('.') target-counter(attr(href), page); }
 
-.portrait img.pic { height: 5.15in; width: auto; max-width: 100%; }
+.portrait img.pic { height: 5in; width: auto; max-width: 100%; }
 .portrait .cap2 { margin-top: .15in; }
