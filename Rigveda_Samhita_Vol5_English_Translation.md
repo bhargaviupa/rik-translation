@@ -8311,8 +8311,178 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Heading block of Sūkta 60 *(p. 462, PDF 478)*
+
+Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga 26 [as read, [?]] · Riks: 5 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Triṣṭubh.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–59 COMPLETE (printed pp. 1–461; Sūkta 59 ends on p. 461 with only the last grammar paragraph). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58 and 59 DONE. Sūkta 60 (*vahniṃ yaśasam*, 5 Riks, ṛṣi Nodhas Gautama, Agni, Triṣṭubh; Eleventh Anuvāka, third sūkta) in progress: title, Sāyaṇa's introduction and anuvāda written (printed p. 461, PDF 477). Heading block and Rik 60.1 begin on p. 462 (PDF 478) — NOT yet written. Contents table: Sūkta 61 ≈ p. 478.**
+### Rik 60.1 (pp. 462–465, PDF 478–481)
 
-**Next task:** continue at printed p. 462 (PDF 478) with the heading block and Rik 60.1; Riks 2–5; close of Sūkta 60; then Sūkta 61 (*asmā id u*; starts ≈ p. 478, confirm) — after which Volume 5 is COMPLETE: then update CLAUDE.md (Volume 6 set-up when asked; Pariśiṣṭa from p. 531 is not to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 58–59 intro/Āśvalāyana/Nirukta numerals [?]; 59.2, 59.6 crowded passages (the long Vaiśvānara discussion in 59.6 given in gist; its Nirukta quotation partly crowded); 59.6 Saṃhitā "bharet" vs Pada "bhet" [?]; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+
+> **वह्निं यशसं विदथस्य केतुं सुप्राव्यं दूतं सद्योअर्थम् ।**
+> **द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा ॥ १ ॥**
+
+*vahniṃ yaśasaṃ vidathasya ketuṃ suprāvyaṃ dūtaṃ sadyoartham |*
+*dvijanmānaṃ rayim iva praśastaṃ rātiṃ bharad bhṛgave mātariśvā || 1 ||*
+
+**Pada-pāṭha** *(p. 462)*
+
+> वह्निम् । यशसम् । विदथस्य । केतुम् । सुऽप्राव्यम् । दूतम् । सद्यःऽअर्थम् ।
+> द्विऽजन्मानम् । रयिम्ऽइव । प्रऽशस्तम् । रातिम् । भरत् । भृगवे । मातरिश्वा ॥ १ ॥
+
+*vahnim | yaśasam | vidathasya | ketum | su-prāvyam | dūtam | sadyaḥ-artham |*
+*dvi-janmānam | rayim-iva | pra-śastam | rātim | bharat | bhṛgave | mātariśvā || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 462–463)*
+
+> **वह्निं हविषां वोढारं यशसं यशस्विनं विदथस्य केतुं यज्ञस्य प्रकाशयितारं सुप्राव्यं सुष्ठु प्रकर्षेण रक्षितारं दूतं देवैर्हविर्वहनलक्षणे दूत्ये नियुक्तं । सद्योअर्थं । यदा हवींषि जुह्वति सद्यस्तदानीमेव हविर्भिः सह देवान् गन्तारं । यद्वा । सद्योअर्थमरणं गमनं यस्य तं । द्विजन्मानं । द्वयोर्द्यावापृथिव्योररण्योर्वा जायमानं रयिमिव धनमिव प्रशस्तं प्रख्यातं । एवंभूतमग्निं मातरिश्वा वायुर्भृगव एतत्संज्ञकाय महर्षये रातिं भरत् । मित्रमहरत् । अकरोदित्यर्थः ॥**
+
+*vahniṃ haviṣāṃ voḍhāraṃ yaśasaṃ yaśasvinaṃ vidathasya ketuṃ yajñasya prakāśayitāraṃ suprāvyaṃ suṣṭhu prakarṣeṇa rakṣitāraṃ dūtaṃ devair havirvahanalakṣaṇe dautye niyuktaṃ | sadyoartham | yadā havīṃṣi juhvati sadyas tadānīm eva havirbhiḥ saha devān gantāraṃ | yadvā | sadyoartham araṇaṃ gamanaṃ yasya taṃ | dvijanmānaṃ | dvayor dyāvāpṛthivyor araṇyor vā jāyamānaṃ rayim iva dhanam iva praśastaṃ prakhyātaṃ | evaṃbhūtam agniṃ mātariśvā vāyur bhṛgava etatsaṃjñakāya maharṣaye rātiṃ bharat | mitram aharat | akarod ity arthaḥ ||*
+
+*(The tail, p. 463: on *vahniṃ* (*vahi-śri-yu-sru-glā-hā-tvaribhyo niḥ*, Uṇ. 4-… as read [?]), *yaśasam* (*yaśasvinam*, the loss of *vin* in the Veda), *suprāvyam* (*su-pra-av*, *suprāvīḥ*, Uṇ. 3-… *ī*), *sadyoartham* (*ṛ gatau*, *than*), *rātim* (*rātiḥ* = friend, *āpastamba-gṛhya* 7-… [?]: "*rātinā saṃbhāṣya*" = with a friend; or "*rātiḥ putraḥ*" some say; supporting mantra: "*rātiṃ bhṛgūṇām uśijaṃ kavikratum*", Ṛg. 3-2-4 [?]), *mātariśvā* (*mātari antarikṣe śvasiti*; *śvann ukṣann…* Uṇ. 1-… [?]; or *aś gatidīptyādāneṣu*, *dvan*) — Nirukta 7-… [?] is cited for the last word: "*mātā antarikṣaṃ śvasitir atra gatikarmā*".)*
+
+**Translation of the bhāṣya:** "*Vahnim*, the bearer of oblations; *yaśasam*, glorious; *vidathasya ketum*, the illuminator of the sacrifice; *suprāvyam*, the excellent protector; *dūtam*, the messenger appointed by the gods to the task of carrying the oblations; *sadyoartham*: as soon as the oblations are offered, at that very moment he goes with the oblations to the gods — or, one whose going is immediate; *dvijanmānam*, born of two, of heaven and earth or of the two fire-sticks; *rayim iva praśastam*, famed like wealth. Such Agni Mātariśvan, the wind, *bharat*, brought as a friend (*rātim*) to Bhṛgu, the sage of that name — made him a friend, is the sense."
+
+**Pratipadārtha** *(p. 463)* — "**vahnim** — the bearer of oblations; **yaśasam** — the famed; **vidathasya** — of the sacrifice; **ketum** — the illuminator; **suprāvyam** — the good protector; **dūtam** — the messenger who carries oblations to the gods; **sadyoartham** — who immediately carries oblations to the gods; **dvijanmānam** — born of heaven and earth, or of the two fire-sticks; **rayim iva** — like wealth; **praśastam** — priceless; Agni; **mātariśvā** — the wind; **bhṛgave** — to the sage Bhṛgu; **rātim** — as a friend; **bharat** — brought (made a friend)."
+
+**Bhāvārtha** *(p. 463)* — "The wind called Mātariśvan brought as a friend to the sage Bhṛgu that Agni — the carrier of oblations, famous, illuminator of sacrifice, good protector, messenger who carries the oblations to the gods at once, born of heaven and earth or of the two fire-sticks, and priceless like wealth."
+
+**English Translation (the source's own, p. 464)** — "Matariswan brought as a friend to Bhrigu the celebrated Vanhi, (Agni) the illuminator of sacrifices, the careful protector (of his worshippers) the swift-coursing messenger (of the gods) the offspring of two parents, highly spoken of like wealth."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 464** — **yaśasam**: "though there is no suffix giving the sense 'having glory', the sense *yaśasvinam* ('glorious') is to be understood here." **ketum**: "*yajñaṃ prakāśayitā agniḥ*: since *ketu* has the sense of 'banner', Agni is the banner-support of the sacrifice." **sadyoartham**: "*sadyaḥ arthaṃ araṇaṃ gamanaṃ yasya taṃ*, or *sadyo artham yadā havīṃṣi juhvati sadyas tadānīm eva haviḥbhiḥ saha devān gantāraṃ*: explained in two ways: one who at once carries the oblation to the gods, or one who always moves with the oblation-materials." **dvijanmānam**: "born of heaven and earth, or of two fire-sticks." **bhṛgave**: "to the great sage named Bhṛgu." **rātiṃ bharat**: "made a friend. In the place '*rātinā saṃbhāṣya*' (Āp. Gṛ. 7-… as read [?]) the sages of the Kapardin line gave *rāti* the sense 'friend'; others give *rāti* the sense 'son'. A mantra suggesting this sense is in the Ṛgveda: '*rātiṃ bhṛgūṇām uśijaṃ kavikratum*' (Ṛ. Saṃ. 3-2-4 [?]) — meaning that Uśij, [who had] the name of a son in the Bhṛgu line [?]."
+
+> **रातिं भृगूणामुशिजं कविक्रतुम् ।** *(Ṛ. Saṃ. 3-2-4 as read [?])*
+
+*rātiṃ bhṛgūṇām uśijaṃ kavikratum |* — mine and tentative: "the friend [or: gift] of the Bhṛgus, the Uśij, of poet's wisdom." **mātariśvā**: "*sarvanirmāṇahetutvān mātā antarikṣaṃ śvasitir atra gatikarmā — mātari antarikṣe śvasiti gacchatīti mātariśvā*: one who moves in the atmosphere, namely the wind."
+
+**Vyākaraṇa-prakriyā** *(pp. 464–465 — noted briefly)* — **vahnim**: *vaha prāpaṇe*; *vahiśriyuśrugṛlāhātvaribhyo niḥ* (Uṇ. 4-… as read [?]): *ni*; since *nit* is imposed by *atideśa* (*kit*-like), *ñnityādir nityam*: initial-acute; accusative. **yaśasam**: *yaśaḥ asya asti iti yaśasvī*; *asmāyāmedhāsrajo vini* (Pā. 5-2-121): *vini*; *vin* dropped (*luk*) in the Veda; by *vyatyaya* end-acute; or *arśa ādibhyo 'c* (Pā. 5-2-127): *ac*; *citaḥ*: end-acute. **suprāvyam**: *su-pra* before *av*; *avitṛstṛtantribhya īḥ* (Uṇ. 3-… as read [?]): *ī*; *suprāvīḥ*; accusative singular; *vā chandasi*: optional *pūrvarūpa*; *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita*. **sadyoartham**: *ṛ gatau*; *ushikuṣigārtibhyas than* (Uṇ. 2-… as read [?]): *than*; *guṇa*; *sadyaḥ arthaḥ yasya*: bahuvrīhi: first-member accent; *tatpuruṣe tulyārtha…* would give the avyaya-first accent. **mātariśvā**: *śvann ukṣann…* (Uṇ. 1-… as read [?]) as irregular; or *aś* with *dvan*; *ḍit*: loss of *ṭi*; *mātariśvan*. **bharat**: *hṛ haraṇe*; *laṅ*; *itaś ca*; *śap*; *guṇa*; no *aṭ*; *hṛgrahor bhaś chandasi*: *bh*; *nighāta*. **|| 1 ||**
+
+---
+
+### Rik 60.2 (pp. 466–468, PDF 482–484)
+
+**Saṃhitā-pāṭha** *(p. 466)*
+
+> **अस्य शासुरुभयासः सचन्ते हविष्मन्त उशिजो ये च मर्ताः ।**
+> **दिवश्चित्पूर्वो न्यसादि होताऽपृच्छ्यो विश्पतिर्विक्षु वेधाः ॥ २ ॥**
+
+*asya śāsur ubhayāsaḥ sacante haviṣmanta uśijo ye ca martāḥ |*
+*divaś cit pūrvo nyasādi hotāpṛcchyo viśpatir vikṣu vedhāḥ || 2 ||*
+
+**Pada-pāṭha** *(p. 466)*
+
+> अस्य । शासुः । उभयासः । सचन्ते । हविष्मन्तः । उशिजः । ये । च । मर्ताः ।
+> दिवः । चित् । पूर्वः । नि । असादि । होता । आऽपृच्छ्यः । विश्पतिः । विक्षु । वेधाः ॥ २ ॥
+
+*asya | śāsuḥ | ubhayāsaḥ | sacante | haviṣmantaḥ | uśijaḥ | ye | ca | martāḥ |*
+*divaḥ | cit | pūrvaḥ | ni | asādi | hotā | ā-pṛcchyaḥ | viś-patiḥ | vikṣu | vedhāḥ || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 466)*
+
+> **शासुः शासितुरस्याग्नेरुभयासः उभये ऽपि देवा मनुष्याश्च । यद्वा । स्तुतिभिः स्तोतारो यज्ञैर्यजमानाश्चेमग्निं शासितारं सचन्ते । सेवन्ते । उशिजः कामयमाना देवा हविष्मन्तो हविषा युक्ता ये च मर्ता मरणधर्माणो यजमानाः । यद्वा । उशिज इति मेधाविनाम । उशिजो मेधाविनः स्तोतारो हविष्मन्तो हविर्युक्ता मर्ता यजमानाः । किंचायं होता होमनिष्पादकोऽग्निर्दिवश्चित् आदित्यादपि पूर्व उषःसु वर्तमानो भूत्वाग्निहोत्रहोमार्थं विक्षु यजमानेषु न्यसादि । अध्वर्युणाग्न्यायतने न्यधायि । स्थाप्यते । कीदृशो होता । आपृच्छ्य आ प्रष्टव्यः । पूज्य इत्यर्थः । विश्पतिर्विशां प्रजानां पालयिता वेधाः । विधाताभिमतफलस्य कर्ता ॥**
+
+*śāsuḥ śāsitur asyāgner ubhayāsaḥ ubhaye 'pi devā manuṣyāś ca | yadvā | stutibhiḥ stotāro yajñair yajamānāś cemam agniṃ śāsitāraṃ sacante | sevante | uśijaḥ kāmayamānā devā haviṣmanto haviṣā yuktā ye ca martā maraṇadharmāṇo yajamānāḥ | yadvā | uśija iti medhāvināma | uśijo medhāvinaḥ stotāro haviṣmanto havir yuktā martā yajamānāḥ | kiṃcāyaṃ hotā homaniṣpādako 'gnir divaś cit ādityād api pūrva uṣaḥsu vartamāno bhūtvāgnihotrahomārthaṃ vikṣu yajamāneṣu nyasādi | adhvaryuṇāgny-āyatane nyadhāyi | sthāpyate | kīdṛśo hotā | āpṛcchya ā praṣṭavyaḥ | pūjya ity arthaḥ | viśpatir viśāṃ prajānāṃ pālayitā vedhāḥ | vidhātābhimataphalasya kartā ||*
+
+*(The tail: on *śāsuḥ* (*śāsu anuśiṣṭau*, *tṛn*, *śaṃsi-śāsi-…*, Uṇ. 2-… as read [?]; loss of *iṭ*), *uśijaḥ* (*vaś kāntau*, *iji*, Uṇ. 2-… as read [?]; *grahijyādinā*: *saṃprasāraṇa*), *martāḥ* (*mṛñ prāṇatyāge*, *tan*, Uṇ.: *asihasimṛgrinvāpāṃ…*), *āpṛcchyaḥ* (*prachchha jñīpsāyām*, *kyap* in the Vedic: *āṅ-pūrvāt*, *niṣkarkyetyādau*, Pā. 3-1-123 as read [?]), *viśpatiḥ*, *vedhāḥ* — characterized.)*
+
+**Translation of the bhāṣya:** "Of this *śāsuḥ*, ruler, Agni — *ubhayāsaḥ*, both [kinds], gods and men — *sacante*, serve; or: the praisers with praises and the sacrificers with sacrifices serve this ruling Agni. *Uśijaḥ*, the gods who desire, and *haviṣmantaḥ*, those who are with oblations, the mortal sacrificers; or *uśij* is a word for the wise, the wise praisers, mortals with oblation, the sacrificers. Further, this *hotā*, accomplisher of the oblation, Agni, being present in the dawns before the sun even, *nyasādi*, is set among the sacrificers by the Adhvaryu on the fire-place for the Agnihotra offering. What kind of hotṛ? *Āpṛcchyaḥ*, to be consulted, i.e. honoured; *viśpatiḥ*, protector of the people; *vedhāḥ*, the creator, who accomplishes the desired fruit."
+
+**Pratipadārtha** *(p. 467)* — "**uśijaḥ** — the gods who are desired [for help], or the wise praisers; **haviṣmantaḥ** — endowed with oblation; **ye ca martāḥ** — the mortal sacrificers; **ubhayāsaḥ** — both groups (gods and men, or praisers and sacrificers); **śāsuḥ** — [of the ruler of all]; **asya** — this Agni; **sacante** — serve; **āpṛcchyaḥ** — honoured; **viśpatiḥ** — protector of the people; **vedhāḥ** — giver of desired fruits; **hotā** — accomplisher of the oblation; **agniḥ** — Agni; **divaḥ cit** — before the rising of the sun; **pūrvaḥ** — [even] earlier (at dawn); **vikṣu** — among the sacrificers; **nyasādi** — is placed by the Adhvaryu in the fire-house."
+
+**Bhāvārtha** *(p. 467)* — "The gods desired by men, and the oblation-bearing men — both groups — serve this ruling Agni. Honoured, protector of the people, giver of desired fruits and accomplisher of the oblation, Agni is established on the altar in the fire-house by the Adhvaryu at the time of dawn, before sunrise."
+
+**English Translation (the source's own, p. 467)** — "Both (gods and men) are the worshippers of this ruler; those who are to be desired (gods) and the mortals bearing oblations (are also worshippers); for this adorable imvoker [sic] (of the gods), the protector of people and distributer of desired-for objects, was placed by the officiating priests (upon the altar), bofore [sic] the Sun was in the sky."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 467–468** — **ubhayāsaḥ**: "here gods and men are praising Agni simultaneously; or the praisers by hymns and the sacrificers by sacrifices will satisfy Agni." **uśijaḥ**: "the gods who desire everything (oblations); the word *uśij* is read in the Nirukta as 'wise' (Ni. 3-19 as read [?]: *medhāvi nāmāny uttarāṇi caturviṃśatiḥ*) — so also 'men who in sacrifices praise in many ways as wise ones'." **divaś cit pūrvaḥ**: "that the Adhvaryu and other priests establish the fire that gives delight to the new [day], before the time of the sun's rising, on the sacrificial altar." **viśpatiḥ**: "*viśāṃ patiḥ*: the protector of subjects." **vedhāḥ**: "the giver of the desired fruit to the Creator (Brahmā)."
+
+**Vyākaraṇa-prakriyā** *(p. 468 — noted briefly)* — **śāsuḥ**: *śāsu anuśiṣṭau*; *tṛn tṛc* (Uṇ. 2-… as read [?]): *tṛn*; no *iṭ*; genitive: *ṛta ut*; loss of *t* in the Veda; *tṛn* is *nit*: initial-acute. **ubhayāsaḥ**: *ubhayor anyatra*: *aya*-substitution for *ubha*; *ājjaserasuk*; *ru*, *visarga*. **uśijaḥ**: *vaś kāntau*; *vaśaḥ kit* (Uṇ. 3-… as read [?]): *iji*; *grahijyā…*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*; suffix-accent: *i* acute. **martāḥ**: *mṛñ prāṇatyāge*; *asihasimṛgrinvāvi…*: *tan*; *guṇa*; initial-acute. **āpṛcchyaḥ**: *prachchha jñīpsāyām*; *āṅ* before; *chandasi niṣṭarkya…* (Pā. 3-1-123): *kyap*; *grahijyā…*: *saṃprasāraṇa* of *r*; *kyap* is *pit*, anudātta: the root's accent stays. **viśpatiḥ**: *patyāv aiśvaryye*: *pūrvapadaprakṛtisvara* barred; *pati* ends in *ṇi*… *pārādiś chandasi bahulam*: initial-acute of the last member. **vikṣu**: locative plural; *sāvekācas tṛtīyādiḥ*. **|| 2 ||**
+
+---
+
+### Rik 60.3 (pp. 469–472, PDF 485–488)
+
+**Saṃhitā-pāṭha** *(p. 469)*
+
+> **तं नव्यसी हृद आ जायमानमस्मत्सुकीर्तिर्मधुजिह्वमश्याः ।**
+> **यमृत्विजो वृजने मानुषासः प्रयस्वन्त आयवो जीजनन्त ॥ ३ ॥**
+
+*taṃ navyasī hṛda ā jāyamānam asmat sukīrtir madhujihvam aśyāḥ |*
+*yam ṛtvijo vṛjane mānuṣāsaḥ prayasvanta āyavo jījananta || 3 ||*
+
+**Pada-pāṭha** *(p. 469)*
+
+> तम् । नव्यसी । हृदः । आ । जायमानम् । अस्मत् । सुऽकीर्तिः । मधुऽजिह्वम् । अश्याः ।
+> यम् । ऋत्विजः । वृजने । मानुषासः । प्रयस्वन्तः । आयवः । जीजनन्त ॥ ३ ॥
+
+*tam | navyasī | hṛdaḥ | ā | jāyamānam | asmat | su-kīrtiḥ | madhu-jihvam | aśyāḥ |*
+*yam | ṛtvijaḥ | vṛjane | mānuṣāsaḥ | prayasvantaḥ | āyavaḥ | jījananta || 3 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 469)*
+
+> **नव्यसी नवतरा सुकीर्तिः सुष्ठु कीर्तयित्र्यस्मात् अस्माकं स्तुतिर्हृदो हृदयवर्त्तिनः शात्प्राणाज्जायमानमुत्पद्यमानं । अग्निर्हि वायोरुत्पद्यते वायुश्च प्राण एव । यः प्राणः स वायुरित्यादिना ब्राह्मणे । तं मधुजिह्वं मादयितृज्वालं । एवंभूतं तमग्निमाश्याः । आभिमुख्येन व्याप्नोतु । वृजने संग्रामे प्राप्ते सत्यायवो मनुष्या यमग्निं जीजनन्त यज्ञार्थमुदपादयन् । कीदृशा मनुष्याः । ऋत्विजः ऋतौ काले यष्टारो मानुषासो मनोः पुत्राः प्रयस्वन्तो हविर्लक्षणान्नोपेताः ॥**
+
+*navyasī navatarā sukīrtiḥ suṣṭhu kīrtayitry asmāt asmākaṃ stutir hṛdo hṛdayavarttinaḥ śāt prāṇāj jāyamānam utpadyamānaṃ | agnir hi vāyor utpadyate vāyuś ca prāṇa eva | yaḥ prāṇaḥ sa vāyur ity ādinā brāhmaṇe | taṃ madhujihvaṃ mādayitṛjvālaṃ | evaṃbhūtaṃ tam agnim aśyāḥ | ābhimukhyena vyāpnotu | vṛjane saṃgrāme prāpte saty āyavo manuṣyā yam agniṃ jījananta yajñārtham udapādayan | kīdṛśā manuṣyāḥ | ṛtvijaḥ ṛtau kāle yaṣṭāro mānuṣāso manoḥ putrāḥ prayasvanto havirlakṣaṇānnopetāḥ ||*
+
+**Translation of the bhāṣya:** "*Navyasī*, our newest, *sukīrtiḥ*, well-praising hymn *asmat*, of ours, *aśyāḥ*, may it reach and pervade [turning to him] that Agni who is *jāyamānam*, being born from *hṛdaḥ*, the life-breath that abides in the heart — for Agni is born of the wind, and the wind is life-breath: 'what is the life-breath is the wind', in the Brāhmaṇa — *madhujihvam*, sweet-tongued, whose flame gladdens. *Vṛjane*, when battle has come, the *āyavaḥ*, men, *yam jījananta*, begot him for the sacrifice. What men? *Ṛtvijaḥ*, those who sacrifice at the right time; *mānuṣāsaḥ*, sons of Manu; *prayasvantaḥ*, equipped with food in the form of oblation."
+
+**Pratipadārtha** *(p. 470)* — "**navyasī** — the newest; **sukīrtiḥ** — the well-praising; **asmat** — our hymn; **hṛdaḥ** — born of the life-breath in the heart; **jāyamānam** — Agni being born; **madhujihvam** — sweet-flamed; **yam** — whom; **vṛjane** — when battle is at hand; **ṛtvijaḥ** — sacrificers at all times; **mānuṣāsaḥ** — sons of Manu; **prayasvantaḥ** — with oblation-food; **āyavaḥ** — men; **jījananta** — beget (for the sacrifice); **tam** — that Agni; **ā aśyāḥ** — may [the hymn] reach and join."
+
+**Bhāvārtha** *(p. 470)* — "May our newest and well-praising hymn go towards that Agni, born of the life-breath in the heart and sweet-flamed, whom, when battle is at hand, the sacrificers — sons of Manu, bearing oblation-food — beget for the sacrifice."
+
+**English Translation (the source's own, p. 470)** — "May our newest hymn reach that Agni, who is sweet-tongued, and is to be engendered in the heart; whom the decendants [sic] of Manu, sacrificing and presenting oblations to him, beget in the time of battle."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 470–471** — **sukīrtiḥ**: "*suṣṭhu kīrtayitrī*: a hymn that conveys fame in a praiseworthy manner." **hṛdaḥ**: "though the word *hṛd* means only 'heart', here by *lakṣaṇā* the life-breath inside the heart is meant. That Agni is born of the life-breath has been established by the authority *agnir hi vāyor utpadyate vāyuś ca prāṇa eva yaḥ prāṇasya vāyuḥ*." **madhujihvam**: "the tongue that tastes everything — i.e. flame; Agni is the one with such flame." **ṛtvijaḥ**: "*ṛtau kāle yaṣṭāraḥ*: those who, without passing the time, carry out rites like the agnihotra, offering oblations." **mānuṣāsaḥ**: "*manoḥ putrāḥ*: men."
+
+**Vyākaraṇa-prakriyā** *(pp. 471–472 — noted briefly)* — **navyasī**: *nava*; *dvivacanavibhajyopapade tarabīyasunau*: *īyasun*; loss of *a*; the *u* and *n* are *it*; feminine *ugitaś ca*: *ṅīp* (*jīp*, *pit*: anudātta); *īyasun* is *nit*: initial-acute; the *ī* lost in the Saṃhitā by Vedic licence. **hṛdaḥ**: *hṛdaya*; *pady-ān-nas-hṛd…* (Pā. 6-1-63): *hṛd* in the fifth singular; *ūḍidam…*: ending acute. **jāyamānam**: *janī prādurbhāve*; *śānac*; *divādibhyaḥ śyan*; *jñājanor jā*: *jā*; *āne muk*: *muk*; *śyan* is *nit*: initial-acute; accusative. **asmat**: *supāṃ suluk*: *luk* of *ām*. **aśyāḥ**: *aśū vyāptau*; *liṅ* second singular *sip*; *itaś ca*: loss of *i*; *bahulaṃ chandasi*: *śap* dropped; *vyatyayo bahulam*: *ātmanepada*; *yāsuṭ*; *liṅaḥ salopo 'nantyasya*: loss of the *s*; *nighāta*. **jījananta**: *janī prādurbhāve*; *hetumati ca*: *ṇic*; *luṅ*, *jha*; *ṇiśridrusrubhyaḥ kartari caṅ*: *caṅ*; doubling; *sanvad bhāva*; *dīrgho laghoḥ*: lengthening; *nighāta*; *abhyastānām ādiḥ*: initial-acute. **|| 3 ||**
+
+---
+
+### Rik 60.4 (pp. 472–475, PDF 488–491)
+
+**Saṃhitā-pāṭha** *(p. 472)*
+
+> **उशिक्पावकोऽवसुर्मानुषेषु वरेण्यो होताधायि विक्षु ।**
+> **दमूना गृहपतिर्दम आँ अग्निर्भुवद्रयिपती रयीणाम् ॥ ४ ॥**
+
+*(the print's Saṃhitā: "उशिक्पावको वसुर्मानुषेषु वरेण्यो होताधायि विक्षु । दमूना गृहपतिर्दम आ अग्निर्भुवद्रयिपती रयीणाम्")* — *uśik pāvako vasur mānuṣeṣu vareṇyo hotādhāyi vikṣu |*
+*damūnā gṛhapatir dama ā agnir bhuvad rayipatī rayīṇām || 4 ||*
+
+**Pada-pāṭha** *(p. 472)*
+
+> उशिक् । पावकः । वसुः । मानुषेषु । वरेण्यः । होता । अधायि । विक्षु ।
+> दमूनाः । गृहऽपतिः । दमे । आ । अग्निः । भुवत् । रयिऽपतिः । रयीणाम् ॥ ४ ॥
+
+*uśik | pāvakaḥ | vasuḥ | mānuṣeṣu | vareṇyaḥ | hotā | adhāyi | vikṣu |*
+*damūnāḥ | gṛha-patiḥ | dame | ā | agniḥ | bhuvat | rayi-patiḥ | rayīṇām || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 472)*
+
+> **उशिक् कामयमानः पावकः शोधको वसुर्निवासयिता वरेण्यो वरणशीलः एवंभूतो होताग्निर्विक्षु यज्ञगृहं प्रविष्टेषु मानुषेषु यजमानेष्वधायि । स्थाप्यते । स चाग्निर्दमूना रक्षसां दमनकरेण मनसा युक्तो गृहपतिर्गृहाणां पालयिता च सन्दमे यज्ञगृहे रयिपतिर्धनाधिपतिरा भुवत् । आ समन्ताद्भवति । न केवलमेकस्य रयेरपि तु सर्वेषामित्याह रयीणामिति । यद्वा । रयीणां मध्ये उत्कृष्टं यद्धनं तस्य पतिरित्यर्थः ॥**
+
+*uśik kāmayamānaḥ pāvakaḥ śodhako vasur nivāsayitā vareṇyo varaṇaśīlaḥ evaṃbhūto hotāgnir vikṣu yajñagṛhaṃ praviṣṭeṣu mānuṣeṣu yajamāneṣv adhāyi | sthāpyate | sa cāgnir damūnā rakṣasāṃ damanakareṇa manasā yukto gṛhapatir gṛhāṇāṃ pālayitā ca san dame yajñagṛhe rayipatir dhanādhipatir ā bhuvat | ā samantād bhavati | na kevalam ekasya rayer api tu sarveṣām ity āha rayīṇām iti | yadvā | rayīṇāṃ madhye utkṛṣṭaṃ yad dhanaṃ tasya patir ity arthaḥ ||*
+
+*(The tail, p. 472 foot: on *uśik* (*vaś kāntau*, *kvip*…), *damūnāḥ* (*dama upaśame*, *ūnasi*, Uṇ. 4-… as read [?]; Yāska: "*damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt*", Ni. 4-4 [?]), *gṛhapatiḥ*, *dame*, *bhuvat* (*leṭ*, *aṭ*), *rayipatiḥ* — characterized.)*
+
+**Translation of the bhāṣya:** "*Uśik*, desiring; *pāvakaḥ*, purifier; *vasuḥ*, the giver of dwelling; *vareṇyaḥ*, the choice: such Agni, the hotṛ, *adhāyi*, is established *vikṣu mānuṣeṣu*, among the people, the sacrificers who have entered the sacrificial house. May that Agni, *damūnāḥ*, with a mind that tames the Rākṣasas, *gṛhapatiḥ*, protector of homes, in the *dame*, sacrificial house, be *rayipatiḥ*, lord of wealth, completely (*ā bhuvat*) — not of one wealth only but *rayīṇām*, of all kinds; or: lord of the best wealth among the wealths."
+
+**Pratipadārtha** *(p. 473)* — "**uśik** — the beloved; **pāvakaḥ** — the purifier; **vasuḥ** — the giver of dwelling; **vareṇyaḥ** — the best; **hotā** — Agni; **vikṣu** — in the sacrificial house; **mānuṣeṣu** — among the sacrificers; **adhāyi** — is established (on the altar); **agniḥ** — that Agni; **damūnāḥ** — with a mind that destroys enemies; **gṛhapatiḥ** — protector of the house; **dame** — in the sacrificial house; **rayīṇām** — among the glorious possessions; **rayipatiḥ** — [being] the lord of the best wealth; **ā bhuvat** — may he be."
+
+**Bhāvārtha** *(p. 473)* — "Beloved, purifier, giver of dwelling and best, Agni is established among the sacrificers on the altar in the sacrificial house. May that Agni, with a mind that destroys enemies, protector of the house, be lord of the best wealth among the glorious possessions in the sacrificial house."
+
+**English Translation (the source's own, p. 473)** — "Agni, the desirable, the purifying, the giver of dwellings, the excellent, the invoker (of the gods) has been placed (upon the altar) among men; may he be determined upon subduing (our foes) the protector of our dwellings, and the lord of treasures in the sacrificial chamber."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 473** — **uśik**: "*kāmayamānaḥ*: one who specially wishes [for the oblation]." **damūnāḥ**: "from the root *dama upaśame*: *damayati rākṣasādikam iti damūnāḥ*, one with a mind that destroys Rākṣasas; or, by the Nirukta (Ni. 4-4 [?]): *damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt* — it is explained also as 'one whose mind is on the house' (*dama* is a name of house)." **rayipatiḥ rayīṇām**: "*rayīṇāṃ madhye utkṛṣṭaṃ yad dhanaṃ tasya patiḥ*: here *rayi* means wealth; he is not lord of wealth alone: that he has mastery over all kinds of lordship in the world is shown by the derivation as above." **ā bhuvat**: "*āsamantāt bhavati*: may he be wholly capable."
+
+**Vyākaraṇa-prakriyā** *(pp. 474– — noted briefly)* — **uśik**: *vaś kāntau*; *kvip*; *grahijyā…*: *saṃprasāraṇa*; *kvip* gives the loss of the suffix; *cutva*, *kutva*. **damūnāḥ**: *dama upaśame*; *dameḥ ūnasiḥ*…(Uṇ. 4-… as read [?]): *ūnasi*; *nit*: initial-acute? — the print gives "*asun*"-type end-acute; I read it as *ñnityādir nityam*, [?]. **bhuvat**: *bhū sattāyām*; *leṭ*; *leṭo 'ṭāṭau*: *aṭ*; *itaś ca lopaḥ parasmaipadeṣu*; *bhūsuvos tiṅi*: no *guṇa*; *uvaṅ*. **rayipatiḥ**: *parādiś chandasi bahulam*: initial-acute of the last member. **rayīṇām**: *nāmanyatarasyām*: acute on *nām*. *(The remaining grammar on this Rik is on p. 474 (PDF 490) and is noted with Rik 5's text below.)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–59 COMPLETE (printed pp. 1–461). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58, 59 DONE. Sūkta 60 (*vahniṃ yaśasam*, 5 Riks, Agni, Triṣṭubh) in progress: heading, Riks 60.1–60.3 complete, Rik 60.4 written through the Special Topics and the first grammar notes (printed p. 473, PDF 489). The rest of Rik 4's grammar (p. 474, PDF 490) and Rik 60.5 (last Rik) NOT yet written; then Sūkta 61 (*asmā id u*, starts ≈ p. 478; confirm).**
+
+**Next task:** view PDF 490 on (printed p. 474): write the end of Rik 4's grammar ("**Rik 60.4, grammar (end)**"), then Rik 60.5 and the close of Sūkta 60; then Sūkta 61 — after which Volume 5 is COMPLETE: update CLAUDE.md (Volume 6 set-up when asked; Pariśiṣṭa from p. 531 is not to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 58–59 numerals [?], 59.6 long Vaiśvānara passage in gist; 60.1 Ṛg 3-2-4 and Āp. Gṛ. numerals [?]; 60.4 *damūnāḥ* accent note [?]; Uṇādi/Pāṇini numerals [?].
