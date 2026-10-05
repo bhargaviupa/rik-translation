@@ -18,8 +18,7 @@ def clean_ctx(s):
     s = re.sub(r'[*`>]+', '', s)
     return re.sub(r'\s+', ' ', s).strip()
 
-def main(vol):
-    md = (PUB / 'work' / f'vol{vol}_clean.md').read_text(encoding='utf-8')
+def collect(md):
     rows, sukta, head, page, layer = [], '(front matter)', '', '', 'Text'
     for line in md.split('\n'):
         m = re.match(r'^## .*S[ūu]kta\s+(\d+)', line)
@@ -27,7 +26,7 @@ def main(vol):
         elif line.startswith('## '): sukta = re.sub(r'[*]', '', line[3:])[:60]; head = ''
         elif line.startswith('# '): sukta = re.sub(r'[*]', '', line[2:])[:60]
         elif line.startswith('### '): head = re.sub(r'[*]', '', line[4:]).strip()[:90]
-        m = re.search(r'original pp?\. ([\d–ivxlc]+)', line)
+        m = re.search(r'original pp?\. ([\d–ivxlc]+)', line) or re.match(r'^#{2,3} \[?Page ([\d–ivxlc]+)', line)
         if m: page = m.group(1)
         if line.startswith('**॥') or line.startswith('**Grammar') or line.startswith('**Translation') or line.startswith('**Pratipad'):
             for key, lab in LAYERS:
@@ -47,6 +46,11 @@ def main(vol):
             elif cat == 'Reference / numeral': pri = 'Low'
             else: pri = 'Medium'
             rows.append([sukta, head, page, lyr, cat, pri, before[-120:], '⟦?⟧', after, '', '', ''])
+    return rows
+
+def main(vol):
+    md = (PUB / 'work' / f'vol{vol}_clean.md').read_text(encoding='utf-8')
+    rows = collect(md)
     for i, r in enumerate(rows, 1): r.insert(0, i)
     wb = Workbook(); ws = wb.active; ws.title = 'Worklist'
     hdr = ['ID', 'Sūkta / section', 'Rik / heading', 'Original page', 'Layer', 'Category', 'Priority',
