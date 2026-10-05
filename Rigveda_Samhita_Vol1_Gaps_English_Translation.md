@@ -1886,6 +1886,189 @@ A branch specially connected with the Taittirīya branch is current in the Keral
 
 Besides the branches named above, there are two more renowned branches of the Kṛṣṇa Yajurveda, Kauṇḍinya and Agniveśya. Their names are stated in the Ānanda-saṃhitā. In that work 1?[?] sūtra… (continued on the next page)
 
+### Page 143
+
+...in that work are names of 18 [?] sūtra-works. In them the sūtras of these two branches are also included. Quotations drawn from the sūtras of the Kauṇḍinya and Agniveśya branches are found in other works.
+
+## 41. Hārīta branch
+
+This too is a Śrauta branch; that is, this branch has its own sūtra-works. Passages of the Hārīta Śrauta, Gṛhya and Dharma-sūtras are found in many works. The opinion of Hārīta is quoted in the Dharma-sūtras of Bodhāyana, Āpastamba and Vasiṣṭha. Since Hārīta in his sūtra-works cites the name of Maitrāyaṇa here and there, there are grounds to guess that he was a follower of the Maitrāyaṇīya saṃhitā. Many passages of the Mānava Śrāddha-kalpa and Pariśiṣṭas agree closely with passages of Hārīta. In the Bṛhadāraṇyaka Upaniṣad (6-5-3 [?]) the name Kumārahārīta is indicated. For these reasons it can be guessed that the Hārīta branch was a renowned branch of the Kṛṣṇa Yajurveda.
+
+If to the 41 branches described up to here the 44 sub-branches of the Kaṭha branch are added, the total comes to 85 branches. But since many works say that the Kṛṣṇa Yajurveda has 86 branches in all, the one remaining branch is probably a sub-division of one of the chief branches; or, if it is a separate one, we know nothing about it.
+
+### Number of mantras of the Kṛṣṇa Yajurveda
+
+In the Caraṇa-vyūha:
+
+> अष्टादश यजुःसहस्राण्यधीत्य शाखापारो भवति ।
+>
+> *aṣṭādaśa yajuḥsahasrāṇy adhītya śākhāpāro bhavati |*
+>
+> "Having studied eighteen thousand yajus [mantras], he becomes a master of the branch."
+
+is one reading, and in another reading:
+
+> अष्टाशत यजुस्सहस्राण्यधीत्य शाखापारो भवति ।
+>
+> *aṣṭāśata yajussahasrāṇy adhītya śākhāpāro bhavati |*
+>
+> "Having studied … thousand yajus [mantras], he becomes a master of the branch." (The word *aṣṭāśata* is as printed and is not clear.)
+
+According to the first reading the number of mantras becomes 18,000 [?]. According to the second reading the number of mantras becomes still larger. Probably the second reading is incorrect. The number of ṛks in the Śukla Yajurveda is 1900. Since in the Kṛṣṇa Yajurveda the mantras and their brāhmaṇas are mixed, the number of mantras cannot be stated exactly. But it may be said that there are somewhat more or fewer than 3000 [?] ṛks or mantras.
+
+### Page 144
+
+# Chapter Seven — Branches of the Sāmaveda
+
+The great sage Patañjali in the Paspaśāhnika of his Vyākaraṇa-mahābhāṣya writes:
+
+> सहस्रवर्त्मा सामवेदः ।
+>
+> *sahasravartmā sāmavedaḥ |*
+>
+> "The Sāmaveda has a thousand paths."
+
+That is: the Sāmaveda includes a thousand branches. In the 2nd chapter of the Prapañca-hṛdaya:
+
+> तत्र सामवेदः सहस्रधा ।............ तत्रावशिष्टाः सामबाह्वृचयोर्द्वादश द्वादश [?]।
+> तत्र सामवेदस्य तलवकार-छंदोग-शाट्यायन-राणायनि-दुर्वासस-भागुरि-गौ-तलवकाराली-सावर्ण्य-गार्ग्य-वार्षगण्य-औपमन्यवशाखाः ॥
+>
+> *tatra sāmavedaḥ sahasradhā |............ tatrāvaśiṣṭāḥ sāmabāhvṛcayor dvādaśa dvādaśa [?] | tatra sāmavedasya talavakāra-chaṃdoga-śāṭyāyana-rāṇāyani-durvāsasa-bhāguri-gau-talavakārāli-sāvarṇya-gārgya-vārṣagaṇya-aupamanyavaśākhāḥ ||*
+>
+> "There the Sāmaveda is a thousandfold … the remainder [?] … There the branches of the Sāmaveda: Talavakāra, Chandoga, Śāṭyāyana, Rāṇāyani, Durvāsasa, Bhāguri, Gau, Talavakārāli, Sāvarṇya, Gārgya, Vārṣagaṇya and Aupamanyava."
+
+(The dotted gap and the second clause are as printed; the second clause is doubtful.)
+
+It is said. That is: the Sāmaveda has a thousand branches. Of them only twelve branches are found now. What are they: Talavakāra, Chandoga, Śāṭyāyana, Rāṇāyani, Durvāsasa, Bhāguri, Gau, Talavakārāli, Sāvarṇya, Gārgya, Vārṣagaṇya and Aupamanyava. In these the names seventh and eighth [Talavakārāli and Sāvarṇya; as read] are wrong. In the Buddhist work called Divyāvadāna it stands thus:
+
+> ब्राह्मण सर्व एते छंदोगाः पंक्तिरित्येका भूत्वा साशीति-
+> सहस्रधा भिन्ना । तद्यथा—शीलवल्का अरणेमिकाः लौकाक्षाः
+> कौथुमा ब्रह्मसमा महासमा महायाजिकाः सात्य-
+> मुग्राः समंतवेदाः । तत्र—
+>
+> *brāhmaṇa sarva ete chaṃdogāḥ paṃktir ity ekā bhūtvā sāśīti-sahasradhā bhinnā | tadyathā—śīlavalkāḥ araṇemikāḥ laukākṣāḥ kauthumā brahmasamā mahāsamā mahāyājikāḥ sātya-mugrāḥ samaṃtavedāḥ | tatra—*
+>
+> "O Brāhmaṇa, all these Chandogas, having been one line, are divided into a thousand and eighty. Namely: the Śīlavalkas, the Araṇemikas, the Laukākṣas, the Kauthumas, the Brahmasamas, the Mahāsamas, the Mahāyājikas, the Sātyamugras, the Samantavedas. There —"
+
+> शीलवल्काः पंचविंशतिः [२५]
+> लौकाक्षश्चत्वारिंशत् [४०]
+> कौथुमानां शतम् [१००]
+> ब्रह्मसमानां शतम् [१००]
+> महासमानां पंचशतानि [५००]
+> महायाजिकानां शतम् [१००]
+> सात्यमुग्राणां शतम् [१००]
+> समंतवेदानां शतम् [१००]
+>
+> *śīlavalkāḥ paṃcaviṃśatiḥ [25]*
+> *laukākṣaś catvāriṃśat [40]*
+> *kauthumānāṃ śatam [100]*
+> *brahmasamānāṃ śatam [100]*
+> *mahāsamānāṃ paṃcaśatāni [500]*
+> *mahāyājikānāṃ śatam [100]*
+> *sātyamugrāṇāṃ śatam [100]*
+> *samaṃtavedānāṃ śatam [100]*
+>
+> "Śīlavalkas twenty-five; Laukākṣas forty; of the Kauthumas a hundred; of the Brahmasamas a hundred; of the Mahāsamas five hundred; of the Mahāyājikas a hundred; of the Sātyamugras a hundred; of the Samantavedas a hundred."
+
+> इतीयं ब्राह्मण छंदोगानां शाखाः पक्तिरित्येका भूत्वा
+> साशीतिसहस्रधा भिन्ना । [१०६५]
+>
+> *itīyaṃ brāhmaṇa chaṃdogānāṃ śākhāḥ paktir ity ekā bhūtvā sāśītisahasradhā bhinnā | [1065]*
+>
+> "Thus, O Brāhmaṇa, these are the branches of the Chandogas, which, having been one line, are divided into a thousand and eighty." [The print gives the bracketed figure 1065.]
+
+That is: the number of Sāmaveda branches comes to 1080. According to the order stated here, the number of branches comes to 1065 (25 + 40 + 100 + 100 + 500 + 100 + 100 + 100 = 1065, which I have checked). Therefore the text of this Divyāvadāna work must be wrong.
+
+### Page 145
+
+In the Caraṇa-vyūha of the Atharvaṇa-pariśiṣṭa:
+
+> तत्र सामवेदस्य शाखासहस्रमासीत् ।............। तत्र केचिदव-
+> शिष्टाः प्रचरंति । तद्यथा—राणायनीयाः । सात्यमुग्राः ।
+> कालापाः । महाकालापाः । कौथुमाः । लांगलिकाश्चेति ॥
+> कौथुमानां षड्भेदा भवंति । तद्यथा—सारायणीयाः ।
+> वातरायणीयाः । वैतधृताः । प्राचीनास्तेजसाः । अनि-
+> ष्टकाश्चेति ॥
+>
+> *tatra sāmavedasya śākhāsahasram āsīt |............| tatra kecid avaśiṣṭāḥ pracaraṃti | tadyathā—rāṇāyanīyāḥ | sātyamugrāḥ | kālāpāḥ | mahākālāpāḥ | kauthumāḥ | lāṃgalikāś ceti || kauthumānāṃ ṣaḍbhedā bhavaṃti | tadyathā—sārāyaṇīyāḥ | vātarāyaṇīyāḥ | vaitadhṛtāḥ | prācīnāstejasāḥ | aniṣṭakāś ceti ||*
+>
+> "There the Sāmaveda had a thousand branches … of them some few remain in currency, namely: the Rāṇāyanīyas, the Sātyamugras, the Kālāpas, the Mahākālāpas, the Kauthumas and the Lāṅgalikas. Of the Kauthumas there are six sub-divisions, namely: the Sārāyaṇīyas, the Vātarāyaṇīyas, the Vaitadhṛtas, the Prācīnāstejasas and the Aniṣṭakas." (The sixth name is not given in the print as read; five names appear.)
+
+It is said. That is: the Sāmaveda had a thousand branches. Of them only a few are now in currency. Thus: the branches Rāṇāyanīya, Sātyamugra, Kālāpa, Mahākālāpa, Kauthuma and Lāṅgalika. And it is said that in the Kauthuma branch there are six sub-divisions: Sārāyaṇīya, Vātarāyaṇīya, Vaitadhṛta, Prācīnāstejasa and Aniṣṭaka. Even this cannot be called quite correct.
+
+In the section on the *ṛṣi-tarpaṇa* in the Nityānuṣṭhāna-prayoga of the book called Gobhila-gṛhya-karma-prakāśikā, composed by Subrahmaṇya Śāstri:
+
+> राणायनिः । सात्यमुग्रिः । व्यासः । भागुरिः । औरुंडिः [?] ।
+> गौल्गुलविः । भानुमानौपमन्यवः । कराटः । मशको ।
+> गार्ग्यः । वार्षगण्यः । कौथुमिः । शालिहोत्रिः । जैमिनिः ॥
+>
+> *rāṇāyaniḥ | sātyamugriḥ | vyāsaḥ | bhāguriḥ | auruṃḍiḥ [?] | gaulgulaviḥ | bhānumān aupamanyavaḥ | karāṭaḥ | maśako | gārgyaḥ | vārṣagaṇyaḥ | kauthumiḥ | śāliholriḥ | jaiminiḥ ||*
+>
+> "Rāṇāyani, Sātyamugri, Vyāsa, Bhāguri, Auruṇḍi [?], Gaulgulavi, Bhānumān Aupamanyava, Karāṭa, Maśaka, Gārgya, Vārṣagaṇya, Kauthumi, Śāliholri [as printed], Jaimini."
+
+The names of thirteen [as printed; fourteen names are counted in the verse as read] ācāryas beginning with Rāṇāyani are given. In the same work:
+
+> शटः । भाल्लविः । काल्पविः । ताण्ड्यः । वृषाणः । शमुबाहुः ।
+> रुरुकिः । अगस्त्यः । बष्कशिराः । हूहूः ॥
+>
+> *śaṭaḥ | bhāllaviḥ | kālpaviḥ | tāṇḍyaḥ | vṛṣāṇaḥ | śamubāhuḥ | rurukiḥ | agastyaḥ | baṣkaśirāḥ | hūhūḥ ||*
+>
+> "Śaṭa, Bhāllavi, Kālpavi, Tāṇḍya, Vṛṣāṇa, Śamubāhu, Ruruki, Agastya, Baṣkaśiras, Hūhū."
+
+The names of ten propagators (*pravacanakāras*), Śaṭa and the rest, are also stated. To know the particulars of the Sāma branches one should keep in mind the names of these 23 ācāryas. Dhanvi is said to be earlier than Sāyaṇācārya; many are earlier even than he — Rudraskanda. In the commentary on the Khādira Gṛhya-sūtra (3-2-14 [?]) written by him, the names of the 13 ācāryas and 10 pravacanakāras spoken of above are quoted. Mahīdāsa too, in the commentary on his Caraṇa-vyūha, has written two verses telling the names of these 13 ācāryas:
+
+> राणायनी सात्यमुग्रा दुर्वासा अथ भागुरिः ।
+> भारुंडो गोर्गुजनीर्भगवानौपमन्यवः ॥ १ ॥
+> दारालो गार्ग्यसावर्णी वार्षगण्यश्च ते दश ।
+> कुथुमिः शालिहोत्रश्च जैमिनिश्च त्रयोदश ॥ २ ॥
+>
+> *rāṇāyanī sātyamugrā durvāsā atha bhāguriḥ |*
+> *bhāruṃḍo gorgujanīr bhagavān aupamanyavaḥ || 1 ||*
+> *dārālo gārgyasāvarṇī vārṣagaṇyaś ca te daśa |*
+> *kuthumiḥ śāliholraś ca jaiminiś ca trayodaśa || 2 ||*
+>
+> (As printed; several names are doubtful in the print, and no translation of the verses is given by the source other than the statement above that they list the 13 ācāryas.)
+
+In the section on *tarpaṇa* of the Jaimini Gṛhya-sūtra too (1-14 [?]) the names of the 13 [?] ācāryas spoken of below are:
+
+> जैमिनिं-तलवकारं-सात्यमुग्रं-राणायनिं-दुर्वाससं-च
+> भागुरिं-गौरुंडिं-गौर्गुलविं-भगवंतमौपमन्यवं-का-
+> रडिं-सावर्णिं-गार्ग्यवार्षगण्यं-दैवंत्यमिति ॥
+>
+> *jaiminiṃ-talavakāraṃ-sātyamugraṃ-rāṇāyaniṃ-durvāsasaṃ-ca*
+> *bhāguriṃ-gauruṃḍiṃ-gaurgulaviṃ-bhagavaṃtam aupamanyavaṃ-kā-*
+> *raḍiṃ-sāvarṇiṃ-gārgyavārṣagaṇyaṃ-daivaṃtyam iti ||*
+>
+> (As printed; the last word *daivaṃtyam* and the name *kāraḍim* are doubtful.)
+
+[A small bracketed numeral, read as "[19?]", stands at the foot of the page in the print; it is not a page number.]
+
+### Page 146
+
+With the help of the Prapañca-hṛdaya, the Gobhila-gṛhya-karma-prakāśikā and the Jaimini-gṛhya-sūtra and other works, the names of the 13 ācāryas spoken of above can be established as far as possible.
+
+Now let us examine briefly the account of Jaimini and the other propagators of branches.
+
+### Jaimini, propagator of the Sāmaveda
+
+Among the three chief pupils of Kṛṣṇa Dvaipāyana, Jaimini was one. In the Sabhā-parvan of the Mahābhārata (4-?? [?]) Jaimini's name is mentioned in the company of the sages who had gathered at the time of Yudhiṣṭhira's entry into the assembly. In the 53rd [?] adhyāya of the Ādi-parvan:
+
+> उद्गाता ब्राह्मणो वृद्धो विद्वान् कौत्सार्यजैमिनिः ॥ ६ [?] ॥
+>
+> *udgātā brāhmaṇo vṛddho vidvān kautsāryajaiminiḥ || 6 [?] ||*
+>
+> "The udgātṛ was the aged, learned Brāhmaṇa, Jaimini of the Kautsa [?] line."
+
+It is said. That is: at the snake-sacrifice performed by King Janamejaya, an aged and learned Brāhmaṇa, Jaimini of the Kautsa gotra, performed the work of the *udgātṛ* (singing of the Sāman). It is learnt that among the propagators of the Sāma-saṃhitā named Lāṅgala too there was one with the name Jaimini. It is difficult to say who this Jaimini was. Nandanalāl, in the book called Geographical Dictionary, explaining the word "Dvaitavana", has written that that place was Jaimini's birthplace.
+
+### The line of pupils that went on after Jaimini
+
+Jaimini, who had studied the Sāmaveda from Vyāsa, taught it to his son Sumantu. Sumantu had his son Sutvā study the Sāmaveda, and Sutvā in turn Sukarma. Sukarma taught it to his thousand pupils. Hence the Sāmaveda must have had a thousand branches. In some Purāṇas it is said that at one time an Indra-prakopa (anger of Indra) or earthquake took place, and that then the branches of many of Sukarma's pupils were also destroyed. After this, with Sukarma two highly wise ones were chief pupils. One was called Pauṣpaṃji, the other Rājā Hiraṇyanābha Kausalya. Pauṣpaṃji was the propagator of 500 [?] saṃhitās. Those who study them are called Udīcya Sāmagas, or northern-country Sāmagas. In the same way Hiraṇyanābha of Kosala also taught the text of 500 [?] saṃhitās. Those who read these are called Prācya Sāmagas, or eastern-country Sāmagas.
+
+### The line of northern Sāmagas arising from Pauṣpaṃji
+
+It cannot be firmly said that the description of the Sāma-saṃhitā-makers in the Vāyu and Brahmāṇḍa Purāṇas is pure. In such matters it is difficult to learn the true names of many Sāma-ṛṣis. A description of the Sāmagas has been made from the materials of study that we now have. It is not said that it is free of faults and errors. Still, the matters will be examined as far as possible.
+
 ---
 
-**Progress note (Gap A):** Translated through printed p. 142 (PDF 168). Next: p. 143 (PDF 169). Open flags: branch numbers from no. 30 onward are unreliable [?]; the tables on pp. 138–139 are not reproduced row by row.
+**Progress note (Gap A):** Translated through printed p. 146 (PDF 172). Next: p. 147 (PDF 173). Open flags: branch numbers 30–41 on pp. 140–143 are unreliable [?]; tables on pp. 138–139 not reproduced row by row; the count "13 ācāryas" on p. 145 does not match the names as read.
