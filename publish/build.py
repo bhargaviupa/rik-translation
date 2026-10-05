@@ -59,7 +59,7 @@ def inline_notes(blk, notes, rik_label, seen):
         seen.add(body); notes.append((rik_label, full))
         return f'**{m.group(1)}:**' + make_ref(full)
     blk = MINE_RE.sub(mine, blk)
-    return re.sub(r'[ \t]+\n', '\n', blk)
+    return voice.fix(re.sub(r'[ \t]+\n', '\n', blk))
 
 def split_blocks(text):
     text = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', text)   # a heading always starts its own block
