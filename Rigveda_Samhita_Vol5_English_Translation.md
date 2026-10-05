@@ -8691,8 +8691,52 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.4 (pp. 489–492, PDF 505–508)
+
+**Saṃhitā-pāṭha** *(p. 489)*
+
+> **अस्मा इदु स्तोमं सं हिनोमि रथं न तष्टेव तत्सिनाय ।**
+> **गिरश्च गिर्वाहसे सुवृक्तीन्द्राय विश्वमिन्वं मेधिराय ॥ ४ ॥**
+
+*asmā id u stomaṃ saṃ hinomi rathaṃ na taṣṭeva tatsināya |*
+*giraś ca girvāhase suvṛktīndrāya viśvaminvaṃ medhirāya || 4 ||*
+
+**Pada-pāṭha** *(p. 489)*
+
+> अस्मै । इत् । ऊं इति । स्तोमम् । सम् । हिनोमि । रथम् । न । तष्टाऽइव । तत्ऽसिनाय ।
+> गिरः । च । गिर्वाहसे । सुवृक्ति । इन्द्राय । विश्वम्ऽइन्वम् । मेधिराय ॥ ४ ॥
+
+*asmai | it | ūṃ iti | stomam | sam | hinomi | ratham | na | taṣṭā-iva | tat-sināya |*
+*giraḥ | ca | girvāhase | suvṛkti | indrāya | viśvam-invam | medhirāya || 4 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 489)*
+
+> **अस्मा एवेन्द्राय स्तोमं शस्त्ररूपं स्तोत्रं सं हिनोमि । प्रेरयामि । तत्र दृष्टान्तः । तत्सिनाय । सिनमित्यन्ननाम । सिनमन्नं भवति सिनाति भूतानीति यास्कः । नि. ३-९ [?] । तेन रथेन सिनमन्नं यस्य स तथोक्तः । तस्मै रथस्वामिने तष्टेव तष्टा तक्षको रथनिर्माता रथं न । यथा रथं प्रेरयति तद्वत् । इवेत्येतत्पादपूरणं । तथा गिर्वाहसे गीर्भिः स्तुतिभिरुह्यमानायेन्द्राय गिरश्च शस्त्रसंबन्धिनीः केवला ऋचश्च सुवृक्ति शोभनमावर्जनं यथा भवति तथा प्रेरयामि । तथा मेधिराय मेधाविन इन्द्राय विश्वमिन्वं विश्वव्यापकं विश्वैर्व्याप्तं सर्वोत्कृष्टं हविश्च सं हिनोमीत्यनुषङ्गः ॥**
+
+*asmā evendrāya stomaṃ śastrarūpaṃ stotraṃ saṃ hinomi | preraymi [read: prerayāmi] | tatra dṛṣṭāntaḥ | tatsināya | sinam ity anna-nāma | sinam annaṃ bhavati sināti bhūtānīti yāskaḥ | ni. 3-9 [?] | tena rathena sinam annaṃ yasya sa tathoktaḥ | tasmai rathasvāmine taṣṭeva taṣṭā takṣako rathanirmātā rathaṃ na | yathā rathaṃ prerayati tadvat | ivety etat pādapūraṇaṃ | tathā girvāhase gīrbhiḥ stutibhir uhyamānāyendrāya giraś ca śastrasaṃbandhinīḥ kevalā ṛcaś ca suvṛkti śobhanam āvarjanaṃ yathā bhavati tathā prerayāmi | tathā medhirāya medhāvina indrāya viśvaminvaṃ viśvavyāpakaṃ viśvair vyāptaṃ sarvotkṛṣṭaṃ haviś ca saṃ hinomīty anuṣaṅgaḥ ||*
+
+*(The grammatical tail, p. 489 foot, characterized, not transcribed: **hinomi** (*hi gatau vṛddhau ca*, *śnu*); **taṣṭā** (*takṣū tvakṣū tanūkaraṇe*, *tṛn*, the *k* lost before *ṣ* + *t*, *ṣṭutva*, *tṛ*-stem); **tatsināya** (*ṣiñ bandhane*, *nak*, the sense "he whose food is [obtained by] that chariot"); **girvāhase** (*vah prāpaṇe*, *asun*); **viśvaminvam** (*ivi vyāptau*, *nuṃ*, *ac*, *mum*); **medhirāya** (*medhā asya asti*, *iran*); the printed Uṇādi and Pāṇini numerals are too small to give at 150 dpi.)*
+
+**Translation of the bhāṣya:** "To this very Indra I *saṃ hinomi*, send, a *stoma*, a hymn in the form of a *śastra*. Illustration: *tatsināya* — *sina* is a name for food ('*sina* is food, for it binds beings', says Yāska, Ni. 3-9 [?]); he whose food is [won] by that chariot is so called; to that owner of the chariot, as a *taṣṭā*, a carpenter, the maker of the chariot, sends a chariot, so [I send]. *Iva* here fills out the line. Likewise to Indra, *girvāhase*, carried by the *girah*, praises [i.e. who is carried by the hymns], I send *girah*, those Riks connected with the *śastra*, and plain Riks, in such a way that the winning-over (*suvṛkti*) is excellent; and to the wise Indra, *medhirāya*, I send the oblation — *viśvaminvam*, all-pervading, pervaded by all, the best of all. 'I send' is to be carried on."
+
+**Pratipadārtha** *(p. 490)* — "**tatsināya** — [to the charioteer] for obtaining food; **taṣṭā iva ratham na** — as a carpenter builds a chariot; **girvāhase** — to him who is borne [grown] by the praises; **indrāya** — to Indra; **stomam** — the hymn in the form of a *śastra*; **giraḥ** — the plain Riks connected with the *śastra*; **suvṛkti** — to be of good effect; **saṃ hinomi** — I build and offer; **medhirāya** — to the wise Indra; **viśvaminvam** — the best of oblations; **saṃ hinomi** — I build and offer."
+
+**Bhāvārtha** *(p. 490)* — "As a carpenter builds a chariot for the charioteer to get food, so I, for Indra who grows through the praises, build and offer a hymn in the form of a *śastra*, and plain Riks, so that they may be effective; and to the wise Indra I offer an all-excellent oblation."
+
+**English Translation (the source's own, p. 490)** — "I send hymns to him (Indra) as the constructor of a car drives it to its owner, (so that he) may thence (obtain) food ; I send praises to him who is entitled to commendation ; and most excellent oblations to the wise Indra."
+
+*(Printing marks as in the source: the heading on this page reads "English T-ansation" in the print [sic], a damaged letter, not corrected.)*
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 490–491** — **stomam** — *śastrarūpaṃ stotram*: "in a sacrifice, the many mantras that praise Indra are called *śastra*; such collections of mantras are called *stoma*." **tatsināya**: "by the derivation *sena rathena sinam annaṃ yasya* — 'with food in the form of the oblation, together with the chariot' is its meaning. *sinam annaṃ bhavati sināti bhūtāni* (Ni. 3-9 [?]): the Nirukta gives the sense 'food' to the word *sina*." **taṣṭeva** — *taṣṭā iva*: "*takṣakaḥ rathanirmātā*: as a carpenter who builds a chariot. Here the word *iva* is only a line-filler, since *na* itself gives the sense, by connection with the word *ratha*." **girvāhase** — *gīrbhiḥ stutibhir uhyamānāya*: "an epithet of the word *indrāya*: one who fully accepts the praise-speeches made by the hotṛ." **suvṛkti** — *śobhanam āvarjanam yathā bhavati tathā preraymi*: "I send in such a way that Indra is greatly pleased; or the sense is: I send the mantras of praise [word unclear in the print, ?]." **viśvaminvam** — *viśvavyāpakaṃ viśvair vyāptaṃ sarvotkṛṣṭaṃ haviḥ*: "*viśvaṃ invati vyāpnoti iti viśvaminvam*: an epithet of the word *haviḥ* (oblation). The praise of the oblation is here: this oblation is well known in the whole world, or has pervaded the whole world, is the self of the universe, is the best."
+
+**Vyākaraṇa-prakriyā** *(pp. 491–492 — noted briefly)* — *Grammar pages, noted briefly.* **hinomi**: *hi gatau vṛddhau ca* (*svādi*); *laṭ*, *mip*; *svādibhyaḥ śnuḥ*: *śnu*; *sārvadhātukam apit* is *ṅit*, so no *guṇa* of the root; *guṇa* of the *vikaraṇa* because of *mip*; *nighāta*. **taṣṭā**: *takṣū tvakṣū tanūkaraṇe*; *tṛn* in the habitual sense; the root having *ū* as a mark, *iḍ* is optional (*svaratisūti…*, Pā. 7-2-44) and is here not used; *k·ṣ* + *t*, *skoḥ saṃyogādyor ante ca*: loss of *k*; *ṣṭunā ṣṭuḥ*: *ta* → *ṭa*; so *taṣṭṛ*; accent on the first syllable by the suffix being *nit*; in the nominative *ṛduśanas…* (Pā. 7-1-94 as read [?]): *anaṅ*; *āpṛdhyanṛc…* [as read]: lengthening of the penultimate: *taṣṭā*. **tatsināya**: *sina*; *ṣiñ bandhane*; suffix *nak* (Uṇ. 3-[?] as read [?]); *s* for the initial *ṣ*; *kit*, so no *guṇa*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **girvāhase**: *vah prāpaṇe*; *vahihāñbhyaś chandasi* (Uṇ. 4-[?]): *asun*; for *gati* and *kāraka*-first members the first-member accent also prevails; *ñit*, *vṛddhi* of the penultimate; *girvāhas*; though *gir* + *h* should lengthen, Vedically it is not so; dative singular. **viśvaminvam**: *ivi vyāptau*; *viśvam invati*; *idito num dhātoḥ*: *nuṃ*; *pacādi*: *ac*; in the compound the retention of the accusative ending (*aluk*) is Vedic; or by *bahula* *khac* for this root also; then *ārurdviṣad ajantasya mum* (Pā. 6-3-67 as read [?]): *mum* after *viśva*. **medhirāya**: *medhā asyāsti*; *medhārathābhyām iran nirac vaktavyau* (a *vārttika*; reference as read [?]): *iran* in the possessive sense; *yasyeti ca*: loss of *a*; *iran* is *nit*, so initial-acute.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.3 written (through p. 488 = PDF 504).**
+---
 
-**Next task:** Rik 61.4 begins on p. 489 (PDF 505, Saṃhitā/Pada/bhāṣya already viewed but NOT yet written — re-view PDF 505); then Riks 61.5–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.3 grammar notes partly summarized and sūtra numerals [?] (a few paraphrased sūtra names in 61.2–61.3 grammar are my approximations of small print — to be checked if an expert reviews); earlier flags as before. Keep future grammar notes shorter and name only sūtras that are legible.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.4 written (through p. 492, top, PDF 508).**
+
+**Next task:** Rik 61.5 begins at the middle of p. 492 (PDF 508; Saṃhitā/Pada and the first lines of the bhāṣya already viewed but NOT yet written — re-view PDF 508, then 509 on); then Riks 61.6–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.4 grammar notes partly summarized and sūtra numerals [?]; some sūtra names in 61.2–61.3 grammar are approximations of small print; 61.4 *suvṛkti* "ārīte"-type word unclear [?]; earlier flags as before. Keep grammar notes short and name only legible sūtras.
