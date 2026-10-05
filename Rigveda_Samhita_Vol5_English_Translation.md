@@ -8541,8 +8541,114 @@ The print closes with a single line (p. 478): "ಅರವತ್ತನೆಯ ಸ�
 
 ---
 
+## SŪKTA 61 (printed p. 478 –, PDF 494 –) — fourth sūkta of the Eleventh Anuvāka
+
+**ಅರವತ್ತೊಂದನೆಯ ಸೂಕ್ತವು** — *(Kannada heading: "the sixty-first sūkta")*
+
+### Sāyaṇa's introduction *(p. 478)*
+
+> **अस्मा इदु प्र तवस इति षोडशर्चं चतुर्थं सूक्तं । नोधस आर्षमैन्द्रं त्रैष्टुभं । अनुक्रान्तं च । अस्मा इदु षोळशेति । अस्य सूक्तस्य नोधा दृष्टेत्येतद्ब्राह्मणे समाम्नायते । अस्मा इदु प्र तवसे तुरायेति नोधास्त एते प्रातःसवने । ऐ. ब्रा. ६-१८ [?] । इति ॥ षळहस्तोत्रियीयावापवत्सु [?] चतुर्विंशमहाव्रतादिष्वहःसु माध्यंदिने सवने ब्राह्मणाच्छंसिनः शस्त्रे ब्रह्मा ते ब्रह्मयुजेत्यस्या आरम्भणीयाया ऊर्ध्वमहीनसूक्तसंज्ञमेतच्छंसनीयं । तथा च सूत्रितं । अस्मा इदु प्र तवसे शासद्वह्निरितीतरावहीनसूक्ते । आ. ७-४ [?] । इति । ब्राह्मणं च भवति । त एते प्रातःसवने षळहस्तोत्रियीयाञ्छस्त्वा माध्यंदिनेऽहीनसूक्तानि शंसन्तीति ॥**
+
+*asmā id u pra tavasa iti ṣoḍaśarcaṃ caturthaṃ sūktaṃ | nodhasa ārṣam aindraṃ traiṣṭubhaṃ | anukrāntaṃ ca | asmā id u ṣoḷaśeti | asya sūktasya nodhā dṛṣṭety etad brāhmaṇe samāmnāyate | asmā id u pra tavase turāyeti nodhās ta ete prātaḥsavane | ai. brā. 6-18 [?] | iti || ṣaḷahastotriyīyāvāpavatsu [?] caturviṃśamahāvratādiṣv ahaḥsu mādhyaṃdine savane brāhmaṇācchaṃsinaḥ śastre brahmā te brahmayujety asyā ārambhaṇīyā ūrdhvam ahīnasūktasaṃjñam etac chaṃsanīyaṃ | tathā ca sūtritaṃ | asmā id u pra tavase śāsad vahnir itītarāv ahīnasūkte | ā. 7-4 [?] | iti | brāhmaṇaṃ ca bhavati | ta ete prātaḥsavane ṣaḷahastotriyīyāñ chastvā mādhyaṃdine 'hīnasūktāni śaṃsantīti ||*
+
+**Translation:** "'*Asmā id u pra tavase*': the fourth sūkta [of the anuvāka], of sixteen Riks; the seer is Nodhas, the deity Indra, the metre Triṣṭubh. So the Anukramaṇī: '*asmā id u ṣoḷaśa*'. That Nodhas is the seer of this sūkta is handed down in the Brāhmaṇa: '*asmā id u pra tavase turāya*' — these are the Nodhas [hymns] at the morning pressing (Ait. Br. 6-18 [?]). On the days such as the Caturviṃśa and the Mahāvrata, [which have the *ṣaḍaha*-hymn recitations — wording of the compound doubtful [?]], at the midday pressing, in the recitation of the Brāhmaṇācchaṃsin, after the opening Rik '*brahmā te brahmayujā*', this is to be recited, called the *ahīna-sūkta*. And so it is aphorized: '*asmā id u pra tavase*' and '*śāsad vahniḥ*' are the other two *ahīna-sūktas* (Āśv. 7-4 [?]). And the Brāhmaṇa says: 'those, having recited the *ṣaḷaha* hymns at the morning pressing, recite the *ahīna-sūktas* at the midday pressing.'"
+
+**Anuvāda (Kannada, p. 478)** — "This sūkta, *asmā id u pra tavase*, is the fourth in the eleventh anuvāka. It has sixteen Riks. The seer of the sūkta is Nodhas; the deity Indra; the metre Triṣṭubh. The Anukramaṇikā says: '*asmā id u ṣoḷaśa*'. That Nodhas saw this sūkta is stated in the Aitareya Brāhmaṇa: '*asmā id u pra tavase turāya … nodhās ta ete prātaḥsavane*' (Ait. Br. 6-18 [?]). In sacrifices such as the Caturviṃśa and Mahāvrata (those having the *ṣaḷaha* hymns), the *brāhmaṇācchaṃsin* priest is to recite at the midday pressing, in the *śastra* mantras that he must recite, this sūkta, called the *ūrdhvam-ahīna-sūkta*, after beginning with the Rik '*brahmā te brahmayujā*'; this is explained by the Āśvalāyana Śrauta Sūtra in the sūtra '*asmā id u pra tavase śāsad vahnir itītarāv ahīnasūkte*' (Āśv. 7-4 [?]). On this point there is a Brāhmaṇa sentence: '*ta ete prātaḥsavane ṣaḷahastotriyīyāñ chastvā mādhyaṃdine 'hīnasūktāni śaṃsanti*.'" *(The numerals of the Brāhmaṇa and sūtra references are small and unclear in the print: all marked [?].)*
+
+### Heading block of Sūkta 61 *(p. 479, PDF 495)*
+
+Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Vargas 27, 28, 29 [as read, [?]] · Riks in the sūkta: 16 · Ṛṣi: Nodhas Gautama · Deity: Indra · Metre: Triṣṭubh.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). User instruction (2026-10-06): "finish next 4 sūktas" = Sūktas 58–61 — 58, 59, 60 DONE. NEXT: Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; fourth sūkta of the Eleventh Anuvāka; starts in the lower part of printed p. 478 = PDF 494 with title and Sāyaṇa's introduction/anuvāda — already viewed, NOT yet written; heading block and Rik 1 on p. 479 = PDF 495).**
+### Rik 61.1 (pp. 479–482, PDF 495–498)
 
-**Next task:** write Sūkta 61 (introduction from PDF 494, then Riks 1–16), then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 is not to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūktas 58–60 numerals [?]; 59.6 long Vaiśvānara passage in gist; 60.1 Ṛg 3-2-4 and Āp. Gṛ. numerals [?]; 60.4 *damūnāḥ* accent note [?]; 60.5 Vājasaneya passage verb *upekṣate* [?]; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(p. 479)*
+
+> **अस्मा इदु प्र तवसे तुराय प्रयो न हर्मि स्तोमं माहिनाय ।**
+> **ऋचीषमायाध्रिगव ओहमिन्द्राय ब्रह्माणि राततमा ॥ १ ॥**
+
+*asmā id u pra tavase turāya prayo na harmi stomaṃ māhināya |*
+*ṛcīṣamāyādhrigava ohaṃ indrāya brahmāṇi rātatamā || 1 ||*
+
+*(Reading note: the print's Saṃhitā has "ओहमिन्द्राय" with the anusvāra written, i.e. *ohamindrāya*; I give *ohaṃ* as the Pada does.)*
+
+**Pada-pāṭha** *(p. 479)*
+
+> अस्मै । इत् । ऊं इति । प्र । तवसे । तुराय । प्रयः । न । हर्मि । स्तोमम् । माहिनाय ।
+> ऋचीषमाय । अध्रिऽगवे । ओहम् । इन्द्राय । ब्रह्माणि । राततमा ॥ १ ॥
+
+*asmai | it | ūṃ iti | pra | tavase | turāya | prayaḥ | na | harmi | stomam | māhināya |*
+*ṛcīṣamāya | adhri-gave | oham | indrāya | brahmāṇi | rātatamā || 1 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 479–480)*
+
+> **इदु इति निपातद्वयं पादपूरणे । अथापि पादपूरणाः कमीमिदु इति [?] यास्कः । यद्वा । अवधारणार्थं । तवसे प्रवृद्धाय तुराय त्वरमाणाय । यद्वा । तुर्वित्रे [?] शत्रूणां हिंसित्रे । माहिनाय गुणैर्महते ऋचीषमाय ऋचा समाय । यादृशी स्तुतिः क्रियते तत्समायेत्यर्थः । अध्रिगवेऽधृतगमनाय । अप्रतिहतगमनायेत्यर्थः । तथा च यास्कः । अधृतकर्मण्यपीन्द्रोऽस्यध्रिगुरुच्यते । नि. ५-११ [?] । इति । एवंभूतायास्मा इन्द्राय स्तोमं स्तोत्रं प्र हर्मि । प्रहरामि । करोमीत्यर्थः । तत्र दृष्टान्तः । प्रयो न । प्रय इत्यन्ननाम । यथा बुभुक्षिताय पुरुषाय कश्चिदन्नं प्रहरति । कीदृशं स्तोमं । ओहं । वहनीयं प्रापणीयं वा । अत्यन्तोत्कृष्टमित्यर्थः । न केवलं स्तोमं किन्तर्हि ब्रह्माणि हविर्लक्षणान्नानि । कीदृशानि । राततमा । पूर्वैर्यजमानैरतिशयेन दत्तानि । इन्द्रं स्तुत्या हविषा च परिचरेमेति भावः ॥**
+
+*idu iti nipātadvayaṃ pādapūraṇe | athāpi pādapūraṇāḥ kam īm id u iti [?] yāskaḥ | yadvā | avadhāraṇārthaṃ | tavase pravṛddhāya turāya tvaramāṇāya | yadvā | turvitre [?] śatrūṇāṃ hiṃsitre | māhināya guṇair mahate ṛcīṣamāya ṛcā samāya | yādṛśī stutiḥ kriyate tatsamāyety arthaḥ | adhrigave 'dhṛtagamanāya | apratihatagamanāyety arthaḥ | tathā ca yāskaḥ | adhṛtakarmaṇy apīndro 'syadhrigur ucyate | ni. 5-11 [?] | iti | evaṃbhūtāyāsmā indrāya stomaṃ stotraṃ pra harmi | praharāmi | karomīty arthaḥ | tatra dṛṣṭāntaḥ | prayo na | paya [read: praya] ity anna-nāma | yathā bubhukṣitāya puruṣāya kaścid annaṃ praharati | kīdṛśaṃ stomaṃ | oham | vahanīyaṃ prāpaṇīyaṃ vā | atyantotkṛṣṭam ity arthaḥ | na kevalaṃ stomaṃ kintarhi brahmāṇi havirlakṣaṇānnāni | kīdṛśāni | rātatamā | pūrvair yajamānair atiśayena dattāni | indraṃ stutyā haviṣā ca paricaremeti bhāvaḥ ||*
+
+*(Reading note: "prayo na | prayaḥ ity anna-nāma" — the print has *praya ity anna-nāma*; I read it as *prayaḥ*, [?]. The grammatical tail, p. 480, is characterized, not transcribed, below.)*
+
+**Translation of the bhāṣya:** "*Id* and *u* are two particles, used to fill out the line (*pāda*); Yāska too says that '*kam, īm, id, u*' are line-fillers [reading of the list [?]]; or they are for emphasis. *Tavase*: to the grown-great; *turāya*: to the swift; or [with a different derivation: *turvitre* [?]], to the destroyer of foes. *Māhināya*: great by his qualities; *ṛcīṣamāya*: equal to the Ṛk — he who is equal to whatever praise is made. *Adhrigave*: to him of unrestrained going, i.e. of unobstructed going; so Yāska: 'Indra, even in the matter of one who is unrestrained, is called *adhrigu*' (Ni. 5-11 [?]). To such an Indra, I *pra harmi*, offer, make a *stoma*, a hymn. Illustration: *prayo na*, like food — *prayaḥ* is a name for food — as one offers food to a hungry man. What kind of hymn? *Oham*: fit to be carried, to be conveyed — i.e. exceedingly choice. Not the hymn only: but also *brahmāṇi*, offerings of food in the form of oblations. What kind? *Rātatamā*: most abundantly given by earlier sacrificers. The thought is: 'let us serve Indra with praise and with oblation.'"
+
+**Grammatical tail of the bhāṣya** *(p. 480 — characterized, not transcribed)*: **turāya** — root *tura tvaraṇe*, with the suffix *ka* (*igupadha…*); alternatively *turvī hiṃsāyām*, *tur-vati iti turaḥ*, *pacādi* [*ac*], loss of *v* by Vedic licence; **harmi** — *hṛñ haraṇe*, loss of *śap* (*bahulaṃ chandasi*); **māhināya** — *maha pūjāyām*, the *inaṇ* suffix (*maher inaṇ ca*, Uṇ. 2-[?] as read [?]) with *vṛddhi* of the penultimate; **ṛcīṣamāya** — Yāska's *ṛcīṣamam ṛcā samaḥ* (Ni. 6-[?] [?]); a *tṛtīyā-tatpuruṣa* (Pā. 2-1-30 as read [?]), accent of the first member's own base; the *ī* inserted as in the *pṛṣodarādi* class, *ṣatva* by the *suṣāmādi* class; "some say" it is from *ṛca stutau* (*igupadhāt kit*); the discussion of the resulting accent is characterized only; **adhrigave** — *adhṛta* + *gu*, *ukāra* by *ici ik hrasvādeśe*, *pṛṣodarādi*: *adhṛ* for *adhṛta*; **ohaṃ** — root *vah*, *ghañ* by *bahula* in the passive; **rātatamā** — root *rā dāne*, *kta*, *tamap*, loss of *śi* by *śeś chandasi bahulam*. *(Grammar, noted briefly; sūtra numbers not legible at 150 dpi are not given.)*
+
+**Pratipadārtha** *(p. 480)* — "**tavase** — to the strong; **turāya** — to the swift-going, or the injurer of enemies; **māhināya** — to the great in qualities; **ṛcīṣamāya** — to the one suited to the hymn; **adhrigave** — to the one of unobstructed going; **asmai indrāya** — to this Indra; **oham** — excellent; **stomam** — the hymn; **rātatamā** — [oblations] given with love [by former sacrificers]; **brahmāṇi** — oblations and hymns; **prayo na** — as food [is given to the hungry]; **pra harmi** — I offer well."
+
+**Bhāvārtha** *(p. 480)* — "To Indra, strong, swift-going, great in qualities, suited to the hymn, of unobstructed going, I offer an excellent hymn, and oblations given lovingly by the former sacrificers, as one gives food to the hungry; so I offer."
+
+**English Translation (the source's own, p. 481)** — "I offer acceptable adorations and oblations, offered by the preceeding [sic] sacrificers, to that powerful, quick-coursing, mighty, praiseworthy and unobstructed Indra, as food (to a hungry man)."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 481** — **it–u**: "these are classed in grammar as particles (*nipāta*); they have no meaning here; they are placed to fill out the line. The Nirukta writers also give, as line-fillers in the Veda, certain words — *kam, īm, id, u* [list as read [?]] — '*athāpi pādapūraṇāḥ kam īm id u iti*'." **turāya**: "*tvaramāṇāya* — the one who goes with vigilance; or *turvitre śatrūṇāṃ hiṃsitre* — the destroyer of enemies: both ways it is explained." **ṛcīṣamāya** — *ṛcā samāya*: "an epithet of the word *Indra*: whatever manner of praise is in the Riks, he has qualities of just that kind. *ṛcīṣamaḥ ṛcāsamaḥ* (Ni. 6-[?] [?])." **adhrigave** — *adhṛtagamanāya*: "one of unhindered going. *adhṛtakarmaṇy apīndro 'syadhriguḥ ucyate* (Ni. 5-11 [?]) — the Nirukta writer himself has used *adhrigu* as a synonym of the word Indra in this sense." **prayo na** — *praya iva*: "the word *prayas* appears in the Nirukta (Ni. 3-9 [?]) as a synonym of food." **oham**: "from *vah*: fit to be carried; or fit to be offered: both meanings are made plain."
+
+**Vyākaraṇa-prakriyā** *(pp. 481–482 — noted briefly)* — *Grammar pages, noted briefly.* **turāya**: *tura tvaraṇe*; *igupadhajñāprīkiraḥ kaḥ* (Pā. 3-1-135 as read [?]): *ka*; the *k* being *it*, no *laghūpadha-guṇa*; or *turvī hiṃsārthaḥ*, *turvatīti turaḥ*; *nandigrahapacādibhyo lyuṇinyacaḥ*: *ac*; loss of *v* in the Veda; *citaḥ*: end-acute; dative. **harmi**: *hṛñ haraṇe*, *laṭ* first person, *mip*; *bahulaṃ chandasi*: loss of *śap*; *guṇa* of the root, on account of the suffix; *nighāta* after a non-verb. *(The print here says "bahuvacana" for the *mip* ending; *mip* is the singular ending: noted [?], not adjusted.)* **māhināya**: *maha pūjāyām*; *inaṇ*; the *ṇ* being *it*: *ato 'upadhāyāḥ*: *vṛddhi* of the penultimate; dative. **ṛcīṣamāya**: *tṛtīyā tatkṛtārthena…* (Pā. 2-1-30); *tatpuruṣa*; *tṛtīyāpūrvapada-prakṛtisvara*; by *pṛṣodarādi* the *ī*; *suṣāmādiṣu ca* (Pā. 8-3-98 as read [?]): *ṣatva* of the *s* in *sama*. "Some say": root *ṛca stutau*, *igupadhāt kit* (Uṇ. 4-[?]): *i*; since *kit*, no *guṇa*: *ṛci*; for the feminine *kdikārādaktinaḥ* (*jīṣ*): *ṛcīṣ*, "praise", and "equal to it" = *ṛcīṣama*; *ṣatva* as before; on this view the first-member accent should be audible, since *jīṣ* is acute, but the Saṃhitā shows no such accent, so the matter of accent must be considered — or one should say the *Divodāsādi* group is an *ākṛtigaṇa* and includes it. **adhrigave**: *adhṛtaḥ anyena anivārito gaur gamanaṃ yasya saḥ adhrigur*; *goṣṭriyor upasarjanasya* (Pā. 1-2-48): shortening, since *go* is subordinate in the compound; *ici ik hrasvādeśe*: the *u*; *pṛṣodarādi*: *adhṛta* → *adhṛ*; dative. **ohaṃ**: *vaha prāpaṇe*; by *bahula*: *ghañ* in the passive; Vedic *saṃprasāraṇa* of *v*; *saṃprasāraṇāc ca*: the former form; *uh + a*, *guṇa* of the penultimate; or from *tuhir duhir uhir arthane*, *ghañ* as before; *ñit*: initial-acute (*ñnityādir nityam*). **rātatamā**: *rā dāne*; *kta*: *rāta*; *tamap*; in the neuter *śi*; *śeś chandasi bahulam*: loss of *śi*.
+
+---
+
+### Rik 61.2 (pp. 483–485, PDF 499–501)
+
+**Saṃhitā-pāṭha** *(p. 483)*
+
+> **अस्मा इदु प्रय इव प्र यंसि भराम्याङ्गूषं बाधे सुवृक्ति ।**
+> **इन्द्राय हृदा मनसा मनीषा प्रत्नाय पत्ये धियो मर्जयन्त ॥ २ ॥**
+
+*asmā id u praya iva pra yaṃsi bharāmy āṅgūṣaṃ bādhe suvṛkti |*
+*indrāya hṛdā manasā manīṣā pratnāya patye dhiyo marjayanta || 2 ||*
+
+**Pada-pāṭha** *(p. 483)*
+
+> अस्मै । इत् । ऊं इति । प्रयःऽइव । प्र । यंसि । भरामि । आङ्गूषम् । बाधे । सुऽवृक्ति ।
+> इन्द्राय । हृदा । मनसा । मनीषा । प्रत्नाय । पत्ये । धियः । मर्जयन्त ॥ २ ॥
+
+*asmai | it | ūṃ iti | prayaḥ-iva | pra | yaṃsi | bharāmi | āṅgūṣam | bādhe | su-vṛkti |*
+*indrāya | hṛdā | manasā | manīṣā | pratnāya | patye | dhiyaḥ | marjayanta || 2 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 483)*
+
+> **अस्मा इदु अस्मा एवेन्द्राय । प्रय इत्यन्ननाम । प्रय इवान्नमिव प्र यंसि । प्रयच्छामि । तदेव स्पष्टीक्रियते । बाधे शत्रूणां बाधनाय समर्थं सुवृक्ति सुष्ठ्वावर्जकमाङ्गूषं स्तोत्ररूपमाघोषं भरामि । संपादयामि । अन्येऽपि स्तोतारः प्रत्नाय पुराणाय पत्ये स्वामिन इन्द्राय हृदा हृदयेन मनसा तदन्तर्वर्तिनान्तःकरणेन मनीषा मनीषया तज्ज्ञानेन ज्ञानेन च धियः स्तुतीः कर्माणि वा मर्जयन्त । मार्जयन्ति । संस्कुर्वन्ति । प्र यंसि । यम उपरम इत्यस्माल्लटि पुरुषव्यत्ययः । बहुलं छन्दसीति शपो लुक् । आङ्गूषं । आङ्गूषः स्तोम आघोषः । नि. ३-११ [?] इति यास्कः । आङ्पूर्वाद्घुषेर्घञि पृषोदरादित्वाद्घो इत्यस्य गू आदेशः । आजो जकारस्य लोपाभावश्च । थाथादिनोत्तरपदान्तोदात्तत्वं । बाधे । बाधृ विलोडन इत्यस्मात्कृत्यार्थे तवैकेनिति भावे केन्प्रत्ययः । एजन्तत्वादव्ययत्वेन सुपो लुक् । मनीषा । सुपां सुलुगिति तृतीयाया डादेशः । पत्ये । पतिः समास एव । पा. १-४-८ । इति घिसंज्ञायाः समासविषयत्वात् घेर्ङितीति गुणाभावे यणादेशः ॥**
+
+*asmā id u asmā evendrāya | praya ity anna-nāma | praya ivānnam iva pra yaṃsi | prayacchāmi | tad eva spaṣṭīkriyate | bādhe śatrūṇāṃ bādhanāya samarthaṃ suvṛkti suṣṭhv āvarjakam āṅgūṣaṃ stotrarūpam āghoṣaṃ bharāmi | saṃpādayāmi | anye 'pi stotāraḥ pratnāya purāṇāya patye svāmina indrāya hṛdā hṛdayena manasā tadantarvartinā 'ntaḥkaraṇena manīṣā manīṣayā tajjñānena jñānena ca dhiyaḥ stutīḥ karmāṇi vā marjayanta | mārjayanti | saṃskurvanti | pra yaṃsi | yama uparama ity asmāl laṭi puruṣavyatyayaḥ | bahulaṃ chandasīti śapo luk | āṅgūṣaṃ | āṅgūṣaḥ stoma āghoṣaḥ | ni. 3-11 [?] iti yāskaḥ | āṅpūrvād ghuṣer ghañi pṛṣodarāditvād gho ity asya gū ādeśaḥ | āṅo jakārasya [sic — print reads so; probably the *ṅ*] lopābhāvaś ca | thāthādinottarapadāntodāttatvaṃ | bādhe | bādhṛ viloḍana ity asmāt kṛtyārthe tavaikeneti bhāve ken-pratyayaḥ | ejantatvād avyayatvena supo luk | manīṣā | supāṃ suluk iti tṛtīyāyā ḍādeśaḥ | patye | patiḥ samāsa eva | pā. 1-4-8 | iti ghisaṃjñāyāḥ samāsaviṣayatvāt gher ṅiti guṇābhāve yaṇādeśaḥ ||*
+
+*(Reading notes: "āṅgūṣa": the print writes the Saṃhitā and Pada forms with the anusvāra in the Saṃhitā — "āṃgūṣam" — and I normalise to *āṅgūṣam* [the print's own grammar uses *āṅgūṣa*]. The *tavaikeken* sūtra is Pā. 3-4-14 as read; the sūtra number 1-4-8 for *patiḥ samāsa eva* is as printed.)*
+
+**Translation of the bhāṣya:** "*Asmā id u*: to this very Indra. *Praya* is a name for food. *Praya iva*, like food: *pra yaṃsi*, I offer; this is itself made plain. *Bādhe*: for oppressing enemies, able; *suvṛkti*: well turning [him] towards us; I *bharāmi*, bring about, *āṅgūṣam*, a cry in the form of a hymn. Other singers too, to the ancient (*pratnāya*) lord (*patye*) Indra, *hṛdā*, with the heart, *manasā*, with the mind, i.e. the inner organ abiding in it, *manīṣā*, with the intelligence, i.e. with knowledge arising from it, make bright (*marjayanta*), refine (*saṃskurvanti*) their *dhiyaḥ*, praises or rites." *(Grammatical tail: *pra yaṃsi* — root *yam uparame*, *laṭ*, change of person (*puruṣavyatyaya*), loss of *śap*; *āṅgūṣam* — Yāska: '*āṅgūṣaḥ stoma āghoṣaḥ*' (Ni. 3-11 [?]), from *ghuṣ* with *āṅ*, *ghañ*, with *gū* substituted for *gho* by *pṛṣodarādi*; *bādhe* — *bādhṛ viloḍane*, *ken* in the sense of *tavai-ken*; indeclinable, loss of the case ending; *manīṣā* — *ḍā* for the instrumental by *supāṃ suluk*; *patye* — *pati* keeps the *ghi* name only in compounds (Pā. 1-4-8 as printed), so *guṇa* does not come; *yaṇ*. Characterized.)*
+
+**Pratipadārtha** *(p. 484)* — "**asmā idu** — to this very Indra; **prayeiva** — like food (the acceptable oblation); **prayaṃsi** — I offer; **bādhe** — in oppressing enemies; **suvṛkti** — the good doer of deeds; **āṅgūṣam** — the cry in the form of a hymn; **bharāmi** — I bring forth (others too bring hymns); **pratnāya** — to the ancient; **patye** — the lord; **indrāya** — to Indra; **hṛdā** — with the heart; **manasā** — with the mind (abiding in it); **manīṣā** — with knowledge (born from it); **dhiyaḥ** — praises, or rites; **marjayanta** — they perfect."
+
+**Bhāvārtha** *(p. 484)* — "I offer to Indra, as food, acceptable oblations. I bring a cry in the form of a hymn, effective in oppressing enemies. Other singers also, with heart, with mind and with striving knowledge, offer praises to Indra, the ancient and lord, and honour him."
+
+**English Translation (the source's own, p. 484)** — "I offer (oblations acceptable as) food (to the hungry) to that Indra ; I raise (to him) exclamations that may be of efficacy in discomfiting (my enemies) ; others (also) adore Indra, the ancient lord, in heart, in mind, and in understanding."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 484** — **asmā idu** — *asmai eva*: "here the indeclinables *it*, *u* are used in the sense of *eva* ('just'). 'To him (Indra)' is the sense fitting the context." **prayaḥ**: "this is a name for food (Ni. 3-9 [?]); it is read among the names of food." **āṅgūṣam** — *stotrarūpam āghoṣam*: "a proclamation in the form of praise. '*āṅgūṣaḥ stoma āghoṣaḥ*' (Ni. 3-11 [?]) — thus the Nirukta writer says, in the sense of proclaiming praise." **hṛdā**: "by the heart; here the word 'heart', by *lakṣaṇā*, is taken to mean the inner organ (*antaḥkaraṇa*) that lies in the heart." **marjayanta** — *mārjayanti saṃskurvanti*: "they perform a purifying consecration."
+
+**Vyākaraṇa-prakriyā** *(p. 485 — noted briefly)* — *Grammar page, noted briefly.* **prayaṃsi**: *yama uparame*; in place of the first-person singular of *laṭ*, *vyatyayo bahulam*: the second-person ending *sip*; *bahulaṃ chandasi*: loss of *śap*; *neś…jhali*: *m* → anusvāra; *nighāta* after a non-verb. **bharāmi**: *ḍubhṛñ bharaṇe*; *laṭ* first singular; it is after a verb, so with *atiṅaḥ* as the cause, no *nighāta*; *lasārvadhātuka* after a base from *a*-upadeśa is *anudātta*, the accent of the root stays. **āṅgūṣam**: Yāska as above; *ghañ* after *ghuṣir viśabdane* with *āṅ*; by *pṛṣodarādi* *gū* for *gho*, and *āṅ*'s *j* unelided; *thāthaghañ…* (Pā. 6-2-144 as read [?]): end-acute of the second member prevails over the *ñit* accent. **bādhe**: *bādhṛ viloḍane*; *kṛtyārthe tavaikekenanvaḥ* (Pā. 3-4-14 as read [?]): *ken* in the sense of *bhāva*; as *ejanta* kṛdanta, *kṛnmejantaḥ*: the name *avyaya*; *avyayād āpsupaḥ*: loss of the case ending. **manīṣā**: a word in *ā*, always feminine; instrumental singular: *supāṃ suluk*: *ḍā*. **patye**: the word *pati*, though ending in *i*, *patiḥ samāsa eva* (Pā. 1-4-8): *ghi* name only in compounds, so not here; before the dative *ṅe*, *ṅiti* gives no *guṇa*; *iko yaṇaci*: *y*. **marjayanta**: *mṛjū śuddhau*; *ṇic*, Vedic *laṅ*; *anta* for the third plural; *saṃjñāpūrvako vidhir anityaḥ* and *bahulaṃ chandasy amāṅyogepi*: no *aṭ* augment; *tiṅ* *nighāta*.
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.2 written (through p. 485 = PDF 501).**
+
+**Next task:** view PDF 502 onward (printed p. 486): Rik 61.3 Saṃhitā, and so on through Rik 61.16 (Pariśiṣṭa begins at p. 531 so the sūkta ends before it, ≈ p. 530); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa from p. 531 NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2 grammar partly summarized [?]; earlier flags as before.
