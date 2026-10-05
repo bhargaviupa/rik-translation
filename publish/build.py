@@ -12,6 +12,13 @@ H3_RE = re.compile(r'^###\s+Pages?\s+([\d–\-]+)\s+—\s+(S[ūu]kta\s+\d+),\s*(
 CHAPTER_RE = re.compile(r'^##\s+(.*)$')
 
 
+FN_STORE = []          # note bodies; markdown carries only a placeholder token
+LONG_NOTE = 900        # longer remarks stay on the page as small-type note blocks, not page-foot footnotes
+
+def make_ref(body):
+    FN_STORE.append(body)
+    return f'QQFN{len(FN_STORE)-1}QQ'
+
 PAGEREF_RE = re.compile(r'^(?:pp?\.)\s*[\d–\-, ]+(?:\s*lower half[^;]*)?$')
 INLINE_RE = re.compile(r'(?<!\*)\*\((.+?)\)\*(?!\*)')
 MINE_RE = re.compile(r'\*\*(Translation|Translation of [^*]*?) \((mine[^)]*)\):\*\*')
@@ -41,17 +48,18 @@ def inline_notes(blk, notes, rik_label, seen):
             return ''
         seen.add(body)
         notes.append((rik_label, body))
-        return f'^[{body}]'
+        return make_ref(body)
     blk = INLINE_RE.sub(sub, blk)
     def mine(m):
         body = f'The {m.group(1).lower()} here is mine' + m.group(2)[len('mine'):].replace(';', ':',1) if False else m.group(2)
         if body in seen: return f'**{m.group(1)}:**'
         seen.add(body); notes.append((rik_label, body[0].upper()+body[1:] + '.'))
-        return f'**{m.group(1)}:**^[{body[0].upper()+body[1:]}.]'
+        return f'**{m.group(1)}:**' + make_ref(body[0].upper()+body[1:] + '.')
     blk = MINE_RE.sub(mine, blk)
     return re.sub(r'[ \t]+\n', '\n', blk)
 
 def split_blocks(text):
+    text = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', text)   # a heading always starts its own block
     return [b for b in re.split(r'\n{2,}', text.strip('\n'))]
 
 def transform(md):
@@ -78,7 +86,10 @@ def transform(md):
         if nm and out and not out[-1].startswith('#') and not blk.startswith('*(Printed'):
             body = fix_stars(nm.group(1).strip())
             notes.append((rik_label, body))
-            out[-1] = out[-1].rstrip() + f' ^[{body}]'
+            if len(body) > LONG_NOTE:
+                out.append(make_ref(body))
+            else:
+                out[-1] = out[-1].rstrip() + ' ' + make_ref(body)
             continue
         out.append(inline_notes(blk, notes, rik_label, seen))
     return '\n\n'.join(out), notes
@@ -95,11 +106,22 @@ def notes_appendix(notes):
         for b in bodies:
             sk = lab.split(',')[0]
             if sk != cur: cur, n = sk, 0
-            n += 1
+            islong = len(b) > LONG_NOTE
+            if not islong: n += 1
             inline = pypandoc.convert_text(b, 'html', format='markdown-smart').replace('<p>', '').replace('</p>', '')
-            parts.append(f'<p><b>{n}.</b> {inline}</p>')
+            parts.append(f'<p><b>{"¶" if islong else str(n)+"."}</b> {inline}</p>')
     parts.append('</div>')
     return '\n'.join(parts)
+
+def resolve_refs(htm):
+    def one(m):
+        body = FN_STORE[int(m.group(1))]
+        inner = pypandoc.convert_text(body, 'html', format='markdown-smart+raw_html').strip()
+        inner = re.sub(r'^<p>(.*)</p>$', r'\1', inner, flags=re.S)
+        if len(body) > LONG_NOTE:      # inline inside a paragraph: small-type note
+            return f'<span class="longnote">{inner}</span>'
+        return f'<span class="fn">{inner}</span>'
+    return re.sub(r'QQFN(\d+)QQ', one, htm)
 
 def pandoc_html(md):
     return pypandoc.convert_text(md, 'html', format='markdown-smart+raw_html',
@@ -134,12 +156,15 @@ def front_matter(vol, vtitle, entries):
 <p>This translation is based on the Kannada edition of the <i>Ṛgveda-saṃhitā with the Sāyaṇa-bhāṣya</i>, edited and translated by Asthāna Mahāvidvān H. P. Venkata Rao and printed at Śrī Śāradā Press, Mysore, 1949, published by the gracious permission of His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore. The ornate cover reproduced on the first page is from that edition.</p>
 <p>The English translation was prepared with the assistance of Claude, an artificial-intelligence model made by Anthropic, working from scanned pages of the original. Readings that remain uncertain are marked [?] in the text.</p>
 <p><i>[Publisher, ISBN, edition and printing details — to be supplied. Permissions status of the 1949 original and of the portraits — to be confirmed before publication.]</i></p></section>
-<section class="portrait"><h2>Patron</h2>
+<section class="portrait"><h2>Patron of the First Edition</h2>
  <img class="pic" src="assets/maharaja.jpg" alt="Maharaja of Mysore">
  <p class="cap2">His Highness Śrī Jayacāmarājendra Wadiyar Bahadur, G.C.B., G.C.S.I.,<br>Maharaja of Mysore, by whose gracious permission the original edition was published.</p></section>
-<section class="portrait"><h2>Guru</h2>
+<section class="portrait"><h2>Guru &amp; President of the Board of Scholars</h2>
  <img class="pic" src="assets/guruji.jpg" alt="Guruji">
  <p class="cap2">Śrī Jagadguru Nāgaliṅga-parivrājakācārya-pīṭhādhyakṣa<br>Śilpasiddhānti Śivayogi Śrī Siddhaliṅga Svāmigaḷavaru,<br>President of the Veda-vimarśana Vidvan-maṇḍali</p></section>
+<section class="portrait pair"><h2>The Present Day</h2>
+ <div class="placeholder half">[Portrait of the present Maharaja — to be supplied]<br><br>[Name, title and caption]</div>
+ <div class="placeholder half">[Portrait of the present Guruji — to be supplied]<br><br>[Name, title and caption]</div></section>
 <section class="toc"><h2>Contents</h2><p class="tocsub">Sūkta by Sūkta, and Rik by Rik</p><ul>{toc}<li class="su"><a href="#notes">Collected Notes</a></li></ul></section>
 '''
 
@@ -149,7 +174,7 @@ def build(vol, mode):
     s, e = heads[0], (heads[1] if mode == 'pilot' else len(src))
     section = '\n'.join(src[s:e])
     body_md, notes = transform(section)
-    body_html = pandoc_html(body_md)
+    body_html = resolve_refs(pandoc_html(body_md))
     entries = []
     def tag(m):
         tg, inner = m.group(1), m.group(2)
@@ -159,10 +184,13 @@ def build(vol, mode):
             mm = re.search(r'S[ūu]kta\s+(\d+)\s+—\s+["“]?([^"”(]+)', text)
             short = f"Sūkta {mm.group(1)} · {mm.group(2).strip()}" if mm else text
             entries.append((sid, short, []))
-            return f'<h2 class="sukta" id="{sid}" data-short="{html.escape(short)}">{inner}</h2>'
-        rid = f'{entries[-1][0]}r{len(entries[-1][2])+1}'
+            cls = 'sukta first' if not entries[:-1] else 'sukta'
+            return f'<h2 class="{cls}" id="{sid}" data-short="{html.escape(short)}">{inner}</h2>'
+        h3n = getattr(tag, 'n', 0) + 1; tag.n = h3n
+        rid = f'{entries[-1][0]}h{h3n}'
         rl = re.sub(r'\s*\(.*$', '', re.sub(r'\s*pp\..*$', '', text)).strip()
-        entries[-1][2].append((rid, rl))
+        if re.fullmatch(r'Rik\s+\d+', rl):
+            entries[-1][2].append((rid, rl))
         return f'<h3 id="{rid}">{inner}</h3>'
     body_html = re.sub(r'<(h2|h3)[^>]*>(.*?)</\1>', tag, body_html, flags=re.S)
     suktas = entries

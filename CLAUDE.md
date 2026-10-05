@@ -152,3 +152,12 @@ this repo — read it if any of these come up.
   more reliable than the small-numeral page headers for varga numbering; prefer them.
 - **A helper script** that appends a section and a trailing "progress" stub must remove the previous stub first; check
   that the file ends in exactly one full progress note before committing.
+
+## Publication build (print PDF) — added after the translation was complete
+
+Goal: publish Volumes 1–5 as print-ready PDFs, **one volume at a time**. The closed translation `.md` files are never edited; `publish/build.py` reads them and writes `publish/out/volN_full.pdf` (+ `.html`).
+- Run: `cd publish && python3 build.py <vol> full` (≈1m45s for Vol 3; `pilot` builds front matter + first Sūkta). Needs `pip install pypandoc_binary weasyprint` and `apt-get install fonts-noto-core` (Noto Serif / Devanagari / Kannada).
+- Design (approved by the author): 6.5×9.5 in page, running heads (book title left / Sūkta right), roman folios for front matter then Arabic from the first Sūkta, each Sūkta opens on a right-hand page, Rik-wise contents with page numbers, translator's remarks as per-Sūkta numbered footnotes plus a "Collected Notes" appendix (numbers match). Remarks longer than 900 characters stay on the page as small-type "Note —" blocks (marked ¶ in the appendix). Inline `[?]` marks stay in the text.
+- Front matter: original cover (assets/cover_volN.jpg), title page (English translation by Bhargavi Upadhya, prepared with the assistance of Claude), copyright page (© 2026 Bhargavi Upadhya for the English), 1949 Maharaja and Guruji portraits (assets/maharaja.jpg, guruji.jpg — low resolution), one page reserved for the present Maharaja and Guruji (photos, names and captions still to be supplied), contents.
+- Lessons: a heading must start its own block (source headings sometimes follow a line with no blank line); never put note text inside pandoc `^[...]` (unbalanced brackets swallow headings) — use placeholder tokens; bold-wrapped `**(…)**` Sanskrit is not a note.
+- Status: Vol 3 built (799 pp.). Still to do: Vols 1, 2, 4, 5 (covers for 2–5 are already in publish/assets; Vol 1 cover to extract); present-day portraits; first-person wording in notes ("mine", "I give them as read") to be reworded for publication; outside expert review of the ~9,000 `[?]` readings.
