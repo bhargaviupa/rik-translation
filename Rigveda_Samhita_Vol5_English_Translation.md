@@ -6503,8 +6503,106 @@
 
 ---
 
+**Rik 55.5, continued** *(p. 359, PDF 375)*
+
+**Special Topics, rest** — **adhā cana** — "this group of words gives the sense 'immediately after'." **śraddadhati** — "*śrat* is a name of truth; they believe it true when it is said that Indra is the mightiest." **tviṣīmate** — "to Indra, who has radiance."
+
+**Vyākaraṇa-prakriyā** *(pp. 359–360 — grammar pages, noted briefly)*
+- **mahāni**: *mahat*; in the neuter plural *śi* gives *mahānti*; in the Veda the loss of *t* gives *mahāni*; or *mahyante pūjyante* (*mah*) with *ka* by *ghañarthe kavidhānam*: *maha* with *num* and lengthening in the neuter; the suffix-accent makes the *ā* after *h* acute.
+- **samithāni**: *iṇ gatau*; *samīṇaḥ* (Uṇ. 4-… as read [?]) gives *thak* after *sam*; *kit*, so no *guṇa*; *thāthaghañktājabitrakāṇām*: end-acute of the last member.
+- **majmanā**: *ṭumasjo śuddhau*; *manin*; *masj + man*: *jhalāṃ jaśo jhaśi* gives *d* for *s*; *stoḥ ścunā ścuḥ*, *ṣṭunā ṣṭuḥ* [*ścutva/jaśtva*]: *j*; suffix-accent; instrumental.
+- **adhā**: *atha* with *tha* → *dha* in the Veda; *nipātasya ca* lengthens.
+- **tviṣīmate**: *tviṣa dīptau*; *in* (*ins sarvadhātubhyaḥ*, Uṇ. 4-… as read [?]); *nit*: initial-acute; *tad asyāsty asmin* gives *matup*; lengthening of the first member (*anyeṣām api dṛśyate*).
+- **nighanighnate**: *han hiṃsāgatyoḥ*; *vyatyaya* gives *ātmanepada* and the plural; *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* reduplication; *gamahanajana…* drops the penultimate *a*; *hohanteḥ…*: *gh* for the *h*; *ātmanepadeṣv nataḥ*: *at* for *jha*… *nighanighnate*; *āgamīgamtīti ca* [as read]: *ity* is for "such like", so one must reckon this among the Vedic exceptions. **|| 5 ||**
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 (contents table: 55 at p. 341, 56 ≈371, 57 ≈392, 58 ≈411). Sūkta 55 (*divaś cid asya*, 8 Riks) in progress: Riks 55.1–55.4 complete; Rik 55.5 written through its first Special Topics (printed p. 358, PDF 374). The remaining Special Topics and Vyākaraṇa notes of Rik 5 (p. 359, PDF 375) and Riks 55.6–55.8 NOT yet written.**
+### Rik 55.6 (pp. 360–363, PDF 376–379)
 
-**Next task:** continue at printed p. 359 (PDF 375) with "**Rik 55.5, continued**", then Riks 6–8 and the close of Sūkta 55; then Sūktas 56 and 57 (confirm start pages from the print); stop after Sūkta 57; then update CLAUDE.md. Page images exist for PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* reading [?] and the Kannada argument on *vīrya* accent summarized; Rik 4 grammar tail summarized; Uṇādi/Pāṇini numerals [?].
+**Saṃhitā-pāṭha** *(p. 360)*
+
+> **स हि श्रवस्युः सदनानि कृत्रिमा क्ष्मया वृधान ओजसा विनाशयन् ।**
+> **ज्योतींषि कृण्वन्नवृकाणि यज्यवे ऽव सुक्रतुः सर्तवा अपः सृजत् ॥ ६ ॥**
+
+*sa hi śravasyuḥ sadanāni kṛtrimā kṣmayā vṛdhāna ojasā vināśayan |*
+*jyotīṃṣi kṛṇvann avṛkāṇi yajyave 'va sukratuḥ sartavā apaḥ sṛjat || 6 ||*
+
+**Pada-pāṭha** *(p. 360)*
+
+> सः । हि । श्रवस्युः । सदनानि । कृत्रिमा । क्ष्मया । वृधानः । ओजसा । विऽनाशयन् ।
+> ज्योतींषि । कृण्वन् । अवृकाणि । यज्यवे । अव । सुऽक्रतुः । सर्तवै । अपः । सृजत् ॥ ६ ॥
+
+*saḥ | hi | śravasyuḥ | sadanāni | kṛtrimā | kṣmayā | vṛdhānaḥ | ojasā | vi-nāśayan |*
+*jyotīṃṣi | kṛṇvan | avṛkāṇi | yajyave | ava | su-kratuḥ | sartavai | apaḥ | sṛjat || 6 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 360)*
+
+> **श्रवस्युरन्नं यशो वात्मन इच्छन् कृत्रिमा कृत्रिमाणि क्रियया निर्वृत्तानि सदनान्यसुरपुराण्योजसा बलेन विनाशयन् क्ष्मया भूम्या समानं वृधानो वर्धनशीलः । यद्वा क्षम्येत्योजोविशेषणं शत्रूणामभिभवित्रा बलेनेत्यर्थः । ज्योतींषि सूर्यादीनि वृत्रेणावृतान्यवृकाणि वृकेणावरकेण तेन रहितानि कृण्वन् कुर्वन् सुक्रतुः शोभनकर्मसहित एवंविधः स खल्विन्द्रो यज्यवे यष्ट्रे यजमानाय तदर्थं सर्तवै सरणायापो वृष्टिलक्षणान्युदकान्यवासृजत् । वृष्टिं कृतवानित्यर्थः ॥**
+
+*śravasyur annaṃ yaśo vātmana icchan kṛtrimā kṛtrimāṇi kriyayā nirvṛttāni sadanāny asurapurāṇy ojasā balena vināśayan kṣmayā bhūmyā samānaṃ vṛdhāno vardhanaśīlaḥ | yadvā kṣmayety ojoviśeṣaṇaṃ śatrūṇām abhibhavitrā balenety arthaḥ | jyotīṃṣi sūryādīni vṛtreṇāvṛtāny avṛkāṇi vṛkeṇāvarakeṇa tena rahitāni kṛṇvan kurvan sukratuḥ śobhanakarmasahita evaṃvidhaḥ sa khalv indro yajyave yaṣṭre yajamānāya tadarthaṃ sartavai saraṇāyāpo vṛṣṭilakṣaṇāny udakāny avāsṛjat | vṛṣṭiṃ kṛtavān ity arthaḥ ||*
+
+*(The tail, pp. 360 foot–361 and the Kannada grammar notes: on* kṛtrimā *(*ḍukṛñ karaṇe*, *ktri* by *ḍvitaḥ ktriḥ*, then *trer mam nityam* gives *map*),* kṣmayā*,* vṛdhānaḥ *(*cānaś*),* avṛkāṇi *(*vṛñ varaṇe*, Uṇādi *kak*; bahuvrīhi),* yajyave *(*yaja*, Uṇādi *yu*),* sukratuḥ*,* sartavai *(*sṛ gatau*, *tavai*),* apaḥ*,* sṛjat *(*sṛja visarge*, *laṅ*, no *aṭ*) — noted below.)*
+
+**Translation of the bhāṣya:** "*Śravasyuḥ*, wishing for food or fame for himself, *vināśayan*, destroying with strength the *kṛtrimā sadanāni*, the artificial dwellings — the cities of the Asuras built by effort — *kṣmayā vṛdhānaḥ*, growing equal to the earth (or: *kṣmayā* as an epithet of *ojasā*, 'the strength that overcomes enemies'); *jyotīṃṣi*, the luminaries such as the sun, covered by Vṛtra, *avṛkāṇi kṛṇvan*, making free of the *vṛka* (the coverer) — such Indra, *sukratuḥ*, of good deeds, *yajyave*, for the sacrificer, *sartavai*, to flow, *apaḥ ava sṛjat*, let down the waters, the rains: made rain."
+
+**Pratipadārtha** *(p. 361)* — "**śravasyuḥ** — desiring food or fame; **kṛtrimā** — well built; **sadanāni** — (of the Rākṣasas) houses; **ojasā** — by his strength; **vināśayan** — destroying; **kṣmayā** — like the earth, or equal to his power; **vṛdhānaḥ** — growing widely; **jyotīṃṣi** — the luminaries such as the sun; **avṛkāṇi** — free of the cover (of Vṛtra); **kṛṇvan** — making; **sukratuḥ** — with excellent works; **saḥ hi** — that very Indra; **yajyave** — for the sacrificer; **sartavai** — to flow; **apaḥ** — the waters; **ava sṛjat** — let go (made the rain fall)."
+
+**Bhāvārtha** *(p. 361)* — "Desiring fame, destroying the well-built houses of the Rākṣasas with his strength, growing as wide as the earth, freeing the sun and other luminaries from the covering of Vṛtra, and doing excellent works, that very Indra sent down rain for the use of the sacrificer, and made the waters flow."
+
+**English Translation (the source's own, p. 362)** — "Desiring of fame, destroying the well-built houses of the Asuras with his power, expanding like the earth and setting the (heavenly) luminaries free from concealment, he, the performer of good deeds enables the waters to flow for the sake of his worshippers."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 362**
+- **śravasyuḥ** — "One who wishes food or fame for himself."
+- **kṛtrimā** — "*Kṛtrimāṇi kriyayā nirvṛttāni*: things made, built by one's own effort."
+- **kṣmayā** — "The power that destroys enemies; it is an epithet of *ojasā*."
+- **jyotīṃṣi avṛkāṇi** — "The Asura Vṛtra, abiding in the atmosphere, covered the sun and all the planets; Indra, having killed him, removed all the affliction that had come to the luminaries from Vṛtra: he destroyed all the coverings that Vṛtra had made."
+- **yajyave** — "*Yaṣṭre*: for the sacrificer."
+- **sartavai** — "From the root *sṛ gatau*: it indicates 'to flow, for the sake of going'."
+
+**Vyākaraṇa-prakriyā** *(pp. 362–364 — grammar pages, noted briefly)*
+- **śravasyuḥ**: "*śravaḥ annam ātmana icchati śravasyati*"; *supa ātmanaḥ kyac*; *kyāc chandasi*: *u*; *ato lopaḥ*; end-acute by the suffix.
+- **kṛtrimā**: *ḍukṛñ karaṇe*; *ḍu* is *it* by *ādir ñiṭuḍavaḥ*, lost; *ḍvitaḥ ktriḥ* (Pā. 3-3-88): *ktri* in the action sense; *ktrer mam nityam* (Pā. 4-4-20): *map* in the sense of "accomplished by"; *ktri* is *kit*, so no *guṇa*; *map* being *pit* is *anudātta*, so the *ktri*-suffix accent remains; in the neuter plural *śi* is dropped by *śeś chandasi bahulam*.
+- **kṣmayā**: *kṣamūṣ sahane*; *kṣamate prāṇijātakṛtam upadravam iti kṣamā*; *śidbhidādibhyo 'ṅ* (Pā. 3-3-104): *aṅ*; *ajādyataṣ ṭāp*; the penultimate *a* lost by *vyatyaya*: *kṣmā*; instrumental *kṣmayā*; the ending's acute (Vedic). Or the root in the sense of overcoming: *mani*; Uṇādi *manin*; in the feminine by *vyatyaya*; *ṅīp* barred by *manaḥ* (Pā. 4-1-11); *ḍāp* by *ḍābubhābhyām anyatarasyām*, *ṭi* lost.
+- **vṛdhānaḥ**: *vṛdhu vṛddhau*; *tācchīlyavayoḥ…cānaś*; *śap* → *luk* (*bahulaṃ chandasi*); *cānaś* being *jit*… no *laghūpadha guṇa*; *citaḥ*: end-acute.
+- **avṛkāṇi**: *vṛñ varaṇe*; *sṛvṛbhūśuṣimuṣibhyaḥ kak* (Uṇ. 3-… as read [?]): *kak*, *kit*, no *guṇa*; *na vidyante vṛkāṇi yeṣām*: *nañsubhyām*: end-acute.
+- **yajyave**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yajimaniśundhidasijanibhyo yuḥ* (Uṇ. 3-… as read [?]): *yu*; dative singular; *vṛṣādi* (*ākṛtigaṇa*): initial-acute.
+- **sukratuḥ**: bahuvrīhi; *kratvādayaś ca*: the *kṛdanta*-final accent is set aside; initial-acute of the last member.
+- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ…*: *tavai*; *guṇa* by *ārdhadhātuka*; *antaś ca tavai yugapat* (Pā. 6-1-200): initial and final both acute at once.
+- **apaḥ**: accusative plural of *ap*; *ūḍidam…*: *śas* acute.
+- **sṛjat**: *sṛja visarge*, *tudādi*; *laṅ* third singular; *itaś ca*: *i* dropped; *tudādibhyaḥ śaḥ*; *śa* is *pit*, so *anudātta*; no *laghūpadha guṇa* (*sārvadhātukam apit*); no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); no *nighāta* in this position. **|| 6 ||**
+
+---
+
+### Rik 55.7 (pp. 364–, PDF 380–)
+
+**Saṃhitā-pāṭha** *(p. 364)*
+
+> **दानाय मनः सोमपावन्नस्तु तेऽर्वाञ्चा हरी वन्दनश्रुदा कृधि ।**
+> **यमिष्ठासः सारथयो य इन्द्र ते न त्वा केता आ दभ्नुवन्ति भूर्णयः ॥ ७ ॥**
+
+*dānāya manaḥ somapāvann astu te 'rvāñcā harī vandanaśrud ā kṛdhi |*
+*yamiṣṭhāsaḥ sārathayo ya indra te na tvā ketā ā dabhnuvanti bhūrṇayaḥ || 7 ||*
+
+**Pada-pāṭha** *(p. 364)*
+
+> दानाय । मनः । सोमऽपावन् । अस्तु । ते । अर्वाञ्चा । हरी इति । वन्दनऽश्रुत् । आ । कृधि ।
+> यमिष्ठासः । सारथयः । ये । इन्द्र । ते । न । त्वा । केताः । आ । दभ्नुवन्ति । भूर्णयः ॥ ७ ॥
+
+*dānāya | manaḥ | soma-pāvan | astu | te | arvāñcā | harī iti | vandana-śrut | ā | kṛdhi |*
+*yamiṣṭhāsaḥ | sārathayaḥ | ye | indra | te | na | tvā | ketāḥ | ā | dabhnuvanti | bhūrṇayaḥ || 7 ||*
+
+**Sāyaṇa-bhāṣya** *(p. 364 — begins; continues on p. 365)*
+
+> **हे सोमपावन् सोमस्य पातरिन्द्र ते त्वदीयं मनो दानायास्मदभिमतफलप्रदानायास्तु । भवतु । हे वन्दनश्रुत् वन्दनानां स्तुतीनां श्रोतः हरी त्वदीयावश्वावर्वाञ्चास्मद्यज्ञाभिमुखावा कृधि । आभिमुख्येन कुरु । हे इन्द्र ते तव स्वभूता ये सारथयः सन्ति ते यमिष्ठासोऽतिशयेन यंतारः । अश्वनियमनकुशला इत्यर्थः । यस्मादेवं तस्मात्केताः प्रातिकूल्यज्ञातारो भूर्णयः स्वकीयायुधादीनां भर्तारः । यद्वा । भीतास्त्रस्नवः शत्रवस्त्वा त्वां ना दभ्नुवन्ति । …**
+
+*he somapāvan somasya pātar indra te tvadīyaṃ mano dānāyāsmadabhimataphalapradānāyāstu | bhavatu | he vandanaśrut vandanānāṃ stutīnāṃ śrotaḥ harī tvadīyāv aśvāv arvāñcāsmadyajñābhimukhāv ā kṛdhi | ābhimukhyena kuru | he indra te tava svabhūtā ye sārathayaḥ santi te yamiṣṭhāso 'tiśayena yaṃtāraḥ | aśvaniyamanakuśalā ity arthaḥ | yasmād evaṃ tasmāt ketāḥ prātikūlyajñātāro bhūrṇayaḥ svakīyāyudhādīnāṃ bhartāraḥ | yadvā | bhītās trasnavaḥ śatravas tvā tvāṃ nā dabhnuvanti | …* *(continued on p. 365)*
+
+---
+
+---
+
+---
+
+**Progress note — Volume 5: Sūktas 47–54 COMPLETE (printed pp. 1–340). User instruction (2026-10-05): "Continue with next 3 sūktas" = Sūktas 55, 56, 57 (contents table: 56 ≈ p. 371, 57 ≈ 392, 58 ≈ 411). Sūkta 55 (*divaś cid asya*, 8 Riks) in progress: Riks 55.1–55.6 complete; Rik 55.7 Saṃhitā, Pada and the opening of the bhāṣya written (printed p. 364, PDF 380); the bhāṣya continues on p. 365 (PDF 381) at "…yadvā bhītās trasnavaḥ śatravas tvā tvāṃ nā dabhnuvanti | …". Riks 55.8 NOT yet written.**
+
+**Next task:** continue at printed p. 365 (PDF 381) with "**Rik 55.7, continued**", then Rik 8 and the close of Sūkta 55; then Sūktas 56 and 57 (confirm start pages from the print); stop after Sūkta 57; then update CLAUDE.md. Page images exist for PDF 357–480 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). To save effort the Vyākaraṇa notes are kept to short characterizations. Routines PAUSED. Flags for Sūkta 55: introduction numerals [?]; Rik 1 *darśayitnā* [?]; Rik 2 Tai. Saṃ. quotation garbled [?]; Rik 3 *nākārṣīḥ* [?]; Uṇādi/Pāṇini numerals [?].
