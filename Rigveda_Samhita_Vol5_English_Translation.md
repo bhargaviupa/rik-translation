@@ -8989,8 +8989,50 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ---
 
+### Rik 61.11 (pp. 512–514, PDF 528–530)
+
+**Saṃhitā-pāṭha** *(p. 512)*
+
+> **अस्येदु त्वेषसा रन्त सिन्धवः परि यद्वज्रेण सीमयच्छत् ।**
+> **ईशानकृद्दाशुषे दशस्यन्तुर्वीतये गाधं तुर्वणिः कः ॥ ११ ॥**
+
+*asyed u tveṣasā ranta sindhavaḥ pari yad vajreṇa sīm ayacchat |*
+*īśānakṛd dāśuṣe daśasyan turvītaye gādhaṃ turvaṇiḥ kaḥ || 11 ||*
+
+**Pada-pāṭha** *(p. 512)*
+
+> अस्य । इत् । ऊं इति । त्वेषसा । रन्त । सिन्धवः । परि । यत् । वज्रेण । सीम् । अयच्छत् ।
+> ईशानऽकृत् । दाशुषे । दशस्यन् । तुर्वीतये । गाधम् । तुर्वणिः । कः । इति कः ॥ ११ ॥
+
+*asya | it | ūṃ iti | tveṣasā | ranta | sindhavaḥ | pari | yat | vajreṇa | sīm | ayacchat |*
+*īśāna-kṛt | dāśuṣe | daśasyan | turvītaye | gādham | turvaṇiḥ | kaḥ | iti kaḥ || 11 ||*
+
+**Sāyaṇa-bhāṣya** *(pp. 512–513)*
+
+> **अस्यैवेन्द्रस्य त्वेषसा दीप्तेन बलेन सिन्धवः समुद्राः । यद्वा । गङ्गाद्याः सप्त नद्यो रन्त । स्वे स्वे स्थाने रमन्ते । यद्यस्मादयमिन्द्रो वज्रेण सीमेनान्सिन्धून्वज्रेण पर्ययच्छत् । परितो नियमितवान् । अपि च ईशानकृत् वृत्रादिशत्रुवधेनात्मानमैश्वर्यवन्तं कुर्वन्निन्द्रो दाशुषे हविर्दात्रे [?] यजमानाय फलं दशस्यन् प्रयच्छन् तुर्वणिस्तूर्णसंभजनः । तुर्वणिस्तूर्णवनिरिति यास्कः । नि. ६-१४ [?] । यद्वा । तुर्विता शत्रूणां हिंसिता । एवंभूत इन्द्रस्तुर्वीतये एतत्संज्ञायोदके निमग्नाय ऋषये गाधमवस्थानयोग्यं धिष्ण्यप्रदेशं कः । अकार्षीत् ॥**
+
+*asyaivendrasya tveṣasā dīptena balena sindhavaḥ samudrāḥ | yadvā | gaṅgādyāḥ sapta nadyo ranta | sve sve sthāne ramante | yad yasmād ayam indro vajreṇa sīm enān sindhūn vajreṇa pary ayacchat | parito niyamitavān | api ca īśānakṛt vṛtrādiśatruvadhenātmānam aiśvaryavantaṃ kurvann indro dāśuṣe havirdātre [?] yajamānāya phalaṃ daśasyan prayacchan turvaṇis tūrṇasaṃbhajanaḥ | turvaṇis tūrṇavanir iti yāskaḥ | ni. 6-14 [?] | yadvā | turvitā śatrūṇāṃ hiṃsitā | evaṃbhūta indras turvītaye etatsaṃjñāyodake nimagnāya ṛṣaye gādham avasthānayogyaṃ dhiṣṇyapradeśaṃ kaḥ | akārṣīt ||*
+
+*(Reading note: *havirdātre* — in the print the letters after *havir-dā* are crowded (*dātravaśe*-like); I read *havirdātre*, [?]. The grammatical tail, pp. 513–514, is characterized, not transcribed, below under the Vyākaraṇa notes.)*
+
+**Translation of the bhāṣya:** "*Asyed u tveṣasā*: by the shining strength of this very Indra *sindhavaḥ*, the oceans, or the seven rivers beginning with the Gaṅgā, *ranta*, rejoice, each in its own place; for *yad*, since, this Indra *pari ayacchat*, restrained on every side with the *vajra*, *sīm*, these rivers. Further: *īśānakṛt*, making himself lordly by slaying Vṛtra and the other enemies, Indra, *dāśuṣe*, to the sacrificer who offers the oblation, *daśasyan*, giving the fruit, *turvaṇiḥ*, who swiftly shares [in giving] (Yāska: '*turvaṇiḥ* is *tūrṇavaniḥ*', Ni. 6-14 [?]); or *turvitā*, the slayer of enemies — such an Indra *kaḥ*, made, for *turvīti*, the sage by that name who was sunk in the water, *gādham*, a standing-place, a spot fit to stand on."
+
+**Pratipadārtha** *(p. 513)* — "**yat** — because; **vajreṇa** — with his vajra weapon; **sīm** — all these rivers; **pari ayacchat** — he made to flow round and restrained; **asyedu** — of this very Indra; **tveṣasā** — by shining strength; **sindhavaḥ** — the oceans or the seven rivers beginning with the Gaṅgā; **ranta** — sport in their own places; **īśānakṛt** — [by slaying Vṛtra and other enemies] making his lordship known; **dāśuṣe** — to the sacrificer who gives the oblation; **daśasyan** — giving [the fruit]; **turvaṇiḥ** — swift-going, or the destroyer of enemies; **turvītaye** — to the sage named Turvīti [sunk in the water]; **gādham** — a place for dwelling; **kaḥ** — made."
+
+**Bhāvārtha** *(p. 513)* — "Indra with his vajra made the way for the seven rivers and made them flow; therefore the seven rivers, beginning with the Gaṅgā, sport in their own places by the help of his shining strength. And Indra, by slaying enemies such as Vṛtra, making his lordship known, and giving to the sacrificer who offers the oblation the fruit [of his rite], himself swift-going, made a dwelling-place for the sage Turvīti."
+
+**English Translation (the source's own, p. 513)** — "Through his power the rivers sport, since he has, by his thunderbolt, determined their limits ; establishing his supremacy (by killing Vritra) and granting recompense to the giver (of the oblation), he, the swift-moving, provided a resting place for Turviti."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 513–514** — **tveṣasā** — *dīptena balena*: "by shining splendour and by strength." **sindhavaḥ**: "here the word *sindhu* is explained as 'ocean', or as the seven rivers beginning with the Gaṅgā." **rante** — *ramu krīḍāyām*: "each shines (sports) in its own place: this is the sense." **sīm** — *enān sindhūn*: "this word has the sense of *parigraha* [taking in, i.e. 'all']; it also fills out the line, i.e. it signals an object fit to be accepted, and completes the sense of the Vedic sentence. '*sīm iti parigrahārthīyo vā padapūraṇo vā*' (Ni. 1-[?] [?]) — in the Nirukta the same sense as above is stated of the word *sīm*." **īśānakṛt**: "points to Indra's greatness by his slaying of Vṛtra and the others." **turvaṇiḥ** — *tūrṇasaṃbhajanaḥ*: "one who vigilantly destroys enemies. *turvaṇiḥ stūrṇavaniḥ* (Ni. 6-14 [?]); or *turvitā śatrūṇāṃ hiṃsitā* — one who especially destroys foes (Indra)." **turvītaye**: "a certain great sage, Turvīta, who was sinking in the water." **gādham** — *āvasthānayogyaṃ dhiṣṇyapradeśam*: "a part of the house fit for dwelling in."
+
+**Vyākaraṇa-prakriyā** *(p. 514 — noted briefly)* — *Grammar page, noted briefly.* **rante**: *ramu krīḍāyām*; *chandasi luṅlaṅliṭaḥ*: *laṅ* in the present sense; third plural: *jho 'ntaḥ*: *ant*; *bahulaṃ chandasi*: loss of *śap*; Vedic loss of the root's final; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **āyacchat**: *yama uparame*; *laṅ*, third singular *tip*; *itaś ca*: loss of *i*; *iṣugamiyamāṃ chaḥ* (Pā. 7-3-77 as read [?]): *cha* before *śap*; the augment *aṭ*; because of the *yad* word no *nighāta* (*yadvṛttānnityam*); initial acute from *aṭ*. **īśānakṛt**: *īśānaṃ karoti*; *kṛñ* + *kvip*; *hrasvasya piti kṛti tuk*: *tuk*; *gatikārakopapadāt kṛt*: accent of the first member. **kaḥ**: *ḍukṛñ karaṇe*; *luṅ*, third singular *tip*; *itaś ca*; *cli luṅi*: *cli*, whose loss is by *mantre ghasahvaraṇaśavṛdahādyāṅ…* (Pā. 2-4-80 as read [?]); *sārvadhātukārdhadhātukayoḥ*: *guṇa* of the root vowel; *hal-ṅyābbhyo…*: loss of *ti*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *rutva*, *visarga*; *nighāta*.
+
 ---
 
-**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.10 written (through p. 512, upper part = PDF 528).**
+---
 
-**Next task:** Rik 61.11 begins in the lower half of p. 512 (PDF 528; Saṃhitā, Pada, and the first lines of the bhāṣya already viewed, NOT yet written: re-view PDF 528 and continue on PDF 529 [bhāṣya end, Pratipadārtha, Bhāvārtha, English begin p. 513], 530 …); then Riks 61.12–61.16 (Pariśiṣṭa begins at p. 531, so the sūkta ends before it, ≈ p. 530 or a little later — the contents table's page is approximate); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.10 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
+---
+
+**Progress note — Volume 5: Sūktas 47–60 COMPLETE (printed pp. 1–478, top). Sūkta 61 (*asmā id u pra tavase*, 16 Riks, Nodhas, Indra, Triṣṭubh; starts p. 478 lower half) IN PROGRESS: introduction, heading block, Riks 61.1–61.11 written (through p. 514 = PDF 530).**
+
+**Next task:** Rik 61.12 begins at the top of p. 515 (PDF 531; Saṃhitā, Pada and the first lines of the bhāṣya already viewed, NOT yet written: re-view PDF 531 and continue on PDF 532 …); then Riks 61.13–61.16 (Pariśiṣṭa begins at p. 531 per the contents table, but that is approximate: the sūkta evidently runs past p. 530 — confirm from the print); then close of Sūkta 61 (printed line if any); then update CLAUDE.md (Volume 5 complete; Volume 6 set-up only when asked; Pariśiṣṭa NOT to be translated). Page images PDF 357–550 in `/tmp/x/w-NNN.jpg`; append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`, section file ends in `---`). Routines PAUSED. Flags: Sūkta 61 introduction and Riks' reference numerals [?]; 61.1 *turvitre* and Yāska's pāda-pūraṇa list [?]; 61.2–61.11 grammar notes partly summarized, sūtra numerals [?], some sūtra names are approximations of small print (to check if an expert reviews); 61.4 *suvṛkti* unclear word [?]; 61.5 *gūrta* root form unclear [?]; 61.6 *vidat* gloss [?]; 61.7 *ācūcurat*, *sutyādivasātmako*, Taittirīya numerals [?]; 61.8 sūtra numerals [?]; 61.9 Ṛg 3-42-3 quotation and *praririca* heading [?]; 61.10 Uṇādi numeral and *āto manin* sūtra [?]; 61.11 *havirdātre* [?], Nirukta numerals [?]; earlier flags as before. FUTURE GRAMMAR NOTES: short — name the words treated and only the sūtras legible.
