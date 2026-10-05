@@ -10983,8 +10983,76 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ---
 
+### Printed p. 686 (PDF 702)
+
+*(Material things, continued)* "…[the deities themselves…] one should not think of this as the doctrine of 'all (*viśva*)'. Here each thing has its own place. It may be called merely worship of things."
+
+"The rivers, being of the form of deities, have been discussed already."
+
+**Mountains.** "Mountains possess divine life. They are praised about twenty times in the plural and four times in the singular. In this way mountains alone are nowhere praised; generally they are praised together with water, rivers, plants, trees, heaven and earth (2-?-?; etc.), or with Savitṛ, Indra and other deities (6-?-?; etc.), as those who are endowed with manliness, firm and well satisfied (3-?-?). In *Indrā-parvatā* it seems that a position equal to Indra's is intended (1-?-?; 1-?-?). The two travel in one big chariot; they are called together to come to the sacrifice (3-?-?). Here the mountain is a mountain-deity and Indra's companion."
+
+**Herbs (*Oṣadhi*).** "The herbs too have obtained divinity. The whole of the sūkta 10-97 is devoted to praising the power of these to cure diseases. They are described as mothers, as deities, and the like. All the crops are subject to the Soma plant, and Soma is available to all. A crop that is useful as a medicine is praised as a goddess born in the earth-goddess (Av. 6-?-?). So that they should not stand in the way of offspring, an animal is also offered as a sacrifice to these herbs (Tai. Saṃ. 2-?-?-?)."
+
+**Trees (*Vanaspati*).** "Trees (in the plural, 2-?-?; 10-?-?, or in the singular, 1-?-?; Vāl. 6-?) are conceived as deities together with water and mountains. At marriage ceremonies, the worship of big trees (the Aśvattha and others) is prescribed."
+
+**The Forest (*Araṇyānī*).** "In the sūkta 10-146 the forest-deity (the presiding deity of the forest) is described under the name *Araṇyānī*. She is the mother of the wild beasts; though there is no agriculture, there is no lack of food. The various sounds heard in the forest are described in various ways. But the part played by these crops and forest-deities is not important, not only in the Vedas but in sacrifices and rites. Only in Buddhist books is a very close kinship between them and men established."
+
+## Implements (*Upakaraṇagaḷu*)
+
+"Another group of things that come within personification and the ascription of divinity are the implements of sacrifice. The chief of these is the sacrificial post (*yūpastambha*). It has the names *vanaspati* and *svaru* as well. Both are praised in 3-?-? as being of the form of deities. They are purified and adorned by the priests. The posts set up by the priests go, like the deities and other deities, near the deities. In the ten and eleven mantras of the Āprī-sūktas it is said that the sacrificial post, purified three times with ghee, and placed at Agni's side, is prayed to send the oblations to the deities…"
+
+### Printed p. 687 (PDF 703)
+
+"…(the same sūkta, 3-?-?; 10-?-?). The *barhis* (sacred grass) too is said to be a deity. The doors of the sacrificial hall have often been called deities (*Devīr dvāraḥ*)."
+
+"The stones used for pressing Soma-juice (*grāvāṇaḥ*, *adrayaḥ*) are conceived as deities in three sūktas (10-?-?, ?, ?). They have no destruction, and no old age; and they are greater than heaven. At the time of pressing Soma they are like horses or bulls, and the sound produced by them reaches heaven. They are prayed to ward off Rākṣasas and harm, and to grant lordship and progeny. In 1-?-?, ? the *kalabatta* (pestle), *kuṭṭaṇi* (mortar) and the like, sounding loudly, are prayed to press the Soma juice."
+
+"In the Atharvaveda it is said that the remnant of the *homa* (the left-over, *ucchiṣṭa*) has great divine power (Av. 11-?); likewise the sacrificial ladles *sruk*, *sruva* and the rest, used in sacrifice, have power."
+
+"There are some praise-sentences too for the agricultural implements, the plough (*śuna*, *sīra*), (4-?-? to ?), and for them the *puroḍāśa* is prescribed (Śat. Brā. 2-?-?-?)."
+
+"Weapons too have the form of deities. The whole sūkta 6-75 is devoted to the praise of implements of war — the bow, arrows, the quiver and so on. The arrow too is divine; it is prayed to protect and to strike the enemies. The drum too is dealt with in the same way, and it is prayed to drive away the evil, the enemies and the Rākṣasas. A whole sūkta of the Atharvaveda praises it (Av. 5-?)."
+
+## Emblems — Images (*Lāñchanagaḷu — Pratimegaḷu*)
+
+"In other Vedas, a little of the practice of speaking of ordinary things as representatives of the deities is seen. 'Who will buy this Indra of mine for ten cows? After defeating his enemies, he may be returned' (4-?-?; compare 8-?-?): in a statement like this, a certain image of Indra must have been the thing for sale. References to images are found more in the Brāhmaṇas and Sūtras."
+
+"In some rites the wheel is used as the representative of Sūrya (indicating form and motion). In the Vājapeya sacrifice, at the time of the installation of the fires, they use it in this way. In the Purāṇas, the wheel is a weapon of Viṣṇu."
+
+"After sunset, when sprinkling water, they place in the place of the sun a piece of burning charcoal or a burning torch (Śat. Brā. 3-?-?-?); but when there is a sign of the sun…"
+
+### Printed p. 688 (PDF 704)
+
+"…it also serves the same purpose (Śat. Brā. 13-?-?-?). When building the fire-pit, in place of the sun they use a gold plate with a hole in it (Śat. Brā. 7-?-?-?)."
+
+"Worship of the male organ seems to have been current; the word *śiśnadevāḥ* occurs in two places. But it may be said that this worship was opposed to the Vedic view. Indra is prayed not to let the *śiśnadevas* come near the sacrifice (7-?-?); it is also said that Indra killed the *śiśnadevas* when he was obtaining the wealth of a fort with a hundred doors (10-?-?). In the Purāṇas, as an indication of Śiva's being the creator, worship of the *śiśna* or *liṅga* came into use."
+
+## Evil Deities and Piśācas (*Pāpadevategaḷu mattu Piśācigaḷu*)
+
+**Asuras.** "Certain persons who are opposed to the auspicious deities and are violent are called by many names. In all the Vedas, *asura* is a Rākṣasa of the heaven-world, always an enemy of the deities; they fight with them constantly in historical wars; and sometimes they become strangely enemies of men too (Av. 8-?-?; Kau. Sū. ?-?-?; ?-?). But in the Ṛgveda this word has this meaning in a strange way. In the plural, in the sense of Rākṣasas, it is used only four times. A prayer to Indra: 'Drive away the Asuras who have no faith in the deities' (8-?-?). The remaining three usages are in the tenth maṇḍala itself: 'the deities struck the Asura' (10-?-?); Agni promises, 'I shall find and catch a means to uproot the Asuras' (10-?-?); it is said that the deities placed their trust in the Asuras, who were hard to conquer (10-?-?). In the singular, three times it refers to one Rākṣasa. Bṛhaspati is prayed to guard the warriors of the Asura as a rock that looks after (2-?-?). Indra destroyed the forts of the Asura named Pipru (10-?-?); Indra and Viṣṇu defeated the hundred thousand warriors of the Asura Varcin (7-?-?). Even in the epithet *asurahā* ('killer of Asuras'), applied to Indra (6-?-?), Agni (2-?-?) and Sūrya (10-?-?), *asura* means a Rākṣasa. This war of the deities and Asuras, beginning at first with one deity, Indra, and one Asura, Vṛtra, seems gradually to have grown into a constant war between the two parties — the deities as one group and the Rākṣasas as the other. The same idea is expressed in the Brāhmaṇas. In these wars there is a peculiarity: in the beginning the Asuras have the upper hand, and in the end the deities win by trick. The most important example is the Viṣṇu who, in the Trivikrama incarnation, takes three steps and makes the Asuras give back their kingdom, covering the earth."
+
+"In the Brāhmaṇas a relation is imagined between Asuras and darkness (Śat. Brā. 2-?-?-?). The day belongs to the deities, and the night to the Rākṣasas (Tai. Saṃ. 1-?-?-?). But the Asuras too were born of Prajāpati, and at the beginning were equal to the deities, like them…"
+
+### Printed p. 689 (PDF 705)
+
+"…It may be for this reason that some harmful persons are indicated by the word *deva* (Tai. Saṃ. 2-?-?-?; Av. 3-?-?)."
+
+"In the Atharvaveda and thereafter, *asura* means Rākṣasas only; but in the Ṛgveda it is mainly the deities themselves who are meant by this word. It may be that the meaning 'Rākṣasa' became fixed in the word that was first used mostly of the deities. There seems to be a peculiar meaning in the word *asura*. It is generally used of Varuṇa or Mitra and Varuṇa, and their *māyā* power is their distinction. But *māyā* may also mean a power of deceit or harm. The evil meanings that the word *asura* has (10-?-?; 10-?-?) may also have given room for the decision that it is unfit for the deities. In one sūkta (10-?) the word seems to be used in both senses. It must have grown less as the sense 'deity'. Moreover, they were very mighty. For those who are opposed to the *suras*, a separate name was also needed, which is another reason. Therefore the name came to be fixed for the Rākṣasas, as those who are not the *suras* (deities — as seen in the *Upaniṣad*)."
+
+**Paṇis.** "The Paṇis in the sphere of the air are mainly enemies of Indra (6-?-?; 6-?-?), of his friends, of Soma, Agni, Bṛhaspati and the Aṅgirases. In all the places where the name of these Rākṣasas occurs, their cows are mentioned, plainly (10-?-?; 6-?-?), or under the name *paṇīnāṃ nidhi* ('treasure of the Paṇis') or their wealth (3-?-?; 8-?-?). It is said that the deities discovered the ghee hidden in the cows by a Paṇi (4-?-?). Indra overcame them in strength (2-?-?), but they did not obtain the strength of Mitra and Varuṇa (1-?-?); even so they are very strong among the lower beings."
+
+"It occurs sixteen times in the plural and four times in the singular. Indra, or Agni-Soma, took the cows from a Paṇi (10-?-?; 1-?-?); and the deity Soma is prayed to strike down the wolf-formed Paṇi and make him lie dead (6-?-?)."
+
+"The word *paṇi* has been used many more times in the singular; but not as indicating a Rākṣasa — in the sense of 'miser'. Even then, it is used to indicate stinginess in the matter of giving gifts and making *homa* in sacrifices. By saying that they let no one obtain heavenly wealth and the like, the idea may have come that the Paṇis are Rākṣasas."
+
+**Dāsa or Dasyu.** "By the word *dāsa*, or the word *dasyu* that is equal to it, the Rākṣasas of the sphere of the air are also meant. These were probably men at first, and…"
+
 ---
 
-**Progress note — Volume 5 PARIŚIṢṬA (added at the user's request, 2026-10-06): translating the Kannada appendix, printed pp. 531–707 = PDF 547–723 (printed = PDF − 16). Done: printed pp. 531–685 (PDF 547–701): preface note, all deities and groups, Ṛbhus, Apsarases, Gandharvas, protective deities, all the seers, the animals (horses Dadhikrā/Tārkṣya/Paidva/Etaśa, bull, cow, goat, ass, dog, boar, tortoise, monkey, frogs, birds, fierce animals, serpent), and the heading "Material Things Imagined as Deities" through "…Viśve-devas, the deities themselves…" (last line of p. 685; continues on p. 686).**
+---
 
-**Next task:** continue at printed p. 686 (PDF 702): the rest of the material things (plants, implements, weapons), then evil spirits and demons (Asuras, Paṇis, Dāsas/Dasyus, Vṛtra, Vala, Arbuda, Viśvarūpa, Svarbhānu, Śambara, Pipru, Namuci, Dhuni, Cumuri, Rakṣas, Piśāca, Arāyī, Kimidin), funeral rites (the soul, heaven, hell, the fathers, Yama, Mṛtyu, Vivasvān) (contents list in the file header; the Pariśiṣṭa ends at printed p. 707 = PDF 723). Work ~4 pages per batch: view PDF images (`/tmp/x/w-NNN.jpg`, re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing), write the English at once, append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`; section file ends with a `---` line), commit and push (`git push origin claude/modest-ptolemy-9efv8s`). Rik conventions do not apply; reference numerals (small Kannada digits) are given as read and unverified ("?" where the print's digits were not legible at 150 dpi); crowded passages rendered loosely. Sanskrit words in three layers. At the end: update CLAUDE.md and the header note about the Pariśiṣṭa, rebuild the Vol 5 .docx and push (merge to main only if asked).
+---
+
+**Progress note — Volume 5 PARIŚIṢṬA (added at the user's request, 2026-10-06): translating the Kannada appendix, printed pp. 531–707 = PDF 547–723 (printed = PDF − 16). Done: printed pp. 531–689 (PDF 547–705): preface note, all deities and groups, Ṛbhus, Apsarases, Gandharvas, protective deities, seers, animals, "Material Things" (mountains, herbs, trees, forest), "Implements", "Emblems — Images", and "Evil Deities and Piśācas": Asuras, Paṇis, and Dāsa/Dasyu begun, through "…These were probably men at first, and…" (last line of p. 689; continues on p. 690).**
+
+**Next task:** continue at printed p. 690 (PDF 706): the rest of Dāsa/Dasyu, then Vṛtra, Vala, Arbuda, Viśvarūpa, Svarbhānu, Śambara, Pipru, Namuci, Dhuni, Cumuri, Rakṣas, Piśāca, Arāyī, Kimidin, then the funeral rites section (the soul, heaven, hell, the fathers, Yama, Mṛtyu, Vivasvān) (contents list in the file header; the Pariśiṣṭa ends at printed p. 707 = PDF 723). Work ~4 pages per batch: view PDF images (`/tmp/x/w-NNN.jpg`, re-render with `pdftoppm -jpeg -r 150 -f N -l M Rig_Vol5.pdf /tmp/x/w` if missing), write the English at once, append with `/tmp/x/append5.py` (`cd /tmp/x; python3 append5.py sec.md note.md`; section file ends with a `---` line), commit and push (`git push origin claude/modest-ptolemy-9efv8s`). Rik conventions do not apply; reference numerals (small Kannada digits) are given as read and unverified ("?" where the print's digits were not legible at 150 dpi); crowded passages rendered loosely. Sanskrit words in three layers. At the end: update CLAUDE.md and the header note about the Pariśiṣṭa, rebuild the Vol 5 .docx and push (merge to main only if asked).
