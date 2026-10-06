@@ -3209,4 +3209,62 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–154 done (PDF 19–172): **Sūktas 62 (13 ṛks), 63 (9 ṛks) and 64 (15 ṛks) are complete** — the three sūktas the user asked for in this run. **Sūkta 65** (10 ṛks, to Agni, ṛṣi Parāśara Śākti, Dvipadā Virāj; first sūkta of the Twelfth Anuvāka, nine sūktas, six of them *dvaipada*) is begun: its heading line and Sāyaṇa's introduction (lower p. 154) are transcribed; the introduction's remainder, the Kannada anuvāda and the heading block should follow on p. 155. Next: p. 155 (PDF 173), the rest of the introduction to Sūkta 65 (if any), the heading block, and Rik 65.1. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.15 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138, 145, 152) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; the derivation of *duṣṭara*/*dustara* on p. 150 [?]; the introduction to Sūkta 65 on p. 154 read at 150 dpi only [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 155 (PDF 173)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Anuvāda (Kannada).** "With the sūkta '*Paśvā na tāyum*' the twelfth anuvāka of the first maṇḍala begins. In this anuvāka there are nine sūktas [Sūktas 65–73, numerals read "೬೫–೭೩"]. Of them, the six beginning with '*paśvā na tāyum*' are made of Ṛks in the metre called *dvipadā virāṭ*. *Dvipadā* means a Ṛk having two pādas. When they are recited in study, two two-pāda Ṛks are joined and reckoned and recited as one Ṛk of four pādas. In explaining the Ṛks, some say that the half-Ṛk formed by joining each two pādas is a Ṛk of the metre *dvipadā virāṭ*; others join four pādas, treat the resulting two half-Ṛks as one Ṛk, and give the count of Ṛks accordingly. In ordinary explanation of Ṛks this second method is followed. In ritual use (*prayoga*) and application (*viniyoga*) the half-Ṛk formed by two pādas is counted as one Ṛk. In the Āśvalāyana Śrauta-sūtra there is the sūtra '*paśvā na tāyum iti dvaipadam*' (Ā. 8-[12], as read). As said before, in the first of the six sūktas of this kind, '*paśvā na*', there are ten Ṛks (half-Ṛks of two pādas each). In the Anukramaṇikā it is said '*paśvā daśa parāśaraḥ śāktyo dvaipadaṃ tat*'. The ṛṣi of this sūkta is Parāśara, the son of Śakti: Vasiṣṭha's son is called Śakti, and Śakti's son is Parāśara. The Ṛks of this sūkta are in the metre *dvipadā virāṭ*. The Anukramaṇikā says '*viṃśatikā dvipadā virājaḥ*' — that is, in a Ṛk of *dvipadā virāṭ* metre there are twenty syllables (Anu. [12-4], as read). Agni is the deity of this sūkta; and, as said before, Agni is the deity of the six sūktas with this kind of metre; therefore the six sūktas are all of the metre *dvipadā virāṭ*. In the Vaiśvadeva śastra mantras on the tenth day of the sacrifice, this sūkta is to be recited before the Vaiśvadeva sūktas: so it is said in the sūtra."
+
+---
+
+### Page 156 (PDF 174)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**Sūkta — 65** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ६५ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — ९ [?] ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ५ (१०) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+*maṇḍala 1 | anuvāka 12 | sūkta 65 | aṣṭaka 1 | adhyāya 5 | varga 9 [read; the numeral is small, ?] | number of ṛks in the sūkta 5 (10) [i.e. five four-pāda Ṛks = ten two-pāda half-Ṛks] | ṛṣi: Pārāśara Śākti | devatā: Agni | chandas: Dvipadā Virāṭ.*
+
+#### Rik 65.1 *(printed "1 || 1 ||", i.e. the first four-pāda Ṛk = half-Ṛks 1 and 2)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **पश्वा न तायुं गुहा चतन्तं नमो युजानं नमो वहन्तम् ।**
+> **सजोषा धीराः पद्यैरनु ग्मन्नुप त्वा सीदन्विश्वे यजत्राः ॥ १ ॥ २ ॥**
+> *paśvā na tāyuṃ guhā catantaṃ namo yujānaṃ namo vahantam |*
+> *sajoṣā dhīrāḥ padyair anu gman upa tvā sīdan viśve yajatrāḥ || 1 || 2 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **पश्वा । न । तायुम् । गुहा । चतन्तम् । नमः । युजानम् । नमः । वहन्तम् ।**
+> **सऽजोषाः । धीराः । पद्यैः । अनु । ग्मन् । उप । त्वा । सीदन् । विश्वे । यजत्राः ॥ १ ॥ २ ॥**
+> *paśvā | na | tāyum | guhā | catantam | namaḥ | yujānam | namaḥ | vahantam |*
+> *sa-joṣāḥ | dhīrāḥ | padyaiḥ | anu | gman | upa | tvā | sīdan | viśve | yajatrāḥ || 1 || 2 ||*
+
+---
+
+### Page 157 (PDF 175)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot of the page: none.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **धीरा मेधाविनो देवाः सजोषाः समानप्रीतयः सन्तो हे अग्ने त्वां पद्यैर्मार्गे पादकृतैर्लाम्भनैरनु ग्मन् । अन्वगमन् । कीदृशम् । पश्वा अपहृतेन पशुना सह वर्तमानं तायुमिव [?] । तायुरिति स्तेननाम । यथा स्तेनः परकीयं पश्वादिधनमपहृत्य दुष्प्रवेशे गिरिगह्वरे वर्तते तद्वद्गुहा चतन्तं आब्रूपायां गुहायां गच्छन्तं वर्तमानं । चतेतिर्गतिकर्मा । तथा च तैत्तिरीयैरग्नेरप्सु प्रवेशः समाम्नायते । स निलायत सोऽपः प्राविशत् । तै. सं. २-६-६-१ [?] इति । यद्वा । अश्वत्थगुहायां वर्तमानं । श्रूयते च । अग्निर्देवेभ्यो निलायत । अश्वो रूपं कृत्वा सोऽश्वत्थे संवत्सरमतिष्ठदिति । तथा नमो युजानं हविर्लक्षणमन्नमात्मना संयुजानं नमो वहन्तं देवेभ्यः प्रत्तं हविर्वहन्तं । यजत्रा यजनीया विश्वे सर्वे देवा हे अग्ने त्वा त्वामुप सीदन् । समीपं प्राप्नुवन् । पद्यशुरित्यर्थः [?] ॥ पश्वा । तृतीयैकवचनस्य जसादिषु छन्दसि वावचनमिति नाभावाभावः । उदात्तयणो इति विभक्तेरुदात्तत्वम् । गुहा । भिदादिषु पाठादङ्प्रत्ययान्तः । वृषादिषु पाठादाद्युदात्तत्वम् । सुपां सुलुगिति सप्तम्या लुक् । युजानम् । शानचि बहुलं छन्दसीति विकरणस्य लुक् । सजोषाः । जुषी प्रीतिसेवनयोः । समानं जुषन्ते इति सजोषसः । समानस्य छन्दसीति सभावः । कृदुत्तरपदप्रकृतिस्वरत्वम् । सुपां सुलुगिति जसः सुः । ग्मन् । गमेर्लुङि मन्त्रे घसेति च्लेर्लुक् । गमहनेत्यादिनोपधालोपः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । यजत्राः । अमिनक्षीत्यादिनात्रप्रत्ययः । नित्त्वाद्याद्युदात्तत्वम् ॥**
+> *dhīrā medhāvino devāḥ sajoṣāḥ samānaprītayaḥ santo he agne tvāṃ padyair mārge pādakṛtair lāmbhanair anu gman | anvagaman | kīdṛśam | paśvā apahṛtena paśunā saha vartamānaṃ tāyum iva [?] | tāyur iti stenanāma | yathā stenaḥ parakīyaṃ paśvādidhanam apahṛtya duṣpraveśe girigahvare vartate tadvad guhā catantam ābrūpāyāṃ guhāyāṃ gacchantaṃ vartamānaṃ | catatir gatikarmā | tathā ca taittirīyair agneḥ apsu praveśaḥ samāmnāyate | sa nilāyata so 'paḥ prāviśat | tai. saṃ. 2-6-6-1 [?] iti | yadvā | aśvatthaguhāyāṃ vartamānaṃ | śrūyate ca | agnir devebhyo nilāyata | aśvo rūpaṃ kṛtvā so 'śvatthe saṃvatsaram atiṣṭhad iti | tathā namo yujānaṃ havirlakṣaṇam annam ātmanā saṃyujānaṃ namo vahantaṃ devebhyaḥ prattaṃ havir vahantaṃ | yajatrā yajanīyā viśve sarve devā he agne tvā tvām upa sīdan | samīpaṃ prāpnuvan | padyaśur ity arthaḥ [?] || paśvā | tṛtīyaikavacanasya jasādiṣu chandasi vāvacanam iti nābhāvābhāvaḥ | udāttayaṇo iti vibhakter udāttatvam | guhā | bhidādiṣu pāṭhād aṅpratyayāntaḥ | vṛṣādiṣu pāṭhād ādyudāttatvam | supāṃ sulug iti saptamyā luk | yujānam | śānaci bahulaṃ chandasīti vikaraṇasya luk | sajoṣāḥ | juṣī prītisevanayoḥ | samānaṃ juṣante iti sajoṣasaḥ | samānasya chandasīti sabhāvaḥ | kṛduttarapadaprakṛtisvaratvam | supāṃ sulug iti jasaḥ suḥ | gman | gamer luṅi mantre ghaseti cler luk | gamahanety ādinopadhālopaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | yajatrāḥ | aminakṣītyādinā atrapratyayaḥ | nittvād ādyudāttatvam ||*
+> *"The **dhīrāḥ**, wise, the gods, **sajoṣāḥ**, of one accord, O Agni, **anu gman**, followed you by **padyaiḥ**, tracks, made on the way by feet (footprints). How did they find you? [You were] **paśvā**, with the stolen animal, as a thief (**tāyu**): *tāyu* is a word for 'thief'; as a thief, having carried off another's wealth such as cattle, stays in a mountain cave hard to enter, so you were **guhā catantam**, going and remaining in a hidden cave (*catati* is a verb of motion). For the Taittirīyas teach Agni's entering the waters: 'he hid; he entered the waters' (Tai. Saṃ. 2-6-6-1, as read, ?). Or: staying in the hollow of the *aśvattha* tree; and it is heard: 'Agni hid from the gods; having taken the form of a horse, he stood a year in the *aśvattha*'. And **namo yujānam**, uniting with himself the food that is the oblation; **namo vahantam**, carrying to the gods the oblation given: you, the **viśve**, all, **yajatrāḥ**, worshipful gods, **upa sīdan** — approached, came near. **Paśvā**: the instrumental singular, since the option 'chandasi vāvacanam' applies to *jas* etc. [as read, ?], the *ā*-form is not blocked [?]; the case-ending is acute by 'udāttayaṇaḥ…'. **Guhā**: ending in the *aṅ* affix by its reading in the *bhidādi* list; initial acute by its reading in the *vṛṣādi* list; the *luk* of the locative by 'supāṃ sulug…'. **Yujānam**: with *śānac*, the *luk* of the vikaraṇa by 'bahulaṃ chandasi'. **Sajoṣāḥ**: root *juṣī prītisevanayoḥ*; 'who enjoy together' are *sajoṣasaḥ*; *sa* for *samāna* by 'samānasya chandasi'; accent of the latter member of a *kṛdanta*; *su* for *jas*. **Gman**: the *luk* of *cli* in the *luṅ* of *gam* by 'mantre ghasa…'; the loss of the penultimate; no *aṭ*. **Yajatrāḥ**: the affix *atra* by 'aminakṣi…'; initial acute because *n*-marked."* *(Grammar tail characterized; "तायुमिव", "पद्यशुरित्यर्थः" and the numerals are doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**अग्ने** — O Agni; **धीराः** — the wise; **सजोषाः** — of one accord, loving, the gods; **पश्वा** — [with the] stolen cattle; **तायुं न** — like a thief; **गुहा** — in a cave (water-formed, or in the *aśvattha*-cave); **चतन्तम्** — moving [you who were]; **पद्यैः** — by the footprints on the way; **अनु ग्मन्** — they followed; **यजत्राः** — worthy of worship in sacrifices; **विश्वे** — all the gods; **नमो युजानम्** — [you who] accept the oblation for yourself; **नमो वहन्तम्** — [you who] carry it for the other gods; **त्वा** — you; **उपसीदन्** — drew near.
+
+---
+
+**Progress note:** Printed pp. 1–157 done (PDF 19–175): Sūktas 62, 63 and 64 complete. **Sūkta 65** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti; Dvipadā Virāṭ): introduction, anuvāda and heading block done; **Rik 65.1** (half-Ṛks 1–2) — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha (pp. 156–157). Next: p. 158 (PDF 176), the Bhāvārtha, source's English, Special Topics and grammar page of Rik 65.1; then Rik 65.2. **Convention for Sūkta 65 and the other *dvaipada* sūktas:** the print joins two half-Ṛks as one four-pāda Ṛk, numbered "1 || 2 ||"; I follow the print. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; "तायुमिव" and "पद्यशुरित्यर्थः" in the 65.1 bhāṣya doubtful [?]; earlier open flags of Sūktas 62–64 as listed in the previous notes (inline [?] marks); accent marks of the Saṃhitā/Pada not reproduced.
