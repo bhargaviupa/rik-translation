@@ -2972,4 +2972,65 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–142 done (PDF 19–160): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.11 complete; Rik 64.12 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 142, ending at *rajasturam*). Next: p. 143 (PDF 161), the grammar page of Rik 64.12 concludes; then Riks 64.13–64.15 and the closing line of Sūkta 64. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.12 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.12 of 15).
+### Page 143 (PDF 161)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 64.12, concluded (noted briefly).** **मारुतम्**: "the host of the Maruts" = *mārutam*; by "tasya samūhaḥ" (Pā. Sū. 4-2-37, as read) the affix *aṇ*; by "taddhiteṣv acām ādeḥ" (Pā. Sū. 7-2-117) *vṛddhi* of the initial vowel. **वृषणम्**: the stem *vṛṣan*; in the accusative singular, by "vā ṣapūrvasya nigame" (Pā. Sū. 6-4-9, as read) the lengthening of the penultimate does not come; by "aṭkupvāṅnumvyavāye 'pi" the *ṇ* comes. **सश्चत**: root *saśca gatau*; though the root is so read, some say *saścu* [as read], so the *Dhātuvṛtti* says; it is also read among the verbs having the sense of motion as *saścati*; in the *loṭ*, second person plural, by "tasthasthamipāṃ tāṃtaṃtāmaḥ" the *ta* substitute for the ending *tha* arises, because it is *laṅ*-like [by "loṭo laṅvat"]; the vikaraṇa *śap*: *saścata*; the *nighāta* accent, since it follows a non-verbal word. **श्रिये**: in the dative singular, by "aci śnudhātubhruvāṃ yvoriyaṅuvaṅau" (Pā. Sū. 6-4-77, as read) the *iy* substitute; by "sānvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168, as read) the case-ending receives the acute. **॥ १२ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.12 ends here (ornamental rule).*
+
+#### Rik 64.13
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **प्र णू स मर्तः शवसा जनाँ अति तस्थौ व ऊती मरुतो यमावत ।**
+> **अर्वद्भिर्वाजं भरते धना नृभिरापृच्छ्यं क्रतुमा क्षेति पुष्यति ॥ १३ ॥**
+> *pra ṇū sa martaḥ śavasā janāṃ ati tasthau va ūtī maruto yam āvata |*
+> *arvadbhir vājaṃ bharate dhanā nṛbhir āpṛcchyaṃ kratum ā kṣeti puṣyati || 13 ||*
+
+*(The print's second word is read "ṇū" [ण्] in the Saṃhitā and "nu" in the Pada, as the sandhi *prā nu → pra ṇū* requires; the nasalization of "janāṃ ati" is read as printed and doubtful [?].)*
+
+---
+
+### Page 144 (PDF 162)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **प्र । नु । सः । मर्तः । शवसा । जनान् । अति । तस्थौ । वः । ऊती । मरुतः । यम् । आवत ।**
+> **अर्वत्ऽभिः । वाजम् । भरते । धना । नृऽभिः । आऽपृच्छ्यम् । क्रतुम् । आ । क्षेति । पुष्यति ॥ १३ ॥**
+> *pra | nu | saḥ | martaḥ | śavasā | janān | ati | tasthau | vaḥ | ūtī | marutaḥ | yam | āvata |*
+> *arvat-bhiḥ | vājam | bharate | dhanā | nṛ-bhiḥ | ā-pṛcchyam | kratum | ā | kṣeti | puṣyati || 13 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **स मर्तो मनुष्यः शवसा बलेन जनान् जातानन्यान्पुरुषानति अतीत्य नु क्षिप्रं तस्थौ । प्रतिष्ठितो भवति । हे मरुतो वो युष्माकमूती ऊत्या रक्षणेन यं पुरुषमावत अरक्षत । अपि च स पुरुषोऽर्वद्भिरश्वैः साधनभूतैर्वाजमन्नं नृभिः स्वकीयैर्मनुष्यैर्धना धनानि च भरते । सम्पादयति । तथाप्पृच्छ्यमापृष्टव्यं शोभनं क्रतुमग्निष्टोमादिकर्म क्षेति । आप्नोति । पुष्यति । प्रजया पशुभिः पुष्टो भवति च ॥ ऊती । तृतीयायाः पूर्वसवर्णदीर्घत्वम् । नृभिः । नृ चान्यतरस्यामिति विभक्त्युदात्तत्वप्रतिषेधः । आपृच्छ्यम् । छन्दसि निष्टर्क्येत्यादावाज्पूर्वात्पृच्छतेः क्यच्प्रत्ययान्तो निपात्यते । ग्रहिज्यादिना सम्प्रसारणम् । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । कृदुत्तरपदप्रकृतिस्वरत्वम् । क्षेति । क्षि निवासगत्योः । बहुलं छन्दसीति विकरणस्य लुक् । पुष्यति । पुष पुष्टौ । दिवादित्वात्श्यन् । नित्त्वाद्याद्युदात्तत्वम् । तिङः परत्वान्निघाताभावः ॥**
+> *sa marto manuṣyaḥ śavasā balena janān jātān anyān puruṣān ati atītya nu kṣipraṃ tasthau | pratiṣṭhito bhavati | he maruto vo yuṣmākam ūtī ūtyā rakṣaṇena yaṃ puruṣam āvata arakṣata | api ca sa puruṣo 'rvadbhir aśvaiḥ sādhanabhūtair vājam annaṃ nṛbhiḥ svakīyair manuṣyair dhanā dhanāni ca bharate | sampādayati | tathāpṛcchyam āpṛṣṭavyaṃ śobhanaṃ kratum agniṣṭomādikarma kṣeti | āpnoti | puṣyati | prajayā paśubhiḥ puṣṭo bhavati ca || ūtī | tṛtīyāyāḥ pūrvasavarṇadīrghatvam | nṛbhiḥ | nṛ cānyatarasyām iti vibhaktyudāttatvapratiṣedhaḥ | āpṛcchyam | chandasi niṣṭarkyetyādāv āj pūrvāt pṛcchateḥ kyacpratyayānto nipātyate | grahijyādinā samprasāraṇam | pratyayasya pittvād anudāttatve dhātusvaraḥ śiṣyate | kṛduttarapadaprakṛtisvaratvam | kṣeti | kṣi nivāsagatyoḥ | bahulaṃ chandasīti vikaraṇasya luk | puṣyati | puṣa puṣṭau | divāditvāt śyan | nittvād ādyudāttatvam | tiṅaḥ paratvān nighātābhāvaḥ ||*
+> *"That **martaḥ**, mortal, man, **śavasā**, by strength, **ati**, surpassing **janān**, other men who are born, **nu**, quickly **tasthau**, stands firm: he becomes established. O Maruts, the man whom **vaḥ**, your **ūtī**, protection, **āvata**, has protected — and further, that man, **arvadbhiḥ**, with horses as his means, **vājam**, food, and **nṛbhiḥ**, with his own men, **dhanā**, riches, **bharate**, brings together; and he **ā kṣeti**, obtains, **āpṛcchyam**, the one to be asked for, beautiful **kratum**, rite such as the Agniṣṭoma; **puṣyati**, he prospers: he becomes nourished with offspring and cattle. **Ūtī**: the same-class lengthening of the instrumental. **Nṛbhiḥ**: the prohibition of the acute on the case-ending by 'nṛ cānyatarasyām'. **Āpṛcchyam**: by the list beginning 'chandasi niṣṭarkya…' a form ending in *kyac* after the root *pṛcch* with *ā* is given by *nipātana*; *samprasāraṇa* by 'grahijyā…'; because the affix is *p*-marked and unaccented, the root accent remains; the accent of the latter member of a *kṛdanta*. **Kṣeti**: root *kṣi nivāsagatyoḥ*; the *luk* of the vikaraṇa by 'bahulaṃ chandasi'. **Puṣyati**: root *puṣa puṣṭau*; *śyan*, since it is of the *divādi* class; because *n*-marked, the initial acute; no *nighāta* because it is a verb [*tiṅ*] that comes after [*saḥ*? as read]."* *(Grammar tail characterized; the print's "atītya nu kṣipraṃ" is read as printed.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**मरुतः** — O Marut deities; **वः** — your; **ऊती** — by protection; **यम्** — whichever man; **आवत** — you protect; **सः मर्तः** — that man; **शवसा** — by strength; **जनान्** — [other] men; **अति** — surpassing; **नु** — quickly; **तस्थौ** — stands firm; **अर्वद्भिः** — with horses (as means); **वाजम्** — food; **नृभिः** — with his own men; **धना** — riches; **भरते** — brings together; **आपृच्छ्यम्** — worthy of being asked for; **क्रतुम्** — rites (Agniṣṭoma and so on); **आ क्षेति** — he performs; **पुष्यति** — he prospers.
+
+---
+
+### Page 145 (PDF 163)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 10".)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Marut deities, the man protected by you surpasses others in strength; through horses he obtains food, and through his own men, riches; he prospers; and he performs the required rites such as the Agniṣṭoma.
+
+**English Translation** *(the source's own, as printed):*
+
+> The man whom, Maruts, you defend with your protection, quickly surpasses all men in strength ; with his horses, he acquires food, and with his men, riches ; he performs the required worship, and he prospers.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **स मर्तः नु जनान् अति तस्थौ** — *sa manuṣyaḥ jātān anyān puruṣān kṣipraṃ nu iti atītya pratiṣṭhito bhavati* — "the word *nu* is read in the sense of 'carefully' (Ni. [6-?], as read, ?) among the words *pra, nu, nṛ…* [? as read] *kṣipra*, and so on: 'the man who experiences the protection of the Marut deities, being born, surpasses all other men, even those like himself, and obtains an excellent position, carefully'."
+- **आपृच्छ्यम् क्रतुम्** (*āpṛcchyam kratum*) — *āprastavyaṃ śobhanam agniṣṭomādikarma* — "auspicious rites in the form of sacrifices such as the Agniṣṭoma, without mentioning any one in particular [*alakṣīkarisade* — as read]. Skandasvāmin has explained the words *āpṛcchyaṃ kratum* thus: '*sarvārtheṣu sarvamanuṣyair āprastavyāṃ prajñām*' — 'knowledge, or the power of understanding, which in all matters is such that it can be asked of all men and does not remain unknown'." *(The Kannada gloss is compressed and partly doubtful [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.13 (noted briefly).** **तस्थौ**: root *ṣṭhā gatinivṛttau*; in the *liṭ*, for the *ṇal* in place of *tip*, the *au* by "āto ṇala au" (Pā. Sū. 7-1-34, as read); the doubling of the root; in the reduplicative syllable, of the *khay* [consonants] only the *t* remains; *vṛddhi* arising, the form *tasthau*; because it stands at the beginning of the *pāda*, no *nighāta*; by the affix accent, final-acute. **ऊती**: *ūti + ā* (the case-ending *ṭā*, instrumental singular), the same-class lengthening by "supāṃ sulug…"; by "ekādeśa udāttenodāttaḥ" (Pā. Sū. 8-2-5, as read) the case-ending, as a single substitute, is acute.
+
+---
+
+**Progress note:** Printed pp. 1–145 done (PDF 19–163): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.12 complete; Rik 64.13 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 145, ending at *ūtī*; the grammar page continues on p. 146 with *martaḥ*, *āvata* etc., if the printed layout follows). Next: p. 146 (PDF 164), the grammar page of Rik 64.13 concludes; then Riks 64.14–64.15 and the closing line of Sūkta 64. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.13 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138, 145) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.13 of 15).
