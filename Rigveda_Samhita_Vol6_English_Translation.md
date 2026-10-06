@@ -1708,4 +1708,64 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–79 done (PDF 19–97): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.4 complete; Rik 63.5 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 79, ending at *arvate*). Next: p. 80 (PDF 98), the grammar page of Rik 63.5 continues, then Rik 63.6. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 80 (PDF 98)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Grammar page for Rik 63.5, concluded (noted briefly).** **अर्वते** *(concluded)*: the *t* substituted for the *n* by "arvaṇas trasāv anañaḥ" (Pā. Sū. 6-4-127, as read): *arvate*. The *vanip* affix being *p*-marked, and the ending *ṅe* being unaccented by "ānudāttau suppitau" (Pā. Sū. 3-1-4, as read), the root accent stays by remainder. **घनेव**: by "mūrtau ghanaḥ" (Pā. Sū. 3-3-77, as read), when hardness is intended, the root *han* is given the ending *ap* by *nipātana*. **श्नथिहि**: root *śnatha hiṃsāyām*; when the action of the instigator is intended, the *ṇic* by "hetumati ca" (Pā. Sū. 3-1-26, as read); after the *ṇic*-ending stem, *loṭ*, second person singular, *sip*; *hi* substituted for it; the *śap* vikaraṇa that would come by "kartari śap" is lost by "bahulaṃ chandasi"; the form *śnathihi*; the *nighāta* accent by "tiṅ atiṅaḥ", since it follows a non-verbal word. **॥ ५ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.5 ends here (ornamental rule).*
+
+#### Rik 63.6
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **त्वां ह त्यदिन्द्रार्णसातौ स्वर्मीळ्हे नर आजा हवन्ते ।**
+> **तव स्वधाव इयमा समर्य ऊतिर्वाजेष्वतसाय्या भूत् ॥ ६ ॥**
+> *tvāṃ ha tyad indrārṇasātau svarmīḷhe nara ājā havante |*
+> *tava svadhāva iyam ā samarya ūtir vājeṣv atasāyyā bhūt || 6 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वाम् । ह । त्यत् । इन्द्र । अर्णऽसातौ । स्वःऽमीळ्हे । नरः । आजा । हवन्ते ।**
+> **तव । स्वधाऽवः । इयम् । आ । सऽमर्ये । ऊतिः । वाजेषु । अतसाय्या । भूत् ॥ ६ ॥**
+> *tvām | ha | tyat | indra | arṇa-sātau | svaḥ-mīḷhe | naraḥ | ājā | havante |*
+> *tava | svadhā-vaḥ | iyam | ā | sa-marye | ūtiḥ | vājeṣu | atasāyyā | bhūt || 6 ||*
+
+---
+
+### Page 81 (PDF 99)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 6".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे इन्द्र अर्णसातौ अर्णानां गन्तॄणां युद्धे प्रवृत्तानां पुरुषाणां सातिर्लाभो यस्मिन् स्वर्मीळ्हे । मीळ्हमिति धननाम । सुष्ठु अरणीयं धनं यस्मिन् । एवंभूत आजा आजौ संग्रामे त्यत्तत्प्रसिद्धं त्वामेव नरो योद्धुकामाः पुरुषाः सहायार्थं हवन्ते । आह्वयन्ति । यद्वा । अर्णस उदकस्य सातिर्लाभो यस्मिंस्त्वत्रादियुद्धे तस्मिन्नित्यर्थः । वृष्टिनिरोधकेन वृत्रेण सह वर्षणार्थं तव यद्युद्धं तत्र स्तोतारस्त्वां प्रोत्साहयन्तीति भावः । यस्मादेवं तस्मात् हे स्वधावो हे अन्नवन् बलवन्निन्द्र समर्ये संग्रामे तव सम्बन्धिनीयमूतिरस्मदीयमिदं रक्षणम् । आ अस्माभिमुख्येन भूत् । भवतु । वाजेषु संग्रामेषु यैर्योद्धृभिः [?] ऊतिरतसाय्या योद्धृभिः प्राप्तव्या भवति ॥ त्यत् । सुपां सुलुगिति द्वितीयाया लुक् । अर्णसातौ । ऋ गतौ । बहुलवचनादौणादिको नस्प्रत्ययः । षणु दाने इत्यस्माद्भावे क्तिनि जनसनखनामित्यनुनासिकस्यात्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । यद्वा । उदकेऽनुट्ट् [?] । उ. ४-१९६ [?] इत्यर्तेरसुन्प्रत्ययो नुडागमश्च । पीवोपवसनादीनां छन्दसि लोपो वक्तव्यः । म. ६-३-१०९-६ [?] इति सलोपः । नित्त्वादाद्युदात्तत्वम् । पूर्ववद्बहुव्रीहिस्वरः । स्वर्मीळ्हे । स्वर्शब्दो नञ्जस्वरौ स्वरितावित स्वरितः । बहुव्रीहिस्वरेण स एव शिष्यते । आजा । सुपां सुलुगिति सप्तम्या डादेशः । स्वधावः । मतुवसोरुरिति मतुपो रुत्वम् । अतसाय्या । अत सातत्यगमने । औणादिकः साय्यप्रत्ययः । तस्याडागमश्च । आगमानुदात्तत्वे प्रत्ययाद्युदात्तत्वम् । भूत् । छन्दसि लुङ्लङ्लिट इति प्रार्थनायां लुङि । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः ॥**
+> *he indra arṇasātau arṇānāṃ gantṝṇāṃ yuddhe pravṛttānāṃ puruṣāṇāṃ sātir lābho yasmin svarmīḷhe | mīḷham iti dhananāma | suṣṭhu araṇīyaṃ dhanaṃ yasmin | evaṃbhūta ājā ājau saṅgrāme tyat tat prasiddhaṃ tvām eva naro yoddhukāmāḥ puruṣāḥ sahāyārthaṃ havante | āhvayanti | yadvā | arṇasa udakasya sātir lābho yasmiṃs tvatrādiyuddhe tasminn ity arthaḥ | vṛṣṭinirodhakena vṛtreṇa saha varṣaṇārthaṃ tava yad yuddhaṃ tatra stotāras tvāṃ protsāhayantīti bhāvaḥ | yasmād evaṃ tasmāt he svadhāvo he annavan balavann indra samarye saṅgrāme tava sambandhinīyam ūtir asmadīyam idaṃ rakṣaṇam | ā asmābhimukhyena bhūt | bhavatu | vājeṣu saṅgrāmeṣu yair yoddhṛbhiḥ [?] ūtir atasāyyā yoddhṛbhiḥ prāptavyā bhavati || tyat | supāṃ sulug iti dvitīyāyā luk | arṇasātau | ṛ gatau | bahulavacanād auṇādiko nasapratyayaḥ | ṣaṇu dāne ity asmād bhāve ktini janasanakhanām ity anunāsikasyātvam | bahuvrīhau pūrvapadaprakṛtisvaratvam | yadvā | udake 'nuṭṭ [?] | U. 4-196 [?] ity arter asunpratyayo nuḍāgamaś ca | pīvopavasanādīnāṃ chandasi lopo vaktavyaḥ | Ma. 6-3-109-6 [?] iti salopaḥ | nittvād ādyudāttatvam | pūrvavad bahuvrīhisvaraḥ | svarmīḷhe | svarśabdo nañjasvarau svaritāv ita svaritaḥ | bahuvrīhisvareṇa sa eva śiṣyate | ājā | supāṃ sulug iti saptamyā ḍādeśaḥ | svadhāvaḥ | matuvasor ur iti matupo rutvam | atasāyyā | ata sātatyagamane | auṇādikaḥ sāyyapratyayaḥ | tasyāḍāgamaś ca | āgamānudāttatve pratyayādyudāttatvam | bhūt | chandasi luṅlaṅliṭa iti prārthanāyāṃ luṅi | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ ||*
+> *"O Indra, **arṇasātau**: in which there is gain (*sāti*) for men who are going (*arṇāḥ*), engaged in battle — **svarmīḷhe**: *mīḷha* is a word for 'wealth'; in which there is wealth well to be sought. In such an **ājā**, a battle, **tyat**, you, famous, that very you, the **naraḥ**, men eager to fight, **havante**, call for help. Or: the battle in which there is gain of *arṇas*, water — i.e. your battle with Vṛtra and the like — in that, for the sake of rain with Vṛtra, who obstructed the rain, your praisers urge you on: such is the idea. Since it is so, O **svadhāvaḥ**, O Indra with food, mighty one, in **samarye**, in battle, this **ūtiḥ** of yours, this protection of yours, **ā bhūt** — may it come to us — **vājeṣu**, in battles, **atasāyyā** — protection which is to be obtained by warriors [the clause "yair yoddhṛbhiḥ" before it is read doubtfully, ?]. **Tyat**: the *luk* of the accusative by 'supāṃ sulug…'. **Arṇasātau**: root *ṛ gatau*; by the "bahula" licence an Uṇādi affix *nas*; from *ṣaṇu dāne*, in the sense of *bhāva* the affix *ktin*, with *ā* for the nasalized by 'janasanakhanām…'; in a *bahuvrīhi*, the accent of the first member. Or [for *arṇas*]: in the sense 'water' the affix *asun* after *ṛ*, and the *nuḍ* augment (Uṇ. 4-196, as read, ?); the loss of *s* by the rule 'pīvopavasanādīnām…' (Mahābhāṣya on 6-3-109, Vārttika, as read, ?); initial acute because *n*-marked; the *bahuvrīhi* accent as before. **Svarmīḷhe**: the word *svar* … the *svarita*; the *bahuvrīhi* accent leaves that alone. **Ājā**: the locative replaced by *ḍā* by 'supāṃ sulug…'. **Svadhāvaḥ**: the *ru* for the *matup* by 'matuvasor ruḥ'. **Atasāyyā**: root *ata sātatyagamane*; an Uṇādi affix *sāyya*, and the *āḍ* augment for it; since the augment is unaccented, the affix has the initial acute. **Bhūt**: the *luṅ* in the sense of a prayer, by 'chandasi luṅlaṅliṭaḥ'; by 'bahulaṃ chandasy amāṅyoge 'pi' the absence of *aṭ*."* *(Dense grammar tail characterized; several phrases and the numerals marked [?] are doubtful in the print.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada, with the alternative as printed)*
+
+**इन्द्र** — O Indra; **अर्णसातौ** — for those who set out (engaged in battle), profitable; **स्वर्मीळ्हे** — in which the wealth is to be won by effort; **आजा** — in battle; **त्यत्** — (the famous) you alone; **नरः** — men who desire to fight; **हवन्ते** — call (for help). [*Alternatively:* **अर्णसातौ** — in which there is gain of water (in the fight with Vṛtra and others); **स्वर्मीळ्हे** — having wealth won by effort; **तव** — your; **आजा** — in battle; **त्यत्** — you, that (famous one); **नरः** — the singers; **हवन्ते** — encourage.] **स्वधावः** — O Indra, possessed of food, or mighty; **वाजेषु** — in battles; **अतसाय्या** — [protection] which is given to the warriors; **इयम् ऊतिः** — such protection; **समर्ये** — in the battles we wage (to us); **भूत्** — may it be (gained).
+
+---
+
+### Page 82 (PDF 100)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, in a battle waged by many men to win wealth, men praise you, as helper. (In the battle you waged with Vṛtra, the obstructor of rain, in order to bring rain, men encourage you.) O mighty Indra, your protection is extremely necessary to all the warriors engaged in battle. May such protection of yours be ours.
+
+**English Translation** *(the source's own, as printed):*
+
+> Men invoke you, such as you are in the thick-thronged and wealth bestowing conflict. O powerful Indra, may this succour ever be granted in war, worthy to be enjoyed by warriors in battle.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **अर्णसातौ** (*arṇasātau*) — *arṇānāṃ gantṝṇāṃ yuddhe pravṛttānāṃ puruṣāṇāṃ sātilābho 'smin | arṇasa udakasya sātilābho yasmin* — "in battle. When the asura named Vṛtra obstructed the world so that there should be no rain, Indra waged a war with him so that rain should come. Because the gathering of heroes who have set out for battle is 'battle', and the fruit of Indra's dealing with Vṛtra was the gaining of water, [the word is used] 'in such a battle'."
+- **स्वधावः** (*svadhāvaḥ*) — *annavan, balavan vā* — "Indra who has food or strength."
+- **अतसाय्या** (*atasāyyā*) — *anupakṣīṇā, satatagāminī vā* — "not diminishing in the least, or moving only in one even course (so Skandasvāmin explains). In Sāyaṇa's bhāṣya he has explained: '*ūtiḥ atasāyyā yoddhṛbhiḥ prāptavyā bhavati*' — your protection is to be gained by warriors from [their] strength of arms."
+- **समर्ये** (*samarye*) — *saṅgrāme maryaiḥ maraṇadharmibhiḥ saha vartate iti samaryaḥ* — "battle. This word is also read among the forty-six words for battle beginning *raṇaḥ, vivāk* (Ni. [2-8?, ?])."
+- **स्वर्मीळ्हे** (*svarmīḷhe*) — *mīḷham iti dhananāma | suṣṭhu araṇīyaṃ dhanaṃ yasmin* — "wealth that is sought with eagerness. Among the twenty-eight names of wealth beginning *maghaṃ, reknaḥ, rikthaṃ*, the word *mīḷha* is *(continues on p. 83)*…"
+
+---
+
+**Progress note:** Printed pp. 1–82 done (PDF 19–100): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.5 complete; Rik 63.6 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 82, ending at *svarmīḷhe*). Next: p. 83 (PDF 101), the Special Topics of Rik 63.6 continue, then the grammar page. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5 and 63.6 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
