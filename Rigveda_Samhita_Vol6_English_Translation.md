@@ -1528,4 +1528,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–70 done (PDF 19–88): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1 and 63.2 complete; Rik 63.3 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 70, breaking off at "ṛbhukṣāḥ … yadvā | ṛtena yajñena"). Next: p. 71 (PDF 89), the bhāṣya of Rik 63.3 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 71 (PDF 89)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Bhāṣya (concluded).**
+
+> **भाति भवतीति वा ऋभुः । उरुशब्दे ऋतशब्दे वोपपदे भातेर्भवतेर्वा मृगय्वादयश्च । उ. १-३८ [?] इति कुप्रत्ययः । पूर्वपदस्य ऋभावश्च निपात्यते । क्षयतिरैश्वर्यकर्मा । तेषामीष्ट इत्यृभुक्षाः । यद्वा । क्षि निवासगत्योः । तेषु निवसतीति [?] । उ. ४-१३१ [?] इति विधीयमान इनिप्रत्ययो बहुलवचनादस्मादपि भवति । टिलोपश्च । सौ पथिमथ्यृभुक्षामात् । पा. ७-१-८५ [?] इत्यात्वम् । प्रत्ययस्वरः । षाट् । सह अभिभवे । छन्दसि सह इति केवलादपि ण्विः । षत्वं छान्दसम् । द्युमते । द्यौर्दीप्तिरस्मिन्नस्तीति द्युमान् । स्वादिष्वसर्वनामस्थाने इति पदसंज्ञायां दिव उदित्यृत्वम् [?] । ह्रस्वनुड्भ्यां मतुबिति मतुप उदात्तत्वम् ॥**
+> *bhāti bhavatīti vā ṛbhuḥ | uruśabde ṛtaśabde vopapade bhāter bhavater vā mṛgayvādayaś ca | U. 1-38 [?] iti kupratyayaḥ | pūrvapadasya ṛbhāvaś ca nipātyate | kṣayatir aiśvaryakarmā | teṣām īṣṭa ity ṛbhukṣāḥ | yadvā | kṣi nivāsagatyoḥ | teṣu nivasatīti [?] | U. 4-131 [?] iti vidhīyamāna inipratyayo bahulavacanād asmād api bhavati | ṭilopaś ca | sau pathimathyṛbhukṣām āt | Pā. 7-1-85 [?] ity ātvam | pratyayasvaraḥ | ṣāṭ | saha abhibhave | chandasi saha iti kevalād api ṇviḥ | ṣatvaṃ chāndasam | dyumate | dyaur dīptir asminn astīti dyumān | svādiṣv asarvanāmasthāne iti padasaṃjñāyāṃ diva ud ity ṛtvam [sic as read, ?] | hrasvanuḍbhyāṃ matub iti matupa udāttatvam ||*
+> *"…or 'he shines, he is' — hence **ṛbhu**: when *uru* or *ṛta* is the first member, from *bhā* or *bhū*, by the Uṇādi *mṛgayu*-class, the affix *ku* (Uṇ. 1-38, as read, ?), and the substitution of *ṛbh* for the first member is given by *nipātana*. *Kṣayati* has the sense of lordship: 'he rules over them' — *ṛbhukṣāḥ*. Or: root *kṣi* in the sense of 'to dwell, to go': 'he dwells among them'; the affix *ini*, enjoined by the Uṇādi rule (Uṇ. 4-131, as read, ?), by the "bahula" licence applies to this root also; and the loss of the final syllable (*ṭi*). Before *su*, by "pathimathy-ṛbhukṣām āt" (Pā. 7-1-85, as read) the *ā*; the affix accent. **Ṣāṭ**: root *saha* 'to overcome'; the affix *ṇvi* even after the bare root by "chandasi sahaḥ"; the *ṣ* is Vedic. **Dyumate**: 'whose is brightness (*dyau*)' is *dyumān*; when it becomes a *pada* by "svādiṣv asarvanāmasthāne", *u* for *div* by "diva ut"; the acute of *matup* by "hrasvanuḍbhyāṃ matup"."* *(Grammar tail characterized; the Uṇādi rule-openings and numerals are doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**इन्द्र** — O Indra; **त्वम्** — you; **सत्यः** — the best of all; **एतान्** — enemies (confronting them); **धृष्णुः** — one who humiliates (who treats with contempt); **त्वम्** — you; **ऋभुक्षाः** — lord of the Ṛbhus, one who dwells among the Ṛbhus, or the highest of all; **नर्यः** — benefactor of men; **त्वम्** — you; **षाट्** — vanquisher of enemies; **वृजने** — (in battle) harmful (to enemies); **पृक्षे** — (to be fought by heroes) to be reached; **आणौ** — in battle; **द्युमते** — brilliant; **यूने** — young; **कुत्साय** — to Kutsa; **त्वम्** — you; **सचा** — as helper; **शुष्णम्** — the asura named Śuṣṇa, the dryer; **अहन्** — killed.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, you are the best of all, the doer of good to men, lord of the Ṛbhus, one who humiliates and defeats enemies. In a terrible battle, as helper to the brilliant, young Kutsa, you killed the rākṣasa named Śuṣṇa.
+
+**English Translation** *(the source's own, as printed):*
+
+> Indra, you are the best of all beings, the assailer and humiliator (of your enemies), the chief of Ribhus, the friend of man, the subduer of enemies ; you aided the young and illustrious Kutsa and killed Sushna, in the deadly and close-faught [sic] battle.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **सत्यः** (*satyaḥ*) — *satsu bhavaḥ, sarvotkṛṣṭaḥ* — "one who exceeds all; one who is worthy of worship."
+
+---
+
+### Page 72 (PDF 90)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **ऋभुक्षाः** (*ṛbhukṣāḥ*) — *ṛbhūṇām adhipatiḥ, teṣu kṛtanivāsaḥ, athavā mahannāmaitat, mahān pravṛddho 'si* — "'the Ṛbhus' are those of much intelligence; 'the best among them' is the sense. Or: one who bestows the power of intellect on those who have little intelligence; one who dwells in an honoured place; or one who is excelling all. This word is read among the twenty-five names of 'great' beginning with *abhvaḥ* (Ni. [3-3?, ?])."
+- **धृष्णुः** (*dhṛṣṇuḥ*) — *dharṣayitā, tiraskartā* — "one who stands in opposition to enemies and drives them out; one who makes them flee."
+- **नर्यः** (*naryaḥ*) — *nṛbhyo hitaḥ* — "one who does good to men."
+- **षाट्** (*ṣāṭ*) — *śatrūṇām abhibhavitā* — "one who makes enemies flee."
+- **शुष्णम्** (*śuṣṇam*) — *śoṣayitāram etatsaṃjñam asuram* — "an asura, a rākṣasa, called Śuṣṇa from his nature of harming all. It is well known in the Itihāsa that Indra, as helper to one named Kutsa, destroyed in battle the asura named Śuṣṇa, who was making trouble for the world."
+- **वृजने** (*vṛjane*) — *varjanayukte saṅgrāme hi vīrāḥ puruṣā varjyante hiṃsyante* — "brave men give up the hankering of their body and lose their lives; hence the word *vṛjana* means 'battle'. Here the word *vṛjana* has the sense of a verb that involves harm; therefore Sāyaṇa has used this word in the sense 'battle'."
+- **आणौ** (*āṇau*) — *saṅgrāme* — "in battle. Sāyaṇa has said that the words *pṛkṣe* and *vṛjane* too denote battle. Yāska has recorded the words *pṛkṣe, āṇau* (Ni. [2-9?, ?]) among the forty-six words for battle [as read, ?]. Skandasvāmin cites this very Rik, *tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau*, as the example, and says the word *āṇau* means 'battle'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.3 (noted briefly).** **ऋभुक्षाः**: *ṛbhu* is a word for the intelligent (those of understanding); "*uru vistīrṇaṃ bhāti*" (shines widely, i.e. much), or "*ṛtena yajñena bhāti bhavati vā ṛbhuḥ*" (shines by sacrifice, or exists); when the word *uru* or *ṛta* is the first member, for the root *bhā dīptau* or *bhū sattāyām*, by "mṛgayvādayaś ca" (Uṇ. Sū. 1-[38], as read) the affix *ku*, and the *ṛbhā* substitute for the first member is thereby laid down by *nipātana*; *ṛbhu*. "*Kṣayati* has the sense of lordship": "he rules over them" is *ṛbhukṣāḥ*; or, from root *kṣi nivāsagatyoḥ* (the root *kṣi* is [here] in the sense of lordship): "*teṣu nivasati*", one dwelling among them: *ṛbhukṣāḥ*; the affix *ini*, enjoined by the Uṇādi rule (Uṇ. Sū. 4-[132], as read; the opening word read doubtfully, ?), applies also to this root by the "bahula" licence of the Uṇādi; and the loss of *ṭi* is accomplished by it; the word *ṛbhukṣin*; when *su* follows, the *ā* by "pathimathy-ṛbhukṣām āt" (Pā. Sū. 7-1-85, as read); by "ito 't sarvanāmasthāne" (Pā. Sū. 7-1-86, as read) the *i* becomes *a*; the *ru*/*visarga* for the *s*; the form *ṛbhukṣāḥ*; by the affix accent, final-acute. **धृष्णुः**: root *ñidhṛṣā prāgalbhye*; the affix *knu* by "trasigṛdhidhṛṣikṣipeḥ knuḥ" (Pā. Sū. 3-2-140, as read); being *k*-marked, the *laghūpadha-guṇa* does not come; the *ṇ* for *n* after *ṣ*; *dhṛṣṇu*; final-acute by the affix accent. **नर्यः**: "*narāya hitaḥ*" = *naryaḥ*; the affix *yat* by "tasmai hitam" (Pā. Sū. 5-1-5, as read); the loss of *a* by "yasyeti ca"; the initial acute by "yato 'nāvaḥ" (Pā. Sū. 6-1-213, as read). *(continues on p. 73).*
+
+---
+
+### Page 73 (PDF 91)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.3, concluded (noted briefly).** **षाट्**: root *saha abhibhave*; by "chandasi sahaḥ" (Pā. Sū. 3-2-63, as read) the affix *ṇvi* comes even after the bare root *saha*; being *ṇit*, the *vṛddhi* of the penultimate by "ata upadhāyāḥ"; *sāh*; the *ṣ* is Vedic; the *su* ending; *ḍha* by "hoḍhaḥ" (as read), the *jaś* by "jhalāṃ jaśo 'nte", the *cartva* by "vāvasāne": *ṣāṭ*. **द्युमते**: *dyauḥ* = brightness; "*asmin asti*": *dyumān*; the affix *matup* by "tad asyāsty asminn iti matup"; when it becomes a *pada* by "svādiṣv asarvanāmasthāne", *u* for *div* by "diva ut" (Pā. Sū. 6-1-131, as read): *dyumat*; with *su* following, because it is *ugit*, the *num* augment by "ugidacāṃ sarvanāmasthāne 'dhātoḥ"; the lengthening by "ato 'tvasantasya cādhātoḥ"; the loss of *su* by "halṅyābbhyo dīrghāt sutisyapṛktaṃ hal"; the loss of *t* by "saṃyogāntasya lopaḥ": *dyumān*; the acute of *matup* by "hrasvanuḍbhyāṃ matup" (Pā. Sū. 6-1-176, as read). **अहन्**: root *hana hiṃsāgatyoḥ*; *laṅ*, third person singular, *tip*; the loss of *i* by "itaś ca"; the *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ"; the loss of *ti* [the *t*], an unjoined consonant, by "halṅyābbhyo…"; the *aṭ* augment for the stem; the form *ahan*; the *nighāta* accent, since it follows a non-verbal word. **॥ ३ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.3 ends here (ornamental rule).*
+
+---
+
+**Progress note:** Printed pp. 1–73 done (PDF 19–91): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.3 complete. Next: p. 74 (PDF 92), Rik 63.4. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
