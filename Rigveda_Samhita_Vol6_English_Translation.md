@@ -2135,4 +2135,58 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–100 done (PDF 19–118): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Rik 64.1 complete; Rik 64.2 — Saṃhitā and Pada (p. 100). Next: p. 101 (PDF 119), the bhāṣya of Rik 64.2. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 101 (PDF 119)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **ते मरुतो दिवोऽन्तरिक्षाज्जज्ञिरे । प्रादुर्बभूवुः । कीदृशाः । ऋष्वासो दर्शनीयाः उक्षणः सेक्तारः । युवान इत्यर्थः । रुद्रस्य मर्याः । मर्यशब्दो मनुष्यवाचीह मरुतां मर्त्यत्वासम्भवात्पुत्रा इत्यस्मिन्नर्थे पर्यवस्यति । मरुतां रुद्रपुत्रत्वं च मन्त्रान्तरे स्पष्टम् । आ ते पितर्मरुतां सुम्नमेतु । ऋग्वेदे २-३३-१ । इति । असुराः शत्रूणां निरसितारः । अरेपसः । रेप इति पापनाम । पापरहिताः । पावकासः सर्वेषां शोधकाः सूर्या इव शुचयो दीप्ताः सत्वानो न । यथा परमेश्वरस्य भूतगणा अतिशयेन बलपराक्रमाः तत्सदृशा इत्यर्थः । सत्वान इति भूतगणा उच्यन्ते । अथो ये अस्य सत्वानः । तै. सं. ४-५-१-३ [?] इत्यादौ तथा दर्शनात् । द्रप्सिनो वृष्ट्युदकबिन्दुभिर्युक्ताः । मरुतः सृष्टां वृष्टिं नयन्तीति श्रुतेः । तै. सं. २-४-१०-२ [?] । घोरवर्पसः । वर्प इति रूपनाम । घोररूपाः । शत्रूणां भयंकररूपा इत्यर्थः । यद्वा । सत्वानो न घोरवर्पसः । यथा भूतगणा भयंकररूपास्तद्वदेतेऽपीत्यर्थः ॥ ऋष्वासः । ऋषी गतौ । गत्यर्था बुद्ध्यर्था इत्यत्र ज्ञानार्थः । सर्वनिघृष्वेत्यादौ । उ. १-१५४ [?] । वप्रत्ययान्तो निपातितः । आज्जसेरसुक् । उक्षणः । वा षपूर्वस्य निगमे इत्युपधादीर्घाभावः । अरेपसः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । सत्वानः । षद्लृ विशरणगत्यवसादनेषु । प्र ईरसद्योऽसुट्ट्क् [?] । उ. ४-११३ [?] । इति विधीयमानः क्वनिप्प्रत्ययो बहुलवचनात्केवलादपि भवति । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते ॥**
+> *te maruto divo 'ntarikṣāj jajñire | prādurbabhūvuḥ | kīdṛśāḥ | ṛṣvāso darśanīyāḥ ukṣaṇaḥ sektāraḥ | yuvāna ity arthaḥ | rudrasya maryāḥ | maryaśabdo manuṣyavācīha marutāṃ martyatvāsambhavāt putrā ity asminn arthe paryavasyati | marutāṃ rudraputratvaṃ ca mantrāntare spaṣṭam | ā te pitar marutāṃ sumnam etu | ṛgvede 2-33-1 | iti | asurāḥ śatrūṇāṃ nirasitāraḥ | arepasaḥ | repa iti pāpanāma | pāparahitāḥ | pāvakāsaḥ sarveṣāṃ śodhakāḥ sūryā iva śucayo dīptāḥ satvāno na | yathā parameśvarasya bhūtagaṇā atiśayena balaparākramāḥ tatsadṛśā ity arthaḥ | satvāna iti bhūtagaṇā ucyante | atho ye asya satvānaḥ | tai. saṃ. 4-5-1-3 [?] ity ādau tathā darśanāt | drapsino vṛṣṭyudakabindubhir yuktāḥ | marutaḥ sṛṣṭāṃ vṛṣṭiṃ nayantīti śruteḥ | tai. saṃ. 2-4-10-2 [?] | ghoravarpasaḥ | varpa iti rūpanāma | ghorarūpāḥ | śatrūṇāṃ bhayaṅkararūpā ity arthaḥ | yadvā | satvāno na ghoravarpasaḥ | yathā bhūtagaṇā bhayaṅkararūpās tadvad ete 'pīty arthaḥ || ṛṣvāsaḥ | ṛṣī gatau | gatyarthā buddhyarthā ity atra jñānārthaḥ | sarvanighṛṣvety ādau | U. 1-154 [?] | vapratyayānto nipātitaḥ | āj jaser asuk | ukṣaṇaḥ | vā ṣapūrvasya nigame ity upadhādīrghābhāvaḥ | arepasaḥ | bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | satvānaḥ | ṣadḷ viśaraṇagatyavasādaneṣu | pra īrasadyo 'suṭṭak [?] | U. 4-113 [?] | iti vidhīyamānaḥ kvanippratyayo bahulavacanāt kevalād api bhavati | pratyayasya pittvād anudāttatve dhātusvaraḥ śiṣyate ||*
+> *"The Maruts **jajñire**, were born from **divaḥ**, the atmosphere (appeared). Of what sort? **ṛṣvāsaḥ**, handsome; **ukṣaṇaḥ**, sprinklers, i.e. young; **rudrasya maryāḥ** — the word *marya* here, although it denotes 'man', since the Maruts cannot be mortal, comes to the sense 'sons'; and that the Maruts are sons of Rudra is plain in another mantra: 'ā te pitar marutāṃ sumnam etu' (Ṛgveda 2-33-1). **Asurāḥ**, casters-out of enemies; **arepasaḥ** — *repa* is a word for 'sin', hence free of sin; **pāvakāsaḥ**, purifiers of all; **śucayaḥ**, bright **sūryā iva**, like suns; **satvāno na** — as the hosts of beings (*bhūtagaṇāḥ*) of the Lord are exceedingly powerful and valiant, so they, similar to them. (*Satvānaḥ* is a name for hosts of beings, since it is seen so in 'atho ye asya satvānaḥ' in Taittirīya Saṃhitā 4-5-1-3, as read, ?.) **Drapsinaḥ**, endowed with drops of rain-water — since the śruti says 'the Maruts bring the rain that has been let go' (Tai. Saṃ. 2-4-10-2, as read, ?). **Ghoravarpasaḥ** — *varpas* is a word for 'form'; of terrible form, of forms terrifying to enemies; or: '*satvāno na ghoravarpasaḥ*', as the hosts of beings are of fearful form, so too these. **Ṛṣvāsaḥ**: root *ṛṣī gatau*; of the roots meaning 'go' [which also] mean 'know', here in the sense of knowing; the *va*-ending form given by *nipātana* in the list beginning *sarvanighṛṣva…* (Uṇ. 1-154, as read, ?); *āj jaser asuk*. **Ukṣaṇaḥ**: by 'vā ṣapūrvasya nigame' the lengthening of the penultimate does not come. **Arepasaḥ**: in the *bahuvrīhi*, the final acute of the latter member by 'nañsubhyām'. **Satvānaḥ**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; the affix *kvanip* enjoined by the Uṇādi rule (Uṇ. 4-113, as read, ?) occurs also after the bare root by the "bahula" licence; since the affix is *p*-marked and so unaccented, the root accent remains."* *(Grammar tail characterized; the Uṇādi rule-opening "pra īrasadyo…" and the numerals as read are doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**ते** — those Marut deities; **ऋष्वासः** — of charming form (and of a nature of motion, wise); **उक्षणः** — youthful; **रुद्रस्य मर्याः** — sons of Rudra; **असुराः** — destroyers of enemies; **अरेपसः** — free from sin; **पावकासः** — purifiers (of all); **सूर्या इव** — like the sun; **शुचयः** — shining; **सत्वानो न** — mighty, like [the host of beings of the Lord]; **द्रप्सिनः** — endowed with drops of water; **घोरवर्पसः** — with forms fearful (to enemies); **दिवः** — from the atmosphere; **जज्ञिरे** — appeared.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada; begins, continues on p. 102).* Those Marut deities — of charming form, youthful, sons of Rudra, destroyers of enemies, themselves pure and able to purify others, shining like the sun, mighty like the host of beings, of forms terrifying to enemies — manifested from the atmosphere, endowed with drops of rain-water …
+
+---
+
+### Page 102 (PDF 120)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāvārtha (concluded).** "…they appeared from the atmosphere, endowed with drops of rain-water."
+
+**English Translation** *(the source's own, as printed):*
+
+> They were born handsome and vigorous from the sky, the sons of Rudra, the conquerors of their foes, pure from sin, and purifying all, radiant as suns, powerful as evil spirits, diffusers of raindrops, and of fearful forms.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **ऋष्वासः** (*ṛṣvāsaḥ*) — *darśanīyāḥ* — "possessed of beauty; handsome."
+- **उक्षणः** (*ukṣaṇaḥ*) — *sektāraḥ, yuvānaḥ, varṣitāraḥ* — "those who cause the rain to fall; endowed with youth; the Marut deities."
+- **रुद्रस्य मर्याः** (*rudrasya maryāḥ*) — "The word *marya* means 'man'; here, because the Maruts cannot be mortal, it ends in the sense 'sons'. That the Maruts are sons of Rudra is stated: '*ā te pitar marutāṃ sumnam etu*' (Ṛg. Saṃ. 2-33-1). *Marya* means man; since the Marut deities have no mortal nature, it should be understood that they are called 'sons'. The Ṛk-Saṃhitā sentence '*ā te pitar marutām*' expresses the idea that the Marut deities are sons of Rudra.
+  Skandasvāmin: '*te divas-prakāśāj jajñire dyaur eṣāṃ mātā*' ['they were born of the light of the sky; heaven is their mother', as read, ?] — these Marut deities were born from the atmosphere; the atmosphere itself is their mother. And it is clear in the Purāṇas and Itihāsas that Aditi, the wife of the sage Kaśyapa, gave birth to the Maruts. The Marut deities show their origin thus, so that everyone may know their surpassing greatness. And by the mantras '*rudrasya ye mīḷhuṣaḥ santi putrāḥ*' (Ṛk. Saṃ. 6-66-3, as read) and '*yāmañ rudrasya sūnavaḥ*' (Ṛk. Saṃ. 1-85-1, as read) he states that the Marut deities are Rudra's sons."
+- **असुराः** (*asurāḥ*) — *śatrūṇāṃ nirasitāraḥ* — "those who destroy the enemies of the sacrificers."
+
+---
+
+### Page 103 (PDF 121)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **अरेपसः** (*arepasaḥ*) — *pāparahitāḥ | repa iti pāpanāma* — "the Marut deities have no connection with sin; *repa* means 'sin'."
+- **पावकासः** (*pāvakāsaḥ*) — *sarveṣāṃ śodhakāḥ* — "as fire purifies other things, so these Marut deities bring purity to all."
+- **सत्वानो न** (*satvāno na*) — "*satvānaḥ* is the name given to the hosts of beings; *atho ye asya satvānaḥ* (Tai. Saṃ. 4-5-1-3, as read, ?) — it is seen so there. The word *na* is a word of comparison. By the word *satvānaḥ* the sense 'the hosts of beings of Parameśvara' arises. The idea is that these Marut deities are, like the hosts of beings of Parameśvara, endowed with great valour."
+- **द्रप्सिनः** (*drapsinaḥ*) — *vṛṣṭyudakabindubhir yuktāḥ* — "endowed with the fine drops that pour down rain-water. '*Marutaḥ sṛṣṭāṃ vṛṣṭiṃ nayanti*' (Tai. Saṃ. 2-4-10-2, as read, ?) — they cause the rain [that has been let loose] to reach everywhere: this is the meaning of the word *drapsinaḥ*. Skandasvāmin says: '*vṛṣṭyudakalakṣaṇena rasena rasavantaḥ; athavā satvāno neti śabdāt yathendraprabhṛtayo dātāro drapsinaḥ tathā drapsinaḥ*' — 'those who have sap in the form of rain-water; or, from the words *satvāno na*: as Indra and others who are givers are *drapsinaḥ*, so these'; he explains that the Marut deities are endowed with the little drops of rain-water, like Indra and the other deities."
+- **घोरवर्पसः** (*ghoravarpasaḥ*) — *varpa iti rūpanāma | ghorarūpāḥ śatrūṇāṃ bhayaṅkararūpāḥ* — "as the hosts of beings are of fearful form, so also these Marut deities appear to the enemies of the sacrificers, bearing a form that causes fear. The word *varpas* is read among the sixteen names of 'form' (Ni. [3-13?, ?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.2 (begins; noted briefly).** **जज्ञिरे**: root *janī prādurbhāve*; *liṭ*, third person plural; the substitute *ire* for the ending by "liṭas tajhayor eśirec" (Pā. Sū. 3-4-81, as read); the doubling and the rest come, giving the form; the *nighāta* accent of a verb. **दिवः**: by "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. Sū. 6-1-171, as read) the case-ending receives the acute. **ऋष्वासः**: root *ṛṣī gatau*; by "gatyarthā buddhyarthāḥ" [as read] it is here in the sense of knowing; by "sarvanighṛṣvariṣvalaṣva…" (Uṇ. Sū. 1-[151], as read) the form ending in *va* is given by *nipātana* *(continues on p. 104)*.
+
+---
+
+**Progress note:** Printed pp. 1–103 done (PDF 19–121): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Rik 64.1 complete; Rik 64.2 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, and the grammar page begun (p. 103, ending at *ṛṣvāsaḥ*). Next: p. 104 (PDF 122), the grammar page of Rik 64.2 continues; then Rik 64.3. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
