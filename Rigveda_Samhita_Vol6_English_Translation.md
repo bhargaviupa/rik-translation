@@ -3304,4 +3304,62 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–160 done (PDF 19–178): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti): Rik 65.1 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (with the Itihāsa of Agni hidden in the waters) done; grammar page begun (p. 160, ending at *sajoṣāḥ*). Next: p. 161 (PDF 179), the grammar page of Rik 65.1 concludes (*dhīrāḥ*, *padyaiḥ*, *gman*, *yajatrāḥ*…); then Rik 65.2 (half-Ṛks 3–4). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; Skandasvāmin's note on p. 159 and the relation of Agni to Varuṇa on p. 158 read doubtfully [?]; "तायुमिव" and "पद्यशुरित्यर्थः" in the 65.1 bhāṣya doubtful [?]; earlier open flags of Sūktas 62–64 as marked inline; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 161 (PDF 179)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 11".)*
+
+**Grammar page for Rik 65.1, concluded (noted briefly).** **पद्यैः**: by "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. Sū. 6-1-171, as read) the case-ending receives the acute. **ग्मन्**: root *gamḷ gatau*; in the *luṅ*, third person plural, *jhi* is replaced by *ant*; the loss of *i* by "itaś ca"; the *cli*-vikaraṇa has *luk* by "mantre ghasahvaraṇaśavṛdahādvṛcakrugamijanibhyo ler luk" (Pā. Sū. 2-4-80, as read), because the affix that follows is *j*-marked; by "gamahanajana…" (Pā. Sū. 6-4-98, as read) the loss of the root's penultimate; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ* comes; the *nighāta* accent of a verb; the form *gman*. **यजत्राः**: root *yaja devapūjāsaṅgatikaraṇadāneṣu*; by "aminakṣiyajivadhi…" (Pā. Sū. 3-2-[?], as read) the affix *atran*; because the affix is *n*-marked, by "ñnityādir nityam" the initial acute; the plural form. **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 65.1 ends here (ornamental rule).*
+
+#### Rik 65.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम ।**
+> **वर्धन्तीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातम् ॥ ३ ॥ ४ ॥**
+> *ṛtasya devā anu vratā gur bhuvat pariṣṭir dyaur na bhūma |*
+> *vardhantīm āpaḥ panvā suśiśvam ṛtasya yonā garbhe sujātam || 3 || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **ऋतस्य । देवाः । अनु । व्रता । गुः । भुवत् । परिष्टिः । द्यौः । न । भूम ।**
+> **वर्धन्ति । ईम् । आपः । पन्वा । सुऽशिश्विम् । ऋतस्य । योना । गर्भे । सुऽजातम् ॥ ३ ॥ ४ ॥**
+> *ṛtasya | devāḥ | anu | vratā | guḥ | bhuvat | pariṣṭiḥ | dyauḥ | na | bhūma |*
+> *vardhanti | īm | āpaḥ | panvā | su-śiśvim | ṛtasya | yonā | garbhe | su-jātam || 3 || 4 ||*
+
+---
+
+### Page 162 (PDF 180)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **उक्त एवार्थः स्पष्टीक्रियते । देवा ऋतस्य गतस्य पलायितस्याग्नेर्व्रता व्रतानि कर्माणि गमनावस्थानशयनादिरूपाण्यनु गुः । अन्वेष्टुमगमन् । तदनन्तरं परिष्टिः परितः सर्वतोऽन्वेषणं भुवत् । अभवत् । भूमा भूमिरस्यैवाग्नेरन्वेष्ट्भिर्देवैर्द्यौर्न स्वर्ग इवाभूत् । इन्द्रादयः सर्वे देवा अग्नेर्गवेषणाय भूलोकं प्राप्ता इत्यर्थः । आपो ऽब्देवता ईमेनमुदके प्रविष्टमग्निं वर्धन्ति । प्रवर्धयन्ति । यथा देवा न पश्यन्ति तथारक्षन्नित्यर्थः । कीदृशं । पन्वा स्तोत्रेण सुशिश्विं सुष्ठु प्रवर्धितं । ऋतस्य योना । योनिरित्युदकनाम । ऋतस्य यज्ञस्यान्नस्य वा कारणभूते जले गर्भे गर्भस्थाने मध्ये सुजातं सुष्ठु प्रादुर्भूतं । एवमप्सु वर्तमानमग्निं देवेभ्यो मत्स्यः प्रावोचत् । तदनन्तरं देवास्तमज्ञासिषुरिति भावः । तथा च तैत्तिरीयकं । स निलायत सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन् तं मत्स्यः प्राब्रवीदिति ॥ व्रता । शेश्छन्दसि बहुलमिति शेर्लोपः । गुः । इण् गतौ । इणो गा लुङीति गादेशः । गातिस्थेति सिचो लुक् । आते इति झेर्जुस् । उस्यपदान्तादिति पररूपत्वम् । परिष्टिः । इषु इच्छायां । क्तिनि तितुत्रेष्वितीट्प्रतिषेधः । शकन्ध्वादित्वात्पररूपत्वम् । पा. ६-१-९४-४ [?] । ताशौ च निती इति गतेः प्रकृतिस्वरत्वम् । भूमा । सुपां सुलुगिति सोर्डादेशः । ह्रस्वश्छान्दसः । वर्धन्ति । छन्दस्युभयथेति शप आर्धधातुकत्वाण्णेरनिटीति णिलोपः । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । पन्वा । पन स्तुतौ । औणादिको भाव उप्रत्ययः । सुशिश्विं । टुओश्वि गतिवृद्ध्योः । आद्गमहनजन इत्येत्रोत्सर्गश्छन्दसि । पा. ३-२-१७१-२ [?] इति वचनात्किप्रत्ययः । वचिस्वपीत्यादिना सम्प्रसारणं । लिट्त्वाद्वाप्यद्विर्भावे बहुलं छन्दसीत्येकारस्येत्वं । छान्दसो यणादेशः । सुः पूजायां । पा. १-४-९४ [?] इति सोः कर्मप्रवचनीयत्वं । स्तुती पूजायां । पा. २-२-१८ [?] इति प्रादिसमासः । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥**
+> *ukta evārthaḥ spaṣṭīkriyate | devā ṛtasya gatasya palāyitasyāgner vratā vratāni karmāṇi gamanāvasthānaśayanādirūpāṇy anu guḥ | anveṣṭum agaman | tadanantaraṃ pariṣṭiḥ parita sarvato 'nveṣaṇaṃ bhuvat | abhavat | bhūmā bhūmir asyaivāgner anveṣṭṛbhir devair dyaur na svarga ivābhūt | indrādayaḥ sarve devā agner gaveṣaṇāya bhūlokaṃ prāptā ity arthaḥ | āpo 'bdevatā īm enam udake praviṣṭam agniṃ vardhanti | pravardhayanti | yathā devā na paśyanti tathārakṣann ity arthaḥ | kīdṛśaṃ | panvā stotreṇa suśiśviṃ suṣṭhu pravardhitaṃ | ṛtasya yonā | yonir ity udakanāma | ṛtasya yajñasyānnasya vā kāraṇabhūte jale garbhe garbhasthāne madhye sujātaṃ suṣṭhu prādurbhūtaṃ | evam apsu vartamānam agniṃ devebhyo matsyaḥ prāvocat | tadanantaraṃ devās tam ajñāsiṣur iti bhāvaḥ | tathā ca taittirīyakaṃ | sa nilāyata so 'paḥ prāviśat taṃ devatāḥ praiṣam aicchan taṃ matsyaḥ prābravīd iti || vratā | śeś chandasi bahulam iti śer lopaḥ | guḥ | iṇ gatau | iṇo gā luṅīti gādeśaḥ | gātistheti sico luk | āte iti jher jus | usy apadāntād iti pararūpatvam | pariṣṭiḥ | iṣu icchāyāṃ | ktini titutreṣv iti iṭpratiṣedhaḥ | śakandhvāditvāt pararūpatvam | Pā. 6-1-94-4 [?] | tāśau ca niti iti gateḥ prakṛtisvaratvam | bhūmā | supāṃ sulug iti sor ḍādeśaḥ | hrasvaś chāndasaḥ | vardhanti | chandasy ubhayatheti śapa ārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | śapaḥ pittvād anudāttatvam | tiṅaś ca lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | panvā | pana stutau | auṇādiko bhāva u-pratyayaḥ | suśiśviṃ | ṭuośvi gativṛddhyoḥ | ād gamahanajana ity etrotsargaś chandasi | Pā. 3-2-171-2 [?] iti vacanāt kipratyayaḥ | vacisvapītyādinā samprasāraṇaṃ | liṭtvād vāpy adirbhāve bahulaṃ chandasīty ekārasyetvaṃ | chāndaso yaṇādeśaḥ | suḥ pūjāyāṃ | Pā. 1-4-94 [?] iti soḥ karmapravacanīyatvaṃ | stutī pūjāyāṃ | Pā. 2-2-18 [?] iti prādisamāsaḥ | avyayapūrvapadaprakṛtisvaratvaṃ ||*
+> *"The sense already stated is made clear. The gods **anu guḥ** — went after — **vratā**, the doings, i.e. the movements, staying, lying down and so on, **ṛtasya**, of Agni who had gone, fled; they went to search. After that **pariṣṭiḥ**, the search all around, **bhuvat**, took place. **Bhūma**, the earth, with the gods searching for this very Agni, **dyaur na**, became like heaven: all the gods, Indra and the rest, had come to the earth to seek Agni. **Āpaḥ**, the waters, the deity-waters, **īm**, this [Agni] who had entered the water, **vardhanti** — increase, make grow, so that the gods should not see him (i.e. they hid him). Of what kind? **Panvā**, by praise, **suśiśvim**, well increased; **ṛtasya yonā** — *yoni* is a word for 'water' — in the water, which is the cause of the *ṛta* (sacrifice, or food), **garbhe**, in the womb-place, in the middle, **sujātam**, well manifested. Thus a fish told the gods of Agni who was among the waters; thereafter the gods knew him: this is the idea. So the Taittirīya text: 'he hid; he entered the waters; the deities sought a message [as to where he was]; the fish told them' (as read). **Vratā**: the loss of *śi* by 'śeś chandasi bahulam'. **Guḥ**: root *iṇ gatau*; the *gā* substitute for *iṇ* in the *luṅ*; the *luk* of *sic* by 'gātisthā…'; *jus* for *jhi* by 'āte'; the following-form by 'usy apadāntāt'. **Pariṣṭiḥ**: root *iṣu icchāyāṃ*; *ktin*; the prohibition of *iṭ* by 'titutreṣu'; following-form because it belongs to the *śakandhvādi* list; the accent of the first member, a *gati* [by 'tāśau ca niti']. **Bhūmā**: *ḍā* for the case-ending by 'supāṃ sulug…'; the shortening is Vedic. **Vardhanti**: since *śap* is *ārdhadhātuka* by 'chandasy ubhayathā', the loss of *ṇi* by 'ṇer aniṭi'; *śap* unaccented because *p*-marked; the root accent remains. **Panvā**: root *pana stutau*; the Uṇādi affix *u* in the sense of *bhāva*. **Suśiśvim**: root *ṭuośvi gativṛddhyoḥ*; … the affix *ki* by the statement [Pā. 3-2-171-2, as read, ?]; *samprasāraṇa* by 'vacisvapi…'; …; *su* in the sense of praise is a *karmapravacanīya* (Pā. 1-4-94, as read, ?); *prādi* compound; the accent of the first member, an indeclinable."* *(Dense grammar tail characterized; references as read, many doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 163)*
+
+**देवाः** — the gods; **ऋतस्य** — of him who had gone away (the fugitive Agni); **व्रता** — the doings (of going etc.); **अनु गुः** — set out [to search]; **परिष्टिः** — the search everywhere; **भुवत्** — took place; **भूम** — the earth; **द्यौर्न** — like heaven [became] *(by the gods who were searching)*; **आपः** — the waters (deities); **पन्वा** — by praises; **सुशिश्विम्** — well grown; **ऋतस्य** — for the food (for the sacrifice); **योना** — in the water (which is the cause); **गर्भे** — in the middle; **सुजातम्** — well manifested; **ईम्** — this (Agni who had entered the water); **वर्धन्ति** — they make grow (they hide him from the sight of the gods).
+
+---
+
+### Page 163 (PDF 181)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The gods set out everywhere, searching for the Agni who had fled. The earth, with the gods, became like heaven. Agni, grown by praises and the like, stayed in the midst of the water that is the cause of food and so on, well concealed from the gods.
+
+**English Translation** *(the source's own, as printed):*
+
+> The Gods followed the traces of the fugitive, the search was made everywhere, and earth became like the celestial region ; the waters swelled (to conceal him), who was much enlarged by laudation, and was manifested as it were in the womb in the waters, the source of sacrificial food.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **भूम द्यौर्न** — *bhūmir api svarga ivābhūt | indrādayaḥ sarve devā agner gaveṣaṇāya bhūlokaṃ prāptāḥ* — "because Indra and the other gods, to search for Agni, were on the earth, the earth looked like heaven."
+- **ऋतस्य योना गर्भे सुजातम्** — *yonir ity udakanāma | ṛtasya yajñasyānnasya vā kāraṇabhūte jale madhye suṣṭhu prādurbhūtam | evam apsu vartamānam agniṃ devebhyo matsyaḥ prāvocat | tadanantaraṃ devās tam ajñāsiṣuḥ | tathā ca taittirīyakaṃ — 'sa nilāyata so 'paḥ prāviśat taṃ devāḥ praiṣam aicchan taṃ matsyaḥ prābravīt' (Tai. Saṃ. 2-6-6-1)* — "*yoni* is a name for 'water'. Agni, well manifested in the water that is the cause of the sacrifice or food: the fish told the gods that Agni was in the water; after that the gods recognised him. So the Taittirīya [passage]: 'he hid; he entered the waters; the gods sought a message; the fish told [them]'."
+  "For this matter see Ṛk Saṃhitā [Kannada edition], Part 3, pp. 60–61 [as read, ?]. The word *yoni* is read among the names of water (Ni. [1-12]). It means: staying in the midst of the water that is the cause of the food used for oblations in sacrifice, or of the life of all, he had attained growth."
+
+---
+
+**Progress note:** Printed pp. 1–163 done (PDF 19–181): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1 complete; **Rik 65.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics done (pp. 161–163). Next: p. 164 (PDF 182), the grammar page of Rik 65.2, then Rik 65.3 (half-Ṛks 5–6). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; the dense grammar tail of 65.2 doubtful in places [?]; Skandasvāmin's note (p. 159) and Agni–Varuṇa relation (p. 158) doubtful [?]; earlier flags of Sūktas 62–64 as marked inline; accent marks of the Saṃhitā/Pada not reproduced.
