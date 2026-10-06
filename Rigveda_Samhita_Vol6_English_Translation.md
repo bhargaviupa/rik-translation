@@ -795,4 +795,68 @@ To offer this Rik, *tad u prayakṣatamam*, in the sacrificial rite called Prava
 
 ---
 
-**Progress note:** Printed pp. 1–34 done (PDF 19–52): Rik 62.1–62.6 complete (62.6 on pp. 31–34: Saṃhitā, Pada, bhāṣya with grammar tail, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and word notes, grammar). Next: p. 35 (PDF 53), Rik 62.7. Open flags: Nirukta numbers [?]; reference numerals on pp. 24–34 [?] (Āśvalāyana reference [4-7 or 4-2, ?]); sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in 62.5, "उपराः उप्ताः" and the ending of the bhāṣya's grammar tail ("अस्मिन्नद्य") in 62.6 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 35 (PDF 53)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+#### Rik 62.7
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **द्विता वि वव्रे सनजा सनीळे अयास्यः स्तवमानेभिरर्कैः ।**
+> **भगो न मेने परमे व्योमन्नधारयद्रोदसी सुदंसाः ॥ ७ ॥**
+> *dvitā vi vavre sanajā sanīḷe ayāsyaḥ stavamānebhir arkaiḥ |*
+> *bhago na mene parame vyomann adhārayad rodasī sudaṃsāḥ || 7 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **द्विता । वि । वव्रे । सनऽजा । सनीळे इति सऽनीळे । अयास्यः । स्तवमानेभिः । अर्कैः ।**
+> **भगः । न । मेने इति । परमे । विऽओमन् । अधारयत् । रोदसी इति । सुऽदंसाः ॥ ७ ॥**
+> *dvitā | vi | vavre | sana-jā | sanīḷe iti sa-nīḷe | ayāsyaḥ | stavamānebhiḥ | arkaiḥ |*
+> *bhagaḥ | na | mene iti | parame | vi-oman | adhārayat | rodasī iti | su-daṃsāḥ || 7 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **अयास्यः । यासः प्रयत्नः । तत्साध्यो यास्यः । न यास्योऽयास्यः । युद्धरूपैः प्रयत्नैः साधयितुमशक्य इत्यर्थः । कथं साध्यत इत्यत आह । स्तवमानेभिः स्तोत्रं कुर्वद्भिः पुरुषैरर्कैः स्तुतिरूपैर्मन्त्रैः स्तूयमानः सन्निन्द्रः सुसाध्यो भवति । यद्वा । आयास्यः पञ्चवृत्तिर्मुख्यप्राणः । स ह्यास्यान्मुखादयते गच्छति निष्क्रामति । तदुपासकोऽप्यङ्गिरा उपचारादायास्य उच्यते । तथा च छन्दोगैरामानतम् । तं हायास्य उद्गीथमुपासां चक्रे एतमु एवायास्यं मन्यन्त आस्याद्ययते तेन । छां. उ. १-२-१३ [?] । इति । अथवा । अयमास्ये मुखे वर्तत इत्यायास्यः । तथा च वाजसनेयकम् । ते होचुः क्व नु सोऽभूद्यो न इत्थमस्मत्क्रेत्ययमास्येऽन्तरिति । शत. ब्रा. १४-४-१-९ [?] । इति । पूर्ववदुपासकोऽस्य-**
+> *ayāsyaḥ | yāsaḥ prayatnaḥ | tatsādhyo yāsyaḥ | na yāsyo 'yāsyaḥ | yuddharūpaiḥ prayatnaiḥ sādhayitum aśakya ity arthaḥ | kathaṃ sādhyata ity ata āha | stavamānebhiḥ stotraṃ kurvadbhiḥ puruṣair arkaiḥ stutirūpair mantraiḥ stūyamānaḥ sann indraḥ susādhyo bhavati | yadvā | āyāsyaḥ pañcavṛttir mukhyaprāṇaḥ | sa hy āsyān mukhād ayate gacchati niṣkrāmati | tadupāsako 'py aṅgirā upacārād āyāsya ucyate | tathā ca chandogair āmnātam | taṃ hāyāsya udgītham upāsāṃ cakre etam u evāyāsyaṃ manyanta āsyād ayate tena | Chāṃ. U. 1-2-13 [?] iti | athavā | ayam āsye mukhe vartata ity āyāsyaḥ | tathā ca vājasaneyakam | te hocuḥ kva nu so 'bhūd yo na itthamasmatkretyayam āsye 'ntar iti | Śat. Brā. 14-4-1-9 [?] iti | pūrvavad upāsako 'sya-*
+> *"**Ayāsya**: *yāsa* is effort; what is to be won by it is *yāsya*; not *yāsya* is *ayāsya* — i.e. one who cannot be won by efforts in the form of fighting. How then is he won? He says: **stavamānebhiḥ arkaiḥ** — Indra, praised by men who sing, with the *arka*s, mantras in the form of praise, is easily won. Or: **āyāsya** is the chief breath (*mukhya prāṇa*) of five functions; for it goes (*ayate*) out of the mouth (*āsya*). Its worshipper too, Aṅgiras, is called Āyāsya by transference. So the Chandogas (Sāmaveda people) have handed down: 'Him they worshipped as the Udgītha, Āyāsya; they consider him this very Āyāsya, because he goes out from the mouth' (Chāndogya Up. 1-2-13, numerals as read, ?). Or: 'this (*ayam*) is in the mouth (*āsya*)', hence *āyāsya*; so the Vājasaneyins: 'They said: where was he who [spoke] to us thus? — this is in the mouth' (Śatapatha Brāhmaṇa 14-4-1-9, numerals as read, ?). As before, the worshipper …"* *(the sentence breaks off at the foot of the page).* (The Chāndogya and Śatapatha quotations are compressed and corrupt in the print; given as read and tentatively [?]. "आस्यान्मुखादयते" is read "āsyān mukhād ayate".)
+
+---
+
+### Page 36 (PDF 54)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Bhāṣya (continued).** The broken sentence from p. 35 resumes with the word "…यास्यः" (printed so; the junction "ऽस्य-" / "यास्यः" is read [?] as "the worshipper of this [breath] is *āyāsya*, as before").
+
+> **यास्यः । तेन ऋषिणा स्तवमानेभिर्गुणनिष्ठगुणाभिधानलक्षणां स्तुतिं कुर्वद्भिरर्कैर्मन्त्रैः करणभूतैः स्तूयमानः सन् सनजा । सनेति निपातो नित्यार्थः । नित्यजाते । सर्वदा विद्यमानस्वभावे इत्यर्थः । प्रथमभावविकारवाचिना जनिना द्वितीयो भावविकारः सत्ता लक्ष्यते । यथौत्पत्तिकस्तु शब्दस्यार्थेन सम्बन्ध इत्यौत्पत्तिकमिति नित्यं ब्रूम इति हि तद्भाष्यम् । सनीळे समानं नीळमेकको(?) निवासस्थानं ययोस्ते । संलग्ने इत्यर्थः । एवंविधे द्यावापृथिव्यौ द्विता द्विधा वि वव्रे । विवृते अकरोत् । भेदेनास्थापयदित्यर्थः । मेने मननीये । परमे उत्कृष्टे व्योमन् विविधरक्षणे नभसि वर्तमानो भगो न सूर्य इव सुदंसाः शोभनकर्मेन्द्रो रोदसी द्यावापृथिव्यावधारयत् । अपोषयत् । यद्वा । मेनेति स्त्रीनाम । तथा च यास्कः । मेना ग्ना इति स्त्रीणां मेना मानयन्त्येना इति । नि. ३-२० [?] । स्त्रीरूपमापन्ने रोदसी इन्द्रोऽपुष्यदित्यर्थः ॥**
+> *yāsyaḥ | tena ṛṣiṇā stavamānebhir guṇaniṣṭhaguṇābhidhānalakṣaṇāṃ stutiṃ kurvadbhir arkair mantraiḥ karaṇabhūtaiḥ stūyamānaḥ san | sanajā | saneti nipāto nityārthaḥ | nityajāte | sarvadā vidyamānasvabhāve ity arthaḥ | prathamabhāvavikāravācinā janinā dvitīyo bhāvavikāraḥ sattā lakṣyate | yathautpattikas tu śabdasyārthena sambandha ity autpattikam iti nityaṃ brūma iti hi tadbhāṣyam | sanīḷe samānaṃ nīḷam ekako(?) nivāsasthānaṃ yayos te | saṃlagne ity arthaḥ | evaṃvidhe dyāvāpṛthivyau dvitā dvidhā vi vavre | vivṛte akarot | bhedenāsthāpayad ity arthaḥ | mene mananīye | parame utkṛṣṭe vyoman vividharakṣaṇe nabhasi vartamāno bhago na sūrya iva sudaṃsāḥ śobhanakarmendro rodasī dyāvāpṛthivyāv adhārayat | apoṣayat | yadvā | meneti strīnāma | tathā ca yāskaḥ | menā gnā iti strīṇāṃ menā mānayanty enā iti | Ni. 3-20 [?] | strīrūpam āpanne rodasī indro 'puṣyad ity arthaḥ ||*
+> *"[…**ayāsya**] being praised by that ṛṣi, with the *arka* mantras as the instrument, by those who sing praise of the kind that names qualities that exist in the one praised, **sanajā** — *sana* is an indeclinable meaning 'always': eternally born, i.e. of a nature that exists at all times. (By the word *jani*, which denotes the first modification of being, the second modification, existence, is indicated; for the Bhāṣya says: 'since the connection of a word with its meaning is *autpattika*, we call it eternal'.) **Sanīḷe**: those two that have a common *nīḷa*, one dwelling-place — i.e. joined. **Dvitā vi vavre**: he laid open heaven and earth, such as they are, in two parts — made them apart, i.e. set them separate. **Mene** (the two lovely ones); **parame vyoman**: in the supreme, the sky that guards in many ways; like **bhaga**, the sun, **sudaṃsāḥ**: Indra of beautiful deeds **adhārayat**, upheld, nourished, heaven and earth. Or: *menā* is a word for 'woman'; so Yāska: '*menā*, *gnā* are names of women: *menā* because men honour (*mānayanti*) her' (Nirukta 3-20, numerals as read, ?); the sense: Indra nourished heaven and earth, which had taken the form of women."* *(The word "एकको" in "नीळमेकको" is doubtful [?]; the Bhāṣya quotation on *autpattika* is given as read.)*
+
+**Grammatical tail** (compressed; characterized). **द्विता** — the *dh* of *dvidhā* becomes *t* by Vedic licence. **सनजा** — root *janī prādurbhāve*; the affix *ḍa* even after *jani* by the all-qualifying word *dṛśi* ("anyeṣv api dṛśyate"); the shortening of the former member is Vedic [?]; the final acute as in words like *sanā* etc., retained by the *bahuvrīhi* accent; the case ending drops by "supāṃ sulug…" leaving *ā*. **आयास्यः** — root *yasu prayatne*; *yāsaḥ* = effort; *yāsya* = "born in it", the affix *yat* by "bhave chandasi" (Pā. [4-4-110, ?]); *na yāsyaḥ = ayāsyaḥ*; the initial acute of the latter member by "parādiś chandasi bahulam"; for the derivation as given in the *śruti* the form is obtained by the *pṛṣodarādi* class. **मेने** — the locative singular lost by "supāṃ sulug…", with the substitute *śe*; "śe" is *pragṛhya* (Pā. 1-1-13 [as read]); or *menā* from *man* ("he thinks") with *pacādyac*; the Vārttika "naśimanyor aliṭy etvaṃ vaktavyam" (Pā. 6-4-120 [?]); the dual "īdūded dvivacanam pragṛhyam" (Pā. 1-1-11, as read) makes it *pragṛhya*. **सुदंसाः** — *daṃsaḥ* is a word for deed, ending with *asun*, initial-acute; in a *bahuvrīhi* the initial acute of a two-syllable latter member by "dvyac chandasi" gives the latter member's initial acute. *Grammar tail, characterized; sūtra numbers only where read; several in this paragraph doubtful [?].*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; continues on p. 37)*
+
+**आयास्यः** — (not to be won by efforts such as fighting) or Aṅgiras, the worshipper of the chief breath in the mouth (by him); **स्तवमानेभिः** — by those who praise (by men who are praising) or praising; **अर्कैः** — by mantras (in the form of praise) (Indra, easily won); **सनजा** — eternal by nature; **सनीळे** — (heaven and earth) that exist in one place; **द्विता** — in two parts; **वि वव्रे** — laid open; **सुदंसाः** — (Indra) of auspicious deeds; **मेने** — lovely, desirable; **परमे** — most excellent; **व्योमन्** — in the sky (that exists) …
+
+---
+
+### Page 37 (PDF 55)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Pratipadārtha (concluded).** … **(सूर्यः) भगः न** — like the sun (who is in the sky) …; **(मेने** — bearing the form of women); **रोदसी** — heaven and earth; **अधारयत्** — he nourished.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Indra cannot be won by efforts such as fighting; he is easily won by those who praise him with mantras in the form of hymns. Or: Indra is easily won by the hymn-mantras of Aṅgiras, the worshipper of the breath. This Indra, like the sun in the lovely and most excellent sky, nourished heaven and earth, eternal and one in place, [which he parted in two], bearing forms like women.
+
+**English Translation** *(the source's own, as printed):*
+
+> He who is not to be attained by violence but easily propitiated by those who praise him with sacred hymns, parted the spheres of heaven and earth, like the Sun in the august and most excellent sky.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada, with the Sanskrit in bold)*
+
+**आयास्यः** — *yasu prayatne | yāsaḥ prayatnaḥ | tatsādhyo yāsyaḥ | na yāsyo 'yāsyaḥ | yuddharūpaiḥ prayatnaiḥ sādhayitum aśakya ity arthaḥ |* — "*Yāsa* means effort; what is accomplished by effort is *yāsya*; what cannot be accomplished by effort is *ayāsya*: that is, to please Indra by efforts such as war is impossible; but he becomes subject easily by hymns — this is the purport. Or: **āyāsya** is the chief breath, *prāṇa*, for it goes out of the mouth; hence it is called *āyāsya*; and the Aṅgirasa ṛṣi, the worshipper of such a *prāṇa*, is by transference called *āyāsya*. On this point there is the Chāndogya passage (**tam hāyāsya udgītham upāsāṃ cakre …**, Chāṃ. Up. 1-2-[13], as read [?]). Or: **ayam āsye mukhe vartate ity āyāsyaḥ** — "this (*ayam*) is in the mouth (*āsya*)" is *āyāsya*: so also the Vājasaneyaka passage (**te hocuḥ kva nu so 'bhūd** …, Śat. Brā. 14-4-1-9, as read [?]). Thus this *prāṇa*, because it is in the mouth, has the name *āyāsya*; on this the Śatapatha Brāhmaṇa text exists. The Aṅgiras who is the worshipper of such a *prāṇa*…" *(continues on p. 38).*
+
+---
+
+**Progress note:** Printed pp. 1–37 done (PDF 19–55): Rik 62.1–62.6 complete; Rik 62.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics on *āyāsya* (p. 37). Next: p. 38 (PDF 56), the Special Topics continue ("…such a prāṇa-worshipper Aṅgiras …"). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana numerals [?]; sūtra numbers on grammar pages tentative; "नीळमेकको", "ऽस्य-/यास्यः" junction and "आस्यान्मुखादयते" in 62.7 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user (this session) asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
