@@ -1884,4 +1884,55 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–88 done (PDF 19–106): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.7 complete; Rik 63.8 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 88, breaking off at *tmanam*). Next: p. 89 (PDF 107), the bhāṣya of Rik 63.8 continues, then Pratipadārtha, Bhāvārtha, English, Special Topics, grammar; then Rik 63.9. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 89 (PDF 107)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Bhāṣya (concluded).**
+
+> **का. ६-४-१४१-१ [?] इत्यात्मन आकारलोपः । संज्ञापूर्वकस्य विधेरनित्यत्वादुपधादीर्घाभावः । विश्वध । विश्वशब्दात्तसिलः सकारलोपो धत्वं च पृषोदरादित्वात् । क्षरध्यै । क्षर सञ्चलने । तुमर्थे सेसेनित्यध्यैप्रत्ययः [?] । नित्त्वाद्युदात्तत्वम् ॥**
+> *kā. 6-4-141-1 [?] ity ātmana ākāralopaḥ | saṃjñāpūrvakasya vidher anityatvād upadhādīrghābhāvaḥ | viśvadha | viśvaśabdāt tasilaḥ sakāralopo dhatvaṃ ca pṛṣodarāditvāt | kṣaradhyai | kṣara sañcalane | tumarthe sesen ity adhyaipratyayaḥ [?] | nittvād ādyudāttatvam ||*
+> *"…(Kāśikā on 6-4-141, as read, ?) the loss of the *ā* of *ātman*; because a rule that is preceded by a technical name is not constant, the lengthening of the penultimate does not come. **Viśvadha**: after the word *viśva*, the affix *tasil*, the loss of its *s* and *dh* for *t* by the *pṛṣodarādi* licence. **Kṣaradhyai**: root *kṣara sañcalane*; in the sense of the infinitive, the affix *adhyai* [as read, ?]; since *n*-marked, initial acute."*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**शूर** — O hero, Indra; **यया** — by which food; **त्मनम्** — [our] self (our life); **अस्मभ्यम्** — to us; **विश्वधा** — from all sides; **क्षरध्यै** — to flow; **ऊर्जं न** — as water; **प्रति यंसि** — you give; **त्याम्** — such; **चित्राम्** — varied; **इषम्** — food; **देव** — shining; **इन्द्र** — O Indra; **त्वम्** — you; **नः** — to us; **परिज्मन्** — in the pervaded earth; **पीपयः** — you made grow.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O hero and shining Indra! As you give us water and make us sustain life, and by giving the food by which we sustain life, and as rain-water spreads over the whole earth, in the same way make food of many kinds grow on the earth.
+
+**English Translation** *(the source's own, as printed):*
+
+> O divine Indra, increase, for us throughout the earth, abundant food (that it may be as plentiful) as water, by which, O hero, you bestow upon us (existence) as yon [sic: "yon"] cause water to flow on every side.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **चित्राम्** (*citrām*) — *cāyanīyām* — "worthy of being gathered, stored. Skandasvāmin explains: *pūjanīyāṃ vicitrāṃ vā* — 'worthy of worship, or varied'. From this the purport is: 'praiseworthy', or 'of many kinds'."
+- **इषम्** (*iṣam*) — *annam* — "Sāyaṇa says it is 'food'. *Anna* means water: the word *anna* is read among the hundred and one names of water (Ni. [1-12?, ?]); and the word *iṣa* is read among the twenty-eight names of *anna* (Ni. [2-7?, ?]). Skandasvāmin explains the word *iṣa* as 'food in the form of Soma': *somalakṣaṇam annam*."
+
+---
+
+### Page 90 (PDF 108)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **आपो न पीपयः** — *yathā vṛṣṭyudakāni bhūmyāṃ pravardhayasi, yadvā bhūmau vartamānāsmān yathā āpaḥ pāyayasi* — "As you cause the rain-water to increase on the earth: this is one meaning; as you make us who live on the earth drink water: this is another. Here the word *na* is used in the sense of *iva*, which marks a comparison. The root *opyāyī*, of the sense of growth, is also used in the causal sense: 'you make the water increase of itself'."
+- **त्मनम्** (*tmanam*) — *ātmānaṃ jīvam* — "the *jīva* who, with a sense of ego, abides in this body — the one who is the seat of 'I-ness'."
+- **विश्वध** (*viśvadha*) — *viśvataḥ sarvataḥ* — "in all places, in all ways."
+- **ऊर्जं न** (*ūrjaṃ na*) — *udakam iva* — "as water: as you cause streams of water to increase and then graciously give them to us. Here *na* is read in the Nirukta as a word of comparison (Ni. [1-4, ?])."
+- **परिज्मन्** (*parijman*) — *paritaḥ vyāptāyāṃ bhūmau* — "on the earth that is pervaded all around."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.8 (noted briefly).** **आपः**: the word *āp*; where *śas* would come, by "vyatyayo bahulam" *jas* comes; with *āp + jas*, because *jas* has the *sarvanāmasthāna* designation, the lengthening of the penultimate by "āpo 'ptṛntṛc…" [as read; Pā. Sū. 6-4-11]; the *ru*/*visarga* of the *s* of *jas*: *āpaḥ*. **पीपयः**: root *spāyī opyāyī vṛddhau*; in the sense of a prayer, the *luṅ* by "chandasi luṅlaṅliṭaḥ"; since the action of an instigator is intended, the *ṇic* for the root; by exchange, the *pī* substitution for *pyāya* prescribed when a *niṣṭhā* follows, by "pyāyaḥ pīḥ" (Pā. Sū. 6-1-28, as read) arises in the *luṅ* also; with *pī + i + luṅ*, the *caṅ* in place of *cli* by "ṇiśridrusrubhyaḥ kartari caṅ" (Pā. Sū. 3-1-48); because an *ārdhadhātuka* beginning without *iṭ* follows, the loss of *ṇi* by "ṇer aniṭi" (Pā. Sū. 6-4-51); the doubling of the root by "caṅi" (Pā. Sū. 6-1-11); in the reduplicative syllable, shortening by "hrasvaḥ"; on account of *ṇic*, *vṛddhi* and *āy* for the *ī* of the root; by "ṇau caṅy upadhāyā hrasvaḥ" (Pā. Sū. 7-4-1) shortening of the penultimate; by "sanvallaghuni caṅ pare 'nagloope" (Pā. Sū. 7-4-93), because of the *sanvadbhāva*, "dīrgho laghoḥ" (Pā. Sū. 7-4-94) lengthens the reduplicative syllable *(continues on p. 91)*.
+
+---
+
+### Page 91 (PDF 109)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.8, concluded (noted briefly).** **पीपयः** *(concluded)*: …the lengthening comes; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* does not come: the form *pīpayaḥ*. Or from *pīñ pāne*; as before, *ṇic*; after the *ṇic*-ending stem, *luṅ*; *caṅ* and the rest as before, the form arises; the *nighāta* accent, since it follows a non-verbal word. **परिज्मन्**: either the root *jama* [*jam*], which denotes motion, or the root *aja gatikṣepaṇayoḥ*; with *pari* before them, by "śvan-yuvan-maghavan…" [as read: "śvann-yukṣan-pūṣan", Uṇ. Sū. 1-[158], doubtful, ?] the affix *kanin*, the form being given by *nipātana*; through the *nipātana* itself the alteration of letters is established; in the locative the ending is dropped by "supāṃ sulug…"; since it ends in an *n*-marked affix, the initial acute. **यंसि**: root *yama uparame*; *laṭ*, second person singular, *sip*; the *luk* of *śap* by "bahulaṃ chandasi"; by "naś cāpadāntasya jhali" (Pā. Sū. 8-3-24, as read) the *m* becomes *anusvāra*; since *sip* is *p*-marked and so unaccented, by the final acute of the root the word has the initial acute; since *yayā* precedes, no *nighāta*. **त्मनम्**: by "ājo 'nyatrāpi chandasi dṛśyate" (Kāśikā on 6-4-141, as read) the loss of *ā* of the word *ātman*; since a rule preceded by a technical name is not constant, the lengthening of the penultimate by "sarvanāmasthāne cāsambuddhau" does not come. **विश्वध**: by "pañcamyās tasil" (Pā. Sū. 5-3-7, as read) the affix *tasil* after the word *viśva*; the loss of its *s* and *dh* for *t* are established by "pṛṣodarādīni yathopadiṣṭam". **क्षरध्यै**: root *kṣara sañcalane*; where *tumun* would come, in the infinitive sense, the affix *adhyai* [as read] by "tumarthe sesenasase…" (Pā. Sū. 3-4-9, as read); the form *kṣaradhyai*; since *n*-marked, by "ñnityādir nityam" the initial acute. **॥ ८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.8 ends here (ornamental rule).*
+
+---
+
+**Progress note:** Printed pp. 1–91 done (PDF 19–109): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.8 complete. Next: p. 92 (PDF 110), Rik 63.9 (the last Rik of Sūkta 63). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
