@@ -194,6 +194,44 @@
 
 *(The sūtras are named in the print without numbers except Pā. 6-4-107 and Pā. 3-1-11, which are printed; those two numbers are read from the Kannada numerals and carry some doubt.)*
 
+### Pages 7–8 (PDF 25–26) — Vyākaraṇa-prakriyā of Rik 62.1 concluded (Kannada)
+
+*Grammar pages, noted briefly.* Page 7 and the upper part of p. 8 (the running header of p. 8 is "Sāyaṇabhāṣyasahitā · Maṇḍala 1 · Anuvāka 11 · Sūkta 62") finish the derivations of the words of Rik 62.1:
+- ***śūṣam*** — root *śūṣa prasave*; the affix *ac* because the root belongs to the *pacādi* class, by "**नन्दिग्रहपचादिभ्यो ल्युणिन्यचः**" (*nandigrahapacādibhyo lyuṇinyacaḥ*, Pā. 3-1-134, printed with small numerals, read as such [?]); no *guṇa* since there is no light penultimate; the accent on the end by the *cit* rule.
+- ***āṅgūṣam*** — *āṅ* + the root *ghuṣir viśabdane*; *ac* by the same rule; *guṇa* by "*pugantalaghūpadhasya ca*"; since the word belongs to the *pṛṣodarādi* class, *gho* of *ghoṣa* becomes *gū* ("*pṛṣodarādīni yathopadiṣṭam*"); the *i*-marker of *āṅ*'s *ṅ* is excluded by "*halantyam*" (Pā. 1-3-3 as read); the compound with *āṅ* keeps the accent of the second member by "*gatikārakopapadāt kṛt*".
+- ***girvaṇase*** — root *gṝ śabde*; *kvip* by "*saṃpadādibhyaḥ kvip*" (a vārttika); *ṛ* becomes *ir* by "*ṛta iddhātoḥ*" (Pā. 7-1-100) and "*uraṇ raparaḥ*", giving *gir*; then *vana saṃbhaktau*, with *asun* after it, giving *girvaṇas*; the lengthening of the *i* of a word ending in *r* (Pā. 8-2-77 *halicā* [?]) does not occur here by the maxim (*asiddha*) of the *saṃjñāpūrvaka* rule; the first member keeps its own accent by "*gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca*" (an Uṇādi-vārttika, as read).
+- ***aṅgirasvat*** — *aṅgirasaḥ iva*, with the affix *vati* by "*tena tulyaṃ kriyā ced vatiḥ*" (Pā. 5-1-115, as read [?]); by the vārttika "*nabho 'ṅgiro manuṣāṃ vatyupasaṃkhyānam*" the *bha*-designation is stated, so the *ru* change of the final *s* does not take place; *aṅgirasvat* results; the accent is on the syllable after the *va*.
+- ***suvṛktibhiḥ*** — root *vṛjī varjane*, the affix *ktin* by *bhāve*; the negation of *iṭ* by "*titutratatha-…*" (Pā. 7-2-9 as read [?]); *c* of the root becomes *k* by *coḥ kuḥ*; no *laghūpadha guṇa* since the affix is *kit*; *vṛkti*. The compound *śobhanā vṛktir yeṣām te suvṛktayaḥ* is a bahuvrīhi with the *ṇasubhyām* accent on the last member (Pā. 6-2-… as read [?]); the objection about *ktin* with the accent rules "*jñitīty ādir nityam*" and "*ādyudāttaṃ dvyac chandasi*" and the answer by the rule about the first member's *prakṛti*-accent; "*māṅktin vyā-*" (the rule where *ktin* in the place of the *kāraka*… is said to be last-acute, with the ruling "*vyatyayo bahulam*") — all noted as arguments, not reproduced.
+- ***stuvate*** — root *ṣṭuñ stutau*; the participial affix *śatṛ* (in the sense of the present); the *u* gets *uvaṅ* by "*aci śnudhātubhruvāṃ…*"; the *śatṛ* ending takes the dative singular, with the acute on the case-ending by "*śatur anumo nadyajādī*" (Pā. 6-1-173 as read [?]).
+- ***ṛgmiyāya*** — "*ekāco nityaṃ mayaṭam icchanti*" (*Kā.* 4-3-… as read [?]): the affix *mayaṭ* after the monosyllabic *ṛc* in the sense of "of that sort"; *ṛc* + *maya*: the pada-designation from "*svādiṣv asarvanāmasthāne*" (Pā. 1-4-17 as read [?]); *c* → *k* by *coḥ kuḥ*; *jaśtva* by "*jhalāṃ jaśo 'nte*"; the substitute *i* for *a* of *mayaṭ* by *vyatyaya*; *ṛgmiya*; the dative; alternatively, from *ṛca stutau* with the affix *mak* by "*uṇādayo bahulam*", *ṛgmaṃ stutim arhatīti ṛgmiyaḥ* with *ghac* in the sense of "deserving", with the substitute *iya* by *āyaneyī…*; the accent on the end by *cit*.
+- ***arcāma*** — root *arca pūjāyām* (*bhvādi*); the imperative (*loṭ*) form in the sense of an optative, by "*loṭo laṅvat*" (the extension of *laṅ* to *loṭ*); the *s* of *mas* of *loṭ* is lost by "*nityaṃ ṅitaḥ*" (Pā. 3-4-99 as read [?]); *śap*; the augment *ām* for the ending; *arcāma*; *śap* being *pit*, "*anudāttau supitau*" makes the ending unaccented; and since the root has the *āt-* *upadeśa*, the *lasārvadhātuka* is unaccented by "*tāsy-anudāttenṅid-…*", so the end-accent of the root remains.
+
+*(All the sūtras on these pages are cited by small Kannada numerals; only those I could read are given, with [?]; none has been supplied from memory.)*
+
+### Page 9 (PDF 27)  — Vyākaraṇa-prakriyā of Rik 62.1 concluded; Rik 62.2: Saṃhitā and Pada
+
+*Grammar, noted briefly (upper part of the page):* ***arkam*** — the affix *gha* after *arc* in the sense of a name, by "**पुंसि संज्ञायां घः प्रायेण**" (*puṃsi saṃjñāyāṃ ghaḥ prāyeṇa*, Pā. 3-3-118, as read [?]); the *a* remains; by "**चजोः कुः घिण्ण्यतोः**" (*cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. 7-3-52, as read [?]) the final *c* of the root becomes *k* since the *gha* affix follows, giving *arka*; the accusative singular. ***nare*** — *nṛ* + the dative ending *e*; the *guṇa* is Vedic, and with *raparatva* it becomes *nare*. ***viśrutāya*** — root *śru śravaṇe*, the affix *kta* in the sense of the object; no *guṇa* since the affix is *kit*; with the prefix *vi* the compound has the prefix's own accent, by "**गतिरनन्तरः**" (*gatir anantaraḥ*, Pā. 6-2-49, as read [?]). *(End of Rik 62.1 grammar.)*
+
+### Rik 62.2 (pp. 9–?)
+
+**Saṃhitā-pāṭha** *(p. 9; accents are printed in the source and are not reproduced here)*
+
+> **प्र वो महे महि नमो भरध्वमाङ्गूष्यं शवसानाय साम ।**
+> **येना नः पूर्वे पितरः पदज्ञा अर्चन्तो अङ्गिरसो गा अविन्दन् ॥ २ ॥**
+
+*pra vo mahe mahi namo bharadhvam āṅgūṣyaṃ śavasānāya sāma |*
+*yenā naḥ pūrve pitaraḥ padajñā arcanto aṅgiraso gā avindan || 2 ||*
+
+**Pada-pāṭha** *(p. 9)*
+
+> प्र । वः । महे । महि । नमः । भरध्वम् । आङ्गूष्यम् । शवसानाय । साम ॥
+> येना । नः । पूर्वे । पितरः । पदऽज्ञाः । अर्चन्तः । अङ्गिरसः । गाः । अविन्दन् ॥ २ ॥
+
+*pra | vaḥ | mahe | mahi | namaḥ | bharadhvam | āṅgūṣyam | śavasānāya | sāma ||*
+*yenā | naḥ | pūrve | pitaraḥ | pada-jñāḥ | arcantaḥ | aṅgirasaḥ | gāḥ | avindan || 2 ||*
+
+*(The Pada-pāṭha is printed under the Saṃhitā on the same page. The second half is read from the lower half of the print, which is clear; the word-division "pada-jñāḥ" is as printed.)*
+
 ---
 
-**Progress note:** Printed pp. 1–6 done (PDF 19–24): Rik 62.1 — Saṃhitā, Pada, bhāṣya main sense, Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the first page of the Vyākaraṇa-prakriyā (noted briefly). Next: p. 7 (PDF 25), the rest of the Vyākaraṇa-prakriyā of Rik 62.1 and Rik 62.2. Open flags: Nirukta numbers on p. 5 [?]; the cross-reference to earlier volumes (Part 3 pp. 520–522, Part 4 p. 552) [?]; "yaśasvitayā" on p. 3 [?].
+**Progress note:** Printed pp. 1–9 done (PDF 19–27): Rik 62.1 complete; Rik 62.2 Saṃhitā and Pada given (p. 9). Next: p. 10 (PDF 28), Sāyaṇa's bhāṣya of Rik 62.2. Open flags: Nirukta numbers on p. 5 [?]; cross-reference to earlier volumes on p. 5 [?]; many sūtra numbers on pp. 7–9 marked [?] as read; Saṃhitā accents not reproduced.
