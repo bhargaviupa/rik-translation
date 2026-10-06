@@ -2189,4 +2189,71 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–103 done (PDF 19–121): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Rik 64.1 complete; Rik 64.2 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, and the grammar page begun (p. 103, ending at *ṛṣvāsaḥ*). Next: p. 104 (PDF 122), the grammar page of Rik 64.2 continues; then Rik 64.3. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 104 (PDF 122)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.2, concluded (noted briefly).** **ऋष्वासः** *(concluded)*: with *ṛṣva + jas*, by "āj jaser asuk" (Pā. Sū. 7-1-50, as read) the augment *asuk* for *jas*; the *s* of *asas* gets *ru*/*visarga*: *ṛṣvāsaḥ*. **उक्षणः**: the word *ukṣan* is established by "śvanyuvamaghonām…" [as read: "śvann-ukṣann…", Uṇ. Sū. 1-[158], doubtful, ?] by *nipātana*, ending in the affix *kanin*; in the nominative plural, where the lengthening would come by "sarvanāmasthāne cāsambuddhau", it does not come, by "vā ṣapūrvasya nigame" (Pā. Sū. 6-4-9, as read). **अरेपसः**: "those of whom there is no *repa* (sin)" — a *bahuvrīhi*; by "nañsubhyām" (Pā. Sū. 6-2-172, as read) the latter member has its final acute; nominative plural form. **पावकासः**: *pāvaka + jas*; by "āj jaser asuk" (Pā. Sū. 7-1-50, as read) the augment *asuk*; with *ru*/*visarga*: *pāvakāsaḥ*. **सत्वानः**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; the affix *kvanip* enjoined by "pra īrasadyo 'stuṭ ca" [as read] (Uṇ. Sū. 4-[113], doubtful, ?) occurs even after the bare root by "unādayo bahulam", the plural-form "bahulam" [licence]; by "dhātvādeḥ ṣaḥ saḥ" the initial *s* in place of *ṣ*; the word *satvan*; in the nominative plural, by "sarvanāmasthāne cāsambuddhau" the lengthening of the *n*-ending stem's penultimate; the form *satvānaḥ*; since the *vanip* is *p*-marked it is unaccented by "ānudāttau suppitau"; the root accent stays by "dhātoḥ"; *satvānaḥ* is a word with the initial acute. **घोरवर्पसः**: "*ghoraṃ varpaḥ eṣām te ghoravarpasaḥ*", a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member is kept. **॥ २ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.2 ends here (ornamental rule).*
+
+#### Rik 64.3
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; the second half is on p. 105)*
+
+> **युवानो रुद्रा अजरा अभोग्घ्नो ववक्षुरध्रिगावः पर्वता इव ।**
+> *yuvāno rudrā ajarā abhogghno vavakṣur adhrigāvaḥ parvatā iva |*
+
+---
+
+### Page 105 (PDF 123)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 64.3 (concluded)**
+
+> **दृळ्हा चिद्विश्वा भुवनानि पार्थिवा प्र च्यावयन्ति दिव्यानि मज्मना ॥ ३ ॥**
+> *dṛḷhā cid viśvā bhuvanāni pārthivā pra cyāvayanti divyāni majmanā || 3 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **युवानः । रुद्राः । अजराः । अभोक्ऽहनः । ववक्षुः । अध्रिऽगावः । पर्वताःऽइव ।**
+> **दृळ्हा । चित् । विश्वा । भुवनानि । पार्थिवा । प्र । च्यावयन्ति । दिव्यानि । मज्मना ॥ ३ ॥**
+> *yuvānaḥ | rudrāḥ | ajarāḥ | abhok-hanaḥ | vavakṣuḥ | adhri-gāvaḥ | parvatāḥ-iva |*
+> *dṛḷhā | cit | viśvā | bhuvanāni | pārthivā | pra | cyāvayanti | divyāni | majmanā || 3 ||*
+
+*(The Pada's "abhok-hanaḥ" is read as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **युवानस्तरुणा रुद्रा रुद्रपुत्रा अजरा जरारहिता अभोग्घ्नो ये देवान्न हविर्भिर्भोजयन्ति तेषां हन्तारः अध्रिगावोऽधृतगमनाः परैरनिवारितगतयः पर्वता इव दृढाङ्गाः एवंभूता मरुतो ववक्षुः । स्तोतॄणामभिमतं प्रापयितुमिच्छन्ति । अपि च विश्वा सर्वाणि भुवनानि सद्भावं प्राप्तानि पार्थिवा पृथिव्यां भवानि दिव्यानि दिवि भवानि च वसूनि दृळ्हा चित् दृढान्यपि मज्मना । मज्मनेति बलनाम । मज्मना शोधकेन बलेन प्रच्यावयन्ति । प्रचालयन्ति ॥ अभोग्घ्नः । भोजयन्तीति भोजाः । न भोजोऽभोजाः । तेषां हन्तारः । बहुलं छन्दसीति हन्तेः क्विप् । झियो हो ऽन्यतरस्याम् [?] । पा. ८-४-६२ [?] । इति हकारस्य घत्वम् । इन्नन्नूषार्यम्णां शौ । पा. ६-४-९२ [?] । इति नियमाद्दीर्घाभावः । ववक्षुः । वह प्रापणे । अस्मादिच्छासनि [?] एकाचेत इतीट्प्रतिषेधः । द्विर्भावः । ढत्वकत्वषत्वानि । सन्यत इत्त्वाभावश्छान्दसः । लिट्युसि [?] । अमन्त्रे [?] । पा. ३-१-३६ [?] । इति निषेधादामप्रत्ययाभावे ऽतो लोप इत्याकारलोपः । प्रत्ययस्वरः । पादादित्वान्निघाताभावः ॥**
+> *yuvānas taruṇā rudrā rudraputrā ajarā jarārahitā abhogghno ye devān na havirbhir bhojayanti teṣāṃ hantāraḥ adhrigāvo 'dhṛtagamanāḥ parair anivāritagatayaḥ parvatā iva dṛḍhāṅgāḥ evaṃbhūtā maruto vavakṣuḥ | stotṝṇām abhimataṃ prāpayitum icchanti | api ca viśvā sarvāṇi bhuvanāni sadbhāvaṃ prāptāni pārthivā pṛthivyāṃ bhavāni divyāni divi bhavāni ca vasūni dṛḷhā cit dṛḍhāny api majmanā | majmaneti balanāma | majmanā śodhakena balena pracyāvayanti | pracālayanti || abhogghnaḥ | bhojayantīti bhojāḥ | na bhojo 'bhojāḥ | teṣāṃ hantāraḥ | bahulaṃ chandasīti hanteḥ kvip | jhiyo ho 'nyatarasyām [?] | Pā. 8-4-62 [?] | iti hakārasya ghatvam | innannūṣāryamṇāṃ śau | Pā. 6-4-92 [?] | iti niyamād dīrghābhāvaḥ | vavakṣuḥ | vaha prāpaṇe | asmād icchāsani [?] ekāceta itīṭpratiṣedhaḥ | dvirbhāvaḥ | ḍhatvakatvaṣatvāni | sanyata ittvābhāvaś chāndasaḥ | liṭy usi [?] | amantre [?] | Pā. 3-1-36 [?] | iti niṣedhād āmapratyayābhāve 'to lopa ity ākāralopaḥ | pratyayasvaraḥ | pādāditvān nighātābhāvaḥ ||*
+> *"The **yuvānaḥ**, youthful, **rudrāḥ**, sons of Rudra, **ajarāḥ**, free from age, **abhogghnaḥ** — those who kill [those] who do not feed the gods with oblations — **adhrigāvaḥ**, of unrestrained movement (their motion not stopped by others), **parvatā iva**, like mountains, firm-limbed: the Maruts such as these **vavakṣuḥ**, wish to bring about what the singers desire. And further: **viśvā**, all **bhuvanāni**, beings that have come into existence, **pārthivā**, those on the earth, and **divyāni**, those in the atmosphere, even though **dṛḷhā cit**, firm, **majmanā** — *majman* is a word for 'strength' — by the cleansing strength they dislodge, set in motion. **Abhogghnaḥ**: 'those who feed' are *bhojāḥ*; 'those who are not *bhoja*' are *abhojāḥ*; their slayers; *kvip* after *han* by 'bahulaṃ chandasi'; *gh* for the *h* [by 'jhiyo ho…', as read, ?, Pā. 8-4-62, as read]; by the restriction 'innannūṣāryamṇāṃ śau' [as read, Pā. 6-4-92?], no lengthening. **Vavakṣuḥ**: root *vaha prāpaṇe*; the prohibition of *iṭ* [by 'ekāceta'] … the doubling; *ḍh*, *k*, *ṣ*; the absence of *i* for the Vedic *sanya*…; … the loss of *ā* [of the *ām* affix]; the affix accent; since at the beginning of the *pāda*, no *nighāta*."* *(The grammar tail is dense and corrupt in the print; given as read, with every doubtful sūtra marked [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 106)*
+
+**युवानः** — youthful; **रुद्राः** — sons of Rudra; **अजराः** — free of old age; **अभोग्घ्नः** — those who slay the ones who do not give oblations to the gods; **अध्रिगावः** — of unhindered *(continues on p. 106)*…
+
+---
+
+### Page 106 (PDF 124)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Pratipadārtha (concluded).** … of unhindered movement; **पर्वता इव** — like mountains, of firm limbs (the Marut deities); **ववक्षुः** — they desire to grant (the wishes of the praisers); **(अपि च)** — and; **विश्वा** — all; **पार्थिवा** — those on the earth; **दिव्यानि** — in the atmosphere (in heaven); **भुवनानि** — such (things, objects); **दृळ्हा चित्** — though firm; **मज्मना** — by strength; **प्र च्यावयन्ति** — they shake (cause to move).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The Marut deities are youthful, sons of Rudra, free from old age, of unhindered motion, firm-limbed like the mountains, or immovable; they slay those who do not worship the deities. They are intent on fulfilling the wishes of the praisers. Whether on the earth or in heaven, however firm the things that exist may be, they make them move.
+
+**English Translation** *(the source's own, as printed):*
+
+> Youthful Rudras, and undecaying, destructive of those who do not worship (the gods), of unobstructed progress, and immovable as mountains, they are desirous of granting (the wishes of the worshipper) and by their strength agitate all substances, whether of heaven or of earth.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **रुद्राः** (*rudrāḥ*) — *rudraputrāḥ* — "sons of Rudra. The proof, in the matter of the Marut deities being sons of Rudra, is stated in the Ṛk before this."
+- **अभोग्घ्नः** (*abhogghnaḥ*) — *ye devān havirbhir na bhojayanti teṣāṃ hantāraḥ* — "destroyers of those who do not satisfy the deities with oblations."
+- **अध्रिगावः** (*adhrigāvaḥ*) — *adhṛtagamanāḥ parair anivāritagatayaḥ* — "those whose power cannot be stopped by others. When the Marut deities move, no one can stop them."
+- **दृळ्हाः पर्वता इव** — *dṛḍhāṅgāḥ* — "those who have a body of strong limbs, strong like hills."
+- **मज्मना प्र च्यावयन्ति** — *majmanā śodhakena balena | majmeti balanāma | pracālayanti* — "the Marut deities cause the objects that arise on the earth and in the heavens *(continues on p. 107)*…"
+
+---
+
+**Progress note:** Printed pp. 1–106 done (PDF 19–124): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.2 complete; Rik 64.3 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 106, ending at *majmanā pra cyāvayanti*). Next: p. 107 (PDF 125), the Special Topics of Rik 64.3 conclude; then the grammar page; then Rik 64.4. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
