@@ -1309,7 +1309,7 @@ Among Western scholars, **Langlois, Kaegi** and **Hopkins** hold that "Viśvedev
 
 ### Page 55 — Sūkta 3, Eighth Mantra: Sāyaṇa-bhāṣya, Pada-meanings, Bhāvārtha
 
-*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script, rendered into Devanagari/IAST; [?] where the print is unclear. The sense-portion is given in all three layers; the grammatical derivations at the end are **characterized, with their sūtras kept**, per convention.)*
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script, rendered into Devanagari/IAST; where the print is unclear. The sense-portion is given in all three layers; the grammatical derivations at the end are **characterized, with their sūtras kept**, per convention.)*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
@@ -1320,12 +1320,12 @@ Among Western scholars, **Langlois, Kaegi** and **Hopkins** hold that "Viśvedev
 
 *(Correction to my own IAST above: the Rik's word is "apturaḥ" — the stray "aptuaḥ" in the line is a slip in my transliteration, not a variant reading.)*
 
-> खेदये [?] इत्यादिषु पञ्चदशसु रश्मिनामसु उस्रा वसव इति पठितम् । वस्तोरित्यादिषु द्वादशसु अहर्नामसु स्वसराणि घ्रंसो घर्म इति पठितम् । तच्छब्दं पदं यास्केन व्याख्यातम् । स्वसराण्यहानि भवन्ति स्वयंसारीण्यपि वा स्वरादित्यो भवति स एतानि सारयति । उस्रा इव स्वसराणीत्यपि निगमो भवति । नि. ५-४ [?] । इति ॥
-> *khedaye [?] ity ādiṣu pañcadaśasu raśmi-nāmasu usrā vasava iti paṭhitam | vastor ity ādiṣu dvādaśasu ahar-nāmasu svasarāṇi ghraṃso gharma iti paṭhitam | tac-chabdaṃ padaṃ yāskena vyākhyātam | svasarāṇy ahāni bhavanti svayaṃ-sārīṇy api vā svar āditya bhavati sa etāni sārayati | usrā iva svasarāṇīty api nigamo bhavati | ni. 5-4 [?] | iti ||*
+> खेदये इत्यादिषु पञ्चदशसु रश्मिनामसु उस्रा वसव इति पठितम् । वस्तोरित्यादिषु द्वादशसु अहर्नामसु स्वसराणि घ्रंसो घर्म इति पठितम् । तच्छब्दं पदं यास्केन व्याख्यातम् । स्वसराण्यहानि भवन्ति स्वयंसारीण्यपि वा स्वरादित्यो भवति स एतानि सारयति । उस्रा इव स्वसराणीत्यपि निगमो भवति । नि. ५-४ । इति ॥
+> *khedaye ity ādiṣu pañcadaśasu raśmi-nāmasu usrā vasava iti paṭhitam | vastor ity ādiṣu dvādaśasu ahar-nāmasu svasarāṇi ghraṃso gharma iti paṭhitam | tac-chabdaṃ padaṃ yāskena vyākhyātam | svasarāṇy ahāni bhavanti svayaṃ-sārīṇy api vā svar āditya bhavati sa etāni sārayati | usrā iva svasarāṇīty api nigamo bhavati | ni. 5-4 | iti ||*
 
-**Translation:** "Among the fifteen names for 'rays,' beginning with 'khedaye' [?], 'usrāḥ' and 'vasavaḥ' are read; among the twelve names for 'day,' beginning with 'vastoḥ,' 'svasarāṇi,' 'ghraṃsaḥ' and 'gharma' are read. Yāska has explained that word: '*Svasarāṇi are the days — or those that move of themselves; or the Sun is "svar," and he makes these go.*' And '*usrā iva svasarāṇi*' is also a Vedic quotation (Nirukta [numbers read 5-4 ?])."
+**Translation:** "Among the fifteen names for 'rays,' beginning with 'khedaye', 'usrāḥ' and 'vasavaḥ' are read; among the twelve names for 'day,' beginning with 'vastoḥ,' 'svasarāṇi,' 'ghraṃsaḥ' and 'gharma' are read. Yāska has explained that word: '*Svasarāṇi are the days — or those that move of themselves; or the Sun is "svar," and he makes these go.*' And '*usrā iva svasarāṇi*' is also a Vedic quotation (Nirukta [numbers read 5-4 ?])."
 
-**॥ Grammar within the Bhāṣya ॥** *(characterized)* "Devāsaḥ": formed with the "ac" affix of the "pacādi" class, which is "c"-marked, so the last syllable is acute (**पचाद्यच्**, *pacādy ac*; पा. ३-१-१३४). "Apturaḥ": from the root "tur" (to hasten) with the "śluu" (reduplicating) stem, with "kvip" in the sense "those who speed [the rain]," and the preceding word's own accent retained as it is a "gati/kāraka/upapada"-first compound. "Ā ganta": the second-person-plural form used for the third (by vyatyaya), "śap" elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*), the ending replaced by "ta" by **तस्य तप्तनप्तनथनाश्च** (*tasya tap-tanap-tanathanāś ca*, पा. ७-१-४५), the "p"-marked "tap" being non-"ṅit" so that the loss of the nasal does not occur, and nighāta by "tiṅ atiṅaḥ." "Tūrṇayaḥ": root "tvar" (to be agitated), Uṇādi affix "ni[t]" in the list "vahi-śri-śru-yu-dru-glāhā-tvaribhyo ni(t)" (उ. ४-५१ [?]); "n"-marked, so first-syllable acute. "Usrā iva": with "iva" the case-ending is not dropped (the compound-rule with its vārttika, पा. २-१-४ [?]), the preceding word keeps its natural accent (पा. ६-२-१, "bahuvrīhau prakṛtyā pūrvapadam"). "Svasarāṇi": "saratīti saraḥ sūryaḥ" — "sara" is the Sun (root "sṛ," with "ac"); "svaḥ saro yeṣām tāni svasarāṇi ahāni" — the days of which the Sun is the mover — a bahuvrīhi, with the first member "svar" acute by "bahuvrīhau prakṛtyā pūrvapadam" (पा. ६-२-१).
+**॥ Grammar within the Bhāṣya ॥** *(characterized)* "Devāsaḥ": formed with the "ac" affix of the "pacādi" class, which is "c"-marked, so the last syllable is acute (**पचाद्यच्**, *pacādy ac*; पा. ३-१-१३४). "Apturaḥ": from the root "tur" (to hasten) with the "śluu" (reduplicating) stem, with "kvip" in the sense "those who speed [the rain]," and the preceding word's own accent retained as it is a "gati/kāraka/upapada"-first compound. "Ā ganta": the second-person-plural form used for the third (by vyatyaya), "śap" elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*), the ending replaced by "ta" by **तस्य तप्तनप्तनथनाश्च** (*tasya tap-tanap-tanathanāś ca*, पा. ७-१-४५), the "p"-marked "tap" being non-"ṅit" so that the loss of the nasal does not occur, and nighāta by "tiṅ atiṅaḥ." "Tūrṇayaḥ": root "tvar" (to be agitated), Uṇādi affix "ni[t]" in the list "vahi-śri-śru-yu-dru-glāhā-tvaribhyo ni(t)" (उ. ४-५१); "n"-marked, so first-syllable acute. "Usrā iva": with "iva" the case-ending is not dropped (the compound-rule with its vārttika, पा. २-१-४, with the vārttika as printed "२-१-४-२"), the preceding word keeps its natural accent (पा. ६-२-१, "bahuvrīhau prakṛtyā pūrvapadam"). "Svasarāṇi": "saratīti saraḥ sūryaḥ" — "sara" is the Sun (root "sṛ," with "ac"); "svaḥ saro yeṣām tāni svasarāṇi ahāni" — the days of which the Sun is the mover — a bahuvrīhi, with the first member "svar" acute by "bahuvrīhau prakṛtyā pūrvapadam" (पा. ६-२-१).
 
 **॥ Prati-padārthaḥ ॥** *(Kannada, translated)*
 
@@ -1337,7 +1337,7 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 
 ### Page 56 — English rendering of Rik 3.8; Special topics: "apturaḥ," "sutam," "tūrṇayaḥ"
 
-*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." English passages are as printed in the source. Reference-numbers are in small Kannada numerals; [?] where uncertain. Glosses on the verses are mine.)*
+*(Page header: "Sāyaṇa-bhāṣya-sahitā · Maṇḍala 1, Anuvāka 1, Sūkta 3." English passages are as printed in the source. Reference-numbers are in small Kannada numerals; where uncertain. Glosses on the verses are mine.)*
 
 **English Translation** *(printed in English in the source itself):*
 
@@ -1351,16 +1351,16 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 > *ye apturo divyāso na gṛdhrā abhi prayo nāsatyā vahanti || (ṛ. saṃ. 1-118-4)*
 > Gloss: "Those (horses) that are rain-bringers, like heavenly vultures, carry the Nāsatyas to the offering."
 
-> **For Indra:** यज्ञेन गातुमप्तुरो विविद्रिरे धियो हिन्वाना उशिजो मनीषिणः ॥ (ऋ. सं. ३-३१-५ तथा ३-५१-२ [?])
-> *yajñena gātum apturo vividrire dhiyo hinvānā uśijo manīṣiṇaḥ || (ṛ. saṃ. 3-31-5 and 3-51-2 [?])*
+> **For Indra:** यज्ञेन गातुमप्तुरो विविद्रिरे धियो हिन्वाना उशिजो मनीषिणः ॥ (ऋ. सं. ३-३१-५ तथा ३-५१-२)
+> *yajñena gātum apturo vividrire dhiyo hinvānā uśijo manīṣiṇaḥ || (ṛ. saṃ. 3-31-5 and 3-51-2)*
 > Gloss: "By sacrifice the active, wise, eager singers found the path, stirring their thoughts."
 
-> **For Pavamāna-Soma:** इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम् ॥ (ऋ. सं. ९-६३-५; ९-६१-१३ [?]; ९-६३-२१ [?]; ९-१०८-२ [?])
-> *indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam || (ṛ. saṃ. 9-63-5; 9-61-13 [?]; 9-63-21 [?]; 9-108-2 [?])*
+> **For Pavamāna-Soma:** इन्द्रं वर्धन्तो अप्तुरः कृण्वन्तो विश्वमार्यम् ॥ (ऋ. सं. ९-६३-५; ९-६१-१३; ९-६३-२१; ९-१०८-२)
+> *indraṃ vardhanto apturaḥ kṛṇvanto viśvam āryam || (ṛ. saṃ. 9-63-5; 9-61-13; 9-63-21; 9-108-2)*
 > Gloss: "Strengthening Indra, the swift ones, making the whole world noble (Āryan)."
 
-> **For Agni:** अग्निं यन्तुरमप्तुरमृतस्य योगे वनुषः ॥ (ऋ. सं. ३-२१-११ [?]) इत्यादि
-> *agniṃ yanturam apturam ṛtasya yoge vanuṣaḥ || (ṛ. saṃ. 3-21-11 [?]) ity ādi*
+> **For Agni:** अग्निं यन्तुरमप्तुरमृतस्य योगे वनुषः ॥ (ऋ. सं. ३-२१-११) इत्यादि
+> *agniṃ yanturam apturam ṛtasya yoge vanuṣaḥ || (ṛ. saṃ. 3-21-11) ity ādi*
 > Gloss: "Agni, the controller, the rain-giver, at the yoking of the Order, to the one who honours." [tentative]
 
 **सुतम् (sutam)** — "Pressed with stones, crushed, the juice squeezed out and filtered so as to be fit for drinking." Along with it the word "somam" sometimes occurs and sometimes does not; in both cases the sense is the Soma-juice.
@@ -1373,7 +1373,7 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 
 *(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā.")*
 
-**उस्रा इव (usrā iva) and स्वसराणि (svasarāṇi)** — The word "usrā" is read among the fifteen words that denote rays (Nighaṇṭu [print: "2-15"?] [?]), and, in the sense "cows," among the nine words (Nighaṇṭu [print: "3-9"?] [?]); and the word "svasarāṇi" is read among the twelve words that denote "day," and also among the twenty-two names that denote "house." Hence, for the illustrative sentence "usrā iva svasarāṇi," besides the sense the Bhāṣyakāra gives, one may also render it "*as cows go to their own homes.*" Both Skandasvāmī and Veṅkaṭamādhava give both kinds of meaning. Western scholars too explain "svasarāṇi" by "day, cowshed, stall, abode, grazing" and similar words *(English as printed in the source)*. The word "svasarāṇi" is used in the Ṛks 1-34-8 [?]; 2-19-2 [?]; 2-34-5 [?]; 3-60-6 [?].
+**उस्रा इव (usrā iva) and स्वसराणि (svasarāṇi)** — The word "usrā" is read among the fifteen words that denote rays (Nighaṇṭu 2-15), and, in the sense "cows," among the nine words (Nighaṇṭu 3-9); and the word "svasarāṇi" is read among the twelve words that denote "day," and also among the twenty-two names that denote "house." Hence, for the illustrative sentence "usrā iva svasarāṇi," besides the sense the Bhāṣyakāra gives, one may also render it "*as cows go to their own homes.*" Both Skandasvāmī and Veṅkaṭamādhava give both kinds of meaning. Western scholars too explain "svasarāṇi" by "day, cowshed, stall, abode, grazing" and similar words *(English as printed in the source)*. The word "svasarāṇi" is used in the Ṛks 1-34-8; 2-19-2; 2-34-5; 3-60-6.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(Kannada; characterized, sūtras kept)* "**Devāsaḥ**": by **नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः** (*nandi-grahi-pacādibhyo lyu-ṇiny-acaḥ*, पा. ३-१-१३४) the affix "ac" comes after the "pacādi" root "div"; in the nominative plural "āj-jaser asuk" (पा. ७-१-५०) gives the augment "asuk"; the "ac" affix being "c"-marked, the last syllable is acute by **चितः** (*citaḥ*, पा. ६-१-१६३). "**Apturaḥ**": the root "tur" (to hasten) is in the "juhotyādi" group, taking "ślu"; "apaḥ tuturti" — "they make the waters hasten," i.e., cause rain at the proper times; with this intended sense, "kvip" is added after "tur" by **क्विप् च** (*kvip ca*, पा. ३-२-७६), all of whose letters are then elided; with "jas" the form "apturaḥ" results; the accent of the second member of the kṛt-compound is retained by **गतिकारकोपपदात्कृत्** (*gati-kāraka-upapadāt kṛt*, पा. ६-२-१३९). "**Ā ganta**" (= "āgacchantu"): the second-person-plural "tha" stands for the third (vyatyaya); "tha" becomes "ta" by **तस्थस्थमिपां तान्तन्तामः** (*tasthasthamipāṃ tāntantāmaḥ*, पा. ३-४-१०१); the "śap" is elided by **बहुलं छन्दसि** (*bahulaṃ chandasi*); "ta" becomes "tap" (**तस्य तप्तनप्तनथनाश्च**, *tasya tap-tanap-tanathanāś ca*, पा. ७-१-४५); since "tap" is "p"-marked, the "sārvadhātuka" is not "ṅit" (**सार्वधातुकमपित्**, *sārvadhātukam apit*, पा. १-२-४), so the nasal "m" of "gam" is not elided (**अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति**, पा. ६-४-३७), and by **नश्चापदान्तस्य झलि** (*naś cāpadāntasya jhali*, पा. ८-३-२४) the "n/m" not at the end of a word before a "jhal" becomes anusvāra, which by **अनुस्वारस्य ययि परसवर्णः** (*anusvārasya yayi parasavarṇaḥ*, पा. ८-४-५८) takes the nasal of the following consonant's class… *(continues on the next page)*
 
@@ -1411,7 +1411,7 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 
 ### Page 59 — Rik 3.9: Sāyaṇa-bhāṣya (concluded), grammar, Pada-meanings, Bhāvārtha, English rendering
 
-*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script; [?] where the print is unclear. The grammar is characterized, sūtras kept; the sense is transcribed in full.)*
+*(Page header: "Aṣṭaka 1, Adhyāya 1, Varga 6 · Ṛgveda-saṃhitā." Sanskrit printed in Kannada script; where the print is unclear. The grammar is characterized, sūtras kept; the sense is transcribed in full.)*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(continuing from p. 58, at "adrohaḥ")*
 
@@ -1421,8 +1421,8 @@ O Viśvedevas! You are the givers of rain — that is, you cause the rain to fal
 **Translation:** "'Adruhaḥ' — free from malice (droha). 'Vahnayaḥ' — bearers; those who bring about the attaining of riches."
 
 **Grammar of Rik 3.9 (characterized):**
-- **"Asridhaḥ"** — from "sridh," in the sense of decay (or of drying up), "kvip" in the abstract sense after the "sampadādi" class (पा. ३-३-१०८ with its vārttika [?]); a negative bahuvrīhi; setting aside the first-member's accent, **नञ्सुभ्याम्** (*nañ-subhyām*) gives acute on the last syllable of the second member.
-- **"Ehimāyāsaḥ"** — "īh" (to strive); "ā samantād īhate" — "he who strives on all sides" = "ehiḥ"; the affix "in" (उ. ४-११२ [?]) comes to roots generally, and, being "n"-marked, the first syllable is acute; "ehir māyā prajñā yeṣām" — a bahuvrīhi in which the first member keeps its accent. *Alternatively:* the word "ehi" is the imperative second-person-singular after the "ā" accented (loṇ-madhyama-ekavacana) with the unaccented ending lost by "tiṅ atiṅaḥ" nighāta, with the fusing vowel "e" acute — and then "ehi" + "mā" of "mā yāsīḥ": "those who have the two syllables 'māyā' in the phrase 'ehi mā yāsīḥ'" = "ehimāyāsaḥ"; the first member keeps its accent.
+- **"Asridhaḥ"** — from "sridh," in the sense of decay (or of drying up), "kvip" in the abstract sense after the "sampadādi" class (पा. ३-३-१०८ with its vārttika, printed ३-३-१०८-९); a negative bahuvrīhi; setting aside the first-member's accent, **नञ्सुभ्याम्** (*nañ-subhyām*) gives acute on the last syllable of the second member.
+- **"Ehimāyāsaḥ"** — "īh" (to strive); "ā samantād īhate" — "he who strives on all sides" = "ehiḥ"; the affix "in" (उ. ४-११२) comes to roots generally, and, being "n"-marked, the first syllable is acute; "ehir māyā prajñā yeṣām" — a bahuvrīhi in which the first member keeps its accent. *Alternatively:* the word "ehi" is the imperative second-person-singular after the "ā" accented (loṇ-madhyama-ekavacana) with the unaccented ending lost by "tiṅ atiṅaḥ" nighāta, with the fusing vowel "e" acute — and then "ehi" + "mā" of "mā yāsīḥ": "those who have the two syllables 'māyā' in the phrase 'ehi mā yāsīḥ'" = "ehimāyāsaḥ"; the first member keeps its accent.
 - **"Adruhaḥ"** — "druh" (to wish to injure), "kvip" by "sampadādi" in the abstract; negative bahuvrīhi; last syllable of the second member acute by "nañ-subhyām."
 - **"Medham"** — "medhṛ" (to unite): "that which is united with, approached by the gods" = "medham," oblation; "ghañ" in the object-sense; "ñ"-marked, so first syllable acute.
 - **"Juṣanta"** — in the sense "sevantām" ("let them enjoy"), in the Veda the "luṅ, laṅ, liṭ" may stand for the imperative (**छन्दसि लुङ्लङ्लिटः**, *chandasi luṅ-laṅ-liṭaḥ*, पा. ३-४-६); since the sense is joined to the root meanings of "druh" etc., "laṅ" is chosen; by **बहुलं छन्दस्यमाङ्योगेऽपि** (*bahulaṃ chandasy amāṅ-yoge 'pi*, पा. ६-४-७५) the augment "aṭ" does not occur.
