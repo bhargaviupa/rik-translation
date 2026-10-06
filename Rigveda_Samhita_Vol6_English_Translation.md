@@ -1160,4 +1160,58 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–52 done (PDF 19–70): Rik 62.1–62.10 complete; Rik 62.11 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and Special Topics (pp. 50–52); the grammar page of 62.11 is not yet reached. Next: p. 53 (PDF 71) — the grammar page of Rik 62.11 (the page should then continue to Rik 62.12). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the dense grammar of *ahrayāṇam* in 62.10 and "क्याच्छन्दसीत्युप्रत्ययः" in 62.11 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 53 (PDF 71)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (concluded; Kannada).**
+
+- **उशतीः उशन्तम्** (*uśatīḥ uśantam*) — *vaśa kāntau | uśatyaḥ kāmayamānāḥ patnyaḥ | uśantaṃ kāmayamānaṃ patim iva |* — "like a wife who loves her husband going to the side of the husband who loves her. Here the word *uśatīḥ* is a qualifier of the word *patnīḥ*, and *uśantam* of the word *patim*."
+- **स्पृशन्ति** (*spṛśanti*) — *prāpnuvanti | spṛśa sparśane |* — "they go, they join."
+- **मनीषाः** (*manīṣāḥ*) — *stutayaḥ | manīṣayā manasa īśayā stutyā prajñayā vā* (Ni. [2-25 or 3-25, ?]) — "since there is this Nirukta statement, *manīṣāḥ* means praises, hymns."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.11 (noted briefly).** **सनायुवः**: *sanā* is an indeclinable; it conveys the sense of 'eternal-ness'; by *lakṣaṇā* (indirect sense) it is understood as 'having eternity'. "He wishes for himself *sanā*, the ancient rite": in this sense the affix *kyac* comes by "supa ātmanaḥ kyac"; *sanāya* receives the root-designation by "sanādyantā dhātavaḥ"; thereafter the affix *u* by "kyāc chandasi" (Pā. Sū. 3-2-170, as read); the loss of the *a* of *kyac* by "ato lopaḥ"; the word *sanāyu*; with *jas*, by "jasi ca" *guṇa* and the *av*-substitution come, and the *s* gets *ru*/*visarga*: *sanāyavaḥ*; the *u* for the *a* of the *av*-substitution comes by Vedic licence, giving *sanāyuvaḥ*; the accent of the affix *u*. **वसूयवः**: the process as before; "they wish for themselves wealth (*vasu*)": *vasūyanti*; "kyaci ca" (Pā. Sū. 7-4-33, as read) lengthens the former vowel; the affix *u*; *guṇa*, *av*-substitution, accent as before. **मतयः**: root *mana jñāne*; "manyante iti matayaḥ stotāraḥ"; *ktic* by "kticktau ca saṃjñāyām" (Pā. Sū. 3-3-174, as read); though "na kticī dīrghaś ca" (Pā. Sū. 6-4-39, as read) would prohibit [the lengthening/loss], by the variable usage the loss of the *n* of the root *man* comes by "anudāttopadeśavanati…"; since *ktic* is *c*-marked, final acute by "citaḥ"; with *jas* following, *guṇa* and *ay*-substitution come: *matayaḥ*. **दद्रुः**: root *drā kutsāyāṃ gatau*; *liṭ*, third person plural *jhi*; the *us* substitute by "parasmaipadānām ṇalatusus…"; the root is doubled because of *liṭ*; in the reduplicative syllable only the first consonant remains; *dadrā + us*: the loss of *ā* by "āto lopa iṭi ca" (Pā. Sū. 6-4-64, as read); the affix *s* …  *(continues on p. 54).*
+
+---
+
+### Page 54 (PDF 72)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Grammar page for Rik 62.11, concluded (noted briefly).** **दद्रुः** *(concluded)*: *ru*/*visarga* for the *s*: *dadruḥ*; the *nighāta* accent, since it follows a non-verbal word. **उशतीः**: root *vaśa kāntau* ('desire' is the meaning of *kānti*); *śatṛ* in the sense of *laṭ* by "laṭaḥ śatṛśānacāv…" (Pā. Sū. 3-2-124, as read); because the root is of the *adi* class, the *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ" (Pā. Sū. 2-4-72, as read); by "sārvadhātukam apit" [the affix is treated as *ṅit*]; since *śatṛ* is [so marked], *samprasāraṇa* by "grahijyāvayi…" (Pā. Sū. 6-1-16, as read), and the former form by "samprasāraṇāc ca": *uśat*; in the feminine, since *śatṛ* ends in *u*-marked [*ugit*], *ṅīp* by "ugitaś ca"; with *uśatī + śas*, the same-class lengthening by "vā chandasi" gives *uśatīḥ*; because the *num* augment of "śater anumo nadyajādī" (Pā. Sū. 6-1-173, as read) does not come here, the *nadī* ending (the *ī*) receives the acute. **स्पृशन्ति**: root *spṛśa saṃsparśane*, *tudādi*; *laṭ*, third person plural; the form as already stated; since at the beginning of the *pāda*, no *nighāta*; the accent of the verb-class affix. **शवसावन्**: "*śavaḥ* is strength, which he has": the affix *matup*; the *ā* after the *s* is Vedic; since it follows a word ending in *ā* [in the penultimate, "mādupadhāyāś ca matorvo 'yavādibhyaḥ", Pā. Sū. 8-2-9, as read] the *m* of *matup* becomes *v*; in the vocative the form *śavasāvan*. Or: from *śavas*, in the sense of *matup*, the affix *āvanip*; the form as before; by "āmantritasya ca" the *nighāta* accent. **॥ ११ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 62.11 ends here (ornamental rule).*
+
+#### Rik 62.12
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सनादेव तव रायो गभस्तौ न क्षीयन्ते नोप दस्यन्ति दस्म ।**
+> **द्युमाँ असि क्रतुमाँ इन्द्र धीरः शिक्षा शचीवस्तव नः शचीभिः ॥ १२ ॥**
+> *sanād eva tava rāyo gabhastau na kṣīyante nopa dasyanti dasma |*
+> *dyumāṃ asi kratumāṃ indra dhīraḥ śikṣā śacīvas tava naḥ śacībhiḥ || 12 ||*
+
+---
+
+### Page 55 (PDF 73)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सनात् । एव । तव । रायः । गभस्तौ । न । क्षीयन्ते । न । उप । दस्यन्ति । दस्म ।**
+> **द्युऽमान् । असि । क्रतुऽमान् । इन्द्र । धीरः । शिक्ष । शचीऽवः । तव । नः । शचीभिः ॥ १२ ॥**
+> *sanāt | eva | tava | rāyaḥ | gabhastau | na | kṣīyante | na | upa | dasyanti | dasma |*
+> *dyu-mān | asi | kratu-mān | indra | dhīraḥ | śikṣa | śacī-vaḥ | tava | naḥ | śacībhiḥ || 12 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे दस्म दर्शनीयेन्द्र । गभस्तिरिति बाहुनाम । तव गभस्तौ हस्ते सनादेव चिरकालादारभ्य स्थितानि रायो धनानि न क्षीयन्ते । न विनश्यन्ति । नोप दस्यन्ति च । स्तोतृभ्यो दत्तेऽपि त्वद्धस्तगतं धनमुपक्षयं न प्राप्नोति । अपि तु वर्धते । हे इन्द्र धीरो बुद्धिमान् धृष्णुर्वा त्वं द्युमान् दीप्तिमानसि । तथा क्रतुमान् लोकरक्षणहेतुभूतकर्मयुक्तोऽसि । हे शचीवः कर्मवन्निन्द्र तव शचीभिस्त्वदीयैः कर्मभिर्नोऽस्मभ्यं धनं शिक्ष । देहि । शिक्षतिर्दानकर्मा ॥ क्षीयन्ते । क्षीङ् हिंसायाम् । अस्मात्कर्मकर्तरि । कर्मवद्भावाद्यगात्मनेपदे । वत्करणं स्वाश्रयमपि यथा स्यादिति कर्तृवद्भावादेचः [?] कर्तर्यपि यकि । पा. ६-१-१०९ [?] इत्याद्युदात्तत्वम् । चादिलोपे विभाषेति निघातप्रतिषेधः । शचीवः । शच्यस्यास्तीति शचीवान् । छन्दसीर इति मतुपो वत्वम् । सम्बुद्धौ मतुवसो रुरिति नकारस्य रुत्वम् ॥**
+> *he dasma darśanīyendra | gabhastir iti bāhunāma | tava gabhastau haste sanād eva cirakālād ārabhya sthitāni rāyo dhanāni na kṣīyante | na vinaśyanti | nopa dasyanti ca | stotṛbhyo datte 'pi tvaddhastagataṃ dhanam upakṣayaṃ na prāpnoti | api tu vardhate | he indra dhīro buddhimān dhṛṣṇur vā tvaṃ dyumān dīptimān asi | tathā kratumān lokarakṣaṇahetubhūtakarmayukto 'si | he śacīvaḥ karmavann indra tava śacībhis tvadīyaiḥ karmabhir no 'smabhyaṃ dhanaṃ śikṣa | dehi | śikṣatir dānakarmā || kṣīyante | kṣīṅ hiṃsāyām | asmāt karmakartari | karmavadbhāvād yag ātmanepade | vatkaraṇaṃ svāśrayam api yathā syād iti kartṛvadbhāvād ecaḥ [?] kartary api yaki | Pā. 6-1-109 [?] ity ādyudāttatvam | cādilope vibhāṣeti nighātapratiṣedhaḥ | śacīvaḥ | śacyasyāstīti śacīvān | chandasīra iti matupo vatvam | sambuddhau matuvaso rur iti nakārasya rutvam ||*
+> *"O handsome Indra (**dasma**)! **Gabhasti** is a word for 'arm'; in your **gabhastau**, your hand, the **rāyaḥ**, riches, that have been there **sanād eva**, from a long time past, **na kṣīyante** — do not perish, and **nopa dasyanti**, do not diminish either. Though given to the singers, wealth that has gone into your hand does not suffer decay but increases. O Indra, **dhīraḥ** — wise, or bold — you are **dyumān**, radiant; likewise **kratumān**, endowed with the works that are the cause of the protection of the world. O **śacīvaḥ**, Indra of works! **tava śacībhiḥ**, by your works, **śikṣa naḥ**, give us wealth; *śikṣati* is a verb of giving. **Kṣīyante**: root *kṣīṅ hiṃsāyām* (to harm); from it, in the sense of the passive-agent (*karmakartṛ*), by the principle of 'as if passive', *yak* in the *ātmanepada*; and [the further sentence on the *vat*-comparison and the "as if agent" principle is read doubtfully, ?]; with *yak*, the initial acute by Pā. 6-1-109 [?]; with the loss of *ca* etc. [the particle], the *nighāta* is forbidden by the option. **Śacīvaḥ**: 'whose is *śacī*' is *śacīvān*; the *va* of *matup* by 'chandasīra…'; in the vocative, the *n* of *matu-vasu* [as read] becomes *ru*."* *(Grammar tail characterized; the passage on *kṣīyante* is compressed and its sūtra reference doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**दस्म** — O handsome Indra; **तव** — your; **गभस्तौ** — in the hand; **सनादेव** — (that are) from beginningless time; **रायः** — wealth; **न क्षीयन्ते** — are not destroyed; **न उप दस्यन्ति** — are not diminished even by giving to the singers; **हे इन्द्र** — O Indra; **धीरः** — (you) the intelligent or the steady; **द्युमान्** — the radiant; **क्रतुमान्** — (the protector of the world), the one who has works; **शचीवः** — O Indra of works; **तव** — your; **शचीभिः** — by works; **नः** — to us; **शिक्ष** — give (wealth).
+
+---
+
+**Progress note:** Printed pp. 1–55 done (PDF 19–73): Rik 62.1–62.11 complete; Rik 62.12 — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha (pp. 54–55); Bhāvārtha, the source's English, Special Topics and grammar of 62.12 still to come. Next: p. 56 (PDF 74), Bhāvārtha of Rik 62.12. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; "क्षीयन्ते" tail in the 62.12 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
