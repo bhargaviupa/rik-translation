@@ -2000,4 +2000,80 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–94 done (PDF 19–112): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.8 complete; Rik 63.9 (the last Rik of Sūkta 63) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 94, ending at *bhara*, "the *hi* substitute for *sip*"). Next: p. 95 (PDF 113), the grammar page of Rik 63.9 concludes; the closing line of Sūkta 63; then Sūkta 64 (Sāyaṇa's introduction etc.). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; Sūkta 63 almost done; Sūkta 64 next.
+### Page 95 (PDF 113)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.9, concluded (noted briefly).** **भर** *(concluded)*: the vikaraṇa *śap* by "kartari śap"; the *luk* of the *hi* by "ato heḥ"; because *śap* conditions it, *guṇa* of the root's *ṛ* [as read]; by "hṛgrahor bhaś chandasi" (Pā. Sū. 8-2-32, as read) the *h* of the root becomes *bh*; the *nighāta* accent, since it follows a non-verbal word; in the Saṃhitā, by "dvyaco 'tastiṅaḥ" (Pā. Sū. 6-3-135, as read) the lengthening of the root's final *a*: *bharā*. **जगम्यात्**: root *gamḷ gatau*; in the *vidhiliṅ*, the ending *tip*; the loss of its *i* by "itaś ca"; by "bahulaṃ chandasi" the *śluḥ* vikaraṇa; by "ślau" the doubling of the root; in the reduplicative syllable, only the first consonant remains; by "kuhoś cuḥ" *j* for *g*; the *yāsuṭ* augment for *liṅ*; the form *jagamyāt*; the *nighāta* accent by "tiṅ atiṅaḥ". **॥ ९ ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तमूरने सूक्तवु समाप्तवागिदे"** — "*aravattamūrane sūktavu samāptavāgide*" — "The sixty-third sūkta is concluded." *(Ornamental rule follows.)*
+
+*(Sūkta 63 is complete: nine ṛks, printed pp. 61–95 = PDF 79–113.)*
+
+---
+
+## SŪKTA 64 *(printed pp. 95–? = PDF 113–; seventh and last sūkta of the Eleventh Anuvāka)*
+
+### Page 95 (PDF 113), lower part — Sāyaṇa's introduction; Kannada anuvāda
+
+**Printed on the page:** the line "*Aravattanālkaneya sūktavu*" ("the sixty-fourth sūkta"), then Sāyaṇa's introduction in Kannada script.
+
+> **वृष्णे शर्धायेति पञ्चदशर्चं सप्तमं सूक्तम् । नोधस आर्षं मारुतम् । आन्त्या त्रिष्टुप् । शिष्टाश्चतुर्दश जगत्यः । तथा चानुक्रान्तम् । वृष्णे पञ्चोना मारुतं त्रिष्टुबन्तमिति ॥ चातुर्विंशिकेऽहन्यग्निमारुत इदं मारुतं निविद्धानीयम् । सूत्रितं च । पृक्षस्य वृष्णो वृष्णे शर्धाय यज्ञेन वर्धतेत्याग्निमारुतम् । आ. ७-४ [?] इति ॥ अभिप्लविके पञ्चमेऽहन्याग्निमारुते मारुतनिविद्धानम् । सूत्रितं च । पृक्षस्य वृष्णो वृष्णे शर्धाय नू चित्सहोजा इत्याग्निमारुतम् । आ. ७-२ [?] इति ॥**
+> *vṛṣṇe śardhāyeti pañcadaśarcaṃ saptamaṃ sūktam | nodhasa ārṣaṃ mārutam | āntyā triṣṭup | śiṣṭāś caturdaśa jagatyaḥ | tathā cānukrāntam | vṛṣṇe pañconā mārutaṃ triṣṭubantam iti || cāturviṃśike 'hanyagnimāruta idaṃ mārutaṃ nividdhānīyam | sūtritaṃ ca | pṛkṣasya vṛṣṇo vṛṣṇe śardhāya yajñena vardhatety āgnimārutam | Ā. 7-4 [?] iti || abhiplavike pañcame 'hanyāgnimārute mārutanividdhānam | sūtritaṃ ca | pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā ity āgnimārutam | Ā. 7-2 [?] iti ||*
+> *"'Vṛṣṇe śardhāya' is the seventh sūkta, of fifteen ṛks; the vision of Nodhas, addressed to the Maruts; the last [ṛk] is Triṣṭubh, the remaining fourteen are Jagatī. So the Anukramaṇī: '*vṛṣṇe pañconā mārutaṃ triṣṭubantam*' ('*Vṛṣṇe*: fifteen — five less [than twenty] —, to the Maruts, ending in a Triṣṭubh'). On the twenty-fourth (*cāturviṃśika*) day, in the Agnimāruta [śastra], this Maruta [sūkta] is used as *nividdhānīya* [i.e. as the mantras from which the nivid is inserted]. It is set out in the sūtra: '*pṛkṣasya vṛṣṇo vṛṣṇe śardhāya yajñena vardhate*' — the Agnimāruta (Āśvalāyana [Śrauta-sūtra] 7-4, numerals as read, ?). And in the Abhiplava, on the fifth day, in the Agnimāruta, the Marut-nivid: '*pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā*' — the Agnimāruta (Ā. 7-2, as read, ?)."*
+
+**Anuvāda (Kannada).** "The sūkta '*Vṛṣṇe śardhāya*' is the seventh sūkta in the eleventh anuvāka of the first maṇḍala. It has fifteen ṛks. Nodhā Gautama is the ṛṣi of this sūkta. The Maruts are the deities. The last ṛk is in Triṣṭubh metre; the remaining fourteen ṛks are in Jagatī. In the Anukramaṇikā it is said '*vṛṣṇe pañconā mārutaṃ triṣṭubantam*'. On the twenty-fourth day of the sacrifice, at the time of the recitation of the Āgnimāruta śastra mantras, the application of this sūkta, as the *nividdhānīya* mantras addressed to the Maruts, is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*pṛkṣasya vṛṣṇo vṛṣṇe śardhāya yajñena vardhate ity āgnimārutam*' (Ā. 7-[4], as read). In the Abhiplava rite too, on the fifth day, in the Āgnimāruta śastra mantras, this sūkta serves as the Marut-nivid mantras; this is indicated by the sūtra '*pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā ity āgnimārutam*' of the Āśvalāyana Śrauta-sūtra (Ā. 7-[2])."
+
+---
+
+### Page 96 (PDF 114)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Sūkta — 64** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — ११ ॥ सूक्त — ६४ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — ६, ७, ८ [?] ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥**
+> **॥ ऋषिः — नोधा गौतमः ॥**
+> **॥ देवता — मरुतः ॥**
+> **॥ छन्दः — १–१४ जगती । १५. त्रिष्टुप् ॥**
+
+*maṇḍala 1 | anuvāka 11 | sūkta 64 | aṣṭaka 1 | adhyāya 5 | varga 6, 7, 8 [read; numerals small, ?] | number of ṛks in the sūkta 15 | ṛṣi: Nodhā Gautama | devatā: the Maruts | chandas: 1–14 Jagatī, 15 Triṣṭubh.*
+
+#### Rik 64.1
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **वृष्णे शर्धाय सुमखाय वेधसे नोधः सुवृक्तिं प्र भरा मरुद्भ्यः ।**
+> **अपो न धीरो मनसा सुहस्त्यो गिरः समञ्जे विदथेष्वाभुवः ॥ १ ॥**
+> *vṛṣṇe śardhāya sumakhāya vedhase nodhaḥ suvṛktiṃ pra bharā marudbhyaḥ |*
+> *apo na dhīro manasā suhastyo giraḥ sam añje vidatheṣv ābhuvaḥ || 1 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **वृष्णे । शर्धाय । सुऽमखाय । वेधसे । नोधः । सुऽवृक्तिम् । प्र । भर । मरुत्ऽभ्यः ।**
+> **अपः । न । धीरः । मनसा । सुऽहस्त्यः । गिरः । सम् । अञ्जे । विदथेषु । आऽभुवः ॥ १ ॥**
+> *vṛṣṇe | śardhāya | su-makhāya | vedhase | nodhaḥ | su-vṛktim | pra | bhara | marut-bhyaḥ |*
+> *apaḥ | na | dhīraḥ | manasā | su-hastyaḥ | giraḥ | sam | añje | vidatheṣu | ā-bhuvaḥ || 1 ||*
+
+---
+
+### Page 97 (PDF 115)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 7".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **अत्र पूर्वार्धेन स्तुतौ नोधाः प्रेर्यते । हे नोधो वृष्णे कामानां वर्षित्रे सुमखाय शोभनयज्ञाय वेधसे पुष्पफलादीनां कर्त्रे । वायौ सति हि पुष्पाणि फलानि चोत्पद्यन्ते । एवंविधाय मरुद्भ्यः । विभक्तिव्यत्ययः । मरुतां मितराविणां शर्धाय समूहाय सुवृक्तिं सुष्ठ्वावर्जकं सुष्ठु प्रवृत्तं वा स्तोत्रं प्र भर । प्रेरय । स्तुहीति यावत् । स्तुतौ प्रेरितो नोधा आह । धीरो धीमान् सुहस्त्यः शोभनाङ्गुलियुक्तः । कृताञ्जलिरित्यर्थः । एवंभूतोऽहं मनसा गिरः स्तुतिलक्षणा वाचः समञ्जे । सम्यग्व्यक्ताः करोमि । या गिरो विदथेषु यज्ञेष्वाभुवः । आङ् मर्यादायाम् । यथाशास्त्रं प्रयुक्ता भवन्तीत्याभुवः । देवताभिमुखीकरणाय समर्थाः । यज्ञयोग्यैः स्तोत्रैर्मनःपूर्वकं मरुद्गणं स्तौमीति भावः । तत्र दृष्टान्तः । अपो न । यथा पर्जन्यो युगपदेव बहुषु प्रदेशेषु बहुशो जलानि वर्षति तद्वत् ॥ वृष्णे । वृषु सेचने । कनिन्युवृषितक्षीत्यादिना [?] कनिन्प्रत्ययः । कित्त्वाद्गुणाभावः । नित्त्वादाद्युदात्तत्वम् । चतुर्थ्येकवचने अल्लोपोऽन इत्यकारलोपः । शर्धाय । शृधु प्रसहने । शर्ध्यते प्रसह्यतेऽनेन पर्वतादिकमिति शर्धो मरुत्संघः । करणे घञ् । ञित्त्वादाद्युदात्तत्वम् । सुमखाय । शोभनो मखो यस्य । नञ्सुभ्यामिति प्राप्ते व्यत्ययेन पूर्वपदप्रकृतिस्वरत्वम् । नोधः । पादादित्वात् षाष्ठिकमामन्त्रितादिद्युदात्तत्वम् । सुहस्त्यः । हस्ते भवा हस्त्याः । भवे छन्दसीति यत् । यतो नाव इत्याद्युदात्तत्वम् । ततः सुशब्देन बहुव्रीहावाद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वम् ॥**
+> *atra pūrvārdhena stutau nodhāḥ preryate | he nodho vṛṣṇe kāmānāṃ varṣitre sumakhāya śobhanayajñāya vedhase puṣpaphalādīnāṃ kartre | vāyau sati hi puṣpāṇi phalāni cotpadyante | evaṃvidhāya marudbhyaḥ | vibhaktivyatyayaḥ | marutāṃ mitarāviṇāṃ śardhāya samūhāya suvṛktiṃ suṣṭhv āvarjakaṃ suṣṭhu pravṛttaṃ vā stotraṃ pra bhara | preraya | stuhīti yāvat | stutau prerito nodhā āha | dhīro dhīmān suhastyaḥ śobhanāṅguliyuktaḥ | kṛtāñjalir ity arthaḥ | evaṃbhūto 'haṃ manasā giraḥ stutilakṣaṇā vācaḥ samañje | samyagvyaktāḥ karomi | yā giro vidatheṣu yajñeṣv ābhuvaḥ | āṅ maryādāyām | yathāśāstraṃ prayuktā bhavantīty ābhuvaḥ | devatābhimukhīkaraṇāya samarthāḥ | yajñayogyaiḥ stotrair manaḥpūrvakaṃ marudgaṇaṃ staumīti bhāvaḥ | tatra dṛṣṭāntaḥ | apo na | yathā parjanyo yugapad eva bahuṣu pradeśeṣu bahuśo jalāni varṣati tadvat || vṛṣṇe | vṛṣu secane | kanin yuvṛṣitakṣītyādinā [?] kaninpratyayaḥ | kittvād guṇābhāvaḥ | nittvād ādyudāttatvam | caturthyekavacane allopo 'na ity akāralopaḥ | śardhāya | śṛdhu prasahane | śardhyate prasahyate 'nena parvatādikam iti śardho marutsaṅghaḥ | karaṇe ghañ | ñittvād ādyudāttatvam | sumakhāya | śobhano makho yasya | nañsubhyām iti prāpte vyatyayena pūrvapadaprakṛtisvaratvam | nodhaḥ | pādāditvāt ṣāṣṭhikam āmantritādyudāttatvam | suhastyaḥ | haste bhavā hastyāḥ | bhave chandasīti yat | yato nāva ity ādyudāttatvam | tataḥ suśabdena bahuvrīhāv ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvam ||*
+> *"Here, in the first half, Nodhas is urged to praise. O **Nodhas**, [bring] to the **vṛṣṇe**, the showerer of desires, to the **sumakhāya**, the [lord] of beautiful sacrifices, to the **vedhase**, the maker of flowers, fruits and the like (for when there is wind, flowers and fruits arise) — to the **marudbhyaḥ**, to the Maruts such as these (a change of case) — to **śardhāya**, to the host of the Maruts, the speakers in measure, **suvṛktim**, a praise that bends [the gods] well, or has proceeded well; **pra bhara**, offer it, i.e. 'praise'. Urged to praise, Nodhas says: **dhīraḥ**, wise, **suhastyaḥ**, with beautiful fingers, i.e. with folded hands — such as I am, **manasā**, with the mind, **giraḥ**, speeches in the form of praise, **sam añje**, I make fully manifest — those words that are **ābhuvaḥ** in the **vidatheṣu** — in sacrifices (*ā* in the sense of limit): they are used in accordance with the śāstra, hence *ābhuvaḥ*, capable of making the deities turn toward us. The idea: I praise the host of the Maruts, with a mind that is behind, with praises fit for a sacrifice. The example: **apo na** — as Parjanya rains water many times in many places at one time, so. **Vṛṣṇe**: root *vṛṣu secane*; the affix *kanin* by '*kanin yuvṛṣitakṣi…*' [as read, ?]; being *k*-marked, no *guṇa*; being *n*-marked, initial-acute; in the dative singular the loss of *a* by 'allopo 'naḥ'. **Śardhāya**: root *śṛdhu prasahane*; 'that by which mountains and the like are overpowered' is *śardhaḥ*, the host of the Maruts; *ghañ* in the instrument sense; *ñ*-marked, initial-acute. **Sumakhāya**: 'whose sacrifice (*makha*) is beautiful'; where 'nañsubhyām' would apply, the accent of the first member by exchange. **Nodhaḥ**: because at the beginning of the *pāda*, the initial acute of a vocative by the sixth-case rule. **Suhastyaḥ**: 'those that are in the hand' are *hastyāḥ*; *yat* by 'bhave chandasi'; the initial acute by 'yato nāvaḥ'; then with *su*, in a *bahuvrīhi*, the initial acute; by 'dvyac chandasi' the initial acute of the latter member."* *(Grammar tail characterized; the opening of the *kanin* Uṇādi sūtra is read doubtfully [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 98)*
+
+**नोधः** — O Nodhas; **वृष्णे** — to the giver of the wished-for; **सुमखाय** — to the one with auspicious sacrifices; **वेधसे** — to the maker of flowers, fruits and so on; **मरुद्भ्यः** — of the Maruts; **शर्धाय** — to the host; **सुवृक्तिम्** — praise that pleases well; **प्र भर** — offer (make); **धीरः** — I, being wise; **सुहस्त्यः** — with beautiful fingers (with the hands folded); **मनसा** — with the mind; **विदथेषु** — in sacrifices; **आभुवः** — those used according to the śāstra (that bring the deities to face us); **गिरः** — words in the form of praise; **अपो न** — like water; **समञ्जे** — I manifest well.
+
+---
+
+**Progress note:** Printed pp. 1–97 done (PDF 19–115): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts; PDF 113–115 = printed pp. 95–97: introduction, heading block done): Rik 64.1 — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha done. Next: p. 98 (PDF 116), the Bhāvārtha, the source's English, Special Topics and grammar of Rik 64.1; then Rik 64.2. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
