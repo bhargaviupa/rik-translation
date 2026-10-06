@@ -1033,4 +1033,67 @@ To offer this Rik, *tad u prayakṣatamam*, in the sacrificial rite called Prava
 
 ---
 
-**Progress note:** Printed pp. 1–46 done (PDF 19–64): Rik 62.1–62.9 complete; Rik 62.10 begun — Saṃhitā only (p. 46). Next: p. 47 (PDF 65), the Pada text and bhāṣya of Rik 62.10. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; Saṃhitā "भूमा" vs Pada "भूम" noted in 62.8; "शोभनयोगादिकर्मयुक्तः" and "प्रवयः सनेमि" in 62.9 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 47 (PDF 65)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ पदपाठः ॥ — Pada text** (Rik 62.10)
+
+> **सनात् । सऽनीळाः । अवनीः । अवाताः । व्रता । रक्षन्ते । अमृताः । सहःऽभिः ।**
+> **पुरु । सहस्रा । जनयः । न । पत्नीः । दुवस्यन्ति । स्वसारः । अह्रयाणम् ॥ १० ॥**
+> *sanāt | sa-nīḷāḥ | avanīḥ | avātāḥ | vratā | rakṣante | amṛtāḥ | sahaḥ-bhiḥ |*
+> *puru | sahasrā | janayaḥ | na | patnīḥ | duvasyanti | svasāraḥ | ahrayāṇam || 10 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **सनाच्चिरकालादारभ्य सनीळाः समानवासस्थानाः अवाताः । वातं गमनं तद्रहिताः । एकपाण्यवस्थानात् । अवनय इत्यङ्गुलिनाम । एवंभूता अवनीरङ्गुलयः पुरु पुरूणि बहूनि सहस्रसंख्यातानि व्रता । व्रतानीन्द्रसम्बन्धीनि कर्माणि । अमृताः पुनःपुनःकरणेऽप्यालस्यरहिताः सत्यः सहोभिरात्मीयैर्बलैः रक्षन्ते । पालयन्ति । अपि च स्वसारः स्वयमेव सरन्त्योऽङ्गुलयः पत्नीः पालयित्र्योऽह्रयाणं लज्जारहितम् । प्रगल्भमित्यर्थः । यद्वा । अह्रीतयानं प्रशस्तगमनमिन्द्रं जनयो न । जनय इति देवानां पत्न्य उच्यन्ते । देवानां वै पत्नीर्जनय इति श्रुतेः । ता इव दुवस्यन्ति । परिचरन्ति । अञ्जलिबन्धनेनेन्द्रं प्रीणयन्तीत्यर्थः ॥ अवनीः । अवनयोऽङ्गुलयो भवन्त्यवन्ति कर्माणि । नि. ३-९ [?] इति यास्कः । सुपां सुलुगिति जसः पूर्वसवर्णदीर्घत्वम् । अवाताः । वा गतिगन्धनयोः । आसिहसीत्यादिना [?] भावे तन्प्रत्ययः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । व्रता । शेश्छन्दसि बहुलमिति शेर्लोपः । दुवस्यन्ति । दुवस्यतिः परिचरणकर्मा । कण्ड्वादिः । अतो येक एव स्वरः शिष्यते । पादादित्वान्निघाताभावः । अह्रयाणम् । ह्री लज्जायाम् । बहुलं छन्दसीति श्लोरभावः । व्यत्ययेन शानच् । मुगभावश्छान्दसः । नञ्सुमासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । यद्वा । बहुलं छन्दसीति शपो लुकि छन्दस्युभयथेति शानचि आर्धधातुकत्वेन ञित्त्वाभावे गुणायादेशौ । पूर्ववत्समासस्वरौ । यास्कस्त्वेवं व्याख्यात् । अह्रयाणोऽह्रीतयानः । नि. ५-१५ [?] इति ॥**
+> *sanāc cirakālād ārabhya sanīḷāḥ samānavāsasthānāḥ avātāḥ | vātaṃ gamanaṃ tadrahitāḥ | ekapāṇyavasthānāt | avanaya ity aṅgulināma | evaṃbhūtā avanīr aṅgulayaḥ puru purūṇi bahūni sahasrasaṅkhyātāni vratā | vratānīndrasambandhīni karmāṇi | amṛtāḥ punaḥpunaḥkaraṇe 'py ālasyarahitāḥ satyaḥ sahobhir ātmīyair balaiḥ rakṣante | pālayanti | api ca svasāraḥ svayam eva sarantyo 'ṅgulayaḥ patnīḥ pālayitryo 'hrayāṇaṃ lajjārahitam | pragalbham ity arthaḥ | yadvā | ahrītayānaṃ praśastagamanam indraṃ janayo na | janaya iti devānāṃ patnya ucyante | devānāṃ vai patnīr janaya iti śruteḥ | tā iva duvasyanti | paricaranti | añjalibandhanenendraṃ prīṇayantīty arthaḥ || avanīḥ | avanayo 'ṅgulayo bhavanty avanti karmāṇi | Ni. 3-9 [?] iti yāskaḥ | supāṃ sulug iti jasaḥ pūrvasavarṇadīrghatvam | avātāḥ | vā gatigandhanayoḥ | āsihasītyādinā [?] bhāve tanpratyayaḥ | bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | vratā | śeś chandasi bahulam iti śer lopaḥ | duvasyanti | duvasyatiḥ paricaraṇakarmā | kaṇḍvādiḥ | ato yeka eva svaraḥ śiṣyate | pādāditvān nighātābhāvaḥ | ahrayāṇam | hrī lajjāyām | bahulaṃ chandasīti śloraḥbhāvaḥ [?] | vyatyayena śānac | mugabhāvaś chāndasaḥ | nañsumāse 'vyayapūrvapadaprakṛtisvaratvam | yadvā | bahulaṃ chandasīti śapo luki chandasy ubhayatheti śānaci ārdhadhātukatvena ñittvābhāve guṇāyādeśau | pūrvavat samāsasvarau | yāskas tv evaṃ vyākhyāt | ahrayāṇo 'hrītayānaḥ | Ni. 5-15 [?] iti ||*
+> *"From a long time past, **sanīḷāḥ** — having a common dwelling-place; **avātāḥ** — *vāta* is movement; devoid of it, because they stay on one hand. **Avanayaḥ** is a name for fingers. Such fingers (**avanīḥ**) have **puru** — many, numbered by thousands — **vratā**, i.e. deeds relating to Indra; **amṛtāḥ** — free from sloth even when doing [them] again and again; **sahobhiḥ**, with their own powers, **rakṣante**, they protect. And further, the **svasāraḥ** — the fingers that move of themselves — like **patnīḥ**, protecting wives, **duvasyanti**, serve, **ahrayāṇam** — him who is without shame, i.e. bold; or, **ahrītayānam**, 'of splendid gait', Indra, **janayo na** — like the *janayaḥ*, which are the wives of the gods, for the śruti says 'the wives of the gods are the *janayaḥ*'. Like them they serve, wait on [him]; the sense: by joining the palms they please Indra. **Avanīḥ**: 'the *avanayaḥ* are the fingers; they help (*avanti*) in work' (Nirukta 3-9, numerals as read, ?) says Yāska; the lengthening of the former vowel, same-class, for *jas*, after the *luk* of the case-ending. **Avātāḥ**: root *vā*, 'to go, to smell'; the affix *tan* in the sense of *bhāva* by a rule beginning "āsihasi…" [?]; in the *bahuvrīhi*, the final acute of the latter member by "nañsubhyām". **Vratā**: the loss of *śi* by "śeś chandasi bahulam". **Duvasyanti**: *duvasyati* has the sense of waiting upon; of the *kaṇḍvādi* class; hence only the *yak*-accent remains; no *nighāta*, because it is at the beginning of the *pāda*. **Ahrayāṇam**: root *hrī*, 'to be ashamed'; … *śānac* by exchange; the absence of *muk* is Vedic; in the *nañ*-compound, the accent of the first member [which is an indeclinable] is kept. Or: with the *luk* of *śap* by 'bahulaṃ chandasi', then *śānac* by 'chandasy ubhayathā', since it is *ārdhadhātuka* it is not *ñit*, and *guṇa* and *ay* arise; the compound accents as before. Yāska however explains thus: '*ahrayāṇaḥ* is *ahrītayānaḥ*' (Nirukta 5-15, numerals as read, ?)."* *(The compressed grammar tail is given as read; the derivation of *ahrayāṇam* is dense and some phrases — "श्लोरभावः", "आसिहसीत्यादिना" — are doubtful [?]; the sense is as stated.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; continues on p. 48)*
+
+**सनात्** — from beginningless time; **सनीळाः** — having a common dwelling-place; **अवाताः** — (since they are on one hand) without movement; **अवनीः** — fingers; **पुरु** — many; **सहस्रा** — countless …
+
+---
+
+### Page 48 (PDF 66)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Pratipadārtha (concluded).** … **व्रता** — (Indra's) deeds; **अमृताः** — (those that remain) without sloth (though done again and again); **सहोभिः** — with their own strength; **रक्षन्ते** — protecting, they have come; **पत्नीः** — protecting; **स्वसारः** — the self-moving (fingers); **अह्रयाणम्** — (Indra) devoid of shame, or of unhindered gait; **जनयो न** — like the wives of the gods; **दुवस्यन्ति** — serve.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The fingers, which are in one place and do not change place, have from beginningless time performed innumerable deeds relating to Indra by their own strength. The protecting fingers, able to move of themselves, like women of the gods, without shame, serve Indra by folding the palms and the like.
+
+**English Translation** *(the source's own, as printed):*
+
+> From a remote time the contiguous, unshifting and unwearied fingers practise with all their energies many thousand acts of devotion towards Indra ; and like the wives of the gods the protecting sisters (fingers) worship him who is without shame.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not described clearly.
+
+- **सनीळाः** (*sanīḷāḥ*) — "*nīḷa* means house or dwelling-place (Ni. [3-13, ?]); *sanīḷāḥ* means 'having a common dwelling-place', i.e. being in one place."
+- **अवनीः** (*avanīḥ*) — *agruvaḥ aṅgyaḥ …* — "among the twenty-two names of the fingers beginning with *agruvaḥ, aṅgyaḥ* the word *avanayaḥ* is read; hence *avanīḥ* means 'fingers' (Ni. [3-9, ?])."
+- **अवाताः** (*avātāḥ*) — *vā gatigandhanayoḥ | vātaṃ gamanaṃ tadrahitāḥ |* — "without movement, i.e. not moving, having left their fixed places."
+- **व्रता** (*vratā*) — *indrasambandhīni karmāṇi |* — "*vrata* means 'deed' (Ni. [2-1, ?]); the word *vratā* is accusative plural."
+- **अमृताः** (*amṛtāḥ*) — *punaḥpunaḥkaraṇe 'py ālasyarahitāḥ |* — "without sloth in doing a work again and again."
+
+---
+
+### Page 49 (PDF 67)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 4".)*
+
+**Special Topics (continued; Kannada, with one English word as printed).**
+
+- **सहोभिः** (*sahobhiḥ*) — *ātmīyair balaiḥ |* — "*sahaḥ* means strength (Ni. [2-9, ?])."
+- **जनयो न** (*janayo na*) — "*janayaḥ* means women: 'janīnāṃ jāyānām' is a Nirukta statement (Ni. [10-21, as read, ?]); like women, like wives."
+- **दुवस्यन्ति** (*duvasyanti*) — *duvasyati paricaraṇakarmā* (Ni. [3-19, ?]) *paricaranti* — "they serve, they attend."
+- **स्वसारः** (*svasāraḥ*) — *svayam eva sarantyo 'ṅgulayaḥ |* — "since they move of themselves without being impelled, *svasāraḥ* means 'fingers'; *svasāraḥ* also means 'sisters' (the English word *sisters* is in the source)."
+- **अह्रयाणम्** (*ahrayāṇam*) — *hrī lajjāyām | lajjārahitam |* — "devoid of shame, one without shame. Yāska has said: *ahrayāṇo 'hrītayānaḥ* (Ni. [5-15, ?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.10 (noted briefly).** **अवनीः**: Yāska says "the *avanayaḥ* are fingers; they protect (*avanti*) work" (Nirukta [3-9], as read), i.e. *avani* is 'fingers' — they protect, help in, the doing of work; hence the name is one of meaning; *avani + jas*: the same-class lengthening for *jas* by "supāṃ sulug…"; the *ru*/*visarga* for the *s*: *avanīḥ*. **अवाताः**: root *vā gatigandhanayoḥ*; the affix *tan* in the sense of *bhāva* by "āsihasi…" [?]; "*vāta* is not for them", movement, those who have none, *avātāḥ*; in the *bahuvrīhi*, the final acute of the latter member by "nañsubhyām" (Pā. Sū. 6-2-172, as read). **व्रता**: *vrata + jas*; the *śi* substitute by "jaśśasoḥ śiḥ" (Pā. Sū. 7-1-20); *śi* is *sarvanāmasthāna* by "śi sarvanāmasthānam" (Pā. Sū. 1-1-42); hence the *num* augment by "napuṃsakasya jhalacaḥ" (Pā. Sū. 7-1-72); the lengthening by "sarvanāmasthāne cāsambuddhau" (Pā. Sū. 6-4-8); the loss of *śi* by "śeś chandasi bahulam" (Pā. Sū. 6-1-70); the loss of *n*; the form *vratā*. **रक्षन्ते**: root *rakṣa pālane*; *laṭ*, third person plural; the *nighāta* accent of a verb. **दुवस्यन्ति**: *dyuvasyatiḥ* [as printed] has the sense of waiting upon (service); the *kaṇḍvādi* class being an open class (*ākṛtigaṇa*), this root belongs to it; in another commentary it is stated "*duvas*, to kindle"; *yak* in the same sense by "kaṇḍvādibhyo yak" (Pā. Sū. 3-1-27, as read); because *yak* is included among the *sanādi* affixes, the stem *duvasya* receives the root-designation by "sanādyantā dhātavaḥ" (Pā. Sū. 3-1-32); *laṭ*, third person … *(the paragraph breaks off at the foot of the page and continues on p. 50).*
+
+---
+
+**Progress note:** Printed pp. 1–49 done (PDF 19–67): Rik 62.1–62.9 complete; Rik 62.10 — Saṃhitā, Pada, bhāṣya (with its grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 49, breaking off at *duvasyanti*, "laṭ, third person …"). Next: p. 50 (PDF 68), the grammar page of Rik 62.10 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the dense grammar of *ahrayāṇam* in the 62.10 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
