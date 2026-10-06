@@ -2452,4 +2452,57 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–115 done (PDF 19–133): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.5 complete; Rik 64.6 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 115, breaking off at "utso meghaḥ | śaṃ…"). Next: p. 116 (PDF 134), the bhāṣya of Rik 64.6 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.5 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin note (p. 107) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 116 (PDF 134)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāṣya (concluded).** The page begins with "…[*taṃ* — read as printed *śaṃ*, doubtful, ?] *duhanti | riktīkurvanti ||*" — the sentence of p. 115 closes: "…*utso meghaḥ | taṃ [meghaṃ] duhanti | riktīkurvanti*" ("the cloud is *utsa*; they milk it, i.e. they empty it").
+
+> **सुदानवः । सुप्रत्ययान्तो दानुशब्द आद्युदात्तः । बहुव्रीहावाद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वम् । मिहे । मिह सेचने । सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तिरुदात्ता । स्तनयन्तम् । स्तन शब्दे । चुरादिरदन्तः । अतो लोपस्य स्थानिवद्भावाद्वृद्ध्याद्यभावः ॥**
+> *sudānavaḥ | supratyayānto dānuśabda ādyudāttaḥ | bahuvrīhāv ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvam | mihe | miha secane | sampadādilakṣaṇo bhāve kvip | sāv ekāca iti vibhaktir udāttā | stanayantam | stana śabde | curādir adantaḥ | ato lopasya sthānivadbhāvād vṛddhyādyabhāvaḥ ||*
+> *"**Sudānavaḥ**: the word *dānu* ending in the Uṇādi affix has the initial acute; in the *bahuvrīhi*, by 'dvyac chandasi' the initial acute of the latter member. **Mihe**: root *miha secane*; the affix *kvip* in the sense of *bhāva*, of the *sampadādi* type; by 'sāv ekāca' the case-ending is acute. **Stanayantam**: root *stana śabde*, of the *curādi* class, ending in *a*; since the loss of the *a* is treated as the original, *vṛddhi* etc. do not come."*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**सुदानवः** — good givers; **मरुतः** — the Marut deities; **पयः** — like milk, since full of essence; **अपः** — water; **आभुवः** — the priests; **विदथेषु** — in sacrifices; **घृतवत्** — like ghee; **पिन्वन्ति** — they sprinkle; **अत्यं न** — like a horse (which they take under their control by training it for battle); **वाजिनम्** — the swift [moving] cloud; **मिहे** — for the sake of raining; **वि नयन्ति** — they bring under control; **स्तनयन्तम्** — the thundering; **अक्षितम्** — inexhaustible; **उत्सम्** — the cloud; **दुहन्ति** — they milk (they cause the rain to pour).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The Marut deities, good givers, bring under their control the swiftly moving, thundering clouds, as one brings horses under control for battle; and as the priests sprinkle ghee in sacrifices, they sprinkle on the earth, as rain, water rich in sap like milk.
+
+**English Translation** *(the source's own, as printed):*
+
+> The munificent Maruts scatter the nutritious water as priests, at sacrifices, the clarified butter ; as grooms lead forth a horse, they bring forth, for its rain, the fleet-moving cloud, and milk it, thundering, and unexhausted.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+"At the time of reciting the mantras of the Marutvatīya śastra, this Ṛk '*pinvanty apaḥ*' is to be used as a *dhāyyā* mantra: this is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*agnir netā tvaṃ soma kratubhiḥ pinvanty apa iti dhāyyāḥ*' (Ā. 5-[14], as read)."
+
+- **सुदानवः** (*sudānavaḥ*) — *śobhanadānāḥ* — "those whose nature is to do good to many."
+
+---
+
+### Page 117 (PDF 135)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **आभुवः** (*ābhuvaḥ*) — *ābhavantīty ābhuvaḥ | ṛtvijaḥ* — "Sāyaṇa has explained the meaning as 'priests'. Skandasvāmin states it as an adjective of the word *marutaḥ*, since this word is [read] among the names of 'great'."
+- **पयः घृतवत् पिन्वन्ति** — *kṣīravat sāravatīḥ apaḥ siñcanti* — "the Marut deities pour out, in the form of rain, water that is tasty like milk and full of sap. Skandasvāmin explains that [in this way], in the regions where sacrifices are performed, cows too yield a great deal of milk by the means of the rain."
+- **अत्यं न मिहे** — "*atya* is a word for 'horse'; *miha secane*. As one takes a horse here and there to wash it in water, the Marut deities keep the swiftly moving cloud under their control for the sake of rain."
+- **विदथेषु घृतवत्** — *yathā ghṛtaṃ siñcanti evaṃ maruto 'pi vṛṣṭiṃ kurvanti* — "the word *vidatha* is read among the fifteen names of 'sacrifice' beginning *venaḥ* (Ni. [3-19?, ?]). As ghee is poured into the fire in a sacrifice, so the Marut deities pour out rain-water, in a stream, as rain."
+- **उत्सम्** (*utsam*) — *utsavanty asmād āpa ity utso meghaḥ* — "because water streams forth abundantly [from it], the cloud has the name *utsa*. Skandasvāmin says: '*utsaśabdo 'tra meghavacanaḥ*' — 'the word *utsa* here denotes a cloud', and gives as an example '*utsam*' (Ṛk. Saṃ. 5-[32]-1, as read, ?)."
+- **वाजिनम्** (*vājinam*) — "*vājam iti apitam api balanāma vegavacanaṃ vā | upamānabhūtasya cātyasyedaṃ viśeṣaṇaṃ balavantaṃ vegavantaṃ vā aśvam iva | athavā vāja ity annanāma | iha ca tatkāraṇatvād vṛṣṭilakṣaṇe udake pravṛttam | idaṃ meghasya viśeṣaṇam | vṛṣṭyudakavantam ity arthaḥ*" (so says Skandasvāmin) — "The word *vāja* is not read among the names of strength, but *vāja* means 'strength'. This word is an adjective of the word *atya*, which means 'horse'; the horse that is the *upamāna* [the thing compared], so that [the sense is] 'a horse that is strong, or swift'. This word [as the *upameya*] being an adjective, the cloud is strong, or swift. Or: the word *vāja* is read among the names of 'food'; since that [food] arises from it [rain], here it is used for water in the form of rain… *(continues on p. 118)*"
+
+---
+
+### Page 118 (PDF 136)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Special Topics (concluded; Kannada).** "…the meaning 'rain-water, which is the cause [of food]' arises from this word. Since this word is an adjective of the word 'cloud', it means that the cloud is a possessor of rain-water."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.6 (begins; noted briefly).** **सुदानवः**: "those whose *dāna* (gift) is beautiful" = *sudānavaḥ*; root *ḍudāñ dāne*; the Uṇādi affix *nu*; by exchange the word *dānu* has the initial acute; as a *bahuvrīhi*, by "ādyudāttaṃ dvyac chandasi" (Pā. Sū. 6-2-119, as read) the initial acute of the latter member. **घृतवत्**: "like it, if the action is equal" — the affix *vati* by "tena tulyaṃ kriyā ced vatiḥ" (Pā. Sū. 5-1-115, as read). **आभुवः**: "they come into being (*ā bhavanti*)" = *ābhuvaḥ*; the affix *kvip* after the root *bhū* by "kvip ca" (Pā. Sū. 3-2-76, as read); the word *bhū*; by "na bhūsudhiyoḥ" (Pā. Sū. 6-4-85, as read), the *yaṇ* is prevented, so the *uvaṅ* substitute comes. **मिहे**: root *miha secane*; since it belongs to the *sampadādi* group, the affix *kvip* by "sampadādibhyaḥ kvip"; everything being lost there, the word *mih*; in the dative, *mihe*; by "sānvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168, as read) the ending is acute, since it follows a one-syllable word. **नयन्ति**: root *ṇīñ prāpaṇe*; of the *bhvādi* class, the form in the plural of the *laṭ* is *nayanti*; the *nighāta* accent, since it follows a non-verbal word. **स्तनयन्तम्**: root *stana śabde*; of the *curādi* class, ending in *a*; so by "satyāpapāśarūpavīṇā…" the *ṇic* in the sense of the root itself; the *a* is lost by "ato lopaḥ"; by "acaḥ parasmin pūrvavidhau" the *sthānivadbhāva* arises, so that the *vṛddhi* of the penultimate and the other operations that would arise on account of *ṇic* do not come; to the *ṇic*-ending stem *stanayi*, in the sense of the *laṭ*, the affix *śatṛ*; the *śap* by "kartari śap"; because of that, *guṇa* for the *i* of *ṇic*, the *ay*-substitute; *pararūpa* by "ato guṇe"; the word *stanayat*; the *śap*, being *p*-marked, is unaccented; since the *laṭ*-sārvadhātuka (*śatṛ*) is after a stem accented by the *upadeśa*, by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186, as read) it is unaccented; in the accusative singular, since *ugit*, the *num* augment: *stanayantam* *(continues on p. 119)*.
+
+---
+
+**Progress note:** Printed pp. 1–118 done (PDF 19–136): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.5 complete; Rik 64.6 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 118, ending at *stanayantam*). Next: p. 119 (PDF 137), the grammar page of Rik 64.6 concludes; then Rik 64.7. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.5 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
