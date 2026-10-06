@@ -2326,4 +2326,67 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–109 done (PDF 19–127): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.3 complete; Rik 64.4 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 109, ending after *vapuṣe*). Next: p. 110 (PDF 128), the Special Topics of Rik 64.4 continue; then its grammar page; then Rik 64.5. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.4 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin note (p. 107) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 110 (PDF 128)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **चित्रैः अञ्जिभिः** — *rūpābhivyañjanasamarthair ābharaṇaiḥ* — "with ornaments such as arrangements by which the form is made to look well; these ornaments are of many kinds."
+- **रुक्मान्** (*rukmān*) — *rocamānān hārān* — "necklaces that shine, having lustre."
+- **अधि येतिरे** (*adhi yetire*) — *upari cakrire* — "the Marut deities, with the intention that the beauty of their bodies should be well seen by all, wear ornaments of many kinds, shining with much lustre; they wear necklaces on the regions of the chest."
+- **नरः** (*naraḥ*) — *netāro marutaḥ* — "the Marut deities who bring the sacrificers who rely on them to the right path."
+- **स्वधया** (*svadhayā*) — *svakīyena balena* — "by their own strength: the meaning is that they appeared of themselves."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.4 (noted briefly).** **व्यञ्जते**: root *añjū vyaktimrakṣaṇakāntigatiṣu*; *laṭ*, third person plural; the *nighāta* accent of a verb. **येतिरे**: root *yatī prayatne*; for the third person plural of the *liṭ*, the substitute *ire* by "liṭas tajhayor eśirec" (Pā. Sū. 3-4-81, as read); on account of *liṭ*, the doubling of the root; in the reduplicative syllable, only the first consonant remains; with *yayat + ire*, by "ata ekahalmadhye 'nādeśāder liṭi" (Pā. Sū. 6-4-120, as read), since the *a* stands between single consonants, the root's *a* takes *e* and the reduplicative syllable is lost; the form *yetire*; the *nighāta* accent. **शुभे**: root *śubha dīptau*; since it belongs to the *sampadādi* group, the affix *kvip* by "sampadādibhyaḥ kvip" (Vārttika on Pā. 3-3-108, as read); the word *śubh*; in the dative singular the form *śubhe*; by "sānvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168, as read) the case-ending receives the acute. **मिमृक्षुः**: root *mṛjūṣ śuddhau*; in the sense of wishing, *san* by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā"; since the root is *ūdit* the *iṭ* augment does not come before *san*; by "halantāc ca" (Pā. Sū. 1-2-10, as read) *san* after a root ending in a consonant, with a *jhal* after the *ṛ*… becomes *k*-marked, so no *laghūpadha-guṇa*; by "sanyaṅoḥ" the doubling *(continues on p. 111)*.
+
+---
+
+### Page 111 (PDF 129)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 64.4, concluded (noted briefly).** **मिमृक्षुः** *(concluded)*: in the reduplicative syllable the first consonant remains; by "urat" (Pā. Sū. 7-4-66, as read) *a* for the *ṛ*, then "halādiśeṣa"; with *mimṛj + sa*, by "sanyataḥ" (Pā. Sū. 7-4-79, as read) *i* in the reduplicative syllable; the *j* of the root becomes *k* by "coḥ kuḥ", and by "khari ca" the *cartva* [giving *k*]; since a *k* now precedes, the *s* of *san* becomes *ṣ* by "ādeśapratyayayoḥ", and with the *k* it forms *kṣ*; the stem *mimṛkṣa* receives the root-designation by "sanādyantā dhātavaḥ"; in the *liṭ*'s plural, the *us* [in place of *jhi*], to which (the *liṭ*) the *ārdhadhātuka* designation applies; by "āto lopaḥ" [as read] the loss of the *a* of *san*; the form *mimṛkṣuḥ*; the *nighāta* accent of a verb. **जज्ञिरे**: root *janī prādurbhāve*; in the *liṭ*, the substitute *ire* for *jhi*; on account of *liṭ* the doubling of the root; in the reduplicative syllable only the first consonant remains; by "gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi" (Pā. Sū. 6-4-98, as read) the loss of the root's penultimate; the form *jajñire*; by "tiṅ atiṅaḥ" the *nighāta* accent. **दिवः**: by "ūḍidaṃpadādyappumraidyubhyaḥ" (Pā. Sū. 6-1-171, as read) the case-ending receives the acute. **॥ ४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.4 ends here (ornamental rule).*
+
+#### Rik 64.5
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **ईशानकृतो धुनयो रिशादसो वातान्विद्युतस्तविषीभिरक्रत ।**
+> **दुहन्त्यूधर्दिव्यानि धूतयो भूमिं पिन्वन्ति पयसा परिज्रयः ॥ ५ ॥**
+> *īśānakṛto dhunayo riśādaso vātān vidyutas taviṣībhir akrata |*
+> *duhanty ūdhar divyāni dhūtayo bhūmiṃ pinvanti payasā parijrayaḥ || 5 ||*
+
+**॥ पदपाठः ॥ — Pada text** *(begins; continues on p. 112)*
+
+> **ईशानऽकृतः । धुनयः । रिशादसः । वातान् । विऽद्युतः । तविषीभिः ।**
+> **अक्रत ।**
+> *īśāna-kṛtaḥ | dhunayaḥ | riśādasaḥ | vātān | vi-dyutaḥ | taviṣībhiḥ |*
+> *akrata |*
+
+---
+
+### Page 112 (PDF 130)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**॥ पदपाठः ॥ — Pada text of Rik 64.5 (concluded)**
+
+> **दुहन्ति । ऊधः । दिव्यानि । धूतयः । भूमिम् । पिन्वन्ति । पयसा । परिऽज्रयः ॥ ५ ॥**
+> *duhanti | ūdhaḥ | divyāni | dhūtayaḥ | bhūmim | pinvanti | payasā | pari-jrayaḥ || 5 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **ईशानकृतः स्तोतारमीशानं धनाधिपतिं कुर्वाणा धुनयो मेघादीनां कम्पयितारो रिशादसो रिशानां हिंसकानामत्तारः । यद्वा रिशतां हिंसतामसितारो निरसितारः । एवंभूता मरुतस्तविषीभिरात्मीयैर्बलैर्वातान् पुरोवातादीन् विद्युतो विद्योतमानास्तडितश्चाक्रत । कुर्वन्ति । कृत्वा च परिज्रयः परितो गन्तारो धूतयः कम्पयितारो मरुतो दिव्यानि दिविभवान्यूधःस्थानीयान्यभ्राणि [?] दुहन्ति । रिक्तीकुर्वन्ति । जलरहितानि कुर्वन्तीत्यर्थः । तदनन्तरं भूमिं पयसा मेघान्निर्गतेनोदकेन जलेन पिन्वन्ति । सिञ्चन्ति ॥ रिशादसः । रिश हिंसायाम् । इगुपधलक्षणः कः । रिशन्ति हिंसन्तीति रिशाः शत्रवः । तानदन्तीति रिशादसः । असुन् । नित्त्वाद्याद्युदात्तत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । यद्वा । रिशच्च ब्बाच्च असृ [?] क्षेपण इत्यस्मात् क्विप् । व्यत्ययेन पूर्वपदस्योपधादीर्घः । अन्तोदात्तत्वं च । अक्रत । करोतेश्छान्दसो वर्तमाने लुङ् । मन्त्रे घसेति च्लेर्लुक् । ऊधः । सुपां सुलुगिति विभक्तेर्लुक् ॥**
+> *īśānakṛtaḥ stotāram īśānaṃ dhanādhipatiṃ kurvāṇā dhunayo meghādīnāṃ kampayitāro riśādaso riśānāṃ hiṃsakānām attāraḥ | yadvā riśatāṃ hiṃsatām asitāro nirasitāraḥ | evaṃbhūtā marutas taviṣībhir ātmīyair balair vātān purovātādīn vidyuto vidyotamānās taḍitaś cākrata | kurvanti | kṛtvā ca parijrayaḥ parito gantāro dhūtayaḥ kampayitāro maruto divyāni divibhavāny ūdhaḥsthānīyāny abhrāṇi [?] duhanti | riktīkurvanti | jalarahitāni kurvantīty arthaḥ | tadanantaraṃ bhūmiṃ payasā meghān nirgatenodakena jalena pinvanti | siñcanti || riśādasaḥ | riśa hiṃsāyām | igupadhalakṣaṇaḥ kaḥ | riśanti hiṃsantīti riśāḥ śatravaḥ | tān adantīti riśādasaḥ | asun | nittvād ādyudāttatvam | kṛduttarapadaprakṛtisvaratvam | yadvā | riśac ca bbāc ca asṛ [?] kṣepaṇa ity asmāt kvip | vyatyayena pūrvapadasyopadhādīrghaḥ | antodāttatvaṃ ca | akrata | karoteś chāndaso vartamāne luṅ | mantre ghaseti cler luk | ūdhaḥ | supāṃ sulug iti vibhakter luk ||*
+> *"**Īśānakṛtaḥ** — making the praiser a lord (*īśāna*), a master of wealth; **dhunayaḥ**, shakers of the clouds and the like; **riśādasaḥ**, devourers of the *riśas* — the harmers; or, the throwers-out, the casters-out, of those who harm. The Maruts, such as these, **taviṣībhiḥ**, by their own strengths, **vātān**, winds (the east wind and the rest), **vidyutaḥ**, flashing lightnings, **akrata**, make. And having made [them], **parijrayaḥ**, going in all directions, **dhūtayaḥ**, shakers, the Maruts **duhanti**, milk **divyāni** — the clouds in the sky, which stand for udders (**ūdhaḥ**) [reading doubtful, ?] — empty them, make them free of water; and then they **pinvanti**, sprinkle, **bhūmim**, the earth, **payasā**, with the water that has come out of the clouds. **Riśādasaḥ**: root *riśa hiṃsāyām*; the affix *ka* for roots with *ik* in the penultimate; 'those that harm' are *riśāḥ*, enemies; 'those who eat them' are *riśādasaḥ*; the affix *asun*; initial-acute because *n*-marked; the accent of the latter member of a *kṛdanta*. Or [with the other analysis, the sentence being corrupt in the print, ?] … the affix *kvip*; by exchange the lengthening of the penultimate of the first member; and the final acute. **Akrata**: the *luṅ* of the root *kṛ*, in the Vedic sense of the present; the *luk* of *cli* by 'mantre ghasa…'. **Ūdhaḥ**: the *luk* of the case-ending by 'supāṃ sulug…'."* *(Grammar tail characterized; the clause on the second analysis of *riśādasaḥ* is corrupt in the print [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**ईशानकृतः** — those who make the praiser lord of wealth; **धुनयः** — those who cause clouds and the like to shake; **रिशादसः** — devourers (destroyers) of the harmful, the Maruts; **तविषीभिः** — by their own strength; **वातान्** — the *purovāta* [east winds] and the like; **विद्युतः** — the lightnings; **अक्रत** — they made; **परिज्रयः** — those who move in all directions; **धूतयः** — those who cause trembling (the Marut deities); **दिव्यानि** — [those] in the atmosphere; **ऊधः** — the clouds that are like udders; **दुहन्ति** — they milk; **भूमिम्** — the earth; **पयसा** — with water (that has come from the cloud); **पिन्वन्ति** — they sprinkle.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada; begins, continues on p. 113).* The Marut deities make those who praise them rich; they slay the harmful; and they make all things tremble. They shake the clouds, …
+
+---
+
+**Progress note:** Printed pp. 1–112 done (PDF 19–130): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.4 complete; Rik 64.5 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha and the start of the Bhāvārtha (p. 112, breaking off at "They shake the clouds, …"). Next: p. 113 (PDF 131), the Bhāvārtha of Rik 64.5 concludes; then the source's English, Special Topics and grammar. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.5 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin note (p. 107) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
