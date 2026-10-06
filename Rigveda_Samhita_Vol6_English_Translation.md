@@ -2642,4 +2642,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–124 done (PDF 19–142): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.7 complete; Rik 64.8 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 124, ending at *piśā iva supiśaḥ*). Next: p. 125 (PDF 143), the Special Topics of Rik 64.8 continue; then its grammar page; then Rik 64.9. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5 and 64.7 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 125 (PDF 143)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (continued and concluded; Kannada).**
+
+- **पिशा इव सुपिशः** *(concluded)* — "…as the deer are adorned with the white spots on their bodies, so these Marut deities have bodies adorned with beautiful ornaments, well seen; or, by their very nature, they have well-seen, auspicious bodies."
+- **शवसा अहिमन्यवः** — *balena ahananaśīlamanyuyuktāḥ | yadvā mananaṃ jñānaṃ manyuḥ | ahīnajñānāḥ utkṛṣṭabuddhayaḥ* — "those whose anger has the nature of slaying by strength; those on whom anger has come, these [Maruts], by their own power, have the nature of subduing [them] — this is one meaning. Since the word *manyu* has the sense of 'knowledge', [it is] 'those with a great deal of knowledge'; 'those of excellent understanding' — this is another meaning."
+- **पृषतीभिः ऋष्टिभिः सबाधः** — *pṛṣatya iti marutāṃ vāhanasyākhyā | pṛṣatyaḥ śvetair bindubhir aṅkitā mṛgya itihāsikāḥ | nānāvarṇā meghamālā iti nairuktāḥ | tābhir āyudhaiś ca sahitāḥ śatrubhir bādhitān yajamānān yugapad eva rakṣitum āgacchantīty arthaḥ* — "the Paurāṇikas say that the female deer marked with white spots has the name *pṛṣatī*; the Nighaṇṭu-writers say that the cloud-chain of many colours is called *pṛṣatī*. The Marut deities, making *pṛṣatī* — the deer or the cloud-chain — their vehicle, and bearing weapons, come at the same moment to protect the sacrificers oppressed by enemies."
+- *Skandasvāmin* on **पिशा इव सुपिशः** — *agnaya iva surūpāḥ* — "the Marut deities are of forms like fires"; on **क्षपः जिन्वन्तः नानदति** — *udakaṃ meghāt saṃsrāvayantaḥ nānadati* — "making the water stream from the clouds, they sound loudly."
+- *Skandasvāmin* on **अहिमन्यवः** — *avinaṣṭadīptayaḥ | dīptimantaḥ | athavā ahīnadīptayaḥ utkṛṣṭadīptayaḥ | athavā ahir megho 'suro vā tadviṣayaḥ krodho yeṣāṃ te* — "'those of undestroyed splendour', 'luminous'; or 'those of undiminished splendour, of surpassing splendour'; or [*ahi* being] 'cloud' or 'asura' — those whose anger concerns that: this is how he explains the word *ahimanyavaḥ*; and since the word *ahi* denotes the cloud or an asura called *Ahi*, 'the Marut deities have anger in the matter of these clouds or the asura' — another sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.8 (begins; noted briefly).** **सिंहा इव**: root *hisi hiṃsāyām*; since *idit*, the *num* augment; the affix *ac*; since it belongs to the *pṛṣodarādi* group, an exchange of letters takes place; by "citaḥ" the final acute *(continues on p. 126)*.
+
+---
+
+### Page 126 (PDF 144)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.8, concluded (noted briefly).** **नानदति**: root *nada avyakte śabde*; in the sense of intensity, *yaṅ*; its *luk* by "yaño 'ci ca"; by "sanyaṅoḥ" the doubling of the root; in the reduplicative syllable only the first consonant remains; the lengthening of the reduplicative syllable by "dīrgho 'kitaḥ" (Pā. Sū. 7-4-83, as read); the *laṭ* after the *yaṅluk*-ending stem *nānad*; in the third person plural, the ending *jhi*, the substitute *at* by "adabhyastāt" (Pā. Sū. 7-1-4, as read): *nānadati*; the *nighāta* accent of a verb. **पिशा इव**: root *piśa avayave*; by "igupadhajñāprīkiraḥ kaḥ" (Pā. Sū. 3-1-135, as read) the affix *ka*; since *k*-marked, no *laghūpadha-guṇa*; in the plural, *piśāḥ*. **सुपिशः**: from the root *piśa* (*avayave*) preceded by *su*, the affix *kvip*; the word *supiś*; the plural form; the accent of the first member by "gatikārakopapadāt kṛt". **विश्ववेदसः**: in a *bahuvrīhi*, by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member. **जिन्वन्तः**: root *jivi prīṇane*; by "idito num dhātoḥ" the *num* augment; in the sense of *laṭ*, the affix *śatṛ*; the vikaraṇa *śap*; the word *jinvat*; since *śatṛ* [stands] after a stem accented by the *upadeśa*, by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" it is unaccented; *śap*, being *p*-marked, is unaccented; the root's accent remains; in the plural the *num* augment comes: *jinvantaḥ*. **पृषतीभिः**: root *pṛṣu secane*; in the present sense, by "pṛṣadbṛhanmahaj jagacchatṛvac ca" (Uṇ. Sū. 2-[84], as read) it is established by *nipātana*; since the *śatṛ*-likeness has been stated, when the feminine is intended, by "ugitaś ca" the affix *ṅīp* comes: *pṛṣatī*; in the instrumental plural, though by "śaturanumo nadyajādī" (Pā. Sū. 6-1-173, as read) the *nadī* [ending] would have the acute because of the *śatṛ*-likeness, by the restriction of "bṛhanmahator upasaṅkhyānam" [the rule applying to the two words only], the acute does not come; by the root's accent the word has the initial acute. **अहिमन्यवः**: in a *bahuvrīhi* compound the accent of the first member is kept. **॥ ८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.8 ends here (ornamental rule).*
+
+---
+
+### Page 127 (PDF 145)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+#### Rik 64.9
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(the print gives the consonant as "va" throughout, e.g. "vandhureṣu"; the bhāṣya's "bandha…" shows it is *bandhura*; I give the Devanagari as "बन्धुरेषु" in the Saṃhitā and Pada, and keep the printed *va* in the transliteration marked [sic?])*
+
+> **रोदसी आ वदता गणश्रियो नृषाचः शूराः शवसाहिमन्यवः ।**
+> **आ बन्धुरेष्वमतिर्न दर्शता विद्युन्न तस्थौ मरुतो रथेषु वः ॥ ९ ॥**
+> *rodasī ā vadatā gaṇaśriyo nṛṣācaḥ śūrāḥ śavasāhimanyavaḥ |*
+> *ā vandhureṣv amatir na darśatā vidyun na tasthau maruto ratheṣu vaḥ || 9 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **रोदसी इति । आ । वदत । गणऽश्रियः । नृऽसाचः । शूराः । शवसा । अहिऽमन्यवः ।**
+> **आ । बन्धुरेषु । अमतिः । न । दर्शता । विऽद्युत् । न । तस्थौ । मरुतः । रथेषु । वः ॥ ९ ॥**
+> *rodasī iti | ā | vadata | gaṇa-śriyaḥ | nṛ-sācaḥ | śūrāḥ | śavasā | ahi-manyavaḥ |*
+> *ā | vandhureṣu | amatiḥ | na | darśatā | vi-dyut | na | tasthau | marutaḥ | ratheṣu | vaḥ || 9 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 128)*
+
+> **हे गणश्रियो गणशः श्रयमाणाः सप्तगणरूपेणावस्थिता नृषाचो नॄन्यजमानान्वीक्षीकरणाय सेवमानाः [?] शूराः शौर्योपेता एवंभूता हे मरुतः शवसा बलेनाहिमन्यव अहननस्वभावकोपयुक्ताः सन्तो रोदसी द्यावापृथिव्यावा वदत । आ समन्ताच्छब्दयत । युष्मदागमने सति भवदीयशब्देन द्यावापृथिव्यौ पूर्णे कुरुतेति भावः । किंच हे मरुतो वो युष्माकं तेजो बन्धुरेषु । बन्धुकाष्ठानिर्मितं सारथेः स्थानं बन्धुरमित्युच्यते । तद्युक्तेषु रथेषु आ तस्थौ । अतिष्ठति । अवस्थितं सत्सर्वैर्दृश्यते । तत्र दृष्टान्तद्वयमुच्यते । अमतिर्न । अमतिरिति रूपनाम । यथा निर्मलं रूपं सर्वैर्दृश्यते । दर्शता विद्युन्न । यथा वा दर्शनीया विद्युन्मेघस्था सर्वैर्दृश्यते । एवं रथे स्थितानां युष्माकं ज्योतिरपि**
+> *he gaṇaśriyo gaṇaśaḥ śrayamāṇāḥ saptagaṇarūpeṇāvasthitā nṛṣāco nṝn yajamānān vīkṣīkaraṇāya sevamānāḥ [?] śūrāḥ śauryopetā evaṃbhūtā he marutaḥ śavasā balenāhimanyava ahananasvabhāvakopayuktāḥ santo rodasī dyāvāpṛthivyāv ā vadata | ā samantāc chabdayata | yuṣmadāgamane sati bhavadīyaśabdena dyāvāpṛthivyau pūrṇe kuruteti bhāvaḥ | kiñca he maruto vo yuṣmākaṃ tejo bandhureṣu | bandhukāṣṭhānirmitaṃ sārathes sthānaṃ bandhuram ity ucyate | tadyukteṣu ratheṣu ā tasthau | atiṣṭhati | avasthitaṃ sat sarvair dṛśyate | tatra dṛṣṭāntadvayam ucyate | amatir na | amatir iti rūpanāma | yathā nirmalaṃ rūpaṃ sarvair dṛśyate | darśatā vidyun na | yathā vā darśanīyā vidyun meghasthā sarvair dṛśyate | evaṃ rathe sthitānāṃ yuṣmākaṃ jyotir api*
+> *"O **gaṇaśriyaḥ**, you who resort [to us] in troops, established in the form of seven troops, **nṛṣācaḥ**, serving the men, the sacrificers, in order to look on [them with favour, the reading doubtful, ?], **śūrāḥ**, endowed with heroism: O Maruts, such as you are, **śavasā**, with strength, **ahimanyavaḥ**, possessing an anger of slaying nature, **rodasī**, heaven and earth, **ā vadata** — sound all around: the thought is that when you come, you fill heaven and earth with your sound. And further, O Maruts, **vaḥ**, your splendour **ā tasthau** has taken its stand **bandhureṣu** — *bandhura* is called the driver's place made of *bandhu* wood [as read, ?] — in the chariots fitted with it; it is seen by all, standing. Two examples are given here: **amatir na** — *amati* is a word for 'form': as a spotless form is seen by all; or **darśatā vidyun na** — as the beautiful lightning, set in the cloud, is seen by all; so too the light of you, standing in the chariots, …"* *(the bhāṣya breaks off at "jyotir api" and continues on p. 128.)*
+
+---
+
+**Progress note:** Printed pp. 1–127 done (PDF 19–145): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.8 complete; Rik 64.9 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 127, breaking off at "jyotir api"). Next: p. 128 (PDF 146), the bhāṣya of Rik 64.9 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7 and 64.9 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
