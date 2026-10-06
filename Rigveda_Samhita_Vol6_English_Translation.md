@@ -452,6 +452,74 @@ Then the source closes the list: "These are the ṛks in which the word occurs. 
 
 *(Only legible rule-names are given; the sūtra numbers were not chased [?]. This grammar page ends Rik 62.3's Special Topics' tail; the next printed page should begin Rik 62.4.)*
 
+### Page 20 (PDF 38)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62".)*
+
+**Grammar page for Rik 62.3 (Vyākaraṇa-prakriyā, continued; noted briefly).** Words treated, in order: **सरमा** (*saramā*; Nirukta cited with "सरमा सरणात्" [numerals 11-?, read doubtfully]; root *sṛ gatau*, Uṇādi affix *ama*, *ṭāp* in the feminine); **धासिम्** (*dhāsim*; root *dhe pāne* [or *ḍudhāñ dhāraṇapoṣaṇayoḥ*], Uṇādi *si*; the *ātva* by "ādeca upadeśe 'śiti" [Pā. Sū. 6-1-45, number as read, tentative]); **बृहस्पतिः** (*bṛhaspatiḥ*; the *suṭ* augment of *bṛhat* before *pati* "tadbṛhatoḥ karapatyoś corudevatayoḥ suṭ taluk ca" [Pā. Sū. 6-1-157?, [?]]; the accent, the source recalls, is *ādyudātta* by *ḍati*-ending, and in compound "ubhe vanaspatyādiṣu" [6-2-140, [?]]); **उस्रियाभिः** (*usriyābhiḥ*; root *vas nivāse*, Uṇādi *rak*, saṃprasāraṇa by "vacisvapiyajādīnāṃ kiti" [Pā. Sū. 6-1-15, [?]]; the Nighaṇṭu note *ghapratyaya*; the feminine ending *ghā ... iyādeśa*); **वावशन्ते** (*vāvaśante*; root *vaś kāntau* / *vāś śabde*, the doubling of the root "yaṅ" formation, "ātolopaḥ", "yasya hal"). *Grammar page, noted briefly; only the rule-names legible at 150 dpi are given, and sūtra numbers are read from the small print with doubt.*
+
 ---
 
-**Progress note:** Printed pp. 1–19 done (PDF 19–37): Rik 62.1–62.2 complete; Rik 62.3 complete through its Special Topics (Saramā and the Paṇis; Ṛ. Saṃ. 10-14-10, 11; 10-108-1 to 11; the Paṇi word-list on pp. 18–19, reference numerals not reproduced) and the short grammar note on p. 19. Next: p. 20 (PDF 38), expected to start Rik 62.4. Open flags: Nirukta numbers [?]; reference numerals on pp. 15–19 [?]; grammar notes on pp. 13–14 and 19 are summaries; verse readings on p. 16 as printed with a few [?]; glosses tentative.
+### Page 21 (PDF 39)
+
+*(Header: left "A. 1 A. 5 Va. 1" [numerals small, tentative], centre "Ṛgvedasaṃhitā".)*
+
+The page opens with the last lines of the grammar note for the preceding word (the *Aṭ* augment is not added, by "bahulaṃ chandasy māṅyoge 'pi"; the pāda-initial and "ati-ṅanta" accent remarks), ending "॥ 3 ॥" — i.e. the end of Rik 62.3.
+
+*(Printer's ornament.)*
+
+#### Rik 62.4
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (with the print's accent marks, not reproduced here; the Kannada accent-signs were not converted)
+
+> **स सुष्टुभा स स्तुभा सप्त विप्रैः स्वरेणाद्रिं स्वर्यो नवग्वैः ।**
+> **सरण्युभिः फलिगमिन्द्र शक्र वलं रवेण दरयो दशग्वैः ॥ ४ ॥**
+> *sa suṣṭubhā sa stubhā sapta vipraiḥ svareṇādriṃ svaryo navagvaiḥ |*
+> *saraṇyubhiḥ phaligam indra śakra valaṃ raveṇa darayo daśagvaiḥ || 4 ||*
+
+(Printed first line reads "सः सुष्टुभा सः स्तुभा" i.e. *saḥ suṣṭubhā saḥ stubhā* before sandhi, in the Pada.)
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सः । सुऽस्तुभा । सः । स्तुभा । सप्त । विप्रैः । स्वरेण । अद्रिम् । स्वर्यः । नवऽग्वैः ।**
+> **सरण्युऽभिः । फलिऽगम् । इन्द्र । शक्र । वलम् । रवेण । दरयः । दशऽग्वैः ॥ ४ ॥**
+> *saḥ | su-stubhā | saḥ | stubhā | sapta | vipraiḥ | svareṇa | adrim | svaryaḥ | nava-gvaiḥ |*
+> *saraṇyu-bhiḥ | phali-gam | indra | śakra | valam | raveṇa | darayaḥ | daśa-gvaiḥ || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** (begins; continues on p. 22)
+
+> **अङ्गिरसो द्विविधाः । सत्रयोगमनुतिष्ठन्तो ये नवभिर्मासैः समाप्य गतास्ते नवग्वाः ॥ नवग्वा नवनीतगतय इति यास्को व्याचष्टे । नि. ११-१९ । ये तु दशभिर्मासैः समाप्य जग्मुस्ते दशग्वाः । तादृशैरुभयविधैर्विप्रैर्मेधाविभिः**
+> *aṅgiraso dvividhāḥ | satrayogam anutiṣṭhanto ye navabhir māsaiḥ samāpya gatās te navagvāḥ || navagvā navanītagataya iti yāsko vyācaṣṭe | ni. 11-19 [?] | ye tu daśabhir māsaiḥ samāpya jagmus te daśagvāḥ | tādṛśair ubhayavidhair vipraiḥ medhāvibhiḥ*
+> *"The Aṅgirases are of two kinds. Those who, pursuing a sacrificial session (satra), completed it in nine months and departed are the **navagvas**. Yāska explains 'navagvas' as 'those whose going is as of fresh butter' (Nirukta 11-19 [?]). But those who completed it in ten months and departed are the **daśagvas**. By such wise sages (vipras) of both kinds —"*
+
+(The sentence runs on to the next page. The Nirukta numerals are small [?].)
+
+---
+
+### Page 22 (PDF 40)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62".)*
+
+**Bhāṣya (continued).** The page is one dense block of Sanskrit in Kannada script. I give the main sense in three layers and *characterize* the grammatical tail, naming the words treated.
+
+> **सरण्युभिः सरणं शोभनां गतिमिच्छद्भिः । सप्त सप्तसंख्याकैः । सप्त ह्यत्र मेधातिथिप्रभृतयोऽङ्गिरसो दृश्यन्ते । एवंभूतैरङ्गिरोभिः सुष्टुभा शोभनस्तोभयुक्तेन स्वरेणोदात्तादिश्रव्यस्वरोपेतेन । यद्वा मन्द्रमध्यमादिस्वरेण स्तुभा स्तोत्रेण स्वर्यः सुष्ठु प्राप्यः । यद्वा शब्दनीयः । स्तुत्य इत्यर्थः । हे शक्र शक्तिमन्निन्द्र एवंभूतः स त्वमद्रिमादरणीयं वज्रेण छेत्तव्यमित्यर्थः ।**
+> *saraṇyubhiḥ saraṇaṃ śobhanāṃ gatim icchadbhiḥ | sapta saptasaṃkhyākaiḥ | sapta hy atra medhātithiprabhṛtayo 'ṅgiraso dṛśyante | evaṃbhūtair aṅgirobhiḥ suṣṭubhā śobhanastobhayuktena svareṇodāttādiśravyasvaropetena | yadvā mandramadhyamādisvareṇa stubhā stotreṇa svaryaḥ suṣṭhu prāpyaḥ | yadvā śabdanīyaḥ | stutya ity arthaḥ | he śakra śaktimann indra evaṃbhūtaḥ sa tvam adrim ādaraṇīyaṃ vajreṇa chettavyam ity arthaḥ |*
+> *"**saraṇyubhiḥ** — by those desiring a good going [good destination]; **sapta** — seven in number: for here seven Aṅgirases beginning with Medhātithi are seen. By such Aṅgirases, with a good chant (**suṣṭubhā**) — a voice with good stobha-syllables, audible with udātta and other accents; or else, with the voice of low and middle pitch etc., by the praise (**stubhā**, stotra); **svaryaḥ** — well attainable; or, to be sounded, i.e. praiseworthy. O mighty (śakra) Indra, such as you are, [you split] the mountain (adri), to be shattered by the thunderbolt, such is the sense."*
+
+> **फलिगम् । प्रतिफलं प्रतिबिम्बम् । तदस्मिन्नस्तीति फलि स्वच्छमुदकम् । तद्गच्छतीत्याधारत्वेनेति फलिगः । यद्वा व्रीह्यादि फलम् । तदस्यास्मिन्नस्तीति फलि वृष्टिजलम् । तद्गच्छतीति फलिगः । एवंभूतं वलं मेघं रवेणात्मीयेन शब्देन दरयः । अभाययः । त्वदीयशब्दश्रवणमात्रेण मेघो बिभेतीत्यर्थः । यद्वा । अद्रिः पर्वतः ... फलिगो मेघः । फलिग उपल इति तन्नामसु पाठात् । वलोऽसुरः । देवा वै वले गाः पर्यपश्यन् । ऐ. ब्रा. ६-१४ [?] इत्यादावसुरे प्रयुक्तत्वात् । एते त्रयोऽपि त्वदीयशब्दश्रवणमात्रेणाभिबभयुरित्यर्थः ॥**
+> *phaligam | pratiphalaṃ pratibimbam | tad asminn astīti phali svacchamudakam | tad gacchatīty ādhāratvene [?] phaligaḥ | yadvā vrīhyādi phalam | tad asyāsminn astīti phali vṛṣṭijalam | tad gacchatīti phaligaḥ | evaṃbhūtaṃ valaṃ megham raveṇātmīyena śabdena darayaḥ | abhāyayaḥ | tvadīyaśabdaśravaṇamātreṇa megho bibhetīty arthaḥ | yadvā | adriḥ parvataḥ ... phaligo meghaḥ | phaliga upala iti tannāmasu pāṭhāt | valo 'suraḥ | devā vai vale gāḥ paryapaśyan | ai. brā. 6-14 [?] ity ādāv asure prayuktatvāt | ete trayo 'pi tvadīyaśabdaśravaṇamātrenābibhayur ity arthaḥ ||*
+> *"**phaligam** — **phala** here is 'reflection, image'; what has that is **phali**, clear water; what goes there [to it], as its support, is **phaliga**. Or else: fruit such as rice and grain; what has that is **phali**, rain-water; what goes to it is **phaliga**. Such a Vala, that is a cloud, you terrified (**darayaḥ**) with your own roar (**raveṇa**) — the sense is that the cloud fears at the mere hearing of your sound. Or else: **adri** is a mountain ... **phaliga** is a cloud, as 'phaliga, upala' is read among the names of cloud. **Vala** is an Asura; as the Aitareya Brāhmaṇa [6-14, [?]] says, 'the gods saw the cows in Vala' etc., it is used of the Asura. All three — mountain, cloud and Vala — feared at the mere hearing of your sound."*
+
+*(The ellipsis marks a short stretch I read only partly in the crowded print [?].)*
+
+**Grammatical tail of the bhāṣya (characterized, not transcribed).** From "स इत्येकः पादपूरणः" onward the bhāṣya treats, word by word: **सः** (*sa*, a pāda-filler); **सुष्टुभा** (*su-stubhā*: root *stubh* with *kvip* by "sampadādibhyaḥ kvip", the *ṣatva* by "upasargāt sunoti…", the accent); **सप्त** (*sapta*; the *suṭ*-, *luk*- remarks); **स्वर्यः** (*svaryaḥ*; *svar* in the sense of "sound/heat", *yat* by "ṛhaloṇyat" [?]); **नवग्वैः** (*navagvaiḥ*; *nava* + root *gam* with the *ḍa*-affix, the loss of the nasal, *ū* for *a* by "gamādīnām iti vaktavyam", Pā. 6-4-40 [numerals read, tentative]); **सरण्युभिः** (*saraṇyubhiḥ*, from *saraṇa* + *kyac*, by *chandasi*); **फलिगम्** (*phaligam*, root *gam* with *ḍa* [Pā. 3-2-48, [?]]); **वलम्** (*valam*, root *vṛ*, *pac-ādi* *ac*); **दरयः** (*darayaḥ*, root *dṝ vidāraṇe*, the *ṇic* and the shortening). *Technical grammar; sūtra numbers are given only where legible, and are tentative.*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (begins; Kannada)**
+
+**सः** — Indra. **नवग्वैः** — those who completed the sacrificial session in nine months. **दशग्वैः** — those who completed the sacrificial session in ten months. **सरण्युभिः** — desiring a good course. **सप्त** — seven …
+
+*(continues on p. 23)*
+
+---
+
+**Progress note:** Printed pp. 1–22 done (PDF 19–40): Rik 62.1–62.3 complete; Rik 62.4 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), and the beginning of the Pratipadārtha (p. 22). Next: p. 23 (PDF 41), the Pratipadārtha continues (from "sapta — seven …"). Open flags: Nirukta numbers [?]; reference numerals on pp. 15–21 [?]; the grammar notes on pp. 13–14, 19–20 and 22 are summaries; one stretch of the bhāṣya on p. 22 read partly [?]; accent marks of the Saṃhitā/Pada not reproduced.
