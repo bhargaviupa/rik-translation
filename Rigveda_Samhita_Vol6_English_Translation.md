@@ -71,6 +71,67 @@
 
 *(The abbreviations are taken over from Volume 5 and are to be checked against the key on PDF 18 of this volume when the first citation needing it is met.)*
 
+## ॥ पञ्चमोऽध्यायः ॥ — THE FIFTH ADHYĀYA OF THE FIRST AṢṬAKA
+
 ---
 
-**Progress note:** Set-up done (source, offset, contents, abbreviation key). Translation not yet started; next: Sūkta 62, printed p. 1 (PDF 19).
+## SŪKTA 62 *(printed p. 1 = PDF 19; fifth sūkta of the Eleventh Anuvāka; first of the Fifth Adhyāya)*
+
+**Sixty-second Sūkta** *(printed on p. 1 as "Aravatteraḍaneya sūktavu", "the sixty-second sūkta"; the heading block with "Sūkta — 62" is on p. 2)*
+
+### Page 1 (PDF 19) — title of the Fifth Adhyāya, Sāyaṇa's introduction
+
+**Printed on the page:** the *Om* emblem; *śrīḥ*; *śrī mahāgaṇādhipataye namaḥ*; the same six verses of homage as in the earlier volumes; the series title *Sāyaṇabhāṣyasahitā Ṛgveda-saṃhitā, Bhāga 6* (the Kannada numeral reads "೬"); the heading *prathamāṣṭake pañcamo 'dhyāyaḥ* with its Kannada rendering "*modalaneya aṣṭakadalli aidaneya adhyāyavu*" ("the fifth adhyāya in the first aṣṭaka"); and the line "*Aravatteraḍaneya sūktavu*" ("the sixty-second sūkta").
+
+> **वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥**
+> **यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥**
+> **वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥**
+
+*vāgīśādyāḥ sumanasaḥ sarvārthānām upakrame | yaṃ natvā kṛtakṛtyāḥ syus taṃ namāmi gajānanam ||*
+*yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tam ahaṃ vande vidyātīrthamaheśvaram ||*
+*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmāt sarvaprayatnena vedam eva sadā japet ||*
+
+**Translation** *(the same verses as in the earlier volumes, editorial and tentative)*: "May the gods headed by Vāgīśa (Brahmā), by bowing to whom, at the start of all undertakings, men have their aims accomplished — to that elephant-faced one I bow. I salute Vidyātīrtha-Maheśvara, whose breath is the Vedas and who created the whole world from the Vedas. The Veda is Śiva and Śiva is the Veda; the reciter of the Veda is Sadāśiva; therefore with every effort one should always recite the Veda itself."
+
+**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; it continues on p. 2)*
+
+> अथ पञ्चमाध्याय आरभ्यते । प्रथमे मण्डल एकादशेऽनुवाके चत्वारि सूक्तानि गतानि । प्र मन्महे इत्येतत्त्रयोदशर्चं सूक्तम् । अत्रानुक्रम्यते । प्र सप्तोनेति । अनिरुक्ता संख्या विंशतिः । अनु. ११-४ । इत्युक्तत्वात्र प्र सप्तोनेत्युक्ते त्रयोदशेत्युक्तं भवति । ऋषिश्चान्यस्माद्दिति परिभाषया नोधा ऋषिः । अनादेशपरिभाषया त्रिष्टुप् छन्दः । इन्द्रो देवता । गतिः सामान्यविनियोगः । विशेषविनियोगस्तु लिङ्गादेवगन्तव्यः ॥
+
+*atha pañcamādhyāya ārabhyate | prathame maṇḍala ekādaśe 'nuvāke catvāri sūktāni gatāni | pra manmahe ity etat trayodaśarcaṃ sūktam | atrānukramyate | pra saptoneti | aniruktā saṃkhyā viṃśatiḥ | anu. 11-4 | ity uktatvād atra pra saptonety ukte trayodaśety uktaṃ bhavati | ṛṣiś cānyasmād iti paribhāṣayā nodhā ṛṣiḥ | anādeśaparibhāṣayā triṣṭup chandaḥ | indro devatā | gatiḥ sāmānyaviniyogaḥ | viśeṣaviniyogas tu liṅgād evāvagantavyaḥ ||*
+
+*(The first sentences are on p. 1 and the rest, from "…trayodaśety uktaṃ bhavati", on p. 2. The words "ṛṣiś cānyasmād iti" and "anādeśaparibhāṣayā" are as read from the bold type of p. 2 and are marked doubtful in the print's heavy impression [?].)*
+
+**Translation** *(editorial and tentative)*: "Now the Fifth Adhyāya begins. In the eleventh anuvāka of the first maṇḍala, four sūktas have gone by. *Pra manmahe* is a sūkta of thirteen ṛks. The Anukramaṇī says here: '*pra saptona*' — the number [of ṛks] is an unspecified twenty [less seven]: *Anu. 11-4*. Since it is thus said, 'twenty less seven' means that thirteen is stated. The ṛṣi is Nodhā, by the rule that [the ṛṣi is] the other [than one stated]; the metre is Triṣṭubh by the rule of unstated metre; the deity is Indra; the application is the general one; the particular application is to be learnt from the indications [of the text]."
+
+### Page 2 (PDF 20) — Kannada anuvāda; heading block; Saṃhitā text of Rik 62.1
+
+**Anuvāda (Kannada)**: "There are seven sūktas in the eleventh anuvāka of the first maṇḍala; of these four have been completed so far. *Pra manmahe* is now the fifth sūkta. It has thirteen ṛks. Since the Anukramaṇikā says '*pra saptoneti, aniruktā saṃkhyā viṃśatiḥ, Anu. 11-4*' — that is, that of twenty ṛks seven are not [here] — it is said that this sūkta has thirteen ṛks. For this sūkta Nodhā Gautama is the ṛṣi; Triṣṭubh is the metre; Indra is the deity. The application is in general *laiṅgika*, that is, its application is according to the sense of the text."
+
+**॥ ॐ ॥**
+
+> **॥ मण्डल — १ ॥ अनुवाक — ११ ॥ सूक्त — ६२ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — १, २, ३ ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — १३ ॥**
+> **॥ ऋषिः — नोधा गौतमः ॥**
+> **॥ देवता — इन्द्रः ॥**
+> **॥ छन्दः — त्रिष्टुप् ॥**
+
+*maṇḍala 1 | anuvāka 11 | sūkta 62 | aṣṭaka 1 | adhyāya 5 | varga 1, 2, 3 | number of ṛks in the sūkta 13 | ṛṣi: Nodhā Gautama | devatā: Indra | chandas: Triṣṭubh.*
+
+*(Changes in print noted at the start of Volume 6: (a) the title page reads "Bhāga 6, the Fifth Adhyāya of the First Aṣṭaka"; (b) the heading block has the same form as in Volumes 4–5; (c) the running header of even pages reads "Sāyaṇabhāṣyasahitā" with, at the right, "Maṇḍala 1 · Anuvāka 11 · Sūkta 62"; the odd pages carry "Aṣṭaka 1 · Adhyāya 5 · Varga N" at the left and "Ṛgvedasaṃhitā" in the middle. The Kannada numerals of the varga numbers in the headers are small and read with doubt.)*
+
+### Rik 62.1 (pp. 2–6)
+
+**Saṃhitā-pāṭha** *(p. 2; accents are printed in the source but are not reproduced here)*
+
+> **प्र मन्महे शवसानाय शूषमाङ्गूषं गिर्वणसे अङ्गिरस्वत् ।**
+> **सुवृक्तिभिः स्तुवत ऋग्मियायार्चामार्कं नरे विश्रुताय ॥ १ ॥**
+
+*pra manmahe śavasānāya śūṣam āṅgūṣaṃ girvaṇase aṅgirasvat |*
+*suvṛktibhiḥ stuvata ṛgmiyāyārcāmārkaṃ nare viśrutāya || 1 ||*
+
+*(The Pada-pāṭha is printed on the next page and is given there.)*
+
+---
+
+**Progress note:** Printed pp. 1–2 done (PDF 19–20): the title of the Fifth Adhyāya, Sāyaṇa's introduction (Sūkta 62: 13 ṛks, Nodhā Gautama, Triṣṭubh, Indra), the heading block and the Saṃhitā text of Rik 62.1. Next: p. 3 (PDF 21), the Pada-pāṭha of Rik 62.1 and Sāyaṇa's bhāṣya. Open flags: the two Sāyaṇa paribhāṣā phrases on p. 2 are marked [?]; Saṃhitā accents not reproduced.
