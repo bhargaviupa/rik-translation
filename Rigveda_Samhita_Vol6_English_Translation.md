@@ -1214,4 +1214,68 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–55 done (PDF 19–73): Rik 62.1–62.11 complete; Rik 62.12 — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha (pp. 54–55); Bhāvārtha, the source's English, Special Topics and grammar of 62.12 still to come. Next: p. 56 (PDF 74), Bhāvārtha of Rik 62.12. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; "क्षीयन्ते" tail in the 62.12 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 56 (PDF 74)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, you are steady, radiant, and perform deeds for the protection of the world. The wealth that has been in your hand from beginningless time does not perish; or, even if given to those who praise you, it does not diminish. Therefore give us wealth.
+
+**English Translation** *(the source's own, as printed):*
+
+> O beautiful Indra, the riches that have long been held in your hands do not diminish, nor do they perish ; Indra, you are illustrious, wise, diligent of action ; doer of good deeds, enrich us by your acts.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **सनात् एव** (*sanāt eva*) — "from a very ancient time; that is, always."
+- **रायः** (*rāyaḥ*) — *rayiḥ rāyaḥ* (Ni. [3-9, ?]) — "riches."
+- **गभस्तौ** (*gabhastau*) — "among the twelve names of 'arm' beginning with *āyatī, cyavānā*, the word *gabhasti* is read; so *gabhastau* means 'in the arm, in the hand'."
+- **न क्षीयन्ते नोप दस्यन्ति** — "they neither perish nor diminish; rather they increase — this is the purport."
+- **द्युमान्** (*dyumān*) — *dīptimān* — "one who has brightness, i.e. glorious, famous."
+- **क्रतुमान्** (*kratumān*) — "*kratu* means 'deed' (Ni. [2-1, ?]); one who has many bold deeds; one who gives the singers deeds in the form of fruit."
+- **शचीवः, शचीभिः** — "*śacī* means 'deed' (Ni. [2-1, ?]); *śacīvaḥ* means *śacyasyāstīti śacīvān*: one who has deeds, i.e. one who does deeds such as the slaying of enemies; *śacībhiḥ* — by deeds, by acts of daring."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.12 (noted briefly).** **रायः**: the word *rai*; before *jas* the *ā* substitute; the *ru*/*visarga* for the *s*: *rāyaḥ*. **क्षीयन्ते**: root *kṣīṅ hiṃsāyām*; *laṭ* in the *karmakartṛ* sense (when the object is made the agent, by the wish to stress that it acts in its own action, it is the object that becomes the agent; since the *karmavat* state has been stated for the agent, the *ātmanepada* affix is applied) *…(continues on p. 57).*
+
+---
+
+### Page 57 (PDF 75)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 62.12, concluded (noted briefly).** **क्षीयन्ते** *(concluded)*: *yak* by "sārvadhātuke yak" (Pā. Sū. 3-1-67); *ant* in place of the ending by "jho 'ntaḥ"; the form *kṣīyante*; in the sūtra "karmavat karmaṇā tulyakriyaḥ" (Pā. Sū. 3-1-87) the *vat*-making is "so that it also applies to its own basis" (*svāśrayam api yathā syāt*, Kāśikā on 3-1-87 [as read]); since the *kartṛ*-state also holds, the initial acute by "acaḥ kartary yaki" (Pā. Sū. 6-1-195, as read; this corrects the "6-1-109 [?]" read in the bhāṣya on p. 55); by "cādilope vibhāṣā" (Pā. Sū. 8-1-63, as read), since the particle *na* (a *cādi*) precedes, the prohibition of the *nighāta* arises. **दस्यन्ति**: root *dasu upakṣaye*; *divādi*; the substitute *ant* for *jhi* by "jho 'ntaḥ"; the *śyan* vikaraṇa by "divādibhyaḥ śyan" (Pā. Sū. 3-1-69); *pararūpa* by "ato guṇe"; the form *dasyanti*; the *nighāta* accent because it follows a non-verbal word. **शिक्ष**: root *śikṣa vidyopādāne*; here taken in the sense of giving; *loṭ*, second person singular, the form *śikṣa*; since at the beginning of the *pāda* there is no *nighāta*; by the root's accent, initial-acute; by "dvyaco 'tastiṅaḥ" (Pā. Sū. 6-3-135, as read) lengthening in the Saṃhitā (*śikṣā*). **शचीवः**: "*śacī* is his": the affix *matup* by "tad asyāsty asminn iti matup"; the *m* of *matup* becomes *v* by "chandasīraḥ" [i.e. Pā. Sū. 8-2-15]; the word *śacīvat*; in the vocative the *n*/*t* becomes *ru* by "mato vasor ruḥ sambuddhau" [as read]; the *visarga* by "kharavasānayor visarjanīyaḥ"; the *nighāta* accent by "āmantritasya ca". **द्युमाँ असि**: *dyumān + asi*: by "dīrghād aṭ samānapāde" (Pā. Sū. 8-3-9, as read) the *n* becomes *ru* [before]; by "āto 'ṭi nityam" the preceding *ā* is always nasalized: *dyumāṃ asi*. **॥ १२ ॥** *Grammar page, noted briefly; sūtra numbers as read; ornamental rule. Rik 62.12 ends here.*
+
+#### Rik 62.13
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सनायते गोतम इन्द्र नव्यमतक्षद्ब्रह्म हरियोजनाय ।**
+> **सुनीथाय नः शवसान नोधाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ १३ ॥**
+> *sanāyate gotama indra navyam atakṣad brahma hariyojanāya |*
+> *sunīthāya naḥ śavasāna nodhāḥ prātar makṣū dhiyāvasur jagamyāt || 13 ||*
+
+---
+
+### Page 58 (PDF 76)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सनाऽयते । गोतमः । इन्द्र । नव्यम् । अतक्षत् । ब्रह्म । हरिऽयोजनाय ।**
+> **सुऽनीथाय । नः । शवसान । नोधाः । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ १३ ॥**
+> *sanā-yate | gotamaḥ | indra | navyam | atakṣat | brahma | hari-yojanāya |*
+> *su-nīthāya | naḥ | śavasāna | nodhāḥ | prātaḥ | makṣu | dhiyā-vasuḥ | jagamyāt || 13 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **स इन्द्रः सनायते । नित्य इवाचरति । सर्वेषामाद्यो भवति । हे शवसान बलवन्निन्द्र हरियोजनाय । हरी अश्वौ रथे योजयतीति हरियोजनः । सुनीथाय सुष्ठु नेत्रे । एवंभूताय तस्मै तुभ्यं गोमतो [?] गोतमस्य ऋषेः पुत्रो नोधा ऋषिर्नव्यं नूतनं ब्रह्मैतत्सूक्तरूपं स्तोत्रं नोऽस्मदर्थमतक्षत् । अकरोत् । अतोऽस्माभिरनेन स्तोत्रेण स्तुतः सन् धिया बुद्ध्या कर्मणा वा प्राप्तवसुरिन्द्रः प्रातःकाले मक्षु शीघ्रं जगम्यात् । आगच्छतु ॥ सनायते । सनेति निपातो नित्यशब्दसमानार्थः । तस्मादाचारार्थे क्यच्प्रत्ययः । सुनीथाय । णीञ् प्रापण इत्यस्मादौणादिकस्थक्प्रत्ययः [?] । थाथादिस्वरः ॥**
+> *sa indraḥ sanāyate | nitya ivācarati | sarveṣām ādyo bhavati | he śavasāna balavann indra hariyojanāya | harī aśvau rathe yojayatīti hariyojanaḥ | sunīthāya suṣṭhu netre | evaṃbhūtāya tasmai tubhyaṃ gomato [?] gotamasya ṛṣeḥ putro nodhā ṛṣir navyaṃ nūtanaṃ brahmaitatsūktarūpaṃ stotraṃ no 'smadartham atakṣat | akarot | ato 'smābhir anena stotreṇa stutaḥ san dhiyā buddhyā karmaṇā vā prāptavasur indraḥ prātaḥkāle makṣu śīghraṃ jagamyāt | āgacchatu || sanāyate | saneti nipāto nityaśabdasamānārthaḥ | tasmād ācārārthe kyacpratyayaḥ | sunīthāya | ṇīñ prāpaṇa ity asmād auṇādikastakpratyayaḥ [?] | thāthādisvaraḥ ||*
+> *"This Indra **sanāyate**: behaves as if eternal; he is first of all. O **śavasāna**, strong Indra! **Hariyojanāya** — for him who yokes the two bay horses to the chariot; **sunīthāya** — for the good leader. For you, so constituted, **gotamaḥ** — the son of the ṛṣi Gotama [the reading "gomato" is doubtful, ?], the ṛṣi **nodhāḥ**, **atakṣat** — has made, fashioned, **navyam**, a new **brahma**, a praise in the form of this sūkta, for us. Therefore, Indra, praised by us with this hymn, having gained wealth by intelligence or by work, **prātaḥ**, in the morning, **makṣu**, quickly, **jagamyāt**, may he come. **Sanāyate**: *sanā* is an indeclinable of the same sense as the word *nitya* ('eternal'); from it the affix *kyac* in the sense of 'behaves like'. **Sunīthāya**: root *ṇīñ prāpaṇe* [to lead], an Uṇādi affix *tha* [?]; the accent of the *thātha* class."* *(Grammar tail characterized; the Uṇādi affix named is doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**शवसान** — O strong one; **इन्द्र** — O Indra; **सनायते** — he who acts as eternal (the first of all); **हरियोजनाय** — for him who yokes the horses to the chariot; **सुनीथाय** — for you, the good leader; **गोतमः** — the son of the ṛṣi Gotama; **नोधाः** — the ṛṣi called Nodhas; **नव्यम्** — new; **ब्रह्म** — this praise in the form of a sūkta; **नः** — for us; **अतक्षत्** — made (hence Indra, praised by us); **धियावसुः** — one who has wealth acquired by his own intelligence or by deeds; **प्रातः** — in the morning; **मक्षु** — quickly; **जगम्यात्** — may he come.
+
+---
+
+**Progress note:** Printed pp. 1–58 done (PDF 19–76): Rik 62.1–62.12 complete; Rik 62.13 (the last Rik of Sūkta 62) — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha (pp. 57–58); Bhāvārtha, the source's English, Special Topics, grammar page and the sūkta's closing note still to come. Next: p. 59 (PDF 77), Bhāvārtha of Rik 62.13, and so on to the end of Sūkta 62; then Sūkta 63 (the Pariśiṣṭa-style header, Sāyaṇa's introduction). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; "गोमतो" and the Uṇādi affix in the 62.13 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
