@@ -1768,4 +1768,59 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–82 done (PDF 19–100): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.5 complete; Rik 63.6 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 82, ending at *svarmīḷhe*). Next: p. 83 (PDF 101), the Special Topics of Rik 63.6 continue, then the grammar page. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5 and 63.6 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 83 (PDF 101)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (concluded; Kannada).** *(…the word* **मीळ्हम्** *is read (Ni. [2-10, ?]). "*Mīḷhaṃ, mīḷhuṃ*" — this word denoting wealth occurs both with a final *u* and with a final *a*. In the Nirukta it is read with a final *u*. In the commentary on the Nirukta made by Bhaṭṭabhāskara Miśra, accepting the reading* "mīḷhuṣṭama śivatamaḥ" *[as read, ?] he explains it; in the Ṛgveda Saṃhitā text, in "rudrasya ye mīḷhuṣaḥ santi putrāḥ" and "tāṃ aruḍrasya mīḷhuṣaḥ" [as read, ?], it ends in* u. *So some hold that this word ends in* u. *Others fix it as a word ending in* s*, [reading] "mīḷhvaḥ" "mīḷhvāṃsam" [as read, ?]. Since there are such different opinions, it is to be understood that both the* a-ending *and the* u-ending *readings are accepted.)* *(The Kannada passage is compressed and the Sanskrit quotations in it are read doubtfully [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.6 (noted briefly).** **त्यत्**: *tyad + am*; the *luk* by "supāṃ sulug…". **अर्णसातौ**: root *ṛ gatau*; in the Uṇādi, by the "bahula" licence the affix *na* (being Uṇādi-established) comes to this root too; since *na* follows, *guṇa* of the root by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84, as read); the *ṇ* for *n* by "raṣābhyāṃ no ṇaḥ samānapade": *arṇa*. The root *ṣaṇu dāne*; to it, in the sense of *bhāva*, the affix *ktin* by "striyāṃ ktin" (Pā. Sū. 3-3-94, as read); since *k*-marked, the *ā* for the root's *n* by "janasanakhanāṃ sañjhaloḥ" (Pā. Sū. 6-4-42, as read): *sāti*; "*arṇānāṃ sātiḥ yasmin*" = *arṇasāti*, in that: *arṇasātau*; the accent of the first member by "bahuvrīhau prakṛtyā pūrvapadam". Or: by "udake nuṭ ca" (Uṇ. Sū. 4-[198?], as read) the affix *asun* after the root *ṛ*, as before, and with it the augment *nuṭ*; *guṇa* of the root: *arṇas*; *sāti* as before; as a compound ("*arṇasaḥ sātiḥ yasmin*"), since this word belongs to that list, the loss of *s* by "pīvopavasanādīnāṃ chandasi lopo vaktavyaḥ" (Mahābhāṣya on Pā. 6-3-109, Vārttika 6, as read); because the affix ends in *n*-marked, the initial acute (*arṇas*); the *bahuvrīhi* accent as before. **स्वर्मीळ्हे**: *svar* is an indeclinable; by the sūtra "nañ-svarau svaritau" (Phiṭ Sū. [?]) it has the *svarita*; "*svar mīḷhaṃ yasmin*" is a *bahuvrīhi*, and by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member is kept. **आजा**: *aji* …; the locative singular receives the substitute *ḍā* by "supāṃ sulug…"; since *ḍit*, the loss of *ṭi*: *ājā*. **स्वधावः**: "*svadhā* is his": *svadhāvān*; the affix *matup* by "tad asyāsty asminn iti matup"; in the vocative, by "matuvasor ruḥ sambuddhau" (Pā. Sū. 8-3-1, as read) *ru* for *matup*'s [last]; since it follows an *ā*, by "māduupadhāyāś ca matorvo 'yavādibhyaḥ" the *m* of *matup* becomes *v*; *svadhāvar*; at the end, the *visarga* by "kharavasānayor visarjanīyaḥ": *svadhāvaḥ* *(continues on p. 84).*
+
+---
+
+### Page 84 (PDF 102)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Grammar page for Rik 63.6, concluded (noted briefly).** **स्वधावः** *(concluded)*: *svadhāvaḥ*. **अतसाय्या**: root *ata sātatyagamane*; the Uṇādi-established affix *sāyya*; the augment *āṭ* for it; "āgamā anudāttāḥ" [as read] — the augment is unaccented, so by the affix's initial acute the *ā* after *s* is acute. **भूत्**: root *bhū sattāyām*; in the sense of a prayer, the *luṅ* by "chandasi luṅlaṅliṭaḥ"; in the third person singular the *i* of *tip* is lost by "itaś ca"; the *sic* which would come for *cli* has *luk* by "gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu"; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* does not come, though it is not connected with *mā*; the *nighāta* accent, since it follows a non-verbal word. **॥ ६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.6 ends here (ornamental rule).*
+
+#### Rik 63.7
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **त्वं ह त्यदिन्द्र सप्त युध्यन्पुरो वज्रिन्पुरुकुत्साय दर्दः ।**
+> **बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥ ७ ॥**
+> *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ |*
+> *barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ || 7 ||*
+
+**॥ पदपाठः ॥ — Pada text** *(begins; continues on p. 85)*
+
+> **त्वम् । ह । त्यत् । इन्द्र । सप्त । युध्यन् । पुरः । वज्रिन् । पुरुऽकुत्साय । दर्दरिति दर्दः ।**
+> *tvam | ha | tyat | indra | sapta | yudhyan | puraḥ | vajrin | puru-kutsāya | dardar iti dardaḥ |*
+
+---
+
+### Page 85 (PDF 103)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ पदपाठः ॥ — Pada text of Rik 63.7 (concluded)**
+
+> **बर्हिः । न । यत् । सुऽदासे । वृथा । वर्क् । अंहः । राजन् । वरिवः । पूरवे । करिति कः ॥ ७ ॥**
+> *barhiḥ | na | yat | su-dāse | vṛthā | vark | aṃhaḥ | rājan | varivaḥ | pūrave | kar iti kaḥ || 7 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे वज्रिन् वज्रवन्निन्द्र पुरुकुत्साय तत्संज्ञाय ऋषये युध्यन् तदीयशत्रुभिः सह युद्धं कुर्वाणस्त्वमेव त्यत् ताः सप्त पुरः तदीयानि सप्तसंख्यानि नगराणि दर्दः । व्यदारयः । अभैत्सीरित्यर्थः [?] । अपि च सुदास एतत्संज्ञाय राज्ञेंऽहोरेतत्संज्ञस्यासुरस्य सम्बन्धि यद्धनमस्ति तद्वृथानायासेन बर्हिर्न बर्हिरिव वर्क् अवृणक् । अच्छिनदित्यर्थः । तदनन्तरं पूरवे त्वां हविषा पूरयते तस्मै सुदासे हे राजन् स्वामिन्निन्द्र वरिवो धनं कः । अकार्षीः ॥ त्यत् । सुपां सुलुगिति विभक्तेर्लुक् । दर्दः । दृ विदारणे । अस्माद्यङ्लुगन्ताल्लङि सिपि अदिवच्छेति वचनाच्छपो लुक् [?] । हल्ङ्याब्भ्य इति सलोपः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । सुदासे । शोभनं ददातीति सुदाः । असुन् । सुदाः कल्याणदानः । नि. २-२४ [?] इति यास्कः । वर्क् । वृजी वर्जने । लङि सिपि बहुलं छन्दसीति विकरणस्य लुक् । लघूपधगुणे पूर्ववत्सलोपः । अडभावश्च । चोः कुरिति कुत्वम् । कः । डुकृञ् करणे । लुङि सिपि मन्त्रे घसेति च्लेर्लुक् । पूर्ववत्सलोपाडभावौ ॥**
+> *he vajrin vajravann indra purukutsāya tatsaṃjñāya ṛṣaye yudhyan tadīyaśatrubhiḥ saha yuddhaṃ kurvāṇas tvam eva tyat tāḥ sapta puraḥ tadīyāni saptasaṅkhyāni nagarāṇi dardaḥ | vyadārayaḥ | abhaitsīr ity arthaḥ [?] | api ca sudāsa etatsaṃjñāya rājñe 'ṃhor etatsaṃjñasyāsurasya sambandhi yad dhanam asti tad vṛthānāyāsena barhir na barhir iva vark avṛṇak | acchinad ity arthaḥ | tadanantaraṃ pūrave tvāṃ haviṣā pūrayate tasmai sudāse he rājan svāminn indra varivo dhanaṃ kaḥ | akārṣīḥ || tyat | supāṃ sulug iti vibhakter luk | dardaḥ | dṛ vidāraṇe | asmād yaṅluganṭāl laṅi sipi adivac ceti vacanāc chapo luk [?] | halṅyābbhya iti salopaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | sudāse | śobhanaṃ dadātīti sudāḥ | asun | sudāḥ kalyāṇadānaḥ | Ni. 2-24 [?] iti yāskaḥ | vark | vṛjī varjane | laṅi sipi bahulaṃ chandasīti vikaraṇasya luk | laghūpadhaguṇe pūrvavat salopaḥ | aḍabhāvaś ca | coḥ kur iti kutvam | kaḥ | ḍukṛñ karaṇe | luṅi sipi mantre ghaseti cler luk | pūrvavat salopāḍabhāvau ||*
+> *"O **vajrin**, Indra with the thunderbolt! Fighting (**yudhyan**) on behalf of the ṛṣi named **Purukutsa**, doing battle with his enemies, you yourself **dardaḥ** — tore apart, split [the reading "abhaitsīḥ" is doubtful, ?] — **tyat**, those **sapta puraḥ**, seven cities of his. And further: the wealth that belonged to the asura named Aṃhas, [enemy] of the king named **Sudās** — that you **vark**, cut off (*avṛṇak*, you cut it) **vṛthā**, effortlessly, **barhir na**, as one cuts the sacrificial grass (*barhis*). After that, O **rājan**, lord Indra, to him, **pūrave**, who fills you with oblations — to that Sudās, **varivaḥ**, wealth, **kaḥ** — you gave. **Dardaḥ**: root *dṛ vidāraṇe*; from the *yaṅluk*-ending stem of this, in the *laṅ* before *sip*, the *luk* of *śap* by the statement 'adivac ca' [?]; the loss of *s* by 'halṅyābbhyaḥ…'; the absence of *aṭ* by 'bahulaṃ chandasy amāṅyoge 'pi'. **Sudāse**: 'one who gives well': *sudāḥ*, affix *asun*; '*sudāḥ* is "one who gives kindly"' says Yāska (Ni. 2-24, as read, ?). **Vark**: root *vṛjī varjane*; in the *laṅ* before *sip*, the *luk* of the vikaraṇa by 'bahulaṃ chandasi'; the *guṇa* of the light penultimate; as before the loss of *s*; the absence of *aṭ*; the change of *c/j* to *k* by 'coḥ kuḥ'. **Kaḥ**: root *ḍukṛñ karaṇe*; in the *luṅ* before *sip*, the *luk* of *cli* by 'mantre ghasa…'; as before the loss of *s* and the absence of *aṭ*."* *(Grammar tail characterized; numerals as read, doubtful where marked [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**वज्रिन् इन्द्र** — O Indra, wielder of the thunderbolt; **पुरुकुत्साय** — for the ṛṣi named Purukutsa (on his behalf); **युध्यन्** — fighting with his enemies; **त्वम्** — you; **त्यत्** — those (of his); **सप्त पुरः** — seven cities; **दर्दः** — you split (destroyed); **सुदासे** — for the king named Sudās (for his sake); **अंहोः** — of the asura Aṃhas; **यत्** — which [wealth]; **वृथा** — without effort; **बर्हिर्न** — like the *barhis* [sacrificial grass]; **वर्क्** — you cut (destroyed); **पूरवे** — for him who fills you with oblations (who offers oblations); **राजन्** — O lord (Indra); **वरिवः** — wealth; **कः** — you made [yours/his].
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada; begins, continues on p. 86).* O Indra, wielder of the thunderbolt, fighting on behalf of Purukutsa you destroyed the seven cities of his enemies; for the king named Sudās, who was offering you oblations, his enemy's …
+
+---
+
+**Progress note:** Printed pp. 1–85 done (PDF 19–103): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.6 complete; Rik 63.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, and the first part of the Bhāvārtha (p. 85, breaking off at "his enemy's …"). Next: p. 86 (PDF 104), the Bhāvārtha of Rik 63.7 concludes; then the source's English, Special Topics, grammar. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.7 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
