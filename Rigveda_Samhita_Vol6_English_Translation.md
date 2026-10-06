@@ -2576,4 +2576,70 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–121 done (PDF 19–139): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.6 complete; Rik 64.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 121, ending at *citrabhānavaḥ*). Next: p. 122 (PDF 140), the grammar page of Rik 64.7 continues; then Rik 64.8. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5 and 64.7 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 122 (PDF 140)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.7, concluded (noted briefly).** **स्वतवसः**: "*svakīyaṃ tavaḥ yeṣāṃ te svatavasaḥ*", a *bahuvrīhi*; the accent as before [the first member's]. **रघुस्यदः**: root *syandū prasravaṇe*; "they flow, go, swiftly (*raghu*)" = *raghusyadaḥ*; the affix *kvip* by "kvip ca"; since the affix is *k*-marked, the loss of the penultimate *n* by "anidītāṃ hala upadhāyāḥ kṅiti"; the word *raghusyad*; by "vālamūlāl…" (Mahābhāṣya on Pā. 8-2-18, as read, ?) *l* for *r* is optional in the word *raghu*, so the *l* does not come here; in the plural, *raghusyadaḥ*; by "gatikārakopapadāt kṛt" the accent of the latter member of a *kṛdanta*; in *kvip*, everything being lost, the root's *a* is acute. **हस्तिनः**: "*hasta* is his": *hastī*; in the sense of *matup*, the affix *ini* by "ata ini-ṭhanau" (Pā. Sū. 5-2-115, as read); in the plural, *hastinaḥ*; by the affix accent the *i* is acute. **खादथ**: root *khāda bhakṣaṇe*; *laṭ*, second person plural, the ending *tha*; the vikaraṇa *śap* by "kartari śap"; the form *khādatha*; the *nighāta* accent, since it follows a non-verbal word; by "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137, as read) the lengthening in a mantra [*khādathā*]. **अयुग्ध्वम्**: root *yujir yoge*; in the *luṅ*, second person plural, the ending *dhvam*; the *cli* by "cli luṅi"; for it the *sic* by "cleḥ sic"; by "ekāca upadeśe 'nudāttāt" the *iṭ* augment does not come before *sic*; by "dhi ca" (Pā. Sū. 8-2-25, as read) the loss of the *s* of *sic* before an affix beginning with *dh*; the *j* of the root becomes *g* by "coḥ kuḥ" [*ku*]; the *aṭ* augment for the stem because of *luṅ*; the form *ayugdhvam*; by "āḍudāttaḥ" [as read] the word has the initial acute; since *yat* precedes, the prohibition of the *nighāta* arises by "yad vṛttān nityam". **॥ ७ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.7 ends here (ornamental rule).*
+
+#### Rik 64.8
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; continues on p. 123)*
+
+> **सिंहा इव नानदति प्रचेतसः पिशा इव सुपिशो विश्ववेदसः ।**
+> *siṃhā iva nānadati pracetasaḥ piśā iva supiśo viśvavedasaḥ |*
+
+---
+
+### Page 123 (PDF 141)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 64.8 (concluded)**
+
+> **क्षपो जिन्वन्तः पृषतीभिर्ऋष्टिभिः समित्सबाधः शवसाहिमन्यवः ॥ ८ ॥**
+> *kṣapo jinvantaḥ pṛṣatībhir ṛṣṭibhiḥ samit sabādhaḥ śavasāhimanyavaḥ || 8 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सिंहाःऽइव । नानदति । प्रऽचेतसः । पिशाःऽइव । सुऽपिशः । विश्वऽवेदसः ।**
+> **क्षपः । जिन्वन्तः । पृषतीभिः । ऋष्टिऽभिः । सम् । इत् । सऽबाधः । शवसा । अहिऽमन्यवः ॥ ८ ॥**
+> *siṃhāḥ-iva | nānadati | pra-cetasaḥ | piśāḥ-iva | su-piśaḥ | viśva-vedasaḥ |*
+> *kṣapaḥ | jinvantaḥ | pṛṣatībhiḥ | ṛṣṭi-bhiḥ | sam | it | sa-bādhaḥ | śavasā | ahi-manyavaḥ || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 124)*
+
+> **प्रचेतसः प्रकृष्टज्ञाना मरुतः सिंहा इव नानदति । भृशं शब्दं कुर्वन्ति । यथा सिंहा गिरिगह्वरेषु गम्भीरं शब्दं कुर्वन्ति एवं मरुत्सु तस्यागतेषु गम्भीरः शब्द उत्पद्यत इति भावः । तथा सुपिशः शोभनावयवाः शोभनालंकारा वा । तत्र दृष्टान्तः । पिशा इव । पिश इति रुरुनाम । यथा रुरवः स्वशरीरगतैः श्वेतैर्बिन्दुभिरलंकृतास्तद्वत् । विश्ववेदसः सर्वज्ञाः क्षपः शत्रूणां क्षपयितारो जिन्वन्तः स्तोतॄन्प्रीणयन्तः शवसा बलेनाहिमन्यवः अहननशीलमन्युयुक्ताः । यद्विषयः कोपो जायते तस्य हनने समर्था इत्यर्थः । यद्वा । मननं ज्ञानं मन्युः । अहीनज्ञानाः । उत्कृष्टबुद्धय इत्यर्थः । एवंभूता मरुतः पृषतीभिः । पृषत्य इति मरुतां वाहनस्याख्या । पृषत्यः श्वेतैर्बिन्दुकिताः मृग्य इत्यैतिहासिकाः । नानावर्णा मेघमाला इति नैरुक्ताः । ताभिर्ऋष्टिभिरायुधैश्च सहिताः सन्तः सबाधः शत्रुभिर्बाधितान्यजमानान् समित् समानमेव युगपदेव रक्षितुमागच्छन्तीति शेषः ॥ नानदति । नद अव्यक्ते शब्दे । अस्माद्यङ्लुगन्ताल्लट् । पिशा इव । पिश अवयवे । इगुपधलक्षणः कः । सुपिशः । सुपूर्वात्पिश अवयव इत्यस्मात् क्विप् । पृषतीभिः । पृषु सेचने । वर्तमाने पृषद्बृहन्महज्जगच्छतृवच्च । उ. २-८४ [?] । इति शतृवद्भावान्मुगितश्चेति ङीप् ।**
+> *pracetasaḥ prakṛṣṭajñānā marutaḥ siṃhā iva nānadati | bhṛśaṃ śabdaṃ kurvanti | yathā siṃhā girigahvareṣu gambhīraṃ śabdaṃ kurvanti evaṃ marutsu tasyāgateṣu gambhīraḥ śabda utpadyata iti bhāvaḥ | tathā supiśaḥ śobhanāvayavāḥ śobhanālaṃkārā vā | tatra dṛṣṭāntaḥ | piśā iva | piśa iti rurunāma | yathā rurvaḥ svaśarīragataiḥ śvetair bindubhir alaṃkṛtās tadvat | viśvavedasaḥ sarvajñāḥ kṣapaḥ śatrūṇāṃ kṣapayitāro jinvantaḥ stotṝn prīṇayantaḥ śavasā balenāhimanyavaḥ ahananaśīlamanyuyuktāḥ | yadviṣayaḥ kopo jāyate tasya hanane samarthā ity arthaḥ | yadvā | mananaṃ jñānaṃ manyuḥ | ahīnajñānāḥ | utkṛṣṭabuddhaya ity arthaḥ | evaṃbhūtā marutaḥ pṛṣatībhiḥ | pṛṣatya iti marutāṃ vāhanasyākhyā | pṛṣatyaḥ śvetair bindukitāḥ mṛgya ity aitihāsikāḥ | nānāvarṇā meghamālā iti nairuktāḥ | tābhir ṛṣṭibhir āyudhaiś ca sahitāḥ santaḥ sabādhaḥ śatrubhir bādhitān yajamānān samit samānam eva yugapad eva rakṣitum āgacchantīti śeṣaḥ || nānadati | nada avyakte śabde | asmād yaṅluganāt laṭ | piśā iva | piśa avayave | igupadhalakṣaṇaḥ kaḥ | supiśaḥ | supūrvāt piśa avayava ity asmāt kvip | pṛṣatībhiḥ | pṛṣu secane | vartamāne pṛṣadbṛhanmahaj jagacchatṛvac ca | U. 2-84 [?] | iti śatṛvadbhāvān mugitaś ceti ṅīp |*
+> *"The **pracetasaḥ**, those of surpassing knowledge, the Maruts, **nānadati** — make a great noise — **siṃhā iva**, like lions: as lions make a deep sound in mountain caves, so when the Maruts come, a deep sound arises: such is the thought. And they are **supiśaḥ** — of beautiful limbs, or of beautiful ornaments; the example, **piśā iva**: *piśa* is a name for the *ruru* deer, as the deer are adorned with white spots on their bodies, so. **Viśvavedasaḥ**, all-knowing; **kṣapaḥ**, destroyers of enemies; **jinvantaḥ**, pleasing the singers; **śavasā**, with strength; **ahimanyavaḥ** — possessed of a wrath that slays; i.e. able to slay him with whom the anger arises; or: *manyu* is 'knowing': 'of undiminished knowledge', of surpassing intelligence. The Maruts so constituted, with **pṛṣatībhiḥ** — *pṛṣatī* is the name of the Maruts' vehicle: spotted white — 'does' say the historians, 'the multi-coloured cloud-bank' say the etymologists — together with those and with **ṛṣṭibhiḥ**, weapons, **sabādhaḥ**, [come to protect] the sacrificers afflicted by enemies, **samit**, all together, at the same moment: such is the remainder. **Nānadati**: root *nada avyakte śabde*; the *laṭ* from the *yaṅluk*-ending stem. **Piśā iva**: root *piśa avayave*; *ka* in the *igupadha* class. **Supiśaḥ**: from *piśa avayave* preceded by *su*, *kvip*. **Pṛṣatībhiḥ**: root *pṛṣu secane*; in the present sense, by 'pṛṣad-bṛhan-mahaj-jagac chatṛvac ca' (Uṇ. 2-84, as read, ?), because it is treated as *śatṛ*, the feminine *ṅīp* by 'ugitaś ca' [read in the print "mugitaś ca"]…"* *(continues on p. 124.)*
+
+---
+
+### Page 124 (PDF 142)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāṣya (concluded).**
+
+> **…ङीप् । अत एव शतुरनुम इति नद्या उदात्तत्वे प्राप्ते बृहन्महतोरुपसंख्यानमिति नियमात्तस्याभावः ॥**
+> *…ṅīp | ata eva śatur anuma iti nadyā udāttatve prāpte bṛhanmahator upasaṅkhyānam iti niyamāt tasyābhāvaḥ ||*
+> *"…and for this very reason, where 'śatur anumaḥ' would give the acute on the feminine ending *nadī*, by the rule 'bṛhanmahator upasaṅkhyānam' [the restriction to *bṛhat* and *mahat*], it does not arise."*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**प्रचेतसः** — those of good knowledge (the Maruts); **सिंहा इव** — like lions; **नानदति** — they make much noise; **पिशा इव** — like spotted deer; **सुपिशः** — of well-adorned limbs; **विश्ववेदसः** — all-knowing; **क्षपः** — destroyers of enemies; **जिन्वन्तः** — delighting the praisers; **शवसा** — with strength; **अहिमन्यवः** — those whose anger slays [the hostile], or those of undiminished knowledge (the Maruts); **पृषतीभिः** — with their vehicles, the spotted white antelopes (with the many-coloured chain of clouds); **ऋष्टिभिः** — equipped with weapons; **सबाधः** — [the sacrificer] oppressed by enemies; **समित्** — together, at once [they come to protect].
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The Marut deities, who give a deep sound like lions, all-knowing, well adorned, destroyers of enemies, so angry as to slay the hostile, pleasing to those who praise them — such [beings], when the sacrificer is in distress, come on their vehicles, with their weapons, to protect him.
+
+**English Translation** *(the source's own, as printed):*
+
+> The most wise Maruts roar like lions, the all-knowing are graceful as the spotted deer, destroying (their foes) delighting (their worshippers) ; of deadly strength in their anger, they come with their antelopes, and their arms (to defend the sacrificer) against interruption.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **सिंहा इव नानदति** — *bhṛśaṃ śabdaṃ kurvanti | yathā siṃhāḥ girigahvareṣu gambhīraṃ śabdaṃ kurvanti evaṃ marutsv āpyāgateṣu gambhīraḥ śabda utpadyate* — "as lions make a deep sound in mountain caves, so, when the Marut deities come, a powerful sound is heard; therefore these Marut deities make a very heavy sound."
+- **पिशा इव सुपिशः** — *piśa iti rurunāma śobhanāvayavā śobhanālaṅkārā vā* — "the word *piśa* is used in the sense of 'deer'. The deer, with the white spots on their bodies *(continues on p. 125)*…"
+
+---
+
+**Progress note:** Printed pp. 1–124 done (PDF 19–142): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.7 complete; Rik 64.8 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 124, ending at *piśā iva supiśaḥ*). Next: p. 125 (PDF 143), the Special Topics of Rik 64.8 continue; then its grammar page; then Rik 64.9. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5 and 64.7 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
