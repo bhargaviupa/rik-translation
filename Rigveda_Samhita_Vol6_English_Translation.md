@@ -859,4 +859,61 @@ To offer this Rik, *tad u prayakṣatamam*, in the sacrificial rite called Prava
 
 ---
 
-**Progress note:** Printed pp. 1–37 done (PDF 19–55): Rik 62.1–62.6 complete; Rik 62.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics on *āyāsya* (p. 37). Next: p. 38 (PDF 56), the Special Topics continue ("…such a prāṇa-worshipper Aṅgiras …"). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana numerals [?]; sūtra numbers on grammar pages tentative; "नीळमेकको", "ऽस्य-/यास्यः" junction and "आस्यान्मुखादयते" in 62.7 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user (this session) asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 38 (PDF 56)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Special Topics (concluded; Kannada).** "…The Aṅgirasa ṛṣi is called *āyāsya*. The meaning can also be taken: 'Indra who is praised by this ṛṣi'."
+
+**Word notes (Kannada, with Sanskrit glosses):**
+
+- **सनजा** (*sanajā*) — *janī prādurbhāve | sanā nityaṃ jo jananaṃ yayos te sanaje |* — "those that exist always; i.e. always, eternally, in one and the same place; the earth and the atmosphere are ever together in one place — this is the purport."
+- **सनीळे** (*sanīḷe*) — *samānaṃ nīḷam eko nivāsasthānaṃ yayos te |* — "having a common dwelling-place; joined together; being in one place."
+- **भगो न** (*bhago na*) — "like the sun; among the twelve Ādityas Bhaga is one."
+- **सुदंसाः** (*sudaṃsāḥ*) — "*daṃsaḥ* means 'deed' (Ni. [2-1, ?]); one of excellent deeds, i.e. who does excellent works."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.7 (noted briefly).** **द्विता**: in *dvidhā* the *dh* becomes *t* by Vedic licence; the affix *dhā* by "saṃkhyāyā vidhārthe dhā" (Pā. Sū. 5-3-42, as read); final-acute by the affix accent. **सनजा**: root *janī prādurbhāve*; under "anyeṣv api dṛśyate" the word *dṛśi* is included for the sake of excluding all restrictions [of upapada], so the affix *ḍa* comes after the bare root too in the sense of *bhāva* (as earlier); being *ḍit*, by force of that the *bha*-designation; the *ṭi* (of *jani*) is dropped, leaving *ja*; *sanā = nityam, jo = jananam* "those two whose birth is eternal": *sanaje*; the former member's shortening is Vedic; since this word is included in the Phiṭsūtra list (a Phiṭ-sūtra, "…nām antaḥ", numeral as read [35, ?]), the final acute; this final acute stays in the *bahuvrīhi*; the dual ending *au* gives *ā* by "supāṃ sulug…". **आयास्यः**: root *yasu prayatne*; *yāsaḥ* = effort (affix *ghañ*); *yāse bhavaḥ yāsyaḥ* — the affix *yat* by "bhave chandasi" (Pā. Sū. 4-4-110, as read); loss of the *a* by "yasyeti ca"; *na yāsyaḥ = ayāsyaḥ*; the initial acute of the latter member by "parādiś chandasi bahulam" (Pā. Sū. 6-2-199, as read); if the derivation as stated by the *śruti* is to be followed, the word is one of the *pṛṣodarādi* class, which is an open class (*ākṛtigaṇa*), and the intended accent is so obtained. *Grammar page, noted briefly; the sūtra numbers are as read and tentative.*
+
+---
+
+### Page 39 (PDF 57)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 62.7, concluded (noted briefly).** **मेने**: *menā* is a woman's name; the locative singular is dropped by "supāṃ sulug…" and replaced by *śe* (*śit*, so replacing the whole), which is *pragṛhya* by "śe" (Pā. Sū. 1-1-13, as read). Or *manyate iti menā*: the root *man* belongs to the *pacādi* class, so the affix *ac* by "nandigrahapacādibhyo…"; the Vārttika "naśimanyor aliṭy etvaṃ vaktavyam" (Pā. Sū. 6-4-120 [Vārttika, as read]) gives *e* for the *a* of the root when *ac* follows: the word *menā*; in the feminine, *ṭāp* by "ajādyataṣ ṭāp"; in the dual, when *au* follows, the *śī* substitution by "auṅ āpaḥ"; *guṇa*; *mene*; since the dual now ends in *e*, the *pragṛhya* designation by "īdūded dvivacanaṃ pragṛhyam" (Pā. Sū. 1-1-11, as read). **व्योमन्**: locative singular, *luk* by "supāṃ sulug…". **अधारयत्**: *ṇic*-ending *laṅ*, third person singular; because it stands at the beginning of the *pāda* there is no *nighāta*; being augment-initial *udātta*, it is a word with initial acute. **सुदंसाः**: *daṃsa* is a word for 'deed'; root *dasi daṃsanadarśanayoḥ*; ending in the affix *asun*, it has the initial acute; "śobhanaṃ daṃso yasya sa sudaṃsāḥ"; by "ādyudāttaṃ dvyac chandasi" (Pā. Sū. 6-2-119 [as read, ?]) in a *bahuvrīhi* the latter member, having two syllables, takes the initial acute; since the *ā* after *da* is acute, *sudaṃsāḥ* is a word with the acute in the middle. *Grammar page, noted briefly. Rik 62.7 ends here (ornamental rule).*
+
+#### Rik 62.8
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सनाद्दिवं परि भूमा विरूपे पुनर्भुवा युवती स्वेभिरेवैः ।**
+> **कृष्णेभिरक्तोषा रुशद्भिर्वपुर्भिरा चरतो अन्यान्या ॥ ८ ॥**
+> *sanād divaṃ pari bhūmā virūpe punarbhuvā yuvatī svebhir evaiḥ |*
+> *kṛṣṇebhir aktoṣā ruśadbhir vapurbhir ā carato anyānyā || 8 ||*
+
+---
+
+### Page 40 (PDF 58)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सनात् । दिवम् । परि । भूम । विरूपे इति विऽरूपे । पुनःऽभुवा । युवती इति । स्वेभिः । एवैः ।**
+> **कृष्णेभिः । अक्ता । उषाः । रुशत्ऽभिः । वपुःऽभिः । आ । चरतः । अन्याऽअन्या ॥ ८ ॥**
+> *sanāt | divam | pari | bhūma | virūpe iti vi-rūpe | punaḥ-bhuvā | yuvatī iti | svebhiḥ | evaiḥ |*
+> *kṛṣṇebhiḥ | aktā | uṣāḥ | ruśat-bhiḥ | vapuḥ-bhiḥ | ā | carataḥ | anyā-anyā || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **विरूपे शुक्लकृष्णतयोविषमरूपे पुनर्भुवा पुनःपुनः प्रतिदिवं सञ्जायमाने युवती तरुण्यौ । रात्र्युषसौ सर्वदैकरूप्यादेवंभूते रात्र्युषसौ दिवं द्युलोकं भूमा भूमिं च सनाच्चिरकालादारभ्य स्वेभिरेवैः स्वकीयैर्गमनैः परि चरतः । पर्यावर्तेते । अयमेवार्थः स्पष्टीक्रियते । अक्ता रात्रिः कृष्णेभिरन्धकाररूपैर्वर्णैरुपलक्षिता उषाश्च रुशद्भिर्दीप्यमानैर्वपुर्भिः स्वशरीरभूतैस्तेजोभिरुपलक्षिता अन्यान्या परस्परव्यतिहारेण चरतः । आवर्तेते । हे इन्द्र एतत्सर्वं त्वयैव कार्यते त्वदधीनत्वात्सर्वासां देवतानामित्यर्थः ॥ भूमा । सुपां सुलुगिति द्वितीयाया डादेशः । छान्दसो ह्रस्वः । एवैः । इण् गतौ । इण्नीज्भ्यां वन् । उ. १-१५३ [?] इति भावे वन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । अक्ता । नक्तेति रात्रिनाम । नलोपश्छान्दसः । वपुर्भिः । अर्तिस्तुसुहूसृधृक्षिक्षणिवपीत्यादिना । उ. २-११४ [?] । उस् । नित्त्वादाद्युदात्तः । अन्यान्या । कर्मव्यतिहारे सर्वनाम्नो द्वे भवतः इति वक्तव्यं समासवच्च बहुलम् । म. ८-१-१२-११ [?] । इति द्विर्भावे तस्य परमाम्रेडितमित्याम्रेडितसंज्ञायां अनुदात्तं चेत्याम्रेडितस्यानुदात्तत्वम् ॥**
+> *virūpe śuklakṛṣṇatayor viṣamarūpe punarbhuvā punaḥpunaḥ prativdivaṃ sañjāyamāne yuvatī taruṇyau | rātryuṣasau sarvadaikarūpyād evaṃbhūte rātryuṣasau divaṃ dyulokaṃ bhūmā bhūmiṃ ca sanāc cirakālād ārabhya svebhir evaiḥ svakīyair gamanaiḥ pari carataḥ | paryāvartete | ayam evārthaḥ spaṣṭīkriyate | aktā rātriḥ kṛṣṇebhir andhakārarūpair varṇair upalakṣitā uṣāś ca ruśadbhir dīpyamānair vapurbhiḥ svaśarīrabhūtais tejobhir upalakṣitā anyānyā parasparavyatihāreṇa carataḥ | āvartete | he indra etat sarvaṃ tvayaiva kāryate tvadadhīnatvāt sarvāsāṃ devatānām ity arthaḥ || bhūmā | supāṃ sulug iti dvitīyāyā ḍādeśaḥ | chāndaso hrasvaḥ | evaiḥ | iṇ gatau | iṇnījbhyāṃ van | U. 1-153 [?] iti bhāve vanpratyayaḥ | nittvād ādyudāttatvam | aktā | naktā iti rātrināma | nalopaś chāndasaḥ | vapurbhiḥ | artistusuhūsṛdhṛkṣikṣaṇivapīty ādinā | U. 2-114 [?] | us | nittvād ādyudāttaḥ | anyānyā | karmavyatihāre sarvanāmno dve bhavataḥ iti vaktavyaṃ samāsavac ca bahulam | Ma. 8-1-12-11 [?] | iti dvirbhāve tasya paramāmreḍitam ity āmreḍitasaṃjñāyāṃ anudāttaṃ cety āmreḍitasyānudāttatvam ||*
+> *"**Virūpe** — the two of unlike form, because of whiteness and blackness; **punarbhuvā** — being born again and again each day; **yuvatī** — the two young women, Night and Dawn, being always of the same character: Night and Dawn, so constituted, **sanāt** from a long time ago onward go around (**pari carataḥ**, revolve) **divam** the heavenly world and **bhūmā** the earth, by their own goings (**svebhir evaiḥ**). This very meaning is made clear: **aktā**, Night, marked by black colours that have the form of darkness, and **uṣāḥ**, Dawn, marked by bright **vapurbhiḥ** (bodies), splendours which are her own body, move **anyānyā**, one after the other by mutual exchange; they revolve. O Indra, all this is done by you alone, since all the deities are dependent on you — such is the sense."* (The Uṇādi numerals and the Mahābhāṣya numerals are as read and doubtful [?]; the grammar tail — *bhūmā*: the replacement of the accusative by *ḍā*, the shortening Vedic; *evaiḥ*: root *iṇ gatau* with the affix *van*, initial-acute because *n*-marked; *aktā*: *naktā* a word for night with the loss of *n*, Vedic; *vapurbhiḥ*: affix *us*, initial-acute; *anyānyā*: the doubling in reciprocal action, "karmavyatihāre sarvanāmno dve bhavataḥ", the second member being *āmreḍita* and unaccented — is characterized, not transcribed.)
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 41)*
+
+**विरूपे** — (white, black) having different forms; **पुनर्भुवा** — born again and again; **युवती** — (always) young women (the day and the night); **दिवम्** — the sky also; **भूम** — the earth also; **सनात्** — from eternal times; **स्वेभिरेवैः** — by their own goings and comings; **परि (चरतः)** — go around; **अक्ता** — the night; **कृष्णेभिः** — with black (forms) …
+
+---
+
+**Progress note:** Printed pp. 1–40 done (PDF 19–58): Rik 62.1–62.7 complete; Rik 62.8 — Saṃhitā, Pada, bhāṣya, and the beginning of the Pratipadārtha (p. 40). Next: p. 41 (PDF 59), the Pratipadārtha of Rik 62.8 continues ("कृष्णेभिः — with black (forms) …"). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
