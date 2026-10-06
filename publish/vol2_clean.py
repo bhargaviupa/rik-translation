@@ -61,6 +61,8 @@ def clean():
         out.append(blk)
     # Sūkta 3 heading: if the page-2 heading was dropped before insertion
     md = '\n\n'.join(out) + '\n'
+    from lighten import lighten
+    md = lighten(md)
     (OUT / 'vol2_clean.md').write_text(md, encoding='utf-8')
     (OUT / 'vol2_audit.md').write_text('# Volume 2 cleaning audit\n\n' + '\n'.join(audit) + '\n', encoding='utf-8')
     print(len(blocks), 'blocks in;', len(out), 'out;', len(audit), 'audit entries')
