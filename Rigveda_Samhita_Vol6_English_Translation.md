@@ -3387,8 +3387,6 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 > *puṣṭir na raṇvā kṣitir na pṛthvī girir na bhujma kṣodo na śambhu |*
 > *atyo nājman sargaprataktaḥ sindhur na kṣodaḥ ka īṃ varāte || 5 || 6 ||*
 
-*(Correction: the transliteration of the last line should read *atyo nājman sargaprataktaḥ* → **sargapratakta**ḥ; the Devanagari "सर्गप्रतक्तः" is as printed.)*
-
 ---
 
 ### Page 166 (PDF 184)
