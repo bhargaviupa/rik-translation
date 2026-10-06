@@ -3783,4 +3783,61 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–187 done (PDF 19–205): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 66.1 complete; **Rik 66.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 187, ending at *jetā*). Next: p. 188 (PDF 206), the grammar page of Rik 66.2 concludes; then Riks 66.3–66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Kannada notes on *takvā* (p. 183) compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 188 (PDF 206)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Grammar page for Rik 66.2, concluded (noted briefly).** **जेता** *(concluded)*: …the lengthening of the penultimate [by "ṛdusanas…"/"sarvanāmasthāne cāsambuddhau"]; by "halṅyābbhyo…" the loss of *su*; by "nalopaḥ prātipadikāntasya" the loss of the *n* [*anaṅ*'s final]; the form *jetā*. **जनानाम् (जेता)**: "yataś ca nirdhāraṇam" (Pā. Sū. 2-3-41, as read): when a selection is made from a group by class, quality, action or name, the genitive comes after the word denoting the thing that has the limit; the genitive arises here; since the genitive in the sense of the object is also obtained, the prohibition of the genitive by "na lokāvyayaniṣṭhākhalarthatṛnām" would apply, but the form is established by the sūtra stated earlier. **स्तुभ्वा**: root *stubha stutau*; by "anyeṣām api dṛśyate" the affix *kvanip*; the word *stubhvan*; where *su* follows, by "sarvanāmasthāne cāsambuddhau" the lengthening; by "halṅyābbhyo…" the loss of *su*; by "nalopaḥ prātipadikāntasya" the loss of *n*; the form *stubhvā*; since the affix is *p*-marked, the root accent remains. **प्रशस्तः**: root *śaṃsu stutau*; the affix *kta*; since it is *k*-marked, by "anidītāṃ hala upadhāyāḥ kṅiti" the loss of the penultimate nasal; the accent by the affix, final-acute; compounded with *pra*, by "gatikārakopapadāt kṛt" the accent of the first member of a *kṛdanta* [i.e. the *gati*]. **दधाति**: root *dudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, third person singular, the form as stated before; the *nighāta* accent of a verb. **॥ ३–४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 66.2 ends here (ornamental rule).*
+
+#### Rik 66.3 *(printed "5 || 6 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै ।**
+> **चित्रो यदभ्राट्छ्वेतो न विक्षु रथो न रुक्मी त्वेषः समत्सु ॥ ५ ॥ ६ ॥**
+> *durokaśociḥ kratur na nityo jāyeva yonāv araṃ viśvasmai |*
+> *citro yad abhrāṭ chveto na vikṣu ratho na rukmī tveṣaḥ samatsu || 5 || 6 ||*
+
+---
+
+### Page 189 (PDF 207)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **दुरोकऽशोचिः । क्रतुः । न । नित्यः । जायाऽइव । योनौ । अरम् । विश्वस्मै ।**
+> **चित्रः । यत् । अभ्राट् । श्वेतः । न । विक्षु । रथः । न । रुक्मी । त्वेषः । समत्ऽसु ॥ ५ ॥ ६ ॥**
+> *duroka-śociḥ | kratuḥ | na | nityaḥ | jāyā-iva | yonau | aram | viśvasmai |*
+> *citraḥ | yat | abhrāṭ | śvetaḥ | na | vikṣu | rathaḥ | na | rukmī | tveṣaḥ | samat-su || 5 || 6 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **दुरोकशोचिर्दुष्प्रापतेजाः क्रतुर्न नित्यः । क्रतुः कर्मणां कर्ता । स इव ध्रुवः । यथा स कर्मसु ध्रुवोऽप्रमत्तः सन् जागर्ति तद्वदयमप्यग्निः कर्मसु रक्षसां दहने ध्रुवो जागर्तीत्यर्थः । योनौ गृहे वर्तमाना जायेव योषितेव अग्निहोत्रादिगृहे वर्तमानो वह्निर्विश्वस्मै सर्वस्मै यष्ट्रजनायारमलं भूषणं भवति । यथा जायेयं गृहमलङ्कृतं भवति तद्वदग्निना यज्ञगृहमप्यलङ्कृतं सद्दृश्यत इत्यर्थः । चित्रश्चायनीयो विचित्रदीप्तिर्वा यद्यदायमग्निरभ्राट् भ्राजते तदानीं श्वेतो न शुभ्रवर्ण आदित्य इव भवति । रात्रौ ह्यहनि सूर्य इवाग्निः प्रकाशको भवति । विक्षु प्रजासु रथो न रथ इव रुक्मी सुवर्णवद्रोचमानदीप्तियुक्तः समत्सु संग्रामेषु त्वेषो दीप्तः । एवंभूतोऽग्निर्यदभ्राडिति पूर्वेणान्वयः ॥ दुरोकशोचिः । उच समवाये । ईषद्दुःसुष्विति कृच्छ्रार्थे खल् । बहुलवचनात्कत्वं । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वं । दुरोकं शोचिस्तेजो यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । अरं । वालमूलेत्यादिना । म. ८-२-१८ । लकारस्य रेफादेशः । अभ्राट् । भ्राजृ दीप्तौ । लङि व्यत्ययेन परस्मैपदं । बहुलं छन्दसीति शपो लुक् । व्रश्चादिषत्वे जश्त्वं । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । समत्सु । समानं माद्यन्त्येष्विति समदः संग्रामाः । औणादिकोऽधिकरणे क्विप् । समानस्य छन्दसीति सभावः । यद्वा । सम्यग् अत्ति भक्षयति वीरानिति समत् । संपूर्वादत्तेः क्विप्ष्ठेति क्विप् ॥**
+> *durokaśociḥ duṣprāpatejāḥ kratur na nityaḥ | kratuḥ karmaṇāṃ kartā | sa iva dhruvaḥ | yathā sa karmasu dhruvo 'pramattaḥ san jāgarti tadvad ayam apy agniḥ karmasu rakṣasāṃ dahane dhruvo jāgartīty arthaḥ | yonau gṛhe vartamānā jāyeva yoṣiteva agnihotrādigṛhe vartamāno vahnir viśvasmai sarvasmai yaṣṭṛjanāyāramalaṃ bhūṣaṇaṃ bhavati | yathā jāyeyaṃ gṛham alaṅkṛtaṃ bhavati tadvad agninā yajñagṛham apy alaṅkṛtaṃ sad dṛśyata ity arthaḥ | citraś cāyanīyo vicitradīptir vā yad yadāyam agnir abhrāṭ bhrājate tadānīṃ śveto na śubhravarṇa āditya iva bhavati | rātrau hy ahani sūrya ivāgniḥ prakāśako bhavati | vikṣu prajāsu ratho na ratha iva rukmī suvarṇavad rocamānadīptiyuktaḥ samatsu saṅgrāmeṣu tveṣo dīptaḥ | evaṃbhūto 'gnir yad abhrāḍ iti pūrveṇānvayaḥ || durokaśociḥ | uca samavāye | īṣadduḥsuṣv iti kṛcchrārthe khal | bahulavacanāt katvaṃ | litsvareṇa pratyayāt pūrvasyodāttatvaṃ | durokaṃ śocis tejo yasya | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | araṃ | vālamūletyādinā | Ma. 8-2-18 | lakārasya rephādeśaḥ | abhrāṭ | bhrājṛ dīptau | laṅi vyatyayena parasmaipadaṃ | bahulaṃ chandasīti śapo luk | vraścādiṣatve jaśtvaṃ | aḍāgama udāttaḥ | yadvṛttayogād anighātaḥ | samatsu | samānaṃ mādyanty eṣv iti samadaḥ saṅgrāmāḥ | auṇādiko 'dhikaraṇe kvip | samānasya chandasīti sabhāvaḥ | yadvā | samyag atti bhakṣayati vīrān iti samat | saṃpūrvād atteḥ kvipṣṭheti kvip ||*
+> *"**Durokaśociḥ**, of splendour hard to attain; **kratur na nityaḥ**, firm like a doer of rites (*kratu*, the doer of rites): as he stays alert, steady and unneglectful in rites, so this Agni too stays alert and steady in the burning of the demons. **Yonau jāyeva**, like a wife staying in the house, so Agni staying in the house of the Agnihotra and the like is **aram**, an ornament, to **viśvasmai**, every sacrificer: as a wife adorns the house, so the sacrificial house, adorned by Agni, is seen well adorned. **Citraḥ**, wonderful, or of variegated brightness; **yad abhrāṭ**, when he shines, then he is like a *śveta*, a bright-coloured sun; for at night Agni is the illuminator as the sun by day. **Vikṣu**, among the people, **ratho na**, like a chariot, **rukmī**, possessed of a golden gleam; **samatsu**, in battles, **tveṣaḥ**, flaming. Agni, thus constituted, **yad abhrāṭ**: so it joins with the earlier words. **Durokaśociḥ**: root *uca samavāye*; *khal* in the sense of difficulty by 'īṣadduḥsuṣu'; *k* by the 'bahula' licence; the syllable before the affix acute by the *lit*-accent; 'whose brilliance (*śocis*) is hard to attain (*duroka*)'; the accent of the first member in the *bahuvrīhi*. **Aram**: by 'vālamūla…' (Mahābhāṣya 8-2-18) *r* for *l*. **Abhrāṭ**: root *bhrājṛ dīptau*; in the *laṅ*, *parasmaipada* by exchange; the *luk* of *śap*; by 'vraścādiṣatva' [as read] the *jaś*; the *aṭ* augment is acute; no *nighāta* because of the connection with *yat*. **Samatsu**: 'where they rejoice together' are *samadaḥ*, battles; an Uṇādi *kvip* in the locative sense; *sa* for *samāna*; or, 'one who eats (*atti*) heroes well' is *samat*, from *ad* with *sam*, with *kvip*."* *(Grammar tail characterized; the Mahābhāṣya numeral is as read.)*
+
+---
+
+### Page 190 (PDF 208)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**दुरोकशोचिः** — of a splendour hard to endure (Agni); **क्रतुर्न** — like the doer of a sacrifice; **नित्यः** — alert (in destroying the demons and the like); **योनौ** — in the house; **जायेव** — like the wife of the house; **विश्वस्मै** — to all the sacrificers; **अरम्** — as an ornament; **विक्षु** — among the people; **रथो न** — like a chariot; **रुक्मी** — one who shines like gold; **समत्सु** — in battles; **त्वेषः** — flaming; **चित्रः** — Agni of wonderful brightness; **यत्** — when; **अभ्राट्** — he shines; **श्वेतो न** — like the bright-coloured sun, so he is.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni is of a splendour that others cannot bear; as the sacrificer is alert to the rites, so Agni is alert in the destruction of the demons who obstruct the sacrifice. In the house of each Agnihotrin he is an ornament, like the housewife. Among the people he shines like a golden chariot. At the time of battle, Agni of wonderful brilliance is of a bright splendour like the sun.
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, of unattainable effulgence, is like a vigilant sacrificer ; he is (an ornament to all in the sacrificial chamber), like a woman in a dwelling ; when he shines with wonderful lustre, he is like the white (sun), or like a golden chariot amongst men resplendent in battle.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **क्रतुर्न नित्यः** — *kratuḥ karmaṇāṃ kartā sa iva dhruvaḥ | yathā saḥ karmasu dhruvo 'pramattaḥ san jāgarti tadvad ayam apy agniḥ karmasu rakṣasāṃ dahane dhruvo jāgarti* — "the word *na* is used in the sense of *iva*, a word of comparison. As a doer of work is alert, never failing in what he undertakes, so Agni is always alert in the work of destroying the demons."
+- **योनौ जायेव विश्वस्मै अरम्** — *gṛhe vartamānā yoṣiteva agnihotrādigṛhe vartamāno agniḥ sarvasmai yaṣṭṛjanāya alaṃ bhūṣaṇaṃ bhavati* — "like a housewife in the house, Agni who is in the house of the Agnihotra and the like is an ornament to all the sacrificers. The word *yoni* is read among the twenty-two names of 'house' (Ni. [3-4]); as the woman of the house …" *(continues on p. 191)*.
+
+---
+
+**Progress note:** Printed pp. 1–190 done (PDF 19–208): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1, 66.2 complete; **Rik 66.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 190, ending at *yonau jāyeva*). Next: p. 191 (PDF 209), the Special Topics of Rik 66.3 continue, then its grammar page; then Riks 66.4, 66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; accent marks of the Saṃhitā/Pada not reproduced.
