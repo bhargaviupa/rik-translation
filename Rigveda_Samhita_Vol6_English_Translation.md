@@ -975,4 +975,62 @@ To offer this Rik, *tad u prayakṣatamam*, in the sacrificial rite called Prava
 
 ---
 
-**Progress note:** Printed pp. 1–43 done (PDF 19–61): Rik 62.1–62.8 complete; Rik 62.9 begun — Saṃhitā, Pada, and the bhāṣya with its grammatical tail begun (p. 43). Next: p. 44 (PDF 62), the grammar tail of Rik 62.9 continues, then Pratipadārtha etc. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; Saṃhitā "भूमा" vs Pada "भूम" noted in 62.8; "शोभनयोगादिकर्मयुक्तः" and "प्रवयः सनेमि" in 62.9 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 44 (PDF 62)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Bhāṣya (concluded) — the grammatical tail of Rik 62.9.**
+
+> **पा. ८-२-५२ [?] । इति निष्ठातकारस्य वत्वम् । रोहिणीषु । रुह बीजजन्मनि प्रादुर्भावे । रुहेः रश्च लो वा । उ. ३-९४ [?] । इतीतन्प्रत्ययान्तो रोहितशब्द आद्युदात्तो वर्णवाची । वर्णादनुदात्तात्तोपधात्तो नः । पा. ४-१-३९ [?] । इति ङीप् । तत्सन्नियोगेन तकारस्य नकारादेशश्च । ङीपः पित्त्वादनुदात्तत्वे प्रातिपदिकस्वर एव शिष्यते ॥**
+> *Pā. 8-2-52 [?] | iti niṣṭhātakārasya vatvam | rohiṇīṣu | ruha bījajanmani prādurbhāve | ruher ruś ca lo vā | U. 3-94 [?] | itītanpratyayānto rohitaśabda ādyudātto varṇavācī | varṇād anudāttāt topadhāt to naḥ | Pā. 4-1-39 [?] | iti ṅīp | tatsanniyogena takārasya nakārādeśaś ca | ṅīpaḥ pittvād anudāttatve prātipadikasvara eva śiṣyate ||*
+> *"…(Pā. 8-2-52, as read) the *t* of the participial ending *ta* becomes *v* [in *pakva*]. **Rohiṇīṣu**: root *ruha*, 'to grow from a seed, to appear'; "ruher ruś ca lo vā" (Uṇ. [3-94, ?]) gives the word *rohita*, ending in the affix *itan*, with initial acute, a colour-word; by "varṇād anudāttāt topadhāt to naḥ" (Pā. 4-1-39, as read) the feminine affix *ṅīp*, and in conjunction with it the *t* becomes *n*; since *ṅīp* is *p*-marked and so unaccented, the stem accent alone remains."* *(Grammatical tail, characterized; the numerals are as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**स्वपस्यमानः** — acting like an auspicious deed (performing auspicious deeds); **शवसा सूनुः** — the son of strength (the very strong); **सुदंसाः** — (Indra) of holy deeds like sacrifice; **सनेमि** — ancient; **सख्यम्** — the friendship (of the sacrificers); **दाधार** — makes a sheltered one (nourishes); (Indra, you) **आमासु चित्** — even among unripe cows; **अन्तः** — within; **पक्वम्** — ripe; **पयः** — milk; **दधिषे** — you place; **कृष्णासु** — in black (cows); **रोहिणीषु** — in red (cows); **रुशत्** — shining (white); (*payaḥ*, milk); (*dadhiṣe*, you place).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Indra is of very great strength, of auspicious and holy deeds, and a friend of the sacrificers. He also makes ripe milk in cows that are not ripened. And whether the cows are black or red, he makes the milk in them white and pure.
+
+**English Translation** *(the source's own, as printed):*
+
+> (Indra) the son of strength, full of good works, diligent in pious acts retains his ancient friendships for his people ; O Indra, you placed the ripened milk in immature cows whether black or red and white milk in the black cows [sic: as printed].
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada, with an English phrase as printed)*
+
+- **सनेमि** (*sanemi*) — "Among the six names of 'ancient' beginning *pratnam, pradivaḥ*, the word *sanemi* is read (Ni. 3-[20], as read, ?); hence 'ancient, old, from long ago'; *sanemi* means friendship that has come from a very long time ago, *old friendship*" (the English is in the source).
+
+---
+
+### Page 45 (PDF 63)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **स्वपस्यमानः** — "*apaḥ* means 'deed' (Ni. [2-1, ?]); *su + apaḥ* is 'beautiful deed': Indra who has such deeds — this is the purport."
+- **सूनुः शवसा** — *balasya putraḥ* — "son of strength, of power: one who is very strong."
+- **सुदंसाः** — "*daṃsaḥ* means 'deed' (Ni. [2-1, ?]); *sudaṃsāḥ* is one who has performed many bold deeds."
+- **आमासु चित् दधिषे पक्वम् अन्तः पयः — अपरिपक्वासु गोषु चान्तर्मध्ये पक्वं पयो दधिषे** — "In the second half of this Rik there are two sentences. Both sentences describe two glories of Indra. The first of these is the sentence describing the glory that, even before the cows grow well and bear calves, he causes milk to arise in them. The other sentence is **payaḥ kṛṣṇāsu ruśat rohiṇīṣu**: whether the cows are black or red, their milk alone is white; Indra alone has the power to do such a deed — this second glory of Indra is described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.9 (noted briefly).** **सख्यम्**: *sakhyur bhāvaḥ sakhyam*; the affix *ya* in the sense of *bhāva* by "sakhyur yaḥ" (Pā. Sū. 5-1-126, as read); because of the *yādi* affix there is the *bha* designation, so the loss of *i* by "yasyeti ca"; the affix's initial acute. **स्वपस्यमानः**: "he acts like *svapas*": the affix *kyac* after *svapas*; *svapasyate*; after *kyac*, *śānac* in the sense of *laṭ*; the *muk* augment after a stem ending in *a* by "āne muk"; because the *laṭ*-*sārvadhātuka* after a word accented [low] by the *upadeśa* is unaccented, the *kyac* accent remains by *sati-śiṣṭa*. **दाधार**: root *dhṛṅ dhāraṇe*; *liṭ*, third person singular; "parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ" gives *ṇal*; because of *liṭ* the root is doubled; in the reduplicative syllable *ṛ* → *a* by "ur at"; of what remains, the first consonant; the *jaś* substitution; since *ṇal* conditions it, *vṛddhi* of the root's *ṛ* by "aco ñṇiti"; with "uraṇ raparaḥ" it becomes *r*-final: *dadhāra*; as the root is of the *tujādi* class, the reduplicative syllable lengthens by "tujādīnāṃ dīrgho 'bhyāsasya" (Pā. Sū. 6-1-7, as read); the *nighāta* accent by "tiṅ atiṅaḥ". *Grammar page, noted briefly; the sūtra numbers as read.*
+
+---
+
+### Page 46 (PDF 64)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Grammar page for Rik 62.9, concluded (noted briefly).** **पक्वम्**: root *ḍupacaṣ pāke*; the affix *kta* in the passive; when *pac + ta*, the *t* of the participle becomes *v* by "paco vaḥ" (Pā. Sū. 8-2-52, as read); since this is *asiddha* (not yet in effect), the *c* becomes *k* by "co kuḥ" (Pā. Sū. 8-2-30, as read): the form *pakva*; final-acute by the affix accent. **रोहिणीषु**: root *ruha bījajanmani prādurbhāve*; "ruher ruś ca lo vā" (Uṇ. Sū. 3-94 [?], read "3-9?"): the affix *itan*; *guṇa* of the root because the affix conditions the lowering of the vowel; *rohita* has the initial acute and denotes a colour; therefore in the feminine, by "varṇād anudāttāt topadhāt to naḥ" (Pā. Sū. 4-1-39, as read), *ṅīp*; in conjunction with it the *t* becomes *n*; the unaccented *ṅīp*, being *p*-marked, leaves the stem accent. When what is stated earlier applies to the word *rohita* as a colour-word, a *t*-penultimate stem, we get *rohiṇī*; since an *n* follows *r*, the retroflex *ṇ* comes by "aṭkupvāṅnumvyavāye 'pi"; locative plural *rohiṇīṣu*; the word has the initial acute. *Grammar page, noted briefly; the sūtra numbers as read; ornamental rule follows.* *(Rik 62.9 ends here.)*
+
+#### Rik 62.10
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सनात्सनीळा अवनीरवाता व्रता रक्षन्ते अमृताः सहोभिः ।**
+> **पुरू सहस्रा जनयो न पत्नीर्दुवस्यन्ति स्वसारो अह्रयाणम् ॥ १० ॥**
+> *sanāt sanīḷā avanīr avātā vratā rakṣante amṛtāḥ sahobhiḥ |*
+> *purū sahasrā janayo na patnīr duvasyanti svasāro ahrayāṇam || 10 ||*
+
+---
+
+**Progress note:** Printed pp. 1–46 done (PDF 19–64): Rik 62.1–62.9 complete; Rik 62.10 begun — Saṃhitā only (p. 46). Next: p. 47 (PDF 65), the Pada text and bhāṣya of Rik 62.10. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; Saṃhitā "भूमा" vs Pada "भूम" noted in 62.8; "शोभनयोगादिकर्मयुक्तः" and "प्रवयः सनेमि" in 62.9 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
