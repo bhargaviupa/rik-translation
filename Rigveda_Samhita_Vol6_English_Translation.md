@@ -299,6 +299,46 @@
 
 **Translation** *(editorial and tentative)*: "Here is the story. *Saramā* is the divine bitch. When the Paṇis had carried off the cows, Indra sent that Saramā to search for them — as in the world a hunter looses a dog to find a deer that has gone into the forest. And she spoke thus: 'O Indra, if you give milk and other food, belonging to you, for my child, then I shall go.' He said, 'So be it.' And so the Śāṭyāyanaka says: 'I shall make your offspring eaters of food, O Saramā, [if] you find our cows for us.' Then she went and learned the place of the cows, and, having learned it, told him. When the cows were so announced, [Indra] killed that demon and got those cows back. This is the sense taught in this [Ṛk]. *Indrasya aṅgirasām ca iṣṭau*: at the sending, by Indra and the sages the Aṅgirases, Saramā the divine bitch *vidat*, found, *dhāsim*, food, for her child (*tanayāya*). *Dhāsi* is a word for food, being read among the names of food. When the cows had been announced by her, Bṛhaspati — lord of the great gods, Indra — *bhinat*, split the mountain, the demon who devoured. *Vidat gāḥ*: found the cows, which had been stolen by someone. Then *naraḥ*, the leading gods, with the *usriyābhiḥ*, the cows — *usriyā* is a word for cow — *saṃ vāvaśanta*, cried out greatly in joy; or, they desired their milk and the like by means of the cows; the sense is that they assembled. *Iṣṭau*: from *iṣa gatau*, with the affix *ktin* in the sense of the action; *ktin* is acute by 'mantre vṛṣeṣa-…'. *Vidat*: root *vidḷ lābhe*; in the aorist, *aṅ* because the root is *lṛt*-marked; … *Saramā*: 'Saramā, from running' (Nir. 11-24 [?], so Yāska); the Uṇādi affix *ama* after *sṛ*. *Dhāsim*: root *dheṭ pāne*, 'what is drunk', *dhāsiḥ*; the Uṇādi affix *si*; or from the root *dadhāti* in the sense of nourishing, with *si*. *Bṛhaspatiḥ* …" *(continues on p. 14)*
 
+### Page 14 (PDF 32) — bhāṣya of Rik 62.3 concluded (grammar); Pratipadārtha; Bhāvārtha; the source's English
+
+**Sāyaṇa-bhāṣya, concluded (pp. 13–14)** — *grammar, characterized, not transcribed.* ***Bṛhaspatiḥ***: the *suṭ* augment between *bṛhat* and *pati* and the loss of the *t*, by the rule printed with the Kannada numerals "६-१-१५७" (*pā.* 6-1-157, as read [?]); the word *bṛhat* is end-acute, and some say it is first-acute; ***paṇi*** (the Paṇis, the cow-stealers) is formed with the affix *i* and is first-acute; ***usriyābhiḥ***: "*nivasaty asyāṃ kṣīrādikam ity usrā gauḥ*" (the cow in which milk and the like abide), from *vasa nivāse* with the affix *ra*, and the *saṃprasāraṇa* of *va*; the Nighaṇṭu is cited ("*iti nighaṇṭubhāṣyam*"); ***vāvaśanta***: root *vāśṛ śabde*, in the *laṅ*/*liṭ* forms with the substitute *jha* → *anta* in the middle, the doubling of the root by "*chandasy ubhayathā*" and the loss by "*ārdhadhātuka-…*", with the accent on the root by *vyatyaya*; ***naraḥ*** (the nominative plural of *nṛ*); and the *sampra-sāraṇa* rule printed "पा. ६-१-१५ [?]" (*vaśi*). The page ends with the statement that the *saṃprasāraṇa* is by the sūtra "*vaśiṣyāde*" — noted, not reproduced.
+
+**Pratipadārtha** *(Kannada, rendered)*: *indrasya* — of Indra; *aṅgirasāṃ ca* — and of the Aṅgirasa sages; *preṣaṇe* — in the sending (when sent to search); *saramā* — Saramā, the dog of the gods; *tanayāya* — for her child; *dhāsim* — food (milk); *vidat* — found (so that the cows might be known to be there); *bṛhaspatiḥ* — Indra; *adrim* — the demon who devours the cows (the *asura*); *bhinat* — he killed; *gāḥ* — the cows; *vidat* — (again) he found; *naraḥ* — the gods who are the leaders; *usriyābhiḥ* — with the cows; *saṃ vāvaśanta* — they cried out greatly in joy, or greatly obtained milk and the like.
+
+**Bhāvārtha** *(Kannada, rendered)*: "As was told before, the Paṇis, the *asuras*, took the cows and went off. Sent by Indra and the sages Aṅgirases, Saramā, the dog of the gods, searched, and for her own child obtained milk from the cows (that is, food). She [also] learned where the cows were, and told Indra. Indra then killed the demon and brought the cows back. Then the gods, together with the cows, cried out strongly in joy, and obtained milk and the like as they wished."
+
+**English Translation** *(printed in English in the source)*:
+
+> "When the search was made at the command of Indra and the Angirasas, Sarama secured food (milk) for her young; then Brihaspati slew the devourers (or broke the mountain) and rescued the cows and the gods (when they got the cattle back) proclaimed their joy aloud."
+
+### Page 15 (PDF 33) — Special Topics: the Saramā story
+
+**Special Topics (*viśeṣa-viṣayagaḷu*)** *(Kannada, rendered)*
+
+"The commentator tells a story here: *Saramā* is a female dog belonging to the gods. When the demons called Paṇis had carried off the gods' cows and hidden them in a cave, Indra sent this divine bitch Saramā to search for the cows. Just as in worldly practice a hunter sends his own dog to look for deer, so Indra sent this divine bitch to search; and she answered him: 'O Indra, if you will give food — milk and the like — for my child, then I shall go and find the cows.' *(The people of the Śāṭyāyana branch say: "*annādinīṃ te sarame prajāṃ karomi yo no gā anvavinda*" — अन्नादिनीं ते सरमे प्रजां करोमि यो नो गा अन्वविन्द — *annādinīṃ te sarame prajāṃ karomi yo no gā anvavinda* — "O Saramā, I shall provide food for your offspring [if] you find our cows": that is, he will supply food for her child, and she must go and bring [news of] the cows.)* Then Indra, as she wished, ... the bitch, going out and searching, saw the place where the Paṇis had hidden the cows, and informed Indra of it. Indra, having heard, killed the *asura* and the cows were released and brought back. This is the idea that is taught in this Ṛk.
+
+"*Saramā* means 'the bitch of the gods', that is, Indra's bitch. She had two children, it is said, who are with Yama, the god of the dead, and by the name of their mother they are known as *Sārameyau* ('the two sons of Saramā')":
+
+> **अति द्रव सारमेयौ श्वानौ चतुरक्षौ शबलौ साधुना पथा ।**
+> **यौ ते श्वानौ यम रक्षितारौ चतुरक्षौ पथिरक्षी नृचक्षसौ ॥**
+> *ati drava sārameyau śvānau caturakṣau śabalau sādhunā pathā |*
+> *yau te śvānau yama rakṣitārau caturakṣau pathirakṣī nṛcakṣasau ||* (Ṛ. Saṃ. 10-14-10, 11 [?])
+
+*(Printed form of the Ṛk. "Run past the two Sārameya dogs, four-eyed, brindled, along the good path. [Which] your two dogs, O Yama, the guardians, four-eyed, path-guards, watchers of men …" Translation editorial, tentative. The Kannada text states that these Ṛks show the Sārameyas are four-eyed.)*
+
+"The conversation between Saramā, the divine bitch, and the Paṇis, whom she approached and with whom she negotiated, is described in the 108th sūkta of the 10th maṇḍala of the Ṛgveda [?]":
+
+> **किमिच्छन्ती सरमा प्रेदमानड् दूरे ह्यध्वा जगुरिः पराचैः ।**
+> **कास्मेहितिः का परितक्म्यासीत्कथं रसाया अतरः पयांसि ॥**
+> **इन्द्रस्य दूतीरिषिता चरामि मह इच्छन्ती पणयो निधीन् वः ।**
+> **अतिष्कदो भियसा तन्न आवत्तथा रसाया अतरं पयांसि ॥**
+> *kim icchantī saramā predam ānaḍ dūre hy adhvā jaguriḥ parācaiḥ |*
+> *kāsmehitiḥ kā paritakmyāsīt kathaṃ rasāyā ataraḥ payāṃsi ||*
+> *indrasya dūtīr iṣitā carāmi maha icchantī paṇayo nidhīn vaḥ |*
+> *atiṣkado bhiyasā tan na āvat tathā rasāyā ataraṃ payāṃsi ||*
+
+*(The four lines are as printed on p. 15 in Kannada script; the verse is Ṛ. Saṃ. 10-108-1, 2 [?]; the numeral is small. Gloss, editorial and tentative — "'Seeking what, Saramā, have you come here? The way is far, [it] leads away. What was your errand? How did you cross the waters of the Rasā?' 'Sent as Indra's messenger I go, seeking your great treasures, O Paṇis. Out of fear [of the water] it stepped aside from the crossing: thus did I cross the waters of the Rasā.'")*
+
 ---
 
-**Progress note:** Printed pp. 1–13 done (PDF 19–31): Rik 62.1–62.2 complete; Rik 62.3 — Saṃhitā, Pada and the opening of Sāyaṇa's bhāṣya (the story of Saramā and the Paṇis). Next: p. 14 (PDF 32), the rest of the bhāṣya (from "bṛhaspatiḥ …") and its Pratipadārtha. Open flags: crowded words on p. 13 [?]; Nirukta 11-24 [?]; many sūtra numbers [?]; Saṃhitā accents not reproduced.
+**Progress note:** Printed pp. 1–15 done (PDF 19–33): Rik 62.1–62.2 complete; Rik 62.3 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics (the story of Saramā and the Paṇis, with Ṛ. Saṃ. 10-14-10, 11 and 10-108-1, 2). Next: p. 16 (PDF 34), the Special Topics continue. Open flags: Nirukta numbers [?]; reference numerals on p. 15 [?]; the grammar tails of pp. 13–14 are summaries; the glosses on p. 15 are tentative.
