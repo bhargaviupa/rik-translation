@@ -3453,4 +3453,60 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–169 done (PDF 19–187): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1 and 65.2 complete; **Rik 65.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 169, breaking off at *sindhur na kṣodaḥ*). Next: p. 170 (PDF 188), the Special Topics of Rik 65.3 conclude; then its grammar page; then Riks 65.4, 65.5 and the sūkta's closing line; then Sūkta 66. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; doubtful phrases in the 65.3 bhāṣya and in Skandasvāmin's note on p. 169 [?]; earlier flags as marked inline; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 170 (PDF 188)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**Special Topics (concluded; Kannada).** "…[the word *sindhu* in the sense of 'river'] is used here only in its etymological sense: the waters always run with speed towards low ground; in the same way Agni too goes with speed towards what he is to burn. It is impossible to check him. The same meaning is given for these Ṛks in Skandasvāmin's commentary too."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 65.3 (noted briefly).** **पुष्टिः**: root *puṣa puṣṭau*; in the sense of *bhāva* the affix *ktin* by "striyāṃ ktin"; *ṣ* [for *t*] by the connection with the *ṣ*-ending root. **रण्वा**: root *ravi gatau*; "what is gone to" is *raṇvaḥ*; the affix *ac* of the *pacādi* class, which is enjoined in the agent sense, by the "bahulam" in "kṛtyalyuṭo bahulam" [as read, Pā. Sū. 3-3-113] comes here in the object sense after this root; the *num* augment by "idito num dhātoḥ"; by "aṭkupvāṅnumvyavāye 'pi" *ṇ* for *n*; in the feminine, *ṭāp*: *raṇvā*; by the affix accent, final acute. **भुज्म**: root *bhuja pālanābhyavahārayoḥ*; in "uṇādayo bahulam", by the "bahula" licence the affix *mak* enjoined by "iṣiyudhīndhidasi…" (Uṇ. Sū. 1-[145], as read) comes after this root; since *k*-marked, no *laghūpadha-guṇa*; with *su* following, the *luk* of the case-ending by "supāṃ sulug…". **अज्मन्**: root *aja gatikṣepaṇayoḥ*; by "sarvadhātubhyo manin" (Uṇ. Sū. 4-[145], as read) the affix *manin*; though by "ajer vyaghañapoḥ" (Pā. Sū. 2-4-56, as read) the substitute *vī* would arise for the root, by the Kāśikā statement "valādāv ārdhadhātuke vikalpa iṣyate" the *vī*-substitution does not come; the word *ajman*; with the locative singular, the *luk* by "supāṃ sulug…"; the loss of *n* does not come by "ṅau sambuddhyoḥ [na lopaḥ]". **सर्गप्रतक्तः**: root *sṛja visarge*; to it the affix *ghañ* — *laghūpadha-guṇa*; by "coḥ kuḥ… ghiṇyatoḥ" the *k* for the *j* and so *g*: *sarga*; ending in the *ñ*-marked affix, the initial acute; the root *takṣ…* [as read: "taki gatau" (?)], in the sense of the root it is included [with a causal sense]; to it the affix *kta*; by "yasya vibhāṣā" the *iṭ* augment is not for *kta*; because it is *k*-marked, by "anidītāṃ hala upadhāyāḥ kṅiti" the loss of the penultimate *n* of the root; the form *prataktaḥ*; "prataktaḥ by sarga" = *sargaprataktaḥ*; by "tṛtīyā karmaṇi" (Pā. Sū. 6-2-48, as read) the accent of the first member *(continues on p. 171)*.
+
+---
+
+### Page 171 (PDF 189)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 65.3, concluded (noted briefly).** **सर्गप्रतक्तः** *(concluded)*: …; since "*sarga*" is initial-acute, the word is initial-acute. **वराते**: root *vṛñ varaṇe*; here too the sense of *ṇic* is contained in the root meaning; to this root, whose sense is causal, in the *leṭ*, third person singular, the affix *ta*; by "ṭita ātmanepadānāṃ ṭer e" the *e* for *ṭi*; by "leṭoṭāṭau" the augment *aṭ* [here *āṭ*? as read]; by "vyatyayo bahulam" the vikaraṇa *śap* [*śabvikaraṇa*]; since *śap* conditions it, *guṇa* of the root; by "uraṇ raparaḥ" it comes with *r*; by "vaito 'nyatra" (Pā. Sū. 3-4-96, as read) the *ai* for the *e* of the *leṭ* is optional; therefore it does not come here; the form *varāte*; the *nighāta* accent of a verb. **॥ ५–६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 65.3 ends here (ornamental rule).*
+
+#### Rik 65.4 *(printed "7 || 8 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **जामिः सिन्धूनां भ्रातेव स्वस्रामिभ्यान्न राजा वनान्यत्ति ।**
+> **यद्वातजूतो वना व्यस्थादग्निर्ह दाति रोमा पृथिव्याः ॥ ७ ॥ ८ ॥**
+> *jāmiḥ sindhūnāṃ bhrāteva svasrām ibhyān na rājā vanāny atti |*
+> *yad vātajūto vanā vy asthād agnir ha dāti romā pṛthivyāḥ || 7 || 8 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **जामिः । सिन्धूनाम् । भ्राताऽइव । स्वस्राम् । इभ्यान् । न । राजा । वनानि । अत्ति ।**
+> **यत् । वातऽजूतः । वना । वि । अस्थात् । अग्निः । ह । दाति । रोमा । पृथिव्याः ॥ ७ ॥ ८ ॥**
+> *jāmiḥ | sindhūnām | bhrātā-iva | svasrām | ibhyān | na | rājā | vanāni | atti |*
+> *yat | vāta-jūtaḥ | vanā | vi | asthāt | agniḥ | ha | dāti | romā | pṛthivyāḥ || 7 || 8 ||*
+
+---
+
+### Page 172 (PDF 190)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **सिन्धूनां स्यन्दनशीलानामपामयमग्निर्जामिर्बन्धुः । तासामुत्पादकत्वात् । तथा चाम्नातं । अग्नेरापः इति । यद्वा । देवेभ्यः पलायितोऽप्सु वर्तमानः सन् तासामपां बन्धुर्बभूवेत्यर्थः । तत्र दृष्टान्तः । स्वस्राम् स्वसृणां भ्रातेव । यथा भ्राताऽतिशयेन हितकरो भवति तद्वत् । स चाग्निर्वनानि महान्त्यरण्यान्यत्ति । भक्षयति । दहतीत्यर्थः । तत्र निदर्शनं राजेभ्यान्न । इभ्यं धनमित्यादिनैरुक्तव्युत्पत्त्येभ्यान् धनिनः शत्रून् । तान्यथा समूलं हिनस्ति तद्वत् । यद्वा । इभ्याः धनिनः । तान्यथा धनमपहरन् राजा हिनस्ति तद्वदित्यर्थः । अपि च यद्यदा वातजूतो वातेन प्रेरितः सन्नाना वनान्यरण्यानि व्यस्थात् । उक्तप्रकारेण विविधमातिष्ठति । दग्धुं प्रवर्तते तदानीमग्निर्हासावग्निरेव पृथिव्या भूमेः सम्बन्धीनि रोमौषधिरूपाणि रोमाणि दाति । छिनत्ति । भूम्यामोषधिवनस्पतिजातं यदस्ति तत्सर्वं दहतीति भावः ॥ स्वस्राम् । आनो नुडभावश्छान्दसः । अस्थात् । लुङि गातिस्थेति सिचो लुक् । दाति । दाप् लवने । अदादित्वाच्छपो लुक् ॥**
+> *sindhūnāṃ syandanaśīlānām apām ayam agnir jāmir bandhuḥ | tāsām utpādakatvāt | tathā cāmnātaṃ | agner āpa iti | yadvā | devebhyaḥ palāyito 'psu vartamānaḥ san tāsām apāṃ bandhur babhūvety arthaḥ | tatra dṛṣṭāntaḥ | svasrām svasṛṇāṃ bhrāteva | yathā bhrātā 'tiśayena hitakaro bhavati tadvat | sa cāgnir vanāni mahānty araṇyāny atti | bhakṣayati | dahatīty arthaḥ | tatra nidarśanaṃ rājebhyān na | ibhyaṃ dhanam ity ādinairuktavyutpattyā ibhyān dhaninaḥ śatrūn | tān yathā samūlaṃ hinasti tadvat | yadvā | ibhyāḥ dhaninaḥ | tān yathā dhanam apaharan rājā hinasti tadvad ity arthaḥ | api ca yad yadā vātajūto vātena preritaḥ sann ānā vanāny araṇyāni vyasthāt | uktaprakāreṇa vividham ātiṣṭhati | dagdhuṃ pravartate tadānīm agnir hāsāv agnir eva pṛthivyā bhūmeḥ sambandhīni romauṣadhirūpāṇi romāṇi dāti | chinatti | bhūmyām oṣadhivanaspatijātaṃ yad asti tat sarvaṃ dahatīti bhāvaḥ || svasrām | āno nuḍabhāvaś chāndasaḥ | asthāt | luṅi gātistheti sico luk | dāti | dāp lavane | adāditvāc chapo luk ||*
+> *"Of the **sindhūnām**, flowing waters, this Agni is the **jāmi**, the kinsman, being their producer; so it is handed down: 'the waters are from Agni'. Or: having fled from the gods and staying in the waters, he became the kinsman of those waters. The example: **svasrām bhrāteva** — like a brother of sisters: as a brother is most helpful, so. And that Agni **atti**, eats, burns, **vanāni**, the great forests. The illustration here is **rājā ibhyān na**: *ibhya* means 'wealth' by the etymology of the Nirukta-writers etc.; [so] *ibhyān* are 'wealthy enemies'; as a king destroys them with their roots; or: *ibhyāḥ* — the rich; as a king who takes away their wealth destroys them [the reading of this sentence is doubtful, ?]. And further, **yat**, when, **vātajūtaḥ**, driven by the wind, he **vy asthāt** — spreads about the forests in many ways in the manner stated, sets out to burn — then **agnir ha**, Agni indeed, **dāti** — cuts, shears — **romā**, the hairs of the earth, i.e. herbs; **pṛthivyāḥ**, of the earth: whatever grows of herbs and trees on the earth, he burns it all. **Svasrām**: the absence of the *nuṭ* for *ām* is Vedic. **Asthāt**: in the *luṅ* the *luk* of *sic* by 'gātisthā…'. **Dāti**: root *dāp lavane* ['to cut']; the *luk* of *śap* since it belongs to the *adādi* class."* *(Reading of "स्वस्राम् स्वसृणां" and the sentence on *ibhya* doubtful in the print [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**सिन्धूनाम्** — of these running waters (this Agni); **जामिः** — kinsman; **स्वस्राम्** — to sisters; **भ्रातेव** — like a brother; **राजा** — like a king; **इभ्यान् न** — as [a king] destroys [rich] enemies; **वनानि** — forests; **अत्ति** — he eats; **यत्** — when; **वातजूतः** — driven by the wind; **वना** — the forests; **व्यस्थात्** — begins to burn [then]; **अग्निः ह** — Agni indeed; **पृथिव्याः** — belonging to the earth; **रोमा** — the hairs (the herbs and trees); **दाति** — he cuts (burns).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* (Because water arises from Agni, or because the fugitive Agni lay hidden in the water,) Agni, who is like a brother to the sisters, the waters, consumes forests as a king destroys enemies. Driven by the wind (when the wind blows with force) he burns even the herbs and the trees in the forests.
+
+**English Translation** *(the source's own, as printed):*
+
+> He is the friend of the waters, like a brother to his sisters, he consumes the forest as a king slays his enemies, when excited by the wind, he traverses the woods and shears the hairs (trees) of the earth.
+
+---
+
+**Progress note:** Printed pp. 1–172 done (PDF 19–190): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1–65.3 complete; **Rik 65.4** (half-Ṛks 7–8) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English done (pp. 171–172). Next: p. 173 (PDF 191), the Special Topics and grammar page of Rik 65.4; then Rik 65.5 (half-Ṛks 9–10) and the closing line of Sūkta 65; then Sūkta 66. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; the sentence on *ibhya* and "स्वस्राम् स्वसृणाम्" in the 65.4 bhāṣya doubtful [?]; the "taki gatau" root in 65.3 [?]; earlier flags as marked inline; accent marks of the Saṃhitā/Pada not reproduced.
