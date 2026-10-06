@@ -3561,4 +3561,48 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–175 done (PDF 19–193): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1–65.4 complete; **Rik 65.5** (half-Ṛks 9–10, the last) — Saṃhitā, Pada and bhāṣya (with grammar tail) done (pp. 174–175). Next: p. 176 (PDF 194), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of Rik 65.5; the closing line of Sūkta 65; then Sūkta 66 (10 half-Ṛks; the second *dvaipada* sūkta). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; doubtful phrases in the 65.4 and 65.5 bhāṣya as marked inline; Special Topics remark on Vaidyuta/Dāvāgni (p. 173) [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 176 (PDF 194)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**क्रत्वा** — by his own light, the cause of knowledge; **विशाम्** — for the subjects; **चेतिष्ठः** — the greatest giver of knowledge (who causes knowledge of things in darkness); **उषर्भुत्** — awakened at dawn (by the homas and the like); **सोमो न** — like Soma; **वेधाः** — the creator; **ऋतप्रजातः** — born of water; **पशुर्न शिश्वा** — like a cow with a calf (with limbs drawn together, like a lying animal); **विभुः** — grown great (like a cow with young); **दूरेभाः** — of light visible at far-off places (Agni, who had fled from the gods); **अप्सु** — in the waters; **हंसो न** — like a swan; **सीदन्** — sitting; **श्वसिति** — he lives (breathes).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, in the time covered by darkness, gives knowledge of things to the subjects by his own light. At the time of dawn, awakened in the Agnihotra and the like, he rouses people. Having fled from the gods and hidden in the water, he was contracted of body; afterwards, as an animal that was lying down spreads its limbs when it wakes up, Agni, when he rose from the water, took on his form and lives in the water like a swan.
+
+**English Translation** *(the source's own, as printed):*
+
+> He breaths [sic] amidst the waters like a sitting swan ; awakened at the dawn, he restores by his operations conciousness [sic] to men ; he is a creator, like Soma ; born from the waters, (where he lurked) like an animal with coiled-up limbs, he became enlarged, and his light (spread) afar.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **विशां चेतिष्ठः** — *prajānām atiśayena cetayitā jñāpayitā | rātrau sarve janāḥ andhakārāvṛtaṃ sarvam agneḥ prakāśāt jānanti* — "at night all people learn everything that is covered by darkness by the light of Agni: therefore Agni is the giver of knowledge to all the subjects."
+- **उषर्भुत्** — *uṣasi budhyate iti uṣarbhut | uṣasi uṣaḥkāle agnihotrādau prabuddhaḥ* — "at the time of dawn, those who sacrifice, whose habit is yoga [of ritual?], awaken this Agni for the performance of rites such as the Agnihotra; therefore Agni is called *uṣarbudh*."
+
+---
+
+### Page 177 (PDF 195)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 12".)*
+
+**Special Topics (continued; Kannada).**
+
+- **सोमो न वेधाः** — *soma iva vidhātā sraṣṭā | somo yathā sakalauṣadhirūpaṃ bhogyajātaṃ sṛjati | 'somo vā oṣadhīnāṃ rājā' (Tai. Saṃ. 6-1-8-1) iti śruteḥ | tathā sakalaṃ bhoktṛjātaṃ sṛjati agner eva bhoktṛrūpeṇāvasthānāt | tathā ca taittirīyakam — 'agnir annādo 'nnapatiḥ' iti | vājasaneyake 'pi bhoktṛbhogyayor agnīṣomātmakatvam āmnātam — 'etāvad vā idam annaṃ caivānnādaś ca soma evānnam agnir annādaḥ' iti* — "*Soma* [here] from *soma abhiṣave*: the creator, the maker. That is, Agni is a creator like Soma. Soma, the god, is the king of all herbs, as the Taittirīya Saṃhitā mantra (6-1-8-1, as read) and the Taittirīya Brāhmaṇa sentence ([3-1-2-1], as read, ?) say; so Soma creates the various objects of enjoyment, such as plants. In the same way Agni too is, in the form of an object of enjoyment, the eater of all. In the Taittirīya Brāhmaṇa sentence (3-[1]-[2]-[1], as read) it is said that Agni is the eater of food and lord of food. In the Vājasaneya śākhā too, in the same way, Soma is the thing enjoyed and Agni the enjoyer; as there is the śruti text '*soma evānnam agnir annādaḥ*', Soma and Agni are the enjoyed and the enjoyer."
+- **पशुर्न शिश्वा विभुः** — *udakamadhye vartamāno 'gniḥ śayānaḥ paśur iva tanūkṛtaḥ saṅkucitagātro 'bhūt | tataḥ prādurbhūtaḥ san vibhuḥ prabhūtaḥ sampannaḥ | yadvā śiśunā garbhasthena vatsena sahitā gaur iva vibhuḥ prabhūtāvayavo jāta ity arthaḥ* — "while Agni lived in the water, his body was reduced, like the body of a (lying) animal, to a very small measure. After the nectar-like water had nourished him, he came out from the water with a firm and great body. Or, like a cow with a calf in her womb, Agni, well grown, had a well-developed body: so there are these two meanings."
+- **दूरेभाः** — *dūre viprakṛṣṭadeśe 'pi bhāḥ prakāśo yasya saḥ* — "although Agni is far away, the light of his splendour is spread everywhere."
+- *Skandasvāmin:* **श्वसिति** — *tṛṇādīni dahann agniḥ śvasiti* — "Agni burning grass, dry sticks and the like, sounds like the wind"; **क्रत्वा चेतिष्ठः** — "the most intelligent among the knowing ones, by his plan"; **विशामुषर्भुत्** — "he who awakes at dawn for the good of men"; on the word **सोमो न वेधाः** he explains *vedhāḥ* as 'wise'. On **ऋतप्रजातः** *(continues on p. 178)*…
+
+---
+
+### Page 178 (PDF 196)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 65" as read.)*
+
+**Special Topics (concluded; Kannada).** "…the word *ṛta*: [*Skandasvāmin:*] '*ṛtam ity ādityaḥ udakaṃ vā tataḥ utpannaḥ*' — '*ṛta* means the Sun, or water; Agni is born from the Sun or from the waters. The origin of Agni from water is in the form of lightning'. At the Sun's turn to the north (when the *uttarāyaṇa* has come), if sun-crystal stone (*sūryakānta*) is well washed and, with grass laid over it, placed in the hot sun, it is a matter of common knowledge that fire arises. For this reason he explains that Agni is born of the Sun."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 65.5 (noted briefly).** **श्वसिति**: root *śvasa prāṇane*, of the *adādi* class; *laṭ*, third person singular, the affix *tip*; the *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ"; by "rudādibhyaḥ sārvadhātuke" (Pā. Sū. 7-2-76, as read) the *iṭ* augment for *tip*, which has the *sārvadhātuka* designation; since *tip* is *p*-marked, it is unaccented by "ānudāttau suppitau"; the accent of the root, given by "dhātoḥ", remains; since it stands at the beginning of the *pāda*, no *nighāta*. **अप्सु**: the locative plural; by "ūḍidaṃpadādyappumraidyubhyaḥ" the case-ending receives the acute. **हंसः**: root *hase hasane*; the affix *ac*; since it belongs to the *pṛṣodarādi* group, a letter is added [*varṇāgama*]. **सीदन्**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of *laṭ*, the affix *śatṛ*; by "pāghrādhmāsthāmnādāṇdṛśyartiśadasadāṃ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ" (Pā. Sū. 7-3-78, as read) *sīda* for the root; the vikaraṇa *śap*; in the nominative singular the *num* augment; as before, the root accent gives the initial acute. **क्रत्वा**: *kratu + ā*; by the statement "jasādiṣu chandasi vāvacanam", the *nā* [in place of *ṭā*] is not obtained by "ājaso 'nā" [as read]; the *yaṇ* substitute comes. **उषर्भुत्**: "one awakened (*budhyate*) in the dawn" = *uṣarbhut*; root *budha avagamane*; by "kvip ca" the affix *kvip*; since it is at the end of a *pada*, by "ekāco baśo bhaṣ jhaṣantasya sdhvoḥ" (Pā. Sū. 8-2-37, as read) the initial *b* of the root, a *baś*, becomes *bh*; by "aharādīnāṃ patyādiṣūpasaṅkhyānam" (Mahābhāṣya on Pā. 8-2-70, as read) the *s* of *uṣas* becomes *r*; the word *uṣarbhudh*; the nominative singular, the *su* lost by "halṅyābbhyo…"; by "jhalāṃ jaśo 'nte" *jaś* [*dh* → *d*]; by "vāvasāne" *cartva* [→ *t*]: the form *uṣarbhut*; by "gatikārakopapadāt kṛt" the accent of the latter member of a *kṛdanta*, the first member's accent *(the page ends here; the grammar page continues on p. 179)*.
+
+---
+
+**Progress note:** Printed pp. 1–178 done (PDF 19–196): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1–65.4 complete; **Rik 65.5** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 178, ending at *uṣarbhut*). Next: p. 179 (PDF 197), the grammar page of Rik 65.5 concludes (*vedhāḥ*, *śiśvā*, *vibhuḥ*, *dūrebhāḥ*…), the closing line of Sūkta 65; then Sūkta 66 (the second *dvaipada* sūkta, of 10 half-Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; Special Topics notes on Skandasvāmin (pp. 177–178) and the "uṣarbudh" sentence (p. 176) compressed and doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
