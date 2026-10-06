@@ -1823,4 +1823,65 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–85 done (PDF 19–103): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.6 complete; Rik 63.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, and the first part of the Bhāvārtha (p. 85, breaking off at "his enemy's …"). Next: p. 86 (PDF 104), the Bhāvārtha of Rik 63.7 concludes; then the source's English, Special Topics, grammar. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.7 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 86 (PDF 104)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha (concluded; Kannada).** "…[for the king Sudās who was offering you oblations,] you defeated, as easily as one breaks a tuft of *darbha* grass, the asura named Aṃhas, his enemy, and had his wealth given to Sudās."
+
+**English Translation** *(the source's own, as printed):*
+
+> Indra, weilder [sic] of the thunderbolt, fighting on behalf of Purukutsa, you overturned the seven cities ; O king, you did cut off for Sudas the wealth of Amhas, as if it had been a tuft of sacred grass and gave it to him, who pleased you with oblations.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **पुरुकुत्साय** (*purukutsāya*) — "Purukutsa is a ṛṣi. **एतत्संज्ञाय ऋषये** — for the sake of a ṛṣi well known by this name, Indra waged war with his enemies and destroyed their seven cities."
+- **सुदासे** (*sudāse*) — *etatsaṃjñāya rājñe | sudāḥ kalyāṇadānaḥ* (Ni. [2-24, ?]) *iti yāskaḥ* — "*Sudās* is the name of a king. For this king Indra destroyed all the wealth of an asura named Aṃhu, and then gave it to that king."
+- **अंहोः** (*aṃhoḥ*) — *etatsaṃjñasyāsurasya* — "of the asura named Aṃhu. Skandasvāmin explains: since the word *aṃhu* is [also] in the sense of 'sin', [Indra] destroyed all the sins of the king Sudās."
+- **पूरवे** (*pūrave*) — *haviṣā tvā pūrayatīti pūruḥ* — "one who satisfies [you] with oblations."
+- **वरिवः** (*varivaḥ*) — *dhanam* — "wealth; 'property' is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.7 (noted briefly).** **त्यत्**: *tyat + śas*; the *luk* of *śas* by "supāṃ sulug…". **सप्त**: since a numeral ending in *n*, the *luk* of the following *śas* by "ṣaḍbhyo luk" [as read; Pā. Sū. 7-1-22]; the loss of *n* by "nalopaḥ prātipadikāntasya". **दर्दः**: root *dṛ vidāraṇe*; to it, in the sense of intensity, *yaṅ*; the *luk* of *yaṅ* by "yaṅo 'ci ca" [as read]; after the *yaṅluk*-ending stem, in the *laṅ*, *sip*; because of *yaṅ*, the doubling of the root by "sanyaṅoḥ" (Pā. Sū. 6-1-9); to the reduplicative syllable, the *ruk* augment by "rugrikau ca luki" (Pā. Sū. 7-4-91, as read); the *luk* of *śap* by "adādivac ca" [as read]; *guṇa* of the root's *ṛ* because *sip* conditions it … *(continues on p. 87).*
+
+---
+
+### Page 87 (PDF 105)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.7, concluded (noted briefly).** **दर्दः** *(concluded)*: by "halṅyābbhyo…" the loss of the unjoined *sip*; for the *r*, because it stands at the end, the *visarga* by "kharavasānayor visarjanīyaḥ"; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* does not come; the form *dardaḥ*; the *nighāta* accent, since it follows a non-verbal word. **सुदासे**: "he gives well" = *sudāḥ*; root *ḍudāñ dāne*; the Uṇādi *asun*, which attaches to all roots; the word *sudās*; in the dative, *sudāse*; "*sudāḥ kalyāṇadānaḥ*" (Ni. [2-24], as read) says Yāska ("one who gives kindly"); since *asun* is *n*-marked, the initial acute; in the compound, the accent of the latter member of a *kṛdanta* by "gatikārakopapadāt kṛt". **वर्क्**: root *vṛjī varjane*; *laṅ*, second person singular, *sip*; the loss of *i* by "itaś ca"; by "bahulaṃ chandasi" the loss of the vikaraṇa; because *sip* conditions it, the *guṇa* of the light penultimate by "pugantalaghūpadhasya ca"; by "halṅyābbhyo…" the loss of the ending; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* does not come; "when it is *vark*", *c/j* becomes *k* by "coḥ kuḥ": *vark*. **राजन्**: by "na ṅi sambuddhyoḥ" (Pā. Sū. 8-2-8, as read) there is no loss of *n*; "asambuddhau" [the lengthening is not made in the vocative]; by "āmantritasya ca" the *nighāta* accent. **कः**: root *ḍukṛñ karaṇe*; *luṅ*, second person singular, *sip*; the loss of its *i* as before; where *cli* would come by "cli luṅi", the *luk* of *cli* in a mantra by "mantre ghasahvaraṇaśavṛdahādvṛcakrugamijanibhyo ler luk" (Pā. Sū. 2-4-80, as read); then *guṇa* of the root's *ṛ* by "sārvadhātukārdhadhātukayoḥ"; the loss of *sip* by "halṅyādi…"; as before, the *aṭ* does not come; the *r* of the root, standing at the end, gets *visarga*; the form *kaḥ*; the *nighāta* accent by "tiṅ atiṅaḥ". **॥ ७ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.7 ends here (ornamental rule).*
+
+#### Rik 63.8
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; the second line is on p. 88)*
+
+> **त्वं त्यां न इन्द्र देव चित्रामिषमापो न पीपयः परिज्मन् ।**
+> *tvaṃ tyāṃ na indra deva citrām iṣam āpo na pīpayaḥ parijman |*
+
+---
+
+### Page 88 (PDF 106)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 63.8 (concluded)**
+
+> **यया शूर प्रत्यस्मभ्यं यंसि त्मनमूर्जं न विश्वध क्षरध्यै ॥ ८ ॥**
+> *yayā śūra praty asmabhyaṃ yaṃsi tmanam ūrjaṃ na viśvadha kṣaradhyai || 8 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वम् । त्याम् । नः । इन्द्र । देव । चित्राम् । इषम् । आपः । न । पीपयः । परिऽज्मन् ।**
+> **यया । शूर । प्रति । अस्मभ्यम् । यंसि । त्मनम् । ऊर्जम् । न । विश्वध । क्षरध्यै ॥ ८ ॥**
+> *tvam | tyām | naḥ | indra | deva | citrām | iṣam | āpaḥ | na | pīpayaḥ | pari-jman |*
+> *yayā | śūra | prati | asmabhyam | yaṃsi | tmanam | ūrjam | na | viśvadha | kṣaradhyai || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 89)*
+
+> **हे देव द्योतमानेन्द्र त्वं नोऽस्माकं चित्रां चायनीयां [?] त्वाम् [?] इषमन्नं परिज्मन् परितो व्याप्तायां भूमौ पीपयः । प्रावर्धयः । यथा सर्वा भूमिरन्नेन परिपूर्णा भवति तथा कुर्वित्यर्थः । तत्र दृष्टान्तः । आपो न । यथापो वृष्ट्युदकानि भूम्यां वर्षणेन प्रवर्धयसि तद्वत् । यद्वा । भूमौ वर्तमानास्मान्यथापः पाययसि तद्वच्चित्रामिषमपि पाययेति भावः । हे शूरेन्द्र यया इषा त्मनमात्मानं जीवनमस्मभ्यं प्रति यंसि । प्रयच्छसि । तत्र दृष्टान्तः । विश्वध विश्वतः सर्वतः क्षरध्यै स्फुरितुमूर्जं न उदकमिव । यथास्मभ्यं बहुलमुदकं प्रयच्छसि तद्वत्प्राणधारणरूपं जीवनमसि प्रयच्छसीति भावः ॥ आपः । शसि प्राप्ते व्यत्ययेन जस् । अप्तृन्नित्यादिना दीर्घः । पीपयः । स्पायी ओप्यायी वृद्धौ । ण्यन्ताच्छान्दसे लुङि प्यायः पी । पा. ६-१-२८ [?] इति व्यत्ययेन पीभावः । णिश्रिद्रुस्रुभ्य इति च्लेश्चङादेशः । णिलोपादीनि । यद्वा । पीञ् पाने इत्यस्माल्लुङि [?] चङि पूर्ववत् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । परिज्मन् । जमतिर्गतिकर्मा । अज गतिक्षेपणयोः । आभ्यां परिपूर्वाभ्यां श्नस्नु... इत्यादौ कनिन्प्रत्ययान्तो निपातितः [?] । सुपां सुलुगिति सप्तम्या लुक् । यंसि । यम उपरमणे । बहुलं छन्दसीति शपो लुक् । त्मनम् । आजोऽन्यत्रापि छन्दसि दृश्यते**
+> *he deva dyotamānendra tvaṃ no 'smākaṃ citrāṃ cāyanīyāṃ [?] tvām [?] iṣam annaṃ parijman parito vyāptāyāṃ bhūmau pīpayaḥ | prāvardhayaḥ | yathā sarvā bhūmir annena paripūrṇā bhavati tathā kurv ity arthaḥ | tatra dṛṣṭāntaḥ | āpo na | yathāpo vṛṣṭyudakāni bhūmyāṃ varṣaṇena pravardhayasi tadvat | yadvā | bhūmau vartamānāsmān yathāpaḥ pāyayasi tadvac citrām iṣam api pāyayeti bhāvaḥ | he śūrendra yayā iṣā tmanam ātmānaṃ jīvanam asmabhyaṃ prati yaṃsi | prayacchasi | tatra dṛṣṭāntaḥ | viśvadha viśvataḥ sarvataḥ kṣaradhyai sphuritum ūrjaṃ na udakam iva | yathāsmabhyaṃ bahulam udakaṃ prayacchasi tadvat prāṇadhāraṇarūpaṃ jīvanam asi prayacchasīti bhāvaḥ || āpaḥ | śasi prāpte vyatyayena jas | aptṛnnityādinā dīrghaḥ | pīpayaḥ | spāyī opyāyī vṛddhau | ṇyantāc chāndase luṅi pyāyaḥ pī | Pā. 6-1-28 [?] iti vyatyayena pībhāvaḥ | ṇiśridrusrubhya iti cleś caṅādeśaḥ | ṇilopādīni | yadvā | pīñ pāne ity asmāl luṅi [?] caṅi pūrvavat | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | parijman | jamatir gatikarmā | aja gatikṣepaṇayoḥ | ābhyāṃ paripūrvābhyāṃ śnasnu… ity ādau kaninpratyayānto nipātitaḥ [?] | supāṃ sulug iti saptamyā luk | yaṃsi | yama uparamaṇe | bahulaṃ chandasīti śapo luk | tmanam | ājo 'nyatrāpi chandasi dṛśyate*
+> *"O **deva**, shining Indra, you, for us, **citrām** — the wonderful, the one to be gathered [?] — **iṣam**, food, in the earth that is pervaded all around (**parijman**), **pīpayaḥ** — make it grow, increase it: so make that the whole earth is filled with food. The example: **āpo na** — as you cause the waters, the rain-water, to increase on earth by raining. Or: as you cause us who are on the earth to drink water, so make us drink [= enjoy] the wondrous food too: such is the thought. O hero Indra, with which food, **tmanam**, our very self, **jīvanam**, our life, you **yaṃsi**, grant **prati** to us. The example: **viśvadha**, from all sides, **kṣaradhyai**, to flow, **ūrjaṃ na**, like water [*ūrj* = water]: as you grant us abundant water, so you grant us life, which consists in the support of the vital breaths: such is the thought. **Āpaḥ**: where *śas* would come, *jas* by exchange; the lengthening by 'aptṛn…'. **Pīpayaḥ**: root *spāyī opyāyī vṛddhau*; from its causal-ending stem in the Vedic *luṅ*, *pī* for *pyāya* [Pā. 6-1-28, as read, ?], by exchange; *caṅ* in place of *cli* by 'ṇiśridrusrubhyaḥ…'; the loss of *ṇi* and the rest. Or from *pīñ pāne*, *caṅ* in the *luṅ*, as before; the absence of *aṭ* by 'bahulaṃ chandasy amāṅyoge 'pi'. **Parijman**: *jamati* is a verb of motion; root *aja gatikṣepaṇayoḥ*; from these two with *pari*, in [the list] 'śnasnu…' etc., the affix *kanin* is given by *nipātana* [?]; the locative singular dropped by 'supāṃ sulug…'. **Yaṃsi**: root *yama uparamaṇe*; the *luk* of *śap* by 'bahulaṃ chandasi'. **Tmanam**: *ā*, [the substitution] of *aj* is seen elsewhere in the Veda…"* *(the sentence breaks off at the foot of the page and continues on p. 89.)* *(Several words here are printed in a way I read doubtfully — "चित्रां चायनीयां त्वाम्" and the *parijman* derivation [?]; the sense is as given.)*
+
+---
+
+**Progress note:** Printed pp. 1–88 done (PDF 19–106): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.7 complete; Rik 63.8 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 88, breaking off at *tmanam*). Next: p. 89 (PDF 107), the bhāṣya of Rik 63.8 continues, then Pratipadārtha, Bhāvārtha, English, Special Topics, grammar; then Rik 63.9. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
