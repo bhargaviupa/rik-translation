@@ -3033,4 +3033,68 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–145 done (PDF 19–163): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.12 complete; Rik 64.13 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 145, ending at *ūtī*; the grammar page continues on p. 146 with *martaḥ*, *āvata* etc., if the printed layout follows). Next: p. 146 (PDF 164), the grammar page of Rik 64.13 concludes; then Riks 64.14–64.15 and the closing line of Sūkta 64. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.13 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138, 145) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.13 of 15).
+### Page 146 (PDF 164)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.13, concluded (noted briefly).** **मरुतः**: the *nighāta* accent by "āmantritasya ca". **आवत**: root *ava rakṣaṇe*; *laṅ* [read as *luṅ*/*laṅ* in the Vedic sense], second person plural; the substitute *ta* for the ending *tha* by "tasthasthamipāṃ tāṃtaṃtāmaḥ"; the vikaraṇa *śap* by "kartari śap"; the *aṭ* augment for the stem; the form *āvata*; since *yam* precedes, by "yad vṛttān nityam" the prohibition of *nighāta* arises; since the augment is acute, the word has the initial acute. **अर्वद्भिः**: in the instrumental plural, by "arvaṇas trasāv anañaḥ" the *t*-ending substitute comes when a *pada* [ending] follows; since *kasun* is the affix, the initial acute. **धना**: *dhana + śas*; where the *śi* substitute would come, the *num* augment and the lengthening arise; by "śeś chandasi bahulam" the loss of *śi*. **नृभिः**: though by "sānvekācas tṛtīyādiḥ" the case-ending would be acute, the prohibition of acuteness of the ending arises by "nṛ cānyatarasyām" (Pā. Sū. 6-1-[181], as read). **आपृच्छ्यम्**: root *pracchaḥ jñīpsāyāṃ vāci* [the print's root-gloss, as read]; by the sūtra "chandasi niṣṭarkya-devahūya-praṇīyonnīyocchiṣya-marya-stārya-dhvaryakhanya-khānya-devayajya-āpṛcchya-pratiṣīvya-brahmavādya-bhāvya-sthēya-upacāyya-pṛḍanya" (Pā. Sū. 3-1-123, as read, ?), when *ā* precedes, a form ending in *kyap* is given by *nipātana*; *samprasāraṇa* of the root by "grahijyāvayivyadhi…" (Pā. Sū. 6-1-16); since the affix is *p*-marked it is unaccented by "ānudāttau suppitau", so by the root's final acute the *ṛ* is acute; compounded with the prefix *ā* (a *gati*), the accent of the latter member of a *kṛdanta*, the first member's accent, by "gatikārakopapadāt kṛt". **क्षेति**: root *kṣi nivāsagatyoḥ*; *laṭ*, third person singular, standing at the beginning of a *pada* [as read]; by "bahulaṃ chandasi" the *luk* of the vikaraṇa; *guṇa* of the root's *i* by "sārvadhātukārdhadhātukayoḥ"; the *nighāta* accent, since it follows a non-verbal word. **पुष्यति**: root *puṣa puṣṭau*; *laṭ*, third person singular, *tip*; the vikaraṇa *śyan* by "divādibhyaḥ śyan"; since the affix is non-*p*-marked it is *ñit*-like by "sārvadhātukam apit", so the *laghūpadha-guṇa* does not come; by "śyan" being *n*-marked, the initial acute; since a verb stands before [i.e. "tiṅ atiṅaḥ"], the prohibition of *nighāta* arises by "ati-ṅaḥ". **॥ १३ ॥** *Grammar page, noted briefly; sūtra numbers as read; several readings on this page are compressed and tentative [?]. Rik 64.13 ends here (ornamental rule).*
+
+---
+
+### Page 147 (PDF 165)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+#### Rik 64.14
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced; read from a 280-dpi enlargement)
+
+> **चर्कृत्यं मरुतः पृत्सु दुस्तरं द्युमन्तं शुष्मं मघवत्सु धत्तन ।**
+> **धनस्पृतमुक्थ्यं विश्वचर्षणिं तोकं पुष्येम तनयं शतं हिमाः ॥ १४ ॥**
+> *carkṛtyaṃ marutaḥ pṛtsu dustaraṃ dyumantaṃ śuṣmaṃ maghavatsu dhattana |*
+> *dhanaspṛtam ukthyaṃ viśvacarṣaṇiṃ tokaṃ puṣyema tanayaṃ śataṃ himāḥ || 14 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **चर्कृत्यम् । मरुतः । पृत्ऽसु । दुस्तरम् । द्युऽमन्तम् । शुष्मम् । मघवत्ऽसु । धत्तन ।**
+> **धनऽस्पृतम् । उक्थ्यम् । विश्वऽचर्षणिम् । तोकम् । पुष्येम । तनयम् । शतम् । हिमाः ॥ १४ ॥**
+> *carkṛtyam | marutaḥ | pṛt-su | dustaram | dyu-mantam | śuṣmam | maghavat-su | dhattana |*
+> *dhana-spṛtam | ukthyam | viśva-carṣaṇim | tokam | puṣyema | tanayam | śatam | himāḥ || 14 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 148)*
+
+> **हे मरुतो मघवत्सु हविर्लक्षणधनयुक्तेषु यजमानेषु पुत्रं धत्तन । स्थापयत । दत्तेति यावत् । कीदृशं पुत्रम् । चर्कृत्यं कार्येषु पुनःपुनः पुरस्कर्तव्यं । सर्वकर्मकुशलमित्यर्थः । पृत्सु संग्रामेषु दुस्तरं दुःखेन तरितव्यं । अजेयमित्यर्थः । द्युमन्तं दीप्तिमन्तं शुष्मं शत्रूणां शोषकं बलवन्तं धनस्पृतं धनानां स्प्रष्टारं धनैः प्रीतं वा उक्थ्यं उक्थं स्तोत्रं । तदर्हं । प्रशस्यमित्यर्थः । विश्वचर्षणिं विशेषेण द्रष्टारं सर्वज्ञं । एवंविधं तोकं पुत्रं तनयं पौत्रं च शतं हिमा हेमन्तैस्तरोपलक्षितान् शतं संवत्सरान् जीवन्तः सन्तः पुष्येम । पोषयेम । अत्र हिमशब्देन तद्युक्ता हेमन्तैर्वोऽभिधीयन्ते ।**
+> *he maruto maghavatsu havirlakṣaṇadhanayukteṣu yajamāneṣu putraṃ dhattana | sthāpayata | datteti yāvat | kīdṛśaṃ putram | carkṛtyaṃ kāryeṣu punaḥpunaḥ puraskartavyaṃ | sarvakarmakuśalam ity arthaḥ | pṛtsu saṅgrāmeṣu dustaraṃ duḥkhena taritavyaṃ | ajeyam ity arthaḥ | dyumantaṃ dīptimantaṃ śuṣmaṃ śatrūṇāṃ śoṣakaṃ balavantaṃ dhanaspṛtaṃ dhanānāṃ spraṣṭāraṃ dhanaiḥ prītaṃ vā ukthyaṃ uktham stotram | tadarham | praśasyam ity arthaḥ | viśvacarṣaṇiṃ viśeṣeṇa draṣṭāraṃ sarvajñam | evaṃvidhaṃ tokaṃ putraṃ tanayaṃ pautraṃ ca śataṃ himā hemantais taropalakṣitān śataṃ saṃvatsarān jīvantaḥ santaḥ puṣyema | poṣayema | atra himaśabdena tadyuktā hemantair vo 'bhidhīyante |*
+> *"O Maruts, **dhattana** — set, place, i.e. give — a son **maghavatsu**, among the sacrificers who are possessed of wealth in the form of oblations. Of what kind a son? **Carkṛtyam**, to be put forward again and again in all works, i.e. skilled in every rite; **dustaram** in **pṛtsu**, battles — hard to cross by hardship, i.e. invincible; **dyumantam**, radiant; **śuṣmam**, the dryer-up of enemies, strong; **dhanaspṛtam**, the toucher [taker] of riches, or pleased with riches; **ukthyam**, worthy of *uktha*, praise: laudable; **viśvacarṣaṇim**, a special seer, all-knowing. A son **tokam** and a grandson **tanayam** such as this — **śatam himāḥ**, living a hundred winters, i.e. a hundred years designated by winters — **puṣyema**, may we nourish: here by the word *himā* the winters are meant, and years in connection with them."* *(continues on p. 148.)*
+
+---
+
+### Page 148 (PDF 166)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāṣya (concluded).**
+
+> **तथा च ब्राह्मणमेवमाम्नायते । शतं हिमा इत्याह शतं त्वा हेमन्तानि धीयेति वाग्वैतदाहेति ॥ चर्कृत्यम् । प्रकृतिग्रहणे यङ्लुगन्तस्यापि ग्रहणम् । परि. ९३-२ [?] इति न्यायेन करोतेर्यङ्लुगन्ताद्भाषायां कृवृषोः । पा. ३-१-१२० [?] इति क्यप् । तुगागमः । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । पृत्सु । पदादिषु मांस्पृत्स्नूनामुपसंख्यानम् । पा. ६-१-६३-१ [?] इति पृतनाशब्दस्य पृदादेशः । दुस्तरम् । त्र प्लवनतरणयोः । ईषद्दुःसुष्विति खल् । सुषामादेराकृतिगणत्वात् षत्वम् । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वम् । धत्तन । तप्तनप्तनथनाश्चेति तस्य तनादेशः ॥**
+> *tathā ca brāhmaṇam evam āmnāyate | śataṃ himā ity āha śataṃ tvā hemantāni dhīyeti vāg vaitad āheti || carkṛtyam | prakṛtigrahaṇe yaṅluganatasyāpi grahaṇam | pari. 93-2 [?] iti nyāyena karoter yaṅluganatād bhāṣāyāṃ kṛvṛṣoḥ | Pā. 3-1-120 [?] iti kyap | tugāgamaḥ | pratyayasya pittvād anudāttatve dhātusvaraḥ śiṣyate | pṛtsu | padādiṣu māṃspṛtsnūnām upasaṅkhyānam | Pā. 6-1-63-1 [?] iti pṛtanāśabdasya pṛdādeśaḥ | dustaram | tra plavanataraṇayoḥ | īṣadduḥsuṣv iti khal | suṣāmāder ākṛtigaṇatvāt ṣatvam | litsvareṇa pratyayāt pūrvasyodāttatvam | dhattana | taptanaptanathanāś ceti tasya tanādeśaḥ ||*
+> *"So the Brāhmaṇa teaches: '**śataṃ himāḥ**', he says; '*may I place you for a hundred winters*', so [he says]: this is what Speech says' [as read, ?]. **Carkṛtyam**: where the base is taken, the *yaṅluk*-ending [stem] is also taken (Paribhāṣā 93-2, as read, ?): by this principle, from the *yaṅluk*-ending stem of *kṛ*, in the ordinary language 'kṛvṛṣoḥ' [Pā. 3-1-120, as read, ?], the affix *kyap*; the augment *tuk*; since the affix is *p*-marked and unaccented, the root accent remains. **Pṛtsu**: the *upasaṅkhyāna* 'padādiṣu māṃspṛtsnūnām' (Pā. 6-1-63, Vārttika 1, as read, ?) gives *pṛd* in place of *pṛtanā*. **Dustaram**: root *tṛ plavanataraṇayoḥ*; *khal* by 'īṣadduḥsuṣu'; *ṣ* for *s* since *suṣāmādi* is an open class [*ākṛtigaṇa*]; by the *lit*-accent the syllable before the affix is acute. **Dhattana**: the substitute *tana* for *tha* by 'taptanaptanathanāś ca'."* *(Grammar tail characterized; the Paribhāṣā and sūtra numerals are doubtful [?]; the Brāhmaṇa quotation is given as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**मरुतः** — O Marut deities; **मघवत्सु** — among the sacrificers who offer oblations (wealth); **चर्कृत्यम्** — one who is always found first in deeds (skilful in all works); **पृत्सु** — in battles; **दुस्तरम्** — invincible (not to be conquered); **द्युमन्तम्** — brilliant; **शुष्मम्** — drying up the enemies (destroying); **धनस्पृतम्** — gaining riches; **उक्थ्यम्** — worthy of praise; **विश्वचर्षणिम्** — all-knowing [son]; **धत्तन** — place (favour); **तोकम्** — (such) a son; **तनयम्** — a grandson; **शतं हिमाः** — for a hundred years; **पुष्येम** — may we cherish.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Marut deities, favour the sacrificers who worship you with oblations with a son who is skilled in work, invincible in battles, brilliant, a gainer of riches, worthy of praise, all-knowing. And may we rear sons and grandsons of that kind for a hundred years.
+
+**English Translation** *(the source's own, as printed):*
+
+> Maruts, grant to your wealthy (worshippers, a son), eminent for good works, invincible in battle, illustrious, the annihilator (of his adversaries), the seizer of wealth, the deserver of praise, and all-discerning ; may we cherish such a son and such a grandson for a hundred winters,
+
+*(The source's English ends with a comma, as printed.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **तोकं तनयं शतं हिमाः पुष्येम** — *putraṃ pautraṃ ca śataṃ himā hemantaropalakṣitāḥ śataṃ saṃvatsarāḥ jīvantaḥ santaḥ poṣayema | atra himaśabdena…* — "may we rear sons and grandsons for a hundred years, [years] characterised by winters (*hemanta*), while living: here by the word *hima* …" *(continues on p. 149).*
+
+---
+
+**Progress note:** Printed pp. 1–148 done (PDF 19–166): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.13 complete; Rik 64.14 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 148, ending at "here by the word *hima* …"). Next: p. 149 (PDF 167), the Special Topics of Rik 64.14 continue; then its grammar page; then Rik 64.15 (last Rik of Sūkta 64, Triṣṭubh) and the closing line of Sūkta 64. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.14 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138, 145) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.14 of 15).
