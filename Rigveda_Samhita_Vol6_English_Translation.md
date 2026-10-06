@@ -1935,4 +1935,69 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–91 done (PDF 19–109): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.8 complete. Next: p. 92 (PDF 110), Rik 63.9 (the last Rik of Sūkta 63). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 92 (PDF 110)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+#### Rik 63.9
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **अकारि त इन्द्र गोतमेभिर्ब्रह्माण्योक्ता नमसा हरिभ्याम् ।**
+> **सुपेशसं वाजमा भरा नः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ ९ ॥**
+> *akāri ta indra gotamebhir brahmāṇy oktā namasā haribhyām |*
+> *supeśasaṃ vājam ā bharā naḥ prātar makṣū dhiyāvasur jagamyāt || 9 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **अकारि । ते । इन्द्र । गोतमेभिः । ब्रह्माणि । आऽउक्ता । नमसा । हरिऽभ्याम् ।**
+> **सुऽपेशसम् । वाजम् । आ । भर । नः । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ ९ ॥**
+> *akāri | te | indra | gotamebhiḥ | brahmāṇi | ā-uktā | namasā | hari-bhyām |*
+> *su-peśasam | vājam | ā | bhara | naḥ | prātaḥ | makṣu | dhiyā-vasuḥ | jagamyāt || 9 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे इन्द्र ते तव गन्तृतमैरेतत्संज्ञैर्ऋषिभिरकारि । स्तोत्रं कृतमित्यर्थः । एतदेव स्पष्टीकरोति । ब्रह्माणि मन्त्रजातानि नमसा हविर्लक्षणेनान्नेन सह हरिभ्यामश्वाभ्यां युक्ताय तुभ्यमोक्ता । अभिमुख्येनोक्तानि । यद्वा । मर्यादायामाकारः । यथाशास्त्रं प्रयुक्तानि । स त्वं सुपेशसम् । पेश इति रूपनाम । बहुविधरूपयुक्तं वाजमन्नं नोऽस्मभ्यमा भर । आहर । देहीति यावत् । धिया बुद्ध्या कर्मणा वा प्राप्तधन इन्द्रः प्रातःकालेऽस्मद्दर्शनार्थं जगम्यात् । आगच्छतु ॥ ओक्ता । शेश्छन्दसि बहुलमिति शेर्लोपः । सुपेशसम् । पिश अवयवे । असुन् । बहुव्रीहावाद्युदात्तम् । द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वम् । भर । हृग्रहोर्भ इति भत्वम् । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः ॥ ९ ॥**
+> *he indra te tava gantṛtamair etatsaṃjñair ṛṣibhir akāri | stotraṃ kṛtam ity arthaḥ | etad eva spaṣṭīkaroti | brahmāṇi mantrajātāni namasā havirlakṣaṇenānnena saha haribhyām aśvābhyāṃ yuktāya tubhyam oktā | abhimukhyenoktāni | yadvā | maryādāyām ākāraḥ | yathāśāstraṃ prayuktāni | sa tvaṃ supeśasam | peśa iti rūpanāma | bahuvidharūpayuktaṃ vājam annaṃ no 'smabhyam ā bhara | āhara | dehīti yāvat | dhiyā buddhyā karmaṇā vā prāptadhana indraḥ prātaḥkāle 'smaddarśanārthaṃ jagamyāt | āgacchatu || oktā | śeś chandasi bahulam iti śer lopaḥ | supeśasam | piśa avayave | asun | bahuvrīhāv ādyudāttam | dvyac chandasīty uttarapadādyudāttatvam | bhara | hṛgrahor bha iti bhatvam | dvyaco 'tas tiṅa iti saṃhitāyāṃ dīrghaḥ || 9 ||*
+> *"O Indra, to you, by the **gotamas** (*gantṛtama* — the 'best goers') — the ṛṣis of that name — **akāri**, has been made, i.e. a praise has been made. He makes this very clear: **brahmāṇi**, mantras, **namasā**, together with food in the form of oblation, have been **oktā**, spoken before you, who are yoked with the two bay horses (**haribhyām**). Or: the prefix *ā* is in the sense of limit — used according to the śāstra. Such as you are, **supeśasam** — *peśa* is a word for 'form' — **vājam**, food, endowed with many forms, **ā bhara**, bring to us, give. May Indra, who has gained wealth by intelligence or by deeds, **prātaḥ**, in the morning, **jagamyāt**, come to see us. **Oktā**: the loss of *śi* by 'śeś chandasi bahulam'. **Supeśasam**: root *piśa avayave*; *asun*; in a *bahuvrīhi* initial acute; the latter member's initial acute by 'dvyac chandasi'. **Bhara**: *bha* for *h* by 'hṛgrahor bhaḥ'; the lengthening in the Saṃhitā by 'dvyaco 'tas tiṅaḥ'."* *(Grammar tail characterized.)*
+
+---
+
+### Page 93 (PDF 111)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**इन्द्र** — O Indra; **ते** — to you; **गोतमेभिः** — by the ṛṣis, sons of Gotama; **अकारि** — (praise) has been made; **ब्रह्माणि** — the mantras; **नमसा** — together with an offering in the form of oblation (food); **हरिभ्याम्** — [to you who are] with two horses (yoked); **ओक्ता** — offered in accordance with rule; *(स त्वम् — such you)*; **नः** — to us; **सुपेशसम्** — of many forms; **वाजम्** — food; **आ भर** — bring (give); **धियावसुः** — one who has gained wealth by intelligence (by deeds) (Indra); **प्रातः** — in the morning; **मक्षु** — quickly; **जगम्यात्** — may he come.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, the ṛṣis, the sons of Gotama, have offered oblations with mantras, according to the śāstra, to you, who are yoked with horses. You who are praised, and endowed with wealth gained by your intelligence or by deeds, come quickly in the morning and give us food of many kinds.
+
+**English Translation** *(the source's own, as printed):*
+
+> O Indra, praises have been offered to you hy [sic: "by"] the sons of Gotama ; they have been uttered with reverence to you, borne hither by your horses ; grant us various sorts of food. May he (Indra) who has acquired wealth by pious acts come hither quickly in the morning.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **गोतमेभिः** (*gotamebhiḥ*) — *gantṛtamair etatsaṃjñair ṛṣibhiḥ* — "the ṛṣis who bear the name *Gotama* because of their nature of moving about (*gantṛ*); Skandasvāmin says '*gotamaputraiḥ*' — 'by the sons of Gotama'."
+- **नमसा** (*namasā*) — *havirlakṣaṇenānnena* — "Sāyaṇa explains it as 'with food in the form of oblation'. Skandasvāmin gives two explanations: '*namaskāreṇa saha havirlakṣaṇena annena vā*' — 'with obeisance, or with food in the form of oblation'."
+- **हरिभ्याम्** (*haribhyām*) — "with Indra's two horses. The word *harī* is stated in the Nirukta to mean Indra's horses (Ni. [3-?], numeral doubtful, ?)."
+
+---
+
+### Page 94 (PDF 112)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **ओक्ता** (*oktā*) — *abhimukhyena uktāni, yadvā yathāśāstraṃ prayuktāni* — "*ā + uktā*. The prefix *ā* has two meanings: 'facing' [i.e. 'in front of you'], or 'according to the system of the śāstra the praise has been spoken'."
+- **सुपेशसम्** (*supeśasam*) — *peśa iti rūpanāma bahuvidharūpayuktam* — "having many kinds of forms. The word *peśa* is stated among the sixteen words in the sense of 'form' (Ni. [3-13?, ?])."
+- **वाजम्** (*vājam*) — *annam* — "food. The word *vāja* is stated among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. [2-7?, ?])."
+- **धियावसुः** (*dhiyāvasuḥ*) — *buddhyā karmaṇā vā prāptadhanaḥ* — "one who has obtained riches by intelligence or by action."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.9 (begins; noted briefly).** **अकारि**: root *ḍukṛñ karaṇe*; *luṅ* in the passive; third person singular, the ending *ta*; the substitute *ciṇ* for *cli* by "ciṇ bhāvakarmaṇoḥ" (Pā. Sū. 3-1-66, as read); the *luk* of the *ta* that follows *ciṇ* by "ciṇo luk" (Pā. Sū. 6-4-104, as read); since *ciṇ* is *ṇit*, *vṛddhi* of the root's *ṛ* by "aco ñṇiti"; the *aṭ* augment for the stem; the form *akāri*; at the beginning of the *pāda* no *nighāta*. **ओक्ता**: the prefix *ā*; root *vaca paribhāṣaṇe*; the affix *kta* in the passive; *samprasāraṇa* of the root by "vacisvapiyajādīnāṃ kiti" (Pā. Sū. 6-1-15, as read); the former form by "samprasāraṇāc ca"; the change of *c* to *ku* by "coḥ kuḥ"; with the connection with *ā*, *guṇa*; in the neuter, the *śi* substitute for *jas* by "jaśśasoḥ śiḥ"; by "śeś chandasi bahulam" the loss of *śi*; the form *oktā*. **सुपेशसम्**: root *piśa avayave*; by "sarvadhātubhyo 'sun" (Uṇ. Sū. 4-[188], as read) the affix *asun*; because the affix conditions it, *guṇa* of the light penultimate; the word *peśas*; "*śobhanāni peśāṃsi yasya saḥ supeśāḥ*", him: *supeśasam*; in the *bahuvrīhi*, by "ādyudāttaṃ dvyac chandasi" (Pā. Sū. 6-2-119, as read) the initial acute of the latter member. **भर**: root *hṛñ haraṇe*; by the statement "upasargeṇa dhātvartho balād anyaḥ pratīyate" ("by a prefix another meaning of the root is forced upon it") the sense of 'giving' arises when *ā* is joined; in the *loṭ*, the *hi* substitute for *sip* *(continues on p. 95)*.
+
+---
+
+**Progress note:** Printed pp. 1–94 done (PDF 19–112): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.8 complete; Rik 63.9 (the last Rik of Sūkta 63) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 94, ending at *bhara*, "the *hi* substitute for *sip*"). Next: p. 95 (PDF 113), the grammar page of Rik 63.9 concludes; the closing line of Sūkta 63; then Sūkta 64 (Sāyaṇa's introduction etc.). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5–63.8 bhāṣya doubtful [?]; the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; Sūkta 63 almost done; Sūkta 64 next.
