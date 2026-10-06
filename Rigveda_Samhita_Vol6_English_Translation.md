@@ -160,6 +160,40 @@
 
 **Pratipadārtha** *(Kannada, rendered)*: *śavasānāya* — acting with strength (able to destroy enemies by strength); *girvaṇase* — for him (Indra) who is to be praised with words (in the form of hymns); *śūṣam* — the cause of happiness; *āṅgūṣam* — the hymn; *aṅgirasvat* — like the Aṅgirasa sages; *pra manmahe* — let us understand (let us make) well; *suvṛktibhiḥ* — with hymns able to turn [him] well toward us; *stuvate* — to the praiser (the praised one); *ṛgmiyāya* — worthy of worship (praiseworthy); *nare* — the leader of all; *viśrutāya* — [one who is] worshipped in the sacrifice … *(the entry continues on the next page)*.
 
+### Page 5 (PDF 23) — Pratipadārtha concluded; Bhāvārtha; the source's English; Special Topics begin
+
+**Pratipadārtha (concluded):** … *viśrutāya* — [for him who is] renowned as one to be worshipped in the sacrifice (for Indra); *ārkam* — the hymn in the form of a mantra; *arcāma* — let us worship (let us recite aloud).
+
+**Bhāvārtha** *(Kannada, rendered)*: "Let us, with understanding, make hymns for Indra, who destroys enemies by his strength, who is to be praised with hymns, and who bestows happiness. Let us praise with mantras Indra, who is easily praised by those who praise him with mantras by which he is easily won over, who is the leader of all, and who is renowned as one worthy of worship in the sacrifice."
+
+**English Translation** *(printed in English in the source)*:
+
+> "We meditate, like Angiras, an acceptable prayer to that powerful and praise-deserving Indra, who is to be adored by his worshippers with prayers of efficacy to bring him to the ceremoney [sic]; let us recite a prayer to the celebrated leader (Indra) of all."
+
+**Special Topics (*viśeṣa-viṣayagaḷu*)** *(Kannada, rendered; the Nirukta numbers are read from small Kannada numerals and are marked [?] where uncertain)*
+
+- ***manmahe*** — *manu avabodhane* ("to know"): "let us understand (make) well" is the meaning.
+- ***śavasānāya*** — *śavaḥ* means strength (Ni. 2-9 [?]). *Śavasāna* means "one who acts as if with strength": one who conquers enemies by use of strength.
+- ***śūṣam*** — among the twenty-seven names for happiness beginning with *śambāta* and *śatarā*, the word *śūṣam* is read; so *śūṣam* means happiness, or the causer of happiness (Ni. 3-13 [?]).
+- ***āṅgūṣam*** — "*āṅgūṣaḥ stomaḥ āghoṣaḥ*" (आङ्गूषः स्तोमः आघोषः — *āṅgūṣaḥ stomaḥ āghoṣaḥ*, Ni. 5-11): *āṅgūṣa* means a hymn.
+- ***girvaṇase*** — "*girvaṇā devo bhavati gīrbhir enaṃ vanayanti*" (गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति — *girvaṇā devo bhavati gīrbhir enaṃ vanayanti*, Ni. 6-14): one who is obtained by praises, that is, one who deserves to be praised with hymns; the praised one. *(Translation of the Nirukta sentence, editorial: "A *girvaṇas* is a god: they win him with songs.")*
+- ***aṅgirasvat*** — *Aṅgirāḥ* is a renowned ṛṣi, and the root-ancestor of many ṛṣis. His name is mentioned in many places in the Ṛgveda; for what we have written about this ṛṣi see Ṛ. Saṃ. Part 3, pp. 520–522 and Part 4, p. 552 [?].
+- ***suvṛktibhiḥ*** — *vṛjī varjane* ("to turn away, to bend"): "*śobhanam āvarjito bhavaty ebhir iti suvṛktayaḥ stotrāṇi taiḥ*" (शोभनमावर्जितो भवत्येभिरिति सुवृक्तयः स्तोत्राणि तैः — *śobhanam āvarjito bhavaty ebhir iti suvṛktayaḥ stotrāṇi taiḥ*) — "[hymns] by which [the god] is well turned [toward us] are *suvṛktayaḥ*, hymns; by these": with hymns made of excellent words.
+
+### Page 6 (PDF 24) — Special Topics concluded; Vyākaraṇa-prakriyā (Kannada) begins
+
+- ***ṛgmiyāya*** — "*ṛca stutau; ṛgmaṃ stutim arhatīti ṛgmiyaḥ*" (ऋच स्तुतौ । ऋग्मं स्तुतिमर्हतीति ऋग्मियः — *ṛca stutau | ṛgmaṃ stutim arhatīti ṛgmiyaḥ*): one who is fit to be praised with ṛks or with mantras.
+- ***arcāma*** — "let us worship": let us recite the hymns.
+- ***arkam*** — "*arcyate 'neneti arkaḥ*" (अर्च्यतेऽनेनेत्यर्कः — *arcyate 'neneti arkaḥ*): that by which [the god] is worshipped or praised; so *arkam* means a mantra.
+- ***nare*** — the dative singular of the word *nṛ*: [for him who is] the leader, the chief of men (for Indra).
+- ***viśrutāya*** — *śru śravaṇe*; "*yaśasvitayā viśeṣeṇa prakhyātāya*": for him who is renowned as the one worshipped with sacrifices and the like (for Indra).
+
+**Vyākaraṇa-prakriyā (grammar, Kannada)** — *grammar page, noted briefly.* The page treats:
+- ***manmahe*** — the root *manu avabodhane* (*tanādi*); the first-person plural middle ending *mahiṅ*, which takes *e* by "**टित आत्मनेपदानां टेरे**" (*ṭita ātmanepadānāṃ ṭer e*); the affix *u* by "**तनादिकृञ्भ्य उः**" (*tanādikṛñbhya uḥ*); the elision of *u* before *mahe* by "**लोपश्चास्यान्यतरस्यां म्वोः**" (*lopaś cāsyānyatarasyāṃ mvoḥ*, Pā. 6-4-107, printed as read), because the affix beginning with *m* follows without a conjunct; the verb, standing after another word (*pra*), is unaccented by "*tiṅ atiṅaḥ*" (तिङ्ङतिङः).
+- ***śavasānāya*** — *śava ivācarati śavasyate*: the affix *kyac* by *upamānād ācāre* (उपमानादाचारे — *upamānād ācāre*), then, with the continued "*kartuḥ kyaṅ salopaś ca*" (कर्तुः क्यङ् सलोपश्च — *kartuḥ kyaṅ salopaś ca*, Pā. 3-1-11, as read), the affix *kyaṅ*; after *śavasya* the affix *śānac* (*śānac* because the *kyaṅ*-ending is of the *ātmanepada* kind); *śap* elided by "*bahulaṃ chandasi*" (बहुलं छन्दसि); *śānac* is "of the *ārdhadhātuka* class" by "*chandasy ubhayathā*", whence "*ato lopaḥ*" (अतो लोपः) drops its *a*, and "*yasya halaḥ*" (यस्य हलः) the *y*, giving *śavasāna*; the dative singular; the accent is on the end of the stem by the *cit* rule, since *kyaṅ* is *ṅit*; and the objection that the *lasārvadhātuka* *śānac* must be unaccented by "*tāsy-anudāttenṅid-adupadeśāl lasārvadhātukam anudāttam*" is answered by the observation that *śānac* is not here in the place of *laṭ* as an operative *sārvadhātuka* — so the end-acute stays *(the argument continues on the next page)*.
+
+*(The sūtras are named in the print without numbers except Pā. 6-4-107 and Pā. 3-1-11, which are printed; those two numbers are read from the Kannada numerals and carry some doubt.)*
+
 ---
 
-**Progress note:** Printed pp. 1–4 done (PDF 19–22): Sūkta 62's introduction and heading block; Rik 62.1 Saṃhitā, Pada, and Sāyaṇa's bhāṣya main sense (grammar tail characterized). Next: p. 5 (PDF 23), the rest of the Pratipadārtha of Rik 62.1 and the Bhāvārtha. Open flags: Nirukta numbers on p. 3 [?]; "yaśasvitayā" [?]; the grammar tails of pp. 3–4 are summaries.
+**Progress note:** Printed pp. 1–6 done (PDF 19–24): Rik 62.1 — Saṃhitā, Pada, bhāṣya main sense, Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the first page of the Vyākaraṇa-prakriyā (noted briefly). Next: p. 7 (PDF 25), the rest of the Vyākaraṇa-prakriyā of Rik 62.1 and Rik 62.2. Open flags: Nirukta numbers on p. 5 [?]; the cross-reference to earlier volumes (Part 3 pp. 520–522, Part 4 p. 552) [?]; "yaśasvitayā" on p. 3 [?].
