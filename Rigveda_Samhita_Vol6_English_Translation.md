@@ -1096,4 +1096,68 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–49 done (PDF 19–67): Rik 62.1–62.9 complete; Rik 62.10 — Saṃhitā, Pada, bhāṣya (with its grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 49, breaking off at *duvasyanti*, "laṭ, third person …"). Next: p. 50 (PDF 68), the grammar page of Rik 62.10 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the dense grammar of *ahrayāṇam* in the 62.10 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 50 (PDF 68)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Grammar page for Rik 62.10, concluded (noted briefly).** **दुवस्यन्ति** *(concluded)*: in the third person plural the ending *jhi*, by "jho 'ntaḥ" (Pā. Sū. 7-1-3, as read), gets *ant*; before the verb-class affix, *śap* by "kartari śap" (Pā. Sū. 3-1-68); *pararūpa* by "ato guṇe" (Pā. Sū. 6-1-97); here, since the *yak*-accent remains by *sati-śiṣṭa*, and the single-substitute has arisen in it, the *a* in *sya* becomes acute; because it stands at the beginning of the *pāda*, the prohibition "apādādau" (as read) forbids it, so no *nighāta* accent arises. **अह्रयाणम्**: root *hrī lajjāyām*; "juhotyādi vyatyayo bahulam" — by this *śānac* arises though there is no cause; by "bahulaṃ chandasi" the *śluḥ* [or *śap*] substitute does not arise; with *śānac* following, *guṇa* of the root; for the *e* of the *guṇa*, *ay*; because the *muk* augment does not come, being Vedic, the earlier operations take place; after *r*, *n* becomes *ṇ*; the form *hrayāṇa*; as a *nañ*-compound, the first member keeps its accent by "tatpuruṣe tulyārthatṛtīyā…". Or: for the root as stated above, *śap* being obtained by "bahulaṃ chandasi", it undergoes *luk*; by "chandasy ubhayathā" (Pā. Sū. 3-4-117, as read) *śānac* has the *ārdhadhātuka* designation, so by "sārvadhātukam apit" it does not become *ñit*; consequently *guṇa* and *āy*-substitution come; the *muk* augment does not come because the stem ends in a vowel [as read]; compound and accent as before. Yāska explains it in this way: *ahrayāṇo 'hrītayānaḥ* (Nirukta [5-15], as read). **॥ १० ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 62.10 ends here (ornamental rule).*
+
+#### Rik 62.11
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सनायुवो नमसा नव्यो अर्कैर्वसूयवो मतयो दस्म दद्रुः ।**
+> **पतिं न पत्नीरुशतीरुशन्तं स्पृशन्ति त्वा शवसावन्मनीषाः ॥ ११ ॥**
+> *sanāyuvo namasā navyo arkair vasūyavo matayo dasma dadruḥ |*
+> *patiṃ na patnīr uśatīr uśantaṃ spṛśanti tvā śavasāvan manīṣāḥ || 11 ||*
+
+---
+
+### Page 51 (PDF 69)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सनाऽयुवः । नमसा । नव्यः । अर्कैः । वसुऽयवः । मतयः । दस्म । दद्रुः ।**
+> **पतिम् । न । पत्नीः । उशतीः । उशन्तम् । स्पृशन्ति । त्वा । शवसाऽवन् । मनीषाः ॥ ११ ॥**
+> *sanā-yuvaḥ | namasā | navyaḥ | arkaiḥ | vasu-yavaḥ | matayaḥ | dasma | dadruḥ |*
+> *patim | na | patnīḥ | uśatīḥ | uśantam | spṛśanti | tvā | śavasā-van | manīṣāḥ || 11 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे दस्म दर्शनीयेन्द्र अर्कैः शस्त्ररूपैर्मन्त्रैर्नमसा नमस्कारेण यस्त्वं नव्यः स्तुत्यो भवसि । सनायुवः सनातनमग्निहोत्रादि नित्यं कर्मात्मन इच्छन्तो वसूयवो वसु धनमात्मन इच्छन्तो धनकामा वा मतयो मेधाविनस्त्वां दद्रुः । बहुना प्रयासेन जग्मुः । हे शवसावन् बलवन्निन्द्र तैः प्रयुक्ता मनीषाः स्तुतयस्त्वा त्वां स्पृशन्ति । प्राप्नुवन्ति । तत्र दृष्टान्तः उशतीरुशत्यः कामयमानाः पत्नीः पत्न्य उशन्तं कामयमानं पतिं न । यथा पतिं सम्भजन्ते तद्वत् ॥ सनायुवः । सनेत्येतदव्ययं नित्यत्वमाचष्टे । तेन च तद्वान् लक्ष्यते । सना सनातनं कर्मात्मन इच्छन्तीति सनायुवः । क्याच्छन्दसीत्युप्रत्ययः [?] । जसि वर्णव्यत्ययेनोत्वम् । मतयः । मन ज्ञाने । मन्यन्त इति मतयः स्तोतारः । क्तिच्क्तौ च संज्ञायामिति क्तिच् । न क्तिचि दीर्घश्चेति निषेधे प्राप्ते बाहुलकादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । चित्त्वादन्तोदात्तत्वम् । दद्रुः । द्रा कुत्सायां गतौ । लिट्युस्यातो लोप इटि चेत्याकारलोपः । उशतीः । वश कान्तौ । लटः शतृ । अदादित्वाच्छपो लुक् । शतुर्जित्त्वाद्ग्रहिज्यादिना सम्प्रसारणम् । उगितश्चेति ङीप् । शतुरनुम इति नद्या उदात्तत्वम् । वा छन्दसीति पूर्वसवर्णदीर्घः । शवसावन् । मतुप्यकारोपजनश्छान्दसः । यद्वा । मत्वर्थीय आवनिप् ॥**
+> *he dasma darśanīyendra arkaiḥ śastrarūpair mantrair namasā namaskāreṇa yas tvaṃ navyaḥ stutyo bhavasi | sanāyuvaḥ sanātanam agnihotrādi nityaṃ karmātmana icchanto vasūyavo vasu dhanam ātmana icchanto dhanakāmā vā matayo medhāvinas tvāṃ dadruḥ | bahunā prayāsena jagmuḥ | he śavasāvan balavann indra taiḥ prayuktā manīṣāḥ stutayas tvā tvāṃ spṛśanti | prāpnuvanti | tatra dṛṣṭāntaḥ uśatīr uśatyaḥ kāmayamānāḥ patnīḥ patnya uśantaṃ kāmayamānaṃ patiṃ na | yathā patiṃ sambhajante tadvat || sanāyuvaḥ | sanety etad avyayaṃ nityatvam ācaṣṭe | tena ca tadvān lakṣyate | sanā sanātanaṃ karmātmana icchantīti sanāyuvaḥ | kyāc chandasīty u-pratyayaḥ [?] | jasi varṇavyatyayenotvam | matayaḥ | mana jñāne | manyanta iti matayaḥ stotāraḥ | kticktau ca saṃjñāyām iti ktic | na kticī dīrghaś ceti niṣedhe prāpte bāhulakād anudāttopadeśety ādinānunāsikalopaḥ | cittvād antodāttatvam | dadruḥ | drā kutsāyāṃ gatau | liṭy usy āto lopa iṭi cety ākāralopaḥ | uśatīḥ | vaśa kāntau | laṭaḥ śatṛ | adāditvāc chapo luk | śatur jittvād grahijyādinā samprasāraṇam | ugitaś ceti ṅīp | śatur anuma iti nadyā udāttatvam | vā chandasīti pūrvasavarṇadīrghaḥ | śavasāvan | matupy akāropajanaś chāndasaḥ | yadvā | matvarthīya āvanip ||*
+> *"O handsome Indra (**dasma**)! You who are **navyaḥ**, praiseworthy, with **arkaiḥ**, mantras in the form of *śastra*, and **namasā**, with obeisance: **sanāyuvaḥ** — those who wish for themselves eternal rites such as the Agnihotra, **vasūyavaḥ** — those who wish for themselves wealth, desirous of wealth, **matayaḥ** — the wise: they have **dadruḥ**, reached you, with much effort. O **śavasāvan**, strong Indra, the **manīṣāḥ**, praises, offered by them, **spṛśanti tvā**, touch you, reach you. Here the example: **uśatīḥ**, wives who desire, **uśantam**, a desiring (loving) husband, **patiṃ na** — as wives cling to their husband, so. **Sanāyuvaḥ**: *sanā* is an indeclinable declaring eternity; by it one who has it is meant; they who wish for themselves the eternal (*sanā*) rite are *sanāyuvaḥ*; the affix *u* by 'kyāc chandasi' [?]; in the nominative plural *o* in place of the vowel by the exchange of vowels. **Matayaḥ**: root *mana jñāne*, 'they think' — the singers; *ktic* by 'kticktau ca saṃjñāyām'; where 'na kticī dīrghaś ca' would prohibit [the lengthening], by the variability the loss of the nasal by 'anudāttopadeśa…'; since *c*-marked, final-acute. **Dadruḥ**: root *drā kutsāyāṃ gatau* [to run, to go]; in the *liṭ*, before *us*, the loss of the *ā* by 'liṭy usy āto lopa iṭi ca'. **Uśatīḥ**: root *vaśa kāntau*; *śatṛ* in the sense of *laṭ*; the *luk* of *śap* because of the *adādi* class; because *śatṛ* is *j*-marked, *samprasāraṇa* by 'grahijyā…'; *ṅīp* by 'ugitaś ca'; the acute on the feminine ending by 'śatur anuma…'; the same-class lengthening by 'vā chandasi'. **Śavasāvan**: the arising of *a* before *matup* is Vedic; or the affix *āvanip* in the sense of *matup*."* *(Grammar tail, characterized; every sūtra name read from the print, none numbered. "क्याच्छन्दसीत्युप्रत्ययः" is doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; continues on p. 52)*
+
+**दस्म** — O handsome Indra (you); **अर्कैः** — by mantras (of the form of *śastra*); **नमसा** — by obeisance also; **नव्यः** — the praiseworthy; **सनायुवः** — those who desire eternal (Agnihotra and the like) rites; **वसूयवः** — those who desire wealth; **मतयः** — the wise; **दद्रुः** — (you) have been approached, with much effort; **शवसावन्** — O strong Indra; **मनीषाः** — …
+
+---
+
+### Page 52 (PDF 70)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Pratipadārtha (concluded).** … **स्तोत्रगळು** (the praises); **त्वा** — you; **उशतीः** — those bearing affection; **पत्नीः** — wives; **उशन्तम्** — the loving; **पतिं न** — as a husband; **स्पृशन्ति** — join/touch.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra of beautiful form, you are to be attained by words of praise and by salutations. The wise, who wish to perform rites like the Agnihotra and who desire wealth and the like, propitiate you with much effort. Their words of praise reach you as a wife who is the object of her husband's love joins her loving husband.
+
+**English Translation** *(the source's own, as printed):*
+
+> O beautiful Indra, you are to be praised with holy hymns ; the pious who are desirous of holy rites, those who are anxious for riches and those who are wise approach you with veneration ; O powerful Indra, their minds adhere to you as affectionate wives to a loving husband.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **सनायुवः** (*sanāyuvaḥ*) — *sanety etad avyayaṃ nityatvam ācaṣṭe | sanā sanātanaṃ karmātmana icchantīti sanāyuvaḥ |* — "the word *sanā* is an indeclinable, and it suggests the sense 'eternal'. Therefore *sanā* means eternal, ancient rites, or sacrificial rites and the like; *yuvaḥ* — people who wish to perform [them]."
+- **नव्यः** (*navyaḥ*) — *stutyaḥ* — "praiseworthy, worthy of being praised."
+- **अर्कैः** (*arkaiḥ*) — "by Vedic mantras in the form of *śastra*."
+- **वसूयवः** (*vasūyavaḥ*) — "those who desire wealth."
+- **मतयः** (*matayaḥ*) — *medhāvinaḥ* — "intelligent people, discerning ones."
+- **दद्रुः** (*dadruḥ*) — *drā kutsāyāṃ gatau* — "they have joined [you], or come near you, or will come."
+- **शवसावन्** (*śavasāvan*) — "*śavaḥ* means strength (Ni. [9-1, as read, ?]); *śavasāvan* is 'one who has strength'; this is the first case, singular, in address (vocative)."
+
+---
+
+**Progress note:** Printed pp. 1–52 done (PDF 19–70): Rik 62.1–62.10 complete; Rik 62.11 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and Special Topics (pp. 50–52); the grammar page of 62.11 is not yet reached. Next: p. 53 (PDF 71) — the grammar page of Rik 62.11 (the page should then continue to Rik 62.12). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the dense grammar of *ahrayāṇam* in 62.10 and "क्याच्छन्दसीत्युप्रत्ययः" in 62.11 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
