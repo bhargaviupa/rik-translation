@@ -4038,4 +4038,28 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–202 done (PDF 19–220): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1–66.4 complete; **Rik 66.5** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page is begun (p. 202, ending at *ainot*, "laṅ, third person singular"). Next: p. 203 (PDF 221), the grammar page of Rik 66.5 concludes (*navanta*, *dṛśīke*…), and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Skandasvāmin/Śākapāṇi references on pp. 201–202 as read [?]; the grammar page of 66.5 (especially *nīcīḥ*) compressed and doubtful in places [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 203 (PDF 221)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read; the varga numeral changes from 10 to 11 here]".)*
+
+**Grammar page for Rik 66.5, concluded (noted briefly).** **ऐनोत्** *(concluded)*: …third person singular, *tip*; the *i* of the ending is lost by "itaś ca"; by "vyatyayo bahulam" the vikaraṇa *śnu* comes in place of *śap*; with *inu + t*, because the affix conditions it, *guṇa* of the *u*; by "āḍajādīnām" the *āṭ* augment for the stem, and by "āṭaś ca" *vṛddhi*; the form *ainot*; the *nighāta* accent of a verb. **दृशीके**: root *dṛśir prekṣaṇe*; by "aniḍbhyāṃ ca" (Uṇ. Sū. 4-[148], as read) the affix *kīkan*; since *k*-marked, the *laghūpadha-guṇa* does not come; the word *dṛśīka*; since it ends in the *n*-marked affix, by "ñnityādir nityam" the initial acute. **॥ ९–१० ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तारने सूक्तवु समाप्तवु"** — "*aravattāraneya sūktavu samāptavu*" — "The sixty-sixth sūkta is concluded." *(Sūkta 66 is complete: five four-pāda Ṛks = ten half-Ṛks; printed pp. 179–203.)*
+
+---
+
+## SŪKTA 67 *(printed p. 203 = PDF 221; third sūkta of the Twelfth Anuvāka)*
+
+### Page 203 (PDF 221), lower part — Sāyaṇa's introduction; Kannada anuvāda
+
+**Printed on the page:** the line "*Aravattēḻaneya sūktavu*" ("the sixty-seventh sūkta"), then:
+
+> **वनेष्विति द्वैपदं दशर्चमध्ययनतः पञ्चर्चं तृतीयं सूक्तं पराशरस्यार्षमाग्नेयं । वनेष्वित्यनुक्रान्तं ॥ विनियोगो लैङ्गिकः ॥**
+> *vaneṣv iti dvaipadaṃ daśarcam adhyayanataḥ pañcarcaṃ tṛtīyaṃ sūktaṃ parāśarasyārṣam āgneyaṃ | vaneṣv ity anukrāntaṃ || viniyogo laiṅgikaḥ ||*
+> *"'Vaneṣu' is a two-footed [*dvaipada*] sūkta of ten [half-]Ṛks, by [the manner of] study of five Ṛks; the third sūkta; the vision of Parāśara, addressed to Agni. It is stated in the Anukramaṇī as 'vaneṣu'. The application is by indication (*laiṅgika*)."*
+
+**Anuvāda (Kannada).** "The sūkta '*vaneṣu*' is the third sūkta in the twelfth anuvāka. In it there are ten Ṛks of the metre *dvipadā virāṭ*, or, according to the way of study, five Ṛks. Parāśara is the ṛṣi of this sūkta, Agni the deity. In the Anukramaṇikā it is mentioned as '*vaneṣu*'. The application is *laiṅgika*."
+
+---
+
+**Progress note:** Printed pp. 1–203 done (PDF 19–221): **Sūktas 62, 63, 64, 65 and 66 are complete** (the two sūktas asked for in this run, 65 and 66, are done). **Sūkta 67** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara; Dvipadā Virāṭ; third sūkta of the Twelfth Anuvāka): only its heading line, Sāyaṇa's introduction and the Kannada anuvāda are transcribed (lower p. 203). Next: p. 204 (PDF 222), the heading block of Sūkta 67 and Rik 67.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Skandasvāmin/Śākapāṇi references on pp. 201–202 as read [?]; accent marks of the Saṃhitā/Pada not reproduced.
