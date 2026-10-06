@@ -85,14 +85,35 @@
 
 **...[Mandalas] are divided into suktas. The first Mandala has 191 suktas, divided into 24 Anuvakas.** Their arrangement is given in the following table, listing each Anuvaka's sukta-range, sukta-count, and cumulative count of mantras:
 
-| Anuvaka | Sukta range | Suktas in this Anuvaka | Cumulative mantras |
+| Anuvāka | Sūkta range | Number of sūktas | Number of ṛks |
 |---|---|---|---|
-| 1 | 1–9 | 9 | 70 |
-| 2 | 10–19 *(approx.)* | ... | ... |
-| *(remaining 22 rows)* | | | |
-| **Total** | **1–191** | **191** | *(a four-digit total, approx. 2000+)* |
+| 1 | 1–3 | 3 | 30 |
+| 2 | 4–7 | 4 | 40 |
+| 3 | 8–11 | 4 | 40 |
+| 4 | 12–17 | 6 | 66 |
+| 5 | 18–23 | 6 | 77 |
+| 6 | 24–30 | 7 | 97 |
+| 7 | 31–35 | 5 | 71 |
+| 8 | 36–43 | 8 | 96 |
+| 9 | 44–50 | 7 | 82 |
+| 10 | 51–57 | 7 | 72 |
+| 11 | 58–64 | 7 | 74 |
+| 12 | 65–73 | 9 | 91 |
+| 13 | 74–84 | 11 | 98 |
+| 14 | 85–93 | 9 | 106 |
+| 15 | 94–105 | 12 | 125 |
+| 16 | 106–115 | 10 | 107 |
+| 17 | 116–120 | 5 | 83 |
+| 18 | 121–126 | 6 | 70 |
+| 19 | 127–133 | 7 | 60 |
+| 20 | 134–139 | 6 | 40 |
+| 21 | 140–151 [?] | 12 | 91 [?] |
+| 22 | 152–158 [?] | 7 | 40 [?] |
+| 23 | 159–173 [?] | 15 | 197 [?] |
+| 24 | 174–191 [?] | 18 | 153 [?] |
+| **Total** | **1–191** | **191** | **2006** |
 
-*(This table runs to 24 rows of small Kannada numerals at this scan's resolution; the first row is given with reasonable confidence, but the remaining rows are not transcribed individually here to avoid asserting precise figures that cannot be verified reliably at this resolution. The prose below confirms the totals that matter: 191 suktas across 24 Anuvakas in Mandala 1.)*
+*(Table of the 24 Anuvākas of Maṇḍala 1, as printed on p. 2 in four columns: Anuvāka number, range of sūktas, number of sūktas, number of ṛks. Rows 1–10 were read and translated by the author and each agrees with the standard sūkta-wise ṛk counts of the first Maṇḍala. Rows 11–20 were read from the second scan and agree both with the glyphs and with those counts. Rows 21–24 are consistent with the printed totals (191 sūktas, 2006 ṛks, whose sum they complete exactly), but their individual digits could not be separated with certainty in the print, hence [?]. The earlier first-row reading in this file ("1–9, 70") was wrong; the print gives 1–3, 3 sūktas, 30 ṛks.)*
 
 **These suktas do not all treat of a single deity.** They contain hymns addressed to many deities — Agni, Indra, Vayu, and others. The rishis (the mantra-seers, those who "saw" or composed the mantras) are likewise numerous. Among them are Vishvamitra, Vasishtha, Vamadeva...
 
