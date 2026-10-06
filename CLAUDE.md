@@ -1,10 +1,10 @@
-# Rigveda Samhita Translation — Volumes 1–5 complete (Volume 6 follows)
+# Rigveda Samhita Translation — Volumes 1–5 complete (Volume 6 in progress)
 
 Translating a 1949 Kannada commentary on the Rigveda (Sayana's Sanskrit bhashya + Kannada
 explanation by H. P. Venkata Rao) into English. Volume 1 (complete — `Rigveda_Samhita_Vol1_English_Translation.md`) covered the
 front-matter plus Suktas 1–2 of Mandala 1; Volume 2 (complete) covered Suktas 3–19; Volume 3 (complete) covered Suktas 20–32;
 Volume 4 (complete — `Rigveda_Samhita_Vol4_English_Translation.md`, `.docx` rebuilt) covered Suktas 33–46 (the Third Adhyaya).
-**Volume 5** covers Mandala 1, **Suktas 47–61** (the Fourth Adhyaya of the First Ashtaka). **Volume 6** (`Rig_Vol6.pdf`, 638 PDF pages) follows and has not been examined yet.
+**Volume 5** covers Mandala 1, **Suktas 47–61** (the Fourth Adhyaya of the First Ashtaka). **Volume 6** (`Rig_Vol6.pdf`, 638 PDF pages; Sūktas 62–80, the Fifth Adhyāya) is set up in `Rigveda_Samhita_Vol6_English_Translation.md` (printed page = PDF − 18); its tail carries the progress note.
 
 **Current source file:** `Rig_Vol5.pdf` (724 pages, scanned; contents table in the header of the output file).
 **Current output file:** `Rigveda_Samhita_Vol5_English_Translation.md` — append-only; never rewrite earlier sections.
