@@ -3605,4 +3605,78 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–178 done (PDF 19–196): Sūktas 62, 63, 64 complete. **Sūkta 65** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 65.1–65.4 complete; **Rik 65.5** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 178, ending at *uṣarbhut*). Next: p. 179 (PDF 197), the grammar page of Rik 65.5 concludes (*vedhāḥ*, *śiśvā*, *vibhuḥ*, *dūrebhāḥ*…), the closing line of Sūkta 65; then Sūkta 66 (the second *dvaipada* sūkta, of 10 half-Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 63–65 [?]; Special Topics notes on Skandasvāmin (pp. 177–178) and the "uṣarbudh" sentence (p. 176) compressed and doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 179 (PDF 197)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Grammar page for Rik 65.5, concluded (noted briefly).** **शिश्वा**: root *śvi* [print: "śo tanūkaraṇe", i.e. the root *śo* 'to thin'; doubtful, ?]; by "ādeca upadeśe 'śiti" (Pā. Sū. 6-1-45, as read) *ā* for the root's final; by "śaḥ kit sanvac ca" (Uṇ. Sū. 1-[10], as read) the affix *u*/*a* [as printed "u"; doubtful, ?]; since it is declared *san*-like, by "sanyaṅoḥ" the root is doubled; by "sanyataḥ" *i* in the reduplicative syllable; since the *sanvadbhāva* also applies to *nit*-hood, the initial acute; since *k*-hood is also enjoined for the affix, by "ātolopa iṭi ca" the loss of the root's *ā* before a vowel-initial *k*-marked affix; the word *śiśu*. In the first alternative of the sense given, *ā* for *su* by "supāṃ sulug…"; in the second, as before, the *nā* is not substituted for the instrumental singular. **दूरेभाः**: "*dūre bhāḥ yasya saḥ*", a *bahuvrīhi*; in the sūtra "tatpuruṣe kṛti bahulam" (Pā. Sū. 6-3-14, as read) which enjoins the *aluk*, by the word "bahulam" the *aluk* of the locative comes in the *bahuvrīhi* too; the locative's *luk* does not come, since by "supo dhātuprātipadikayoḥ" [as read] it is a compound; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member prevails over the compound accent. **॥ ९–१० ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तैदनेय सूक्तवु समाप्तवु"** — "*aravattaidaneya sūktavu samāptavu*" — "The sixty-fifth sūkta is concluded." *(Sūkta 65 is complete: five four-pāda Ṛks = ten half-Ṛks; printed pp. 154–179.)*
+
+---
+
+## SŪKTA 66 *(printed p. 179 = PDF 197; second sūkta of the Twelfth Anuvāka)*
+
+### Page 179 (PDF 197), lower part — Sāyaṇa's introduction; Kannada anuvāda
+
+**Printed on the page:** the line "*Aravattāraneya sūktavu*" ("the sixty-sixth sūkta"), then:
+
+> **रयिरिति दशर्चं द्वैपदमध्ययनतः पञ्चर्चं द्वितीयं सूक्तं पराशरस्यार्षमाग्नेयं । आनुक्रान्तं च । रयिरिति ॥ विनियोगो लैङ्गिकः ॥**
+> *rayir iti daśarcaṃ dvaipadam adhyayanataḥ pañcarcaṃ dvitīyaṃ sūktaṃ parāśarasyārṣam āgneyaṃ | ānukrāntaṃ ca | rayir iti || viniyogo laiṅgikaḥ ||*
+> *"'Rayiḥ' is the second sūkta, of ten [half-]Ṛks in the two-footed metre; by [the manner of] study, of five Ṛks; it is the vision of Parāśara, addressed to Agni. And it is stated in the Anukramaṇī: '*rayiḥ*'. The application is by indication (*laiṅgika*)."*
+
+**Anuvāda (Kannada).** "The sūkta '*rayir na*' is the second sūkta in the twelfth anuvāka. In it there are ten Ṛks of the metre *dvipadā virāṭ*, or, according to the way of study, five Ṛks. The ṛṣi of this sūkta is Parāśara; the deity is Agni. In the Anukramaṇikā it is mentioned as '*rayiḥ*'. The application is *laiṅgika*."
+
+---
+
+### Page 180 (PDF 198)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Sūkta — 66** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ६६ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — १० ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ५ (१०) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+#### Rik 66.1 *(printed "1 || 2 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **रयिर्न चित्रा सूरो न संदृगायुर्न प्राणो नित्यो न सूनुः ।**
+> **तक्वा न भूर्णिर्वना सिषक्ति पयो न धेनुः शुचिर्विभावा ॥ १ ॥ २ ॥**
+> *rayir na citrā sūro na saṃdṛg āyur na prāṇo nityo na sūnuḥ |*
+> *takvā na bhūrṇir vanā sisakti payo na dhenuḥ śucir vibhāvā || 1 || 2 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **रयिः । न । चित्रा । सूरः । न । सम्ऽदृक् । आयुः । न । प्राणः । नित्यः । न । सूनुः ।**
+> **तक्वा । न । भूर्णिः । वना । सिसक्ति । पयः । न । धेनुः । शुचिः । विभाऽवा ॥ १ ॥ २ ॥**
+> *rayiḥ | na | citrā | sūraḥ | na | saṃ-dṛk | āyuḥ | na | prāṇaḥ | nityaḥ | na | sūnuḥ |*
+> *takvā | na | bhūrṇiḥ | vanā | sisakti | payaḥ | na | dhenuḥ | śuciḥ | vibhā-vā || 1 || 2 ||*
+
+---
+
+### Page 181 (PDF 199)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **अयमग्निर्रयिर्न धनमिव चित्रा चायनीयो विचित्ररूपो वा सूरो न सूर्य इव संदृक् संद्रष्टा सर्वेषां वस्तूनां दर्शयिता आयुर्न प्राण आयुर्मुखे संचरन् प्राणः प्रशस्यन्नायुरिव प्रियतेमः । यद्वा । यथा प्राणवायुरायुर्जीवनमवस्थापयति । तथा चाम्नायते । यावद्ध्यस्मिन् शरीरे प्राणो वसति तावदायुरिति । एवमग्निरपि जाठररूपेणायुषोऽवस्थापयिता । नित्यो न सूनुर्नित्यो ध्रुवः पुत्र इव प्रियकारी । यथौरसः पुत्रः पितुर्हितमेवाचरति तद्वदयमपि हितस्य स्वर्गस्य प्रापयिता । तथा चाम्नायते । पुत्रः पित्रे लोककृज्जातवेदः । तै. ब्रा. ३-२-२-१० [?] इति । तक्वा न गतिमानश्व इव भूर्णिर्भर्ता । यथाश्व उपर्यारूढं पुरुषं बिभर्ति धारयति पोषयति वा तद्वदयमपीत्यर्थः । पयो न धेनुः पय इव प्रीणयिता शुचिर्दीप्तः विभावा विशिष्टप्रकाशयुक्तः । एवंगुणविशिष्टोऽग्निर्वना वनान्यरण्यानि सिषक्ति । दग्धुं समवैति । सेवते वा ॥ चित्रा । सुपां सुलुगिति सोः पूर्वसवर्णदीर्घत्वम् । नित्यः । नेर्ध्रुवे । म. ४-२-१०४ [?] इति त्यप् । प्रत्ययस्य पित्त्वादनुदात्तत्वे उपसर्गस्वर एव शिष्यते । तक्वा । तक हसने । गतिकर्मसु पठितत्वाद्गत्यर्थः । तकति गच्छतीति तक्वा । अन्येभ्योऽपि दृश्यन्ते इति वनिप् । भूर्णिः । घृणिः पृश्निरित्यादौ भरतेर्निप्रत्ययान्तो निपातितः ॥**
+> *ayam agnī rayir na dhanam iva citrā cāyanīyo vicitrarūpo vā sūro na sūrya iva saṃdṛk saṃdraṣṭā sarveṣāṃ vastūnāṃ darśayitā āyur na prāṇa āyur mukhe saṃcaran prāṇaḥ praśasyann āyur iva priyatamaḥ | yadvā | yathā prāṇavāyur āyur jīvanam avasthāpayati | tathā cāmnāyate | yāvad dhy asmin śarīre prāṇo vasati tāvad āyur iti | evam agnir api jāṭhararūpeṇāyuṣo 'vasthāpayitā | nityo na sūnur nityo dhruvaḥ putra iva priyakārī | yathaurasaḥ putraḥ pitur hitam evācarati tadvad ayam api hitasya svargasya prāpayitā | tathā cāmnāyate | putraḥ pitre lokakṛj jātavedaḥ | tai. brā. 3-2-2-10 [?] iti | takvā na gatimān aśva iva bhūrṇir bhartā | yathāśva upary ārūḍhaṃ puruṣaṃ bibharti dhārayati poṣayati vā tadvad ayam apīty arthaḥ | payo na dhenuḥ paya iva prīṇayitā śucir dīptaḥ vibhāvā viśiṣṭaprakāśayuktaḥ | evaṃguṇaviśiṣṭo 'gnir vanā vanāny araṇyāni sisakti | dagdhuṃ samavaiti | sevate vā || citrā | supāṃ sulug iti soḥ pūrvasavarṇadīrghatvam | nityaḥ | nerdhruve | Ma. 4-2-104 [?] iti tyap | pratyayasya pittvād anudāttatve upasargasvara eva śiṣyate | takvā | taka hasane | gatikarmasu paṭhitatvād gatyarthaḥ | takati gacchatīti takvā | anyebhyo 'pi dṛśyante iti vanip | bhūrṇiḥ | ghṛṇiḥ pṛśnir ity ādau bharater nipratyayānto nipātitaḥ ||*
+> *"This Agni is **rayir na**, like wealth, **citrā**, to be gathered, or of wonderful form; **sūro na**, like the sun, **saṃdṛk**, an all-seer, the one who shows all things; **āyur na prāṇaḥ**, like life-breath, the breath that moves in the mouth, most dear like praised life. Or: as the breath keeps life going — so it is taught: 'as long as the breath dwells in this body, so long is there life' — thus Agni too, in the form of the digestive fire, keeps life in place. **Nityo na sūnuḥ**, like a firm, constant son, doing what pleases; as a son of one's own body does only what is good for his father, so he too brings about what is good, heaven; so it is taught: 'a son is a world-maker for his father, O Jātavedas' (Tai. Brā. 3-2-2-10, as read, ?). **Takvā na bhūrṇiḥ**, like a swift horse, the bearer: as a horse bears, upholds, or feeds the man who has mounted it, so he. **Payo na dhenuḥ**, like a cow, a pleaser, like milk; **śuciḥ**, bright; **vibhāvā**, of special radiance. Agni, endowed with such qualities, **sisakti**, goes up to, or serves, **vanā**, the forests, to burn [them]. **Citrā**: the same-class lengthening after the loss of *su*. **Nityaḥ**: the affix *tyap* by 'nerdhruve' (Mahābhāṣya 4-2-104, as read, ?); since the affix is *p*-marked and unaccented, only the accent of the prefix remains. **Takvā**: root *taka hasane*; since read among the verbs of motion, it means 'go'; 'he goes' is *takvā*; the *vanip* [by 'anyebhyo 'pi dṛśyate']. **Bhūrṇiḥ**: in the list 'ghṛṇiḥ pṛśniḥ…' the form ending in *ni* after *bhṛ* is given by *nipātana*."* *(Grammar tail characterized; the reference numerals are doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**(This Agni)** — **रयिर्न** — like wealth; **चित्रा** — desirable (of strange form); **सूरो न** — like the sun; **संदृक्** — a good seer (who makes things visible); **आयुः** — [moving] in the mouth; **प्राणो न** — dear like the breath; **प्राणः** — the vital breath; **आयुर्न** — like life (giving life; increasing it); **नित्यः** — one who does what is good for the father; **सूनुः** — like a [true] son (who gains heaven for him); **तक्वा न** — like a swift-moving horse; **भूर्णिः** — one who bears (nourishes); **धेनुः** — a cow; **पयो न** — like (a nourisher by) milk; **शुचिः** — shining; **विभावा** — of great radiance (Agni); **वना** — the forests; **सिषक्ति** — he approaches to burn (he takes refuge in them).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada; begins).* Like wealth, desirable; like the sun, shining; like the breath, giver of life; like a son, bringing the father heaven; like a horse that carries the rider, a bearer; *(the sentence concludes on p. 182)*…
+
+---
+
+**Progress note:** Printed pp. 1–181 done (PDF 19–199): Sūktas 62, 63, 64 and **65 (complete, 5 four-pāda Ṛks)**. **Sūkta 66** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti; Dvipadā Virāṭ; second sūkta of the Twelfth Anuvāka): introduction, anuvāda, heading block done; **Rik 66.1** (half-Ṛks 1–2) — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha and the start of the Bhāvārtha done (pp. 180–181). Next: p. 182 (PDF 200), the Bhāvārtha's end, the source's English, Special Topics and grammar of Rik 66.1; then Riks 66.2–66.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals ("10" read for Sūktas 65–66 headers, small print) [?]; the root-gloss of *śiśvā* on p. 179 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
