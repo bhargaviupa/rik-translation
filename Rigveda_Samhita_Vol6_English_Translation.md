@@ -2812,4 +2812,64 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–133 done (PDF 19–151): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.9 complete; Rik 64.10 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 133, ending after *virapśinaḥ*). Next: p. 134 (PDF 152), the grammar page of Rik 64.10 continues (*astāraḥ*, *anantaśuṣmāḥ*, *vṛṣakhādayaḥ*…); then Rik 64.11. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9 and 64.10 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 134 (PDF 152)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.10, concluded (noted briefly).** **अस्तारः**: root *asu kṣepaṇe*; in the sense of habit, the affix *tṛn*; by Vedic licence the *iṭ* augment does not come; the word *astṛ*; with *jas* following, by "ṛto ṅisarvanāmasthānayoḥ" (Pā. Sū. 7-3-110, as read) *guṇa* of the final *ṛ*; by "āpṛtṛnṛc…" [as read: "āptṛntṛc…"], Pā. Sū. 6-4-11] the lengthening of the penultimate; the *s* of the affix gets *ru*/*visarga*; *astāraḥ*; since *tṛn* is *n*-marked, by "ñnityādir nityam" the initial acute. **अनन्तशुष्माः**: "*nāsty anto 'sya*" = *anantaḥ*; by "nañsubhyām" (Pā. Sū. 6-2-172, as read) the final acute of the latter member; "*anantaḥ śuṣmaḥ balaṃ yeṣāṃ te anantaśuṣmāḥ*", a *bahuvrīhi* compound; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member is kept. **वृषखादयः**: root *khāda bhakṣaṇe*; by "sarvadhātubhya in" (Uṇ. Sū. 4-[117], as read) the affix *in*; the word *khādi*; the word *vṛṣan*, ending in the affix *kanin*, has the initial acute by "ñnityādir nityam"; "*vṛṣā khādiḥ yeṣāṃ te vṛṣakhādayaḥ*", as before the accent of the first member in a *bahuvrīhi*; with *vṛṣakhādi + jas*, by "jasi ca" the *guṇa* of the *ik*-ending stem, with *ay*-substitute; the form *vṛṣakhādayaḥ*. **॥ १० ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.10 ends here (ornamental rule).*
+
+#### Rik 64.11
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **हिरण्ययेभिः पविभिः पयोवृध उज्जिघ्नन्त आपथ्यो३ न पर्वतान् ।**
+> **मखा अयासः स्वसृतो ध्रुवच्युतो दुध्रकृतो मरुतो भ्राजदृष्टयः ॥ ११ ॥**
+> *hiraṇyayebhiḥ pavibhiḥ payovṛdha ujjighnanta āpathyo na parvatān |*
+> *makhā ayāsaḥ svasṛto dhruvacyuto dudhrakṛto maruto bhrājadṛṣṭayaḥ || 11 ||*
+
+*(The print has the Saṃhitā "āpathyo3 na" with the pluti sign "३"; given as printed.)*
+
+---
+
+### Page 135 (PDF 153)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **हिरण्ययेभिः । पविऽभिः । पयःऽवृधः । उत् । जिघ्नन्ते । आऽपथ्यः । न । पर्वतान् ।**
+> **मखाः । अयासः । स्वऽसृतः । ध्रुवऽच्युतः । दुध्रऽकृतः । मरुतः । भ्राजत्ऽऋष्टयः ॥ ११ ॥**
+> *hiraṇyayebhiḥ | pavi-bhiḥ | payaḥ-vṛdhaḥ | ut | jighnante | ā-pathyaḥ | na | parvatān |*
+> *makhāḥ | ayāsaḥ | sva-sṛtaḥ | dhruva-cyutaḥ | dudhra-kṛtaḥ | marutaḥ | bhrājat-ṛṣṭayaḥ || 11 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **मरुतो हिरण्ययेभिः सुवर्णमय्यैः । यद्वा । हितरमणीयैः पविभी रथानां चक्रैः पर्वतान्पर्वतो मेघान् यद्वा शिलोच्चयानुज्जिघ्नन्ते । ऊर्ध्वं गमयन्ति । स्थानात्प्रच्यावयन्तीत्यर्थः । तत्र दृष्टान्तः । पथ्योः न । यथा पथि गच्छन्रथो मार्गे आस्थितं तृणवृक्षादिकं चोर्णीकृत्योर्ध्वं नयति गमयति । यद्वा । यथा संयुक्ता गजा मार्गस्थितं वृक्षादिकं भग्नं कुर्वन्ति । कीदृशा मरुतः । पयोवृधः पयसो वृष्ट्युदकस्य वर्धयितारः । यद्वा । पृश्न्याः पयसा वर्धमानाः । पृश्नियै वै पयसो मरुतो जाताः । तै. सं. २-१-११-४ [?] इति श्रूयते । मखाः । मख इति यज्ञनाम । तद्वन्तः । अयासो देवयजनदेशं प्रति गन्तारः स्वसृतः शत्रूंस्ति स्वयमेव सरन्तो गच्छन्तः ध्रुवच्युतो ध्रुवाणां निश्चलानां पर्वतादीनामपि च्यावयितारः दुध्रकृतो मुध्रं दुष्प्रानां धारयितारमात्मानं कुर्वाणाः । यद्वा । दुर्धरमन्यैर्धर्तुमशक्यमात्मानं कुर्वाणाः । भ्राजदृष्टयः । दीप्यमानायुधाः ॥ उज्जिघ्नन्ते । हन्तेर्व्यत्ययेनात्मनेपदम् । बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसीत्यभ्यासस्येत्वम् । गमहनेत्यादिनोपधालोपः । घो हन्तेरिति घत्वम् । व्यत्ययेनान्तादेशः । पथ्यः । पथि भवः । भवे छन्दसीति यत् । नस्तद्धिते । पा. ६-४-१४४ [?] । इति टिलोपः । व्यत्ययेनान्तस्वरितत्वम् । यद्वा । छन्दसीवनिपाविति मत्वर्थीय ईकारः । उदात्तस्वरितयोर्यणः इति विभक्तेः स्वरितत्वम् । अयासः । अय पय गतौ । अयन्त इत्ययाः । पचाद्यच् । आज्जसेरसुक् । दुध्रकृतः । अत्र दुःशब्देन दुष्प्रा लक्ष्यन्ते । धृञ् धारणे । दुष्प्रान् धारयतीति दुध्रः । मूलविभुजादित्वात् । पा. ३-२-५-१ [?] । कप्रत्ययः । यद्वा । ईषद्दुःसुष्विति दुःशब्द उपपदे कर्मणि खल् । गुणाभावश्छान्दसः । तं कुर्वन्तीति दुध्रकृतः । क्विप्ष्ठेति क्विप् । रेफलोपश्छान्दसः ॥**
+> *maruto hiraṇyayebhiḥ suvarṇamayyaiḥ | yadvā | hitaramaṇīyaiḥ pavibhī rathānāṃ cakraiḥ parvatān parvato meghān yadvā śiloccayān ujjighnante | ūrdhvaṃ gamayanti | sthānāt pracyāvayantīty arthaḥ | tatra dṛṣṭāntaḥ | pathyo na | yathā pathi gacchan ratho mārge āsthitaṃ tṛṇavṛkṣādikaṃ cūrṇīkṛtyordhvaṃ nayati gamayati | yadvā | yathā saṃyuktā gajā mārgasthitaṃ vṛkṣādikaṃ bhagnaṃ kurvanti | kīdṛśā marutaḥ | payovṛdhaḥ payaso vṛṣṭyudakasya vardhayitāraḥ | yadvā | pṛśnyāḥ payasā vardhamānāḥ | pṛśniyai vai payaso maruto jātāḥ | tai. saṃ. 2-1-11-4 [?] iti śrūyate | makhāḥ | makha iti yajñanāma | tadvantaḥ | ayāso devayajanadeśaṃ prati gantāraḥ svasṛtaḥ śatrūṃs ti [?] svayam eva sarantāḥ gacchantaḥ dhruvacyuto dhruvāṇāṃ niścalānāṃ parvatādīnām api cyāvayitāraḥ dudhrakṛto dhṛdhraṃ [sic: "mudhraṃ", ?] duṣprānāṃ dhārayitāram ātmānaṃ kurvāṇāḥ | yadvā | durdharam anyair dhartum aśakyam ātmānaṃ kurvāṇāḥ | bhrājadṛṣṭayaḥ | dīpyamānāyudhāḥ || ujjighnante | hanter vyatyayenātmanepadam | bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasīty abhyāsasyetvam | gamahanety ādinopadhālopaḥ | gho hanter iti ghatvam | vyatyayenāntādeśaḥ | pathyaḥ | pathi bhavaḥ | bhave chandasīti yat | nas taddhite | Pā. 6-4-144 [?] | iti ṭilopaḥ | vyatyayenāntasvaritatvam | yadvā | chandasīvanipāviti matvarthīya īkāraḥ | udāttasvaritayor yaṇaḥ iti vibhakteḥ svaritatvam | ayāsaḥ | aya paya gatau | ayanta ity ayāḥ | pacādyac | āj jaser asuk | dudhrakṛtaḥ | atra duḥśabdena duṣprā lakṣyante | dhṛñ dhāraṇe | duṣprān dhārayatīti dudhraḥ | mūlavibhujāditvāt | Pā. 3-2-5-1 [?] | kapratyayaḥ | yadvā | īṣadduḥsuṣv iti duḥśabda upapade karmaṇi khal | guṇābhāvaś chāndasaḥ | taṃ kurvantīti dudhrakṛtaḥ | kvipṣṭheti kvip | rephalopaś chāndasaḥ ||*
+> *"The Maruts, with **hiraṇyayebhiḥ** — golden [or: pleasant and beautiful] **pavibhiḥ**, wheels of their chariots, **ujjighnante** — drive up, set in motion upwards, the **parvatān** — the clouds or the heaps of rock — i.e. dislodge them from their place. The example: **āpathyo na** — as a chariot going on the road crushes the grass, trees and so on standing in the way and sends them upwards; or as elephants in a herd break the trees and the like that stand in the way. Of what kind are the Maruts? **Payovṛdhaḥ**, increasers of the water of rain; or: those who grow by the milk of Pṛśni (the Marut-mother) — for it is heard 'the Maruts were born of the milk of Pṛśni' (Tai. Saṃ. 2-1-11-4, as read, ?). **Makhāḥ** — *makha* is a word for 'sacrifice'; possessing it [honoured with sacrifices]; **ayāsaḥ**, goers to the place of the sacrifice for the gods; **svasṛtaḥ**, going of themselves against enemies [reading of "śatrūṃs ti" doubtful, ?]; **dhruvacyutaḥ**, dislodgers even of firm, immovable things such as mountains; **dudhrakṛtaḥ**, making themselves holders of the hard to hold [the print "mudhraṃ" is doubtful, ?], or: making themselves unbearable by others; **bhrājadṛṣṭayaḥ**, with shining weapons. **Ujjighnante**: *ātmanepada* of *han* by exchange; the *śluḥ* of *śap* by 'bahulaṃ chandasi'; *i* in the reduplicative syllable; the loss of the penultimate by 'gamahana…'; *gh* by 'gho hanteḥ'; the substitute at the end by exchange. **Pathyaḥ**: 'being on the path': *yat* by 'bhave chandasi'; the loss of *ṭi* by 'nas taddhite' (Pā. 6-4-144, as read, ?); the final *svarita* by exchange; or, with the possessive *ī* by 'chandasīvanipau', the case-ending takes the *svarita* by 'udāttasvaritayor yaṇaḥ'. **Ayāsaḥ**: root *aya paya gatau*; 'those who go' are *ayāḥ*; *ac* of the *pacādi* class; *asuk* for *jas* by 'āj jaser asuk'. **Dudhrakṛtaḥ**: here by the word *duḥ* the *duṣprā* ('hard to hold') are meant; root *dhṛñ dhāraṇe*; 'he holds the hard-to-hold' is *dudhraḥ*, from the *mūlavibhujādi* class (Pā. 3-2-5-1, as read, ?), the affix *ka*; or: *khal* in the object sense, when *duḥ* is the first member, by 'īṣadduḥsuṣu'; the absence of *guṇa* is Vedic; 'those who make him so': *dudhrakṛtaḥ*; *kvip* by 'kvip ca'; the loss of *r* is Vedic."* *(Grammar tail characterized; the print's "आपथ्यो३" (with the pluti sign) and several readings in this bhāṣya are doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 136)*
+
+**पयोवृधः** — those who increase [the water of rain, the cloud, rain-water]; **मखाः** — *(continues on p. 136)* …
+
+---
+
+### Page 136 (PDF 154)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Pratipadārtha (continued and concluded; Kannada).** **पयोवृधः** — those who grow with the water of the sky that makes the rain increase; **मखाः** — those who are honoured by sacrifices; **अयासः** — those who go (to the place of sacrifice, for the sake of the deities); **स्वसृतः** — those who go of themselves (toward the enemies); **ध्रुवच्युतः** — those who dislodge even firm mountains; **दुध्रकृतः** — those who make themselves unassailable to others; **भ्राजदृष्टयः** — those with shining weapons; **मरुतः** — the Marut deities; **हिरण्ययेभिः** — golden [beneficial and beautiful]; **पविभिः** — with the wheels of the chariot; **पर्वतान्** — the clouds (and the masses of stone); **आपथ्यः न** — as a chariot [throws up] the grass, stones and the like on the way; **उज्जिघ्नन्ते** — they drive upward.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The Marut deities, who increase the rain-water, who perform sacrifices, who go of themselves to the place of sacrifice, who destroy their enemies on their own, who can dislodge even firm mountains, who are unassailable by others, who have shining weapons, riding on their chariots with golden wheels, scatter the clouds, as a chariot in motion throws upward the grass, stones and the like that lie on the way.
+
+**English Translation** *(the source's own, as printed):*
+
+> Augmenters of rain, they drive with golden wheels the clouds asunder, as elephants (in a herd break down the trees in their way) : they are honoured with sacrifices, visitants of the hall of offering, spontaneous assailers of (their foes) subverters of what are stable, immovable themselves, and wearers of shining weapons.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **हिरण्ययेभिः** (*hiraṇyayebhiḥ*) — *suvarṇamayyaiḥ, yadvā hitaramaṇīyaiḥ* — "made of gold; or, [from *hiraṇya* meaning] 'beneficial and pleasing': with wheels of the chariot which are made of gold, and which are, by their appearance, both pleasing and beautiful."
+
+---
+
+**Progress note:** Printed pp. 1–136 done (PDF 19–154): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.10 complete; Rik 64.11 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 136, ending after *hiraṇyayebhiḥ*). Next: p. 137 (PDF 155), the Special Topics of Rik 64.11 continue; then its grammar page; then Rik 64.12. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.11 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
