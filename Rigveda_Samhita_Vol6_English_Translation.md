@@ -1580,4 +1580,69 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–73 done (PDF 19–91): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.3 complete. Next: p. 74 (PDF 92), Rik 63.4. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 74 (PDF 92)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+#### Rik 63.4
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **त्वं ह त्यदिन्द्र चोदीः सखा वृत्रं यद्वज्रिन्वृषकर्मन्नुभ्नाः ।**
+> **यद्ध शूर वृषमणः पराचैर्वि दस्यूँर्योनावकृतो वृथाषाट् ॥ ४ ॥**
+> *tvaṃ ha tyad indra codīḥ sakhā vṛtraṃ yad vajrin vṛṣakarmann ubhnāḥ |*
+> *yad dha śūra vṛṣamaṇaḥ parācair vi dasyūṃr yonāv akṛto vṛthāṣāṭ || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वम् । ह । त्यत् । इन्द्र । चोदीः । सखा । वृत्रम् । यत् । वज्रिन् । वृषऽकर्मन् । उभ्नाः ।**
+> **यत् । ह । शूर । वृषऽमनः । पराचैः । वि । दस्यून् । योनौ । अकृतः । वृथाषाट् ॥ ४ ॥**
+> *tvam | ha | tyat | indra | codīḥ | sakhā | vṛtram | yat | vajrin | vṛṣa-karman | ubhnāḥ |*
+> *yat | ha | śūra | vṛṣa-manaḥ | parācaiḥ | vi | dasyūn | yonau | akṛtaḥ | vṛthāṣāṭ || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे इन्द्र त्वं ह त्वं खलु सखा कुत्सस्य सहायः सन् त्यत्तत्प्रसिद्धं धनं जयलक्षणं यशो वा चोदीः । प्रेरितवान् । अकार्षीरित्यर्थः । हे वृषकर्मन् वृष्ट्युदकसेचनरूपकर्मोपेत वज्रिन् वज्रवन्निन्द्र वृत्रं सर्वस्य धनस्यावरीतारं कुत्सस्य शत्रुं यदुभ्नाः [?] आतुभ्नाः [?] आहिंसीः । अपि च हे शूर शत्रूणां प्रेरक वृषमणः कामाभिवर्षकमनस्केन्द्र वृथाषाट् अनायासेन शत्रूणामभिभविता त्वं यद्ध यदा खलु योनौ वीरैर्मिश्रणीये संग्रामे दस्यून्कुत्सस्योपक्षयितॄन् शत्रून्पराचैः पराग्गमनैर्व्यकृतः पराङ्मुखा यथा भवन्ति तथा व्यच्छिनः । तदानीं कुत्सः सर्वं यशः प्राप्नोदित्यर्थः ॥ चोदीः । चुद प्रेरणे । लुङि नेटीति सिचि वृद्धिप्रतिषेधः । उभ्नाः । इभ तुभ तुभ हिंसायाम् । क्र्यादिकः । लङि सिपि तलोपश्छान्दसः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । पराचैः । पराचैरित्येतदव्ययम् । नीचैरुच्चैरितिवदिति भट्टभास्करमिश्रः । पराच्चैः पराञ्चनैरिति निरुक्तम् । नि. ११-२५ [?] । दस्यून् । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वेत्यैकारस्य सानुनासिकता । अकृतः । कृती छेदने । लङि सिपि तुदादित्वाच्छप्रत्ययः । आगमानुशासनस्यानित्यत्वात् शे मुचादीनामिति नुमागमस्याभावः । शस्य ञित्त्वाद्गुणाभावः ॥**
+> *he indra tvaṃ ha tvaṃ khalu sakhā kutsasya sahāyaḥ san tyat tat prasiddhaṃ dhanaṃ jayalakṣaṇaṃ yaśo vā codīḥ | preritavān | akārṣīr ity arthaḥ | he vṛṣakarman vṛṣṭyudakasecanarūpakarmopeta vajrin vajravann indra vṛtraṃ sarvasya dhanasyāvarītāraṃ kutsasya śatruṃ yad ubhnāḥ [?] ātubhnāḥ [?] āhiṃsīḥ | api ca he śūra śatrūṇāṃ preraka vṛṣamaṇaḥ kāmābhivarṣakamanaskendra vṛthāṣāṭ anāyāsena śatrūṇām abhibhavitā tvaṃ yad dha yadā khalu yonau vīrair miśraṇīye saṅgrāme dasyūn kutsasyopakṣayitṝn śatrūn parācaiḥ parāggamanair vy akṛtaḥ parāṅmukhā yathā bhavanti tathā vyacchinaḥ | tadānīṃ kutsaḥ sarvaṃ yaśaḥ prāpnod ity arthaḥ || codīḥ | cuda preraṇe | luṅi neṭīti sici vṛddhipratiṣedhaḥ | ubhnāḥ | ibha tubha tubha hiṃsāyām | kryādikaḥ | laṅi sipi talopaś chāndasaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | parācaiḥ | parācair ity etad avyayam | nīcair uccair itivad iti bhaṭṭabhāskaramiśraḥ | parācaiḥ parāñcanair iti niruktam | Ni. 11-25 [?] | dasyūn | dīrghād aṭi samānapāde iti nakārasya rutvam | atrānunāsikaḥ pūrvasya tu veti aikārasya sānunāsikatā [sic: read "ukārasya", ?] | akṛtaḥ | kṛtī chedane | laṅi sipi tudāditvāc chapratyayaḥ | āgamānuśāsanasyānityatvāt śe mucādīnām iti numāgamasyābhāvaḥ | śasya ñittvād guṇābhāvaḥ ||*
+> *"O Indra, you — indeed you, being **sakhā**, friend, helper of Kutsa — **codīḥ**, impelled, brought about **tyat**, that well-known wealth, or fame characterized by victory; **vṛtram yad ubhnāḥ** — when, O **vṛṣakarman**, one whose work is the pouring of rain-water, O **vajrin**, wielder of the thunderbolt, you crushed, harmed, Vṛtra, the concealer of all wealth, the enemy of Kutsa. And further, O **śūra**, impeller of enemies, **vṛṣamaṇaḥ**, Indra of a mind that showers desires, **vṛthāṣāṭ**, easy overcomer of enemies: when, in the **yonau**, the battle where heroes mingle, you cut down (**vy akṛtaḥ**) the **dasyūn**, Kutsa's destroyers, the enemies, by their **parācaiḥ**, retreatings, so that they turned their faces away — at that time Kutsa obtained all fame. **Codīḥ**: root *cuda preraṇe*; in the *luṅ*, the prohibition of *vṛddhi* before *sic* by 'neṭi'. **Ubhnāḥ**: root *ibha*/*tubha* 'to harm', of the *kryādi* class; in the *laṅ* before *sip*, the loss of *t* is Vedic; the absence of *aṭ*. **Parācaiḥ**: this is an indeclinable, 'like *nīcaiḥ, uccaiḥ*', says Bhaṭṭabhāskara Miśra; the Nirukta says '*parācaiḥ* = *parāñcanaiḥ*' (Ni. 11-25, as read, ?). **Dasyūn**: the change of *n* to *ru* by 'dīrghād aṭi samānapāde'; here the nasalization of the preceding [vowel] by 'anunāsikaḥ pūrvasya tu vā' [the print says *ai* for *u*; read doubtfully, ?]. **Akṛtaḥ**: root *kṛtī chedane*; in the *laṅ* before *sip* the affix *śa* because of the *tudādi* class; since the rule for augments is not constant, the *num* augment is absent, though 'śe mucādīnām' [would give it]; since *śa* is *ñit*, no *guṇa*."* *(Grammar tail characterized; sūtra references as read; the opening *yad ubhnāḥ ātubhnāḥ* is doubtful [?].)*
+
+---
+
+### Page 75 (PDF 93)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Bhāṣya (concluded).** The page begins "…talopaś chāndasaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ |" (the remarks on *ubhnāḥ* given above).
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**(हे) वृषकर्मन्** — O one who does the work that makes rain; **वज्रिन्** — O wielder of the thunderbolt (Indra); **वृत्रम्** — (Kutsa's enemy) the asura Vṛtra; **यत्** — when; **उभ्नाः** — you crushed; **(मत्तू)** and; **शूर** — O hero; **वृषमणः** — one with a mind that bestows wished-for things; Indra; **वृथाषाट्** — you who overcome enemies without effort; **यद्ध** — when; **योनौ** — in the battle where heroes meet; **दस्यून्** — Kutsa's other enemies; **पराचैः** — by [their] retreat; **वि अकृतः** — you cut down (destroyed); **(तदा)** — then; **इन्द्र** — O Indra; **त्वं ह** — you; **सखा** — as helper of Kutsa; **त्यत्** — that (the well-known fame in the form of victory); **चोदीः** — you impelled (brought about).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, you are the maker of rain, the wielder of the thunderbolt, the giver of what is wished for, the one who overcomes enemies without effort. You defeated the asura Vṛtra and his helpers, the other enemies of Kutsa, and brought fame to Kutsa.
+
+**English Translation** *(the source's own, as printed):*
+
+> Sender of rain and weilder [sic] of thunderbolt, you verily animated him to acquire such renown as that which you acquired when you slew Vritra ; munificient [sic] hero, you easily conquer your foes, you put to flight the Dasyus in battle.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **त्यत्** (*tyat*) — *tat, prasiddhaṃ dhanam, jayalakṣaṇaṃ yaśo vā* — "in the world, a heap of wealth useful to everyone; or fame worthy of being earned like wealth."
+- **वृषकर्मन्** (*vṛṣakarman*) — *vṛṣṭyudakasecanakarmopeta* — "one who does the work of pouring rain-water."
+
+---
+
+### Page 76 (PDF 94)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **वृषमणः** (*vṛṣamaṇaḥ*) — *kāmābhivarṣakamanaske* — "one whose mind fulfils the wishes of each."
+- **वृथाषाट्** (*vṛthāṣāṭ*) — *anāyāsena śatrūṇām abhibhavitā* — "one who subdues enemies effortlessly, without even a little exertion."
+- **पराचैः** (*parācaiḥ*) — *parāgamanaiḥ* — "going back, retreating; Bhaṭṭabhāskara has taken it as '*parācaiḥ* is an indeclinable like *nīcaiḥ, uccaiḥ*'. Yāska has explained the meaning as *parācaiḥ = parāñcanaiḥ* (Ni. [11-25], as read)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.4 (begins; noted briefly).** **चोदीः**: root *cuda preraṇe*; *luṅ*, second person singular, *sip*; the loss of *i* by "itaś ca"; where *cli* would come, the *sic* substitute by "cleḥ sic"; the *iṭ* augment by "ārdhadhātukasyeḍ valādeḥ"; by "asti sicor apṛkte" (Pā. Sū. 7-3-96, as read) the *īṭ* augment for the unjoined *sic*; by "neṭi" (Pā. Sū. 7-2-4, as read) *vṛddhi* does not come where *sic* follows an *iṭ* [augment], so the root's penultimate takes no *vṛddhi*; by "iṭa īṭi" (Pā. Sū. 8-2-28, as read) the loss of *sic*; by "puganta-laghūpadhasya ca" the *guṇa* of the light-penultimate; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* does not come; the *nighāta* accent because it follows a non-verbal word. **उभ्नाः**: root *ṇabha tubha hiṃsāyām*; *kryādi*; in the *laṅ*, second person singular, the loss of *i* of *sip*; the vikaraṇa *śnā* by "kryādibhyaḥ śnā"; since it is a non-*p*-marked *sārvadhātuka*, it is *ñit*-like, so the *laghūpadha-guṇa* does not come; the loss of the root's *t* [nasal] is Vedic; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; because *yat* precedes, by "yad vṛttān nityam" no *nighāta*; the vikaraṇa accent arises; the affix's *s* gets *ru*/*visarga*: *ubhnāḥ*. **पराचैः**: Bhaṭṭabhāskara Miśra has explained: as *nīcaiḥ* and *uccaiḥ* are indeclinables, so also *parācaiḥ*; in the Nirukta, "*parācaiḥ parāñcanaiḥ*" (Ni. [11-25], as read). **दस्यून्**: by "dīrghād aṭi samānapāde" (Pā. Sū. 8-3-9, as read) *ru* for *n*; "atrānunāsikaḥ pūrvasya tu vā" (Pā. Sū. 8-3-2, as read), by this sūtra the vowel *u* before the *ru* receives nasalization. *(Grammar page noted briefly; it continues on p. 77.)*
+
+---
+
+**Progress note:** Printed pp. 1–76 done (PDF 19–94): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.3 complete; Rik 63.4 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 76, ending after *dasyūn*). Next: p. 77 (PDF 95), the grammar page of Rik 63.4 continues (*akṛtaḥ* etc.), then Rik 63.5. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
