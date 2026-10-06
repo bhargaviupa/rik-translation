@@ -1476,4 +1476,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–67 done (PDF 19–85): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Rik 63.1 complete; Rik 63.2 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the start of the Special Topics (pp. 66–67). Next: p. 68 (PDF 86), the Special Topics of Rik 63.2 continue. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 68 (PDF 86)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **विव्रता** (*vivratā*) *(concluded)* — "…the word *vrata* is used in the general sense; this word is read among the twenty-six names of 'deed' beginning with *apaḥ, apnaḥ* (Ni. [2-1, ?])."
+- **हरी** (*harī*) — "Indra's horses. Yāska, among the twenty-six names of horses beginning with *aśvaḥ, hayaḥ, arvā*, did not read the word *harī*. But, in speaking of the vehicles of the deities, he begins with … (the passage beginning *daśa…*, Ni. [3-25?], read doubtfully, ?) and states: *harī indrasya (1), rohito 'gneḥ (2), harita ādityasya (3), rāsabhāv aśvinoḥ (4), ajāḥ pūṣṇaḥ (5), pṛṣatyo marutām (6), aruṇo gāva uṣasaḥ (7), śyāvāḥ savituḥ (8), viśvarūpā bṛhaspateḥ (9), niyuto vāyoḥ (10)* — 'the two bay horses of Indra, the red one of Agni, the greenish ones of Āditya, the two asses of the Aśvins, the goats of Pūṣan, the dappled does of the Maruts, the ruddy cows of Uṣas, the dark-brown ones of Savitṛ, the many-formed ones of Bṛhaspati, the *niyut* team of Vāyu' — thus saying that, in telling of the vehicles of the gods, the word *harī* denotes Indra's vehicle." *(The numerals "1–10" are as printed in the source's list; the Nirukta reference number is doubtful [?].)*
+- **जरिता** (*jaritā*) — *stotā* — "the sacrificer who praises. Among the thirteen names of praisers beginning *rebhaḥ, jaritā* (Ni. [3-16?, ?]) this word is also read."
+- **पुरुहूत** (*puruhūta*) — *purubhir yajamānair āhūta* — "called by many sacrificers; 'Indra, called by many sacrificers' is the sense."
+- **अविहर्यतक्रतो** (*aviharyatakrato*) — *haryatiḥ prepsākarma* (Ni. [2-12, ?]) *prepsitakarmavān* — "or *harya gatikāntyoḥ | kāntir abhilāṣaḥ | viharyato 'nabhilaṣitaḥ | aviharyato 'bhilaṣita ity arthaḥ |* The root *harya* has the sense 'to wish, to desire'. *Viharyataḥ* means 'not wished for'; *aviharyataḥ* means 'one who is not a not-wished-for', i.e. wished for: the purport is 'beneficial to all'. *Abhilaṣitaḥ kratuḥ karma yasya saḥ* — one whose works are beneficial to all. Here the word *kratu* is used in the general sense of 'deed'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.2 (noted briefly).** **हरी**: the word *harī* ends in *ī*; the dual; the *pragṛhya* designation by "īdūded dvivacanaṃ pragṛhyam"; by "plutapragṛhyā aci nityam" (Pā. Sū. 6-1-125, as read) the natural form (*prakṛtibhāva*) stays. **विव्रता**: *vrata* is the name of a deed; "*vividhaṃ vrataṃ yayoḥ tau vivratau*"; in the Saṃhitā, by "supāṃ sulug…" the *au* gives the former-vowel lengthening; in the *bahuvrīhi*, the accent of the first member is kept by "bahuvrīhau prakṛtyā pūrvapadam" *(continues on p. 69)*.
+
+---
+
+### Page 69 (PDF 87)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.2, concluded (noted briefly).** **वेः**: root *vī gatiprajanakāntyasanakhādaneṣu*; the causal sense is included in it; with this root, which has a causal sense, in the present-time sense the *laṅ* by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6, as read); second person singular, the ending *sip*; the loss of the *i* by "itaś ca"; since the root is of the *adi* class, the *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ"; the *guṇa* of the root because *sip* conditions it; by "bahulaṃ chandasy amāṅyoge 'pi" the *aṭ* augment does not come: the form *veḥ*; since *yat* precedes, by "yad vṛttān nityam" the prohibition of *nighāta* comes, so the root accent remains. **जरिता**: root *jṛṣ vayohānau*; here taken in the sense of praising; in the sense of agent, the affix *tṛc*; because it begins with *val*, the *iṭ* augment; since it is *ārdhadhātuka*, *guṇa* of the root on that account; final-acute by "citaḥ". **धात्**: root *dudhāñ dhāraṇapoṣaṇayoḥ*; as before, *luṅ* by "chandasi luṅlaṅliṭaḥ"; third person singular, the ending *tip*; the loss of *i* by "itaś ca"; the *sic* which would come by "cleḥ sic" has *luk* by "gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu"; by "bahulaṃ chandasy amāṅyoge 'pi" the absence of *aṭ*; the form *dhāt*; the *nighāta* accent. **अविहर्यतक्रतो**: "*haryatiḥ prepsākarmā*" (Nirukta [2-12], as read), says Yāska; the root *harya gatikāntyoḥ*; here too *kānti* means wishing; *viharyataḥ* = not wished for; *aviharyataḥ* = wished for; "*tādṛśaḥ kratuḥ karma yasya sa tathoktaḥ*" (the purport: one whose works are desired in this way); in the vocative, by "hrasvasya guṇaḥ" the *guṇa*, and by "eṅhrasvāt sambuddheḥ" the *su* drops, because the stem ends in a vowel; by "āmantritasya ca" the *nighāta* accent. **अमित्रान्**: "those among whom there are no friends" are *amitrāḥ*, them: *amitrān*; the initial acute of the latter member by "nañjo jaramaramitramṛtāḥ" (Pā. Sū. 6-2-116, as read). **इष्णासि**: root *iṣa ābhīkṣṇye*; used here in the sense of going; *laṭ*, second person singular, the affix *sip*; the vikaraṇa *śnā* by "kryādibhyaḥ śnā"; since [*sip*] is not *s*-marked, it has *ñit*-like behaviour, so the *laghūpadha-guṇa* does not come; the *ṇ* for *n* by "raṣābhyāṃ no ṇaḥ samānapade" (Pā. Sū. 8-4-1); the form *iṣṇāsi*; *sip* being *p*-marked is unaccented, so the accent of the vikaraṇa remains; since *yena* precedes, no *nighāta*, by "yad vṛttān nityam". **॥ २ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.2 ends here (ornamental rule).*
+
+---
+
+### Page 70 (PDF 88)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+#### Rik 63.3
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **त्वं सत्य इन्द्र धृष्णुरेतान्त्वमृभुक्षा नर्यस्त्वं षाट् ।**
+> **त्वं शुष्णं वृजने पृक्ष आणौ यूने कुत्साय द्युमते सचाहन् ॥ ३ ॥**
+> *tvaṃ satya indra dhṛṣṇur etān tvam ṛbhukṣā naryas tvaṃ ṣāṭ |*
+> *tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau yūne kutsāya dyumate sacāhan || 3 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वम् । सत्यः । इन्द्र । धृष्णुः । एतान् । त्वम् । ऋभुक्षाः । नर्यः । त्वम् । षाट् ।**
+> **त्वम् । शुष्णम् । वृजने । पृक्षे । आणौ । यूने । कुत्साय । द्युऽमते । सचा । अहन् ॥ ३ ॥**
+> *tvam | satyaḥ | indra | dhṛṣṇuḥ | etān | tvam | ṛbhukṣāḥ | naryaḥ | tvam | ṣāṭ |*
+> *tvam | śuṣṇam | vṛjane | pṛkṣe | āṇau | yūne | kutsāya | dyu-mate | sacā | ahan || 3 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 71)*
+
+> **हे इन्द्र त्वं सत्यः सत्सु भवः । सर्वोत्कृष्ट इत्यर्थः । एतान् शत्रूनभिगतः सन् धृष्णुस्तेषां धर्षयिता तिरस्कर्ता । किञ्च त्वमृभुक्षा ऋभूणामधिपतिः । तेषु कृतनिवासो वा । यद्वा । महन्नामैतत् । महान्प्रवृद्धोऽसि । नर्यो नृभ्यो हितः । तथा त्वं षाट् शत्रूणामभिभविता । हन्तेत्यर्थः । किञ्च । वृजन इत्यादीनि त्रीणि संग्रामनामानि । अत्र पूर्वे विशेषणे । वृजने वर्जनयुक्ते । संग्रामे हि वीराः पुरुषा वर्ज्यन्ते हिंस्यन्ते । पृक्षे सम्पर्चनीये वीर्यैर्योद्धुं प्राप्तव्ये । एवंविध आणौ संग्रामे द्युमते दीप्तिमते यूने तरुणाय कुत्साय सचा त्वं सहायो भूत्वा शुष्णं शोषयितारमेतत्संज्ञमसुरमहन् । अवधीः ॥ ऋभुक्षाः । ऋभुरिति मेधाविनाम । उरु विस्तीर्णं भाति । यद्वा । ऋतेन यज्ञेन**
+> *he indra tvaṃ satyaḥ satsu bhavaḥ | sarvotkṛṣṭa ity arthaḥ | etān śatrūn abhigataḥ san dhṛṣṇus teṣāṃ dharṣayitā tiraskartā | kiñca tvam ṛbhukṣā ṛbhūṇām adhipatiḥ | teṣu kṛtanivāso vā | yadvā | mahannāmaitat | mahān pravṛddho 'si | naryo nṛbhyo hitaḥ | tathā tvaṃ ṣāṭ śatrūṇām abhibhavitā | hantety arthaḥ | kiñca | vṛjana ity ādīni trīṇi saṅgrāmanāmāni | atra pūrve viśeṣaṇe | vṛjane varjanayukte | saṅgrāme hi vīrāḥ puruṣā varjyante hiṃsyante | pṛkṣe samparcanīye vīryair yoddhuṃ prāptavye | evaṃvidha āṇau saṅgrāme dyumate dīptimate yūne taruṇāya kutsāya sacā tvaṃ sahāyo bhūtvā śuṣṇaṃ śoṣayitāram etatsaṃjñam asuram ahan | avadhīḥ || ṛbhukṣāḥ | ṛbhur iti medhāvināma | uru vistīrṇaṃ bhāti | yadvā | ṛtena yajñena*
+> *"O Indra, you are **satya** — 'born among the good': the best of all. Having gone against **etān**, these enemies, you are **dhṛṣṇuḥ**, the one who overbears, overcomes them. And you are **ṛbhukṣāḥ**: lord of the Ṛbhus, or one who has made his dwelling among them. Or: this is a word for 'great'; you are great, grown large. **Naryaḥ** — good for men. Likewise you are **ṣāṭ**, the overcomer of enemies, i.e. the slayer. And further: **vṛjane** and the other [two] are three names of 'battle'; here the first two are qualifiers [of *āṇau*]. **Vṛjane**: in a battle that involves 'avoidance' — for in battle heroes are 'shunned', killed. **Pṛkṣe**: in which one is to be joined to fight with heroic powers. In such an **āṇau**, a battle, for **kutsāya**, young, radiant (**dyumate**), you, being his **sacā**, companion, **ahan** — slew — **śuṣṇam**, the asura of that name, the 'dryer'. **Ṛbhukṣāḥ**: *ṛbhu* is a word for 'intelligent'; 'one who shines widely'; or: by *ṛta*, by sacrifice …"* *(the sentence breaks off at the foot of the page and continues on p. 71.)*
+
+---
+
+**Progress note:** Printed pp. 1–70 done (PDF 19–88): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1 and 63.2 complete; Rik 63.3 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 70, breaking off at "ṛbhukṣāḥ … yadvā | ṛtena yajñena"). Next: p. 71 (PDF 89), the bhāṣya of Rik 63.3 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
