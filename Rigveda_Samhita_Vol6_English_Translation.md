@@ -683,4 +683,63 @@ The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial 
 
 ---
 
-**Progress note:** Printed pp. 1–28 done (PDF 19–46): Rik 62.1–62.4 complete; Rik 62.5 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics (p. 28). Next: p. 29 (PDF 47), the Special Topics continue ("mukhyābhiprāya … our fathers the Aṅgirasa ṛṣis …"). Open flags: Nirukta numbers [?]; reference numerals on pp. 24–28 [?]; sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in the bhāṣya of Rik 62.5 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 29 (PDF 47)
+
+**The source's Kannada (continued from p. 28):** "…so that you may be praised by us, you listened to their praises, drove off the cloud that had veiled the sun's brilliance, and caused the sun's rays to shine; you made the surface of the earth level and wide; in the atmosphere you created the heaven-world and made it firm. These deeds you did, pleased with the praises made by our fathers, the Aṅgirasa ṛṣis. Therefore listen attentively to the praise of us, the sons of the Aṅgirasa ṛṣi — this is the purport."
+
+**Word notes (Kannada, with Sanskrit glosses):**
+
+- **गृणानः** (*gṛṇānaḥ*) — *stūyamānaḥ san* — "being praised"; in Kannada, "one who is being praised".
+- **दस्म** (*dasma*) — *darśanīya | athavā dasu upakṣaye | śatrūṇām upakṣayitar indra |* — "beautiful; or [from] *dasu*, 'to waste away': O Indra, destroyer of enemies"; in Kannada, "beautiful, or the destroyer of enemies".
+- **गोभिः** (*gobhiḥ*) — "by the rays"; *sarve 'pi raśmayo gāva ucyante* (Ni. [2-6, numerals as read, ?]) — "all rays are called *gāvaḥ*".
+- **अन्धः** (*andhaḥ*) — *tamas*, "darkness" (Ni. [5-1, ?]).
+- **रजः** (*rajaḥ*) — *lokaḥ | lokā rajāṃsy ucyante* (Ni. [4-19, ?]) — "world; 'the worlds are called *rajāṃsi*'".
+- **सानु** (*sānu*) — *samucchritaṃ pradeśam* — "the raised region" (that you made level).
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.5 (begins; noted briefly).** Words treated on this page: **गृणानः** (passive *laṭ*, *śānac*; *śnā* by the exchange of affixes where *yak* would arise, "vyatyayo bahulam"; shortening by "pvādīnāṃ hrasvaḥ", Pā. Sū. [7-3-80, as read, ?]; *na* → *ṇa*; final-udātta by "citaḥ"); **दस्म** (*dasu upakṣaye*, *mak* by an Uṇādi rule "iṣiyudhīndhidasi…", Uṇ. Sū. [1-146, ?]; the vocative loses its *su* and keeps *dasma*; *nighāta* accent by "āmantritasya ca"); **वः** (*vṛṅ varaṇe*, *luṅ*, *sip*; "itaś ca" removes the *i*; "cli luṅi" gives *cli*; the *luk* of *cli* by "mantre ghasahvaraṇaśavṛdahādvṛc…", Pā. Sū. [2-4-80, as read, ?]; *guṇa* of the root; "uraṇ raparaḥ"; "hal-ṅyābbhyo dīrghāt…" drops the *sip*; *visarga* by "kharavasānayor visarjanīyaḥ"; no *aṭ* by "bahulaṃ chandasy amāṅyoge 'pi"; the *nighāta* accent). *Grammar page, noted briefly; only legible sūtra names given.*
+
+---
+
+### Page 30 (PDF 48)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Grammar page for Rik 62.5, concluded (noted briefly).** **अन्धः** — *tamo 'py andha ucyate, nāsmin dhyānaṃ bhavati* (Ni. [3-1 or 5-1, ?]) *iti yāskaḥ* — "Yāska says: 'darkness, too, is called *andha*; in it there is no meditation (sight)'. Because darkness obstructs sight, the word *andha* is used." (The print on p. 30 reads *dhyānaṃ*, and the Kannada beside it "obstructs meditation/sight"; this corrects the doubtful "āśyanaṃ" read in the earlier tail of Rik 62.5.) **रजः** — "since 'the worlds are called *rajāṃsi*' (Ni. [4-19, ?]) is said, *rajas* denotes the world; the genitive *luk* by 'supāṃ sulug…'." **अस्तभायः** — root *stambhu*, of the *sautra* class; *laṅ*, *sip*, *i* dropped by "itaś ca"; the affix *śnā* by "stambhustumbhu…" (Pā. Sū. 3-1-82 [?]); *śāyajādeśa* of that affix, in the Veda, by "chandasi śāyajapi" (Pā. Sū. 3-1-84 [?]) even though *hi* does not follow, by exchange; *anidit* by "sārvadhātukam apit"; loss of the penultimate *n* by "anidītāṃ hala upadhāyāḥ kṅiti"; the *aṭ* augment for *laṅ*; *ru*/*visarga* for the final *s*, giving *astabhāyaḥ*; *nighāta* accent. **अप्रथयः** — root *prath prakhyāne*, of the *bhvādi* class, *ṇic*; the *mit*-shortening by "mitāṃ hrasvaḥ"; *laṅ*, second person singular, giving *aprathayaḥ*; *nighāta* accent by "tiṅ atiṅaḥ". *Grammar page, noted briefly; the rest of the page is blank except for an ornamental rule. Rik 62.5 ends here.*
+
+---
+
+### Page 31 (PDF 49)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+#### Rik 62.6
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed here; not reproduced)
+
+> **तदु प्रयक्षतममस्य कर्म दस्मस्य चारुतममस्ति दंसः ।**
+> **उपह्वरे यदुपरा अपिन्वन्मध्वर्णसो नद्यश्चतस्रः ॥ ६ ॥**
+> *tad u prayakṣatamam asya karma dasmasya cārutamam asti daṃsaḥ |*
+> *upahvare yad uparā apinvan madhvarṇaso nadyaś catasraḥ || 6 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **तत् । ऊं इति । प्रयक्षऽतमम् । अस्य । कर्म । दस्मस्य । चारुऽतमम् । अस्ति । दंसः ।**
+> **उपऽह्वरे । यत् । उपराः । अपिन्वत् । मधुऽअर्णसः । नद्यः । चतस्रः ॥ ६ ॥**
+> *tat | ūṃ iti | prayakṣa-tamam | asya | karma | dasmasya | cāru-tamam | asti | daṃsaḥ |*
+> *upa-hvare | yat | uparāḥ | apinvat | madhu-arṇasaḥ | nadyaḥ | catasraḥ || 6 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 32)*
+
+> **प्रवर्ग्येऽभिष्टवे तदु प्रयक्षतममित्येषा । अथोत्तरमित्यत्र सूत्रितम् । तदु प्रयक्षतममस्य कर्मात्मन्नन्नभो दुह्यते घृतं पयः । आ. ४-२ [?] इति ॥**
+> *pravargye 'bhiṣṭave tad u prayakṣatamam ity eṣā | athottaram ity atra sūtritam | tad u prayakṣatamam asya karmātmann annabho duhyate ghṛtaṃ payaḥ | Āś. [4-7 or 4-2, ?] iti ||*
+> *"In the Pravargya, in the abhiṣṭava, this Rik 'tad u prayakṣatamam'. It is stated in the sūtra at 'atha uttaram': 'tad u prayakṣatamam asya karma … ghee and milk are milked' (Āśvalāyana [Śrauta-sūtra], numerals as read, ?)."* (The words *ātmann annabho* are read as printed and doubtful [?]; the reference is to the Āśvalāyana Śrautasūtra, read "आ." in the print.)
+
+> **दस्मस्य दर्शनीयस्यास्येन्द्रस्य तत् तदेव कर्म प्रयक्षतमम् । अतिशयेन पूज्यम् । दंस इति कर्मनाम । दंसस्तदेव कर्म चारुतमम् । अतिशयेन शोभनम् । किं तदित्यत आह । अयमिन्द्र उपह्वर उपह्वर्तव्ये गन्तव्ये पृथिव्याः सम्बन्धिनि समीपदेश उपराः उप्ताः स्थापिता मध्वर्णसो मधुरोदकाश्चतस्रो नद्यः प्रधानभूता गङ्गादिनदीरपिन्वत् । असिञ्चदिति । यदेत्कर्म तदन्येन कर्तुमशक्यत्वात्पूज्यमित्यर्थः ॥ प्रयक्षतमम् । यक्ष पूजायाम् । यक्ष्यते इति यक्षः । अतिशयेन**
+> *dasmasya darśanīyasyāsyendrasya tat tad eva karma prayakṣatamam | atiśayena pūjyam | daṃsa iti karmanāma | daṃsas tad eva karma cārutamam | atiśayena śobhanam | kiṃ tad ity ata āha | ayam indra upahvara upahvartavye gantavye pṛthivyāḥ sambandhini samīpadeśa uparā uptāḥ sthāpitā madhvarṇaso madhurodakāś catasro nadyaḥ pradhānabhūtā gaṅgādinadīr apinvat | asiñcad iti | yad etat karma tad anyena kartum aśakyatvāt pūjyam ity arthaḥ || prayakṣatamam | yakṣa pūjāyām | yakṣyate iti yakṣaḥ | atiśayena*
+> *"Of this handsome (dasma) Indra, that very deed is **prayakṣatama** — most worthy of worship. **Daṃsaḥ** is a word for 'deed'; that very deed is **cārutama**, most beautiful. What is it? He says: this Indra, at the **upahvare**, at the place to be approached and gone to, in the neighbourhood belonging to the earth, the **uparāḥ** — the sown/placed [ones] — four sweet-watered streams (**madhvarṇasaḥ**), chief among rivers such as the Gaṅgā, he made to swell (**apinvat**), i.e. he sprinkled [them forth]. The sense: since that deed could not be done by another, it is worthy of worship. **Prayakṣatamam**: [root] *yakṣ*, 'to worship'; 'he is to be worshipped' is *yakṣa*; in the highest degree …"* *(the sentence breaks off at the foot of p. 31 and continues on p. 32.)*
+
+*(Readings: "उपराः उप्ताः" as printed, doubtful in sense [?]; "प्रधानभूता" is printed in the feminine singular beside the plural *nadīḥ*, as read. The bhāṣya prints "यदेत्कर्म" for "yad etat karma", taken so.)*
+
+---
+
+**Progress note:** Printed pp. 1–31 done (PDF 19–49): Rik 62.1–62.5 complete (Special Topics, word notes and grammar of 62.5 on pp. 29–30); Rik 62.6 begun — Saṃhitā, Pada, and the first part of the bhāṣya (p. 31, breaking off at "prayakṣatamam … atiśayena"). Next: p. 32 (PDF 50), the bhāṣya of Rik 62.6 continues. Open flags: Nirukta numbers [?]; reference numerals on pp. 24–31 [?]; Āśvalāyana reference at the head of 62.6 [?]; sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in 62.5, "उपराः उप्ताः" in 62.6 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
