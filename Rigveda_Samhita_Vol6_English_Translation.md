@@ -3840,4 +3840,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–190 done (PDF 19–208): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1, 66.2 complete; **Rik 66.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 190, ending at *yonau jāyeva*). Next: p. 191 (PDF 209), the Special Topics of Rik 66.3 continue, then its grammar page; then Riks 66.4, 66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 191 (PDF 209)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Special Topics (continued and concluded; Kannada).** "…[as the woman of the house,] performing the housework, adorns the house; as the house looks beautiful through the housewife, so the house where the sacrifice is performed looks adorned through Agni.
+
+- **दुरोकशोचिः** — *durokā śociḥ dīptiḥ yasya saḥ | duṣkaram okaḥ yasyāṃ sa durokāḥ | yatra vyavasthātuṃ na śakyaḥ ity arthaḥ* — "no one can look steadily on Agni's brightness and fix his gaze: therefore Skandasvāmin explains it as 'one who has a brilliance that cannot be borne'. And on the sentence *jāyeva yonau* he explains: 'as for all men the wife in the house is adequate for all work, so Agni is adequate for all'; that is, he is able to carry out all the works of the singers; as the wife in the house is able to do all the work of the men, so Agni is able to accomplish the works of the sacrificers and of those who praise."
+- **चित्रः यदभ्राट् श्वेतो न** — *cāyanīyo vicitradīptir vā | yad āyam agnir bhrājate tadānīṃ śubhravarṇa āditya iva bhavati | rātrau hy ahani sūrya iva agniḥ prakāśako bhavati* — "Agni, who is worthy of worship at sacrifices by the offering of oblations, shines with many kinds of brilliance. When Agni shines with his own brightness, he becomes pure and shining like the sun. As the sun shines by day, Agni shines at night."
+- **रथो न रुक्मी त्वेषः समत्सु** — *rukmam iti hiraṇyanāma* — "*rukma* is a name for 'gold' [as read]. Skandasvāmin explains *rukmī* as *rukmavān* and joins it, as an adjective, to *ratha*: as a chariot adorned with gold shines, this Agni shines among men, in battles, in form and in splendour. The word *rukma* is read among the twenty names of 'gold' (Ni. [1-2?, ?]); the word *samat* is read among the forty-six names of 'battle' (Ni. [2-17])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 66.3 (begins; noted briefly).** **दुरोकशोचिः**: root *uca samavāye*; when *duḥ* is the first member, by "īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal" (Pā. Sū. 3-3-126, as read) the affix *khal* in the sense of difficulty; by "pugantalaghūpadhasya ca" *guṇa* of the light penultimate; by the *bahula* licence *k* for the *c* by *kutva*; *duroka* …
+
+---
+
+### Page 192 (PDF 210)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Grammar page for Rik 66.3, concluded (noted briefly).** **दुरोकशोचिः** *(concluded)*: …the form *duroka*; since it ends in the *l*-marked affix, by "liti" the syllable before the affix is acute; "*durokaṃ śociḥ tejaḥ yasya saḥ*", *durokaśociḥ*; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member of the compound. **नित्यः**: explained [on Rik 66.1, p. 184]. **अरम्**: by "vālamūla…" (Mahābhāṣya 8-2-18, as read) *r* for the *l* of *alam*. **अभ्राट्**: root *bhrājṛ dīptau*; in the *laṅ*, by "vyatyayo bahulam" the *parasmaipada* ending *tip*; the loss of its *i* by "itaś ca"; by "bahulaṃ chandasi" the *luk* of *śap*; by "vraścabhrasjasṛjamṛja…" (Pā. Sū. 8-2-36, as read) *ṣ* for the *j*; by "halṅyābbhyo…" the loss of the unjoined *tip*; by "jhalāṃ jaśo 'nte" *ḍ* for the *ṣ* at the end of a *pada*; by "vāvasāne" optionally *cartva* [*ṭ*]; the *aṭ* augment for the stem: *abhrāṭ*; since *yat* precedes, by "yad vṛttān nityam" the *nighāta* is prevented; the augment being acute, the word has the initial acute. **विक्षु**: *viś + su*; by "vraścabhrasja…" *ṣ* for *ś*; by "ṣaḍhoḥ kaḥ si" *k* for *ṣ*; by "ādeśapratyayayoḥ" *ṣ* for the affix's *s*: *vikṣu*; by "sānvekācas tṛtīyādiḥ" the case-ending is acute. **त्वेषः**: root *tviṣa dīptau*; since it is of the *pacādi* class, the affix *ac*; *guṇa* of the light penultimate; by "citaḥ" the final acute. **समत्सु**: "those among which they rejoice together" are *samadaḥ*, battles (in battle they attain intoxication); in the sense of the locus, the Uṇādi *kvip*; by "samānasya chandasi…" (Pā. Sū. 6-3-84, as read) *sa* for *samāna*: *samad*. Or: "he eats (*atti*) heroes well" is *samat* (the sense: he destroys heroes); the root *ad* with *sam*, with *kvip* by "kvip ca"; in the locative plural, by "khari ca" the *cartva*: *samatsu*; the accent of the latter member of a *kṛdanta*, the first member's. **॥ ५–६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 66.3 ends here (ornamental rule).*
+
+---
+
+### Page 193 (PDF 211)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]"; at the foot the signature mark "VI 13".)*
+
+#### Rik 66.4 *(printed "7 || 8 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **सेनेव सृष्टामं दधात्यस्तुर्न दिद्युत्त्वेषप्रतीका ।**
+> **यमो ह जातो यमो जनित्वं जारः कनीनां पतिर्जनीनाम् ॥ ७ ॥ ८ ॥**
+> *seneva sṛṣṭām aṃ dadhāty astur na didyut tveṣapratīkā |*
+> *yamo ha jāto yamo janitvaṃ jāraḥ kanīnāṃ patir janīnām || 7 || 8 ||*
+
+*(The print's first line reads "सृष्टामं" for "सृष्टा अमं"; the Pada splits it as *sṛṣṭā | amam*, which I follow.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **सेनाऽइव । सृष्टा । अमम् । दधाति । अस्तुः । न । दिद्युत् । त्वेषऽप्रतीका ।**
+> **यमः । ह । जातः । यमः । जनित्वम् । जारः । कनीनाम् । पतिः । जनीनाम् ॥ ७ ॥ ८ ॥**
+> *senā-iva | sṛṣṭā | amam | dadhāti | astuḥ | na | didyut | tveṣa-pratīkā |*
+> *yamaḥ | ha | jātaḥ | yamaḥ | janitvam | jāraḥ | kanīnām | patiḥ | janīnām || 7 || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 194)*
+
+> **सृष्टा प्रेरिता सेनेव स्वामिना सह वर्तमाना भटसंहतिरिवायमग्निरमं शत्रूणां भयं दधाति । विदधाति । करोतीत्यर्थः । यद्वा । सृष्टा सेनेवामं बलं दधाति । सा यथा बलवती तद्वदग्निरपि बलवानित्यर्थः । निदर्शनान्तरमुच्यते । दिद्युदिति वज्रनाम । तेन चात्रेषुर्लक्ष्यते । त्वेषप्रतीका दीप्तमुखास्तुर्न दिद्युत् क्षेप्तुः सम्बन्धिनीषुरिव । सा यथा भीषयते तद्वदग्निरपि राक्षसादीन् भीषयत इत्यर्थः । अत्र निरुक्तं । सेनेव सृष्टा भयं वा बलं वा दधात्यस्तुरिव दिद्युत्त्वेषप्रतीकेत्यादि । नि. १०-३० [?] । यच्छ्रुति ददाति स्तोतृभ्यः कामानिति यमोऽग्निरुच्यते । यद्वा । इन्द्राग्न्योर्योगपदुत्पन्नत्वादग्नेर्यमत्वं । अस्मिन्नर्थे यास्केन मन्त्रब्राह्मणे दर्शिते । यमो ह जात इन्द्रेण सह संगतः । यमावि हेह मातरेरीत्यसि निगमो भवतीति । यो जात उत्पन्नो भूतसंघो यच्च जनित्वं जनयितव्यमुत्प-**
+> *sṛṣṭā preritā seneva svāminā saha vartamānā bhaṭasaṃhatir ivāyam agniḥ amaṃ śatrūṇāṃ bhayaṃ dadhāti | vidadhāti | karotīty arthaḥ | yadvā | sṛṣṭā senevāmaṃ balaṃ dadhāti | sā yathā balavatī tadvad agnir api balavān ity arthaḥ | nidarśanāntaram ucyate | didyud iti vajranāma | tena cātreṣur lakṣyate | tveṣapratīkā dīptamukhās turn na didyut kṣeptuḥ sambandhinīṣur iva | sā yathā bhīṣayate tadvad agnir api rākṣasādīn bhīṣayata ity arthaḥ | atra niruktaṃ | seneva sṛṣṭā bhayaṃ vā balaṃ vā dadhāty astur iva didyut tveṣapratīketyādi | Ni. 10-30 [?] | yacchruti dadāti stotṛbhyaḥ kāmān iti yamo 'gnir ucyate | yadvā | indrāgnyor yogapad utpannatvād agner yamatvaṃ | asminn arthe yāskena mantrabrāhmaṇe darśite | yamo ha jāta indreṇa saha saṅgataḥ | yamāvi heha mātarerītyasi nigamo bhavatīti | yo jāta utpanno bhūtasaṅgho yac ca janitvaṃ janayitavyam utpa-*
+> *"**Sṛṣṭā**, sent forth, **senā iva**, like an army accompanied by its lord, like a host of warriors, this Agni **amam dadhāti**, produces [vidadhāti, makes] terror for enemies; or: as an army that has been sent forth bears strength, so Agni too is strong. Another illustration is given: *didyut* is a word for 'thunderbolt', and by it here the arrow is meant: **tveṣapratīkā**, with a shining front, **astur na didyut**, like the arrow of a shooter. As it terrifies, so Agni too terrifies the demons and the rest. Here the Nirukta [says]: 'like an army sent forth, he brings fear or strength, like the arrow of a shooter, with flaming front' etc. (Ni. 10-30, as read, ?). **Yamaḥ**: Agni is called *yama* because he gives (*yacchati*) what the singers desire. Or: Agni is *yama* because he was born from the union of Indra and Agni; in this sense Yāska shows a mantra and a Brāhmaṇa [passage]: '*yamo ha jāta indreṇa saha saṅgataḥ*' and '*yamāv iheha mātarā*' there is a Veda-text. **Yo jātaḥ**, the born, the host of beings which has arisen, and **yac ca janitvam** — what is yet to be born, to be produced, …"* *(continues on p. 194.)*
+
+---
+
+**Progress note:** Printed pp. 1–193 done (PDF 19–211): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1–66.3 complete; **Rik 66.4** (half-Ṛks 7–8) — Saṃhitā, Pada and the first part of the bhāṣya done (p. 193, breaking off at "yac ca janitvaṃ janayitavyam utpa-"). Next: p. 194 (PDF 212), the bhāṣya of Rik 66.4 continues; then its Pratipadārtha, etc.; then Rik 66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; accent marks of the Saṃhitā/Pada not reproduced.
