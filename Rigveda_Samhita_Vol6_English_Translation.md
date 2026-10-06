@@ -2914,4 +2914,62 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–139 done (PDF 19–157): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.11 complete; Rik 64.12 — first half of the Saṃhitā only (p. 139). Next: p. 140 (PDF 158), the second half of the Saṃhitā of Rik 64.12, then its Pada, bhāṣya etc.; then Riks 64.13–64.15 and the closing note of Sūkta 64 (and of the Fifth Adhyāya? — check: the adhyāya continues to Sūkta 80). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.11 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.12 of 15).
+### Page 140 (PDF 158)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 64.12 (concluded)**
+
+> **रजस्तुरं तवसं मारुतं गणमृजीषिणं वृषणं सश्चत श्रिये ॥ १२ ॥**
+> *rajasturaṃ tavasaṃ mārutaṃ gaṇam ṛjīṣiṇaṃ vṛṣaṇaṃ saścata śriye || 12 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **घृषुम् । पावकम् । वनिनम् । विऽचर्षणिम् । रुद्रस्य । सूनुम् । हवसा । गृणीमसि ।**
+> **रजःऽतुरम् । तवसम् । मारुतम् । गणम् । ऋजीषिणम् । वृषणम् । सश्चत । श्रिये ॥ १२ ॥**
+> *ghṛṣum | pāvakam | vaninam | vi-carṣaṇim | rudrasya | sūnum | havasā | gṛṇīmasi |*
+> *rajaḥ-turam | tavasam | mārutam | gaṇam | ṛjīṣiṇam | vṛṣaṇam | saścata | śriye || 12 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **घृषुं शत्रूणां बलस्य घर्षकं विनाशयितारं पावकं सर्वेषां शोधकं वनिनं । वनमित्युदकनाम । उदकवन्तम् । वृष्टिप्रदमित्यर्थः । विचर्षणिं विशेषेण सर्वस्य द्रष्टारं रुद्रस्य महादेवस्य सूनुं पुत्रभूतं । एवंविधं मरुतां समूहं हवसाह्वानसाधनेन स्तोत्रेण गृणीमसि । शब्दयामः । स्तुमा इत्यर्थः । हे ऋत्विग्यजमानाः यूयमपि श्रिये ऐश्वर्याय धनार्थं मारुतं गणं मरुतां संघं सश्चत । प्राप्नुत । कीदृशं रजस्तुरं पार्थिवस्य पांसोस्त्वरयितारं । प्रेरकमित्यर्थः । तवसं प्रवृद्धं ऋजीषिणं । तृतीयसवने हि मरुतः स्तूयन्ते तत्र च ऋजीषमभिषुण्वन्तीति ऋजीषसम्बन्धः श्रुतेः । आतेस्तद्वन्तं वृषणं कामानां वर्षितारम् ॥ हवसा । ह्वेञ् स्पर्धायां शब्दे च । इदन्तो मसिः । प्रादीनां ह्रस्व इति ह्रस्वत्वम् । रजस्तुरम् । रजांसि तुतोर्शीति रजस्तूः । तुर त्वरणे । क्विप्ष्ठेति क्विप् । वृषणम् । वा षपूर्वस्य निगमे इति दीर्घाभावः । सश्चत । सश्च गतावित्यत्र सश्चिमप्येक इति धातुवृत्ताव्युक्तम् । गतिकर्मसु च सश्चतीति पठितम् । श्रिये । सावेकाच इति विभक्तेरुदात्तत्वम् ॥**
+> *ghṛṣuṃ śatrūṇāṃ balasya gharṣakaṃ vināśayitāraṃ pāvakaṃ sarveṣāṃ śodhakaṃ vaninaṃ | vanam ity udakanāma | udakavantam | vṛṣṭipradam ity arthaḥ | vicarṣaṇiṃ viśeṣeṇa sarvasya draṣṭāraṃ rudrasya mahādevasya sūnuṃ putrabhūtaṃ | evaṃvidhaṃ marutāṃ samūhaṃ havasāhvānasādhanena stotreṇa gṛṇīmasi | śabdayāmaḥ | stumā ity arthaḥ | he ṛtvigyajamānāḥ yūyam api śriye aiśvaryāya dhanārthaṃ mārutaṃ gaṇaṃ marutāṃ saṅghaṃ saścata | prāpnuta | kīdṛśaṃ rajasturaṃ pārthivasya pāṃsos tvarayitāraṃ | prerakam ity arthaḥ | tavasaṃ pravṛddhaṃ ṛjīṣiṇaṃ | tṛtīyasavane hi marutaḥ stūyante tatra ca ṛjīṣam abhiṣuṇvantīti ṛjīṣasambandhaḥ śruteḥ | ātes tadvantaṃ vṛṣaṇaṃ kāmānāṃ varṣitāram || havasā | hveñ spardhāyāṃ śabde ca | idanto masiḥ | prādīnāṃ hrasva iti hrasvatvam | rajasturam | rajāṃsi tutorśīti rajastūḥ | tura tvaraṇe | kvipṣṭheti kvip | vṛṣaṇam | vā ṣapūrvasya nigame iti dīrghābhāvaḥ | saścata | saśca gatāv ity atra saścim apy eka iti dhātuvṛttāv uktam | gatikarmasu ca saścatīti paṭhitam | śriye | sāv ekāca iti vibhakter udāttatvam ||*
+> *"**Ghṛṣum**, the grinder, destroyer, of the strength of enemies; **pāvakam**, purifier of all; **vaninam** — *vana* is a word for 'water': the possessor of water, i.e. giver of rain; **vicarṣaṇim**, the special seer of all; **rudrasya sūnum**, the son of Rudra, Mahādeva: this troop of the Maruts we **gṛṇīmasi**, we praise, with **havasā**, a praise that is the means of invoking. O priests and sacrificers, you also, for **śriye**, prosperity, for wealth, **saścata** — resort to, attain — the Marut troop (*gaṇa*): of what kind? **rajasturam**, the hastener of the earth's dust, i.e. the impeller; **tavasam**, grown strong; **ṛjīṣiṇam** — at the third pressing the Maruts are praised, and in that the *ṛjīṣa* [a vessel / a soma-residue] is pressed, for the śruti says there is a connection with *ṛjīṣa*; [*-in*] 'possessing' that; **vṛṣaṇam**, the showerer of desires. **Havasā**: root *hveñ spardhāyāṃ śabde ca*; *masi* ending in *i*; the shortening by 'prādīnāṃ hrasvaḥ'. **Rajasturam**: 'one who hastens (*tuta*, *tura tvaraṇe*) the dusts' is *rajastūḥ*; *kvip* by 'kvip ca'. **Vṛṣaṇam**: no lengthening by 'vā ṣapūrvasya nigame'. **Saścata**: root *saśca gatau* — in the *Dhātuvṛtti* it is said 'also *saścim*'; it is read among the verbs of motion 'saścati'. **Śriye**: the case-ending acute by 'sāv ekāca'."* *(Grammar tail characterized; the clause "आतेस्तद्वन्तं" is doubtful in the print [?].)*
+
+---
+
+### Page 141 (PDF 159)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**घृषुम्** — destroyer of the strength of enemies; **पावकम्** — purifier of all (of all things); **वनिनम्** — possessing water; **विचर्षणिम्** — the one who sees all well; **रुद्रस्य सूनुम्** — [the host of the Maruts], sons of Rudra; **हवसा** — by a praise that is the means of invoking; **गृणीमसि** — we praise (O priests and sacrificers!); **रजस्तुरम्** — stirrer-up of dust; **तवसम्** — grown strong (swift); **ऋजीषिणम्** — possessing the vessel called *ṛjīṣa*; **वृषणम्** — showerer (of wished-for things); **मारुतं गणम्** — the host of the Maruts; **श्रिये** — for prosperity; **सश्चत** — take refuge in (praise).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* We praise the Marut deities — destroyers of enemies, purifiers of all, bearers of rain-water, seers of all things, sons of Rudra. And you also, O priests and sacrificers, praise the Marut deities — stirrers of dust, swift, accepting the oblations in the vessel called *ṛjīṣa*, granting wished-for things — in order to obtain prosperity.
+
+**English Translation** *(the source's own, as printed):*
+
+> We Invoke [sic: "invoke"] with praise the foe-destroying, all-purifying, water-shedding, all-surveying band of Maruts, the offspring of Rudra ; priests, to obtain prosperity, have recourse to the dust-raising and powerful band of Maruts, receiving libations from sacred vessels, and showering down (benefits).
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **घृषुम्** (*ghṛṣum*) — *śatrūṇāṃ balasya vardhakaṃ [sic] vināśayitāram* — "destroyer of the strength of enemies." *(The print says "vardhakam", 'increaser', where the bhāṣya says "gharṣakam", 'grinder'; given as printed [sic].)*
+- **रजस्तुरम्** (*rajasturam*) — *pārthivasya pāṃsos tvarayitāraṃ prerakam* — "one who stirs up the dust of the earth."
+- **ऋजीषिणम्** (*ṛjīṣiṇam*) — "*tṛtīyasavane hi marutaḥ stūyante tatra ca ṛjīṣam abhiṣuṇvantīti ṛjīṣasambandhaḥ śruteḥ | ātes tadvantam*" — "at the third pressing the Maruts are praised, and at that [pressing] they press out the *ṛjīṣa*; thus the śruti makes a connection with *ṛjīṣa*. While the sacrifice is going on, the evening pressing time is called the third pressing; this is the time of the ritual of pressing Soma. When this time has come, the Hotṛ praises the Marut deities, with the priests connected with him, with appropriate mantras. Then they take the Soma plant, pound it, and draw out the juice for the sake of offering it in the fire. Therefore the connection with that Soma juice arises for the Marut deities; thus 'the Marut deities are those who have Soma' is the sense." *(The Kannada here is compressed; the Sanskrit is given as read, doubtful where marked [?].)*
+
+---
+
+### Page 142 (PDF 160)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Special Topics (concluded; Kannada).**
+
+- **वृषणं मारुतं गणं श्रिये सश्चत** — *kāmānāṃ varṣayitāraṃ marutāṃ samūhaṃ aiśvaryāya prāpnuta* — "O sacrificers! for the sake of attaining wealth, take refuge in the host of the Marut deities, who fulfil all your wishes."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.12 (begins; noted briefly).** **वनिनम्**: in the sense "he has *vana* (water)", the affix *ini* by "ata ini-ṭhanau" (Pā. Sū. 5-2-115, as read); in the accusative singular the form *vaninam*; by the affix accent the *i* is acute. **हवसा**: root *hveñ spardhāyāṃ śabde ca*; to it the Uṇādi-established affix *asi*; since it is placed before a *pada*… [as read: "when followed"], by "bahulaṃ chandasi" (Pā. Sū. 6-1-34, as read) *samprasāraṇa* comes; by "samprasāraṇāc ca" the *pūrvarūpa* for the *a*; since *hu + as*, as an *ārdhadhātuka* affix, *guṇa* of the root; *āveśa* [*āvādeśa*]; the word *havas*; in the instrumental singular, *havasā*; by the affix accent the word *havasā* has the acute in the middle. **गृणीमसि**: root *gṝ śabde* of the *kryādi* class; *laṭ*, first person plural, the affix *masi* [*mas*]; the vikaraṇa *śnā* by "kryādibhyaḥ śnā"; by "prādīnāṃ hrasvaḥ" [as read; *pvādīnāṃ hrasvaḥ*, Pā. Sū. 7-3-80] shortening, since it belongs to the *pvādi* group; since the affix is non-*p*-marked, it is *ñit*-like by "sārvadhātukam apit"; by "īd dhalyaghoḥ" (Pā. Sū. 6-4-113, as read) *ī* for the *ā* of the *śnā* affix; the *ṇ* for *n* after a word with *ṛ*; by "idanto masiḥ" (Pā. Sū. 7-1-46, as read) the *i* augment for the affix *mas*: the form *gṛṇīmasi*; the *nighāta* accent by "tiṅ atiṅaḥ". **रजस्तुरम्**: "*rajāṃsi tutoṛti*" — *rajastūḥ*; root *tura tvaraṇe*; by "kvip ca" (Pā. Sū. 3-2-76, as read) the affix *kvip*; the word *rajastūr*, ending in *r*; in the accusative singular the form *rajasturam*; by "gatikārakopapadāt kṛt" the accent of the latter member of a *kṛdanta*, the first member's accent *(continues on p. 143)*.
+
+---
+
+**Progress note:** Printed pp. 1–142 done (PDF 19–160): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.11 complete; Rik 64.12 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 142, ending at *rajasturam*). Next: p. 143 (PDF 161), the grammar page of Rik 64.12 concludes; then Riks 64.13–64.15 and the closing line of Sūkta 64. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7, 64.9–64.12 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125, 132–133, 137–138) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; the pluti sign in "āpathyo3" (Rik 64.11); the "vardhakam/gharṣakam" mismatch noted in 64.12; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress (Rik 64.12 of 15).
