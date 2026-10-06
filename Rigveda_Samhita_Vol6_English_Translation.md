@@ -1645,4 +1645,67 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–76 done (PDF 19–94): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.3 complete; Rik 63.4 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 76, ending after *dasyūn*). Next: p. 77 (PDF 95), the grammar page of Rik 63.4 continues (*akṛtaḥ* etc.), then Rik 63.5. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 77 (PDF 95)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 63.4, concluded (noted briefly).** **अकृतः**: root *kṛtī chedane*; *laṅ*, second person singular *sip*; the loss of *i* by "itaś ca"; the vikaraṇa *śa* by "tudādibhyaḥ śaḥ"; though the root is among the *mucādi*, by the statement "āgamaśāstrasya anityatvam" (the rule on augments is not constant) the *num* augment of "śe mucādīnām" (Pā. Sū. 7-1-59, as read) does not come; since the vikaraṇa is not *p*-marked, by "sārvadhātukam apit" it is *ñit*-like; therefore the *laghūpadha-guṇa* of the root does not come; the *aṭ* augment for the stem; the form *akṛtaḥ*; though there is an intervening word [*vi*], because *yat* is connected, the *nighāta* does not come; since the augment is acute, *akṛtaḥ* is a word with the initial acute. **वृथाषाट्**: the process was shown above; as a compound, the accent of the first member of a *kṛdanta* by "gatikārakopapadāt kṛt". **॥ ४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 63.4 ends here (ornamental rule).*
+
+#### Rik 63.5
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **त्वं ह त्यदिन्द्रारिषण्यन्दृळ्हस्य चिन्मर्तानामजुष्टौ ।**
+> **व्यस्मदा काष्ठा अर्वते वर्घनेव वज्रिञ्छ्नथिह्यमित्रान् ॥ ५ ॥**
+> *tvaṃ ha tyad indrāriṣaṇyan dṛḷhasya cin martānām ajuṣṭau |*
+> *vy asmad ā kāṣṭhā arvate var ghaneva vajriñ chnathihy amitrān || 5 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वम् । ह । त्यत् । इन्द्र । अरिषण्यन् । दृळ्हस्य । चित् । मर्तानाम् । अजुष्टौ ।**
+> **वि । अस्मत् । आ । काष्ठाः । अर्वते । वः । घनाऽइव । वज्रिन् । श्नथिहि । अमित्रान् ॥ ५ ॥**
+> *tvam | ha | tyat | indra | ariṣaṇyan | dṛḷhasya | cit | martānām | ajuṣṭau |*
+> *vi | asmat | ā | kāṣṭhāḥ | arvate | vaḥ | ghanā-iva | vajrin | śnathihi | amitrān || 5 ||*
+
+*(The Pada's "ghanā-iva" is read as printed: the avagraha-like sign in the print is read as the separator of the compound; the Saṃhitā prints "varghaneva". Doubtful [?].)*
+
+---
+
+### Page 78 (PDF 96)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे इन्द्र त्वं ह त्वं खलु त्यत् तस्य दृळ्हस्य चित् दृढस्य कस्यचिदप्यरिषण्यन् रेषणमनिच्छन् एवंस्वभावो भवसि । देवतात्वेनानुग्रहेतृत्वात् । तथापि मर्तानां स्तोतॄणामस्माकं शत्रुभिरजुष्टावप्रीतौ सत्यामस्मदीयायाश्वाय [?] गन्तुं काष्ठा दिश आ समन्तात् वि वः । विवृताः कुरु । यथा सर्वासु दिक्ष्वस्मदीया अश्वाः प्रतिरोधमन्तरेण गच्छन्ति तथा कुर्वित्यर्थः । किञ्च तत्रत्यानमित्रान् हे वज्रिन् वज्रवन्निन्द्र घनेव घनेन कठिनेन पर्वतेनेव वज्रेण श्नथिहि । श्नथय । जहीत्यर्थः । यद्वा । मर्तानां मनुष्याणां मध्ये यस्मिन्कस्मिंश्चित्तवाप्रीतौ सत्यां तस्य शत्रोर्दृळ्हस्याप्यरिषण्यन् रेषणं हिंसनमनिच्छन्स्तर्से [?] । यस्मिंस्तु कुत्सादौ प्रीतिरस्ति तस्य शत्रुवधं चिकीर्षसे [?] । अतस्तव प्रियाणामस्माकमर्वते इत्यादि पूर्ववत् ॥ त्यत् । सुपां सुलुगिति षष्ठ्या लुक् । अरिषण्यन् । रिष्टशब्दात्क्यचि दुरस्युर्द्रविणस्युर्वृषण्यति रिषण्यतीति । पा. ७-४-३६ [?] इति रिषण्भावो निपात्यते । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । अस्मत् । पूर्ववत् षष्ठ्या लुक् । अर्वते । अर्वणस्त्रसावनञः इति नकारस्य तकारादेशः । वनिप्सौ पित्त्वादनुदात्तः । परिशेषादाद्युदात्तः । घनेव । मूर्तौ घनः । पा. ३-३-७७ [?] इति काठिन्ये गम्यमाने हन्तेरप्प्रत्ययान्तो निपात्यते । श्नथिहि । श्नथ हिंसार्थः । ण्यन्ताल्लोटि बहुलं छन्दसीति शपो लुक् ॥ ५ ॥**
+> *he indra tvaṃ ha tvaṃ khalu tyat tasya dṛḷhasya cit dṛḍhasya kasyacid apy ariṣaṇyan reṣaṇam anicchan evaṃsvabhāvo bhavasi | devatātvenānugrahetṛtvāt | tathāpi martānāṃ stotṝṇām asmākaṃ śatrubhir ajuṣṭāv aprītau satyām asmadīyāyāśvāya [?] gantuṃ kāṣṭhā diśa ā samantāt vi vaḥ | vivṛtāḥ kuru | yathā sarvāsu dikṣv asmadīyā aśvāḥ pratirodham antareṇa gacchanti tathā kurv ity arthaḥ | kiñca tatratyān amitrān he vajrin vajravann indra ghaneva ghanena kaṭhinena parvateneva vajreṇa śnathihi | śnathaya | jahīty arthaḥ | yadvā | martānāṃ manuṣyāṇāṃ madhye yasmin kasmiṃścit tavāprītau satyāṃ tasya śatror dṛḷhasyāpy ariṣaṇyan reṣaṇaṃ hiṃsanam anicchan starse [?] | yasmiṃs tu kutsādau prītir asti tasya śatruvadhaṃ cikīrṣase [?] | atas tava priyāṇām asmākam arvate ity ādi pūrvavat || tyat | supāṃ sulug iti ṣaṣṭhyā luk | ariṣaṇyan | riṣṭaśabdāt kyaci durasyur draviṇasyur vṛṣaṇyati riṣaṇyatīti | Pā. 7-4-36 [?] iti riṣaṇbhāvo nipātyate | nañsamāse 'vyayapūrvapadaprakṛtisvaratvam | asmat | pūrvavat ṣaṣṭhyā luk | arvate | arvaṇas trasāv anañaḥ iti nakārasya takārādeśaḥ | vanipsau pittvād anudāttaḥ | pariśeṣād ādyudāttaḥ | ghaneva | mūrtau ghanaḥ | Pā. 3-3-77 [?] iti kāṭhinye gamyamāne hanter appratyayānto nipātyate | śnathihi | śnatha hiṃsārthaḥ | ṇyantāl loṭi bahulaṃ chandasīti śapo luk || 5 ||*
+> *"O Indra, you indeed are of such a nature that you, **ariṣaṇyan**, are unwilling to harm even any firm (**dṛḷhasya cit**) [man], since as a god you are a bestower of favour. Yet, **martānām**, when the displeasure (**ajuṣṭau**) of enemies comes upon us, the singers, [then] **vi vaḥ**, open out **kāṣṭhāḥ**, the quarters, all around, **arvate**, for our horse [?] to go: do so that our horses go without hindrance in all quarters. And further: O **vajrin**, Indra with the thunderbolt, **śnathihi** — strike down, kill — the enemies there, **ghaneva** — as if with a hard mountain, with the thunderbolt. Or: among men, when in the case of anyone there is displeasure toward you, then, though his enemy be firm, you are unwilling to harm him [reading doubtful, ?]; but toward Kutsa and the like, to whom you are friendly, you desire the slaying of his enemy [?]. Hence 'our — who are dear to you — **arvate**' etc. as before. **Tyat**: the *luk* of the genitive by 'supāṃ sulug…'. **Ariṣaṇyan**: from *riṣṭa* with *kyac* [the form] 'durasyur draviṇasyur vṛṣaṇyati riṣaṇyati' — the form *riṣaṇ* is given by *nipātana* (Pā. 7-4-36, as read, ?); in the *nañ*-compound the accent of the first-member indeclinable. **Asmat**: the *luk* of the genitive as before. **Arvate**: *t* substituted for *n* by 'arvaṇas trasāv anañaḥ'; unaccented because *vanip* is *p*-marked, so by the remainder the initial acute. **Ghaneva**: 'mūrtau ghanaḥ' (Pā. 3-3-77, as read): when hardness is meant, the affix *ap* after *han* is given by *nipātana*. **Śnathihi**: root *śnatha* in the sense of harm; the *luk* of *śap* by 'bahulaṃ chandasi', in the *loṭ* from the causal-ending stem."* *(Dense grammar tail characterized; a few words — "अस्मदीयायाश्वाय", "स्तर्से", "चिकीर्षसे" — doubtful in the print [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada, with the alternative reading in brackets as printed)*
+
+**इन्द्र** — O Indra; **त्वं ह** — you indeed; **दृळ्हस्य** — of the firm; **त्यत् चित्** — of anyone; **अरिषण्यन्** — one not wishing to harm; **(तथापि)** — still; **मर्तानाम्** — of us, the singers; **अजुष्टौ** — when displeasure [of enemies] arises; **अस्मत्** — our; **अर्वते** — for the horse (to go); **काष्ठाः** — the directions; **आ** — (in all directions) all around; **वि वः** — open; **(किञ्च)** — and; **वज्रिन्** — O wielder of the thunderbolt; **अमित्रान्** — (those in those directions) our enemies; **घनेव** — like a hard mountain, with the thunderbolt; **श्नथिहि** — (kill) crush with the thunderbolt.
+[*Alternatively:* **इन्द्र** — O Indra; **तं ह** — you indeed; **मर्तानाम्** — among men (in the matter of whomever); **अजुष्टौ** — when there is displeasure toward you; **त्यत्** — in the matter of his enemy; **दृळ्हस्य चित्** — though firm; **अरिषण्यन्** — not wishing to harm; **(तथापि)** — still; **मर्तानाम्** — of us the singers; **अस्मत्** — our; **अर्वते** — for the horses (to move about); **काष्ठाः** — the directions; **आ** — all around; **वि वः** — open; etc.]
+
+---
+
+### Page 79 (PDF 97)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Indra, it is your nature not to harm any man of firm mind; or, if some men are not pleasing to you, [it is your nature] not to harm even their enemies, though those men be firm in mind. Still, when fear from enemies comes upon us, your praisers, O wielder of the thunderbolt, make it possible for our horses to run freely in all directions; and destroy our enemies who may be there, as hard mountains are split by the thunderbolt.
+
+**English Translation** *(the source's own, as printed):*
+
+> Indra, you who are unwilling to harm any resolute mortal, set open all the quarters of the horizon to the horses of us who praise you when we are exposed to the aversion of our enemies ; and weilder [sic] of the thunderbolt, demolish our foes as with a club.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **अरिषण्यन्** (*ariṣaṇyan*) — *reṣaṇam anicchan* — "one who does not wish to do harm."
+- **मर्तानाम्** (*martānām*) — *stotṝṇām* — "men worthy of praise, men who praise."
+- **वि वः** (*vi vaḥ*) — *vivṛtāḥ kuru | yathā sarvāsu dikṣu asmadīyāḥ aśvāḥ pratirodham antareṇa gacchanti tathā kuru* — "so do that our horses may turn without any obstacle in all the quarters."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.5 (begins; noted briefly).** **त्यत्**: genitive singular; the *luk* by "supāṃ sulug…". **अरिषण्यन्**: "he wishes harm (*reṣaṇa*) for himself": *riṣaṇyati*; after the word *riṣṭa*, by "supa ātmanaḥ kyac" the affix *kyac* (when intended); by "durasyur draviṇasyur vṛṣaṇyati riṣaṇyati" (Pā. Sū. 7-4-36, as read) the stem-form *riṣaṇ* is established by *nipātana*; after the *kyac*-ending stem *riṣaṇya*, the affix *śatṛ* in the sense of *laṭ*; "*na riṣaṇyan = ariṣaṇyan*"; as a *nañ*-compound, the accent of the first-member indeclinable by "tatpuruṣe tulyārthatṛtīyā…" (Pā. Sū. 6-2-2). **अस्मत्**: after the word *asmad*, the genitive singular; the *luk* by "supāṃ sulug…". **अर्वते**: after the root *ṛ* [as read], by "anyebhyo 'pi dṛśyate" the affix *vanip*; with *vanip* following, *guṇa* of the root: the word *arvan*; in the dative singular, by "arvaṇas…" *(continues on p. 80).*
+
+---
+
+**Progress note:** Printed pp. 1–79 done (PDF 19–97): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Riks 63.1–63.4 complete; Rik 63.5 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 79, ending at *arvate*). Next: p. 80 (PDF 98), the grammar page of Rik 63.5 continues, then Rik 63.6. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; the Uṇādi rule-openings in the 63.3 bhāṣya [?]; "यदुभ्नाः आतुभ्नाः" in the 63.4 bhāṣya [?]; several words in the 63.5 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
