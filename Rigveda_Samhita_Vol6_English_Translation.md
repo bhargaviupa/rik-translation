@@ -339,6 +339,87 @@
 
 *(The four lines are as printed on p. 15 in Kannada script; the verse is Ṛ. Saṃ. 10-108-1, 2 [?]; the numeral is small. Gloss, editorial and tentative — "'Seeking what, Saramā, have you come here? The way is far, [it] leads away. What was your errand? How did you cross the waters of the Rasā?' 'Sent as Indra's messenger I go, seeking your great treasures, O Paṇis. Out of fear [of the water] it stepped aside from the crossing: thus did I cross the waters of the Rasā.'")*
 
+### Page 16 (PDF 34)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62" [numerals read, small].)*
+
+The remainder of the Saramā–Paṇi hymn is printed in Kannada script, nine verses of two lines each (Ṛ. Saṃ. 10-108, verses 3–11 as the print has it). Transcribed letter by letter; doubtful letters marked [?].
+
+> **कीदृङ्ङिन्द्रः सरमे का दृशीका यस्येदं दूतीरसरः पराकात् ।**
+> **आ च गच्छान्मित्रमेना दधामाथा गवां गोपतिर्नो भवाति ॥** *(printed ends "भवामि" [?])*
+> *kīdṛṅṅ indraḥ sarame kā dṛśīkā yasyedaṃ dūtīr asaraḥ parākāt |*
+> *ā ca gacchān mitram enā dadhāmāthā gavāṃ gopatir no bhavāti ||*
+>
+> **नाहं तं वेद दभ्यं दभत्स यस्येदं दूतीरसरं पराकात् ।**
+> **न तं गूहन्ति स्रवतो गभीरा हता इन्द्रेण पणयः शयध्वे ॥** *(printed "ने" for "न" [?])*
+> *nāhaṃ taṃ veda dabhyaṃ dabhat sa yasyedaṃ dūtīr asaraṃ parākāt |*
+> *na taṃ gūhanti sravato gabhīrā hatā indreṇa paṇayaḥ śayadhve ||*
+>
+> **इमा गावः सरमे या ऐच्छः परि दिवो अन्तान्सुभगे पतन्ती ।**
+> **कस्त एना अव सृजादयुध्व्युतास्माकमायुधा सन्ति तिग्मा ॥**
+> *imā gāvaḥ sarame yā aicchaḥ pari divo antān subhage patantī |*
+> *kas ta enā ava sṛjād ayudhvy utāsmākam āyudhā santi tigmā ||*
+>
+> **असेन्या वः पणयो वचांस्यनिषव्यास्तन्वः सन्तु पापीः ।**
+> **अधुष्को व एतवा अस्तु पन्था बृहस्पतिर्व उभया न मृळात् ॥** *("अधुष्को" as read [?])*
+> *asenyā vaḥ paṇayo vacāṃsy aniṣavyās tanvaḥ santu pāpīḥ |*
+> *adhuṣko va etavā astu panthā bṛhaspatir va ubhayā na mṛḷāt ||*
+>
+> **अयं निधिः सरमे अद्रिबुध्नो गोभिरश्वेभिर्वसुभिर्न्यृष्टः ।**
+> **रक्षन्ति तं पणयो ये सुगोपा रेकु पदमलकमा जगन्थ ॥**
+> *ayaṃ nidhiḥ sarame adribudhno gobhir aśvebhir vasubhir nyṛṣṭaḥ |*
+> *rakṣanti taṃ paṇayo ye sugopā reku padam alakam ā jagantha ||*
+>
+> **एह गमन्नृषयः सोमशिता अयास्यो अङ्गिरसो नवग्वाः ।**
+> **त एतमूर्वं वि भजन्त गोनामथैतद्वचः पणयो वमन्नित् ॥**
+> *eha gamann ṛṣayaḥ somaśitā ayāsyo aṅgiraso navagvāḥ |*
+> *ta etam ūrvaṃ vi bhajanta gonām athaitad vacaḥ paṇayo vamann it ||*
+>
+> **एवा च त्वं सरम आजगन्थ प्रबाधिता सहसा दैव्येन ।**
+> **स्वसारं त्वा कृणवै मा पुनर्गा अप ते गवां सुभगे भजाम ॥**
+> *evā ca tvaṃ sarama ājagantha prabādhitā sahasā daivyena |*
+> *svasāraṃ tvā kṛṇavai mā punar gā apa te gavāṃ subhage bhajāma ||*
+>
+> **नाहं वेद भ्रातृत्वं नो स्वसृत्वमिन्द्रो विदुरङ्गिरसश्च घोराः ।**
+> **गोकामा मे अच्छदयन्यदायमपात इत पणयो वरीयः ॥**
+> *nāhaṃ veda bhrātṛtvaṃ no svasṛtvam indro vidur aṅgirasaś ca ghorāḥ |*
+> *gokāmā me acchadayan yad āyam apāta ita paṇayo varīyaḥ ||*
+>
+> **दूरमित पणयो वरीय उद्गावो यन्तु मिनतीरृतेन ।**
+> **बृहस्पतिर्या अविन्दन्निगूळ्हाः सोमो ग्रावाण ऋषयश्च विप्राः ॥**
+> *dūram ita paṇayo varīya ud gāvo yantu minatīr ṛtena |*
+> *bṛhaspatir yā avindan nigūḷhāḥ somo grāvāṇa ṛṣayaś ca viprāḥ ||*
+
+*(Reference printed below the last line: "ಋ. ಸಂ. ೧೦–೧೦೮–೧ ರಿಂದ ೧೧" — Ṛ. Saṃ. 10-108-1 to 11, i.e. "from 1 to 11" [numerals read, small, tentative]. The print's verse text is given above as read; it differs from the standard Ṛgveda text in a few letters, which I have not "corrected".)*
+
+**Kannada text (source):** ಇದರ ಅನುವಾದವನ್ನು ಕೆಳಗೆ ಕೊಟ್ಟಿರುತ್ತೇವೆ… — *"We give its translation below. This is in the form of a conversation that took place between the Paṇis and Saramā. Formerly, the Paṇis, followers of Vala, stole Bṛhaspati's cows and hid them in a secret place. Then, at Bṛhaspati's request, Indra sent Saramā, the divine bitch, to search for the cows. Searching for the cows, Saramā travelled very far, crossed a great river called the Rasā that lay across the way, and came near the Paṇis. Then the Paṇis, learning the purpose for which Saramā had come, and wishing at once to make friends with her, held this conversation —"*
+
+**The Paṇis:** — "Saramā! You seem to have come here from very far, with much hardship. What is your purpose in coming here? How did you come here? How did you cross the river called Rasā?"
+
 ---
 
-**Progress note:** Printed pp. 1–15 done (PDF 19–33): Rik 62.1–62.2 complete; Rik 62.3 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics (the story of Saramā and the Paṇis, with Ṛ. Saṃ. 10-14-10, 11 and 10-108-1, 2). Next: p. 16 (PDF 34), the Special Topics continue. Open flags: Nirukta numbers [?]; reference numerals on p. 15 [?]; the grammar tails of pp. 13–14 are summaries; the glosses on p. 15 are tentative.
+### Page 17 (PDF 35)
+
+*(Header: left "A. 1 A. 5 Va. 1" [numerals small, read tentatively], centre "Ṛgvedasaṃhitā".)* At the foot of the page the signature mark "VII 2" (printer's gathering mark).
+
+The conversation continues in Kannada prose (the source's rendering of the verses above):
+
+**Saramā:** — "Listen, Paṇis. Commissioned by Indra, I have come here as his messenger. Indra desires the riches that you have hidden. The river Rasā, in fear, helped me to cross; therefore I crossed the river and came."
+
+**The Paṇis:** — "Very well, Saramā. You say Indra has sent you as his messenger. What is that Indra like to look at? (The Paṇis speak among themselves:) If Saramā comes, let her come; then let us make friendship with her, and let her be the mistress of our cows."
+
+**Saramā:** — "It is not possible to conquer that Indra as you imagine. The Indra who sent me conquers enemies, but others cannot conquer him; even deep rivers cannot stop him. By him you will be slain and will have to lie on your death-bed."
+
+**The Paṇis:** — "Saramā! Is it not for these very cows that you have come from far through the sky, looking for them? But who will hand over those cows to you without a fight? Our weapons are very sharp."
+
+**Saramā:** — "What is the use of your words? Is there the strength of an army in that talk? Do your sin-filled bodies have the power of a bow and arrows? The path you follow is very difficult. Bṛhaspati (the owner of the cows) will show you no mercy and will give no value to your words."
+
+**The Paṇis:** — "Saramā! This cattle-wealth — that is, cows, horses, and goods — we have collected in the mountains and brought here. We, the Paṇis, guard them with great vigilance. Your coming alone to such an inaccessible place is in vain."
+
+**Saramā:** — "Listen, Paṇis. The ṛṣis and the Aṅgirasas, gaining strength and power by drinking soma, will come here under the leadership of Ayāsya and take these cows by force and divide them among themselves. Then you will know that the words you are speaking are in vain."
+
+*(Editorial note: the prose is rendered from the Kannada as printed; the dialogue occupies pp. 16–17 and has not yet ended. The Kannada says "Ayāsya" as the leader of the Aṅgirasas, matching the Saṃhitā word "ayāsyaḥ" in the sixth verse above.)*
+
+---
+
+**Progress note:** Printed pp. 1–17 done (PDF 19–35): Rik 62.1–62.2 complete; Rik 62.3 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics so far (the story of Saramā and the Paṇis: Ṛ. Saṃ. 10-14-10, 11; 10-108-1 to 11, with the source's Kannada dialogue to the end of p. 17). Next: p. 18 (PDF 36), the Special Topics continue. Open flags: Nirukta numbers [?]; reference numerals on pp. 15–16 [?]; the grammar tails of pp. 13–14 are summaries; verse readings of p. 16 are as printed, with a few [?]; glosses tentative.
