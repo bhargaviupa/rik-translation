@@ -2505,4 +2505,75 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–118 done (PDF 19–136): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.5 complete; Rik 64.6 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 118, ending at *stanayantam*). Next: p. 119 (PDF 137), the grammar page of Rik 64.6 concludes; then Rik 64.7. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.5 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 119 (PDF 137)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Grammar page for Rik 64.6, concluded (noted briefly).** **अक्षितम्**: root *kṣi kṣaye*; the affix being *k*-marked, no *guṇa* comes; "*na kṣitaḥ akṣitaḥ*", him: *akṣitam*; by "tatpuruṣe tulyārthatṛtīyā…" (Pā. Sū. 6-2-2, as read) the accent of the first member, an indeclinable, is kept. **॥ ६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.6 ends here (ornamental rule).*
+
+#### Rik 64.7
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **महिषासो मायिनश्चित्रभानवो गिरयो न स्वतवसो रघुष्यदः ।**
+> **मृगा इव हस्तिनः खादथा वना यदारुणीषु तविषीरयुग्ध्वम् ॥ ७ ॥**
+> *mahiṣāso māyinaś citrabhānavo girayo na svatavaso raghuṣyadaḥ |*
+> *mṛgā iva hastinaḥ khādathā vanā yad āruṇīṣu taviṣīr ayugdhvam || 7 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **महिषासः । मायिनः । चित्रऽभानवः । गिरयः । न । स्वऽतवसः । रघुऽस्यदः ।**
+> **मृगाःऽइव । हस्तिनः । खादथ । वना । यत् । आरुणीषु । तविषीः । अयुग्ध्वम् ॥ ७ ॥**
+> *mahiṣāsaḥ | māyinaḥ | citra-bhānavaḥ | girayaḥ | na | sva-tavasaḥ | raghu-syadaḥ |*
+> *mṛgāḥ-iva | hastinaḥ | khādatha | vanā | yat | āruṇīṣu | taviṣīḥ | ayugdhvam || 7 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 120)*
+
+> **महिष इति महन्नाम । महिषासो महान्तः । मायेति ज्ञाननाम । मायिनः प्राज्ञाश्चित्रभानवः शोभनदीप्तयो गिरयो न स्वतवसः पर्वता इव स्वकीयेन बलेन युक्ता रघुस्यदः शीघ्रगमना हे मरुत एवंभूतगुणविशिष्टा यूयं**
+> *mahiṣa iti mahannāma | mahiṣāso mahāntaḥ | māyeti jñānanāma | māyinaḥ prājñāś citrabhānavaḥ śobhanadīptayo girayo na svatavasaḥ parvatā iva svakīyena balena yuktā raghusyadaḥ śīghragamanā he maruta evaṃbhūtaguṇaviśiṣṭā yūyaṃ*
+> *"*Mahiṣa* is a word for 'great': **mahiṣāsaḥ**, the great. *Māyā* is a word for 'knowledge': **māyinaḥ**, the wise; **citrabhānavaḥ**, of beautiful radiance; **girayo na**, like mountains; **svatavasaḥ**, joined with their own strength; **raghusyadaḥ**, swift-moving: O Maruts, endowed with qualities such as these, you …"* *(continues on p. 120.)*
+
+---
+
+### Page 120 (PDF 138)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāṣya (continued and concluded).**
+
+> **हस्तिनो हस्तवन्तो मृगा इव गजा इव वना वनानि वृक्षजातानि खादथ । भक्षयथ । प्रभंक्थेति यावत् । यद्यस्मादारुणीष्वरुणवर्णासु वडवासु तविषीर्बलान्ययुग्ध्वं संयोजितवन्तः । तस्माद्भवतामिव वाहनस्यापि प्रबलत्वात्स्वयंयुक्ता भवन्तः सर्वं भञ्जन्तीत्यर्थः ॥ रघुस्यदः । स्यन्दू प्रस्रवणे । रघु शीघ्रं स्यन्दन्ते गच्छन्तीति रघुस्यदः । क्विप्ष्ठेति [?] क्विप् । अनिदितामिति नलोपः । वालमूलादिलत्वविकल्पः [?] । म. ८-२-१८ [?] । कृदुत्तरपदप्रकृतिस्वरत्वम् । खादथ । खाद भक्षणे । अयुग्ध्वम् । युजिर् योगे । लुङि च्लेः सिच् । एकाच इतीट्प्रतिषेधः । धि च । पा. ८-२-२५ [?] । इति सकारलोपः । चोः कुरिति कुत्वम् । अडागम उदात्तः । यद्वृत्तयोगादनिघातः ॥**
+> *hastino hastavanto mṛgā iva gajā iva vanā vanāni vṛkṣajātāni khādatha | bhakṣayatha | prabhaṃktheti yāvat | yad yasmād āruṇīṣv aruṇavarṇāsu vaḍavāsu taviṣīr balāny ayugdhvaṃ saṃyojitavantaḥ | tasmād bhavatām iva vāhanasyāpi prabalatvāt svayaṃyuktā bhavantaḥ sarvaṃ bhañjantīty arthaḥ || raghusyadaḥ | syandū prasravaṇe | raghu śīghraṃ syandante gacchantīti raghusyadaḥ | kvipṣṭheti [?] kvip | aniditām iti nalopaḥ | vālamūlādilatvavikalpaḥ [?] | Ma. 8-2-18 [?] | kṛduttarapadaprakṛtisvaratvam | khādatha | khāda bhakṣaṇe | ayugdhvam | yujir yoge | luṅi cleḥ sic | ekāca itīṭpratiṣedhaḥ | dhi ca | Pā. 8-2-25 [?] | iti sakāralopaḥ | coḥ kur iti kutvam | aḍāgama udāttaḥ | yadvṛttayogād anighātaḥ ||*
+> *"…**hastinaḥ**, trunked, like **mṛgāḥ**, like elephants, **vanā**, forests, trees, **khādatha**, devour, i.e. break down. Since **yad** — because — in the **āruṇīṣu**, red-coloured mares, you have yoked **taviṣīḥ**, strengths [the sense: you have bestowed your strength on them]; therefore, since your vehicle too is as strong as you, you, yoked of yourselves, break everything: such is the sense. **Raghusyadaḥ**: root *syandū prasravaṇe*; 'they flow, go, swiftly (*raghu*)'; *kvip* [as read, ?]; the loss of the *n* by 'aniditām'; the optional *l* for *r* in *vālamūla…* [?] (Ma. 8-2-18, as read, ?); the accent of the latter member of a *kṛdanta*. **Khādatha**: root *khāda bhakṣaṇe*. **Ayugdhvam**: root *yujir yoge*; *sic* for *cli* in the *luṅ*; the prohibition of *iṭ* by 'ekāca…'; by 'dhi ca' (Pā. 8-2-25, as read) the loss of *s*; *k* for the *j* by 'coḥ kuḥ'; the augment *aṭ* is acute; no *nighāta* because of its connection with *yat*."* *(Grammar tail characterized; several sūtra references doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**महिषासः** — the great (the Maruts); **मायिनः** — the wise; **चित्रभानवः** — of splendid radiance; **गिरयो न** — like mountains; **स्वतवसः** — endowed with their own strength; **रघुस्यदः** — swift movers (O Maruts); **यत्** — for which reason; **आरुणीषु** — in the red-coloured mares; **तविषीः** — [your] strength; **अयुग्ध्वम्** — you yoked [i.e. you put it in]; **हस्तिनः** — those with a trunk; **मृगा इव** — like elephants; **वना** — the forests; **खादथ** — you devour (you break up).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Marut deities, great, wise, shining beautifully, strong like mountains, swift of movement! Yoked with your vehicles [mares] which are strong, you destroy the forests, as elephants in the forests break trees with their trunks.
+
+**English Translation** *(the source's own, as printed):*
+
+> Vast, possessed of knowledge, bright-shining like mountains in stability, and quick in motion, you like elephants, break down the forests when you put vigour into your ruddy (mares).
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **महिषासः** (*mahiṣāsaḥ*) — *mahāntaḥ* — "the big ones, those worthy of honour. The word *mahiṣa* is read among the twenty-five names of 'great' beginning *mahat, bradhnaḥ* (Ni. [3-13, ?])."
+
+---
+
+### Page 121 (PDF 139)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **मायिनः** (*māyinaḥ*) — *prājñāḥ* — "the all-knowing. *Māyā* is a name for knowledge; the word *māyā* is read among the thirteen names of 'intelligence' beginning *ketaḥ, ketuḥ* (Ni. [3-9, ?])."
+- **मृगा इव हस्तिनः खादथ वना** — "the word *vana* denotes trees. As deer eat grass and as elephants eat trees, so you, by your own power, devour the enemies of the sacrificers: this is one meaning. Or: as lions or tigers go about devouring elephants, so you, the Maruts, destroy the clouds filled with water, so as to bring rain: this is another meaning. The sequence of explanation Skandasvāmin gives here: the word *vana* denotes trees; as beasts devour grass and elephants break and eat the trees, so you, Marut deities, destroy by your own power the enemies of the sacrificers: this is one sense; or, as lions and tigers go about devouring elephants, you destroy — by making rain through the clouds filled with water: this is another sense."
+- **यदारुणीषु तविषीरयुग्ध्वम्** — *aruṇavarṇāsu vaḍavāsu balāni saṃyojitavantaḥ* — "using red-coloured mares as vehicles, you have conferred your strength on them. Here Yāska's Nirukta statement is '*pṛṣatyo marutām*' (Ni. [2-?], as read). Skandasvāmin explains: '*taviṣīr ayugdhvam — balena yuktān aśvān yuddhāya marutaḥ svarathe yuktavantaḥ*' — the Marut deities yoked to their chariot, for battle, horses endowed with strength."
+- **रघुस्यदः** (*raghusyadaḥ*) — *śīghragamanāḥ* — "*raghu* is 'swift', *syandante* 'they go': the Marut deities who move with great speed, and carefully."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.7 (begins; noted briefly).** **महिषासः**: *mahiṣa + jas*; the augment *asuk* by "āj jaser asuk" (Pā. Sū. 7-1-50, as read); the *s* gets *ru*/*visarga*: *mahiṣāsaḥ*. **मायिनः**: "*māyā* is his": *māyī* — since this word is read in the *vrīhyādi* group, the affix *ini* by "vrīhyādibhyaś ca" (Pā. Sū. 5-2-116, as read); the loss of the *ā* by "yasyeti ca" [as read]; the word *māyin*; in the plural, *māyinaḥ*. **चित्रभानवः**: "*citrāḥ bhānavaḥ yasya saḥ*"; a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member is kept *(continues on p. 122)*.
+
+---
+
+**Progress note:** Printed pp. 1–121 done (PDF 19–139): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.6 complete; Rik 64.7 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the grammar page begun (p. 121, ending at *citrabhānavaḥ*). Next: p. 122 (PDF 140), the grammar page of Rik 64.7 continues; then Rik 64.8. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5 and 64.7 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
