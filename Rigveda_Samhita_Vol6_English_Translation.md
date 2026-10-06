@@ -3727,4 +3727,60 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–184 done (PDF 19–202): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 66.1 complete; **Rik 66.2** (half-Ṛks 3–4) — Saṃhitā only (p. 184). Next: p. 185 (PDF 203), the Pada and bhāṣya of Rik 66.2; then Riks 66.3–66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Kannada notes on *takvā* (p. 183) compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 185 (PDF 203)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**॥ पदपाठः ॥ — Pada text of Rik 66.2**
+
+> **दाधार । क्षेमम् । ओकः । न । रण्वः । यवः । न । पक्वः । जेता । जनानाम् ।**
+> **ऋषिः । न । स्तुभ्वा । विक्षु । प्रऽशस्तः । वाजी । न । प्रीतः । वयः । दधाति ॥ ३ ॥ ४ ॥**
+> *dādhāra | kṣemam | okaḥ | na | raṇvaḥ | yavaḥ | na | pakvaḥ | jetā | janānām |*
+> *ṛṣiḥ | na | stubhvā | vikṣu | pra-śastaḥ | vājī | na | prītaḥ | vayaḥ | dadhāti || 3 || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **अयमग्निः क्षेमं लब्धस्य धनस्य रक्षणं दाधार । धारयति । स्तोतृभ्यो दत्तस्य धनस्य रक्षणं कर्तुं शक्नोतीति भावः । ओको न निवासस्थानं गृहमिव रण्वो रमणीयः । यद्वा गन्तव्यः । गृहवत्सर्वैः प्राप्यते इत्यर्थः । यवो न यव इव पक्वः । यथा पक्वो यव उपभोगयोग्यो भवति तद्वदग्निरपि पाकादिकार्यहेतुतयोपभोग्य इत्यर्थः । जनानां जेता शत्रुजनानां मध्ये ऽभिभविता ऋषिर्न मन्त्रद्रष्टा ऋषिरिव स्तुभ्वा देवानां स्तोता विक्षु यजमानलक्षणेषु मनुष्येषु प्रशस्तः प्रख्यायते वाजी न अश्व इव प्रीतो हर्षयुक्तः । यथाश्वो हर्षयुक्तो युद्धाभिमुखं गच्छति तद्वदयमपि देवानां हविर्वहने हर्षयुक्तो भवतीत्यर्थः । एवंभूतोऽग्निर्वयोऽन्नं दधाति । दधातु । अस्मभ्यं ददात्वित्यर्थः । वय इत्यन्ननाम । वयः क्षुद्मेति तन्नामसु पाठात् ॥ दाधार । तुजादीनामित्यभ्यासस्य दीर्घत्वं । क्षेमं । क्षियति निवसत्यनेनेति क्षेमः । आर्तिस्तुसुहृ इत्यादिना मन् । नित्त्वादाद्युदात्तत्वं । रण्वः । रवि धवि गत्यर्थाः । अस्मात्कर्मणि कप्रत्ययः । इदित्त्वान्नुम् । जेता । तृन्नन्त आद्युदात्तः । जनानां । यतश्च निर्धारणं । पा. २-३-४१ [?] इति निर्धारणे षष्ठी । नेयं कर्मणि षष्ठीति न लोकाव्ययनिष्ठेति षष्ठीप्रतिषेधो न भवति । स्तुभ्वा । स्तोभतिः स्तुतिकर्मा । अन्येभ्योऽपि दृश्यन्ते इति क्वनिप् ॥**
+> *ayam agniḥ kṣemaṃ labdhasya dhanasya rakṣaṇaṃ dādhāra | dhārayati | stotṛbhyo dattasya dhanasya rakṣaṇaṃ kartuṃ śaknotīti bhāvaḥ | oko na nivāsasthānaṃ gṛham iva raṇvo ramaṇīyaḥ | yadvā gantavyaḥ | gṛhavat sarvaiḥ prāpyate ity arthaḥ | yavo na yava iva pakvaḥ | yathā pakvo yava upabhogayogyo bhavati tadvad agnir api pākādikāryahetutayopabhogya ity arthaḥ | janānāṃ jetā śatrujanānāṃ madhye 'bhibhavitā ṛṣir na mantradraṣṭā ṛṣir iva stubhvā devānāṃ stotā vikṣu yajamānalakṣaṇeṣu manuṣyeṣu praśastaḥ prakhyāyate vājī na aśva iva prīto harṣayuktaḥ | yathāśvo harṣayukto yuddhābhimukhaṃ gacchati tadvad ayam api devānāṃ havirvahane harṣayukto bhavatīty arthaḥ | evaṃbhūto 'gnir vayo 'nnaṃ dadhāti | dadhātu | asmabhyaṃ dadātv ity arthaḥ | vaya ity anna nāma | vayaḥ kṣudmeti tannāmasu pāṭhāt || dādhāra | tujādīnām ity abhyāsasya dīrghatvaṃ | kṣemaṃ | kṣiyati nivasaty anene ti kṣemaḥ | ārtistusuhṛ ity ādinā man | nittvād ādyudāttatvaṃ | raṇvaḥ | ravi dhavi gatyarthāḥ | asmāt karmaṇi kapratyayaḥ | iditvān num | jetā | tṛnanta ādyudāttaḥ | janānāṃ | yataś ca nirdhāraṇaṃ | Pā. 2-3-41 [?] iti nirdhāraṇe ṣaṣṭhī | neyaṃ karmaṇi ṣaṣṭhīti na lokāvyayaniṣṭheti ṣaṣṭhīpratiṣedho na bhavati | stubhvā | stobhatiḥ stutikarmā | anyebhyo 'pi dṛśyante iti kvanip ||*
+> *"This Agni **dādhāra**, upholds, **kṣemam**, the protection of wealth that has been obtained: the thought is that he is able to protect the wealth given to the singers. **Oko na**, like a house, a dwelling-place, **raṇvaḥ**, delightful; or 'to be reached' — reached by all like a house. **Yavo na pakvaḥ**, like ripe barley: as ripe barley is fit for enjoyment, so Agni too is to be enjoyed as the cause of cooking and the like. **Janānāṃ jetā**, the overcomer among hostile men; **ṛṣir na**, like a seer of mantras; **stubhvā**, the praiser of the gods; **vikṣu**, among men, namely the sacrificers, **praśastaḥ**, renowned; **vājī na prītaḥ**, delighted like a horse: as a delighted horse goes toward battle, so he is delighted in carrying the oblations of the gods. Agni, such as this, **vayaḥ dadhāti** — may he give — food to us. *Vayas* is a word for 'food', since it is read among the names of that: 'vayaḥ kṣudmā…'. **Dādhāra**: the lengthening of the reduplicative syllable by 'tujādīnām'. **Kṣemam**: 'one dwells by this' is *kṣema*; *man* by 'ārtistusuhṛ…'; initial acute because *n*-marked. **Raṇvaḥ**: roots *ravi*, *dhavi* mean motion; the affix *ka* in the object sense; the *num* augment since it is *idit*. **Jetā**: a word ending in *tṛn* has the initial acute. **Janānām**: the genitive of selection by 'yataś ca nirdhāraṇam' (Pā. 2-3-41, as read, ?); since this is not the genitive of the object, the prohibition of the genitive by 'na lokāvyayaniṣṭhā…' does not apply. **Stubhvā**: *stobhati* is a verb of praise; *kvanip* by 'anyebhyo 'pi dṛśyante'."* *(Grammar tail characterized; numerals as read [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 186)*
+
+**क्षेमम्** — protection (of the wealth obtained); **दाधार** — (Agni) bears; **ओकोन** — like a dwelling-place; **रण्वः** — delightful (to be approached); **पक्वः** — ripe; **यवो न** — like barley (a means of enjoyment); **जनानाम्** — of the hostile men (the enemies); **जेता** — *(continues)*…
+
+---
+
+### Page 186 (PDF 204)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Pratipadārtha (concluded).** **जेता** — the conqueror (one who is fit to conquer); **ऋषिर्न** — like a seer of mantras; **स्तुभ्वा** — one who praises the gods; **विक्षु** — among the sacrificers; **प्रशस्तः** — renowned; **वाजो न** [*vājī na*] — like a horse; **प्रीतः** — one who is pleased (in giving oblations to the gods); **वयः** — food; **दधाति** — may he give.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* May Agni give us food — Agni, who protects the wealth given to the singers; who is to be reached by all as a house of habitation is; who is a means of enjoyment like ripe barley; who destroys enemies; who praises the gods like seers of mantras; who is renowned among men; and who is pleased, like a good horse, in the work of carrying the oblations.
+
+**English Translation** *(the source's own, as printed):*
+
+> Like a beautiful mansion, he protects property ; he (nourishes people), like barley ; he is the conqueror of (hostile) men ; he is like a Rishi, the praiser (of the Gods), eminent amongst (devout) persons, delighted like a steed, may he bestow upon us food.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **क्षेमं दाधार** — *labdhasya dhanasya rakṣaṇaṃ dhārayati* — "to guard what has been obtained is [the meaning of] *rakṣaṇa*; therefore this Agni is able to protect the wealth he has favoured the sacrificers who praise him with."
+- **ओको न रण्वः** — *gṛham iva ramaṇīyaḥ yadvā gantavyaḥ* — "Agni gives joy as a house gives joy to the beings who live in it; or, as beings take refuge in a dwelling-place, all take refuge in Agni."
+- **यवो न पक्वः** — *yathā pakvo yava upabhogayogyaḥ bhavati tadvad agnir api pākādikāryahetutayā upabhogyaḥ* — "as well-ripened barley and other grains are fit for enjoyment, so Agni too, as the cause of cooking and the like, is fit to be served by all."
+
+---
+
+### Page 187 (PDF 205)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Special Topics (concluded; Kannada).**
+
+- **वाजी न प्रीतः** — *aśva iva harṣayuktaḥ* — "as a horse, being joyful, goes to fight, so Agni too is joyful in carrying the oblations so as to cause pleasure to the gods."
+- *Skandasvāmin* [on the two sentences *oko na raṇvaḥ* and *yavo na pakvaḥ*]: "showing the connection of the *upamāna* and *upameya* — 'like a house' and 'like ripe barley' — he explains that Agni, like a house and like grain, being delightful, gives joy to all."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 66.2 (noted briefly).** **दाधार**: root *dhṛñ dhāraṇe*; in the *liṭ*, third person singular, *tip*, the substitute *ṇal*; the doubling of the root; shortening in the reduplicative syllable; by "abhyāse carca" the *jaś*; the lengthening of the reduplicative syllable by "tujādīnāṃ dīrgho 'bhyāsasya" (Pā. Sū. 6-1-7, as read); since the affix is *ñit*-like [*ṇit*], by "aco ñṇiti" *vṛddhi* of the root's *ṛ*; by "uraṇ raparaḥ" with *r*; the form *dādhāra*; since *ṇal* is *l*-marked [*liti*], by "liti" the syllable before the affix is acute; since it stands at the beginning of the *pāda*, no *nighāta*. **क्षेमम्**: "one dwells (*kṣiyati*) by this" = *kṣemaḥ*; root *kṣi nivāsagatyoḥ*; by "ārtistusūhasṛ…" (Uṇ. Sū. 1-[142], as read) the affix *man*; by "sārvadhātukārdhadhātukayoḥ" *guṇa* of the root's *i*; the word *kṣema*; since *n*-marked, by "ñnityādir nityam" the initial acute. **रण्वः**: roots *ravi* and *dhavi* have the sense of motion; to this, in the object sense, the affix *ka*; since *idit*, the *num* augment by "idito num dhātoḥ"; by "aṭkupvāṅnumvyavāye 'pi" *ṇ* for *n*; the form *raṇva*; by the affix's initial acute, the word has the final acute. **पक्वः**: root *ḍupacaṣ pāke*; in the passive, the affix *kta*; by "paco vaḥ" (Pā. Sū. 8-2-52, as read) *v* for the *t* of *kta*; since this is *asiddha*, by "coḥ kuḥ" (Pā. Sū. 8-2-30) *k* for the *c*; the form *pakva*; by the affix accent, final-acute. **जेता**: root *ji jaye*; in the agent sense, the affix *tṛn*; because an *ārdhadhātuka* conditions it, *guṇa* of the root's *i*; the word *jetṛ*; since *tṛn* is *n*-marked, the initial acute; with the nominative singular after it, by "ṛdusanasvasṛnaptṛneṣṭṛtvaṣṭṛkṣattṛhotṛpotṛprāśāstṝṇām" (Pā. Sū. 7-1-94, as read) the *anaṅ* substitute; by "āptṛntṛc…" [as read: "āpṛtṛnṛc…"] *(the page ends here; continues on p. 188)*.
+
+---
+
+**Progress note:** Printed pp. 1–187 done (PDF 19–205): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 66.1 complete; **Rik 66.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 187, ending at *jetā*). Next: p. 188 (PDF 206), the grammar page of Rik 66.2 concludes; then Riks 66.3–66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Kannada notes on *takvā* (p. 183) compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
