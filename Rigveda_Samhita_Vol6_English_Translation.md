@@ -1278,4 +1278,78 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–58 done (PDF 19–76): Rik 62.1–62.12 complete; Rik 62.13 (the last Rik of Sūkta 62) — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha (pp. 57–58); Bhāvārtha, the source's English, Special Topics, grammar page and the sūkta's closing note still to come. Next: p. 59 (PDF 77), Bhāvārtha of Rik 62.13, and so on to the end of Sūkta 62; then Sūkta 63 (the Pariśiṣṭa-style header, Sāyaṇa's introduction). Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; "गोमतो" and the Uṇādi affix in the 62.13 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; continue through Sūkta 62's end and then Sūktas 63 and 64.
+### Page 59 (PDF 77)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O mighty Indra, the first of all, who harness the horses to the chariot, good leader! Desiring you, Nodhas, the son of Gotama, has composed this new hymn in the form of a sūkta. Praised by it, may [Indra], possessing wealth earned by his own wisdom or by deeds, come quickly to us in the morning.
+
+**English Translation** *(the source's own, as printed):*
+
+> O mighty Indra, Nodhas, the son of Gotama has composed for us this new hymn addressed to you who exist for ever ; you harness your horses to your chariot, and you are the sure guide of all. May he (Indra) who has acquired wealth by pious acts come hither quickly in the morning.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+"In the first maṇḍala, in the eleventh anuvāka, that is, for sūktas 58–64 [numerals read "५८–६४"], the ṛṣi is Nodhas, the son of Gotama. This Nodhas is the ṛṣi of these sūktas (74 ṛks), of the [..]th sūkta of the eighth maṇḍala (6 ṛks) [the sūkta number is cut off in the print: ?], and of the 93rd sūkta of the ninth maṇḍala (5 ṛks) — in all 85 ṛks [as read; 74 + 6 + 5 = 85]. This ṛṣi has generally concluded each sūkta with a refrain-like sentence in the last pāda of the last ṛk of each sūkta, **प्रातर्मक्षू धियावसुर्जगम्यात्** (*prātar makṣū dhiyāvasur jagamyāt*). **Prātar makṣū dhiyāvasur jagamyāt** means: 'may Indra, who is praised by sacrifices and the like, or by hymns, come quickly in the morning (to the sacrificial ground)'."
+
+*(Note on the numbers: the figures "74", "6", "5", "93" and "85" are read from an enlarged slice; the first digit of the eighth-maṇḍala sūkta number is cut by the page edge in the image and is not given.)*
+
+**Word notes (Kannada, with Sanskrit glosses):**
+
+- **सनायते** (*sanāyate*) — *nitya ivācarati* — "he who always is, free from destruction."
+- **हरियोजनाय** (*hariyojanāya*) — "he who has yoked the two bay horses (of Indra) to the chariot."
+- **सुनीथाय** (*sunīthāya*) — *ṇīñ prāpaṇe* — "for Indra who is a good guide to people."
+- **शवसान** (*śavasāna*) — *balavann indra* — "*śavaḥ* means strength (Ni. [?]); *śavasāna* — Indra who has strength."
+- **धियावसुः** (*dhiyāvasuḥ*) — *asmābhir anena stotreṇa stutaḥ san buddhyā karmaṇā vā prāptavasur indraḥ* — "Indra who is praised by us, or worshipped by sacrifices and the like, who has gained wealth."
+- **जगम्यात्** (*jagamyāt*) — *āgacchatu* — "may he come."
+
+---
+
+### Page 60 (PDF 78)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.13 (noted briefly).** **सनायते**: *sanā* is an indeclinable of the same sense as *nitya*; from it, in the sense of behaving-like, the affix *kyaṅ* (printed "kyaj"; the nasal read doubtfully, ?) by "kartuḥ kyaṅ salopaś ca" (Pā. Sū. 3-1-11, as read); by "sanādyantā dhātavaḥ" the stem *sanāya* receives the root-designation; since the affix is *ṅit*, the *ātmanepada* ending; the form *sanāyate*; at the beginning of the *pāda*, no *nighāta*; by the affix accent, final-acute. **अतक्षत्**: root *takṣū tanūkaraṇe*; *laṅ*, third person singular; the *i* of the ending dropped by "itaś ca"; the *śap* vikaraṇa; the *aṭ* augment for the stem; the form *atakṣat*; at the beginning of the *pāda*, no *nighāta*; *śap* being *p*-marked is unaccented; the augment, being acute, gives the initial acute. **हरियोजनाय**: "he who yokes the two bay horses": *hariyojanaḥ*; root *yujir yoge*; the affix *lyuṭ*; "yuvor anākau" (Pā. Sū. 7-1-1) puts *ana* for it; since *l*-marked, by "liti" (Pā. Sū. 6-1-193, as read) the syllable before the affix is acute; being a compound (with the *gati*), the accent of the first member of a *kṛdanta* by "gatikārakopapadāt kṛt". **सुनीथाय**: root *ṇīñ prāpaṇe*; to it the affix *thak* [Uṇādi, as read]; since *k*-marked, by "kṅiti ca" the *guṇa* of the root, which the *ik*-rule would give, is prevented; *su* + *nīthaḥ* = *sunīthaḥ*, in the dative; by "thāthaghañktājabitrāṇām" (Pā. Sū. 6-2-144, as read) the final acute, since the *gati*/*upapada* is prior. **॥ १३ ॥** **शवसान**: in the vocative, by "āmantritasya ca" the *nighāta* accent. *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तेरडनेय सूक्तवु समाप्तवु"** — "*aravatteraḍaneya sūktavu samāptavu*" — "The sixty-second sūkta is concluded." *(Ornamental rule follows.)*
+
+*(Sūkta 62 is complete: thirteen ṛks, printed pp. 1–60 = PDF 19–78.)*
+
+---
+
+## SŪKTA 63 *(printed p. 61 = PDF 79; sixth sūkta of the Eleventh Anuvāka)*
+
+### Page 61 (PDF 79) — Sāyaṇa's introduction; Kannada anuvāda; heading block; Saṃhitā text of Rik 63.1 (begins)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Printed on the page:** the line "*Aravattamūraneya sūktavu*" ("the sixty-third sūkta"), then Sāyaṇa's introduction in Kannada script.
+
+> **त्वं महानिति नवर्चं षष्ठं सूक्तम् । नोधस आर्षं त्रैष्टुभमैन्द्रम् । आनुक्रम्यते च । त्वं नवेति ॥ समूळ्हे दशरात्रे द्वितीये छन्दोमे मरुत्वतीये शस्त्र एतत्सूक्तम् । विश्वजितोऽग्निं नर इति खण्डे सूत्रितम् । तां सु ते कीर्तिं त्वं महाँ इन्द्र यो ह । आ. ८-२ [?] इति ॥**
+> *tvaṃ mahān iti navarcaṃ ṣaṣṭhaṃ sūktam | nodhasa ārṣaṃ traiṣṭubham aindram | ānukramyate ca | tvaṃ naveti || samūḷhe daśarātre dvitīye chandome marutvatīye śastra etatsūktam | viśvajito 'gniṃ nara iti khaṇḍe sūtritam | tāṃ su te kīrtiṃ tvaṃ mahāṃ indra yo ha | Ā. 8-2 [?] iti ||*
+> *"'Tvaṃ mahān' is the sixth sūkta, of nine ṛks. It is the vision of Nodhas, in Triṣṭubh, addressed to Indra. And the Anukramaṇī says: '*tvaṃ nava*'. In the *samūḷha* Daśarātra (ten-day rite), in the second *chandoma*, this sūkta is [used] in the Marutvatīya *śastra*. It is set out in the sūtra, in the section 'viśvajito 'gniṃ nare', as 'tāṃ su te kīrtiṃ tvaṃ mahāṃ indra yo ha' (Āśvalāyana [Śrauta-sūtra] 8-2, numerals as read, ?)."*
+
+**Anuvāda (Kannada).** "'*Tvaṃ mahān*' is the sixth sūkta in the eleventh anuvāka. It has nine ṛks. The ṛṣi of this sūkta is Nodhas; Indra is the deity; the metre is Triṣṭubh. The Anukramaṇikā says '*tvaṃ nava*'. In the sacrifice performed over ten days called *samūḷha*, when the Marutvatīya *śastra* mantras are being recited in the second *chandoma*, the application of this sūkta is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning 'viśvajito 'gniṃ nare', by the sūtra 'tāṃ su te kīrtiṃ tvaṃ mahāṃ indra yo ha' (Ā. 8-[2], as read)."
+
+**Sūkta — 63** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — ११ ॥ सूक्त — ६३ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — ४, ५ [?] ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ९ ॥**
+> **॥ ऋषिः — नोधा गौतमः ॥**
+> **॥ देवता — इन्द्रः ॥**
+> **॥ छन्दः — त्रिष्टुप् ॥**
+
+*maṇḍala 1 | anuvāka 11 | sūkta 63 | aṣṭaka 1 | adhyāya 5 | varga 4, 5 [read; numerals small, ?] | number of ṛks in the sūkta 9 | ṛṣi: Nodhā Gautama | devatā: Indra | chandas: Triṣṭubh.*
+
+#### Rik 63.1
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; the second half is on p. 62)*
+
+> **त्वं महाँ इन्द्र यो ह शुष्मैर्द्यावा जज्ञानः पृथिवी अमे धाः ।**
+> *tvaṃ mahāṃ indra yo ha śuṣmair dyāvā jajñānaḥ pṛthivī ame dhāḥ |*
+
+---
+
+**Progress note:** Printed pp. 1–61 done (PDF 19–79): **Sūkta 62 complete** (13 ṛks, pp. 1–60). **Sūkta 63** (9 ṛks; PDF 79 = printed p. 61, Sāyaṇa's introduction and heading block done): Rik 63.1 — first half of the Saṃhitā only. Next: p. 62 (PDF 80), the second half of the Saṃhitā of Rik 63.1, then its Pada, bhāṣya, etc. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "गोमतो" and the Uṇādi affix in the 62.13 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
