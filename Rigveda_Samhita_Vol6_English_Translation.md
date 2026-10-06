@@ -232,6 +232,39 @@
 
 *(The Pada-pāṭha is printed under the Saṃhitā on the same page. The second half is read from the lower half of the print, which is clear; the word-division "pada-jñāḥ" is as printed.)*
 
+### Page 10 (PDF 28) — Rik 62.2: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha
+
+**Sāyaṇa-bhāṣya** *(printed in Kannada script; transcribed letter by letter from the 150-dpi image; the words marked [?] are crowded)*
+
+> हे ऋत्विजो वो यूयं महे महते शवसानाय बलमिवाचरते । अतिबलायेत्यर्थः । उत्तरवाक्ये यच्छब्दश्रुतेस्तच्छब्दाध्याहारः । एवंभूताय तस्मा इन्द्राय मह्‍ि महत्प्रौढं नमः स्तोत्रं प्र भरध्वम् । प्रकर्षेण संपादयत । किं तत्स्तोत्रमित्याह । आङ्गूष्यं साम आघोषयोग्यं रथन्तरादि साम । तन्निष्पाद्यतामित्यर्थः । अभि त्वा शूर [?] इत्यादिषु [?] यद्गानं तस्य सामेत्याख्या । तथा चोक्तम् । गीतिषु सामाख्येति । येनेन्द्रेण नोऽस्माकं पितरः पितृविशेषाः पूर्वे पूर्वपुरुषा अङ्गिरसः पणिनामासुरेणापहृतानां गवां पदज्ञा मार्गज्ञाः सन्तः [?] एवार्चन्तस्तं पूजयन्तो गा अविन्दन् । अलभन्त । वः प्रथमार्थे द्वितीया । पदज्ञाः पदानि जानन्तीति । अतोऽनुपसर्गे क इति कः । अतो लोप इटि चेत्यात्कारलोपः । अविन्दन् । विद्लृ लाभे । शे मुचादीनामिति नुमागमः ॥
+
+*he ṛtvijo vo yūyaṃ mahe mahate śavasānāya balam ivācarate | atibalāyety arthaḥ | uttaravākye yacchabdaśruter tacchabdādhyāhāraḥ | evaṃbhūtāya tasmā indrāya mahi mahat prauḍhaṃ namaḥ stotraṃ pra bharadhvam | prakarṣeṇa saṃpādayata | kiṃ tat stotram ity āha | āṅgūṣyaṃ sāma āghoṣayogyaṃ rathantarādi sāma | tan niṣpādyatām ity arthaḥ | abhi tvā śūra [?] ity ādiṣu [?] yad gānaṃ tasya sāmety ākhyā | tathā coktam | gītiṣu sāmākhyeti | yenendreṇa no 'smākaṃ pitaraḥ pitṛviśeṣāḥ pūrve pūrvapuruṣā aṅgirasaḥ paṇināmāsureṇāpahṛtānāṃ gavāṃ padajñā mārgajñāḥ santaḥ [?] evārcantas taṃ pūjayanto gā avindan | alabhanta | vaḥ prathamārthe dvitīyā | padajñāḥ padāni jānantīti | ato 'nupasarge ka iti kaḥ | ato lopa iṭi cety ātkāralopaḥ | avindan | vidḷ lābhe | śe mucādīnām iti numāgamaḥ ||*
+
+*(The first sentence's "yacchabda-śruteḥ tacchabdādhyāhāraḥ" is read as printed; the second is "[the word] tad is to be supplied, because the word yad is heard in the latter sentence". The passage "abhi tvā śūra …ādiṣu [?] yad gānam" is partly crowded: the sense is that the singing of "abhi tvā śūra nonumaḥ" and the like is called *sāma*.)*
+
+**Translation** *(editorial and tentative)*: "O priests, *vaḥ*, you: for the great (*mahe*, *mahate*) *śavasānāya*, who acts as if with strength — that is, of exceeding strength; [the word] *tad* is to be supplied because *yad* is heard in the latter sentence. To such an Indra *mahi*, the great, vigorous *namaḥ* — a hymn — *pra bharadhvam*: perform it well. What is that hymn? He says: *āṅgūṣyam sāma*, the *sāman* [such as the *rathantara*] fit to be sung aloud; let that be brought about. The singing of 'abhi tvā śūra [nonumaḥ]' and the like is called *sāman*; and so it is said: 'in chants the name is *sāman*.' [Praise the one] by whom, *yena*, by which Indra, *naḥ*, our *pūrve pitaraḥ*, ancestors of old, the Aṅgirases, who knew the track (*padajñāḥ*), the way, of the cows carried off by the demon named Paṇi, worshipping him, *gā avindan*, found the cows. [*Avindan*] means they obtained. *Vaḥ* stands for the nominative-sense accusative. *Padajñāḥ*: 'those who know the tracks'; by 'ato 'nupasarge kaḥ' the affix *ka*; by 'ato lopa iṭi ca' the loss of *ā*. *Avindan*: root *vid*, 'to obtain'; the *num* augment by 'śe mucādīnām' (the rule concerning roots of the *muc*-class)."
+
+**Pratipadārtha** *(Kannada, rendered)*: *yena* — by which Indra; *naḥ* — our; *pūrve* — earlier; *pitaraḥ* — the fathers; *aṅgirasaḥ* — those called Aṅgirases; *padajñāḥ* — (knowing the path of the cows carried off by the demon called Paṇi) knowers of the track; *arcantaḥ* — worshipping (that Indra); *gāḥ* — those cows; *avindan* — found again; (for such [an Indra]) *mahe* — the great; *śavasānāya* — who acts as if with strength (the strong) — for Indra; *āṅgūṣyam sāma* — a *sāman* fit to be proclaimed (*rathantara* and the like); *mahi* — vigorous; *namaḥ* — a hymn; *vaḥ* — you; *pra bharadhvam* — bring about well.
+
+**Bhāvārtha** *(Kannada, rendered)*: "It was through this Indra that our earlier ancestors, the Aṅgirases, learned the way of the cows carried off by the demon named Paṇi, and got the cows back. Praise with *sāmans* such as the *rathantara*, which can be sung aloud and strongly, that great, mighty Indra."
+
+### Page 11 (PDF 29) — the source's English; Special Topics; Vyākaraṇa-prakriyā (opening)
+
+**English Translation** *(printed in English in the source)*:
+
+> "Do you, priests, offer to the vast and most powerful Indra, a great hymn, fit to be chanted aloud; for through him our forefathers, the Angirasas, adoring him, and knowing the footmarks, recovered (the stolen) cattle."
+
+**Special Topics** *(Kannada, rendered)*
+- ***mahe*** — *mahate*: [dative of] great.
+- ***mahi*** — *mahat*: the most excellent, the superior.
+- ***namaḥ*** — a hymn, or salutation.
+- ***āṅgūṣyam*** — "*āghoṣayogyaṃ rathantarādi sāma*": the *rathantara* and similar *sāmans* fit to be sung aloud.
+- ***pūrve pitaraḥ*** — our earlier fathers, elders; our ancestors who were earlier than we.
+- ***padajñāḥ*** — "*padāni jānantīti padajñāḥ*" — "those who know the tracks", knowers of the way. The demon called Paṇi stole the gods' cows and hid them in a cave, so that no one should know; Indra found them out, subdued the demon, and brought the cows back — this is the tradition. Here *padajñāḥ* means that the cave that hid the cows was known by its path. For the particular account of the demon called Paṇi, which we have written, see Ṛ. Saṃ. Part 3, p. 630 [?].
+- ***aṅgirasaḥ*** — the sons of the sage Aṅgiras, or the descendants of the sage Aṅgirā.
+
+**Vyākaraṇa-prakriyā (grammar, Kannada)** — *grammar page, noted briefly.* ***vaḥ***: by "*vivakṣātaḥ kārakāṇi*", the accusative in the sense of the first [case]; the substitution of *vas* for *yuṣmad* in the second case by "*bahuvacanasya vasnasau*" (Pā. 8-1-21 as read [?]); unaccented by "*anudāttaṃ sarvam apādādau*". ***āṅgūṣyam*** — the process as stated in the earlier mantra; *ṇyat* by "*ṛhaloṛṇyat*" (ऋहलोर्ण्यत् — *ṛhalor ṇyat*). ***padajñāḥ*** — "*padāni jānanti iti padajñāḥ*"; root *jñā avabodhane*; by "*ato 'nupasarge kaḥ*" (अतोऽनुपसर्गे कः — *ato 'nupasarge kaḥ*, Pā. 3-2-3, as read) the affix *ka*, because the word is a *upapada* without prefix; "*ato lopa iṭi ca*" drops the *ā* *(the argument continues on the next page)*.
+
 ---
 
-**Progress note:** Printed pp. 1–9 done (PDF 19–27): Rik 62.1 complete; Rik 62.2 Saṃhitā and Pada given (p. 9). Next: p. 10 (PDF 28), Sāyaṇa's bhāṣya of Rik 62.2. Open flags: Nirukta numbers on p. 5 [?]; cross-reference to earlier volumes on p. 5 [?]; many sūtra numbers on pp. 7–9 marked [?] as read; Saṃhitā accents not reproduced.
+**Progress note:** Printed pp. 1–11 done (PDF 19–29): Rik 62.1 complete; Rik 62.2 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics, and the opening of the grammar. Next: p. 12 (PDF 30), the rest of the grammar of Rik 62.2 and Rik 62.3. Open flags: Nirukta numbers on p. 5 [?]; "abhi tvā śūra … ādiṣu" crowded on p. 10 [?]; cross-references to Part 3 pp. 520–522, 552, 630 [?]; many sūtra numbers on pp. 7–11 [?].
