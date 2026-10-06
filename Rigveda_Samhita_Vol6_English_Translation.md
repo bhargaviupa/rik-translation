@@ -2694,4 +2694,69 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–127 done (PDF 19–145): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.8 complete; Rik 64.9 — Saṃhitā, Pada, and the first part of the bhāṣya (p. 127, breaking off at "jyotir api"). Next: p. 128 (PDF 146), the bhāṣya of Rik 64.9 continues. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7 and 64.9 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 128 (PDF 146)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Bhāṣya (concluded) — the end of the sense and the grammatical tail of Rik 64.9.**
+
+> **…सर्वैर्दृश्यते इत्यर्थः ॥ वदत । ऋचि तुनुघमेत्यादिना [?] दीर्घः । नृषाचः । पादादित्वादामन्त्रिताद्युदात्तत्वम् । अमतिः । अम गत्यादिषु । अमेरतिः । उ. ४-४८ [?] । इत्यादिकोऽतिप्रत्ययः । प्रत्ययाद्युदात्तत्वम् । दर्शता । भृमृदृशीत्यादिनातच् [?] प्रत्ययः । चित्त्वादन्तोदात्तत्वम् ॥**
+> *…sarvair dṛśyate ity arthaḥ || vadata | ṛci tunughametyādinā [?] dīrghaḥ | nṛṣācaḥ | pādāditvād āmantritādyudāttatvam | amatiḥ | ama gatyādiṣu | amer atiḥ | U. 4-48 [?] | ity ādiko 'tipratyayaḥ | pratyayādyudāttatvam | darśatā | bhṛmṛdṛśītyādinātac [?] pratyayaḥ | cittvād antodāttatvam ||*
+> *"…is seen by all: such is the sense. **Vadata**: the lengthening by 'ṛci tunughama…' [as read, ?]. **Nṛṣācaḥ**: since at the beginning of the *pāda*, the initial acute of a vocative. **Amatiḥ**: root *ama* in the senses 'go' etc.; the Uṇādi affix *ati* by 'amer atiḥ' (Uṇ. 4-48, as read, ?); initial acute of the affix. **Darśatā**: the affix *-ata* [as read, ?] by 'bhṛmṛdṛśi…'; since *c*-marked, the final acute."*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**गणश्रियः** — those who are in seven troops; **नृषाचः** — resorting to men (to the sacrificers, to receive the oblations); **शूराः** — O heroic Maruts; **शवसा** — with strength; **अहिमन्यवः** — [towards the hostile] possessed of an anger of slaying nature; **रोदसी** — in earth and sky; **आ वदत** — sound out strongly; **(किञ्च)** — and; **मरुतः** — O Maruts; **वः** — your; **तेजः** — splendour; **बन्धुरेषु** — in the driver's seats made of wood; **रथेषु** — in the chariots; **अमतिर्न** — like a shining form; **दर्शता** — lovely; **विद्युन्न** — like the lightning; **आ तस्थौ** — it remains.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Marut deities, who are divided into groups of seven, who accept the oblations given by men, who are heroes, strong, and exceedingly angry in matters of the hostile: fill heaven and earth with loud sound. And your splendour in the chariots is seen, as the lightning in the midst of a cloud, or a spotless, beautiful form, is seen by all as delightful: just so does it appear.
+
+**English Translation** *(the source's own, as printed):*
+
+> Maruts, who are distinguished in troops, who are benevolent to men, who are heroes, and whose strength is deadly in your anger, you make heaven and earth resound (at your coming) ; your (glory) sits in the seat-furnished chariots, conspicuous as (a beautiful) form, or as the lovely lightning.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **नृषाचः** (*nṛṣācaḥ*) — *nṝn yajamānān havissvīkaraṇāya sevamānāḥ* — "protecting the sacrificers in order to accept the oblations which the sacrificers offer; keeping watch over them."
+
+---
+
+### Page 129 (PDF 147)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 9".)*
+
+**Special Topics (continued; Kannada).**
+
+- **शवसा अहिमन्यवः** — *balena ahananasvabhāvakopayuktāḥ* — "the Marut deities have an anger of the nature of smiting the sacrificers' enemies by their own innate power."
+- **रोदसी आ वदत** — *yuṣmadāgamane sati bhavadīyaśabdena dyāvāpṛthivyau pūrṇe kuruta* — "the earth and the atmosphere fill with the sound that arises when you come."
+- **अमतिर्न** (*amatir na*) — *amatir iti rūpanāma* — "the word *amati* is read among the sixteen names of 'form' beginning *nirṇik, vapuḥ* (Ni. [3-13, ?]). *Yathā nirmalaṃ rūpaṃ sarvair dṛśyate evaṃ rathe sthitānāṃ yuṣmākaṃ jyotir api sarvair dṛśyate* — since there is no blemish, as a well-formed shape is seen by all, so your light, in the form of splendour, as you stand in the chariot, is seen by all. In this matter, [**दर्शता विद्युन्न**] *yathā vā darśanīyā vidyun meghasthā sarvair dṛśyate* — as the lightning that shines beautifully in the midst of the cloud is seen by all: this is the comparison stated."
+- **गणश्रियः** (*gaṇaśriyaḥ*) — *gaṇaśaḥ śrayamāṇāḥ saptagaṇarūpeṇāvasthitāḥ* — "it is well known that the Marut deities exist in groups; the meaning is that they are in seven groups."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.9 (noted briefly).** **वदत**: root *vada vyaktāyāṃ vāci*; *loṭ*, second person plural, the ending *tha*; by "loṭo laṅvat" the *laṅ*-likeness, and by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. Sū. 3-4-101, as read) the *ta* [for *tha*] — (the *ta* that has come as a substitute for *tha* is taken as understood by the commentary); the vikaraṇa *śap* by "kartari śap"; the form *vadata*; by "ṛci tunughamakṣutaṅkutroruṣyāṇām" (Pā. Sū. 6-3-133, as read) lengthening in a mantra; the *nighāta* accent by "tiṅ atiṅaḥ". **गणश्रियः**: the vocative plural; the *nighāta* accent by "āmantritasya ca". **नृषाचः**: here too, since the designation *āmantrita* applies but it stands at the beginning of the *pāda*, the *aṣṭamika* [eighth-chapter] *nighāta* does not come; the initial acute by "āmantritasya ca" (Pā. Sū. 6-1-198, as read). **अमतिः**: root *ama*, in the sense of motion etc.; the Uṇādi-established affix *ati* by "amer atiḥ" (Uṇ. Sū. 4-[48], as read); by "ādyudāttaś ca" (Pā. Sū. 3-1-3) the initial acute of the affix; the *a* [after the *m*] is acute; in the nominative singular, *amatiḥ* *(continues on p. 130)*.
+
+---
+
+### Page 130 (PDF 148)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.9, concluded (noted briefly).** **दर्शता**: root *dṛśir prekṣaṇe*; by "bhṛmṛdṛśiyaji…" (Uṇ. Sū. 1-[62?], as read, ?) the affix [*aśat*, as printed, doubtful, ?]; because the affix conditions it, *guṇa* of the root's penultimate; since the affix is *c*-marked, the final acute by "citaḥ"; in the feminine, *ṭāp* by "ajādyataṣ ṭāp"; the form *darśatā*. **तस्थौ**: root *ṣṭhā gatinivṛttau*; in the Veda, the *liṭ* by "chandasi luṅlaṅliṭaḥ"; the *ṇal* substitute for *tip* [by "parasmaipadānāṃ ṇal…"], and for it *au* by "āto ṇalaḥ" (Pā. Sū. 7-1-34, as read); the doubling of the root; in the reduplicative syllable, by "śarpūrvāḥ khayaḥ" (Pā. Sū. 7-4-61, as read), of the *khay* [consonants] after *s*, the *t* remains; *vṛddhi*; the form *tasthau*; the *nighāta* accent, since it follows a non-verbal word. **मरुतः**: all-unaccented by "āmantritasya ca" (Pā. Sū. 8-1-19, as read). **॥ ९ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.9 ends here (ornamental rule).*
+
+#### Rik 64.10
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **विश्ववेदसो रयिभिः समोकसः संमिश्लासस्तविषीभिर्विरप्शिनः ।**
+> **अस्तार इषुं दधिरे गभस्त्योरनन्तशुष्मा वृषखादयो नरः ॥ १० ॥**
+> *viśvavedaso rayibhiḥ samokasaḥ saṃmiślāsas taviṣībhir virapśinaḥ |*
+> *astāra iṣuṃ dadhire gabhastyor anantaśuṣmā vṛṣakhādayo naraḥ || 10 ||*
+
+**॥ पदपाठः ॥ — Pada text** *(begins; continues on p. 131)*
+
+> **विश्वऽवेदसः । रयिऽभिः । सम्ऽओकसः । सम्ऽमिश्लासः । तविषीभिः ।**
+> **विऽरप्शिनः ।**
+> *viśva-vedasaḥ | rayi-bhiḥ | sam-okasaḥ | sam-miślāsaḥ | taviṣībhiḥ |*
+> *vi-rapśinaḥ |*
+
+---
+
+**Progress note:** Printed pp. 1–130 done (PDF 19–148): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.9 complete; Rik 64.10 — Saṃhitā and the first part of the Pada (p. 130). Next: p. 131 (PDF 149), the rest of the Pada and the bhāṣya of Rik 64.10. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8, 64.3–64.5, 64.7 and 64.9 bhāṣya doubtful [?] (see inline marks); the "śaṃ/taṃ" at the join of pp. 115–116 [?]; the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin notes (pp. 107, 117, 121, 125) read doubtfully [?]; the *va*/*ba* of *bandhura* in Rik 64.9 [sic?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
