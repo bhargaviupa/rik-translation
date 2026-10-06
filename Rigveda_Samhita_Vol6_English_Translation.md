@@ -420,6 +420,38 @@ The conversation continues in Kannada prose (the source's rendering of the verse
 
 *(Editorial note: the prose is rendered from the Kannada as printed; the dialogue occupies pp. 16–17 and has not yet ended. The Kannada says "Ayāsya" as the leader of the Aṅgirasas, matching the Saṃhitā word "ayāsyaḥ" in the sixth verse above.)*
 
+### Page 18 (PDF 36)
+
+**The Paṇis:** — "Saramā! You seem to have the nature of the gods. Therefore we regard you as our sister. Do not go back to Indra; stay right here. We shall give you, too, a share of these cows."
+
+**Saramā:** — "I do not want the friendship or the sisterhood you offer. Indra and the terrible Aṅgirasas know my nature. When I was coming here, searching for the cows, they came to know your dwelling-place by a secret path. Therefore, O Paṇis, run far away and save yourselves."
+
+*(Saramā, continuing:)* "Make room; go to a safe place far away. The cows hidden in the cave will come out in due order. Bṛhaspati, Soma and the wise ṛṣis, finding this secret place, will break open the doors of the cave where the cows are and enter."
+
+*Commentary of the source.* In this dialogue one ṛk is spoken by the Paṇis and another, in answer, by Saramā. The theft of cows by the Paṇis is alluded to in many places in the Ṛgveda.
+
+In the Ṛgveda the word *paṇi* has the sense of a *dhanika*, a rich man who trades; but since he neither performs sacrifices nor gives *dakṣiṇā* gifts, the ṛṣis seem to have regarded him with contempt, as a man without respect for the gods and as a low person. In some places "Paṇi" appears to be one individual; but because the plural *paṇayaḥ* is especially frequent, the word must be understood as indicating a class of people. Some hold that these Paṇis were old inhabitants of this country, engaged in trade and the like, and that, as they lacked reverence, people called them a company of Asuras. Because they felt no attachment to any sacrifice or righteous rite, and thought only of gaining wealth by fair means or foul, the Āryas looked on them as Dasyus and as low persons: this opinion is expressed in the mantras and elsewhere. Many ṛks of the Ṛgveda concern the Paṇis; among them —
+
+**paṇayaḥ** — the word occurs in Ṛ. Saṃ. 1-33-3 [?]; 1-124-10 [?]; 4-51-3 [?]; 6-20-4 [?]; 10-108-2; 10-108-4; 10-108-5 [?]; 10-108-6 [?]; 10-108-8 [?]; 10-108-10; 10-108-11 (the Kannada numerals of the first entries are small and are not certain; the series 10-108 is read from the print as above).
+
 ---
 
-**Progress note:** Printed pp. 1–17 done (PDF 19–35): Rik 62.1–62.2 complete; Rik 62.3 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics so far (the story of Saramā and the Paṇis: Ṛ. Saṃ. 10-14-10, 11; 10-108-1 to 11, with the source's Kannada dialogue to the end of p. 17). Next: p. 18 (PDF 36), the Special Topics continue. Open flags: Nirukta numbers [?]; reference numerals on pp. 15–16 [?]; the grammar tails of pp. 13–14 are summaries; verse readings of p. 16 are as printed, with a few [?]; glosses tentative.
+### Page 19 (PDF 37)
+
+*(Header: left "A. 1 A. 5 Va. 1" [small numerals], centre "Ṛgvedasaṃhitā".)*
+
+**Word-index of "Paṇi" forms (continued).** The source continues the list of occurrences, form by form, each followed by Ṛ. Saṃ. and a string of Kannada reference numerals: **paṇiḥ**; **paṇinā**; **paṇi-iva** (printed "paṇinā iva"); **paṇibhiḥ**; **paṇibhyaḥ**; **paṇim**; **paṇīn**; **paṇīnām**; **paṇeḥ**; **paṇau**. *I give the forms but do not reproduce the reference numerals: they are small, crowded and cannot be read reliably at this scale [?]; the whole list is a finding-aid for the Saṃhitā.*
+
+Then the source closes the list: "These are the ṛks in which the word occurs. There is a tradition that these Paṇis were soldiers of the Asura named Vala. In many ṛks it is mentioned that they stole the cows and hid them in caves. For this subject, see what I have written before: Ṛgveda Saṃhitā, Part 3, page 3[?]2, pp. 485–488 [?]." *(The cross-reference numerals are read with doubt.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).**
+
+**इष्ट्वा** / printed "इष्ट्वी" [?] (*iṣṭvī / iṣṭvā*) — root *iṣa gatau*; the Kṛt affix *ktvin/ktin* (the source writes "ಕ್ತಿನ್") by "striyāṃ ktin"; the lengthening of the ending is discussed; the form is the first-case singular and its accent follows by a rule on *mantre vṛṣeśapacetc.* (printed "mantre vṛṣeśapaceti"... as read; Pā. Sū. number [?]).
+
+**विदेत्** (*videt*) — root *vidḷ lābhe*; the *luṅ* third-person singular ending; the elision of the *i* of *tip* by "iteś ca" [?]; *ṛ*-marked *aṅ* by "puṣādi-dyutādi-…"; the augment *aṭ* is not added by "bahulaṃ chandasy māṅyoge 'pi" [?]; so the form is *videt*. The accent stays on the root vowel by the rule that the one remaining accent is the "sati-śiṣṭa" one; as it does not stand at the beginning of a pāda, "apādādau" prevents the *nighāta*.
+
+*(Only legible rule-names are given; the sūtra numbers were not chased [?]. This grammar page ends Rik 62.3's Special Topics' tail; the next printed page should begin Rik 62.4.)*
+
+---
+
+**Progress note:** Printed pp. 1–19 done (PDF 19–37): Rik 62.1–62.2 complete; Rik 62.3 complete through its Special Topics (Saramā and the Paṇis; Ṛ. Saṃ. 10-14-10, 11; 10-108-1 to 11; the Paṇi word-list on pp. 18–19, reference numerals not reproduced) and the short grammar note on p. 19. Next: p. 20 (PDF 38), expected to start Rik 62.4. Open flags: Nirukta numbers [?]; reference numerals on pp. 15–19 [?]; grammar notes on pp. 13–14 and 19 are summaries; verse readings on p. 16 as printed with a few [?]; glosses tentative.
