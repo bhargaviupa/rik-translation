@@ -520,6 +520,101 @@ The page opens with the last lines of the grammar note for the preceding word (t
 
 *(continues on p. 23)*
 
+### Page 23 (PDF 41)
+
+*(Header: left "A. 1 A. 5 Va. 1" [small numerals, tentative], centre "Ṛgvedasaṃhitā".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (continued; Kannada).** *[sapta —]* seven persons. **विप्रैः** — by the wise (the Aṅgirases). **सुष्टुभा** — with a good hymn-form. **स्वरेण** — with a voice having the udātta etc. accents, or with the mandra etc. pitches. **स्तुभा** — with words of praise. **स्वर्यः** — one to be attained. **शक्र** — the powerful. **इन्द्र** — O Indra. **सः** — such a one, you. **अद्रिम्** — the honourable [mountain] (to be split by the thunderbolt). **फलिगम्** — [the cloud] that supplies the reflection, that goes to clear water, or that has the rain-water. **वलम्** — the cloud. *Or:* [**अद्रिः** — the mountain that is to be split by the thunderbolt; **फलिगम्** — that which is the support of the rain-water; **वलम्** — the demon named Vala.] **रवेण** — by your sound. **दरयः** — you made fearful, you split.
+
+**॥ भावार्थ ॥ — Bhāvārtha.** Seven wise Aṅgirases, who completed the sacrificial session in nine or ten months, approached you with praise, in voices accented in the udātta way and the like and audible, or in the mandra and madhya pitches. At the mere sound of you, the powerful, the cloud, the mountain and the demon Vala become fearful.
+
+**English Translation** *(the source's own, reproduced as printed):*
+
+> O powerful Indra you are to be gratified with a laudatory and well-accented hymn by the seven priests when engaged for nine months or for ten ; and desirous of safe protection, you have terrified by your voice the divisible and fructifying cloud.
+
+**॥ विशेषविषयाः ॥ — Special Topics**
+
+**सुष्टुभा** — *stobhati stutikarmā | śobhanaḥ stobho yasya |* "He who praises (*stobhati*, a verb of praising); the one whose praise (*stobha*) is good" — endowed with excellent hymns.
+
+**स्तुभा** — by a hymn (stotra).
+
+**सप्त विप्रैः** — by the seven of the Aṅgiras ṛṣi-line beginning with Medhātithi; Skandasvāmin explains these words with the verse:
+
+> **सप्तर्षयो भरद्वाजः कश्यपो गौतमोऽत्रिः । विश्वामित्रो जमदग्निर्वसिष्ठः सप्तमः स्मृतः ॥** *(the last word is printed "स्मृतेः" [?])*
+> *saptarṣayo bharadvājaḥ kaśyapo gautamo 'triḥ | viśvāmitro jamadagnir vasiṣṭhaḥ saptamaḥ smṛtaḥ ||*
+> *"The seven ṛṣis: Bharadvāja, Kaśyapa, Gautama, Atri, Viśvāmitra, Jamadagni and Vasiṣṭha as the seventh, are remembered."*
+
+(Gloss mine and tentative, the verse being quoted without translation in the source.) The source adds: the famous Saptarṣis are thus Bharadvāja, Kaśyapa, Gautama, Atri, Viśvāmitra, Jamadagni, Vasiṣṭha; and "vipraiḥ" means "by the wise".
+
 ---
 
-**Progress note:** Printed pp. 1–22 done (PDF 19–40): Rik 62.1–62.3 complete; Rik 62.4 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), and the beginning of the Pratipadārtha (p. 22). Next: p. 23 (PDF 41), the Pratipadārtha continues (from "sapta — seven …"). Open flags: Nirukta numbers [?]; reference numerals on pp. 15–21 [?]; the grammar notes on pp. 13–14, 19–20 and 22 are summaries; one stretch of the bhāṣya on p. 22 read partly [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 24 (PDF 42)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62".)*
+
+**स्वरेण** — *svareṇodāttādiśravyasvaropetena, atha vā mandramadhyamādisvaropetena* — "with a voice having the audible accents udātta etc., or with the mandra, madhya etc. pitches": that is, with the four kinds of accent of the Ṛgveda (udātta, anudātta, svarita, pracaya) or with the seven pitches beginning with mandra and madhya — the bhāṣyakāra's explanation. Skandasvāmin: **स्वरति वेनेत्यर्चतिकर्मसु पाठात् स्वरशब्द इह स्तोत्रवचनः । अन्येन च स्तोत्रा जनेन स्तुत्यः ।** *svarati venety arcatikarmasu pāṭhāt svaraśabda iha stotravacanaḥ | anyena ca stotrā janena stutyaḥ |* "From the reading of *svarati* among the verbs of worship, the word *svara* here denotes hymn; and one who is praised by other men with hymns" — i.e. *svarati* means "worships, praises", and *svaryaḥ* means one praised by other people.
+
+**अद्रिम्** — a mountain, or a cloud (Ni. 3-30 [?]).
+
+**स्वर्यः** — **स्वृ शब्दोपतापयोः । सुष्ठु प्राप्यः । यद्वा शब्दनीयः स्तुत्य इत्यर्थः ।** *svṛ śabdopatāpayoḥ | suṣṭhu prāpyaḥ | yadvā śabdanīyaḥ stutya ity arthaḥ |* "root *svṛ* in the senses of sound and heating; well attainable; or to be sounded, praiseworthy" — one to be attained, or one to be praised.
+
+**नवग्वैः, दशग्वैः** — 
+> **नवभिर्मासैर्गच्छन्तीति नवग्वाः । दशभिर्मासैर्गच्छन्तीति दशग्वाः । अङ्गिरसां सत्रमासीनानां मध्ये ये नवभिर्मासैरवाप्तफला उत्थितास्तेषां नवग्वा इति संज्ञा । दशभिर्मासैर्दशग्वा इति च ॥**
+> *navabhir māsair gacchantīti navagvāḥ | daśabhir māsair gacchantīti daśagvāḥ | aṅgirasāṃ satram āsīnānāṃ madhye ye navabhir māsair avāptaphalā utthitās teṣāṃ navagvā iti saṃjñā | daśabhir māsair daśagvā iti ca ||*
+> *"Those who 'go' in nine months are navagvas; those who go in ten months are daśagvas. Among the Aṅgirases seated at a sacrificial session, those who rose up having obtained the fruit in nine months have the name navagva; likewise, in ten months, daśagva."*
+
+The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial sessions lasting a year, attained their success by the performance of the rite in nine months; the Aṅgirases called "Aṅgirastama" who got what they wished in nine months are navagvas, and the best of the Aṅgirasa family who gained their wish in ten months are called daśagvas; this is the usage. "Western scholars, in explaining the meaning of this word, write —"
+
+> The term Navagva is applied to a man generally an Angiras, in the highest degree (Angirastama-ಅಂಗಿರಸ್ತಮ) who appears as a mystic race of olden times coupled with, and conceived probably as related to the Angirases they are often associated with the Dasagvas (ದಶಗ್ವ). *(as printed; the quotation's author is not named on the page.)*
+
+"The use of these words occurs in many ṛks of the Ṛgveda. We give some examples."
+
+> **येना नवग्वे दध्यङ्ङपोर्णुते येन विप्रास आपिरे ।**
+> *yenā navagve dadhyaṅ apornute yena viprāsa āpire |*
+> *(Ṛ. Saṃ. 9-10?-4 [?] — the first numerals of the reference are not legible to me.)*
+>
+> **नवग्वो नु दशग्वो अङ्गिरस्तमः सचा देवेषु मंहते ।**
+> *navagvo nu daśagvo aṅgirastamaḥ sacā deveṣu maṃhate |*
+> *(Ṛ. Saṃ. 10-62-6.)*
+>
+> **सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् ।**
+> *sakhā ha yatra sakhibhir navagvair abhijñvā satvabhir gā anugman |*
+> *(Ṛ. Saṃ. 3-39-5.)*
+>
+> **अङ्गिरसो नः पितरो नवग्वा अथर्वाणो भृगवः सोम्यासः ।**
+> *aṅgiraso naḥ pitaro navagvā atharvāṇo bhṛgavaḥ somyāsaḥ |*
+> *(Ṛ. Saṃ. 10-14-6.)*
+
+*(Glosses, mine and tentative — the source leaves them untranslated: "(1) 'the one by whom, in the case of the navagva, Dadhyañc [the opening was made]; by whom the wise ones reached [it]'; (2) 'the navagva and the daśagva, the most Aṅgirasa, together rejoices among the gods'; (3) 'where the friend, with friends the navagvas, the [seekers of cows] followed the cows with their strengths'; (4) 'The Aṅgirases, our fathers, the navagvas, the Atharvans, the Bhṛgus, the Soma-worthy'." These are my rough readings; the verses are hard.)* The reference numerals are as read from an enlarged slice; the 9-10?-4 one is uncertain, the others agree with the print's digits.
+
+---
+
+### Page 25 (PDF 43)
+
+*(Header: left "A. 1 A. 5 Va. 1" [small numerals], centre "Ṛgvedasaṃhitā".)*
+
+> **येना नवग्वे अङ्गिरे दशग्वे सप्तास्ये रेवती रेवदूष ॥**
+> *yenā navagve aṅgire daśagve saptāsye revatī revad ūṣa ||*
+> *(Ṛ. Saṃ. 4-51-4. Gloss mine and tentative: "by which, for the navagva, the Aṅgiras, the daśagva, the seven-mouthed, the wealthy [dawn] shone wealth-like.")*
+
+"These and many other ṛks of the Ṛgveda, and also mantras of the Atharvaveda Saṃhitā (19-1-58 [?]; 18-3-20 [?]) and others, use these words. In the second of the examples, it is worth noting that the Aṅgirasa ṛṣi-family member called by the famous name 'navagva' and 'daśagva' is held in honour even by the gods as the best (*śreṣṭhatama*)."
+
+**सरण्युभिः** — *saraṇaṃ śobhanāgatim icchadbhiḥ* — "desiring a good going", that is, those having an excellent motion.
+
+**फलिगम्** — *pratiphalaṃ pratibimbam | tad asminn astīti phali svacchamudakam | tad gacchatīty ādhāratvene [?] phaligaḥ | yadvā vrīhyādiphalam | tad asyāsminn astīti bhavatīti phali vṛṣṭijalam | tad gacchatīti phaligaḥ meghaḥ ||* (the same text as the bhāṣya on p. 22; Devanagari there). Kannada: since reflection or image is seen in it, it is called *phali*, "water"; the cloud that makes such clear water available. Or *phala* is fruit in the form of rice-grain and the like; the water that produces them is called *phali*; the cloud that rains such water is called *phaliga*.
+
+**वलम्** — *vala* means the demon named Vala, or the cloud.
+
+**रवेण दरयः** — *mahatā śabdenaiva vidāritavān asi |* "By the great sound alone you have split [it]": by mere loud sound, i.e. by the sound made by the thunderbolt you split the mountain or the cloud so that the cloud rains — this is the sense.
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.4 (noted briefly).**
+
+**सः** — here the word *sa* is taken as a pāda-filler, with its accent.
+
+**सुष्टुभा** — root *stubh* "stobhati stutikarmā"; *kvip* by "sampadādibhyaḥ kvip" (a Vārttika; number as read, [?]) in the sense of the verbal noun; it becomes *stup*; *suṣṭup* = "*śobhanaḥ stup stobho yasya*"; the final-udātta accent of the latter member by "nañsubhyām" (Pā. Sū. 6-2-172 [?]); in *su + stup*, the *ṣatva* of the root-initial by "upasargāt sunoti…" (Pā. Sū. 8-3-65); the third-case singular.
+
+**स्तुभा** — although the hymn is the instrument, since it is agent in its own action ("*stobhati stauti*"), *kvip* in the sense of agent by "kvip ca"; instrumental singular *stubhā*; the accent on the case-ending by "sāvekāc ca tṛtīyādiḥ" (Pā. Sū. 6-1-168 [?]). *(Grammar page, noted briefly; the page continues on p. 26.)*
+
+---
+
+**Progress note:** Printed pp. 1–25 done (PDF 19–43): Rik 62.1–62.3 complete; Rik 62.4 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (navagva/daśagva; Ṛ. Saṃ. 9-?-4 [?], 10-62-6, 3-39-5, 10-14-6, 4-51-4) and the first part of the grammar page (p. 25). Next: p. 26 (PDF 44), the grammar page for Rik 62.4 continues. Open flags: Nirukta numbers [?]; the first reference numerals of the "yenā navagve" citation [?]; sūtra numbers on grammar pages tentative; accent marks of the Saṃhitā/Pada not reproduced; the glosses of the Ṛg citations on pp. 24–25 are rough and tentative.
