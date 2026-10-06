@@ -2256,4 +2256,74 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–106 done (PDF 19–124): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.2 complete; Rik 64.3 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 106, ending at *majmanā pra cyāvayanti*). Next: p. 107 (PDF 125), the Special Topics of Rik 64.3 conclude; then the grammar page; then Rik 64.4. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 107 (PDF 125)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (concluded; Kannada).** "…the objects that arise on the earth and in the heavens, firm as they are, they destroy [shake] with their strength: this is the sense. The word **मज्मना** (*majmanā*) is read, in the sense of 'strength', among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* (Ni. [2-9, ?]). Skandasvāmin, giving the reason for the Vedic usage of a singular in place of a plural for the word *[vavakṣuḥ]* in this Ṛk, has accepted the reading *vivakṣavaḥ*; since the word *vivakṣathaḥ* [as read] occurs among the names of 'great', he explains that this word *vivakṣavaḥ* means 'great ones'." *(The sentence on Skandasvāmin is compressed and read doubtfully [?].)*
+
+- **भुवनानि** (*bhuvanāni*) — *sadbhāvaṃ prāptāni* — "those which have attained existence by being born."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.3 (noted briefly).** **अभोग्घ्नः**: "those who feed" are *bhojāḥ*; "those who are not *bhoja*" are *abhojāḥ*; their slayers: root *han hiṃsāgatyoḥ*; to it, by "bahulaṃ chandasi", the affix *kvip*; with *abhoj + han*, by "jhayo ho 'nyatarasyām" (Pā. Sū. 8-4-62, as read) the *h* takes the *pūrvasavarṇa* [the *gh*]: through the similarity of the voiced, breathed [*saṃvāra, nāda, ghoṣa, mahāprāṇa*] features a *gh* comes; first the *j* becomes *k* by "coḥ kuḥ": the word *abhogghna*; with *jas* following, where the lengthening of the penultimate would arise by "inhanpūṣāryamṇāṃ śau" (Pā. Sū. 6-4-12, as read), the lengthening does not come, by the restriction; since it has a *kāraka* as first member, the accent of the latter member of a *kṛdanta* by "gatikārakopapadāt kṛt". **ववक्षुः**: root *vaha prāpaṇe*; in the sense of wishing, the affix *san* by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (Pā. Sū. 3-1-7, as read); by "ekāca upadeśe 'nudāttāt" (Pā. Sū. 7-2-10, as read) the prohibition of *iṭ* before *san*; by "sanyaṅoḥ" the doubling of the root; in the reduplicative syllable only the first consonant remains; the substitution of *i* by "sanyataḥ" does not come here, being Vedic; the *h* of the root, since a *jhal* follows, becomes *ḍh* by "hoḍhaḥ"; the *s* of *san*, following, becomes *k* by "ṣaḍhoḥ kaḥ si" (Pā. Sū. 8-2-41, as read); and since a *k* precedes, *ṣ* by "ādeśapratyayayoḥ" (Pā. Sū. 8-3-59, as read); by "sanādyantā dhātavaḥ" the stem *vavakṣa* receives the root-designation; the *us* substituted for *jhi* of the *liṭ* by "parasmaipadānāṃ ṇalatusus…"; by "kāspratyayād āmam antre liṭi" [as read; Pā. Sū. 3-1-35] the prohibition *amantre* — so *ām* does not come; by "ato lopaḥ" the loss of the *a* of *san*; by "liṭi dhātor anabhyāsasya" there is no second doubling; the form *vavakṣuḥ*; by the affix's initial acute, [the word] has the final acute; the prohibition "apādādau" forbids the *nighāta*, so, standing at the beginning of the *pāda*, no *nighāta* arises. **विश्वा**: *viśva + jas*; the *śi* by "jaśśasoḥ śiḥ"; its loss by "śeś chandasi bahulam".
+
+---
+
+### Page 108 (PDF 126)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.3, concluded (noted briefly).** **च्यावयन्ति**: root *cyu sahane* [as read; the print reads "cyai"]; of the *curādi* class, by "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic" (Pā. Sū. 3-1-25) the *ṇic* in the sense of the root itself; because *ṇic* conditions it, *vṛddhi* of the root and the *āv* substitute; the *jhi* ending in the *laṭ*; *ant* in place of it by "jho 'ntaḥ"; the *śap* vikaraṇa; because of that, the *guṇa*/*ay*-substitution for the *ṇic*: *cyāvayanti*. **॥ ३ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.3 ends here (ornamental rule).*
+
+#### Rik 64.4
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **चित्रैरञ्जिभिर्वपुषे व्यञ्जते वक्षःसु रुक्माँ अधि येतिरे शुभे ।**
+> **अंसेष्वेषां नि मिमृक्षुरृष्टयः साकं जज्ञिरे स्वधया दिवो नरः ॥ ४ ॥**
+> *citrair añjibhir vapuṣe vy añjate vakṣaḥsu rukmāṃ adhi yetire śubhe |*
+> *aṃseṣv eṣāṃ ni mimṛkṣur ṛṣṭayaḥ sākaṃ jajñire svadhayā divo naraḥ || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **चित्रैः । अञ्जिऽभिः । वपुषे । वि । अञ्जते । वक्षःऽसु । रुक्मान् ।**
+> **अधि । येतिरे । शुभे ।**
+> **अंसेषु । एषाम् । नि । मिमृक्षुः । ऋष्टयः । साकम् । जज्ञिरे । स्वधया । दिवः । नरः ॥ ४ ॥**
+> *citraiḥ | añji-bhiḥ | vapuṣe | vi | añjate | vakṣaḥ-su | rukmān |*
+> *adhi | yetire | śubhe |*
+> *aṃseṣu | eṣām | ni | mimṛkṣuḥ | ṛṣṭayaḥ | sākam | jajñire | svadhayā | divaḥ | naraḥ || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 109)*
+
+> **वपुरिति रूपनाम । वपुषे रूपाय शोभार्थं मरुतश्चित्रैर्नानाविधैरञ्जिभी रूपाभिव्यञ्जनसमर्थैराभरणैः स्वशरीराणि व्यञ्जते । व्यक्तं कुर्वन्ति । अलंकुर्वन्तीत्यर्थः । वक्षःसु भुजान्तरेषु रुक्मान् रोचमानान्हारानधि येतिरे । उपरि चक्रिरे ।**
+> *vapur iti rūpanāma | vapuṣe rūpāya śobhārthaṃ marutaś citrair nānāvidhair añjibhī rūpābhivyañjanasamarthair ābharaṇaiḥ svaśarīrāṇi vyañjate | vyaktaṃ kurvanti | alaṅkurvantīty arthaḥ | vakṣaḥsu bhujāntareṣu rukmān rocamānān hārān adhi yetire | upari cakrire |*
+> *"*Vapus* is a word for 'form'. **Vapuṣe**, for the sake of beauty of form, the Maruts **vy añjate** — make manifest, adorn — their own bodies with **citraiḥ**, various **añjibhiḥ**, ornaments capable of manifesting the form. **Vakṣaḥsu**, on their chests (between the arms), **rukmān**, shining necklaces, **adhi yetire**, they have placed on top."* *(continues on p. 109.)*
+
+---
+
+### Page 109 (PDF 127)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Bhāṣya (continued and concluded).**
+
+> **किमर्थं शुभे शोभनार्थम् । अपि चैषां मरुतामंसेष्वृष्टयः आयुधानि नि मिमृक्षुः । निमृष्टाः स्थिता बभूवुः । तैरायुधैः सहिता नरो नेतारो मरुतो दिवोऽन्तरिक्षात्स्वधया स्वकीयेन बलेन साकं सह जज्ञिरे । प्रादुर्बभूवुः ॥ येतिरे । यतीङ् प्रयत्ने । लिट्यते एशिहल्मध्य [?] इत्येत्वाभ्यासलोपौ । शुभे । शुभ दीप्तौ । सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति चतुर्थ्या [?] उदात्तत्वम् । मिमृक्षुः । मृजूष् शुद्धौ । सन्यूदित्त्वादिडभावः । हलन्ताच्चेति सनः कित्त्वाद्गुणाभावः । द्विर्वचनादि । सन्यत इतीत्वम् । लिट्युसतो लोप इत्याकारलोपः । जज्ञिरे । जनी प्रादुर्भावे । लिटि गमहनेत्यादिनोपधालोपः ॥**
+> *kimarthaṃ śubhe śobhanārtham | api caiṣāṃ marutām aṃseṣv ṛṣṭayaḥ āyudhāni ni mimṛkṣuḥ | nimṛṣṭāḥ sthitā babhūvuḥ | tair āyudhaiḥ sahitā naro netāro maruto divo 'ntarikṣāt svadhayā svakīyena balena sākaṃ saha jajñire | prādurbabhūvuḥ || yetire | yatīṅ prayatne | liṭy ata eśihalmadhya [?] ity etvābhyāsalopau | śubhe | śubha dīptau | sampadādilakṣaṇo bhāve kvip | sāv ekāca iti caturthyā [?] udāttatvam | mimṛkṣuḥ | mṛjūṣ śuddhau | sanyūdittvād iḍabhāvaḥ | halantāc ceti sanaḥ kittvād guṇābhāvaḥ | dvirvacanādi | sanyata itītvam | liṭy usato lopa ity ākāralopaḥ | jajñire | janī prādurbhāve | liṭi gamahanety ādinopadhālopaḥ ||*
+> *"For what purpose? **śubhe**, for ornament. And further: on the shoulders (**aṃseṣu**) of these Maruts, **ṛṣṭayaḥ**, weapons, **ni mimṛkṣuḥ** — have been fixed, have stood fixed. Accompanied by those weapons, the **naraḥ**, leaders, the Maruts, **divaḥ**, from the atmosphere, **svadhayā**, with their own strength, **sākam**, together, **jajñire**, were born, appeared. **Yetire**: root *yatīṅ prayatne*; in the *liṭ*, the *e* and the loss of the reduplicative syllable by 'ata ekahalmadhye…' [as read, ?]. **Śubhe**: root *śubha dīptau*; the affix *kvip* in the sense of *bhāva*, of the 'sampadādi' type; the acute of the dative by 'sāv ekāca…' [as read, ?]. **Mimṛkṣuḥ**: root *mṛjūṣ śuddhau*; since it is *ūdit* before *san*, no *iṭ*; since *san* after a root ending in a consonant is *k*-marked, no *guṇa*; the doubling etc.; the *i* by 'sanyataḥ'; the loss of *ā* [of the *us* ending] by 'liṭy usato lopa…'. **Jajñire**: root *janī prādurbhāve*; in the *liṭ*, the loss of the penultimate by 'gamahana…'."* *(Grammar tail characterized; read as printed, doubtful phrases marked [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**वपुषे** — for ornament (the Maruts); **चित्रैः** — of many kinds; **अञ्जिभिः** — with ornaments (their bodies); **वि अञ्जते** — they make manifest; **वक्षःसु** — on the chests; **रुक्मान्** — charming (necklaces); **शुभे** — for ornament; **अधि येतिरे** — they placed upon (wore); **एषाम्** — of these Marut deities; **अंसेषु** — on the shoulders; **ऋष्टयः** — weapons; **नि मिमृक्षुः** — have been placed (they were furnished with them); **नरः** — the leaders (the Marut deities); **स्वधया साकम्** — together with their own strength; **दिवः** — from the atmosphere; **जज्ञिरे** — they appeared.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* The Marut deities, mighty and excellent leaders, wearing varied and charming ornaments, wearing charming necklaces on their chests and weapons on their shoulders, appeared from the atmosphere.
+
+**English Translation** *(the source's own, as printed):*
+
+> They decorate their persons with various ornaments, they have placed, for elegance, brilliant garlands, on their breasts ; lances are borne upon their shoulders, and with them and their own strength have they been born, leaders, from the sky.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **वपुषे** (*vapuṣe*) — *rūpāya śobhārtham | vapur iti rūpanāma* — "the word *vapus* is read among the sixteen names of 'form' beginning *nirṇik, vapuḥ* (Ni. [3-13, ?]); [it is said] with the intention of showing [them] as radiant, for ornament."
+
+---
+
+**Progress note:** Printed pp. 1–109 done (PDF 19–127): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Riks 64.1–64.3 complete; Rik 64.4 — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha, Bhāvārtha, the source's English, and the Special Topics begun (p. 109, ending after *vapuṣe*). Next: p. 110 (PDF 128), the Special Topics of Rik 64.4 continue; then its grammar page; then Rik 64.5. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya/Taittirīya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 and 64.3–64.4 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) and the Skandasvāmin note (p. 107) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
