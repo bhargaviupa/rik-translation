@@ -2076,4 +2076,63 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–97 done (PDF 19–115): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts; PDF 113–115 = printed pp. 95–97: introduction, heading block done): Rik 64.1 — Saṃhitā, Pada, bhāṣya (with grammar tail) and Pratipadārtha done. Next: p. 98 (PDF 116), the Bhāvārtha, the source's English, Special Topics and grammar of Rik 64.1; then Rik 64.2. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
+### Page 98 (PDF 116)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O ṛṣi Nodhas, praise the Maruts — who give what is wished for, who are worthy of praise in sacrifices, and who are the makers of flowers and fruit — so that they become well pleased. I, Nodhas the ṛṣi, with concentrated mind and folded hands, utter, effortlessly, like a flowing stream, the words of praise that can make the deities face us in sacrifices.
+
+**English Translation** *(the source's own, as printed):*
+
+> Offer, Nodhas, earnest praise to the company of the Maruts, the senders of rain and ripeners of fruit, deserving of adoration. Composed, and with folded-hands, I utter the praises conceived in my mind, which are efficacious in sacred rites (and flow readily) as the waters.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **वृष्णे** (*vṛṣṇe*) — *kāmānāṃ varṣitre* — "one who fulfils the wishes of those who serve them: the Marut deities, is the idea. Since these Marut deities are forty-nine in number, the singular is used here with reference to their host."
+- **शर्धाय** (*śardhāya*) — *śardhyate prasahyate anena parvatādikam iti śardhaḥ marutsaṅghaḥ* — "because they make hills and the like shake, as if they were being tossed about, the group of the Marut deities has the name *śardha*."
+- **वेधसे** (*vedhase*) — *puṣpaphalādīnāṃ kartre | vāyau hi sati puṣpāṇi phalāni ca utpadyante* — "through the motion and swaying of the wind, in the world of the stationary and the moving, such as trees and creepers, flowers, fruits and the like arise; therefore these Marut deities are indicated by the word *vedhas*. Skandasvāmin explains the word *vedhas* as '*prājña*', wise."
+- **सुहस्त्यः** (*suhastyaḥ*) — *śobhanāṅguliyuktaḥ* — "one with hands whose fingers are arranged to suit the time of reciting the praise."
+- **विदथेषु** (*vidatheṣu*) — *yajñeṣu* — "in sacrifices. The word *vidatha* is read among the names of 'sacrifice' (Ni. [3-18?, ?])."
+- **आभुवः** (*ābhuvaḥ*) — *yathāśāstraṃ prayuktā bhavantīty ābhuvaḥ devatābhimukhīkaraṇāya samarthāḥ* — "the praises recited in a sacrifice, being used according to the śāstra, have the power to *(continues on p. 99)*…"
+
+---
+
+### Page 99 (PDF 117)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Special Topics (concluded; Kannada).** "…to make the deities face the sacrificers who perform the sacrifice — this is the idea. Skandasvāmin explains: '*śardha*-word' as 'zealous' [*utsāhavān*]; the word *vedhas* is used in the sense of 'wise'; *suhastyaḥ* as 'one whose hand is adorned with golden ornaments'; and he has given other meanings for the words *suhastyaḥ* [as 'speeches'] and *ābhuvaḥ* ['those that have greatness']. Supplying the word 'host' (*gaṇa*), he explains: 'I, the inner self, joined with the mind, speak praise for the host of the Maruts; therefore, O ṛṣi Nodhas, do you also offer praise worthy of worship concerning the Marut host'." *(Skandasvāmin's alternative meanings are given as read; the compressed Kannada is partly doubtful [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 64.1 (noted briefly).** **वृष्णे**: root *vṛṣu secane*; the affix *kanin* by "kanin yuvṛṣitakṣi…" (Uṇ. Sū. 1-[154], as read); since *k*-marked, no *laghūpadha-guṇa*; the word *vṛṣan*; in the dative singular the loss of *a* by "allopo 'naḥ" (Pā. Sū. 6-4-134, as read); the *ṇ* for *n* by "raṣābhyāṃ no ṇaḥ samānapade"; the form *vṛṣṇe*; as ending in an *n*-marked affix, the initial acute. **शर्धाय**: root *śṛdhu prasahane*; "by this (the motion of the wind) mountains and the like are overborne": *śardhaḥ*, the host of the Maruts; in the sense of instrument, the affix *ghañ*; by "pugantalaghūpadhasya ca" *guṇa* of the root's penultimate; the form *śardha*; in the dative singular; since *ñ*-marked, by "ñnityādir nityam" the affix has the initial acute. **सुमखाय**: "*śobhano makho yasya saḥ sumakhaḥ*", for him: *sumakhāya*; where "nañsubhyām" (Pā. Sū. 6-2-172, as read) would apply, by exchange the accent of the first member arises. **नोधः**: in the vocative, the *s* gets *ru*/*visarga*: *nodhaḥ*; since at the beginning of the *pāda*, the initial acute by "āmantritasya ca" (Pā. Sū. 6-1-198, as read). **सुवृक्तिम्**: root *vṛjī varjane*; the affix *ktin* by "striyāṃ ktin"; the change of the root's *j* to *k* by "coḥ kuḥ"; the *cartva* by "khari ca"; accusative singular; the accent of the first member of a *kṛdanta* by "gatikārakopapadāt kṛt". **भर**: the process was told in the earlier mantra. **सुहस्त्यः**: "those that are in the hand": *hastyāḥ*; the affix *yat* in the sense of *bhava* by "bhave chandasi" (Pā. Sū. 4-4-110, as read); the initial acute by "yato 'nāvaḥ" (Pā. Sū. 6-1-213, as read) *(continues on p. 100)*.
+
+---
+
+### Page 100 (PDF 118)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 64" as read.)*
+
+**Grammar page for Rik 64.1, concluded (noted briefly).** **सुहस्त्यः** *(concluded)*: "*śobhanāḥ hastāḥ yasya saḥ suhastyaḥ*" — in the *bahuvrīhi* compound the initial acute; by "ādyudāttaṃ dvyac chandasi" (Pā. Sū. 6-2-119, as read) the word of two syllables being the latter member, the latter member's initial acute arises. **समञ्जे**: the prefix *sam*; root *añjū vyaktimrakṣaṇakāntigatiṣu*; by exchange the *ātmanepada* ending; by "śnasor allopaḥ" (Pā. Sū. 6-4-111, as read) the loss of the *a* of *śna*; the *iṭ* of the first person receives *e* by "ṭita ātmanepadānāṃ ṭer e"; the form *añje*; the *nighāta* accent by "tiṅ atiṅaḥ". **॥ १ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 64.1 ends here (ornamental rule).*
+
+#### Rik 64.2
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **ते जज्ञिरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः ।**
+> **पावकासः शुचयः सूर्या इव सत्वानो न द्रप्सिनो घोरवर्पसः ॥ २ ॥**
+> *te jajñire diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ |*
+> *pāvakāsaḥ śucayaḥ sūryā iva satvāno na drapsino ghoravarpasaḥ || 2 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **ते । जज्ञिरे । दिवः । ऋष्वासः । उक्षणः । रुद्रस्य । मर्याः ।**
+> **असुराः । अरेपसः ।**
+> **पावकासः । शुचयः । सूर्याःऽइव । सत्वानः । न । द्रप्सिनः । घोरऽवर्पसः ॥ २ ॥**
+> *te | jajñire | divaḥ | ṛṣvāsaḥ | ukṣaṇaḥ | rudrasya | maryāḥ |*
+> *asurāḥ | arepasaḥ |*
+> *pāvakāsaḥ | śucayaḥ | sūryāḥ-iva | satvānaḥ | na | drapsinaḥ | ghora-varpasaḥ || 2 ||*
+
+*(The Pada's "sūryāḥ-iva" is read as printed with the avagraha-like sign between the words [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–100 done (PDF 19–118): Sūktas 62 (13 ṛks) and 63 (9 ṛks) complete. **Sūkta 64** (15 ṛks, to the Maruts): Rik 64.1 complete; Rik 64.2 — Saṃhitā and Pada (p. 100). Next: p. 101 (PDF 119), the bhāṣya of Rik 64.2. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūktas 63 and 64 [?]; several words in the 63.1–63.8 bhāṣya doubtful [?] (see inline marks); the Kannada note on *mīḷha* (p. 83) read doubtfully [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūktas 62 and 63 are done; Sūkta 64 in progress.
