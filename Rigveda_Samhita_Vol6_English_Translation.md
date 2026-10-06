@@ -1352,4 +1352,70 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–61 done (PDF 19–79): **Sūkta 62 complete** (13 ṛks, pp. 1–60). **Sūkta 63** (9 ṛks; PDF 79 = printed p. 61, Sāyaṇa's introduction and heading block done): Rik 63.1 — first half of the Saṃhitā only. Next: p. 62 (PDF 80), the second half of the Saṃhitā of Rik 63.1, then its Pada, bhāṣya, etc. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "गोमतो" and the Uṇādi affix in the 62.13 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
+### Page 62 (PDF 80)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 63.1 (concluded)** (accent marks printed; not reproduced)
+
+> **त्वं महाँ इन्द्र यो ह शुष्मैर्द्यावा जज्ञानः पृथिवी अमे धाः ।**
+> **यद्ध ते विश्वा गिरयश्चिदभ्वा भिया दृळ्हासः किरणा नैजन् ॥ १ ॥**
+> *tvaṃ mahāṃ indra yo ha śuṣmair dyāvā jajñānaḥ pṛthivī ame dhāḥ |*
+> *yad dha te viśvā girayaś cid abhvā bhiyā dṛḷhāsaḥ kiraṇā naijan || 1 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **त्वम् । महान् । इन्द्र । यः । ह । शुष्मैः । द्यावा । जज्ञानः । पृथिवी इति । अमे । धाः ।**
+> **यत् । ह । ते । विश्वा । गिरयः । चित् । अभ्वा । भिया । दृळ्हासः । किरणाः । न । एजन् ॥ १ ॥**
+> *tvam | mahān | indra | yaḥ | ha | śuṣmaiḥ | dyāvā | jajñānaḥ | pṛthivī iti | ame | dhāḥ |*
+> *yat | ha | te | viśvā | girayaḥ | cit | abhvā | bhiyā | dṛḷhāsaḥ | kiraṇāḥ | na | ejan || 1 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे इन्द्र त्वं महान् गुणैः सर्वाधिको भवसि । यो ह यः खलु त्वमम्मे ऽसुरकृते भये सति जज्ञानस्तदानीमेव प्रादुर्भूतः सन् शुष्मैः शत्रूणां शोषकैरात्मीयैर्बलैर्द्यावापृथिवी द्यावापृथिव्यौ धाः । अधारयः । तादृशाद्भयादमूमुचः [?] इत्यर्थः । किञ्च । यद्ध ते यस्य खलु तव सम्बन्धिन्या भिया भीत्या विश्वा विश्वानि व्याप्तानि यानि भूतजातानि गिरयश्चित् ये च शिलोच्चयाः । अभ्वा । महान्त्येतत् । अन्यान्यपि महान्ति यानि सन्ति तेऽपि सर्वे दृळ्हासो दृढा अप्येजन् । अकम्पिषत । तत्र दृष्टान्तः । किरणा न । यथा सूर्यरश्मय इतस्ततो नभसि कम्पन्ते तद्वत् ॥ जज्ञानः । जनी प्रादुर्भावे । लिटः कानच् । गमहनेत्यादिनोपधालोपः । स्थानिवद्भावाद्द्विर्भावादि । चित इत्यन्तोदात्तत्वम् । द्यावापृथिवी इत्यस्य समस्तपदस्य मध्ये जज्ञान इत्यस्य प्रयोगश्छान्दसः [?] । यत् । सुपां सुलुगिति षष्ठ्याः लुक् । अभ्वा । आ समन्ताद्भवन्ति सद्भावं प्राप्नुवन्तीत्यभ्वा महान्तः । आङ्पूर्वाद्भवतेरौणादिको ड्वन्प्रत्ययः । उपसर्गस्य ह्रस्वत्वं च । यद्वा । नञ्पूर्वाद्भवतेः प्राप्त्यर्थान्नञि भुवो दिदिति क्वन्प्रत्ययः । महान्तो हि प्राप्तुं न शक्यन्ते । शेश्छन्दसि बहुलमिति शेर्लोपः । किरणाः । कीर्यन्ते विक्षिप्यन्त इति किरणाः । कॄ विक्षेपे । कॄ स्वृ वृजिमन्दिनिधाञ्भ्यः क्युः । उ. २-८० [?] इति क्युप्रत्ययः । योरनादेशे प्रत्ययाद्युदात्तत्वम् । ऋत इद्धातोरिति इत्वम् । एजन् । एज कम्पने । लङ्याडागमः । स चोदात्तः । वृद्धिश्च ॥**
+> *he indra tvaṃ mahān guṇaiḥ sarvādhiko bhavasi | yo ha yaḥ khalu tvam ame 'surakṛte bhaye sati jajñānas tadānīm eva prādurbhūtaḥ san śuṣmaiḥ śatrūṇāṃ śoṣakair ātmīyair balair dyāvāpṛthivī dyāvāpṛthivyau dhāḥ | adhārayaḥ | tādṛśād bhayād amūmucaḥ [?] ity arthaḥ | kiñca | yad dha te yasya khalu tava sambandhinyā bhiyā bhītyā viśvā viśvāni vyāptāni yāni bhūtajātāni girayaś cit ye ca śiloccayāḥ | abhvā | mahānty etat | anyāny api mahānti yāni santi te 'pi sarve dṛḷhāso dṛḍhā apy ejan | akampiṣata | tatra dṛṣṭāntaḥ | kiraṇā na | yathā sūryaraśmaya itastato nabhasi kampante tadvat || jajñānaḥ | janī prādurbhāve | liṭaḥ kānac | gamahanety ādinopadhālopaḥ | sthānivadbhāvād dvirbhāvādi | cita ity antodāttatvam | dyāvāpṛthivī ity asya samastapadasya madhye jajñāna ity asya prayogaś chāndasaḥ [?] | yat | supāṃ sulug iti ṣaṣṭhyāḥ luk | abhvā | ā samantād bhavanti sadbhāvaṃ prāpnuvantīty abhvā mahāntaḥ | āṅpūrvād bhavater auṇādiko ḍvanpratyayaḥ | upasargasya hrasvatvaṃ ca | yadvā | nañpūrvād bhavateḥ prāptyarthān nañi bhuvo didit iti kvanpratyayaḥ | mahānto hi prāptuṃ na śakyante | śeś chandasi bahulam iti śer lopaḥ | kiraṇāḥ | kīryante vikṣipyanta iti kiraṇāḥ | kṝ vikṣepe | kṝ svṛ vṛjimandinidhāñbhyaḥ kyuḥ | U. 2-80 [?] iti kyupratyayaḥ | yor anādeśe pratyayādyudāttatvam | ṛta iddhātor iti itvam | ejan | eja kampane | laṅy āḍāgamaḥ | sa codāttaḥ | vṛddhiś ca ||*
+> *"O Indra, you are **mahān**, greatest in qualities. You who, when fear caused by the asuras arose, **jajñānaḥ**, appeared at that very moment, **śuṣmaiḥ**, by your own powers that dry up (shake) enemies, **dhāḥ**, supported heaven and earth, i.e. you made them free of that kind of fear [the word "amūmucaḥ" read doubtfully, ?]. And further: **yad dha te** — because of fear of you, **viśvā**, all pervading kinds of beings, **girayaś cit**, the mountains too, the heaps of rock; **abhvā** — great ones (this is the sense); and whatever other great things there are, all those **dṛḷhāsaḥ**, firm though they are, **ejan** — trembled. The example: **kiraṇā na** — as the rays of the sun here and there tremble in the sky, so. **Jajñānaḥ**: root *janī prādurbhāve*; *kānac* for *liṭ*; the loss of the penultimate by 'gamahana…'; doubling etc. by *sthānivadbhāva*; final-acute by 'citaḥ'; the use of *jajñānaḥ* in the middle of the compound *dyāvāpṛthivī* is Vedic [the print's phrase is read doubtfully, ?]. **Yat**: the *luk* of the genitive by 'supāṃ sulug…'. **Abhvā**: 'they come into being all around, attain existence' — the great; the Uṇādi affix *ḍvan* after *bhū* with *ā*; and the shortening of the prefix; or the affix *kvan* after *bhū* with *nañ* in the sense of 'obtaining' ('what cannot be obtained, the great'). **Kiraṇāḥ**: 'that which is scattered' — root *kṝ vikṣepe*; the affix *kyu* (Uṇ. 2-80, as read, ?); *ana* for *yu*; initial-acute of the affix; *i* for the root's *ṛ*. **Ejan**: root *eja kampane*; the *āṭ* augment in the *laṅ*; it is acute; and *vṛddhi*."* *(The grammar tail is characterized; numerals as read, doubtful where marked.)*
+
+---
+
+### Page 63 (PDF 81)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**Bhāṣya (concluded).** The last lines of the bhāṣya (*kiraṇāḥ … ejan*) are given above; the page begins with "iti kiraṇāḥ | kṝ vikṣepe | …".
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**इन्द्र** — O Indra; **त्वम्** — you; **महान्** — greater in qualities; **यो ह** — you who; **अमे** — when fear (from the asuras) arose; **जज्ञानः** — having become manifest; **शुष्मैः** — by your enemy-destroying powers; **द्यावापृथिवी** — heaven and earth; **धाः** — you made them supported (you made them free of fear); **यद्ध ते** — because of your; **भीत्या** — fear; **विश्वा** — all the pervading multitudes of beings; **गिरयश्चित्** — the mountains also; **अभ्वा** — other great things; **दृळ्हासः** — though firm; **किरणा न** — like the rays (of the sun); **एजन्** — trembled.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* When fear arising from the asuras came upon heaven and earth, you, the great one, appeared at that very moment and removed the fear from both of them. Through fear of you, the beings that pervade everywhere, the firm mountains and other great things, trembled as the rays of the sun make things tremble.
+
+**English Translation** *(the source's own, as printed):*
+
+> O Indra, you are the mighty one, who becoming manifest in the hour of alarm, sustained, by you [sic: "you"] energies, heaven and earth ; then through fear of you, all creatures and the mountains, and all other vast and solid things trembled like the rays of the Sun.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **जज्ञानः** (*jajñānaḥ*) — *tadānīm eva prādurbhūtaḥ* — "one who manifested at that very time, taking on the form and the weapon suited to that work."
+- **शुष्मैः** (*śuṣmaiḥ*) — *śatrūṇāṃ śoṣakair ātmīyair balaiḥ* — "with his own powers, which make enemies dry up, or tremble. The word *śuṣma* is read among the twenty-eight names of 'strength' beginning with *ojaḥ, pājaḥ* (Ni. [2-9, ?])."
+
+---
+
+### Page 64 (PDF 82)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 63" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **द्यावापृथिवी** (*dyāvāpṛthivī*) — *dyāvāpṛthivyau* — "the worlds, earth and sky. Here, in the Saṃhitā, the word *jajñānaḥ* is used in the middle of the compound word *dyāvāpṛthivī*; this is a Vedic usage."
+- **अभ्वा** (*abhvā*) — "among the twenty-five names of 'great' beginning *mahat, bradhnaḥ* the word *abhvā* is read (Ni. [3-3?, ?]); so this word means 'large things', i.e. house-stones [boulders] and the like. Among the hundred and one names of water beginning *aṇaḥ, kṣodaḥ* [this word is also read] (Ni. [?]); so this word has also the meaning 'water'. In the present context the word must be taken to mean *mahat*, i.e. great things."
+- **दृळ्हासः** (*dṛḷhāsaḥ*) — *dṛḍhāḥ* — "strong, having power. In the Ṛgveda there is a practice of using *ḷa* for the intervocalic *ḍa* and *ḷha* for *ḍha*. Here *dṛḷhāsaḥ* is the nominative plural, a Vedic usage."
+- **किरणाः** (*kiraṇāḥ*) — *kīryante vikṣipyante iti kiraṇāḥ* — "'rays'; this word is read among the twenty-five names of rays (Ni. [1-5?, ?])."
+- **न** (*na*) — *iva* — "in the sense of comparison. Yāska has recorded the word *na* among the twelve words of comparison beginning with *iva* (Ni. [3-13?, ?]). Skandasvāmin in his bhāṣya says, of the meaning of this word, that since it is a particle the explanation of the word is not to be stated [?]."
+- **किरणा न एजन्** — "They trembled like the rays of the sun: though the sun's rays are unmoving, when they enter through the atmosphere and come near to us, they seem to tremble because of the movement of the air. For when the disc of the sun or the moon is reflected in water that is stirred by ripples, the image, though motionless, seems to tremble because the water moves; so also here it is to be inferred."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 63.1 (begins; noted briefly).** **इन्द्र**: the *nighāta* accent by "āmantritasya ca". **जज्ञानः**: root *janī prādurbhāve*; when *liṭ* is intended, *kānac* by "liṭaḥ kānajvā" (Pā. Sū. 3-2-106, as read); with *jan + āna*, the loss of the root's penultimate by "gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi" (Pā. Sū. 6-4-98, as read); by "sthānivad ādeśo 'nalvidhau" the *sthānivadbhāva*, hence the root is doubled; in the reduplicative syllable, only the first consonant remains; the form *jajñāna*; since *kānac* is *c*-marked … *(continues on p. 65).*
+
+---
+
+**Progress note:** Printed pp. 1–64 done (PDF 19–82): Sūkta 62 complete (13 ṛks); **Sūkta 63** (9 ṛks): Rik 63.1 complete except the end of its grammar page (pp. 61–64: Saṃhitā, Pada, bhāṣya with grammar tail, Pratipadārtha, Bhāvārtha, the source's English, Special Topics; grammar page begun). Next: p. 65 (PDF 83), the grammar page of Rik 63.1 continues ("kānac is c-marked …"), then Rik 63.2. Open flags: Nirukta/Chāndogya/Śatapatha/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers on grammar pages tentative; the varga numerals of Sūkta 63 [?]; "अमूमुचः", "प्रयोगश्छान्दसः" and Uṇ. 2-80 in the 63.1 bhāṣya doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced. **Working note:** the user asked for 2–3 sūktas in one run; Sūkta 62 is done; continue with Sūktas 63 and 64.
