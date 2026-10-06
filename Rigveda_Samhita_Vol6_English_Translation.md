@@ -3679,4 +3679,52 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–181 done (PDF 19–199): Sūktas 62, 63, 64 and **65 (complete, 5 four-pāda Ṛks)**. **Sūkta 66** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti; Dvipadā Virāṭ; second sūkta of the Twelfth Anuvāka): introduction, anuvāda, heading block done; **Rik 66.1** (half-Ṛks 1–2) — Saṃhitā, Pada, bhāṣya (with grammar tail), Pratipadārtha and the start of the Bhāvārtha done (pp. 180–181). Next: p. 182 (PDF 200), the Bhāvārtha's end, the source's English, Special Topics and grammar of Rik 66.1; then Riks 66.2–66.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals ("10" read for Sūktas 65–66 headers, small print) [?]; the root-gloss of *śiśvā* on p. 179 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 182 (PDF 200)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Bhāvārtha (concluded; Kannada).** "…like a cow that gives milk, a nourisher; endowed with brilliance and special splendour: such Agni takes refuge in the forests (burns them)."
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, who is of variegated form like wealth, who is the surveyor of all like the sun, who is protector of life like the vital air (Prana), who is the doer of good like a son, who upholds the universe like a horse, who is the giver of gratification like a cow, who is pure and radiant, consumes the forests.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **सूरो न संदृक्** — *sūrya iva saṃdraṣṭā sarveṣāṃ vastūnāṃ darśayitā* — "Agni makes all things well visible to everyone, as the sun does. In this Ṛk there are six sentences having the *upamāna*–*upameya* relation; by the order in which their meaning is explained, the qualities of Agni are described. By this the nature of Agni is well understood."
+- **आयुर्न प्राणः** — *āyur mukhe saṃcaran prāṇaḥ praśasyann vāyur iva priyatamaḥ | yadvā yathā prāṇavāyuḥ āyur jīvanam avasthāpayati | tathā cāmnāyate — 'yāvad dhy asmin śarīre prāṇo vasati tāvad āyuḥ' (Kau. Up. 3-2, as read, ?) | evam agnir api jāṭhararūpeṇāyur avasthāpayitā* — "the word *na* is the word of comparison. As the vital air, existing mainly in the bodies of beings in the form of *āyus*, gives the time of life and does good to beings during the time of life, so does Agni. The Kauṣītaki Upaniṣad sentence points out that the *āyus* in the form of the time of life is fixed for beings as long as the vital air moves in the body. In the same way Agni, moving in the body within the course of the vital air, in the form of the digestive fire, fixes life. Skandasvāmin, since the word *āyus* is read among the twenty-eight names of food (Ni. [2-7]), explains the word *āyur na* as 'like food': Agni, by digesting the food, causes the vital air to be established and thereby life to arise in beings."
+- **नित्यो न सूनुः** — *nityo dhruvaḥ putra iva priyakārī | yathaurasaḥ putraḥ pitur hitam evācarati tadvad ayam api hitasya svargasya prāpayitā | tathā cāmnāyate — 'putraḥ pitre lokakṛj jātavedaḥ' (Tai. Brā. 3-2-2-10)* — "*na* is the word of comparison, as in the earlier sentence; *sūnu* is the word for the compared thing. The sense of the word *nitya* is common to both *upamāna* and *upameya*, because it is the common property. As these four — *upamāna, upameya, vācaka* [the word of comparison] and *samānadharma* [the common property] — are stated here in order, this is the *pūrṇopamā* figure. Although the word *sūnu* indicates a son in general, by taking a special sense in it the meaning *aurasa* 'son of the body' is given. Though the Dharmaśāstra writers admit ten kinds of sons, as the *aurasa* son [one born of the body] does what is good for his father, so Agni gives good by bringing pleasing things. In the Taittirīya Brāhmaṇa sentence (3-2-2-10) Agni's being a doer of good to the world is well known" *(continues on p. 183)*.
+
+---
+
+### Page 183 (PDF 201)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Special Topics (continued; Kannada).**
+
+- **तक्वा न भूर्णिः** — *gatimān aśva iva bhartā | yathāśvaḥ upary ārūḍhaṃ puruṣaṃ bibharti dhārayati poṣayati vā tadvad ayam apīty arthaḥ* — "the word *takvā* is read among the fourteen names of 'thief' [as read] (Ni. [3-24]); but Sāyaṇa explains this word as 'horse'. The word *bhartā* denotes 'one who nourishes'. A swift horse carries without letting fall the rider on it, and nourishes him [?]; likewise Agni too nourishes the sacrificers who take refuge in him."
+- *Skandasvāmin:* **तक्वा न भूर्णिः पना सिषक्ति** — "he gives the word *takvā* the meaning 'thief'; and he accepts that the form *bhūrṇiḥ* arises from the root *bhram*: as a thief goes about in the forest by night and wanders there, so Agni too goes about in the forest in the form of a forest fire."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 66.1 (noted briefly).** **चित्रा**: *citra + su* [feminine]: the *su* receives the same-class lengthening by "supāṃ sulug…". **संदृक्**: root *dṛśir prekṣaṇe*; the affix *kvin* [*kvin*] by "ṛtvigdadhṛk…" [read as "kvin pratyayasya kuḥ"]; at the end of the *pada*, by "vraścabhrasjasṛjamṛjayajarājabhrājacchaśām ṣaḥ" (Pā. Sū. 8-2-36, as read) *ṣ* for the *ś*; by "jhalāṃ jaśo 'nte" *ḍ* [for *ṣ*]; by "kvin pratyayasya kaḥ" (Pā. Sū. 8-2-62, as read) *k* [*ku*], and *g* by the *kutva*; by "vāvasāne" the *cartva* [→ *k*]; by "gatikārakopapadāt kṛt" the *kṛdanta* accent; the *y* [of *dṛ*] is acute.
+
+---
+
+### Page 184 (PDF 202)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Grammar page for Rik 66.1, concluded (noted briefly).** **प्राणः**: root *ana prāṇane*; by "nandigrahapacādibhyo lyuṇinyacaḥ" (Pā. Sū. 3-1-134, as read) the affix *ac*; since the cause is a following [prefix *pra*], by "aniteḥ" (Pā. Sū. 8-4-19, as read) *ṇ* for *n* when a prefix [in which the cause lies] precedes; by "cita" the final acute. **नित्यः**: *ni* [indeclinable] + *tyap*: by "avyayāt tyap" (Pā. Sū. 4-2-104, as read) and "nerdhruve" (Mahābhāṣya 4-2-104, as read) the affix *tyap* is added in the sense 'firm' to the indeclinable *ni*; since the affix is *p*-marked and therefore unaccented, only the accent of the prefix remains; the word is initial-acute. **तक्वा**: root *taka hasane*; read among the roots of motion, so taken here in the sense of motion; *takati gacchati iti takvā*; by "anyebhyo 'pi dṛśyate" (Pā. Sū. 3-2-75, as read) the affix *vanip*; the word *takvan*; since *su* follows, by "sarvanāmasthāne cāsambuddhau" the lengthening of the penultimate of the *n*-ending stem; by "halṅyābbhyo…" the loss of *su*; by "nalopaḥ prātipadikāntasya" the loss of the *n* at the end of a *pada*; since the affix is *p*-marked, unaccented, the root accent remains. **भूर्णिः**: by "ghṛṇi pṛśni pārṣṇi…" (Uṇ. Sū. 4-[53], as read) the affix *ni* is given by *nipātana* after the root *bhṛñ bharaṇe*. **वना**: by "śeś chandasi bahulam" the *śi* in the neuter plural accusative is lost. **विभावा**: root *bhā dīptau*; by "ato manin-kvanip-vanipaś ca" (Pā. Sū. 3-2-74, as read) the affix *vanip*; the word *vibhāvan*; in the nominative singular the lengthening of the penultimate by "nāntopadhāyā dīrgha…"; the loss of *su*; the loss of *n*; since the affix is *p*-marked the root accent comes; in the compound, by "gatikārakopapadāt kṛt" the accent of the first member of a *kṛdanta*. **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+#### Rik 66.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **दाधार क्षेममोको न रण्वो यवो न पक्वो जेता जनानाम् ।**
+> **ऋषिर्न स्तुभ्वा विक्षु प्रशस्तो वाजी न प्रीतो वयो दधाति ॥ ३ ॥ ४ ॥**
+> *dādhāra kṣemam oko na raṇvo yavo na pakvo jetā janānām |*
+> *ṛṣir na stubhvā vikṣu praśasto vājī na prīto vayo dadhāti || 3 || 4 ||*
+
+---
+
+**Progress note:** Printed pp. 1–184 done (PDF 19–202): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 66.1 complete; **Rik 66.2** (half-Ṛks 3–4) — Saṃhitā only (p. 184). Next: p. 185 (PDF 203), the Pada and bhāṣya of Rik 66.2; then Riks 66.3–66.5 and the closing line of Sūkta 66; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kauṣītaki numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Kannada notes on *takvā* (p. 183) compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
