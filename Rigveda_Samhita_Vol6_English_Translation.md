@@ -615,6 +615,72 @@ The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial 
 
 **स्तुभा** — although the hymn is the instrument, since it is agent in its own action ("*stobhati stauti*"), *kvip* in the sense of agent by "kvip ca"; instrumental singular *stubhā*; the accent on the case-ending by "sāvekāc ca tṛtīyādiḥ" (Pā. Sū. 6-1-168 [?]). *(Grammar page, noted briefly; the page continues on p. 26.)*
 
+### Page 26 (PDF 44)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62".)*
+
+**Grammar page for Rik 62.4, concluded (noted briefly).** Words treated: **सप्त** (*sapta*; *sapta + bhis*, the *luk* of *bhis* by "supāṃ sulug…"); **स्वर्यः** (*svaryaḥ*; root *svṛ śabdopatāpayoḥ*, affix *yat* by "ṛhaloṇyat"; *ñit*-hood prevents *vṛddhi* by "aco ñṇiti", which is Vedic here; the *svarita* accent by "tit svaritam"); **नवग्वैः** (*navagvaiḥ*; root *gam* with *kvip* by "gamaḥ kau", Pā. Sū. 6-4-40 [numerals as read, tentative]; "ūṭ ca gamādīnām iti vaktavyam" [6-4-40, Vārttika]; the form *nava-gū* → *navagvāḥ*, the vowel being Vedic; or the *ḍa*-affix; the accent of the first member kept by "bahuvrīhau prakṛtyā pūrvapadam"); **सरण्युभिः** (*saraṇyubhiḥ*; *saraṇa* + *kyac* by "supa ātmanaḥ kyac", *chandasi* *kyac*-final loss "ato lopaḥ"; the affix accent: final udātta); **फलिगम्** (*phaligam*; root *gam* with *ḍa* by "ḍo 'nyatrāpi dṛśyate" [Pā. Sū. 3-2-48, [?]]; the *kṛt*-accent of the latter member by "gatikārakopapadāt kṛt"); **वलम्** (*valam*; root *vṛ*, the *pacādi* *ac* by "nandigrahapacādibhyo…"; *la*-for-*ra* in *kapilakādi* words by the Vārttika at Pā. Mahābhāṣya 8-2-18 [?]); **दरयः** (*darayaḥ*; root *dṝ vidāraṇe*, *ṇic*, *vṛddhi* by "aco ñṇiti"; the *mit*-shortening by "mitāṃ hrasvaḥ"; the *aṭ* not added by "bahulaṃ chandasy amāṅyoge 'pi"; the *nighāta* accent because of the following *ati-ṅanta*). The grammar for the Rik ends "॥ 4 ॥". *Grammar page, noted briefly; sūtra numbers only where legible.*
+
+*(Printer's ornament.)*
+
 ---
 
-**Progress note:** Printed pp. 1–25 done (PDF 19–43): Rik 62.1–62.3 complete; Rik 62.4 — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (navagva/daśagva; Ṛ. Saṃ. 9-?-4 [?], 10-62-6, 3-39-5, 10-14-6, 4-51-4) and the first part of the grammar page (p. 25). Next: p. 26 (PDF 44), the grammar page for Rik 62.4 continues. Open flags: Nirukta numbers [?]; the first reference numerals of the "yenā navagve" citation [?]; sūtra numbers on grammar pages tentative; accent marks of the Saṃhitā/Pada not reproduced; the glosses of the Ṛg citations on pp. 24–25 are rough and tentative.
+### Page 27 (PDF 45)
+
+*(Header: left "A. 1 A. 5 Va. 1" [small numerals], centre "Ṛgvedasaṃhitā".)*
+
+#### Rik 62.5
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **गृणानो अङ्गिरोभिर्दस्म वि वरुषसा सूर्येण गोभिरन्धः ।**
+> **वि भूम्या अप्रथय इन्द्र सानु दिवो रज उपरमस्तभायः ॥ ५ ॥**
+> *gṛṇāno aṅgirobhir dasma vi var uṣasā sūryeṇa gobhir andhaḥ |*
+> *vi bhūmyā aprathaya indra sānu divo raja uparam astabhāyaḥ || 5 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **गृणानः । अङ्गिरःऽभिः । दस्म । वि । वः । उषसा । सूर्येण । गोभिः । अन्धः ॥**
+> **वि । भूम्याः । अप्रथयः । इन्द्र । सानु । दिवः । रजः । उपरम् । अस्तभायः ॥ ५ ॥**
+> *gṛṇānaḥ | aṅgiraḥ-bhiḥ | dasma | vi | vaḥ | uṣasā | sūryeṇa | gobhiḥ | andhaḥ ||*
+> *vi | bhūmyāḥ | aprathayaḥ | indra | sānu | divaḥ | rajaḥ | uparam | astabhāyaḥ || 5 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे दस्म दर्शनीय शत्रूणामुपक्षयितरिन्द्र [?] त्वमङ्गिरोभिर्ऋषिभिर्गृणानः स्तूयमानः सन्नुषसा सूर्येण च सह गोभिः किरणैरन्धोऽन्धकारं वि वः । व्यवृणोः । व्यनाशयः इत्यर्थः । तथा हे इन्द्र त्वं भूम्याः पृथिव्याः सानु समुच्छ्रितप्रदेशं व्यप्रथयः । विशेषेण विस्तीर्णमकरोः । विषमामिमां समीकृतवानित्यर्थः । तथा दिवोऽन्तरिक्षस्य रजो रजसो लोकस्योपरमुप्तं [?] मूलप्रदेशमस्तभायः । अस्तभ्नाः । यथान्तरिक्षलोकस्य मूलं दृढं भवति तथाकार्षीरित्यर्थः ॥**
+> *he dasma darśanīya śatrūṇām upakṣayitar indra [?] tvam aṅgirobhir ṛṣibhir gṛṇānaḥ stūyamānaḥ sann uṣasā sūryeṇa ca saha gobhiḥ kiraṇair andho 'ndhakāraṃ vi vaḥ | vyavṛṇoḥ | vyanāśayaḥ ity arthaḥ | tathā he indra tvaṃ bhūmyāḥ pṛthivyāḥ sānu samucchritapradeśaṃ vyaprathayaḥ | viśeṣeṇa vistīrṇam akaroḥ | viṣamām imāṃ samīkṛtavān ity arthaḥ | tathā divo 'ntarikṣasya rajo rajaso lokasyoparam upta [?] mūlapradeśam astabhāyaḥ | astabhnāḥ | yathāntarikṣalokasya mūlaṃ dṛḍhaṃ bhavati tathākārṣīr ity arthaḥ ||*
+> *"O handsome one (dasma), destroyer of enemies, Indra! You, being praised by the Aṅgiras ṛṣis, together with the dawn and the sun, with the rays, **vi vaḥ** — uncovered, i.e. destroyed, the darkness. And, O Indra, you spread out the heights, the raised ground, of the earth; you made this uneven earth level. And you fixed firm the base region, [the lower part] of the world of the sky, the region of the atmosphere — **astabhāyaḥ**, 'you propped': you so acted that the base of the atmospheric world became firm."*
+
+(The words "उपरमुप्तं" are read with doubt; the sense is "the base-region, lying below".)
+
+**Grammatical tail** (begins; continues on p. 28): **गृणानः** — *karmaṇi laṭaḥ śānaci yaki prāpte vyatyayena śnā; pvādīnāṃ hrasvaḥ iti hrasvatvam; citsvareṇāntodāttatvam;* "*laṭ* in the passive; *śānac*; where *yak* would arise, *śnā* by exchange of affixes; the shortening by 'pvādīnāṃ hrasvaḥ'; final-udātta by the *cit*-accent." **दस्म** — root *dasu upakṣaye*; *mak* by "iṣiyudhīndhidasiśyādiyādinā"-type rule; **वः** — root *vṛṅ varaṇe*, *luṅ*, *sic*; in the Veda the *luk* of *cli* by "ghasa…" etc.; *guṇa*; the elision of the *sa* [and *hal*-ending] "halṅyābbhyo…" [?]; the *aṭ* not added by "bahulaṃ chandasy amāṅyoge 'pi"; **अन्धः** — *(continued on p. 28)*. *Noted briefly; the sūtra citations are only partly legible and are not reproduced.*
+
+---
+
+### Page 28 (PDF 46)
+
+*(Header: "Sāyaṇabhāṣyasahitā", right "Maṃ. 1 A. 11 Sū. 62".)*
+
+**Grammatical tail (continued).** **अन्धः** — *tamo 'py andha ucyate, nāsminn āśyanaṃ bhavati | ni. 3-1 [?] | iti yāskaḥ* — "Darkness, too, is called *andha*: in it there is no seeing/eating [?] — so Yāska (Nirukta 3-1, [?])". **रजः** — "since 'worlds are called *rajāṃsi*' has been said, the word *rajas* denotes the world; the *luk* of the genitive by 'supāṃ sulug…'". **अस्तभायः** — *laṅ*, "stambhustumbhu…" the affix *śnā* (Pā. Sū. 3-1-82 [?]); "chandasi śāyajapi" (Pā. Sū. 3-1-84 [?]); "ity ahāv api vyatyayena śnāpratyayasya śāyajādeśaḥ"; *anidit* — *na*-elision by "anidītāṃ hal…"; the *aṭ* augment is applied.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha**
+
+**दस्म** — O beautiful (handsome Indra) or destroyer of enemies (you). **अङ्गिरोभिः** — by the Aṅgirases. **गृणानः** — having been praised. **उषसा** — by the dawn also. **सूर्येण** — [together] with the sun. **गोभिः** — by the rays. **अन्धः** — the darkness. **वि वः** — you opened (destroyed). **इन्द्र** — O Indra. **भूम्याः** — of the earth. **सानु** — the high places. **वि अप्रथयः** — you spread out (made level). **दिवः रजः** — of the atmospheric world. **उपरम्** — the base region. **अस्तभायः** — you made firm.
+
+**॥ भावार्थ ॥ — Bhāvārtha.** O beautiful Indra, destroyer of enemies! Praised by the Aṅgirases, together with the dawn and the sun, you destroyed the darkness. You levelled the high places of the earth, and made firm the base of the atmospheric world.
+
+**English Translation** *(the source's own, as printed):*
+
+> Destroyer of foes, praised by the Angirasas you have scattered the darkness with the dawn, and with the rays of the Sun ; you have strengthened the foundations of the firmament beneath the heaven.
+
+**॥ विशेषविषयाः ॥ — Special Topics**
+
+> **अत्रेदमुक्तं भवति — हे इन्द्र यत्त्वं सूर्यादितेजसामावरकं वृत्रं हत्वा तत्किरणरूपा गा मोचितवानसि तथा यत्त्वं पृथिवीं सृष्ट्वा तस्यास्तलं विस्तीर्णं कृतवानसि अन्तरिक्षस्योपरि च द्युलोकं सृष्ट्वा धारयसि तत्सर्वमस्माकं पितृभिरङ्गिरोभिः स्तुतः सन्नेव कृतवानसि नान्यथा । अतः कारणात्तेषामेवाङ्गिरसां पुत्रा वयं त्वां स्तोतुमर्हामः त्वं च नः स्तोत्रं सावधानं श्रोतुमर्हसीति ॥**
+> *atredam uktaṃ bhavati — he indra yat tvaṃ sūryāditejasām āvarakaṃ vṛtraṃ hatvā tatkiraṇarūpā gā mocitavān asi tathā yat tvaṃ pṛthivīṃ sṛṣṭvā tasyās talaṃ vistīrṇaṃ kṛtavān asi antarikṣasyopari ca dyulokaṃ sṛṣṭvā dhārayasi tat sarvam asmākaṃ pitṛbhir aṅgirobhiḥ stutaḥ sann eva kṛtavān asi nānyathā | ataḥ kāraṇāt teṣām evāṅgirasāṃ putrā vayaṃ tvāṃ stotum arhāmaḥ tvaṃ ca naḥ stotraṃ sāvadhānaṃ śrotum arhasīti ||*
+> *"Here this is said: O Indra, that you, having slain Vṛtra, the concealer of the light of the sun and the rest, released the cows in the form of those rays; and that, having created the earth, you made its surface wide; and, having created the heaven above the atmosphere, you uphold it: all that you did being praised by our fathers the Aṅgirases, not otherwise. For this reason, we, sons of those very Aṅgirases, are fit to praise you; and you are fit to hear our praise attentively."*
+
+**The source's Kannada:** "The main purport is: O Indra, our fathers the Aṅgirasa ṛṣis …" *(the sentence continues on p. 29).*
+
+---
+
+**Progress note:** Printed pp. 1–28 done (PDF 19–46): Rik 62.1–62.4 complete; Rik 62.5 — Saṃhitā, Pada, bhāṣya (grammar tail characterized), Pratipadārtha, Bhāvārtha, the source's English, and the beginning of the Special Topics (p. 28). Next: p. 29 (PDF 47), the Special Topics continue ("mukhyābhiprāya … our fathers the Aṅgirasa ṛṣis …"). Open flags: Nirukta numbers [?]; reference numerals on pp. 24–28 [?]; sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in the bhāṣya of Rik 62.5 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
