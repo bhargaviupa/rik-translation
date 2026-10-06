@@ -742,4 +742,57 @@ The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial 
 
 ---
 
-**Progress note:** Printed pp. 1–31 done (PDF 19–49): Rik 62.1–62.5 complete (Special Topics, word notes and grammar of 62.5 on pp. 29–30); Rik 62.6 begun — Saṃhitā, Pada, and the first part of the bhāṣya (p. 31, breaking off at "prayakṣatamam … atiśayena"). Next: p. 32 (PDF 50), the bhāṣya of Rik 62.6 continues. Open flags: Nirukta numbers [?]; reference numerals on pp. 24–31 [?]; Āśvalāyana reference at the head of 62.6 [?]; sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in 62.5, "उपराः उप्ताः" in 62.6 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 32 (PDF 50)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Bhāṣya (concluded) — the grammatical tail.** The bhāṣya continues the word *prayakṣatamam* from p. 31 and then gives its grammar in compressed form:
+
+> **यक्षो यक्षतमः । पुनः प्रादिसमासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । दंसः । दसि दंसनदर्शनयोः । चुरादिरात्मनेपदी । दंस्यते कर्तव्यतया दृश्यते इति दंसः कर्म । औणादिकः कर्मण्यसुन् । उपह्वरे । ह्वृ कौटिल्ये । कौटिल्यलक्षणगतिवाचिनात्र गतिमात्रं लक्ष्यते । उपह्वरन्ति गच्छन्त्यस्मिन्नद्य इत्युपह्वरो भूप्रदेशः । पुंसि संज्ञायां घः प्रायेणेत्यधिकरणे घप्रत्ययः । गुणः । कृदुत्तरपदप्रकृतिस्वरत्वम् । अपिन्वत् । पिवि सेचने । भौवादिकः । चतस्रः । शस् । त्रिचतुरोः स्त्रियां तिसृचतसृ इति चतुर्शब्दस्य चतस्रादेश आद्युदात्तो निपातितः । पूर्वसवर्णदीर्घे प्राप्तेऽचि र ऋत इति रेफादेशः । पा. ७-२-९९, १०० । चतुर्शब्दस्याद्युदात्तत्वात्स्थानिवद्भावेन चतस्रादेशस्याद्युदात्तत्वे सिद्धेऽपि पुनराद्युदात्तनिपातनसामर्थ्याद्यणादेशस्य वा पूर्वविधौ स्थानिवद्भावाच्चतुरः शसीत्यन्तोदात्तत्वस्याभावः । न च न पदान्तेति स्थानिवद्भावप्रतिषेधः । स्वरदीर्घयलोपेषु लोपाजादेश एव न स्थानिवत् अन्यत्तु स्थानिवदेव । म. १-१-५८ [?] । इति नियमात् ॥**
+> *yakṣo yakṣatamaḥ | punaḥ prādisamāse 'vyayapūrvapadaprakṛtisvaratvam | daṃsaḥ | dasi daṃsanadarśanayoḥ | curādir ātmanepadī | daṃsyate kartavyatayā dṛśyate iti daṃsaḥ karma | auṇādikaḥ karmaṇy asun | upahvare | hvṛ kauṭilye | kauṭilyalakṣaṇagativācinātra gatimātraṃ lakṣyate | upahvaranti gacchanty asminn adya [nadya, ?] ity upahvaro bhūpradeśaḥ | puṃsi saṃjñāyāṃ ghaḥ prāyeṇety adhikaraṇe ghapratyayaḥ | guṇaḥ | kṛduttarapadaprakṛtisvaratvam | apinvat | pivi secane | bhauvādikaḥ | catasraḥ | śas | tricaturoḥ striyāṃ tisṛcatasṛ iti caturśabdasya catasrādeśa ādyudātto nipātitaḥ | pūrvasavarṇadīrghe prāpte 'ci ra ṛta iti rephādeśaḥ | Pā. 7-2-99, 100 | caturśabdasyādyudāttatvāt sthānivadbhāvena catasrādeśasyādyudāttatve siddhe 'pi punar ādyudāttanipātanasāmarthyād yaṇādeśasya vā pūrvavidhau sthānivadbhāvāc caturaḥ śasīty antodāttatvasyābhāvaḥ | na ca na padānteti sthānivadbhāvapratiṣedhaḥ | svaradīrghayalopeṣu lopājādeśa eva na sthānivat anyat tu sthānivad eva | Ma. 1-1-58 [?] | iti niyamāt ||*
+
+*Sense:* "[…*yakṣa*, and *yakṣatama*, 'most to be worshipped'.] Further, in the *prādi*-compound the accent of the first member that is an indeclinable is kept. **Daṃsaḥ**: root *dasi*, 'to bite/see' (*daṃsana-darśanayoḥ*), of the *curādi* class, *ātmanepada*; 'that which is seen to be a thing to be done' is *daṃsaḥ*, 'deed'; the Uṇādi affix *asun* in the sense of the object. **Upahvare**: root *hvṛ* 'crookedness'; here, of the motion-meanings that include crookedness, only motion is intended; *upahvara* is the earth-region in which the rivers go; the affix *gha* in the locative sense by 'puṃsi saṃjñāyāṃ ghaḥ prāyeṇa'; *guṇa*; the accent of the latter member of a *kṛt*-compound is retained. **Apinvat**: root *pivi* 'to sprinkle', *bhvādi*. **Catasraḥ**: [the word *catur* + *śas*]; by 'tricaturoḥ striyāṃ tisṛcatasṛ' the substitute *catasṛ*, with initial acute, is laid down; where the *pūrvasavarṇadīrgha* would arise, the *r* substitution takes place by 'aci ra ṛtaḥ' (Pā. 7-2-99, 100, as read; these match the standard numbers). [Then the argument on whether 'caturaḥ śasi' (final-acute) could apply through *sthānivadbhāva*; it cannot, because the prohibition 'na padānta…' (Pā. 1-1-58) applies only to the *lopa*/*ajādeśa* cases in matters of accent, long vowel and elision, and elsewhere *sthānivat* holds — 'by this restriction' (a Mahābhāṣya reference, numerals read [1-1-58, ?]).]" *(Grammar tail, characterized; the final argument is compressed and my sense of it is tentative [?]. In "upahvaranti gacchanty asminn adya", the last word is printed so and read as "nadyaḥ" from the Kannada gloss on p. 33.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**यत्** — for what reason (this Indra). **उपह्वरे** — in the region of the earth where [the rivers] flow crookedly. **उपराः** — established. **मध्वर्णसः** — sweet-watered. **चतस्रः** — four (principal). **नद्यः** — rivers (the Gaṅgā and the rest). **अपिन्वत्** — he made watery (full of water). **(तत् — therefore)**. **दस्मस्य** — of the handsome (the destroyer of enemies). **अस्य** — of this Indra. **तदु** — that. **कर्म** — deed. **प्रयक्षतमम्** — most worthy of worship. **दंसः** — (that same) deed. **चारुतमम्** — most auspicious.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* This Indra performed a deed (impossible for others): he gave water to the four rivers, the Gaṅgā and the rest, with sweet water, which flow over the earth. Therefore this deed of his is supremely worthy of praise and supremely auspicious.
+
+**English Translation** *(the source's own, as printed):*
+
+> The deeds of that handsome Indra are most admirable ; his exploits are most glorious in that he has replenished the four rivers of sweet water spread over the surface of the earth.
+
+---
+
+### Page 33 (PDF 51)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read; at the foot the signature mark "VI 3".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+To offer this Rik, *tad u prayakṣatamam*, in the sacrificial rite called Pravargya, the Āśvalāyana Śrauta-sūtra explains it in the sūtra "तदु प्रयक्षतममस्य कर्मात्मन्नन्नभो दुह्यते घृतं पयः" (*tad u prayakṣatamam asya karmātmann annabho duhyate ghṛtaṃ payaḥ*, "…ghee and milk are milked"), (Ā. [4-7 or 4-2, ?]).
+
+**Word notes (Kannada, with Sanskrit glosses):**
+
+- **तत् उ** (*tat u*) — *tad eva* — "that very"; "that deed".
+- **प्रयक्षतमम्** (*prayakṣatamam*) — *yakṣa pūjāyām | yakṣyate iti yakṣaḥ | atiśayena yakṣo yakṣatamaḥ | atiśayena pūjyam* — "[root] *yakṣ*, to worship; he who is worshipped is *yakṣa*; one who is worshipped in the highest degree is *yakṣatama*": "greatly worshipped; most deserving of praise".
+- **दस्मस्य** (*dasmasya*) — *dasi daṃsanadarśanayoḥ | darśanīyasyendrasya |* — "of the beautiful Indra".
+- **दंसः** (*daṃsaḥ*) — "Among the twenty-six names of 'deed' beginning with *apaḥ, apnaḥ* the word *daṃsaḥ* is read; hence *daṃsaḥ* means 'deed', a deed of daring" (Ni. [2-1, ?]).
+- **उपह्वरे** (*upahvare*) — *hvṛ kauṭilye | kauṭilyalakṣaṇagativācinātra gatimātraṃ lakṣyate | upahartavye gantavye |* — "going crookedly, or flowing".
+- **मध्वर्णसः** (*madhvarṇasaḥ*) — *madhurodakāḥ* — "rivers full of sweet water".
+- **चतस्रः** (*catasraḥ*) — "four [rivers]. The bhāṣyakāra here says four rivers, meaning four such as the Gaṅgā; but which — the Gaṅgā and the others, or other rivers — is not stated clearly anywhere. Skandasvāmin explains the word as meaning that he caused rivers to flow in all four directions."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.6 (begins; noted briefly).** **प्रयक्षतमम्**: root *yakṣ pūjāyām*; "yakṣyate iti yakṣaḥ; atiśayena yakṣaḥ yakṣatamaḥ" ('the most worshipped'); then *pra* with it by the *prādi* compound; "tatpuruṣe tulyārthatṛtīyā…" (Pā. Sū. 6-2-2, as read) gives the prior member, the indeclinable, its own accent. **दंसः**: root *dasi daṃsanadarśanayoḥ*; *curādi*, always *ātmanepada*; the *num* augment by "idito num dhātoḥ" (Pā. Sū. 7-1-58, as read); 'daṃsyate kartavyatayā dṛśyate iti daṃsaḥ karma' (that which is seen as to be done: a deed); the affix *asun* in the object sense (*sarvadhātubhyo 'sun*); since *asun* is *n*-marked, the initial acute by "ñnityādir nityam". **उपह्वरे**: root *hvṛ kauṭilye*; of the senses implied by crookedness, only the sense of motion is taken here; "upahvaranti gacchanty asmin nadyaḥ" (where rivers go): *upahvaraḥ*, a region of the earth where rivers flow; *gha* by "puṃsi saṃjñāyāṃ ghaḥ prāyeṇa" (Pā. Sū. 3-3-118, as read) in the locative sense; the root being of the *ardhadhātuka* class its *guṇa*; the *kṛt*-accent of the latter member, since the first member is a *gati* ("gatikārakopapadāt kṛt", Pā. Sū. 6-2-139 [?]); the locative singular… *(continues on p. 34.)*
+
+---
+
+### Page 34 (PDF 52)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 11 Sū. 62" as read.)*
+
+**Grammar page for Rik 62.6, concluded (noted briefly).** **उपह्वरे** *(concluded)*: the locative singular ending; its accent as above. **अपिन्वत्**: root *pivi secane*, *bhvādi*; the *num* augment by "idito num dhātoḥ"; *laṅ*, third person singular, giving *apinvat*; since *yat* ('for which reason') stands before it, the *nighāta* (lowering) of the verb is forbidden by "yad vṛttān nityam" (Pā. Sū. 8-1-66, as read), hence the word is initial-acute. **चतस्रः**: the word *catur*; before *śas* in the feminine, the substitute *catasṛ* is laid down with initial acute by "tricaturoḥ striyāṃ tisṛcatasṛ" (Pā. Sū. 7-2-99, as read); with *catasṛ + as*, where *pūrvasavarṇadīrgha* would arise, the *r*-substitution for *ṛ* by "aci ra ṛtaḥ" (Pā. Sū. 7-2-100, as read), giving *catasraḥ*. Since *catur* itself already has the initial acute, the substitute *catasṛ* too has it by *sthānivadbhāva*; yet when the initial acute of the substitute is laid down again, the *yaṇ*-substitution is treated as the old form by "acaḥ parasmin pūrvavidhau" (Pā. Sū. 1-1-57 [as read, ?]), and the final acute of "caturaḥ śasi" (Pā. Sū. 6-1-167, as read) does not arise. Here a doubt arises: because the work done is one of accent, the "na padānta-dvirvacana…" sūtra (Pā. Sū. 1-1-58) should forbid *sthānivadbhāva*, and then the earlier process would fail. The answer: by "svaradīrghayalopeṣu lopājādeśa eva na sthānivat, anyat tu sthānivad eva" (Mahābhāṣya on 1-1-58 [numerals as read: 1-1-58-1, ?]), the prohibition of *sthānivadbhāva* is only for an *ajādeśa* that is an elision; here a *yaṇ* has come, so there is no prohibition; therefore the initial-acute nipāta is not broken. The grammar for the Rik ends "॥ 6 ॥". *Grammar pages, noted briefly; sūtra numbers only where legible; the last argument is compressed in the source and my sense of it tentative [?].* *(The remainder of the page is blank but for an ornamental rule. Rik 62.6 ends here; the next printed page should begin Rik 62.7.)*
+
+---
+
+**Progress note:** Printed pp. 1–34 done (PDF 19–52): Rik 62.1–62.6 complete (62.6 on pp. 31–34: Saṃhitā, Pada, bhāṣya with grammar tail, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and word notes, grammar). Next: p. 35 (PDF 53), Rik 62.7. Open flags: Nirukta numbers [?]; reference numerals on pp. 24–34 [?] (Āśvalāyana reference [4-7 or 4-2, ?]); sūtra numbers on grammar pages tentative; "उपक्षयितरिन्द्र" and "उपरमुप्तं" in 62.5, "उपराः उप्ताः" and the ending of the bhāṣya's grammar tail ("अस्मिन्नद्य") in 62.6 doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
