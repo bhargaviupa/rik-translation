@@ -6,9 +6,10 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 MD = ROOT / 'Rigveda_Samhita_Vol2_English_Translation.md'
 LOG = ROOT / 'publish' / 'review' / 'vol2_xcheck_log.tsv'
 def bounds(s, n):
-    ms = list(re.finditer(r'(?m)^#{2,3} \[?Page (\d+)', s))
+    ms = list(re.finditer(r'(?m)^#{2,3} \[?Pages? (\d+)(?:\s*[–-]\s*(\d+))?', s))
     for k, m in enumerate(ms):
-        if int(m.group(1)) == n:
+        lo = int(m.group(1)); hi = int(m.group(2) or lo)
+        if lo <= n <= hi:
             return m.start(), (ms[k+1].start() if k+1 < len(ms) else len(s))
     raise SystemExit(f'page {n} not found')
 def apply(n, edits, clear_refs=True, note=''):

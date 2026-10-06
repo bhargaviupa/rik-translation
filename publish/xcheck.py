@@ -7,9 +7,10 @@ def section(n):
     L = MD.read_text(encoding='utf-8').split('\n')
     start = end = None
     for i, l in enumerate(L):
-        m = re.match(r'^#{2,3} \[?Page (\d+)', l)
+        m = re.match(r'^#{2,3} \[?Pages? (\d+)(?:\s*[–-]\s*(\d+))?', l)
         if m:
-            if int(m.group(1)) == n and start is None: start = i
+            lo = int(m.group(1)); hi = int(m.group(2) or lo)
+            if lo <= n <= hi and start is None: start = i
             elif start is not None and end is None: end = i; break
     return L, start, end
 if __name__ == '__main__':
