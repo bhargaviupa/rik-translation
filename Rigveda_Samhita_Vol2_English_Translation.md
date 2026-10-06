@@ -1561,8 +1561,8 @@ Formerly this word may have carried the senses "wisdom, intelligence (buddhi), s
 
 **Translation:** "In the Sārasvata tṛca (the triplet addressed to Sarasvatī), the first Ṛk is the invitatory verse (puronuvākyā) of Sarasvatī in the "sānvārambhaṇīya" sacrificial offering; and likewise, in the section beginning "darśa-pūrṇamāsārapsyamāna" (one about to begin the new- and full-moon sacrifices), the Ṛks "pāvakā naḥ sarasvatī" and "pāvīravī kanyā citrāyuḥ" are laid down in the sūtra (the source reference as printed is "ā. 2-8" [?])."
 
-> सरस्वती देवी वाजेभिर्हविर्लक्षणैरन्नैर्निमित्तभूतैः । यद्वा । यजमानेभ्यो दातव्यैरन्नैर्निमित्तभूतैः । नोऽस्मदीयं यज्ञं वष्टु । कामयताम् । कामयित्वा च निर्वहत्वित्यर्थः । तथा चारण्यककाण्डे श्रुत्यैव व्याख्यातम् । यज्ञं वष्टिवति यदाह यज्ञं वहत्विति तदाह । ऐ. आ. १-१-४ । इति । कीदृशी सरस्वती । पावका शोधयित्री वाजिनीवत्यन्नवत्क्रियावती धियावसुः कर्मप्राप्त्यधननिमित्तभूता । वाग्देवतायास्तथाविधं धननिमित्तत्वमारण्यककाण्डे श्रुत्या व्याख्यातम् । यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । ऐ. आ. १-१-४ । इति । श्येनः सोमु [?] इत्यादिषु पञ्चत्रिंशत्संख्याकेषु देवताविशेषवाचिषु पदेषु सरमा सरस्वतीति पठितम् । एतामृचं यास्क एवं व्याचष्टे । पावका नः सरस्वत्यन्नैरन्नवती यज्ञं वष्टु धियावसुः कर्मवसुः । नि. ११- …
-> *sarasvatī devī vājebhir havir-lakṣaṇair annair nimitta-bhūtaiḥ | yad vā | yajamānebhyo dātavyair annair nimitta-bhūtaiḥ | no 'smadīyaṃ yajñaṃ vaṣṭu | kāmayatām | kāmayitvā ca nirvahatv ity arthaḥ | tathā cāraṇyaka-kāṇḍe śrutyaiva vyākhyātam | yajñaṃ vaṣṭīvati yad āha yajñaṃ vahatv iti tad āha | ai. ā. 1-1-4 | iti | kīdṛśī sarasvatī | pāvakā śodhayitrī vājinīvaty annavat-kriyāvatī dhiyāvasuḥ karma-prāpty-adhana-nimitta-bhūtā | vāg-devatāyās tathāvidhaṃ dhana-nimittatvam āraṇyaka-kāṇḍe śrutyā vyākhyātam | yajñaṃ vaṣṭu dhiyāvasur iti vāg vai dhiyāvasuḥ | ai. ā. 1-1-4 | iti | śyenaḥ somu [?] ity ādiṣu pañcatriṃśat-saṃkhyākeṣu devatā-viśeṣa-vāciṣu padeṣu saramā sarasvatīti paṭhitam | etām ṛcaṃ yāska evaṃ vyācaṣṭe | pāvakā naḥ sarasvaty annair annavatī yajñaṃ vaṣṭu dhiyāvasuḥ karma-vasuḥ | ni. 11- …*
+> सरस्वती देवी वाजेभिर्हविर्लक्षणैरन्नैर्निमित्तभूतैः । यद्वा । यजमानेभ्यो दातव्यैरन्नैर्निमित्तभूतैः । नोऽस्मदीयं यज्ञं वष्टु । कामयताम् । कामयित्वा च निर्वहत्वित्यर्थः । तथा चारण्यककाण्डे श्रुत्यैव व्याख्यातम् । यज्ञं वष्टिवति यदाह यज्ञं वहत्विति तदाह । ऐ. आ. १-१-४ । इति । कीदृशी सरस्वती । पावका शोधयित्री वाजिनीवत्यन्नवत्क्रियावती धियावसुः कर्मप्राप्त्यधननिमित्तभूता । वाग्देवतायास्तथाविधं धननिमित्तत्वमारण्यककाण्डे श्रुत्या व्याख्यातम् । यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः । ऐ. आ. १-१-४ । इति । श्येनः सोम इत्यादिषु पञ्चत्रिंशत्संख्याकेषु देवताविशेषवाचिषु पदेषु सरमा सरस्वतीति पठितम् । एतामृचं यास्क एवं व्याचष्टे । पावका नः सरस्वत्यन्नैरन्नवती यज्ञं वष्टु धियावसुः कर्मवसुः । नि. ११- …
+> *sarasvatī devī vājebhir havir-lakṣaṇair annair nimitta-bhūtaiḥ | yad vā | yajamānebhyo dātavyair annair nimitta-bhūtaiḥ | no 'smadīyaṃ yajñaṃ vaṣṭu | kāmayatām | kāmayitvā ca nirvahatv ity arthaḥ | tathā cāraṇyaka-kāṇḍe śrutyaiva vyākhyātam | yajñaṃ vaṣṭīvati yad āha yajñaṃ vahatv iti tad āha | ai. ā. 1-1-4 | iti | kīdṛśī sarasvatī | pāvakā śodhayitrī vājinīvaty annavat-kriyāvatī dhiyāvasuḥ karma-prāpty-adhana-nimitta-bhūtā | vāg-devatāyās tathāvidhaṃ dhana-nimittatvam āraṇyaka-kāṇḍe śrutyā vyākhyātam | yajñaṃ vaṣṭu dhiyāvasur iti vāg vai dhiyāvasuḥ | ai. ā. 1-1-4 | iti | śyenaḥ soma ity ādiṣu pañcatriṃśat-saṃkhyākeṣu devatā-viśeṣa-vāciṣu padeṣu saramā sarasvatīti paṭhitam | etām ṛcaṃ yāska evaṃ vyācaṣṭe | pāvakā naḥ sarasvaty annair annavatī yajñaṃ vaṣṭu dhiyāvasuḥ karma-vasuḥ | ni. 11- …*
 
 **Translation:** "'Sarasvatī' — the goddess — 'vājebhiḥ': by the oblation-nature foods that are the occasion (nimitta-bhūta) — or, by the foods to be given to the sacrificers, which are the occasion — 'may she desire our sacrifice ('vaṣṭu': let her desire it); and having desired it, let her carry it through' — such is the sense. And so the Āraṇyaka section itself explains this by Śruti: '*When it says "may she desire the sacrifice" ("yajñaṃ vaṣṭu"), it says "let her carry the sacrifice."*' (Aitareya Āraṇyaka 1-1-4). What kind of Sarasvatī? 'Pāvakā' — the purifier; 'vājinīvatī' — one possessing food, possessing activity; 'dhiyāvasuḥ' — one who is the occasion for the attaining of wealth through ritual action. That the goddess of speech is, in this way, the occasion of wealth, is explained by the Śruti in the Āraṇyaka section: '*"yajñaṃ vaṣṭu dhiyāvasuḥ"* — Speech indeed is "dhiyāvasuḥ."' (Aitareya Āraṇyaka 1-1-4). Among the thirty-five words denoting particular deities, beginning with 'śyenaḥ somu [?],' 'saramā' and 'sarasvatī' are read. Yāska explains this Ṛk thus: '*"Pāvakā naḥ sarasvatī": Sarasvatī, rich in foods; "yajñaṃ vaṣṭu dhiyāvasuḥ": let her desire the sacrifice, she whose wealth is ritual action.*' (Nirukta 11-…)" *(continues on the next page)*
 
@@ -1628,8 +1628,8 @@ Before performing this Anvārambhaṇīyeṣṭi and the Darśapūrṇamāsa sac
 
 *(Continuing the list of puronuvākyā/yājyā mantras from p. 66:)*
 
-> **अग्निर्भगी [?]** — आसवं सवितुः (पुरोनुवाक्या) ऋ. सं. ७-१०३-६ [?] · स नो राधांस्या भर (याज्या) ऋ. सं. २-३५-११ [?]
-> *agnir-bhagī [?] — āsavaṃ savituḥ (puronuvākyā) ṛ. saṃ. 7-103-6 [?] · sa no rādhāṃsyā bhara (yājyā) ṛ. saṃ. 2-35-11 [?]*
+> **अग्निर्भगी** — आसवं सवितुः (पुरोनुवाक्या) ऋ. सं. ७-१०३-६ [?] · स नो राधांस्या भर (याज्या) ऋ. सं. २-३५-११ [?]
+> *agnir-bhagī — āsavaṃ savituḥ (puronuvākyā) ṛ. saṃ. 7-103-6 [?] · sa no rādhāṃsyā bhara (yājyā) ṛ. saṃ. 2-35-11 [?]*
 > Gloss: "(Of Savitṛ) the impulsion of Savitṛ…" / "Bring us, then, bounties…" [tentative; only opening words are given]
 
 That is: in this Anvārambhaṇīyeṣṭi, when the goddess Sarasvatī is invoked, the Ṛk
@@ -1780,23 +1780,23 @@ In this Ṛk the river Sarasvatī is named together with **Gaṅgā** (the Gange
 
 Sarasvatī is spoken of in the **Āprī-sūktas** as one of the three goddesses called "**tisro devyaḥ**." In the Ṛgveda Saṃhitā there are **ten** sūktas that are called Āprī-sūktas. In **Śaunaka's Anuvākānukramaṇī** the particulars of these sūktas are given thus:
 
-> श्लोकस्याश्य [?] यथासंख्यं सूक्तानि दश वै विदुः ।
-> न आ वहाग्न आ वहाद्य राजसेत्यग्निर्नि [?] च ।
+> श्लोकस्यास्य यथासंख्यं सूक्तानि दश वै विदुः ।
+> न आ वहाग्न आ वहाद्य राजसेत्यग्निर्नि च ।
 > समित्समित्सु शोचिषे जुषस्व विश्वतस्तथा ।
-> इमां मे अद्य [?] मन्विमा यूर्धर्षिपक्ष [?] आप्रियः ॥
-> वसिष्ठशुनकौ विना समिद्धः सर्वपक्षताः [?] ।
-> जुषस्वादित्तीययया [?] तनूनपाद्विरोधिता [?] ।
-> यजुः श्रुतौ तथाश्रुतेः समिद्धे सूक्तमध्यतः ।
+> इमां मे अद्य मन्विमा यथर्षिपक्ष आप्रियः ॥
+> वसिष्ठशुनकौ विना समिद्धः सर्वपक्षता ।
+> जुषस्वादिद्वितीयया तनूनपाद्विरोधिता ।
+> यजुः श्रुतौ तथाश्रुतेः समिद्धसूक्तमध्यतः ।
 > प्रजापतेः पशोः सदा भवेयुरद्य मन्विमाः ॥
 > इतीरितं हि बह्वृचैर्यथर्षि वेति सूत्रतः ॥
 >
-> *ślokasyāśya [?] yathā-saṃkhyaṃ sūktāni daśa vai viduḥ |*
-> *na ā vahāgna ā vahādya rājasety agnir ni [?] ca |*
+> *ślokasyāsya yathā-saṃkhyaṃ sūktāni daśa vai viduḥ |*
+> *na ā vahāgna ā vahādya rājasety agnir ni ca |*
 > *samit-samit-su śociṣe juṣasva viśvatas tathā |*
-> *imāṃ me adya [?] manvimā yūrdharṣi-pakṣa [?] āpriyaḥ ||*
-> *vasiṣṭha-śunakau vinā samiddhaḥ sarva-pakṣatāḥ [?] |*
-> *juṣasvādittīyayayā [?] tanūnapād-virodhitā [?] |*
-> *yajuḥ śrutau tathā-śruteḥ samiddhe sūkta-madhyataḥ |*
+> *imāṃ me adya manvimā yatharṣi-pakṣa āpriyaḥ ||*
+> *vasiṣṭha-śunakau vinā samiddhaḥ sarva-pakṣatā |*
+> *juṣasvādi-dvitīyayā tanūnapād-virodhitā |*
+> *yajuḥ śrutau tathā-śruteḥ samiddha-sūkta-madhyataḥ |*
 > *prajāpateḥ paśoḥ sadā bhaveyur adya manvimāḥ |*
 > *itīritaṃ hi bahvṛcair yathā-ṛṣi veti sūtrataḥ ||*
 >
@@ -1819,7 +1819,7 @@ Sarasvatī is spoken of in the **Āprī-sūktas** as one of the three goddesses 
 
 | No. | Opening of the sūkta | Maṇḍala–sūkta | Ṛks | Ṛṣi |
 |---|---|---|---|---|
-| 5 | **समित्समिन्मना [?]** (*samit-samin-manā [?]*) | 3–4 | 11 | गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*) |
+| 5 | **समित्समित्सुमना** (*samit-samit-sumanā*) | 3–4 | 11 | गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*) |
 | 6 | **सुसमिद्धाय शोचिषे** (*susamiddhāya śociṣe*) | 5–5 | 11 | वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*) |
 | 7 | **जुषस्वनः समिधमग्ने** (*juṣasvanaḥ samidham agne*) | 7–2 | 11 | मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇir vasiṣṭhaḥ*) |
 | 8 | **समिद्धो विश्वतस्पतिः** (*samiddho viśvataspatiḥ*) | 9–5 | 11 | काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*) |
