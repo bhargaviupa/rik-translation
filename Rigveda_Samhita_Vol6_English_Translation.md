@@ -3940,4 +3940,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–196 done (PDF 19–214): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1–66.3 complete; **Rik 66.4** (half-Ṛks 7–8) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics done (pp. 193–196); the grammar page of 66.4 not yet reached. Next: p. 197 (PDF 215), the grammar page of Rik 66.4 (if any), then Rik 66.5 (the last Rik of Sūkta 66) and the closing line; then Sūkta 67. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the "*didyut*" Nirukta number and the Ṛk 10-85-41 reference as read [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 197 (PDF 215)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Special Topics (continued and concluded; Kannada).** "…By this, for women who have undergone marriage (the sacrament called *vivāha* at the time of marriage), the three gods Soma, Gandharva and Agni become husbands by arranging in their bodies the qualities suited to the comfort that will arise, and by favouring them so that they enjoy wealth, sons and the like. A mantra says that the man is the fourth: '*turīyas te manuṣyajāḥ*'. Yāska has said this very idea: 'There is also a Veda-text, "the third, Agni, is your husband"' (Ni. 10-31).
+
+- **यद्वा** — *janīnāṃ pālayitā yato 'yam anuṣṭhitair yāgyaiḥ phalaṃ prayacchati* — "because the word *pati* is used in the sense of protecting, Agni grants the fruit appropriate to the sacrifices performed by each, and so protects the beings who have life: another meaning is also stated."
+- *Skandasvāmin* on **पतिर्जनीनाम्**: *janayantyapatyāni iti janayaḥ bhāryāḥ tāsāṃ patiḥ* — "since women who are to be kept and who bear children are the *janayaḥ*, Agni is first their husband; afterwards the man becomes the husband. '*somaḥ prathamo vivide gandharvo vivida uttaraḥ | tṛtīyo agniṣ ṭe patis turīyas te manuṣyajāḥ*' (Ṛk. Saṃhitā 10-85-40, as read). This mantra says that after the three — Soma, Gandharva and Agni — the man becomes the husband: therefore this saying has been quoted as authority. Since he is well known as *jārayitā*, *pālayitā*, the root *kan* is used in the sense of 'desire': 'those who desire', i.e. he explains that, as Agni is the cause of the [state of] ripening of their [the girls'] fruit [in the sense of maturity], he is *jāra*; and, because he protects, he is the husband." *(The Skandasvāmin passage is compressed in the print; Ṛk. 10-85-40 as read [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 66.4 (noted briefly).** **सेनेव**: "that which goes with a lord (*ina*)" = *senā*; by "vopasarjanasya" (Pā. Sū. 6-3-82, as read) the optional *sa* for *saha* when it is subordinate; *guṇa*; the form *senā*; by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member. **दधाति**: root *dudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ*, third person singular; the *nighāta* accent of a verb.
+
+---
+
+### Page 198 (PDF 216)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 66" as read.)*
+
+**Grammar page for Rik 66.4, concluded (noted briefly).** **अस्तुः**: root *asu kṣepaṇe*; in the agent sense the affix *tṛn*; in the genitive singular, by "ṛta ut" [as read: "ṛta utsupi", Pā. Sū. 6-1-111] *u* for the *ṛ*: *astuḥ*; since it ends in the *n*-marked affix, the initial acute. **त्वेषप्रतीका**: in a *bahuvrīhi*, the accent of the first member. **जनित्वम्**: root *janī prādurbhāve*; to it, by "kṛtyārthe tavaikekenañ…" (Pā. Sū. 3-4-14, as read) the affixes *tavai*, *keṇ*, *kenya*, *tvan* [and so on] come in the sense of the *kṛtya* affixes, i.e. *bhāva* and the object, so the affix *tvan* in the object sense; by "ārdhadhātukasyeḍ valādeḥ" the *iṭ* augment for the affix; the word *janitva*; since *n*-marked, by "ñnityādir nityam" the initial acute. **जारः**: "he makes old (*jarayati*)" = *jāraḥ*; root *jṝ vayohānau*; in "dārajārau kartari ṇiluk ca" (Pā. Sū. 3-3-20-4, as read, ?) *jāra* is given by *nipātana*; to this root, after the *ṇyanta* stem, the affix *ghañ*; the *luk* of *ṇi*; by the affix accent, final-acute. **कनीनाम्**: after the word *kanyā*, in the genitive plural, by "bahulaṃ chandasi" (Pā. Sū. 6-1-34, as read), by the force of the word *bahula*, *samprasāraṇa* comes; with *y* → *i* by the *samprasāraṇa*, by "samprasāraṇāc ca" the former form; with *kani + ām*, the *nuṭ* augment; by "nāmi" the lengthening: *kanīnām*. **जनीनाम्**: "those in whom [the world] is generated" are *janayaḥ*, women; by "sarvadhātubhya in" (Uṇ. Sū. 4-[117], as read) the affix *in* after the root *jan*; the word *jani*; in the genitive plural, by "hrasvanadyāpo nuṭ" the *nuṭ* augment for *ām*; by "nāmi" the lengthening of the stem-final vowel; since the affix ends in *n*-marked, the initial acute. **॥ ७–८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 66.4 ends here (ornamental rule).*
+
+#### Rik 66.5 *(printed "9 || 10 ||" — the last Rik of Sūkta 66)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; the second line is on p. 199)*
+
+> **तं वश्चराथा वयं वसत्यास्तं न गावो नक्षन्त इद्धम् ।**
+> *taṃ vaś carāthā vayaṃ vasatyāstaṃ na gāvo nakṣanta iddham |*
+
+---
+
+### Page 199 (PDF 217)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]"; at the foot, none.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 66.5 (concluded)**
+
+> **सिन्धुर्न क्षोदः प्र नीचीरैनोन्नवन्त गावः स्वर्दृशीके ॥ ९ ॥ १० ॥**
+> *sindhur na kṣodaḥ pra nīcīr ainon navanta gāvaḥ svar dṛśīke || 9 || 10 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **तम् । वः । चराथा । वयम् । वसत्या । अस्तम् । न । गावः । नक्षन्ते । इद्धम् ।**
+> **सिन्धुः । न । क्षोदः । प्र । नीचीः । ऐनोत् । नवन्त । गावः । स्वः । दृशीके ॥ ९ ॥ १० ॥**
+> *tam | vaḥ | carāthā | vayam | vasatyā | astam | na | gāvaḥ | nakṣante | iddham |*
+> *sindhuḥ | na | kṣodaḥ | pra | nīcīḥ | ainot | navanta | gāvaḥ | svaḥ | dṛśīke || 9 || 10 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 200)*
+
+> **वः इति व्यत्ययेन बहुवचनं । हे अग्ने तं त्वां चराथा । चरतीति चरथः पशुः । तत्र भवैर्हृदयादिभिः साध्याहुतिरपि चरथेत्युच्यते । उपचारात्कार्ये कारणशब्दः । चराथा चरथया पशुप्रभवहृदयादिसाधनयाहुत्या । वसत्या । वसति निवसतीति स्थावरो व्रीह्यादिर्वसतिः । पूर्ववत्तत्साध्याहुतिर्लक्ष्यते । वसत्या पुरोडाशाद्याहुत्या च वयमिद्धं प्रदीप्तमग्निं नक्षन्ते । व्याप्नुयाम । पुरुषव्यत्ययः । तत्र दृष्टान्तः । अस्तं न गावः । अस्तमिति गृहनाम । यथा गावो गृहं व्याप्नुवन्ति तद्वत् । अत्र यास्कः । तं वश्चराथा चरन्त्या पश्वाहुत्या वसत्या च निवसन्त्यौषधाहुत्यास्तं यथा गाव आप्नुवन्ति तथाप्नुयाम । नि. १०-३१ । इति । अयमग्निः सिन्धुर्न क्षोदः स्यन्दनशीलमुदकमिव नीचीर्नितरामुञ्चतीरितस्ततो नितरामुद्गच्छन्तीर्ज्वालाः प्रैनोत् । प्रेरयति । यथा जलप्रवाहो निम्नदेशे शीघ्रं गच्छति तद्वदग्नेर्ज्वाला दग्धव्यं प्रति गच्छन्तीति भावः । स्वर्नभसि वर्तमाने दृशीके दर्शनीये तस्मिन्नग्नौ गावो गमनस्वभावा रश्मयो नवन्त । संगच्छन्ते । नवतिर्गतिकर्मा ॥ चराथा । चरेरौणादिकोऽथक्प्रत्ययः । दीर्घश्छान्दसः । सुपां सुलुगिति विभक्ते-**
+> *vaḥ iti vyatyayena bahuvacanaṃ | he agne taṃ tvāṃ carāthā | caratīti carathaḥ paśuḥ | tatra bhavair hṛdayādibhiḥ sādhyāhutir api carathety ucyate | upacārāt kārye kāraṇaśabdaḥ | carāthā carathayā paśuprabhavahṛdayādisādhanayāhutyā | vasatyā | vasati nivasatīti sthāvaro vrīhyādir vasatiḥ | pūrvavat tatsādhyāhutir lakṣyate | vasatyā puroḍāśādyāhutyā ca vayam iddhaṃ pradīptam agniṃ nakṣante | vyāpnuyāma | puruṣavyatyayaḥ | tatra dṛṣṭāntaḥ | astaṃ na gāvaḥ | astam iti gṛhanāma | yathā gāvo gṛhaṃ vyāpnuvanti tadvat | atra yāskaḥ | taṃ vaś carāthā carantyā paśvāhutyā vasatyā ca nivasantyauṣadhāhutyāstaṃ yathā gāva āpnuvanti tathāpnuyāma | Ni. 10-31 | iti | ayam agniḥ sindhur na kṣodaḥ syandanaśīlam udakam iva nīcīr nitarām uñcatīr itastato nitarām udgacchantīr jvālāḥ prainot | prerayati | yathā jalapravāho nimnadeśe śīghraṃ gacchati tadvad agner jvālā dagdhavyaṃ prati gacchantīti bhāvaḥ | svar nabhasi vartamāne dṛśīke darśanīye tasminn agnau gāvo gamanasvabhāvā raśmayo navanta | saṃgacchante | navatir gatikarmā || carāthā | carer auṇādiko 'thakpratyayaḥ | dīrgha-ś chāndasaḥ | supāṃ sulug iti vibhakte-*
+> *"**Vaḥ** [is] plural by exchange: O Agni, you — **carāthā** — *caratha* is 'that which moves', an animal; the offerings accomplished by those things born of it — heart and the rest — are also called *caratha*, by transference, the word for the cause being used for the effect. **Carāthā**: by the offering that is accomplished by the heart and the rest that come from animals. **Vasatyā**: 'what dwells' is the immovable, such as rice and the like, *vasati*; as before, the offering effected by it is meant. By the offerings of the *carathā* [animal] and the *vasatyā* [cakes, etc.] **vayam**, we, **iddham**, to the kindled Agni, **nakṣante** [read as "nakṣāma" in the gloss: *vyāpnuyāma*], may we reach — a person-exchange. The example: **astaṃ na gāvaḥ**, as cows [reach] the house: *asta* is a word for 'house'. Here Yāska [says]: 'You [Agni], by the offering of the animal that moves and by the offering of the herbs that dwell, may we reach as the cows reach the house' (Ni. 10-31). This Agni, **sindhur na kṣodaḥ**, like a flowing stream, **nīcīḥ**, flames that stream downward and go up all around, **prainot** — impels; as the flow of water goes quickly to a low place, so Agni's flames go to what is to be burnt. **Svar**, in the sky [existing], in him, Agni, the beautiful to look at (**dṛśīke**), the **gāvaḥ**, the rays whose nature is to go, **navanta**, come together; *navati* is a verb of motion. **Carāthā**: the Uṇādi affix *atha* after *car*; the lengthening is Vedic; the case-ending by 'supāṃ sulug…'…"* *(the bhāṣya's grammar tail continues on p. 200.)*
+
+---
+
+**Progress note:** Printed pp. 1–199 done (PDF 19–217): Sūktas 62–65 complete. **Sūkta 66** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 66.1–66.4 complete; **Rik 66.5** (the last) — Saṃhitā, Pada and the main part of the bhāṣya done (pp. 198–199, breaking off in the grammar tail at *carāthā*). Next: p. 200 (PDF 218), the rest of the bhāṣya of Rik 66.5, its Pratipadārtha, Bhāvārtha, English, Special Topics, grammar page and the closing line of Sūkta 66; then Sūkta 67 (the next of the Twelfth Anuvāka). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–66 [?]; the Skandasvāmin passage on p. 197 and Ṛk. 10-85-40 reference as read [?]; "nakṣante/vyāpnuyāma" gloss as printed; accent marks of the Saṃhitā/Pada not reproduced.
