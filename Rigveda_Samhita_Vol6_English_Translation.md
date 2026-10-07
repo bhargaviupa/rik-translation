@@ -11351,4 +11351,106 @@ In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this
 
 ---
 
-**Progress note:** Printed pp. 1–518 done (PDF 19–536): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: Riks **78.1–78.3** complete (the grammar of 78.3 ends at the top of p. 516); **Rik 78.4** — Saṃhitā, Pada, bhāṣya (p. 516), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 517–518) done; its grammar page begins at the foot of p. 518 and continues on p. 519 (continuation to be given there). Next: p. 519 (PDF 537). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518 flagged [?].
+### Page 519 (PDF 537)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 78.4, continued from p. 518 (grammar page, noted briefly):*
+
+- **वृत्रहन्तमम्** (continued) — "…because the *n* ending [the stem] is followed by the *gha*-affix, the augment *nuṭ* comes to the *tamap* here; so the form *vṛtrahantamam* results. *Tamap* being marked *p* it is anudātta; then in the earlier member the accent of the final member of a *kṛt*-compound (*kṛduttarapadaprakṛtisvara*) comes."
+- **दस्यून्** — "since the *a*-sound in *avadhūnuṣe* is *aṭ* following, the *n* becomes *ru* by 'dīrghād aṭi samānapāde' (दीर्घादटि समानपादे, Pā. Sū. 8-3-9); here the preceding *ū* becomes nasal by 'atrānunāsikaḥ pūrvasya tu vā' (अत्रानुनासिकः पूर्वस्य तु वा, Pā. Sū. 8-3-2)."
+- **अवधूनुषे** — *ava* is the preposition; the root *dhūñ kampane* (धूञ् कम्पने); *laṭ*, second person singular; *se* by "thāsaḥ se" (थासः से, Pā. Sū. 3-4-80); the *śnu* affix by "svādibhyaḥ śnuḥ" (स्वादिभ्यः श्नुः, Pā. Sū. 3-1-73); the accent is nighāta because it is *atiṅanta* in the pāda. ||4||
+
+*Grammar page, noted briefly; the sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.5**
+
+> अवोचाम रहूगणा अग्नये मधुमद्वचः ।
+> द्युम्नैरभि प्र णोनुमः ॥ ५ ॥
+
+*avocāma rahūgaṇā agnaye madhumad vacaḥ |
+dyumnair abhi pra ṇonumaḥ ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अवोचाम । रहूगणाः । अग्नये । मधुऽमत् । वचः ।
+> द्युम्नैः । अभि । प्र । नोनुमः ॥ ५ ॥
+
+*avocāma | rahūgaṇāḥ | agnaye | madhu-mat | vacaḥ | dyumnaiḥ | abhi | pra | nonumaḥ ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> ऋषिः कृतं स्तोत्रमनयोपसंहरति । रहूगणा रहूगणस्य पुत्रा वयं गोतमा अग्नये अङ्गनादिगुणयुक्ताय [?] देवाय मधुमद्वचो माधुर्योपेतं वचनमवोचाम प्रावादिष्म । तद्वचनरूपैर्द्युम्नैर्द्योतमानैः स्तोत्रैः पुनःपुनरग्निं वयमभि प्र णोनुमः । अभिमुख्येन प्रकर्षेण स्तुमः ॥
+
+*ṛṣiḥ kṛtaṃ stotram anayopasaṃharati | rahūgaṇā rahūgaṇasya putrā vayaṃ gotamā agnaye aṅganādiguṇayuktāya [?] devāya madhumad vaco mādhuryopetaṃ vacanam avocāma prāvādiṣma | tadvacanarūpair dyumnair dyotamānaiḥ stotraiḥ punaḥ punar agniṃ vayam abhi pra ṇonumaḥ | abhimukhyena prakarṣeṇa stumaḥ ||*
+
+*Sense:* "The ṛṣi concludes the hymn made, with this (Ṛk): 'We, the Gotamas, the sons of Rahūgaṇa, have spoken (*avocāma* = *prāvādiṣma*), to Agni, the god endowed with qualities such as [the *aṅgana*… — reading uncertain [?]], sweet speech (*madhumad vacaḥ*), speech endowed with sweetness; with those shining praises that have that speech as their form, we praise Agni again and again, facing him and with eminence.'"
+
+### Page 520 (PDF 538)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.5** *(Kannada)*
+
+- **रहूगणाः** — "(we) Gotamas, born in the family of Rahūgaṇa"
+- **अग्नये** — "to Agni, of the form of a deity"
+- **मधुमद्वचः** — "this speech of the form of praise, endowed with sweetness"
+- **अवोचाम** — "we have uttered"
+- **द्युम्नैः** — "with words that make known (qualities)"
+- **अभि प्र नोनुमः** — "we praise again and again."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 78.5** *(Kannada)*
+
+"We, the Gotamas, sons of Rahūgaṇa, have praised again and again Agni, of luminous form, with sweet words that make known (his) qualities (in the form of praise)."
+
+**English Translation** *(printed in English in the source)*
+
+"The descendants of Rahugana have recited sweet speeches to Agni; we praise him repeatedly with commendatory (hymns)." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 78.5)**
+
+- **रहूगणाः** — "'Rahūgaṇa' is the name of a ṛṣi; Gotama and others, his sons; or those of the lineage of the ṛṣi Rahūgaṇa; or those related to that ṛṣi. The ṛṣi of this sūkta, Gotama, the son of Rahūgaṇa, ends the sūkta by saying that he and the other people related to him have together made this praise."
+- **मधुमत् वचः** — *mādhuryopetaṃ vacanam* — "(speech) endowed with sweetness: delightful to hear, pleasing to Agni, and so on."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.5)** *(grammar page, noted briefly; begins here, continues on p. 521)*
+
+- **अवोचाम** — the root *vac paribhāṣaṇe* (वच परिभाषणे); *luṅ*, first-person plural, with the ending *mas*; the *s* of the ending is dropped by "nityaṃ ṅitaḥ" (नित्यं ङितः, Pā. Sū. 3-4-99 [?]); for the *cli*, the affix *aṅ* by "asyativa ktikhyātibhyo 'ṅ" (अस्यतिवक्तिख्यातिभ्योऽङ्, Pā. Sū. 3-1-52 [?]); the root takes the augment *um* by "vacaūm" (वचउम्, Pā. Sū. 7-4-20 [?]) — by the *paribhāṣā* "midaco 'ntyāt paraḥ" (मिदचोऽन्त्यात्परः) the augment comes after the final vowel; guṇa; "ato dīrgho yañi" (अतो दीर्घो यञि, Pā. Sū. 7-3-101): the *a*-ending stem is lengthened before *mas* (which begins with *m*, of *yañ* class); the stem receives the augment *aṭ*. The word being at the beginning of the pāda, there is no nighāta accent; *aṭ* being udātta, the word is *ādyudātta*.
+
+*Grammar noted briefly; sūtra numerals tentative [?].*
+
+### Page 521 (PDF 539)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 78.5, continued from p. 520:*
+
+- **मधुमत्** — *madhu asya asti* = *madhumat*: the affix *matup* by "tad asyāsty asminn iti matup" (तदस्यास्त्यस्मिन्निति मतुप्, Pā. Sū. 5-2-94); because it has the mark *p*, it is anudātta; the second-case *am* following it, the *luk* of the *am* by "svamor napuṃsakāt" (स्वमोर्नपुंसकात्, Pā. Sū. 7-1-23).
+- **वचः** — the root *vac paribhāṣaṇe*; the *asun* affix (*asun*, valid after all roots) — *asun* being marked *n*, "ñnityādir nityam" (ञ्नित्यादिर्नित्यम्, Pā. Sū. 6-1-197) gives the initial udātta; second-case singular form. ||5||
+
+*Grammar noted briefly; sūtra numerals tentative [?].*
+
+**Closing line of Sūkta 78** *(Kannada, printed large)*:
+
+ಎಪ್ಪತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು. — *eppatteṃṭaneya sūktavu samāptavu.* — "The seventy-eighth sūkta is completed."
+
+## Sūkta 79
+
+### (continued on Page 521 of the print)
+
+**ಎಪ್ಪತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *eppattoṃbhattaneya sūktavu* — "The seventy-ninth sūkta."
+
+**Sāyaṇa's introduction (Sanskrit in Kannada script; doubtful places [?]):**
+
+> हिरण्यकेश इति द्वादशर्चं षष्ठं सूक्तं । रहूगणपुत्रस्य गोतमस्यार्षं । अत्रानुक्रम्यते । हिरण्यकेशो द्वादशाद्ये तृचौ त्रैष्टुभौष्णिहौ पूर्वोऽग्नये वा मध्यमायेति । पूर्वत्र गायत्रं त्रिष्टुक्चात्र [?] गायत्रं सूक्तं । एतावांस्तु विशेषः । आद्यस्तृचस्त्रैष्टुभः । द्वितीयस्तौष्णिहः । प्रथमतृचस्य मध्यमस्थानो वैद्युतोऽग्निः शुद्धाग्निर्वा देवता । शिष्टा नवर्चः केवलाग्निदेवताकाः ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दस्याश्विनशस्त्रे चाद्यस्तृचः । सूत्रितं च । हिरण्यकेश इति स्तोत्रे [?] ऽपश्यमस्य महत इति सूक्ते । आ. ४-१३ [?] । इति ॥ कारीर्यां [?] मग्नेर्धार्म[?] । हिरण्यकेश इति द्वे ऋचौ याज्यानुवाक्ये । सूत्रितं च । हिरण्यकेशो रजसो विसार इति द्वे त्वं त्या चिदच्युता धामन्ते विश्वं भुवनमधि श्रितमिति वा । आ. ३-१३ [?] । इति ॥
+
+*hiraṇyakeśa iti dvādaśarcaṃ ṣaṣṭhaṃ sūktaṃ | rahūgaṇaputrasya gotamasyārṣaṃ | atrānukramyate | hiraṇyakeśo dvādaśādyau tṛcau traiṣṭubhauṣṇihau pūrvo 'gnaye vā madhyamāyeti | pūrvatra gāyatraṃ triṣṭuk cātra [?] gāyatraṃ sūktaṃ | etāvāṃs tu viśeṣaḥ | ādyas tṛcas traiṣṭubhaḥ | dvitīyas tauṣṇihaḥ | prathamatṛcasya madhyamasthāno vaidyuto 'gniḥ śuddhāgnir vā devatā | śiṣṭā navarcaḥ kevalāgnidevatākāḥ || prātaranuvākasyāgneye kratau traiṣṭubhe chandasy āśvinaśastre cādyas tṛcaḥ | sūtritaṃ ca | hiraṇyakeśa iti stotre [?] 'paśyam asya mahata iti sūkte | Āś. 4-13 [?] | iti || kārīryāṃ [?] magner dhārma[?] | hiraṇyakeśa iti dve ṛcau yājyānuvākye | sūtritaṃ ca | hiraṇyakeśo rajaso visāra iti dve tvaṃ tyā cid acyutā dhāmante viśvaṃ bhuvanam adhi śritam iti vā | Āś. 3-13 [?] | iti ||*
+
+*Sense (as far as legible):* "*Hiraṇyakeśa* — the sixth sūkta, of twelve Ṛks; the ṛṣi is Gotama, the son of Rahūgaṇa. Here the Anukramaṇī states: '*Hiraṇyakeśa* — twelve; the first two triads are Triṣṭubh and Uṣṇih respectively; the first is to Agni, or the middle one [the lightning-Agni] (…)' — [the sūkta is] Gāyatra in the previous (sūkta); in this one, Triṣṭubh [?]… This much is the difference: the first triad is Traiṣṭubha (in Triṣṭubh); the second is Auṣṇiha (in Uṣṇih). For the first triad the deity is the Agni of the middle region, the lightning-Agni, or else pure Agni; the remaining nine Ṛks are exclusively to Agni. In the *Prātaranuvāka*, in the Āgneya rite, in the Triṣṭubh metre, and in the Āśvina-śastra the first triad (is used). It is also stated in the sūtra: '(the Ṛks) *hiraṇyakeśa* in the *stotra*; *apaśyam asya mahataḥ* in the sūkta' (Āśvalāyana 4-13 [?]). In the *Kārīrī* [?] (…) the two Ṛks *hiraṇyakeśa* are *yājyā* and *anuvākyā*. And it is stated: 'the two (beginning) *hiraṇyakeśo rajaso visāraḥ*, or *tvaṃ tyā cid acyutā*, *dhāmante viśvaṃ bhuvanam adhi śritam*' (Āśv. 3-13 [?])."
+
+*Reading notes:* the stretch beginning *kārīryām* is compressed and partly illegible at 150 dpi; I give only what I can read and have not guessed the rest.
+
+**Anuvāda (Kannada), beginning:** "*Hiraṇyakeśa* — this sūkta is the sixth sūkta in the thirteenth anuvāka; in it there are twelve Ṛks. The ṛṣi of this sūkta is Gotama, the son of Rahūgaṇa. The Anukramaṇikā says: '*hiraṇyakeśo dvādaśādyau tṛcau traiṣṭubhauṣṇihau pūrvo 'gnaye vā madhyamāyeti*.' As has been said before, though this sūkta is *gāyatrī* in its metre, [the text breaks off at the foot of the page and continues on p. 522.]"
+
+---
+
+**Progress note:** Printed pp. 1–521 done (PDF 19–539): **Sūktas 62–78 complete** (Sūkta 78's closing line, p. 521: "eppatteṃṭaneya sūktavu samāptavu"). **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; first triad Triṣṭubh to the middle-region/lightning Agni, second triad Uṣṇih, the rest Agni) begun: Sāyaṇa's introduction and the first part of the Anuvāda (p. 521) done; the Anuvāda breaks off at the foot of p. 521 and continues on p. 522 (PDF 540), then the heading block and Rik 79.1. Next: p. 522 (PDF 540). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518; the compressed *kārīryām* passage of the Sūkta 79 introduction.
