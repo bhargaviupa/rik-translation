@@ -7829,4 +7829,36 @@ adha kṣaranti sindhavo na sṛṣṭāḥ pra nīcīr agne aruṣīr ajānan |
 
 ---
 
-**Progress note:** Printed pp. 1–379 done (PDF 19–397): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.9 complete; **Rik 72.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (*yat akṣī akṛṇvan*, *akṣī*) done (pp. 377–379); the Special Topics may continue on p. 380; its grammar page and the closing line of Sūkta 72 not yet seen. Next: p. 380 (PDF 398); that completes Sūkta 72 and the user's "next 2 sūktas" request (Sūktas 71 and 72). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya passage on p. 379 read from small print, one sentence unread [?].
+### Page 380 (PDF 398)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.10 (concluded)**
+
+- **सिन्धवो न** — *nadya iva* — "'like rivers'. Since *avanayaḥ*, *yahvyaḥ* and so on are read among the thirty-odd [as read, ?] names of rivers, the word *sindhavaḥ* is read among the river-names (Ni. [1-13?])."
+- **अरुषीः** — "The word *aruṣī* is read among the sixteen names of dawn, *vibhāvarī*, *sūnarī* and so on (Ni. [1-8?]). *Rocamānāḥ*, *nirmalarūpāḥ* — 'shining, of spotless form': he explains the meaning as 'brilliant, perfectly pure'. After Agni's *ājyabhāga* oblation is made, the pure flames produced from Agni light up all the directions, like swiftly flowing rivers; the gods who have come for the sacrifice know with delight that these flames of Agni have arisen for the oblation that is going on for their joy."
+- *Skandasvāmin* — "*ahorātre vibhāgārthaṃ yad daiva sūryācandramasau devau udepīpadan tad eva tvām agniṃ dīptimantam akārṣuḥ* [as read, doubtful [?]]. The word *akṣī* in the dual denotes the two things distinguished by the number 'two', and being a word for 'eyes', it means the sun and the moon, which make light. When the gods, to show the distinction between days and nights in the world, made the sun and the moon into eyes giving light, [at that time] they likewise made the flames in Agni shine with a radiance more excellent than before. O Agni, the oblations offered in you by the sacrificers go downward, like rivers flowing toward their own places, in the form of rain for the benefit of the world; and, knowing that such a lustre belongs to Agni, the wise know you — to bring out that sense, he connects the words: 'O Agni, in you indeed … from that time the wise also began to know you'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.10, noted briefly; not transcribed)*
+
+Words treated: *dadhuḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person plural; nighāta because it follows an *atijanta*); *divaḥ* (genitive singular; the ending acute by *ūḍidaṃpadādi…*, Pā. [6-1-171]); *akṣī* (the word *akṣi* is a neuter noun; before the dual ending, *num* would arise, but, setting aside the *num*, *ī* is substituted for the stem's final by *akṣṇo dvivacane* [as read, Pā. [6-1-22?]]; since the substituted *ī* is udātta, and since it merges with the ending's *au*-replacement … *ekādeśa* … acute by *ekādeśa udātto 'nudāttasya…*, Pā. [8-2-5]; though this rule … *num* is not expected again: by the maxim *sakṛdgatau vipratiṣedhe yad bādhitaṃ tad bādhitam eva* — "what has been set aside once by conflict is set aside altogether", Paribhāṣā [40?] — it has no revival). *(Continued on p. 381.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 381 (PDF 399)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 72.10 (concluded; noted briefly)**
+
+*akṛṇvan* (root *kṛvi hiṃsākaraṇayoś ca*; *laṅ*, third person plural; its process was explained in the preceding mantra; since *yat* is connected before it, nighāta is prohibited by *yaddhṛttānnityam*; since the *aḍ*-augment is udātta, the word has the initial acute); *sṛṣṭāḥ* (root *sṛja visarge*; *kta* in the passive; *ṣatva* for the *ja* by *vraścabhrasja…*; since *ṣ* is connected, *ṭhatva* for the affix's *t* by *ṣṭunā ṣṭuḥ*; final acute by the affix's accent); *nīcīḥ* (root *añcu gatipūjanayoḥ*, with the prefix *ni*; the *kvin* affix by *ṛtvigdadhṛk…*, Pā. [3-2-59]; loss of the root's penultimate nasal by *anidiśāṃ halām…*; when the feminine is intended, *ṅīp* by *añcater…*; loss of the *a* of the root by *aco 'ñcaḥ*, Pā. [6-4-138]; since the root *añc*, whose *a* and *n* are lost, follows, the first member gets lengthening by *cau*, Pā. [6-3-138]: *nīcī*; by *nyadhī ca*, Pā. [6-2-52], the *gati* *ni* keeps its natural accent; before *jas*, the lengthening of the earlier similar vowel by *vā chandasi*); *aruṣīḥ* (*aruṣam* is a name of form; root *ṛ gatau*; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-?]; "possessing *aruṣa*" — this affix in the possessive sense by *chandasīvanipau*; loss of the *a* by *yasyeti ca*; lengthening of the earlier similar vowel in the nominative plural); *ajānan* (explained in the earlier mantra). Ends [with the sūkta's closing line]:
+
+> ಎಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು
+
+*(eppatteraḍaneya sūkta samāptavu* — "The seventy-second sūkta is concluded.")*
+
+**— End of Sūkta 72.** *(Sūkta 72: ten Ṛks, Agni; Parāśara Śākti; Triṣṭup. The varga numerals of its pages are as read, [?], and have not been reconciled.)*
+
+---
+
+**Progress note:** Printed pp. 1–381 done (PDF 19–399): **Sūktas 62–72 complete** (Sūkta 71's closing line on p. 332; Sūkta 72's on p. 381: "eppatteraḍaneya sūkta samāptavu"). The user's latest "next 2 sūktas" request (Sūktas 71 and 72) is therefore finished. Next: p. 382 (PDF 400), the heading of **Sūkta 73** (to be viewed first — introduction and the number of Ṛks not yet seen). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–72 [?]; accent marks not reproduced; the Taittirīya passage on p. 379 (one sentence unread) and the Skandasvāmin note on p. 380 doubtful [?].
