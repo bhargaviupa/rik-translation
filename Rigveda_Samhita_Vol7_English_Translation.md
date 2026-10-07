@@ -2185,4 +2185,95 @@ grāvā yatra vadati kārur ukthyas tasyed indro abhipitveṣu raṇyati ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–80 done (PDF 16–95) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–81): Riks **83.1–83.5 complete**; **Rik 83.6** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics (pp. 77–80) done; its grammar page is begun on p. 80 (*vṛjyate*, *āghoṣate*, *raṇyati*) and ends on p. 81 (PDF 96), where Sūkta 84 then begins. Next: printed p. 81 (PDF 96). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76; Ṛgveda reference numerals on pp. 79–80 [?].
+### Page 81 (PDF 96)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "6 … VOLUME 7" at the foot.)*
+
+*Grammar of Rik 83.6, concluded (grammar page, noted briefly):*
+
+- **रण्यति** (concluded) — "…the change that comes at the end of the root — namely the substitution of *ṇ* for the *m* — is to be called a Vedic one; for this no *anuśāsana* (rule) is needed. Or the root is *raṇa śabde*; since it is *bhvādi*, the stem-marker *śap* is obtained, and, as before, *śyan* is to be enjoined by *vyatyaya*; as no Vedic alteration is supposed here, there is economy (*lāghava*). In the third person singular the form *raṇyati* results. By "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28) total anudātta would arise, since *abhipitveṣu* [an *atiṅanta*] precedes the *tiṅanta*." ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+*(No separate closing line "…sūktavu samāptavu" is printed for Sūkta 83; the title of Sūkta 84 follows directly.)*
+
+## Sūkta 84
+
+**ಎಂಭತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು** — *eṃbhattanālkaneya sūktavu* — "The eighty-fourth sūkta."
+
+**Sāyaṇa's introduction (Sanskrit in Kannada script; doubtful places [?]):**
+
+> असावीति विंशत्यृचमेकादशं सूक्तं । अत्रानुक्रम्यते । असावि विंशतिः षळनुष्टुभ उष्णिहः पङ्क्तिगायत्रीत्रिष्टुभस्तृचाः प्रागाथ इति । आदितः षडनुष्टुभः । सप्तम्याद्यास्तिस्र उष्णिहः । दशम्याद्यास्तिस्रः पङ्क्तयः । त्रयोदश्याद्यास्तिस्रो गायत्र्यः । षोडशाद्यास्तिस्रस्त्रिष्टुभः । एकोनविंशी बृहती विंशी सतोबृहती । अनुवर्तनाद्गोतम ऋषिः । अनादेशपरिभाषयेन्द्रो देवता ॥ सूक्तविनियोगो लैङ्गादनगन्तव्यः [?] ॥ अविहृतषोडशिशस्त्र आद्या तृचौ स्तोत्रियानुरूपौ । सूत्रितं च । अथ षोडशिसावि सोम इन्द्र त इति स्तोत्रियानुरूपौ । आ. ६-२ [?] इति ॥ अभिप्लवेकेषूक्थ्येषु तृतीयसवने ऽच्छावाकस्येमावेव तृचावैकल्पिकौ स्तोत्रियानुरूपौ । ऐ… [?] । अस्य… [?] । असावि सोम इन्द्र त इममिन्द्र सुतं पिब । आ. ७-८ [?] इति ॥
+
+*asāvīti viṃśatyṛcam ekādaśaṃ sūktaṃ | atrānukramyate | asāvi viṃśatiḥ ṣaḷanuṣṭubha uṣṇihaḥ paṅktigāyatrītriṣṭubhas tṛcāḥ prāgātha iti | āditaḥ ṣaḍanuṣṭubhaḥ | saptamyādyās tisra uṣṇihaḥ | daśamyādyās tisraḥ paṅktayaḥ | trayodaśyādyās tisro gāyatryaḥ | ṣoḍaśādyās tisras triṣṭubhaḥ | ekonaviṃśī bṛhatī viṃśī satobṛhatī | anuvartanād gotama ṛṣiḥ | anādeśaparibhāṣayendro devatā || sūktaviniyogo laiṅgādanagantavyaḥ [?] || avihṛtaṣoḍaśiśastra ādyā tṛcau stotriyānurūpau | sūtritaṃ ca | atha ṣoḍaśisāvi soma indra ta iti stotriyānurūpau | Āś. 6-2 [?] iti || abhiplavekeṣūkthyeṣu tṛtīyasavane 'cchāvākasyemāv eva tṛcāv aikalpikau stotriyānurūpau | Ai… [?] | asya… [?] | asāvi soma indra ta imam indra sutaṃ piba | Āś. 7-8 [?] iti ||*
+
+*Sense (as far as legible):* "*Asāvi* — the eleventh sūkta (of the thirteenth anuvāka), of twenty Ṛks. The Anukramaṇī says: '*asāvi* — twenty: six Anuṣṭubh, Uṣṇih, and the triads in Paṅkti, Gāyatrī and Triṣṭubh; a *prāgātha*.' The first six are Anuṣṭubh; from the seventh three are Uṣṇih; from the tenth three are Paṅkti; from the thirteenth three are Gāyatrī; from the sixteenth three are Triṣṭubh; the nineteenth is Bṛhatī and the twentieth Satobṛhatī. The ṛṣi is Gotama, by continuation; the deity is Indra by the rule of 'no (other) assignment'. The application of the sūkta is to be understood by indication [?]. In the *Ṣoḍaśin-śastra* (*avihṛta*, 'unseparated') the first two triads are *stotriya* and *anurūpa*; it is stated in the sūtra: '*atha ṣoḍaśi — asāvi soma indra te* — the *stotriya* and *anurūpa*' (Āś. 6-2 [?]). In the *abhiplava* *ukthya* (rites), at the third pressing, these very two triads are optional *stotriya* and *anurūpa* of the *Acchāvāka* (the rest of this sentence is broken in the print [?]); it is stated: '*asāvi soma indra te*; *imam indra sutaṃ piba*' (Āś. 7-8 [?])."
+
+**Anuvāda (Kannada):** "*Asāvi soma* — this sūkta is the eleventh in the thirteenth anuvāka. There are twenty Ṛks in it. The Anukramaṇikā says '*asāvi viṃśatiḥ ṣaḷanuṣṭubha uṣṇihaḥ paṅktigāyatrītriṣṭubhas tṛcāḥ prāgātha*'. That is: the first six Ṛks of this sūkta are in the *anuṣṭubh* metre; from seven, three Ṛks are in *uṣṇik*; from ten, three Ṛks in *paṅkti*; from thirteen, three Ṛks in *gāyatrī*; from sixteen, three Ṛks in *triṣṭubh*; the nineteenth Ṛk is in *bṛhatī* and the twentieth in *satobṛhatī*. The ṛṣi of this sūkta is Gotama; the deity is Indra; the application of the sūkta follows from the sense. In the *Ṣoḍaśin-śastra* mantras (*avihṛta*) the first six Ṛks (two triads) are to be recited as *stotriya* mantras, as explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*atha ṣoḍaśi: asāvi soma indra te iti stotriyānurūpau*'; and also in the *Abhiplava* and *Ṣaḍaha* sacrifices the sage called *Acchāvāka*, in the third-pressing rite, may optionally recite these two triads — the first six Ṛks — as *stotriya* mantras in the *ukthya-śastra*; this is indicated in the section *ayūṣu* of the Āśvalāyana Śrauta-sūtra by the sūtra '*asāvi soma indra te imam indra sutaṃ piba*'." *(the Sanskrit and Kannada differ slightly in the sūtra citations; recorded as printed; reference numerals [?])*
+
+### Page 82 (PDF 97)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ८४ (Sūkta 84)**
+
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—८४ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 84.*
+॥ अष्टक—१ ॥ अध्याय—६ ॥ वर्ग—[६, ७, ८, ९?] ॥ — *Aṣṭaka 1; Adhyāya 6; Varga "6, 7, 8, 9" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 20. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Indra. *Chandas:* 1–6 Anuṣṭubh; 7–9 Uṣṇih; 10–12 Paṅkti; 13–15 Gāyatrī; 16–18 Triṣṭubh; 19 Bṛhatī; 20 Satobṛhatī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.1**
+
+> असावि सोम इन्द्र ते शविष्ठ धृष्णवा गहि ।
+> आ त्वा पृणक्त्विन्द्रियं रजः सूर्यो न रश्मिभिः ॥ १ ॥
+
+*asāvi soma indra te śaviṣṭha dhṛṣṇav ā gahi |
+ā tvā pṛṇaktv indriyaṃ rajaḥ sūryo na raśmibhiḥ ||1||*
+
+### Page 83 (PDF 98)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> असावि । सोमः । इन्द्र । ते । शविष्ठ । धृष्णो इति । आ । गहि ।
+> आ । त्वा । पृणक्तु । इन्द्रियम् । रजः । सूर्यः । न । रश्मिऽभिः ॥ १ ॥
+
+*asāvi | somaḥ | indra | te | śaviṣṭha | dhṛṣṇo iti | ā | gahi | ā | tvā | pṛṇaktu | indriyam | rajaḥ | sūryaḥ | na | raśmi-bhiḥ ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र ते त्वदर्थं सोम असावि । अभिषुतोऽभूत् । हे शविष्ठातिशयेन बलवन् अत एव धृष्णो शत्रूणां धर्षयितरिन्द्र आ गहि । देवयजनदेशमागच्छ । आगतं त्वामिन्द्रियं सोमपानेनोत्पन्नं प्रभूतं सामर्थ्यमा पृणक्तु । आपूरयतु । रजोऽन्तरिक्षं रश्मिभिः किरणैः सूर्यो न । यथा सूर्यः पूरयति तद्वत् ॥ शविष्ठ । शवस्विन्नाद्विष्ठनि इन्मतोर्लुक् । टेरिति टिलोपः । पादादित्वान्निघाताभावः । गहि । गमेर्लोटि बहुलं छन्दसीति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तस्यासिद्धवदत्राभादित्यसिद्धवत्त्वाद्धेर्लुगभावः ॥ १ ॥
+
+*he indra te tvadarthaṃ soma asāvi | abhiṣuto 'bhūt | he śaviṣṭhātiśayena balavan ata eva dhṛṣṇo śatrūṇāṃ dharṣayitar indra ā gahi | devayajanadeśam āgaccha | āgataṃ tvām indriyaṃ somapānenotpannaṃ prabhūtaṃ sāmarthyam ā pṛṇaktu | āpūrayatu | rajo 'ntarikṣaṃ raśmibhiḥ kiraṇaiḥ sūryo na | yathā sūryaḥ pūrayati tadvat || śaviṣṭha | śavasvin nād viṣṭhani inmatorluk | ṭer iti ṭilopaḥ | pādādityān nighātābhāvaḥ | gahi | gamer loṭi bahulaṃ chandasīti śapo luk | anudāttopadeśety ādinānunāsikalopaḥ | tasyāsiddhavad atrābhād ity asiddhavattvād her lugabhāvaḥ || 1 ||*
+
+*Sense:* "O Indra, Soma has been pressed (*asāvi*) for you. O *śaviṣṭha* — exceedingly mighty — and therefore *dhṛṣṇo*, subduer of enemies, come (*ā gahi*) to the place of sacrifice. May *indriya* — the abundant power arisen from drinking Soma — fill (*ā pṛṇaktu*) you, as the sun fills the *rajas*, the middle region, with his rays." *The grammatical tail* (characterized): *śaviṣṭha* — *iṣṭhan* after *śavasvin* with loss of the *vin*; *ṭi* dropped; no nighāta at the head of the pāda; *gahi* — the *loṭ* of *gam*, *luk* of *śap*, the nasal dropped; the *hi* is not dropped because its alteration is treated as non-effective (*asiddhavat*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.1** *(Kannada)*
+
+- **इन्द्र** — "O Indra"
+- **ते** — "for you"
+- **सोमः** — "Soma juice"
+- **असावि** — "has been pressed"
+- **शविष्ठ** — "O most strong one"
+- **धृष्णो** — "(therefore) subduer of enemies"
+- **आगाहि** — "kindly come (to the place of the divine sacrifice)"
+- **(त्वा)** — "you"
+- **इन्द्रियम्** — "abundant strength (obtained by drinking Soma)"
+- **रजः** — "the middle region"
+- **रश्मिभिः** — "with rays"
+- **सूर्यः न** — "as the sun fills"
+- **आ पृणक्तु** — "may it fill fully."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.1** *(Kannada)*
+
+"O Indra, Soma juice has been pressed and made ready for you. O exceedingly mighty one, and therefore subduer of enemies, graciously come to the place of the divine sacrifice. As the sun fills the middle region with his rays, may the abundant strength gained by drinking Soma juice fill your whole body."
+
+**English Translation** *(printed in English in the source)*
+
+"O Indra, the Soma has been expressed for you ; mightiest and brave Indra, come ( to our sacrifice ) ; may strength inspired by Soma-libations, fill you as the Sun fills the firmament with his rays." — as printed.
+
+---
+
+**Progress note:** Printed pp. 1–83 done (PDF 16–98) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete** (Sūkta 83: six Ṛks, pp. 55–81; no separate closing line in the print). **Sūkta 84** (twenty Ṛks: 1–6 Anuṣṭubh, 7–9 Uṣṇih, 10–12 Paṅkti, 13–15 Gāyatrī, 16–18 Triṣṭubh, 19 Bṛhatī, 20 Satobṛhatī; Indra; Gotama Rāhūgaṇa; the eleventh sūkta of Anuvāka 13; printed pp. 81–142; Varga "6, 7, 8, 9" as read [?]) begun: introduction, Anuvāda (p. 81), heading (p. 82) and **Rik 84.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (pp. 82–83) done; the Special Topics and grammar of 84.1 not yet seen. Next: printed p. 84 (PDF 99). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–80; the application sentences of the Sūkta 84 introduction (p. 81) partly broken [?].
