@@ -12897,4 +12897,61 @@ yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–568 done (PDF 19–586): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: **Rik 80.1 complete** (grammar pp. 566–567); **Rik 80.2** — Saṃhitā (p. 567), Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 568) done; the source's English, Special Topics and grammar of 80.2 not yet seen. Next: p. 569 (PDF 587). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 569 (PDF 587)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**English Translation** *(Rik 80.2; printed in English in the source)*
+
+"That exceedingly exhilarating Soma-juice, which was brought by the hawk (from heaven), when poured forth, has exhilarated you, so that in your vigour, thunderer, you have struck Vritra from the sky, manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.2)**
+
+- **वृषा** — *secanasvabhāvaḥ* — "Sāyaṇa explains it as 'Soma, who has the nature of sprinkling with waters'; and Skandasvāmin explains it as follows, quoting the Nirukta: '*varṣitā yaś cītvā indro varṣati tad idaṃ soma eva upacaryate*' [the quotation is read with doubt [?]] — 'when Indra, gratified by drinking Soma, makes it rain, the cause of this being Soma, the word *varṣitā* is used figuratively (*aupacārika*) of Soma'."
+- **मदः** — *sutaḥ; madakaraḥ harṣakārī, abhiṣutaḥ* — "the word *madaḥ* is used in the sense of that which produces intoxication or produces joy; the word *sutaḥ* in the sense 'pressed' as before."
+- **श्येनाभृतः** — *śyenarūpam āpannayā pakṣyākārayā gāyatryā divas sakāśād āhṛtaḥ* — "because the Gāyatrī, taking the form of a falcon (a bird), brought Soma from heaven, Soma is here called *śyenābhṛta*. This story is well known in the Aitareya Brāhmaṇa (Ai. Br. [3-25] [?]). In the Taittirīya Brāhmaṇa also it is said: '*tṛtīyasyām ito divi soma āsīt taṃ gāyatry aharat*' (*'in the third (world) from here, in heaven, Soma was; Gāyatrī carried him off'*); and in the Taittirīya Saṃhitā it is stated: '*sābravīt tṛtīyasyām ito divi somas tam āhara*' (*'she said: "In the third (world) from here, in heaven, is Soma; bring him"'*). Like a king, Soma was in heaven; he was not on earth. The ṛṣis and the gods considered how to bring Soma to the earth. Then they requested the metres: 'You bring Soma and come.' The metres, consenting to their request, took the form of birds and flew upward. Of them all the *Jagatī* metre flew up first, but she grew weary in the middle of the way, and brought only the sacrificial gift (*dakṣiṇā*, the gift given in the sacrifice) and *tapas*. After that the *Triṣṭubh* metre flew up, grew weary in the middle of the way, and brought only the gift. She could not bring Soma. Then the Gāyatrī flew up in the form of a bird. She made for the place where Soma was, and" *(the account runs on to p. 570; split where the print splits it)*
+
+### Page 570 (PDF 588)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.2, continued:*
+
+"…frightening the guardians of Soma, she seized Soma with her feet and her beak and brought him to the earth. This is described in the Aitareya Brāhmaṇa by the word *śyenabhṛtaḥ*. For that very reason the word is here used as *śyenābhṛtaḥ*, 'brought by the Gāyatrī in the form of a falcon'."
+- **अद्भ्यः** — *antarikṣasakāśāt vṛtraṃ niḥ jaghantha* — "*hatavān asi*: you killed (Vṛtra) *yena* — by the drinking of which (Soma)", or 'for drinking'; thus the sense. The word *āpaḥ* denotes the *antarikṣa* (Ni. [2-10] [?]); *vṛtra* means the demon Vṛtra. Sāyaṇa says: 'you struck Vṛtra in the *antarikṣa*, being strong because of drinking Soma, or for the sake of drinking Soma.' *Vṛtram* — *megham asāmarthyāya nijaghantha, nikṣayeṇa haṃsi hatavān vā* — 'you strike the cloud strongly for the sake of water, or you have struck it' — that is, 'you make it rain from the clouds'; so Skandasvāmin also explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.2)** *(grammar page, noted briefly; runs to p. 571)*
+
+- **अमदत्** — the root *madī harṣe* (मदी हर्षे); since the sense is the action of the instigator, the affix *ṇic* by "hetumati ca" (Pā. Sū. 3-1-26); by "ata upadhāyāḥ" the vṛddhi of the penultimate, because of it; since it is read among the *ghaṭādi* roots as "madī harṣaglapanayoḥ" it has the designation *mit* in the sense of joy; by "mitāṃ hrasvaḥ" (मितां ह्रस्वः, Pā. Sū. 6-4-92) the penultimate is shortened again; after the *ṇic*-ending stem, *laṅ*, third person singular, *tip*; the *i* dropped by "iteś ca"; *śap*; by "chandasy ubhayathā" *śap* has the *ārdhadhātuka* designation, so the *ṇi* is elided by "ṇer aniṭi" (Pā. Sū. 6-4-51); the augment *aṭ* for the stem; nighāta accent, since *atiṅanta* in the pāda.
+- **अद्भ्यः** — *āp* here is the name of the *antarikṣa* (the sky); it is plural and feminine; in the ablative with *bhyas* — a *bhakārādi* (beginning with *bh*) affix following — the *p* becomes *t* by "apo bhi" (अपो भि, Pā. Sū. 7-4-48); the *s* of the ending becomes *ru*, then visarga; by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-171) the case-ending takes the udātta.
+- **जघन्थ** — the root *han hiṃsāgatyoḥ* (हन हिंसागत्योः); *liṭ*, second person singular, *thal* for *sip* by "parasmaipadānāṃ ṇalatusus…" (Pā. Sū. 3-4-82); since the *liṭ* is *ṇit*, reduplication of the root; the *hal*-initial remains in the reduplicative; *ha* → *ja* (by *cuṭva*); "abhyāsāc ca" (अभ्यासाच्च, Pā. Sū. 7-3-55) turns the *h* of the root following the reduplicative into *k*-class (*gh*); "kṛsṛbhṛ…" (कृसृभृवृस्तुद्रुस्रुश्रुवो लिटि, Pā. Sū. 7-2-13) bars the augment *iṭ* in the *liṭ* — this sūtra being restricted to the roots it names, the augment would arise here for *thal*, but "upadeśe 'tvataḥ" (उपदेशेऽत्वतः, Pā. Sū. 7-2-62 [?]) bars it again since the root has *a*-vowel and is a root of that kind; the *n* turns to anusvāra, then parasavarṇa — *jaghantha*. Because of connection with *yat* (*yena*) there is no nighāta, by "yadvṛttān nityam" (Pā. Sū. 8-1-66); since the affix is *ṇit*, by "liti" (Pā. Sū. 6-1-193) the syllable before the affix takes the udātta.
+
+### Page 571 (PDF 589)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.2, continued from p. 570:*
+
+- **अर्चन्** — the root *arca pūjāyām* (अर्च पूजायाम्); *śatṛ* in the sense of *laṭ*; *śap*; "ato guṇe" (Pā. Sū. 6-1-97) gives the following form; since the first-case ending *su* follows, the augment *num* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ"; "hal-ṅyābbhyo…" elides the *su*; by *saṃyogāntalopa* the *t* is dropped; *śap* and the *lasārvadhātuka* being anudātta, the root's accent remains. ||2||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.3**
+
+> प्रेह्यभीहि धृष्णुहि न ते वज्रो नि यंसते ।
+> इन्द्र नृम्णं हि ते शवो हनो वृत्रं जया अपोऽर्चन्ननु स्वराज्यम् ॥ ३ ॥
+
+*prehy abhīhi dhṛṣṇuhi na te vajro ni yaṃsate |
+indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> प्र । इहि । अभि । इहि । धृष्णुऽहि । न । ते । वज्रः । नि । यंसते ।
+> इन्द्र । नृम्णम् । हि । ते । शवः । हनः । वृत्रम् । जयाः । अपः ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ३ ॥
+
+*pra | ihi | abhi | ihi | dhṛṣṇu-hi | na | te | vajraḥ | ni | yaṃsate | indra | nṛmṇam | hi | te | śavaḥ | hanaḥ | vṛtram | jayāḥ | apaḥ | arcan | anu | sva-rājyam ||3||*
+
+---
+
+**Progress note:** Printed pp. 1–571 done (PDF 19–589): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.2 complete** (grammar of 80.2 on pp. 570–571; the source's English and Special Topics on pp. 569–570); **Rik 80.3** — Saṃhitā and Pada (p. 571) done. Next: p. 572 (PDF 590) — bhāṣya of 80.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
