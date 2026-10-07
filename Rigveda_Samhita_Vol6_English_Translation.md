@@ -4551,4 +4551,64 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–227 done (PDF 19–245): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 68.1 complete; **Rik 68.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar page begun (p. 227, ending at *śuṣkāt*). Next: p. 228 (PDF 246), the grammar page of Rik 68.2 concludes; then Riks 68.3–68.5 and the closing line of Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the grammar of *ūrṇot* (p. 225) compressed and tentative [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 228 (PDF 246)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**Grammar page for Rik 68.2, concluded (noted briefly).** **शुष्कात्** *(concluded)*: *ṣṭutva* for the affix's *t* [giving *k*]; the *th*-final changed to *k*; the form *śuṣka*. **जनिष्ठाः**: root *janī prādurbhāve*; in the present sense as before, the *luṅ*; in the second person singular, the affix *thās*; the *sic* for *cli* by "cleḥ sic"; for it the augment *iṭ*; by "ādeśapratyayayoḥ" *ṣ*; by *ṣṭutva* the *th* [of *thās*] becomes *ṭh*; no *aṭ* as before; since *yat* precedes, the *nighāta* does not come; the root accent gives the initial acute. **भजन्ते**: the Vedic *laṭ* [print: *laṅ*] in the present sense as before; since at the beginning of the *pāda*, no *nighāta*; since it follows a stem accented by the *upadeśa*, the *laṭ*-sārvadhātuka is unaccented by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam"; the root accent gives the initial acute. **एवैः**: "hymns that go (*yanti*) turned toward the one to be praised" = *evāni stotrāṇi*; root *iṇ gatau*; by "iṇśībhyāṃ van" (Uṇ. Sū. 1-[153], as read) the affix *van*; because the affix conditions it, *guṇa* of the root; by "ñnityādir nityam" the initial acute, since *n*-marked; in the instrumental plural, *evaiḥ*. **॥ ३–४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 68.2 ends here (ornamental rule).*
+
+#### Rik 68.3 *(printed "5 || 6 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **ऋतस्य प्रेषा ऋतस्य धीतिर्विश्वायुर्विश्वे अपांसि चक्रुः ।**
+> **यस्तुभ्यं दाशाद्यो वा ते शिक्षात्तस्मै चिकित्वान्रयिं दयस्व ॥ ५ ॥ ६ ॥**
+> *ṛtasya preṣā ṛtasya dhītir viśvāyur viśve apāṃsi cakruḥ |*
+> *yas tubhyaṃ dāśād yo vā te śikṣāt tasmai cikitvān rayiṃ dayasva || 5 || 6 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **ऋतस्य । प्रेषाः । ऋतस्य । धीतिः । विश्वऽआयुः । विश्वे । अपांसि । चक्रुः ।**
+> **यः । तुभ्यम् । दाशात् । यः । वा । ते । शिक्षात् । तस्मै । चिकित्वान् । रयिम् । दयस्व ॥ ५ ॥ ६ ॥**
+> *ṛtasya | preṣāḥ | ṛtasya | dhītiḥ | viśva-āyuḥ | viśve | apāṃsi | cakruḥ |*
+> *yaḥ | tubhyam | dāśāt | yaḥ | vā | te | śikṣāt | tasmai | cikitvān | rayim | dayasva || 5 || 6 ||*
+
+---
+
+### Page 229 (PDF 247)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **ऋतस्य गतस्य देवयजनं प्राप्तस्याग्नेः प्रेषाः प्रकर्षेणेष्यमाणाः स्तुतयः क्रियन्ते । धीतिः । धीयते सोमः पीयतेऽस्मिन्निति धीतिर्यागः । सोऽपि ऋतस्य देवयजनदेशं प्राप्तस्याग्नेरेव क्रियते । अतः सोऽग्निर्विश्वायुः । विश्वं सर्वमायुरन्नं यस्य स तथाविधो भवति । अपि चास्मै विश्वे सर्वे यजमाना अपांसि दर्शपूर्णमासादीनि कर्माणि चक्रुः । कुर्वन्ति । हे अग्ने तुभ्यं यो दाशात् चरुपुरोडाशादीनि हवींषि ददाति यो वास्योऽपि यो यजमानस्ते शिक्षात् त्वदीयं कर्म कर्तुं शक्तो भूयासमिति इच्छति । उभयविधाय तस्मै यजमानाय चिकित्वान् तत्कृतमनुष्ठानं जानंस्त्वं रयिं दयस्व । धनं देहि ॥ दाशात् । दाश्र दाने । लेट्यडागमः । शिक्षात् । शक्ल शक्तौ । इच्छार्थे सन् । सनि मीमाप्ररभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । अत्र लोपोऽभ्यासस्येत्यभ्यासलोपः । स्कोः संयोगाद्योरिति सकारलोपः । पूर्ववल्लेट्यडागमः । चिकित्वान् । कित ज्ञाने । लिटः क्वसुः । दयस्व । दय दानगतिरक्षणहिंसादानेषु ॥**
+> *ṛtasya gatasya devayajanaṃ prāptasyāgneḥ preṣāḥ prakarṣeṇeṣyamāṇāḥ stutayaḥ kriyante | dhītiḥ | dhīyate somaḥ pīyate 'sminn iti dhītir yāgaḥ | so 'pi ṛtasya devayajanadeśaṃ prāptasyāgner eva kriyate | ataḥ so 'gnir viśvāyuḥ | viśvaṃ sarvam āyur annaṃ yasya sa tathāvidho bhavati | api cāsmai viśve sarve yajamānā apāṃsi darśapūrṇamāsādīni karmāṇi cakruḥ | kurvanti | he agne tubhyaṃ yo dāśāt carupuroḍāśādīni havīṃṣi dadāti yo vāsyo 'pi yo yajamānas te śikṣāt tvadīyaṃ karma kartuṃ śakto bhūyāsam iti icchati | ubhayavidhāya tasmai yajamānāya cikitvān tatkṛtam anuṣṭhānaṃ jānaṃs tvaṃ rayiṃ dayasva | dhanaṃ dehi || dāśāt | dāśra dāne | leṭy aḍāgamaḥ | śikṣāt | śakla śaktau | icchārthe san | sani mīmāpraśalabhaśakapatapadām ac is | Pā. 7-4-54 [?] | atra lopo 'bhyāsasyety abhyāsalopaḥ | skoḥ saṃyogādyor iti sakāralopaḥ | pūrvavall leṭy aḍāgamaḥ | cikitvān | kita jñāne | liṭaḥ kvasuḥ | dayasva | daya dānagatirakṣaṇahiṃsādāneṣu ||*
+> *"The **preṣāḥ**, praises abundantly desired, are made for Agni who has come to the sacrificial place of the gods, **ṛtasya** [i.e. the one who has gone]. **Dhītiḥ**: 'in which Soma is placed/drunk' — the sacrifice; that too is done for the very Agni who has reached the place of the divine sacrifice. Hence that Agni is **viśvāyuḥ**: he for whom all (*viśvam*) is food (*āyus*). And to him **viśve** all the sacrificers **apāṃsi** — rites such as the Darśa and Pūrṇamāsa — **cakruḥ**, perform. O Agni, **yaḥ tubhyaṃ dāśāt**, the one who gives you oblations such as *caru* and *puroḍāśa*, or **yo vā te śikṣāt**, the sacrificer who wishes 'may I be able to do your rite' — to that sacrificer of either kind, **cikitvān**, knowing what he has done in the rite, **rayiṃ dayasva** — give wealth. **Dāśāt**: root *dāśṛ dāne*; the *aṭ* augment in the *leṭ*. **Śikṣāt**: root *śakla śaktau*; *san* in the sense of wishing; the *is* [substitution] by 'sani mīmā…' (Pā. 7-4-54, as read, ?); the loss of the reduplicative syllable; the loss of the *s* by 'skoḥ saṃyogādyoḥ'; as before the *aṭ* of the *leṭ*. **Cikitvān**: root *kita jñāne*; *kvasu* for *liṭ*. **Dayasva**: root *daya dānagatirakṣaṇahiṃsādāneṣu*."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**ऋतस्य** — [Agni] who has reached the sacrificial place; **प्रेषाः** — praises (are uttered); **धीतिः** — the sacrifice (where Soma is drunk); **ऋतस्य** — it is done for Agni who has reached the sacrificial hall; **अतः** — therefore; **विश्वायुः** — to whom all is food; **विश्वे** — all (sacrificers); **अपांसि** — rites such as the Darśapūrṇamāsa; **चक्रुः** — they do; **तुभ्यम्** — to you (Agni); **यः** — whoever; **दाशात्** — offers cakes and the like; **यो वा** — or whoever else; **ते** — your; **शिक्षात्** — wishes to be able to perform rites; **तस्मै** — to such a sacrificer; **चिकित्वान्** — you who know the deeds done; **रयिम्** — wealth; **दयस्व** — give.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Praises and sacrifices are performed for you, who have come to the sacrificial hall; therefore you are called *viśvāyu*. The sacrificers perform the Darśapūrṇamāsa and other rites for you. Give wealth to those who give you *caru* and the like, and also to those who wish to perform rites for you.
+
+---
+
+### Page 230 (PDF 248)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Laudatory hymns are addressed to him when he comes (to the sacrifice) ; oblations are offered when he comes ; he is the source of sustenance unto all ; all (worshippers) perform all rites (for him). Do you, Agni, knowing (the thoughts of the worshipper), grant riches to him who presents to you oblations, or who wishes (to be able to present them).
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **प्रेषाः** — *prakarṣeṇeṣyamāṇāḥ stutayaḥ* — "the root *iṣu* with the prefix *pra* means a strong desire. This kind of desire for the sacrificial rites performed for Agni ends in the praises; hence 'praises'."
+- **धीतिः** — *dhīyate somaḥ pīyate 'sminn iti dhītiḥ | yāgaḥ* — "since the juice of the Soma creeper is drunk in it, the sacrifice is *dhīti*. Though the word, from the root *dheṭ pāne*, generally means a drink, here it is specified as meaning 'sacrifice'."
+- **विश्वायुः** — *viśvaṃ sarvam āyur annaṃ yasya* — "since in all sacrifices the oblations are offered in Agni, Agni is *viśvāyu*. The word *āyus*, which denotes the means of keeping beings alive, is read among the twenty-eight names of food (Ni. [2-7]). He gives wealth to those who perform sacrifices, to those who offer *caru* and *puroḍāśa* in rites such as the Darśapūrṇamāsa, and to the sacrificers who wish to perform such rites: this is the meaning of the words *apāṃsi* and *śikṣāt*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 68.3 (begins; noted briefly).** **चक्रुः**: root *ḍukṛñ karaṇe*; *liṭ*, third person plural, *jhi* replaced by *us*; since *k*-marked [*kit*-like], *guṇa* and the like do not come; since it follows an acute-ending word, the *nighāta* accent. **दाशात्**: root *dāśṛ dāne*; *leṭ*, third person singular, the affix *tip*; by "itaś ca lopaḥ parasmaipadeṣu" the loss of its *i*; by "leṭoḍāṭau" the *aṭ* augment; the form *dāśāt*; since *yaḥ* precedes, by "yad vṛttān nityam" the *nighāta* is prohibited; the *laṭ*-sārvadhātuka being unaccented, the root accent gives the initial acute. *(continues on p. 231).*
+
+---
+
+**Progress note:** Printed pp. 1–230 done (PDF 19–248): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1, 68.2 complete; **Rik 68.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar page begun (p. 230, ending at *dāśāt*). Next: p. 231 (PDF 249), the grammar page of Rik 68.3 concludes; then Riks 68.4, 68.5 and the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; accent marks of the Saṃhitā/Pada not reproduced.
