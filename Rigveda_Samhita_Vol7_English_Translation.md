@@ -3868,4 +3868,89 @@ Closing of Rik 84.19: "॥ १९ ॥" (19), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–140 done (PDF 16–155) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.19 complete**; **Rik 84.20** (the last, Satobṛhatī) — Saṃhitā and Pada done (p. 140); next: its bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, and the closing of Sūkta 84 (to p. 142). Next: printed p. 141 (PDF 156). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 141 (PDF 156)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 141.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 84.20)**
+
+> हे वसो निवासयितरिन्द्र ते तव सम्बन्धीनि राधांसि धनानि । राध्नोत्येभिरिति राधांसि भूतानि । अस्मान्कदा चन कदाचिदपि मा दभन् । मा विनाशयन्तु । तथोतयो गन्तारः । यद्वा । धूतय इत्यत्र वर्णलोपः । धूतयः कम्पयितारस्ते त्वदीया मरुतश्च मा दभन् । हे मानुष मनुष्यहितेन्द्र चर्षणिभ्यो मन्त्रद्रष्टृभ्यो नोऽस्मभ्यं विश्वा विश्वानि सर्वाणि वसूनि धनानि च आ उपमिमीहि । सर्वत आहृत्यास्मत्समीपे कुरु । सर्वत्र वर्तमानं धनमस्मभ्यं प्रयच्छेत्यर्थः ॥ कदा । किंशब्दात् सर्वैकान्यकिंयत्तदः काले दा तत्प्रत्ययः । किमः क इति कादेशः । व्यत्ययेनाद्युदात्तत्वम् । दभन् । दम्भु दम्भे । लोडर्थे छान्दसे लङ् । बहुलं छन्दसीति विकरणस्य लुक् । न माङ्योग इत्यडभावः । मिमीहि । माङ् माने शब्दे च । व्यत्ययेन परस्मैपदम् । जुहोत्यादित्वात् श्लुः । भृञामित्यभ्यासस्येत्वम् । हेर्ज… [?]त्वात् घुमास्थेतीत्वम् ॥
+
+*he vaso nivāsayitar indra te tava sambandhīni rādhāṃsi dhanāni | rādhnoty ebhir iti rādhāṃsi bhūtāni | asmān kadā cana kadācid api mā dabhan | mā vināśayantu | tathotayo gantāraḥ | yadvā | dhūtaya ity atra varṇalopaḥ | dhūtayaḥ kampayitāras te tvadīyā marutaś ca mā dabhan | he mānuṣa manuṣyahitendra carṣaṇibhyo mantradraṣṭṛbhyo no 'smabhyaṃ viśvā viśvāni sarvāṇi vasūni dhanāni ca ā upamimīhi | sarvata āhṛtyāsmatsamīpe kuru | sarvatra vartamānaṃ dhanam asmabhyaṃ prayacchety arthaḥ ‖ kadā | kiṃśabdāt sarvaikānyakiṃyattadaḥ kāle dā tatpratyayaḥ | kimaḥ ka iti kādeśaḥ | vyatyayenādyudāttatvam | dabhan | dambhu dambhe | loḍarthe chāndase laṅ | bahulaṃ chandasīti vikaraṇasya luk | na māṅyoga ity aḍabhāvaḥ | mimīhi | māṅ māne śabde ca | vyatyayena parasmaipadam | juhotyāditvāt śluḥ | bhṛñām ity abhyāsasyetvam | her… [?]tvāt ghumāsthetītvam ‖*
+
+*(Kannada script. The last clause — the sūtra reason for the ī of* mimīhi *— is cramped; "her…tvāt" is read with doubt [?].)*
+
+*Translation:* "O Vasu, Indra who makes us dwell: *te*, your *rādhāṃsi* — riches (they are called *rādhas* because by them one succeeds), your possessions — *mā dabhan* — may they never, at any time, harm us; may they not destroy us; and likewise your *ūtayaḥ*, your helpers/comings. Or: here, in *dhūtayaḥ*, a letter has dropped away (*ūtayaḥ* for *dhūtayaḥ*): your Maruts, the shakers (*dhūtayaḥ*), shall not harm us. O *mānuṣa*, Indra who does good to men, *carṣaṇibhyaḥ* — to us, the seers of mantras — *viśvā*, all *vasūni*, treasures, *ā upamimīhi* — gather from everywhere and place near us. The sense is: give us the wealth that is everywhere. *Kadā* — from *kim*, with the affix *dā* in the sense of time by 'sarvaikānyakiṃyattadaḥ kāle dā'; *ka* substituted for *kim*; the first syllable acute by *vyatyaya*. *Dabhan* — *dambhu dambhe*; *laṅ* in the sense of *loṭ* in Chandas; the *vikaraṇa* elided; no augment *aṭ* because of the connexion with *mā*. *Mimīhi* — *māṅ* in the sense of measuring and sound; *parasmaipada* by *vyatyaya*; *śluḥ* (reduplication) as the root is *juhotyādi*; *i* in the reduplicate."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 84.20)** *(Kannada)*
+
+*vaso* — O Indra, giver of dwelling-places; *te* — your (that are bestowed by you); *rādhāṃsi* — riches (and); *te* — your; *ūtayaḥ* — protections and other helps; *asmān* — us; *kadā cana* — ever; *mā dabhan* — let them not perish; *mānuṣa* — O Indra, doer of good to men; *carṣaṇibhyaḥ* — to us, seers of mantras; *naḥ* — to us; *viśvā ca vasūni* — and all riches; *ā upamimīhi* — bring.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.20** *(Kannada)*
+
+"O Indra, you are the giver of dwelling-places to all of us. May the riches that are favoured by you, and your helps in the form of protection, never perish for us. O Indra, who does good to men, bring us, the seers of mantras, all kinds of riches."
+
+**English Translation** *(printed in English in the source)*
+
+"O Indra, let not your gifts of riches fail us, let not your protection fail us at any time; lover of mankind, measure out (bring to us who praise you) all sorts of riches." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.20)**
+
+- **मा** — "This word has the sense of prohibition; its meaning is 'do not', 'do not do'. The use of this word is special in the Ṛgveda."
+- **वसो** — *nivāsayitar indra* — "one who gives dwelling-places; 'granter of dwellings'" (the English phrase is added in print).
+
+---
+
+### Page 142 (PDF 157)
+
+*(Running head: "142 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Special Topics of Rik 84.20, continued from p. 141:*
+
+- **कदा चन** — "at all times; ever."
+- **दभन्** — *dabhu hiṃsāyām* — "may it be destroyed, may it fail. *Mā dabhan* means 'may it never fail'."
+- **आ उपमिमीहि** — *māṅ māne śabde ca* — "measure out; that is, 'increase'. The sense is: 'bring from everywhere and give to us'."
+- **मानुष** — *manuṣyahitendra* — "Indra, who does good to men."
+- **ऊतयः** — "protections. For this word the bhāṣyakāra says that, in the form *ūtayaḥ*, there is a loss of letters; taking the word *dhūtayaḥ* he explains: '*dhūtayaḥ kampayitāras te tvadīyā marutaś ca mā dabhan*' — your Maruts, who shake — that is, who blow swiftly — may they not trouble us. This explanation does not appear to fit very well."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.20)** *(grammar page, noted briefly; begins here)*
+
+- **राधांसि** — *rādhnoty ebhir iti rādhāṃsi*: the affix *asun*, as said before, after the root *rādha* (*saṃsiddhau*), giving *rādhas*; in the neuter plural, *jas*/*śas* replaced by *śi*; by "नपुंसकस्य झलचः" (*napuṃsakasya jhalacaḥ*, Pā. Sū. 7-1-72) the augment *num*; by "नश्चापदान्तस्य झलि" the *anusvāra* for *n*; the first syllable acute by the *nit* of the affix.
+- **कदा** — the word *kim*; by "सर्वैकान्यकिंयत्तदः काले दा" (*sarvaikānyakiṃyattadaḥ kāle dā*, Pā. Sū. 5-3-15 [?]) the affix *dā*; as it falls in the *prāgdiśīya* group, by "प्राग्दिशो विभक्तिः" it receives the designation *vibhakti*; by "किमः कः" the substitution *ka*; the form *kadā*; by the affix-accent the final acute, and by *vyatyaya* the first-syllable acute.
+- **दभन्** — the root *dambhu dambhe*; by "छन्दसि लुङ्लङ्लिटः" (*chandasi luṅ-laṅ-liṭaḥ*, Pā. Sū. 3-4-6) *laṅ* in the sense of *loṭ*; third person plural, by "झोऽन्तः" the substitute *ant*; by "इतश्च" the loss of the final; by "बहुलं छन्दसि" the elision of the *vikaraṇa*; by "अनिदितां हल उपधायाः क्ङिति" the loss of the penultimate nasal; by "न माङ्योगे" (Pā. Sū. 6-4-74) the augment *aṭ* is not added; the *nighāta* accent of the *tiṅanta*.
+- **विश्वा** — in the neuter plural accusative, the *śas* is replaced by *śi* by "जश्शसोः शिः" (*jaś-śasoḥ śiḥ*); by "शेश्छन्दसि बहुलम्" (*śeś chandasi bahulam*) the elision of *śi*.
+
+---
+
+### Page 143 (PDF 158)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 143.)*
+
+*Vyākaraṇa-prakriyā of Rik 84.20, continued from p. 142 (grammar page, noted briefly):*
+
+- **उपमिमीहि** — the root *māṅ māne śabde ca*; by "व्यत्ययो बहुलम्" the *parasmaipada* affix; by "जुहोत्यादिभ्यः श्लुः" (*juhotyādibhyaḥ śluḥ*) *ślu* as *vikaraṇa*; by "श्लौ" the reduplication of the root; by "सेर्ह्यपिच्च" (*ser hy apic ca*) the substitution *hi* for *sip* of the *loṭ*; by "भृञामित्" (*bhṛñām it*, Pā. Sū. 7-4-76 [?]) *i* in the reduplicate; since the affix is *sārvadhātuka*, *hi* is not *pit*, so by "घुमास्थागापाजहातिसां हलि" (*ghumāsthāgāpājahātisāṃ hali*, Pā. Sū. 6-4-66 [?]) the *ā* becomes *ī*; the form *mimīhi*; by "चवायोगे प्रथमा" (*cavāyoge prathamā*, Pā. Sū. 8-1-[59] [?]) the prohibition of *nighāta*; the final acute by the affix-accent; by "तिङ्ङुदात्तवति" (*tiṅ udāttavati*) the *nighāta* accent because of the sense of motion ("gati").
+- **मानुष** — by "मनोर्जातावञ्यतौ षुक् च" (*manor jātāv añyatau ṣuk ca*) the affix *añ* after the word *manu*, with the augment *ṣuk*, *tasya niyogāt* (*puk*); by "तद्धितेष्वचामादेः" (*taddhiteṣv acām ādeḥ*) *vṛddhi* of the initial vowel; the word *mānuṣa*; in the vocative by "एङ्ह्रस्वात्सम्बुद्धेः" the loss of *su*; by "आमन्त्रितस्य च" the *nighāta* accent.
+
+Closing of Rik 84.20: "॥ २० ॥" (20), followed by a printer's ornament. *The print has no separate closing line for Sūkta 84. (Sūkta 84 thus ends on p. 143, where the contents table had listed Sūkta 85 as beginning; the new Sūkta begins on the same page, below.)*
+
+---
+
+## Sūkta 85 (Maṇḍala 1, Sūkta 85) — "एंभत्तैदनेय सूक्तवु" (*embhattaidaneya sūktavu*, "the eighty-fifth Sūkta")
+
+*(Heading printed large, in Kannada: "ಎಂಭತ್ತೈದನೆಯ ಸೂಕ್ತವು". Printed p. 143, lower half.)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (Anukramaṇī), as printed** *(Kannada script converted letter by letter)*
+
+> चतुर्दशेऽनुवाके नव सूक्तानि । तत्र प्र ये इति द्वादशर्चं प्रथमं सूक्तं गोतमस्यार्षम् । पञ्चमाद्द्वादश्यौ त्रिष्टुभौ । शिष्टा जगत्यः । मरुतो देवता । तथा चानुक्रान्तं । प्र ये द्वादश मारुतं ह पञ्चम्यन्त्ये त्रिष्टुभाविति । हशब्दप्रयोगादिदमादीनि चत्वारि सूक्तानि मरुद्देवत्यानि ॥ अभिप्लवषडहस्य चतुर्थेऽहन्याग्निमारुत एतत्सूक्तं मारुतनिविद्धानीयम् । सूत्रितं च । प्र ये शुम्भन्ते जनयो न सप्तय इत्याग्निमारुतम् ॥ आ. ८-२ [?] । इति ॥
+
+*caturdaśe 'nuvāke nava sūktāni | tatra pra ye iti dvādaśarcaṃ prathamaṃ sūktaṃ gotamasyārṣam | pañcamād dvādaśyau triṣṭubhau | śiṣṭā jagatyaḥ | maruto devatā | tathā cānukrāntam | pra ye dvādaśa mārutaṃ ha pañcamy antye triṣṭubhāv iti | haśabdaprayogād idam ādīni catvāri sūktāni marud-devatyāni ‖ abhiplavaṣaḍahasya caturthe 'hany āgnimāruta etat sūktaṃ mārutanividdhānīyam | sūtritaṃ ca | pra ye śumbhante janayo na saptaya ity āgnimārutam ‖ Ā. 8-2 [?] | iti ‖*
+
+*Translation:* "In the fourteenth *anuvāka* there are nine sūktas. Of these the first, *pra ye* (twelve Ṛks), is the vision of Gotama; the fifth and the twelfth Ṛks are Triṣṭubh, the rest Jagatī; the deity is the Maruts. So it is also recorded in the Anukramaṇī: '*Pra ye*: twelve, to the Maruts (*mārutam*); [of these] the fifth and the last are Triṣṭubh.' By the use of the word *ha* [in the Anukramaṇī], the four sūktas beginning with this one are addressed to the Maruts. In the *Abhiplava ṣaḍaha*, on the fourth day, in the *Āgnimāruta*, this sūkta is to be used at the *mārutanividdhānīya*; and it is prescribed in the sūtra: '*pra ye śumbhante janayo na saptayaḥ* — this is the *Āgnimāruta*' (Āś. 8-2 [?])."
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"From this sūkta the fourteenth *anuvāka* begins. In this anuvāka there are nine sūktas (Sūktas 85–93). In the first of them, the sūkta beginning *pra ye śumbhante*, there are twelve Ṛks. The ṛṣi of this sūkta is Gotama. The deities are the Maruts. The fifth and the twelfth Ṛks are in the Triṣṭubh metre; the remaining Ṛks are in the Jagatī metre. In the Anukramaṇī it is said: '*pra ye dvādaśa mārutaṃ ha pañcamy antye triṣṭubhau*'. The use of the word *ha* in this sentence … [the Kannada runs on to p. 144: the next four sūktas, beginning with this one, are addressed to the Maruts].
+
+---
+
+**Progress note:** Printed pp. 1–143 done (PDF 16–158) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82, 83 and 84 complete** (84 ended on p. 143; no separate closing line in the print). **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama; begins the 14th Anuvāka, nine sūktas 85–93; printed pp. 143–191) begun: heading, Sanskrit introduction and the first part of the Kannada *Anuvāda* done (foot of p. 143); the Anuvāda continues on p. 144. Next: printed p. 144 (PDF 159). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
