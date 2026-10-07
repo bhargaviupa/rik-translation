@@ -846,4 +846,106 @@ vidmā hi tvā purūvasum upa kāmān sasṛjmahe 'thā no 'vitā bhava ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–30 done (PDF 16–45) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.8 complete**; **Rik 81.9** (the last) not yet seen. Next: printed p. 31 (PDF 46). After 81.9 and the closing line of Sūkta 81 (p. 32), Sūkta 82 begins on p. 33. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30).
+### Page 31 (PDF 46)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.9** *(the last Ṛk of the sūkta)*
+
+> एते त इन्द्र जन्तवो विश्वं पुष्यन्ति वार्यम् ।
+> अन्तर्हि ख्यो जनानामर्यो वेदो अदाशुषां तेषां नो वेद आ भर ॥ ९ ॥
+
+*ete ta indra jantavo viśvaṃ puṣyanti vāryam |
+antar hi khyo janānām aryo vedo adāśuṣāṃ teṣāṃ no veda ā bhara ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> एते । ते । इन्द्र । जन्तवः । विश्वम् । पुष्यन्ति । वार्यम् ।
+> अन्तः । हि । ख्यः । जनानाम् । अर्यः । वेदः । अदाशुषाम् । तेषाम् ।
+> नः । वेदः । आ । भर ॥ ९ ॥
+
+*ete | te | indra | jantavaḥ | viśvam | puṣyanti | vāryam | antaḥ | hi | khyaḥ | janānām | aryaḥ | vedaḥ | adāśuṣām | teṣām | naḥ | vedaḥ | ā | bhara ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.9** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र ते तव स्वभूता एते जन्तवो यजमानलक्षणा जना विश्वं सर्वं वार्यं सर्वैः संभजनीयं हविः पुष्यन्ति । वर्धयन्ति । अदाशुषां हविषामदात्॑णाम् [?] जनानामन्तर्मध्ये विद्यमानं वेदो धनमर्यः सर्वेषां स्वामी त्वं ख्यो हि । पश्यसि हि । जानासीत्यर्थः । तेषामयजमानानां वेदो धनं नोऽस्मभ्यमा भर । आहर । प्रयच्छेति यावत् । आयजमानेषु विद्यमानं धनं योगानुपयुक्तत्वाद्व्यर्थमेव भवेत् । अतस्तस्य धनस्य सार्थकत्वाय तदीयं धनमुपहृत्य यजमानेभ्यः प्रयच्छेति तात्पर्यार्थः ॥ ख्यः । ख्या प्रकथने । अयं वर्शनार्थोऽपि । वर्तमाने छान्दसो लुङ् । अस्यतिवक्तीत्यादिना च्लेरङादेशः । आतो लोप इटि चेत्याकारलोपः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडाभावः । हि चेति निघातप्रतिषेधः ॥ ९ ॥
+
+*he indra te tava svabhūtā ete jantavo yajamānalakṣaṇā janā viśvaṃ sarvaṃ vāryaṃ sarvaiḥ saṃbhajanīyaṃ haviḥ puṣyanti | vardhayanti | adāśuṣāṃ haviṣām adātṝṇām [?] janānām antar madhye vidyamānaṃ vedo dhanam aryaḥ sarveṣāṃ svāmī tvaṃ khyo hi | paśyasi hi | jānāsīty arthaḥ | teṣām ayajamānānāṃ vedo dhanaṃ no 'smabhyam ā bhara | āhara | prayaccheti yāvat | āyajamāneṣu vidyamānaṃ dhanaṃ yogānupayuktatvād vyartham eva bhavet | atas tasya dhanasya sārthakatvāya tadīyaṃ dhanam upahṛtya yajamānebhyaḥ prayaccheti tātparyārthaḥ || khyaḥ | khyā prakathane | ayaṃ varśanārtho 'pi | vartamāne chāndaso luṅ | asyativaktīty ādinā ceḥ aṅādeśaḥ | āto lopa iṭi cety ākāralopaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍābhāvaḥ | hi ceti nighātapratiṣedhaḥ || 9 ||*
+
+*Sense:* "O Indra, these creatures (*jantavaḥ*) of yours — the people who are sacrificers — *puṣyanti* (nourish, increase) the *viśvam vāryam* — all the oblation that is to be enjoyed by all. Among the people who give no oblations (*adāśuṣām*) there is wealth (*vedaḥ*); you, lord of all (*aryaḥ*), *khyo hi* — you indeed see, know it. That wealth of those non-sacrificers bring (*ā bhara*) to us. Wealth that lies with non-sacrificers, being useless for the sacrifice, would be of no use at all; therefore, to make that wealth meaningful, take their wealth and give it to the sacrificers — this is the intent." *The grammatical tail:* *khyaḥ* — the root *khyā prakathane* (which has also the sense of seeing); a Vedic *luṅ* in the sense of the present; *aṅ* in place of *cli* by "asyativakti…"; the *ā* dropped by "āto lopa iṭi ca"; the augment *aṭ* does not arise by "bahulaṃ chandasy amāṅyoge 'pi"; the nighāta barred because of *hi*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.9** *(Kannada; begins at the foot of p. 31)*
+
+- **इन्द्र** — "O Indra"
+- **ते** — "belonging to you"
+- **एते जन्तवः** — "all these people (who perform sacrifices)"
+- **विश्वम्** — "all"
+- **वार्यम्** — "the oblation that all desire"
+- **पुष्यन्ति** —
+
+### Page 32 (PDF 47)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Pratipadārtha of Rik 81.9, continued from p. 31:*
+
+- **पुष्यन्ति** — "they cause to grow (by offering)"
+- **अदाशुषाम्** — "of those who offer no oblations"
+- **जनानाम् अन्तः** — "among the (enemy) people"
+- **वेदः** — "the wealth"
+- **अर्यः** — "(you,) the lord of all"
+- **ख्यः हि** — "you indeed know"
+- **तेषाम्** — "of those (who do not sacrifice)"
+- **वेदः** — "the wealth"
+- **नः** — "to us"
+- **आ भर** — "bring and give."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.9** *(Kannada)*
+
+"O Indra, all these sacrificers, who belong to you, cause the oblation that all may enjoy to grow fully. You, lord of all, have seen the wealth that is among the people who do not sacrifice and offer no oblations. Bring the wealth of those who make no sacrifice to us, who use it for sacrifice, so that it may be put to purposeful use."
+
+**English Translation** *(printed in English in the source)*
+
+"O Indra, these creatures (men) cherish the libation that may be desired by all ; lord of all, you know what riches these men who make no offerings, possess ; bring their wealth to us." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.9)**
+
+- **ते जन्तवः** — "Here the word *jantavaḥ* conveys the sense 'creatures' but it must be taken as 'men'. *Te* means 'your', or any sense of *ete* ('these') may be given: 'people who are sacrificers and others who offer oblations to you', is the intent."
+- **पुष्यन्ति** — "*poṣayanti* — they cherish; that is, they seek."
+- **वार्यम्** — *sarvaiḥ saṃbhajanīyam* — "what is desired by all; what all seek."
+- **ख्यः वेदः** — "*khyā prakathane*, *vida jñāne* — these two words convey the same sense (are synonyms) [as read; the print's note is compressed]."
+- **अदाशुषाम्** — "of those who do not give, that is, of those who do not make offerings of oblation and the like to Indra; of those who do not perform sacrifices."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.9)** *(grammar page, noted briefly; runs to p. 33)*
+
+- **ख्यः** — the root *khyā prakathane*, *adādi*; it is also in the sense of seeing. In the Veda the *luṅ*; by "luṅlaṅlṛṅkṣv aḍudāttaḥ" … "luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the three *lakāras* come in the Veda in every tense because the sense of the root is connected, so the *luṅ* here is in the sense of the present; when the second person singular is meant, the affix *sip* arises; by "cli luṅi" (Pā. Sū. 3-1-43) *cli* in the *luṅ*; *(continued on p. 33)*
+
+### Page 33 (PDF 48)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "3 … VOLUME 7" at the foot.)*
+
+*Grammar of Rik 81.9, concluded:*
+
+- **ख्यः** (concluded) — "…the *cli* is not replaced by *aṅ*; for *cli*, by "asyati-vakti-khyātibhyo 'ṅ" (Pā. Sū. 3-1-52) the substitute *aṅ* arises; *khyā+a+s*, by "āto lopa iṭi ca" (Pā. Sū. 6-4-64) the *ā* of the root is dropped; in the *luṅ* the *aṭ* augment for a root beginning with a consonant would arise; but by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. Sū. 6-4-75) in the Veda, even where there is no *mā* connection, the augments *aṭ* and *āṭ* do not come to the root; so here *aṭ* does not arise even without *mā*. By "hi ca" (Pā. Sū. 8-1-34) the *tiṅanta* connected with *hi* is not entirely anudātta; here, therefore, the total-anudātta that would arise by "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28) does not arise." ||9||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+*(There is no closing line "…sūktavu samāptavu" for Sūkta 81 in the print; the next sūkta's title follows directly on this page.)*
+
+## Sūkta 82
+
+**ಎಂಭತ್ತೆರಡನೆಯ ಸೂಕ್ತವು** — *eṃbhatteraḍaneya sūktavu* — "The eighty-second sūkta."
+
+**Sāyaṇa's introduction (Sanskrit in Kannada script; doubtful places [?]):**
+
+> उपो षु इति षट्कं नवमं सूक्तं गोतमस्यार्षमैन्द्रम् । अन्त्या जगती । आद्याः पङ्क्तयः । अनुक्रान्तं च । उपो षु षट् जगत्यन्तमिति ॥ सूक्तविनियोगो लैङ्गिकः ॥ षोडशिशस्त्र आद्या सुसन्दृशमित्यादिके द्वे ऋचौ च विनियुज्येते । अथ षोडशीति खण्डे सूत्रितं । उपो षु शृणुही गिरः सुसन्दृशं त्वा वयं मघवन्नित्येका द्वे च पङ्क्ती । (आ. ६-२ [?]) इति ॥
+
+*upo ṣu iti ṣaṭkaṃ navamaṃ sūktaṃ gotamasyārṣam aindram | antyā jagatī | ādyāḥ paṅktayaḥ | anukrāntaṃ ca | upo ṣu ṣaṭ jagatyantam iti || sūktaviniyogo laiṅgikaḥ || ṣoḍaśiśastra ādyā susandṛśam ity ādike dve ṛcau ca viniyujyete | atha ṣoḍaśīti khaṇḍe sūtritaṃ | upo ṣu śṛṇuhī giraḥ susandṛśaṃ tvā vayaṃ maghavann ity ekā dve ca paṅktī | (Āś. 6-2 [?]) iti ||*
+
+*Sense:* "*Upo ṣu* — the ninth sūkta (of the thirteenth anuvāka), of six Ṛks; the ṛṣi is Gotama; deity Indra; the last Ṛk is in *jagatī*, the first (five) in *paṅkti*. It is also in the Anukramaṇī: '*upo ṣu* — six, ending in *jagatī*'. The application of the sūkta is *laiṅgika* (by indication). In the *Ṣoḍaśin-śastra* the first (Ṛk) and two Ṛks beginning *susandṛśam* are applied. It is stated in the section beginning *atha ṣoḍaśī*: '*upo ṣu śṛṇuhī giraḥ*, and *susandṛśaṃ tvā vayaṃ maghavan* — one, and the two *paṅktis*' (Āśv. 6-2 [?])."
+
+**Anuvāda (Kannada):** "*Upo ṣu* — this sūkta is the ninth in the thirteenth anuvāka. It has six Ṛks. The ṛṣi is Gotama. The deity is Indra. The metre is *paṅkti*; only the last Ṛk is in the *jagatī* metre. The application is *laiṅgika*. In the special *Ṣoḍaśin* soma-sacrifice the first Ṛk and the two Ṛks *susandṛśam* and *sa ghā taṃ vṛṣaṇam* are applied when the *paṅkti* Ṛks are recited in the śastra mantras. This is explained in the Āśvalāyana Śrauta-sūtra in the section *atha ṣoḍaśī* by the sūtra '*upo ṣu śṛṇuhī giraḥ susandṛśaṃ tvā vayaṃ maghavann ity ekā dve ca paṅktī*' (Āś. [6-2] [?])." *(The second pair named in the Kannada, "susandṛśam" and "sa ghā taṃ vṛṣaṇam", differs slightly from the Sanskrit's "susandṛśam … maghavann"; both are recorded as printed.)*
+
+---
+
+**Progress note:** Printed pp. 1–33 done (PDF 16–48) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete** (nine Ṛks, pp. 1–33; no separate closing line in the print). **Sūkta 82** (six Ṛks; Indra; Gotama; paṅkti, last Ṛk jagatī; the ninth sūkta of Anuvāka 13; application *laiṅgika*; printed pp. 33–54) begun: Sāyaṇa's introduction and Anuvāda (p. 33) done. Next: printed p. 34 (PDF 49) — the heading block and Rik 82.1. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30).
