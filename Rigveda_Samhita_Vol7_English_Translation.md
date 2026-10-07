@@ -3646,4 +3646,77 @@ Closing of Rik 84.16: "॥ १६ ॥" (16), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–131 done (PDF 16–146) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.16 complete**; **Rik 84.17** (Triṣṭubh) — Saṃhitā, Pada, bhāṣya, grammatical tail, Pratipadārtha and Bhāvārtha done (pp. 130–131); next on p. 131's foot/p. 132: the printed English, Special Topics and grammar page of 84.17. Next: printed p. 132 (PDF 147). Three Ṛks (84.18–84.20) remain after 84.17. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; p. 128 clotted print on *āsanniṣūn*; p. 131 broken clause in the bhāṣya; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 132 (PDF 147)
+
+*(Running head: "132 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**English Translation** *(printed in English in the source; Rik 84.17)*
+
+"When Indra is at hand who flees through fear of enemies ? who is harmed ? who is terrified ? who is aware that Indra is present though he is near ? what need is there that any one should importune Indra for his son, his elephant, his property, his person, or his people ?" — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.17)**
+
+"In this Ṛk too the word *kaḥ* is explained as 'Prajāpati', and the bhāṣyakāra, following that, has given a different sense."
+
+- **ईषते** — *īṣa gatihiṃsādarśaneṣu | bhauvādika ātmanepadī* — "'goes'; that is, runs away through fear of enemies. Since Indra is near us and protects us, no man need run away in fear of an enemy — such is the intention."
+- **मंसते सन्तमिन्द्रं को अन्ति** — "Though Indra is near us for our protection, who can know this matter of himself? That Indra is near is known to no one. Yet the meaning is that Indra is nearby."
+- **इभाय** — *gajāya* — "the bhāṣyakāra has explained this word as 'elephant'. In the Ṛgveda the elephant is nowhere mentioned in particular; and it is unlikely that ordinary people would have elephants. Western scholars therefore hold that it is fitting to give this word the sense 'without fear'. The bhāṣyakāra too has given this sense in many places."
+- **अधि ब्रवत्** — *adhivacanaṃ kuryāt jñāpayatīndram ity arthaḥ* — "there is no need to make Indra aware in order that sons and the like be protected; he himself knows everything and protects."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.17)** *(grammar page, noted briefly; begins here, runs to p. 133)*
+
+- **ईषते** — the root *īṣa gatihiṃsādarśaneṣu*, Bhvādi, *ātmanepada*; *laṭ*, third person singular; by "टित आत्मनेपदानां टेरे" (*ṭita ātmanepadānāṃ ṭer e*) the ending *e*; the *vikaraṇa* *śap*; by "तिङ्ङतिङः" (*tiṅ atiṅaḥ*) the *nighāta* accent.
+- **तुज्यते** — the root *tuja hiṃsāyām*; *laṭ* in the passive, third person singular, *e* as before; by "सार्वधातुके यक्" (*sārvadhātuke yak*) the affix *yak* in place of the *vikaraṇa*; since it is *kit*, no *laghūpadha* guṇa (continued on p. 133).
+
+---
+
+### Page 133 (PDF 148)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 133.)*
+
+*Vyākaraṇa-prakriyā of Rik 84.17, continued from p. 132 (grammar page, noted briefly; sūtras read are given in three layers):*
+
+- **तुज्यते** (cont.) — by the prohibition "अतिङः" (*atiṅaḥ*) in the sense of exclusion, the *nighāta* accent does not come; since the root has *ad-upadeśa* (a-ending in the enunciation), by "तास्यनुदात्तेन्ङिदुपदेशाल्लसार्वधातुकमनुदात्तमहन्वनोर्…" (*tāsyanudāttenṅidupadeśāl lasārvadhātukam anudāttam…*, Pā. Sū. 6-1-186 [?]) the *lasārvadhātuka* ending (*te*) is unaccented, so the acute accent of the *yak* alone remains.
+- **बिभाय** — the root *ṇibhī bhaye*; *liṭ*, third person singular, *ṇal* as substitute; reduplication of the root; the reduplicate loses its aspiration/gets *hrasva*-*jaś* [as read: "abhyāsasya hrasvajaśtva"]; for the *ī* of the root *vṛddhi*, then *āy*-substitution; the *nighāta* accent of the *tiṅanta*.
+- **मंसते** — the root *mana jñāne*; *leṭ*, third person singular; by "लेटोऽडाटौ" (*leṭo 'ḍāṭau*) the augment *aṭ*; by "सिब्बहुलं लेटि" (*sibbahulaṃ leṭi*, Pā. Sū. 3-1-34) the affix *sip*; by "नश्छव्यप्रशान्" or the sūtra named in the print ("naś ca padāntasya jhali" [as read: "naśchapada…"]) the *anusvāra* in place of the *n* of the root; *nighāta* accent. *(Sūtra wording as printed is cramped; the reading is hedged [?].)*
+- **अन्ति** — in the word *āntika*, by "कादिलोपो बहुलम्" (*kādilopo bahulam*) the loss of the *k*-element.
+- **ब्रवत्** — the root *brūñ vyaktāyāṃ vāci*; *leṭ*, third person singular; as before the augment *aṭ* and loss of the *ī*; *guṇa* to the root because of the *sārvadhātuka*; *av*-substitution; the *nighāta* accent of the *tiṅanta*.
+- **तन्वे** — the word *tanū*, dative singular (*ṅe*) following; by "जसादिषु छन्दसि वा वचनम्" (*jasādiṣu chandasi vā vacanam*) and "घेर्ङिति" (*gher ṅiti*) *guṇa* does not occur; then by "इको यणचि" (*iko yaṇaci*) the *yaṇ*-substitution; since *yaṇ* has been substituted for an acute, by "उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य" (*udāttasvaritayor yaṇaḥ svarito 'nudāttasya*, Pā. Sū. 8-2-4) the unaccented case-ending following gets the *svarita*.
+
+Closing of Rik 84.17: "॥ १७ ॥" (17), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 84.18)** *(Triṣṭubh; Indra; accents not reproduced)*
+
+> को अग्निमीट्टे हविषा घृतेन स्रुचा यजाता ऋतुभिर्ध्रुवेभिः ।
+> कस्मै देवा आ वहानाशु होम को मंसते वीतिहोत्रः सुदेवः ॥ १८ ॥
+
+*ko agnim īṭṭe haviṣā ghṛtena srucā yajātā ṛtubhir dhruvebhiḥ | kasmai devā ā vahān āśu homa ko maṃsate vītihotraḥ sudevaḥ ‖ 18 ‖*
+
+*(Note: the print of the Saṃhitā reads "yajātā" where the Pada and bhāṣya have "yajātai"; as printed, noted [sic?] rather than altered.)* *Gloss, mine and tentative:* "Who invokes Agni with oblation of ghee, with the ladle, will worship [him] with the fixed seasons? To whom will the gods swiftly bring the oblation? Who thinks of [Indra], the one who has performed the sacrifice, with good gods?"
+
+---
+
+### Page 134 (PDF 149)
+
+*(Running head: "134 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 84.18)**
+
+> कः । अग्निम् । ईट्टे । हविषा । घृतेन । स्रुचा । यजातै । ऋतुऽभिः । ध्रुवेभिः ।
+> कस्मै । देवाः । आ । वहान् । आशु । होमम् । कः । मंसते । वीतिऽहोत्रः । सुऽदेवः ॥ १८ ॥
+
+*kaḥ | agnim | īṭṭe | haviṣā | ghṛtena | srucā | yajātai | ṛtu-bhiḥ | dhruvebhiḥ | kasmai | devāḥ | ā | vahān | āśu | homam | kaḥ | maṃsate | vīti-hotraḥ | su-devaḥ ‖ 18 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 84.18)**
+
+> कः यजमानोऽग्निमीट्टे । इन्द्रार्थं हविर्निरुप्याग्निं स्तौति । इन्द्राय हविर्निर्वापोऽपि सम्यक्कर्तुं न शक्यते । इन्द्रस्य दुर्विज्ञानत्वात् । को वेन्द्रयागार्थमग्निं स्रुचा जुह्वा ध्रुवेभिर्ध्रुवैर्निश्चितैर्ऋतुभिर्वसन्तादिकालैरुपलक्षितेन घृतेन हविषा यजातै । यजेश् । यद्वा । ऋतवः प्रयाजदेवताः । ऋतवो वै प्रयाजा इति श्रुतेः । ताभिर्ध्रुवैः प्रकृतौ विकृतौ चानुष्ठेयतया निश्चलैर्ऋतुभिः सहाग्निमाज्यभागदेवतां घृतेन हविषा को यजेत् । न कोऽपीत्यर्थः । कस्मै यजमानाय होमं हातव्यं प्रशस्यं धनमाशु शीघ्रं देवा आ वहान् । आवहन्ति । प्रयच्छन्ति । न कस्मा अपीत्यर्थः । इन्द्र एव धनस्य दाता नान्ये देवा इतीन्द्रः स्तूयते । वीतिहोत्रः प्राप्तयज्ञः सुदेवः शोभनदेवताकः को यजमानो मंसते । इन्द्रं सम्यग्जानाति । न कोऽपीत्यर्थः । बहुविधेन स्तोत्रेण चिरकालोपासनेन चेन्द्रः प्रत्यक्षो भवति नान्येन प्रकारेणेति तात्पर्यार्थः ॥
+
+*ko yajamāno 'gnim īṭṭe | indrārthaṃ havir nirupyāgniṃ stauti | indrāya havirnirvāpo 'pi samyak kartuṃ na śakyate | indrasya durvijñānatvāt | ko vendrayāgārtham agniṃ srucā juhvā dhruvebhir dhruvair niścitair ṛtubhir vasantādikālair upalakṣitena ghṛtena haviṣā yajātai | yajeś | yadvā | ṛtavaḥ prayājadevatāḥ | ṛtavo vai prayājā iti śruteḥ | tābhir dhruvaiḥ prakṛtau vikṛtau cānuṣṭheyatayā niścalair ṛtubhiḥ sahāgnim ājyabhāgadevatāṃ ghṛtena haviṣā ko yajet | na ko 'pīty arthaḥ | kasmai yajamānāya homaṃ hātavyaṃ praśasyaṃ dhanam āśu śīghraṃ devā ā vahān | āvahanti | prayacchanti | na kasmā apīty arthaḥ | indra eva dhanasya dātā nānye devā itīndraḥ stūyate | vītihotraḥ prāptayajñaḥ sudevaḥ śobhanadevatākaḥ ko yajamāno maṃsate | indraṃ samyag jānāti | na ko 'pīty arthaḥ | bahuvidhena stotreṇa cirakālopāsanena cendraḥ pratyakṣo bhavati nānyena prakāreṇeti tātparyārthaḥ ‖*
+
+*Translation:* "What sacrificer praises Agni? Having prepared an oblation for Indra, he praises Agni. Even the preparing of the oblation for Indra cannot be done properly, because Indra is hard to know. Or: who, for the sake of the sacrifice to Indra, would sacrifice to Agni with the ladle (*sruc*, i.e. *juhū*), with ghee marked by the *dhruva* — the fixed, settled — seasons (*ṛtu*), spring and the rest, with an oblation (*yajātai*, from *yaj*, *leṭ*)? Or else: the seasons are the deities of the *prayāja* offerings, for the Śruti says 'the seasons are the *prayājas*'. Who would sacrifice with those unmoving seasons — which are to be observed in the model and in the modified rites — together with Agni, the deity of the *ājyabhāga*, with ghee as oblation? Nobody. To what sacrificer do the gods swiftly bring *homa*, the oblation to be offered, worthy of praise, wealth? (*āvahanti* = they give.) To none. Indra alone is the giver of wealth, not the other gods — thus is Indra praised. *Vītihotraḥ* — one who has attained the sacrifice; *sudevaḥ* — having good deities: what sacrificer *maṃsate*, knows Indra properly? None. The meaning is that Indra becomes manifest by manifold praise and long worship, and not by another way."
+
+*The grammatical tail (characterized, noted briefly; the Uṇādi numerals are unreliable at 150 dpi [?]):* *īṭṭe* — root *īḍa stutau*; being of the *adādi* class the *śap* is elided (*luk*); *srucā* — "sāv ekācaḥ…" (*sāv ekācas tṛtīyādir vibhaktiḥ…*, Pā. Sū. 6-1-168) the case-ending acute; *yajātai* — *leṭ* of *yaj*, the augment *aṭ*, "vaito 'nyatra" gives *ai*; *vahān* — *leṭ* of *vah*, the augment *aṭ*, loss of *ī* (*itaś ca lopaḥ*), loss of the *t* by "saṃyogāntasya lopaḥ"; *homam* — from *hvayati* (the root *hve*), *ā* made, by "ato maninn…" the affix *manin*, with *saṃprasāraṇa* by *bahulaṃ chandasi*; or the form *homam* is fixed as a *nipātana* with the affix *manin* (Uṇ. Sū. 4-[15x] [?]); *maṃsate* — as above; *vītihotraḥ* — *vī gatyādiṣu*, with the affix *ktin* (by "mantre vṛṣeṣa…") which is acute; *hotram* = *homa*, by "hu-yā-mā-śru-bhasibhyaḥ tran" (Uṇ. Sū. 4-[162?] [?]) the affix *tran*; *vītiḥ prāpto homo yena* — a *bahuvrīhi*, with the first member's accent; *sudevaḥ* — the final-syllable accent by "nañsubhyām" (the *uttarapadāntodātta* rule).
+
+---
+
+**Progress note:** Printed pp. 1–134 done (PDF 16–149) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.17 complete**; **Rik 84.18** (Triṣṭubh) — Saṃhitā (p. 133), Pada, bhāṣya and its grammatical tail (p. 134) done; next: the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 84.18. Next: printed p. 135 (PDF 150). Two Ṛks (84.19, 84.20) remain after 84.18. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
