@@ -6435,4 +6435,74 @@ The oblations — *puroḍāśa* and the rest — all reach Agni, as the seven g
 
 ---
 
-**Progress note:** Printed pp. 1–316 done (PDF 19–334): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.6 complete; **Rik 71.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*pṛkṣaḥ*, *yahvīḥ*, begun *jāmibhiḥ*) done (pp. 314–316); the Special Topics break off at *jāmibhiḥ* at the foot of p. 316; the grammar page of 71.7 is not yet seen. Next: p. 317 (PDF 335). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.7–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on p. 316 (as read, glosses mine and tentative) doubtful [?]; the bhāṣya's grammatical tail (p. 315) very compressed and doubtful.
+### Page 317 (PDF 335)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.7 (continued)**
+
+- **जामिभिः** (continued from p. 316) — "The word *jāmi* was first a synonym of 'uterine brother/sister' (*sahodari*, 'sister'); its meaning was then enlarged a little, and it has been used in the general sense of 'kinsman' (*bandhu*). The Nirukta-writer, quoting the Ṛk Saṃhitā
+
+  > न जामये तान्वो रिक्थमारैक्चकार गर्भं सनितुर्निधानम् ।
+  > *na jāmaye tānvo rikthām āraik cakāra garbhaṃ sanitur nidhānam* (Ṛk. Saṃ. [3-31-2?])
+
+  explains *jāmaye* as *bhaginyai* ('to the sister'), showing how the meaning 'sister' is arrived at for the word *jāmi*: '*jāmir anyo 'syāṃ janayati jāmipatyam* | *jamater vā syād gatikarmaṇo nirgamanaprāyā bhavati*' — 'another [man] begets on her a son; the "sister" [*jāmi*] is so called because another begets in her; or from the root *jam* "to go", because she is one who mostly goes out [of the house]' (Ni. [3-6?]). Others derive it from the root *jā* "to beget" (the sense of continuing the line), or from the root *jam*, 'to go' (since she goes out to the house of her husband); thus the Nirukta-writer explains it as 'sister'. This explanation fits the context well. And again, in the Ṛk
+
+  > भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व ।
+  > *bhagasya svasā varuṇasya jāmir uṣaḥ sūnṛte prathamā jarasva* (Ṛk. Saṃ. [1-123-5?])
+
+  the word *jāmi* also means 'sister'. Gradually this word came to the broad sense of *bandhu*, 'kinsmen', and in many Ṛks — [1-[?]-4; 1-[?]-3; 1-[?]-1] and so on — it has the general sense *bandhu*.
+
+  And, moreover, in the context of the Soma sacrifice, the service of the fingers is essential; so, in describing the work of those fingers, the word *jāmi* is used as a synonym. For example:
+
+  > एष वृषा कनिक्रददशभिर्जामिभिर्यतः ।
+  > *eṣa vṛṣā kanikradad daśabhir jāmibhir yataḥ* (Ṛk. Saṃ. [9-38-4?])
+
+  > अंशुर्यवेन पिपिशे यतो नृभिः सं जामिभिर्नसते रक्षते शिरः ।
+  > *aṃśur yavena pipiśe yato nṛbhiḥ saṃ jāmibhir nasate rakṣate śiraḥ* (Ṛk. Saṃ. [9-86-?], as read)
+
+  In these Ṛks *jāmibhiḥ* means 'fingers' which, like kinsmen, join with one another and perform the rites of sacrifice; here too it indicates the relationship."
+  *(The Ṛgveda citations are given as read from a small print, with doubtful numerals [?]; the source leaves them untranslated; my glosses, tentative: "he did not give the inheritance of the body to the sister …"; "sister of Bhaga, kinswoman of Varuṇa, O Dawn, true of speech, praise first"; "this bull roars, held by the ten kinswomen [fingers]"; "the Soma-stalk is adorned with barley [?], held by men; with the fingers it is joined, it protects the head" [?].)*
+
+---
+
+### Page 318 (PDF 336)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.7 (concluded):** "In the Ṛk before us, 1-[?]-[?]*, *jāmibhiḥ* means 'with kinsmen': Agni is prayed, 'Give food, that we may eat together with our kinsmen.' Since Agni is *jātavedas*, since he is the messenger of the gods, and since he is a friend to all the gods, he is prayed to bring about for the sacrificers all the wealth that men must obtain from the gods." *(* the reference is printed "1-[?]-2" [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.7, noted briefly; not transcribed)*
+
+Words treated: *pṛkṣaḥ* ("*pṛkṣa* is a name of food"; root *pṛcī sampark*; *kvip*, an Uṇādi-type, in the object sense, with *suk*-augment by that [the affix's] dependence; by *kit* the nasal of the end vanishes by *tavat*; *coḥ kuḥ*, change of *c* to *k*; *k*+*s* gives *kṣ*; or the *asun* affix coming by *sarvadhātunibandhana*; nominative plural, the ending lost by *supāṃ sulug…*); *sacante* (root *ṣaca samavāye*; the initial *ṣ* becomes *s* by *dhātvādeḥ ṣaḥ saḥ*; *laṭ*, third person plural; nighāta because it follows an *atijanta*); *sravataḥ* (root *sru gatau*; "*sravaṇaṃ sravaḥ*, they do that": by *sarvaprātipadikebhyaḥ kvib vaktavyaḥ* the *kvip* comes, and all of it is lost; *sanādyantā dhātavaḥ* makes *srava* a root; to this *kvip* and *kṛt* by *kvip ca*; *pit*-affix following, *hrasvasya piti kṛti tuk* gives *tuk*; the form *sravat*; since the *kvibanta* root has *sati śiṣṭatva*, *dhātoḥ* (Pā. [6-1-162]) gives the final acute; nominative plural); *yahvīḥ* (*pippalyādibhyaś ca*, Pā. [4-1-41] [gaṇasūtra], read in the Gaurādi list; since it is an *ākṛtigaṇa* this word is included there, hence *ṅīṣ*; before *jas*, the lengthening of the earlier similar vowel by *vā chandasi*; *s*→*ru*→visarga); *cikite* (root *kita jñāne*; in the sense of the present, *liṭ* by *chandasi luṅlaṅliṭaḥ*, in the passive; the *ta* affix replaced by *ireca* by *laṭas tajjhayor eśirec*; reduplication of the root; of the reduplicate, the first consonant remains, and *cuṭva* by *kuhoś cuḥ*; the affix being *kit* by *asaṃyogāl liṭ kit*, no guṇa of the light penultimate; nighāta because it follows an *atijanta*). *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 319 (PDF 337)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 71.7 (concluded; noted briefly)**
+
+*vidāḥ* (root *vidḷ lābhe* "to obtain"; because the causative sense is included — "cause to obtain" — the root is *ṇi*-included; *leṭ*, second person singular, *sip*; loss of *i* by *iteś ca lopaḥ parasmaipadeṣu*; *aḍāgama* by *leṭo 'ḍāṭau*; the root being *tudādi*, *śa* by *tudādibhyaḥ śaḥ*; since *sārvadhātukam apit* gives *ṅit*-ness, no guṇa of the light penultimate; by *āgamaśāstram anityam* the *num* that *śemuca…* would require [Pā. [7-1-59]] does not come; no nighāta since at the head of a pāda; the vikaraṇa accent remains. Or from the root *vida jñāne* [*Adādi*], the *leṭ* second-person form; by *vyatyayo bahulam* the *śap* is not lost; instead *śa* comes). Ends "॥ ७ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.8** *(printed Ṛk "8 ||")*
+
+> आ यदिषे नृपतिं तेज आनट् शुचि रेतो निषिक्तं द्यौरभीके ।
+> अग्निः शर्धमनवद्यं युवानं स्वाध्यं जनयत्सूदयच्च ॥ ८ ॥
+
+*ā yad iṣe nṛpatiṃ teja ānaṭ śuci reto niṣiktaṃ dyaur abhīke |
+agniḥ śardham anavadyaṃ yuvānaṃ svādhyaṃ janayat sūdayac ca ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । यत् । इषे । नृऽपतिम् । तेजः । आनट् । शुचि । रेतः । निऽसिक्तम् । द्यौः । अभीके ।
+> अग्निः । शर्धम् । अनवद्यम् । युवानम् । सुऽआध्यम् । जनयत् । सूदयत् । च ॥ ८ ॥
+
+*ā | yat | iṣe | nṛ-patim | tejaḥ | ānaṭ | śuci | retaḥ | ni-siktam | dyauḥ | abhīke | agniḥ | śardham | anavadyam | yuvānam | su-ādhyam | janayat | sūdayat | ca ||8||*
+
+*(The Sāyaṇa-bhāṣya of Rik 71.8 begins on p. 320.)*
+
+---
+
+**Progress note:** Printed pp. 1–319 done (PDF 19–337): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.7 complete (71.7: Special Topics and grammar page on pp. 316–319); **Rik 71.8** (printed "8 ||") — Saṃhitā and Pada done (p. 319). Next: p. 320 (PDF 338), the Sāyaṇa-bhāṣya of Rik 71.8. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.8–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on p. 317 (as read, glosses mine and tentative) doubtful [?].
