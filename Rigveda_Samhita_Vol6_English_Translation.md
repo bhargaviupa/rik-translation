@@ -7307,4 +7307,68 @@ O Agni! The gods, who knew the place where you were, came near together with the
 
 ---
 
-**Progress note:** Printed pp. 1–355 done (PDF 19–373): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.4 complete; **Rik 72.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*saṃjānānāḥ*, *abhijñu*) done (pp. 353–355); the Special Topics may continue on p. 356; the grammar page of 72.5 not yet seen. Next: p. 356 (PDF 374). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.5–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening liturgical sentence of the bhāṣya of 72.5 (p. 354) compressed and doubtful [?].
+### Page 356 (PDF 374)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.5 (concluded)**
+
+> आज्ञा जानु दक्षिणतो निषद्येमं यज्ञमभि गृणीत विश्वे ।
+> *ājñā jānu dakṣiṇato niṣadyemaṃ yajñam abhi gṛṇīta viśve* (Ṛk. Saṃ. [10-[?]-?], as read; numerals "[?]")
+
+"…this Ṛk corroborates that matter [of kneeling]." *(Gloss mine and tentative: "sitting down on the right knee, praise this sacrifice, all of you".)*
+
+- **रिरिक्वांसः** — "Skandasvāmin: 'those whose bodies have attained exceeding greatness through Agni's favour'; Sāyaṇa: 'those with bodies made lean by the observances when worshipping Agni'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.5, noted briefly; not transcribed)*
+
+Words treated: *saṃjānānāḥ* (root *jñā avabodhane*; *śānac* in the present sense; the root's substitution *jā* by *jñājanor jā*, Pā. [7-3-79]; *śnā* by *kryādibhyaḥ śnā*; the form *jānāna*; final acute by *cito 'ntodāttaḥ* [as read: *citaḥ*]; in the compound, by *gatikārakopapadāt kṛt*, the second member's natural accent); *sīdan* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *laṅ*, third person plural, *jhi* → *anta*; loss of *i*; *śap* by *kartari śap*; since *śap* follows, *sīda*-substitution for the root by *pāghrādhmā…*, Pā. [7-3-78]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; loss of the final *t* by *saṃyogāntalopa*; nighāta because it follows an *atijanta*); *namasyan* (*kyac* by *namovarivaścitraṅaḥ kyac*, Pā. [3-1-19], on the stem *namas* in the sense of worship; *namasya* becomes a root by *sanādyantā dhātavaḥ*; *laṅ*, third person plural, with *anta*, loss of *i*; *pararūpa* by *ato guṇe*; no *aḍ*; loss of the final *t*; nighāta); *ririkvāṃsaḥ* (root *ricir virecane*; *liṭ* → *kvasu* by *kvasuś ca*, Pā. [3-2-107]; the root is doubled; the reduplicate's *halādiśeṣa*; *kutva* of the root's *c*; in the nominative plural, lengthening of the penultimate, *num*, with *anusvāra*; by the affix's accent the *ā* is acute). Continued on p. 357. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 357 (PDF 375)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 72.5 (concluded; noted briefly)**
+
+*kṛṇvata* (root *kṛvi hiṃsākaraṇayoś ca*; roots having many senses, here "to do"; *laṅ*, third person plural, *ātmanepada*; *ata* by *ātmanepadeṣv ananataḥ*, Pā. [7-1-5]; *num* by *idito num dhātoḥ*; *śnu*-type *u* by *dhinvikṛṇvyor a ca*, Pā. [3-1-80], giving *a* as the final and the *u* vikaraṇa; loss of *a* by *ato lopaḥ*; *yaṇ*; no *aḍ* by *bahulaṃ chandasy…*; by *sthānivat* there is no guṇa of the light penultimate caused by *u*; *nighāta* at its place); *nimiṣi* (root *miṣa spardhāyām*; by the statement *upasargeṇa dhātvarthaḥ balād anyaḥ pratīyate*, "the sense of the root is forcibly made different by a prefix", the sense here is "seeing"; *kvip* by *saṃpadādibhyaḥ kvip*; in the compound, by *gatikārakopapadāt kṛt*, the second member's natural accent; locative singular); *rakṣamāṇāḥ* (root *rakṣa pālane*; *śānac* in the passive present; *yak*, expected by *sārvadhātuke yak*, is replaced by *śap* by *vyatyaya*; *muk*-augment by *āne muk*; accent: *śānac* is anudātta by *tāsyanudāttet…*, so the root accent remains). Ends "॥ ५ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.6** *(printed Ṛk "6 ||")*
+
+> त्रिः सप्त यद्गुह्यानि त्वे इत्पदाविदन्निहिता यज्ञियासः ।
+> तेभी रक्षंते अमृतं सजोषाः पशूञ्च स्थातॄञ्चरथं च पाहि ॥ ६ ॥
+
+*triḥ sapta yad guhyāni tve it padāvidan nihitā yajñiyāsaḥ |
+tebhī rakṣante amṛtaṃ sajoṣāḥ paśūñ ca sthātṝñ caratham ca pāhi ||6||*
+
+*(Reading note: "तेभी" is printed so in the Saṃhitā — the Pada divides *tebhiḥ*; accents not reproduced.)*
+
+---
+
+### Page 358 (PDF 376)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 72.6**
+
+> त्रिः । सप्त । यत् । गुह्यानि । त्वे इति । इत् । पदा । अविदन् । निऽहिता । यज्ञियासः ।
+> तेभिः । रक्षन्ते । अमृतम् । सऽजोषाः । पशून् । च । स्थातॄन् । चरथम् । च । पाहि ॥ ६ ॥
+
+*triḥ | sapta | yat | guhyāni | tve iti | it | padā | avidan | ni-hitā | yajñiyāsaḥ | tebhiḥ | rakṣante | amṛtam | sa-joṣāḥ | paśūn | ca | sthātṝn | caratham | ca | pāhi ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.6** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> त्रिः सप्त एकविंशतिसंख्याकानि गुह्यानि रहस्यानि वेदैकसमधिगम्यानि यद्यानि पदा पदानि । पद्यते गम्यते स्वर्ग अभिरिति व्युत्पत्त्या पदशब्देनात्र यज्ञा उच्यंते । ते चैकविंशतिसंख्याकाः । औपासनहोमस्वैश्वदेवादयः सप्त पाकयज्ञाः । अग्न्याधेयदर्शपूर्णमासादयः सप्त हविर्यज्ञाः । अग्निष्टोमात्यग्निष्टोमादयः सप्त सोमयज्ञाः । एवमेकविंशतिसंख्याकानि यज्ञलक्षणानि पदानि हे अग्ने त्वे इत् त्वय्येव निहिता स्थापितानि । तेषां सर्वेषां त्वत्प्रधानत्वात् । न ह्यग्निमंतरेण यागा अनुष्ठातुं शक्यंते । यज्ञियासो यज्ञार्हा अर्थित्वसामर्थ्यवैदुष्यादिभिरधिकारहेतुभिर्युक्ताः । तथा चोक्तं । अर्थी समर्थो विद्वान् शास्त्रेणापर्युदस्तः कर्मण्यधिकारीति । एवंविधलक्षणोपेता यजमानास्तानि पदान्यविदन् । अलभंत । लब्ध्वा च तेभिर्यज्ञलक्षणैः पदैरमृतमामरणधर्माणां त्वां रक्षंते । पालयंति । यजंतीत्यर्थः । सजोषाः सम्यग्यजमानैः समानप्रीतिस्त्वं पशून् गवाश्वादिपशूंश्च स्थात्न् व्रीह्यादिस्थावराणि चरथं पशुव्यतिरिक्तमन्यद्वृत्त्राणिजातमस्ति तच्च पाहि । रक्ष । तेषु हि रक्षितेषु त्वदीयो यागाः कर्तुं शक्यंते नान्यथा । अतस्त्वमेवमुच्यस इत्यर्थः ॥ यत् । सुपां सुलुगिति विभक्तेर्लुक् । गुह्यानि । गुहायां भवानि । भवे छंदसीति यत् । यतोऽनाव इत्याद्युदात्तत्वं । त्वे । सुपां सुलुगिति सप्तम्याः शेआदेशः । अविदन् । विद्ल् लाभे । लुङि लृदित्त्वादङ् । पशून् स्थात्न् । उभयत्रोभयथर्षु । पा. [८-३-८?] इत्युभयथाभावान्नकारस्य रुत्वाभावः ॥
+
+*triḥ sapta ekaviṃśatisaṃkhyākāni guhyāni rahasyāni vedaikasamadhigamyāni yad yāni padā padāni | padyate gamyate svarga abhir iti vyutpattyā padaśabdenātra yajñā ucyante | te caikaviṃśatisaṃkhyākāḥ | aupāsanahomasvaiśvadevādayaḥ sapta pākayajñāḥ | agnyādheyadarśapūrṇamāsādayaḥ sapta haviryajñāḥ | agniṣṭomātyagniṣṭomādayaḥ sapta somayajñāḥ | evam ekaviṃśatisaṃkhyākāni yajñalakṣaṇāni padāni he agne tve it tvayy eva nihitā sthāpitāni | teṣāṃ sarveṣāṃ tvatpradhānatvāt | na hy agnim antareṇa yāgā anuṣṭhātuṃ śakyante | yajñiyāso yajñārhā arthitvasāmarthyavaiduṣyādibhir adhikārahetubhir yuktāḥ | tathā coktaṃ | arthī samartho vidvān śāstreṇāparyudastaḥ karmaṇy adhikārīti | evaṃvidhalakṣaṇopetā yajamānās tāni padāny avidan | alabhanta | labdhvā ca tebhir yajñalakṣaṇaiḥ padair amṛtam āmaraṇadharmāṇāṃ tvāṃ rakṣante | pālayanti | yajantīty arthaḥ | sajoṣāḥ samyag yajamānaiḥ samānaprītis tvaṃ paśūn gavāśvādipaśūṃś ca sthātṝn vrīhyādisthāvarāṇi caratham paśuvyatiriktam anyad vṛttrāṇi-jātam asti tac ca pāhi | rakṣa | teṣu hi rakṣiteṣu tvadīyo yāgāḥ kartuṃ śakyante nānyathā | atas tvam evam ucyasa ity arthaḥ || yat | supāṃ sulug iti vibhakter luk | guhyāni | guhāyāṃ bhavāni | bhave chandasīti yat | yato 'nāva ity ādyudāttatvaṃ | tve | supāṃ sulug iti saptamyāḥ śeādeśaḥ | avidan | vidḷ lābhe | luṅi ḷditvād aṅ | paśūn sthātṝn | ubhayatrobhayatharṣu | pā. [8-3-8?] ity ubhayathābhāvān nakārasya rutvābhāvaḥ ||*
+
+*(Reading note: the bhāṣya's enumeration — three sevens of sacrifices (twenty-one), of the *pāka*, *havis* and *soma* classes — is read clearly; but "padā padāni", "padyate gamyate svarga abhir" (the derivation of *pada* as "that by which one goes to heaven"), "caratham paśuvyatiriktam…vṛttrāṇi-jātam" and the Pāṇini numeral at the end are doubtful in the print [?].)*
+
+*Meaning:* *Triḥ sapta* — twenty-one secret (*guhyāni*) things, to be fully comprehended only by the Veda, which are the "steps" (*padā*). By the derivation "*padyate gamyate svargaḥ abhiḥ*" ["by which heaven is reached"], the word *pada* here means the sacrifices; and these number twenty-one: seven *pāka*-sacrifices — the *aupāsana* homa, *vaiśvadeva* and the rest; seven *havis*-sacrifices — the *agnyādheya*, *darśapūrṇamāsa* and the rest; seven *soma*-sacrifices — *agniṣṭoma*, *atyagniṣṭoma* and the rest. These twenty-one "steps" (*padāni*) with the mark of sacrifice are placed (*nihitā*), O Agni, in you alone (*tve it*): for in all of them you are the chief; without Agni the rites cannot be done at all. The *yajñiyāsaḥ* — those worthy of sacrifice, that is, endowed with the causes of qualification — wish, ability and learning: "The one who is qualified for a rite is the one who desires it, is able, learned, and not excluded by the scripture." Such sacrificers found these steps; and having found them, with these steps marked as sacrifices, they protect (worship) you, the immortal (*amṛtam*), "one whose nature is not to die [with the mortals]". Do you, equally pleased (*sajoṣāḥ*) with the sacrificers, protect the cattle — cows, horses and the like — and the stationary (*sthātṝn*, rice and the like), and the moving (*caratham*), i.e. whatever kind of living being apart from cattle there may be: for when these are protected, your sacrifices can be performed, not otherwise — therefore you are so addressed.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *yat* (the case-ending lost by *supāṃ sulug…*); *guhyāni* ("born in a cave", *yat* in the sense *bhave chandasi*; initial acute by *yato 'nāvaḥ*); *tve* (the locative ending replaced by *śe* by *supāṃ sulug…*); *avidan* (root *vidḷ lābhe*; *aṅ* in the *luṅ* since the root is *ḷdit*); *paśūn*, *sthātṝn* (the *n* before *ca*: by the sūtra [Pā. 8-3-8?], which gives both options, *ru* does not come for the *n*).
+
+---
+
+**Progress note:** Printed pp. 1–358 done (PDF 19–376): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.5 complete (72.5: Special Topics and grammar page on pp. 355–357); **Rik 72.6** (printed "6 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (pp. 357–358). Next: p. 359 (PDF 377), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.6. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.6–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.6 (p. 358) compressed and partly doubtful [?].
