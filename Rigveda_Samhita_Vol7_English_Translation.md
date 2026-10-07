@@ -2572,4 +2572,90 @@ sutā amatsur indavo jyeṣṭhaṃ namasyatā sahaḥ ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–92 done (PDF 16–107) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.4 complete**; **Rik 84.5** — Saṃhitā, Pada (p. 91), bhāṣya (p. 92, **badly degraded in the source; Sanskrit given only as far as legible**), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 92) done; the grammar page of 84.5 not yet seen. Next: printed p. 93 (PDF 108). Fifteen Ṛks (84.6–84.20) remain after 84.5. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88; **p. 92 (bhāṣya of 84.5) largely illegible in the source** — worth re-reading from another copy.
+### Page 93 (PDF 108)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.5)** *(grammar page, noted briefly)*
+
+- **ब्रवीतन** — the root *brūñ vyaktāyāṃ vāci*, *adādi*; the *loṭ* second person plural with the affix *tha*; by "loṭo laṅvat" (Pā. Sū. 3-4-85) the *laṅ*-like state arises; in the *laṅ*, for *tha* by "tasthasthamipāṃ tāṃtaṃtāmaḥ" (Pā. Sū. 3-4-101) the substitute *ta*; with *brū+ta*, by "taptanaptanathanāś ca" (Pā. Sū. 7-1-45) the substitute *tana* comes in the Veda for *ta* of the *loṭ* (by the continuing word *tasya*); by *vyatyaya* the *pit*-hood arises for *tana*; by "bruva īṭ" (Pā. Sū. 7-3-93) *īṭ* is the augment for the root before it; by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84) guṇa, and *av* replacement: *bravītana*.
+- **अमत्सुः** — the root *madī harṣe*, *divādi*; by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the *luṅ* in the sense of prayer ('let them make (him) joyful'). Before the plural *jhi*, *cli* arises; for it the substitute *sic*; by "sicaś ca" … "sijabhyastavidibhyaś ca" (Pā. Sū. 3-4-109) the substitute *jus* for the *jhi* that follows *sic* in the *luṅ*; of *jus* only *us* remains; the augment *aṭ* for the stem; with *amad+s+us*, *iṭ* would be obtained for *sic* as a *valādi*; but "āgamaśāstram anityam" (a *paribhāṣā*) says the rules enjoining augments are non-universal, so no *iṭ* arises; "ārdhadhātukasyeḍ valādeḥ" (Pā. Sū. 7-2-35), being a rule of this *iṭ*, is therefore non-universal; by "khari ca" (Pā. Sū. 8-4-55) *carva* for the *d* of the root, giving *amatsuḥ*.
+- **नमस्यत** — a denominative; by "namovarivaścitraṅaḥ kyac" (Pā. Sū. 3-1-19) — the word *karaṇa* ('doing') continues — the affix *kyac* comes after *namas*, *varivas*, *citraṅ* in the senses of worship, service, wonder respectively; since *kyac* is of the *sanādi* group, the *kyac*-ending *namasya* gets the root-designation; the *loṭ* second person plural, *tha* replaced by *ta*, as before.
+- **सहः** — "the word *sahas* occurs in the sense of strength. Here it is used in the sense 'one who has that'. In the sūtra "matvarthe māsatannoḥ" (Pā. Sū. 4-4-[?]) the *vārttika* "lugakāreṇa… vaktavyāḥ" is read: the affix enjoined in the *matup* sense is dropped; here, since the stem ends in *as*, *vin* would be obtained in the *matup* sense; by this *vārttika* *luk* of the *matup*-sense affix arises, though the sense is shown. *Yaḥ śiṣyate saḥ*… *(the remainder of the sentence is on p. 94)*
+
+### Page 94 (PDF 109)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Grammar of Rik 84.5, concluded:* "…by the maxim '*lupyamānārthābhidhāyī*' (the sense of a dropped affix is still understood), even though the *matup*-sense affix is dropped here, the sense is shown by the stem." ||5||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.6**
+
+> नकिष्ट्वद्रथीतरो हरी यदिन्द्र यच्छसे ।
+> नकिष्ट्वानु मज्मना नकिः स्वश्व आनशे ॥ ६ ॥
+
+*nakiṣ ṭvad rathītaro harī yad indra yacchase |
+nakiṣ ṭvānu majmanā nakiḥ svaśva ānaśe ||6||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> नकिः । त्वत् । रथिऽतरः । हरी इति । यत् । इन्द्र । यच्छसे ।
+> नकिः । त्वा । अनु । मज्मना । नकिः । सुऽअश्वः । आनशे ॥ ६ ॥
+
+*nakiḥ | tvat | rathi-taraḥ | harī iti | yat | indra | yacchase | nakiḥ | tvā | anu | majmanā | nakiḥ | su-aśvaḥ | ānaśe ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र यद्यस्मात्त्वं हरी एतत्संज्ञावश्वौ यच्छसे रथे योजयसि तस्मात्त्वत्तोऽन्यः कश्चिद्रथीतरोऽतिशयेन रथवान् नकिः । नास्ति । अन्येषामीदृग्रश्वयुक्तरथाभावात् । त्वा त्वामनुलक्ष्य मज्मना । बलनामैतत् । बलेन सदृशोऽपि नकिः । न ह्यस्ति । स्वश्वः शोभनाश्वोऽन्यः कश्चित्त्वां नकिरानशे । न प्राप । इन्द्रस्य बलाश्वयोरसाधारणत्वादिन्द्रसदृशो बलवानश्ववान् लोके कश्चिदपि नास्तीत्यर्थः ॥ नकिष्ट्वत् । युष्मत्तत्ततक्षुःष्वन्तःपादमिति षत्वम् । रथीतरः । अतिशयेन रथी । तरपीद्रथिनः । पा. ८-२-८२? [?] इति ईकारान्तादेशः । अवग्रहसमये छान्दसं ह्रस्वत्वम् । यच्छसे । यमेर्व्यत्ययेनात्मनेपदम् । स्वश्वः । बहुव्रीहावाद्युदात्तत्वम् । द्व्यचश्छन्दसीत्युत्तरपदाद्युदात्तत्वम् । आनशे । अश्नोतेश्छन्दसीत्यादिना उत्तरस्य नुट् ॥ ६ ॥
+
+*he indra yad yasmāt tvaṃ harī etatsaṃjñāv aśvau yacchase rathe yojayasi tasmāt tvatto 'nyaḥ kaścid rathītaro 'tiśayena rathavān nakiḥ | nāsti | anyeṣām īdṛgaśvayuktarathābhāvāt | tvā tvām anulakṣya majmanā | balanāmaitat | balena sadṛśo 'pi nakiḥ | na hy asti | svaśvaḥ śobhanāśvo 'nyaḥ kaścit tvāṃ nakir ānaśe | na prāpa | indrasya balāśvayor asādhāraṇatvād indrasadṛśo balavān aśvavān loke kaścid api nāstīty arthaḥ || nakiṣṭvat | yuṣmattattatakṣuḥṣvantaḥpādam iti ṣatvam | rathītaraḥ | atiśayena rathī | tarapīd rathinaḥ | pā. 8-2-82? [?] ity īkārāntādeśaḥ | avagrahasamaye chāndasaṃ hrasvatvam | yacchase | yamer vyatyayenātmanepadam | svaśvaḥ | bahuvrīhāv ādyudāttatvam | dvyaca śchandasīty uttarapadādyudāttatvam | ānaśe | aśnoter chandasīty ādinā uttarasya nuṭ || 6 ||*
+
+*Sense:* "O Indra, since you yoke (*yacchase*) your two bays, the horses of that name, to the chariot, therefore no one other than you is *rathītaraḥ* — exceedingly possessed of a chariot (a better charioteer): none (*nakiḥ*) exists, because others have no chariot yoked with such horses. Looking to you (*tvā anu*), none is equal in *majmanā* — strength; none exists. And no other possessed of good horses (*svaśvaḥ*) has reached (*ānaśe* = *na prāpa*) you. Because Indra's strength and horses are unique, there is no one in the world equal to Indra in strength or in having horses." *The grammatical tail* (characterized): *nakiṣṭvat* — *ṣatva* by "yuṣmat-tat-takṣuḥṣv antaḥpādam"; *rathītaraḥ* — the affix *tarap* with *ī*-substitution for *rathin*; shortening at the *avagraha*; *yacchase* — *ātmanepada* by *vyatyaya*; *svaśvaḥ* — a *bahuvrīhi* with initial-udātta; *ānaśe* — the augment *nuṭ* after *aś*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.6** *(Kannada; begins at the foot of p. 94)*
+
+- **इन्द्र** — "O Indra"
+- **यत्** — "when"
+- **हरी** — "(your) horses called *Hari*"
+- **यच्छसे** — "you yoke (to the chariot)"
+- **रथीतरः** — "a charioteer superior to you"
+- **नकिः** — "there is none (not)…"
+
+### Page 95 (PDF 110)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Pratipadārtha of Rik 84.6, concluded:*
+
+- **(नकिः)** — "(there is) none (not)"
+- **त्वा** — "(looking to) you"
+- **मज्मना** — "equal in strength"
+- **नकिः** — "no one"
+- **स्वश्वः** — "any other with good horses, yoked (to the chariot)"
+- **नकिः आनशे** — "none has overtaken you (driven after you)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.6** *(Kannada)*
+
+"O Indra, when you yoke your horses called *Hari* to the chariot, there is no charioteer who surpasses you. There is none who has strength like you. However excellent the horses he drives, none can drive the chariot after you, leaving you behind."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, when you harnessed your horses there is no better charioteer than you ; no one is equal to you in strength ; no one although possessed of good horses has surpassed you." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.6)**
+
+- **नकिः** — "since the nine words beginning *hikam, nukam* are read among the words in the sense of 'all that is said (*sarvapadasamāmnāya*)', the word *nakiḥ* is explained here in the sense of negation. *Nakiḥ* means 'there is not'."
+- **रथीतरः** — "the best among charioteers."
+- **मज्मना** — "since the word *majmanā* is read among the twenty-eight names of strength beginning *ojaḥ, pājaḥ*, this word means strength, power."
+- **स्वश्वः** — *śobhanāśvayuktaḥ* — "one who has excellent horses."
+- **न आनशे** — *na prāpa* — "he does not obtain, or does not exist."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.6)** *(grammar page, noted briefly; runs to p. 96)*
+
+- **नकिष्ट्वत्** — *nakiḥ* + *tvat* (a division of the words). *Nakis* is an indeclinable ending in *s*. In *nakis+tvat*, by "yuṣmattattatakṣuḥṣvantaḥpādam" (युष्मत्तत्ततक्षुःष्वन्तःपादम्, Pā. Sū. 8-3-103) the *s* in the middle of a pāda gets *ṣatva* when it is followed by the substitutes of *yuṣmad* beginning with *t* — *tvat*, *tat*, *tatakṣus* [the *takṣus* forms] — all of which are substitutes for *yuṣmad* etc.; here *tvat* is that substitute; when *ṣatva* has occurred, by "ṣṭunā ṣṭuḥ" (Pā. Sū. 8-4-41) the *ṣṭutva* sandhi follows for the *t* after *ṣ*.
+
+---
+
+**Progress note:** Printed pp. 1–95 done (PDF 16–110) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.5 complete** (grammar of 84.5 on pp. 93–94; the bhāṣya of 84.5 on p. 92 is largely illegible in the source); **Rik 84.6** — Saṃhitā, Pada, bhāṣya (p. 94), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 94–95) done; its grammar page is begun on p. 95 (*nakiṣṭvat*) and continues on p. 96 (PDF 111). Next: printed p. 96 (PDF 111). Fourteen Ṛks (84.7–84.20) remain after 84.6. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
