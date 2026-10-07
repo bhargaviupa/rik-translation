@@ -14224,4 +14224,107 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 ---
 
-**Progress note:** Printed pp. 1–616 done (PDF 19–634): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.15 complete**; **Rik 80.16** (the last Ṛk) — Saṃhitā, Pada, bhāṣya (p. 613), Pratipadārtha, Bhāvārtha, the source's English (p. 614) and the Special Topics (pp. 614–616; the Dadhyañc legends, the 9 × 3 × 3 × 10 = 810 computation and the Ṛgveda reference list given as read, numerals [?]) done; the grammar page of 80.16 and the closing line of Sūkta 80 (the last sūkta of Volume 6), and whatever follows, not yet seen. Next: p. 617 (PDF 635). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594, 611); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt; the Dadhyañc reference numerals on p. 616.
+### Page 617 (PDF 635)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 80.16, continued (the persons named in the Ṛk; Ṛgvedic citations in three layers, glosses mine and tentative, reference numerals as read, all [?]):*
+
+- **अथर्वा** — "*Atharvā* — a well-known ṛṣi, the primal ancestor of a group of ṛṣis. In the places where this word is used in the plural, the sense is 'the descendants of this ṛṣi'. In some places —
+
+> दश रथान्प्रष्टिमतः शतं गा आथर्वणेभ्यः ।
+> अश्वथः पायवे ददात् ॥
+
+*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛk. Saṃ. 6-47-[24] [?]) — *Gloss, mine and tentative:* "Ten chariots with their (team) and a hundred cows (he gave) to the Ātharvaṇas; Aśvatha gave to Pāyu."
+
+— in this and other Ṛks there is the praise of a gift (*dānastuti*): King Aśvatha gave chariots, cows and so on to those of the Atharvan line.
+
+> अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
+> देवं देवाय देवयु ॥
+
+*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛk. Saṃ. 9-11-[2] [?]) — *Gloss, mine and tentative:* "The Atharvans have mixed milk with your honey (Soma), the divine for the god, desiring the gods."
+
+— in this Ṛk it is mentioned that these of the Atharvan line offered Soma juice mixed with milk to Soma. The name of this ṛṣi is also found in —
+
+> यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतपा वेन आजनि ।
+
+*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |* (Ṛk. Saṃ. 1-83-[5] [?]) — *Gloss, mine and tentative:* "By sacrifices Atharvan first opened the paths; then was born the sun, guardian of the law, the radiant."
+
+> त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ।
+
+*tvām agne puṣkarād adhy atharvā niramanthata |* (Ṛk. Saṃ. 6-16-[13] [?]) — *Gloss, mine and tentative:* "You, O Agni, Atharvan churned out from the lotus (the sky/waters)."
+
+> [ऐना महान्त्स्पहद्दिवो आथर्वणोऽचिक्षयाम् [?] तन्वं मिन्द्रमेव] [?]
+
+*[the third citation printed at the foot of this group is garbled at this resolution and I do not reproduce it]* (Ṛk. Saṃ. 10-[120]-[9] [?]).
+
+— in these Ṛks the word occurs. In the tenth *maṇḍala* of the Ṛgveda (Ṛk. Saṃ. 10-[120] [?]) there is a sūkta addressed to Indra, seen by the ṛṣi Bṛhaddiva, of the lineage of this ṛṣi Atharvan."
+- **मनुः** — "In the Ṛgveda the name of Manu occurs in many places, but nowhere is there much detail. Manu is known to be the primal man (*mūlapuruṣa*) of the human race and also the guide in the order of procedure of sacrifices and the like. When he was distributing his property among his sons, his youngest son, Nābhānediṣṭha, who was studying in the *gurukula* as a *brahmacārin*, received no share; having finished his studies he came and asked his father for his inheritance (*dāyabhāga*). *(the passage runs on to p. 618)*
+
+### Page 618 (PDF 636)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.16, continued:*
+
+"Manu told him: 'Go to the place where the Aṅgirasa ṛṣis are performing a sacrifice and teach them some mantras; they will give you wealth as you wish.' This story is related in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. Because the sacrifice performed by this Manu is famous, the matter of Manu's sacrifice is also mentioned there in the Ṛgveda. The matter of this Manu is stated, besides the Ṛgveda, in the Atharvaveda (14-2-41 [?]), the Taittirīya Saṃhitā (1-5-1-3 [?]; 2-5-1-3; 3-1-9-4; …), the Kāṭhaka Saṃhitā (…), the Śatapatha Brāhmaṇa (1-1-4-14 [?]), the Jaiminīya Upaniṣad Brāhmaṇa (3-12-1 [?]) and other places." *(All reference numerals in this paragraph are printed in Kannada numerals, and are given as read and uncertain [?].)*
+
+"Because Manu is the son of Vivasvān (Ṛk. Saṃ. 8-[52]-1 [?]), the Sun-god, he is called *Vaivasvata* (Ath. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?]); because he is of the lineage of the woman (*Savarṇā*) he is *Sāvarṇi*; and because he is of the lineage of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛk. Saṃ. 5-[33]-1 [?]) — he has many names."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.16)** *(grammar page, noted briefly; begins here, runs to p. 619)*
+
+- **अत्नत** — the root *tanu vistāre* (तनु विस्तारे); *laṅ*, third person plural, *jha*; by "bahulaṃ chandasi" the *luk* of the stem-marker (*vikaraṇa*); by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) *at* for the affix *jha*; by "tanipatyoś chandasi" (तनिपत्योश्छन्दसि, Pā. Sū. 6-4-99) the loss of the penultimate of the root in the Veda; the augment *aṭ* for the stem; *atnata*. Since *yām* in the preceding connection is related, by "yadvṛttān nityam" (Pā. Sū. 8-1-66) the nighāta is prohibited; as the augment *aṭ* is udātta, it is *ādyudātta*.
+- **पूर्वथा** — *pūrvam iva pūrvathā*: after the word *pūrva*, by "pratnapūrvaviśvemāt thāl chandasi" (प्रत्नपूर्वविश्वेमात्थाल् छन्दसि, Pā. Sū. 5-3-111) the affix *thāl* in the sense 'like'; since it is *l*-marked, by "liti" (Pā. Sū. 6-1-193) the syllable before the affix is udātta.
+- **उक्था** — in the neuter, the substitute *śi* (*ukthā*) arises; by "śeś chandasi bahulam" (Pā. Sū. 6-1-70) the *śi* is dropped.
+- **समग्मत** — the root *gamḷ gatau* (गम्ऌ गतौ); because *sam* precedes, by "samo gamyṛcchi-prachi-…" (समो गम्यृच्छिप्रच्छिस्वरत्यर्तिश्रुविदिभ्यः, Pā. Sū. 1-3-29) the *ātmanepada*; *luṅ*, third person plural; by "ātmanepadeṣv anataḥ" the *at* for the affix *jha*; when *cli* arises *(continued on p. 619)*
+
+### Page 619 (PDF 637)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.16, continued from p. 618:*
+
+- **समग्मत** (continued) — "…when *cli* arises, by "mantre ghasa-hvara-ṇaśa-vṛda-…" (मन्त्रे घसह्वरणशवृदहाद्वृच्कृगमिजनिभ्यो लेः, Pā. Sū. 2-4-80) the *luk* of it; by "gamahanajana…" (गमहनजनखनघसां लोपः क्ङित्यनङि, Pā. Sū. 6-4-98) the loss of the penultimate of the root; the augment *aṭ* for the stem; nighāta accent for the *tiṅanta* *agmata*, since *atiṅanta* in the pāda. ||16||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+*(There is no separate closing line "…sūktavu samāptavu" for Sūkta 80 in the print: the sūkta runs straight into the colophon of the Adhyāya below.)*
+
+**Colophon of the Fifth Adhyāya** *(Sanskrit in Kannada script, centred; three layers)*
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+*vedārthasya prakāśena tamo hārdaṃ nivārayan |
+pumarthāṃś caturo deyād vidyātīrthamaheśvaraḥ ||*
+
+*Translation:* "May Maheśvara, the Vidyātīrtha ('the holy ford of learning'), dispelling by the light of the meaning of the Veda the darkness of the heart, grant the four goals of human life."
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये प्रथमाष्टके पञ्चमोऽध्यायः समाप्तः ॥ ॐ तत्सत् ॥
+
+*iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka-śrīvīrabukkabhūpāla-sāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye prathamāṣṭake pañcamo 'dhyāyaḥ samāptaḥ || oṃ tat sat ||*
+
+*Translation:* "Thus ends the fifth chapter (*adhyāya*), in the first *aṣṭaka*, of the commentary on the Ṛgveda Saṃhitā in the *Vedārthaprakāśa* of the *Mādhavīya*, composed by Sāyaṇācārya, who bears the burden of the empire of the illustrious King Vīra Bukka, the promoter of the Vedic path under the great sovereign (*rājādhirāja-parameśvara*). Oṃ tat sat."
+
+**Kannada closing line:** ಇಲ್ಲಿಗೆ ಶ್ರೀಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ ಋಗ್ವೇದಸಂಹಿತೆಯ ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಐದನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವಾದುದು. — *illige śrī sāyaṇabhāṣyasahitavū karnāṭakabhāṣānuvādayutavū āda ṛgvedasaṃhiteya prathamāṣṭakadalli aidaneya adhyāyavu samāptavādudu.* — "Here, in the first *aṣṭaka* of the Ṛgveda Saṃhitā, which is accompanied by the illustrious Sāyaṇa-bhāṣya and by a Kannada-language translation, the fifth adhyāya is completed."
+
+**Closing verse of apology** *(Sanskrit in Kannada script)*:
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+*yad akṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yad bhavet |
+tat sarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ||*
+
+*Translation:* "Whatever may have fallen short in syllable or word, or lacks in measure — may all that be forgiven, O God, Lord of Speech; salutation to you."
+
+> ॥ शुभं भूयात् ॥ — *śubhaṃ bhūyāt* — "May it be auspicious."
+> ॥ मङ्गळम् ॥ — *maṅgaḷam* — "Auspiciousness."
+
+### Page 620 (PDF 638 — the last page of the source)
+
+*(Unnumbered final page.)* A printer's device: an engraved figure of the goddess Durgā, many-armed and bearing weapons, seated on a lion over a fallen demon (the printer's ornament). At the foot, the printer's imprint in Kannada: ಆರ್. ಕೃಷ್ಣ ಶೆಟ್ಟಿ, ಪ್ರಿಂಟರ್, ಶ್ರೀ ಶಾರದಾ ಪ್ರೆಸ್, ಮೈಸೂರು. — *ār. kṛṣṇa śeṭṭi, priṇṭar, śrī śāradā presh, maisūru.* — "R. Krishna Shetty, Printer, Sri Sharada Press, Mysore." *(The source file ends here.)*
+
+---
+
+**Progress note:** **VOLUME 6 IS COMPLETE.** Printed pp. 1–620 done (PDF 19–638, the last page of `Rig_Vol6.pdf`): Sūktas 62–80 of Maṇḍala 1 (the Fifth Adhyāya of the First Aṣṭaka), with the colophon of the Fifth Adhyāya (p. 619) and the printer's imprint (p. 620). Sūkta 80 (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) is finished, with no separate "…sūktavu samāptavu" line (the sūkta runs into the colophon). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya/Śatapatha numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594, 611, 617); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610); the Dadhyañc/Manu reference numerals on pp. 616–618. The source cross-reference "Ṛk Saṃhitā volume N, pp. 640–641" (Sūkta 7x) and the grammar page of Rik 76.1 folded across pp. 471–472 remain flagged. No PR; no docx/PDF rebuild unless asked.
