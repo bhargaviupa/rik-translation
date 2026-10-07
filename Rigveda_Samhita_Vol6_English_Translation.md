@@ -8184,4 +8184,75 @@ adhi dyumnaṃ ni dadhur bhūry asmin bhavā viśvāyur dharuṇo rayīṇām ||
 
 ---
 
-**Progress note:** Printed pp. 1–396 done (PDF 19–414): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.3 complete (73.3's Special Topics and grammar page on pp. 394–396); **Rik 73.4** (printed "4 ||") — Saṃhitā done (p. 396). Next: p. 397 (PDF 415), the Pada and the Sāyaṇa-bhāṣya of Rik 73.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Special Topics on p. 394 compressed [?].
+### Page 397 (PDF 415)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.4**
+
+> तम् । त्वा । नरः । दमे । आ । नित्यम् । इद्धम् । अग्ने । सचन्त । क्षितिषु । ध्रुवासु ।
+> अधि । द्युम्नम् । नि । दधुः । भूरि । अस्मिन् । भव । विश्वऽआयुः । धरुणः । रयीणाम् ॥ ४ ॥
+
+*tam | tvā | naraḥ | dame | ā | nityam | iddham | agne | sacanta | kṣitiṣu | dhruvāsu | adhi | dyumnam | ni | dadhuḥ | bhūri | asmin | bhava | viśva-āyuḥ | dharuṇaḥ | rayīṇām ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.4** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने तं त्वा पूर्वोक्तगुणविशिष्टं त्वां नरो यज्ञस्य नेतारो यजमाना ध्रुवासु क्षितिषु निश्चलासु चलनरहितासु भूमिषु । निरुपद्रवेषु ग्रामेष्वित्यर्थः । दमे स्वकीये यज्ञगृहे नित्यमिद्धमनवरतं समिद्धिः प्रज्वलितं कृत्वा आ सचंते । अभिमुख्येन सेवंते । किंचास्मिन्नग्नौ द्युम्नं हविर्लक्षणमन्नं भूरि चरुपुरोडाशादिरूपेण बहुविधमधि नि दधुः । स्थापितवंतः । एवंगुणविशिष्टो ऽग्निः स त्वं विश्वायुरुक्तप्रकारेण सर्वान्नो भूत्वा रयीणां धनानां धरुणो धारयिता भव । अस्मभ्यं दातुं धनानि धारयेत्यर्थः ॥ सचंते । षच समवाये । छांदसो वर्तमाने लङ् । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः । भव । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । धरुणः । धारेर्णिलुक्चेत्यनप्रत्ययः ॥
+
+*he agne taṃ tvā pūrvoktaguṇaviśiṣṭaṃ tvāṃ naro yajñasya netāro yajamānā dhruvāsu kṣitiṣu niścalāsu calanarahitāsu bhūmiṣu | nirupadraveṣu grāmeṣv ity arthaḥ | dame svakīye yajñagṛhe nityam iddham anavaratam samiddhiḥ prajvalitaṃ kṛtvā ā sacante | abhimukhyena sevante | kiṃ cāsminn agnau dyumnaṃ havirlakṣaṇam annaṃ bhūri caru-puroḍāśādirūpeṇa bahuvidham adhi ni dadhuḥ | sthāpitavantaḥ | evaṃguṇaviśiṣṭo 'gniḥ sa tvaṃ viśvāyur uktaprakāreṇa sarvānno bhūtvā rayīṇāṃ dhanānāṃ dharuṇo dhārayitā bhava | asmabhyaṃ dātuṃ dhanāni dhārayety arthaḥ || sacante | ṣaca samavāye | chāndaso vartamāne laṅ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | bhava | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | dharuṇaḥ | dhārer ṇiluk cety anapratyayaḥ ||*
+
+*(Reading note: the print is clear; "dhārer ṇiluk ca" and "dvyaco 'tastiṅaḥ" are read as printed [?]; Pāṇini numerals not given.)*
+
+*Meaning:* O Agni, you, endowed with the qualities spoken of, the leaders of the sacrifice (*naraḥ*) — the sacrificers — in the firm (*dhruvāsu*) lands — immovable lands, in villages free from calamity — in their own (*dame*) sacrificial house, constantly (*nityam*) kindled (*iddham*) — ever lit with fuel — approach (*ā sacanta*) face to face. And in this Agni they have placed (*adhi ni dadhuḥ*) much (*bhūri*) food (*dyumnam*) in the form of oblation — of many kinds, as *caru*, *puroḍāśa* and the rest. Such a Agni — you, *viśvāyuḥ* (eater of all food, in the way said) — become the supporter (*dharuṇaḥ*) of wealth: that is, hold wealth to give to us.
+
+**Grammatical tail** *(characterized, not transcribed)*: *sacante* (root *ṣaca samavāye*; Vedic *laṅ* in the present sense; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*); *bhava* (the final vowel lengthened in saṃhitā); *dharuṇaḥ* (root *dhṛ*; the *ana*-affix with *ṇi*-loss).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *tam tvā* — you (endowed with the qualities spoken of); *naraḥ* — the men (leaders of the sacrifice); *dhruvāsu kṣitiṣu* — in the immovable (free from calamity) places; *dame* — in their own sacrificial house; *nityam* — daily; *iddham* — kindled with fuel and the like; *ā sacante* — they approach and serve; *asmin* — in Agni; *dyumnam* — the food in the form of oblation; *bhūri* — abundantly; *adhi ni dadhuḥ* — they placed; *viśvāyuḥ* — (such you) who has all as food (for us); *rayīṇām* — of wealth; *dharuṇaḥ* — become the supporter.
+
+---
+
+### Page 398 (PDF 416)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! The sacrificers keep you, described above, constantly kindled with fuel and the like in their own sacrificial halls, in places free from calamity, and offer oblations as they please. Such you, who eat all (for us), bestow wealth upon us.
+
+**English Translation** *(the source's own, as printed):*
+
+> Such as you are, Agni, men preserve you constantly kindled in their dwellings, in secure places, and offer upon you abundant (sacrificial) food; you in whom is all existence, are the bearer of riches (for advantage).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **ध्रुवासु क्षितिषु** — *nirupadraveṣu grāmeṣv ity arthaḥ* — "since the word *kṣiti* is read among the twenty-one names of earth — *gauḥ*, *gmā* and so on (Ni. [1-1?]) — it means 'earth'. Since the word *dhruva* of the sense 'firm' is used as an adjective to *kṣiti*, Sāyaṇa explains it as 'immovable earth'. The use of the word *dhruva* as an adjective for the always-firm earth, being an instance of the figure *arthāntara-pratyāyaka* ('conveying another meaning'), shows by implication the meaning 'places where beings live', that is, a village free from any anxiety.
+
+  Skandasvāmin: *kṣitiṣu dhruvāsu | kṣitir iti pṛthivīnāma | iha ca athāpi tad dhitena kṛṣṇavan nigamā bhavanti* (Ni. [1-5?]) *ity evaṃ tadavayaveṣu prayuktam | pṛthivyavayaveṣu vedyādyākhyeṣu dhruveṣu* — 'Yāska says: "even if only a part of a name is used in the Ṛks, the names are complete [for the whole]"; therefore, though *kṣiti* denotes the whole earth, here, with the plural, the parts of the earth are meant — he explains: the altars and the like, firm places where Agni is established for oblation'."
+- **दमे** — "*gayaḥ*, *kṣayaḥ* and so on — since the word *dama* is read among the twenty-two names of house (Ni. [3-4?]), it means 'sacrificial house' — the house where Agni is always kindled with fuel and with oblations."
+- **द्युम्नम्** — *carupuroḍāśādihavirlakṣaṇam annam* — "food in the form of oblations such as *caru* and *puroḍāśa*, which are offered as oblation-portions in Agni. Yāska says: *dyumnaṃ dyotater yaśo vā annaṃ vā* (Ni. [5-5?]), explaining the word *dyumna* [as] 'splendour' of one who is eating food, or 'fame'; it is of the nature to give splendour to him who eats food, and, when enemies have been destroyed, to give splendour also to fame; so it is said as a word for food and for fame. He gives the example:
+
+  > जहि वधर्वनुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ।
+  > *jahi vadhar vanuṣo martyasyāsme dyumnam adhi ratnaṃ ca dhehi* (Ṛk. Saṃ. [2-23-?]; Ni. [5-5?])"
+
+  *(Gloss mine and tentative: "strike the weapon of the mortal who assails; place on us glory and treasure"; the Ṛgveda numerals [?].)* *(continued on p. 399)*
+
+---
+
+### Page 399 (PDF 417)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; the print shows no foot signature.)*
+
+**Special Topics of Rik 73.4 (concluded)**
+
+- **धरुणः** — *dhārayitā* — "'one who holds', says Sāyaṇa. The word *dharuṇa* is read among the hundred names of water (Ni. [1-12?]). Skandasvāmin: *dharuṇa* from *dhṛ dhāraṇe*; *anyatra*; *iha tu sāmarthyāt dānavacanaḥ* — 'elsewhere it denotes holding; here, by the context, it denotes giving': though the word, formed from the root *dhṛ* "to hold", conveys elsewhere the sense of holding, here, because it makes plain the power of the object under discussion, it conveys the sense of giving: Agni is the giver (*dātā*) of wealth, *rayīṇāṃ dharuṇaḥ*."
+- **भव विश्वायुः** — *sarvānnaḥ* — "Sāyaṇa: 'Agni eats everything as food'. The word *āyus* in the world and in the Veda gives the sense 'the time during which one lives'; in the śruti also *pra ṇa āyūṃṣi tāriṣat* (Ṛk. Saṃ. [10-18-?]; Ni. [10-?]) it signifies life. Here, since it is read among the twenty-eight [as read, ?] names of food (Ni. [2-7?]), it means 'food'. Skandasvāmin: *sarvānnasaṃbaddhaḥ haviroktā* — 'the one who eats all kinds of food in the form of oblations'; and *sarveṣām annānāṃ dātā* — 'the giver of all food'." *(Gloss mine and tentative on the Ṛk: "may he prolong our lives".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.4, noted briefly; not transcribed)*
+
+Words treated: *nityam* (by the vārttika *tyab-nedhruva iti vaktavyam* [as read, Vā. [?]], the affix *tyap* in the sense "fixed" after the indeclinable *ni*; being *pit*, anudātta); *iddham* (root *iñidhī dīptidevanayoḥ*; *kta* following; by *anidiśāṃ halām upadhāyāḥ kṅiti*, Pā. [6-4-24], loss of the penultimate nasal; by *jhaṣas tathor dho 'dhaḥ*, Pā. [8-2-40], *dh* for the *t* after the *dh*; by *jhalāṃ jaś jhaśi*, Pā. [8-4-53], *jaśtva* for the earlier aspirate; the affix's accent makes the final acute); *agne* (since it is not at the head of a pāda, no nighāta; by *āmantritasya ca*, Pā. [6-1-198], initial acute). *(The page ends here, with the grammar page continuing on p. 400.)*
+
+---
+
+**Progress note:** Printed pp. 1–399 done (PDF 19–417): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.3 complete; **Rik 73.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 397–399) and the first part of the grammar page (up to *agne*) done. Next: p. 400 (PDF 418), the rest of the grammar page of 73.4; then Rik 73.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 398–399 (as read) and their glosses tentative [?].
