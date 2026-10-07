@@ -7371,4 +7371,55 @@ tebhī rakṣante amṛtaṃ sajoṣāḥ paśūñ ca sthātṝñ caratham ca p�
 
 ---
 
-**Progress note:** Printed pp. 1–358 done (PDF 19–376): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.5 complete (72.5: Special Topics and grammar page on pp. 355–357); **Rik 72.6** (printed "6 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (pp. 357–358). Next: p. 359 (PDF 377), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.6. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.6–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.6 (p. 358) compressed and partly doubtful [?].
+### Page 359 (PDF 377)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 72.6** *(Kannada)*
+
+*yajñiyāsaḥ* — those competent to perform sacrifice (the qualified); *triḥ sapta* — twenty-one in number (the *agnyādheya* and the rest); *guhyāni* — mystic (what may be known only through the Veda); *yat* — which; *padā* — the "steps", sacrifices (those); *tve it* — in you alone; *nihitā* — placed (those to be practised); *avidan* — they knew; *tebhiḥ* — by those sacrifices; *amṛtam* — the immortal (you); *rakṣante* — they protect (worship); *sajoṣāḥ* — (you) of equal affection; *paśūn* — cattle and the like; *sthātṝn ca* — and the stationary rice and the like; *caratham ca* — and the moving other beings; *pāhi* — protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The qualified who are competent to sacrifice, knowing the mystic twenty-one sacrifices beginning with the *agnyādheya* as things to be practised in you alone, worship you, the immortal, with those sacrifices. In the same way, you, with equal affection, protect their cattle, rice and other grains, and the other beings (since these are the means of the sacrifices).
+
+**English Translation** *(the source's own, as printed):*
+
+> (Devout men), competent to offer sacrifices, have known the thrice seven mystic rites comprised in you, and with them, worshipped you. do you, therefore, with like affection, protect their cattle, and all that (belongs to them), moveable or stationary.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **त्रिःसप्त गुह्यानि पदानि** — *padyate gamyate svarga abhir iti padaśabdenātra yajñā ucchante* [as printed, *ucyante*] — "'The word *pada* denotes sacrifices here, because through their performance heaven is reached.' The seven *pāka*-sacrifices, *aupāsana*-homa, *vaiśvadeva* and the rest; the seven *havis*-sacrifices, beginning with the *agnyādheya* and *darśapūrṇamāsa*; the seven *soma*-sacrifices, beginning with the *agniṣṭoma* and *atyagniṣṭoma* — all together these are twenty-one. Since without Agni these cannot be performed, and since Agni is their chief, those who worship Agni are the ones fit to know them through the Veda alone."
+
+---
+
+### Page 360 (PDF 378)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.6 (continued)**
+
+- **यज्ञियासः** — *yajñārhāḥ* — "those who have the proper qualification for performing sacrifices: those who possess the *ability* to prepare the things necessary for completing the sacrifice, even if one had to ask for them; those who possess the *power* to carry out the sacrificial rites; and those who have the *knowledge* of the order laid down in the scripture for the performance of sacrifice — those who have these three kinds of ability are qualified to perform sacrifice. *Arthī samartho vidvān śāstreṇāparyudastaḥ karmaṇy adhikārī* — 'one who desires, is able, is learned and is not excluded by the scripture is qualified for the rite' — so the scripture too, discriminating among the qualified for sacrifice, has said. Following this order, the sacrificers know Agni's twenty-one kinds of sacrifice-form places — that is, the twenty-one sacrificial rites; and in this order they become fit for Agni's favour."
+- **सजोषाः स्थात्न्र्… चरथं च पाहि** — "The sacrificers who perform the sacrifice have toward Agni a corresponding affection; Agni, who has a [corresponding] affection toward the sacrificers, is spoken of by the word *sajoṣāḥ*. A prayer is meant here to Agni: 'Protect the wealth of the sacrificers, in the form of the stationary (grains) and the moving beings, since if it is not protected, sacrifices and the like cannot be performed.'"
+- *The order [of explanation] given in Skandasvāmin's commentary:* **त्रिः सप्त यद् गुह्यानि पदानि** — "Here he tells a story (*itihāsa*): The gods had hidden the twenty-one metres in Agni, in secret. The Aṅgirasa sages, worshipping Agni, learned them by Agni's favour. This story is suggested here by this mantra. The seven metres are *gāyatrī*, *uṣṇik*, *anuṣṭubh*, *bṛhatī*, *paṅkti*, *triṣṭubh* and *jagatī*. Of these, four metres are excellent. Each of these metres is of three kinds — *brāhma*, *daiva* and *ārṣa* — or of three other kinds, *pūrṇa* ('full'), *nyūna* ('deficient') and *adhika* ('excessive'), which makes twenty-one varieties. 'Full' means filled with syllables in accordance with the measure of the metre in question; those with fewer syllables are 'deficient'; those with more syllables than the measure of the metre are 'excessive'. When the metre *gāyatrī* and the others are lacking by one syllable or two, the name is *nicṛt gāyatrī* (lacking one) and *virāṭ gāyatrī* (lacking two); likewise, when a syllable is in excess, *bhurik gāyatrī*; when two syllables are in excess, *svarāṭ gāyatrī*. Although the *gāyatrī* metre has these other names of lesser or greater syllables — *nicṛt*, *virāṭ*, *bhurik*, *svarāṭ* — the well-known name *gāyatra* [*gāyatrī*] itself does not go —" *(continued on p. 361)*
+
+---
+
+### Page 361 (PDF 379)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 72.6 (continued; concluded)**
+
+> न वा एकेनाक्षरेण छन्दांसि वियन्ति न द्वाभ्याम् ।
+> *na vā ekenākṣareṇa chandāṃsi viyanti na dvābhyām* (Ai. Brā. [1-1?], as read)
+
+"…the śruti too says so. Some metres other than the *gāyatrī* are larger; and other metres are variants of the *gāyatrī* metre. Therefore they are not counted separately. Thus the metres become twenty-one: the cause of the metres being twenty-one is the lack or excess of syllables in the seven metres, *gāyatrī* and the rest. This is what is said in this mantra as *triḥ sapta padāni*. **यज्ञियासः** — the Aṅgirasa sages, who are qualified to offer sacrifice, by the power of their knowledge, understood Agni's qualities through the qualities of these metres, in which the gods had hidden themselves in Agni. Having thoroughly known Agni's greatness, they protected him, who is a deity — that is, if they had not praised Agni with the mantras of the various metres, Agni's qualities would be forgotten and they would be lost; therefore, to make Agni's qualities well known, the actions of the Aṅgirasa sages are figuratively called *Agni's protection*. 'O Agni, with equal affection protect our cattle and all our wealth, that are fixed and moving' — such, it is said, is the sense of the prayer in this mantra." *(The Brāhmaṇa quotation is read from the print; numerals doubtful [?]; gloss mine and tentative: "metres do not depart [from their kind] by one syllable, nor by two".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.6, noted briefly; not transcribed)*
+
+Words treated: *padā* (neuter nominative/accusative plural; loss of *śi* by *śeś chandasi bahulam*); *yat* (the stem *yad* before *jas*: the ending lost by *supāṃ sulug…*); *guhyāni* ("born in a cave", *guhāyāṃ bhavāni*; *yat* in the sense *bhave chandasi*, Pā. [4-4-110]; loss of the *ā* of *guhā* by *yasyeti ca*; plural; svarita set aside by *yato 'nāvaḥ*, Pā. [6-1-213], so initial acute); *tve* (the stem *yuṣmad*; before the locative singular ending, *tva* substituted for the stem *yuṣmad* by *tvamāvekavacane*, Pā. [7-2-97]; the ending replaced by *śe* by *supāṃ sulug…*; loss of *a* by *śeṣe lopaḥ*, Pā. [7-2-90] [as read]; *pararūpa* by *ato guṇe*); *avidan* (root *vidḷ lābhe*; *luṅ*, third person plural, *jhi* → *anta*; loss of *i* by *iteś ca*; since the root is *ḷdit*, *aṅ* for the *cli* by *puṣādidyutādiḷdit-…*, Pā. [3-1-55]; since it is *jit*, with this as cause, the root's… *(continued on p. 362)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–361 done (PDF 19–379): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.5 complete; **Rik 72.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 359–361) and the grammar page up to *avidan* done; the grammar page breaks off in *avidan* at the foot of p. 361. Next: p. 362 (PDF 380), the end of the grammar page of 72.6; then Rik 72.7. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.7–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Aitareya/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; Skandasvāmin's note on the twenty-one metres (pp. 360–361) rendered in compressed form [?].
