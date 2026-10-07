@@ -12669,4 +12669,52 @@ hotā gṛṇīta ukthyaḥ ||12||*
 
 ---
 
-**Progress note:** Printed pp. 1–560 done (PDF 19–578): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.11 complete** (grammar of 79.11 on p. 559); **Rik 79.12** (last of the sūkta) — Saṃhitā (p. 559), Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (p. 560) done; the Special Topics, grammar page and the closing line ("…sūktavu samāptavu") of Sūkta 79 not yet seen. Next: p. 561 (PDF 579); then CLAUDE.md position update. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
+### Page 561 (PDF 579)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". The folio is printed "5o1", i.e. 561; a signature mark "VI 36" at the foot.)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.12)**
+
+- **सहस्राक्षः** — "If one gives the literal sense of this word, it means 'one who has a thousand eyes'. Here, since this word is an epithet of Agni, the word *akṣa* must be taken as 'flame', which stands in the place of the eye. The word *sahasra* means 'countless'. Hence, as the bhāṣyakāra says, *sahasrākṣaḥ asaṃkhyātajvālaḥ* means Agni, endowed with countless flames. The word *sahasrākṣa* in the Ṛgveda occurs in the Ṛk —
+
+> सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात् ।
+
+*sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt |* (Ṛk. Saṃ. 10-[90]-1 [?]) — *Gloss, mine and tentative:* "The Puruṣa has a thousand heads, a thousand eyes, a thousand feet."
+
+and there it is only (…); there the sense is 'having a thousand, or countless, eyes'. And —
+
+> इन्द्रवायू मनोजुवा विप्रा हवन्त ऊतये ।
+> सहस्राक्षा धियस्पती ॥
+
+*indravāyū manojuvā viprā havanta ūtaye | sahasrākṣā dhiyas patī ||* (Ṛk. Saṃ. 1-[23]-3 [?]) — *Gloss, mine and tentative:* "Indra and Vāyu, swift as thought, the wise call for help — the thousand-eyed lords of the rites."
+
+— for the word *sahasrākṣā* in this Ṛk the bhāṣyakāra has explained 'endowed with a thousand eyes: Indra and Vāyu, having a thousand eyes'. The use of this word is nowhere else in the Ṛgveda."
+- **विचर्षणिः** — "Among the eight names of the action of seeing, beginning *cikyat, cākanat* (चिकेत्, चाकनत् [?]), the word *vicarṣaṇiḥ* occurs; hence *vicarṣaṇiḥ* means 'one who looks'. *Viśeṣeṇa sarvasya draṣṭā agniḥ*: 'Agni who looks especially at everything'."
+- **सेधति** — *ṣidhu gatyām*, *pratiṣedhati*, *yajñān nirgamayati* — "though this word, formed from the root *ṣidhu*, has the sense of movement, as the bhāṣyakāra says here — '*atra kevalo 'pi sopasargārtho draṣṭavyaḥ*' (here even the simple root is to be understood as having a preposition) — one must give the sense 'drive off' which would be of the word *pratiṣedhati* with the preposition *prati*. The sense is that Agni makes the Rākṣasas and others flee from the place of the sacrifice."
+- **होता** — *devānām āhvātā* — "Agni, who in the sacrifice invokes the gods."
+- **गृणीते** — *gṝ śabde* — "he praises and invokes the gods with praises and the like."
+
+### Page 562 (PDF 580)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics continued:*
+
+- **उक्थ्यैः** — "*Ukthya* means a mantra of the form of a *śastra*; *ukthyaiḥ* means 'one who is praised with such *śastra* mantras'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.12)** *(grammar page, noted briefly)*
+
+- **सहस्राक्षः** — *sahasram asaṃkhyātāni akṣīṇi yasya saḥ*; a *bahuvrīhi*; the compound-final affix *ṣac* by "bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac" (बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात्षच्, Pā. Sū. 5-4-113); the *i* is dropped by "yasyeti ca" (यस्येति च, Pā. Sū. 6-4-148); by the statement "ṣiti śiṣṭasvarabalīyastvam" [reading uncertain, [?]] the accent of the affix remains.
+- **रक्षांसि** — explained in the sixth Ṛk of this sūkta (79.6).
+- **सेधति** — the root *ṣidhu gatyām* (षिधु गत्याम्); though it stands alone, it conveys the sense of the root with a preposition; by the statement "dhātūnām anekārthatvam" (the multiplicity of senses of roots) the sense 'prohibit' arises; *laṭ*, third person singular; nighāta accent, since *atiṅanta* in the pāda.
+- **गृणीते** — the root *gṝ śabde* (गॄ शब्दे), *kryādi*; the shortening of the root by "pvādīnāṃ hrasvaḥ" (प्वादीनां ह्रस्वः, Pā. Sū. 7-3-80); *laṭ*, third person singular, the affix *ta*; *e* by "ṭita ātmanepadānāṃ ṭer e" (Pā. Sū. 3-4-79); *śnā* by "kryādibhyaḥ śnā" (क्र्यादिभ्यः श्ना, Pā. Sū. 3-1-81); by "sārvadhātukam apit" (Pā. Sū. 1-2-4) the affix is treated as *ṅit*, so "ī hal-ya-ghoḥ" (ईहल्यघोः, Pā. Sū. 6-4-113) puts *ī* for the *ā* of the stem-marker; since the replacement of the stem-marker is by the preceding sūtra treated as *ṅit*, the guṇa of the *ik* of the root (which would be caused by it) does not arise; *n* following *ṛ*, the *n* becomes *ṇ* by "ṛvarṇān nasya ṇatvam" [?]; nighāta accent, since *atiṅanta* in the pāda. ||12||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**Closing line of Sūkta 79** *(Kannada, printed large)*:
+
+ಎಪ್ಪತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು. — *eppattoṃbhattaneya sūktavu samāptavu.* — "The seventy-ninth sūkta is completed."
+
+---
+
+**Progress note:** Printed pp. 1–562 done (PDF 19–580): **Sūktas 62–79 complete** (Sūkta 79's closing line, p. 562: "eppattoṃbhattaneya sūktavu samāptavu"; twelve Ṛks, ṛṣi Gotama Rāhūgaṇa, Varga "27, 28" as read [?]). Next: **Sūkta 80** (Fifth Adhyāya, Anuvāka 13; the last sūkta of Volume 6) — printed p. 563 (PDF 581): title, Sāyaṇa's introduction, heading block. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
