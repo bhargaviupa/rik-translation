@@ -3423,4 +3423,71 @@ Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, anta
 
 ---
 
-**Progress note:** Printed pp. 1–122 done (PDF 16–137) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.14 complete** (the first two of the three Gāyatrī Ṛks, 13–14, done; grammar of 84.14 ends on p. 120); **Rik 84.15** (last Gāyatrī Ṛk; the moon and the sun's rays) — Saṃhitā, Pada, application note, bhāṣya (p. 121, dense; Sanskrit given as read with doubtful stretches), Pratipadārtha, Bhāvārtha, English and the first part of the Special Topics (p. 122) done; the rest of the Special Topics and the grammar page not yet seen. Next: printed p. 123 (PDF 138). Five Ṛks (84.16–84.20) remain after 84.15. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 (p. 114) transcribed only in part; the bhāṣya of 84.15 (p. 121) compressed, the Sanskrit read with doubt.
+### Page 123 (PDF 138)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 84.15, continued from p. 122:*
+
+- **इत्था** — "'in this way' — the meaning is that the rays of the sun fall on the orb of the moon and are reflected. At night the sun is not seen. Then the radiance belonging to that sun, falling on the orb of the moon — water-like — and moving as the sun does in the daytime, dispels the darkness and gives light. Therefore people suppose that the moon, which has such light, is itself the sun (since the moon's light has come from the sun). Since Indra is counted among the twelve Ādityas and gives light by day and night, the bhāṣyakāra says that this Ṛk should be understood as addressed to Indra. Since in this Ṛk the chief emphasis is on the moon's radiance, this Ṛk has application in the *Cāndramasa* offering."
+
+*Yāska says in his Nirukta:*
+
+> अथास्यैको रश्मिश्चन्द्रमसं प्रति दीप्यते तदेतेनोपेक्षितव्यम् । आदित्योऽस्य दीप्तिर्भवति । सुषुम्नः सूर्यरश्मिश्चन्द्रमा गन्धर्व इत्यपि निगमो भवति ।
+
+*athāsyaiko raśmiś candramasaṃ prati dīpyate tad etenopekṣitavyam | ādityo 'sya dīptir bhavati | suṣumnaḥ sūryaraśmiś candramā gandharva ity api nigamo bhavati |* (Ni. [2-6] [?]) — *Gloss, mine and tentative:* "One ray of his shines towards the moon; that is to be understood in this way: the sun is the source of its light. 'The ray of the sun, Suṣumna, is the moon, a Gandharva' — so too says a Nigama (Vedic quotation)."
+
+"That is: one ray of the sun, called *Suṣumna*, falls on the orb of the moon and lights it. This is to be understood by the vision of the mantra. Since the moon shines by the sun's ray, it is to be understood that the light in the moon comes from the sun alone. Because it is said, '*ādityo 'pi gaur ucyate*' (Ni. [2-6] [?]) — 'the sun too is called *go*' — here *go* is a name of the sun; and '*sarve 'pi raśmayo gāva ucyante*' (Ni. [2-6] [?]) — 'all rays are called *gāvaḥ*': *gāvaḥ* is a name of the sun's rays too."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.15)** *(grammar page, noted briefly; runs to p. 124)*
+
+- **अमन्वत** — the root *manu avabodhane*, *divādi*; *laṅ* [*luṅ*-like], third person plural, *ātmanepada*; by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) the substitute *at* for the affix *jha*; the form *amanvata*; nighāta accent of the *tiṅanta*.
+- **आपीच्यम्** — the root *ciñ cayane*; with the preposition *api* preceding, by "āśvāghasyā…" [as read: "āśvāghyādayaś ca", Uṇ. Sū. 4-[101] [?]] the affix *yat* by *nipātana*; the desired form is accomplished by the *nipātana* itself. Or, for the root *añcu* preceded by *api*, the affix *kvin* by "ṛtvigdadhṛk…"; by "aniditāṃ hala upadhāyāḥ…" the loss of the nasal; *api-gate ni-gate bhavam* = *āpīcyam*: by "bhave chandasi" (Pā. Sū. 4-4-110) the affix *yat*; by "acaḥ" (Pā. Sū. 6-4-138) the *a* of the root is dropped; then, by "cau" (Pā. Sū. 6-3-138) the preceding member is lengthened; by "tit svaritam" (Pā. Sū. 6-1-185) the *svarita* accent. *Āpīcyo 'prakāśaḥ* — 'the *āpīcya* is "without brilliance"' — says Bhaṭṭabhāskaramiśra.
+
+### Page 124 (PDF 139)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Grammar of Rik 84.15, concluded:*
+
+- **इत्था** — "the sense of 'manner' is shown after the word *idam*: by "thāhetau ca chandasi" (Pā. Sū. 5-3-26) the affix *thā*. By the other view, in that sūtra the word *idam* does not continue; then, by "idamas thamuḥ" (Pā. Sū. 5-3-24) the affix *thamu*. By "svarādinipātam avyayam" (Pā. Sū. 1-1-37) a word ending in this affix is called *avyaya*; then the *sup*-elision that would arise by "avyayād āpsupaḥ" (Pā. Sū. 2-4-82) is set aside by *vyatyaya*, and the case-ending is replaced by *ḍā* by "supāṃ suluk…"; by the affix-accent it is final-udātta."
+- **चन्द्रमसः** — "*candram āhlādanaṃ mimīte nirmimīte iti candramāḥ*: with *candra* as the upapada, the root *māṅ* [*mā*], by "candre māño ḍit" (Uṇ. Sū. 4-[222] [?]) the affix *asi*. The word is *candramas*; the sixth case singular is the form. By the accent of the *kṛt*-ending final member [the compound would take its accent]; but since it is read in the *dāsībhārādi* group, the first-member's own accent arises; since the first member *candra* is formed by the affix *rak* enjoined by "sphāyitañcivañcy…" (Uṇ. Sū. 2-[13] [?]), it is final-udātta." ||15||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.16** *(the first of the three Triṣṭubh Ṛks, 16–18)*
+
+> को अद्य युङ्क्ते धुरि गा ऋतस्य शिमीवतो भामिनो दुर्हृणायून् ।
+> आसन्निषून्हृत्स्वसो मयोभून्य एषां भृत्यामृणधत्स जीवात् ॥ १६ ॥
+
+*ko adya yuṅkte dhuri gā ṛtasya śimīvato bhāmino durhṛṇāyūn |
+āsanniṣūn hṛtsvaso mayobhūn ya eṣāṃ bhṛtyām ṛṇadhat sa jīvāt ||16||*
+
+### Page 125 (PDF 140)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> कः । अद्य । युङ्क्ते । धुरि । गाः । ऋतस्य । शिमीऽवतः । भामिनः ।
+> दुःऽहृणायून् ।
+> आसन्ऽइषून् । हृत्ऽस्वसः । मयःऽभून् । यः । एषाम् ।
+> भृत्याम् । ऋणधत् । सः । जीवात् ॥ १६ ॥
+
+*kaḥ | adya | yuṅkte | dhuri | gāḥ | ṛtasya | śimī-vataḥ | bhāminaḥ | duḥ-hṛṇāyūn | āsan-iṣūn | hṛt-svasaḥ | mayaḥ-bhūn | yaḥ | eṣām | bhṛtyām | ṛṇadhat | saḥ | jīvāt ||16||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's application note and bhāṣya of Rik 84.16** *(Sanskrit in Kannada script; doubtful places [?]; continues on p. 126)*
+
+> सर्वपृष्ठ्यायामिष्ट्या कायस्य हविषः को अद्येति द्वे ऋचौ याज्यानुवाक्ये । सूत्रितं च । कायं दशमं को अद्य युङ्क्ते धुरि गा ऋतस्येति द्वे इति ॥
+>
+> आद्यास्मिन्कर्मणि ऋतस्य गच्छते इन्द्रसंबन्धिनो रथस्य धुर्यश्ववहनप्रदेशे गा गातिमतोऽश्वान् को युङ्क्ते । को नाम नियोक्तुं शक्नोति । न कोऽपीत्यर्थः । कीदृशानश्वान् । शिमीवतो वीर्यकर्मोपेतान् भामिनस्तेजसा युक्तान् दुर्हृणायून् पर्वैर्दुःसहेन क्रोधेन युक्तान् । हृणीयतिः क्रुध्यतिकर्मा । आसन्निषून् येषामासन्यस्ये मुखप्रदेशे शत्रूणां प्रहरणार्थमिषवो बाणा बद्धास्तान् । हृत्स्वसः । हृत्सु शत्रूणां हृदयेष्वस्यन्ति स्वकीयं पावं क्षिपन्तीति हृत्स्वसः । मयोभून् मयसः सुखस्य भावयितॄन् । स्वकीयानां सुखप्रदानीत्यर्थः । यो यजमान एषामीदृशानामश्वानां भृत्यां भरणक्रियां रथवाहनक्रियामृणधत् समर्थयति । स्तौतीति यावत् । स यजमानो जीवात् । जीवनान्भवेत् ॥ यद्वा । क इति प्रजापतिरुच्यते । को ह वै नाम प्रजापतिरिति श्रुतेः । ऋतस्य । यज्ञस्य धुरि निर्वाहे गा वेदरूपान्मन्त्रान्निशेषानद्येदानीं युङ्क्ते । संयोजयति । कीदृशान् । शिमीवतः प्रतिपाद्यैः कर्मभिर्युक्तान् भामिन उज्ज्वलान् दुर्हृणायून् । हृणीयतिर्हानिकर्मा । हातुमशक्यान् वेदाध्ययनस्य नित्यत्वात् । आसन्निषून् आसन्यस्य इषुरेषणं गमनमुच्चारणं येषां तान् हृत्स्वसो हृत्सु हृदयेषु दीप्यमानान् । प्रकाशमानानित्यर्थः । मयोभून् मयसोऽध्ययनप्रभवस्य सुखसाधनस्यादृष्टस्य भावयित्रॄन् । यो यजमान एषां वचसां भृत्यां भरणक्रियामृणधत् ऋद्धिमतीं करोति स जीवात् । स एव जीवति । अन्ये जीवन्मृता इत्यर्थः ॥ दुर्हृणायून् । हृणीज् लज्जायां । कण्ड्वादित्वाद्यक् । बहुलवचनादस्माद्दुःप्र-
+
+*sarvapṛṣṭhyāyām iṣṭyā kāyasya haviṣaḥ ko adyeti dve ṛcau yājyānuvākye | sūtritaṃ ca | kāyaṃ daśamaṃ ko adya yuṅkte dhuri gā ṛtasyeti dve iti ||*
+
+*ādyāsmin karmaṇi ṛtasya gacchate indrasaṃbandhino rathasya dhuryaśvavahanapradeśe gā gātimato 'śvān ko yuṅkte | ko nāma niyoktuṃ śaknoti | na ko 'pīty arthaḥ | kīdṛśān aśvān | śimīvato vīryakarmopetān bhāminas tejasā yuktān durhṛṇāyūn parvair duḥsahena krodhena yuktān | hṛṇīyatiḥ krudhyatikarmā | āsanniṣūn yeṣām āsanyasye mukhapradeśe śatrūṇāṃ praharaṇārtham iṣavo bāṇā baddhās tān | hṛtsvasaḥ | hṛtsu śatrūṇāṃ hṛdayeṣv asyanti svakīyaṃ pāvaṃ kṣipantīti hṛtsvasaḥ | mayobhūn mayasaḥ sukhasya bhāvayitṝn | svakīyānāṃ sukhapradānīty arthaḥ | yo yajamāna eṣām īdṛśānām aśvānāṃ bhṛtyāṃ bharaṇakriyāṃ rathavāhanakriyām ṛṇadhat samarthayati | stautīti yāvat | sa yajamāno jīvāt | jīvanān bhavet || yadvā | ka iti prajāpatir ucyate | ko ha vai nāma prajāpatir iti śruteḥ | ṛtasya | yajñasya dhuri nirvāhe gā vedarūpān mantrān niśeṣān adyedānīṃ yuṅkte | saṃyojayati | kīdṛśān | śimīvataḥ pratipādyaiḥ karmabhir yuktān bhāmina ujjvalān durhṛṇāyūn | hṛṇīyatir hānikarmā | hātum aśakyān vedādhyayanasya nityatvāt | āsanniṣūn āsanyasya iṣur eṣaṇaṃ gamanam uccāraṇaṃ yeṣāṃ tān hṛtsvaso hṛtsu hṛdayeṣu dīpyamānān | prakāśamānān ity arthaḥ | mayobhūn mayaso 'dhyayanaprabhavasya sukhasādhanasyādṛṣṭasya bhāvayitṝn | yo yajamāna eṣāṃ vacasāṃ bhṛtyāṃ bharaṇakriyām ṛṇadhat ṛddhimatīṃ karoti sa jīvāt | sa eva jīvati | anye jīvanmṛtā ity arthaḥ || durhṛṇāyūn | hṛṇīj lajjāyāṃ | kaṇḍvāditvād yak | bahulavacanād asmād duḥpra-*
+
+*Sense:* "In the *Sarvapṛṣṭhyā* offering (*iṣṭi*), for the oblation to *Ka* (*kāya*), the two Ṛks *ko adya* are the *yājyā* and *anuvākyā*; so it is stated: '*kāyaṃ daśamaṃ — ko adya yuṅkte dhuri gā ṛtasya* — the two' (Āś. [?]). — *Who* (*kaḥ*) today yokes (*yuṅkte*) in the pole-place (*dhuri*) of the chariot of Indra, which goes to the sacrifice (*ṛtasya*), the horses that are *gāḥ* — swift — *śimīvataḥ* (endowed with heroic action), *bhāminaḥ* (blazing with radiance), *durhṛṇāyūn* (full of an unbearable wrath — *hṛṇīyati* is a verb of being angry), *āsanniṣūn* (having arrows fixed in their mouth-region for the slaying of enemies), *hṛtsvasaḥ* (who hurl their own darts into the hearts of enemies), *mayobhūn* (causing happiness to their own)? Who is able to yoke such horses? No one. The sacrificer who supports (*ṛṇadhat*, makes successful) the *bhṛtyā* — the care, the work of drawing the chariot — of such horses, that is, praises them: that sacrificer would live (*jīvāt*). *Or*: *Ka* is called Prajāpati ('Ka is indeed the name of Prajāpati,' says the śruti). *Ṛtasya* — of the sacrifice, in carrying it through, *gāḥ* — the Vedic mantras, all of them, *adya* — now, he yokes (joins) — mantras *śimīvataḥ* (joined with the rites they teach), *bhāminaḥ* (shining), *durhṛṇāyūn* (impossible to abandon, since the study of the Veda is a constant duty), *āsanniṣūn* (those whose *iṣu*, 'going out, utterance', is in the mouth), *hṛtsvasaḥ* (shining in the hearts), *mayobhūn* (producing the unseen *mayas*, happiness, that is born of study). The sacrificer who makes prosperous (*ṛṇadhat*) the *bhṛtyā* — the sustenance — of these words, he lives (*jīvāt*); the others are living dead." *The grammatical tail begins:* *durhṛṇāyūn* — the root *hṛṇīj lajjāyām* …" *(the sentence runs on to p. 126)*
+
+---
+
+**Progress note:** Printed pp. 1–125 done (PDF 16–140) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.15 complete** (the three Gāyatrī Ṛks, 13–15, done; grammar of 84.15 on pp. 123–124); **Rik 84.16** (first Triṣṭubh Ṛk; a riddle-like Ṛk with two readings, Indra's horses or the Vedic mantras) — Saṃhitā (p. 124), Pada, application note and the bhāṣya as far as the foot of p. 125 done; the bhāṣya's grammatical tail continues on p. 126 (PDF 141). Next: printed p. 126 (PDF 141). Five Ṛks (84.16–84.20) remain; counting 84.16 as begun, four after it. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
