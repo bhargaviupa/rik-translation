@@ -10378,4 +10378,81 @@ Words treated: *prajāvatā* ("he has offspring"; *matup* by *tad asyāstyasmin*
 
 ---
 
-**Progress note:** Printed pp. 1–482 done (PDF 19–500): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.3 complete; **Rik 76.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (up to *vacasā*) done (pp. 480–482). Next: p. 483 (PDF 501), the rest of the grammar page of 76.4; then Rik 76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 76.4 (p. 480) with its compressed tail doubtful [?].
+### Page 483 (PDF 501)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 76.4 (concluded; noted briefly)**
+
+*āsā* (the stem *āsya*; before the instrumental singular, *āsan* substituted by *pāddannomāsṛn…*, Pā. [6-1-63]; the instrumental ending replaced by *ḍā* by *supāṃ sulug…*; since *ḍit*, loss of the *ṭi* part of the stem by *ḍiti bhasyāpi ṭer lopaḥ* [*ṭilopa*]; by *anudāttasya ca yatrodāttalopaḥ*, Pā. [6-1-161], the ending gets the udātta accent, since the udātta is lost). *huve* (root *hveñ spardhāyāṃ śabde ca*, Bhvādi; *laṭ*, first person singular, *iṭ*; by *bahulaṃ chandasi* samprasāraṇa of the root although there is no *kit*; *pūrvarūpa* by *saṃprasāraṇāc ca*; *e* for the affix by *ṭita ātmanepadānām ṭer e*; loss of *śap* by *bahulaṃ chandasi*; *uvaṅ* by *aci śnudhātubhruvām*; since *ca* is joined before it, nighāta is prohibited by *cavāyoge prathamā*, Pā. [8-1-59]; by the affix's accent, final acute). *satsi* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *laṭ*, second person singular, *sip*; loss of the vikaraṇa by *bahulaṃ chandasi*; since there is no cause, *sīda*-substitution by *pāghrādhmā…* does not come; *carva* by *khari ca*, Pā. [8-4-55]; nighāta of the tiṅanta). *veṣi* (root *vī gativyāptiprajanakāntyasanakhādaneṣu*, Adādi; *laṭ*, second person singular, *sip*; loss of *śap*; guṇa of the root's *ī*; *ṣatva* of the affix; no nighāta at the head of a pāda; the root accent remains). *bodhi* (root *budha avagamane*; with the causative sense shown, *ṇic* by *hetumati ca*; guṇa of the light penultimate by *puganta-laghūpadhasya ca*; after the *ṇijanta*, *loṭ*, second person singular, *sip*, *hi* substituted; by *chandasy ubhayathā* *hi* has the *ārdhadhātuka* designation, so the *ṇi* is lost by *ṇer aniṭi*, Pā. [6-4-51]; with *bodh* + *hi*, *dhi* for *hi* by *hurhalbhyo heḥ…*, Pā. [6-4-101], a *jhal*-final root; Vedic loss of the root's final *dh*; the form *bodhi*; no nighāta at the head of a pāda; since *hi* is *apit*, … the affix accent gives the final acute). Ends "॥ ४ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.5** *(the last Ṛk of the sūkta; printed "5 ||")*
+
+*(The Saṃhitā of Rik 76.5 is printed at the head of p. 484.)*
+
+---
+
+### Page 484 (PDF 502)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+> यथा विप्रस्य मनुषो हविर्भिर्देवाँ अयजः कविभिः कविः सन् ।
+> एवा होतः सत्यतर त्वमद्याग्ने मन्द्रया जुह्वा यजस्व ॥ ५ ॥
+
+*yathā viprasya manuṣo havirbhir devāṃ ayajaḥ kavibhiḥ kaviḥ san |
+evā hotaḥ satyatara tvam adyāgne mandrayā juhvā yajasva ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यथा । विप्रस्य । मनुषः । हविःऽभिः । देवान् । अयजः । कविऽभिः । कविः । सन् ।
+> एव । होतरिति । सत्यऽतर । त्वम् । अद्य । अग्ने । मन्द्रया । जुह्वा । यजस्व ॥ ५ ॥
+
+*yathā | viprasya | manuṣaḥ | havir-bhiḥ | devān | ayajaḥ | kavi-bhiḥ | kaviḥ | san | eva | hotar iti | satya-tara | tvam | adya | agne | mandrayā | juhvā | yajasva ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> एकादशिनस्याग्नेयस्य पशोर्यथा विप्रस्येत्येषा पशुपुरोडाशस्य याज्या । सूत्रितं च प्रदानानामिति खंडे । यथा विप्रस्य मनुषो हविर्भिः प्र कारवो मनना वच्यैमानाः । आ. [३-२?] इति ॥
+
+> कविः क्रांतदर्शी सन्त्वमविभिर्मेधाविभिर्ऋत्विग्भिः सह विप्रस्य मेधाविनो मनुषो मनोर्यज्ञे हविर्भिश्चरुपुरोडाशादिभिर्हे अग्ने यथा देवानयजः । एवमेव होतर्होमनिष्पादक सत्यतरातिशयेन सत्सु साधो अग्ने त्वमद्यास्मिन्यज्ञे मन्द्रया हर्षयित्र्या जुह्वा होमसाधनभूतया स्रुचा यजस्व । देवांस्तद्विभिः पूजय ॥ मनुषः । मन ज्ञाने । बहुलमन्यत्रापीति मनेरुसिन्प्रत्ययः ॥
+
+*ekādaśinasyāgneyasya paśor yathā viprasyety eṣā paśupuroḍāśasya yājyā | sūtritaṃ ca pradānānām iti khaṇḍe | yathā viprasya manuṣo havirbhiḥ pra kāravo manana vacyamānāḥ [?] | ā. [3-2?] iti ||*
+
+*kaviḥ krāntadarśī san tvaṃ kavibhir [aviṃ?]medhāvibhir ṛtvigbhiḥ saha viprasya medhāvino manuṣo manor yajñe havirbhiś caru-puroḍāśādibhir he agne yathā devān ayajaḥ | evam eva hotar homaniṣpādaka satyatarātiśayena satsu sādho agne tvam adyāsmin yajñe mandrayā harṣayitryā juhvā homasādhanabhūtayā srucā yajasva | devāṃs tadvibhiḥ pūjaya || manuṣaḥ | mana jñāne | bahulam anyatrāpīti manner usin pratyayaḥ ||*
+
+*(Reading note: the opening liturgical sentence and its sūtra quotation are compressed ("manana vacyamānāḥ" is printed so); "kavibhir" and "tvamavibhir" are garbled in the print — the sense is *kavibhiḥ*, "with wise [priests]"; "tadvibhiḥ" at the end is printed so [?]; the Āśvalāyana numeral is doubtful [?].)*
+
+*Meaning (liturgical note):* For the eleven-fold animal offering to Agni, this Ṛk, "*yathā viprasya*", is the *yājyā* for the animal's *puroḍāśa*; so the sūtra in the section *pradānānām*: "*yathā viprasya manuṣo havirbhiḥ pra kāravo*…" (Ā. [3-2?]).
+
+*Meaning:* As you, O Agni, being a seer (*kaviḥ*), together with wise priests (*kavibhiḥ*), in the sacrifice of the wise (*viprasya*) Manu (*manuṣaḥ*), worshipped (*ayajaḥ*) the gods with oblations — *caru*, *puroḍāśa* and the rest — even so, O *hotṛ* (*hotaḥ*) — accomplisher of the offering — most good (*satyatara*) among the good, do you today, in this sacrifice, worship (*yajasva*) with the delightful (*mandrayā*) ladle (*juhvā*) — the instrument of the offering — and gratify the gods with their share.
+
+**Grammatical tail** *(characterized)*: *manuṣaḥ* (root *mana jñāne*; the *usin* affix by *bahulam anyatrāpi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; the text continues on p. 485)*
+
+---
+
+### Page 485 (PDF 503)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Pratipadārtha of Rik 76.5** *(Kannada)*
+
+*kaviḥ san* — you who know the past, present and future; *kavibhiḥ* — with wise priests; *viprasya* — of the wise; *manuṣaḥ* — of Manu (in the sacrifice); *havirbhiḥ* — with *caru* and the rest; *yathā* — as; *devān* — the gods (Indra and the rest); *ayajaḥ* — you worshipped; *hotaḥ* — O accomplisher of the offering; *satyatara* — most excellent among the good; *agne* — O Agni; *tvam* — you; *adya* — now (in this sacrifice); *mandrayā* — delight-giving; *juhvā* — by the ladle (the instrument of the offering); *yajasva* — worship (the gods with oblation).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni, knower of the three times! As, in the sacrifice of the wise Manu, together with wise priests, you gratified the gods with *caru*, *puroḍāśa* and the rest, so now, in our sacrifice, gratify the gods with the delight-giving ladle.
+
+**English Translation** *(the source's own, as printed):*
+
+> As at the sacrifice of the holy Manu, you, a sage amongst sages did worship the Gods, with oblations, so also, Agni, veracious invoker of the Gods, do you today (present the oblations), with an exhilarating ladle.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In the animal sacrifice called *ekādaśinī*, performed with Agni in view, when the animal's *puroḍāśa* offering is made, this Ṛk, *yathā viprasya*, is to be used as the *yājyā* mantra, as explained in the section *pradānānām* of the Āśvalāyana-śrauta-sūtra by the sūtra *yathā viprasya manuṣo havirbhiḥ pra kāravo manasā vacyamānāḥ* [as read, doubtful]."
+- **मन्द्रया** — *harṣayitryā* — "the word *mandrā*, formed from the root *madi*, which gives many senses such as praise, joy, intoxication, being an adjective of the word *juhū*, which denotes the means of offering, shows the sense that it gives delight."
+- **जुह्वा** — *homasādhanabhūtayā srucā* — "in the sacrifice, the ladle with which the offering is made in Agni, whether it be ghee or *caru* or *puroḍāśa*, is called *juhū* by Sāyaṇa —" *(the page ends here; continued on p. 486)*
+
+---
+
+**Progress note:** Printed pp. 1–485 done (PDF 19–503): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.4 complete (76.4's grammar page ends p. 483); **Rik 76.5** (the last; printed "5 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*mandrayā*, *juhvā*) done (pp. 483–485); the Special Topics break off at the foot of p. 485; its grammar page and the closing line of Sūkta 76 not yet seen. Next: p. 486 (PDF 504). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the liturgical sentence of the bhāṣya of 76.5 (p. 484) garbled in the print [?].
