@@ -11044,4 +11044,97 @@ O all-knowing, all-seeing Agni! The descendants of Gotama praise you with words 
 
 ---
 
-**Progress note:** Printed pp. 1–509 done (PDF 19–527): **Sūktas 62–77 complete** (Sūkta 77's closing line, p. 507: "eppattēḷaneya sūkta samāptavu"). **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; the fifth sūkta of Anuvāka 13; application *laiṅgika*; Varga "26" as read [?]) begun: introduction, Anuvāda (p. 507), heading (p. 508) and **Rik 78.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 508–509) done; the grammar page of 78.1 not yet seen. Next: p. 510 (PDF 528). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
+### Page 510 (PDF 528)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+*Continuation of the Pratipadārtha-end/bhāṣya-adjacent notes of Rik 78.1:*
+
+- **नोनुमः** — *punaḥ punaḥ stumaḥ* — "we praise again and again" — i.e. repeatedly (*anekāvṛtti*, the frequentative sense). So the Kannada explains: "mattē mattē stōtra māḍuvēvu".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.1)** *(grammar page, noted briefly)*
+
+- **गिरा** — instrumental singular of the feminine *gir* (ending in *r*); the udātta accent on the case-ending comes by Pāṇini's rule "sāvekācaś tṛtīyādiḥ" (सावेकाचस्तृतीयादिर्विभक्तिः) — Pā. Sū. 6-1-[168?] [?].
+- **जातवेदः** — vocative singular. Being at the beginning of the pāda, the *aṣṭamika* (eighth-rule) nighāta accent does not come; "āmantritasya ca" (आमन्त्रितस्य च, Pā. Sū. 6-1-[198?]) gives the udātta on the first syllable. By the sūtra "āmantritaṃ pūrvam avidyamānavat" (आमन्त्रितं पूर्वमविद्यमानवत्) the preceding word is treated as non-existent for this, so the following vocative *vicarṣaṇe* too gets no nighāta accent; the earlier sūtra makes the initial syllable udātta.
+- **प्र णोनुमः** — the root *ṇu stutau* (णु स्तुतौ, adādi class). By the sense "very much" or "again and again" the intensive *yaṅ* is added — "dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ" (धातोरेकाचो हलादेः क्रियासमभिहारे यङ्) — Pā. Sū. 3-1-[22?] [?]; the *yaṅ* is elided by "yaṅo'ci ca" (यङोऽचि च) — Pā. Sū. 2-4-[74?] [?]; "sanyaṅoḥ" (सन्यङोः, Pā. Sū. 6-1-9) gives reduplication; "guṇo yaṅluk-oḥ" (गुणो यङ्लुकोः, Pā. Sū. 7-4-[82?]) gives guṇa to the reduplicative syllable; "sanādyantā dhātavaḥ" (सनाद्यन्ता धातवः) gives the status of a root; then the present *laṭ*, first-person plural *mas*; the form *nonumaḥ*. The accent is nighāta because of the *atiṅanta* ("with a tiṅ-ending") (?); when the preposition *pra* precedes, "upasargād asamāse'pi ṇopadeśasya" (उपसर्गादसमासेऽपि णोपदेशस्य, Pā. Sū. 8-4-[14?]) makes the initial *n* of this *ṇopadeśa* root into *ṇ* after the preposition, the *r* of *pra* being the cause and being in the preceding word; thus *pra ṇonumaḥ*. ||1||
+
+*Grammar page, noted briefly; every sūtra number here is tentative [?] and given only as far as the print was legible at 150 dpi, the names being read as printed.*
+
+### Page 511 (PDF 529)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.2**
+
+> तमु त्वा गोतमो गिरा रायस्कामो दुवस्यति ।
+> द्युम्नैरभि प्र णोनुमः ॥ २ ॥
+
+*tam u tvā gotamo girā rāyaskāmo duvasyati |
+dyumnair abhi pra ṇonumaḥ ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> तम् । ऊं इति । त्वा । गोतमः । गिरा । रायःऽकामः । दुवस्यति ।
+> द्युम्नैः । अभि । प्र । नोनुमः ॥ २ ॥
+
+*tam | ūṃ iti | tvā | gotamaḥ | girā | rāyaḥ-kāmaḥ | duvasyati | dyumnaiḥ | abhi | pra | nonumaḥ ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> रायस्कामो धनकामो गोतमो यमग्निं गिरा स्तुत्या दुवस्यति परिचरति तमु तमेव त्वां द्युम्नैर्गोतमान्यैः स्तोत्रैराभिमुख्येन पुनःपुनः स्तुमः ॥ रायस्कामः । रायो धनानि कामयत इति रायस्कामः । कर्मण्यण् । तत्पुरुषे कृति बहुलमिति बहुलवचनादलुक् । ऊडिदमित्यादिना पूर्वपदस्य विभक्तेरुदात्तत्वम् । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । आतः कृकमिकंसकुम्भेति । पा. ८-३-४६ [?] । विसर्जनीयस्य सत्वम् । दुवस्यति । दुवस उपतापे परिचरणे च । कण्ड्वादिः ॥
+
+*rāyaskāmo dhanakāmo gotamo yam agniṃ girā stutyā duvasyati paricarati tam u tam eva tvāṃ dyumnair gotamānyaiḥ stotrair ābhimukhyena punaḥ punaḥ stumaḥ || rāyaskāmaḥ | rāyo dhanāni kāmayata iti rāyaskāmaḥ | karmaṇy aṇ | tatpuruṣe kṛti bahulam iti bahulavacanād aluk | ūḍidam ity ādinā pūrvapadasya vibhakter udāttatvam | dāsībhārādittvāt pūrvapadaprakṛtisvaratvam | ātaḥ kṛkamikaṃsakumbheti | pā. 8-3-46 [?] | visarjanīyasya satvam | duvasyati | duvasa upatāpe paricaraṇe ca | kaṇḍvādiḥ ||*
+
+*Sense:* "*Rāyaskāma*, one desirous of wealth, Gotama, serves (*duvasyati* = *paricarati*) with praise whichever Agni; that very you, with the praises of Gotama and others, we praise again and again, facing you." *The grammatical tail:* *rāyaskāmaḥ* = "he who desires riches (*rayaḥ*, plural 'wealths')"; the affix *aṇ* with the object (*karmaṇy aṇ*); in a *tatpuruṣa* with a *kṛt*, the non-elision of the case-ending of the first member by the "manifold" rule (*bahulam*); the first member's case-ending gets the udātta by "ūḍidam…"; the first member keeps its own accent as in *dāsībhārādi* compounds; the visarga becomes *s* by the sūtra beginning "ātaḥ kṛkamikaṃsakumbha…", Pā. 8-3-46 [?] (number read thus, doubtful). *Duvasyati:* the root *duvas* in the senses "to heat/trouble" and "to serve"; of the *kaṇḍvādi* group (denominative *yak*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.2** *(Kannada)*
+
+- **रायस्कामः** — "one who desires wealth".
+- **गोतमः** — "the sage Gotama" (whom — i.e. which Agni?).
+- **गिरा** — "with praise".
+- **दुवस्यति** — "does service" (or "serves").
+- **तमु** — "that very Agni".
+- **द्युम्नैः** — "with praises that make known your qualities".
+- **अभि प्र नोनुमः** — "we praise again and again".
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 78.2** *(Kannada)*
+
+"The Gautamas, desirous of wealth, praised whichever Agni; to that same Agni (we also) pay praise with words that make known his qualities."
+
+### Page 512 (PDF 530)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+**English Translation** *(printed in English in the source)*
+
+"To you, that (Agni) whom Gotama, desirous of riches, worships with praise, we offer adoration with commendatory (hymns)." — as printed.
+
+**॥ विशेषविषयगळು ॥ — Special Topics (Rik 78.2)**
+
+- **गिरा** — "with the word", that is, with a word of the form of a hymn of praise.
+- **रायस्कामः** — "Among the twenty-eight names of wealth beginning with *maghaṃ, reṇku* (मघं रेक्णः), the word *rāyaḥ* occurs; hence *rāyaḥ* means wealth (Ni. 3-[9?] [?]). *Rāyaskāma* means 'one who desires wealth'. The sage of this sūkta, Gotama, has praised Agni for the attainment of wealth."
+- **दुवस्यति** — *paricarati* — "serves". "Among the ten names of the act of service beginning *iraj-yati, vidhema* (इरज्यति, विधेम), the word *duvasyati* occurs; hence *duvasyati* means 'serves'; that is, 'does *śuśrūṣā*' (Ni. 3-[13?] [?]). I give some Ṛks in which this word is used, as examples." *(Gloss "mine and tentative" below; the source leaves these untranslated. Reference numerals are given as read and are all [?].)*
+
+> आकरे वसोर्जरिता पनस्यतेऽनेहसः स्तुभ इन्द्रो दुवस्यति ।
+
+*ākare vasor jaritā panasyate 'nehasaḥ stubha indro duvasyati |* (Ṛk. Saṃ. 3-[13?]-3 [?]) — *Gloss, mine and tentative:* "… the singer of the lord of wealth praises/admires; Indra serves (/is served by) the faultless praisers…" (the words as printed are fully legible but the sense is uncertain to me).
+
+> अग्निर्हि देवाँ अमृतो दुवस्यत्यथा धर्माणि सनता न दूदुषत् ।
+
+*agnir hi devāṁ amṛto duvasyaty athā dharmāṇi sanatā na dūduṣat |* (Ṛk. Saṃ. 3-[3?]-[1?] [?]) — *Gloss, mine and tentative:* "Agni, the immortal, indeed serves the gods; so (the worshippers) do not spoil the ancient rites."
+
+> क्षेमेण मित्रो वरुणं दुवस्यति मरुद्भिरुग्रः शुभमन्य ईयते ।
+
+*kṣemeṇa mitro varuṇaṃ duvasyati marudbhir ugraḥ śubham anya īyate |* (Ṛk. Saṃ. 5-[63?]-[5?] [?]) — *Gloss, mine and tentative:* "With well-being Mitra serves Varuṇa; the other, fierce, goes in splendour with the Maruts."
+
+> समुस्यक हव्यदाशिं स्वध्वरं दुवस्यके दम्यं जातवेदसम् ।
+
+*samusyaka havyadāśiṃ svadhvaraṃ duvasyake damyaṃ jātavedasam |* (Ṛk. Saṃ. 3-[2?]-[8?] [?]) — *the print of the first words of this Ṛk is garbled at this resolution (the verb reads like* namasyata *and* duvasyata *in the known text, but I transcribe as printed, [?]).* *Gloss, mine and tentative:* "… (serve) Jātavedas, the household Agni, who gives oblations, of good rites."
+
+"In such Ṛks the word *duvasyati* has the sense of service" (*paricaraṇa*).
+
+- **द्युम्नैरभि प्र णोनुमः** — "This pāda occurs in all five Ṛks of this sūkta, repeated again and again like a refrain (*pallavi*)."
+
+---
+
+**Progress note:** Printed pp. 1–512 done (PDF 19–530): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: **Rik 78.1** complete (grammar page, p. 510, noted briefly); **Rik 78.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 511), English and Special Topics (p. 512) done; the grammar page of 78.2 not yet seen. Next: p. 513 (PDF 531). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the garbled fourth citation on p. 512.
