@@ -3072,4 +3072,97 @@ priyā indrasya dhenavo vajraṃ hinvanti sāyakaṃ vasvīr anu svarājyam ||11
 
 ---
 
-**Progress note:** Printed pp. 1–110 done (PDF 16–125) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.10 complete** (grammar of 84.10 on pp. 108–109); **Rik 84.11** — Saṃhitā, Pada (p. 109), bhāṣya, Pratipadārtha, Bhāvārtha, English and the first Special Topic (p. 110) done; the rest of the Special Topics and grammar not yet seen. Next: printed p. 111 (PDF 126). Nine Ṛks (84.12–84.20) remain after 84.11. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 111 (PDF 126)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 84.11, continued:*
+
+- **श्रीणन्ति** — *miśrīkurvanti* — "they mix."
+- **पृश्नयः** — "having many colours."
+- **हिन्वन्ति** — *śatruṣu prerayanti* — "they urge on, in order to destroy the enemies."
+- **सायकम्** — "the thunderbolt-weapon of Indra, the destroyer of enemies."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.11)** *(grammar page, noted briefly)*
+
+- **पृशनायुवः** — in the sense 'desiring the touch': by "supa ātmanaḥ kyac" (Pā. Sū. 3-1-8) the affix *kyac* after the word *pṛśana*; *pṛśanāyati iti pṛśanāyuḥ*: by "kyāc chandasi" (Pā. Sū. 3-2-170) the affix *u*; by the affix-accent the word is final-udātta. In the first-case plural, by "jasi ca" (Pā. Sū. 7-3-109) guṇa and *av* replacement: *pṛśanāyuvaḥ*.
+- **श्रीणन्ति** — the root *śrīñ pāke*, *kryādi*; *laṭ*, third person plural; the *ā* of the stem-marker *śnā*, which comes by "kryādibhyaḥ śnā" (Pā. Sū. 3-1-81), is dropped by "śnābhyastayor ātaḥ" (Pā. Sū. 6-4-112); since an *atiṅanta* precedes, the nighāta accent.
+- **हिन्वन्ति** — the root *hivi prīṇane*, *bhvādi*; by "idito num dhātoḥ" (Pā. Sū. 7-1-58) the augment *num*; in the *laṭ*, third person plural, the form *hinvanti*; the *tiṅanta* nighāta accent.
+- **सायकम्** — the root *ṣo antakarmaṇi*, *divādi*; with the affix *ṇvul*, by "ādeca upadeśe 'śiti" (Pā. Sū. 6-1-45) *ā* for the root; by "ato yuk ciṇ-kṛtoḥ" (Pā. Sū. 7-3-33) the augment *yuk* after the *ā*; because it is *k*-marked it comes at the end; by "yuvor anākau" (Pā. Sū. 7-1-1) *aka* for the affix; the word *sāyaka*; by "ati" [as read: "…"] the accent comes to the syllable before the affix. ||11||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 112 (PDF 127)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.12** *(the last of the three Paṅkti Ṛks)*
+
+> ता अस्य नमसा सहः सपर्यन्ति प्रचेतसः ।
+> व्रतान्यस्य सश्चिरे पुरूणि पूर्वचित्तये वस्वीरनु स्वराज्यम् ॥ १२ ॥
+
+*tā asya namasā sahaḥ saparyanti pracetasaḥ |
+vratāny asya saścire purūṇi pūrvacittaye vasvīr anu svarājyam ||12||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> ताः । अस्य । नमसा । सहः । सपर्यन्ति । प्रऽचेतसः ।
+> व्रतानि । अस्य । सश्चिरे । पुरूणि । पूर्वऽचित्तये ।
+> वस्वीः । अनु । स्वऽराज्यम् ॥ १२ ॥
+
+*tāḥ | asya | namasā | sahaḥ | saparyanti | pra-cetasaḥ | vratāni | asya | saścire | purūṇi | pūrva-cittaye | vasvīḥ | anu | sva-rājyam ||12||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.12** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> प्रचेतसः प्रकृष्टज्ञानास्ता गावोऽस्येन्द्रस्य सहो बलं नमसा स्वकीयेन पयोरूपेणान्नेन सपर्यन्ति । परिचरन्ति । पुरूणि बहून्यस्येन्द्रस्य व्रतानि शत्रुवधादिरूपाणि वीर्यकर्माणि सश्चिरे । सेविरे । ज्ञायन्त इत्यर्थः । किमर्थं । युयुत्सूनां शत्रूणां पूर्वमेव प्रज्ञापनाय । अनेन युद्ध्यमाना वृत्रादयः सर्वे मरणं प्राप्ताः किमर्थं भवद्भिः प्राकाशस्त्यज्यन्त इति तेषां बोधनायेत्यर्थः । अन्यत्पूर्ववत् ॥ सश्चिरे । सश्च गतौ । व्यत्ययेनात्मनेपदं । पूर्वचित्तये । चिती संज्ञाने । भावे क्तिन् । मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् ॥ १२ ॥
+
+*pracetasaḥ prakṛṣṭajñānās tā gāvo 'syendrasya saho balaṃ namasā svakīyena payorūpeṇānnena saparyanti | paricaranti | purūṇi bahūny asyendrasya vratāni śatruvadhādirūpāṇi vīryakarmāṇi saścire | sevire | jñāyanta ity arthaḥ | kimarthaṃ | yuyutsūnāṃ śatrūṇāṃ pūrvam eva prajñāpanāya | anena yuddhyamānā vṛtrādayaḥ sarve maraṇaṃ prāptāḥ kimarthaṃ bhavadbhiḥ prākāsty ajyanta iti teṣāṃ bodhanāyety arthaḥ | anyat pūrvavat || saścire | saśca gatau | vyatyayenātmanepadaṃ | pūrvacittaye | citī saṃjñāne | bhāve ktin | marudvṛdhādittvāt pūrvapadāntodāttatvam || 12 ||*
+
+*Sense:* "*Pracetasaḥ* — those cows, of excellent understanding, serve (*saparyanti*, *paricaranti*) this Indra's *sahas*, his strength, with *namas*, with their own food in the form of milk. Many (*purūṇi*) deeds of this Indra — heroic deeds such as the slaying of enemies — *saścire*, are attended (*sevire*), that is, are made known. For what purpose? *Pūrvacittaye* — to make known beforehand to enemies who wish to fight: 'Vṛtra and all the others who fought him met death; why do you [rush on] (…)?' — to instruct them thus. The rest as before." *The grammatical tail:* *saścire* — the root *saśca gatau* with the *ātmanepada* by *vyatyaya*; *pūrvacittaye* — the root *citī saṃjñāne*, *ktin* in the *bhāva* sense, with the accent of the first member by the *marudvṛdhādi* group."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.12** *(Kannada)*
+
+- **प्रचेतसः** — "of excellent understanding"
+- **ताः** — "those cows"
+- **अस्य** — "this Indra's"
+- **सहः** — "strength"
+- **नमसा** — "(their own, in the form of milk) food"
+- **सपर्यन्ति** — "honour"
+- **पूर्वचित्तये** — "(for the knowledge of enemies who will be slain in the future) for making them know"
+- **पुरूणि** — "of many kinds"
+- **अस्य** — "of Indra"
+- **व्रतानि** — "heroic deeds"
+- **सश्चिरे** — "having understood, they praise"
+- **वस्वीः** — "(dwelling in cow-sheds)"
+- **स्वराज्यम् अनु** — "heeding (Indra's) sovereignty."
+
+### Page 113 (PDF 128)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "8 … VOLUME 7" at the foot.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.12** *(Kannada)*
+
+"The cows, being of excellent understanding, honour Indra's strength by offering their milk and so increase it. Wishing to fight with Indra, they praise Indra's numerous heroic deeds, for the instruction of enemies who may be slain in the future. Dwelling in their cow-sheds, they heed his universal sovereignty with reverence."
+
+**English Translation** *(printed in English in the source)*
+
+"Those intelligent cows worship his prowess with the adoration of their milk ; they proclaimed his many exploits as an example to later enemies and are benificient [sic] in accordance with his sovereignty." — as printed ("benificient" as printed [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.12)**
+
+- **नमसा सपर्यन्ति** — *svakīyena payorūpeṇānnena paricaranti* — "they serve Indra with their milk."
+- **व्रतान्यस्य** — "*vratāni* means deeds of daring; the various works done by Indra."
+- **सश्चिरे** — *saśca gatau; jñāyante* — "they are made known: that is, made so that all may know."
+- **पूर्वचित्तये** — *citī saṃjñāne* — "to give notice beforehand to enemies who desire to fight."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.12)** *(grammar page, noted briefly)*
+
+- **सपर्यन्ति** — the root *sapara pūjāyām*; by "kaṇḍvādibhyo yak" (Pā. Sū. 3-1-27) the affix *yak*; the *yak* accent.
+- **सश्चिरे** — the root *saśca gatau*; by "vyatyayo bahulam" the *ātmanepada* affix; in the *liṭ*, by "liṭas tajhayor eśirec" (Pā. Sū. 3-4-81) *irec* for *jha*; by "tiṅ atiṅaḥ" the nighāta accent.
+- **पूर्वचित्तये** — the root *citī saṃjñāne*; by "striyāṃ ktin" (Pā. Sū. 3-3-94) the affix *ktin* in the *bhāva* sense. By the accent of a *kṛt*-ending final member the compound would take the accent of the last member; but, since it is read in the *marudvṛdhādi* group (Pā. Sū. 6-2-[?]), the first member's final-udātta accent arises. In the fourth case singular, by "gher ṅiti" (Pā. Sū. 7-3-111) guṇa, and *ay* replacement: *pūrvacittaye*. ||12||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–113 done (PDF 16–128) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.12 complete** (the three Paṅkti Ṛks, 10–12, done); next the three Gāyatrī Ṛks (84.13–84.15). Next: printed p. 114 (PDF 129) — Rik 84.13. Eight Ṛks (84.13–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
