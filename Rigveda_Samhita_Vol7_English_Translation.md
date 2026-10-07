@@ -280,4 +280,84 @@ yukṣvā madacyutā harī kaṃ hanaḥ kaṃ vasau dadho 'smāṁ indra vasau 
 
 ---
 
-**Progress note:** Printed pp. 1–9 done (PDF 16–24) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.2 complete**; **Rik 81.3** — Saṃhitā and Pada (p. 9) done. Next: printed p. 10 (PDF 25) — bhāṣya of 81.3. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful.
+### Page 10 (PDF 25)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.3** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अत्रेदमाख्यानम् । रहूगणपुत्रो गोतमः कुरुसृञ्जयानां राज्ञां पुरोहित आसीत् । तेषां राज्ञां पर्यै सह युद्धे सति स ऋषिरनेन सूक्तेनेन्द्रं स्तुत्वा स्वकीयानां जयं प्रार्थयामासेति । तस्य च तत्पुरोहितत्वं वाजसनेयिभ्राम्णातम् । गोतमो हि वै राहूगण उभयेषां कुरुसृञ्जयानां पुरोहित आसीदिति ॥ यद्यदाजयः सङ्ग्रामा उदीरते उद्गच्छन्ति उत्पद्यन्ते तदानीं धनाधनं धृष्णवे यो धृष्णुर्धर्षयिता शत्रूणां जेता भवति तस्मै धीयते । निधीयते । जयतो धनं भवतीत्यर्थः । हे इन्द्र त्वं ताद्दृशेषु युद्धेषु प्रवृत्तेषु मदच्युता शत्रूणां मदस्य गर्वस्य च्यावयितारौ हरी त्वदीयावश्वौ युक्ष्व । रथे योजय । योजयित्वा च कं कंचिदाजानं तव परिचरणमकुर्वन्तं हनः । हन्याः । कंचन च त्वां परिचरन्तं वसौ वसुनि धने दधः । स्थापयसि । अतो जयपराजययोस्त्वयैव कारयिताऽसि । तस्माद्धे इन्द्रास्मान्त्वदीयान्राज्ञो वसौ धने दधः । स्थापय ॥ उदीरते । ईर गतौ । आदादिकः । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वर एव शिष्यते । यद्वृत्तयोगादनिघातः । धना । सुपां सुलुगिति डादेशः । युक्ष्व । युजिर् योगे । अन्तर्भावितण्यर्थाल्लोटि बहुलं छन्दसीति विकरणस्य लुक् । द्व्यचोऽतस्तिङ इति संहितायां दीर्घत्वम् । हनः । हन्तेर्लेटि सिब्बहुलं लेटीति सिप् । लेटोऽडाटाविति अडागमः । हनश्च धधक्षेति चार्थप्रतीतेश्चादिलोपे विभाषेति प्रथमायास्तिङ विभक्तेर्निघातप्रतिषेधः । वसौ । लिंगव्यत्ययः । दधः । दध धारणे लेटि । व्यत्ययेन परस्मैपदम् ॥ ३ ॥
+
+*atredam ākhyānam | rahūgaṇaputro gotamaḥ kurusṛñjayānāṃ rājñāṃ purohita āsīt | teṣāṃ rājñāṃ paryai saha yuddhe sati sa ṛṣir anena sūktenendraṃ stutvā svakīyānāṃ jayaṃ prārthayām āseti | tasya ca tatpurohitatvaṃ vājasaneyibhrāmṇātam | gotamo hi vai rāhūgaṇa ubhayeṣāṃ kurusṛñjayānāṃ purohita āsīd iti || yad yadā jayaḥ saṅgrāmā udīrate udgacchanti utpadyante tadānīṃ dhanā dhanaṃ dhṛṣṇave yo dhṛṣṇur dharṣayitā śatrūṇāṃ jetā bhavati tasmai dhīyate | nidhīyate | jayato dhanaṃ bhavatīty arthaḥ | he indra tvaṃ tādṛśeṣu yuddheṣu pravṛtteṣu madacyutā śatrūṇāṃ madasya garvasya cyāvayitārau harī tvadīyāv aśvau yukṣva | rathe yojaya | yojayitvā ca kaṃ kaṃcid ājānaṃ tava paricaraṇam akurvantaṃ hanaḥ | hanyāḥ | kaṃcana ca tvāṃ paricarantaṃ vasau vasuni dhane dadhaḥ | sthāpayasi | ato jayaparājayayos tvayaiva kārayitā 'si | tasmād dhe indrāsmān tvadīyān rājño vasau dhane dadhaḥ | sthāpaya || udīrate | īra gatau | ādādikaḥ | anudāttettvāl lasārvadhātukānudāttatve dhātusvara eva śiṣyate | yadvṛttayogād anighātaḥ | dhanā | supāṃ suluk iti ḍādeśaḥ | yukṣva | yujir yoge | antarbhāvitaṇyarthāl loṭi bahulaṃ chandasīti vikaraṇasya luk | dvyaco 'tas tiṅa iti saṃhitāyāṃ dīrghatvam | hanaḥ | hanter leṭi sib bahulaṃ leṭīti sip | leṭo 'ḍāṭāv iti aḍāgamaḥ | hanaś ca dhadhakṣeti cārthapratītheś cādilope vibhāṣeti prathamāyās tiṅ vibhakter nighātapratiṣedhaḥ | vasau | liṅgavyatyayaḥ | dadhaḥ | dadha dhāraṇe leṭi | vyatyayena parasmaipadam || 3 ||*
+
+*Sense:* "Here is the legend: Gotama, son of Rahūgaṇa, was the *purohita* (house-priest) of the kings of the Kurus and Sṛñjayas. When those kings were in battle with their enemies, that ṛṣi praised Indra with this sūkta and prayed for the victory of his own side. His being their *purohita* is recorded by the Vājasaneyins: 'Gotama Rāhūgaṇa indeed was the *purohita* of both the Kurus and the Sṛñjayas.' — When (*yad*) *ājayaḥ*, battles, arise (*udīrate* — rise, come about), then wealth (*dhanā*) is placed (*dhīyate*, *nidhīyate*) for the bold one (*dhṛṣṇave*), who is the overcomer of enemies, the conqueror: the conqueror gets wealth — that is the sense. O Indra, in such battles, yoke (*yukṣva*) to your chariot your two bay horses (*harī*) which make the pride (*mada*) of the enemies fall (*madacyutā*). Having yoked them, strike (*hanaḥ*) whoever does not serve you; and whoever does serve you, place in wealth (*vasau*, *dadhaḥ*). So you are the cause of victory and defeat alike; therefore, O Indra, set us, your kings, in wealth." *The grammatical tail* (characterized, not transcribed in full): *udīrate* — root *īra gatau*, *adādi*, anudātta-*it*, so the root's accent remains; no nighāta since *yad* is connected; *dhanā* — *ḍā* substituted for the case-ending by "supāṃ suluk…"; *yukṣva* — root *yujir yoge*, with implied causative sense, the *luk* of the stem-marker by "bahulaṃ chandasi", lengthening in the Saṃhitā by "dvyaco 'tas tiṅaḥ"; *hanaḥ* — *leṭ* of *han* with *sip* and *aṭ*; the nighāta is barred (as read, the clause is compressed [?]); *vasau* — a change of gender; *dadhaḥ* — the *leṭ* of *dadha dhāraṇe*, *parasmaipada* by *vyatyaya*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.3** *(Kannada)*
+
+- **यत्** — "when"
+- **आजयः** — "battles"
+- **उदीरते** — "arise (happen)"
+- **धना** — "wealth"
+- **धृष्णवे** — "to the bold one who overcomes enemies"
+- **धीयते** — "comes and joins (him)"
+- **(इन्द्र)** — "O Indra"
+- **मदच्युता** — "(you) who subdue the pride (of enemies)"
+- **हरी** — "your horses"
+- **युक्ष्व** — "yoke (to the chariot)"
+- **कम्** — "whoever (does not worship you)"
+- **हनः** — "slay"
+- **(कम्)** — "whoever (worships you)"
+- **वसौ** — "in wealth"
+- **दधः** — "establish"
+- **इन्द्र** — "O Indra"
+- **अस्मान्** — "us"
+- **वसौ** — "in prosperity"
+- **दधः** — "establish."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.3** *(Kannada)*
+
+"When battles arise, wealth is obtained by the bold one who overcomes the enemies. Therefore, O Indra, destroyer of enemies, yoke to the chariot your horses that subdue the pride of enemies. Destroy the kings who do not worship you, and make the kings who worship you prosperous. Give us abundant wealth."
+
+### Page 11 (PDF 26)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**English Translation** *(Rik 81.3; printed in English in the source)*
+
+"When battles arise, wealth will be the rewards of the victor ; O Indra, yoke your horses, humblers of the pride of the enemies, in order that you may kill one and give wealth to another. Place us in possession of wealth." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.3)**
+
+- *(the legend)* — "The bhāṣyakāra here tells a legend: Gotama, the son of Rahūgaṇa, the ṛṣi of this sūkta, was the *purohita* of the royal peoples called Kuru and Sṛñjaya. At the time when those kings were fighting their enemy kings, this Gotama praised Indra with this sūkta and made Indra gracious. Indra caused victory in battle to the kings, the Kurus and Sṛñjayas, as said above. The bhāṣyakāra says that the ṛṣi hints at this very matter in this Ṛk. And on the point that Gotama was *purohita* to the Kuru-Sṛñjayas they cite the Śruti sentence of the Vājasaneyins:
+
+> गोतमो ह वै राहूगण उभयेषां कुरुसृञ्जयानां पुरोहित आसीत् ।
+
+*gotamo ha vai rāhūgaṇa ubhayeṣāṃ kurusṛñjayānāṃ purohita āsīt |* — "Gotama Rāhūgaṇa was indeed the *purohita* of both the Kurus and the Sṛñjayas."
+- **उदीरते** — *īra gatau* — "to come about, to arise, to happen."
+- **आजयः** — "battles (Ni. [2-17] [?])."
+- **धृष्णवे** — *dhārṣṭyayuktāya* — "to the strong one; it is natural that the strong one wins in battle."
+- **मदच्युता** — "those that make the pride of the enemies fall; that is, because Indra conquers enemies with the help of the horses, the horses help to humble the enemy's pride. Therefore the horses are called by this word."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.3)** *(grammar page, noted briefly; runs to p. 12)*
+
+- **उदीरते** — root *īra gatau*, *adādi*, *ut* the preposition (the preposition changes the sense of the root: "*upasargeṇa dhātvarthaḥ balād anyaḥ pratīyate*" is quoted as the saying); in the *adādi* class the *luk* of the stem-marker; since the root is anudātta-*it*, by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam…" (Pā. Sū. 6-1-186) the *laṭ*-substitute with the *sārvadhātuka* designation is anudātta, and the root's accent remains (final-udātta); though the preceding sūtra enjoins anudātta here, nothing of it is heard; as an exception "yadvṛttān nityam" (Pā. Sū. 8-1-66) begins: wherever there is a word with *yat* (*yad*), the *tiṅanta* after it is not anudātta — here *yad* is read in the mantra (*yad udīrata*), so the *yat*-connection arises, and the anudātta is therefore barred.
+- **धना** — the second-case singular of *dhana*; "supāṃ suluk…" (Pā. Sū. 7-1-39) puts *ḍā* for *am*; the *ḍ* is dropped as a mark, leaving *ā*; the final *a* of the stem is dropped before it; with the *ā* joined: *dhanā*.
+- **युक्ष्व** — the root *yujir yoge*, *rudhādi*, *ubhayapadī*; it contains the causative sense of *ṇic* (the sense of *ṇic* is to be added to the root); *loṭ* in the passive/benedictive sense; *śnam* is the stem-marker for the *rudhādi*, but by "bahulaṃ chandasi" its *luk* arises; by "savābhyāṃ vāmau" (Pā. Sū. 3-4-91) the *e* of the *se* ending of the middle second person with *ṅit* becomes *va*; the *j* of the root becomes *k* by "coḥ kuḥ" (Pā. Sū. 8-2-30), and *s* after the *k* becomes *ṣ*; *k* + *ṣ* = *kṣ*; *kṣ* is not a separate letter; by "dvyaco 'tastiṅaḥ" (Pā. Sū. 6-3-135) the final *a* of a two-syllabled *tiṅanta* is lengthened in mantras, so here *yukṣvā* is heard long.
+- **हनः** — the root *han hiṃsāgatyoḥ*, *adādi*, *parasmaipadī*; the *leṭ* appears in the sense of *loṭ*; when *sip* arises for the second person singular, as said before (3-1-34), the *aṭ* augment comes for *sip*; with *hanas*, as a *hal* follows, the *s* is dropped and *ru* and visarga arise (the print's reasoning is compressed [?]); the accent of the *tiṅ*: since *ca, vā, hā, aha* …
+
+### Page 12 (PDF 27)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Grammar of Rik 81.3, continued from pp. 11:*
+
+- **हनः** (continued) — "…since the initial letter has been dropped, the *tiṅ* that has been uttered first is not made anudātta, so that here by 'hanaś ca dadhakṣa…' (the word *hanaḥ* meaning 'you kill; you should kill', and the sense of *ca* being understood) the nighāta is considered barred, as the omission of *ca* (is to be understood). By this the anudātta accent does not arise."
+- **वसौ** — the seventh-case singular; the word *vasu* is neuter in common use; by "vyatyayo bahulam" (Pā. Sū. 3-1-85) there is a change of gender and the like in the Veda, so here it takes a masculine form.
+
+*(The rest of the grammar page for 81.3 — the entries for* dadhaḥ *and the page's closing "||3||" — is on the next printed page, or has been merged with the above; as printed the page ends here. The "||3||" mark of the grammar was already seen at the foot of p. 10's bhāṣya.)*
+
+*Note for the reader:* the print of this page ends at the entry on *vasau*; the entry for *dadhaḥ* is not given on the grammar page. Grammar page, noted briefly; sūtra numerals tentative [?].
+
+---
+
+**Progress note:** Printed pp. 1–12 done (PDF 16–27) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.3 complete** (the Gotama–Kuru–Sṛñjaya legend on pp. 10–11; grammar of 81.3 on pp. 11–12, whose final entries I have only partly read). Next: printed p. 13 (PDF 28) — Rik 81.4. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the grammar page of 81.3 compressed.
