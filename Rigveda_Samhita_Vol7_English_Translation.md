@@ -4187,4 +4187,102 @@ Closing of Rik 85.1: "॥ १ ॥" (1).
 
 ---
 
-**Progress note:** Printed pp. 1–152 done (PDF 16–167) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): **Rik 85.1 complete**; **Rik 85.2** done through the Special Topics as far as the *pṛśnimātaraḥ* entry, p. 152 (the Ṛgveda quotation given; the entry may continue on p. 153; then grammar of 85.2). Next: printed p. 153 (PDF 168). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 and 151 grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 153 (PDF 168)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 153.)*
+
+*Special Topics of Rik 85.2 (the entry on* pṛśnimātaraḥ*), continued from p. 152:*
+
+"…having given this Ṛk, in explaining it he explains the words *pṛśneḥ putrāḥ* ('sons of Pṛśni') by '*gorūpāyā antarikṣasya vā putrasthānīyāḥ*' (*goḥ rūpāyā antarikṣasya vā putrasthānīyāḥ*) — that is, 'those who stand in the place of sons of the earth, which has the form of a cow, or of the atmosphere'. And Skandasvāmin says: '*pṛśnir iti dyunāma | dyaur mātā yeṣāṃ marutāṃ te pṛśnimātaraḥ | divaḥ putrā ity arthaḥ*' — 'Pṛśni is a name of the sky. Those Maruts whose mother is the sky are *pṛśnimātaraḥ*; the meaning is "sons of the sky"'. [The editor:] Pṛśni is said to mean heaven, and the sons of the atmosphere. Since the Maruts move in the atmosphere itself, it is fitting to say that they are born from it. Yāska explains this word thus:
+
+> स्वः । पृश्निः । नाकः । गौः । विष्टपम् । नभ इति षट् साधारणानि ॥ साधारणान्युत्तराणि दिवश्चादित्यस्य च ॥
+
+*svaḥ | pṛśniḥ | nākaḥ | gauḥ | viṣṭapam | nabha iti ṣaṭ sādhāraṇāni ‖ sādhāraṇāny uttarāṇi divaś cādityasya ca ‖* (Ni. 2-[14] [?]) — *Gloss, mine and tentative:* "*Svar, pṛśni, nāka, go, viṣṭapa, nabhas* — these six are common [names]; the later ones are common to the sky and to the sun."
+
+— that is, the six words *svaḥ, pṛśniḥ, nākaḥ, gauḥ, viṣṭapam, nabhaḥ* are common words that denote heaven (*divaḥ*) and the Āditya (the sun). And again:
+
+> पृश्निरादित्यो भवति । प्राश्नुते एनं वर्ण इति नैरुक्ताः । संस्पृष्टा रसान् । संस्प्रष्टा भासं ज्योतिषाम् । संस्पृश्यो भासेति वा ॥ अथ द्यौः संस्पृष्टा ज्योतिर्भिः पुण्यकृद्भिश्च ॥
+
+*pṛśnir ādityo bhavati | prāśnute enaṃ varṇa iti nairuktāḥ | saṃspṛṣṭā rasān | saṃspraṣṭā bhāsaṃ jyotiṣām | saṃspṛśyo bhāseti vā ‖ atha dyauḥ saṃspṛṣṭā jyotirbhiḥ puṇyakṛdbhiś ca ‖* (Ni. 2-[14] [?]) — *Gloss, mine and tentative:* "*Pṛśni* is the Āditya: the etymologists say that colour pervades him [or: colour reaches him]; (he is) the toucher of the juices, the toucher of the radiance of the luminaries, or 'to be touched by his lustre'. Then *dyaus* ('heaven') is 'touched' by lights and by doers of good deeds."
+
+"*Pṛśni* means the Āditya (the sun). Because his excellent splendour pervades all around him, the Nirukta-writers say that *pṛśni* means the Āditya. *Saṃspṛṣṭā rasān* — he is always in contact with the juices (*rasa*), that is, with waters; his work is the taking-up of the juices; since he is the cause of giving the *rasa* (water) in the form of rain, the Āditya is called *pṛśni*. Or *saṃspraṣṭā bhāsaṃ jyotiṣām* — the radiance of planets, constellations, the moon and the rest is obscured by the sun; or *saṃspṛśyo bhāsā iti vā* — since he pervades everywhere with his own radiance, *pṛśni* means the Āditya."
+
+"Now *pṛśni* means *dyauḥ*, for *saṃspṛṣṭāḥ jyotirbhiḥ puṇyakṛdbhiś ca* — since it is touched by light and by the doers of meritorious works, *pṛśni* means *dyauḥ* (heaven)."
+
+"This is Yāska's explanation. Therefore, accepting the meaning that *pṛśni* is *dyauḥ* — heaven, the atmosphere — it is fitting to explain the word *pṛśnimātaraḥ* as *divasputrāḥ* — 'born in the atmosphere'."
+
+---
+
+### Page 154 (PDF 169)
+
+*(Running head: "154 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Special Topics of Rik 85.2, continued from p. 153. The first line closes a quotation begun at the foot of p. 153's discussion:*
+
+> यद्यूयं पृश्निमातरो मर्तासः स्यातन ॥
+
+*yad yūyaṃ pṛśnimātaro martāsaḥ syātana ‖* (Ṛ. Saṃ. 1-[38]-[4] [?]) — *Gloss, mine and tentative:* "If you, O sons of Pṛśni, were mortals…"
+
+"— in explaining this Ṛk the bhāṣyakāra has explained the word *pṛśnimātaraḥ* as '*pṛśninām akād ghenuputrā marutaḥ*' [as read, doubtful; i.e. 'the Maruts who are sons of the cow called Pṛśni']. In the many contexts of praising the Marut deities, the use of the word *pṛśnimātaraḥ* is especially frequent. It may therefore be said confidently that a certain fixed sense had become established for this word. The Ṛks in the Ṛgveda in which this word occurs are given below:
+
+> यद्यूयं पृश्निमातरो मर्तासः स्यातन ॥
+
+*yad yūyaṃ pṛśnimātaro martāsaḥ syātana ‖* (Ṛ. Saṃ. 1-[38]-[4] [?])
+
+> अर्चन्तो अर्कं जनयन्त इन्द्रियमधि श्रियो दधिरे पृश्निमातरः ॥
+
+*arcanto arkaṃ janayanta indriyam adhi śriyo dadhire pṛśnimātaraḥ ‖* (Ṛ. Saṃ. 1-[85]-2 [?]) — the present Ṛk.
+
+> पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विदथेषु जग्मयः ॥
+
+*pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidatheṣu jagmayaḥ ‖* (Ṛ. Saṃ. 1-[89]-[7] [?]) — *Gloss, mine and tentative:* "The Maruts with spotted steeds, sons of Pṛśni, going in splendour, frequenters of sacrifices."
+
+> सुजातासो जनुषा पृश्निमातरो दिवो मर्या आ नो अच्छा जिगातन ॥
+
+*sujātāso januṣā pṛśnimātaro divo maryā ā no acchā jigātana ‖* (Ṛ. Saṃ. 5-[?]-[?] [?]) — *Gloss, mine and tentative:* "Well-born by birth, sons of Pṛśni, O men of heaven, come hither to us."
+
+> उदीरयन्त वायुभिर्वाश्रासः पृश्निमातरः ॥
+
+*udīrayanta vāyubhir vāśrāsaḥ pṛśnimātaraḥ ‖* (Ṛ. Saṃ. 8-[7]-[?] [?]) — *Gloss, mine and tentative:* "They have set in motion, with the winds, the roaring sons of Pṛśni."
+
+> उदु स्वानेभिरीरत उद्रथैरुदु वायुभिः । उत्स्तोमैः पृश्निमातरः ॥
+
+*udu svānebhir īrata ud rathair ud u vāyubhiḥ | ut stomaiḥ pṛśnimātaraḥ ‖* (Ṛ. Saṃ. 8-[7]-[?] [?]) — *Gloss, mine and tentative:* "They have risen with their sounds, with their chariots, with the winds; with praises [they rise], the sons of Pṛśni."
+
+> अभीमृतस्य विष्टपं दुहते पृश्निमातरः ॥
+
+*abhīm ṛtasya viṣṭapaṃ duhate pṛśnimātaraḥ ‖* (Ṛ. Saṃ. 9-[?]-[?] [?]) — *Gloss, mine and tentative:* "The sons of Pṛśni milk the realm of the Law (*ṛta*) [or: the *viṣṭapa* of *ṛta*]."
+
+> स्वश्वाः स्थ सुरथाः पृश्निमातरः स्वायुधा मरुतो याथना शुभम् ॥
+
+*svaśvāḥ stha surathāḥ pṛśnimātaraḥ svāyudhā maruto yāthanā śubham ‖* (Ṛ. Saṃ. 5-[?]-[?] [?]) — *Gloss, mine and tentative:* "Of good horses are you, of good chariots, sons of Pṛśni, with good weapons, O Maruts, you go towards splendour."
+
+> कोपयेथ पृथिवीं पृश्निमातरः शुभे यदुग्राः पृषतीरयुग्ध्वम् ॥
+
+*kopayetha pṛthivīṃ pṛśnimātaraḥ śubhe yad ugrāḥ pṛṣatīr ayugdhvam ‖* (Ṛ. Saṃ. 5-[?]-[?] [?]) *(the first word is printed* kosayetha *or close to it; read as* kopayetha *with doubt [?])* — *Gloss, mine and tentative:* "You shake the earth, sons of Pṛśni, when, fierce ones, you yoke the spotted mares for splendour."
+
+"All the Ṛks in which the word *pṛśnimātaraḥ* occurs have been given above. In these Ṛks, since the word *pṛśnimātaraḥ* is explained in reference to the Maruts alone, it may be said confidently that this word has been used, in connexion with these deities only, in one fixed sense." *(Each Ṛgveda reference numeral is in small Kannada numerals, not legible with certainty at 150 dpi; none is read as certain.)*
+
+---
+
+### Page 155 (PDF 170)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 155.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.2)** *(grammar page, noted briefly; every sūtra read is given in three layers, the numerals as read [?])*
+
+- **उक्षितासः** — the root *ukṣa secane*; by "निष्ठा" (*niṣṭhā*) the affix *kta* in the passive; by "आर्धधातुकस्येड्वलादेः" (*ārdhadhātukasyeḍ valādeḥ*) the augment *iṭ*; the word *ukṣita*, by the affix-accent acute on the final syllable; with *jas* following, by "आज्जसेरसुक्" (*āj jaser asuk*) the augment *asuk* for *jas*; *ru* and *visarga*: *ukṣitāsaḥ*.
+- **महिमानम्** — since *mahat* is in the *pṛthvādi* class, by "पृथ्वादिभ्य इमनिज्वा" (*pṛthvādibhya imanij vā*, Pā. Sū. 5-1-122 [?]) the affix *imanic*; by "टेः" (*ṭeḥ*) the loss of the *ṭi* part (*at*) of *mahat*; the word *mahiman*; in the accusative singular, by "सर्वनामस्थाने चासम्बुद्धौ" (*sarvanāmasthāne cāsambuddhau*) the lengthening of the penultimate of the word ending in *n*; since *mahiman* is *cit*, by "चितः" the final acute.
+- **आशत** — the root *aśū vyāptau*; *laṅ*, third person plural, the *jha*, substitute *ata*, since *a*-ending after the root; by "बहुलं छन्दसि" the *vikaraṇa* is elided; since it follows an *atiṅanta*, the *nighāta* accent.
+- **दिवि** — locative singular; by "ऊडिदंपदाद्यप्पुम्रैद्युभ्यः" (*ūḍidaṃpadādy-appum-raidyubhyaḥ*, Pā. Sū. 6-1-171) the case-ending acute.
+- **रुद्रासः** — as before, in the *jas*: by "आज्जसेरसुक्" the augment *asuk*.
+- **अर्चन्तः** — the root *arca pūjāyām*; the affix *śatṛ* in the sense of *laṭ*; the root accent remains; in the nominative plural, as it is *ugit* (a *u*-marked nasal-taking), the augment *num*.
+- **इन्द्रियम्** — *indriyam indraliṅgam indradṛṣṭam…* — by "इन्द्रियमिन्द्रलिङ्गमिन्द्रदृष्टमिन्द्रसृष्टमिन्द्रजुष्टमिन्द्रदत्तमिति वा" (Pā. Sū. 5-2-93 [?]) the word is fixed by *nipātana* with the affix *gha*; by "आयनेयीनीयियः फढखछघाम्" (*āyaneyīnīyiyaḥ phaḍhakhachaghām*, Pā. Sū. 7-1-2) *iya* for *gha*.
+- **दधिरे** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person plural (cf. before); the *nighāta* of the *tiṅanta*.
+- **पृश्निमातरः** — *prāśnute sarvāṇi rūpāṇīti pṛśniḥ bhūmiḥ* ("that which pervades all forms: the earth"); '*iyaṃ vai pṛśniḥ*' (Tai. Brā. 1-6-[?] [?]) — thus it is heard in the Śruti. By *nipātana* in "pṛṣu…pṛśniḥ" the form *pṛśni* is established; *pṛśnir mātā yeṣāṃ te pṛśnimātaraḥ*; in the *bahuvrīhi*, "ṛtaś chandasi" (Pā. Sū. 5-4-[153] [?]) forbids the *kap* that would come at the end of the compound; because the rule "aṣṭṛkṛt…" [as read, "aṣṭṛtkṛt"] has fixed the restriction, the lengthening of the penultimate does not occur.
+
+*(Grammar page ends mid-page in the print? No — the page's last entry is* pṛśnimātaraḥ*; the grammar continues on p. 156 with the remaining words of Rik 85.2 [*dadhire*, *śriyaḥ* and the accent notes].)*
+
+---
+
+**Progress note:** Printed pp. 1–155 done (PDF 16–170) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1 complete**; **Rik 85.2** complete through the Special Topics (the long entry on *pṛśnimātaraḥ*, with the Nirukta and the nine Ṛgveda citations, pp. 153–154) and its grammar page (p. 155; may continue on p. 156). Next: printed p. 156 (PDF 171). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 and 151 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
