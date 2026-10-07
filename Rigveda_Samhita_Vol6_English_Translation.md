@@ -5751,4 +5751,73 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 
 ---
 
-**Progress note:** Printed pp. 1–286 done (PDF 19–304): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 71.1 — Saṃhitā, Pada, bhāṣya (with its grammatical tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics on *sanīḷāḥ*, *svasāraḥ*, *janayaḥ*, *jinvan* done (pp. 283–286); the page 286 Special Topics end at *jinvan* (more may follow on p. 287); the grammar page of 71.1 is not yet seen. Next: p. 287 (PDF 305). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (10 Ṛks) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛgveda citations in the Special Topics on p. 286 and their glosses tentative [?].
+### Page 287 (PDF 305)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.1 (concluded):** **उच्छंतीम्** — *naiśaṃ tamo varjayantīm* — "driving far away the darkness of night — this is an illustration for the service of the fingers: as the rays serve the dawn (*gāvo na*), so the fingers serve Agni. (For the explanation of the word *ucchantīm* see the Special Topics of Ṛk 1-[?]-6.)"
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.1, noted briefly; not transcribed)*
+
+Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito num dhātoḥ*; *leṭ*, third person plural, *jhi*→*anta* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*, loss of the final *t* by *saṃyogāntalopa*; nighāta accent, not being at the head of a pāda); *uśatīḥ* (root *vaś* "to desire"; *śatṛ*; *ṅīp* in the feminine by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; the *ī* of the *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. [6-1-173]); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*, Pā. [4-2-104], with the statement *tyab-bhedhruve* in the sense of "perpetual"; being *pit*, anudātta, so the indeclinable keeps its accent); *svasāraḥ* (root *asu kṣepaṇe*, Divādi; *ṛnan* after the upapada *su* by *suñasyaser ṛnan*, Uṇ. [3-82?], giving *svasṛ*; the *ṅīp* that the feminine would take is prohibited by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute by *ñnityādir nityam*; in the nominative plural, *jas* following, guṇa by *ṛto ñi sarvanāmasthānayoḥ*, Pā. [7-3-110]; lengthening of the penultimate by *apṛkta…*; *ru*, visarga); *aruṣīm* (*aruṣam* is a name of form; root *ṛ* "to go"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-?]; in the sense "possessing *aruṣa*" the possessive *ī* by *chandasīvanipau*; the affix gives final acute, but *vyatyayo bahulam* gives initial acute). Continued on p. 288. *Grammar page, noted briefly; numerals [?].*
+
+---
+
+### Page 288 (PDF 306)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.1 (concluded; noted briefly):** *ajuṣran* — root *juṣī* "to please, to serve" (Tudādi); in *laṅ*, third person plural, the parasmaipada affix by *vyatyayo bahulam*; *antādeśa* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*; *ruṭ* — by *śīṅo ruṭ* (Pā. [7-1-6]) the *ruṭ* continues by anuvṛtti, and by *bahulaṃ chandasi* (Pā. [7-1-8]) the *ruṭ* comes for the *anta*-substitute of this root too; *aḍāgama* of the base; nighāta accent, not being at the head of a pāda. *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.2** *(printed Ṛk "2 ||")*
+
+> वीळु चिद्दृळ्हा पितरो न उक्थैरद्रिं रुजन्नङ्गिरसो रवेण ।
+> चक्रुर्दिवो बृहतो गातुमस्मे अहः स्वर्विविदुः केतुमुस्राः ॥ २ ॥
+
+*vīḷu cid dṛḷhā pitaro na ukthair adriṃ rujann aṅgiraso raveṇa |
+cakrur divo bṛhato gātum asme ahaḥ svar vividuḥ ketum usrāḥ ||2||*
+
+*(Accents are marked in the print; not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> वीळु । चित् । दृळ्हा । पितरः । नः । उक्थैः । अद्रिम् । रुजन् । अङ्गिरसः । रवेण ।
+> चक्रुः । दिवः । बृहतः । गातुम् । अस्मे इति । अहरिति । स्वः । विविदुः । केतुम् । उस्राः ॥ २ ॥
+
+*vīḷu | cit | dṛḷhā | pitaraḥ | naḥ | ukthaiḥ | adrim | rujan | aṅgirasaḥ | raveṇa | cakruḥ | divaḥ | bṛhataḥ | gātum | asme iti | ahar iti | svaḥ | vividuḥ | ketum | usrāḥ ||2||*
+
+*(Reading note: the Pada prints "ahar iti" and "asme iti" as read; the former is evidently *ahaḥ* with *iti* [?].)*
+
+---
+
+### Page 289 (PDF 307)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 19".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.2**
+
+> नोऽस्माकं पितरोऽङ्गिरस एतत्संज्ञा ऋषय उक्थैः शस्त्रैरग्निं स्तुत्वा वीळु चिद्दृळ्हा । वीळिति बलनाम । बलवंतं दृढांगमप्यद्रिमत्तारं पणिनामानमसुरं रवेण स्तुतिशब्दमात्रेणैव रुजन् । अभंजन् । तैः स्तुतोऽग्निस्तमसुरं हतवानित्यर्थः । किंच बृहतो महतो दिवो द्युलोकस्य गातुं मार्गमस्मे अस्माकं चक्रुः । कृतवंतः । आवरकस्यासुरस्याग्निना हतत्वात् । मार्गं कृत्वा च स्वः सुष्ठुअरणीयमसुरराहित्येन सुखेन प्राप्यमहर्दिवसं विविदुः । अजानन् लब्धवंतो वा । तथा केतुमस्माकं केतयितारं ज्ञापयितारमादित्यमुस्राः पणिनापहृता गाश्च विविदुरित्यनुषंगः ॥ वीळु । सुपां सुलुगिति विभक्तेर्लुक् । दृळ्हा । दृढः स्थूलबलयोः । पा. [७-२-२०] इति निपातितः । सुपां सुलुगिति डादेशः । रुजन् । रुजो भङ्गे । तौदादिकः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । विविदुः । विद ज्ञाने विद्लृ लाभ इति वा । लिट्युसि रूपं ॥
+
+*no 'smākaṃ pitaro 'ṅgirasa etatsaṃjñā ṛṣayaḥ ukthaiḥ śastrair agniṃ stutvā vīḷu cid dṛḷhā | vīḷiti balanāma | balavantaṃ dṛḍhāṅgam apy adrim attāraṃ paṇināmānam asuraṃ raveṇa stuti-śabdamātreṇaiva rujan | abhañjan | taiḥ stuto 'gnis tam asuraṃ hatavān ity arthaḥ | kiṃca bṛhato mahato divo dyulokasya gātuṃ mārgam asme asmākaṃ cakruḥ | kṛtavantaḥ | āvarakasyāsurasyāgninā hatatvāt | mārgaṃ kṛtvā ca svaḥ suṣṭhu-araṇīyam asurarāhityena sukhena prāpyam ahar divasaṃ vividuḥ | ajānan labdhavanto vā | tathā ketum asmākaṃ ketayitāraṃ jñāpayitāram ādityam usrāḥ paṇinā-pahṛtā gāś ca vividur ity anuṣaṅgaḥ || vīḷu | supāṃ sulug iti vibhakter luk | dṛḷhā | dṛḍhaḥ sthūlabalayoḥ | pā. [7-2-20] iti nipātitaḥ | supāṃ sulug iti ḍādeśaḥ | rujan | rujo bhaṅge | taudādikaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | vividuḥ | vida jñāne vidḷ lābha iti vā | liṭy usi rūpaṃ ||*
+
+*(Reading note: "adrim attāram" — the gloss of *adri* as "devourer" — and "suṣṭhu-araṇīyam", "paṇinā-pahṛtā" are read as printed and are doubtful in places [?]. The grammatical tail, from "vīḷu", is characterized below.)*
+
+*Meaning:* Our fathers, the Aṅgirases — sages of this name — having praised Agni with *ukthas* (*śastras*), (made *vīḷu cid dṛḷhā* —) *vīḷu* is a name of strength — the strong, firm-limbed devourer, the *asura* by name Paṇi, *rujan* — break, by the mere sound of praise. The meaning: Agni, praised by them, killed that *asura*. Moreover, they made for us the path to the great heaven, because the enveloping *asura* was slain by Agni; and having made the path they found the day, easily attainable, well to be gone to, free from the *asura*. And they found the *ketu* — the one who makes known, the Sun — and the cows (*usrāḥ*) that had been carried off by Paṇi: such is the connection of the clauses.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *vīḷu* (loss of the case-ending by *supāṃ sulug…*); *dṛḷhā* (*dṛḍha* by the nipāta of Pā. [7-2-20] in the sense "stout, strong", with the ending *ḍā* by *supāṃ sulug…*); *rujan* (root *ruj* "to break", Tudādi; *aḍ* absent by *bahulaṃ chandasy amāṅyoge 'pi*); *vividuḥ* (root *vid* "to know", or *vidḷ* "to obtain"; the form is *liṭ* with *us*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*naḥ* — our; *pitaraḥ aṅgirasaḥ* — the sages called Aṅgirasas, who belong to the company of ancestors; *ukthaiḥ* — by *śastras* (they praise Agni with praises); *vīḷu* — the strong; *adrim* — the devourer (the *asura* named Paṇi); *dṛḷhā cit* — though firm-limbed; *raveṇa* — by the sound (of the praise); *rujan* — destroyed; *bṛhataḥ* — of the great (the magnificent); *divaḥ* — of heaven; *gātum* — the path; *asme* — for us; *cakruḥ* — made; *svaḥ* — pleasantly attainable; *ahaḥ* — the day; *vividuḥ* — they knew; *ketum* — the one who causes the day to be known (the Āditya); *usrāḥ* — the cows (carried off by Paṇi); *(vividuḥ — they obtained.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The sages called Aṅgirasas, who belong to the company of our ancestors, praised Agni with *ukthas*, and caused him to kill the *asura* called Paṇi — the strong and firm-limbed — and made easy for us the path to heaven, and obtained for us the day that is easy to reach (the Āditya, because the *asura* named Paṇi who hid the sky was destroyed) and the cows (carried off by him).
+
+**English Translation** *(the source's own, as printed; the page ends mid-sentence, continued on p. 290):*
+
+> Our forefathers, the Angirasas, by their praises (of Agni), terrified the strong and daring devourer, (Pani) by the sound; they made for us a …
+
+---
+
+**Progress note:** Printed pp. 1–289 done (PDF 19–307): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 71.1 complete (grammar page pp. 287–288); **Rik 71.2** — Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha done (pp. 288–289); the source's English breaks off at the foot of p. 289 ("they made for us a …"); Special Topics and grammar page of 71.2 not yet seen. Next: p. 290 (PDF 308). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (10 Ṛks) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's "adrim attāram" and the Pada "ahar iti" doubtful [?].
