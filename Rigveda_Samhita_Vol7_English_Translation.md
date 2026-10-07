@@ -3567,4 +3567,83 @@ Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, anta
 
 ---
 
-**Progress note:** Printed pp. 1–128 done (PDF 16–143) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.15 complete**; **Rik 84.16** complete through its Saṃhitā, Pada, bhāṣya, Pratipadārtha (both readings), Bhāvārtha, English and Special Topics; its Vyākaraṇa-prakriyā page begun on p. 128 (*yuṅkte*, *durhṛṇāyūn*) and runs on to p. 129. Next: printed p. 129 (PDF 144). Four Ṛks (84.17–84.20) remain after 84.16. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; p. 128 clotted print on *āsanniṣūn*; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 129 (PDF 144)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 129. Foot: printer's signature "9 … Volume 7".)*
+
+*Vyākaraṇa-prakriyā of Rik 84.16, continued from p. 128 (grammar page, noted briefly; every sūtra read is given in three layers, the numerals as read [?]):*
+
+- **आसन्निषून्** — by "पद्दन्नोमास्…" (*paddanno-mās-hṛn-niśasan…*, Pā. Sū. 6-1-63 [?]) *āsan* is substituted for the word *āsya*; *iṣ* in the sense of motion, to which by "इषेः किच्च" (*iṣeḥ kic ca*, Uṇ. Sū. 1-[13?] [?]) the affix *u* (made *kit*) is added; since it is *kit*, the *laghūpadha* guṇa does not occur; *āsani iṣavaḥ yeṣāṃ* — in the *bahuvrīhi* compound by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" (*bahuvrīhau prakṛtyā pūrvapadam*) the first member keeps its own accent.
+- **हृत्स्वसः** — *asu kṣepaṇe*, or the root *asa gatidīptyādāneṣu*; by "क्विप् च" (*kvip ca*) the affix *kvip*; when compounded as *hṛtsu asaḥ*, by "तत्पुरुषे कृति बहुलम्" (*tatpuruṣe kṛti bahulam*) the case-ending is not elided (*aluk*); by "गतिकारकोपपदात् कृत्" (*gatikārakopapadāt kṛt*) the *kṛdutarapada* keeps its base accent.
+- **मयोभून्** — by "व्यत्ययो बहुलम्" (*vyatyayo bahulam*) the shortening of *bhū* by *vyatyaya*; or, since this word is in the class of *mita-dru-* etc., by "मितद्र्वादिभ्य उपसंख्यानम्" (*mitadrvādibhya upasaṃkhyānam*, Pā. Sū. 3-2-180-1 [?]) the affix *ḍu*; by *ṭi*-loss the form as given; here too the *kṛduttarapada* keeps its base accent. Accusative plural.
+- **भृत्याम्** — the root *bhṛñ bharaṇe*; by "संज्ञायां समजनिषद…" (*saṃjñāyāṃ samajaniṣada…*, Pā. Sū. 3-3-99 [?]) the affix *kyap* in a name; by "ह्रस्वस्य पिति कृति तुक्" (*hrasvasya piti kṛti tuk*) the augment *tuk* for the short vowel; the accent of *pit* is set aside because "*udāttaḥ*" runs on from the *kyap*-rule, so the affix is acute.
+- **ऋणधत्** — the root *ṛdhu vṛddhau*; *leṭ*, third person singular, the affix *ti*; by "इतश्च लोपः" (*itaś ca lopaḥ*) the loss of its *ī*; by "लेटोऽडाटौ" (*leṭo 'ḍāṭau*) the augment *aṭ*; by "व्यत्ययो बहुलम्" the *śnam* in place of *śap* [as read]; the *nighāta* of the *tiṅanta* is barred because "*yaḥ*" stands before it, and the accent of the *vikaraṇa* remains.
+- **जीवात्** — the root *jīva prāṇadhāraṇe*; the *leṭ* form as before, the only peculiarity the augment *aṭ*; because it stands after an *atiṅanta* (a word that is not a *tiṅanta*), the *nighāta* accent comes.
+
+Closing of Rik 84.16: "॥ १६ ॥" (16), followed by a printer's ornament.
+
+---
+
+### Page 130 (PDF 145)
+
+*(Running head: "130 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 84.17)** *(Triṣṭubh; Indra; Kannada script converted letter by letter; accents not reproduced)*
+
+> क ईषते तुज्यते को बिभाय को मंसते सन्तमिन्द्रं को अन्ति ।
+> कस्तोकाय क इभायोत रायेऽधि ब्रवत्तन्वे को जनाय ॥ १७ ॥
+
+*ka īṣate tujyate ko bibhāya ko maṃsate santam indraṃ ko anti | kas tokāya ka ibhāyota rāye 'dhi bravat tanve ko janāya ‖ 17 ‖*
+
+*Gloss, mine and tentative:* "Who goes away [in fear]? Who is hurt? Who is afraid? Who thinks of Indra, being near? Who will speak [to Indra] for a son, who for an elephant, and for wealth, who for his own body, who for his people?"
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> कः । ईषते । तुज्यते । कः । बिभाय । कः । मंसते । सन्तम् । इन्द्रम् । कः । अन्ति ।
+> कः । तोकाय । कः । इभाय । उत । रायः । अधि । ब्रवत् । तन्वे । कः । जनाय ॥ १७ ॥
+
+*kaḥ | īṣate | tujyate | kaḥ | bibhāya | kaḥ | maṃsate | santam | indram | kaḥ | anti | kaḥ | tokāya | kaḥ | ibhāya | uta | rāyaḥ | adhi | bravat | tanve | kaḥ | janāya ‖ 17 ‖*
+
+*(Pada as printed: "rāye" at the third-line end is read "रायः" by the Pada; the print has "रायः" and the Saṃhitā "रायेऽधि" with avagraha mark — as read, [?].)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 84.17)**
+
+> अनुग्रहीतरीन्द्र आगते सति क ईषते । शत्रोर्भीतः सन् को निर्गच्छति । न कोऽपीत्यर्थः । कस्तुज्यते । को हिंस्यते । शत्रुभिर्हिंस्योऽपि कश्चिन्नास्तीत्यर्थः । को यजमानो बिभाय । बिभेति । इन्द्रे रक्षके सति भयमपि नोत्पद्यते दूरे तस्य शत्रुकृता हिंसा । अत्यन्तिके समीपे सन्तमस्माकं रक्षकत्वेन वर्तमानमिन्द्रं कः पुरुषो मंसते । जानाति । वयमेव जानीमो नान्य इत्यर्थः । एकः कः पूरकः । युद्धे सहायार्थमिन्द्र आगते सति को यजमानस्तोकाय पुत्रायाधिब्रवत् । हे इन्द्रास्मदीयं पुत्रं रक्षेत्येवंरूपमधिवचनं पक्षपातेन ब्राह्मणायाधिब्रूयादिति यथा एवंरूपमधिवचनं को यजमानः कुर्यात् । स्वयमेवेन्द्रो रक्षतीति भावः । इभाय गजाय कोऽधि ब्रवत् । उतापि च रायः शत्रुभिरपह्रियमाणाय धनाय कोऽधि ब्रवत् । …
+
+*anugrahītarīndra āgate sati ka īṣate | śatror bhītaḥ san ko nirgacchati | na ko 'pīty arthaḥ | kas tujyate | ko hiṃsyate | śatrubhir hiṃsyo 'pi kaścin nāstīty arthaḥ | ko yajamāno bibhāya | bibheti | indre rakṣake sati bhayam api notpadyate dūre tasya śatrukṛtā hiṃsā | atyantike samīpe santam asmākaṃ rakṣakatvena vartamānam indraṃ kaḥ puruṣo maṃsate | jānāti | vayam eva jānīmo nānya ity arthaḥ | ekaḥ kaḥ pūrakaḥ | yuddhe sahāyārtham indra āgate sati ko yajamānas tokāya putrāyādhi bravat | he indrāsmadīyaṃ putraṃ rakṣety evaṃrūpam adhivacanaṃ pakṣapātena brāhmaṇāyādhibrūyād iti yathā evaṃrūpam adhivacanaṃ ko yajamānaḥ kuryāt | svayam evendro rakṣatīti bhāvaḥ | ibhāya gajāya ko 'dhi bravat | utāpi ca rāyaḥ śatrubhir apahriyamāṇāya dhanāya ko 'dhi bravat | …* *(the bhāṣya runs on to p. 131; the Sanskrit is in Kannada script; "anugrahītarīndra" in the first word is read thus, with doubt [?], the print being "anugrahītā indra"-like).*
+
+*Translation of the bhāṣya (so far):* "When Indra, the helper, has come, who goes away? — who, fearful of the enemy, departs? None whatever. *Tujyate* — who is injured? There is nobody whom the enemies can injure. Which sacrificer is afraid? When Indra is the protector, there is not even fear, still less any harm from enemies. Who thinks of Indra, who is so near, being near to us as our protector? That is, who knows? We alone know, no other. (Here one *kaḥ* is a mere filler.) When Indra has come in battle to help, which sacrificer will speak on behalf of a son (*tokāya*)? — 'O Indra, protect my son!' — as one might speak on behalf of a Brahmin out of partiality: which sacrificer would make a plea of this kind? The idea is that Indra protects of his own accord. Who will speak for an elephant (*ibhāya*)? And who will speak for wealth (*rāyaḥ*) that is being carried off by enemies? …"
+
+---
+
+### Page 131 (PDF 146)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 131.)*
+
+*Bhāṣya of Rik 84.17, continued from p. 130:*
+
+> …अपह्रियमाणमस्मदीयं धनं रक्षेत्यधिवचनमपि कः यजमानः कुर्यात् । न कोऽपीत्यर्थः । अपि च तन्वे स्वकीयाय शरीराय जनाय परिजनाय च कोऽधि ब्रवत् । स्वशरीररक्षार्थं परिजनरक्षार्थं चेन्द्रस्याधिवचनं नापेक्षितम् । स्तुत्या प्रीत इन्द्रः स्वयमेव रक्षतीत्यर्थः । यदा तु कशब्दोऽभिधेयस्य प्रजापतेः सम्बन्धिनि कर्मणि विनियोगः तदानीं परमैश्वर्ययोगादिन्द्रशब्देन प्रजापतिरेवाभिधीयते । यथैन्द्र्या गार्हपत्यमुपतिष्ठत इति विनियोगानुसारेण कदा चिनेत्य[?]…स्यामृचि विद्यमान इन्द्रो गार्हपत्यपरतया नीयते तद्वत् ॥
+
+*…apahriyamāṇam asmadīyaṃ dhanaṃ rakṣety adhivacanam api kaḥ yajamānaḥ kuryāt | na ko 'pīty arthaḥ | api ca tanve svakīyāya śarīrāya janāya parijanāya ca ko 'dhi bravat | svaśarīrarakṣārthaṃ parijanarakṣārthaṃ cendrasyādhivacanaṃ nāpekṣitam | stutyā prīta indraḥ svayam eva rakṣatīty arthaḥ | yadā tu kaśabdo 'bhidheyasya prajāpateḥ sambandhini karmaṇi viniyogaḥ tadānīṃ paramaiśvaryayogād indraśabdena prajāpatir evābhidhīyate | yathaindryā gārhapatyam upatiṣṭhata iti viniyogānusāreṇa kadā cin etya[?] … syām ṛci vidyamāna indro gārhapatyaparatayā nīyate tadvat ‖*
+
+*Translation:* "…which sacrificer would plead, 'protect our wealth that is being carried off'? None. And further, who will plead for his own body (*tanve*), for his people, for his retinue? No plea to Indra is needed to protect one's own body or one's retinue: Indra, pleased by praise, protects of his own accord. But when the word *ka* is applied to Prajāpati, in a rite that belongs to him, then, by the possession of supreme lordship, it is Prajāpati alone who is denoted by the word *Indra*; just as, according to the application '*aindryā gārhapatyam upatiṣṭhate*' ('with the Aindrī [Ṛk] one approaches the Gārhapatya fire'), Indra, who is present in the Ṛk, is taken as referring to the Gārhapatya — so here too." *(One clause in the middle of this passage, "…kadā cin etya…", is broken in the print and is not completed [?].)*
+
+*The grammatical tail (characterized, noted briefly):*
+
+> ईषते । ईष गतिहिंसादर्शनेषु । भौवादिक आत्मनेपदी । तुज्यते । तुज हिंसायाम् । कर्मणि यक् । अदुपदेशात्सार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । अतिङ इति पर्युदासान्निघातो ऽभावः । मंसते । लेट्यडागमः । सिब्बहुलं लेटीति सिप् । अन्ति । आन्तिकस्य कादिलोपो बहुलमिति कलोपः । ब्रवत् । ब्रवीतेर्लेट्यडागमः । तन्वे । तनुशब्दाच्चतुर्थ्येकवचने जसादिषु छन्दसि वा वचनमिति घेर्ङितीति गुणाभावे यणादेशः । उदात्तस्वरितयोर्यणः इति विभक्तेः स्वरितत्वम्
+
+*īṣate | īṣa gatihiṃsādarśaneṣu | bhauvādika ātmanepadī | tujyate | tuja hiṃsāyām | karmaṇi yak | adupadeśāt sārvadhātukānudāttatve yaka eva svaraḥ śiṣyate | atiṅa iti paryudāsān nighāto 'bhāvaḥ | maṃsate | leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip | anti | āntikasya kādilopo bahulam iti kalopaḥ | bravat | bravīter leṭy aḍāgamaḥ | tanve | tanuśabdāc caturthyekavacane jasādiṣu chandasi vā vacanam iti gher ṅhitīti guṇābhāve yaṇādeśaḥ | udāttasvaritayor yaṇaḥ iti vibhakteḥ svaritatvam*
+
+*(The sūtras partly read: "udāttasvaritayor yaṇaḥ svaritaḥ" (Pā. Sū. 8-2-4); the others named are given without numbers, none being legible. Noted briefly: *īṣate* — root *īṣ* (going, injuring, seeing), Bhvādi, ātmanepada; *tujyate* — root *tuj* (to injure), *yak* in the passive sense, the accent of the *yak* alone remaining; *maṃsate* — *leṭ* with the augment *aṭ*, *sip* by "sibbahulaṃ leṭi"; *anti* — loss of the *ka*/*ika* element of *āntika*; *bravat* — *leṭ* of *brū*; *tanve* — dative singular of *tanū*, *yaṇ* substitution, svarita accent of the ending.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 84.17)** *(Kannada)*
+
+(When Indra, the protector, is near) *kaḥ* — which sacrificer (himself); *īṣate* — flees far, afraid of the enemy; *kaḥ* — who; *tujyate* — is injured (by the enemy); *kaḥ* — who; *bibhāya* — is afraid; *anti* — near us; *santam* — being (as protector); *indram* — Indra; *kaḥ* — (other than ourselves) who; *maṃsate* — knows; *kaḥ* — which sacrificer; *tokāya* — for offspring; *adhi-bravat* — (need) press (Indra) [there is no need to press him; he himself favours]; *ibhāya* — for an elephant; *kaḥ* — who (is compelled to insist); *uta* — and; *rāye* — for wealth (carried off by enemies) (who need press?); *tanve* — for one's own bodily protection; *janāya* — for retinue; *kaḥ* — which sacrificer himself (need press Indra?).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.17** *(Kannada)*
+
+"When Indra, the protector, is near, which sacrificer, afraid of the enemy, runs far away? Which is injured by the enemy? Which is afraid? Who, other than ourselves, can know Indra, who stands near us as protector? Which sacrificer need press Indra, whether for offspring, for an elephant, for wealth stolen by enemies, for the protection of his own self, or for his dependants? Without that pressing, Indra himself favours everything."
+
+---
+
+**Progress note:** Printed pp. 1–131 done (PDF 16–146) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.16 complete**; **Rik 84.17** (Triṣṭubh) — Saṃhitā, Pada, bhāṣya, grammatical tail, Pratipadārtha and Bhāvārtha done (pp. 130–131); next on p. 131's foot/p. 132: the printed English, Special Topics and grammar page of 84.17. Next: printed p. 132 (PDF 147). Three Ṛks (84.18–84.20) remain after 84.17. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; p. 128 clotted print on *āsanniṣūn*; p. 131 broken clause in the bhāṣya; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
