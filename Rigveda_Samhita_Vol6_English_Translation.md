@@ -13209,4 +13209,86 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–580 done (PDF 19–598): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.4 complete**; **Rik 80.5** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (pp. 578–579), Bhāvārtha, English, Special Topics (pp. 579–580) done; its grammar page is begun at the foot of p. 580 (*dodhataḥ*) and continues on p. 581 (PDF 599). Next: p. 581 (PDF 599). Eleven Ṛks (80.6–80.16) remain after 80.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
+### Page 581 (PDF 599)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.5, continued from p. 580 (grammar page, noted briefly):*
+
+- **हीळितः** — the roots *heḍṛ*, *hoḍṛ* in the sense of disrespect; the root *heḷate* is read among the words for the action of anger (Ni. [3-?]-[?] [?]); the affix *kta* following it takes the augment *iṭ* by "ārdhadhātukasyeḍ valādeḥ" (Pā. Sū. 7-2-35); by "vyatyayo bahulam" the *e* becomes *ī* by letter-alteration; the word is final-udātta by the accent of the affix.
+- **जिघ्नते** — the root *han hiṃsāgatyoḥ*; *laṭ*, third person singular; by "vyatyayo bahulam" (Pā. Sū. 3-1-85 [?]) the *ātmanepada* affix arises (and likewise the plural); for the affix *ya* [*jha*] "ātmanepadeṣv anataḥ" (आत्मनेपदेष्वनतः, Pā. Sū. 7-1-5) gives *at*; *e* by "ṭita ātmanepadānāṃ ṭer e"; by "bahulaṃ chandasi" *śap* is replaced by *ślu*; by "ślau" reduplication of the root; the *hal*-initial remains in the reduplicative; *cutva*, *jastva*; by "abhyāsāc ca" (Pā. Sū. 7-3-55) the *h* of the root following the reduplicative becomes *k*-class (*gh*); since the affix is *ñit* by "sārvadhātukam apit", "gamahanajana…" (गमहनजनखनघसां लोपः क्ङित्यनङि, Pā. Sū. 6-4-98) drops the penultimate; "bhṛñām it" (भृञामित्, Pā. Sū. 7-4-76) continuing, by "bahulaṃ chandasi" the reduplicative of the root takes *i*; the form *jighnate*; nighāta accent since *atiṅanta* in the pāda.
+- **सर्माय** — the root *sṛ gatau*; in the sense of action the affix *man* by "artistusu-hu-sṛ…" (अर्तिस्तुसुहुसृधृक्षिक्षुभायावापदीक्षिनीभ्यो मन्, Uṇ. Sū. 1-[142] [?]); the guṇa of the *ik* of the root because of the affix; the form *sarma*; since the affix is *n*-marked, by "ñnityādir nityam" it takes initial udātta; fourth-case singular.
+- **चोदयन्** — the root *cuda preraṇe* (चुद प्रेरणे), *curādi*; the affix *ṇic* in its own sense by "satyāpapāśa…" (Pā. Sū. 3-1-25); because of it the guṇa of the light penultimate; by "sanādyantā dhātavaḥ" it has the root-status; *śatṛ* in the *laṭ* sense; *śap*; guṇa because of it, *ay* replacement; first-case singular; the *ṇic* accent remains. ||5||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 582 (PDF 600)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.6**
+
+> अधि सानौ नि जिघ्नते वज्रेण शतपर्वणा ।
+> मन्दान इन्द्रो अन्धसः सखिभ्यो गातुमिच्छत्यर्चन्ननु स्वराज्यम् ॥ ६ ॥
+
+*adhi sānau ni jighnate vajreṇa śataparvaṇā |
+mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अधि । सानौ । नि । जिघ्नते । वज्रेण । शतऽपर्वणा ।
+> मन्दानः । इन्द्रः । अन्धसः । सखिऽभ्यः । गातुम् । इच्छति ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ६ ॥
+
+*adhi | sānau | ni | jighnate | vajreṇa | śata-parvaṇā | mandānaḥ | indraḥ | andhasaḥ | sakhi-bhyaḥ | gātum | icchati | arcan | anu | sva-rājyam ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> इन्द्रः शतपर्वणा शतसंख्याकधाराभिर्युक्तेन वज्रेण सानावधि नि जिघ्नते । अधिः सप्तम्यर्थानुवादी । समुच्छ्रिते वृत्रस्य कपोलादौ स्थाने नितरां हिनस्ति । स चेन्द्रो मन्दानो मन्दमानः स्तूयमानः सन् सखिभ्यः समानख्यानेभ्यः स्तोतृभ्योऽन्धसोऽन्नस्य गातुं मार्गमुपायमिच्छति । अन्यत्पूर्ववत् ॥ मन्दानः । मदि स्तुतौ । कर्मणि शानचि यक् । छन्दस्युभयथेति शानच आर्धधातुकत्वादतोलोपयलोपौ । अनुदात्तेतः परस्मात् शानचो लसार्वधातुकानुदात्तत्वे सति यक एवोदात्तत्वम् । अनुदात्ते शानचि तस्य यकोलोपे सत्यदात्तनिवृत्तिस्वरेण शानचि उदात्तत्वं प्राप्नोति । एवं तर्हि शानचि आर्धधातुकत्वादेव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एवावशिष्यते [?] ॥
+
+*indraḥ śataparvaṇā śatasaṃkhyākadhārābhir yuktena vajreṇa sānāv adhi ni jighnate | adhiḥ saptamyarthānuvādī | samucchrite vṛtrasya kapolādau sthāne nitarāṃ hinasti | sa cendro mandāno mandamānaḥ stūyamānaḥ san sakhibhyaḥ samānakhyānebhyaḥ stotṛbhyo 'ndhaso 'nnasya gātuṃ mārgam upāyam icchati | anyat pūrvavat || mandānaḥ | madi stutau | karmaṇi śānaci yak | chandasy ubhayatheti śānaca ārdhadhātukatvād ato-lopa-ya-lopau | anudāttetaḥ parasmāt śānaco lasārvadhātukānudāttatve sati yaka evodāttatvam | anudātte śānaci tasya yako lope saty udāttanivṛttisvareṇa śānaci udāttatvaṃ prāpnoti | evaṃ tarhi śānaci ārdhadhātukatvād eva lasārvadhātukānudāttatvābhāve citsvara evāvaśiṣyate [?] ||*
+
+*Sense:* "Indra strikes down (*ni jighnate*) with the hundred-edged (*śataparvaṇā*, *śata-saṃkhyāka-dhārābhiḥ yuktena*) thunderbolt on the *sānu* (*adhi* repeats the sense of the seventh case): he smites most severely at the raised place of Vṛtra, the cheek and so on. And that Indra, rejoicing (*mandānaḥ* = *mandamānaḥ*), being praised, wishes for (*icchati*) his friends — the praisers (*sakhibhyaḥ* = of the same fame) — a *gātu*, a way, a means, to *andhas*, food. The rest as before." *The grammatical tail:* *mandānaḥ* — the root *madi stutau*; in the passive *śānac* with *yak*; since "chandasy ubhayathā" gives *śānac* the *ārdhadhātuka* status, the *a* and *ya* are elided; since *śānac* following an anudātta-*it* root is *lasārvadhātuka*-anudātta, the udātta falls on the *yak*; (…) the discussion of the accent (the compressed argument is read with doubt [?]) concludes that the *cit*-accent alone remains.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.6** *(Kannada; begins here and runs on to p. 583)*
+
+- **(इन्द्रः)** — "Indra"
+- **शतपर्वणा** — "having a hundred edges"
+- **वज्रेण** — "with the thunderbolt"
+- **सानौ अधि** — "on the *sānu* (jaw) region"
+- **नि जिघ्नते** — "strikes (and)"
+- **इन्द्रः** — "that Indra"
+
+### Page 583 (PDF 601)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Pratipadārtha of Rik 80.6, continued from p. 582:*
+
+- **मन्दानः** — "praised"
+- **सखिभ्यः** — "to the praisers"
+- **स्वराज्यम्** — "his own lordship"
+- **अनु अर्चन्** — "displaying"
+- **अन्धसः** — "of food"
+- **गातुम्** — "the means (of getting) — to show"
+- **इच्छति** — "desires."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.6** *(Kannada)*
+
+"Indra strikes with his thunderbolt of a hundred edges on the *sānu*-region (of Vṛtra). Praised by the sacrificer in the sacrifice, displaying his own lordship, he desires to show his praisers a way of getting food."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra has struck him on the temple with his hundred-edged thunderbolt, and exulting, wishes to provide means of sustenance for his friends, manifesting his own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.6)**
+
+- **अधि** — "For this word Yāska has said '*adhīty uparibhāvaiśvaryaṃ vā*' [?], that is, 'the word *adhi* signifies being above, or sovereignty' (Ni. [1-4] [?]). The bhāṣyakāra says here that it indicates the sense of the seventh case."
+- **शतपर्वणा** — *śatasaṃkhyākadhārābhir yuktena* — "the word *parvan* is used in the sense of 'edge'; the thunderbolt has a hundred, or many, edges."
+- **मन्दानः** — *madī stutau* — "for this word, derived from the root *madi*, which has the sense of praise, Sāyaṇa gives *stūyamānaḥ*, 'one who is being praised', and Skandasvāmin gives *modamānaḥ tṛpyan*, 'one who is pleased, satisfied'."
+- **सखिभ्यः** — *samānakhyānebhyaḥ stotṛbhyaḥ* — "taking the sense 'friends', Skandasvāmin, for the sake of the benefit of those who are friends, and the bhāṣyakāra, 'for the praisers who make known the proper deeds and so on', explain it."
+- **अन्धसः गातुमिच्छति** — "The word *andhaḥ* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. [2-7] [?]); so *andhaḥ* means food. The bhāṣya says that Indra desires for those who praise him a way by which food may be obtained: that is, he shows them a means of getting food."
+
+---
+
+**Progress note:** Printed pp. 1–583 done (PDF 19–601): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.5 complete** (grammar of 80.5 on pp. 580–581); **Rik 80.6** — Saṃhitā, Pada, bhāṣya (p. 582), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 583) done; the grammar page of 80.6 not yet seen. Next: p. 584 (PDF 602). Ten Ṛks (80.7–80.16) remain after 80.6. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) read with doubt.
