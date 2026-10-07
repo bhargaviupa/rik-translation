@@ -10032,4 +10032,78 @@ Words treated: *yaja* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *loṭ*
 
 ---
 
-**Progress note:** Printed pp. 1–467 done (PDF 19–485): **Sūktas 62–75 complete** (Sūkta 75's closing line, p. 467: "illige eppattaidaneya sūktavu samāptavu"). **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; **Triṣṭup** — the metre changes back from Gāyatrī; the third sūkta of Anuvāka 13) begun: title, Sāyaṇa's introduction and Anuvāda (p. 467). Next: p. 468 (PDF 486), the sūkta's heading and Rik 76.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk-Saṃhitā volume/page cross-references on pp. 465 doubtful [?].
+### Page 468 (PDF 486)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**सूक्त — ७६ (Sūkta 76)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७६ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 76.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२४?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "24" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Triṣṭup.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.1**
+
+> का त उपेतिर्मनसो वराय भुवदग्ने शन्तमा का मनीषा ।
+> को वा यज्ञैः परि दक्षं त आप केन वा ते मनसा दाशेम ॥ १ ॥
+
+*kā ta upetir manaso varāya bhuvad agne śantamā kā manīṣā |
+ko vā yajñaiḥ pari dakṣaṃ ta āpa kena vā te manasā dāśema ||1||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> का । ते । उपऽइतिः । मनसः । वराय । भुवत् । अग्ने । शन्ऽतमा । का । मनीषा ।
+> कः । वा । यज्ञैः । परि । दक्षम् । ते । आप । केन । वा । ते । मनसा । दाशेम ॥ १ ॥
+
+*kā | te | upa-itiḥ | manasaḥ | varāya | bhuvat | agne | śam-tamā | kā | manīṣā | kaḥ | vā | yajñaiḥ | pari | dakṣam | te | āpa | kena | vā | te | manasā | dāśema ||1||*
+
+---
+
+### Page 469 (PDF 487)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने ते तव मनसो वरायं निवारणायास्मास्ववस्थापनाय कोपेतिर्भुवत् । कीदृशमुपगमनं भवेत् । न काप्यस्ति । तवोचितमुपगमनं वयं कर्तुं न शक्नुम इति भावः । मनीषा स्तुतिः शंतमा तवातिशयेन सुखकरी का कीदृशी भवेत् । तवोचिता स्तुतिरपि नास्तीत्यर्थः । को वा यजमानो यज्ञैस्तव संबंधिभिर्योगैर्दक्षं वृद्धिं बलं वा पर्याप । पर्याप्नोत् । नकोऽपीत्यर्थः । तवोचितान्यागानणुष्ठाय तैः फलं प्राप्यत इत्येतदपि दुर्घटमेवेति भावः । उपगमनादिकं तावदास्ताम् । तस्य सर्वस्य साधनभूतं मन एवास्माकं दुर्लभमित्याह । केनेति । हे अग्ने ते तुभ्यं केन मनसा कीदृश्या बुद्ध्या दाशेम हवींषि प्रयच्छामः । तवोपगमनाद्यनुरूपं मनो ऽस्माकं नोत्पद्यत इत्यर्थः ॥ उपेतिः । तादौ चेति गतेः प्रकृतिस्वरत्वं । वरायं । वृङ् वरणे । अस्माद्धेतुभावितण्यर्थाद्वृ हव्यदनिष्ठिगमश्च । पा. [३-३-३८?] । इत्यप् । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । भुवत् । लेट्यडागमः । बहुलं छंदसीति शपो लुक् । भूसुवोस्तिङीति गुणप्रतिषेधः । दक्षं । दक्ष वृद्धौ । भावे करणे वा घञ् । ञित्त्वादाद्युदात्तत्वं ॥
+
+*he agne te tava manaso varāyaṃ nivāraṇāyāsmāsv avasthāpanāya kopetir bhuvat | kīdṛśam upagamanaṃ bhavet | na kāpy asti | tavocitam upagamanaṃ vayaṃ kartuṃ na śaknuma iti bhāvaḥ | manīṣā stutiḥ śaṃtamā tavātiśayena sukhakarī kā kīdṛśī bhavet | tavocitā stutir api nāstīty arthaḥ | ko vā yajamāno yajñais tava saṃbandhibhir yogair dakṣaṃ vṛddhiṃ balaṃ vā paryāpa | paryāpnot | na ko 'pīty arthaḥ | tavocitān yāgān anuṣṭhāya taiḥ phalaṃ prāpyata ity etad api durghaṭam eveti bhāvaḥ | upagamanādikaṃ tāvad āstām | tasya sarvasya sādhanabhūtaṃ mana evāsmākaṃ durlabham ity āha | keneti | he agne te tubhyaṃ kena manasā kīdṛśyā buddhyā dāśema havīṃṣi prayacchāmaḥ | tavopagamanādyanurūpaṃ mano 'smākaṃ notpadyata ity arthaḥ || upetiḥ | tādau ceti gateḥ prakṛtisvaratvaṃ | varāyaṃ | vṛṅ varaṇe | asmād dhetubhāvitaṇyarthād vṛ-havyadaniṣṭhi-gamaś ca | pā. [3-3-38?] | ity ap | tasya pittvād anudāttatve dhātusvaraḥ | bhuvat | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapo luk | bhūsuvos tiṅīti guṇapratiṣedhaḥ | dakṣaṃ | dakṣa vṛddhau | bhāve karaṇe vā ghañ | ñittvād ādyudāttatvaṃ ||*
+
+*(Reading note: "kopetir", "tvaṃ" etc. as printed; "varāyaṃ" appears twice as *varāya* in the Saṃhitā and *varāyam* in the commentary as printed; the tail from "upetiḥ" is compressed and the Pāṇini numeral is doubtful [?].)*
+
+*Meaning:* O Agni, what kind of approach (*upetiḥ*) would be there, to ward off (*varāya*) — to settle your mind in us? There is none: that is, we are not able to make an approach worthy of you. What (*kā*) hymn (*manīṣā*), exceedingly comfort-giving (*śantamā*) to you, could there be? There is not even a praise worthy of you. Or what sacrificer, by sacrifices (*yajñaiḥ*) belonging to you, has attained (*paryāpa*) your *dakṣa* — growth or strength? None; that one should, by performing the sacrifices worthy of you, obtain the fruit by them — even this is hard to accomplish. Let the approach and the rest be: the very mind, which is the means to all that, is hard for us to obtain. So he says, "*kena*": with what mind (*kena manasā*), with what understanding, shall we give (*dāśema*) you the oblations? A mind befitting an approach to you does not arise in us.
+
+**Grammatical tail** *(characterized)*: *upetiḥ* (the *gati* keeps its natural accent by *tādau ca*); *varāyam* (root *vṛṅ varaṇe*; the affix *ap* by Pā. [3-3-38?]; accent of the root since the affix is *pit*); *bhuvat* (*leṭ* with *aḍ*; loss of *śap*; prohibition of guṇa); *dakṣam* (root *dakṣa vṛddhau*; *ghañ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *te manasaḥ* — of your mind; *varāya* — for the warding off (to be favourable in us); *upetiḥ* — an effort to approach (you); *kā bhuvat* — what could it be? *manīṣā* — (our) praise; *śantamā* — (to you) exceedingly agreeable; *kā* — what kind (must it be)? *ko vā* — which sacrificer; *yajñaiḥ* — by sacrifices (belonging to you); *dakṣam* — strength; *pari āpa* — has obtained? *te* — to you; *kena manasā* — with what mind; *dāśema* — shall we offer (oblations and so on)?
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! What effort should we make to win over your mind? What kind of praise of ours should be agreeable to you? Who has obtained strength and the like by performing sacrifices pleasing to you? With what state of mind shall we offer you oblations?
+
+---
+
+### Page 470 (PDF 488)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> What approximation of the mind, Agni, to you, can be accomplished for our good; what can a hundred encomiums (effect.); who, by sacrifices, has obtained your might? with what intent may we offer you (oblations)?
+
+*(The printed "a hundred encomiums" [sic] has no counterpart in the Sanskrit; the full stop after "(effect.)" is as printed [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **मनसो वराय का उपेतिः** — *nivāraṇāya avasthāpanāya kīdṛśam upagamanaṃ bhavet* — "'What kind of approach would there be, to ward off (*nivāraṇa*) or to establish?' From this question the exceeding greatness of Agni is known: that we sacrificers — by performing sacrifices and other rites — cannot find a way to win your mind so that it stays in us and does not go to others, and that we are not able to act accordingly. For the word *varāya* Sāyaṇa gives the sense: *manasaḥ viṣayāntarebhyo nivāraṇaṃ tvayy eva avasthāpanam* — 'the turning of the mind from other objects and establishing it in you alone': that is, the means of winning your mind so that it does not wander elsewhere but is established in you. Skandasvāmin: *varāya | vara-śabdaḥ śreṣṭhavacanaḥ* — 'the word *vara* means best'; so he explains *kā tava upetiḥ* as 'O Agni, what is the best means of approaching you?'"
+- **को वा यज्ञैः दक्षं ते परि आप** — *ko vā yajamānaḥ tava saṃbandhibhir yogaiḥ vṛddhiṃ balaṃ vā paryāpnot* — "'What sacrificer has obtained growth or strength by the sacrifices belonging to you?' The worship of Agni by praise or by performing sacrifice: these two kinds of acts will surely win you; yet for performing these acts our minds must be steady in you. Without a steady mind, neither action nor praise gives the right fruit; hence the worship, the *upāsanā*, is not fit to please the deity. Therefore, in *kena manasā havīṃṣi dāśema*, the sense is 'grant us a mind with which we may offer you oblations in order to win your love' — this is known from the question 'with what mind shall we offer you oblations?' Sāyaṇa explains the word *dakṣa* as strength, growth. Skandasvāmin, in the passage *ko vā yajñaiḥ dakṣaṃ te paryāpa*, says that the word *dakṣa* here is the word for *ātma* [self, the strength of oneself], and:
+
+  > उत स्वेन क्रतुना सं वदेते श्रेयांसं दक्षं मनसा जगृभ्यात् ।
+  > *uta svena kratunā saṃ vadete śreyāṃsaṃ dakṣaṃ manasā jagṛbhyāt* (Ṛk. Saṃ. [10-?-?])" *(continued on p. 471; the Ṛgveda citation is read from small print and its numerals are doubtful [?]; gloss mine and tentative: "and the two speak together with their own will — one would grasp the better strength by the mind".)*
+
+---
+
+**Progress note:** Printed pp. 1–470 done (PDF 19–488): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): heading and **Rik 76.1** (printed "1 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (pp. 468–470) done; the Special Topics break off at the foot of p. 470 in the *dakṣam* note (Skandasvāmin's citation); the grammar page not yet seen. Next: p. 471 (PDF 489). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation on p. 470 doubtful [?].
