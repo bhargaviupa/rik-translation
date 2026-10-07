@@ -6347,4 +6347,92 @@ Words treated: *tubhyam* (*yuṣmad* in the dative; by the statement *kriyāgrah
 
 ---
 
-**Progress note:** Printed pp. 1–313 done (PDF 19–331): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.6 complete (71.6: Special Topics and grammar page on pp. 310–313). Next: p. 314 (PDF 332), **Rik 71.7**. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.7–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 311–312 (Sanskrit as read, glosses mine and tentative) doubtful [?]; Skandasvāmin's note on *junāsi* (p. 311) doubtful.
+### Page 314 (PDF 332)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.7** *(printed Ṛk "7 ||")*
+
+> अग्निं विश्वा अभि पृक्षः सचंते समुद्रं न स्रवतः सप्त यह्वीः ।
+> न जामिभिर्वि चिकिते वयो नो विदा देवेषु प्रमतिं चिकित्वान् ॥ ७ ॥
+
+*agniṃ viśvā abhi pṛkṣaḥ sacante samudraṃ na sravataḥ sapta yahvīḥ |
+na jāmibhir vi cikite vayo no vidā deveṣu pramatiṃ cikitvān ||7||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अग्निम् । विश्वाः । अभि । पृक्षः । सचन्ते । समुद्रम् । न । स्रवतः । सप्त । यह्वीः ।
+> न । जामिऽभिः । वि । चिकिते । वयः । नः । विदाः । देवेषु । प्रऽमतिम् । चिकित्वान् ॥ ७ ॥
+
+*agnim | viśvāḥ | abhi | pṛkṣaḥ | sacante | samudram | na | sravataḥ | sapta | yahvīḥ | na | jāmi-bhiḥ | vi | cikite | vayaḥ | naḥ | vidāḥ | deveṣu | pra-matim | cikitvān ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.7** *(Sanskrit in Kannada script; begun; runs on to p. 315)*
+
+> विश्वाः पृक्षश्च चरुपुरोडाशादीनि [?] सर्वाण्यन्नान्यग्निमंगनादिगुणयुक्तमेनमभि सचंते । अभिमुख्येन समवयंति । प्राप्नुवंति । तत्र दृष्टांतः । स्रवंतः समुद्रं न । यथा स्रवंत्यो नद्यः समुद्रमभिगच्छंति तद्वत् । कीदृश्यो नद्यः । सप्त सप्तसंख्याकाः । इमं मे गंग इत्यस्यामृचि सप्त हि नद्यः प्राधान्येन श्रूयंते । यह्वीः । महन्नामैतत् । महत्यः । जमंत्येकस्मिन्पात्रे सह भुंजते इति जामयो ज्ञातयः । तैर्नोऽस्मदीयं वयोऽन्नं न वि चिकिते । न ज्ञायते । तेभ्यो दातुमस्माकमन्नं प्रभूतं नास्तीति भावः । अतो हे अग्ने त्वं देवेषु । दीव्यंतीति देवा धनपतयः । तेषु प्रमतिं प्रकर्षेण मननीयं धनं चिकित्वान् अवगच्छन्निदाः । अस्मभ्यं लंभय । यद्वा । प्रमतिं प्रकृष्टं स्तोत्रं देवेषु विदाः । वेदय । ज्ञापय ॥
+
+*viśvāḥ pṛkṣaś ca [caru-]puroḍāśādīni [?] sarvāṇy annāny agniṃ aṅganādiguṇayuktam enam abhi sacante | abhimukhyena samavayanti | prāpnuvanti | tatra dṛṣṭāntaḥ | sravantaḥ samudraṃ na | yathā sravantyo nadyaḥ samudram abhigacchanti tadvat | kīdṛśyo nadyaḥ | sapta saptasaṃkhyākāḥ | imaṃ me gaṅga ity asyām ṛci sapta hi nadyaḥ prādhānyena śrūyante | yahvīḥ | mahannāmaitat | mahatyaḥ | jamanty ekasmin pātre saha bhuñjate iti jāmayo jñātayaḥ | tair no 'smadīyaṃ vayo 'nnaṃ na vi cikite | na jñāyate | tebhyo dātum asmākam annaṃ prabhūtaṃ nāstīti bhāvaḥ | ato he agne tvaṃ deveṣu | dīvyantīti devā dhanapatayaḥ | teṣu pramatiṃ prakarṣeṇa mananīyaṃ dhanaṃ cikitvān avagacchann idāḥ | asmabhyaṃ lambhaya | yadvā | pramatiṃ prakṛṣṭaṃ stotraṃ deveṣu vidāḥ | vedaya | jñāpaya ||*
+
+*(Reading note: "pṛkṣaś ca caru-puroḍāśādīni" is read as printed — the print has "…ca ru-puroḍāśādīni", evidently with the syllable *ca* cut at the line-end [?]; "aṅganādiguṇayuktam" is doubtful [?].)*
+
+*Meaning:* All foods (*pṛkṣaḥ* — the rice-cakes, *caru*, *puroḍāśa* and the like) approach (*abhi sacante*) this Agni, endowed with the qualities of ... as the flowing rivers go to the ocean. Which rivers? The seven (*sapta*); for in the Ṛk *imaṃ me gaṅge…* seven rivers are chiefly heard. *Yahvīḥ* is a name for "great": the great ones. The kinsmen (*jāmayaḥ* — "those who eat together from one vessel") — through them our food (*vayaḥ*) is not found/known (*na vi cikite*): there is not enough food for us to give them. Therefore, O Agni, among the gods — the lords of wealth, "those who sport" (*dīvyanti*) — find for us the highly considerable wealth (*pramati*), knowing (*cikitvān*), and cause us to obtain it; or: make known to the gods the excellent praise (*pramati*, a hymn).
+
+---
+
+### Page 315 (PDF 333)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammatical tail of the bhāṣya of Rik 71.7 (concluded; characterized, not transcribed)**
+
+*vidāḥ* (root *vid*, "to make known" [causative sense]); *pṛkṣaḥ* ("this is a name of food", *pṛcī sampark*, an Uṇādi affix; *kvip* after the object; lengthening of the root; or *asun* with the loss of the ending *jas* by *supāṃ sulug…*); *sravataḥ* (root *sru* "to go"; *sravaṇa* is "flow", *sravaḥ*; from this, "those who flow", by the vārttika *sarvaprātipadikebhyaḥ kvib vaktavyaḥ*, then *kvip*; and from the *at*-final root *kvip*; *hrasvasya piti kṛti tuk*, the *tuk* augment; of the *kvip*-final root, acute on the final); *yahvīḥ* (a stem ending in the Gaurādi *ṅīṣ*, as read; the *ṅīṣ* by *pippalyādibhyaś ca*, in the Gaurādi list it is given as an *ākṛtigaṇa* affix too, hence *jhiṣ* [as read, ?]; *vā chandasi* — the lengthening of the earlier similar vowel); *cikite* (Vedic present sense, *liṭ* in the passive/object sense); *vidāḥ* (root *vidḷ lābhe*, "to obtain"; because the causative sense is included, *leṭ* with the *aḍāgama*; being *tudādi*, *ca*-vikaraṇa; the augment rule non-constant, so no *num*; the vikaraṇa accent remains; or from the root *vid* "to know", *leṭ*, with *śa* by *vyatyaya*). *(Characterized only; compressed and doubtful in several places [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*viśvāḥ pṛkṣaḥ* — all (the *puroḍāśa* and other) foods; *sapta* — the seven (in number); *yahvīḥ* — great; *sravataḥ* — the rivers; *samudram na* — as (they join) the ocean; *agnim* — Agni; *abhi sacante* — they reach; *jāmibhiḥ* — with kinsmen; *naḥ* — our; *vayaḥ* — food; *na vi cikite* — is not known (that is, to Agni); *deveṣu* — among the gods, the lords of wealth; *pramatim* — the wealth especially desired (the best praise); *cikitvān* — (you) knowing; *vidāḥ* — cause to be obtained for us (make known to the gods).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The oblations — *puroḍāśa* and the rest — all reach Agni, as the seven great rivers join the ocean. Our kinsmen do not accept our food. Therefore, O all-knowing Agni, make known to the gods our desire and our praises.
+
+**English Translation** *(the source's own, as printed):*
+
+> All (sacrificial) viands concentrate in Agni, as the seven great rivers flow into the ocean: our food is not partaken of by our kinsmen, therefore do you, who know (all things), make our desires known to the Gods.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In this Ṛk, the *caru*, *puroḍāśa* and other offerings are compared to the great rivers, and Agni to the ocean. As the seven great rivers go and join the ocean-king, their single lord and master, so the *caru*, *puroḍāśa* and the rest, all of them together, join Agni, the one lord. The meaning is that all their strength is divided to the gods through Agni; and Agni is begged to give the sacrificer what he needs for the fulfilment of the rites, and to nourish him and his relatives with an abundance of food that enables a full life." *(continued on p. 316)*
+
+---
+
+### Page 316 (PDF 334)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.7 (continued; the first sentence completes p. 315's paragraph)**
+
+- *(Completion:)* "…the sacrificer, he is begged to give the food which should nourish him and his kinsmen with a full life."
+- **पृक्षः** — "Since it is read among the twenty-two names of food (Ni. [2-7?]), the word *pṛkṣa* means food. Here it is meant as food such as *caru* and *puroḍāśa*."
+- **यह्वीः** — *yahva iti mahato nāmadheyam* (Ni. [8-8?]) — "'great, worshipful': the word *yahvīḥ* is used in this sense. For example:
+
+  > त्वं देवानामसि यह्व होता स एनान्यक्षीषितो यजीयान् ।
+  > *tvaṃ devānām asi yahva hotā sa enān yakṣīṣito yajīyān* (Ṛk. Saṃ. [10-110-3?])
+
+  Quoting this sūkta, the Nirukta-writer explains *yahva* as above. Here too *yahvīḥ* is an epithet of the seven rivers; hence it means 'great' or 'worshipful'.
+  
+  Such *yahvīḥ sapta sravataḥ* are the seven great rivers; as in the Ṛk Saṃhitā:
+
+  > इमं मे गङ्गे यमुने सरस्वति शुतुद्रि स्तोमं सचता परुष्ण्या ।
+  > असिक्न्या मरुद्वृधे वितस्तयार्जीकीये शृणुह्या सुषोमया ॥
+  > *imaṃ me gaṅge yamune sarasvati śutudri stomaṃ sacatā paruṣṇyā | asiknyā marudvṛdhe vitastayārjīkīye śṛṇuhy ā suṣomayā ||* (Ṛk. Saṃ. [10-75-5?])
+
+  — as set out in this Ṛk, the seven great rivers are named Gaṅgā, Yamunā, Sarasvatī, Śutudrī, Paruṣṇī, Marudvṛdhā and Ārjīkīyā [as printed]. As these rivers join the ocean-king, all oblations join Agni. Agni, being the lord of all oblations, as described in the Ṛk
+
+  > अग्निरीशे बृहतो अध्वरस्याग्निर्विश्वस्य हविषः कृतस्य ।
+  > *agnir īśe bṛhato adhvarasyāgnir viśvasya haviṣaḥ kṛtasya* (Ṛk. Saṃ. [2-1-4?], as read)
+
+  since he is the master of all oblations, all oblations go to Agni. The comparison here is exceedingly apt and pure." *(Ṛgveda numerals as read, doubtful [?]; glosses mine and tentative: "you are the worshipful priest of the gods, being sent he sacrifices to them as the best sacrificer"; "O Gaṅgā, Yamunā, Sarasvatī, Śutudrī, join this my praise with Paruṣṇī; with Asiknī, Marudvṛdhā, Vitastā, Ārjīkīyā — hear it with Suṣomā"; "Agni is master of the great rite, Agni of all the oblation that is made".)*
+- **जामिभिः** — *jamanty ekasmin pātre saha bhuñjate iti jāmayo jñātayaḥ* — "Because all eat together seated from one vessel, relatives and kinsmen are called *jāmayaḥ*. *Jāmibhiḥ* means 'with our kinsmen'…" *(continued on p. 317)*
+
+---
+
+**Progress note:** Printed pp. 1–316 done (PDF 19–334): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.6 complete; **Rik 71.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*pṛkṣaḥ*, *yahvīḥ*, begun *jāmibhiḥ*) done (pp. 314–316); the Special Topics break off at *jāmibhiḥ* at the foot of p. 316; the grammar page of 71.7 is not yet seen. Next: p. 317 (PDF 335). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.7–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on p. 316 (as read, glosses mine and tentative) doubtful [?]; the bhāṣya's grammatical tail (p. 315) very compressed and doubtful.
