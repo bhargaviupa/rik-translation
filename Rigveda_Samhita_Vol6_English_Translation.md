@@ -5895,4 +5895,73 @@ atṛṣyantīr apaso yanty acchā devāñ janma prayasā vardhayantīḥ ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–292 done (PDF 19–310): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1 and 71.2 complete (71.2: English, Special Topics and grammar page on pp. 290–292); **Rik 71.3** — Saṃhitā and Pada done (p. 292); its Sāyaṇa-bhāṣya begins on p. 293. Next: p. 293 (PDF 311). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.3–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations in the Special Topics on pp. 290–291 (Sanskrit and reference numerals) doubtful and the glosses mine and tentative [?].
+### Page 293 (PDF 311)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.3**
+
+> ऋतं देवयजनदेशं प्राप्तमग्निमंगिरसो महर्षयो दधन् । गार्हपत्यादिरूपेणाधारयन् । धारयित्वा चास्याग्नेर्धीतिं कर्माग्निहोत्रादिलक्षणं धनयन् । धनमकुर्वन् । यथा पुरुषा धनं संपादयंति तद्वदग्निदेवत्यं कर्मानुतिष्ठन्नित्यर्थः [?] । आदित् अंगिरसामनुष्ठानानंतरमेवार्यो धनस्य स्वामिनो दिधिष्वो ऽग्नीनां धारणं कुर्वत्यः । कृताग्न्याधाना इत्यर्थः । विभृत्रा आहिताग्नीनग्निहोत्रादिकर्मणि विहरंत्यो ऽतृष्यंतीर्विषयांतरेतृष्णारहिताः अत एवापसोऽपसा कर्मणा युक्ताः एवंभूता यजमानलक्षणाः प्रजाः प्रयसा हविर्लक्षणेनान्नेन देवानिंद्रादीञ्जन्म जातान्मनुष्यांश्च वर्धयंतीर्वर्धयंत्यः । सत्यं एनमग्निमच्छाभिमुखेन यंति । प्राप्नुवंति । परिचरंतीति यावत् ॥
+
+*ṛtaṃ devayajanadeśaṃ prāptam agniṃ aṅgiraso maharṣayo dadhan | gārhapatyādirūpeṇādhārayan | dhārayitvā cāsyāgner dhītiṃ karmāgnihotrādilakṣaṇaṃ dhanayan | dhanam akurvan | yathā puruṣā dhanaṃ saṃpādayanti tadvad agnidevatyaṃ karmānutiṣṭhann ity arthaḥ [?] | ād it aṅgirasām anuṣṭhānānantaram evāryo dhanasya svāmino didhiṣvo 'gnīnāṃ dhāraṇaṃ kurvatyaḥ | kṛtāgnyādhānā ity arthaḥ | vibhṛtrā āhitāgnīn agnihotrādikarmaṇi viharantyo 'tṛṣyantīr viṣayāntare tṛṣṇārahitāḥ ata evāpaso 'pasā karmaṇā yuktāḥ evaṃbhūtā yajamānalakṣaṇāḥ prajāḥ prayasā havirlakṣaṇenānnena devān indrādīn janma jātān manuṣyāṃś ca vardhayantīr vardhayantyaḥ | satyaṃ enam agnim acchābhimukhena yanti | prāpnuvanti | paricarantīti yāvat ||*
+
+*(Reading note: the print is dense and small; several syllables (the clause "agnidevatyaṃ karmānutiṣṭhann", "satyaṃ", "janma jātān") are read doubtfully [?].)*
+
+*Meaning:* The great sages, the Aṅgirases, established (*dadhan*) in the sacrificial place the Agni that had come there — they maintained him in the forms of the Gārhapatya and the other fires; and having established him they wrought (*dhanayan*) for this Agni the rite (*dhīti*) of Agnihotra and the like, as if making wealth: as men acquire wealth, so they carried out the rites belonging to Agni. And immediately after the Aṅgirases' performance, the masters (*aryaḥ*) of wealth, the sustainers of the fires (*didhiṣvaḥ*), do the maintaining of the fires — that is, having set up the fires. The *vibhṛtrāḥ* — those who move about in the rites of Agnihotra with the consecrated fires, *atṛṣyantīḥ* — free from thirst for other objects, hence *apasaḥ*, "engaged in rites": such people, the sacrificers, with *prayas* — the food in the form of the oblation — cause the gods, Indra and the others, and the men who are born, to prosper; they go (*yanti*) towards Agni, face to face (*acchā*): they reach, they serve him.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *dadhan* (root *dhā* "to hold", *laṅ*, with parasmaipada by *vyatyaya*, no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*); *dhanayan* (denominative from *dhana*, *ṇic* "to make wealth" by *tat karoti*; the *iṣṭhavat* loss of *ṭi*, "the *ṇi* acting as in *iṣṭha*, *iṣṭhavad*"; *laṅ* as before); *aryaḥ* (*arya* = *svāmin* or *vaiśya*, Pā. [3-1-103] as read, by nipāta; interchange of gender and number; or *āryaḥ svāmyākhyā cet*, Phiṭ. [1-?]; final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish", *sa*-affix and *kvasu*…; Uṇ. [1-?], with the *ū*-augment on *koti* — *kūpa*, *jambū*, *karkandhū*, *didhiṣū* — by the *kū*-class nipāta; accent on the affix; the ending *jas* with *udāttasvaritayor yaṇaḥ svaritaḥ*, so that the nominative plural has a svarita); *vibhṛtrāḥ* (root *hṛñ* "to carry", with the prefix *vi*; affix *kratra* …; *bha* for *ha* by *hṛgrahor bhaś chandasi*); *atṛṣyantīḥ* (root *ṭṛṣā* "to thirst"; *jas* by the optional lengthening of the earlier similar vowel, "*chandasi pūrvasavarṇadīrghasya vikalpitatvāt*"); *apasaḥ* (from *apas* with possessive *vini*, *bahulaṃ chandasīti bahulavacanāl luk*, Pā. [5-2-122?]; since *vini* is trilingual and is not applicable to an indeclinable [?], the accent is on the last by the prātipadika's accent); *janma* (*jāyante* — "those born, men", by *munin*; *supāṃ sulug* — *śas*'s loss). *(The grammatical tail is very compressed; characterized only; sūtra numerals doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*ṛtam* — (Agni) who has reached the sacrificial hall; *dadhan* — (the Aṅgirases) established him in the Gārhapatya and the other forms; *asya* — (the established) Agni's; *dhītim* — the rite (Agnihotra and the like); *dhanayan* — they performed as if gaining wealth; *ād it* — immediately after (the Aṅgirases') performance; *aryaḥ* — the masters of (wealth); *didhiṣvaḥ* — who establish the fires and the like; *vibhṛtrāḥ* — who perform Agnihotra and the other rites in the consecrated fires; *atṛṣyantīḥ* — in other matters …
+
+---
+
+### Page 294 (PDF 312)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Pratipadārtha (concluded):** *atṛṣyantīḥ* — without attachment (thirst) in other matters; *apasaḥ* — endowed with rites (sacrificers); *prajāḥ* — the people; *prayasā* — with the oblation, the food; *devān* — the gods, Indra and the others; *janma* — men of birth; *vardhayantīḥ* — making grow; *acchā* — (turning towards Agni) facing him; *yanti* — they approach.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+After the Aṅgirases, in the sacrificial hall, had established Agni and performed the rites of Agnihotra and the rest, the sacrificers — the lords of wealth — establish Agni, and, without attachment in other matters, fix their minds on him, nourish the gods and men with the food in the form of the oblation, and perform the rites of Agnihotra and the rest which belong to him.
+
+**English Translation** *(the source's own, as printed):*
+
+> They secured him, (Agni, in the sacrificial chamber), they made his worship the source of wealth; whence opulent votaries preserve his fires and practise his rites. Free from all (other) desire, assiduous in his adoration, and sustaining gods and men, by their offerings, they come into his presence.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "*Dhāraṇād dharmaḥ* — 'dharma is so called because it sustains' [as read]: just as this rule says, because *dharma* protects the whole world by sustaining it; because the sacrifice, the *yāga* and the rest, are the root of the protection of this *dharma*; because Agni is the leader and master of all sacrifices; and because the sustaining of all beings — gods, men and the rest — in succession is accomplished only through Agni's grace: showing how essential such service of Agni is, the Ṛk describes the worship of Agni."
+- **ऋतम्** — *devayajanadeśaṃ prāptam agnim* — "Agni, who is established at the place of sacrifice."
+- **दधन्** — "They established; the great sages established him (in the forms of the Gārhapatya and the other fires). Next, **धीतिम्** — *agnihotrādilakṣaṇaṃ karma* (Sāyaṇa) — Sāyaṇa explains the word *dhīti* as 'rite'; Skandasvāmin explains it, *'aśitam api prajñānāma etat'* [as read, ?], as 'wisdom' or 'mind'. The word *dhīti* in the Ṛk Saṃhitā is used in both these senses in different contexts. The Nirukta-writer, quoting [the Ṛk]:
+
+  > पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ।
+  > *pārāvataghnīm avase suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ* (Ṛk. Saṃ. [6-61-2?])
+
+  explains the word *dhītibhiḥ* here as *karmabhiḥ* ("by rites", Ni. [3-?]), and then quoting the sūkta
+
+  > ऋतस्य हि शुरुधः संति पूर्वीरृतस्य धीतिर्वृजिनानि हंति ।
+  > *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjinān[i] hanti* (Ṛk. Saṃ. [4-23-8?])
+
+  gives to the word *dhīti* there the explanation *prajñā*, "wisdom" (Ni. [10-?])." *(The two Ṛgveda citations are read from a small print; their Sanskrit and the numerals are doubtful [?]; the source leaves them untranslated; my glosses, tentative: "with good praises, we would serve Sarasvatī who smites the distant [foes], for protection, with rites/thoughts"; "for the *ṛta* there are many (that are) *śurudhaḥ* [?]; the thought [or rite] of *ṛta* destroys the crookednesses".)*
+
+---
+
+### Page 295 (PDF 313)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.3 (continued)**
+
+- **धनयन्** — "They practised — they performed the rite. Or: they meditated."
+- **अर्यः** — "*rāṣṭrī*, *aryaḥ*, *sayutvān*, *inaḥ* [as read, ?] — these four are names of the lord (Ni. [3-11?]). *Īśvara* means master, ruler, owner. This epithet is used again and again for Indra and for the other gods. The epithet is used not merely to show lordship but, in many places, to suggest honour and favour to the master. Here, however, *dhanasya svāminyaḥ* is taken, with reference to the sacrificers, as 'masters of wealth'. (In a few places, as Ṛk. Saṃ. [1-?-5], *aryaḥ* means 'belonging to the enemy', *areḥ saṃbandhinaḥ*; belonging to the foe.)"
+- **अतृष्यन्तीः** — *viṣayāntare tṛṣṇārahitāḥ* — "free from thirst for other objects; not attached to other matters apart from the worship of Agni, with the mind fixed on that alone."
+- **अपसः** — "*apaḥ*, *aṣṇaḥ*, *daṃsaḥ* [as read, ?] and so on — since it is read among the names of 'work' (Ni. [2-1?]), it means work. *Apasaḥ* means *apasā karmaṇā yuktāḥ yajamānalakṣaṇāḥ prajāḥ* — the people, the sacrificers, engaged in rites such as sacrifice."
+- **प्रयसा** — "*andhaḥ*, *vājaḥ*, *payaḥ*, *prayaḥ* [as read, ?] and so on — since it is read among the names of food (Ni. [2-7?]), *prayaḥ* means food. *Prayasā* — with the food in the form of the oblation."
+- **देवान् जन्म प्रयसा वर्धयन्तीः** — "They serve Agni in such a way that the gods and born human beings may prosper."
+
+---
+
+**Progress note:** Printed pp. 1–295 done (PDF 19–313): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.2 complete; **Rik 71.3** — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 292–295) done; its grammar page has not yet been seen (p. 296 expected). Next: p. 296 (PDF 314). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.4–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 71.3 very compressed and doubtful; the Ṛgveda citations on p. 294 and their glosses tentative [?].
