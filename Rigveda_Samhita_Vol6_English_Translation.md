@@ -10455,4 +10455,91 @@ O Agni, knower of the three times! As, in the sacrifice of the wise Manu, togeth
 
 ---
 
-**Progress note:** Printed pp. 1–485 done (PDF 19–503): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.4 complete (76.4's grammar page ends p. 483); **Rik 76.5** (the last; printed "5 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*mandrayā*, *juhvā*) done (pp. 483–485); the Special Topics break off at the foot of p. 485; its grammar page and the closing line of Sūkta 76 not yet seen. Next: p. 486 (PDF 504). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the liturgical sentence of the bhāṣya of 76.5 (p. 484) garbled in the print [?].
+### Page 486 (PDF 504)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**Special Topics of Rik 76.5 (concluded)**
+
+- **जुह्वा** (concluded) — "…explains the word; Skandasvāmin explains the meaning of the word *juhū* as: since *mandrayā juhvā* is an adjective, '*modayitryā juhvā hūyamānatvāt āhutibhiḥ preritā harṣaṃ janayati*' — 'the offering, which, being poured, gives delight, is the *juhū*'."
+- **कविभिः** — *medhāvibhiḥ ṛtvigbhiḥ* — "*kavi* means 'the knowing'; here, 'the priests who have knowledge'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.5, noted briefly; not transcribed)*
+
+Words treated: *yathā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. [6-3-136]). *manuṣaḥ* (root *mana jñāne*; *usin* by *bahulam anyatrāpi*, Uṇ. [2-?]; *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; since the affix is *nit*, initial acute by *ñnityādir nityam*; genitive singular). *ayajaḥ* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; Vedic *laṅ*, second person singular; since *niṣātasyārya…* [as read: *nighātayugapad…*, Pā. [8-1-30]] — no nighāta by *yadvṛttānnityam* because *yathā* is connected; the *aḍ*-augment is udātta, so the word has the initial acute). *satyatara* (*satyam asyāstīti satyaḥ*; *ac* after *arśa-ādi* by *arśa āder ac*, Pā. [5-2-127]; in the sense of excess, *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. [5-3-57]; vocative singular; by *āmantritasya ca*, Pā. [8-1-19], nighāta). *agne* (since at the head of a pāda, no *aṣṭamika* nighāta; by *āmantritasya ca*, Pā. [6-1-198], initial acute). *yajasva* (root *yaja…*; *loṭ*, second person singular, *thās* → *se* by *thāsaḥ se*, Pā. [3-4-80]; *śap*; *sa-vābhyāṃ vāmau*, Pā. [3-4-91]: *e* → *va*; nighāta because it follows an *atijanta*). Ends "॥ ५ ॥".
+
+**Closing line of the sūkta** *(printed, Kannada)*:
+
+> ಎಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು
+
+*(eppattāraneya sūktavu samāptavu* — "The seventy-sixth sūkta is concluded.")*
+
+**— End of Sūkta 76.** *(Sūkta 76: five Ṛks, Agni; Gotama Rāhūgaṇa; Triṣṭup. The varga numerals of its pages — "24" at the head, "24/25" on later pages — are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 77
+
+### Page 487 (PDF 505)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತೇಳನೆಯ ಸೂಕ್ತವು — "The seventy-seventh sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; doubtful syllables [?])*
+
+> कथेति पंचर्चं चतुर्थं सूक्तं त्रैष्टुभं गोतमस्यार्षमाग्नेयं । अनुक्रांतं च । कथेति ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तः सूक्तविनियोगः ॥
+
+*katheti pañcarcaṃ caturthaṃ sūktaṃ traiṣṭubhaṃ gotamasyārṣam āgneyaṃ | anukrāntaṃ ca | katheti || prātaranuvākāśvinaśastrayoḥ pūrvasūktena sahoktaḥ sūktaviniyogaḥ ||*
+
+*Meaning:* "*Kathā*" is the fourth sūkta, of five Ṛks, in Triṣṭup metre, addressed to Agni, the vision of Gotama; the Anukramaṇī says "*kathā*". The application of the sūkta at the Prātaranuvāka and the Aśvina-śastra is stated together with the preceding sūkta.
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*kathā dāśema*", is the fourth sūkta in the thirteenth anuvāka. It has five Ṛks. Gotama is the ṛṣi of this sūkta; Agni is the deity. The Anukramaṇikā says "*kathā*" and so on. This sūkta is applied, with the preceding sūktas, for the recitation of the Prātaranuvāka and Aśvina-śastra mantras.
+
+**सूक्त — ७७ (Sūkta 77)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७७ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 77.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२५?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "25" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Triṣṭup.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.1**
+
+> कथा दाशेमाग्नये कास्मै देवजुष्टोच्यते भामिने गीः ।
+> यो मर्त्येष्वमृत ऋतावा होता यजिष्ठ इत्कृणोति देवान् ॥ १ ॥
+
+*kathā dāśemāgnaye kāsmai devajuṣṭocyate bhāmine gīḥ |
+yo martyeṣv amṛta ṛtāvā hotā yajiṣṭha it kṛṇoti devān ||1||*
+
+---
+
+### Page 488 (PDF 506)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 77.1**
+
+> कथा । दाशेम । अग्नये । का । अस्मै । देवऽजुष्टा । उच्यते । भामिने । गीः ।
+> यः । मर्त्येषु । अमृतः । ऋतऽवा । होता । यजिष्ठः । इत् । कृणोति । देवान् ॥ १ ॥
+
+*kathā | dāśema | agnaye | kā | asmai | deva-juṣṭā | ucyate | bhāmine | gīḥ | yaḥ | martyeṣu | amṛtaḥ | ṛta-vā | hotā | yajiṣṭhaḥ | it | kṛṇoti | devān ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 77.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अस्मा अग्नये कथा दाशेम । कथं हवींषि ददामः । अग्नेरनुरूपं यज्ञं कर्तुमशक्ता वयमित्यर्थः । अथवास्मै भामिने तेजस्विने ऽग्नये देवजुष्टा सर्वैर्देवैः सेवितव्या गीर्वाक् स्तुतिरपि का कीदृशी उच्यते । तादृशीं स्तुतिमपि कर्तुं न शक्ता इत्यर्थः । अमृतो मरणरहिते ऋतावा ऋतवान् सत्यवान्यज्ञवान्वा होता देवानामाह्वाता होमनिष्पादको वा यजिष्ठो ऽतिशयेन यष्टा एवंभूतो यो ऽग्निर्मर्त्येषु मरणधर्मेस्वस्मासु वर्तमानः सन्देवानित्कृणोति हविर्भिर्युक्तान् करोत्येव । तादृशायाग्नये कथा दाशेमेति पूर्वेणान्वयः ॥ कथा । थाहेतौ च छंदसीति थाप्रत्ययः । भामिने । भा दीप्तौ । अर्तिस्तुसुहुस्मृत्यादिना मन्प्रत्ययः । तेतो मत्वर्थीये इनिः । ऋतावा । छंदसीवनिपावितै मत्वर्थीयो वनिप् । अन्येषामपि दृश्यत इति दीर्घत्वं ॥
+
+*asmā agnaye kathā dāśema | kathaṃ havīṃṣi dadāmaḥ | agner anurūpaṃ yajñaṃ kartum aśaktā vayam ity arthaḥ | athavāsmai bhāmine tejasvine 'gnaye devajuṣṭā sarvair devaiḥ sevitavyā gīr vāk stutir api kā kīdṛśī ucyate | tādṛśīṃ stutim api kartuṃ na śaktā ity arthaḥ | amṛto maraṇarahite ṛtāvā ṛtavān satyavān yajñavān vā hotā devānām āhvātā homaniṣpādako vā yajiṣṭho 'tiśayena yaṣṭā evaṃbhūto yo 'gnir martyeṣu maraṇadharmesv asmāsu vartamānaḥ san devān it kṛṇoti havirbhir yuktān karoty eva | tādṛśāyāgnaye kathā dāśemeti pūrveṇānvayaḥ || kathā | thāhetau ca chandasīti thāpratyayaḥ | bhāmine | bhā dīptau | artistusuhusmṛty-ādinā manpratyayaḥ | teto matvarthīya iniḥ | ṛtāvā | chandasīvanipāv itai matvarthīyo vanip | anyeṣām api dṛśyata iti dīrghatvaṃ ||*
+
+*(Reading note: the print is clear; the tail's last sentences ("teto matvarthīya", "chandasīvanipāv itai") are compressed and doubtful [?].)*
+
+*Meaning:* How (*kathā*) shall we give (*dāśema*) oblations to this Agni? — we are unable to perform a sacrifice worthy of Agni. Or: what kind of hymn (*gīḥ*) — dear to all the gods (*devajuṣṭā*) — can be uttered (*ucyate*) for this shining (*bhāmine*) Agni? We are unable even to make such a hymn. Agni, who is immortal (*amṛtaḥ*), possessed of truth or of sacrifice (*ṛtāvā*), the invoker (*hotā*) of the gods, or the accomplisher of the offering, the best sacrificer (*yajiṣṭhaḥ*) — such Agni, being among us mortals (*martyeṣu*), makes (*kṛṇoti*) the gods endowed with the oblations: for such an Agni, "how shall we give?" — thus the connection with the preceding words.
+
+**Grammatical tail** *(characterized)*: *kathā* (the affix *thā* in the sense of cause and manner, *chandasi*); *bhāmine* (root *bhā dīptau*; *man* affix; *ini* in the possessive sense); *ṛtāvā* (*vanip* in the possessive sense by *chandasīvanipau*; lengthening by *anyeṣām api dṛśyate*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*amṛtaḥ* — deathless; *ṛtāvā* — possessed of truth (of sacrifice); *hotā* — the invoker of the gods; *yajiṣṭhaḥ* — the greatest of sacrificers; *yaḥ* — which Agni; *martyeṣu* — among us who are subject to death; *devān* — the gods; *kṛṇoti it* — makes (provided with oblations); *asmai agnaye* — to such an Agni; *kathā* — in what way; *dāśema* — shall we give oblations and the like? *bhāmine* — to the shining (Agni); *devajuṣṭā* — served by the gods; *gīḥ* — the word (in the form of praise); *kā* — of what kind; *ucyate* — is it spoken?
+
+---
+
+**Progress note:** Printed pp. 1–488 done (PDF 19–506): **Sūktas 62–76 complete** (Sūkta 76's closing line, p. 486: "eppattāraneya sūktavu samāptavu"). **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup; the fourth sūkta of Anuvāka 13; Varga "25" as read [?]) begun: introduction, Anuvāda, heading (p. 487) and **Rik 77.1** — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha (pp. 487–488). Next: p. 489 (PDF 507), the Bhāvārtha, English, Special Topics and grammar page of 77.1; then Riks 77.2–77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
