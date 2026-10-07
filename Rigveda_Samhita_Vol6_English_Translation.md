@@ -11865,4 +11865,144 @@ asme dhehi jātavedo mahi śravaḥ ||4||*
 
 ---
 
-**Progress note:** Printed pp. 1–536 done (PDF 19–554): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.3 complete** (the grammar page of 79.3 spans pp. 535–536, noted briefly); **Rik 79.4** (first of the Uṣṇih Ṛks) — Saṃhitā and Pada (p. 536) done. Next: p. 537 (PDF 555) — bhāṣya of 79.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
+### Page 537 (PDF 555)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> प्रातरनुवाकस्याग्नेये क्रतावौष्णिहे छन्दस्याश्विनशस्त्रे चाग्ने वाजस्येत्याद्यास्तिस्र ऋचः । सूत्रितं च । अग्ने वाजस्येति तिस्रः पुरु त्वा त्वामग्ने । आ. ४-१३ [?] इति ॥
+>
+> हे सहसो यहो बलस्य पुत्राग्ने गोमतो बहुभिर्गोभिर्युक्तस्य वाजस्यान्नस्यैशान ईश्वरस्त्वमसि । अतोऽस्मे अस्मासु हे जातवेदो जातधन जातानां वेदितर्वाग्ने महि प्रभूतं श्रवोऽन्नं धेहि । स्थापय ॥ सहसो यहो । परांगवद्भावादामन्त्रितस्य चेति षष्ठ्यामन्त्रिते समुदायो निहन्यते [?] । अस्मे । सुपां सुलुगिति सप्तम्याः शेआदेशः ॥
+
+*prātaranuvākasyāgneye kratāv auṣṇihe chandasy āśvinaśastre cāgne vājasyety ādyās tisra ṛcaḥ | sūtritaṃ ca | agne vājasyeti tisraḥ puru tvā tvām agne | Āś. 4-13 [?] iti ||*
+
+*he sahaso yaho balasya putrāgne gomato bahubhir gobhir yuktasya vājasyānnasyaiśāna īśvaras tvam asi | ato 'sme asmāsu he jātavedo jātadhana jātānāṃ veditarvāgne mahi prabhūtaṃ śravo 'nnaṃ dhehi | sthāpaya || sahaso yaho | parāṅgavadbhāvād āmantritasya ceti ṣaṣṭhyāmantrite samudāyo nihanyate [?] | asme | supāṃ suluk iti saptamyāḥ śe-ādeśaḥ ||*
+
+*Sense:* "Of the *Prātaranuvāka*, in the Āgneya rite, in the Uṣṇih metre, and in the Āśvina-śastra, the first three Ṛks beginning *agne vājasya* (are used). It is also given in the sūtra: '*agne vājasya* — the three; *puru tvā*; *tvām agne*' (Āśv. 4-13 [?]). — O son of strength (*sahaso yaho* = *balasya putra*), O Agni, you are the lord (*īśāna* = *īśvara*) of food (*vāja* = *anna*) that has many cows (*gomataḥ* = endowed with many cattle). Therefore, O *Jātavedas* — you who have (all) wealth that is born, or who know all that is born — give (*dhehi* = *sthāpaya*) to us (*asme* = *asmāsu*) abundant (*mahi* = *prabhūtam*) *śravas*, food." *The grammatical tail:* *sahaso yaho* — by "parāṅgavad bhāvāt" and "āmantritasya ca" [?] the whole group of the sixth-case and the vocative is treated (as one) and receives nighāta [?]; *asme* — by "supāṃ suluk…" the seventh-case ending is replaced by *śe*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.4** *(Kannada)*
+
+- **सहसो यहो** — "O son of strength (*bala*)"
+- **अग्ने** — "O Agni (you)"
+- **गोमतः** — "(of him) who is provided with (many) cows"
+- **वाजस्य** — "of food"
+- **ईशानः** — "lord"
+- **जातवेदः** — "O knower of all that is born (all), O Agni"
+- **महि** — "abundant"
+- **श्रवः** — "food"
+- **धेहि** — "place (give) among us."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.4** *(Kannada)*
+
+"O Agni, famed as 'son of strength' because you are born by the application of strength; you are lord of cows and of food and other nourishments. You are the knower of all. Give us much food."
+
+**English Translation** *(printed in English in the source)*
+
+"Agni, son of strength, lord of food and of cattle, give us abundant sustenance; you know all that exist." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.4)**
+
+"At the time of the *Prātaranuvāka* mantras, for the Ṛks of the Uṣṇih metre connected with the Āgneya rite, and for the Āśvina-śastra mantras, the three Ṛks beginning *agne vājasya* (79.4–6) have application, as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*agne vājasyeti tisraḥ puru tvā tvām agne*' (Āśv. 4-13 [?])."
+
+### Page 538 (PDF 556)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics of Rik 79.4, continued:*
+
+- **सहसो यहो** — "The word *sahas* has the sense 'strength' (Ni. [2-9] [?]); *yahu* means 'son' (Ni. [3-?] [?]); so *sahaso yaho* = 'son of strength', that is, one born by the application of strength (the churning of the sticks), since Agni arises at the end of that effort. It is customary to address Agni by the vocatives *sahaso yaho*, *sahasas putra*, *sahasaḥ sūno*."
+- **वाजस्य गोमतः** — *bahubhir gobhir yuktasya annasya* — "*Vāja* means food (Ni. [2-7] [?]). 'Food provided with cows' means both the cows and the food; the sense is that of the *lord* (svāmin) of food."
+- **अस्मे धेहि** — *asmāsu sthāpaya* — "'establish among us' means 'give to us'. The word *asme* is used in the Ṛgveda in the sense of all case-endings of *asmad*. On this matter Yāska has explained (Ni. [6-2?] [?]) in this way —
+
+> (१) अस्मे ते बन्धुः । वयमित्यर्थः ।
+
+*asme te bandhuḥ | vayam ity arthaḥ |* — "*asme te bandhuḥ*: (*asme* =) 'we'."
+
+> अस्मे इत्येतत्पदं सर्वविभक्त्यन्तम् । तस्मादनेकार्थम् । एकमेव ह्येतच्छब्दरूपं सप्तस्वपि विभक्त्यर्थेषु वर्तते । प्रकरणादिनिशात् [?] तस्य नियमो भवति । तद्यथा — प्रथमास्थावत् — अस्मे ते बन्धुः । वयमित्यर्थः ॥
+
+*asme ity etat padaṃ sarvavibhaktyantam | tasmād anekārtham | ekam eva hy etac chabdarūpaṃ saptasv api vibhaktyartheṣu vartate | prakaraṇādiniśāt [?] tasya niyamo bhavati | tad yathā — prathamāsthāvat — asme te bandhuḥ | vayam ity arthaḥ ||*
+
+*Gloss, mine and tentative:* "This word *asme* ends in all case-endings; hence it has many senses. For this one word-form is used in the senses of all seven cases; its restriction (to one case) comes from the context (*prakaraṇa*) and the like. For example — in the sense of the first case: *asme te bandhuḥ*, i.e. 'we'." The Kannada explains: "that is, the word *asme* is used in the sense of the seven cases according to the context; in the sentence *asme te bandhuḥ* the word *asme* has the sense *vayam*, 'we' — an example of the first case."
+
+> (२) अस्मे यातं नासत्या सजोषाः । अस्मानित्यर्थः ॥ द्वितीयास्थावत् ।
+
+*asme yātaṃ nāsatyā sajoṣāḥ | asmān ity arthaḥ || dvitīyāsthāvat |* — "(2) in the sense of the second case: *asmān*, 'us'. As an example of this sense —
+
+> आ श्येनस्य जवसा नूतनेनास्मे यातं नासत्या सजोषाः ।
+> हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥
+
+*ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |
+have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (Ṛk. Saṃ. 1-[118]-[11] [?]) — *Gloss, mine and tentative:* "With the new speed of the falcon, come to us, O Nāsatyas, of one accord; for I, who have offered the oblation, call you, Aśvins, at the dawning of the ever-recurring dawn."
+
+— they have given this Ṛk. The word *asme* in this Ṛk means *asmān*, 'us'."
+
+> (३) अस्मे समानेभिर्वृषभ पौंस्येभिः । अस्माभिरित्यर्थः ॥ तृतीयास्थावत् ।
+
+*asme samānebhir vṛṣabha pauṃsyebhiḥ | asmābhir ity arthaḥ || tṛtīyāsthāvat |* — "(3) in the sense of the third case: here *asme* means *asmābhiḥ*, 'by us'. In this matter —" *(the sentence breaks off at the foot of p. 538 and the Ṛk follows on p. 539)*
+
+### Page 539 (PDF 557)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics continued — Yāska's illustrations of the seven case-senses of* asme:
+
+> भूरि चकर्थ युज्येभिरस्मे समानेभिर्वृषभ पौंस्येभिः ।
+> भूरीणि हि कृणवामा शविष्ठेन्द्र क्रत्वा मरुतो यद्वशाम ॥
+
+*bhūri cakartha yujyebhir asme samānebhir vṛṣabha pauṃsyebhiḥ |
+bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yad vaśāma ||* (Ṛk. Saṃ. 1-[165]-[7?] [?]) — *Gloss, mine and tentative:* "Much you have done with your fitting, equal deeds of manliness, O bull, with us; many (deeds) we shall do, O mightiest Indra, by (our) skill, if we, the Maruts, so wish." *(The words are read as printed; the sense is uncertain to me.)*
+
+— "they have given this Ṛk as an example; here *asme* means *asmābhiḥ*, 'by us'.
+
+> (४) अस्मे प्रयन्धि मघवन्नृजीषिन् । अस्मभ्यमित्यर्थः ॥ चतुर्थ्यास्थावत् ।
+
+*asme prayandhi maghavann ṛjīṣin | asmabhyam ity arthaḥ || caturthyāsthāvat |* — "(4) in the sense of the fourth case: here *asme* means *asmabhyam*, 'to us'. For example —
+
+> अस्मे प्र यन्धि मघवन्नृजीषिन्निन्द्र रायो विश्ववारस्य भूरेः ।
+> अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
+
+*asme pra yandhi maghavann ṛjīṣinn indra rāyo viśvavārasya bhūreḥ |
+asme śataṃ śarado jīvase dhā asme vīrāñ chaśvata indra śiprin ||* (Ṛk. Saṃ. 2-[31?]-[10] [?]) — *Gloss, mine and tentative:* "Bestow on us, O Maghavan, O Indra, drinker of the soma-dregs [?], much wealth that all would choose; give us a hundred autumns to live; (give) us heroes, O Indra of the fine helmet, for ever."
+
+In the words *asme* of this Ṛk the sense is the fourth case, *asmabhyam*, 'to us'.
+
+> (५) अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु । अस्मदित्यर्थः ॥ पञ्चम्यास्थावत् ।
+
+*asme ārāc cid dveṣaḥ sanutar yuyotu | asmad ity arthaḥ || pañcamyāsthāvat |* — "(5) in the sense of the fifth case: here *asme* means *asmat*, 'from us' (from our side). For example —
+
+> तस्य वयं सुमतौ यज्ञियस्यापि भद्रे सौमनसे स्याम ।
+> स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
+
+*tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |
+sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu ||* (Ṛk. Saṃ. 6-[47]-[13] [?]) — *Gloss, mine and tentative:* "May we be in the favour of him, the worthy of sacrifice, in his fortunate good-will; may he, Indra, the good protector, the rich in his own, keep far from us, away, hatred."
+
+In the word *asme* of this Ṛk the sense is the fifth case, 'from our side', *asmat*.
+
+> (६) ऊर्व इव पप्रथे कामो अस्मे । अस्माकमित्यर्थः ॥ षष्ठ्यास्थावत् ।
+
+*ūrva iva paprathe kāmo asme | asmākam ity arthaḥ || ṣaṣṭhyāsthāvat |* — "(6) in the sense of the sixth case: here *asme* means *asmākam*, 'our' (to us). To explain this —
+
+> आ नो भर भगमिन्द्र द्युमन्तं नि ते देष्णस्य धीमहि प्ररेके ।
+> ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
+
+*ā no bhara bhagam indra dyumantaṃ ni te deṣṇasya dhīmahi prareke |
+ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||* (Ṛk. Saṃ. 3-[3?]-[19?] [?]) — *Gloss, mine and tentative:* "Bring us, O Indra, a shining portion; may we hold (it) in our mind as the surplus of your gift; (our) desire has spread (wide) like the sea; fulfil it, O lord of goods, of the goods."
+
+In the word *asme* of this Ṛk the sixth case, *asmākam* 'our', 'to us'.
+
+> (७) अस्मे धत्त वसवो वसूनि । अस्मास्वित्यर्थः ॥ सप्तम्यास्थावत् ।
+
+*asme dhatta vasavo vasūni | asmāsv ity arthaḥ || saptamyāsthāvat |* — "(7) in the sense of the seventh case: here *asme* means 'in us'. For example —
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥
+
+*agne vājasya gomata īśānaḥ sahaso yaho |
+asme dhehi jātavedo mahi śravaḥ ||* (Ṛk. Saṃ. 1-[79]-4) — this very Ṛk.
+
+In the word *asme* of this Ṛk the seventh case, *asmāsu*, 'in us'."
+
+---
+
+**Progress note:** Printed pp. 1–539 done (PDF 19–557): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.3 complete**; **Rik 79.4** (first of the Uṣṇih Ṛks) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English (pp. 536–537) and the Special Topics (pp. 537–539, Yāska's seven-case illustrations of *asme*, the Ṛk references all [?]) done; the grammar page of 79.4 not yet seen. Next: p. 540 (PDF 558). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
