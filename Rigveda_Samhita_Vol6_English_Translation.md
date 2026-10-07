@@ -4894,4 +4894,55 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–245 done (PDF 19–263): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 69.1 complete; **Rik 69.2** — Saṃhitā, Pada and the first part of the bhāṣya done (p. 245, breaking off at *svādma … supāṃ sulu-*). Next: p. 246 (PDF 264), the rest of the bhāṣya of Rik 69.2 and its remaining parts; then Riks 69.3–69.5, the closing line, and then **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the grammar of 69.1 (p. 244) compressed and tentative [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 246 (PDF 264)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Bhāṣya (concluded).** "…the *luk* of *su* by 'supāṃ sulug…'. **Pitūnām**: by 'nāmany atarasyām' [as read] the *nām* ending is acute. **Āhūryaḥ**: *yat* after *hve* with *ā*, by 'ājpūrvād hvayater ahoyadi yat' [as read, ?]; *samprasāraṇa* by the 'bahula' licence; the lengthening by 'hali'; *r* for the *r*-less [?]; the initial acute by 'yato 'nāvaḥ' etc." *(Grammar tail short and compressed; read at 150 dpi and doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**वेधाः** — the wise (the creator of all); **अदृप्तः** — free of pride; **विजानन्** — knowing what is to be done and not done; **अग्निः** — Agni; **गोनाम्** — of cows; **ऊधर्न** — like the udder; **पितूनाम्** — for foods; **स्वाद्मा** — he gives flavour (by cooking); **जने** — in a country; **शेवः न** — like one who does work that gives comfort (to the people); **मध्ये** — in the midst (of the sacrifices); **आहूर्यः** — one to be called; **दुरोणे** — in the sacrificial hall; **निषण्णः** — seated; **रण्वः** — the comfort-giver (to be praised).
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, who is the maker of all yet without pride, who knows what is to be done and not done, gives flavour to foods as the udder gives sweetness to milk, by cooking them. As a man who does good to the people is honoured when invited, he is called, seated in the sacrificial house, and becomes one to be praised.
+
+**English Translation** *(the source's own, as printed):*
+
+> The wise, the humble and discriminating Agni, is the giver of flavour to food, as the udder of cows (gives sweetness to the milk) ; invited (to the ceremony), he sits in the sacrificial chamber, diffusing happiness, like a benevolent man, amongst mankind.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **वेधाः** — *medhāvi nāmaitat | medhāvī yadvā vidhātā sarvasya kartā* — "the word *vedhas* is read among the twenty-four names of 'wise' (Ni. [3-15]). Since the root *dhā* with the prefix *vi* means 'to hold' [and others], it also gives the sense 'one who has knowledge'. An example from the Veda is given in this sense: '*abhrāji śardho maruto yad arṇasam…*' (Ṛk. Saṃ. 5-54-6, as read) *(continues on p. 247).*
+
+---
+
+### Page 247 (PDF 265)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**Special Topics (continued; Kannada).** The print gives three Vedic examples of *vedhāḥ*, in Sanskrit:
+
+> **अभ्राजि शर्धो मरुतो यदर्णसं मोषथा वृक्षं कपनेव वेधसः ।** *(ऋ. सं. ५-५४-६ [?])*
+> *abhrāji śardho maruto yad arṇasaṃ moṣathā vṛkṣaṃ kapaneva vedhasaḥ* — "the host of the Maruts, wise ones, shone when you stripped the tree like monkeys [?]" *(my tentative sense)*
+> **सोमो न वेधा ऋतप्रजातः पशुर्न शिश्वा विभुर्दूरेभाः ।** *(ऋ. सं. १-६८-१० [?])* — *somo na vedhā ṛtaprajātaḥ paśur na śiśvā vibhur dūrebhāḥ* — "Like Soma the wise, born of the ṛta … " (cf. Rik 65.5 above)
+> **दिवश्चित्पूर्वो न्यसादि होता पृच्छ्यो विश्पतिर्विक्षु वेधाः ।** *(ऋ. सं. १-६०-२ [?])* — *divaś cit pūrvo nyasādi hotā pṛcchyo viśpatir vikṣu vedhāḥ* — "Hotṛ, older than heaven, has been seated, the one to be asked, lord of the clans, the wise among men." *(Glosses tentative; the Ṛgveda numerals read doubtfully [?].)*
+
+"Agni is wise: that is the meaning. And Brahmā, denoted by the word *vidhātṛ*, is the cause of all: he grants to those who perform sacrifices and to all others their desired ends and creates all anew: this is the idea.
+- **गवां ऊधर्न पितूनां स्वाद्मा** — *gosaṃbandhipayasa āśrayabhūtaṃ sthānam iva annānāṃ svādayitā rasayitā* — "the word *na* is a word of comparison, used in the sense of *iva*. As the udder of cows gives tasty milk and makes food savoury, so Agni, cooking food well, makes it tasty and savoury. The word *pitu* is read among the twenty-eight names of food (Ni. [2-7]); the word *pitu*, whether from the root *opyāyī* or from *pā*, is used in the sense of food, as in '*pitum nu stoṣam*' (Ṛk. Saṃ. 1-187-1) and '*pramandine pitumad arcatā vacaḥ*' (Ṛk. Saṃ. 1-101-1)."
+- **जने न शेवः** — *janapade lokasukhakaraḥ puruṣa iva* — "the word *śeva* is read among the names of 'comfort' beginning *śiṃbātā, śatarā* (Ni. [3-13]). Agni gives comfort to all, beginning with the sacrificers, as a man does good to the world.
+  *Skandasvāmin:* *janena śevaḥ janayitṛtvāt janaḥ pitā | piteva sukhakaro 'gniḥ* — 'the word *jana* means father, as the cause of birth: Agni gives comfort as a father does. And the word *jana* denotes the world: *duroṇe madhye yajñagṛhe vedyāṃ niṣattaḥ*…" *(continues on p. 248).*
+
+---
+
+### Page 248 (PDF 266)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Special Topics (concluded; Kannada).** "…[*Skandasvāmin:*] '*raṇvaḥ ramaṇīyaḥ sukhaḥ*' — as Agni is pleasant and comfort-giving in the world, so, seated pleasantly in the middle of the altar of the sacrificial hall, he is a comfort-giver to all. [On *duroṇe*:] the word *duroṇa* is read among the twenty-two names of 'house' (Ni. [3-4]); so here it has the sense 'sacrificial house'.
+- *Skandasvāmin* on **आहूर्यः**: *cañcalatvāj jvālānāṃ kuṭilaḥ* — 'since Agni's flames are crooked and unsteady, Agni too is crooked'; and Sāyaṇa explains *āhūryaḥ* as *yajamānair āhvātavyaḥ*, 'one who is to be called by the sacrificers'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 69.2 (noted briefly).** **अदृप्तः**: root *dṛpa harṣamohanayoḥ*; the affix *kta*; *mohana* is pride; "not proud" = *adṛptaḥ*, a *nañ*-tatpuruṣa; by "tatpuruṣe tulyārthatṛtīyā…" the accent of the first member, an indeclinable. **विजानन्**: root *jñā avabodhane*; in the sense of *laṭ*, the affix *śatṛ*; by "jñājanor jā" *jā* for the root; by "kryādibhyaḥ śnā" the vikaraṇa *śnā*; since *śatṛ* is *j*-marked [*śit*-like], by "śnābhyastayor ātaḥ" the loss of the *ā* of *śnā*; the affix accent. **गोनाम्**: for the word *go*, genitive plural, *ām*; by "goḥ pādānte" (Pā. Sū. 7-1-57) the *nuṭ* augment enjoined at the end of a *pāda* comes Vedicly in a non-final place too. **स्वाद्मा**: root *svada āsvādane*; the sense of *ṇic* (causal) is included in the root's meaning; by "anyebhyo 'pi dṛśyate" (Pā. Sū. 3-2-75) the affix *manin*; the word *svādman*; because *n*-marked, the initial acute; with *su*, by "supāṃ sulug…" the *luk* of *su*; since it is at the end of a *pada*, by "nalopaḥ prātipadikāntasya" the loss of the final *n*. **पितूनाम्**: genitive plural of *pitu*; by "nāmany atarasyām" (Pā. Sū. 6-1-177, as read) the case-ending *nām* [with *nuṭ*] is acute.
+
+---
+
+**Progress note:** Printed pp. 1–248 done (PDF 19–266): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1 complete; **Rik 69.2** — everything done except the end of its grammar page (p. 248, ending at *pitūnām*). Next: p. 249 (PDF 267), the grammar page of Rik 69.2 concludes (*jane*, *śevaḥ*, *āhūryaḥ*, *niṣattaḥ*, *raṇvaḥ*, *duroṇe*…); then Riks 69.3–69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the Ṛgveda quotations on p. 247 (references and my tentative glosses) [?]; accent marks of the Saṃhitā/Pada not reproduced.
