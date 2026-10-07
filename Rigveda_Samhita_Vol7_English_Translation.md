@@ -1996,4 +1996,94 @@ sarvaṃ paṇeḥ sam avindanta bhojanam aśvāvantaṃ gomantam ā paśuṃ na
 
 ---
 
-**Progress note:** Printed pp. 1–73 done (PDF 16–88) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.3 complete**; **Rik 83.4** — Saṃhitā, Pada, bhāṣya (p. 71), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 72–73) done; its grammar page is begun on p. 73 (*aṅgirāḥ*, *śamyā*) and continues on p. 74 (PDF 89). Next: printed p. 74 (PDF 89). Two Ṛks (83.5–83.6) remain after 83.4, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68.
+### Page 74 (PDF 89)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Grammar of Rik 83.4, concluded (grammar page, noted briefly):*
+
+- **शम्या** (concluded) — "…by "yasyeti ca" (Pā. Sū. 6-4-148) the *ā* [of *śama*] is dropped. By "kṛṣṭāṣṭhā…" [as read: "karṣātvato ghaño 'nta udāttaḥ", Pā. Sū. 6-1-159] final-udātta would arise; but by "vyatyayo bahulam" (Pā. Sū. 3-1-85) the initial-udātta accent comes by *vyatyaya*."
+- **सुकृत्यया** — *śobhanaṃ kṛtyaṃ karaṇaṃ yasyāṃ sā sukṛtyā* ("that in which the performance is good"; the act in which the means is good). By "nañsubhyām" (Pā. Sū. 6-2-172) in a *bahuvrīhi* the final member of the compound after *nañ* and *su* is final-udātta, so the word *sukṛtyā* is final-udātta. When the third-case singular *ṭā* is added, by "ājaḥ ṭāpaḥ" [as read: "āṇ nadyāḥ… / ṭāṅasiṅasām inātsyāḥ", Pā. Sū. 7-1-12] the *ā*-ending stem takes *ina* … the substitute *ā* for the *ṭā*, the *ai*… the *ya* replacement; since it precedes an udātta, the case-ending takes svarita on the anudātta." ||4||
+
+*Grammar page, noted briefly; the last entry is read with some doubt; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 83.5**
+
+> यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतपा वेन आजनि ।
+> आ गा आजदुशना काव्यः सचा यमस्य जातममृतं यजामहे ॥ ५ ॥
+
+*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |
+ā gā ājad uśanā kāvyaḥ sacā yamasya jātam amṛtaṃ yajāmahe ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यज्ञैः । अथर्वा । प्रथमः । तते । ततः । सूर्यः । व्रतऽपाः ।
+> वेनः । आ । अजनि ।
+> आ । गाः । आजत् । उशना । काव्यः । सचा । यमस्य । जातम् ।
+> अमृतम् । यजामहे ॥ ५ ॥
+
+*yajñaiḥ | atharvā | prathamaḥ | tate | tataḥ | sūryaḥ | vrata-pāḥ | venaḥ | ā | ajani | ā | gāḥ | ājat | uśanā | kāvyaḥ | sacā | yamasya | jātam | amṛtam | yajāmahe ||5||*
+
+### Page 75 (PDF 90)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 83.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> पणिभिरपहृतासु गोष्वथर्वेतत्संज्ञ ऋषिर्यज्ञैरिन्द्रदेवत्यैरन्विष्ट्यैर्गावः पथो गोसंबन्धिनो मार्गान् प्रथमस्तते । तनुते । सर्वेभ्य ऋषिभ्यः पूर्वमेव कृतवानित्यर्थः । ततस्तदनन्तरं व्रतेसा व्रतानां कर्मणां पालयिता वेनः कान्तः सूर्यः सूर्यरूप इन्द्र आजनि । गवां प्रदर्शनायाविरभूत् । केतोऽथर्वा ता गा आजत् । अभिमुखेन प्राप्नोत् । ताद्दृशस्येन्द्रस्य काव्यः कवेः पुत्रो उशना भृगुः सचासुरनिरसनाय सहायोऽभूत् । यमस्यासुराणां नियमनार्थं जातं प्रादुर्भूतममृतं मरणरहितं तमिन्द्रं यजामहे । हविर्भिः पूजयामः ॥ पथः । शसि भस्य टेर्लोपः । इति टिलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । तते । तनु विस्तारे । बहुलं छन्दसीति विकरणस्य लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । अजनि । जनी प्रादुर्भावे । दीपजनबुधेत्यादिना । पा. ३-१-६१ । कर्तरि लुङ्चिलर्चिण् । आजत् । अज गतिक्षेपणयोः ॥ ५ ॥
+
+*paṇibhir apahṛtāsu goṣv atharvetatsaṃjña ṛṣir yajñair indradevatyair anviṣṭyair gāvaḥ patho gosaṃbandhino mārgān prathamas tate | tanute | sarvebhya ṛṣibhyaḥ pūrvam eva kṛtavān ity arthaḥ | tatas tadanantaraṃ vratapā vratānāṃ karmaṇāṃ pālayitā venaḥ kāntaḥ sūryaḥ sūryarūpa indra ājani | gavāṃ pradarśanāyāvirabhūt | keto 'tharvā tā gā ājat | abhimukhena prāpnot | tādṛśasyendrasya kāvyaḥ kaveḥ putro uśanā bhṛguḥ sacāsuranirasanāya sahāyo 'bhūt | yamasyāsurāṇāṃ niyamanārthaṃ jātaṃ prādurbhūtam amṛtaṃ maraṇarahitaṃ tam indraṃ yajāmahe | havirbhiḥ pūjayāmaḥ || pathaḥ | śasi bhasya ṭer lopaḥ | iti ṭilopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvam | tate | tanu vistāre | bahulaṃ chandasīti vikaraṇasya luk | anudāttopadeśety ādinānunāsikalopaḥ | ajani | janī prādurbhāve | dīpajanabudhety ādinā | pā. 3-1-61 | kartari luṅ ciṇ | ājat | aja gatikṣepaṇayoḥ || 5 ||*
+
+*Sense:* "When the cows had been carried off by the Paṇis, the ṛṣi named Atharvan, by sacrifices addressed to Indra, in the search (for them), first (*prathamaḥ*) *tate* — spread out (opened) the paths (*pathaḥ*) that relate to the cows: he did it before all the (other) ṛṣis. Thereafter, *vratapāḥ* — the protector of the rites, *venaḥ* — the beloved, *sūryaḥ* — Indra in the form of the Sun — was born (*ājani*), appeared, to show the cows. Then Atharvan, the leader (?), drove (*ājat*) those cows (back), obtaining them face to face. For such an Indra, *kāvyaḥ* — the son of Kavi, *uśanā*, Bhṛgu, was *sacā*, an ally, to dispel the asuras. *Yamasya jātam* — born for the restraining (*niyamana*) of the asuras, *amṛtam* — free from death — that Indra we worship (*yajāmahe*), with oblations." *The grammatical tail* (characterized): *pathaḥ* — the *ṭi* dropped for a *bha*-stem before *śas*; the case-ending udātta by the *udāttanivṛtti* rule; *tate* — *tanu vistāre*, *luk* of the stem-marker, loss of the nasal; *ajani* — the *luṅ* with *ciṇ* of *janī prādurbhāve*; *ājat* — the root *aja gatikṣepaṇayoḥ*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 83.5** *(Kannada)*
+
+- **अथर्वा** — "(when the cows were carried off by the Paṇi) the ṛṣi called Atharvan"
+- **यज्ञैः** — "by sacrifices (offered, addressed to Indra)"
+- **पथः** — "(for the cows) the paths that were carried off"
+- **प्रथमः** — "first of all"
+- **तते** — "found (made out)"
+- **ततः** — "thereafter"
+- **व्रतपाः** — "the protector of the rites"
+- **वेनः** — "radiant"
+- **सूर्यः** — "Indra in the form of the Sun"
+- **आ अजनि** — "appeared (to show the way)"
+- **(अनन्तरम् अथर्वा)** — "(afterwards Atharvan)"
+- **गाः** — "the cows"
+- **आ आजत्** — "obtained again (for such an Indra)"
+- **काव्यः** — "the son of Kavi"
+- **उशना** — "Bhṛgu"
+- **सचा** — "(for the destruction of the asuras) became a helper"
+- **यमस्य** — "to restrain the Rākṣasas"
+- **जातम्** — "born"
+- **अमृतम्** — "deathless Indra"
+- **यजामहे** — "(we) worship with oblations."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 83.5** *(Kannada)*
+
+"When the Paṇi carried off the cows, the ṛṣi named Atharvan, addressing Indra, made sacrifices; by the help of that sacrifice he discovered, before anyone else, the path by which the cows had been carried off. Thereafter Indra, the protector of the rites and radiant, appeared in the form of the Sun to show that path. Atharvan, by this help, got the cows back. At that time Bhṛgu, the son of Kavi, became Indra's helper for destroying the asuras. We worship with sacrifices such a deathless Indra, born to restrain the Rākṣasas."
+
+### Page 76 (PDF 91)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+**English Translation** *(Rik 83.5; printed in English in the source)*
+
+"Atharvan first discovered the path of the stolen cattles [sic: "cattle"] by sacrifices ; then the bright Sun ( Indra ) the protector of pious performances, was born ; Atharvan regained the cattle with the help of Usanas son of Kavi ; let us worship Indra who was born to destroy Asuras." — as printed (in the print: "the stolen cattle"; I reproduce it as read, [sic] not needed).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.5)**
+
+- **अमृतम्** — *maraṇarahitam* — "(the immortal Indra), who is free of death."
+- **अथर्वा** — "a famous ṛṣi. His name occurs in many Ṛks, but we know little of his affairs."
+- **वेनः, सूर्यः** — "to these words the bhāṣyakāra has said that Indra appeared in the form of the shining Sun. Or one may say that the sense that fits well is: after the sun had risen and given light, the ṛṣi Atharvan saw the path by which the cows had been carried off."
+- **व्रतपाः** — *vratānāṃ karmaṇāṃ pālayitā* — "the protector of the rites such as sacrifices."
+- **उशना काव्यः** — *kaveḥ putra uśanā bhṛguḥ* — "Uśanas, the son of Kavi. He is called Bhṛgu. He is a famous ṛṣi. The name of this ṛṣi, called *Kāvya*, occurs in the Ṛgveda in 1-[121]-[12]; 1-[83]-[5]; 1-[130]-[9]; 6-[20]-[11]; 8-[23]-[17]; Atharvaveda 4-[?]-[?]; Taittirīya Saṃhitā 3-[?]-[?]-[?] and other mantras" *(all reference numerals read from the small Kannada print and uncertain [?])*.
+- **यमस्य जातम्** — *asurāṇāṃ niyamanārtham jātam* — "born for the restraining of the asuras: born in order to subdue them."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.5)** *(grammar page, noted briefly; begins here)*
+
+- **पथः** — the second-case plural *śas* after the stem *pathin*; by "bhasya ṭer lopaḥ" (Pā. Sū. 7-1-88) the *ṭi* (final vowel together with what follows) of a *bha*-stem *pathin* is dropped; here, since the vowel-initial affix *śas* follows, the stem is *bha*-designated, so the *ṭi* is dropped. With the loss of *in*, *path+as*; *ru* and visarga make the form. Here, by "anudāttau suppitau" (Pā. Sū. 3-1-4) the case-ending would be anudātta; the stem *pathin*, by "pathimathyṛbhukṣām ā" … [as read: "phiṣo 'nta udāttaḥ" (Phiṭ. Sū. 1)] being final-udātta by the Phiṭ-sūtra; when the anudātta follows, the udātta is lost (*lopa*), so by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the case-ending receives the udātta accent.
+
+---
+
+**Progress note:** Printed pp. 1–76 done (PDF 16–91) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.4 complete**; **Rik 83.5** — Saṃhitā, Pada, bhāṣya (p. 75), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 75–76) done; its grammar page is begun on p. 76 (*pathaḥ*) and continues on p. 77 (PDF 92). Next: printed p. 77 (PDF 92). One more Ṛk (83.6) after 83.5, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74; the Kāvya/Uśanas reference list on p. 76.
