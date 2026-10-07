@@ -681,4 +681,79 @@ saṃ gṛbhāya purū śatobhayāhastyā vasu śiśīhi rāya ā bhara ||7||*
 
 ---
 
-**Progress note:** Printed pp. 1–24 done (PDF 16–39) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.6 complete** (grammar of 81.6 on pp. 23–24); **Rik 81.7** — Saṃhitā and Pada (p. 24) done. Next: printed p. 25 (PDF 40) — bhāṣya of 81.7. Two Ṛks (81.8–81.9) remain after 81.7, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print.
+### Page 25 (PDF 40)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.7** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> चातुर्विंशिकेऽहनि माध्यंदिनसवने ब्राह्मणाच्छंसिनो मदेमदे हि नो ददिरिति वैकल्पिकोऽनुरूपस्तृचः । होत्रकाणामिति खण्डे सूत्रितं । मदेमदे हि नो ददिः सुरूपकृत्नुमूतये । आ. ८-४ [?] इति ॥
+>
+> मदेमदे सोमपानेन हर्षे हर्षे सति ऋजुक्रतुर्ऋजुकर्मा स इन्द्रो नोऽस्मभ्यं गवां यूथा यूथानि ददिर्हि गोयूथानां दाता खलु । हे इन्द्र स त्वं पुरु पुरूणि प्रभूतानि शता शतसंख्याकानि । अपरिमितानीत्यर्थः । वसु वसूनि धनान्युभयाहस्त्याभ्यां हस्ताभ्यां सं गृभाय । अस्मभ्यं दातुं सम्यग्गृहाण । शिशीहि । अस्मांस्तीक्ष्णीकुरु । निशितबुद्धियुक्तान् कुर्वित्यर्थः । रायो धनानि हस्तयोः स्थितान्या भर । आहर । प्रयच्छ ॥ ददिः । डुदाञ् दाने । आदृगमहनजन इति किप्रत्ययः । यूथा । शेश्छन्दसि बहुलमिति शेर्लोपः । गवाम् । सावेकाच इति प्राप्तस्य नगोश्वन्साववर्णराडङ्क्रुङ्कृद्भ्य इति प्रतिषेधः । गृभाय । गृह उपादाने । लोटि हौ छन्दसि शायजपि । पा. ३-१-८४ । इति शानप्रत्ययस्य शायजादेशः । हृग्रहोर्भ इति भत्वम् । उभयाहस्त्या । उभयहस्तशब्दात् तृतीयाद्विवचनस्य सुपां सुलुगिति ड्याडेशः । अन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वम् । समासान्तोदात्तत्व उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । वसु । सुपां सुलुगिति विभक्तेर्लुक् । शिशीहि । शो तनूकरणे । बहुलं छन्दसीति विकरणस्य श्लुः । आदेच उपदेशेऽशिति । इदित्यनुवृत्तौ बहुलं छन्दसीत्यभ्यासस्येत्वम् । ईहल्यघोरिति धातोरीत्वम् । पादादित्वान्निघाताभावः । रायः । ऊडिदमिति विभक्तेरुदात्तत्वम् ॥ ७ ॥
+
+*cāturviṃśike 'hani mādhyaṃdinasavane brāhmaṇācchaṃsino made-made hi no dadir iti vaikalpiko 'nurūpas tṛcaḥ | hotrakāṇām iti khaṇḍe sūtritaṃ | made-made hi no dadiḥ surūpakṛtnum ūtaye | Āś. 8-4 [?] iti ||*
+
+*made-made somapānena harṣe harṣe sati ṛjukraturṛjukarmā sa indro no 'smabhyaṃ gavāṃ yūthā yūthāni dadir hi goyūthānāṃ dātā khalu | he indra sa tvaṃ puru purūṇi prabhūtāni śatā śatasaṃkhyākāni | aparimitānīty arthaḥ | vasu vasūni dhanāny ubhayāhastyābhyāṃ hastābhyāṃ saṃ gṛbhāya | asmabhyaṃ dātuṃ samyag gṛhāṇa | śiśīhi | asmāṃs tīkṣṇīkuru | niśitabuddhiyuktān kurv ity arthaḥ | rāyo dhanāni hastayoḥ sthitāny ā bhara | āhara | prayaccha || dadiḥ | ḍudāñ dāne | ādṛgamahanajana iti kipratyayaḥ | yūthā | śeś chandasi bahulam iti śer lopaḥ | gavām | sāvekāca iti prāptasya nagośvansāvavarṇarāḍaṅkruṅkṛdbhya iti pratiṣedhaḥ | gṛbhāya | gṛha upādāne | loṭi hau chandasi śāyajapi | pā. 3-1-84 | iti śānapratyayasya śāyajādeśaḥ | hṛgrahor bha iti bhatvam | ubhayāhastyā | ubhayahastaśabdāt tṛtīyādvivacanasya supāṃ suluk iti ḍyāḍeśaḥ | anyeṣām api dṛśyata iti pūrvapadasya dīrghatvam | samāsāntodāttatva udāttanivṛttisvareṇa vibhakter udāttatvam | vasu | supāṃ suluk iti vibhakter luk | śiśīhi | śo tanūkaraṇe | bahulaṃ chandasīti vikaraṇasya śluḥ | ādeca upadeśe 'śiti | idity anuvṛttau bahulaṃ chandasīty abhyāsasyetvam | īhalyaghor iti dhātor īttvam | pādāditvān nighātābhāvaḥ | rāyaḥ | ūḍidam iti vibhakter udāttatvam || 7 ||*
+
+*Sense:* "On the twenty-fourth day, at the midday pressing, in the śastra of the *Brāhmaṇācchaṃsin*, the triad beginning *made-made hi no dadiḥ* is an optional *anurūpa*; so it is stated in the section 'for the *hotrakas*': '*made-made hi no dadiḥ surūpakṛtnum ūtaye*' (Āśv. 8-4 [?]). — At each draught (*made-made*) of Soma, at each gladdening, that Indra, *ṛjukratuḥ* (of straight, honest action), *dadiḥ* — truly the giver of herds of cows (*gavāṃ yūthā*) — to us. O Indra, such a you, *puru* — many, *śatā* — in hundreds, that is, countless — *vasu*, riches: *saṃ gṛbhāya* — take them up fully with both hands (*ubhayāhastyā*), to give to us; *śiśīhi* — sharpen us, make us possessed of keen understanding; *rāyaḥ* — wealth that lies in your hands, *ā bhara* — bring, give." *The grammatical tail* (characterized): *dadiḥ* — *ki* after *ḍudāñ*; *yūthā* — loss of *śi* by "śeś chandasi bahulam"; *gavām* — the prohibition of the udātta of the case-ending; *gṛbhāya* — *gṛha upādāne*, the *loṭ* with *hi*, *śāyac* for *śānac* (Pā. 3-1-84 [?]); *ubhayāhastyā* — *ḍyā* for the third-case dual-ending, lengthening of the first member; *śiśīhi* — root *śo tanūkaraṇe*, *ślu*, reduplicative *i* by "bahulaṃ chandasi", *ī* for the root."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.7** *(Kannada)*
+
+- **मदेमदे** — "(by drinking Soma) again and again full of delight"
+- **ऋजुक्रतुः** — "Indra who performs honest sacrificial acts"
+- **नः** — "to us"
+- **गवां यूथा** — "herds of cows"
+- **ददिः हि** — "(O Indra) do you not give?"
+- **पुरु** — "abundant"
+- **शता** — "of hundreds of kinds"
+- **वसु** — "wealth"
+- **उभयाहस्त्या** — "with both hands"
+- **सं गृभाय** — "take fully"
+- **शिशीहि** — "(our understanding) make keen"
+- **रायः** — "wealth (in your hands)"
+- **आ भर** — "bring and give."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.7** *(Kannada; begins at the foot of p. 25)*
+
+"Indra, filled with exceeding delight at every draught of Soma juice, and of honest sacrificial acts, will give us herds of cows. O Indra,
+
+### Page 26 (PDF 41)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Bhāvārtha of Rik 81.7, continued from p. 25:*
+
+"…take up the abundant wealth, of hundreds of kinds, filling both hands, bring and give it to us. And make our understanding keen."
+
+**English Translation** *(printed in English in the source)*
+
+"( Indra ) the performer of pious acts is the giver of herds of cattle to us after being exhilerated [sic] with frequent drinking of our Soma ; take up, Indra, with both hands hundreds of wealth ; sharpen (our minds ); procure us wealth." — as printed ("exhilerated" is a misprint [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.7)**
+
+- **मदेमदे** — "full of delight by the drinking of Soma. Since the word *made* is read twice, the sense is 'many times, or at every step full of delight'."
+- **ऋजुक्रतुः** — "*ṛju* — truthful; *kratu* — one who has (does) action: that is, Indra is not one who goes back on his word; one who does good deeds alone, without a break."
+- **शिशीहि** — "*śo tanūkaraṇe* — 'make our understanding sharp; make us possessed of understanding'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.7)** *(grammar page, noted briefly; runs to p. 27)*
+
+- **ददिः** — the root *ḍudāñ dāne*, *juhotyādi*; by "ādṛgamahanajanaḥ kikinau liṭ ca" (Pā. Sū. 3-2-171) the affix *ki*, since the root ends in *ā*; it takes the properties of *liṭ*, so reduplication of the root and shortening of the reduplicative; since *kit* (an affix with *k*) follows, by "āto lopa iṭi ca" the *ā* is dropped; the affix-accent arises.
+- **यूथा** — second-case plural. By "jaśśasoḥ śiḥ" (Pā. Sū. 7-1-20) *śi* arises in place of the first/second plural endings as a whole-substitute; by "śeś chandasi bahulam" (Pā. Sū. 6-1-70) the *śi* is optionally dropped in the Veda.
+- **गवाम्** — by "sāvekācas tṛtīyādir vibhaktiḥ" (Pā. Sū. 6-1-168) the sixth-case ending would take the udātta; but as an exception the sūtra "nagośvan-sāvavarṇarāḍaṅkruṅkṛdbhyaḥ" [as read: "nagośvansāvavarṇarāḍaṅkruṅkṛdbhyaḥ", Pā. Sū. 6-1-182] is begun: the actions stated before do not occur for these words. So it did not become final-udātta.
+
+### Page 27 (PDF 42)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 81.7, continued from p. 26:*
+
+- **गृभाय** — the root *graha upādāne*, *kryādi*. By "kryādibhyaḥ śnā" (Pā. Sū. 3-1-81) the stem-marker *śnā* would come to the *kryādi* roots; the *loṭ*, second person singular, *sip* with the substitute *hi*; when *hi* follows, *śnā* would arise, but by "chandasi śāyajapi" (छन्दसि शायजपि, Pā. Sū. 3-1-84) the substitute *śāyac* arises; the *āya* of *śāyac* remains; with *gṛhāya+hi*, by "hṛgrahor bhaś chandasi" the *h* of the root gets *bh*; the *a* before *hi* ... by "ato heḥ" (Pā. Sū. 6-4-105) the *luk* of *hi*; so *gṛbhāya* remains.
+- **उभयाहस्त्या** — *ubhau ca tau hastau ca ubhayahastau*. After the word *ubhayahasta* the third-case dual: *ubhayahasta+bhyām*; by "supāṃ suluk-pūrvasavarṇa…" (Pā. Sū. 7-1-39) the case-ending *bhyām* gets *ḍyā* as substitute; the *ḍ* is a mark; since it is *ḍit*, the *ṭi* of the stem *ubhayahasta* (the final *a*) is dropped; by "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137), though no cause is present, the first member is lengthened — so here the first member *ubhaya* is lengthened and gives *ubhayāhastyā*. The case-ending, though anudātta by "anudāttau suppitau", takes the udātta here by the *udāttanivṛtti* accent; by "samāsasya" (Pā. Sū. 6-1-223) the compound is final-udātta; since the anudātta is lost before it, by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the case-ending that has the anudātta takes the udātta: *ubhayāhastyā* stays final-udātta.
+- **वसु** — the second-case plural of *vasu*; by "supāṃ suluk…" the *luk* of *śas*.
+- **शिशीहि** — the root *śo tanūkaraṇe*, *divādi*; *loṭ*, second person singular, *hi*. From the *divādi* class *śyan* would come; relying on "bahulaṃ chandasi" and "vyatyayo bahulam" (Pā. Sū. 3-1-85) by which stem-markers change in the Veda, here *ślu* has come instead of *śyan*. By "ādeca upadeśe 'śiti" (Pā. Sū. 6-1-45) *ā* for the root ending in an *ec* by teaching; with *ślu* following, by "ślau" (Pā. Sū. 6-1-10) reduplication of the root: *śa+śā+hi*; "bahulaṃ chandasi" (Pā. Sū. 7-4-78) — *it* continuing from the preceding sūtra — the reduplicative takes *i* in the Veda; by "īhalyaghoḥ" (Pā. Sū. 6-4-113) the *ā* of *śā* and of the reduplicative becomes *ī* because the *sārvadhātuka* affix, being *kit* or *ñit*, follows: *śiśīhi*; …
+
+*(The final entries of the page — the continuation of* śiśīhi *and the entries for* rāyaḥ*, with the closing "||7||" — run on past this page's last lines and are on p. 28; as printed, p. 27 ends in the middle of the* īhalyaghoḥ *entry.)*
+
+---
+
+**Progress note:** Printed pp. 1–27 done (PDF 16–42) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.6 complete**; **Rik 81.7** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 24–26) done; its grammar page is begun on p. 26 and runs through p. 27 into p. 28 (PDF 43). Next: printed p. 28 (PDF 43). Two Ṛks (81.8–81.9) remain after 81.7, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print.
