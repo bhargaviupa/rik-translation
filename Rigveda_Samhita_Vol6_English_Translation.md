@@ -8137,4 +8137,51 @@ Agni, the supporter of all the world like the Sun, established like a king with 
 
 ---
 
-**Progress note:** Printed pp. 1–393 done (PDF 19–411): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.2 complete (73.2's grammar page ends p. 391); **Rik 73.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 391–393) and the Special Topics begun (breaking off at the foot of p. 393); grammar page not yet seen. Next: p. 394 (PDF 412). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.3 (p. 392) compressed [?].
+### Page 394 (PDF 412)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Special Topics of Rik 73.3 (continued)**
+
+- *(Continuation of the first simile:)* "…the shining Sun supports the world by providing the means of rain and the like for the world; likewise the shining Agni supports the whole world by providing the means of sacrifice and the like. The sentence *hitamitro na rājā pṛthivīm upakṣeti*, which carries the figure of simile, is also said as a comparison: a king has friends who do what is agreeable to him; Agni does good to the world. The king lives in comfort, the object of the love of all the people; Agni too, like this king, being an object of the love of all the people, lives comfortably on the sacrificial altar; hence *hitamitratva* ('having friendly friends'), and the quality of being dear to all people, in him and in the king, are alike. These two sentences stand to each other in the manner of illustration; as are the two sentences below, each carrying the figure of simile."
+- **पुरःसदः शर्मसदो न वीराः** — "*Puraḥ* — in front; *sadaḥ* — those who sit. Those who sit in front of Agni sit with pleasure and joy; the sense of 'seated with pleasure' is in the word *śarmasadaḥ*. Sāyaṇa and Skandasvāmin have each given different meanings for the sentence *vīrā iva śarmasadaḥ*. Agni protects those who are in front of him as a father protects his children. Therefore, as the children in the father's house are *śarmasadaḥ*, 'seated happily', the affection that Agni has for those who serve him is shown; this affection is like that of a father for his own children — so the purport (Sā. Bhā.).
+
+  *Purassadaḥ — senāyāḥ agrato vyavasthātāraḥ* — 'those who are stationed at the front of the army'. *Śarma* — battle, sacrifice, happiness; *tadarthaṃ sīdantīti śarmasadaḥ*; *yathā ca śarmasado purassado na vīrāḥ śatrūn abhibhavitāraḥ tadvad abhibhavatīty arthaḥ* — 'as the heroes who stay in front, ready to enjoy the happiness that results from the sacrifice of battle, overcome their enemies, so Agni, enjoying the happiness that results from sacrifice, produces the same for those who sacrifice, and overcomes the enemies; and he causes them to be overcome' — thus Skandasvāmin explains."
+- **अनवद्या पतिजुष्टेव नारी** — "*Patijuṣṭā patisevitā* — 'she who is accompanied by a husband; wifely devotion and purity': in the same way, Agni is pure, so Sāyaṇa's explanation. *Anavadyā* — *rūpavatī*; *bhartṛsevitā nārī śobhate nityaprītiyuktā vā tadvat śobhate nityaprītiyukto vā* — 'a woman possessed of beauty, who, serving her husband and so being the object of his love, shines with lustre; so Agni too shines, endowed with beauty, endowed with the quality of constant affection' — so Skandasvāmin explains."
+
+---
+
+### Page 395 (PDF 413)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 73.3 (concluded)**
+
+- **विश्वधायाः** — *dhet pāne* | *sarvāhutilakṣaṇam ājyādipeyaṃ yasya saḥ | sarvāsām āhutīnāṃ pātā* — "from the root *dhe* 'to drink', the word *dhāya* is formed. Explaining the word *dhāya* as 'supporter', Sāyaṇa says that Agni supports everything; Skandasvāmin explains the word *dhāyaḥ* as 'a drinkable substance (that which is fit to drink — milk and the like)', and says that Agni is one who drinks all oblations in liquid form, such as ghee."
+- **वीराः** — *vīravantaḥ kalyāṇavīrā vā | vīro vīrayatyamitrān veter vā gatikarmaṇaḥ vīrayater vā* — "'those who have heroes', or 'those who have good heroes'. The word *vīra* denotes one who destroys enemies in many ways, or one who goes forth facing enemies."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.3, noted briefly; not transcribed)*
+
+Words treated: *viśvadhāyāḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; by the Uṇādi sūtra *gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca*, Uṇ. [4-?], for this root with a *kāraka* first member, the affix *asun* by *vahihādhāñbhyaś chandasi*, Uṇ. [4-?]; by *ṇit* continued from *vaser ṇit*, Uṇ. [4-?], the *asun* is *ṇit*, so *yuk* for the root ending in *ā* by *āto yuk ciṇkṛtoḥ*, Pā. [7-3-33]; the paribhāṣā *ādyantau ṭakitau* makes it a final augment, since it is *kit*; the form *viśvadhāyas*; before *su*, lengthening of the penultimate by *ātvasantasya cādhātoḥ*; loss of *su* by *halṅyābbhyaḥ…*; *ru*, visarga; in the *marudvṛdhādi* group, so the first member's final acute). *upakṣeti* (prefix *upa*; root *kṣi nivāsagatyoḥ*; *laṭ*, third person singular, *tip*; loss of the vikaraṇa by *bahulaṃ chandasi*; guṇa of the root's *i* by *sārvadhātukārdhadhātukayoḥ*; since the word *yaḥ* before it is connected, by *yaddhṛttānnityam*, Pā. [8-1-66], nighāta is prohibited; the root accent remains; since the *tiṅ* is *pit*, the ending is anudātta; since the *tiṅanta* follows, by *tiṅ ci codāttavati*, Pā. [8-1-71], the *gati* [*upa*] takes nighāta [as read]). *hitamitraḥ* (*hitāni mitrāṇi yasya*; bahuvrīhi; by *bahuvrīhau prakṛtyā pūrvapadam* the first member's natural accent). Continued on p. 396. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 396 (PDF 414)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.3 (concluded; noted briefly)**
+
+*puraḥsadaḥ* ("they sit in front"; root *ṣadḷ viśaraṇagatyavasādaneṣu*; *kvip ca*; by *gatikārakopapadāt kṛt* the second member's natural accent; in *śarmasadaḥ* the same process). *anavadyā* ("one in whom there is no fault"; bahuvrīhi; by *nañsubhyām*, Pā. [6-2-172], final acute of the second member; since it ends in *ā*, by *halṅyābbhyo…* loss of *su*). *patijuṣṭeva* (*patyā juṣṭā*; instrumental tatpuruṣa; by *tṛtīyā karmaṇi* the first member's natural accent; the root *juṣ* in the sense of serving [accepting], with *kta*, becomes *juṣṭā* by *ṣṭutva*). *nārī* (*nṛnarayor vṛddhiś ca*, Pā. [4-1-?], a gaṇasūtra, read in the *śārṅgaravādi* class, the *ṅīn* affix comes in the feminine; the *vṛddhi* comes by the gaṇasūtra, giving *nārī*; since it is *nit*, by *ñnityādir nityam* the initial acute). Ends "॥ ३ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.4** *(printed Ṛk "4 ||")*
+
+> तं त्वा नरो दम आ नित्यमिद्धमग्ने सचंत क्षितिषु ध्रुवासु ।
+> अधि द्युम्नं नि दधुर्भूर्यस्मिन्भवा विश्वायुर्धरुणो रयीणाम् ॥ ४ ॥
+
+*taṃ tvā naro dama ā nityam iddham agne sacanta kṣitiṣu dhruvāsu |
+adhi dyumnaṃ ni dadhur bhūry asmin bhavā viśvāyur dharuṇo rayīṇām ||4||*
+
+---
+
+**Progress note:** Printed pp. 1–396 done (PDF 19–414): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.3 complete (73.3's Special Topics and grammar page on pp. 394–396); **Rik 73.4** (printed "4 ||") — Saṃhitā done (p. 396). Next: p. 397 (PDF 415), the Pada and the Sāyaṇa-bhāṣya of Rik 73.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Special Topics on p. 394 compressed [?].
