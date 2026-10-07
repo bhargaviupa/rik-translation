@@ -1911,4 +1911,89 @@ asaṃyatto vrate te kṣeti puṣyati bhadrā śaktir yajamānāya sunvate ||3|
 
 ---
 
-**Progress note:** Printed pp. 1–70 done (PDF 16–85) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.3 complete** (the Special Topics of 83.3, including the *havirdhāna* explanation and the quoted Ṛk 10-[13]-1, on pp. 68–69; grammar pp. 69–70). Next: printed p. 71 (PDF 86) — Rik 83.4. Three Ṛks (83.4–83.6) remain, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64; the *Pravargya* application sūtra on p. 66 compressed; the quoted Ṛk's gloss on p. 68 tentative; *bhadi*/*khadira* spelling on p. 68 [?].
+### Page 71 (PDF 86)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 83.4**
+
+> आदङ्गिराः प्रथमं दधिरे वय इद्धाग्नयः शम्या ये सुकृत्यया ।
+> सर्वं पणेः समविन्दन्त भोजनमश्वावन्तं गोमन्तमा पशुं नरः ॥ ४ ॥
+
+*ād aṅgirāḥ prathamaṃ dadhire vaya iddhāgnayaḥ śamyā ye sukṛtyayā |
+sarvaṃ paṇeḥ sam avindanta bhojanam aśvāvantaṃ gomantam ā paśuṃ naraḥ ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आत् । अङ्गिराः । प्रथमम् । दधिरे । वयः । इद्धऽअग्नयः । शम्या ।
+> ये । सुऽकृत्यया ।
+> सर्वम् । पणेः । सम् । अविन्दन्त । भोजनम् । अश्वऽवन्तम् । गोऽमन्तम् । आ । पशुम् । नरः ॥ ४ ॥
+
+*āt | aṅgirāḥ | prathamam | dadhire | vayaḥ | iddha-agnayaḥ | śamyā | ye | su-kṛtyayā | sarvam | paṇeḥ | sam | avindanta | bhojanam | aśva-vantam | go-mantam | ā | paśum | naraḥ ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 83.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> यदा पणिभिर्गावोऽपहृतास्तदानीमङ्गिरा आङ्गिरसः प्रथमं पूर्वमग्रतो वयो हविर्लक्षणमन्नं दधिरे । इन्द्रार्थं सम्पादितवन्तः । आदनन्तरं ताद्दृशा येऽङ्गिरस इद्धाग्नयः प्रज्वलिताग्नियुक्ताः सन्तः सुकृत्यया शोभनकरणोपेतया शम्या कर्मणा शोभनेन यज्ञेनेन्द्रमयजन्निति शेषः । ते नरो यज्ञस्य नेतारोऽङ्गिरसः पणेरेतन्नाम्नोऽसुरस्य संबन्धि सर्वं भोजनं धनं समविन्दन्त । समलभन्त । कीदृशं । अश्वावन्तं अश्वैर्युक्तं गोमन्तं गोभिर्युक्तं । आकारः समुच्चयार्थे । गवाश्वव्यतिरिक्तमन्यत्पशुजातं च समविन्दन्त ॥ अङ्गिराः । सुपां सुलुगिति जसः सुः । शम्या । शमीति कर्मनाम । शाम्यत्यनया क्रियया दोषजातमिति शमी । शम उपशमे । करणे घञ् । नोदात्तोपदेशस्य मान्तस्यानाचमेः । पा. ७-३-३४ । इति वृद्धिप्रतिषेधः । गौरादित्वात् ङीष् । वृत्त्ययेनाद्युदात्तत्वम् । सुकृत्यया । शोभनं कृत्यं करणं यस्यां सा तथोक्ता । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् ॥ ४ ॥
+
+*yadā paṇibhir gāvo 'pahṛtās tadānīm aṅgirā āṅgirasaḥ prathamaṃ pūrvam agrato vayo havirlakṣaṇam annaṃ dadhire | indrārthaṃ saṃpāditavantaḥ | ādanantaraṃ tādṛśā ye 'ṅgirasa iddhāgnayaḥ prajvalitāgniyuktāḥ santaḥ sukṛtyayā śobhanakaraṇopetayā śamyā karmaṇā śobhanena yajñenendram ayajann iti śeṣaḥ | te naro yajñasya netāro 'ṅgirasaḥ paṇer etannāmno 'surasya saṃbandhi sarvaṃ bhojanaṃ dhanaṃ samavindanta | samalabhanta | kīdṛśaṃ | aśvāvantaṃ aśvair yuktaṃ gomantaṃ gobhir yuktaṃ | ākāraḥ samuccayārthe | gavāśvavyatiriktam anyat paśujātaṃ ca samavindanta || aṅgirāḥ | supāṃ suluk iti jasaḥ suḥ | śamyā | śamīti karmanāma | śāmyaty anayā kriyayā doṣajātam iti śamī | śama upaśame | karaṇe ghañ | nodāttopadeśasya māntasyānācameḥ | pā. 7-3-34 | iti vṛddhipratiṣedhaḥ | gaurāditvāt ṅīṣ | vṛttyayenādyudāttatvam | sukṛtyayā | śobhanaṃ kṛtyaṃ karaṇaṃ yasyāṃ sā tathoktā | nañsubhyām ity uttarapadāntodāttatvam || 4 ||*
+
+*Sense:* "When the cows had been carried off by the Paṇis, then the Aṅgirasas — the descendants of Aṅgiras — first of all (*prathamam*), in the beginning, prepared (*dadhire*) *vayas*, food in the form of oblation, for Indra. Afterwards those Aṅgirasas, with their fires kindled (*iddhāgnayaḥ*), offered sacrifice to Indra with *śamyā* — rite, with a good sacrifice — *sukṛtyayā*, with good performance. Those *naraḥ*, leaders of the sacrifice, the Aṅgirasas, obtained (*samavindanta*) all the *bhojana*, wealth, belonging to the Paṇi, an asura of that name — wealth *aśvāvantam* (with horses), *gomantam* (with cows); the word *ā* is in the sense 'and' — and also other kinds of animals besides cows and horses." *The grammatical tail* (characterized): *aṅgirāḥ* — *su* for *jas* by "supāṃ suluk…"; *śamyā* — *śamī* is a name of 'rite' (*karman*): the instrument by which faults are quieted; the root *śama upaśame*, *ghañ* in the sense of instrument, with vṛddhi prohibited (Pā. 7-3-34); *ṅīṣ* as the word is in the *gaurādi* group; *sukṛtyayā* — a *bahuvrīhi*, with final-udātta by "nañsubhyām"."
+
+### Page 72 (PDF 87)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 83.4** *(Kannada)*
+
+- **अङ्गिराः** — "the Aṅgirasas"
+- **प्रथमम्** — "first"
+- **वयः** — "food in the form of oblation"
+- **दधिरे** — "(for Indra) they prepared"
+- **आत्** — "afterwards"
+- **ये** — "those Aṅgirasas who"
+- **इद्धाग्नयः** — "kindling the fire (well)"
+- **सुकृत्यया** — "with excellent equipment"
+- **शम्या** — "with the rite (offering sacrifice addressed to Indra)"
+- **नरः** — "(the Aṅgirasas) who were the ones who set up the sacrifice"
+- **पणेः** — "(belonging to) the demon called Paṇi"
+- **अश्वावन्तम्** — "provided with horses"
+- **गोमन्तम्** — "provided with cows"
+- **सर्वं भोजनम्** — "all wealth (and)"
+- **पशुम् आ** — "other animals as well"
+- **समविन्दन्त** — "obtained."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 83.4** *(Kannada)*
+
+"The Aṅgirasas, harassed by the Paṇi, first of all prepared food in the form of oblation for Indra. Afterwards they kindled the fire and sacrificed with an excellent rite. Such Aṅgirasas, the arrangers of the sacrifice, by Indra's favour, obtained all the wealth of the demon called Paṇi — with horses, with cows, and with other animals as well."
+
+**English Translation** *(printed in English in the source)*
+
+"The Angirasas first prepared the sacrificial food for Indra and then with well-kindled fire worshipped him with well-conducted rites ; they, the performers of the sacrifice got all the wealth of Pani, consisting of horses cows and other animals." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.4)**
+
+- **अङ्गिराः** — "the ṛṣis called Aṅgirasas: those descended from the famous ṛṣi named Aṅgiras. They are known as expert in sacrifices. Concerning them we have written many times before; see Ṛgveda Saṃhitā Part 1, p. 640."
+- **शम्या** — *karmaṇā* — "by rites such as sacrifice. Among the twenty-six names of action beginning *apaḥ, apnaḥ* the word *śamī* is read (Ni. [2-1] [?])."
+
+### Page 73 (PDF 88)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 83.4, continued:*
+
+- **सुकृत्यया** — "*śobhanakaraṇopetayā* — 'with the best equipment, with all the materials of the rite properly gathered'; *well-conducted; according to the rites*."
+- **पणेः** — "of the Paṇi, an asura of that name. This Paṇi carried off the cows of the gods and hid them in a cave. It is well known that Indra, with the help of the Maruts, freed and brought them back. About the Paṇi we have already written in detail; see Ṛgveda Saṃhitā Part 2, p. 630."
+- **भोजनम्** — "among the twenty-eight names of wealth beginning *maghaṃ reṇkaḥ* the word *bhojanam* is read; so *bhojanam* means 'wealth' (Ni. [2-10] [?])."
+- **अश्वावन्तम्** — "(wealth) with horses." — **गोमन्तम्** — "provided with cows."
+- **पशुम्** — "animals other than horses, cows and the like, that is, sheep, goats, buffaloes and so on."
+- **आ** — "'and': this word here conveys the sense of 'together with'."
+- **नरः** — "the first-case plural. *Te naraḥ* means those Aṅgirasa ṛṣis who performed the sacrifice."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.4)** *(grammar page, noted briefly; begins here)*
+
+- **अङ्गिराः** — the first-case plural *jas* added to *aṅgiras*; by "supāṃ suluk…" (Pā. Sū. 7-1-39) the substitute *su* for *jas*; since the stem ends in *as*, by "atvasantasya cādhātoḥ" (Pā. Sū. 6-4-14) the penultimate is lengthened; by "sko ḥ saṃyogādyor ante ca" (Pā. Sū. 8-2-29) the initial *s* of the conjunct is dropped.
+- **शम्या** — *śamī* is the name of a rite: *śāmyaty anayā kriyayā doṣajātam iti śamī* ("the faults are quieted by this act"). The root *śama upaśame*; the affix *ghañ* in the sense of instrument; when *am+a* stands, by "ata upadhāyāḥ" (Pā. Sū. 7-2-116) vṛddhi would arise; but "nodāttopadeśasya māntasyānācameḥ" (Pā. Sū. 7-3-34) prohibits vṛddhi for a root ending in *m* which has an anudātta-*upadeśa* — so no vṛddhi for the root; since it is read in the *gaurādi* group, by "ṣiḍgaurādibhyaś ca" (Pā. Sū. 4-1-41) *ṅīṣ*… *(continues on p. 74)*
+
+---
+
+**Progress note:** Printed pp. 1–73 done (PDF 16–88) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.3 complete**; **Rik 83.4** — Saṃhitā, Pada, bhāṣya (p. 71), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 72–73) done; its grammar page is begun on p. 73 (*aṅgirāḥ*, *śamyā*) and continues on p. 74 (PDF 89). Next: printed p. 74 (PDF 89). Two Ṛks (83.5–83.6) remain after 83.4, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68.
