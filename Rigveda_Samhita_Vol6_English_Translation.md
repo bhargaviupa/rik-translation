@@ -6708,4 +6708,76 @@ nabho na rūpaṃ jarimā mināti purā tasyā abhiśaster adhīhi ||10||*
 
 ---
 
-**Progress note:** Printed pp. 1–328 done (PDF 19–346): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.9 complete (71.9: Special Topics and grammar page on pp. 326–328); **Rik 71.10** (the last; printed "10 ||") — Saṃhitā and Pada done (p. 328). Next: p. 329 (PDF 347), the Sāyaṇa-bhāṣya of Rik 71.10; then the closing line of Sūkta 71 and Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 326–327 (as read, glosses mine and tentative) doubtful [?]; the Pada reading "viduḥ" of 71.10 [?].
+### Page 329 (PDF 347)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.10** *(Sanskrit in Kannada script; main sense transcribed, the grammatical tail characterized; doubtful places [?])*
+
+> हे अग्ने पित्र्याणि पितरं वसिष्ठमुपक्रम्यागतानि सख्या सखित्वानि मा प्र मर्षिष्ठाः । मा विनाशय । अत्र मृष्यतेरुपसर्गवशादर्थांतरे वृत्तिः । यतस्त्वं कविः क्रांतदर्शी सन् अभ्याभिमुख्येन विदुः सर्वं विद्वान् । नभो न रूपं । यथांतरिक्षं रूपवंतः सूर्यरश्मय आच्छादयंति तद्वदाच्छादयति । जरिमा जरा मिनाति । मां सूक्तप्रेष्ठारं हिनस्ति । अभिशस्तेर्हिंसाहेतोस्तस्या जरायाः पुराधीहि । मां बुध्यस्व । सा यथा न प्राप्नोति तथा कुरु । अमृतत्वं प्रयच्छेति यावत् ॥ सख्या । सख्युर्भावः सख्यम् । सख्युर्यः । पा. [५-१-१२६?] इति यः प्रत्ययः । रीङृत इति । पा. [६-४-२८?] इति रीङादेशः । यस्येति चेतीकारलोपः । यतोऽनाव इत्याद्युदात्तत्वं । मर्षिष्ठाः । मृषु तितिक्षायां । प्रार्थनायां छांदसो लुङ् । न माङ्योगे इत्यडभावः । विदुः । विद ज्ञाने । बहुलमन्यत्रापीत्यसिप्रत्ययः । अत एव बहुलवचनाद्गुणाभावः । छंदसि वाप्राप्नोतिशयोः । पा. [८-३-४९?] इति विसर्जनीयस्य षत्वं । नभः । नहेर्दिवि भश्च । उ. [४-२००?] इत्यसुन् । जरिमा । ज्यष् वयोहानौ । उणादिको भाव इमनिच्प्रत्ययः । मिनाति । मीञ् हिंसायां । प्वादीनां ह्रस्व इति ह्रस्वत्वं । अभिशस्तेः । अभिशस्यते हिंस्यतेऽनयेत्यभिशस्तिः । करणे क्तिन् । ताडा चेति गतेः प्रकृतिस्वरत्वं । अधीहि । इक् स्मरणे । लोट्यादित्वाच्छपो लुक् । हेरपित्त्वेन जित्त्वाद्गुणाभावः ॥
+
+*he agne pitryāṇi pitaraṃ vasiṣṭham upakramyāgatāni sakhyā sakhitvāni mā pra marṣiṣṭhāḥ | mā vināśaya | atra mṛṣyater upasargavaśād arthāntare vṛttiḥ | yatas tvaṃ kaviḥ krāntadarśī san abhy ābhimukhyena viduḥ sarvaṃ vidvān | nabho na rūpaṃ | yathāntarikṣaṃ rūpavantaḥ sūryaraśmaya ācchādayanti tadvad ācchādayati | jarimā jarā mināti | māṃ sūktapreṣṭhāraṃ hinasti | abhiśaster hiṃsāhetos tasyā jarāyāḥ purādhīhi | māṃ budhyasva | sā yathā na prāpnoti tathā kuru | amṛtatvaṃ prayaccheti yāvat || sakhyā | sakhyur bhāvaḥ sakhyam | sakhyur yaḥ | pā. [5-1-126?] iti yaḥ pratyayaḥ | rīṅ ṛta iti | pā. [6-4-28?] iti rīṅādeśaḥ | yasyeti cetīkāralopaḥ | yato 'nāva ity ādyudāttatvaṃ | marṣiṣṭhāḥ | mṛṣu titikṣāyāṃ | prārthanāyāṃ chāndaso luṅ | na māṅyoge ity aḍabhāvaḥ | viduḥ | vida jñāne | bahulam anyatrāpīty asipratyayaḥ | ata eva bahulavacanād guṇābhāvaḥ | chandasi vāprāpnotiśayoḥ | pā. [8-3-49?] iti visarjanīyasya ṣatvaṃ | nabhaḥ | naher divi bhaś ca | u. [4-200?] ity asun | jarimā | jyaṣ vayohānau | uṇādiko bhāva imanic pratyayaḥ | mināti | mīñ hiṃsāyāṃ | pvādīnāṃ hrasva iti hrasvatvaṃ | abhiśasteḥ | abhiśasyate hiṃsyate 'nayety abhiśastiḥ | karaṇe ktin | tāḍā ceti gateḥ prakṛtisvaratvaṃ | adhīhi | ik smaraṇe | loṭy āditvāc chapo luk | her apittvena jittvād guṇābhāvaḥ ||*
+
+*(Reading note: the print of the grammatical tail is very small; the words "sakhyur yaḥ", "rīṅ ṛtaḥ", "pvādīnāṃ", "tāḍā ca" and all sūtra numerals are doubtful [?].)*
+
+*Meaning:* O Agni, do not destroy (*mā pra marṣiṣṭhāḥ*) our friendships (*sakhyā*) that come down from our forefather (*pitryāṇi*), beginning with Vasiṣṭha. Because you are a seer (*kavi*) — one who sees beyond — knowing all (*viduḥ*), think of me. As the sky is covered by the sun's rays with their forms (*nabho na rūpam*), so old age (*jarimā*) covers me [and] destroys me, the best praiser in hymns. Before (*purā*) that decay, the cause of injury, [reaches me], awake me (*adhīhi*); so act that it does not reach me; that is, give me immortality.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *pitryāṇi* — belonging to the forefathers (come down from Vasiṣṭha); *sakhyā* — the friendships; *kaviḥ san* — being the seer, *abhi viduḥ* — knowing everything (you); *mā pra marṣiṣṭhāḥ* — do not destroy; *jarimā* — old age; *rūpam* — the light; *nabho na* — as the sky; *mināti* — is injured (is destroyed); *abhiśasteḥ* — the cause of injury; *tasyāḥ* — than that old age; *purā* — before; *adhīhi* — awaken (me).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni, the one who knows the past, present and future! Do not destroy our friendship with our forefathers that has come down from the time of Vasiṣṭha and the others. As the sun's rays cover the whole sky, so old age covers me. Before this injurious old age (that is, before it arrives) awaken me (give me immortality).
+
+---
+
+### Page 330 (PDF 348)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Dissolve not, Agni, our ancestral friendship, for you are cognizant of the past as well as of the present; in like manner as light (speeds over) the sky, so decay impairs (my body); think of me before that source of destruction (prevails).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "Because Agni's friendship has continued as an unbroken line of descent, and because the sages of this seer's family were such excellent recipients of Agni's friendship, and because Agni can know the entire earlier history with his divine sight — the prayer is that Agni may even now protect with the same favour, and, before old age comes and he becomes subject to various injuries, may give immortality."
+- **पित्र्याणि** — *pitaraṃ vasiṣṭham upakramyāgatāni* — "friendships that came down starting from the sage Vasiṣṭha. If one considers the relationship between the sage Vasiṣṭha, of whom this Ṛk speaks, and Agni, and the relationship between Agni and Mitra-Varuṇa as suggested in the previous Ṛk, it is evident that the relationship of Agni to Vasiṣṭha is very close. For Vasiṣṭha is the son of Mitra and Varuṇa, as:
+
+  > उतासि मैत्रावरुणो वसिष्ठोर्वश्या ब्रह्मन्मनसोऽधि जातः ।
+  > *utāsi maitrāvaruṇo vasiṣṭhorvaśyā brahman manaso 'dhi jātaḥ* (Ṛk. Saṃ. [7-33-11?])
+
+  is known from the Ṛk Saṃhitā's own words. That Vasiṣṭha was a devotee of Agni and praised Agni is also well known from the Ṛk Saṃhitā itself. As the Bṛhaddevatā says:
+
+  > ऋषिस्तु मैत्रावरुणिः सूक्तैः षोळशभिः परैः ।
+  > तुष्टावाग्निमिति त्वग्निमाप्रीस्तस्य जुषस्व नः ॥
+  > *ṛṣis tu maitrāvaruṇiḥ sūktaiḥ ṣoḷaśabhiḥ paraiḥ | tuṣṭāvāgnim iti tvagnim āprīs tasya juṣasva naḥ ||* (Bṛ. De. [3-1?], as read, doubtful)
+
+  — from this it is known that Vasiṣṭha, the son of Mitra-Varuṇa, praised Agni and composed sixteen sūktas. And the Bṛhaddevatā-writers quote the Bhāllaveya śruti statement that the greatness of the sage Vasiṣṭha is so very great that he and those born in his line should be honoured by being placed in the most excellent positions at sacrifices and the like." *(Glosses mine and tentative: "you are indeed Maitrāvaruṇa, Vasiṣṭha, born from the mind, O priest, of Urvaśī"; the Bṛhaddevatā verse is read from small print.)*
+
+---
+
+### Page 331 (PDF 349)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.10 (continued)**
+
+- *(Bṛhaddevatā, continued)*:
+
+  > तस्माद्ध्यद्यापि वासिष्ठाः सदस्याः स्युस्तु कर्हिचित् ।
+  > अर्हयेद्दक्षिणाभिस्तान् भाल्लवेयी श्रुतिस्त्रियम् ॥
+  > *tasmād dhy adyāpi vāsiṣṭhāḥ sadasyāḥ syus tu karhicit | arhayed dakṣiṇābhis tān bhālaveyī śrutis triyam ||* (Bṛ. De. [1-144?], as read; the second line is doubtful [?])
+
+  "Therefore the friendship of Agni is most celebrated; therefore too the greatness of this line has increased; and now too, as there has been no interruption, with the old pride carried forward, all of us should be shown the way to well-being — this is the prayer made in this Ṛk." *(Gloss mine and tentative: "therefore, even today, Vasiṣṭha's descendants are members of the sacrificial assembly; the Bhāllaveya śruti says they should be honoured with gifts".)*
+- **अभिशस्तेः** — *abhiśasyate hiṃsyate anayā ity abhiśastiḥ* — "by this, one is injured; therefore it is harmful. Describing old age, he prays that before such a destroyer, old age, covers me, immortality may be given."
+- **अधीहि** — *māṃ budhyasva* — "awaken me; that is, 'giving me knowledge of rites, let me, by performing the sacrifice and so on, obtain immortality': such is the intention."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.10, noted briefly; not transcribed)*
+
+Words treated: *agne* (vocative; nighāta by *āmantritasya ca*, Pā. [8-1-19]); *sakhyā* (*sakhyur bhāvaḥ sakhyam*; *yaḥ* by *sakhyuryaḥ* [as read, Pā. [5-1-126]]; loss of the *i* of *sakhi* by *yasyeti ca*; final acute by the affix; in the neuter *śas* → *śi*, and by *śeś chandasi bahulam* the *śi* is lost); *pitryāṇi* (from *pitṛ*, "coming from forefathers"; *yat* in the sense "come from" by *pitur yacca*, Pā. [4-3-79]; before *yat*, *rīṅ* for the *ṛ* by *rīṅ ṛtaḥ*, Pā. [7-4-27]; loss of the *i* by *yasyeti ca*; the form *pitrya*; accusative/nominative plural neuter; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], and the initial acute stands); *marṣiṣṭhāḥ* (root *mṛṣu titikṣāyām* "to bear"; the sense of prayer is evident; Vedic *luṅ* by *chandasi luṅlaṅliṭaḥ*; second person singular, *thās*; *cli* → *sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *ṣatva* by *ādeśapratyayayoḥ*; *ṣṭunā ṣṭuḥ*, the *th* of the affix → *ṭh*; *ru*, visarga for the *s*; since *māṅ* is connected, by *na māṅyoge*, Pā. [6-4-74], no *aḍ*; no nighāta because it follows an *atijanta*… *(continued on p. 332)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–331 done (PDF 19–349): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.9 complete; **Rik 71.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and Special Topics done (pp. 328–331); the grammar page is begun (p. 331, up to *marṣiṣṭhāḥ*). Next: p. 332 (PDF 350), the rest of the grammar page of 71.10 and the closing line of Sūkta 71; then **Sūkta 72**. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Bṛhaddevatā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammatical tail of 71.10 (p. 329) very compressed and doubtful; the Bṛhaddevatā verses on pp. 330–331 doubtful [?].
