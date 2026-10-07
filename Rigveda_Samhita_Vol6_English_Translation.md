@@ -4611,4 +4611,60 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–230 done (PDF 19–248): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1, 68.2 complete; **Rik 68.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar page begun (p. 230, ending at *dāśāt*). Next: p. 231 (PDF 249), the grammar page of Rik 68.3 concludes; then Riks 68.4, 68.5 and the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 231 (PDF 249)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**Grammar page for Rik 68.3, concluded (noted briefly).** **शिक्षात्**: root *śakla śaktau*; since the sense is wishing, by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" the affix *san*; after the *san*-ending stem, the *leṭ*, third person singular, *tip*; by "sanyaṅoḥ" the doubling of the root's [first] one-syllable part; by "sani mīmāghurabhalabhaśakapatapadām ac is" (Pā. Sū. 7-4-54, as read) *is* in place of the *a* of the latter part of the root; by "atra lopo 'bhyāsasya" (Pā. Sū. 7-4-58, as read) the loss of the reduplicative syllable when *is* has come; with *śikṣ + sa*, by "skoḥ saṃyogādyor ante ca" the loss of the *s* that begins the conjunct; with the *k* as cause, *ṣ* for the *s* of *san* [*ādeśapratyayayoḥ*]; *śikṣa* is the *san*-ending stem; by "leṭoḍāṭau" the augment *aṭ* for the affix; here too, since *yaḥ* precedes, no *nighāta*; since *san* is *n*-marked, the initial acute. **चिकित्वान्**: root *kita jñāne*; by "kvasuś ca" (Pā. Sū. 3-2-107, as read) *kvasu* for *liṭ*; since it is *k*-marked, the doubling of the root; the first consonant remains; by "kuhoś cuḥ" *c* for *k*; the word *cikitvas*; in the nominative singular, since *su* follows, by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" and "ato 'tvasantasya cādhātoḥ" [as read] the lengthening of the penultimate of the non-root stem; since *ugit*, the *num* augment by "ugidacām…"; the loss of *su* by "halṅyābbhyo…", and the *s* by the loss of the final conjunct consonant; by the affix accent the *a* of *vas* is acute. **दयस्व**: root *daya dānagatirakṣaṇahiṃsādāneṣu*; because it has an unaccented *it*-marker [*ānudāttetva*], the *ātmanepada*; in the *loṭ*, second person singular, by "savābhyāṃ vāmau" *va* for the *e* [of the *ātmanepada* ending *se*]; since it follows an acute-ending word, the *nighāta* accent. **॥ ५–६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 68.3 ends here (ornamental rule).*
+
+#### Rik 68.4 *(printed "7 || 8 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **होता निषत्तो मनोरपत्ये स चिन्न्वासां पती रयीणाम् ।**
+> **इच्छन्त रेतो मिथस्तनूषु सं जानत स्वैर्दक्षैरमूराः ॥ ७ ॥ ८ ॥**
+> *hotā niṣatto manor apatye sa cin nv āsāṃ patī rayīṇām |*
+> *icchanta reto mithas tanūṣu saṃ jānata svair dakṣair amūrāḥ || 7 || 8 ||*
+
+---
+
+### Page 232 (PDF 250)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **होता । निऽसत्तः । मनोः । अपत्ये । सः । चित् । नु । आसाम् । पतिः । रयीणाम् ।**
+> **इच्छन्त । रेतः । मिथः । तनूषु । सम् । जानत । स्वैः । दक्षैः । अमूराः ॥ ७ ॥ ८ ॥**
+> *hotā | ni-sattaḥ | manoḥ | apatye | saḥ | cit | nu | āsām | patiḥ | rayīṇām |*
+> *icchanta | retaḥ | mithaḥ | tanūṣu | sam | jānata | svaiḥ | dakṣaiḥ | amūrāḥ || 7 || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे अग्ने त्वं मनोरपत्ये यजमानस्वरूपायां प्रजायां होता देवानामाह्वाता सन् निषत्तो निषण्णः । मानव्यो हि प्रजाः । तै. सं. ५-१-५-६ [?] । इति हि ब्राह्मणं । स चिन्नु स एव त्वमासां प्रजानां रयीणां गवादीनां धनानामपि पतिः स्वामी । अतस्ताः प्रजास्तनूष्वात्मीयेषु शरीरेषु मिथः संसृष्टमेकीभूतं पुत्ररूपेण परिणतं रेतो वीर्यमिच्छन्ते । ऐच्छन् । त्वदनुग्रहेण पुत्रमलभन्तेति यावत् । लब्धपुत्राश्च ताः प्रजा अमूरा अमूढाः सत्यः स्वैः स्वकीयैर्दक्षैः समर्थैः पुत्रैः सह सं जानते । सम्यगवगच्छन्ति । चिरकालं जीवन्तीत्यर्थः । यद्वा । दक्षशब्दः प्राणवाची । प्राणो वै दक्षोऽपानः क्रतुरिति श्रुतेः । स्वैर्दक्षैः स्वकीयैः प्राणैरमूराः सङ्गतास्त्वयैव सर्वं जानन्ति ॥ इच्छन्त । व्यत्ययेनात्मनेपदं । जानत । छान्दसो लङ् । ऋयुस्यादेशे श्नाभ्यस्तयोरात इत्याकारलोपः । अमूराः । मूरा अमूरेत्यत्र यास्क एवं व्याचख्यौ । मूढा वयं स्तोऽमूढास्त्वमसि । नि. ६-८ [?] । इति । अतोऽत्राप्यमूरशब्देनामूढत्वमुच्यते । वर्णव्यापत्त्या ढकारस्य रेफः । यद्वा । मुर्छा मोहसमुच्छ्राययोः । अस्मात्संपदादिलक्षणो भावे क्विप् । रालोपे इति छलोपः । रो मत्वर्थीयः । न मूरा अमूराः । अथवा । अम गत्यादिषु । अस्मादौणादिक ऊरन्प्रत्ययः ॥**
+> *he agne tvaṃ manor apatye yajamānasvarūpāyāṃ prajāyāṃ hotā devānām āhvātā san niṣatto niṣaṇṇaḥ | mānavyo hi prajāḥ | tai. saṃ. 5-1-5-6 [?] | iti hi brāhmaṇaṃ | sa cin nu sa eva tvam āsāṃ prajānāṃ rayīṇāṃ gavādīnāṃ dhanānām api patiḥ svāmī | atas tāḥ prajās tanūṣv ātmīyeṣu śarīreṣu mithaḥ saṃsṛṣṭam ekībhūtaṃ putrarūpeṇa pariṇataṃ reto vīryam icchante | aicchan | tvadanugraheṇa putram alabhanteti yāvat | labdhaputrāś ca tāḥ prajā amūrā amūḍhāḥ satyaḥ svaiḥ svakīyair dakṣaiḥ samarthaiḥ putraiḥ saha saṃ jānate | samyag avagacchanti | cirakālaṃ jīvantīty arthaḥ | yadvā | dakṣaśabdaḥ prāṇavācī | prāṇo vai dakṣo 'pānaḥ kratur iti śruteḥ | svair dakṣaiḥ svakīyaiḥ prāṇair amūrāḥ saṅgatās tvayaiva sarvaṃ jānanti || icchanta | vyatyayenātmanepadaṃ | jānata | chāndaso laṅ | ṛyusyādeśe śnābhyastayor āta ity ākāralopaḥ | amūrāḥ | mūrā amūretyatra yāska evaṃ vyācakhyau | mūḍhā vayaṃ stoʼmūḍhās tvam asi | Ni. 6-8 [?] | iti | ato 'trāpy amūraśabdenāmūḍhatvam ucyate | varṇavyāpattyā ḍhakārasya rephaḥ | yadvā | murchā mohasamucchrāyayoḥ | asmāt saṃpadādilakṣaṇo bhāve kvip | rāllope iti chalopaḥ | ro matvarthīyaḥ | na mūrā amūrāḥ | athavā | ama gatyādiṣu | asmād auṇādika ūranpratyayaḥ ||*
+> *"O Agni, you, in the **manor apatye** — in the offspring of Manu, i.e. the progeny in the form of sacrificers — sat down (**niṣattaḥ**) as **hotā**, the caller of the gods; for the progeny is of Manu: so says the Brāhmaṇa (Tai. Saṃ. 5-1-5-6, as read, ?). **Sa cin nu**, you indeed are **patiḥ**, lord, **āsāṃ rayīṇām** — of these progeny's riches, of wealth such as cattle. Therefore those people **icchanta** — desired — **retaḥ**, vital seed, **mithaḥ**, mingled, united, turned into a son, **tanūṣu**, in their own bodies; i.e. by your favour they obtained a son. And having obtained sons, those people, **amūrāḥ**, not confused, **svair dakṣaiḥ**, with their own able sons, **saṃ jānate** — understand well; i.e. live long. Or: *dakṣa* denotes the vital breath, as the śruti says 'the vital breath is *dakṣa*; the *apāna* is *kratu*'; with their own vital breaths, unconfused, they know everything, joined with you alone. **Icchanta**: *ātmanepada* by exchange. **Jānata**: Vedic *laṅ*; the loss of *ā* by 'śnābhyastayor ātaḥ' where *śnā*-substitute arises. **Amūrāḥ**: Yāska explains '*mūrā*, *amūrā*': 'we are confused, you are unconfused' (Ni. 6-8, as read, ?); hence here too *amūra* means 'unconfused'; *r* in place of *ḍh* by a change of letters; or: root *murchā mohasamucchrāyayoḥ*; *kvip* in the sense of *bhāva*…; *ra*… 'not confused' is *amūrāḥ*; or: root *ama* in the sense of motion etc., with the Uṇādi affix *ūran*."* *(Grammar tail characterized; the *amūra* etymologies are compressed in the print and doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 233)*
+
+*(Agni —)* **O Agni**; **मनोरपत्ये** — among the people who are sacrificers; **होता** — as the invoker of the gods; **निषत्तः** — one who is seated; **स चित् नु** — you indeed; **आसाम्** — of these people; **रयीणाम्** — of riches; **पतिः** — lord; **तनूषु** — in their own bodies; **मिथः** — [seed] united; **रेतः** — vital seed; **इच्छन्त** — they desire; **अमूराः** — unconfused; **स्वैः** — their own; **दक्षैः** — [with] able [sons]; **सं जानत** — they know well (live long).
+
+---
+
+### Page 233 (PDF 251)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* O Agni, you are the invoker of the gods for the sacrificers, and the lord of their riches. From you they obtain vital seed that gives offspring; and, with their able sons (by your favour), they live long.
+
+**English Translation** *(the source's own, as printed):*
+
+> You have abided with the descendants of Manu as the invoker (of the gods) ; you are indeed the lord of their possessions ; They have desired (of you) procreative vigour in their bodies, and associated with their own excellant [sic] offspring, they contemplate (all things) undisturbed.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **मनोरपत्ये** — "among the fifteen names of 'son' beginning *tuk, tokam, tanayaḥ* (Ni. [2-2]) the word *apatya* is read; so here *Manu's apatya*, the offspring of Manu, means the people who sprang from Manu, i.e. men. The śruti says '*mānavyo hi prajāḥ*' (Tai. Saṃ. 5-1-5-6, as read, ?). The people of this kind are in the form of sacrificers; when they perform a sacrifice, Agni, in his own form, calls the gods to accept the oblations of each. This same meaning is given in '*prajāyāṃ hotā devānām āhvātā san agniḥ niṣattaḥ niṣaṇṇaḥ*'."
+
+---
+
+**Progress note:** Printed pp. 1–233 done (PDF 19–251): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1–68.3 complete; **Rik 68.4** (half-Ṛks 7–8) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics begun (p. 233). Next: p. 234 (PDF 252), the rest of the Special Topics and the grammar page of Rik 68.4; then Rik 68.5 and the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the *amūra* etymologies in 68.4 [?]; accent marks of the Saṃhitā/Pada not reproduced.
