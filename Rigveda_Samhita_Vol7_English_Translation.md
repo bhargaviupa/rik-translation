@@ -1035,4 +1035,56 @@ yadā naḥ sūnṛtāvataḥ kara ād arthayāsa id yojā nv indra te harī ||1
 
 ---
 
-**Progress note:** Printed pp. 1–36 done (PDF 16–51) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54; Varga "4" as read [?]): heading (p. 34), **Rik 82.1** — Saṃhitā, Pada, bhāṣya (with its very compressed grammatical tail, outlined only), Pratipadārtha, Bhāvārtha, English and Special Topics (pp. 34–36) done; the grammar page of 82.1 not yet seen. Next: printed p. 37 (PDF 52). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30) and of the bhāṣya of 82.1 (p. 35).
+### Page 37 (PDF 52)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.1)** *(grammar page, noted briefly; runs to p. 38)*
+
+- **शृणुहि** — the root *śru śravaṇe*, *bhvādi*; *loṭ*, second person singular, with *hi* for *sip*; by "śruvaḥ śṛ ca" (Pā. Sū. 3-1-74) the root takes the substitute *śṛ* and the stem-marker *śnu* takes the place of *śap*; here, in *śṛṇuhi*, by "utaś ca pratyayād asaṃyogapūrvāt" (Pā. Sū. 6-4-106) the *hi* following an *u*-ending affix (not preceded by a conjunct) would be dropped (*luk*); but by the *vārttika* "utaś ca pratyayāc chandasi vāvacanam" the optionality is stated, so the *hi* is not dropped here.
+- **अतथा इव** — *tathaiva ācarati, anantaram ācarati* ("he acts just so") — in this sense the verb *tathāti* is formed; "sarvaprātipadikebhyaḥ kvib vā vaktavyaḥ" (the *vārttika*, Kā. 3-1-11 [?]) — *kvip* comes after all stems in the sense 'acts like it'; since *kvip* is added in the *sanādi* group, the stem takes the root-designation; *strīyāṃ ktin* — under this heading, by "apratyayāt" (Pā. Sū. 3-3-102) the affix *a* (a *kṛt* affix) comes after a root ending in a *pratyaya*; it ends in *a*, so *ṭāp*; *na tathā iva atathā iva* ("not acting so"); by "tatpuruṣe tulyārtha…" (Pā. Sū. 6-2-2) the accent of the first member remains for the indeclinable-first-member compound.
+- **करः** — the root *ḍukṛñ karaṇe*; *luṅ*, second person singular; *cli* after *luṅ*, for which *sic* would be the substitute; here, by "kṛmṛdṛruhibhyaś chandasi" (Pā. Sū. 3-1-59) the substitute *aṅ* for *cli*; by "vyatyayo bahulam" the guṇa to the root, though *aṅ* is *ñit*; by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. Sū. 6-4-75) the augment *aṭ* does not come even without *mā*; *kar+a+s* — *ru* and visarga: *karaḥ*. Here one may doubt that the final should be udātta because *aṅ* replaces *cli* … (the print's scholastic discussion is long: it asks whether the root *kṛ*'s *śap*-form is by *vyatyaya* in the *laṅ*, whether "*ḍukṛñ karaṇe*" is read in the *bhvādi* class, and answers that the form *karat, karati* in Pāṇini's sūtra "kaḥ karat karatikṛdhikṛtapeṣu sadite" (Pā. Sū. 8-3-50) shows the root is only in the Veda; the discussion is characterized, not transcribed.) *(continues on p. 38)*
+
+### Page 38 (PDF 53)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*Grammar of Rik 82.1, continued from p. 37:*
+
+- **करः** (concluded) — "…the argument closes with: 'the form *karati* — Gosvara, the author of the *Nyāsa*, explains the *śap* by *vyatyaya*'; the sūtra is also counted among the Vedic ones, so this root is not read in the *bhvādi*. There is another proof as well: *karat, karati* and the like are accounted for by 'kṛmṛdṛruhibhyaś chandasi', which enjoins *aṅ* for the root *kṛ*; otherwise that enjoining of *aṅ* would be pointless. The doubt that the *luṅ* and *laṅ* differ in sense and so the form should be made in the *luṅ* only is answered by 'chandasi luṅlaṅliṭaḥ' (Pā. Sū. 3-4-6): since in the Veda the *luṅ*, *laṅ* and *liṭ* are enjoined together, no difference of sense arises. In this way the author sets aside the doubt about the root's status; the matter is settled by "vyatyayo bahulam"." *(Characterized, not transcribed in full; the argument is dense and I have kept to its outline.)*
+- **अर्थयासे** — the root *artha yācñāyām*, *curādi*; because it is specially enjoined to be *ātmanepadī* only ("ākusmāt ātmanepadinaḥ"), roots having *ṇic* take only the *ātmanepada* affixes; *leṭ*, second person singular; by "leṭo 'ḍāṭau" (Pā. Sū. 3-4-94) the augment *aṭ* for the *tiṅ* of the *leṭ*; stem-marker *śap*; guṇa and *ay* replacements.
+- **योज** — the root *yujir yoge*, *rudhādi*; in the causative sense, by "hetumati ca" (Pā. Sū. 3-1-26) the affix *ṇic*; with *ṇic*, by "pugantalaghūpadhasya ca" (Pā. Sū. 7-3-86) guṇa of the penultimate; the *ṇyanta* form *yoji* has the root-designation by "sanādyantā dhātavaḥ"; in the sense of command, *loṭ* second person singular with the substitute *hi*; *śap*; "chandasy ubhayathā" (Pā. Sū. 3-4-117) gives *śap* the *ārdhadhātuka* designation; *yoji+a+hi*, by "ṇer aniṭi" (Pā. Sū. 6-4-51) the elision of *ṇi*, since an *aniṭ* *ārdhadhātuka* follows; by "ato heḥ" (Pā. Sū. 6-4-105) the dropping of *hi* after *a*; *yoj+a*; the final *a* of a *tiṅanta* of two syllables is lengthened in the mantra by "dvyaco 'tastiṅaḥ" (Pā. Sū. 6-3-135): *yojā*. ||1||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.2**
+
+> अक्षन्नमीमदन्त ह्यव प्रिया अधूषत ।
+> अस्तोषत स्वभानवो विप्रा नविष्ठया मती योजा न्विन्द्र ते हरी ॥ २ ॥
+
+*akṣann amīmadanta hy ava priyā adhūṣata |
+astoṣata svabhānavo viprā naviṣṭhayā matī yojā nv indra te harī ||2||*
+
+### Page 39 (PDF 54)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अक्षन् । अमीमदन्त । हि । अव । प्रियाः । अधूषत ।
+> अस्तोषत । स्वऽभानवः । विप्राः । नविष्ठया । मती ।
+> योज । नु । इन्द्र । ते । हरी इति ॥ २ ॥
+
+*akṣan | amīmadanta | hi | ava | priyāḥ | adhūṣata | astoṣata | sva-bhānavaḥ | viprāḥ | naviṣṭhayā | matī | yoja | nu | indra | te | harī iti ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.2** *(Sanskrit in Kannada script; doubtful places [?]; the bhāṣya continues on p. 40)*
+
+> हे इन्द्र त्वया दत्तान्यन्नान्यक्षन् । यजमाना भुक्तवन्तः । भुक्त्वा चामीमदन्त हि तृप्ताश्चाभवन् । प्रियः स्वकीयः स्वनूरवाधूषत । अकंपयन् । अतिशयितरसास्वादनेन वक्तुमशक्नुवन्तः शरीराण्यकंपयन् । तदनन्तरं स्वभानवः स्वायत्तदीप्तयो विप्रा मेधाविनस्ते नविष्ठया नवित्तमया [?] मती मत्या स्तुत्यास्तोषत । अस्तुवन् । अन्यत्पूर्ववद्योज्यम् ॥ अक्षन् । अदेर्लुङि लुङ्सनोर्घस्ल्ऌ । पा. २-४-३७ [?] इति घस्लादेशः । मन्त्रे घसेत्यादिना च्लेर्लुक् । गमहनेत्यादिनोपधालोपः । खरि चेति चर्त्वम् । शासिवसिघसीनां चेति षत्वम् । आडागम उदात्तः । आमीमदन्त । मद तृप्तियोगे । चुरादिरात्मनेपदी । लुङि च्लेश्चङि णिलोपोपधाह्रस्वत्वद्विर्भावसन्वद्भावेत्वदीर्घाः । अधूषत । धूञ् कंपने । लुङि सिचि व्यत्ययेन गुणाभावः । यद्वा । छन्दस्युभयथेति सिचः सार्वधातुकत्वेन ङित्त्वात् क्ङिति चेति प्रतिषेधः । अथवा धू विधूनने । तौदादिकः । कुटादिः । अस्मात्कर्मणि लुङः गाङ्कुटादिभ्य इति सिचो ङित्त्वादगुणाभावः । नविष्ठया । णु स्तुतौ । करणभूतायाः अपि स्तुतेः स्वव्यापारे कर्तृत्वात्तृच् । तदन्तात् तुश्छन्दसीतीष्ठन्प्रत्ययः । तुरिष्क मे-
+
+*he indra tvayā dattāny annāny akṣan | yajamānā bhuktavantaḥ | bhuktvā cāmīmadanta hi tṛptāś cābhavan | priyaḥ svakīyaḥ svanūrava [sic: svanūr ava?] adhūṣata | akaṃpayan | atiśayitarasāsvādanena vaktum aśaknuvantaḥ śarīrāṇy akaṃpayan | tadanantaraṃ svabhānavaḥ svāyattadīptayo viprā medhāvinas te naviṣṭhayā navittamayā [?] matī matyā stutyāstoṣata | astuvan | anyat pūrvavad yojyam || akṣan | ader luṅi luṅsanor ghasl̥ | pā. 2-4-37 [?] iti ghaslādeśaḥ | mantre ghasety ādinā cler luk | gamahanety ādinopadhālopaḥ | khari ceti cartvam | śāsivasighasīnāṃ ceti ṣatvam | āḍāgama udāttaḥ | āmīmadanta | mada tṛptiyoge | curādir ātmanepadī | luṅi ceś caṅi ṇilopopadhāhrasvatvadvirbhāvasanvadbhāvetvadīrghāḥ | adhūṣata | dhūñ kaṃpane | luṅi sici vyatyayena guṇābhāvaḥ | yadvā | chandasy ubhayatheti sicaḥ sārvadhātukatvena ṅittvāt kṅiti ceti pratiṣedhaḥ | athavā dhū vidhūnane | taudādikaḥ | kuṭādiḥ | asmāt karmaṇi luṅaḥ gāṅkuṭādibhya iti sico ṅittvād aguṇābhāvaḥ | naviṣṭhayā | ṇu stutau | karaṇabhūtāyā api stuteḥ svavyāpāre kartṛtvāt tṛc | tadantāt tuś chandasīti iṣṭhanpratyayaḥ | turiṣka me-*
+
+*Sense (as far as the page goes):* "O Indra, the sacrificers ate (*akṣan*) the food given by you; having eaten, they were gladdened (*amīmadanta*) and became satisfied. *Priyāḥ* — their own beloved (bodies?) they shook (*adhūṣata*, *akaṃpayan*): unable to speak from the excess of tasting the savour, they made their bodies tremble. Thereafter the *svabhānavaḥ* — those whose radiance is their own, the wise *viprāḥ* — praised (*astoṣata*, *astuvan*) you with *naviṣṭhayā* — a newest [?] — *matī*, praise. The rest is to be connected as before." *The grammatical tail* (characterized): *akṣan* — the *luṅ* of *ad* with *ghasl̥* substituted (Pā. 2-4-37 [?]), *luk* of *cli* in the mantra, loss of the penultimate, *cartva* and *ṣatva*, the augment *āṭ* udātta; *āmīmadanta* — *curādi*, *ātmanepadī*, the *luṅ* with *caṅ*; *adhūṣata* — *dhūñ kaṃpane*, absence of guṇa by *vyatyaya*, or because *sic* is treated as *ṅit*; *naviṣṭhayā* — the root *ṇu stutau* with *tṛc* (as agent), then the *iṣṭhan* affix in the Veda … *(the last word, "turiṣka me-", breaks off at the page foot and continues on p. 40)*.
+
+---
+
+**Progress note:** Printed pp. 1–39 done (PDF 16–54) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): **Rik 82.1 complete** (grammar pp. 37–38, characterized); **Rik 82.2** — Saṃhitā, Pada (p. 38–39) and the bhāṣya to its break at the foot of p. 39 (*turiṣka me-…*) done; the bhāṣya continues on p. 40 (PDF 55). Next: printed p. 40 (PDF 55). Four Ṛks remain after 82.2 (82.3–82.6), then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30) and of 82.1 (pp. 35, 37–38); the bhāṣya of 82.2 (p. 39) read with doubt in two phrases.
