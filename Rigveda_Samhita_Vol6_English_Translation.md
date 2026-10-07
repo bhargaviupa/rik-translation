@@ -7639,4 +7639,61 @@ O Agni! It is through you that the seven great rivers, Gaṅgā and the rest, co
 
 ---
 
-**Progress note:** Printed pp. 1–370 done (PDF 19–388): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.7 complete; **Rik 72.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 366–370) done; the Special Topics may continue on p. 371; the grammar page of 72.8 not yet seen. Next: p. 371 (PDF 389). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.8–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 368–370 (Sanskrit as read, numerals) doubtful, glosses mine and tentative [?].
+### Page 371 (PDF 389)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.8, noted briefly; not transcribed)*
+
+Words treated: *svādhyaḥ* (*su* + *āṅ* as prefixes, root *dhyai cintāyām*; *kvip* in the object-sense by [*kvip ca*]; samprasāraṇa and *pūrvarūpa* by *dhyāyateḥ saṃprasāraṇaṃ ca*; *dhī* after the prefixes *su āṅ*, before *jas* the *yaṇ*-substitution by *eranekāco 'saṃyogapūrvasya*; since *yaṇ* arises in place of an udātta and an ending follows it, the ending gets svarita by *udāttasvaritayor yaṇaḥ svaritaḥ*); *yahvīḥ* (nominative plural of *yahvī*; before *jas*, the lengthening of the earlier similar vowel by *vā chandasi*, as an *ekādeśa*); *rāyaḥ* (*rai*, genitive singular; the ending acute by *ūḍidaṃpadādi…*, Pā. [6-1-171]); *ṛtajñāḥ* ("who know *ṛta*"; root *jñā avabodhane*; *kvip* by *kvip ca*; nominative plural; by *gatikārakopapadāt kṛt*, the second member keeps its natural accent); *ajānan* (root *jñā*; *laṅ*, third person plural, *jhi* → *anta*; loss of *i*; *śnā* by *kryādibhyaḥ śnā*; *jā* for the root by *jñājanor jā*, Pā. [7-3-79]; loss of *ā* by *śnābhyastayor ātaḥ*, Pā. [6-4-112]; loss of the final *t* by *saṃyogāntalopa*; *aḍāgama* of the base; nighāta because it follows an *atijanta*); *vidat* (root *vidḷ lābhe*; *luṅ*, third person singular, *tip*; *i* lost; since the root is *ḷdit*, *aṅ* for *cli* by *puṣādidyutādiḷditaḥ parasmaipadeṣu*, Pā. [3-1-55]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta at the head of a pāda; the *aṅ* accent remains); *gavyam* ("born in the cow", *gavi bhavam*; in all [cases] where *go* would take an affix beginning with a vowel, *yat* in the sense *bhāve, arthe* by *gor ajādiprattyaye yat*, with *yad-vaktavyam*, Pā. [5-1-?]; for the *o* a *av* substitution by *vānto yi pratyaye*, Pā. [6-1-79]; initial acute by *yato 'nāvaḥ*, Pā. [6-1-213]). Continued on p. 372. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 372 (PDF 390)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Grammar page of Rik 72.8 (concluded; noted briefly)**
+
+*ūrvam* (the root *urvī* is read in the sense of injuring; "*ūrvati kṣudhaṃ hinasti*" — "that which destroys hunger", food; in the *pacādi* class, so *ac* by *nandigrahipacādibhyaḥ…*, Pā. [3-1-134]; lengthening of the penultimate before *r* [ra]; the final acute by *citaḥ*; accusative singular); *mānuṣī* (the affix *añ* after the stem *manu*, in the sense "born from", by *manor jātāv añyatau ṣuk ca*, Pā. [4-1-161]; *ṣuk*-augment in connection with it; since the affix is *ñit*, *vṛddhi* of the first vowel by *taddhiteṣv acām ādeḥ*; the feminine, since it ends in *añ*, *ṅīp* by *ṭiḍḍhāṇañ…*; since it is *ṅit* ... the final acute by *ñnityādir nityam*); *bhojate* (root *bhuja pālanābhyavahārayoḥ*; *laṭ*, third person singular, *ta*; *ātmanepada* by *bhujo 'navane*, Pā. [1-3-66]; *ṭita ātmanepadānām ṭer e*; by the *śnam*-type *vikaraṇa* [*rudhādi*] a *śap* is given, by *vyatyaya*; guṇa of the root's *u*; since *yena* has been mentioned earlier, nighāta is prevented, so the root accent remains). Ends "॥ ८ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.9** *(printed Ṛk "9 ||")*
+
+> आ ये विश्वा स्वपत्यानि तस्थुः कृण्वानासो अमृतत्वाय गातुम् ।
+> मह्ना महद्भिः पृथिवी वि तस्थे माता पुत्रैरदितिर्धायसे वेः ॥ ९ ॥
+
+*ā ye viśvā svapatyāni tasthuḥ kṛṇvānāso amṛtatvāya gātum |
+mahnā mahadbhiḥ pṛthivī vi tasthe mātā putrair aditir dhāyase veḥ ||9||*
+
+---
+
+### Page 373 (PDF 391)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 72.9**
+
+> आ । ये । विश्वा । सुऽअपत्यानि । तस्थुः । कृण्वानासः । अमृतऽत्वाय । गातुम् ।
+> मह्ना । महत्ऽभिः । पृथिवी । वि । तस्थे । माता । पुत्रैः । अदितिः । धायसे । वेः । इति वेः ॥ ९ ॥
+
+*ā | ye | viśvā | su-apatyāni | tasthuḥ | kṛṇvānāsaḥ | amṛta-tvāya | gātum | mahnā | mahat-bhiḥ | pṛthivī | vi | tasthe | mātā | putraiḥ | aditiḥ | dhāyase | veḥ | iti veḥ ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.9** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> ये आदित्या अमृतत्वायामरणत्वसिद्ध्यै गातुं मार्गमुपायं कृण्वानासः कुर्वाणाः संतो विश्वा विश्वानि सर्वाणि स्वपत्यानि शोभनान्यपतनहेतुभूतानि चतुर्दशरात्रषट्त्रिंशद्रात्रादित्यानामयनादीनि कर्माण्या तस्थुः आस्थितवंतः । कृतवंत इत्यर्थः । तथा च तैत्तिरीयकं । आदित्या अकामयंत सुवर्गं लोकमियामेति । ते एतं षट्त्रिंशद्रात्रमपश्यन् तमाहरन् तेनायजंतेति च । तै. सं. [७-४-६-१?] । महद्भिरनुष्ठानेन महानुभावैस्तैः पुत्रैः सहिता माता जनयित्र्यदितिर्देवीना पृथिवी धायसे सर्वस्य जगतो धारणाय मह्ना स्वकीयेन महत्त्वेन वि तस्थे । विशेषेण तिष्ठति । हे अग्ने यतस्त्वं वेः आदित्यैरनुष्ठितेषु योगेषु चरुपुरोडाशादीनि हवींष्यभक्षयः । अत एतत्सर्वं जातमित्यर्थः ॥ कृण्वानासः । कृवि हिंसाकरणयोश्च । व्यत्ययेनात्मनेपदं । धिन्विकृण्व्योरच्चेत्युप्रत्ययः । तत्संनियोगेनाकारांतादेशश्च । तस्यातो लोपे सति स्थानिवद्भावान्नुमभावः । शानचश्चित्त्वादंतोदात्तत्वं । आज्जसेरसुक् । मह्ना । महिम्नेत्यस्य वर्णलोपश्छांदसः । धायसे । वहिहाधाञ्भ्यश्छंदसीति दधातेर्भावेऽसुन् । णिदित्त्वनुनस्त्रेरातो युक् चिण्कृतोरिति युक् । वेः । वी गतिप्रजनकांत्यशनखादनेषु । लङि सिप्यदादित्वाच्छपो लुक् । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः । धायस इत्यस्य वाक्यांतरगतेत्वादस्य निघाताभावः ॥
+
+*ye ādityā amṛtatvāyāmaraṇatvasiddhyai gātuṃ mārgam upāyaṃ kṛṇvānāsaḥ kurvāṇāḥ santo viśvā viśvāni sarvāṇi svapatyāni śobhanāny apatanahetubhūtāni caturdaśarātra-ṣaṭtriṃśadrātrādityānām ayanādīni karmāṇy ā tasthuḥ āsthitavantaḥ | kṛtavanta ity arthaḥ | tathā ca taittirīyakaṃ | ādityā akāmayanta suvargaṃ lokam iyāmeti | te etaṃ ṣaṭtriṃśadrātram apaśyan tam āharan tenāyajanteti ca | tai. saṃ. [7-4-6-1?] | mahadbhir anuṣṭhānena mahānubhāvais taiḥ putraiḥ sahitā mātā janayitry aditir devīnā pṛthivī dhāyase sarvasya jagato dhāraṇāya mahnā svakīyena mahattvena vi tasthe | viśeṣeṇa tiṣṭhati | he agne yatas tvaṃ veḥ ādityair anuṣṭhiteṣu yogeṣu carupuroḍāśādīni havīṃṣy abhakṣayaḥ | ata etat sarvaṃ jātam ity arthaḥ || kṛṇvānāsaḥ | kṛvi hiṃsākaraṇayoś ca | vyatyayenātmanepadaṃ | dhinvikṛṇvyor ac ceti u-pratyayaḥ | tatsaṃniyogenākārāntādeśaś ca | tasyāto lope sati sthānivadbhāvān numabhāvaḥ | śānacaś cittvād antodāttatvaṃ | āj jaser asuk | mahnā | mahimnety asya varṇalopaś chāndasaḥ | dhāyase | vahihādhāñbhyaś chandasīti dadhāter bhāve 'sun | ṇidittvanunastrer āto yuk ciṇkṛtor iti yuk | veḥ | vī gatiprajanakāntyaśanakhādaneṣu | laṅi sipy adāditvāc chapo luk | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | dhāyasa ity asya vākyāntaragatetvād asya nighātābhāvaḥ ||*
+
+*(Reading note: the print is clear but small; the tail from "kṛṇvānāsaḥ" on is much compressed and doubtful in several words — "dhinvikṛṇvyor", "ṇidittvanunastrer", "ciṇkṛtor", "vākyāntaragatetvāt" — and the Taittirīya numeral [?]; "devīnā pṛthivī" as printed (evidently *devī, ānā* or *devī* with an ending) is doubtful [?]. The bhāṣya's tail is characterized below, not treated line by line.)*
+
+*Meaning:* The Ādityas, who made (*kṛṇvānāsaḥ*) the way (*gātum*) — the means — for the attainment of immortality (*amṛtatvāya*), performed (*ā tasthuḥ*) all (*viśvā*) good works (*svapatyāni*) — the excellent rites, which are causes of non-falling, such as the fourteen-night [and] thirty-six-night rites, the *ayana* of the Ādityas, and the rest; so the Taittirīya says: "The Ādityas desired: may we go to the world of heaven; they saw this thirty-six-night [rite], brought it, and sacrificed with it" (Tai. Saṃ. [7-4-6-1?]). Along with those great sons (*mahadbhiḥ putraiḥ*), great-souled through the performance, the mother Aditi — the creator, the goddess — and Earth (*pṛthivī*) stand (*vi tasthe*) specially, by their own greatness (*mahnā*), for the support (*dhāyase*) of the whole world. O Agni, since you (*veḥ*) ate the oblations — *caru*, *puroḍāśa* and the rest — in the sacrifices done by the Ādityas, all this came to be.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *kṛṇvānāsaḥ* (root *kṛvi hiṃsākaraṇayoḥ*; *ātmanepada* by *vyatyaya*; the *u*-affix, by *dhinvikṛṇvyor a ca*, together with the change to a stem ending in *a*; since the *a* is lost, because of *sthānivat* the *num* does not come; *śānac* being *cit*, final acute; *āsuk* for the plural ending after *a*); *mahnā* (the instrumental of *mahiman*, with Vedic loss of letters); *dhāyase* (the infinitive-like *asun* after *dhā* by *vahihādhāñbhyaś chandasi*, Uṇ. [4-?]; *yuk* by *ātaḥ… yuk*); *veḥ* (root *vī gatiprajanakāntyaśanakhādaneṣu*; *laṅ*, *sip*; loss of *śap* by *adādi*; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; begun at the foot of p. 373)*
+
+*ye* — which Ādityas; *amṛtatvāya* — for the sake of immortality (the means thereof); *gātum* — the path (the means); *kṛṇvānāsaḥ* — performing; *viśvā* — all; *svapatyāni* — auspicious …
+
+---
+
+**Progress note:** Printed pp. 1–373 done (PDF 19–391): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.8 complete (72.8's grammar page on pp. 371–372); **Rik 72.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and the beginning of the Pratipadārtha done (pp. 372–373). Next: p. 374 (PDF 392), the rest of the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.9; then Rik 72.10 and the closing line of Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.9–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.9 (p. 373), its tail especially, compressed and partly doubtful [?].
