@@ -12288,4 +12288,99 @@ viśvāsu dhīṣu vandya ||7||*
 
 ---
 
-**Progress note:** Printed pp. 1–548 done (PDF 19–566): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.6 complete** (grammar of 79.6 on pp. 546–547); **Rik 79.7** (first Gāyatrī Ṛk) — Saṃhitā, Pada, bhāṣya (p. 547), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 548) done; the grammar page of 79.7 not yet seen. Next: p. 549 (PDF 567). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 549 (PDF 567)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.7)** *(grammar page, noted briefly)*
+
+- **अव** — the root *ava rakṣaṇe* (अव रक्षणे); *loṭ*, second person singular; being at the beginning of the pāda there is no nighāta; *śap* being *p*-marked is anudātta, so the root's accent remains; since the root is of two syllables, by "dvyaco 'tastiṅaḥ" (द्व्यचोऽतस्तिङः, Pā. Sū. 6-3-135) the lengthening in the Saṃhitā (*avā*).
+- **ऊतिभिः** — *ūti* is formed as *ūtiyūtijūti…* (ऊतियूतिजूति…, Pā. Sū. 3-3-97) — a *nipātana* form; third-case plural.
+- **वन्द्य** — the root *vadi abhivādanastutyoḥ* (वदि अभिवादनस्तुत्योः); *vanditum yogyaḥ* = *vandyaḥ*; the affix *yat*; in the vocative the form *vandya*; by "āmantritasya ca" (Pā. Sū. 8-1-19) nighāta accent. ||7||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.8**
+
+> आ नो अग्ने रयिं भर सत्रासाहं वरेण्यम् ।
+> विश्वासु पृत्सु दुष्टरम् ॥ ८ ॥
+
+*ā no agne rayiṃ bhara satrāsāhaṃ vareṇyam |
+viśvāsu pṛtsu dustaram ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । नः । अग्ने । रयिम् । भर । सत्रासहम् । वरेण्यम् ।
+> विश्वासु । पृत्ऽसु । दुस्तरम् ॥ ८ ॥
+
+*ā | naḥ | agne | rayim | bhara | satrā-saham | vareṇyam | viśvāsu | pṛt-su | dustaram ||8||*
+
+### Page 550 (PDF 568)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.8** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने रयिं धनं नोऽस्मभ्यमा भर । प्रयच्छ । कीदृशम् । सत्रासाहं सत्रा सह युगपदेव दारिद्र्यस्य नाशकं वरेण्यं सर्वैर्वरणीयं विश्वासु पृत्सु सर्वेषु सङ्ग्रामेषु दुस्तरं शत्रुभिस्तरीतुमशक्यम् ॥ सत्रासाहम् । छन्दसि सह इति ण्विः [?] । वरेण्यम् । वृञ् एण्यः । पृत्सु । पदादिषु मांस्पृत्स्नूनामुपसंख्यानमिति पृतनाशब्दस्य पृद्भावः । सावेकाच इति विभक्तेरुदात्तत्वम् ॥
+
+*he agne rayiṃ dhanaṃ no 'smabhyam ā bhara | prayaccha | kīdṛśam | satrāsāhaṃ satrā saha yugapad eva dāridryasya nāśakaṃ vareṇyaṃ sarvair varaṇīyaṃ viśvāsu pṛtsu sarveṣu saṅgrāmeṣu dustaraṃ śatrubhis tarītum aśakyam || satrāsāham | chandasi saha iti ṇviḥ [?] | vareṇyam | vṛñ eṇyaḥ | pṛtsu | padādiṣu māṃspṛtsnūnām upasaṅkhyānam iti pṛtanāśabdasya pṛdbhāvaḥ | sāvekāca iti vibhakter udāttatvam ||*
+
+*Sense:* "O Agni, bring (*ā bhara* = *prayaccha*, give) wealth (*rayim*) to us. Of what kind? *Satrāsāham* — *satrā* together (*saha*), at once, the destroyer of poverty; *vareṇyam* — to be chosen by all; *viśvāsu pṛtsu* — in all battles, *dustaram* — not to be crossed (overcome) by enemies." *The grammatical tail:* *satrāsāham* — by "chandasi sahaḥ" the affix *ṇvi* [?]; *vareṇyam* — the root *vṛñ* (to choose) with the affix *enya*; *pṛtsu* — by the supplementary statement "padādiṣu māṃspṛtsnūnām" (*pṛtanā* → *pṛt*) the word *pṛtanā* is replaced by *pṛt*; by "sāvekācaḥ…" the case-ending takes the udātta.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.8** *(Kannada)*
+
+- **अग्ने** — "O Agni!"
+- **सत्रासाहम्** — "that which destroys poverty in a single moment"
+- **वरेण्यम्** — "(that is) wished for (by all)"
+- **विश्वासु पृत्सु** — "in all battles"
+- **दुस्तरम्** — "(that) which is hard for enemies to obtain"
+- **रयिम्** — "wealth"
+- **नः** — "to us"
+- **आ भर** — "bestow."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.8** *(Kannada)*
+
+"O Agni, bestow on us wealth that destroys poverty in an instant, that is desired by all, and that in battles is quite impossible for enemies to withstand."
+
+**English Translation** *(printed in English in the source)*
+
+"Grant us, Agni, riches that dispel poverty, that are desirable (to all) and cannot be taken (from us) in all encounters (with our foes)" — as printed (the print has no full stop).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.8)**
+
+- **सत्रासाहम्** — "The word *satrā* occurs among the six names of truth (*satya*) beginning *bar, śrat* (बट् श्रत्); so Yāska says that *satrā* means 'truly' (Ni. [3-13?] [?]). But the bhāṣyakāra, in this Ṛk, has explained the word *satrā* as '*yugapat*, *at once*, in a single moment'. Besides, since the word *asaham* is divided in the Pada, he has supplied the word *dāridrya* 'poverty' and says '*one who destroys poverty at once*'. By Yāska's explanation, too, if *satrā* is explained as 'truly', the sense 'one who truly destroys poverty' fits. This word, in the Ṛgveda, in —
+
+> सत्रासाहं वरेण्यं सहोदां ससवांसं स्वरपश्च देवीः ।
+
+*satrāsāhaṃ vareṇyaṃ sahodāṃ sasavāṃsaṃ svar apaś ca devīḥ |* (Ṛk. Saṃ. 3-[34]-[8] [?]) — *Gloss, mine and tentative:* "The all-conquering, choice-worthy, giver of strength, the winner of the light and the divine waters."
+
+### Page 551 (PDF 569)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 79.8, continued from p. 550:*
+
+> विवस्वतः सदन आ हि पिप्रिये सत्रासाहमभिमातिहनं स्तुहि ।
+
+*vivasvataḥ sadana ā hi pipriye satrāsāham abhimātihanaṃ stuhi |* (Ṛk. Saṃ. 3-[37]-3 [?]) — *Gloss, mine and tentative:* "In the abode of Vivasvat he was delighted; praise him, the all-conquering, the slayer of the hostile."
+
+> त्वमु वः सत्रासाहं विश्वासु गीर्ष्वायतम् ।
+
+*tvam u vaḥ satrāsāhaṃ viśvāsu gīrṣv āyatam |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *Gloss, mine and tentative:* "You (we praise), the all-conquering, ranged over all the songs of praise." *(Sense uncertain to me.)*
+
+— in these Ṛks (and also in Ṛk 3-[37]-3 [?] the word *satrāsahaḥ*, in Ṛk 3-[31]-3 [?] the word *satrāsahe*) this word is used; elsewhere it is not used. In explaining the first of the Ṛks cited above the bhāṣyakāra has given for the word *satrāsāham* the sense *vṛtrādiśatrūṇām abhibhavitāram*, 'the conqueror of enemies such as Vṛtra' (a destroyer of enemies); and in explaining the word *satrāsāha* in the second example he gives the very same sense *śatrūṇām abhibhavitāram*. In the Ṛks 3-[37]-3 and 3-[31]-3 [?] too the sense 'overcome the enemies' is given for *saha*. In the Ṛk now before us as well the sense *saha* ('overcoming') may be given." *(The numbering of the references in this paragraph is garbled in the print; all are given with doubt [?].)*
+
+- **वरेण्यम्** — *sarvair varaṇīyam* — "wealth that is sought by all: everybody desires wealth."
+- **पृत्सु** — "Among the forty-six names of battle beginning *raṇaḥ, vivākaḥ* the word *pṛtsu* occurs; so for this word the sense is 'in battles' (Ni. [2-17] [?]). This word is generally used in the plural."
+- **दुस्तरम्** — *duḥ-taram* — "hard to attain, that is, not to be obtained by others — wealth that can be accomplished only with much effort."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.8)** *(grammar page, noted briefly)*
+
+- **भर** — the root *hṛñ haraṇe* (हृञ् हरणे); *loṭ*, second person singular, giving the form *hara*; by the statement "hṛgrahor bhaś chandasi" (हृग्रहोर्भश्छन्दसि) the *h* becomes *bh* in the Saṃhitā; nighāta accent since *atiṅanta* in the pāda.
+- **सत्रासाहम्** — the root *ṣaha marṣaṇe* (षह मर्षणे); "dhātvādeḥ ṣaḥ saḥ" (धात्वादेः षः सः) turns *ṣ* into *s*; "chandasi sahaḥ" (छन्दसि सहः, Pā. Sū. 3-2-63) gives the affix *ṇvi*; being *ñ*-marked, "ata upadhāyāḥ" (Pā. Sū. 7-2-116) gives vṛddhi to the penultimate of the root; "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137) lengthens the first member; by "gatikārakopapadāt kṛt" the accent of the first member remains. Second-case singular.
+
+*Grammar page, noted briefly (the remaining entries of the grammar of 79.8, for *vareṇyam*, *pṛtsu* and *dustaram*, are not on this page: they follow on p. 552); sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–551 done (PDF 19–569): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.7 complete** (grammar of 79.7 on p. 549); **Rik 79.8** — Saṃhitā, Pada (p. 549), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 550–551) done; the grammar page of 79.8 is begun on p. 551 (*bhara*, *satrāsāham*) and continues on p. 552 (PDF 570). Next: p. 552 (PDF 570). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
