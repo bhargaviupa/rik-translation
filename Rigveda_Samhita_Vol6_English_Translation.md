@@ -9775,4 +9775,88 @@ Afterwards, O Agni, best of the Aṅgirases and most wise, may we make a hymn pl
 
 ---
 
-**Progress note:** Printed pp. 1–458 done (PDF 19–476): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Rik 75.1 complete (pp. 455–457); **Rik 75.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 457–458) done; the Special Topics may continue on p. 459; the grammar page of 75.2 not yet seen. Next: p. 459 (PDF 477). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk-Saṃhitā "volume/pp. 640–641" cross-reference (read as "volume 2" on p. 443 and "volume 1" on p. 458) unreconciled [?].
+### Page 459 (PDF 477)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 75.2 (concluded)**
+
+- **ब्रह्म** — "Though the word *brahma* has the senses 'food' and 'wealth' (Ni. [2-7?]), the commentator here explains it as 'hymn'."
+- **सानसि** — *vana ṣaṇa saṃbhaktau | saṃbhajanīyam* — "worthy of acceptance: excellent."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.2, noted briefly; not transcribed)*
+
+Words treated: *athā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. [6-3-136]). *aṅgirastama* ("best of the Aṅgirases"; *tamap* by *atiśāyane tamabiṣṭhanau*; in the vocative, where the loss of *su* is an exception, nighāta by *āmantritasya ca*, Pā. [8-1-19]; the same process for *vedhastama*). *vocema* (root *brūñ vyaktāyāṃ vāci*; when the *ārdhadhātuka* sense is intended, *vacī* for *brū* by *bruvo vaciḥ*, Pā. [2-4-53]; *āśīrliṅ*, first person plural, *mas*; loss of its *s* by *nityaṃ ṅitaḥ*, Pā. [3-4-99]; *aj* by *liṅyāśiṣy aṅ*, Pā. [3-1-86]; *um*-augment by *vaci um*; guṇa-*o*; since *ā* follows [*yāsuṭ*], *iya*-substitution; loss of *y* by *lopo vyor vali*; guṇa again; no nighāta at the head of a pāda; the *yāsuṭ*'s udātta makes the word middle-acute). *sānasi* (root *vana ṣaṇa saṃbhaktau*; derived by nipāta with the affix *asic*, by *sānasi-parṇasi…*, Uṇ. [4-?]; being *cit*, final acute by *citaḥ*). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.3** *(printed Ṛk "3 ||")*
+
+> कस्ते जामिर्जनानामग्ने को दाश्वध्वरः ।
+> को ह कस्मिन्नसि श्रितः ॥ ३ ॥
+
+*kas te jāmir janānām agne ko dāśvadhvaraḥ |
+ko ha kasminn asi śritaḥ ||3||*
+
+---
+
+### Page 460 (PDF 478)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 75.3**
+
+> कः । ते । जामिः । जनानाम् । अग्ने । कः । दाशुऽअध्वरः ।
+> कः । ह । कस्मिन् । असि । श्रितः ॥ ३ ॥
+
+*kaḥ | te | jāmiḥ | janānām | agne | kaḥ | dāśu-adhvaraḥ | kaḥ | ha | kasmin | asi | śritaḥ ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 75.3** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने जनानां मनुष्याणां मध्ये ते तव को जामिः को बंधुः । त्वं सर्वैर्गुणैरधिकोऽसि तवानुरूपो बंधुर्नास्तीति भावः । को दाश्वध्वरः । दाशुर्दत्त्वो ऽध्वरो यज्ञो येन स तथोक्तः । त्वां यष्टुमपि समर्थः कोऽसि नास्तीत्यर्थः । को ह त्वं कथंभूतस्त्वम् । ईदृग्गुण इति सर्वैर्न ज्ञायसे इत्यर्थः । कस्मिन् स्थाने श्रित आश्रितोऽसि । वर्षसे । तेष्टा[स्थानमपि] न केनचिज्ज्ञायते । अतस्त्वत्समस्माभिर्मांसदृष्टिभिः कथमुपलब्धव्य इत्यग्निः प्रशस्यते ॥ दाश्वध्वरः । दाश्व दाने । उकादयो ऽबहुलमिति बहुलवचनात्कर्तर्यु-प्रत्ययः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । यणादेशे उदात्तस्वरितयोर्यणः स्वरितो ऽनुदात्तस्येति स्वरितत्वं ॥
+
+*he agne janānāṃ manuṣyāṇāṃ madhye te tava ko jāmiḥ ko bandhuḥ | tvaṃ sarvair guṇair adhiko 'si tavānurūpo bandhur nāstīti bhāvaḥ | ko dāśvadhvaraḥ | dāśur dattvo 'dhvaro yajño yena sa tathoktaḥ | tvāṃ yaṣṭum api samarthaḥ ko 'si nāstīty arthaḥ | ko ha tvaṃ kathaṃbhūtas tvam | īdṛg-guṇa iti sarvair na jñāyase ity arthaḥ | kasmin sthāne śrita āśrito 'si | [varṣase?] | te [sthānam api] na kenacij jñāyate | atas tvat-samasmābhir māṃsadṛṣṭibhiḥ katham upalabdhavya ity agniḥ praśasyate || dāśvadhvaraḥ | dāśa dāne | ukādayo 'bahulam iti bahulavacanāt kartary u-pratyayaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | yaṇādeśe udāttasvaritayor yaṇaḥ svarito 'nudāttasyeti svaritatvaṃ ||*
+
+*(Reading note: the bracketed words in the bhāṣya's middle ("varṣase", "tesṭā[sthānam api]") are cut or garbled in the print and doubtful [?]; "dāśur dattvo" is read as printed.)*
+
+*Meaning:* O Agni, who among men (*janānām*) is your (*te*) kinsman (*jāmiḥ*)? You excel all in qualities; there is no kinsman like you. Who (*kaḥ*) is the *dāśvadhvaraḥ* — he by whom the sacrifice (*adhvara*) is given (*dāśu*): who is able even to worship you? Who indeed are you, of what kind? You are not known by all as having such qualities. In what place (*kasmin*) are you lodged (*śritaḥ asi*)? Your place too is known to no one: how, then, can you be found by us, with our eyes of flesh? Thus Agni is praised.
+
+**Grammatical tail** *(characterized)*: *dāśvadhvaraḥ* (root *dāś dāne*; the *u*-affix in the agent sense by *ukādayo 'bahulam*… with the *bahula*-statement; the first member keeps its accent in the bahuvrīhi; where *yaṇ* arises, the following anudātta takes svarita by *udāttasvaritayor yaṇaḥ svaritaḥ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *janānām madhye* — among men; *te* — to you; *kaḥ jāmiḥ* — who is a kinsman? *kaḥ dāśvadhvaraḥ* — who is the one who performs your sacrifice? *kaḥ ha* — who indeed (are you)? *kasmin* — in what (place); *śritaḥ asi* — are you lodged?
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! Who among men is a kinsman (befitting) to you? Who is the one who performs your sacrifice? Who indeed are you? Where are you? (We are not able to know any of this.)
+
+**English Translation** *(the source's own, as printed):*
+
+> Who, Agni, amongst men is your kinsman? who is worthy to offer you sacrifice? who, indeed, are you and where do you abide?
+
+---
+
+### Page 461 (PDF 479)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In this Ṛk there are four separate sentences. The sage has described the qualities of Agni in the form of questions and answers. Only the question has been stated; the answer must be supplied."
+- **जामिः** — "Yāska has given this derivation for the word *jāmi*:
+
+  > जामिरन्यो ऽस्यां जनयन्ति जामुपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्रायो भवति ।
+  > *jāmir anyo 'syāṃ janayanti jāmupatyaṃ jamater vā syād gatikarmaṇo nirgamanaprāyo bhavati* (Ni. [3-6?])
+
+  having said 'it means *bhaginī* (sister)', other men (the husbands and the like) beget offspring in her, so the sister is called *jāmi*; or, from the root *jam* with the sense of going, 'she who goes out' — since the husband goes out of the house, the sister is called *jāmi*. Here the commentator has given the general sense 'kinsman'."
+- **कः ते जामिः जनानाम्** — "Who among men is your kinsman? Since you, endowed with many qualities not found in men, are superior to all, there is no kinsman equal to you among men."
+- **को दाश्वध्वरः** — "Who is able to worship you in due order with sacrifice and the like? There is none among men able to worship you by sacrifice in the manner prescribed in the rules of ritual, befitting your qualities. You are exceedingly superior in qualities."
+- **को ह** — "Who are you? None can know your form, or your exceeding greatness."
+- **कस्मिन् असि श्रितः** — "In what place do you rest? Though it is well known that you are in the three places — earth, atmosphere and heaven — no one can know your true dwelling-place or the nature of your refuge."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.3, noted briefly; not transcribed)*
+
+*agne* (since it stands at the head of a pāda, no nighāta of the *aṣṭamika* kind; by *āmantritasya ca*, Pā. [6-1-198], initial acute). *(The grammar page continues on p. 462.)*
+
+---
+
+**Progress note:** Printed pp. 1–461 done (PDF 19–479): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 75.1–75.2 complete; **Rik 75.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (p. 461, up to *agne*) done. Next: p. 462 (PDF 480), the rest of the grammar page of 75.3; then Rik 75.4–75.5 and the closing line of Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the middle of the bhāṣya of 75.3 (p. 460) garbled in the print [?].
