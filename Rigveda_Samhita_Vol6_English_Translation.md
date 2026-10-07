@@ -9094,4 +9094,96 @@ May all the born (the priests and others) praise Agni — born from the kindling
 
 ---
 
-**Progress note:** Printed pp. 1–435 done (PDF 19–453): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.2 complete; **Rik 74.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, English and most of the Special Topics (pp. 433–435) done; the Special Topics may continue on p. 436; the grammar page not yet seen. Next: p. 436 (PDF 454). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening liturgical sentence of the bhāṣya of 74.3 (p. 434) compressed and doubtful [?].
+### Page 436 (PDF 454)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**Special Topics of Rik 74.3 (continued)**
+
+- **धनंजयः** (continued) — "In these Ṛks the word *dhanaṃjaya* is an epithet of Soma. And:
+
+  > विद्मा हि त्वा धनंजयं वाजेषु दध्र्षं कवे ।
+  > *vidmā hi tvā dhanaṃjayaṃ vājeṣu dhṛṣantaṃ kave* (Ṛk. Saṃ. [3-?-?]; as read)
+
+  > विद्मा हि त्वा धनंजयमिन्द्र दृळ्हा चिदारुजम् ।
+  > *vidmā hi tvā dhanaṃjayam indra dṛḷhā cid ārujam* (Ṛk. Saṃ. [8-?-?]; as read)
+
+  In these Ṛks *dhanaṃjaya* refers to Indra.
+
+  > तमु त्वा पाथ्यो वृषा समीधे दस्युहन्तमम् ।
+  > धनंजयं रणेरणे ॥
+  > *tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam | dhanaṃjayaṃ raṇe-raṇe* (Ṛk. Saṃ. [6-16-15])
+
+  In this Ṛk *dhanaṃjaya* refers to Agni. Besides, in the Ṛks that bear on this, the very same pāda recurs [*vidmā hi tvā dhanaṃjayam*], with the second case in place of the first; and in the examples referring to Indra the pāda *sahā vidmā hi tvā dhanaṃjayam* recurs. Although the sages of these Ṛks are different, the use of one and the same kind of sentences without the slightest variation is a matter worth noting. The word *dhanaṃjaya* is not used anywhere else in the Ṛgveda except in these Ṛks." *(Glosses mine and tentative: "we know you, winner of wealth, bold in contests, O seer"; "we know you, Indra, winner of wealth, breaker of the firm"; "him, the Pāthya, the bull, kindled, the best slayer of *dasyus*, the winner of wealth in every battle". The three Ṛks and their numerals are read from small print and are doubtful [?].)*
+- **रणेरणे** — *raṇanti dundubhayo 'smin iti raṇaḥ saṃgrāmaḥ* — "the word *raṇa* means 'to sound, to make noise': because in battle there are the noise of kettledrums, war-horns and the like, a battle with such sounds is called *raṇa*. Since *raṇaḥ* is read among the seventy-odd names of battle, *vivāk* and so on (Ni. [2-17?]), *raṇa* means 'battle'. And the Nirukta-writer:
+
+  > मरुत्वाँ इन्द्र वृषभो रणाय पिबा सोममनुष्वधं मदाय ।
+  > *marutvāṃ indra vṛṣabho raṇāya pibā somam anuṣvadhaṃ madāya* (Ṛk. Saṃ. [3-47-1])
+
+  > महे यत्पित्र ईं रसं दिवे करव त्सरत्… [?]
+
+  and
+
+  > महे यत्त्वा पुरूरवो रणायावर्धयन्दस्युहत्याय देवाः ।
+  > *mahe yat tvā pururavo raṇāyāvardhayan dasyuhatyāya devāḥ* (Ṛk. Saṃ. [10-?-?])
+
+  — giving these Ṛks as examples, explains the word *raṇāya* occurring in them as *ramaṇīyāya saṃgrāmāya* — 'for a delightful battle' (Ni. [4-?] and [10-?]); and —" *(continued on p. 437)* *(Note: the second of the two verses printed here in the source is read as printed from small print; the first line is as I read it, apparently conflating the Saṃhitā of Rik 71.5; doubtful [?]. Glosses mine and tentative: "O Indra, bull with the Maruts, drink the soma at will for the joy of the battle"; "when the gods strengthened you, Pururavas, for the battle, for the slaying of the *dasyus*".)*
+
+---
+
+### Page 437 (PDF 455)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 74.3 (concluded)**
+
+> आपो हि ष्ठा मयोभुवस्ता न ऊर्जे दधातन ।
+> महे रणाय चक्षसे ॥
+> *āpo hi ṣṭhā mayobhuvas tā na ūrje dadhātana | mahe raṇāya cakṣase* (Ṛk. Saṃ. [10-9-1])
+
+"…in this Ṛk the word *raṇāya* is explained as *ramaṇīyāya* ('for the delightful'), and made an adjective of the word *cakṣase* ('for the sight')." *(Gloss mine and tentative: "you waters are the givers of comfort; place us in vigour, for great delightful vision".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.3, noted briefly; not transcribed)*
+
+Words treated: *bruvantu* (root *brūñ vyaktāyāṃ vāci*; *loṭ*, third person plural, *jhi*; *anta* substituted; *uttva*; since *sārvadhātukam apit* makes it *ṅit*-like, no guṇa of the root; *uvaṅ* by *brūñ*-class rule *bruva īṭ…* / *aci śnudhātubhruvām…*, Pā. [6-4-77]; nighāta because it follows an *atijanta*). *dhanaṃjayaḥ* (root *ji jaye*; *khac* by *saṃjñāyāṃ bhṛtṛvṛji…*, Pā. [3-2-46]; since *khac* is *kit*… the word *dhana* gets *mum* by *arur dviṣad ajantasya mum*, Pā. [6-3-67]; guṇa of the root's *i* for the sake of the affix; *ayādeśa*; since *cit*, final acute by *citaḥ*). *raṇe raṇe* (root *raṇa śabdārthaḥ*; "kettledrums etc. make sound in it" — *raṇaḥ*, battle; *ap* by *vaśiraṇyor upasaṃkhyānam*; the form *raṇa*; since repetition is meant, doubling by *nityavīpsayoḥ*, Pā. [8-1-4]; the second of the two has the *āmreḍita* designation by *tasya paramāmreḍitam*, Pā. [8-1-2]; and by *anudāttaṃ ca*, Pā. [8-1-3], the second is anudātta). Ends "॥ ३ ॥".
+
+---
+
+### Page 438 (PDF 456)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.4** *(printed Ṛk "4 ||")*
+
+> यस्य दूतो असि क्षये वेषि हव्यानि वीतये ।
+> दस्मत्कृणोष्यध्वरम् ॥ ४ ॥
+
+*yasya dūto asi kṣaye veṣi havyāni vītaye |
+dasmat kṛṇoṣy adhvaram ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यस्य । दूतः । असि । क्षये । वेषि । हव्यानि । वीतये ।
+> दस्मत् । कृणोषि । अध्वरम् ॥ ४ ॥
+
+*yasya | dūtaḥ | asi | kṣaye | veṣi | havyāni | vītaye | dasmat | kṛṇoṣi | adhvaram ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने यस्य यजमानस्य क्षये देवयजनलक्षणे गृहे देवानां दूतस्त्वमसि भवसि । यस्य च हव्यानि चरुपुरोडाशादीनि हवींषि वीतये देवानां भक्षणाय वेषि गमयसि । यस्य चाध्वरं यज्ञं दस्मात् सर्वैर्दर्शनीयं कृणोषि करोषि तमित्तुं हव्यमित्युक्तरया संबंधः ॥ वेषि । वी गत्यादिषु । अंतर्भावितण्यर्थाल्लट् । अदादित्वाच्छपो लुक् । पादादित्वान्निघाताभावः । दस्मात् । दसि दंसनदर्शनयोः । इषियुधीन्धीत्यादिना मक् । दस्ममित्यत्र मकारस्य वर्णव्यापत्त्या तकारः । कृणोषि । कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योरच्चेत्यु-प्रत्ययः । तत्संनियोगेन वकारस्याकारः । तस्यातो लोपे सति स्थानिवद्भावाल्लघूपधगुणाभावः । यस्येत्यनुषंगान्निघाताभावः ॥
+
+*he agne yasya yajamānasya kṣaye devayajanalakṣaṇe gṛhe devānāṃ dūtas tvam asi bhavasi | yasya ca havyāni caru-puroḍāśādīni havīṃṣi vītaye devānāṃ bhakṣaṇāya veṣi gamayasi | yasya cādhvaraṃ yajñaṃ dasmāt sarvair darśanīyaṃ kṛṇoṣi karoṣi tam it tuṃ [sic] havyam ity uktarayā saṃbandhaḥ || veṣi | vī gatyādiṣu | antarbhāvitaṇyarthāl laṭ | adāditvāc chapo luk | pādāditvān nighātābhāvaḥ | dasmāt | dasi daṃsanadarśanayoḥ | iṣiyudhīndhīty ādinā mak | dasmam ity atra makārasya varṇavyāpattyā takāraḥ | kṛṇoṣi | kṛvi hiṃsākaraṇayoś ca | dhinvikṛṇvyor ac cety u-pratyayaḥ | tatsaṃniyogena vakārasyākāraḥ | tasyāto lope sati sthānivadbhāvāl laghūpadhaguṇābhāvaḥ | yasyety anuṣaṅgān nighātābhāvaḥ ||*
+
+*(Reading note: "tam it tuṃ havyam ity uktarayā" is printed so and is evidently a corrupt text for the link to the next Ṛk (*tam it … *, i.e. "tam it tuṃ" is doubtful [?]); the tail is compressed.)*
+
+*Meaning:* O Agni, in the house (*kṣaye*) of the sacrificer — the place of sacrifice to the gods — you are (*asi*) the messenger (*dūtaḥ*) of the gods; and you take (*veṣi*) the oblations (*havyāni*) — *caru*, *puroḍāśa* and the rest — to the gods for their eating (*vītaye*); and you make (*kṛṇoṣi*) his sacrifice (*adhvaram*) *dasmat* — beautiful to all to see: [to him] — in connection with the next Ṛk.
+
+**Grammatical tail** *(characterized)*: *veṣi* (root *vī gatyādiṣu*, with the causative sense included; *laṭ*; loss of *śap*; no nighāta at the head of a pāda); *dasmāt* (root *dasi daṃsanadarśanayoḥ*; *mak*-affix); *kṛṇoṣi* (root *kṛvi*; *u*-affix by *dhinvikṛṇvyor a ca*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *yasya* — whose (sacrificer's); *kṣaye* — in the sacrificial house; *dūtaḥ asi* — you are the messenger (of the gods); *havyāni* — the *caru*, *puroḍāśa* and the rest, offered to the gods; *vītaye* — for the eating of the gods; *veṣi* — you carry (taking them to give); *adhvaram* — the sacrifice; *dasmat* — pleasing to the sight of all; *kṛṇoṣi* — you make.
+
+---
+
+**Progress note:** Printed pp. 1–438 done (PDF 19–456): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.3 complete (74.3's Special Topics and grammar page on pp. 435–437); **Rik 74.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (p. 438). Next: p. 439 (PDF 457), the Bhāvārtha, English, Special Topics and grammar page of 74.4; then Riks 74.5–74.9 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 435–437 (read from small print) and the p. 436 second *raṇāya* verse doubtful, glosses tentative; "tam it tuṃ" in the bhāṣya of 74.4 [?].
