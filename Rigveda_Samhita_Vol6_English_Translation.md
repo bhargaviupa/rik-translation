@@ -9949,4 +9949,87 @@ agne yakṣi svaṃ damam ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–464 done (PDF 19–482): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 75.1–75.4 complete (75.4: pp. 462–464); **Rik 75.5** (the last; printed "5 ||") — Saṃhitā and Pada done (p. 464). Next: p. 465 (PDF 483), the Sāyaṇa-bhāṣya of Rik 75.5 and the rest of its treatment, then the closing line of Sūkta 75 — which completes Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 75.4 (p. 463) compressed and doubtful in places [?].
+### Page 465 (PDF 483)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 30".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 75.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने नो ऽस्मदर्थं मित्रावरुणा एतत्संज्ञौ देवौ यज । हविषा पूजय । तथा देवानिंद्रादीन्यज । पूजय । ऋतं सत्यं यथार्थफलं यज्ञं च यज जेत्येव । तदर्थं बृहत् प्रौढं स्वं स्वकीयं दमं यज्ञगृहं यक्षि । यज । संगच्छस्व । त्वय्यंतर्विद्यमाने सति हि यज्ञगृहं पूज्यते ॥ यज । द्व्यचोतस्तिङ इति संहितायां दीर्घत्वं । देवान् । दीर्घादटि समानपादे इति संहितायां नकारस्य रुत्वं । आतोटि नित्यमित्यनुनासिक आकारः । यत्वलोपौ । यक्षि । यजेर्बहुलं छंदसीति शपो लुक् ॥
+
+*he agne no 'smadarthaṃ mitrāvaruṇā etatsaṃjñau devau yaja | haviṣā pūjaya | tathā devān indrādīn yaja | pūjaya | ṛtaṃ satyaṃ yathārthaphalaṃ yajñaṃ ca yaja jety eva | tadarthaṃ bṛhat prauḍhaṃ svaṃ svakīyaṃ damaṃ yajñagṛhaṃ yakṣi | yaja | saṃgacchasva | tvayy antarvidyamāne sati hi yajñagṛhaṃ pūjyate || yaja | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghatvaṃ | devān | dīrghād aṭi samānapāde iti saṃhitāyāṃ nakārasya rutvaṃ | āto 'ṭi nityam ity anunāsika ākāraḥ | yatvalopau | yakṣi | yajer bahulaṃ chandasīti śapo luk ||*
+
+*Meaning:* O Agni, for our sake worship (*yaja*) the two gods named Mitra and Varuṇa, with oblation; likewise worship the gods (*devān*), Indra and the rest; and worship the *ṛta* — the true sacrifice, bearing fruit as intended. For that purpose, *yakṣi* — resort to (be joined with) your own great, ample (*bṛhat*) house (*damam*) of sacrifice; for, when you are within, the sacrificial house is honoured.
+
+**Grammatical tail** *(characterized)*: *yaja* (the lengthening in the saṃhitā by *dvyaco 'tastiṅaḥ*); *devān* (*ru* for the *n* by *dīrghād aṭi samānapāde*; the preceding *ā* is nasalized); *yakṣi* (loss of *śap* by *bahulaṃ chandasi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *naḥ* — for us; *mitrāvaruṇā* — Mitra and Varuṇa; *yaja* — worship (with oblation); *devān* — Indra and the other gods; *yaja* — worship; *ṛtam* — the sacrifice that gives true fruit; (*yaja* — worship); *bṛhat* — great; *svam damam* — your own (sacrificial) house; *yakṣi* — be joined (worship).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! For us, worship Mitra and Varuṇa; worship all the gods beginning with Indra; make the sacrifice flourish; and honour your own house, the sacrificial hall (that is, enter the sacrificial hall).
+
+**English Translation** *(the source's own, as printed):*
+
+> Worship for us, Mitra and Varuna; worship for us, all the Gods; (celebrate) a great sacrifice; be present in your own dwelling.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **ऋतम्** — "The commentator says it is 'a sacrifice that gives true fruit'. Yāska: *ṛtaṃ satyaṃ vā yajñaṃ vā* — that is, he gives the derivation that the word *ṛta* has the sense 'truth' or 'sacrifice' (Ni. [4-19?]). For a fuller explanation of this word see the Ṛk Saṃhitā volume 1, p. 642 [as read, ?]."
+
+---
+
+### Page 466 (PDF 484)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**Special Topics of Rik 75.5 (continued)**
+
+- **ऋतम्** (continued) — "Here, since it is said *yaja* — 'sacrifice, or worship' — in addressing Agni, the sense is: 'make the oblations and other substances offered, with the gods in view, reach them.' For this reason too, in the words *yaja devān*, since we offer in you, Agni, the substances that are to be offered to the gods, the duty of making them reach the gods falls to you, Agni; hence the words *devān yaja* — 'worship the gods' — are used."
+- **बृहत्, अग्ने यक्षि स्वं दमम्** — "*Dama* means house (Ni. [3-4?]). When, with Agni in view, 'your own house' is said, it means the sacrificial hall in which Agni has been established. The word *bṛhat* means great or extensive. 'To worship the sacrificial hall' means: since you (Agni) are in the sacrificial hall, it becomes worthy of worship — so the commentator says."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.5, noted briefly; not transcribed)*
+
+Words treated: *yaja* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *loṭ*, second person singular, *sip* → *hi*; *śap* vikaraṇa; loss of *hi* by *ato heḥ*, Pā. [6-4-105]; no nighāta at the head of a pāda; since *śap* is *pit*, anudātta, the root accent remains; the lengthening in the saṃhitā by *dvyaco 'tastiṅaḥ*, Pā. [6-3-135]). *mitrāvaruṇā* (the second-case dual; the ending replaced by *ā* by *supāṃ sulug…*). *devān* (before a following *ṛ* [*ṛtam*, as read: "*aṭ*"], *ru* for the *n* by *dīrghād aṭi samānapāde*, Pā. [8-3-9]; the preceding *ā* is always nasalized by *ato 'ṭi nityam*; *y*-substitution for the *ru* by *bhobhago…*, Pā. [8-3-17]; loss of *y* by *lopaḥ śākalyasya*, Pā. [8-3-19]). *yakṣi* (root *yaja…*, Bhvādi; *loṭ*, second person singular [as read: *laṭ*], *sip*; loss of the expected *śap* by *bahulaṃ chandasi*; *ṣatva* of *j* by *vraścabhrasja…*, Pā. [8-2-36]; *kutva* of the *ṣ* before *si* by *ṣaḍhoḥ kaḥ si*, Pā. [8-2-41]; *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; the form *yakṣi*; since the vocative *agne* precedes it, being "not existing" by *āmantritaṃ pūrvam avidyamānavat*, Pā. [8-1-72]) *(continued on p. 467)*.
+
+---
+
+### Page 467 (PDF 485)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 75.5 (concluded; noted briefly)**
+
+*yakṣi* (concluded): …it is treated as not existing, so that it stands first in the pāda; since it stands at the head of a pāda, no nighāta; *sip* being *pit*, it is anudātta by *anudāttau supitau*, Pā. [3-1-4]; so the root's final acute remains.
+
+**Closing line of the sūkta** *(printed, Kannada)*:
+
+> ಇಲ್ಲಿಗೆ ಎಪ್ಪತ್ತೈದನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು
+
+*(illige eppattaidaneya sūktavu samāptavu* — "Here the seventy-fifth sūkta is concluded.")*
+
+**— End of Sūkta 75.** *(Sūkta 75: five Ṛks, Agni; Gotama Rāhūgaṇa; Gāyatrī. The varga numerals of its pages — "23" at the head, "22/23" on later pages — are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 76
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು — "The seventy-sixth sūktas" [sic: "sūktavu" — "the seventy-sixth sūkta"].
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; doubtful syllables [?])*
+
+> का त इति पंचर्चं तृतीयं सूक्तं । का त इत्यनुक्रांतं । राहूगणो गोतमो ऋषिः । त्रिष्टुप् छंदः । अग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छंदसीदमादीके द्वे सूक्ते । सूत्रितं च । उप प्र जिन्वन्नित्ति त्रीणि का त उपेतिरिति सूक्ते । आ. [४-१३?] इति ॥ आश्विनशस्त्रे ऽप्येते प्रातरनुवाकातिदेशात् ॥
+
+*kā ta iti pañcarcaṃ tṛtīyaṃ sūktaṃ | kā ta ity anukrāntaṃ | rāhūgaṇo gotamo ṛṣiḥ | triṣṭup chandaḥ | agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādike dve sūkte | sūtritaṃ ca | upa pra jinvann iti [tisraḥ?] kā ta upetir iti sūkte | ā. [4-13?] iti || āśvinaśastre 'py ete prātaranuvākātideśāt ||*
+
+*(Reading note: "upa pra jinvann iti trīṇi" is as in the sūtra quoted at the introduction of Sūkta 71, where "tisraḥ" was read; "ittī" is printed here for *iti* [?].)*
+
+*Meaning:* "*Kā te*" is the third sūkta, of five Ṛks; the Anukramaṇī says "*kā te*". The ṛṣi is Gotama Rāhūgaṇa; the metre Triṣṭup; the deity Agni. At the Prātaranuvāka these two sūktas, beginning with this one, are in the Triṣṭup metre in the Agni-rite; the sūtra: "*upa pra jinvan* — three [Ṛks], and the sūktas *kā ta upetiḥ*" (Ā. [4-13?]); likewise at the Aśvina-śastra, by the extension of the Prātaranuvāka.
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*kā te*", is the third sūkta in the thirteenth anuvāka. It has five Ṛks. The Anukramaṇikā says "*kā te*". The sage of this sūkta is Gotama, son of Rahūgaṇa; the deity is Agni; the metre is Triṣṭup. For the recitation of the Prātaranuvāka mantras, this sūkta is applied for the Triṣṭup-metre Ṛks connected with the Agni-rite, and likewise for the Aśvina-śastra mantras, as explained by the Āśvalāyana-śrauta-sūtra "*upa pra jinvann iti trīṇi kā ta upetir iti sūkte*" (Ā. [4-13?]).
+
+---
+
+**Progress note:** Printed pp. 1–467 done (PDF 19–485): **Sūktas 62–75 complete** (Sūkta 75's closing line, p. 467: "illige eppattaidaneya sūktavu samāptavu"). **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; **Triṣṭup** — the metre changes back from Gāyatrī; the third sūkta of Anuvāka 13) begun: title, Sāyaṇa's introduction and Anuvāda (p. 467). Next: p. 468 (PDF 486), the sūkta's heading and Rik 76.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk-Saṃhitā volume/page cross-references on pp. 465 doubtful [?].
