@@ -1161,4 +1161,98 @@ astoṣata svabhānavo viprā naviṣṭhayā matī yojā nv indra te harī ||2|
 
 ---
 
-**Progress note:** Printed pp. 1–42 done (PDF 16–57) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1** complete; **Rik 82.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 38–41) done; its grammar page is begun on p. 41 and runs to p. 42, where it breaks off at the entry *matī* (to be continued on p. 43). Next: printed p. 43 (PDF 58). Four Ṛks (82.3–82.6) remain after 82.2, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt.
+### Page 43 (PDF 58)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 82.2, concluded (grammar page, noted briefly):*
+
+- **मती** (concluded) — "the root *man*… takes *ktin* by "striyāṃ ktin" (Pā. Sū. 3-3-94); the nasal is dropped by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. Sū. 6-4-37), giving the word *mati*; by "ñnityādir nityam" (Pā. Sū. 6-1-197) it would be initial-udātta, being *n*-ending; but in the mantra, by "mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ" (Pā. Sū. 3-3-96) the affix *ktin* is udātta for these (roots); so the accent of *ktin* is udātta; because of the *śiti*-rule it is final-udātta." ||2||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.3**
+
+> सुसन्दृशं त्वा वयं मघवन्वन्दिषीमहि ।
+> प्र नूनं पूर्णबन्धुरः स्तुतो याहि वशाँ अनु योजा न्विन्द्र ते हरी ॥ ३ ॥
+
+*susandṛśaṃ tvā vayaṃ maghavan vandiṣīmahi |
+pra nūnaṃ pūrṇabandhuraḥ stuto yāhi vaśāṁ anu yojā nv indra te harī ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सुऽसन्दृशम् । त्वा । वयम् । मघऽवन् । वन्दिषीमहि ।
+> प्र । नूनम् । पूर्णऽबन्धुरः । स्तुतः । याहि । वशान् । अनु ।
+> योज । नु । इन्द्र । ते । हरी इति ॥ ३ ॥
+
+*su-sandṛśam | tvā | vayam | magha-van | vandiṣīmahi | pra | nūnam | pūrṇa-bandhuraḥ | stutaḥ | yāhi | vaśān | anu | yoja | nu | indra | te | harī iti ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.3** *(Sanskrit in Kannada script; doubtful places [?]; continues on p. 44)*
+
+> महापितृयज्ञे सुसन्दृशमित्येषाहवनीयोपस्थापने विनियुक्ता । सूत्रितं च । आहवनीयं सुसन्दृशं त्वेति पङ्क्त्या । आ. २-१९ [?] इति ॥
+
+*mahāpitṛyajñe susandṛśam ity eṣāhavanīyopasthāpane viniyuktā | sūtritaṃ ca | āhavanīyaṃ susandṛśaṃ tveti paṅktyā | Āś. 2-19 [?] iti ||*
+
+*Sense:* "In the *Mahāpitṛyajña* this Ṛk, *susandṛśam*, is applied in the worship (*upasthāna*) of the *Āhavanīya* fire; so it is stated in the sūtra: '(he worships) the Āhavanīya with the paṅkti *susandṛśaṃ tvā*' (Āśv. 2-19 [?])."
+
+### Page 44 (PDF 59)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.3, continued**
+
+> हे मघवन्निन्द्र सुसन्दृशं सुष्ठु अनुग्रहदृष्ट्या सर्वस्य द्रष्टारं त्वा त्वां वयं वन्दिषीमहि । स्तवामहै । स्तुतिकर्तारो भूयास्मेत्याशास्यते । अस्माभिर्वन्दिभिः स्तुतस्त्वं पूर्णबन्धुरः स्तोतृभ्यो देयैर्धनैः पूरितेन रथेन युक्तः सन् वशान् कामयमानानन्ययजमानान्प्रति नूनं प्र याहि । अवश्यं प्रतिगच्छ । योजेत्यादि पूर्ववत् ॥ वन्दिषीमहि । वदि अभिवादनस्तुत्योः । आशीर्लिङ् । लिङाशिषि । पा. ३-४-११६ । इति तस्यार्धधातुकत्वेन लसार्वधातुकस्वराभावे प्रत्ययाद्युदात्तत्वम् । मघवन्नित्यस्यामन्त्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वे सति पादादित्वान्निघाताभावः ॥ ३ ॥
+
+*he maghavann indra susandṛśaṃ suṣṭhu anugrahadṛṣṭyā sarvasya draṣṭāraṃ tvā tvāṃ vayaṃ vandiṣīmahi | stavāmahai | stutikartāro bhūyāsmety āśāsyate | asmābhir vandibhiḥ stutas tvaṃ pūrṇabandhuraḥ stotṛbhyo deyair dhanaiḥ pūritena rathena yuktaḥ san vaśān kāmayamānān anyayajamānān prati nūnaṃ pra yāhi | avaśyaṃ pratigaccha | yojety ādi pūrvavat || vandiṣīmahi | vadi abhivādanastutyoḥ | āśīrliṅ | liṅāśiṣi | pā. 3-4-116 | iti tasyārdhadhātukatvena lasārvadhātukasvarābhāve pratyayādyudāttatvam | maghavann ity asyāmantritaṃ pūrvam avidyamānavad ity avidyamānavattve sati pādādityān nighātābhāvaḥ || 3 ||*
+
+*Sense:* "O *maghavan*, O Indra: you who see all (*susandṛśam*) well, with a gracious eye (*anugrahadṛṣṭyā*), you we would praise (*vandiṣīmahi* = *stavāmahai* — the benedictive: 'may we be praisers'). Praised by us, the bards, you, *pūrṇabandhuraḥ* — having your chariot filled with the wealth that is to be given to the praisers — go forth to *vaśān*, to those other sacrificers who desire (you) (*kāmayamānān*), without fail (*nūnam*). The rest, *yoja…*, as before." *The grammatical tail:* *vandiṣīmahi* — the root *vadi abhivādanastutyoḥ*, the benedictive *liṅ* (Pā. 3-4-116) with *ārdhadhātuka* status, so the *lasārvadhātuka* accent is absent and the affix is initial-udātta; *maghavan* — the vocative at the beginning is treated as non-existent (by "āmantritaṃ pūrvam avidyamānavat"), and the word then stands at the head of the pāda, so no nighāta.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.3** *(Kannada)*
+
+- **मघवन् इन्द्र** — "O Indra, possessed of wealth"
+- **सुसन्दृशम्** — "who look with a gracious eye on all"
+- **त्वा** — "you"
+- **वयम्** — "we"
+- **वन्दिषीमहि** — "we praise (with homage)"
+- **स्तुतः** — "praised (by us), you"
+- **पूर्णबन्धुरः** — "with your chariot filled (with wealth)"
+- **वशान्** — "to the sacrificers who desire you"
+- **नूनम्** — "without fail"
+- **प्र याहि** — "go and reach"
+- **ते** — "your"
+- **हरी** — "horses"
+- **नु** — "quickly"
+- **अनु योज** — "yoke (to the chariot)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.3** *(Kannada)*
+
+"O wealthy Indra, you look with a gracious mind on all of us, your devotees. We praise you, such a one, with homage. Praised by us, go, with your chariot filled with wealth, to the sacrificers who desire you. Yoke your horses quickly to the chariot and go to them and distribute wealth."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maghavan, we praise you, you look benignly upon all ; praised by us go to those who desire your presence in your chariot well filled with riches ; Indra, quickly yoke your horses." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.3)**
+
+- *(application)* — "In the *Mahāpitṛyajña* this Ṛk *susandṛśam* has to be used in worshipping the *Āhavanīya* fire; this is explained in the Āśvalāyana Śrauta-sūtra in the sūtra '*āhavanīyaṃ susandṛśaṃ tveti paṅktyā*' (Āśv. [2-19] [?])."
+
+### Page 45 (PDF 60)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 82.3, continued:*
+
+- **सुसन्दृशम्** — *suṣṭhu anugrahadṛṣṭyā draṣṭāram* — "Indra who looks with a gracious eye on those who praise."
+- **पूर्णबन्धुरः** — "*pūrṇa* — full: he whose chariot is full of the wealth and so on that is to be given to those who praise."
+- **वशान्** — *kāmayamānān anyān* — "other sacrificers who desire you; that is, in order to go to the sacrificers."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.3)** *(grammar page, noted briefly)*
+
+- **वन्दिषीमहि** — the root *vadi abhivādanastutyoḥ*, *bhvādi*; the benedictive *liṅ* (*āśīrliṅ*), first person plural. Since the root has the mark *i*, by "idito num dhātoḥ" (Pā. Sū. 7-1-58) the augment *num* arises. By "liṅaḥ sīyuṭ" (Pā. Sū. 3-4-102) the augment *sīyuṭ* for *liṅ*; by "liṅāśiṣi" (Pā. Sū. 3-4-116), the *liṅ* that comes in the sense of benediction takes the designation *ārdhadhātuka*, so here it is *ārdhadhātuka*; since *sīyuṭ* has *val*-initial *ārdhadhātuka* *liṅ*, the augment *iṭ* comes; the *y* of *sīyuṭ* is dropped by "lopo vyor vali" (Pā. Sū. 6-1-66), leaving *vand+i+sīmahi*. The rule of substitution (*ādeśa-ṣatva*) is applied, and the proper form results. Since the root *vad* is anudātta-*it* by teaching, one might doubt that the *liṅ* would be anudātta by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186); there is no room for it, because, as said before, the *āśīrliṅ* has the *ārdhadhātuka* designation and so is not *lasārvadhātuka*; so no anudātta accent arises. By "ādyudāttaś ca" (Pā. Sū. 3-1-3) the affix has the initial udātta accent. "Tiṅ atiṅaḥ" (Pā. Sū. 8-1-28): a *tiṅanta* after an *atiṅanta* is wholly anudātta; here that would make the affix-accent suppressed and the whole anudātta; but "āmantritaṃ pūrvam avidyamānavat" (Pā. Sū. 8-1-72) — the preceding *āmantrita* *maghavan* is not (counted as) present, so *vandiṣīmahi* stands at the head of the pāda; by the exclusion "apādādau" the total anudātta is barred, and the word keeps the affix-accent.
+- **योज** — "the processes of this (verb) were explained in the first Ṛk (82.1) of this sūkta." ||3||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–45 done (PDF 16–60) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.3 complete** (grammar of 82.2 ends on p. 43; of 82.3 on p. 45). Next: printed p. 46 (PDF 61) — Rik 82.4. Three Ṛks (82.4–82.6) remain, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt.
