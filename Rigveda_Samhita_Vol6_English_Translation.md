@@ -6991,4 +6991,60 @@ All the gods and the Maruts, who are not deluded, looked for Agni — dear to us
 
 ---
 
-**Progress note:** Printed pp. 1–340 done (PDF 19–358): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 72.1 complete; **Rik 72.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*asme*, *vatsaṃ na*, *pari ṣantam*) done (pp. 338–340); the Special Topics break off in the *pari ṣantam* note at the foot of p. 340; the grammar page not yet seen. Next: p. 341 (PDF 359). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.2–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.2 (pp. 338–339) compressed and partly doubtful [?].
+### Page 341 (PDF 359)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 72.2 (continued)**
+
+- **अमूराः** — *amūḍhacetasaḥ* — "possessing a mind that does not fall into delusion. The word *amūra* is stated in the twenty-two [as read, ?] words (Ni. [6-9?]). In the Ṛk *mūrā amūrā na vayaṃ cikitvaḥ* (Ṛk. Saṃ. [10-4-4?]) both *amūra* and *mūra* occur as examples; and in the Nirukta they explain *amūrāḥ* as *amūḍhāḥ*, 'not bewildered', and *mūrāḥ* as *mūḍhāḥ*, 'bewildered', *vayaṃ smaḥ*."
+- **श्रमयुवः** — *śrameṇa yūyante iti śramayuvaḥ* — "'joined with weariness': since Agni is hidden, there is none to carry the portions of the oblations of each to the gods; so, since the gods have no oblations, the gods, suffering from the fatigue so arising, were united and engaged without rest in the work of seeking Agni — such is the meaning. In the word *śramayuvaḥ* the root *yu* has the possessive sense. Skandasvāmin, in his commentary, explains *śramayuvaḥ* as 'possessed of weariness' like the senses of *aśvayuḥ*, *gavyuḥ*, *rathayuḥ* in the Ṛk (Ṛk. Saṃ. [1-30-14?], as read: *aśvayur gavyū rathayuḥ*)."
+- **पदव्यः** — *pādena vyayanti gacchantīti padavyaḥ* — "Sāyaṇa's sense: those going on foot, not mounted on a vehicle but walking on their own feet. For the word *pada* meaning 'the cause-soul, the resort of all the worlds':
+
+  > पदं देवस्य नमसा व्यन्तः श्रवस्यवः श्रव आपन्नमृक्तम् ।
+  > *padaṃ devasya namasā vyantaḥ śravasyavaḥ śrava āpann amṛktam* (Ṛk. Saṃ. [6-1-4?], as read)
+
+  as in this Ṛk, where it is used in the sense of the root *paś* ['to see'], so here too it is used in the sense of knowledge; the sense thus given by Skandasvāmin is 'those who know the cause-soul'." *(Gloss mine and tentative: "by homage they go to the place of the god, desiring fame, finding unharmed fame".)*
+- **धियंधाः** — *svasya karmaṇo dhārayitāraḥ* — "holders of their own work: the explanation is 'those who do not leave off the work of determining the places for Agni's lying down, sitting and so on'."
+- **चारु** — *cārūṇi* — "auspicious, excellent: the bhāṣyakāra explains *cāru* as an adjective of *parame pade*, 'the place where Agni lay hidden was an excellent place'. Skandasvāmin, explaining the intention, says that *cāru* is an adverb of the action: 'so that the gods may clearly know the regions where Agni lay hidden, they searched in those places'. And in *parame pade* the word *parama* gives *padajñaḥ* [as read]: 'knowers of the *pada*'. And for the word *pada* —" *(continued on p. 342)*
+
+---
+
+### Page 342 (PDF 360)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.2 (concluded)**
+
+> येना नः पूर्वे पितरः पदज्ञाः स्वर्विदो अभि गा अद्रिमुष्णन् ।
+> *yenā naḥ pūrve pitaraḥ padajñāḥ svarvido abhi gā adrim uṣṇan* (Ṛk. Saṃ. [4-?-?], as read; the numerals "[?]")
+
+"…in the Ṛk where *padajñāḥ* is used, the meaning is 'Aṅgirases, who know the *pada*'. In accord with this meaning the words *viśve* and *amūrāḥ* are also said here; therefore in this Ṛk one cannot take the meaning 'gods'; the commentary holds that, by the words *viśve*, *amūrāḥ*, *amṛtāḥ*, the Aṅgirases are meant, and that the matter of how, to the Agni hidden in the group of the ancestral gods (*pitṛ-devatās*), they each joined their own splendours, is described in the *Sauceeka-sūkta* [as printed]. From such an explanation one learns, by the phrase *parame pade tasthuḥ*, that by Agni's favour there is *sālokya* — union in the same world — with Agni." *(Gloss mine and tentative: "by which our former fathers, knowing the track, seeking heaven, drove out the cows from the mountain".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.2, noted briefly; not transcribed)*
+
+Words treated: *pariṣantam* (root *as bhuvi*; *śatṛ* in the present sense; because *sārvadhātukam apit* makes it *ṅit*-like, the *a* of *as* is lost by *śnasor alloपaḥ*, Pā. [6-4-111]; the form *sat*; *ṣatva* after *pari* by *upasargaprādurbhyām astir yacparaḥ*, Pā. [8-3-87] — the *s* of *as* after an upasarga or *prādus* before *ac* or *y*; here the *s* after the upasarga *pari* with *āṭ* ... [as read]; in the accusative singular, since the affix is *ugit*, *num*); *vindan* (root *vidḷ lābhe*; *laṅ*, third person plural, *jhi*→*anta*; loss of *i*; since the root is in the *mucādi* class, *num* by *śemuca…*, Pā. [7-1-59]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; nighāta because it follows an *atijanta*); *icchantaḥ* (root *iṣa icchāyām*, Tudādi; *śatṛ*; *śa*-vikaraṇa; *iṣugamiyamāṃ chaḥ*, Pā. [7-3-77], gives *ccha*; the vikaraṇa's accent remains since the *śatṛ* is *śit*; nominative plural, *ugit* so *num*); *śramayuvaḥ* (root *yu miśraṇe*; "joined with fatigue"; by the vārttika *kvip vacipracchi…* the *kvip* and lengthening prescribed apply to this root too, giving *śramayū*; before *jas*, since it is of the *tanvādi* class, *uvaṅ*-substitution; by *gatikārakopapadāt kṛt*, Pā. [6-2-139], the *kṛdanta* second member … natural accent). Continued on p. 343. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 343 (PDF 361)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 72.2 (concluded; noted briefly)**
+
+*padavyaḥ* (root *vī gatyādiṣu*; "those who go with the foot" — *kvip ca*, Pā. [3-2-76], since in an upapada compound the *kvip* is added to the root; the form *padavī*; by *gatikārakopapadāt kṛt* the second member's natural accent comes, giving the *ī* the acute; before *jas*, *yaṇ* for the *ī*; since *yaṇ* follows an udātta, the anudātta [ending] gets svarita by *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4]); *dhiyaṃdhāḥ* (*dhiyaṃ dhārayitāraḥ* — "holders of a thought"; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *ka* by *ato 'nupasarge kaḥ*, Pā. [3-2-3], since the second member is a word without an upasarga and the compound has an upapada; loss of the root's *ā* by *āto lopa iṭi ca*; by the *bahula* statement in *tatpuruṣe kṛti bahulam*, Pā. [6-3-14], the second case is not elided; the natural accent by *gatikārakopapadāt kṛt*); *tasthuḥ* (root *ṣṭhā gatinivṛttau*; *ṣatva*-loss of the initial *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; *liṭ*, third person plural, *jhi* → *us* by *parasmaipadānāṃ ṇalatusus…*; the root is doubled; *śarpūrvāḥ khayaḥ*, Pā. [7-4-61], leaves the *t* after the *s*; loss of the *ā* by *āto lopa iṭi ca*; no nighāta since at the head of a pāda; the affix's initial acute makes the word final-acute [as read]); *cāru* (the locative ending lost by *supāṃ sulug…*). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.3** *(printed Ṛk "3 ||")*
+
+> तिस्रो यदग्ने शरदस्त्वामिच्छुचिं घृतेन शुचयः सपर्यान् ।
+> नामानि चिद्दधिरे यज्ञियान्यसूदयन्त तन्वः सुजाताः ॥ ३ ॥
+
+*tisro yad agne śaradas tvām ic chuciṃ ghṛtena śucayaḥ saparyān |
+nāmāni cid dadhire yajñiyāny asūdayanta tanvaḥ sujātāḥ ||3||*
+
+*(Accents are marked in the print; not reproduced.)*
+
+---
+
+**Progress note:** Printed pp. 1–343 done (PDF 19–361): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.2 complete (72.2: Special Topics and grammar page on pp. 340–343); **Rik 72.3** (printed "3 ||") — Saṃhitā done (p. 343). Next: p. 344 (PDF 362), the Pada and the Sāyaṇa-bhāṣya of Rik 72.3. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.3–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 341–342 (as read, glosses mine and tentative) and the "Sauceeka-sūkta" reference doubtful [?].
