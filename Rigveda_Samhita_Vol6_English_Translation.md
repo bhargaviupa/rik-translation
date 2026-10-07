@@ -10600,4 +10600,75 @@ agnir yad ver martāya devān sa cā bodhāti manasā yajāti ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–491 done (PDF 19–509): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Rik 77.1 complete (pp. 487–491); **Rik 77.2** (printed "2 ||") — Saṃhitā done (p. 491). Next: p. 492 (PDF 510), the Pada and the Sāyaṇa-bhāṣya of Rik 77.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
+### Page 492 (PDF 510)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 77.2**
+
+> यः । अध्वरेषु । शम्ऽतमः । ऋतऽवा । होता । तम् । ऊम् इति । नमःऽभिः । आ । कृणुध्वम् ।
+> अग्निः । यत् । वेः । मर्ताय । देवान् । सः । च । बोधाति । मनसा । यजाति ॥ २ ॥
+
+*yaḥ | adhvareṣu | śam-tamaḥ | ṛta-vā | hotā | tam | ūm iti | namaḥ-bhiḥ | ā | kṛṇudhvam | agniḥ | yat | veḥ | martāya | devān | saḥ | ca | bodhāti | manasā | yajāti ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 77.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> यो ऽग्निरध्वरेषु यागेषु शंतमो ऽतिशयेन सुखकारी ऋतावा सत्यवान् । यथार्थदर्शीत्यर्थः । होता देवानामाह्वाता भवति हे ऋत्विग्यजमाना यूयं तमु तमेवाग्निं नमोभिः स्तोत्रैरा कृणुध्वं । अभिमुखीकुरुत । यद्यदायमग्निर्मर्ताय मनुष्याय यजमानार्थं देवान्वेः वेति गच्छति तदानीं सो ऽग्निर्यज्ञस्व्यान्सर्वान्देवान्बोधाति च । जानाति च । ज्ञात्वा च मनसा नमसा तान्यजाति । हविर्भिः पूजयेति । अतस्तमेवाग्निमा कृणुध्वमिति योज्यं ॥ वेः । वी गत्यादिषु । छंदसि लुङ्लङ्लिट इति वर्तमाने लङ् । तिङां तिङो भवंतीति प्रथमपुरुषैकवचनस्य मध्यमपुरुषैकवचनादेशः । बोधाति । बुध अवगमने । लेट्यडागमः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । चवायोगे प्रथमेति निघातप्रतिषेधः । मनसा । मकारनकारयोः स्थानविपर्ययः ॥
+
+*yo 'gnir adhvareṣu yāgeṣu śaṃtamo 'tiśayena sukhakārī ṛtāvā satyavān | yathārthadarśīty arthaḥ | hotā devānām āhvātā bhavati he ṛtvig-yajamānā yūyaṃ tam u tam evāgniṃ namobhiḥ stotrair ā kṛṇudhvaṃ | abhimukhīkuruta | yad yadāyam agnir martāya manuṣyāya yajamānārthaṃ devān veḥ veti gacchati tadānīṃ so 'gnir yajñasvyān sarvān devān bodhāti ca | jānāti ca | jñātvā ca manasā namasā tān yajāti | havirbhiḥ pūjayeti | atas tam evāgnim ā kṛṇudhvam iti yojyaṃ || veḥ | vī gatyādiṣu | chandasi luṅlaṅliṭa iti vartamāne laṅ | tiṅāṃ tiṅo bhavantīti prathamapuruṣaikavacanasya madhyamapuruṣaikavacanādeśaḥ | bodhāti | budha avagamane | leṭy aḍāgamaḥ | śapaḥ pittvād anudāttatve dhātusvaraḥ śiṣyate | cavāyoge prathameti nighātapratiṣedhaḥ | manasā | makāranakārayoḥ sthānaviparyayaḥ ||*
+
+*(Reading note: "yajñasvyān" is printed so and doubtful [?]; the Saṃhitā reads "yad ver"; the bhāṣya explains "veḥ" as the third-person *veti*, the second-person form standing for the third by the substitution rule.)*
+
+*Meaning:* The Agni who in the sacrifices (*adhvareṣu*) is *śaṃtamaḥ* — exceedingly comfort-giving — *ṛtāvā*, truthful, a seer of things as they are, is the *hotṛ*, invoker of the gods. O priests and sacrificers, make that very Agni turn to you (*ā kṛṇudhvam*) with praises (*namobhiḥ*). When (*yat*) this Agni goes (*veḥ*) for a mortal (*martāya*) — the sacrificer — to the gods, then that Agni both knows (*bodhāti*) all the gods connected with the sacrifice and, knowing them, with mind (*manasā*) worships (*yajāti*) them with oblations. Therefore connect it so: "make that very Agni turn to you."
+
+**Grammatical tail** *(characterized)*: *veḥ* (root *vī gatyādiṣu*; Vedic *laṅ* in the present sense; the second-person singular ending for the third by *tiṅāṃ tiṅo bhavanti*); *bodhāti* (root *budha avagamane*; *leṭ* with *aḍ*; no nighāta since *ca* is connected); *manasā* (transposition of *m* and *n*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*yaḥ* — which Agni; *adhvareṣu* — in sacrifices; *śaṃtamaḥ* — exceedingly comfort-giving; *ṛtāvā* — a seer of things as they are; *hotā* — the invoker of the gods; *tam u* — that very Agni; *namobhiḥ* — with hymns; *ā kṛṇudhvam* — turn to yourselves; *yat* — when; *agniḥ* — Agni; *martāya* — for a man (the sacrificer); *devān* — to invite the gods; *veḥ* — goes; *saḥ* — that Agni; *bodhāti* — knows (the gods to be worshipped); *manasā* — with praises; *yajāti ca* — and worships (with oblations and the like).
+
+---
+
+### Page 493 (PDF 511)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni, on behalf of the sacrificer, goes out to the gods, knowing (whom is to be worshipped by whom), and gratifies them with (suitable) praises. Therefore turn to yourselves, with hymns of praise, Agni — comfort-giving in sacrifices, a seer of things as they are, and the caller of the gods.
+
+**English Translation** *(the source's own, as printed):*
+
+> bring hither, with prises [sic], him who is most constant in sacrifices, observant of truth, and the invoker (of the Gods), for Agni, when he repairs to the Gods on the part of man, knows those (who are to be worshipped), and worships them with reverence.
+
+*(The initial lower-case "bring" and "prises" are as printed [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **शंतमः** — "*śiṃbātā*, *śatarā* and so on — since the word *śam* is read among the twenty-eight names of comfort (Ni. [3-?]), *śam* means comfort. *Atiśayena sukhakārī* — one who especially produces comfort for men."
+- **ऋतावा, होता मर्ताय** — "the explanation of these words is in the preceding Ṛk."
+- **वेः** — *vī gatyādiṣu* — "the root *vī* has the senses of going and so on. Here the commentator says that the sense of the third person singular must be given to the word *veḥ*, which is of the second person singular: instead of 'you go', the sense 'he goes' is to be told."
+- **देवान् स च बोधाति** — "he knows the gods: the sense is that the sacrificer invites those gods to the sacrificial altar in the sacrifice, in whose name he offers in Agni; the knowledge of whom to call to the sacrificial ground, and at what time, resides in Agni."
+- **नमोभिः** — "with salutations, with hymns (Ni. [3-30?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 77.2, noted briefly; not transcribed)*
+
+*śaṃtamaḥ* ("he makes comfort exceedingly", *śam karoti*; *tamap* by *atiśāyane tamabiṣṭhanau*; being *pit*, anudātta) *(continued on p. 494)*.
+
+---
+
+### Page 494 (PDF 512)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Grammar page of Rik 77.2 (concluded; noted briefly)**
+
+*ṛtāvā* (explained in the preceding mantra). *kṛṇudhvam* (root *kṛvi hiṃsākaraṇayoś ca*; *loṭ*, second person plural, *dhvam*; the *u* affix by *dhinvikṛṇvor a ca*, Pā. [3-1-80], with *a* for the final; *uttva*; *num* by *idito num dhātoḥ*; loss of the *a* by *ato lopaḥ*, since *u* is the cause; by *acaḥ parasmin pūrvavidhau* the *sthānivat* rule applies, so no guṇa of the light penultimate caused by *u*; for the *u*, guṇa caused by *dhvam* is prohibited by *kṅiti ca*; by *sārvadhātukam apit* the affix is *ṅit*; nighāta because it follows an *atijanta*). *veḥ* (the root *vī* has many senses such as going; with the present sense, Vedic *laṅ* by *chandasi luṅlaṅliṭaḥ*; *sip* in the second person singular; loss of *i* by *itaś ca*; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; guṇa of the root's *ī* because of *sip*; it should be understood that here the second-person ending has come in place of the third by *tiṅāṃ tiṅo bhavanti*; by *bahulaṃ chandasy amāṅyoge 'pi* the *aḍ*-augment does not come; *ru* and visarga for the *s*; since *yat* is connected before it, nighāta is prohibited by *yadvṛttānnityam*, so the root's final acute remains). *bodhāti* (root *budha avagamane*; *leṭ*, third person singular, *tip*; *aḍāgama* by *leṭo 'ḍāṭau*; *śap* by *kartari śap*; guṇa of the light penultimate by *pugantalaghūpadhasya ca*; since *ca* is connected before it, nighāta is prohibited by *cavāyoge prathamā*; *śap* being *pit*, anudātta, so the root accent remains). *manasā* (the form of *namasā*: transposition of *m* and *n* in the Veda). *yajāti* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *leṭ*, third person singular, as before; nighāta because it follows an *atijanta*). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.3** *(printed Ṛk "3 ||")*
+
+*(The Saṃhitā of Rik 77.3 is printed on p. 495.)*
+
+---
+
+**Progress note:** Printed pp. 1–494 done (PDF 19–512): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.2 complete (77.2: pp. 491–494). Next: p. 495 (PDF 513), **Rik 77.3** (its Saṃhitā heads p. 495 — view it first). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; "yajñasvyān" in the bhāṣya of 77.2 doubtful [?].
