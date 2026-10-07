@@ -10819,4 +10819,62 @@ May Agni, the best of those who conduct sacrifice and the destroyer of enemies, 
 
 ---
 
-**Progress note:** Printed pp. 1–500 done (PDF 19–518): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.3 complete (77.3's grammar page on pp. 497–498); **Rik 77.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*nṛtamaḥ*) done (pp. 499–500); the Special Topics break off at the foot of p. 500; the grammar page not yet seen. Next: p. 501 (PDF 519); then Rik 77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 77.4 (p. 499) with its tail compressed and doubtful [?].
+### Page 501 (PDF 519)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 77.4 (continued)**
+
+- **रिशादाः** — *riśānām śatrūṇām attā bhakṣayitā | yadvā riśatāṃ hiṃsatām asitā nirāsitā* — "one who devours (consumes, burns) enemies, i.e. a destroyer, or one who drives away those who injure."
+- **अग्निः गिरः अवसा वेतु धीतिम्** — "since *avaḥ* is read among the twenty-eight names of food, *andhaḥ*, *vājaḥ* and so on (Ni. [2-7?]), *avasā* means 'with food' — or 'with food endowed with oblation'. The sense: may Agni hear the hymns we make, and accept the food in the form of oblations that we offer."
+- **तना** — "this word, formed from the root *tanu vistāre*, is the instrumental singular. Since *tanā* is read among the twenty-eight names of wealth, *magham*, *rekṇaḥ* and so on (Ni. [2-10?]), *tanā* means 'possessed of extensive (abundant) wealth'."
+- **मघवानः** — "*magha* is wealth (Ni. [2-10?]); *maghavānaḥ* means those who have wealth; a word in the nominative plural."
+- **शविष्ठाः** — "since *śavaḥ* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. [2-9?]), *śaviṣṭhāḥ* means those who are exceedingly strong."
+- **वाजप्रसूताः** — "since *vājaḥ* is read among the twenty-eight names of food (Ni. [2-7?]), *vāja* means food, *prasūta* means urged: *prasūtaṃ preritaṃ vājo havirlakṣaṇam annaṃ yaiḥ* — 'those sacrificers who are offering to the gods food in the form of oblation'. The words *maghavānaḥ*, *śaviṣṭhāḥ*, *vājaprasūtāḥ* are in the nominative plural and are adjectives of the word *ye* ('which [sacrificers]')."
+- **मन्म** — *agner mananarūpaṃ stotram* — "this mantra in the form of a hymn that we make with devotion."
+- **इषयन्त** — *iṣu icchāyām | eṣayanti ṛtvigbhiḥ kārayitum icchanti* — "the sacrificers wish Agni's praise to be made by the priests."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 77.4, noted briefly; not transcribed)*
+
+Words treated: *nṛṇām* (the stem *nṛ*; in the genitive plural, *nuṭ* by *hrasvanadyāpo nuṭ*, Pā. [7-1-54]; the lengthening of the *nām* by *nṛ ca*, Pā. [6-4-6], being optional, here not made; *nām* gets the udātta by *nāmanyatarasyām*, Pā. [6-1-177], by *yuvarṇasyā… ṇatva*) *(continued on p. 502)*.
+
+---
+
+### Page 502 (PDF 520)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Grammar page of Rik 77.4 (continued; noted briefly)**
+
+*nṛṇām* (concluded): *ṇatva* of the *n* of *nām* by the rule on the *ṛ*-*r*-*ṣ* context; the *nām* ending acute by *nāmanyatarasyām*. *riśādāḥ* ("he eats the *riśas*", enemies; root *adaṅ bhakṣaṇe*; the affix *asi* by the Uṇādi sūtra *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca*, Uṇ. [4-?], giving the first member's natural accent; the stem *riśādas*; nominative singular). *vetu* (root *vī gatyādiṣu*; used here in the sense of desiring; *loṭ*, third person singular; nighāta because it follows an *atijanta*). *tanā* (root *tanu vistāre*; in the *pacādi* class; *ac* by *nandigrahipacādibhyo…*, Pā. [3-1-134]; the stem *tana*; the instrumental singular ending replaced by *ā* by *supāṃ sulug…*; since *cit*, final acute, and with the single replacement the final acute would arise; but since *vṛṣādi* is an *ākṛtigaṇa* and this is read in it, by *vṛṣādīnāṃ ca*, Pā. [6-1-203], the initial acute). *śaviṣṭhāḥ* (*śava* is a name of strength; "he has strength", *śavasvin*; *vini* by *asmāyāmedhā…*, Pā. [5-2-121]; "most mighty": *iṣṭhan* in the sense of excess by *atiśāyane tamabiṣṭhanau*, Pā. [5-3-55]; loss of *vin* by *vinmator luk*, Pā. [5-3-65]; loss of the *ti* of *śavas* by *ṭer*, Pā. [6-4-155]; *iṣṭhan* being *nit*, initial acute). *iṣayanta* (root *iṣu icchāyām*; the causative sense shown, *ṇic* by *hetumati ca*; *iṣi* receives the root-designation by *sanādyantā dhātavaḥ*; since the rule *saṃjñāpūrvako vidhir anityaḥ*, no guṇa of the light penultimate caused by *ṇic*; Vedic *laṅ* in the present sense; third person plural, *jhi* → *anta* by *jho 'ntaḥ*; *śap*; since *śap* is the cause, guṇa for *ṇic*, *ayādeśa*; *pararūpa* by *ato guṇe*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aḍ*; since *ye* is connected, by *yadvṛttānnityam*, Pā. [8-1-66], nighāta is prohibited…) *(continued on p. 503)*.
+
+---
+
+### Page 503 (PDF 521)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 77.4 (concluded; noted briefly)**
+
+*iṣayanta* (concluded): …nighāta is prohibited; the *laṭ*-type affix of an *adupadeśa* root is anudātta by *tāsyanudāttet…*, Pā. [6-1-186]; so the *ṇic*'s accent remains. Ends "॥ ४ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.5** *(the last Ṛk of the sūkta; printed "5 ||")*
+
+> एवाग्निर्गोतमेभिरृतावा विप्रेभिरस्तोष्ट जातवेदाः ।
+> स एषु द्युम्नं पीपयत्स वाजं स पुष्टिं याति जोषमा चिकित्वान् ॥ ५ ॥
+
+*evāgnir gotamebhir ṛtāvā viprebhir astoṣṭa jātavedāḥ |
+sa eṣu dyumnaṃ pīpayat sa vājaṃ sa puṣṭiṃ yāti joṣam ā cikitvān ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> एव । अग्निः । गोतमेभिः । ऋतऽवा । विप्रेभिः । अस्तोष्ट । जातऽवेदाः ।
+> सः । एषु । द्युम्नम् । पीपयत् । सः । वाजम् । सः । पुष्टिम् । याति । जोषम् । आ । चिकित्वान् ॥ ५ ॥
+
+*eva | agniḥ | gotamebhiḥ | ṛta-vā | viprebhiḥ | astoṣṭa | jāta-vedāḥ | saḥ | eṣu | dyumnam | pīpayat | saḥ | vājam | saḥ | puṣṭim | yāti | joṣam | ā | cikitvān ||5||*
+
+*(The Sāyaṇa-bhāṣya of Rik 77.5 begins on p. 504.)*
+
+---
+
+**Progress note:** Printed pp. 1–503 done (PDF 19–521): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.4 complete (77.4: pp. 499–503); **Rik 77.5** (the last; printed "5 ||") — Saṃhitā and Pada done (p. 503). Next: p. 504 (PDF 522), the Sāyaṇa-bhāṣya of Rik 77.5 and the rest of its treatment, then the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammar page of 77.4 (pp. 501–503) compressed and doubtful in places [?].
