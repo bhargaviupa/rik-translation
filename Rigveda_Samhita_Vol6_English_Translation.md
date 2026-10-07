@@ -7945,4 +7945,63 @@ Like wealth obtained from the father; like the instruction of one learned in the
 
 ---
 
-**Progress note:** Printed pp. 1–384 done (PDF 19–402): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup; the ninth sūkta of Anuvāka 12; Varga "19, 20" as read [?]) begun: Sāyaṇa's introduction and heading (p. 382); **Rik 73.1** — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 382–384) and the Special Topics begun (*vayodhāḥ*, breaking off at the foot of p. 384); its grammar page not yet seen. Next: p. 385 (PDF 403). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.1 (p. 383) compressed and cut at the ellipses in my reading [?].
+### Page 385 (PDF 403)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 25".)*
+
+**Special Topics of Rik 73.1 (continued)**
+
+- **रयिर्न पितृवित्तः वयोधाः** (concluded) — "…as a father's acquired wealth gives the son food, so Agni makes the sacrificers' food pleasant — Agni, who accepts the oblation-portions offered in the sacrifices that the sacrificers perform, produces food that gives joy."
+- **चिकितुषो न सुप्रणीतिः** — *praṇītiḥ kāryeṣu upadeśaḥ | supraṇītiḥ — sukhena kāryeṣu upadeśaḥ* (Skandasvāmin's commentary); *sukhena praṇetavyaḥ* (Sāyaṇa's) — "Skandasvāmin explains *supraṇīti* as 'performing or carrying out works without exertion'. Agni is fit to be propitiated at ease, in accord with the permission of those who know the order of carrying out the rites."
+- **स्योनशीरतिथिर्न प्रीणानः** — *syonam iti sukhanāma | syone sukhakare gārhapatyādisthāne śete iti syonaśīḥ* — "*Syona* is a name of 'comfort'; since *śaṃyuḥ*, *śatam* [as read, ?] and the like are read among the [twenty-odd] names of comfort (Ni. [3-6?]), the word *syona* means comfort. Sāyaṇa explains this epithet of Agni as 'one seated comfortably in a place of the sacrificial altar designated as the comfort-giving *gārhapatya*'. Skandasvāmin: since the *śī* in *syonaśīḥ* is a form of the root *śīṅ*, 'the root *śīṅ* here denotes place', designating a location: in the Ṛk
+
+  > तासामुह प्रतिष्णे … [?] शीर्बभूव
+  > *tāsām uha … śīr babhūva* (Ṛk. Veda [1-?-?]; as read, doubtful)
+
+  with the causative sense included, it means 'one who causes comfort by placing' — the one who makes comfort. As a guest, seated on a comfortable seat and honoured with *arghya*, water for the feet and the like, is gratified and becomes pleasant, so Agni, seated comfortably in the altar such as the *gārhapatya*, receives worship and oblation-portions from the sacrificers and, being satisfied, grants the pleasures desired." *(The Ṛgveda citation in this item is read from small print and is doubtful [?]; no gloss given.)*
+- **होतेव सद्म विधतो वि तारीत्** — *homakartā adhvaryuḥ* — "'the *adhvaryu*, the priest who performs the offering': this is the sense of *hotṛ* here. As the *adhvaryu* offers the oblation-portions in Agni at the proper times for the sacrifice and causes the household of the sacrificer to increase, so Agni, gratified, increases the sacrificer's house."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.1, noted briefly; not transcribed)*
+
+Words treated: *pitṛvittaḥ* (root *vidḷ lābhe*; *kta* in the passive by *niṣṭhā*; the *iṭ*-augment prohibited by *yasya vibhāṣā*, Pā. [7-2-15], so that, since *iṭ* is optional anywhere, it does not apply before *niṣṭhā*; by *vibhāṣā gamahanavida viśām*, Pā. [7-2-68], *iṭ* is optionally prescribed for *kvasu* after the root *vid*; the root *vid* has many senses, so by the rule of association (*sāhacarya-paribhāṣā*) here, since it is in the company of *viś*, the Tudādi *vidḷ* is meant … *(continued on p. 386)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 386 (PDF 404)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.1 (continued; noted briefly)**
+
+*pitṛvittaḥ* (concluded): the Tudādi *vidḷ* being taken, the *iṭ*-prohibition of the earlier sūtra is not meant for it; when *t* follows *d*, *natva* of the *niṣṭhā*'s *t* would arise, but *vitto bhogapratyayayoḥ*, Pā. [8-2-58], has fixed the absence of *natva* by nipāta; the final acute from the affix's accent; *pituḥ*, *vittaḥ*, *pitṛvittaḥ*: by *gatikārakopapadāt kṛt* the second member keeps its natural accent. *vayodhāḥ* (root *dudhāñ dhāraṇapoṣaṇayoḥ*; *vic* affix by *ato maninkvanibvanipaś ca* [as read, Pā. [3-2-74]], *vic* being included in its *c*; in *vic* everything is lost; "*vayo dadhāti iti vayodhāḥ*"; as before, the second member keeps its natural accent). *supraṇītiḥ* ("it is led", *praṇītiḥ*; *ktin* in the feminine by *striyāṃ ktin*, Pā. [3-3-94]; since *kit*, no guṇa of the root; by *tāḍau ca*, Pā. [6-2-50], *gati* [*pra*] keeps its natural accent; then, being compounded with *su*, "*Śobhanā praṇītiḥ*", by the paribhāṣā *kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam* — since the prefix is included in the *kṛt*'s scope — the second member keeps its natural accent); *cikituṣaḥ* (root *kita jñāne*; *kvasu* for *liṭ* by *kvasuś ca*, Pā. [3-2-107]; doubling of the root; *halādiśeṣa*; *cuṭva*; since *vasu* is *kit*, no guṇa of the light penultimate; the stem *cikitvas*; before the genitive singular, the *bha*-designation applies because *jas*-type ending [*as*] follows, hence samprasāraṇa by *vasoḥ saṃprasāraṇam*; *ṣatva* of the *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; *ru*, visarga; the form *cikituṣaḥ*); *śāsuḥ* (root *śāsu anuśiṣṭau*, Adādi; since *bahula* is read in the Uṇādi, the *u* affix prescribed by *śvasnihi* [as read, Uṇ. [1-10?]] applies to this root also; the *sit* of the preceding sūtra continues by anuvṛtti, so that, since *u* [*sit*]-… *ñnityādir nityam*, Pā. [6-1-197], gives initial acute); *syonaśīḥ* (*syona* is a name of comfort; "he who lies in comfortable [place], the *gārhapatya*" — root *śīṅ svapne*; *kvip ca*, Pā. [3-2-76]; the second member keeps its natural accent). Continued on p. 387. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 387 (PDF 405)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 73.1 (concluded; noted briefly)**
+
+*prīṇānaḥ* (root *prīñ tarpaṇe*; *śānac* in the present sense in the passive; by *vyatyayo bahulam*, *śnā* as the vikaraṇa in place of *yak*; since *sārvadhātukam apit* gives *ṅit*-ness, no guṇa of the root's *ī*; because of *raṣābhyāṃ no ṇaḥ samānapade* [as read: *aṭkupvāṅ-…*], *ṇatva* of the *n*; final acute by *cit*); *vidhataḥ* (root *vidha vidhāne*, Tudādi; the Nairukta explains "*vidhatiḥ paricaraṇakarmā*" ["*vidhati* is a verb of service"]; *śatṛ* in the present sense; *śa* by *tudādibhyaḥ śaḥ*, Pā. [3-1-77]; since *śit*, no guṇa; genitive singular; since the *śatṛ* lacks *num*, the ending acute, being *ajādi*, by *śatur anumo nadyajādī*, Pā. [6-1-173]). Ends "॥ १ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.2** *(printed Ṛk "2 ||")*
+
+> देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा ।
+> पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥ २ ॥
+
+*devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā |
+purupraśasto amatir na satya ātmeva śevo didhiṣāyyo bhūt ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> देवः । न । यः । सविता । सत्यऽमन्मा । क्रत्वा । निऽपाति । वृजनानि । विश्वा ।
+> पुरुऽप्रशस्तः । अमतिः । न । सत्यः । आत्माऽइव । शेवः । दिधिषाय्यः । भूत् ॥ २ ॥
+
+*devaḥ | na | yaḥ | savitā | satya-manmā | kratvā | ni-pāti | vṛjanāni | viśvā | puru-praśastaḥ | amatiḥ | na | satyaḥ | ātmā-iva | śevaḥ | didhiṣāyyaḥ | bhūt ||2||*
+
+*(The Sāyaṇa-bhāṣya of Rik 73.2 begins on p. 388.)*
+
+---
+
+**Progress note:** Printed pp. 1–387 done (PDF 19–405): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 73.1 complete (Special Topics p. 385; grammar page pp. 385–387); **Rik 73.2** (printed "2 ||") — Saṃhitā and Pada done (p. 387). Next: p. 388 (PDF 406), the Sāyaṇa-bhāṣya of Rik 73.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation on p. 385 (read from small print) doubtful [?].
