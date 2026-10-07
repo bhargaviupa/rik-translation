@@ -8852,4 +8852,85 @@ O wise Agni! May the hymns that we now offer be taken up by your mind and heart.
 
 ---
 
-**Progress note:** Printed pp. 1–426 done (PDF 19–444): **Sūktas 62–73 complete** (Sūkta 73's closing line, p. 426: "eppattamūraneya sūkta samāptavu"). **Sūkta 74** (nine Ṛks; Agni; ṛṣi Gotama Rāhūgaṇa; Gāyatrī; the first sūkta of Anuvāka 13) begun: title, Sāyaṇa's introduction and the start of the Anuvāda (p. 426). Next: p. 427 (PDF 445), the rest of the Anuvāda, the sūkta's heading and Rik 74.1. NB: the metre changes here from Triṣṭup to Gāyatrī and the ṛṣi from Parāśara to Gotama Rāhūgaṇa. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening words and the Anukramaṇī phrase of Sāyaṇa's introduction to Sūkta 74 doubtful [?].
+### Page 427 (PDF 445)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "21" as read [?]".)*
+
+**Anuvāda (concluded from p. 426; Kannada):** …the Āśvalāyana-śrauta-sūtra says in the sūtra "*upo revatīḥ kṣayathā hi vasvaḥ*, *upa prayanta* — the two sūktas" (Ā. [4-13?]). The Āśvalāyana-śrauta-sūtra also says that these two sūktas are applied for the recitation of the Aśvina-śastra mantras (Ā. [6-3?]). That this sūkta is to be applied, on the first day of the six-day *pṛṣṭhya-ṣaḍaha* sacrifice, for the recitation of the *ājya-śastra* mantras is explained by the sūtra "*upa prayanta iti tu prathame 'hany ājyam*" (Ā. [7-10?]).
+
+**सूक्त — ७४ (Sūkta 74)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७४ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 74.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२१?], [२२?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "21, 22" as read, numerals doubtful [?].*
+*Number of Ṛks in the sūkta:* 9. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Gāyatrī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.1**
+
+> उपप्रयन्तो अध्वरं मन्त्रं वोचेमाग्नये ।
+> आरे अस्मे च शृण्वते ॥ १ ॥
+
+*upaprayanto adhvaraṃ mantraṃ vocemāgnaye |
+āre asme ca śṛṇvate ||1||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> उपऽप्रयन्तः । अध्वरम् । मन्त्रम् । वोचेम । अग्नये ।
+> आरे । अस्मे इति । च । शृण्वते ॥ १ ॥
+
+*upa-prayantaḥ | adhvaram | mantram | vocema | agnaye | āre | asme iti | ca | śṛṇvate ||1||*
+
+---
+
+### Page 428 (PDF 446)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> अध्वरं हिंसाप्रत्यवायरहितमग्निष्टोमादियज्ञमुपप्रयंते उपेत्य प्रकर्षेण यंतो गच्छंतः । प्राप्य वा विच्छेदेन सम्यगनुतिष्ठंत इत्यर्थः । तादृशा वयमग्नये ऽंगनादिगुणयुक्ताय देवाय मंत्रं मननसाधनमेतत्स्तोत्ररूपं स्तोत्रं वोचेम । वक्तारो भूयास्मेत्याशास्यते । कीदृशायाग्नये । आरे ऽस्मे च शृण्वते । चशब्दो ऽपार्थ आरेशब्दात्परो द्रष्टव्यः । आरे च दूरे ऽपि स्थिताः ऽस्माकं स्तुतीः शृण्वते । अस्मासु प्रीत्यतिशयेन सर्वत्र प्रवर्तमानो ऽग्निरस्मदीयमेव स्तोत्रं शृणोतीति भावः ॥ वोचेमु । ब्रुवो वचिः । लिङ्याशिष्यज् । वचे उमित्यु-मागमः । शृण्वते । शतुरनुमः इति विभक्तेरुदात्तत्वं ॥
+
+*adhvaraṃ hiṃsāpratyavāyarahitam agniṣṭomādiyajñam upaprayante upetya prakarṣeṇa yanto gacchantaḥ | prāpya vā vicchedena samyag anutiṣṭhanta ity arthaḥ | tādṛśā vayam agnaye 'ṅganādiguṇayuktāya devāya mantraṃ mananasādhanam etat stotrarūpaṃ stotraṃ vocema | vaktāro bhūyāsmety āśāsyate | kīdṛśāyāgnaye | āre 'sme ca śṛṇvate | caśabdo 'pārtha āreśabdāt paro draṣṭavyaḥ | āre ca dūre 'pi sthitāḥ asmākaṃ stutīḥ śṛṇvate | asmāsu prītyatiśayena sarvatra pravartamāno 'gnir asmadīyam eva stotraṃ śṛṇotīti bhāvaḥ || vocemu(?) | bruvo vaciḥ | liṅy āśiṣy aj | vace um ity u-māgamaḥ | śṛṇvate | śatur anuma iti vibhakter udāttatvaṃ ||*
+
+*(Reading note: "vocemu" is printed so [for *vocema*]; "vace um ity umāgamaḥ" is read as printed and doubtful [?]; "ṅgana" — *aṅganādi* — as printed.)*
+
+*Meaning:* *Adhvara* — the sacrifice such as the *agniṣṭoma*, free from harm and obstruction: we who go (*prayantaḥ*) to it (*upa*) with vigour, or, having reached it, perform it properly without interruption — such as we may speak (*vocema*) to Agni (*agnaye*), the god endowed with good qualities, a *mantra* (*mantram*) — a hymn, the means of reflection; it is wished that we may be speakers. To what Agni? To one who hears (*śṛṇvate*) us even from afar (*āre*): the word *ca* is to be taken after *āre*; for he, who is everywhere in his great love for us, hears even our hymn.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*adhvaram* — the sacrifice free from harm and the like; *upaprayantaḥ* — (we) who go near and perform (the sacrifice); *āre ca* — even from afar; *asme* — our (praises); *śṛṇvate* — to him who hears; *agnaye* — to Agni; *mantram* — this mantra in the form of a hymn; *vocema* — let us utter.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+(We) who go swiftly to the sacrificial hall will utter this hymn to Agni, who hears our praises even from afar.
+
+**English Translation** *(the source's own, as printed):*
+
+> Hastening to the sacrifice, let us repeat a prayer to Agni, who hears us from afar.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "The ṛṣi of this sūkta is Gotama, son of Rahūgaṇa. He is one of the seven sages. The Ṛks seen by this sage in the Ṛgveda are: in the first maṇḍala, the Ṛks in Sūktas 74–93 [as read, ?], …; in the ninth maṇḍala, the 6 Ṛks of the 31st sūkta, and the 3 Ṛks of the 68th sūkta [as read]; in all, [a total of the Ṛks as read: "३०३?"] Ṛks." *(The small Kannada numerals of the totals are illegible at this resolution; left unreconciled [?].)*
+
+---
+
+### Page 429 (PDF 447)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 74.1 (continued)**
+
+- **अध्वरम्** — *na vidyate dhvaro yasya* — "'that in which there is no injury (*dhvara*)': a rite that propitiates the deities, or sacrifice. Because in a sacrifice there are many kinds and sub-kinds — Agni, Soma and the like — *adhvaram* in a Ṛk may mean any sacrifice that is being performed. The Ṛk here describes what the sage Gotama said to the priests: 'we shall go to the sacrificial hall'."
+- **उपप्रयन्तः** — "*Upa* means near, *pra* means with vigour, with eagerness; *yantaḥ* — those who go: those who go, with purpose, to the vicinity of the place where the sacrifice is going on — such is the chief sense."
+- **मन्त्रम्** — *mananasādhanam etat stotrarūpam* — "this hymn, which is the means of reflection: this hymn in the form of a *stotra*, which we, with our minds, praising Agni, utter in the open with spoken words. The sage calls this a *mantra*. The sage says to the *hotṛ* and other priests: 'let us utter this mantra in the form of praise of Agni.'"
+- **अग्नये** — "for Agni, addressing Agni."
+- **आरे** — "since the word *āre* is read among the five names of 'far', *ākare*, *parāke* and so on (Ni. [3-20?]), *āre* means 'far'."
+- **च** — "this word is to be joined after the word *āre*, and read *āre ca*. Then the words *āre ca* mean 'both far away and near'. To us men, sound is heard only when it is near; those who are far have no power to hear the voice of those who speak. Because Agni is present in earth, atmosphere and heaven, he has the power to hear our hymns, being far or near."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.1, noted briefly; not transcribed)*
+
+Words treated: *upa prayantaḥ* (prefixes *upa*, *pra*; root *iṇ gatau*; *śatṛ* in the present sense; *yaṇ* for the root's *i* by *iko yaṇaci*, Pā. [6-1-77]; nominative plural). *vocema* (root *brūñ vyaktāyāṃ vāci*; *āśīrliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*; since the *āśīrliṅ* is *ārdhadhātuka* by *liṅāśiṣi*, Pā. [3-4-116], *vacī* for *brū* by *bruvo vaciḥ*, Pā. [2-4-53]…) *(continued on p. 430)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–429 done (PDF 19–447): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13): Anuvāda concluded and heading (p. 427); **Rik 74.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 427–429) done; the grammar page begun (p. 429, up to *vocema*). Next: p. 430 (PDF 448), the rest of the grammar page of 74.1; then Rik 74.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk totals of the ṛṣi note on p. 428 unread [?].
