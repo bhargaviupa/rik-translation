@@ -7550,4 +7550,93 @@ vidad gavyaṃ saramā dṛḷham ūrvaṃ yenā nu kaṃ mānuṣī bhojate vi�
 
 ---
 
-**Progress note:** Printed pp. 1–367 done (PDF 19–385): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.7 complete (72.7: Special Topics and grammar page on pp. 364–366); **Rik 72.8** (printed "8 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (pp. 366–367). Next: p. 368 (PDF 386), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.8. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.8–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.8 (p. 367) compressed and partly doubtful [?].
+### Page 368 (PDF 386)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 72.8** *(Kannada)*
+
+*(agne* — O Agni); *svādhyaḥ* — endowed with auspicious works; *yahvīḥ* — great; *sapta* — seven (the Gaṅgā and the other rivers); *divaḥ* — from the world of heaven (coming, they flow on the earth); *ṛtajñāḥ* — those who know the sacrifices (the procedure) (the Aṅgirases); *rāyaḥ* — (the wealth carried off by Vala) in the form of cows; *duraḥ* — the doors (the paths of going); *ajānan* — they knew; *yena nu* — by which (that is the milk connected with cows); *mānuṣī viṭ* — the people connected with Manu; *bhojate* — (even now) they enjoy; *tam* — that; *gavyam* — cow-produce; *dṛḷham* — abundant, thick; *ūrvam* — (milk-form) food; *saramā* — the divine dog; *vidat* — obtained.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! It is through you that the seven great rivers, Gaṅgā and the rest, come from heaven and flow in the world of earth. It is through you that the Aṅgirases, who knew sacrifice, learned the way of the cows (carried off by Vala). It is through you that the divine dog Saramā obtained the cow-milk. And it is through you that even now the people obtain cow-milk and are nourished.
+
+**English Translation** *(the source's own, as printed):*
+
+> The seven pure rivers that flow from heaven (are directed, Agni, by you; the priests), skilled in sacrifices, knew the doors of the (cave where) the treasure, (their cattle), were concealed; for you Sarama discovered the abundant milk of the cows with which man, the progeny of Manu still is nourished.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **यह्वीः** — *avasayaḥ*, *yahvyaḥ* [as read, ?] — "since this word, in the [thirty-odd] names of rivers (Ni. [1-13?]), is read as a river name, it means 'rivers'. And since *mahat*, *bṛdhnaḥ* and so on are read among the twenty-five names of the great (Ni. [3-3?]), it also means 'great ones'. In explaining this Ṛk Sāyaṇa has made two sentences, and has explained them as if they had no mutual connection; with this he shows the exceeding power of Agni. By the first half of the Ṛk it is shown that Agni makes the seven great rivers, Gaṅgā and the rest, flow in the world of heaven as well as on the earth. The offerings that those who sacrifice present in Agni…" *(continued on p. 369)*
+
+---
+
+### Page 369 (PDF 387)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 24".)*
+
+**Special Topics of Rik 72.8 (continued)**
+
+- **यह्वीः** (continued) — "…reach the sun; from the sun rain arises; from that, food; from that, the people (offspring) are born. This matter is clarified by the smṛti text:
+
+  > अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ।
+  > आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥
+  > *agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ ||* (as read; cited in the source without a reference)
+
+  [Gloss mine and tentative: "the offering well cast into the fire reaches the sun; from the sun rain is born; from rain, food; from that, creatures".] In this way, for the growth of the world, for the rain, and for the flow of the rivers, Agni is the chief cause."
+- **ऋतज्ञाः — रायः — दुरः — अजानन्** — "The word *ṛtajña*, as in the Ṛk
+
+  > उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः ।
+  > असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्तु पितरो हवेषु ॥
+  > *udīratām avara ut parāsa un madhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyur avṛkā ṛtajñās te no 'vantu pitaro haveṣu* (Ṛk. Saṃ. [10-15-1])
+
+  is used for the *pitṛs* (Ni. [11-?]); and *ṛta* is read among the hundred names of water (Ni. [1-12?]):
+
+  > न यातव इन्द्र जूजुवुर्नो न वन्दना शविष्ठ वेद्याभिः ।
+  > स शर्धदर्यो विषुणस्य जन्तोर्मा शिश्नदेवा अपि गुर्ऋतं नः ॥
+  > *na yātava indra jūjuvur no na vandanā śaviṣṭha vedyābhiḥ | sa śardhad aryo viṣuṇasya jantor mā śiśnadevā api gur ṛtaṃ naḥ* (Ṛk. Saṃ. [7-21-5], numerals read doubtfully [?])
+
+  In this Ṛk, to the word *ṛta* the meaning '*satyaṃ vā yajñaṃ vā*' — 'truth, or sacrifice' (Ni. [4-?]) — is given. By the word *ṛtajña* is meant 'those who know truth' or 'those who know sacrifice'."
+- **रायः** — "The word *rāyaḥ* gives the meaning of 'wealth'.
+
+  > परिषद्यं ह्यरणस्य रेक्णो नित्यस्य रायः पतयः स्याम ।
+  > *pariṣadyaṃ hy araṇasya rekṇo nityasya rāyaḥ patayaḥ syāma* (Ṛk. Saṃ. [7-2-6?])
+
+  By this Ṛk it is shown (Ni. [4-3?]) that the word *rai* denotes wealth. And:
+
+  > ईशिरेण ते मनसा सुतस्य भक्षीमहि पित्र्यस्येव रायः ।
+  > सोम राजन् प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ॥
+  > *īśireṇa te manasā sutasya bhakṣīmahi pitryasyeva rāyaḥ | soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi* (Ṛk. Saṃ. [1-91-?]; as read, [?])
+
+  In this Ṛk too the Nirukta cites *rāyaḥ* as meaning wealth (Ni. [4-2?]). The Aṅgirasa sages, knowing truth and sacrifice, when the wealth in the form of cows was carried off by the *asura* called Vala —" *(continued on p. 370)*
+
+*(Glosses mine and tentative: "may the lower, the higher, the middle fathers arise, the Soma-drinkers; those who have gone to life, kind and knowing *ṛta* — may those fathers help us in our invocations"; "may we be lords of the wealth, ever-lasting, of the stranger"; "may we partake of the pressed [Soma] with a ready mind as of ancestral wealth; O King Soma, prolong our lives as the sun the days". The second of these Ṛks (7-21-5) is not glossed; the Ṛgveda citations on pp. 368–369 are read from small print and are doubtful in syllables and numerals [?]; the source leaves them untranslated.)*
+
+---
+
+### Page 370 (PDF 388)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.8 (continued)**
+
+- **रायः** (continued from p. 369) — "…the Aṅgirasa sages, to get the cows back from that *asura*, devised means by Agni's favour; they performed sacrifices with Indra in view. Then Indra sent the divine dog named Saramā to find the dwelling-place where the *asura* Vala was. Saramā found the place where the cows of the Aṅgirasa sages were, and told it. Indra overcame Vala and gave back to them all the wealth of the Aṅgirasa sages. Pleased by this, the sages gave Saramā milk, curds and other things in large quantities and satisfied her."
+- **दृळ्हम्** — "It is used in the sense of *dṛḍha* ('firm'). Such a usage is seen only in the Veda.
+
+  > ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ।
+  > *ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām* (Ṛk. Saṃ. [3-30-19?], as read)
+
+  In the sentence of this Ṛk the word *ūrva* is a name of Agni (Ni. [6-2?]). Sāyaṇa has explained the meaning of the word *ūrvam* as 'food in the form of milk and other things arising from the cow': *ūrvati kṣudhaṃ hinasti iti ūrvam annam* — 'that which destroys hunger'. Skandasvāmin has
+
+  > यन्तारो ये मघवानो जनानामूर्वान् [?] गोनाम् ।
+  > *yantāro ye maghavāno janānām ūrvān[?] ... gonām* (Ṛk. Saṃ. [2-14-?]; as read, doubtful)
+
+  > ते एतमूर्वं वि भजन्ते गोनाम् … पणयो वमन्नित् ।
+  > *te etam ūrvaṃ vi bhajante gonām … paṇayo vamann it* (Ṛk. Saṃ. [10-108-?]; as read, doubtful)
+
+  In these Ṛks, since the word *ūrva* is used in the sense 'group', he connects it with *gavyam* — *gavyam ūrvam* means 'the group of cows'; and he also accepts that there are two sentences in this Ṛk, explaining it as pertaining to the Aṅgirasa sages and to the divine cows. The Aṅgirasa sages, of auspicious mind (*svādhyaḥ*), *divaḥ ā sapta yahvīḥ* — knew by Agni's favour the seven worlds beginning with heaven, the means of obtaining wealth, and the sacrifices. While living they performed sacrifices and obtained wealth; being men of knowledge, they enjoyed happiness and, after death, reached the seven worlds beginning with heaven. And men in the human world enjoy the happiness that arises from cows either by the favour of the divine cows, or because the divine cows, being *kāmadhenus*, are the cause of the cows of this world — so he explains." *(Skandasvāmin's Ṛk citations are read from a small print and are doubtful; glosses not attempted [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–370 done (PDF 19–388): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.7 complete; **Rik 72.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 366–370) done; the Special Topics may continue on p. 371; the grammar page of 72.8 not yet seen. Next: p. 371 (PDF 389). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.8–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 368–370 (Sanskrit as read, numerals) doubtful, glosses mine and tentative [?].
