@@ -8505,4 +8505,74 @@ naktā ca cakrur uṣasā virūpe kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃ
 
 ---
 
-**Progress note:** Printed pp. 1–411 done (PDF 19–429): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.6 complete (73.6's grammar page on pp. 409–410); **Rik 73.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (pp. 410–411). Next: p. 412 (PDF 430), the Bhāvārtha, English, Special Topics and grammar page of 73.7; then Riks 73.8–73.10 and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammar page of 73.6 (p. 409) compressed and doubtful in places [?].
+### Page 412 (PDF 430)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 73.7** *(Kannada)*
+
+The gods, worthy of worship in the sacrifice, longing for your good will, offered food in the form of oblations in you, the shining one. (For the sake of carrying out the sacrifices in due order) they made the days and nights, the light and those that have darkness.
+
+**English Translation** *(the source's own, as printed):*
+
+> (The Gods), who are entitled to worship, soliciting your good will, have instructed [sic] to you, resplendent Agni, the (sacrificial) food and, (for the due observance of sacred rites), they have made the night and morning of different colours, or black and purple.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **सुमतिम्** — "*śobhanām anugrahātmikāṃ buddhim* (Sāyaṇa): 'a good understanding in the form of favour'. The word *sumati* is cited in the same sense in other Ṛks:
+
+  > आर्ष्टिषेणो होत्रमृषिर्निषीदन्देवापिर्देवसुमतिं चिकित्वान् ।
+  > *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān* (Ṛk. Saṃ. [10-98-?]; as read)
+
+  Here *sumatim* means *kalyāṇīṃ matim* — 'an excellent understanding'.
+
+  > वैश्वानरस्य सुमतौ स्याम राजा हि कं भुवनानामभिश्रीः ।
+  > *vaiśvānarasya sumatau syāma rājā hi kaṃ bhuvanānām abhiśrīḥ* (Ṛk. Saṃ. [1-98-1])
+
+  Here *sumatau kalyāṇyāṃ matau* — 'in a good understanding' (Ni. [2-?]).
+
+  > वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ।
+  > *vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ* (Ā. Saṃ. [2-?-?], as read)
+
+  Here too *sumatiṃ kalyāṇīṃ matim* (Ni. [11-?]) — 'an excellent understanding'.
+
+  > केषां वयं सुमतौ यज्ञियानामपि भद्रे सौमनसे स्याम ।
+  > *keṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma* (Ṛk. Saṃ. [10-?-?])
+
+  Here too *sumatau kalyāṇyāṃ matau* (Ni. [11-?]) — 'in an excellent understanding'." *(The Ṛgveda/Āśvalāyana-type citations and numerals are read from small print and are doubtful [?]; the source leaves them untranslated; glosses mine and tentative: "the sage Ārṣṭiṣeṇa sitting as priest, Devāpi, knowing the favour of the gods"; "may we be in the favour of Vaiśvānara, the king, the joy-bringing refuge of the worlds"; "we meditate on the favour of the god, whose law is truth"; "in whose favour may we be, even of the worshipful, in good-will".)* *(continued on p. 413)*
+
+---
+
+### Page 413 (PDF 431)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**Special Topics of Rik 73.7 (continued)**
+
+> देवानां भद्रा सुमतिर्ऋजूयतां देवानां रातिरभि नो निवर्तताम् ।
+> *devānāṃ bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no nivartatām* (Ṛk. Saṃ. [1-89-2])
+
+"Here too — *devānāṃ vayaṃ sumatau kalyāṇyāṃ matau sumatiḥ śobhanā matiḥ prasādābhimukhī matiḥ* (Ni. [11-?]) — 'an excellent understanding'. In this way the Nirukta-sense is also in accord with Sāyaṇa's explanation of the word *sumati* in these Ṛks.
+
+*Skandasvāmin* explains the word *sumati* as 'wealth', and *sumatiṃ bhikṣamāṇāḥ* as 'those who beg wealth' (*dhanāni yācamānāḥ*)." *(Gloss mine and tentative: "may the auspicious favour of the gods be for the upright; may the gifts of the gods turn toward us".)*
+
+- **यज्ञियासः दिवि त्वे श्रवः दधिरे** — "*divi śravaḥ havirlakṣaṇam annaṃ dadhire devebhyo havīṃṣi dadhire ity arthaḥ* — 'they placed in the shining one food in the form of oblation; the meaning is that they placed oblations for the gods'. Or: *divi* as a seventh-case form: 'to you, established in heaven, they gave food'. Skandasvāmin: 'those who sacrifice offer oblation-portions in you for the gods'; or 'the oblations that you [who are] in heaven …' — thus two kinds of sense are given."
+- **नक्ता च चक्रुरुषसा विरूपे कृष्णं च वर्णमरुणं च संधुः** — "Skandasvāmin on these words: *naktā iti rātrināma | yajñārāḥ rātrau caitat kurvanti uṣasā uṣasi ca | uṣasā ca atra ānanteryodaharvlakṣate | ahani cety arthaḥ* [as read, doubtful]: '*naktā* is a name of night; the sacrificers perform this in the night and in the dawn, i.e. in the day'; *susamiddhasyāgner jvālāyā upari kṛṣṇo bhavati śiṣṭe aruṇaḥ | tau saṃdhuḥ saṃdadhati | yathā tava kṛṣṇāruṇau varṇāv api bhinnau bhavete ity arthaḥ* [as read, doubtful]: 'when the fire is well kindled, the top of the flame is black and the rest ruddy; those two they join; as in you the black and the ruddy colours become distinct'. Since *naktā* is read among the [nine] names of night (Ni. [1-7?]), it means 'night'. When the sacrificers offer oblations, Agni, kindled brightly, becomes in the night a bright flame, and the dark colour at the flame's tip, and the self-arisen red colour at the root, though distinct, become visible so that all can see; so Agni is made radiant. Or: *naktā ca cakrur uṣasā virūpe* — the second case is meant by the dropped *ā*: 'they made the night and the dawn of different forms' — with the sense that the sacrificers make *naktoṣasau* ('night and dawn') separate in form: *naktoṣasor iva kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃdhuḥ*. Since the sacrificial rite is the cause of the world's upkeep, and the rite is the root of dharma, all activity of the world is carried on at appropriate times, so that the divisions of days and nights are produced by the sacrifices the sacrificers perform. In *naktā*, *uṣasā*, *virūpe* the slight endings are not of the seventh case but of the second case. When offering oblation-portions, the sacrificers make the night dark-coloured and the dawn-time ruddy-coloured —" *(continued on p. 414)*
+
+---
+
+### Page 414 (PDF 432)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Special Topics of Rik 73.7 (concluded)**
+
+"…they have so made them. In the night, when the sacrifice is done, the tip of Agni's flames, well kindled, is seen as black; hence they say the night is black-coloured. The dawn-time is first ruddy, afterwards, step by step, it obtains the bright radiance. Because the dawn and the night are mixed with the radiance of Agni when the sacrificers offer oblations in Agni, they are called *virūpe*. Since sacrifice is the root of dharma, the divisions of day and night, by which all world-activity goes on in its proper times, are produced by the sacrifices that the sacrificers perform. Agni alone is the cause of all of these — such is the purport."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.7, noted briefly; not transcribed)*
+
+Words treated: *tve* (the stem *yuṣmad*; before the seventh-case singular ending, *tva* for the stem's end by *tvamāvekavacane*, Pā. [7-2-97]; the ending replaced by *śe* by *supāṃ sulug…*; loss of the *a* by *śeṣe lopaḥ*; *pararūpa* by *ato guṇe*). *divi* (*ūḍidaṃpadādi…*: the locative singular ending acute). *dadhire* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person plural; nighāta because it follows an *atijanta*). *yajñiyāsaḥ* (*gha* in the sense "worthy" after *yajña* by *yajñartvigbhyāṃ ghakhañau*; *iya* by *āyaneyīnīyiyaḥ…*; loss of *a* by *yasyeti ca*; before *jas*, *asuk* by *ajjhasor asuk*). *naktā* (the second-case ending after *nakta*; replaced by *ḍā* by *supāṃ sulug…*). *cakruḥ* (root *ḍukṛñ karaṇe*; *liṭ*, third person plural; since *ca* is connected, by *cavāyoge prathamā*, Pā. [8-1-59], nighāta is prohibited; the affix accent gives the final acute). *uṣasā* (the ending replaced by *ā* by *supāṃ sulug…*). *(Continued on p. 415.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–414 done (PDF 19–432): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.6 complete; **Rik 73.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 412–414) and the grammar page up to *uṣasā* done; the grammar page of 73.7 continues on p. 415 (*virūpe*, *kṛṣṇam*, *varṇam*, *aruṇam*, *saṃ dhuḥ*). Next: p. 415 (PDF 433). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 412–413 and Skandasvāmin's Sanskrit on p. 413 doubtful, glosses mine and tentative [?].
