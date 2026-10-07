@@ -962,13 +962,13 @@ antar hi khyo janānām aryo vedo adāśuṣāṃ teṣāṃ no veda ā bhara ||
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.1**
 
-> उपो षु शृणुही गिरो मघवन्मात तथा इव ।
+> उपो षु शृणुही गिरो मघवन्मातथा इव ।
 > यदा नः सूनृतावतः कर आदर्थयास इद्योजा न्विन्द्र ते हरी ॥ १ ॥
 
-*upo ṣu śṛṇuhī giro maghavan mā tatha iva |
+*upo ṣu śṛṇuhī giro maghavan mātathā iva |
 yadā naḥ sūnṛtāvataḥ kara ād arthayāsa id yojā nv indra te harī ||1||*
 
-*(Reading note: the print joins* mā atathā iva *as* mā tathā iva*; the Pada (below) divides it* mā | atathā-iva*; I give the Saṃhitā as the print has it, [the second word's vowel is slightly unclear, [?]].)*
+*(The print joins* mā *and* atathā *as* mātathā*; the Pada divides* mā | atathā-iva*.)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
