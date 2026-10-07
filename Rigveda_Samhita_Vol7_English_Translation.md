@@ -3165,4 +3165,89 @@ vratāny asya saścire purūṇi pūrvacittaye vasvīr anu svarājyam ||12||*
 
 ---
 
-**Progress note:** Printed pp. 1–113 done (PDF 16–128) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.12 complete** (the three Paṅkti Ṛks, 10–12, done); next the three Gāyatrī Ṛks (84.13–84.15). Next: printed p. 114 (PDF 129) — Rik 84.13. Eight Ṛks (84.13–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 114 (PDF 129)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84". The heading above the Saṃhitā is misprinted in the source as "Sāyaṇabhāṣyam".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.13** *(the first of the three Gāyatrī Ṛks, 13–15)*
+
+> इन्द्रो दधीचो अस्थभिर्वृत्राण्यप्रतिष्कुतः ।
+> जघान नवतीर्नव ॥ १३ ॥
+
+*indro dadhīco asthabhir vṛtrāṇy apratiṣkutaḥ |
+jaghāna navatīr nava ||13||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इन्द्रः । दधीचः । अस्थऽभिः । वृत्राणि । अप्रतिऽस्कुतः ।
+> जघान । नवतीः । नव ॥ १३ ॥
+
+*indraḥ | dadhīcaḥ | astha-bhiḥ | vṛtrāṇi | apratiskutaḥ | jaghāna | navatīḥ | nava ||13||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's application note and bhāṣya of Rik 84.13** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> चातुर्विंशिकेऽहनि प्रातःसवने ब्राह्मणाच्छंसिनः शस्त्र इन्द्रो दधीच इति पदगहस्तोत्रियसंज्ञकस्तृचः । सूत्रितं च । आदह स्वधामनु पुनर्गर्भत्वमेरिरे इत्येका द्वे चेन्द्रो दधीचो अस्थभिः । आ. ७-३ [?] इति ॥
+>
+> अत्र शाट्यायनिन इतिहासमाचक्षते । आथर्वणस्य दधीचो जीवतो दर्शनेनासुराः पराबभूवुः । अथ तस्मिन् स्वर्गतेऽसुरैः पूर्णा पृथिव्यभवत् । अथेन्द्रस्तैरसुरैः सह योद्धुमशक्नुवंस्तमृषिमन्विच्छन् स्वर्गं गते इति शुश्राव । अथ पप्रच्छ तत्रत्यान् । सोऽनेहा किमस्य किंचिच्छिरिष्ठमवंगम्यस्तीति । तस्मा अवोचन् अस्त्येतदाश्वं शीर्षं येन शिरसाश्विभ्यां मधुविद्यां प्राब्रवीत् । तत्तु न विद्म यत्राभवदिति । पुनरिन्द्रोऽब्रवीत् । तदन्विच्छतेति । तदान्वैषिषुः । तच्छर्यणावत्यैनुविद्याजह्रुः । शर्यणावद्ध वै नाम कुरुक्षेत्रस्य जघनार्धे सरः स्यन्दते । तस्य शिरसोऽस्थिभिरिन्द्रोऽसुरान् जघानेति ॥
+>
+> अप्रतिष्कुतः पर्यैरप्रतिशब्दितः प्रतिकूलशब्दरहित इन्द्र आथर्वणस्य दधीच एतत्संज्ञकस्य ऋषेरस्थभिरश्वशिरःसंबन्धिभिरस्थिभिर्नवतीर्नव नवसंख्याका नवतीः सोत्रराष्ट्रशतसंख्याकाः । तथा हि । लोकत्रयवर्शिनो देवाञ्जेतुमादावासुरे मायाः त्रिधा संपद्येते । त्रिविधाः । अतीतानागतवर्तमानकालभेदेन तत्कालवर्शिनो देवाञ्जेतुं पुनरपि प्रत्येकं त्रिगुणिता भवति । एवं नव संपद्यते । पुनः पृथ्वीप्रभृत्सादिशक्तित्रयरूपेण त्रैगुण्ये सति सप्तविंशतिः संपद्यते । पुनः सात्त्विकादिगुणत्रयभेदेन त्रैगुण्ये सत्येकोत्रराशीतिः संपद्यते । एवं चतुर्भिस्त्रिकैर्गुणितायां मायायां दशसु दिक्षु प्रत्येकमवस्थाने सति नव नवतयः संपद्यन्ते । एवंविधमायारूपाणि वृत्राण्यावरकाण्यसुरजातानि जघान । हतवानिति ॥ दधीचः । दध्यञ्चतीति दध्यञ् । अञ्चतेर्ऋत्विग्दधृक् इत्यादिना क्विन् । अनिदितां हल इति नलोपः । षष्ठ्येकवचने ज्ञस्य ञ्चिः इत्यकारलोपे चावि दीर्घत्वम् । उदात्तनिवृत्तिस्वरेण विभक्त्युदात्तत्वे प्राप्ते तदपवादतया चावि पूर्वपदस्यान्तोदात्तत्वं प्राप्तम् । अञ्चेश्छन्दस्यसर्वनामस्थानम् । पा. ६-१-१७० इति पुनर्विभक्त्युदात्तत्वविधानेन तद्बाध्यते । अस्थभिः । छन्दस्यपि दृश्यते । पा. ६-१-२६ । इत्यनजादावप्यस्थिशब्दस्यानङादेशः स चोदात्तः ॥ [?] 
+
+*(The bhāṣya of this Ṛk is given here in outline only, because the Sanskrit of the page is very compact and runs through the legend and the number-reckoning; I have transcribed the main body and have marked the doubtful parts [?].)*
+
+*cāturviṃśike 'hani prātaḥsavane brāhmaṇācchaṃsinaḥ śastra indro dadhīca iti padagahastotriyasaṃjñakas tṛcaḥ | sūtritaṃ ca | ādaha svadhām anu punargarbhatvam erire ity ekā dve cendro dadhīco asthabhiḥ | Āś. 7-3 [?] iti ||*
+
+*atra śāṭyāyanina itihāsam ācakṣate | … | tasya śiraso 'sthibhir indro 'surān jaghāneti ||*
+
+*apratiṣkutaḥ paryair apratiśabditaḥ pratikūlaśabdarahita indra ātharvaṇasya dadhīca etatsaṃjñakasya ṛṣer asthabhir aśvaśiraḥsaṃbandhibhir asthibhir navatīr nava navasaṃkhyākā navatīḥ … | tathā hi | lokatrayavarśino devāñ jetum ādāv āsure māyāḥ tridhā saṃpadyete | … | evaṃvidhamāyārūpāṇi vṛtrāṇy āvarakāṇy asurajātāni jaghāna | hatavān iti || dadhīcaḥ | dadhyañcatīti dadhyañ | añcater ṛtvigdadhṛk ity ādinā kvin | aniditāṃ hala iti nalopaḥ | … | asthabhiḥ | chandasy api dṛśyate | pā. 6-1-26 | ity anajādāv apy asthiśabdasyānaṅādeśaḥ sa codāttaḥ ||*
+
+*Sense:* "On the twenty-fourth day, at the morning pressing, in the śastra of the *Brāhmaṇācchaṃsin* the triad *indro dadhīcaḥ* is called the *padagaha*-stotriya; it is stated in the sūtra: '*ādaha svadhām anu punargarbhatvam erire* — one (Ṛk), and the two *indro dadhīco asthabhiḥ*' (Āś. 7-3 [?]). — Here the Śāṭyāyanins tell this legend: 'When Dadhyañc, son of Atharvan, was alive, the asuras were defeated by the very sight of him. Then, when he had gone to heaven, the earth was filled with the asuras. Indra, unable to fight them, heard that the ṛṣi had gone to heaven, and asked those there whether anything of him remained. They told him: "There is this horse's head, with which head he taught the Aśvins the *madhuvidyā*; but we do not know where it is." Indra said, "Seek it." They sought it and found it at *Śaryaṇāvat* — a lake that lies in the rear half of Kurukṣetra. With the bones of that head Indra slew the asuras.' — *Apratiṣkutaḥ* — undisputed by anyone. *Indra*, with *the bones* (*asthabhiḥ*) of the ṛṣi Dadhyañc, son of Atharvan — bones belonging to the horse's head — slew (*jaghāna*) *navatīr nava*, 'nine times ninety' — eight hundred and ten of the *vṛtras*, the enveloping asura-born things. The reckoning: to conquer the gods who see the three worlds, the asuras' *māyā* is at first threefold — according to past, future and present; then each of these is trebled for each of the three times; thus nine; again, by trebling according to the three powers (of earth and so on), twenty-seven; again, by trebling according to the three *guṇas* beginning with *sattva*, eighty-one; and then, the *māyā* thus multiplied by four threes, being present in each of the ten directions, makes nine times ninety. Indra slew the *vṛtras* in the form of such *māyā*." *The grammatical tail* (outlined): *dadhīcaḥ* — from *dadhyañc*, *kvin* after *añc*; *asthabhiḥ* — *anaṅ* as the substitute of *asthi* even before a non-vowel-initial case-ending in the Veda (Pā. 6-1-26 [?]), udātta."
+
+### Page 115 (PDF 130)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*(The bhāṣya of Rik 84.13 concludes at the head of this page — its grammatical tail concerning* dadhīcaḥ *and* asthabhiḥ *is given above in outline.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.13** *(Kannada)*
+
+- **अप्रतिष्कुतः** — "without opposing sound"
+- **इन्द्रः** — "Indra"
+- **दधीचः** — "of the ṛṣi Dadhīci"
+- **अस्थभिः** — "with the bones"
+- **नवतीर्नव** — "(by the power of *māyā*) spread in eight hundred and ten ways"
+- **वृत्राणि** — "(that covered the three worlds) the enemies' powers"
+- **जघान** — "destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.13** *(Kannada)*
+
+"Indra, endowed with irresistible strength and without opposing sound, with the bones of the ṛṣi Dadhīci destroyed the power of the enemies, in the form of *māyā* — eight hundred and ten kinds, spread out and covering the three worlds."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra with the bones of Dadhyanch, slew, ninety times nine, Vritra" — as printed (the sentence ends without a full stop; "ninety times nine" is as the print has it).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.13)**
+
+- **दधीचः** — "*dadhyañc*, or the ṛṣi named *dadhīci*, known in the Purāṇas and elsewhere. The bhāṣyakāra tells an *upākhyāna* here: when the ṛṣi named Dadhyañc, the son of Atharvan, was alive, the asuras fled in fear at the mere sight of him. After he died and went to heaven, the asuras spread fearlessly over the whole earth. Then Indra, desiring to fight these asuras, searched for that ṛṣi, and learned that the ṛṣi had gone to heaven. Then Indra asked those nearby whether any part of the ṛṣi's limbs remained; they said: 'The ṛṣi Dadhīci had once taught the Aśvin deities the *madhuvidyā* with the head of a horse; only that horse's head remains, and we do not know where it is.' Then Indra told them to search for it; they found it lying in the lake called *Śaryaṇāvat*, near Kurukṣetra, and brought it."
+
+### Page 116 (PDF 131)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Special Topics of Rik 84.13, continued from p. 115:*
+
+"Indra conquered the asuras with the bones of that horse's head. This means that he destroyed the *māyā*-webs of the asuras 'nine times ninety'. In explaining the number 'nine times ninety' the bhāṣyakāra says: the asuras first had three kinds of *māyā* for conquering the deities of the three worlds; each of these existed in the three modes — past, present and future — making nine kinds in all. Those nine *māyā*s, joined with the three powers *utsāha* (energy), *mantra* (counsel) and *prabhu* (authority), become 9 × 3 = 27; joined with the three *guṇas* beginning with *sattva*, 27 × 3 = 81 (the numerals as read: '೯×೩=೨೭', '೨೭×೩=೮೧'). Since these eighty-one *māyā*s are practised in the ten directions, the total is 81 × 10 = 810 — or *nine times ninety*, 9 × 90 = 810 (as read). Thus, he explains, Indra rendered fruitless the *māyā*-webs of the asuras in the form of Vṛtra."
+
+*(This is the same legend and reckoning as in the Special Topics of Rik 80.16 [Vol. 6, pp. 615–616], here given again in the bhāṣya; the Kannada page repeats it.)*
+
+"Skandasvāmin tells another *itihāsa*: in the old days there were asuras called *Kālakañja*. They were very powerful, and were killing the gods and giving them great trouble. Then the gods went to Brahmā and prayed that they should be told a means to destroy these asuras. Brahmā said: 'O gods, there is a ṛṣi called Dadhyañc. Go to him; he will tell you a fitting means for the destruction of the asuras.' As Brahmā said, the gods went to the ṛṣi Dadhīci and told him that Brahmā had sent them. The ṛṣi, understanding by his yogic vision the work for which they had come, gave up his life by *yogasamādhi*. Then Indra destroyed the asuras with the bones. Skandasvāmin says that this matter itself is described in this Ṛk."
+
+"The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-[80]-[16]; 1-[84]-[13]; 1-[84]-[14]; 1-[116]-[12]; 1-[117]-[22]; 1-[139]-[4] [?] and so on, and in the Taittirīya Saṃhitā, the Kāṭhaka Saṃhitā, the Śatapatha Brāhmaṇa (several places), and the Bṛhadāraṇyaka Upaniṣad (2-5-22 [?]) and other places." *(All reference numerals are given as read from the small Kannada print and are uncertain [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.13)** *(grammar page, noted briefly; begins at the foot of this page and continues on p. 117)*
+
+- **दधीचः** — *dadhi añcati iti dadhyañc*. The root *añcu gatipūjanayoḥ*; with *dadhi* as the upapada, the affix *kvin* by "ṛtvigdadhṛk…" (Pā. Sū. 3-2-59); because it is *k*-marked …; by "aniditāṃ hala upadhāyāḥ kṅiti" (Pā. Sū. 6-4-24) the *n* of the root is dropped; in the sixth-case singular *jas* [as printed; *śas*/*ṅas*] … by "aco 'ñciteḥ" (Pā. Sū. 6-4-138) the *a* of the root is dropped; by "cau" (Pā. Sū. 6-3-138) the first member is lengthened since the root *añc* follows … *(continues on p. 117)*
+
+---
+
+**Progress note:** Printed pp. 1–116 done (PDF 16–131) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.12 complete**; **Rik 84.13** (first Gāyatrī Ṛk) — Saṃhitā, Pada, application note, bhāṣya (the Dadhyañc legend and the 9×3×3×10 reckoning; the Sanskrit given in part and outlined, p. 114), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 114–116) done; its grammar page is begun at the foot of p. 116 (*dadhīcaḥ*) and continues on p. 117 (PDF 132). Next: printed p. 117 (PDF 132). Seven Ṛks (84.14–84.20) remain after 84.13. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 on p. 114 transcribed only in part.
