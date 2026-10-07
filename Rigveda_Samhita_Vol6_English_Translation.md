@@ -11776,4 +11776,93 @@ aryamā mitro varuṇaḥ parijmā tvacaṃ pṛñcanty uparasya yonau ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–533 done (PDF 19–551): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.2 complete** (grammar page of 79.2 on pp. 531–532, noted briefly); **Rik 79.3** — Saṃhitā, Pada and the bhāṣya (p. 533) done; the bhāṣya's grammatical tail breaks off at the foot of p. 533 (*piyānaḥ*) and continues on p. 534 (PDF 552). Next: p. 534 (PDF 552). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
+### Page 534 (PDF 552)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Bhāṣya of Rik 79.3 — the grammatical tail, continued from p. 533:*
+
+> …अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः शिष्यते । रजिष्ठैः । ऋजुशब्दादिष्ठनि विभाषर्जोश्छन्दसि । पा. ६-४-१६२ [?] इत्यृकारस्य रत्वम् । टेरिति टिलोपः । पृञ्चन्ति । पृची सम्पर्के । रौधादिकः ॥
+
+*…anudāttettvāl lasārvadhātukānudāttatve dhātusvaraḥ śiṣyate | rajiṣṭhaiḥ | ṛjuśabdād iṣṭhani vibhāṣarjoś chandasi | pā. 6-4-162 [?] ity ṛkārasya ratvam | ṭer iti ṭilopaḥ | pṛñcanti | pṛcī samparke | raudhādikaḥ ||*
+
+*Sense of the tail:* "…the root being *anudāttet* [marked *i*, anudātta], the *lasārvadhātuka* is anudātta and the root-accent remains. *Rajiṣṭhaiḥ* — from the word *ṛju*, the affix *iṣṭhan*; by 'vibhāṣarjoś chandasi' (Pā. 6-4-162 [?]) the *ṛ* becomes *ra*; the *ṭi*-part is elided by 'ṭeḥ'. *Pṛñcanti* — the root *pṛcī samparke*, of the *rudhādi* (seventh) class."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.3** *(Kannada)*
+
+- **यदीम्** — "when this Agni"
+- **ऋतस्य** — "of water"
+- **पयसा** — "with the essence-like water that is the essence, like milk"
+- **पियानः** — "(for the world) giving growth (the world that has been refreshed/grown)"
+- **ऋतस्य** — "of water (relating to)"
+- **रजिष्ठैः** — "exceedingly straight (as is right)"
+- **पथिभिः** — "by ways (by bathing, drinking and so on)"
+- **नयन्** — "leading (when he is leading)"
+- **अर्यमा मित्रः वरुणः** — "Aryaman, Mitra, Varuṇa (and)"
+- **परिज्मा** — "the Maruts that move in all regions"
+- **उपरस्य** — "of the cloud"
+- **योनौ** — "at the place of production (of rain)"
+- **त्वचम्** — "the skin (the covering)"
+- **पृञ्चन्ति** — "pierce (with their weapons)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.3** *(Kannada)*
+
+"When Agni is satisfying the whole world, with bathing, drinking and the like, with rain-water that is of the essence like milk, then Aryaman, Mitra, Varuṇa and the Maruts, always of moving nature, pierce the place of origin of the rain (they make the rain fall)."
+
+**English Translation** *(printed in English in the source)*
+
+"When this, (the lightning, Agni), nourishes the world with the milk of the rain, and conducts it by the most direct ways, to (the enjoyment of) water, then Mitra, Aryaman, Varuna, and the circumambient (troops of Maruts) pierce through the (investing) membrane into the womb of the cloud." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.3)**
+
+- **ऋतस्य** — "Among the hundred and one names of water beginning with *aṇaḥ, kṣodaḥ* (अणः क्षोदः) the word *ṛtam* occurs; hence *ṛtasya* means 'of water' (Ni. [?] — numerals unclear in print)."
+- **पयसा** — "The word *payaḥ* means water and also milk. Here the bhāṣyakāra has explained: 'by water that is the essence (like milk, *kṣīravat*)'."
+
+### Page 535 (PDF 553)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 79.3 continued:*
+
+- **पियानः** — *opyāyī vṛddhau* — "one who makes grow, who gives satisfaction."
+- **नयन् ऋतस्य पथिभी रजिष्ठैः** — "(leading) by various ways such as bathing, drinking and the like, which are to be naturally had from water — the sense is: doing good to the world."
+- **उपरस्य** — "Among the thirty names of cloud beginning with *adriḥ, grāvā* (अद्रिः ग्रावा) the word *upara* occurs; hence *uparasya* means 'of a cloud'."
+- **त्वचम्** — "(they) pierce the skin or the covering of the cloud and make the water within it flow."
+- **अर्यमा, मित्रः, वरुणः, परिज्मा** — "The deities Aryaman, Mitra, Varuṇa and the Maruts open the covering of the water in the cloud and make the water fall upon the earth. No reason is given here for the way in which these deities, Aryaman and the others, bring the water out from the cloud."
+- **परिज्मा** — *parito gantā* — "the wind that moves everywhere."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.3)** *(grammar page, noted briefly; runs to p. 536)*
+
+- **पियानः** — the root *opyāyī vṛddhau* (ओप्यायी वृद्धौ); in the *laṭ* sense the replacement *śānac*; "bahulaṃ chandasi" gives the *luk* of *śap* that would arise; "vyatyayo bahulam" gives the root the form *pī*; *pī + āna*, the *i*-vowel of the root being changed into *iy* by "aci śnudhātubhruvāṃ…" (अचि श्नुधातुभ्रुवां य्वोरियङुवङौ, Pā. Sū. 6-4-77): *piyāna*. The root being anudātta and the *lasārvadhātuka* following, it becomes anudātta by "tāsyanudāttenṇid…" (ताश्यनुदात्तेन्ङिद्…, Pā. Sū. 6-1-186); the root's own accent remains.
+- **नयन्** — the root *ṇīñ prāpaṇe* (णीञ् प्रापणे); *śatṛ* in the *laṭ* sense; *śap*; guṇa of the *ik* because of it; *ay* replacement; the augment *num* since *su* follows, because *uk* is a mark; *su* is elided by "hal-ṅyābbhyo…" and the *t* by "saṃyogāntalopa"; as it is an *adupadeśa* root, the *lasārvadhātuka* is anudātta as before; the root's accent remains.
+- **रजिष्ठैः** — *atiśayena ṛjavaḥ* = *rajiṣṭhāḥ*: after the word *ṛju* in the superlative sense the affix *iṣṭhan* by "atiśāyane tamabiṣṭhanau" (Pā. Sū. 5-3-55); this following, by "vibhāṣarjor chandasi" (Pā. Sū. 6-4-162 [?]) the *ṛ* of *ṛju* becomes *ra*; "ṭeḥ" (टेः, Pā. Sū. 6-4-155 [?]) drops the *ṭi* (the *u*) — *rajiṣṭha*; the affix being *n*-marked, the initial udātta by "ñnityādir nityam"; third-case plural.
+
+### Page 536 (PDF 554)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Grammar of Rik 79.3, continued:*
+
+- **परिज्मा** — *pari jāyate iti parijmā*: the root *janī prādurbhāve* (जनी प्रादुर्भावे); by "śvannukṣan…" (श्वन्नुक्षन्पूषन्…, Uṇ. Sū. 1-[158?] [?]) the preposition *pari* being before the root, the loss of the penultimate (*upadhā*), the *makārānta* substitution and the *kani* affix come about, and the form is irregular (*nipātita*). First-case singular.
+- **पृञ्चन्ति** — the root *pṛcī samparke* (पृची सम्पर्के), *rudhādi*; *laṭ*, third person plural; the ending *anta* by "jho 'ntaḥ" (झोऽन्तः); *śnam* by "rudhādibhyaḥ śnam" (रुधादिभ्यः श्नम्, Pā. Sū. 3-1-78); "midaco 'ntyāt paraḥ" (the *paribhāṣā*) places it after the last vowel; "naś cāpadāntasya jhali" (नश्चापदान्तस्य झलि, Pā. Sū. 8-3-24) gives the anusvāra to the *n*; "anusvārasya yayi parasavarṇaḥ" (अनुस्वारस्य ययि परसवर्णः, Pā. Sū. 8-4-58) gives the *parasavarṇa*; the accent is nighāta by "tiṅ atiṅaḥ" (तिङ्ङतिङः, Pā. Sū. 8-1-28), since it is *atiṅanta* in the pāda. ||3||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.4**
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
+> अस्मे धेहि जातवेदो महि श्रवः ॥ ४ ॥
+
+*agne vājasya gomata īśānaḥ sahaso yaho |
+asme dhehi jātavedo mahi śravaḥ ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अग्ने । वाजस्य । गोऽमतः । ईशानः । सहसः । यहो इति ।
+> अस्मे इति । धेहि । जातऽवेदः । महि । श्रवः ॥ ४ ॥
+
+*agne | vājasya | go-mataḥ | īśānaḥ | sahasaḥ | yaho iti | asme iti | dhehi | jāta-vedaḥ | mahi | śravaḥ ||4||*
+
+---
+
+**Progress note:** Printed pp. 1–536 done (PDF 19–554): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.3 complete** (the grammar page of 79.3 spans pp. 535–536, noted briefly); **Rik 79.4** (first of the Uṣṇih Ṛks) — Saṃhitā and Pada (p. 536) done. Next: p. 537 (PDF 555) — bhāṣya of 79.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
