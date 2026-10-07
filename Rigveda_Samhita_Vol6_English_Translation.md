@@ -11559,9 +11559,9 @@ That is: (1) *Rajaḥ* — the word, derived from the verb *rajati*, 'it shines'
 
 (2) *Udakaṃ raja ucyate* — *rajaḥ* means water. For examples of this sense —
 
-> नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो रजांसि ।
+> नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो [?] रजांसि ।
 
-*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto atarao rajāṃsi |* (Ṛk. Saṃ. 1-[33]-[14] [?]) — *the print reads* "atero" *for the last verb; I read* atarao *as printed and note it [?].* *Gloss, mine and tentative:* "When you crossed, like a frightened falcon, the ninety-nine flowing (waters)…" (sense uncertain to me).
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro [?] rajāṃsi |* (Ṛk. Saṃ. 1-[33]-[14] [?]) — *the verb before* rajāṃsi *is read* ataro *with doubt [?] (the print shows the first vowel unclearly).* *Gloss, mine and tentative:* "When you crossed, like a frightened falcon, the ninety-nine flowing (waters)…" (sense uncertain to me).
 
 > भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिः सचसे शिवाभिः ।
 
