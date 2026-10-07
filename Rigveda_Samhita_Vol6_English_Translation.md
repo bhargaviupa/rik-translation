@@ -10750,4 +10750,73 @@ Words treated: *maryaḥ* (root *mṛṅ prāṇatyāge*; since the sense of the
 
 ---
 
-**Progress note:** Printed pp. 1–497 done (PDF 19–515): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.2 complete; **Rik 77.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (up to *maryaḥ*) done (pp. 495–497). Next: p. 498 (PDF 516), the rest of the grammar page of 77.3; then Riks 77.4–77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the tail of the bhāṣya of 77.3 (p. 495) doubtful in places [?].
+### Page 498 (PDF 516)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Grammar page of Rik 77.3 (concluded; noted briefly)**
+
+*bhūt* (root *bhū sattāyām*; Vedic *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; third person singular; by *bahulaṃ chandasy amāṅyoge 'pi* no *aḍ*; nighāta because it follows an *atijanta*). *devayantīḥ* ("those who desire gods"; the affix *kyac* in the sense of wish after the *subanta* *deva* by *supa ātmanaḥ kyac*, Pā. [3-1-8]; the stem *devaya* receives the root-designation by *sanādyantā dhātavaḥ*; since the *kyac* is the cause, the *i*-substitution and lengthening are not applied, by *na chandasy aputrasya*, Pā. [7-4-35]; after the *kyac*-final, *śatṛ* in the present sense; in the feminine, *ṅīp* by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*). *bruvate* (root *brūñ vyaktāyāṃ vāci*, Adādi; *laṭ*, third person plural, *jhi*→*jha* by *ātmanepadeṣv…*; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; *ata* for the *jha* by *ātmanepadeṣv anataḥ*, Pā. [7-1-5], since a non-*a* precedes; *e* by *ṭita ātmanepadānāṃ ṭer e*; since *sārvadhātukam apit*, *ṅit*, no guṇa; *uvaṅ* by *aci śnudhātubhruvām*; nighāta because it follows an *atijanta*). *ārīḥ* (root *ṛ gatau*; *iṇ* by *janighasibhyām iṇ*, Uṇ. [4-124?], applying here by the *bahula* word; being *ṇit*, vṛddhi by *aco ñṇiti*; *raparatva* by *uraṇ raparaḥ*; the form *ari*; in the feminine *ṅīṣ* by *kṛdikārād aktinaḥ*, since *ktin* is excluded; *ārī*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; *ru* for *s*, visarga; the affix's accent would give the final acute, but by *vyatyayo bahulam* the initial acute stands). Ends "॥ ३ ॥".
+
+---
+
+### Page 499 (PDF 517)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.4** *(printed Ṛk "4 ||")*
+
+> स नो नृणां नृतमो रिशादा अग्निर्गिरोऽवसा वेतु धीतिम् ।
+> तना च ये मघवानः शविष्ठा वाजप्रसूता इषयन्त मन्म ॥ ४ ॥
+
+*sa no nṛṇāṃ nṛtamo riśādā agnir giro 'vasā vetu dhītim |
+tanā ca ye maghavānaḥ śaviṣṭhā vājaprasūtā iṣayanta manma ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । नः । नृणाम् । नृऽतमः । रिशादाः । अग्निः । गिरः । अवसा । वेतु । धीतिम् ।
+> तना । च । ये । मघऽवानः । शविष्ठाः । वाजऽप्रसूताः । इषयन्त । मन्म ॥ ४ ॥
+
+*saḥ | naḥ | nṛṇām | nṛ-tamaḥ | riśādāḥ | agniḥ | giraḥ | avasā | vetu | dhītim | tanā | ca | ye | magha-vānaḥ | śaviṣṭhāḥ | vāja-prasūtāḥ | iṣayanta | manma ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 77.4** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> नृणां यज्ञस्य नेतॄणां मध्ये नृतमो ऽतिशयेन नेता रिशादा रिशानां शत्रूणामत्ता भक्षयिता । यद्वा । रिशतां हिंसतामसिता निरसिता । एवंविधः सो ऽग्निर्नो ऽस्माकं गिरः स्तुतीरवसा हविर्लक्षणेनान्नेन युक्तां धीतिं कर्म च वेतु । कामयताम् । अपि च ये यजमानास्तना धनानाम्नैकत् । विस्तृतेन धनेन मघवानो धनवंतः शविष्ठा अतिशयेन बलिनश्च संतो वाजप्रसूताः प्रसूतं प्रेरितं वाजो हविर्लक्षणमन्नं यैस्तादृशा भूत्वा मन्म मन्मग्नेर्मननरूपं स्तोत्रमिषयंत ऐषयंति ऋत्विग्भिः कारयितुमिच्छंति । तेषामपि स्तुतिमग्निः कामयतामिति भावः ॥ नृणां । नृ चेत्युभयथाभावाद्दीर्घाभावः । नाम्यतरस्यामिति नाम उदात्तत्वं । तना । तनु विस्तारे । पचाद्यच् । तृतीयैकवचनस्य सुपां सुलुगित्याकारः । वृषादेराकृतिगणत्वादाद्युदात्तत्वं । शविष्ठाः । शव इति बलनाम । अस्मायोमेधेति मत्वर्थीयो विनिः । तेतें अतिशायनिक इष्ठन् । विन्मतोर्लुगिति विनो लुक् । टेरिति टिलोपः । इष्ठनो नित्त्वादाद्युदात्तत्वं । इषयंत । इषु इच्छायां । अस्माण्ण्यंताच्छंदसो लङ् । संज्ञापूर्वकस्य विधेरनित्यत्वाण्णेः लघूपधगुणाभावः । अडुपदेशाल्लसार्वधातुकानुदात्तत्वे चित्स्वर एव स्वरः शिष्यते ॥
+
+*nṛṇāṃ yajñasya netṝṇāṃ madhye nṛtamo 'tiśayena netā riśādā riśānāṃ śatrūṇām attā bhakṣayitā | yadvā | riśatāṃ hiṃsatām asitā nirasitā | evaṃvidhaḥ so 'gnir no 'smākaṃ giraḥ stutīr avasā havirlakṣaṇenānnena yuktāṃ dhītiṃ karma ca vetu | kāmayatām | api ca ye yajamānās tanā dhanānām(?) | vistṛtena dhanena maghavāno dhanavantaḥ śaviṣṭhā atiśayena balinaś ca santo vājaprasūtāḥ prasūtaṃ preritaṃ vājo havirlakṣaṇam annaṃ yais tādṛśā bhūtvā manma manmagner mananarūpaṃ stotram iṣayanta aiṣayanti ṛtvigbhiḥ kārayitum icchanti | teṣām api stutim agniḥ kāmayatām iti bhāvaḥ || nṛṇāṃ | nṛ cety ubhayathābhāvād dīrghābhāvaḥ | nāmy atarasyām iti nāma udāttatvaṃ | tanā | tanu vistāre | pacādy ac | tṛtīyaikavacanasya supāṃ sulug ity ākāraḥ | vṛṣāder ākṛtigaṇatvād ādyudāttatvaṃ | śaviṣṭhāḥ | śava iti balanāma | asmāyomedheti matvarthīyo viniḥ | tete atiśāyanika iṣṭhan | vinmator lug iti vino luk | ṭer iti ṭilopaḥ | iṣṭhano nittvād ādyudāttatvaṃ | iṣayanta | iṣu icchāyāṃ | asmāṇ ṇyantāc chandaso laṅ | saṃjñāpūrvakasya vidher anityatvāṇ ṇeḥ laghūpadhaguṇābhāvaḥ | aḍupadeśāl lasārvadhātukānudāttatve citsvara eva svaraḥ śiṣyate ||*
+
+*(Reading note: "tanā dhanānām(?)", "aiṣayanti" and "tete atiśāyanika" are as printed and doubtful; the print's "manma" is the object, "hymn" [?].)*
+
+*Meaning:* Among the leaders (*nṛṇām*) of the sacrifice, he who is the best leader (*nṛtamaḥ*), the devourer (*riśādāḥ*) of the injurers — the enemies — or the one who casts out those who injure: such Agni, may he (*vetu*) desire (accept) our praises (*giraḥ*) and our rite (*dhītim*), joined with the food in the form of oblation (*avasā*). And those sacrificers who, rich (*maghavānaḥ*) with extensive wealth (*tanā*), mighty (*śaviṣṭhāḥ*) and having prepared the oblation-food (*vājaprasūtāḥ*), wish (*iṣayanta*) to have the hymn (*manma*) in praise of Agni made by the priests — may Agni desire their praise too.
+
+**Grammatical tail** *(characterized)*: *nṛṇām* (no lengthening, both being possible); *tanā* (root *tanu vistāre*; *ac* in the *pacādi* class; the instrumental ending replaced by *ā* by *supāṃ sulug…*; initial acute as in the *vṛṣādi* class); *śaviṣṭhāḥ* (*śava* is a name of strength; *vini* in the possessive sense; *iṣṭhan* in the superlative; loss of *vin*); *iṣayanta* (root *iṣu icchāyām*, causative; *laṅ*; no guṇa).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; given on p. 500)*
+
+---
+
+### Page 500 (PDF 518)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Bhāṣya tail of Rik 77.4 (concluded from p. 499):** the last words of the tail (*…aḍupadeśāl lasārvadhātukānudāttatve citsvara eva svaraḥ śiṣyate*) are as given at the foot of p. 499.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 77.4** *(Kannada)*
+
+*nṛṇām* — among those who conduct (the sacrifice); *nṛtamaḥ* — the best leader; *riśādāḥ* — the destroyer of enemies (who injure the sacrifice); *saḥ agniḥ* — that Agni; *naḥ* — our; *giraḥ* — words (in the form of praise); *avasā* — with oblation-food; *dhītim* — the rite; *vetu* — may he desire; *ca* — and; *ye* — which (sacrificers); *tanā* — with abundant wealth; *maghavānaḥ* — wealthy; *śaviṣṭhāḥ* — mighty; *vājaprasūtāḥ* — those who have prepared the oblations; *manma* — the hymns (to Agni); *iṣayanta* — they wish (to have made by the priests) — may Agni desire that too.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+May Agni, the best of those who conduct sacrifice and the destroyer of enemies, accept our praise and the offering of oblations; the sacrificers who are rich, mighty and have prepared oblations praise Agni — may Agni accept that too.
+
+**English Translation** *(the source's own, as printed):*
+
+> May Agni, who is the chief director of sacrifices, and the destroyer of enemies, accept our praise and worship with oblations, and many those who are affluent with great wealth, who are endowed with strength and, by whom the sacrificial food has been prepared, be desirous to offer adoration.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **स नः नृणां नृतमः** — *nṛtamaḥ atiśayena netā | yajñasya netṝṇāṃ madhye atiśayena netā* — "the chief leader: one who is called pre-eminent among the priests, sacrificers and others who take the principal part and carry out the sacrifice. This Agni is the one who carries out the sacrifice with all its limbs —" *(the page ends here; continued on p. 501)*
+
+---
+
+**Progress note:** Printed pp. 1–500 done (PDF 19–518): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.3 complete (77.3's grammar page on pp. 497–498); **Rik 77.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*nṛtamaḥ*) done (pp. 499–500); the Special Topics break off at the foot of p. 500; the grammar page not yet seen. Next: p. 501 (PDF 519); then Rik 77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 77.4 (p. 499) with its tail compressed and doubtful [?].
