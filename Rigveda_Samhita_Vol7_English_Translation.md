@@ -1706,4 +1706,80 @@ prācair devāsaḥ pra ṇayanti devayuṃ brahmapriyaṃ joṣayante varā iva
 
 ---
 
-**Progress note:** Printed pp. 1–61 done (PDF 16–76) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): **Rik 83.1 complete** (grammar pp. 59–60); **Rik 83.2** — Saṃhitā and Pada (p. 61) and the application note at the head of the bhāṣya done; the bhāṣya continues on p. 62 (PDF 77). Next: printed p. 62 (PDF 77). Four Ṛks (83.3–83.6) remain after 83.2, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52; the Brāhmaṇa quotation on p. 61 uncertain.
+### Page 62 (PDF 77)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83". The print of this page is rough and in places broken at the right margin; passages affected are marked [?].)*
+
+*Bhāṣya of Rik 83.2, continued from p. 61:*
+
+> देवयुं देवान् कामयमानमेतं चमसुं [?]… प्राचैः प्राचीनैः यद्वा प्राञ्चनैः प्रागमनैरुत्तरवेद्यभिमुखं होमकाले प्रणयन्ति । होमार्थे प्रणीतं ब्रह्मप्रियं ब्रह्मणा सोमलक्षणेनान्नेन प्रीतं संतृप्तं । पूरितमित्यर्थः । जोषयन्ते । सर्वे देवास्तं चमसं सेवन्ते । वरा इव कन्यकाम् । यथा वरा मनेयं भविष्यति मनेयं भविष्यतीति कन्यकां सेवन्ते । एवं देवा अपि ममायं सोमो ममायं सोम इत्यस्य पार्श्वे वर्तन्त इत्यर्थः । एवमपोनप्त्रीयविनियोगानुसारेण योजितं मन्त्रस्यानुष्ठेयार्थप्रकाशकत्वात् । यदा तु रात्रिपर्याये तृतीयस्या विनियोगस्तदा त्वेवं व्याख्येयं । हे इन्द्र देव्य आपो यथा निम्नदेशमुपगच्छन्ति एवं देवास्त्वदीयं स्तोत्रं शुश्रूषमाणा होत्रियं होतृसंबन्धि धिष्ण्यस्थानमुपगच्छन्ति । उपगत्य चावः अधस्तात् पश्यन्ति । विततं ज्योतिरिव । देवयुं देवानात्मन इच्छन्तमेतं शंसितारमागताः सर्वे देवाः प्राचीनेन प्र णयन्ति । अग्रतो धारयन्ति । ब्रह्मप्रियं स्तोत्रप्रियं त्वां शंसन्तं वरा कन्यका इव सेवन्ते ॥ होत्रियम् । होतृशब्दात्तस्येदमर्थे घ्प्रत्ययः । अवः । पूर्वाधरावराणामसि पुरधवश्चैषाम् । पा. ५-३-३९ [?] इत्यसिप्रत्ययांतोदात्तः । प्राचैः । उत्कृर्नीत्कृ… [?] । यदा । प्रस्तुत्वादिभ्य … [?] । अनिदितामिति नलोपः । जोषयन्ते । जुषी प्रीतिसेवनयोः । स्वात्मनः प्रयोज्यत्वात्… णिच् ॥ २ ॥
+
+*devayuṃ devān kāmayamānam etaṃ camasaṃ [?]… | prācaiḥ prācīnaiḥ yadvā prāñcanaiḥ prāgamanair uttaravedyabhimukhaṃ homakāle praṇayanti | homārthe praṇītaṃ brahmapriyaṃ brahmaṇā somalakṣaṇenānnena prītaṃ saṃtṛptaṃ | pūritam ity arthaḥ | joṣayante | sarve devās taṃ camasaṃ sevante | varā iva kanyakām | yathā varā maneyaṃ bhaviṣyati maneyaṃ bhaviṣyatīti kanyakāṃ sevante | evaṃ devā api mamāyaṃ somo mamāyaṃ soma ity asya pārśve vartanta ity arthaḥ | evam aponaptrīyaviniyogānusāreṇa yojitaṃ mantrasyānuṣṭheyārthaprakāśakatvāt | yadā tu rātriparyāye tṛtīyasyā viniyogas tadā tv evaṃ vyākhyeyaṃ | he indra devya āpo yathā nimnadeśam upagacchanti evaṃ devās tvadīyaṃ stotraṃ śuśrūṣamāṇā hotriyaṃ hotṛsaṃbandhi dhiṣṇyasthānam upagacchanti | upagatya cāvaḥ adhastāt paśyanti | vitataṃ jyotir iva | devayuṃ devān ātmana icchantam etaṃ śaṃsitāram āgatāḥ sarve devāḥ prācīnena pra ṇayanti | agrato dhārayanti | brahmapriyaṃ stotrapriyaṃ tvāṃ śaṃsantaṃ varā kanyakā iva sevante || hotriyam | hotṛśabdāt tasyedamarthe gh-pratyayaḥ | avaḥ | pūrvādharāvarāṇām asi puradhavaś caiṣām | pā. 5-3-39 [?] ity asipratyayāntodāttaḥ | prācaiḥ | … [?] | yadā | … [?] | aniditām iti nalopaḥ | joṣayante | juṣī prītisevanayoḥ | svātmanaḥ prayojyatvāt … ṇic || 2 ||*
+
+*Sense (as far as the broken print allows):* "*Prācaiḥ* — by the eastern ones, or by those who move forward: at the time of the *homa* (the gods) bring forward (*pra ṇayanti*), facing the northern altar, the *camasa* (cup) that is *devayu* — (that seeks) the gods — and that has been prepared for the oblation; it is *brahmapriya* — gratified, satisfied, by *brahman* — by food in the form of Soma; filled. *Joṣayante* — all the gods attend that cup, like bridegrooms (*varāḥ*) a maiden (*kanyakā*): as bridegrooms attend a maiden thinking 'she will be mine, she will be mine', so the gods too stand by it, thinking 'this Soma is mine, this Soma is mine'. This is the sense in accordance with the application in the *Aponaptrīya* (rite), since a mantra shows the matter to be done. When, however, its application is in the third *paryāya* of the night-rite, it is to be explained thus: O Indra, as divine waters go to a low place, so the gods, wishing to hear your *stotra*, come to the *hotṛ*'s *dhiṣṇya* place (the seat of the *hotṛ*); and having come, they look down (*avaḥ*), like a spreading light. All the gods come to this praiser, who desires the gods for himself, and bring him forward in front, they hold him in front; they serve you, who delight in *brahman*, the praise, who recite, as bridegrooms a maiden." *The grammatical tail* (the print is broken; I give only what is legible): *hotriyam* — the affix *gha* in the sense 'belonging to that' after *hotṛ*; *avaḥ* — the affix *asi* by "pūrvādharāvarāṇām asi puradhavaś caiṣām" (Pā. 5-3-39 [?]), final-udātta; *joṣayante* — root *juṣī prītisevanayoḥ* with *ṇic*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 83.2** *(Kannada; the right edge of the page is partly broken in the scan [?])*
+
+- **होत्रियम्** — "the vessel of the *camasa* kind, belonging to the *hotṛ*"
+- **देवीः** — "shining"
+- **आपः न** — "like holy waters (*tīrthas*) coming and joining"
+- **उप यन्ति** — "(the deities) come and join"
+- **विततम्** — "spread out widely"
+- **ज्योतिः** — "the radiance of the sun"
+- **यथा** — "as"
+- **अवः** — "(as the sun's light) spreads downward, the vision of the deities too, from above"
+- **पश्यन्ति** — "they look"
+- **देवयुम्** — "this *camasa* that looks to the deities and is offered to them"
+- **प्राचैः** — "in the front part (of the northern altar)"
+- **देवासः** — "the gods"
+- **प्र णयन्ति** — "take and carry"
+- **ब्रह्मप्रियम्** — "(filled) with food in the form of Soma juice"
+- **वराः इव** — "as bridegrooms are eager to serve a maiden, thinking of her as their own"
+- **जोषयन्ते** — "(thinking 'it is ours') they eagerly attend."
+
+*The Kannada then gives an alternative (*athavā*) construing the Ṛk as addressed to Indra:* "(O Indra) **देवीः** — shining; **आपः न** — like holy waters, flowing into the low places; **होत्रियम्** — the *hotṛ*'s *dhiṣṇya* place; **उप यन्ति** — the deities come (wishing to hear your stotra); and **विततम्** — spread; **रजः यथा** — like the light; **अवः** — downward; **पश्यन्ति** — they look…" *(the end of the entry is cut off at the page foot and completed on p. 63)*.
+
+### Page 63 (PDF 78)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". The print is dark and partly clotted at the right edge.)*
+
+*Pratipadārtha of Rik 83.2, concluded (the alternative):*
+
+- **देवयुम्** — "(who looks for) the favour of the deities, the praiser"
+- **प्राचैः** — "in the front part (of the eastern portion)"
+- **प्र णयन्ति** — "take along, carrying"
+- **ब्रह्मप्रियम्** — "the praise-loving one, you"
+- **वराः इव** — "like bridegrooms (that serve brides with the thought 'she is mine')"
+- **जोषयन्ते** — "(from that) they attend."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 83.2** *(Kannada)*
+
+"As holy waters, shining, come and join together, the gods also come and join the *camasa* vessel that belongs to the *hotṛ*, taking it as their object. When it has come to the sacrificial ground, just as the radiance of the sun spreads widely and falls downward, so the downward glance of the gods falls upon this *camasa* filled with Soma. Gazing at the gods, this vessel, which is to be offered to them, is taken (by the priests), according to the injunction of the śāstra, to the front part of the northern altar; after it is taken there, the gods come eagerly to attend this vessel filled with Soma juice, as bridegrooms, each desiring that the new bride be his, eagerly attend upon her, longing for her."
+
+**English Translation** *(printed in English in the source)*
+
+"As the bright waters flow to the sacrificial ladle, so the gods look down upon it ; as the sun's rays spread every where and descends to earth so the gods desirous of being presented to them look down upon it ; the (Chamasa) vessel filled with Soma-libations is brought to the altar with proper rites and the gods are eager to obtain it as the would-be bridegrooms long for their intended brides." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.2)**
+
+- **होत्रियम्** — "(what) belongs to the *hotṛ*: a *camasa* vessel. *Camasa* is the wooden vessel that the priests use in the sacrifice for drinking Soma. For fuller detail see Ṛg. Saṃ. Part 2, p. 412. Although in the Ṛk there is merely *hotriyam* — 'belonging to the *hotṛ*' — without the word *camasa*, the bhāṣyakāra has supplied the word *camasa*."
+- **आपो न देवीरुप यन्ति होत्रियमवः पश्यन्ति** — "In this sentence the word *devāḥ* ('gods') has been supplied. Just as water, in the form of the Soma-juice, comes and joins the *hotṛ*'s *camasa*, so the gaze of the gods, eagerly for the drinking of Soma, falls on the *camasa* filled with Soma-juice — this is the sense."
+
+### Page 64 (PDF 79)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Special Topics of Rik 83.2, continued:*
+
+- **विततं यथा रजः** — "He has given an illustration for the above sentence. The light — the ray of the sun — spreads from the sky, covers everything and falls on the earth; the gaze of the gods likewise falls on the *hotṛ*'s *camasa* on the sacrificial altar."
+- **प्राचैर्देवासः प्र णयन्ति देवयुं ब्रह्मप्रियम्** — "*brahman* means food (Ni. [?-?] [?]). It is the established practice at the altar to bring to the Āhavanīya fire in the eastern direction the *soma* and other oblation-materials to be offered to the gods, and to consecrate them by reciting mantras. So they bring food that is dear to the gods to the east; the gods desire it — this is the chief sense."
+- **जोषयन्ते वरा इव** — "Concerning the gods' desire for oblations, he gives a comparison: just as men who desire a lovely maiden as bride (*kanyārthinaḥ*), wishing that she may be theirs, make themselves anxious to win her by manifold courtesies, so the gods are eager, and strive, to gain the oblation prepared for them, the Soma juice" *(the print at the end of this paragraph is clotted [?])*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.2)** *(grammar page, noted briefly; begins here)*
+
+- **होत्रियम्** — the root *hu dānādanayoḥ*, *juhotyādi*; with *tṛc* added, with guṇa, the word *hotṛ* is formed. In the sense 'belonging to him', by "tasyedam" (Pā. Sū. 4-3-120) the affix *gha* (*ghaḥ*); for *gh* by "āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām" (Pā. Sū. 7-1-2) the substitute *iy*; with the substitution made, the word *hotriya* is formed.
+- **अवः** — "*pūrvādharāvarāṇām asi puradhavaś caiṣām*" (Pā. Sū. 5-3-39) — a *luptaprathamāka* word (a word with the nominative elided). To the three words *pūrva*, *adhara*, *avara*, in the sense of 'the quarter', the affix *asi* is added; with the *asi*-affix following, the three stems are replaced in order by *pur*, *adh* and *av*. Since the affix is added in the sense of the stem itself, the *asi*-affix gives the meaning of the stem; the conveying of meaning is a general property of an affix, so even if these (replacements) have no special meaning-conveying power, they are understood to be meaningful with the sense of their original stems; hence here *asi* is added in the sense 'lower'. For the stem the substitute *av* arises; *av+asi*; since the *i* in the affix is for pronunciation, the word is an indeclinable ending in *s*; by the affix-accent it is final-udātta.
+
+---
+
+**Progress note:** Printed pp. 1–64 done (PDF 16–79) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1** complete; **Rik 83.2** — Saṃhitā, Pada, bhāṣya (pp. 61–62, the print of p. 62 broken at the right margin and partly read with doubt), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 62–64) done; its grammar page is begun on p. 64 (*hotriyam*, *avaḥ*) and continues on p. 65 (PDF 80). Next: printed p. 65 (PDF 80). Four Ṛks (83.3–83.6) remain after 83.2, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52; the Brāhmaṇa quotation on p. 61 and the broken print of pp. 62–64 (bhāṣya of 83.2) uncertain.
