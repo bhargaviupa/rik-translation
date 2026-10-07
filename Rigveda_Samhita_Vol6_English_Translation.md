@@ -4846,4 +4846,52 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–242 done (PDF 19–260): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti; fifth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 69.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 242, breaking off in the note on *uṣo na jāraḥ*). Next: p. 243 (PDF 261), the rest of the Special Topics and the grammar page of Rik 69.1; then Riks 69.2–69.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the bhāṣya grammar tail of 69.1 and the Special Topics quotation on p. 242 read at 150 dpi and doubtful in places [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 243 (PDF 261)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**Special Topics (continued and concluded; Kannada).** "…[the quotation, cut off at the foot of p. 242, is given in the print as '*punaḥ punaḥ … jarayanty āyuḥ*', a Ṛk (Ṛk. Saṃ. 1-92-10, as read, ?)]: as that Ṛk says, the dawn also reduces the lives of beings through each one's experience; so Agni and the sun both reduce them: thus the sense *uṣas iva* [and] *agniḥ, ādityaḥ jāraḥ* ('Agni and the sun are the ones who bring old age') appears here. By this another figure of speech is said, in poetic fashion, in this Vedic commentary.
+
+- **शुशुक्वान्** — *sūrya iva śocayitā sarvasya prakāśayitā bhavati* — "from the root *śuca dīptau* the word means abundant light, and 'one endowed with that light'; like the sun, Agni makes all things luminous with his own light. The use of the root *śuc* is the cause of this meaning."
+- **दिवो न ज्योतिः पप्रा** — *dyotamānasya sūryasya jyotir iva dyāvāpṛthivyoḥ svatejasā pūrayitā* — "as the sun fills the earth, atmosphere and heaven, which are joined together, with his rays, Agni too pervades and fills them with his own light."
+- **देवानां पुत्रः न भुवः पिता** — *devāḥ ṛtvijaḥ teṣāṃ punnāmno narakāt trāyekaḥ san pitā bhuvaḥ pālayitā bhavasi | yadvā — devānām indrādīnām eva putra iva dūto bhūtvā pitā havirbhiḥ pālayitā bhavasi* — "*div* has among its many senses 'to shine' and 'to praise'; so *devāḥ* are those who shine or who praise: the priests, who praise Agni. The word *putra* [means] 'one who saves from the hell called *put*'. Agni makes the sacrificers possessors of sons, and gives shares of oblation to the gods who praise him: so he does the work of a son for both. By the word *pitā*, from the root *pā* 'to protect, guard', he is the protector; by giving crops and food through rain on the earth he does the work of a father. Or, because he serves the gods as a son, carrying oblations as a messenger, and protects, he is both messenger and father to the gods."
+
+---
+
+### Page 244 (PDF 262)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 69.1 (noted briefly).** **शुशुक्वान्**: root *śuca dīptau*; in the place of *liṭ*, the affix *kvasu* by "kvasuś ca"; the root is doubled because of it; the reduplicative syllable keeps the first consonant; by "vyatyayo bahulam" *ku* for the *c*; the word *śuśukvas*; with *su*, because *ugit*, the *num* augment by "ugidacāṃ sarvanāmasthāne 'dhātoḥ"; lengthening of the penultimate; the loss of *su*; the loss of *s*; the *ru*… by "dīrghād aṭi samānapāde" [as read, ?]; nasalization by "ato roḥ…"; the affix accent. **पप्रा**: root *prā pālanapūraṇayoḥ*; by "ādṛgamahanajanaḥ kikinau liṭ ca" (Pā. Sū. 3-2-171) the affix *ki*; the root is doubled since [the affix is] *liṭ*-like; by "urat" *a* for the *ṛ*… [print: for the reduplicative syllable]; the *yaṇ* for the final *ā*; the word *papri*; with *su*, by "supāṃ sulug…" *ḍā*; since *ḍit*, the loss of *ṭi*; by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the *ā* is acute. **समीची**: root *añcu gatipūjanayoḥ*; after *sam* as the first member, the affix *kvin* by "ṛtvigdadhṛk…" (Pā. Sū. 3-2-59); by "anidītāṃ hala upadhāyāḥ kṅiti" the loss of the penultimate nasal; by "samaḥ sami" (Pā. Sū. 6-3-93) *sami* for *sam*; by "añceś chandasy asaṅkhyānam" [as read] *ṅīp* is stated when feminine is meant; by "aco 'ñcaḥ" the loss of the root's *a*; by "cau" the lengthening of the prior member: *samīcī*; because *ṅīp* is *p*-marked it is unaccented, but by "anudāttasya ca yatrodāttalopaḥ" it takes the acute; with *samīcī + au*, by "vā chandasi" the same-class lengthening as single substitute; if the word is divided as *sam + īcī*, the *īt* enjoined by "uda īt" [as read] applies Vedicly to the latter member of *sam* too. **दिवः**: by "ūḍidaṃpadādi…" the case-ending is acute. **बभूथ**: root *bhū sattāyām*; *liṭ*, second person singular; because "babhūthātatambha…" (Pā. Sū. 7-2-64) gives it by *nipātana*, the *iṭ* of *thal* does not come by "ārdhadhātukasyeḍ valādeḥ". **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read; compressed and tentative in places [?]. Rik 69.1 ends here (ornamental rule).*
+
+---
+
+### Page 245 (PDF 263)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+#### Rik 69.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **वेधा अदृप्तो अग्निर्विजानन्नूधर्न गोनां स्वाद्मा पितूनाम् ।**
+> **जने न शेव आहूर्यः सन्मध्ये निषत्तो रण्वो दुरोणे ॥ ३ ॥ ४ ॥**
+> *vedhā adṛpto agnir vijānann ūdhar na gonāṃ svādmā pitūnām |*
+> *jane na śeva āhūryaḥ san madhye niṣatto raṇvo duroṇe || 3 || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **वेधाः । अदृप्तः । अग्निः । विऽजानन् । ऊधः । न । गोनाम् । स्वाद्म । पितूनाम् ।**
+> **जने । न । शेवः । आऽहूर्यः । सन् । मध्ये । निऽसत्तः । रण्वः । दुरोणे ॥ ३ ॥ ४ ॥**
+> *vedhāḥ | adṛptaḥ | agniḥ | vi-jānan | ūdhaḥ | na | gonām | svādma | pitūnām |*
+> *jane | na | śevaḥ | ā-hūryaḥ | san | madhye | ni-sattaḥ | raṇvaḥ | duroṇe || 3 || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 246)*
+
+> **वेधाः । मेधाविनामैतत् । मेधावी । यद्वा । विधाता सर्वस्य कर्ता । अदृप्तो दर्परहितो विजानन् कर्तव्याकर्तव्यविभागं जानन्नग्निर्गोनां गवामूधर्न गोसंबन्धिपयस आश्रयभूतं स्थानमिव पितूनामन्नानां स्वाद्मा स्वादयिता रसयिता । यथा गोरूधः पयःप्रदानेन सर्वाण्यन्नानि स्वादूनि करोति तद्वदग्निरपि सम्यक्पाकेन सर्वाण्यन्नानि स्वादूनि करोतीत्यर्थः । अपि चैवंभूतोऽग्निर्जने न शेवो जनपदे लोकसुखकरः पुरुष इव मध्ये यज्ञेषु मध्य आहूर्यः आह्वातव्यः सन् दुरोणे यज्ञगृहे निषत्तो निषण्णो रण्वो रमयिता स्तुत्यो वा भवति ॥ गोनां । गोः पादान्ते । पा. ७-१-५७ इत्यपादान्तेऽपि नुट् । स्वाद्म । स्वाद आस्वादने । अन्तर्भावितण्यर्थादन्येभ्योऽपि दृश्यन्ते इति मनिन् । सुपां सुलु-**
+> *vedhāḥ | medhāvināmaitat | medhāvī | yadvā | vidhātā sarvasya kartā | adṛpto darparahito vijānan kartavyākartavyavibhāgaṃ jānann agnir gonāṃ gavām ūdhar na gosaṃbandhipayasa āśrayabhūtaṃ sthānam iva pitūnām annānāṃ svādmā svādayitā rasayitā | yathā gor ūdhaḥ payaḥpradānena sarvāṇy annāni svādūni karoti tadvad agnir api samyakpākena sarvāṇy annāni svādūni karotīty arthaḥ | api caivaṃbhūto 'gnir jane na śevo janapade lokasukhakaraḥ puruṣa iva madhye yajñeṣu madhya āhūryaḥ āhvātavyaḥ san duroṇe yajñagṛhe niṣatto niṣaṇṇo raṇvo ramayitā stutyo vā bhavati || gonāṃ | goḥ pādānte | Pā. 7-1-57 ity apādānte 'pi nuṭ | svādma | svāda āsvādane | antarbhāvitaṇyarthād anyebhyo 'pi dṛśyante iti manin | supāṃ sulu-*
+> *"**Vedhāḥ** — a word for 'wise'; or, the creator, the maker of all; **adṛptaḥ**, free of pride, **vijānan**, discerning what is to be done and not done: Agni, **gonām ūdhar na**, like the udder of cows, a place that is the support of cows' milk, is **pitūnām svādmā**, the one who makes tasty, who gives flavour to, foods; as the udder, by giving milk, makes all foods tasty, so Agni too, by cooking well, makes all foods tasty. And Agni, such as this, **jane na śevaḥ**, like a man who gives comfort to people in a country, **madhye**, in the midst of the sacrifices, **āhūryaḥ**, to be invoked, **duroṇe**, in the house of sacrifice, **niṣattaḥ**, seated, is **raṇvaḥ**, delightful, or to be praised. **Gonām**: *nuṭ* even in a non-final position by 'goḥ pādānte' (Pā. 7-1-57, as read). **Svādma**: root *svāda āsvādane*, with an included causal sense; *manin* by 'anyebhyo 'pi dṛśyante'…"* *(continues on p. 246.)*
+
+---
+
+**Progress note:** Printed pp. 1–245 done (PDF 19–263): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 69.1 complete; **Rik 69.2** — Saṃhitā, Pada and the first part of the bhāṣya done (p. 245, breaking off at *svādma … supāṃ sulu-*). Next: p. 246 (PDF 264), the rest of the bhāṣya of Rik 69.2 and its remaining parts; then Riks 69.3–69.5, the closing line, and then **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the grammar of 69.1 (p. 244) compressed and tentative [?]; accent marks of the Saṃhitā/Pada not reproduced.
