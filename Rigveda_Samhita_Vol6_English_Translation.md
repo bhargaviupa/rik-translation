@@ -13995,4 +13995,93 @@ tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
 
 ---
 
-**Progress note:** Printed pp. 1–607 done (PDF 19–625): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.13 complete** (grammar of 80.13 on pp. 605–606); **Rik 80.14** — Saṃhitā (p. 606), Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 607) done; its English, Special Topics and grammar not yet seen. Next: p. 608 (PDF 626). Two Ṛks (80.15–80.16) remain after 80.14, then the closing line of Sūkta 80, which is the last sūkta of Volume 6 (CLAUDE.md update then). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt.
+### Page 608 (PDF 626)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**English Translation** *(Rik 80.14; printed in English in the source)*
+
+"At your shout, wielder of the thunderbolt, all things, moveable or immoveable, trembled; even Twashtri shook with fear, Indra, at your wrath, manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.14)**
+
+- **अद्रिवः** — *adrivikārarūtvāt* [as read; *adrivikāratvāt*?] — "*adri* is the stone; since the thunderbolt is a product of the stone (*adri*), the thunderbolt-weapon too has acquired the name *adri*. The one who has the *adri*, *adrivān*, the wielder of the thunderbolt-weapon — this is the sense: Indra."
+- **स्थाः** — "from the root *ṣṭhā gatinivṛttau* the form *sthāḥ* arises: things that are stationary, that do not move."
+- **रेजते** — *kampate* — "(it) trembles from fear. The Nirukta-writer says: '*bhyasate, rejate iti bhayavepanayoḥ dhātū*' — '*bhyasate*' and '*rejate*' are the two roots for fear and trembling — and the author of the Nirukta says that both these roots are used in both senses of fear and trembling" [the quotation is read with doubt [?]].
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.14)** *(grammar page, noted briefly; runs to p. 609)*
+
+- **अद्रिवः** — explained in the seventh Ṛk of this sūkta (80.7).
+- **स्थाः** — the root *ṣṭhā gatinivṛttau*; by "dhātvādeḥ ṣaḥ saḥ" the initial *ṣ* becomes *s*; by "kvip ca" (क्विप् च, Pā. Sū. 3-2-76) the affix *kvip*; by "kṛttaddhitasamāsāś ca" (कृत्तद्धितसमासाश्च, Pā. Sū. 1-2-46) it has the designation *prātipadika*; first-case singular; by the accent of the root it is udātta.
+- **रेजते** — the root *reji kampane* (रेज्ञ् [?] कम्पने); *laṭ*, third person singular; nighāta accent for the *tiṅanta*.
+- **वेविज्यते** — the root *ovijī bhayacalanayoḥ*; in the sense of intensity, by "dhātor ekāco…" the affix *yaṅ* [sic: the print says "*yaj*" for the *yaṅ*]; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) the reduplication of the root; the *hal*-initial remains in the reduplicative; by "guṇo yaṅluk-oḥ" (Pā. Sū. 7-4-82) the guṇa of the reduplicative; by "sanādyantā dhātavaḥ" the *yaṅ*-ending *vevijya* has the root-designation; after it, in the sense of the present, *laṭ*, third person singular, the affix *ta*; by "ṭita ātmanepadānāṃ…" *e* *(continued on p. 609)*
+
+### Page 609 (PDF 627)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 39" at the foot.)*
+
+*Grammar of Rik 80.14, continued from p. 608:*
+
+- **वेविज्यते** (continued) — "…by 'ṭita ātmanepadānāṃ ṭer e' the *ṭi* part becomes *e*; the form *vevijyate*. Since the root is *adupadeśa*, the *lasārvadhātuka* (*te*) becomes anudātta by 'tāsyanudāttenṅid…' (Pā. Sū. 6-1-186), and the accent of the *yaj* [*yaṅ*] alone remains. Before this, the word *indra* is at the head of the pāda; since it has the *āmantrita*-designation, by 'āmantritaṃ pūrvam avidyamānavat' (Pā. Sū. 8-1-72) it has *avidyamānavattva* ('as if non-existent'); thus, since *vevijyate* comes at the head of the pāda, by the exclusion 'apādādau' no nighāta accent arises."
+- **भिया** — the root *ñibhī bhaye*; the affix *kvip*; the third-case *ṭā* following, by "aci śnudhātubhruvāṃ…" the *iy* replacement; by "sāvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168), because the stem is of one syllable, the case-ending takes the udātta. ||14||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.15**
+
+> नहि नु यादधीमसीन्द्रं को वीर्या परः ।
+> तस्मिन्नृम्णमुत क्रतुं देवा ओजांसि सं दधुरर्चन्ननु स्वराज्यम् ॥ १५ ॥
+
+*nahi nu yād adhīmasīndraṃ ko vīryā paraḥ |
+tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājyam ||15||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> नहि । नु । यात् । अधिऽइमसि । इन्द्रम् । कः । वीर्या । परः ।
+> तस्मिन् । नृम्णम् । उत । क्रतुम् । देवाः । ओजांसि । सम् । दधुः ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ १५ ॥
+
+*nahi | nu | yāt | adhi-imasi | indram | kaḥ | vīryā | paraḥ | tasmin | nṛmṇam | uta | kratum | devāḥ | ojāṃsi | sam | dadhuḥ | arcan | anu | sva-rājyam ||15||*
+
+### Page 610 (PDF 628)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.15** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> यात् यान्तं सर्वत्र व्याप्य वर्तमानमिन्द्रं नहि [स्नधीमसि] [?] । वयं न ह्यवगच्छामः । यतो वयमल्पाः । पर इत्येतत्सकारान्तमव्ययं वैदूर्यमाचष्टे [?] । परो दिवा पर एना । ऋग्वे. १०-८२-२ [?] । इति यथा । परः परस्मात् दूरे मनुष्यैरनवगाह्ये स्थाने वीर्या वीर्येण सामर्थ्येन वर्तमानमिन्द्रं कः मनुष्यो जानीयात् । न कोऽपीत्यर्थः । कस्मादिति चेत् अत्राह । तस्मिन्निन्द्रे यस्माद्देवा नृम्णं धनं उताऽपि च क्रतुं वीर्यकर्म ओजांसि बलानि च सं दधुः स्थापयांचक्रुः तस्मादित्यर्थः ॥ यात् । या प्रापणे । अस्माल्लटः शतृ । सुपां सुलुगिति द्वितीयाया लुक् । अधीमसि । इण् गतौ । इदन्तो मसिः । वीर्या । सुपां सुलुगिति तृतीयाया आकारः ॥
+
+*yāt yāntaṃ sarvatra vyāpya vartamānam indraṃ nahi [snadhīmasi] [?] | vayaṃ na hy avagacchāmaḥ | yato vayam alpāḥ | para ity etat sakārāntam avyayaṃ vaidūryam ācaṣṭe [?] | paro divā para enā | ṛgve. 10-82-2 [?] | iti yathā | paraḥ parasmāt dūre manuṣyair anavagāhye sthāne vīryā vīryeṇa sāmarthyena vartamānam indraṃ kaḥ manuṣyo jānīyāt | na ko 'pīty arthaḥ | kasmād iti cet atrāha | tasminn indre yasmād devā nṛmṇaṃ dhanam utāpi ca kratuṃ vīryakarma ojāṃsi balāni ca saṃ dadhuḥ sthāpayāṃcakruḥ tasmād ity arthaḥ || yāt | yā prāpaṇe | asmāl laṭaḥ śatṛ | supāṃ suluk iti dvitīyāyā luk | adhīmasi | iṇ gatau | idanto masiḥ | vīryā | supāṃ suluk iti tṛtīyāyā ākāraḥ ||*
+
+*Sense:* "We do not know (*nahi adhīmasi* — the reading of the second word is doubtful [?]) Indra, who pervades (*yāt* = *yāntam*) everywhere; for we are small. *Para* is an indeclinable ending in *s*, which expresses distance — as in *paro divā para enā* (Ṛgveda 10-82-2 [?]). Which man can know (*jānīyāt*) Indra, who is far (*paraḥ*), in a place not to be reached by men, being by his *vīrya*, strength? No one, is the sense. If one asks why, the text answers: because in that Indra the gods have established (*saṃ dadhuḥ* = *sthāpayāṃ cakruḥ*) *nṛmṇa*, wealth; and *kratu*, heroic action; and *ojāṃsi*, powers." *The grammatical tail:* *yāt* — the root *yā prāpaṇe*, *śatṛ* after *laṭ*; the second case is elided by "supāṃ suluk…"; *adhīmasi* — the root *iṇ gatau*, *masi* with *i*-ending; *vīryā* — the third case replaced by *ā* by "supāṃ suluk…".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.15** *(Kannada)*
+
+- **यात्** — "(Indra) who pervades everywhere"
+- **नहि नु अधीमसि** — "(we) are not able to know (because of our small knowledge)"
+- **स्वराज्यम्** — "his own lordship"
+- **अनु अर्चन्** — "displaying"
+- **तस्मिन्** — "in him (Indra)"
+- **देवाः** — "(all) the gods"
+- **नृम्णम्** — "wealth"
+- **उत** — "and"
+- **क्रतुम्** — "heroic deeds"
+- **ओजांसि** — "powers"
+- **सं दधुः** — "have established (because of that)"
+- **परः** — "who is very far away (unattainable)"
+- **वीर्या** — "endowed with prowess"
+- **इन्द्रम्** — "Indra"
+- **कः** — "which (man)"
+- **जानीयात्** — "would know (himself)?"
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.15** *(Kannada)*
+
+"We cannot know Indra, who pervades everywhere. In whom all the gods have established their wealth, action and power, displaying his own lordship — what man (of himself) can know Indra, who by his own strength (is) in a place far away (unattainable by men)?"
+
+**English Translation** *(printed in English in the source)*
+
+"We know not of a certainty the all-pervading Indra: who (does know him, abiding) afar off in his strength? for in him have the Gods concentrated riches, and worship, and power, manifesting his own sovereignty." — as printed.
+
+---
+
+**Progress note:** Printed pp. 1–610 done (PDF 19–628): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.14 complete** (grammar of 80.14 on pp. 608–609); **Rik 80.15** — Saṃhitā, Pada (p. 609), bhāṣya, Pratipadārtha, Bhāvārtha and English (p. 610) done; its Special Topics and grammar not yet seen. Next: p. 611 (PDF 629). Rik 80.16 and the closing line of Sūkta 80 (the last sūkta of Volume 6) remain; then CLAUDE.md update. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt.
