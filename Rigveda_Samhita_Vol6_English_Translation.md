@@ -5174,4 +5174,56 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–260 done (PDF 19–278): **Sūkta 69 complete**; Sūktas 62–69 done. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks, the last single; Agni; Parāśara Śākti; sixth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 70.1** — Saṃhitā only (p. 260). Next: p. 261 (PDF 279), the Pada and bhāṣya of Rik 70.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced. **Run plan:** the user asked for two sūktas (69 and 70); Sūkta 70 continues to its end before this run stops.
+### Page 261 (PDF 279)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14 [as read]".)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **वनेम । पूर्वीः । अर्यः । मनीषा । अग्निः । सुऽशोकः । विश्वानि । अश्याः ।**
+> **आ । दैव्यानि । व्रता । चिकित्वान् । आ । मानुषस्य । जनस्य । जन्म ॥ १ ॥ २ ॥**
+> *vanema | pūrvīḥ | aryaḥ | manīṣā | agniḥ | su-śokaḥ | viśvāni | aśyāḥ |*
+> *ā | daivyāni | vratā | cikitvān | ā | mānuṣasya | janasya | janma || 1 || 2 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **पूर्वीः प्रभूता इषोऽन्नानि वनेमु । संभजेमहि । अग्निस्तादृशान्यन्नानि ददात्वित्यर्थः । मनीषा मनीषया बुद्ध्यार्यो गन्तव्यः प्राप्तव्यः । यद्वा । मनीषयोर्यः स्वामी । सुशोकः शोभनदीप्तिः । एवंभूतोऽग्निर्विश्वानि सर्वाणि कर्माण्यश्याः । अश्नुते । व्याप्नोति । किं कुर्वन् । दैव्यानि देवेषु भवानि व्रता व्रतानि कर्माणि चिकित्वान् आ समन्ताज्जानन् । तथा मानुषस्य जनस्य मनुष्यजातेस्य जन्मोत्पत्तिरूपं कर्म चिकित्वान् आभिमुख्येन जानन् । द्यावापृथिव्योः संबन्धीनि यानि कर्माणि तानि सर्वाण्यवगच्छन् अवगत्य व्याप्नोतीत्यर्थः ॥ वनेमु । वन षण संभक्तौ । शपि प्राप्ते व्यत्ययेन शः । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते । पूर्वीः । पुरुशब्दाद्वोतो गुणवचनादिति ङीष् । हलि चेति दीर्घः । मनीषा । ईषाअक्षादित्वात्प्रकृतिभावः । पा. ६-१-१२८-२ । सुशोकः । शुच दीप्तौ । भावे घञ् । चजोः कु घिण्ण्यतोरिति कुत्वं । शोभनः शोको यस्य । आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । अश्याः । देवत्वा विश्वान्यश्याः । ऋग्वे. १-६९-६ । इतिवत् । चिकित्वान् । कित ज्ञाने । लिटः क्वसुः ॥**
+> *pūrvīḥ prabhūtā iṣo 'nnāni vanemu | saṃbhajemahi | agnis tādṛśāny annāni dadātv ity arthaḥ | manīṣā manīṣayā buddhyāryo gantavyaḥ prāptavyaḥ | yadvā | manīṣayor yaḥ svāmī | suśokaḥ śobhanadīptiḥ | evaṃbhūto 'gnir viśvāni sarvāṇi karmāṇy aśyāḥ | aśnute | vyāpnoti | kiṃ kurvan | daivyāni deveṣu bhavāni vratā vratāni karmāṇi cikitvān ā samantāj jānan | tathā mānuṣasya janasya manuṣyajātesya janmotpattirūpaṃ karma cikitvān ābhimukhyena jānan | dyāvāpṛthivyoḥ sambandhīni yāni karmāṇi tāni sarvāṇy avagacchan avagatya vyāpnotīty arthaḥ || vanemu | vana ṣaṇa saṃbhaktau | śapi prāpte vyatyayena śaḥ | adupadeśāl lasārvadhātukānudāttatve vikaraṇasvaraḥ śiṣyate | pūrvīḥ | puruśabdād voto guṇavacanād iti ṅīṣ | hali ceti dīrghaḥ | manīṣā | īṣāakṣādittvāt prakṛtibhāvaḥ | Pā. 6-1-128-2 | suśokaḥ | śuca dīptau | bhāve ghañ | cajoḥ ku ghiṇṇyatoriti kutvaṃ | śobhanaḥ śoko yasya | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | aśyāḥ | devatvā viśvāny aśyāḥ | Ṛgve. 1-69-6 | itivat | cikitvān | kita jñāne | liṭaḥ kvasuḥ ||*
+> *"**Pūrvīḥ**, abundant, **iṣaḥ**, foods, **vanema** — may we obtain, share; may Agni give such foods. **Manīṣā**: by *manīṣā*, intelligence, **aryaḥ**, to be approached, to be reached; or: lord of *manīṣā*s. **Suśokaḥ**, of beautiful radiance. Agni, such as this, **viśvāni**, all rites, **aśyāḥ** — attains, pervades. Doing what? **daivyāni vratā** — the rites that belong to the gods — **cikitvān**, knowing fully; and likewise **mānuṣasya janasya janma**, the act that consists in the birth of the human race, knowing it directly; i.e. understanding all the rites that concern heaven and earth, he pervades them. **Vanemu**: root *vana ṣaṇa saṃbhaktau*; *śa* by exchange where *śap* would come; since [the root is] *a*-ending in the *upadeśa*, the *laṭ*-sārvadhātuka is unaccented and the vikaraṇa accent remains. **Pūrvīḥ**: *ṅīṣ* by 'vāto guṇavacanāt' after *puru*; the lengthening by 'hali ca'. **Manīṣā**: *prakṛtibhāva* since it is in the *īṣāakṣādi* list (Pā. 6-1-128-2, as read). **Suśokaḥ**: root *śuca dīptau*; *ghañ* in the sense of *bhāva*; *ku* by 'cajoḥ ku ghiṇṇyatoḥ'; 'whose *śoka* (radiance) is beautiful'; the accent of the latter member of a two-syllable by 'dvyac chandasi'. **Aśyāḥ**: as in 'devatvā viśvāny aśyāḥ' (Ṛgveda 1-69-6, i.e. Rik 69.3 above, as read). **Cikitvān**: root *kita jñāne*; *kvasu* for *liṭ*."* *(Grammar tail short; the Mahābhāṣya/Kāśikā numerals as read [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**पूर्वीः** — abundant food; **वनेम** — may we obtain (by Agni's grace); **मनीषा** — by intelligence; **अर्यः** — to be reached (the lord); **सुशोकः** — of auspicious radiance; **अग्निः** — Agni; **दैव्यानि** — the divine; **व्रता** — rites; **मानुषस्य जनस्य** — of men; **जन्म** — the rites in the form of birth; **आ चिकित्वान्** — knowing them fully; **विश्वा** — all rites; **अश्याः** — pervades.
+
+---
+
+### Page 262 (PDF 280)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, to be reached by meditation, of auspicious radiance, knowing all that concerns the gods and all that concerns the birth of men, pervades all rites. May such an Agni give us food as we wish.
+
+**English Translation** *(the source's own, as printed):*
+
+> We solicit abundant (food). Agni, who is to be approached by meditation, and shines with pure light, pervades all holy rites, knowing well the acts that are addressed to the Deities, and (those which regulate) the birth of the human race.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **पूर्वीः** — *prabhūtā iṣo 'nnāni* — "Sāyaṇa says: may Agni favour us with the many kinds of food that the sacrificers desire. *Ciraṃtanīḥ* [Skandasvāmin: 'ancient'] — *sāmarthyāt samṛddhir āśiṣo vā* — 'all the ancient greatness that our forebears enjoyed, or the blessings that bring them; may Agni give these'."
+- **मनीषा अर्यः** — *buddhyā gantavyaḥ prāptavyaḥ | yadvā aryaḥ svāmī* — "Agni is fit to be known by right and firm understanding; or he is worthy of being approached by right meditation. Or [Sāyaṇa explains] that Agni is a lord, a master, by the power of his intelligence, who accepts the oblations. For *manīṣā* Skandasvāmin gives the meaning 'praise' and explains that Agni is of abundant brilliance, accompanied by the praises that others make."
+- **मानुषस्य जनस्य जन्म आ चिकित्वान्** — *manuṣyajātasya utpattirūpaṃ karma ābhimukhyena jānan tāni sarvāṇi apagatya vyāpnoti* — "Agni, knowing well what the works of men are, from their birth onward, and their connection with earth and atmosphere, pervades them."
+- **सुशोकः** — *śobhanaḥ śoko yasya* — "one whose brilliance is good or the best."
+
+---
+
+### Page 263 (PDF 281)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14 [as read]".)*
+
+**Special Topics (concluded; Kannada).** "*Skandasvāmin:* in the word *viśvāni* he understands 'the oblations offered by the sacrificers'; and by *mānuṣasya janasya janma* he explains that, since the oblations are offered into Agni with each deity in view, and since he himself carries them to those deities, Agni knows the origin of each of those sacrificers."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 70.1 (noted briefly).** **वनेमु**: root *vana ṣaṇa saṃbhaktau*; in the *vidhiliṅ* [read as *liṅ*], first person plural, the affix *mas*; by "nityaṃ ṅitaḥ" the loss of the *s*; by "vyatyayo bahulam" *śa* [vikaraṇa] in place of *śap*; the augment *yāsuṭ* for the *liṅ*; by "ato yeyaḥ" (Pā. Sū. 7-2-80) *iya* [*ī*] for *yā* after a stem ending in *a*; *guṇa*; by "lopo vyor vali" the loss of *y*; since the *laṭ*-sārvadhātuka follows a stem accented by the *upadeśa*, it is unaccented by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam"; the vikaraṇa accent remains; at the beginning of the *pāda* no *nighāta*. **पूर्वीः**: after *puru*, by "voto guṇavacanāt" (Pā. Sū. 4-1-44), since it is a quality-word, *ṅīṣ* in the feminine; by "hali ca" the lengthening of the *r*-final stem's penultimate; accusative plural; the affix accent, final-acute. **मनीषा**: since *agniḥ* follows, the same-class lengthening would arise; but since it is in the *īṣāakṣādi* list, by "īṣāakṣādīnāṃ chandasi" (Pā. Sū. 6-1-128-2, as read) the *prakṛtibhāva* arises. **सुशोकः**: root *śuca dīptau*; *ghañ* in the sense of *bhāva*; by "pugantalaghūpadhasya ca" *guṇa* of the light penultimate; by "cajoḥ ku ghiṇṇyatoḥ" (Pā. Sū. 7-3-52) *k* for the *c*; "*śobhano śoko yasya saḥ suśokaḥ*"; by "ādyudāttaṃ dvyac chandasi" the latter member's initial acute. **अश्याः**: explained in the Ṛk '*devatvā viśvāny aśyāḥ*' (Ṛk. Saṃ. 1-69-6, i.e. Rik 69.3, as read). **व्रता**: *vratāni*; the *śi* is lost by "śeś chandasi bahulam". **चिकित्वान्**: root *kita jñāne*; by "liṭaḥ kvasuś ca" *kvasu*; the doubling of the root because of it; the reduplicative syllable keeps the first consonant; *cutva*; since *k*-marked, no *guṇa* from the *vas* *(continues on p. 264)*.
+
+---
+
+**Progress note:** Printed pp. 1–263 done (PDF 19–281): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): **Rik 70.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, and the grammar page begun (p. 263, ending at *cikitvān*). Next: p. 264 (PDF 282), the grammar page of Rik 70.1 concludes; then Riks 70.2–70.6 and the closing line of Sūkta 70 (then the user's two-sūkta request, 69 and 70, is done). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced.
