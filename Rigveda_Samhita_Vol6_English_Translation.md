@@ -13019,4 +13019,91 @@ indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam |
 
 ---
 
-**Progress note:** Printed pp. 1–574 done (PDF 19–592): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.2 complete**; **Rik 80.3** — Saṃhitā, Pada (p. 571), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 572), Special Topics (pp. 573–574) done; its grammar page is begun on p. 574 (*ihi*, *dhṛṣṇuhi*, *yaṃsate*, *hanaḥ*) and continues on p. 575 (PDF 593). Next: p. 575 (PDF 593). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
+### Page 575 (PDF 593)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.3, continued from p. 574 (grammar page, noted briefly):*
+
+- **जयाः** [as read, [?]] — the root *ji jaye* (जि जये); *leṭ*, second person singular, the affix *sip*; the *i* dropped by "iteś ca" / "ito lopaḥ parasmaipadeṣu" (इतश्च लोपः परस्मैपदेषु, Pā. Sū. 3-4-97); the augment *aṭ* by "leṭo 'ḍāṭau"; *śap*; the guṇa of the *ik* of the root because of it; *ay* replacement; the *s* of the affix becomes *ru*, visarga; as before the root's accent remains.
+- **अपः** — by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-171) the case-ending (*śas*) takes the udātta. ||3||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.4**
+
+> निरिन्द्र भूम्या अधि वृत्रं जघन्थ निर्दिवः ।
+> सृजा मरुत्वतीरव जीवधन्या इमा अपोऽर्चन्ननु स्वराज्यम् ॥ ४ ॥
+
+*nir indra bhūmyā adhi vṛtraṃ jaghantha nir divaḥ |
+sṛjā marutvatīr ava jīvadhanyā imā apo 'rcann anu svarājyam ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> निः । इन्द्र । भूम्याः । अधि । वृत्रम् । जघन्थ । निः । दिवः ।
+> सृज । मरुत्वतीः । अव । जीवऽधन्याः । इमाः । अपः । अर्चन् ।
+> अनु । स्वऽराज्यम् ॥ ४ ॥
+
+*niḥ | indra | bhūmyāḥ | adhi | vṛtram | jaghantha | niḥ | divaḥ | sṛja | marutvatīḥ | ava | jīva-dhanyāḥ | imāḥ | apaḥ | arcan | anu | sva-rājyam ||4||*
+
+### Page 576 (PDF 594)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र भूम्या अधि भूलोकस्योपरि वृत्रं निर्जघन्थ । निःशेषेण हतवानसि । तथा दिवो द्युलोकान्निर्जघन्थ । हत्वा चेमा अपो वृष्ट्युदकान्यव सृज । अधः पातय । कीदृशीरपः । मरुत्वतीर्मरुद्भिः संयुक्ता जीवधन्या जीवाः प्राणिनो धन्यास्तृप्ता याभिस्ताः । अन्यत्पूर्ववत् ॥
+
+*he indra bhūmyā adhi bhūlokasyopari vṛtraṃ nirjaghantha | niḥśeṣeṇa hatavān asi | tathā divo dyulokān nirjaghantha | hatvā cemā apo vṛṣṭyudakāny ava sṛja | adhaḥ pātaya | kīdṛśīr apaḥ | marutvatīr marudbhiḥ saṃyuktā jīvadhanyā jīvāḥ prāṇino dhanyās tṛptā yābhis tāḥ | anyat pūrvavat ||*
+
+*Sense:* "O Indra, you have struck Vṛtra from upon (*adhi*) the earth, from the earth-world (*bhūloka*), entirely; likewise you struck him from the heaven-world; and having struck, send down (*ava sṛja*, make fall) these waters, the rain-waters. What kind of waters? *Marutvatīḥ* — joined with the Maruts; *jīvadhanyāḥ* — those by which the living (*jīvāḥ*, creatures) are made *dhanya*, satisfied. The rest as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.4** *(Kannada)*
+
+- **इन्द्र** — "O Indra!"
+- **भूम्याः अधि** — "upon the earth"
+- **वृत्रम्** — "Vṛtra the demon"
+- **निः जघन्थ** — "you have slain entirely"
+- **दिवः** — "so also from heaven (the world of heaven)"
+- **निः (जघन्थ)** — "have slain (thereafter)"
+- **इमाः** — "these"
+- **मरुत्वतीः** — "joined with wind (the Maruts)"
+- **जीवधन्याः** — "such that creatures become fortunate"
+- **अपः** — "the rain-water"
+- **स्वराज्यम्** — "your lordship"
+- **अनु अर्चन्** — "manifesting"
+- **अव सृज** — "make fall down."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.4** *(Kannada)*
+
+"O Indra, you have driven Vṛtra away from both the earth-world and the sky. Now, manifesting your lordship, make fall down the rain-water, accompanied by the wind, which makes living beings fortunate (make it rain)."
+
+**English Translation** *(printed in English in the source)*
+
+"You have struck Vritra from off the earth and from heaven; (now) let loose the wind-bound, life-sustaining rain, manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.4)**
+
+- **मरुत्वतीः** — *marudbhiḥ saṃyuktāḥ* — "'joined with the Maruts' means: the waters needed by the earth, from rain impelled by the wind. It is natural for the wind to blow violently when it rains heavily. Skandasvāmin explains: '*dātṛtvena maruto yāsāṃ santi*' — 'the waters which have the Maruts in the sense of givers': the Marut deities are ready to give the waters; or '*tvatsakhāyo maruto ye dātuṃ samarthāḥ*' [the quotation is read with doubt [?]] — 'your friends the Marut deities are able to give the waters'."
+
+### Page 577 (PDF 595)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
+
+*Special Topics of Rik 80.4, continued:*
+
+- **जीवधन्याः** — *jīvāḥ prāṇino dhanyās tṛptā yābhis tāḥ* — "because living beings, by drinking the water or by using it in necessary works, obtain satisfaction or contentment, this name has come to water. Skandasvāmin says that since the word *dhanya* is formed from the word *dhana* ('wealth'), the water is wealth for the living; or, since the word *dhanya* is derived from the root *ṭhinu prīṇane* [sic: as printed; *dhinu prīṇane*], 'the delighters of all living beings', that is, 'those that satisfy all living creatures'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.4)** *(grammar page, noted briefly)*
+
+- **जघन्थ** — the root *han hiṃsāgatyoḥ*; "explained in the second Ṛk of this sūkta" (80.2).
+- **दिवः** — the stem *div*; fifth-case singular; by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-171) the case-ending takes the udātta.
+- **सृज** — the root *sṛja visarge* (सृज विसर्गे), *tudādi*; *loṭ*, second person singular; *hi* for *sip*; the affix *śa* by "tudādibhyaḥ śaḥ" (तुदादिभ्यः शः, Pā. Sū. 3-1-77); the *luk* of *hi* by "ato heḥ" (अतो हेः, Pā. Sū. 6-4-105); since it is at the head of the pāda there is no nighāta; by the accent of the affix it is final-udātta.
+- **जीवधन्याः** — *jīvāḥ dhanyāḥ yābhis tāḥ* = *jīvadhanyāḥ*; a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. Sū. 6-2-1) the accent of the first member remains.
+- **मरुत्वतीः** — *maruta āsu santi iti marutvatyaḥ*: by "tad asyāsty asminn iti" (Pā. Sū. 5-2-94) the affix *matup*; by "jhayaḥ" (झयः, Pā. Sū. 8-2-10) the *m* of *matup* becomes *v*; since it is *ugit*, for the feminine "ugitaś ca" (उगितश्च, Pā. Sū. 4-1-6) gives *ṅīp*; second-case plural. ||4||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?]. (The remainder of the page is blank but for a decorative rule.)*
+
+---
+
+**Progress note:** Printed pp. 1–577 done (PDF 19–595): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.4 complete** (grammar of 80.3 ends at the head of p. 575; of 80.4 on p. 577). Next: p. 578 (PDF 596) — Rik 80.5. Twelve Ṛks (80.5–80.16) remain. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
