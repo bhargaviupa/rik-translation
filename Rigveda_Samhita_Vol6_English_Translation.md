@@ -7422,4 +7422,74 @@ Words treated: *padā* (neuter nominative/accusative plural; loss of *śi* by *�
 
 ---
 
-**Progress note:** Printed pp. 1–361 done (PDF 19–379): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.5 complete; **Rik 72.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 359–361) and the grammar page up to *avidan* done; the grammar page breaks off in *avidan* at the foot of p. 361. Next: p. 362 (PDF 380), the end of the grammar page of 72.6; then Rik 72.7. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.7–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Aitareya/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; Skandasvāmin's note on the twenty-one metres (pp. 360–361) rendered in compressed form [?].
+### Page 362 (PDF 380)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Grammar page of Rik 72.6 (concluded; noted briefly)**
+
+*avidan* (concluded): since the affix is *jit*, no guṇa of the light penultimate; *aḍāgama* of the base; loss of the final *t* by *saṃyogāntalopa*; nighāta because it follows an *atijanta*. *yajñiyāsaḥ* (*yajñāya arhāṇi yajñiyāni*; *gha* in the sense of "worthy" after *yajña* by *yajñartvigbhyāṃ ghakhañau*, Pā. [5-1-71]; *iya* for *gha* by *āyaneyīnīyiyaḥ…*; loss of *i* by *yasyeti ca*; before *jas*, the augment *asuk* by *ajjhasor asuk*, Pā. [7-1-50]); *tebhiḥ* (the stem *tad* before the instrumental plural ending *bhis*, *a* by *tyadādīnām aḥ*; by *vā chandasi*, Pā. [7-1-10], *bhis* does not take *ais*; by *bahuvacane jhaly et*, *e* for the *a*; *ru*, visarga); *rakṣante* (root *rakṣa pālane*; *laṭ*, third person plural; nighāta because it follows an *atijanta*); *paśūn*, *sthātṝn* (before the *ca* that follows these two words, *ru* would arise by *naś chavy aprśān*, Pā. [8-3-7], but by *ubhayatharkṣu* (Pā. [8-3-8?]) both methods being optional, no *ru* for the *n* here); *caratham* (root *cara gatibhakṣaṇayoḥ*; the Uṇādi affix *atha*; initial acute by the affix, so the word has middle-acute; accusative singular); *pāhi* (root *pā rakṣaṇe*, Adādi; *loṭ*, second person singular, *sip*; replaced by *hi* by *seḥ hy apicca*, Pā. [3-4-87]; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; nighāta because it follows an *atijanta*). Ends "॥ ६ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.7** *(printed Ṛk "7 ||")*
+
+> विद्वाँ अग्ने वयुनानि क्षितीनां व्यानुषक्छुरुधो जीवसे धाः ।
+> अंतर्विद्वाँ अध्वनो देवयानानतंद्रो दूतो अभवो हविर्वाट् ॥ ७ ॥
+
+*vidvāṃ agne vayunāni kṣitīnāṃ vy ānuṣak churudho jīvase dhāḥ |
+antarvidvāṃ adhvano devayānān atandro dūto abhavo havirvāṭ ||7||*
+
+---
+
+### Page 363 (PDF 381)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 72.7**
+
+> विद्वान् । अग्ने । वयुनानि । क्षितीनाम् । वि । आनुषक् । शुरुधः । जीवसे । धाः ।
+> अन्तःऽविद्वान् । अध्वनः । देवऽयानान् । अतन्द्रः । दूतः । अभवः । हविःऽवाट् ॥ ७ ॥
+
+*vidvān | agne | vayunāni | kṣitīnām | vi | ānuṣak | śurudhaḥ | jīvase | dhāḥ | antaḥ-vidvān | adhvanaḥ | deva-yānān | atandraḥ | dūtaḥ | abhavaḥ | haviḥ-vāṭ ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.7** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने वयुनानि । ज्ञाननामैतत् । इह तु ज्ञातव्ये वर्तते । सर्वाणि ज्ञातव्यानि विद्वान् जानंस्त्वं क्षितीनां यजमानलक्षणानां प्रजानां जीवसे जीवितुं शुरुधः क्षुद्रोपस्य शोकस्य रोधयित्रीरिषोऽन्नान्यानुषक् अनुषक्तं संततं यथा भवति तथा वि धाः । विधेहि । कुर्विति अर्थः । एवं यजमानानन्नसमृद्धान्कृत्वानंतरं हविर्वाट् तैर्देवेभ्यः प्रत्तं हविर्वहन्दूतो ऽभवः । देवानां दूतो भवसि । कीदृशस्त्वं । अंतर्विद्वान् द्यावापृथिव्योर्मध्ये जानन् । किं जानन् । अध्वनो मार्गान् । कीदृशान् । देवयानान् । देवा यैर्मार्गैर्यांति गच्छंति तांज्ञानन्नित्यर्थः । अतंद्रः पुनर्हविर्वहनेऽप्यनलसः ॥ वयुनानि । अज गतिक्षेपणयोः । अजियमिशीज्भ्यश्च । उ. [३-६१?] इति कर्मण्युनप्रत्ययः । अजेर्वीभावः । पा. [२-४-५६?] । क्षितीनां । क्षियंति निवसंतीति क्षितयो मनुष्याः । क्रित्क्तौ च संज्ञायामिति कर्तरि क्तिच् । अंतोदात्ताद्ध्रस्वांताक्ति । ज्ञातिशब्दादुत्तरस्य नामो नामन्यतरस्यामित्युदात्तत्वं । शुरुधः । शुचं रुंधंतीति शुरुधः । क्विप्चेति क्विप् । पूर्वपदस्यांत्यलोपः । पृषोदरादित्वात् ॥
+
+*he agne vayunāni | jñānanāmaitat | iha tu jñātavye vartate | sarvāṇi jñātavyāni vidvān jānans tvaṃ kṣitīnāṃ yajamānalakṣaṇānāṃ prajānāṃ jīvase jīvituṃ śurudhaḥ kṣudropasya śokasya rodhayitrīr iṣo 'nnāny ānuṣak anuṣaktaṃ saṃtataṃ yathā bhavati tathā vi dhāḥ | vidhehi | kurv iti arthaḥ | evaṃ yajamānān annasamṛddhān kṛtvānantaraṃ havirvāṭ tair devebhyaḥ prattaṃ havir vahan dūto 'bhavaḥ | devānāṃ dūto bhavasi | kīdṛśas tvaṃ | antarvidvān dyāvāpṛthivyor madhye jānan | kiṃ jānan | adhvano mārgān | kīdṛśān | devayānān | devā yair mārgair yānti gacchanti tān jānann ity arthaḥ | atandraḥ punar havirvahane 'py analasaḥ || vayunāni | aja gatikṣepaṇayoḥ | ajiyamiśījbhyaś ca | u. [3-61?] iti karmaṇy unapratyayaḥ | ajer vībhāvaḥ | pā. [2-4-56?] | kṣitīnāṃ | kṣiyanti nivasantīti kṣitayo manuṣyāḥ | kritktau ca saṃjñāyām iti kartari ktic | antodāttād hrasvāntāt kti | jñātiśabdād uttarasya nāmo nāmany atarasyām ity udāttatvaṃ | śurudhaḥ | śucaṃ ruṃdhantīti śurudhaḥ | kvip ceti kvip | pūrvapadasyāntyalopaḥ | pṛṣodarāditvāt ||*
+
+*(Reading note: "kṣudropasya śokasya" is read as printed (apparently "hunger-and-thirst's grief") and is doubtful [?]; the Uṇādi and Pāṇini numerals, and the tail from "kṣitīnām" on, which is much compressed, are doubtful [?]. The bhāṣya's grammatical tail begins at "vayunāni" and is characterized below, not treated line by line.)*
+
+*Meaning:* O Agni, *vayunāni* — a name for knowledge; here it is in the sense "things to be known". Knowing all that is to be known, you, for the living (*jīvase*, "to live") of the beings (*kṣitīnām*) — the people who are sacrificers — arrange (*vi dhāḥ*) the food, the *śurudhaḥ* — "that which stops grief" [the grief of hunger] — continuously (*ānuṣak*). Having so made the sacrificers rich in food, you became (*abhavaḥ*) the oblation-bearer (*havirvāṭ*), the messenger of the gods, carrying the oblation which they have given to the gods. How are you? Knowing among (*antarvidvān*) heaven and earth — what? — the paths (*adhvanaḥ*) — which? — those on which the gods go (*devayānān*) — and unwearied (*atandraḥ*), not slothful even in the carrying of the oblations.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *vayunāni* (root *aja gatikṣepaṇayoḥ*; the affix *una* after the object by *ajiyamiśījbhyaś ca*, Uṇ. [3-61?]; *vī*-substitution for *aj*, Pā. [2-4-56]); *kṣitīnām* (*kṣiyanti* "those who dwell" — men; *ktic* in the agent sense in a name (*kṛtaktau ca saṃjñāyām*); the *nām* ending acute by *nāmany atarasyām*); *śurudhaḥ* ("they stop grief", *śuc* + *rudh*; *kvip*; loss of the last of the first member; *pṛṣodarādi*).
+
+---
+
+### Page 364 (PDF 382)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *vayunāni* — all that is to be known; *vidvān* — (you) knowing; *kṣitīnām* — (the sacrificers') offspring; *jīvase* — to hold life; *śurudhaḥ* — (the foods) that dispel the pain of hunger; *ānuṣak* — continuously; *vi dhāḥ* — do; *devayānān* — the paths on which the gods travel; *adhvanaḥ* — the roads; *antarvidvān* — knowing between earth and sky; *atandraḥ* — (in carrying the oblations) not idle; *havirvāṭ* — bearing the oblations (given by the offspring); *dūtaḥ* — a messenger; *abhavaḥ* — be (become).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O all-knowing Agni! For the removal of the hunger of the offspring of the sacrificers, give food continuously. Then, knowing the path along which the gods travel between earth and sky, always awake in carrying the oblations to the gods, become a messenger who carries to the gods the oblations given by those people.
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, you are cognizant of all things to be known, ever provide for the subsistence of men, grief-alleviating (food); so shall you be the diligent bearer of oblations, and messenger of the Gods, knowing the paths between (earth and heaven), by which they travel.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **वयुनानि** — "*vayuna* is read among the eleven names of wisdom, *ketaḥ*, *ketuḥ* and so on (Ni. [3-13?]), so it means 'knowledge'. Here it is used in the sense 'things to be known' or 'knowable'. Skandasvāmin explains: 'the knowledges in the form of devotion, which arise toward Agni, [namely] *prajñānāni*, wisdoms'."
+- **क्षितीनाम्** — "The word *kṣiti* is read among the twelve names of the earth (Ni. [1-1?]); and also among the twenty-five names of mankind, *manuṣyāḥ*, *nareḥ* and so on (Ni. [2-3?]) — so it means 'men'."
+- **शुरुधः** — "*śurudhaḥ āpo bhavanti* — 'the *śurudhaḥ* are waters': so it is said in the Nirukta — [with the Ṛk]
+
+  > ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति ।
+  > *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti* (Ṛk. Saṃ. [4-23-8?])" *(continued on p. 365; gloss mine and tentative: "for there are many streams (*śurudhaḥ*) of *ṛta*; the thought of *ṛta* destroys crookednesses")*.
+
+---
+
+**Progress note:** Printed pp. 1–364 done (PDF 19–382): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.6 complete (72.6's grammar page ends on p. 362); **Rik 72.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*vayunāni*, *kṣitīnām*, *śurudhaḥ*) done (pp. 362–364); the Special Topics break off at *śurudhaḥ* at the foot of p. 364; the grammar page of 72.7 not yet seen. Next: p. 365 (PDF 383). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.7–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.7 (p. 363) compressed and partly doubtful [?].
