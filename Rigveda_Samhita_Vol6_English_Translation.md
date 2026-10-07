@@ -11709,4 +11709,71 @@ and so he has given the derivation of the form of the word *vṛṣabha*. That i
 
 ---
 
-**Progress note:** Printed pp. 1–530 done (PDF 19–548): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: **Rik 79.1 complete**; **Rik 79.2** — Saṃhitā, Pada, bhāṣya and its grammatical tail (pp. 528–529), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 529–530) done; the Special Topics of 79.2 break off at the foot of p. 530 (at *retaḥ*, mid-sentence) and continue on p. 531 (PDF 549), then the grammar page of 79.2. Next: p. 531 (PDF 549). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
+### Page 531 (PDF 549)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 79.2, continued from p. 530 (mid-sentence):*
+
+"…(*retaḥ*) also has the sense of 'water' (Ni. [1-12] [?]); so *vṛṣaṇa* is the name of one who showers water especially (in the form of rain or shower); one who causes such a downpour of water is called *vṛṣabha*. To show this they have given the Ṛk —
+
+> न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
+
+*nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |* (Ṛk. Saṃ. 10-[102]-5 [?]) — *Gloss, mine and tentative:* "They made him bellow as they came up to him; they made the bull shed water in the midst of the race."
+
+as an example."
+
+- **शिवाभिः** — *sukhakāriṇībhiḥ* — "making happiness; delighting the mind."
+- **स्मयमानाभिर्न** — *smiṅ īṣaddhasane* (root); *hasanavatībhiḥ kāntābhir iva* — "like beloved women who smile: like fair women, young women, who shine with a gentle smile or a bud-like laugh, showing joy, revealing their very white and delightful row of teeth; the rain-waters, shining with a brilliant white foam, are so compared. This is the comparison (*upamārtha*)."
+- **मिहः** — *miha secane* (root); *āpaḥ* — "water that wets."
+- **स्तनयन्ति** — *stana śabde*; *itas tataḥ śabdaṃ kurvanti* — "(the clouds) make sound here and there, or at every step; that is, the roar of thunder is heard — this is the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.2)** *(grammar page, noted briefly; begins here and runs to p. 532)*
+
+- **अमिनन्त** — the root *mīñ hiṃsāyām* (मीञ् हिंसायाम्), *kryādi* group; *laṅ*, third person plural *jhi*; "vyatyayo bahulam" (व्यत्ययो बहुलम्) gives the replacement *anta*; "kryādibhyaḥ śnā" (क्र्यादिभ्यः श्ना) gives the *śnā* affix; "pvādīnāṃ hrasvaḥ" (प्वादीनां ह्रस्वः, Pā. Sū. 7-3-80) shortens the root before *śnā*; "śnābhyastayor ātaḥ" (श्नाभ्यस्तयोरातः, Pā. Sū. 6-4-112) drops the *ā* of *śnā* before a *jit*/*ñit* affix beginning with a vowel; the augment *aṭ* for the stem — *aminanta*. Since *īṣā-akṣa* belongs to the *dig-* group of words [?], this *ā* (*evaiḥ*) is a *pragṛhya* and in place of *vṛddhi* the natural form (*prakṛtibhāva*) arises — though the *pragṛhya* name is present, *apragṛhyasya* is prohibited; so for the final the nasalisation has no cause. But by "vyatyayo bahulam" in the Saṃhitā alone, "ano 'pragṛhyasyānunāsikaḥ" (अनोऽप्रगृह्यस्यानुनासिकः, Pā. Sū. 8-4-57 [?]) the optional nasalisation arises at the pause (*avasāna*). Nighāta accent, since it is *atiṅanta* in the pāda.
+- **नोनाव** — the root *ṇu stutau* (णु स्तुतौ); by "goṇaḥ" (?) / "ṇo naḥ" (णो नः) the *ṇ* becomes *n*; in the intensive sense, by "dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ" (Pā. Sū. 3-1-22) the affix *yaṅ*… *(continued on p. 532)*
+
+### Page 532 (PDF 550)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Grammar of Rik 79.2, continued:*
+
+- **नोनाव** (continued) — *luk* of the *yaṅ* by "yaño 'ci ca" (यङोऽचि च, Pā. Sū. 2-4-74); reduplication of the root by "sanyaṅoḥ" (सन्यङोः, Pā. Sū. 6-1-9); *guṇa* of the reduplicative by "guṇo yaṅluko" (गुणो यङ्लुकोः, Pā. Sū. 7-4-82); the form *nonu*; since "sanādyantā dhātavaḥ" gives it the root-status, then *liṭ*, third person singular, *tip*; "parasmaipadānāṃ ṇalatusus…" (परस्मैपदानां णलतुसुस्…) gives *ṇal*; although it is a *pratyayānta* word, by "kāspratyayād āmanantre liṭi" (कास्प्रत्ययादाममन्त्रे लिटि, Pā. Sū. 3-1-35) the *āṃ* affix is prohibited ('outside a mantra'), so there is no *āṃ* in the *liṭ*; since *ṇal* has *ñ*, vṛddhi of the final vowel by "aco ñṇiti" (अचो ञ्णिति); *āv* replacement; thus *nonāva*; nighāta accent, since *atiṅanta* in the pāda.
+- **स्मयमानाभिः** — root *smiṅ īṣaddhasane*; the affix *śānac* in the sense of *laṭ*; *śap* by "kartari śap" (कर्तरि शप्, Pā. Sū. 3-1-68); guṇa of the *ik* of the root because of *śap* by "sārvadhātukārdhadhātukayoḥ" (सार्वधातुकार्धधातुकयोः, Pā. Sū. 7-3-84); *ay* replacement (*ayādeśa*); "āne muk" (आने मुक्, Pā. Sū. 7-2-82) gives the augment *muk* after the *a*-ending stem; since *k* is a mark the augment goes to the end; so *smayamāna*; *śap* has the mark *p* and so is anudātta by "anudāttau suppitau" (अनुदात्तौ सुप्पितौ); because the root is *adupadeśa* (a root ending in *a* by teaching), the *lasārvadhātuka* affix is anudātta by "tāsy anudāttenn…" (ताश्यनुदात्तेन्…, Pā. Sū. 6-1-186); then the root's own accent remains, so *ādyudātta*. Third-case plural form.
+- **आगात्** — the root *iṇ gatau* (इण् गतौ), *adādi* group; *luṅ*, third person singular, *tip*; *i* lost by "iteś ca" (इतश्च); "iṇo gā luṅi" (इणो गा लुङि, Pā. Sū. 2-4-45) substitutes *gā*; *cli* → *sic* by "cleḥ sic" (च्लेः सिच्); *luk* of *sic* by "gātisthāghupābhyaḥ…" (गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु, Pā. Sū. 2-4-77); the stem takes *aṭ*; nighāta accent since *atiṅanta* in the pāda.
+- **पतन्ति** — the root *patḷ gatau* (पतॢ गतौ); *laṭ*, third person plural; since it is *atiṅanta* in the pāda, and also placed at the beginning of the pāda, the nighāta accent does not come; *śap* is *lasārvadhātuka* anudātta, so the root's accent remains.
+- **स्तनयन्ति** — the root *stana śabde* (स्तन शब्दे), *curādi* group, ending in *a*; in its own sense the affix *ṇic* by "satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic" (सत्यापपाश…चुरादिभ्यो णिच्, Pā. Sū. 3-1-25); "ato lopaḥ" (अतो लोपः, Pā. Sū. 6-4-48) drops the final *a* of the root before *ṇic*; by "acaḥ parasmin pūrvavidhau" (अचः परस्मिन्पूर्वविधौ) the *sthānivadbhāva* arises, so there is no *upadhā*-vṛddhi because of *ṇic*; *laṭ*, third person plural; being at the beginning of a sentence there is no nighāta; by the *ṇic* accent the syllable *ra* after *n* is udātta. ||2||
+
+*Grammar page, noted briefly; every sūtra numeral is tentative [?] and some are given from memory of the standard sūtra only where the name was legible; the page ends with a decorative rule.*
+
+### Page 533 (PDF 551)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.3**
+
+> यदीमृतस्य पयसा पियानो नयन्नृतस्य पथिभी रजिष्ठैः ।
+> अर्यमा मित्रो वरुणः परिज्मा त्वचं पृञ्चन्त्युपरस्य योनौ ॥ ३ ॥
+
+*yad īm ṛtasya payasā piyāno nayann ṛtasya pathibhī rajiṣṭhaiḥ |
+aryamā mitro varuṇaḥ parijmā tvacaṃ pṛñcanty uparasya yonau ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यत् । ईम् । ऋतस्य । पयसा । पियानः । नयन् । ऋतस्य । पथिऽभिः । रजिष्ठैः ।
+> अर्यमा । मित्रः । वरुणः । परिऽज्मा । त्वचम् । पृञ्चन्ति । उपरस्य । योनौ ॥ ३ ॥
+
+*yat | īm | ṛtasya | payasā | piyānaḥ | nayan | ṛtasya | pathi-bhiḥ | rajiṣṭhaiḥ | aryamā | mitraḥ | varuṇaḥ | pari-jmā | tvacam | pṛñcanti | uparasya | yonau ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.3** *(Sanskrit in Kannada script; doubtful places [?]; breaks off at the foot of the page)*
+
+> यदीं यदायमग्निर्ऋतस्योदकस्य पयसा पयोवत्सारभूतेन रसेन पियानो जगदाप्यायनं कुर्वन् आप्यायितं च जगदृतस्योदकस्य सम्बन्धिभी रजिष्ठैर्ऋजुतमैः पथिभिर्मार्गैः स्नानपानादिभिर्नयन् प्रापयन्नर्तते तदानीमर्यमा मित्रो वरुणश्च परिज्मा परितो गन्ता मरुद्गणश्चोपरस्य मेघस्य योनौ वृष्ट्युदकोत्पत्तिस्थाने त्वचं पृञ्चन्ति । वृष्ट्युदकस्याप्यदकं [?] प्रदेशं स्वकीयैरायुधैः संयोजयन्ति । उद्घाटयन्तीति यावत् ॥ पियानः । ओप्यायी वृद्धौ [?] । बहुलं छन्दसीति शपो लुक् । धातोर्व्यत्ययेन पीभावः [?] ।
+
+*yadīṃ yadāyam agnir ṛtasyodakasya payasā payovatsārabhūtena rasena piyāno jagad āpyāyanaṃ kurvan āpyāyitaṃ ca jagad ṛtasyodakasya sambandhibhī rajiṣṭhair ṛjutamaiḥ pathibhir mārgaiḥ snānapānādibhir nayan prāpayann artate tadānīm aryamā mitro varuṇaś ca parijmā parito gantā marudgaṇaś coparasya meghasya yonau vṛṣṭyudakotpattisthāne tvacaṃ pṛñcanti | vṛṣṭyudakasyāpyadakaṃ [?] pradeśaṃ svakīyair āyudhaiḥ saṃyojayanti | udghāṭayantīti yāvat || piyānaḥ | opyāyī vṛddhau [?] | bahulaṃ chandasīti śapo luk | dhātor vyatyayena pībhāvaḥ [?] |*
+
+*Sense:* "When (*yad īm*) this Agni, nourishing (*piyānaḥ* = making the world swell/thrive) with the water of the *ṛta* (water), with the essence that is like the milk (*payas*) of it — and leading the thriving world by the straightest paths (*rajiṣṭhaiḥ* = *ṛjutamaiḥ*) connected with *ṛta*, that is water, such as bathing, drinking and so on — then Aryaman, Mitra and Varuṇa, and *parijmā* (the one who goes around — the troop of Maruts) cleave (*pṛñcanti*) the skin (*tvac*) in the place of origin (*yoni*) of the upper (*upara* = cloud) — the place where rain-water arises." *The passage 'vṛṣṭyudakasyāpyadakam…' is read with doubt; the sense given is that they open (*udghāṭayanti*) that region with their own weapons.* *The grammatical tail begins:* *piyānaḥ* — [the root] *opyāyī vṛddhau*; "bahulaṃ chandasi" gives the *luk* of *śap*; by *vyatyaya* the root becomes *pī* — *(the tail runs on to p. 534)*.
+
+---
+
+**Progress note:** Printed pp. 1–533 done (PDF 19–551): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.2 complete** (grammar page of 79.2 on pp. 531–532, noted briefly); **Rik 79.3** — Saṃhitā, Pada and the bhāṣya (p. 533) done; the bhāṣya's grammatical tail breaks off at the foot of p. 533 (*piyānaḥ*) and continues on p. 534 (PDF 552). Next: p. 534 (PDF 552). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
