@@ -4044,4 +4044,65 @@ Closing of Rik 84.20: "॥ २० ॥" (20), followed by a printer's ornament. *
 
 ---
 
-**Progress note:** Printed pp. 1–146 done (PDF 16–161) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): introduction and **Rik 85.1** done through its Special Topics (first part: the Nirukta on *marutaḥ*, p. 146); the rest of 85.1's Special Topics and its grammar page follow on p. 147. Next: printed p. 147 (PDF 162). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 *vidatheṣu*/*ghṛṣvayaḥ* grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 147 (PDF 162)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 147.)*
+
+*Special Topics of Rik 85.1, continued from p. 146 (Kannada prose; Ṛgveda reference numerals in Kannada numerals, read with doubt [?]):*
+
+"Besides this, seven sūktas are addressed to Indra jointly with them, and one each is addressed to Pūṣan and to Agni jointly with them. These Marut deities are many. In several places they are called *trisaptaiḥ* (Ṛ. Saṃ. 1-[133-6] [?]) — 'three groups of seven', or companies of twenty-one; and in some other places, '*ṣaṣṭiḥ… marutaḥ*' (Ṛ. Saṃ. 8-[96-8] [?]) — it is said that there are three times sixty, that is, a hundred and eighty, Marut deities. Because they are the sons of Rudra, they are well known to be called by the name *Rudriyāḥ* [= *Rudriyāsaḥ*]. As Pṛśni (the name of the sky-world / heaven) is said to be their mother, they are also called *Pṛśnimātaraḥ*, a word that means 'those whose mother is Pṛśni'. Here Pṛśni may be the clouds. When clouds drive the rain, the wind ordinarily blows swiftly and with sound; so this name has probably come to these deities. In places it is also said that they are born of fire and of lightning, and born of Vāyu and of heaven, and 'self-born'. It is hinted in places that Rohasī (*Rodasī*) is their wife, and that Indrāṇī and Sarasvatī too have a special connexion with them."
+
+"The abode of the Marut deities is the three worlds, heaven, atmosphere and earth. Because their connexion is special with rain which moves with lightning, they are well known as 'those who shine greatly, those who are resplendent'. Lightning is their weapon. There are many descriptions: that they wear golden ornaments on the head, the feet, the heart and other parts of the body, that they hold a golden axe in the hand; that they ride a chariot yoked with the spotted deer (*pṛṣatī*), or with fawns (*spotted deer*, in English in the print), and travel."
+
+"These Marut deities are big, excellent, young; cruel like lions; yet, like children, fond of play. The chariot in which they travel is as fearful as lightning. They bring rain, that is, water, along with them. A famous river, the *Marudvṛdhā*, is said to be helped by their might. The rain they give has various names: honey, milk, ghee. Along with the rain they are also said to bring a whirlwind. Their song gives Indra strength at the time of the slaying of Vṛtra. In places there are descriptions that they drink Soma, sing, and increase sacrifices — manifold descriptions."
+
+"The Marut deities' chief heroic act is helping Indra in the slaying of Vṛtra. In some places they are called the sons or brothers of Indra, but at a critical moment they left Indra without helping; therefore Indra became wroth against them, took to retaliation (see below)…" *(the sentence runs on to p. 148)*
+
+---
+
+### Page 148 (PDF 163)
+
+*(Running head: "148 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Special Topics, continued from p. 147:*
+
+"…— and Agastya, the ṛṣi, is described, in one or two sūktas, as having had to pacify Indra with great effort (Ṛ. Saṃ. 1-[165]; 1-[170] [?]). In connexion with Rudra being with the Maruts, there are descriptions that these Marut deities use their weapons (the axe, the *bhṛjji* [as read]) (Ṛ. Saṃ. 2-[34-9]; 2-[34-12]; 2-[34-3]; 1-[?]; 1-[?]; 1-[?]; 1-[?]; the numerals are cramped and are not completed [?])."
+
+"In the matter of rites of sacrifice, there are many differences, even in the Soma sacrifice, between the Marut deities and the Vāyu deity. It is the usage to invoke Vāyu at the morning pressing, and the Maruts at the midday and third pressings. In the sacrifice called *Cāturmāsya* the part played by the Maruts is special."
+
+"We shall consider briefly the nature of the Marut deities. The difference between them and Vāyu is this: Vāyu is the ordinary wind that blows; the Maruts are the wind that blows swiftly and fearfully, together with great noise, in the rainy season accompanied by thunder, hail and lightning, when rain falls. Therefore descriptions are found that the Marut deities are resplendent, that they sound, that they are cruel, that they have much strength and power, that they are sons of the atmosphere (heaven), and that, since they always blow in the atmosphere, they are ever devoted to play (to sports)."
+
+- **जनयः** — *jāyante āspatyānīti janayo jāyāḥ* — "since they bring forth offspring such as sons, *janayaḥ* means *jāyāḥ*, 'wives', women, young women."
+- **शुम्भन्ते** — *śubha śunbha dīptau* — "they adorn themselves."
+- **सप्तयः** — *sarpaṇaśīlāḥ* — "of a moving, swiftly blowing nature."
+- **यामन्** — *yāmani gamane nimittabhūte sati* — "when starting out, when moving, when blowing."
+- **रुद्रस्य सूनवः** — "To call the Marut deities sons of Rudra is the established usage. In Ṛks like '*satyaṃ śrīhā amavanto dhanvan cid ā rudriyāsaḥ*' (Ṛ. Saṃ. 1-[64-2] [?]) the Maruts are explicitly called Rudra's sons — *rudriyāsaḥ*. Or, as the bhāṣyakāra says here: *rudrasya sūnavaḥ | rodayati sarvam antakāla iti rudraḥ parameśvaraḥ | tasya putrāḥ* — *(the sentence runs on to p. 149)*
+
+---
+
+### Page 149 (PDF 164)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 149.)*
+
+*Special Topics of Rik 85.1, continued from p. 148:*
+
+"…*putrāḥ* — since he makes all weep in sorrow at the time of dissolution, the Supreme Lord is called Rudra. The meaning may also be given that his sons are the Marut deities."
+
+- **सुदंससः** — "*daṃsaḥ* means action (Ni. [3-?] [?]); *sudaṃsasaḥ* — doers of good deeds."
+- **रोदसी** — "*spṛhe*, *purandhī* and others are the twenty-four names of heaven and earth (*dyāvāpṛthivī*); the word *rodasī* is read in the middle of them (Ni. [?]); so *rodasī* means heaven and earth."
+- **वृधे** — *vṛdhu vṛddhau* — "for growth; they have done so that there may be prosperity."
+- **विदथेषु** — *vidanty eṣu yaṣṭavyatayā devān iti vidathāḥ yajñāḥ* — "a rite that is performed with the knowledge of the glory of the deities is called *yajña*, 'sacrifice'. *Vidatheṣu* means 'in sacrificial rites'."
+- **घृष्वयः** — *ghṛṣu saṃgharṣe* — *gharṣaṇaśīlāḥ* — *mahīruhaśiloccayādeḥ bhañjakā ity arthaḥ* — "crushers; since they blow swiftly, they destroy trees, rocks and the like."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.1)** *(grammar page, noted briefly; begins here)*
+
+- **शुम्भन्ते** — the root *śubha śunbha dīptau*; Bhvādi; *laṭ*, third person plural. Since *ye* precedes, by "यद्वृत्तान्नित्यम्" (*yadvṛttānnityam*) the prohibition of *nighāta*; *śap* is *pit*, hence unaccented; by "तास्यनुदात्तेत्" (*tāsyanudāttet*) the *lasārvadhātuka* ending is unaccented; the accent of the root remains.
+- **जनयः** — the root *janī prādurbhāve*; *jāyante āsu apatyāni iti janayaḥ jāyāḥ*; by "इन्सर्वधातुभ्यः" (*in sarvadhātubhyaḥ*, Uṇ. Sū. 4-[117] [?]) the affix *in*; by "ञ्नित्यादिर्नित्यम्" the first syllable acute; in the nominative plural, by "जसि च" the *guṇa*; *ay*-substitution; the form *janayaḥ*.
+- **यामन्** — the root *yā prāpaṇe*; by "कृत्यल्युटो बहुलम्" (*kṛtyaluṭo bahulam*) the multiplicity rule, and by "आतो मनिन्क्वनिब्वनिपश्च" (*āto manin-kvanib-vanipaś ca*) the affix *manin* in the abstract sense; the word *yāman*; by "सुपां सुलुक्" the locative singular elided; since it ends in a *nit* affix, the first syllable acute.
+- **सुदंससः** — *daṃsaḥ* is a name for action; *śobhanaṃ daṃso yeṣāṃ te sudaṃsasaḥ*; in the *bahuvrīhi*, by "सोर्मनसी अलोमोषसी" (*sor manasī alomoṣasī*, Pā. Sū. 6-2-[117] [?]) the acute on the first syllable of the latter member.
+
+*(Grammar page continues on p. 150.)*
+
+---
+
+**Progress note:** Printed pp. 1–149 done (PDF 16–164) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): **Rik 85.1** done through the long Special Topics on the Maruts (pp. 147–149) and the first part of its grammar page (to *sudaṃsasaḥ*); the rest of that grammar page runs on p. 150. Next: printed p. 150 (PDF 165). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 *vidatheṣu*/*ghṛṣvayaḥ* grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
