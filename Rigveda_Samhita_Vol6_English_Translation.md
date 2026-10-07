@@ -6780,4 +6780,88 @@ Words treated: *agne* (vocative; nighāta by *āmantritasya ca*, Pā. [8-1-19]);
 
 ---
 
-**Progress note:** Printed pp. 1–331 done (PDF 19–349): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.9 complete; **Rik 71.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and Special Topics done (pp. 328–331); the grammar page is begun (p. 331, up to *marṣiṣṭhāḥ*). Next: p. 332 (PDF 350), the rest of the grammar page of 71.10 and the closing line of Sūkta 71; then **Sūkta 72**. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Bṛhaddevatā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammatical tail of 71.10 (p. 329) very compressed and doubtful; the Bṛhaddevatā verses on pp. 330–331 doubtful [?].
+### Page 332 (PDF 350)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.10 (concluded; noted briefly, not transcribed)**
+
+*viduḥ* (root *vida jñāne*; the affix *us* by the Uṇādi-type statement *bahulam anyatrāpi*; because of the *bahula* statement no guṇa of the light penultimate even though the affix is the cause; before *kaviḥ*, *ru* for the *s* by *sasajuṣo ruḥ*; visarga by *kharavasānayor visarjanīyaḥ*; the *ṣatva* of that visarga by *chandasi vā prāmreḍitayoḥ*, Pā. [8-3-49]); *nabhaḥ* (root *ṇaha bandhane*; *ṇa*→*na* by *ṇo naḥ*; the *asun* affix in the sense "form of the sky" by *nahedivi bhaś ca*, Uṇ. [4-200?]; *ha*→*bha* by its connection; the form *nabhas*; being *nit*, initial acute by *ñnityādir nityam*; accusative singular); *jarimā* (root *jyaṣ vayohānau*; the Uṇādi *imanic* in the abstract sense; guṇa for the root by the affix; *ṛ*-substitution gives *ra*; the affix being *cit*, final acute by *cito 'ntodāttaḥ*; the form *jariman*; nominative singular); *mināti* (root *mīñ hiṃsāyām*, Kryādi; shortening of the root by *prādīnāṃ hrasvaḥ* [as read], Pā. [6-3-?]; *laṭ*, third person singular, *tip*; *śnā* by *kryādibhyaḥ śnā*; nighāta because it follows an *atijanta*); *abhiśasteḥ* (*abhiśasyate hiṃsyate 'nayā*; root *śasu hiṃsāyām*, Bhvādi; *ktin* in the instrumental sense; since *tāḍau ca niti* — the affix, being *nit*, with a following *tādi* ending [*ktin*], the *gati* *abhi* keeps its natural accent, Pā. [6-2-50]); *adhīhi* (root *ik smaraṇe*, with the prefix *adhi*; *loṭ*, second person singular; *sip* → *hi*; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; since *hi* is not *pit*, it is *ṅit*-like, so no guṇa of the root; nighāta because it follows an *atijanta*). Ends "॥ १० ॥".
+
+**Closing line of the sūkta** *(printed large, Kannada)*:
+
+> ಎಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು
+
+*(eppattondaneya sūkta samāptavu* — "The seventy-first sūkta is concluded.")*
+
+**— End of Sūkta 71.** *(Sūkta 71: ten Ṛks, Agni; Parāśara Śākti; Triṣṭup. The varga numerals of its pages are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 72
+
+### Page 333 (PDF 351)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತವು — "The seventy-second sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script)*
+
+> नि काव्येति दशर्चमष्टमं सूक्तं त्रैष्टुभमाग्नेयं पराशरस्यार्षम् । आनुक्रांतं च । नि काव्येति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+*ni kāvyeti daśarcam aṣṭamaṃ sūktaṃ traiṣṭubham āgneyaṃ parāśarasyārṣam | ānukrāntaṃ ca | ni kāvyeti | prātaranuvākāśvinaśastrayor ukto viniyogaḥ ||*
+
+*(Meaning: "Ni kāvyā" is the eighth sūkta, of ten Ṛks, in Triṣṭup metre, addressed to Agni, the vision of Parāśara; and it is so listed in the Anukramaṇī ("ni kāvyā"). Its application [in ritual] at the Prātaranuvāka and the Aśvina-śastra has been told [before].)*
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*ni kāvyā*", is the eighth sūkta in the twelfth anuvāka. It has ten Ṛks. Parāśara is the ṛṣi of this sūkta, Agni the deity, Triṣṭup the metre. The Anukramaṇikā says "*ni kāvyā*". The sūkta has its application for the Prātaranuvāka mantras and for the Aśvina-śastra mantras.
+
+**सूक्त — ७२ (Sūkta 72)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१२ ॥ सूक्त—७२ ॥ — *Maṇḍala 1; Anuvāka 12; Sūkta 72.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[१५?], [१६?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "15, 16" as read, the numerals doubtful [?].*
+*Number of Ṛks in the sūkta:* 10. *Ṛṣi:* Pārāśara Śākti. *Devatā:* Agni. *Chandas:* Triṣṭup.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.1**
+
+> नि काव्या वेधसः शश्वतस्कर्हस्ते दधानो नर्या पुरूणि ।
+> अग्निर्भुवद्रयिपती रयीणां सत्रा चक्राणो अमृतानि विश्वा ॥ १ ॥
+
+*ni kāvyā vedhasaḥ śaśvatas kar haste dadhāno naryā purūṇi |
+agnir bhuvad rayipatī rayīṇāṃ satrā cakrāṇo amṛtāni viśvā ||1||*
+
+*(Reading note: the Saṃhitā prints "शश्वतस्कर्हस्ते" as *śaśvataḥ kaḥ haste*, i.e. the Pada's *śaśvataḥ | kaḥ | haste*; the visarga-sandhi is as the Pada shows. Accents not reproduced.)*
+
+---
+
+### Page 334 (PDF 352)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> नि । काव्या । वेधसः । शश्वतः । कः । हस्ते । दधानः । नर्या । पुरूणि ।
+> अग्निः । भुवत् । रयिऽपतिः । रयीणाम् । सत्रा । चक्राणः । अमृतानि । विश्वा ॥ १ ॥
+
+*ni | kāvyā | vedhasaḥ | śaśvataḥ | kaḥ | haste | dadhānaḥ | naryā | purūṇi | agniḥ | bhuvat | rayi-patiḥ | rayīṇām | satrā | cakrāṇaḥ | amṛtāni | viśvā ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> शश्वतः शाश्वतस्य नित्यस्य वेधसो विधातुर्ब्रह्मणः संबंधीनि काव्या काव्यानि मंत्ररूपाणि स्तोत्राण्ययमग्निर्नि कः । नियमेन स्वाभिमुखं करोति । किं कुर्वन् । नर्या नृभ्यो हितानि नृषु साधूनि वा पुरूणि बहूनि धनानि हस्ते दधानो हस्ते धारयन् । ईदृग्गुणोपेतमग्निमवलोक्य सर्वे जनाः स्तुवंतीति भावः । स्तोतृभ्यो धनेषु दत्तेष्वस्यैवेर्धनं न प्रीयते [?] इत्याह । अग्निरिति । अयमग्निः रयीणां रयिपतिर्भुवत् । धनानां मध्ये यानि धनान्युत्कृष्टानि तेषां स्वामी भवति । किं कुर्वन् । विश्वा विश्वानि सर्वाण्यमृतानि । अमृतं हिरण्यं । आथ. [५-४-११?] इति श्रुतेः । सर्वाणि हिरण्यानि स्तोतृभ्यः सत्रा सहैव चक्राणः कुर्वन् । युगपत्स्तोतृभ्यो दद्यादित्यर्थः ॥ कः । करोतेश्छांदसो लुङ् । मंत्रे घसेति च्लेर्लुक् । हल्ङ्यादि इति तकारलोपः । नर्या । नरशब्दाद्धितार्थे गवादिलक्षणो यत्प्रत्ययो द्रष्टव्यः । पा. [५-१-२?] । यद्वा । तत्र साधुरिति यत् । चक्राणः । करोतेर्लिटः शानच् । बहुलं छंदसीति विकरणस्य श्लुः । नन्वेवं सत्येभ्यस्यानामादिरित्याद्युदात्तत्वं प्राप्नोति । एवं तर्हि लिटः कानजस्तु । तस्यार्धधातुकत्वेनाभ्यस्तादुदात्तत्वाभावे चित्स्वर एव शिष्यते ॥
+
+*śaśvataḥ śāśvatasya nityasya vedhaso vidhātur brahmaṇaḥ saṃbandhīni kāvyā kāvyāni maṃtrarūpāṇi stotrāṇy ayam agnir ni kaḥ | niyamena svābhimukhaṃ karoti | kiṃ kurvan | naryā nṛbhyo hitāni nṛṣu sādhūni vā purūṇi bahūni dhanāni haste dadhāno haste dhārayan | īdṛg-guṇopetam agnim avalokya sarve janāḥ stuvantīti bhāvaḥ | stotṛbhyo dhaneṣu datteṣv asyaiverdhanaṃ [?] na prīyate ity āha | agnir iti | ayam agniḥ rayīṇāṃ rayipatir bhuvat | dhanānāṃ madhye yāni dhanāny utkṛṣṭāni teṣāṃ svāmī bhavati | kiṃ kurvan | viśvā viśvāni sarvāṇy amṛtāni | amṛtaṃ hiraṇyam | āth. [5-4-11?] iti śruteḥ | sarvāṇi hiraṇyāni stotṛbhyaḥ satrā sahaiva cakrāṇaḥ kurvan | yugapat stotṛbhyo dadyād ity arthaḥ || kaḥ | karoteś chāndaso luṅ | mantre ghaseti cler luk | halṅyādi iti takāralopaḥ | naryā | naraśabdād dhitārthe gavādilakṣaṇo yatpratyayo draṣṭavyaḥ | pā. [5-1-2?] | yadvā | tatra sādhur iti yat | cakrāṇaḥ | karoter liṭaḥ śānac | bahulaṃ chandasīti vikaraṇasya śluḥ | nanv evaṃ satyebhyasyānām ādir ity ādyudāttatvaṃ prāpnoti | evaṃ tarhi liṭaḥ kānajastu | tasyārdhadhātukatvenābhyastād udāttatvābhāve citsvara eva śiṣyate ||*
+
+*(Reading note: the clause "stotṛbhyo dhaneṣu datteṣv asyaiverdhanaṃ na prīyate" is compressed in the print and read doubtfully [?]; the *Āth.* [Atharva-veda?] reference "āth. 5-4-11" is read as printed — "amṛtaṃ hiraṇyam" is attested there — and its numerals are doubtful [?]. The bhāṣya's grammatical tail begins at "kaḥ".)*
+
+*Meaning:* The eternal (*śaśvataḥ*) Creator's (*vedhasaḥ*, Brahmā's) songs (*kāvyā*) — the hymns in the form of mantras — this Agni takes (*ni kaḥ*) unfailingly, turning them toward himself. Doing what? Holding (*dadhānaḥ*) in the hand many riches (*purūṇi*), good for men (*naryā*), or "valuable among men". Beholding Agni endowed with such qualities, all people praise him. And, he is the lord of riches (*rayipatiḥ*) — the master of the best of the riches — doing (*cakrāṇaḥ*) all (*viśvā*) the immortals (*amṛtāni*) at once (*satrā*): *amṛta* is "gold", from the śruti [Ath. [5-4-11?]]. That is, he would give all the gold to the praisers at once.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *kaḥ* (root *kṛ*; Vedic *luṅ*; *cli* lost by *mantre ghasa-hvara…*; loss of *t* by *halṅyābbhyo…*); *naryā* (from *nara*, the *yat* affix in the sense "good for", of the *gavādi* list; or *yat* in the sense "good in that"); *cakrāṇaḥ* (root *kṛ*, *liṭ*, *śānac*; the vikaraṇa dropped (*śluḥ*) by *bahulaṃ chandasi*; the objection that "so the initial acute of *abhyasta*s would arise" is met: let the *liṭ* take *kānac*; since that affix is *ārdhadhātuka*, with no acute on the reduplicated stem, only the *cit*-accent [the affix's] remains).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; begun at the foot of p. 334)*
+
+*naryā* — beneficial to men; *purūṇi* — much (wealth); *haste* — in the hand; *dadhānaḥ* — he who holds it; *śaśvataḥ* — eternal; *vedhasaḥ* — related to Brahmā (intended for Brahmā); *kāvyā* — the hymns of praise; *ni kaḥ* — by rule turns to himself …
+
+---
+
+**Progress note:** Printed pp. 1–334 done (PDF 19–352): Sūktas 62–71 complete (Sūkta 71's closing line on p. 332: "eppattondaneya sūkta samāptavu"). **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup; the eighth sūkta of Anuvāka 12; Varga "15, 16" as read [?]) begun: Sāyaṇa's introduction and heading (p. 333); **Rik 72.1** — Saṃhitā, Pada, bhāṣya (tail characterized) and the beginning of the Pratipadārtha done (pp. 333–334). Next: p. 335 (PDF 353), the rest of the Pratipadārtha of 72.1, Bhāvārtha, English, Special Topics and grammar page. Plan for the current "next 2 sūktas" request: Sūkta 71 is complete; finish Sūkta 72 (10 Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Atharva/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the clause "stotṛbhyo dhaneṣu…" in the bhāṣya of 72.1 doubtful [?].
