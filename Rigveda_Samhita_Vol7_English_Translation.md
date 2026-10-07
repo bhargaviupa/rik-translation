@@ -948,4 +948,91 @@ antar hi khyo janānām aryo vedo adāśuṣāṃ teṣāṃ no veda ā bhara ||
 
 ---
 
-**Progress note:** Printed pp. 1–33 done (PDF 16–48) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete** (nine Ṛks, pp. 1–33; no separate closing line in the print). **Sūkta 82** (six Ṛks; Indra; Gotama; paṅkti, last Ṛk jagatī; the ninth sūkta of Anuvāka 13; application *laiṅgika*; printed pp. 33–54) begun: Sāyaṇa's introduction and Anuvāda (p. 33) done. Next: printed p. 34 (PDF 49) — the heading block and Rik 82.1. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30).
+### Page 34 (PDF 49)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ८२ (Sūkta 82)**
+
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—८२ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 82.*
+॥ अष्टक—१ ॥ अध्याय—६ ॥ वर्ग—[४?] ॥ — *Aṣṭaka 1; Adhyāya 6; Varga "4" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 6. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Indra. *Chandas:* 1–5 Paṅkti; 6 Jagatī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.1**
+
+> उपो षु शृणुही गिरो मघवन्मात तथा इव ।
+> यदा नः सूनृतावतः कर आदर्थयास इद्योजा न्विन्द्र ते हरी ॥ १ ॥
+
+*upo ṣu śṛṇuhī giro maghavan mā tatha iva |
+yadā naḥ sūnṛtāvataḥ kara ād arthayāsa id yojā nv indra te harī ||1||*
+
+*(Reading note: the print joins* mā atathā iva *as* mā tathā iva*; the Pada (below) divides it* mā | atathā-iva*; I give the Saṃhitā as the print has it, [the second word's vowel is slightly unclear, [?]].)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> उपो इति । सु । शृणुहि । गिरः । मघऽवन् । मा । अतथाऽइव ।
+> यदा । नः । सूनृताऽवतः । करः । आत् । अर्थयासे । इत् ।
+> योज । नु । इन्द्र । ते । हरी इति ॥ १ ॥
+
+*upo iti | su | śṛṇuhi | giraḥ | magha-van | mā | atathā-iva | yadā | naḥ | sūnṛtā-vataḥ | karaḥ | āt | arthayāse | it | yoja | nu | indra | te | harī iti ||1||*
+
+### Page 35 (PDF 50)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे मघवन् धनवन्निन्द्र गिरोऽस्मदीयाः स्तुतीरुपो उपैव सु शृणुहि । उपगत्य सम्यक् शृणु । अतथा इव पूर्वं यथाविधस्त्वं तद्विपरीतो मा भूः । अस्मासु पूर्वं यथानुग्रहबुद्धियुक्तस्तथाविध एव भवेत्यर्थः । अपि च नोऽस्मान् सूनृतावतः । प्रियसत्यात्मिका वाक् सूनृता । तया स्तुतिरूपया वाचा युक्तान्यदा करः करोषि । आदनन्तरं त्वमस्मदर्थयासे इत् । अर्थयसे एव । याचयसे एव । न तोदास्से । अस्माभिः प्रयुक्तः स्तुतीस्त्वमपि स्वीकरोषीत्यर्थः । अतो हे इन्द्र ते हरी त्वदीयावश्वौ नु क्षिप्रं योज । रथे योजय ॥ शृणुहि । उतश्च प्रत्ययाच्छन्दसि वा वचनमिति वचनादुतश्च प्रत्ययादिति हेर्लुगभावः । अतथा इव । तथैवाचरति तथाति । सर्वप्राप्तिपदिकेभ्य इत्येके । का. ३-१-११-२ [?] इति क्विप् । तथाशेरप्रत्ययः । न तथा इव अतथा इव । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । करः । डुकृञ् करणे । लुङि कृसृभृवृस्तुद्रुश्रुभ्यश्छन्दसीति च्लेरङादेशः । नन्वङः सति शित्त्वात् चित्स्वरेणान्तोदात्तेन भवितव्यम् । तर्हि लङि व्यत्ययेन शप् । ननु डुकृञ् करण इति भूवादौ पठ्यते । अतो व्यत्ययः केस्मात् क्रियते इति चेत् नैवं यस्मादस्य धातोस्तत्र पाठोऽनर्थः । तथा हि कः करत्सरतीत्यत्र यदाहतुर्न्यासकारपरत्वात् व्यत्ययेन शबिति तस्माद्यस्य धातोर्भूवादौ पाठो नास्तीति गम्यते । किंच यद्ययं पठ्येत करदित्येवमादिरूपसिद्ध्यर्थं कृ[नृ]वृरुहिभ्यश्छन्दसीति करोतेरङ्विधानमनर्थकं स्यात् । अस्माल्लङ्लुङोरर्थभेदाल्लुङ्ज्येतम्रूपसिद्धये कर्तव्यमञ्ज्यधानमिति चेन्न । छन्दसि लुङ्लङ्लिट इति लुङादीनामेकत्र विधानेनार्थभेदाभावादित्यनेन प्रकारेणास्माभिर्धातुत्वनायं धातुर्निराकृतः । आतो व्यत्ययेनेति सिद्धम् । अर्थयासे । अर्थ याच्ञायाम् । चुरादिरात्मनेपदी । लेट्यडागमः । योज । युजिर् योगे । णिजन्ताल्लोटि छन्दस्युभयथेति शपि आर्धधातुकत्वात्णेरनिटीति णिलोपः । द्व्यचोऽतस्तिङ इति संहितायां दीर्घत्वम् ॥ १ ॥
+
+*he maghavan dhanavann indra giro 'smadīyāḥ stutīr upo upaiva su śṛṇuhi | upagatya samyak śṛṇu | atathā iva pūrvaṃ yathāvidhas tvaṃ tadviparīto mā bhūḥ | asmāsu pūrvaṃ yathānugrahabuddhiyuktas tathāvidha eva bhavety arthaḥ | api ca no 'smān sūnṛtāvataḥ | priyasatyātmikā vāk sūnṛtā | tayā stutirūpayā vācā yuktān yadā karaḥ karoṣi | ādanantaraṃ tvam asmadarthayāse it | arthayase eva | yācayase eva | na todāsse | asmābhiḥ prayuktāḥ stutīs tvam api svīkaroṣīty arthaḥ | ato he indra te harī tvadīyāv aśvau nu kṣipraṃ yoja | rathe yojaya || śṛṇuhi | utaś ca pratyayāc chandasi vā vacanam iti vacanād utaś ca pratyayād iti her lugabhāvaḥ | atathā iva | tathaivācarati tathāti | sarvaprātipadikebhya ity eke | kā. 3-1-11-2 [?] iti kvip | tathāśer apratyayaḥ | na tathā iva atathā iva | avyayapūrvapadaprakṛtisvaratvam | karaḥ | ḍukṛñ karaṇe | luṅi kṛsṛbhṛvṛstudruśrubhyaś chandasīti cler aṅādeśaḥ | nanv aṅaḥ sati śittvāt citsvareṇāntodāttena bhavitavyam | tarhi laṅi vyatyayena śap | nanu ḍukṛñ karaṇa iti bhūvādau paṭhyate | ato vyatyayaḥ kasmāt kriyate iti cet naivaṃ yasmād asya dhātos tatra pāṭho 'narthaḥ | tathā hi kaḥ karat sarati ity atra yad āhatur nyāsakāraparatvāt vyatyayena śabiti tasmād yasya dhātor bhūvādau pāṭho nāstīti gamyate | kiṃca yady ayaṃ paṭhyeta karad ity evamādirūpasiddhyarthaṃ kṛ[nṛ]vṛruhibhyaś chandasīti karoter aṅvidhānam anarthakaṃ syāt | asmāl laṅluṅor arthabhedāl luṅjyetamrūpasiddhaye kartavyam añjyadhānam iti cen na | chandasi luṅlaṅliṭa iti luṅādīnām ekatra vidhānenārthabhedābhāvād ity anena prakāreṇāsmābhir dhātutvanāyaṃ dhātur nirākṛtaḥ | āto vyatyayeneti siddham | arthayāse | artha yācñāyām | curādir ātmanepadī | leṭy aḍāgamaḥ | yoja | yujir yoge | ṇijantāl loṭi chandasy ubhayatheti śapi ārdhadhātukatvāt ṇer aniṭīti ṇilopaḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghatvam || 1 ||*
+
+*Sense:* "O *maghavan*, O Indra, rich one: our praises (*giraḥ*) — come near and hear well (*upo su śṛṇuhi*). Do not be *atathā iva* — different, opposite to what you were before; as you have been disposed to favour us before, so be (now) of the same kind. And further, when you make us (*karaḥ* = *karoṣi*) possessed of *sūnṛta* — speech that is pleasing and true — in the form of praise, then (*āt*) you ask (*arthayāse*), you request those (praises) — you accept the praises we have offered. Therefore, O Indra, yoke quickly (*nu kṣipram yoja*) your two bays (*harī*) to the chariot." *The grammatical tail* — a long scholastic argument, characterized rather than transcribed: *śṛṇuhi* (*hi* not dropped by the *vārttika*); *atathā iva* — *kvip* (Kā. 3-1-11 [?]), the first member keeps its accent; *karaḥ* — the *luṅ* of *kṛ* with *aṅ* replacing *cli*; the discussion whether the root should be read in the *bhvādi* class and why *śap* by *vyatyaya* in the *laṅ* is not needed; the conclusion that the form is explained by the *vyatyaya* of the *laṅ* and *luṅ* being interchanged in the Veda ("*chandasi luṅlaṅliṭaḥ*"); *arthayāse* — *artha yācñāyām*, *curādi*, *ātmanepadī*, the *leṭ* with *aṭ*; *yoja* — *ṇic*-ending, *ṇilopa*, lengthened in the Saṃhitā by "dvyaco 'tastiṅaḥ". *(This argument is very compressed in the print; I have noted its outline and have not guessed its details [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.1** *(Kannada; begins here and runs to p. 36)*
+
+- **मघवन्** — "O Indra, possessed of wealth"
+- **गिरः** — "(our) words of praise"
+- **उपो** — "coming near"
+- **सु शृणुहि** — "listen well"
+- **अतथा इव** — "(as before,) different from what you were (from our show of good feeling) — do not become different"
+- **मा** — "do not be"
+- **नः** — "us"
+- **सूनृतावतः** — "possessed of words that are pleasing and true"
+- **यदा** — "when"
+- **करः** — "you make"
+- **आत्** — "thereafter"
+- **अर्थयासे इत्** — "you request (those words of praise) without fail"
+- **(अतः)** — "therefore"
+- **इन्द्र** — "O Indra"
+- **ते** — "your"
+- **हरी** — "horses"
+- **नु योज** — "quickly yoke (to the chariot)."
+
+### Page 36 (PDF 51)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*(The Pratipadārtha's last entries are on this page: "**हरी** — your horses; **नु** — carefully; **योज** — yoke (to the chariot).")*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.1** *(Kannada)*
+
+"O wealthy Indra, come near and hear our words of praise. As in the past you were favourably disposed towards us, so be, now and hereafter, and do not change. When you make us possessed of pleasing and true words, you then without fail seek our words of praise. Therefore, O Indra, carefully yoke your horses to the chariot and come to us with kindness."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, come and hear our praises ; do not be different from what you have been ; you have made us truth-speaking men and therefore you are requested to hear our praises. quickly yoke your horses." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.1)**
+
+- *(general)* — "In order that the meaning of this Ṛk may fit properly, many words have to be supplied by *adhyāhāra* (understood); the meaning does not fit exactly. In the first five Ṛks of this sūkta, the last pāda *yojā nv indra te harī* ('yoke, O Indra, your two horses') is read again and again as a refrain. In the *paṅkti* metre there are five pādas."
+- **उपो** — "being near; or: come near and listen — this is the sense."
+- **अतथा इव** — *na tathā iva atathā iva* — "(not) as before: it is not as if, since you were in the past disposed to favour us, you might now be otherwise. 'Do not be different', is the intent."
+- **सूनृतावतः** — "*sūnṛtā* means *priyasatyātmikā vāk*, speech that is pleasant and true; those that have such words — that is, may the praise-words that we make be pleasing to you and accompanied by truth."
+- **अर्थयासे** — *yācyase* — "you are requested; that is, we request you."
+- **योज** — "for the sake of the metre the final syllable of this word is lengthened."
+
+---
+
+**Progress note:** Printed pp. 1–36 done (PDF 16–51) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54; Varga "4" as read [?]): heading (p. 34), **Rik 82.1** — Saṃhitā, Pada, bhāṣya (with its very compressed grammatical tail, outlined only), Pratipadārtha, Bhāvārtha, English and Special Topics (pp. 34–36) done; the grammar page of 82.1 not yet seen. Next: printed p. 37 (PDF 52). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30) and of the bhāṣya of 82.1 (p. 35).
