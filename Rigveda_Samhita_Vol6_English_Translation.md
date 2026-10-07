@@ -7179,4 +7179,57 @@ vidan marto nemadhitā cikitvān agniṃ pade parame tasthivāṃsam ||4||*
 
 ---
 
-**Progress note:** Printed pp. 1–349 done (PDF 19–367): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.3 complete (72.3: Special Topics and grammar page on pp. 346–348); **Rik 72.4** (printed "4 ||") — Saṃhitā, Pada and the main sense of the bhāṣya (with part of its grammatical tail) done (pp. 348–349); the bhāṣya's tail breaks off at "nemadhitā" at the foot of p. 349. Next: p. 350 (PDF 368), the rest of the bhāṣya's tail, the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.4. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.4–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.4 (p. 349) compressed and partly doubtful — the Taittirīya quotation especially [?].
+### Page 350 (PDF 368)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Bhāṣya tail of Rik 72.4 (concluded from p. 349)** *(characterized; doubtful places [?])*
+
+> …पा. [६-२-४?] इति धिभावो निपातोऽकः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । सुपां सुलुगिति तृतीयाया आकारः । तस्थिवांसं । तिष्ठतेर्लिटः क्वसुः । वस्वेकाजाद्घसामिति इडागमः ॥
+
+*…pā. [6-2-4?] iti dhibhāvo nipāto 'kaḥ [?] | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | supāṃ sulug iti tṛtīyāyā ākāraḥ | tasthivāṃsaṃ | tiṣṭhater liṭaḥ kvasuḥ | vasv-ekājād-ghasām iti iḍāgamaḥ ||*
+
+*(Meaning: "…by that rule the *dhi*-form [of *dhā*] is given by nipāta; by *tṛtīyā karmaṇi* the first member keeps its own accent; the instrumental ending becomes *ā* by *supāṃ sulug…*. *Tasthivāṃsam* — *kvasu* for *liṭ* of *sthā*; the augment *iṭ* by *vasv-ekājād-ghasām* [Pā. 7-2-67].")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*bṛhatī* — vast; *rodasī* — the earth and sky; *ā vevidānāḥ* — making known (that Agni is there); *yajñiyāsaḥ* — those worthy of sacrifice (the gods); *rudriyā* — the mantras addressed to Agni named Rudra; *pra jabhrire* — they uttered; *nemadhitā* — together with Indra, worthy of half of the oblation-portions; *martaḥ* — the troop of Maruts; *parame* — the excellent (the final); *pade* — in the place (the *aśvattha* and the like); *tasthivāṃsam* — who was staying; *agnim* — Agni; *cikitvān* — knowing; *vidat* — they found (Agni).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The gods, worthy of sacrifice, searching between the vast earth and sky for Agni, praised Agni named Rudra. The gods (the Maruts), together with Indra, who is worthy of half the oblation-portions of the gods, found Agni who was in the excellent place — the *aśvattha* and the like.
+
+**English Translation** *(the source's own, as printed):*
+
+> Those who are to be worshipped, (the Gods), inquiring between the expansive heaven and earth (for Agni), recited (hymns) dedicated to Rudra; the troop of mortal (Maruts), with (Indra), the sharer of half the oblation, knowing where Agni was hiding, found him in his excellent retreat.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **रोदसी** — "Since the word *rodasī* is read among the twenty-four names of heaven-and-earth, *svadhe*, *purandhī* and so on (Ni. [3-30?]), *rodasī* means 'the earth and the sky'."
+- **रुद्रियाः** — *rudrasyārhāṇi stotrāṇi* — "hymns fit to praise Agni. The word *rudra* is a name of Agni. When the war between the gods and the *asuras* was going on, Agni took the wealth the gods had put aside (without the gods seeing) and went away, and hid. After the war, the gods went in search of Agni and, by their own power, brought back their wealth from him. Then Agni wept. The word *rudra* is derived from the root *rud aśruvimocane* ('to weep') — because Agni wept, he is called Rudra, i.e. Agni. The statement of the Taittirīya beginning *tad agnir nākāmayata* …*so 'rodīd yad arodīt tad rudrasya rudratvam* (Tai. Saṃ. [1-5-1-1?]) shows this sense. 'When Agni was hidden, the gods, who lacked the portions of the oblations of sacrifice, searching here and there, having clearly known that heaven and earth were great, found Agni, and, having seen him, praised him with fitting hymns' — thus Sāyaṇa explains."
+- **नेमधिता** — "The word *nema* means 'half': Yāska, explaining the word *nema* (*tro nema ity ardhasya*, Ni. [3-20?]), says: 'Indra is well known as *nemadhita* since he is held by the half-portion of all the gods. All the gods are one half; Indra alone is the other half'. The statement *yat sarveṣām ardham indraḥ* (Tai. Saṃ. [2-5-4-3?]) shows that Indra, who with half the portion of all the gods, is the one with the greatest share of oblation among the gods. This statement is the authority for Indra's being the half-sharer among the gods."
+- **मर्तः** — "The word *marta* is stated among the fifteen names of mankind (Ni. [2-2?]). Here Sāyaṇa takes *marudgaṇaḥ* — the troop of gods. Skandasvāmin, since *rudra* is stated among the thirteen names of hymns [as read, ?] (Ni. [3-18?]), takes *rudriyaḥ* as 'hymn'. As the word *marta* means 'man', he qualifies the word with *cikitvān*: *cikitvān martaḥ* — the wise man, *nemadhitā* (in battle), the one who is engaged in worldly life, with the excellent state of the highest (the supreme Soul-form of the position); or he worships with sacrifices, and praises, Agni in the sacrificial altar."
+- **आ वेविदानाः** — "knowing all that is to be known: even those who are devoted to sacrifice praise Agni (perform sacrifices) and worship him with oblation-portions — so he explains."
+- **यज्ञियासः** — *yajñārhāḥ devāḥ* — "the gods worthy to be worshipped by sacrifice — so Sāyaṇa; *yajñasaṃpādino manuṣyāḥ* — 'men who perform sacrifice' — so Skandasvāmin explains."
+
+---
+
+### Page 351 (PDF 369)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Note on the printing of pp. 350–351:** the page-351 text printed in the source continues the Special Topics from p. 350; it repeats the same four-part treatment of the words (*rudriyāḥ*, *nemadhitā*, *martaḥ*, *yajñiyāsaḥ*) given on p. 350 (the text of p. 350's Special Topics is carried across the page-break, so the fuller sentences — on the weeping of Agni (*rudir aśruvimocane*), the Taittirīya sentence *tad agnir nākāmayata*, and Skandasvāmin's reading of *martaḥ* — have been given above in their completed form from the continuous print). *(The source's pp. 350–351 are a single continuous passage; I gave it in the order of its words, and the two printed pages' contents do not otherwise differ.)*
+
+---
+
+### Page 352 (PDF 370)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.4, noted briefly; not transcribed)*
+
+Words treated: *bṛhatī* (*bṛhat*; dual; acute on the ending by the statement *bṛhanmahator upasaṃkhyānam*); *vevidānāḥ* (root *vida jñāne* or *vidḷ lābhe*; since the sense of intensity is shown, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ*, Pā. [3-1-22]; doubling by *sanyaṅoḥ*; after the reduplicate's *halādiśeṣa*, guṇa by *guṇo yaṅluk*; by *sanādyantā dhātavaḥ* *vevidya* becomes a root; *śānac* in the present sense after the *yaṅanta*; *śap* lost by *bahulaṃ chandasi*; by *chandasy ubhayathā* *śānac* is called *ārdhadhātuka*, so loss of the *a* of *yaṅ* by *ato lopaḥ* and loss of *y* by *yasya halaḥ*; the form *vevidāna*; initial acute by *abhyastānām ādiḥ*, since *śānac* too is *sārvadhātuka*); *yajñiyāsaḥ* (*jas*; the augment *asuk* by *ajjhasor asuk* [Pā. 7-1-50]; *ru* and visarga); *vidat* (root *vidḷ lābhe*; *luṅ*? [the print: *laṅ*], third person plural; *jhi* → *anta*; loss of *i* by *iteś ca*; since the root is *ḷdit*, *aṅ* for *cli* by *pruṣādi-*…, Pā. [3-1-55]; the *aṅ* being *jit*, no guṇa of the light penultimate; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; loss of the final consonant by *saṃyogāntasya lopaḥ*; no nighāta at the head of a pāda; the vikaraṇa accent, *aj*, remains); *nemadhitā* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive; when *nema* is the upapada, the *dhi*-form by the nipāta *sudhita vasudhita nemadhita…*, Pā. [6-2-?]; by *tṛtīyā karmaṇi*, Pā. [6-2-48], the first member keeps its natural accent; before the instrumental ending, *ā* by *supāṃ sulug…*); *cikitvān* (root *kita jñāne*; *kvasu* in the sense of *liṭ*; since it is *nimitta*, the root is doubled; reduplicate's *halādiśeṣa*; *cuṭva*; since the affix is *kit*, no guṇa of the light penultimate; before *su*, lengthening of the penultimate by *ātvasantasya*, [Pā. [6-4-14]]; being *ugit*…) *(continued on p. 353)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–352 done (PDF 19–370): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.3 complete; **Rik 72.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 350–351) and the grammar page up to *cikitvān* (p. 352) done; the grammar page breaks off in *cikitvān* at the foot of p. 352. NB: the p. 351 entry above is a note, not a page transcription — p. 351's Special Topics (on *rudriyāḥ*, *nemadhitā*, *martaḥ*, *yajñiyāsaḥ*) are **to be re-checked**: the transcription of p. 350's Special Topics above was written with p. 351's sentences folded in (the two pages overlap in content), and a faithful split between pp. 350 and 351 could not be fully restored from my notes. Next: p. 353 (PDF 371), the end of the grammar page of 72.4; then Rik 72.5. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.4–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.4 doubtful in places [?]; the page-split of the Special Topics at pp. 350–351 (see above).
