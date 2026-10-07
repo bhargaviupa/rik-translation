@@ -7755,4 +7755,78 @@ Words treated: *viśvā* (*viśvāni*: the *śi* lost by *śeś chandasi bahulam
 
 ---
 
-**Progress note:** Printed pp. 1–376 done (PDF 19–394): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.9 complete (72.9: pp. 372–376). Next: p. 377 (PDF 395), **Rik 72.10** (the last), then the closing line of Sūkta 72 — which completes the user's "next 2 sūktas" request (Sūktas 71 and 72). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda/Taittirīya citations on pp. 374–375 and the grammar page of 72.9 (pp. 375–376) compressed and doubtful in places [?].
+### Page 377 (PDF 395)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.10** *(the last Ṛk of the sūkta; printed "10 ||")*
+
+> अधि श्रियं नि दधुश्चारुमस्मिन्दिवो यदक्षी अमृता अकृण्वन् ।
+> अध क्षरंति सिंधवो न सृष्टाः प्र नीचीरग्ने अरुषीरजानन् ॥ १० ॥
+
+*adhi śriyaṃ ni dadhuś cārum asmin divo yad akṣī amṛtā akṛṇvan |
+adha kṣaranti sindhavo na sṛṣṭāḥ pra nīcīr agne aruṣīr ajānan ||10||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अधि । श्रियम् । नि । दधुः । चारुम् । अस्मिन् । दिवः । यत् । अक्षी इति । अमृताः । अकृण्वन् ।
+> अध । क्षरन्ति । सिन्धवः । न । सृष्टाः । प्र । नीचीः । अग्ने । अरुषीः । अजानन् ॥ १० ॥
+
+*adhi | śriyam | ni | dadhuḥ | cārum | asmin | divaḥ | yat | akṣī iti | amṛtāḥ | akṛṇvan | adha | kṣaranti | sindhavaḥ | na | sṛṣṭāḥ | pra | nīcīḥ | agne | aruṣīḥ | ajānan ||10||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.10** *(Sanskrit in Kannada script; main sense transcribed; doubtful places [?])*
+
+> अस्मिन्नग्नौ चारुं शोभनां श्रियं परिस्तरणपरिषेचनादिरूपां यज्ञसंपदमधि नि दधुः । यजमानाः स्थापितवंतः । निधाय च यद्यदाक्षी यज्ञस्याज्यभागलक्षणे चक्षुषी अकृण्वन् कुर्वंति । चक्षुषी वा एते यज्ञस्य यदाज्यभागौ । तै. सं. [२-६-३-१?] इति श्रुतेः । तदानीं दिवो द्युलोकादमृता अमरणधर्माणो देवा यागसमयो जात इत्यवगम्यागच्छंतीति शेषः । अथाज्यभागानंतरं सृष्टा अग्नेरुत्पन्नाः सिंधवो न शीघ्रं गच्छंत्यो नद्यः इव नीचीर्नितरां सर्वासु दिक्षु गच्छंतीररुषीरोचमानाः । यद्वा । निर्मलरूपाः । हे अग्ने एवंभूताः ज्वालाः क्षरंति । संचलंति । सर्वासु दिक्षूर्ध्वं जंतीत्यर्थः । आगता देवाश्च प्राजानन् । अस्माकं होमायेदृक्को ज्वाला उत्पन्ना इति हृष्टाः संतः प्रकर्षेण जानंति ॥ अक्षी । परस्मान्नुमं बाधित्वा ई च द्विवचने । पा. [६-१-२२?] इत्यक्षिशब्दस्य …
+
+*asminn agnau cāruṃ śobhanāṃ śriyaṃ paristaraṇapariṣecanādirūpāṃ yajñasaṃpadam adhi ni dadhuḥ | yajamānāḥ sthāpitavantaḥ | nidhāya ca yad yadākṣī yajñasyājyabhāgalakṣaṇe cakṣuṣī akṛṇvan kurvanti | cakṣuṣī vā ete yajñasya yad ājyabhāgau | tai. saṃ. [2-6-3-1?] iti śruteḥ | tadānīṃ divo dyulokād amṛtā amaraṇadharmāṇo devā yāgasamayo jāta ity avagamyāgacchantīti śeṣaḥ | athājyabhāgānantaraṃ sṛṣṭā agner utpannāḥ sindhavo na śīghraṃ gacchantyo nadya iva nīcīr nitarāṃ sarvāsu dikṣu gacchantīr aruṣīr ocamānāḥ | yadvā | nirmalarūpāḥ | he agne evaṃbhūtāḥ jvālāḥ kṣaranti | saṃcalanti | sarvāsu dikṣūrdhvaṃ jantīty arthaḥ | āgatā devāś ca prājānan | asmākaṃ homāyedṛk ko jvālā utpannā iti hṛṣṭāḥ santaḥ prakarṣeṇa jānanti || akṣī | parasmān numaṃ bādhitvā ī ca dvivacane | pā. [6-1-22?] ity akṣiśabdasya …*
+
+*(Reading note: "yadyadākṣī" is read as printed, for *yad yad ākṣī*; "ocamānāḥ" apparently for *rocamānāḥ*; the page ends mid-sentence in the grammatical tail, continued on p. 378. Śruti numeral [?].)*
+
+*Meaning:* The sacrificers have set (*ni dadhuḥ*) in this Agni the fair (*cāru*) glory (*śriyam*) — the wealth of the sacrifice, in the form of strewing (*paristaraṇa*), sprinkling (*pariṣecana*) and the like; and having set it, when they make (*akṛṇvan*) the two eyes (*akṣī*) of the sacrifice — the two *ājyabhāga* oblations — "for those two *ājyabhāgas* are the eyes of the sacrifice" (Tai. Saṃ. [2-6-3-1?]) — then the immortal gods (*amṛtāḥ*), knowing that the time of the sacrifice has come, come from heaven (*divaḥ*). Then, after the *ājyabhāgas*, the flames produced from Agni (*sṛṣṭāḥ*), moving swiftly like rivers (*sindhavo na*), go downward — everywhere in all directions — shining red (*aruṣīḥ*) or spotless: O Agni, such flames trickle (*kṣaranti*) — move about, rising in all directions; and the gods who have come perceive (*prājānan*) — greatly delighted that such flames have arisen for our offering.
+
+---
+
+### Page 378 (PDF 396)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Grammatical tail of the bhāṣya of Rik 72.10 (concluded; characterized, not transcribed)**
+
+*akṣī* (the word *akṣi*: *num* is set aside, and *ī* [is substituted] in the dual by Pā. [6-1-22?]); …*kārāntādeśaḥ | sa codāttaḥ* [as read; the print is compressed]; *nīcīḥ* ("*ni* + *añc*, *kvin*" by *ṛtvik-dadhṛk-…*, with loss of *n* [*anidiśām*]; the lengthening *ī* of the feminine; by *nyadhī ca*, Pā. [6-2-52], the *gati* [*ni*] keeps its natural accent); *aruṣīḥ* (*aruṣam* is a name of form; from *ṛ* by *ṛhanibhyām uṣac*; the *ī* in the possessive sense by *chandasīvanipau*). *(Compressed; numerals [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*asmin* — in this Agni; *cārum* — the beautiful; *śriyam* — (strewing and the like) the wealth of the sacrifice; *adhi ni dadhuḥ* — they placed; *yat* — when; *akṣī* — the two eyes of the sacrifice (the *ājyabhāgas*); *akṛṇvan* — while they offer; *divaḥ* — from the world of heaven; *amṛtāḥ* — immortals (the gods, knowing that it is the time of the sacrifice); *adha* — after the *ājyabhāga*; *sṛṣṭāḥ* — arisen from Agni; *nīcīḥ* — moving in various directions; *aruṣīḥ* — bright; *jvālāḥ* — flames; *agne* — O Agni; *sindhavaḥ na* — like rivers; *kṣaranti* — flow; *pra ajānan* — (the gods who have come) knew, with great delight, [that these flames are clear] for our oblation.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+(The sacrificers) arrange in Agni the ornaments such as strewing and sprinkling, and offer the two *ājyabhāga* oblations, which are the two eyes of the sacrifice. Then the gods, knowing that it is the time of the offering, come. The flames that rise from Agni, like rivers, go in the various directions as bright flames. Seeing them, the gods rejoice greatly.
+
+**English Translation** *(the source's own, as printed):*
+
+> (The offerers of oblations), have placed in this (Agni) the graceful honours (of the ceremony), and the two portions of clarified butter that are the two eyes (of the sacrifice); then the immortals come from heaven, and your bright flames, Agni, spread in all directions like rushing rivers, and the Gods perceive it (and rejoice).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **यत्-अक्षी-अकुर्वन्** — "While the sacrificers perform the sacrifice, after making the strewing and sprinkling around the sacrificial altar, then, when they offer the oblation-portions that are the form of the eyes of the sacrifice [*the print breaks off at the foot of p. 378*], the gods know that the sacrifice is being performed and come from heaven." *(continued on p. 379)*
+
+---
+
+### Page 379 (PDF 397)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 72.10 (continued)**
+
+- **अक्षी** — "In the sacrifice, when oblations are offered, the *ājyabhāgas* are first offered. These are called by the word *cakṣuṣī* ('the two eyes') — a usage of the sacrificers. The śruti *cakṣuṣī vā ete yajñasya yad ājyabhāgau* (Tai. Saṃ. [2-6-3-1?]) clarifies the meaning 'eyes'. That is exactly what Sāyaṇa has explained here as the meaning of the word *akṣī*. On this matter the Taittirīya śruti:
+
+  > चक्षुषी वा एते यज्ञस्य यदाज्यभागौ यदाज्यभागौ यजति चक्षुषी एव तद्यज्ञस्य प्रति दधाति पूर्वार्धे जुहोति तस्मात्पूर्वार्धे चक्षुषी प्रबाहुग्जुहोति तस्मात् [?] … देवलोकं वा अग्निना यजमानोऽनु पश्यति पितृलोकꣳ सोमेनोत्तरार्धेऽग्नये जुहोति दक्षिणार्धे सोमायैवमिव हीमौ लोकावनयोर्लोकयोरनुख्यात्यै राजानौ वा एतौ देवतानां यदग्नीषोमावन्तरा देवता इज्येते देवतानां विधृत्यै तस्माद्राज्ञा मनुष्या विधृताः ॥
+  > *cakṣuṣī vā ete yajñasya yad ājyabhāgau yad ājyabhāgau yajati cakṣuṣī eva tad yajñasya prati dadhāti pūrvārdhe juhoti tasmāt pūrvārdhe cakṣuṣī prabāhug juhoti tasmāt [?] … devalokaṃ vā agninā yajamāno 'nu paśyati pitṛlokaṃ somenottarārdhe 'gnaye juhoti dakṣiṇārdhe somāyaivam iva hīmau lokāv anayor lokayor anukhyātyai rājānau vā etau devatānāṃ yad agnīṣomāv antarā devatā ijyete devatānāṃ vidhṛtyai tasmād rājñā manuṣyā vidhṛtāḥ ||* (Tai. Saṃ. [2-6-3], numerals as read "[?]")
+
+  *(This Taittirīya passage is read from small print; the sentence after "tasmāt pūrvārdhe cakṣuṣī prabāhug juhoti tasmāt" is garbled in the scan and left unread [?]; my gloss, tentative: "the two *ājyabhāgas* are the eyes of the sacrifice; when he offers the *ājyabhāgas* he sets the eyes of the sacrifice in place … by Agni the sacrificer looks to the world of the gods, by Soma to the world of the fathers; he offers to Agni in the northern half, to Soma in the southern; thus, as it were, for the sight of these two worlds; Agni and Soma are the two kings of the gods; the deities are worshipped between them for the support of the deities; therefore men are supported by a king".)*
+
+  Thus explained: as for the *ājyabhāga*, in the sacrifice, [oblations] made to the chief deities — first, after the preparation of the fire and the rest, one oblation, with *ājya* (melted butter), to Agni, and one to Soma. These two oblations are called *ājyabhāga*, and they are said to be the two eyes of the sacrifice. The sacrificer, sitting facing east, offers one oblation to Agni, saying *agnaye svāhā*, in the northern half of the fire before him; then in the southern half of Agni, one to Soma, *somāya svāhā*. In the middle of these two places of oblation in the fire, the offering with the appropriate mantras to the principal deities designated in the sacrifice is prescribed by the scripture. By offering to Agni, the attainment of the world of the gods, and by offering to Soma, the attainment of the world of the fathers, come to the sacrificer, it is said. Since these deities, Agni and Soma, are called the best of the gods and the kings of the gods, the offering must be made to these deities for the attainment of the worlds of gods and fathers. After offering to them, the others are to be offered to in the middle region of Agni — such is the intention."
+
+---
+
+**Progress note:** Printed pp. 1–379 done (PDF 19–397): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.9 complete; **Rik 72.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (*yat akṣī akṛṇvan*, *akṣī*) done (pp. 377–379); the Special Topics may continue on p. 380; its grammar page and the closing line of Sūkta 72 not yet seen. Next: p. 380 (PDF 398); that completes Sūkta 72 and the user's "next 2 sūktas" request (Sūktas 71 and 72). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya passage on p. 379 read from small print, one sentence unread [?].
