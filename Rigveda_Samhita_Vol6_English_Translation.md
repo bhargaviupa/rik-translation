@@ -12717,4 +12717,100 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 ---
 
-**Progress note:** Printed pp. 1–562 done (PDF 19–580): **Sūktas 62–79 complete** (Sūkta 79's closing line, p. 562: "eppattoṃbhattaneya sūktavu samāptavu"; twelve Ṛks, ṛṣi Gotama Rāhūgaṇa, Varga "27, 28" as read [?]). Next: **Sūkta 80** (Fifth Adhyāya, Anuvāka 13; the last sūkta of Volume 6) — printed p. 563 (PDF 581): title, Sāyaṇa's introduction, heading block. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
+## Sūkta 80
+
+### Page 563 (PDF 581)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**ಎಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *eṃbhattaneya sūktavu* — "The eightieth sūkta."
+
+**Sāyaṇa's introduction (Sanskrit in Kannada script; doubtful places [?]):**
+
+> इत्था हीति षोडशर्चं सप्तमं सूक्तं गोतमस्यार्षमैन्द्रं पङ्क्तिच्छन्दस्कम् । अनुक्रान्तं च । इत्था षोळशैन्द्रं पाङ्क्तं हि । हिशब्दप्रयोगात्तुह्यादिपरिभाषयेदमुत्तरे च द्वे [?] पङ्क्तिच्छन्दस्के ॥ पृष्ठ्यषडहस्य पञ्चमेऽहनि मरुत्वतीये इदं सूक्तम् । सूत्रितं च । अवितासीत्था हीन्द्र पिब तुभ्यमिति मरुत्वतीयम् । आ. ७-१२ [?] । चतुर्विंशेऽहन्यच्छावाकस्याद्यस्तृचो वैकल्पिकोऽनुरूपः । होत्रकाणामिति खण्डे सूत्रितं । इत्था हि सोम इन्मद उभे यदिन्द्र रोदसी । आ. ८-४ [?] । इति ॥ महाव्रते निष्केवल्यस्य दक्षिणपक्ष इत्था हीत्येका । तथैव पञ्चमारण्यके सूत्रितं । इत्था हि सोम इन्मद इति पङ्क्तिः । ऐ. आ. ५-१-१ [?] । इति ॥
+
+*itthā hīti ṣoḍaśarcaṃ saptamaṃ sūktaṃ gotamasyārṣam aindraṃ paṅktichandaskam | anukrāntaṃ ca | itthā ṣoḷaśaindraṃ pāṅktaṃ hi | hiśabdaprayogāt tuhyādiparibhāṣayedam uttare ca dve [?] paṅktichandaske || pṛṣṭhyaṣaḍahasya pañcame 'hani marutvatīye idaṃ sūktam | sūtritaṃ ca | avitāsītthā hīndra piba tubhyam iti marutvatīyam | Āś. 7-12 [?] | caturviṃśe 'hany acchāvākasyādyas tṛco vaikalpiko 'nurūpaḥ | hotrakāṇām iti khaṇḍe sūtritaṃ | itthā hi soma inmada ubhe yad indra rodasī | Āś. 8-4 [?] | iti || mahāvrate niṣkevalyasya dakṣiṇapakṣa itthā hīty ekā | tathaiva pañcamāraṇyake sūtritaṃ | itthā hi soma inmada iti paṅktiḥ | Ai. Ā. 5-1-1 [?] | iti ||*
+
+*Sense:* "*Itthā hi* — the seventh sūkta, of sixteen Ṛks; the ṛṣi is Gotama; deity Indra; metre Paṅkti. It is stated in the Anukramaṇī: '*itthā* — sixteen, to Indra, in Paṅkti, (the word) *hi*'; by the use of the word *hi* [the reading of this clause is doubtful [?]], this and the next two sūktas are in the Paṅkti metre. On the fifth day of the *Pṛṣṭhya-ṣaḍaha*, this sūkta is used in the *Marutvatīya* (śastra); as stated in the sūtra: '*avitāsītthā hīndra piba tubhyam* — the Marutvatīya' (Āśv. 7-12 [?]). On the twenty-fourth day (*caturviṃśa*) the first triad is an optional *anurūpa* of the *Acchāvāka*; in the section 'for the *hotrakas*' it is stated: '*itthā hi soma inmada ubhe yad indra rodasī*' (Āśv. 8-4 [?]). In the *Mahāvrata*, one Ṛk, *itthā hi*, in the right wing of the *Niṣkevalya*; likewise it is stated in the fifth Āraṇyaka: '*itthā hi soma inmada* — the *paṅkti*' (Aitareya Āraṇyaka 5-1-1 [?])."
+
+**Anuvāda (Kannada):** "*Itthā hi somē* — this sūkta is the seventh sūkta in the thirteenth anuvāka; there are sixteen Ṛks in it. The ṛṣi of this sūkta is Gotama; the deity is Indra; the metre is *paṅkti*. In the Anukramaṇikā it is said '*itthā ṣoḷaśaindraṃ pāṅktaṃ hi*'; by the use of the word *hi* it is indicated that this sūkta and the next two sūktas are in the *paṅkti* metre. This sūkta has application in the *Marutvatīya* mantras of the fifth day of the *Pṛṣṭhya-ṣaḍaha* sacrifice, as explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*avitāsītthā hīndra piba tubhyam iti marutvatīyam*' (Āśv. 7-[12] [?]). On the twenty-fourth day the priest called *Acchāvāka* may use the three Ṛks beginning *itthā* optionally, as explained in the section *hotrakāṇām* by the sūtra '*itthā hi soma inmada ubhe yad indra rodasī*' (Āśv. 8-[4] [?]). In the *Mahāvrata*, one Ṛk, *itthā hi*, has application in the *Niṣkevalya-śastra* mantras; in the fifth Āraṇyaka of the Aitareya Āraṇyaka it is indicated by the statement '*itthā hi soma inmada iti paṅktiḥ*' (Ai. Ā. 5-1-[1] [?])."
+
+### Page 564 (PDF 582)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**सूक्त — ८० (Sūkta 80)**
+
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—८० ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 80.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२९, ३०, ३१] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "29, 30, 31" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 16. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Indra. *Chandas:* Paṅkti.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.1**
+
+> इत्था हि सोम इन्मदे ब्रह्मा चकार वर्धनम् ।
+> शविष्ठ वज्रिन्नोजसा पृथिव्या निः शशा अहिमर्चन्ननु स्वराज्यम् ॥ १ ॥
+
+*itthā hi soma in made brahmā cakāra vardhanam |
+śaviṣṭha vajrinn ojasā pṛthivyā niḥ śaśā ahim arcann anu svarājyam ||1||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इत्था । हि । सोमे । इत् । मदे । ब्रह्मा । चकार । वर्धनम् ।
+> शविष्ठ । वज्रिन् । ओजसा । पृथिव्याः । निः । शशाः । अहिम् । अर्चन् ।
+> अनु । स्वऽराज्यम् ॥ १ ॥
+
+*itthā | hi | some | it | made | brahmā | cakāra | vardhanam | śaviṣṭha | vajrin | ojasā | pṛthivyāḥ | niḥ | śaśāḥ | ahim | arcan | anu | sva-rājyam ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.1** *(Sanskrit in Kannada script; doubtful places [?]; continues on p. 565)*
+
+> हे शविष्ठातिशयेन बलवन् वज्रिन् वज्रवन्निन्द्र इत्था हि इत्थमेव अनेन शास्त्रोक्तप्रकारेणैव मदे मदकरे हर्षकरे सोमे त्वया [पीते] [?] सति ब्रह्मा ब्राह्मणः स्तोता वर्धनं तव वृद्धिकरं स्तोत्रं चकार । अनेन सूक्तेन कृतवान् । इदित्येतत्पादपूरणम् । अतस्त्वमोजसा बलेन पृथिव्याः सकाशादहिमागत्य हन्तारं
+
+*he śaviṣṭhātiśayena balavan vajrin vajravann indra itthā hi itthām eva anena śāstroktaprakāreṇaiva made madakare harṣakare some tvayā [pīte] [?] sati brahmā brāhmaṇaḥ stotā vardhanaṃ tava vṛddhikaraṃ stotraṃ cakāra | anena sūktena kṛtavān | id ity etat pādapūraṇam | atas tvam ojasā balena pṛthivyāḥ sakāśād ahim āgatya hantāraṃ …*
+
+*(the bhāṣya breaks off at the foot of p. 564 and resumes at the head of p. 565)*
+
+### Page 565 (PDF 583)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Bhāṣya of Rik 80.1, continued:*
+
+> …वृत्रं शशाः । निःशेषेणाशाः । मा बाधस्वेति शासनं कृत्वा पृथिव्याः सकाशान्निर्गमयसि इत्यर्थः । किं कुर्वन् । स्वराज्यं स्वस्य राज्यं राजत्वमनुलक्ष्यार्चन् [?] पूजयन् । स्वस्य स्वामित्वं प्रकटयन्नित्यर्थः ॥ शशाः । शासु अनुशिष्टौ । लङि लुकि प्राप्ते बहुलं छन्दसीति शपः श्लुः । स्वराज्यम् । राज्ञो भावः कर्म वा राज्यम् । पत्यन्तपुरोहितादिभ्यो यक् । पा. ५-१-१२१ [?] । इति यक् । तत्र हि राजासः [?] इति पठ्यते । स्वस्य राज्यं स्वराज्यम् । अकर्मधारये राज्यम् । पा. ६-२-१३० [?] । इत्युत्तरपदाद्युदात्तत्वम् ॥
+
+*…vṛtraṃ śaśāḥ | niḥśeṣeṇāśāḥ | mā bādhasveti śāsanaṃ kṛtvā pṛthivyāḥ sakāśān nirgamayasi ity arthaḥ | kiṃ kurvan | svarājyaṃ svasya rājyaṃ rājatvam anulakṣyārcan [?] pūjayan | svasya svāmitvaṃ prakaṭayann ity arthaḥ || śaśāḥ | śāsu anuśiṣṭau | laṅi luki prāpte bahulaṃ chandasīti śapaḥ śluḥ | svarājyam | rājño bhāvaḥ karma vā rājyam | patyantapurohitādibhyo yak | pā. 5-1-121 [?] | iti yak | tatra hi rājāsaḥ [?] iti paṭhyate | svasya rājyaṃ svarājyam | akarmadhāraye rājyam | pā. 6-2-130 [?] | ity uttarapadādyudāttatvam ||*
+
+*Sense:* "O *śaviṣṭha* (exceedingly mighty), O *vajrin*, O Indra: thus indeed (*itthā hi*) — in just this way, in the manner stated in the śāstra — when you have drunk the exhilarating (*made*, *harṣakare*) Soma, the *brahmā* (the Brahmin praiser, *stotā*) made (*cakāra*) a *vardhana*, a praise that makes you grow; he made it with this sūkta. (The word) *id* is a mere pāda-filler. Therefore you, with your might (*ojasā*), came and, from the earth, drove off entirely (*niḥ śaśāḥ*) the slayer *Vṛtra* [the serpent *ahi*] — saying 'Do not harass (us)', you made him go out from the earth. Doing what? Honouring (*arcan*) your own sovereignty (*svarājyam*) — displaying your own lordship." *The grammatical tail:* *śaśāḥ* — the root *śāsu anuśiṣṭau*; in the *laṅ*, where *luk* would arise, by "bahulaṃ chandasi" the *śap* is replaced by *ślu*; *svarājyam* — *rājyam* is the state/action of a king; the affix *yak* after words such as *pati*-ending and *purohita* (Pā. 5-1-121 [?]); [the Veda reads *rājāsaḥ* [?]]; 'one's own kingship' is *svarājya*; in a non-*karmadhāraya*, *rājya* — the final member has initial udātta (Pā. 6-2-130 [?]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.1** *(Kannada)*
+
+- **शविष्ठ** — "O exceedingly strong one"
+- **वज्रिन्** — "O Indra, wielder of the thunderbolt"
+- **इत्था हि** — "thus (in this very way, as stated in the śāstras)"
+- **मदे** — "delightful"
+- **सोमे** — "Soma juice (when drunk by you)"
+- **ब्रह्मा** — "the brāhmaṇa, or the priest called Brahmā (the praiser)"
+- **वर्धनम्** — "(praise) that makes (you) grow"
+- **चकार इत्** — "(with this sūkta) made"; (*atas*: therefore, you)
+- **स्वराज्यम्** — "(your own) kingship"
+- **अनु** — "having in view"
+- **अर्चन्** — "honouring (displaying lordship)"
+- **ओजसा** — "by your strength"
+- **अहिम्** — "the slaying Vṛtra (the demon named Ahi)"
+- **पृथिव्याः** — "from the earth"
+- **निः शशाः** — "thoroughly ruled (drove off)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.1** *(Kannada)*
+
+"O exceedingly mighty Indra, wielder of the thunderbolt: the priest called Brahmā praised you with praise that makes you grow; thereupon, after drinking the delightful Soma juice, displaying your own lordship, you drove the murderous Vṛtra away from the earth, by the use of your strength."
+
+**English Translation** *(printed in English in the source)*
+
+"Mighty weilder [sic] of the thunderbolt, when the priest had thus exalted you (by praise), and the exhilarating Soma-juice (had been druuk [sic]), you expelled, by your vigour, Ahi from the earth, manifesting your own sovereignty." — as printed; "weilder" and "druuk" are misprints [sic].
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.1)**
+
+- **शविष्ठ** — *atiśayena balavān* — "'very strong'. The word *śavaḥ* occurs among the twenty-eight names of strength (Ni. [2-9] [?]) and among the hundred and one names of water (Ni. [1-12] [?]), but here it is used in the sense of strength."
+
+---
+
+**Progress note:** Printed pp. 1–565 done (PDF 19–583): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; seventh and last sūkta of Anuvāka 13 in this volume; Varga "29, 30, 31" as read [?]) begun: Sāyaṇa's introduction and Anuvāda (p. 563), heading block (p. 564) and **Rik 80.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first Special Topic (pp. 564–565) done; the remaining Special Topics and the grammar page of 80.1 not yet seen. Next: p. 566 (PDF 584). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
