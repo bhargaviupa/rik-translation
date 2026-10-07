@@ -13487,4 +13487,77 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–589 done (PDF 19–607): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.7 complete** (Special Topics of 80.7 on pp. 586–587; grammar on pp. 587–588); **Rik 80.8** — Saṃhitā and Pada (p. 588), bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (p. 589) done; the Special Topics and grammar page of 80.8 not yet seen. Next: p. 590 (PDF 608). Eight Ṛks (80.9–80.16) remain after 80.8. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) and the bhāṣya of 80.8 (p. 589) read with doubt.
+### Page 590 (PDF 608)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.8)**
+
+- **वज्रासः** — "*didyut*, *nemiḥ* …: among the eighteen names of the thunderbolt beginning *didyut, nemiḥ*, the word *vajra* occurs (Ni. [2-20] [?]). '*Varjayati prāṇaiḥ śatrūn*' — 'it makes the enemies depart from their lives' — that is, it takes the life of the enemies; or '*vināśayati śatrūn*', it destroys the enemies; hence Indra's weapon is called *vajra*. Because the plural is used here — *vajrāsaḥ* — the sense is that these are weapons that Indra uses for the destruction of the enemies. But '*nāvyāḥ navatiṃ anu vi asthiran*': since it is described that the ninety rivers, which were large (to be crossed by boats), too were held back by the demon Vṛtra, and that the thunderbolt, seeing that, became many (…), the point of the sūkta is to say that when destroying the demon Vṛtra one thunderbolt became like many weapons. From this it is understood that the greatness of the thunderbolt exceeds that of other weapons."
+- **ते बाह्वोर्बलं हितम्** — "the sense is that in your arms is placed a strength greater than the strength of the arms of all (others). The roots *o hāk gatau* and *o hāk tyāge* have the senses of going and abandoning; from them with the affix *kta* the words *hita* in the senses 'gone', 'abandoned' arise; but here, from the root *ḍudhāñ*, by the sūtra "dadhāter hiḥ" (दधातेर्हिः, Pā. Sū. 7-4-42) the affix *kta* is replaced and the form *hita* arises: 'is placed, is held'."
+- **नवतिम्** — *navatisaṃkhyākā vṛtreṇa niruddhā nadīḥ* — "the bhāṣyakāra has explained the word *navatim* as 'ninety rivers held back by Vṛtra'. Here the doubt arises whether *navatim* means just the rivers of the definite number ninety, or whether like words denoting number such as *śatam*, *sahasram* it has a manifold sense. In places where a manifold sense is indicated, the use of the words *śate*, *sahasra* is ordinary. Hence there are grounds enough for saying that the word *navatim* indicates only a definite number, and that in this the use of the word has especially to do with rivers. For example —
+
+> नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो रजांसि ।
+
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi |* (Ṛk. Saṃ. 1-[32]-[14] [?]) — *Gloss, mine and tentative:* "Nine and ninety flowing (rivers) you crossed, like a frightened falcon, the (watery) spaces."
+
+> ह्रास्य पारं नवतिं नाव्यानामपि कर्तमवर्तयोऽयज्यून् ।
+
+*hrāsya [?] pāraṃ navatiṃ nāvyānām api kartam avartayo 'yajyūn |* (Ṛk. Saṃ. 1-[130]-[?] [?]) — *the first word is garbled in the print [?]; the sense is uncertain to me; I give the words as read.*
+
+> नव यदस्य नवतिं च भोगान्त्साकं वज्रेण मघवा विवृश्चत् ।
+
+*nava yad asya navatiṃ ca bhogān sākaṃ vajreṇa maghavā vivṛścat |* (Ṛk. Saṃ. [3]-[31]-[6] [?]) — *Gloss, mine and tentative:* "When Maghavan cut off nine and ninety of its coils together with the thunderbolt."
+
+### Page 591 (PDF 609)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 80.8, continued:*
+
+> नवतिं स्रोत्या नव च स्रवन्तीर्देवेभ्यो गातुं मनुषे च विन्दः ।
+
+*navatiṃ srotyā nava ca sravantīr devebhyo gātuṃ manuṣe ca vindaḥ |* (Ṛk. Saṃ. 10-[104]-[8] [?]) — *Gloss, mine and tentative:* "(You found) the ninety streams and nine flowing (waters), a path for the gods and for Manu."
+
+— in these Ṛks the word *navati* is used in connection with rivers. Except for the second example, in the other Ṛks the number is stated as *nava navatim*, ninety-nine; and in contexts where Indra destroyed the cities of Śambara and other asuras the words *nava navatim* — 'ninety-nine' — are also used; so there is room for the doubt that these words may indicate 'many'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.8)** *(grammar page, noted briefly)*
+
+- **वज्रासः** — after the word *vajra*, when *jas* is considered, by "ājjaser asuk" (आज्जसेरसुक्, Pā. Sū. 7-1-50) the augment *asuk* for *jas* [Vedic]; being *k*-marked it becomes the final element.
+- **अस्थिरन्** — the root *ṣṭhā gatinivṛttau* (ष्ठा गतिनिवृत्तौ); *luṅ*, third person plural, the affix *jhi*; because of the preposition *vi* in connection, by "samavapravibhyaḥ sthaḥ" (समवप्रविभ्यः स्थः, Pā. Sū. 1-3-22) the *ātmanepada*; when *cli* is replaced in the *luṅ*, by "mantre ghasa-hvara-ṇaśa-vṛda-…" (Pā. Sū. 2-4-80) the *luk* of *cli*; by "sthāghvor ic ca" (Pā. Sū. 1-2-17) the *i* for the *ā* of the root; the *jhi* gets the substitute *ran* by *vyatyaya* (*ātmanepada* *jha* → *ran*) [by "ṅit-ṛṣa…"]; *aṭ* for the stem; nighāta accent since *atiṅanta* in the pāda.
+- **नाव्याः** — *nāvā tāryāḥ* = *nāvyāḥ*: in the sense of *tārya* ('to be crossed'), after the word *nau* the affix *yat* by "nauvayodharma…" (Pā. Sū. 4-4-91); by "vānto yi pratyaye" (वान्तो यि प्रत्यये, Pā. Sū. 6-1-79) the *āv* substitute (*nāv-ya*); the form *nāvya*; in the feminine, by "ajādyataṣṭāp" (अजाद्यतष्टाप्, Pā. Sū. 4-1-4) the affix *ṭāp*; by "yato 'nāvaḥ" (यतोऽनावः, Pā. Sū. 6-1-213) — in which *anāvaḥ* has been excluded — the *svarita* accent comes by "tit svaritam" (तित्स्वरितम्, Pā. Sū. 6-1-185).
+- **बाह्वोः** — the stem *bāhu*; sixth-case dual; here a *yaṇ* has taken the place of the udātta, and since a consonant precedes it, the case-ending following takes the udātta by "udāttayaṇo hal-pūrvāt" (उदात्तयणो हल्पूर्वात्, Pā. Sū. 6-1-174). ||8||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 592 (PDF 610)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.9**
+
+> सहस्रं साकमर्चत परि ष्टोभत विंशतिः ।
+> शतैनमन्वनोनवुरिन्द्राय ब्रह्मोद्यतमर्चन्ननु स्वराज्यम् ॥ ९ ॥
+
+*sahasraṃ sākam arcata pari ṣṭobhata viṃśatiḥ |
+śatainam anv anonavur indrāya brahmodyatam arcann anu svarājyam ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सहस्रम् । साकम् । अर्चत । परि । स्तोभत । विंशतिः ।
+> शता । एनम् । अनु । अनोनवुः । इन्द्राय । ब्रह्म । उत्ऽयतम् ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ९ ॥
+
+*sahasram | sākam | arcata | pari | stobhata | viṃśatiḥ | śatā | enam | anu | anonavuḥ | indrāya | brahma | ut-yatam | arcan | anu | sva-rājyam ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.9** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> सहस्रं सहस्रसंख्याका मनुष्याः साकमर्चते [?] । एनमिन्द्रं युगपदेवापूजयन् । तथा विंशतिः । षोडशर्त्विजो यजमानः पत्नी च सदस्यः शमिता चेति विंशतिसंख्याकाः । तेषां या विंशतिसंख्या सा परि ष्टोभत । परितः सर्वतोऽस्तौत् । तथा च शता शतसंख्याका ऋषय एनमिन्द्रमन्वनोनवुः । पुनःपुनरस्तुवन् । अस्मा एवेन्द्राय ब्रह्म [परिमितलक्षणं?] [?] अन्नमुद्यतम् । [दाते मूर्ध्नं धृतम्?] [?] । अत एवंविध इन्द्रो वृत्रमहन्नित्यर्थः । अन्यत्पूर्ववत् ॥ परि ष्टोभत । स्तोभतिः स्तुतिकर्मा । उपसर्गात्सुनोतीति षत्वम् । अनोनवुः । णु स्तुतौ । अस्माद्यङ्लुगन्ताल्लुङि सिजभ्यस्तविदिभ्यश्चेति झेरुसादेशः । उद्यतम् । यमु उपरमे । उत्पूर्वादस्मात्कर्मणि निष्ठा [?] । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् ॥
+
+*sahasraṃ sahasrasaṃkhyākā manuṣyāḥ sākam arcate [?] | enam indraṃ yugapad evāpūjayan | tathā viṃśatiḥ | ṣoḍaśartvijo yajamānaḥ patnī ca sadasyaḥ śamitā ceti viṃśatisaṃkhyākāḥ | teṣāṃ yā viṃśatisaṃkhyā sā pari ṣṭobhata | paritaḥ sarvato 'stautṣ | tathā ca śatā śatasaṃkhyākā ṛṣaya enam indram anvanonavuḥ | punaḥ punar astuvan | asmā evendrāya brahma [parimitalakṣaṇaṃ?] [?] annam udyatam | [dāte mūrdhnaṃ dhṛtam?] [?] | ata evaṃvidha indro vṛtram ahann ity arthaḥ | anyat pūrvavat || pari ṣṭobhata | stobhatiḥ stutikarmā | upasargāt sunotīti ṣatvam | anonavuḥ | ṇu stutau | asmād yaṅluganṭāl luṅi sijabhyastavidibhyaś ceti jher usādeśaḥ | udyatam | yamu uparame | utpūrvād asmāt karmaṇi niṣṭhā [?] | anudāttopadeśety ādinānunāsikalopaḥ | gatir anantara iti gateḥ prakṛtisvaratvam ||*
+
+*Sense (as far as legible):* "A thousand men together honoured (*arcata*) this Indra at once; likewise the *viṃśati*, the group of twenty — the sixteen priests, the sacrificer, his wife, the *sadasya*, and the *śamitṛ*, in all twenty — that number twenty praised (*pari ṣṭobhata*) him all around. And likewise a hundred ṛṣis praised this Indra again and again (*anv anonavuḥ*). For this Indra alone *brahma* — food [the clause is compressed and illegible at this resolution: I give it with doubt [?]] — has been raised (*udyatam*). Thus Indra, of this kind, slew Vṛtra. The rest as before." *The grammatical tail:* *pari ṣṭobhata* — *stobhati* is a root of the sense of praising; *ṣatva* by the rule on a preposition preceding *sunoti*…; *anonavuḥ* — the root *ṇu stutau* in the intensive (*yaṅ-luk*), *luṅ*, the substitute *us* for *jhi* by "sijabhyastavidibhyaś ca"; *udyatam* — the root *yamu uparame* with the preposition *ut* and *kta* in the passive; the nasal is dropped by "anudāttopadeśa…"; the *gati* before the root keeps its natural accent.
+
+---
+
+**Progress note:** Printed pp. 1–592 done (PDF 19–610): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.8 complete** (Special Topics and grammar of 80.8 on pp. 590–591); **Rik 80.9** — Saṃhitā, Pada and bhāṣya (p. 592) done (one clause of the bhāṣya illegible, marked [?]); its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar not yet seen. Next: p. 593 (PDF 611). Seven Ṛks (80.10–80.16) remain after 80.9. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
