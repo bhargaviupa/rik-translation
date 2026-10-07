@@ -1567,4 +1567,87 @@ ut tvā sutāso rabhasā amandiṣuḥ pūṣaṇvān vajrin sam u patny āmada�
 
 ---
 
-**Progress note:** Printed pp. 1–55 done (PDF 16–70) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete** (Sūkta 82: six Ṛks, pp. 33–55; no separate closing line in the print). **Sūkta 83** (six Ṛks; Indra; Gotama; Jagatī; the tenth sūkta of Anuvāka 13; printed pp. 55–80) begun: Sāyaṇa's introduction and the first part of the Anuvāda (p. 55); the Anuvāda continues on p. 56 (PDF 71), then the heading block and Rik 83.1. Next: printed p. 56 (PDF 71). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 and the application note on p. 50 read with doubt; the Saṃhitā of Rik 82.6 (p. 52) read with some doubt.
+### Page 56 (PDF 71)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Anuvāda (Kannada) of Sūkta 83, concluded from p. 55:* "…the deity is Indra, and the metre is *jagatī*. In the Anukramaṇikā it is said '*aśvāvatī jāgatam*'. In the sacrifice called *Atirātra*, in the third *paryāya*, this sūkta is applied in the śastra mantras recited by the priest *Brāhmaṇācchaṃsin*. This is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*aśvāvati progrāṃ pītiṃ vṛṣṇa iyarmi satyām iti yājyā*' (Āś. [6-5] [?])."
+
+**सूक्त — ८३ (Sūkta 83)**
+
+मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—८३ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 83.*
+अष्टक—१ ॥ अध्याय—६ ॥ वर्ग—[५?] — *Aṣṭaka 1; Adhyāya 6; Varga "5" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 6. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Indra. *Chandas:* Jagatī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 83.1**
+
+> अश्वावति प्रथमो गोषु गच्छति सुप्रावीरिन्द्र मर्त्यस्तवोतिभिः ।
+> तमित्पृणक्षि वसुना भवीयसा सिन्धुमापो यथाभितो विचेतसः ॥ १ ॥
+
+*aśvāvati prathamo goṣu gacchati suprāvīr indra martyas tavotibhiḥ |
+tam it pṛṇakṣi vasunā bhavīyasā sindhum āpo yathābhito vicetasaḥ ||1||*
+
+### Page 57 (PDF 72)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अश्वऽवति । प्रथमः । गोषु । गच्छति । सुप्रऽअवीः । इन्द्र । मर्त्यः । तव । ऊतिऽभिः ।
+> तम् । इत् । पृणक्षि । वसुना । भवीयसा । सिन्धुम् । आपः । यथा । अभितः । विऽचेतसः ॥ १ ॥
+
+*aśva-vati | prathamaḥ | goṣu | gacchati | suprā-vīḥ | indra | martyaḥ | tava | ūti-bhiḥ | tam | it | pṛṇakṣi | vasunā | bhavīyasā | sindhum | āpaḥ | yathā | abhitaḥ | vi-cetasaḥ ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 83.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र यो मर्त्यो मनुष्यस्तवोतिभिस्त्वदीयै रक्षणैः सुप्रावीः सुष्ठु परिरक्षितो भवति स मर्त्योऽश्वावति बहुभिरश्वैर्युक्ते गृहे वर्तमानो गोषु प्राप्तव्येषु प्रथमो गच्छति । सर्वेभ्यो यजमानेभ्यः पूर्वमेव गोमान् भवतीत्यर्थः । त्वं तमित् तमेव पुरुषं भवीयसा बहुतरेण भवितृतमेन वा शतसहस्रादिसंख्यायुक्तेन वसुना धनेन पृणक्षि । संपृक्तं संपूर्णं करोषि । तत्र दृष्टान्तः । विचेतसो विशिष्टज्ञानहेतुभूता आपो यथाभितः सर्वासु दिक्षु सिन्धुं समुद्रं पूरयन्ति तद्वत् ॥ अश्वावति । मन्त्रे सोमाश्वेति मतौ दीर्घत्वम् । सुप्रावीः । अवितृस्तृतन्त्रिभ्य ईः । उ. ३-१५८ [?] इत्यवतेरीकारप्रत्ययः । ऊतिभिः । ऊतियूतिजूतीत्यादिना क्तिन उदात्तत्वम् । पृणक्षि । पृची संपर्के । रौधादिकः । भवीयसा । बहुशब्दादीयसुनि बहोर्लोपो भू च बहोरिति बहुशब्दस्य भूभावः ईयसुन ईकारलोपश्च । अत्र तु छान्दसत्वादीकारलोपो न क्रियते भूभावश्च क्रियते । अथवा भवित्तृशब्दात्तृश्छन्दसीतीयसुन् । तुरिष्ठेमेयःस्विति तृलोपः ॥ १ ॥
+
+*he indra yo martyo manuṣyas tavotibhis tvadīyai rakṣaṇaiḥ suprāvīḥ suṣṭhu parirakṣito bhavati sa martyo 'śvāvati bahubhir aśvair yukte gṛhe vartamāno goṣu prāptavyeṣu prathamo gacchati | sarvebhyo yajamānebhyaḥ pūrvam eva gomān bhavatīty arthaḥ | tvaṃ tam it tam eva puruṣaṃ bhavīyasā bahutareṇa bhavitṛtamena vā śatasahasrādisaṃkhyāyuktena vasunā dhanena pṛṇakṣi | saṃpṛktaṃ saṃpūrṇaṃ karoṣi | tatra dṛṣṭāntaḥ | vicetaso viśiṣṭajñānahetubhūtā āpo yathābhitaḥ sarvāsu dikṣu sindhuṃ samudraṃ pūrayanti tadvat || aśvāvati | mantre somāśveti matau dīrghatvam | suprāvīḥ | avitṛstṛtantribhya īḥ | u. 3-158 [?] ity avater īkārapratyayaḥ | ūtibhiḥ | ūtiyūtijūtīty ādinā ktina udāttatvam | pṛṇakṣi | pṛcī saṃparke | raudhādikaḥ | bhavīyasā | bahuśabdād īyasuni bahor lopo bhū ca bahor iti bahuśabdasya bhūbhāvaḥ īyasuna īkāralopaś ca | atra tu chāndasatvād īkāralopo na kriyate bhūbhāvaś ca kriyate | athavā bhavitṛśabdāt tṛś chandasīty īyasun | turiṣṭhemeyaḥsv iti tṛlopaḥ || 1 ||*
+
+*Sense:* "O Indra, the mortal (*martyaḥ*), the man, who by your protections (*ūtibhiḥ*) is *suprāvīḥ* — well protected — he, dwelling in a house *aśvāvati* — yoked with many horses — goes first (*prathamaḥ*) to the cows (*goṣu*) to be obtained: he becomes possessed of cattle before all other sacrificers. You, *tam it* — that very man, with *bhavīyasā*, much greater, abundant, wealth (*vasunā*) in the numbers of hundreds, thousands and so on, *pṛṇakṣi* — you fill, make fully complete. An illustration: as waters (*āpaḥ*), the *vicetasaḥ* — the causes of distinguished knowledge [?] — fill from all sides (*abhitaḥ*) the *sindhu*, the ocean — so." *The grammatical tail* (characterized): *aśvāvati* — the lengthening in the *matup* context in the mantra; *suprāvīḥ* — the affix *ī* after *ava* (Uṇ. 3-158 [?]); *ūtibhiḥ* — *ktin* with its udātta; *pṛṇakṣi* — root *pṛcī saṃparke*, *rudhādi*; *bhavīyasā* — from *bahu* with *īyasun*, *bhū* for *bahu*, the *ī* of *īyasun* is not dropped (Vedic); or from *bhavitṛ* with *īyasun* and loss of *tṛ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 83.1** *(Kannada; runs to p. 58)*
+
+- **इन्द्र** — "O Indra"
+- **मर्त्यः** — "(which) man"
+- **तव ऊतिभिः** — "by your protections"
+- **सुप्रावीः** — "well protected"
+- **अश्वावति** — "(living) in a house filled with horses"
+- **गोषु** — "among cows"
+- **प्रथमम्** — "first"
+- **गच्छति** — "attains. Before all, such a sacrificer obtains cows"
+- **त्वम् इत्** — "you indeed"
+- **तम्** — "that sacrificer"
+- **आपः** — "waters (or rivers)"
+- **विचेतसः** — "though without consciousness"
+- **यथा** — "just as"
+- **अभितः** — "from all directions"
+- **सिन्धुम्** — "the ocean" (they fill it)
+- **भवीयसा** — "of many kinds, or excellent"
+- **वसुना** — "with wealth"
+- **पृणक्षि** — "you make filled."
+
+### Page 58 (PDF 73)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 83.1** *(Kannada)*
+
+"O Indra, the man protected by you, living in a house filled with horses, obtains cows before and in greater number than all the rest. You fill that sacrificer, though they have no consciousness (to do so), with wealth of many kinds, as rivers from various directions fill the ocean with water; you make him rich."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, the man who is well protected by you dwells in a house with plenty of horses ; he is the first to go to the place where there are cows. fill him with plenty of riches as the rivers unconsciously flow in all directions to reach the ocean." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.1)**
+
+- **अश्वावति** — "'one who lives in a house with many horses' means that his house has as many horses as he needs. Although the word *gṛha* is not in the Ṛk, the bhāṣyakāra supplies it by *adhyāhāra* for the sake of coherence. All the Ṛks in this sūkta are of obscure sense; many words have to be supplied by *adhyāhāra* to get the sense to hang together. Even so, it is open to doubt whether the ṛṣi's intention is correctly explained, even when words are supplied in this way and some sense is attached."
+- **प्रथमो गोषु गच्छति** — "the meaning of this sentence does not fit exactly. Still, as said for *aśvāvati*, the sense 'his house has many cows' may be guessed."
+- **सुप्रावीः ऊतिभिः** — "here the word *tava* ('your') has to be supplied: 'protected by your protections', that is, 'the man whom you protect'."
+- **तमित् पृणक्षि वसुना** — "'you fill that man with wealth or lordship': you give him much wealth."
+- **भवीयसा** — "*bahutareṇa*, *bhavitṛtamena* — much, as one wishes."
+- **आपः विचेतसः** — "the bhāṣyakāra explains the word *vicetasaḥ* as *viśiṣṭajñānahetubhūtāḥ*…" *(the sentence runs on to p. 59)*
+
+---
+
+**Progress note:** Printed pp. 1–58 done (PDF 16–73) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; the tenth sūkta of Anuvāka 13; printed pp. 55–80; Varga "5" as read [?]): heading (p. 56), **Rik 83.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 56–58) done; the Special Topics break off at the foot of p. 58 (*vicetasaḥ*, mid-sentence) and continue on p. 59 (PDF 74), then the grammar of 83.1. Next: printed p. 59 (PDF 74). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52.
