@@ -2360,4 +2360,122 @@ grāvā yatra vadati kārur ukthyas tasyed indro abhipitveṣu raṇyati ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–86 done (PDF 16–101) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.2 complete** (84.2 is a short Ṛk, pp. 85–86). Next: printed p. 87 (PDF 102) — Rik 84.3. Eighteen Ṛks (84.3–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81.
+### Page 87 (PDF 102)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.3**
+
+> आ तिष्ठ वृत्रहन्रथं युक्ता ते ब्रह्मणा हरी ।
+> अर्वाचीनं सु ते मनो ग्रावा कृणोतु वग्नुना ॥ ३ ॥
+
+*ā tiṣṭha vṛtrahan ratham yuktā te brahmaṇā harī |
+arvācīnaṃ su te mano grāvā kṛṇotu vagnunā ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । तिष्ठ । वृत्रऽहन् । रथम् । युक्ता । ते । ब्रह्मणा । हरी इति ।
+> अर्वाचीनम् । सु । ते । मनः । ग्रावा । कृणोतु । वग्नुना ॥ ३ ॥
+
+*ā | tiṣṭha | vṛtra-han | ratham | yuktā | te | brahmaṇā | harī iti | arvācīnam | su | te | manaḥ | grāvā | kṛṇotu | vagnunā ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.3** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे वृत्रहन् शत्रूणां हन्तरिन्द्र रथमा तिष्ठ । आरोह । यस्मात्ते हरी त्वदीयावश्वौ ब्रह्मणा स्तोत्रलक्षणेन मन्त्रेण युक्ता रथेऽस्माभिर्योजितौ तस्मात्त्वं रथमातिष्ठ । ते मनस्त्वदीयं मनश्च ग्रावाभिषवार्थं प्रवृत्तः पाषाणो वग्नुना वचनीयेनाभिषवशब्देनार्वाचीनमस्मदभिमुखं सु कृणोतु । सुष्ठु करोतु ॥ युक्ता । सुपां सुलुगित्याकारः । वग्नुना । वचेर्गश्च । उ. ३-३३ [?] इति नुप्रत्ययो गकारश्चान्तादेशः ॥ ३ ॥
+
+*he vṛtrahan śatrūṇāṃ hantar indra ratham ā tiṣṭha | āroha | yasmāt te harī tvadīyāv aśvau brahmaṇā stotralakṣaṇena mantreṇa yuktā rathe 'smābhir yojitau tasmāt tvaṃ ratham ātiṣṭha | te manas tvadīyaṃ manaś ca grāvābhiṣavārthaṃ pravṛttaḥ pāṣāṇo vagnunā vacanīyenābhiṣavaśabdenārvācīnam asmadabhimukhaṃ su kṛṇotu | suṣṭhu karotu || yuktā | supāṃ suluk ity ākāraḥ | vagnunā | vaceś gaś ca | u. 3-33 [?] iti nupratyayo gakāraś cāntādeśaḥ || 3 ||*
+
+*Sense:* "O *vṛtrahan*, O slayer of enemies, Indra: mount the chariot (*ratham ā tiṣṭha*). Since your two bays have been yoked to the chariot by us with *brahman*, the mantra of the form of stotra, therefore mount the chariot. May *grāvā*, the stone set in motion for the pressing, with its *vagnu* — its utterable sound, the sound of pressing — turn your mind (*manaḥ*) well (*su*) towards us (*arvācīnam*)." *The grammatical tail:* *yuktā* — *ā* for the case-ending by "supāṃ suluk…"; *vagnunā* — the affix *nu* after *vac* (Uṇ. 3-33 [?]), with *g* as the substitute for the final."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.3** *(Kannada)*
+
+- **वृत्रहन्** — "O Indra, destroyer of Vṛtra"
+- **रथम्** — "(your) chariot"
+- **आ तिष्ठ** — "mount"
+- **ते** — "your"
+- **हरी** — "horses"
+- **ब्रह्मणा** — "with a mantra of the form of praise"
+- **युक्ता** — "have been yoked (to the chariot by us)"
+- **ते** — "your"
+- **मनः** — "mind"
+- **ग्रावा** — "the stone that presses Soma juice"
+- **वग्नुना** — "by the sound it makes while pressing"
+- **अर्वाचीनम्** — "towards us"
+- **सु कृणोतु** — "may it turn well."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.3** *(Kannada)*
+
+"O Indra, slayer of Vṛtra, we have yoked your horses to your chariot with mantras. Mount that chariot. May the stone that presses the Soma juice, by the pleasing sound it makes in pressing the juice, turn your mind completely towards us."
+
+### Page 88 (PDF 103)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**English Translation** *(Rik 84.3; printed in English in the source)*
+
+"O Slayer of Vritra, ascend your chariot, for your horses have been harnessed by our prayer. May the Soma-pressing stone by its sound attract your mind towards us." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.3)**
+
+- **युक्ता ते ब्रह्मणा हरी** — "'Your horses have been yoked to the chariot by the stotras we make': that is, in the 3rd Ṛk of the sūkta [*sic*: the print reads 'in the 1st, 2nd, 3rd, 4th Ṛks'] — *yojā nv indra te harī* — 'yoke, O Indra, your horses to the chariot' — having heard our prayer made so, to come to our sacrifice you yoked the horses to the chariot; therefore, it is said here, 'your horses have been yoked to the chariot by our stotras'." *(The Kannada here refers back to the refrain of the previous sūkta, 82, Riks 1–4 *yojā nv indra te harī* [as read, reference [?]].)*
+- **अर्वाचीनम्** — "facing, turned towards."
+- **ग्रावा कृणोतु वग्नुना** — "In the sacrifice, they crush the soma plant with stones to make the Soma juice ready for you. May the sound of it be heard by you and turn your mind towards us — the ṛṣi prays thus."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.3)** *(grammar page, noted briefly)*
+
+- **युक्ता** — the root *yujir yoge*; the affix *kta* in the sense of the object (*karman*); *yuj+ta*: by "coḥ kuḥ" (Pā. Sū. 8-2-30) the *j* becomes *g* [the *ku* letter], and by "khari ca" (Pā. Sū. 8-4-55) *carva* arises, so *k*; the word is a *kṛdanta* so it has the designation *prātipadika*; in the dual first-case ending, by "supāṃ suluk…" (Pā. Sū. 7-1-39) the case-ending gets the substitute *ā*.
+- **वग्नुना** — the root *vaca paribhāṣaṇe*; "vacer gaś ca" (Uṇ. Sū. 3-[33] [?]) — the affix *nu* after the root *vac*, and *g* in place of the *c* as final substitute; when the third-case singular follows, by "ājo nāstriyām" [as read: "āṅo nāstriyām", Pā. Sū. 7-3-120] the substitute *nā* arises. ||3||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 89 (PDF 104)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.4**
+
+> इमिमन्द्र सुतं पिब ज्येष्ठममर्त्यं मदम् ।
+> शुक्रस्य त्वाभ्यक्षरन्धारा ऋतस्य सादने ॥ ४ ॥
+
+*imam indra sutaṃ piba jyeṣṭham amartyaṃ madam |
+śukrasya tvābhy akṣaran dhārā ṛtasya sādane ||4||*
+
+*(The print spells the first word* इमिमन्द्र*, i.e.* imam indra*, as the Pada divides it.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इमम् । इन्द्र । सुतम् । पिब । ज्येष्ठम् । अमर्त्यम् । मदम् ।
+> शुक्रस्य । त्वा । अभि । अक्षरन् । धाराः । ऋतस्य । सादने ॥ ४ ॥
+
+*imam | indra | sutam | piba | jyeṣṭham | amartyam | madam | śukrasya | tvā | abhi | akṣaran | dhārāḥ | ṛtasya | sādane ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र सुतमभिषुतमिमं सोमं पिब । कीदृशं । ज्येष्ठमतिशयेन प्रशस्यं मदं मदकरं अमर्त्यममारकं । सोमपानजन्यो मदो मदान्तरवन्मारको न भवतीत्यर्थः । तथा ऋतस्य यज्ञस्य संबन्धिनि सदने गृहे वर्तमानाः शुक्रस्य दीप्तस्यास्य सोमस्य धारास्त्वाम्भ्यक्षरन् । अभिमुख्येन सञ्चलन्ति । त्वां प्राप्नुवन्ति । स्वयमेवागच्छन्तीत्यर्थः ॥ ज्येष्ठम् । प्रशस्यशब्दादिष्ठनि ज्य च । पा. ५-३-६१ [?] । इति ज्यादेशः । अक्षरन् । क्षर संचलने । छान्दसो लङ् ॥ ४ ॥
+
+*he indra sutam abhiṣutam imaṃ somaṃ piba | kīdṛśaṃ | jyeṣṭham atiśayena praśasyaṃ madaṃ madakaraṃ amartyam amārakaṃ | somapānajanyo mado madāntaravan mārako na bhavatīty arthaḥ | tathā ṛtasya yajñasya saṃbandhini sadane gṛhe vartamānāḥ śukrasya dīptasyāsya somasya dhārās tvām abhy akṣaran | abhimukhyena sañcalanti | tvāṃ prāpnuvanti | svayam evāgacchantīty arthaḥ || jyeṣṭham | praśasyaśabād iṣṭhani jya ca | pā. 5-3-61 [?] | iti jyādeśaḥ | akṣaran | kṣara sañcalane | chāndaso laṅ || 4 ||*
+
+*Sense:* "O Indra, drink this pressed (*sutam*) Soma. Of what kind? *Jyeṣṭham* — exceedingly praiseworthy; *madam* — intoxicating; *amartyam* — not deadly: the intoxication produced by drinking Soma, unlike other intoxications, does not kill. And the streams (*dhārāḥ*) of this radiant Soma, present in the house (*sadane*) of the sacrifice (*ṛtasya*), flow (*abhy akṣaran*) towards you, reach you; they come of their own accord." *The grammatical tail:* *jyeṣṭham* — *iṣṭhan* after *praśasya*, with *jya* as substitute (Pā. 5-3-61 [?]); *akṣaran* — the root *kṣara sañcalane*, a Vedic *laṅ*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.4** *(Kannada)*
+
+- **इन्द्र** — "O Indra"
+- **सुतम्** — "that has been pressed"
+- **ज्येष्ठम्** — "the best"
+- **मदम्** — "that gives delight"
+- **अमर्त्यम्** — "(unlike other intoxicating substances) not deadly, though intoxicating"
+- **इमम्** — "this Soma juice"
+- **पिब** — "drink"
+- **ऋतस्य** — "(related to) the sacrifice"
+- **सदने** — "(in the house of) the sacrifice"
+- **शुक्रस्य** — "of the shining Soma juice"
+- **धाराः** — "streams"
+- **अभ्यक्षरन्** — "flow towards (you)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.4** *(Kannada)*
+
+"O Indra, the best, giving delight, and — unlike other intoxicating substances — not destructive: drink this Soma juice that has been pressed. The streams of this shining Soma juice flow towards you in the house of the sacrifice. Drink them."
+
+---
+
+**Progress note:** Printed pp. 1–89 done (PDF 16–104) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.3 complete**; **Rik 84.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 89) done; its English, Special Topics and grammar not yet seen. Next: printed p. 90 (PDF 105). Sixteen Ṛks (84.5–84.20) remain after 84.4. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81; the cross-reference in the Special Topics of 84.3 (p. 88) to the previous sūkta's refrain.
