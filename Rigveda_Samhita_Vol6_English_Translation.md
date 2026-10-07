@@ -6566,4 +6566,69 @@ Words treated: *iṣe* (*iṣ* is a name of food; the fourth-case singular; the 
 
 ---
 
-**Progress note:** Printed pp. 1–322 done (PDF 19–340): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.7 complete; **Rik 71.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha (with the alternative construction), Bhāvārtha, the source's English and the Special Topics done (pp. 319–322); the grammar page is begun (p. 322) and breaks off in the treatment of *ānaṭ*. Next: p. 323 (PDF 341). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.8–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Bṛhaddevatā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 71.8 (p. 320) dense and its tail very compressed [?].
+### Page 323 (PDF 341)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 71.8 (continued; noted briefly, not transcribed)**
+
+*ānaṭ* (concluded): the third-person-singular *tip*; the loss of its *i* by *iteś ca* is an exception (*lopāpavāda*), and since it then stands after a consonant, *halṅyābbhyo…* removes the *t*… [as read; the print is compressed]; *ṣatva* of the *ś* by *vraścabhrasja…*, Pā. [8-2-36]; *jhalāṃ jaśo 'nte*, the *ś*'s change to *ḍ*; *caṛtva* gives *ṭ*; the augment *āṭ* to the stem by *āḍajādīnām*; the form *ānaṭ*; since the connection with *yat* precedes, nighāta does not come (*yaddhṛttānnityam*); the *āḍ* is udātta, so the word has the initial acute. *niṣiktam* (root *ṣiciṛ kṣaraṇe*; *kta* in the passive by *niṣṭhā*; since *jhal* follows, the root's *c* becomes *k* by *coḥ kuḥ*; *ṣatva* of the *s* by *upasargāt sunoti suvati…*, Pā. [8-3-65]; the *gati* retains its natural accent by *gatir anantaraḥ*, Pā. [6-2-49]); *abhīke* (root *añcu gatipūjanayoḥ*; in the *pacādi* list, with the prefix *abhi* before it, the affix *ac* by *nandigrahipacādibhyo…*, Pā. [3-1-134]; by the *pṛṣodarādi* class, *abhīka* is formed as the text prescribes; or from the root *iṅ gatau* with Uṇādi *kak*, no guṇa because *kit*; by either route, since the word is read among the *dāsībhārādi*, it keeps the first member's natural accent; locative singular); *svādhyam* (*su-āḍhya* + *am*; *yaṇ* by *eranekāco 'saṃyogapūrvasya*; since *yaṇ* has come in place of an udātta, and the following [ending] is anudātta, by *udāttasvaritayor yaṇaḥ svaritaḥ anudāttasya*, Pā. [8-2-4], the anudātta gets svarita); *janayat* (root *janī prādurbhāve*; the causative action shown, *ṇic* by *hetumati ca*, Pā. [3-1-26]; since *janī-jñā…* gives the *mit* designation, the shortening of the *upadhā* vṛddhi by *mitāṃ hrasvaḥ*, Pā. [6-4-92]; *leṭ*, third person singular, *tip*; loss of *i*; *aḍāgama* by *leṭo 'ḍāṭau*; *śap*; *pararūpa* by *ato guṇe*; guṇa of the *ṇi* then *ayādeśa*; the form *janayat*; nighāta because it follows an *atijanta*). *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 324 (PDF 342)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.8 (concluded; noted briefly):** *sūdayat* — root *sūda kṣaraṇe* ("to flow"); *ṣatva* of the *s*, since *dhātvādeḥ ṣaḥ saḥ*, Pā. [6-1-64], is reversed; as before, *leṭ*, third person singular; no nighāta (because *atijaḥ* is prohibited, as the preceding word *janayat* is a tiṅanta, the *paryudāsa* "the one following an *atiṅ*"), and the *ṇic* accent remains. Ends "॥ ८ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.9** *(printed Ṛk "9 ||")*
+
+> मनो न योऽध्वनः सद्य एत्येकः सत्रा सूरो वस्व ईशे ।
+> राजाना मित्रावरुणा सुपाणी गोषु प्रियममृतं रक्षमाणा ॥ ९ ॥
+
+*mano na yo 'dhvanaḥ sadya ety ekaḥ satrā sūro vasva īśe |
+rājānā mitrāvaruṇā supāṇī goṣu priyam amṛtaṃ rakṣamāṇā ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> मनः । न । यः । अध्वनः । सद्यः । एति । एकः । सत्रा । सूरः । वस्वः । ईशे ।
+> राजाना । मित्रावरुणा । सुपाणी इति सुऽपाणी । गोषु । प्रियम् । अमृतम् । रक्षमाणा ॥ ९ ॥
+
+*manaḥ | na | yaḥ | adhvanaḥ | sadyaḥ | eti | ekaḥ | satrā | sūraḥ | vasvaḥ | īśe | rājānā | mitrāvaruṇā | supāṇī iti su-pāṇī | goṣu | priyam | amṛtam | rakṣamāṇā ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.9** *(begun; runs on to p. 325)*
+
+> यः सूरः सूर्य एकः एकाकी असहायः सन्नध्वनो दिव्यान्मार्गात्सद्य एति आशु गच्छति । असहायत्वं च श्रूयते । सूर्य एकाकी चरतीत्याह । असौ वा आदित्य एकाकी चरतीति । तै. ब्रा. [३-८-९-४?] । शीघ्रगमनं च स्मर्यते । योजनानां सहस्रे द्वे द्वे शते द्वे च योजने । एकेन निमिषार्धेन क्रममाण नमोऽस्तु ते इति ॥ शीघ्रगमने दृष्टांतः । मनो न । यथा मनः शीघ्रं गच्छति तद्वत् । स च सूरो वस्वो धनस्य सत्रा सह्येव युगपदेवेशे । ईष्टे । यो हि शीघ्रं गच्छति स बहुदेशस्थितानि धनानि प्राप्नोति । तथा राजाना राजमानौ सुपाणी शोभनबाहू मित्रावरुणा मित्रावरुणावस्मदीयासु गोषु प्रियं सर्वेषां प्रीतिकरममृतममृतवत्स्वादुभूतं पयो रक्षमाणा रक्षंतौ वर्तेते । हे अग्ने तेऽद्रोहेण त्वमेवैवं वर्तस इति भावः [?] ॥ वस्वः । लिंगव्यत्ययः । जसादिषु छंदसि वावचनमिति घेर्ज्यर्तीति गुणाभावे यणादेशः । ईशे । ईश ऐश्वर्ये । लोपस्त आत्मनेपदेष्विति तलोपः । मित्रावरुणा । देवताद्वंद्वे चेति पूर्वपदस्यानजादेशः । देवताद्वंद्वे चेत्युभयपदप्रकृतिस्वरत्वं ॥
+
+*yaḥ sūraḥ sūrya ekaḥ ekākī asahāyaḥ sann adhvano divyān mārgāt sadya eti āśu gacchati | asahāyatvaṃ ca śrūyate | sūrya ekākī carati ity āha | asau vā āditya ekākī carati iti | tai. brā. [3-8-9-4?] | śīghragamanaṃ ca smaryate | yojanānāṃ sahasre dve dve śate dve ca yojane | ekena nimiṣārdhena kramamāṇa namo 'stu te iti || śīghragamane dṛṣṭāntaḥ | mano na | yathā manaḥ śīghraṃ gacchati tadvat | sa ca sūro vasvo dhanasya satrā sahyeva yugapad eveśe | īṣṭe | yo hi śīghraṃ gacchati sa bahudeśasthitāni dhanāni prāpnoti | tathā rājānā rājamānau supāṇī śobhanabāhū mitrāvaruṇā mitrāvaruṇāv asmadīyāsu goṣu priyaṃ sarveṣāṃ prītikaram amṛtam amṛtavat svādubhūtaṃ payo rakṣamāṇā rakṣantau vartete | he agne te 'drohena tvam evaivaṃ vartasa iti bhāvaḥ [?] || vasvaḥ | liṅgavyatyayaḥ | jasādiṣu chandasi vāvacanam iti gher jyartīti guṇābhāve yaṇādeśaḥ | īśe | īśa aiśvarye | lopas ta ātmanepadeṣv iti talopaḥ | mitrāvaruṇā | devatādvandve ceti pūrvapadasyānajādeśaḥ | devatādvandve cety ubhayapadaprakṛtisvaratvaṃ ||*
+
+*(Reading note: the first words are clear; the last clause "he agne te 'drohena…", whose syllables are compressed, is read doubtfully [?]; "mitrāvaruṇā" is printed as the Pada has it. The bhāṣya's grammatical tail, from "vasvaḥ", is characterized below, not transcribed line by line.)*
+
+*Meaning:* The sun (*sūraḥ*), who goes alone (*ekaḥ*, "without a companion"), swiftly (*sadyaḥ*) traverses the divine path; that he has no companion is declared: "That sun walks alone" (Tai. Brā. [3-8-9-4?]); his swift going is remembered: "Homage to you who, traversing two thousand, two hundred and two *yojanas* in half a wink [as read]". An illustration of swift going: "like the mind" — as the mind goes quickly; and that sun is lord (*īśe*) of wealth (*vasvaḥ*) altogether at once (*satrā*), for whoever goes swiftly reaches the riches lying in many places. In the same way the two shining (*rājānā*) kings, Mitra and Varuṇa — beautiful-armed (*supāṇī*) — in our cows are protecting (*rakṣamāṇā*) the milk, dear to all, immortal-like and sweet.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *vasvaḥ* (change of gender; before the *jas*-type endings, by *vā chandasi*, with no guṇa [*gher jyarti*] a *yaṇ*-substitution occurs); *īśe* (root *īśa aiśvarye*; loss of the *ta* by *lopas ta ātmanepadeṣu*); *mitrāvaruṇā* (in a *devatā* dvandva, *ānaṅ* for the first member, Pā. [6-3-25]; both members keep their natural accent by *devatādvandve ca*, Pā. [6-2-141]).
+
+---
+
+### Page 325 (PDF 343)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammatical tail (completed from p. 324):** the print of the tail ends with the statement that *ānaṅ* and the double accent are to be taken as the sūtra *devatādvandve ca* says; the matter is characterized above.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*yaḥ sūraḥ* — which sun; *ekaḥ* — alone (without a helper); *adhvanaḥ* — the paths of the sky; *mano na* — like the mind; *sadyaḥ eti* — he swiftly passes (that sun); *vasvaḥ satrā* — together with the wealth; *īśe* — becomes the master; *(tathā* — likewise); *rājānā* — the shining; *supāṇī* — of beautiful arms; *mitrāvaruṇā* — Mitra and Varuṇa; *goṣu* — (our) in the cows; *priyam* — dear to all; *amṛtam* — the nectar-like taste (milk); *rakṣamāṇā* — are the protectors.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+As the sun, alone, swiftly traverses the sky's paths like the mind and becomes the master of wealth, so may the shining Mitra and Varuṇa, of auspicious arms, bestow on our cows the dear, nectar-like, pleasing milk (that they may give milk).
+
+**English Translation** *(the source's own, as printed):*
+
+> The sun, who traverses alone the path of heaven with the speed of thought, is at once lord of all treasures: the two kings, Mitra and Varuna, with bounteous hands, are the guardians of the precious ambrosia of our cattle.
+
+---
+
+**Progress note:** Printed pp. 1–325 done (PDF 19–343): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.8 complete (71.8: grammar page on pp. 322–324); **Rik 71.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha and the source's English done (pp. 324–325); its Special Topics and grammar page not yet seen. Next: p. 326 (PDF 344). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.9–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the last clause of the bhāṣya of 71.9 (p. 325) and the grammar page of 71.8 (pp. 323–324) compressed and doubtful [?].
