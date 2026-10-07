@@ -1255,4 +1255,106 @@ pra nūnaṃ pūrṇabandhuraḥ stuto yāhi vaśāṁ anu yojā nv indra te har
 
 ---
 
-**Progress note:** Printed pp. 1–45 done (PDF 16–60) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.3 complete** (grammar of 82.2 ends on p. 43; of 82.3 on p. 45). Next: printed p. 46 (PDF 61) — Rik 82.4. Three Ṛks (82.4–82.6) remain, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt.
+### Page 46 (PDF 61)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.4**
+
+> स घा तं वृषणं रथमधि तिष्ठाति गोविदम् ।
+> यः पात्रं हारियोजनं पूर्णमिन्द्र चिकेतति योजा न्विन्द्र ते हरी ॥ ४ ॥
+
+*sa ghā taṃ vṛṣaṇaṃ ratham adhi tiṣṭhāti govidam |
+yaḥ pātraṃ hāriyojanaṃ pūrṇam indra ciketati yojā nv indra te harī ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । घ । तम् । वृषणम् । रथम् । अधि । तिष्ठाति । गोऽविदम् ।
+> यः । पात्रम् । हारिऽयोजनम् । पूर्णम् । इन्द्र । चिकेतति ।
+> योज । नु । इन्द्र । ते । हरी इति ॥ ४ ॥
+
+*saḥ | gha | tam | vṛṣaṇam | ratham | adhi | tiṣṭhāti | go-vidam | yaḥ | pātram | hāri-yojanam | pūrṇam | indra | ciketati | yoja | nu | indra | te | harī iti ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> स घ स खल्विन्द्रो वृषणं कामाभिवर्षकं गोविदं गवां लम्भयितारं तं रथमधि तिष्ठाति । उपसर्गश्रुतेः रथेऽधितिष्ठतु । आरूढो भवतु । हे इन्द्र यो रथो हारियोजनमेतत्संज्ञकं धानामिश्रितं पूर्णं सोमेन पूर्णं पात्रं चिकेतति ज्ञापयति । तं रथमधितिष्ठेति पूर्वेणान्वयः । अधिष्ठाय च त्वदीयावश्वौ क्षिप्रं योजय ॥ घ । ऋचि तुनुघेति दीर्घः । रथम् । अधिशीङ्स्थासां कर्म । पा. १-४-४६ । इत्यधिकरणस्य कर्मसंज्ञा । तिष्ठाति । ष्ठा गतिनिवृत्तौ । लेट्यडागमः । चिकेतति । कित ज्ञाने । लेट्यडागमः । जुहोत्यादित्वाच्छपः श्लुः । बहुलं छन्दसीति वक्तव्यम् । (कात्यायन ?) [?] इति वचनान्नाभ्यस्तस्याचि पितीति लघूपधगुणप्रतिषेधो न भवति ॥ ४ ॥
+
+*sa gha sa khalv indro vṛṣaṇaṃ kāmābhivarṣakaṃ govidaṃ gavāṃ lambhayitāraṃ taṃ ratham adhi tiṣṭhāti | upasargaśruteḥ rathe 'dhitiṣṭhatu | ārūḍho bhavatu | he indra yo ratho hāriyojanam etatsaṃjñakaṃ dhānāmiśritaṃ pūrṇaṃ somena pūrṇaṃ pātraṃ ciketati jñāpayati | taṃ ratham adhitiṣṭheti pūrveṇānvayaḥ | adhiṣṭhāya ca tvadīyāv aśvau kṣipraṃ yojaya || gha | ṛci tunughā iti dīrghaḥ | ratham | adhiśīṅsthāsāṃ karma | pā. 1-4-46 | ity adhikaraṇasya karmasaṃjñā | tiṣṭhāti | ṣṭhā gatinivṛttau | leṭy aḍāgamaḥ | ciketati | kita jñāne | leṭy aḍāgamaḥ | juhotyāditvāc chapaḥ śluḥ | bahulaṃ chandasīti vaktavyam | (kātyāyana?) [?] iti vacanān nābhyastasyāci piti iti laghūpadhaguṇapratiṣedho na bhavati || 4 ||*
+
+*Sense:* "That Indra indeed (*sa gha*) *tiṣṭhāti* — mounts (*adhi*) that chariot that is *vṛṣaṇam*, a showerer of desires, *govidam*, a bringer of cows. (Because the preposition is heard, the sense is: 'let him mount the chariot' — let him ascend.) O Indra, the chariot which makes known (*ciketati* = *jñāpayati*) the vessel (*pātra*) called *hāriyojana* — mixed with barley-meal (*dhānā*), filled with Soma — mount that chariot; and having mounted, yoke quickly your two bay horses." *The grammatical tail:* *gha* — lengthened by "ṛci tunughamakṣu…"; *ratham* — the locus (*adhikaraṇa*) of *adhi-śīṅ-sthā-ās* takes the *karma*-designation (Pā. 1-4-46); *tiṣṭhāti* — the *leṭ* with *aṭ*; *ciketati* — root *kita jñāne*, *juhotyādi*, *ślu* for *śap*; by the statement 'bahulaṃ chandasi' the prohibition of guṇa of a light penultimate before a *pit* affix does not apply to the reduplicated stem."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.4** *(Kannada; begins at the foot of p. 46)*
+
+- **सः घ** — "that very Indra"
+- **यः** — "which chariot"
+- **हारियोजनम्** — "(Soma juice mixed with barley-meal)…" *(the entry's text is broken at this resolution [?])*
+- **पूर्णम्** — "filled (with Soma juice)"
+- **पात्रम्** — "the vessel"
+- **चिकेतति** — "brings and gives"
+- **वृषणम्** — "showerer (of desired objects)"
+- **गोविदम्** — "…
+
+### Page 47 (PDF 62)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Pratipadārtha of Rik 82.4, concluded:*
+
+- **गोविदम्** — "one who has cows (obtains cows)"
+- **तं रथम्** — "that chariot"
+- **अधि तिष्ठाति** — "may he ascend and sit"
+- **इन्द्र** — "O Indra"
+- **ते** — "your"
+- **हरी** — "horses"
+- **नु** — "carefully"
+- **योज** — "yoke (to the chariot)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.4** *(Kannada)*
+
+"Let Indra mount that chariot which brings the vessel filled with grain-meal and filled with Soma juice, and which, being the fulfiller of desires, brings cows. O Indra, carefully yoke your horses to the chariot."
+
+**English Translation** *(printed in English in the source)*
+
+"May he ( Indra ) ascend that chariot which shower blessings, gives cows and which contains vessel filled with the mixture of Soma-juice and barley flour ; Indra, quickly yoke your horses." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.4)**
+
+- **घ** — "for the sake of the metre this syllable is lengthened in the Saṃhitā-pāṭha."
+- **हारियोजनम्** — "*hāri* is Soma juice mixed with grain; *hāri* probably means barley (*yava*) grain. 'Soma juice mixed with the flour of that grain' is the sense. This word *hāriyojana* occurs in the Ṛgveda only in the Ṛk —
+
+> एवा ते हारियोजना सुवृक्तीन्द्र ब्रह्माणि गोतमासो अक्रन् ।
+
+*evā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |* (Ṛk. Saṃ. 1-[61]-[16] [?]) — *Gloss, mine and tentative:* "So, O Indra, the Gotamas have made for you well-turned prayers, (with the) *hāriyojana* (Soma)."
+
+and nowhere else. There the bhāṣyakāra explains this word as '*haryor aśvayor yojanaṃ yasmin rathe saḥ*; of him the owner, *hāriyojanaḥ*' — that is, he has explained *hāriyojana* in another way: 'having the chariot in which the two bays, Indra's two horses called *hari*, are yoked; *indra*' (as the sense 'the chariot of Indra'). In the Yajurveda, in the Taittirīya Saṃhitā, too —
+
+> हरिरसि हारियोजनो हर्योः स्थाता वज्रस्य भर्ता पृश्नेः प्रेता तस्य ते देव सोमेष्टयजुषः स्तुतस्तोमस्य शस्त्रोक्थस्य हरिवन्तं ग्रहं गृह्णामि हरीस्थ हर्योर्धानाः सहसोमा इन्द्राय स्वाहा ॥
+
+*harir asi hāriyojano haryoḥ sthātā vajrasya bhartā pṛśneḥ pretā tasya te deva someṣṭayajuṣaḥ stutastomasya śastrokthasya harivantaṃ grahaṃ gṛhṇāmi harīstha haryor dhānāḥ sahasomā indrāya svāhā ||* (Tai. Saṃ. 1-[4]-[?] [?]) — *Gloss, mine and tentative:* "You are *hari*, the *hāriyojana*, the stander on the two bays, the bearer of the thunderbolt, the goer to Pṛśni (…); of you, O god, whose Soma-offering and sacrifice are praised, whose recitation is praised in *stoma* and *śastra*, I take the cup that has the two bays; you (O grains) are the two bays' food; with Soma, to Indra, *svāhā*." *(The Taittirīya passage is read with doubt in several words; the reference is [?].)*
+
+### Page 48 (PDF 63)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*Special Topics of Rik 82.4, continued:*
+
+"…In the mantra the word *hāriyojanaḥ*, Bhaṭṭabhāskaramiśra explains in his bhāṣya:
+
+> हरिरसीति । सोम एवोच्यते । हरिरिन्द्रः स एव त्वमसीतीन्द्रात्मना सोमः स्तूयते । यद्वा हरिर्हर्ता अभिमतानां श्रेयसामाहर्ता त्वमसि । हारियोजनः हरिः अश्वविशेषः योजनो वाहनं यस्य स हरियोजनः इन्द्रः तस्य स्वभूतः हारियोजनः ऐन्द्रोऽसीत्यर्थः ।
+
+*harir asīti | soma evocyate | harir indraḥ sa eva tvam asīty indrātmanā somaḥ stūyate | yadvā harir hartā abhimatānāṃ śreyasām āhartā tvam asi | hāriyojanaḥ hariḥ aśvaviśeṣaḥ yojano vāhanaṃ yasya sa hariyojanaḥ indraḥ tasya svabhūtaḥ hāriyojanaḥ aindro 'sīty arthaḥ |*
+
+*Translation:* "'*Harir asi*' — Soma alone is meant: Hari is Indra; 'you are that very (Indra)' — so Soma is praised in Indra's form; or: *hari* = the bringer (*hartṛ*) of the desired good things; you are such. *Hāriyojanaḥ* — *hari* is a particular horse; he whose conveyance (*yojana*) it is, is *hariyojana*, Indra; 'one belonging to him, *hāriyojana*': 'you are Indra's' — that is the meaning."
+
+— so he has given the sense. Here he explains the word *hāriyojana* as referring to Soma. The chief sense is: for offering to Indra they prepare Soma juice mixed with barley-meal; it may be that such Soma juice, prepared for offering to Indra alone, is by convention called *hāriyojana*; for that reason, in the present Ṛk, it is proper to explain *hāriyojanaṃ pātraṃ pūrṇam* as 'a vessel filled with Soma juice prepared especially for Indra with barley-meal mixed in it'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.4)** *(grammar page, noted briefly; begins here)*
+
+- **घ** — in the sense of *khalu* it is an indeclinable. By "ṛci tunughamakṣutaṅkuṭroruṣyāṇām" (ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम्, Pā. Sū. 6-3-133) the lengthening of *gha* occurs only in the Ṛgveda mantras.
+- **रथम्** — second-case singular. Although the meaning is 'let him sit in the chariot', by "adhiśīṅsthāsāṃ karma" (Pā. Sū. 1-4-46) the locus of the three roots *śīṅ, sthā, ās*, when joined with the prepositions *adhi*, *upa*, *ā* ("the *adhikaraṇa* of the sense of the root and of the action"), takes the *karma*-designation; having obtained the *karma*-designation, by "karmaṇi dvitīyā" (Pā. Sū. 2-3-2) the second case arises.
+- **तिष्ठाति** — the root *ṣṭhā gatinivṛttau*, *bhvādi*; *leṭ*, third person singular, in the sense of *vidhi*; by "leṭo 'ḍāṭau" (Pā. Sū. 3-4-94) the augment *aṭ*; when the stem-marker *śap* follows, by "pāghrādhmā…" (Pā. Sū. 7-3-78) the root takes the substitute *tiṣṭha*.
+- **चिकेतति** — the root *kita jñāne*, *juhotyādi*; *leṭ*, third person singular. For *juhotyādi* roots *ślu* would be the stem-marker, and by "ślau" (Pā. Sū. 6-1-10) reduplication of the root; if *hal*-initial remainder, *kikit+ti*; as said before, by "leṭo 'ḍāṭau" the *aṭ* … *(continues on p. 49)*
+
+---
+
+**Progress note:** Printed pp. 1–48 done (PDF 16–63) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.3 complete**; **Rik 82.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 46–48) done; its grammar page is begun on p. 48 (breaking off at *ciketati*) and continues on p. 49 (PDF 64). Next: printed p. 49 (PDF 64). Two Ṛks (82.5–82.6) remain after 82.4, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 read with doubt.
