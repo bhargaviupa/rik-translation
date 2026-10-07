@@ -9008,4 +9008,90 @@ When hostile enemies assemble, the ancient Agni protects the wealth of the sacri
 
 ---
 
-**Progress note:** Printed pp. 1–432 done (PDF 19–450): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Rik 74.1 complete; **Rik 74.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 430–432) done; the grammar page begun (p. 432, up to *snīhitīṣu*). Next: p. 433 (PDF 451), the rest of the grammar page of 74.2; then Rik 74.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 74.2 (p. 431) compressed and doubtful [?].
+### Page 433 (PDF 451)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 74.2 (concluded; noted briefly)**
+
+*saṃjagmānāsu* (prefix *sam*; root *gamḷ gatau*; *ātmanepada* by *samo gamyṛcchibhyām*, Pā. [1-3-29]; *liṭ* → *kānac* by *liṭaḥ kānaj vā*, Pā. [3-2-106]; doubling of the root; *halādiśeṣa*; *cuṭva*/*kutva* of the reduplicate's *g* by *kuhoś cuḥ*; loss of the penultimate by *gamahanajana…*, Pā. [6-4-98]; the form *saṃjagmāna*; in the feminine *ṭāp* by *ajādyatastāp*; final acute by *citaḥ*; locative plural). *arakṣat* (root *rakṣa pālane*; Vedic *laṅ* by *chandasi luṅlaṅliṭaḥ*, third person singular; since it stands at the head of the pāda, no nighāta; the *aḍ*-augment is udātta, so the word has the initial acute). *dāśuṣe* (root *dudāñ dāne*; *kvasu* by nipāta by *dāśvān sāhvān…*, Pā. [6-1-12]; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*, Pā. [6-4-131]; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the affix's accent makes the word middle-acute). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.3** *(printed Ṛk "3 ||")*
+
+> उत ब्रुवन्तु जन्तव उदग्निर्वृत्रहाजनि ।
+> धनंजयो रणेरणे ॥ ३ ॥
+
+*uta bruvantu jantava ud agnir vṛtrahājani |
+dhanaṃjayo raṇe-raṇe ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> उत । ब्रुवन्तु । जन्तवः । उत् । अग्निः । वृत्रऽहा । अजनि ।
+> धनम्ऽजयः । रणेऽरणे ॥ ३ ॥
+
+*uta | bruvantu | jantavaḥ | ut | agniḥ | vṛtra-hā | ajani | dhanam-jayaḥ | raṇe-raṇe ||3||*
+
+---
+
+### Page 434 (PDF 452)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> अग्निमंथने जाताय ऽनुब्रूहीत्यैक्त उत ब्रुवंत्वित्यैषा ऽनुवचनीया । प्रातर्वैश्वदेव्यामिति खंडे सूत्रितं । शिष्वेनोत्तरामुत ब्रुवंतु जंतवः । आ. [२-१०?] इति ॥ तथा साकमेधेषु मरुद्भ्यः क्रीडिभ्यः पुरोडाशमित्यस्यामिष्ट्यावेवैव प्रथमाज्यभागानुवाक्या । सूत्रितं च । मरुद्भ्यः क्रीडिभ्य उत्तरोत ब्रुवंतु जंतवः । आ. [२-१०?] इति ॥
+
+> अग्निरुदजनि । अरण्योः सकाशादुत्पन्नः । उतानंतरं जंतवो जाताः सर्वे ऋत्विजो ब्रुवंतु । तमग्निं स्तुवंतु । कीदृशो ऽग्निः । वृत्रहा वृत्राणामावरकाणां शत्रूणां हंता रणे रणे सर्वेषु संग्रामेषु धनंजयः शत्रुधनानां जेता ॥ धनंजयः । संज्ञायां भृतृवृजीति । पा. [३-२-४६?] । खच् । अरुर्द्विषदजंतस्य । पा. [६-३-६७?] । इति मुमागमः । चित्स्वरेणांतोदात्तत्वं । रणे रणे । रण शब्दार्थः । रणंति दुंदुभयो ऽस्मिन्निति रणः संग्रामः । वशिरण्योरुपसंख्यानं । पा. [३-३-३८?] । इत्यप् । नित्यवीप्सयोरिति द्विर्वचनं । आम्रेडितानुदात्तत्वं ॥
+
+*agnimanthane jātāyānubrūhīty aikta uta bruvantv ity aiṣā 'nuvacanīyā | prātarvaiśvadevyām iti khaṇḍe sūtritaṃ | śiṣvenottarām uta bruvantu jantavaḥ | ā. [2-10?] iti || tathā sākamedheṣu marudbhyaḥ krīḍibhyaḥ puroḍāśam ity asyām iṣṭyāv eva prathamājyabhāgānuvākyā | sūtritaṃ ca | marudbhyaḥ krīḍibhya uttarota bruvantu jantavaḥ | ā. [2-10?] iti ||*
+
+*agnir ud ajani | araṇyoḥ sakāśād utpannaḥ | utānantaraṃ jantavo jātāḥ sarve ṛtvijo bruvantu | tam agniṃ stuvantu | kīdṛśo 'gniḥ | vṛtrahā vṛtrāṇām āvarakāṇāṃ śatrūṇāṃ hantā raṇe raṇe sarveṣu saṃgrāmeṣu dhanaṃjayaḥ śatrudhanānāṃ jetā || dhanaṃjayaḥ | saṃjñāyāṃ bhṛtṛvṛjīti | pā. [3-2-46?] | khac | arur dviṣad ajantasya | pā. [6-3-67?] | iti mum-āgamaḥ | citsvareṇāntodāttatvaṃ | raṇe raṇe | raṇa śabdārthaḥ | raṇanti dundubhayo 'sminn iti raṇaḥ saṃgrāmaḥ | vaśiraṇyor upasaṃkhyānaṃ | pā. [3-3-38?] | ity ap | nityavīpsayor iti dvirvacanaṃ | āmreḍitānudāttatvaṃ ||*
+
+*(Reading note: the opening liturgical sentence is compressed and doubtful ("agnimanthane jātāyānubrūhīty aikta", "śiṣvenottarām"); the Āśvalāyana numerals are doubtful [?].)*
+
+*Meaning of the liturgical remark:* In the Agni-churning, this Ṛk "*uta bruvantu*" is to be recited as an *anuvacana* after the invitation "recite to the one born" (the sūtra in the section *prātarvaiśvadevyām*, Ā. [2-10?]); likewise, in the *Sākamedha* rites, in the offering of *puroḍāśa* to the sportive Maruts, it is the first *ājyabhāga anuvākyā* (Ā. [2-10?]).
+
+*Meaning:* Agni has been born (*ud ajani*) from the two kindling-sticks. After that, may all the priests, born (*jantavaḥ*) men, speak (*bruvantu*): may they praise that Agni. What kind of Agni? The slayer of Vṛtra (*vṛtrahā*) — slayer of the enemies who are the obstructors — in every battle (*raṇe raṇe*) the winner of wealth (*dhanaṃjayaḥ*) — the conqueror of the enemies' wealth.
+
+**Grammatical tail** *(characterized)*: *dhanaṃjayaḥ* (*khac* by *saṃjñāyāṃ bhṛtṛvṛji…*, Pā. [3-2-46]; *mum*-augment by *arur dviṣadajantasya*, Pā. [6-3-67]; final acute by *cit*); *raṇe raṇe* (*raṇa* = "battle", where kettledrums resound; *ap* by *vaśiraṇyor upasaṃkhyānam*; doubling by *nityavīpsayoḥ*; the second member's accent by *āmreḍitasya* …).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*vṛtrahā* — slayer of enemies; *raṇe raṇe* — in all battles; *dhanaṃjayaḥ* — the winner of enemy wealth; *agniḥ* — Agni; *ut ajani* — (from the kindling-sticks) was born; *uta* — afterwards; *jantavaḥ* — the born priests; *bruvantu* — (Agni) let them praise.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+May all the born (the priests and others) praise Agni — born from the kindling-sticks, the winner of enemy wealth in battle, the slayer of enemies.
+
+**English Translation** *(the source's own, as printed):*
+
+> Let men praise Agni as soon as grenerated [sic], the slayer of Vritra, and the winner of booty in many a battle.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 434)*
+
+- "At the time of Agni-churning — that is, while the two pieces of wood called *araṇi* are rubbed against each other, at the time when Agni is produced in the sacrifice — the *adhvaryu* says to the *hotṛ*: '*agnaye jātāyānubrūhi* — recite the Ṛk that describes the birth of Agni'; at that time —" *(continued on p. 435)*
+
+---
+
+### Page 435 (PDF 453)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 74.3 (continued)**
+
+- *(Continuation:)* "…that this Ṛk *uta bruvantu* must be recited as the *anuvacanīyā* mantra is explained by the sūtra *śiṣvenottarām uta bruvantu jantavaḥ* in the section *prātarvaiśvadevyām* of the Āśvalāyana-śrauta-sūtra (Ā. [2-10?]). And in the *iṣṭi* called *Sākamedha*, for the offering of *puroḍāśa* to the Maruts, this Ṛk must be recited as the first *ājyabhāga puro'nuvākyā* mantra: so the Āśvalāyana-śrauta-sūtra, *marudbhyaḥ krīḍibhya uttarota bruvantu jantavaḥ* (Ā. [2-10?]), has directed."
+- **उत** — "Here the word *uta* is used in the sense of 'and' (*samuccaya*): *uta* means 'and'."
+- **ब्रुवन्तु जन्तवः** — "The commentator explains the word *jantu* here as *jātāḥ* — 'those who are born, risen': the priests who take part in the sacrifice. *Bruvantu jantavaḥ* means 'let them utter mantras in the form of praise of Agni; let them make a hymn of Agni'."
+- **उत् अजनि** — *araṇyoḥ sakāśād utpannaḥ* — "born, in the sacrifice, from the two *araṇi* with the mantra spoken at the front; the sense is that the priests rubbed out Agni from the *araṇis* and he was born."
+- **वृत्रहा** — *vṛtrāṇām āvarakāṇāṃ śatrūṇāṃ hantā* — "the destroyer of the enemies who come out of desire for battle and obstruct. Here the commentator explains *vṛtra* as 'enemies who come to obstruct, in order to fight'. In some places the qualities of Indra, such as the slaying of Vṛtra, are ascribed to Agni in praising him; one might therefore say 'who killed Vṛtra'; but the meaning here is what the commentator has given."
+- **धनंजयः** — *śatrudhanānāṃ jetā* — "the winner of the wealth of enemies: since, when fighting, he defeats the enemies and gives their wealth to those who praise him, Agni is praised with the word *dhanaṃjaya*. The word *dhanaṃjaya* is also used of other deities:
+
+  > स पवस्व धनंजय प्रयन्ता राधसो महः ।
+  > *sa pavasva dhanaṃjaya prayantā rādhaso mahaḥ* (Ṛk. Saṃ. [9-?-?])
+
+  > धनंजयः पवते कृत्व्यो रसो विप्रः कविः काव्येना स्वर्चनाः ।
+  > *dhanaṃjayaḥ pavate kṛtvyo raso vipraḥ kaviḥ kāvyenā svarcanāḥ* (Ṛk. Saṃ. [9-?-?])" *(Both are Soma-mandala verses; the numerals are read from small print and are doubtful [?]; the source leaves them untranslated; glosses mine and tentative: "flow, O winner of wealth, great giver of bounty"; "the wealth-winning juice flows, the effective one, the wise seer, with his wisdom, well praised".)* *(continued on p. 436)*
+
+---
+
+**Progress note:** Printed pp. 1–435 done (PDF 19–453): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.2 complete; **Rik 74.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, English and most of the Special Topics (pp. 433–435) done; the Special Topics may continue on p. 436; the grammar page not yet seen. Next: p. 436 (PDF 454). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening liturgical sentence of the bhāṣya of 74.3 (p. 434) compressed and doubtful [?].
