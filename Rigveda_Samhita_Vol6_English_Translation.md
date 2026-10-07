@@ -5226,4 +5226,62 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–263 done (PDF 19–281): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): **Rik 70.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, and the grammar page begun (p. 263, ending at *cikitvān*). Next: p. 264 (PDF 282), the grammar page of Rik 70.1 concludes; then Riks 70.2–70.6 and the closing line of Sūkta 70 (then the user's two-sūkta request, 69 and 70, is done). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 264 (PDF 282)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70" as read.)*
+
+**Grammar page for Rik 70.1, concluded (noted briefly).** **चिकित्वान्** *(concluded)*: …the word *cikitvas*; in the nominative singular, *su* following, the lengthening of the penultimate; the *num* augment; the loss of *su*; the loss of the final conjunct consonant; by the affix accent the *ā* is acute. **मानुषस्य**: after the word *manu*, by "manor jātāv añyatau ṣuk ca" (Pā. Sū. 4-1-161) the affix *añ*; with it the augment *ṣuk* for the former member; by "taddhiteṣv acām ādeḥ" *vṛddhi* of the initial; the genitive singular; since it ends in the *ñ*-marked affix, the initial acute. **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 70.1 ends here (ornamental rule).*
+
+#### Rik 70.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् ।**
+> **अद्रौ चिदस्मा अन्तर्दुरोणे विशां न विश्वो अमृतः स्वाधीः ॥ ३ ॥ ४ ॥**
+> *garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām |*
+> *adrau cid asmā antar duroṇe viśāṃ na viśvo amṛtaḥ svādhīḥ || 3 || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **गर्भः । यः । अपाम् । गर्भः । वनानाम् । गर्भः । च । स्थाताम् । गर्भः । चरथाम् ।**
+> **अद्रौ । चित् । अस्मै । अन्तः । दुरोणे । विशाम् । न । विश्वः । अमृतः । सुऽआधीः ॥ ३ ॥ ४ ॥**
+> *garbhaḥ | yaḥ | apām | garbhaḥ | vanānām | garbhaḥ | ca | sthātām | garbhaḥ | carathām |*
+> *adrau | cit | asmai | antaḥ | duroṇe | viśām | na | viśvaḥ | amṛtaḥ | su-ādhīḥ || 3 || 4 ||*
+
+---
+
+### Page 265 (PDF 283)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 14 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **योऽग्निरपां गर्भो गर्भवदन्तर्वर्ती अपांनपात्संज्ञः । यश्च वनानामरण्यानां गर्भो दावाग्निरूपेण तन्मध्ये वर्तते । यश्च स्थातां स्थावराणां काष्ठादीनां गर्भोऽन्तरवस्थाता । चरथां चरणवतां जङ्गमानां गर्भो जाठररूपेण देहमध्येऽवतिष्ठते । एवंभूतायास्मा अग्नये दुरोणे दुष्प्रवेशेऽद्रौ चित् पर्वतेऽप्यन्तर्मध्ये हविः प्रयच्छन्तीति शेषः । सोऽयममृतोऽमरणधर्माग्निः स्वाधीः शोभनकर्मयुक्तः शोभनाध्यानो वा । अस्माकं भवत्विति शेषः । तत्र दृष्टान्तः । विश्वो निवेशयिता सुखेनावस्थापयिता राजा विशां न । प्रजानां यथा रक्षणरूपशोभनकर्मयुक्तो भवति तद्वत् ॥ स्थाताम् । तिष्ठतेः क्विपि छान्दसस्तुक् । यद्वा । औणादिकस्तृप्रत्ययः । आम्यन्तस्यालोपश्छान्दसः । चरथाम् । शीर्षश्चिरुगमि । उ. ३-११३ [?] इति विधीयमानोऽथप्रत्ययो बहुलवचनाच्चरेरपि द्रष्टव्यः । आगमानुशासनस्यानित्यत्वादामो नुडभावे सवर्णदीर्घः । विश्वः । विश प्रवेशने । अस्मादन्तर्भावितण्यर्थादेशिपृषीत्यादिना क्वन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं ॥**
+> *yo 'gnir apāṃ garbho garbhavad antarvartī apāṃnapāt saṃjñaḥ | yaś ca vanānām araṇyānāṃ garbho dāvāgnirūpeṇa tanmadhye vartate | yaś ca sthātāṃ sthāvarāṇāṃ kāṣṭhādīnāṃ garbho 'ntar avasthātā | carathāṃ caraṇavatāṃ jaṅgamānāṃ garbho jāṭhararūpeṇa dehamadhye 'vatiṣṭhate | evaṃbhūtāyāsmā agnaye duroṇe duṣpraveśe 'drau cit parvate 'py antar madhye haviḥ prayacchantīti śeṣaḥ | so 'yam amṛto 'maraṇadharmāgniḥ svādhīḥ śobhanakarmayuktaḥ śobhanādhyāno vā | asmākaṃ bhavatv iti śeṣaḥ | tatra dṛṣṭāntaḥ | viśvo niveśayitā sukhenāvasthāpayitā rājā viśāṃ na | prajānāṃ yathā rakṣaṇarūpaśobhanakarmayukto bhavati tadvat || sthātām | tiṣṭhateḥ kvipi chāndasas tuk | yadvā | auṇādikas tṛpratyayaḥ | āmyantasyālopaś chāndasaḥ | carathām | śīrṣaś cirugami | U. 3-113 [?] iti vidhīyamāno 'thapratyayo bahulavacanāc carer api draṣṭavyaḥ | āgamānuśāsanasyānityatvād āmo nuḍabhāve savarṇadīrghaḥ | viśvaḥ | viśa praveśane | asmād antarbhāvitaṇyarthād eśipṛṣītyādinā kvanpratyayaḥ | nittvād ādyudāttatvaṃ ||*
+> *"The Agni who is **garbhaḥ apām**, the embryo of the waters, within them like an embryo, named Apāṃnapāt; and who is **garbhaḥ vanānām**, the embryo of the forests, dwelling in their midst in the form of the forest fire; and who is **garbhaḥ sthātām**, the embryo of the immovable things such as wood, remaining within; and **garbhaḥ carathām**, the embryo of the moving beings, dwelling in the midst of the body in the form of the digestive fire. To Agni such as this, in the **duroṇe**, the place hard to enter, **adrau cit**, even in the mountain, **antaḥ**, in the midst, [they] offer oblations: that is the remainder. May that **amṛtaḥ** Agni, whose nature is immortality, **svādhīḥ**, of good works or good meditation, [be so] for us. The example: **viśvo viśāṃ na** — as a king, who settles his people comfortably, is possessed of the good work in the form of protecting the subjects, so. **Sthātām**: *kvip* after *sthā*, the Vedic *tuk*; or the Uṇādi affix *tṛ*; the loss of the *ā* before *ām* is Vedic. **Carathām**: the affix *atha* enjoined by 'śīrṣaś cirugami' (Uṇ. 3-113, as read, ?) is also to be seen after *car* by the 'bahula' licence; since the rule on augments is not constant, where the *nuṭ* of *ām* is absent, the same-class lengthening. **Viśvaḥ**: root *viśa praveśane*, with an included causal sense; *kvan* by 'eśipṛṣī…'; initial acute since *n*-marked."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**यः** — the Agni who; **अपाम् गर्भः** — one in the middle of the waters (the one called Apāṃnapāt); **वनानां गर्भः** — one in the forests (as the forest fire); **च** — and; **स्थातां गर्भः** — one in the immovable [wood etc.]; **चरथां गर्भः** — one in the moving beings (in their bellies); **अस्मै** — to such an Agni; **दुरोणे** — in the sacrificial houses; **अद्रौ चित्** — even on mountains; **अन्तः** — in the midst (they offer oblations); **अमृतः** — the deathless Agni; **विश्वः** — like the king who is a comfort to the subjects; **विशां न** — as in the matter of the subjects; **स्वाधीः** — may he be of good works in our matters.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* They offer oblations to Agni, who is in the middle of the water, in the forests, in all moving and unmoving things, in the sacrificial house, even in mountain places. May this deathless Agni, as a king who is eager for his subjects' welfare acts for their good, be of good deeds in our matters.
+
+---
+
+### Page 266 (PDF 284)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70" as read.)*
+
+**English Translation** *(the source's own, as printed):*
+
+> (They offer oblations) on the mountain, or in the mansion, to that Agni, who is within the waters, within woods, and within all movable and immovable things, immortal, and performing pious acts, like a benevolent (prince) among his people.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **अपां गर्भः** — *garbhavad antarvartī apāṃnapāt saṃjñaḥ* — "Agni is named *Apāṃnapāt* because he lives in the middle of the waters. This deity, Apāṃnapāt, is one of the middle-region deities. The word *apāṃnapāt* is read in the Nirukta (Ni. [10-?], as read). In this word, the word *napāt* is explained as 'offspring' (*apatya*); here it is used in the sense of 'grandson'. Explaining Agni as the grandson of the waters, the Ṛk '*apāṃ napāt…yo 'bhir indro vṛṣabhir…*' (Ṛk. Saṃ. 10-30-4, as read, ?) is quoted as an example [print compressed, ?]. Sāyaṇa explains that the sacrificers who offer oblations to Agni, who is famous under various names in the waters, the forests, the immovable things such as wood, and the moving beings, offer oblations even in places hard to enter — in the middle of mountains. Skandasvāmin says Agni has his dwelling in the mountains in this way, and also in the middle of the sacrificial hall where the sacrifice is performed."
+- **विशां न विश्वः अमृतः स्वाधीः** — *suṣena sthāpayitā rājā prajānāṃ rakṣaṇarūpaśobhanakarmayukto bhavati tathā amaraṇadharmā agniḥ śobhanādhyāno vā asmākaṃ bhavatu* — "as a king who ponders what is good for all subjects does what is favourable to them, so may Agni, in the form of a deity, grant what we have resolved. Sāyaṇa explains it by taking the *na* of the Nirukta as an *upamārtha* [word of comparison].
+  *Skandasvāmin:* on *viśām* — '*yaṣṭṝṇām, stotṝṇām*', 'of those who perform sacrifices, or of those who praise'; and *viśvaḥ* [he takes] as 'one who does all the works, therefore Agni has become established as a fully conceived deity'; and *na* [he takes] 'also, in the sense of *sampratī*' (Ni. [?]), and on the sentence '*yavān nāmram uṣaso na pratīkam*' (Ṛk. Saṃ. 10-[?]) gives its meaning with the clause that follows." *(Compressed; the Ṛgveda and Nirukta references are read doubtfully [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–266 done (PDF 19–284): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1 complete; **Rik 70.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics done (pp. 264–266); its grammar page is not yet seen. Next: p. 267 (PDF 285), the grammar page of Rik 70.2 (if there); then Riks 70.3–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; the Special Topics on p. 266 compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
