@@ -12813,4 +12813,88 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 ---
 
-**Progress note:** Printed pp. 1–565 done (PDF 19–583): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; seventh and last sūkta of Anuvāka 13 in this volume; Varga "29, 30, 31" as read [?]) begun: Sāyaṇa's introduction and Anuvāda (p. 563), heading block (p. 564) and **Rik 80.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first Special Topic (pp. 564–565) done; the remaining Special Topics and the grammar page of 80.1 not yet seen. Next: p. 566 (PDF 584). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 566 (PDF 584)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.1, continued from p. 565:*
+
+- **ओजसा, पृथिव्याः अहिं निश्शशाः** — "*balena pṛthivyāḥ sakāśād āgatya hantāraṃ vṛtraṃ niḥśaśāḥ niḥśeṣeṇa aśāḥ; mā bādhasveti śāsanaṃ kṛtvā pṛthivyāḥ sakāśāt nirgamayaḥ*: 'with strength, coming from the earth you drove off completely (*niḥśaśāḥ*) the slayer Vṛtra; having commanded "do not harass thus" you made him go out from the earth'. The word *ojas* is stated among the twenty-eight names of strength (Ni. [2-9] [?]). The sense is: Indra drove Vṛtra, who was destroying everything, out of the earth-world, ordering him 'Do not oppress thus'. The word *ahi* means 'slayer (the enemy who kills)'. Skandasvāmin has stated several senses for the word *ahi* in the Nirukta — water, cloud, the deity of the middle region — and therefore it means 'cloud'. Because the word *pṛthivī* is stated among the sixteen names of the *antarikṣa* (Ni. [1-3] [?]), here it is used in the sense of *antarikṣa*; hence 'O Indra, you are very strong' — they explain it as: 'drive the cloud out, so that rain falls from the *antarikṣa* on the earth'."
+- **ब्रह्मा** — *brāhmaṇaḥ stotā* — "in the sacrifice, the brāhmaṇa who praises, with their respective hymns, the gods who come to take their share of the oblation; or the sense is 'the priest called Brahmā'."
+- **वर्धनम्** — *vṛddhikaraṃ stotram* — "this word, formed from the root *vṛdhu vṛddhau*, means 'praise that causes increase', because it increases strength. The belief is that the strength of the gods grows through the praises made by men."
+- **स्वराज्यम्** — *rājño bhāvaḥ karma vā rājyam; svasya rājyaṃ svarājyam* — "being a way of acting fit to protect worthy subjects and to win their affection, or the position of one who performs such deeds, is called *rājya* (kingship). The prayer to Indra is that he should set bounds to such a *svarājya* and bring rain and the like to the earth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.1)** *(grammar page, noted briefly; runs to p. 567)*
+
+- **चकार** — the root *ḍukṛñ karaṇe* (डुकृञ् करणे); *liṭ*, third person singular; since *hi* [*hi cet*] is in connection (*itthā hi*), the nighāta accent is prohibited by "hi ca" (हि च, Pā. Sū. 8-1-34); the *ṇal* affix, being *ñit*, takes the udātta on the syllable before the affix by "liti" (लिति, Pā. Sū. 6-1-193).
+- **वर्धनम्** — the root *vṛdhu vṛddhau*; 'he who makes grow' = *vardhana*; the affix *lyuṭ* in the agent sense; *anā* for *yu* by "yuvor anākau" (युवोरनाकौ, Pā. Sū. 7-1-1); because of the affix the guṇa of the light penultimate vowel by "pugantalaghūpadhasya ca" (Pā. Sū. 7-3-86) *(continued on p. 567)*
+
+### Page 567 (PDF 585)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.1, continued from p. 566:*
+
+- **वर्धनम्** (continued) — "…the guṇa of the penultimate light vowel of the root; as before the affix, being *l*-marked, takes the udātta on the syllable preceding it."
+- **शविष्ठ** — *śavaḥ balam asya asti iti śavasvī*: by "asmāyāmedhā-srajo vini" (अस्मायामेधास्रजो विनिः, Pā. Sū. 5-2-121) the affix *vin* in the *matup* sense, since *śavas* does not end in *a*-vowels; in the superlative sense, by "atiśāyane tamabiṣṭhanau" (Pā. Sū. 5-3-55) the affix *iṣṭhan*; with it following, "vinmator lup" (विन्मतोर्लुक्, Pā. Sū. 5-3-65) elides the *vin*; "ṭeḥ" (टेः, Pā. Sū. 6-4-155) drops the *ṭi*; the vocative *śaviṣṭha*; being at the beginning of the pāda there is no *aṣṭamika* nighāta; "āmantritasya ca" (Pā. Sū. 6-1-198) makes it *ādyudātta*.
+- **शशाः** — the root *śāsu anuśiṣṭau*; *laṅ*, second person singular, *sip*; the *i* dropped by "iteś ca"; since *ślu* would be due to "adiprabhṛtibhyaḥ śapaḥ" (अदिप्रभृतिभ्यः शपः, Pā. Sū. 2-4-72) — *śap* *luk* being obtained — by "bahulaṃ chandasi" (Pā. Sū. 2-4-76) *ślu* is substituted; by "ślau" (श्लौ, Pā. Sū. 6-1-10) reduplication of the root; the reduplicative's *ha*-initial [sic: *śa*, "halādiḥ śeṣaḥ"] remains; by "hal-ṅyābbhyaḥ…" the loss of *sip*; by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; nighāta since *atiṅanta* in the pāda.
+- **स्वराज्यम्** — *rājño bhāvaḥ karma vā rājyam*: by "patyantapurohitādibhyo yak" (पत्यन्तपुरोहितादिभ्यो यक्, Pā. Sū. 5-1-128 [?]) the affix *yak*; there *rājāse* [?] is read (Pā. Sū. 5-1-[128 *gaṇa*]). The meaning is that for *rājan* the *a*-sound enters in the compound; by "nas taddhite" (नस्तद्धिते, Pā. Sū. 6-4-144) the *bha*-designation being present, the *ṭi* ending in *n* (*an*) is dropped; 'his own kingship' = *svarājya*; by "akarmadhāraye rājyam" (अकर्मधारये राज्यम्, Pā. Sū. 6-2-130 [?]) the initial udātta of the final member. ||1||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.2**
+
+> स त्वामदद्वृषा मदः सोमः श्येनाभृतः सुतः ।
+> येना वृत्रं निरद्भ्यो जघन्थ वज्रिन्नोजसार्चन्ननु स्वराज्यम् ॥ २ ॥
+
+*sa tvām adad vṛṣā madaḥ somaḥ śyenābhṛtaḥ sutaḥ |
+yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
+
+### Page 568 (PDF 586)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । त्वा । अमदत् । वृषा । मदः । सोमः । श्येनऽआभृतः । सुतः ।
+> येन । वृत्रम् । निः । अत्ऽभ्यः । जघन्थ । वज्रिन् । ओजसा । अर्चन् ।
+> अनु । स्वऽराज्यम् ॥ २ ॥
+
+*saḥ | tvā | amadat | vṛṣā | madaḥ | somaḥ | śyena-ābhṛtaḥ | sutaḥ | yena | vṛtram | niḥ | at-bhyaḥ | jaghantha | vajrin | ojasā | arcan | anu | sva-rājyam ||2||*
+
+*(Note: the Saṃhitā's* amadad vṛṣā *is printed with the accented pāda break as read; the Pada's* amadat *is as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र त्वां स सोमोऽमदत् । अमदयत् । हर्षं प्रापयत् । कीदृशः सोमः । वृषा सेचनस्वभावो मदो मदकरो हर्षकारी श्येनाभृतः श्येनरूपमापन्नया पक्ष्याकारया गायत्र्या दिवः सकाशादाहृतः सुतोऽभिषुतः । हे वज्रिन् वज्रवन्निन्द्र येन पीतेन सोमेनौजसा बलकरेणाद्भ्योऽन्तरिक्षसकाशाद्वृत्रं निर्जघन्थ हतवानसि । अन्यत्पूर्ववत् ॥ अमदत् । मदी हर्षे । अस्माण्णिचि [?] मदी हर्षग्लपनयोरिति घटादिषु पाठात् मित्त्वे सति मितां ह्रस्व इति ह्रस्वत्वम् । लङि छन्दस्युभयथेति शप आर्धधातुकत्वाण्णेरनिटीति णिलोपः । अद्भ्यः । आप इत्यन्तरिक्षनाम । अपो भि । पा. ७-४-४८ [?] इति पकारस्य तत्त्वम् । जघन्थ । क्रादिनियमप्राप्तस्येट उपदेशेऽत्वत इति प्रतिषेधः । अभ्यासाच्चेति हकारस्य घत्वम् । लिति प्रत्ययात्पूर्वस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥
+
+*he indra tvāṃ sa somo 'madat | amadayat | harṣaṃ prāpayat | kīdṛśaḥ somaḥ | vṛṣā secanasvabhāvo mado madakaro harṣakārī śyenābhṛtaḥ śyenarūpam āpannayā pakṣyākārayā gāyatryā divaḥ sakāśād āhṛtaḥ suto 'bhiṣutaḥ | he vajrin vajravann indra yena pītena somenaujasā balakareṇādbhyo 'ntarikṣasakāśād vṛtraṃ nirjaghantha hatavān asi | anyat pūrvavat || amadat | madī harṣe | asmāṇṇici [?] madī harṣaglapanayor iti ghaṭādiṣu pāṭhāt mittve sati mitāṃ hrasva iti hrasvatvam | laṅi chandasy ubhayatheti śapa ārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | adbhyaḥ | āpa ity antarikṣanāma | apo bhi | pā. 7-4-48 [?] iti pakārasya tattvam | jaghantha | krādiniyamaprāptasyeṭa upadeśe 'tvata iti pratiṣedhaḥ | abhyāsāc ceti hakārasya ghatvam | liti pratyayāt pūrvasyodāttatvam | yadvṛttayogād anighātaḥ ||*
+
+*Sense:* "O Indra, that Soma made you glad (*amadat* = *amadayat*, brought you joy). What kind of Soma? *Vṛṣā* — of the nature of showering (sprinkling); *madaḥ* — intoxicating, bringing joy; *śyenābhṛtaḥ* — brought from heaven by the Gāyatrī that took the form of a falcon, a bird-shape; *sutaḥ* — pressed. O *vajrin*, O Indra: by which Soma, drunk, you with strength (*ojasā*, the strength-giving) struck down (*nirjaghantha*) Vṛtra from the waters (*adbhyaḥ*, from the *antarikṣa*) — the rest as before." *The grammatical tail:* *amadat* — the root *madī harṣe*; …*mit* by being read among the *ghaṭādi* roots *madī harṣaglapanayoḥ*; *mitāṃ hrasvaḥ* shortens; in the *laṅ*, *śap* as *ārdhadhātuka*, with *ṇi*-elision; *adbhyaḥ* — *āpaḥ* is a name of the *antarikṣa*; by "apo bhi" (Pā. 7-4-48 [?]) the *p* becomes *t*; *jaghantha* — the augment *iṭ* that would arise by the *kr*-class rule is barred by "upadeśe 'tvataḥ"; "abhyāsāc ca" makes the *h* into *gh*; by *liti* the syllable before the affix is udātta; because of connection with *yat* (*yena*), no nighāta.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.2** *(Kannada)*
+
+- **वज्रिन्** — "O Indra, wielder of the thunderbolt"
+- **ओजसा** — "of the strength-giving"
+- **येन** — "by which Soma-juice drunk"
+- **स्वराज्यम्** — "your lordship"
+- **अनु अर्चन्** — "displaying well"
+- **अद्भ्यः** — "from the *antarikṣa*"
+- **वृत्रम्** — "the demon Vṛtra"
+- **निः जघन्थ** — "did you slay"
+- **सः** — "such"
+- **वृषा** — "of the nature of showering"
+- **मदः** — "joy-giving"
+- **श्येनाभृतः** — "brought (by the Gāyatrī in the form of a falcon, from heaven)"
+- **सुतः** — "prepared"
+- **सोमः** — "the Soma-juice"
+- **त्वा** — "you"
+- **अमदत्** — "made delighted."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.2** *(Kannada)*
+
+"O Indra, wielder of the thunderbolt, the Soma-juice, joy-giving and brought by the Gāyatrī in the form of a falcon, was prepared and pressed for you. Drinking that, which gives strength, you were gratified; and, displaying your own lordship, you drove Vṛtra away from the *antarikṣa*."
+
+---
+
+**Progress note:** Printed pp. 1–568 done (PDF 19–586): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: **Rik 80.1 complete** (grammar pp. 566–567); **Rik 80.2** — Saṃhitā (p. 567), Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 568) done; the source's English, Special Topics and grammar of 80.2 not yet seen. Next: p. 569 (PDF 587). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
