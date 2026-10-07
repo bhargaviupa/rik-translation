@@ -6864,4 +6864,54 @@ agnir bhuvad rayipatī rayīṇāṃ satrā cakrāṇo amṛtāni viśvā ||1||*
 
 ---
 
-**Progress note:** Printed pp. 1–334 done (PDF 19–352): Sūktas 62–71 complete (Sūkta 71's closing line on p. 332: "eppattondaneya sūkta samāptavu"). **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup; the eighth sūkta of Anuvāka 12; Varga "15, 16" as read [?]) begun: Sāyaṇa's introduction and heading (p. 333); **Rik 72.1** — Saṃhitā, Pada, bhāṣya (tail characterized) and the beginning of the Pratipadārtha done (pp. 333–334). Next: p. 335 (PDF 353), the rest of the Pratipadārtha of 72.1, Bhāvārtha, English, Special Topics and grammar page. Plan for the current "next 2 sūktas" request: Sūkta 71 is complete; finish Sūkta 72 (10 Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Atharva/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the clause "stotṛbhyo dhaneṣu…" in the bhāṣya of 72.1 doubtful [?].
+### Page 335 (PDF 353)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Pratipadārtha of Rik 72.1 (concluded from p. 334; Kannada):** *…ni kaḥ* — makes his own, turning toward himself; *agniḥ* — this Agni; *viśvā* — all; *amṛtāni* — gold; *satrā* — at one time; *cakrāṇaḥ* — doing (giving); *rayīṇām* — of wealth, of the best wealth; *rayipatiḥ* — becomes the lord of wealth.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni, holding in his own hand wealth dear to the praisers, himself accepts the hymns that the praisers have made with the eternal Brahmā in view. Giving all the gold swiftly to the praisers, he becomes the lord of wealth (since the wealth does not decrease).
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, holding in his hands many good things for men appropriates the prayers addressed to the eternal creator. Agni is the lord of riches, quickly bestowing (on those who plaise [sic] him) all golden (gifts).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In interpreting this Ṛk there is considerable difference between Sāyaṇa's explanation and Skandasvāmin's. Sāyaṇa's explanation is: *śaśvataḥ* — of the eternal; *vedhasaḥ* — of Brahmā, the creator; *kāvyā* — the hymns in the form of mantras; *ni kaḥ* — unfailingly, he makes his own; that is, Agni turns toward himself and makes his own all the hymns that the sacrificer has offered to Brahmā the creator — such is the purport.
+- Skandasvāmin's explanation: *agniḥ* — Agni; *śaśvataḥ* — of the many; *vedhasaḥ* — of the wise sacrificer; *kāvyā* — of the wise, i.e. of the intelligent (Agni) his own work, the carrying of oblations and the like; *ni kaḥ* — unfailingly he performs. Thus: the wise, i.e. intelligent, Agni accomplishes unfailingly his own duties such as the carrying of the sacrificer's oblations.
+- Of these two explanations Skandasvāmin's appears the more consistent. For although the meaning 'producer' for the word *vedhas* occurs in many places, in the Ṛk Saṃhitā it is taken to mean 'producer of the fruits of the sacrifice'; no use of this epithet in reference to Brahmā the creator is seen. The word *vedhas* is read among the names of the intelligent (*medhāvin*), *viprāḥ*, *vigraḥ*, *gṛtsaḥ* and so on (Ni. [3-15?]); therefore *vedhasaḥ* means 'of the intelligent sacrificer'…" *(continued on p. 336)*
+
+---
+
+### Page 336 (PDF 354)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.1 (continued)**
+
+- "…And the word *śaśvat* is read among the many names of 'many' — *uru*, *puru*, *tuvi* and so on (Ni. [3-13?]); *śaśvataḥ* means 'of many sacrificers' or 'of the sacrificer's many'; and to the word *kāvyāni*, since Agni is a *kavi* — wise, of a seeing intelligence — and the carrying of oblations is his duty, it is natural to explain *kāvyāni* as 'the works of the *kavi*, duties such as the carrying of oblations'. Mainly: the wise Agni performs unfailingly the works that the sacrificer entrusts to him. This explanation seems natural to the context."
+- **सत्रा** — "*Bat*, *śat*, *satrā* and so on are the six names of 'truth' (Ni. [3-13?]); *satrā* means 'truly', or sometimes 'at all times'."
+- **अमृतानि** — "*nityāni*, 'imperishable', or because of the śruti sentence *amṛtaṃ hiraṇyam* (Ath. Saṃ. [5-4-11?]), 'gold' — it may mean 'golden things'. By the first meaning: *amṛtāni* — 'the eternal things', the *havirniyanādi*, i.e. *viśvā*, all of them: he accomplishes all his own works, such as the carrying of the oblations."
+- **रयीणाम्** — *havirlakṣaṇānāṃ sarveṣāṃ yajamānadhanānām* — "of all the sacrificer's wealth in the form of oblations; *rayipatiḥ* — the master; or the master of all kinds of wealth."
+- **नर्या** — *naryaḥ*, *nṛbhyo hitaḥ*, *narāpatyam iti vā* (Ni. [11-?]) — "'good for men' or 'offspring': so the Nirukta-writer explains. Here too *naryā purūṇi* means exceedingly many and beneficial to the sacrificers, who are men; and *dadhānaḥ* — holding that wealth, always disposed to show favour; or holding the exceeding fruit in the form of offspring."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.1, noted briefly; not transcribed)*
+
+Words treated: *kāvyā* (neuter accusative plural, *śas* → *śi*; loss of *śi* by *śeś chandasi bahulam*); *kaḥ* (root *ḍukṛñ karaṇe*; *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; third person singular *tip*; loss of *i* by *iteś ca*; *cli* by *cli luṅi*; …by *mantre ghasa-hvara…*, Pā. [2-4-80], …) *(continued on p. 337)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 337 (PDF 355)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 22".)*
+
+**Grammar page of Rik 72.1 (concluded; noted briefly, not transcribed)**
+
+*kaḥ* (concluded): the loss of *cli*; guṇa of the root's *ṛ* because of *tip*; *raparatva* by *uraṇ raparaḥ*; the *t* lost by *halṅyābbhyo…* because the *tip* is *apṛkta* following a consonant; the *r* → visarga by *kharavasānayor visarjanīyaḥ*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aḍāgama*; nighāta since it follows an *atijanta*. *dadhānaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the present sense; *śluḥ* — *śnu*-type dropping — *juhotyādibhyaḥ śluḥ*; the root is doubled because of this, shortening and *jaśtva* in the reduplicate; *abhyastānām ādiḥ*, Pā. [6-1-189], gives the initial acute); *naryā* ("good for men": the word is in the *gavādi* list, so *yat* after *nara* by *ugavādibhyo yat*, Pā. [5-1-2]; or *tatra sādhuḥ*, Pā. [4-4-98], *yat* in the sense "good in that"; neuter accusative plural, *śi*-loss by *śeś chandasi bahulam*; initial acute by *yato 'nāvaḥ*, Pā. [6-1-213]); *rayipatiḥ* (*rayīṇāṃ patiḥ*; second member's initial acute by *patyāvaiśvaryo*, Pā. [6-2-18]); *cakrāṇaḥ* (root *ḍukṛñ karaṇe*; *śānac* in the present sense; *śnu* — *śluḥ* — in place of the vikaraṇa by *bahulaṃ chandasi*; doubling of the root by *ślau*; the reduplicate's *kuhoś cuḥ* gives *ca*; *ṛ* of the root becomes *r* [*yaṇ*]; the *n* after the *r* gets *ṇatva* by *aṭkupvāṅnumvyavāye 'pi*; thus *cakrāṇaḥ* would be accomplished; but since *abhyastānām ādiḥ* would give an initial acute, *liṭaḥ kānajvā* gives the *kānac*-substitution for *liṭ*; since it is *śit*-less, by *ārdhadhātukaṃ śeṣaḥ* it receives the designation *ārdhadhātuka*, and the reduplicate-based initial acute does not occur; then *cit*, by *cito 'ntodāttaḥ* (Pā. [6-1-163]), gives the final acute); *viśvā* (*śeś chandasi bahulam*, Pā. [6-1-70], neuter, *śi*-loss). Ends "॥ १ ॥". *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–337 done (PDF 19–355): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 72.1 complete (pp. 333–337). Next: p. 338 (PDF 356), **Rik 72.2**. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.2–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Atharva/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; Special Topics on pp. 335–336 compressed [?].
