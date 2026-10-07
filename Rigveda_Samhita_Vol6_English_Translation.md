@@ -9186,4 +9186,75 @@ dasmat kṛṇoṣy adhvaram ||4||*
 
 ---
 
-**Progress note:** Printed pp. 1–438 done (PDF 19–456): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.3 complete (74.3's Special Topics and grammar page on pp. 435–437); **Rik 74.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (p. 438). Next: p. 439 (PDF 457), the Bhāvārtha, English, Special Topics and grammar page of 74.4; then Riks 74.5–74.9 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 435–437 (read from small print) and the p. 436 second *raṇāya* verse doubtful, glosses tentative; "tam it tuṃ" in the bhāṣya of 74.4 [?].
+### Page 439 (PDF 457)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 74.4** *(Kannada)*
+
+The sacrificer in whose sacrificial house you are the messenger of the gods, whose oblations you convey and join to the gods, and whose sacrifice you make pleasing to the sight of all — such a one is called an excellent performer of sacrifice.
+
+**English Translation** *(the source's own, as printed):*
+
+> (The Sacrificer), in whose house you are the messenger of the Gods whose offering you convey for their food, and whose sacrifice you render acceptable.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **यस्य दूतो असि क्षये** — "Established in the sacrificial hall of the sacrificer who performs the sacrifice, you are the messenger who takes to the gods the oblations offered (poured) in you with the gods in view: such is the sense."
+- **क्षये** — *devayajanalakṣaṇe gṛhe* — "the word *kṣaya*, formed from the root *kṣi nivāsagatyoḥ*, means a dwelling-house; here *kṣaye* means the sacrificial hall where the sacrificer performs the sacrifice."
+- **वीतये** — *vī gatyādiṣu | vītaye devānāṃ bhakṣaṇāya* — "for the eating of the gods."
+- **वेषि** — "root *vī* in the senses of going and so on: *gamayasi* — you cause to go: you take."
+- **दस्मत्** — *sarvair darśanīyam* — "worthy to be looked at by all; beautiful; delightful" and so on.
+- "In this Ṛk the three separate subordinate clauses — *yasya dūto asi kṣaye*; *veṣi havyāni vītaye*; *dasmat kṛṇoṣy adhvaram* ('you make the sacrifice of that sacrificer pleasing to see, so that all are pleased') — are all, the commentator explains, adjectives (*viśeṣaṇa*) of the word *subarhiṣam* — 'one who is an excellent sacrificer' — in the next Ṛk."
+
+---
+
+### Page 440 (PDF 458)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.4, noted briefly; not transcribed)*
+
+Words treated: *asi* (root *as bhuvi*; *laṭ*, second person singular, *sip*; loss of the root's *s*-ending [*salopa*] by *tāsasthyor lopaḥ* [as read]; since the word *yasya* is connected, no nighāta by *yaddhṛttānnityam*, so the root accent remains). *veṣi* (root *vī gatyādiṣu*; since the sense of impelling is shown, the *ṇic*-sense included; *laṭ*, second person singular, *sip*; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; guṇa of the root's *ī* by *sārvadhātukārdhadhātukayoḥ*; *ṣatva* by *ādeśapratyayayoḥ*; no nighāta at the head of a pāda; *sip* being *pit*, anudātta, so the root accent remains). *dasmat* (root *dasi daṃsanadarśanayoḥ*; *mak* affix by *iṣiyudhīndhidasi…*, Uṇ. [1-?]; the form *dasma*; the second-case ending *am*, *pūrvarūpa* by *ami pūrvaḥ*; since in *dasmam* the *m* is changed to *t* by the Vedic letter-change; with the following *am*-vowel, ekādeśa; since the affix's accent makes the *a* after *m* udātta, by *ekādeśa udāttenodāttaḥ*, Pā. [8-2-5], the single replacement is udātta). *kṛṇoṣi* (root *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, second person singular, *sip*; the *u* affix by *dhinvikṛṇvor a ca*, Pā. [3-1-80], with *a* for the final *v*; *num* by *idito num dhātoḥ*; *kṛṇ* + *u* + *si*, loss of *a* by *ato lopaḥ*; by *ac aḥ parasmin pūrvavidhau* the *sthānivat* rule prevents guṇa of the light penultimate caused by *u*; *ṇatva* of *n* after *ṛ*; guṇa of *u* because of *sip*; the form *kṛṇoṣi*; since *yasya* is connected, nighāta is prohibited; since the *u*-affix's accent remains, the word is middle-acute). Ends "॥ ४ ॥".
+
+---
+
+### Page 441 (PDF 459)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.5** *(printed Ṛk "5 ||")*
+
+> तमित्सुहव्यमङ्गिरः सुदेवं सहसो यहो ।
+> जना आहुः सुबर्हिषम् ॥ ५ ॥
+
+*tam it suhavyam aṅgiraḥ sudevaṃ sahaso yaho |
+janā āhuḥ subarhiṣam ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> तम् । इत् । सुऽहव्यम् । अङ्गिरः । सुऽदेवम् । सहसः । यहो इति । जनाः । आहुः । सुऽबर्हिषम् ॥ ५ ॥
+
+*tam | it | su-havyam | aṅgiraḥ | su-devam | sahasaḥ | yaho iti | janāḥ | āhuḥ | su-barhiṣam ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे सहसो यहो बलस्य पुत्र । आंगिरो ऽंगनादिगुणयुक्ताग्ने । यो यजमानः पूर्वमुक्तस्तमित् तमेव यजमानं सुहव्यं शोभनहविष्कं सुदेवं शोभनदैवतं सुबर्हिषं । बर्हिरिति यज्ञनाम । शोभनयज्ञं च जनाः सर्वे मनुष्या आहुः । कथयंति ॥ सुहव्यमित्यादिषु नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । सहसो यहो । सुबामंत्रित इति परांगवद्भावात्सष्ठ्यामंत्रितसमुदायस्याष्ट-मिक्रमामंत्रितासूदात्तत्वं ॥
+
+*he sahaso yaho balasya putra | āṅgiro 'ṅganādiguṇayuktāgne | yo yajamānaḥ pūrvam uktas tam it tam eva yajamānaṃ suhavyaṃ śobhanahaviṣkaṃ sudevaṃ śobhanadaivataṃ subarhiṣaṃ | barhir iti yajñanāma | śobhanayajñaṃ ca janāḥ sarve manuṣyā āhuḥ | kathayanti || suhavyam ity ādiṣu nañsubhyām ity uttarapadāntodāttatvaṃ | sahaso yaho | subāmantrita iti parāṅgavadbhāvāt ṣaṣṭhyāmantritasamudāyasyāṣṭamikramāmantritāsūdāttatvaṃ ||*
+
+*(Reading note: the last sentence of the tail is compressed and doubtful in several syllables [?].)*
+
+*Meaning:* O son of strength (*sahasaḥ yaho*), O Aṅgiras, Agni endowed with the qualities such as *aṅgana*: that sacrificer spoken of before — all men say (*āhuḥ*) that very sacrificer to be *suhavya* (possessing excellent oblations), *sudeva* (having an excellent deity) and *subarhiṣa* (*barhis* is a name for sacrifice: performing an excellent sacrifice).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*sahasaḥ yaho* — O son of strength; *aṅgiraḥ* — O Aṅgiras (Agni); *tam it* — that very sacrificer (spoken of before); *suhavyam* — one with auspicious oblations; *sudevam* — one with an excellent deity; *subarhiṣam* — one whose sacrifice is auspicious; *janāḥ* — people; *āhuḥ* — they say.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni Aṅgiras, son of strength! All people say that the sacrificer (spoken of before) is of fortunate oblations, of the honourable deity, and of the proper sacrifice — as fortunate in all three.
+
+---
+
+**Progress note:** Printed pp. 1–441 done (PDF 19–459): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.4 complete (74.4: Special Topics p. 439, grammar page p. 440); **Rik 74.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (p. 441). Next: p. 442 (PDF 460), the source's English, Special Topics and grammar page of 74.5; then Riks 74.6–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the tail of the bhāṣya of 74.5 compressed [?].
