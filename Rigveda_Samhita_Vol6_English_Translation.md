@@ -12005,4 +12005,83 @@ In the word *asme* of this Ṛk the seventh case, *asmāsu*, 'in us'."
 
 ---
 
-**Progress note:** Printed pp. 1–539 done (PDF 19–557): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.3 complete**; **Rik 79.4** (first of the Uṣṇih Ṛks) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English (pp. 536–537) and the Special Topics (pp. 537–539, Yāska's seven-case illustrations of *asme*, the Ṛk references all [?]) done; the grammar page of 79.4 not yet seen. Next: p. 540 (PDF 558). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 540 (PDF 558)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.4)** *(grammar page, noted briefly)*
+
+- **गोमतः** — *gāvaḥ asya santi* = *gomān*; of him: the affix *matup* by "tad asyāsty asminn iti matup" (Pā. Sū. 5-2-94); because of the mark *p* it is anudātta. Sixth-case singular.
+- **सहसो यहो** — as a vocative it has the designation *āmantrita*; since *sahasaḥ* precedes *yaho*, by "subāmantrite parāṅgavat svare" (सुबामन्त्रिते पराङ्गवत्स्वरे, Pā. Sū. 2-1-2) the *parāṅgavat* treatment (as part of what follows) arises; then, for the group together with the sixth-case ending, by "āmantritasya ca" (आमन्त्रितस्य च, Pā. Sū. 8-1-19) the nighāta accent comes.
+- **अस्मे** — the stem *asmad*; the seventh-case plural *sup* following, by "supāṃ suluk…" (सुपां सुलुक्…, Pā. Sū. 7-1-39) the case-ending is replaced by *śe*; since it has *ś* it is a replacement of the whole (*sarvādeśa*); by "śeśe lopaḥ" (?) / "śeṣe lopaḥ" the *ad* of *asmad*, of the form ending in *ma*, is dropped; thus *asme*.
+- **धेहि** — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ* (डुधाञ् धारणपोषणयोः); *loṭ*, second person singular; *hi* is substituted for *sip*; "juhotyādibhyaḥ śluḥ" (जुहोत्यादिभ्यः श्लुः, Pā. Sū. 2-4-75) gives *ślu*; reduplication of the root by "ślau" (श्लौ, Pā. Sū. 6-1-10); then "ghvasor ed dhāv abhyāsalopaś ca" (घ्वसोरेद्धावभ्यासलोपश्च, Pā. Sū. 6-4-119) — the loss of the reduplicative and *e* for the root; nighāta accent since *atiṅanta* in the pāda.
+- **श्रवः** — the root *śru śravaṇe* (श्रु श्रवणे); by "sarvadhātubhya asun" (सर्वधातुभ्य असुन्, Uṇ. Sū. 4-[188?] [?]) the affix *asun*; the guṇa of the *ik* of the root because of the *n*-mark; *av* replacement; by "ñnityādir nityam" (Pā. Sū. 6-1-197) the initial udātta. ||4||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 541 (PDF 559)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.5**
+
+> स इधानो वसुष्कविरग्निरीळेन्यो गिरा ।
+> रेवदस्मभ्यं पुर्वणीक दीदिहि ॥ ५ ॥
+
+*sa idhāno vasuṣ kavir agnir īḷenyo girā |
+revad asmabhyaṃ purvaṇīka dīdihi ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । इधानः । वसुः । कविः । अग्निः । ईळेन्यः । गिरा ।
+> रेवत् । अस्मभ्यम् । पुरुऽअनीक । दीदिहि ॥ ५ ॥
+
+*saḥ | idhānaḥ | vasuḥ | kaviḥ | agniḥ | īḷenyaḥ | girā | revat | asmabhyam | puru-anīka | dīdihi ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> सोऽग्निरिधानो दीपनशीलो वसुर्निवासयिता सर्वेषां कविः क्रान्तदर्शनो मेधावी वा गिरा स्तोत्ररूपया वाचेळेन्यः स्तोतव्यो भवति । हे पुरुणीक अनीकं मुखम् । पुरुभिर्बह्वीभिरनीकस्थानीयाभिर्ज्वालाभिर्युक्ताग्ने अस्मभ्यं रेवद्धनयुक्तमन्नं यथा भवति तथा दीदिहि । दीप्यस्व ॥ इधानः । ञिइन्धी दीप्तौ । ताच्छीलिकश्चानश् । बहुलं छन्दसीति शपो लुक् । ईळेन्यः । ईड स्तुतौ । औणादिक एन्यप्रत्ययः । रेवत् । रयेर्मतौ बहुलमिति सम्प्रसारणम् । छन्दसीर इति मतुपो वत्वम् । रेशब्दाच्च मतुप उदात्तत्वं वक्तव्यम् । का. ६-१-१६६-१ [?] इति मतुप उदात्तत्वम् ॥ दीदिहि । दीदेतिश्छान्दसो दीप्तिकर्मा ॥
+
+*so 'gnir idhāno dīpanaśīlo vasur nivāsayitā sarveṣāṃ kaviḥ krāntadarśano medhāvī vā girā stotrarūpayā vācā īḷenyaḥ stotavyo bhavati | he puruṇīka anīkaṃ mukham | purubhir bahvībhir anīkasthānīyābhir jvālābhir yuktāgne asmabhyaṃ revad dhanayuktam annaṃ yathā bhavati tathā dīdihi | dīpyasva || idhānaḥ | ñi-indhī dīptau | tācchīlikaś cānaś | bahulaṃ chandasīti śapo luk | īḷenyaḥ | īḍa stutau | auṇādika enyapratyayaḥ | revat | rayer matau bahulam iti saṃprasāraṇam | chandasīra iti matupo vatvam | reśabdāc ca matupa udāttatvaṃ vaktavyam | kā. 6-1-166-1 [?] iti matupa udāttatvam || dīdihi | dīdetiś chāndaso dīptikarmā ||*
+
+*Sense:* "That Agni, blazing (*idhānaḥ* = of kindling nature), *vasu* (the one who causes all to dwell), *kavi* (of far-reaching vision, or wise), is to be praised (*īḷenyaḥ* = *stotavyaḥ*) by speech (*girā*) of the nature of praise. O *puruṇīka* — *anīka* means 'face' — O Agni, who have many (*puru*) faces in the form of flames, shine (*dīdihi* = *dīpyasva*) for us in such a way that food accompanied by wealth (*revat*) may be ours." *The grammatical tail:* *idhānaḥ* — root *ñi-indhī dīptau*; *cānaś* in the habitual sense; "bahulaṃ chandasi" gives *luk* of *śap*; *īḷenyaḥ* — root *īḍa stutau*; the affix *enya* of the Uṇādi group; *revat* — from *rayi*, in the *matup* context, by "bahulam" the *saṃprasāraṇa*; by "chandasīra" the *matup* becomes *vat*; after the word *re* the accent of *matup* is udātta (by the statement); Kāśikā 6-1-166, vārttika 1 [?]; *dīdihi* — *dīdeti* is a Vedic root of the sense of shining.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.5** *(Kannada)*
+
+- **सः अग्निः** — "that Agni"
+- **इधानः** — "one who has the nature of burning"
+- **वसुः** — "who provides dwelling-places"
+- **कविः** — "one who knows all that has passed (the wise)"
+- **गिरा** — "with words (of the form of praise)"
+- **ईळेन्यः** — "one fit to be praised"
+- **(हे) पुरुणीक** — "O Agni, endowed with flames that are like many faces"
+- **अस्मभ्यम्** — "to us"
+- **रेवत्** — "so that food endowed with wealth be (ours)"
+- **दीदिहि** — "shine."
+
+### Page 542 (PDF 560)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.5** *(Kannada)*
+
+"The omniscient one, the maker of dwellings, of blazing nature — that Agni — is to be praised with praises. O Agni, whose mouth is bright with many flames, shine for us so that food endowed with (excellent) wealth may be ours."
+
+**English Translation** *(printed in English in the source)*
+
+"He, the blazing Agni, who is wise, and the granter of dwellings, is to be praised by our hymns: Oh; you whose mouth (glows) with many (flames) shine (propitiously so) that food-providing wealth may be ours." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.5)**
+
+- **पुरुणीक** — *anīkaṃ mukham* — "*puru-bhir bahvībhir anīkasthānīyābhir jvālābhir yuktaḥ*: *anīka* means 'face'; *puru* means 'many'. Agni, who has many flames in the place of mouth (as faces). As people eat with the mouth, Agni eats up (burns) everything with his flame. So, as the mouth is for people, the flame is for Agni. Because he has many such flames, the ṛṣi, by the figure of comparison (*upamārtha*), addresses Agni as 'O Agni of many faces'."
+- **इधानः, कविः, वसुः** — "These words are in general used when Agni is praised."
+- **रेवत्** — *dhanayuktam annam* — "'food provided with wealth' means 'both wealth and food': the prayer is that he should give."
+- **दीदिहि** — "Among the eleven words (…) which indicate the actions of shining, beginning with *bhrājate, bhrāśate*, the word *dīdayati* occurs (Ni. [1-17?] [?]); *dīdayati* means 'shining'; so *dīdihi* means 'shine'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.5)** *(grammar page, noted briefly; begins at the foot of p. 542)*
+
+- **इधानः** — the root *ñi-indhī dīptau* (ञिइन्धी दीप्तौ); in the habitual sense (*tacchīlārtha*) the affix *cānaś* by "tācchīlyavayovacanaśaktiṣu cānaś" (ताच्छील्यवयोवचनशक्तिषु चानश्, Pā. Sū. 3-2-129); the mark *ś* makes it a *sārvadhātuka*; *śap* by "kartari śap" (Pā. Sū. 3-1-68); *luk* for it by "bahulaṃ chandasi" (Pā. Sū. 2-4-73); "sārvadhātukam apit" (सार्वधातुकमपित्, Pā. Sū. 1-2-4) …*(the entry runs on to p. 543)*
+
+---
+
+**Progress note:** Printed pp. 1–542 done (PDF 19–560): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.4 complete** (grammar of 79.4 on p. 540); **Rik 79.5** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 541), Bhāvārtha, English, Special Topics (p. 542) done; its grammar page begins at the foot of p. 542 (*idhānaḥ*, mid-entry) and continues on p. 543 (PDF 561). Next: p. 543 (PDF 561). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
