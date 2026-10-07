@@ -10106,4 +10106,74 @@ O Agni! What effort should we make to win over your mind? What kind of praise of
 
 ---
 
-**Progress note:** Printed pp. 1–470 done (PDF 19–488): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): heading and **Rik 76.1** (printed "1 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (pp. 468–470) done; the Special Topics break off at the foot of p. 470 in the *dakṣam* note (Skandasvāmin's citation); the grammar page not yet seen. Next: p. 471 (PDF 489). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation on p. 470 doubtful [?].
+### Page 471 (PDF 489)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 76.1 (concluded)**
+
+- **दक्षम्** (continued from p. 470) — "…quoting this Ṛk [Skandasvāmin shows] that the word *dakṣa* also gives the sense *mano vacano vā* — 'mind' or 'speech': in this connection —
+
+  > इन्द्र श्रेष्ठानि द्रविणानि धेहि चित्तिं दक्षस्य सुभगत्वमस्मे ।
+  > *indra śreṣṭhāni draviṇāni dhehi cittiṃ dakṣasya subhagatvam asme* (Ṛk. Saṃ. [2-21-6])
+
+  in this Ṛk, he explains, the word *dakṣa* is a word for mind. By this he explains *tavātmānaṃ mano vā paryāpa sarvato vyāpnotīti* — 'what is the means of pervading, by every way, your self or your mind? Knowing it, may we, offering you oblations, perform the rites that win your love.' The word *dakṣa* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. [2-9?]). This word occurs both with final *a* and with final *s*. Skandasvāmin, saying *dakṣatiḥ utsāhārthaḥ* — and *dakṣa iti sakārāntaṃ balanāma* — 'the word *dakṣas*, ending in *s*, is a name of strength' — gives, in support of this matter, the Ṛks:
+
+  > मित्रं हुवे पूतदक्षं वरुणं च रिशादसम् ।
+  > *mitraṃ huve pūtadakṣaṃ varuṇaṃ ca riśādasam* (Ṛk. Saṃ. [1-2-7])
+
+  > मित्रं वयं हवामहे वरुणं सोमपीतये । जज्ञाना पूतदक्षसा ॥
+  > *mitraṃ vayaṃ havāmahe varuṇaṃ somapītaye | jajñānā pūtadakṣasā* (Ṛk. Saṃ. [1-23-4])" *(Glosses mine and tentative: "O Indra, set in us the best treasures, the thought and the good fortune of *dakṣa*"; "I call Mitra of pure strength, and Varuṇa the devourer of foes"; "we call Mitra and Varuṇa for the soma-drinking, born of pure strength".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.1, noted briefly; not transcribed)*
+
+Words treated: *upetiḥ* (prefix *upa*; root *iṇ gatau*; *ktin* in the abstract sense by *striyāṃ ktin*, Pā. [3-3-94]; since an affix with *t* follows [*tādau ca niti*, Pā. [6-2-50]], the *gati* [*upa*] keeps its natural accent). *varāya* (root *vṛṅ varaṇe*; since the causative sense is shown, the root has the *ṇic* sense included; the affix *ap* by *grahavṛdṛniścigamaś ca*, Pā. [3-3-58]; guṇa of the root's *ṛ*; the *ap* being *pit*, anudātta by *anudāttau supitau*, so the root accent remains). *bhuvat* (root *bhū sattāyām*; *leṭ*, third person singular, *tip*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*; *aḍ* by *leṭo 'ḍāṭau*; loss of *śap* by *bahulaṃ chandasi*; since only a *tiṅ* follows, guṇa of the root's *ū* is prohibited by *bhūsuvos tiṅi*, Pā. [7-3-88]; *uvaṅ* by *aci śnudhātubhruvām*; the form *bhuvat*; no nighāta at the head of a pāda; *sip* [tip] being *pit*, anudātta; the root accent remains). *dakṣam* (root *dakṣa vṛddhau*; *ghañ* in the abstract or instrumental sense; being *ñit*, the initial acute by *ñnityādir nityam*, Pā. [6-1-197]; accusative singular). *āpa* (root *āpḷ vyāptau*; *liṭ*, third person singular; nighāta because it follows an *atijanta*). *dāśema* (root *dāś dāne*; *vidhiliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*; *yāsuṭ*-augment; *iya* substitution; loss of *y*; nighāta because it follows an *atijanta*). Ends "॥ १ ॥".
+
+---
+
+### Page 472 (PDF 490)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+*(The grammar page of Rik 76.1 is thus given on pp. 471–472: p. 472 begins mid-sentence in the treatment of *bhuvat*, which I completed above — "…guṇa is prohibited for the root's *i*-final … by *aci śnudhātubhruvām* the *uvaṅ* substitution; the form *bhuvat*; no nighāta at the head of a pāda; *sip* being *pit*, anudātta; the root accent remains" — and then *dakṣam*, *āpa* and *dāśema* as given.)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.2** *(printed Ṛk "2 ||")*
+
+> एह्यग्न इह होता नि षीदादब्धः सु पुरएता भवा नः ।
+> अवतां त्वा रोदसी विश्वमिन्वे यजा महे सौमनसाय देवान् ॥ २ ॥
+
+*ehy agna iha hotā ni ṣīdādabdhaḥ su puraetā bhavā naḥ |
+avatāṃ tvā rodasī viśvaminve yajā mahe saumanasāya devān ||2||*
+
+---
+
+### Page 473 (PDF 491)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 76.2**
+
+> आ । इहि । अग्ने । इह । होता । नि । सीद । अदब्धः । सु । पुरःऽएता । भव । नः ।
+> अवताम् । त्वा । रोदसी इति । विश्वमिन्वे इति विश्वम्ऽइन्वे । यज । महे । सौमनसाय । देवान् ॥ २ ॥
+
+*ā | ihi | agne | iha | hotā | ni | sīda | adabdhaḥ | su | puraḥ-etā | bhava | naḥ | avatām | tvā | rodasī iti | viśvaminve iti viśvam-inve | yaja | mahe | saumanasāya | devān ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.2** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने एहि । आगच्छ । इहास्मिन्यज्ञे होता देवानामाह्वाता सन्नि षीद । उपविश । नो ऽस्माकं पुरएता पुरतो गंता सु भव । सुष्ठु भव । यस्मात्त्वमदब्धो राक्षसादिभिरहिंस्यो ऽसि । तादृशं त्वां विश्वमिन्वे । सर्वं व्याप्नुवत्यौ रोदसी द्यावापृथिव्यौ त्वा त्वामवतां । रक्षतां । आगत्योपविश्य च द्यावापृथिवीभ्यां रक्षितश्च सन् महे महते सौमनसाय सौमनस्याय देवान्नाद्यादिगुणयुक्तानिंद्रादीन्यज । हविर्भिः पूजय ॥ नि षीद । सदेरप्रतेरिति षत्वं । सौमनसाय । सुमनसो भावः सौमनसं । तस्येदमिति संबंधसामान्य इत्यण्प्रत्ययः । स चात्र भावलक्षणे संबंधविशेषे पर्यवस्यति । यद्वा । हायनांतयुवादिभ्यो ऽण् । पा. [५-१-१३०?] । इति भावे ऽण् । युवादिष्वस्य पाठो द्रष्टव्यः ॥
+
+*he agne ehi | āgaccha | ihāsmin yajñe hotā devānām āhvātā san ni ṣīda | upaviśa | no 'smākaṃ puraetā purato gantā su bhava | suṣṭhu bhava | yasmāt tvam adabdho rākṣasādibhir ahiṃsyo 'si | tādṛśaṃ tvāṃ viśvaminve | sarvaṃ vyāpnuvatyau rodasī dyāvāpṛthivyau tvā tvām avatāṃ | rakṣatāṃ | āgatyopaviśya ca dyāvāpṛthivībhyāṃ rakṣitaś ca san mahe mahate saumanasāya saumanasyāya devān nādyādiguṇayuktān indrādīn yaja | havirbhiḥ pūjaya || ni ṣīda | sader aprater iti ṣatvaṃ | saumanasāya | sumanaso bhāvaḥ saumanasaṃ | tasyedam iti saṃbandhasāmānya ity aṇpratyayaḥ | sa cātra bhāvalakṣaṇe saṃbandhaviśeṣe paryavasyati | yadvā | hāyanāntayuvādibhyo 'ṇ | pā. [5-1-130?] | iti bhāve 'ṇ | yuvādiṣv asya pāṭho draṣṭavyaḥ ||*
+
+*(Reading note: "nādyādiguṇayuktān" is read as printed (apparently "possessing qualities such as being eaters of food, *annāda*"); the Pāṇini numeral is doubtful [?].)*
+
+*Meaning:* O Agni, come (*ehi*); sit down (*ni ṣīda*) here (*iha*) in this sacrifice as the *hotṛ* — the invoker of the gods; be a good leader (*puraetā*) to us, going before us, since you are unassailable (*adabdhaḥ*), not to be injured by demons and the like. May heaven and earth (*rodasī*), which pervade all (*viśvaminve*), protect (*avatām*) you. Having come, seated, and protected by heaven and earth, worship (*yaja*) for the great (*mahe*) good-will (*saumanasāya*) the gods — Indra and the rest — with oblations.
+
+**Grammatical tail** *(characterized)*: *ni ṣīda* (*ṣatva* by *sader aprateḥ*); *saumanasāya* (from *sumanas*, "the state of being of good mind"; *aṇ* by *tasyedam* in the general sense of relation, which here ends in the specific relation of state; or *aṇ* in the abstract sense by *hāyanāntayuvādibhyo 'ṇ*, Pā. [5-1-130?], *sumanas* being read in the *yuvādi* class).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *ehi* — come; *iha* — in this sacrifice; *hotā* — (as one who invokes the gods); *ni sīda* — sit down; *adabdhaḥ* — (you who are) not to be injured by demons and the like; *naḥ* — our; *puraetā* — going before; *su bhava* — be well; *viśvaminve* — pervading all; *rodasī* — heaven and earth; *tvā* — (such) you; *avatām* — may protect; *mahe* — great; *saumanasāya* — for the delight of the mind; *devān* — the gods (Indra and the rest); *yaja* — worship (with oblations and the like).
+
+---
+
+**Progress note:** Printed pp. 1–473 done (PDF 19–491): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Rik 76.1 complete (Special Topics p. 471, grammar page pp. 471–472; NB the note on p. 472 explains that p. 472's first lines belong to the *bhuvat* entry already completed on p. 471); **Rik 76.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (pp. 472–473). Next: p. 474 (PDF 492), the Bhāvārtha, English, Special Topics and grammar page of 76.2; then Riks 76.3–76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the p. 471 *dakṣam* citations read from small print, glosses tentative; the page-471/472 split of the grammar page of 76.1 was folded (see note under p. 472) [?].
