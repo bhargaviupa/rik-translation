@@ -5065,4 +5065,60 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–254 done (PDF 19–272): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1–69.3 complete; **Rik 69.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics done (pp. 252–254); its grammar page not yet seen. Next: p. 255 (PDF 273), the grammar page of Rik 69.4 (if printed there), then Rik 69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the compressed *nakiḥ* remark on p. 254 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 255 (PDF 273)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 69.4 (noted briefly).** **एता, व्रता**: in the neuter plural, the substituted *śi* is lost by "śeś chandasi bahulam". **मिनन्ति**: root *mīñ hiṃsāyām*, *kryādi*; since it belongs to the *pvādi* list, the shortening by "pvādīnāṃ hrasvaḥ" (Pā. Sū. 7-3-80); the vikaraṇa *śnā* by "kryādibhyaḥ śnā"; *jhi* → *ant*; since non-*p*-marked, *ñit*-like, so by "śnābhyastayor ātaḥ" the loss of the *ā* of the vikaraṇa; since it follows an acute-ending word, the *nighāta* accent. **चकर्थ**: root *ḍukṛñ karaṇe*; *liṭ*, second person singular, the substitute *tha* [*thal*]; because of the rule on *kryādi*, *iṭ* does not come; since *yat* precedes, no *nighāta*; since *thal* is *l*-marked, by "liti" the syllable before the affix is acute. **अहन्**: root *han hiṃsāgatyoḥ*; the form of the third person singular *laṅ*; since *yat* precedes, the *nighāta* is prohibited; since the augment is acute, the initial acute. **विवेः**: root *vī gatyādiṣu*; by "chandasi luṅlaṅliṭaḥ" the *laṅ* in the present sense; in the second person singular the affix *sip*; by "itaś ca" the loss of its *i*; where the *luk* of *śap* would come by "adiprabhṛtibhyaḥ śapaḥ", by "bahulaṃ chandasi" *śluḥ* in place of *śap*; by "ślau" the doubling of the root; by "hrasvaḥ" shortening in the reduplicative syllable; *guṇa* of the root's *i* because *sip* conditions it; *s* → *ru*/*visarga*; since *yat* precedes, the *nighāta* is prevented, so the *e* is acute by the root accent. **रपांसि**: root *rapa vyaktāyāṃ vāci*; the roots have several meanings, so here it is used in the sense of obstruction; by "sarvadhātubhyo 'sun" the affix *asun*; since *n*-marked, the initial acute; accusative plural. **॥ ७–८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 69.4 ends here (ornamental rule).*
+
+---
+
+### Page 256 (PDF 274)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+#### Rik 69.5 *(printed "9 || 10 ||" — the last Rik of Sūkta 69)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **उषो न जारो विभावोस्रः संज्ञातरूपश्चिकेतदस्मै ।**
+> **त्मना वहन्तो दुरो व्यृण्वन्नवन्त विश्वे स्वर्दृशीके ॥ ९ ॥ १० ॥**
+> *uṣo na jāro vibhāvosraḥ saṃjñātarūpaś ciketad asmai |*
+> *tmanā vahanto duro vy ṛṇvan navanta viśve svar dṛśīke || 9 || 10 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **उषः । न । जारः । विभाऽवा । उस्रः । संज्ञातऽरूपः । चिकेतत् । अस्मै ।**
+> **त्मना । वहन्तः । दुरः । वि । ऋण्वन् । नवन्त । विश्वे । स्वः । दृशीके ॥ ९ ॥ १० ॥**
+> *uṣaḥ | na | jāraḥ | vibhā-vā | usraḥ | saṃjñāta-rūpaḥ | ciketat | asmai |*
+> *tmanā | vahantaḥ | duraḥ | vi | ṛṇvan | navanta | viśve | svaḥ | dṛśīke || 9 || 10 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **उषो न जार उषसो जरयितादित्य इव विभावा विशिष्टप्रकाशयुक्त उस्रो निवासयिता संज्ञातरूपः सर्वैः प्राणिभिरवगतस्वरूपः । देवतान्तरवदप्रत्यक्षो न भवतीत्यर्थः । एवंभूतोऽग्निरस्मै यजमानाय चिकेतत् । जानातु । अभिमतफलं ददात्विति भावः । यद्वा । विभक्तिव्यत्ययः । अस्मा इदं सूक्तरूपं स्तोत्रं चिकेतत् । जानातु । तथास्य रश्मयस्तृणात्मनैव स्वयमेव वहन्तो हविर्वहनं कुर्वन्तो दुरो यज्ञगृहद्वाराणि व्यृण्वन् । विशेषेण गच्छन्ति । व्याप्नुवन्तीत्यर्थः । तदनन्तरं दृशीके दर्शनीये स्वर्नभसि विश्वे सर्वे ते रश्मयो नवन्त । गच्छन्ति । नवतिर्गतिकर्मा । देवान्प्राप्नुवन्तीत्यर्थः ॥ उस्रः । वस निवासे । स्थायितंभेत्यादिना रक् । यजादित्वात्संप्रसारणं । चिकेतत् । कित ज्ञाने । जौहोत्यादिकः । लेट्यडागमः । बहुलं छन्दसीति वक्तव्यं । का. २-४-८२-१ ॥ इति वचनादभ्यस्तस्यापि पिति लघूपधगुणप्रतिषेधाभावः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । ऋण्वन् । इवि रिवि रवि धवि गत्यर्थाः । इदित्त्वान्नुम् । छान्दसो लङ् । व्यत्ययेन रेफस्य संप्रसारणं । यद्वा । ऋणु गतौ । तनोत्यादिः ॥**
+> *uṣo na jāra uṣaso jarayitādity iva vibhāvā viśiṣṭaprakāśayukta usro nivāsayitā saṃjñātarūpaḥ sarvaiḥ prāṇibhir avagatasvarūpaḥ | devatāntaravad apratyakṣo na bhavatīty arthaḥ | evaṃbhūto 'gnir asmai yajamānāya ciketat | jānātu | abhimataphalaṃ dadātv iti bhāvaḥ | yadvā | vibhaktivyatyayaḥ | asmā idaṃ sūktarūpaṃ stotraṃ ciketat | jānātu | tathāsya raśmayas tṛṇātmanaiva svayam eva vahanto havirvahanaṃ kurvanto duro yajñagṛhadvārāṇi vy ṛṇvan | viśeṣeṇa gacchanti | vyāpnuvantīty arthaḥ | tadanantaraṃ dṛśīke darśanīye svar nabhasi viśve sarve te raśmayo navanta | gacchanti | navatir gatikarmā | devān prāpnuvantīty arthaḥ || usraḥ | vasa nivāse | sthāyitaṃbhetyādinā rak | yajāditvāt saṃprasāraṇaṃ | ciketat | kita jñāne | jauhotyādikaḥ | leṭy aḍāgamaḥ | bahulaṃ chandasīti vaktavyaṃ | Kā. 2-4-82-1 || iti vacanād abhyastasyāpi piti laghūpadhaguṇapratiṣedhābhāvaḥ | abhyastānām ādir ity ādyudāttatvaṃ | ṛṇvan | ivi rivi ravi dhavi gatyarthāḥ | iditvān num | chāndaso laṅ | vyatyayena rephasya saṃprasāraṇaṃ | yadvā | ṛṇu gatau | tanotyādiḥ ||*
+> *"Like the dawn's **jāraḥ** — the sun, the one who makes the dawn grow old — **vibhāvā**, with special radiance, **usraḥ**, one who causes dwelling [i.e. the day], **saṃjñātarūpaḥ**, of form known to all beings: he is not invisible like other deities. Such an Agni **asmai ciketat** — may he know, i.e. may he grant, to this sacrificer the desired fruit; or, by exchange of case: may he know this praise in the form of a sūkta. And his rays, **tmanā**, of themselves, bearing the oblation, **duraḥ vy ṛṇvan** — go specially to the doors of the sacrificial house, pervade; then, in the beautiful (**dṛśīke**) sky, **viśve**, all those rays **navanta** — go; *navati* is a verb of motion: they reach the gods. **Usraḥ**: root *vasa nivāse*; *rak* by 'sthāyitambha…'; *samprasāraṇa* since it belongs to the *yajādi* list. **Ciketat**: root *kita jñāne*, of the *juhotyādi* class; the *aṭ* in the *leṭ*; by the Kāśikā statement [2-4-82-1, as read, ?] there is no prohibition of *laghūpadha-guṇa* even for the reduplicated stem before a *p*-marked [affix]; initial acute by 'abhyastānām ādiḥ'. **Ṛṇvan**: the roots *ivi, rivi, ravi, dhavi* mean motion; *num* because *idit*; Vedic *laṅ*; *samprasāraṇa* of the *r* by exchange; or: root *ṛṇu gatau*, of the *tanādi* class."* *(Grammar tail compressed; the Kāśikā numeral and the *ṛṇvan* derivation doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**उषो न जारः** — like the sun who makes the dawn grow old; **विभावा** — of special radiance; **उस्रः** — one who makes dwelling (day) [Agni]; **संज्ञातरूपः** — of a form known to all; **अस्मै** — to this sacrificer (and this praise); **चिकेतत्** — may he know (and give the desired fruit); **त्मना** — of themselves (the rays); **वहन्तः** — bearing the oblations; **दुरः** — the doors of the sacrificial house; **व्यृण्वन्** — go specially; **दृशीके** — in the visible; **स्वः** — in the sky; **विश्वे** — all the rays; **नवन्त** — go.
+
+---
+
+### Page 257 (PDF 275)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]"; at the foot the signature mark "VI 17".)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* May Agni, of special radiance like the sun that lessens the glow of dawn, who carries the oblations of the sacrificers, who is directly visible to all (not invisible like the other deities), grant the sacrificer the fruit he wishes. The rays of Agni themselves carry the oblations, go out of the doors of the sacrificial house, light the sky, and go to the heavenly world, taking the oblations to the other gods.
+
+**English Translation** *(the source's own, as printed):*
+
+> May Agni, who is possessed of manifold light, like the extinguisher of the dawn, the granter of habitation, and of cognizable form, know (the desires of) this, (his worshipper) ; (his rays), spontaneously bearing the oblation, open the doors (of the sacrificial chamber), and all spread through the visible heaven.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **उषो न जारः विभावा** — *uṣasaḥ jārayitā āditya iva viśiṣṭaprakāśayuktaḥ* — "the word *na* is read among the words of comparison (Ni. [1-4]) in the sense *iva*. Like the sun, who lessens the radiance of dawn, Agni is of abundant light" *(continues on p. 258).*
+
+---
+
+**Progress note:** Printed pp. 1–257 done (PDF 19–275): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1–69.4 complete; **Rik 69.5** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 257). Next: p. 258 (PDF 276), the rest of the Special Topics and the grammar page of Rik 69.5, the closing line of Sūkta 69; then **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; accent marks of the Saṃhitā/Pada not reproduced.
