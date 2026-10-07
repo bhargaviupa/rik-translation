@@ -5354,4 +5354,71 @@ Agni, who is related to the night, and is the destroyer of the demons for the sa
 
 ---
 
-**Progress note:** Printed pp. 1–269 done (PDF 19–287): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.2 complete including the grammar page of 70.2 (p. 267); **Rik 70.3** (printed "5 || 6 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (Agni *kṣapāvān*; Skandasvāmin) done (pp. 267–269); the Special Topics break off at the foot of p. 269. Next: p. 270 (PDF 288), the rest of the Special Topics of 70.3 and its grammar page; then Riks 70.4–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the bracketed completion "aram[alaṃ]" in the bhāṣya and the Special Topics accent remark on p. 269 doubtful [?].
+### Page 270 (PDF 288)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**Special Topics of Rik 70.3 (continued from p. 269):** "…by the explanation '*kṣapayanti nirvīryatāṃ*' [they make weak — as read, ?], the word *kṣapā* has the sense of 'praise'. By praising the gods their weakness is destroyed and their strength increased. In this way, for the praises that are the cause, Agni is explained as *kṣapāvān*."
+
+- **चिकित्वः** — *cetanāvān sarvajñaḥ "cikitvāṃś cetanāvān"* (Ni. [1-11?]) *iti yāskaḥ* — "The knowing one, all-knowing: because he knows everything, Agni is called all-knowing. Yāska explains the word *cikitvān*, formed from the root *kit* 'to know', as 'one possessing consciousness, a knowing one'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.3, noted briefly; not transcribed)*
+
+Words treated: *kṣapāvān* (*matup*; *mādupadhāyāḥ…*, the *ma* of *matup* becomes *va* after a stem ending in *a*; *matup* being *pit*, anudātta); *rayīṇām* (genitive in the sense of the dative, since the "recipient" is the *karman* of the giving — "*karmaṇā yam abhipraiti sa saṃpradānam*", with the remark "*kartavyam*" as read; accent of the *nāmin*, Pā. [6-1-?]); *dāśat* (root *dāś*, *leṭ*, *tip*; loss of *i* by *itaś ca lopaḥ*; *aḍāgama* by *leṭo 'ḍāṭau*; no nighāta accent since not at the head of a pāda; the root-accent remains by *tāsyanudāttet…*); *aram* (*alam*, with *l* optionally *r* by "*vālamūla…*"); *sūktaiḥ* (root *vac*, *kta*; samprasāraṇa by *vacisvapiyajādīnām*, Pā. [6-1-15]; accent on the last of the second member by *sūpamānāt ktaḥ*, Pā. [6-2-139]); *etā* (neuter accusative plural, *śi* replaced; loss of *śi* by *śeś chandasi bahulam*); *cikitvaḥ* (vocative, *ru* for the *n* by *matuvasor ruḥ sambuddhau*, Pā. [8-3-1]). *Grammar page, noted briefly; numerals read as printed, [?].*
+
+---
+
+### Page 271 (PDF 289)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 70.3 (concluded; noted briefly):** *bhūma* (feminine stem in *i*; the *ḍā*-substitution for the ending by *supāṃ sulug…*; because of the *ḍit* the stem loses its *ṭi* [final *i*] though it lacks *bha*-designation; shortening occurs in the Padakāla by Vedic usage); *pāhi* (root *pā* "to protect", *loṭ* second person singular; nighāta accent because it follows *ā-ti-jan…* [as read, ?]). Ends "॥ ५–६ ॥" (as read). *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.4** *(printed Ṛk "7 || 8 ||", as read [?])*
+
+> वर्धान्यं पूर्वीः क्षपो विरूपाः स्थातुश्च रथमृतप्रवीतम् ।
+> अराधि होता स्वर्निषत्तः कृण्वन्विश्वान्यपांसि सत्या ॥ ७ ॥ ८ ॥
+
+*vardhān yaṃ pūrvīḥ kṣapo virūpāḥ sthātuś ca rathām ṛtapravītam |
+arādhi hotā svar niṣattaḥ kṛṇvan viśvāny apāṃsi satyā ||7||8||*
+
+*(Reading note: the Pada, printed below, divides the first word as *vardhān | yam*; the Saṃhitā is therefore "vardhān yaṃ". The Kannada numerals of the Ṛk number are hard to read — "7 || 8" is a best reading [?]. In the Saṃhitā the printed "रथमृत-" is carried over the line-end to "प्रवीतम्". Accents not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> वर्धान् । यम् । पूर्वीः । क्षपः । विऽरूपाः । स्थातुः । च । रथम् । ऋतऽप्रवीतम् ।
+> अराधि । होता । स्वः । निऽसत्तः । कृण्वन् । विश्वानि । अपांसि । सत्या ॥ ७ ॥ ८ ॥
+
+*vardhān | yam | pūrvīḥ | kṣapaḥ | vi-rūpāḥ | sthātuḥ | ca | ratham | ṛta-pravītam | arādhi | hotā | svaḥ | ni-sattaḥ | kṛṇvan | viśvāni | apāṃsi | satyā ||7||8||*
+
+---
+
+### Page 272 (PDF 290)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> पूर्वीर्बह्व्य उषसः क्षपो निशाश्च विरूपाः शुक्लकृष्णतयो विविधरूपाः सत्यो यमग्निं वर्धान् वर्धयंति । तथा स्थातुः स्थावरं वृक्षादिकं रथं रमणं(?) जंगमं मनुष्यादिकं च ऋतेप्रवीतमृतेनोदकेन सत्येन यज्ञेन वा प्रकर्षेण वेष्टितं यमग्निं वर्धयंति । सोऽग्निः सः सुष्ठुस्वरणीये देवयजने निषत्तो निषण्ण उपविष्टः सन् होता देवानामाह्वातारादि(अराधि) । संसिद्धोऽभूत् । यद्वा । ऋत्विग्भिरराधि । आराधित इत्यर्थः । किं कुर्वन् । विश्वानि सर्वाणि सत्या सत्सु यजमानेषु भवानि यद्वा सत्यफलान्यपांसि कर्माणि कृण्वन् कुर्वन् ॥ वर्धान् । वृधेर्ण्यंताल्लेट्याडागमः । छंदस्युभयथेति शप आर्धधातुकत्वात् णिलोपः । इतश्च लोप इतीकारलोपे संयोगांतलोपः । ऋतप्रवीतं । व्येञ् संवरणे । अस्माक्कर्मणि निष्ठा । वचिस्वपीत्यादिना संप्रसारणं । कृद्ग्रहणे(?) गतिकारकपूर्वस्य ग्रहणात्तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । आराधि । राध साध संसिद्धौ । कर्तरि लुङ् व्यत्ययेन च्लेश्चिण् ॥
+
+*pūrvīr bahvya uṣasaḥ kṣapo niśāś ca virūpāḥ śuklakṛṣṇatayo vividharūpāḥ satyo yam agniṃ vardhān vardhayanti | tathā sthātuḥ sthāvaraṃ vṛkṣādikaṃ ratham ramaṇaṃ(?) jaṅgamaṃ manuṣyādikaṃ ca ṛtepravītam ṛtenodakena satyena yajñena vā prakarṣeṇa veṣṭitaṃ yam agniṃ vardhayanti | so 'gniḥ saḥ suṣṭhu-svaraṇīye devayajane niṣatto niṣaṇṇa upaviṣṭaḥ san hotā devānām āhvātā arādhi | saṃsiddho 'bhūt | yadvā | ṛtvigbhir arādhi | ārādhita ity arthaḥ | kiṃ kurvan | viśvāni sarvāṇi satyā satsu yajamāneṣu bhavāni yadvā satyaphalāny apāṃsi karmāṇi kṛṇvan kurvan || vardhān | vṛdher ṇyantāl leṭy āḍāgamaḥ | chandasy ubhayatheti śapa ārdhadhātukatvāt ṇilopaḥ | itaś ca lopa itīkāralope saṃyogāntalopaḥ | ṛtapravītaṃ | vyeñ saṃvaraṇe | asmākkarmaṇi niṣṭhā | vacisvapīty-ādinā saṃprasāraṇaṃ | kṛdgrahaṇe(?) gatikārakapūrvasya grahaṇāt tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | ārādhi | rādha sādha saṃsiddhau | kartari luṅ vyatyayena ca cleś ciṇ ||*
+
+*(Reading note: the print is clear but small; "ramaṇaṃ" for the *ratham* gloss, "kṛdgrahaṇe" and the "asmākkarmaṇi" of the grammar tail are doubtful [?]. The bhāṣya's own grammatical tail begins at "vardhān", and is characterized below, not transcribed further.)*
+
+*Meaning:* The many dawns, the nights, of various forms — bright and dark — increase this Agni; so too the standing things (trees and the like) and the moving things (men and the like) increase this Agni, who is enveloped in water, in truth, or in sacrifice (*ṛta-pravīta*). That Agni, seated in the worthy place of sacrifice where the gods are worshipped, the invoker of the gods, has been propitiated (*arādhi*) — brought to perfection; or "propitiated by the priests". Doing what? Performing all deeds that are true — that are in the good sacrificers, or whose fruits are true.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *vardhān* (the causative of *vṛdh*; *leṭ* with the *āḍ*-augment; loss of *ṇi* when *śap* is treated as ārdhadhātuka; loss of the final consonant of the cluster); *ṛtapravītam* (root *vyeñ* "to cover"; *niṣṭhā* with a passive sense; samprasāraṇa by *vacisvapi…*; the first member keeps its own accent by the tṛtīyā-karman rule); *arādhi* (root *rādh/sādh* "to accomplish"; *luṅ* in the active sense by *vyatyaya*, *ciṇ* for *cli*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*pūrvīḥ* — many (dawns); *kṣapaḥ* — nights; *virūpāḥ* — of various forms (bright and dark and so on); *yam* — which Agni; *vardhān* — they cause to grow; *sthātuḥ* — the standing ones, trees and the like; *rathaṃ ca* — and the moving, men and other beings; *ṛtapravītam* — [him] encircled by water (by truth, by sacrifice); *vardhān* — they cause to grow; (*saḥ* — that Agni); *svaḥ* — in the sacrificial hall; *viśvāni* — all; *satyā* — (established in the sacrificer); *apāṃsi* — deeds; (*viśvā apāṃsi* — all deeds; *satyā* — with true fruits); *kṛṇvan* — doing; *niṣattaḥ* — seated; *hotā* — the invoker of the gods; *arādhi* — has been propitiated (by the priests).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+May Agni, grown by the many dawns of white and dark colours and by the nights, grown by the standing things such as trees (the material of the sacrifice) and the moving men and the rest (the creatures), grown by water; propitiated by the priests in the sacrificial hall, calling the other gods to the sacrifice, make all the deeds done by the sacrificer bear true fruits.
+
+*(The page ends with the Bhāvārtha; the source's English and Special Topics of Rik 70.4 follow on p. 273.)*
+
+---
+
+**Progress note:** Printed pp. 1–272 done (PDF 19–290): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.3 complete (the grammar page of 70.3 on pp. 270–271); **Rik 70.4** (printed "7 || 8 ||", numerals [?]) — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (pp. 271–272); the source's English, Special Topics and grammar page of 70.4 not yet seen. Next: p. 273 (PDF 291); then Riks 70.5–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.4 and the bhāṣya's "ramaṇaṃ"/"kṛdgrahaṇe" doubtful [?].
