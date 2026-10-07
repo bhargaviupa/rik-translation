@@ -10948,4 +10948,100 @@ Words treated: *gotamebhiḥ* ("descendants of Gotama" — *gotamasyāpatyāni p
 
 ---
 
-**Progress note:** Printed pp. 1–506 done (PDF 19–524): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.4 complete; **Rik 77.5** (the last; printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 504–506) and most of the grammar page (up to *pīpayat*) done; the grammar page continues on p. 507, followed by the closing line of Sūkta 77. Next: p. 507 (PDF 525). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the middle of the bhāṣya tail of 77.5 (p. 504) and the cross-reference "ṛtāvā explained…" on p. 506 doubtful [?].
+### Page 507 (PDF 525)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 77.5 (concluded; noted briefly)**
+
+*pīpayat* (concluded): by *sanyataḥ*, Pā. [7-4-79], the reduplicate takes *i*; *dīrgho laghoḥ*, Pā. [7-4-94], lengthens it; loss of *ṇi* by *ṇer aniṭi*, Pā. [6-4-51], since *caṅ* is the cause; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; nighāta because it follows an *atijanta*. *joṣam* (root *juṣī prītisevanayoḥ*; *ghañ* in the abstract sense; guṇa of the light penultimate by *pugantalaghūpadhasya ca*; accusative singular; being *ñit*, the initial acute). Ends [with the sūkta's closing line]:
+
+> ಎಪ್ಪತ್ತೇಳನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು
+
+*(eppattēḷaneya sūkta samāptavu* — "The seventy-seventh sūkta is concluded.")*
+
+**— End of Sūkta 77.** *(Sūkta 77: five Ṛks, Agni; Gotama Rāhūgaṇa; Triṣṭup. The varga numerals of its pages — "25" at the head — are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 78
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು — "The seventy-eighth sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script)*
+
+> अभि त्वेति पंचर्चं पंचमं सूक्तं गोतमस्यार्षमाग्नेयं गायत्रं । तथा चानुक्रांतं । अभि त्वा गायत्रं पंचेति ॥ विनियोगो लैंगिकः ॥
+
+*abhi tveti pañcarcaṃ pañcamaṃ sūktaṃ gotamasyārṣam āgneyaṃ gāyatraṃ | tathā cānukrāntaṃ | abhi tvā gāyatraṃ pañceti || viniyogo laiṅgikaḥ ||*
+
+*Meaning:* "*Abhi tvā*" is the fifth sūkta, of five Ṛks, the vision of Gotama, addressed to Agni, in Gāyatrī metre; the Anukramaṇī says "*abhi tvā*, gāyatra, five". Its application is *laiṅgika* (by the indication of the text).
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*abhi tvā gotamā*", is the fifth sūkta in the thirteenth anuvāka. It has five Ṛks. Gotama is the ṛṣi, Agni the deity, Gāyatrī the metre. The Anukramaṇikā says "*abhi tvā gāyatraṃ pañca*". The application is *laiṅgika*.
+
+---
+
+### Page 508 (PDF 526)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+**सूक्त — ७८ (Sūkta 78)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७८ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 78.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२६?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "26" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Gāyatrī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.1**
+
+> अभि त्वा गोतमा गिरा जातवेदो विचर्षणे ।
+> द्युम्नैरभि प्र णोनुमः ॥ १ ॥
+
+*abhi tvā gotamā girā jātavedo vicarṣaṇe |
+dyumnair abhi pra ṇonumaḥ ||1||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अभि । त्वा । गोतमाः । गिरा । जातऽवेदः । विऽचर्षणे ।
+> द्युम्नैः । अभि । प्र । नोनुमः ॥ १ ॥
+
+*abhi | tvā | gotamāḥ | girā | jāta-vedaḥ | vi-carṣaṇe | dyumnaiḥ | abhi | pra | nonumaḥ ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे जातवेदो जातानां वेदितर्विचर्षणे विशेषेण सर्वस्य द्रष्टः । एवंभूताग्ने त्वा त्वां गोतमा अस्य सूक्तस्य द्रष्टा गोतमो ऋषिः । ऋषेरेकत्वे ऽपि पूजार्थं बहुवचनं । गिरा स्तोत्रलक्षणया वाचाभ्यभिमुख्येनास्तौदिति शेषः । तद्वद्वयमपि त्वां द्युम्नैः स्वदीयगुणप्रकाशकैर्मंत्रैरभि प्र णोनुमः । अभिमुख्येन पुनःपुनः स्तुमः ॥ नोनुमः । णु स्तुतौ । अस्माद्यङ्लुगंताल्लट् । उपसर्गादसमासे ऽपीति णत्वं ॥
+
+*he jātavedo jātānāṃ veditar vicarṣaṇe viśeṣeṇa sarvasya draṣṭaḥ | evaṃbhūtāgne tvā tvāṃ gotamā asya sūktasya draṣṭā gotamo ṛṣiḥ | ṛṣer ekatve 'pi pūjārthaṃ bahuvacanaṃ | girā stotralakṣaṇayā vācābhyabhimukhyenāstaud iti śeṣaḥ | tadvad vayam api tvāṃ dyumnaiḥ svadīyaguṇaprakāśakair mantrair abhi pra ṇonumaḥ | abhimukhyena punaḥ punaḥ stumaḥ || nonumaḥ | ṇu stutau | asmād yaṅluṅantāl laṭ | upasargād asamāse 'pīti ṇatvaṃ ||*
+
+*(Reading note: "yaṅluṅantāl" is printed so, for *yaṅlugantāt*; the sūtra reading "upasargād asamāse 'pi ṇopadeśasya" is shortened in the print [?].)*
+
+*Meaning:* O *jātavedaḥ* — knower of what is born — O *vicarṣaṇe* — in particular seer of all — Agni: Gotama (*gotamāḥ*), the seer of this sūkta — the plural is for honour though the sage is one — praised (*astaut*, supplied) you with the word (*girā*) in the form of hymns, facing you; as he did, we too praise you, repeatedly (*nonumaḥ*), facing you, with *dyumnaiḥ* — with mantras that make known your own qualities.
+
+**Grammatical tail** *(characterized)*: *nonumaḥ* (root *ṇu stutau*; *yaṅluk*; *laṭ*; *ṇatva* after the prefix).
+
+---
+
+### Page 509 (PDF 527)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.1** *(Kannada)*
+
+*jātavedaḥ* — knower of all that is born; *vicarṣaṇe* — O Agni, who sees all in particular; *tvā* — you; *gotamāḥ* — the sages of Gotama's line (seers of this sūkta); *girā* — with words in the form of praise; *abhi* — facing (you they praised, and we too); *dyumnaiḥ* — with (mantras) that make known (your) qualities; *abhi pra ṇonumaḥ* — we praise facing (you), again and again.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O all-knowing, all-seeing Agni! The descendants of Gotama praise you with words in the form of praise; as they did, we too, facing you, praise you again and again with mantras that make known your qualities.
+
+**English Translation** *(the source's own, as printed):*
+
+> Knower and beholder of all that exists, Gotama celebrates you Agni, with praise; we praise you repeatedly with commendatory (hymns).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **गोतमाः** — "the sages of Gotama's line. Though there is a plural word *gotamāḥ* in this Ṛk, Sāyaṇa has explained that the plural is used for honour, and that therefore this word should be given only the singular sense 'the sage Gotama'. Since Gotama himself is the ṛṣi of this sūkta, this explanation of the commentator is consistent. In modern language too, writers and authors, when mentioning their own names in their works, habitually use the plural words 'we' and 'our'; so here too it must be held that the usage is of this kind. Or, for the word *gotamāḥ* the sense 'the sage Gotama and his sons, grandsons and other descendants' may also be given."
+- **विचर्षणे** — *viśeṣeṇa sarvasya draṣṭaḥ* — "one who sees all in particular."
+- **द्युम्नैः** — "the explanation of this word was given in the preceding Ṛk. Though the word *dyumna* has the sense 'radiance', the commentator supplies the word *mantraiḥ* and explains it as 'with praises that make known your qualities'."
+
+---
+
+**Progress note:** Printed pp. 1–509 done (PDF 19–527): **Sūktas 62–77 complete** (Sūkta 77's closing line, p. 507: "eppattēḷaneya sūkta samāptavu"). **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; the fifth sūkta of Anuvāka 13; application *laiṅgika*; Varga "26" as read [?]) begun: introduction, Anuvāda (p. 507), heading (p. 508) and **Rik 78.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 508–509) done; the grammar page of 78.1 not yet seen. Next: p. 510 (PDF 528). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
