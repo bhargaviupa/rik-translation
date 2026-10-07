@@ -8255,4 +8255,70 @@ Words treated: *nityam* (by the vārttika *tyab-nedhruva iti vaktavyam* [as read
 
 ---
 
-**Progress note:** Printed pp. 1–399 done (PDF 19–417): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.3 complete; **Rik 73.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 397–399) and the first part of the grammar page (up to *agne*) done. Next: p. 400 (PDF 418), the rest of the grammar page of 73.4; then Rik 73.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 398–399 (as read) and their glosses tentative [?].
+### Page 400 (PDF 418)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.4 (concluded; noted briefly, not transcribed)**
+
+*sacante* (root *ṣaca samavāye*; *laṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; third person plural, *jhi* → *anta* by *jho 'ntaḥ*; the initial *ṣ* → *s* by *dhātvādeḥ ṣaḥ saḥ*; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the vocative *agne* before it is treated as "not existing" by *āmantritaṃ pūrvam avidyamānavat*, so, with the tiṅanta not at the head of the pāda… [the print: since it stands at the beginning of the pāda, no nighāta]; the *laṅ*'s *sārvadhātuka* ending is anudātta by *tāsyanudāttet…* in the *adupadeśa* root, so the root accent remains). *kṣitiṣu* (root *kṣi nivāsagatyoḥ*; *ktic* by *ktic ktau ca saṃjñāyām*; final acute by *citaḥ*; locative plural). *dadhuḥ* (root *ḍudhāñ*; *liṭ*, third person plural; nighāta because it follows an *atijanta*). *bhava* (root *bhū sattāyām*; *loṭ*, second person singular, *sip* → *hi*; loss of *hi* by *ato heḥ*; lengthening in saṃhitā by *dvyaco 'tastiṅaḥ*, Pā. [6-3-135], an exception to the loss of *hi*, since the word is of two syllables). *viśvāyuḥ* (*viśvam āyuḥ yasya saḥ*; bahuvrīhi; the first member's natural accent by *bahuvrīhau prakṛtyā pūrvapadam*). *dharuṇaḥ* (root *dhṛṅ avasthāne* [and *dhṛ dhāraṇe*]; the causative sense, *ṇic* by *hetumati ca*; after the *ṇijanta*, the affix *una* by *dhāre ṇiluk ca* [as read]; loss of *ṇi*; guṇa; *raparatva* by *uraṇ raparaḥ*; *ṇatva* of the affix's *n* by *aṭkupvāṅ…*; the affix's initial acute makes the word middle-acute). *rayīṇām* (*nāmanyatarasyām*: the *nām* ending gets udātta). Ends "॥ ४ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.5** *(printed Ṛk "5 ||")*
+
+---
+
+### Page 401 (PDF 419)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 26".)*
+
+> वि पृक्षो अग्ने मघवानो अश्युर्वि सूरयो ददतो विश्वमायुः ।
+> सनेम वाजं समिथेष्वर्यो भागं देवेषु श्रवसे दधानाः ॥ ५ ॥
+
+*vi pṛkṣo agne maghavāno aśyur vi sūrayo dadato viśvam āyuḥ |
+sanema vājaṃ samitheṣv aryo bhāgaṃ deveṣu śravase dadhānāḥ ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> वि । पृक्षः । अग्ने । मघऽवानः । अश्युः । वि । सूरयः । ददतः । विश्वम् । आयुः ।
+> सनेम । वाजम् । सम्ऽइथेषु । अर्यः । भागम् । देवेषु । श्रवसे । दधानाः ॥ ५ ॥
+
+*vi | pṛkṣaḥ | agne | magha-vānaḥ | aśyuḥ | vi | sūrayaḥ | dadataḥ | viśvam | āyuḥ | sanema | vājam | sam-itheṣu | aryaḥ | bhāgam | deveṣu | śravase | dadhānāḥ ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.5** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने मघवानो हविर्लक्षणेन धनेन युक्ता यजमानाः पृक्षोऽन्नानि व्यश्युः । व्याप्नुवंतु । त्वदनुग्रहीताः सर्वाण्यन्नानि लभंताम् । ये च सूरयो विद्वांसस्त्वां स्तुवंति । ददतो ये च तुभ्यं हवींषि ददतः प्रयच्छंतो वर्तंते ते सर्वे विश्वमायुः सर्वं जीवनं व्यश्युः । व्याप्नुवंतु । वयं च समिथेषु संग्रामेष्वर्यो ऽरेः शत्रोः संबंधिनं वाजमन्नं सनेम । त्वदनुग्रहात्संभजेमहि । तदनंतरं देवेषु त्वत्प्रमुखेष्विंद्रादिषु श्रवसे यशसे तदर्थं भागं हविर्भागं दधानाः स्थापयंतो भूयास्मेति शेषः ॥ अश्युः । अशू व्याप्तौ । व्यत्ययेन परस्मैपदं । बहुलं छंदसीति विकरणस्य लुक् । दधतः । नाभ्यस्ताच्छतुः । नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । सनेमु । वन षण संभक्तौ । व्यत्ययेन शः [?] । आर्यः । अरिशब्दात्षष्ठ्येकवचने जसादिषु छंदसि वा वचनमिति घेर्ज्यर्तीति गुणाभावे यणादेशः । अरिशब्द आच इरीतीप्रत्ययांतोंतोदात्तः । उदात्तयण इति विभक्तेरुदात्तत्वं । भागं । कर्षाप्वत इत्यंतोदात्तत्वं ॥
+
+*he agne maghavāno havirlakṣaṇena dhanena yuktā yajamānāḥ pṛkṣo 'nnāni vy aśyuḥ | vyāpnuvantu | tvadanugṛhītāḥ sarvāṇy annāni labhantām | ye ca sūrayo vidvāṃsas tvāṃ stuvanti | dadato ye ca tubhyaṃ havīṃṣi dadataḥ prayacchanto vartante te sarve viśvam āyuḥ sarvaṃ jīvanaṃ vy aśyuḥ | vyāpnuvantu | vayaṃ ca samitheṣu saṃgrāmeṣv aryo 'reḥ śatroḥ saṃbandhinaṃ vājam annaṃ sanema | tvadanugrahāt saṃbhajemahi | tadanantaraṃ deveṣu tvatpramukheṣv indrādiṣu śravase yaśase tadarthaṃ bhāgaṃ havirbhāgaṃ dadhānāḥ sthāpayanto bhūyāsmeti śeṣaḥ || aśyuḥ | aśū vyāptau | vyatyayena parasmaipadaṃ | bahulaṃ chandasīti vikaraṇasya luk | dadhataḥ | nābhyastāc chatuḥ | numāgamapratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvaṃ | sanemu(?) | vana ṣaṇa saṃbhaktau | vyatyayena śaḥ [?] | āryaḥ | ariśabdāt ṣaṣṭhyekavacane jasādiṣu chandasi vā vacanam iti gher jyartīti guṇābhāve yaṇādeśaḥ | ariśabda āca irīti-pratyayāntontodāttaḥ | udāttayaṇa iti vibhakter udāttatvaṃ | bhāgaṃ | karṣātvata ity antodāttatvaṃ ||*
+
+*(Reading note: the print is clear; the tail from "aśyuḥ" is compressed; "sanemu(?)" and "vyatyayena śaḥ" are doubtful, and "āca irīti" is read as printed [?]; the page ends in the tail's last words, which run on to p. 402.)*
+
+*Meaning:* O Agni, may the sacrificers (*maghavānaḥ*) who are possessed of wealth in the form of oblations obtain (*vy aśyuḥ*) food (*pṛkṣaḥ*); favoured by you, may they obtain all foods. And the wise (*sūrayaḥ*) who praise you, and those who give oblations to you — may all these obtain (*vy aśyuḥ*) the whole (*viśvam*) of life (*āyuḥ*). And may we, in battles (*samitheṣu*), by your favour gain the food (*vājam*) belonging to the enemy (*aryaḥ*); and then, among the gods (*deveṣu*), with you at their head — Indra and the rest — placing (*dadhānāḥ*) the share (*bhāgam*) of the oblation for their renown (*śravase*), may we be so.
+
+---
+
+### Page 402 (PDF 420)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammatical tail of the bhāṣya (concluded; characterized):** *āryaḥ* — the word *ari* [*arya* in the sense "belonging to the enemy"]; *aryaḥ*: the *a* of *ari* has the Vedic *yaṇ* before the genitive singular by *jasādiṣu chandasi vā vacanam*; no guṇa by *gher jyarti*; the word *ari*, ending in the *ī*-affix [*iri*?] has final acute [as read]; the ending acute by *udāttayaṇo hal-pūrvāt*; *bhāgam* — final acute by *karṣātvato ghañaḥ*, Pā. [6-1-159].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *maghavānaḥ* — (the sacrificers) endowed with wealth in the form of oblations; *pṛkṣaḥ* — foods; *vi aśyuḥ* — may they obtain; *sūrayaḥ* — (you) the wise who praise (you); *dadataḥ* — (to you) those who offer oblations; *viśvam āyuḥ* — fully the whole life-time; *vi aśyuḥ* — may they obtain; *samitheṣu* — in battles; *aryaḥ* — belonging to the enemy; *vājam* — the food; *sanema* — may we obtain (afterwards); *deveṣu* — among your gods beginning with Indra; *śravase* — for renown; *bhāgam* — the portion of the oblations; *dadhānāḥ* — placing (offering) may we be.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! May your worshippers, the rich, obtain much food; may (those who praise you and) those who offer you oblations live long; may we obtain in battles the abundant wealth of the enemies; (and from that wealth) may we offer to you, and to the gods beginning with Indra, their portions.
+
+**English Translation** *(the source's own, as printed):*
+
+> May your opulent worshippers, Agni, obtain, (abundant) food; may the learned (who praise you) and offer you (oblations), acquire long life; may we gain in battles booty from our foes, presenting their portion to the Gods for (the acquisition of) renown.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **पृक्षः, वाजः** — "Both these words, since they are read among the twenty-two names of food, *andhaḥ*, *vājaḥ* (Ni. [2-7?]), mean 'food'."
+- **आर्यः** — *rāṣṭrī*, *aryaḥ* [as printed] — "since *rāṣṭrī*, *aryaḥ* and so on are read among the four words denoting 'lord' (Ni. [3-11?]) — but here this word is explained as a form arising from the word *ari*, 'enemy', and is explained as 'belonging to the enemy'." *(continued on p. 403)*
+
+---
+
+**Progress note:** Printed pp. 1–402 done (PDF 19–420): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.4 complete (73.4's grammar page on pp. 399–400); **Rik 73.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 400–402) and the Special Topics begun (*pṛkṣaḥ*, *vājaḥ*, *āryaḥ*); they may continue on p. 403; the grammar page not yet seen. Next: p. 403 (PDF 421). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.5 (p. 401) compressed and partly doubtful [?].
