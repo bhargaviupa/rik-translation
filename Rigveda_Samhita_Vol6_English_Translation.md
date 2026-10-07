@@ -6230,4 +6230,69 @@ Words treated: *mahe* (*mahat*; before the fourth-case ending, loss of the *t* b
 
 ---
 
-**Progress note:** Printed pp. 1–307 done (PDF 19–325): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.4 complete; **Rik 71.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the first part of the grammar page (pp. 303–307) done; the grammar page breaks off after *kaḥ* at the foot of p. 307. Next: p. 308 (PDF 326), the rest of the grammar page of 71.5; then Riks 71.6–71.10 and Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 306–307 (Sanskrit as read, glosses mine and tentative) doubtful [?]; Skandasvāmin's note on p. 307 doubtful.
+### Page 308 (PDF 326)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.5 (concluded; noted briefly, not transcribed)**
+
+*tsarat* (root *tsara chadmagatau*; *leṭ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *aḍāgama* by *leṭo 'ḍāṭau*; nighāta accent because it follows an *atijanta*); *pṛśanyaḥ* (root *spṛśa saṃsparśane*; the *kyu* affix prescribed by the sūtra *kyapy ca vṛ ji* [as read, Uṇ. [3-?]] applies to this root too, by the *bahula* word in the Uṇādi; the affix's *yu* being replaced by *anā* by *yuvor anākau* — but since it is *kit* no guṇa of the light penultimate; *sparśana* is "touch"; *tatra sādhuḥ* gives *yat*; loss of the *a* by *yasyeti ca*; loss of the *s* of the root by Vedic usage; the form *pṛśanya*; svarita accent by *tit svaritam*, Pā. [6-1-185]); *sṛjat* (root *sṛja visarge*; *leṭ*, third person singular; no nighāta because at the head of a pāda; the *śap* accent remains); *astā* (root *asu kṣepaṇe*; *tṛn*; the affix being *nit*, initial acute; nominative singular); *didyum* (*didyut* is a name of the thunderbolt; in the accusative singular the *t* is lost in Vedic usage, hence *didyum*); *dhāt* (root *ḍudhāñ* "to hold, to nourish"; *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; *tip*; loss of *i* by *iteś ca*; *sic* for *cli* by *cleḥ sic*; loss of *sic* by *gātisthāghupābhūbhyaḥ…*, Pā. [2-4-77]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; nighāta because it follows an *atijanta*). Ends "॥ ५ ॥". *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 309 (PDF 327)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.6** *(printed Ṛk "6 ||")*
+
+> स्वे आ यस्तुभ्यं दम आ विभाति नमो वा दाशादुशतो अनु द्यून् ।
+> वर्धो अग्ने वयो अस्य द्विबर्हा यासद्राया सरथं यं जुनासि ॥ ६ ॥
+
+*sve ā yas tubhyaṃ dama ā vibhāti namo vā dāśād uśato anu dyūn |
+vardho agne vayo asya dvibarhā yāsad rāyā sarathaṃ yaṃ junāsi ||6||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> स्वे । आ । यः । तुभ्यम् । दमे । आ । विऽभाति । नमः । वा । दाशात् । उशतः । अनु । द्यून् ।
+> वर्धो इति । अग्ने । वयः । अस्य । द्विऽबर्हाः । यासत् । राया । सऽरथम् । यम् । जुनासि ॥ ६ ॥
+
+*sve | ā | yaḥ | tubhyam | dame | ā | vi-bhāti | namaḥ | vā | dāśāt | uśataḥ | anu | dyūn | vardho iti | agne | vayaḥ | asya | dvi-barhāḥ | yāsat | rāyā | sa-ratham | yam | junāsi ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.6** *(Sanskrit in Kannada script; begun; runs on to p. 310)*
+
+> हे अग्ने तुभ्यं त्वां स्वे दमे स्वकीये यज्ञगृहे यो यजमानः । एकआकारो मर्योदायां । यथाशास्त्रमा विभाति आ समंतात्समिदादिभिः काष्ठैः प्रज्वलयति । अनु द्यून् अनुदिवसमुशतः कामायमानाय तुभ्यं नमो वा दाशात् हविर्लक्षणमन्नं वा दद्यात् । अस्य यजमानस्य हे अग्ने द्विबर्हा द्वयोर्मध्यमोत्तमस्थानयोर्वृंहितो वर्धितस्त्वं वयोऽन्नं वर्धः । वर्धयैव । सरथं रथेन सहितं युयुत्सुं यं पुरुषं जुनासि युद्धे प्रेरयसि स पुरुषो रायो धनेन यासत् । संगच्छते ॥ तुभ्यं । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थी । दाशात् । दाश दाने । लेट्यडागमः । उशतः । शतुरनुम…
+
+*he agne tubhyaṃ tvāṃ sve dame svakīye yajñagṛhe yo yajamānaḥ | eka ākāro maryodāyāṃ | yathāśāstram ā vibhāti ā samantāt samidādibhiḥ kāṣṭhaiḥ prajvalayati | anu dyūn anudivasam uśataḥ kāmāyamānāya tubhyaṃ namo vā dāśāt havirlakṣaṇam annaṃ vā dadyāt | asya yajamānasya he agne dvibarhā dvayor madhyamottamasthānayor vṛṃhito vardhitas tvaṃ vayo 'nnaṃ vardhaḥ | vardhayaiva | sarathaṃ rathena sahitaṃ yuyutsuṃ yaṃ puruṣaṃ junāsi yuddhe prerayasi sa puruṣo rāyo dhanena yāsat | saṃgacchate || tubhyaṃ | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthī | dāśāt | dāśa dāne | leṭy aḍāgamaḥ | uśataḥ | śatur anuma…*
+
+*(Reading note: the print is clear; "eka ākāro maryodāyām" — the single *ā* of the Saṃhitā is a preposition marking limit — is read as printed; the Sanskrit of "anudivasam" etc. is clear. The bhāṣya's tail begins at "tubhyam" and runs on to p. 310.)*
+
+*Meaning:* O Agni, the sacrificer who in his own house of sacrifice (*sve dame*) duly — as the scripture prescribes — kindles you all round with fuel and the like; who daily gives to you, the desiring one, homage, or food in the form of the oblation: for this sacrificer, O Agni, you, being "twice-increased" (*dvibarhāḥ*) in the middle and the highest places, increase his *vayaḥ* (food); and that man whom you send to battle together with his chariot (*sarathaṃ*), eager to fight, goes with wealth (*rāyā yāsat*) — returns with it.
+
+---
+
+### Page 310 (PDF 328)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammatical tail of the bhāṣya of Rik 71.6 (concluded; characterized, not transcribed):** *uśataḥ* (the *ṅīp*-less genitive of *śatṛ*, with acute on the ending by *śatur anumo…*; here the sense "of the one who desires"); the fourth case in *tubhyam* by the statement *kriyāgrahaṇaṃ kartavyam*, "since the goal-object stands in the *sampradāna*-relation"; *anu dyūn* (*dyu* with *anu*, the *karmapravacanīya*, so the second case); *vardhaḥ* (root *vṛdh*, *ṇic*; *loṭ*, with the Vedic *u* in place of the ending: *vardho*, then *vardhaya*; *śap*; the *ārdhadhātuka* sense of the *śap* and the loss of *ṇi* by *ṇeraniṭi*; accent: the *śap* being *pit*, anudātta, the accent is on the root; the *ū*-ending replaced by *u* and the *pragṛhya* by Pā. [1-1-11] [as read, ?]); *yāsat* (*yā prāpaṇe*; *sip* by the Vedic *bahulam leṭi*, *leṭ*; *aḍāgama*); *junāsi* (*ju* "to go"; Sautra root; *śap* when expected, *śnā* by *vyatyaya*). *(The tail is compressed; sūtra numerals [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*(agne* — O Agni); *tubhyam* — to you; *sve dame* — in his own house; *yaḥ* — which (sacrificer); *ā* — according to the scripture; *ā vibhāti* — makes (you) blaze (with fuel and the like); *anu dyūn* — day after day; *uśataḥ* — (to you) who desire it; *namaḥ vā dāśāt* — gives food in the form of oblation, or [homage]; *asya* — to such a sacrificer; *agne* — O Agni; *dvibarhāḥ* — (you) increased in two ways (the middle and the highest); *vayaḥ* — food; *vardhaḥ* — you increase; *sarathaṃ* — endowed with a chariot (desiring battle); *yam* — which man; *junāsi* — you urge (in battle); *rāyā* — with wealth; *yāsat* — he reaches (becomes endowed).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! The sacrificer who every day kindles you, the desirous, in his own house according to the scripture with fuel and the like, and offers you the oblation in the form of food — to him make his food grow. And the man whom you urge to battle, endowed with a chariot, he shall obtain wealth (returning with it).
+
+**English Translation** *(the source's own, as printed):*
+
+> When (the worshipper) kindles you in his own dwelling and presents an oblation to you, daily desiring it, do you, Agni, augmented [sic: "augmented'"] in two ways (as middling and as best), increase his means of sustenance; may he whom you send with his car to battle, return with wealth.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 310)*
+
+- **नमः** — *andhaḥ*, *vājaḥ*, *payaḥ* [as read, ?] and so on — "since it is read among the twenty-two names of food (Ni. [2-7?]), it means food. Here the meaning is food in the form of the oblation." *(The page ends here; the rest of the Special Topics and the grammar page of Rik 71.6 follow on p. 311.)*
+
+---
+
+**Progress note:** Printed pp. 1–310 done (PDF 19–328): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.5 complete (71.5's grammar page on pp. 307–308); **Rik 71.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 309–310); the Special Topics are begun (*namaḥ*, p. 310) and not yet complete; the grammar page of 71.6 is not yet seen. Next: p. 311 (PDF 329). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.6–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 71.6 (p. 310) very compressed and doubtful [?].
