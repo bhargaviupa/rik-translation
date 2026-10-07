@@ -13722,4 +13722,95 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 ---
 
-**Progress note:** Printed pp. 1–598 done (PDF 19–616): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.10 complete** (grammar of 80.10 on pp. 597–598); **Rik 80.11** — Saṃhitā and Pada (p. 598) done. Next: p. 599 (PDF 617) — bhāṣya of 80.11. Five Ṛks (80.12–80.16) remain after 80.11. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
+### Page 599 (PDF 617)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.11** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> मही महत्यौ [?] इमे द्यावापृथिव्यावपि हे इन्द्र तव मन्यवे त्वदीयकोपाद्भियसा भीत्या वेपेते । कम्पेते । हे वज्रिन् वज्रवन्निन्द्र मरुत्वान् मरुद्भिर्युक्तस्त्वमोजसा बलेन यद्यदा वृत्रमवधीः । तदानीं द्यावापृथिव्यावपि भयेनाकम्पिषाताम् इत्यर्थः ॥ वेपेते । टुवेपृ कम्पने । भियसा । ञिभी भये । औणादिकः कसिप्रत्ययः ॥
+
+*mahī mahatyau [?] ime dyāvāpṛthivyāv api he indra tava manyave tvadīyakopād bhiyasā bhītyā vepete | kampete | he vajrin vajravann indra marutvān marudbhir yuktas tvam ojasā balena yad yadā vṛtram avadhīḥ | tadānīṃ dyāvāpṛthivyāv api bhayenākampiṣātām ity arthaḥ || vepete | ṭuvepṛ kampane | bhiyasā | ñibhī bhaye | auṇādikaḥ kasipratyayaḥ ||*
+
+*Sense:* "These two great ones — heaven and earth — O Indra, tremble (*vepete* = *kampete*) from fear (*bhiyasā*) at your wrath (*manyave*, from your anger). O *vajrin*, O Indra, you who are with the Maruts: when (*yad*) you slew Vṛtra with strength, then even heaven and earth shook with fear." *The grammatical tail:* *vepete* — the root *ṭuvepṛ kampane*; *bhiyasā* — the root *ñibhī bhaye*, with the Uṇādi affix *kasi*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.11** *(Kannada)*
+
+- **वज्रिन्** — "O wielder of the thunderbolt"
+- **इन्द्र** — "O Indra"
+- **मरुत्वान्** — "(you) accompanied by the Marut deities"
+- **स्वराज्यम् अनु अर्चन्** — "displaying your own lordship"
+- **ओजसा** — "by your power"
+- **यत्** — "when"
+- **वृत्रम्** — "the demon Vṛtra"
+- **अवधीः** — "you slew"
+- **(तदा)** — "then"
+- **मही** — "the great"
+- **इमे** — "these two (earth and sky)"
+- **तव** — "your"
+- **मन्यवे** — "(subject) to anger"
+- **भियसा** — "by fear"
+- **वेपेते** — "tremble."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.11** *(Kannada)*
+
+"O Indra, wielder of the thunderbolt, when, displaying your own lordship, accompanied by the Marut deities, you slew Vṛtra by your own power, these two great ones, earth and sky, trembled with fear on seeing your anger."
+
+**English Translation** *(printed in English in the source)*
+
+"This heaven and earth trembled, thunderer, at your wrath, when, attended by the Maruts, you slew Vritra by your prowess, manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.11)**
+
+- **ओजसा** — "*ojaḥ, pājaḥ*: this word is stated among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* (Ni. [2-9] [?]); hence it means 'strength'."
+- **मही** — "*svadhe purandhrī* …: since it is stated among the twenty-four names of heaven and earth (*dyāvāpṛthivī*) beginning with *svadhe purandhrī* (Ni. [3-30] [?]), here it means the earth and the *antarikṣa*."
+
+### Page 600 (PDF 618)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.11, continued:*
+
+- **भियसा** — "from the root *ñibhī bhaye*, with the affix *kasi*, which is Uṇādi: it means 'fear'."
+- **मन्यवे** — "the word *manyu* is stated among the eleven names of anger beginning *heḷaḥ, haraḥ* (Ni. [2-13] [?]). Here, because it is a word denoting the cause that brings about fear, the fifth case (ablative) sense is conveyed though the word stands in the fourth case: 'from anger'. It is explained that at the time of slaying Vṛtra even heaven and earth trembled from Indra's anger."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.11)** *(grammar page, noted briefly)*
+
+- **वेपेते** — the root *ṭuvepṛ kampane* (टुवेपृ कम्पने); *laṭ*, third person dual, the affix *ātām*; by "ṭita ātmanepadānāṃ ṭer e" the *ṭi* (*ām*) becomes *e*; the *ā* becomes *iy* by "āto ṅitaḥ" (आतो ङितः, Pā. Sū. 7-2-81); the *y* is dropped by "lopo vyor vali" (लोपो व्योर्वलि, Pā. Sū. 6-1-66); *śap* by "kartari śap"; guṇa because the *i* follows; since it is at the head of the pāda there is no nighāta; the root's accent remains.
+- **भियसा** — the root *ñibhī bhaye*, of the *juhotyādi* group; the Uṇādi affix *kasi*; as it is *k*-marked there is no guṇa of the root; by "aci śnudhātubhruvāṃ…" the *iy* replacement; the form *bhiyas*; by the accent of the affix the vowel after *y* (*a*) is udātta; third-case singular.
+- **अवधीः** — explained in the seventh Ṛk of this sūkta (80.7).
+- **वज्रिन्** — *vajraḥ asyāsti iti vajrī*: in the sense of *matup*, by "ata ini-ṭhanau" (अत इनिठनौ, Pā. Sū. 5-2-115) the affix *ini*; in the vocative, by "na ṅi-sambuddhyoḥ" (नङिसम्बुद्ध्योः, Pā. Sū. 8-2-8) the elision of the *n* is prohibited; by "āmantritasya ca" the nighāta accent. ||11||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 601 (PDF 619)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.12**
+
+> न वेपसा न तन्यतेन्द्रं वृत्रो वि बीभयत् ।
+> अभ्येनं वज्र आयसः सहस्रभृष्टिरायतार्चन्ननु स्वराज्यम् ॥ १२ ॥
+
+*na vepasā na tanyatendraṃ vṛtro vi bībhayat |
+abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||12||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> न । वेपसा । न । तन्यता । इन्द्रम् । वृत्रः । वि । बीभयत् ।
+> अभि । एनम् । वज्रः । आयसः । सहस्रऽभृष्टिः । आयत ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ १२ ॥
+
+*na | vepasā | na | tanyatā | indram | vṛtraḥ | vi | bībhayat | abhi | enam | vajraḥ | āyasaḥ | sahasra-bhṛṣṭiḥ | āyata | arcan | anu | sva-rājyam ||12||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.12** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> वृत्र इन्द्रं वेपसा स्वकीयेन वेपनेन कंपनेन न वि बीभयत् । भीतं नाकरोत् । तथा तन्यता स्वकीयेन घोरेण गर्जनशब्देन न वि बीभयत् । अपि च इन्द्रेण विसृष्ट आयसोऽयोमयः सहस्रभृष्टिरनेकाभिर्धाराभिर्युक्तो वज्र एनं वृत्रमभ्यायत । हन्तुमाभिमुख्येनागच्छत् । अन्यत्पूर्ववत् ॥ तन्यता । स्तन शब्दे । ऋतन्येञ्जे… [?] इत्यादिना तनोतेर्विधीयमानो यतुच् बहुलवचनादस्मादपि भवति । अत एव सलोपः । सुपां सुलुगिति तृतीयाया डादेशः [?] । उदात्तनिवृत्तिस्वरेण तस्योदात्तत्वम् । बीभयत् । ञिभी भये । हेतुमति णिच् । अत्र वेपस्तन्यतुभ्यां भयं न हेतोर्वृत्रादिति हेतुभयोरभावाद्बिभेतेर्हेतुभये । पा. ६-१-५६ [?] इत्यात्वाभावः । णिजन्ताल्लुङि च्लेश्चङादि [?] । आयत । आयै सयै गतौ । भौवादिरात्मनेपदी ॥
+
+*vṛtra indraṃ vepasā svakīyena vepanena kampanena na vi bībhayat | bhītaṃ nākarot | tathā tanyatā svakīyena ghoreṇa garjanaśabdena na vi bībhayat | api ca indreṇa visṛṣṭa āyaso 'yomayaḥ sahasrabhṛṣṭir anekābhir dhārābhir yukto vajra enaṃ vṛtram abhyāyata | hantum ābhimukhyenāgacchat | anyat pūrvavat || tanyatā | stana śabde | ṛtanyañje… [?] ity ādinā tanoter vidhīyamāno yatuc bahulavacanād asmād api bhavati | ata eva salopaḥ | supāṃ suluk iti tṛtīyāyā ḍādeśaḥ [?] | udāttanivṛttisvareṇa tasyodāttatvam | bībhayat | ñibhī bhaye | hetumati ṇic | atra vepastanyatubhyāṃ bhayaṃ na hetor vṛtrād iti hetubhayor abhāvād bibheter hetubhaye | pā. 6-1-56 [?] ity ātvābhāvaḥ | ṇijantāl luṅi ceś caṅādi [?] | āyata | āyai sayai gatau | bhauvādir ātmanepadī ||*
+
+*Sense:* "Vṛtra did not frighten (*na vi bībhayat* — did not make fearful) Indra by his quaking (*vepasā*, his own trembling), nor by his *tanyatā*, his own dreadful thundering noise. And the iron (*āyasaḥ*) thunderbolt hurled by Indra, thousand-pointed (*sahasrabhṛṣṭiḥ* = having many edges), advanced (*āyata*) upon this Vṛtra — came towards him to slay him. The rest as before." *The grammatical tail:* *tanyatā* — from the root *stana śabde*; the affix *yatuc* prescribed after *tan* by the sūtra beginning "ṛtanyañje…" [?] occurs after this root also by the word *bahulam*; hence the loss of *s*; the third-case ending is replaced (by "supāṃ suluk"); the accent comes from the *udāttanivṛtti* rule; *bībhayat* — the root *ñibhī bhaye*, *ṇic* in the causative; since here the fear is not caused by quaking and thundering but by Vṛtra, … no *ā*-substitution (Pā. 6-1-56 [?]); *āyata* — the root *āyai sayai gatau*, *bhvādi*, *ātmanepada*. *(the compressed sūtra citations in the tail are read with doubt [?])*
+
+---
+
+**Progress note:** Printed pp. 1–601 done (PDF 19–619): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.11 complete** (grammar of 80.11 on p. 600); **Rik 80.12** — Saṃhitā, Pada and bhāṣya (p. 601) done; its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar not yet seen. Next: p. 602 (PDF 620). Four Ṛks (80.13–80.16) remain after 80.12. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12 and the compressed clause in 80.9 read with doubt.
