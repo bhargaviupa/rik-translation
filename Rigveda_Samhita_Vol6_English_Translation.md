@@ -4362,4 +4362,50 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–218 done (PDF 19–236): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1–67.4 complete; **Rik 67.5** (the last) — Saṃhitā and Pada only (p. 218). Next: p. 219 (PDF 237), the bhāṣya of Rik 67.5, then its remaining parts and the closing line of Sūkta 67; then Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the bhāṣya of 67.4 and Skandasvāmin's note (pp. 216–217) read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 219 (PDF 237)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(read at 150 dpi; some readings doubtful [?])*
+
+> **योऽग्निर्वीरुत्सु ओषधीषु महित्वा यानि महत्त्वानि सन्ति तानि वि रोधत् विरुणद्धि विशेषेणावृणोति नावशेषयतीति । उतापि च प्रजाः प्रकर्षेणोत्पन्नाः पुष्पफलादिलक्षणाः प्रसूषूत्पादयित्रीषु मातृस्थानीयास्वोषधीषु अन्तर्मध्ये विरुणद्धीत्येव । द्वितीय उतशब्दः पादपूरणः । तथा चित्तिश्चेतयिता ज्ञापयिता अपां दमे जलानां मध्यभूते गृहे विश्वायुः सर्वान्नो योऽग्निर्वर्तते इति शेषः । तमग्निं धीरा मेधाविनः संमाय संमाननं पूजनं कृत्वा । स्तुतिभिः स्तुत्वेत्यर्थः । चक्रुः । कर्माणि कुर्वन्ति । तत्र दृष्टान्तः । सद्मेव । यथा सदनं गृहं प्रथमतः संपूज्य पश्चात्तत्र कर्माण्याचरन्ति तद्वत् ॥ वीरुत्सु । विपूर्वाद्रोहतेः क्विप् । न्यङ्क्वादिषु वीरुधः । पा. ७-३-५३ [?] । इति पठितत्वादुपसर्गस्य दीर्घो [?] धकारश्चान्तादेशः । उक्तं च । वीरुध ओषधयो भवन्ति । नि. ६-३ [?] । रोधत् । रुधिर् आवरणे । लेट्यडागमः । इतश्च लोप इतीकारलोपः । संमाय । माङ् माने शब्दे च । समासेऽनञ्पूर्वे क्त्वो ल्यप् । पा. ७-१-३७ [?] । न ल्यपि । पा. ६-४-६९ [?] । इतीत्वप्रतिषेधः ॥**
+> *yo 'gnir vīrutsu oṣadhīṣu mahitvā yāni mahattvāni santi tāni vi rodhat viruṇaddhi viśeṣeṇāvṛnoti nāvaśeṣayatīti | utāpi ca prajāḥ prakarṣeṇotpannāḥ puṣpaphalādilakṣaṇāḥ prasūṣūtpādayitrīṣu mātṛsthānīyāsv oṣadhīṣu antar madhye viruṇaddhīty eva | dvitīya utaśabdaḥ pādapūraṇaḥ | tathā cittiś cetayitā jñāpayitā apāṃ dame jalānāṃ madhyabhūte gṛhe viśvāyuḥ sarvānno yo 'gnir vartate iti śeṣaḥ | tam agniṃ dhīrā medhāvinaḥ saṃmāya saṃmānanaṃ pūjanaṃ kṛtvā | stutibhiḥ stutvety arthaḥ | cakruḥ | karmāṇi kurvanti | tatra dṛṣṭāntaḥ | sadmeva | yathā sadanaṃ gṛhaṃ prathamataḥ saṃpūjya paścāt tatra karmāṇy ācaranti tadvat || vīrutsu | vipūrvād rohateḥ kvip | nyaṅkvādiṣu vīrudhaḥ | Pā. 7-3-53 [?] | iti paṭhitatvād upasargasya dīrgho [?] dhakāraś cāntādeśaḥ | uktaṃ ca | vīrudha oṣadhayo bhavanti | Ni. 6-3 [?] | rodhat | rudhir āvaraṇe | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | saṃmāya | māṅ māne śabde ca | samāse 'nañpūrve ktvo lyap | Pā. 7-1-37 [?] | na lyapi | Pā. 6-4-69 [?] | itītvapratiṣedhaḥ ||*
+> *"The Agni who **vi rodhat** — obstructs, holds back in special measure — whatever **mahitvā**, greatnesses [powers], there are in the **vīrutsu**, herbs; i.e. he does not leave any remainder; **uta**, and also, **prajāḥ**, the offspring in the form of flowers and fruit, abundantly produced, **prasūṣu antaḥ**, in the herbs, which stand as mothers, being producers — he obstructs in the midst: so [the construction]. The second *uta* is a metrical filler. So also **cittiḥ**, the awakener, the informer, **apām dame**, in the house in the midst of waters, **viśvāyuḥ**, to whom all is food — the Agni who dwells [there]: this is the remainder. Him the **dhīrāḥ**, the wise, **saṃmāya**, having honoured and worshipped, i.e. having praised with hymns, **cakruḥ**, do their rites; the example: **sadmeva**, as one first worships the house and afterwards performs rites in it. **Vīrutsu**: *kvip* after *ruh* with *vi*; since *vīrudh* is read in the *nyaṅkvādi* list (Pā. 7-3-53, as read, ?), the prefix [is lengthened] and *dh* is the final substitute; so it is said, 'the *vīrudhaḥ* are herbs' (Ni. 6-3, as read, ?). **Rodhat**: root *rudhir āvaraṇe*; the *aṭ* augment in the *leṭ*; the loss of *ī* by 'itaś ca lopaḥ'. **Saṃmāya**: root *māṅ māne śabde ca*; in a compound not preceded by *nañ*, *lyap* for *ktvā*; the prohibition of *ī* by 'na lyapi' (Pā. 6-4-69, as read, ?)."* *(Grammar tail characterized; several numerals as read, doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**यः** — the Agni who; **वीरुत्सु** — in herbs; **महित्वा** — the powers (that are in them); **वि रोधत्** — he makes [them] stay firm; **उत** — and also; **प्रजाः** — flowers, fruits and the like; **प्रसूषु** — in the producing herbs; **अन्तः** — in the midst; **(वि रोधत्)** — he makes them remain; **चित्तिः** — the giver of knowledge; **अपां दमे** — in the house in the midst of water; **विश्वायुः** — Agni to whom all is food; **सद्मेव** — as a house; **संमाय** — having honoured; **चक्रुः** — they do [their rites].
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni is the cause of the powers that are in herbs and trees, and of the offspring in them [flowers, fruit], the giver of knowledge to all, dwelling in the midst of the waters. As one first honours the house and afterwards performs other rites, they first praise Agni with hymns and afterwards perform sacrifices and the like.
+
+---
+
+### Page 220 (PDF 238)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**English Translation** *(the source's own, as printed):*
+
+> The wise (first) adoring Agni, as they do a dwelling, perform sacrifices — (Agni) who implants their (peculiar) virtues in herbs, and places flowers and fruits in mother-like herbs, and who is the giver of knowledge and substenance [sic].
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **चित्तिरपां दमे** — *cetayitā jñāpayitā agniḥ jalānāṃ madhyabhūte gṛhe* — "from the root *citi jñāne* the word *citti* is derived; 'giver of knowledge', one who possesses knowledge. Sāyaṇa says that Agni, who has knowledge and also grants knowledge to others, lives in the house in the middle of the waters."
+- *Skandasvāmin:* **सः चित्तिः** — *jñātā apāṃ vṛṣṭilakṣaṇānām athavā apa ity antarikṣanāma* — "*citti* means knowledge. Agni, being possessed of knowledge, is in the middle of the waters which take the form of rain; or, since the word *apaḥ* denotes the atmosphere, through the association with the word *atmosphere* the three worlds are included [?]. The meaning of *dama* is 'middle region'. In the middle of the three worlds, in the houses of sacrifices, Agni is praised as Hotṛ, or lives there."
+- **संमाय** — *samānanaṃ pūjāṃ kṛtvā* — "as one first adorns the house and afterwards does the work, the wise first honour Agni with hymns."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 67.5 (begins; noted briefly).** **वीरुत्सु**: root *ruha bījajanmani prādurbhāve ca*; when *vi* precedes, the affix *kvip* by "kvip ca"; by "nyaṅkvādīnāṃ ca" (Pā. Sū. 7-3-53, as read) — since it is read as *vīrudh* in this list — the prefix is lengthened and the root's *h* becomes *dh*; the word *vīrudh*; in the locative plural, since *su* follows, *d* [for *dh*] by *jaś*, and by "khari ca" *cartva*, *t*; by the accent of the latter member of a *kṛdanta*, the *u* is acute. Yāska also says of this word: "*vīrudha oṣadhayo bhavanti*" (Ni. 6-3, as read, ?) — forest herbs are called *vīrudh*.
+
+---
+
+### Page 221 (PDF 239)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 10 [as read]".)*
+
+**Grammar page for Rik 67.5, concluded (noted briefly).** **रोधत्**: root *rudhir āvaraṇe*; in the *leṭ*, third person singular, the affix *ti*; the loss of its *i* by "itaś ca lopaḥ parasmaipadeṣu"; by "leṭoḍāṭau" the *aṭ* augment; by "pugantalaghūpadhasya ca" *guṇa* of the light penultimate; the form *rodhat*; since *yaḥ* precedes, by "yad vṛttān nityam" the *nighāta* is prohibited; the root accent remains. **महित्वा**: in the neuter accusative plural, the substituted *śi* is lost by "śeś chandasi bahulam". **चित्तिः**: root *citī saṃjñāne*; by "striyāṃ ktin" the affix *ktin*; being *k*-marked, no *laghūpadha-guṇa*; since *n*-marked, the initial acute. **अपाम्**: the genitive plural of *ap*; by "ūḍidaṃpadādi…" the case-ending is acute. **विश्वायुः**: by "bahuvrīhau prakṛtyā pūrvapadam" the accent of the first member. **संमाय**: root *māṅ māne śabde ca*; since it denotes a prior action, by "samāse 'nañpūrve ktvo lyap" (Pā. Sū. 7-1-37, as read) *lyap* substitutes for the *ktvā* that would come, the compound being with *sam* and not with *nañ*; the *k* [of the marker] remains as *sthānivat* in *lyap*; by "ghumāsthāgāpājahātisāṃ hali" (Pā. Sū. 6-4-66, as read) *ī* for the root's final would arise, but by "na lyapi" (Pā. Sū. 6-4-69, as read) it is prohibited, *lyap* being a following element; since *p*-marked, unaccented, the root accent remains; in the compound, by "gatikārakopapadāt kṛt" the accent of the latter member of a *kṛdanta*. **चक्रुः**: root *ḍukṛñ karaṇe*; *liṭ*, third person plural, the form as stated earlier; by "tiṅ atiṅaḥ" the *nighāta* accent. **॥ ९–१० ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तेळनेय सूक्तवु समाप्तवु"** — "*aravattēḻaneya sūktavu samāptavu*" — "The sixty-seventh sūkta is concluded." *(Sūkta 67 is complete: five four-pāda Ṛks = ten half-Ṛks; printed pp. 203–221.)*
+
+---
+
+**Progress note:** Printed pp. 1–221 done (PDF 19–239): **Sūktas 62–67 complete.** Next: p. 222 (PDF 240), the opening of **Sūkta 68** (the fourth sūkta of the Twelfth Anuvāka; probably another *dvaipada* sūkta — check the heading and Sāyaṇa's introduction). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?] (the header on p. 221 reads "10" where p. 219 reads "11", as printed); the bhāṣya of 67.4–67.5 and Skandasvāmin's notes (pp. 216–220) read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
