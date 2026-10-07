@@ -452,4 +452,88 @@ yukṣvā madacyutā harī kaṃ hanaḥ kaṃ vasau dadho 'smāṁ indra vasau 
 
 ---
 
-**Progress note:** Printed pp. 1–15 done (PDF 16–30) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.3 complete**; **Rik 81.4** — Saṃhitā, Pada, bhāṣya (pp. 13–14), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 14–15) done; its grammar page is begun on p. 15 (*kratvā*) and continues on p. 16 (PDF 31). Next: printed p. 16 (PDF 31). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13 (bhāṣya of 81.4); p. 15 (dark print).
+### Page 16 (PDF 31)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Grammar of Rik 81.4, continued from p. 15 (grammar page, noted briefly):*
+
+- **आयसम्** — second-case singular. In the sense "its product", by "tasya vikāraḥ" (Pā. Sū. 4-3-134) the affix *aṇ* comes after a sixth-case word; since here the sense 'product of iron' holds, the affix *aṇ* is added to the word *ayas*; the *ṇ* of the affix is a mark; therefore, by "taddhiteṣv acām ādeḥ" (Pā. Sū. 7-2-117) when an affix with *ñ* or *ṇ* follows, the first vowel of the stem takes vṛddhi, so *a* becomes *ā*; by "āder udāttaś ca" [as read: "ādyudāttaś ca", Pā. Sū. 3-1-3] the affix-accent makes the end udātta; when the case-ending *am* follows, by "ami pūrvaḥ" (Pā. Sū. 6-1-107) the single prior form; the case-ending, though anudātta, by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) — when the udātta is lost before an anudātta — makes the following anudātta take the udātta; so the udātta arises here.
+- **अनुष्वधम्** — *svadhāyām anu* = *anusvadham*: by "avyayaṃ vibhaktisamīpa…" (Pā. Sū. 2-1-6) the *avyayībhāva* compound in the sense of the case-ending; by "samāsasya" (Pā. Sū. 6-1-223) the compound takes the final-udātta, so it is final-udātta here. ||4||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.5**
+
+*(The print's first verb is the third-person perfect* paprau*, read from the Pada and from the bhāṣya.)*
+
+> आ पप्रौ पार्थिवं रजो बद्बधे रोचना दिवि ।
+> न त्वावाँ इन्द्र कश्चन न जातो न जनिष्यतेऽति विश्वं ववक्षिथ ॥ ५ ॥
+
+*ā paprau pārthivaṃ rajo badbadhe rocanā divi |
+na tvāvāṁ indra kaś cana na jāto na janiṣyate 'ti viśvaṃ vavakṣitha ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । पप्रौ । पार्थिवम् । रजः । बद्बधे । रोचना । दिवि ।
+> न । त्वाऽवान् । इन्द्र । कः । चन । न । जातः । न । जनिष्यते । अति ।
+> विश्वम् । ववक्षिथ ॥ ५ ॥
+
+*ā | paprau | pārthivam | rajaḥ | badbadhe | rocanā | divi | na | tvā-vān | indra | kaḥ | cana | na | jātaḥ | na | janiṣyate | ati | viśvam | vavakṣitha ||5||*
+
+### Page 17 (PDF 32)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "2 … VOLUME 7" at the foot.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> इन्द्रः स्वतेजसा पार्थिवं पृथिव्याः सम्बन्धि वस्तुजातं रजोऽन्तरिक्षलोकं चा पप्रौ । आपूरयति । तथा दिवि द्युलोके रोचना रोचमानानि दीप्तानि नक्षत्राणि बद्बधे बबन्ध । स्थापितवान् । अतो हे इन्द्र त्वावान् त्वत्सदृशः कश्चन न जातो नोत्पन्नोऽस्ति । न च जनिष्यते । उत्पत्स्यमानोऽपि नास्ति । ताद्दृशस्त्वं विश्वं सर्वं जगदति ववक्षिथ । अतिशयेन वोढुमिच्छसि । सर्वस्य जगतो निर्वाहको भवसीत्यर्थः ॥ पप्रौ । प्रा पूरणे । लिट्यादित्वाद् ऊ ङलः । पा. ७-१-३४ इत्याकारादेशः । पार्थिवम् । पृथिव्या ञ्ञाञौ । पा. ४-१-४२ [?] इत्यञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वम् । रजः । रजन्त्यस्मिन् गन्धर्वादय इति रजोऽन्तरिक्षम् । रञ्ज रागे । असुनि रजकरजनरजःसूपसंख्यानम् । का. ६-४-२४ [?] इति नलोपः । बद्बधे । बध बन्धने । लिटि व्यत्ययेन हलादिशेषाभावः । एकहल्मध्यगतत्वाभावादेत्वाभ्यासलोपावपि न स्तः । पादादित्वान्निघाताभावः । त्वावान् । वतुप्त्वरणे युष्मदस्मद्भ्यां छन्दसि सादृश्य उपसंख्यानमिति वतुप् । आ सर्वनाम्न इत्यात्वम् । ववक्षिथ । वह प्रापणे । अस्मादिच्छार्थे सनि सन्यतः इतीत्त्वस्य सर्वे विधयश्छन्दसि विकल्प्यन्त इत्यभावः । सनंताल्लिट्यमन्त्र इति निषेधादामप्रत्ययाभावः ॥ ५ ॥
+
+*indraḥ svatejasā pārthivaṃ pṛthivyāḥ sambandhi vastujātaṃ rajo 'ntarikṣalokaṃ cā paprau | āpūrayati | tathā divi dyuloke rocanā rocamānāni dīptāni nakṣatrāṇi badbadhe babandha | sthāpitavān | ato he indra tvāvān tvatsadṛśaḥ kaścana na jāto notpanno 'sti | na ca janiṣyate | utpatsyamāno 'pi nāsti | tādṛśas tvaṃ viśvaṃ sarvaṃ jagad ati vavakṣitha | atiśayena voḍhum icchasi | sarvasya jagato nirvāhako bhavasīty arthaḥ || paprau | prā pūraṇe | liṭy āditvād ū ṅalaḥ | pā. 7-1-34 ity ākārādeśaḥ | pārthivam | pṛthivyā ñāñau | pā. 4-1-42 [?] ity añpratyayaḥ | ñittvād ādyudāttatvam | rajaḥ | rajanty asmin gandharvādaya iti rajo 'ntarikṣam | rañja rāge | asuni rajakarajanarajaḥsūpasaṃkhyānam | kā. 6-4-24 [?] iti nalopaḥ | badbadhe | badha bandhane | liṭi vyatyayena haladiśeṣābhāvaḥ | ekahalmadhyagatatvābhāvād etvābhyāsalopāv api na staḥ | pādāditvān nighātābhāvaḥ | tvāvān | vatup tvaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṃkhyānam iti vatup | ā sarvanāmna ity ātvam | vavakṣitha | vaha prāpaṇe | asmād icchārthe sani sanyataḥ itīttvasya sarve vidhayaś chandasi vikalpyanta ity abhāvaḥ | sanantāl liṭy amantra iti niṣedhād āmpratyayābhāvaḥ || 5 ||*
+
+*Sense:* "Indra by his own radiance has filled (*ā paprau* = *āpūrayati*) the *pārthiva*, the whole mass of things belonging to the earth, and the *rajas* — the middle region, the *antarikṣa*; likewise in heaven he has fixed (*badbadhe* = *babandha*, *sthāpitavān*) the shining stars. Therefore, O Indra, no one *tvāvān* — like you — has been born; nor will one be born; there is none even about to arise. Such a one as you, you wish (*vavakṣitha*) to bear (*vah*) the whole world over, exceedingly: you are the sustainer of all the world." *The grammatical tail* (characterized, not transcribed in full): *paprau* — root *prā pūraṇe*, the *liṭ* with *au* for the *ṇal* by "ā ṇalaḥ au" (Pā. Sū. 7-1-34 [?]); *pārthivam* — the affix *añ* after *pṛthivī* (Pā. Sū. 4-1-42 [?]) with the first syllable udātta since the affix has *ñ*; *rajaḥ* — 'in which Gandharvas and the like move', the *antarikṣa*; the root *rañja rāge*, the affix *asun* and the loss of the nasal by the supplementary statement (Kā. 6-4-24 [?]); *badbadhe* — no remnant-rule by *vyatyaya*; *tvāvān* — the affix *vatup* in the sense of likeness after *yuṣmad*/*asmad* in the Veda; *ā* for the final of the pronoun; *vavakṣitha* — the root *vaha prāpaṇe* in the desiderative, no *ām*-affix in the *liṭ* outside a mantra."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.5** *(Kannada)*
+
+- **पार्थिवम्** — "(O Indra,) the world of the earth"
+- **रजः** — "the middle region also"
+- **आ पप्रौ** — "(by your power) you filled"
+- **दिवि** — "in the world of heaven"
+- **रोचना** — "shining stars"
+- **बद्बधे** — "you made to stand firm"
+- **इन्द्र** — "O Indra"
+- **त्वावान्** — "like you"
+- **कश्चन** — "no one at all"
+- **न जातः** — "was born"
+- **न च जनिष्यते** — "nor will be born"
+- **(तादृशः त्वम्)** — "such a you"
+- **विश्वम्** — "the whole world"
+- **अति ववक्षिथ** — "wish to bear (to uphold) exceedingly."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.5** *(Kannada)*
+
+"O Indra, by your greatness you have filled all the worlds of the earth, the middle region and the sky; in the world of heaven you have set the shining stars firmly. No one like you was born before, nor will be born later. Such a you wish to uphold the whole world with exceeding security."
+
+**English Translation** *(printed in English in the source; begins at the foot of p. 17 and ends at the head of p. 18)*
+
+"Indra has filled the Surface of the earth and the firmament with his glory ; he has established the constellations in the sky ; O Indra, no one like you (having such powers as you have) has ever been born or nor will be born. You have sustained the entire Universe." — as printed ("or nor will be born" as printed [sic]).
+
+### Page 18 (PDF 33)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.5)**
+
+- **पार्थिवम्** — *pṛthivyāḥ sambandhi* — "relating to the earth: all the things on the earth."
+- **रजः** — "*rajaḥ* means the *antarikṣa* world, that is, the mass of things in the *antarikṣa*."
+- **त्वावान्** — "one equal to you, one like you."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.5)** *(grammar page, noted briefly; runs on past this page)*
+
+- **पप्रौ** — the root *prā pūraṇe*, *adādi*, *parasmaipadī*; *liṭ*, third person singular. When *liṭ* follows, reduplication of the root: *prā-prā*; by "halādiḥ śeṣaḥ" (Pā. Sū. 7-4-60) only *pā* remains in the first part; by "hrasvaḥ" (Pā. Sū. 7-4-59) the reduplicative is shortened; in place of the third-person-singular *tip* of the *liṭ*, by "parasmaipadānāṃ ṇalatusus…" (Pā. Sū. 3-4-82) *ṇal*; by "āto ṇalaḥ au" [as read: "āta au ṇalaḥ", Pā. Sū. 7-1-34] for a root ending in *ā* the *ṇal* following takes the substitute *au*. Here, as *prā* ends in *ā*, *au* in place of *ṇal* gives *paprā+au*; by "vṛddhir eci" (Pā. Sū. 6-1-88) the vṛddhi arises, so the form is made: *paprau*.
+- **पार्थिवम्** — in the matter of the sūtra "dityadityādityapatyuttarapadāṇ ṇyaḥ" (दित्यदित्यादित्यपत्त्युत्तरपदाण्ण्यः, Pā. Sū. 4-1-85) the *vārttika* "pṛthivyā ñāñau" (पृथिव्या ञाञौ) is begun: in the sense of 'belonging to it' the affix *añ* comes after the word *pṛthivī*; by "taddhiteṣv acām ādeḥ" the first-syllable *ṛ* takes vṛddhi; by "uraṇ raparaḥ" (Pā. Sū. 1-1-51) the *ṛ* → *ār*; by "yasyeti ca" (Pā. Sū. 6-4-148) the *ī* of *pṛthivī* is dropped before the *taddhita* affix; by "ñnityādir nityam" (Pā. Sū. 6-1-197) the word, though ending in a *ñ*-affix, is *ādyudātta*.
+- **रजः** — *rajanti asmin gandharvādayaḥ* — "in which Gandharvas and the rest move: *rajas* here means the sky (*ākāśa*); the divine beings, Gandharvas and others, move there; the path of the gods' movement is the sky. The root *rañja rāge*; the affix *asun* in the sense of *adhikaraṇa*. In *rañj + asun* the nasal of the root is dropped by the statement 'rajakarajanarajaḥsūpasaṃkhyānam' (Kā. 6-4-24 [?]). In the affix *asun* the *as* remains; with the affix joined, it is an *s*-ending word."
+
+---
+
+**Progress note:** Printed pp. 1–18 done (PDF 16–33) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.4 complete** (grammar of 81.4 on pp. 15–16); **Rik 81.5** — Saṃhitā, Pada (p. 16), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 17), Special Topics and the first part of the grammar page (p. 18) done; the grammar page continues on p. 19 (PDF 34). Next: printed p. 19 (PDF 34). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print).
