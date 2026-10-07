@@ -11239,4 +11239,116 @@ dyumnair abhi pra ṇonumaḥ ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–515 done (PDF 19–533): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: Riks **78.1–78.3** complete (grammar pages of 78.2 on p. 513 and of 78.3 on p. 515, each noted briefly); the Special Topics of 78.3 run across pp. 514–515 and are split where the print splits them. Next: p. 516 (PDF 534) — Rik 78.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the garbled fourth citation on p. 512; the fourth citation on p. 515 uncertain.
+### Page 516 (PDF 534)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+*Top of page — the grammar of Rik 78.3 continues from p. 515 (grammar page, noted briefly):*
+
+- **हवामहे** — the root *hvev spardhāyāṃ śabde ca* (ह्वेञ् स्पर्धायां शब्दे च); *laṭ*, first-person plural, with the ending *mahiṅ*; "ṭita ātmanepadānām eṭ" (टित आत्मनेपदानामेत्) gives *e*; *śap*. By "bahulaṃ chandasi" (बहुलं छन्दसि, Pā. Sū. 6-1-34 [?]) the *saṃprasāraṇa* of the root arises even though no cause is present; "saṃprasāraṇāc ca" (सम्प्रसारणाच्च) gives the single prior form (*pūrvarūpa*); the *guṇa* because of *śap* (*hu* → *ho*), then *avādeśa* (*av*); "ato dīrgho yañi" (अतो दीर्घो यञि, Pā. Sū. 7-3-101) — by *mahiṅ* the stem *hava* has its final lengthened (*havā-mahe*). It comes in a pāda that has an *atiṅ* (non-finite-verb) word — hence nighāta accent. ||3||
+
+*Grammar noted briefly; numerals tentative [?].* *(Correction to the previous batch's note: the grammar page of 78.3 thus spans pp. 515 foot and 516 top.)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.4**
+
+> तमु त्वा वृत्रहन्तमं यो दस्यूरवधूनुषे ।
+> द्युम्नैरभि प्र णोनुमः ॥ ४ ॥
+
+*tam u tvā vṛtrahantamaṃ yo dasyūr avadhūnuṣe |
+dyumnair abhi pra ṇonumaḥ ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> तम् । ऊं इति । त्वा । वृत्रहन्ऽतमम् । यः । दस्यून् । अवऽधूनुषे ।
+> द्युम्नैः । अभि । प्र । नोनुमः ॥ ४ ॥
+
+*tam | ūṃ iti | tvā | vṛtrahan-tamam | yaḥ | dasyūn | ava-dhūnuṣe | dyumnaiḥ | abhi | pra | nonumaḥ ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने दस्यून् उपक्षपयितॄन् राक्षसादीन्यस्त्वमवधूनुषे अवचालयसि स्थानात्प्रच्यावयसि [?] वृत्रहन्तमं वृत्राणां पाप्मानामतिशयेन हन्तारं तमु त्वा तमेव त्वां द्युम्नैरित्यादि पूर्ववत् ॥ वृत्रहन्तमम् । अतिशयेन वृत्रहा वृत्रहन्तमः । पदसंज्ञायां नलोपे नाद्घस्य । पा. ८-२-१७ [?] । इति तमपो नुट् । दस्यून् । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु नेत्येकारः सानुनासिकः ॥
+
+*he agne dasyūn upakṣapayitṝn rākṣasādīn yas tvam avadhūnuṣe avacālayasi sthānāt pracyāvayasi [?] vṛtrahantamaṃ vṛtrāṇāṃ pāpmanām atiśayena hantāraṃ tam u tvā tam eva tvāṃ dyumnair ity ādi pūrvavat || vṛtrahantamam | atiśayena vṛtrahā vṛtrahantamaḥ | padasaṃjñāyāṃ nalope nādghasya | pā. 8-2-17 [?] | iti tamapo nuṭ | dasyūn | dīrghād aṭi samānapāde iti nakārasya rutvam | atrānunāsikaḥ pūrvasya tu netyekāraḥ sānunāsikaḥ ||*
+
+*Sense:* "O Agni, you who shake off (*avadhūnuṣe* = *avacālayasi*, drive from their place [?]) the *dasyus* — the Rākṣasas and others who cause destruction (*upakṣapayitṝn*) — you the best slayer of the *vṛtras* (= sins, *pāpmanām*); that very you [we praise] with praises, as before." *The grammatical tail:* *vṛtrahantamam* — "the best *vṛtrahan*": the *n* of the stem is dropped when the *pada*-designation applies (*nalopa*); the *tamap* gets the augment *nuṭ* by the sūtra beginning "nādghasya" (Pā. 8-2-17 [?], number as read, doubtful); *dasyūn* — the final *n* becomes *ru* by "dīrghād aṭi samānapāde" (दीर्घादटि समानपादे, Pā. Sū. 8-3-9 [?]); here (the retained) nasal *ū* before is not made nasal — only the *e* is nasalised (*sānunāsika*) as the print has it (the last sentence is compressed; reading uncertain [?]).
+
+### Page 517 (PDF 535)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.4** *(Kannada)*
+
+- **(अग्ने)** — "O Agni!"
+- **दस्यून्** — "the Rākṣasas (demons)"
+- **यः** — "who (you)"
+- **अवधूनुषे** — "you drive away"
+- **वृत्रहन्तमम्** — "destroyer of sin"
+- **तमु त्वा** — "such you"
+- **द्युम्नैः** — "with praises that make known your qualities"
+- **अभि प्र नोनुमः** — "we praise again and again."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 78.4** *(Kannada)*
+
+"O Agni, (we) praise again and again, with mantras of the nature of praise, you alone, who destroy the Rākṣasas (the injurers of the sacrifice) and are the destroyer of sin."
+
+**English Translation** *(printed in English in the source)*
+
+"We praise you, repeatedly with commendatory (hymns); you are the destroyer of Vritra, and you put the Dasyus to flight." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 78.4)**
+
+- **दस्यून्** — "Though one might state for this word the general sense 'Rākṣasas', it is fitting to give Yāska's explanation:
+
+> दस्युर्दस्यतेः क्षयार्थादुपदस्यन्त्यस्मिन् रसा उपदासयति कर्माणि ।
+
+*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi |* (Ni. [7-23]? [?], numeral as read: "೭-೨೩") — *Gloss, mine and tentative:* "*Dasyu* is from the root *das* in the sense of destruction: in him the juices (*rasāḥ*) waste away; or he causes the rites to fail (*upadāsayati*)."
+
+The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, waters, and destroys them, one who causes lack of rain (*anāvṛṣṭi*). For this very reason the meaning of *dasyu* is 'one who causes obstacle (*vighna*) to sacrificial and other rites'. The Western scholars say that *dasyu* means the black people, the early inhabitants who had settled in this land, who practised theft and caused troubles to the sacrifices of the Āryas, and so (they suppose) were called Rākṣasas. To protect themselves from such *dasyu* people, the ṛṣis praise Agni and Indra in many Ṛks —"
+
+> महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ।
+
+*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe |* (Ṛk. Saṃ. 1-[51]-6 [?]) — *Gloss, mine and tentative:* "You trampled down even the great Arbuda with your foot; from of old you were born for the slaying of the Dasyus."
+
+> उपप्रयेन्द्र [?] दस्युहत्याय वज्री यद्ध सूनुः श्रवसे नाम दधे ।
+
+*upaprayendra [?] dasyuhatyāya vajrī yaddha sūnuḥ śravase nāma dadhe |* (Ṛk. Saṃ. 1-[103?]-4 [?]) — *the first words are garbled in the print at this resolution [?]; I transcribe what I read.* *Gloss, mine and tentative:* "…the thunderbolt-bearer, for the slaying of the Dasyus, when the son took a name for fame."
+
+### Page 518 (PDF 536)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+*Special Topics continued:*
+
+> महे यत्त्वा पुरूरवो रणायावर्धयन्दस्युहत्याय देवाः ।
+
+*mahe yat tvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ |* (Ṛk. Saṃ. 10-[95]-[?] [?]) — *Gloss, mine and tentative:* "When the gods made you grow, O Purūravas, for great combat, for the slaying of the Dasyus."
+
+> तमु त्वा पाथ्यो वृषा समीधे दस्युहन्तमम् ।
+
+*tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam |* (Ṛk. Saṃ. 6-[16]-[15] [?]) — *Gloss, mine and tentative:* "Pāthya the bull kindled you, the best slayer of the Dasyus."
+
+> तमागन्म त्रसदस्युं मान्धातुर्दस्युहन्तममग्निं यज्ञेषु पूर्व्यं नभन्तामन्यके समे ।
+
+*tam āganma trasadasyuṃ māndhātur dasyuhantamam agniṃ yajñeṣu pūrvyaṃ nabhantām anyake same |* (Ṛk. Saṃ. 8-[39]-[?] [?]) — *the printed* "ತ್ರಸದಸ್ಯುಂ ಮಂಧಾತುಃ" *is read as above; doubtful [?].* *Gloss, mine and tentative:* "We have come to him, Agni, the old (god) of the sacrifices, the best slayer of the Dasyus, [of] Trasadasyu (and of) Māndhātṛ; let all the others be destroyed."
+
+"Many such examples may be given."
+
+- **वृत्रहन्तमम्** — "What has been said about the slaying of Dasyus applies equally to the slaying of Vṛtra. Though this word is used especially in senses relating to Indra, in some contexts the qualities of Indra are attributed to Agni and this word is used also as an epithet of Agni. For example —
+
+> अग्निं देवासोऽग्रियमिन्धते वृत्रहन्तमम् ।
+
+*agniṃ devāso 'griyam indhate vṛtrahantamam |* (Ṛk. Saṃ. 6-[16]-[34] [?]) — *Gloss, mine and tentative:* "The gods kindle Agni, the first, the best slayer of Vṛtras."
+
+> आगन्म वृत्रहन्तमं ज्येष्ठमग्निमानवम् ।
+
+*āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *Gloss, mine and tentative:* "We have come to Agni, of the race of Manu, the eldest, the best slayer of Vṛtras."
+
+In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this word means 'he killed the demon Vṛtra'; when used of Agni, it is proper to give the general sense of the word *vṛtra*, 'enemy', and to say 'destroyer of enemies'. In the present context the bhāṣyakāra has given *pāpmānaḥ* (sins) as the sense of *vṛtra*, i.e. 'evil, sin' (*duritam*); the sense of *pāpa* has been given."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.4)** *(grammar page, noted briefly; begins at the foot of this page and continues on p. 519)*
+
+- **वृत्रहन्तमम्** — *vṛtraṃ hatavān* = *vṛtrahā*: the root *han hiṃsāgatyoḥ* (हन हिंसागत्योः); with *vṛtra* as upapada, the affix *kvip* in the past/"bhūta" sense by "brahmabhrūṇavṛtreṣu kvip" (ब्रह्मभ्रूणवृत्रेषु क्विप्, Pā. Sū. 3-2-[87]) giving *vṛtrahan*; for the superlative, "atiśāyane tamabiṣṭhanau" (Pā. Sū. 5-3-[55]) gives *tamap*; since the "svādiṣu sarvanāmasthāne" (स्वादिष्वसर्वनामस्थाने, Pā. Sū. 1-4-17) gives the *pada*-designation, "nalopaḥ prātipadikāntasya" (नलोपः प्रातिपदिकान्तस्य, Pā. Sū. 8-2-7) drops the *n* of *han*; "nādghasya" (Pā. Sū. 8-2-[17]) — the affixes *taras* and *tamap* are called *gha* (the *gha*-designation *taras-tamapau ghaḥ*)… *(the sentence runs on to p. 519)*.
+
+---
+
+**Progress note:** Printed pp. 1–518 done (PDF 19–536): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: Riks **78.1–78.3** complete (the grammar of 78.3 ends at the top of p. 516); **Rik 78.4** — Saṃhitā, Pada, bhāṣya (p. 516), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 517–518) done; its grammar page begins at the foot of p. 518 and continues on p. 519 (continuation to be given there). Next: p. 519 (PDF 537). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518 flagged [?].
