@@ -1087,4 +1087,78 @@ astoṣata svabhānavo viprā naviṣṭhayā matī yojā nv indra te harī ||2|
 
 ---
 
-**Progress note:** Printed pp. 1–39 done (PDF 16–54) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): **Rik 82.1 complete** (grammar pp. 37–38, characterized); **Rik 82.2** — Saṃhitā, Pada (p. 38–39) and the bhāṣya to its break at the foot of p. 39 (*turiṣka me-…*) done; the bhāṣya continues on p. 40 (PDF 55). Next: printed p. 40 (PDF 55). Four Ṛks remain after 82.2 (82.3–82.6), then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30) and of 82.1 (pp. 35, 37–38); the bhāṣya of 82.2 (p. 39) read with doubt in two phrases.
+### Page 40 (PDF 55)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*Bhāṣya of Rik 82.2, concluded (the opening words of the page; the first few words are read with doubt [?]):*
+
+> …ष्मेमेयः सु [?] ृलोपः । मती । सुपां सुलुगिति तृतीयाया डादेशः [?] । पूर्वसवर्णदीर्घत्वम् । मन्त्रे वृषेषपचमनेति क्रिन उदात्तत्वम् ॥ २ ॥
+
+*…ṣmemeyaḥ su [?] lopaḥ | matī | supāṃ suluk iti tṛtīyāyā … [?] | pūrvasavarṇadīrghatvam | mantre vṛṣeṣapacamaneti krina udāttatvam || 2 ||*
+
+*(As the page opens: "…the loss of the (affix) [?]. *Matī* — by "supāṃ suluk…" the third-case ending is replaced (*ā*), and the single prior long form arises; by "mantre vṛṣeṣapacamana…" the affix *ktin* is udātta.")*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.2** *(Kannada)*
+
+- **इन्द्र** — "O Indra"
+- **अक्षन्** — "(your sacrificers) having eaten the foods given by you (in your grace)"
+- **अमीमदन्त हि** — "(the sacrificers) were fully satisfied"
+- **प्रियः** — "(their) beloved bodies"
+- **अव अधूषत** — "made to tremble well (that is, they shook their heads from excess of delight)"
+- **स्वभानवः** — "self-radiant"
+- **विप्राः** — "the wise ones"
+- **नविष्ठया** — "the newest and best"
+- **मती** — "by (their) praise"
+- **अस्तोषत** — "have praised (you) (therefore)"
+- **इन्द्र** — "O Indra"
+- **ते** — "your"
+- **हरी** — "horses"
+- **नु** — "carefully"
+- **योज** — "yoke (to the chariot)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.2** *(Kannada)*
+
+"O Indra, your devotees, the sacrificers, having eaten the food given by you, were fully satisfied. And they showed their exceeding delight by the shaking of their bodies — that is, they swayed their heads as a sign of delight. The sacrificers, self-radiant and wise, have praised you with a praise that is wholly new and excellent. To hear that praise, yoke your horses to the chariot and come, carefully and kindly."
+
+**English Translation** *(printed in English in the source)*
+
+"Your worshippers have eaten the food which you had given and they are satisfied with it ; they have expressed their satisfaction by the movements of their bodies. Self-inspired and wise men have glorified you with commendable praises ; therefore, Indra quickly yoke your horses." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.2)**
+
+- **अक्षन्** — *ada bhakṣaṇe* — "having eaten."
+- **अधूषत** — *atiśayitarasāsvādanena vaktum aśaknuvantaḥ śarīrāṇi akaṃpayan* — "'unable to speak because of the excess of the savour, they made their bodies shake'. Since the food that Indra gave is very tasty, the sense is that they shook their bodies, or their heads, to show their delight and satisfaction on eating it. In the practice of the world, when we are listening to music and the like, the delight that arises in our minds, which we express in words…" *(the sentence runs on to p. 41; split where the print splits it)*
+
+### Page 41 (PDF 56)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 82.2, continued:*
+
+"…in place of expressing it by speech, we express our delight by shaking the head; this is common. The same is to be understood here too."
+
+- **स्वभानवः** — *svāyattadīptayaḥ* — "'those who are self-radiant' means: those who grasp everything by their own intellect; those of much intellect, those of sharp intellect."
+- **नविष्ठया** — *ṇu stutau* — "(this word) is of the nature of praise, or is accompanied by commendation."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.2)** *(grammar page, noted briefly; runs to p. 42)*
+
+- **अक्षन्** — the root *ada bhakṣaṇe*, *adādi*; *luṅ*, third person plural; when *luṅ* or *san* follows, by "luṅsanor ghasl̥" (Pā. Sū. 2-4-37) the root *ad* is replaced by *ghasl̥*; the *l̥* is a mark; by "cli luṅi" (Pā. Sū. 3-1-43) the stem-marker *cli* comes in the *luṅ*, for which, by "mantre ghasa-hvara-ṇaśa-vṛda-…" (Pā. Sū. 2-4-80) the *luk* in the mantra; for the *luṅ* plural ending *jhi*, by "jher jantaḥ" (Pā. Sū. 7-1-3) the substitute *ant*; by "itaś ca" (Pā. Sū. 6-4-100) the final *i* is dropped, leaving *an*; by "sārvadhātukam apit" it is *ñit*; *ghas+an*: by "gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi" (Pā. Sū. 6-4-98) the penultimate of the root is dropped before the vowel-initial *kit/ṅit* affix; for the *gh* of *ghas*, by *cartva* (the *khar* following) *k* arises, and by "śāsivasighasīnāṃ ca" (Pā. Sū. 8-3-60) the *s* after that *k*-class letter (of these roots) becomes *ṣ*, so *k+ṣ* = *kṣ*; the augment *aṭ* comes because *luṅ* follows; being an augment, it is udātta: *akṣan*, initial-udātta.
+- **अमीमदन्त** — the root *mada tṛptiyoge*, *curādi*; since it is read in the *ākusmīya* group it is regularly *ātmanepadī*; *ṇic* in its own sense; *luṅ*, third person plural, the affix *jha* whose *jh* is replaced by *ant*; *mad+i+ant*: with *luṅ* following, the stem-marker *cli* that would arise generally is replaced by *caṅ* by "ṇiśridrusrubhyaḥ kartari caṅ" (Pā. Sū. 3-1-48); *madi+i+a+nta*: by the *ṇic* as cause, lengthening of the penultimate of the root; by "ṇer aniṭi" (Pā. Sū. 6-4-51) the *ṇi* dropped before *caṅ*; *māda+a+anta*; by "ṇau caṅy upadhāyā hrasvaḥ" (Pā. Sū. 7-4-1) the penultimate of the *aṅga* is shortened; since *caṅ* follows, by "caṅi" (Pā. Sū. 6-1-11) doubling of the root; with the remnant of the *hal*-initial, *mumad+a+anta*; by "sanvallaghuni caṅpare 'nagloṕe" (Pā. Sū. 7-4-93) … *(continues on p. 42)*
+
+### Page 42 (PDF 57)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*Grammar of Rik 82.2, continued from p. 41:*
+
+- **अमीमदन्त** (concluded) — "…since *caṅ* follows, *sanvadbhāva* comes; with *sanvadbhāva*, by "sanyataḥ" (Pā. Sū. 7-4-79) the *i* that would come to the reduplicative with *san* following, comes here too, for the reduplicative; by "dīrgho laghoḥ" (Pā. Sū. 7-4-94) it is lengthened (*mīmad*); with the augment *aṭ*: *amīmadanta* results."
+- **अधूषत** — the root *dhūñ kampane*, *svādi*; *luṅ*, third person plural; since there is no *a* after it, the *jha* is replaced by *at* [for *jha* in the *ātmanepada*]; the generally obtained *cli* is replaced by *sic*; by "vyatyayo bahulam" the guṇa of the light penultimate does not arise; since there is an *ik* before it, the *s* of *sic* becomes *ṣ*; with the augment *aṭ* the form *adhūṣata* is made. Here, by "chandasy ubhayathā" (Pā. Sū. 3-4-117) if the *sic*, being *ārdhadhātuka*, is also accepted as *sārvadhātuka*, then by "sārvadhātukam apit" (Pā. Sū. 1-2-4) it is *ñit*; then, since a *ñit* affix follows, "kṅiti ca" (Pā. Sū. 1-1-5) prevents guṇa — this other opinion may also be accepted. Or the root *dhū vidhūnane*, *tudādi*, which is also in the *kuṭādi* group: by "gāṅkuṭādibhyo 'ñṇin ṅit" (Pā. Sū. 1-2-1) the following *sic* is *ṅit*, and so is not guṇa-bearing, since no *ñit-it* arises; when the *luṅ* is made in the passive sense of the root, the proper form arises; in the passive *lakāra*, by "bhāvakarmaṇoḥ" the *ātmanepada* arises; in this alternative too, the absence of guṇa results from the preceding sūtra.
+- **नविष्ठया** — the root *ṇu stutau*, *adādi*; the affix *tṛc* in the agent sense on this root. Since *kartari* continues, "nvul-tṛcau" (Pā. Sū. 3-1-133) enjoins it; here, since the sense is 'praise' (an instrument), a doubt arises how the agentive *tṛc* can come when praise is the instrument (*karaṇa*); but since in the Veda the *kārakas* are *pradhāna* in their own functions, there is no doubt of the agentive *tṛc* in the agent sense; with *tṛc* following, guṇa of the root; since it is *ṇopadeśa* the initial becomes *n*; after a *tṛn*-ending or *tṛc*-ending word, by "tuś chandasi" (Pā. Sū. 5-3-59 [?]) the affix *iṣṭhan* comes in the Veda, and *iyasun*; *nav+tṛ+iṣṭha*, by "turiṣṭhemeyaḥsu" [as read: "turiṣṭhemeyaḥsu", Pā. Sū. 6-4-154] — when *iṣṭhan*, *imanic*, *īyasun* follow, the *tṛn*/*tṛc* is dropped; so here, with *iṣṭhan* following, the *tṛc* is dropped, giving *naviṣṭha*; when the feminine is intended, *ṭāp*; third-case singular gives the said form.
+- **मती** — the third-case singular *ṭā* following; by "supāṃ suluk-pūrvasavarṇa…" (Pā. Sū. 7-1-39) the third-case ending gets the single prior long vowel; the root *man*… *(continues on p. 43)*
+
+*Grammar page, noted briefly; the sūtra numerals tentative [?]; the argument on* adhūṣata *and* naviṣṭhayā *is outlined only.*
+
+---
+
+**Progress note:** Printed pp. 1–42 done (PDF 16–57) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1** complete; **Rik 82.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 38–41) done; its grammar page is begun on p. 41 and runs to p. 42, where it breaks off at the entry *matī* (to be continued on p. 43). Next: printed p. 43 (PDF 58). Four Ṛks (82.3–82.6) remain after 82.2, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt.
