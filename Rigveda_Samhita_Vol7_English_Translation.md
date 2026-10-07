@@ -2822,4 +2822,92 @@ kadā naḥ śuśravad gira indro aṅga ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–101 done (PDF 16–116) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.7 complete** (grammar of 84.7 pp. 99–100); **Rik 84.8** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (pp. 100–101), Bhāvārtha, English and the first Special Topic (p. 101) done; the rest of the Special Topics and the grammar of 84.8 not yet seen. Next: printed p. 102 (PDF 117). Twelve Ṛks (84.9–84.20) remain after 84.8. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 102 (PDF 117)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Special Topics of Rik 84.8, continued from p. 101:*
+
+- **क्षुम्पमिव** — *kṣumpam ahicchatrakaṃ bhavati* (Ni. [5-12] [?]) — "a snake-mushroom (*ahicchatra*) growing in a round shape."
+- **स्फुरत्** — *sphuratir vadhakarmā* — "*sphurati*, *sphalati* (Ni. [2-?] [?]): 'he will kill'. For this Ṛk Yāska has given the etymology — '*kadā martam anārādhayantaṃ pādena kṣumpam ivāsphuriṣyati kadā naḥ śroṣyati giras indro 'ṅga | aṅgeti kṣipranāma | añcitam ivāñcitaṃ bhavati*' (Ni. [3-18] [?]). That is: 'as someone treads on the mushroom growing coiled on the ground, and kills it with his foot, when will Indra kill the man who does not worship him with sacrifices? And when will he hear the words of praise that we make?' The word *aṅga* means 'quickly'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.8)** *(grammar page, noted briefly)*
+
+- **पदा** — the third-case singular of the word *pād*; with *ṭā* following, by "padd annṛnniśasan…" [as read: "pad-dan-no-mās-hṛn-niś-asan-yūṣan-doṣan-yakañ-chakan-udan-āsan-chu-prabhṛtiṣu", Pā. Sū. 6-1-63] the substitute *pad* for *pād*; so the form is *padā*; by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-171) the case-ending is udātta.
+- **क्षुम्पमिव** — the root *kṣubha sañcalane*; *ghañ* in the sense of the object; since *ghañ* follows, by the word *bahulam* the augment *num* arises for the root though no cause is present; by *vyatyaya*, *p* is the substitute for the *bh* of the root; the form *kṣumpa*.
+- **स्फुरत्** — the root *sphura sañcalane*; by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the *laṅ* in the sense of the future (*lṛṭ*); by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; the stem-marker *śa* by "tudādibhyaḥ śaḥ" (Pā. Sū. 3-1-77), being *ñit* by "sārvadhātukam apit" the guṇa of the root is barred by "kṅiti ca" (Pā. Sū. 1-1-5); by "itaś ca" (Pā. Sū. 3-4-100) the *i* of the affix is dropped; the form *sphurat*; by "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28) the nighāta accent.
+- **शुश्रवत्** — the root *śru śravaṇe*; the *leṭ*, third person singular, the affix *ti*; by "itaś ca lopaḥ parasmaipadeṣu" (Pā. Sū. 3-4-97) the loss of the *i*; by "bahulaṃ chandasi" (Pā. Sū. 2-4-76) *ślu* for *śap*; by "leṭo 'ḍāṭau" (Pā. Sū. 3-4-94) the augment *aṭ* for the affix; by "ślau" (Pā. Sū. 6-1-10) reduplication of the root; with the *hal*-remnant, the *ik* of the root takes guṇa; *av* replacement; the form *śuśravat*. ||8||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 103 (PDF 118)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.9**
+
+> यश्चिद्धि त्वा बहुभ्य आ सुतावाँ आविवासति ।
+> उग्रं तत्पत्यते शव इन्द्रो अङ्ग ॥ ९ ॥
+
+*yaś cid dhi tvā bahubhya ā sutāvāṁ āvivāsati |
+ugraṃ tat patyate śava indro aṅga ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यः । चित् । हि । त्वा । बहुऽभ्यः । आ । सुतऽवान् । आऽविवासति ।
+> उग्रम् । तत् । पत्यते । शवः । इन्द्रः । अङ्ग ॥ ९ ॥
+
+*yaḥ | cit | hi | tvā | bahu-bhyaḥ | ā | suta-vān | ā-vivāsati | ugram | tat | patyate | śavaḥ | indraḥ | aṅga ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.9** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> बहुभ्यो मनुष्येभ्यः सकाशाद्यश्चिद्धि य एव खलु यजमानः सुतावान् अभिषुतसोमयुक्तः सन् हे इन्द्र त्वा त्वामाविवासति परिचरति । विवासतिः परिचरणकर्मा । तत्तस्मै यजमानाय यदुग्रमुद्गूर्णं शवो बलमिन्द्रोऽङ्ग क्षिप्रं पत्यते । पातयति । प्रापयति । तत् । सुपां सुलुगिति चतुर्थ्या लुक् । पत्यते । पत्ऌ गतौ । अस्मादन्तर्भावितण्यर्थाद्व्यत्ययेन श्यन् ॥ ९ ॥
+
+*bahubhyo manuṣyebhyaḥ sakāśād yaś cid dhi ya eva khalu yajamānaḥ sutāvān abhiṣutasomayuktaḥ san he indra tvā tvām āvivāsati paricarati | vivāsatiḥ paricaraṇakarmā | tat tasmai yajamānāya yad ugram udgūrṇaṃ śavo balam indro 'ṅga kṣipraṃ patyate | pātayati | prāpayati | tat | supāṃ suluk iti caturthyā luk | patyate | patḷ gatau | asmād antarbhāvitaṇyarthād vyatyayena śyan || 9 ||*
+
+*Sense:* "Among many men, whichever sacrificer (*yaś cid dhi*), possessed (*sutāvān*) of pressed Soma, serves (*āvivāsati* = *paricarati*; *vivāsati* is a verb of service) you, O Indra — to that sacrificer Indra quickly (*aṅga*) brings (*patyate* = *pātayati*, *prāpayati*) that fierce (*ugram*), uplifted strength (*śavaḥ*)." *The grammatical tail:* *tat* — the fourth-case ending is dropped by "supāṃ suluk…"; *patyate* — the root *patḷ gatau*, with its causative sense included, and *śyan* by *vyatyaya*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.9** *(Kannada)*
+
+- **बहुभ्यः** — "from among many men"
+- **यश्चिद्धि** — "whichever sacrificer"
+- **सुत्वावान्** — "having pressed the Soma juice"
+- **त्वा** — "you"
+- **आविवासति** — "serves"
+- **तत्** — "to him"
+- **उग्रम्** — "terrible (fearful, very great)"
+- **शवः** — "strength"
+- **इन्द्रः** — "Indra"
+- **पत्यते** — "grants."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.9** *(Kannada)*
+
+"Of the many men, the one who presses Soma juice in the sacrifice and serves Indra — to him Indra grants strength that is hard to overcome (formidable)."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra grants formidable strength to him who worships him with prepared Soma-libations." — as printed.
+
+### Page 104 (PDF 119)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.9)**
+
+- **आविवासति** — *paricarati; vivāsatiḥ paricaraṇakarmā* (Ni. [3-?] [?]) — "he serves, he does service."
+- **उग्रम्** — *udgūrṇam* — "formidable: that is, very great."
+- **पत्यते** — *patḷ gatau; pātayati prāpayati* — "he causes to reach: that is, he gives."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.9)** *(grammar page, noted briefly)*
+
+- **त्वा** — from the stem *yuṣmad* in the second-case singular, by "tvāmau dvitīyāyāḥ" [as read: "tvāmau dvitīyāyāḥ", Pā. Sū. 8-1-23] the final of the stem with the case-ending is replaced by the anudātta substitute *tvā*.
+- **सुतावान्** — by "dīrghād aṭi samānapāde" (Pā. Sū. 8-3-9) the *n*, since *a* follows (in the next word), becomes *ru*; by "ato 'ci nityam" (Pā. Sū. 8-3-[?]) the nasalization of the vowel before the *ru* arises.
+- **आविवासति** — the root *vivāsa upasevāyām*, *loṭ* [*laṭ*], third person singular. Since *yaḥ* is in the preceding connection, no nighāta accent arises. Since *śap* is anudātta, the *lasārvadhātuka* after it, by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186), is anudātta; the root-accent remains.
+- **तत्** — the stem *tad*, the fourth-case singular; by "supāṃ suluk…" the case-ending is dropped.
+- **पत्यते** — the root *patḷ gatau*; since the sense of causation is included in the root (*antarbhāvitaṇyartha*) the *laṭ*, third person singular, ātmanepada, with the affix *ta*; by "ṭita ātmanepadānāṃ ṭer e" (Pā. Sū. 3-4-79) *e*; by "vyatyayo bahulam" the *śyan* stem-marker: *patyate*; by "tiṅ atiṅaḥ" the total anudātta. ||9||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–104 done (PDF 16–119) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.9 complete** (the three Uṣṇih Ṛks, 7–9, done; grammar of 84.9 on p. 104); next the three Paṅkti Ṛks (84.10–84.12). Next: printed p. 105 (PDF 120) — Rik 84.10. Eleven Ṛks (84.10–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
