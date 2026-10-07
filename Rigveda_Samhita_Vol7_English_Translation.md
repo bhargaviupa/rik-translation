@@ -4105,4 +4105,86 @@ Closing of Rik 84.20: "॥ २० ॥" (20), followed by a printer's ornament. *
 
 ---
 
-**Progress note:** Printed pp. 1–149 done (PDF 16–164) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): **Rik 85.1** done through the long Special Topics on the Maruts (pp. 147–149) and the first part of its grammar page (to *sudaṃsasaḥ*); the rest of that grammar page runs on p. 150. Next: printed p. 150 (PDF 165). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 *vidatheṣu*/*ghṛṣvayaḥ* grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 150 (PDF 165)
+
+*(Running head: "150 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.1, continued from p. 149 (grammar page, noted briefly):*
+
+- **चक्रिरे** — the root *ḍukṛñ karaṇe*; *liṭ*, third person plural; by "लिटस्तझयोरेशिरेच्" (*liṭas tajhayor eśirec*, Pā. Sū. 3-4-81) the substitute *irec* for *jha*; the *yaṇ*-substitution; since *hi ca* (Pā. Sū. [8-1-34] [?]) the word *hi* precedes, the *nighāta* is barred; since *irec* has the *c*-marker, by "चितः" the final acute.
+- **वृधे** — the root *vṛdhu vṛddhau*; by the statement "सम्पदादिभ्यः क्विप्" (*sampadādibhyaḥ kvip*), since it is read in that list, the affix *kvip*; the word *vṛdh*; dative singular; the later word (*ekāc*) so, by "सावेकाचस्तृतीयादिः" (*sāv ekācas tṛtīyādir vibhaktiḥ*) the case-ending acute.
+- **मदन्ति** — the root *madī harṣe*, Divādi; *laṭ*, third person plural, the substitute *ant*; *śap* as *vikaraṇa* in place of *śyan* by "व्यत्ययो बहुलम्"; since *madanti* stands at the beginning of a *pāda*, the *nighāta* does not occur; by the root's accent the first syllable acute.
+- **विदथेषु** — the root *vida jñāne*; by "रुविदिभ्यां कित्" (Uṇ. Sū. 3-[117] [?]) the affix *atha* (*kit*); since *kit* is the substitute, no *laghūpadha* guṇa; by the affix-accent the vowel after *d* is acute; locative plural.
+- **घृष्वयः** — the root *ghṛṣu saṃgharṣe*; by "कृविघृष्वि…" (Uṇ. Sū. 4-[147] [?]) fixed by *nipātana* with the affix *vi*; being *nit*, acute on the first syllable; nominative plural.
+
+Closing of Rik 85.1: "॥ १ ॥" (1).
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.2)** *(Jagatī; Maruts; accents not reproduced)*
+
+> त उक्षितासो महिमानमाशत दिवि रुद्रासो अधि चक्रिरे सदः ।
+> अर्चन्तो अर्कं जनयन्त इन्द्रियमधि श्रियो दधिरे पृश्निमातरः ॥ २ ॥
+
+*ta ukṣitāso mahimānam āśata divi rudrāso adhi cakrire sadaḥ | arcanto arkaṃ janayanta indriyam adhi śriyo dadhire pṛśnimātaraḥ ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "They, sprinkled [consecrated], attained greatness; the Rudras made their seat in the sky; praising the praiseworthy one, begetting vigour, the sons of Pṛśni took on splendours."
+
+---
+
+### Page 151 (PDF 166)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 151.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.2)**
+
+> ते । उक्षितासः । महिमानम् । आशत । दिवि । रुद्रासः । अधि । चक्रिरे । सदः ।
+> अर्चन्तः । अर्कम् । जनयन्तः । इन्द्रियम् । अधि । श्रियः । दधिरे । पृश्निऽमातरः ॥ २ ॥
+
+*te | ukṣitāsaḥ | mahimānam | āśata | divi | rudrāsaḥ | adhi | cakrire | sadaḥ | arcantaḥ | arkam | janayantaḥ | indriyam | adhi | śriyaḥ | dadhire | pṛśni-mātaraḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.2)**
+
+> ये पूर्वोक्तगुणविशिष्टास्ते मरुत उक्षितासो देवैरभिषिक्ताः सन्तो महिमानं महत्त्वमाशत । अश्नुवन् । रुद्रासो रुद्रस्य पुत्राः । उपचाराज्जनकशब्दः । ते रुद्रपुत्रा मरुतो दिवि द्योतमाने नभसि सदः सदनं स्थानमधि चक्रिरे । अधिकं सर्वोत्कृष्टं कृतवन्तः । अर्कमर्चनीयमिन्द्रमर्चन्तः पूजयन्तः इन्द्रियमिन्द्रस्य लिङ्गं वीर्यं जनयन्तः । प्रहर भगवो जहि वीरयस्व । ऐ. ब्रा. ३-२० [?] इत्येवंरूपेण वाक्कीर्त्तनेनोत्साहयन्तः । पृश्निमातरः पृश्निर्नानारूपायाः भूमेः पुत्रा मरुतः श्रियः ऐश्वर्याण्यधि दधिरे । अधिकमाधारयन् ॥ उक्षितासः । उक्ष सेचने । कर्मणि निष्ठा । आज्जसेरसुक् । महिमानम् । महच्छब्दात् पृथ्वादिलक्षण इमनिच् । टेरिति टिलोपः । आशत । अशू व्याप्तौ । लङि बहुलं छन्दसीति विकरणस्य लुक् । इन्द्रियम् । इन्द्रियमिन्द्रलिङ्गमिन्द्रदृष्टम् (पा. ५-२-९३ [?]) इति घच्प्रत्ययान्तो निपात्यते । पृश्निमातरः । प्राक्नुते सर्वाणि रूपाणीति पृश्निर्भूमिः । ज्रायते च । इयं वै पृश्निः । तै. ब्रा. [?] । पृश्निर्माता येषां ते तथोक्ताः । ऋतश्छन्दसि । (पा. ५-४-१५३ [?]) इति समासान्तस्य कपः प्रतिषेधः ॥
+
+*ye pūrvoktaguṇaviśiṣṭās te maruta ukṣitāso devair abhiṣiktāḥ santo mahimānaṃ mahattvam āśata | aśnuvan | rudrāso rudrasya putrāḥ | upacārāj janakaśabdaḥ | te rudraputrā maruto divi dyotamāne nabhasi sadaḥ sadanaṃ sthānam adhi cakrire | adhikaṃ sarvotkṛṣṭaṃ kṛtavantaḥ | arkam arcanīyam indram arcantaḥ pūjayantaḥ indriyam indrasya liṅgaṃ vīryaṃ janayantaḥ | prahara bhagavo jahi vīrayasva | Ai. Brā. 3-20 [?] ity evaṃrūpeṇa vākkīrtanenotsāhayantaḥ | pṛśnimātaraḥ pṛśnir nānārūpāyāḥ bhūmeḥ putrā marutaḥ śriyaḥ aiśvaryāṇy adhi dadhire | adhikam ādhārayan ‖ ukṣitāsaḥ | ukṣa secane | karmaṇi niṣṭhā | āj jaser asuk | mahimānam | mahacchabdāt pṛthvādilakṣaṇa imanic | ṭer iti ṭilopaḥ | āśata | aśū vyāptau | laṅi bahulaṃ chandasīti vikaraṇasya luk | indriyam | indriyam indraliṅgam indradṛṣṭam (Pā. 5-2-93 [?]) iti ghac-pratyayānto nipātyate | pṛśnimātaraḥ | prāknute sarvāṇi rūpāṇīti pṛśnir bhūmiḥ | jrāyate ca | iyaṃ vai pṛśniḥ | Tai. Brā. [?] | pṛśnir mātā yeṣāṃ te tathoktāḥ | ṛtaś chandasi (Pā. 5-4-153 [?]) iti samāsāntasya kapaḥ pratiṣedhaḥ ‖*
+
+*(Kannada script; the passage from "jrāyate ca" is cramped and read with doubt; the Brāhmaṇa references are [?].)*
+
+*Translation:* "The Maruts, who possess the qualities just described, *ukṣitāsaḥ* — sprinkled (consecrated) by the gods — attained (*āśata*) greatness. *Rudrāsaḥ* — sons of Rudra (the word 'father' being used figuratively). Those sons of Rudra, the Maruts, made (*adhi cakrire*) their abode (*sadaḥ*) high up, in the shining sky — that is, made it the highest of all. *Arcantaḥ* — worshipping Indra, who is to be worshipped (*arkam*), *indriyam janayantaḥ* — generating the vigour, the sign, of Indra: encouraging him by speech such as 'strike, O Lord, slay, show your heroism' (Ai. Brā. [3-20] [?]). *Pṛśnimātaraḥ* — the sons of Pṛśni, the many-formed earth, the Maruts, *śriyaḥ* — took on (*adhi dadhire*) lordly powers in abundance." *Grammar tail, noted briefly:* *ukṣitāsaḥ* — *ukṣa secane*, the past participle in the passive; the *asuk* augment for *jas*; *mahimānam* — the affix *imanic* after *mahat* (as in *pṛthu* etc.), loss of the final syllable; *āśata* — *aśū vyāptau*, *laṅ*, the *vikaraṇa* elided by *bahulaṃ chandasi*; *indriyam* — a form fixed by *nipātana* with the affix *gha* (*indraliṅgam, indradṛṣṭam…*); *pṛśnimātaraḥ* — *pṛśni* means the earth, 'that which pervades all forms'; the Brāhmaṇa says "this indeed is Pṛśni"; the *ka*-ending (*kap*) at the end of the compound is barred by *ṛtaś chandasi*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.2)** *(Kannada; runs on to p. 152)*
+
+*te* — (the previously described) those Maruts; *ukṣitāsaḥ* — (by the gods) consecrated; *mahimānam* — greatness; *āśata* — attained; *rudrāsaḥ* — the sons of Rudra, the Maruts; *divi* — in the shining sky; *sadaḥ* — (their) dwelling; *adhi cakrire* — firmly established as the highest; *arkam* — the worshipful Indra; *arcantaḥ* — worshipping; *indriyam* — Indra's valour; *janayantaḥ* — inspiring; *pṛśnimātaraḥ* — those whose mother is Pṛśni, with various forms, that is, the earth…
+
+---
+
+### Page 152 (PDF 167)
+
+*(Running head: "152 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Pratipadārtha of Rik 85.2, continued from p. 151:*
+
+"…whose mother is the earth, the Maruts; *śriyaḥ* — lordly powers; *adhi dadhire* — took on in abundance."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.2** *(Kannada)*
+
+"The Maruts, consecrated by the gods, attained greatness. The Maruts, sons of Rudra, firmly established their abode excellently in the shining sky. The Maruts, sons of Pṛśni, worshipping Indra the worshipful and inspiring his valour, took on abundant lordly powers."
+
+**English Translation** *(printed in English in the source)*
+
+"They (Maruts) inaugurated by the Gods have attained majesty; the Sons of Rudra have established their dwelling above the sky; glorifying him (Indra) who merits to be glorified they have inspired him with vigour; the Sons of Prisni (earth) have acquired glory." — as printed ("Prisni" in the print).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.2)**
+
+- **उक्षितासः** — *ukṣa secane devair abhiṣiktāḥ* — "consecrated by the gods; made to attain the status of anointed ones."
+- **रुद्रासः** — *rudraputrāḥ* — "Here the word *rudrāsaḥ* gives the name of Rudra; but, in order to indicate honour, by a figurative use (*upacāra*) the sons are addressed by the father's name."
+- **अधि चक्रिरे सदः** — "the abode of the Maruts is in the highest parts of the atmosphere — so the meaning."
+- **अर्चन्तो अर्कं इन्द्रियम्** — "those who offer praise connected with Indra, that is, they are praising Indra."
+- **पृश्निमातरः** — "*pṛśni* means the earth, the cow. *Pṛśnimātaraḥ* means the sons of the earth or the sons of the cow. The bhāṣyakāra explains this word as 'the sons of the earth, which has many kinds of colour'. And as an example:
+
+> पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वया मत्या मरुतः सं मिमिक्षुः ॥
+
+*pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayā matyā marutaḥ saṃ mimikṣuḥ ‖* (Ṛ. Saṃ. 5-[57?]-[?] [?]; numerals not legible) — *Gloss, mine and tentative:* "The sons of Pṛśni, the most vigorous, of fine quality, the Maruts, have mingled [with the offering] by their own thought."
+
+---
+
+**Progress note:** Printed pp. 1–152 done (PDF 16–167) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): **Rik 85.1 complete**; **Rik 85.2** done through the Special Topics as far as the *pṛśnimātaraḥ* entry, p. 152 (the Ṛgveda quotation given; the entry may continue on p. 153; then grammar of 85.2). Next: printed p. 153 (PDF 168). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 and 151 grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
