@@ -6110,4 +6110,59 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 ---
 
-**Progress note:** Printed pp. 1–301 done (PDF 19–319): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.3 complete; **Rik 71.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (pp. 297–301) done; the Special Topics break off in the discussion of *sacā san* (Agni as friend and messenger) at the foot of p. 301; the grammar page of 71.4 is not yet seen. Next: p. 302 (PDF 320). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.5–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Chāndogya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 300–301 (Sanskrit as read, glosses mine and tentative) doubtful [?]; the bhāṣya's grammatical tail (p. 299) very compressed and doubtful.
+### Page 302 (PDF 320)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.4 (concluded from p. 301):** "…by the epithet *bhṛgavāṇaḥ* ('like the sage Bhṛgu', most excellent in the performance of rites), it is suggested that only the sacrificer who is devoted to such an excellent performance of rites obtains such friendship of Agni. In such a situation, as when one king has the help of another king the power of both shines forth and wins victory, so the friendship of Agni brings benefit to the sacrificers and to all the gods and men alike — such is the purport. Or: as a sacrificer devoted to the rites of sacrifice rises to an excellent position, so a king, by the greatness of his own position, obtains a second [king] who is friendly with him yet greater in valour than himself, and sends to him his messenger; so Agni sends his messenger [i.e., himself acts as messenger] to the gods."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.4, noted briefly; not transcribed)*
+
+Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sic* for *cli* by *cleḥ sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *iḍāgama* before the *tip* following *asti-sic-opṛkte*, Pā. [7-3-96], with the *aprkta* … the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā. [7-2-5]; loss of *s* of *sic* by *iṭa īṭi*, Pā. [8-2-28]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the root accent remains since the augment is anudātta; no nighāta since at the head of a pāda); *jenyaḥ* (root *janī* "to be born", with an Uṇādi *inya* affix and *ṭi*-loss, as Bhaṭṭabhāskaramiśra holds; or root *ji* "to conquer", *kṛtyalyuṭo bahulam*, Pā. [3-3-113], the *bahula* allowing agent-sense; *yat* by *ajo yat* [as read, ?], Pā. [3-1-?]; *nuḍāgama*; guṇa of the root's *i* for the affix; the form *jenya*; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], giving the initial acute); *sahīyase* (*sahaḥ* is a name of strength; "he has strength to excess", *īyasun*; *nit*, so initial acute; dative singular); *dūtyam* (*dūtasya karma dūtyam*; *yat* by *dūtasya bhāvakarmaṇī*; loss of the *a* of *dūta* by *yasyeti ca*; *yat* being *tit*, svarita by *tit svaritam*, Pā. [6-1-185]; though *yato 'nāvaḥ* would give the initial acute here as a blocking rule; …). *(Continued on p. 303.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 303 (PDF 321)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 71.4 (concluded; noted briefly):** *dūtyam* (concluded) — the initial acute that would come by that rule does not arise here, since *vīravīryau ca*, Pā. [6-2-120], has shown it to be non-constant; *bhṛgavāṇaḥ* ("acting like Bhṛgu": by the vārttika *sarvaprātipadikebhyaḥ kvib vaktavyaḥ*, Pā. Mā. [3-1-11-3?], *kvip* after the stem *bhṛgu* in the sense of conduct; since *kvip* has the sense of conduct, the *kvibanta* *bhṛgu* gets the designation "root" by *sanādyantā dhātavaḥ*; *śānac* in the present by *vyatyayo bahulam*; *śap*; guṇa of *i* by *sārvadhātukārdhadhātukayoḥ*; *av* substitution; because the *n* of the affix follows an *ṛ* [ra] with an intervening *a*-augment etc., *ṇatva* of *n* [as read]; because *śānac* is *sārvadhātuka* following an *adupadeśa*-root, it is anudātta by *tāsyanudāttet…*; since by this the root-final of the *pratyayānta* root *bhṛgu* should be acute, the *vṛṣādi* class being an *ākṛtigaṇa* includes this, so *vṛṣādīnāṃ ca*, Pā. [6-1-203], gives the initial acute); *vivāya* (root *vī* "to go and so on"; with the causative sense included; *liṭ*, third person singular; *ṇal* for *tip* by *parasmaipadānāṃ ṇalatusus…*; reduplication of the root; shortening; the affix being *ṇit*, vṛddhi of the *ī* by *aco ñṇiti*; *āy* substitution; nighāta because it follows an *atijanta*). Ends "॥ ४ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.5** *(printed Ṛk "5 ||")*
+
+> महे यत्पित्र ईं रसं दिवे करव त्सरत्पृशन्यश्चिकित्वान् ।
+> सृजदस्ता धृषता दिद्युमस्मै स्वायां देवो दुहितरि त्विषिं धात् ॥ ५ ॥
+
+*mahe yat pitra īṃ rasaṃ dive karava tsarat pṛśanyaś cikitvān |
+sṛjad astā dhṛṣatā didyum asmai svāyāṃ devo duhitari tviṣiṃ dhāt ||5||*
+
+*(Reading note: the print joins "करव त्सरत्" as shown; the Pada below divides it *kaḥ | ava | tsarat*. Accents not reproduced.)*
+
+---
+
+### Page 304 (PDF 322)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> महे । यत् । पित्रे । ईम् । रसम् । दिवे । कः । अव । त्सरत् । पृशन्यः । चिकित्वान् ।
+> सृजत् । अस्ता । धृषता । दिद्युम् । अस्मै । स्वायाम् । देवः । दुहितरि । त्विषिम् । धात् ॥ ५ ॥
+
+*mahe | yat | pitre | īm | rasam | dive | kaḥ | ava | tsarat | pṛśanyaḥ | cikitvān | sṛjat | astā | dhṛṣatā | didyum | asmai | svāyām | devaḥ | duhitari | tviṣim | dhāt ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.5** *(begun; runs on to p. 305; doubtful places [?])*
+
+> महे महते पित्रे पालयित्रे दिवे द्योतमानाय देवगणायेममिमं रसं पृथिव्याः सारभूतं हविर्यद्यदा यजमानः कः करोति तदानीं पृशन्यः स्पर्शनकुशलो राक्षसादिक्लिष्टान् हवींषि वहंतं हे अग्ने त्वां जानन् अव त्सरत् । त्सरतेर्द्धातुः [सरतिः] छद्मगतौ । त्सरत्पृशन्यो ऽलायते [?] । अस्ता असु क्षेपणशीलोऽग्निर्धृषता धर्षकेण धनुषास्मै पलायमानाय राक्षसादये दिद्युं दीप्यमानं बाणं सृजत् । विसृजति । देवो दीप्यमान उषःकालं प्राप्तोऽग्निः स्वायां स्वकीयायां दुहितरि महित्ववत्समनंतरभावेन्या(?) मुषसि त्विषिं स्वकीयां दीप्तिं धात् । स्थापयति । उषःकाले हि सूर्यकिरणाः प्रादुर्भवंति । तैः स्वकीयं प्रकाशमेकीकरोति । तथा च तैत्तिरीयकं । उद्यंतं वा एनमादित्यमग्निरनुसमारोहति तस्माद्धूम एवाग्नेर्दिवा ददृशे । तै. ब्रा. [२-१-२-१०?] इति । अत उषसि दीप्तिं निदधातीत्युच्यते ॥ कः । करोतेर्लुङि मंत्रे घसेत्यादिना च्लेर्लुक् । त्सरत् । त्सर छद्मगतौ । लेट्यडागमः । इतश्चेतीकारलोपः । पृशन्यः । स्पृश संस्पर्शने । क्पृश् [?] क्प्य् वृजीति । उ. [२-४९?] विधीयमानः क्युप्रत्ययो बहुलवचनादस्मादपि भवति । स्पर्शनं स्पर्शः । तत्र साधुरिति यत् । सलोपश्छांदसः । तित्स्वरितमिति स्वरितत्वं । दिद्युं । दिद्युदिति वज्रनाम । अंत्यलोपश्छांदसः । धात् । छांदसो वर्तमाने लुङ् ॥
+
+*mahe mahate pitre pālayitre dive dyotamānāya devagaṇāyemam imaṃ rasaṃ pṛthivyāḥ sārabhūtaṃ havir yad yadā yajamānaḥ kaḥ karoti tadānīṃ pṛśanyaḥ sparśanakuśalo rākṣasādikliṣṭān havīṃṣi vahantaṃ he agne tvāṃ jānan ava tsarat | tsaratir dhātuḥ chadmagatau | astā asu kṣepaṇaśīlo 'gnir dhṛṣatā dharṣakeṇa dhanuṣāsmai palāyamānāya rākṣasādaye didyuṃ dīpyamānaṃ bāṇaṃ sṛjat | visṛjati | devo dīpyamāna uṣaḥkālaṃ prāpto 'gniḥ svāyāṃ svakīyāyāṃ duhitari mahitvavat samanantarabhāvenyā(?) m uṣasi tviṣiṃ svakīyāṃ dīptiṃ dhāt | sthāpayati | uṣaḥkāle hi sūryakiraṇāḥ prādurbhavanti | taiḥ svakīyaṃ prakāśam ekīkaroti | tathā ca taittirīyakaṃ | udyantaṃ vā enam ādityam agnir anusamārohati tasmād dhūma evāgner divā dadṛśe | tai. brā. [2-1-2-10?] iti | ata uṣasi dīptiṃ nidadhātīty ucyate || kaḥ | karoter luṅi mantre ghaseti ādinā ca cler luk | tsarat | tsara chadmagatau | leṭy aḍāgamaḥ | itaś cetīkāralopaḥ | pṛśanyaḥ | spṛśa saṃsparśane | kpṛś [?] kpy vṛjīti | u. [2-49?] vidhīyamānaḥ kyupratyayo bahulavacanād asmād api bhavati | sparśanaṃ sparśaḥ | tatra sādhur iti yat | salopaś chāndasaḥ | titsvaritam iti svaritatvaṃ | didyuṃ | didyud iti vajranāma | antyalopaś chāndasaḥ | dhāt | chāndaso vartamāne luṅ ||*
+
+*(Reading note: the print is clear, but "chadmagatau", the clause "tsaratir…", "mahitvavat samanantarabhāvenyāṃ" and the Uṇādi numeral are doubtful readings [?]; the bhāṣya's grammatical tail, from "kaḥ", is characterized, not treated line by line.)*
+
+*Meaning:* When the sacrificer (*kaḥ*, "makes") this essence of the earth, the oblation, for the great (*mahe*) father (*pitre*) — the protector, the shining company of gods (*dive*) — then Agni, the *pṛśanya* (skilled in touch — in discerning the demons and the like who trouble) — knowing you, O Agni, who carry the oblations — *ava tsarat* — goes down/moves stealthily [?]. The shooter (*astā*, one who casts) Agni, with his bold (*dhṛṣatā*) bow, sends a gleaming (*didyum*) arrow at this fleeing demon. And the shining god Agni, having come in the dawn-time, places (*dhāt*) his own radiance in his own daughter, the Dawn (*svāyāṃ duhitari*) — as when she arises. At the dawn the sun's rays appear; with them he makes his own light one. So the Taittirīya (Brāhmaṇa): "Agni climbs up after the rising sun; therefore only the smoke of Agni is seen by day" (Tai. Brā. [2-1-2-10?]); hence it is said that he places radiance in the Dawn.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *kaḥ* (root *kṛ*, *luṅ*; loss of *cli* by *mantre ghasa-hvara…*, Pā. [2-4-80]); *tsarat* (root *tsar* "to go stealthily", *leṭ* with the *aḍ*-augment; loss of the *i* of the ending by *iteś ca lopaḥ*); *pṛśanyaḥ* (root *spṛś* "to touch"; the *kyu*-affix by Uṇ. [2-49?] by the *bahula* rule; *sparśaḥ* "touch"; *sādhuḥ tatra* — *yat* in the sense "skilled in it"; Vedic loss of *s*; svarita by *tit svaritam*); *didyum* (*didyut* is a name for the thunderbolt; Vedic loss of the final); *dhāt* (Vedic *luṅ* in the sense of the present).
+
+---
+
+**Progress note:** Printed pp. 1–304 done (PDF 19–322): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.4 complete (71.4's grammar page on pp. 302–303); **Rik 71.5** (printed "5 ||") — Saṃhitā and Pada (pp. 303–304) and the Sāyaṇa-bhāṣya with its grammatical tail (p. 304) done; the Pratipadārtha begins on p. 304's foot / p. 305, not yet written. Next: p. 305 (PDF 323), the Pratipadārtha, Bhāvārtha, English and Special Topics of Rik 71.5. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.5–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's *tsarat* clause on p. 304 and the grammar page of 71.4 (pp. 302–303) doubtful in places [?].
