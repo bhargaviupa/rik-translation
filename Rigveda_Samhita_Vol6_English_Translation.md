@@ -5284,4 +5284,74 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–266 done (PDF 19–284): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1 complete; **Rik 70.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics done (pp. 264–266); its grammar page is not yet seen. Next: p. 267 (PDF 285), the grammar page of Rik 70.2 (if there); then Riks 70.3–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; the Special Topics on p. 266 compressed and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 267 (PDF 285)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]" as read.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.2, noted briefly; not transcribed)*
+
+Words treated: *apām* (*ap*; genitive plural; acute on the ending by the sūtra on *ūḍidaṃpadādi…*); *sthātām* (root *sthā*, *kvip* by Pā. [3-2-76?], tuk-augment by Vedic usage, or an Uṇādi affix; loss of *ā* before *ām*; acute by "*sāvekācas tṛtīyādiḥ*" — *सावेकाचस्तृतीयादिः* / *sāvekācas tṛtīyādiḥ* — "of a word with a single vowel, the endings from the third case on take the acute"); *carathām* (root *car*; affix *atha* by "*śīrṣaś cirugami…*", Uṇ. [3-113?]; the *nuṭ* of *hrasvanadyāpo nuṭ* does not come, by the rule *āgamaśāstram anityam* — "the grammar of augments is not constant"; lengthening of like vowels; acute on the *ra* by the affix's first-syllable acute); *viśām* (genitive plural, same acute rule as above); *viśvaḥ* (root *viś*, "to enter"; *kvan* by the Uṇādi sūtra "*āśiśṛṣilaṭikaṇi…*", Uṇ. [1-154?]; no guṇa because the affix is *kit*; initial acute because it is *nit*, by "*ñnityādir nityam*"). Ends "॥ ३–४ ॥" (as read). *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.3** *(printed Ṛk "5 || 6 ||")*
+
+> स हि क्षपावाँ अग्नी रयीणां दाशद्यो अस्मा अरं सूक्तैः ।
+> एता चिकित्वो भूमा नि पाहि देवानां जन्म मर्तांश्च विद्वान् ॥ ५ ॥ ६ ॥
+
+*sa hi kṣapāvāṃ agnī rayīṇāṃ dāśad yo asmā araṃ sūktaiḥ |
+etā cikitvo bhūmā ni pāhi devānāṃ janma martāṃśca vidvān ||5||6||*
+
+*(Reading note: the printed "5 || 6 ||" are the two half-Ṛk numbers, joined in one four-pāda Ṛk, as with the earlier Riks of this sūkta. Accents not reproduced.)*
+
+---
+
+### Page 268 (PDF 286)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । हि । क्षपाऽवान् । अग्निः । रयीणाम् । दाशत् । यः । अस्मै । अरम् । सुऽउक्तैः ।
+> एता । चिकित्वः । भूम । नि । पाहि । देवानाम् । जन्म । मर्तान् । च । विद्वान् ॥ ५ ॥ ६ ॥
+
+*saḥ | hi | kṣapā-vān | agniḥ | rayīṇām | dāśat | yaḥ | asmai | aram | su-uktaiḥ | etā | cikitvaḥ | bhūma | ni | pāhi | devānām | janma | martān | ca | vidvān ||5||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> स ह्यग्निः क्षपावान् । क्षपेति रात्रिनाम । रात्रिमान् । आग्नेयी वै रात्रिः । तै. ब्रा. [१-१-९-२?] इति श्रुतेः । रात्रेरग्निसंबन्धोऽस्यग्नि ज्योतिर्ज्योतिरग्निः स्वाहेति हूयमानत्वात् । तै. ब्रा. [१-१-९-१०?] । यद्वा राक्षसादीनां क्षपणेन नाशनेन युक्तः । एवंभूतोऽग्निः स्तोत्रे यजमानाय रयीणां धनानि दाशत् । दाशति प्रयच्छति । यो यजमानोऽस्मा अग्नये सूक्तैः सुष्ठूक्तैर्यथाशास्त्रं प्रयुक्तैर्मंत्रैरर[मलं] पर्याप्तं स्तोत्रं करोति तस्मा इत्यर्थः । हे चिकित्वः । चिकित्वांश्चेतनावान् । नि. [१-११?] इति यास्कः । हे चेतनावान् सर्वज्ञाग्ने त्वं देवानामिन्द्रादीनां जन्म जन्मानि मर्तान्मनुष्यांश्च विद्वान् जानन् । एता(नि) भूम भूम्युपलक्षितानि भूतजातानि नि पाहि । नितरां पालय । यतस्त्वं देवमनुष्यादीन्सर्वान् जानासि अत एवमुच्यत इत्यर्थः ॥
+
+*sa hy agniḥ kṣapāvān | kṣapeti rātrināma | rātrimān | āgneyī vai rātriḥ — tai. brā. [1-1-9-2?] — iti śruteḥ | rātrer agnisaṃbandho 'sy agnir jyotir jyotir agniḥ svāheti hūyamānatvāt — tai. brā. [1-1-9-10?] | yadvā rākṣasādīnāṃ kṣapaṇena nāśanena yuktaḥ | evaṃbhūto 'gniḥ stotre yajamānāya rayīṇāṃ dhanāni dāśat | dāśati prayacchati | yo yajamāno 'smā agnaye sūktaiḥ suṣṭhūktair yathāśāstraṃ prayuktair maṃtrair aram alaṃ paryāptaṃ stotraṃ karoti tasmā ity arthaḥ | he cikitvaḥ | cikitvāṃś cetanāvān — ni. [1-11?] iti yāskaḥ | he cetanāvān sarvajñāgne tvaṃ devānām indrādīnāṃ janma janmāni martān manuṣyāṃś ca vidvān jānan | etā(ni) bhūma bhūmy-upalakṣitāni bhūtajātāni ni pāhi | nitarāṃ pālaya | yatas tvaṃ deva-manuṣyādīn sarvān jānāsi ata evam ucyata ity arthaḥ ||*
+
+*(Reading note: the bhāṣya text here is read from a clear print; the Taittirīya and Nirukta numerals and the bracketed "[maluṃ]" completion are doubtful [?].)*
+
+*Meaning:* Agni is *kṣapāvān*: *kṣapā* is a name of night; he is "possessed of night", for "the night belongs to Agni" (Tai. Brā. [?]), the night being connected with Agni, since the oblation "Agni is light, light is Agni, svāhā" is offered into him (Tai. Brā. [?]). Or he is one who is joined with the destruction (*kṣapaṇa*) of the demons and the like. Such an Agni gives (*dāśat*) the riches to the sacrificer who praises him in due manner with well-spoken hymns (*sūktaiḥ*) — that is, adequately. "O *cikitvaḥ*" — knowing one (Yāska, Ni. [?]); O all-knowing Agni, knowing the births of the gods, Indra and the rest, and of mortals, men, protect well these beings that live upon the earth; because you know all gods, men and the rest, you are so addressed.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *rayīṇām* (genitive of the object of giving, in the sense of the dative); *dāśat* (root *dāś*, *leṭ*, with the *aḍ*-augment); *aram* (formed by the sūtra on *vālamūle…*, as read); *sūktaiḥ* (*kta* after *su* by the comparison, Pā. [6-1-139?], so that the accent is on the final of the first member); *cikitvaḥ* (*matuvasoḥ… ruḥ*, the change to *ru* for the final of the vocative); *bhūma* (the dvitīyā plural ending replaced by *ḍā* by *supāṃ sulug…*); shortening in the Padakāla.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; begun here)*
+
+*yaḥ* — which sacrificer; *asmai* — (to Agni) to him; *sūktaiḥ* — with well-composed mantras (spoken according to the scriptures); *aram* — sufficiently (performs the praise); (*tasmai* — to such a sacrificer); *kṣapāvān* — one connected with the night (and who destroys the demons and the like); *saḥ agniḥ* — that Agni —
+
+---
+
+### Page 269 (PDF 287)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Pratipadārtha (concluded):** *saḥ agniḥ* — that Agni; *rayīṇām* — wealth; *dāśat hi* — will surely give; *cikitvaḥ* — knowing (omniscient) O Agni; *devānām* — of the gods, Indra and the others; *janma* — births; *martān ca* — and mortals (men); *vidvān* — knowing (you); *etā* — these; *bhūma* — the beings that are on the earth; *ni pāhi* — protect well.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni, who is related to the night, and is the destroyer of the demons for the sacrificer, is gracious with wealth and the like to those who praise him with hymns. O all-knowing Agni, who know the births and so on of the gods, Indra and the others, and of men, protect all the beings that live on this earth.
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, the lord of night, grants riches to (the worshipper) who adores him with sacred hymns. Agni, who are omniscient, and know the origin of Gods and men, protect all these (beings dwelling) upon earth.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada; begun here)*
+
+- **अग्निः क्षपावान्** — *kṣapā iti rātrināma* — "*Kṣapā* is a name of night. 'The night belongs to Agni' (Tai. Brā. [1-1-9-2?], as read); 'Agni is light, light is Agni, svāhā' (Tai. Brā. [1-1-9-10?]). Or: being joined with the destruction of the demons — Agni is closely connected with the night; for the word *kṣapā* is read among the twenty-two [as read, ?] names of night (Ni. [1-?]); when the word *kṣapā* has the acute on its final it means the night; when on the first syllable it denotes 'destroying'. Examples of both senses are '*nṛṇāṃ nṛtomaḥ kṣapāvān*' (Ṛk. Saṃ. 10-[?]) and '*tvam asi kṣapāvān*' (Ṛk. Saṃ. 8-[?]), which are the two kinds of sense. The Taittirīya Brāhmaṇa too says that night is related to Agni, and those who sacrifice offer the oblation to Agni with the mantra 'Agni is light'. Since Agni destroys the demons greatly, and since the root *kṣap* has the sense of destruction, Agni is *kṣapāvān*." *(Compressed; the Ṛgveda and Nirukta numerals [?], and the details of the accent remark are read doubtfully [?].)*
+- **Skandasvāmin:** "*kṣapā iti rātrināma*" — *kṣapā* is a name of night. Though Agni is connected with both day and night, his connection with night is special; since Agni gives much light, he is necessarily so. Because of this connection with light, Agni is designated *kṣapāvān*. Or: (the word) is one that destroys weakness by increasing the power of praises." *(The page breaks off here; continued on p. 270.)*
+
+---
+
+**Progress note:** Printed pp. 1–269 done (PDF 19–287): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.2 complete including the grammar page of 70.2 (p. 267); **Rik 70.3** (printed "5 || 6 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (Agni *kṣapāvān*; Skandasvāmin) done (pp. 267–269); the Special Topics break off at the foot of p. 269. Next: p. 270 (PDF 288), the rest of the Special Topics of 70.3 and its grammar page; then Riks 70.4–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the bracketed completion "aram[alaṃ]" in the bhāṣya and the Special Topics accent remark on p. 269 doubtful [?].
