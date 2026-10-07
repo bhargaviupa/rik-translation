@@ -115,4 +115,85 @@ tam in mahatsv ājiṣūtemarbhe havāmahe sa vājeṣu pra no 'viṣat ||1||*
 
 ---
 
-**Progress note:** Printed pp. 1–3 done (PDF 16–18) of Volume 7 (`Rig_Vol7.pdf`, 582 PDF pages; **printed page = PDF − 15**; Sūktas 81–94, the Sixth Adhyāya; contents read from PDF 12–15). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; the eighth sūkta of Anuvāka 13; Varga "1, 2, 3" as read [?]; printed pp. 1–32, then Sūkta 82 begins on p. 33) begun: introduction and Anuvāda (pp. 1–2), heading, and **Rik 81.1** — Saṃhitā, Pada and bhāṣya (p. 3) done. Next: printed p. 4 (PDF 19) — Pratipadārtha of 81.1. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
+### Page 4 (PDF 19)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.1** *(Kannada)*
+
+- **वृत्रहा** — "the slayer of the demon Vṛtra; or the slayer of the enemy who encloses (the world)"
+- **इन्द्रः** — "Indra"
+- **मदाय** — "for gladness (satisfaction)"
+- **शवसे** — "for strength"
+- **नृभिः** — "by men (in the form of priests)"
+- **वावृधे** — "being praised, he increased"
+- **तम् इत्** — "that very Indra"
+- **महत्सु** — "in the mighty"
+- **आजिषु** — "in battles"
+- **हवामहे** — "we call (for our protection)"
+- **उत** — "and"
+- **ईम्** — "that very Indra"
+- **अर्भे** — "in a small battle also (we call)"
+- **सः** — "that Indra"
+- **वाजेषु** — "in battles"
+- **नः** — "us"
+- **प्र अविषत्** — "may he protect completely."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.1** *(Kannada)*
+
+"The priests always praise Indra, the slayer of Vṛtra, to give him satisfaction and to increase his strength. By those praises Indra's greatness grows. We call that Indra, praying for protection, in great battles and in small battles alike. May he protect us completely."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, the slayer of Vritra, acquires vigour by means of men's praises ( or is pleased by our praises ) We invoke him in great battles as well as in little conflicts ; may he defend us in (all such) battles." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.1)**
+
+- **मुख्याभिप्रायवु (chief intent)** — "It is well known that the strength of the gods grows by the *stotras* and so on that men make. Therefore, even though Indra's strength is exceedingly great, let it grow still more by the praises we men make. Such an Indra, the destroyer of Vṛtra — whether in great battles or in small, trifling disturbances — we call by prayer for our protection. Let Indra protect us in small, great and all kinds of battles."
+- **मदाय हर्षार्थम्** — "so that Indra may be gladdened; the meaning is that Indra is pleased by our prayer or praises."
+- **शवसे** — "for the increase of Indra's strength. Among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* the word *śavaḥ* is read; so *śavase* means 'for strength'. The form *śavase* is the fourth-case singular of the *s*-ending word *śavas*."
+
+### Page 5 (PDF 20)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 81.1, continued:*
+
+- **आजिषु, वाजेषु** — "these words are read among the thirty-odd names of battle beginning *raṇaḥ, vivākaḥ*, so here they mean 'in battles' (Ni. [2-17] [?])."
+- **अर्भे** — "*arbha* is a name of the small (*alpa*); it means 'small, minor'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.1)** *(grammar page, noted briefly)*
+
+- **वावृधे** — the root *vṛdhu vṛddhau*, *bhvādi*; *liṭ* in the passive sense; the *ātmanepada* comes by "bhāvakarmaṇoḥ" (भावकर्मणोः, Pā. Sū. 1-3-13); by "liṭi dhātor anabhyāsasya" (लिटि धातोरनभ्यासस्य, Pā. Sū. 6-1-8) reduplication of the root; by "halādiḥ śeṣaḥ" (Pā. Sū. 7-4-60) only the *va* of the reduplicative remains; with *e* added: *vavṛdhe*. In the Saṃhitā the lengthening of the preceding reduplicative (*vāvṛdhe*) comes by "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137), which is optional-Vedic; the print remarks that in forms like *tutujānaḥ* the reduplicative lengthening is prescribed by "tujādīnām dīrgho 'bhyāsasya" (तुजादीनां दीर्घोऽभ्यासस्य, Pā. Sū. 6-1-7), and that this word might be included in that group, but then the lengthening would also have to be heard at the Pada-stage, which is not so; hence the lengthening is only in the mantra (Saṃhitā).
+- **नृभिः** — the third-case plural of the stem *nṛ*; by "sāvekācas tṛtīyādir vibhaktiḥ" (Pā. Sū. 6-1-168) the case-ending would take the udātta, but "na ca anyatarasyām" (Pā. Sū. 6-1-172 [?]) makes that optional for *nṛ*-stems before *jhal*-initial endings, so the udātta does not arise.
+- **हवामहे** — the root *hvedh spardhāyāṃ śabde ca* (ह्वेञ्), *bhvādi*; *laṭ*, first person plural; with the preposition *ni, abhi, upa, vi* the *saṃprasāraṇa* of the root would come by "hvaḥ saṃprasāraṇaṃ ca nyabhyupavipu" (Pā. Sū. 3-2-[?]); here, "hva" being continued, by "bahulaṃ chandasi" the *saṃprasāraṇa* comes even without the preposition; the *v* → *u*, "saṃprasāraṇāc ca" (Pā. Sū. 6-1-108) gives the single prior form; *hu+mahe*; *śap* by "kartari śap"; guṇa by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84) *o*, then *av* for *o* before the *a* of *śap*: *hava+mahe*; by "ato dīrgho yañi" the lengthening (*havā-mahe*).
+
+### Page 6 (PDF 21)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Grammar of Rik 81.1, continued from p. 5:*
+
+- **अविषत्** — the root *ava rakṣaṇe*, *bhvādi*; the *leṭ* (used only in the Veda, in the sense of *vidhi* and the like), the sūtra "liṅarthe leṭ" (लिङर्थे लेट्, Pā. Sū. 3-4-7); by "leṭo 'ḍāṭau" (Pā. Sū. 3-4-94) the augment *aṭ*; by "itaś ca lopaḥ parasmaipadeṣu" (Pā. Sū. 3-4-97) the *i* of the *leṭ* ending *tip* is dropped; by "sib bahulaṃ leṭi" (Pā. Sū. 3-1-34) the *sip* affix of the stem; as *sip* has *p*-mark and *ś*-mark it takes *ārdhadhātuka* designation, so by "ārdhadhātukasyeḍ valādeḥ" (Pā. Sū. 7-2-35) the augment *iṭ*; *av+iṣ+at*, the *s* → *ṣ* after *i*. ||1||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.2**
+
+> असि हि वीर सेन्योऽसि भूरि पराददिः ।
+> असि दभ्रस्य चिद्वृधो यजमानाय शिक्षसि सुन्वते भूरि ते वसु ॥ २ ॥
+
+*asi hi vīra senyo 'si bhūri parādadiḥ |
+asi dabhrasya cid vṛdho yajamānāya śikṣasi sunvate bhūri te vasu ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> असि । हि । वीर । सेन्यः । असि । भूरि । पराऽददिः ।
+> असि । दभ्रस्य । चित् । वृधः । यजमानाय । शिक्षसि । सुन्वते ।
+> भूरि । ते । वसु ॥ २ ॥
+
+*asi | hi | vīra | senyaḥ | asi | bhūri | parā-dadiḥ | asi | dabhrasya | cit | vṛdhaḥ | yajamānāya | śikṣasi | sunvate | bhūri | te | vasu ||2||*
+
+---
+
+**Progress note:** Printed pp. 1–6 done (PDF 16–21) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): **Rik 81.1 complete** (grammar pp. 5–6); **Rik 81.2** — Saṃhitā and Pada (p. 6) done. Next: printed p. 7 (PDF 22) — bhāṣya of 81.2. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful.
