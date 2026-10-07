@@ -12567,4 +12567,106 @@ asmākam id vṛdhe bhava ||11||*
 
 ---
 
-**Progress note:** Printed pp. 1–557 done (PDF 19–575): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.10 complete** (grammar of 79.9 ends on p. 555, of 79.10 on p. 557); **Rik 79.11** — Saṃhitā and Pada (p. 557) done. Next: p. 558 (PDF 576) — bhāṣya of 79.11; then Rik 79.12 and the closing line of Sūkta 79 (then CLAUDE.md update). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
+### Page 558 (PDF 576)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.11** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने नोऽस्मान् अन्तिकेऽन्तिके समीपे दूरे विप्रकृष्टदेशेऽवस्थितः सन् यः शत्रुरभिदासति उपक्षपयति स शत्रुः पदीष्ट । पतेतु । नश्यतु । त्वं चास्माकमित् अस्माकमेव वृधे वर्धनाय भव ॥ अभिदासति । दसु उपक्षये । णिजन्ताल्लटि [?] । छन्दस्युभयथेति शप आर्धधातुकत्वाण्णेरनिटीति णिलोपः । अन्ति । कादिलोपो बहुलमिति वक्तव्यमित्यन्तिकशब्दस्य ककारलोपः । वृधे । वृधु वृद्धौ । सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् ॥
+
+*he agne no 'smān antike 'ntike samīpe dūre viprakṛṣṭadeśe 'vasthitaḥ san yaḥ śatrur abhidāsati upakṣapayati sa śatruḥ padīṣṭa | patetu | naśyatu | tvaṃ cāsmākam it asmākam eva vṛdhe vardhanāya bhava || abhidāsati | dasu upakṣaye | ṇijantāl laṭi [?] | chandasy ubhayatheti śapa ārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | anti | kādilopo bahulam iti vaktavyam ity antikaśabdasya kakāralopaḥ | vṛdhe | vṛdhu vṛddhau | sampadādilakṣaṇo bhāve kvip | sāvekāca iti vibhakter udāttatvam ||*
+
+*Sense:* "O Agni, whichever enemy, standing near (*antike*) or far (*dūre*, in a distant region), harasses us (*abhidāsati* = *upakṣapayati*) — let that enemy fall (*padīṣṭa* = *pateta*, *naśyatu*). And you, be for the increase (*vṛdhe* = *vardhanāya*) of us only (*asmākam it*)." *The grammatical tail:* *abhidāsati* — the root *dasu upakṣaye*, with the causative *ṇic* [?]; the *ṇi* is elided by "ṇer aniṭi", *śap* being treated as *ārdhadhātuka*; *anti* — by the statement "kādilopo bahulam" the *ka* of *antika* is dropped; *vṛdhe* — the root *vṛdhu vṛddhau*, the affix *kvip* in the sense of the action by the *sampadādi* rule; the case-ending takes the udātta by "sāvekācaḥ…".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.11** *(Kannada)*
+
+- **अग्ने** — "O Agni!"
+- **यः** — "whichever (enemy)"
+- **अन्ति** — "whether near"
+- **दूरे** — "or far (being there)"
+- **नः** — "us"
+- **अभिदासति** — "harasses"
+- **सः** — "that (enemy)"
+- **पदीष्ट** — "may he fall (be destroyed)"
+- **(त्वं च)** — "and you"
+- **अस्माकमित्** — "us"
+- **वृधे** — "for the advancement"
+- **भव** — "be."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.11** *(Kannada)*
+
+"O Agni, whether near or far, may the enemy who harasses us perish. And you — bring us advancement."
+
+**English Translation** *(printed in English in the source)*
+
+"May he, Agni, who annoys us, whether nigh or afar, perish; and be to us (propitious) for our advancement." — as printed (the print's rendering is loose: it takes *yaḥ* as Agni, whereas the bhāṣya takes it as the enemy; recorded as printed).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.11)**
+
+- **अन्ति** — *antike* — "for the sake of the metre the syllable *ke* is dropped. The sense is 'in the neighbourhood'."
+- **अस्माकमिद्वृधे भव** — "for our own welfare and growth, be graciously disposed towards us in our affairs. The meaning is: 'protect us always'."
+- **अभिदासति** — *dasu upakṣaye* — "he injures, or he harasses."
+- **पदीष्ट** — *pateta* — "'may he fall' means 'may he meet destruction'."
+
+### Page 559 (PDF 577)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.11)** *(grammar page, noted briefly)*
+
+- **अभिदासति** — *abhi* is the preposition; the root *dasu upakṣaye* (दसु उपक्षये); because the sense here involves an action of the instigator, the affix *ṇic* by "hetumati ca" (हेतुमति च, Pā. Sū. 3-1-26); the *vṛddhi* of the penultimate by "ata upadhāyāḥ"; after the *ṇic*-ending stem, *laṭ*, third person singular, *tip*; *śap* by "kartari śap"; since "chandasy ubhayathā" gives it *ārdhadhātuka* status, the *ṇi* is elided by "ṇer aniṭi" (Pā. Sū. 6-4-51); the form *dāsati*. *Yaḥ* being related to it earlier, the nighāta accent is prohibited by "yad vṛttān nityam" (यद्वृत्तान्नित्यम्, Pā. Sū. 8-1-66), so *śap*, being *lasārvadhātuka* anudātta, leaves the root accent; "tiṅ ca udāttavati" (तिङ्ङुदात्तवति, Pā. Sū. 8-1-71) — because a *tiṅanta* with an udātta follows, the *gati* (*abhi*) takes nighāta.
+- **अन्ति** — the word *antika*; by the statement "kādilopo bahulam iti vaktavyam" the *k* is dropped in the Veda.
+- **वृधे** — the root *vṛdhu vṛddhau* (वृधु वृद्धौ); it belongs to the *sampadādi* group, so by "sampadādibhyaḥ kvip" (सम्पदादिभ्यः क्विप्, Pā. Sū. 3-3-108 [?]) the affix *kvip* in the sense of the action, giving *vṛdh*; the fourth-case singular, *vṛdhe*; being of one syllable, by "sāvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168) the case-ending takes the udātta. ||11||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.12**
+
+> सहस्राक्षो विचर्षणिरग्नी रक्षांसि सेधति ।
+> होता गृणीत उक्थ्यः ॥ १२ ॥
+
+*sahasrākṣo vicarṣaṇir agnī rakṣāṃsi sedhati |
+hotā gṛṇīta ukthyaḥ ||12||*
+
+### Page 560 (PDF 578)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सहस्रऽअक्षः । विऽचर्षणिः । अग्निः । रक्षांसि । सेधति ।
+> होता । गृणीते । उक्थ्यः ॥ १२ ॥
+
+*sahasra-akṣaḥ | vi-carṣaṇiḥ | agniḥ | rakṣāṃsi | sedhati | hotā | gṛṇīte | ukthyaḥ ||12||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.12** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> सहस्राक्षोऽसंख्यातज्वालो विचर्षणिर्विशेषेण सर्वस्य द्रष्टाग्निः रक्षांसि सेधति । प्रतिषेधति । यज्ञान्निर्गमयति । स चाग्निरुक्थ्यै उक्थैः शस्त्रैरस्माभिः स्तूयमानः सन् होता देवानामाह्वाता भूत्वा गृणीते । तान् स्तौति ॥ सहस्राक्षः । बहुव्रीहौ सक्थ्यक्ष्णोः स्वाङ्गात् षच् समासान्तः । सति शिष्टत्वात्तस्यैव स्वरः शिष्यते । सेधति । षिधु गत्याम् । अत्र केवलोऽपि सोपसर्गार्थो द्रष्टव्यः । गृणीते । गृ शब्दे । प्वादीनां ह्रस्व इति ह्रस्वत्वम् ॥
+
+*sahasrākṣo 'saṃkhyātajvālo vicarṣaṇir viśeṣeṇa sarvasya draṣṭāgniḥ rakṣāṃsi sedhati | pratiṣedhati | yajñān nirgamayati | sa cāgnir ukthyai ukthaiḥ śastrair asmābhiḥ stūyamānaḥ san hotā devānām āhvātā bhūtvā gṛṇīte | tān stauti || sahasrākṣaḥ | bahuvrīhau sakthyakṣṇoḥ svāṅgāt ṣac samāsāntaḥ | sati śiṣṭatvāt tasyaiva svaraḥ śiṣyate | sedhati | ṣidhu gatyām | atra kevalo 'pi sopasargārtho draṣṭavyaḥ | gṛṇīte | gṛ śabde | pvādīnāṃ hrasva iti hrasvatvam ||*
+
+*Sense:* "*Sahasrākṣa* — he who has countless flames; *vicarṣaṇiḥ* — the seer, in particular, of everything: Agni keeps off (*sedhati* = *pratiṣedhati*) the Rākṣasas; he drives them away from the sacrifices. And that Agni, being praised by us with the *ukthya* hymns, the śastras, becomes the *hotṛ*, the invoker of the gods, and praises them." *The grammatical tail:* *sahasrākṣaḥ* — in a *bahuvrīhi*, by "sakthyakṣṇoḥ svāṅgāt ṣac" the compound-final affix *ṣac*; this being present, the accent of it alone remains; *sedhati* — the root *ṣidhu gatyām*; here even the simple root is to be understood in the sense with a preposition (*pra-*); *gṛṇīte* — the root *gṛ śabde*; by "pvādīnāṃ hrasvaḥ" the shortening.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.12** *(Kannada)*
+
+- **सहस्राक्षः** — "endowed with countless flames"
+- **विचर्षणिः** — "who sees (all) in particular"
+- **अग्निः** — "Agni"
+- **रक्षांसि** — "the Rākṣasas"
+- **सेधति** — "drives off (makes them flee)"
+- **उक्थ्यैः** — "(by us) with śastra mantras, he who is praised"
+- **होता** — "he who invokes (the gods)"
+- **गृणीते** — "praises (them)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.12** *(Kannada)*
+
+"Agni, with countless flames, seeing everything, drives the Rākṣasas away (from the sacrificial halls); praised by us (with praising words) and invoking the gods, he praises them."
+
+**English Translation** *(printed in English in the source)*
+
+"The thousand-eyed, all beholding Agni, drives away the Rakshasas, and, (praised by us) with holy hymns, he (the invoker of the Gods) celebrates their praise." — as printed.
+
+---
+
+**Progress note:** Printed pp. 1–560 done (PDF 19–578): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.11 complete** (grammar of 79.11 on p. 559); **Rik 79.12** (last of the sūkta) — Saṃhitā (p. 559), Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (p. 560) done; the Special Topics, grammar page and the closing line ("…sūktavu samāptavu") of Sūkta 79 not yet seen. Next: p. 561 (PDF 579); then CLAUDE.md position update. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
