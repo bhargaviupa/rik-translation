@@ -12469,4 +12469,102 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 ---
 
-**Progress note:** Printed pp. 1–554 done (PDF 19–572): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.8 complete** (grammar of 79.8 ends on p. 552); **Rik 79.9** — Saṃhitā, Pada (p. 552), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 553), Special Topics (pp. 553–554, split where the print splits them) done; the grammar page of 79.9 is begun on p. 554 (*sucetunā*, *viśvāyupoṣasam*) and, if the print goes on, continues on p. 555 (PDF 573). Next: p. 555 (PDF 573). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
+### Page 555 (PDF 573)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 79.9, continued from p. 554 (grammar page, noted briefly):*
+
+- **धेहि** — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ*, second person singular; by "ghvasor ed dhāv abhyāsalopaś ca" (Pā. Sū. 6-4-119) the loss of the reduplicative and *e* for the root; nighāta accent, since *atiṅanta* in the pāda.
+- **जीवसे** — the root *jīva prāṇadhāraṇe* (जीव प्राणधारणे); in the sense of the infinitive (*tumun*) the affix *ase* by "tumarthe sesenasen…" (तुमर्थे सेसेनसेन्…, Pā. Sū. 3-4-9); since it ends in *ṇ*-less *ase*, by "kṛn mejantaḥ" (कृन्मेजन्तः, Pā. Sū. 1-1-39) it receives the designation *avyaya* (indeclinable). ||9||
+
+*Grammar noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.10**
+
+> प्र पूतास्तिग्मशोचिषे वाचो गोतमाग्नये ।
+> भरस्व सुम्नयुर्गिरः ॥ १० ॥
+
+*pra pūtās tigmaśociṣe vāco gotamāgnaye |
+bharasva sumnayur giraḥ ||10||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> प्र । पूताः । तिग्मऽशोचिषे । वाचः । गोतम । अग्नये ।
+> भरस्व । सुम्नऽयुः । गिरः ॥ १० ॥
+
+*pra | pūtāḥ | tigma-śociṣe | vācaḥ | gotama | agnaye | bharasva | sumna-yuḥ | giraḥ ||10||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.10** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे गोतम सूक्तद्रष्टः सुम्नयुः सुम्नं धनमात्मन इच्छंस्त्वं तिग्मशोचिषे तीक्ष्णज्वालायाग्नये पूताः शुद्धा वाचोऽग्नेर्गुणान् सम्यगभिदधतीर्गिरः स्तुतीः प्रभरस्व । प्रकर्षेण सम्पादय ॥ तिग्मशोचिषे । तिज निशाने । युजिरुचितिजां कुत्वं च । उ. १-१४१ [?] इति मक् । तिग्मानि शोचींषि यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । सुम्नयुः । सुम्नशब्दात्क्यचि न छन्दस्यपुत्रस्येतीत्वदीर्घयोः प्रतिषेधः । क्याच्छन्दसीत्युप्रत्ययः ॥
+
+*he gotama sūktadraṣṭaḥ sumnayuḥ sumnaṃ dhanam ātmana icchaṃs tvaṃ tigmaśociṣe tīkṣṇajvālāyāgnaye pūtāḥ śuddhā vāco 'gner guṇān samyag abhidadhatīr giraḥ stutīḥ prabharasva | prakarṣeṇa sampādaya || tigmaśociṣe | tija niśāne | yujirucitijāṃ kutvaṃ ca | u. 1-141 [?] iti mak | tigmāni śocīṃṣi yasya | bahuvrīhau pūrvapadaprakṛtisvaratvam | sumnayuḥ | sumnaśabdāt kyaci na chandasy aputrasyeti itvadīrghayoḥ pratiṣedhaḥ | kyāc chandasīty u-pratyayaḥ ||*
+
+*Sense:* "O Gotama, seer of the sūkta, you who desire for yourself *sumna*, wealth (*sumnayuḥ*): offer (*prabharasva* = *prakarṣeṇa sampādaya*) to Agni of sharp flames (*tigmaśociṣe* = *tīkṣṇajvālāya*) pure (*pūtāḥ* = *śuddhāḥ*) utterances (*vācaḥ*, *giraḥ*, *stutīḥ*), words that speak out well the qualities of Agni." *The grammatical tail:* *tigmaśociṣe* — the root *tija niśāne*; the affix *mak* by the Uṇādi sūtra "yujirucitijāṃ kutvaṃ ca" (Uṇ. Sū. 1-[141] [?]), the *j* turning to a *k*-class; 'he whose flames (*śociṃṣi*) are sharp': a *bahuvrīhi* in which the accent of the first member remains; *sumnayuḥ* — from the word *sumna* with *kyac*; the substitution of *ī* and lengthening are barred by "na chandasy aputrasya" [?]; after *kyac*, by "kyāc chandasi" the affix *u*.
+
+### Page 556 (PDF 574)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.10** *(Kannada)*
+
+- **गोतम** — "O Gotama, seer of the sūkta"
+- **सुम्नयुः** — "(you who) desire wealth"
+- **तिग्मशोचिषे** — "of sharp flames"
+- **अग्नये** — "to Agni"
+- **पूताः** — "pure"
+- **वाचः** — "(which) bring out well the qualities of Agni"
+- **गिरः** — "words (of the form of praise)"
+- **प्र भरस्व** — "offer abundantly."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.10** *(Kannada)*
+
+"O Gotama, seer of the sūkta, you who desire (material) things: offer abundantly to Agni, of sharp flames, praising words that make known his qualities."
+
+**English Translation** *(printed in English in the source)*
+
+"Gotama, desirous of wealth, offers to the sharp-flaming Agni pure prayers and praises." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.10)**
+
+- **पूताः** — "pure, that is, excellent, the best: (words) full of the feeling of devotion, and so on."
+- **तिग्मशोचिषे** — "of sharp radiance — that is, of one who burns blazing hotly (Agni)."
+- **वाचः गिरः** — "These two words indicate the same sense; but the bhāṣyakāra, for the word *vācaḥ*, has given the sense 'that which brings out well the qualities of Agni, as a part of the meaning'."
+- **सुम्नयुः** — "Among the twenty(-odd) names of happiness beginning *śaṃbātā, śatarā* the word *sumnam* occurs (Ni. [3-6] [?]), so *sumnam* means happiness. *Sumnam icchan* = *sumnayuḥ*, 'one who desires happiness'. The bhāṣyakāra has given the sense 'wealth' for the word *sumna*, and has explained *sumnayu* as 'Gotama who desires wealth'."
+- **भरस्व** — *bhṛñ bharaṇe*; *sampādaya* — "effect, or offer: the sense is 'present praise to Agni'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.10)** *(grammar page, noted briefly; runs to p. 557)*
+
+- **पूताः** — the root *pūñ pavane* (पूञ् पवने), *kryādi*; the affix *kta*; because it has the mark *k*, no guṇa arises; by the accent of the affix the word is final-udātta.
+
+### Page 557 (PDF 575)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 79.10, continued from p. 556:*
+
+- **तिग्मशोचिषे** — *tigmāni śocīṃṣi yasya saḥ*, a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" (बहुव्रीहौ प्रकृत्या पूर्वपदम्, Pā. Sū. 6-2-1) the accent of the first member remains. *Tija niśāne* (the root); by "yujirucitijāṃ kutvaṃ ca" (युजिरुचितिजां कुत्वं च, Uṇ. Sū. 1-[141]) the affix *mak*; and in association with it the *j* of the root becomes *g* by *kutva*; so *tigma*.
+- **भरस्व** — the root *ḍubhṛñ bharaṇe*; *loṭ*, second person singular; *se* in place of *thās* by "thāsaḥ se" (Pā. Sū. 3-4-80); the *e* becomes *va* by "savābhyāṃ vāmau" (सवाभ्यां वामौ, Pā. Sū. 3-4-91); *śap* by the affix; the guṇa of the *ik* of the root because of it; at the head of the pāda there is no nighāta; *śap* being *p*-marked is anudātta; because the root has the *adupadeśa* the *lasārvadhātuka* is anudātta by "tāsyanudāttenṅid…" (Pā. Sū. 6-1-186); the root's accent remains.
+- **सुम्नयुः** — "*sumnam dhanam ātmana icchati*": in the sense of desiring, after *sumna* the affix *kyac* by "supa ātmanaḥ kyac" (Pā. Sū. 3-1-8); though the word is *a*-ending, the substitution *ī* and the rest are barred for *sumna* by "na chandasy aputrasya" (न छन्दस्यपुत्रस्य, Pā. Sū. 7-4-35 [?]); the stem *sumnaya* has the root-designation by "sanādyantā dhātavaḥ"; after it the affix *u* by "kyāc chandasi" (Pā. Sū. 3-2-170); this *u* following, by "ato lopaḥ" the *a* before is dropped; by the accent of the affix the word is final-udātta. ||10||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.11**
+
+> यो नो अग्नेऽभिदासत्यन्ति दूरे पदीष्ट सः ।
+> अस्माकमिद्वृधे भव ॥ ११ ॥
+
+*yo no agne 'bhidāsaty anti dūre padīṣṭa saḥ |
+asmākam id vṛdhe bhava ||11||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यः । नः । अग्ने । अभिऽदासति । अन्ति । दूरे । पदीष्ट । सः ।
+> अस्माकम् । इत् । वृधे । भव ॥ ११ ॥
+
+*yaḥ | naḥ | agne | abhi-dāsati | anti | dūre | padīṣṭa | saḥ | asmākam | it | vṛdhe | bhava ||11||*
+
+---
+
+**Progress note:** Printed pp. 1–557 done (PDF 19–575): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.10 complete** (grammar of 79.9 ends on p. 555, of 79.10 on p. 557); **Rik 79.11** — Saṃhitā and Pada (p. 557) done. Next: p. 558 (PDF 576) — bhāṣya of 79.11; then Rik 79.12 and the closing line of Sūkta 79 (then CLAUDE.md update). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
