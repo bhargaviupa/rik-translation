@@ -8933,4 +8933,79 @@ Words treated: *upa prayantaḥ* (prefixes *upa*, *pra*; root *iṇ gatau*; *śa
 
 ---
 
-**Progress note:** Printed pp. 1–429 done (PDF 19–447): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13): Anuvāda concluded and heading (p. 427); **Rik 74.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 427–429) done; the grammar page begun (p. 429, up to *vocema*). Next: p. 430 (PDF 448), the rest of the grammar page of 74.1; then Rik 74.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk totals of the ṛṣi note on p. 428 unread [?].
+### Page 430 (PDF 448)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**Grammar page of Rik 74.1 (concluded; noted briefly)**
+
+*vocema* (concluded): *vacī* substituted (Pā. [2-4-53?]); *aj* in the *āśīrliṅ* by *liṅyāśiṣy aṅ*, Pā. [3-1-86]; *um*-augment for the root before *aṅ* by *vaci um*, Pā. [7-4-20] [as read]; the final-vowel *a* of the affix... guṇa-sandhi gives *vocema*; nighāta because it follows an *atijanta*. *śṛṇvate* (root *śru śravaṇe*; *śatṛ* in the present sense; *śnu* by *śruvaḥ śṛ ca*, Pā. [3-1-74], with *śṛ* substituted for the root; the *śnu* vikaraṇa; no guṇa since *sārvadhātukam apit* makes it *ṅit*; *yaṇ*; the form *śṛṇvat*; dative singular; since the *śatṛ* lacks *num*, the ending that follows it takes the acute by *śatur anumo nadyajādī*, Pā. [6-1-173]). Ends "॥ १ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.2** *(printed Ṛk "2 ||")*
+
+> यः स्नीहितीषु पूर्व्यः संजग्मानासु कृष्टिषु ।
+> अरक्षद्दाशुषे गयम् ॥ २ ॥
+
+*yaḥ snīhitīṣu pūrvyaḥ saṃjagmānāsu kṛṣṭiṣu |
+arakṣad dāśuṣe gayam ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यः । स्नीहितीषु । पूर्व्यः । सम्ऽजग्मानासु । कृष्टिषु । अरक्षत् । दाशुषे । गयम् ॥ २ ॥
+
+*yaḥ | snīhitīṣu | pūrvyaḥ | sam-jagmānāsu | kṛṣṭiṣu | arakṣat | dāśuṣe | gayam ||2||*
+
+---
+
+### Page 431 (PDF 449)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> पूर्व्यश्चिरंतनो यो ऽग्निः स्नीहितीषु वधकारिणीषु कृष्टिषु शत्रुभूतासु प्रजासु संजग्मानासु संगतासु सतीषु दाशुषे हवींषि दत्तवते यजमानाय गयं धनमरक्षत् । रक्षति । तस्मै मंत्रं वोचेमेति पूर्वेण संबंधः ॥ स्नीहितीषु । स्निह स्नेहने । चुरादिः । स्नेहयतीति वधकर्मसु पठितः । स्नेह्यंते हिंस्यंते प्रजा आभिरिति स्नीहितयः । करणे क्तिन् । तितुत्रेष्वग्रहादीनामिति वक्तव्यमिति वचनान्निगृहीतिर्निपीतिरिवेडागमः । मु. [२-१-९-१?] व्यत्ययेनैकारस्यैकारादेशः । क्तिनो दीर्घश्च । नित्त्वादाद्युदात्तत्वं । संजग्मानासु । समो गम्युच्छीत्यात्मनेपदं । लिटः कानच् । गमहनेत्यादिनोपधालोपः । अरक्षत् । छंदसि लुङ्लङ्लिट इति वर्तमाने लङ् ॥
+
+*pūrvyaś cirantano yo 'gniḥ snīhitīṣu vadhakāriṇīṣu kṛṣṭiṣu śatrubhūtāsu prajāsu saṃjagmānāsu saṃgatāsu satīṣu dāśuṣe havīṃṣi dattavate yajamānāya gayaṃ dhanam arakṣat | rakṣati | tasmai mantraṃ vocemeti pūrveṇa saṃbandhaḥ || snīhitīṣu | snih snehane | curādiḥ | snehayatīti vadhakarmasu paṭhitaḥ | snehyante hiṃsyante prajā ābhir iti snīhitayaḥ | karaṇe ktin | titutreṣv agrahādīnām iti vaktavyam iti vacanān nigṛhītir nipītir iveḍāgamaḥ | mu. [2-1-9-1?] vyatyayenaikārasyaikārādeśaḥ | ktino dīrghaś ca | nittvād ādyudāttatvaṃ | saṃjagmānāsu | samo gamyucchīty ātmanepadaṃ | liṭaḥ kānac | gamahanetyādinopadhālopaḥ | arakṣat | chandasi luṅlaṅliṭa iti vartamāne laṅ ||*
+
+*(Reading note: the tail from "snīhitīṣu" is compressed; "mu. [2-1-9-1?]" (apparently a grammar-work reference) and "vyatyayenaikārasyaikārādeśaḥ" are doubtful [?].)*
+
+*Meaning:* That ancient (*pūrvyaḥ*) Agni who protected (*arakṣat*) wealth (*gayam*) for the sacrificer (*dāśuṣe*) who has given oblations, when the people (*kṛṣṭiṣu*) — enemies, killers (*snīhitīṣu*) — assembled (*saṃjagmānāsu*): to him let us speak the hymn, in connection with the preceding Ṛk.
+
+**Grammatical tail** *(characterized)*: *snīhitīṣu* (root *snih snehane*, Curādi, read among the verbs of killing as "*snehayati*"; "by which people are injured": *snīhiti*, *ktin* in the instrumental sense; the *iḍ*-augment as in *nigṛhīti*, *nipīti* by the statement "to be said: *titutreṣv agrahādīnām*"); *saṃjagmānāsu* (root *gam* with *sam*, *ātmanepada* by *samo gamyṛcchi…*; *kānac* for *liṭ*; loss of the penultimate by *gamahana…*); *arakṣat* (Vedic *laṅ* in the present sense).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*snīhitīṣu* — (to the) killers; *kṛṣṭiṣu* — who have become enemies; *saṃjagmānāsu* — when they have come to fight; *pūrvyaḥ* — ancient; *yaḥ* — which (Agni); *dāśuṣe* — to him who offered (oblations and so on); *gayam* — wealth; *arakṣat* — protects (let us praise him).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+When hostile enemies assemble, the ancient Agni protects the wealth of the sacrificer who has offered oblations: let us praise such an Agni.
+
+**English Translation** *(the source's own, as printed):*
+
+> Who, existing of old, has preserved wealth for the sacrificer, when malevolent men are assembled together.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "Since the word *yat* is used in this Ṛk and since the sense is connected with Agni, the meaning explained in this Ṛk is to be taken as an epithet of Agni, and, supplying from the preceding Ṛk the words *mantraṃ vocemāgnaye*, the commentator says that it should be construed as: 'let us praise such an Agni with mantras.'"
+- **स्नीहितीषु संजग्मानासु कृष्टिषु** — *snih snehane | snehayatīti vadhakarmasu paṭhitaḥ* — "*snīhitīṣu* is formed from the root *snih snehane*. Since, among the three verbs of killing, *dabhnoti*, *śnathati* and so on, the word *snehayati* is read (Ni. [3-10?]), the word here denotes 'killers': enemies. The sense is that such enemies came to fight with us. *Kṛṣṭi* is a word for men. *Vadhāpekṣiṇaḥ* ('those who seek killing') — that is, the enemies who come for battle."
+
+---
+
+### Page 432 (PDF 450)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**Special Topics of Rik 74.2 (concluded)**
+
+- **पूर्व्यः** — *pūrvasmin kāle bhavaḥ | ciraṃtanaḥ* — "'one who existed in the former time', that is, 'ancient': he who is always, who is free from death (Agni)."
+- **गयम्** — "Since the word *gaya* is read among the fifteen names of offspring, *tuk*, *tokam* and so on, the word *gaya* is also meant to mean offspring or progeny (Ni. [3-2?]); since *magham*, *rekṇaḥ* and so on are read among the twenty-eight [as read, ?] names of wealth (Ni. [2-10?]), *gaya* is also 'wealth'; and since *gayaḥ*, *kṣayaḥ* and so on are read among the twenty-two names of house (Ni. [3-4?]), *gaya* also means 'house': there are three kinds of meaning. Here the commentator gives only one meaning, 'wealth'. Because, in the face of the enemies who fight, the protection of life, wealth and house of people is necessary, any of the three meanings, 'sons, wealth, house', may be taken as stated in the Nirukta."
+- **दाशुषे** — *havīṃṣi dattavate yajamānāya* — "when there is a time of battle, the sense is that Agni necessarily protects the wealth and so on of the sacrificer who propitiates him with oblations and other offerings."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.2, noted briefly; not transcribed)*
+
+*snīhitīṣu* (root *snih snehane*, Curādi; read among the verbs of killing as "*snehayati*" (Nirukta [3-?]); "by which people are injured, *snīhitayaḥ*"; *ktin* in the instrumental sense by *striyāṃ ktin*, Pā. [3-3-94]; though *tito tra* [*titutra…*], Pā. [7-2-9], would prohibit *iṭ*, the statement "*titutreṣv agrahādīnām*" being there, as in *nigṛhīti*, *nipīti* the *iḍ*-augment comes by that statement; by *vyatyayo bahulam* the root's *e* [*snehi*] becomes *ī*, with lengthening for the *ktin*; the affix being *nit*, initial acute by *ñnityādir nityam*; locative plural). *(Continued on p. 433.)*
+
+---
+
+**Progress note:** Printed pp. 1–432 done (PDF 19–450): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Rik 74.1 complete; **Rik 74.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 430–432) done; the grammar page begun (p. 432, up to *snīhitīṣu*). Next: p. 433 (PDF 451), the rest of the grammar page of 74.2; then Rik 74.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 74.2 (p. 431) compressed and doubtful [?].
