@@ -11137,4 +11137,106 @@ dyumnair abhi pra ṇonumaḥ ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–512 done (PDF 19–530): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: **Rik 78.1** complete (grammar page, p. 510, noted briefly); **Rik 78.2** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 511), English and Special Topics (p. 512) done; the grammar page of 78.2 not yet seen. Next: p. 513 (PDF 531). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the garbled fourth citation on p. 512.
+### Page 513 (PDF 531)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.2)** *(grammar page, noted briefly)*
+
+- **रायस्कामः** — "he who desires riches (*rāyaḥ* = wealths)": the root *kam kāntau* (कमु कान्तौ); with a word meaning the object placed before it, the affix *aṇ* by "karmaṇy aṇ" (कर्मण्यण्, Pā. Sū. 3-2-1); *vṛddhi* of the penultimate (*upadhā*) by "ata upadhāyāḥ" (अत उपधायाः, Pā. Sū. 7-2-116 [?]). The elision (*luk*) of the second-case ending, which the sūtra "supo dhātuprātipadikayoḥ" (सुपो धातुप्रातिपदिकयोः) would otherwise bring, is prevented by "tatpuruṣe kṛti bahulam" (तत्पुरुषे कृति बहुलम्, Pā. Sū. 6-3-14 [?]) — the word *bahulam* being taken here as well, so *aluk* arises. "ūḍidaṃ padādi…" (ऊडिदं पदाद्यप्पुम्रैद्युभ्यः, Pā. Sū. 6-1-171 [?]) gives the udātta to the case-ending of *rāyaḥ*, so that the final syllable is udātta. Because *dāsībhārādi* compounds are included, the first member's own accent (*pūrvapadaprakṛtisvara*) comes in the compound. In *rāyaḥ + kāmaḥ*, by "ataḥ kṛkamikaṃsakumbha…" (अतः कृकमिकंसकुम्भ…, Pā. Sū. 8-3-46 [?]), since the root *kam* follows, the visarga becomes *s*.
+- **दुवस्यति** — the root *duvas upatāpe paricaraṇe ca*, of the *kaṇḍvādi* group; by "kaṇḍvādibhyo yak" (कण्ड्वादिभ्यो यक्, Pā. Sū. 3-1-27 [?]) the affix *yak* in its own sense; "sanādyantā dhātavaḥ" gives the root-status to the stem ending in *-ya*; then *laṭ* in the present sense, *tip* for the third person singular, *śap*; "ato guṇe" (अतो गुणे, Pā. Sū. 6-1-97) gives the single (following) form; thus *duvasyati*. The accent is nighāta because it is *atiṅanta* in the pāda... *(as read; the print says it is placed after a pāda-initial word)*.
+- **द्युम्नैः** — by "ūḍidaṃ padādi…" (Pā. Sū. 6-1-[171?]) the case-ending takes the udātta.
+- **नोनुमः** — "explained in the preceding Mantra (78.1)." ||2||
+
+*Grammar page, noted briefly; every sūtra number is tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.3**
+
+> तमु त्वा वाजसातममङ्गिरस्वद्धवामहे ।
+> द्युम्नैरभि प्र णोनुमः ॥ ३ ॥
+
+*tam u tvā vājasātamam aṅgirasvad dhavāmahe |
+dyumnair abhi pra ṇonumaḥ ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> तम् । ऊं इति । त्वा । वाजऽसातमम् । अङ्गिरस्वत् । हवामहे ।
+> द्युम्नैः । अभि । प्र । नोनुमः ॥ ३ ॥
+
+*tam | ūṃ iti | tvā | vāja-sātamam | aṅgirasvat | havāmahe | dyumnaiḥ | abhi | pra | nonumaḥ ||3||*
+
+### Page 514 (PDF 532)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 78".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.3** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने वाजसातमं वाजानामन्नानामतिशयेन सनितारं दातारं तमेव त्वा त्वामङ्गिरस्वत् । अङ्गिरस इव हवामहे । आह्वयामः । शिष्टं गतम् ॥ वाजसातमम् । षणु दाने । जनसनखनक्रमगमो विट् । विड्वनोरनुनासिकस्यात् । अतिशयेन वाजसा वाजसातमः । तमपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वर एव शिष्यते । अङ्गिरस्वत् । तेन तुल्यमिति वतिः । नभोऽङ्गिरोमनुषां वत्युपसंख्यानम् । पा. १-४-१८-३ [?] । इति भत्वेन पदत्वाभावात्त्वाद्यभावः ॥
+
+*he agne vājasātamaṃ vājānām annānām atiśayena sanitāraṃ dātāraṃ tam eva tvā tvām aṅgirasvat | aṅgirasa iva havāmahe | āhvayāmaḥ | śiṣṭaṃ gatam || vājasātamam | ṣaṇu dāne | janasanakhanakramagamo viṭ | viḍvanor anunāsikasyāt | atiśayena vājasā vājasātamaḥ | tamapaḥ pittvād anudāttatve kṛduttarapadaprakṛtisvara eva śiṣyate | aṅgirasvat | tena tulyam iti vatiḥ | nabho'ṅgiro-manuṣāṃ vaty upasaṅkhyānam | pā. 1-4-18-3 [?] | iti bhatvena padatvābhāvāt tvādy abhāvaḥ ||*
+
+*Sense:* "O Agni, you the best giver (*sanitṛ* = *dātṛ*) of *vāja*, that is, food, to an exceeding degree, that very you we call (*havāmahe* = *āhvayāmaḥ*) like Angiras (*aṅgirasvat*); the rest has been explained." *The grammatical tail:* *vājasātamam* — the root *ṣaṇu dāne*; the affix *viṭ* by "janasanakhanakramagamo viṭ" (Pā. Sū. 3-2-67 [?] — number not read); the *-n-* turns into *ā* by "viḍvanoranunāsikasyāt" (Pā. Sū. 6-4-41 [?]); with the superlative *tamap* ("most abundantly giving") — *tamap* having the mark *p* is anudātta, so that the accent of the final member of a *kṛt*-compound (*kṛduttarapadaprakṛtisvara*) alone remains. *Aṅgirasvat* — "equal to that" (*tena tulyam*), the affix *vati*; by the supplementary statement (*upasaṅkhyāna*) "nabho'ṅgiromanuṣāṃ vaty…" (Pā. [1-4-18, vārttika 3?] [?]) the words *nabhas, aṅgiras, manus* take the *bha*-designation before *vati*, so the *pada*-designation is absent and the changes such as *ru* (rutva) do not arise.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.3** *(Kannada)*
+
+- **अग्ने** — "O Agni!" (we)
+- **वाजसातमम्** — "who bestow food (*annavannu*) in abundance"
+- **तमु** — "that very (you)"
+- **त्वा** — "you"
+- **अङ्गिरस्वत्** — "like Aṅgiras (like the sage Aṅgirā)"
+- **हवामहे** — "we call"
+- **द्युम्नैः** — "(your) with the mantras that make known qualities"
+- **अभि प्र नोनुमः** — "we praise again and again."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 78.3** *(Kannada)*
+
+"O Agni, we call you — you who specially favour (us) with food — like the Aṅgirases (to our sacrifice). (Such as you are) we praise again and again with mantras that make known (your) qualities."
+
+**English Translation** *(printed in English in the source)*
+
+"We invoke you, such as you are, the giver of abundant food, in like manner as did Angiras, we praise you repeatedly which [sic] commendatory (hymns)." — as printed, the printed text reads "…repeatedly which commendatory (hymns)", so "which" for "with" is a misprint [sic].
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 78.3)**
+
+- **वाजसातमम्** — *annasāmatiśayena dātāram* — "the one who gives food to the highest degree. *Vāja* means food (Ni. 2-[7?] [?]); because he gives food in exceeding measure, Agni is praised as *vājasātamam*."
+- **अङ्गिरस्वत्** — "as the sage Aṅgiras called Agni (to the sacrifice). This simile is stated in many Ṛks of the Ṛgveda —" *(the passage runs on to the next page; the citations follow on p. 515)*
+
+### Page 515 (PDF 533)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics continued — citations (three layers; the glosses are mine and tentative; reference numerals as read, all [?]):*
+
+> मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्वचित्ते ।
+
+*manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvacitte |* (Ṛk. Saṃ. 1-[31]-[17] [?]) — *Gloss, mine and tentative:* "As Manu, O Agni, as Aṅgiras, O Aṅgiras, as Yayāti, in the seat of the primeval insight (sacrificial seat)…"
+
+> अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ।
+
+*aṅgirasvan mahivrata praskaṇvasya śrudhī havam |* (Ṛk. Saṃ. 1-[45]-3 [?]) — *Gloss, mine and tentative:* "As (for) Aṅgiras, O you of great ordinance, hear the call of Praskaṇva."
+
+> तदस्मै नव्यमङ्गिरस्वदर्चत शुष्मा यदस्य प्रत्नथोदीरते ।
+
+*tad asmai navyam aṅgirasvad arcata śuṣmā yad asya pratnathodīrate |* (Ṛk. Saṃ. 2-[11]-1 [?]) — *Gloss, mine and tentative:* "Sing to him that new (song) as the Aṅgirases did, when his strength rises as of old."
+
+> तमङ्गिरस्वन्नमसा सपर्यन्नव्यं कृणोमि सन्यसे पुराजाम् ।
+
+*tam aṅgirasvan namasā saparyan navyaṃ kṛṇomi sanyase purājām |* (Ṛk. Saṃ. 3-[15]-[?] [?]) — *Gloss, mine and tentative:* "Him, as the Aṅgirases did, serving with homage, I make new (a song) for the old-born one." *(The reading of "sanyase" and the reference are uncertain.)*
+
+> उत त्वा भृगुवच्छुचे मनुष्वदग्न आ हुवे ।
+> अङ्गिरस्वद्धवामहे ।
+
+*uta tvā bhṛguvac chuce manuṣvad agna ā huve | aṅgirasvad dhavāmahe |* (Ṛk. Saṃ. 8-[43]-[13] [?]) — *Gloss, mine and tentative:* "And I call you, O bright Agni, as Bhṛgu did, as Manu did; we call you as Aṅgiras did."
+
+"In such Ṛks the matter of the sage Aṅgiras having invoked Agni and served him is described. Because that arrangement (*vidhāna*) has been regarded as of the highest authority, many ṛṣis have given just this example (simile)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.3)** *(grammar page, noted briefly)*
+
+- **वाजसातमम्** — the root *ṣaṇu dāne* (षणु दाने); with *vāja* as the upapada, the affix *viṭ* by "janasanakhanakramagamo viṭ" (जनसनखनक्रमगमो विट्, Pā. Sū. 3-2-67 [?]); *viṭ* being followed, the nasal-ending root takes *ā* (*ātva*) by "vidvanoranunāsikasyāt" (विड्वनोरनुनासिकस्यात्, Pā. Sū. 6-4-41 [?]) and the *savarṇa-dīrgha*; hence *vājasā*. Then the superlative: "atiśāyane tamabiṣṭhanau" (अतिशायने तमबिष्ठनौ, Pā. Sū. 5-3-55 [?]) gives *tamap*; since *tamap* has the mark *p*, it is anudātta; by "gatikārakopapadāt kṛt" (गतिकारकोपपदात् कृत्, Pā. Sū. 6-2-139 [?]) the accent of the last member of the *kṛt*-ending compound is kept. Accusative singular.
+- **अङ्गिरस्वत्** — *aṅgirasa iva*: "tena tulyaṃ kriyā ced vatiḥ" (तेन तुल्यं क्रिया चेद्वतिः, Pā. Sū. 5-1-115 [?]) gives the affix *vati*. When *vati* follows, the *pada*-designation would arise, so that *rutva* would be obtained; but by the statement "nabho'ṅgiro-manuṣāṃ vaty upasaṅkhyānam" (नभोऽङ्गिरोमनुषां वत्युपसंख्यानम्, Pā. Sū. 1-4-18, vārttika 3) the *bha*-designation arises, and therefore, there being no *pada*-designation, *rutva* and the like do not arise.
+
+*Grammar page, noted briefly; every sūtra number tentative [?]. Within the print, the bhāṣya's own grammatical tail on p. 514 repeats the same sūtras.*
+
+---
+
+**Progress note:** Printed pp. 1–515 done (PDF 19–533): **Sūktas 62–77 complete.** **Sūkta 78** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; Anuvāka 13) in progress: Riks **78.1–78.3** complete (grammar pages of 78.2 on p. 513 and of 78.3 on p. 515, each noted briefly); the Special Topics of 78.3 run across pp. 514–515 and are split where the print splits them. Next: p. 516 (PDF 534) — Rik 78.4. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the garbled fourth citation on p. 512; the fourth citation on p. 515 uncertain.
