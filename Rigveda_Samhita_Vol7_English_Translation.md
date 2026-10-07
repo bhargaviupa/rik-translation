@@ -1446,4 +1446,125 @@ tena jāyām upa priyāṃ mandāno yāhy andhaso yojā nv indra te harī ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–51 done (PDF 16–66) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.5 complete** (grammar of 82.4 ends on p. 49; of 82.5 on p. 51). Next: printed p. 52 (PDF 67) — Rik 82.6 (the last, in jagatī), then the closing of Sūkta 82 (p. 54) and Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 and the application note on p. 50 read with doubt.
+### Page 52 (PDF 67)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.6** *(the last Ṛk of the sūkta; in the Jagatī metre; it is a Ṛk of six pādas as printed, the refrain "yojā nv indra te harī" being absent)*
+
+> युनज्मि ते ब्रह्मणा केशिना हरी उप प्र याहि दधिषे गभस्त्योः ।
+> उत्त्वा सुतासो रभसा अमन्दिषुः पूषण्वान्वज्रिन्त्सं गूं पत्न्यामदः ॥ ६ ॥
+
+*yunajmi te brahmaṇā keśinā harī upa pra yāhi dadhiṣe gabhastyoḥ |
+ut tvā sutāso rabhasā amandiṣuḥ pūṣaṇvān vajrin sam u patny āmadaḥ ||6||*
+
+*(The print divides the second line as* पूषण्वान्वज्रिन्सं ऊं पत्न्यामदः*, with the particle* ऊं *written as* ग्रूं*-like in the Saṃhitā; I follow the Pada's* सम् । ऊं इति*.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> युनज्मि । ते । ब्रह्मणा । केशिना । हरी इति । उप । प्र । याहि ।
+> दधिषे । गभस्त्योः ।
+> उत् । त्वा । सुतासः । रभसाः । अमन्दिषुः । पूषण्ऽवान् ।
+> वज्रिन् । सम् । ऊं इति । पत्न्या । अमदः ॥ ६ ॥
+
+*yunajmi | te | brahmaṇā | keśinā | harī iti | upa | pra | yāhi | dadhiṣe | gabhastyoḥ | ut | tvā | sutāsaḥ | rabhasāḥ | amandiṣuḥ | pūṣaṇ-vān | vajrin | sam | ūṃ iti | patnyā | amadaḥ ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.6** *(Sanskrit in Kannada script; the page is clear; the bhāṣya continues onto p. 53)*
+
+> अन्त्येष्टहःसु हारियोजनस्य युनज्मीत्येषा याज्या । सूत्रितं च । युनज्मि ते ब्रह्मणा केशिना हरी इति याज्यानुवाक्ये अन्त्येष्टहःसु । आ. ६-११ [?] इति ॥
+>
+> हे इन्द्र केशिना केशयुक्तौ शिखावन्तौ ते हरी त्वदीयावश्वौ ब्रह्मणा स्तोत्ररूपेण मन्त्रेण युनज्मि । रथे संयोजयामि । तेन रथेनोप प्र याहि । त्वद्गृहमुपगच्छ । गभस्त्योः बाह्वोरित्यर्थः । बाहुनामैतत् । बाह्वोरश्वबन्धकान् रश्मीन् दधिषे । धारयस्व । त्वा त्वां सुतासो यज्ञेऽभिषुताः सोमा रभसा वेगवन्तः तीव्राः क्षिप्रं मदकारिण इत्यर्थः । उदमन्दिषुः । उत्कृष्टमुत्कृष्टं मदयुक्तमकार्षुः । हे वज्रिन् अतस्त्वं स्वगृहं गत्वा पूषण्वान् । अत्र पूषशब्दः पुष्टौ वर्तते । पुष्टिर्वै पूषा पुष्टिमेवावरुन्द्ध इति श्रुतेः । सोमपानजनितया पुष्ट्या युक्तः सन् पत्न्या
+
+*antyeṣṭahaḥsu hāriyojanasya yunajmīty eṣā yājyā | sūtritaṃ ca | yunajmi te brahmaṇā keśinā harī iti yājyānuvākye antyeṣṭahaḥsu | Āś. 6-11 [?] iti ||*
+
+*he indra keśinā keśayuktau śikhāvantau te harī tvadīyāv aśvau brahmaṇā stotrarūpeṇa mantreṇa yunajmi | rathe saṃyojayāmi | tena rathenopa pra yāhi | tvadgṛham upagaccha | gabhastyoḥ bāhvor ity arthaḥ | bāhunāmaitat | bāhvor aśvabandhakān raśmīn dadhiṣe | dhārayasva | tvā tvāṃ sutāso yajñe 'bhiṣutāḥ somā rabhasā vegavantaḥ tīvrāḥ kṣipraṃ madakāriṇa ity arthaḥ | udamandiṣuḥ | utkṛṣṭam utkṛṣṭaṃ madayuktam akārṣuḥ | he vajrin atas tvaṃ svagṛhaṃ gatvā pūṣaṇvān | atra pūṣaśabdaḥ puṣṭau vartate | puṣṭir vai pūṣā puṣṭim evāvarunddha iti śruteḥ | somapānajanitayā puṣṭyā yuktaḥ san patnyā*
+
+### Page 53 (PDF 68)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Bhāṣya of Rik 82.6, concluded:*
+
+> स्वभार्यया सह समु आमदः । सम्यगेव तृप्तो भव ॥ केशिना । केशशब्दात्त्वत्त्वर्थीय इनिः । सुपां सुलुगिति विभक्त्या राकारः । रभसा । अर्श आदित्वादच् । आमन्दिषुः । व्यत्ययेन परस्मैपदम् । पूषण्वान् । पुष पुष्टौ । श्वन्नुक्षन्पूषन्नित्यादौ पूषन्निति निपात्यते । तेन्नात्र भानसाधनं प्रष्टव्यम् । पूषाऽस्यास्तीति पूषण्वान् । मादुपधायाया इति मतुपो वत्वम् । नलोपेऽनोनुट् । पा. ८-२-१६ । इति नुट् । ह्रस्वनुड्भ्यां मतुब् इति मतुप उदात्तत्वम् । आमदः । मदी हर्षे । छन्दसि लुङ्लङ्लिट इति प्रार्थनायां लङ् । श्यनि प्राप्ते व्यत्ययेन शप् ॥ ६ ॥
+
+*svabhāryayā saha sam u āmadaḥ | samyag eva tṛpto bhava || keśinā | keśaśabdāt tvatvarthīya iniḥ | supāṃ suluk iti vibhaktyā rākāraḥ [?] | rabhasā | arśa ādityād ac | āmandiṣuḥ | vyatyayena parasmaipadam | pūṣaṇvān | puṣa puṣṭau | śvannukṣanpūṣann ity ādau pūṣann iti nipātyate | tennātra bhānasādhanaṃ praṣṭavyam | pūṣā 'syāstīti pūṣaṇvān | mādupadhāyā iti matupo vatvam | nalope 'nonuṭ | pā. 8-2-16 | iti nuṭ | hrasvanuḍbhyāṃ matub iti matupa udāttatvam | āmadaḥ | madī harṣe | chandasi luṅlaṅliṭa iti prārthanāyāṃ laṅ | śyani prāpte vyatyayena śap || 6 ||*
+
+*Sense:* "In the *antyeṣṭahan* days, for the *hāriyojana* (cup), this *yunajmi* Ṛk is the *yājyā*; so it is stated: '*yunajmi te brahmaṇā keśinā harī* — the *yājyā* and *anuvākyā* on the *antyeṣṭahan* days' (Āśv. 6-11 [?]). — O Indra, your two maned (*keśinā*, tufted, crested) bays I yoke (*yunajmi*) with *brahman*, a mantra of praise; I join them to the chariot. By that chariot go (*upa pra yāhi*) to your house. *Gabhastyoḥ* — in the two arms (*gabhasti* is a name of the arm): you hold (*dadhiṣe*) the reins that bind the horses in your arms. The Soma-juices pressed in the sacrifice, *rabhasā* — swift, keen, quickly intoxicating — have gladdened (*udamandiṣuḥ*) you utterly, exceedingly. O *vajrin*, therefore, going to your own house, *pūṣaṇvān* — *pūṣan* here is in the sense of *puṣṭi*, nourishment (as the śruti says: 'Pūṣan is nourishment; he wins nourishment') — endowed with the nourishment produced by drinking Soma, rejoice (*sam u āmadaḥ*) well with your wife, together with your own wife; be fully satisfied." *The grammatical tail:* *keśinā* — the affix *ini* in the sense 'having' after *keśa*; *rabhasā* — *ac* after *arśa-ādi* words; *āmandiṣuḥ* — *parasmaipada* by *vyatyaya*; *pūṣaṇvān* — from *puṣ* 'to nourish'; *pūṣan* is irregular (*nipātita*); *matup* becomes *vat* after a stem with *m*- or *a*-penultimate; *āmadaḥ* — *madī harṣe*, *laṅ* in the sense of prayer by "chandasi luṅlaṅliṭaḥ", *śap* for *śyan* by *vyatyaya*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.6** *(Kannada)*
+
+- **केशिना** — "(O Indra,) possessed of long manes"
+- **ते** — "your"
+- **हरी** — "horses"
+- **ब्रह्मणा** — "reciting mantras of the form of praise"
+- **युनज्मि** — "I yoke (to your chariot)"
+- **उप प्र याहि** — "(sitting in that chariot,) go to your house"
+- **गभस्त्योः** — "with your hands"
+- **दधिषे** — "take the reins"
+- **त्वा** — "you"
+- **सुतासः** — "(Soma juices) pressed (in the sacrifice)"
+- **रभसाः** — "that make exceedingly intoxicating"
+- **उदमन्दिषुः** — "have made you exceedingly intoxicated (therefore)"
+- **वज्रिन्** — "O wielder of the thunderbolt"
+- **पूषण्वान्** — "nourished (by drinking the juice)"
+- **पत्न्या** — "with your wife"
+- **सम् उ आमदः** — "obtain satisfaction."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.6** *(Kannada)*
+
+"O Indra, I yoke your long-maned horses to your chariot, reciting mantras of the form of praise. Hold the reins in your hands and set out for your house. The Soma juices that were pressed have made you exceedingly intoxicated. Nourished by drinking that juice, go back to your house and, uniting with your wife, be satisfied."
+
+**English Translation** *(printed in English in the source)*
+
+"I harness your long-maned horses with proper prayers ; take the reins in your hands, the extracted Soma-juices have exhilerated [sic] you ; O weilder [sic] of the thunderbolt, thus filled with nourshing [sic] food, rejoice with your wife." — as printed ("exhilerated", "weilder", "nourshing" misprints [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.6)**
+
+- **केशिना** — *śikhāvantau* — "(horses) having manes."
+- **गभस्त्योः** — *hastayoḥ* — "in the hands. Among the twelve names of the arms beginning *ayātī, cyavānā*, the word *gabhasti* is read; hence *gabhastyoḥ* means 'in the hands, in the arms'" *(the print's word runs onto p. 54).*
+
+### Page 54 (PDF 69)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+*Special Topics of Rik 82.6, continued from p. 53:*
+
+- **पूषण्वान्** — "Here the bhāṣyakāra has given to the word *pūṣa* the sense 'nourishment' (*puṣṭi*), and in support has cited the Taittirīya Brāhmaṇa śruti sentence '*puṣṭir vai pūṣā; puṣṭim evāvarunddhe*' (Tai. Brā. [3-2-?-?] [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.6)** *(grammar page, noted briefly; runs to p. 55)*
+
+- **केशिना** — the dual of a stem ending in *n*, in the second-case dual (*śyau*…) [as printed: "dual of the *n*-ending word"]. *Keśāḥ asyāṃ santi*, 'having hair, tuft': by "vrīhyādibhyaś ca" … by "ata ini-ṭhanau" (Pā. Sū. 5-2-115) the affix *ini* in the *matup* sense after the *a*-ending stem; by "yasyeti ca" (Pā. Sū. 6-4-148) the *a* of *keśa* is dropped before *ini*; with *keśin+au*, by "supāṃ suluk…" (Pā. Sū. 7-1-39) the case-ending gets the substitute *ā*; the form is complete.
+- **रभसा** — *rabhasa* means 'speed': those which have speed. The word *rabhasa* is among the *arśa-ādi* words, so by "arśa-ādibhyo 'c" (Pā. Sū. 5-2-127) the affix *ac* in the sense of *matup*; by "yasyeti ca" the *a* of the stem is dropped before it, yet the form remains *rabhasa*; the first-case plural gives the form.
+- **आमन्दिषुः** — the root *madi stutimodamadasvapnakāntigatiṣu*, *bhvādi*, *ātmanepadī*; by "vyatyayo bahulam" (Pā. Sū. 3-1-85) here the *parasmaipada* affix arises by *vyatyaya*. (The *kārikā* adds: '*supāṃ tiṅ-upagraha-liṅga-nara-…*' — 'by the *vārttika* of *vyatyaya*, the exchange of *upagraha* (voice) is also taken'.) For the plural *jhi*, by "sicaś ca" … "sijabhyastavidibhyaś ca" (Pā. Sū. 3-4-109) the substitute *jus*; of the *jus* only *us* remains; in the *luṅ*, *sic* comes in place of *cli*, and *sic* gets the *valādi*-*iṭ* augment; the *s* of *sic* after the *iṇ* becomes *ṣ*; the augment *aṭ* comes to the root; with *num* for *amad*+*iṣ*+*us*, *ru* and visarga result.
+- **पूषण्वान्** — the root *puṣa puṣṭau*; by "śvannukṣanpūṣaṇ…" (Uṇ. Sū. 1-[158] [?]) the affix *kanin* is added and the form *pūṣan* is *nipātita* ('irregular'): *nipāta* is that by which, after the later (separate) operation, the formation is accepted in the pronounced form only; in this word the *kanin* affix must be taken in the *bhāva* sense. *Pūṣā asya asti* — 'he who has nourishment (strength)': in the sense of 'this has it' the *matup* by "tad asyāsty asminn iti matup" (Pā. Sū. 5-2-94); *pūṣan+mat* *(continues on p. 55)*
+
+### Page 55 (PDF 70)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 82.6, concluded:*
+
+- **पूषण्वान्** (concluded) — "…by "mādupadhāyāś ca matorvo 'yavādibhyaḥ" (Pā. Sū. 8-2-9) the *m* of *matup* becomes *v* after a stem whose penultimate is *m* or *a* and which is not *yava*-etc.; so here, since *matup* follows the word *pūṣan*, the *m* becomes *v*. By "anonuṭ" [as read: "ano nuṭ", Pā. Sū. 8-2-16] a *nuṭ* comes to the *matup* after a stem ending in *an*. Here, in *pūṣan+vat*, by "nalopaḥ prātipadikāntasya" (Pā. Sū. 8-2-7) the *n* of *pūṣan* would be dropped; but whether the substitution (*sthānivadbhāva*) is accepted or not, the stem is *an*-ending, so the augment *nuṭ* arises for the *matup*; when it is *anuvat* (*an*-ending), the *n* is heard again. When the first-case singular *su* follows, by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (Pā. Sū. 7-1-70) *num* for the *ugit* *matup*; by "atvasantasya cādhātoḥ" (Pā. Sū. 6-4-14) the lengthening of the penultimate; since the conjunct-final loss is *siddha*-by-form, the final *n* of *num* is not dropped again. By "hrasvanuḍbhyāṃ matub" (Pā. Sū. 6-1-176) the *matup* after a short vowel or after *nuṭ* is udātta; here, since *matup* follows *nuṭ*, the udātta accent arises."
+- **आमदः** — the root *madī harṣe*, *divādi*; by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the *laṅ* in the sense of prayer; for the *divādi*, *śyan* as the stem-marker would arise; by *vyatyaya* *śap* comes; for the second person singular *sip*, *mad+a+s*; for the root with the *laṅ* following, the augment *aṭ* comes to the *aṅga*. ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+*(No separate "…sūktavu samāptavu" closing line is printed for Sūkta 82; the title of Sūkta 83 follows directly.)*
+
+## Sūkta 83
+
+**ಎಂಭತ್ತಮೂರನೆಯ ಸೂಕ್ತವು** — *eṃbhattamūraneya sūktavu* — "The eighty-third sūkta."
+
+**Sāyaṇa's introduction (Sanskrit in Kannada script; doubtful places [?]):**
+
+> अश्वावतीति षडृचं दशमं सूक्तं गोतमस्यार्षमैन्द्रं जागतम् । तथा चानुक्रान्तं । अश्वावती जागतमिति । अतिरात्रे तृतीये पर्याये ब्राह्मणाच्छंसिशस्त्र इदं सूक्तम् । सूत्रितं च । अश्वावति प्रोग्रां पीतिं वृष्ण इयर्मि सत्यामिति याज्या । आ. ६-५ [?] इति ॥
+
+*aśvāvatīti ṣaḍṛcaṃ daśamaṃ sūktaṃ gotamasyārṣam aindraṃ jāgatam | tathā cānukrāntaṃ | aśvāvatī jāgatam iti | atirātre tṛtīye paryāye brāhmaṇācchaṃsiśastra idaṃ sūktam | sūtritaṃ ca | aśvāvati progrāṃ pītiṃ vṛṣṇa iyarmi satyām iti yājyā | Āś. 6-5 [?] iti ||*
+
+*Sense:* "*Aśvāvatī* — the tenth sūkta (of the thirteenth anuvāka), of six Ṛks; the ṛṣi is Gotama; deity Indra; metre Jagatī; so it is in the Anukramaṇī: '*aśvāvatī* — jagatī'. At the *Atirātra* (sacrifice), in the third *paryāya*, this sūkta is used in the śastra of the *Brāhmaṇācchaṃsin*; it is stated in the sūtra: '*aśvāvati progrāṃ pītiṃ vṛṣṇa iyarmi satyām* — the *yājyā*' (Āśv. 6-5 [?])."
+
+**Anuvāda (Kannada), beginning:** "*Aśvāvatī prathamaḥ* — this sūkta is the tenth sūkta in the thirteenth anuvāka; there are six Ṛks in it. For this sūkta Gotama is the ṛṣi, Indra the deity," *(the sentence continues on p. 56)*.
+
+---
+
+**Progress note:** Printed pp. 1–55 done (PDF 16–70) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete** (Sūkta 82: six Ṛks, pp. 33–55; no separate closing line in the print). **Sūkta 83** (six Ṛks; Indra; Gotama; Jagatī; the tenth sūkta of Anuvāka 13; printed pp. 55–80) begun: Sāyaṇa's introduction and the first part of the Anuvāda (p. 55); the Anuvāda continues on p. 56 (PDF 71), then the heading block and Rik 83.1. Next: printed p. 56 (PDF 71). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 and the application note on p. 50 read with doubt; the Saṃhitā of Rik 82.6 (p. 52) read with some doubt.
