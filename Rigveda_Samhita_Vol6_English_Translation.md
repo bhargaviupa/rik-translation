@@ -8575,4 +8575,76 @@ Words treated: *tve* (the stem *yuṣmad*; before the seventh-case singular endi
 
 ---
 
-**Progress note:** Printed pp. 1–414 done (PDF 19–432): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.6 complete; **Rik 73.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 412–414) and the grammar page up to *uṣasā* done; the grammar page of 73.7 continues on p. 415 (*virūpe*, *kṛṣṇam*, *varṇam*, *aruṇam*, *saṃ dhuḥ*). Next: p. 415 (PDF 433). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on pp. 412–413 and Skandasvāmin's Sanskrit on p. 413 doubtful, glosses mine and tentative [?].
+### Page 415 (PDF 433)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**Grammar page of Rik 73.7 (concluded; noted briefly)**
+
+*dhuḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ*, third person plural, *jhi*-substitution; the *sic* that would stand for *cli* in the *luṅ* is lost by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. [2-4-77]; by *āta* [*ātaḥ*], Pā. [3-4-110], in the *sic*-lost case the *jhi* after an *ā*-final gets *jus*; by *usya padāntāt*, Pā. [6-1-96], *pararūpa* as the single replacement; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; nighāta because it follows an *atijanta*, by *tiṅ atiṅaḥ*, Pā. [8-1-28]). Ends "॥ ७ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.8** *(printed Ṛk "8 ||")*
+
+> यान्राये मर्तान्त्सुषूदो अग्ने ते स्याम मघवानो वयं च ।
+> छायेव विश्वं भुवनं सिषक्ष्यापप्रिवान्रोदसी अंतरिक्षम् ॥ ८ ॥
+
+*yān rāye martān susūdo agne te syāma maghavāno vayaṃ ca |
+chāyeva viśvaṃ bhuvanaṃ sisakṣy āpaprivān rodasī antarikṣam ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यान् । रायः । मर्तान् । सुऽसूदः । अग्ने । ते । स्याम । मघऽवानः । वयम् । च ।
+> छायाऽइव । विश्वम् । भुवनम् । सिसक्षि । आऽपप्रिऽवान् । रोदसी इति । अन्तरिक्षम् ॥ ८ ॥
+
+*yān | rāye | martān | susūdaḥ | agne | te | syāma | magha-vānaḥ | vayam | ca | chāyā-iva | viśvam | bhuvanam | sisakṣi | ā-papri-vān | rodasī iti | antarikṣam ||8||*
+
+*(Reading note: the Saṃhitā prints "रायो" in the first line; the Pada's *rāye*, "for wealth", is the reading of the Pada as printed — the Saṃhitā's "यान्राये" is as the Pada divides "yān | rāye".)*
+
+---
+
+### Page 416 (PDF 434)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.8** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> यान्मर्तान्मनुष्यान्स्यान्राये धनाय सुषूदः अग्निहोत्रादिकर्मसु प्रेरयसि ते तादृशा वयं च मघवानो धनिनः स्याम । भवेम । रोदसी द्यावापृथिव्यावंतरिक्षं चापप्रिवान् स्वतेजसा वृष्ट्युदकेन वापूरितवांस्त्वं च विश्वं भुवनं सर्वं जगत् सिषक्षि सेवसे । अनुगृह्य सर्वं रक्षसीत्यर्थः । तत्र दृष्टांतः । छायेव । यथा छत्रादेशश्चायोतपादिजनितं क्लेशं निवार्य रक्षति तद्वत् ॥ रायः । ऊडिदमिति विभक्तेरुदात्तत्वं । सुषूदः । षूद प्रेरणे । लेट्यडामः(?) । बहुलं छंदसीति शपः श्लुः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । सिषक्षि । षच समवायै । बहुलं छंदसीति शपः श्लुः । इदित्यनुवृत्तौ बहुलं छंदसीत्यभ्यासस्येत्वं । आपप्रिवान् । प्रा पूरणे । लिटः क्वसुः । वस्वेकाजाद्घसामिति ईडागमः । आतो लोप इटि चेत्याकारलोपः । द्विर्वचनेऽचीति स्थानिवद्भावात् द्विर्भावादि ॥
+
+*yān martān manuṣyān syān [sic: svān?] rāye dhanāya susūdaḥ agnihotrādikarmasu prerayasi te tādṛśā vayaṃ ca maghavāno dhaninaḥ syāma | bhavema | rodasī dyāvāpṛthivyāv antarikṣaṃ cāpaprivān svatejasā vṛṣṭyudakena vāpūritavāṃs tvaṃ ca viśvaṃ bhuvanaṃ sarvaṃ jagat sisakṣi sevase | anugṛhya sarvaṃ rakṣasīty arthaḥ | tatra dṛṣṭāntaḥ | chāyeva | yathā chatrādeś chāyātapādijanitaṃ kleśaṃ nivārya rakṣati tadvat || rāyaḥ | ūḍidam iti vibhakter udāttatvaṃ | susūdaḥ | ṣūda preraṇe | leṭy aḍāmaḥ(?) | bahulaṃ chandasīti śapaḥ śluḥ | abhyastānām ādir ity ādyudāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | sisakṣi | ṣaca samavāye | bahulaṃ chandasīti śapaḥ śluḥ | idity anuvṛttau bahulaṃ chandasīty abhyāsasyetvaṃ | āpaprivān | prā pūraṇe | liṭaḥ kvasuḥ | vasv-ekājād-ghasām iti īḍāgamaḥ | āto lopa iṭi ceti ākāralopaḥ | dvirvacane 'cīti sthānivadbhāvāt dvirbhāvādi ||*
+
+*(Reading note: "syān" in "yān martān manuṣyān syān rāye" is read as printed and is doubtful — the context wants "svān" or "tān"; "leṭy aḍāmaḥ(?)" for *leṭy aḍāgamaḥ* and "īḍāgamaḥ" for *iḍāgamaḥ* are as printed [sic]; Pāṇini numerals are not given.)*
+
+*Meaning:* The mortals whom (*yān martān*) you impel (*susūdaḥ*) in the rites of *agnihotra* and the rest for wealth (*rāye*) — such as they, may we too (*vayaṃ ca*) become wealthy (*maghavānaḥ*). You, who have filled (*āpaprivān*) heaven and earth and the sky (*antarikṣam*) with your own radiance or with rain-water, serve (*sisakṣi*) the whole world (*viśvaṃ bhuvanam*): that is, favouring, you protect all. The illustration: *chāyeva* — as the shade of an umbrella or the like protects by warding off the distress caused by sunshine and so on.
+
+**Grammatical tail** *(characterized, not transcribed)*: *rāyaḥ* (the ending acute by *ūḍidaṃpadādi…*); *susūdaḥ* (root *ṣūda preraṇe*; *leṭ* with *aḍ*; loss of the vikaraṇa [*śap*] by *bahulaṃ chandasi*; initial acute by *abhyastānām ādiḥ*; nighāta prohibited since *yat* precedes); *sisakṣi* (root *ṣaca samavāye*; the vikaraṇa dropped by *bahulaṃ chandasi*; the reduplicate's *i* by *bahulaṃ chandasi*); *āpaprivān* (root *prā pūraṇe*; *kvasu* for *liṭ*; *iṭ* by *vasv-ekājād-ghasām*; loss of the root's *ā* by *āto lopa iṭi ca*; doubling by *sthānivat*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*yān martān* — which mortals (us); *rāye* — for wealth; *susūdaḥ* — you who impel (in *agnihotra* and the rest); *te vayaṃ ca* — we, such; *maghavānaḥ* — wealthy; *syāma* — may we become; *rodasī* — the worlds of heaven and earth; *antarikṣaṃ ca* — and the sky; *āpaprivān* — you who fill with your radiance (rain-water); *chāyā iva* — like a shade; *viśvaṃ bhuvanam* — the whole world; *sisakṣi* — you protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+For the attainment of lordship (*aiśvarya*), we mortals, urged by you (to perform sacrifices and so on), may become wealthy (by your favour); you, with your radiance (and with rain-water) covering the earth, the sky and the heavens, protect the whole world like a shade (that shelters).
+
+**English Translation** *(the source's own, as printed):*
+
+> May we mortals, whom you have directed (to the performance of sacrifices) for the sake of riches, become opulent; filling heaven and earth and the firmament (with your radiance), you protect the whole world like a (sheltering) shade.
+
+---
+
+### Page 417 (PDF 435)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]"; foot signature "VI 27".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **विश्वं छायेव सिसक्षि** — *bhuvanaṃ sarvaṃ kleśaṃ nivārya rakṣati chāyā tadvat* — "Sāyaṇa explains the meaning as: as, when one holds an umbrella, its shade protects one from the distress of rain, sun and so on, so Agni protects the whole world. Skandasvāmin: *yathā chāyā nityasaṃnihitā evaṃ tvaṃ viśvaṃ bhuvanaṃ bhūtajātaṃ sisakṣi dahanapacanādinā sevase* — 'as the shade is ever near, so you serve the whole world of beings by burning, cooking and the like'. As a shade is always ready to serve beings, Agni protects all by doing the works, beginning with the cooking of the food of all creatures of the world."
+- **रोदसी आपप्रिवान्** — "*svadhe*, *purandhī* and so on — since the word *rodasī* is read among the twenty-four names of heaven and earth (Ni. [3-30?]), it means 'heaven and earth'. In the same sense the word *rodasī* occurs in many places: *vittaṃ me asya rodasī* (Ni. [4-?]), *ime cid indra rodasī* (Ni. [6-1]) and so on. The sense is that Agni pervades the earth, the sky and the heavens fully with his own radiance and with rain-water."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.8, noted briefly; not transcribed)*
+
+Words treated: *rāye* (the stem *rai*; before the dative singular ending *ṅe*, *āy* substitution by *ro 'si*… [as read: *ā-y*]; the ending acute by *ūḍidaṃpadādi…*). *susūdaḥ* (root *ṣūda preraṇe*; *leṭ*, second person singular, *sip*; loss of *i* by *iteś ca lopaḥ parasmaipadeṣu*; *aḍāgama* by *leṭo 'ḍāṭau*; *śluḥ* in place of the *śap* by *bahulaṃ chandasi*; doubling by *ślau*; *halādiśeṣa*; shortening; *ru*, visarga; since *yat* is connected, by *yaddhṛttānnityam*, Pā. [8-1-66], nighāta is prohibited; initial acute by *abhyastānām ādiḥ*). *syāma* (root *as bhuvi*; *vidhiliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*; *yāsuṭ*-augment by *yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*; since *yāsuṭ* is *ṅit*, loss of the root's *a* by *śnasor alloḥ* (Pā. [6-4-111]); loss of the *s* of *sīyuṭ* by *liṅaḥ salopo 'nantyasya*, Pā. [7-2-79]; nighāta because it follows an *atijanta*). *(Continued on p. 418.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–417 done (PDF 19–435): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.7 complete; **Rik 73.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (p. 417) and the grammar page up to *syāma* done; the grammar page continues on p. 418. Next: p. 418 (PDF 436), the rest of the grammar page of 73.8; then Riks 73.9–73.10 and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 73.8 (p. 416) with printed oddities "syān", "aḍāmaḥ", "īḍāgamaḥ" doubtful [?].
