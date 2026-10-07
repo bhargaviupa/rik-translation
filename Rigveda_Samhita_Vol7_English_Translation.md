@@ -756,4 +756,94 @@ saṃ gṛbhāya purū śatobhayāhastyā vasu śiśīhi rāya ā bhara ||7||*
 
 ---
 
-**Progress note:** Printed pp. 1–27 done (PDF 16–42) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.6 complete**; **Rik 81.7** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 24–26) done; its grammar page is begun on p. 26 and runs through p. 27 into p. 28 (PDF 43). Next: printed p. 28 (PDF 43). Two Ṛks (81.8–81.9) remain after 81.7, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print.
+### Page 28 (PDF 43)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Grammar of Rik 81.7, concluded (grammar page, noted briefly):*
+
+- **शिशीहि** (concluded) — "…the whole that has taken doubling is called *abhyasta*. *Hi* has the *sārvadhātuka* designation and is a *val*-initial affix; although it comes in place of *sip*, it is *ñit* because of the declaration 'ap-it' … hence for the *ā* of the root the *ī* comes, giving *śiśīhi*. Since it stands at the head of the pāda, by the exclusion 'apādādau' the nighāta is prohibited and so the whole is not anudātta."
+- **रायः** — the second-case plural of the word *rai*; by "ūḍidaṃ padādyap-pum-rai-dyubhyaḥ" (Pā. Sū. 6-1-171), after those words that are monosyllabic and final-udātta, a case-ending without the *sarvanāmasthāna* designation is udātta; so here *śas* gets the udātta; the rest is anudātta, since the *śit* [affix-accent] rule applies. ||7||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.8**
+
+> मादयस्व सुते सचा शवसे शूर राधसे ।
+> विद्मा हि त्वा पुरूवसुमुप कामान्त्ससृज्महेऽथा नोऽविता भव ॥ ८ ॥
+
+*mādayasva sute sacā śavase śūra rādhase |
+vidmā hi tvā purūvasum upa kāmān sasṛjmahe 'thā no 'vitā bhava ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> मादयस्व । सुते । सचा । शवसे । शूर । राधसे ।
+> विद्म । हि । त्वा । पुरुऽवसुम् । उप । कामान् । ससृज्महे । अथ । नः ।
+> अविता । भव ॥ ८ ॥
+
+*mādayasva | sute | sacā | śavase | śūra | rādhase | vidma | hi | tvā | puru-vasum | upa | kāmān | sasṛjmahe | atha | naḥ | avitā | bhava ||8||*
+
+### Page 29 (PDF 44)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.8** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे शूर शौर्यवन्निन्द्र सुते सोमेऽभिषुते सत्याऽगत्य सचास्माकं सखा सन् मादयस्व । तेन सोमेन तृप्तो भव । किमर्थम् । शवसे बलार्थं राधसेऽस्माकं धनार्थं च । त्वा त्वां पुरूवसुं बहुधनं विद्म हि । वयं जानीमः खलु । अतोऽस्मदीयान् कामान् मात्रा गवा वत्सानिव त्वयोप सस्ृज्महे हि । त्वयि खल्वेकैकुर्मः । अथानन्तरं नोऽस्माकमविताभिलषितफलप्रदानेन रक्षिता भव ॥ मादयस्व । मद तृप्तियोगे । चुरादिरात्मनेपदी । अनुपदेशाल्लसार्वधातुकानुदात्तत्वे णिच एव स्वरः शिष्यते । सस्ृज्महे । सृज विसर्गे । बहुलं छन्दसीति विकरणस्य श्लुः । प्रत्ययोद्यादात्तत्वम् । अत्रापि हिशब्दानुषङ्गाच्छन्दस्यनेकमपि साकाङ्क्षम् (पा. ८-१-३५) इति निघातप्रतिषेधः ॥ ८ ॥
+
+*he śūra śauryavann indra sute some 'bhiṣute sacā 'gatya sacāsmākaṃ sakhā san mādayasva | tena somena tṛpto bhava | kimartham | śavase balārthaṃ rādhase 'smākaṃ dhanārthaṃ ca | tvā tvāṃ purūvasuṃ bahudhanaṃ vidma hi | vayaṃ jānīmaḥ khalu | ato 'smadīyān kāmān mātrā gavā vatsān iva tvayopa sasṛjmahe hi | tvayi khalv ekaikurmaḥ | athānantaraṃ no 'smākam avitābhilaṣitaphalapradānena rakṣitā bhava || mādayasva | mada tṛptiyoge | curādir ātmanepadī | anupadeśāl lasārvadhātukānudāttatve ṇica eva svaraḥ śiṣyate | sasṛjmahe | sṛja visarge | bahulaṃ chandasīti vikaraṇasya śluḥ | pratyayodyādāttatvam | atrāpi hiśabdānuṣaṅgāc chandasy anekam api sākāṅkṣam (pā. 8-1-35) iti nighātapratiṣedhaḥ || 8 ||*
+
+*Sense:* "O hero (*śūra*), Indra possessed of valour: when the Soma is pressed (*sute*), having come, be our friend (*sacā* — *sakhā san*) and be gladdened (*mādayasva*); be satisfied by that Soma. For what? *Śavase* — for strength; *rādhase* — for our wealth. *Tvā* — you, *purūvasum* — of much wealth, *vidma hi* — we indeed know. Therefore we commit (*upa sasṛjmahe*) our desires to you, as calves to the mother cow; (we set our desires in you alone). And then be our protector (*avitā*), by granting the desired fruit." *The grammatical tail:* *mādayasva* — the root *mada tṛptiyoge*, *curādi*, *ātmanepadī*; the accent of the *ṇic* alone remains; *sasṛjmahe* — *ślu* for the stem-marker by "bahulaṃ chandasi"; no nighāta by "chandasy anekam api sākāṅkṣam" (Pā. 8-1-35) on account of the *hi* continuing."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.8** *(Kannada)*
+
+- **शूर** — "O Indra, endowed with valour"
+- **सुते** — "(when the Soma juice) is pressed (come)"
+- **सचा** — "(as our) friend"
+- **शवसे** — "for the strength-giving"
+- **राधसे** — "for the winning of wealth"
+- **मादयस्व** — "(by drinking Soma juice) be satisfied"
+- **त्वा** — "you"
+- **पुरूवसुम्** — "as one of abundant wealth"
+- **विद्म हि** — "we (indeed) know"
+- **कामान्** — "(our) desired objects"
+- **उप ससृज्महे** — "we entrust (to you)"
+- **अथ** — "afterwards"
+- **नः** — "to us"
+- **अविता** — "protector"
+- **भव** — "be."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.8** *(Kannada)*
+
+"O valorous Indra, come as our friend and be satisfied by drinking the Soma juice, so that we may gain strength and wealth. We know that you are exceedingly rich. Therefore we entrust our desired objects to you. By granting those desires, be our protector."
+
+**English Translation** *(printed in English in the source)*
+
+"O hero, enjoy with us the Soma-libation for increasing our strength and wealth ; we know you to be the possesser [sic] of vast riches and express our desire to you ; be therefore our protector" — as printed ("possesser" a misprint [sic]; no full stop in the print).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.8)**
+
+- **सचा** — "*sace sahety arthaḥ* (Ni. [5-?]-[?] [?]): *sacā* means 'together with'."
+
+### Page 30 (PDF 45)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Special Topics of Rik 81.8, continued:*
+
+- **शवसे** — "for the increase of strength. Among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* the word *śavas* is read (Ni. [2-9] [?])."
+- **राधसे** — "for the sake of wealth, for the obtaining of wealth; among the twenty-eight names of wealth beginning *maghaṃ reṇkaḥ* the word *rādhas* is read (Ni. [2-10] [?])."
+- **पुरूवसुम्** — "(him) who has much wealth."
+- **उप ससृज्महे** — *sṛja visarge* — "we make over to you, we place our desires with you."
+- **अविता** — *ava rakṣaṇe* — "protector, guardian."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.8)** *(grammar page, noted briefly)*
+
+- **मादयस्व** — the root *mada tṛptiyoge*, *curādi*; by "satyāpapāśa…" (Pā. Sū. 3-1-25) the affix *ṇic* in its own sense; "ṇicaś ca" (णिचश्च, Pā. Sū. 1-3-74) — though a *ṇic*-ending root would be *ubhayapadī*, this root is specially declared *ātmanepadī* only (as it is taught with *akaḥ*-class, [the rule] "ākasmīyā" [as read]); by "sanādyantā dhātavaḥ" the root-designation; with *ṇic* following, lengthening of the penultimate by "ata upadhāyāḥ" (Pā. Sū. 7-2-116); after the *ṇic*-ending stem, *loṭ*, second person singular middle: *māda+i+sva*; with the stem-marker *śap*, guṇa for the *i* and *ay* replacement; by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186) the stem-marker's consonant and the *p* are marks, so (the print says) it is not *a-upadeśa* [as read]; since the root has no *upadeśa* after (it) the *lasārvadhātuka* is anudātta; then the accent of the *ṇic* alone remains, since it is *śit*-accented.
+- **ससृज्महे** — the root *sṛja visarge*, *divādi*; by "vyatyayo bahulam" (Pā. Sū. 3-1-85), in place of *śyan*, the stem-marker *ślu*; *laṭ*, first person plural; when *ślu* follows, reduplication of the root; the remainder of the reduplicative (*sa*): *sasṛjmahe*; since the affix is *śit*, the affix-accent arises; the *tiṅanta* has the full anudātta by "…"; but "chandasy anekam api sākāṅkṣam" (Pā. Sū. 8-1-35): several *tiṅanta* verbs that are *sākāṅkṣa* (mutually dependent) in the Veda are not anudātta; "even by the word *hi* a single *tiṅanta* is not to be made nighāta"; here, since *hi* is connected with the preceding *vidma*, the total anudātta is barred. ||8||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?]; this page's grammar is compressed and read with doubt in two places.*
+
+---
+
+**Progress note:** Printed pp. 1–30 done (PDF 16–45) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.8 complete**; **Rik 81.9** (the last) not yet seen. Next: printed p. 31 (PDF 46). After 81.9 and the closing line of Sūkta 81 (p. 32), Sūkta 82 begins on p. 33. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30).
