@@ -4765,4 +4765,85 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–239 done (PDF 19–257): **Sūktas 62–68 complete.** Next: p. 240 (PDF 258), the opening of **Sūkta 69** (fifth sūkta of the Twelfth Anuvāka; probably another *dvaipada* sūkta — check the heading and Sāyaṇa's introduction). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics of 68.4–68.5 and Skandasvāmin's notes (pp. 234–238) read at 150 dpi, compressed and doubtful in places [?]; accent marks of the Saṃhitā/Pada not reproduced.
+---
+
+## SŪKTA 69 *(printed p. 240 = PDF 258; fifth sūkta of the Twelfth Anuvāka)*
+
+### Page 240 (PDF 258) — Sāyaṇa's introduction; Kannada anuvāda; heading block; Rik 69.1 Saṃhitā
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Printed on the page:** the line "*Aravattombhattaneya sūktavu*" ("the sixty-ninth sūkta"), then:
+
+> **शुक्र इति द्वैपदं दशर्चमध्ययनतः पञ्चर्चं पञ्चमं सूक्तं पराशरस्यार्षमाग्नेयं । शुक्र इत्यनुक्रान्तं ॥ विनियोगो लैङ्गिकः ॥**
+> *śukra iti dvaipadaṃ daśarcam adhyayanataḥ pañcarcaṃ pañcamaṃ sūktaṃ parāśarasyārṣam āgneyaṃ | śukra ity anukrāntaṃ || viniyogo laiṅgikaḥ ||*
+> *"'Śukra' is the fifth sūkta, a *dvaipada* of ten [half-]Ṛks, by study of five Ṛks; the vision of Parāśara, addressed to Agni. It is stated in the Anukramaṇī as 'śukra'. The application is *laiṅgika*."*
+
+**Anuvāda (Kannada).** "The sūkta '*śukraḥ*' is the fifth sūkta in the twelfth anuvāka. It has ten Ṛks of the metre *dvipadā virāṭ*, or five by the way of study. Parāśara is the ṛṣi, Agni the deity. The Anukramaṇikā mentions it as '*śukra*'. The application is *laiṅgika*."
+
+**Sūkta — 69** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ६९ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — १३ ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ५ (१०) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+#### Rik 69.1 *(printed "1 || 2 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **शुक्रः शिशुक्वाँ उषो न जारः पप्रा समीची दिवो न ज्योतिः ।**
+> **परि प्रजातः क्रत्वा बभूथ भुवो देवानां पिता पुत्रः सन् ॥ १ ॥ २ ॥**
+> *śukraḥ śiśukvāṃ uṣo na jāraḥ paprā samīcī divo na jyotiḥ |*
+> *pari prajātaḥ kratvā babhūtha bhuvo devānāṃ pitā putraḥ san || 1 || 2 ||*
+
+*(The print's first word after* śukraḥ *is "शुशुक्वान्" in the Pada and bhāṣya; the Saṃhitā spells it "शुशुक्वाँ"; I read the Saṃhitā as* śuśukvāṃ*, correcting my first transcription.)*
+
+---
+
+### Page 241 (PDF 259)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]"; at the foot the signature mark "VI 16".)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **शुक्रः । शुशुक्वान् । उषः । न । जारः । पप्रा । समीची इति सम्ऽईची । दिवः । न । ज्योतिः ।**
+> **परि । प्रऽजातः । क्रत्वा । बभूथ । भुवः । देवानाम् । पिता । पुत्रः । सन् ॥ १ ॥ २ ॥**
+> *śukraḥ | śuśukvān | uṣaḥ | na | jāraḥ | paprā | samīcī iti sam-īcī | divaḥ | na | jyotiḥ |*
+> *pari | pra-jātaḥ | kratvā | babhūtha | bhuvaḥ | devānām | pitā | putraḥ | san || 1 || 2 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **शुक्रः शुभ्रवर्णोऽयमग्निरुषो न जार उषसो जरयिता सूर्य इव शुशुक्वान् शोचयिता सर्वस्य प्रकाशयिता भवति । तथा समीची संगते द्यावापृथिव्यौ दिवो न ज्योतिर्द्योतमानस्य सूर्यस्य ज्योतिरिव पप्रा । स्वतेजसा पूरयिता । हे अग्ने अतस्त्वं प्रजातः प्रादुर्भूतः सन् क्रत्वा कर्मणा यद्वा ज्ञानहेतुना प्रकाशेनोक्तप्रकारेण सर्वं जगत्परि बभूव । परितो व्याप्नोषि । दिव्यन्तीति देवा ऋत्विजः । तेषां पुत्रः सन् पुन्नाम्नो नरकात्त्रायेकः सन् पिता भुवः । पालयिता भवसि । यद्वा । देवानामिन्द्रादीनामेव पुत्रः सन् पुत्र इव दूतो भूत्वा पिता पवित्रैः पालयिता भवसि ॥ शुशुक्वान् । शुच दीप्तौ । लिटः क्वसुः । व्यत्ययेन कुत्वं । पप्रा । प्रा पालनपूरणयोरित्यस्माद्दृग्नमुहनजन इति किप्रत्ययः । सुपां सुलुगिति सोर्डादेशः । समीची । संपूर्वादञ्चतेः क्विन् । समः समि । पा. ६-३-९३ इति सम्यादेशः । अञ्चतेश्छेति वक्तव्यमिति ङीप् । अचि इत्यकारलोपे चावि दीर्घत्वं । उदात्तनिवृत्तिस्वरेण ङीपि उदात्तत्वं । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । यदि तु सं ईची इति पदविभागः क्रियते तर्ह्युदः ईत् । पा. ६-४-१३६ । इति विधीयमानमीत्वं समु उत्तरस्यापि द्रष्टव्यम् । बभूथ । बभूथा तताम्भ । पा. ७-२-६४ इति निपातनादिडभावः ॥**
+> *śukraḥ śubhravarṇo 'yam agnir uṣo na jāra uṣaso jarayitā sūrya iva śuśukvān śocayitā sarvasya prakāśayitā bhavati | tathā samīcī saṃgate dyāvāpṛthivyau divo na jyotir dyotamānasya sūryasya jyotir iva paprā | svatejasā pūrayitā | he agne atas tvaṃ prajātaḥ prādurbhūtaḥ san kratvā karmaṇā yadvā jñānahetunā prakāśenoktaprakāreṇa sarvaṃ jagat pari babhūva | parito vyāpnoṣi | divyantīti devā ṛtvijaḥ | teṣāṃ putraḥ san punnāmno narakāt trāyekaḥ san pitā bhuvaḥ | pālayitā bhavasi | yadvā | devānām indrādīnām eva putraḥ san putra iva dūto bhūtvā pitā pavitraiḥ pālayitā bhavasi || śuśukvān | śuca dīptau | liṭaḥ kvasuḥ | vyatyayena kutvaṃ | paprā | prā pālanapūraṇayor ity asmād dṛgnamuhanajana iti kipratyayaḥ | supāṃ sulug iti sor ḍādeśaḥ | samīcī | saṃpūrvād añcateḥ kvin | samaḥ sami | Pā. 6-3-93 iti samyādeśaḥ | añcateś ceti vaktavyam iti ṅīp | aci ity akāralope cāvi dīrghatvaṃ | udāttanivṛttisvareṇa ṅīpi udāttatvaṃ | vā chandasīti pūrvasavarṇadīrghatvaṃ | yadi tu saṃ ĩcī iti padavibhāgaḥ kriyate tarhy udaḥ īt | Pā. 6-4-136 | iti vidhīyamānam ītvaṃ samu uttarasyāpi draṣṭavyam | babhūtha | babhūthā tatāmbha | Pā. 7-2-64 iti nipātanād iḍabhāvaḥ ||*
+> *"**Śukraḥ**, bright-coloured, this Agni **uṣo na jāraḥ**, like the 'ager' of the dawn — the sun, who makes the dawn grow old [fade] — **śuśukvān**, the illuminator, is the revealer of all; likewise **samīcī**, the joined heaven and earth, he **paprā**, fills with his own splendour, **divo na jyotiḥ**, like the light of the shining sun. O Agni, therefore you, **prajātaḥ**, born, **kratvā**, by act, or by light that is the cause of knowledge as stated, **pari babhūtha** — pervade the whole world on all sides. Since *devāḥ* are the priests (those who shine), being their son — protector from the hell called *put* — **pitā bhuvaḥ**, you become their protector; or, being the son of the gods Indra and the rest, you, as a messenger like a son, become father, protecting with purifying [acts]. **Śuśukvān**: root *śuca dīptau*; *kvasu* for *liṭ*; *k* by exchange. **Paprā**: root *prā pālanapūraṇayoḥ*; *ki* by 'dṛgnamuhanajana…'; *ḍā* for *su*. **Samīcī**: *kvin* after *añc* with *sam*; *sami* for *sam* by 'samaḥ sami' (Pā. 6-3-93); *ṅīp*; the loss of *a* before *aci*; the lengthening before *vi*. **Babhūtha**: the absence of *iṭ* by *nipātana* in 'babhūthā tatāmbha' (Pā. 7-2-64)."* *(Grammar tail characterized; several readings and numerals doubtful at 150 dpi [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 242)*
+
+**शुक्रः** — of bright colour (Agni); **उषः** — of the dawn; **जारः न** — like him who makes it age, like the sun; **शुशुक्वान्** — the illuminator; **समीची** — heaven and earth that are joined; **दिवः** — of the shining sun; **ज्योतिर्न** — like the light; **पप्राः** — one who fills with his own splendour; *(continues on p. 242)*…
+
+---
+
+### Page 242 (PDF 260)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Pratipadārtha (concluded).** … **प्रजातः** — born, manifest; **क्रत्वा** — by act (by light, the cause of knowledge); **परि बभूथ** — you pervade [the world]; **देवानाम्** — for the gods (Indra and the rest); **पुत्रः सन्** — being a son; **पिता भुवः** — you are the protector.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Like the sun that destroys the dawn [after it has risen], illumining all things, filling heaven and earth by his own splendour as the sun's light does, O Agni, blazing one, you pervade the whole world with a light that is the cause of knowledge. Like a son to the gods and others, you carry the oblations and bestow them, and protect.
+
+**English Translation** *(the source's own, as printed):*
+
+> White shining (Agni), like (the sun), the extinguisher of the dawn, is the illuminator of all, and fills united (heaven and earth with light), like the lustre of the radiant (sun). As soon as you manifest, you pervade all the world with devout acts, being (both) the father and son of the Gods.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **शुक्रः** (*śukraḥ*) — *śubhravarṇaḥ* — "the word *śukra* here means 'bright', or 'one who has a colour without any other colour'; the word *śukla* denotes the white colour; by the maxim 'ralayor abhedaḥ' (*r* and *l* are not distinct) *śukla* is used as *śukra*. Though this word is read among the hundred and one names of water (Ni. [1-12]), here it is used in the sense 'distinguished by a bright colour'."
+- **उषो न जारः** — *uṣasaḥ jarayitā sūrya iva* — "Agni, at the time of dawn, by his light rises for the oblations offered by the sacrificers, and, like the sun that brings old age (fading) to the dawn goddess, is full of light. The light of the dawn becomes less at that time; at that same time the sun, by the brilliance of his rays, lessens the dawn's brilliance, and so has the quality of *jarayitṛtva* (causing to age). By the comparison *jāra iva*, both Agni and the sun are said to bring old age to the dawn; but ['punaḥ punaḥ… jarayantyāyuḥ' — the quotation is cut off in the print, ?]…" *(the passage continues on p. 243.)*
+
+---
+
+**Progress note:** Printed pp. 1–242 done (PDF 19–260): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti; fifth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 69.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 242, breaking off in the note on *uṣo na jāraḥ*). Next: p. 243 (PDF 261), the rest of the Special Topics and the grammar page of Rik 69.1; then Riks 69.2–69.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the bhāṣya grammar tail of 69.1 and the Special Topics quotation on p. 242 read at 150 dpi and doubtful in places [?]; accent marks of the Saṃhitā/Pada not reproduced.
