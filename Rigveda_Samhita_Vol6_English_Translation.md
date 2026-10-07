@@ -8072,4 +8072,69 @@ Words treated: *satyamanmā* (*mananaṃ manma*; root *mana jñāne*; *manin* by
 
 ---
 
-**Progress note:** Printed pp. 1–390 done (PDF 19–408): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 73.1 complete; **Rik 73.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 388–390) done; the grammar page is begun (p. 390, up to *satyamanmā*). Next: p. 391 (PDF 409), the rest of the grammar page of 73.2; then Rik 73.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Upaniṣad numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Special Topics on pp. 389–390 compressed [?].
+### Page 391 (PDF 409)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 73.2 (concluded; noted briefly)**
+
+*satyamanmā* (concluded): loss of *n* by *nalopaḥ prātipadikāntasya*; since it is a bahuvrīhi, the first member keeps its natural accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. [6-2-1]. *nipāti* (root *pā rakṣaṇe*, Adādi; *laṭ*, third person singular; since *yat*-connection precedes, no nighāta). *vṛjanāni* (root *vṛjī varjane*; *kyap* by *kyap ca vṛji…* [as read, Uṇ. [3-?]]; since it is *kit*, no guṇa; *yu* → *ana* by *yuvor anākau*; the form *vṛjana*; by the affix's initial acute the word is middle-acute; plural). *viśvā* (*śeś chandasi bahulam*: loss of *śi*). *purupraśastaḥ* (root *śaṃsu stutau*; *kta* in the passive; loss of the penultimate nasal by *anidiśāṃ halām…*; "praised by many (*puru*)"; by *tṛtīyā karmaṇi*, Pā. [6-2-48], the first member's accent would arise, but since the word is listed among the *pravṛddhādi* by *pravṛddhādīnāṃ ca*, Pā. [6-2-147], the final acute of the second member arises; since *pravṛddhādi* is an *ākṛtigaṇa*, one should infer that this is read in the class without a specific rule). *amatiḥ* (root *ama gatyādiṣu*; *ati* by *āmer atiḥ*, Uṇ. [3-?]; by the affix's initial acute the word is middle-acute). *didhiṣāyyaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, Juhotyādi; "*didhiṣāyyaḥ*" is fixed by nipāta ending in the *sāyya* affix, Uṇ. [3-?]; the affix's accent). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.3** *(printed Ṛk "3 ||")*
+
+> देवो न यः पृथिवीं विश्वधाया उपक्षेति हितमित्रो न राजा ।
+> पुरःसदः शर्मसदो न वीरा अनवद्या पतिजुष्टेव नारी ॥ ३ ॥
+
+*devo na yaḥ pṛthivīṃ viśvadhāyā upakṣeti hitamitro na rājā |
+puraḥsadaḥ śarmasado na vīrā anavadyā patijuṣṭeva nārī ||3||*
+
+---
+
+### Page 392 (PDF 410)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.3**
+
+> देवः । न । यः । पृथिवीम् । विश्वऽधायाः । उपऽक्षेति । हितऽमित्रः । न । राजा ।
+> पुरःऽसदः । शर्मऽसदः । न । वीराः । अनवद्या । पतिऽजुष्टाऽइव । नारी ॥ ३ ॥
+
+*devaḥ | na | yaḥ | pṛthivīm | viśva-dhāyāḥ | upa-kṣeti | hita-mitraḥ | na | rājā | puraḥ-sadaḥ | śarma-sadaḥ | na | vīrāḥ | anavadyā | pati-juṣṭā-iva | nārī ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> देवो न द्योतमानः सूर्य इव योऽग्निर्विश्वधायाः सर्वस्य जगतो धर्ता । यथा सूर्यो वृष्ट्यादिप्रदानेन सर्वं जगद्धत्ते एवमग्निरपि यज्ञादिसाधनेन कृत्स्नस्य जगतो धारयिता । सोऽग्निः पृथिवीं पृथिव्यामुपक्षेति । सर्वेषां प्रियः सन् यज्ञगृहादौ निवसति । तत्र दृष्टांतः । हितमित्रो न राजा । हितान्यनुकूलानि मित्राणि यस्य तादृशो राजा यथा सुखेन निवसति तद्वत् । यथा सर्वजनमित्रो राजा एवमग्निरपि सर्वजनमित्र इत्यर्थः । न ह्यग्निं कश्चन द्विष्टे । यस्याग्नेः पुरःसदः पुरस्तादुपविशंतः पुरुषाः शर्मसदो न वीराः पितृगृहे वर्तमानाः पुत्रा इव वर्तंते । पिता पुत्रानिवाग्निः स्वस्य परिचारकानेक्षतीति भावः । सो ऽयमग्निरतिशयेन शुद्धः कर्मयोग्यो भवति । तत्र दृष्टांतः । अनवद्यानिंदिता पतिजुष्टेव पतिना सेविता स्वीकृता योषिदिव । सा यथा पातिव्रत्येन शुद्धा सती सर्वकर्मयोग्या भवति एवमग्निरपि ॥ विश्वधायाः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेति वचनात्कारकपूर्वादपि दधातेर्वहिहाधाञ्भ्यश्छंदसीत्यसुन् । णिदित्यनुवृत्तेरातो युक् चिण्कृतोरिति युक् । मरुद्वृधादिश्वात्पूर्वपदांतोदात्तत्वं । उपक्षेति । क्षि निवासगत्योः । बहुलं छंदसीति विकरणस्य लुक् । अनवद्या । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं । पतिजुष्टेव । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । नारी । नृनरयोर्वृद्धिश्च । पा. [४-१-३४?] । इति शार्ङ्गरवादिषु पाठाज्जीनंते आद्युदात्तः ॥
+
+*devo na dyotamānaḥ sūrya iva yo 'gnir viśvadhāyāḥ sarvasya jagato dhartā | yathā sūryo vṛṣṭyādipradānena sarvaṃ jagad dhatte evam agnir api yajñādisādhanena kṛtsnasya jagato dhārayitā | so 'gniḥ pṛthivīṃ pṛthivyām upakṣeti | sarveṣāṃ priyaḥ san yajñagṛhādau nivasati | tatra dṛṣṭāntaḥ | hitamitro na rājā | hitāny anukūlāni mitrāṇi yasya tādṛśo rājā yathā sukhena nivasati tadvat | yathā sarvajanamitro rājā evam agnir api sarvajanamitra ity arthaḥ | na hy agniṃ kaścana dviṣṭe | yasyāgneḥ puraḥsadaḥ purastād upaviśantaḥ puruṣāḥ śarmasado na vīrāḥ pitṛgṛhe vartamānāḥ putrā iva vartante | pitā putrān ivāgniḥ svasya paricārakān īkṣatīti bhāvaḥ | so 'yam agnir atiśayena śuddhaḥ karmayogyo bhavati | tatra dṛṣṭāntaḥ | anavadyā aninditā patijuṣṭeva patinā sevitā svīkṛtā yoṣid iva | sā yathā pātivratyena śuddhā satī sarvakarmayogyā bhavati evam agnir api || viśvadhāyāḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ceti vacanāt kārakapūrvād api dadhāter vahihādhāñbhyaś chandasīty asun | ṇidity anuvṛtter āto yuk ciṇkṛtor iti yuk | marudvṛdhādiśvāt pūrvapadāntodāttatvaṃ | upakṣeti | kṣi nivāsagatyoḥ | bahulaṃ chandasīti vikaraṇasya luk | anavadyā | bahuvrīhau nañsubhyām ity uttarapadāntodāttatvaṃ | patijuṣṭeva | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | nārī | nṛnarayor vṛddhiś ca | pā. [4-1-34?] | iti śārṅgaravādiṣu pāṭhāj jīnante ādyudāttaḥ ||*
+
+*(Reading note: the print is clear but small; the tail is compressed; "marudvṛdhādiśvāt" and the Pāṇini numeral are doubtful [?].)*
+
+*Meaning:* Agni, who like the shining sun is *viśvadhāyāḥ* — the supporter of the whole world: as the sun upholds the whole world by giving rain and the rest, so Agni upholds the whole world by being the means of sacrifice — that Agni dwells (*upakṣeti*) on the earth, dear to all, in the sacrificial house and elsewhere. The illustration: *hitamitro na rājā* — as a king whose friends are well-disposed lives in comfort; as a king, friend of all, so Agni is friend of all: no one hates Agni. The men who sit before (*puraḥsadaḥ*) Agni stay like heroic sons (*śarmasado na vīrāḥ*) living in the father's house; as a father looks on his sons, Agni looks on his own servants. This Agni is exceedingly pure and fit for rites. The illustration: *anavadyā* — blameless, like a woman (*nārī*) cherished (*patijuṣṭā iva*) and accepted by her husband: as she, pure by wifely devotion, is fit for all rites, so Agni.
+
+**Grammatical tail** *(characterized, not transcribed)*: *viśvadhāyāḥ* (*asun* after *dhā*; *yuk*; initial acute…); *upakṣeti* (root *kṣi nivāsagatyoḥ*; loss of the vikaraṇa by *bahulaṃ chandasi*); *anavadyā* (accent of the second member by *nañsubhyām*); *patijuṣṭā iva* (accent of the first member by *tṛtīyā karmaṇi*); *nārī* (*nṛnarayor vṛddhiś ca*, Pā. [4-1-34?]; read in the *śārṅgaravādi* class; so the *ī*-final has the initial acute).
+
+---
+
+### Page 393 (PDF 411)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*devo na* — like the shining Sun; *yaḥ* — which Agni; *viśvadhāyāḥ* — the supporter of all the world (that Agni); *hitamitraḥ rājā na* — like a king with friendly friends; *pṛthivīm* — on earth; *upakṣeti* — dwells (in sacrificial halls and the like); *puraḥsadaḥ* — (the people) who sit in front; *śarmasadaḥ vīrāḥ na* — like sons sitting comfortably in the father's house (these [are] with that Agni); *anavadyā* — blameless; *patijuṣṭā* — accepted by the husband; *nārīva* — like a woman (is pure and fit for rites).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni, the supporter of all the world like the Sun, established like a king with friendly friends in the sacrificial halls of this earth, protects all those near him as a father protects the sons who live in his shelter; and, blameless, like a woman accepted by her husband, he is pure and fit for rites.
+
+**English Translation** *(the source's own, as printed):*
+
+> He, who, like the divine (Sun,) is the supporter of the universe, abides on earth like a prince, (sorrounded [sic] by) faithful friends; in his presence, men sit down like sons in the dwelling of a parent, and (in purity he resembles) an irreproachable and beloved wife.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 393)*
+
+- "In this Ṛk, as in the preceding Ṛk, there are four similes (*upamā*), which are ornamental sentences. Of these, *devo na yaḥ viśvadhāyāḥ* is the first sentence. In it the word *na* denotes the comparison. The shining Sun, by rain —" *(the page ends here; continued on p. 394)*
+
+---
+
+**Progress note:** Printed pp. 1–393 done (PDF 19–411): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.2 complete (73.2's grammar page ends p. 391); **Rik 73.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 391–393) and the Special Topics begun (breaking off at the foot of p. 393); grammar page not yet seen. Next: p. 394 (PDF 412). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.3 (p. 392) compressed [?].
