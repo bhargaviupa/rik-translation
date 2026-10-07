@@ -8321,4 +8321,69 @@ O Agni! May your worshippers, the rich, obtain much food; may (those who praise 
 
 ---
 
-**Progress note:** Printed pp. 1–402 done (PDF 19–420): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.4 complete (73.4's grammar page on pp. 399–400); **Rik 73.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 400–402) and the Special Topics begun (*pṛkṣaḥ*, *vājaḥ*, *āryaḥ*); they may continue on p. 403; the grammar page not yet seen. Next: p. 403 (PDF 421). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.5 (p. 401) compressed and partly doubtful [?].
+### Page 403 (PDF 421)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 73.5 (continued)**
+
+- **समिथेषु** — "*raṇaḥ*, *vivāk* and so on — since this is read among the seventy-odd [as read, ?] names of battle (Ni. [2-17?]), it means 'in battles'."
+- *Skandasvāmin* — "The word *deveṣu*, though ending in the seventh case and used in the sense of the locative, conveys the sense of the dative (*saṃpradāna*), as in the usage *sumubrāhmaṇe dānam* [as printed, doubtful [?]] ('a gift to the Brāhmaṇa'); so it means 'for the gods'."
+- **श्रवसे** — "*śrava* means food; in the sense of food. Since *śravaḥ* is read among the [twenty-odd] names of wealth — *maghaṃ*, *rekṇaḥ* and so on (Ni. [2-10?]) —  Yāska, saying '*śrava ity annanāma śrūyate*' ('*śrava* is heard as a name of food', Ni. [10-3?]), and quoting the Ṛk *asaścantrāsaḥ* [as read, Ṛk. Saṃ. [6-?-?]], explains the word *śrava* there as a word for food. Sāyaṇa explains *śravase* as 'for renown, for fame'. Yāska says that the word *śravaḥ* denotes *yaśas*, 'renown', *kīrti*, 'fame', and gives three illustrations of this:
+
+  > अमन्दान्स्तोमान्प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+  > यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥
+  > *amandān stomān pra bhare manīṣā sindhāv adhi kṣiyato bhāvyasya | yo me sahasram amimīta savān atūrto rājā śrava icchamānaḥ* (Ṛk. Saṃ. [1-126-1])
+
+  Here *śrava icchamānaḥ* — 'desiring fame' (Ni. [5-?]).
+
+  > प्र वो महे मन्दमानायान्धसोऽर्चा विश्वानराय विश्वाभुवे ।
+  > इन्द्रस्य यस्य सुमखं सहो महि श्रवो नृम्णं च रोदसी सपर्यतः ॥
+  > *pra vo mahe mandamānāyāndhaso 'rcā viśvānarāya viśvābhuve | indrasya yasya sumakhaṃ saho mahi śravo nṛmṇaṃ ca rodasī saparyataḥ* (Ṛk. Saṃ. [10-50-1])
+
+  Here too *mahi śravaḥ* means 'great, praiseworthy fame' (Ni. [11-?]) — fame that is conducive to being heard abundantly.
+
+  > उत स्मैनं वस्त्रमथिं न तायुमनु क्रोशन्ति क्षितयो भरेषु ।
+  > नीचायमानं जसुरिं न श्येनं श्रवश्चाच्छा पशुमच्च यूथम् ॥
+  > *uta smainaṃ vastram athiṃ na tāyum anu krośanti kṣitayo bhareṣu | nīcāyamānaṃ jasuriṃ na śyenaṃ śravaś cācchā paśumac ca yūtham* (Ṛk. Saṃ. [4-38-5])
+
+  Here too, '*śravaś cācchā paśumac ca yūtham*' — '*śravaś cāpi paśumac ca yūthaṃ praśaṃsāṃ ca yūthaṃ ca dhanaṃ ca yūthaṃ ceti vā*' — meaning 'fame' (Ni. [6-?])." *(Glosses mine and tentative: "I bring forth unflagging hymns with my thought to the one who dwells on the river, the king who measured a thousand soma-pressings for me, unsubdued, desiring fame"; "to the great one who delights, praise with food the all-leading, all-becoming one, whose strength, great fame and manliness heaven and earth serve"; "…the peoples cry out after him in battles as after a thief stealing a garment; [like] a falcon descending, fame and a herd with cattle". All three Ṛks and their numerals are read from small print and doubtful [?]; the source leaves them untranslated.)* *(continued on p. 404)*
+
+---
+
+### Page 404 (PDF 422)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Special Topics of Rik 73.5 (concluded)**
+
+- **श्रवसे** (concluded) — "…'the best praise, fame': following this, Sāyaṇa explains *śravase* as 'for fame': 'making oblation-portions and offering sacrifice, we shall worship Agni, for fame'."
+- **मघवानः** — "Since *magha* is read among the names of wealth (Ni. [2-10?]), it means 'possessing wealth'. The rich worship Agni with sacrifices and the like and are pleased; the poor praise him and are pleased. Skandasvāmin explains that Agni gives both life and wealth and the like to both."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.5, noted briefly; not transcribed)*
+
+Words treated: *aśyuḥ* (root *aśū vyāptau*, Ātmanepada; by *vyatyayo bahulam* the parasmaipada ending; *vidhiliṅ*, third person plural, *jhi*; *jhi* → *jus* by *jher jus*, Pā. [3-4-108]; loss of *śnu* [*śluḥ*] by *bahulaṃ chandasi*; *yāsuṭ*-augment by *yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*, Pā. [3-4-103]; *pararūpa* by *usya padāntāt*, Pā. [6-1-96]; nighāta because it follows an *atijanta*). *dadataḥ* (root *dudāñ dāne*; *śatṛ* in the present sense; *śluḥ* by *juhotyādibhyaḥ śluḥ*; doubling by *ślau*; since by *nābhyastād ātaḥ*, Pā. [7-1-?]… [as read: *nābhyastācchatuḥ*, Pā. [7-1-78]] the *abhyasta* designation holds, the *num* augment does not come though the affix be *ugit*; nominative plural; initial acute by *abhyastānām ādiḥ*, Pā. [6-1-189]). *sanema* (root *vana ṣaṇa saṃbhaktau*; *vidhiliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*, Pā. [3-4-99]; *śa* by *vyatyayo bahulam*; *yāsuṭ*-augment; *yāsuṭ*'s *yā* → *iya* by *ato yeyaḥ*, Pā. [7-2-80]; loss of *y* by *lopo vyor vali*, Pā. [6-1-66]; guṇa when *sana* + *ima*; no nighāta since at the head of a pāda; since the vikaraṇa is *śit*, middle-acute). *aryaḥ* (the word *ari* gives the sense "enemy"; before the genitive singular, by *jasādiṣu chandasi vā vacanam*, Pā. [7-3-103], no guṇa by *gher jyarti*, and *yaṇ* by *iko yaṇaci*; the root *ṛ gatau*, the affix *i* by *aji [ṛ?]* *ṛ ca iḥ*, Uṇ. [4-?]; guṇa for the sake of the affix; *raparatva* …) *(continued on p. 405)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 405 (PDF 423)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**Grammar page of Rik 73.5 (concluded; noted briefly)**
+
+*aryaḥ* (concluded): *raparatva*; since the affix's accent makes the final acute; *yaṇ* replacing an udātta, the ending after it gets the acute by *udāttayaṇo hal-pūrvāt*, Pā. [6-1-174]. *bhāgam* (root *bhaja sevāyām*; *ghañ* affix; *kutva* of *j* by *coḥ kuḥ ghiṇṇyatoḥ*, Pā. [7-3-52]; vṛddhi of the penultimate by *ata upadhāyāḥ*; the initial acute that would arise is set aside, and the final acute comes by *karṣātvato ghañaḥ*, Pā. [6-1-159]). *śravase* (root *śru śravaṇe*; *asun* by the Uṇādi; guṇa for the sake of the affix; the form *śravas*; since *nit*, initial acute by *ñnityādir nityam*; dative singular). Ends "॥ ५ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.6** *(printed Ṛk "6 ||")*
+
+> ऋतस्य हि धेनवो वावशानाः स्मदूध्नीः पीपयंत द्युभक्ताः ।
+> परावतः सुमतिं भिक्षमाणा वि सिंधवः समया सस्रुरद्रिम् ॥ ६ ॥
+
+*ṛtasya hi dhenavo vāvaśānāḥ smadūdhnīḥ pīpayanta dyubhaktāḥ |
+parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim ||6||*
+
+*(Reading note: the last word of the Saṃhitā is printed "सस्रुरद्रिम्" — *sasrur adrim*; the Pada will show the division.)*
+
+---
+
+**Progress note:** Printed pp. 1–405 done (PDF 19–423): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.5 complete (73.5: Special Topics and grammar page on pp. 402–405); **Rik 73.6** (printed "6 ||") — Saṃhitā done (p. 405). Next: p. 406 (PDF 424), the Pada and the Sāyaṇa-bhāṣya of Rik 73.6. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on p. 403 (read from small print) and their glosses tentative [?].
