@@ -7492,4 +7492,62 @@ O all-knowing Agni! For the removal of the hunger of the offspring of the sacrif
 
 ---
 
-**Progress note:** Printed pp. 1–364 done (PDF 19–382): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.6 complete (72.6's grammar page ends on p. 362); **Rik 72.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*vayunāni*, *kṣitīnām*, *śurudhaḥ*) done (pp. 362–364); the Special Topics break off at *śurudhaḥ* at the foot of p. 364; the grammar page of 72.7 not yet seen. Next: p. 365 (PDF 383). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.7–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.7 (p. 363) compressed and partly doubtful [?].
+### Page 365 (PDF 383)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 72.7 (continued)**
+
+- **शुरुधः** (concluded) — "…[by] quoting this Ṛk (Ni. [6-16?]) — the meaning of *śurudhaḥ* is 'waters'."
+- **देवयानान्** — *devāḥ yaiḥ mārgair gacchanti* — "'the paths by which the gods travel'. O Agni, so that there may be no hunger for the sacrificers, always give them food; therefore, since you are the messenger, knowing the paths on which the gods travel, so as to carry to the gods the oblation-portions they offer in their name, work without any idleness — thus the prayer of the sacrificers is expressed in this mantra."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.7, noted briefly; not transcribed)*
+
+Words treated: *vidvān agne* (the *n* of *vidvān* becomes *ru* before a vowel by *dīrghāt aṭi samānapāde*, Pā. [8-3-9]; the preceding *ā* becomes nasalized: *ato 'ṭi nityam*, Pā. [8-3-3]); *vayunāni* (root *aja gatikṣepaṇayoḥ*; the affix *unan* after the object by *aji-yami-śīṅbhyaś ca*, Uṇ. [3-61?]; because *ārdhadhātukaṃ śeṣaḥ* it gets the *ārdhadhātuka* designation, so *vī*-substitution by *ājer vyaghañapoḥ*, Pā. [2-4-56], applies except before *ghañ* and *ap*; guṇa for the sake of the affix; *ayādeśa*; the form *vayuna*; neuter plural; the affix's accent makes the *u* acute); *kṣitīnām* (*kṣiyanti nivasanti iti kṣitayaḥ manuṣyāḥ*; root *kṣi nivāsagatyoḥ*; *ktic* in the agent sense in a name by *kṛtyaktau ca saṃjñāyām*, Pā. [3-3-174]; being *kit*, no guṇa; final acute by *citaḥ*; the genitive plural ending *ām*, with *nuṭ* by *hrasvanadyāpo nuṭ*; lengthening before *nām* by *nāmi*; the *nām* after a short final-acute stem gets the initial acute by *nāmanyatarasyām*, Pā. [6-1-177]); *śurudhaḥ* (root *rudhir āvaraṇe*; "*śucaṃ rundhanti*"; *kvip ca*, Pā. [3-2-76]; by the *pṛṣodarādi* rule, loss of the last of the first member [*śuc*]; the form *śurudh*; by *gatikārakopapadāt kṛt*, the second member's natural accent). Continued on p. 366. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 366 (PDF 384)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Grammar page of Rik 72.7 (concluded; noted briefly)**
+
+*jīvase* (root *jīva prāṇadhāraṇe*; *asen* in the sense of the infinitive by *tumarthe seseṇasen…*, Pā. [3-4-9]; the affix's initial acute makes the word middle-acute; as it ends in *e*-ending *kṛt*, by *kṛnmejantaḥ* it gets the designation "indeclinable"); *dhāḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ* in the sense of *loṭ* by *chandasi luṅlaṅliṭaḥ*; second person singular, *sip*; loss of *i* by *iteś ca*; the *sic* that would apply to *cli* is lost by *gātisthāghupābhūbhyaḥ…*, Pā. [2-4-77]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; *ru* for the *s*, visarga; nighāta because it follows an *atijanta*); *atandraḥ* (*na tandraḥ* = *atandraḥ*; by *tatpuruṣe tulyārtha…*, Pā. [6-2-2], the first member [the indeclinable *na*] keeps its natural accent); *havirvāṭ* (*haviḥ vahati*; root *vaha prāpaṇe*; *ṇvi* after *vah* in the Veda by *vahaś ca*, Pā. [3-2-64]; since it is *ṇit*, vṛddhi of the penultimate *a* by *ata upadhāyāḥ*; by *gatikārakopapadāt kṛt*, the second member's natural accent). Ends "॥ ७ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.8** *(printed Ṛk "8 ||")*
+
+> स्वाध्यो दिव आ सप्त यह्वी रायो दुरो व्यृतज्ञा अजानन् ।
+> विदद्गव्यं सरमा दृळ्हमूर्वं येना नु कं मानुषी भोजते विट् ॥ ८ ॥
+
+*svādhyo diva ā sapta yahvī rāyo duro vy ṛtajñā ajānan |
+vidad gavyaṃ saramā dṛḷham ūrvaṃ yenā nu kaṃ mānuṣī bhojate viṭ ||8||*
+
+---
+
+### Page 367 (PDF 385)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 72.8**
+
+> सुऽआध्यः । दिवः । आ । सप्त । यह्वीः । रायः । दुरः । वि । ऋतऽज्ञाः । अजानन् ।
+> विदत् । गव्यम् । सरमा । दृळ्हम् । ऊर्वम् । येन । नु । कम् । मानुषी । भोजते । विट् ॥ ८ ॥
+
+*su-ādhyaḥ | divaḥ | ā | sapta | yahvīḥ | rāyaḥ | duraḥ | vi | ṛta-jñāḥ | ajānan | vidat | gavyam | saramā | dṛḷham | ūrvam | yena | nu | kam | mānuṣī | bhojate | viṭ ||8||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.8** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> स्वाध्यः शोभनकर्मयुक्ता यह्वीर्यह्व्यो महत्यः सप्त गंगाद्याः सप्त नद्यो दिवो द्युलोकादागत्य भूम्यां प्रवहंतीति शेषः । हे अग्ने ईदृग्विधा नद्यस्त्वया स्थापिताः । अग्नौ होमे सति हि तेन तृप्तः सूर्यो वृष्टिं करोति । तस्मिन्नर्थे स्मृतिः पूर्वमुदाहृता । अतो वृष्टिद्वारा त्वमेव नदीः करोतीत्युच्यते । तथा ऋतज्ञा ऋतं यज्ञं जानंतोऽंगिरसो रायो वलनाम्नासुरेणापहृतस्य गोरूपस्य धनस्य दुरो द्वाराणि गमनमार्गानजानन् । त्वया ज्ञातवंतः । त्वत्साध्येन योगेन प्रीते इंद्रो गवामन्वेषणाय सरमां नाम देवशुनीं प्रेषितवान् । सा च सरमा गवां स्थानमवगत्येंद्रस्य न्यवेदयत् । इंद्रश्च तानंगिरसो गाः प्रापयत् । अत एतत्सर्वं त्वमेव कृतवान् । अंगिरोभ्यः सकाशाद्गव्यं गवि भवं दृळ्हं स्थूलं । बहुलमित्यर्थः । एवंविधं पयोलक्षणमूर्वमन्नं सरमा देवशुनी विदत् । अलभत । किमित्येतत्पादपूरणं । येन नु येन हि गव्येन मानुषी विट् मनुसः संबंधिनी प्रजा भोजते इदानीं भुंक्ते । तद्गव्यमपि परंपरयाग्निरेव करोति ॥ स्वाध्यः । सुआङ्पूर्वाद्ध्वशब्दाज्जस्येरनेकाचः इति यणादेशः । यह्वीः । वा छंदसीति पूर्वसवर्णदीर्घत्वं । गव्यं । सर्वत्र गोरजादिप्रत्ययप्रसंगे यद्वक्तव्यमिति भावार्थे यत् । ऊर्वं । उर्वी हिंसार्थः । ऊर्वति क्षुधं हिनस्तीत्यूर्वमन्नं । पचाद्यच् । भोजते । भुज पालनाभ्यवहारयोः । श्नमि प्राप्ते व्यत्ययेन शप् ॥
+
+*svādhyaḥ śobhanakarmayuktā yahvīr yahvyo mahatyaḥ sapta gaṅgādyāḥ sapta nadyo divo dyulokād āgatya bhūmyāṃ pravahantīti śeṣaḥ | he agne īdṛgvidhā nadyas tvayā sthāpitāḥ | agnau home sati hi tena tṛptaḥ sūryo vṛṣṭiṃ karoti | tasminn arthe smṛtiḥ pūrvam udāhṛtā | ato vṛṣṭidvārā tvam eva nadīḥ karotīty ucyate | tathā ṛtajñā ṛtaṃ yajñaṃ jānanto 'ṅgiraso rāyo valanāmnāsureṇāpahṛtasya gorūpasya dhanasya duro dvārāṇi gamanamārgān ajānan | tvayā jñātavantaḥ | tvatsādhyena yogena prīte indro gavām anveṣaṇāya saramāṃ nāma devaśunīṃ preṣitavān | sā ca saramā gavāṃ sthānam avagatyendrasya nyavedayat | indraś ca tān aṅgiraso gāḥ prāpayat | ata etat sarvaṃ tvam eva kṛtavān | aṅgirobhyaḥ sakāśād gavyaṃ gavi bhavaṃ dṛḷhaṃ sthūlaṃ | bahulam ity arthaḥ | evaṃvidhaṃ payolakṣaṇam ūrvam annaṃ saramā devaśunī vidat | alabhata | kim ity etat pādapūraṇaṃ | yena nu yena hi gavyena mānuṣī viṭ manusaḥ saṃbandhinī prajā bhojate idānīṃ bhuṅkte | tad gavyam api paramparayāgnir eva karoti || svādhyaḥ | su-āṅ-pūrvād dhvaśabdāj jasy eranekācaḥ iti yaṇādeśaḥ | yahvīḥ | vā chandasīti pūrvasavarṇadīrghatvaṃ | gavyaṃ | sarvatra gor ajādipratyayaprasaṅge yad vaktavyam iti bhāvārthe yat | ūrvaṃ | urvī hiṃsārthaḥ | ūrvati kṣudhaṃ hinastīty ūrvam annaṃ | pacādy ac | bhojate | bhuja pālanābhyavahārayoḥ | śnami prāpte vyatyayena śap ||*
+
+*(Reading note: the print is clear but small; "tvatsādhyena yogena", "svādhyaḥ — su-āṅ-pūrvād…" and the Aitareya-type remarks are read as printed and are doubtful in a few syllables [?]. The tail begins at "svādhyaḥ" and is characterized below.)*
+
+*Meaning:* The seven great rivers — Gaṅgā and the rest — endowed with good works (*svādhyaḥ*), *yahvīḥ* (mighty), come from heaven (*divaḥ*) and flow upon the earth (so the clause is completed). O Agni, rivers of such a kind have been set (flowing) by you: for when the oblation is made in Agni, the sun, gratified by it, makes the rain; the *smṛti* on this point was cited earlier. Hence it is said that you, through the rain, make the rivers. Likewise, the Aṅgirases, *ṛtajñāḥ* — knowing *ṛta*, the sacrifice — did not know (*ajānan*) the doors (*duraḥ*) — the paths of going — to the wealth (*rāyaḥ*) in the form of cows, carried off by the *asura* named Vala; they came to know through you. Pleased with the rite that was accomplished through you, Indra sent the divine dog Saramā to search for the cows; Saramā, having found the place of the cows, told Indra; and Indra caused the Aṅgirases to obtain the cows. So all this you alone did. From the Aṅgirases' side, *gavyam* — coming from the cow — *dṛḷham* — thick, abundant — such food (*ūrvam*) in the form of milk — Saramā, the divine dog, found: *vidat* — got. The particle *kim* (*nu kam*) is a verse-filler; the *mānuṣī viṭ* — the people belonging to Manu — *bhojate* — now enjoy that same cow-produce (*gavyam*), by which; and that too is made, through the succession, by Agni alone.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *svādhyaḥ* (from *dhva*? [as read, *āḍhya*] with the prefix *su-āṅ*; the *yaṇ*-substitution before *jas* by *eranekācaḥ…*); *yahvīḥ* (the lengthening of the earlier similar vowel by *vā chandasi*); *gavyam* (*yat* in the abstract sense, by "*yat* is to be said wherever *gor* + *aj*-initial affixes would be expected"); *ūrvam* (root *urvī hiṃsārthaḥ*: "that which kills hunger"; *pacādy ac*); *bhojate* (root *bhuja pālanābhyavahārayoḥ*; *śap* by *vyatyaya* in place of the expected *śnam*).
+
+---
+
+**Progress note:** Printed pp. 1–367 done (PDF 19–385): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.7 complete (72.7: Special Topics and grammar page on pp. 364–366); **Rik 72.8** (printed "8 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (pp. 366–367). Next: p. 368 (PDF 386), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.8. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.8–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.8 (p. 367) compressed and partly doubtful [?].
