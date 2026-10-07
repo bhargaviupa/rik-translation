@@ -6295,4 +6295,56 @@ O Agni! The sacrificer who every day kindles you, the desirous, in his own house
 
 ---
 
-**Progress note:** Printed pp. 1–310 done (PDF 19–328): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.5 complete (71.5's grammar page on pp. 307–308); **Rik 71.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 309–310); the Special Topics are begun (*namaḥ*, p. 310) and not yet complete; the grammar page of 71.6 is not yet seen. Next: p. 311 (PDF 329). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.6–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 71.6 (p. 310) very compressed and doubtful [?].
+### Page 311 (PDF 329)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.6 (continued)**
+
+- **द्विबर्हाः** — *dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāne uttame ca* (Ni. [6-12?]) — "grown (in power) in two places, the middle and the highest: the meaning is one who is firm and large, having grown in the worlds such as earth and the atmosphere. This epithet shows the places and natures of the deities Indra, Rudra, Agni and Uṣas in the sūktas addressed to them. For example:
+
+  > एषा व्येनी भवति द्विबर्हा आविष्कृण्वाना तन्वं पुरस्तात् ।
+  > *eṣā vyenī bhavati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt* (Ṛk. Saṃ. [3-61-4?], as read)
+
+  > महाँ इन्द्रो नृवदा चर्षणिप्रा उत द्विबर्हा अमिनः सहोभिः ।
+  > *mahāṃ indro nṛvad ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ* (Ṛk. Saṃ. [6-19-1?])
+
+  In these Ṛks the nature of the Dawn and of Indra is told. Likewise this epithet is used in [4-[?]-3; 4-[?]-6; 2-[?]-3; 8-[?]-2; 8-[?]-6; 10-[?]-4] and other places. In Ṛk [9-100-9?], *dvibarhasaṃ rayim* ('wealth that increases in two worlds') is an epithet of wealth. Because it is applied here to Agni, the meaning is 'one who is grown in the earth and the atmosphere'." *(Ṛgveda numerals as read, doubtful [?]; glosses mine and tentative: "this dawn becomes manifold in two ways, displaying her body in the east"; "great Indra, a champion of men, fulfilling the peoples, doubly mighty, unrestrained by his powers".)*
+- **वयः** — "*andhaḥ*, *vājaḥ*, *payaḥ* and so on — since it is read among the twenty-two names of food (Ni. [2-7?]), *vayaḥ* here means food."
+- **जुनासि** — "This is a rarely occurring usage. The root *ju* is given the sense of 'going', so *sañcarisu* 'to move' is the sense; hence *junāsi* means broadly 'you go'. Here the construction may be made in different ways. First, [by Sāyaṇa]: *sarathaṃ yaṃ junāsi rāyo yāsat* —
+
+  *rathena sahitaṃ yuyutsuṃ yaṃ puruṣaṃ yuddhe prerayasi sa puruṣaḥ dhanena saṃgacchate* — 'whom you urge to battle, a man who is eager to fight and goes with his chariot, that man unites with wealth', that is, he gains wealth. *Rāyo dhanena saha yaṃ stotāraṃ yajamānaṃ prati junāsi gacchasi | tasminn eva rathe svaṃ ārohasi dhanāny api tetraivārohya gacchety arthaḥ* — Skandasvāmin explains the construction: 'whom, with wealth, you go to — the worshipper — you mount that very chariot, and, taking the wealth, go (to him)'; that is, in the same chariot in which you sit and go to the sacrificer, you carry wealth to him. But Sāyaṇa's first construction seems more suitable for this context, because: the man whom Agni urges to battle and helps in the battle …" *(continued on p. 312; the Sanskrit sentences of Skandasvāmin are read from a small print and are doubtful [?]).*
+
+---
+
+### Page 312 (PDF 330)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.6 (concluded)**
+
+- **जुनासि** (concluded) — "…whom Agni urges to battle and to whom he gives help in battle, he wins in the battle and obtains boundless wealth — this has been said many times. For example:
+
+  > यमग्ने पृत्सु मर्त्यमवा वाजेषु यं जुनाः । स यंता शश्वतीरिषः ॥
+  > *yam agne pṛtsu martyam avā vājeṣu yaṃ junāḥ | sa yantā śaśvatīr iṣaḥ ||* (Ṛk. Saṃ. [1-27-8?], as read)
+
+  In this Ṛk it is praised that he who has Agni's help in battle wins, unbroken, and obtains abundant, lasting wealth of food. Moreover, since *junāḥ* can be rendered here too as 'you urge' (*prerayasi*), in the explanation of the present Ṛk also, as in Sāyaṇa's explanation, *junāsi* is properly *prerayasi*: the man whom Agni urges to battle obtains wealth."
+- *Purport:* "Agni gives most abundant food, even in the house, to the sacrificer who offers him oblations in the sacrifice; and he makes him gain victory and wealth even in battle."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.6, noted briefly; not transcribed)*
+
+Words treated: *tubhyam* (*yuṣmad* in the dative; by the statement *kriyāgrahaṇaṃ kartavyam* in the *saṃpradāna* rule the object (*karman*) gets the *saṃpradāna* designation, so the fourth case by *caturthī saṃpradāne*); *vibhāti* (root *bhā dīptau*; *laṭ*, third person singular; nighāta not applied because of the *yad*-connection; the root accent remains); *dāśāt* (root *dāś dāne*; *leṭ*, *tip*; loss of *i* by *iteś ca lopaḥ*; *aḍāgama* by *leṭo 'ḍāṭau*; the nighāta is prevented, so the root accent remains); *uśataḥ* (root *vaś kāntau* "to desire"; *śatṛ* in the present sense; because of *sārvadhātukam apit*, *ṅit*-ness, so samprasāraṇa of the root, and the earlier form *u*; genitive singular; the *śatṛ* without *num* has the ending after it, so the acute by *śatur anumo nadyajādī*, Pā. [6-1-173], does not occur here; the sense is the fourth case, but by *caturthyarthe bahulaṃ chandasi*, Pā. [2-3-62], the sixth case has come). *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 313 (PDF 331)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 71.6 (concluded; noted briefly)**
+
+*anu dyūn* (*dyu* is a name for "day"; *anu* has the *karmapravacanīya* designation by *anur lakṣaṇe*, Pā. [1-4-84]; since the word *dyu* is connected with it, the second case by *karmapravacanīyayukte dvitīyā*, Pā. [2-3-8]); *vardho* (*vardha* + *u*; root *vṛdh* "to increase"; the causative *ṇic*, then *loṭ*, second person singular, *sip* replaced by *hi*; by *chandasy ubhayathā* the *śap* has the *ārdhadhātuka* designation, so the *ṇi* is lost by *ṇeraniṭi*, Pā. [6-4-51]; guṇa of the light penultimate; *ato heḥ* gives loss of *hi*; here *śap* being *pit*, is anudātta by *sārvadhātukam apit*… hence the root accent remains; with *vardha* + *u*, by *ād guṇaḥ* an *ekādeśa* comes — [the *u* then] gets the *pragṛhya* designation by *ūñ* [*ūṅ*], Pā. [1-1-17] — so that, although *agne* starts with a vowel, no *avādeśa* occurs, and by *plutapragṛhyā aci nityam*, Pā. [6-1-125], the natural form (*prakṛtibhāva*) remains); *yāsat* (root *yā prāpaṇe*; *leṭ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sip bahulaṃ leṭi*, Pā. [3-1-34], gives *sip*; *aḍāgama* by *leṭo 'ḍāṭau*; no nighāta since at the head of a pāda; the root accent remains); *rāyo* (*rai*, instrumental singular; the ending acute by *ūḍidaṃpadādi…*); *junāsi* (root *ju*, "to go", prescribed in the sūtra list; *laṭ*, second person singular, *sip*; *śap* would be applied by *kartari śap*, but *śnā* is the *vikaraṇa* by *vyatyayo bahulam*; the *vikaraṇa* has *ñit* effect by *sārvadhātukam apit*, so no guṇa of the root; the nighāta is prevented by the earlier-related *yad*, according to *yaddhṛttānnityam*, Pā. [8-1-66], and the vikaraṇa's accent remains). Ends "॥ ६ ॥". *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–313 done (PDF 19–331): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.6 complete (71.6: Special Topics and grammar page on pp. 310–313). Next: p. 314 (PDF 332), **Rik 71.7**. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.7–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 311–312 (Sanskrit as read, glosses mine and tentative) doubtful [?]; Skandasvāmin's note on *junāsi* (p. 311) doubtful.
