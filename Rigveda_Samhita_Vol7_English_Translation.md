@@ -3719,4 +3719,71 @@ Closing of Rik 84.17: "॥ १७ ॥" (17), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–134 done (PDF 16–149) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.17 complete**; **Rik 84.18** (Triṣṭubh) — Saṃhitā (p. 133), Pada, bhāṣya and its grammatical tail (p. 134) done; next: the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 84.18. Next: printed p. 135 (PDF 150). Two Ṛks (84.19, 84.20) remain after 84.18. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 135 (PDF 150)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 135.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 84.18)** *(Kannada)*
+
+*kaḥ* — which sacrificer; *agnim* — Agni; *īṭṭe* — praises (making an offering for Indra); *(ko vā — or which one himself)*; *srucā* — with the ladle; *dhruvebhiḥ* — eternal; *ṛtubhiḥ* — marked by the seasons, spring and the rest; *ghṛtena* — of the form of ghee; *haviṣā* — with the oblation; *yajātai* — can worship?; *kasmai* — to which sacrificer; *homam* — the wealth prayed for; *āśu* — swiftly; *devāḥ* — (other than Indra) which deities; *ā vahān* — bring? ; *vītihotraḥ* — one who has performed the sacrifice; *sudevaḥ* — one having the favour of auspicious deities; *kaḥ* — which sacrificer; *maṃsate* — knows (Indra completely).
+
+**अथवा — Or (second arrangement)**
+
+The same words, with *dhruvebhiḥ* — "immovable" and *ṛtubhiḥ* — "together with the season-deities", *ghṛtena* — "of the form of ghee", the rest as above.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.18** *(Kannada)*
+
+"Which sacrificer can, for Indra, kindle Agni and praise him by offering? Which one, with the eternal seasons — spring and the rest — and with the oblation in the form of ghee, can worship through the ladles? Which other deities, besides Indra, can bring the wealth that has been prayed for to any sacrificer who performs a sacrifice? Which sacrificer, who has performed a sacrifice and obtained the favour of other auspicious deities, can know Indra completely? That is: Indra alone is more excellent than all the deities. If he is to be realised directly, it is not possible without the highest worship."
+
+**English Translation** *(printed in English in the source; runs on to p. 136)*
+
+"Who praises Agni or sacrificial fire lighted for Indra or worships him with the oblation of clarified butter, presented in the ladle according to the seasons ? to whom the gods quickly bring the wealth that has been called for ? what sacrificer, engaged in offering oblations and favoured by the gods, thoroughly knows Indra ?" — as printed ("praises" misprinted "priases"; "called for" misprinted "calle1" at the page-foot) [sic].
+
+---
+
+### Page 136 (PDF 151)
+
+*(Running head: "136 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.18)**
+
+- **स्रुचा** — "the ladle of wood with which ghee and the like are offered in the fire (the English word *ladle* is added in print)."
+- **ऋतुभिः** — "the divisions of the year; the seasons, spring and the rest; or the deities who preside over *homa*. '*ṛtavo vai prayājāḥ*' — 'the seasons are the *prayājas*' (a Śruti sentence) — that is, the seasons, or the deities presiding over the seasons. The Śruti sentence says that these are the presiding deities of the chief offerings."
+- **ध्रुवेभिः** — "the two kinds of sacrifices called *prakṛti* and *vikṛti* (the model rite and the modified rites)."
+- **वीतिहोत्रः** — *vī gatyādiṣu | hotraṃ homaḥ vītiḥ prāpto homo yena* — "one who has performed *homa*, or who has performed a sacrifice."
+- **सुदेवः** — *śobhanadevatākaḥ* — "the sacrificer who worships an excellent deity."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.18)** *(grammar page, noted briefly; begins here)*
+
+- **ईट्टे** — the root *īḍa stutau*, Adādi; *laṭ*, third person singular; for the affix *ta*, by "टित आत्मनेपदानां टेरे" (*ṭita ātmanepadānāṃ ṭer e*) the *e*; by "अदिप्रभृतिभ्यः शपः" (*adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72) the elision (*luk*) of *śap*; by *ṣṭutva*/*ṭutva* the *t* of the affix becomes *ṭ*; the form *īṭṭe*; the *nighāta* accent of the *tiṅanta*.
+- **स्रुचा** — instrumental singular of the word *sruc*; by "सावेकाचस्तृतीयादिः" (*sāv ekācas tṛtīyādir vibhaktiḥ*, Pā. Sū. 6-1-168) — since it is a monosyllable, the case-ending takes the acute.
+- **यजातै** — the root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *leṭ*, third person singular; by "लेटोऽडाटौ" (*leṭo 'ḍāṭau*) the augment *aṭ*; by "वैतोऽन्यत्र" (*vaito 'nyatra*, Pā. Sū. 3-4-96) the substitution of *ai* as the ending; the *nighāta* accent.
+- **वहान्** — the root *vaha prāpaṇe*; *leṭ*, third person plural; by "झोऽन्तः" (*jho 'ntaḥ*) the substitute *ant* for *jhi*; by "लेटोऽडाटौ" the *aṭ* augment; by "इतश्च लोपः परस्मैपदेषु" (*itaś ca lopaḥ parasmaipadeṣu*) the loss of the final *i*; then by "संयोगान्तस्य लोपः" (*saṃyogāntasya lopaḥ*) the loss of the final *t*; the form *vahān*; nighāta because it follows an *atiṅanta* word.
+
+---
+
+### Page 137 (PDF 152)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 137.)*
+
+*Vyākaraṇa-prakriyā of Rik 84.18, continued from p. 136 (grammar page, noted briefly):*
+
+- **होमम्** — the root *hveñ spardhāyāṃ śabde ca*; by "आतो मनिन्क्वनिब्वनिपश्च" (*āto manin-kvanib-vanipaś ca*, Pā. Sū. 3-2-74 [?]) the affix *manin* after a root ending in *ā*; by "आतो लोप इटि च" (*āto lopa iṭi ca*) the loss of *ā*; when *hvā+man* — as "*hvaḥ*" runs on, by "बहुलं छन्दसि" (*bahulaṃ chandasi*) the *saṃprasāraṇa*; by "संप्रसारणाच्च" (*saṃprasāraṇāc ca*) the former form; guṇa to the *u* because of the *ārdhadhātuka*; the word *homan*. Or, in "नामन्सीमन्…" (Uṇ. Sū. 4-[150] [?]) the word *homan* is fixed by *nipātana* with the affix *manin*; because it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" (*ñnityādir nityam*) it has the acute on the first syllable.
+- **मंसते** — the root *mana jñāne*; *leṭ*, singular; by "लेटोऽडाटौ" the *aṭ* augment; by "सिब्बहुलं लेटि" (Pā. Sū. 3-1-34) the affix *sip*; by "नश्चापदान्तस्य झलि" (*naś cāpadāntasya jhali*) the *anusvāra* for the *n*; by "तिङ्ङतिङः" the *nighāta* accent.
+- **वीतिहोत्रः** — the root *vī* in the sense of motion and the rest; to it, by "मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः" (*mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ*, Pā. Sū. 3-3-96 [?]) the affix *ktin* in the passive sense, acute; being *kit*, no *guṇa*. *Hotram* = *homa*: by "हुयामाश्रुभसिभ्यस्त्रन्" (*huyāmāśrubhasibhyas tran*, Uṇ. Sū. 4-[162] [?]) the affix *tran* after the root *hu*; guṇa to the root's *u* by "सार्वधातुकार्धधातुकयोः" (*sārvadhātukārdhadhātukayoḥ*); *vītiḥ prāptaḥ hotraṃ homaḥ yena saḥ vītihotraḥ* ("he who has obtained *homa*") — by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its own accent.
+- **सुदेवः** — *śobhano devo 'sya saḥ sudevaḥ*; by "नञ्सुभ्याम्" (*nañsubhyām*, Pā. Sū. 6-2-172) the acute is on the final syllable of the second member.
+
+Closing of Rik 84.18: "॥ १८ ॥" (18), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 84.19)** *(Bṛhatī; Indra; accents not reproduced)*
+
+> त्वमङ्ग प्र शंसिषो देवः शविष्ठ मर्त्यम् ।
+> न त्वदन्यो मघवन्नस्ति मर्डितेन्द्र ब्रवीमि ते वचः ॥ १९ ॥
+
+*tvam aṅga pra śaṃsiṣo devaḥ śaviṣṭha martyam | na tvad anyo maghavann asti marḍitendra bravīmi te vacaḥ ‖ 19 ‖*
+
+*Gloss, mine and tentative:* "You, O friend, O most mighty god, shall praise the mortal; there is no other than you, O Maghavan, who gives joy — O Indra, I speak your word."
+
+---
+
+**Progress note:** Printed pp. 1–137 done (PDF 16–152) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.18 complete**; **Rik 84.19** (Bṛhatī) — Saṃhitā done (foot of p. 137); next: the Pada, bhāṣya and the rest of 84.19. Next: printed p. 138 (PDF 153). Rik 84.20 (Satobṛhatī) remains after 84.19, then the closing of Sūkta 84 (ends p. 142). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
