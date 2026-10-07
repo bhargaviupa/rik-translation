@@ -9347,4 +9347,104 @@ Words treated: *suhavyam* (*śobhanaṃ havyaṃ yasya saḥ*; a bahuvrīhi; the
 
 ---
 
-**Progress note:** Printed pp. 1–444 done (PDF 19–462): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.5 complete (74.5: English, Special Topics and grammar page on pp. 442–444). Next: p. 445 (PDF 463), **Rik 74.6**; then Riks 74.7–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the many Ṛgveda citations on pp. 442–444 (Sanskrit and numerals read from small print) doubtful, glosses mine and tentative; the Ṛk-Saṃhitā "volume 2, pp. 640–641" cross-reference on p. 443 is as read [?].
+### Page 445 (PDF 463)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.6** *(printed Ṛk "6 ||")*
+
+> आ च वहासि ताँ इह देवाँ उप प्रशस्तये ।
+> हव्या सुश्चन्द्र वीतये ॥ ६ ॥
+
+*ā ca vahāsi tāṃ iha devāṃ upa praśastaye |
+havyā suścandra vītaye ||6||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । च । वहासि । तान् । इह । देवान् । उप । प्रऽशस्तये ।
+> हव्या । सुऽश्चन्द्र । वीतये ॥ ६ ॥
+
+*ā | ca | vahāsi | tān | iha | devān | upa | pra-śastaye | havyā | su-candra | vītaye ||6||*
+
+*(Reading note: the Pada's "सुश्चन्द्र" is printed with the doubled *ś* — *su-ścandra* — as in the Saṃhitā, from the sandhi-augment *suṭ* (*suścandra*), as the grammar page confirms.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे सुश्चंद्र शोभनाह्लादनाग्ने तान्देवानिहास्मिन्कर्मण्युपास्मत्समीपं प्रशस्तये स्तुतेय आ वहासि च । आवह प्रापय च । आगतेभ्यस्तेभ्यो हव्या हव्यानि चरुपुरोडाशादीनि हवींषि वीतये भक्षणाय प्रापयेत्यर्थः ॥ वहासि । वह प्रापणे । लेट्याडागमः । प्रशस्तये । शंसु स्तुतौ । भावे क्तिन् । तितुत्रेष्वितीट्प्रतिषेधः । अनिदिताम् इति नलोपः । तादौ चेति गतेः प्रकृतिस्वरत्वं । सुश्चंद्र । ह्रस्वाच्चंद्रोत्तरपदे मंत्रे इति सुट् ॥
+
+*he suścandra śobhanāhlādanāgne tān devān ihāsmin karmaṇy upāsmatsamīpaṃ praśastaye stutaye ā vahāsi ca | āvaha prāpaya ca | āgatebhyas tebhyo havyā havyāni caru-puroḍāśādīni havīṃṣi vītaye bhakṣaṇāya prāpayety arthaḥ || vahāsi | vaha prāpaṇe | leṭy aḍāgamaḥ | praśastaye | śaṃsu stutau | bhāve ktin | titutreṣv itīṭpratiṣedhaḥ | anidītām iti nalopaḥ | tādau ceti gateḥ prakṛtisvaratvaṃ | suścandra | hrasvāc candrottarapade mantre iti suṭ ||*
+
+*Meaning:* O joyous (*suścandra*) Agni, delightful to the heart, bring (*ā vahāsi*) those gods hither (*iha*), into this rite, near us, for praise (*praśastaye*); and bring to them, who have come, the oblations (*havyā*) — *caru*, *puroḍāśa* and the rest — for their eating (*vītaye*).
+
+**Grammatical tail** *(characterized)*: *vahāsi* (*leṭ* with *aḍ*-augment); *praśastaye* (*ktin* in the abstract sense; the *iṭ* prohibited by *titutreṣu…*; loss of the nasal by *anidītām*; the *gati* keeps its natural accent by *tādau ca niti*); *suścandra* (the *suṭ*-augment by *hrasvāc candrottarapade mantre*, Pā. [6-1-151]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*suścandra* — O joy-giving Agni; *tān devān* — those (invited) gods; *iha* — in this rite; *praśastaye* — for praising; *havyā* — the invoked *caru* and the like; *vītaye ca* — and for the eating; *upa* — near (us); *ā vahāsi* — you bring.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O joy-giving Agni! Come with those gods near us, to receive our praise and the oblations we offer.
+
+---
+
+### Page 446 (PDF 464)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Bring hither, radiant Agni, the Gods to (receive) our praise and our oblations for their food,
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **प्रशस्तये** — *asmābhiḥ kṛtaṃ stotraṃ śrotum* — "to hear the hymns made by us."
+- **सुश्चन्द्र** — *śobhanāhlādanāgne* — "O Agni, exceedingly delightful. The Nirukta-writer says that the word *candra* is formed from the root *cadi*, which denotes radiance (*candati* — 'he shines'): *candraś candater kāntikarmaṇaḥ* (Ni. [11-5?]); so *candra* means 'one who has radiance', 'the delighter'."
+- **वीतये** — *bhakṣaṇārtham* — "for eating the oblations."
+- **च** — "the word *ca* is used in the sense of 'and' (*samuccaya*); it joins the words *praśastaye* and *vītaye*."
+- **उप** — "near: to the place where we are performing the sacrifice, near us."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.6, noted briefly; not transcribed)*
+
+Words treated: *vahāsi* (root *vaha prāpaṇe*; *leṭ*, second person singular, *sip*; *āḍ*-augment by *leṭo 'ḍāṭau*, Pā. [3-4-94]; *śap*; the form *vahāsi*; since *ca* is connected, nighāta is prohibited by *cavāyoge prathamā*, Pā. [8-1-59]; since the vikaraṇa, augment and affix are anudātta, the root accent remains). *praśastaye* (root *śaṃsu stutau*; *ktin* in the abstract sense by *striyāṃ ktin*, Pā. [3-3-94]; *iṭ* prohibited by *titutrathasi…*, Pā. [7-2-9]; since the affix is *kit*, loss of the root's penultimate nasal by *anidītāṃ hala upadhāyāḥ kṅiti*; the form *śasti*; compounded with *pra*, by *tādau ca niti*, Pā. [6-2-50], the *gati* keeps its natural accent; dative singular).
+
+---
+
+### Page 447 (PDF 465)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 74.6 (concluded; noted briefly)**
+
+*havyā* ("that which is invoked", *havyam*; in the neuter plural the *śi* replacement; loss of *śi* by *śeś chandasi bahulam*). *suścandra* ("one who makes good delight": *su* + *candra*; the *suṭ*-augment comes for the short *u* of *su* in front of the member *candra* by *hrasvāc candrottarapade mantre*, Pā. [6-1-151]; since it is vocative, the *āmantrita* designation, and by *āmantritasya ca*, Pā. [8-1-19], nighāta). Ends "॥ ६ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.7** *(printed Ṛk "7 ||")*
+
+> न योरुपब्दिरश्व्यः शृण्वे रथस्य कच्चन ।
+> यदग्ने यासि दूत्यम् ॥ ७ ॥
+
+*na yor upabdir aśvyaḥ śṛṇve rathasya kac cana |
+yad agne yāsi dūtyam ||7||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> न । योः । उपब्दिः । अश्व्यः । शृण्वे । रथस्य । कत् । चन ।
+> यत् । अग्ने । यासि । दूत्यम् ॥ ७ ॥
+
+*na | yoḥ | upabdiḥ | aśvyaḥ | śṛṇve | rathasya | kat | cana | yat | agne | yāsi | dūtyam ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.7** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने यद्यदा दूत्यं देवानां दूतत्वं यासि प्राप्नोषि कथंचन कदाचिद्वा तदानीं सर्वदापि योर्गच्छतस्तव रथस्याश्व्यैरश्वैरुत्पादित उपब्दिः श्रवणार्हः शब्दो न शृण्वे । न श्रूयते । रथस्य शीघ्रगमनेनास्माभिः शब्दो नोपलभ्यत इत्यर्थः ॥ योः । या प्रापणे इत्यस्मात् यो द्वे च । उ. [१-२२?] इत्यादिकः कुप्रत्ययः । बहुलवचनाद्द्विर्भावाभावः । उपब्दिरित्येतत् श्रोतुमर्हस्य शब्द-स्याख्या । तथा च तैत्तिरीयाणां प्रातिशाख्यं सशब्दमुपब्दिमत् । तै. प्रा. [२३-८?] । इति । शृण्वे । श्रु श्रवणे । कर्मणि लटि श्रुवः शृ चेति व्यत्ययेन श्नुः शृभावश्च । लोपस्त आत्मनेपदेष्विति तलोपः । हुश्नुवोः सार्वधातुके इति यणादेशः ॥
+
+*he agne yad yadā dūtyaṃ devānāṃ dūtatvaṃ yāsi prāpnoṣi kathaṃcana kadācid vā tadānīṃ sarvadāpi yor gacchatas tava rathasyāśvyair aśvair utpādita upabdiḥ śravaṇārhaḥ śabdo na śṛṇve | na śrūyate | rathasya śīghragamanenāsmābhiḥ śabdo nopalabhyata ity arthaḥ || yoḥ | yā prāpaṇe ity asmāt yo dve ca | u. [1-22?] ity ādikaḥ kupratyayaḥ | bahulavacanād dvirbhāvābhāvaḥ | upabdir ity etat śrotum arhasya śabdasyākhyā | tathā ca taittirīyāṇāṃ prātiśākhyaṃ sa-śabdam upabdimat | tai. prā. [23-8?] | iti | śṛṇve | śru śravaṇe | karmaṇi laṭi śruvaḥ śṛ ceti vyatyayena śnuḥ śṛbhāvaś ca | lopas ta ātmanepadeṣv iti talopaḥ | huśnuvoḥ sārvadhātuke iti yaṇādeśaḥ ||*
+
+*(Reading note: the Taittirīya-Prātiśākhya reference "sa-śabdam upabdimat" and its numeral are doubtful [?].)*
+
+*Meaning:* O Agni, whenever you go (*yāsi*) to carry out the office of messenger (*dūtyam*) of the gods — at any time (*kathaṃcana*) — then, of you who are going always (*yoḥ*), no sound (*upabdiḥ*), worthy of hearing, produced by the horses (*aśvyaiḥ*) of your chariot, is heard (*na śṛṇve*): that is, because of the swift going of the chariot, no sound is perceived by us.
+
+**Grammatical tail** *(characterized)*: *yoḥ* (root *yā prāpaṇe*; *ku*-affix by *yo dve ca*, Uṇ. [1-22?]; no doubling by the *bahula* statement); *upabdiḥ* ("this is the name of a sound fit to be heard"; so the Taittirīya Prātiśākhya: "*sa-śabdam upabdimat*"); *śṛṇve* (root *śru śravaṇe*, passive *laṭ*; *śnu* and *śṛ* for the root by *vyatyaya* of *śruvaḥ śṛ ca*; loss of *ta* by *lopas ta ātmanepadeṣu*; *yaṇ* by *huśnuvoḥ sārvadhātuke*).
+
+---
+
+**Progress note:** Printed pp. 1–447 done (PDF 19–465): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.6 complete (74.6: pp. 445–447); **Rik 74.7** (printed "7 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (p. 447). Next: p. 448 (PDF 466), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 74.7; then Riks 74.8–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya-Prātiśākhya reference in the bhāṣya of 74.7 doubtful [?].
