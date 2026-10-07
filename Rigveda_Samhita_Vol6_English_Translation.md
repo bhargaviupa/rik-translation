@@ -5820,4 +5820,79 @@ The sages called Aṅgirasas, who belong to the company of our ancestors, praise
 
 ---
 
-**Progress note:** Printed pp. 1–289 done (PDF 19–307): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 71.1 complete (grammar page pp. 287–288); **Rik 71.2** — Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha done (pp. 288–289); the source's English breaks off at the foot of p. 289 ("they made for us a …"); Special Topics and grammar page of 71.2 not yet seen. Next: p. 290 (PDF 308). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (10 Ṛks) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's "adrim attāram" and the Pada "ahar iti" doubtful [?].
+### Page 290 (PDF 308)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**English Translation of Rik 71.2 (concluded from p. 289; the source's own, as printed):**
+
+> …path to the vast heaven, and obtained accessible [sic: printed "access'ible"] day, the ensign of day, (Aditya), and the cows (that had been stolen).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In this Ṛk the might of Agni, who killed the *asura* called Paṇi, is described. Though this great deed is generally known as belonging to the greatness of Indra, here too it is described that Agni accomplished this great deed and obtained a pleasant way of life for the Āryas. For example:
+
+  > नैक्रूतून्ग्रथिनो मृध्रवाचः पणीरश्रद्धाँ अवृधाँ अयज्ञान् ।
+  > प्रप्र तान्दस्यूरग्निर्विवाय पूर्वश्चकारापरा अयज्यून् ॥
+  > *naikrūtūn grathino mṛdhravācaḥ paṇīr aśraddhāṃ avṛdhāṃ ayajñān | prapra tān dasyūr agnir vivāya pūrvaś cakārāparā ayajyūn ||* (Ṛk. Saṃ. [7-6-3?], as read)
+
+  In this Ṛk the valour that destroyed the Paṇis is described, and then the benefit that the destruction brought to the sacrificing sages. The praise in this Ṛk is of the same context." *(The Sanskrit of this citation is read from a small print and is doubtful in several syllables [?]; the source leaves it untranslated; my gloss, tentative: "the Paṇis, scornful of speech, faithless, without increase and without sacrifice — Agni drove those *dasyus* far away, and made those who do not sacrifice the later ones".)*
+- **वीळु** — "*ojaḥ*, *pājaḥ*, *śavaḥ* …" — "since *vīḷu* is read among the twenty-two names of strength (Ni. [2-9?]), the word *vīḷu* has the name 'strength'."
+- **दृळ्हा** — *dṛḍhaḥ sthūlabalayoḥ* — "firm, and in the general sense 'thick' and 'strong'. *Vīḷu dṛḷhā cit* means: though exceedingly strong, even so, with the help of Agni our fathers destroyed the demons."
+- **अद्रिम्** — *adrir ādṛṇāty anena, api vā atteḥ syāt* (Ni. [4-4?]) — "the Nirukta-writer explains that the word *adri* may come from the root *ad* 'to eat'. On the basis of this etymology the bhāṣyakāra also explains *adriṃ* as *attāraṃ paṇināmānam asuram*, 'the devourer, the *asura* named Paṇi, the eater of everything'. In the same sense, in the Ṛk
+
+  > ससेन चिद्विमदायावहो वस्वाजावद्रिं वावसानस्य नर्तयन् ।
+  > *sasena cid vimadāyāvaho vasvājāvadriṃ vāvasānasya nartayan* (Ṛk. Saṃ. [1-51-3?], as read)
+
+  *adri* is explained as the thunderbolt, devourer of enemies; but the word *adri* is mostly used in the sense of 'mountain' or 'cloud' — such a meaning is less suitable here. Skandasvāmin too, explaining the word *adri* in this Ṛk as 'mountain', writes *adriṃ mṛgaparvataṃ cāsurāṇāṃ svabhūtam* [as read, ?]: though the mountain, the dwelling-place of the *asuras*, was very firm and strong, Agni split it with help" *(the Sanskrit of Skandasvāmin's note is read doubtfully [?]; the glosses are mine and tentative).*
+
+---
+
+### Page 291 (PDF 309)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.2 (continued)**
+
+- **केतुम्** — *ahnāṃ ketayitāraṃ jñāpayitāram ādityam* — "The one who makes known the days: the Sun, who makes known the day by his own light. Though the words 'sun' and 'moon' are synonyms, this epithet serves to make known their natures; hence it is used. For example:
+
+  > नवो नवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रम् ।
+  > *navo navo bhavati jāyamāno 'hnāṃ ketur uṣasām ety agram* (Ṛk. Saṃ. [10-85-19?])
+
+  In this Ṛk the Nirukta-writer explains that the *ketu* of the days is the moon (Ni. [11-6?]). So in the Ṛk Saṃhitā the word *ketu*, in the various senses 'banner', 'wisdom', 'deed' and the like, has been used also as a synonym of the sun and the moon." *(Gloss mine and tentative: "ever new, he is born; the sign of the days, he goes at the head of the dawns".)*
+- **उस्राः** — *gāvaḥ* — "cows. For the explanation of this word see the Special Topics of Ṛk 1-[?]-4."
+
+*The chief purport of the Ṛk:* by Agni's grace the sun, the remover of darkness, rose and became a benefit to the world, with the destruction of the exceedingly powerful enemies.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.2, noted briefly; not transcribed)*
+
+Words treated: *vīḷu* (the accusative ending lost by *supāṃ sulug…*); *dṛḷhā* (*dṛḍhaḥ sthūlabalayoḥ*, Pā. [7-2-20], is the nipāta; the accusative ending *am* replaced by *ḍā* by *supāṃ sulug…*); *pitaraḥ* (the *tṛn* and *tṛc* words by *āptṛntṛc…*; the penultimate lengthening applying only to *naptṛ* and the like, so no lengthening here); *rujan* (root *ruj* "to break", Tudādi; *laṅ*, third person plural, *jhi*→*anta*; *iteś ca lopaḥ*; *śa*-vikaraṇa by *tudādibhyaḥ śaḥ*, Pā. [3-1-77]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; loss of the final *t* by *saṃyogāntalopa*; nighāta accent); *cakruḥ* (root *ḍukṛñ* "to do"; *liṭ*, third person plural; no nighāta because at the head of a pāda [as read]; final acute by the affix's accent). *Grammar page, noted briefly.*
+
+---
+
+### Page 292 (PDF 310)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.2 (concluded; noted briefly):** *divaḥ* (acute on the ending by *ūḍidaṃpadādi…*, Pā. [6-1-171]); *bṛhataḥ* (acute on the ending by the statement *bṛhanmahator upasaṃkhyānam*); *vividuḥ* — root *vida* "to know" (Adādi) or *vidḷ* "to obtain" (Tudādi); *liṭ*, third person plural; *us* by *parasmaipadānām ṇalatusus…*, Pā. [3-4-82]; doubling of the root for the *liṭ*; of the reduplicate, the first consonant remains; by *asaṃyogāl liṭ kit* the affix is *kit*, so no guṇa of the light penultimate; the form *vividuḥ*; nighāta because it follows an *atijanta*… (as read) *tiṅ atiṅaḥ*. Ends "॥ २ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.3** *(printed Ṛk "3 ||")*
+
+> दधन्नृतं धनयन्नस्य धीतिमादिदर्यो दिधिष्वो३ विभृत्राः ।
+> अतृष्यंतीरपसो यंत्यच्छा देवाञ्जन्म प्रयसा वर्धयंतीः ॥ ३ ॥
+
+*dadhann ṛtaṃ dhanayann asya dhītim ād id aryo didhiṣvo3 vibhṛtrāḥ |
+atṛṣyantīr apaso yanty acchā devāñ janma prayasā vardhayantīḥ ||3||*
+
+*(The print marks a protracted (pluta) vowel in "didhiṣvo3"; accents not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> दधन् । ऋतम् । धनऽयन् । अस्य । धीतिम् । आत् । इत् । अर्यः । दिधिष्वः । विऽभृत्राः ।
+> अतृष्यन्तीः । अपसः । यन्ति । अच्छ । देवान् । जन्म । प्रयसा । वर्धयन्तीः ॥ ३ ॥
+
+*dadhan | ṛtam | dhana-yan | asya | dhītim | āt | it | aryaḥ | didhiṣvaḥ | vi-bhṛtrāḥ | atṛṣyantīḥ | apasaḥ | yanti | accha | devān | janma | prayasā | vardhayantīḥ ||3||*
+
+---
+
+**Progress note:** Printed pp. 1–292 done (PDF 19–310): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1 and 71.2 complete (71.2: English, Special Topics and grammar page on pp. 290–292); **Rik 71.3** — Saṃhitā and Pada done (p. 292); its Sāyaṇa-bhāṣya begins on p. 293. Next: p. 293 (PDF 311). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.3–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations in the Special Topics on pp. 290–291 (Sanskrit and reference numerals) doubtful and the glosses mine and tentative [?].
