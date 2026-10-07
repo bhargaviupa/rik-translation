@@ -8386,4 +8386,66 @@ parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim ||6|
 
 ---
 
-**Progress note:** Printed pp. 1–405 done (PDF 19–423): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.5 complete (73.5: Special Topics and grammar page on pp. 402–405); **Rik 73.6** (printed "6 ||") — Saṃhitā done (p. 405). Next: p. 406 (PDF 424), the Pada and the Sāyaṇa-bhāṣya of Rik 73.6. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations on p. 403 (read from small print) and their glosses tentative [?].
+### Page 406 (PDF 424)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.6**
+
+> ऋतस्य । हि । धेनवः । वावशानाः । स्मत्ऽऊध्नीः । पीपयन्त । द्युऽभक्ताः ।
+> पराऽवतः । सुऽमतिम् । भिक्षमाणाः । वि । सिन्धवः । समया । सस्रुः । अद्रिम् ॥ ६ ॥
+
+*ṛtasya | hi | dhenavaḥ | vāvaśānāḥ | smat-ūdhnīḥ | pīpayanta | dyu-bhaktāḥ | parā-vataḥ | su-matim | bhikṣamāṇāḥ | vi | sindhavaḥ | samayā | sasruḥ | adrim ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.6** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> ऋतस्य हि ऋतं देवयजनदेशं प्राप्तमग्निमेव धेनवोऽग्निहोत्रादिहविषां दोग्ध्र्यो गावः पीपयंत । क्षीरादिलक्षणं गव्यमपाययन् । कीदृश्यो गावः । वावशाना अग्निं पुनः पुनः कामयमानाः स्मदूध्नीः । स्मच्छब्दो नित्यशब्दसमानार्थः । नित्यमूधसा युक्ताः । सर्वदा पयसः प्रदात्र्य इत्यर्थः । द्युभक्ताः दिवा प्रकाशेन संभक्ताः संश्लिष्टाः । तेजस्विन्य इत्यर्थः । अपि च सिन्धवः स्यंदनशीला नद्यः सुमतिमस्याग्नेः शोभनामनुग्रहात्मिकां बुद्धिं भिक्षमाणा याचमानाः सस्रुः अद्रिं समयोद्रेः पर्वतस्य समीपे परावतो दूरदेशाद्वि सस्रुः । विशेषेण गच्छंति प्रवहंति । अग्नये धात्वेव्यानां हविषां निष्पत्तये ऽप्रवहंतीत्यर्थः ॥ ऋतस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । वावशानाः । वश कांतौ । यजंताच्छानच् । न वशः । पा. [६-१-२०?] इति संप्रसारणप्रतिषेधः । बहुलं छंदसीति शपो लुक् । छंदस्युभयथेति शानचि आर्धधातुकत्वादेशो लोप-यलोपौ । अत एव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एव शिष्यते । स्मदूध्नीः । स्मत् नित्यं ऊधांसि यासां । ऊधसोऽनङ् । पा. [५-४-१३१?] इत्यनङादेशः समासांतः । संख्याव्ययादेर्ङीप् । पा. [४-१-२६?] इति ङीप् । भसंज्ञायामल्लोपो ऽन इत्यलोपः । ङीपः पित्त्वाद् अनुदात्तत्वे बहुव्रीहिस्वर एव शिष्यते । पीपयंत । पा पाने । अस्माद्धेतुमति णिच् । शाच्छासाभ्येति युक् । णिअंताल्लङि ङ्लेश्च जादेशादि । चङ्यन्यतरस्यामिति चङः पूर्वस्योदात्तत्वं । हि चेति निघातप्रतिषेधः । परावतः । परागतात् । दूरं हि परागतं भवति । अस्मिन्पाठे ऽर्थे गम्यमान उपसर्गाच्छंदसि धात्वर्थे । पा. [५-१-११८?] । इति वतिः ॥
+
+*ṛtasya hi ṛtaṃ devayajanadeśaṃ prāptam agnim eva dhenavo 'gnihotrādihaviṣāṃ dogdhryo gāvaḥ pīpayanta | kṣīrādilakṣaṇaṃ gavyam apāyayan | kīdṛśyo gāvaḥ | vāvaśānā agniṃ punaḥ punaḥ kāmayamānāḥ smadūdhnīḥ | smacchabdo nityaśabdasamānārthaḥ | nityam ūdhasā yuktāḥ | sarvadā payasaḥ pradātrya ity arthaḥ | dyubhaktāḥ divā prakāśena saṃbhaktāḥ saṃśliṣṭāḥ | tejasvinya ity arthaḥ | api ca sindhavaḥ syandanaśīlā nadyaḥ sumatim asyāgneḥ śobhanām anugrahātmikāṃ buddhiṃ bhikṣamāṇā yācamānāḥ sasruḥ adriṃ samayādreḥ parvatasya samīpe parāvato dūradeśād vi sasruḥ | viśeṣeṇa gacchanti pravahanti | agnaye dhātavyānāṃ haviṣāṃ niṣpattaye 'pravahantīty arthaḥ || ṛtasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī | vāvaśānāḥ | vaśa kāntau | yaṅantāc chānac | na vaśaḥ | pā. [6-1-20?] iti saṃprasāraṇapratiṣedhaḥ | bahulaṃ chandasīti śapo luk | chandasy ubhayathā iti śānaci ārdhadhātukatvād eśo lopa-yalopau | ata eva lasārvadhātukānudāttatvābhāve citsvara eva śiṣyate | smadūdhnīḥ | smat nityaṃ ūdhāṃsi yāsāṃ | ūdhaso 'nań | pā. [5-4-131?] ity anaṅādeśaḥ samāsāntaḥ | saṅkhyāvyayādeṅ ṅīp | pā. [4-1-26?] iti ṅīp | bhasaṃjñāyām allopo 'na ity alopaḥ | ṅīpaḥ pittvād anudāttatve bahuvrīhisvara eva śiṣyate | pīpayanta | pā pāne | asmād dhetumati ṇic | śācchāsābhyeti yuk | ṇyantāl laṅi ṅleś ca jādeśādi | caṅy anyatarasyām iti caṅaḥ pūrvasyodāttatvaṃ | hi ceti nighātapratiṣedhaḥ | parāvataḥ | parāgatāt | dūraṃ hi parāgataṃ bhavati | asmin pāṭhe 'rthe gamyamāna upasargāc chandasi dhātvarthe | pā. [5-1-118?] | iti vatiḥ ||*
+
+*(Reading note: the print is clear but small; the tail from "ṛtasya" on is much compressed; "yaṅantāc chānac", "ṇyantāl laṅi ṅleś ca jādeśādi", "caṅy anyatarasyām" and the whole of the last two sentences are doubtful, and the Pāṇini numerals are doubtful [?]. The bhāṣya's tail begins at "ṛtasya".)*
+
+*Meaning:* To *ṛta* — to Agni, who has come to the place of sacrifice — indeed the cows (*dhenavaḥ*), milkers of the oblations for the *agnihotra* and the rest, *pīpayanta* — gave to drink (the cow-produce, milk and the rest). How are the cows? *Vāvaśānāḥ* — desiring Agni again and again; *smadūdhnīḥ* — *smat* is of the same sense as "constant": possessed of constant udders: always givers of milk; *dyubhaktāḥ* — joined with the radiance of the day: shining. And the rivers (*sindhavaḥ*) — streaming ones — begging (*bhikṣamāṇāḥ*) the good (*su*) favour (*matim*), the benevolent mind, of this Agni, have flowed (*sasruḥ*) towards the mountain (*adrim*), near the mountain, from afar (*parāvataḥ*) — for the preparation of the oblations to be offered to Agni they flow.
+
+---
+
+### Page 407 (PDF 425)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*ṛtasya hi* — to Agni, who has come to the sacrificial hall; *vāvaśānāḥ* — wishing again and again for Agni; *smadūdhnīḥ* — having constant udders (always giving milk); *dyubhaktāḥ* — endowed with radiance; *dhenavaḥ* — the cows (which are the cause of the oblations); *pīpayanta* — they gave to drink the cow-produce, milk and the rest; *sindhavaḥ* — the rivers flowing; *sumatim* — (of Agni) the benevolent mind; *bhikṣamāṇāḥ* — as ones asking; *adrim samayā* — in the vicinity of the mountain; *parāvataḥ* — from a distant place; *vi sasruḥ* — they have flowed and come.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The cows, ever giving milk, radiant, who love Agni, have come to the sacrificial hall and give milk and the like for Agni's use. The rivers, desiring Agni's good will, have flowed from far, near the mountain.
+
+**English Translation** *(the source's own, as printed):*
+
+> The cows, loving (Agni, who has come to the hall of sacrifice), sharing his splendour, have brought with full udders (their milk) to be drunk. The rivers, soliciting his good will, have flowed from a distance in the vicinity of the mountains.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **ऋतस्य** — *kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī* — "here the sixth case is used in the sense of the fourth case, which is the *saṃpradāna* form. Yāska makes *ṛtam ity udakanāma pratyṛtaṃ bhavati* (Ni. [1-12?]) — 'water'; and Sāyaṇa explains *ṛtam* as *devayajanadeśam*, 'the place where, with the gods in view, the sacrifice is done'.
+
+  Skandasvāmin: *ṛtam ṛter gatikarmaṇaḥ* (Ni. [2-?]) — 'from the root *ṛ* "to go" is the form of the word *ṛta*'; so *ṛtasya* — *sarvatra gatasya* — 'of him who has gone to all places', i.e. 'of him able to go about in all places'."
+- **स्मदूध्नीः** — *smacchabdaḥ praśastavacanaḥ | amṛtapacanāt praśastam ūdho yāsāṃ tāḥ smat* — "the word *smat* denotes 'excellent' or 'best'. *Amṛta*—" *(continued on p. 408)*
+
+---
+
+### Page 408 (PDF 426)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Special Topics of Rik 73.6 (continued)**
+
+- **स्मदूध्नीः** (continued) — "…since they cook (prepare) the *amṛta*, the cows with an excellent udder — that is the sense. Sāyaṇa says that the word *smat* has the sense of the word *nitya* ('constant'), so cows constantly having udders [full] who always give milk."
+- **द्युभक्ताः** — *divā prakāśena saṃśliṣṭāḥ tejasvinya ity arthaḥ* — "Sāyaṇa explains this word as: those who, because of the radiance of day, shine — the cows are lustrous. Skandasvāmin: *divaṃ yo bhajante tā dyubhaktāḥ | svargaṇivāsinya ity arthaḥ* — 'those who go to heaven are called *dyubhaktāḥ*; the sense is "dwellers in heaven"; therefore he says "dwellers in heaven". The sense is that the cows, who always give milk, endowed with good udders and lustre, dwellers in heaven, who prepare the *amṛta*, please Agni with their milk' — thus Skandasvāmin interprets in another way."
+- **परावतः** — *parāgatāt | dūraṃ hi parāgataṃ bhavati* — "from afar."
+- **सिन्धवः** — "Rivers flow with waters like *amṛta*, and in many ways run, seeking Agni."
+- **समया अद्रिम्** — *samayā śabdaḥ sāmīpye | adrir meru nāmā parvato merokḥ samīpeneti arthaḥ* — "'*samayā*' is a word for nearness; *adri* by Meru, the mountain named Meru: 'near the Meru'. Agni's own manifestations — the cows — come, the cows with good udders, to Agni (the *dhenus*) from near Meru, in many ways, and serve him, so that Agni is pleased with the milk which is like *amṛta* — thus Skandasvāmin. Another sense of this Ṛk is also given: the word *dhenu*, formed from the root *dhīñ prīṇane* ('to please'), means the oblations that please Agni; these are greatly desired by Agni; the oblations have, as udder-place, the word *ūdhas* in the excellent sense; these oblations are mixed with the best *amṛta*-juices; they are drunk as if by going to heaven, which is farther than the earth, to drink the *amṛta*-juice. *Dhenava iti dhinoter prīṇanārthasya rūpam | ṛtasya agneḥ prīṇayitryaḥ āhutayaḥ ātyartham kāmayamānāḥ amṛtarasayuktāḥ dyugāminyaḥ pṛthivītaḥ dūrāt agnim āpyāyayanti* — 'oblations, which please Agni, longing for him exceedingly, endowed with the juice of *amṛta*, going to heaven, from far over the earth, refresh Agni'. Therefore these oblations make Agni comfortable."
+
+---
+
+**Progress note:** Printed pp. 1–408 done (PDF 19–426): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.5 complete; **Rik 73.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 406–408) done; the Special Topics may continue on p. 409; the grammar page of 73.6 not yet seen. Next: p. 409 (PDF 427). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.6 (p. 406) compressed and doubtful [?].
