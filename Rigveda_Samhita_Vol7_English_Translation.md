@@ -2658,4 +2658,88 @@ nakiṣ ṭvānu majmanā nakiḥ svaśva ānaśe ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–95 done (PDF 16–110) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.5 complete** (grammar of 84.5 on pp. 93–94; the bhāṣya of 84.5 on p. 92 is largely illegible in the source); **Rik 84.6** — Saṃhitā, Pada, bhāṣya (p. 94), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 94–95) done; its grammar page is begun on p. 95 (*nakiṣṭvat*) and continues on p. 96 (PDF 111). Next: printed p. 96 (PDF 111). Fourteen Ṛks (84.7–84.20) remain after 84.6. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 96 (PDF 111)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Grammar of Rik 84.6, continued from p. 95 (grammar page, noted briefly):*
+
+- **रथीतरः** — *atiśayena rathī* ('exceedingly possessed of a chariot'). By "dvivacanavibhajyopapade tarabīyasunau" (Pā. Sū. 5-3-57) the affix *tarap* in the sense of excess. *Rathī* — 'he who has a chariot' — the affix *ini* after *ratha* in the *matup* sense by "ata ini-ṭhanau" (Pā. Sū. 5-2-115); when *ini* comes, the *a* of the stem would be dropped by "yasyeti ca" (Pā. Sū. 6-4-148), and *rathī* is an *n*-ending word; as said before, when *tarap* follows in the superlative sense, *rathin+tara*: by "nalopaḥ prātipadikāntasya" (Pā. Sū. 8-2-7) the *n* of the stem is dropped; "īd rathinaḥ" [as read: "īd athinaḥ", Pā. Sū. 8-2-[?]—vārttika 1] — before *gha* the *ī*-ending substitute for the stem *rathin* arises; by "tarap-tamapau ghaḥ" (Pā. Sū. 1-1-22) the two affixes are called *gha*; with *rathi+tara* where *gha* follows, the *ī* arises as a final substitute. Here if one were to state the *ī* as the *antādeśa* as an exception to the *nalopa*, there would be economy; but since the *ī*-substitution is enjoined in the *asiddha* section, if it were enjoined in place of the *n* the single-substitute (*ekādeśa*) in the form of *savarṇadīrgha* could not arise again; so one must say that after the *nalopa* the *ī* is the final substitute for the *i*. Here the short vowel is heard at the Pada stage, since at the *avagraha* the Vedic shortening alone is accepted.
+- **यच्छसे** — the root *yamu uparame*, *parasmaipadī*, *bhvādi*; by "vyatyayo bahulam" (Pā. Sū. 3-1-85) by *vyatyaya* the *ātmanepada* affix arises; with *śap* following, by "iṣugamiyamāṃ chaḥ" (Pā. Sū. 7-3-77) *cha* is the final substitute. Or the root is *dāṅ dāne*, for which, by "pāghrā…", *yaccha* arises as the substitute; this too being *parasmaipadī*, the *ātmanepada* is to be explained by *vyatyaya* only. In the *loṭ* [*laṭ*] second person singular the form is as stated.
+- **स्वश्वः** — *śobhanau aśvau yasya saḥ svaśvaḥ* ('one who has two good horses'): a *bahuvrīhi* compound. By "nañsubhyām" (Pā. Sū. 6-2-172) the final-udātta of the word *aśva* following *su* would be obtained; but "ādyudāttaṃ dvyacchandasi" (Pā. Sū. 6-1-119) — a two-syllabled word with initial udātta remains initial-udātta in the Veda after *su* — so here the accent of the final member (initial-udātta) is retained. By "aśūprūṣiśliṣikaṇikhaṭikaṭipaṭibhyaḥ kvan" [as read: "āśūpruṣi…", Uṇ. Sū. 1-[149] [?]] the word *aśva*, being *kvan*-ending, has initial-udātta by *nit*-accent; being two-syllabled, and *su* being the preceding member, the initial-udātta is heard.
+- **आनशे** — the root *aśū vyāptau*, *svādi*, *anudātteṭ*; *liṭ*, third person singular; when *vivakṣā* is made for the *ātmanepada*, the affix *ta*; by "liṭas tajhayor eśirec" (Pā. Sū. 3-4-81) the substitute *eś* for *ta* … *(continues on p. 97)*
+
+### Page 97 (PDF 112)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "7 … VOLUME 7" at the foot.)*
+
+*Grammar of Rik 84.6, concluded:*
+
+- **आनशे** (concluded) — "…*eś* arises; with *liṭ* as the cause, doubling of the root; with a *hal*-remnant: *a+aś+e*. By "ata ādeḥ" (Pā. Sū. 7-4-70) the initial *a* of the reduplicative is lengthened; where "ato guṇe" would obtain the single following form, this sūtra is begun as an exception to it. When the reduplicative is lengthened, by "aśnoteś ca" [as read: "aśnoter…", Pā. Sū. 7-4-72] the root *aś*, with a long-vowel reduplicative, takes the augment *nuṭ*; with the augment at the beginning of the root, the form *ānaśe* arises." ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.7** *(the first of the three Uṣṇih Ṛks, 7–9)*
+
+> य एक इद्विदयते वसु मर्ताय दाशुषे ।
+> ईशानो अप्रतिष्कुत इन्द्रो अङ्ग ॥ ७ ॥
+
+*ya eka id vidayate vasu martāya dāśuṣe |
+īśāno apratiṣkuta indro aṅga ||7||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यः । एकः । इत् । विऽदयते । वसु । मर्ताय । दाशुषे ।
+> ईशानः । अप्रतिऽस्कुतः । इन्द्रः । अङ्ग ॥ ७ ॥
+
+*yaḥ | ekaḥ | it | vi-dayate | vasu | martāya | dāśuṣe | īśānaḥ | apratiskutaḥ | indraḥ | aṅga ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's application note to Rik 84.7** *(Sanskrit in Kannada script)*
+
+> अभिप्लविकेषूक्थ्येषु तृतीयसवने ब्राह्मणाच्छंसिनो य एक इद्विदयत इति वैकल्पिकः स्तोत्रियस्तृचः । ऐह्यूषु इति खण्डे सूत्रितं । सखाय आशिषामहि य एक इद्विदयते । आ. ७-८ [?] इति ॥ महाव्रतेऽपि निष्केवल्य उष्णिहश्चाशीतावयं तृचो विनियुक्तः । तथैव पञ्चमारण्यके सूत्र्यते । य एक इद्विदयत आ योहादिभिः सुतं । ऐ. ब्रा. ३-३-३ [?] इति ॥
+
+*abhiplavikeṣūkthyeṣu tṛtīyasavane brāhmaṇācchaṃsino ya eka id vidayata iti vaikalpikaḥ stotriyas tṛcaḥ | aihyūṣv iti khaṇḍe sūtritaṃ | sakhāya āśiṣāmahi ya eka id vidayate | Āś. 7-8 [?] iti || mahāvrate 'pi niṣkevalya uṣṇihaś cāśītāvayaṃ tṛco viniyuktaḥ | tathaiva pañcamāraṇyake sūtryate | ya eka id vidayata ā yohādibhiḥ sutaṃ | Ai. Brā. 3-3-3 [?] iti ||*
+
+*Sense:* "In the *Abhiplava* *ukthya* rites, at the third pressing, the triad beginning *ya eka id vidayate* is an optional *stotriya* of the *Brāhmaṇācchaṃsin*; in the section *aihyūṣu* it is stated: '*sakhāya āśiṣāmahi ya eka id vidayate*' (Āś. 7-8 [?]). In the *Mahāvrata* too, in the *Niṣkevalya*, this triad in the Uṣṇih metre (…) is applied; likewise in the fifth Āraṇyaka it is stated: '*ya eka id vidayata ā yoh…*' (…)" *(the last words are read with doubt [?])*.
+
+### Page 98 (PDF 113)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.7** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> य इन्द्र एक इत् एक एव दाशुषे हविर्दत्तवते मर्ताय मनुष्याय यजमानाय वसु धनं विदयते विशेषेण ददाति । अङ्गेति क्षिप्रनाम । अप्रतिष्कुतः सर्वैरप्रतिशब्दितः । प्रतिकूलशब्दरहित इत्यर्थः । एवंभूतः स इन्द्रः क्षिप्रमीशानः सर्वस्य जगतः स्वामी भवति ॥ विदयते । दय दानगतिरक्षणहिंसादानेषु । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । यद्वृत्तयोगादनिघातः । अप्रतिष्कुतः । कु शब्दे । प्रतिकूलं कूयते शब्द्यते इति प्रतिष्कुतः । पारस्करादेराकृतिगणत्वात् सुट् । सुषामादित्वात् षत्वम् । नञ्सुभ्यामित्याद्यव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥ ७ ॥
+
+*ya indra eka it eka eva dāśuṣe havir dattavate martāya manuṣyāya yajamānāya vasu dhanaṃ vidayate viśeṣeṇa dadāti | aṅgeti kṣipranāma | apratiṣkutaḥ sarvair apratiśabditaḥ | pratikūlaśabdarahita ity arthaḥ | evaṃbhūtaḥ sa indraḥ kṣipram īśānaḥ sarvasya jagataḥ svāmī bhavati || vidayate | daya dānagatirakṣaṇahiṃsādāneṣu | śapaḥ pittvād anudāttatvam | tiṅaś ca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | yadvṛttayogād anighātaḥ | apratiṣkutaḥ | ku śabde | pratikūlaṃ kūyate śabdyate iti pratiṣkutaḥ | pāraskarādar ākṛtigaṇatvāt suṭ | suṣāmādittvāt ṣatvam | nañsubhyām ity ādy avyayapūrvapadaprakṛtisvaratvam || 7 ||*
+
+*Sense:* "That Indra who alone (*eka it*) gives specially (*vidayate* = *viśeṣeṇa dadāti*) wealth (*vasu*) to the mortal (*martāya*), the sacrificer, who gives (*dāśuṣe*) oblations; *aṅga* is a name for 'quickly'. *Apratiṣkutaḥ* — not contradicted (not made a counter-sound) by anyone: free from adverse sound. Such an Indra, quickly *īśānaḥ*, becomes the lord of the whole world." *The grammatical tail:* *vidayate* — the root *daya dānagatirakṣaṇahiṃsādāneṣu*; the root-accent remains; no nighāta because of connection with *yat*; *apratiṣkutaḥ* — the root *ku śabde*; 'what is made to sound against' is *pratiṣkuta*; the augment *suṭ* by the *ākṛtigaṇa* of *pāraskara*…; *ṣatva* because it is in the *suṣāmādi* group; the accent of the first member of the compound, an indeclinable."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.7** *(Kannada)*
+
+- **यः** — "which Indra"
+- **एक इत्** — "alone"
+- **दाशुषे** — "to the one who offers oblations"
+- **मर्ताय** — "the man"
+- **वसु** — "wealth"
+- **विदयते** — "(gives specially)"
+- **(सः)** — "such"
+- **अप्रतिष्कुतः** — "(who is) without opposing words"
+- **इन्द्रः** — "Indra"
+- **अङ्ग** — "quickly"
+- **ईशानः** — "becomes the lord (of the whole world)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.7** *(Kannada)*
+
+"He who specially favours with wealth the man who offers oblations — he is none other than Indra, who has no opposing word and is the lord of the whole world. This is certain."
+
+**English Translation** *(printed in English in the source)*
+
+"He who alone quickly bestows wealth upon the man who offers him oblations is the undisputed sovereign Indra." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.7)**
+
+"In the sacrifice called *Abhiplavaṣaḍaha*, in the third-pressing rite, the *Brāhmaṇācchaṃsin* may optionally use the three Ṛks beginning *ya eka id vidayate* as stotra-mantras; this is explained in the Āśvalāyana Śrauta-sūtra in the section *aihyūṣu* by the sūtra '*sakhāya āśiṣāmahi ya eka id vidayate*' (Āś. [7-8] [?]). In the *Mahāvrata* also, at the time of reciting the *niṣkevalya-śastra* mantras, these three Ṛks are to be recited as mantras of the Uṣṇih metre; this is indicated in the fifth Āraṇyaka of the Aitareya Āraṇyaka by the sentence '*ya eka id vidayata āyohādribhiḥ*' (Ai. Ā. [5]-[?]-[?] [?])."
+
+---
+
+**Progress note:** Printed pp. 1–98 done (PDF 16–113) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.6 complete** (grammar of 84.6 on pp. 95–97); **Rik 84.7** (first Uṣṇih Ṛk) — Saṃhitā, Pada, application note (p. 97), bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics (p. 98) done; its grammar page not yet seen. Next: printed p. 99 (PDF 114). Thirteen Ṛks (84.8–84.20) remain after 84.7. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
