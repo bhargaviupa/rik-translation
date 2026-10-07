@@ -536,4 +536,72 @@ na tvāvāṁ indra kaś cana na jāto na janiṣyate 'ti viśvaṃ vavakṣitha
 
 ---
 
-**Progress note:** Printed pp. 1–18 done (PDF 16–33) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.4 complete** (grammar of 81.4 on pp. 15–16); **Rik 81.5** — Saṃhitā, Pada (p. 16), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 17), Special Topics and the first part of the grammar page (p. 18) done; the grammar page continues on p. 19 (PDF 34). Next: printed p. 19 (PDF 34). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print).
+### Page 19 (PDF 34)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 81.5, continued from p. 18 (grammar page, noted briefly):*
+
+- **बद्बधे** — the root *badha bandhane*, *bhvādi*; *liṭ*, ātmanepada, third person singular; when *liṭ* follows, reduplication of the root: *badh+badh+e*; by "halādiḥ śeṣaḥ" (Pā. Sū. 7-4-60) of the reduplicative only the initial consonant should remain; but since by "vyatyayo bahulam" (Pā. Sū. 3-1-85) *vyatyaya* is accepted in the Veda — and as said before, all operations being optional by *yogavibhāga* — the remnant-rule did not operate here; for the *dh* of the reduplicative, by "jhalāṃ jaś jhaśi" (Pā. Sū. 8-4-53) *jastva* gives *d*. By "ata ekahalmadhye 'nādeśāder liṭi" (अत एकहल्मध्येऽनादेशादेर्लिटि, Pā. Sū. 6-4-120), when *liṭ* is the cause, and no substitution has operated at the beginning, a root-vowel *a* between a single consonant on each side takes *e* and the reduplicative is dropped; since here the *a* of the root stands between a conjunct (*dh*-groups), the *e* and the loss of the reduplicative are not to be had. By "anudāttaṃ sarvam apādādau" (Pā. Sū. 8-1-18), since the word stands at the beginning of the pāda, the nighāta arises not; the print mentions that the prohibition of nighāta is there.
+- **त्वावान्** — by "tad asyāsty asmin" (Pā. Sū. 5-2-94) the affix *matup* in the sense 'this has it' or 'it is in this'; but by the *vārttika* "matup-prakaraṇe yuṣmadasmadbhyāṃ chandasi sādṛśya upasaṅkhyānam" the affix *matup* comes in the Veda after *yuṣmad*, *asmad* in the sense of likeness also. When *matup* is added to *yuṣmad* here, the word *yuṣmad* up to *m* [*ma-paryanta*] is replaced by *tva*, by "pratyayottarapadayoś ca" (Pā. Sū. 7-2-98); *tva+ad+mat*; by "śeṣe lopaḥ" (Pā. Sū. 7-2-90) the remainder after *tva* is dropped; by "mādupadhāyāś ca matorvo 'yavādibhyaḥ" (Pā. Sū. 8-2-9) the *m* of *matup* becomes *v* after a stem with *m* or *a* penultimate that is not *yava* etc.; by "ā sarvanāmnaḥ" (Pā. Sū. 6-3-91) the final of a pronoun before *dṛk, dṛś, vatup* is lengthened to *ā*, so *tvā* here; with *u* in the affix, the augment *num* arises for the case-ending of the *sarvanāmasthāna*; by "atvasantasya cādhātoḥ" (Pā. Sū. 6-4-14) the penultimate is lengthened; *tvāvān+t+s*: by "hal-ṅyābbhyo…" (Pā. Sū. 6-1-68) the *su* is dropped, then the final *t* by *saṃyogāntalopa* (which is *asiddha* in the *kāṇḍa*, so *nalopa* by "nalopaḥ prātipadikāntasya", Pā. Sū. 8-2-7, does not arise).
+
+### Page 20 (PDF 35)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Grammar of Rik 81.5, concluded:*
+
+- **ववक्षिथ** — the root *vaha prāpaṇe*, *bhvādi*; the *san* affix in the sense of desire; when *san* follows, by "sanyaṅoḥ" (Pā. Sū. 6-1-9) reduplication of the root; of the reduplicative only the initial remains; by "sani" (Pā. Sū. 7-4-79) the *a* of the reduplicative takes *i* — though that is obtained here too, by the *yogavibhāga* "vā chandasi" and following the dictum "sarve vidhayaś chandasi vikalpyante" the *i*-substitution is not made here; for *vah+sa*, by "ho ḍhaḥ" (Pā. Sū. 8-2-31) *h* becomes *ḍh*; by "ṣaḍhoḥ kaḥ si" (Pā. Sū. 8-2-41) the *ḍh* becomes *k* before *s*; since the affix is *san*, the *s* after *k* becomes *ṣ*, and *k+ṣ* make *kṣ*. As *vavakṣa* ends in *san*, by "sanādyantā dhātavaḥ" (Pā. Sū. 3-1-32) it has the root-designation; for the *liṭ*, second person singular, the root, having many syllables, would take *ām* by "kāspratyayād ām amantre liṭi" (Pā. Sū. 3-1-35); but the exclusion *amantre* in the sūtra bars the *ām* in the Veda; when *liṭ* follows, reduplication would arise again, but "anabhyāsasya" (Pā. Sū. 6-1-8) prohibits it; for *sip* the substitute *thal*; since it is *ārdhadhātuka* with a *val*-initial, the augment *iṭ* would come to *tha*; the *a* of *san* is dropped by "ato lopaḥ" (Pā. Sū. 6-4-48). ||5||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.6**
+
+> यो अर्यो मर्तभोजनं पराददाति दाशुषे ।
+> इन्द्रो अस्मभ्यं शिक्षतु वि भजा भूरि ते वसु भक्षीय तव राधसः ॥ ६ ॥
+
+*yo aryo martabhojanaṃ parādadāti dāśuṣe |
+indro asmabhyaṃ śikṣatu vi bhajā bhūri te vasu bhakṣīya tava rādhasaḥ ||6||*
+
+### Page 21 (PDF 36)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यः । अर्यः । मर्तऽभोजनम् । पराऽददाति । दाशुषे ।
+> इन्द्रः । अस्मभ्यम् । शिक्षतु । वि । भज । भूरि । ते । वसु । भक्षीय ।
+> तव । राधसः ॥ ६ ॥
+
+*yaḥ | aryaḥ | marta-bhojanam | parā-dadāti | dāśuṣe | indraḥ | asmabhyam | śikṣatu | vi | bhaja | bhūri | te | vasu | bhakṣīya | tava | rādhasaḥ ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अर्यः स्वामी पालयिता य इन्द्रो मर्तभोजनं सर्वैर्मनुष्यैरुपभोज्यमन्नं दाशुषे चरुपुरोडाशादीनि दत्तवते यजमानाय पराददाति प्रयच्छति स इन्द्रोऽस्मभ्यं शिक्षतु । तादृशमन्नं ददातु । अवशिष्टपादद्वयं प्रत्यक्षकृतम् । हे इन्द्र अस्मभ्यं दातुं धनं वि भज । विभक्तं कुरु । यतस्ते तव वसु धनं भूरि बहुलमसंख्यातम् अतस्तव राधसो धनस्यैकदेशं भक्षीय । भजेय । प्राप्नुयाम् ॥ पराददाति । अभ्यस्तानामादिरित्याद्युदात्तत्वम् । तिङ चोदात्तवतीति गतेरनुदात्तत्वम् । दाशुषे । दाश्र दाने । दाश्वान् साह्वानिति क्वसुप्रत्ययोऽन्तो निपात्यते । चतुर्थ्येकवचने वसोः संप्रसारणमिति संप्रसारणम् । शासिवसिघसीनां चेति षत्वम् । भक्षीय । भज सेवायाम् । प्रार्थनायां लिङ् । तस्य छन्दस्युभयथेत्यार्धधातुकत्वाच्चछ्बभावः । सलोपाभावश्च । एकाच इतीट्प्रतिषेधः । आगमानुदात्तत्वे प्रत्ययस्वर एव शिष्यते । पूर्वपदस्यासमानवाक्यगतत्वान्निघाताभावः । समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्या इति वचनात् ॥ ६ ॥
+
+*aryaḥ svāmī pālayitā ya indro martabhojanaṃ sarvair manuṣyair upabhojyam annaṃ dāśuṣe carupuroḍāśādīni dattavate yajamānāya parādadāti prayacchati sa indro 'smabhyaṃ śikṣatu | tādṛśam annaṃ dadātu | avaśiṣṭapādadvayaṃ pratyakṣakṛtam | he indra asmabhyaṃ dātuṃ dhanaṃ vi bhaja | vibhaktaṃ kuru | yatas te tava vasu dhanaṃ bhūri bahulam asaṃkhyātam atas tava rādhaso dhanasyaikadeśaṃ bhakṣīya | bhajeya | prāpnuyām || parādadāti | abhyastānām ādir ity ādyudāttatvam | tiṅ codāttavatīti gater anudāttatvam | dāśuṣe | dāśra dāne | dāśvān sāhvān iti kvasupratyayo 'ntau nipātyate | caturthyekavacane vasoḥ saṃprasāraṇam iti saṃprasāraṇam | śāsivasighasīnāṃ ceti ṣatvam | bhakṣīya | bhaja sevāyām | prārthanāyāṃ liṅ | tasya chandasy ubhayathety ārdhadhātukatvāc chabhāvaḥ | salopābhāvaś ca | ekāca itīṭpratiṣedhaḥ | āgamānudāttatve pratyayasvara eva śiṣyate | pūrvapadasyāsamānavākyagatatvān nighātābhāvaḥ | samānavākye nighātayuṣmadasmadādeśā vaktavyā iti vacanāt || 6 ||*
+
+*Sense:* "*Aryaḥ* — the lord, the protector: that Indra who gives (*parādadāti* = *prayacchati*) *martabhojanam* — food that all men may eat — to the *dāśvān*, the sacrificer who has offered the *caru*, *puroḍāśa* and the like: may that Indra bestow (*śikṣatu*) such food on us. (The remaining two pādas are addressed directly:) O Indra, *vi bhaja* — apportion wealth to us, to give it; since your *vasu*, wealth, is *bhūri* — abundant, countless — therefore may I obtain (*bhakṣīya* = *bhajeya*, *prāpnuyām*) a portion of your *rādhas*, your wealth." *The grammatical tail* (characterized, not transcribed in full): *parādadāti* — initial udātta by "abhyastānām ādiḥ"; the *gati* anudātta by "tiṅ codāttavati"; *dāśuṣe* — the root *dāśṛ dāne*, the *kvasu* affix irregular (*nipātana*) as in *dāśvān*; *saṃprasāraṇa* of *vasu* in the fourth case; *ṣatva*; *bhakṣīya* — the root *bhaja sevāyām*, the benedictive *liṅ*, with *śap* not arising; no *iṭ*; the nighāta does not arise because the first member is not in the same sentence.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.6** *(Kannada)*
+
+- **अर्यः** — "the protector"
+- **यः इन्द्रः** — "that Indra who"
+- **मर्तभोजनम्** — "the food that men enjoy"
+- **दाशुषे** — "to the sacrificer who offers oblations"
+- **पराददाति** — "gives"
+- **इन्द्रः** — "that Indra"
+- **अस्मभ्यम्** — "to us"
+- **शिक्षतु** — "may give (that food)"
+- **(हे इन्द्र)** — "O Indra"
+- **वि भज** — "divide (your wealth) and apportion"
+- **ते** — "your"
+- **वसु** — "wealth"
+- **भूरि** — "is abundant (therefore)"
+- **तव** — "your"
+- **राधसः** — "of wealth, one portion"
+- **भक्षीय** — "may I also obtain."
+
+---
+
+**Progress note:** Printed pp. 1–21 done (PDF 16–36) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.5 complete** (grammar of 81.5 on pp. 18–20); **Rik 81.6** — Saṃhitā (p. 20), Pada, bhāṣya and Pratipadārtha (p. 21) done; its Bhāvārtha, English, Special Topics and grammar not yet seen. Next: printed p. 22 (PDF 37). Three Ṛks (81.7–81.9) remain after 81.6, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print).
