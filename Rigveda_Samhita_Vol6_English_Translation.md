@@ -12383,4 +12383,90 @@ viśvāsu pṛtsu dustaram ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–551 done (PDF 19–569): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.7 complete** (grammar of 79.7 on p. 549); **Rik 79.8** — Saṃhitā, Pada (p. 549), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 550–551) done; the grammar page of 79.8 is begun on p. 551 (*bhara*, *satrāsāham*) and continues on p. 552 (PDF 570). Next: p. 552 (PDF 570). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 552 (PDF 570)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Grammar of Rik 79.8, continued from p. 551 (grammar page, noted briefly):*
+
+- **वरेण्यम्** — the root *vṛñ varaṇe* (वृञ् वरणे); "vṛñ eṇyaḥ" (Uṇ. Sū. 3-[96?] [?]) gives the affix *eṇya*; the guṇa of the *ik* of the root because of it by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84); the form *vareṇya*; second-case singular.
+- **पृत्सु** — the stem *pṛtanā*; with the seventh-case plural *su* following, by the vārttika "māṃsa-pṛtanā-sānūnāṃ māṃs-pṛt-snavaḥ śasādau vā vācyāḥ" (मांसपृतनास्नानूनां मांस्पृत्स्नवः शसादौ वा वाच्याः) the substitute *pṛt*; by "sāvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168) — since the stem is of one syllable — the case-ending following takes the udātta accent.
+- **दुस्तरम्** — *duḥkhena kartuṃ śakyaṃ dustaram*: the root *tṝ plavanataraṇayoḥ* (तॄ प्लवनतरणयोः); the upapada *duḥ*; since the sense 'with difficulty' is present, by "īṣad-duḥ-suṣu kṛcchrākṛcchrārtheṣu khal" (ईषद्दुःसुषु कृच्छ्राकृच्छ्रार्थेषु खल्, Pā. Sū. 3-3-126) the affix *khal*; the guṇa of the *ik* of the root because of the *n*-mark; "liti" (लिति, Pā. Sū. 6-1-193) gives the udātta on the syllable before the affix. ||8||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.9**
+
+> आ नो अग्ने सुचेतुना रयिं विश्वायुपोषसम् ।
+> मार्डीकं धेहि जीवसे ॥ ९ ॥
+
+*ā no agne sucetunā rayiṃ viśvāyupoṣasam |
+mārḍīkaṃ dhehi jīvase ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । नः । अग्ने । सुऽचेतुना । रयिम् । विश्वायुऽपोषसम् ।
+> मार्डीकम् । धेहि । जीवसे ॥ ९ ॥
+
+*ā | naḥ | agne | su-cetunā | rayim | viśvāyu-poṣasam | mārḍīkam | dhehi | jīvase ||9||*
+
+### Page 553 (PDF 571)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.9** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> आयुष्कामेष्ट्यां प्रथमस्याज्यभागस्यानुवाक्या आ नो अग्न इति । सूत्रितं च । आयुष्कामेष्ट्यां जीवातुमन्तावा नो अग्ने सुचेतुना । आ. २-१० [?] इति ॥ महापितृयज्ञेऽप्येवं प्रथमाज्यभागानुवाक्या । सूत्रितं च । जीवातुमन्तौ सव्योत्तरैर्यः पसस्थाः [?] । आ. २-१९ [?] इति ॥
+>
+> हे अग्ने नोऽस्माकं जीवसे जीवनाय सुचेतुना शोभनेन ज्ञानेन युक्तं रयिं धनमा धेहि । आस्थापय । कीदृशम् । मार्डीकं मृडीकं सुखम् । तद्धेतुभूतम् । विश्वायुपोषसं सर्वस्मिन्नायुषि देहादेः पोषकम् । यावज्जीवमस्मदुपभोगपर्याप्तमित्यर्थः ॥ सुचेतुना । चिती संज्ञाने । औणादिक उप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । विश्वायुपोषसम् । विश्वमायुर्यस्मिन् शरीरादौ तद् विश्वायुः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वम् । तत्पुष्णातीति विश्वायुपोषाः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारलोपश्छान्दसः । दीर्घायुत्वाय वर्चसे इति यथा ॥
+
+*āyuṣkāmeṣṭyāṃ prathamasyājyabhāgasyānuvākyā ā no agna iti | sūtritaṃ ca | āyuṣkāmeṣṭyāṃ jīvātumantāvā no agne sucetunā | Āś. 2-10 [?] iti || mahāpitṛyajñe 'py evaṃ prathamājyabhāgānuvākyā | sūtritaṃ ca | jīvātumantau savyottarair yaḥ pasasthāḥ [?] | Āś. 2-19 [?] iti ||*
+
+*he agne no 'smākaṃ jīvase jīvanāya sucetunā śobhanena jñānena yuktaṃ rayiṃ dhanam ā dhehi | āsthāpaya | kīdṛśam | mārḍīkaṃ mṛḍīkaṃ sukham | taddhetubhūtam | viśvāyupoṣasaṃ sarvasmin nāyuṣi dehādeḥ poṣakam | yāvajjīvam asmad-upabhogaparyāptam ity arthaḥ || sucetunā | citī saṃjñāne | auṇādika u-pratyayaḥ | kṛduttarapadaprakṛtisvaratvam | viśvāyupoṣasam | viśvam āyur yasmin śarīrādau tad viśvāyuḥ | bahuvrīhau viśvaṃ saṃjñāyām iti pūrvapadāntodāttatvam | tat puṣṇātīti viśvāyupoṣāḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ cety asun pūrvapadaprakṛtisvaratvaṃ ca | sakāralopaś chāndasaḥ | dīrghāyutvāya varcase iti yathā ||*
+
+*Sense:* "In the *Āyuṣkāmeṣṭi* (the sacrifice for long life), *ā no agne* is the *anuvākyā* of the first *ājyabhāga*. So it is stated in the sūtra: 'In the *āyuṣkāmeṣṭi* — *jīvātumantā, ā no agne sucetunā*' (Āśv. 2-10 [?]). Likewise in the *Mahāpitṛyajña* it is the *anuvākyā* of the first *ājyabhāga*; so it is stated: '*jīvātumantau savyottarair yaḥ pasasthāḥ*' [the sūtra is read with doubt] (Āśv. 2-19 [?]). — O Agni, give, establish (*ā dhehi*), to us, for our life (*jīvase* = *jīvanāya*), wealth endowed with good understanding (*sucetunā* = *śobhanena jñānena*); of what kind? *mārḍīkam* = *mṛḍīkam*, bringing happiness; *viśvāyupoṣasam* = nourishing the body and the like throughout one's life — the sense: sufficient for our enjoyment as long as we live." *The grammatical tail:* *sucetunā* — the root *citī saṃjñāne*, the Uṇādi affix *u*; the accent of the final member of a *kṛt*-compound; *viśvāyupoṣasam* — *viśva-āyuḥ* 'that in which the whole life (body, etc.)' is a *bahuvrīhi*; by the rule "bahuvrīhau viśvaṃ saṃjñāyām" the first member is udātta on its last syllable; 'he who nourishes that' is *viśvāyupoṣāḥ*; the *asun* affix, with the first member keeping its accent, even for *gati* and *kāraka* members; the loss of the *s* (of *āyus*) is Vedic, as in *dīrghāyutvāya varcase*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.9** *(Kannada)*
+
+- **अग्ने** — "O Agni!"
+- **नः** — "to us"
+- **जीवसे** — "for life"
+- **सुचेतुना** — "endowed with good knowledge"
+- **मार्डीकम्** — "that which brings happiness"
+- **विश्वायुपोषसम्** — "(that wealth) which nourishes (the body, etc.) up to the end of life"
+- **रयिम्** — "wealth"
+- **आ धेहि** — "place well (give)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.9** *(Kannada)*
+
+"O Agni, for our life, establish (firmly) wealth, with good knowledge, bringing happiness, and nourishing (our bodies and so on) to the end of life."
+
+**English Translation** *(printed in English in the source)*
+
+"Grant us, Agni, for our livelihood, wealth with sound understanding, conferring happiness, and sustaining (us) through life." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.9)**
+
+"In the *Āyuṣkāmeṣṭi*, when the first of the two oblations called *ājyabhāga* is offered, this Ṛk *ā no agne* is used as the *purorūvākyā* [sic: the print reads *puroनुवाक्या*, i.e. *puro-'nuvākyā*] mantra" *(the sentence runs over to the next page and is split where the print splits it)*
+
+### Page 554 (PDF 572)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics of Rik 79.9, continued from p. 553:*
+
+"…as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*āyuṣkāmeṣṭyāṃ jīvātumantāvā no agne sucetunā*' (Āśv. 2-[10] [?]); and in the *Mahāpitṛyajña* also this Ṛk is directed to be used as the *purorūvākyā* mantra [sic: *purono-vākyā* as printed] of the first *ājyabhāga* oblation, as is stated by the Āśvalāyana Śrauta-sūtra in the sūtra '*jīvātumantaḥ savyottarair yaḥ pasasthāḥ*' [as read, doubtful] (Āśv. 2-[19] [?])."
+
+- **सुचेतुना** — *citī saṃjñāne* — "*śobhanena jñānena yuktam* (rayim): wealth endowed with good knowledge — that is, the prayer is that both the best knowledge and wealth should be given together."
+- **विश्वायुपोषसम्** — *viśvam āyur yasmin śarīrādau tad viśvāyuḥ* — "in all the life (*āyus*), nourishing the body and the rest: *yāvajjīvam asmad upabhogaparyāptam*: 'wealth sufficient for our enjoyment as long as we live'. The meaning is: wealth that serves as the means of our happiness as long as we live. For the nourishment of the body and the like it is possible only when there is wealth; so for a long life wealth is exceedingly necessary."
+- **मार्डीकम्** — *mṛḍa sukhane* — "*mṛḍīkaṃ sukham* — *taddhetubhūtam*, the cause of happiness. That happiness is obtained from wealth is a matter of common knowledge."
+- **धेहि** — *āsthāpaya* — "establish, or give."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.9)** *(grammar page, noted briefly; begins on this page)*
+
+- **सुचेतुना** — the root *citī saṃjñāne* (चिती संज्ञाने); the Uṇādi affix *u*; the guṇa of the penultimate light vowel because of the affix by "pugantalaghūpadhasya ca" (पुगन्तलघूपधस्य च, Pā. Sū. 7-3-86); with *su* (a *gati*-like prefix) in the compound, by "gatikārakopapadāt kṛt" the accent of the final member of the *kṛt*-compound arises. Third-case singular.
+- **विश्वायुपोषसम्** — *viśvam āyur yasmin śarīrādau tat* = *viśvāyu*; a *bahuvrīhi* compound; by "bahuvrīhau viśvaṃ saṃjñāyām" (बहुव्रीहौ विश्वं संज्ञायाम्) the udātta falls on the last syllable of the first member, displacing its natural accent; 'he who nourishes that' = *viśvāyupoṣāḥ*, the root *puṣa puṣṭau* (पुष पुष्टौ); by "gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca" (Pā. Sū. 6-2-[139]?) the affix *asun*; by this the accent of the first member remains too; the loss of the *s* of the word *āyus* is Vedic (*chāndasa*), and *viśvāyupoṣas* results. Second-case singular. "In such a case the loss of the *s* is natural; in *dīrghāyutvāya varcase* and many other places examples are found." *(The grammar page does not end here: its remaining entries are on p. 555.)*
+
+---
+
+**Progress note:** Printed pp. 1–554 done (PDF 19–572): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.8 complete** (grammar of 79.8 ends on p. 552); **Rik 79.9** — Saṃhitā, Pada (p. 552), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 553), Special Topics (pp. 553–554, split where the print splits them) done; the grammar page of 79.9 is begun on p. 554 (*sucetunā*, *viśvāyupoṣasam*) and, if the print goes on, continues on p. 555 (PDF 573). Next: p. 555 (PDF 573). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546, 551; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Āśvalāyana sūtra text for the Mahāpitṛyajña on pp. 553–554 given as read [?].
