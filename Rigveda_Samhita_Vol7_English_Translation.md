@@ -3333,4 +3333,94 @@ tad vidac charyaṇāvati ||14||*
 
 ---
 
-**Progress note:** Printed pp. 1–119 done (PDF 16–134) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.13 complete** (grammar of 84.13 pp. 116–117); **Rik 84.14** — Saṃhitā, Pada (p. 117), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (p. 118–119, including the Śaryaṇāvat note) and the first part of its grammar page (p. 119) done; the grammar page continues on p. 120 (PDF 135). Next: printed p. 120 (PDF 135). Six Ṛks (84.15–84.20) remain after 84.14. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 (p. 114) transcribed only in part; Ṛgveda reference numerals on p. 119.
+### Page 120 (PDF 135)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Grammar of Rik 84.14, concluded (grammar page, noted briefly):*
+
+- **शर्यणावति** — "*Śaryaṇā* is the name of a region. The lake not far from the *śaryaṇās* is *śaryaṇāvat*. Since the word *śaryaṇa* is read in the *madhvādi* group, by "madhvādibhyaś ca" (Pā. Sū. 4-2-86) the affix *matup* arises in the fourth (*cāturarthika*) sense as an exception to *aṇ*. Since it is a name (*saṃjñā*), by "saṃjñāyām" (Pā. Sū. 8-2-11) *va* is the substitute for the *m* of *matup*; with *śaryaṇāvat* standing, by "matau bahvaco 'nacirādīnām" (Pā. Sū. 6-3-119) the first member is lengthened when *matup* follows. In the seventh-case singular of the word *śaryaṇāvat* the form *śaryaṇāvati* arises." ||14||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.15** *(the last of the three Gāyatrī Ṛks)*
+
+> अत्राह गोरमन्वत नाम त्वष्टुरपीच्यम् ।
+> इत्था चन्द्रमसो गृहे ॥ १५ ॥
+
+*atrāha gor amanvata nāma tvaṣṭur apīcyam |
+itthā candramaso gṛhe ||15||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अत्र । अह । गोः । अमन्वत । नाम । त्वष्टुः । अपीच्यम् ।
+> इत्था । चन्द्रमसः । गृहे ॥ १५ ॥
+
+*atra | aha | goḥ | amanvata | nāma | tvaṣṭuḥ | apīcyam | itthā | candramasaḥ | gṛhe ||15||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's application note to Rik 84.15** *(Sanskrit in Kannada script; the page foot)*
+
+> अतिमूर्तिनाम्न्येकाहे कर्तव्ये पूर्वमेवैकं मासं सौर्याचान्द्रमसीभ्यामिष्टिभ्यां यष्टव्यम् । तत्र पूर्वपक्षे चान्द्रमसेष्टिः । अत्राह गोरिति तस्यां
+
+*atimūrtināmny ekāhe kartavye pūrvam evaikaṃ māsaṃ sauryācāndramasībhyām iṣṭibhyāṃ yaṣṭavyam | tatra pūrvapakṣe cāndramaseṣṭiḥ | atrāha gor iti tasyāṃ* *(the sentence continues on p. 121)*
+
+### Page 121 (PDF 136)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.15** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> प्रधानस्यानुवाक्या । अतिमूर्तिनेति खण्डे सूत्रितं । अत्राह गोरमन्वत नवोनवो भवति जायमानः । आ. ९-८ [?] इति ॥
+>
+> अत्राहास्मिन्नेव गोर्गन्तुश्चन्द्रमसो गृहे मण्डले त्वष्टुर्दीप्तस्यादित्यस्य संबन्धि अपीच्यं रात्र्यावृतान्तर्हितं स्वकीयं यन्नाम तेजस्तदादित्यस्य रश्मय इत्येतेनेन प्रकारेणामन्वत । अजानन् । उदकमये स्वच्छे चन्द्रबिम्बे सूर्यकिरणाः प्रतिफलन्ति । तत्र प्रतिफलिताः किरणाः सूर्यो यो दृश्यतेऽपि संज्ञां लभन्ते ताद्दृशीं चन्द्रेऽपि वर्तमाना लभन्त इत्यर्थः । एतदुक्तं भवति । यद्रात्र्यावृतान्तर्हितं सौरं तेजस्तच्चन्द्रमण्डलं प्रविश्याहनीव नैशं तमो निवार्य सर्वं प्रकाशयति । ईदृग्भूतेतेजसा युक्तः सूर्यश्चन्द्र इव द्वादशस्वादित्येष्विन्द्रस्याप्ययं परिगणितत्वात् । अतोऽहोरात्रयोः प्रकाशक इन्द्र निवेतेन्द्रस्तुतेः प्रतीयमानत्वादिन्द्रो देवतात्वेतदुपपन्नं भवति । ईदृग्भूतस्य तेजस आश्रयत्वेन चन्द्रमसः प्राधान्य… [?] चान्द्रमसेष्टौ तदुपपद्यते । अत्र निरुक्तं । अथास्यैकोऽ रश्मिश्चन्द्रमसं प्रतिदीप्यते । तदेतेनोऽपेक्षितव्यमादित्यतोऽस्य दीप्तिर्भवतीति । सुषुम्नः सूर्यरश्मिश्चन्द्रमा गन्धर्व इत्यपि निगमो भवति । सोऽपि गौरुच्यते । अत्राह गोरमन्वतेति । नि. २-६ । अत्र ह गोः समुमुंसताऽदित्यरश्मयः स्वं नामापीच्यमपचितमुपगतमपिहितमन्तर्हितं वामुत्र चन्द्रमसो गृहे ॥ नि. ४-२३ [?] इति ॥ अमन्वत । मनु अवबोधने । आपीच्यम् । अपपूर्वाच्चिनोतेरपीकः ण्यादयश्च । उ. ४-१०१ [?] इति निपातनादीत् । अतं… [?] । यद्वा । अपिपूर्वादञ्चतेर्ऋत्विग्दधृगित्यादिना क्विन् । अनिदितामिति नलोपः । अपिगते निगते भवमपीच्यं । भवे छन्दसीति यत् । अचि इत्यैकारलोपे चावि दीर्घत्वम् । तित्स्वरितः । अपीच्योऽप्रकाश इति भट्टभास्करमिश्रः । इत्था । इदंशब्दात्थाहेतौ च । छन्दसीति प्रकारवचने थाप्रत्ययः । यदि शेत्रेदंशब्दो नानुवर्तते तदानीमिदमस्थमुः । पा. ५-३-२४ । इति थमुप्रत्ययः । अव्ययादाप्सुपः । पा. २-४-८२ । इति सुब्लुकं बाधितं । सुपां सुलुगिति डादेशः । चन्द्रमसः । चन्द्रमाह्लादनं मिमीते निर्मिमीत इति चन्द्रमाः । चन्द्रे मो डिट् । उ. ४-२२२ [?] । इत्यसिप्रत्ययः । दासीभारादिषु पठितत्वात्पूर्वपदप्रकृतिस्वरत्वं । पूर्वपदं च स्वायिति… [?] इत्यादिना रक्त्रैयान्तमन्तोदात्तं ॥ १५ ॥
+
+*(The bhāṣya on this page is dense and its second half is compressed; I give the Sanskrit as read, with the doubtful stretches marked [?], and the sense below.)*
+
+*pradhānasyānuvākyā | atimūrtineti khaṇḍe sūtritaṃ | atrāha gor amanvata navo-navo bhavati jāyamānaḥ | Āś. 9-8 [?] iti ||*
+
+*atrāhāsminn eva gor gantuś candramaso gṛhe maṇḍale tvaṣṭur dīptasyādityasya saṃbandhi apīcyaṃ rātryāvṛtāntarhitaṃ svakīyaṃ yan nāma tejas tad ādityasya raśmaya ity etenena prakāreṇāmanvata | ajānan | udakamaye svacche candrabimbe sūryakiraṇāḥ pratiphalanti | …*
+
+*Sense:* "It is the *anuvākyā* of the principal (offering). It is stated in the section *atimūrtinā*: '*atrāha gor amanvata navo-navo bhavati jāyamānaḥ*' (Āś. 9-8 [?]). — *Atra aha*: right here, in this very house (*gṛhe*), the orb of the moon (*candramasaḥ*), which goes (*goḥ* = *gantuḥ*): the *raśmayaḥ*, the rays of the sun, *amanvata* — perceived (*ajānan*) the *nāma*, the *tejas*, the radiance, of *tvaṣṭṛ* — of the shining sun — that is *apīcya*, hidden (*antarhita*), enveloped by night. The sun's rays are reflected (*pratiphalanti*) in the clear, water-like orb of the moon; the reflected rays obtain there, in the moon, the very name that the sun is seen to have. That is to say: the sun's radiance, hidden by night, enters the moon's orb and, dispelling the darkness of night as if it were day, illumines everything. Hence the Nirukta: '*One ray of his shines upon the moon; so the moon must be regarded as getting its light from the sun*'; and '*the sun's ray Suṣumna is the moon, a Gandharva*', says a Nigama; he too is called *go*: '*atrāha gor amanvateti*' (Ni. [2-6] [?]); the Nirukta explains *āpīcyam* as '*apacitam upagatam apihitam antarhitaṃ vā*' (Ni. [4-23] [?]) — 'gone away, approached, covered, hidden'." *The grammatical tail* (outlined): *amanvata* — *manu avabodhane*; *āpīcyam* — a *nipātana* with *ī*; or, from *apiañc* with *kvin*, 'being in what has gone in', with the affix *yat* in the Veda; *itthā* — the affix *thā* after *idam*, in the sense of manner; *candramasaḥ* — *candramāḥ* is 'the measurer (maker) of delight', the affix *asi* after *mā* with *candra*, with the accent of the first member."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.15** *(Kannada; runs to p. 122)*
+
+- **अत्र आह** — "right here"
+- **गोः** — "moving"
+- **चन्द्रमसः** — "of the moon"
+- **गृहे** — "in the orb"
+- **त्वष्टुः** — "of the shining sun"
+- **अपीच्यम्** — "hidden (during the night)"
+- **नाम** — "the radiance"
+- **इत्था** — "in this manner"
+- **अमन्वत** — "(they) perceived (the rays of the sun)."
+
+### Page 122 (PDF 137)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.15** *(Kannada)*
+
+"The rays of the sun saw in the orb of the moon, which moves right here, the radiance of the shining sun, hidden during the night."
+
+**English Translation** *(printed in English in the source)*
+
+"Thus did the solar rays perceive in this mansion of the travelling moon, the hidden light of the Sun." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.15)**
+
+"In the sacrifice called *Atimūrti*, which is performed on a single day, the *Saurya* and *Cāndramasa* offerings (*iṣṭi*) are to be performed for one month beforehand. When the *Cāndramasī iṣṭi* is first performed, this Ṛk *atrāha gor amanvata* is to be used as the *puronuvākyā* mantra; this is explained in the Āśvalāyana Śrauta-sūtra, in the section *atimūrtinā*, by the sūtra '*atrāha gor amanvata navo-navo bhavati jāyamānaḥ*' (Āś. [9-8] [?])."
+
+- **अत्र आह** — "right here, in this region."
+- **गोः** — *gantuḥ* — "of the moving (moon)."
+- **त्वष्टुः** — "of the shining sun; *tvaṣṭṛ* is also one of the names of the twelve Ādityas."
+- **आपीच्यम्** — *apigate nigate bhavam āpīcyam; āpīcyo 'prakāśa* (Bhaṭṭabhāskaramiśra) — "light that is without brightness. The sun's rays fall on the orb of the moon and are reflected; then those rays do not have the very bright light of the direct sun, but are with a common light. Yāska's explanation:
+
+> अत्र ह गोः समुमुंसताऽदित्यरश्मयः स्वं नामापीच्यमपचितमुपगतमपिहितमन्तर्हितं वामुत्र चन्द्रमसो गृहे ।
+
+*atra ha goḥ samumuṃsatādityaraśmayaḥ svaṃ nāmāpīcyam apacitam upagatam apihitam antarhitaṃ vāmutra candramaso gṛhe |* (Ni. [4-23] [?]) — *Gloss, mine and tentative (the print of this quotation is partly clotted [?]):* "Here, in the house of the moon, the rays of the sun [made themselves] their own name, *āpīcya* — gone, approached, covered, hidden."
+
+Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, antarhitam vā* ('gone away, covered, hidden'). The rays of the sun, issuing from the solar orb, enter the lunar orb and are hidden within it; that is, being inside, they are not seen by the eye; yet the light of those rays is seen by us as an ordinary, not exceedingly bright, light. *Āpīcyam* means *antarhitam* — 'hidden inside'."
+
+---
+
+**Progress note:** Printed pp. 1–122 done (PDF 16–137) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.14 complete** (the first two of the three Gāyatrī Ṛks, 13–14, done; grammar of 84.14 ends on p. 120); **Rik 84.15** (last Gāyatrī Ṛk; the moon and the sun's rays) — Saṃhitā, Pada, application note, bhāṣya (p. 121, dense; Sanskrit given as read with doubtful stretches), Pratipadārtha, Bhāvārtha, English and the first part of the Special Topics (p. 122) done; the rest of the Special Topics and the grammar page not yet seen. Next: printed p. 123 (PDF 138). Five Ṛks (84.16–84.20) remain after 84.15. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 (p. 114) transcribed only in part; the bhāṣya of 84.15 (p. 121) compressed, the Sanskrit read with doubt.
