@@ -3490,4 +3490,81 @@ Here Yāska explains the word *āpīcyam* as *apacitam, apagatam, apihitam, anta
 
 ---
 
-**Progress note:** Printed pp. 1–125 done (PDF 16–140) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.15 complete** (the three Gāyatrī Ṛks, 13–15, done; grammar of 84.15 on pp. 123–124); **Rik 84.16** (first Triṣṭubh Ṛk; a riddle-like Ṛk with two readings, Indra's horses or the Vedic mantras) — Saṃhitā (p. 124), Pada, application note and the bhāṣya as far as the foot of p. 125 done; the bhāṣya's grammatical tail continues on p. 126 (PDF 141). Next: printed p. 126 (PDF 141). Five Ṛks (84.16–84.20) remain; counting 84.16 as begun, four after it. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 126 (PDF 141)
+
+*(Running head: "126 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Conclusion of the grammatical tail of the bhāṣya of Rik 84.16, continued from p. 125 (the first words are the end of a word begun on p. 125, "…-tyayaḥ" as read). Sanskrit in Kannada script; numerals [?]; characterized, not every sūtra named:*
+
+> ...त्ययः । अतो लोपे सति वर्णव्यापत्त्या ईकारः । मृगय्वादिर्वा द्रष्टव्यः । आसन्निषून् । पद्दन्निम्नादिनास्यशब्दस्यासन्नादेशः । इषव इति गतावित्यस्मादिषेः किञ्च । उ. १-१४ [?] इत्यप्रत्ययः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । हृत्स्वसः । असु क्षेपणे । अस गतिदीप्त्यादानेषु । क्विप् च इति क्विप् । तत्पुरुषे कृति बहुलम् इत्यलुक् । कृदुत्तरपदप्रकृतिस्वरत्वम् । मयोभून् । व्यत्ययेन ह्रस्वत्वम् । यद्वा । मितद्र्वादिभ्य उपसंख्यानम् । (पा. ३-२-१८०-१ [?]) इति डुप्रत्ययः । भृत्याम् । भृञ् भरणे । संज्ञायां समजनिषद… (पा. ३-३-९९ [?]) इति क्यप् । उदात्त इत्यनुवृत्तेः प्रत्ययस्योदात्तत्वम् । ऋणधत् । ऋधु वृद्धौ । लेटि व्यत्ययेन श्नम् । लेटोऽडाटाविति अडागमः । इतश्च लोप इतीकारलोपः । जीवात् । जीव प्राणधारणे । पूर्ववल् लेट्त्वादडागमः ॥
+
+*…tyayaḥ | ato lope sati varṇavyāpattyā īkāraḥ | mṛgayvādir vā draṣṭavyaḥ | āsanniṣūn | paddannimnādinā asyaśabdasyāsannādeśaḥ | iṣava iti gatāv ity asmād iṣeḥ kiñca | u. 1-14 [?] ity u-pratyayaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | hṛtsvasaḥ | asu kṣepaṇe | asa gatidīptyādāneṣu | kvip ca iti kvip | tatpuruṣe kṛti bahulam ity aluk | kṛduttarapadaprakṛtisvaratvam | mayobhūn | vyatyayena hrasvatvam | yadvā | mitadrvādibhya upasaṃkhyānam (Pā. 3-2-180-1 [?]) iti ḍu-pratyayaḥ | bhṛtyām | bhṛñ bharaṇe | saṃjñāyāṃ samajanisada… (Pā. 3-3-99 [?]) iti kyap | udātta ity anuvṛtteḥ pratyayasyodāttatvam | ṛṇadhat | ṛdhu vṛddhau | leṭi vyatyayena śnam | leṭo 'ḍāṭāv iti aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | jīvāt | jīva prāṇadhāraṇe | pūrvavat leṭtvād aḍāgamaḥ ‖*
+
+*(Grammatical tail — summary, noted briefly; the sūtra citations that are partly illegible, and the Uṇādi number, are left [?]; the hand-written sūtra quoted after "samajanisada" is garbled in the print and is not completed.)* On *durhṛṇāyūn*: on the loss of the *a*, the long *ī* is by the doctrine of the replacement of a sound that has lapsed; or it may be taken as belonging to the *mṛgayu* class. *Āsanniṣūn*: *āsan* is the substitute for the word *āsya* ("mouth") by the sūtra beginning *pad-dan-nomāṃs…*; *iṣu* ("arrow") is from the root *iṣ* in the sense of motion, with the affix *u*; in the *bahuvrīhi* the accent of the first member's base. *Hṛtsvasaḥ*: *asu kṣepaṇe* ("to throw") / *asa gatidīptyādāneṣu* ("in motion, shining, taking"); *kvip*; in the *tatpuruṣa* the case-ending is not elided (*aluk*). *Mayobhūn*: shortening by *vyatyaya*; or the *ḍu* affix by an *upasaṃkhyāna*. *Bhṛtyām*: *bhṛñ bharaṇe* — the affix *kyap*, the accent of the affix acute. *Ṛṇadhat*: *ṛdhu vṛddhau* — in the *leṭ*, *śnam* by *vyatyaya*; the augment *aṭ* (*aḍāgama*); the loss of the *ī* ("itaś ca lopaḥ"). *Jīvāt*: *jīva prāṇadhāraṇe*; the *aḍāgama* as before.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 84.16)** *(Kannada)*
+
+*adya* — in this sacrificial rite; *ṛtasya* — of (Indra's) chariot; *dhuri* — in the front part (the pole); *śimīvataḥ* — endowed with heroic deeds; *bhāminaḥ* — full of brilliance; *durhṛṇāyūn* — (against enemies) of irresistible anger; *āsanniṣūn* — having arrows set in their mouths; *hṛtsvasaḥ* — which trample with the foot on the hearts (of enemies); *mayobhūn* — producing happiness (for friends); *gāḥ* — the moving (horses); *kaḥ* — who (himself); *yuṅkte* — yokes; *yaḥ* — which sacrificer; *eṣām* — of these horses; *bhṛtyām* — the work of bearing (Indra's chariot); *ṛṇadhat* — praises; *saḥ* — that sacrificer; *jīvāt* — (long) life — obtains.
+
+**अथवा — Or (second reading)**
+
+*kaḥ* — Prajāpati; *ṛtasya* — of the sacrifice; *dhuri* — in the tasks of carrying it out; *śimīvataḥ* — endowed with the deeds that are to be set forth; *bhāminaḥ* — shining; *durhṛṇāyūn* — not to be abandoned, that is, ever fixed; *āsanniṣūn* — uttered from the mouth; *hṛtsvasaḥ* — kindling lustre in the heart; *mayobhūn* — producing the happiness of the unseen (*adṛṣṭa*); *gāḥ* — the words which are of the nature of Ṛks; *adya* — at this time of the sacrifice; *yuṅkte* — joins; *yaḥ* — which sacrificer; *eṣām* — of these Vedic words; *bhṛtyām* — the labours that serve them; *ṛṇadhat* — protects; *saḥ* — that sacrificer (himself) *jīvāt* — lives a long life.
+
+---
+
+### Page 127 (PDF 142)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: page number 127.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.16** *(Kannada)*
+
+"In this sacrifice, to the pole of Indra's chariot — endowed with deeds of valour, full of brilliance, of irresistible anger, with arrows set in their mouths, stepping with the foot upon the hearts of enemies, producing happiness for friends — those horses: who yokes them? The sacrificer who praises the extraordinary labour of those horses in drawing Indra's chariot lives a long life."
+
+**English Translation** *(printed in English in the source)*
+
+"Who yokes to-day to the pole of the chariot (of Indra) his vigorous and radient [sic] horses, whose fury is unbearable, who have arrows in their mouths, who trample on the hearts of enemies and who give happiness to friends? The sacrificer who praises the performance of these horses obtains long life." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.16)**
+
+"In the *iṣṭi* called *Sarvapṛṣṭhā* the two Ṛks beginning *ko adya yuṅkte* are to be used as the *yājyā* and *anuvākyā* mantras; this is stated in the Āśvalāyana Śrauta-sūtra by the sentence '*kāyaṃ daśamaṃ ko adya yuṅkte dhuri gā ṛtasyeti dve*' (Āś. [?])." [Sanskrit as printed in the Kannada Special Topics.]
+
+> कायं दशमं को अद्य युङ्क्ते धुरि गा ऋतस्येति द्वे ।
+
+*kāyaṃ daśamaṃ ko adya yuṅkte dhuri gā ṛtasyeti dve |* — *Gloss, mine and tentative:* "'To Ka the tenth (offering); [the two Ṛks] *ko adya yuṅkte dhuri gā ṛtasya* — the two (are used)'."
+
+- **ऋतस्य** — *ṛ gatau* ("to go") — "of Indra's chariot, which is moving."
+- **धुरि** — "in the part of the chariot to which horses are yoked; that is, at the pole (*noge*), or in the front."
+- **गाः** — "here *gāḥ* must be taken in the sense of horses. This meaning is supported by the Ṛk:
+
+> एतौ मे गावौ प्रमरस्य युक्तौ मो षु प्र सेधीर्मुहुरिन्ममन्धि ।
+
+*etau me gāvau pramarasya yuktau mo ṣu pra sedhīr muhur in mamandhi |* (Ṛ. Saṃ. 10-[?]-[?] [?]; the numerals printed are small and doubtful) — *Gloss, mine and tentative (the second half is doubtful):* "These two oxen of mine, yoked [to the chariot] of Pramara — do not drive them away; again and again [let him] rejoice."
+
+- **शिमीवतः** — *vīryakarmopetān* — "who perform deeds of valour. *Śimī* means *karma* ('action') (Ni. [3-1] [?])."
+- **भामिनः** — *bhā dīptau* ("to shine") — "brilliant; hence beautiful to behold, in the sense of 'worthy of being looked at'."
+
+---
+
+### Page 128 (PDF 143)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84". No page number is legible at the head.)*
+
+*Special Topics of Rik 84.16, continued from p. 127:*
+
+- **दुर्हृणायून्** — *hṛṇīyate krudhyatikarmā* — "*reḷati, helati* and the others of the ten roots that indicate anger: because the word *hṛṇīyate* is read among them (Ni. [?-?] [?]) — *durhṛṇāyūn* means 'endowed with anger against enemies'."
+- **आसन्निषून्** — *asye mukhapradeśe śatrūṇāṃ praharaṇārtham iṣavo bāṇā baddhā[ḥ]* — "*aśvān* — horses in whose mouths arrows are fixed, in order to strike enemies. The sense of this word is not clear." *[Printed text partly clotted: "…baddhā-[?]…aśvān"; read as given with doubt.]*
+- **हृत्स्वसः** — *hṛtsu śatrūṇāṃ hṛdayeṣu svasaṃti svakīyaṃ pādaṃ kṣipantīti hṛtsvasaḥ tān* — "those that, as it were, hurl their own feet on the hearts of the enemies, that is, those that trample on the enemies in battle."
+- **मयोभून्** — "*mayaḥ* means happiness (Ni. [3-?] [?]); those who bring happiness to their own people; towards their own folk they act with a gentle nature, without anger and the like."
+- **भृत्याम्** — *bhṛñ bharaṇe | bharaṇakriyāṃ rathavāhanakriyām* — "the work of bearing; the work of drawing the chariot."
+- **ऋणधत्** — *ṛdhu vṛddhau* — "one who praises or one who magnifies (*samardhane*)."
+
+*The editor's remark:* "Many words in this Ṛk are obscure (*kliṣṭa*); the meaning does not fit well. The bhāṣyakāra has therefore given two kinds of meaning for this Ṛk: following the meaning that *kaḥ* is a common word ('what man'), and the meaning *kaḥ = Prajāpati*, he has given separate explanations, accordingly."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.16)** *(grammar page, noted briefly; begins here)*
+
+- **युङ्क्ते** — the root *yujir yoge*, *rudhādi*; *laṭ*, third person singular — the form *yuṅkte*; the *nighāta* accent of the *tiṅanta*.
+- **दुर्हृणायून्** — the root *hṛṇīj lajjāyām* (as read); as it belongs to the *kaṇḍvādi* class, the affix *yak* in its own sense by "kaṇḍvādibhyo yak" [as printed "kaṇḍvādi-bhyo yak"]; by the *bahulavacana* the *u*-affix (the Uṇādi) is added to this as well; by "ato lopaḥ" the *a* of the *yak* is dropped; the long *ī* in place of the *a* by the doctrine of lapsed sound; or, since it belongs to the *mṛgayu* class, the *a*-form by "mṛgayvo-ve-ca"-type sūtra (Uṇ. Sū. 1-[?] [?]); the final accent by the accent of the affix; accusative plural.
+
+---
+
+**Progress note:** Printed pp. 1–128 done (PDF 16–143) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.15 complete**; **Rik 84.16** complete through its Saṃhitā, Pada, bhāṣya, Pratipadārtha (both readings), Bhāvārtha, English and Special Topics; its Vyākaraṇa-prakriyā page begun on p. 128 (*yuṅkte*, *durhṛṇāyūn*) and runs on to p. 129. Next: printed p. 129 (PDF 144). Four Ṛks (84.17–84.20) remain after 84.16. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; p. 128 clotted print on *āsanniṣūn*; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
