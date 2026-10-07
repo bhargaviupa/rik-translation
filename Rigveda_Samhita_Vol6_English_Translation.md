@@ -4194,4 +4194,60 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–209 done (PDF 19–227): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1 complete; **Rik 67.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 209). Next: p. 210 (PDF 228), the Special Topics of Rik 67.2 continue, then its grammar page; then Riks 67.3–67.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the *taṣṭān* sandhi remark on p. 209 as read [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 210 (PDF 228)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**Special Topics (concluded; Kannada).**
+
+- **धियंधाः** — *karmaṇāṃ buddhīnāṃ vā dhārayitāraḥ* — "those who perform rites in the form of sacrifice, or those who possess knowledge."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 67.2 (noted briefly).** **दधानः**: root *dudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of *laṭ*, the affix *śānac*; since it belongs to the *juhotyādi* class, the *śluḥ* vikaraṇa; the doubling of the root; by "abhyāse carca" the *jaś*; shortening; by "abhyastānām ādiḥ" (Pā. Sū. 6-1-189, as read) the initial acute. **नृम्णा**: in the neuter accusative plural, the *śi* substitute for the ending; by "śeś chandasi bahulam" the loss of *śi*. **धात्**: root *dhāñ* [*dudhāñ*]; *luṅ*, third person singular, *tip*; the loss of its *i* by "itaś ca"; the *sic* arising for *cli* is lost by "gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu"; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; the *nighāta* accent. **गुहा**: in the locative singular, by "supāṃ sulug…" the *ḍā* substitute. **निषीदन्**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the sense of *laṭ*, the affix *śatṛ*; by "pāghrādhmāsthā…" the substitute *sīda*; the vikaraṇa *śap*; the word *sīdat*; with *ni* connected, by "sadir aprateḥ" (Pā. Sū. 8-3-66, as read) *ṣ* for the *s* of the root; in the nominative singular the *num* augment; the loss of *su*; since it follows a stem accented by the *upadeśa*, the *laṭ*-sārvadhātuka is unaccented and the root accent remains; in the compound with a *gati*, the accent of the latter member of a *kṛdanta*, the first member's. **विदन्ति**: root *vida jñāne*, *adādi*; *laṭ*, third person plural, *jhi* → *ant*; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; by the affix's initial acute the word has the acute in the middle; at the beginning of the *pāda*, no *nighāta*. **धियंधाः**: "they hold (*dhārayanti*) intelligence" = *dhiyaṃdhāḥ*; root *dudhāñ*; by "āto 'nupasarge kaḥ" (Pā. Sū. 3-2-3, as read) the affix *ka*; by "ātolopa iṭi ca" the loss of *ā*; the accusative being a *tatpuruṣa* compound, by "tatpuruṣe kṛti bahulam" the *aluk* of the accusative; by "gatikārakopapadāt kṛt" the accent of the latter member of a *kṛdanta*.
+
+---
+
+### Page 211 (PDF 229)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**Grammar page for Rik 67.2, concluded (noted briefly).** **तष्टान्**: root *takṣū tvakṣū tanūkaraṇe*; to it the *niṣṭhā* affix *kta*; since the root is *ūdit*, by "ūdito vā" (Pā. Sū. 7-2-44, as read) *iṭ* is optional; by "yasya vibhāṣā" the *iṭ* augment does not come for *kta*; by "skoḥ saṃyogādyor ante ca" (Pā. Sū. 8-2-29, as read) the loss of *k*; by *ṣṭutva* the *t* of *kta* becomes *ṭ*; in the accusative plural, *taṣṭān*; by the affix accent, final-acute. **अशंसन्**: root *śaṃsu stutau*; *laṅ*, third person plural: *aśaṃsan*; since *yat* precedes, the *nighāta* does not come; since the augment is acute, the initial acute. **॥ ३–४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 67.2 ends here (ornamental rule).*
+
+#### Rik 67.3 *(printed "5 || 6 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।**
+> **प्रिया पदानि पश्वो नि पाहि विश्वायुरग्ने गुहा गुहं गाः ॥ ५ ॥ ६ ॥**
+> *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+> *priyā padāni paśvo ni pāhi viśvāyur agne guhā guhaṃ gāḥ || 5 || 6 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **अजः । न । क्षाम् । दाधार । पृथिवीम् । तस्तम्भ । द्याम् । मन्त्रेभिः । सत्यैः ।**
+> **प्रिया । पदानि । पश्वः । नि । पाहि । विश्वऽआयुः । अग्ने । गुहा । गुहम् । गाः ॥ ५ ॥ ६ ॥**
+> *ajaḥ | na | kṣām | dādhāra | pṛthivīm | tastambha | dyām | mantrebhiḥ | satyaiḥ |*
+> *priyā | padāni | paśvaḥ | ni | pāhi | viśva-āyuḥ | agne | guhā | guhām | gāḥ || 5 || 6 ||*
+
+*(The print's last Pada word reads "guhaṃ" [गुहं]; I give "guhām" in the transliteration of the Pada only as the print's Devanagari-equivalent; the Saṃhitā "गुहं" is given as printed [?].)*
+
+---
+
+### Page 212 (PDF 230)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **अजो न । अजति गच्छतीत्यजः सूर्यः । यद्वा । न जायत इत्यजः । जन्मरहित इत्यर्थः । स इव । क्षेति पृथिवीनाम । क्षां भूमिं दाधार । अयमग्निः प्रकाशकत्वेन धारयति । पृथिवीमित्यन्तरिक्षनाम । पृथिवीमन्तरिक्षं च धारयतीत्येव । द्यां द्युलोकं सत्यैरवितथार्थैर्मन्त्रेभिर्मन्त्रैस्तस्तम्भ । स्तभ्नाति । यथाजो न पतति उपरीव तिष्ठति तथा करोतीत्यर्थः । मन्त्रैर्दिवो धारणं तैत्तिरीये समाम्नातं । देवा वा आदित्यस्य सुवर्गाल्लोकस्य परा-चोऽतिपातादबिभयुः । तं छन्दोभिरदृंहन्स्पृत्या इति । यद्वा । सत्यैर्मन्त्रैः स्तूयमानोऽग्निर्द्यां तस्तम्भेति । हे अग्ने विश्वायुः विश्वं सर्वमायुरन्नं यस्य स त्वं पश्वः पशोः प्रिया प्रियाणि पदानि शोभनतृणोदकोपेतानि स्थानानि नि पाहि । नितरां पालय । मा धाक्षीरित्यर्थः । तर्हि कुत्र निवसामीति चेत्तत्राह । गुहा गुहायां अपि गुहं गुहां गवां संचारायोग्यस्थानं गाः गच्छ । तत्रैव निवसेत्यर्थः ॥ पश्वः । जसादिषु छन्दसि वावचनमिति घेर्ङितीति गुणाभावे यणादेशः । उदात्तयणः इति विभक्तेरुदात्तत्वम् । गुहा । सुपां सुलुगिति पञ्चम्या आजादेशः । चित्त्वादन्तोदात्तत्वं । गुहं । व्यत्ययेन ह्रस्वत्वं । गाः । छान्दसो लुङ् । इणो गा लुङीति गादेशः ॥**
+> *ajo na | ajati gacchatīty ajaḥ sūryaḥ | yadvā | na jāyata ity ajaḥ | janmarahita ity arthaḥ | sa iva | kṣeti pṛthivīnāma | kṣāṃ bhūmiṃ dādhāra | ayam agniḥ prakāśakatvena dhārayati | pṛthivīm ity antarikṣanāma | pṛthivīm antarikṣaṃ ca dhārayatīty eva | dyāṃ dyulokaṃ satyair avitathārthair mantrebhir mantrais tastambha | stabhnāti | yathājo na patati upariva tiṣṭhati tathā karotīty arthaḥ | mantrair divo dhāraṇaṃ taittirīye samāmnātaṃ | devā vā ādityasya suvargāl lokasya parā-co 'tipātād abibhayuḥ | taṃ chandobhir adṛṃhan spṛtyā iti | yadvā | satyair mantraiḥ stūyamāno 'gnir dyāṃ tastambheti | he agne viśvāyuḥ viśvaṃ sarvam āyur annaṃ yasya sa tvaṃ paśvaḥ paśoḥ priyā priyāṇi padāni śobhanatṛṇodakopetāni sthānāni ni pāhi | nitarāṃ pālaya | mā dhākṣīr ity arthaḥ | tarhi kutra nivasāmīti cet tatrāha | guhā guhāyāṃ api guhaṃ guhāṃ gavāṃ saṃcārāyogyasthānaṃ gāḥ gaccha | tatraiva nivasety arthaḥ || paśvaḥ | jasādiṣu chandasi vāvacanam iti gher ṅitīti guṇābhāve yaṇādeśaḥ | udāttayaṇaḥ iti vibhakter udāttatvam | guhā | supāṃ sulug iti pañcamyā ājādeśaḥ | cittvād antodāttatvaṃ | guhaṃ | vyatyayena hrasvatvaṃ | gāḥ | chāndaso luṅ | iṇo gā luṅīti gādeśaḥ ||*
+> *"**Ajo na**: *aja* is 'he who goes' — the sun; or, 'he who is not born' — free of birth; like him. *Kṣā* is a word for 'earth': **kṣāṃ dādhāra** — this Agni upholds the earth by his luminosity; *pṛthivī* [here] is a name of the atmosphere: he upholds the earth and the atmosphere. **Dyām**, the heavenly world, **mantrebhiḥ satyaiḥ**, with true mantras whose meaning is not false, **tastambha**, he propped: he made it stand as if it did not fall, remaining above. The upholding of heaven by mantras is taught in the Taittirīya: 'the gods feared that the world of heaven of the Āditya would fall away; they strengthened it with metres' (as read, ?). Or: Agni praised with true mantras propped up the heaven. **Agne**, **viśvāyuḥ** — one whose food (*āyus*) is all [i.e. who eats all], you, **paśvaḥ**, for the animal, **priyā padāni**, the dear places that have good grass and water, **ni pāhi**, guard well: do not burn them. If [you ask] 'where then shall I live?', he says: **guhā guhaṃ gāḥ** — go to a cave, a hidden place unfit for the passage of cattle; live there. **Paśvaḥ**: by the option 'jasādiṣu chandasi vāvacanam' … the *yaṇ* substitute where *guṇa* is absent; the case-ending acute by 'udāttayaṇo…'. **Guhā**: *ā* for the ablative [locative] by 'supāṃ sulug…'; since *c*-marked, the final acute. **Guhaṃ**: the shortening is by exchange. **Gāḥ**: the Vedic *luṅ*; *gā* for *iṇ* by 'iṇo gā luṅi'."* *(Grammar tail characterized; the Taittirīya quotation is given as read, doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**अजो न** — like the sun, who goes (who is unborn); **क्षाम्** — the earth; **पृथिवीम्** — the atmosphere; **दाधार** — he upheld (by his radiance); **द्याम्** — the heavenly world; **सत्यैः** — truthful; **मन्त्रेभिः** — by mantras; **तस्तम्भ** — he made [it] stand firm; **अग्ने** — O Agni; **विश्वायुः** — you to whom everything is food; **पश्वः** — for animals; **प्रिया** — dear; **पदानि** — places (with grass and water); **नि पाहि** — guard well; **गुहा** — in caves; **गुहम्** — a cave (unfit for the passage [of cattle]); **गाः** — go.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, like the sun, upholds the earth and the sky by his light, and makes the heavenly world stand firm by the power of mantras that do not fail. O Agni, everything on this earth is your food; but guard only the places that have grass and water dear to animals. Live in caves unfit for the passage of animals.
+
+---
+
+**Progress note:** Printed pp. 1–212 done (PDF 19–230): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1, 67.2 complete; **Rik 67.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (pp. 211–212). Next: p. 213 (PDF 231), the source's English, Special Topics and grammar page of Rik 67.3; then Riks 67.4, 67.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Taittirīya quotation in 67.3 [?]; the final Pada word "guhaṃ" of 67.3 as printed [?]; accent marks of the Saṃhitā/Pada not reproduced.
