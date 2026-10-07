@@ -4456,4 +4456,78 @@ Closing of Rik 85.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–161 done (PDF 16–176) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.3 complete**; **Rik 85.4** done through its Special Topics and the first entry of its grammar page (*bhrājante*, p. 161); the rest of that grammar page runs on p. 162. Next: printed p. 162 (PDF 177). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 162 (PDF 177)
+
+*(Running head: "162 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.4, continued from p. 161 (grammar, noted briefly):*
+
+- **सुमखासः** — *śobhanāḥ makhāḥ yeṣāṃ te sumakhāsaḥ*; by "नञ्सुभ्याम्" (*nañsubhyām*) the accent of the final syllable of the latter member would in fact come in the *bahuvrīhi*; but by the statement "सर्वे विधयश्छन्दसि विकल्प्यन्ते" (*sarve vidhayaś chandasi vikalpyante*), got through the *yogavibhāga* of the sūtra "षष्ठीयुक्तश्छन्दसि वा" (*ṣaṣṭhīyuktaś chandasi vā*), the above-mentioned accent is barred here, and by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member's own accent, which ordinarily comes, alone comes; in the nominative plural, by "आज्जसेरसुक्" the augment *asuk* for *jas*.
+- **प्रच्यावयन्तः** — the root *cyuṅ gatau*; the affix *ṇic* in the sense of impelling; after the *ṇijanta*, the affix *śatṛ* in the sense of *laṭ*; *śap* as *vikaraṇa*; on account of *śap*, *guṇa* of the *ṇic* and *ay*-substitution; on account of *ṇic*, *vṛddhi* of the root and *āv*-substitution; the accent of *ṇic*.
+- **अच्युता** — in the neuter plural accusative, *śas* replaced by *śi*; by "शेश्छन्दसि बहुलम्" (*śeś chandasi bahulam*) its loss.
+- **मनोजुवः** — *ju* is a *sautra* root, in the sense of motion; by "क्विब्वचिप्रच्छ्यायतस्तुकटप्रुजुश्रीणां दीर्घोऽसम्प्रसारणं च" (Pā. Sū. 3-2-[177] vārttika 2 [?]) the affix *kvip*; by its connexion the root is lengthened; the word *manojū*; the *kṛdutarapada* keeps its base accent; in the nominative plural, by "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ" (*aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*) the substitute *uv*.
+- **वृषव्रातासः** — in the *jas*, by "आज्जसेरसुक्" the augment *asuk*.
+- **अयुग्ध्वम्** — the root *yujir yoge*; *luṅ*, second person plural, the affix *dhvam*; by "च्लेः सिच्" (*cleḥ sic*) *sic* in place of *cli*; by "धि च" (Pā. Sū. 8-2-[25] [?]) the loss of the *s* of *sic*, since an affix beginning with *dh* follows; by "चोः कुः" (*coḥ kuḥ*) the *j* of the root becomes a guttural; since *yat* is in connexion, there is no *nighāta* accent; since the augment *aṭ* is acute, the first syllable is acute.
+
+Closing of Rik 85.4: "॥ ४ ॥" (4), followed by a printer's ornament.
+
+---
+
+### Page 163 (PDF 178)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 163.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.5)** *(Triṣṭubh — the fifth Ṛk, per the Anukramaṇī; Maruts; accents not reproduced)*
+
+> प्र यद्रथेषु पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयन्तः ।
+> उतारुषस्य वि ष्यन्ति धाराश्चर्मेवोदभिर्व्युन्दन्ति भूम ॥ ५ ॥
+
+*pra yad ratheṣu pṛṣatīr ayugdhvaṃ vāje adriṃ maruto raṃhayantaḥ | utāruṣasya vi ṣyanti dhārāś carmevodabhir vyundanti bhūma ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "When you have yoked the spotted does to your chariots, O Maruts, driving the rock [cloud] in the race for food, then the streams of the ruddy [sun/fire] flow forth, and with waters they drench the earth as one wets a hide."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.5)**
+
+> प्र । यत् । रथेषु । पृषतीः । अयुग्ध्वम् । वाजे । अद्रिम् । मरुतः । रंहयन्तः ।
+> उत । अरुषस्य । वि । स्यन्ति । धाराः । चर्मऽइव । उदऽभिः । वि । उन्दन्ति । भूम ॥ ५ ॥
+
+*pra | yat | ratheṣu | pṛṣatīḥ | ayugdhvam | vāje | adrim | marutaḥ | raṃhayantaḥ | uta | aruṣasya | vi | syanti | dhārāḥ | carma-iva | uda-bhiḥ | vi | undanti | bhūma ‖ 5 ‖*
+
+*(The Pada prints* syanti *and the Saṃhitā* ṣyanti *[= vi ṣyanti]; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.5)**
+
+> हे मरुतः पृषतीर्यदा रथेषु प्रायुग्ध्वं प्रायुयुजत । किं कुर्वन्तः । वाजे अन्ने निमित्तभूते सति अद्रिं मेघं रंहयन्तो वर्षणार्थं प्रेरयन्तः । उत तदानीमरुषस्यारोचमानस्य सूर्यस्य विद्युत्तो वाग्नेर्वा सकाशाद् वृष्ट्युदकधारा भवन्तो वि ष्यन्ति । विमुञ्चन्ति । विमुक्ताश्च ताः धारा उदभिरुदकैश्च चर्मेव परिमितमल्पं चर्म यथाप्रयत्नेन क्लेद्यते एवं भूम सर्वां भूमिं व्युन्दन्ति । विशेषेणार्द्रां कुर्वन्ति ॥ रंहयन्तः । रहि गतौ । वि ष्यन्ति । षो अन्तकर्मणि । दैवादिकः । ओतः श्यनि (पा. ७-३-७१ [?]) इत्योकारलोपः । उपसर्गात्सुनोतीति षत्वम् । उदभिः । पद्दन्नित्यादिनोदकशब्दस्योदन्नादेशः । व्युन्दन्ति । उन्दी क्लेदने । भूम । सुपां सुलुगिति भूमिशब्दादुत्तरस्यामो डादेशः । छान्दसं ह्रस्वत्वम् ॥
+
+*he marutaḥ pṛṣatīr yadā ratheṣu prāyugdhvaṃ prāyuyujata | kiṃ kurvantaḥ | vāje anne nimittabhūte sati adriṃ megham raṃhayanto varṣaṇārthaṃ prerayantaḥ | uta tadānīm aruṣasyārocamānasya sūryasya vidyutto vāgner vā sakāśād vṛṣṭyudakadhārā bhavanto vi ṣyanti | vimuñcanti | vimuktāś ca tāḥ dhārā udabhir udakaiś ca carmeva parimitam alpaṃ carma yathāprayatnena kledyate evaṃ bhūma sarvāṃ bhūmiṃ vyundanti | viśeṣeṇārdrāṃ kurvanti ‖ raṃhayantaḥ | rahi gatau | vi ṣyanti | ṣo antakarmaṇi | daivādikaḥ | otaḥ śyani (Pā. 7-3-71 [?]) ity okāralopaḥ | upasargāt sunotīti ṣatvam | udabhiḥ | paddann ity ādinā udakaśabdasyodannādeśaḥ | vyundanti | undī kledane | bhūma | supāṃ suluk iti bhūmiśabdād uttarasyāmo ḍādeśaḥ | chāndasaṃ hrasvatvam ‖*
+
+*Translation:* "O Maruts, when you have yoked the spotted does to your chariots — doing what? — for the sake of *vāja*, food, driving (*raṃhayantaḥ*) the *adri*, the cloud, for the sake of rain: then (*uta*) from the ruddy (*aruṣasya*), non-shining [sic: 'not shining'?] sun, or from lightning, or from fire, the streams of rain-water *vi ṣyanti* — are let loose; and those streams, with waters (*udabhiḥ*), as a small bit of hide, measured out, is moistened with some effort, even so *bhūma* — the whole earth — they *vyundanti*, drench thoroughly. *Grammar tail, noted briefly:* *raṃhayantaḥ* — *rahi gatau*; *vi ṣyanti* — *ṣo antakarmaṇi* ('to end'), Divādi, with loss of the *o* before *śyan*, by "otaḥ śyani" [Pā. 7-3-71 [?]], *ṣatva* after a preposition; *udabhiḥ* — *udan* substituted for *udaka* by "pad-dan-no-…"; *vyundanti* — *undī kledane*; *bhūma* — by "supāṃ suluk" the *ḍā* substitution for the accusative case-ending *am* after *bhūmi*, and the shortening is Vedic."
+
+---
+
+### Page 164 (PDF 179)
+
+*(Running head: "164 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.5)** *(Kannada)*
+
+*marutaḥ* — O Maruts; *vāje* — for the sake of food; *adrim* — the cloud; *raṃhayantaḥ* — (in order to make it rain) impelling; *pṛṣatīḥ* — the spotted does; *ratheṣu* — (your) chariots; *yat* — when; *pra ayugdhvam* — you yoke well; *uta* — then; *aruṣasya* — of the radiant sun, or of the fire in the form of lightning (from the sky: the streams of rain); *vi ṣyanti* — fall; *dhārāḥ* — those streams of rain; *udabhiḥ* — with waters; *carmeva* — like a bit of hide (without effort, wetting); *bhūma* — all regions of the earth; *vyundanti* — they make wet.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.5** *(Kannada)*
+
+"O Maruts, for the sake of food, impelling the cloud so that it rains, when you yoke the spotted does to your chariots, the rain falls in streams from the radiant sun's [or the lightning's] ray. Those streams of rain drench all regions of the earth without effort, as with a little water one wets a hide."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, when for the sake of providing food, you have yoked the spotted deer to your chariots the drops (of water) fall from the radian [sic] (Sun) and drench the earth with waters like a hide." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.5)**
+
+- **पृषतीः** — "the spotted does. These are the vehicles of the Marut deities. *Spotted deer or antelopes* (English, as printed). The explanation of this word was given in the preceding Ṛk."
+- **वाजे** — *anne nimittabhūte* — "for the sake of food, or of the obtaining of nourishment: so that it rains."
+- **अद्रिम्** — *megham* — "'cloud'. Among the thirty names of cloud, since *adri*, *grāvā* and the rest are read, *adrim* means 'the cloud' (Ni. [1-10] [?]). The word *adri* has other senses too: 'lightning' (Ni. [2-?] [?]) and 'mountain' (Ni. [3-?] [?])." *(Numerals are small and read with doubt.)*
+- **रंहयन्तः** — *varṣaṇārthaṃ prerayantaḥ* — "impelling so that it rains."
+
+---
+
+**Progress note:** Printed pp. 1–164 done (PDF 16–179) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.4 complete**; **Rik 85.5** done through the first four entries of its Special Topics (to *raṃhayantaḥ*, p. 164); the rest of the Special Topics and the grammar page follow on p. 165. Next: printed p. 165 (PDF 180). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
