@@ -13142,7 +13142,7 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 - **दोधतः** — "trembling (from fear)"
 - **वृत्रस्य** — "of the demon Vṛtra"
 - **सानुम्** — "on the jaw [lit. 'upon the rock/ridge']"
-- **अपः** — "the rain-water
+- **अपः** — "the rain-water …" *(the entry runs over to p. 579: "…of rain-water")*
 
 ### Page 579 (PDF 597)
 
@@ -13150,7 +13150,7 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 *Pratipadārtha of Rik 80.5, continued from p. 578:*
 
-- *(apaḥ, continued)* — "…(the rain-water)"
+- *(apaḥ, continued)* — "…(of) rain-water"
 - **सर्माय** — "to flow (run)"
 - **चोदयन्** — "urging"
 - **स्वराज्यम्** — "his own lordship"
