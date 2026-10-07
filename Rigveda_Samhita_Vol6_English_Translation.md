@@ -9447,4 +9447,89 @@ yad agne yāsi dūtyam ||7||*
 
 ---
 
-**Progress note:** Printed pp. 1–447 done (PDF 19–465): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.6 complete (74.6: pp. 445–447); **Rik 74.7** (printed "7 ||") — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its grammatical tail done (p. 447). Next: p. 448 (PDF 466), the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 74.7; then Riks 74.8–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya-Prātiśākhya reference in the bhāṣya of 74.7 doubtful [?].
+### Page 448 (PDF 466)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 74.7** *(Kannada)*
+
+*agne* — O Agni; *yat* — whenever; *dūtyam* — the office of messenger (of the gods); *yāsi* — you assume; *kaccana* — then; *yoḥ* — of you who go; *rathasya* — of the chariot; *aśvyaḥ* — belonging to the horses (produced by them); *upabdiḥ* — the sound worthy of hearing; *na śṛṇve* — is not heard.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! When you go bearing the office of messenger of the gods, not even the sound of the horses of your (swiftly) moving chariot is heard.
+
+**English Translation** *(the source's own, as printed):*
+
+> Whenever you go, Agni, on a mission of the gods, the neighing of the horses of your (swift), moving chariot, however audible, is not heard,
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **योः** — *yā prāpaṇe* — "the sixth case singular: 'of you who go'."
+- **उपब्दिः** — *śravaṇārhaḥ śabdaḥ* — "a sound that can be heard by the ears. Since the word *upabdiḥ* is read among the fifty-eight [as read, ?] names of speech, *ślokaḥ*, *dhārā* and so on (Ni. [1-11?]), *upabdi* means sound."
+- **अश्व्यैः** — *aśvair utpāditaḥ* — "the neighing and other sounds produced by the horses of the chariot; or, since the word *rathasya* is there, the sound that arises from the friction and so on when the chariot moves. This word is an adjective of the word *upabdi*."
+- **कच्चन** — *kadācana*, *tadānīṃ sarvadāpi* — "at times: in whatever times you go to the gods bearing the office of messenger — in all such times."
+- **न शृण्वे** — "is not heard: that is, because the chariot moves with exceeding speed, there is no occasion for the neighing of the horses or the grinding sound of the chariot's wheels to be heard."
+
+---
+
+### Page 449 (PDF 467)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 29".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.7, noted briefly; not transcribed)*
+
+Words treated: *yoḥ* (root *yā prāpaṇe*; the *ku* affix, an Uṇādi one, by *yo dve ca*, Uṇ. [1-?]; though doubling is prescribed by "*dve ca*", by the *bahula* statement no doubling here; since the affix is *kit*, loss of the root's *ā* by *āto lopa iṭi ca*, Pā. [6-4-64]; the form *yu*; the affix's accent; sixth-case singular). *upabdiḥ* ("*upabdi* is the name of a sound fit to be heard"; so it is explained in the Taittirīya Prātiśākhya: "*sa-śabdam upabdimat*" (Tai. Prā. [23-8?]); being an unanalysed word it is a stem [*prātipadika*]). *śṛṇve* (root *śru śravaṇe*; *laṭ* in the passive, third person singular, *ta*; though *yak* would come by *sārvadhātuke yak*, by *vyatyayo bahulam* *śnu* as vikaraṇa and the substitution of *śṛ* for the root come by *śruvaḥ śṛ ca*, Pā. [3-1-74]; loss of the *t* of the affix by *lopas ta ātmanepadeṣu*, Pā. [7-1-41], when it is *śṛṇute*; *yaṇ* by *huśnuvoḥ sārvadhātuke*, Pā. [6-4-87], as an exception for the *u*; since at the head of a pāda, no nighāta; by the affix's accent the final acute). *yāsi* (root *yā prāpaṇe*, Adādi; *laṭ*, second person singular; since *yat* is connected, no nighāta; *sip* is *pit*, hence anudātta; the root accent remains). Ends "॥ ७ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.8** *(printed Ṛk "8 ||")*
+
+> त्वोतो वाज्यह्रयोऽभि पूर्वस्मादपरः ।
+> प्र दाश्वाँ अग्ने अस्थात् ॥ ८ ॥
+
+*tvoto vājy ahrayo 'bhi pūrvasmādaparaḥ |
+pra dāśvāṃ agne asthāt ||8||*
+
+---
+
+### Page 450 (PDF 468)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 74.8**
+
+> त्वाऽऊतः । वाजी । अह्रयः । अभि । पूर्वस्मात् । अपरः ।
+> प्र । दाश्वान् । अग्ने । अस्थात् ॥ ८ ॥
+
+*tvā-ūtaḥ | vājī | ahrayaḥ | abhi | pūrvasmāt | aparaḥ | pra | dāśvān | agne | asthāt ||8||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.8** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> यः पुरुषः पूर्वस्मात् स्वस्माद्धिकारादपरो निकृष्टो भवति हे अग्ने स इदानीं दाश्वांस्तुभ्यं हवींषि दाता सन् त्वोतस्त्वयोतो रक्षितो वाज्यन्नवान् अह्रयो लज्जारहितः एवंभूतः सन् अभि प्रास्थात् । ऐश्वर्यमभिप्राप्य प्रतिष्ठति । सर्वोत्कृष्टो भवतीत्यर्थः ॥ अह्रयः । ह्री लज्जायां । जिह्रेतीति ह्रयः । न ह्रयोऽह्रयः । अव्ययपूर्वपदप्रकृतिस्वरत्वं । दाश्वान् । दाश्व दाने । दाश्वान्साह्वानिति क्वसुप्रत्ययांतो निपातितः ॥
+
+*yaḥ puruṣaḥ pūrvasmāt svasmād adhikārād aparo nikṛṣṭo bhavati he agne sa idānīṃ dāśvāṃs tubhyaṃ havīṃṣi dātā san tvotas tvayoto rakṣito vājy annavān ahrayo lajjārahitaḥ evaṃbhūtaḥ san abhi prāsthāt | aiśvaryam abhiprāpya pratiṣṭhati | sarvotkṛṣṭo bhavatīty arthaḥ || ahrayaḥ | hrī lajjāyāṃ | jihretīti hrayaḥ | na hrayo 'hrayaḥ | avyayapūrvapadaprakṛtisvaratvaṃ | dāśvān | dāśa dāne | dāśvān sāhvān iti kvasupratyayānto nipātitaḥ ||*
+
+*(Reading note: the Pada's "प्र ... अस्थात्" is printed as "pra | … | asthāt"; the bhāṣya's "abhi prāsthāt" is as printed — the verb is *pra … asthāt* with the preposition *abhi* standing before it [?].)*
+
+*Meaning:* The man who, formerly, from his own position of authority, was inferior (*aparaḥ*) — O Agni — he now, as one who gives (*dāśvān*) you oblations, being protected by you (*tvotaḥ*), possessed of food (*vājī*), free from bashfulness (*ahrayaḥ*), stands (*pra asthāt*) established in lordship: that is, he becomes the best of all.
+
+**Grammatical tail** *(characterized)*: *ahrayaḥ* (root *hrī lajjāyām*; "he is ashamed" — *hraya*; "not ashamed" — *ahraya*; the first member, an indeclinable, keeps its natural accent); *dāśvān* (root *dāś dāne*; the *kvasu*-final *dāśvān* by nipāta, with *sāhvān*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*he agne* — O Agni; *pūrvasmāt* — from his own position (which one); *aparaḥ* — he who was inferior (now); *dāśvān* — having given you oblations and the like; *tvotaḥ* — protected by you; *vājī* — endowed with food; *ahrayaḥ* — free from shame; *abhi pra asthāt* — attaining lordship, he stands established.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! The man who, having fallen from his own position, becomes an inferior one — now, after honouring you with oblations and the like, becomes protected by you, shameless and possessed of food, and stands established.
+
+**English Translation** *(the source's own, as printed):*
+
+> He who was formerly subject to a superior, having been protected, Agni, by you now stands in your presence as an offerer (of oblations) without bashfulness and supplied with food.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 450)*
+
+- **त्वोतः** — *tvayā ūto rakṣitaḥ* — "protected by you; one who has obtained your protection afterwards —" *(continued on p. 451)*
+
+---
+
+**Progress note:** Printed pp. 1–450 done (PDF 19–468): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.7 complete (74.7's grammar page on p. 449); **Rik 74.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 449–450) and the Special Topics begun (*tvotaḥ*, breaking off at the foot of p. 450); the grammar page not yet seen. Next: p. 451 (PDF 469); then Rik 74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya-Prātiśākhya reference on p. 449 doubtful [?].
