@@ -604,4 +604,81 @@ indro asmabhyaṃ śikṣatu vi bhajā bhūri te vasu bhakṣīya tava rādhasa�
 
 ---
 
-**Progress note:** Printed pp. 1–21 done (PDF 16–36) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.5 complete** (grammar of 81.5 on pp. 18–20); **Rik 81.6** — Saṃhitā (p. 20), Pada, bhāṣya and Pratipadārtha (p. 21) done; its Bhāvārtha, English, Special Topics and grammar not yet seen. Next: printed p. 22 (PDF 37). Three Ṛks (81.7–81.9) remain after 81.6, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print).
+### Page 22 (PDF 37)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.6** *(Kannada)*
+
+"Indra, the protector, gives food fit for men's enjoyment to the sacrificer who offers oblations; let him give to us also. O Indra, your wealth is exceedingly abundant; divide it and apportion it; let a share of it come to me too."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, the protector, gives the food that is fit for mortals, to the giver of oblations ; let that Indra bestow food on us ; O Indra, distribute your wealth which is abundant so that I may obtain a portion of your vast riches." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.6)**
+
+- **मर्तभोजनम्** — *sarvair manuṣyair upabhojyam annam* — "food fit to be taken by men. In the world of creatures, the food of the creatures of each species is of one kind: for cows, buffaloes and the like, grass is the chief food; for tigers and the like, flesh is the food. Likewise, for men the fitting food is the natural one, grain and the like. Some examples of the use of this word follow (Ṛgvedic citations in three layers; glosses mine and tentative; reference numerals as read, all [?]):
+
+> रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ।
+
+*rāsvā ca no amṛta martabhojanaṃ tmane tokāya tanayāya mṛḷa |* (Ṛk. Saṃ. 1-[189]-[2] [?]) — *Gloss, mine and tentative:* "Give us, immortal one, food for mortals; show favour to ourselves, our child and our offspring."
+
+> वृषा वीरं पृथ्वीमुमतिं सृजान आ नभ्यो मर्तभोजनं सुवानः ।
+
+*vṛṣā vīraṃ pṛthvī-m-umatiṃ sṛjāna ā nabhyo martabhojanaṃ suvānaḥ |* (Ṛk. Saṃ. 2-[?]-[?] [?]) — *the first words are garbled at this resolution [?]. Gloss, mine and tentative:* "… sending forth … bringing from the sky the food of mortals."
+
+> विश्रयमाणो अमतिमुरूचीं मर्तभोजनमध रासते नः ।
+
+*viśrayamāṇo amatim urūcīṃ martabhojanam adha rāsate naḥ |* (Ṛk. Saṃ. 6-[?]-[?] [?]) — *Gloss, mine and tentative:* "…resorting to the wide, (and) he will then give us food for mortals." (Sense uncertain.)
+
+> यत्ते दिवो दुहितर्मर्तभोजनं तद्रास्व भुनजामहै ।
+
+*yat te divo duhitar martabhojanaṃ tad rāsva bhunajāmahai |* (Ṛk. Saṃ. 5-[79]-[8] [?]) — *Gloss, mine and tentative:* "What food for mortals you have, O daughter of heaven — give that, that we may enjoy."
+
+> विश्वा सोनो सहसो मर्तभोजना रास्व तद्यत्त्वीमहे ।
+
+*viśvā sono sahaso martabhojanā rāsva tad yat tvīmahe |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *the words of this line are doubtful [?]; I give them as read. Gloss, mine and tentative:* "All the foods of mortals — give that which we ask."
+
+- **शिक्षतु** — "*śikṣatir dānakarmā* (Ni. [3-20] [?]): *śikṣatu* means 'let (him) give'."
+- **राधसः** — "*dhana*, wealth. Among the twenty-eight names of wealth beginning *maghaṃ reṇkaḥ* the word *rādhaḥ* is read (Ni. [2-10] [?])."
+
+### Page 23 (PDF 38)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.6)** *(grammar page, noted briefly; runs to p. 24)*
+
+- **पराददाति** — *parā* is a preposition; the root *ḍudāñ dāne*; of the *juhotyādi* class, the stem-marker *ślu*; since *ślu* follows, reduplication of the root, and the reduplicative is shortened; by "upasargāḥ kriyāyoge" (Pā. Sū. 1-4-59) the preposition has also the designation *gati* (Pā. Sū. 1-4-60). By "abhyastānām ādiḥ" (Pā. Sū. 6-1-189), though the *laṭ*-substituted ending is an *aniṭ* and not vowel-initial, being *sārvadhātuka* the initial of the reduplicated stem is udātta when it follows; the two parts that have undergone the doubling prescribed by the sūtra of the "ṣaṣṭhādhyāya" are called *abhyasta* (by "ubhe abhyastam", Pā. Sū. 6-1-5); by this sūtra the initial udātta arises here. Since "tiṅ codāttavati" (Pā. Sū. 8-1-71) says that the *gati* before a *tiṅanta* having udātta is anudātta, here for the *gati* *parā* the initial udātta by the general sūtra "nipātā ādyudāttāḥ" is overruled and anudātta accent arises.
+- **दाशुषे** — the root *dāśṛ dāne*, *bhvādi*. By "dāśvān sāhvān mīḍhvāṃś ca" (दाश्वान्साह्वान्मीढ्वाँश्च, Pā. Sū. 6-1-12) these three words are irregular forms (*nipātana*). The *kvasu* affix is prescribed for the root *dāś*; the prohibition of *iṭ* (the augment prescribed for *val*-initial) and the prohibition of reduplication for the root come from the *nipātana* itself. When the fourth-case singular is added to the word *dāśvas*, by "vasoḥ saṃprasāraṇam" (Pā. Sū. 6-4-131) a *saṃprasāraṇa* is effected on the *aṅga* ending in *vasu*, which is called *bha*, since the vowel-initial affix *ṅe* (of the *ac*-initial kind) follows; this *saṃprasāraṇa* is the *ik* letter that takes the place of the *yaṇ*; here the *u* substituted for *v*; before it the *a*, being an *aṭ*, by "saṃprasāraṇāc ca" (Pā. Sū. 6-1-108) takes the single prior form. In *dāśus+e*, by "śāsivasighasīnāṃ ca" (Pā. Sū. 8-3-60) the *s* in the *i/ku*-group context of *śās, vas, ghas* gets *ṣ*; so here the *s* of *vas* after the *saṃprasāraṇa* becomes *ṣ*; the form *dāśuṣe*.
+- **भक्षीय** — the root *bhaja sevāyām*, *bhvādi*; by "vidhinimantraṇāmantraṇādhīṣṭasaṃpraśnaprārthaneṣu liṅ" (Pā. Sū. 3-3-161) the *liṅ* in the sense of prayer. The benedictive (*āśīrliṅ*) is given the *ārdhadhātuka* designation, but the potential (*vidhiliṅ*) is not, in the world; however, by "chandasy ubhayathā" the affixes prescribed in the section of roots obtain both designations in the Veda; so here the *vidhiliṅ* too has the *ārdhadhātuka* designation; the stem-marker *śap* that is prescribed for the *sārvadhātuka* does not come; for the first person singular, by "iṭo 't" (Pā. Sū. 3-4-106) *at*; by "liṅaḥ sīyuṭ" (Pā. Sū. 3-4-102) the augment *sīyuṭ* for the *liṅ*; with *bhaj+sīy+a*, by "coḥ kuḥ" (Pā. Sū. 8-2-30) *kutva*, so the *j* becomes *g*; the *g* by *carva* becomes *k*; then *bhak+sīya* *(continues on p. 24)*
+
+### Page 24 (PDF 39)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81". This page is printed in a different, blurred type; it is legible but fuzzy.)*
+
+*Grammar of Rik 81.6, continued from p. 23:*
+
+- **भक्षीय** (continued) — "…by 'khari ca' the *k* of *bhak*, together with the *s*, becomes *kṣ* (the sibilant after a *k*-class letter becomes *ṣ* by the rule of *ṣatva* because *sīyuṭ* is an augment (*āgama*) and takes the properties of the affix by the *āgama* maxim; so "ṣatva" comes after the *kavarga* as said before). The *kṣ* arises from *k* and *ṣ*, so the form *bhakṣīya* is complete. Because the affix is called *ārdhadhātuka*, the loss of the *s* of the *liṅ*, which would have to occur, does not occur. After the augment *sīyuṭ*, the *liṅ* is *valādi* *ārdhadhātuka*; but "ekāca upadeśe 'nudāttāt" (Pā. Sū. 7-2-10) prohibits *iṭ*: the sūtra means that an *ārdhadhātuka* beginning with a *val* consonant does not take *iṭ* after a root that is monosyllabic and *anudātta* by teaching; here the root *bhaj* is both, so *iṭ* does not come. By "āgamā anudāttāḥ", the augment *sīyuṭ* is anudātta, so the affix-accent (*pratyayasvara*), through the *śiti*-rule, remains as the udātta. By "samānavākye nighātayuṣmadasmadādeśā vaktavyāḥ" (the *vārttika* on Pā. Sū. 8-1-[?]) — the anudātta substitutes of *yuṣmad*/*asmad* occur in the same sentence — here, since the preceding word is not in the same sentence, no anudātta arises. ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.7**
+
+> मदेमदे हि नो ददिर्यूथा गवामृजुक्रतुः ।
+> सं गृभाय पुरू शतोभयाहस्त्या वसु शिशीहि राय आ भर ॥ ७ ॥
+
+*made-made hi no dadir yūthā gavām ṛjukratuḥ |
+saṃ gṛbhāya purū śatobhayāhastyā vasu śiśīhi rāya ā bhara ||7||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> मदेऽमदे । हि । नः । ददिः । यूथा । गवाम् । ऋजुऽक्रतुः ।
+> सम् । गृभाय । पुरु । शता । उभयाहस्त्या । वसु । शिशीहि ।
+> रायः । आ । भर ॥ ७ ॥
+
+*made-made | hi | naḥ | dadiḥ | yūthā | gavām | ṛju-kratuḥ | sam | gṛbhāya | puru | śatā | ubhayāhastyā | vasu | śiśīhi | rāyaḥ | ā | bhara ||7||*
+
+---
+
+**Progress note:** Printed pp. 1–24 done (PDF 16–39) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.6 complete** (grammar of 81.6 on pp. 23–24); **Rik 81.7** — Saṃhitā and Pada (p. 24) done. Next: printed p. 25 (PDF 40) — bhāṣya of 81.7. Two Ṛks (81.8–81.9) remain after 81.7, then Sūkta 82 (pp. 33 ff.). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print.
