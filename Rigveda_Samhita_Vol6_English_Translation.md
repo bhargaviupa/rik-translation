@@ -8004,4 +8004,72 @@ purupraśasto amatir na satya ātmeva śevo didhiṣāyyo bhūt ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–387 done (PDF 19–405): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 73.1 complete (Special Topics p. 385; grammar page pp. 385–387); **Rik 73.2** (printed "2 ||") — Saṃhitā and Pada done (p. 387). Next: p. 388 (PDF 406), the Sāyaṇa-bhāṣya of Rik 73.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation on p. 385 (read from small print) doubtful [?].
+### Page 388 (PDF 406)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.2** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> देवो न सविता द्योतमानः सर्वस्य प्रेरकः सूर्य इव योऽग्निः सत्यमन्मा सत्यज्ञानो यथार्थदर्शी सोऽग्निः क्रत्वात्मीयेन कर्मणा विश्वा वृजनानि । विभक्तिव्यत्ययः । सर्वेभ्यः संग्रामेभ्यो निपाति नितरां पालयति । वर्ज्यंते हिंस्यंते ऽस्मिन्निति वृजनं संग्रामः । अपि च पुरुप्रशस्तः पुरुभिर्यजमानैः स्तुतो ऽग्निरमतिर्न । रूपनामैतत् । रूपमिव सत्यो बाधरहितः । रूप्यते इति रूपं स्वरूपं । यथा पृथिव्यादेः स्वरूपमागमापायिषु विशेषेषु सत्स्वपि स्वयमेवैकरूपेण नित्यं भवति तद्वदग्निरप्युच्चावचेषु सर्वेषु कर्मसु स्वयमेकः एव व्याप्य वर्तते । सोऽग्निः शेवः सुखकरः । तत्र दृष्टांतः । आत्मेव । परमप्रेमास्पदतया निरतिशयानंदस्वरूप आत्मा यथा सर्वान्सुखयति । एतस्यैवानंदस्यान्यानि भूतानि मात्रामुपजीवंति । एष ह्येवानंदं ददातीति च श्रवणात् तद्वदग्निरपि स्वर्गादिफलहेतुतया सुखयति । एवं भूतोऽग्निर्दिधिषाय्यो भूत् । सर्वैर्यजमानैर्धारणीयो भवति । परित्यागे हि वीरहत्यालक्षणो दोषो भवति । तथा चोक्तं तैत्तिरीयकं । वीरहा वा एष देवानां योऽग्निमुद्वासयते । तै. सं. [१-५-२-१?] इति ॥ सत्यमन्मा । मननं मन्म । मन ज्ञाने । अन्येभ्योऽपि दृश्यंत इति मनिन् । सत्यमवितथं मन्म यस्य । बहुप्रीहिस्वरः । वृजनानि । वृजी वर्जने । क्यप् वृजीत्यादिना क्यप्प्रत्ययः । पुरुप्रशस्तः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते प्रवृद्धादीनां च । पा. [६-२-१४८?] । इत्युत्तरपदांतोदात्तत्वं । स ह्याकृतिगण इत्युक्तं । अमतिः । अम गत्यादिषु । आमेरतिः । दिधिषाय्यः । दधातेर्दिधिषाय्यः । उ. [३-९८?] । इति सायप्रत्ययांतो निपात्यते ॥
+
+*devo na savitā dyotamānaḥ sarvasya prerakaḥ sūrya iva yo 'gniḥ satyamanmā satyajñāno yathārthadarśī so 'gniḥ kratvātmīyena karmaṇā viśvā vṛjanāni | vibhaktivyatyayaḥ | sarvebhyaḥ saṃgrāmebhyo nipāti nitarāṃ pālayati | varjyante hiṃsyante 'sminn iti vṛjanaṃ saṃgrāmaḥ | api ca purupraśastaḥ purubhir yajamānaiḥ stuto 'gnir amatir na | rūpanāmaitat | rūpam iva satyo bādharahitaḥ | rūpyate iti rūpaṃ svarūpaṃ | yathā pṛthivyādeḥ svarūpam āgamāpāyiṣu viśeṣeṣu satsv api svayam evaikarūpeṇa nityaṃ bhavati tadvad agnir apy uccāvaceṣu sarveṣu karmasu svayam ekaḥ eva vyāpya vartate | so 'gniḥ śevaḥ sukhakaraḥ | tatra dṛṣṭāntaḥ | ātmeva | paramapremāspadatayā niratiśayānandasvarūpa ātmā yathā sarvān sukhayati | etasyaivānandasyānyāni bhūtāni mātrām upajīvanti | eṣa hy evānandaṃ dadātīti ca śravaṇāt tadvad agnir api svargādiphalahetutayā sukhayati | evaṃ bhūto 'gnir didhiṣāyyo bhūt | sarvair yajamānair dhāraṇīyo bhavati | parityāge hi vīrahatyālakṣaṇo doṣo bhavati | tathā coktaṃ taittirīyakaṃ | vīrahā vā eṣa devānāṃ yo 'gnim udvāsayate | tai. saṃ. [1-5-2-1?] iti || satyamanmā | mananaṃ manma | mana jñāne | anyebhyo 'pi dṛśyanta iti manin | satyam avitathaṃ manma yasya | bahuvrīhisvaraḥ | vṛjanāni | vṛjī varjane | kyap vṛjītyādinā kyap-pratyayaḥ | purupraśastaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratve prāpte pravṛddhādīnāṃ ca | pā. [6-2-148?] | ity uttarapadāntodāttatvaṃ | sa hy ākṛtigaṇa ity uktaṃ | amatiḥ | ama gatyādiṣu | āmer atiḥ | didhiṣāyyaḥ | dadhāter didhiṣāyyaḥ | u. [3-98?] | iti sāyyapratyayānto nipātyate ||*
+
+*(Reading note: the print is clear but small; "vibhaktivyatyayaḥ", "rūpyate", "āgamāpāyiṣu" and the Uṇādi/Pāṇini numerals are doubtful [?]. The bhāṣya's tail begins at "satyamanmā" and is characterized below.)*
+
+*Meaning:* Agni, who like the shining (*devaḥ*) Savitṛ, the Sun, who impels everyone, is *satyamanmā* — of true knowledge, seeing things as they are — protects (*ni pāti*) from all the battles (*viśvā vṛjanāni*, by a change of case-ending) by his own work (*kratvā*): *vṛjana* is "that in which beings are shunned or injured" — a battle. And praised by many (*purupraśastaḥ*) — praised by many sacrificers — Agni is *amatir na*: *amati* is a name of "form" — like form, true (*satyaḥ*), free from obstruction: "that which is formed is *rūpa*, the own form" — as the own form of the earth and the rest remains always of one form, even though its particulars come and go, so Agni himself alone pervades all the high and low rites. He is *śevaḥ* — the giver of comfort. The illustration: *ātmeva* — as the Self (*ātman*), whose nature is unsurpassed bliss, being the object of the highest love, gladdens all; other beings live on a particle of this same bliss, and "he gives bliss" (Br. Up. / Tai. Up.), so Agni too gladdens as the cause of heaven and other fruits. Such an Agni *didhiṣāyyaḥ bhūt* — is to be sustained (held) by all sacrificers; for in abandoning him there is the fault of killing a hero: so the Taittirīya says, "He who sends away Agni is the slayer of the heroes of the gods" (Tai. Saṃ. [1-5-2-1?]).
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *satyamanmā* (*manma* "thought", root *mana jñāne*, *manin* by *anyebhyo 'pi dṛśyante*; bahuvrīhi accent); *vṛjanāni* (root *vṛjī varjane*; *kyap*); *purupraśastaḥ* (the first member's accent expected by *tṛtīyā karmaṇi* is set aside by *pravṛddhādīnāṃ ca*, giving the final acute of the second member; "it is an *ākṛtigaṇa*"); *amatiḥ* (root *ama gatyādiṣu*; *ati* by Uṇ.); *didhiṣāyyaḥ* (root *dhā*; ending in *sāyya*, derived by nipāta, Uṇ. [3-98?]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*devaḥ savitā na* — like the shining Sun who impels all; *yaḥ* — which Agni; *satyamanmā* — of true knowledge (a seer of things as they are); *kratvā* — by his own work; *viśvā vṛjanāni* — from all battles; *ni pāti* — protects well; *purupraśastaḥ* — praised by many (sacrificers); *amatiḥ na* — like form; *satyaḥ* — free from obstruction; *ātmā iva* — like the Self; *śevaḥ* — the giver of comfort; *didhiṣāyyaḥ bhūt* — is held by all (is honoured).
+
+---
+
+### Page 389 (PDF 407)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni — like the shining Sun, a seer of things as they are, protecting by his own works (the doers of sacrifice) in all battles, praised by many — free from obstruction like form, comfort-giving like the Self, is established in every house (at all times).
+
+**English Translation** *(the source's own, as printed):*
+
+> He who is like the divine Sun, who knows the truth (of things) preserves by his actions (his votaries) in all encounters; like nature, he is unchangeable, and like soul, is the source of happiness: he is ever to be cherished.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **क्रत्वा निपाति वृजनानि विश्वा** — "The word *vṛjanāni* is used in the sense 'to be avoided' in the Ṛk
+
+  > ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति ।
+  > *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti* (Ṛk. Saṃ. [4-23-8?])
+
+  *Saṃgrāmebhyaḥ* — 'from the state of battles' — thus Sāyaṇa explains the sense. Here *vṛjinam* is a name of strength, but here, because it is to be avoided, *vṛjinaṃ pāpam ucyate* — "*vṛjina* is called 'sin'": 'all sins'. The word *vṛjana* shows elsewhere the sense 'strength'. Here the sense 'fit to be abandoned' is meant; since this is intended, it means 'sin; from all sins' — the sense (Skandasvāmin's commentary): Agni, from battles in which calamities arise — which are to be avoided — protects the sacrificers, doing acts by which they are protected and guarded; Skandasvāmin says 'he protects from all injuries'." *(Gloss on the cited Ṛk as at Rik 71.7 — mine and tentative.)*
+- **सत्यमन्मा** — *mananaṃ manma satyam avitathaṃ manma yasya* — "*manma* is 'thought, resolve': 'one whose resolve is not vain'."
+- **अमतिर्न सत्यः** — *rūpanāmaitat | rūpam iva satyo bādharahite* (Sā. Bhā.) *amatir iti rūpanāmāsyatra | iha tu ātmam atir amatir ucyate | athavā gamanaśīlo ādityaḥ tadvat satyaḥ* (Skanda. Bhā.) — "Since *nirṇik*, *vapruḥ* and so on [are read] among the sixteen names of form, the word *amati* is stated there (Ni. [3-13?]), so it means 'having form'. *Rūpyate* — as objects, though different, are distinguished by their forms: the forms of things, for example, in *pṛthivī* and others [there is] increase or decrease, but the property of being earth alone is without change; so Agni too, in the works that produce exceeding greatness and in other [objects], remains himself alone pervading them. In the same way, in the state of never suffering any deficiency — so Sāyaṇa explains. Skandasvāmin says Agni is called *amati* because he is possessed of knowledge about the Self; or, since the root *ama* has the senses of motion and the like, *amati* means 'one who has the nature of the moving Āditya', and true like him." *(continued on p. 390)*
+
+---
+
+### Page 390 (PDF 408)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Special Topics of Rik 73.1–73.2 (continued)**
+
+- **आत्मेव शेवः दिधिषाय्यः** — "As the Self, the object of the highest love, becomes the cause of comfort for all, though the Self itself is bliss unsurpassed, and as the Self makes comfortable by bringing about the best fruits such as heaven, so Agni, who is happiness to all, is beneficent. The Self, whose form is unsurpassed bliss, is spoken of in the śruti: *etasyaivānandasyānyāni bhūtāni mātrām upajīvanti* ('other beings live on a particle of this very bliss', Br. Up. [4-3-32?]); by the smallest trace of bliss all other beings are happy. *Eṣa hy evānandaṃ dadāti* ('he alone gives bliss', Tai. Up. [2-7?]): the śruti shows that this Self is the very form of bliss.
+
+  Whoever does not worship Agni, who is ever comfort-giving as the Self, to those who sacrifice and to others, comes under the sin called *vīrahatyā* ('hero-slaying').
+
+  > वीरहा वा एष देवानां योऽग्निमुद्वासयते ।
+  > *vīrahā vā eṣa devānāṃ yo 'gnim udvāsayate* (Tai. Saṃ. [1-5-2-1?])
+
+  The śruti is the authority for this; therefore the purport is that Agni must necessarily be worshipped. Skandasvāmin explains that Agni, comfort-giving to all as the Self, upholds everything."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.2, noted briefly; not transcribed)*
+
+Words treated: *satyamanmā* (*mananaṃ manma*; root *mana jñāne*; *manin* by *anyebhyo 'pi dṛśyante*, Pā. [3-2-75]; "*satyam avitathaṃ manma yasya*": *satyamanman*; in the nominative singular, lengthening of the penultimate by *sarvanāmasthāne cāsaṃbuddhau*, Pā. [6-4-8]; loss of the ending by *halṅyābbhyo…*; loss of *n* by *nalopaḥ prātipadikāntasya*, …) *(continued on p. 391)*. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–390 done (PDF 19–408): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 73.1 complete; **Rik 73.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 388–390) done; the grammar page is begun (p. 390, up to *satyamanmā*). Next: p. 391 (PDF 409), the rest of the grammar page of 73.2; then Rik 73.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Upaniṣad numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Special Topics on pp. 389–390 compressed [?].
