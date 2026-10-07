@@ -7047,4 +7047,80 @@ nāmāni cid dadhire yajñiyāny asūdayanta tanvaḥ sujātāḥ ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–343 done (PDF 19–361): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.2 complete (72.2: Special Topics and grammar page on pp. 340–343); **Rik 72.3** (printed "3 ||") — Saṃhitā done (p. 343). Next: p. 344 (PDF 362), the Pada and the Sāyaṇa-bhāṣya of Rik 72.3. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.3–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 341–342 (as read, glosses mine and tentative) and the "Sauceeka-sūkta" reference doubtful [?].
+### Page 344 (PDF 362)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 72.3**
+
+> तिस्रः । यत् । अग्ने । शरदः । त्वाम् । इत् । शुचिम् । घृतेन । शुचयः । सपर्यान् ।
+> नामानि । चित् । दधिरे । यज्ञियानि । असूदयन्त । तन्वः । सुऽजाताः ॥ ३ ॥
+
+*tisraḥ | yat | agne | śaradaḥ | tvām | it | śucim | ghṛtena | śucayaḥ | saparyān | nāmāni | cit | dadhire | yajñiyāni | asūdayanta | tanvaḥ | su-jātāḥ ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> शुचयः शोधयितारो दीप्ता वा मरुतो हे अग्ने शुचिं शुद्धं दीप्यमानं वा त्वामिद्देवेभ्यो निर्गतं त्वामेवोद्दिश्य तिस्रः शरदस्त्रीन् संवत्सरान्घृतेनाज्येन यद्यदा सपर्यान् पूजां कुर्युः तदानीं त्वमाविरभूः । केदनंतरं ते मरुतस्त्वयानुगृहीताः संतो यज्ञियानि यज्ञार्हाणि यज्ञे प्रयोक्तुं योग्यानि नामानि चित् नामान्यपि दधिरे । आधारयन् । नामानि च तैत्तिरीयके समामान्यते । ईदृक् चान्यादृक् च तादृङ् च प्रतिदृङ् च मितश्च संमितश्च सभराः । तै. सं. [४-६-५-५?] इत्यादीनि । एतैश्चाग्निचयने मारुताः सप्तकपाला हूयंते । नामानि धारयित्वा च सुजाताः पूर्वं रूपं परित्यज्य शोभनममृतत्वं प्राप्ताः संतस्तन्वः स्वकीयानि शरीराण्यसूदयंत । स्वर्गं प्रापितवंतः ॥ तिस्रः । त्रिचतुरोः स्त्रियां तिसृचतसृ इति पूर्वसवर्णदीर्घत्वे प्राप्ते चि र ऋत इति रेफादेशः । त्रिशब्दः फिषः । फि. [१-१?] इत्यंतोदात्तः । तिस्रादेशस्यापि स्थानिवद्भावेनांतोदात्तत्वं उदात्तयणो हल्पूर्वादिति शस उदात्तत्वं । शरदः । शॄ हिंसायां । शीर्यंते ऽस्यामोषधय इति शरत्संवत्सरः । शृदृभसोऽदिः । उ. [१-१३९?] इत्यदिप्रत्ययः । उभयत्र कालाध्वनोरत्यंतसंयोगे । पा. [२-३-५?] इति द्वितीया । सपर्यान् । सपर पूजायां । कण्ड्वादिः । लेट्यडागमः । इतश्च लोप इतीकारलोपः । यज्ञियानि । यज्ञर्त्विग्भ्यां घखञौ [?] इत्यर्हार्थे घप्रत्ययः ॥
+
+*śucayaḥ śodhayitāro dīptā vā maruto he agne śuciṃ śuddhaṃ dīpyamānaṃ vā tvām id devebhyo nirgataṃ tvām evoddiśya tisraḥ śaradas trīn saṃvatsarān ghṛtenājyena yad yadā saparyān pūjāṃ kuryuḥ tadānīṃ tvam āvirabhūḥ | kedanantaraṃ(?) te marutas tvayānugṛhītāḥ santo yajñiyāni yajñārhāṇi yajñe prayoktuṃ yogyāni nāmāni cit nāmāny api dadhire | ādhārayan | nāmāni ca taittirīyake samāmnāyante | īdṛk cānyādṛk ca tādṛṅ ca pratidṛṅ ca mitaś ca saṃmitaś ca sabharāḥ | tai. saṃ. [4-6-5-5?] ity ādīni | etaiś cāgnicayane mārutāḥ saptakapālā hūyante | nāmāni dhārayitvā ca sujātāḥ pūrvaṃ rūpaṃ parityajya śobhanam amṛtatvaṃ prāptāḥ santas tanvaḥ svakīyāni śarīrāṇy asūdayanta | svargaṃ prāpitavantaḥ || tisraḥ | tricaturoḥ striyāṃ tisṛcatasṛ iti pūrvasavarṇadīrghatve prāpte ci ra ṛta iti rephādeśaḥ | triśabdaḥ phiṣaḥ | phi. [1-1?] ity antodāttaḥ | tisrādeśasyāpi sthānivadbhāvenāntodāttatvaṃ udāttayaṇo halpūrvād iti śasa udāttatvaṃ | śaradaḥ | śṝ hiṃsāyāṃ | śīryante 'syām oṣadhaya iti śarat saṃvatsaraḥ | śṛdṛbhaso 'diḥ | u. [1-139?] ity adipratyayaḥ | ubhayatra kālādhvanor atyantasaṃyoge | pā. [2-3-5?] iti dvitīyā | saparyān | sapara pūjāyāṃ | kaṇḍvādiḥ | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | yajñiyāni | yajñartvigbhyāṃ ghakhañau [?] ity arhārthe gha-pratyayaḥ ||*
+
+*(Reading note: the print is clear but small; "kedanantaram" is read as printed and is doubtful — probably *ke 'nantaram* ("and what after that?") [?]; "yajñartvigbhyāṃ ghakhañau" and the Uṇādi/Phiṭ/Pāṇini numerals are doubtful [?]. The bhāṣya's grammatical tail begins at "tisraḥ".)*
+
+*Meaning:* The *śucayaḥ* — the purifiers, or the shining Maruts — O Agni, when for three years (*tisraḥ śaradaḥ*) they worshipped you, pure (*śucim*) and shining, with ghee, aiming at you alone, you who had gone out from the gods — then you appeared. And after that the Maruts, favoured by you, also took names (*nāmāni cit dadhire*) that were fit for sacrifice (*yajñiyāni*) — names that could be used in the sacrifice; and these names are recited in the Taittirīya: "Such, and another such, and of that kind, and corresponding, and measured, and well measured, the *sabharāḥ*" (Tai. Saṃ. [4-6-5-5?]) and the rest; with these, in the piling of the fire, the seven-potsherd offering belonging to the Maruts is offered. And having borne the names, they, well born (*sujātāḥ*), leaving their former form and having reached a fair immortality, *asūdayanta* — led to heaven — their own bodies (*tanvaḥ*).
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *tisraḥ* (the feminine of *tri* and *catur* is *tisṛ*, *catasṛ*; when lengthening of the earlier similar vowel would arise, *r* is substituted by *ci ra ṛtaḥ*; the stem *tri* is *phiṣ*-accented, final acute, Phiṭ. [1-1?]; the substitute *tisṛ*, by the *sthānivat* rule, also has the final acute; the accusative plural ending acute by *udāttayaṇo hal-pūrvāt*); *śaradaḥ* (root *śṝ hiṃsāyām*; "that in which the plants wither" — *śarad*, the year; *adi* by *śṛdṛbhasoḥ adiḥ*, Uṇ. [1-139?]; the second case in both, by *kālādhvanor atyantasaṃyoge*, Pā. [2-3-5]); *saparyān* (root *sapara pūjāyām*, *kaṇḍvādi*; *leṭ* with *aḍāgama*; loss of *i* by *iteś ca lopaḥ*); *yajñiyāni* (the affix *gha* [*iya*] in the sense "worthy of" after *yajña* [and *ṛtvij*]).
+
+---
+
+### Page 345 (PDF 363)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *śucayaḥ* — the purifying (shining Maruts); *śucim* — the pure (shining Agni); *tvām it* — you alone; *tisraḥ śaradaḥ* — for three years; *ghṛtena* — with ghee; *yat* — when; *saparyān* — they worshipped; *yajñiyāni* — fit to be used in the sacrifice; *nāmāni cit* — even names; *dadhire* — they bore; *sujātāḥ* — having obtained propitious immortality; *tanvaḥ* — their bodies; *asūdayanta* — they brought to heaven.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! The Maruts, (themselves) pure, after doing worship (offerings and so on) with ghee for three years, directed to you, obtained names fit for sacrifice; and having obtained immortality, attained heaven.
+
+**English Translation** *(the source's own, as printed):*
+
+> Inasmuch, Agni, as the pure (Maruts) worshipped you (equally) pure, with clarified butter for three years, therefore they aquired [sic] names worthy (to be repeated) at sacrifices, and being regenerated, obtained celestial bodies.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **शुचयः** — "Sāyaṇa says they are 'those who purify, or the shining Maruts'; Skandasvāmin explains *śuddhātmānaḥ* — 'those with a perfectly purified body and mind', sacrificers."
+- **शुचिम्** — "pure, or Agni who is shining: the meaning is that the Maruts worshipped Agni with ghee, offering oblations. The word *śuci* (Ni. [6-1?]) is explained, in the Nirukta's derivation of the word *āśukukṣaṇi* [as printed], thus: *śuciḥ śocater jvalatikarmaṇaḥ* — 'from the root *śuc* "to burn", of the sense of blazing' — 'he is luminous': the word *śuci*, from the root *śuci dīptau*, shows the meaning 'bright'. Hence Agni, who is meant by the word *śuci*, and Agni, who is meant by the word *āśukukṣaṇi*, are different in this way [as read, ?]: *ayam api itaraḥ* —" *(continued on p. 346)*
+
+---
+
+### Page 346 (PDF 364)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Special Topics of Rik 72.3 (continued)**
+
+- **शुचिम्** (continued) — "*…śucir ity asmād eva iti vaiyākaraṇāḥ manyante* ('the grammarians consider it from this very [root]'): the Nirukta statement of this kind expresses this same meaning. And:
+
+  > त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+  > त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥
+  > *tvam agne dyubhis tvam āśuśukṣaṇis tvam adbhyas tvam aśmanas pari | tvaṃ vanebhyas tvam oṣadhībhyas tvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ||* (Ṛk. Saṃ. [2-1-1]; as read)
+
+  In the Ṛk, the Nirukta explains that although in both words *āśuśukṣaṇiḥ* and *śuciḥ* Agni is meant, they have a distinct difference between them." *(Gloss mine and tentative: "you, O Agni, [are born] from the days, you the swift-blazing, from the waters, from the stone; from the woods, from the plants; you, lord of men, are born pure".)*
+- **शरदः** — *śīryante 'syām oṣadhaya iti śarat saṃvatsaraḥ* — "'the season in which the plants, ripened (fruited), fall to the ground': therefore it means 'year'. The Maruts worshipped Agni with ghee-oblations for three years. Yāska, explaining the plural *śaradaḥ* of the word *śarad*: *śaradaḥ śṛtā asyām oṣadhayo bhavanti | śīrṇā āpa iti vā* (Ni. [4-?]) — 'in this season the plants are ripe; or the waters are *śīrṇa* (diminished)'. In this season the plants wither and the waters dry; therefore it is called *śarad*. Showing the meaning 'year', in the sense that in this season an abundance of health from numerous diseases is hoped for, he quotes the Ṛk:
+
+  > पुनः पत्नीमग्निरदादायुषा सह वर्चसा ।
+  > दीर्घायुरस्या यः पतिर्जीवाति शरदः शतम् ॥
+  > *punaḥ patnīm agnir adād āyuṣā saha varcasā | dīrghāyur asyā yaḥ patir jīvāti śaradaḥ śatam ||* (Ṛk. Saṃ. [10-85-39?])"
+  *(Gloss mine and tentative: "again Agni gave the wife, with life and splendour; her husband, long-lived, shall live a hundred autumns".)*
+- **यज्ञियानि नामानि चित् दधिरे** — "The Maruts, having pleased Agni and become worthy of his favour, obtained names suited to praise in the sacrifice. These names too are well known in the mantras
+
+  > ईदृङ् चान्यादृङ् चैतादृङ् च प्रतिदृङ् च मितश्च संमितश्च सभराः ।
+  > *īdṛṅ cānyādṛṅ caitādṛṅ ca pratidṛṅ ca mitaś ca saṃmitaś ca sabharāḥ* (Tai. Saṃ. [4-6-5-5?])
+
+  By these mantras, in the piling of the fire (*agnicayana*), the oblation is offered to the Maruts in seven potsherds. These Maruts, becoming known by such names, give up their former form and, having obtained the excellent divinity, they brought their bodies to heaven…" *(continued on p. 347)*
+
+---
+
+**Progress note:** Printed pp. 1–346 done (PDF 19–364): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.2 complete; **Rik 72.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*śucayaḥ*, *śucim*, *śaradaḥ*, *yajñiyāni nāmāni*) done (pp. 343–346); the Special Topics break off on p. 346 in the *yajñiyāni nāmāni* note; the grammar page not yet seen. Next: p. 347 (PDF 365). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.3–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 72.3 (p. 344) compressed and partly doubtful, and the Ṛgveda/Taittirīya citations on pp. 345–346 given as read, glosses mine and tentative [?].
