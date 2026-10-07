@@ -4250,4 +4250,55 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–212 done (PDF 19–230): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1, 67.2 complete; **Rik 67.3** (half-Ṛks 5–6) — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (pp. 211–212). Next: p. 213 (PDF 231), the source's English, Special Topics and grammar page of Rik 67.3; then Riks 67.4, 67.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Taittirīya quotation in 67.3 [?]; the final Pada word "guhaṃ" of 67.3 as printed [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 213 (PDF 231)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Like the unborn (Sun) he sustains the earth and the firmament, and props up the heaven with true prayers. O Agni, the source of sustenance unto all, protect the pasture that is grateful unto animals and repair to the cave which is unfit for grazing.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **अजो न क्षां** — *ajati gacchatīty ajaḥ sūryaḥ | yadvā na jāyata ity ajaḥ | janmarahitaḥ* — "the word *aja* means the sun, taking the root *aj* in the sense of motion, because he is always moving; Skandasvāmin gives another meaning of *aja*: 'the sun, who has no birth or death'. *Kṣā* is read among the twenty-one names of 'earth' (Ni. [1-1]). *Na* is the word of comparison. As the sun upholds the earth and makes light, giving life and movement to all, so Agni holds the whole earthly world by his radiance."
+- **पृथिवीं द्यां तस्तम्भ** — *pṛthivīty antarikṣanāma | āntarikṣaṃ ca dyulokaṃ ca stabhnāti | yathājo na patati upary eva tiṣṭhati tathā karoti* — "the word *pṛthivī* is read among the twelve names of 'atmosphere' (Ni. [1-3]); both the atmosphere and the heaven, so that they never fall below but remain above — Agni holds them with truth-meaning mantras. Or Agni, praised by mantras that state the truth, makes the heavenly world stand as if in one place. That heaven is upheld by mantras is stated by the Taittirīya Brāhmaṇa sentence '*devā vā ādityasya suvargasya lokasya parāco 'tipātād abibhayuḥ | taṃ chandobhir adṛṃhan spṛtyai*' (Tai. Brā. [1-2-4-2], as read, ?).
+  On this sentence '*paśvaḥ priyā pāhi*' Sāyaṇa gives the meaning: 'protect the places that have good grass and water, which are dear to animals; do not burn them'.
+  Skandasvāmin takes the word *aja* to mean Prajāpati: as Brahmā upholds the three worlds, Agni holds the three worlds (earth, atmosphere, heaven) so that they continue by the practice of *dharma* in the form of sacrifice; and, [taking *paśvaḥ* as] 'to me who resemble an animal', 'protect, in this world and in the next, the places beneficial [to me]…" *(continues on p. 214).*
+
+---
+
+### Page 214 (PDF 232)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**Special Topics (concluded; Kannada).** "…protect the fixed places, here and in the other world, or protect us who know the places that are the abode of your love." From this he explains the word *paśvaḥ* as '*paśusadṛśaḥ*' (like an animal), or "*paśvaḥ dṛśer idaṃ rūpam*" [as read, ?].
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 67.3 (noted briefly).** **दाधार**: the form of the Vedic *liṭ*, third person singular, of the root *dhṛñ*; by "nityaṃ… " [as read: "niṣātaśyethādiṣv"] the prohibition of the *nighāta* does not arise [?]; since *ṇal* is *l*-marked, by "liti" the syllable before the affix is acute. **तस्तम्भ**: root *stabhi gātravināme*, [read as *ṣṭambhu*]; by "chandasi luṅlaṅliṭaḥ" the *liṭ*; since it is *idit*, the *num* augment; by "śarpūrvāḥ khayaḥ" the *t* alone remains in the reduplicative syllable; because it stands at the beginning of the *pāda*, no *nighāta*; as before, by "liti" the syllable before the affix is acute. **मन्त्रेभिः**: by "bahulaṃ chandasi" the *ais* substitute for *bhis* does not come in the instrumental etc.; by "bahuvacane jhaly et" the *e* for the stem's *a*. **प्रिया**: *priyāṇi*, in the neuter, the *śi* that came as substitute is lost by "śeś chandasi bahulam". **पश्वः**: by "jasādiṣu chandasi vā vacanam" [the option]: with *paśu + ṅas*, the *guṇa* does not come by "gher ṅiti"; by "iko yaṇaci" the *yaṇ* substitute; for the *u* that was acute the *yaṇ* has come, and the case-ending following it is acute by "udāttayaṇo hal pūrvāt". **गुहा**: *guhā + ṅasi* [ablative/locative] — by "supāṃ sulug…" *ā* for the case-ending; since *c*-marked, by "citaḥ" the final acute. **गुहम्**: for *guhām*, the *ām* [ending] following, by "ami pūrvaḥ" the single substitute is the preceding form; by "vyatyayo bahulam" the shortening. **गाः**: root *iṇ gatau*; in the sense of *loṭ*, by "chandasi luṅlaṅliṭaḥ" the *luṅ*; the *i* of *sip* is lost by "itaś ca"; by "iṇo gā luṅi" *gā* for the root; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; the *s* becoming *ru*/*visarga*: *gāḥ*.
+
+---
+
+### Page 215 (PDF 233)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**Grammar page for Rik 67.3, concluded (noted briefly).** **पाहि**: root *pā rakṣaṇe*; in the *loṭ*, second person singular, the substitute *hi* for *sip*; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; by "tiṅ atiṅaḥ" the *nighāta* accent. **अग्ने**: by "hrasvasya guṇaḥ" *guṇa* in the vocative; by "eṅhrasvāt sambuddheḥ" the loss of *su*; by "āmantritasya ca" the *nighāta* accent. **॥ ५–६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 67.3 ends here (ornamental rule).*
+
+#### Rik 67.4 *(printed "7 || 8 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **य ईं चिकेत गुहा भवन्तमा यः ससाद धारामृतस्य ।**
+> **वि ये चृतन्त्यृता सपन्त आदिद्वसूनि प्र ववाचास्मै ॥ ७ ॥ ८ ॥**
+> *ya īṃ ciketa guhā bhavantam ā yaḥ sasāda dhārām ṛtasya |*
+> *vi ye cṛtanty ṛtā sapanta ād id vasūni pra vavācāsmai || 7 || 8 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **यः । ईम् । चिकेत । गुहा । भवन्तम् । आ । यः । ससाद । धाराम् । ऋतस्य ।**
+> **वि । ये । चृतन्ति । ऋता । सपन्तः । आत् । इत् । वसूनि । प्र । ववाच । अस्मै ॥ ७ ॥ ८ ॥**
+> *yaḥ | īm | ciketa | guhā | bhavantam | ā | yaḥ | sasāda | dhārām | ṛtasya |*
+> *vi | ye | cṛtanti | ṛtā | sapantaḥ | āt | it | vasūni | pra | vavāca | asmai || 7 || 8 ||*
+
+---
+
+**Progress note:** Printed pp. 1–215 done (PDF 19–233): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1–67.3 complete; **Rik 67.4** (half-Ṛks 7–8) — Saṃhitā and Pada only (p. 215). Next: p. 216 (PDF 234), the bhāṣya of Rik 67.4; then Rik 67.5 and the closing line of Sūkta 67; then Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Taittirīya quotations in 67.3 and the grammar page's first lines (*dādhāra*) [?]; accent marks of the Saṃhitā/Pada not reproduced.
