@@ -7696,4 +7696,63 @@ mahnā mahadbhiḥ pṛthivī vi tasthe mātā putrair aditir dhāyase veḥ ||9
 
 ---
 
-**Progress note:** Printed pp. 1–373 done (PDF 19–391): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.8 complete (72.8's grammar page on pp. 371–372); **Rik 72.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and the beginning of the Pratipadārtha done (pp. 372–373). Next: p. 374 (PDF 392), the rest of the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page of 72.9; then Rik 72.10 and the closing line of Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.9–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.9 (p. 373), its tail especially, compressed and partly doubtful [?].
+### Page 374 (PDF 392)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Pratipadārtha of Rik 72.9 (concluded from p. 373; Kannada):** *…svapatyāni* — the auspicious (rites) …that do not let [them] fall (the *caturdaśarātra* and the rest, and the like) — rites; *ā tasthuḥ* — they performed; *taiḥ* — by such; *mahadbhiḥ* — (through the performance of sacrifice) great, to be venerated; *putraiḥ* — with sons (endowed); *mātā* — the mother; *aditiḥ* — the poor-not [i.e. "undiminished"; Aditi]; *pṛthivī* — the Earth; *dhāyase* — for the support of the world; *mahnā* — by her own greatness; *vi tasthe* — stands specially; *veḥ* — you (Agni) ate (the *puroḍāśa* and the rest given by the Ādityas; by that, knowing all).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+The Ādityas, desiring immortality, performed, in order not to fall from their [positions], the auspicious sacrifices, offered you the *puroḍāśa* and the rest, and thereby obtained greatness. Such a mother — the Earth, not diminished, joined with great sons — stands for the support of the world.
+
+**English Translation** *(the source's own, as printed):*
+
+> you have been fed, (Agni, with oblations), ever since the Aditya's, devising a road to immortality, instituted all (the sacred rites) that secured them from falling, and mother earth, Aditi, strove with her magnitude to uphold (the world), along with her mighty sons.
+
+*(The initial "you" is printed in lower case, and the Sanskrit "mighty sons" are the *mahadbhiḥ putraiḥ*; the order of clauses in the source's English is as printed [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **स्वपत्यानि** — "the cause of not producing a bad state, the best or auspicious rites: in order that the gods Aditi's sons might remain always in that god-hood of theirs, they performed the sacrifices, the *caturdaśarātra*, *ṣaṭtriṃśadrātra*, *ādityāyana* and the rest:
+
+  > आदित्या अकामयन्त सुवर्गं लोकमियामेति ते एतं षट्त्रिंशद्रात्रमपश्यन् तमाहरन् तेनायजन्त इति ॥
+  > *ādityā akāmayanta suvargaṃ lokam iyāmeti te etaṃ ṣaṭtriṃśadrātram apaśyan tam āharan tenāyajanta iti* (Tai. Saṃ. [2-4-6?])
+
+  This mantra is the authority for this sense." *(Gloss mine and tentative: "the Ādityas desired, 'may we go to the world of heaven'; they saw this thirty-six-night [rite]; they brought it; with it they sacrificed".)*
+- **अदितिः** — "The word *aditi* is read among the twenty-one names of the earth (Ni. [1-1?]), also in the hundred and ten [?] names of speech (Ni. [1-11?]), and in the nine names of the cow (Ni. [2-5?]); and it is read among the twenty-four names of heaven and earth (Ni. [3-30?]); and *aditi* in the sense *adīnā devamātā* (Ni. [4-22?]) — in the version of the *aitihāsikas* [historians], 'the mother of the gods'." *(continued on p. 375)*
+
+---
+
+### Page 375 (PDF 393)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 72.9 (continued)**
+
+> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
+> विश्वे देवा अदितिः पञ्च जनाः अदितिर्जातमदितिर्जनित्वम् ॥
+> *aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañca janāḥ aditir jātam aditir janitvam* (Ṛk. Saṃ. [1-89-10], numerals read as "10-?-?" [?])
+
+"In this Ṛk the greatness of Aditi is told. Therefore he gives the meaning *adīnā* ['not poor'] for the word *aditi*. The word *aditi* is in the Nirukta (Ni. [11-23?]), beginning *athāto madhyasthānāḥ striyaḥ* ('now the female deities of the middle region'), where examples of women among the middle-region deities are begun, and the word *aditiḥ* is said; and it is explained *adīnā devamātā*." *(Gloss mine and tentative: "Aditi is heaven, Aditi the atmosphere, Aditi the mother, she the father, she the son; Aditi all the gods, the five peoples; Aditi what is born, Aditi what is to be born".)*
+
+- **वेः** — "The root *vī* is well known in the senses of motion, eating, consuming, hence 'you eat the oblations'. By the statement *aditir… putraiḥ*, [by the phrase] 'Aditi, who has much greatness shown by the scripture, together with her many great sons is able to bear the whole world by her greatness' — he explains clearly Agni's power: that [all this] arose because Agni accepted the *caru* and *puroḍāśa* offered in the sacrifices that the Ādityas performed to gain Agni's favour."
+- *Skandasvāmin* — "the Aṅgirasa sages, with powerful sons of their own, praised Agni and obtained much wealth and children. By the favour of these Aṅgirasa sages, the earth produces crops for men and gives many kinds of help. The Aṅgirasa sages, as friends of Indra, bring about rain on the earth. Because of the rain, *dharma* arises; and by the practice of *dharma*, the gods do good to men. All this is the result of Agni's accepting the oblations that the Aṅgirasa sages offer and obtaining satisfaction — so he explains."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 72.9, noted briefly; not transcribed)*
+
+Words treated: *viśvā* (*viśvāni*: the *śi* lost by *śeś chandasi bahulam*); *svapatyāni* ("*śobhanāni apatyāni*"; by *nañsubhyām*, Pā. [6-2-172], the last syllable of the second member is acute); *tasthuḥ* (root *ṣṭhā gatinivṛttau*; *liṭ*, third person plural; because the word *yat* is connected, no nighāta; the final acute by the affix's accent). Continued on p. 376. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 376 (PDF 394)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**Grammar page of Rik 72.9 (concluded; noted briefly)**
+
+*kṛṇvānāsaḥ* (root *kṛvi hiṃsākaraṇayoś ca*; *ātmanepada* by *vyatyayo bahulam*; *śānac* in the present sense; the *u*-vikaraṇa by *dhinvikṛṇvor a ca*, Pā. [3-1-80], with *a* as final substitution; *num* by *idito num dhātoḥ*; loss of the *a* by *ato lopaḥ*, Pā. [6-4-48], since the *u* is the cause; by *ac aḥ parasmin pūrvavidhau* [Pā. [1-1-57]] the *sthānivat* rule does not apply, so no guṇa of the light penultimate caused by *u*; *kṛṇv* + *āna*, then *yaṇ*; because *śānac* is *cit*, final acute by *cito 'ntodāttaḥ*; in the plural, before *jas*, *asuk* by *ajjhasor asuk*, Pā. [7-1-50]; lengthening of the earlier similar vowel; *ru* for the final *s*, visarga); *amṛtatvāya* (*amṛtasya bhāvaḥ amṛtatvam*; *tva* in the abstract sense by *tasya bhāvas tvatalau*, Pā. [5-1-119]; final acute by the affix; dative singular); *mahnā* (*mahimnā*, with Vedic loss of letters, hence *mahnā*); *tasthe* (root *ṣṭhā gatinivṛttau*; since the prefix *vi* is connected, *ātmanepada* by *samavaprāviṣbhyaḥ sthaḥ*, Pā. [1-3-22]; *liṭ*, third person singular; nighāta because it follows an *atijanta*); *dhāyase* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; the *asun* affix in the abstract sense by *vahihādhāñbhyaś chandasi*, Uṇ. [4-?]; *ṇit* continued from the preceding sūtra, so no *ñit*-effect for *asun*; since the root ends in *ā*, *yuk* by *āto yuk ciṇkṛtoḥ*, Pā. [7-3-33]; the form *dhāyas*; because the affix is *nit*, initial acute by *ñnityādir nityam*; dative singular *dhāyase*); *veḥ* (root *vī gatiprajanakāntyaśanakhādaneṣu*, Adādi; *laṅ*, second person singular, *sip*; loss of *i* by *iteś ca*; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; guṇa of the root because of *sip*; *ru* for the *s*, visarga; since the preceding word *dhāyase* belongs to a different sentence, by being at the head of a clause no nighāta; the root accent is acute). Ends "॥ ९ ॥".
+
+---
+
+**Progress note:** Printed pp. 1–376 done (PDF 19–394): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.9 complete (72.9: pp. 372–376). Next: p. 377 (PDF 395), **Rik 72.10** (the last), then the closing line of Sūkta 72 — which completes the user's "next 2 sūktas" request (Sūktas 71 and 72). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda/Taittirīya citations on pp. 374–375 and the grammar page of 72.9 (pp. 375–376) compressed and doubtful in places [?].
