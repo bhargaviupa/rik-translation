@@ -7234,4 +7234,77 @@ Words treated: *bṛhatī* (*bṛhat*; dual; acute on the ending by the statemen
 
 ---
 
-**Progress note:** Printed pp. 1–352 done (PDF 19–370): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.3 complete; **Rik 72.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 350–351) and the grammar page up to *cikitvān* (p. 352) done; the grammar page breaks off in *cikitvān* at the foot of p. 352. Next: p. 353 (PDF 371), the end of the grammar page of 72.4; then Rik 72.5. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.4–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.4 doubtful in places [?]; the Special Topics of 72.4 (pp. 350–351) compressed.
+### Page 353 (PDF 371)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 23".)*
+
+**Grammar page of Rik 72.4 (concluded; noted briefly)**
+
+*cikitvān* (concluded): *num*-augment; loss of the *s*/*su* by *halṅyābbhyo…*; loss of the final *t* by *saṃyogāntalopa*; the affix's initial acute. *tasthivāṃsam* (root *ṣṭhā gatinivṛttau*; *kvasu* for *liṭ* by *kvasuś ca*, Pā. [3-2-107]; by the rule *vasv-ekājād-ghasām*, Pā. [7-2-67], this root, being monosyllabic, takes *iṭ* before *vasu*; doubling of the root; *śarpūrvāḥ khayaḥ*, Pā. [7-4-61], leaves the *t* of the reduplicate; loss of the root's *ā* by *āto lopa iṭi ca*; the form *tasthivas*; before the accusative singular ending, lengthening of the penultimate by *ātvasantasya cādhātoḥ*, Pā. [6-4-14]; *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*, with the *anusvāra* made the following class nasal). Ends "॥ ४ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.5** *(printed Ṛk "5 ||")*
+
+> संजानाना उप सीदन्नभिज्ञु पत्नीवन्तो नमस्यं नमस्यन् ।
+> रिरिक्वांसस्तन्वः कृण्वत स्वाः सखा सख्युर्निमिषि रक्षमाणाः ॥ ५ ॥
+
+*saṃjānānā upa sīdann abhijñu patnīvanto namasyaṃ namasyan |
+ririkvāṃsas tanvaḥ kṛṇvata svāḥ sakhā sakhyur nimiṣi rakṣamāṇāḥ ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सम्ऽजानानाः । उप । सीदन् । अभिऽज्ञु । पत्नीऽवन्तः । नमस्यम् । नमस्यन् । (*the Pada notes:* नमस्यन्निति नमस्यन् )
+> रिरिक्वांसः । तन्वः । कृण्वत । स्वाः । सखा । सख्युः । निऽमिषि । रक्षमाणाः ॥ ५ ॥
+
+*sam-jānānāḥ | upa | sīdan | abhi-jñu | patnī-vantaḥ | namasyam | namasyan | ririkvāṃsaḥ | tanvaḥ | kṛṇvata | svāḥ | sakhā | sakhyuḥ | ni-miṣi | rakṣamāṇāḥ ||5||*
+
+*(Reading note: the Pada prints the repeated word "namasyan" with its closing "iti"; the Pada's own marks are not reproduced. Accents not reproduced.)*
+
+---
+
+### Page 354 (PDF 372)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.5** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> घर्माभिष्टवे संजानाना इत्येषा । अथोत्त्रमिति खंडे सूत्रितं । संजानाना उप सीदन्नभिज्ञ्वा दशभिर्विवस्वतः । आ. [४-२?] इति ॥
+>
+> हे अग्ने त्वां संजानानाः सम्यग्जानंतो देवा उप सीदन् । उपसीदंति प्राप्नुवंति । उपसृत्य कृत्वा च पत्नीवंतः सपत्नीकाः संतो नमस्यं नमस्कारार्हमभिज्ञ्वा अभिमुख्येनावस्थितजानुयुक्तं त्वां नमस्यन् । अपूजयन् । पूजयित्वा च सख्युर्मित्रस्य तव निमिषि दर्शने निमित्तभूते सति रक्षमाणास्त्वया परिरक्ष्यमाणाः सखा सखायो देवाः स्वास्तन्वः स्वकीयानि शरीराणि रिरिक्वांसोऽनशनादिरूपेण दीक्षानियमेन रिक्तीकुर्वंतः शोषयंतः कृण्वत । यज्ञानकुर्वन् । देवा वै यज्ञमकृण्वत । ऐ. ब्रा. [३-११?] इति श्रुतेः ॥ नमस्यन् । नमोवरिवश्चित्रङ इति पूजार्थे क्यच् । लङि बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः । रिरिक्वांसः । रिचिर् विरेचने । लिटः क्वसुः । निमिषि । मिष स्पर्धायां । उपसर्गवशाद्दर्शनार्थः । संपदादिलक्षणो भावे क्विप् । रक्षमाणाः । कर्मणि लटः शानच् । यकि प्राप्ते व्यत्ययेन शप् ॥
+
+*gharmābhiṣṭave saṃjānānā ity eṣā | athottram iti khaṇḍe sūtritaṃ | saṃjānānā upa sīdann abhijñvā daśabhir vivasvataḥ | ā. [4-2?] iti ||*
+*he agne tvāṃ saṃjānānāḥ samyag jānanto devā upa sīdan | upasīdanti prāpnuvanti | upasṛtya kṛtvā ca patnīvantaḥ sapatnīkāḥ santo namasyaṃ namaskārārham abhijñvā abhimukhyenāvasthitajānuyuktaṃ tvāṃ namasyan | apūjayan | pūjayitvā ca sakhyur mitrasya tava nimiṣi darśane nimittabhūte sati rakṣamāṇās tvayā parirakṣyamāṇāḥ sakhā sakhāyo devāḥ svās tanvaḥ svakīyāni śarīrāṇi ririkvāṃso 'naśanādirūpeṇa dīkṣāniyamena riktīkurvantaḥ śoṣayantaḥ kṛṇvata | yajñān akurvan | devā vai yajñam akṛṇvata | ai. brā. [3-11?] iti śruteḥ || namasyan | namovarivaścitraṅa iti pūjārthe kyac | laṅi bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | ririkvāṃsaḥ | ricir virecane | liṭaḥ kvasuḥ | nimiṣi | miṣa spardhāyāṃ | upasargavaśād darśanārthaḥ | saṃpadādilakṣaṇo bhāve kvip | rakṣamāṇāḥ | karmaṇi laṭaḥ śānac | yaki prāpte vyatyayena śap ||*
+
+*(Reading note: the opening liturgical sentence is compressed and doubtful ("gharmābhiṣṭave", "athottram") [?], as are the Āśvalāyana and Aitareya numerals; "abhijñvā" is read as printed (the Pada has *abhi-jñu*).)*
+
+*Meaning:* The deities, thoroughly knowing (*saṃjānānāḥ*) you, O Agni, approached (*upa sīdan*); having approached, with their wives (*patnīvantaḥ*), they worshipped (*namasyan*) you — worthy of homage (*namasyam*) — with their knees on the ground (*abhijñu*). And, protected by you — in the sight (*nimiṣi*) of you, their friend — the gods, friends, emptied (*ririkvāṃsaḥ*) their own bodies (*svāḥ tanvaḥ*) by fasting and the rules of consecration (*dīkṣā*), drying them, *kṛṇvata* — performed sacrifices: "The gods performed the sacrifice" (Ai. Brā. [3-11?]).
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *namasyan* (*kyac* in the sense of worship by *namovarivaścitraṅaḥ kyac*, Pā. [3-1-19]; in *laṅ*, no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*); *ririkvāṃsaḥ* (root *ricir virecane*; *kvasu* for *liṭ*); *nimiṣi* (root *miṣa spardhāyām*, by the prefix the sense "seeing"; *kvip* in the abstract sense of the *saṃpadādi* type); *rakṣamāṇāḥ* (*śānac* in the passive; *yak* expected, *śap* by *vyatyaya*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*(agne* — O Agni); *saṃjānānāḥ* — (knowing the place where you were) the knowing (gods); *upa sīdan* — they came near (to you); *namasyam* — worthy of homage (you); *patnīvantaḥ* — together with their wives; *abhijñu* — having the knees set before; *namasyan* — they bowed (worshipped); *sakhyuḥ* — of you, friend; *nimiṣi* — at the sight; *rakṣamāṇāḥ* — (by you) protected; *sakhā* — the friends (gods); *svāḥ tanvaḥ* — their own bodies; *ririkvāṃsaḥ* — those who dried up the body by fasting and the like; *kṛṇvata* — (sacrifices) they performed.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! The gods, who knew the place where you were, came near together with their wives and, with knees on the ground, bowed to you. Thinking themselves protected by the mere sight of you, their friend, and bound by consecration, fasting and the like, they undertook the sacrifices related to you.
+
+---
+
+### Page 355 (PDF 373)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> The Gods, discovering you, sat down, and with their wives paid reverential adoration to you upon their knees. Secure on beholding their friend, of being protected, your friends, the Gods, abandoned the rest of their bodies in sacrifice.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "The use of this Ṛk beginning *saṃjānānā* in the *Gharma*-praise is explained in the Āśvalāyana-śrauta-sūtra, section *athottram*, by the sūtra *saṃjānānā upa sīdann abhijñvā daśabhir vivasvataḥ stutaḥ* [as printed] (Ā. [4-2?])."
+- **संजानानाः** — "Sāyaṇa explains it as 'the gods who know the matter of Agni well', Skandasvāmin as 'men'. Sāyaṇa, who takes all the words beginning with the first as epithets of the gods, quoting the śruti *devā vai yajñam akṛṇvata* (Ai. Brā. [3-11?]) as authority, explains that the gods, together with their wives, with discipline, emaciating their bodies by fasting and other rules, worshipped with sacrifices Agni, who is worthy of homage and turned toward them; and were protected by Agni.
+- Skandasvāmin, taking all these epithets with reference to men, has the same sense, yet explains the words *tanvaḥ kṛṇvata svāḥ* differently. *Kṛṇvata* is formed from the root *ḍukṛñ karaṇe*; here it is used in the sense 'to refine (*saṃskāra*)' with the prefix *sam* [*saṃ-kṛ*, "to sanctify"]. By this he says: the sacrificers, who with their wives worship Agni with sacrifices, are protected by Agni, who is worthy of homage and who is favourable, and are sanctified by knowledge, lordship (*aiśvarya*) and the like."
+- **अभिज्ञु** — *abhigate jānunī yasmin upasadane abhijñu* — "'that sitting in which the knees go forward'; *bhūmau jānunī nipātya upasīdanti* — 'they sit, with their knees put down on the ground'. The word *abhijñu*, when worshipping Agni, is used as an adverb: they sit with the knees on the ground and worship Agni. Even in rites performed with faith, kneeling is seen to be customary."
+
+---
+
+**Progress note:** Printed pp. 1–355 done (PDF 19–373): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 72.1–72.4 complete; **Rik 72.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*saṃjānānāḥ*, *abhijñu*) done (pp. 353–355); the Special Topics may continue on p. 356; the grammar page of 72.5 not yet seen. Next: p. 356 (PDF 374). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.5–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening liturgical sentence of the bhāṣya of 72.5 (p. 354) compressed and doubtful [?].
