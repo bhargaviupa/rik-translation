@@ -2478,4 +2478,98 @@ arvācīnaṃ su te mano grāvā kṛṇotu vagnunā ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–89 done (PDF 16–104) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.3 complete**; **Rik 84.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 89) done; its English, Special Topics and grammar not yet seen. Next: printed p. 90 (PDF 105). Sixteen Ṛks (84.5–84.20) remain after 84.4. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81; the cross-reference in the Special Topics of 84.3 (p. 88) to the previous sūkta's refrain.
+### Page 90 (PDF 105)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**English Translation** *(Rik 84.4; printed in English in the source)*
+
+"Indra, drink this excellent, immortal and exhilarating Soma-juice. In this house of sacrifice the streams of brilliant Soma are flowing towards you." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.4)**
+
+- **ज्येष्ठम्** — "the best, the highest; *excellent*."
+- **अमर्त्यम्** — "free of death; one that does no harm of any kind; *immortal*."
+- **मदम्** — *madakaram* — "one that gives delight; that opens the mind with joy; *exhilarating*."
+- **शुक्रस्य** — "*śukra* means water also (Ni. [1-12] [?]). Yāska has given the etymology of the word *śukra*: '*śukraṃ śocater jvalatikarmaṇaḥ*' (Ni. [?-?] [?]) — '*śukra* is from *śocati*, a verb of burning'. In this Ṛk the sense is 'water that shines', that is, the Soma juice."
+- **त्वाम् अभ्यक्षरन्** — *kṣara sañcalane* — "they flow to your neighbourhood. Since this Soma juice is made ready for you, the juice that comes flowing wants you alone — that is the intent."
+- **ऋतस्य** — *yajñasya* — "although the word *ṛta* has the sense 'truth', it is conventional for it to convey the sense 'sacrifice'. *Ṛta* means the true action, that is, the sacrifice. *Ṛtasya sādane* means 'in the sacrificial house in which sacrificial acts are performed'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.4)** *(grammar page, noted briefly; runs to p. 91)*
+
+- **ज्येष्ठम्** — after the word *praśasya*, in the sense of excess, the affix *iṣṭhan* by "atiśāyane tamabiṣṭhanau" (Pā. Sū. 5-3-55). "Praśasyasya śraḥ" (Pā. Sū. 5-3-60) — the continuing sense of "ajādī guṇavacanād eva" — the sense 'beginning with a vowel' continues; when an affix beginning with a vowel follows, *śra* is the substitute for *praśasya*. By "jyaś ca" (Pā. Sū. 5-3-61) when *iṣṭhan* or *īyasun* follows, *jya* is the substitute for *praśasya*: *jya+iṣṭha*; by "yasyeti ca" (Pā. Sū. 6-4-148) the dropping of *a* would be obtained, but by "prakṛtyaikāc" (Pā. Sū. 6-4-163) a monosyllabic stem keeps its natural form before *iṣṭhan*, etc.; thus no alteration occurs. This *prakṛtibhāva*, it is stated in the bhāṣya, is enjoined to override all the elisions in the *taddhita* section. When guṇa (of *jya*+*iṣṭha*) is made, *jyeṣṭha* results.
+
+### Page 91 (PDF 106)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 84.4, continued from p. 90:*
+
+- **सुतम्** — the root *suñ abhiṣave*; *kta* in the passive; because it is *k*-marked no guṇa for the root; by the affix-accent it is final-udātta.
+- **पिब** — the root *pā pāne*, *bhvādi*; by "pāghrādhmā…" (Pā. Sū. 7-3-78) the substitute *piba* when *śap* follows; *piba* is a substitute ending in *a*; hence, when *śap* follows, the doubt of the light-penultimate guṇa (after *i*) has no scope; by "ato gune" (Pā. Sū. 6-1-97) the single following form results from the *a*; since it is before an *a* the *sip*-substitute *hi* is dropped by "ato heḥ" (Pā. Sū. 6-4-105); since an *atiṅanta* (*sutam*) precedes, nighāta (anudātta) arises.
+- **अक्षरन्** — the root *kṣara sañcalane*, *bhvādi*; by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the *laṅ* in the sense of the present; for the plural *jhi* the substitute *ant*; by "itaś ca" (Pā. Sū. 6-4-100) *a* [loss of the *i*]; the final *t* drops by conjunct-final loss; the augment *aṭ* for the stem; with *a+kṣar+a+n*, by "ato guṇe" (Pā. Sū. 6-1-97) the single form; by "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28) total anudātta.
+- **त्वा** — *tvām*: by "dvitīyāyāṃ ca" (Pā. Sū. 8-1-23) the substitutes *tvā* and *mā* come for *yuṣmad* and *asmad* in the second case; so here for *yuṣmad* in the second case the substitute *tvā*. ||4||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.5**
+
+> इन्द्राय नूनमर्चतोक्थानि च ब्रवीतन ।
+> सुता अमत्सुरिन्दवो ज्येष्ठं नमस्यता सहः ॥ ५ ॥
+
+*indrāya nūnam arcatokthāni ca bravītana |
+sutā amatsur indavo jyeṣṭhaṃ namasyatā sahaḥ ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इन्द्राय । नूनम् । अर्चत । उक्थानि । च । ब्रवीतन ।
+> सुताः । अमत्सुः । इन्दवः । ज्येष्ठम् । नमस्यत । सहः ॥ ५ ॥
+
+*indrāya | nūnam | arcata | ukthāni | ca | bravītana | sutāḥ | amatsuḥ | indavaḥ | jyeṣṭham | namasyata | sahaḥ ||5||*
+
+*(The print joins* namasyata *and* sahaḥ *as* namasyatā *in the Saṃhitā by the lengthening of the final.)*
+
+### Page 92 (PDF 107)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84". **This page is badly degraded in the source: the print is blurred and clotted, as if reproduced from a poor copy. The Sanskrit of the bhāṣya below is therefore given only where I could read it, with [?] throughout; the Kannada parts (Pratipadārtha, Bhāvārtha, Special Topics) are legible enough to give in sense.**)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.5** *(very poorly legible [?])*
+
+> हे ऋत्विज इन्द्राय नूनं क्षिप्रमर्चत । पूजनं कुरुत । [?] … उत्कृष्टप्रगीतमन्त्रसाध्यानि स्तोत्राणि च ब्रवीतन ब्रूत । सुता अभिषुता इन्दवः सोमा अमत्सुः । [अगत्य?] मिन्द्रं मत्तं कुर्वन्तु । अनन्तरं ज्येष्ठं प्रशस्यतमं सहः सहस्विनं बलवन्तं तमिन्द्रं नमस्यत । नमस्कुरुत ॥ ब्रवीतन । ब्रूतेर्लोटि तप्तनप्तनथनाश्चेति तनादेशः । अमत्सुः । मदी हर्षे छन्दसि प्रार्थनायां लुङ् । [अगमा…?] … नमस्यत । नमोवरिवश्चित्रङः क्यच् इति क्यच् । सहः … [?] । पा. ७-१-१०३? [?] ॥ ५ ॥
+
+*he ṛtvija indrāya nūnaṃ kṣipram arcata | pūjanaṃ kuruta | [?] … utkṛṣṭapragītamantrasādhyāni stotrāṇi ca bravītana brūta | sutā abhiṣutā indavaḥ somā amatsuḥ | [agatya?] m indraṃ mattaṃ kurvantu | anantaraṃ jyeṣṭhaṃ praśasyatamaṃ sahaḥ sahasvinaṃ balavantaṃ tam indraṃ namasyata | namaskuruta || bravītana | brūter loṭi taptanaptanathanāś ceti tanādeśaḥ | amatsuḥ | madī harṣe chandasi prārthanāyāṃ luṅ | [agamā…?] … namasyata | namovarivaścitraṅaḥ kyac iti kyac | sahaḥ … [?] | pā. 7-1-103? [?] || 5 ||*
+
+*Sense (as far as legible):* "O priests, quickly (*nūnam*) worship (*arcata*) Indra — do the worship; … and speak (*bravītana* = *brūta*) the *ukthāni*, the stotras to be accomplished by well-sung mantras. May the pressed (*sutāḥ*) *indavaḥ*, the Somas, make Indra glad (*amatsuḥ*); afterwards pay homage (*namasyata*) to that Indra, who is the *jyeṣṭham sahaḥ* — the most praiseworthy, the strong, the possessed of might." *The grammatical tail:* *bravītana* — *tana* as the substitute of the *loṭ* ending *ta*; *amatsuḥ* — *madī harṣe*, the Vedic *luṅ* in the sense of prayer; *namasyata* — *kyac* by "namovarivaścitraṅaḥ kyac" [the rest of the entry is illegible]."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.5** *(Kannada; legible in sense)*
+
+- **इन्द्राय** — "(O priests,) to Indra"
+- **नूनम्** — "quickly (with attention)"
+- **अर्चत** — "offer worship"
+- **उक्थानि च** — "also the stotras of the form of mantras"
+- **ब्रवीतन** — "recite"
+- **सुताः** — "pressed"
+- **इन्दवः** — "Soma juices"
+- **अमत्सुः** — "(Indra) let them make (him) intoxicated and filled with joy"
+- **ज्येष्ठम्** — "the best of the best"
+- **सहः** — "strong"
+- **नमस्यत** — "salute that Indra."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.5** *(Kannada)*
+
+"O priests, offer worship to Indra with attention. Recite the stotras of the form of mantras. Let the pressed Soma juices make Indra joyful and intoxicated. Salute that Indra, the best of the best and strong."
+
+**English Translation** *(printed in English in the source)*
+
+"Offer worship quickly to Indra ; recite hymns in his honour ; let the distilled Soma drops exhilerate [sic] him ; adore his great strength." — as printed ("exhilerate" a misprint [sic]; the line is partly blurred in the scan).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.5)**
+
+- **सुता इन्दवः** — "the Soma juices pressed (made ready) before."
+- **अमत्सुः** — *madī harṣe* — "let them cause delight."
+- **ज्येष्ठं सहः** — "excellent or superior strength (*śakti*, *sāmarthya*)."
+- **नमस्यत** — "make *namaskāra*; honour with devotion."
+
+---
+
+**Progress note:** Printed pp. 1–92 done (PDF 16–107) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.4 complete**; **Rik 84.5** — Saṃhitā, Pada (p. 91), bhāṣya (p. 92, **badly degraded in the source; Sanskrit given only as far as legible**), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 92) done; the grammar page of 84.5 not yet seen. Next: printed p. 93 (PDF 108). Fifteen Ṛks (84.6–84.20) remain after 84.5. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88; **p. 92 (bhāṣya of 84.5) largely illegible in the source** — worth re-reading from another copy.
