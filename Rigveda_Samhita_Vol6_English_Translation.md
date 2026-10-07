@@ -13910,4 +13910,89 @@ ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
 
 ---
 
-**Progress note:** Printed pp. 1–604 done (PDF 19–622): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.12 complete** (grammar of 80.12 on p. 603); **Rik 80.13** — Saṃhitā, Pada, bhāṣya and Pratipadārtha (p. 604) done; its Bhāvārtha, English, Special Topics and grammar not yet seen. Next: p. 605 (PDF 623). Three Ṛks (80.14–80.16) remain after 80.13. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt.
+### Page 605 (PDF 623)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.13** *(Kannada)*
+
+"O Indra, striking with your thunderbolt Vṛtra and the weapon (hurled at you for slaying you), and displaying your own lordship, your strength, which was set on slaying the slaying Vṛtra, spread through the whole sky (shining in the sky)."
+
+**English Translation** *(printed in English in the source)*
+
+"When you (Indra) encountered [sic: "encounterred" in the print] with your bolt Vritra, and the thunderbolt (which he hurled), then, Indra, your strength determined to slay Ahi was displayed in the heavens, manifesting your own sovereignty." — as printed ("encounterred" is a misprint [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.13)**
+
+- **बद्बधे** — *badha bandhane* — "the root *badha* conveys the sense of binding; used in the passive sense, *badbadhe* means 'was bound'. *Divi badbadhe* — 'in heaven was bound' means: *anusyūtaṃ baddhaṃ vyāptam*, 'pervaded, spread'. The sense is: it shone, pervading the whole sky."
+- **अहिम्** — "the word *ahi*, as it is stated among the hundred and one names of water (Ni. [1-12] [?]), is stated also among the thirty names of cloud (Ni. [1-10] [?]). Sāyaṇa explains it as *āgatya hantāram*, 'one who strikes, having come in front'. Skandasvāmin explains that the word *ahi* has the senses 'cloud' and 'Vṛtra'."
+- **वृत्रं तव चाशनिं वज्रेण** — "though *aśani* here means 'the thunderbolt-weapon', here the general sense 'weapon' must be given. The sense is that Indra struck both Vṛtra and his weapon well, with his thunderbolt."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.13)** *(grammar page, noted briefly; runs to p. 606)*
+
+- **अयोधयः** — the root *yudha prahāre* (युध प्रहारे); after the *ṇic*-ending stem, *laṅ*, second person singular, *sip*; the *i* dropped by "iteś ca"; *śap*; because of it the guṇa of the *ik* of the *ṇic*, *ay* replacement; the guṇa of the light penultimate of the root because of *ṇic*; the augment *aṭ* for the stem; the form *ayodhayaḥ*. Since the *yat*-connection is present, by "yadvṛttān nityam" (Pā. Sū. 8-1-66) the nighāta is prohibited; since the augment *aṭ* is udātta, the word is *ādyudātta*.
+
+### Page 606 (PDF 624)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Grammar of Rik 80.13, continued from p. 605:*
+
+- **जिघांसतः** — the root *han hiṃsāgatyoḥ*; since the sense of wishing is present, by "dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā" (धातोः कर्मणः समानकर्तृकादिच्छायां वा, Pā. Sū. 3-1-7) the affix *san*; by "sanyaṅoḥ" (Pā. Sū. 6-1-9) reduplication of the one-syllabled root; the *hal*-initial remains in the reduplicative; *cutva*; by "sani" the reduplicative takes *i* (Pā. Sū. 7-4-79); by "ajjhanagamāṃ sani" (अज्झनगमां सनि, Pā. Sū. 6-4-16) the penultimate of the root is lengthened; by "abhyāsāc ca" (Pā. Sū. 7-3-55) the *h* of the root after the reduplicative becomes *kutva* (*gh*); by "naś cāpadāntasya jhali" the *n* gets anusvāra; by "sanādyantā dhātavaḥ" (Pā. Sū. 3-1-32) the *san*-ending *jighāṃsa* gets the root-designation; after it, in the sense of *laṭ*, the affix *śatṛ*; *śap*; by "ato guṇe" the following form; sixth-case singular; by "abhyastānām ādiḥ" (Pā. Sū. 6-1-189) the initial udātta.
+- **दिवि** — the stem *div*; seventh-case singular; by "ūḍidaṃ padādi…" the case-ending takes the udātta.
+- **बद्बधे** — the root *badha bandhane*; in the passive *liṭ*, third person singular; by "liṭas tajhayor eśirec" (लिटस्तझयोरेशिरेच्, Pā. Sū. 3-4-81) the substitute *eś*; reduplication of the root; by "vyatyayo bahulam" the rule "halādiḥ śeṣaḥ" does not apply; nighāta accent since *atiṅanta* in the pāda. ||13||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.14**
+
+> अभिष्टने ते अद्रिवो यत्स्था जगच्च रेजते ।
+> त्वष्टा चित्तव मन्यव इन्द्र वेविज्यते भियार्चन्ननु स्वराज्यम् ॥ १४ ॥
+
+*abhiṣṭane te adrivo yat sthā jagac ca rejate |
+tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
+
+### Page 607 (PDF 625)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अभिऽस्तने । ते । अद्रिऽवः । यत् । स्थाः । जगत् । च । रेजते ।
+> त्वष्टा । चित् । तव । मन्यवे । इन्द्र । वेविज्यते । भिया ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ १४ ॥
+
+*abhi-stane | te | adri-vaḥ | yat | sthāḥ | jagat | ca | rejate | tvaṣṭā | cit | tava | manyave | indra | vevijyate | bhiyā | arcan | anu | sva-rājyam ||14||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.14** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अद्रिवो वज्रवन्निन्द्र ते तवाभिस्तने सिंहनादे सति स्थाः स्थावरं जगज्जङ्गमं च यदस्ति तदुभयं रेजते । कंपते । त्वष्टा चित् वज्रनिर्माता त्वष्टा च तव मन्यवे त्वदीयाय कोपाय भिया भीत्या वेविज्यते । भृशं कंपते । अन्यत्पूर्ववत् ॥ स्थाः । तिष्ठतेः क्विप् । वेविज्यते । ओविजी भयचलनयोः । अस्मात्क्रियासमभिहारे यङ् । सन्यङोरिति द्विर्भावः । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यज एव स्वरः शिष्यते । इन्द्रेत्यस्य पादादौ वर्तमानस्यामन्त्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वे सत्यस्य पादादित्वादपादादाविति पर्युदासान्निघाताभावः ॥
+
+*he adrivo vajravann indra te tavābhistane siṃhanāde sati sthāḥ sthāvaraṃ jagaj jaṅgamaṃ ca yad asti tad ubhayaṃ rejate | kampate | tvaṣṭā cit vajranirmātā tvaṣṭā ca tava manyave tvadīyāya kopāya bhiyā bhītyā vevijyate | bhṛśaṃ kampate | anyat pūrvavat || sthāḥ | tiṣṭhateḥ kvip | vevijyate | ovijī bhayacalanayoḥ | asmāt kriyāsamabhihāre yaṅ | sanyaṅor iti dvirbhāvaḥ | adupadeśāl lasārvadhātukānudāttatve yaja eva svaraḥ śiṣyate | indretyasya pādādau vartamānasyāmantritaṃ pūrvam avidyamānavad ity avidyamānavattve satyasya pādāditvād apādādāv iti paryudāsān nighātābhāvaḥ ||*
+
+*Sense:* "O *adrivaḥ*, O *vajrin*, O Indra: at your *abhistana*, your lion-roar, *sthāḥ* — whatever is stationary — and *jagat* — whatever is moving: both tremble (*rejate* = *kampate*). Tvaṣṭṛ too, the maker of the thunderbolt, trembles exceedingly (*vevijyate*) with fear (*bhiyā*) at your wrath. The rest as before." *The grammatical tail:* *sthāḥ* — from the root *sthā* with *kvip*; *vevijyate* — the root *ovijī bhayacalanayoḥ*, with *yaṅ* in the intensive sense; reduplication by "sanyaṅoḥ"; the *lasārvadhātuka* accent being anudātta since the root is *a*-ending by teaching, the root's own (*yaṅ*) accent remains; the nighāta does not come to *indra* standing at the beginning of the pāda, since (by "āmantritaṃ pūrvam avidyamānavat" — which treats the preceding as non-existent) the exclusion "apādādau" applies.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.14** *(Kannada)*
+
+- **अद्रिवः** — "O wielder of the thunderbolt"
+- **इन्द्र** — "O Indra"
+- **ते** — "your"
+- **अभिष्टने** — "to the roar (thunder-sound)"
+- **स्थाः** — "stationary (things)"
+- **जगत् च** — "and moving things"
+- **यत्** — "whatever (all of them)"
+- **रेजते** — "tremble"
+- **स्वराज्यम् अनु अर्चन्** — "displaying your own lordship"
+- **त्वष्टा चित्** — "Tvaṣṭṛ also (the maker of the thunderbolt)"
+- **तव** — "your"
+- **मन्यवे** — "(for) anger"
+- **भिया** — "with fear"
+- **वेविज्यते** — "trembles exceedingly."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.14** *(Kannada)*
+
+"O Indra, wielder of the thunderbolt, displaying your own lordship, at your lion-roar the whole world, stationary and moving, trembled. Tvaṣṭṛ also, the maker of the thunderbolt, trembles exceedingly in fear of your wrath."
+
+---
+
+**Progress note:** Printed pp. 1–607 done (PDF 19–625): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.13 complete** (grammar of 80.13 on pp. 605–606); **Rik 80.14** — Saṃhitā (p. 606), Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 607) done; its English, Special Topics and grammar not yet seen. Next: p. 608 (PDF 626). Two Ṛks (80.15–80.16) remain after 80.14, then the closing line of Sūkta 80, which is the last sūkta of Volume 6 (CLAUDE.md update then). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt.
