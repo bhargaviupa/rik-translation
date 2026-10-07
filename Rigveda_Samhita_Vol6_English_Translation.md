@@ -12447,7 +12447,7 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.9)**
 
-"In the *Āyuṣkāmeṣṭi*, when the first of the two oblations called *ājyabhāga* is offered, this Ṛk *ā no agne* is used as the *purorūvākyā* [sic: the print reads *puroनुवाक्या*, i.e. *puro-'nuvākyā*] mantra" *(the sentence runs over to the next page and is split where the print splits it)*
+"In the *Āyuṣkāmeṣṭi*, when the first of the two oblations called *ājyabhāga* is offered, this Ṛk *ā no agne* is used as the *puronuvākyā* mantra" *(the sentence runs over to the next page and is split where the print splits it)*
 
 ### Page 554 (PDF 572)
 
@@ -12455,7 +12455,7 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 *Special Topics of Rik 79.9, continued from p. 553:*
 
-"…as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*āyuṣkāmeṣṭyāṃ jīvātumantāvā no agne sucetunā*' (Āśv. 2-[10] [?]); and in the *Mahāpitṛyajña* also this Ṛk is directed to be used as the *purorūvākyā* mantra [sic: *purono-vākyā* as printed] of the first *ājyabhāga* oblation, as is stated by the Āśvalāyana Śrauta-sūtra in the sūtra '*jīvātumantaḥ savyottarair yaḥ pasasthāḥ*' [as read, doubtful] (Āśv. 2-[19] [?])."
+"…as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*āyuṣkāmeṣṭyāṃ jīvātumantāvā no agne sucetunā*' (Āśv. 2-[10] [?]); and in the *Mahāpitṛyajña* also this Ṛk is directed to be used as the *puronuvākyā* mantra of the first *ājyabhāga* oblation, as is stated by the Āśvalāyana Śrauta-sūtra in the sūtra '*jīvātumantaḥ savyottarair yaḥ pasasthāḥ*' [as read, doubtful] (Āśv. 2-[19] [?])."
 
 - **सुचेतुना** — *citī saṃjñāne* — "*śobhanena jñānena yuktam* (rayim): wealth endowed with good knowledge — that is, the prayer is that both the best knowledge and wealth should be given together."
 - **विश्वायुपोषसम्** — *viśvam āyur yasmin śarīrādau tad viśvāyuḥ* — "in all the life (*āyus*), nourishing the body and the rest: *yāvajjīvam asmad upabhogaparyāptam*: 'wealth sufficient for our enjoyment as long as we live'. The meaning is: wealth that serves as the means of our happiness as long as we live. For the nourishment of the body and the like it is possible only when there is wealth; so for a long life wealth is exceedingly necessary."
