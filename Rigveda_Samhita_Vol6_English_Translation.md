@@ -9687,4 +9687,92 @@ havyā juhvāna āsani ||1||*
 
 ---
 
-**Progress note:** Printed pp. 1–455 done (PDF 19–473): **Sūktas 62–74 complete** (Sūkta 74's closing line, p. 454: "eppattanālkane sūktavu samāptavu"). **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; the second sūkta of Anuvāka 13; Varga "23" as read [?]) begun: introduction and Anuvāda (p. 454), heading, and Rik 75.1 — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its tail begun (p. 455; the page ends in the tail). Next: p. 456 (PDF 474), the rest of the bhāṣya's tail of 75.1, the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page; then Riks 75.2–75.5 and the closing line of Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the last clause of the bhāṣya of 75.1 doubtful [?].
+### Page 456 (PDF 474)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 75.1** *(Kannada)*
+
+*agne* — O Agni; *saprathastamam* — most widely spread; *devapsarastamam* — most dear to the gods; *vacaḥ* — the words (in the form of our praise); *āsani* — in your mouth; *havyā* — the oblations; *juhvānaḥ* — receiving (pouring in); *juṣasva* — accept (receive).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Accepting through (your) mouth the oblations and the like that we offer, give ear to the words of praise that we make, which are exceedingly dear to the gods.
+
+**English Translation** *(the source's own, as printed):*
+
+> Attended to our most earnest address, propitiatory of the Gods, accepting our oblations in your mouth.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **सप्रथस्तमं वचः** — "*ati vistāravāda vākya* — an extremely extensive utterance, that is, a great hymn."
+- **देवप्सरस्तमम्** — *spṛ prītibalayoḥ | devān spṛṇotīti devapsarāḥ* — "'one who gratifies the gods' is *devapsarāḥ*: worthy of the gods' love; *atiśayena devapsarā devapsarastamaḥ* — exceedingly dear to the gods: such is the sense."
+- **आसनि** — "in the mouth: an alternative form of the word *āsya*."
+- *The chief purport:* "O Agni, hear this great hymn that we make, eat the oblations we offer, and be satisfied by them."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.1, noted briefly; not transcribed)*
+
+Words treated: *juṣasva* (root *juṣī prītisevanayoḥ*; *loṭ*, second person singular, *thās* → *sva* [*se* by *thāsaḥ se*, Pā. [3-4-80], then *sa-vābhyāṃ vāmau*, Pā. [3-4-91], *e* → *va*]; since at the head of a pāda no nighāta; the vikaraṇa's accent [*śa*] remains). *devapsarastamam* (root *spṛ prītibalayoḥ*; "he gratifies the gods", *devapsarāḥ*; when a *gati* or *kāraka* is the first member, the affix *asun* by the Uṇādi sūtra *gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca*, Uṇ. [4-?], where the first member's natural accent overrides the *kṛt* accent of the second; guṇa of the root for the sake of the affix; *raparatva* by *uraṇ raparaḥ*; transposition of *s* and *p* from the affix; "most gratifying": *tamap* by *atiśāyane tamabiṣṭhanau*, Pā. [5-3-55]; being *pit*, anudātta; accusative singular). *(Continued on p. 457.)*
+
+---
+
+### Page 457 (PDF 475)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 75.1 (concluded; noted briefly)**
+
+*havyā* (neuter plural; loss of *śi* by *śeś chandasi bahulam*, Pā. [6-1-70]). *juhvānaḥ* (root *hu dānādanayoḥ*; *śānac* in the present sense by *vyatyayo bahulam*; *śluḥ* by *juhotyādibhyaḥ śluḥ*; doubling by *ślau*; *kutva* of *h* by *kuhoś cuḥ* [*ju*]; *yaṇ* by *huśnuvoḥ sārvadhātuke*, Pā. [6-4-87]; initial acute by *abhyastānām ādiḥ*, Pā. [6-1-189]). *āsani* (the stem *āsya*; before the locative singular, *āsan* substituted by *pāddanno…māsṛn…*, Pā. [6-1-63]; by *vibhāṣā ṅiśyoḥ*, Pā. [6-4-136], the optional loss of the *a* before the locative *ṅi*, so here no loss: *āsani*). Ends "॥ १ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.2** *(printed Ṛk "2 ||")*
+
+> अथा ते अङ्गिरस्तमाग्ने वेधस्तम प्रियम् ।
+> वोचेम ब्रह्म सानसि ॥ २ ॥
+
+*athā te aṅgirastamāgne vedhastama priyam |
+vocema brahma sānasi ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अथ । ते । अङ्गिरःऽतम । अग्ने । वेधःऽतम । प्रियम् ।
+> वोचेम । ब्रह्म । सानसि ॥ २ ॥
+
+*atha | te | aṅgiraḥ-tama | agne | vedhaḥ-tama | priyam | vocema | brahma | sānasi ||2||*
+
+---
+
+### Page 458 (PDF 476)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 75.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अङ्गिरस्तमातिशयेनाङ्गनादिगुणयुक्त । यद्वा । अङ्गिरसां वरिष्ठ । वेधस्तम । वेधा इति मेधाविनाम । अतिशयेन मेधाविन्नग्ने । अथानन्तरं ते तुभ्यं सानसि संभजनीयं प्रियं प्रीतिकरं ब्रह्म स्तोत्रं वोचेम । वक्तारो भूयास्म ॥ वोचेम । लिङ्याशिष्यज् । वचे उमित्युमागमः । सानसि । वन षण संभक्तौ । सानसिपर्णसित्यादावसिच्प्रत्ययान्तो निपात्यते ॥
+
+*he aṅgirastamātiśayenāṅganādiguṇayukta | yadvā | aṅgirasāṃ variṣṭha | vedhastama | vedhā iti medhāvināma | atiśayena medhāvin agne | athānantaraṃ te tubhyaṃ sānasi saṃbhajanīyaṃ priyaṃ prītikaraṃ brahma stotraṃ vocema | vaktāro bhūyāsma || vocema | liṅy āśiṣy aj | vace um ity umāgamaḥ | sānasi | vana ṣaṇa saṃbhaktau | sānasiparṇasity ādāv asicpratyayānto nipātyate ||*
+
+*Meaning:* O most-Aṅgiras (*aṅgirastama*) — endowed to the highest degree with the qualities such as *aṅgana* — or: best of the Aṅgirases; O most wise (*vedhastama*; *vedhāḥ* is a name for the wise): afterwards (*atha*) may we speak (*vocema*) to you a pleasing (*priyam*) prayer (*brahma*), worthy of being enjoyed (*sānasi*).
+
+**Grammatical tail** *(characterized)*: *vocema* (*āśīrliṅ*; *aj*; *um* augment by *vaci um*); *sānasi* (root *vana ṣaṇa saṃbhaktau*; derived by nipāta with the affix *asic*, as in *sānasiparṇas* and the like).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*atha* — afterwards; *aṅgirastama* — the best among the Aṅgirases; *vedhastama* — the best among the wise; *agne* — O Agni; *te* — to you; *sānasi* — fit to be accepted; *priyam* — pleasing; *brahma* — the hymn; *vocema* — may we utter.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Afterwards, O Agni, best of the Aṅgirases and most wise, may we make a hymn pleasing to you and fit to be accepted by you.
+
+**English Translation** *(the source's own, as printed):*
+
+> And then, most wise Agent [sic], chief of the Angirasas, may we address (to you) an acceptable and gratifng [sic] prayer.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **अथा** — "for the sake of the metre, the final syllable of this word is lengthened in the Saṃhitā text."
+- **अङ्गिरस्तम** — "one endowed with qualities such as *aṅgana*; or one who is the best among the sage Aṅgirases. The sage addresses Agni with the word *aṅgiras*. How this name came to Agni we have explained in the Ṛk Saṃhitā volume 1, pp. 640–641 [as read]. *Aṅgirastama* means 'the best among the Aṅgirases'."
+- **वेधस्तम** — "since *vipraḥ*, *vigraḥ* and so on are read among the twenty-four names of the wise (Ni. [3-19?]), the word *vedhas* is among them: *vedhas* means one who is wise, intelligent, discriminating. *Vedhastama* means one who is exceedingly intelligent." *(The Nirukta numeral and the volume/page cross-reference are as read [?]; the same cross-reference was given at Rik 74.5 as "volume 2, pp. 640–641", and here it reads "1" — unreconciled [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–458 done (PDF 19–476): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Rik 75.1 complete (pp. 455–457); **Rik 75.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 457–458) done; the Special Topics may continue on p. 459; the grammar page of 75.2 not yet seen. Next: p. 459 (PDF 477). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛk-Saṃhitā "volume/pp. 640–641" cross-reference (read as "volume 2" on p. 443 and "volume 1" on p. 458) unreconciled [?].
