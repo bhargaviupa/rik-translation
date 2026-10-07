@@ -3250,4 +3250,87 @@ jaghāna navatīr nava ||13||*
 
 ---
 
-**Progress note:** Printed pp. 1–116 done (PDF 16–131) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.12 complete**; **Rik 84.13** (first Gāyatrī Ṛk) — Saṃhitā, Pada, application note, bhāṣya (the Dadhyañc legend and the 9×3×3×10 reckoning; the Sanskrit given in part and outlined, p. 114), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 114–116) done; its grammar page is begun at the foot of p. 116 (*dadhīcaḥ*) and continues on p. 117 (PDF 132). Next: printed p. 117 (PDF 132). Seven Ṛks (84.14–84.20) remain after 84.13. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 on p. 114 transcribed only in part.
+### Page 117 (PDF 132)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 84.13, continued from p. 116 (grammar page, noted briefly):*
+
+- **दधीचः** (continued) — "…since this is a *cau*-situation (Pā. Sū. 6-3-[?]), the accent of the first member would be final-udātta; setting that aside, since the case-ending *asarvanāmasthāna* follows, by "añcheś chandasy asarvanāmasthānam" (Pā. Sū. 6-1-170) the case-ending again takes udātta; so it is a word with final-udātta."
+- **अस्थभिः** — "for the word *asthi*, though the substitute *anaṅ* is stated for a vowel-initial case-ending, by "chandasy api dṛśyate" (Pā. Sū. 6-1-26 [?]) the substitute *anaṅ* arises also before *bhis*, which begins with a consonant; this too is udātta because it has the mark *ñ*, and as a final substitute it is final. By "nalopaḥ prātipadikāntasya" (Pā. Sū. 8-2-7) the *n* is dropped; thus *asthabhiḥ* is a word with the middle udātta."
+- **अप्रतिष्कुतः** — "(see 84.7) explained in the earlier mantra."
+- **जघान** — the root *han hiṃsāgatyoḥ*, *adādi*; *liṭ*, third person singular, with *ṇal*; by "abhyāsāc ca" (Pā. Sū. 7-3-55) the *h* of the root after the reduplicative becomes *kutva* (*gh*); since at the beginning of a pāda there is no nighāta; by "liti" (Pā. Sū. 6-1-193) the syllable before the affix is udātta. ||13||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.14**
+
+> इच्छन्नश्वस्य यच्छिरः पर्वतेष्वपश्रितम् ।
+> तद्विदच्छर्यणावति ॥ १४ ॥
+
+*icchann aśvasya yac chiraḥ parvateṣv apaśritam |
+tad vidac charyaṇāvati ||14||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इच्छन् । अश्वस्य । यत् । शिरः । पर्वतेषु । अपऽश्रितम् ।
+> तत् । विदत् । शर्यणाऽवति ॥ १४ ॥
+
+*icchan | aśvasya | yat | śiraḥ | parvateṣu | apa-śritam | tat | vidat | śaryaṇā-vati ||14||*
+
+### Page 118 (PDF 133)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.14** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> पर्वतेषु पर्वत्सु गिरिषूपश्रितमुपगत्य स्थितमश्वस्याश्वसंबन्धि दधीचो यच्छिर इच्छन्निन्द्रो वर्तते शर्यणावत्येतत्संज्ञे सरसि तच्छिरो विदत् । अज्ञासीत् । ज्ञात्वा तदाहृत्य तदीयैरस्थिभिर्वृत्राणि जघानेति पूर्वस्यामृचि संबन्धः ॥ इच्छन् । इषु इच्छायां । तुदादित्वाच्छप्रत्ययः । विदत् । वेत्तेर्लुञः । व्यत्ययेन च्लेररजादेशः । शर्यणावति । शर्यणा नाम देशः । तेषामदूरभवं सरः शर्यणावत् । मध्वादिषु शर्यणशब्दस्य पाठान्मध्वादिभ्यश्च । पा. ४-२-८६ । इति चातुर्थिको मतुप् । संज्ञायामिति मतुपो वत्वम् । मतौ बह्वचोऽनजिरादीनाम् । पा. ६-३-११९ । इति दीर्घः ॥ १४ ॥
+
+*parvateṣu parvatsu giriṣūpaśritam upagatya sthitam aśvasyāśvasaṃbandhi dadhīco yac chira icchann indro vartate śaryaṇāvaty etatsaṃjñe sarasi tac chiro vidat | ajñāsīt | jñātvā tad āhṛtya tadīyair asthibhir vṛtrāṇi jaghāneti pūrvasyām ṛci saṃbandhaḥ || icchan | iṣu icchāyāṃ | tudāditvāc chapratyayaḥ | vidat | vetter luñaḥ | vyatyayena cler arajādeśaḥ | śaryaṇāvati | śaryaṇā nāma deśaḥ | teṣām adūrabhavaṃ saraḥ śaryaṇāvat | madhvādiṣu śaryaṇaśabdasya pāṭhān madhvādibhyaś ca | pā. 4-2-86 | iti cāturthiko matup | saṃjñāyām iti matupo vatvam | matau bahvaco 'nacirādīnām | pā. 6-3-119 | iti dīrghaḥ || 14 ||*
+
+*Sense:* "Indra, wishing (*icchan*) for the horse's head — the head of the horse, belonging to Dadhīci — that had gone and taken shelter (*apaśritam*) among the mountains (*parvateṣu*), found (*vidat* = *ajñāsīt*, knew) that head in the lake of that name, *Śaryaṇāvat*; having learnt it he fetched it and with its bones slew the *vṛtras* — the connection with the preceding Ṛk." *The grammatical tail:* *icchan* — root *iṣu icchāyām* with the *tudādi* stem-marker; *vidat* — the *luṅ* of *vid* with *a* for *cli* by *vyatyaya*; *śaryaṇāvati* — *Śaryaṇā* is a region; the lake not far from them is *śaryaṇāvat*, with *matup* (Pā. 4-2-86), *va* by "saṃjñāyām", lengthening by "matau bahvaco 'nacirādīnām" (Pā. 6-3-119)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.14** *(Kannada)*
+
+- **पर्वतेषु** — "in the mountains with rows of peaks"
+- **अपश्रितम्** — "hidden"
+- **अश्वस्य** — "of the horse (belonging to the ṛṣi Dadhīci)"
+- **यत् शिरः** — "which head"
+- **इच्छन्** — "wishing (Indra)"
+- **तत्** — "that"
+- **शर्यणावति** — "in the lake named Śaryaṇāvat"
+- **विदत्** — "found."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.14** *(Kannada)*
+
+"To help in the slaying of Vṛtra, Indra wished for the horse's head of the ṛṣi Dadhīci. It lay hidden behind a mountain. Finding it in the lake called Śaryaṇāvat, he took it and thereby killed the asura Vṛtra."
+
+**English Translation** *(printed in English in the source)*
+
+"Wishing for the horse's head hidden in the mountains, he found it in the lake called Saryanavat [sic]." — as printed ("Saryanavat" as printed for *Śaryaṇāvat* [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.14)**
+
+- **अश्वस्य शिरः** — "the horse's head: it is believed that the head of the ṛṣi Dadhīci became a horse's head, and that it was given to him by the Aśvin deities. After Dadhīci's death Indra searched for the horse's head with which he had been furnished, and found it. In this Ṛk it is described that it was found hidden behind a mountain, in a lake called Śaryaṇāvatī."
+- *(the question of how the horse's head came to Dadhīci — Skandasvāmin's story)* — "On the question how the horse's head came to the ṛṣi Dadhīci, Skandasvāmin tells a story: Indra taught to Dadhīci, the son of Atharvan, the nature of the supreme Brahman called *Madhu*," *(the sentence runs on to p. 119)*
+
+### Page 119 (PDF 134)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 84.14, continued from p. 118:*
+
+"…and told him not to tell it to anyone, saying that if he did his head would fall off. After some time the Aśvin deities came to the ṛṣi Dadhīci and asked about the Brahman-nature that Indra had taught him; Dadhīci told them that Indra had said that his head would fall off if he spoke of it, and that from fear he would not tell. The Aśvins said, 'Do not worry about it; if your head falls off we will give you ours.' Dadhīci agreed. So when Dadhīci's head fell off, the Aśvins cut off the head of a horse, fitted it on and joined it to the body of the ṛṣi Dadhīci; therefore it is described that the ṛṣi Dadhīci's head became a horse's head. This matter is described by the ṛṣi Kakṣīvān in the Ṛk 1-[116]-[12]."
+
+- **अपश्रितम्** — *apagatya sthitam* — "hidden, out of sight behind (a mountain)."
+- **शर्यणावति** — "the seventh-case singular of *śaryaṇāvat*, the name of a lake. This word occurs in the Ṛgveda in the Ṛks 1-[84]-[14]; 3-[?]-[?]; 5-[?]-[?]; 8-[?]-[?]; 10-[?]-[?] and others [numerals as read, all [?]]. In all these places the bhāṣyakāra explains it as the name of a lake. Today it is understood that this lake is in the region called Kurukṣetra, in the area of present-day **Delhi** [the English word is printed in the Kannada text as "Delhi"]. Western scholars give various meanings for this word. *Śaryaṇa* may be the name of a place, and the lake there may have been called *śaryaṇāvān*, as they suppose; others suppose that *śaryaṇa* means 'tall reeds' [*jondu hullu*], and that a lake in which such tall grass grows is called *śaryaṇāvān*; others hold that it may be one of the many lakes in the middle of the mountains in the land of Kashmir."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.14)** *(grammar page, noted briefly; begins here)*
+
+- **इच्छन्** — the root *iṣu icchāyām*, *tudādi*; the affix *śatṛ* in the sense of *laṭ*; by "tudādibhyaḥ śaḥ" (Pā. Sū. 3-1-77) the stem-marker *śa*; by "iṣugamiyamāṃ chaḥ" (Pā. Sū. 7-3-77) *cha* for the final; *icchat* — the stem-marker accent; with the first-case *su* following, *num*; the loss of *su*; the loss of the final *t*.
+- **अपश्रितम्** — the root *śriñ sevāyām*; the affix *kta*; by "tāḍau ca niti kṛtyatau" (Pā. Sū. 6-2-50) the *gati* keeps its natural accent.
+- **विदत्** — the root *vida jñāne*; the *luṅ*, third person singular; when it follows, by *vyatyaya* the substitute *a* for *cli* (*aṅ*); since it is *ñit*, no light-penultimate guṇa; by "bahulaṃ chandasy amāṅyoge 'pi" (Pā. Sū. 6-4-75) no augment *aṭ*.
+
+---
+
+**Progress note:** Printed pp. 1–119 done (PDF 16–134) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.13 complete** (grammar of 84.13 pp. 116–117); **Rik 84.14** — Saṃhitā, Pada (p. 117), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (p. 118–119, including the Śaryaṇāvat note) and the first part of its grammar page (p. 119) done; the grammar page continues on p. 120 (PDF 135). Next: printed p. 120 (PDF 135). Six Ṛks (84.15–84.20) remain after 84.14. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92; the bhāṣya of 84.13 (p. 114) transcribed only in part; Ṛgveda reference numerals on p. 119.
