@@ -9615,4 +9615,76 @@ Words treated: *suvīryam* (*śobhanaṃ vīryaṃ yasya saḥ suvīryaḥ*, "he
 
 ---
 
-**Progress note:** Printed pp. 1–453 done (PDF 19–471): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.8 complete (74.8's grammar page on pp. 451–452); **Rik 74.9** (the last; printed "9 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and most of the grammar page (pp. 452–453) done; the rest of the grammar page (if any) and the closing line of Sūkta 74 expected on p. 454. Next: p. 454 (PDF 472); that completes Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
+### Page 454 (PDF 472)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74" as read.)*
+
+**Grammar page of Rik 74.9 (concluded; noted briefly)**
+
+*dāśuṣe* (the stem *dāśvas* was explained in the preceding mantra; in the dative singular, samprasāraṇa by *vasoḥ saṃprasāraṇam*, Pā. [6-4-131]; *pūrvarūpa* by *saṃprasāraṇāc ca*; *ṣatva* of the *vasu*'s *s* by *śāsivasighasīnāṃ ca*, Pā. [8-3-60]; the form *dāśuṣe*; the affix's accent makes the word middle-acute). *deva* (vocative; by *āmantritasya ca*, Pā. [8-1-19], nighāta). Ends "॥ ९ ॥".
+
+**Closing line of the sūkta** *(printed, Kannada)*:
+
+> ಎಪ್ಪತ್ತನಾಲ್ಕನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತವು
+
+*(eppattanālkane sūktavu samāptavu* — "The seventy-fourth sūkta is concluded.")*
+
+**— End of Sūkta 74.** *(Sūkta 74: nine Ṛks, Agni; Gotama Rāhūgaṇa; Gāyatrī. The varga numerals of its pages — "21, 22" at the head, "22" on later pages — are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 75
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತೈದನೆಯ ಸೂಕ್ತವು — "The seventy-fifth sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; compressed, some syllables doubtful [?])*
+
+> जुषस्वेति पंचर्चं द्वितीयं सूक्तं । अनुक्रांतं च । जुषस्व पंचेति । ऋष्याद्याः पूर्ववत् ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तः सूक्तविनियोगः ॥ पशौ स्तोकानुवचन आद्या विनियुक्ता । सूत्रितं च । प्रेषितः स्तोकेभ्योऽन्वाह जुषस्व सप्रथस्तममिति । आ. [३-४?] इति ॥
+
+*juṣasveti pañcarcaṃ dvitīyaṃ sūktaṃ | anukrāntaṃ ca | juṣasva pañceti | ṛṣyādyāḥ pūrvavat || prātaranuvākāśvinaśastrayoḥ pūrvasūktena sahoktaḥ sūktaviniyogaḥ || paśau stokānuvacana ādyā viniyuktā | sūtritaṃ ca | preṣitaḥ stokebhyo 'nvāha juṣasva saprathastamam iti | ā. [3-4?] iti ||*
+
+*Meaning:* "*Juṣasva*" is the second sūkta, of five Ṛks; the Anukramaṇī says "*juṣasva pañca*"; the ṛṣi and the rest are as before. The application of the sūkta at the Prātaranuvāka and the Aśvina-śastra is stated together with the preceding sūkta. In the animal sacrifice the first Ṛk is applied for the *stokānuvacana*; so the sūtra: "being sent to the *stokas* he recites, *juṣasva saprathastamam*" (Ā. [3-4?]).
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*juṣasva*", is the second sūkta in the thirteenth anuvāka. It has five Ṛks. The Anukramaṇikā says "*juṣasva pañca*". The ṛṣi, deity and metre of this sūkta are as in the preceding sūkta. It was stated earlier that this sūkta and the preceding one are applied for the recitation of the Prātaranuvāka and Aśvina-śastra mantras. Besides this, in the animal sacrifice (*paśuyāga*), the first Ṛk of this sūkta is to be used for reciting the *stokānuvacana* mantras, as directed by the sūtra of the Āśvalāyana-śrauta-sūtra, "*preṣitaḥ stokebhyo 'nvāha juṣasva saprathastamam*" (Ā. [3-4]).
+
+---
+
+### Page 455 (PDF 473)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**सूक्त — ७५ (Sūkta 75)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७५ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 75.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२३?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "23" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Gāyatrī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.1**
+
+> जुषस्व सप्रथस्तमं वचो देवप्सरस्तमम् ।
+> हव्या जुह्वान आसनि ॥ १ ॥
+
+*juṣasva saprathastamaṃ vaco devapsarastamam |
+havyā juhvāna āsani ||1||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> जुषस्व । सप्रथःऽतमम् । वचः । देवप्सरःऽतमम् ।
+> हव्या । जुह्वानः । आसनि ॥ १ ॥
+
+*juṣasva | sapratha-tamam | vacaḥ | devapsaraḥ-tamam | havyā | juhvānaḥ | āsani ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 75.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने सप्रथस्तममतिशयेन विस्तीर्णं वचः स्तोत्रलक्षणमस्मदीयं वचनं जुषस्व । सेवस्व । कीदृशं । देवप्सरस्तमं देवानां प्रीणयितृतमं । किं कुर्वन् । आसनि तेनास्ये हव्या हव्यानि स्तोत्रलक्षणानि हवींषि जुह्वानः प्रक्षिपन् । इमानि स्तोत्रलक्षणानि हवींषि वृथा मा भुवन् तत्सर्वं कृदीयेन मुखेन स्वीकुर्विरित्यर्थः ॥ देवप्सरस्तमं । स्पृ प्रीतिबलयोः । देवान् स्पृणोति प्रीणयतीति देवप्सराः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारपकारयोः स्थानविपर्ययः । अतिशयेन देवप्सरा देवप्सरस्तमः । जुह्वानः । जुहोतेर्व्यत्ययेन शानच् । अभ्यस्तानामादिरित्याद्युदात्तत्वं । आसनि । पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः ॥
+
+*he agne saprathastamam atiśayena vistīrṇaṃ vacaḥ stotralakṣaṇam asmadīyaṃ vacanaṃ juṣasva | sevasva | kīdṛśaṃ | devapsarastamaṃ devānāṃ prīṇayitṛtamaṃ | kiṃ kurvan | āsani tenāsye havyā havyāni stotralakṣaṇāni havīṃṣi juhvānaḥ prakṣipan | imāni stotralakṣaṇāni havīṃṣi vṛthā mā bhuvan tat sarvaṃ tvadīyena mukhena svīkurvir ity arthaḥ || devapsarastamaṃ | spṛ prītibalayoḥ | devān spṛṇoti prīṇayatīti devapsarāḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ cety asun pūrvapadaprakṛtisvaratvaṃ ca | sakārapakārayoḥ sthānaviparyayaḥ | atiśayena devapsarā devapsarastamaḥ | juhvānaḥ | juhoter vyatyayena śānac | abhyastānām ādir ity ādyudāttatvaṃ | āsani | paddannityādināsyaśabdasyāsannādeśaḥ ||*
+
+*(Reading note: "kṛdīyena" in the print for *tvadīyena*; "svīkurvir" is printed so — the final clause is compressed and doubtful [?]; the page ends in the grammatical tail.)*
+
+*Meaning:* O Agni, accept (*juṣasva*) our word (*vacaḥ*) — the hymn — the most widely spread (*saprathastamam*, "exceedingly extensive") and the most gratifying to the gods (*devapsarastamam*). Doing what? Offering (*juhvānaḥ*) the oblations (*havyā*) in the form of hymns into the mouth (*āsani*) — by that mouth. "Let these oblations in the form of hymns not be in vain": receive them all with your own mouth.
+
+---
+
+**Progress note:** Printed pp. 1–455 done (PDF 19–473): **Sūktas 62–74 complete** (Sūkta 74's closing line, p. 454: "eppattanālkane sūktavu samāptavu"). **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī; the second sūkta of Anuvāka 13; Varga "23" as read [?]) begun: introduction and Anuvāda (p. 454), heading, and Rik 75.1 — Saṃhitā, Pada and the Sāyaṇa-bhāṣya with its tail begun (p. 455; the page ends in the tail). Next: p. 456 (PDF 474), the rest of the bhāṣya's tail of 75.1, the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar page; then Riks 75.2–75.5 and the closing line of Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the last clause of the bhāṣya of 75.1 doubtful [?].
