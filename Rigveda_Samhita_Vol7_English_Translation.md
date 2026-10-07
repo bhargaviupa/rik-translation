@@ -2910,4 +2910,82 @@ ugraṃ tat patyate śava indro aṅga ||9||*
 
 ---
 
-**Progress note:** Printed pp. 1–104 done (PDF 16–119) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.9 complete** (the three Uṣṇih Ṛks, 7–9, done; grammar of 84.9 on p. 104); next the three Paṅkti Ṛks (84.10–84.12). Next: printed p. 105 (PDF 120) — Rik 84.10. Eleven Ṛks (84.10–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 105 (PDF 120)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.10** *(the first of the three Paṅkti Ṛks, 10–12)*
+
+> स्वादोरित्था विषूवतो मध्वः पिबन्ति गौर्यः ।
+> या इन्द्रेण सयावरीर्वृष्णा मदन्ति शोभसे वस्वीरनु स्वराज्यम् ॥ १० ॥
+
+*svādor itthā viṣūvato madhvaḥ pibanti gauryaḥ |
+yā indreṇa sayāvarīr vṛṣṇā madanti śobhase vasvīr anu svarājyam ||10||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> स्वादोः । इत्था । विषुऽवतः । मध्वः । पिबन्ति । गौर्यः ।
+> याः । इन्द्रेण । सऽयावरीः । वृष्णा । मदन्ति । शोभसे ।
+> वस्वीः । अनु । स्वऽराज्यम् ॥ १० ॥
+
+*svādoḥ | itthā | viṣu-vataḥ | madhvaḥ | pibanti | gauryaḥ | yāḥ | indreṇa | sa-yāvarīḥ | vṛṣṇā | madanti | śobhase | vasvīḥ | anu | sva-rājyam ||10||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's application note and bhāṣya of Rik 84.10** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> चातुर्विंशिकेऽहनि माध्यंदिने सवनेऽच्छावाकस्य स्वादोरित्था विषूवत इति वैकल्पिकः स्तोत्रियस्तृचः । होत्रकाणामिति खण्डे सूत्रितं । यः सत्राहा विचर्षणिः स्वादोरित्था विषूवतः । आ. ७-४ [?] । पृष्ठ्यस्य पञ्चमेऽहनि निष्केवल्येऽस्यायं तृचोऽनुरूपः । स्तोमे वर्धमान इति खण्डे सूत्रितं । स्वादोरित्था विषूवत उप नो हरिभिः सुतं । आ. ८-१२ [?] इति ॥
+>
+> स्वादोः स्वादुभूतस्य रसयुक्तस्येत्था विषूवत इत्थमनेन प्रकारेण सर्वयज्ञेषु व्याप्तियुक्तस्य मध्वो मधुररसस्य सोमस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । एवंविधं सोमं गौर्यो गौरवर्णा गावः पिबन्ति । या गावः शोभसे शोभार्थं वृष्णा कामाभिवर्षकेणेन्द्रेण सयावरीः सह यान्त्यो गच्छन्त्यः सत्यो मदन्ति हृष्टा भवन्ति । ता इन्द्रपीतस्य सोमस्य शेषं पिबन्तीत्यर्थः । वस्वीः पयःप्रदानेन निवासकारिण्यास्ता गावः स्वराज्यं स्वस्य स्वकीयस्येन्द्रस्य यद्राज्यं राजत्वं तदनुलक्ष्यानुस्थिता इति शेषः ॥ विषूवतः । विष्लृ व्याप्तौ । अस्मादौणादिकः कुप्रत्ययः । तको मतुस् । ह्रस्वनुड्भ्यां मतुब् इति मतुप उदात्तत्वम् । अन्येषामपि दृश्यत इति संहितायां दीर्घः । व्यत्ययेन मतोर्वत्वम् । मध्वः । जसादिषु छन्दसि वावचनमिति घेर्ङिति गुणाभावे यणादेशः । गौर्यः । षिद्गौरादिभ्यश्चेति ङीष् । जसि यणादेश उदात्तस्वरितयोर्यणः इति परस्यानुदात्तस्य स्वरितत्वम् । सयावरीः । या प्रापणे । आतो मनिन्क्वनिप्वनिपश्च इति वनिप् । वनोरचेति ङीब्रेफौ । मदन्ति । मदी हर्षे । श्यनि प्राप्ते व्यत्ययेन शप् । वस्वीः । वस निवासे । कृस्वसिभ्याहित्यादिना वसेरुप्रत्ययः । धात्वे निदित्यनुवृत्तेराद्युदात्तत्वम् । वोतो गुणवचनादित्यत्र गुणवचनात् ङीषाद्युदात्तार्थम् । का. ४-१-४४-१ [?] इति वचनात् श्वसुशब्दान्ङीषपि यणादेशः । जसि वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । स्वस्य राज्यं स्वराज्यम् । अकर्मधारये राज्यम् । पा. ६-२-१३० । इत्युत्तरपदाद्युदात्तत्वम् ॥ १० ॥
+
+*cāturviṃśike 'hani mādhyaṃdine savane 'cchāvākasya svādor itthā viṣūvata iti vaikalpikaḥ stotriyas tṛcaḥ | hotrakāṇām iti khaṇḍe sūtritaṃ | yaḥ satrāhā vicarṣaṇiḥ svādor itthā viṣūvataḥ | Āś. 7-4 [?] | pṛṣṭhyasya pañcame 'hani niṣkevalye 'syāyaṃ tṛco 'nurūpaḥ | stome vardhamāna iti khaṇḍe sūtritaṃ | svādor itthā viṣūvata upa no haribhiḥ sutaṃ | Āś. 8-12 [?] iti ||*
+
+*svādoḥ svādubhūtasya rasayuktasyetthā viṣūvata ityam anena prakāreṇa sarvayajñeṣu vyāptiyuktasya madhvo madhurarasasya somasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī | evaṃvidhaṃ somaṃ gauryo gauravarṇā gāvaḥ pibanti | yā gāvaḥ śobhase śobhārthaṃ vṛṣṇā kāmābhivarṣakeṇendreṇa sayāvarīḥ saha yāntyo gacchantyaḥ satyo madanti hṛṣṭā bhavanti | tā indrapītasya somasya śeṣaṃ pibantīty arthaḥ | vasvīḥ payaḥpradānena nivāsakāriṇyas tā gāvaḥ svarājyaṃ svasya svakīyasyendrasya yad rājyaṃ rājatvaṃ tad anulakṣyānusthitā iti śeṣaḥ || viṣūvataḥ | viṣḷ vyāptau | asmād auṇādikaḥ kuprat yayaḥ | tako matus | hrasvanuḍbhyāṃ matub iti matupa udāttatvam | anyeṣām api dṛśyata iti saṃhitāyāṃ dīrghaḥ | vyatyayena mator vatvam | madhvaḥ | jasādiṣu chandasi vāvacanam iti gher ṅiti guṇābhāve yaṇādeśaḥ | gauryaḥ | ṣidgaurādibhyaś ceti ṅīṣ | jasi yaṇādeśa udāttasvaritayor yaṇaḥ iti parasyānudāttasya svaritatvam | sayāvarīḥ | yā prāpaṇe | āto maninkvanipvanipaś ca iti vanip | vanor aceti ṅībrephau | madanti | madī harṣe | śyani prāpte vyatyayena śap | vasvīḥ | vasa nivāse | kṛsvasibhyāhity ādinā vaser upratyayaḥ | dhātve nid ity anuvṛtter ādyudāttatvam | voto guṇavacanād ity atra guṇavacanān ṅīṣādyudāttārtham | kā. 4-1-44-1 [?] iti vacanāt śvasuśabdān ṅīṣapi yaṇādeśaḥ | jasi vā chandasīti pūrvasavarṇadīrghatvam | svasya rājyaṃ svarājyam | akarmadhāraye rājyam | pā. 6-2-130 | ity uttarapadādyudāttatvam || 10 ||*
+
+*Sense:* "On the twenty-fourth day, at the midday pressing, the triad beginning *svādor itthā viṣūvataḥ* is an optional *stotriya* of the *Acchāvāka*: stated in the section *hotrakāṇām* — '*yaḥ satrāhā vicarṣaṇiḥ svādor itthā viṣūvataḥ*' (Āś. 7-4 [?]). On the fifth day of the *Pṛṣṭhya* (ṣaḍaha), in the *Niṣkevalya*, this triad is the *anurūpa*; stated in the section *stome vardhamāne*: '*svādor itthā viṣūvata upa no haribhiḥ sutam*' (Āś. 8-12 [?]). — *Svādoḥ* — of the sweet, flavourful *madhu*, the sweet-juiced Soma, *viṣūvataḥ* — that in this way pervades all sacrifices (*itthā*): of such Soma the white (*gauryaḥ*) cows drink (*pibanti*). (The genitive stands in the sense of the fourth case, because 'the object is the *sampradāna*', by the statement 'the verb must be taken'.) Those cows that, for splendour (*śobhase*), go (*sayāvarīḥ*) together with the showerer of desires (*vṛṣṇā*) Indra, become glad (*madanti*): they drink the remainder of the Soma drunk by Indra. *Vasvīḥ* — those cows that, by giving milk, give dwelling; *svarājyam anu* — following (heeding) the sovereignty (*rājya*) of their own Indra." *The grammatical tail* (characterized): *viṣūvataḥ* — the root *viṣḷ vyāptau* with an Uṇādi *ku*-affix, then *matup* (udātta), the lengthening in the Saṃhitā, *va* for *ma* by *vyatyaya*; *madhvaḥ* — *yaṇ* in place of *u* when no guṇa; *gauryaḥ* — *ṅīṣ* in the *gaurādi* group; *sayāvarīḥ* — *vanip* after *yā*, *ṅīp* and *r*; *madanti* — *śap* for *śyan* by *vyatyaya*; *vasvīḥ* — from *vasa nivāse* with the *u*-affix; the discussion of the *ṅīṣ* after *u*-ending adjectives (Kā. 4-1-44, vārttika 1 [?]); *svarājyam* — final-udātta of the compound's last member."
+
+### Page 106 (PDF 121)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.10** *(Kannada)*
+
+- **स्वादोः** — "(sweet,) full of flavour"
+- **इत्था** — "in this way"
+- **विषूवतः** — "(in all sacrifices) pervading, prepared"
+- **मध्वः** — "the sweet Soma juice"
+- **गौर्यः** — "white-coloured cows"
+- **पिबन्ति** — "drink"
+- **याः** — "which cows"
+- **शोभसे** — "(for their) splendour"
+- **वृष्णा** — "(by Indra who) fulfils (the desired objects)"
+- **इन्द्रेण सयावरीः** — "going together with Indra (following)"
+- **मदन्ति** — "are satisfied. (Having drunk what remains of it, they are satisfied.)"
+- **वस्वीः** — "(by giving milk) dwelling in their cow-sheds"
+- **स्वराज्यम् अनु** — "(heeding) the sovereignty of their own (Indra)" *(the last clause, "standing", is added in the print in brackets)*.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.10** *(Kannada)*
+
+"White-coloured cows drink the sweet Soma juice, full of flavour and pervading all sacrifices in one and the same way. The cows follow Indra, who fulfils their desired objects, in order that their splendour may grow; having drunk the Soma juice drunk by him, they obtain satisfaction. And, giving milk, they dwell in their cow-sheds, heeding the sovereignty of Indra, their own."
+
+**English Translation** *(printed in English in the source)*
+
+"The white cows drink of the sweet Soma-juice prepared in every sacrifice ; the cows that go with bountiful Indra appear beautiful and are beneficient [sic] in accordance with his sovereignty." — as printed ("beneficient" as printed [sic]).
+
+### Page 107 (PDF 122)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.10)**
+
+"On the last day of the twenty-four-day sacrifice (*cāturviṃśa*), at the midday pressing, the priest called *Acchāvāka* may optionally recite the triad *svādor itthā viṣūvataḥ* (three Ṛks); this is explained in the Āśvalāyana Śrauta-sūtra, in the section *hotrakāṇām*, by the sūtra '*yaḥ satrāhā vicarṣaṇiḥ svādor itthā viṣūvataḥ*' (Āś. [7-4] [?]). And on the fifth day of the *Pṛṣṭhya* sacrifice the application of this triad (three Ṛks) is for the *niṣkevalya-śastra* mantras; this is explained in the Āśvalāyana Śrauta-sūtra in the section *stome vardhamāne* by the sūtra '*svādor itthā viṣūvata upa no haribhiḥ sutam*' (Āś. [8-12] [?])."
+
+- **विषूवतः** — *viṣḷ vyāptau; sarvayajñeṣu vyāptiyuktasya* — "pervading all sacrifices: that is, prepared in all sacrifices for offering to the gods."
+- **मध्वः** — "of the sweet portion of Soma juice. Although the word *somasya* is not here, for the word *madhvaḥ* the sense 'tasty Soma juice' is to be given. To indicate the sense of Soma juice the use of the word *madhu* alone is conventional in the Ṛgveda."
+- **गौर्यः** — *gauravarṇā gāvaḥ* — "white-coloured cows; or cows of auspicious (bright) colour."
+- **सयावरीः** — *sahagacchantyaḥ* — "going together with Indra, being with Indra."
+- **वृष्णा** — *kāmābhivarṣakeṇa* — "from Indra, who showers desired things."
+- **वस्वीः** — *vasa nivāse; payaḥpradānena nivāsakāriṇyaḥ* — "dwelling (in the cow-sheds); by giving milk they make what is favourable to dwelling. Hence the cows are called *vasvīḥ*."
+- **स्वराज्यम्** — "what *svarājya* means here the bhāṣyakāra has not stated clearly. He explains: 'These cows, by giving milk, are the means of providing habitation.' Under Indra's overlordship, cows giving milk at will are suitable for people to dwell by; this prosperous sovereignty may be said to be in Indra's nourishing. At the end of this Ṛk and of the next two Ṛks the words *vasvīr anu svarājyam* are read again and again; in these usages the ṛṣi's intention is not clear."
+
+---
+
+**Progress note:** Printed pp. 1–107 done (PDF 16–122) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.9 complete**; **Rik 84.10** (first Paṅkti Ṛk; refrain *vasvīr anu svarājyam*) — Saṃhitā, Pada, application note, bhāṣya (p. 105), Pratipadārtha, Bhāvārtha, English (p. 106) and Special Topics (p. 107) done; the grammar page of 84.10 not yet seen. Next: printed p. 108 (PDF 123). Ten Ṛks (84.11–84.20) remain after 84.10. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
