@@ -4372,4 +4372,88 @@ Closing of Rik 85.2: "॥ २ ॥" (2), followed by a printer's ornament. *(So t
 
 ---
 
-**Progress note:** Printed pp. 1–158 done (PDF 16–173) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1 and 85.2 complete**; **Rik 85.3** done through its Special Topics and the first four entries of its grammar page (to *virukmataḥ*, p. 158); the grammar page may continue on p. 159 (*bādhante*, *rīyate* …). Next: printed p. 159 (PDF 174). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 159 (PDF 174)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 159.)*
+
+*Vyākaraṇa-prakriyā of Rik 85.3, concluded from p. 158 (grammar, noted briefly):*
+
+- **बाधन्ते** — the root *bādhṛ loḍane*, Bhvādi; *laṭ*, third person plural; since the verb stands at the beginning of a *pāda*, there is no *nighāta*; by the root's accent the first syllable is acute.
+- **रीयते** — the root *rīṅ sravaṇe*, Divādi; *laṭ*, third person singular; by "टित आत्मनेपदानां टेरे" (*ṭita ātmanepadānāṃ ṭer e*) the *e*; by "दिवादिभ्यः श्यन्" (*divādibhyaḥ śyan*) the *vikaraṇa* *śyan*; since it follows an *atiṅanta*, the *nighāta* accent.
+
+Closing of Rik 85.3: "॥ ३ ॥" (3), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.4)** *(Jagatī; Maruts; accents not reproduced)*
+
+> वि ये भ्राजन्ते सुमखास ऋष्टिभिः प्रच्यावयन्तो अच्युता चिदोजसा ।
+> मनोजुवो यन्मरुतो रथेष्वा वृषव्रातासः पृषतीरयुग्ध्वम् ॥ ४ ॥
+
+*vi ye bhrājante sumakhāsa ṛṣṭibhiḥ pracyāvayanto acyutā cid ojasā | manojuvo yan maruto ratheṣv ā vṛṣavrātāsaḥ pṛṣatīr ayugdhvam ‖ 4 ‖*
+
+*Gloss, mine and tentative:* "Those who shine forth with their spears, the well-sacrificed, shaking even the unshakable by their might — when you, O Maruts, swift as thought, a host that sheds rain, yoke the spotted mares to your chariots."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.4)**
+
+> वि । ये । भ्राजन्ते । सुऽमखासः । ऋष्टिऽभिः । प्रऽच्यवयन्तः । अच्युता । चित् । ओजसा ।
+> मनःऽजुवः । यत् । मरुतः । रथेषु । आ । वृषऽव्रातासः । पृषतीः । अयुग्ध्वम् ॥ ४ ॥
+
+*vi | ye | bhrājante | su-makhāsaḥ | ṛṣṭi-bhiḥ | pra-cyavayantaḥ | acyutā | cit | ojasā | manaḥ-juvaḥ | yat | marutaḥ | ratheṣu | ā | vṛṣa-vrātāsaḥ | pṛṣatīḥ | ayugdhvam ‖ 4 ‖*
+
+---
+
+### Page 160 (PDF 175)
+
+*(Running head: "160 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.4)**
+
+> सुमखासः शोभनयज्ञा ये मरुत ऋष्टिभिरायुधैर्वि भ्राजन्ते विशेषेण दीप्यन्ते ते मरुतोऽच्युता चित् च्यावयितुमशक्यानि दृढानि पर्वतादीन्यपि ओजसा स्वकीयेन बलेन प्रच्यावयन्तः प्रकर्षेण च्यावयितारः प्रेरयितारो भवन्ति । उत्तरार्धः प्रत्यक्षकृतः । हे मरुतो मनोजुवो मनोवद्वेगगतयो वृषव्रातासो वृष्ट्युदकसेचनसमर्थसप्तसंघात्मका यूयं रथेष्वात्मीयेषु पृषतीः । पृषत्य इति मरुद्वाहनानां संज्ञा पृषत्यो मरुताम् इति [?] । पृषद्भिः श्वेतबिन्दुभिर्युक्ता मृगीर्यद्यदायुग्ध्वम् आभिमुख्येन नियुक्ता अकृष्ट्वम् । तदानीं पर्वतादिकं प्रच्यवत इत्यर्थः ॥ सुमखासः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति नञ्सुभ्यामित्यस्य प्रवृत्त्यभावे बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अच्युता । शेश्छन्दसि बहुलमिति शिलोपः । मनोजुवः । जु इति सौत्रो धातुर्गत्यर्थः । क्विब्वचीत्यादिना क्विप्दीर्घौ । अयुग्ध्वम् । युजिर् योगे । लुङः धि च । (पा. ८-२-[२५] [?]) इति सकारलोपः ॥
+
+*sumakhāsaḥ śobhanayajñā ye maruta ṛṣṭibhir āyudhair vi bhrājante viśeṣeṇa dīpyante te maruto 'cyutā cit cyāvayitum aśakyāni dṛḍhāni parvatādīny api ojasā svakīyena balena pracyāvayantaḥ prakarṣeṇa cyāvayitāraḥ prerayitāro bhavanti | uttarārdhaḥ pratyakṣakṛtaḥ | he maruto manojuvo manovad vegagatayo vṛṣavrātāso vṛṣṭyudakasecanasamarthasaptasaṃghātmakā yūyaṃ ratheṣv ātmīyeṣu pṛṣatīḥ | pṛṣatya iti marudvāhanānāṃ saṃjñā pṛṣatyo marutām iti [?] | pṛṣadbhiḥ śvetabindubhir yuktā mṛgīr yad yadāyugdhvam ābhimukhyena niyuktā akṛṣṭvam | tadānīṃ parvatādikaṃ pracyavata ity arthaḥ ‖ sumakhāsaḥ | sarve vidhayaś chandasi vikalpyanta iti nañsubhyām ity asya pravṛttyabhāve bahuvrīhau pūrvapadaprakṛtisvaratvam | acyutā | śeś chandasi bahulam iti śilopaḥ | manojuvaḥ | ju iti sautro dhātur gatyarthaḥ | kvib vacīty ādinā kvip dīrghau | ayugdhvam | yujir yoge | luṅaḥ dhi ca (Pā. 8-2-[25] [?]) iti sakāralopaḥ ‖*
+
+*(Kannada script; the clause "pṛṣatya iti marudvāhanānāṃ saṃjñā" is followed by a short Nirukta-like phrase that is not clear in the print [?]; the sūtra number at the end is not read with certainty.)*
+
+*Translation:* "*Sumakhāsaḥ* — those with good sacrifices; the Maruts, who with their spears (*ṛṣṭi*, weapons) shine forth specially, they *pracyāvayantaḥ* — shaking, impelling — even the *acyutā*, the firm things that cannot be moved, mountains and the like, by their own strength (*ojas*). The latter half is addressed directly. O Maruts, swift as thought, whose movement is as fast as the mind, a host (*vrāta*) of seven (companies [?]) able to pour out rain-water, *pṛṣatīḥ* — *pṛṣatī* is the name of the Maruts' steeds (the Nirukta [?] says 'the *pṛṣatīs* of the Maruts') — when you yoke to your own chariots the does that are marked with white spots, *pṛṣat* — then the mountains and the rest are shaken out of place — so the meaning." *Grammar tail, noted briefly:* *sumakhāsaḥ* — since all rules are optional in the Chandas, "nañsubhyām" does not apply, and so in the *bahuvrīhi* the first member keeps its accent; *acyutā* — loss of *śi* by "śeś chandasi bahulam"; *manojuvaḥ* — *ju* is a *sautra* root in the sense of motion; *kvip* by "kvib vacī…", lengthening; *ayugdhvam* — *yujir yoge*, *luṅ* with *dhvam*, loss of *s* by the sūtra "dhi ca" [Pā. 8-2-25 [?]].
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.4)** *(Kannada)*
+
+*sumakhāsaḥ* — those who have excellent sacrifices; *ye* — which Maruts; *ṛṣṭibhiḥ* — with weapons; *vi bhrājante* — shine specially; (they) *acyutā cit* — even mountains and the like, which are not to be shaken; *ojasā* — by their strength; *pracyāvayantaḥ* — shake; *maruta* — O Maruts; *manojuvaḥ* — swift as the mind; *vṛṣavrātāsaḥ* — intent on duties such as pouring rain; *ratheṣu* — in your chariots; *pṛṣatīḥ* — the spotted does; *yat* — when; *ā ayugdhvam* — you yoke (towards the chariot) (then mountains and the rest all shake).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.4** *(Kannada)*
+
+"The Maruts, who are endowed with excellent sacrifices and shine specially with their weapons, make the mountains and the like, which are unshakable, shake with their strength. O Maruts, swift as the mind, intent on duties such as giving rain, when you yoke the spotted does to your chariots, all the mountains and the rest are made to move."
+
+---
+
+### Page 161 (PDF 176)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 161. Foot: printer's signature "11 … Volume 7".)*
+
+**English Translation** *(printed in English in the source)*
+
+"They (Maruts) who are well worshipped shine with various weapons; through their might, they are shakers of even unshakable (mountains &c.). Maruts, entrusted with the duty of sending rain, yoke the spotted deer to your cars." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.4)**
+
+- **सुमखासः** — *śobhanayajñāḥ* — "those who are worshipped in the finest sacrifices."
+- **ऋष्टिभिः** — *āyudhaiḥ* — "with weapons, with *bhṛjji* [as read]."
+- **प्रच्यावयन्तः** — "*prakarṣeṇa cyāvayitāraḥ prerayitāro bhavanti* — those who impel by their strength, who shake."
+- **अच्युता** — "mountains and the like, which cannot be shaken."
+- **ओजसा** — "by their strength and power."
+- **मनोजुवः** — "*ju* is a *sautra* root in the sense of motion: of the speed of the mind. Just as we see in an instant, with the mind, a thing that is very far off, so they have a surpassing speed — that is the meaning."
+- **वृषव्रातासः** — "those capable of the work of raining."
+- **पृषतीः** — "the vehicles of the Marut deities are called *pṛṣatī*. *Pṛṣatī* means 'does marked with white spots'. Different deities have different vehicles. In this connexion Yāska has said:
+
+> हरी इन्द्रस्य । रोहितावग्नेः । हरिता आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुताम् । अरुणो गावः उषसः । श्यावा सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥
+
+*harī indrasya | rohitāv agneḥ | haritā ādityasya | rāsabhāv aśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutām | aruṇo gāvaḥ uṣasaḥ | śyāvā savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ ‖* (Ni. 2-[?] [?]) — *Gloss, mine and tentative:* "The two bay horses are Indra's; the two red ones, Agni's; the green ones, the Āditya's; the two asses, the Aśvins'; the goats, Pūṣan's; the spotted does, the Maruts'; the ruddy cows, Uṣas's; the dark-brown ones, Savitṛ's; the multi-coloured ones, Bṛhaspati's; the *niyut* team, Vāyu's."
+
+— so he has said."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.4)** *(grammar page, noted briefly; begins here)*
+
+- **भ्राजन्ते** — the root *bhrāji dīptau*, Bhvādi; since *ye* stands before it, by "यद्वृत्तान्नित्यम्" (*yadvṛttānnityam*) the *nighāta* is prevented; the root-accent remains. *(The grammar page continues on p. 162.)*
+
+---
+
+**Progress note:** Printed pp. 1–161 done (PDF 16–176) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.3 complete**; **Rik 85.4** done through its Special Topics and the first entry of its grammar page (*bhrājante*, p. 161); the rest of that grammar page runs on p. 162. Next: printed p. 162 (PDF 177). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
