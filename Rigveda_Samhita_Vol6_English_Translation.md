@@ -10176,4 +10176,71 @@ avatāṃ tvā rodasī viśvaminve yajā mahe saumanasāya devān ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–473 done (PDF 19–491): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Rik 76.1 complete (Special Topics p. 471, grammar page pp. 471–472; NB the note on p. 472 explains that p. 472's first lines belong to the *bhuvat* entry already completed on p. 471); **Rik 76.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (pp. 472–473). Next: p. 474 (PDF 492), the Bhāvārtha, English, Special Topics and grammar page of 76.2; then Riks 76.3–76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the p. 471 *dakṣam* citations read from small print, glosses tentative; the page-471/472 split of the grammar page of 76.1 was folded (see note under p. 472) [?].
+### Page 474 (PDF 492)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 76.2** *(Kannada)*
+
+O Agni! Come here; sit here as the invoker (of the gods); you who cannot be injured by demons and the like, go before us; may heaven and earth, which pervade all, protect you; and, such as you are, worship the gods with oblations and the like so that they are gratified.
+
+**English Translation** *(the source's own, as printed):*
+
+> Come, Agni, hither; invoker (of the Gods), sit down; be our preceder [sic: printed "preceder'"]; for you are irresistable [sic]; may the all-expansive heaven and earth defend you, that you may worship the Gods to their great satisfaction.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **विश्वमिन्वे रोदसी त्वा अवताम्** — *sarvaṃ vyāpnuvatyau dyāvāpṛthivyau tvāṃ rakṣatām* — "'may heaven and earth, which pervade all, protect you': the prayer of those who perform the sacrifice, concerning Agni, that heaven and earth, pervading all, may protect you, who are free from every kind of injury from demons and the like. The word *viśva*, as one of the twelve names that give the sense 'many' — *uru*, *tuvi* and so on (Ni. [3-13?]) — is used here in the sense 'all'.
+
+  That the greatness of heaven and earth, which protect Agni, is such, Yāska has shown in the Nirukta by quoting the Ṛk:
+
+  > कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद ।
+  > विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥
+  > *katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda | viśvaṃ tmanā bibhṛto yad dha nāma vi vartete ahanī cakriyeva* (Ṛk. Saṃ. [1-185-1])
+
+  and saying *dyāvāpṛthivyor mahimānam ācaṣṭe* ('he describes the greatness of heaven and earth'). The first and last positions that these heaven-and-earth have cannot be clearly known: whether they arose together, or in what manner they arose, no one knows. According to the authority of the scriptures, however, *te aṇḍakapāle rajataṃ ca suvarṇaṃ cābhavatām*, *tayor yad rajataṃ seyaṃ pṛthivī yat suvarṇaṃ sā dyauḥ* [as read, doubtful]: 'there were two halves of an egg; one of them became silver, the other gold; the silver half became the earth, the gold half the sky'; from this it is understood that these heaven and earth arose together. And these heaven and earth support all, all beings. The day and the night too, like the wheels of a chariot, are connected with them: such is the sense of this mantra. By this the greatness of heaven and earth is told." *(Gloss mine and tentative: "which is the first and which the later of the two? how were they born, O seers? who knows? they bear the whole world by themselves, and day and night revolve like two wheels". The Ṛgveda numerals and the Śruti-like sentence are read from small print and are doubtful [?].)*
+
+---
+
+### Page 475 (PDF 493)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 76.2 (concluded)**
+
+- **महे, सौमनसाय, सौमनस्याय** — "the prayer to Agni: 'worship the gods with oblation-portions, in order that we who perform the sacrifice may obtain a mind endowed with exceedingly excellent qualities'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.2, noted briefly; not transcribed)*
+
+Words treated: *ehi* (*ā* + *ihi*; prefix *āṅ*; root *iṇ gatau*; since *hi* is not *pit* [it is *apit*], no guṇa of the root; guṇa-sandhi with the prefix; nighāta because it follows an *atijanta*). *ni ṣīda* (prefix *ni*; root *ṣadḷ viśaraṇagatyavasādaneṣu*; *loṭ*, second person singular, *sip* → *hi* by *serhyapicca*, Pā. [3-4-87]; *śap*; *sīda* by *pāghrādhmāsthāmnādāṇ…*, Pā. [7-3-78]; loss of *hi* by *ato heḥ*, Pā. [6-4-105]; *ṣatva* of the *s* after the prefix's *i* by *sadiraprateḥ*, Pā. [8-3-66]; nighāta of the tiṅanta). *adabdhaḥ* (*na dabdhaḥ*; a negative tatpuruṣa; by *tatpuruṣe tulyārthatṛtīyā…*, Pā. [6-2-2], the first member [*nañ*] keeps its natural accent). *puraetā* (root *iṇ gatau*; *tṛc* in the agent sense; guṇa for the sake of the affix; *puraḥ* + *etā*; by *gatikārakopapadāt kṛt*, Pā. [6-2-139], the second member keeps its natural accent; *etā* has the final acute by *citaḥ* [as read]). *avatām* (root *ava rakṣaṇe*; *loṭ*, third person dual, *tas*; *loṭo laṅvat*; *taṃ* → *tām* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. [3-4-101]; *śap*; no nighāta at the head of a pāda; since the root is in the *adupadeśa* class, *tāsyanudāttet…* makes the affix anudātta, so the root accent remains). *yaja* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *loṭ*, second person singular; as before for *bhava*, here too by *dvyaco 'tastiṅaḥ*, Pā. [6-3-135], since the word has two syllables, lengthening in the saṃhitā). *(Continued on p. 476.)*
+
+---
+
+### Page 476 (PDF 494)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**Grammar page of Rik 76.2 (concluded; noted briefly)**
+
+*mahe* (the stem *mahat*; in the dative singular *mahate*, the *t* is lost by Vedic usage, giving *mahe*). *saumanasāya* ("the state of good mind", *saumanasam*; by *tasyedam*, Pā. [4-3-120], the *aṇ* affix of general relation, ending here in the particular relation of state; since *ñit*, vṛddhi of the first vowel by *taddhiteṣv acām ādeḥ*, Pā. [7-2-117]; or the *aṇ* by *hāyanāntayuvādibhyo 'ṇ*, Pā. [5-1-130], in the abstract sense — it is read in the *yuvādi* class; the process as before; the final acute by the affix's accent; dative singular). Ends "॥ २ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.3** *(printed Ṛk "3 ||")*
+
+> प्र सु विश्वान्रक्षसो धक्ष्यग्ने भवा यज्ञानामभिशस्तिपावा ।
+> अथा वह सोमपतिं हरिभ्यामातिथ्यमस्मै चकृमा सुदाव्ने ॥ ३ ॥
+
+*pra su viśvān rakṣaso dhakṣy agne bhavā yajñānām abhiśastipāvā |
+athā vaha somapatiṃ haribhyām ātithyam asmai cakṛmā sudāvne ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> प्र । सु । विश्वान् । रक्षसः । धक्षि । अग्ने । भव । यज्ञानाम् । अभिशस्तिऽपावा ।
+> अथ । आ । वह । सोमऽपतिम् । हरिऽभ्याम् । आतिथ्यम् । अस्मै । चकृम । सुऽदाव्ने ॥ ३ ॥
+
+*pra | su | viśvān | rakṣasaḥ | dhakṣi | agne | bhava | yajñānām | abhiśasti-pāvā | atha | ā | vaha | soma-patim | hari-bhyām | ātithyam | asmai | cakṛma | su-dāvne ||3||*
+
+*(Reading note: the Pada's "भव" for the Saṃhitā's "भवा" (lengthened before "यज्ञानाम्" in saṃhitā) and "धक्षि" for "धक्ष्य" (sandhi before "अग्ने") are as printed; accents not reproduced.)*
+
+---
+
+**Progress note:** Printed pp. 1–476 done (PDF 19–494): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.2 complete (76.2: pp. 472–476); **Rik 76.3** (printed "3 ||") — Saṃhitā and Pada done (p. 476). Next: p. 477 (PDF 495), the Sāyaṇa-bhāṣya of Rik 76.3 and the rest of its treatment; then Riks 76.4–76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation and the egg-passage on p. 474 read from small print, gloss tentative [?].
