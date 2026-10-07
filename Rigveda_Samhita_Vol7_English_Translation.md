@@ -2276,4 +2276,88 @@ grāvā yatra vadati kārur ukthyas tasyed indro abhipitveṣu raṇyati ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–83 done (PDF 16–98) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete** (Sūkta 83: six Ṛks, pp. 55–81; no separate closing line in the print). **Sūkta 84** (twenty Ṛks: 1–6 Anuṣṭubh, 7–9 Uṣṇih, 10–12 Paṅkti, 13–15 Gāyatrī, 16–18 Triṣṭubh, 19 Bṛhatī, 20 Satobṛhatī; Indra; Gotama Rāhūgaṇa; the eleventh sūkta of Anuvāka 13; printed pp. 81–142; Varga "6, 7, 8, 9" as read [?]) begun: introduction, Anuvāda (p. 81), heading (p. 82) and **Rik 84.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (pp. 82–83) done; the Special Topics and grammar of 84.1 not yet seen. Next: printed p. 84 (PDF 99). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–80; the application sentences of the Sūkta 84 introduction (p. 81) partly broken [?].
+### Page 84 (PDF 99)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.1)**
+
+- **शविष्ठ** — "*śavaḥ* means strength (Ni. [2-9] [?]); *śaviṣṭha* means 'exceedingly, very greatly strong'."
+- **धृष्णो** — *śatrūṇāṃ dharṣayituḥ* — "one who subdues the pride of enemies; the valorous."
+- **इन्द्रियम्** — "valour, strength."
+- **रजः** — "since for this word (*rajasī*) the sense 'heaven and earth' is given (Ni. [?-?] [?]), the sense 'as the sun's rays pervade the earth and the middle region' can also be given where needed."
+- **न** — "the word *na* here conveys the sense of comparison, 'like' (*iva*)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.1)** *(grammar page, noted briefly; runs to p. 85)*
+
+- **शविष्ठ** — to *śavasvin* (from *śavas*) in the superlative sense the affix *iṣṭhan* by "atiśāyane tamabiṣṭhanau" (Pā. Sū. 5-3-55); *śavas* means strength; since *vin* arose by "asmāyāmedhāsrajo vini" (Pā. Sū. 5-2-121) the word *śavasvin* is formed; with *śavasvin+iṣṭha*, by "vinmator luk" [as read: "vinmatorluk", Pā. Sū. 5-3-65] the *vin* is dropped when *iṣṭhan*, *īyasun* follow, so *śavas+iṣṭha*; by "ṭeḥ" (Pā. Sū. 6-4-155) the *ṭi* of a *bha*-stem is dropped before *iṣṭhan*, *imanic*, *īyasun*: the *as* of *śavas* is dropped. Since *śaviṣṭha* stands at the head of the pāda, by the exclusion "apādādau" no nighāta accent arises.
+- **गहि** — the root *gamḷ gatau*, *bhvādi*; *loṭ*, second person singular, with *hi* for *sip*: *gam+hi*; *śap* would arise, but by "bahulaṃ chandasi" the *luk* of the stem-marker; as it is *luk* there is no *sthānivadbhāva*. For this reason the *śap* being the cause, the substitute *cha* by "iṣugamiyamāṃ chaḥ" (Pā. Sū. 7-3-77) does not arise. By "anudāttopadeśavanatitanotyādīnām…" (Pā. Sū. 6-4-37) the nasal is dropped; since *hi* is said to be *apit*, it is *ñit*, so the *m* of *gam* (with a nasal) is dropped. *Gah+hi* …: by "ato heḥ" (Pā. Sū. 6-4-105) the *luk* of *hi* would come after an *a*-ending; but by "asiddhavad atrābhāt" (Pā. Sū. 6-4-22) operations in the *bha* section are treated as non-effective in respect of earlier ones; the nasal-loss is enjoined in the *bhādhikāra*, and so is the *hi*-loss; so, when the *hi*-loss is made, the nasal-loss is treated as non-effective; therefore, since the *m* is still present, the *a* is not before *hi*, and the *hi* is not dropped. ||1||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 85 (PDF 100)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 84.1, concluded:* "…the *m* [being] in the position of a *siddha* (as if existing), since it is not preceded by *a*, no loss of *hi* arises." ||1||
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.2**
+
+> इन्द्रमिद्धरी वहतोऽप्रतिधृष्टशवसम् ।
+> ऋषीणां च स्तुतीरुप यज्ञं च मानुषाणाम् ॥ २ ॥
+
+*indram id dharī vahato 'pratidhṛṣṭaśavasam |
+ṛṣīṇāṃ ca stutīr upa yajñaṃ ca mānuṣāṇām ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इन्द्रम् । इत् । हरी इति । वहतः । अप्रतिधृष्टऽशवसम् ।
+> ऋषीणाम् । च । स्तुतीः । उप । यज्ञम् । च । मानुषाणाम् ॥ २ ॥
+
+*indram | it | harī iti | vahataḥ | apratidhṛṣṭa-śavasam | ṛṣīṇām | ca | stutīḥ | upa | yajñam | ca | mānuṣāṇām ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अप्रतिधृष्टशवसं केनाप्यप्रतिधर्षितबलम् । अहिंसितबलमित्यर्थः । इन्द्रमिदिन्द्रमेव ऋषीणां वसिष्ठादीनां मानुषाणामन्येषां मनुष्याणां च स्तुतीर्यज्ञं च हरी अश्वावुप वहतः । समीपं प्रापयतः । यत्र यत्र स्तुवन्ति यत्र यत्र यजन्ते तत्र सर्वत्रेन्द्रमश्वौ प्रापयतः इत्यर्थः ॥ मानुषाणाम् । मनोर्जाताविति मनुशब्दादञ् षुगागमश्च ॥ २ ॥
+
+*apratidhṛṣṭaśavasaṃ kenāpy apratidharṣitabalam | ahiṃsitabalam ity arthaḥ | indram id indram eva ṛṣīṇāṃ vasiṣṭhādīnāṃ mānuṣāṇām anyeṣāṃ manuṣyāṇāṃ ca stutīr yajñaṃ ca harī aśvāv upa vahataḥ | samīpaṃ prāpayataḥ | yatra yatra stuvanti yatra yatra yajante tatra sarvatrendram aśvau prāpayataḥ ity arthaḥ || mānuṣāṇām | manor jātāv iti manuśabdād añ ṣugāgamaś ca || 2 ||*
+
+*Sense:* "*Apratidhṛṣṭaśavasam* — of strength not overcome by anyone; of unharmed strength. Indra alone (*indram id*) the two bays (*harī*, the two horses) carry (*upa vahataḥ*) to the praises (*stutīḥ*) and the sacrifice (*yajñam*) of the ṛṣis — Vasiṣṭha and the others — and of the *mānuṣāṇām*, of other men: they bring Indra near, wherever they praise, wherever they sacrifice, everywhere." *The grammatical tail:* *mānuṣāṇām* — the affix *añ* after *manu*, with the augment *ṣuk*, by "manor jātāv añyatau ṣuk ca" [as read, Pā. 4-1-161 [?]].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.2** *(Kannada)*
+
+- **अप्रतिधृष्टशवसम्** — "possessing a valour that no one can obstruct"
+- **इन्द्रमित्** — "Indra alone"
+- **ऋषीणाम्** — "(of the ṛṣis such as Vasiṣṭha)"
+- **च** — "and"
+- **मानुषाणाम्** — "of (other) men"
+- **स्तुतीः** — "to the praises"
+- **यज्ञं च** — "and also to the sacrifice"
+- **हरी** — "(his) horses"
+- **उप वहतः** — "bring (carrying him)."
+
+### Page 86 (PDF 101)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.2** *(Kannada)*
+
+"Wherever Vasiṣṭha and the other ṛṣis, and other men, praise and wherever they sacrifice, there everywhere Indra's horses carry Indra, whose valour cannot be obstructed."
+
+**English Translation** *(printed in English in the source)*
+
+"May his horses bear Indra of unresistable [sic] prowess to the praises and sacrifices of Rishis and men." — as printed ("unresistable" as printed [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.2)**
+
+- **अप्रतिधृष्टशवसम्** — *apratihatasāmarthyopetaṃ kenāpy ahiṃsitabalam* — "Indra, who has a power that no one can resist, a strength that cannot be obstructed."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.2)** *(grammar page, noted briefly)*
+
+- **मानुषाणाम्** — "by "manor jātāv añyatau ṣuk ca" (मनोर्जाताविञ्यतौ षुक् च, Pā. Sū. 4-1-161 [?]) the two affixes *añ* and *yat* come after the word *manu*; when they follow, the stem gets the augment *ṣuk*. The stem-and-affix combination should show a sense of *jāti* (birth, class). The operations that follow come about. Here the affix *añ* has come; with *manu+añ*, since *ṣuk* is *kit*, it becomes the final element of *manu* [*manus*]; the *ñ* of *añ* is a mark; since *añ* has *ñ*, by "taddhiteṣv acām ādeḥ" (Pā. Sū. 7-2-117) the first vowel of the stem takes vṛddhi. When the sixth-case plural *ām* follows the word *mānuṣa*, by "hrasvanadyāpo nuṭ" (Pā. Sū. 7-1-54) *ām* gets the augment *nuṭ*; by "nāmi" (Pā. Sū. 6-4-3) a vowel-ending stem is lengthened before *nām*; by "raṣābhyāṃ no ṇaḥ samānapade" (Pā. Sū. 8-4-1) the *n* after *r* or *ṣ* in the same word becomes *ṇ*, here because it follows the *ṣ* of the *ṣuk*." ||2||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–86 done (PDF 16–101) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.2 complete** (84.2 is a short Ṛk, pp. 85–86). Next: printed p. 87 (PDF 102) — Rik 84.3. Eighteen Ṛks (84.3–84.20) remain. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81.
