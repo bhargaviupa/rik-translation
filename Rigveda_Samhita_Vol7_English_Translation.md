@@ -1357,4 +1357,93 @@ and nowhere else. There the bhāṣyakāra explains this word as '*haryor aśvay
 
 ---
 
-**Progress note:** Printed pp. 1–48 done (PDF 16–63) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.3 complete**; **Rik 82.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 46–48) done; its grammar page is begun on p. 48 (breaking off at *ciketati*) and continues on p. 49 (PDF 64). Next: printed p. 49 (PDF 64). Two Ṛks (82.5–82.6) remain after 82.4, then Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 read with doubt.
+### Page 49 (PDF 64)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". A printer's mark "4 … VOLUME 7" at the foot.)*
+
+*Grammar of Rik 82.4, concluded (grammar page, noted briefly):*
+
+- **चिकेतति** (concluded) — "…the augment *aṭ* comes to the *tiṅ*. For the reduplicative of the first part, by "kuhoś cuḥ" (Pā. Sū. 7-4-62) a *cavarga* letter would arise for the *k*; by the *antaryā* [nearness] principle the *c* arises: *ci-*. By "pugantalaghūpadhasya ca" (Pā. Sū. 7-3-86) the guṇa for the *i* before the *t* — the light penultimate of the *aṅga* — arises. Although "nābhyastasyāci piti sārvadhātuke" (Pā. Sū. 7-3-87) prohibits guṇa of a light penultimate for an *abhyasta* stem when a *pit* *sārvadhātuka* beginning with a vowel follows, here the *vārttika* "bahulaṃ chandasīti vaktavyam" (Pā. Sū. 7-3-87, vārttika 1) means that the prohibition of the light-penultimate guṇa does not arise." ||4||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 82.5**
+
+> युक्तस्ते अस्तु दक्षिण उत सव्यः शतक्रतो ।
+> तेन जायामुप प्रियां मन्दानो याह्यन्धसो योजा न्विन्द्र ते हरी ॥ ५ ॥
+
+*yuktas te astu dakṣiṇa uta savyaḥ śatakrato |
+tena jāyām upa priyāṃ mandāno yāhy andhaso yojā nv indra te harī ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> युक्तः । ते । अस्तु । दक्षिणः । उत । सव्यः । शतक्रतो इति शतऽक्रतो ।
+> तेन । जायाम् । उप । प्रियाम् । मन्दानः । याहि । अन्धसः ।
+> योज । नु । इन्द्र । ते । हरी इति ॥ ५ ॥
+
+*yuktaḥ | te | astu | dakṣiṇaḥ | uta | savyaḥ | śatakrato iti śata-krato | tena | jāyām | upa | priyām | mandānaḥ | yāhi | andhasaḥ | yoja | nu | indra | te | harī iti ||5||*
+
+### Page 50 (PDF 65)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 82".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 82.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे शतक्रतो बहुकर्मवन्निन्द्र ते त्वदीये रथे दक्षिणो दक्षिणपार्श्वस्थोऽश्वो युक्तोऽस्तु । उताऽपि च सव्यो वामपार्श्वस्थोऽपि युक्तोऽस्तु । तेन रथेनान्धसः सोमलक्षणस्यान्नस्य पानेन मन्दानो मत्तस्तृप्तः प्रियां प्रीणयित्रीं जायामुप याहि । सा यत्र वर्तते तत्र गच्छेत्यर्थः । तदर्थं हे इन्द्र त्वदीयावश्वौ रथे क्षिप्रं योजय । अनोत्तररयो च पीतसोमस्येन्द्रस्य स्वगृहं प्रति प्रस्थानं प्रतिपाद्यते ॥ मन्दानः । मदि स्तुतिमोदमदस्वप्नकान्तिगतिषु । लिटः कानच् । द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यमिति द्विर्वाचनाभावः । अन्धसः । अद भक्षणे । आदेर्नुम् धश्च । उ. ४-२०८ [?] इत्यसुन् । धातोर्नुमागमो धकारान्तादेशश्च ॥ ५ ॥
+
+*he śatakrato bahukarmavann indra te tvadīye rathe dakṣiṇo dakṣiṇapārśvastho 'śvo yukto 'stu | utāpi ca savyo vāmapārśvastho 'pi yukto 'stu | tena rathenāndhasaḥ somalakṣaṇasyānnasya pānena mandāno mattas tṛptaḥ priyāṃ prīṇayitrīṃ jāyām upa yāhi | sā yatra vartate tatra gacchety arthaḥ | tadarthaṃ he indra tvadīyāv aśvau rathe kṣipraṃ yojaya | anottararayo ca pītasomasyendrasya svagṛhaṃ prati prasthānaṃ pratipādyate || mandānaḥ | madi stutimodamadasvapnakāntigatiṣu | liṭaḥ kānac | dvirvacanaprakaraṇe chandasi veti vaktavyam iti dvirvācanābhāvaḥ | andhasaḥ | ada bhakṣaṇe | ader num dhaś ca | u. 4-208 [?] ity asun | dhātor numāgamo dhakārāntādeśaś ca || 5 ||*
+
+*Sense:* "O *śatakrato*, O Indra of many works: in your chariot let the right-hand horse (*dakṣiṇaḥ*) be yoked, and also (*uta*) the left (*savyaḥ*). With that chariot, gladdened (*mandānaḥ*) — intoxicated, satisfied — by drinking the *andhas*, the food in the form of Soma, go (*upa yāhi*) to your dear (*priyām*), pleasing wife (*jāyām*); go to where she is. For that, O Indra, yoke quickly your two horses to the chariot. (And in the last pāda the departure of Indra, who has drunk the Soma, to his own house is described.)" *The grammatical tail:* *mandānaḥ* — the root *madi stutimodamadasvapnakāntigatiṣu*, *kānac* for *liṭ*, no doubling by the statement 'chandasi vā'; *andhasaḥ* — the root *ada bhakṣaṇe*, the augment *num* and *dh* for the final, the affix *asun* (Uṇ. 4-208 [?])."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 82.5** *(Kannada)*
+
+- **शतक्रतो** — "O Indra, endowed with many pious acts"
+- **ते** — "(to) your (chariot)"
+- **दक्षिणः** — "the horse on the right side"
+- **युक्तः अस्तु** — "let it be yoked"
+- **सव्यः** — "the horse on the left side (let it be yoked)"
+- **तेन** — "by that chariot"
+- **अन्धसः** — "by the drinking of the Soma juice"
+- **मन्दानः** — "gladdened and intoxicated"
+- **प्रियाम्** — "your beloved"
+- **जायाम्** — "to the wife"
+- **उप याहि** — "go and join (therefore)"
+- **इन्द्र** — "O Indra"
+- **ते** — "your"
+- **हरी** — "horses"
+- **नु** — "carefully"
+- **योज** — "yoke (to the chariot)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 82.5** *(Kannada)*
+
+"O Indra, endowed with many pious works, let the two horses on the right and the left be yoked to your chariot. Gladdened and intoxicated by drinking the Soma juice, go in that chariot to your beloved wife and join her, to give her delight; yoke your horses carefully to the chariot."
+
+**English Translation** *(printed in English in the source)*
+
+"O Satakratu, ( or perfomer [sic] of many acts ) let your horses be harnessed on the right and on the left, and exhilerated [sic] by the sacrificial food, repair, in your chariot, to your beloved wife ; Indra, quickly yoke your horses." — as printed ("perfomer", "exhilerated" misprints [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 82.5)**
+
+- *(application)* — "This Ṛk is recited, with the next Ṛk *yunajmi te*, in the *prasthāna* (sending off) of Indra to his own house — as a *pāgaka-…* (as read, garbled [?])."
+- **दक्षिणः, सव्यः** — "the horses that need to be yoked at the right and left sides of the chariot."
+
+### Page 51 (PDF 66)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 82.5, continued:*
+
+- **जायामुप प्रियां याहि** — "'go to the side of your wife, the object of your love' means: turn towards your own house."
+- **अन्धसः मन्दानः** — "Indra, gladdened both by drinking Soma and by consuming the oblations. *Andhaḥ* means food (Ni. [2-7] [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 82.5)** *(grammar page, noted briefly)*
+
+- **मन्दानः** — the root *madi stutimodamadasvapnakāntigatiṣu* (in the senses of praise, delight, intoxication, sleep, beauty, going). *Bhvādi*; for this root, when *liṭ* is made, by "liṭaḥ kānajvā" (Pā. Sū. 3-2-106) in the Veda *kānac* optionally replaces *liṭ* (the *liṭ* enjoined for the past in general); in *kānac* the *āna* remains. When *liṭ* follows, the reduplication that would arise by "liṭi dhātor anabhyāsasya" (Pā. Sū. 6-1-8) does not arise, by the statement "chandasi vā" (Pā. Sū. 6-1-8, vārttika 1). Since the root has the mark *i*, the augment *num*: *mand+āna*; in the sense 'one who has joy (*mada*)': *mandānaḥ*.
+- **अन्धसः** — the root *ada bhakṣaṇe*, *adādi*; by "āder num dhaś ca" (Uṇ. Sū. 4-[198] [?]) and "sarvadhātubhyo 'sun" (Uṇ. Sū. 4-[188] [?]) the affix *asun* follows; the root takes the augment *num* and its *d* becomes *dh*; in the sense *bhaktam*, 'food'. The *as* of *asun* remains; it is an *s*-ending word; the sixth-case singular is made by *jas*...
+- **उप याहि** — by "chandasi parye 'pi" (Pā. Sū. 1-4-81) and "vyavahitāś ca" (Pā. Sū. 1-4-82) there is no rule in the Veda that the prepositions must precede; the combination of prepositions occurs even when separated. ||5||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–51 done (PDF 16–66) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81 complete.** **Sūkta 82** (six Ṛks; Indra; Gotama Rāhūgaṇa; paṅkti, last Ṛk jagatī; printed pp. 33–54): Riks **82.1–82.5 complete** (grammar of 82.4 ends on p. 49; of 82.5 on p. 51). Next: printed p. 52 (PDF 67) — Rik 82.6 (the last, in jagatī), then the closing of Sūkta 82 (p. 54) and Sūkta 83 (p. 55). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13; p. 15 (dark print); garbled citations on p. 22; p. 24 blurred print; the compressed grammar of 81.8 (p. 30), 82.1 (pp. 35, 37–38) and 82.2 (pp. 39–42); the opening words of p. 40 read with doubt; the Pratipadārtha entry *hāriyojanam* (p. 46) broken in the print; the Taittirīya passage on p. 47 and the application note on p. 50 read with doubt.
