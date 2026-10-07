@@ -14158,4 +14158,70 @@ tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
 
 ---
 
-**Progress note:** Printed pp. 1–613 done (PDF 19–631): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.15 complete** (Special Topics and grammar of 80.15 on pp. 611–612); **Rik 80.16** (the last Ṛk) — Saṃhitā, Pada and bhāṣya (p. 613) done; its Pratipadārtha, Bhāvārtha, English, Special Topics, grammar and the closing line of Sūkta 80 (the last sūkta of Volume 6), and whatever follows it, not yet seen. Next: p. 614 (PDF 632). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594, 611); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt.
+### Page 614 (PDF 632)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.16** *(Kannada)*
+
+- **अथर्वा** — "the ṛṣi Atharvan"
+- **पिता** — "(who is) the father (of all creatures)"
+- **मनुः** — "Manu"
+- **दध्यङ्** — "the ṛṣi named Dadhyañc"
+- **याम् धियम्** — "which rite"
+- **अत्नत** — "performed"
+- **तस्मिन्** — "in that rite"
+- **ब्रह्माणि** — "food in the form of oblation"
+- **उक्था** — "praising words of the form of śastras"
+- **स्वराज्यम्** — "his own lordship"
+- **अनु अर्चन्** — "(through slaying Vṛtra and so on) displaying"
+- **इन्द्रे** — "in Indra alone"
+- **पूर्वथा** — "as of old (as in the sacrifices of Vasiṣṭha and others)"
+- **समग्मत** — "were united."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.16** *(Kannada)*
+
+"To Indra, who displays his own lordship (through the slaying of Vṛtra and the like), the oblations and the praising words of the form of śastras offered by the ṛṣi Atharvan, by Manu (the father of the human race), and by the ṛṣi Dadhīci, went — as they went to Indra in the sacrifices formerly performed by Vasiṣṭha and others."
+
+**English Translation** *(printed in English in the source)*
+
+"In like manner as of old, so in whatever act of worship Atharvan, or father Manu, or Dadhyanch engaged, their oblations and their hymns were all congregated in that Indra, manifesting his own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.16)**
+
+- **मनुः** — "Among the names of the deities of the middle region — *Aśvinau, Uṣāḥ* and so on — the words *manuḥ, dadhyaṅ, atharvā* are stated (Ni. [11-33] [?]). The ṛṣi Atharvan, and Manu, and the ṛṣi Dadhyañc, son of Atharvan — all the rites performed by them are connected with Indra."
+- **उक्था** — "praises that make known the greatness of the respective deities in sacrifices."
+- **ब्रह्माणि** — "the word means oblations such as *havis*, offered into the fire with a deity as the object."
+- **पूर्वथा** — "this word shows the relation of the illustration and what is illustrated (*dṛṣṭānta-dārṣṭāntika*). In the sense that, in the time when the sages *Vasiṣṭha* and others of former times performed sacrifices, the oblations and praises went to Indra" *(the sentence breaks off at the foot of p. 614 and continues on p. 615)*
+
+### Page 615 (PDF 633)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 80.16, continued:*
+
+"…went (all) to Indra, so, as the sages *Manu*, *Dadhyañc* and *Atharvan* performed, the praises and the like belong to Indra — this is the gist."
+- **अर्चन् अनु स्वराज्यम्** — "He explains: Indra, following the position of being king that he himself is, honours it, and by doing deeds such as the slaying of Vṛtra, displays his own supremacy."
+- **दध्यङ्** — "*Dadhyañc* — in the Nirukta: '*pratyakto dhyānam iti vā*' — (that is: 'he who is turned toward (*pratyak*) [*dhyāna*]', or 'meditation') [as read; the Nirukta words are given with doubt [?]]: he who has, in the beginning of meditation, his own worthiness (*arhatā*); in him all the functionaries of meditation are found. *Dadhyañc, Atharvā, Manuḥ*: those who are addressed by these words, if one says that the three are one, that is the *Āditya* (sun); if one says that these three are separate, then it must be known that they are the three sages of the heavenly region (*dyusthāna*) — so the Nirukta explains."
+
+*The legend of Dadhyañc (the bhāṣyakāra's* upākhyāna *— summarized from the Kannada):*
+
+"*Dadhyañc* or *Dadhīci* is a ṛṣi famous in the Purāṇas and elsewhere. The bhāṣyakāra gives here an *upākhyāna*: when the ṛṣi called Dadhyañc, son of Atharvan, was alive, the asuras, terrified at the mere sight of him, fled. After he died and went to heaven, the asuras spread fearlessly over the whole earth. Then Indra, who was not able to fight these asuras, searched for that ṛṣi, and came to know that the ṛṣi had gone to heaven. Then Indra asked those who were near whether any part of his limbs remained; then they said: 'The ṛṣi Dadhīci, at one time taught the Aśvin deities the *madhuvidyā*, with the head of a horse; only that horse's head remains; and where it is, we do not know.' Indra told them to search for it; they found it lying in the lake called *Śaryaṇāvat* near Kurukṣetra, and brought it. Indra conquered the asuras with the bones of that head. The text says that he destroyed the *māyā*-webs of the asuras *nava navatim* — 'nine times ninety', that is, eight hundred and ten. In explaining the number 'nine times ninety' the bhāṣyakāra says: the asuras had three kinds of *māyā*-types for conquering the deities of the three worlds; each of these existed in the three modes — present, past, future — making nine kinds in all. Those nine *māyā*s, joined with the three powers *utsāha* (energy), *mantra* (counsel) and *prabhu* (authority) [*utsāhādi-śakti-traya*], amount to **9 × 3 = 27**; and joined with the three qualities beginning with *sattva* [*sāttvikādi-guṇa-traya*], **27 × 3 = 81** (the numerals as read: "೯×೩=೨೭", "೨೭×೩=೮೧"). Since these eighty-one *māyā*s are practised in the ten directions, the total is **81 × 10 = 810** — or *nine times ninety*, **9 × 90 = 810** (as read). Thus, he explains, Indra rendered fruitless the *māyā*-webs of the asuras in the form of Vṛtra."
+
+### Page 616 (PDF 634)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.16, continued:*
+
+"Skandasvāmin tells another *itihāsa*: in the old days there were asuras called *Kālakañja*. They were very powerful, and were killing the deities and giving them great trouble. Then the deities went to Brahmā and prayed that they should be informed of a means to destroy these asuras. Brahmā said: 'O gods, there is a ṛṣi called Dadhyañc. Go to him; he will tell you a fitting means for the destruction of the asuras.' As Brahmā said, the gods went to the ṛṣi Dadhīci and told him that Brahmā had sent them. The ṛṣi, understanding by his yogic vision the work for which they had come, gave up his life by *yogasamādhi*. Then Indra destroyed the asuras with the bones. Skandasvāmin says that this matter itself is described in this Ṛk.
+
+It is also believed that the head of the ṛṣi Dadhīci was the head of a horse, and that it had been given to him by the Aśvin deities. After Dadhīci's death Indra found his head, the head of the horse, which was lying on the edge of a mountain in a lake called Śaryaṇāvatī; this is described in Ṛk. Saṃ. 1-84-13 [?].
+
+On the question of how the horse's head came to the ṛṣi Dadhīci, Skandasvāmin tells another story: Indra taught Dadhīci, the son of Atharvan, the nature of the supreme Brahman, called *Madhu*, and said that if he told it to anyone his head would fall off. After some time the Aśvin deities came to the ṛṣi Dadhīci and, when asked of the Brahman-nature that Indra had taught him, Dadhīci told them that Indra had said his head would fall off if he spoke of this matter. From fear he said he would not tell. The Aśvins said: 'Do not worry about that; if your head falls off, we will give you ours;' Dadhīci agreed. So when Dadhīci's head fell off, the Aśvins cut off the head of a horse, fitted it on and joined it to the body of the ṛṣi Dadhīci; therefore it is described that the ṛṣi Dadhīci's head became the head of a horse. This matter is described in Ṛk. Saṃ. 1-116-12 [?] by the ṛṣi called Kakṣīvān.
+
+The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 1-84-14; 1-116-12; 1-117-22; 1-139-4 [?] and so on, and in the Taittirīya Saṃhitā (3-1-4-4; 3-2-?-?), Kāṭhaka Saṃhitā (19-4?), Śatapatha Brāhmaṇa (14-1-1-18; 6-4-2-3; 14-1-1-10; 14-1-1-?) and the Bṛhadāraṇyaka Upaniṣad (2-5-22?) and other places." *(All these reference numerals, in Kannada numerals in the print, are given as read and are uncertain [?]; I have not verified them.)*
+
+---
+
+**Progress note:** Printed pp. 1–616 done (PDF 19–634): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.15 complete**; **Rik 80.16** (the last Ṛk) — Saṃhitā, Pada, bhāṣya (p. 613), Pratipadārtha, Bhāvārtha, the source's English (p. 614) and the Special Topics (pp. 614–616; the Dadhyañc legends, the 9 × 3 × 3 × 10 = 810 computation and the Ṛgveda reference list given as read, numerals [?]) done; the grammar page of 80.16 and the closing line of Sūkta 80 (the last sūkta of Volume 6), and whatever follows, not yet seen. Next: p. 617 (PDF 635). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594, 611); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt; the Dadhyañc reference numerals on p. 616.
