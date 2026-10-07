@@ -10243,4 +10243,63 @@ athā vaha somapatiṃ haribhyām ātithyam asmai cakṛmā sudāvne ||3||*
 
 ---
 
-**Progress note:** Printed pp. 1–476 done (PDF 19–494): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.2 complete (76.2: pp. 472–476); **Rik 76.3** (printed "3 ||") — Saṃhitā and Pada done (p. 476). Next: p. 477 (PDF 495), the Sāyaṇa-bhāṣya of Rik 76.3 and the rest of its treatment; then Riks 76.4–76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citation and the egg-passage on p. 474 read from small print, gloss tentative [?].
+### Page 477 (PDF 495)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने विश्वान्सर्वान्रक्षसो राक्षसान्प्र सु धक्षि । प्रकर्षेण दह । दग्ध्वा च यज्ञानामस्माभिरनुष्ठेयानां योगानामभिशस्तिपावाभिशस्तेर्हिंसायोः पाता रक्षिता भव । अथानंतरं सोमपतिं सर्वेषां सोमानां पालकमिंद्रं हरिभ्यां तदीयोश्वाभ्यामा वह । अस्मद्यज्ञं प्रापय । आगतायास्मै सुदाव्ने शोभनस्य फलस्य दात्रे इंद्रायातिथ्यमतिथ्यर्हं सत्कारं चकृमं । कुर्मः ॥ धक्षि । दह भस्मीकरणे । बहुलं छंदसीति शपो लुक् । धत्वभष्भावकत्वषत्वानि । अभिशस्तिपावा । शसु हिंसायां । अस्मादभिपूर्वाद्भावे क्तिन् । अभिशस्तेः पातेत्यभिशस्तिपावा । पा रक्षणे । अतो मनिन्क्विब् वनिप् । सोमपतिं । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं । सुदाव्ने । पूर्ववद्दातेर्वनिप् । आल्लोपोऽन इत्याकारलोपः ॥
+
+*he agne viśvān sarvān rakṣaso rākṣasān pra su dhakṣi | prakarṣeṇa daha | dagdhvā ca yajñānām asmābhir anuṣṭheyānāṃ yogānām abhiśastipāvābhiśaster hiṃsāyoḥ pātā rakṣitā bhava | athānantaraṃ somapatiṃ sarveṣāṃ somānāṃ pālakam indraṃ haribhyāṃ tadīyoś(?) aśvābhyām ā vaha | asmadyajñaṃ prāpaya | āgatāyāsmai sudāvne śobhanasya phalasya dātre indrāyātithyam atithyarhaṃ satkāraṃ cakṛmaṃ(?) | kurmaḥ || dhakṣi | daha bhasmīkaraṇe | bahulaṃ chandasīti śapo luk | dhatvabhaṣbhāvakatvaṣatvāni | abhiśastipāvā | śasu hiṃsāyāṃ | asmād abhipūrvād bhāve ktin | abhiśasteḥ pātety abhiśastipāvā | pā rakṣaṇe | ato manin kvib vanip | somapatiṃ | patyāvaiśvarya iti pūrvapadaprakṛtisvaratvaṃ | sudāvne | pūrvad dāter vanip | āllopo 'na ity ākāralopaḥ ||*
+
+*(Reading note: "tadīyoś" for *tadīyābhyām*, and "cakṛmaṃ" for *cakṛma*, are as printed and doubtful [?].)*
+
+*Meaning:* O Agni, burn up (*pra su dhakṣi*) all (*viśvān*) the demons (*rakṣasaḥ*) utterly; and having burnt them, be (*bhava*) the protector (*pātā*) of the sacrifices to be performed by us, from injury (*abhiśasti*). Afterwards bring (*ā vaha*) with his two steeds (*haribhyām*) Indra, the guardian of all the Somas (*somapatim*); make him reach our sacrifice. To this Indra who has come, the giver (*sudāvne*) of good fruit, we have made (*cakṛma*) hospitality (*ātithyam*) — the honour due to a guest.
+
+**Grammatical tail** *(characterized)*: *dhakṣi* (root *daha bhasmīkaraṇe*; loss of the vikaraṇa; *dh*-change, *bh*-reversion, *k* and *ṣ*); *abhiśastipāvā* (root *śasu hiṃsāyām* with *abhi*; *ktin*; "protector from injury"; root *pā rakṣaṇe*; *vanip* after *ā*); *somapatim* (the first member keeps its natural accent by *patyāvaiśvarye*); *sudāvne* (root *dā*; *vanip* as before; loss of the *a* by *āllopo 'naḥ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *viśvān* — all; *rakṣasaḥ* — the demons; *pra su dhakṣi* — burn well; *yajñānām* — of the sacrifices (performed by us); *abhiśastipāvā* — the protector from injury; *bhava* — be; *atha* — afterwards; *somapatim* — Indra, the lord of Soma; *haribhyām* — with his two steeds; *ā vaha* — make him come (to our sacrifice); *asmai* — to such; *sudāvne* — to (Indra) who gives good fruits; *ātithyam* — hospitality; *cakṛma* — we perform.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! Destroy all the demons and make our sacrifices free of obstruction. Afterwards bring Indra, the lord of Soma, to the sacrificial hall; to Indra who has come, the giver of the fruits, we offer hospitality.
+
+**English Translation** *(the source's own, as printed):*
+
+> Utterly consume all the Rakshasas, Agni, and be the protecter [sic] of our sacrifices against interruption. Bring hither the guardian of the Soma-Juice (Indra), with his steeds, that we may show hospitality to the giver of good.
+
+---
+
+### Page 478 (PDF 496)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **अभिशस्तिपावा** — *śasu hiṃsāyām | pā rakṣaṇe | abhiśasteḥ hiṃsāyoḥ pātā rakṣitā bhava* — "'be the protector from injury': Sāyaṇa takes this as a prayer to Agni that he be the protector of the sacrificers who perform the sacrifices and of the sacrifices themselves, so that no kind of injury befalls; Skandasvāmin explains it as 'protect us, who perform the sacrifices, and the sacrifices, from injury by those who injure, and from any injury, so that it does not befall us'."
+- **सोमपतिम्** — *sarveṣāṃ somānāṃ pālakam* — "the word *pati*, formed from the root *pā rakṣaṇe*, means 'protector'. The substance in the form of oblation that gratifies the gods is meant by *soma*. Or: *soma* means the intermediate deities who receive the oblation-portions. Indra is the protector of all these."
+- **हरिभ्याम् आ वह** — *tadīyāśvābhyām indram asmadyajñaṃ prāpaya* — "*harī indrasya* (Ni. [2-?]): the horses of Indra's chariot are called *harī*. The sacrificers pray to Agni: 'cause Indra to come to our sacrifice by his chariot, to which his horses are yoked.'"
+- **सुदाव्ने** — *śobhanasya phalasya dātre* — "since he gives the most excellent, comfort-giving fruits to those who perform sacrifices and to others, the sense of this word is rightly applicable to Indra."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.3, noted briefly; not transcribed)*
+
+Words treated: *dhakṣi* (root *daha bhasmīkaraṇe*; *loṭ*, second person singular, *sip*; since *sarve vidhayaś chandasi vikalpyante*, the *hi*-substitution for *sip* does not come here; loss of *śap* by *bahulaṃ chandasi*; with *dah* + *si*, *h* → *gh* by *hodhaḥ*, Pā. [8-2-31] ["*hasya ḍhatvam*" as read: *ho ḍhaḥ*]; *bhaṣbhāva* — *d* → *dh* by *ekāco baśo bhaṣ jhaṣantasya…*, Pā. [8-2-37]; *kutva* of the *ḍh* before *s* by *ṣaḍhoḥ kaḥ si*, Pā. [8-2-41]; *ṣatva* of the affix's *s* because of the *k* by *ādeśapratyayayoḥ*, Pā. [8-3-59]; the form *dhakṣi*). *bhava* (root *bhū sattāyām*; *loṭ*, second person singular; since the vocative *agne* precedes, by *āmantritaṃ pūrvam avidyamānavat*, Pā. [8-1-72], it is treated as non-existent, so the following tiṅanta is at the head of a pāda; by that [as read] no nighāta; the root accent remains). *(Continued on p. 479.)*
+
+---
+
+### Page 479 (PDF 497)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 76.3 (concluded; noted briefly)**
+
+*abhiśastipāvā* (root *śasu hiṃsāyām*; the prefix *abhi* is in the first member; *ktin* in the abstract sense by *striyāṃ ktin*, Pā. [3-3-94], giving *abhiśasti*; "injury"; "he protects (ablative) from injury", *abhiśastipāvā*; root *pā rakṣaṇe*, Adādi; *vanip* by *ato maninkvanibvanipaś ca*, Pā. [3-2-74]; the stem *abhiśastipāvan*; *su* following, lengthening of the penultimate by *sarvanāmasthāne cāsaṃbuddhau*, Pā. [6-4-8]; loss of *su* by *halṅyābbhyo…*; loss of *n* by *na lopaḥ prātipadikāntasya*; *vanip* being *pit*, the root accent *pāvan*; since the first member is a *kāraka* [ablative-sense], the second member keeps its natural accent by *gatikārakopapadāt kṛt*, Pā. [6-2-139]). *vaha* (root *vaha prāpaṇe*; *loṭ*, second person singular; the form *vaha*; nighāta because it follows an *atijanta*). *somapatim* ("lord of Soma"; by *patyāvaiśvarye*, Pā. [6-2-18], the first member keeps its natural accent, the samāsānta accent being otherwise expected). *ātithyam* ("worthy of a guest", *atithi*; *ṇyaṅ* [*ṣyañ*] affix). *cakṛma* (root *ḍukṛñ karaṇe*; *liṭ*, first person plural, *mas* → *ma* by *parasmaipadānāṃ ṇalatusus…*, Pā. [3-4-82]; doubling of the root; *kutva* of the reduplicate; *halādiśeṣa*; *iḍ*-augment is prohibited by the restriction *kṛsṛbhṛvṛstudrusruśruvo liṭi*, Pā. [7-2-13]; since *asaṃyogāl liṭ kit*, Pā. [1-2-5], the affix is *kit*, no guṇa; nighāta because it follows an *atijanta*). *sudāvne* (with *su* as upapada, the root *dāñ dāne* takes *vanip* as before by *ato maninkvanibvanipaś ca*; the stem *sudāvan*; before the dative singular ending, since it has the *bha*-designation, loss of the *a* by *āllopo 'naḥ*, Pā. [6-4-134]; the form *sudāvne*; since the first member is a *gati*, by *gatikārakopapadāt kṛt*, the natural accent). Ends "॥ ३ ॥".
+
+*(The printed ornament follows; Rik 76.4 begins on p. 480.)*
+
+---
+
+**Progress note:** Printed pp. 1–479 done (PDF 19–497): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.3 complete (76.3: pp. 476–479). Next: p. 480 (PDF 498), **Rik 76.4**; then Rik 76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 76.3 (p. 477) with printed oddities "tadīyoś", "cakṛmaṃ" doubtful [?].
