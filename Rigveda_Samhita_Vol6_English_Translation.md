@@ -5421,4 +5421,67 @@ May Agni, grown by the many dawns of white and dark colours and by the nights, g
 
 ---
 
-**Progress note:** Printed pp. 1–272 done (PDF 19–290): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.3 complete (the grammar page of 70.3 on pp. 270–271); **Rik 70.4** (printed "7 || 8 ||", numerals [?]) — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (pp. 271–272); the source's English, Special Topics and grammar page of 70.4 not yet seen. Next: p. 273 (PDF 291); then Riks 70.5–70.6 and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.4 and the bhāṣya's "ramaṇaṃ"/"kṛdgrahaṇe" doubtful [?].
+### Page 273 (PDF 291)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 18".)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, whom many variously-tinted (mornings) and nights increase, whom, invested with truth, all movable and immovable things augment, has been propitiated, and is kindly seated at the holy rite, as the invoker (of the Gods), and rendering all (pious) acts (productive) of reward.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **पूर्वीः विरूपाः क्षपः यं वर्धान्** — "*bahvya uṣasaḥ niśāś ca śuklakṛṣṇatayo vividharūpāḥ*": "Because the oblation is made to Agni both in the dawns, which take on forms of various kinds (bright and dark, different from the preceding), and in the nights, the dawns and the night too make Agni grow — thus Sāyaṇa's bhāṣya says, ascribing the agency [of 'increasing'] to them. Skandasvāmin takes the word *kṣapā* in two senses: night, and praise."
+- **ऋतप्रवीतम्** — *ṛtena udakena satyena yajñena vā prakarṣeṇa veṣṭitam* — "The word *ṛta* means water, truth, and deeds in the form of sacrifice; the meaning is that Agni is joined with them. Skandasvāmin says the word *ṛta* denotes sacrifice; he explains the word *ṛtapravīta* as 'one who is much known to the sacrificers in the sacrifice'; or 'one who is born of the *araṇi* for those who perform the sacrifice'; or 'one who is firmly appointed to receive the oblation-portions in the sacrificial rites'. He also gives the meaning that Agni is seated comfortably on the altar in all the sacrificial rites and serves the gods with the oblation-portions."
+- **सः निषत्तः होता अराधि** — "*araṇīye devayajane suṣṭhu niṣaṇṇa upaviṣṭaḥ san devānām āhvātā saṃsiddho 'bhūt* — born in the *araṇi*, seated on the altar where oblations are offered to the gods, he is established as the one who invokes the gods to receive the oblation-portions. Or Sāyaṇa explains: he is served by the priests in the sacrifices (*ṛtvigbhir arādhi, ārādhita*)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.4, noted briefly; begun at the foot of p. 273)*
+
+*vardhān* — root *vṛdh* ("to increase"); the causative *ṇic* by *hetumati ca*; the ṇijanta called a root by *sanādyantā dhātavaḥ*; as the nimitta of *ṇic*, guṇa for the light penultimate…  *(continued on p. 274; grammar page, noted briefly).*
+
+---
+
+### Page 274 (PDF 292)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**Grammar page of Rik 70.4 (continued; noted briefly, not transcribed)**
+
+*vardhān* — after the ṇijanta, *leṭ* third person plural, *jhi*; *antādeśa* by *jho 'ntaḥ*; loss of the final *i* of the ending by *iteś ca lopaḥ parasmaipadeṣu*; the *aḍāgama* by *leṭo 'ḍāṭau*; *chandasy ubhayathā* (Pā. [3-4-117]) gives *śap* the ārdhadhātuka designation, hence loss of *ṇi* by *ṇeraniṭi* (Pā. [6-4-51]); loss of the final *t* by *saṃyogāntasya lopaḥ*; the form is *vardhān*; nighāta accent because it is not at the head of a pāda; the root accent makes the first syllable acute. *ṛtapravītam* — root *vyeñ* ("to cover"); *kta* in the passive; samprasāraṇa by *vacisvapiyajādīnāṃ kiti* (Pā. [6-1-15]); the *saṃprasāraṇasya saṃprasāraṇam* prohibition of a second samprasāraṇa is met by the rule that the *i* gained in place of *y* takes the former form (*saṃprasāraṇāc ca*); lengthening by *halaḥ* (Pā. [6-4-2]); *ṛtena prakarṣeṇa vītam* — by the paribhāṣā *kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇam* ("a kṛt-affix includes one preceded by a prefix or a kāraka"), *pravītam* with the prefix *pra* is included; by *tṛtīyā karmaṇi* (Pā. [6-2-48]) in the compound the first member keeps its natural accent. *arādhi* — root *rādh/sādh* "to accomplish"; *luṅ* in the active; *tip*, singular; *cli* replaced by *ciṇ* by *vyatyayo bahulam*; *ciṇo luk* (Pā. [6-4-104]) deletes the *ta* following *ciṇ*; the augment *aṭ* on the base; nighāta not applied at the pāda's head; the *aṭ*-augment being udātta the word has its first syllable acute. *niṣattaḥ* — root *sad* with *ni* and *vi*…, *kta*; by *radābhyāṃ niṣṭhāto naḥ* (Pā. [8-2-42]) the *n* would be due; the absence of *na* is by the nipāta *nasatta niṣattānuttā* (Pā. [8-2-61]) — read with doubt [?]. *kṛṇvan* — root *kṛvi* in the sense of injury, with the many senses of roots, here "doing"; *num* because *it*; *śatṛ* in the present; or the root *ḍukṛñ* "to do", with *śatṛ* … *śnu*-vikaraṇa by *vyatyaya*; nominative singular. Ends "॥ ७–८ ॥" (as read). *Grammar page, noted briefly; the sūtra numerals and several readings are doubtful [?].*
+
+---
+
+### Page 275 (PDF 293)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.5** *(printed Ṛk "9 || 10 ||", as read)*
+
+> गोषु प्रशस्तिं वनेषु धिषे भरंत विश्वे बलिं स्वर्णः ।
+> वि त्वा नरः पुरुत्रा सपर्यन्पितुर्न जिव्रेर्वि वेदो भरंत ॥ ९ ॥ १० ॥
+
+*goṣu praśastiṃ vaneṣu dhiṣe bharanta viśve baliṃ svar ṇaḥ |
+vi tvā naraḥ purutrā saparyan pitur na jivrer vi vedo bharanta ||9||10||*
+
+*(Reading note: the Kannada numerals of the Ṛk number are small; "9 || 10" is read from the print, [?]. The accents are reproduced in the print but not here.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> गोषु । प्रऽशस्तिम् । वनेषु । धिषे । भरन्त । विश्वे । बलिम् । स्वः । नः ।
+> वि । त्वा । नरः । पुरुऽत्रा । सपर्यन् । पितुः । न । जिव्रेः । वि । वेदः । भरन्त ॥ ९ ॥ १० ॥
+
+*goṣu | pra-śastim | vaneṣu | dhiṣe | bharanta | viśve | balim | svaḥ | naḥ | vi | tvā | naraḥ | puru-trā | saparyan | pituḥ | na | jivreḥ | vi | vedaḥ | bharanta ||9||10||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begun; runs on to p. 276)*
+
+> हे अग्ने त्वं वनेषु वननीयेषु संभजनीयेषु गोष्वश्वादीयेषु पशुषु प्रशस्तिं पशंसां धिषे । दधिषे । स्थापयसि । अस्माकं प्रशस्ता गवादिपशवो भवंत्वित्यर्थः । विश्वे सर्वे जना नोऽस्मभ्यं स्वः सुष्ठुस्वरणीयं बलिमुपायनरूपं धनं भरंते । आहरंतु । हे अग्ने त्वा त्वां नरो मनुष्याः पुरुत्रा बहुषु देवयजनदेशेषु वि सपर्यन् । विविधं पूजयंति । पूजयित्वा च नेदो धनं वि भरंते । त्वत्तो विशेषेण हरंति । गृण्णंतीत्यर्थः । तत्र दृष्टांतः । जिव्रेर्जीर्णाद्वृद्धात्पितुर्न पितुरिव । यथा पुत्रा वृद्धात्पितुः सकाशाद्धनं हरंति तद्वत् ॥ धिषे । छांदसो वर्तमाने लिट् । द्विर्वचनप्रकरणे छंदसि वेति वक्तव्यं । का. ६-१-८-१ । इति द्विर्व[चनाभावः…]
+
+*he agne tvaṃ vaneṣu vananīyeṣu saṃbhajanīyeṣu goṣv aśvādīyeṣu paśuṣu praśastiṃ paśaṃsāṃ(sic, praśaṃsāṃ?) dhiṣe | dadhiṣe | sthāpayasi | asmākaṃ praśastā gavādipaśavo bhavantv ity arthaḥ | viśve sarve janā no 'smabhyaṃ svaḥ suṣṭhusvaraṇīyaṃ balim upāyanarūpaṃ dhanaṃ bharante | āharantu | he agne tvā tvāṃ naro manuṣyāḥ purutrā bahuṣu devayajanadeśeṣu vi saparyan | vividhaṃ pūjayanti | pūjayitvā ca nedo dhanaṃ vi bharante | tvatto viśeṣeṇa haranti | gṛṇantīty arthaḥ | tatra dṛṣṭāntaḥ | jivrer jīrṇād vṛddhāt pitur na pitur iva | yathā putrā vṛddhāt pituḥ sakāśād dhanaṃ haranti tadvat || dhiṣe | chāndaso vartamāne liṭ | dvirvacanaprakaraṇe chandasi veti vaktavyaṃ | kā. 6-1-8-1 [as read, ?] | iti dvirva[canābhāvaḥ…]*
+
+*(Reading note: "paśaṃsāṃ" is as printed, apparently for *praśaṃsāṃ*; the Kāśikā numeral is doubtful [?]; the page ends mid-word, the sentence continuing on p. 276, where the rest of the bhāṣya's grammatical tail will be given.)*
+
+*Meaning (so far):* O Agni, you establish praise (*praśasti*) upon the cattle, horses and the like that are in the desirable (*vana*) — worthy-to-be-shared — [herds]: that is, may our cattle and the rest be praiseworthy. All people bring to us the offering (*bali*, a present) of well-gone-to wealth (*svaḥ*). O Agni, men worship (*vi saparyan*) you variously in many places of sacrifice, and having worshipped, they take wealth (*vedaḥ*) from you in many ways — that is, they praise. The illustration: as sons take wealth from a worn-out, aged father (*jivreḥ pituḥ*), so do they.
+
+---
+
+**Progress note:** Printed pp. 1–275 done (PDF 19–293): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.4 complete (grammar page of 70.4 on pp. 273–274); **Rik 70.5** (printed "9 || 10 ||", numerals [?]) — Saṃhitā, Pada and the first part of the bhāṣya done (p. 275); the bhāṣya breaks off at "…iti dvirva[canābhāvaḥ]" (the Kāśikā reference on *dhiṣe*), to be continued on p. 276. Next: p. 276 (PDF 294); then the rest of 70.5 (grammar tail, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar page), Rik 70.6 (the last, printed single) and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.5 and the grammar details on p. 274 doubtful [?].
