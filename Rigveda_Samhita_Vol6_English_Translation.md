@@ -11453,4 +11453,86 @@ dyumnair abhi pra ṇonumaḥ ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–521 done (PDF 19–539): **Sūktas 62–78 complete** (Sūkta 78's closing line, p. 521: "eppatteṃṭaneya sūktavu samāptavu"). **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; first triad Triṣṭubh to the middle-region/lightning Agni, second triad Uṣṇih, the rest Agni) begun: Sāyaṇa's introduction and the first part of the Anuvāda (p. 521) done; the Anuvāda breaks off at the foot of p. 521 and continues on p. 522 (PDF 540), then the heading block and Rik 79.1. Next: p. 522 (PDF 540). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518; the compressed *kārīryām* passage of the Sūkta 79 introduction.
+### Page 522 (PDF 540)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Anuvāda (Kannada), continued from p. 521:* "…In this (sūkta) there are some special features. The first three Ṛks are in the *triṣṭup* metre; from three to six (i.e. Ṛks 4–6) the Ṛks are in the *uṣṇik* metre; the remaining Ṛks are in the *gāyatrī* metre. For the first three Ṛks the deity is Agni in the form of lightning in the middle region (*antarikṣa*), or Agni alone; for the remaining nine Ṛks also the deity is only Agni. As regards the application (*viniyoga*): at the time of the *Prātaranuvāka* mantras, for the Ṛks of the *triṣṭup* metre connected with the Āgneya rite (*kratu*), and for the Āśvina-śastra mantras, these first three Ṛks of the sūkta are used, as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra 'hiraṇyakeśa iti tisro 'paśyam asya mahata iti sūkte' (Āśv. 4-13 [?]). And in the *Kārīreṣṭi* the first two Ṛks *hiraṇyakeśa* are to be used as *yājyā* and *anuvākyā* Ṛks, as is directed by the sūtra of the Āśvalāyana Śrauta-sūtra 'hiraṇyakeśo rajaso visāra iti dve, tvaṃ tyā cid acyutā dhāmante viśvaṃ bhuvanam adhi śritam iti vā' (Āśv. 3-13 [?])."
+
+**सूक्त — ७९ (Sūkta 79)**
+
+॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७९ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 79.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२७, २८] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "27, 28" as read, doubtful [?]* (two vargas begin here).
+॥ सूक्तदल्लिरुव ऋक्संख्ये—१२ ॥ — *Number of Ṛks in the sūkta:* 12.
+॥ ऋषिः — गोतमो राहूगणः ॥ — *Ṛṣi:* Gotama Rāhūgaṇa.
+॥ देवता — १–३ अग्निर्मध्यमो वा । ४–१२ अग्निः ॥ — *Devatā:* 1–3 Agni, or the middle-region (lightning) one; 4–12 Agni.
+॥ छन्दः — १–३ त्रिष्टुप् । ४–६ उष्णिक् । ७–१२ गायत्री ॥ — *Chandas:* 1–3 Triṣṭubh; 4–6 Uṣṇih; 7–12 Gāyatrī.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.1**
+
+> हिरण्यकेशो रजसो विसारेऽहिर्धुनिर्वात इव ध्रजीमान् ।
+> शुचिभ्राजा उषसो नवेदा यशस्वतीरपस्युवो न सत्याः ॥ १ ॥
+
+*hiraṇyakeśo rajaso visāre 'hir dhunir vāta iva dhrajīmān |
+śucibhrājā uṣaso navedā yaśasvatīr apasyuvo na satyāḥ ||1||*
+
+### Page 523 (PDF 541)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> हिरण्यऽकेशः । रजसः । विऽसारे । अहिः । धुनिः । वातःऽइव । ध्रजीमान् ।
+> शुचिऽभ्राजाः । उषसः । नवेदाः । यशस्वतीः । अपस्युवः । न । सत्याः ॥ १ ॥
+
+*hiraṇya-keśaḥ | rajasaḥ | vi-sāre | ahiḥ | dhuniḥ | vātaḥ-iva | dhrajīmān | śuci-bhrājāḥ | uṣasaḥ | navedāḥ | yaśasvatīḥ | apasyuvaḥ | na | satyāḥ ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.1** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हिरण्यकेशो हितरमणीयाः केशस्थानीया ज्वाला यस्य स तथोक्तः सुवर्णवद्दीप्यमानज्वालो वा अहिरागन्ता [?] मेघानां धुनिस्तेषां कम्पयिता वात इव वायुरिव ध्रजीमान् शीघ्रगतियुक्तः । एवंभूतो वैद्युतोऽग्निः रजस उदकस्य विसारे विसरणे मेघान्निर्गमने निमित्तभूते सति शुचिभ्राजाः शोभनदीप्तिः सन् मेघाज्जलानि निर्गमयितुं जानाति । उषस उषोदेवता नवेदाः । न विदन्ति इति नवेदाः । मेघादुदकस्य निःसारणमग्निरेव जानाति उषसस्तु न जानन्तीत्यर्थः । अज्ञाने दृष्टान्तः । यशस्वतीरन्नयुक्ता अन्नवत्योऽपस्युवः कर्मात्मन [?] इच्छन्त्यः सत्या अवितथारम्भा न । एवंभूताः प्रजा इव । अत्रोषसामज्ञानेनाग्निः प्रशस्यते न तु ता निन्द्यन्ते । न हि निन्दा निन्द्यं निन्दितुम् अपि तु स्तुत्यं स्तोतुमिति न्यायात् ॥ ध्रजीमान् । ध्रज गतौ । इन्सर्वधातुभ्य इति भावे इन्प्रत्ययः । ततो मतुप् । तस्य पित्त्वादनुदात्तत्वे इनो नित्त्वात्प्रातिपदिकस्याद्युदात्तत्वं । नवेदाः । नञ्पूर्वाद्वेत्तेः पचाद्यच् । नभ्राण्णपादित्यादिना नञः प्रकृतिभावः । अपस्युवः । अपस्यात्सुप आत्मनः क्यच् [?] । क्यच्छन्दसीत्यप्रत्ययः [?] । तेनादीनां छन्दसि बहुलमुपसंख्यानं । पा. ६-४-७७-१ [?] । इत्युवङ् ॥
+
+*hiraṇyakeśo hitaramaṇīyāḥ keśasthānīyā jvālā yasya sa tathoktaḥ suvarṇavad dīpyamānajvālo vā ahir āgantā [?] meghānāṃ dhunis teṣāṃ kampayitā vāta iva vāyur iva dhrajīmān śīghragatiyuktaḥ | evaṃbhūto vaidyuto 'gniḥ rajasa udakasya visāre visaraṇe meghān nirgamane nimittabhūte sati śucibhrājāḥ śobhanadīptiḥ san meghāj jalāni nirgamayituṃ jānāti | uṣasa uṣodevatā navedāḥ | na vidanti iti navedāḥ | meghād udakasya niḥsāraṇam agnir eva jānāti uṣasas tu na jānantīty arthaḥ | ajñāne dṛṣṭāntaḥ | yaśasvatīr annayuktā annavatyo 'pasyuvaḥ karmātmana [?] icchantyaḥ satyā avitathārambhā na | evaṃbhūtāḥ prajā iva | atroṣasām ajñānenāgniḥ praśasyate na tu tā nindyante | na hi nindā nindyaṃ nindituम् api tu stutyaṃ stotum iti nyāyāt || dhrajīmān | dhraja gatau | in-sarvadhātubhya iti bhāve inpratyayaḥ | tato matup | tasya pittvād anudāttatve ino nittvāt prātipadikasyādyudāttatvaṃ | navedāḥ | nañpūrvād vetteḥ pacādyac | nabhrāṇ-napād ity ādinā nañaḥ prakṛtibhāvaḥ | apasyuvaḥ | apasyāt supa ātmanaḥ kyac [?] | kyac chandasīty apratyayaḥ [?] | tenādīnāṃ chandasi bahulam upasaṃkhyānaṃ | pā. 6-4-77-1 [?] | ity uvaṅ ||*
+
+*Sense:* "*Hiraṇyakeśa:* he whose flames, standing in the place of hair, are good and delightful (*hita-ramaṇīya*) — so called — or one whose flames shine like gold; *ahiḥ* — the one who comes against / strikes (?) [?] the clouds; *dhuniḥ* — the one who shakes them; *vāta iva* — like the wind, *dhrajīmān*, swift in motion. Such is the lightning-Agni: when there is the occasion of the spreading out (*visāre*) of the water (*rajasaḥ* = *udakasya*), when the clouds are to issue forth, being of beautiful radiance (*śucibhrājāḥ*), he knows how to bring waters forth from the cloud. The *uṣas*, the goddesses of dawn, are *navedāḥ* — 'they do not know' (*na vidanti*); that is: it is Agni alone who knows the drawing out of water from a cloud, the Uṣases do not know. An illustration of the ignorance: *yaśasvatīḥ* = those who have food (*annayuktāḥ*), *apasyuvaḥ* = (those who are) desirous of their own work (*karma*) [?], *satyāḥ* = of unfailing undertaking, *na* = like — like such people (*prajāḥ*, 'subjects'). Here, by the ignorance of the Uṣases Agni is praised; they are not themselves blamed; for by the maxim, 'blame is not for the sake of blaming the blameworthy, but for praising what is to be praised'." *The grammatical tail:* *dhrajīmān* — root *dhraj gatau*; the affix *in* by "in sarvadhātubhyaḥ" (*bhāve*); then *matup*; its *p*-mark makes the accent anudātta, and the stem takes the initial udātta because *in* has the mark *n*; *navedāḥ* — from the root *vid* preceded by *na*, with the affix *ac* of the *pacādi* group; the *na* keeps its natural accent (*prakṛtibhāva*) by the rule beginning "nabhrāṇ-napāt…"; *apasyuvaḥ* — *kyac* [?] after a *sup* in the sense 'desires for oneself', the affix lost in the Veda; by the "manifold supplementary rule for the Veda" (*chandasi bahulam upasaṃkhyānam*; Pā. 6-4-77, vārttika 1 [?]) *uvaṅ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.1** *(Kannada; begins here, continues on p. 524)*
+
+- **हिरण्यकेशः** — "(he who has) flames like hair, good and delightful (= with golden-coloured flames)"
+- **अहिः** — "one who comes (and) destroys (the clouds)"
+- **धुनिः** — "one who makes (the clouds) shake"
+- **वातः इव** — "like the wind, of swift motion, that (the lightning-fire)"
+- **रजसः विसारे** — "when the water issues from the clouds"
+- **शुचिभ्राजाः** — "brilliantly (…" *(continues on the next page)*
+
+### Page 524 (PDF 542)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Pratipadārtha continued:*
+
+- **शुचिभ्राजाः** — "(…) brilliantly of radiance (— he knows how to make the water fall from the cloud)" *(the clause begun at the foot of p. 523)*
+- **(अथ) उषसः** — "the Uṣas goddesses"
+- **यशस्वतीः** — "endowed with food"
+- **अपस्युवः** — "intent on their own works (*karma*)"
+- **सत्याः न** — "like truthful (subjects)"
+- **नवेदाः** — "(they) do not know (the letting down of water from the cloud)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.1** *(Kannada)*
+
+"Agni, with flames of golden brilliance, delighting the clouds and destroying them (making them waterless), swift of motion like the wind, with fair radiance, makes the water fall down from the clouds. The Uṣas deities do not know this release of water by Agni, just as truthful subjects, provided with food and so on, intent only on their own works, know nothing else."
+
+**English Translation** *(printed in English in the source)*
+
+"The Golden haired Agni is the agitator of the clouds when the rain is poured forth, and moving with the swiftness of the wind, shines with a bright radiance. The mornings know not (of the showers), like honest (people) who, provided with food, are intent upon their own labours" — as printed (the sentence ends without a full stop in the print).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.1)**
+
+*(The whole of the page is Kannada prose, continuing onto p. 525.)*
+
+"The meaning of this Ṛk is somewhat intricate: Agni in the form of lightning (*vidyudrūpa*), shining in the *antarikṣa*, makes the water that is in the clouds fall on the earth in the form of rain. The flames of this Agni resemble golden tresses. And Agni (in the lightning form) is of very swift motion like the wind (that is, the lightning, shining, is seen for a moment-half in the sky and immediately becomes invisible). And the knowledge of making the rain fall from the clouds belongs only to Agni of the form of lightning. The Uṣas deities have no such power; that is, the Uṣas deities have nothing to do with the rain. In the world, people endowed with food and other wealth, absorbed in their own works and duties, take no notice of other matters; in the same way, the Uṣas deities know not the arrangement of sending the rain from the clouds. That is the chief sense."
+
+- **हिरण्यकेशः** — "When Agni is blazing in the sky, its flames, together with a slight redness, shine most brilliantly; therefore Agni has these flames as golden-like hair…" *(the passage runs on to the next page; it is split where the print splits it)*
+
+---
+
+**Progress note:** Printed pp. 1–524 done (PDF 19–542): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: introduction, Anuvāda, heading (pp. 521–522) and **Rik 79.1** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 522–524) done; the Special Topics of 79.1 break off at the foot of p. 524 (*hiraṇyakeśaḥ*, mid-sentence) and continue on p. 525 (PDF 543), then its grammar page. Next: p. 525 (PDF 543). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518; the compressed *kārīryām* passage on p. 521 (I rendered only the Kannada Anuvāda on p. 522).
