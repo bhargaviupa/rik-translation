@@ -8785,4 +8785,71 @@ O wise Agni! May the hymns that we now offer be taken up by your mind and heart.
 
 ---
 
-**Progress note:** Printed pp. 1–423 done (PDF 19–441): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.9 complete (73.9's grammar page ends p. 422); **Rik 73.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha and Bhāvārtha done (pp. 422–423). Next: p. 424 (PDF 442), the source's English, Special Topics and grammar page of 73.10, and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 73.10 (p. 423) with its tail compressed and doubtful in places [?].
+### Page 424 (PDF 442)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**English Translation of Rik 73.10** *(the source's own, as printed):*
+
+> May these our praises, sapient Agni, be grateful to you, both in mind and heart; may we be competent, to detain your well-supporting wealth, offering upon you their share of the (sacrificial) food to the Gods.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **वेधः** — "Since *vedhāḥ* is read among the twenty-four [as read, ?] names of the wise, *vipraḥ*, *vigraḥ* and so on (Ni. [3-19?]), it means 'wise'. Yāska also explains *medhāvī*: *medhāvī kasmāt | medhayā tadvān bhavati | medhā matau dhīyate* (Ni. [?]): 'the power of man is established in his understanding'; *medhā* is understanding, and one who has it is *medhāvī*. The word *vedhas* being a synonym of *medhāvī*, it means 'wise'. The prayer is made here: 'O Agni, may the hymns that we speak with you in view bring joy to your mind and to your inner organ.'"
+- **सुधुरः** — *suṣṭhu nirvāhakasya | yadvā śobhanaṃ dhūrvati dāridryaṃ hinastīti sudhūḥ* — "this word is an epithet of *rāyaḥ*, which denotes wealth: wealth always carries out works properly; or it destroys poverty completely: so Sāyaṇa explains by the word *sudhūḥ*.
+
+  *Skandasvāmin:* *rāyaḥ sudhuro yamaṃ te śakema | śobhanā dhūr yasya sa sudhuraḥ rathaḥ | tasya yamaṃ bandhanaṃ | svavedyāṃ dhāraṇam ity arthaḥ* — 'the chariot whose yoke is good is *sudhura*; its *yamam* is the binding, i.e. the holding on one's own altar': O wise Agni, we, offering you the oblation-portions which the gods enjoy, may be able, by your favour, to bind your chariot — firm, of strong axle — so that it stands steadily on the sacrificial altar; and, to obtain wealth, we offer you the oblation-portions and desire to please you: so he explains the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.10, noted briefly; not transcribed)*
+
+*etā* (the word *etad* in the neuter plural; when *śi* has come, as the form is made, loss of *śi* by *śeś chandasi bahulam*). *(Continued on p. 425.)*
+
+---
+
+### Page 425 (PDF 443)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "21" as read [?]".)*
+
+**Grammar page of Rik 73.10 (continued; noted briefly)**
+
+*ucathāni* (root *vaca paribhāṣaṇe*, Adādi; since *bahula* is read in the Uṇādi, the *atha* affix prescribed optionally by *ruvidibhyāṃ kit* [Uṇ. [3-116?]], with its *kit*-ness, applies to this root too; with *vac* + *atha*, since *kit* is present, samprasāraṇa of the root by *vacisvapiyajādīnāṃ kiti*, Pā. [6-1-15]; *pūrvarūpa* by *saṃprasāraṇāc ca*, Pā. [6-1-108]; the form *ucatha*; the affix's initial acute makes the word middle-acute; neuter plural). *juṣṭāni* (root *juṣī prītisevanayoḥ*; *kta* in the passive by *niṣṭhā*; since *kit*, no guṇa of the light penultimate; *ṣṭutva* of the affix's *t* because of *ṣa*; though the affix's accent would give the final acute, by *juṣṭārpite ca chandasi*, Pā. [6-1-207]; *nityaṃ mantre*, Pā. [6-1-210], the initial acute holds always in the saṃhitā; nominative plural neuter). *santu* (root *as bhuvi*, Adādi; *loṭ*, third person plural, *jhi* → *anta*; *uttva*; since *ṅit*-ness holds by *sārvadhātukam apit*, loss of the root's *a* by *śnasor alloḥ*, Pā. [6-4-111]; nighāta because it follows an *atijanta*). *hṛde* (the stem *hṛdaya*; before the dative singular, *hṛd* substitution by *pāddanno… hṛd*, Pā. [6-1-63]; the ending acute by *ūḍidaṃpadādi…*). *śakema* (root *śakḷ śaktau*; *āśīrliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*; *liṅ* by *liṅyāśiṣy aṅ* [as read: *liṅāśiṣi*, Pā. [3-1-86]]; since it is also *sārvadhātuka* by *chandasy ubhayathā*, *iya* for the *yāsuṭ* by *ato yeyaḥ*; loss of *y* by *lopo vyor vali*; since it stands at the head of the pāda, no nighāta; by the vikaraṇa's accent the word is middle-acute). *sudhuraḥ* (root *dhurvī hiṃsārthe*; *kvip ca*, Pā. [3-2-76]; loss of *v* before *r* by *rālopaḥ*… [as read: *rā lopaḥ*, Pā. [6-4-21]]; the form *dhur*; compounded with *su*, the samāsānta *ac* that *ṛkpūraḥ…*, Pā. [5-4-74], would give is prohibited by *na pūjanāt*, Pā. [5-4-69]; by *gatikārakopapadāt kṛt* the second member's natural accent; genitive singular). *(Continued on p. 426.)*
+
+---
+
+### Page 426 (PDF 444)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 74" as read.)*
+
+**Grammar page of Rik 73.10 (concluded; noted briefly)**
+
+*devabhaktam* (root *bhaja sevāyām*; *kta* by *niṣṭhā*; *kutva* of *j* by *coḥ kuḥ*, so *bhakta*; "enjoyed by the gods"; the first member keeps its natural accent by *tṛtīyā karmaṇi*, Pā. [6-2-48]). *dadhānāḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the present sense; the vikaraṇa [*śluḥ*] present, hence doubling of the root; initial acute by *abhyastānām ādiḥ*). Ends "॥ १० ॥".
+
+**Closing line of the sūkta** *(printed, Kannada)*:
+
+> ಎಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು
+
+*(eppattamūraneya sūkta samāptavu* — "The seventy-third sūkta is concluded.")*
+
+**— End of Sūkta 73.** *(Sūkta 73: ten Ṛks, Agni; Parāśara Śākti; Triṣṭup. The varga numerals of its pages — "19, 20" at the head, "20" and "21" on later pages — are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 74 *(begun: Sāyaṇa's introduction and Anuvāda, p. 426)*
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು — "The seventy-fourth sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; compressed, some syllables doubtful [?])*
+
+> त्रयोदशानुवाके एकादश सूक्तानि । केत्रोपप्रयंत इति नवर्चं प्रथमं सूक्तं । अत्रानुक्रम्यते । उपप्रयंतो नव गोतमो राहूगणो गायत्रं त्रिति । अस्यायमर्षः । रहूगणनामा कश्चिदृषिः । तस्य पुत्रो गोतमो ऽस्य सूक्तस्य ऋषिः । गायत्रं त्रिति ऊक्तत्वादिदमुत्तरं च गायत्रीच्छंदस्कं । परमाग्नेयेंद्रादिति परिभाषितत्वादग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ गायत्रे छंदस्येतदादिके द्वे सूक्ते । सूत्रितं च । उपो रेवतीः क्षयथा हि वस्वः उपप्रयंत इति सूक्ते । आ. [४-१३?] । आश्विनशस्त्रे ऽप्येते सूक्ते प्रातरनुवाकन्यायेन । आ. [६-३?] इत्यैतिदेशात् ॥ पृष्ठ्यषडहस्य प्रथमे ऽहन्येतदेव सूक्तमाज्यशस्त्रं । सूत्रितं च । उपप्रयंत इति तु प्रथमे ऽहन्याज्यं । आ. [७-१०?] इति ॥
+
+*trayodaśānuvāke ekādaśa sūktāni | upa prayanta iti navarcaṃ prathamaṃ sūktaṃ | atrānukramyate | upaprayanto nava gotamo rāhūgaṇo gāyatraṃ [triti?] | asyāyam arṣaḥ | rahūgaṇanāmā kaścid ṛṣiḥ | tasya putro gotamo 'sya sūktasya ṛṣiḥ | gāyatraṃ [triti?] uktatvād idam uttaraṃ ca gāyatrīchandaskaṃ | paramāgneyendrād iti paribhāṣitatvād agnir devatā || prātaranuvākasyāgneye kratau gāyatre chandasy etadādike dve sūkte | sūtritaṃ ca | upo revatīḥ kṣayathā hi vasvaḥ upaprayanta iti sūkte | ā. [4-13?] | āśvinaśastre 'py ete sūkte prātaranuvākanyāyena | ā. [6-3?] ity aitideśāt || pṛṣṭhyaṣaḍahasya prathame 'hany etad eva sūktam ājyaśastraṃ | sūtritaṃ ca | upaprayanta iti tu prathame 'hany ājyaṃ | ā. [7-10?] iti ||*
+
+*(Reading note: the opening words ("kettropaprayanta" in the print) are doubtful — evidently "upa prayanta" is meant; "gāyatraṃ triti" is printed so and is evidently the Anukramaṇī's "gāyatraṃ tṛceti" or the like [?]; the Āśvalāyana numerals [?].)*
+
+*Meaning:* In the thirteenth anuvāka there are eleven sūktas. The first, "*upa prayanta*", has nine Ṛks; the Anukramaṇī says: "*upa prayanto nava gotamo rāhūgaṇo gāyatram* …". Its ṛṣi is Gotama, son of a sage named Rahūgaṇa; the metre of this and the following is Gāyatrī; the deity is Agni. At the Prātaranuvāka these two sūktas, beginning with this one, are used in the Agni-rite in the Gāyatrī metre; the sūtra: "*upo revatīḥ kṣayathā hi vasvaḥ* and *upa prayanta* — these two sūktas" (Ā. [4-13?]); likewise at the Aśvina-śastra, by the extension "as with the Prātaranuvāka" (Ā. [6-3?]). On the first day of the *pṛṣṭhya ṣaḍaha* this sūkta is the *ājya-śastra* (Ā. [7-10?]).
+
+**अनुवादः — Anuvāda** *(Kannada)*: From the seventy-fourth sūkta the thirteenth anuvāka begins. In this anuvāka there are eleven sūktas (74–84). Of these, the first sūkta, beginning "*upa prayanta*", has nine Ṛks. The Anukramaṇikā says "*upa prayanto nava gotamo rāhūgaṇo gāyatram tṛtī…*" — a sage named Rahūgaṇa; his son Gotama is the ṛṣi of this sūkta. This sūkta and the following one are in the Gāyatrī metre; the deity is Agni. At the time of reciting the Prātaranuvāka mantras, this sūkta and the following sūktas are applied for the Gāyatrī-metre Ṛks connected with the Agni-rite…" *(the printed page ends here; the Anuvāda continues on p. 427)*.
+
+---
+
+**Progress note:** Printed pp. 1–426 done (PDF 19–444): **Sūktas 62–73 complete** (Sūkta 73's closing line, p. 426: "eppattamūraneya sūkta samāptavu"). **Sūkta 74** (nine Ṛks; Agni; ṛṣi Gotama Rāhūgaṇa; Gāyatrī; the first sūkta of Anuvāka 13) begun: title, Sāyaṇa's introduction and the start of the Anuvāda (p. 426). Next: p. 427 (PDF 445), the rest of the Anuvāda, the sūkta's heading and Rik 74.1. NB: the metre changes here from Triṣṭup to Gāyatrī and the ṛṣi from Parāśara to Gotama Rāhūgaṇa. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the opening words and the Anukramaṇī phrase of Sāyaṇa's introduction to Sūkta 74 doubtful [?].
