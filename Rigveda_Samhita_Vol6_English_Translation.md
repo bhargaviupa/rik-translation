@@ -4133,4 +4133,65 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–206 done (PDF 19–224): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti): introduction and heading block done; **Rik 67.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and Special Topics done (pp. 204–206); the grammar page not yet seen. Next: p. 207 (PDF 225), the grammar page of Rik 67.1 (if printed there) and Rik 67.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the *ajurya* derivation and Skandasvāmin's remark in 67.1 compressed/doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 207 (PDF 225)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+*(Clarification: contrary to the expectation noted at the end of p. 206, the grammar page of Rik 67.1 is printed here, at the head of p. 207.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 67.1 (noted briefly).** **जायुः**: root *ji jaye*; by "kṛvāpājimisvadisādhyaśūbhya uṇ" (Uṇ. Sū. 1-1, as read) the affix *uṇ*; since *ṇit*, by "aco ñṇiti" *vṛddhi* of the root's *i*; by "eco 'yavāyāvaḥ" *āy* for the *ai*; the form *jāyuḥ*; by the affix accent, final-acute. **वृणीते**: root *vṛñ varaṇe*, of the *kryādi* class; *laṭ*, third person singular, the affix *ta*; by "ṭita ātmanepadānāṃ ṭer e" the *e*; by "sārvadhātukam apit" it is *ñit*-like; by "īd dhalyaghoḥ" the *ā* of the *śnā* vikaraṇa, which was to come, becomes *ī*; by "ṛvarṇād…" *ṇ* for *n* after *ṛ*; no *guṇa* for the root since *śnā* is *ñit*-like; since at the beginning of the *pāda* no *nighāta*; by "anyatra vikaraṇebhyaḥ" [as read] the vikaraṇa accent prevails here; since *ā* [the *ī*] is the end, the word has the final acute. **अजुर्यम्**: "one who has no old age (*jurya*)" = *ajuryam*; a *bahuvrīhi*; by "nañsubhyām" the final acute of the latter member; with *am* following, by "ami pūrvaḥ" the single substitute takes the preceding form; by "ekādeśa udāttenodāttaḥ" the *am* is acute. **भुवत्**: root *bhū sattāyām*; the *leṭ*, third person singular, *tip*; by "itaś ca lope parasmaipadeṣu" the loss of *i*; by "leṭo 'ḍāṭau" the *aṭ* augment; by "bahulaṃ chandasi" the *luk* of *śap*; by "bhūsuvos tiṅi" the prohibition of *guṇa*; by "aci śnudhātubhruvāṃ yvor iyaṅuvaṅau" *uvaṅ*; the form *bhuvat*; at the beginning of the *pāda* no *nighāta*; since *tip* is *p*-marked and unaccented, the root accent remains. **स्वाधीः**: "*śobhanā ādhīḥ yasya saḥ*", a *bahuvrīhi*; by "nañsubhyām" the final acute of the latter member. **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 67.1 ends here (ornamental rule).*
+
+---
+
+### Page 208 (PDF 226)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+#### Rik 67.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **हस्ते दधानो नृम्णा विश्वान्यमे देवान्धाद्गुहा निषीदन् ।**
+> **विदन्तीमत्र नरो धियंधा हृदा यत्तष्टान्मन्त्राँ अशंसन् ॥ ३ ॥ ४ ॥**
+> *haste dadhāno nṛmṇā viśvāny ame devān dhād guhā niṣīdan |*
+> *vidanty īm atra naro dhiyaṃdhā hṛdā yat taṣṭān mantrāṃ aśaṃsan || 3 || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **हस्ते । दधानः । नृम्णा । विश्वानि । अमे । देवान् । धात् । गुहा । निऽसीदन् ।**
+> **विदन्ति । ईम् । अत्र । नरः । धियम्ऽधाः । हृदा । यत् । तष्टान् । मन्त्रान् । अशंसन् ॥ ३ ॥ ४ ॥**
+> *haste | dadhānaḥ | nṛmṇā | viśvāni | ame | devān | dhāt | guhā | ni-sīdan |*
+> *vidanti | īm | atra | naraḥ | dhiyam-dhāḥ | hṛdā | yat | taṣṭān | mantrān | aśaṃsan || 3 || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins; continues on p. 209)*
+
+> **विश्वानि सर्वाणि नृम्णा नृम्णानि हविर्लक्षणानि धनानि हस्ते स्वकीये बाहौ दधानो धारयन्नयमग्निर्गुहा गुहायामप्सु मध्येऽश्वत्थादौ वा संवृतप्रदेशे निषीदन् निगूढो वर्तमानः सन्नमे भयेदेवान्धात् । अस्थापयत् । अग्नौ हविर्भिः सह पलायिते सति सर्वे देवा अभ्यैषुरित्यर्थः । नरो नेतारो धियंधाः कर्मणां बुद्धीनां वा धारयितारो देवा अत्रास्मिन्काल ईमेनमग्निं विदन्ति । जानन्ति । यद्यदा हृदा हृदयोद्भूतया बुद्ध्या तष्टान्निर्मितानग्निस्तुतिपरान्मन्त्रानशंसन् अस्तुवन् । आवोचन्नित्यर्थः ॥ निषीदन् । सदेरप्रतेरिति षत्वं । विदन्ति । विद ज्ञाने । अदादित्वाच्छपो लुक् । प्रत्ययस्वरः । धियंधाः । आतोऽनुपसर्गे कः ।**
+> *viśvāni sarvāṇi nṛmṇā nṛmṇāni havirlakṣaṇāni dhanāni haste svakīye bāhau dadhāno dhārayann ayam agnir guhā guhāyām apsu madhye 'śvatthādau vā saṃvṛtapradeśe niṣīdan nigūḍho vartamānaḥ sann ame bhaye devān dhāt | asthāpayat | agnau havirbhiḥ saha palāyite sati sarve devā abhyaiṣur ity arthaḥ | naro netāro dhiyaṃdhāḥ karmaṇāṃ buddhīnāṃ vā dhārayitāro devā atrāsmin kāla īm enam agniṃ vidanti | jānanti | yad yadā hṛdā hṛdayodbhūtayā buddhyā taṣṭān nirmitān agnistutiparān mantrān aśaṃsan astuvan | āvocann ity arthaḥ || niṣīdan | sader aprateḥ iti ṣatvaṃ | vidanti | vida jñāne | adāditvāc chapo luk | pratyayasvaraḥ | dhiyaṃdhāḥ | āto 'nupasarge kaḥ |*
+> *"**Viśvāni**, all, **nṛmṇā**, riches in the form of oblations, **haste dadhānaḥ**, holding in his own hand — this Agni, **guhā niṣīdan**, sitting hidden in a cave, i.e. in the waters, or in a covered place such as the *aśvattha*, **ame**, in fear, **devān dhāt**, set the gods: when Agni fled with the oblations, all the gods came after him: that is the sense. **Naraḥ**, the leaders, **dhiyaṃdhāḥ**, upholders of rites or of intelligence, the gods, **atra**, at that time **īm** this Agni **vidanti** — know — **yad**, when, with **hṛdā**, the intelligence arisen from the heart, they **aśaṃsan**, praised with, uttered, **mantrān**, hymns composed (*taṣṭān*) in praise of Agni. **Niṣīdan**: *ṣ* by 'sader aprateḥ'. **Vidanti**: root *vida jñāne*; the *luk* of *śap* because of the *adādi* class; the affix accent. **Dhiyaṃdhāḥ**: *ka* by 'āto 'nupasarge kaḥ' …"* *(continues on p. 209.)*
+
+---
+
+### Page 209 (PDF 227)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]"; at the foot the signature mark "VI 14".)*
+
+**Bhāṣya (concluded).** "…*ka* by 'āto 'nupasarge kaḥ'; by 'tatpuruṣe kṛti bahulam' the *aluk* of the accusative by the 'bahula' licence. **Taṣṭān**: root *takṣū tanūkaraṇe*; *niṣṭhā*; the prohibition of *iṭ* by 'yasya vibhāṣā'; the loss of *k* [of the conjunct] by 'skoḥ saṃyogādyor ante ca' [as read, ?]."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**विश्वानि** — all; **नृम्णा** — wealth in the form of oblations; **हस्ते** — in his hand; **दधानः** — [Agni] holding; **गुहा** — in a cave (of the waters); **निषीदन्** — hidden; **देवान्** — the gods; **अमे** — in fear; **धात्** — he placed (made them fearful); **यत्** — when; **नेतारः** — the leader gods; **धियंधाः** — the gods who give knowledge; **हृदा** — by their own knowledge; **तष्टान्** — composed; **मन्त्रान्** — hymns [about Agni]; **अशंसन्** — they uttered; **अत्र** — then; **ईम्** — this Agni; **विदन्ति** — they knew.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, taking for himself all the wealth in the form of oblations meant for the gods, hid in the water and made all the gods fearful. The leaders, the gods who hold knowledge, composed hymns concerning Agni by their own knowledge and learned his hiding-place.
+
+**English Translation** *(the source's own, as printed):*
+
+> Holding in his hand all (sacrificial) wealth, and hiding in the hollows (of the waters), he filled the gods with alarm ; the leaders (the gods), the upholders of acts, then knew Agni when they recited the prayers conceived in the heart.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **अमे देवान् धात्** — *bhaye agnau havirbhiḥ saha palāyite sati sarve devā abhyaiṣuḥ* — "when Agni, with the oblations, hid in a concealed place (in the water, or in the *aśvattha* tree), the gods were seized with fear."
+- **नृम्णा** — *nṛmṇāni dhanāni havirlakṣaṇāni* — "the word *nṛmṇa* is read among the twenty-eight names of 'wealth' beginning *muhaḥ, tīkṣṇaḥ* (Ni. [2-10]); though this word is also read among the names of 'strength', here it is used in the sense of wealth: wealth in the form of oblations."
+
+---
+
+**Progress note:** Printed pp. 1–209 done (PDF 19–227): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1 complete; **Rik 67.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 209). Next: p. 210 (PDF 228), the Special Topics of Rik 67.2 continue, then its grammar page; then Riks 67.3–67.5 and the closing line. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the *taṣṭān* sandhi remark on p. 209 as read [?]; accent marks of the Saṃhitā/Pada not reproduced.
