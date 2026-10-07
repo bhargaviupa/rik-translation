@@ -4718,4 +4718,51 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–236 done (PDF 19–254): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1–68.4 complete; **Rik 68.5** (the last) — Saṃhitā and Pada only (p. 236). Next: p. 237 (PDF 255), the bhāṣya of Rik 68.5 and the rest, then the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics and *amūra* grammar in 68.4 compressed [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 237 (PDF 255)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(read at 150 dpi; some readings doubtful [?])*
+
+> **अस्याग्नेः शासं शासनं तुरासस्त्वरमाणाः सन्तो ये यजमानाः श्रोषन् शृण्वन्ति ते सर्वे तेनानुशिष्टं क्रतुं कर्म जुषन्ते । सेवन्ते । तत्र दृष्टान्तः । पितुर्न पुत्राः । यथा पुत्राः पुरु बहुलं त्रायेकः पुन्नाम्नो नरकाद्वा रक्षकास्तनयाः पितुराज्ञां कुर्वन्ति तद्वत् । पुत्रः पुरु त्रायते निपरणाद्वा पुन्नरकं तत्स्त्रायत इति वा । नि. २-११ [?] इति यास्कः । पुरुक्षुः । क्षु इत्यन्ननाम । बहून्नः सोऽग्निरेषां यजमानानां दुरो द्वाराणि यज्ञस्य द्वारभूतानि रायो धनानि व्यौर्णोत् । विव्रणोति । प्रकाशयति । ददातीति यावत् । अपि च दमूना दमे यज्ञगृहे मनो यस्य सोऽग्निः । नास्मिन्नकं दुःखमस्तीति नाको द्युलोकः । तं । स्तृभिरिति नक्षत्रनाम । स्तृभिर्नक्षत्रैः पिपेश । अवयवीचकार । नक्षत्रैर्युक्तमकरोदित्यर्थः ॥ श्रोषन् । श्रु श्रवणे । लेट्यडागमः । सिब्बहुलं लेटीति सिप् । बहुलं छन्दसीति विकरणस्य लुक् । इतश्च लोप इतीकारलोपः । संयोगान्तस्य लोपः । पिपेश । पिश अवयवे ॥**
+> *asyāgneḥ śāsaṃ śāsanaṃ turāsas tvaramāṇāḥ santo ye yajamānāḥ śroṣan śṛṇvanti te sarve tenānuśiṣṭaṃ kratuṃ karma juṣante | sevante | tatra dṛṣṭāntaḥ | pitur na putrāḥ | yathā putrāḥ puru bahulaṃ trāyekaḥ punnāmno narakād vā rakṣakās tanayāḥ pitur ājñāṃ kurvanti tadvat | putraḥ puru trāyate niparaṇād vā punnarakaṃ tat strāyata iti vā | Ni. 2-11 [?] iti yāskaḥ | purukṣuḥ | kṣu ity anna nāma | bahvannaḥ so 'gnir eṣāṃ yajamānānāṃ duro dvārāṇi yajñasya dvārabhūtāni rāyo dhanāni vyaurṇot | vivṛṇoti | prakāśayati | dadātīti yāvat | api ca damūnā dame yajñagṛhe mano yasya so 'gniḥ | nāsminn akaṃ duḥkham astīti nāko dyulokaḥ | taṃ | stṛbhir iti nakṣatranāma | stṛbhir nakṣatraiḥ pipeśa | avayavīcakāra | nakṣatrair yuktam akarod ity arthaḥ || śroṣan | śru śravaṇe | leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip | bahulaṃ chandasīti vikaraṇasya luk | itaś ca lopa itīkāralopaḥ | saṃyogāntasya lopaḥ | pipeśa | piśa avayave ||*
+> *"**Turāsaḥ** — those sacrificers who, hastening, **śroṣan** — hear — **asya śāsam**, this Agni's command, they all **juṣante**, serve **kratum**, the rite enjoined by him. The example: **pitur na putrāḥ**, as sons — *putra* from *pu* + *trā*, 'one who protects (*trāyate*) from the hell named *put*' — obey a father's command. [So Yāska:] 'The son (*putra*) protects (*trāyate*) much, or from *niparaṇa*, or [he saves] the hell *put*' (Ni. 2-11, as read, ?). **Purukṣuḥ**: *kṣu* is a word for 'food': Agni of abundant food **vi aurṇot** — opens, reveals, gives — **duraḥ**, the doors, which are the doors to the sacrifice, **rāyaḥ**, riches, to these sacrificers. And **damūnāḥ** — Agni whose mind is in the house of sacrifice (*dame*). **Nākam**: 'in which there is no pain (*aka*)' — heaven; **stṛbhiḥ** — a word for 'stars' — **pipeśa**, he adorned (made a limb of), i.e. he studded it with stars. **Śroṣan**: root *śru śravaṇe*; the *aṭ* augment in the *leṭ*; *sip* by 'sibbahulaṃ leṭi'; the *luk* of the vikaraṇa by 'bahulaṃ chandasi'; the loss of *i* by 'itaś ca lopaḥ'; the loss of the conjunct-final consonant. **Pipeśa**: root *piśa avayave*."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**अस्य** — of this Agni; **शासम्** — the command; **तुरासः** — those who are quick; **ये** — whichever sacrificers; **पुत्राः** — sons; **पितुर्न** — as [they listen to] a father; **श्रोषन्** — they hear; **क्रतुम्** — the rite enjoined by Agni; **जुषन्ते** — they perform; **(तेषाम्)** — for them; **पुरुक्षुः** — Agni of abundant food; **दुरः** — the doors of the sacrifice; **रायः** — riches; **वि और्णोत्** — he opens (gives); **दमूनाः** — Agni whose mind is in the sacrificial hall; **नाकम्** — the heavenly world; **स्तृभिः** — with stars; **पिपेश** — he adorned.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* As sons obey their father's command, those who obey Agni's commands perform sacrifices and so on; to them Agni, of abundant food, gives the riches that are the means of sacrifice. He whose mind is steady in the sacrificial hall fills the sky with stars.
+
+**English Translation** *(the source's own, as printed):*
+
+> Hastening to obey the commands of Agni, like sons (obedient to the orders) of a father, they celebrate his worship : abounding in food, Agni sets open before them treasures that are at the doors of sacrifice, and he who delights in the sacrificial chamber has studded the sky with constellations.
+
+---
+
+### Page 238 (PDF 256)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **पितुर्न पुत्राः** — *yathā putrāḥ puru bahulaṃ trāyekaḥ punnāmno narakād vā rakṣakāḥ pitur ājñāṃ kurvanti | putraḥ puru trāyate niparaṇād vā punnarakaṃ tat strāyata iti vā* (Ni. 2-11, as read, ?) *iti yāskaḥ* — "the word *putra* [means] either 'one who gives much protection' or 'one who protects from the hell called *put*'. Those who do this work are *putras*; they are those who carry out their fathers' commands without fail. Yāska explained this same meaning. Those who perform sacrifices, watchfully preserving Agni's commands, do all the rites that Agni enjoins, as sons keep their father's commands without fail."
+- **पुरुक्षुः** — *kṣu ity annanāma* — "the word *kṣu* is read among the twenty-eight names of food (Ni. [2-7]); *puru* means 'much': one who has abundant food, one who gives food."
+- **दुरः रायः वि और्णोत्** — *dvārāṇi dhanāni dadāti* — "Agni of much food gives the sacrificers wealth, which are the means for performing sacrifice. The root *ūrṇu* with *vi* is used here in the sense 'is revealed'; from this the meaning 'gives' is arrived at. The word *rayi* is read among the twenty-eight names of wealth (Ni. [2-10])."
+- **दमूनाः** — *dame yajñagṛhe mano yasya* — "*dama* is the sacrificial hall where the sacrifice is performed; the meaning is that Agni is one who keeps his mind there."
+- **नाकम्** — *na akaṃ duḥkhaṃ yasminn asti iti nākaṃ dyulokaḥ* — "a place where there is no sorrow: heaven."
+- *Skandasvāmin:* "the word *kratu* is read among the thirteen names of 'wisdom' (Ni. [3-9]), so this word conveys the sense 'wisdom'; from this, as one gets knowledge from a father, those who perform sacrifices become wise by Agni. He explains the sense of *turāsaḥ* as 'those who destroy the enemies' [from the root denoting hurting], and [takes *kratu* as] 'fame', as in the Ṛk '*kṛdhi kṣumantaṃ jaritāraṃ… vājam*' [?] (Ṛk. Saṃ. 3-[?]-[?], as read, ?). He explains *damūnāḥ* — since it is stated '*dāntaḥ puruṣe vā dame yajñagṛhe mano yasyeti vā*' (Ni. 4-[4]) — as 'one of tranquil mind, a restrained person'; since all *dharmas* have Agni as their root, Agni, the cause of *dharma*, is the adorner of heaven; and he explains the words *pipeśa nākam* in this sense." *(Compressed; the references in Skandasvāmin's note are read doubtfully [?].)*
+
+---
+
+### Page 239 (PDF 257)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 68.5 (noted briefly).** **जुषन्ते**: root *juṣī prītisevanayoḥ*; in the third person plural of the *laṭ*, by "jho 'ntaḥ" [*jha* → *ata*] the substitute; by "sarve vidhayaś chandasi vikalpyante" *e* does not come [for the *ātmanepada* adjustment]; or, in the Vedic *laṅ*, by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; no *nighāta* either. **श्रोषन्**: root *śru śravaṇe*; in the *leṭ*, third person plural, by "jho 'ntaḥ" *ant* [*an*]; by "itaś ca lopaḥ parasmaipadeṣu" the loss of the final *i*; by "saṃyogāntasya lopaḥ" the loss of the *t*; the *aṭ* augment; by "sib bahulaṃ leṭi" (Pā. Sū. 3-1-34, as read) *sip* [*sic*]; by "bahulaṃ chandasi" the *luk* of the vikaraṇa; by "sārvadhātukārdhadhātukayoḥ" *guṇa* of the root's *u*; by "ādeśapratyayayoḥ" *ṣ* for the *s* of *sip*; the form *śroṣan*; in the sūtra "tiṅ atiṅaḥ" the word *ati-ṅaḥ* [being] explained as "paryudāsa", the *nighāta* does not come; by the root accent the word has the initial acute. **शासम्**: root *śāsu anuśiṣṭau*; "that which is commanded" = *śāsaḥ*; the affix *ghañ*; initial acute. **और्णोत्**: root *ūrṇuñ ācchādane*; *laṅ*, third person singular, *tip*; by "itaś ca" the loss of its *i*; by "guṇo 'pṛkte" (Pā. Sū. 7-3-91, as read) *guṇa* of the *u* as an exception to *vṛddhi*; the *nighāta* accent of a verb. **पिपेश**: root *piśa avayave*; *liṭ*, third person singular; by "parasmaipadānāṃ ṇalatusus…" *ṇal*; the doubling of the root; by "pugantalaghūpadhasya ca" *guṇa* of the root's penultimate; at the beginning of the *pāda* no *nighāta*; since *ṇal* is *l*-marked, by "liti" the syllable before the affix is acute; the word has the acute in the middle. **॥ ९–१० ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तेंटनेय सूक्तवु समाप्तवु"** — "*aravatteṇṭaneya sūktavu samāptavu*" — "The sixty-eighth sūkta is concluded." *(Sūkta 68 is complete: five four-pāda Ṛks = ten half-Ṛks; printed pp. 222–239.)*
+
+---
+
+**Progress note:** Printed pp. 1–239 done (PDF 19–257): **Sūktas 62–68 complete.** Next: p. 240 (PDF 258), the opening of **Sūkta 69** (fifth sūkta of the Twelfth Anuvāka; probably another *dvaipada* sūkta — check the heading and Sāyaṇa's introduction). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics of 68.4–68.5 and Skandasvāmin's notes (pp. 234–238) read at 150 dpi, compressed and doubtful in places [?]; accent marks of the Saṃhitā/Pada not reproduced.
