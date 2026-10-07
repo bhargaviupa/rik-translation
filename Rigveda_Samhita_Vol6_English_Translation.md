@@ -4408,4 +4408,84 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–221 done (PDF 19–239): **Sūktas 62–67 complete.** Next: p. 222 (PDF 240), the opening of **Sūkta 68** (the fourth sūkta of the Twelfth Anuvāka; probably another *dvaipada* sūkta — check the heading and Sāyaṇa's introduction). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?] (the header on p. 221 reads "10" where p. 219 reads "11", as printed); the bhāṣya of 67.4–67.5 and Skandasvāmin's notes (pp. 216–220) read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+---
+
+## SŪKTA 68 *(printed p. 222 = PDF 240; fourth sūkta of the Twelfth Anuvāka)*
+
+### Page 222 (PDF 240) — Sāyaṇa's introduction; Kannada anuvāda; heading block; Saṃhitā text of Rik 68.1
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**Printed on the page:** the line "*Aravatteṇṭaneya sūktavu*" ("the sixty-eighth sūkta"), then:
+
+> **श्रीणन्नुपेति द्वैपदं दशर्चं चतुर्थं सूक्तं । तत्राध्ययनतः पञ्चर्चं । ऋष्याद्याः पूर्ववत् ॥ विनियोगस्तु लैङ्गिकः ॥**
+> *śrīṇann upeti dvaipadaṃ daśarcaṃ caturthaṃ sūktaṃ | tatrādhyayanataḥ pañcarcaṃ | ṛṣyādyāḥ pūrvavat || viniyogas tu laiṅgikaḥ ||*
+> *"'Śrīṇann upa' is the fourth sūkta, a *dvaipada* of ten [half-]Ṛks; by study, of five Ṛks. The ṛṣi and the rest as before. The application is *laiṅgika*."*
+
+**Anuvāda (Kannada).** "The sūkta '*śrīṇann upa*' is the fourth sūkta in the twelfth anuvāka. In it there are ten Ṛks of the metre *dvipadā virāṭ*, or, by the way of study, five Ṛks. The ṛṣi, deity and metre are as in the previous sūkta. The application is *laiṅgika*."
+
+**Sūkta — 68** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ६८ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — १२ ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ५ (१०) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+#### Rik 68.1 *(printed "1 || 2 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **श्रीणन्नुप स्थाद्दिवं भुरण्युः स्थातुश्चरथमक्तून्व्यूर्णोत् ।**
+> **परि यदेषामेको विश्वेषां भुवद्देवो देवानां महित्वा ॥ १ ॥ २ ॥**
+> *śrīṇann upa sthād divaṃ bhuraṇyuḥ sthātuś carathām aktūn vy ūrṇot |*
+> *pari yad eṣām eko viśveṣāṃ bhuvad devo devānāṃ mahitvā || 1 || 2 ||*
+
+*(Transliteration of the first line: the printed Devanagari is "स्थातुश्चरथमक्तून्"; I read it as *sthātuś caratham aktūn*.)*
+
+---
+
+### Page 223 (PDF 241)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **श्रीणन् । उप । स्थात् । दिवम् । भुरण्युः । स्थातुः । चरथम् । अक्तून् । वि । ऊर्णोत् ।**
+> **परि । यत् । एषाम् । एकः । विश्वेषाम् । भुवत् । देवः । देवानाम् । महिऽत्वा ॥ १ ॥ २ ॥**
+> *śrīṇan | upa | sthāt | divam | bhuraṇyuḥ | sthātuḥ | caratham | aktūn | vi | ūrṇot |*
+> *pari | yat | eṣām | ekaḥ | viśveṣām | bhuvat | devaḥ | devānām | mahi-tvā || 1 || 2 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **भुरण्युर्हविषां भर्ता धारयिता पयःप्रभृतिना श्रयणद्रव्येण सोममिव तैर्हविर्भिः श्रीणन् मिश्रयन्दिवमुप स्थात् उपतिष्ठति । प्राप्नोतीत्यर्थः । स्थातुः स्थावरं चरथं जङ्गमं तदुभयात्मकं जगदक्तून् सर्वा रात्रीश्च व्यूर्णोत् । स्वतेजसा विशेषेणाच्छादयति । हविर्वहनं कुर्वन्सर्वमपि जगत्स्वभासा प्रकाशयति स्मेति भावः । विश्वेषां सर्वेषां देवानां दानादिगुणयुक्तानामिन्द्रादीनां मध्ये देवो द्योतमान एक एवायमग्निरेषां पूर्वोक्तानां स्थावरादीनां महित्वा महत्त्वानि माहात्म्यानि यद्यस्मात्परि भुवत् परिभवति परिगृह्णाति परितो व्याप्य वर्तते । परिपूर्णो भवतिः परिग्रहार्थः । यद्वा । एषां विश्वेषां स्थावरादीनां मध्ये वर्तमानोऽयं देवोऽग्निर्देवानां महत्त्वानि यद्यदा परि भुवत् परितो व्याप्नोति । तदानीमिति पूर्वत्रान्वयः ॥ ऊर्णोत् । ऊर्णुञ् आच्छादने । ऊर्णोतेर्विभाषा । पा. ७-२-६ [?] इति वृद्धेर्विकल्पः ॥**
+> *bhuraṇyur havi​ṣāṃ bhartā dhārayitā payaḥprabhṛtinā śrayaṇadravyeṇa somam iva tair havirbhiḥ śrīṇan miśrayan divam upa sthāt upatiṣṭhati | prāpnotīty arthaḥ | sthātuḥ sthāvaraṃ caratham jaṅgamaṃ tadubhayātmakaṃ jagad aktūn sarvā rātrīś ca vyūrṇot | svatejasā viśeṣeṇācchādayati | havirvahanaṃ kurvan sarvam api jagat svabhāsā prakāśayati smeti bhāvaḥ | viśveṣāṃ sarveṣāṃ devānāṃ dānādiguṇayuktānām indrādīnāṃ madhye devo dyotamāna eka evāyam agnir eṣāṃ pūrvoktānāṃ sthāvarādīnāṃ mahitvā mahattvāni māhātmyāni yad yasmāt pari bhuvat paribhavati parigṛhṇāti parito vyāpya vartate | paripūrṇo bhavatiḥ parigrahārthaḥ | yadvā | eṣāṃ viśveṣāṃ sthāvarādīnāṃ madhye vartamāno 'yaṃ devo 'gnir devānāṃ mahattvāni yad yadā pari bhuvat parito vyāpnoti | tadānīm iti pūrvatrānvayaḥ || ūrṇot | ūrṇuñ ācchādane | ūrṇoter vibhāṣā | Pā. 7-2-6 [?] iti vṛddher vikalpaḥ ||*
+> *"**Bhuraṇyuḥ**, the bearer, the upholder, of the oblations, **śrīṇan**, mixing those oblations — as one mixes Soma with milk and the like, a mixing substance — **divam upa sthāt**, goes up to heaven, i.e. attains it. **Sthātuḥ**, the immovable, **caratham**, the movable, the world consisting of both, and **aktūn**, all the nights, **vy ūrṇot**, he covers specially with his own splendour; the idea is that, carrying the oblations, he illumined the whole world with his own light. Among all the gods (**viśveṣām devānām**), Indra and the rest endowed with qualities such as giving, this one shining god Agni alone **pari bhuvat** — surpasses, encompasses, remains pervading all around — **mahitvā**, the greatnesses, the glories **eṣām**, of these aforesaid immovable and other things (*bhū* with *pari* in the sense of 'to grasp'; 'to become full'). Or: dwelling in the midst of all these immovable and other things, whenever this god Agni pervades the greatnesses of the gods all around, then [he covers…]: so it joins with the earlier. **Ūrṇot**: root *ūrṇuñ ācchādane*; the option of *vṛddhi* in *ūrṇu* by 'ūrṇoter vibhāṣā' (Pā. 7-2-6, as read, ?)."* *(Grammar tail short; numerals as read.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**विश्वेषाम्** — among all (the gods, endowed with the qualities of giving and so on: Indra and the rest); **देवः** — shining; **एकः** — alone; **एषाम्** — of these deities (of the world of the moving and the unmoving); **महित्वा** — the greatnesses; **यत्** — because; **परिभुवत्** — he surrounds them; **भुरण्युः** — Agni, the bearer of oblations; **श्रीणन्** — mixing [the oblations with other substances]; **दिवम्** — heaven; **उप स्थात्** — he reaches; **स्थातुः** — the fixed; **चरथम्** — the moving [all the world]; **अक्तून्** — all the nights; **व्यूर्णोत्** — he covers with his own light.
+
+---
+
+### Page 224 (PDF 242)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, shining among Indra and the other gods, who takes into himself the greatnesses of all the gods or of the whole world of the moving and the unmoving, and carries the oblations to the gods, goes to heaven, mixing the oblations with other substances, and illumines the whole world by his light.
+
+**English Translation** *(the source's own, as printed):*
+
+> The bearer (of the oblations, Agni), mixing them (with other ingredients), ascends to heaven, and clothes all things, moveable and immoveable, and the nights themselves (with light), radiant amongst the Gods, and in himself alone comprehending the virtues of all these (substances).
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **भुरण्युः** (*bhuraṇyuḥ*) — *haviṣāṃ bhartā dhārayitā* — "Sāyaṇa explains: Agni, who protects and bears the oblations offered in the sacrifice, takes them, mixing them as one mixes milk and the like with Soma-juice, and reaches the atmospheric world. Skandasvāmin explains *bhuraṇyuḥ* as *kṣipragāmī* ('swift-going'); and, using the word *śrīṇan* in the sense of 'burning', he explains that Agni burns the grass, herbs and trees."
+- "In Sāyaṇa's bhāṣya, [the clause] *aktūn sarvā rātrīś ca vyūrṇot* is explained as: Agni pervades with his splendour the entire world, composed of the moving and the unmoving, and all the nights as well. [On] *pari bhuvat* [Sāyaṇa says]: *paribhavati parigṛhṇāti parito vyāpya vartate | paripūrṇo bhavatiḥ parigrahārthaḥ* — 'this one Agni, shining in the midst of Indra and the other gods who have the qualities of giving, surpasses all and, with his great glory, is everywhere'."
+- *Skandasvāmin:* **रात्रीश्च तमोरूपास्तीः स्वेन ज्योतिषा प्रकाशरूपाः करोति | स्थावरं जङ्गमं च रात्रिषु प्रकाशयतीत्यर्थः** — "he makes the nights, which have the form of darkness, take the form of light by his own radiance; and he makes the moving and the unmoving visible in the nights."
+
+---
+
+**Progress note:** Printed pp. 1–224 done (PDF 19–242): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti; fourth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 68.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 224). Next: p. 225 (PDF 243), the rest of the Special Topics and the grammar page of Rik 68.1; then Riks 68.2–68.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics on p. 224 read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
