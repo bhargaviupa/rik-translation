@@ -6165,4 +6165,69 @@ sṛjad astā dhṛṣatā didyum asmai svāyāṃ devo duhitari tviṣiṃ dhā
 
 ---
 
-**Progress note:** Printed pp. 1–304 done (PDF 19–322): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.4 complete (71.4's grammar page on pp. 302–303); **Rik 71.5** (printed "5 ||") — Saṃhitā and Pada (pp. 303–304) and the Sāyaṇa-bhāṣya with its grammatical tail (p. 304) done; the Pratipadārtha begins on p. 304's foot / p. 305, not yet written. Next: p. 305 (PDF 323), the Pratipadārtha, Bhāvārtha, English and Special Topics of Rik 71.5. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.5–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's *tsarat* clause on p. 304 and the grammar page of 71.4 (pp. 302–303) doubtful in places [?].
+### Page 305 (PDF 323)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 20".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 71.5** *(Kannada; begun at the foot of p. 304, "mahe — to the great one; pitre — the protector; dive — to the shining (company of gods); īṃ rasam — this essence (of the earth, the oblation); yat — when (the sacrificer); kaḥ — makes; pṛśanyaḥ — the touch-skilled (demons); cikitvān — (you, knowing that the deity carries the oblation)…")*
+
+…*knowing that [the oblations] are carried to the gods:* *ava tsarat* — they retire (go back); *astā* — Agni, who is by nature a shooter of arrows; *dhṛṣatā* — with the bow; *asmai* — at this (fleeing) demon; *didyum* — blazing (the arrow); *sṛjat* — he sends; *devaḥ* — the shining Agni; *svāyām* — of his own; *duhitari* — in the dawn, who is like a daughter; *tviṣim* — brilliance; *dhāt* — he places.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+When the sacrificer offers the oblation to Agni, the great one, the protector, the demons who wait to seize it retreat. But Agni, who has the bow, shoots an arrow at them from behind; and then he gives light to the dawn, who comes near like a daughter.
+
+**English Translation** *(the source's own, as printed):*
+
+> When (the worshipper) offers an oblation to his great and illustrious protector, the grasping (Rakshas), recognizing you Agni, retires, but Agni, the archer, sends after him a blazing arrow from his dreadful bow, and the God bestows light upon his own daughter, (the dawn).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "Agni is not only a benefactor of the sacrificers, gods and men, in carrying out the office of messenger for them: he is able to remove all the obstacles that come in the way. He frustrates the harm of the demons, destroys the darkness, and after his manifestation gives his radiance to the dawn that rises, his daughter, and makes her shine."
+- **ईम्** — "The form and special character of this word have been explained fully before."
+- **कः** — "From the root *kṛ*; *kaḥ* means 'he makes'."
+- **रसम्** — "Since it is read among the twenty-two names of food, *andhaḥ*, *vājaḥ*, *payaḥ* and so on (Ni. [2-7?]), *rasam* here means food in the form of the oblation — that is, the oblation which is the essence of the earth."
+- **पृशन्यः** — *spṛśa saṃsparśane* — "the root *spṛś*, which gives the sense 'touch, grasp', yields the form *pṛśanyaḥ*. *Sparśanakuśalo rākṣasādiḥ*: that is, demons and the like, who are skilled in seizing — able to plunder…" *(continued on p. 306)*
+
+---
+
+### Page 306 (PDF 324)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.5 (continued)**
+
+- **पृशन्यः** (concluded) — "…who are able to plunder: that is the sense. In the same way the forms *pṛśanyeyuḥ* (1-[?]-11), *pṛśanī* (10-[?]-9) and *pṛśane* (8-[?]-?) occur. The word *pṛśanyaḥ* itself, when used again in Ṛk 10-[6?]-8, with the same meaning, becomes an epithet of Rudra:
+
+  > सरत्पदा न दक्षिणा पराव्रङ्न ता नु मे पृशन्यो जगृभ्रे ।
+  > *sarat padā na dakṣiṇā parāvṛṅ na tā nu me pṛśanyo jagṛbhre* (Ṛk. Saṃ. [10-61-8?], as read, doubtful)"
+- **अव त्सरत्** — "Slipping away, he ran off. *Vartate*, *āyate*, *loṭate* (and so on) — the root is read among the twenty-two names of 'going/action' (Ni. [2-14?]), and means 'to move'. But this root is used in a special sense: wherever the forms *tsaruḥ*, *tsarī*, *tsarat* occur, they have the sense *chadmagati* — 'moving crookedly' (or 'moving deceitfully') — that is, 'move crookedly, or move by trickery'. For example:
+
+  > वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ।
+  > *vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam* (Ṛk. Saṃ. [8-1-11?])
+
+  In this Ṛk the word *tsarat* means *chadmagatyā gacchat* — 'going by trickery'. So here too: though the demon is able to seize and plunder others, in fear of Agni he slips away and goes by trickery; Agni's power and skill have been said to be the cause of this." *(Gloss mine and tentative: "Śatakratu carried Kutsa Ārjuneya … the Gandharva stealthily going …"; the Ṛk citation and numeral doubtful [?].)*
+- **अस्ता** — *iṣukṣepaṇakuśalo 'gniḥ* — "Agni, skilled in the casting of arrows."
+- **दिद्युं सृजत्** — "*Didyut*, *nemiḥ*, *hetiḥ* and so on are read among the names of the thunderbolt, the twenty-[odd] names (Ni. [2-20?]); so *didyu* generally means Indra's thunderbolt-weapon. But in some places it also means a shining arrow. The Nirukta-writer's explanation is: the word *didyut* is formed either from the root *do* 'to cut, to afflict', or from the root *dyai/dyā* 'to attack, to fall upon', or from *dyut* 'to shine, to bring forth radiance' (Ni. [10-2?]; as read, ?). In this connection the Nirukta-writer quotes the Ṛk Saṃhitā:
+
+  > यस्ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः ।
+  > *yas te didyud avasṛṣṭā divas pari kṣmayā carati pari sā vṛṇaktu naḥ* (Ṛk. Saṃ. [2-33-14?], numeral as read [2-33-3?])" *(continued on p. 307)* *(Gloss mine and tentative: "may that thunderbolt of yours, which, hurled from heaven, moves over the earth, pass us by".)*
+
+---
+
+### Page 307 (PDF 325)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.5 (continued)**
+
+- **दिद्युम्** (concluded) — "…Here the word *didyut* has the sense *hetiḥ*, 'arrow': it is an epithet of the arrow of Rudra. Similarly, in many Ṛks — [1-[?]-4; 1-[?]-3; 5-[?]-3; 2-[?]-1] and so on — this word is used in the sense of arrow. But in Ṛk [6-66-10], where it comes as an epithet of the Maruts, *didyut* is explained as *dyotamānāḥ* — 'the shining Maruts'. In the Ṛk of the present sūkta, *didyut* means the shining arrow of Agni."
+- **स्वायां दुहितरि त्विषिं धात्** — "*Duhitṛvat samanantarabhāvinyām uṣasi svakīyāṃ dīptiṃ sthāpayati* — Sāyaṇa explains: after Agni has appeared, he spreads his rays on the dawn, who is like his own daughter, being younger than himself, and makes her radiant. But the relation of father and daughter between Agni and Uṣas is not found stated everywhere; and it has been said many times that they show the relation of lover and beloved (*priyaḥ-priyā*). Therefore Skandasvāmin's explanation appears more consistent than this one. According to his commentary, Agni is shooting the arrow at the demons; *tad evoktaṃ* — "*svāyāṃ devaḥ indraḥ*": *duhitari vṛṣṭyā sasyarūpeṇa janyamānatvād duhitā kṣitir atrābhipretā* — 'Indra's *daughter* is the earth, since she is made to bear the crops in the form of the rain'; *tasyāṃ tviṣiṃ sasyasaṃpattilakṣaṇāṃ dīptiṃ ā dhāt dadhāti* — 'in her he places brilliance in the form of the abundance of crops'. Immediately thereupon, the god Indra spreads on the earth the radiance in the form of abundance of crops. Since she is born in the form of crops from the rain, and since Indra is the cause of the rain, the earth is explained as Indra's daughter. This part of the explanation seems a little continuous [with the Skandasvāmin passage preceding?]." *(The Sanskrit of Skandasvāmin's note is read from a small print; doubtful in several syllables [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.5, noted briefly; not transcribed)*
+
+Words treated: *mahe* (*mahat*; before the fourth-case ending, loss of the *t* by Vedic usage); *dive* (acute on the fourth-case ending by *ūḍidaṃpadādi…*); *kaḥ* (root *ḍukṛñ* "to do"; *luṅ*, third person singular, *tip*; loss of the *i* by *iteś ca*; *cli* by *cli luṅi*; loss of *cli* by *mantre ghasa…*, Pā. [2-4-80]; guṇa of the root because of *tip*; *uraṇ raparaḥ* gives *r*; since *aprkta tip* follows a consonant-final stem, the *t* is lost by *halṅyābbhyo…*; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta because of its connection with *yat*; the accent from the root, acute). Continued on p. 308. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–307 done (PDF 19–325): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.4 complete; **Rik 71.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the first part of the grammar page (pp. 303–307) done; the grammar page breaks off after *kaḥ* at the foot of p. 307. Next: p. 308 (PDF 326), the rest of the grammar page of 71.5; then Riks 71.6–71.10 and Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 306–307 (Sanskrit as read, glosses mine and tentative) doubtful [?]; Skandasvāmin's note on p. 307 doubtful.
