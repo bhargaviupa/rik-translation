@@ -14084,4 +14084,78 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 ---
 
-**Progress note:** Printed pp. 1–610 done (PDF 19–628): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.14 complete** (grammar of 80.14 on pp. 608–609); **Rik 80.15** — Saṃhitā, Pada (p. 609), bhāṣya, Pratipadārtha, Bhāvārtha and English (p. 610) done; its Special Topics and grammar not yet seen. Next: p. 611 (PDF 629). Rik 80.16 and the closing line of Sūkta 80 (the last sūkta of Volume 6) remain; then CLAUDE.md update. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt.
+### Page 611 (PDF 629)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.15)**
+
+> अत्रेदमुक्तं भवति — यत् किमपि वयमिन्द्रविषयं जानीमस्तस्यात्यल्पत्वात् वयमिन्द्रं नैव जानीम इति वक्तव्यम् । को वा इन्द्रं जानीयात् । तस्य हि वीर्यकर्माणि अनुत्तमानि तेभ्यः श्रेष्ठानि कोऽपि न जानीते । तस्मिंश्च सर्वे देवाः शौर्यं प्रज्ञां बलानि च समुस्थानि [?] स्थापयामासुरिति कृत्वा स महान्ति वीर्यकर्माणि करोति तेषां च महीयस्त्वादल्पमतयो वयं तं न जानीम इति सम्बन्धः ॥
+
+*atredam uktaṃ bhavati — yat kim api vayam indraviṣayaṃ jānīmas tasyātyalpatvāt vayam indraṃ naiva jānīma iti vaktavyam | ko vā indraṃ jānīyāt | tasya hi vīryakarmāṇi anuttamāni tebhyaḥ śreṣṭhāni ko 'pi na jānīte | tasmiṃś ca sarve devāḥ śauryaṃ prajñāṃ balāni ca samusthāni [?] sthāpayām āsur iti kṛtvā sa mahānti vīryakarmāṇi karoti teṣāṃ ca mahīyastvād alpamatayo vayaṃ taṃ na jānīma iti sambandhaḥ ||*
+
+"Here this is what is said: whatever we may know of Indra is so very little that it should be said 'we do not know Indra at all'. Who indeed could know Indra? His deeds of prowess are unsurpassed; no one knows (deeds) greater than those. And since all the gods established (*sthāpayām āsuḥ*) valour, wisdom and strength in him, he performs great deeds of prowess; and because of their greatness, we of little understanding do not know him — so the connection runs." The Kannada explains: "that is, what we know about Indra is extremely little. Who, by himself, knows Indra well? No one. His deeds of daring are of the highest; no one has seen deeds that surpass them. Since in that Indra all the gods have established valour, wisdom, strength and similar powers and abilities, his deeds, full of valour, are exceedingly great, and so men of small understanding like us are not able to understand them — that is the chief sense."
+
+- **न यात् अधीमसि** — "the word *yāt*, formed from the root *yā*, is used in the sense of killing (*vadha*) —
+
+> आहेयातारं कमपश्य इन्द्र हृदि यत्ते जघ्नुषो भीरगच्छत् ।
+
+*āhe yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat |* (Ṛk. Saṃ. 1-32-[4] [?]) — *the opening words are read with doubt [?]. Gloss, mine and tentative:* "Whom did you see as an avenger of the serpent, O Indra, when fear entered your heart as you slew him?"
+
+— in the word *yātāram* in this Ṛk, as the example: 'Indra confronts all enemies; there is no one who can confront Indra, fight him and make him bow.' So Skandasvāmin explains the sense. *Sarvatra vyāpya vartamānam indram*: 'we, small people, cannot know Indra, who dwells pervading all places, in all quarters' — so Sāyaṇa explains."
+- **परः वीर्या** — "'Indra, by his own strength, dwells in a very distant place, which men cannot reach' is the sense. The word *paraḥ* is an indeclinable ending in *s*; it indicates 'very far'.
+
+> परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर्यदस्ति ।
+
+*paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (Ṛk. Saṃ. 10-[82]-[5] [?]) — *Gloss, mine and tentative:* "Beyond heaven, beyond this earth, beyond the gods and the Asuras — (that which) is."
+
+— in this Ṛk the word *paraḥ* is used in the sense stated above."
+
+### Page 612 (PDF 630)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.15, continued:*
+
+- **नृम्णम्** — "this word is stated among the twenty-eight names of strength (Ni. [2-9] [?]) and is also read among the twenty-eight names of wealth (Ni. [2-10] [?]). The meaning is that the gods have established wealth and strength in Indra in such a way as to be exceeding. Skandasvāmin explains that, in order that Indra may protect his own sovereignty with exceeding dignity, the gods have provided him with wealth, intellect, strength, and the force of an army known as the Marut deities."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.15)** *(grammar page, noted briefly)*
+
+- **यात्** — the root *yā prāpaṇe*; the affix *śatṛ* in the sense of *laṭ*; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; the form *yāt*; since the second-case singular follows, by "supāṃ suluk…" (Pā. Sū. 7-1-39) the *luk* of it; the root's accent remains.
+- **अधीमसि** — *adhi* is a preposition; the root *iṇ gatau*; *laṭ*, first person plural, the affix *masi* [Vedic]; by "adiprabhṛtibhyaḥ śapaḥ" the *luk* of *śap*; by "ido mase" [sic: "iden mases" as printed] (Pā. Sū. 7-1-46 [?]) the augment *i* for *masi*; by "hi ca" (Pā. Sū. 8-1-34) the nighāta is prohibited; by the initial udātta of the affix, the *ma* and the *a* following are udātta; by "tiṅ codāttavati" (तिङ्ङोदात्तवति, Pā. Sū. 8-1-71) the *gati* (*adhi*) takes anudātta.
+- **वीर्या** — the third-case singular of *vīrya*; "supāṃ suluk…" (Pā. Sū. 7-1-39) gives the substitute *ā*.
+- **दधुः** — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* [as printed; the *liṭ*-like form *dadhuḥ* is Vedic for the *laṅ*/*liṭ*] third person plural; nighāta accent since *atiṅanta* in the pāda. ||15||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 613 (PDF 631)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.16** *(the last Ṛk of the sūkta)*
+
+> यामथर्वा मनुष्पिता दध्यङ् धियमत्नत ।
+> तस्मिन्ब्रह्माणि पूर्वथेन्द्र उक्था समग्मतार्चन्ननु स्वराज्यम् ॥ १६ ॥
+
+*yām atharvā manuṣ pitā dadhyaṅ dhiyam atnata |
+tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> याम् । अथर्वा । मनुः । पिता । दध्यङ् । धियम् । अत्नत ।
+> तस्मिन् । ब्रह्माणि । पूर्वऽथा । इन्द्रे । उक्था । सम् । अग्मत ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ १६ ॥
+
+*yām | atharvā | manuḥ | pitā | dadhyaṅ | dhiyam | atnata | tasmin | brahmāṇi | pūrva-thā | indre | ukthā | sam | agmata | arcan | anu | sva-rājyam ||16||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.16** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अथर्वेतत्संज्ञक ऋषिः पिता सर्वासां प्रजानां पितृभूतो मनुश्च दध्यङ् अथर्वणः पुत्र एतत्संज्ञक ऋषिश्च यां धियमत्नत यत्कर्मातन्वत आकुर्वन् तस्मिन् कर्मणि यानि ब्रह्माणि हविर्लक्षणान्यन्नान्युक्था शस्त्ररूपाणि स्तोत्राणि च यानि सन्ति तानि सर्वाणि तस्मिन्निन्द्रे समग्मत । समगच्छन्त । तत्र दृष्टान्तः । पूर्वथा पूर्वेषामन्येषां वसिष्ठादीनां यज्ञेषु यथा सर्वाणि स्तोत्राणि चेन्द्रेण संगच्छन्ते तद्वत् । य इन्द्रः स्वराज्यं स्वस्य राज्यत्वमनु अर्चन् अनुपूजयन् वृत्रवधादिरूपेण कर्मणा स्वकीयमधिपतित्वं प्रकटयन्नित्यर्थः ॥ अत्नत । तनु विस्तारे । बहुलं छन्दसीति विकरणस्य लुक् । तनिपत्योश्छन्दसीत्युपधालोपः । पूर्वथा । प्रत्नपूर्वविश्वेमात्थाल् छन्दसि । पा. ५-३-१११ । इतीवार्थे पूर्वशब्दात्थाल्प्रत्ययः । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वम् । उक्था । शेश्छन्दसि बहुलमिति शेर्लोपः । समग्मत । समो गम्यृच्छिभ्यामित्यात्मनेपदम् । लुङि मन्त्रे घसेति च्लेर्लुक् । गमहनेत्यादिनोपधाया लोपः ॥
+
+*atharvetatsaṃjñaka ṛṣiḥ pitā sarvāsāṃ prajānāṃ pitṛbhūto manuś ca dadhyaṅ atharvaṇaḥ putra etatsaṃjñaka ṛṣiś ca yāṃ dhiyam atnata yat karmātanvata ākurvan tasmin karmaṇi yāni brahmāṇi havirlakṣaṇāny annāny ukthā śastrarūpāṇi stotrāṇi ca yāni santi tāni sarvāṇi tasminn indre samagmata | samagacchanta | tatra dṛṣṭāntaḥ | pūrvathā pūrveṣām anyeṣāṃ vasiṣṭhādīnāṃ yajñeṣu yathā sarvāṇi stotrāṇi cendreṇa saṃgacchante tadvat | ya indraḥ svarājyaṃ svasya rājyatvam anu arcan anupūjayan vṛtravadhādirūpeṇa karmaṇā svakīyam adhipatitvaṃ prakaṭayann ity arthaḥ || atnata | tanu vistāre | bahulaṃ chandasīti vikaraṇasya luk | tanipatyoś chandasīty upadhālopaḥ | pūrvathā | pratnapūrvaviśvemāt thāl chandasi | pā. 5-3-111 | itīvārthe pūrvaśabdāt thālpratyayaḥ | litsvareṇa pratyayāt pūrvasyodāttatvam | ukthā | śeś chandasi bahulam iti śer lopaḥ | samagmata | samo gamyṛcchibhyām ity ātmanepadam | luṅi mantre ghaseti cler luk | gamahanety ādinopadhāyā lopaḥ ||*
+
+*Sense:* "The ṛṣi called Atharvan — the father (*pitā*) of all creatures — and Manu, and Dadhyañc, the ṛṣi of that name, the son of Atharvan: the *dhī*, rite (*karma*), which they (*atnata*) performed (*ātanvata*, *ākurvan*) — in that rite whatever *brahmāṇi* there are — food in the form of oblation — and *ukthā*, praises in the form of śastras: all of them came together (*samagmata* = *samagacchanta*) in that Indra. There is an illustration (*dṛṣṭānta*): *pūrvathā* — as in the sacrifices of former ones, Vasiṣṭha and the others, all the praises and (oblations) go to Indra, so it is here. Indra, who, doing honour to his own sovereignty (*svarājyam anu arcan*), manifests his lordship by deeds such as the slaying of Vṛtra." *The grammatical tail:* *atnata* — the root *tanu vistāre*; by "bahulaṃ chandasi" the elision of the stem-marker (*vikaraṇa*); the penultimate dropped by "tanipatyoś chandasi"; *pūrvathā* — by "pratnapūrvaviśvemāt thāl chandasi" (Pā. 5-3-111) the affix *thāl* in the sense of 'like' after *pūrva*; by the *l*-accent the syllable before the affix is udātta; *ukthā* — the loss of *śi* by "śeś chandasi bahulam"; *samagmata* — by "samo gamyṛcchibhyām" the *ātmanepada*; in the *luṅ* in the mantra the *luk* of *cli* by "mantre ghasa…"; the penultimate dropped by "gamahana…".
+
+---
+
+**Progress note:** Printed pp. 1–613 done (PDF 19–631): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.15 complete** (Special Topics and grammar of 80.15 on pp. 611–612); **Rik 80.16** (the last Ṛk) — Saṃhitā, Pada and bhāṣya (p. 613) done; its Pratipadārtha, Bhāvārtha, English, Special Topics, grammar and the closing line of Sūkta 80 (the last sūkta of Volume 6), and whatever follows it, not yet seen. Next: p. 614 (PDF 632). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594, 611); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8, 80.12, 80.13 and the compressed clause in 80.9 read with doubt; the word *adhīmasi*/*snadhīmasi* in the bhāṣya of 80.15 (p. 610) read with doubt.
