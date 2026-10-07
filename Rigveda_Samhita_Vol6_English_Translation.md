@@ -12084,4 +12084,104 @@ revad asmabhyaṃ purvaṇīka dīdihi ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–542 done (PDF 19–560): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.4 complete** (grammar of 79.4 on p. 540); **Rik 79.5** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 541), Bhāvārtha, English, Special Topics (p. 542) done; its grammar page begins at the foot of p. 542 (*idhānaḥ*, mid-entry) and continues on p. 543 (PDF 561). Next: p. 543 (PDF 561). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 543 (PDF 561)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 79.5, continued from p. 542 (grammar page, noted briefly):*
+
+- **इधानः** (continued) — "…since the affix takes the mark *ñ* [?] (the print reads *j*), by 'aniditāṃ hala upadhāyāḥ kṅiti' (अनिदितां हल उपधायाः क्ङिति, Pā. Sū. 6-4-24) the penultimate nasal is dropped; the affix, being *c*-marked, is final-udātta by 'cituḥ' (चितः, Pā. Sū. 6-1-163)."
+- **ईळेन्यः** — the root *īḍa stutau* (ईड स्तुतौ); the affix *enya* of the Uṇādi group; the form *īḷenyaḥ*; by the accent of the affix the middle is udātta (*madhyodātta*) [?].
+- **गिरा** — the stem *gir*; third-case singular; by "sāvekācas tṛtīyādiḥ" (Pā. Sū. 6-1-168) the case-ending takes the udātta accent.
+- **रेवत्** — *rayi* is a word meaning wealth; in the sense 'this has *rayi*', the affix *matup* by "tad asyāsty asminn iti" (Pā. 5-2-94); by the statement "rayer matau bahulam" the *saṃprasāraṇa* of *rayi*: since two letters are found here that might undergo *saṃprasāraṇa*, the preceding one is blocked by "na saṃprasāraṇe saṃprasāraṇam" (न सम्प्रसारणे सम्प्रसारणम्, Pā. Sū. 6-1-37); by "igyaṇaḥ saṃprasāraṇam" (इग्यणः सम्प्रसारणम्) the *y* becomes *i*; then by "saṃprasāraṇāc ca" (Pā. 6-1-108) the single prior form; the *i* coming before the *a*-sound, by "āد guṇaḥ" (आद्गुणः) the guṇa; by "chandasīraḥ" (छन्दसीरः, Pā. Sū. 8-2-15) the *m* of *matup* becomes *v*; the form *revat*. *Matup*, being *p*-marked, would be anudātta, but by the statement "re-śabdāc ca matupa udāttatvaṃ vaktavyam" (Kā. 6-1-[166], vārttika 1 [?]) it takes the udātta.
+- **दीदिहि** — the root *dīdī dīptidevanayoḥ* (दीदी दीप्तिदेवनयोः); this is purely a Vedic root (*chāndasa*); it is listed as *dīdīṅ* (दीदीङ्) in the *adādi* group; *loṭ*, second person singular; *hi* in place of *sip*; because it has been declared *apit*, the guṇa of the *ik* of the root, which would be due to that (*apit*), does not arise; the accent is nighāta, since *atiṅanta* in the pāda. ||5||
+
+*Grammar noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.6**
+
+> क्षपो राजन्नुत त्मनाग्ने वस्तोरुतोषसः ।
+> स तिग्मजम्भ रक्षसो दह प्रति ॥ ६ ॥
+
+*kṣapo rājann uta tmanāgne vastor utoṣasaḥ |
+sa tigmajambha rakṣaso daha prati ||6||*
+
+### Page 544 (PDF 562)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> क्षपः । राजन् । उत । त्मना । अग्ने । वस्तोः । उत । उषसः ।
+> सः । तिग्मऽजम्भ । रक्षसः । दह । प्रति ॥ ६ ॥
+
+*kṣapaḥ | rājan | uta | tmanā | agne | vastoḥ | uta | uṣasaḥ | saḥ | tigma-jambha | rakṣasaḥ | daha | prati ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे राजन् राजनशीलाग्ने क्षपः क्षपय । राक्षसादीन् स्वकीयैः पुरुषैर्बाधस्व । उतापि च त्मना न केवलमन्यैरेवात्मना च तान्बाधस्व । कदेति चेत् उच्यते । वस्तोः सर्वाण्यहानि उतापि चोषसः उषःकालोपलक्षिता रात्रीः । अत्यन्तसंयोगे द्वितीया । सर्वेष्वहःसु सर्वासु रात्रिषु चेत्यर्थः । हे तिग्मजम्भ तीक्ष्णमुखाग्ने रक्षसो राक्षसानुक्तप्रकारेण क्षपयित्वा स एव त्वं प्रति दह । प्रत्येकं दह । न किंचिद्[?] इत्यर्थः ॥ क्षपः । क्षप क्षान्त्याम् [?] । लोडर्थे छान्दसो लङ् । छन्दस्युभयथेति शप आर्धधातुकत्वाण्णेरनिटीति णिलोपः । उदात्तनिवृत्तिस्वरेण शप उदात्तत्वम् । त्मना । मन्त्रेष्वाज्यादेरात्मन इत्याकारलोपः । रक्षसः । रक्ष पालने । रक्षितव्यमस्माद्दिति रक्षः । भीमादित्वात् । पा. ३-४-७४ [?] । अपादाने सिप्रत्ययः । स्वरतेर्वा ण्यन्तादसिप्रत्यये णिलोपो वर्णविपर्ययश्च । अस्य च रक्षः शब्दस्यासिप्रत्ययान्तत्वात्प्रत्ययस्वर एव शिष्यते ॥
+
+*he rājan rājanaśīlāgne kṣapaḥ kṣapaya | rākṣasādīn svakīyaiḥ puruṣair bādhasva | utāpi ca tmanā na kevalam anyair evātmanā ca tān bādhasva | kadeti cet ucyate | vastoḥ sarvāṇy ahāni utāpi coṣasaḥ uṣaḥkālopalakṣitā rātrīḥ | atyantasaṃyoge dvitīyā | sarveṣv ahaḥsu sarvāsu rātriṣu cety arthaḥ | he tigmajambha tīkṣṇamukhāgne rakṣaso rākṣasān uktaprakāreṇa kṣapayitvā sa eva tvaṃ prati daha | pratyekaṃ daha | na kiṃcid [?] ity arthaḥ || kṣapaḥ | kṣapa kṣāntyām [?] | loḍarthe chāndaso laṅ | chandasy ubhayatheti śapa ārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | udāttanivṛttisvareṇa śapa udāttatvam | tmanā | mantreṣv āṅyāder ātmana ity ākāralopaḥ | rakṣasaḥ | rakṣa pālane | rakṣitavyam asmād iti rakṣaḥ | bhīmāditvāt | pā. 3-4-74 [?] | apādāne si-pratyayaḥ | svarater vā ṇyantād asi-pratyaye ṇilopo varṇaviparyayaś ca | asya ca rakṣaḥ śabdasyāsi-pratyayāntatvāt pratyayasvara eva śiṣyate ||*
+
+*Sense:* "O king (*rājan*), O Agni, of the nature of shining, destroy (*kṣapaḥ* = *kṣapaya*) the Rākṣasas and the like; drive them off by your own men; and also by yourself (*tmanā*, i.e. *ātmanā*) drive them off — not by others only. When? — it is said: *vastoḥ* — on all days; *uta* — and also *uṣasaḥ* — in nights marked by the dawn-time (accusative of continuous duration, *atyantasaṃyoga*): on all days and in all nights. O *tigmajambha*, O Agni of sharp mouth, having destroyed the *rakṣas* in the manner stated, burn up, *prati daha* — burn each one — [nothing remaining? — the closing words are read with doubt]." *The grammatical tail:* *kṣapaḥ* — the root *kṣapa* [*kṣāntyām*?], a Vedic *laṅ* in the sense of *loṭ*; *śap*, as an *ārdhadhātuka*-like, the elision of *ṇi* by "ṇer aniṭi"; the udātta accent of *śap* by the accent rule *udāttanivṛtti*; *tmanā* — *ātmanā* with loss of *ā* in the mantras; *rakṣasaḥ* — the root *rakṣa pālane*: 'that which is to be guarded against' = *rakṣaḥ*; of the *bhīmādi* group (Pā. 3-4-74 [?]); the affix *si* in the sense of the ablative (*apādāna*) — or from the root *svar* in its causative, by the affix *asi*, with the *ṇi* dropped and a transposition of letters; since this word *rakṣaḥ* ends in the affix *asi*, the accent of the affix alone remains.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.6** *(Kannada)*
+
+- **राजन्** — "O shining (Agni)"
+- **अग्ने** — "O Agni"
+- **वस्तोः** — "on days (on all)"
+- **उत** — "and"
+- **उषसः** — "(also) in nights endowed with dawn-time"
+- **क्षपः** — "(from your side, through your men) destroy the Rākṣasas"
+- **उत** — "and"
+- **त्मना** — "yourself (also), (harass the Rākṣasas)"
+- **तिग्मजम्भ** — "O Agni of sharp mouth"
+- **सः** — "that very (you)"
+- **रक्षसः** — "destroy the Rākṣasas"
+- **प्रति दह** — "burn up each one."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.6** *(Kannada)*
+
+"O shining Agni, whether by day or by night, destroy the Rākṣasas, yourself or through your own men; O Agni of sharp mouth, you thoroughly burn up and destroy the Rākṣasas."
+
+### Page 545 (PDF 563)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**English Translation** *(printed in English in the source)*
+
+"Shining Agni, drive off (all disturbers of the rite), either by yourself or (your servants), whether by day or by night; sharp-visaged Agni, destroy the Rakshasas, entirely." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.6)**
+
+- **राजन्** — *prakāśamānanāda* — "shining. Agni is of the nature of always shining."
+- **क्षपः** — *kṣapaḥ kṣāntyām* [?] — "*kṣapaya, bādhasva*: injure, destroy."
+- **त्मना** — *ātmanā* — "by yourself — you also together (with them). Here, for the sake of the metre, the *a* of the word *ātmanā* is dropped, and only *tmanā* occurs. This word has been used in the same way in —
+
+> अव त्मना भरते केतवेदा अव त्मना भरते फेनमुदन् ।
+
+*ava tmanā bharate ketavedā ava tmanā bharate phenam udan |* (Ṛk. Saṃ. 1-[104]-3 [?]) — *Gloss, mine and tentative:* "By himself the finder of signs brings down; by himself he brings down the foam in the water." (Sense uncertain to me.)
+
+> जगृभ्मा दूरआदिशं श्लोकमद्रेरध त्मना ।
+
+*jagṛbhmā dūrā-ādiśaṃ ślokam adrer adha tmanā |* (Ṛk. Saṃ. 1-[139]-10 [?]) — *the words as read; the reading* dūra-ādiśam *is doubtful [?]. Gloss, mine and tentative:* "We have taken hold, by ourselves, of the far-reaching call (praise) of the stone [?]."
+
+> त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ।
+
+*tvaṃ vātair aruṇair yāsi śaṃgayas tvaṃ pūṣā vidhataḥ pāsi nu tmanā |* (Ṛk. Saṃ. 2-1-6 [?]) — *Gloss, mine and tentative:* "You go with the ruddy winds, bringer of good to the household; you, as Pūṣan, protect the worshipper of your own accord."
+
+> जातो आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
+
+*jāto āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (Ṛk. Saṃ. 3-[3]-10 [?]) — *Gloss, mine and tentative:* "Being born you filled the worlds, the two firmaments; O Agni, all these you encompass by yourself."
+
+> परि त्मना मितद्रुरेति होताग्निर्मन्द्रो मधुवचा ऋतावा ।
+
+*pari tmanā mitadrur eti hotāgnir mandro madhuvacā ṛtāvā |* (Ṛk. Saṃ. 4-[6]-[5] [?]) — *Gloss, mine and tentative:* "The Hotṛ Agni, of measured speed, goes round by himself, the joyous, sweet-speeched, the keeper of the *ṛta*."
+
+In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*."
+
+- **वस्तोः उषसः** — *vastoḥ sarvāṇy ahāni uṣaḥkālopalakṣitā rātrīś ca* — "*Vastoḥ* means days; and *uṣasaḥ* means nights characterised by the time of dawn: both by day and by night, that is. The word *vastoḥ* occurs among the twelve names of days (Ni. [1-9?] [?]). Though here the word *uṣasaḥ* indicates the time of dawn, the dawn-time that precedes sunrise belongs to the night-time; therefore the bhāṣyakāra says 'nights characterised by the dawn-time'. Or, since the word *uṣasaḥ* occurs in this Ṛk together with *vastoḥ*, a name of day, the general sense 'at day- and night-times' may be given."
+
+---
+
+**Progress note:** Printed pp. 1–545 done (PDF 19–563): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.5 complete** (grammar of 79.5 on pp. 542–543); **Rik 79.6** — Saṃhitā (p. 543), Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 544), English and Special Topics (p. 545) done; the grammar page of 79.6 not yet seen. Next: p. 546 (PDF 564) — grammar of 79.6, then Rik 79.7 (first of the Gāyatrī Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
