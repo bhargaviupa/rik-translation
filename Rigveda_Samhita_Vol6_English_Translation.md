@@ -10671,4 +10671,83 @@ Agni, on behalf of the sacrificer, goes out to the gods, knowing (whom is to be 
 
 ---
 
-**Progress note:** Printed pp. 1–494 done (PDF 19–512): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.2 complete (77.2: pp. 491–494). Next: p. 495 (PDF 513), **Rik 77.3** (its Saṃhitā heads p. 495 — view it first). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; "yajñasvyān" in the bhāṣya of 77.2 doubtful [?].
+### Page 495 (PDF 513)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.3** *(printed Ṛk "3 ||")*
+
+> स हि क्रतुः स मर्यः स साधुर्मित्रो न भूदद्भुतस्य रथीः ।
+> तं मेधेषु प्रथमं देवयन्तीर्विश उप ब्रुवते दस्ममारीः ॥ ३ ॥
+
+*sa hi kratuḥ sa maryaḥ sa sādhur mitro na bhūd adbhutasya rathīḥ |
+taṃ medheṣu prathamaṃ devayantīr viśa upa bruvate dasmam ārīḥ ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> सः । हि । क्रतुः । सः । मर्यः । सः । साधुः । मित्रः । न । भूत् । अद्भुतस्य । रथीः ।
+> तम् । मेधेषु । प्रथमम् । देवऽयन्तीः । विशः । उप । ब्रुवते । दस्मम् । आरीः ॥ ३ ॥
+
+*saḥ | hi | kratuḥ | saḥ | maryaḥ | saḥ | sādhuḥ | mitraḥ | na | bhūt | adbhutasya | rathīḥ | tam | medheṣu | prathamam | deva-yantīḥ | viśaḥ | upa | bruvate | dasmam | ārīḥ ||3||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 77.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> स ह्यग्निः क्रतुः कर्मणां कर्ता । स एव मर्यो मारयिता विश्वस्योपसंहर्ता साधुः साधयितोत्पादयिता । अपि स एवाद्भुतस्याभूतस्यालब्धस्य धनस्य रथीः रंहयिता प्रापयिता भूत् । भवति । तत्र दृष्टांतः । मित्रो न । यथा सखा धनानि प्रापयेति तद्वत् । एवंभूतो यो ऽग्निस्तमेव मेधेषु यज्ञेषु देवयन्तीर्देवयंतो देवानात्मन इच्छंत्यो विशः प्रजाः प्रथममुप ब्रुवते । स्तुतिभिरुपेत्य प्रधानभूत इति कथयंति । कीदृश्यो विशः । दस्मं दर्शनीयं तमग्निमारीर्गच्छंत्यः । भजंत्य इत्यर्थः ॥ मर्यः । मृङ् प्राणत्यागे । अस्मादंतर्भावितण्यर्थाच्छंदसि निष्टर्क्यदेवे इत्यादौ निपातनाद्यत् । कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तरि द्रष्टव्यः । यतोऽनाव इत्याद्युदात्तत्वं । देवयंतीः । वा छंदसीति पूर्वसवर्णदीर्घत्वं । आरीः । ऋ गतौ । जनिघसिभ्यामिण् । उ. [४-१२४?] । इति बहुलग्रहणादस्मादेसीण्प्रत्ययः । कृदिकाराद्क्तिनः इति जीष् । वा छंदसीति पूर्वसवर्णदीर्घत्वं । व्यत्ययेनाद्युदात्तत्वं ॥
+
+*sa hy agniḥ kratuḥ karmaṇāṃ kartā | sa eva maryo mārayitā viśvasyopasaṃhartā sādhuḥ sādhayitotpādayitā | api sa evādbhutasyābhūtasyālabdhasya dhanasya rathīḥ raṃhayitā prāpayitā bhūt | bhavati | tatra dṛṣṭāntaḥ | mitro na | yathā sakhā dhanāni prāpayeti tadvat | evaṃbhūto yo 'gnis tam eva medheṣu yajñeṣu devayantīr devayanto devān ātmana icchantyo viśaḥ prajāḥ prathamam upa bruvate | stutibhir upetya pradhānabhūta iti kathayanti | kīdṛśyo viśaḥ | dasmaṃ darśanīyaṃ tam agnim ārīr gacchantyaḥ | bhajantya ity arthaḥ || maryaḥ | mṛṅ prāṇatyāge | asmād antarbhāvitaṇyarthāc chandasi niṣṭarkyadeve ity ādau nipātanād yat | kṛtyalyuṭo bahulam iti bahulavacanāt kartari draṣṭavyaḥ | yato 'nāva ity ādyudāttatvaṃ | devayantīḥ | vā chandasīti pūrvasavarṇadīrghatvaṃ | ārīḥ | ṛ gatau | janighasibhyām iṇ | u. [4-124?] | iti bahulagrahaṇād asmād eṇ(?)-pratyayaḥ | kṛdikārād ktinaḥ iti ṅīṣ | vā chandasīti pūrvasavarṇadīrghatvaṃ | vyatyayenādyudāttatvaṃ ||*
+
+*(Reading note: the print is clear but small; "asmād eṇ(?)-pratyayaḥ" and "kṛdikārād ktinaḥ" are doubtful; the Uṇādi numeral is doubtful [?].)*
+
+*Meaning:* That Agni is the *kratu* — doer of rites; he is the *marya* — the destroyer, the withdrawer of all; he is the *sādhu* — the accomplisher, the producer; and he is the *rathī* — the one who brings (*raṃhayitā*) the wonderful (*adbhutasya*), unattained wealth, as a friend (*mitro na*) brings wealth. Such Agni the peoples (*viśaḥ*), desiring (*devayantīḥ*) the gods for themselves, first (*prathamam*) address (*upa bruvate*) in the sacrifices (*medheṣu*): coming with hymns they say, "he is chief." What kind of people? Those who go (*ārīḥ*) to the beautiful (*dasmam*) Agni — they worship him.
+
+**Grammatical tail** *(characterized)*: *maryaḥ* (root *mṛṅ prāṇatyāge*, causative sense included; *yat* by nipāta in the Vedic *niṣṭarkya-deva* and the like; in the agent sense by the *bahula* statement in *kṛtyalyuṭo bahulam*; initial acute by *yato 'nāvaḥ*); *devayantīḥ* (lengthening of the earlier similar vowel by *vā chandasi*); *ārīḥ* (root *ṛ gatau*; *iṇ* by *janighasibhyām iṇ*, Uṇ. [4-124?]; the feminine *ṅīṣ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada; continued on p. 496)*
+
+---
+
+### Page 496 (PDF 514)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Bhāṣya tail of Rik 77.3 (concluded):** *…vyatyayenādyudāttatvam* — as already given at the foot of p. 495.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 77.3** *(Kannada)*
+
+*saḥ hi* — he indeed (that Agni); *kratuḥ* — the performer of rites; *saḥ* — he; *maryaḥ* — the destroyer (of all things); *sādhuḥ* — the accomplisher; *saḥ* — he; *mitraḥ na* — like a friend; *adbhutasya* — of the unattained (wealth not obtained); *rathīḥ* — the giver; *bhūt* — becomes; *tam* — such (Agni); *medheṣu* — in the sacrifices; *devayantīḥ* — those who desire the gods (the worshippers); *dasmam ārīḥ* — and who worship the beautiful Agni; *viśaḥ* — the people; *prathamam* — first; *upa bruvate* — speak (praise).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni is the performer of sacrifices; he is the destroyer and the creator of all things; and, like a friend, he gives unattained wealth. Such a beautiful Agni is worshipped first by the people who, in the sacrifices, desire the gods.
+
+**English Translation** *(the source's own, as printed):*
+
+> For he is the performer of rites, he is the destroyer and reviver (of all things), and, like a friend, he is the donor of unattained wealth; all men reverencing the Gods, and approaching the well-looking Agni, repeat his name first in holy rites.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **स हि क्रतुः** — *sa hy agniḥ karmaṇāṃ kartā* — "that Agni is the one who carries out sacrificial and other rites. Agni is absolutely necessary for sacrifices and other rites; therefore Agni himself is of the form of the sacrifice."
+- **स मर्यः** — *sa eva mārayitā viśvasyopasaṃhartā* — "since Agni has the power to burn, he is able to destroy all."
+
+---
+
+### Page 497 (PDF 515)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 32".)*
+
+**Special Topics of Rik 77.3 (continued)**
+
+- **स साधुः** — *sādhayitā, utpādayitā* — "Agni is not only the doer of destruction but is able to produce all: since he is the chief cause of sacrifice and the like, and since rain comes from sacrifice and the like, and from rain the crops and the rest arise in succession, Agni is said to be the producer."
+- **मित्रो न अद्भुतस्य रथीः** — *yathā sakhā dhanāni prāpayati tadvad agnir api abhūtasyālabdhasya dhanasya raṃhayitā prāpayitā bhūt* — "as a friend gives wealth and the like to his friends in distress and helps them, so Agni gives wealth specially to those who praise him and protects them."
+- **मेधेषु** — "since *medhaḥ* is read among the fifteen names of sacrifice, *yajñaḥ*, *venaḥ* and so on (Ni. [3-17?]), *medheṣu* means 'in sacrifices'."
+- **मेधेषु प्रथमं देवयन्तीर्विश उप ब्रुवते** — "*devayantīḥ* means 'those who desire the gods to come to the sacrificial ground'. People of this kind — the sacrificers and the rest — when invoking the gods in sacrifices, praise Agni before all others. Since the other gods must be invoked through Agni, Agni has the chief place in the sacrifice. The sense is that they worship him first."
+- **दस्मम्** — "*dasmam* means *darśanīyam*: Agni, the beautiful."
+- **आरीः** — *ṛ gatau | ārīr gacchantyaḥ* — "those who approach and worship Agni. This word is an adjective of the word *viśaḥ*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 77.3, noted briefly; not transcribed)*
+
+Words treated: *maryaḥ* (root *mṛṅ prāṇatyāge*; since the sense of the causative is included, the *yat* affix by nipāta by *chandasi niṣṭarkyadevahūyapraṇīyonnīyoccheṣyamarya…*, Pā. [3-1-123]; by the *bahula* word in *kṛtyalyuṭo bahulam*, Pā. [3-3-113], it comes here in the agent sense; guṇa of the root's *i*… by *sārvadhātukārdhadhātukayoḥ*; *raparatva* by *uraṇ raparaḥ*; initial acute by *yato 'nāvaḥ*, Pā. [6-1-213]). *(Continued on p. 498.)*
+
+---
+
+**Progress note:** Printed pp. 1–497 done (PDF 19–515): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.2 complete; **Rik 77.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (up to *maryaḥ*) done (pp. 495–497). Next: p. 498 (PDF 516), the rest of the grammar page of 77.3; then Riks 77.4–77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the tail of the bhāṣya of 77.3 (p. 495) doubtful in places [?].
