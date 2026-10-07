@@ -9859,4 +9859,94 @@ O Agni! Who among men is a kinsman (befitting) to you? Who is the one who perfor
 
 ---
 
-**Progress note:** Printed pp. 1–461 done (PDF 19–479): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 75.1–75.2 complete; **Rik 75.3** (printed "3 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (p. 461, up to *agne*) done. Next: p. 462 (PDF 480), the rest of the grammar page of 75.3; then Rik 75.4–75.5 and the closing line of Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the middle of the bhāṣya of 75.3 (p. 460) garbled in the print [?].
+### Page 462 (PDF 480)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**Grammar page of Rik 75.3 (concluded; noted briefly)**
+
+*dāśvadhvaraḥ* (root *dāś dāne*; the *uṇ* affix in the agent... in the object sense by the strength of the *bahula* word in *uṇādayo bahulam*, Pā. [3-3-1]; the form *dāśu*; the affix's accent gives the final acute; "he by whom the sacrifice is given": a bahuvrīhi, so by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. [6-2-1], the first member keeps its natural accent; since *yaṇ* arises here in place of an udātta, by *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*, Pā. [8-2-4], a svarita accent comes). *asi* (root *as bhuvi*; *laṭ*, second person singular, *sip*; loss of the root's *s* [*a*] by *tāsasthyor…* (Pā. [6-4-?] as read); nighāta because it follows an *atijanta*). *śritaḥ* (root *śriñ sevāyām*; *kta* in the passive; the affix's accent gives the final acute). Ends "॥ ३ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.4** *(printed Ṛk "4 ||")*
+
+> त्वं जामिर्जनानामग्ने मित्रो असि प्रियः ।
+> सखा सखिभ्य ईड्यः ॥ ४ ॥
+
+*tvaṃ jāmir janānām agne mitro asi priyaḥ |
+sakhā sakhibhya īḍyaḥ ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> त्वम् । जामिः । जनानाम् । अग्ने । मित्रः । असि । प्रियः ।
+> सखा । सखिऽभ्यः । ईड्यः ॥ ४ ॥
+
+*tvam | jāmiḥ | janānām | agne | mitraḥ | asi | priyaḥ | sakhā | sakhi-bhyaḥ | īḍyaḥ ||4||*
+
+---
+
+### Page 463 (PDF 481)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 75.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे अग्ने त्वमुक्तप्रकारेणाचिंत्यरूपो ऽप्यनुग्रहीतृतया सर्वेषां जनानां जामिर्बंधुरसि । तथा प्रियः प्रीणयिता त्वं यजमानानां मित्रः प्रमीतेस्त्रायको ऽसि । ईड्यः स्तुतिभिः स्तुत्यस्त्वं सखिभ्यः समानख्यानेभ्य ऋत्विग्भ्यः सखा सखिवदेत्यंतं प्रियो ऽसि ॥ जामिः । जमु अदने । जमंति सहैकस्मिन्पात्रे ऽदंतीति जामयो बंधवः । जनिघसिभ्यामिण् । उ. [४-१२४?] । इति विधीयमान इण् बहुलवचनादस्मादपि द्रष्टव्यः । ईड्यः । ईड स्तुतौ । ईडवंदवृशंसदुहां ण्यते इत्यादि । आद्युदात्तत्वं ॥
+
+*he agne tvam ukta-prakāreṇācintyarūpo 'py anugrahītṛtayā sarveṣāṃ janānāṃ jāmir bandhur asi | tathā priyaḥ prīṇayitā tvaṃ yajamānānāṃ mitraḥ pramīter trāyako 'si | īḍyaḥ stutibhiḥ stutyas tvaṃ sakhibhyaḥ samānakhyānebhya ṛtvigbhyaḥ sakhā sakhivad ity antaṃ priyo 'si || jāmiḥ | jamu adane | jamanti sahaikasmin pātre 'dantīti jāmayo bandhavaḥ | janighasibhyām iṇ | u. [4-124?] | iti vidhīyamāna iṇ bahulavacanād asmād api draṣṭavyaḥ | īḍyaḥ | īḍa stutau | īḍavandavṛśaṃsaduhāṃ ṇyate ity ādi | ādyudāttatvaṃ ||*
+
+*(Reading note: "sakhā sakhivad ity antaṃ" and "samānakhyānebhya" are read as printed and are compressed [?]; the Uṇādi numeral is doubtful [?].)*
+
+*Meaning:* O Agni, though your form is inconceivable, in the way that has been said, being a bestower of grace you are the *jāmi* — the kinsman — of all people; and dear (*priyaḥ*), gratifying, you are the friend (*mitraḥ*) of sacrificers, a saviour from death; praised (*īḍyaḥ*) with hymns, you are the companion (*sakhā*) of the priests who are your "companions" (*sakhibhyaḥ*) of the same name — a dear one like a friend.
+
+**Grammatical tail** *(characterized)*: *jāmiḥ* (root *jamu adane*, "they eat together in one vessel, kinsmen"; the *iṇ* affix of *janighasibhyām iṇ*, Uṇ. [4-124?], to be seen here too by the *bahula* statement); *īḍyaḥ* (root *īḍa stutau*; *ṇyat* by *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*, Pā. [3-1-?]; initial acute).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *tvam* — you (inconceivable in form, as said before); *janānām* — to the people (as bestowing grace); *jāmiḥ asi* — you are a kinsman; *priyaḥ mitraḥ* — a dear friend; *īḍyaḥ* — praised (with hymns); *sakhibhyaḥ* — to the priests; *sakhā* — a friend.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+(Though inconceivable in form, as said above, and gracious,) you are a kinsman to the people, a dear friend, praised, and a friend to the priests.
+
+**English Translation** *(the source's own, as printed):*
+
+> But, O Agni, you are a kinsman to the people, a dear friend, a praiseworsty [sic] companion amongst (all) companions (or a friend to the priests).
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "The chief purport: in the preceding Ṛk it was said that there is no one who is a kinsman to Agni; there the word *bandhu* must be taken in the sense 'one of like qualities'. Among kinsmen there must naturally be like qualities. But since there is no one with qualities like those of Agni, the sage says that, by way of question in another manner, there is no man fit for kinship with him. In this Ṛk he says that Agni is a kinsman to the people. If one asks whether this is not contradictory — it is not so. Among kinsmen there must be another quality: kinsmen love each other, and become partners in each other's hardships and pleasures — this is the mark of kinship. Agni also, desiring the welfare of people, fulfils the desired ends of those who praise him —" *(continued on p. 464)*
+
+---
+
+### Page 464 (PDF 482)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 75".)*
+
+**Special Topics of Rik 75.4 (concluded)**
+
+- *(Continuation:)* "…and does favour to them. From this point of view Agni is said in this Ṛk to be a kinsman to the people. To make this sense clear the words *mitra*, *priya* and *sakhā* are used."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 75.4, noted briefly; not transcribed)*
+
+Words treated: *jāmiḥ* (root *jamu adane*; "those who eat together in one vessel are kinsmen"; the *iṇ* affix prescribed by *janighasibhyām iṇ*, Uṇ. [4-124?], applies here too since *bahula* is read in the Uṇādi; since it is *ṇit*, vṛddhi of the penultimate by *ata upadhāyāḥ*; the affix's accent gives the final acute). *īḍyaḥ* (root *īḍa stutau*, Adādi; *ṇyat* by *ṛhaloṇyat*, Pā. [3-1-124]; by *īḍavandavṛśaṃsaduhāṃ ṇyataḥ*, Pā. [6-1-214], the *tit*-svarita is set aside and the initial acute stands). Ends "॥ ४ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 75.5** *(the last Ṛk of the sūkta; printed "5 ||")*
+
+> यजा नो मित्रावरुणा यजा देवाँ ऋतं बृहत् ।
+> अग्ने यक्षि स्वं दमम् ॥ ५ ॥
+
+*yajā no mitrāvaruṇā yajā devāṃ ṛtaṃ bṛhat |
+agne yakṣi svaṃ damam ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यज । नः । मित्रावरुणा । यज । देवान् । ऋतम् । बृहत् ।
+> अग्ने । यक्षि । स्वम् । दमम् ॥ ५ ॥
+
+*yaja | naḥ | mitrāvaruṇā | yaja | devān | ṛtam | bṛhat | agne | yakṣi | svam | damam ||5||*
+
+*(Reading note: the Saṃhitā prints "यजा" with the final *a* lengthened before the following word (*yajā no*, *yajā devāṃ*), as the Pada's *yaja* implies; accents not reproduced.)*
+
+---
+
+**Progress note:** Printed pp. 1–464 done (PDF 19–482): Sūktas 62–74 complete. **Sūkta 75** (five Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 75.1–75.4 complete (75.4: pp. 462–464); **Rik 75.5** (the last; printed "5 ||") — Saṃhitā and Pada done (p. 464). Next: p. 465 (PDF 483), the Sāyaṇa-bhāṣya of Rik 75.5 and the rest of its treatment, then the closing line of Sūkta 75 — which completes Sūkta 75. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 75.4 (p. 463) compressed and doubtful in places [?].
