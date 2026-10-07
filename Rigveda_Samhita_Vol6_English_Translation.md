@@ -4301,4 +4301,65 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–215 done (PDF 19–233): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1–67.3 complete; **Rik 67.4** (half-Ṛks 7–8) — Saṃhitā and Pada only (p. 215). Next: p. 216 (PDF 234), the bhāṣya of Rik 67.4; then Rik 67.5 and the closing line of Sūkta 67; then Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Taittirīya quotations in 67.3 and the grammar page's first lines (*dādhāra*) [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 216 (PDF 234)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(read at 150 dpi; several small readings doubtful [?])*
+
+> **यः पुमान् ईमेनं गुहा भवन्तं गुहायां सन्तमग्निं चिकेत जानाति । यश्च ऋतस्य सत्यस्य यज्ञस्य वा धारां धारयितारमेनमग्निना ससाद आसीदति । उपास्त इत्यर्थः । ये च ऋता ऋतानि सत्यानि यज्ञान्वा सपन्तः समवयन्तः स्पृशन्तो वा पुरुषा एतमग्निं वि चृतन्ति अग्निमुद्दिश्य स्तुतीर्ग्रथ्नन्ति । कुर्वन्तीत्यर्थः । आदित् स्तुत्यनन्तरमेवास्मै सर्वस्मै स्तोत्रेजनायु वसूनि धनानि प्र ववाच । प्रकथयति ॥ चिकेते । कित ज्ञाने । लिट् णलि लिट्स्वरः । चृतन्ति । चृती हिंसाग्रन्थनयोः । तौदादिकः । लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते । ववाच । लिटि ब्रुवो वचिः । लिट्यभ्यासस्योभयेषाम् । पा. ६-१-१७ [?] इत्यभ्यासस्य संप्रसारणम् । संप्रसारणाच्चेति परपूर्वत्वस्य वा छन्दसि । पा. ६-१-१०६ [?] इति विकल्पनाद्यणादेशः ॥**
+> *yaḥ pumān īm enaṃ guhā bhavantaṃ guhāyāṃ santam agniṃ ciketa jānāti | yaś ca ṛtasya satyasya yajñasya vā dhārāṃ dhārayitāram enam agniṃ sasāda āsīdati | upāsta ity arthaḥ | ye ca ṛtā ṛtāni satyāni yajñān vā sapantaḥ samavayantaḥ spṛśanto vā puruṣā etam agniṃ vi cṛtanti agnim uddiśya stutīr grathnanti | kurvantīty arthaḥ | ād it stutyanantaram evāsmai sarvasmai stotrejanāyu vasūni dhanāni pra vavāca | prakathayati || cikete | kita jñāne | liṭ ṇali liṭsvaraḥ | cṛtanti | cṛtī hiṃsāgrathanayoḥ | taudādikaḥ | lasārvadhātukānudāttatve vikaraṇasvaraḥ śiṣyate | vavāca | liṭi bruvo vaciḥ | liṭy abhyāsasyobhayeṣām | Pā. 6-1-17 [?] ity abhyāsasya saṃprasāraṇam | saṃprasāraṇāc ceti parapūrvatvasya vā chandasi | Pā. 6-1-106 [?] iti vikalpanād yaṇādeśaḥ ||*
+> *"The man who **ciketa** — knows — **īm**, this Agni **guhā bhavantam**, who is in the cave; and who **ā sasāda** — approaches, sits near, serves — this Agni, **ṛtasya dhārām**, the upholder of the truth, i.e. of the sacrifice; and the men who, **ṛtā sapantaḥ**, serving the truths, or the sacrifices — approaching or touching — **vi cṛtanti** this Agni, i.e. string together (compose) praises directed to Agni; **ād it**, immediately after the praise, [Agni] **pra vavāca**, declares, **vasūni**, riches, to this whole host of singers. **Ciketa**: root *kita jñāne*; *liṭ*, the *liṭ*-accent after *ṇal*. **Cṛtanti**: root *cṛtī hiṃsāgrathanayoḥ*, of the *tudādi* class; since the *laṭ*-sārvadhātuka is unaccented, the vikaraṇa accent remains. **Vavāca**: *vac* for *brū* in the *liṭ*; by 'liṭy abhyāsasyobhayeṣām' (Pā. 6-1-17, as read, ?) *samprasāraṇa* of the reduplicative syllable; *yaṇ* optionally by 'samprasāraṇāc ca' [optionality in the Veda, Pā. 6-1-106, as read, ?]."* *(Grammar tail characterized.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**यः** — whoever; **ईम्** — this Agni; **गुहा भवन्तम्** — dwelling in a cave; **चिकेते** — knows; **यः (च)** — and whoever; **ऋतस्य** — of truth; **धाराम्** — the support; **आ ससाद** — worships; **ये (च)** — and those who; **ऋता** — truths (sacrifices); **सपन्तः** — those who rely on; **वि चृतन्ति** — compose praises [directed at Agni]; **अस्मै** — to this host of singers; **आत् इत्** — immediately after the praise; **वसूनि** — riches; **प्र ववाच** — he gives.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, knowing that he who is hidden is the support of truth, of sacrifice — to those who have performed sacrifices and praise him by composing hymns for him, he gives wealth and the like.
+
+**English Translation** *(the source's own, as printed):*
+
+> He who knows Agni hidden in the cave ; he who approaches him who is the maintainer of sacrifice, those who, after performing a sacrifice, praise him, to them he, forsooth, promises affluence.
+
+---
+
+### Page 217 (PDF 235)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **ऋतस्य धाराम्** — *yajñasya satyasya vā dhārayitāram* — "Sāyaṇa says that the word *dhārā* means 'one who upholds the sacrifice or truth'. Skandasvāmin gives the meaning of the word *dhārā* as 'speech in the form of praise', and of the word *ṛtasya*, 'of one who is [hidden] out of sight'."
+- Sāyaṇa takes **ऋता सपन्तः** — *satyāni yajñān vā sapantaḥ samavayantaḥ spṛśanto vā*, and **आदित्** — *stutyanantarameva* — "and explains the meanings of *ṛtā sapantaḥ* and *ād it*. Skandasvāmin says that the words *sapantaḥ ād it* are *pādapūraṇa* (metrical fillers), and that *vasūni pra vavāca* means '*yuṣmabhyam etāni dhanāni*' — Agni, coming of his own accord to those who serve him, says with insistence 'this wealth is ready for you'." *(Compressed; read doubtfully [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 67.4 (noted briefly).** **चिकेत**: root *kita jñāne*; *liṭ*, third person singular; by "parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ" *ṇal* in the ending's place [the print gives the *ātmanepada* form *ciketa*; as read]; the doubling of the root because of *liṭ*; in the reduplicative syllable only the first consonant remains; by "kuhoś cuḥ" *c* for *k*; because the affix conditions it, *guṇa* of the light penultimate; the form *ciketa*; since *ṇal* is *l*-marked, by "liti" the syllable before the affix is acute; since *yaḥ* precedes, by "yad vṛttān nityam" the *nighāta* is prohibited. **गुहा**: with the locative singular following, the case-ending becomes *ā* by "supāṃ sulug…". **ससाद**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; in the *liṭ*, third person singular, the form *sasāda*; here too, the *nighāta* is prevented by the connection with *yaḥ*, and by "liti" the syllable before the affix is acute. **चृतन्ति**: root *cṛtī hiṃsāgranthanayoḥ*; in the third person plural of the *tudādi* conjugation, *jhi* → *ant* by "jho 'ntaḥ"; the vikaraṇa *śa* by "tudādibhyaḥ śaḥ"; since non-*p*-marked, by "sārvadhātukam apit" it is *ñit*-like, so no *laghūpadha-guṇa*; since the *laṭ*-sārvadhātuka follows a stem with the *upadeśa* accent, it is unaccented by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam"; the vikaraṇa accent remains; since *ye* precedes, the *nighāta* is prohibited.
+
+---
+
+### Page 218 (PDF 236)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**Grammar page for Rik 67.4, concluded (noted briefly).** **ऋता**: in the neuter accusative plural, the *śi* substituted for *śas* is lost by "śeś chandasi bahulam". **ववाच**: root *brūñ vyaktāyāṃ vāci*; in the *liṭ*, by "bruvo vaciḥ" (Pā. Sū. 2-4-53, as read) *vac* in the root's place; by "liṭi" [as read] the doubling of the root; the reduplicative syllable keeps the first consonant; by "liṭy abhyāsasyobhayeṣām" (Pā. Sū. 6-1-17, as read) *samprasāraṇa* occurs in the reduplicative syllable of the roots *vac* etc. and of the roots *grah* etc. when *liṭ* follows; by "samprasāraṇāc ca" the following-form would arise, but by "vā chandasi" (Pā. Sū. 6-1-106, as read) it is optional in the Veda, so does not come here; with *u + a + vac*, by the *yaṇ* substitute *v* for the *u*; by "ata upadhāyāḥ" *vṛddhi* of the penultimate; the form *vavāca*; the *nighāta* accent of a verb. **॥ ७–८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 67.4 ends here (ornamental rule).*
+
+#### Rik 67.5 *(printed "9 || 10 ||" — the last Rik of Sūkta 67)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **वि यो वीरुत्सु रोधन्महित्वोत प्रजा उत प्रसूष्वन्तः ।**
+> **चित्तिरपां दमे विश्वायुः सद्मेव धीराः संमाय चक्रुः ॥ ९ ॥ १० ॥**
+> *vi yo vīrutsu rodhan mahitvota prajā uta prasūṣv antaḥ |*
+> *cittir apāṃ dame viśvāyuḥ sadmeva dhīrāḥ saṃmāya cakruḥ || 9 || 10 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **वि । यः । वीरुत्ऽसु । रोधत् । महिऽत्वा । उत । प्रऽजाः । उत । प्रऽसूषु । अन्तः ।**
+> **चित्तिः । अपाम् । दमे । विश्वऽआयुः । सद्मऽइव । धीराः । सम्ऽमाय । चक्रुः ॥ ९ ॥ १० ॥**
+> *vi | yaḥ | vīrut-su | rodhat | mahi-tvā | uta | pra-jāḥ | uta | pra-sūṣu | antar iti |*
+> *cittiḥ | apām | dame | viśva-āyuḥ | sadma-iva | dhīrāḥ | saṃ-māya | cakruḥ || 9 || 10 ||*
+
+*(The print's Pada reads the last word of the first line as "अन्तरिति" [*antar iti*, with the *iti* of a Pada-ending]; given as printed.)*
+
+---
+
+**Progress note:** Printed pp. 1–218 done (PDF 19–236): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 67.1–67.4 complete; **Rik 67.5** (the last) — Saṃhitā and Pada only (p. 218). Next: p. 219 (PDF 237), the bhāṣya of Rik 67.5, then its remaining parts and the closing line of Sūkta 67; then Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the bhāṣya of 67.4 and Skandasvāmin's note (pp. 216–217) read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
