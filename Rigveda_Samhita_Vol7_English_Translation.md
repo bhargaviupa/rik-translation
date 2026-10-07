@@ -196,4 +196,88 @@ asi dabhrasya cid vṛdho yajamānāya śikṣasi sunvate bhūri te vasu ||2||*
 
 ---
 
-**Progress note:** Printed pp. 1–6 done (PDF 16–21) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): **Rik 81.1 complete** (grammar pp. 5–6); **Rik 81.2** — Saṃhitā and Pada (p. 6) done. Next: printed p. 7 (PDF 22) — bhāṣya of 81.2. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful.
+### Page 7 (PDF 22)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.2** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे वीर शत्रुक्षेपणकुशलेन्द्र त्वं सेन्योऽसि सेनारोहो भवसि । त्वमेकोऽपि सेनासदृशो भवसीत्यर्थः । हि यस्मादेवं तस्माद्भूरि प्रभूतं शत्रूणां धनं पराददिः पराङ्मुखं यथा भवति तथा आदाताऽसि भवसि । दभ्रस्य चित् अल्पनाम्नैतत् । अल्पस्यापि तव स्तोतुर्वृधो वर्धयिताऽसि । तथा यजमानाय यागं कुर्वते सुन्वते सोमाभिषवं कुर्वते पुरुषाय शिक्षसि अपेक्षितं धनं ददासि । शिक्षतिर्दानकर्मा । यस्मात्ते तव वसु धनं भूरि बहुलमक्षयं धनं विद्यते । तस्माद्ददासीति भावः ॥ पराददिः । डुदाञ् दाने । आद्गमहनजन इति किप्रत्ययः । लिट्वद्भावाद्द्विर्वचने ह्रस्वत्वम् । आतो लोप इटि चेत्याकारलोपः । वृधः । वृधेरंतर्भावितण्यर्थादिगुपधलक्षणः कः । सुन्वते । शतुरनुम इति विभक्तेरुदात्तत्वम् ॥ २ ॥
+
+*he vīra śatrukṣepaṇakuśalendra tvaṃ senyo 'si senāroho bhavasi | tvam eko 'pi senāsadṛśo bhavasīty arthaḥ | hi yasmād evaṃ tasmād bhūri prabhūtaṃ śatrūṇāṃ dhanaṃ parādadiḥ parāṅmukhaṃ yathā bhavati tathā ādātā 'si bhavasi | dabhrasya cit alpanāmaitat | alpasyāpi tava stotur vṛdho vardhayitā 'si | tathā yajamānāya yāgaṃ kurvate sunvate somābhiṣavaṃ kurvate puruṣāya śikṣasi apekṣitaṃ dhanaṃ dadāsi | śikṣatir dānakarmā | yasmāt te tava vasu dhanaṃ bhūri bahulam akṣayaṃ dhanaṃ vidyate | tasmād dadāsīti bhāvaḥ || parādadiḥ | ḍudāñ dāne | ādgamahanajana iti kipratyayaḥ | liḍvadbhāvād dvirvacane hrasvatvam | āto lopa iṭi cety ākāralopaḥ | vṛdhaḥ | vṛdher antarbhāvitaṇyarthād igupadhalakṣaṇaḥ kaḥ | sunvate | śatur anuma iti vibhakter udāttatvam || 2 ||*
+
+*Sense:* "O hero, Indra, skilled in hurling (down) enemies: you are *senya* — fit for an army; (that is) you alone are like an army. Since that is so, you are *parādadiḥ* — one who takes much (*bhūri*) wealth of enemies in such a way that they are turned away (*parāṅmukha*). *Dabhrasya cit* — *dabhra* is a name for 'small': even of a small (poor) worshipper of yours you are the *vṛdhaḥ*, the increaser. Likewise to the sacrificer who performs the sacrifice, who presses Soma (*sunvate*), you give (*śikṣasi* — *śikṣati* is a verb of giving) the wealth he wants; because your wealth (*vasu*) is plentiful, inexhaustible; therefore you give." *The grammatical tail:* *parādadiḥ* — root *ḍudāñ dāne* with the affix *ki* by "ādgamahanajana…", reduplication by *liḍvadbhāva*, shortened; the *ā* dropped by "āto lopa iṭi ca"; *vṛdhaḥ* — from the root *vṛdh* (with an implied causative sense) the affix *ka* (as for roots with a penultimate short vowel (*igupadha*)); *sunvate* — the case-ending udātta by "śatur anuma…".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.2** *(Kannada)*
+
+- **वीर** — "O Indra, endowed with valour"
+- **सेन्यः असि** — "you have the strength of a great army (you fight as an army)"
+- **हि** — "because of that"
+- **भूरि** — "(of the enemies) very abundant wealth"
+- **पराददिः** — "you take as plunder and give (to us)"
+- **असि** — "you are"
+- **दभ्रस्य चित्** — "even of a small one — your praiser"
+- **वृधः** — "the one who causes increase"
+- **असि** — "you are"
+- **यजमानाय** — "to the sacrificer"
+- **सुन्वते** — "who presses Soma juice"
+- **शिक्षसि** — "you give (the wealth desired). (Why?)"
+- **ते** — "to you"
+- **वसु** — "wealth"
+- **भूरि** — "is abundant."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.2** *(Kannada)*
+
+"O valorous Indra, though you are alone, you are as strong as a great army. You plunder the enemies' wealth and give it to us. You cause even your small praiser to prosper. Since you have abundant wealth, you give the sacrificer who presses Soma juice and offers it the wealth he desires."
+
+**English Translation** *(printed in English in the source)*
+
+"O Indra, you are a hero, you have the strength of an army ; you are the giver of much booty ; though your worshipper is humble you make him great and you bestow riches upon the sacrificer who offers you Soma-libations ; for your wealth is abundant." — as printed.
+
+### Page 8 (PDF 23)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.2)**
+
+- **सेन्यः** — *senārhaḥ* — "'You alone are a match for a whole army' — the sense is that the strength of an entire army is in Indra alone."
+- **भूरि** — "*bahala* — much, abundant."
+- **पराददिः** — *ḍudāñ dāne* — "*parasya ādātā*: one who gives the wealth that is with the enemies; that is, because Indra, pleased by our praises, brings us victory in battle, the wealth of those enemies comes to us."
+- **दभ्रस्य** — *alpasya* — "of a small one, of one who is not great, of one who is not famous. The word *dabhra* is read among the thirteen names of the small beginning *ṛhan, hrasvaḥ*." *(the first words of the list, "ṛhan, hrasvaḥ", as read.)*
+- **शिक्षसि** — "since the word *śikṣati* is read among the ten names of the act of giving beginning *dāti, dāśati*, *śikṣasi* means 'you give' (Ni. [3-?] [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.2)** *(grammar page, noted briefly; runs to p. 9)*
+
+- **पराददिः** — the root *ḍudāñ dāne*, *juhotyādi*, *ubhayapadī*; *parā* is a preposition; by "ādgamahanajanaḥ kikinau liṭ ca" (आदृगमहनजनः किकिनौ लिट् च, Pā. Sū. 3-2-171) the affixes *ki* and *kin* come after *ā*-ending roots, *ṛ*-ending roots, and *gam, han, jan* in the Veda, and they have the properties of *liṭ*; here, because the root *dā* ends in *ā*, *ki* comes; the *k* of *ki* is dropped as a mark ("lakṣaṇa…"); since it has the *liṭ* property, reduplication of the root; "hrasvaḥ" (Pā. Sū. 7-4-59) shortens the reduplicative; with *dadā + i*, by "āto lopa iṭi ca" (Pā. Sū. 6-4-64) the *ā* is dropped before an *ārdhadhātuka* vowel-initial *kit/ṅit*; being *kṛdanta*, it has the designation *prātipadika*; first-case singular.
+- **वृधः** — the root *vṛdhu vṛddhau*, *bhvādi*; some roots contain the causative sense within themselves though they have no *ṇic* — they are called *antarbhāvitaṇyartha* roots; the root *vṛdh* is also to be taken thus here, according to the context, as 'the one who makes increase'. By "igupadhajñāprīkiraḥ kaḥ" (इगुपधज्ञाप्रीकिरः कः, Pā. Sū. 3-1-135) the affix *ka* after a root with an *ik* penultimate, and after *jñā, prī, kir* *(continued on p. 9)*
+
+### Page 9 (PDF 24)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 81.2, continued from p. 8:*
+
+- **वृधः** (continued) — "…*upadhā* means, by "alo 'ntyāt pūrva upadhā" (अलोऽन्त्यात्पूर्व उपधा, Pā. Sū. 1-1-65), the letter before the last. Here the *ṛ* (an *ik*) is the *upadhā*, so the affix *ka* comes. The *a* is dropped (before *ka*); what remains is *a*; since *ka* is *k*-marked, "kṅiti ca" (क्ङिति च, Pā. Sū. 1-1-5) prohibits guṇa for the *ṛ* of the root."
+- **सुन्वते** — the root *suñ abhiṣave*, *svādi*; after it, *śatṛ* by "laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe" (Pā. Sū. 3-2-124); since *ś* is a mark, *śnu* (the stem-marker) comes; for the *svādi* group *śnu*; as *kṛdanta* it has the *prātipadika* designation. Placed before *sunvat*, fourth-case singular. Here, by "anudāttau suppitau" (Pā. Sū. 3-1-4) the case-ending would be anudātta, but the exception "śatur anumo nadyajādī" (शतुरनुमो नद्यजादी, Pā. Sū. 6-1-173) says that after a *śatṛ* without *num* (here there is no *num*) the case-endings beginning with a vowel after the final-udātta word, such as *śas* and the rest, are udātta; since here *num* is absent, by the affix-accent the final is udātta; hence the fourth-case singular (*ṅe*), being vowel-initial, is udātta. ||2||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.3**
+
+> यदुदीरत आजयो धृष्णवे धीयते धना ।
+> युक्ष्वा मदच्युता हरी कं हनः कं वसौ दधोऽस्माँ इन्द्र वसौ दधः ॥ ३ ॥
+
+*yad udīrata ājayo dhṛṣṇave dhīyate dhanā |
+yukṣvā madacyutā harī kaṃ hanaḥ kaṃ vasau dadho 'smāṁ indra vasau dadhaḥ ||3||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> यत् । उत्ऽईरते । आजयः । धृष्णवे । धीयते । धना ।
+> युक्ष्व । मदऽच्युता । हरी इति । कम् । हनः । कम् । वसौ । दधः ।
+> अस्मान् । इन्द्र । वसौ । दधः ॥ ३ ॥
+
+*yat | ut-īrate | ājayaḥ | dhṛṣṇave | dhīyate | dhanā | yukṣva | mada-cyutā | harī iti | kam | hanaḥ | kam | vasau | dadhaḥ | asmān | indra | vasau | dadhaḥ ||3||*
+
+---
+
+**Progress note:** Printed pp. 1–9 done (PDF 16–24) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.2 complete**; **Rik 81.3** — Saṃhitā and Pada (p. 9) done. Next: printed p. 10 (PDF 25) — bhāṣya of 81.3. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful.
