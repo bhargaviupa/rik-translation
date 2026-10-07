@@ -8717,4 +8717,72 @@ O Agni! Protected by you, may we destroy the enemies' horses by our horses, thei
 
 ---
 
-**Progress note:** Printed pp. 1–420 done (PDF 19–438): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.8 complete (73.8's grammar page ends p. 418); **Rik 73.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 418–420) done; the Special Topics may continue on p. 421; the grammar page of 73.9 not yet seen. Next: p. 421 (PDF 439). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya reference numerals on p. 420 and the Ṛgveda citations doubtful, glosses mine and tentative [?].
+### Page 421 (PDF 439)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**Special Topics of Rik 73.9 (concluded)**
+
+- **अर्वद्भिः अर्वतः, वीर्यैः वीरान्, नृभिः नॄन् वनुयामः** — "O Agni, protected by you, may we subdue the enemies in many ways and destroy them: such is the prayer expressed here. The root is *vanu*. *Vanuṣyatir hiṃsākarmānavagatasaṃskāro bhavati* (Ni. [3-2?]): Yāska has explained it as one which conveys the sense of killing (*hanana*)."
+- **नः शतहिमाः व्यश्युः** — *asmākaṃ putrāḥ śatasaṃvatsarān jīvantaḥ viśeṣeṇa bhuñjatām* — "may our sons, living a hundred years, enjoy exceeding lordship: the prayer is made here to Agni."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.9, noted briefly; not transcribed)*
+
+Words treated: *arvadbhiḥ* (root *ṛ gatau*; the affix *vanip* by *anyebhyo 'pi dṛśyante*, Pā. [3-2-75]; guṇa of the root, *raparatva*; the form *arvan*; before *bhis*, the final changed to *t* by *arvaṇas tṛ… *[as read: *arvaṇas tṛ asāvanañaḥ*, Pā. [6-4-127]]). *vanuyāma* (listed in the root-list as "*vanu ca noktyate*" [as read]; because of the many senses of roots one cannot determine this sense alone; the Nirukta, as explained earlier, gives the sense "to kill"; *vidhiliṅ*, first person plural; nighāta because it follows an *atijanta*). *tvotāḥ* ("*tvayā ūtāḥ*"; *yuṣmad* denotes a single person; before the second member, *tva* substitution for the end of *yuṣmad* by *pratyayottarapadayoś ca*, Pā. [7-2-98]; loss of *a* by *śeṣe lopaḥ*; *ā* for the *ā* by *vyatyaya*; the first member's natural accent by *tṛtīyā karmaṇi*). *īśānāsaḥ* (before *jas*, *asuk* by *ajjhasor asuk*). *pitṛvittasya* ("*pitrā vittaḥ tasya*"; its process was explained in the first mantra of the seventy-third sūkta). *rāyaḥ* (the stem *rai*; genitive singular; the ending acute by *ūḍidaṃpadādi…*). *śatahimāḥ* ("here *hima* denotes, by implication, the winter season, which has snow; the same usage is found in the Brāhmaṇa: *śataṃ himā ity āha śataṃ tvā hemantān dhiṣīya* (Tai. Saṃ. [1-?-?]); *śataṃ himāḥ śataṃ hemantair vo yeṣāṃ te* — 'those who live a hundred years'"; by *bahuvrīhau prakṛtyā pūrvapadam* the first member keeps its natural accent). *(The grammar page continues on p. 422.)*
+
+---
+
+### Page 422 (PDF 440)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.9 (concluded; noted briefly)**
+
+*śatahimāḥ* (concluded): the first member keeps its natural accent. *aśyuḥ* (root *aśa bhojane*; *vidhiliṅ*, third person plural; *jhi* → *jus* by *jher jus*; loss of the vikaraṇa [*śnā*] by *bahulaṃ chandasi*; *yāsuṭ*-augment of the *liṅ*; nighāta because it follows an *atijanta*). Ends "॥ ९ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.10** *(the last Ṛk of the sūkta; printed "10 ||")*
+
+> एता ते अग्न उचथानि वेधो जुष्टानि संतु मनसे हृदे च ।
+> शकेम रायः सुधुरो यमं तेऽधि श्रवो देवभक्तं दधानाः ॥ १० ॥
+
+*etā te agna ucathāni vedho juṣṭāni santu manase hṛde ca |
+śakema rāyaḥ sudhuro yamaṃ te 'dhi śravo devabhaktaṃ dadhānāḥ ||10||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> एता । ते । अग्ने । उचथानि । वेधः । जुष्टानि । सन्तु । मनसे । हृदे । च ।
+> शकेम । रायः । सुऽधुरः । यमम् । ते । अधि । श्रवः । देवऽभक्तम् । दधानाः ॥ १० ॥
+
+*etā | te | agne | ucathāni | vedhaḥ | juṣṭāni | santu | manase | hṛde | ca | śakema | rāyaḥ | su-dhuraḥ | yamam | te | adhi | śravaḥ | deva-bhaktam | dadhānāḥ ||10||*
+
+*(Reading note: the Saṃhitā prints "अग्न" — *agna*, with the *e* of *agne* shortened before the following vowel by Vedic sandhi (*agna ucathāni*); the Pada prints *agne*.)*
+
+---
+
+### Page 423 (PDF 441)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.10** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे वेधः । मेधाविनामैतत् । मेधाविन्नग्ने एतोऽचथान्येतानीदानीमस्माभिः प्रयुक्तानि स्तोत्राणि ते तव मनसे मनोवृत्तये हृदे तद्वृत्तिमत्यंतःकरणाय च जुष्टानि संतु । प्रियाणि भवंतु । ते तव संबंधिनः सुधुरः सुष्ठु निर्वाहकस्य । यद्वा । शोभनं धूर्वति दारिद्र्यं हिनस्तीति सुधूः । तादृशस्य रायो धनस्य यमं नियमनं कर्तुं शकेमः । शक्ता भूयास्म । किं कुर्वंतः । देवभक्तं देवैः संभजनीयं श्रवो हविर्लक्षणमन्नमधि दधानाः । अग्नेरुपरि धारयंतः । अग्नौ हविर्भिर्होमं कुर्वंत इत्यर्थः ॥ उचथानि । वच परिभाषणे । रुविदिभ्यां कित् । उ. [३-११६?] । इति विधीयमानो ऽथप्रत्ययः कित्त्वं च बहुलवचनादस्मादपि भवति । वच्यादिना संप्रसारणं । जुष्टानि । जुष्टार्पिते च छंदसि निष्ठं मंत्रे । पा. [६-१-२०७,२०८?] इत्याद्युदात्तत्वं । हृदे । पद्दन्नित्यादिना हृदयेशब्दस्य हृदादेशः । शकेमु । शक्लृ शक्तौ । लिज्यादिष्यञ् । सुधुरः । धुर्वी हिंसार्थः । क्विप्चेति क्विप् । रालोपे लोप इति वकारलोपः । न पूजनादिति समासांतप्रतिषेधः । देवैर्भक्तं देवभक्तं । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+*he vedhaḥ | medhāvinām aitat | medhāvin agne eto 'cathāny etānīdānīm asmābhiḥ prayuktāni stotrāṇi te tava manase manovṛttaye hṛde tadvṛttimaty antaḥkaraṇāya ca juṣṭāni santu | priyāṇi bhavantu | te tava saṃbandhinaḥ sudhuraḥ suṣṭhu nirvāhakasya | yadvā | śobhanaṃ dhūrvati dāridryaṃ hinastīti sudhūḥ | tādṛśasya rāyo dhanasya yamaṃ niyamanaṃ kartuṃ śakemaḥ | śaktā bhūyāsma | kiṃ kurvantaḥ | devabhaktaṃ devaiḥ saṃbhajanīyaṃ śravo havirlakṣaṇam annam adhi dadhānāḥ | agner upari dhārayantaḥ | agnau havirbhir homaṃ kurvanta ity arthaḥ || ucathāni | vaca paribhāṣaṇe | ruvidibhyāṃ kit | u. [3-116?] | iti vidhīyamāno 'thapratyayaḥ kittvaṃ ca bahulavacanād asmād api bhavati | vacyādinā saṃprasāraṇaṃ | juṣṭāni | juṣṭārpite ca chandasi niṣṭhaṃ mantre | pā. [6-1-207, 208?] ity ādyudāttatvaṃ | hṛde | paddannityādinā hṛdayeśabdasya hṛdādeśaḥ | śakemu(?) | śakḷ śaktau | liṅy ādiṣyañ [?] | sudhuraḥ | dhurvī hiṃsārthaḥ | kvip ceti kvip | rālope lopa iti vakāralopaḥ | na pūjanād iti samāsāntapratiṣedhaḥ | devair bhaktaṃ devabhaktaṃ | tṛtīyā karmaṇeti pūrvapadaprakṛtisvaratvaṃ ||*
+
+*(Reading note: "eto 'cathāny" is read as printed for *etāny ucathāni*; "śakemu(?)" and "liṅy ādiṣyañ" are doubtful; Pāṇini/Uṇādi numerals are doubtful [?].)*
+
+*Meaning:* O *vedhaḥ* — a name of the wise — O wise Agni, may these hymns (*ucathāni*) now offered by us be pleasing (*juṣṭāni*) to your mind (*manase*) — the working of the mind — and to your heart (*hṛde*), the inner organ that has that working: may they be dear. And may we be able (*śakema*) to command (*yamam*) the wealth (*rāyaḥ*) of yours, of the good bearer (*sudhuraḥ*) — or "*sudhūḥ*": "he who well destroys (*dhūrvati*) poverty"; may we be able. Doing what? Placing (*adhi dadhānāḥ*) upon Agni the food (*śravaḥ*) in the form of oblations, to be shared (*devabhaktam*) by the gods: that is, offering oblations in Agni.
+
+**Grammatical tail** *(characterized, not transcribed)*: *ucathāni* (root *vaca paribhāṣaṇe*; the affix *atha* by *ruvidibhyāṃ kit*, Uṇ. [3-116?], *kit* also here by the *bahula* statement; samprasāraṇa); *juṣṭāni* (initial acute in the mantra by Pā. [6-1-207, 208?]); *hṛde* (*hṛd* for *hṛdaya*, by *pāddan…*); *sudhuraḥ* (root *dhurvī hiṃsāyām*; *kvip*; loss of *v*; no samāsānta by *na pūjanāt*); *devabhaktam* (first member keeps its accent by *tṛtīyā karmaṇi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*vedhaḥ agne* — O wise Agni; *etā ucathāni* — these hymns (now offered by us); *te* — to you; *manase* — to the working of the mind; *hṛde ca* — and to the inner organ; *juṣṭāni santu* — be dear; *te* — your; *sudhuraḥ* — of the good bearer (the remover of poverty); *rāyaḥ* — of wealth; *yamam* — to command; *devabhaktam* — enjoyable by the gods; *śravaḥ* — food in the form of oblations; *adhi dadhānāḥ* — placing (in Agni); *śakema* — may we be able.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O wise Agni! May the hymns that we now offer be taken up by your mind and heart. Offering in you the oblations, the portion of the gods, may we be fit to enjoy the wealth given by you, the remover of poverty, the good bearer.
+
+---
+
+**Progress note:** Printed pp. 1–423 done (PDF 19–441): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.9 complete (73.9's grammar page ends p. 422); **Rik 73.10** (the last; printed "10 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha and Bhāvārtha done (pp. 422–423). Next: p. 424 (PDF 442), the source's English, Special Topics and grammar page of 73.10, and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 73.10 (p. 423) with its tail compressed and doubtful in places [?].
