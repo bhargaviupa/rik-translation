@@ -2086,4 +2086,103 @@ sarvaṃ paṇeḥ sam avindanta bhojanam aśvāvantaṃ gomantam ā paśuṃ na
 
 ---
 
-**Progress note:** Printed pp. 1–76 done (PDF 16–91) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.4 complete**; **Rik 83.5** — Saṃhitā, Pada, bhāṣya (p. 75), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 75–76) done; its grammar page is begun on p. 76 (*pathaḥ*) and continues on p. 77 (PDF 92). Next: printed p. 77 (PDF 92). One more Ṛk (83.6) after 83.5, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74; the Kāvya/Uśanas reference list on p. 76.
+### Page 77 (PDF 92)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 83.5, concluded (grammar page, noted briefly):*
+
+- **तते** — the root *tanu vistāre*, *tanādi*, *svaritet* (marked for either voice). *Tan+te*: *u* (the stem-marker *u*) would be added, but by "bahulaṃ chandasi" (Pā. Sū. 2-4-73) the *luk* of the stem-marker arises; by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. Sū. 6-4-37) the nasal *n* is dropped, giving *tate*. By "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28), since it follows an *atiṅanta*, it would be wholly anudātta.
+- **अजनि** — the root *janī prādurbhāve*, *divādi*; *luṅ*, third person singular, in the agent sense. *Jan+ta*: *cli* arises generally; for it, by "dīpajanabudhapūritāyipyāyibhyo 'nyatarasyām" (Pā. Sū. 3-1-61) when a *ta* ending of the third singular follows, *ciṇ* is optionally the substitute; with *ciṇ*, by "ciṇo luk" (Pā. Sū. 6-4-104) the *ta* affix of the singular is dropped after *ciṇ*; the root ending in *ñ*-marked [*ñ*-mark] takes ... *ājani*, with the augment *aṭ*: *ajani*.
+- **आजत्** — the root *aja gatikṣepaṇayoḥ*, *bhvādi*, with the stem-marker *śap*; *laṅ*, third person singular; the *i* of *tip* is dropped by "itaś ca" (Pā. Sū. 3-4-100); since the root is vowel-initial the augment *āṭ* arises for the stem: *ājat*. ||5||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 83.6** *(the last Ṛk of the sūkta)*
+
+> बर्हिर्वा यत्स्वपत्याय वृज्यतेऽर्को वा श्लोकमाघोषते दिवि ।
+> ग्रावा यत्र वदति कारुरुक्थ्यस्तस्येदिन्द्रो अभिपित्वेषु रण्यति ॥ ६ ॥
+
+*barhir vā yat svapatyāya vṛjyate 'rko vā ślokam āghoṣate divi |
+grāvā yatra vadati kārur ukthyas tasyed indro abhipitveṣu raṇyati ||6||*
+
+### Page 78 (PDF 93)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> बर्हिः । वा । यत् । सुऽअपत्याय । वृज्यते । अर्कः । वा । श्लोकम् । आऽघोषते । दिवि ।
+> ग्रावा । यत्र । वदति । कारुः । उक्थ्यः । तस्य । इत् । इन्द्रः । अभिऽपित्वेषु । रण्यति ॥ ६ ॥
+
+*barhiḥ | vā | yat | su-apatyāya | vṛjyate | arkaḥ | vā | ślokam | ā-ghoṣate | divi | grāvā | yatra | vadati | kāruḥ | ukthyaḥ | tasya | it | indraḥ | abhi-pitveṣu | raṇyati ||6||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 83.6** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> स्वपत्याय शोभनापतनहेतुभूताय कर्मणे बर्हिर्वा यद्यदा वृज्यते छिद्यते अध्वर्युणा योगार्थमाह्रियते । अर्को वा स्तोत्रनिष्पादको होता वा श्लोकं स्तुतिरूपां वाचं दिवि द्योतमाने यज्ञे यदाघोषते उच्चारयति । यत्र यस्मिन्काले ग्रावाभिषवार्थं प्रवृत्ते उपलो वदति शब्दं करोति । तत्र दृष्टान्तः । कारुरुक्थ्यः । लुप्तोपमम् एतत् । उक्थ्यस्य शस्त्रस्य शंसिता कारुः स्तोता यथाभिमतशब्दं करोति तद्वत् । तस्य पूर्वोक्तस्य सर्वस्याभिपित्वेष्वभिप्राप्तिष्विन्द्रो रण्यति । रमते । यद्वा । पूर्वोक्तानां बर्हिरादीनामभिप्राप्तिषु सतीष्विन्द्रो रण्यति । अस्मदीयो योगो भविष्यतीति हर्षशब्दं करोति ॥ वृज्यते । वृजी वर्जने । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । निपातैर्यद्यदिहन्तेति निघातप्रतिषेधः । आघोषते । घुषिर् विशब्दने । भौवादिकः । अत्रापि यदित्यस्य निपातस्यानुषङ्गान्निघाताभावः । रण्यति । रमु क्रीडायाम् । व्यत्ययेन श्यन् परस्मैपदं च । अन्त्यैनिकारश्छान्दसः । यद्वा । रण शब्दार्थः । व्यत्ययेन श्यन् ॥ ६ ॥
+
+*svapatyāya śobhanāpatanahetubhūtāya karmaṇe barhir vā yad yadā vṛjyate chidyate adhvaryuṇā yogārtham āhriyate | arko vā stotraniṣpādako hotā vā ślokaṃ stutirūpāṃ vācaṃ divi dyotamāne yajñe yad āghoṣate uccārayati | yatra yasmin kāle grāvābhiṣavārthaṃ pravṛtte upalo vadati śabdaṃ karoti | tatra dṛṣṭāntaḥ | kārur ukthyaḥ | luptopamam etat | ukthyasya śastrasya śaṃsitā kāruḥ stotā yathābhimataśabdaṃ karoti tadvat | tasya pūrvoktasya sarvasyābhipitveṣv abhiprāptiṣv indro raṇyati | ramate | yadvā | pūrvoktānāṃ barhirādīnām abhiprāptiṣu satīṣv indro raṇyati | asmadīyo yogo bhaviṣyatīti harṣaśabdaṃ karoti || vṛjyate | vṛjī varjane | adupadeśāl lasārvadhātukānudāttatve yaka eva svaraḥ śiṣyate | nipātair yadyadihanteti nighātapratiṣedhaḥ | āghoṣate | ghuṣir viśabdane | bhauvādikaḥ | atrāpi yad ity asya nipātasyānuṣaṅgān nighātābhāvaḥ | raṇyati | ramu krīḍāyām | vyatyayena śyan parasmaipadaṃ ca | antyainikāraś chāndasaḥ [?] | yadvā | raṇa śabdārthaḥ | vyatyayena śyan || 6 ||*
+
+*Sense:* "When (*yat*, *yadā*) the *barhis* (sacred grass) is cut (*vṛjyate*) — fetched by the *adhvaryu* for use — for a rite that is the cause of good offspring (*svapatyāya*, 'of good descent'); or when the *arka* — the *hotṛ*, the accomplisher of the stotra — in the shining (*divi*) sacrifice utters (*āghoṣate*) the *śloka*, the praise-speech; or when, at the time the pressing of Soma has begun, the pressing-stone (*grāvā*) sounds; (as an illustration:) like the *kāru*, the praiser, the reciter of the śastra (*ukthya*), who makes the desired sound — on all these occasions (*abhipitveṣu*, *abhiprāptiṣu*) Indra rejoices (*raṇyati*, *ramate*). Or: when the aforesaid *barhis* and so on have been fully obtained, Indra gives a cry of joy (*harṣaśabda*), 'our union will be (accomplished)'." *The grammatical tail* (characterized): *vṛjyate* — the passive of *vṛjī varjane*, with the *yak* accent remaining; *āghoṣate* — root *ghuṣir viśabdane*, no nighāta since the particle *yat* continues; *raṇyati* — root *ramu krīḍāyām* with *śyan* and *parasmaipada* by *vyatyaya*, or from *raṇa* 'to sound'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 83.6** *(Kannada; runs to p. 79)*
+
+- **स्वपत्याय** — "for the sake of the growth of an excellent rite"
+- **यत्** — "when"
+- **बर्हिः** — "the pure *darbha* grass"
+- **वृज्यते वा** — "(is cut), at that time or"
+- **अर्कः** — "the *hotṛ* who makes the stotra (is brought)"
+- **श्लोकम्** — "the words of praise"
+- **दिवि** — "in the shining sacrifice"
+- **आ घोषते वा** — "at the time of reciting aloud, or"
+- **यत्र** — "at the time of which sacrifice"
+- **ग्रावा** — "the stone (that presses Soma juice)"
+- **कारुः उक्थ्यः** — "as the stotra that recites the mantra of the form of the śastra makes sound"
+- **वदति (वा)** — "(or) at the time of making a (pleasant) sound"
+- **तस्य इत्** — "of all these"
+- **अभिपित्वेषु** — "(on occasions) when they come together"
+- **इन्द्रः** — "Indra"
+- **रण्यति** — "is gladdened, or makes a sound indicating joy."
+
+### Page 79 (PDF 94)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Pratipadārtha of Rik 83.6, concluded:* "**अभिपित्वेषु** — when occasions arrive; **इन्द्रः** — Indra; **रण्यति** — is gladdened or makes a sound indicating joy."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 83.6** *(Kannada)*
+
+"Whether it is the time of cutting the pure *darbha* grass for the sake of an excellent rite, or the time when, in the shining sacrifice, the *hotṛ*, the accomplisher of the stotra, recites the stotra, or the time when the stone that presses Soma juice makes a sound pleasing like the praiser — on all these occasions Indra shows delight that the sacrifice addressed to him has come to its conclusion."
+
+**English Translation** *(printed in English in the source)*
+
+"Whether the sacred grass is cut for the sacrifice, in order to bring down the blessings, whether the priest recites the sacred hymn in the brilliant sacrifice, whether the stone used to press the soma plant makes a sound like the priest who repeats the hymn, on all these occasions Indra rejoices." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.6)**
+
+- **बर्हिः** — "*darbha* grass whose tips have been cut. When sacrificing, the priests cut the tips of the *darbha* grass and spread them on the ground as seats. They pray to the gods to come and sit on them. The sound of the crackling when the *darbha* tips are cut makes Indra glad — that is the idea, since it is done for the sacrifice."
+- **अर्कः** — "the *hotṛ* or priest who recites Ṛks (mantras). In place of the word *arkin* the word *arka* has been used. In this sense the word *arka* is used in Ṛk. Saṃ. 1-[?]-[?]" *(numerals as read [?])*.
+- **श्लोकः** — "*ślokaḥ śṛṇoteḥ* (Ni. [6-9] [?]): *śloka* means a speech in the form of praise (Ni. [3-?] [?])."
+- **दिवि** — "for this word the bhāṣyakāra has given the explanation 'in the shining sacrifice'."
+- **ग्रावा** — "the stone used for crushing the Soma plant to extract the juice. *Yatra grāvā vadati* means: the sound that arises as the Soma plant is crushed is pleasing to Indra. The convention of describing the sound of crushing the Soma plant with the stone by the words *grāvā vadati* is seen to be old. In *yatra grāvā vadati tatra gacchataṃ* (Ṛk. Saṃ. 1-[135]-[?] [?]) and in other places there are examples."
+
+### Page 80 (PDF 95)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Special Topics of Rik 83.6, continued:*
+
+- **कारुः** — "the one who makes; that is, the one who makes the stotra. *Kavi*: this word is read in the Ṛgveda in the Ṛks 1-[?]-[?]; 2-[?]-[?]; 6-[?]-[?]; 10-[?]-[?] [numerals read from the small print and uncertain [?]]. Forms of this word, *kāravaḥ*, *kārave*, *kārum* and so on, occur in many Ṛks."
+- **उक्थ्यः** — "one who recites the śastra mantra, the *ṛtvij*."
+- **अभिपित्वेषु** — *pūrvoktānāṃ barhirādīnām abhiprāptiṣu* — "when the words such as the cutting of the *darbha*, spoken of before, are heard…"
+- **रण्यति** — *asmadīyo yogo bhaviṣyatīti harṣaśabdaṃ karoti* — "'he makes a cry of joy, thinking that our union will come to pass'. Since the matters above, such as the cutting of *darbha*, are signs of the performance of the sacrifice, on hearing such sounds Indra is gladdened and utters a joyful sound to express his pleasure."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.6)** *(grammar page, noted briefly; runs to p. 81)*
+
+- **वृज्यते** — the root *vṛjī varjane*, *rudhādi*; *laṭ* in the passive sense; when the *lakāra* (*laṭ*) denoting the object follows, by "sārvadhātuke yak" (Pā. Sū. 3-1-67) the affix *yak* arises for the root; by "bhāvakarmaṇoḥ" (Pā. Sū. 1-3-13) the *ātmanepada* affix arises. If the accent of the affix were to be heard, then by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186) the *lasārvadhātuka* is anudātta because it follows an *a*-*upadeśa* root (*vṛj*); then the *yak* accent alone remains, being *śit*; by "tiṅ atiṅaḥ" (Pā. Sū. 8-1-28) total anudātta would arise, but by "nipātair yadyadihantakuvidnetracet…" (Pā. Sū. 8-1-30) the *tiṅanta* is not anudātta when connected with these *nipātas*; here *yat* (in *yad vṛjyate*) is the connection, so the total anudātta did not arise.
+- **आघोषते** — the root *ghuṣir viśabdane*, *bhvādi*, with the preposition *ā*; the *ir* is a mark; when the stem-marker *śap* follows, guṇa of the light penultimate. Here too, as before, the affix gets the final-udātta because the root is *a*-*upadeśa*; *śap* is *pit*, so anudātta; the root-accent (udātta) remains; for the anudātta *śap* after the udātta syllable svarita arises; the anudātta that follows a svarita is *pracaya*. As before there is no nighāta (total-anudātta), because of the connection with the preceding *yat*.
+- **रण्यति** — the root *ramu krīḍāyām*, *bhvādi*; since *śap* is the expected stem-marker, by "vyatyayo bahulam" (Pā. Sū. 3-1-85) *śyan* arises in the Veda; the anudātta-*it* root also takes the *parasmaipada* by that very rule; …it should be *ramyati*; here, then, *(the page ends here; the remaining lines are on p. 81)*
+
+---
+
+**Progress note:** Printed pp. 1–80 done (PDF 16–95) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–81): Riks **83.1–83.5 complete**; **Rik 83.6** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics (pp. 77–80) done; its grammar page is begun on p. 80 (*vṛjyate*, *āghoṣate*, *raṇyati*) and ends on p. 81 (PDF 96), where Sūkta 84 then begins. Next: printed p. 81 (PDF 96). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76; Ṛgveda reference numerals on pp. 79–80 [?].
