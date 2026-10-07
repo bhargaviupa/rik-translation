@@ -12954,4 +12954,69 @@ indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam |
 
 ---
 
-**Progress note:** Printed pp. 1–571 done (PDF 19–589): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.2 complete** (grammar of 80.2 on pp. 570–571; the source's English and Special Topics on pp. 569–570); **Rik 80.3** — Saṃhitā and Pada (p. 571) done. Next: p. 572 (PDF 590) — bhāṣya of 80.3. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
+### Page 572 (PDF 590)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.3** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र प्रेहि । प्रकर्षेण गच्छ । अभीहि । हन्तव्यान् शत्रूनाभिमुख्येन प्राप्नुहि । प्राप्य च धृष्णुहि तान् शत्रूनभिभव । ते तव वज्रो न नि यंसते । शत्रुभिर्न नियम्यते । अप्रतिहतगतिरित्यर्थः । तथा ते शवस्त्वदीयं बलं नृम्णं पुरुषाणां नामकमभिभावकं हि यस्मादेवं तस्माद्वृत्रमसुरं मेघं वा हनः । जहि । ततोऽनन्तरं तेन निरुद्धा अपः उदकानि जयाः [?] । वृत्रं हत्वा केनावृतमुदकं लभस्वेत्यर्थः । अर्चन् पूर्ववत् ॥ यंसते । यमो [?] कर्मणि लेटि सिब्बहुलमिति सिप् । लेटोऽडाटाविति अडागमः । हनः । लोडर्थे छान्दसो लङ् । बहुलं छन्दसीति शपो लुगभावः । शपः पित्त्वादनुदात्तत्वे धातुस्वरः शिष्यते । पूर्वपदस्यासमानवाक्यस्थत्वान्निघाताभावः । जयाः । जयतेर्लेट्यडागमः । पूर्ववत्स्वरः ॥
+
+*he indra prehi | prakarṣeṇa gaccha | abhīhi | hantavyān śatrūn ābhimukhyena prāpnuhi | prāpya ca dhṛṣṇuhi tān śatrūn abhibhava | te tava vajro na ni yaṃsate | śatrubhir na niyamyate | apratihatagatir ity arthaḥ | tathā te śavas tvadīyaṃ balaṃ nṛmṇaṃ puruṣāṇāṃ nāmakam abhibhāvakaṃ hi yasmād evaṃ tasmād vṛtram asuraṃ meghaṃ vā hanaḥ | jahi | tato 'nantaraṃ tena niruddhā apaḥ udakāni jayāḥ [?] | vṛtraṃ hatvā kenāvṛtam udakaṃ labhasvety arthaḥ | arcan pūrvavat || yaṃsate | yamo [?] karmaṇi leṭi sib bahulam iti sip | leṭo 'ḍāṭāv ity aḍāgamaḥ | hanaḥ | loḍarthe chāndaso laṅ | bahulaṃ chandasīti śapo lugabhāvaḥ | śapaḥ pittvād anudāttatve dhātusvaraḥ śiṣyate | pūrvapadasyāsamānavākyasthatvān nighātābhāvaḥ | jayāḥ | jayater leṭy aḍāgamaḥ | pūrvavat svaraḥ ||*
+
+*Sense:* "O Indra, go forth (*prehi* = *prakarṣeṇa gaccha*); come against (*abhīhi*), reach the enemies to be slain face to face; and having reached them, overcome (*dhṛṣṇuhi*) those enemies. Your thunderbolt is not held back (*na ni yaṃsate*) by the enemies: its course is unobstructed. Since likewise your strength (*śavaḥ*) is *nṛmṇa* — 'that which overpowers men' — therefore slay (*hanaḥ* = *jahi*) the demon Vṛtra or the cloud; thereafter win the waters (*apaḥ*) that were held back by him. The sense: after slaying Vṛtra, take the water that he had covered. (*arcan* as before.)" *The grammatical tail:* *yaṃsate* — in the passive of the *leṭ*, *sip* by "sib bahulam"; the augment *aṭ* by "leṭo 'ḍāṭau"; *hanaḥ* — a Vedic *laṅ* in the sense of *loṭ*; by "bahulaṃ chandasi" the elision of *śap* does not occur; …; the nighāta does not arise since the first member is not in the same sentence; *jayāḥ* [?] — the augment *aṭ* in the *leṭ* of *ji*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.3** *(Kannada)*
+
+- **इन्द्र** — "O Indra!"
+- **प्र इहि** — "go swiftly"
+- **अभि इहि** — "confront (the enemies)"
+- **धृष्णुहि** — "defeat them"
+- **ते वज्रः** — "your thunderbolt"
+- **न नि यंसते** — "is not held back (by enemies)"
+- **हि** — "for which reason"
+- **ते शवः** — "your strength"
+- **नृम्णम्** — "is such as to humble men (hence)"
+- **स्वराज्यम्** — "your lordship"
+- **अनु अर्चन्** — "manifesting"
+- **वृत्रम्** — "the demon Vṛtra (the cloud)"
+- **हनः** — "strike"
+- **अपः** — "the water (held back)"
+- **जयाः** — "conquer (cause it to come)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.3** *(Kannada)*
+
+"O Indra, go swiftly, confront the enemies and defeat them; your thunderbolt is not held back; your strength is such as to destroy men (the enemies); therefore, manifesting your lordship, strike Vṛtra (the cloud) and cause the water held back by him to fall."
+
+**English Translation** *(printed in English in the source)*
+
+"Hasten, assail, subdue; your thunderbolt cannot fail; your vigour, Indra, destroys men; slay Vritra, win the waters, manifesting your own sovereignty." — as printed.
+
+### Page 573 (PDF 591)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.3)**
+
+- **इन्द्र नृम्णं हि ते शवः** — *he indra tvadīyaṃ balaṃ nṝṇāṃ puruṣāṇāṃ nāmakam abhibhāvakam* — "O Indra, your strength is that which subdues men: it humbles the men (the enemies). The word *śavaḥ* is read among the twenty-eight names of strength and so denotes 'strength' (Ni. [2-9] [?]). The word *nṛmṇa* is also read among the twenty-eight names of strength (Ni. [2-9] [?]) and also among the twenty-eight names of wealth beginning *maghaṃ reṇkaḥ* (Ni. [2-10] [?]). Yāska has explained the sense in the bhāṣya: '*nṝn namayati*' — 'that which bends men' — that is, 'making them bow down'. Skandasvāmin says: '*nṝn śatrubhūtān prati namati namayati prahvīkaroti*' — 'it bows, makes bow, makes humble, men who are enemies'. 'The strength of Indra defeats (humbles) the enemies' — that is the sense."
+- **अर्चन्** — *pūjayan, svasya svāmitvaṃ prakaṭayan* — "the verb-form *arcati* is read among the forty-four (?) words denoting the action of worship (*arcati-karma*) (Ni. [3-19] [?]); also because the form *arcan* arises from the root *arca pūjāyām*, the sense is 'worshipping'. Here the worship that Indra has to carry out with reference to his *svarājya*, 'his own sovereignty' (the manner of his protecting), should be such that it is favourable and pleasing to all; the meaning is that he should so act that his lordship is evident to all."
+- **वृत्रं हनः अपः जयाः** — *asuraṃ meghaṃ vā jahi; vṛtraṃ hatvā tenāvṛtam udakaṃ labhasva* — "The word *vṛtra* is read among the thirty names of cloud beginning *adriḥ, grāvā* (Ni. [1-10] [?]). It is formed from the root *vṛñ varaṇe*: '*vṛṇoti ācchādayati kṛṣṇaṃ nabhaḥ*' — 'it covers; it covers the black sky' — signifying that it covers the whole *antarikṣa*; or, from the root *vṛdhu vṛddhau*, '*vardhate hi varṣāsu*' — 'it grows in the rainy season' — because it grows in the rains, the word *vṛtra* gives the sense of 'cloud'. And from the root *asu kṣepaṇe*, the word *asura* is formed: '*asyate kṣipyate sthāne indreṇa varṣārthaṃ*' — 'it is hurled from its place by Indra for the sake of rain' — so the word *asura* is connected with the word *vṛtra* in the sense of 'cloud'. Similarly the word *asura* has the senses 'having water', 'having life' (*prāṇavān*) and so on. The word *āpaḥ* is read among the hundred and one names of water in the Nirukta along with *amṛta* (Ni. [1-12] [?]). The prayer to Indra is: 'Chastise the clouds that obstruct the waters that are exceedingly useful for the protection of the world, and make flow the *amṛta* — the water that is like nectar.'" *(the passage continues on p. 574)*
+
+### Page 574 (PDF 592)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics continued:*
+
+"In the *itihāsa* interpretation (historical-legend view) of the explanation, there was an asura named Vṛtra. Day by day he grew to the extent of an arrow's flight (*iṣumātra pravardhana*), and since he obstructed the nectar and the water, which are the means of protection for the gods and the world, Indra used the thunderbolt, subdued him, and gave happiness to all."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.3)** *(grammar page, noted briefly; runs on beyond this page)*
+
+- **इहि** — the root *iṇ gatau* (इण् गतौ); *loṭ*, second person singular; *hi* in place of *sip*; "adiprabhṛtibhyaḥ śapaḥ" (अदिप्रभृतिभ्यः शपः, Pā. Sū. 2-4-72) gives the *luk* of *śap*; as it has been taught as *apit*, it is treated as *ñit*, so the guṇa that would result from it does not arise for the root; nighāta accent since *atiṅanta* in the pāda.
+- **धृष्णुहि** — the root *ñidhṛṣā prāgalbhye* (ञिधृषा प्रागल्भ्ये), *svādi*; *loṭ*, second person singular, *hi* in place; "svādibhyaḥ śnuḥ" (स्वादिभ्यः श्नुः, Pā. Sū. 3-1-73) gives *śnu*; by "sārvadhātukam apit" it is *ñit*, so the guṇa of the light penultimate does not come; by "raṣābhyāṃ no ṇaḥ samānapade" (रषाभ्यां नो णः समानपदे, Pā. Sū. 8-4-1) the *n* of the affix becomes *ṇ*; by "tiṅ atiṅaḥ" [and] the *paryudāsa* of *atiṅ*, since a *tiṅanta* *ihi* precedes it, there is no nighāta; being *apit*, the accent is final-udātta by the affix.
+- **यंसते** — the root *yama uparame* (यम उपरमे); in the *leṭ* of the passive, third person singular, the affix *ta*; *e* by "ṭita ātmanepadānāṃ ṭer e"; *sip* by "sib bahulaṃ leṭi" (Pā. Sū. 3-1-34); *aṭ* for the *leṭ* by "leṭo 'ḍāṭau" (लेटोऽडाटौ, Pā. Sū. 3-4-94); the anusvāra for the root by "naś cāpadāntasya jhali"; nighāta accent since *atiṅanta* in the pāda.
+- **हनः** — the root *han hiṃsāgatyoḥ*, *adādi*; since it has the sense of *loṭ*, by "chandasi luṅlaṅliṭaḥ" (Pā. Sū. 3-4-6) the *laṅ*, second person singular, with *sip*; the *i* dropped; by "bahulaṃ chandasi" the *luk* of *śap* does not come; by "bahulaṃ chandasy amāṅyoge 'pi" the augment *aṭ* does not occur; the *s* of the affix becomes *ru*, visarga; since its preceding word belongs to another sentence, there is no nighāta at the head of the pāda; *śap* being *p*-marked is anudātta by "anudāttau suppitau"; the root's accent remains. *(the page ends in mid-entry; the remaining entries are on p. 575)*
+
+---
+
+**Progress note:** Printed pp. 1–574 done (PDF 19–592): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.2 complete**; **Rik 80.3** — Saṃhitā, Pada (p. 571), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 572), Special Topics (pp. 573–574) done; its grammar page is begun on p. 574 (*ihi*, *dhṛṣṇuhi*, *yaṃsate*, *hanaḥ*) and continues on p. 575 (PDF 593). Next: p. 575 (PDF 593). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
