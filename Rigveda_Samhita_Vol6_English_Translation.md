@@ -4461,7 +4461,7 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
 
 > **भुरण्युर्हविषां भर्ता धारयिता पयःप्रभृतिना श्रयणद्रव्येण सोममिव तैर्हविर्भिः श्रीणन् मिश्रयन्दिवमुप स्थात् उपतिष्ठति । प्राप्नोतीत्यर्थः । स्थातुः स्थावरं चरथं जङ्गमं तदुभयात्मकं जगदक्तून् सर्वा रात्रीश्च व्यूर्णोत् । स्वतेजसा विशेषेणाच्छादयति । हविर्वहनं कुर्वन्सर्वमपि जगत्स्वभासा प्रकाशयति स्मेति भावः । विश्वेषां सर्वेषां देवानां दानादिगुणयुक्तानामिन्द्रादीनां मध्ये देवो द्योतमान एक एवायमग्निरेषां पूर्वोक्तानां स्थावरादीनां महित्वा महत्त्वानि माहात्म्यानि यद्यस्मात्परि भुवत् परिभवति परिगृह्णाति परितो व्याप्य वर्तते । परिपूर्णो भवतिः परिग्रहार्थः । यद्वा । एषां विश्वेषां स्थावरादीनां मध्ये वर्तमानोऽयं देवोऽग्निर्देवानां महत्त्वानि यद्यदा परि भुवत् परितो व्याप्नोति । तदानीमिति पूर्वत्रान्वयः ॥ ऊर्णोत् । ऊर्णुञ् आच्छादने । ऊर्णोतेर्विभाषा । पा. ७-२-६ [?] इति वृद्धेर्विकल्पः ॥**
-> *bhuraṇyur havi​ṣāṃ bhartā dhārayitā payaḥprabhṛtinā śrayaṇadravyeṇa somam iva tair havirbhiḥ śrīṇan miśrayan divam upa sthāt upatiṣṭhati | prāpnotīty arthaḥ | sthātuḥ sthāvaraṃ caratham jaṅgamaṃ tadubhayātmakaṃ jagad aktūn sarvā rātrīś ca vyūrṇot | svatejasā viśeṣeṇācchādayati | havirvahanaṃ kurvan sarvam api jagat svabhāsā prakāśayati smeti bhāvaḥ | viśveṣāṃ sarveṣāṃ devānāṃ dānādiguṇayuktānām indrādīnāṃ madhye devo dyotamāna eka evāyam agnir eṣāṃ pūrvoktānāṃ sthāvarādīnāṃ mahitvā mahattvāni māhātmyāni yad yasmāt pari bhuvat paribhavati parigṛhṇāti parito vyāpya vartate | paripūrṇo bhavatiḥ parigrahārthaḥ | yadvā | eṣāṃ viśveṣāṃ sthāvarādīnāṃ madhye vartamāno 'yaṃ devo 'gnir devānāṃ mahattvāni yad yadā pari bhuvat parito vyāpnoti | tadānīm iti pūrvatrānvayaḥ || ūrṇot | ūrṇuñ ācchādane | ūrṇoter vibhāṣā | Pā. 7-2-6 [?] iti vṛddher vikalpaḥ ||*
+> *bhuraṇyur haviṣāṃ bhartā dhārayitā payaḥprabhṛtinā śrayaṇadravyeṇa somam iva tair havirbhiḥ śrīṇan miśrayan divam upa sthāt upatiṣṭhati | prāpnotīty arthaḥ | sthātuḥ sthāvaraṃ caratham jaṅgamaṃ tadubhayātmakaṃ jagad aktūn sarvā rātrīś ca vyūrṇot | svatejasā viśeṣeṇācchādayati | havirvahanaṃ kurvan sarvam api jagat svabhāsā prakāśayati smeti bhāvaḥ | viśveṣāṃ sarveṣāṃ devānāṃ dānādiguṇayuktānām indrādīnāṃ madhye devo dyotamāna eka evāyam agnir eṣāṃ pūrvoktānāṃ sthāvarādīnāṃ mahitvā mahattvāni māhātmyāni yad yasmāt pari bhuvat paribhavati parigṛhṇāti parito vyāpya vartate | paripūrṇo bhavatiḥ parigrahārthaḥ | yadvā | eṣāṃ viśveṣāṃ sthāvarādīnāṃ madhye vartamāno 'yaṃ devo 'gnir devānāṃ mahattvāni yad yadā pari bhuvat parito vyāpnoti | tadānīm iti pūrvatrānvayaḥ || ūrṇot | ūrṇuñ ācchādane | ūrṇoter vibhāṣā | Pā. 7-2-6 [?] iti vṛddher vikalpaḥ ||*
 > *"**Bhuraṇyuḥ**, the bearer, the upholder, of the oblations, **śrīṇan**, mixing those oblations — as one mixes Soma with milk and the like, a mixing substance — **divam upa sthāt**, goes up to heaven, i.e. attains it. **Sthātuḥ**, the immovable, **caratham**, the movable, the world consisting of both, and **aktūn**, all the nights, **vy ūrṇot**, he covers specially with his own splendour; the idea is that, carrying the oblations, he illumined the whole world with his own light. Among all the gods (**viśveṣām devānām**), Indra and the rest endowed with qualities such as giving, this one shining god Agni alone **pari bhuvat** — surpasses, encompasses, remains pervading all around — **mahitvā**, the greatnesses, the glories **eṣām**, of these aforesaid immovable and other things (*bhū* with *pari* in the sense of 'to grasp'; 'to become full'). Or: dwelling in the midst of all these immovable and other things, whenever this god Agni pervades the greatnesses of the gods all around, then [he covers…]: so it joins with the earlier. **Ūrṇot**: root *ūrṇuñ ācchādane*; the option of *vṛddhi* in *ūrṇu* by 'ūrṇoter vibhāṣā' (Pā. 7-2-6, as read, ?)."* *(Grammar tail short; numerals as read.)*
 
 **॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
@@ -4488,4 +4488,67 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–224 done (PDF 19–242): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti; fourth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 68.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 224). Next: p. 225 (PDF 243), the rest of the Special Topics and the grammar page of Rik 68.1; then Riks 68.2–68.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics on p. 224 read at 150 dpi and partly doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 225 (PDF 243)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]"; at the foot the signature mark "VI 15".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 68.1 (noted briefly).** **श्रीणन्**: root *śrīñ pāke*, *ubhayapadī*, of the *kryādi* class; in the sense of *laṭ*, the affix *śatṛ*; the vikaraṇa *śnā* by "kryādibhyaḥ śnā"; since the affix is non-*p*-marked, *ñit*-like by "sārvadhātukam apit"; by "śnābhyastayor ātaḥ" (Pā. Sū. 6-4-112, as read) the loss of the *ā* of the *śnā* affix; by "aṭkupvāṅnumvyavāye 'pi" *ṇ* for *n*; the word *śrīṇat*; by the affix accent, the *ā* [of the ending] is acute; with *su* following, the *num* augment; the loss of *su*; the loss of the final *t*: *śrīṇan*. **स्थात्**: by "chandasi luṅlaṅliṭaḥ" the *luṅ* in the present sense; by "itaś ca" the loss of the *i* of *tip*; the *sic* which arose for *cli* is lost by "gātisthāghupābhūbhyaḥ…"; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*. **ऊर्णोत्**: root *ūrṇuñ ācchādane*; in the *laṅ*, the affix *tip*; as before, the loss of its *i*; here the *luk* of *śap* by "adiprabhṛtibhyaḥ śapaḥ"; by "ūrṇor vṛddhir luki hali" [as read, Pā. Sū. 7-3-89, "uto vṛddhir luki hali"] *vṛddhi* would have to come, but by "ūrṇoter vibhāṣā" (Pā. Sū. 7-3-90, as read) it is optional for *hal*-initial *p*-marked *sārvadhātuka*, so here *vṛddhi* does not come; then by "guṇo 'pṛkte" (Pā. Sū. 7-3-91, as read) the *guṇa* comes, the cause [*pṛkta*-less *hal*] being as stated; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; the form *ūrṇot*; since it follows a non-verbal word, the *nighāta* accent. **भुवत्**: explained in the [Rik 67.1] mantra [p. 207]; since *yat* precedes, no *nighāta*; the root accent makes the *u* acute. **महित्वा**: as before, the *śi* is lost by "śeś chandasi bahulam". **॥ १–२ ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+#### Rik 68.2 *(printed "3 || 4 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced) *(begins; continues on p. 226)*
+
+> **आदित्ते विश्वे क्रतुं जुषन्त शुष्काद्यद्देव जीवो जनिष्ठाः ।**
+> *ād it te viśve kratuṃ juṣanta śuṣkād yad deva jīvo janiṣṭhāḥ |*
+
+---
+
+### Page 226 (PDF 244)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text of Rik 68.2 (concluded)**
+
+> **भजन्त विश्वे देवत्वं नाम ऋतं सपन्तो अमृतमेवैः ॥ ३ ॥ ४ ॥**
+> *bhajanta viśve devatvaṃ nāma ṛtaṃ sapanto amṛtam evaiḥ || 3 || 4 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **आत् । इत् । ते । विश्वे । क्रतुम् । जुषन्त । शुष्कात् । यत् । देव । जीवः । जनिष्ठाः ।**
+> **भजन्त । विश्वे । देवऽत्वम् । नाम । ऋतम् । सपन्तः । अमृतम् । एवैः ॥ ३ ॥ ४ ॥**
+> *āt | it | te | viśve | kratum | juṣanta | śuṣkāt | yat | deva | jīvaḥ | janiṣṭhāḥ |*
+> *bhajanta | viśve | deva-tvam | nāma | ṛtam | sapantaḥ | amṛtam | evaiḥ || 3 || 4 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे देव द्योतमानाग्ने जीवो जीवन्ज्वलन् शुष्कान्नीरसादरणिरूपात्काष्ठाद्यदा जनिष्ठाः प्रादुर्भवसि मथनेनोत्पद्यसे आदित् अनन्तरमेव विश्वे सर्वे यजमानास्ते तुभ्यं क्रतुं कर्म जुषन्ते । सेवन्ते । अनुतिष्ठन्ति । तथानुष्ठायु च विश्वे ते सर्वे नाम नामकमृतमवितथं देवत्वं देवतात्वं भजन्ते । भजन्ते । प्राप्नुवन्ति । किं कुर्वन्तः । अमृतेमममरणं त्वामेवैस्त्वां गन्तृभिः स्तोत्रैः सपन्तः समवयन्तः । प्राप्नुवन्त इत्यर्थः ॥ जुषन्तेत्यादीनि त्रीण्याख्यातानि छन्दसि लुङ्लङ्लिट इति वर्तमानार्थानि । एवैः । यन्ति स्तोतव्याभिमुख्येन गच्छन्तीत्येवानि स्तोत्राणि । इण् शीङ्भ्यां वन् । उ. १-१५३ [?] ॥**
+> *he deva dyotamānāgne jīvo jīvan jvalan śuṣkān nīrasād araṇirūpāt kāṣṭhād yadā janiṣṭhāḥ prādurbhavasi mathanenotpadyase ād it anantaram eva viśve sarve yajamānās te tubhyaṃ kratuṃ karma juṣante | sevante | anutiṣṭhanti | tathānuṣṭhāya ca viśve te sarve nāma nāmakam ṛtam avitathaṃ devatvaṃ devatātvaṃ bhajante | bhajante | prāpnuvanti | kiṃ kurvantaḥ | amṛtam amaraṇaṃ tvām evaistvāṃ gantṛbhiḥ stotraiḥ sapantaḥ samavayantaḥ | prāpnuvanta ity arthaḥ || juṣantetyādīni trīṇy ākhyātāni chandasi luṅlaṅliṭa iti vartamānārthāni | evaiḥ | yanti stotavyābhimukhyena gacchantīty evāni stotrāṇi | iṇ śīṅbhyāṃ van | U. 1-153 [?] ||*
+> *"O shining god Agni, **jīvaḥ**, living, blazing, when you **janiṣṭhāḥ** — appear, are born by friction — from **śuṣkāt**, dry, sapless wood in the form of the fire-drill, **ād it**, immediately thereafter, **viśve**, all the sacrificers **te kratuṃ juṣante**, serve your rite, perform it; and having performed it, all of them **nāma**, indeed, **ṛtam**, true, **devatvam**, divinity, **bhajante**, attain. Doing what? **amṛtam**, you the deathless, **evaiḥ**, with hymns that go to you, **sapantaḥ**, approaching, reaching. **Juṣanta** and the other [two] verbs are in the present sense by 'chandasi luṅlaṅliṭaḥ'. **Evaiḥ**: hymns that go (*yanti*) turned toward the one to be praised; *van* after *iṇ*, *śī* (Uṇ. 1-153, as read, ?)."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 227)*
+
+**देव** — O shining Agni; **जीवः** — blazing; **शुष्कात्** — from the dry; **काष्ठात्** — wood (the fire-drill); **यत्** — when; **जनिष्ठाः** — you, born (by churning); **आदित्** — immediately after; **विश्वे** — all (the sacrificers); **ते** — your; **क्रतुम्** — rite; **जुषन्ते** — they serve (perform the sacrifice); **अमृतम्** — the deathless [you]; *(continues on p. 227)*…
+
+---
+
+### Page 227 (PDF 245)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**Pratipadārtha (concluded).** … (you); **एवैः** — by hymns that reach [you]; **सपन्तः** — approaching [them] (those who praise); **विश्वे** — all of them; **नाम** — indeed; **ऋतम्** — the true, unfailing; **देवत्वम्** — divinity; **भजन्ते** — they attain.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Praising you, who blaze up when born by the churning of the fire-drill, with words of praise, and performing the rites addressed to you, they truly attain divinity [by your grace].
+
+**English Translation** *(the source's own, as printed):*
+
+> O divine Agni, when you are born living from the dry wood, (by attrition), then all (your worshippers) perform the sacred ceremony, and obtain verily true divinity by lauding you, who are immortal, with hymns that reach you.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **जीवः** — *prajvalan jīvan* — "Agni, being born as he is churned out of the arani, which is in the form of dry wood, becomes a blazing fire. The sacrificers who serve this Agni by performing rites of the nature of sacrifice, and who praise him, attain divinity. Agni, born from an inanimate object, is of such greatness that he gives divinity to those who worship him. Skandasvāmin too explains this meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 68.2 (begins; noted briefly).** **ते**: for the word *yuṣmad*, in the dative singular, by "te mayāv ekavacanasya" (Pā. Sū. 8-1-22, as read) the unaccented substitute *te* comes. **जुषन्त**: root *juṣī prītisevanayoḥ*; in the sense of the present, by "chandasi luṅlaṅliṭaḥ" the *laṅ* [as printed "laṅ"; read as *luṅ/laṅ*]; in the third person plural, by "jho 'ntaḥ" [*ata*/*anta* — the form is *ātmanepada*] the substitute; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; since it follows an acute-ending word, the *nighāta* accent. **शुष्कात्**: root *śuṣa śoṣaṇe*; when a *niṣṭhā* *t* follows, by "śuṣaḥ kaḥ" (Pā. Sū. 8-2-51, as read) *k* for the *t* of the affix *(continues on p. 228)*.
+
+---
+
+**Progress note:** Printed pp. 1–227 done (PDF 19–245): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Rik 68.1 complete; **Rik 68.2** (half-Ṛks 3–4) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the grammar page begun (p. 227, ending at *śuṣkāt*). Next: p. 228 (PDF 246), the grammar page of Rik 68.2 concludes; then Riks 68.3–68.5 and the closing line of Sūkta 68. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the grammar of *ūrṇot* (p. 225) compressed and tentative [?]; accent marks of the Saṃhitā/Pada not reproduced.
