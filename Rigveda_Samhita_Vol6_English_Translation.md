@@ -6914,4 +6914,81 @@ Words treated: *kāvyā* (neuter accusative plural, *śas* → *śi*; loss of *�
 
 ---
 
-**Progress note:** Printed pp. 1–337 done (PDF 19–355): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 72.1 complete (pp. 333–337). Next: p. 338 (PDF 356), **Rik 72.2**. Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.2–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Atharva/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; Special Topics on pp. 335–336 compressed [?].
+### Page 338 (PDF 356)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 72.2** *(printed Ṛk "2 ||")*
+
+> अस्मे वत्सं परि षंतं न विंदन्निच्छंतो विश्वे अमृता अमूराः ।
+> श्रमयुवः पदव्यो धियंधास्तस्थुः पदे परमे चार्वग्नेः ॥ २ ॥
+
+*asme vatsaṃ pari ṣantaṃ na vindann icchanto viśve amṛtā amūrāḥ |
+śramayuvaḥ padavyo dhiyaṃdhās tasthuḥ pade parame cār agneḥ ||2||*
+
+*(Reading note: the last word of the Saṃhitā line is printed "चार्वग्नेः" — *cāru agneḥ* joined by sandhi, as the Pada shows. Accents not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अस्मे इति । वत्सम् । परि । सन्तम् । न । विन्दन् । इच्छन्तः । विश्वे । अमृताः । अमूराः ।
+> श्रमऽयुवः । पदऽव्यः । धियम्ऽधाः । तस्थुः । पदे । परमे । चारु । अग्नेः ॥ २ ॥
+
+*asme iti | vatsam | pari | santam | na | vindan | icchantaḥ | viśve | amṛtāḥ | amūrāḥ | śrama-yuvaḥ | pada-vyaḥ | dhiyam-dhāḥ | tasthuḥ | pade | parame | cāru | agneḥ ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 72.2** *(Sanskrit in Kannada script; compressed; runs on to p. 339; doubtful places [?])*
+
+> अस्मे अस्माकं वत्सं वत्सवदत्यंतं प्रियं । यद्वा । वत्सः पुत्रः पश्चादुत्पन्नत्वात् । तद्वदग्निरस्माकं पुत्रः । तथा चाम्नायते । मम्मैव सन्वह हव्यान्यग्ने । पुत्रः पित्रे लोककृज्जातवेदः । तै. ब्रा. [३-२-२-१०?] इति । परि षंतं परितः सर्वत्र वर्तमानं । देवेभ्यो निर्गत्याश्वत्थवेण्वादिषु निलीनं संतमित्यर्थः । एवंविधमग्निमिच्छंतो विश्वे ऽमृताः सर्वेऽमरणधर्माणो देवा आमूरा अमूढा मरुतश्च न विंदन् । तमग्निं नालभंत । अलभमानाश्च ते श्रमयुवो हव्यवाहनस्याभावेन हविषामभावात्तज्जन्येन श्रमेण क्लेशेनैकीभूताः तस्माद् अग्नेरन्वेषणाय पदव्यः पादैर्गच्छंतः धियंधा धियोमग्नेः शयनासनसंस्थानादिलक्षणानां कर्मणां धारयितारः । एवंविधाः संतश्चारु चारूणि शोभनेऽग्नेः परमे उत्तमेऽत्यंते पदे । यत्र ह्यग्निर्निलीनो वर्तते तत्र …
+
+*asme asmākaṃ vatsaṃ vatsavad atyantaṃ priyaṃ | yadvā | vatsaḥ putraḥ paścād utpannatvāt | tadvad agnir asmākaṃ putraḥ | tathā cāmnāyate | mamaiva san vaha havyāny agne | putraḥ pitre lokakṛj jātavedaḥ | tai. brā. [3-2-2-10?] iti | pari ṣantaṃ paritaḥ sarvatra vartamānaṃ | devebhyo nirgatyāśvatthaveṇvādiṣu nilīnaṃ santam ity arthaḥ | evaṃvidham agnim icchanto viśve 'mṛtāḥ sarve 'maraṇadharmāṇo devā āmūrā amūḍhā marutaś ca na vindan | tam agniṃ nālabhanta | alabhamānāś ca te śramayuvo havyavāhanasyābhāvena haviṣām abhāvāt tajjanyena śrameṇa kleśenaikībhūtāḥ tasmād agner anveṣaṇāya padavyaḥ pādair gacchantaḥ dhiyaṃdhā dhiyom agneḥ śayanāsanasaṃsthānādilakṣaṇānāṃ karmaṇāṃ dhārayitāraḥ | evaṃvidhāḥ santaś cāru cārūṇi śobhane 'gneḥ parame uttame 'tyante pade | yatra hy agnir nilīno vartate tatra …*
+
+*(Reading note: "āmūrā amūḍhā" is read as printed; "dhiyom agneḥ" is doubtful [?]; the page ends mid-sentence, continued on p. 339.)*
+
+---
+
+### Page 339 (PDF 357)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Sāyaṇa's bhāṣya of Rik 72.2 (concluded)** *(Sanskrit; doubtful places [?])*
+
+> …तस्मिन्पदे तस्थुः । स्थितवंतः । बहुविधेन प्रयासेनाग्निं ददृशुरित्यर्थः ॥ परि षंतं । उपसर्गप्रादुर्भ्यामस्तिर्यच्परः । पा. [८-३-८७?] इति षत्वं । श्रमयुवः । यु मिश्रणे । श्रमेण यूयंत इति श्रमयुवः । क्विब्वचिप्रच्छीत्यादिना । उ. [२-५७?] । विधीयमानौ क्विब्दीर्घौ वास्माद्पि धातोर्भवतः । तेनादित्वाद्गुण् [?] । पदव्यः । वी गत्यादिषु । पादेन व्ययंति गच्छंतीति पदव्यः । क्विप्चेति क्विप् । धियंधाः । आतोऽनुपसर्गे क इति कः । तत्पुरुषे कृति बहुलमिति बहुलवचनाद्द्वितीयाया अलुक् । तस्थुः । पादादित्वान्निघाताभावः । चारु । सुपां सुलुगिति सप्तम्या लुक् ॥
+
+*…tasmin pade tasthuḥ | sthitavantaḥ | bahuvidhena prayāsenāgniṃ dadṛśur ity arthaḥ || pari ṣantaṃ | upasargaprādurbhyām astir yacparaḥ | pā. [8-3-87?] iti ṣatvaṃ | śramayuvaḥ | yu miśraṇe | śrameṇa yūyanta iti śramayuvaḥ | kvib-vaci-prcchīty ādinā | u. [2-57?] | vidhīyamānau kvib-dīrghau vāsmād api dhātor bhavataḥ | tenāditvād guṇ[?] | padavyaḥ | vī gatyādiṣu | pādena vyayanti gacchantīti padavyaḥ | kvip ceti kvip | dhiyaṃdhāḥ | āto 'nupasarge ka iti kaḥ | tatpuruṣe kṛti bahulam iti bahulavacanād dvitīyāyā aluk | tasthuḥ | pādāditvān nighātābhāvaḥ | cāru | supāṃ sulug iti saptamyā luk ||*
+
+*(Reading note: this is the bhāṣya's grammatical tail; "tenāditvād guṇ" is cut/compressed in the print and doubtful [?]; the Pāṇini and Uṇādi numerals are doubtful [?].)*
+
+*Meaning of the end of the main sense:* …in that place (*pade*) they stood (*tasthuḥ*): that is, with much trouble they at last saw Agni. *Meaning of the tail (characterized):* *pari ṣantam* (*ṣatva* of the *s* of *sat* after the prefix); *śramayuvaḥ* (root *yu miśraṇe*: "joined with exertion"; *kvip* with lengthening, Uṇ. [2-57?]); *padavyaḥ* (root *vī* "to go"; "those who go on foot"; *kvip*); *dhiyaṃdhāḥ* (root *dhā* with *ka* in a compound without an upasarga; the second case not elided by the *bahula*-statement); *tasthuḥ* (no nighāta because at the head of a pāda); *cāru* (the locative ending lost by *supāṃ sulug…*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*asme* — for us; *vatsam* — like a son (the object of love); *pari ṣantam* — present everywhere (Agni); *icchantaḥ* — desiring; *viśve amṛtāḥ* — all the immortals (the gods); *amūrāḥ* — the unbewildered (the Maruts, the gods); *na vindan* — did not find (Agni); *śramayuvaḥ* — (without the oblation carried by Agni) united with weariness; *agneḥ* — Agni's (for seeking); *padavyaḥ* — walking on foot; *dhiyaṃdhāḥ* — (holding Agni's lying down and the rest) holding the deeds in the mind; *cāru* — pleasing; *parame* — excellent; *pade* — (where Agni was hidden) in the place; *tasthuḥ* — they stood.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+All the gods and the Maruts, who are not deluded, looked for Agni — dear to us like a son and present everywhere — and did not find him (without the oblation brought by Agni). Tired, all gathered together, searching for him on foot, and bearing in mind his deeds, they finally stood, seeing (him), in the pleasing, excellent place.
+
+**English Translation** *(the source's own, as printed):*
+
+> All the immortals, and the unbewildered (Maruts) wishing for him who was (dear) to us as a son, and was everywhere around, discovered him not; oppressed with fatigue, wandering on foot, and cognizant of his acts, they stopped at the last beautiful (hiding) place of Agni.
+
+---
+
+### Page 340 (PDF 358)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 72".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "In this Ṛk the greatness of performing the rites is described. To give an example that, however much one may hide from the greatness of the rites, the favour of Agni cannot be escaped, it is described how the gods and the experienced Maruts, after searching a long time, each carrying their own rites in mind with faith, afterwards found Agni's lovely place; thus the greatness of Agni is described."
+- **अस्मे** — *asmākam* — "'of us': (Ni. [6-6?]) after the opening *atha dvātriṃśataṃ padāni* ('now the thirty-two words'), the word *asme* is stated among the words whose meaning is explained. It has the same form in all cases; hence it is of many meanings. In *asme te bandhuḥ* it ends in the first case; in *asme yotaṃ nāsatyā sajoṣāḥ* it shows the sense of the second case. In this way the Nirukta gives examples for the seven cases. Skandasvāmin: '*asme iti tādarthye caturthī | asmākaṃ haviḥ-niryānārtham*': the word *asme* is the fourth case of purpose, with the sense 'for the sake of bringing our oblations'."
+- **वत्सं न** — "the word *na* (Ni. [1-4?]) is meant as a negation; likewise *na iti pratiṣedhārthīyaḥ upamārthe ca ity ubhayam api draṣṭavyam* — 'the word *na* is to be seen as both negation and comparison' (Ni. [1-4?]). *Vatsam iva* — 'like a son': Skandasvāmin, and Sāyaṇa too, explains *na vinde* in the sense of negation: *na labhante* — 'they did not find'. *Vatsavat atyantaṃ priyam* — Agni is greatly beloved like a child; or, *vatsa* = 'son', since he is born from the *araṇi* afterwards through us, he is a son to us, who perform the sacrifice.
+
+  > मम्मैव सन्वह हव्यान्यग्ने । पुत्रः पित्रे लोककृज्जातवेदः ॥
+  > *mamaiva san vaha havyāny agne | putraḥ pitre lokakṛj jātavedaḥ ||* (Tai. Brā. [3-2-2-10?])
+
+  'O Agni, creator of the world, O Jātavedas, being mine, carry my oblations, as a son [carries] to a father': this is the meaning of that mantra. As a son who does what his father says is dear to him, the name 'son' is a figurative designation — this is what is called *aupacārika* [figurative use]." *(Gloss mine and tentative.)*
+- **परि षंतम्** — "Sāyaṇa's sense: 'one who is hidden among the trees, such as the *aśvattha*, the bamboo, etc., after he went out from among the gods.' Skandasvāmin's sense: 'one who is hidden, from fear of having to carry oblations, as children (hide) so as not to be seen anywhere.'" *(continued on p. 341)*
+
+---
+
+**Progress note:** Printed pp. 1–340 done (PDF 19–358): Sūktas 62–71 complete. **Sūkta 72** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Rik 72.1 complete; **Rik 72.2** (printed "2 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (*asme*, *vatsaṃ na*, *pari ṣantam*) done (pp. 338–340); the Special Topics break off in the *pari ṣantam* note at the foot of p. 340; the grammar page not yet seen. Next: p. 341 (PDF 359). Plan for the current "next 2 sūktas" request: finish Sūkta 72 (Riks 72.2–72.10). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 72.2 (pp. 338–339) compressed and partly doubtful [?].
