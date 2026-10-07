@@ -5121,4 +5121,57 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–257 done (PDF 19–275): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1–69.4 complete; **Rik 69.5** (the last) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics begun (p. 257). Next: p. 258 (PDF 276), the rest of the Special Topics and the grammar page of Rik 69.5, the closing line of Sūkta 69; then **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 258 (PDF 276)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Special Topics (concluded; Kannada).**
+
+- **उस्रः** — *nivāsayitā* — "one who makes the sacrificers dwell happily. The word *usra* is read among the nine names of *go* (Ni. [1-5]) and among the fifteen names of 'ray' (Ni. [1-15]). Skandasvāmin explains by this that Agni is like a bull of the best kind [or 'a ray like a bull?'] [print compressed, doubtful, ?]."
+- **चिकेतत् अस्मै** — "Here *asmai* is in the sense of *imam*, an accusative [the print: 'second case']; and *ciketat*, a verb in the singular, is used in the sense of a plural; so Agni, knowing his own nature well, they praise, and offer oblations; whoever praises Agni and offers oblations, by keeping the form of Agni in mind, gains wealth, knowing the many ways [of obtaining it]. Sāyaṇa takes: *asmai yajamānāya ciketat jānātu abhimataphalaṃ dadātv iti*; or *idaṃ sūktarūpaṃ stotraṃ jānātu* — 'may Agni grant favour so that he may fulfil the sacrificer's desires, or may know this praise in the form of this sūkta'. The rays of this Agni, bearing the oblations of themselves, pervade the sacrificial houses; afterwards they pervade the gods in the atmosphere: this is how he explains *navati* [as] 'motion'.
+- *Skandasvāmin* on **नवन्त गावः** [sic: *navanta*]: "all men who praise see the light of Agni when it shines in the middle of the sacrificial altar; and in heaven also, to see his light, they praise Agni." The two commentaries, taking one word in different ways and connecting it with different other words, differ in their meaning: this is pointed out."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 69.5 (noted briefly).** **विभावा**: root *bhā dīptau*; by "ato manin-kvanip-vanipaś ca" the affix *vanip*; the word *vibhāvan*; since *vanip* is *p*-marked, unaccented. **उस्रः**: root *vasa nivāse*; by "sthāyitambhāvī…" (Uṇ. Sū. 2-[120], as read) the affix *rak*; since this root is read in the *yajādi* list, when the following affix is *k*-marked by "vacisvapiyajādīnāṃ kiti" *samprasāraṇa*; by "samprasāraṇāc ca" the former form; by the affix accent the final acute. **चिकेतत्**: root *kita jñāne*, of the *juhotyādi* class; *leṭ*, third person singular, *tip*; by "itaś ca lopaḥ" the loss of *i*; the vikaraṇa *śluḥ*; by "ślau" the doubling of the root; the reduplicative syllable keeps the first consonant; by "kuhoś cuḥ" *c*; by "leṭoḍāṭau" the *aṭ*; by "pugantalaghūpadhasya ca" *guṇa* of the light penultimate; though here the root has the *abhyasta* designation, so that by "nābhyastasyāci piti sārvadhātuke" (Pā. Sū. 7-3-87, as read) the *guṇa* would be prohibited, by the statement "bahulaṃ chandasīti vaktavyam" (Kā. 7-3-87-1, as read, ?) the prohibition does not apply here; by "abhyastānām ādiḥ" the initial acute. **त्मना**: the word *ātman*; the instrumental singular following, by "mantreṣv āṅy ādyāder ātmanaḥ" (Pā. Sū. 6-4-141) the loss of the initial *ā*. **ऋण्वन्**: roots *ivi, rivi, ravi, dhavi* in the sense of motion; the *num* augment by "idito num dhātoḥ"; in the present sense the Vedic *laṅ*; the third person plural, by "jho 'ntaḥ" the substitute; by "vyatyayo bahulam" *samprasāraṇa* for the *r*; by "samprasāraṇāc ca" the former form; by the statement "ṛvarṇān nasya ṇatvaṃ vācyam" the *ṇ* for the *n* of *num*: *ṛṇvan*. Or: root *ṛṇi gatau* [*ṛṇu*], of the *tanādi* class; by "tanādikṛñbhya uḥ" the vikaraṇa *u*; the form as before; since it follows an acute-ending word, the *nighāta* accent. **नवन्त**: root *nava gatau*; here too the Vedic *laṅ*; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; since it follows an acute-ending word and stands at the beginning of the *pāda*, no *nighāta*; the root accent gives the initial acute. **॥ ९–१० ॥** *Grammar page, noted briefly; sūtra numbers as read.*
+
+*Closing line of the sūkta (Kannada, printed centred):* **"अरवत्तोंभत्तनेय सूक्तवु समाप्तवु"** — "*aravattombhattaneya sūktavu samāptavu*" — "The sixty-ninth sūkta is concluded." *(Sūkta 69 is complete: five four-pāda Ṛks = ten half-Ṛks; printed pp. 240–259.)*
+
+---
+
+## SŪKTA 70 *(printed p. 260 = PDF 278; sixth sūkta of the Twelfth Anuvāka)*
+
+### Page 260 (PDF 278) — Sāyaṇa's introduction; Kannada anuvāda; heading block; Rik 70.1 Saṃhitā
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70" as read.)*
+
+**Printed on the page:** the line "*Eppattaneya sūktavu*" ("the seventieth sūkta"), then:
+
+> **वनेमेति द्वैपदमेकादशर्चमध्ययनतः षडृचं षष्ठं सूक्तं । ऋष्याद्याः पूर्ववत् । आनुक्रान्तं च । वनेम्मैकादशेति ॥ विनियोगो लैङ्गिकः ॥**
+> *vanemeti dvaipadam ekādaśarcam adhyayanataḥ ṣaḍṛcaṃ ṣaṣṭhaṃ sūktaṃ | ṛṣyādyāḥ pūrvavat | ānukrāntaṃ ca | vanemmaikādaśeti || viniyogo laiṅgikaḥ ||*
+> *"'Vanema' is the sixth sūkta, a *dvaipada* of eleven [half-]Ṛks, by study of six Ṛks. The ṛṣi and the rest as before; and it is stated in the Anukramaṇī as '*vanema ekādaśa*'. The application is *laiṅgika*."* *(The print has the clearly misprinted "वनेम्मैकादश"; given as printed [sic].)*
+
+**Anuvāda (Kannada).** "The sūkta '*vanema*' is the sixth sūkta in the twelfth anuvāka. It has six Ṛks. The ṛṣi, deity and metre are as in the previous sūkta. In the Anukramaṇikā it is mentioned as '*vanema ekādaśa*'. The application is *laiṅgika*."
+
+**Sūkta — 70** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ७० ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — १४ ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ६ (११) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+*(The sūkta has eleven half-Ṛks, printed as six Ṛks: the last of the six is a single half-Ṛk.)*
+
+#### Rik 70.1 *(printed "1 || 2 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **वनेम पूर्वीरर्यो मनीषा अग्निः सुशोको विश्वान्यश्याः ।**
+> **आ दैव्यानि व्रता चिकित्वानामानुषस्य जनस्य जन्म ॥ १ ॥ २ ॥**
+> *vanema pūrvīr aryo manīṣā agniḥ suśoko viśvāny aśyāḥ |*
+> *ā daivyāni vratā cikitvān ā mānuṣasya janasya janma || 1 || 2 ||*
+
+---
+
+**Progress note:** Printed pp. 1–260 done (PDF 19–278): **Sūkta 69 complete**; Sūktas 62–69 done. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks, the last single; Agni; Parāśara Śākti; sixth sūkta of the Twelfth Anuvāka): introduction, anuvāda and heading block done; **Rik 70.1** — Saṃhitā only (p. 260). Next: p. 261 (PDF 279), the Pada and bhāṣya of Rik 70.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced. **Run plan:** the user asked for two sūktas (69 and 70); Sūkta 70 continues to its end before this run stops.
