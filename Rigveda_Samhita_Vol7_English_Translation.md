@@ -1650,4 +1650,60 @@ tam it pṛṇakṣi vasunā bhavīyasā sindhum āpo yathābhito vicetasaḥ ||
 
 ---
 
-**Progress note:** Printed pp. 1–58 done (PDF 16–73) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; the tenth sūkta of Anuvāka 13; printed pp. 55–80; Varga "5" as read [?]): heading (p. 56), **Rik 83.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 56–58) done; the Special Topics break off at the foot of p. 58 (*vicetasaḥ*, mid-sentence) and continue on p. 59 (PDF 74), then the grammar of 83.1. Next: printed p. 59 (PDF 74). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52.
+### Page 59 (PDF 74)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 83.1, continued from p. 58:*
+
+"…*viśiṣṭajñānahetubhūtāḥ* — 'waters endowed with all knowledge', or rivers. How can waters that have no consciousness have knowledge? This being impossible, the *vi* in the word *vicetasaḥ* must be taken as a negating prefix, 'without' (*vigata*), and the sense then fits somewhat; so *vicetasaḥ* means 'rivers devoid of consciousness'; or: though the rivers have no knowledge that they must go and join the sea, yet, flowing through the lands, in the end they join the ocean — this is the sense to be given."
+- **अभितः** — "from all sides: whichever direction the rivers flow towards, in the end they reach only the ocean; rivers flowing in all directions reach the ocean alone — this is the intent."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.1)** *(grammar page, noted briefly; runs to p. 60)*
+
+- **अश्वावति** — *aśvāḥ asmin santi* ("horses are in this"): by "tad asyāsty asminn iti matup" (Pā. Sū. 5-2-94) the affix *matup*; by "mādupadhāyāś ca matorvo 'yavādibhyaḥ" (Pā. Sū. 8-2-9) the *m* of *matup* becomes *v* after an *a*-ending stem; by "mantre somāśvendriyāviśvadevyasya matau" (Pā. Sū. 6-3-131) in the mantra the *a* of *aśva* is lengthened before *matup*; the seventh-case singular, *ṅi* [by "supāṃ suluk…"], gives *aśvāvati*.
+- **सुप्रावीः** — *su*, *pra* are prepositions; the root *ava rakṣaṇe*, *bhvādi*; by "avitṛstṛtantribhya īḥ" (Uṇ. Sū. 3-[158] [?]) the affix *ī* after *ava*; since the affix ends in *ī*, "hal-ṅyābbhyo dīrghāt sutisy apṛktaṃ hal" does not drop the *su*; *ru* and visarga: *prāvīḥ*.
+- **ऊतिभिः** — *ava rakṣaṇe*; "ūtiyūtijūtisātihetikīrtayaś ca" (Pā. Sū. 3-3-97) — the affix *ktin* is *nipātita* in these; after *ava* *ktin* is added to give *ūti*; "jvaratvarasrivyaviyamivamām upadhāyāś ca" (Pā. Sū. 6-4-20) turns the *v* into *ūṭh*; the form is accounted for by the sūtra, but by "ūtiyūtijūti…" it is stated as a *nipātana* for the sake of accent; since *ktin* is *n*-marked it would be initial-udātta by "ñnityādir nityam", but the *nipātana* sets the udātta of the affix aside, so it is final-udātta.
+- **पृणक्षि** — the root *pṛcī saṃparke*, *rudhādi*; *śnam* as the stem-marker; in *pṛnac+si* by the *vārttika* "yuvarṇā…" (as read, "yuvarṇaśnaśatvaṃ vācyam" [?]) the *śnam*'s *n* …; by "coḥ kuḥ" (Pā. Sū. 8-2-30) the *c* becomes *k* *(continues on p. 60)*
+
+### Page 60 (PDF 75)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Grammar of Rik 83.1, concluded:*
+
+- **पृणक्षि** (concluded) — "…the *k* of the affix, since the *s* follows, would have *ṣatva*, and by the combination of *k* and *s* the *kṣ* arises."
+- **भवीयसा** — the stem *bhavīyas*, a word ending in *s*; the third-case singular. After the word *bahu*, in the sense of superiority, "dvivacanavibhajyopapade tarabīyasunau" (Pā. Sū. 5-3-57) gives the affix *īyasun*; with *īyasun* following, "bahor lopo bhū ca bahoḥ" (Pā. Sū. 6-4-158) — the *imanic* and *īyasun* affixes cause loss, and *bhū* is the substitute for *bahu*. (If the operation is made for the following (ablative) element, then, by the *paribhāṣā* "ādeḥ parasya" (Pā. Sū. 1-1-54) it applies only to the initial part of what follows; so the loss would be only of the *ī* of *īyasun* [the sūtra's *bahor lopaḥ* "loss" being taken as applying to the *ī* of *īyasun*] and *bhū*-substitution for *bahu* is obtained. But here, by the *yogavibhāga* "sarve vidhayaś chandasi vikalpyante", the sense is accepted, and only the *bhū*-substitution is made for *bahu*, and the loss of the *ī* of *īyasun* does not occur. So *īyas* remains in *īyasun*. In *bhū+īyas*, by "ṅiguṇaḥ" [as read: "oś…"] since a *taddhita* follows, guṇa arises for the *u*-ending; *bhav+īyas*; with the third-case singular *ṭā*: *bhavīyasā*. Or the word can be accounted for another way: after the word *bhavitṛ*, by "tuś chandasi" (Pā. Sū. 5-3-59) *īyasun* comes in the Veda after words ending in *tṛn*/*tṛc*; for the root *bhū*, *tṛc* with guṇa and *av* gives *bhavitṛ*; in *bhavitṛ+īyas*, by "turiṣṭhemeyaḥsu" (Pā. Sū. 6-4-154) the *tṛ* is dropped when *iṣṭhan*, *imanic*, *īyasun* follow; the savarṇa-lengthening results in the form *bhavīyas*." ||1||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 61 (PDF 76)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 83.2**
+
+> आपो न देवीरुप यन्ति होत्रियमवः पश्यन्ति विततं यथा रजः ।
+> प्राचैर्देवासः प्र णयन्ति देवयुं ब्रह्मप्रियं जोषयन्ते वरा इव ॥ २ ॥
+
+*āpo na devīr upa yanti hotriyam avaḥ paśyanti vitataṃ yathā rajaḥ |
+prācair devāsaḥ pra ṇayanti devayuṃ brahmapriyaṃ joṣayante varā iva ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आपः । न । देवीः । उप । यन्ति । होत्रियम् । अवः । पश्यन्ति । विऽततम् । यथा । रजः ।
+> प्राचैः । देवासः । प्र । नयन्ति । देवऽयुम् । ब्रह्मऽप्रियम् । जोषयन्ते । वराः । इव ॥ २ ॥
+
+*āpaḥ | na | devīḥ | upa | yanti | hotriyam | avaḥ | paśyanti | vi-tatam | yathā | rajaḥ | prācaiḥ | devāsaḥ | pra | nayanti | deva-yum | brahma-priyam | joṣayante | varāḥ | iva ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 83.2** *(Sanskrit in Kannada script; doubtful places [?]; continues on p. 62)*
+
+> आपोनप्रियो होत्रचमसेऽद्भिः पूर्यमाण आपो न देवीरित्येषानुवक्तव्या । सूत्रितं च । आपो न देवीरुप यन्ति होत्रियमिति समाप्य । आ. ३-८ [?] इति ब्राह्मणं च भवति । आपो न देवीरुप यन्ति होत्रियमिति होत्रकचमसे सन्नु वनीयमानास्सन्नाह । ऐ. ब्रा. २-२० [?] इति ॥
+
+*āponaprīyo hotracamase 'dbhiḥ pūryamāṇa āpo na devīr ity eṣānuvaktavyā | sūtritaṃ ca | āpo na devīr upa yanti hotriyam iti samāpya | Āś. 3-8 [?] iti brāhmaṇaṃ ca bhavati | āpo na devīr upa yanti hotriyam iti hotrakacamase sannu vanīyamānāḥ san nāha | Ai. Brā. 2-20 [?] iti ||*
+
+*Sense:* "In the *āponaptrīya* (rite), while the *hotṛ*'s cup (*hotracamasa*) is being filled with water, this Ṛk *āpo na devīḥ* is to be recited afterwards; so it is stated in the sūtra: '(he should conclude with) *āpo na devīr upa yanti hotriyam*' (Āś. 3-8 [?]). And the Brāhmaṇa says: '*āpo na devīr upa yanti hotriyam* — (this, being said) as [the waters] are being poured into the *hotṛ*'s cup'" (Ai. Brā. 2-20 [?]) *(the reading of the Brāhmaṇa quotation is compressed and uncertain [?])*.
+
+---
+
+**Progress note:** Printed pp. 1–61 done (PDF 16–76) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): **Rik 83.1 complete** (grammar pp. 59–60); **Rik 83.2** — Saṃhitā and Pada (p. 61) and the application note at the head of the bhāṣya done; the bhāṣya continues on p. 62 (PDF 77). Next: printed p. 62 (PDF 77). Four Ṛks (83.3–83.6) remain after 83.2, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52; the Brāhmaṇa quotation on p. 61 uncertain.
