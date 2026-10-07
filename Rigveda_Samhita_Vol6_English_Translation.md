@@ -6025,4 +6025,89 @@ Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*
 
 ---
 
-**Progress note:** Printed pp. 1–298 done (PDF 19–316): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.3 complete (71.3's grammar page on pp. 296–297); **Rik 71.4** (printed "4 ||") — Saṃhitā and Pada (pp. 297–298) and the first part of the Sāyaṇa-bhāṣya (p. 298) done; the bhāṣya breaks off at "…sakhābhavann anyo rājā sahīyase 'bhibhavitre …" at the foot of p. 298. Next: p. 299 (PDF 317), the rest of the bhāṣya of 71.4 and its tail. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.4–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Chāndogya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 71.4 on p. 298 dense and doubtful in places [?]; the Ṛgveda citations on p. 296 given as read, glosses mine and tentative.
+### Page 299 (PDF 317)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Sāyaṇa's bhāṣya of Rik 71.4 (concluded from p. 298)** *(Sanskrit in Kannada script; compressed; read from the print, doubtful places [?])*
+
+> …प्रबलाय राज्ञे न । यथा राज्ञे स्वपुरुषं दूतकर्म प्रापयतीति तद्वत् ॥ मथीत् । मथे विलोडने । लुङि ह्म्यंतक्षणेति वृद्धिप्रतिषेधः । जेन्यः । जनी प्रादुर्भावे । अस्माद्दौणादिक इन्यप्रत्ययेष्टिलोपश्चेति भट्टभास्करमिश्रः । यद्वा । जि जये । इत्यस्मात्कैल्युटो बहुलमिति बहुलवचनात्कर्तर्येन्यो यदिति [?] यत् । तस्य नुडागमश्च । यतोऽनाव इत्याद्युदात्तत्वं । दूत्यं । दूतस्य कर्म दूत्यं । दूतस्य भागकर्मणी इति यत् । तित्स्वरिते इति स्वरितत्वं । यतोऽनाव इत्याद्युदात्तत्वं । त्वनित्यमिति वीरवीर्यौ चेत्यत्र ज्ञापितं । भृगवाणः । भृगुरिवाचरन् सर्वप्रातिपदिकेभ्यः क्विब्वक्तव्यः । म. [३-१-११-४?] इति वचनात् क्विप् । तदंतात्कल्टो व्यत्ययेन शानच् । अदुपदेशात्सर्वधातुकानुदात्तत्वे प्रत्ययांतधातोरंतोदात्तत्वे प्राप्ते वृषादेराकृतिगणत्वादाद्युदात्तत्वं । विवाय । वी गत्यादिषु । अस्मादंतेर्भाविताणिक्यर्थाल्लिट् ॥
+
+*…prabalāya rājñe na | yathā rājñe svapuruṣaṃ dūtakarma prāpayatīti tadvat || mathīt | mathe viloḍane | luṅi hmyantakṣaṇeti vṛddhipratiṣedhaḥ | jenyaḥ | janī prādurbhāve | asmād dauṇādika inyapratyayeṣṭilopaś ceti bhaṭṭabhāskaramiśraḥ | yadvā | ji jaye | ity asmāt kailyuṭo bahulam iti bahulavacanāt kartary enyo yad iti [?] yat | tasya nuḍāgamaś ca | yato 'nāva ity ādyudāttatvaṃ | dūtyaṃ | dūtasya karma dūtyaṃ | dūtasya bhāgakarmaṇī iti yat | titsvarite iti svaritatvaṃ | yato 'nāva ity ādyudāttatvaṃ | tvanityam iti vīravīryau cetyatra jñāpitaṃ | bhṛgavāṇaḥ | bhṛgur ivācaran sarvaprātipadikebhyaḥ kvib vaktavyaḥ | ma. [3-1-11-4?] iti vacanāt kvip | tadantāt kalṭo vyatyayena śānac | adupadeśāt sarvadhātukānudāttatve pratyayāntadhātor antodāttatve prāpte vṛṣāder ākṛtigaṇatvād ādyudāttatvaṃ | vivāya | vī gatyādiṣu | asmād anter bhāvitaṇikyarthāl liṭ ||*
+
+*(Reading note: this is the bhāṣya's grammatical tail; it is characterized below, not treated line by line. Many of its syllables ("hmyantakṣaṇa", "kailyuṭaḥ", "kalṭaḥ", "anter bhāvitaṇikyarthāt") and the Mahābhāṣya numeral are doubtful [?]. The first line completes the sentence of p. 298: "…as a king sends his own man for the office of messenger to a mightier king, so [the sacrificer to Agni].")*
+
+*Meaning of the tail (characterized):* *mathīt* — root *mathe* "to churn"; *luṅ*; the *vṛddhi* is prohibited; *jenyaḥ* — root *janī* "to be born"; the *inya*-affix is Uṇādic, and the loss of *ṭi*, thus Bhaṭṭabhāskaramiśra [as read]; or from the root *ji* "to conquer", with a Vedic *yat*, with the *nuṭ* augment; initial acute; *dūtyam* — "the office of the messenger", *yat* by the sūtra on the portion and work of *dūta*, svarita by *titsvarite*; *bhṛgavāṇaḥ* — "acting like Bhṛgu", *kvip* after every stem, then *śānac*; initial acute since *vṛṣa*-class words are an open class (*ākṛtigaṇa*); *vivāya* — root *vī* "to go and so on", *liṭ*, with the sense of the causative included.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*vibhṛtaḥ* — standing in five ways, as *prāṇa*, *apāna* and the rest; *mātariśvā* — the wind; *īm* — this Agni; *yat* — when; *mathīt* — he who churned (then); *śyetaḥ* — of bright colour; *gṛhe-gṛhe* — in every sacrificial hall; *jenyaḥ bhūt* — he became manifest (the destroyer of the demons); *āt* — after manifestation; *īm* — to this Agni; *bhṛgavāṇaḥ* — the sacrificer who behaves like the sage Bhṛgu; *sacā san* — becoming a friend (the king); *sahīyase* — (to him who) defeated (him); *rājñe na* — like a king; *dūtyam* — the office of messenger; *ā vivāya* — he caused to be undertaken (made).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+When the wind that fills every opening makes Agni blaze, Agni appears, bright of colour, in all the sacrificial halls. As the sacrificer — like the sage Bhṛgu — sends a messenger to a defeated king who has become friendly towards his conqueror, so Agni performs the office of messenger.
+
+**English Translation** *(the source's own, as printed):*
+
+> When the diffusive vital air excites Agni, he becomes bright and manifest in every mansion, and the institutor of the rite, imitating Bhrigu, prevails on him to perform the function of messenger, as a prince who has become a friend sends an ambassador to his more powerful (conqueror).
+
+---
+
+### Page 300 (PDF 318)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **मातरिश्वा मथीत्** — "For the explanation of the word *mātariśvā* see the Special Topics of Ṛk 1-[93]-6. *Kīdṛśo mātariśvā* — *vibhṛtaḥ*: *prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ* — 'what kind of Mātariśvan? *vibhṛta*' — divided in living beings in the five forms of function, *prāṇa*, *apāna* and the rest. In beings the pervading breath is divided into five — *prāṇa*, *apāna*, *vyāna*, *udāna* and *samāna*: this is the sense of the word *vibhṛtaḥ*. Among these, in this context *mātariśvā* means the chief breath (*mukhyaprāṇa*) abiding in the form of *vyāna* — thus the bhāṣyakāra explains: the wind in this form is able to churn Agni and has accomplished the work. To support this, the Chāndogya passage is quoted: *atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti* — in praise of the wind in the form of *vyāna*: "All the deeds of valour such as churning of fire, which cannot be done by the power of *prāṇa* and *apāna*, can be done only by the wind in the form of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. [1-3-5?])."
+- *A story prior to the churning of Agni:* "There is a story current about the churning of Agni: as it says, *sarvam idam andhaṃ tama āsīt | atha mātariśvā kāśe sūkṣmam agnim apaśyat | tam amathnāt | mathitvā ca nanu yad iti* [as read, ?] — 'all this was dark; then Mātariśvan saw in the sky the subtle Agni; he churned him' [gloss mine and tentative]. Then Mātariśvan, recognizing the fire in subtle form, churned it; afterwards he is said to have called it to the sacrifice as favourable: this well-known story is told in many places in the Ṛk Saṃhitā in subtle form. For example:
+
+  > आस्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
+  > *āsyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ* (Ṛk. Saṃ. [1-93-6?])
+
+  > आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ।
+  > *ā dūto agnim abharad vivasvato vaiśvānaraṃ mātariśvā parāvataḥ* (Ṛk. Saṃ. [6-8-4?])
+
+  In these sūktas too, as here, praise of Agni is told together with the older story. Thus, after Mātariśvan fetched him, Agni shone in the house of sacrifice — such is the meaning." *(Glosses mine and tentative: "Mātariśvan carried one [fire] from heaven; the falcon churned another from the rock"; "the messenger Mātariśvan brought Agni Vaiśvānara from the far-off to Vivasvat".)*
+- **श्येतः** — *śubhravarṇo bhūtvā* — "becoming bright of colour: shining brightly."
+- **जेन्यः** — *prādurbhūtaḥ bhūt | yadvā rakṣaṇaṃ tamasāṃ vā jetā abhavat* — "became manifest; or became the conqueror of the demons or of the darkness. Mātariśvan, having brought Agni to the sacrificial house, became manifest over him; or the two meanings may be given — victorious over the darkness and over the enemies as well, he shone." *(Continued on p. 301.)*
+
+---
+
+### Page 301 (PDF 319)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.4 (continued)**
+
+- **जेन्यः** (concluded) — "…But the word *jenyaḥ* is used in the Ṛk Saṃhitā mostly in the sense of 'one of victorious nature'; in various Ṛks, [1-[?]-2; 1-[?]-6; 1-[?]-3; 3-[?]-1; 10-[?]-4] and so on, the meaning 'of victorious nature' (*jayaśīlaḥ*) is appropriate. Here too that sense is natural." *(Ṛgveda numerals read doubtfully [?].)*
+- **सचा सन्** — *sakhā bhavan* — "becoming a friend. *Dūtasya karma ā vivāya* — he caused the work of messenger to be done: 'he made him carry out the duties of a messenger.' Agni is described in many places as the most dear friend, both of the sacrificer and of the gods. For example:
+
+  > आ हि ष्मा सूनवे पिता पिर्यजत्यापये । सखा सख्ये वरेण्यः ॥
+  > *ā hi ṣmā sūnave pitāpir yajaty āpaye | sakhā sakhye vareṇyaḥ ||* (Ṛk. Saṃ. [1-26-3?])
+
+  > त्वं जामिर्जनानामग्ने मित्रो असि प्रियः । सखा सखिभ्य ईड्यः ॥
+  > *tvaṃ jāmir janānām agne mitro asi priyaḥ | sakhā sakhibhya īḍyaḥ ||* (Ṛk. Saṃ. [1-75-4?])
+
+  > त्वं पुत्रो भवसि यस्तेऽविधत्त्वं सखा सुशेवः पास्याधृषः ।
+  > *tvaṃ putro bhavasi yas te 'vidhat tvaṃ sakhā suśevaḥ pāsy ādhṛṣaḥ |* (Ṛk. Saṃ. [2-1-9?])
+
+  > त्वं त्राता तरणे चेत्यो भूः पिता माता सदमिन्मानुषाणाम् ।
+  > *tvaṃ trātā taraṇe cetyo bhūḥ pitā mātā sadam in mānuṣāṇām |* (Ṛk. Saṃ. [6-1-5?])
+
+  In Ṛks such as these, as the friendship and helpfulness of Agni are told, so here too it is praised that he, being such a friend, performed the duty of a messenger. The dialogue that goes on between Agni, who is petitioned to carry out the office of messenger, and the other gods, in the fifty-first sūkta of the tenth maṇḍala [as read, ?], explains this context well. Moreover:
+
+  > अग्निं दूतं वृणीमहे होतारं विश्ववेदसम् ।
+  > *agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam* (Ṛk. Saṃ. [1-12-1?])
+
+  > देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।
+  > *devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate* (Ṛk. Saṃ. [1-36-4?])
+
+  > जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।
+  > *juṣṭo hi dūto asi havyavāhano 'gne rathīr adhvarāṇām* (Ṛk. Saṃ. [1-44-2?])
+
+  — that Agni, as a messenger, is the equal of both gods and men who perform sacrifices, is natural; but for him to be a messenger to such, the sacrificer's qualification must be of great excellence — to show this …" *(page breaks off; continued on p. 302.)* *(Ṛgveda numerals as read, [?]; glosses mine and tentative: "for a son the father is *āpi*, friend with the friend, the choicest one worships" [?]; "you are the kinsman of men, O Agni, the dear friend; the friend is to be praised by friends"; "you are the son to him who has served you, you are the kind, unassailable friend"; "you the saviour, to be known in the crossing, are ever father and mother of men"; "we choose Agni as messenger, the priest, who knows all"; "the gods, Varuṇa, Mitra, Aryaman kindle you, the ancient messenger"; "you are the welcome messenger, carrier of oblation, O Agni, charioteer of the rites".)*
+
+---
+
+**Progress note:** Printed pp. 1–301 done (PDF 19–319): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.3 complete; **Rik 71.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and most of the Special Topics (pp. 297–301) done; the Special Topics break off in the discussion of *sacā san* (Agni as friend and messenger) at the foot of p. 301; the grammar page of 71.4 is not yet seen. Next: p. 302 (PDF 320). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.5–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Chāndogya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 300–301 (Sanskrit as read, glosses mine and tentative) doubtful [?]; the bhāṣya's grammatical tail (p. 299) very compressed and doubtful.
