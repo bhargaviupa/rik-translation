@@ -3786,4 +3786,86 @@ Closing of Rik 84.18: "॥ १८ ॥" (18), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–137 done (PDF 16–152) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.18 complete**; **Rik 84.19** (Bṛhatī) — Saṃhitā done (foot of p. 137); next: the Pada, bhāṣya and the rest of 84.19. Next: printed p. 138 (PDF 153). Rik 84.20 (Satobṛhatī) remains after 84.19, then the closing of Sūkta 84 (ends p. 142). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 138 (PDF 153)
+
+*(Running head: "138 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 84.19)**
+
+> त्वम् । अङ्ग । प्र । शंसिषः । देवः । शविष्ठ । मर्त्यम् ।
+> न । त्वत् । अन्यः । मघऽवन् । अस्ति । मर्डिता । इन्द्र । ब्रवीमि । ते । वचः ॥ १९ ॥
+
+*tvam | aṅga | pra | śaṃsiṣaḥ | devaḥ | śaviṣṭha | martyam | na | tvat | anyaḥ | magha-van | asti | marḍitā | indra | bravīmi | te | vacaḥ ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 84.19)**
+
+> अङ्गेत्यभिमुखीकरणे । अङ्ग शविष्ठ हे बलवत्तमेन्द्र देवो द्योतमानस्त्वं मर्त्यं मरणधर्माणं त्वां स्तुतवन्तं पुरुषं प्र शंसिषः । सम्यगेनेन स्तुतमिति प्रशंसा । हे मघवन् धनवन्निन्द्र त्वदन्यस्त्वत्तोऽन्यः कश्चिन्मर्डिता सुखयिता नास्ति । अतः कारणात्ते तुभ्यमिदं स्तुतिलक्षणं वचो ब्रवीमि । उच्चारयामि ॥ शंसिषः । शंसु स्तुतौ । लेटि सिप्यडागमः । सिब्बहुलं लेटीति विकरणश्च सिप् । तस्यार्धधातुकत्वादिडागमः । शविष्ठ । अतिशयेन शवस्वी शविष्ठः । इष्ठनि विन्मतोर्लुक् । टेरिति टिलोपः । मर्डिता । मृड सुखने । तृचि इडागमः ॥
+
+*aṅgety abhimukhīkaraṇe | aṅga śaviṣṭha he balavattamendra devo dyotamānas tvaṃ martyaṃ maraṇadharmāṇaṃ tvāṃ stutavantaṃ puruṣaṃ pra śaṃsiṣaḥ | samyag anena stutam iti praśaṃsā | he maghavan dhanavann indra tvadanyas tvatto 'nyaḥ kaścin marḍitā sukhayitā nāsti | ataḥ kāraṇāt te tubhyam idaṃ stutilakṣaṇaṃ vaco bravīmi | uccārayāmi ‖ śaṃsiṣaḥ | śaṃsu stutau | leṭi sipy aḍāgamaḥ | sibbahulaṃ leṭīti vikaraṇaś ca sip | tasyārdhadhātukatvād iḍāgamaḥ | śaviṣṭha | atiśayena śavasvī śaviṣṭhaḥ | iṣṭhani vinmator luk | ṭer iti ṭilopaḥ | marḍitā | mṛḍa sukhane | tṛci iḍāgamaḥ ‖*
+
+*Translation:* "*Aṅga* is in the sense of turning towards (addressing). O *śaviṣṭha*, most powerful Indra, shining god, you *pra śaṃsiṣaḥ* — favour with praise — the mortal, the man who is subject to death, who has praised you; 'praise' means that it has been well praised by this. O Maghavan, wealthy Indra, there is no other than you, no one apart from you, who is *marḍitā*, the giver of happiness. For that reason I speak to you this word, of the nature of praise — I utter it." *Grammar tail, noted briefly:* *śaṃsiṣaḥ* — *śaṃsu stutau*, *leṭ* with *sip* and the augment *aṭ*, and the augment *iṭ* because the affix is *ārdhadhātuka*; *śaviṣṭha* — *śavasvin* + *iṣṭhan*, the elision of the *vin*-suffix, loss of the final syllable (*ṭi*); *marḍitā* — *mṛḍa sukhane*, affix *tṛc*, augment *iṭ*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 84.19)** *(Kannada)*
+
+*aṅga śaviṣṭha* — O extremely mighty Indra; *devaḥ* — shining; *tvam* — you; *martyam* — the mortal (who praises you); *praśaṃsiṣaḥ* — favour (with praise that betokens your satisfaction); *maghavan* — wealthy; *indra* — O Indra; *tvadanyaḥ* — other than you, anyone; *marḍitā* — as giver of happiness; *na asti* — there is none (therefore); *te* — to you; *vacaḥ* — (this) word, of the form of praise; *bravīmi* — I speak.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.19** *(Kannada)*
+
+"O exceedingly mighty Indra, you, being resplendent, favour the mortal who praises you with a praise that betokens your satisfaction. O wealthy Indra, apart from you there is no one else who gives us happiness. Therefore I address this word of praise to you."
+
+**English Translation** *(printed in English in the source)*
+
+"O powerful Indra, be present and be favourable to the mortal who adores you; there is no other giver of felicity, O Maghavan, than you; therefore I recite your praise." — as printed.
+
+---
+
+### Page 139 (PDF 154)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 139.)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.19)**
+
+- **अङ्ग** — *abhimukhīkaraṇe* — "'in the sense of turning towards': it is the bhāṣyakāra's view that the word *aṅga* is used when one praises, imagining Indra to stand before one's eyes, as it were, facing one."
+- **शविष्ठ** — "*śavaḥ* means strength (Ni. [3-?] [?]); *śaviṣṭha* means 'exceedingly strong': *atiśayena śavasvī śaviṣṭhaḥ*."
+- **मर्डिता** — *mṛḍa sukhane* — "one who gives happiness."
+- **ब्रवीमि ते वचः** — "I praise you with words of the nature of praise."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.19)** *(grammar page, noted briefly; begins here)*
+
+- **शंसिषः** — the root *śaṃsu stutau*; *leṭ*, second person singular, the affix *sip*; by "इतश्च लोपः" (*itaś ca lopaḥ*) the loss of its *i*; by "लेटोऽडाटौ" again the augment *aṭ*; by "सिब्बहुलं लेटि" (*sibbahulaṃ leṭi*) *sip* in place of the *vikaraṇa*; as it has the designation *ārdhadhātuka*, by "आर्धधातुकस्येड्वलादेः" (*ārdhadhātukasyeḍ valādeḥ*) the augment *iṭ*; by the rule on the replacement of the affix and the root, *ṣatva*; the *s* of the affix becomes *ru*, then *visarga*: the form *śaṃsiṣaḥ*; the *nighāta* accent by "तिङ्ङतिङः".
+- **शविष्ठ** — *atiśayena śavasvī śaviṣṭhaḥ*; by "अतिशायने तमबिष्ठनौ" (*atiśāyane tamabiṣṭhanau*) the affix *iṣṭhan* after *śavasvin*; by "विन्मतोर्लुक्" (*vinmator luk*, Pā. Sū. 5-3-65 [?]) the *luk* of the *vin*-affix before *iṣṭhan*; by "टेः" (*ṭeḥ*, Pā. Sū. 6-4-155 [?]) the elision of the *ṭi* part (*as*) of *śavas*; the word *śaviṣṭha*; in the vocative, by "एङ्ह्रस्वात्सम्बुद्धेः" (*eṅhrasvāt sambuddheḥ*) the loss of *su*; the *nighāta* accent by "आमन्त्रितस्य च".
+- **अस्ति** — the root *as bhuvi*; *laṭ*, third person singular; the *nighāta* by "तिङ्ङतिङः".
+- **मर्डिता** — the root *mṛḍa sukhane*; the affix *tṛc* in the sense of the agent; by "आर्धधातुकस्येड्वलादेः" the augment *iṭ*; because of the *ārdhadhātuka* the root gets *guṇa* (*laghūpadha*); the word *marḍitṛ*; by "चितः" the final acute accent; the nominative *su* following, by "ऋदुशनस्पुरुदंसोऽनेहसां च" (*ṛduśanas…*) the substitution *anaṅ*; by "अप्तृन्तृच्…" (*aptṛntṛc-svasṛnaptṛ…*, Pā. Sū. 6-4-11) the lengthening of the penultimate; by "हल्ङ्याब्भ्यो…" (*hal-ṅyābbhyo dīrghāt sutisyapṛktaṃ hal*) the elision of *su*; by "नलोपः प्रातिपदिकान्तस्य" (*nalopaḥ prātipadikāntasya*) the loss of *n*: the form *marḍitā*.
+
+---
+
+### Page 140 (PDF 155)
+
+*(Running head: "140 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Vyākaraṇa-prakriyā of Rik 84.19, continued from p. 139 (grammar page, noted briefly):*
+
+- **ब्रवीमि** — the root *brūñ vyaktāyāṃ vācī*; Adādi; first person singular, the affix *mip*; by "ब्रुव ईट्" (*bruva īṭ*, Pā. Sū. 7-3-93 [?]) the augment *īṭ*; as the affix is *sārvadhātuka*, guṇa to the *ū* of the root; *av*-substitution.
+- **वचः** — the root *vaca paribhāṣaṇe*; by "सर्वधातुभ्योऽसुन्" (*sarvadhātubhyo 'sun*, Uṇ. Sū. [4-189?] [?]) the affix *asun*; being *nit*, it takes the acute on the first syllable.
+
+Closing of Rik 84.19: "॥ १९ ॥" (19), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 84.20)** *(Satobṛhatī; Indra; accents not reproduced)*
+
+> मा ते राधांसि मा त ऊतयो वसोऽस्मान्कदा चना दभन् ।
+> विश्वा च न उपमिमीहि मानुष वसूनि चर्षणिभ्य आ ॥ २० ॥
+
+*mā te rādhāṃsi mā ta ūtayo vaso 'smān kadā canā dabhan | viśvā ca na upamimīhi mānuṣa vasūni carṣaṇibhya ā ‖ 20 ‖*
+
+*Gloss, mine and tentative:* "Let not your bounties, let not your helps, O Vasu, ever harm us; and bestow upon us all treasures, O friend of men, and upon the peoples."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 84.20)**
+
+> मा । ते । राधांसि । मा । ते । ऊतयः । वसो इति । अस्मान् । कदा । चन । दभन् ।
+> विश्वा । च । नः । उपऽमिमीहि । मानुष । वसूनि । चर्षणिऽभ्यः । आ ॥ २० ॥
+
+*mā | te | rādhāṃsi | mā | te | ūtayaḥ | vaso iti | asmān | kadā | cana | dabhan | viśvā | ca | naḥ | upa-mimīhi | mānuṣa | vasūni | carṣaṇi-bhyaḥ | ā ‖ 20 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–140 done (PDF 16–155) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.19 complete**; **Rik 84.20** (the last, Satobṛhatī) — Saṃhitā and Pada done (p. 140); next: its bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, and the closing of Sūkta 84 (to p. 142). Next: printed p. 141 (PDF 156). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
