@@ -9532,4 +9532,87 @@ O Agni! The man who, having fallen from his own position, becomes an inferior on
 
 ---
 
-**Progress note:** Printed pp. 1–450 done (PDF 19–468): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.7 complete (74.7's grammar page on p. 449); **Rik 74.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 449–450) and the Special Topics begun (*tvotaḥ*, breaking off at the foot of p. 450); the grammar page not yet seen. Next: p. 451 (PDF 469); then Rik 74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya-Prātiśākhya reference on p. 449 doubtful [?].
+### Page 451 (PDF 469)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 74.8 (continued)**
+
+- **अपरः** — "*para* means best, highest; *apara* means one who is not best, who is not independent: one who is still under another's authority."
+- **वाजी** — "since *vājaḥ* is read among the twenty-eight names of food, *andhaḥ*, *vājaḥ* and so on (Ni. [2-7?]), *vāja* means food. *Vājo 'syāstīti vājī* — one who has food is *vājī*: the sense is that, by Agni's favour, he has obtained food."
+- **अह्रयः** — *hrī lajjāyām | jihretīti hrayaḥ | na hrayo 'hrayaḥ* — "free of shame, or one who need not be afraid in the fear of being slighted. A man who lives under another's authority must obey that other's commands, and so is often subject to slights. By Agni's favour he obtains food and other things, and, when independent, no shame or fear of any kind remains."
+- **दाश्वान्** — *havīṃṣi dātā* — "one who gives oblations to Agni. Before offering the oblations that man, being under another's power, and suffering hardship for lack of food and the like, after he offers oblations to Agni, by Agni's favour obtains food and other things, is free from shame and fear, becomes the best among the people, and lives: such is the chief sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.8, noted briefly; not transcribed)*
+
+Words treated: *vājī* (*vājo 'syāstīti vājī*; the *ini* affix in the sense of possession by *ata iniṭhanau*, Pā. [5-2-115]; the affix's accent gives the final acute). *ahrayaḥ* (root *hrī lajjāyām*; "he is ashamed" — *hraya*; as it is read in the *pacādi* class, the affix *ac*; guṇa of the root's *ī* for the sake of that affix; *ayādeśa*; "not ashamed", *ahraya*, a negative tatpuruṣa; by *tatpuruṣe tulyārthatṛtīyā…*, Pā. [6-2-2], the indeclinable first member keeps its natural accent). *dāśvān* (root *dāś dāne*; the *kvasu* affix by nipāta by *dāśvān sāhvān mīḍhvāṃś ca*, Pā. [6-1-12]; the stem *dāśvas*; before *su*, lengthening of the penultimate by *ātvasantasya cādhātoḥ*, Pā. [6-4-14]; *num* since *ugit*; loss of *su* by *halṅyābbhyo…*; loss of the final *t* by *saṃyogāntalopa*; with *dāśvān* + *agne*, since *aṭ* intervenes, by *dīrghād aṭi samānapāde*, Pā. [8-3-9], *ru* for the *n*; by *ato 'ṭi nityam*, Pā. [8-3-3], the preceding *ā* is always nasalized). *(Continued on p. 452.)*
+
+---
+
+### Page 452 (PDF 470)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**Grammar page of Rik 74.8 (concluded; noted briefly)**
+
+*asthāt* (root *ṣṭhā gatinivṛttau*; Vedic *luṅ*, third person singular, *tip*; loss of *i* by *itaś ca*; the *sic* that would stand for *cli* is lost by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. [2-4-77]; since it follows an *atijanta*, nighāta by *tiṅ atiṅaḥ*). Ends "॥ ८ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 74.9** *(the last Ṛk of the sūkta; printed "9 ||")*
+
+> उत द्युमत्सुवीर्यं बृहदग्ने विवाससि ।
+> देवेभ्यो देव दाशुषे ॥ ९ ॥
+
+*uta dyumat suvīryaṃ bṛhad agne vivāsasi |
+devebhyo deva dāśuṣe ||9||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> उत । द्युऽमत् । सुऽवीर्यम् । बृहत् । अग्ने । विवाससि ।
+> देवेभ्यः । देव । दाशुषे ॥ ९ ॥
+
+*uta | dyu-mat | su-vīryam | bṛhat | agne | vivāsasi | devebhyaḥ | deva | dāśuṣe ||9||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 74.9** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> उतापि च हे देव द्योतमानाग्ने देवेभ्यो दाशुषे चरुपुरोडाशादीनि हवींषि दत्तवते तस्मै यजमानाय बृहत्प्रौढं धनं विवाससि । गमयितुमिच्छसि । प्रापयेसीति यावत् । कीदृशं । द्युमदतिशयेन दीप्तं सुवीर्यं शोभनवीर्योपेतं ॥ सुवीर्यं । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं । विवाससि । वा गतिगंधनयोः । सनि द्विर्भावे सन्यत इतीत्वं । दाशुषे । चतुर्थ्येकवचने वसोः संप्रसारणमिति संप्रसारणं । शासिवसिघसीनां चेति षत्वं ॥
+
+*utāpi ca he deva dyotamānāgne devebhyo dāśuṣe caru-puroḍāśādīni havīṃṣi dattavate tasmai yajamānāya bṛhat prauḍhaṃ dhanaṃ vivāsasi | gamayitum icchasi | prāpayesīti yāvat | kīdṛśaṃ | dyumad atiśayena dīptaṃ suvīryaṃ śobhanavīryopetaṃ || suvīryaṃ | vīravīryau cety uttarapadādyudāttatvaṃ | vivāsasi | vā gatigandhanayoḥ | sani dvirbhāve sanyata itītvaṃ | dāśuṣe | caturthyekavacane vasoḥ saṃprasāraṇam iti saṃprasāraṇaṃ | śāsivasighasīnāṃ ceti ṣatvaṃ ||*
+
+*Meaning:* And also, O shining god Agni, to the sacrificer who has given oblations — *caru*, *puroḍāśa* and the rest — to the gods (*devebhyaḥ*), you wish to bring (*vivāsasi*) great (*bṛhat*), ample wealth: that is, you want to make him obtain it; what kind of wealth? Very bright (*dyumat*) and possessed of excellent vigour (*suvīryam*).
+
+**Grammatical tail** *(characterized)*: *suvīryam* (the first-syllable acute of the second member by *vīravīryau ca*); *vivāsasi* (root *vā gatigandhanayoḥ*; *san*; doubling; *i* by *sanyataḥ*); *dāśuṣe* (samprasāraṇa before the dative ending by *vasoḥ saṃprasāraṇam*; *ṣatva* by *śāsivasighasīnāṃ ca*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*uta* — and; *deva* — O shining; *agne* — O Agni; *devebhyaḥ* — to the gods; *dāśuṣe* — to the sacrificer who gives (*puroḍāśa* and the like); *dyumat* — bright; *suvīryam* — conferring excellent vigour; *bṛhat* — great (wealth); *vivāsasi* — you wish to give.
+
+---
+
+### Page 453 (PDF 471)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 74.9** *(Kannada)*
+
+O shining Agni! To the sacrificer who gives *puroḍāśa* and the rest to the gods, graciously give abundantly wealth that is shining and gives vigour.
+
+**English Translation** *(the source's own, as printed):*
+
+> Verily, divine Agni, you are desirous of bestowing upon the offerer (of oblations) to the Gods, ample (wealth) brilliant, and giving vigour.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **द्युमत्** — *atiśayena dīptam* — "extremely shining: 'shining' here may be explained in the senses 'most excellent', 'best', 'serviceable' and so on."
+- **सुवीर्यम्** — *śobhanavīryopetam* — "possessed of excellent strength, i.e. excellent ability or valour; or: joined with heroes who have valour."
+- **बृहत्** — "for this word the sense 'greater' or 'large' exists, but here the commentator has given the sense 'abundant wealth'."
+- **विवाससि** — *vā gatigandhanayoḥ | prāpayasi* — "you cause to obtain: that is, you give."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.9, noted briefly; not transcribed)*
+
+Words treated: *suvīryam* (*śobhanaṃ vīryaṃ yasya saḥ suvīryaḥ*, "he of excellent vigour"; by *vīravīryau ca*, Pā. [6-2-120], the initial acute of the second member). *vivāsasi* (root *vā gatigandhanayoḥ*; the desiderative *san* by *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*, Pā. [3-1-7]; doubling of the root by *sanyaṅoḥ*; shortening of the reduplicate by *hrasvaḥ*; *i* by *sanyataḥ*, Pā. [7-4-79]; by *sanādyantā dhātavaḥ* the stem *vivāsa* receives the root-designation; then *laṭ*, second person singular, *sip*; *śap*; *pararūpa* by *ato guṇe*; nighāta because it follows an *atijanta*).
+
+*(The grammar page of Rik 74.9 continues, with the sūkta's closing line, on p. 454.)*
+
+---
+
+**Progress note:** Printed pp. 1–453 done (PDF 19–471): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.8 complete (74.8's grammar page on pp. 451–452); **Rik 74.9** (the last; printed "9 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and most of the grammar page (pp. 452–453) done; the rest of the grammar page (if any) and the closing line of Sūkta 74 expected on p. 454. Next: p. 454 (PDF 472); that completes Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
