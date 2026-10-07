@@ -6631,4 +6631,81 @@ As the sun, alone, swiftly traverses the sky's paths like the mind and becomes t
 
 ---
 
-**Progress note:** Printed pp. 1–325 done (PDF 19–343): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.8 complete (71.8: grammar page on pp. 322–324); **Rik 71.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha and the source's English done (pp. 324–325); its Special Topics and grammar page not yet seen. Next: p. 326 (PDF 344). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.9–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the last clause of the bhāṣya of 71.9 (p. 325) and the grammar page of 71.8 (pp. 323–324) compressed and doubtful [?].
+### Page 326 (PDF 344)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics of Rik 71.9** *(Kannada)*
+
+- "This Ṛk says that the sun's work of moving about in the world, and Mitra and Varuṇa's work of guarding the world, are by Agni's power alone:
+
+  > अग्ने नक्षत्रमजरमा सूर्यं रोहयो दिवि ।
+  > *agne nakṣatram ajaram ā sūryaṃ rohayo divi* (Ṛk. Saṃ. [10-156-4?])
+
+  > वि यो रजांस्यमिमीत सुक्रतुर्वैश्वानरो वि दिवो रोचना कविः ।
+  > परि यो विश्वा भुवनानि पप्रथेऽदब्धो गोपा अमृतस्य रक्षिता ॥
+  > *vi yo rajāṃsy amimīta sukratur vaiśvānaro vi divo rocanā kaviḥ | pari yo viśvā bhuvanāni paprathe 'dabdho gopā amṛtasya rakṣitā ||* (Ṛk. Saṃ. [6-7-7?])
+
+  In Ṛks like these it is said that Agni alone is the cause of the movement of the sun and the other planets, and of the lighting of the world. Likewise:
+
+  > त्वया ह्यग्ने वरुणो धृतव्रतो मित्रः शाशद्रे अर्यमा सुदानवः ।
+  > *tvayā hy agne varuṇo dhṛtavrato mitraḥ śāśadre aryamā sudānavaḥ* (Ṛk. Saṃ. [1-141-9?])
+
+  In Ṛks like these, it is said that the work of Mitra and Varuṇa of bearing and guarding the world goes on by Agni's greatness. That same praise here also shows Agni's power." *(The Ṛgveda citations are read from a small print; the Sanskrit and numerals are doubtful [?]; the source leaves them untranslated; my glosses, tentative: "O Agni, you raised the unageing star, the sun, in the sky"; "he who measured out the realms, the wise Vaiśvānara, the lights of heaven; who spread over all the worlds, undeceived, the guardian, protector of the immortal"; "by you, O Agni, Varuṇa of firm vows, Mitra, Aryaman, the good givers, have commanded [?]".)*
+- **मनो न सद्य एति** — "*manasaḥ iva* — 'like the mind': he moves with the speed of the mind; with going, he travels quickly through all the paths of the sky. For this reason the sun has the epithet *taraṇiḥ* (Ṛk. Saṃ. [1-50-4?]), 'the swift'. Describing the speed of the sun's motion, Sāyaṇa quotes a śruti sentence, but does not give the source of that sentence. In this description 'traversing two thousand [and] two hundred and two *yojanas* in half a wink — homage to you' [as read] the sun is praised."
+- **सुपाणी** — *śobhanabāhū* — "of beautiful arms — excellent, or whose arms are fit to be loved: the epithet is also borne by the Aśvins (Ṛk. [1-[?]-4]) and by Mitra and Varuṇa."
+- **राजाना मित्रावरुणा** — "In the Ṛk Saṃhitā the praise of Mitra and Varuṇa is manifold: that they are sovereigns of all the worlds, that the sun is their eye, and that they examine, with the divine eye, not only the affairs of the physical universe, but also moral conduct — their greatness is thus praised. And also…" *(continued on p. 327)*
+
+---
+
+### Page 327 (PDF 345)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 71.9 (concluded)**
+
+> आ राजाना मह ऋतस्य गोपा सिन्धुपती क्षत्रिया यातमर्वाक् ।
+> *ā rājānā maha ṛtasya gopā sindhupatī kṣatriyā yātam arvāk* (Ṛk. Saṃ. [2-41-6?], as read)
+
+"…In many such contexts their lordship and their protectorship are told; and Agni's constant companionship with them in the rites of sacrifice is also praised, as in:
+
+> अग्ने त्वं यशा अस्या मित्रावरुणा वह ।
+> ऋतावाना समाजा पूतदक्षसा ॥
+> *agne tvaṃ yaśā asy ā mitrāvaruṇā vaha | ṛtāvānā samrājā pūtadakṣasā ||* (Ṛk. Saṃ. [8-[?]-10?], as read)
+
+— as is said in these; therefore, with this in view — that Agni and Mitra-Varuṇa are companions, and that their duties are discharged only by Agni's power — the praise of the sun and of Mitra and Varuṇa is made in this Ṛk." *(Ṛgveda citations doubtful [?]; glosses mine and tentative: "come hither, kings, great guardians of *ṛta*, lords of the rivers, warriors"; "O Agni, you are glorious, bring Mitra and Varuṇa, the truthful sovereigns of pure resolve".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.9, noted briefly; not transcribed)*
+
+Words treated: *eti* (root *iṅ gatau*? [as read, *i* "to go"], Adādi; *laṭ*, third person singular, *tip*; loss of the *śap* by *adiprabhṛtibhyaḥ śapaḥ*; guṇa of the root's *i* by *sārvadhātukārdhadhātukayoḥ*; the word *yaḥ* before it carries the connection, so nighāta does not come by *yaddhṛttānnityam*, Pā. [8-1-66]; the root accent remains); *vasvaḥ* (*vasu* is a name of wealth, a neuter stem; here by *vyatyaya* used in the masculine; before the sixth-case singular ending, by the statement *jasādiṣu chandasi vāvacanam*, the guṇa that *ghyarti* [?] would give is absent; *yaṇ* by *iko yaṇaci*; *ru* and visarga for the *s*); *īśe* (root *īśa aiśvarye*, Adādi; *laṭ*, third person singular, *ta* affix; *ṭeḥ eḥ*, with *iṭ* [of *ṭita ātmanepadānām ṭer e*]; loss of *ta* by *lopas ta ātmanepadeṣu*, Pā. [7-1-41]; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; the form *īśe*; nighāta because it follows an *atijanta*); *rājānā* (root *rāj dīptau*; *śānac* in the present sense; loss of *śap* by *bahulaṃ chandasi*; the form *rājāna*; the dual nominative, *ā*-substitution for the ending by *supāṃ sulug…*); *mitrāvaruṇā* (*mitraś ca varuṇaś ca*; in a dvandva of deities *ānaṅ* for the first member, Pā. [6-3-26]; as before in the dual, *supāṃ sulug…*). *(Continued on p. 328.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 328 (PDF 346)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Grammar page of Rik 71.9 (concluded; noted briefly)**
+
+*mitrāvaruṇā* (concluded): *ā*-substitution by *supāṃ sulug…*; by *devatādvandve ca*, Pā. [6-2-141], both members keep their natural accent; *supāṇī* (*śobhanau pāṇī yayoḥ tau*, a *bahuvrīhi*; by *neḍ-su-bhyām* [as read: *nañsubhyām*], Pā. [6-2-172], the last syllable of the second member is acute; nominative dual); *rakṣamāṇā* (root *rakṣa pālane*, Bhvādi; *śānac* in the present sense by *vyatyayo bahulam*; *śap*; the *muk*-augment *ā-ne mu(k)* by *āne muk*, Pā. [7-2-82], after the *a*-final stem; *ā*-substitution for the dual ending by *supāṃ sulug…*; since *śānac* follows an *adupadeśa*-root, it is anudātta by *tāsyanudāttet…*, Pā. [6-1-186], so the root accent remains). Ends "॥ ९ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.10** *(the last Ṛk of the sūkta; printed "10 ||")*
+
+> मा नो अग्ने सख्या पित्र्याणि प्र मर्षिष्ठा अभि विदुष्कविः सन् ।
+> नभो न रूपं जरिमा मिनाति पुरा तस्या अभिशस्तेरधीहि ॥ १० ॥
+
+*mā no agne sakhyā pitryāṇi pra marṣiṣṭhā abhi viduṣ kaviḥ san |
+nabho na rūpaṃ jarimā mināti purā tasyā abhiśaster adhīhi ||10||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> मा । नः । अग्ने । सख्या । पित्र्याणि । प्र । मर्षिष्ठाः । अभि । विदुः । कविः । सन् ।
+> नभः । न । रूपम् । जरिमा । मिनाति । पुरा । तस्याः । अभिऽशस्तेः । अधि । इहि ॥ १० ॥
+
+*mā | naḥ | agne | sakhyā | pitryāṇi | pra | marṣiṣṭhāḥ | abhi | viduḥ | kaviḥ | san | nabhaḥ | na | rūpam | jarimā | mināti | purā | tasyāḥ | abhi-śasteḥ | adhi | ihi ||10||*
+
+*(The Sāyaṇa-bhāṣya of Rik 71.10 begins on p. 329. Reading note: the Pada prints "viduḥ" (as read) where the Saṃhitā has "viduṣ" before "kaviḥ" [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–328 done (PDF 19–346): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.9 complete (71.9: Special Topics and grammar page on pp. 326–328); **Rik 71.10** (the last; printed "10 ||") — Saṃhitā and Pada done (p. 328). Next: p. 329 (PDF 347), the Sāyaṇa-bhāṣya of Rik 71.10; then the closing line of Sūkta 71 and Sūkta 72. Plan for the current "next 2 sūktas" request: finish Sūkta 71 and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on pp. 326–327 (as read, glosses mine and tentative) doubtful [?]; the Pada reading "viduḥ" of 71.10 [?].
