@@ -3953,4 +3953,95 @@ Closing of Rik 84.20: "॥ २० ॥" (20), followed by a printer's ornament. *
 
 ---
 
-**Progress note:** Printed pp. 1–143 done (PDF 16–158) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82, 83 and 84 complete** (84 ended on p. 143; no separate closing line in the print). **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama; begins the 14th Anuvāka, nine sūktas 85–93; printed pp. 143–191) begun: heading, Sanskrit introduction and the first part of the Kannada *Anuvāda* done (foot of p. 143); the Anuvāda continues on p. 144. Next: printed p. 144 (PDF 159). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 144 (PDF 159)
+
+*(Running head: "144 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Anuvāda of the introduction to Sūkta 85, continued from p. 143 (Kannada):* "…the use of the word *ha* in this sentence indicates that the four sūktas beginning with this one are addressed to the Maruts. In the sacrifice called *Abhiplava-ṣaḍaha*, on its fourth day, at the time of the *Āgnimāruta śastra* and the recitation of the mantras, this sūkta has an application for the *mārutanividdha* mantras. This matter is set out in the Āśvalāyana Śrauta-sūtra by the sūtra '*pra ye śumbhante janayo na saptayaḥ ity āgnimārutam*' (Āś. 8-2 [?])."
+
+*(printer's ornament)*
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ८५ — Sūkta 85**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ८५ — *Maṇḍala 1 · Anuvāka 14 · Sūkta 85*
+- अष्टक १ · अध्याय ६ · वर्ग ९, १० [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 9, 10* (the numerals are small and read with doubt [?])
+- सूक्तदल्लिरुव ऋक्संख्ये — १२ — *number of Ṛks in the sūkta: 12*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — मरुतः — *deity: the Maruts*
+- छन्दः — १–४, ६–११ जगती; ५, १२ त्रिष्टुप् — *metre: Ṛks 1–4 and 6–11 Jagatī; 5 and 12 Triṣṭubh*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.1)** *(Jagatī; Maruts; accents not reproduced)*
+
+> प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।
+> रोदसी हि मरुतश्चक्रिरे वृधे मदन्ति वीरा विदथेषु घृष्वयः ॥ १ ॥
+
+*pra ye śumbhante janayo na saptayo yāmanrudrasya sūnavaḥ sudaṃsasaḥ | rodasī hi marutaś cakrire vṛdhe madanti vīrā vidatheṣu ghṛṣvayaḥ ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "They who, on their course, adorn themselves like women — the swift ones, the sons of Rudra, of good works: for the Maruts have made heaven and earth for growth; the heroes, the crushers, rejoice in the sacrifices."
+
+---
+
+### Page 145 (PDF 160)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 145. Foot: printer's signature "10 … Volume 7".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.1)**
+
+> प्र । ये । शुम्भन्ते । जनयः । न । सप्तयः । यामन् । रुद्रस्य । सूनवः । सुऽदंससः ।
+> रोदसी इति । हि । मरुतः । चक्रिरे । वृधे । मदन्ति । वीराः । विऽदथेषु । घृष्वयः ॥ १ ॥
+
+*pra | ye | śumbhante | janayaḥ | na | saptayaḥ | yāman | rudrasya | sūnavaḥ | su-daṃsasaḥ | rodasī iti | hi | marutaḥ | cakrire | vṛdhe | madanti | vīrāḥ | vi-datheṣu | ghṛṣvayaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.1)**
+
+> हे मरुतो यामन् यामनि गमने निमित्तभूते सति प्र शुम्भन्ते प्रकर्षेण स्वकीयान्यङ्गान्यलंकुर्वन्ति जनयो न जाया इव । यथा योषितः स्वकीयान्यङ्गान्यलंकुर्वन्ति तद्वत् । कीदृशा मरुतः । सप्तयः सर्पणशीलाः । रुद्रस्य सूनवः । रोदयति सर्वमन्तकाल इति रुद्रः परमेश्वरः । तस्य पुत्राः । सुदंससः शोभनकर्माणः । एतदेवोपपादयति । हि यस्मान्मरुतो रोदसी द्यावापृथिव्यौ वृधे वृष्टिप्रदानादिना वर्धनाय चक्रिरे कृतवन्तः । अतः सुदंसस इत्यर्थः । वीरा विशेषेण शत्रुक्षेपणशीलाः घृष्वयो घर्षणशीलाः । महीरुहशिलोच्चयादेर्भञ्जका इत्यर्थः । एवंभूतास्ते मरुतो विदथेषु । विदन्त्येषु यष्टव्यतया देवानिति विदथा यज्ञाः [?] । तेषु मदन्ति । सोमपानेन हृष्यन्ति ॥
+
+*he maruto yāman yāmani gamane nimittabhūte sati pra śumbhante prakarṣeṇa svakīyāny aṅgāny alaṃkurvanti janayo na jāyā iva | yathā yoṣitaḥ svakīyāny aṅgāny alaṃkurvanti tadvat | kīdṛśā marutaḥ | saptayaḥ sarpaṇaśīlāḥ | rudrasya sūnavaḥ | rodayati sarvam antakāla iti rudraḥ parameśvaraḥ | tasya putrāḥ | sudaṃsasaḥ śobhanakarmāṇaḥ | etad evopapādayati | hi yasmān maruto rodasī dyāvāpṛthivyau vṛdhe vṛṣṭipradānādinā vardhanāya cakrire kṛtavantaḥ | ataḥ sudaṃsasa ity arthaḥ | vīrā viśeṣeṇa śatrukṣepaṇaśīlāḥ ghṛṣvayo gharṣaṇaśīlāḥ | mahīruhaśiloccayādeḥ bhañjakā ity arthaḥ | evaṃbhūtās te maruto vidatheṣu | vidantyeṣu yaṣṭavyatayā devān iti vidathā yajñāḥ [?] | teṣu madanti | somapānena hṛṣyanti ‖*
+
+*Translation:* "O Maruts! When there is occasion for going (*yāman*), they adorn (*pra śumbhante*) their own limbs, exceedingly — *janayo na*, as wives do: as women adorn their own limbs, so do these. What are the Maruts like? *Saptayaḥ* — given to moving swiftly; *rudrasya sūnavaḥ* — sons of Rudra (Rudra is the Supreme Lord who makes all weep at the end-time); *sudaṃsasaḥ* — of good works. This he now justifies: for the Maruts have made *rodasī*, heaven and earth, to grow (*vṛdhe*), by giving rain and so on; hence they are *sudaṃsasaḥ*. *Vīrāḥ* — heroes, especially given to hurling down enemies; *ghṛṣvayaḥ* — given to crushing, that is, breakers of trees, mountains and rock-heaps. Being such, the Maruts, in the *vidathas* (*vidathā* = sacrifices, in which gods are to be worshipped [?]), rejoice, delighting in the drinking of Soma."
+
+*The grammatical tail (characterized, noted briefly; only legible sūtras named):* *śumbhante* — *śubha śunbha dīptau*, Bhvādi; *janayaḥ* — *jāyante āspatyānīti janayo jāyāḥ* ("those who are born for the husband's household"), by "ini sarvadhātubhya iti" the affix *in*; *yāman* — *yā prāpaṇe*, the affix *manin* by "kṛtyalyuṭo bahulam"; *supāṃ suluk…* the locative ending elided; *sudaṃsasaḥ* — *daṃsaḥ* is a word for 'work' (Ni.), *śobhanaṃ daṃso yeṣām*; the accent on the first syllable of the latter member by "somarnase…" [?]; *cakrire* — *hi ca* prevents *nighāta*; *vṛdhe* — *vṛdhu vṛddhau*, *kvip* in the sense of the abstract; *madanti* — *madī harṣe*, *śap* in place of *śyan* by *vyatyaya*; *vidatheṣu* — *vida jñāne*, the affix *athac* [as read, "*kit*"-affix by "ruvidibhyāṃ" [?]]; *ghṛṣvayaḥ* — *ghṛṣu saṃgharṣe*, the affix *vi* (*vin*-ending) fixed by *nipātana* in "kṛviṣvṛṣvī…" [?].
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.1)** *(Kannada; begins at the foot of p. 145)*
+
+*saptayaḥ* — those who move swiftly; *rudrasya sūnavaḥ* — the sons of Rudra; *hi* — for which reason; *rodasī* — both heaven and earth; *vṛdhe* — so that they may grow (by giving rain and so on); *(cakrire — they have made)* …
+
+---
+
+### Page 146 (PDF 161)
+
+*(Running head: "146 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Pratipadārtha of Rik 85.1, continued from p. 145:*
+
+*cakrire* — they have made (it so); *sudaṃsasaḥ* — they who perform auspicious works; *vīrāḥ* — the valiant; *ghṛṣvayaḥ* — they who crush the mountain rocks; *ye marutaḥ* — which Maruts; *yāman* — in the time of their going; *janayo na* — like (beautiful) women; *pra śumbhante* — adorn (their bodies) well (such Maruts); *vidatheṣu* — at the sacrifices; *madanti* — are satisfied (by drinking Soma-juice).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.1** *(Kannada)*
+
+"The Maruts — swift movers, sons of Rudra, who by making both heaven and earth grow through the giving of rain and so on are doers of auspicious works, who are valiant and who crush mountain rocks — adorn themselves, in the time of their going, as women adorn their own bodies; and at sacrifices they are satisfied with the drinking of Soma."
+
+**English Translation** *(printed in English in the source)*
+
+"The Maruts who are going forth decorate themselves like females; they are the brave sons of Rudra and the doers of good work by which they promote the welfare of earth and heaven; they are heroes who crush the solid rocks and they delight in sacrifices." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.1)**
+
+"For the word *marutaḥ*, Yāska's explanation runs thus:
+
+> मरुतो मितराविणो वा मितरोचिनो वा महद्द्रवन्तीति वा ॥
+
+*maruto mitarāviṇo vā mitarociṇo vā mahad dravantīti vā ‖* (Ni. [11-13] [?]) — *Gloss, mine and tentative:* "The Maruts are 'those who sound moderately', or 'those who shine moderately', or 'those who run much'."
+
+*Mita* means *suślliṣṭa* ('well compacted'): since they sound compactly, that is, since they blow while making a sound; or since they shine finely; or since they sound abundantly: hence the name *Marutaḥ*. Here some, at the place *maruto mitarāviṇo vā*, divide the word as *marutaḥ amitarāviṇaḥ* and, doing so, explain *amita* as 'abundant' and *rāviṇaḥ* as 'sounding': 'those who sound abundantly'. In the same way, dividing *amitarociṇaḥ* again, the meaning 'with much light' can be said."
+
+"The deities called Maruts are in many contexts praised together with Indra. Because the praise of Indra occurs in '*marudbhir indra sakhyaṃ te astu*' (Ṛ. Saṃ. 8-[?]-[?] [?]), these too have a greatness like Indra's. In the Ṛgveda thirty-three sūktas are wholly addressed to the Maruts." [the count as read, "ಮೂವತ್ತಮೂರು" — 33; flagged [?] as the numerals are cramped.]
+
+> मरुद्भिरिन्द्र सख्यं ते अस्तु
+
+*marudbhir indra sakhyaṃ te astu* — *Gloss, mine and tentative:* "With the Maruts, O Indra, let there be friendship for you."
+
+---
+
+**Progress note:** Printed pp. 1–146 done (PDF 16–161) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): introduction and **Rik 85.1** done through its Special Topics (first part: the Nirukta on *marutaḥ*, p. 146); the rest of 85.1's Special Topics and its grammar page follow on p. 147. Next: printed p. 147 (PDF 162). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 *vidatheṣu*/*ghṛṣvayaḥ* grammar partly read; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
