@@ -5540,4 +5540,82 @@ O Agni! May (through your grace) the best cattle and the like, and the wealth br
 
 ---
 
-**Progress note:** Printed pp. 1–278 done (PDF 19–296): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.4 complete; **Rik 70.5** (printed "9 || 10 ||", numerals [?]) — Saṃhitā, Pada, bhāṣya (with its tail on p. 276), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (p. 277) and most of the grammar page (pp. 277–278) done; the grammar page breaks off at *vedaḥ* at the foot of p. 278. Next: p. 279 (PDF 297), the end of that grammar page; then Rik 70.6 (the last, printed single; Ṛk numerals [?]) and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.5 and the Special Topics Nirukta numerals on p. 277 doubtful [?].
+### Page 279 (PDF 297)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 70.5 (concluded; noted briefly):** *vedaḥ* — guṇa of the light penultimate by the affix; *vedas* is a neuter stem in *s*, here the accusative singular. *bharante* — the process was explained earlier; because of the prohibition *atijaḥ* (as read) the nighāta accent is applied by *tiṅ atiṅaḥ*. Ends "॥ ९–१० ॥" (as read). *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.6** *(the last Ṛk of the sūkta; printed "11 ||", the Kannada numeral read as "११")*
+
+> साधुर्न गृध्नुरस्तेव शूरो यातेव भीमस्त्वेषः समत्सु ॥ ११ ॥
+
+*sādhur na gṛdhnur asteva śūro yāteva bhīmas tveṣaḥ samatsu ||11||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> साधुः । न । गृध्नुः । अस्ताऽइव । शूरः । याताऽइव । भीमः । त्वेषः । समत्ऽसु ॥ ११ ॥
+
+*sādhuḥ | na | gṛdhnuḥ | astā-iva | śūraḥ | yātā-iva | bhīmaḥ | tveṣaḥ | samat-su ||11||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya** *(begins here; the first sentence is a note on the metre)*
+
+> द्विपदास्वयुक्संख्यासु यांत्यातिरिच्यते सा तथैव पठितव्येत्युक्तं । उत्तरा ताद्दशी द्विपदा ॥
+>
+> अयमग्निः साधुर्न साधक इव गृध्नुर्गृहीता । यथा साधकः साध्यफलमाशु गृह्णाति तद्वदग्निरपि सर्वं स्वीकरोतीत्यर्थः । तथायमग्निरस्तेव शूरः । यथेषूणां क्षेप्ता धानुष्कः शत्रून्प्रेरयति तद्वदग्निरपि दहन् सर्वं प्राणिजातं प्रेरयति । तथा यातेव भीमः । याता यातयिता हिंसको भीमः सर्वेषां भयंकरो भवति । तद्वदग्निरपि दृष्टमात्रेण सर्वेषां भयमुत्पादयति । अते एवंविधोऽग्निः समत्सु संग्रामेषु त्वेषो दीप्तः सन् अस्माकं सहायो भवत्वित्यर्थः ॥ गृध्नुः । गृधु…
+
+*dvipadāsv ayuksaṃkhyāsu yāntyātiricyate sā tathaiva paṭhitavyety uktaṃ | uttarā tādṛśī dvipadā ||*
+
+*ayam agniḥ sādhur na sādhaka iva gṛdhnur gṛhītā | yathā sādhakaḥ sādhyaphalam āśu gṛhṇāti tadvad agnir api sarvaṃ svīkarotīty arthaḥ | tathāyam agnir asteva śūraḥ | yatheṣūṇāṃ kṣeptā dhānuṣkaḥ śatrūn prerayati tadvad agnir api dahan sarvaṃ prāṇijātaṃ prerayati | tathā yāteva bhīmaḥ | yātā yātayitā hiṃsako bhīmaḥ sarveṣāṃ bhayaṅkaro bhavati | tadvad agnir api dṛṣṭamātreṇa sarveṣāṃ bhayam utpādayati | ata evaṃvidho 'gniḥ samatsu saṃgrāmeṣu tveṣo dīptaḥ san asmākaṃ sahāyo bhavatv ity arthaḥ || gṛdhnuḥ | gṛdhu…*
+
+*(Reading note: the opening sentence — on how a Ṛk left over in the dvipadā count is to be read — is read as printed, but is compressed and doubtful in several syllables ("ayuksaṃkhyāsu", "yāntyā-") [?]; "ata" in "ate evaṃvidho" is printed so, evidently for *ata*. The page ends in the grammatical tail at "gṛdhnuḥ | gṛdhu…", continued on p. 280.)*
+
+*Meaning:* This Agni is a *gṛdhnu* — a taker, like an accomplisher (*sādhu*) who quickly takes the fruit of what he has accomplished: Agni likewise accepts everything. Agni is like a heroic thrower (*asta*): as an archer who casts arrows drives the enemies, so Agni, burning, drives every living being. He is awe-inspiring like an assailant (*yātā*), who is fearsome to all; so Agni, by mere sight, produces fear in all. Therefore may such an Agni, bright (*tveṣaḥ*) in the battles (*samatsu*), be our helper.
+
+---
+
+### Page 280 (PDF 298)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**Bhāṣya (grammatical tail, concluded):** *…abhikāṅkṣāyām | trasigṛdhidhṛṣikṣipeḥ knuḥ | śūraḥ | śu gatau | antarbhāvitaṇyarthād asmāt ṛṣicimīnāṃ dīrghaś ca | u. [2-28?] iti kran ||* *(characterized: *gṛdhnuḥ* — root *gṛdhu* "to desire", affix *knu*; *śūraḥ* — root *śu* "to go", with the sense of the causative included, affix *kran* with lengthening, Uṇ. [2-28?], numeral doubtful [?]).*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*sādhur na* — like one who accomplishes (without leaving the undertaken works); *gṛdhnuḥ* — the one who takes everything; *asteva* — like a warrior who casts (the arrow); *śūraḥ* — the heroic; *yāteva* — like a destroyer (a violent man); *bhīmaḥ* — the terrible; (that Agni); *samatsu* — in battles; *tveṣaḥ* — shining (may he be our helper).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+May Agni — able to accomplish the undertaken works; who, as a warrior drives away the enemies with his arrows, drives away everything by his power to burn; who, as a violent man is of terrible form, causes fear (to the enemies) at the mere sight — be shining in the battles and be our helper.
+
+**English Translation** *(the source's own, as printed):*
+
+> (May Agni), who is like one who succeeds (in his undertakings), and aquires [sic] (what he wishes for), who is like a warrior casting a dart, and resembles a fearful adversary, who is brilliant in combats, (be to us a) friend),
+
+*(The closing bracket "(be to us a) friend)," is printed so [sic].)*
+
+**॥ विशेषविषयगळು ॥ — Special Topics** *(Kannada)*
+
+- *Note on the metre:* "As in the Ṛks of the *dvipadā-virāṭ* metre told up to here, this Ṛk too is to be read [so]. In the earlier sūktas of the *dvipadā-virāṭ* metre there are ten Ṛks each [ten + ten half-Ṛks as read, ?]. In this sūkta, with this Ṛk, there are eleven Ṛks. This is the last Ṛk." *(The source's count of "eleven" refers to the eleven half-Ṛks, printed as six Ṛks.)*
+- **साधुर्न गृध्नुः** — *sādhakaḥ sādhyaphalamāśu yathā gṛhṇāti tathā ayam agnir api sarvaṃ svīkarotīty arthaḥ* — "The word *na* is a particle of comparison. As a man who has accomplished a work quickly obtains the fruit that is to be obtained, so Agni carefully accepts everything that is offered to him."
+
+---
+
+### Page 281 (PDF 299)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 70.6 (continued)**
+
+- *Skandasvāmin* on **गृध्नुः** — "*abhikāṅkṣitā*" — "one who desires. As a worthy man seeks only the aims that are justly his, so Agni too justly desires praises and oblations. A good man, accomplishing works in the right way, desires the benefits; thus Agni also desires from the sacrificers, in the right manner, the praises and the oblations."
+- **अस्तेव शूरः** — *astā kṣepaṇaśīlaḥ* — "*Astā* is formed from the root *as kṣepaṇe* ('to cast'), meaning 'one who throws'. As a hero throws arrows and other weapons in order to kill the enemies, so Agni too, it is said, restrains the enemies."
+- **यातेव भीमः** — "Sāyaṇa says the root *yā* is used in the sense of harming. Skandasvāmin says '*yotir itra vadhārthaḥ*' [as read, ?] and quotes '*aher yātāram*' (Ṛk. Saṃ. [1-32-14?], as read). *Yātā* means 'one who harms'; so Agni, like a harmful man, causes fear at the very sight."
+- **समत्सु** — *saṃgrāmeṣu* — "In the battles. The word *samatsu* is read (Ni. [2-17?], as read) among the seventy-odd [as read, ?] names of battle."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.6, noted briefly; not transcribed)*
+
+Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ*, Pā. [3-2-140]; kit, so no guṇa; accent on the affix); *astā* (root *asu kṣepaṇe*; *tṛn* in the agent sense; nit, so first-syllable acute; *su* after it, *anaṅ* by *ṛdusanas…*; lengthening of the penultimate by *apṛkta…*; *halṅyābbhyo* removes the *su*; *nalopaḥ prātipadikāntasya*); *śūraḥ* (root *śu* "to go", the causative sense included; *kran* by *ṛṣicimīnāṃ dīrghaś ca*, Uṇ. [2-28?]; the initial *k* of the affix dropped by *lashakvataddhite*; lengthening of the root; nit, so first-syllable acute by *ñnityādir nityam*). *(The page ends with *śūraḥ*; the grammar of *yātā*, *bhīmaḥ* and *tveṣaḥ*, and the sūkta's closing line, follow on p. 282.) Grammar page, noted briefly; the sūtra numerals are doubtful [?].*
+
+---
+
+**Progress note:** Printed pp. 1–281 done (PDF 19–299): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.5 complete; **Rik 70.6** (the last, printed "11 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English (with its misprints) and Special Topics done (pp. 279–281); its grammar page is begun on p. 281 and breaks off after *śūraḥ*. Next: p. 282 (PDF 300), the rest of the grammar page and the closing line of Sūkta 70 (the closing line should name the sūkta's end and its varga, to be taken as printed); that completes Sūkta 70 — the end of the user's "next 2 sūktas" request (69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the opening metre-note of the bhāṣya on p. 279 compressed and doubtful [?].
