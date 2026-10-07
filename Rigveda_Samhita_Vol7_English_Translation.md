@@ -1853,4 +1853,62 @@ asaṃyatto vrate te kṣeti puṣyati bhadrā śaktir yajamānāya sunvate ||3|
 
 ---
 
-**Progress note:** Printed pp. 1–67 done (PDF 16–82) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.2 complete** (grammar of 83.2 pp. 64–65); **Rik 83.3** — Saṃhitā, Pada, bhāṣya (with its application notes and Brāhmaṇa quotation, p. 66), Pratipadārtha and the first part of the Bhāvārtha (p. 67) done; the Bhāvārtha breaks off at the foot of p. 67 and continues on p. 68 (PDF 83). Next: printed p. 68 (PDF 83). Three Ṛks (83.4–83.6) remain after 83.3, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64; the *Pravargya* application sūtra on p. 66 compressed.
+### Page 68 (PDF 83)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Bhāvārtha of Rik 83.3, concluded from p. 67:* "…the sacrificer who has these *havirdhānas* filled with mantras, without the habit of fighting with enemies, is engaged in rites directed to you; he obtains wealth such as cattle and children; and auspicious strength grows for the sacrificer who presses Soma juice in the sacrifice for you."
+
+**English Translation** *(printed in English in the source)*
+
+"Indra, you have placed words of sacred praise with both kinds of oblations consisting of grain and butter ; the two oblations are placed together in ladles and jointly presented to you so that the sacrificer, undistrubed [sic] is engaged in your worship and is prosperous ; auspicious power is granted to the sacrificer who offers oblations." — as printed ("undistrubed" a misprint [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 83.3)**
+
+*The meaning of this Ṛk is difficult (*toḍakāgiruvudu*).*
+
+- **द्वयोः** — *havirdhānayoḥ* — "In the Ṛk there is only the word *dvayoḥ*; the bhāṣyakāra has explained it as *havirdhānayoḥ*, 'of the two *havirdhānas*'. Yāska has given the etymology of the word *havirdhāna*: '*havirdhāne havīṃṣāṃ nidhāne*' — that is, 'the vessel or place in which the oblations — the Soma — are placed: *havirdhāna*'. The word *havirdhāna* is not found anywhere in the Ṛgveda. In the Yajurveda it occurs in mantras in the Taittirīya Saṃhitā (1-2-?-?; 6-1-?-?; 6-2-?…) and so on [numerals as read, all [?]]. There this word conveys the sense of a cart for carrying a load of Soma, or a hut in which the Soma is placed, or a vessel in which the Soma is placed. Soma is loaded into two carts called *havirdhāna*, and a single covering, of *khadira* wood (*bhadi*), is spread over both, and taken from the eastern portion (*prācīnavaṃśa*) to the northern altar. The *bhadi* is made of *darbha* grass [as read; *khadira* is the printed word, [?]]. The related sacrificial procedure, being lengthy, and its explanation being unnecessary here, I have not given. See the discussion in the Aitareya Brāhmaṇa (1-[3?]-[?] [?]) for the rest."
+- **उक्थ्यं वचः** — "When the covering called *khadira* [*bhadi*, as printed] is placed over the two vessels called *havirdhāna* in which the oblation is kept, the mantra of the form of a śastra that is said. For this the former half of the present Ṛk — *adhi dvayor adadhā ukthyaṃ vaco yatasrucā mithunā yā saparyataḥ* — is recited. One covering is used for covering the two *havirdhānas*; and since the covering is used to join them together, no separate mantras for each of the two *havirdhānas* are used; only one mantra is said. For that reason the expression *ukthyaṃ vacaḥ* — 'a speech in the form of a śastra mantra' — is in the singular. While joining these *havirdhānas*, they recite the mantra *yuje vāṃ brahma pūrvyaṃ namobhir viśloka etu pathyeva sūreḥ | śṛṇvantu viśve amṛtasya putrā āye dhāmāni divyāni tasthuḥ ||* (Ṛk. Saṃ. 10-13-1 [?])" — *Gloss, mine and tentative:* "I join your ancient *brahman* with homages; let the fame (of the singer) go forth like a road of the sun [?]; let all the sons of the immortal hear, who have taken their divine stations." *(the gloss is tentative; the verse is garbled in the print at the second pāda [?]).*
+
+### Page 69 (PDF 84)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 83.3, continued from p. 68 — the Sanskrit of the quoted Ṛk is:*
+
+> युजे वां ब्रह्म पूर्व्यं नमोभिर्विश्लोक एतु पथ्येव सूरेः ।
+> शृण्वन्तु विश्वे अमृतस्य पुत्रा आ ये धामानि दिव्यानि तस्थुः ॥
+
+*yuje vāṃ brahma pūrvyaṃ namobhir viśloka etu pathyeva sūreḥ | śṛṇvantu viśve amṛtasya putrā ā ye dhāmāni divyāni tasthuḥ ||* (Ṛk. Saṃ. 10-[13]-1 [?])
+
+- **यतस्रुचा** — "'those holding in the hand the *sruc*, the wooden ladle for pouring Soma': that is the meaning. The bhāṣyakāra says: *yatāḥ saṃbaddhāḥ sruco grahacamasādilakṣaṇāni pātrāṇi yayos te* — 'those two in which the *srucs*, the vessels of the kind of *graha* and *camasa* cups, are bound'."
+- **मिथुना** — "two; that is, the two *havirdhānas*."
+- **असंयत्तः** — "the correct meaning of this word is 'having put down the vessels such as the *sruc* that were in the hand' (that is, 'with the *sruc* etc. lowered'). The bhāṣyakāra says: *śatrubhiḥ saha yuddhārtham anabhigataḥ san* — 'not having gone to fight with enemies'."
+- **व्रते** — "in the rite of the form of sacrifice."
+- **क्षेति** — *nivasati* — "he is a promoter, doing the performance of rites."
+- **पुष्यति** — *prajayā paśubhiś ca puṣṭo bhavati* — "possessed of children, cattle, wealth and so on, he thrives."
+- **भद्रा शक्तिः** — *kalyāṇī śaktiḥ, utkṛṣṭaṃ balam* — "excellent, or great, strength."
+
+*Special application:* "There is a special application for this Ṛk: in the sacrifice called *Pravargya* this Ṛk *adhi dvayoḥ* is recited as *stotra*. This is explained in the Āśvalāyana Śrauta-sūtra, in the section *spṛṣṭvodakam*, by the sūtra '*adhi dvayor adadhā ukthyaṃ vacaḥ; śukraṃ te anyad yajataṃ te anyat*' (Āś. 4-[6] [?]). And it is used when the covering called *bhadi* is placed over the two *havirdhānas*; the Āśvalāyana Śrauta-sūtra indicates it with the sūtra '*yamo iva yatamāne yadaitam adhi dvayor adadhā ukthyaṃ vaca ity ardharcam ārabhet*' (Āś. 4-[9] [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 83.3)** *(grammar page, noted briefly; runs to p. 70)*
+
+- **यतस्रुचा** — *yatāḥ srucau yayos te* ("those two in which the ladles are bound"). The root *yamu uparame*; with the affix *kta*, *yam+ta*; by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. Sū. 6-4-37) the nasal at the end of the root is dropped, since a *jhal*-initial *kit* affix follows; from the word *yata*, a *bahuvrīhi* compound with *sruc*.
+
+### Page 70 (PDF 85)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 83".)*
+
+*Grammar of Rik 83.3, continued and concluded:*
+
+- **यतस्रुचा** (concluded) — "…as pointed out, it is a *bahuvrīhi* compound. By "bahuvrīhau prakṛtyā pūrvapadam" (Pā. Sū. 6-2-1) the first member with its udātta-svarita keeps its natural accent; the sense is that by the retention of the natural accent in a first member having an udātta or a svarita, the first member is *prakṛtibhāva*. By this sūtra the first-member-accent arises here. Then, since *yata* is final-udātta by the affix-accent, the udātta-then-anudātta of *su*… "udāttād anudāttasya svaritaḥ" (Pā. Sū. 8-4-66) turns the anudātta in the *s* of *sruc* into svarita; by "svaritāt saṃhitāyām anudāttānām" (Pā. Sū. 1-2-39) the *pracaya* arises for what follows *sruc*. When the dual affix is added after the word *yatasruc*, by "supāṃ suluk…" (Pā. Sū. 7-1-39) the case-ending gets the substitute *ā*."
+- **सपर्यतः** — the root *sapara pūjāyām*; by "kaṇḍvādibhyo yak" (Pā. Sū. 3-1-27) the affix *yak* is added for its own sense to the *kaṇḍvādi* roots (a gaṇa read as *ākṛtigaṇa*); since *sapara* is read in the *kaṇḍvādi* group, *yak* arises after this too; the root-designation by "sanādyantā dhātavaḥ"; the form in the third person dual. Here by the root-accent the *y* would be udātta, and by the affix-accent the *t*; but by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186) the *lasārvadhātuka* after an *a-upadeśa* root is anudātta, so the accent of the *yak* wins since it is *śit*; the *y*, being udātta by the root-accent, … by "udāttād anudāttasya svaritaḥ" (Pā. Sū. 8-4-66) a svarita comes to the following anudātta.
+- **क्षेति** — the root *kṣi nivāsagatyoḥ*, *tudādi*; *kṣi+ti*; by "tudādibhyaḥ śaḥ" (Pā. Sū. 3-1-77) *śa* would arise, but by "bahulaṃ chandasi" (Pā. Sū. 2-4-73) the *luk* of the stem-marker; when *luk* has occurred, by "nelumatāṅgasya" [as read: "na lumatāṅgasya", Pā. Sū. 1-1-63] the stem-marker's operation is not effective but, since *sārvadhātuka* is the cause, guṇa arises for the *aṅga*.
+- **सुन्वते** — the fourth-case singular of the stem *sunvat*, from the root *suñ abhiṣave*; with *śatṛ* added, by "svādibhyaḥ śnuḥ" (Pā. Sū. 3-1-73) the stem-marker *śnu*: *su+nu+at*; *śatṛ* being *ñit* (by "sārvadhātukam apit"), no guṇa for the stem-marker; by *yaṇ*-sandhi, *sunvat*. By "ṣaṣṭhyarthe caturthī vaktavyā" (Pā. Sū. 2-3-62, vārttika 1 [?]) the fourth case is used in the sense of the sixth; by "śatur anumo nadyajādī" (Pā. Sū. 6-1-173) the vowel-initial case-endings after a *śatṛ*-ending stem without *num* are udātta, so the fourth-case ending *ṅe* is udātta.
+- **मिथुना या** — by "supāṃ suluk…" (Pā. Sū. 7-1-39) the first-case dual gets the substitute *ā*. ||3||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+---
+
+**Progress note:** Printed pp. 1–70 done (PDF 16–85) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81 and 82 complete.** **Sūkta 83** (six Ṛks; Indra; Gotama Rāhūgaṇa; Jagatī; printed pp. 55–80): Riks **83.1–83.3 complete** (the Special Topics of 83.3, including the *havirdhāna* explanation and the quoted Ṛk 10-[13]-1, on pp. 68–69; grammar pp. 69–70). Next: printed p. 71 (PDF 86) — Rik 83.4. Three Ṛks (83.4–83.6) remain, then Sūkta 84 (p. 81). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64; the *Pravargya* application sūtra on p. 66 compressed; the quoted Ṛk's gloss on p. 68 tentative; *bhadi*/*khadira* spelling on p. 68 [?].
