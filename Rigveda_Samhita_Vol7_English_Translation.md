@@ -4223,7 +4223,7 @@ Closing of Rik 85.1: "॥ १ ॥" (1).
 
 *yad yūyaṃ pṛśnimātaro martāsaḥ syātana ‖* (Ṛ. Saṃ. 1-[38]-[4] [?]) — *Gloss, mine and tentative:* "If you, O sons of Pṛśni, were mortals…"
 
-"— in explaining this Ṛk the bhāṣyakāra has explained the word *pṛśnimātaraḥ* as '*pṛśninām akād ghenuputrā marutaḥ*' [as read, doubtful; i.e. 'the Maruts who are sons of the cow called Pṛśni']. In the many contexts of praising the Marut deities, the use of the word *pṛśnimātaraḥ* is especially frequent. It may therefore be said confidently that a certain fixed sense had become established for this word. The Ṛks in the Ṛgveda in which this word occurs are given below:
+"— in explaining this Ṛk the bhāṣyakāra has explained the word *pṛśnimātaraḥ* as *pṛśninā-maka-dhenuputrā marutaḥ* [Kannada: "sons of the cow named Pṛśni", as the Kannada text gives it, in the Kannada words: *pṛśni-nāmaka-dhenu-putrāḥ marutaḥ*]. In the many contexts of praising the Marut deities, the use of the word *pṛśnimātaraḥ* is especially frequent. It may therefore be said confidently that a certain fixed sense had become established for this word. The Ṛks in the Ṛgveda in which this word occurs are given below:
 
 > यद्यूयं पृश्निमातरो मर्तासः स्यातन ॥
 
@@ -4281,8 +4281,95 @@ Closing of Rik 85.1: "॥ १ ॥" (1).
 - **दधिरे** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person plural (cf. before); the *nighāta* of the *tiṅanta*.
 - **पृश्निमातरः** — *prāśnute sarvāṇi rūpāṇīti pṛśniḥ bhūmiḥ* ("that which pervades all forms: the earth"); '*iyaṃ vai pṛśniḥ*' (Tai. Brā. 1-6-[?] [?]) — thus it is heard in the Śruti. By *nipātana* in "pṛṣu…pṛśniḥ" the form *pṛśni* is established; *pṛśnir mātā yeṣāṃ te pṛśnimātaraḥ*; in the *bahuvrīhi*, "ṛtaś chandasi" (Pā. Sū. 5-4-[153] [?]) forbids the *kap* that would come at the end of the compound; because the rule "aṣṭṛkṛt…" [as read, "aṣṭṛtkṛt"] has fixed the restriction, the lengthening of the penultimate does not occur.
 
-*(Grammar page ends mid-page in the print? No — the page's last entry is* pṛśnimātaraḥ*; the grammar continues on p. 156 with the remaining words of Rik 85.2 [*dadhire*, *śriyaḥ* and the accent notes].)*
+*(The page's last entry is* pṛśnimātaraḥ*; whether the grammar continues on p. 156 is checked at the next page.)*
 
 ---
 
-**Progress note:** Printed pp. 1–155 done (PDF 16–170) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1 complete**; **Rik 85.2** complete through the Special Topics (the long entry on *pṛśnimātaraḥ*, with the Nirukta and the nine Ṛgveda citations, pp. 153–154) and its grammar page (p. 155; may continue on p. 156). Next: printed p. 156 (PDF 171). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145 and 151 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 156 (PDF 171)
+
+*(Running head: "156 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.2, concluded (grammar, noted briefly):*
+
+- **जनयन्तः** — the root *janī prādurbhāve*; the affix *śatṛ* after the *ṇijanta* (causative); *śap* as the *vikaraṇa*; on account of *śap* the *guṇa* of the *ṇic*, and *ay*-substitution; since *śap* is *pit*, unaccented; as the *lasārvadhātuka* (*śatṛ*) is unaccented by "तास्यनुदात्तेत्" (*tāsyanudāttet*), by the accent of *ṇic* the *a* after *n* is acute; in the nominative plural, since it is *ugit*, the augment *num* comes.
+
+Closing of Rik 85.2: "॥ २ ॥" (2), followed by a printer's ornament. *(So the grammar page of 85.2 does not continue past* janayantaḥ*; the earlier words* dadhire *and* śriyaḥ *are treated on p. 155.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.3)** *(Jagatī; Maruts; accents not reproduced)*
+
+> गोमातरो यच्छुभयन्ते अञ्जिभिस्तनूषु शुभ्रा दधिरे विरुक्मतः ।
+> बाधन्ते विश्वमभिमातिनमप वर्त्मान्येषामनु रीयते घृतम् ॥ ३ ॥
+
+*gomātaro yac chubhayante añjibhis tanūṣu śubhrā dadhire virukmataḥ | bādhante viśvam abhimātinam apa vartmāny eṣām anu rīyate ghṛtam ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "When the sons of the Cow-mother adorn themselves with ornaments, the radiant ones put on their bodies shining golden things; they drive away every adversary; in their paths the ghee (rain) flows."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.3)**
+
+> गोऽमातरः । यत् । शुभयन्ते । अञ्जिऽभिः । तनूषु । शुभ्राः । दधिरे । विऽरुक्मतः ।
+> बाधन्ते । विश्वम् । अभिऽमातिनम् । अप । वर्त्मानि । एषाम् । अनु । रीयते । घृतम् ॥ ३ ॥
+
+*go-mātaraḥ | yat | śubhayante | añji-bhiḥ | tanūṣu | śubhrāḥ | dadhire | vi-rukmataḥ | bādhante | viśvam | abhi-mātinam | apa | vartmāni | eṣām | anu | rīyate | ghṛtam ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.3)** *(begins at the foot of p. 156)*
+
+> गोमातरो गोरूपा भूमिर्माता येषां ते मरुतः अञ्जिभी रूपाभिव्यञ्जकैराभरणैर्यद्यदा शुभयन्ते स्वकीयान्यङ्गानि शोभायुक्तानि कुर्वन्ति तदानीं शुभ्रा दीप्ता मरुतस्तनूषु स्वकीयेषु शरीरेषु विरुक्मतो विशेषेण रोचमानानलंकारान् दधिरे । धारयन्ति । …
+
+*gomātaro gorūpā bhūmir mātā yeṣāṃ te marutaḥ añjibhī rūpābhivyañjakair ābharaṇair yad yadā śubhayante svakīyāny aṅgāni śobhāyuktāni kurvanti tadānīṃ śubhrā dīptā marutas tanūṣu svakīyeṣu śarīreṣu virukmato viśeṣeṇa rocamānān alaṃkārān dadhire | dhārayanti | …*
+
+---
+
+### Page 157 (PDF 172)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 157.)*
+
+*Bhāṣya of Rik 85.3, continued from p. 156:*
+
+> …अपि च विश्वं सर्वमभिमातिनं शत्रुमप बाधन्ते । हिंसन्ति । एषां मरुतां वर्त्मानि मार्गाननुसृत्य घृतं क्षरणशीलमुदकं रीयते । स्रवति । यत्र मरुतो गच्छन्ति वृष्ट्युदकमपि तदनुसारेण तत्र गच्छतीत्यर्थः ॥ शुभयन्ते । सञ्ज्ञापूर्वकस्य विधेरनित्यत्वाल्लघूपधगुणाभावः । अञ्जिभिः । अञ्जू व्यक्तिम्रक्षणगतिषु । खनिकषिकस्यञ्जिसिवसि[ध्वनि]स्त्रनिवनिसनिग्रन्थिचरिभ्यश्च । उ. ४-१३७ [?] इतीप्रत्ययः । शुभ्राः । शुभ दीप्तौ । स्थायितंचेत्यादिना रक् । विरुक्मतः । विशिष्टा रुक् विरुक् । तद्वन्तो विरुक्मन्तः । मतुप्प्रत्ययस्य यादित्वेन [?] पदत्वात् कुत्वम् । भत्वात् जश्त्वाभावः । रीयेते [रीयते] रीङ् स्रवणे । दैवादिकः ॥ ३ ॥
+
+*api ca viśvaṃ sarvam abhimātinaṃ śatrum apa bādhante | hiṃsanti | eṣāṃ marutāṃ vartmāni mārgān anusṛtya ghṛtaṃ kṣaraṇaśīlam udakaṃ rīyate | sravati | yatra maruto gacchanti vṛṣṭyudakam api tadanusāreṇa tatra gacchatīty arthaḥ ‖ śubhayante | saṃjñāpūrvakasya vidher anityatvāl laghūpadhaguṇābhāvaḥ | añjibhiḥ | añjū vyaktimrakṣaṇagatiṣu | khanikaṣikasyañjisivasi… (Uṇ. Sū. 4-137 [?]) itīpratyayaḥ | śubhrāḥ | śubha dīptau | sthāyitaṃ ceti ādinā rak | virukmataḥ | viśiṣṭā ruk viruk | tadvanto virukmantaḥ | matup-pratyayasya yāditvena [?] padatvāt kutvam | bhatvāj jaśtvābhāvaḥ | rīyate rīṅ sravaṇe | daivādikaḥ ‖ 3 ‖*
+
+*(Kannada script; the Uṇādi list and the reason given for the* matup *are cramped; read with doubt [?]. The closing numeral of the Ṛk is given here, after the grammatical tail.)*
+
+*Translation:* "…Moreover they *apa bādhante* — drive off, injure — every (*viśvam*) adversary (*abhimātinam*). Along the paths (*vartmāni*) of these Maruts, *ghṛtam* — water, which is of a flowing nature — *rīyate*, flows: where the Maruts go, the rain-water too goes accordingly. *Grammar tail, noted briefly:* *śubhayante* — since a rule that depends on a technical term is not invariable, the *laghūpadha guṇa* is lacking; *añjibhiḥ* — *añjū vyaktimrakṣaṇagatiṣu*, the affix *i* (Uṇ. Sū. [4-137] [?]); *śubhrāḥ* — *śubha dīptau*, the affix *rak*; *virukmataḥ* — *viśiṣṭā ruk viruk*; those possessing it are *virukmantaḥ*; by the affix *matup* the *kutva* (change to a guttural) because of the status of *pada*; no *jaśtva* because of the status of *bha*; *rīyate* — the root *rīṅ sravaṇe*, Divādi."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.3)** *(Kannada)*
+
+*gomātaraḥ* — the Maruts, whose mother is the earth in the form of a cow; *añjibhiḥ* — with ornaments that manifest beauty; *yat* — when; *śubhayante* — they (adorn their bodies); *śubhrāḥ* — the Maruts, radiant; *tanūṣu* — in their bodies; *virukmataḥ* — shining ornaments; *dadhire* — wear; *viśvam* — all; *abhimātinam* — enemy; *apa bādhante* — they destroy; *eṣām* — of these Maruts; *vartmani* — on the path (following the path); *ghṛtam* — water of a flowing nature; *rīyate* — flows.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.3** *(Kannada)*
+
+"The Maruts, sons of the earth in the form of a cow, when they adorn their bodies with ornaments that manifest beauty, wear brilliant ornaments on their bodies, shining. And they destroy all their enemies. The stream of water follows the path of these Maruts."
+
+**English Translation** *(printed in English in the source)*
+
+"When the sons of the earth (Maruts) decorate themselves with ornaments they shine resplendent in their persons with brilliant decorations!; they drive away every adversary from their path and the waters follow their path." — as printed (the "!;" is a printer's mark in the source [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.3)**
+
+- **गोमातरः** — "*gauḥ* means the earth (Ni. [1-1] [?]). 'Those whose mother is the earth': that is, the sons of the earth, or of the cow (*dhenu*) of the world of the gods called Pṛśni. The Maruts are also called by the name *pṛśnimātaraḥ*."
+
+---
+
+### Page 158 (PDF 173)
+
+*(Running head: "158 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Special Topics of Rik 85.3, continued from p. 157:*
+
+- **अञ्जिभिः** — *añjū vyaktimrakṣaṇagatiṣu rūpābhivyañjakair ābharaṇaiḥ* — "with ornaments and the like, such as collyrium (*kajjala*), used to enhance beauty of form and the like."
+- **शुभ्राः** — *śubha dīptau* — "shining; brightly shining with excess of beauty."
+- **विरुक्मतः** — *viśeṣeṇa rocamānān alaṃkārān* — "ornaments and jewels that shine greatly."
+- **अप बाधन्ते विश्वमभिमातिनम्** — "they destroy the enemies (trees and the like) who stand obstructing the way they move; the intention is that when the wind blows swiftly it rolls away the trees and such as stand in front."
+- **एषां अनु रीयते घृतम्** — "*ghṛta* means water (Ni. [1-12] [?]); the intention is that behind the gust blown by the Maruts the water flows — that is, the rain comes."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.3)** *(grammar page, noted briefly; begins here)*
+
+- **शुभयन्ते** — "तत्करोति तदाचष्टे" (*tat karoti tad ācaṣṭe*) the affix *ṇic*; since the rule that has a technical term as antecedent is not invariable, the *laghūpadha guṇa* of the root does not occur on account of the *ṇic*; *laṭ*, third person plural, *jha* substituted by *anta*; *śap*; by "सार्वधातुकार्धधातुकयोः" the *guṇa* before *śap*; *ay*-substitution; since *yat* is in connexion, no *nighāta*; by the accent of *ṇic* the *a* after *bh* is acute.
+- **अञ्जिभिः** — the root *añjū vyaktimrakṣaṇakāntigatiṣu*; by "खनिकषिकस्यञ्जिसिवसि…" (Uṇ. Sū. 4-[137] [?]) the affix *i*; by the affix-accent the final acute; instrumental plural.
+- **शुभ्राः** — the root *śubha dīptau*; by "स्थाय्यतंचेतः" (*sthāyitaṃ ca…*, Uṇ. Sū. 2-[120] [?]) the affix *rak*; since *kit*, no *laghūpadha guṇa*; the final acute; nominative plural.
+- **विरुक्मतः** — *viśiṣṭā ruk viruk* — *virug eṣām asti iti virukmantaḥ*; the root *ruc dīptau*, the affix *kvip*; by "तदस्यास्त्यस्मिन्निति मतुप्" (*tad asyāsty asminn iti matup*) the affix *matup*; by "आयस्मयादीनि छन्दसि" (*āyasmayādīni chandasi*) since this is included there, it has the status of *pada*, so by "चोः कुः" (*coḥ kuḥ*) the *c* is replaced by a guttural: *k*; since it has the *bha* designation, *jaśtva* does not come to it; *matup* is *pit*, so unaccented; by "गतिकारकोपपदात्कृत्" (*gatikārakopapadāt kṛt*) the *u* after *r* is acute.
+
+---
+
+**Progress note:** Printed pp. 1–158 done (PDF 16–173) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1 and 85.2 complete**; **Rik 85.3** done through its Special Topics and the first four entries of its grammar page (to *virukmataḥ*, p. 158); the grammar page may continue on p. 159 (*bādhante*, *rīyate* …). Next: printed p. 159 (PDF 174). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
