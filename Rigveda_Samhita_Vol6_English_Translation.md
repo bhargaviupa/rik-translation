@@ -4945,4 +4945,66 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–248 done (PDF 19–266): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1 complete; **Rik 69.2** — everything done except the end of its grammar page (p. 248, ending at *pitūnām*). Next: p. 249 (PDF 267), the grammar page of Rik 69.2 concludes (*jane*, *śevaḥ*, *āhūryaḥ*, *niṣattaḥ*, *raṇvaḥ*, *duroṇe*…); then Riks 69.3–69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the Ṛgveda quotations on p. 247 (references and my tentative glosses) [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 249 (PDF 267)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**Grammar page for Rik 69.2, concluded (noted briefly).** **आहूर्यः**: root *hveñ spardhāyāṃ śabde ca*; with the prefix *ā*, by "ājo yat" [as read: "āto yat", ?] the affix *yat*, since the root ends in a vowel; by "bahulaṃ chandasi" *samprasāraṇa* of the *v* even without a cause; by "samprasāraṇāc ca" the former form; by "halaḥ" (Pā. Sū. 6-4-2) the lengthening of the *samprasāraṇa* vowel before a consonant; an *r* is added in the middle, Vedicly; by "yato 'nāvaḥ" the initial acute; the *ū* is acute. **निषत्तः**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; the affix *kta*; where *ṇatva* would arise by "radābhyāṃ niṣṭhāto naḥ…", the absence of *natva* is given by *nipātana* in "nasatta niṣatta…" (Pā. Sū. 8-2-61); the final acute by the affix. **॥ ३–४ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 69.2 ends here (ornamental rule).*
+
+#### Rik 69.3 *(printed "5 || 6 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **पुत्रो न जातो रण्वो दुरोणे वाजी न प्रीतो विशो वि तारीत् ।**
+> **विशो यदह्वे नृभिः सनीळा अग्निर्देवत्वा विश्वान्यश्याः ॥ ५ ॥ ६ ॥**
+> *putro na jāto raṇvo duroṇe vājī na prīto viśo vi tārīt |*
+> *viśo yad ahve nṛbhiḥ sanīḷā agnir devatvā viśvāny aśyāḥ || 5 || 6 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **पुत्रः । न । जातः । रण्वः । दुरोणे । वाजी । न । प्रीतः । विशः । वि । तारीत् ।**
+> **विशः । यत् । अह्वे । नृऽभिः । सऽनीळाः । अग्निः । देवऽत्वा । विश्वानि । अश्याः ॥ ५ ॥ ६ ॥**
+> *putraḥ | na | jātaḥ | raṇvaḥ | duroṇe | vājī | na | prītaḥ | viśaḥ | vi | tārīt |*
+> *viśaḥ | yat | ahve | nṛ-bhiḥ | sa-nīḷāḥ | agniḥ | deva-tvā | viśvāni | aśyāḥ || 5 || 6 ||*
+
+*(The print's second line begins "विशो यदह्वे"; given as printed. "अग्निर्देवत्वा" in the Saṃhitā against the Pada's "अग्निः । देवत्वा" is as printed.)*
+
+---
+
+### Page 250 (PDF 268)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **पुत्रो न पुत्र इव जातः प्रादुर्भूतोऽग्निर्दुरोणे गृहे रण्वो रमयिता भवति । वाजी न अश्व इव प्रीतो हर्षयुक्तः सन् विशः संग्रामे वर्तमानाः शत्रुभूताः प्रजा वि तारीत् । विशेषेण तरति । अतिक्रामति । अपि च नृभिर्ऋत्विग्भिः स्तुत्यैर्मनुष्यैः सहितोऽहं सनीळाः समाननिवासस्थाना विशो दैवीः प्रजा यद्यदाह्वे आह्वयामि तदानीमयमग्निर्विश्वानि सर्वाणि देवत्वा देवत्वान्यश्याः । अश्नुते । प्राप्नोति । स्वयमेव तत्तद्देवताकारो भवतीत्यर्थः । तथा च मन्त्रान्तरमाम्नायते । त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्ध इत्यादि । ऋग्वे. ५-३-१ ॥ अश्याः । अशू व्याप्तौ । लिङि व्यत्ययेन परस्मैपदमध्यमौ । बहुलं छन्दसीति विकरणस्य लुक् ॥**
+> *putro na putra iva jātaḥ prādurbhūto 'gnir duroṇe gṛhe raṇvo ramayitā bhavati | vājī na aśva iva prīto harṣayuktaḥ san viśaḥ saṅgrāme vartamānāḥ śatrubhūtāḥ prajā vi tārīt | viśeṣeṇa tarati | atikrāmati | api ca nṛbhir ṛtvigbhiḥ stutyair manuṣyaiḥ sahito 'haṃ sanīḷāḥ samānanivāsasthānā viśo daivīḥ prajā yad yadāhve āhvayāmi tadānīm ayam agnir viśvāni sarvāṇi devatvā devatvāny aśyāḥ | aśnute | prāpnoti | svayam eva tattaddevatākāro bhavatīty arthaḥ | tathā ca mantrāntaram āmnāyate | tvam agne varuṇo jāyase yat tvaṃ mitro bhavasi yat samiddha ity ādi | Ṛgve. 5-3-1 || aśyāḥ | aśū vyāptau | liṅi vyatyayena parasmaipadamadhyamau | bahulaṃ chandasīti vikaraṇasya luk ||*
+> *"**Putro na**, like a son, **jātaḥ**, born, Agni in the **duroṇe**, the house, is **raṇvaḥ**, delightful. **Vājī na**, like a horse, **prītaḥ**, gladdened, he **viśaḥ vi tārīt** — passes over specially, overcomes — the people (*viśaḥ*) in battle, who are foes. And further: when I, accompanied by the **nṛbhiḥ**, priests, praiseworthy men, **yat ahve** — call — the **sanīḷāḥ**, those of a common dwelling, **viśaḥ**, the divine people [gods], then this Agni **viśvāni devatvā**, attains all godhoods: he himself takes on the form of each deity. So another mantra says: 'You, Agni, are born Varuṇa; when you become Mitra; when kindled…' (Ṛgveda 5-3-1). **Aśyāḥ**: root *aśū vyāptau*; in the *liṅ*, *parasmaipada* second person by exchange; the *luk* of the vikaraṇa by 'bahulaṃ chandasi'."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**पुत्रो न** — like a son; **जातः** — born (from the fire-drill) [Agni]; **दुरोणे** — in the house; **रण्वः** — becomes the comfort-giver; **वाजी न** — like a horse; **प्रीतः** — joyful; **विशः** — the people who are in battle as enemies; **वि तारीत्** — he surpasses; **नृभिः** — with the priests; **सनीळाः** — those who live in a common dwelling; **विशः** — the gods; **यत्** — when; **अह्वे** — I call; **अग्निः** — Agni; **विश्वानि** — all; **देवत्वा** — godhoods; **अश्याः** — attains.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, born of the fire-drill, makes the sacrificial house a place of comfort; like a spirited horse in battle, he overcomes enemies and makes them defeated. When, with the priests, I call the deities who dwell together, Agni himself takes the divinity of each, accepts the oblations as each, and appears before them.
+
+**English Translation** *(the source's own, as printed):*
+
+> He diffuses happiness in a dwelling, like a son (newly) born ; he overcomes enemies in battle, like an animated charger ; when I, along with other men, invoke gods living in one place, you, Agni, assume all (their) celestial natures.
+
+---
+
+### Page 251 (PDF 269)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **वाजी न विशः वितारीत्** — *aśva iva saṅgrāme vartamānāḥ śatrubhūtāḥ viśeṣeṇa atikrāmati* — "the word *viś* is read among the twenty-four names of 'men' (Ni. [2-3]). Sāyaṇa explains that, as a horse conquers many enemies in battle, so Agni conquers enemy people in battles.
+- *Skandasvāmin:* **वितारीत्** — *vipūrvas tiratiḥ sarvatra vṛddhyarthaḥ* — "the root *tṝ* with the prefix *vi* means 'to grow': as a horse brings victory in battle, Agni causes sacrificers and singers to prosper in many ways."
+- **विश्वानि देवत्वा अश्याः** — *sarvāṇi devatvāni prāpnoti* — "Agni, to receive the oblations from the sacrificers at the sacrifice, himself becomes, as each is invoked, each deity of the same place, in the form of that deity: '*tvam agne varuṇo jāyase yat tvaṃ mitro bhavasi yat samiddhaḥ*' (Ṛk. Saṃ. 5-3-1) and so on. 'O Agni, you, well kindled, become Varuṇa and Mitra' — Varuṇa and Mitra are names of two deities; by this it is known that Agni is in the form of all the deities and that his greatness is thus described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 69.3 (begins; noted briefly).** **जातः**: root *janī prādurbhāve*; the affix *kta*; by "jñājanor jā" *jā* for the root; the affix accent, final-acute. **वाजी**: "*vājaṃ asya asti*" = *vājī*; by "ata iniṭhanau" the affix *ini* in the possessive sense; the word *vājin*; the nominative singular form. **प्रीतः**: root *prīñ tarpaṇe*; the final acute by the affix *kta*. **तारीत्**: root *tṝ plavanataraṇayoḥ*; in the present sense, by "chandasi luṅlaṅliṭaḥ" the *luṅ*; third person singular, *tip*; the loss of its *i* by "itaś ca"; by "asti sico 'pṛkte" the *īṭ* augment for it; *sic* for *cli*; for it the augment *iṭ*; by "sici vṛddhiḥ parasmaipadeṣu" *vṛddhi*; by "iṭo 'ṭi" [as read, "iṭa īṭi"] the loss of *sic*; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; the *nighāta* accent. *(continues on p. 252.)*
+
+---
+
+**Progress note:** Printed pp. 1–251 done (PDF 19–269): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1, 69.2 complete; **Rik 69.3** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 251, ending after *tārīt*). Next: p. 252 (PDF 270), the grammar page of Rik 69.3 concludes; then Riks 69.4, 69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; "ājo yat" in the *āhūryaḥ* grammar (p. 249) [?]; accent marks of the Saṃhitā/Pada not reproduced.
