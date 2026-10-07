@@ -8647,4 +8647,74 @@ Words treated: *rāye* (the stem *rai*; before the dative singular ending *ṅe*
 
 ---
 
-**Progress note:** Printed pp. 1–417 done (PDF 19–435): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.7 complete; **Rik 73.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics (p. 417) and the grammar page up to *syāma* done; the grammar page continues on p. 418. Next: p. 418 (PDF 436), the rest of the grammar page of 73.8; then Riks 73.9–73.10 and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 73.8 (p. 416) with printed oddities "syān", "aḍāmaḥ", "īḍāgamaḥ" doubtful [?].
+### Page 418 (PDF 436)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.8 (concluded; noted briefly)**
+
+*sisakṣi* (root *ṣaca samavāye*; *ṣatva* of the initial by *dhātvādeḥ ṣaḥ saḥ*, hence *sa*; *laṭ*, second person singular, *sip*; *śluḥ* for the vikaraṇa by *bahulaṃ chandasi*; doubling by *ślau*; by *bahulaṃ chandasy…* and the *bhṛñām it* sūtra [Pā. [7-4-76]] with *it* continued by anuvṛtti, the reduplicate takes *i*; *cuṭva*/*kutva* of the root's *c* → *k* by *coḥ kuḥ*; *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; the form *sisakṣi*; nighāta because it follows an *atijanta*). *āpaprivān* (root *prā pūraṇe*; *liṭ*; *kvasu* by *kvasuś ca*, Pā. [3-2-107]; since the root is monosyllabic, *iṭ* for *vasu* by *vasv-ekājād-ghasām*, Pā. [7-2-67]; doubling by the *nimitta*; *halādiśeṣa*; with *papā* + *iṭvas*, loss of the root's *ā* by *āto lopa iṭi ca*, Pā. [6-4-64]; though by *dvirvacane 'ci*, Pā. [1-1-59], loss would come first, by *sthānivat* the doubling etc. come as before; the affix's initial acute makes the *ā*… acute [as read]; before *su*, lengthening of the penultimate by *ātvasantasya cādhātoḥ*, since *ugit*, *num* by *ugidacāṃ…*; loss of *su* by *halṅyābbhyo…*; loss of the final *t* by *saṃyogāntalopa*; since that is treated as *asiddha*, loss of the *n* by *nalopaḥ prātipadikāntasya* does not arise). Ends "॥ ८ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.9** *(printed Ṛk "9 ||")*
+
+> अर्वद्भिरग्ने अर्वतो नृभिर्नॄन्वीरैर्वीरान्वनुयामा त्वोताः ।
+> ईशानासः पितृवित्तस्य रायो वि सूरयः शतहिमा नो अश्युः ॥ ९ ॥
+
+*arvadbhir agne arvato nṛbhir nṝn vīrair vīrān vanuyāmā tvotāḥ |
+īśānāsaḥ pitṛvittasya rāyo vi sūrayaḥ śatahimā no aśyuḥ ||9||*
+
+---
+
+### Page 419 (PDF 437)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.9**
+
+> अर्वत्ऽभिः । अग्ने । अर्वतः । नृऽभिः । नॄन् । वीर्यैः । वीरान् । वनुयामः । त्वाऽऊताः ।
+> ईशानासः । पितृऽवित्तस्य । रायः । वि । सूरयः । शतऽहिमाः । नः । अश्युः ॥ ९ ॥
+
+*arvat-bhiḥ | agne | arvataḥ | nṛ-bhiḥ | nṝn | vīryaiḥ | vīrān | vanuyāma | tvā-ūtāḥ | īśānāsaḥ | pitṛ-vittasya | rāyaḥ | vi | sūrayaḥ | śata-himāḥ | naḥ | aśyuḥ ||9||*
+
+*(Reading note: the Pada prints "वनुयामः" (read *vanuyāmaḥ*, the Saṃhitā's *vanuyāmā* before "tvotāḥ"); accents not reproduced.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.9** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> हे अग्ने त्वोतास्त्वया रक्षिताः संतो वयमर्वद्भिरस्मदीयैरश्वैरर्वतः शत्रुसंबंधिनोऽश्वान्नृभिरस्मदीयैर्भटैर्नॄन् शत्रोर्भटान् । वीर्यैर्जायंत इति वीराः पुत्राः । तैर्वीरान् शत्रुपुत्रांश्च वनुयामः । हन्याम । वनुष्यतिर्हिंसाकर्मानवगतसंस्कारो भवति । नि. [५-२?] इति यास्कः । पितृवित्तस्य पित्रादिपरंपरया लब्धस्य रायो धनस्येशानासः स्वामिनः । सूरयो विद्वांसो नो ऽस्माकं पुत्राः शतहिमाः शतं संवत्सरान् जीवंतः संतो व्यश्युः । विशेषेण भुंजताम् । अस्मदीयानां पुत्राणामारोग्यं दीर्घमायुश्च भवत्वित्यर्थः ॥ त्वोताः । त्वयोताः । प्रत्ययोत्तरपदयोश्चेति मपर्यंतस्य त्वादेशः । व्यत्ययेनात्वं । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । शतहिमाः । अत्र हिमशब्देन तद्वान्हेमंतो लक्ष्यते । ब्राह्मणं च भवति । शतं हिमा इत्याह शतं त्वा हेमंतानिति धिषीयेति वाव तदाहेति । शतं हिमाः शतं हेमंतैर्वो येषां ते शतसंवत्सरजीविन इत्यर्थः । अश्युः । अश भोजने । बहुलं छंदसीति विकरणस्य लुक् ॥
+
+*he agne tvotās tvayā rakṣitāḥ santo vayam arvadbhir asmadīyair aśvair arvataḥ śatrusaṃbandhino 'śvān nṛbhir asmadīyair bhaṭair nṝn śatror bhaṭān | vīryair jāyanta iti vīrāḥ putrāḥ | tair vīrān śatruputrāṃś ca vanuyāmaḥ | hanyāma | vanuṣyatir hiṃsākarmānavagatasaṃskāro bhavati | ni. [5-2?] iti yāskaḥ | pitṛvittasya pitrādiparaṃparayā labdhasya rāyo dhanasyeśānāsaḥ svāminaḥ | sūrayo vidvāṃso no 'smākaṃ putrāḥ śatahimāḥ śataṃ saṃvatsarān jīvantaḥ santo vy aśyuḥ | viśeṣeṇa bhuñjatām | asmadīyānāṃ putrāṇām ārogyaṃ dīrgham āyuś ca bhavatv ity arthaḥ || tvotāḥ | tvayotāḥ | pratyayottarapadayoś ceti mapary antasya tvādeśaḥ | vyatyayenātvaṃ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | śatahimāḥ | atra himaśabdena tadvān hemanto lakṣyate | brāhmaṇaṃ ca bhavati | śataṃ himā ity āha śataṃ tvā hemantān dhiṣīyeti vāva tad āheti | śataṃ himāḥ śataṃ hemantair vo yeṣāṃ te śatasaṃvatsarajīvina ity arthaḥ | aśyuḥ | aśa bhojane | bahulaṃ chandasīti vikaraṇasya luk ||*
+
+*(Reading note: "tvotāḥ" is read as *tvā-ūtāḥ*; "pratyayottarapadayoś ca" and the Brāhmaṇa quotation (which has no reference numeral in the bhāṣya) are as printed; the Nirukta numeral [?].)*
+
+*Meaning:* O Agni, guarded by you (*tvotāḥ*), may we destroy (*vanuyāma*) with our horses (*arvadbhiḥ*) the horses of the enemy (*arvataḥ*), with our men (*nṛbhiḥ*) the enemy's men (*nṝn*), and with our sons — "*vīrāḥ* are sons, since they are born of strength (*vīrya*)" — the enemy's sons. "*Vanuṣyati* is a verb of killing, of which the formation is not understood": Yāska (Ni. [5-2?]). May our sons, the wise (*sūrayaḥ*), lords (*īśānāsaḥ*) of the wealth gained from father and the earlier line, live a hundred years (*śatahimāḥ*), and fully enjoy (*vy aśyuḥ*); that is, may our sons have health and long life.
+
+**Grammatical tail** *(characterized, not transcribed)*: *tvotāḥ* ("protected by you"; *tva* substitution for the end of *yuṣmad* by *pratyayottarapadayoś ca*; *ā* for the *ā* by *vyatyaya*; the first member keeps its natural accent by *tṛtīyā karmaṇi*); *śatahimāḥ* ("here, by the word *hima* is meant the winter-bearing season"; the Brāhmaṇa says "a hundred winters — *śataṃ tvā hemantān dhiṣīya*"; so "those for whom there are a hundred winters": those who live a hundred years); *aśyuḥ* (root *aśa bhojane*; loss of the vikaraṇa).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *tvotāḥ* — (we) protected by you; *arvadbhiḥ* — (by our) horses; *arvataḥ* — (the enemies') horses; *nṛbhiḥ* — by (our) warriors; *nṝn* — (the enemies') warriors; *vīryaiḥ* — by our heroes (sons); *vīrān* — (the enemies') heroes (sons); *vanuyāma* — may we slay; *pitṛvittasya* — come down from the father's line; *rāyaḥ* — of wealth; *īśānāsaḥ* — lords; *sūrayaḥ* — the wise; *naḥ* — our sons; *śatahimāḥ* — having a hundred years (living a hundred years); *vi aśyuḥ* — may they enjoy well (may they live).
+
+---
+
+### Page 420 (PDF 438)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! Protected by you, may we destroy the enemies' horses by our horses, their warriors by our warriors, their sons by our sons. May our sons, endowed with the wealth gained by the father, and wise, live a hundred years.
+
+**English Translation** *(the source's own, as printed):*
+
+> Defended, Agni, by you, may we destroy the horses (of our enemies) by (our) horses, their men by our men, their sons by (our) sons, and may our sons, learned, and inheritors of ancestral wealth, live for a hundred winters.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **अर्वद्भिः अर्वतः** — "The word *arva* — since *aśvaḥ*, *hayaḥ* and so on are read among the twenty-four [as read, ?] names of the horse (Ni. [1-14?]) — means 'horse'; here, 'by horses'."
+- **वीर्यैः वीरान्** — *vīryāt jāyante iti vīrāḥ putrāḥ* (Sā. Bhā.) — "since sons are born from strength, they have the name *vīra* — 'heroes'. *Vīro vīrayatyamitrān vetrā vā syād gatikarmaṇo vīrayate vā* (Ni. [1-?]): 'the word *vīra* shows the meaning "one who destroys enemies in many ways", or "one who goes [against]"; the form of the word *vīra* is accomplished from the root with the sense of motion'. *Bṛhad vadema vidathe suvīrāḥ* (Ṛk. Saṃ. [2-1-16], Ni. [1-?]): here the word *suvīrāḥ* is explained with two kinds of meanings: 'sons', and 'heroes who destroy enemies'." *(Gloss mine and tentative: "may we speak great words in the assembly, rich in sons / in heroes".)*
+- **रायः** — "Since *magham*, *rekṇaḥ* and so on are read among the twenty-eight [as read, ?] names of wealth (Ni. [2-10?]), the word *rāyaḥ* means 'wealth': *pitryasyeva rāyaḥ* (Ṛk. Saṃ. [1-91-?]; Ni. [4-?]) — here *rāyaḥ* means 'wealth'."
+- **शतहिमाः** — *śataṃ saṃvatsarāḥ* — "'a hundred years'. Here, by the word *hima* the winter season, which has much snow, is meant. *Śataṃ himā ity āha | śataṃ tvā hemantān dhiṣīya iti vāva tad āha* (Tai. Saṃ. [1-?-?]): the Taittirīya Saṃhitā's sentence shows this sense. *Śataṃ himāḥ — śataṃ hemantair vo yeṣāṃ te* — 'those who live until a hundred winter seasons have been completed'."
+
+---
+
+**Progress note:** Printed pp. 1–420 done (PDF 19–438): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.8 complete (73.8's grammar page ends p. 418); **Rik 73.9** (printed "9 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 418–420) done; the Special Topics may continue on p. 421; the grammar page of 73.9 not yet seen. Next: p. 421 (PDF 439). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Taittirīya reference numerals on p. 420 and the Ṛgveda citations doubtful, glosses mine and tentative [?].
