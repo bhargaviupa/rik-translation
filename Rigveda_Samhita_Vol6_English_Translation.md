@@ -12184,4 +12184,108 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 ---
 
-**Progress note:** Printed pp. 1–545 done (PDF 19–563): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.5 complete** (grammar of 79.5 on pp. 542–543); **Rik 79.6** — Saṃhitā (p. 543), Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 544), English and Special Topics (p. 545) done; the grammar page of 79.6 not yet seen. Next: p. 546 (PDF 564) — grammar of 79.6, then Rik 79.7 (first of the Gāyatrī Ṛks). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
+### Page 546 (PDF 564)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics of Rik 79.6, continued from p. 545:*
+
+- **तिग्मजम्भ** — "*Tigma* means sharp (*tīkṣṇa*); *tigmajambha* means 'one with a sharp mouth' — one whose nature is to burn. In general this word is used as an epithet of Agni. In the Ṛgveda, in the Ṛks —
+
+> प्र तां अग्निर्बभसत्तिग्मजम्भस्तपिष्ठेन शोचिषा यः सुराधाः ।
+
+*pra tāṃ agnir babhasat tigmajambhas tapiṣṭhena śociṣā yaḥ surādhāḥ |* (Ṛk. Saṃ. [4]-[5]-4 [?]) — *Gloss, mine and tentative:* "Let Agni, the sharp-jawed, devour them with his hottest flame — he who gives good gifts."
+
+> अस्य त्वा वीर ईवतोऽग्नेरीशीत मर्त्यः ।
+> तिग्मजम्भस्य मीळ्हुषः ॥
+
+*asya tvā vīra īvato 'gner īśīta martyaḥ | tigmajambhasya mīḷhuṣaḥ ||* (Ṛk. Saṃ. 6-[15]-[5] [?]) — *Gloss, mine and tentative:* "Of this you, O hero, the swift Agni, the sharp-jawed, the bountiful, a mortal may become master." (Sense uncertain to me.)
+
+> तिग्मजम्भाय तरुणाय राजते प्रयो गायस्यग्नये ।
+
+*tigmajambhāya taruṇāya rājate prayo gāyasy agnaye |* (Ṛk. Saṃ. 8-[19]-[23] [?]) — *Gloss, mine and tentative:* "To the sharp-jawed, youthful, shining Agni you sing (the offering of) food."
+
+> यज्ञानां रथ्ये वयं तिग्मजम्भाय वीळवे ।
+
+*yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave |* (Ṛk. Saṃ. 8-[49]-[17] [?]) — *Gloss, mine and tentative:* "(We invoke) the charioteer of the sacrifices, the sharp-jawed, the strong."
+
+— in these Ṛks alone it occurs, and nowhere else. In all these places this word is used of Agni."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.6)** *(grammar page, noted briefly; runs to p. 547)*
+
+- **क्षपः** — the root *kṣapa kṣāntyām* [?] (क्षप क्षान्त्याम्); *laṅ* in the sense of *loṭ* by "chandasi luṅlaṅliṭaḥ" (छन्दसि लुङ्लङ्लिटः, Pā. Sū. 3-4-6); the *ṇic* by "hetumati ca" (हेतुमति च, Pā. Sū. 3-1-26); second person singular *sip*; the loss of the *i* by "iteś ca"; *śap* by "kartari śap"; because "chandasy ubhayathā" gives *śap* the *ārdhadhātuka* designation, the *ṇi* is elided by "ṇer aniṭi" (णेरनिटि, Pā. Sū. 6-4-51); the *s* becomes *ru*, visarga; by "bahulaṃ chandasy āmāṅyoge 'pi" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; *śap* being *p*-marked is anudātta; because the *ṇic* with the anudātta as cause was elided, the udātta accent for *śap* comes by "anudāttasya ca yatrodāttalopaḥ" (अनुदात्तस्य च यत्रोदात्तलोपः, Pā. Sū. 6-1-[161]); at the head of a pāda, so no nighāta.
+- **त्मना** — the third-case singular of the stem *ātman*, as *ātmanā*; by "mantreṣv āṅyāder ātmanaḥ" (मन्त्रेष्वाङ्याद्रेरात्मनः, Pā. Sū. 6-4-141) the *ā* is dropped in the Saṃhitā.
+- **रक्षसः** — the root *rakṣa pālane* (रक्ष पालने); "*rakṣitavyam asmād iti rakṣaḥ*" ((from) these [Rākṣasas] people are to be guarded); of the *bhīmādi* group, by "bhīmādayo 'pādāne" (भीमादयोऽपादाने, Pā. Sū. 3-4-74) the affix *asi* in the *apādāna* sense *(continued on p. 547)*
+
+### Page 547 (PDF 565)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 79.6, continued from p. 546:*
+
+- **रक्षसः** (continued) — "…the form *rakṣas*. Or, when *ṇic* is made after the root *kṣar* (or *svar*), after the *ṇic*-ending stem the *asi* affix, as before; *ṇi* is dropped by "ṇer aniṭi"; as it is a Vedic form there is a transposition of letters (*varṇaviparyaya*). Through the accent of the affix the word *rakṣas* is final-udātta."
+- **दह** — the root *daha bhasmīkaraṇe* (दह भस्मीकरणे); *loṭ*, second person singular; since it is *atiṅanta* in the pāda, nighāta accent. ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.7** *(first of the Gāyatrī Ṛks, 7–12)*
+
+> अवा नो अग्न ऊतिभिर्गायत्रस्य प्रभर्मणि ।
+> विश्वासु धीषु वन्द्य ॥ ७ ॥
+
+*avā no agna ūtibhir gāyatrasya prabharmaṇi |
+viśvāsu dhīṣu vandya ||7||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> अव । नः । अग्ने । ऊतिऽभिः । गायत्रस्य । प्रऽभर्मणि ।
+> विश्वासु । धीषु । वन्द्य ॥ ७ ॥
+
+*ava | naḥ | agne | ūti-bhiḥ | gāyatrasya | pra-bharmaṇi | viśvāsu | dhīṣu | vandya ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.7** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> प्रातरनुवाकस्याग्नेये क्रतौ गायत्रे छन्दस्यवा नो अग्न इत्याद्याः षडृचः । सूत्रितं च । अवा नो अग्न इति षळग्निमीळेऽग्निं दूतम् । आ. ४-१३ [?] इति ॥ अश्विनशस्त्रे चैताः शंसनीयाः प्रातरनुवाकातिदेशात् ॥
+>
+> विश्वासु धीषु सर्वेषु कर्मसु वन्द्य स्तुत्य हे अग्ने गायत्रस्य गायत्रसाम्नो गायत्रीच्छन्दस्कस्य सूक्तस्य वा प्रभर्मणि प्रभरणे सम्पादने निमित्तभूते सति सोऽस्मानूतिभिस्तृप्तिदैः [?] पालनैरव । रक्ष ॥ अव । द्व्यचोऽतस्तिङ इति संहितायां दीर्घत्वम् ॥
+
+*prātaranuvākasyāgneye kratau gāyatre chandasy avā no agna ity ādyāḥ ṣaḍṛcaḥ | sūtritaṃ ca | avā no agna iti ṣaḷ agnim īḷe 'gniṃ dūtam | Āś. 4-13 [?] iti || aśvinaśastre caitāḥ śaṃsanīyāḥ prātaranuvākātideśāt ||*
+
+*viśvāsu dhīṣu sarveṣu karmasu vandya stutya he agne gāyatrasya gāyatrasāmno gāyatrīchandaskasya sūktasya vā prabharmaṇi prabharaṇe sampādane nimittabhūte sati so 'smān ūtibhis tṛptidaiḥ [?] pālanair ava | rakṣa || ava | dvyaco 'tas tiṅa iti saṃhitāyāṃ dīrghatvam ||*
+
+*Sense:* "In the *Prātaranuvāka*, in the Āgneya rite, in the Gāyatrī metre, the six Ṛks beginning *avā no agne* (79.7–12) are used. It is stated in the sūtra: '*avā no agna* — six; *agnim īḷe*; *agniṃ dūtam*' (Āśv. 4-13 [?]). And these are to be recited also in the Āśvina-śastra, by the extension (*atideśa*) of the *Prātaranuvāka*. — O Agni, who are to be praised (*vandya*) in all rites (*viśvāsu dhīṣu*): when the offering (*prabharmaṇi* = *prabharaṇe*, *sampādane*) of the Gāyatra (the *Gāyatra* sāman, or a sūkta in the Gāyatrī metre) is the occasion, do you, with protections (*ūtibhiḥ*) [bringing satisfaction (?) [?]], protect (*ava* = *rakṣa*) us." *The grammatical tail:* *ava* — by "dvyaco 'tas tiṅaḥ" (द्व्यचोऽतस्तिङः, Pā. Sū. 6-3-135) lengthening in the Saṃhitā (*avā*).
+
+### Page 548 (PDF 566)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.7** *(Kannada)*
+
+- **विश्वासु धीषु** — "in all rites"
+- **वन्द्य** — "O praiseworthy"
+- **अग्ने** — "O Agni!"
+- **गायत्रस्य** — "of the Gāyatra sāman, or of the sūkta in the Gāyatrī metre"
+- **प्रभर्मणि** — "in the act of recitation (pleased by the recitation)"
+- **नः** — "us"
+- **ऊतिभिः** — "with (your) acts of protection"
+- **अव** — "protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.7** *(Kannada)*
+
+"O Agni, honoured in all rites, do you, pleased with the sūkta composed in the Gāyatrī metre, protect us with your acts of protection."
+
+**English Translation** *(printed in English in the source)*
+
+"Agni, who in all rites is to be praised, guard us with your protection (propitiated) by the recitation of the metrical hymn." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.7)**
+
+"At the time of the *Prātaranuvāka* mantras, when the Ṛks of the Gāyatrī metre connected with the Āgneya rite are recited, these six Ṛks beginning *avā no agne* have application, as is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*avā no agna iti ṣaḷ agnim īḷe 'gniṃ dūtam*' (Āśv. 4-[13] [?]). It is directed there itself that these Ṛks are to be recited also in connection with the *Prātaranuvāka* mantras for the Āśvina-śastra mantras."
+
+- **अव** — "For the sake of the metre the final syllable of this word is lengthened in the Saṃhitā-pāṭha."
+- **गायत्रस्य** — "of a particular mantra of the Sāmaveda called *gāyatra*, or of the sūkta (*stotra*) that contains Ṛks accompanied by the Gāyatrī metre."
+- **विश्वासु धीषु वन्द्य** — "Among the twenty-six names of action (*karman*) beginning *apaḥ, apnaḥ* the word *dhīḥ* occurs (Ni. [2-1] [?]); hence *dhīṣu* means 'in rites'. *Viśvāsu dhīṣu vandya* means: Agni who is praised (or saluted) in all the rites, the sacrifices and so on."
+
+---
+
+**Progress note:** Printed pp. 1–548 done (PDF 19–566): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: Riks **79.1–79.6 complete** (grammar of 79.6 on pp. 546–547); **Rik 79.7** (first Gāyatrī Ṛk) — Saṃhitā, Pada, bhāṣya (p. 547), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 548) done; the grammar page of 79.7 not yet seen. Next: p. 549 (PDF 567). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525, 545–546; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read.
