@@ -2988,4 +2988,88 @@ yā indreṇa sayāvarīr vṛṣṇā madanti śobhase vasvīr anu svarājyam |
 
 ---
 
-**Progress note:** Printed pp. 1–107 done (PDF 16–122) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.9 complete**; **Rik 84.10** (first Paṅkti Ṛk; refrain *vasvīr anu svarājyam*) — Saṃhitā, Pada, application note, bhāṣya (p. 105), Pratipadārtha, Bhāvārtha, English (p. 106) and Special Topics (p. 107) done; the grammar page of 84.10 not yet seen. Next: printed p. 108 (PDF 123). Ten Ṛks (84.11–84.20) remain after 84.10. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 108 (PDF 123)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.10)** *(grammar page, noted briefly; runs to p. 109)*
+
+- **विषूवतः** — the root *viṣḷ vyāptau*; the Uṇādi affix *ku*; because it is *k*-marked, no guṇa of the light penultimate; the word *viṣu*. *Viṣuḥ asya asti iti viṣūvat*: by "tad asyāsty asminn iti" (Pā. Sū. 5-2-94) *matup*; by *vyatyaya*, though no cause is present, *v* for the *m* of *matup*; by "hrasvanuḍbhyāṃ matup" (Pā. Sū. 6-1-176) since it follows a short vowel, *matup* is udātta; by "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137) the first part of *matup* is lengthened in the Saṃhitā; in the sixth-case singular *viṣūvataḥ* results.
+- **मध्वः** — *madhu+jas* [as printed; sixth-case singular is meant]. When the sixth-case singular follows, by the word *vā* of "jasādiṣu chandasi vāvacanam" (vārttika) the *u* does not take guṇa as it would by "gher ṅiti" (Pā. Sū. 7-3-111); since guṇa is absent, *yaṇ* for the *ik* by "iko yaṇaci" (Pā. Sū. 6-1-77); *ru* and visarga for the *s* of the affix: *madhvaḥ*. Since "kriyāgrahaṇaṃ kartavyam" is said in the bhāṣya, even though the root *dā* is absent, here the object takes *sampradāna*-designation, and so the sixth case arises in the sense of the fourth.
+- **पिबन्ति** — the root *pā pāne*; *laṭ*, third person plural; by "pāghrādhmāsthā…" (Pā. Sū. 7-3-78) *piba* is the substitute; *anta* for *jhi*; since an *atiṅanta* precedes, nighāta accent.
+- **गौर्यः** — "ṣiḍgaurādibhyaś ca" (Pā. Sū. 4-1-41) *ṅīṣ* in the feminine; "yasyeti ca" drops the *a*; with *gaurī+jas*, "dīrghāj jasi ca" (Pā. Sū. 6-1-[?]) forbids the single prior long; so *yaṇ*; then, since the udātta *ī* is replaced by *yaṇ*, by "udāttasvaritayor yaṇaḥ svaritoʼnudāttasya" (Pā. Sū. 8-2-4) the anudātta of the case-ending *jas* that follows becomes svarita.
+- **सयावरीः** — the root *yā prāpaṇe*; by "āto maninkvanipvanipaś ca" (Pā. Sū. 3-2-74) the affix *vanip*; in the feminine by "vano ra ca" (Pā. Sū. 4-1-7) *ṅīp* and *r* for the *n*; *saha yāntyaḥ sayāvaryaḥ*; with *jas*, by "supāṃ suluk-pūrvasavarṇa…" the lengthening; *vanip* is *pit* so it is anudātta; the root-accent remains; by "gatikārakopapadāt kṛt" (Pā. Sū. 6-2-139) the first member keeps its natural accent in the compound.
+- **मदन्ति** — the root *madī harṣe*, *divādi*; *laṭ*, third person plural; *śyan* is to arise, but by "vyatyayo bahulam" *śap*; since *yaḥ* [*yāḥ*] was in the previous pāda by connection, by "yad dhṛttān nityam" (Pā. Sū. 8-1-66) the nighāta is barred, so by the root-accent it is initial-udātta.
+
+### Page 109 (PDF 124)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 84.10, concluded:*
+
+- **शोभसे** — the root *śubha dīptau*; in the sense of the infinitive (*tumun*), by "tumarthe sesenasen…" [as read: "tumarthe sesenasenasekasenasadhyaisadhyaiśadhyaikadhyaikhānkhy…", Pā. Sū. 3-4-9] the affix *se*; by the affix-accent the word *śobhase* is as stated.
+- **वस्वीः** — the root *vasa nivāse*; by "śvasvasnihi…" [as read: "kṛsṛbhṛvṛśīṅ…", Uṇ. Sū. 1-[10] [?]] the affix *u*; with "nit" continuing, by "dhātvaḥ nit" [as read: "dhātoḥ nit", Pā. Sū. 6-1-[?]] it is initial-udātta, so *vasu* is initial-udātta. In the feminine, by the statement "vāto guṇavacanāt" — the *ṅīṣ* affix is to be said to come after a *guṇavacana* word with initial udātta — "guṇavacanāt ṅīṣ ādyudāttārtham" (Kā. 4-1-44, vārttika 1 [?]) *ṅīṣ* comes and is initial-udātta; with *vasvī+jas*, by "vā chandasi" (Pā. Sū. 6-1-106) the single prior long form (optional).
+- **स्वराज्यम्** — *svasya rājyaṃ svarājyam*; by "akarmadhāraye rājyam" (Pā. Sū. 6-2-130) the final member is initial-udātta. ||10||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.11**
+
+> ता अस्य पृशनायुवः सोमं श्रीणन्ति पृश्नयः ।
+> प्रिया इन्द्रस्य धेनवो वज्रं हिन्वन्ति सायकं वस्वीरनु स्वराज्यम् ॥ ११ ॥
+
+*tā asya pṛśanāyuvaḥ somaṃ śrīṇanti pṛśnayaḥ |
+priyā indrasya dhenavo vajraṃ hinvanti sāyakaṃ vasvīr anu svarājyam ||11||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> ताः । अस्य । पृशनऽयुवः । सोमम् । श्रीणन्ति । पृश्नयः ।
+> प्रियाः । इन्द्रस्य । धेनवः । वज्रम् । हिन्वन्ति । सायकम् ।
+> वस्वीः । अनु । स्वऽराज्यम् ॥ ११ ॥
+
+*tāḥ | asya | pṛśana-yuvaḥ | somam | śrīṇanti | pṛśnayaḥ | priyāḥ | indrasya | dhenavaḥ | vajram | hinvanti | sāyakam | vasvīḥ | anu | sva-rājyam ||11||*
+
+### Page 110 (PDF 125)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.11** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> ताः पूर्वोक्ता अस्येन्द्रस्य पृशनायुवः स्पर्शनकामाः पृश्नयो नानावर्णा गाव इन्द्रेण पातव्यं सोमं पयसा श्रीणन्ति । मिश्रीकुर्वन्ति । इन्द्रस्य प्रियाः प्रीतिहेतुभूतास्ता धेनवः सायकं शत्रूणामन्तकारकं वज्रमायुधं हिन्वन्ति शत्रुषु प्रेरयन्ति । इन्द्रो यथा शत्रुषु वज्रं प्रेरयति तथेन्द्रस्य मुदमुत्पादयन्तीत्यर्थः । अन्यत्पूर्ववत् ॥ हिन्वन्ति । हिवि प्रीणनार्थः । इदित्वान्नुम् । सायकम् । षो अन्तकर्मणि । ण्वुल्त्वात्वे युगागमः ॥ ११ ॥
+
+*tāḥ pūrvoktā asyendrasya pṛśanāyuvaḥ sparśanakāmāḥ pṛśnayo nānāvarṇā gāva indreṇa pātavyaṃ somaṃ payasā śrīṇanti | miśrīkurvanti | indrasya priyāḥ prītihetubhūtās tā dhenavaḥ sāyakaṃ śatrūṇām antakārakaṃ vajram āyudhaṃ hinvanti śatruṣu prerayanti | indro yathā śatruṣu vajraṃ prerayati tathendrasya mudam utpādayantīty arthaḥ | anyat pūrvavat || hinvanti | hivi prīṇanārthaḥ | iditvān num | sāyakam | ṣo antakarmaṇi | ṇvultvātve yugāgamaḥ || 11 ||*
+
+*Sense:* "Those (cows) spoken of before, of this Indra, *pṛśanāyuvaḥ* — desirous of his touch — *pṛśnayaḥ*, many-coloured cows, *śrīṇanti* — mingle with milk the Soma that is to be drunk by Indra. Those *dhenavaḥ*, dear (*priyāḥ*) to Indra — the cause of his pleasure — *hinvanti* — impel against the enemies — the *sāyaka*, the thunderbolt-weapon (*vajra*) that makes an end of enemies. The sense: as Indra hurls the thunderbolt at enemies, so they produce joy in Indra. The rest as before." *The grammatical tail:* *hinvanti* — the root *hivi* in the sense of pleasing, with *num* since it is marked *i*; *sāyakam* — the root *ṣo antakarmaṇi*, with *ṇvul*, *ā* for the *vul* and the augment *yuk*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.11** *(Kannada)*
+
+- **अस्य** — "of this Indra"
+- **पृशनायुवः** — "desiring touch"
+- **पृश्नयः** — "of many colours"
+- **ताः** — "those cows"
+- **सोमम्** — "(drunk by Indra) the Soma juice"
+- **श्रीणन्ति** — "(with their milk) mix"
+- **इन्द्रस्य** — "to Indra"
+- **प्रियाः** — "dear (the causes of pleasure)"
+- **धेनवः** — "those cows"
+- **सायकम्** — "the destroyer of enemies"
+- **वज्रम्** — "the weapon called *vajra*"
+- **हिन्वन्ति** — "direct (as if toward the enemies)"
+- **वस्वीः** — "(dwelling) in their own cow-sheds"
+- **स्वराज्यम् अनु** — "heeding (Indra's) sovereignty."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.11** *(Kannada)*
+
+"Those cows of many colours, desiring Indra's beneficial touch, mix with their milk the Soma juice that he is to drink. Those cows, dear to Indra, urge on his enemy-destroying thunderbolt weapon so that it goes against the enemies, and dwelling in their cow-sheds they heed Indra's sovereignty."
+
+**English Translation** *(printed in English in the source)*
+
+"Those cows of Indra, many-coloured and affectionate mix the Soma juice with their milk ; Indra's beloved cows direct his destructive thunderbolt against his enemies, and are benificient [sic] in accordance with his sovereignty." — as printed ("benificient" as printed [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.11)**
+
+- **पृशनायुवः** — *sparśanakāmāḥ* — "'desirous of touch' means 'those who wish Indra's touch, that is, who are dear to Indra'; because they long for Indra's touch they are pleasing to Indra."
+
+---
+
+**Progress note:** Printed pp. 1–110 done (PDF 16–125) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.10 complete** (grammar of 84.10 on pp. 108–109); **Rik 84.11** — Saṃhitā, Pada (p. 109), bhāṣya, Pratipadārtha, Bhāvārtha, English and the first Special Topic (p. 110) done; the rest of the Special Topics and grammar not yet seen. Next: printed p. 111 (PDF 126). Nine Ṛks (84.12–84.20) remain after 84.11. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
