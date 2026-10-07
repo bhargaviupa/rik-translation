@@ -8448,4 +8448,61 @@ The cows, ever giving milk, radiant, who love Agni, have come to the sacrificial
 
 ---
 
-**Progress note:** Printed pp. 1–408 done (PDF 19–426): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.5 complete; **Rik 73.6** (printed "6 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 406–408) done; the Special Topics may continue on p. 409; the grammar page of 73.6 not yet seen. Next: p. 409 (PDF 427). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.6 (p. 406) compressed and doubtful [?].
+### Page 409 (PDF 427)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.6, noted briefly; not transcribed)*
+
+Words treated: *ṛtasya* (in the sūtra that prescribes the *saṃpradāna* designation there is the statement *kriyāgrahaṇaṃ kartavyam*, so the *saṃpradāna* designation arises for the object, and the sixth case stands in the sense of the fourth). *vāvaśānāḥ* (root *vaśa kāntau*; since intensity is meant, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ*, Pā. [3-1-22]; doubling by *sanyaṅoḥ*; *halādiśeṣa* of the reduplicate; lengthening by *dīrgho 'kitaḥ*, Pā. [7-4-83]; *vāvaśya* receives the root-designation by *sanādyantā dhātavaḥ*; *śānac* in the present sense; the samprasāraṇa is prohibited by *na vaśaḥ*, Pā. [6-1-20], since *yaṅ* follows; loss of *śap* by *bahulaṃ chandasi*; the *śānac* gets *ārdhadhātuka* designation by *chandasy ubhayathā*, so loss of *y* by *yasya halaḥ* and of *a* by *ato lopaḥ*; the form *vāvaśāna*; since the root is not in the *adupadeśa* class, *tāsyanudāttet…* does not apply; because *śānac* is *cit*, final acute by *citaḥ*). *smadūdhnīḥ* ("those whose udders are constant"; by *ūdhaso 'nań*, Pā. [5-4-131], the substitute *anaṅ* comes as a samāsānta; since the indeclinable is the first member, in the feminine *ṅīp* by *saṅkhyāvyayādeḥ…*, Pā. [4-1-26]; with *smadūdhan* + *ī*, loss of the *a* by *alopo 'naḥ*, Pā. [6-4-134]; the *ṅīp* is *pit*, hence anudātta by *anudāttau supitau*, so the bahuvrīhi accent — the first member's natural accent — remains; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*). *pīpayanta* (root *pā pāne*; with the causative sense *ṇic* by *hetumati ca*, Pā. [3-1-26]; *yuk*-augment by *śācchāsāhvā…*, Pā. [6-1-?]; the *ṇijanta* *pāyi* becomes a root by *sanādyantā*; *laṅ*, third person plural, *jhi* → *anta*; *cli* → *caṅ* by *ṇiśrid ruprasrubhyaḥ kartari caṅ*, Pā. [3-1-48]; doubling of the first single-vowel part of the root by *caṅi*; *halādiśeṣa*; shortening by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. [7-4-1]; *i* for the reduplicate's vowel by *sanvallaghuni…*; lengthening of the *i* by *dīrgho laghoḥ*; loss of *ṇi* by *ṇer aniṭi*; *pararūpa* by *ato guṇe*; the form *pīpayanta*; the *ca*-reduplicate's first part gets acute by *caṅy anyatarasyām*, Pā. [6-1-?]; since *hi* occurs before, nighāta is prohibited by *hi ca*, Pā. [8-1-34]). *(Continued on p. 410.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 410 (PDF 428)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammar page of Rik 73.6 (concluded; noted briefly)**
+
+*parāvataḥ* (from *parāgata*, "gone far"; when the sense of the root is intended, the affix *vati* by *upasargāc chandasi dhātvarthe*, Pā. [5-1-118], after the prefix *parā*; the form *parāvat*; ablative singular; the affix's initial acute). *sasruḥ* (root *sṛ gatau*; Vedic *liṭ* in the present sense; third person plural, *jhi* → *us*; doubling; *raparatva* in the reduplicate's *ṛ*; *halādiśeṣa*; *yaṇ*; nighāta because it follows an *atijanta*). Ends "॥ ६ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.7** *(printed Ṛk "7 ||")*
+
+> त्वे अग्ने सुमतिं भिक्षमाणा दिवि श्रवो दधिरे यज्ञियासः ।
+> नक्ता च चक्रुरुषसा विरूपे कृष्णं च वर्णमरुणं च संधुः ॥ ७ ॥
+
+*tve agne sumatiṃ bhikṣamāṇā divi śravo dadhire yajñiyāsaḥ |
+naktā ca cakrur uṣasā virūpe kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃdhuḥ ||7||*
+
+---
+
+### Page 411 (PDF 429)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.7**
+
+> त्वे इति । अग्ने । सुऽमतिम् । भिक्षमाणाः । दिवि । श्रवः । दधिरे । यज्ञियासः ।
+> नक्ता । च । चक्रुः । उषसा । विरूपे इति विऽरूपे । कृष्णम् । च । वर्णम् । अरुणम् । च । सम् । धुरिति धुः ॥ ७ ॥
+
+*tve iti | agne | su-matim | bhikṣamāṇāḥ | divi | śravaḥ | dadhire | yajñiyāsaḥ | naktā | ca | cakruḥ | uṣasā | virūpe iti vi-rūpe | kṛṣṇam | ca | varṇam | aruṇam | ca | sam | dhur iti dhuḥ ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.7** *(Sanskrit in Kannada script; main sense transcribed; doubtful places [?])*
+
+> हे अग्ने सुमतिं शोभनामनुग्रहात्मिकां बुद्धिं भिक्षमाणा याचमाना यज्ञियासो यज्ञार्हाः सर्वे देवा दिवि द्योतमाने त्वे त्वयि श्रवो हविर्लक्षणमन्नं दधिरे । आस्थापयन् । अग्निर्देवानामन्नाद इति श्रुतेः । तदनंतरं ते देवास्त्वयोनुगृहीताः संतो हविर्युक्तायानुष्ठानाय विरूपे विविधरूपे उषसोषःकालोपलक्षितमहर्नक्ता च नक्तं रात्रिं च चक्रुः । आकुर्वन् । एतदेव स्पष्टयति । कृष्णं च वर्णं रात्र्यां श्यामलवर्णमंधकारमहन्यरुणमारोचनं श्वेतवर्णं तेजश्च सं धुः । सम्यक् स्थापितवंतः ॥ त्वे । सुपां सुलुगिति सप्तम्याः शेआदेशः । नक्ता । तेनैव द्वितीयाया डादेशः । उषसा । तेनैव विभक्तेराकारः । धुः । दुधाञ् धारणपोषणयोः । लुङि गातिस्थेति सिचो लुक् । आत इति झेर्जुसादेशः । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः ॥
+
+*he agne sumatiṃ śobhanām anugrahātmikāṃ buddhiṃ bhikṣamāṇā yācamānā yajñiyāso yajñārhāḥ sarve devā divi dyotamāne tve tvayi śravo havirlakṣaṇam annaṃ dadhire | āsthāpayan | agnir devānām annāda iti śruteḥ | tadanantaraṃ te devās tvayā 'nugṛhītāḥ santo havir-yuktāyānuṣṭhānāya virūpe vividharūpe uṣasoṣaḥkālopalakṣitam ahar naktā ca naktaṃ rātriṃ ca cakruḥ | ākurvan | etad eva spaṣṭayati | kṛṣṇaṃ ca varṇaṃ rātryāṃ śyāmalavarṇam andhakāram ahany aruṇam ārocanaṃ śvetavarṇaṃ tejaś ca saṃ dhuḥ | samyak sthāpitavantaḥ || tve | supāṃ sulug iti saptamyāḥ śeādeśaḥ | naktā | tenaiva dvitīyāyā ḍādeśaḥ | uṣasā | tenaiva vibhakter ākāraḥ | dhuḥ | dudhāñ dhāraṇapoṣaṇayoḥ | luṅi gātistheti sico luk | āta iti jher jusādeśaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ ||*
+
+*(Reading note: the print is clear; "ahar naktā" etc. as printed; Taittirīya/śruti reference "agnir devānām annāda" is given without a number.)*
+
+*Meaning:* O Agni, all the gods, worthy of sacrifice (*yajñiyāsaḥ*), begging (*bhikṣamāṇāḥ*) your good (*su*) favour (*matim*), placed (*dadhire*) in you, the shining one (*divi*), food (*śravaḥ*) in the form of oblations: "Agni is the eater of food of the gods," says the śruti. Then the gods, favoured by you, for performing the rites joined with oblations, made the two differing (*virūpe*) times — the day, marked by the dawn (*uṣasā*), and the night (*naktā*); and he makes this clear: they set (*saṃ dhuḥ*) the dark colour (*kṛṣṇaṃ varṇam*) in the night — the blackish darkness — and, in the day, the ruddy (*aruṇam*) brightness, the white light.
+
+**Grammatical tail** *(characterized, not transcribed)*: *tve* (locative ending replaced by *śe*); *naktā*, *uṣasā* (the case-endings replaced by *ā*/*ḍā* by *supāṃ sulug…*); *dhuḥ* (root *dudhāñ*; *luṅ*; loss of *sic* by *gātisthāghupābhūbhyaḥ…*; *jhi* → *jus* by *ātaḥ* [*jher jus*]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*agne* — O Agni; *sumatim* — (your) beneficent mind; *bhikṣamāṇāḥ* — asking; *yajñiyāsaḥ* — (the gods) worthy of sacrifice; *divi* — in the shining; *tve* — in you; *śravaḥ* — the food in the form of oblations; *dadhire* — they placed (for the performance of the oblation-rites); *virūpe* — of different colours; *uṣasā* — together with the dawn (the day); *naktā ca* — and the night; *cakruḥ* — they made; *kṛṣṇaṃ ca varṇam* — the dark darkness; *aruṇaṃ ca* — and the white light; *saṃ dhuḥ* — they placed well.
+
+---
+
+**Progress note:** Printed pp. 1–411 done (PDF 19–429): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 73.1–73.6 complete (73.6's grammar page on pp. 409–410); **Rik 73.7** (printed "7 ||") — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha done (pp. 410–411). Next: p. 412 (PDF 430), the Bhāvārtha, English, Special Topics and grammar page of 73.7; then Riks 73.8–73.10 and the closing line of Sūkta 73. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammar page of 73.6 (p. 409) compressed and doubtful in places [?].
