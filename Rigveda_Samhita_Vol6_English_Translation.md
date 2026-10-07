@@ -13291,4 +13291,90 @@ mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–583 done (PDF 19–601): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.5 complete** (grammar of 80.5 on pp. 580–581); **Rik 80.6** — Saṃhitā, Pada, bhāṣya (p. 582), Pratipadārtha, Bhāvārtha, English and Special Topics (p. 583) done; the grammar page of 80.6 not yet seen. Next: p. 584 (PDF 602). Ten Ṛks (80.7–80.16) remain after 80.6. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) read with doubt.
+### Page 584 (PDF 602)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.6, concluding (continued from p. 583):*
+
+"Skandasvāmin, accepting for the word *vṛtra* the sense 'cloud', explains: Indra, satisfied by drinking Soma, strikes the cloud that is in the raised region with the thunderbolt of a hundred edges, desiring that the waters, in the form of rain, should fall to the earth as friends (*sakhi*) — this is the sense he gives."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.6)** *(grammar page, noted briefly)*
+
+- **शतपर्वणा** — a *bahuvrīhi*; by "bahuvrīhau prakṛtyā pūrvapadam" (Pā. Sū. 6-2-1) the accent of the first member remains; third-case singular.
+- **मन्दानः** — the root *madi stutau*; by "idito num dhātoḥ" (इदितो नुम् धातोः, Pā. Sū. 7-1-58) the augment *num*; after it, in the passive, in the sense of *laṭ*, *śānac*; this following, by "sārvadhātuke yak" (सार्वधातुके यक्, Pā. Sū. 3-1-67) *yak* in its own sense; since by "chandasy ubhayathā" *śānac* has also the *ārdhadhātuka* designation, "ato lopaḥ" drops the *a*; by "yasya halaḥ" (यस्य हलः, Pā. Sū. 6-4-49) the *ya* is dropped; the form *mandāna*. Since *śānac* follows an anudātta-*it* root (it is *lasārvadhātuka*), by "tāsyanudāttenṅid…" (Pā. Sū. 6-1-186) it is anudātta, so the *yak* gets udātta; since the *yak* followed by the anudātta is elided, by "anudāttasya ca yatrodāttalopaḥ" (Pā. Sū. 6-1-161) the udātta would come on *śānac*; since, however, as said above *śānac* has the *ārdhadhātuka* designation, the *lasārvadhātuka*-anudātta accent is blocked, and so the final-udātta that comes by "citaḥ" (चितः, Pā. Sū. 6-1-163) alone remains.
+- **इच्छति** — the root *iṣu icchāyām* (इषु इच्छायाम्); *laṭ*, third person singular, *tip*; *śa* by "tudādibhyaḥ śaḥ"; by "iṣugamiyamāṃ chaḥ" (इषुगमियमां छः, Pā. Sū. 7-3-77) the root takes the final *ccha*; nighāta accent since *atiṅanta* in the pāda. ||6||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+### Page 585 (PDF 603)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.7**
+
+> इन्द्र तुभ्यमिदद्रिवोऽनुत्तं वज्रिन्वीर्यम् ।
+> यद्ध त्यं मायिनं मृगं तमु त्वं माययावधीरर्चन्ननु स्वराज्यम् ॥ ७ ॥
+
+*indra tubhyam id adrivo 'nuttaṃ vajrin vīryam |
+yad dha tyaṃ māyinaṃ mṛgaṃ tam u tvaṃ māyayā vadhīr arcann anu svarājyam ||7||*
+
+*(the printed Saṃhitā joins* māyayā *and* avadhīḥ *as* māyayāvadhīḥ*; the Pada divides* māyayā | avadhīḥ*.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इन्द्र । तुभ्यम् । इत् । अद्रिऽवः । अनुत्तम् । वज्रिन् । वीर्यम् ।
+> यत् । ह । त्यम् । मायिनम् । मृगम् । तम् । ऊं इति । त्वम् । मायया ।
+> अवधीः । अर्चन् । अनु । स्वऽराज्यम् ॥ ७ ॥
+
+*indra | tubhyam | it | adri-vaḥ | anuttam | vajrin | vīryam | yat | ha | tyam | māyinam | mṛgam | tam | ūṃ iti | tvam | māyayā | avadhīḥ | arcan | anu | sva-rājyam ||7||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.7** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> अद्रिरिति मेघनाम । हे अद्रिवो वाहनरूपमेघयुक्त वज्रिन् वज्रवन्निन्द्र तुभ्यमित् । षष्ठ्यर्थे चतुर्थी । तवैव वीर्यं सामर्थ्यमनुत्तं शत्रुभिरतिरस्कृतम् । यद्ध यस्मात् खलु मायिनं मायावन्तं त्यं तं प्रसिद्धं वञ्चयितारं लोकोपद्रवकारिणमित्यर्थः । मृगं मृगरूपमापन्नं तं वृत्रं त्वमपि मायययैवावधीः । हतवानसि ॥ अनुत्तम् । नसत्तनिषत्तेति निपातनान्निष्ठानत्वाभावः । अवधीः । हन्तेर्लुङि च । वधादेशः । स चादन्तः । तस्यातो लोपे सति स्थानिवद्भावात्सिचि वृद्ध्यभावः ॥
+
+*adrir iti meghanāma | he adrivo vāhanarūpameghayukta vajrin vajravann indra tubhyam it | ṣaṣṭhyarthe caturthī | tavaiva vīryaṃ sāmarthyam anuttaṃ śatrubhir atiraskṛtam | yad dha yasmāt khalu māyinaṃ māyāvantaṃ tyaṃ taṃ prasiddhaṃ vañcayitāraṃ lokopadravakāriṇam ity arthaḥ | mṛgaṃ mṛgarūpam āpannaṃ taṃ vṛtraṃ tvam api māyayaivāvadhīḥ | hatavān asi || anuttam | nasattaniṣatteti nipātanān niṣṭhānatvābhāvaḥ | avadhīḥ | hanter luṅi ca | vadhādeśaḥ | sa cādantaḥ | tasyāto lope sati sthānivadbhāvāt sici vṛddhyabhāvaḥ ||*
+
+*Sense:* "*Adri* is a name of the cloud. O *adrivaḥ* — O you who have the cloud as your vehicle — O *vajrin*, O Indra: for you indeed (*tubhyam it*, the fourth case in the sense of the sixth) — your very *vīrya* (prowess) is *anuttam* — unrepelled by enemies. Because (*yad dha*) that well-known (*tyam*) deceitful (*māyinam*), cheating one, a creator of trouble to the world, who had taken the form of a deer (*mṛgam*) — that Vṛtra — you, too, struck down by guile alone." *The grammatical tail:* *anuttam* — by the *nipātana* "nasattaniṣatta…" the *niṣṭhā* does not take *natva* [the form is irregular]; *avadhīḥ* — in the *luṅ* of *han*, "vadha" is substituted, which ends in *a*; when its *a* is dropped, because of the *sthānivadbhāva* there is no vṛddhi before *sic*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.7** *(Kannada)*
+
+- **अद्रिवः** — "O you who have the cloud as your vehicle"
+- **वज्रिन्** — "O wielder of the thunderbolt"
+- **इन्द्र** — "O Indra"
+- **तुभ्यमित्** — "yours alone"
+- **वीर्यम्** — "power"
+- **अनुत्तम्** — "(by enemies) not to be repelled"
+- **यत्** — "because"
+- **मायिनम्** — "the deceitful one"
+- **त्यम्** — "that well-known"
+- **मृगम्** — "in the form of a deer"
+- **तम्** — "that Vṛtra"
+- **त्वम्** — "you also"
+- **मायया** — "by guile itself"
+- **स्वराज्यम् अनु अर्चन्** — "displaying your own lordship"
+- **अवधीः ह** — "have you indeed killed."
+
+### Page 586 (PDF 604)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.7** *(Kannada)*
+
+"O Indra, who have the cloud as your vehicle and wield the thunderbolt, your power is unobstructed; for you, displaying your own lordship, killed Vṛtra, the deceitful one, in the form of a deer, by guile alone."
+
+**English Translation** *(printed in English in the source)*
+
+"Cloud-borne, Indra, wielder of the thunder-bolt, verily your prowess is undisputed, since you with (superior) craft, have slain that deceptive deer (Vritra) manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.7)**
+
+- **अद्रिवः** — *adrir iti meghanāma* — "the word *adri* is read among the thirty names of cloud beginning *adriḥ, grāvā* (Ni. [1-10] [?]); it means 'cloud'. Because Indra has the cloud as his vehicle he is well known as 'cloud-borne'. Skandasvāmin: *adrayaḥ* — *somābhiṣavagrāvāṇaḥ*: 'stones for pressing Soma, the stones that crush the Soma juice'."
+- **अनुत्तम्** — "The word *anuttam* is a *nipātita* word. *Nipāta* means that, because the separate analysis into stem and affix is not clearly seen, the words are simply read as such. It is also said to be an indeclinable. They explain that for the word *anuttam* the meaning is 'power not subject to being repelled', that is, the power Indra possesses. In this sense the word is an epithet of the word *vīryam*."
+- **मायिनं मृगं मायया वधीः** — "Sāyaṇa explains that Indra destroys by guile itself Vṛtra, who is in the form of a deer (*mṛga*), a cheat who creates trouble (*hiṃsā*) for the world. Skandasvāmin explains: the cloud named *mṛga*, which is to be sought for the sake of sending down the asura or the rain, since no one else was able to strike it, you strike it by guile and thus set a limit to the (threat to the) protection of your sovereignty (*svarājyarakṣaṇa*), the empire.
+
+The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises *tantra* (stratagem), or battles by deceit and the like', that is, cheats. It is described in many places in the Ṛgveda that Indra destroyed such enemies by stratagem, means, deceit and the like —" *(the Ṛks follow on p. 587)*
+
+---
+
+**Progress note:** Printed pp. 1–586 done (PDF 19–604): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.6 complete** (grammar of 80.6 on p. 584); **Rik 80.7** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 585), Bhāvārtha, English and the first part of the Special Topics (p. 586) done; the Special Topics of 80.7 break off at the foot of p. 586 (mid-sentence: "…described in many places in the Ṛgveda…") and continue on p. 587 (PDF 605), then its grammar page. Next: p. 587 (PDF 605). Nine Ṛks (80.8–80.16) remain after 80.7. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) read with doubt.
