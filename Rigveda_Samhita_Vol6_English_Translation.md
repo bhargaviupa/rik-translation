@@ -9257,4 +9257,94 @@ O Agni Aṅgiras, son of strength! All people say that the sacrificer (spoken of
 
 ---
 
-**Progress note:** Printed pp. 1–441 done (PDF 19–459): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.4 complete (74.4: Special Topics p. 439, grammar page p. 440); **Rik 74.5** (printed "5 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (p. 441). Next: p. 442 (PDF 460), the source's English, Special Topics and grammar page of 74.5; then Riks 74.6–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the tail of the bhāṣya of 74.5 compressed [?].
+### Page 442 (PDF 460)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**English Translation of Rik 74.5** *(the source's own, as printed):*
+
+> Him, Angiras, son of strength, men call fortunate in his sacrifice, his diety [sic], his oblations.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **तमित्** — *tam eva yajamānam* — "here the word *it* has the sense of *eva* ('just'): *tam it* — that very sacrificer."
+- **अङ्गिरः** — "Here the word *aṅgiraḥ* is used to address Agni. In the Ṛgveda there are many contexts in which Agni is addressed, and the word *aṅgiraḥ* is used. For example:
+
+  > यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि । तवेत्तत्सत्यमङ्गिरः ॥
+  > *yad aṅga dāśuṣe tvam agne bhadraṃ kariṣyasi | tavet tat satyam aṅgiraḥ* (Ṛk. Saṃ. [1-1-6])
+
+  > त्वमग्ने प्रथमो अङ्गिरा ऋषिर्देवो देवानामभवः शिवः सखा ।
+  > *tvam agne prathamo aṅgirā ṛṣir devo devānām abhavaḥ śivaḥ sakhā* (Ṛk. Saṃ. [1-31-1])
+
+  > मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्ववच्छुचे ।
+  > *manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvavac chuce* (Ṛk. Saṃ. [1-31-17])
+
+  > उत ब्रह्माण्यङ्गिरो जुषस्व सं ते शस्तिर्देववाता जरेत ।
+  > *uta brahmāṇy aṅgiro juṣasva saṃ te śastir devavātā jareta* (Ṛk. Saṃ. [4-3-15?])
+
+  > अस्माकं जोष्यध्वरमस्माकं यज्ञमङ्गिरः ।
+  > *asmākaṃ joṣy adhvaram asmākaṃ yajñam aṅgiraḥ* (Ṛk. Saṃ. [4-8-2?])
+
+  > स नो जुषस्व समिधानो अङ्गिरो देवो मर्तस्य यशसा सुदीतिभिः ।
+  > *sa no juṣasva samidhāno aṅgiro devo martasya yaśasā sudītibhiḥ* (Ṛk. Saṃ. [5-8-4?])
+
+  > त्वं नो अग्ने अङ्गिरः स्तुतः स्तवान आ भर ।
+  > *tvaṃ no agne aṅgiraḥ stutaḥ stavāna ā bhara* (Ṛk. Saṃ. [5-10-2?])
+
+  > स जायसे मथ्यमानः सहो महत्त्वामाहुः सहसस्पुत्रमङ्गिरः ।
+  > *sa jāyase mathyamānaḥ saho mahat tvām āhuḥ sahasas putram aṅgiraḥ* (Ṛk. Saṃ. [5-11-6?])" *(Glosses mine and tentative: "whatever good you will do, Agni, to the giver — that is true of you, Aṅgiras"; "you, Agni, were first the Aṅgirasa sage, the god, the kindly friend of the gods"; "like Manu, Agni, like the Aṅgirases, Aṅgiras, like Yayāti, in the seat, bright as of old"; "and accept, Aṅgiras, our prayers; may your praise, borne by the gods, grow old"; "accept our rite, our sacrifice, Aṅgiras"; "kindled, Aṅgiras, accept us, god, with glory and bright flames to the mortal"; "you, praised by us, Aṅgiras, praising, bring [wealth]"; "when churned you are born, great strength; they call you the son of strength, Aṅgiras". All eight Ṛgveda citations and their numerals are read from small print and are doubtful [?]; the source leaves them untranslated.)* *(continued on p. 443)*
+
+---
+
+### Page 443 (PDF 461)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Special Topics of Rik 74.5 (continued)**
+
+- **अङ्गिरः** (concluded) — "…in many such Ṛks Agni is addressed with the word *aṅgiraḥ*. Why was this name given to Agni? What relation is there between Agni and the sage Aṅgiras? — these and other matters are explained at length in the Ṛk Saṃhitā volume 2, pp. 640–641 [as read]."
+- **सुहव्यं, सुदेवं** — "These words are adjectives of the word *tam*, which denotes the sacrificer. The meaning of the words is: 'one who keeps ready the excellent oblations to offer to the gods, and who has resolved to worship the good deity'."
+- **सहसो यहो** — "*sahaḥ* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. [2-9?]); so *sahaḥ* means 'strength'. Since *yahuḥ* is read among the fifteen names of offspring, *tuk*, *tokam* and so on, *yahu* means 'son' (Ni. [3-2?]). *Sahaso yaho* means 'son of strength' — Agni is addressed as 'son of strength', i.e. the son born (from the *araṇi*) by the application of strength, by rubbing with strength. In some places Indra is praised with these words. Besides the words *sahaso yahuḥ*, the usage of words with the same sense, *sahasaḥ sūnuḥ* and *sahasaspūtra*, also occurs in many Ṛks. For instance, a few Ṛks:
+
+  > अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ।
+  > *agniṃ hotāraṃ manye dāsvantaṃ vasuṃ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam* (Ṛk. Saṃ. [1-127-1])
+
+  > दृळ्हग्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥
+  > *dṛḷhagnaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ* (Ṛk. Saṃ. [3-?-?])
+
+  > अग्निं सूनुं सनश्रुतं सहसो जातवेदसम् ।
+  > *agniṃ sūnuṃ sanaśrutaṃ sahaso jātavedasam* (Ṛk. Saṃ. [3-11-?])
+
+  > विद्युद्रथः सहसस्पुत्रो अग्निः शोचिष्केशः पृथिव्यां पाजो अश्रेत् ।
+  > *vidyudrathaḥ sahasas putro agniḥ śociṣkeśaḥ pṛthivyāṃ pājo aśret* (Ṛk. Saṃ. [3-14-1])
+
+  > अग्ने द्युम्नेन जागृवे सहसः सूनवाहुत ।
+  > *agne dyumnena jāgṛve sahasaḥ sūnav āhuta* (Ṛk. Saṃ. [3-?-?])
+
+  > अस्माकमग्ने अध्वरं जुषस्व सहसः सूनो त्रिषधस्थ हव्यम् ।
+  > *asmākam agne adhvaraṃ juṣasva sahasaḥ sūno tri-ṣadhastha havyam* (Ṛk. Saṃ. [3-?-?])" *(continued on p. 444; glosses mine and tentative: "I think of Agni the priest, the bountiful, the good, the son of strength, the *jātavedas*"; "of firm [?], with ghee-offering, ancient priest, choice, the wonderful son of strength"; "Agni the son, the ancient-famed, of strength, the *jātavedas*"; "Agni of the lightning chariot, son of strength, with flame-hair, filled the earth with might"; "O Agni, awake with splendour, O son of strength, offered to"; "accept our sacrifice, Agni, O son of strength, the oblation of the three seats". All six citations are read from small print and are doubtful, numerals [?].)*
+
+---
+
+### Page 444 (PDF 462)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 74".)*
+
+**Special Topics of Rik 74.5 (concluded)**
+
+> हुवे वः सूनुं सहसो युवानमद्रोघवाचं मतिभिर्यविष्ठम् ।
+> *huve vaḥ sūnuṃ sahaso yuvānam adroghavācaṃ matibhir yaviṣṭham* (Ṛk. Saṃ. [6-?-?])
+
+"In these and many other Ṛks the words *sahasaḥ sūnuḥ* and *sahasaspūtra* are used with reference to Agni." *(Gloss mine and tentative: "I call upon the young son of strength, truthful of speech, the youngest, with thoughts".)*
+
+- **जना आहुः सुबर्हिषम्** — "Here the commentator explains *barhiḥ* as 'sacrifice'. The sentence *janā āhuḥ subarhiṣam* means 'people call the sacrificer the best performer of sacrifice': the purport is that this is well known."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 74.5, noted briefly; not transcribed)*
+
+Words treated: *suhavyam* (*śobhanaṃ havyaṃ yasya saḥ*; a bahuvrīhi; the same for *sudevam* and *subarhiṣam*; in all three places by *nañsubhyām*, Pā. [6-2-172], the final acute of the second member). *aṅgiraḥ* (vocative singular; by *āmantritasya ca*, Pā. [8-1-19], nighāta). *sahaso yaho* (*yaho* is a vocative; since *sahasaḥ* before it ends in the sixth case, by *subāmantrite parāṅgavat svare*, Pā. [2-1-2], it is treated as part of the following; hence, for the whole group, nighāta by *āmantritasya ca*). *āhuḥ* (root *brūñ vyaktāyāṃ vāci*; *laṭ*, third person plural; with *jhi*… following, by *bruvaḥ pañcānām ādita āho bruvaḥ*, Pā. [3-4-84], *jus* [*us*] for *jhi*; *āh* for the root; *pararūpa* by *usya padāntāt*; nighāta because it follows an *atijanta*). Ends "॥ ५ ॥".
+
+*(The rest of p. 444 is blank apart from a printed ornament; Rik 74.6 begins on p. 445.)*
+
+---
+
+**Progress note:** Printed pp. 1–444 done (PDF 19–462): Sūktas 62–73 complete. **Sūkta 74** (nine Ṛks; Agni; Gotama Rāhūgaṇa; Gāyatrī): Riks 74.1–74.5 complete (74.5: English, Special Topics and grammar page on pp. 442–444). Next: p. 445 (PDF 463), **Rik 74.6**; then Riks 74.7–74.9 and the closing line of Sūkta 74. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the many Ṛgveda citations on pp. 442–444 (Sanskrit and numerals read from small print) doubtful, glosses mine and tentative; the Ṛk-Saṃhitā "volume 2, pp. 640–641" cross-reference on p. 443 is as read [?].
