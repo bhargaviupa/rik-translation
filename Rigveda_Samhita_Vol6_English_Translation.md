@@ -5007,4 +5007,62 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–251 done (PDF 19–269): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1, 69.2 complete; **Rik 69.3** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the grammar page begun (p. 251, ending after *tārīt*). Next: p. 252 (PDF 270), the grammar page of Rik 69.3 concludes; then Riks 69.4, 69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; "ājo yat" in the *āhūryaḥ* grammar (p. 249) [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 252 (PDF 270)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Grammar page for Rik 69.3, concluded (noted briefly).** **अह्वे**: root *hveñ spardhāyāṃ śabde ca*; the Vedic *laṅ* [print: *laṅ*, in the present sense]; in the first person singular the *iṭ* affix; by "bahulaṃ chandasi" the *luk* of *śap*; by "ādeca upadeśe 'śiti" *ā* for the root's final; *guṇa*; since *yat* precedes, no *nighāta*; the augment is acute, so the word has the initial acute. **देवत्वा**: in the neuter accusative plural, the substituted *śi* is lost by "śeś chandasi bahulam". **अश्याः**: root *aśū vyāptau*; by "vyatyayo bahulam" *parasmaipada* in the *liṅ*, and the *sip* of the second person; by "bahulaṃ chandasi" the *luk* of the vikaraṇa [*śnu*]; by "yāsuṭ parasmaipadeṣūdāttō ṅic ca" the augment *yāsuṭ* for *liṅ*; the loss of the *i* of *sip* by "itaś ca"; the *s* → *ru*/*visarga*; the form *aśyāḥ*; the *nighāta* accent of a verb. **॥ ५–६ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 69.3 ends here (ornamental rule).*
+
+#### Rik 69.4 *(printed "7 || 8 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **नकिष्ट एता व्रता मिनन्ति नृभ्यो यदेभ्यः श्रुष्टिं चकर्थ ।**
+> **तत्तु ते दंसो यदहन्त्समानैर्नृभिर्यद्युक्तो विवे रपांसि ॥ ७ ॥ ८ ॥**
+> *nakiṣ ṭa etā vratā minanti nṛbhyo yad ebhyaḥ śruṣṭiṃ cakartha |*
+> *tat tu te daṃso yad ahan samānair nṛbhir yad yukto vive rapāṃsi || 7 || 8 ||*
+
+---
+
+### Page 253 (PDF 271)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **नकिः । ते । एता । व्रता । मिनन्ति । नृऽभ्यः । यत् । एभ्यः । श्रुष्टिम् । चकर्थ ।**
+> **तत् । तु । ते । दंसः । यत् । अहन् । समानैः । नृऽभिः । यत् । युक्तः । विवेः । रपांसि ॥ ७ ॥ ८ ॥**
+> *nakiḥ | te | etā | vratā | minanti | nṛ-bhyaḥ | yat | ebhyaḥ | śruṣṭim | cakartha |*
+> *tat | tu | te | daṃsaḥ | yat | ahan | samānaiḥ | nṛ-bhiḥ | yat | yuktaḥ | viveḥ | rapāṃsi || 7 || 8 ||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **हे अग्ने ते तव सम्बन्धीन्येता व्रता एतानि परिदृश्यमानानि दर्शपूर्णमासादीनि कर्माणि नकिर्मिनन्ति । राक्षसादयो बाधका न हिंसन्ति । यद्यस्मात्त्वमेभ्यः कर्मसु वर्तमानेभ्यो नृभ्यो यज्ञस्य नेतृभ्यो यजमानेभ्यः श्रुष्टिं । शु आश्वश्नुते व्याप्नोतीति श्रुष्टिर्यज्ञफलरूपं सुखं । तच्चकर्थ कृतवानसि । सति हि तव व्रतानां बाधक एतन्नोपपद्यते । अतोऽवगम्यते तव व्रतानां हिंसका न सन्तीति । हे अग्ने ते त्वदीयं तत्तु दंसस्तदेव कर्म यद्यदि राक्षसादीनहन् हन्ति नाशयति कदानीं समानैः सप्तगणरूपेण सदृशैर्नृभिर्मरुद्भिर्नेतृभिर्युक्तस्त्वं रपांसि बाधकानि राक्षसादीनि यद्यस्मात्त्वं विवेः गमयसि पलायनं प्रापयसि । तस्मात्तव व्रतानि न हिंसन्तीति योज्यम् ॥ मिनन्ति । मीञ् हिंसायां । क्र्यादिकः । स्वादीनां ह्रस्वे इति ह्रस्वत्वं । विवेः । छन्दसि लुङ्लङ्लिट इति वर्तमाने लङ् । वी गत्यादिषु । सिप्यादित्वाच्छपो लुकि प्राप्ते बहुलं छन्दसीति शपः श्लुः ॥**
+> *he agne te tava sambandhīny etā vratā etāni paridṛśyamānāni darśapūrṇamāsādīni karmāṇi nakir minanti | rākṣasādayo bādhakā na hiṃsanti | yad yasmāt tvam ebhyaḥ karmasu vartamānebhyo nṛbhyo yajñasya netṛbhyo yajamānebhyaḥ śruṣṭiṃ | śu āśv aśnute vyāpnotīti śruṣṭir yajñaphalarūpaṃ sukhaṃ | tac cakartha kṛtavān asi | sati hi tava vratānāṃ bādhaka etan nopapadyate | ato 'vagamyate tava vratānāṃ hiṃsakā na santīti | he agne te tvadīyaṃ tat tu daṃsas tad eva karma yad yadi rākṣasādīn ahan hanti nāśayati kadānīṃ samānaiḥ saptagaṇarūpeṇa sadṛśair nṛbhir marudbhir netṛbhir yuktas tvaṃ rapāṃsi bādhakāni rākṣasādīni yad yasmāt tvaṃ viveḥ gamayasi palāyanaṃ prāpayasi | tasmāt tava vratāni na hiṃsantīti yojyam || minanti | mīñ hiṃsāyāṃ | kryādikaḥ | svādīnāṃ hrasve iti hrasvatvaṃ | viveḥ | chandasi luṅlaṅliṭa iti vartamāne laṅ | vī gatyādiṣu | sipy ādittvāc chapo luki prāpte bahulaṃ chandasīti śapaḥ śluḥ ||*
+> *"O Agni, **te etā vratā**, these rites of yours, the Darśapūrṇamāsa and the rest that are seen, **nakir minanti** — the demons and other obstructors do not harm. Since you have made **śruṣṭim** — *śruṣṭi* is happiness in the form of the fruit of the sacrifice, 'that which quickly (*śu*) pervades (*aśnute*)' — **cakartha**, for **ebhyaḥ nṛbhyaḥ**, these men engaged in rites, the sacrificers, the leaders of the sacrifice. If there were an obstructor of your rites, this would not be possible; hence it is understood that there are no harmers of your rites. O Agni, **tat tu te daṃsaḥ** — that indeed is your deed, **yad ahan**, that you slay the demons and the rest; when, **samānaiḥ nṛbhiḥ**, joined with the Maruts, equal [to you], leaders in the form of seven troops, you **viveḥ**, drive off, put to flight, **rapāṃsi**, the obstructive demons and the like. Therefore, your rites are not harmed: thus it is to be construed. **Minanti**: root *mīñ hiṃsāyām*, of the *kryādi* class; shortening by 'svādīnāṃ hrasve'. **Viveḥ**: the *laṅ* in the present sense by 'chandasi luṅlaṅliṭaḥ'; root *vī gatyādiṣu*; since it begins with an *a*-augment [?], where the *luk* of *śap* would arise before *sip*, the *śluḥ* in place of *śap* by 'bahulaṃ chandasi'."* *(Grammar tail short.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada; begins, continues on p. 254)*
+
+**अग्ने** — O Agni; **ते** — your; **तत् दंसः** — that deed; **यत् अहन्** — when [you] slay demons and the like; **समानैः** — equal to you; **नृभिः** — with leaders (the Maruts); **युक्तः** — joined; **रपांसि** — the obstructing demons; **यत्** — because; **विवेः** — you drive away; **यत्** — because; **एभ्यः** — to these (men engaged in rites); *(continues on p. 254)*…
+
+---
+
+### Page 254 (PDF 272)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 69" as read.)*
+
+**Pratipadārtha (concluded).** … **नृभ्यः** — to the sacrificers; **श्रुष्टिम्** — the happiness in the form of the fruit of the sacrifice; **चकर्थ** — you make (because [you give]); **ते** — directed to you; **एता व्रता** — these rites (Darśapūrṇamāsa etc.); **नकिः मिनन्ति** — the demons and the like do not obstruct.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* If men, for you, begin sacrifices and the like and are obstructed by demons and others, you at once come, joined with the Maruts equal to you, and drive them away. And since you give quickly the happiness in the form of the fruit to those devoted to the sacrifice, it is clear that your sacrifices have no obstruction from demons and the like.
+
+**English Translation** *(the source's own, as printed):*
+
+> Never may (the Rakshasas) interrupt the rites performed for you, since you confer on the sacrificers happiness (as a reward) ; for should (such spirits) disturb your sacrifice, then assisted by leaders (Maruts), equally (competent) like yourself, you put the intruders to flight.
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **नृभ्यः श्रुष्टिं चकर्थ** — *yajñasya netṛbhyo yajamānebhyaḥ śu āśu aśnute vyāpnotīti śruṣṭir yajñaphalarūpasukhaṃ tat kṛtavān asi | tat nakir minanti — rākṣasādayo bādhakā na hiṃsanti* — "the word *nakiḥ* (Ni. [3-?]) is a negative particle. *Nakir, nakiḥ* — the two words *na* and *kam*, together with the *kim* [and the like], denote all the meanings of the verb [?] [compressed print]. The word *śruṣṭi* (Ni. 6-13, as read) means happiness, 'quick'; it is also read in the sense of grain-heaps. Since Agni, to the sacrificers who perform the sacrifice, grants carefully the happiness in the form of the experience of the fruit of the sacrifice, the demons and the like who obstruct the rites performed by the sacrificers are themselves restrained by him: this is understood plainly from the effect. The sacrificers' enjoyment of the fruit of the sacrifice arises from the sacrifice performed without obstruction. Thus the removal of the obstructors of the sacrifice — the demons and the like — takes place through Agni; the purport is that the sacrifice and the protection of the sacrificers are through Agni alone."
+
+---
+
+**Progress note:** Printed pp. 1–254 done (PDF 19–272): Sūktas 62–68 complete. **Sūkta 69** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 69.1–69.3 complete; **Rik 69.4** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and the Special Topics done (pp. 252–254); its grammar page not yet seen. Next: p. 255 (PDF 273), the grammar page of Rik 69.4 (if printed there), then Rik 69.5, the closing line, and **Sūkta 70** (the user asked for two sūktas this run: 69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–69 [?]; the compressed *nakiḥ* remark on p. 254 [?]; accent marks of the Saṃhitā/Pada not reproduced.
