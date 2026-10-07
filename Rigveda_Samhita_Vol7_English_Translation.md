@@ -354,10 +354,102 @@ yukṣvā madacyutā harī kaṃ hanaḥ kaṃ vasau dadho 'smāṁ indra vasau 
 - **हनः** (continued) — "…since the initial letter has been dropped, the *tiṅ* that has been uttered first is not made anudātta, so that here by 'hanaś ca dadhakṣa…' (the word *hanaḥ* meaning 'you kill; you should kill', and the sense of *ca* being understood) the nighāta is considered barred, as the omission of *ca* (is to be understood). By this the anudātta accent does not arise."
 - **वसौ** — the seventh-case singular; the word *vasu* is neuter in common use; by "vyatyayo bahulam" (Pā. Sū. 3-1-85) there is a change of gender and the like in the Veda, so here it takes a masculine form.
 
-*(The rest of the grammar page for 81.3 — the entries for* dadhaḥ *and the page's closing "||3||" — is on the next printed page, or has been merged with the above; as printed the page ends here. The "||3||" mark of the grammar was already seen at the foot of p. 10's bhāṣya.)*
-
-*Note for the reader:* the print of this page ends at the entry on *vasau*; the entry for *dadhaḥ* is not given on the grammar page. Grammar page, noted briefly; sūtra numerals tentative [?].
+*(The grammar of 81.3 is completed on the head of p. 13 with the entry for* dadhaḥ*.)*
 
 ---
 
-**Progress note:** Printed pp. 1–12 done (PDF 16–27) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.3 complete** (the Gotama–Kuru–Sṛñjaya legend on pp. 10–11; grammar of 81.3 on pp. 11–12, whose final entries I have only partly read). Next: printed p. 13 (PDF 28) — Rik 81.4. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the grammar page of 81.3 compressed.
+### Page 13 (PDF 28)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 81.3, concluded (grammar page, noted briefly):*
+
+- **दधः** — the root *dadha dhāraṇe*, *bhvādi*, *ātmanepadī*; the form is the second person singular of the *leṭ*. In the *ātmanepada* the form would have to be *dadhasva*; but, as said before, by "vyatyayo bahulam" a *parasmaipada* ending has come here instead of the *ātmanepada*; the stem-marker *śap* arrives; the *s* of *sip* becomes *ru* and visarga. ||3||
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 81.4**
+
+> क्रत्वा महाँ अनुष्वधं भीम आ वावृधे शवः ।
+> श्रिय ऋष्व उपाकयोर्नि शिप्री हरिवान्दधे हस्तयोर्वज्रमायसम् ॥ ४ ॥
+
+*kratvā mahāṁ anuṣvadhaṃ bhīma ā vāvṛdhe śavaḥ |
+śriya ṛṣva upākayor ni śiprī harivān dadhe hastayor vajram āyasam ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> क्रत्वा । महान् । अनु । स्वधम् । भीमः । आ । वावृधे । शवः ।
+> श्रिये । ऋष्वः । उपाकयोः । नि । शिप्री । हरिऽवान् । दधे ।
+> हस्तयोः । वज्रम् । आयसम् ॥ ४ ॥
+
+*kratvā | mahān | anu | svadham | bhīmaḥ | ā | vāvṛdhe | śavaḥ | śriye | ṛṣvaḥ | upākayoḥ | ni | śiprī | hari-vān | dadhe | hastayoḥ | vajram | āyasam ||4||*
+
+*(Pada note: the printed Pada reads* anu | svadham*; the Saṃhitā joins them as* anuṣvadham*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.4** *(Sanskrit in Kannada script; the page is clear at 150 dpi up to its last line)*
+
+> क्रत्वा कर्मणा प्रज्ञया वा महान् सर्वाधिको भीमः शत्रूणां भयंकर इन्द्रोऽनुष्वधम् । स्वधेत्यन्ननाम । स्वधायां । विभक्त्यर्थेऽव्ययीभावः । सोमलक्षणस्यान्नस्य पाने सतीत्यर्थः । शवः आत्मीयं बलमा वावृधे । आभिमुख्येन प्रावर्धयत् । तदनन्तरमृष्वो दर्शनीयः शिप्री । शिप्रे हनू नासिके वा । तद्युक्तः हरिवान् हरिनामकाश्वोपेत इन्द्र उपाकयोः । अन्तिकनामैतत् । समीपवर्तिनोः [हस्तयोर्बाह्वोः?]
+
+*kratvā karmaṇā prajñayā vā mahān sarvādhiko bhīmaḥ śatrūṇāṃ bhayaṃkara indro 'nuṣvadham | svadhety annanāma | svadhāyāṃ | vibhaktyarthe 'vyayībhāvaḥ | somalakṣaṇasyānnasya pāne satīty arthaḥ | śavaḥ ātmīyaṃ balam ā vāvṛdhe | ābhimukhyena prāvardhayat | tadanantaram ṛṣvo darśanīyaḥ śiprī | śipre hanū nāsike vā | tadyuktaḥ harivān harināmakāśvopeta indra upākayoḥ | antikanāmaitat | samīpavartinoḥ [hastayor bāhvoḥ?]*
+
+*(The bhāṣya runs on to p. 14; the final bracketed word at the page foot is my reconstruction and is uncertain [?].)*
+
+### Page 14 (PDF 29)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 81".)*
+
+*Bhāṣya of Rik 81.4, concluded:*
+
+> हस्तयोर्बाह्वोरायसमयोमयं वज्रं श्रिये संपदर्थं नि दधे । निदधाति । स्थापयति । सोमपानेन हृष्टः प्रबल इन्द्रः शत्रूणां हननाय हस्ते वज्रं गृह्णातीति तात्पर्यार्थः ॥ क्रत्वा । जसादिषु छन्दसि वावचनमिति नाभावस्य विकल्पितत्वादभावः । आयसम् । तस्य विकार इत्यण्प्रत्ययः ॥ ४ ॥
+
+*hastayor bāhvor āyasamayaṃ vajraṃ śriye saṃpadarthaṃ ni dadhe | nidadhāti | sthāpayati | somapānena hṛṣṭaḥ prabala indraḥ śatrūṇāṃ hananāya haste vajraṃ gṛhṇātīti tātparyārthaḥ || kratvā | jasādiṣu chandasi vāvacanam iti nābhāvasya vikalpitatvād abhāvaḥ | āyasam | tasya vikāra ity aṇpratyayaḥ || 4 ||*
+
+*Sense (whole bhāṣya):* "Indra, great (*mahān*) — superior to all — by his *kratu* (act, or wisdom), formidable (*bhīmaḥ*) to enemies, while drinking (*anuṣvadham* — *svadhā* is a name of food; the indeclinable compound has the sense of the seventh case: 'when there is drinking of the food in the form of Soma') — increased (*ā vāvṛdhe*) his own strength (*śavaḥ*) face to face. Thereafter, *ṛṣvaḥ* — fair to look upon; *śiprī* — having a (fine) *śipra* (jaws, or nostrils); *harivān* — endowed with the horses named *hari*: Indra, in his two hands (*upākayoḥ* — a name for 'near': the two near, i.e. the arms), *hastayoḥ*, holds fast (*ni dadhe*) the iron (*āyasa*) thunderbolt, for *śriye* — for prosperity. The sum: Indra, gladdened by drinking Soma, strong, takes the thunderbolt in his hand to slay the enemies." *Grammatical tail:* *kratvā* — since "jasādiṣu chandasi vāvacanam" makes the *nā*-substitution optional, it does not apply; *āyasam* — the affix *aṇ* by "tasya vikāraḥ".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 81.4** *(Kannada)*
+
+- **क्रत्वा** — "by the act, or by wisdom"
+- **महान्** — "the best"
+- **भीमः** — "the one formidable to enemies — Indra"
+- **अनुष्वधम्** — "after taking food (in the form of Soma)"
+- **शवः** — "his strength"
+- **आ वावृधे** — "increased fully"
+- **ऋष्वः** — "of pleasing form"
+- **शिप्री** — "he who has a handsome chin or nose"
+- **हरिवान्** — "the Indra who has horses named Hari"
+- **उपाकयोः** — "(his) at his sides"
+- **हस्तयोः** — "in the hands"
+- **आयसम्** — "made of iron"
+- **वज्रम्** — "the thunderbolt"
+- **श्रिये** — "(for our) prosperity"
+- **नि दधे** — "has taken up."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 81.4** *(Kannada)*
+
+"Indra, best by the sacrificial act and fearful to his enemies, has greatly increased his strength by partaking of the food in the form of Soma. Of pleasing form, of handsome chin, and driving the horses named Hari, Indra has taken in his hands, at his sides, the thunderbolt made of iron, to give us prosperity."
+
+**English Translation** *(printed in English in the source)*
+
+"Sacrifices make Indra mighty ; he is formidable to the enemies ; partaking of the sacrificial food, Indra has increased his strength ; he has a handsome chin and is pleasing in appearance. He possesses two good horses ; he grasps the iron thunderbolt in his hands for our prosperity." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 81.4)**
+
+- **क्रत्वा** — *karmaṇā* — "among the twenty-six names of action beginning *apaḥ, apnaḥ* the word *kratu* is read (Ni. [2-1] [?]); *kratvā* therefore means 'by action', by the acts such as sacrifices; they say that the power of the gods increases through the oblations offered in the sacrificial acts that men perform."
+
+### Page 15 (PDF 30)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā". This page is printed darker and less clear than its neighbours; passages below are read with extra care and flagged where doubtful.)*
+
+*Special Topics of Rik 81.4, continued:*
+
+- **अनुष्वधम्** — "*svadhā* is food (Ni. [2-7] [?]); '*anuṣvadham* = *annam annam*', as Yāska's statement runs (Ni. [?-?] [?]). Here food means the food in the form of the oblation. By taking this food Indra's strength grows."
+- **ऋष्वः** — *darśanīyaḥ* — "of beautiful appearance."
+- **उपाकयोः** — "*upāka* means 'near' (Ni. [?-?] [?]). Though the word *upākayoḥ* is an adjective of the word *hastayoḥ*, this word, together with the word *vajram āyasam*, is rightly connected with the sense 'he took in his hand, at his side (near him), the thunderbolt-weapon' of the whole sentence; or one might say that *upākayoḥ* means 'at the two sides', and *hastayoḥ* 'in the two hands' — the sense 'in the two arms'."
+- **आयसम्** — "made of iron, or of the metal *ukku* (steel); the sense 'made of iron'. That Tvaṣṭṛ made Indra's thunderbolt of iron is clear from the Ṛk *mahyaṃ tvaṣṭā vajram atakṣad āyasam* (Ṛk. Saṃ. 10-[48]-[3] [?])."
+- **श्रिये वज्रं नि दधे** — "'(for our) prosperity he held the thunderbolt' means: Indra, taking the thunderbolt in his hand, destroys our enemies and makes the wealth they have available to us — this is the intent."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.4)** *(grammar page, noted briefly)*
+
+- **क्रत्वा** — the third-case ending follows the word *kratu*; since *kratu* is a *ghi*-designated word, by "ājo nāstriyām" (Pā. Sū. 7-3-120) the *nā* substitute would come for the third-case ending; but by the *vārttika* "jasādiṣu chandasi vā vacanam" the substitutes for *jas* and the rest are optional in the Veda, so it does not apply here. Or one may say, relying on the *yogavibhāga* (splitting of a sūtra) in "ṣaṣṭhīyuktaś chandasi vā" (Pā. Sū. 1-4-9), that the optionality is stated: the *yogavibhāga* means to take one sūtra, according to the context, as two parts, in order to obtain the needed result, and to adopt a different sense; by dividing "chandasi vā" thus the sense becomes that all operations are optional in the Veda. Similarly, in the sūtra "bahulaṃ chandasi" (Pā. Sū. 2-4-39 [?]) they also state optionality. By taking the *yogavibhāga* the *ghi*-designation too is optional in the Veda, so *nā* does not occur here. When the case-ending is left as it is, the *y-v* [*yaṇ*] *sandhi* arises *(the page's remaining entries are on p. 16)*. *(This grammar paragraph is the least clear part of the page; sūtra numerals tentative [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–15 done (PDF 16–30) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūkta 81** (nine Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; printed pp. 1–32): Riks **81.1–81.3 complete**; **Rik 81.4** — Saṃhitā, Pada, bhāṣya (pp. 13–14), Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 14–15) done; its grammar page is begun on p. 15 (*kratvā*) and continues on p. 16 (PDF 31). Next: printed p. 16 (PDF 31). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; the one-word reconstruction at the foot of p. 13 (bhāṣya of 81.4); p. 15 (dark print).
