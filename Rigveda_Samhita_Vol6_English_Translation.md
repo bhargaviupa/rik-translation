@@ -5964,4 +5964,65 @@ After the Aṅgirases, in the sacrificial hall, had established Agni and perform
 
 ---
 
-**Progress note:** Printed pp. 1–295 done (PDF 19–313): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.2 complete; **Rik 71.3** — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English and the Special Topics (pp. 292–295) done; its grammar page has not yet been seen (p. 296 expected). Next: p. 296 (PDF 314). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.4–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's grammatical tail of 71.3 very compressed and doubtful; the Ṛgveda citations on p. 294 and their glosses tentative [?].
+### Page 296 (PDF 314)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.3 (concluded from p. 295):** two Ṛks are quoted to show that Agni is the cause of the growth of all beings:
+
+> अग्निना रयिमश्नवत्पोषमेव दिवेदिवे । यशसं वीरवत्तमम् ॥
+> *agninā rayim aśnavat poṣam eva dive-dive | yaśasaṃ vīravattamam ||* (Ṛk. Saṃ. 1-1-3, as read)
+
+> अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥
+> *agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi | sa id deveṣu gacchati ||* (Ṛk. Saṃ. 1-1-4, as read)
+
+*(Both are standard Ṛgveda verses; the source quotes them untranslated. My glosses, tentative: "through Agni one may obtain wealth, growth day by day, glorious, with the most heroes"; "O Agni, the sacrifice, the unharmed rite, that you encompass on every side — that alone goes to the gods".)* "…and in hundreds of such contexts Agni is the cause of the growth of all beings, men and the rest; it is through sacrifice that the gods are satisfied, through sacrifice that men's wealth comes, and Agni is the soul of that sacrifice; therefore he is the cause of the continuance and prospering of all; hence the sacrificers tend Agni — such is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.3, noted briefly; not transcribed)*
+
+Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*, third person plural, *jhi* by *vyatyayo bahulam*; *antādeśa*; loss; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta since at the head of a pāda; the root accent remains since *śap* and the *ārdhadhātuka*-like *laṅ* are anudātta); *dhanayan* (from the noun *dhana*, *ṇic* in the sense "he does that" by the vārttika *tat karoti tad ācaṣṭe*; by *iṣṭhavat prātipadikasya* the operations of *iṣṭha* are extended; here *ṭi*-loss; the *ṇijanta* *dhani* is a root by *sanādyantā dhātavaḥ*, and after it *laṅ* behaves as with *dadhan*; no *aḍ*; the accent on the middle by *ṇic*'s accent); *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. [3-1-103], by nipāta in the sense "master"; here the feminine and plural are required by the context, and the gender-change is by *vyatyaya*, the masculine singular having come; *āryaḥ svāmyākhyā cet*, Phiṭ. [1-?], final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish"; *ko* affix by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, Uṇ. [1-93?]; final acute by the affix accent; before *jas*, *yaṇ* in place of the udātta and *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4], gives svarita). Continued on p. 297. *Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+### Page 297 (PDF 315)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 71.3 (concluded; noted briefly):** *vibhṛtrāḥ* (root *hṛñ* "to carry" with the prefix *vi*, *tra*/*ṭrā*-affix, *kratra*-type affix; with the prefix *vi* as the first member the accent …; loss of the *k* by *laśakvataddhite*; no guṇa since *kit*; *bha* for *ha* by *hṛgrahor bhaś chandasi*; the accusative plural form); *atṛṣyantīḥ* (root *ito ṭṛṣā pipāsāyām*, with *śatṛ* — *śyan*-vikaraṇa; feminine *ṅīp* by *ugitaś ca*; *na tṛṣyantī* = *atṛṣyantī*; before *jas* the lengthening of the earlier similar vowel is optional by *vā chandasi*, hence here made; accent of the indeclinable-first compound by *tatpuruṣe tulyārtha…*, Pā. [6-2-2]); *apasaḥ* (*apas* is a noun in *s* meaning "work"; the possessive affix *vini* by *asmāyāmedhā sraji vini* [?], Pā. [5-2-121]; loss of *vini* by the power of the statement *bahulagrahaṇa*; because *vini*-final words have no fixed gender and are possible in three genders, the bare *nap* neuter acute is ruled; final acute by the stem's accent); *yanti* (root *iṇ* "to go", Adādi; *jhi* → *anta*; *yaṇ* for the *i* of the root by *iko yaṇ aci*, since an affix beginning with a vowel follows; nighāta because it follows an *atijanta*); *janma* (*jāyante*, "those born", men; root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*, Pā. [3-2-75]; the form *janman*; in the accusative plural *śas*, loss of *śas* by *supāṃ sulug…*; loss of *n* by *nalopaḥ prātipadikāntasya*). Ends "॥ ३ ॥". *Grammar page, noted briefly.*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.4** *(printed Ṛk "4 ||")*
+
+> मथीद्यदीं विभृतो मातरिश्वा गृहेगृहे श्येतो जेन्यो भूत् ।
+> आदीं राज्ञे न सहीयसे सचा सन्ना दूत्यं भृगवाणो विवाय ॥ ४ ॥
+
+*mathīd yadīṃ vibhṛto mātariśvā gṛhe-gṛhe śyeto jenyo bhūt |
+ād īṃ rājñe na sahīyase sacā sannā dūtyaṃ bhṛgavāṇo vivāya ||4||*
+
+*(Reading note: the Saṃhitā prints "सचा सन्ना दूत्यं" — *sacā sann ā dūtyam* — as the Pada below divides it; accents not reproduced.)*
+
+---
+
+### Page 298 (PDF 316)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> मथीत् । यत् । ईम् । विऽभृतः । मातरिश्वा । गृहेऽगृहे । श्येतः । जेन्यः । भूत् ।
+> आत् । ईम् । राज्ञे । न । सहीयसे । सचा । सन् । आ । दूत्यम् । भृगवाणः । विवाय ॥ ४ ॥
+
+*mathīt | yat | īm | vi-bhṛtaḥ | mātariśvā | gṛhe-gṛhe | śyetaḥ | jenyaḥ | bhūt | āt | īm | rājñe | na | sahīyase | sacā | san | ā | dūtyam | bhṛgavāṇaḥ | vivāya ||4||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.4** *(a long, compressed passage; read from the print, doubtful places marked [?]; the page ends mid-sentence)*
+
+> मातरिश्वा व्यानवृत्तिरूपेणावस्थितो मुख्यप्राण ईमेनमग्निं यद्यदा मथीत् अमथ्नात् । अग्निर्मंथनस्य व्यानसाध्यत्वात् । अथ यः प्राणापानयोः संधिः स व्यान इत्युपक्रम्य छंदोगैरामनातं । अतो यान्यन्यानि वीर्यवंति कर्माणि यथाग्नेर्मंथनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोति । छां. उ. [१-३-५?] इति मंत्रांतरं च भवति । अस्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । ऋ. सं. [१-९३-६?] इति । कीदृशो मातरिश्वा । विभृतः प्राणिषु प्राणापानादिपंचवृत्तिरूपेण विहृतो विभज्य स्थितः । तदपि प्राणसंवादे तैरेवाम्नातं । तान् अरिष्टः प्राण उवाच । मा मोहमापद्यथाहमेवैतत् पंचधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति । मंथनेन श्येतः शुभ्रवर्णो भूत्वा गृहे गृहे सर्वस्मिन् यज्ञगृहे यदा जेन्यः प्रादुर्भूतो भूत् । यद्वा रक्षसां जेन्यो जेता अभिभविता भूत् । तथा च तैत्तिरीयकं । देवासुराः संयत्ता आसन् । ते देवा बिभ्यतोऽग्निं प्राविशन् । तस्मादाहुरग्निः सर्वा देवता इति । ते ऽग्निमेव वरूथं कृत्वासुरानभ्यभवन् । तै. सं. [६-२-३-६?] इति । ऐतरेयिणोऽप्यामनंति । ते देवाः प्रतिबुध्याग्निं पुरस्तात्प्रातःसवने पर्यौहंस्तेऽग्निनैव पुरस्तात्प्रातःसवनेऽसुररक्षांस्यपाघ्नत । ऐ. ब्रा. [६-४?] इति । आत् यज्ञगृहे प्रादुर्भावानंतरमीमेनमग्निं भृगवाणः भृगुर्ऋषिः स इवाचरन् यजमानो दूत्यं दूतस्य कर्म विवाय । शास्त्रमर्यादया प्रापयामास । तत्र दृष्टांतः । सचा सन् । सखाभवन्नन्यो राजा सहीयसेऽभिभवित्रे …
+
+*mātariśvā vyānavṛttirūpeṇāvasthito mukhyaprāṇa īm enam agniṃ yad yadā mathīt amathnāt | agnir manthanasya vyānasādhyatvāt | atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyāna ity upakramya chandogair āmnātaṃ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti | chāṃ. u. [1-3-5?] iti maṃtrāntaraṃ ca bhavati | asyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ | ṛ. saṃ. [1-93-6?] iti | kīdṛśo mātariśvā | vibhṛtaḥ prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ | tad api prāṇasaṃvāde tair evāmnātaṃ | tān ariṣṭaḥ prāṇa uvāca | mā moham āpadyathāham evaitat pañcadhātmānaṃ pravibhajyaitad bāṇam avaṣṭabhya vidhārayāmīti | manthanena śyetaḥ śubhravarṇo bhūtvā gṛhe gṛhe sarvasmin yajñagṛhe yadā jenyaḥ prādurbhūto bhūt | yadvā rakṣasāṃ jenyo jetā abhibhavitā bhūt | tathā ca taittirīyakaṃ | devāsurāḥ saṃyattā āsan | te devā bibhyato 'gniṃ prāviśan | tasmād āhur agniḥ sarvā devatā iti | te 'gnim eva varūthaṃ kṛtvāsurān abhyabhavan | tai. saṃ. [6-2-3-6?] iti | aitareyiṇo 'py āmananti | te devāḥ pratibudhyāgniṃ purastāt prātaḥsavane paryauhaṃs te 'gninaiva purastāt prātaḥsavane 'surarakṣāṃsy apāghnata | ai. brā. [6-4?] iti | āt yajñagṛhe prādurbhāvānantaram īm enam agniṃ bhṛgavāṇaḥ bhṛgur ṛṣiḥ sa ivācaran yajamāno dūtyaṃ dūtasya karma vivāya | śāstramaryādayā prāpayāmāsa | tatra dṛṣṭāntaḥ | sacā san | sakhābhavann anyo rājā sahīyase 'bhibhavitre …*
+
+*(Reading note: this passage is dense and the print is small; the Chāndogya, Ṛgveda, Taittirīya-Saṃhitā and Aitareya numerals are read doubtfully [?]; the Chāndogya quotation is compressed and a few of its syllables ("saraṇam", "āyamanam", "aprāṇann anapānan") are doubtful. The sentence on "sacā san" runs on to p. 299.)*
+
+*Meaning (so far):* Mātariśvan — the chief breath (*mukhyaprāṇa*), abiding in the form of the *vyāna* function — *yad īm mathīt* when he churned this Agni: for Agni is produced by churning, which is achieved by *vyāna*. The Chāndogya (Upaniṣad) begins: "Now that which is the junction of *prāṇa* and *apāna* is *vyāna*", and goes on: "therefore the other deeds that need strength — the churning of fire, running a race, bending a stiff bow — he does without breathing in or out." And another mantra says, "Mātariśvan fetched him from heaven; the falcon churned another from the rock" (Ṛk. Saṃ. [1-93-6?]). How is Mātariśvan *vibhṛtaḥ*? Variously borne — divided in living beings as the five functions *prāṇa*, *apāna* and the rest. The same is related in the Prāṇa-dialogue: "Prāṇa, unharmed, spoke to them: 'Do not fall into delusion; I alone, dividing myself in five, support this body by holding it up.'" (Agni, by the churning, becoming *śyeta* — of bright colour — in house after house — in every house of sacrifice — when he became *jenya*, "to be conquered" or rather "victorious", appeared. Or he became the conqueror, the overcomer, of the demons. So the Taittirīya says: "The gods and the *asuras* were arrayed in battle. The gods, afraid, entered Agni; therefore they say 'Agni is all the deities'. Making Agni their shelter, they overcame the *asuras*" (Tai. Saṃ. [6-2-3-6?]); and the Aitareya adherents also recite: "The gods, awakening, led Agni in front at the morning pressing; by Agni alone they struck down the *asuras* and *rakṣas* at the morning pressing" (Ai. Brā. [6-4?]). Then, after he appeared in the house of sacrifice, the sacrificer, acting like the sage Bhṛgu (*bhṛgavāṇaḥ*), *vivāya* — carried out — the office of messenger (*dūtya*) of this Agni, by the rule of the scripture. The illustration: "*sacā san*" — a king who has become a friend … *(continued on p. 299)*.
+
+---
+
+**Progress note:** Printed pp. 1–298 done (PDF 19–316): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.3 complete (71.3's grammar page on pp. 296–297); **Rik 71.4** (printed "4 ||") — Saṃhitā and Pada (pp. 297–298) and the first part of the Sāyaṇa-bhāṣya (p. 298) done; the bhāṣya breaks off at "…sakhābhavann anyo rājā sahīyase 'bhibhavitre …" at the foot of p. 298. Next: p. 299 (PDF 317), the rest of the bhāṣya of 71.4 and its tail. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.4–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Chāndogya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 71.4 on p. 298 dense and doubtful in places [?]; the Ṛgveda citations on p. 296 given as read, glosses mine and tentative.
