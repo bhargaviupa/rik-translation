@@ -10302,4 +10302,80 @@ Words treated: *dhakṣi* (root *daha bhasmīkaraṇe*; *loṭ*, second person s
 
 ---
 
-**Progress note:** Printed pp. 1–479 done (PDF 19–497): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.3 complete (76.3: pp. 476–479). Next: p. 480 (PDF 498), **Rik 76.4**; then Rik 76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 76.3 (p. 477) with printed oddities "tadīyoś", "cakṛmaṃ" doubtful [?].
+### Page 480 (PDF 498)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.4** *(printed Ṛk "4 ||")*
+
+> प्रजावता वचसा वह्निरासा च हुवे नि च सत्सीह देवैः ।
+> वेषि होत्रमुत पोत्रं यजत्र बोधि प्रयन्तर्जनितर्वसूनाम् ॥ ४ ॥
+
+*prajāvatā vacasā vahnir āsā ca huve ni ca satsīha devaiḥ |
+veṣi hotram uta potraṃ yajatra bodhi prayantar janitar vasūnām ||4||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> प्रजाऽवता । वचसा । वह्निः । आसा । आ । च । हुवे । नि । च । सत्सि । इह । देवैः ।
+> वेषि । होत्रम् । उत । पोत्रम् । यजत्र । बोधि । प्रऽयन्तः । जनितः । वसूनाम् ॥ ४ ॥
+
+*prajā-vatā | vacasā | vahniḥ | āsā | ā | ca | huve | ni | ca | satsi | iha | devaiḥ | veṣi | hotram | uta | potram | yajatra | bodhi | pra-yantaḥ | janitaḥ | vasūnām ||4||*
+
+*(Reading note: the Pada prints "प्रयन्तः" and "जनितः" for the Saṃhitā's "प्रयन्तर्जनितर्" (visarga-sandhi); "सत्सि" for "सत्सि + इह" as printed; accents not reproduced.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.4** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> प्रजावता यजमानेभ्यो दातव्यापत्यादिफलोपेतेन वचसा स्तोत्रेण स्तुतः सन् यो ऽग्निरांगिरसास्यस्थानीयो ज्वालयो वह्निर्वेनेभ्यो हविषां वोढा तमग्निमा च हुवे । आह्वयामि । आहूतः सन् श्वमिहास्मिन्कर्मणि देवैरन्यैः सह नि सत्सि च । निषीद च । निषद्य च हे यजत्र यजनीयाग्ने होत्रं होत्रा क्रियमाणं कर्म उतापि च पोत्रं पोत्रा कृतं कर्म च वेषि । कामयस्व । वसूनां धनानां प्रयंतः प्रकर्षेण नियंता वसूनस्मदायत्तानि कुर्वन् जनितराहुतिद्वारा सर्वस्य जनयितरग्ने बोधि । अस्मान्बोधय ॥ आसा । पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः । सुपां सुलुगिति तृतीयाया डादेशः । टिलोप उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । हुवे । ह्वेञ्ज्ञो लट् । बहुलं छंदसीति संप्रसारणं । बहुलं छंदसीति शपो लुक् । चवायोगे प्रथमेति निघातप्रतिषेधः । बोधि । बुध अवगमने । अस्माण्ण्यंताच्छंदस्युभयथेति हेरार्धधातुकत्वाण्णेरनिटीति णिलोपः । हुरुघ्न्योर्हेर्धिः । धातोरंत्यलोपश्छांदसः । हेरपित्त्वात्तस्यैव स्वरः शिष्यते ॥
+
+*prajāvatā yajamānebhyo dātavyāpatyādiphalopetena vacasā stotreṇa stutaḥ san yo 'gnir āṅgirasāsyasthānīyo jvālayo vahnir vanebhyo haviṣāṃ voḍhā tam agnim ā ca huve | āhvayāmi | āhūtaḥ san [tvam] ihāsmin karmaṇi devair anyaiḥ saha ni satsi ca | niṣīda ca | niṣadya ca he yajatra yajanīyāgne hotraṃ hotrā kriyamāṇaṃ karma utāpi ca potraṃ potrā kṛtaṃ karma ca veṣi | kāmayasva | vasūnāṃ dhanānāṃ prayantaḥ prakarṣeṇa niyantā vasūn asmadāyattāni kurvan janitar āhutidvārā sarvasya janayitar agne bodhi | asmān bodhaya || āsā | paddann ity ādinā āsyaśabdasyāsannādeśaḥ | supāṃ sulug iti tṛtīyāyā ḍādeśaḥ | ṭilopa udāttanivṛttisvareṇa vibhakter udāttatvaṃ | huve | hveñ jño laṭ(?) | bahulaṃ chandasīti saṃprasāraṇam | bahulaṃ chandasīti śapo luk | cavāyoge prathameti nighātapratiṣedhaḥ | bodhi | budha avagamane | asmāṇ ṇyantāc chandasy ubhayatheti herārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | huruhnyor her dhiḥ | dhātor antyalopaś chāndasaḥ | herapittvāt tasyaiva svaraḥ śiṣyate ||*
+
+*(Reading note: the print is clear but small; "āṅgirasāsyasthānīyo", "śvam" [for *tvam*], "hveñ jño laṭ" and the tail's last two sentences ("huruhnyor her dhiḥ…") are compressed and doubtful [?].)*
+
+*Meaning:* I call (*huve*) that Agni, the carrier (*vahniḥ*) of oblations from the woods, who, praised with a hymn (*vacasā*) possessing offspring (*prajāvatā*) — containing the fruits, such as offspring, which are to be given to the sacrificers — with the flames in the position of the mouth (*āsā*). Being called, sit (*satsi*) here in this rite with the other gods; and seated, O worshipful (*yajatra*) Agni, desire (*veṣi*) the office of *hotṛ* (*hotram*), the rite performed by the *hotṛ*, and the office of *potṛ* (*potram*), the rite done by the *potṛ*. As the controller (*prayantaḥ*) of riches (*vasūnām*) — making the treasures dependent upon us — and the generator (*janitaḥ*) of all through the offering, O Agni, awaken (*bodhi*) us.
+
+**Grammatical tail** *(characterized)*: *āsā* (*āsan* for *āsya* by *pāddannomāsṛnniśasyadan…*; *ḍā* for the instrumental ending by *supāṃ sulug…*); *huve* (root *hveñ*, with samprasāraṇa; loss of *śap* by *bahulaṃ chandasi*; no nighāta since *ca* is connected); *bodhi* (root *budha avagamane*, causative sense; loss of *ṇi*; *dhi* for *hi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*prajāvatā* — giving offspring to the sacrificer; *vacasā* — by praise; *āsā* — by the flames at the mouth; *vahniḥ* — the carrier of oblations to the gods (Agni); *ā ca huve* — I call; *iha* — in this rite (the sacrifice that is going on); *devaiḥ* — together with the other gods; *ni satsi ca* — sit down; *yajatra* — O Agni, worthy of worship in the sacrifice; *hotram* — the work of the *hotṛ*; *uta* — and; *potram* — the work of the *potṛ*; *veṣi* — desire (do); *vasūnām* — of wealth; *prayantaḥ* — the controller; *janitaḥ* — the producer (of all things), Agni; *bodhi* — make (us) vigilant.
+
+---
+
+### Page 481 (PDF 499)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 31".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 76.4** *(Kannada)*
+
+O Agni, the carrier of oblations to the gods through the flames! We call you to our sacrifice. Being called, come with the other gods and sit (comfortably). Being seated, do the works of the *hotṛ* and the *potṛ*. You, the support of wealth and the cause of its origin, make us (in our rites) vigilant.
+
+**English Translation** *(the source's own, as printed):*
+
+> I invoke (you); you are the conveyer [sic] (of oblations) with your flames, with a hymn productive of progeny (to the worshipper); sit down here with the Gods, and deserving of worship, discharge the office of Hotri, or of Potri, and awaken us; you are the depositary and generator of riches.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **प्रजावता वचसा** — *yajamānebhyo dātavyāpatyādiphalopetena stotreṇa stutaḥ* — "praised with a hymn that has the quality of bestowing on the sacrificers the fruit of offspring and the like —" *(continued on p. 482)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.4, begun at the foot of p. 482 — see below; nothing of it on p. 481)*
+
+---
+
+### Page 482 (PDF 500)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
+
+**Special Topics of Rik 76.4 (continued)**
+
+- **प्रजावता वचसा** (continued) — "…of one who has the qualities of gracing with offspring and the like the sacrificers who perform the sacrifice: Sāyaṇa takes these words as an adjective of the word *agni*, 'Agni is praised with a hymn of such kind'. And by the word *āsā* he explains, 'by the flames in the position of the mouth', meaning that, since Agni carries to the gods the oblation-portions which the sacrificers offer to the other gods, he is *vahni*. Skandasvāmin: *vahniḥ* is you, the carrier of the oblation-portions which the sacrificers offer for the gods and who are strong; *prajāvatā āsā vacasā* — 'with the word that has the greatest qualities, which grants fruit in the form of offspring; which has become one's own utterance; with words that invoke the other gods' — he explains that Agni invokes Indra and the rest by words that call the gods."
+- **होत्रम्** — *hotrā kriyamāṇaṃ karma* — "in the sacrifice, the one who calls the gods who have come to receive the oblation-portions, speaking the hymns of each, is called *hotṛ*. The work done by him is called *hotra*; that is, the invoking of the gods, the *hotṛ*'s duty."
+- **पोत्रम्** — *potrā kṛtaṃ karma* — "like the *hotṛ*, the *potṛ* also has his duty to perform; the work done by him is called *potra*. In Skandasvāmin's commentary: 'O Agni, perform the works of the *hotṛ* and *potṛ*; since you are one who performs the sacrifice, and since you are denoted by the word *yajatra*, you are worthy of sacrifice; therefore, knowing the intention of our praises, give us wealth abundantly by various means' — thus he explains."
+- **जनितः** — *āhutidvārā sarvasya janayituḥ* — "the root *janī prādurbhāve* has the meaning 'arising'; since it is used here in the causative sense, the meaning is that Agni, accepting the oblation-portions in the sacrifices, makes those of various kinds that have arisen to arise."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.4, noted briefly; not transcribed)*
+
+Words treated: *prajāvatā* ("he has offspring"; *matup* by *tad asyāstyasmin*, Pā. [5-2-94]; since a vowel [*a*] precedes, the *m* of *matup* becomes *v* by *mādupadhāyāś ca matorvo 'yavādibhyaḥ*, Pā. [8-2-9]; instrumental singular). *vacasā* (root *vaca paribhāṣaṇe*; the Uṇādi *asun*; the stem *vacas*; initial acute by *ñnityādir nityam*; instrumental singular). *(Continued on p. 483.)*
+
+---
+
+**Progress note:** Printed pp. 1–482 done (PDF 19–500): Sūktas 62–75 complete. **Sūkta 76** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 76.1–76.3 complete; **Rik 76.4** (printed "4 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics and the beginning of the grammar page (up to *vacasā*) done (pp. 480–482). Next: p. 483 (PDF 501), the rest of the grammar page of 76.4; then Rik 76.5 and the closing line of Sūkta 76. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 76.4 (p. 480) with its compressed tail doubtful [?].
