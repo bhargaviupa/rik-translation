@@ -6505,4 +6505,65 @@ agniḥ śardham anavadyaṃ yuvānaṃ svādhyaṃ janayat sūdayac ca ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–319 done (PDF 19–337): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.7 complete (71.7: Special Topics and grammar page on pp. 316–319); **Rik 71.8** (printed "8 ||") — Saṃhitā and Pada done (p. 319). Next: p. 320 (PDF 338), the Sāyaṇa-bhāṣya of Rik 71.8. Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.8–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the Ṛgveda citations and numerals on p. 317 (as read, glosses mine and tentative) doubtful [?].
+### Page 320 (PDF 338)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.8** *(Sanskrit in Kannada script; main sense transcribed, the grammatical tail characterized; doubtful places [?])*
+
+> अग्नेर्यत्तेजो नृपतिं नृणामृत्विजां पालकं यजमानमानट् जाठररूपेण आ समंताद्व्याप्नोत् । किमर्थम् । इषे अन्नाय । कीदृशं । शुचि शुद्धं द्यौर्दीप्तं । तेन तेजसा परिपक्वमन्नं रसरूपं रेतो वीर्यमभीकेऽभ्यक्ते [?]ऽभिगते ऽभिप्राप्ते गर्भस्थाने निषिक्तं नितरां सिक्तमग्निर्वक्ष्यमाणगुणविशिष्टं पुत्ररूपेण जनयत् । जनयतु । शर्धं बलवंतमनवद्यमवद्यरहितं युवानं तरुणं । जरारहितमित्यर्थः । स्वाध्यं शोभनकर्माणं शोभनप्रज्ञं वोत्पन्नं पुत्रं सूदयच्च । यागादिकर्मसु प्रेरयतु च । यद्वा । रेत इत्युदकनाम । निषिक्तं मेघेन वृष्ट्मुदकमिषेऽन्नाय सस्यादिनिष्पत्तये ऽग्नेर्यत्तेज आनट् व्याप्नोत् । वृष्ट्युदकेन भौमाग्नेः संयोगे सति हि सस्यान्युत्पद्यंते । कीदृशं तेजः । नृपतिं नृणां रक्षकं शुचि दीप्तं । तादृशेन तेजसा युक्तो द्यौर्दीप्तो ऽग्निरभीके आसन्नकाल एव शर्धादिगुणविशिष्टं पुत्रं जनयतु तं च प्रेरयतु यज्ञादौ ॥
+
+*agner yat tejo nṛpatiṃ nṛṇām ṛtvijāṃ pālakaṃ yajamānam ānaṭ jāṭhararūpeṇa ā samantād vyāpnot | kimartham | iṣe annāya | kīdṛśaṃ | śuci śuddhaṃ dyaur dīptaṃ | tena tejasā paripakvam annaṃ rasarūpaṃ reto vīryam abhīke [?] gabharbhasthāne niṣiktaṃ nitarāṃ siktam agnir vakṣyamāṇaguṇaviśiṣṭaṃ putrarūpeṇa janayat | janayatu | śardhaṃ balavantam anavadyam avadyarahitaṃ yuvānaṃ taruṇaṃ | jarārahitam ity arthaḥ | svādhyaṃ śobhanakarmāṇaṃ śobhanaprajñaṃ votpannaṃ putraṃ sūdayac ca | yāgādikarmasu prerayatu ca | yadvā | reta ity udakanāma | niṣiktaṃ meghena vṛṣṭam udakam iṣe 'nnāya sasyādiniṣpattaye 'gner yat teja ānaṭ vyāpnot | vṛṣṭyudakena bhaumāgneḥ saṃyoge sati hi sasyāny utpadyante | kīdṛśaṃ tejaḥ | nṛpatiṃ nṛṇāṃ rakṣakaṃ śuci dīptaṃ | tādṛśena tejasā yukto dyaur dīpto 'gnir abhīke āsannakāla eva śardhādiguṇaviśiṣṭaṃ putraṃ janayatu taṃ ca prerayatu yajñādau ||*
+
+*(Reading note: in the print the phrase "abhīke 'bhyakte 'bhigate…" is compressed and the words "abhyakte", "garbhasthāne" are doubtful [?]; "dyaur dīptam" is printed so — "dyauḥ" in the sense "shining". The bhāṣya's grammatical tail, which follows, is characterized only.)*
+
+*Meaning:* May the fire (*tejas*) of Agni, in the form of the digestive fire (*jāṭhara*), pervade (*ānaṭ*) on every side the sacrificer, protector (*nṛpati*) of men — the priests — for the sake of food (*iṣe*); of what kind? pure (*śuci*), shining (*dyauḥ*); by that fire the cooked food becomes the essence, the seed (*reto vīryam*), which, poured into the place of conception (*abhīke*), may Agni — endowed with the qualities to be told — beget (*janayat*) as a son: robust (*śardham*), faultless, young — free from age — of good works (*svādhyam*) or of good understanding; and may he urge (*sūdayat*) him on to the rites of sacrifice. Or: *retaḥ* is a name for water; the water poured down (*niṣiktam*) by the cloud for food — for the growth of crops — which the fire of Agni pervades: for when the rain-water meets the earthly fire the crops arise. Of what kind is that fire? Protector of men, pure, shining; with that fire may the shining Agni beget, in time near [*abhīke*], a son endowed with strength and the rest, and urge him to sacrifice.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *iṣe* (the dative of *iṣ*, "food"; acute on the ending by *sāvekācas tṛtīyādiḥ*); *nṛpatim* (*nṛṇāṃ pati*; initial acute of the second member by *parādiś chandasi bahulam*, Pā. [6-2-199?]); *ānaṭ* (root *aśū vyāptau*; *laṅ* [here the aorist-like past] with *vyatyaya* — parasmaipada; *aḍāgama*; *vṛścādi*-type *ṣatva* ["vṛścādiṣatve" as read, ?]); *niṣiktam* (root *ṣica kṣaraṇe*, *niṣṭhā* in the passive; first member keeps its accent as a *gati*; *ṣatva* by *upasargāt sunoti…*); *abhīke* (*abhi* + root *añc*, *pacādyac*, *abhīka* by *pṛṣodarādi*); *ubhayathāpi dāsībhārādi*… *svādhyam* (*su-āḍhya*, *yaṇ* by *ekācaḥ…*; *udāttasvaritayor yaṇaḥ svaritaḥ*); *janayat* (*ṇyanta*, *leṭ*, *aḍāgama*); *sūdayat* (root *sūda kṣaraṇe*, *leṭ*, with *aḍāgama* as before). *(Compressed and doubtful; sūtra numerals [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*(agneḥ* — of Agni); *śuci* — pure; *dyauḥ* — shining; *yat tejaḥ* — which fire; *nṛpatim* — the sacrificer, protector of the priests; *ānaṭ* — in the form of the digestive fire; *iṣe* — for the sake of food; *ā* — in all parts; *vyāpnot* — it pervades; *retaḥ* — (the essence-form potency of the food cooked by that fire); *abhīke* — in the place of conception; *niṣiktam* — poured; *agniḥ* — Agni; (as a son) *janayat* — let him beget; *śardham* — the strong; *anavadyam* — free of fault; *yuvānam* — young (free from age); *svādhyam* — endowed with good works (knowledge), (the begotten son); *sūdayat ca* — and let him stir (to sacrifice and so on).
+
+---
+
+### Page 321 (PDF 339)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 21".)*
+
+**Pratipadārtha (the second, alternative construction; printed in square brackets):** [*niṣiktam* — poured by the cloud; *retaḥ* — the rain-water; *iṣe* — for food; (*agneḥ*); *śuci* — pure; *dīptam* — kindling; *yat tejaḥ* — which fire; *ā ānaṭ* — pervades round about; (*saḥ* — he who is endowed with such fire); *dyauḥ* — the shining; *agniḥ* — Agni; *abhīke* — at a near time; *śardham* — the strong; *anavadyam* — the faultless; *yuvānam* — the youthful; *svādhyam* — endowed with good works (a son); *janayat* — let him cause to be born; *sūdayat ca* — and let him be urged to the rites of sacrifice and so on.]
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+May the fire of Agni, who is in the form of the digestive fire — pure, bright and shining — transform itself into seed in the sacrificer. Therefore may Agni be born as a son, strong, faultless, free from age and wise; and may he make that son one who is urged on to good works.
+
+**English Translation** *(the source's own, as printed):*
+
+> May that (digestive) faculty (of Agni) which regards food, be imparted to the devout and illustrious protector of priests, as the source of virile vigour; and may Agni be born as (his) robust, irreproachable, youthful, and intelligent son, and instigate him to acts of worship.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- "*Tiṣṭhatīva hi bhūtānāṃ jaṭhare jaṭhare jvalan*" (Bṛhaddevatā [1-63?]) — "As this description says: Agni, who is in the form of the digestive fire in the bellies of all beings, impelling the sacrificer to all good rites, may show him the fruits suited to those good rites. Also, may he make a son be born, who has excellent virility in his body, who is powerful and bound to works. This is one meaning; or, another meaning comes: Agni's fire, spreading over the earth and everywhere in the form of the rain-water that is the *retas*, makes crops grow, and thus is begged to cause a son to be born, endowed with the wealth that is the means of sacrifice and so on." *(The Bṛhaddevatā line is read as printed; the numeral doubtful [?].)*
+- **नृपतिम्** — *nṛṇām ṛtvijāṃ pālakaṃ yajamānam* — "the sacrificer who is the protector of the priests, the leaders of the sacrifice —" *(the page ends here; continued on p. 322).*
+
+---
+
+### Page 322 (PDF 340)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
+
+**Special Topics of Rik 71.8 (continued)**
+
+- **आनट्** — *ānaśati*, *nakṣati*, *aṣṭāṇaḥ*, *ānaṭ* (Ni. [2-20?]) and so on — "since it is read among the ten names of 'pervading/doing' [as read, ?], the meaning is 'pervading'."
+- **अभीके** — *abhīka ity āsannasya* | *abhīke abhyakte* — "near, or by *samīpa* 'close' or 'pervading': the Nirukta-writer notes that the word *abhīka* is used in these senses (Ni. [3-20?]), and quotes the Ṛk Saṃhitā *abhīke cid u lokakṛt* (Ṛk. Saṃ. [10-[?]-?]) [as read, ?]. Of the first two meanings, if taken with Agni who pervades the belly, it means 'in the bellies of all beings'; if the second, 'near the heaven'."
+- **शर्धम्** — "*ojaḥ*, *pājaḥ*, *śavaḥ* and so on — since it is read among the twenty-two names of strength, it is an epithet meaning 'strong': 'strong, powerful'."
+- **स्वाध्यम्** — *śobhanakarmāṇaṃ śobhanaprajñaṃ vā* — "one of excellent works or one of excellent understanding: a son who is ever beneficent and devoted to works, and, secondly, one who also is beneficent in giving us, through rain, the wealth of crops, and intent on works, with a mind to that."
+- **सूदयत्** — "The word *sūda* is used in many senses. Here the sense is 'urge, to urge to rites such as sacrifice'. Or *sūdayatir atra saṃskārārthaḥ* | *saṃskarotu ca* — 'here *sūdayat* is in the sense of making well-formed (*saṃskṛta*)', that is, 'may he make ripe'" — thus Skandasvāmin explains.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.8, noted briefly; not transcribed)*
+
+Words treated: *iṣe* (*iṣ* is a name of food; the fourth-case singular; the ending acute by *sāvekācas tṛtīyādiḥ*, Pā. [6-1-168]); *nṛpatim* (*nṛṇāṃ patiḥ nṛpatiḥ*, a *tatpuruṣa*; the second member's initial acute by *parādiś chandasi bahulam*, Pā. [6-2-199]); *ānaṭ* (root *aśū vyāptau*, Svādi, *anudātteṭ*; in *laṅ* by *vyatyayo bahulam* the parasmaipada affix and the *śnu* for *śnuvikaraṇa*, the *śnam* [vikaraṇa] by *vikaraṇa*; since *śnam* is *mit*, by the paribhāṣā *miḍ aco 'ntyāt paraḥ* it comes after the last vowel of the root; third person singular …). *(Continued on p. 323.) Grammar page, noted briefly; sūtra numerals [?].*
+
+---
+
+**Progress note:** Printed pp. 1–322 done (PDF 19–340): Sūktas 62–70 complete. **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup): Riks 71.1–71.7 complete; **Rik 71.8** (printed "8 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha (with the alternative construction), Bhāvārtha, the source's English and the Special Topics done (pp. 319–322); the grammar page is begun (p. 322) and breaks off in the treatment of *ānaṭ*. Next: p. 323 (PDF 341). Plan for the current "next 2 sūktas" request: finish Sūkta 71 (Riks 71.8–71.10) and do Sūkta 72. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Bṛhaddevatā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya of 71.8 (p. 320) dense and its tail very compressed [?].
