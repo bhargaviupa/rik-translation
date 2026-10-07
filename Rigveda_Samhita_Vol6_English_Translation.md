@@ -13633,4 +13633,93 @@ mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājy
 
 ---
 
-**Progress note:** Printed pp. 1–595 done (PDF 19–613): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.9 complete** (grammar of 80.9 on pp. 594–595); **Rik 80.10** — Saṃhitā (p. 595) done. Next: p. 596 (PDF 614) — Pada and bhāṣya of 80.10. Six Ṛks (80.11–80.16) remain after 80.10. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
+### Page 596 (PDF 614)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 80.10)**
+
+> इन्द्रः । वृत्रस्य । तविषीम् । निः । अहन् । सहसा । सहः ।
+> महत् । तत् । अस्य । पौंस्यम् । वृत्रम् । जघन्वान् । असृजत् ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ १० ॥
+
+*indraḥ | vṛtrasya | taviṣīm | niḥ | ahan | sahasā | sahaḥ | mahat | tat | asya | pauṃsyam | vṛtram | jaghanvān | asṛjat | arcan | anu | sva-rājyam ||10||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.10** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> इन्द्रो वृत्रस्यासुरस्य तविषीं बलं स्वकीयेन बलेन निरहन् । हतवान् । सहसा सहनेनाभिभवसाधनेनायुधेन सहोऽभिभवसाधनं वृत्रायुधं निरहन् । अस्येन्द्रस्य तत्पौंस्यं बलं महत् अतिप्रौढम् । यस्मादयं वृत्रं जघन्वान् हतवान् हत्वा च तन्निरुद्धा अपोऽसृजत् तस्माद्वृत्रान्निरगमयत् [?] । अन्यत्पूर्ववत् ॥ पौंस्यम् । पुंस अभिवर्धने । चुरादिः । अचो यदिति यत् । यतोऽनाव इत्याद्युदात्तत्वम् । जघन्वान् । हन्तेर्लिटः क्वसुः । विभाषा गमहनविदविशामिति इटो विकल्पादभावः । अभ्यासाच्चेत्यभ्यासादुत्तरस्य हन्तेर्हकारस्य घत्वम् ॥
+
+*indro vṛtrasyāsurasya taviṣīṃ balaṃ svakīyena balena nir ahan | hatavān | sahasā sahanenābhibhavasādhanenāyudhena saho 'bhibhavasādhanaṃ vṛtrāyudhaṃ nir ahan | asyendrasya tat pauṃsyaṃ balaṃ mahat atiprauḍham | yasmād ayaṃ vṛtraṃ jaghanvān hatavān hatvā ca tan niruddhā apo 'sṛjat tasmād vṛtrān niragamayat [?] | anyat pūrvavat || pauṃsyam | puṃsa abhivardhane | curādiḥ | aco yad iti yat | yato 'nāva ity ādyudāttatvam | jaghanvān | hanter liṭaḥ kvasuḥ | vibhāṣā gamahanavidaviśām iti iṭo vikalpād abhāvaḥ | abhyāsāc cety abhyāsād uttarasya hanter hakārasya ghatvam ||*
+
+*Sense:* "Indra slew (*nir ahan*) the *taviṣī*, the strength of the demon Vṛtra, by his own strength; with *sahas*, (that is) a weapon that is the means of overpowering, he struck down *sahas*, Vṛtra's weapon, which is the means of overpowering. That *pauṃsya*, that strength, of this Indra is great (*mahat*, very mature). Because he slew Vṛtra, and having slain him released the waters that had been held back, therefore (…) from Vṛtra." *The grammatical tail:* *pauṃsyam* — the root *puṃsa abhivardhane* of the *curādi* group; the affix *yat* by "aco yat"; the initial udātta by "yato 'nāvaḥ"; *jaghanvān* — *kvasu* after *liṭ* of *han*; since "vibhāṣā gamahanavidaviśām" makes the augment *iṭ* optional, it is absent; "abhyāsāc ca" turns the *h* of *han* after the reduplicative into *gh*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.10** *(Kannada)*
+
+- **इन्द्रः** — "Indra"
+- **वृत्रस्य** — "of the demon Vṛtra"
+- **तविषीम्** — "the strength"
+- **निः अहन्** — "destroyed (by his own strength)"
+- **सहसा** — "with the weapon, the means of overpowering (the enemies)"
+- **सहः** — "the weapon of Vṛtra, the means of overpowering (… destroyed)"
+- **स्वराज्यम्** — "his own lordship"
+- **अनु अर्चन्** — "displaying"
+- **(यस्मात्)** — "by which strength"
+- **वृत्रम्** — "the demon Vṛtra"
+- **जघन्वान्** — "he killed (and the water that he held back)"
+- **असृजत्** — "released"
+- **अस्य** — "of that Indra"
+- **तत् पौंस्यम्** — "such strength"
+- **महत्** — "very great."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.10** *(Kannada)*
+
+"Indra destroyed by his own strength the strength of Vṛtra, and by his weapon the weapon of Vṛtra. Displaying his own lordship, killing the demon Vṛtra, he made the water held back by him flow; his strength is very great."
+
+### Page 597 (PDF 615)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**English Translation** *(Rik 80.10; printed in English in the source)*
+
+"Indra overcame by his strength the strength of Vritra; great, in his manhood, wherewith, having slain Vritra, he let loose the waters, manifesting his own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.10)**
+
+- **तविषीम्** — *balam* — "the word *taviṣī* is read among the twenty-eight names of strength (Ni. [2-9] [?]); hence *taviṣīm* means 'strength'. Likewise the words *pauṃsyam* and *sahaḥ* are read among the names of strength. But of these three words that convey the sense 'strength', the word *taviṣī* is used also of Vṛtra's capacity (*sāmarthya*); the word *pauṃsya* of Indra's power (*śakti*); the word *sahaḥ* is used of the weapon, the means that shows strength abundant. By this, Sāyaṇa has explained *sahaḥ* as '*abhibhavasādhanaṃ vṛtrāyudham*', 'Vṛtra's weapon, a means of repelling Indra', and *sahasā* as '*sahanena abhibhavasādhanena āyudhena*', 'Indra's weapon, suited to destroy Vṛtra, with a power of overcoming'. Skandasvāmin explains the word *taviṣī* as 'strength in the form of an army' and the word *sahaḥ* as indicating bodily strength."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.10)** *(grammar page, noted briefly; runs to p. 598)*
+
+- **अहन्** — the root *han hiṃsāgatyoḥ*; *laṅ*, third person singular, *tip*; the *i* dropped by "iteś ca"; *śap* has *luk* by "adiprabhṛtibhyaḥ śapaḥ"; since the affix, ending in a consonant, comes after, "hal-ṅyābbhyo…" drops it; the augment *aṭ* for the stem; nighāta accent since it comes within the pāda.
+- **पौंस्यम्** — the root *puṃsa abhivardhane* (पुंस अभिवर्धने), *curādi*; being an *a*-ending root, the affix *yat* by "aco yat" (अचो यत्, Pā. Sū. 3-1-97); by "yato 'nāvaḥ" (Pā. Sū. 6-1-213) the initial udātta.
+- **जघन्वान्** — the root *han hiṃsāgatyoḥ*; in the *liṭ* sense, by "kvasuś ca" (क्वसुश्च, Pā. Sū. 3-2-107) the substitute *kvasu*; the augment *iṭ* that would arise by "vasv ekājādhasām" (वस्वेकाजाद्घसाम्, Pā. Sū. 7-2-67) is barred by the option "vibhāṣā gamahana…" (Pā. Sū. 7-2-68), so here it does not occur; by the affix the root takes reduplication; *cutva*, *jastva*; "abhyāsāc ca" (Pā. Sū. 7-3-55) turns the *h* of the root after the reduplicative into *kutva* (*gh*); the stem *jaghanvas* arises; the first-case *su* following…
+
+### Page 598 (PDF 616)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Grammar of Rik 80.10, continued from p. 597:*
+
+- **जघन्वान्** (continued) — "…with *su* following, by "atvasantasya cādhātoḥ" (अत्वसन्तस्य चाधातोः, Pā. Sū. 6-4-14) the penultimate is lengthened; by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" the augment *num*; by "hal-ṅyābbhyo…" the elision of *su*; by the loss of the conjunct final the *t* [*s*], and the *s* of the affix; this, being *asiddha*, does not cause *nalopa*; by the accent of the affix the *ā* becomes udātta."
+- **असृजत्** — the root *sṛja visarge*, *tudādi*; *laṅ*, third person singular; since *śa* is taught as *apit*, by "sārvadhātukam apit" it is *ñit* and so there is no guṇa of the light penultimate vowel of the root; nighāta accent. ||10||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.11**
+
+> इमे चित्तव मन्यवे वेपेते भियसा मही ।
+> यदिन्द्र वज्रिन्नोजसा वृत्रं मरुत्वाँ अवधीरर्चन्ननु स्वराज्यम् ॥ ११ ॥
+
+*ime cit tava manyave vepete bhiyasā mahī |
+yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam ||11||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इमे इति । चित् । तव । मन्यवे । वेपेते इति । भियसा । मही इति ।
+> यत् । इन्द्र । वज्रिन् । ओजसा । वृत्रम् । मरुत्वान् । अवधीः ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ११ ॥
+
+*ime iti | cit | tava | manyave | vepete iti | bhiyasā | mahī iti | yat | indra | vajrin | ojasā | vṛtram | marutvān | avadhīḥ | arcan | anu | sva-rājyam ||11||*
+
+---
+
+**Progress note:** Printed pp. 1–598 done (PDF 19–616): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.10 complete** (grammar of 80.10 on pp. 597–598); **Rik 80.11** — Saṃhitā and Pada (p. 598) done. Next: p. 599 (PDF 617) — bhāṣya of 80.11. Five Ṛks (80.12–80.16) remain after 80.11. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
