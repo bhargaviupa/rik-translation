@@ -4667,4 +4667,55 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–233 done (PDF 19–251): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1–68.3 complete; **Rik 68.4** (half-Ṛks 7–8) — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics begun (p. 233). Next: p. 234 (PDF 252), the rest of the Special Topics and the grammar page of Rik 68.4; then Rik 68.5 and the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the *amūra* etymologies in 68.4 [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 234 (PDF 252)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**Special Topics (continued; Kannada).**
+
+- **मिथस्तनूषु रेतः इच्छन्त** — *ātmīyeṣu śarīreṣu saṃsṛṣṭam ekībhūtaṃ putrarūpeṇa pariṇataṃ vīryam aicchan* — "Agni is the cause of all kinds of wealth; therefore sacrificers desired, through your favour, to obtain the vital seed which, uniting in their own bodies, takes the form of sons — and they obtained it. The word *retas* is read among the hundred names of water (Ni. [1-12]); *retas* means water. '*Riyate srvati iti retaḥ*'; or, since the waters in the form of rain are the *retas* of the gods, *retas* is said of water: *retas* means water because it flows in; they explain that the waters in the form of rain are the seed of the gods. This word is used in the sense of water in the Ṛks '*rājantī asya bhuvanasya rodasī asme retaḥ siñcatam yan nu sūrhitam*' (Ṛk. Saṃ. 6-[70]-[2], as read, ?) and '*saptārdhagarbhā bhuvanasya reto viṣṇos tiṣṭhanti pradiśā vidharmaṇi*' (Ṛk. Saṃ. 1-164-36)."
+- **दक्षैः अमूराः संजानते** — "with able sons they understand well, i.e. live long. Or the word *dakṣa* denotes the vital breath: '*prāṇo vai dakṣo 'pānaḥ kratuḥ*' (Tai. Saṃ. 3-[2]-[2]-[4], as read, ?). The sacrificers, with their own breaths, joined with you, know everything by your favour and live long."
+- **अमूराः** — *amūḍhāḥ* — "Yāska explained the words *mūrā, amūrā* as '*mūḍhā vayaṃ smo 'mūḍhās tvam asi*' (Ni. 6-8, as read, ?): 'we are confused; you are one who has understood everything'. The word *mūrā* from the root *murchā mohasamucchrāyayoḥ* means 'confused'; *amūrāḥ* means those who are not confused."
+- *Skandasvāmin* [on *icchanta retaḥ*, taking *mithas tanūṣu* as *sahabhūtāyām api na kevalāyām iva*]: "*ātmīyeṣu śarīreṣu svaśarīraṃ vā retaḥ*" — and explains that those who desire sons wish for seed in their own wives and in their own bodies; those who desire an *aurasa* son, by offering oblations in Agni, know Agni's power well; therefore they perform Agni's service in due form. And the word *dakṣa*, in the Ṛks '*cittiṃ dakṣasya subhagatvam*' (Ṛk. Saṃ. 3-[?]-6, as read, ?) and '*śreyāṃsaṃ dakṣam*' (Ṛk. Saṃ. 10-[?]-2, as read, ?), is explained as 'mind', 'self'; since it is connected with the mind, it is used in the sense of knowledge, 'born of one's own mind, or knowledge arisen in oneself'. For *amūrāḥ* he gives 'those with discriminating knowledge'." *(Compressed; the Ṛgveda references are read doubtfully [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 68.4 (begins; noted briefly).** **इच्छन्त**: root *iṣu icchāyām*; in the *laṅ* [read as *laṭ*], by "vyatyayo bahulam" the *ātmanepada* affix; in the third person plural, *jhi* → *ata* by "jho 'ntaḥ" [*ātmanepada*: *jha* → *ata*]; by "iṣugamiyamāṃ chaḥ" (Pā. Sū. 7-3-77, as read) *ccha* for the root; by "bahulaṃ chandasy amāṅyoge 'pi" no *aṭ*; since it stands at the beginning of the *pāda*, no *nighāta*; by the vikaraṇa accent the word has the acute in the middle.
+
+---
+
+### Page 235 (PDF 253)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 12 [as read]".)*
+
+**Special Topics (concluded; Kannada).** "…those who wish for sons desire, in their wives and in their own bodies, that there be seed. They desire an *aurasa* son by pouring oblations in Agni; they know well Agni's glory; therefore they perform Agni's service in due form. [The sense of] *amūrāḥ* — 'with discriminating wisdom', he says."
+
+**Grammar page for Rik 68.4 (continued).** **जानते**: root *jñā avabodhane*; in the present sense, by "chandasi luṅlaṅliṭaḥ" the *laṭ* [print: *laṅ*]; in the third person plural, the affix *jha*; by "kryādibhyaḥ śnā" the vikaraṇa *śnā*; by "jñājanor jā" (Pā. Sū. 7-3-79, as read) *jā* for the root; since the *ātmanepada* *jha* is [*ata*], by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5, as read) *at* for *jha*; by "sārvadhātukam apit" it is *ñit*-like; by "śnābhyastayor ātaḥ" the loss of the *ā* of *śnā*; no *aṭ* by "bahulaṃ chandasy amāṅyoge 'pi"; since it follows an acute-ending word, the *nighāta* accent. **अमूराः**: Yāska explained *mūrā*, *amūrā* thus: "*mūḍhā vayaṃ smo 'mūḍhās tvam asi*" (Ni. 6-8, as read) — the sense being that *ḍh* has become *r*. So here too the word *amūra* denotes 'unconfused'; by a transposition of letters, *r* in place of *ḍh*. Or: root *murchā mohasamucchrāyayoḥ*; since it is read in the *sampadādi* group, *kvip* in the sense of *bhāva* by "sampadādibhyaḥ kvip"; with *murch*, by "rāllopaḥ" [as read: "ralopo…"] *…*
+
+---
+
+### Page 236 (PDF 254)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 68" as read.)*
+
+**Grammar page for Rik 68.4, concluded (noted briefly).** **अमूराः** *(concluded)*: …by "rāllopaḥ" [as read] the loss of the conjunct-final *ch* [*cha*]; lengthening of the penultimate; *r* arises in the sense of *matup*: *mūra*; "not confused" = *amūrāḥ*. Or the root *ama gatyādiṣu*; by "uṇādayo bahulam" the Uṇādi-established affix *ūran* [*ūran* after *ama*]: *amūra*; since it ends in an *n*-marked affix, by "ñnityādir nityam" the initial acute. **॥ ७–८ ॥** *Grammar page, noted briefly; sūtra numbers as read. Rik 68.4 ends here (ornamental rule).*
+
+#### Rik 68.5 *(printed "9 || 10 ||" — the last Rik of Sūkta 68)*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **पितुर्न पुत्राः क्रतुं जुषन्त श्रोषन्ये अस्य शासं तुरासः ।**
+> **वि राय और्णोद्दुरः पुरुक्षुः पिपेश नाकं स्तृभिर्दमूनाः ॥ ९ ॥ १० ॥**
+> *pitur na putrāḥ kratuṃ juṣanta śroṣan ye asya śāsaṃ turāsaḥ |*
+> *vi rāya aurṇod duraḥ purukṣuḥ pipeśa nākaṃ stṛbhir damūnāḥ || 9 || 10 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **पितुः । न । पुत्राः । क्रतुम् । जुषन्त । श्रोषन् । ये । अस्य । शासम् । तुरासः ।**
+> **वि । रायः । और्णोत् । दुरः । पुरुऽक्षुः । पिपेश । नाकम् । स्तृऽभिः । दमूनाः ॥ ९ ॥ १० ॥**
+> *pituḥ | na | putrāḥ | kratum | juṣanta | śroṣan | ye | asya | śāsam | turāsaḥ |*
+> *vi | rāyaḥ | aurṇot | duraḥ | puru-kṣuḥ | pipeśa | nākam | stṛ-bhiḥ | damūnāḥ || 9 || 10 ||*
+
+*(The print's Saṃhitā "और्णोद्दुरः" and Pada "और्णोत् । दुरः" are given as printed.)*
+
+---
+
+**Progress note:** Printed pp. 1–236 done (PDF 19–254): Sūktas 62–67 complete. **Sūkta 68** (5 four-pāda Ṛks; Agni; Parāśara Śākti): Riks 68.1–68.4 complete; **Rik 68.5** (the last) — Saṃhitā and Pada only (p. 236). Next: p. 237 (PDF 255), the bhāṣya of Rik 68.5 and the rest, then the closing line of Sūkta 68; then Sūkta 69. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–68 [?]; the Special Topics and *amūra* grammar in 68.4 compressed [?]; accent marks of the Saṃhitā/Pada not reproduced.
