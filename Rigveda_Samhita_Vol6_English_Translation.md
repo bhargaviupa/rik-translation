@@ -13106,4 +13106,107 @@ sṛjā marutvatīr ava jīvadhanyā imā apo 'rcann anu svarājyam ||4||*
 
 ---
 
-**Progress note:** Printed pp. 1–577 done (PDF 19–595): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.4 complete** (grammar of 80.3 ends at the head of p. 575; of 80.4 on p. 577). Next: p. 578 (PDF 596) — Rik 80.5. Twelve Ṛks (80.5–80.16) remain. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
+### Page 578 (PDF 596)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.5**
+
+> इन्द्रो वृत्रस्य दोधतः सानुं वज्रेण हीळितः ।
+> अभिक्रम्याव जिघ्नतेऽपः सर्माय चोदयन्नर्चन्ननु स्वराज्यम् ॥ ५ ॥
+
+*indro vṛtrasya dodhataḥ sānuṃ vajreṇa hīḷitaḥ |
+abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> इन्द्रः । वृत्रस्य । दोधतः । सानुम् । वज्रेण । हीळितः ।
+> अभिऽक्रम्य । अव । जिघ्नते । अपः । सर्माय । चोदयन् ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ५ ॥
+
+*indraḥ | vṛtrasya | dodhataḥ | sānum | vajreṇa | hīḷitaḥ | abhi-kramya | ava | jighnate | apaḥ | sarmāya | codayan | arcan | anu | sva-rājyam ||5||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.5** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हीळितः क्रुद्ध इन्द्रोऽभिक्रम्याभिमुख्येन गत्वा दोधतो भृशं कम्पमानस्य वृत्रस्य सानुं समुच्छ्रितं हनुप्रदेशं वज्रेणाव जिघ्नते । प्रहरति । किं कुर्वन् । आपो वृष्ट्युदकानि सर्माय सरणाय निर्गमनाय चोदयन् प्रेरयन् ॥ दोधतः । धूञ् कम्पने अस्माद्यङ्लुगन्ताच्छतर्यन्त्यलोपश्छान्दसः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् । हीळितः । हेड्ट होड्ट अनादरे । हेळित इत्येतत् क्रुध्यतिकर्मसु पठितम् । अस्मान्निष्ठायां वर्णव्यापत्तेरेकारः । जिघ्नते । हन्तेर्लटि व्यत्ययेनात्मनेपदं बहुवचनं च । बहुलं छन्दसीति शपः श्लुः । इदित्यनुवृत्तौ बहुलं छन्दसीत्यभ्यासस्येत्वम् । गमहनेत्यादिनोपधालोपः । सर्माय । सृ गतौ । अर्तिस्तुसुहुसृ… [?] इत्यादिना भावे मन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
+
+*hīḷitaḥ kruddha indro 'bhikramyābhimukhyena gatvā dodhato bhṛśaṃ kampamānasya vṛtrasya sānuṃ samucchritaṃ hanupradeśaṃ vajreṇāva jighnate | praharati | kiṃ kurvan | āpo vṛṣṭyudakāni sarmāya saraṇāya nirgamanāya codayan prerayan || dodhataḥ | dhūñ kampane asmād yaṅluganṭāc chatary antyalopaś chāndasaḥ | abhyastānām ādir ity ādyudāttatvam | hīḷitaḥ | heḍa hoḍa anādare | heḷita ity etat krudhyatikarmasu paṭhitam | asmān niṣṭhāyāṃ varṇavyāpatter ekāraḥ | jighnate | hanter laṭi vyatyayenātmanepadaṃ bahuvacanaṃ ca | bahulaṃ chandasīti śapaḥ śluḥ | id ity anuvṛttau bahulaṃ chandasīty abhyāsasyetvam | gamahanetyādinopadhālopaḥ | sarmāya | sṛ gatau | artistusuhusṛ… [?] ity ādinā bhāve manpratyayaḥ | nittvād ādyudāttatvam ||*
+
+*Sense:* "Indra, angered (*hīḷitaḥ* = *kruddhaḥ*), advancing against (*abhikramya*) Vṛtra, who trembles violently (*dodhataḥ*), strikes (*ava jighnate* = *praharati*) with the thunderbolt the *sānu* — the raised part, the region of the jaw. Doing what? Urging (*codayan*) the waters, the rain-waters, for flowing (*sarmāya* = *saraṇāya*, *nirgamanāya*), (and) honouring his own sovereignty." *The grammatical tail:* *dodhataḥ* — the root *dhūñ kampane* in the intensive (*yaṅ-luk*) with *śatṛ*, the loss of the final (*n*) being Vedic; *ādyudātta* by "abhyastānām ādiḥ"; *hīḷitaḥ* — the roots *heḍa*, *hoḍa* in the sense of disrespect; *heḷita* is read among the words for 'being angry'; in the *niṣṭhā* [*kta*] the *e* arises by the alteration of the letter; *jighnate* — the *laṭ* of *han* with the *ātmanepada* and the plural by *vyatyaya*; *śap* is replaced by *ślu*; the reduplicative takes *i* by "bahulaṃ chandasi"; the penultimate is dropped by "gamahana…"; *sarmāya* — the root *sṛ gatau*, the affix *man* in the sense of the action by the sūtra beginning *arti-stu-su-hu-sṛ…*; being *n*-marked it is *ādyudātta*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.5** *(Kannada; begins at the foot of p. 578)*
+
+- **हीळितः** — "angered"
+- **इन्द्रः** — "Indra"
+- **अभिक्रम्य** — "confronting (Vṛtra)"
+- **दोधतः** — "trembling (from fear)"
+- **वृत्रस्य** — "of the demon Vṛtra"
+- **सानुम्** — "on the jaw [lit. 'upon the rock/ridge']"
+- **अपः** — "the rain-water
+
+### Page 579 (PDF 597)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Pratipadārtha of Rik 80.5, continued from p. 578:*
+
+- *(apaḥ, continued)* — "…(the rain-water)"
+- **सर्माय** — "to flow (run)"
+- **चोदयन्** — "urging"
+- **स्वराज्यम्** — "his own lordship"
+- **अनु अर्चन्** — "displaying"
+- **वज्रेण** — "with the thunderbolt"
+- **अव जिघ्नते** — "strikes (him)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.5** *(Kannada)*
+
+"Indra, angered, displaying his own lordship, confronts (Vṛtra) and strikes with the thunderbolt the jaw of Vṛtra, who is trembling (with fear), and thus makes the water (that was held back) flow out."
+
+**English Translation** *(printed in English in the source)*
+
+"Indignant Indra, encountering him, has struck with his bolt the jaw of the trembling Vritra, setting the waters free to flow, and manifesting his own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.5)**
+
+- **हीळितः** — *kruddhaḥ* — "'angry', 'one who has anger'. The form *hīḷitaḥ* is derived from the root *heḍṛ anādare krodhe ca* ('to disrespect, to be angry'). This root is read among the ten words (*reḷati, heḷate* …) denoting the action of anger (Ni. [3-9] [?]) —
+
+> अस्या ऊ षु ण उप सातये भुवोऽहेळमानो ररिवा अजाश्व श्रवस्यताम् [?] ।
+
+*asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivā ajāśva śravasyatām [?] |* (Ṛk. Saṃ. 1-[138]-[4] [?]) — *the words as read; the verse is garbled at this resolution and I give it with doubt [?]. Gloss, mine and tentative:* "…for our gain become one who is not angered…"
+
+> अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ।
+
+*aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ |* (Ṛk. Saṃ. 1-[24]-11) — *Gloss, mine and tentative:* "Be here, O Varuṇa, not angry; O far-praised, do not rob us of our life."
+
+— in these Ṛks the word is used in the sense of disrespect and anger."
+- **दोधतः** — *bhṛśaṃ kampamānasya* — "(of him who is) trembling violently. Sāyaṇa has explained that this word is formed from the root *dhūñ*, meaning 'shaking' (*kampana*). Skandasvāmin, who takes it to be '*krudhyatikarmāyam*' (this word of the action of anger), says that because it is formed from the root *dodhate*, read among the ten words that denote the action of anger, such as *krudhyati*, the sense is 'angry'. Accordingly Sāyaṇa explains the word as an epithet of *vṛtrasya*: 'trembling violently'; Skandasvāmin: 'full of anger'."
+
+### Page 580 (PDF 598)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.5, continued:*
+
+- **सर्माय** — *saraṇāya, bhūmiṃ pratigamanāya* — "the sense of this word, formed from the root *sṛ gatau* ('movement'), is 'going': the movement of the waters to their place — to run towards the earth, as is their nature."
+- **सानुम्** — *samucchritaṃ hanupradeśam* — "Sāyaṇa explains it as the raised region of the jaw, the chin, of the demon called Vṛtra. In general the word *sānu* is conventionally used in the sense of the ridge (slope) of a mountain. Skandasvāmin explains it as '*samucchritam*', a raised region. It is to be understood that the slaying of the demon Vṛtra, in the order in which Sāyaṇa wrote his bhāṣya, is also of the nature of a legend (*aitihāsika*)."
+- **वृत्रस्य** — "(of him) who bears the name Vṛtra, the demon. In the Nirukta —
+
+> तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्ट्रोऽसुर इत्यैतिहासिकाः ।
+
+*tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ |* (Ni. [2-16] [?]) — *Gloss, mine and tentative:* "Who then is Vṛtra? The etymologists say 'a cloud'; the historians say 'the demon, son of Tvaṣṭṛ'."
+
+— having asked what the meaning of the word *vṛtra* is, those who give the derivation of the word (*vyutpatti*) say 'cloud'; those who know the legends say 'the demon, born of Tvaṣṭṛ'. And —
+
+> वृत्रो वृणोतेर्वा वर्ततेर्वा वर्धतेर्वा वृत्रः ।
+
+*vṛtro vṛṇoter vā vartater vā vardhater vā vṛtraḥ |* (Ni. [2-17] [?]) — *Gloss, mine and tentative:* "*Vṛtra* is from *vṛ*, to cover; or from *vṛt*, to turn, exist; or from *vṛdh*, to grow."
+
+— the word *vṛtra*, from the roots *vṛñ varaṇe*, *vṛtu vartane*, *vṛdhu vṛddhau*, conveys the senses 'covering', 'being established', or 'growing'. As the śruti-sentence says, '*yad avṛṇot tad vṛtrasya vṛtratvam*' ('because it covered, therefore is Vṛtra's Vṛtra-ness'), he covers the *antarikṣa* and the water; or, as a sense of growth: since Indra struck the cloud and made the water come properly to the earth, the waters arise in the form of rain. And in the legendary view Vṛtra grew very great in measure; *sa iṣumātram iṣumātram avardhata* ('he grew an arrow-length, an arrow-length') — as every moment he grew to the size of an arrow, so is the sense of growth stated."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.5)** *(grammar page, noted briefly; begins here)*
+
+- **दोधतः** — the root *dhūñ kampane*; in the sense of intensity, by "dhātor ekācho halādeḥ kriyāsamabhihāre yaṅ" (Pā. Sū. 3-1-22) the affix *yaṅ*; the *luk* of it by "yaño 'ci ca"; reduplication of the root by "sanyaṅoḥ"; guṇa of the reduplicative by "guṇo yaṅluk-oḥ"; after the stem ending in *yaṅ-luk*, *śatṛ* in the sense of *laṭ*; *śatṛ* following, by Vedic usage the *ū* of the root is dropped; the form *dodhat*; by "abhyastānām ādiḥ" (Pā. Sū. 6-1-189) the initial udātta; sixth-case singular.
+
+---
+
+**Progress note:** Printed pp. 1–580 done (PDF 19–598): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.4 complete**; **Rik 80.5** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (pp. 578–579), Bhāvārtha, English, Special Topics (pp. 579–580) done; its grammar page is begun at the foot of p. 580 (*dodhataḥ*) and continues on p. 581 (PDF 599). Next: p. 581 (PDF 599). Eleven Ṛks (80.6–80.16) remain after 80.5. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt.
