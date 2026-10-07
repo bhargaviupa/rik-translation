@@ -10877,4 +10877,75 @@ sa eṣu dyumnaṃ pīpayat sa vājaṃ sa puṣṭiṃ yāti joṣam ā cikitv�
 
 ---
 
-**Progress note:** Printed pp. 1–503 done (PDF 19–521): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.4 complete (77.4: pp. 499–503); **Rik 77.5** (the last; printed "5 ||") — Saṃhitā and Pada done (p. 503). Next: p. 504 (PDF 522), the Sāyaṇa-bhāṣya of Rik 77.5 and the rest of its treatment, then the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the grammar page of 77.4 (pp. 501–503) compressed and doubtful in places [?].
+### Page 504 (PDF 522)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 77.5** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> ऋतावा ऋतवान्यज्ञवान् जातवेदा जातधनो जातप्रज्ञो वायमग्निर्विप्रेभिर्मेधाविभिर्गोतमेभिर्गोतमवंश्यैर्ऋषिभिरेवमुक्तेन प्रकारेणास्तोष्ट । स्तुतो ऽभूत् । स्तुतश्च सो ऽग्निरेषु गोतमेषु द्युम्नं द्योतमानं सोमं पीपयत् । अपिबत् । यद्वा । तान्यस्मिनपाययत् । तथा सो ऽग्निर्वाजं हविर्लक्षणमन्नं पीपयदित्येव । एवं सोमलक्षणं चरुपुरोडाशादिलक्षणं हविश्च स्वीकृत्य सो ऽग्निर्जोषमस्माभिः कृतं सेवनमा चिकित्वान् आ समंताज्जानन् पुष्टिं याति । पोषं प्राप्नोतीत्यर्थः । यद्वा । अस्माकं धनानि पोषं प्रापयतु ॥ गोतमेभिः । ऋष्यंधकवृष्णि कुरुभ्यश्च । पा. ४-१-११४ । इति विहिस्याणो ऽत्रिभृगुकुत्सवसिष्ठगोतमांगिरोभ्यश्च । पा. २-४-६३ । इति बहुषु लुक् । अस्तोष्ट । स्तौतेः कर्मणि लुङ् । चिण्भावकर्मणोः । ... छंदसि लुङ्लङ्लिटः... पीपयत् । पा पाने । ण्यंताल्लुङि च्लेश्चङादि । जोषं । जुषी प्रीतिसेवनयोः । भावे घञ् । ञित्त्वादाद्युदात्तत्वं ॥
+
+*ṛtāvā ṛtavān yajñavān jātavedā jātadhano jātaprajño vāyam agnir viprebhir medhāvibhir gotamebhir gotamavaṃśyair ṛṣibhir evam ukten[a] prakāreṇāstoṣṭa | stuto 'bhūt | stutaś ca so 'gnir eṣu gotameṣu dyumnaṃ dyotamānaṃ somaṃ pīpayat | apibat | yadvā | tāny asmin apāyayat | tathā so 'gnir vājaṃ havirlakṣaṇam annaṃ pīpayad ity eva | evaṃ somalakṣaṇaṃ caru-puroḍāśādilakṣaṇaṃ haviś ca svīkṛtya so 'gnir joṣam asmābhiḥ kṛtaṃ sevanam ā cikitvān ā samantāj jānan puṣṭiṃ yāti | poṣaṃ prāpnotīty arthaḥ | yadvā | asmākaṃ dhanāni poṣaṃ prāpayatu || gotamebhiḥ | ṛṣyandhakavṛṣṇikurubhyaś ca | pā. [4-1-114] | iti vihitasyāṇo 'tribhṛgukutsavasiṣṭhagotamāṅgirobhyaś ca | pā. [2-4-65] | iti bahuṣu luk | astoṣṭa | stauteḥ karmaṇi luṅ | ciṇ bhāvakarmaṇoḥ | … chandasi luṅlaṅliṭaḥ … | pīpayat | pā pāne | ṇyantāl luṅi cleś caṅādi | joṣaṃ | juṣī prītisevanayoḥ | bhāve ghañ | ñittvād ādyudāttatvaṃ ||*
+
+*(Reading note: the opening of the bhāṣya, "…jātaprajño vāyam agnir…", and the tail's compressed middle (the passage marked "…") are doubtful in the print [?]; the Pāṇini numerals are as read and doubtful.)*
+
+*Meaning:* Agni, *ṛtāvā* — possessed of truth or of sacrifice — *jātavedāḥ* — one who has (obtained) wealth or knowledge — was thus praised (*astoṣṭa*) by the wise (*viprebhiḥ*) Gotamas (*gotamebhiḥ*), the sages of Gotama's line. And having been praised, Agni gave these Gotamas the shining (*dyumnam*) Soma to drink (*pīpayat*) — or: he made them drink it; likewise Agni accepted (made them drink?) the oblation-food (*vājam*). Having thus accepted the Soma and the oblation of *caru*, *puroḍāśa* and the rest, that Agni, knowing well (*cikitvān*) the service (*joṣam*) done by us, attains (*yāti*) nourishment (*puṣṭim*): receives growth; or, may he make our riches grow.
+
+**Grammatical tail** *(characterized)*: *gotamebhiḥ* (the *aṇ* by *ṛṣyandhakavṛṣṇikurubhyaś ca*, Pā. [4-1-114], elided in the plural by *atribhṛgukutsavasiṣṭhagotamāṅgirobhyaś ca*, Pā. [2-4-65]); *astoṣṭa* (root *stu*, passive *luṅ*, with *ciṇ* in the sense of the impersonal and passive); *pīpayat* (root *pā pāne*, causative, *luṅ*; *caṅ* for *cli*); *joṣam* (root *juṣī*; *ghañ*; initial acute).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*ṛtāvā* — truthful (possessed of sacrifice); *jātavedāḥ* — wise (rich); *agniḥ* — Agni; *viprebhiḥ* — by the wise; *gotamebhiḥ* — by the sages of Gotama's line; *astoṣṭa* — was praised; *saḥ* — that Agni; *dyumnam* — the shining Soma; *eṣu* — to these (Gotamas); *pīpayat* — made them drink; *saḥ* — (likewise) that Agni; *vājam* — the oblation-food (accepted); *saḥ* — (that Agni who has thus accepted the Soma and the oblations); *joṣam* — the service (done by us); *ā cikitvān* — knowing well; *puṣṭiṃ yāti* — obtains growth (may he make our wealth grow).
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Agni, truthful and all-knowing, praised by the wise Gotamas, accepted the Soma and the oblations (offered by them). May such an Agni, accepting the service done by us, make our wealth and the like grow.
+
+**English Translation** *(the source's own, as printed; the sentence runs on to p. 505):*
+
+> Thus has Agni, the celebrator of sacrifices, and by whom all things are known, been hymned by the pious descendants of Gotama; to them
+
+---
+
+### Page 505 (PDF 523)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**English Translation of Rik 77.5 (concluded):**
+
+> has he given the bright Soma-juice to drink, along with the sacrificial food, and, gratified by our devotion, he obtains nutriment (for himself.)
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **एषु** — "among these — that is, among the sages of the line of Gotama, or to the sages. Since in this Ṛk it is said *gotamebhiḥ astoṣṭa* — 'was praised by those of Gotama's line' — this pronoun *eṣu* indicates those very sages of Gotama's line."
+- **द्युम्नम्** — "since *dyumna* is read among the twenty-eight names of wealth, *magham*, *rekṇaḥ* and so on (Ni. [2-10?]), *dyumna* means wealth. And when explaining this word Yāska has quoted:
+
+  > शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु ।
+  > जहि वधर्वनुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
+  > *śataṃ te śiprinn ūtayaḥ sudāse sahasraṃ śaṃsā uta rātir astu | jahi vadhar vanuṣo martyasyāsme dyumnam adhi ratnaṃ ca dhehi* (Ṛk. Saṃ. [2-?-?]; Ni. [5-5?])
+
+  — saying *dyumnaṃ dyotater yaśo vā annaṃ vā* ('*dyumna* is from *dyut*, "to shine": fame, or food'), he gives the two meanings, bright fame and food. In the present Ṛk, since the word *pīpayat* is a verb with the sense of drinking, the commentator explains *dyumnam* as *dyotamānaṃ somaṃ pīpayat* — 'he drank (made drink) the shining Soma-juice'. The sense 'Agni accepted the food that is endowed with the quality of oblation' could also be given for this word." *(Gloss mine and tentative: "a hundred are your aids, O possessor of the helmet, for Sudās; a thousand praises, and let there be a gift; smite the weapon of the mortal who assails; place on us glory and treasure". Ṛgveda numerals [?].)*
+- **ऋतावा** — "the meaning of this word was given in the preceding Ṛk."
+- **विप्रेभिः** — "since *vipraḥ*, *vigraḥ* and so on are read among the twenty-four names of the wise (Ni. [3-19?]), *viprebhiḥ* means wise or intelligent."
+- **जातवेदाः** — *jātadhano jātaprajño vā* — "since *vedas* has the two senses 'wealth' (Ni. [2-10?]) and 'wisdom', *jātavedāḥ* means one who has obtained wealth, or one who has obtained wisdom."
+- **वाजम्** — "since *andhaḥ*, *vājaḥ* and so on are read among the twenty-eight names of food, *vāja* means food (Ni. [2-7?])."
+
+---
+
+### Page 506 (PDF 524)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Special Topics of Rik 77.5 (concluded)**
+
+- **पुष्टिम्** — "nourishment, or nourishing food."
+- **जोषम्** — *juṣī prītisevanayoḥ | asmābhiḥ kṛtaṃ sevanam* — "service done by us; *śuśrūṣā*."
+- **आ चिकित्वान्** — *kite jñāne* — "knowing well the service in the form of praise that we perform."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 77.5, noted briefly; not transcribed)*
+
+Words treated: *gotamebhiḥ* ("descendants of Gotama" — *gotamasyāpatyāni pumāṃsaḥ*; when the sense of descendant is intended, the *aṇ* affix by *ṛṣyandhakavṛṣṇikurubhyaś ca*, Pā. [4-1-114]; since it is plural, the *aṇ* is lost by *atribhṛgukutsavasiṣṭhagotamāṅgirobhyaś ca*, Pā. [2-4-65], leaving only *gotama*; the instrumental plural *bhis*; by *vā chandasi* *bhis* does not take *ais*; *e* by *bahuvacane jhaly et*, Pā. [7-3-103]; *ru* for the *s*, visarga). *ṛtāvā* (explained in the one-before-last sūkta's single mantra [as read: "the sixty-eighth"?]). *astoṣṭa* (root *ṣṭuñ stutau*; *ṣatva* of the initial by *dhātvādeḥ ṣaḥ saḥ*, hence *stu*; Vedic *luṅ*, third person singular, *ta* in the passive; though *ciṇ* by *ciṇ bhāvakarmaṇoḥ*, Pā. [3-1-66], would replace *cli*, it does not here, being Vedic; so *cleḥ sic*, Pā. [3-1-44]; since the root is *anuṭ*, no *iṭ*; guṇa of the root's *u* by *sārvadhātukārdhadhātukayoḥ*; *ṣatva* of the *sic*'s *s* by *ādeśapratyayayoḥ*; *ṭutva* of the affix's *t* by *ṣṭunā ṣṭuḥ*; *aḍ* for the base; nighāta because it follows an *atijanta*). *pīpayat* (root *pā pāne*; since the causative sense is shown, *ṇic* by *hetumati ca*, Pā. [3-1-26]; *yuk* by *śācchāsāhvāvyāveṣāṃ yuk*, Pā. [7-3-37]; after the *ṇijanta* *pāyi*, *luṅ*, third person singular, *tip*; loss of *i* by *itaś ca*; *caṅ* for *cli* by *ṇiśridruśrubhyaḥ kartari caṅ*, Pā. [3-1-48]; doubling of the first single-vowel part by *caṅi*, Pā. [6-1-11]; by Vedic usage *lopaḥ pibateḥ*, Pā. [7-4-4], the penultimate is dropped and the reduplicate takes *i*; shortening of the root's penultimate by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. [7-4-1]; by *sanvallaghuni caṅ pare 'nāglope*, Pā. [7-4-93], the doubling…) *(continued on p. 507)*.
+
+---
+
+**Progress note:** Printed pp. 1–506 done (PDF 19–524): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Riks 77.1–77.4 complete; **Rik 77.5** (the last; printed "5 ||") — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (pp. 504–506) and most of the grammar page (up to *pīpayat*) done; the grammar page continues on p. 507, followed by the closing line of Sūkta 77. Next: p. 507 (PDF 525). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the middle of the bhāṣya tail of 77.5 (p. 504) and the cross-reference "ṛtāvā explained…" on p. 506 doubtful [?].
