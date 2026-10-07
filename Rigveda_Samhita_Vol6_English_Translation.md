@@ -13377,4 +13377,114 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 
 ---
 
-**Progress note:** Printed pp. 1–586 done (PDF 19–604): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.6 complete** (grammar of 80.6 on p. 584); **Rik 80.7** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 585), Bhāvārtha, English and the first part of the Special Topics (p. 586) done; the Special Topics of 80.7 break off at the foot of p. 586 (mid-sentence: "…described in many places in the Ṛgveda…") and continue on p. 587 (PDF 605), then its grammar page. Next: p. 587 (PDF 605). Nine Ṛks (80.8–80.16) remain after 80.7. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) read with doubt.
+### Page 587 (PDF 605)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 80.7, continued from p. 586 — Ṛgvedic citations (three layers; glosses mine and tentative; reference numerals as read, all [?]):*
+
+> मायाभिरिन्द्र मायिनं त्वं शुष्णमवातिरः ।
+
+*māyābhir indra māyinaṃ tvaṃ śuṣṇam avātiraḥ |* (Ṛk. Saṃ. 1-11-[7] [?]) — *Gloss, mine and tentative:* "By (your) wiles, O Indra, you overcame the wily Śuṣṇa."
+
+— "In this Ṛk it is said that Indra destroyed the deceitful Śuṣṇa-asura by stratagems alone. Similarly —
+
+> त्वं मायाभिरप मायिनोऽधमः स्वधाभिर्ये अधि शुप्ताव[?]जुह्वत ।
+
+*tvaṃ māyābhir apa māyino 'dhamaḥ svadhābhir ye adhi śuptāv [?] ajuhvata |* (Ṛk. Saṃ. 1-[51]-[5] [?]) — *the words* śuptāv ajuhvata *are read with doubt [?]. Gloss, mine and tentative:* "By wiles you blew away the wily ones, who … by their own powers."
+
+> वृजनेन वृजिनान्त्सं पिपेष मायाभिर्दस्यूरभिभूत्योजाः ।
+
+*vṛjanena vṛjinān saṃ pipeṣa māyābhir dasyūr abhibhūtyojāḥ |* (Ṛk. Saṃ. 3-[34]-[6] [?]) — *Gloss, mine and tentative:* "With strength he crushed the crooked; by wiles the Dasyus, he of overpowering might."
+
+> अहिमोहानमप आशयानं प्र मायाभिर्मायिनं सक्षदिन्द्रः ।
+
+*ahim ohānam apa āśayānaṃ pra māyābhir māyinaṃ sakṣad indraḥ |* (Ṛk. Saṃ. 5-30-[6] [?]) — *the first two words are garbled in the print [?]. Gloss, mine and tentative:* "…the serpent lying in the waters, the wily — Indra overcame him with wiles."
+
+> मायाभिरुत्सिसृप्सत इन्द्र द्यामारुरुक्षतः ।
+> अव दस्यूँरधूनुथाः ॥
+
+*māyābhir utsisṛpsata indra dyām ārurukṣataḥ | ava dasyūṃr adhūnuthāḥ ||* (Ṛk. Saṃ. 8-[14]-[14] [?]) — *Gloss, mine and tentative:* "Those who wished to creep up by wiles, who wished to climb to heaven — O Indra, you shook the Dasyus down."
+
+> त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः ।
+
+*tvaṃ māyābhir anavadya māyinaṃ śravasyatā manasā vṛtram ardayaḥ |* (Ṛk. Saṃ. 10-[147]-[2] [?]) — *Gloss, mine and tentative:* "You, blameless one, with wiles, with a mind eager for fame, crushed the wily Vṛtra."
+
+In such places it is described that Indra destroyed the *māyāvin* asuras by guile itself."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.7)** *(grammar page, noted briefly; runs to p. 588)*
+
+- **अद्रिवः** — *adri* is a name of the cloud; *adrir asya asti iti adrimān*: by "tad asyāsty asminn iti" the affix *matup*; by "chandasīraḥ" [sic: "chandasīraḥ" = Pā. Sū. 8-2-15] the *m* of *matup* becomes *v*; so *adrivat*; in the vocative, by "matuvasor ruḥ sambuddhau" (मतुवसोरुः सम्बुद्धौ, Pā. Sū. 8-3-1) the *t* of *matup* becomes *ru*; by "kharavasānayor visarjanīyaḥ" the visarga.
+- **अनुत्तम्** — the root *nuda preraṇe* (णुद प्रेरणे); the affix *kta* in the passive; *natva* of the *niṣṭhā* that "radābhyāṃ niṣṭhāto naḥ pūrvasya ca daḥ" (रदाभ्यां निष्ठातो नः…, Pā. Sū. 8-2-42) would bring is prevented, since the *nipātana* "nasatta-niṣatta…" (नसत्तनिषत्तानुत्तप्रतूर्तसूर्तगूर्तानि छन्दसि, Pā. Sū. 8-2-61) makes the *n*-substitution not occur; final-udātta by the accent of the affix; when the case-ending (*am*) merges with it in one substitute, "ekādeśa udāttenodāttaḥ" (एकादेश उदात्तेनोदात्तः, Pā. Sū. 8-2-5) makes it udātta *(continued on p. 588)*
+
+### Page 588 (PDF 606)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Grammar of Rik 80.7, continued from p. 587:*
+
+- **मायिनम्** — since the word *māyā* is read in the *vrīhyādi* group, by "vrīhyādibhyaś ca" (व्रीह्यादिभ्यश्च, Pā. Sū. 5-2-116) the affix *ini* in the sense of *matup*; by the initial udātta of the affix the *i* is udātta; second-case singular.
+- **अवधीः** — the root *han hiṃsāgatyoḥ*; *luṅ*, second person singular, *sip*; the *i* dropped by "iteś ca"; by "luṅi ca" (लुङि च, Pā. Sū. 2-4-43) *vadha* is the substitute for the base; this ends in *a*; *sic* for *cli*; by "asti-sico 'pṛkte" (अस्तिसिचोऽपृक्ते, Pā. Sū. 7-3-96) *īṭ* for the *apṛkta* [affix]; for *sic*, *iṭ*; by "ato lopaḥ" the *a* of the base *vadha* is dropped; by "iṭo 'ṭi" (इटोऽटि, Pā. Sū. 8-2-28) the *s* of *sic* is dropped; by "acaḥ parasmin pūrvavidhau" the *sthānivadbhāva* of the dropped *a*, so there is no vṛddhi of the root because of *sic*; nighāta accent since *atiṅanta* in the pāda. ||7||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.8**
+
+> वि ते वज्रासो अस्थिरन्नवतिं नाव्या अनु ।
+> महत्त इन्द्र वीर्यं बाह्वोस्ते बलं हितमर्चन्ननु स्वराज्यम् ॥ ८ ॥
+
+*vi te vajrāso asthiran navatiṃ nāvyā anu |
+mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> वि । ते । वज्रासः । अस्थिरन् । नवतिम् । नाव्याः । अनु ।
+> महत् । ते । इन्द्र । वीर्यम् । बाह्वोः । ते । बलम् । हितम् ।
+> अर्चन् । अनु । स्वऽराज्यम् ॥ ८ ॥
+
+*vi | te | vajrāsaḥ | asthiran | navatim | nāvyāḥ | anu | mahat | te | indra | vīryam | bāhvoḥ | te | balam | hitam | arcan | anu | sva-rājyam ||8||*
+
+### Page 589 (PDF 607)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.8** *(Sanskrit in Kannada script; doubtful places [?])*
+
+> हे इन्द्र ते तव वज्रासो वज्रास्त्वत्सकाशान्निर्गतान्यायुधानि नाव्याः नावा तार्या नवतिं नवतिसंख्याका वृत्रेण निरुद्धा नदीरनुपलक्ष्य वृष्ट्यर्थं व्यस्थिरन् । विविधमतिष्ठन् [?] । सर्वत्र व्याप्य वर्तमानं वृत्रं हन्तुं तव वज्र एकोऽप्यनेक इवासीदित्यर्थः [?] । किंच इन्द्र ते तव वीर्यं महत् प्रभूतम् । अस्यैरजीयमित्यर्थः [?] । तथा ते बाह्वोस्त्वदीययोर्हस्तयोर्बलं हितं निहितम् । त्वदीयौ बाहू अत्यतिशयेन बलिनावित्यर्थः । अन्यत्पूर्ववत् ॥ अस्थिरन् । तिष्ठतेर्लुङि समवप्रविभ्यः स्थ इत्यात्मनेपदम् । मन्त्रे घसेति च्लेर्लुक् । स्थाघ्वोरिच्च । पा. १-२-१७ । इतीत्त्वम् । व्यत्ययेन ऋषस्य रनादेशः [?] । नाव्याः । नौवयोधर्मविषमूलमूलसीतातुलाभ्यस्तार्यतुल्यप्राप्यवध्यानाम्यसमसमितसम्मितेषु । पा. ४-४-९१ [?] । यत् । यतोऽनाव इति पर्युदासात्तित्स्वरित इति स्वरितत्वम् । बाह्वोः । उदात्तयणो इति विभक्त्युदात्तत्वम् ॥
+
+*he indra te tava vajrāso vajrās tvatsakāśān nirgatāny āyudhāni nāvyāḥ nāvā tāryā navatiṃ navatisaṃkhyākā vṛtreṇa niruddhā nadīr anupalakṣya vṛṣṭyarthaṃ vy asthiran | vividham atiṣṭhan [?] | sarvatra vyāpya vartamānaṃ vṛtraṃ hantuṃ tava vajra eko 'py aneka ivāsīd ity arthaḥ [?] | kiṃca indra te tava vīryaṃ mahat prabhūtam | asyairajīyam ity arthaḥ [?] | tathā te bāhvos tvadīyayor hastayor balaṃ hitaṃ nihitam | tvadīyau bāhū atyatiśayena balināv ity arthaḥ | anyat pūrvavat || asthiran | tiṣṭhater luṅi samavapravibhyaḥ stha ity ātmanepadam | mantre ghaseti cler luk | sthāghvor icca | pā. 1-2-17 | itīttvam | vyatyayena ṛṣasya ranādeśaḥ [?] | nāvyāḥ | nauvayodharmaviṣamūlamūlasītātulābhyas tāryatulyaprāpyavadhyānāmyasamasamitasammiteṣu | pā. 4-4-91 [?] | yat | yato 'nāva iti paryudāsāt tit svarita iti svaritatvam | bāhvoḥ | udāttayaṇo iti vibhaktyudāttatvam ||*
+
+*Sense:* "O Indra, your *vajrāsaḥ* — thunderbolts, weapons issued from you — flew apart (*vy asthiran*) in various directions for rain, aiming at the ninety rivers (*nāvyāḥ*, 'to be crossed by boat') that had been held back by Vṛtra [the reading of the clause is doubtful [?]]. The sense: to kill Vṛtra, who was pervading everywhere, your single thunderbolt became, as it were, many. Moreover, O Indra, your prowess (*vīrya*) is great (*mahat* = *prabhūtam*). So, too, the strength (*balam*) has been placed (*hitam* = *nihitam*) in your arms: your arms are exceedingly strong. The rest as before." *The grammatical tail:* *asthiran* — the root *ṣṭhā* in the *luṅ*, with the *ātmanepada* by "sam-ava-pra-vibhyaḥ sthaḥ"; the *luk* of *cli* in the mantra; *i* for the *ā* by "sthāghvor ic ca" (Pā. 1-2-17); the *r* substitution for the *ṛṣa* [?] by *vyatyaya*; *nāvyāḥ* — by the sūtra beginning "nauvayodharma…" (Pā. 4-4-91 [?]) the affix *yat*; because of the exclusion "yato 'nāvaḥ" the *svarita* accent comes from the *t*-mark; *bāhvoḥ* — the case-ending is udātta by "udāttayaṇo hal-pūrvāt".
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.8** *(Kannada)*
+
+- **इन्द्र** — "O Indra!"
+- **ते** — "your (sent forth by you)"
+- **वज्रासः** — "thunderbolts"
+- **नवतिम्** — "ninety"
+- **नाव्याः** — "rivers to be crossed by boat"
+- **अनु** — "having them in view (aiming at)"
+- **वि अस्थिरन्** — "spread in various forms"
+- **ते** — "your"
+- **वीर्यम्** — "valour (prowess)"
+- **महत्** — "great"
+- **तथा** — "likewise"
+- **ते** — "your"
+- **बाह्वोः** — "in the arms"
+- **बलम्** — "strength"
+- **हितम्** — "is placed (for your good)"
+- **हे इन्द्र** — "O Indra (your)"
+- **स्वराज्यम्** — "own lordship"
+- **अर्चन् अनु** — "displaying."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.8** *(Kannada)*
+
+"The thunderbolts sent by you spread in various forms, aiming at the ninety rivers that were held back by Vṛtra. Your heroism is very great; likewise the strength in your arms. Such a you are displaying your own lordship."
+
+**English Translation** *(printed in English in the source)*
+
+"Your thunderbolts were scattered widely over ninety-and nine rivers; great is your prowess; strength is deposited in your arms, manifesting your own sovereignty." — as printed (the print says "ninety-and nine", where the Ṛk and the bhāṣya have ninety — recorded as printed).
+
+---
+
+**Progress note:** Printed pp. 1–589 done (PDF 19–607): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.7 complete** (Special Topics of 80.7 on pp. 586–587; grammar on pp. 587–588); **Rik 80.8** — Saṃhitā and Pada (p. 588), bhāṣya, Pratipadārtha, Bhāvārtha and the source's English (p. 589) done; the Special Topics and grammar page of 80.8 not yet seen. Next: p. 590 (PDF 608). Eight Ṛks (80.9–80.16) remain after 80.8. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent argument in the bhāṣya of 80.6 (p. 582) and the bhāṣya of 80.8 (p. 589) read with doubt.
