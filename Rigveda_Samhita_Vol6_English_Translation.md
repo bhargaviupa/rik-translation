@@ -7861,4 +7861,88 @@ Words treated: *dadhuḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*,
 
 ---
 
-**Progress note:** Printed pp. 1–381 done (PDF 19–399): **Sūktas 62–72 complete** (Sūkta 71's closing line on p. 332; Sūkta 72's on p. 381: "eppatteraḍaneya sūkta samāptavu"). The user's latest "next 2 sūktas" request (Sūktas 71 and 72) is therefore finished. Next: p. 382 (PDF 400), the heading of **Sūkta 73** (to be viewed first — introduction and the number of Ṛks not yet seen). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–72 [?]; accent marks not reproduced; the Taittirīya passage on p. 379 (one sentence unread) and the Skandasvāmin note on p. 380 doubtful [?].
+## Sūkta 73
+
+### Page 382 (PDF 400)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತವು — "The seventy-third sūkta".
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script)*
+
+> रयिर्नेति दशर्चं नवमं सूक्तं पराशरस्यार्षं त्रैष्टुभमाग्नेयं । अनुक्रांतं च । रयिर्नेति । प्रातरनुवाकाश्विनशस्त्रयोरुक्तो विनियोगः ॥
+
+*rayir neti daśarcaṃ navamaṃ sūktaṃ parāśarasyārṣaṃ traiṣṭubham āgneyaṃ | anukrāntaṃ ca | rayir neti | prātaranuvākāśvinaśastrayor ukto viniyogaḥ ||*
+
+*(Meaning: "Rayir na" is the ninth sūkta, of ten Ṛks, in Triṣṭup metre, addressed to Agni, the vision of Parāśara; it is listed in the Anukramaṇī as "rayir na"; its application at the Prātaranuvāka and the Aśvina-śastra has been stated.)*
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*rayir na*", is the ninth sūkta in the twelfth anuvāka. It has ten Ṛks. Parāśara is the ṛṣi, Agni the deity, Triṣṭup the metre. The Anukramaṇikā begins with "*rayir na*". The sūkta has its application for the Prātaranuvāka mantras and for the Aśvina-śastra mantras.
+
+**सूक्त — ७३ (Sūkta 73)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१२ ॥ सूक्त—७३ ॥ — *Maṇḍala 1; Anuvāka 12; Sūkta 73.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[१९?], [२०?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "19, 20" as read, numerals doubtful [?].*
+*Number of Ṛks in the sūkta:* 10. *Ṛṣi:* Pārāśara Śākti. *Devatā:* Agni. *Chandas:* Triṣṭup.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.1**
+
+> रयिर्न यः पितृवित्तो वयोधाः सुप्रणीतिश्चिकितुषो न शासुः ।
+> स्योनशीरतिथिर्न प्रीणानो होतेव सद्म विधतो वि तारीत् ॥ १ ॥
+
+*rayir na yaḥ pitṛvitto vayodhāḥ supraṇītiś cikituṣo na śāsuḥ |
+syonaśīr atithir na prīṇāno hoteva sadma vidhato vi tārīt ||1||*
+
+---
+
+### Page 383 (PDF 401)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.1**
+
+> रयिः । न । यः । पितृऽवित्तः । वयःऽधाः । सुऽप्रनीतिः । चिकितुषः । न । शासुः ।
+> स्योनऽशीः । अतिथिः । न । प्रीणानः । होताऽइव । सद्म । विधतः । वि । तारीत् ॥ १ ॥
+
+*rayiḥ | na | yaḥ | pitṛ-vittaḥ | vayaḥ-dhāḥ | su-pranītiḥ | cikituṣaḥ | na | śāsuḥ | syona-śīḥ | atithiḥ | na | prīṇānaḥ | hotā-iva | sadma | vidhataḥ | vi | tārīt ||1||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
+
+> पितृवित्तः पितुः सकाशाल्लब्धो रयिर्धनमिव यो ऽग्निर्वयोधा अन्नस्य दाता । यथा पैतृकं धनं विश्रंभेण व्यवह्रियमाणं सदन्नप्रदं भवति तद्वदग्निरपि सर्वेषु यज्ञेषु विश्रंभेण व्यवहृतः सन् अन्नप्रदो भवतीत्यर्थः । चिकितुषो न विदुषो धर्मशास्त्राभिज्ञस्य शासुः शासनमिव सुप्रणीतिः सुखेन प्रणेतव्यः । यथा विद्वज्ज्ञासनं सर्वेष्वनुष्ठेयेषु तत्तत्संशयनिर्णयाय नीयते तद्वदग्निरपि सर्वेषु यज्ञेषु प्रणीयते । यश्च स्योनशीः सुखप्रदे गार्हपत्यायतनादौ शयानो ऽतिथिर्न सुखासन उपवेशितो ऽर्घपाद्याभिः सत्कृतो ऽतिथिरिव प्रीणानो हविर्भिस्तर्पणीयः सो ऽग्निर्विधतः परिचरतो यजमानस्य सद्म गृहं वि तारीत् । प्रवर्धयति ददाति वा । तत्र दृष्टांतः । होतेव । होता होमकर्ताध्वर्युस्तत्तत्कर्मकरणेन फलैर्यजमानस्य गृहं यथा वर्धयति तद्वत् ॥ पितृवित्तः । विद्ल् लाभे । कर्मणि निष्ठा । यस्य विभाषेति इट्प्रतिषेधः । विभाषा गमहनविदविशामिति क्वसावस्य धातोरिटो विकल्पितत्वात् तत्रापि विशिसाहचर्यात् … लब्धार्थ एव … । वित्तो भोगप्रत्यययोः । पा. [८-२-५८?] इति निष्ठानत्वाभावो निपातितः । वयोधाः । दुधाञ् धारणपोषणयोः । आतो मनिन्क्विब् विच् । सुप्रणीतिः । प्रणीयते इति प्रणीतिः । कर्मणि क्तिन् । तादौ च नीति गतेः प्रकृतिस्वरत्वं । पुनः सुशब्देन समासे कृद्ग्रहणे गतिकारकपूर्वस्यापि ग्रहणात्तृतीयादुत्तरपदप्रकृतिस्वरत्वं । चिकितुषः । लिटः क्वसुः । षष्ठ्येकवचने वसोः संप्रसारणमिति संप्रसारणं । शासिवसिघसीनां चेति षत्वं । शासुः । शासु अनुशिष्टौ । श्वस्स्वसिहीत्यादिना विधीयमान उप्रत्ययो बहुलवचनादस्मादपि द्रष्टव्यः । तत्र निदित्त्वान्नुवृत्तेराद्युदात्तत्वं । स्योनशीः । स्योन…
+
+*pitṛvittaḥ pituḥ sakāśāl labdho rayir dhanam iva yo 'gnir vayodhā annasya dātā | yathā paitṛkaṃ dhanaṃ viśrambheṇa vyavahriyamāṇaṃ sadannapradaṃ bhavati tadvad agnir api sarveṣu yajñeṣu viśrambheṇa vyavahṛtaḥ san annaprado bhavatīty arthaḥ | cikituṣo na viduṣo dharmaśāstrābhijñasya śāsuḥ śāsanam iva supraṇītiḥ sukhena praṇetavyaḥ | yathā vidvajjñāsanaṃ sarveṣv anuṣṭheyeṣu tattatsaṃśayanirṇayāya nīyate tadvad agnir api sarveṣu yajñeṣu praṇīyate | yaś ca syonaśīḥ sukhaprade gārhapatyāyatanādau śayāno 'tithir na sukhāsana upaveśito 'rghapādyābhiḥ satkṛto 'tithir iva prīṇāno havirbhis tarpaṇīyaḥ so 'gnir vidhataḥ paricarato yajamānasya sadma gṛhaṃ vi tārīt | pravardhayati dadāti vā | tatra dṛṣṭāntaḥ | hoteva | hotā homakartādhvaryus tattatkarmakaraṇena phalair yajamānasya gṛhaṃ yathā vardhayati tadvat || pitṛvittaḥ | vidl lābhe | karmaṇi niṣṭhā | yasya vibhāṣeti iṭpratiṣedhaḥ | vibhāṣā gamahanavidaviśām iti kvasāv asya dhātor iṭo vikalpitatvāt tatrāpi viśisāhacaryāt … labdhārtha eva … | vitto bhogapratyayayoḥ | pā. [8-2-58?] iti niṣṭhānatvābhāvo nipātitaḥ | vayodhāḥ | dudhāñ dhāraṇapoṣaṇayoḥ | āto maninkvib vic | supraṇītiḥ | praṇīyate iti praṇītiḥ | karmaṇi ktin | tāḍau ca nīti gateḥ prakṛtisvaratvaṃ | punaḥ suśabdena samāse kṛdgrahaṇe gatikārakapūrvasyāpi grahaṇāt tṛtīyād uttarapadaprakṛtisvaratvaṃ | cikituṣaḥ | liṭaḥ kvasuḥ | ṣaṣṭhyekavacane vasoḥ saṃprasāraṇam iti saṃprasāraṇaṃ | śāsivasighasīnāṃ ceti ṣatvaṃ | śāsuḥ | śāsu anuśiṣṭau | śvasvasihītyādinā vidhīyamāna u-pratyayo bahulavacanād asmād api draṣṭavyaḥ | tatra niditvān nuvṛtter ādyudāttatvaṃ | syonaśīḥ | syona…*
+
+*(Reading note: the print is small; "vibhāṣā gamahanavidaviśām … viśisāhacaryāt … labdhārtha eva" is compressed and cut in my reading at the ellipses [?]; Pāṇini numerals are doubtful [?]. The page ends mid-tail at "syona…", continued on p. 384. The main sense ends at "…tadvat"; the tail, from "pitṛvittaḥ", is characterized below.)*
+
+*Meaning:* Agni who is like wealth got from the father (*pitṛvittaḥ rayiḥ na*) is the giver of food (*vayodhāḥ*): as ancestral wealth, used with confidence, yields good food, so Agni, dealt with in confidence in all sacrifices, gives food. *Supraṇītiḥ* — easily led: as the instruction (*śāsuḥ*) of a learned man (*cikituṣaḥ*) who knows the law-books is taken in all matters to be performed to settle this or that doubt, so Agni is led forward in all sacrifices. And he who lies in the comfortable place such as the *gārhapatya* hearth (*syonaśīḥ*), like a guest (*atithiḥ na*) seated comfortably and honoured with water for the arghya and the feet, being gratified (*prīṇānaḥ*) with oblations — that Agni brings increase (*vi tārīt*) to the house (*sadma*) of the sacrificer who serves (*vidhataḥ*). The illustration: like the *hotṛ* (*hoteva*) — as the priest who performs the offering, the *adhvaryu*, by doing this or that rite, makes the sacrificer's house prosper with fruits.
+
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *pitṛvittaḥ* (root *vidḷ lābhe*; *niṣṭhā* in the passive; *iṭ*-prohibition; *vitta* by nipāta); *vayodhāḥ* (root *dudhāñ*; *vic* after *ā*-final); *supraṇītiḥ* (*ktin* in the passive; accent by *tāḍau ca niti*; the *gati* keeps its natural accent); *cikituṣaḥ* (*kvasu* for *liṭ*; samprasāraṇa before the genitive ending; *ṣatva*); *śāsuḥ* (root *śāsu anuśiṣṭau*; the *u* affix of the *śvasvasi…* sūtra [Uṇ.] to be seen here by the *bahula* statement; initial acute since *nit*).
+
+---
+
+### Page 384 (PDF 402)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 73".)*
+
+**Grammatical tail of the bhāṣya (concluded):** *…syonam sukhanāma | syone sukhakare gārhapatyādisthāne śete iti syonaśīḥ | kvip ceti kvip | prīṇānaḥ | prīñ tarpaṇe | karmaṇi śānac vyatyayena śnā | vidhataḥ | vidha vidhāne | vidhatiḥ paricaraṇakarmeti nairuktāḥ | tudādi-tvāc chapratyayaḥ | śaturanuma iti vibhakter udāttatvaṃ |* *(characterized: "*syona* is a name for "comfort"; "he who lies in the place such as the *gārhapatya* that gives comfort" is *syonaśīḥ*, *kvip*; *prīṇānaḥ* — root *prīñ* "to gratify", *śānac* in the passive with *śnā* by *vyatyaya*; *vidhataḥ* — root *vidha* "to arrange": "*vidhati* is a verb of service" say the Nairuktas; *śa* as it is Tudādi; the ending acute by *śatur anumo…*".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*pitṛvittaḥ* — obtained from the father; *rayiḥ na* — like wealth; *yaḥ* — which Agni; *vayodhāḥ* — giving food; *cikituṣaḥ* — the learned (knower of the law-books); *śāsuḥ na* — like the instruction; *supraṇītiḥ* — one who is to be followed easily; *yaśca* — he who; *atithiḥ na* — like a guest (honoured); *syonaśīḥ* — he who lies in comfort (in the *gārhapatya* hearth); *prīṇānaḥ* — Agni, who is honoured with oblations and the like; *vidhataḥ* — of the sacrificer who serves; *sadma* — the house; *hoteva* — like a *hotṛ*; *vi tārīt* — makes prosper.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+Like wealth obtained from the father; like the instruction of one learned in the law-books, giving food to all; like a guest lying (at the *gārhapatya* hearth), Agni, honoured with oblations and the like, makes the sacrificer's house prosper, as a *hotṛ* does (as he seeks the sacrificer's prosperity through the hymns).
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, like patrimonial wealth, is the giver of food; he is a director like the instructions of one learned in scripture; he rests in the sacrificial chamber like a welcome guest, and like an officiating priest, he brings prosperity on the house of the worshipper.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 384)*
+
+- **रयिर्न पितृवित्तः वयोधाः** — "Since *vayaḥ* is read among the twenty-eight [as read, ?] names of food — *andhaḥ*, *vājaḥ* and so on (Ni. [2-7?]) — the word *vayodhāḥ* (*annapradaḥ*) means 'giver of food'. As the wealth acquired by a father, growing in the dealings of the world, gives satisfaction to the son as food, so Agni, in the sacrifice —" *(the page ends here; continued on p. 385)*
+
+---
+
+**Progress note:** Printed pp. 1–384 done (PDF 19–402): Sūktas 62–72 complete. **Sūkta 73** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup; the ninth sūkta of Anuvāka 12; Varga "19, 20" as read [?]) begun: Sāyaṇa's introduction and heading (p. 382); **Rik 73.1** — Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha, Bhāvārtha, the source's English done (pp. 382–384) and the Special Topics begun (*vayodhāḥ*, breaking off at the foot of p. 384); its grammar page not yet seen. Next: p. 385 (PDF 403). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the bhāṣya's tail of 73.1 (p. 383) compressed and cut at the ellipses in my reading [?].
