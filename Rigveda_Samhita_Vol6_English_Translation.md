@@ -10542,4 +10542,62 @@ yo martyeṣv amṛta ṛtāvā hotā yajiṣṭha it kṛṇoti devān ||1||*
 
 ---
 
-**Progress note:** Printed pp. 1–488 done (PDF 19–506): **Sūktas 62–76 complete** (Sūkta 76's closing line, p. 486: "eppattāraneya sūktavu samāptavu"). **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup; the fourth sūkta of Anuvāka 13; Varga "25" as read [?]) begun: introduction, Anuvāda, heading (p. 487) and **Rik 77.1** — Saṃhitā, Pada, bhāṣya (tail characterized) and Pratipadārtha (pp. 487–488). Next: p. 489 (PDF 507), the Bhāvārtha, English, Special Topics and grammar page of 77.1; then Riks 77.2–77.5 and the closing line of Sūkta 77. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
+### Page 489 (PDF 507)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 77.1** *(Kannada)*
+
+To that Agni — immortal, truthful, the *hotṛ* of the gods and the performer of sacrifices — who, being among us mortals, brings the oblations and the like to the gods: what are the oblations that we should offer? Or, what praise would be fit to be used, in a manner pleasing to the gods, for that shining one?
+
+**English Translation** *(the source's own, as printed):*
+
+> What (oblations) may we offer to Agni? What praise is addressed to the luminous (Agni) that is agreeable to the Gods? that Agni who is immortal and observant of truth, who is the invoker of the Gods, the performer of sacrifices, and who (present) amongst men, conveys oblations to the deities.
+
+**॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
+
+- **कथा दाशेम अग्नये** — "How, or by what means, shall we give oblations to Agni? The sense is that it is impossible for men like us to offer oblations and other substances that are most excellent and worthy of Agni."
+- **का देवजुष्टा गीः अस्मै भामिने उच्यते** — "What should the words of praise that are offered to such a shining Agni be like? What is the best praise of that kind? The sense is that we are not capable of making best praises befitting Agni's qualities."
+- **देवजुष्टा** — *juṣī prītisevanayoḥ | sarvair devaiḥ sevitavyā* — "agreeable to all the gods, the object of their love."
+- **मर्त्येषु** — "among men who are subject to death — that is, who by nature die: men. Every one of those born must die one day. Therefore it is the convention to call men *martya* and the gods, who are free from death, *amartya*. The use of the words *martya* and *amartya* in this sense is special to the Ṛgveda."
+- **अमृतः** — *maraṇarahitaḥ* — "one who has no death; one who always is."
+- **ऋतावा** — "*ṛta* is truth or sacrifice; *ṛtāvā* means one of truthful nature, or one worthy of worship in sacrifices and the like."
+
+---
+
+### Page 490 (PDF 508)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 77".)*
+
+**Special Topics of Rik 77.1 (concluded)**
+
+- **होता** — "the one who invites the gods to accept the oblations in the sacrifices done by men (Agni)."
+- **यजिष्ठः** — *atiśayena yaṣṭā* — "the accomplisher of the offering: because Agni conveys to the gods the oblations offered by the sacrificer in the sacrifice, he is called the accomplisher of the sacrifice. Or: since without Agni there is no sacrifice, and since Agni is the chief vessel in a sacrifice, there is the convention of calling Agni *yajiṣṭha*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 77.1, noted briefly; not transcribed)*
+
+Words treated: *kathā* (the stem *kim*; the affix *thā* by *thā hetau ca chandasi*, Pā. [5-3-26], here in the sense of manner; since it is called *vibhakti* by *prāg diśo vibhaktiḥ*, Pā. [5-3-1], *kimaḥ kaḥ*, Pā. [7-2-103], gives *ka* for *kim*; the affix's accent gives the final acute). *dāśema* (root *dāś dāne*; *vidhiliṅ*, first person plural, *mas*; loss of *s* by *nityaṃ ṅitaḥ*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdāttaḥ ṅic ca*; *śap*; *iya* by *ato yeyaḥ*, Pā. [7-2-80]; loss of *y* by *lopo vyor vali*; nighāta because it follows an *atijanta*). *devajuṣṭā* (root *juṣī prītisevanayoḥ*; *kta* in the passive by *niṣṭhā*; *ṣṭutva*; "served by the gods"; by *tṛtīyā karmaṇi*, Pā. [6-2-48], the first member keeps its natural accent). *ucyate* (root *vaca paribhāṣaṇe*; *laṭ* in the passive; *e* by *ṭita ātmanepadānām ṭer e*; *yak* by *sārvadhātuke yak*; since *yak* is *kit*, samprasāraṇa of the root by *vacisvapiyajādīnāṃ kiti*, Pā. [6-1-15]; *pūrvarūpa*; nighāta because it follows an *atijanta*). *bhāmine* (root *bhā dīptau*; *manin* by *ārtistu-su…*, Uṇ. [1-142?]; the stem *bhāman*; "he has radiance", *bhāmin*, *ini* by *ata iniṭhanau*, Pā. [5-2-115]; the affix's accent gives the *i* acute) *(continued on p. 491)*.
+
+---
+
+### Page 491 (PDF 509)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**Grammar page of Rik 77.1 (concluded; noted briefly)**
+
+*ṛtāvā* ("he has *ṛta*", *ṛtāvan*; the *vanip* affix in the possessive sense by the vārttika *chandasīvanipau*; before *su*, lengthening of the penultimate by *sarvanāmasthāne cāsaṃbuddhau*, Pā. [6-4-8]; loss of *su* by *halṅyābbhyo…*; loss of *n* by *na lopaḥ prātipadikāntasya*; lengthening of the *ṛta*'s final by *anyeṣām api dṛśyate*, Pā. [6-3-137]). *yajiṣṭhaḥ* (root *yaja*; "he who most sacrifices"; *iṣṭhan* by *tuśchandasi*, Pā. [5-3-59], after the *tṛc*-final *yaṣṭṛ*, the *tṛc* is lost since *iṣṭhan* follows; the form *yajiṣṭha*; the affix being *nit*, initial acute). *kṛṇoti* (root *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, third person singular, *tip*; *u* by *dhinvikṛṇvor a ca*, Pā. [3-1-80], with *a* for the final; *uttva*; *num* by *idito num dhātoḥ*; since the word *yaḥ* is connected, nighāta is prohibited by *yadvṛttānnityam*, Pā. [8-1-66]; the *u* affix's accent keeps the word middle-acute). Ends "॥ १ ॥".
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 77.2** *(printed Ṛk "2 ||")*
+
+> यो अध्वरेषु शंतम ऋतावा होता तमू नमोभिरा कृणुध्वम् ।
+> अग्निर्यद्वेर्मर्ताय देवान्सचा बोधाति मनसा यजाति ॥ २ ॥
+
+*yo adhvareṣu śaṃtama ṛtāvā hotā tam ū namobhir ā kṛṇudhvam |
+agnir yad ver martāya devān sa cā bodhāti manasā yajāti ||2||*
+
+*(Reading note: the Saṃhitā prints "यद्वेर्" — *yad ver* — and "सचा बोधाति"; the Pada will show the divisions.)*
+
+---
+
+**Progress note:** Printed pp. 1–491 done (PDF 19–509): Sūktas 62–76 complete. **Sūkta 77** (five Ṛks; Agni; Gotama Rāhūgaṇa; Triṣṭup): Rik 77.1 complete (pp. 487–491); **Rik 77.2** (printed "2 ||") — Saṃhitā done (p. 491). Next: p. 492 (PDF 510), the Pada and the Sāyaṇa-bhāṣya of Rik 77.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced.
