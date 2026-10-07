@@ -5484,4 +5484,60 @@ vi tvā naraḥ purutrā saparyan pitur na jivrer vi vedo bharanta ||9||10||*
 
 ---
 
-**Progress note:** Printed pp. 1–275 done (PDF 19–293): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.4 complete (grammar page of 70.4 on pp. 273–274); **Rik 70.5** (printed "9 || 10 ||", numerals [?]) — Saṃhitā, Pada and the first part of the bhāṣya done (p. 275); the bhāṣya breaks off at "…iti dvirva[canābhāvaḥ]" (the Kāśikā reference on *dhiṣe*), to be continued on p. 276. Next: p. 276 (PDF 294); then the rest of 70.5 (grammar tail, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar page), Rik 70.6 (the last, printed single) and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.5 and the grammar details on p. 274 doubtful [?].
+### Page 276 (PDF 294)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**Sāyaṇa's bhāṣya of Rik 70.5 (concluded from p. 275)**
+
+> …चनाभावः । भरंते । हृञ् हरणे । केवलोऽपि सोपसर्गार्थो द्रष्टव्यः । छांदसो लोलज् । हृग्रहोर्भ इति भत्वं । पुरुत्रा । देवमनुष्यपुरुषपुरुमर्त्येभ्य इत्यादिना सप्तम्यर्थे त्रात्प्रत्ययः । जिव्रेः । ज्याष् वयोहानौ । ज्यश्वस्व्यां जाग्रुभ्यः क्विन् । उ. [४-५४?] । ऋत इद्धातोरिति इत्वं । उरण् रपरः । उणादयोऽव्युत्पन्नानि प्रातिपदिकानीति जिव्रिः किरोर्गिरोर्गिरोरित्येवमादिषु दीर्घो न भवति । का. [८-२-७६?] इत्युक्तत्वात् हलि चेति दीर्घस्याभावः । रेफवकारयोर्विपर्ययः । उक्तं च । वर्णागमो वर्णविपर्ययश्च । का. [६-३-१०९?] इति । निश्चित्वादाद्युदात्तत्वं । वेद इति धननाम । विद्यते लभ्यते इति वेदः । विद्लृ लाभे । कर्मणयसुन् ।
+
+*…canābhāvaḥ | bharante | hṛñ haraṇe | kevalo 'pi sopasargārtho draṣṭavyaḥ | chāndaso laṅ | hṛgrahor bha iti bhatvaṃ | purutrā | devamanuṣyapuruṣapurumartyebhya ity ādinā saptamyarthe trātpratyayaḥ | jivreḥ | jyāṣ vayohānau | jyaśvasvyāṃ jāgṛbhyaḥ kvin — u. [4-54?] | ṛta iddhātor iti itvaṃ | uraṇ raparaḥ | uṇādayo 'vyutpannāni prātipadikānīti jivriḥ kirorgirorgiror ity evamādiṣu dīrgho na bhavati | kā. [8-2-76?] ity uktatvāt hali ceti dīrghasyābhāvaḥ | rephavakārayor viparyayaḥ | uktaṃ ca | varṇāgamo varṇaviparyayaś ca | kā. [6-3-109?] iti | nitvād ādyudāttatvaṃ | veda iti dhananāma | vidyate labhyate iti vedaḥ | vidḷ lābhe | karmaṇy asun |*
+
+*(Reading note: this is the bhāṣya's own grammatical tail; it is characterized rather than treated in detail. The Kāśikā/Uṇādi numerals and the reading "jyaśvasvyāṃ" are doubtful [?]. The text of "jyā… jāgṛbhyaḥ kvin" is as printed; the Uṇ. numeral is read doubtfully.)*
+
+*Meaning of the tail:* *bharante* — root *hṛñ* "to carry", the simple root to be understood with the prefix's sense (*vi*), Vedic *laṅ*, *bha* for *ha* by *hṛgrahor bhaś chandasi*; *purutrā* — the affix *trā* in the sense of the locative; *jivreḥ* — root *jyā* "to lose strength with age", affix *kvin* (Uṇ.), *i* for *ṛ*, no lengthening since Uṇādi words are underived stems, with transposition of *r* and *v*; "an added letter, and a transposed letter" (as read); accent on the first syllable because the affix is *nit*; *vedaḥ* is a name for wealth: "that which is found" — root *vid* "to obtain", affix *asun* on the object.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
+
+*(agne* — O Agni, you); *vaneṣu* — in the worthy ones (belonging to us); *goṣu* — in cattle and the other beasts; *praśastim* — praise; *dhiṣe* — you establish; *viśve* — all; *naḥ* — to us; *svaḥ* — desirable; *baliṃ* — in the form of offering (wealth); *bharanta* — let them bring; (*agne* — O Agni); *tvā* — you; *naraḥ* — men; *purutrā* — in many sacrificial halls; *vi saparyan* — they worship well; (and) *jivreḥ* — aged; *pituḥ na* — as from a father (the children obtain wealth); *vedaḥ* — wealth; *vi bharanta* — they obtain specially.
+
+**॥ भावार्थः ॥ — Bhāvārtha** *(Kannada)*
+
+O Agni! May (through your grace) the best cattle and the like, and the wealth brought as tribute by all the people, come to us. Men worship you specially in many sacrificial halls with oblations and the like, and obtain wealth from you in abundance, as sons obtain wealth from an aged father.
+
+**English Translation** *(the source's own, as printed):*
+
+> Agni, confer excellence upon our valued cattle, and may all men bring us acceptable tribute; offering in many places sacrifices to you, men receive riches from you, as (sons) from an aged father.
+
+---
+
+### Page 277 (PDF 295)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **जिव्रेः पितुर्न वेदः वि भरंते** — "*jīrṇāt vṛddhāt pitur iva tvatto viśeṣeṇa dhanaṃ gṛhṇanti; yathā putrāḥ vṛddhāt pituḥ sakāśāt dhanaṃ haranti*" — "Agni, being the one who is favoured by sacrificers, priests and all, shows grace to them all; therefore they obtain from Agni wealth of many kinds. In the world, when the father has grown old the sons receive all his wealth, willingly. Like this, the priests and others receive wealth through the service of Agni — such is the meaning."
+- *Skandasvāmin's commentary* explains the word *veda* as wealth in the form of oblations, and describes it thus: "Just as for an aged father the sons bring a variety of pleasing foods and the like, so to Agni those who sacrifice offer many kinds of oblations."
+- **वनेषु** — *vananīyeṣu cāśvādiṣu | udakanāma vā vanaśabdaḥ udakeṣu* (Skandasvāmin) — "The word *vana* is read among the hundred names of water (Ni. [1-12?]; as read, ?). In the sense of horses and the like, the word is used by transfer to mean moving animals of extreme speed; the sense is that Agni grants this ability to them."
+- **वेदः** — *vidyate labhyate iti vedaḥ* | *veda iti dhananāma* — "It exists and is obtained by all; hence *veda* means wealth. *Veda* is read among the eighteen [as read, ?] names of wealth (Ni. [2-10?]), together with *maghaṃ*, *rekṇaḥ*, *iṇaḥ* and the rest. In the exposition of the Nirukta, the word *veda* — formed from the root *vid* "to obtain" — is explained: 'by this are obtained *dharma* and the like'; the example given is '*hotāraṃ viśvavedasam*' (Ṛk. Saṃ. [8-?]; as read, ?)."
+- **गोषु** — *asmadīyeṣu paśuṣu* — "The word *go* is read in the Nirukta among the meanings 'heaven, sun, horse, speech, plough-furrow, ray' (in the middle of the *āyāyā* words, ?); here it is used in the sense of animal (*paśu*). The sacrificers pray to Agni that the excellent cattle that are suited to sacrifices and the like may be obtained by us."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 70.5, noted briefly; begun at the foot of p. 277)*
+
+*dhiṣe* — root *dhāñ* "to hold, to nourish" (*ḍudhāñ*), *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; second person singular, *thās*, replaced by *se* by *thāsaḥ se* (Pā. [3-4-80]) *(continued on p. 278; grammar page, noted briefly).*
+
+---
+
+### Page 278 (PDF 296)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 70".)*
+
+**Grammar page of Rik 70.5 (continued; noted briefly, not transcribed)**
+
+*dhiṣe* (continued): *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; the non-doubling in the *liṭ* by the Kāśikā statement *dvirvacanaprakaraṇe chandasi vā vaktavyam* (Kā. [6-1-8-1?]); by *asaṃyogāl liṭ kit* (Pā. [1-2-5]) the affix is *kit*, hence loss of the *ā* of the root by *āto lopa iṭi ca* (Pā. [6-4-64]); *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ* (Pā. [8-3-59]); the nighāta accent by *tiṅ ati-ṅaḥ* (Pā. [8-1-28]) as read, since a tiṅanta word *dhiṣe* is not at the head of a pāda. *bharante* — root *hṛñ* "to carry"; though a root shows a special sense through a prefix, here the sense is conveyed by the root alone, the prefix being just an addition; the Vedic *laṅ* in the present sense; *jhi*→*jho 'ntaḥ*, with *anta*; *śap*; guṇa of *i*; *rūpa* by *ato guṇe*; no *aḍ* augment by *bahulaṃ chandasy āmāṅyoge 'pi* (Pā. [6-4-75]); *bha* for the *ha* of the root by *hṛgrahor bhaś chandasi*; because of the prohibition *atijaḥ*, no nighāta; the root accent remains. *purutrā* — *trā* by *devamanuṣyapuruṣapurumartyebhyo dvitīyā…* (Pā. [5-4-56]), in the sense of the locative. *jivreḥ* — root *jyāṣ* "to lose strength"; *kvin* by *jyaśvasvyāṃ…* (Uṇ. [4-54?]); *ṛta id dhātoḥ* (Pā. [7-1-100]) gives *i* for *ṛ*; *uraṇ raparaḥ*; the lengthening by *halica* is not applicable, as the Kāśikā statement "Uṇādi words are underived stems; with *jivri*, *kiri*, *giri* the long is not made" (Kā. [8-2-76?]) explains; the transposition of *r* and *v* is Vedic; *kvin* being *nit*, the first syllable is acute (*ñnityādir nityam*). *vedaḥ* — *veda* a name for wealth; root *vidḷ* "to obtain", *asun* on the object *… (page ends here; the rest on p. 279).* *Grammar pages, noted briefly; sūtra numerals read as printed and doubtful [?].*
+
+---
+
+**Progress note:** Printed pp. 1–278 done (PDF 19–296): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.4 complete; **Rik 70.5** (printed "9 || 10 ||", numerals [?]) — Saṃhitā, Pada, bhāṣya (with its tail on p. 276), Pratipadārtha, Bhāvārtha, the source's English, Special Topics (p. 277) and most of the grammar page (pp. 277–278) done; the grammar page breaks off at *vedaḥ* at the foot of p. 278. Next: p. 279 (PDF 297), the end of that grammar page; then Rik 70.6 (the last, printed single; Ṛk numerals [?]) and the closing line of Sūkta 70. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the Ṛk numerals of 70.5 and the Special Topics Nirukta numerals on p. 277 doubtful [?].
