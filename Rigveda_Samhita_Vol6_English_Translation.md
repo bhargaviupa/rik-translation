@@ -13560,4 +13560,77 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ---
 
-**Progress note:** Printed pp. 1–592 done (PDF 19–610): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.8 complete** (Special Topics and grammar of 80.8 on pp. 590–591); **Rik 80.9** — Saṃhitā, Pada and bhāṣya (p. 592) done (one clause of the bhāṣya illegible, marked [?]); its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar not yet seen. Next: p. 593 (PDF 611). Seven Ṛks (80.10–80.16) remain after 80.9. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
+### Page 593 (PDF 611)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 38" at the foot.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.9** *(Kannada)*
+
+- **स्वराज्यम्** — "(Indra's) lordship"
+- **अनु अर्चन्** — "displaying"
+- **सहस्रम्** — "a thousand in number — that is, many people"
+- **साकमर्चते** — "(they) worshipped (Indra) at one time"
+- **विंशतिः** — "sixteen priests, the sacrificer, his wife, the *sadasya* and the *śamitṛ* — twenty people"
+- **परि स्तोभत** — "stood all around and praised"
+- **शता** — "a hundred people (ṛṣis)"
+- **एनम्** — "him (Indra)"
+- **अनोनवुः** — "praised again and again"
+- **इन्द्राय** — "for this very Indra"
+- **ब्रह्म** — "food (in the form of oblation) (to offer)"
+- **उद्यतम्** — "has been lifted up (held up)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 80.9** *(Kannada)*
+
+"Displaying Indra's lordship, a thousand people worshipped him; twenty people (the priests and so on) praised him; a hundred ṛṣis praised him again and again; and the oblation was made ready for offering to this very Indra."
+
+**English Translation** *(printed in English in the source)*
+
+"A thousand mortals worshipped him together; twenty have hymned (his praise); a hundred (sages) repeatedly glorify him; so, Indra, is the oblation lifted up, manifesting your own sovereignty." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.9)**
+
+- **सहस्रं साकमर्चते, परि ष्टोभत विंशतिः, शतैनमन्वनोनवुः** — *sahasrasaṃkhyākāḥ manuṣyāḥ* — "'people of the number a thousand' means that a thousand people together, at one and the same time, worshipped this Indra. Sāyaṇa has explained that twenty people — the sixteen priests, the sacrificer, his wife, the *sadasya* and the *śamitṛ* — who belong to the sacrifice, and a hundred ṛṣis, all together, praised Indra. Skandasvāmin explains it thus — *arcata* = *stotā*: 'praise!'; *pariṣṭobhata* = 'worship!' — and so, 'O sons, O grandsons, O priests, may you praise Indra so as to be a thousand in number, and so as to be twenty in number; worship him!' By this, the words *sahasra*, *śata*, *viṃśati* ('a thousand', 'a hundred', 'twenty') do not have the rule that they denote only that number: the sense also appears that even a single person may worship and praise Indra as though he were so many" *(the sentence breaks off at the foot of the page and continues on p. 594)*
+
+### Page 594 (PDF 612)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 80".)*
+
+*Special Topics of Rik 80.9, continued:*
+
+"…and further the word *arcan* is used in the sense of *arcati*. By this, *na* (the *nṛ* of *naḥ*) 'for us' — or 'for the sake of us' — he explains: 'may you protect all of us, so that your sovereignty (*svarājya*) may be pleasing; may our kingdom also be maintained with restraint'. The words *sahasra*, *śata*, *viṃśati* are words denoting the ṛṣis and deities of that number. Or one may say that the words *śata* and *sahasra* have manifold senses; and —
+
+> आ यदिन्द्रश्च दद्वहे सहस्रं वसुरोचिषः ।
+
+*ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ |* (Ṛk. Saṃ. 8-[34]-[18] [?]) — *Gloss, mine and tentative:* "When Indra and we (the *Vasurociṣas*) received a thousand."
+
+— in this Ṛk, for the word *sahasram* the sense 'those who praise the well-known Indra, the *vasurociṣaḥ*, a thousand in number: the ṛṣis' is given. By the word *viṃśati*, 'twenty', the twenty Aṅgirases may be understood. In the *itihāsa* the Aṅgirases are well known as ten persons; but if one counts Bṛhaspati and the other brothers, the Aṅgirasa-ṛṣis come to twenty. These also, together with the thousand *vasurociṣas*, praise Indra. According to the statement '*pavasnetraiyā …*' [as read: '*havasnetrai(?)yaiḥ sūktaṃ śataṃ vaikhānasā viduḥ*' — the quotation is read with doubt [?]] the Vaikhānasas too, a hundred persons, praise Indra. And he explains that those who perform the sacrifice also praise Indra."
+
+- **ब्रह्म** — "the word *brahma* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. [2-7] [?]), so it conveys the sense of 'food'. The sense is 'offer food in the form of oblation for Indra'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.9)** *(grammar page, noted briefly; runs to p. 595)*
+
+- **अर्चते** [as printed] — the root *arca pūjāyām* (अर्च पूजायाम्); by "vyatyayo bahulam" the *jhi* replacement in the *laṅ* arises [as read]; by "bahulaṃ chandasi" the *luk* of *śap*; by "ātmanepadeṣv anataḥ" (Pā. Sū. 7-1-5) *at* for the affix *jha*; by "bahulaṃ chandasy amāṅyoge 'pi" the augment *aṭ* does not come; nighāta accent since *atiṅanta* in the pāda.
+- **परिष्टोभत** — the root *stubha* is used in the sense of praising; the *laṅ*, as before, third person plural; by "upasargāt sunoti-suvati-syati-stauti-stobhati-…" (उपसर्गात्सुनोतिसुवतिस्यतिस्तौतिस्तोभतिस्था…, Pā. Sū. 8-3-65) the *s* of the root becomes *ṣ*; nighāta accent for the root.
+
+### Page 595 (PDF 613)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Grammar of Rik 80.9, continued from p. 594:*
+
+- **अनोनवुः** — the root *ṇu stutau* (णु स्तुतौ), *adādi*; by "ṇo naḥ" (णो नः, Pā. Sū. 6-1-65) *n* replaces the initial *ṇ*; in the sense of intensity by "dhātor ekācho halādeḥ kriyāsamabhihāre yaṅ" the affix *yaṅ*; the *luk* of it by "yaño 'ci ca"; reduplication of the root by "sanyaṅoḥ"; the guṇa of the reduplicative by "guṇo yaṅluk-oḥ" (Pā. Sū. 7-4-82); in the *luṅ*, third person plural, the affix *jhi*; *cli* by "cli luṅi"; *sic* for it by "cleḥ sic"; for the *jhi* following *sic*, by "sijabhyastavidibhyaś ca" (सिजभ्यस्तविदिभ्यश्च, Pā. Sū. 3-4-109) the substitute *us*; by "hrasvād aṅgāt" (ह्रस्वादङ्गात्, Pā. Sū. 8-2-27) the elision of *sic*; the guṇa-*av* replacement for *ū*; the augment *aṭ* for the stem; thus *anonavuḥ*; nighāta accent since *atiṅanta* in the pāda.
+- **उद्यतम्** — *ut* is the preposition; the root *yamu uparame*; the affix *kta* in the passive for this root, which is preceded by *ut*; when *udyam* + *ta* stands thus, since the affix is *k*-marked, the affix comes after; by "anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti" (Pā. Sū. 6-4-37) the nasal of the root is dropped; by "gatir anantaraḥ" (गतिरनन्तरः, Pā. Sū. 6-2-49) the *gati* (*ut*) keeps its natural accent; second-case singular. ||9||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.10**
+
+> इन्द्रो वृत्रस्य तविषीं निरहन्त्सहसा सहः ।
+> महत्तदस्य पौंस्यं वृत्रं जघन्वाँ असृजदर्चन्ननु स्वराज्यम् ॥ १० ॥
+
+*indro vṛtrasya taviṣīṃ nir ahan sahasā sahaḥ |
+mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājyam ||10||*
+
+---
+
+**Progress note:** Printed pp. 1–595 done (PDF 19–613): **Sūktas 62–79 complete.** **Sūkta 80** (sixteen Ṛks; Indra; Gotama Rāhūgaṇa; Paṅkti; Varga "29, 30, 31" as read [?]) in progress: Riks **80.1–80.9 complete** (grammar of 80.9 on pp. 594–595); **Rik 80.10** — Saṃhitā (p. 595) done. Next: p. 596 (PDF 614) — Pada and bhāṣya of 80.10. Six Ṛks (80.11–80.16) remain after 80.10. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā/Aitareya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on earlier pages (512, 515, 517–518, 525, 545–546, 551, 579, 587, 590, 594); the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525, 530 and 538 given as read; the Nirukta quotation on *varṣitā* (p. 569) read with doubt; the accent arguments in the bhāṣya of 80.6, 80.8 and the compressed clause in 80.9 read with doubt.
