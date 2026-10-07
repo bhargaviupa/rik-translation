@@ -11614,4 +11614,99 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 ---
 
-**Progress note:** Printed pp. 1–527 done (PDF 19–545): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: **Rik 79.1 complete** (heading and introduction pp. 521–522; text, bhāṣya, Pratipadārtha, Bhāvārtha and English pp. 522–524; Special Topics pp. 524–526 split where the print splits them; grammar page p. 527, noted briefly). Next: p. 528 (PDF 546) — Rik 79.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska line on p. 525 given as read.
+### Page 528 (PDF 546)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.2**
+
+> आ ते सुपर्णा अमिनन्त एवैः कृष्णो नोनाव वृषभो यदीदम् ।
+> शिवाभिर्न स्मयमानाभिरा गात्पतन्ति मिहः स्तनयन्त्यभ्रा ॥ २ ॥
+
+*ā te suparṇā aminanta evaiḥ kṛṣṇo nonāva vṛṣabho yadīdam |
+śivābhir na smayamānābhir ā gāt patanti mihaḥ stanayanty abhrā ||2||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> आ । ते । सुऽपर्णाः । अमिनन्त । एवैः । कृष्णः । नोनाव । वृषभः । यदि । इदम् ।
+> शिवाभिः । न । स्मयमानाभिः । आ । अगात् । पतन्ति । मिहः । स्तनयन्ति । अभ्राः ॥ २ ॥
+
+*ā | te | su-parṇāḥ | aminanta | evaiḥ | kṛṣṇaḥ | nonāva | vṛṣabhaḥ | yadi | idam | śivābhiḥ | na | smayamānābhiḥ | ā | agāt | patanti | mihaḥ | stanayanti | abhrāḥ ||2||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.2** *(Sanskrit in Kannada script; doubtful places [?]; the bhāṣya breaks off at the foot of this page and resumes at the head of p. 529)*
+
+> हे अग्ने ते तव सुपर्णाः शोभनपतना रश्मय एवैर्गन्तृभिर्मरुद्भिः सहामिनन्त । आ समन्तान्मेघं हिंसन्ति । वर्षणार्थं ताडयन्ति । प्रकृतश्च कृष्णः कृष्णवर्णो वृषभो वर्षिता मेघो नोनाव भृशं शब्दमकरोत् । यदि यदेदमीदृशं कर्म तदानीं शिवाभिः सुखकारिणीभिः स्मयमानाभिर्हसनवतीभिः कान्ताभिरिव शुभ्रवर्णाभिः फेनयुक्ताभिरद्भिर्विद्युद्भिर्वा सहागात् । वैद्युताग्निप्रेरितः पर्जन्य आगच्छति । तदनन्तरं मिह आपः पतन्ति । दिवः सकाशाद्वृष्टा भवन्ति । अभ्राभ्राण्यद्भिः पूर्णा मेघाः स्तनयन्ति । इतस्ततः शब्दं कुर्वन्ति ॥ अमिनन्त । मीञ् हिंसायाम् । क्र्यादिकः । व्यत्ययेनान्तादेशः । ईषाक्षादित्वात्प्रकृतिभावः [?] । आनोऽस्यागृहस्य [?] । पा. ७-४-३२ [?] । इति वैकल्पिकमवसाने विधीयमानमनुनासिकत्वं व्यत्ययेन-
+
+*he agne te tava suparṇāḥ śobhanapatanā raśmaya evair gantṛbhir marudbhiḥ sahāminanta | ā samantān megham hiṃsanti | varṣaṇārthaṃ tāḍayanti | prakṛtaś ca kṛṣṇaḥ kṛṣṇavarṇo vṛṣabho varṣitā megho nonāva bhṛśaṃ śabdam akarot | yadi yadedam īdṛśaṃ karma tadānīṃ śivābhiḥ sukhakāriṇībhiḥ smayamānābhir hasanavatībhiḥ kāntābhir iva śubhravarṇābhiḥ phenayuktābhir adbhir vidyudbhir vā sahāgāt | vaidyutāgniprerītaḥ parjanya āgacchati | tadanantaraṃ miha āpaḥ patanti | divaḥ sakāśād vṛṣṭā bhavanti | abhrābhrāṇy adbhiḥ pūrṇā meghāḥ stanayanti | itas tataḥ śabdaṃ kurvanti || aminanta | mīñ hiṃsāyām | kryādikaḥ | vyatyayenāntādeśaḥ | īṣākṣādittvāt prakṛtibhāvaḥ [?] | āno 'syāgṛhasya [?] | pā. 7-4-32 [?] | iti vaikalpikam avasāne vidhīyamānam anunāsikatvaṃ vyatyayena-*
+
+*Sense:* "O Agni, your *suparṇāḥ* — rays of beautiful flight — strike (*aminanta* = *hiṃsanti*) the cloud on all sides together with the moving (*evaiḥ* = *gantṛbhiḥ*) Maruts: they smite it for the sake of rain. And the cloud under discussion, black, the showerer (*vṛṣabha*), roars exceedingly (*nonāva*). When (*yadi*) such a deed occurs, then (the cloud) comes together with auspicious, smiling waters — like fair women laughing — foamy and white of colour, or with lightnings. Parjanya, impelled by the lightning-Agni, comes; thereafter the *mihaḥ*, the waters, fall: rains come down from heaven; the clouds, full of water, thunder, making sound this way and that."
+
+### Page 529 (PDF 547)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 34" at the foot.)*
+
+*Bhāṣya of Rik 79.2, continued from p. 528:*
+
+> …नात्र संहितायामपि द्रष्टव्यम् । नोनाव । नौतेर्यङ्लुगन्ताल्लिट्यमन्त्रे । पा. ३-१-३५ [?] इति निषेधादाम्प्रत्ययाभावः । स्मयमानाभिः । स्मिङ् ईषद्धसने । शपः पित्त्वादनुदात्तत्वम् । शानचो लसार्वधातुकस्वरेण धातुस्वरः शिष्यते । स्तनयन्ति । स्तन शब्दे । चुरादिरदन्तः । पतन्ति स्तनयन्तीत्यनयोः पादादित्वाद्वाक्यादित्वाच्च निघाताभावः ॥
+
+*…nātra saṃhitāyām api draṣṭavyam | nonāva | nauter yaṅluganāt liṭy amantre | pā. 3-1-35 [?] iti niṣedhād āmpratyayābhāvaḥ | smayamānābhiḥ | smiṅ īṣaddhasane | śapaḥ pittvād anudāttatvam | śānaco lasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | stanayanti | stana śabde | curādir adantaḥ | patanti stanayantīty anayoḥ pādādittvād vākyādittvāc ca nighātābhāvaḥ ||*
+
+*The grammatical tail (characterized, not transcribed in detail):* …and the nasalisation optionally prescribed at a pause is to be seen here by *vyatyaya* even within the Saṃhitā (the sentence runs on from p. 528). *Nonāva* — the root *nu* (*nau*) in the intensive (*yaṅ-luk*) in the *liṭ* outside a mantra… the *āṃ* affix is not added, being forbidden by a sūtra (Pā. 3-1-35 [?]). *Smayamānābhiḥ* — root *smiṅ īṣaddhasane*; *śap* being *p*-marked is anudātta; the root-accent remains by the *lasārvadhātuka* accent rule for *śānac*. *Stanayanti* — root *stana śabde*, of the *curādi* group, ending in *a*. *Patanti*, *stanayanti*: no nighāta, as each stands at the beginning of a pāda or a sentence.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 79.2** *(Kannada)*
+
+- **(अग्ने)** — "O Agni!"
+- **ते** — "your"
+- **सुपर्णाः** — "(rays) that fall beautifully, or that spread (the rays)"
+- **एवैः** — "with the swiftly moving Maruts (winds)"
+- **आ अमिनन्त** — "strike (the clouds) on all sides"
+- **कृष्णः** — "black"
+- **वृषभः** — "the cloud that produces rain"
+- **नोनाव** — "roared greatly"
+- **यदि इदम्** — "when this work (is going on)" (*then*)
+- **शिवाभिः** — "delightful"
+- **स्मयमानाभिः न** — "like the rows of teeth of smiling women" (*the shining rain-waters*)
+- **आ अगात्** — "comes (falls)" — (*afterwards*) **मिहः** — "water"
+- **पतन्ति** — "falls (from the sky)"
+- **अभ्राः** — "the clouds filled with water"
+- **स्तनयन्ति** — "thunder (make sound)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 79.2** *(Kannada)*
+
+"Your rays, accompanied by the moving wind and of exceedingly brilliant shining, make the clouds suffer. Because of that the black clouds thunder; thereafter the white drops, like the radiance of the teeth of smiling women, fall; the rain falls from the sky; the clouds roar."
+
+**English Translation** *(printed in English in the source)*
+
+"Your falling (rays), accompanied by the moving (Maruts), strike against (the cloud); the black shedder of rain has roared; when this is done (the shower) comes hith [sic] delightful and smiling (drops), the rain descends, the clouds thunder." — as printed; "hith" is a misprint for "hither" [sic].
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.2)**
+
+**मुख्याभिप्रायवु (the chief intent)** — "In this Ṛk the ṛṣi describes the rain falling with a great roar from lightning, thunderbolt and thunder. The lightning, shining in the sky like gold, lights up the whole *antarīkṣa* with its own radiance, and in the midst of the black clouds, full of water, the bolt (*śiḍilu*) becomes manifest with a great sound (*mahāśabda*). In that very moment a thunderous noise, which makes the ears split (*karṇaśakora-*)" *(the sentence breaks off at the foot of the page — "…and the sound of the bolt is heard" — and continues on p. 530; split where the print splits it)*
+
+### Page 530 (PDF 548)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics continued:*
+
+"…is heard — this very thing the ṛṣi describes as follows: Agni of the form of lightning, with the help of the Maruts (the winds), shakes the water-laden black clouds and strikes them; the clouds, pained by those blows, make a roar (*ārbhaṭa*) of bolt and thunder, that is, they weep (cry); and he sends down rain-water, the cause of food and other nourishment, upon the earth; and the sudden-seen radiance of the lightning in the *antarīkṣa* is like the smile of young women. With the roar of bolt and lightning, the water-drops of the rain fall on the earth along with the sound of thunder."
+
+- **सुपर्णाः अमिनन्त** — *śobhanapatanā raśmayaḥ* — "(Agni's) rays of beautiful fall: that is, the rays of the lightning that spread downwards. The glow of the lightning falls on the black clouds and injures (strikes) them — this is the meaning."
+- **एवैः** — *evair gantṛbhir marudbhiḥ* — "since the word *eva* has the sense of 'going, moving', the bhāṣyakāra explains it as 'the ever-moving Maruts (the winds that blow impetuously)'. It is natural that the wind should blow impetuously when it rains heavily."
+- **कृष्णो वृषभः** — *kṛṣṇavarṇo varṣitā meghaḥ* — "clouds black, that pour rain; clouds full of water are black before the rain. In the meeting when heavy rain comes, the black clouds gather in the *antarīkṣa* and make it dark; therefore the ṛṣi uses the word *kṛṣṇa* 'black'. Yāska, about the word *vṛṣabha*, quoting the Ṛk —
+
+> प्र नो महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+
+*pra no mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |* (Ṛk. Saṃ. 1-[59]-6 [?]) — *Gloss, mine and tentative:* "Let me proclaim the greatness of the bull, whom the Pūrus attend, the slayer of Vṛtra"
+
+— gives the explanation *vṛṣabhasya* = *varṣitur apām*, 'of the shedder of the waters' (Ni. 2-[23] [?]) and again —
+
+> वृषभः । वृषभः प्रजां वर्षतीति वा अतिब्रूहति रेते इति वा तद्वृषकर्मा वर्षणाद्वृषभः ॥
+
+*vṛṣabhaḥ | vṛṣabhaḥ prajāṃ varṣatīti vā atibrūhati rete iti vā tad vṛṣakarmā varṣaṇād vṛṣabhaḥ ||* (Ni. [4-?]-22 [?]) — *the print of this line is compressed and the words after* varṣatīti vā *are read with doubt [?]. Gloss, mine and tentative:* "*Vṛṣabha*: because he showers (*varṣati*) the creatures, or because he … in the seed; he whose action is that of a bull; *vṛṣabha* from showering."
+
+and so he has given the derivation of the form of the word *vṛṣabha*. That is: the male who sheds in the womb the seed (virility), the cause of the birth of offspring, is called *vṛṣabha*. Or, the word *retaḥ* (…" *(the passage breaks off at the foot of p. 530 in mid-sentence: "…the word *retaḥ* means water, [and]…" continues on p. 531)*
+
+---
+
+**Progress note:** Printed pp. 1–530 done (PDF 19–548): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: **Rik 79.1 complete**; **Rik 79.2** — Saṃhitā, Pada, bhāṣya and its grammatical tail (pp. 528–529), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 529–530) done; the Special Topics of 79.2 break off at the foot of p. 530 (at *retaḥ*, mid-sentence) and continue on p. 531 (PDF 549), then the grammar page of 79.2. Next: p. 531 (PDF 549). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska lines on pp. 525 and 530 given as read.
