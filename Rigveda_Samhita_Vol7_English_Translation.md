@@ -2742,4 +2742,84 @@ nakiṣ ṭvānu majmanā nakiḥ svaśva ānaśe ||6||*
 
 ---
 
-**Progress note:** Printed pp. 1–98 done (PDF 16–113) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.6 complete** (grammar of 84.6 on pp. 95–97); **Rik 84.7** (first Uṣṇih Ṛk) — Saṃhitā, Pada, application note (p. 97), bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics (p. 98) done; its grammar page not yet seen. Next: printed p. 99 (PDF 114). Thirteen Ṛks (84.8–84.20) remain after 84.7. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
+### Page 99 (PDF 114)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 84.7, continued from p. 98:*
+
+- **अङ्ग** — "In this Ṛk, and in the next two Ṛks as well, in the last pāda the words *indro aṅga* ('Indra, *aṅga*') are read. For the word *aṅga* Yāska says: '*aṅgeti kṣipranāma; aṅgam añcanād vā aṅgitaṃ ca kṣaṇena bhavati gatam ity arthaḥ; añcanād vā añceḥ…*' (Ni. [?-?] [?]) — '*aṅga* is a name for "quickly"; or from *añcana* (going), what is "gone" in an instant' — the print gives the explanation 'the word *aṅga* also is derived from one of two roots of the sense of going, *aṅganāt* and *añcanāt*; both these roots mean going; hence the sense 'going quickly' must be given to *aṅga*'. The bhāṣyakāra has explained this word as *kṣipra*, 'quickly'. Western scholars, because the word occurs here in this Ṛk and in the next two with the word *indra*, and because no meaning fits it elsewhere, take the word *aṅga* as an exclamation of wonder."
+- **अप्रतिष्कुतः** — *paryair apratiśabditaḥ pratikūlaśabdarahitaḥ* — "one against whom no one speaks: *undisputed, unopposed*, with no one to oppose what he says."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 84.7)** *(grammar page, noted briefly; runs to p. 100)*
+
+- **विदयते** — *vi* is a preposition; the root *daya dānagatirakṣaṇahiṃsādāneṣu*, *bhvādi*, *ātmanepadī*; had the stem-marker *śap* been made, *dayate* would result; since *śap* is *pit*, by "anudāttau suppitau" (Pā. Sū. 3-1-4) it is anudātta; if the accent of the affix *ta* were udātta, then by "tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam" (Pā. Sū. 6-1-186) it would be anudātta, being *lasārvadhātuka*; then the root-accent alone remains, and, by "dhātoḥ" (Pā. Sū. 6-1-162), the root's final vowel is udātta; when the *a*-vowel of *ya* is udātta, the *y* [*ya*] before an udātta syllable is svarita, and the anudātta syllables after the svarita become *pracaya*. By "tiṅ atiṅaḥ" the total anudātta would arise; but "nipātair yadyadihantakuvit…" (Pā. Sū. 8-1-30) bars the nighāta, since *yaḥ* in the previous pāda is connected.
+- **अप्रतिष्कुतः** — *na pratiṣkutaḥ apratiṣkutaḥ*; *prati* is a preposition; the root *ku śabde*, *adādi*; the affix *kta* in the passive; because it is *k*-marked no guṇa for the root; "what is made to sound (*kūyate*) against" is *pratiṣkuta*, one 'spoken against'; the word *apratiṣkuta* is made in the sense 'one who is not (spoken against)'. By "pāraskaraprabhṛtīni ca saṃjñāyām" (Pā. Sū. 6-1-157) the words listed in this gaṇa take *suṭ* and are *nipātita* when they are names. This is an *ākṛtigaṇa*: that is, words that are likewise *suṭ*-bearing by other śāstras may be understood to be included in this gaṇa. Thus *pratiṣkuta* is found with *suṭ*; for this there is no other rule, so one must understand that it is read in the *pāraskara* gaṇa. *Suṭ* …
+
+### Page 100 (PDF 115)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 84".)*
+
+*Grammar of Rik 84.7, concluded:*
+
+- **अप्रतिष्कुतः** (concluded) — "…since *suṭ* is neither a substitute nor an affix, *ṣatva* does not come by "ādeśapratyayayoḥ" (Pā. Sū. 8-3-59); hence, since *suṣāmādi* words are read in the *suṣāmādi* group, "suṣāmādiṣu ca" (Pā. Sū. 8-3-98) gives *ṣatva*. *Na pratiṣkutaḥ apratiṣkutaḥ*: a *nañ*-compound; the *n* of *nañ* is dropped by "nalopo nañaḥ" (Pā. Sū. 6-3-73) before a following member that begins with a vowel [*a*-initial?]; only *a* remains. By "avyaye nañ kunipātānām" (Pā. Sū. 6-2-[?]) the first member, an indeclinable, keeps its natural accent: *a* is udātta; since it precedes an udātta, the *a* of *pra* in *prati* becomes svarita; the remaining anudāttas after the svarita become *pracaya*." ||7||
+
+*Grammar page, noted briefly; sūtra numerals tentative [?].*
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 84.8**
+
+> कदा मर्तमराधसं पदा क्षुम्पमिव स्फुरत् ।
+> कदा नः शुश्रवद्गिर इन्द्रो अङ्ग ॥ ८ ॥
+
+*kadā martam arādhasaṃ padā kṣumpam iva sphurat |
+kadā naḥ śuśravad gira indro aṅga ||8||*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> कदा । मर्तम् । अराधसम् । पदा । क्षुम्पम्ऽइव । स्फुरत् ।
+> कदा । नः । शुश्रवत् । गिरः । इन्द्रः । अङ्ग ॥ ८ ॥
+
+*kadā | martam | arādhasam | padā | kṣumpam-iva | sphurat | kadā | naḥ | śuśravat | giraḥ | indraḥ | aṅga ||8||*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 84.8** *(Sanskrit in Kannada script; doubtful places [?]; continues on p. 101)*
+
+> अराधसं हविर्लक्षणेन राधसा धनेन रहितं । अयष्टारमित्यर्थः । एवंविधं मर्तं मनुष्यमिन्द्रः पदा पादेन क्षुम्पमिवाहिच्छत्रकमिव कदा स्फुरत् । स्फुरिष्यति । वधिष्यति । यथाहिच्छत्रं मण्डलाकारेण शयानं कश्चिदनायासेन पादेन हन्ति एवमिन्द्रोऽपि कदास्मच्छत्रून् हनिष्यतीत्यर्थः । स्फुरतिर्वधकर्मा । स्फुरति स्खलतीति वधकर्मसु पठितत्वात् । सोऽस्माकं यष्टॄणां गिरः स्तुतिलक्षणा वाचः इन्द्रः कदा कस्मिन्काले । अङ्ग क्षिप्रं शुश्रवत् । श्रोष्यतीति वितर्क्यते । अत्र निरुक्तं । क्षुम्पमहिच्छत्रकं भवति यत् क्षुभ्यते । कदा मर्तमनाराधयन्तं पादेन क्षुम्पमिवास्फुरिष्यति । कदा नः श्रोष्यति गिर इन्द्रोऽङ्ग । अङ्गेति क्षिप्रनाम । नि. ३-१८ [?] इति ॥ पदा । पाद्शब्दस्य पद्न्नित्यादिना पदादेशः । ऊडिदमिति विभक्तेरुदात्तत्वम् । क्षुम्पमिव । क्षुभ संचलने । अस्मात्कर्मणि घञ् । बहुलवचनाद्भाषोर्नुमागमः । वर्णव्यापत्त्या भकारस्य पकारः । स्फुरत् । स्फुर संचलने । छन्दसि लुङ्लङ्लिट इति लृडर्थे लङ् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । शुश्रवत् । श्रु श्रवणे । लेट्यडागमः । बहुलं छन्दसीति शपः श्लुः ॥ ८ ॥
+
+*arādhasaṃ havirlakṣaṇena rādhasā dhanena rahitaṃ | ayaṣṭāram ity arthaḥ | evaṃvidhaṃ martaṃ manuṣyam indraḥ padā pādena kṣumpam ivāhicchatrakam iva kadā sphurat | sphuriṣyati | vadhiṣyati | yathāhicchatraṃ maṇḍalākāreṇa śayānaṃ kaścid anāyāsena pādena hanti evam indro 'pi kadāsmacchatrūn haniṣyatīty arthaḥ | sphuratir vadhakarmā | sphurati skhalatīti vadhakarmasu paṭhitatvāt | so 'smākaṃ yaṣṭṝṇāṃ giraḥ stutilakṣaṇā vācaḥ indraḥ kadā kasmin kāle | aṅga kṣipraṃ śuśravat | śroṣyatīti vitarkyate | atra niruktaṃ | kṣumpam ahicchatrakaṃ bhavati yat kṣubhyate | kadā martam anārādhayantaṃ pādena kṣumpam ivāsphuriṣyati | kadā naḥ śroṣyati gira indro 'ṅga | aṅgeti kṣipranāma | ni. 3-18 [?] iti || padā | pādśabdasya padn ity ādinā padādeśaḥ | ūḍidam iti vibhakter udāttatvam | kṣumpam iva | kṣubha sañcalane | asmāt karmaṇi ghañ | bahulavacanād bhāṣor numāgamaḥ | varṇavyāpattyā bhakārasya pakāraḥ | sphurat | sphura sañcalane | chandasi luṅlaṅliṭa iti lṛḍarthe laṅ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | śuśravat | śru śravaṇe | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapaḥ śluḥ || 8 ||*
+
+*Sense:* "*Arādhasam* — one lacking *rādhas*, wealth in the form of oblations: that is, a non-sacrificer. When will Indra *sphurat* — will he kick, strike down (*vadhiṣyati*) such a mortal with his foot, like a *kṣumpa* — a toadstool-like mushroom (*ahicchatraka*, 'snake's umbrella')? As someone effortlessly kicks with the foot an *ahicchatra* lying in a round shape, so when will Indra slay our enemies? (*sphurati* is a verb of slaying: it is read among the verbs of slaying — *sphurati*, *skhalati*.) When will that Indra *śuśravat* — hear (it is conjectured: *śroṣyati*) quickly (*aṅga*) our (the sacrificers') *giraḥ*, speeches of the form of praise? Here the Nirukta: '*kṣumpam* is the *ahicchatraka*, that which is crushed (*kṣubhyate*). When will he strike with his foot a mortal who does not worship, like a mushroom (*kṣumpa*)? When will Indra hear our speeches, *aṅga*?' *Aṅga* is a name for 'quickly' (Ni. 3-18 [?])." *The grammatical tail* (characterized): *padā* — the substitution of *pad* for *pād*; the case-ending udātta by "ūḍidam…"; *kṣumpam iva* — the root *kṣubha sañcalane* with *ghañ*, the augment *num* by the word *bahulam*, *bh* becoming *p*; *sphurat* — the root *sphura sañcalane*, a Vedic *laṅ* in the future sense, no augment *aṭ*; *śuśravat* — the *leṭ* of *śru*, with *aṭ*; *ślu* for *śap*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 84.8** *(Kannada)*
+
+- **अराधसम्** — "devoid of wealth in the form of oblations (one who does not perform sacrifice)"
+- **मर्तम्** — "the man"
+- **इन्द्रः** — "Indra"
+- **पदा** — "with the foot"
+- **कदा** — "when"
+- **क्षुम्पम् इव** — "as one tramples a coiled snake-mushroom (so as to crush it easily)"
+- **स्फुरत्** — "will he trample?"
+- **नः** — "our"
+- **गिरः** — "words of the form of praise"
+- **कदा** — "when"
+- **अङ्ग** — "quickly"
+- **शुश्रवत्** — "will he hear?"
+
+### Page 101 (PDF 116)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 6, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 84.8** *(Kannada)*
+
+"When will Indra, as one effortlessly tramples a coiled snake-mushroom, trample the man who offers no oblations? When will he, quickly (*aṅga*), hear the words of praise of us, the sacrificers?"
+
+**English Translation** *(printed in English in the source)*
+
+"When will Indra trample, with his foot, unsacrificing mortal like a coiled up snake ? when will Indra hear our praises ?" — as printed ("coiled np snake" is a misprint for "coiled up snake" in the print as scanned, [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 84.8)**
+
+- **अराधसम्** — *havirlakṣaṇena rādhasā dhanena rahitam, ayaṣṭāram* — "one who is devoid of wealth in the form of oblation, that is, one who does not perform sacrifices. *Rādhas*: *rādha* is a name of wealth; *arādhasam* means one with no wealth — or, since he has no wealth, and is therefore poor, one unable to perform sacrifice: so the meaning is given. This explanation is not very coherent; the bhāṣyakāra's explanation is the right one."
+
+---
+
+**Progress note:** Printed pp. 1–101 done (PDF 16–116) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82 and 83 complete.** **Sūkta 84** (twenty Ṛks; Indra; Gotama Rāhūgaṇa; printed pp. 81–142): Riks **84.1–84.7 complete** (grammar of 84.7 pp. 99–100); **Rik 84.8** — Saṃhitā, Pada, bhāṣya, Pratipadārtha (pp. 100–101), Bhāvārtha, English and the first Special Topic (p. 101) done; the rest of the Special Topics and the grammar of 84.8 not yet seen. Next: printed p. 102 (PDF 117). Twelve Ṛks (84.9–84.20) remain after 84.8. The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92.
