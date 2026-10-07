@@ -4062,4 +4062,75 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 ---
 
-**Progress note:** Printed pp. 1–203 done (PDF 19–221): **Sūktas 62, 63, 64, 65 and 66 are complete** (the two sūktas asked for in this run, 65 and 66, are done). **Sūkta 67** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara; Dvipadā Virāṭ; third sūkta of the Twelfth Anuvāka): only its heading line, Sāyaṇa's introduction and the Kannada anuvāda are transcribed (lower p. 203). Next: p. 204 (PDF 222), the heading block of Sūkta 67 and Rik 67.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the Skandasvāmin/Śākapāṇi references on pp. 201–202 as read [?]; accent marks of the Saṃhitā/Pada not reproduced.
+### Page 204 (PDF 222)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**Sūkta — 67** *(heading block as printed)*
+
+> **॥ ॐ ॥**
+> **॥ मण्डल — १ ॥ अनुवाक — १२ ॥ सूक्त — ६७ ॥**
+> **॥ अष्टक — १ ॥ अध्याय — ५ ॥ वर्ग — ११ ॥**
+> **॥ सूक्तदल्लिरुव ऋक्संख्यै — ५ (१०) ॥**
+> **॥ ऋषिः — पाराशरः शाक्त्यः ॥**
+> **॥ देवता — अग्निः ॥**
+> **॥ छन्दः — द्विपदा विराट् ॥**
+
+#### Rik 67.1 *(printed "1 || 2 ||")*
+
+**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+
+> **वनेषु जायुर्मर्तेषु मित्रो वृणीते श्रुष्टिं राजेवाजुर्यम् ।**
+> **क्षेमो न साधुः क्रतुर्न भद्रो भुवत्स्वाधीर्होता हव्यवाट् ॥ १ ॥ २ ॥**
+> *vaneṣu jāyur marteṣu mitro vṛṇīte śruṣṭiṃ rājevājuryam |*
+> *kṣemo na sādhuḥ kratur na bhadro bhuvat svādhīr hotā havyavāṭ || 1 || 2 ||*
+
+**॥ पदपाठः ॥ — Pada text**
+
+> **वनेषु । जायुः । मर्तेषु । मित्रः । वृणीते । श्रुष्टिम् । राजाऽइव । अजुर्यम् ।**
+> **क्षेमः । न । साधुः । क्रतुः । न । भद्रः । भुवत् । सुऽआधीः । होता । हव्यऽवाट् ॥ १ ॥ २ ॥**
+> *vaneṣu | jāyuḥ | marteṣu | mitraḥ | vṛṇīte | śruṣṭim | rājā-iva | ajuryam |*
+> *kṣemaḥ | na | sādhuḥ | kratuḥ | na | bhadraḥ | bhuvat | su-ādhīḥ | hotā | havya-vāṭ || 1 || 2 ||*
+
+---
+
+### Page 205 (PDF 223)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 11 [as read]".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
+
+> **वनेषु जायुररण्येषु जायमानो मर्तेषु मनुष्येषु मित्रः सखा सोऽयमग्निः श्रुष्टिं । शु आशु श्नुते कर्माणि व्याप्नोतीति श्रुष्टिर्यजमानः । क्षिप्रेण कर्मणामनुष्ठातेत्यर्थः । तथा च यास्कः । श्रुष्टीति क्षिप्रनामाशु अश्वीति । नि. ६-१३ [?] । एवंभूतं यजमानं वृणीते । संभजते । अनेन प्रत्तं हविः स्वीकृत्य रक्षतीति भावः । तत्र दृष्टान्तः । राजेवाजुर्यं । अजुर्यं जरारहितं दृढाङ्गं सर्वकार्येषु शक्तमित्यर्थः । एवंभूतं पुरुषं यथा राजा वृणीते तद्वत् । क्षेमो न रक्षक इव साधुः साधयिता क्रतुर्न । क्रतुः कर्मणां कर्ता । स इव भद्रो भजनीयः कल्याणो वा होता देवानामाह्वाता हव्यवाट् हव्यवाहनो नाम देवानामग्निः । तथा चाम्नायते । त्रयो वा अग्नयो हव्यवाहनो देवानां कव्यवाहनः पितॄणां सहरक्षा असुराणां । तै. सं. २-५-८-६ [?] । इति । एवंभूतोऽग्निः स्वाधीः शोभनकर्मा शोभनाध्यानो वा भुवत् । भवतु ॥ जायुः । जि जये । कृवापाजीत्यादिना उण् । अजुर्यं । ज्यूष् वयोहानौ । भावे ण्यत् । वृद्धौ कृतायोमाकारस्य व्यत्ययेनोकारः । जुर्यं जरा नास्यास्तीति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । भुवत् । भवतेर्लेट्यडागमः । बहुलं छन्दसीति विकरणस्य लुक् । भूसुवोस्तिङीति गुणप्रतिषेधः ॥**
+> *vaneṣu jāyur araṇyeṣu jāyamāno marteṣu manuṣyeṣu mitraḥ sakhā so 'yam agniḥ śruṣṭiṃ | śu āśu śnute karmāṇi vyāpnotīti śruṣṭir yajamānaḥ | kṣipreṇa karmaṇām anuṣṭhātety arthaḥ | tathā ca yāskaḥ | śruṣṭīti kṣipranāmāśu aśvīti | Ni. 6-13 [?] | evaṃbhūtaṃ yajamānaṃ vṛṇīte | saṃbhajate | anena prattaṃ haviḥ svīkṛtya rakṣatīti bhāvaḥ | tatra dṛṣṭāntaḥ | rājevājuryaṃ | ajuryaṃ jararahitaṃ dṛḍhāṅgaṃ sarvakāryeṣu śaktam ity arthaḥ | evaṃbhūtaṃ puruṣaṃ yathā rājā vṛṇīte tadvat | kṣemo na rakṣaka iva sādhuḥ sādhayitā kratur na | kratuḥ karmaṇāṃ kartā | sa iva bhadro bhajanīyaḥ kalyāṇo vā hotā devānām āhvātā havyavāṭ havyavāhano nāma devānām agniḥ | tathā cāmnāyate | trayo vā agnayo havyavāhano devānāṃ kavyavāhanaḥ pitṝṇāṃ saharakṣā asurāṇāṃ | tai. saṃ. 2-5-8-6 [?] | iti | evaṃbhūto 'gniḥ svādhīḥ śobhanakarmā śobhanādhyāno vā bhuvat | bhavatu || jāyuḥ | ji jaye | kṛvāpājītyādinā uṇ | ajuryaṃ | jyūṣ vayohānau | bhāve ṇyat | vṛddhau kṛtāyomākārasya vyatyayenokāraḥ | juryaṃ jarā nāsyāstīti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvaṃ | bhuvat | bhavater leṭy aḍāgamaḥ | bahulaṃ chandasīti vikaraṇasya luk | bhūsuvos tiṅīti guṇapratiṣedhaḥ ||*
+> *"**Vaneṣu jāyuḥ** — born in the forests; **marteṣu mitraḥ**, a friend among mortals, men: this Agni **vṛṇīte** — chooses [the sacrificer] **śruṣṭim**: *śruṣṭi* is the sacrificer who 'quickly pervades (*āśu śnute*) rites' — one who performs rites swiftly; so Yāska: '*śruṣṭi* is a word for "quick": *āśu*, *aśvī*' (Ni. 6-13, as read, ?). Such a sacrificer he chooses, resorts to; the idea is that, accepting the oblation given by him, he protects him. The example: **rājeva ajuryam** — *ajurya* is 'free of age', firm of limb, capable in all works: as a king chooses such a man. **Kṣemo na sādhuḥ**, like a guardian, a doer of good (accomplisher); **kratur na bhadraḥ**, like a doer of rites, to be honoured or auspicious; **hotā**, caller of the gods; **havyavāṭ**, the Agni named *havyavāhana*, the carrier of oblations of the gods; as is taught: 'there are three Agnis: Havyavāhana of the gods, Kavyavāhana of the fathers, Saharakṣas of the asuras' (Tai. Saṃ. 2-5-8-6, as read, ?). Agni, such as this, **svādhīḥ**, of good works or of good meditation, **bhuvat** — may he be. **Jāyuḥ**: root *ji jaye*; *uṇ* by 'kṛvāpājī…'. **Ajuryam**: root *jyūṣ vayohānau*; *ṇyat* in the sense of *bhāva*; the *o* for *a* after *vṛddhi* [as read, ?] by exchange; 'one to whom there is no *jurya* (old age)' — a *bahuvrīhi*; the final acute of the latter member by 'nañsubhyām'. **Bhuvat**: the *aṭ* augment in the *leṭ* of *bhū*; the *luk* of the vikaraṇa by 'bahulaṃ chandasi'; the prohibition of *guṇa* by 'bhūsuvos tiṅi'."* *(Grammar tail characterized; the *ajurya* derivation is compressed and doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha** *(Kannada)*
+
+**वनेषु** — in the forests; **जायुः** — born; **मर्तेषु** — among men; **मित्रः** — Agni the friend; **श्रुष्टिम्** — the sacrificer who performs rites quickly; **अजुर्यम्** — one of firm limbs (free of old age); **राजेव** — like a king; **वृणीते** — he encourages; **क्षेमो न** — like a protector; **साधुः** — the accomplisher (of works); **क्रतुर्न** — like the performer of a sacrifice; **भद्रः** — auspicious (worthy of being served); **होता** — the invoker of the gods; **हव्यवाट्** — the Agni called *havyavāhana*; **स्वाधीः** — of good works; **भुवत्** — may he be.
+
+**॥ भावार्थ ॥ — Bhāvārtha** *(Kannada).* Agni, born in the forest, the friend of men, encourages the sacrificers in rites such as the sacrifice, as a king encourages a follower of firm limbs. May Agni — accomplisher like a protector, auspicious like the sacrificer, the invoker of the gods, called Havyavāhana — make our works auspicious.
+
+---
+
+### Page 206 (PDF 224)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 67" as read.)*
+
+**English Translation** *(the source's own, as printed):*
+
+> Born in the woods, the friend of man, Agni protects his worshipper as a king favours a man shorn [sic] of decrepitude, able as a defender, adorable as a performer of excellent works, may he be the invoker of the gods, the bearer of oblations be the performer of exeellent [sic] works.
+
+*(The source's English has "shorn" misprinted "sborn" [as read] and "excellent" as "exeellent"; given with [sic].)*
+
+**॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
+
+- **श्रुष्टिम्** (*śruṣṭim*) — *śu āśu aśnute karmāṇi vyāpnoti iti śruṣṭiḥ yajamānaḥ | kṣipreṇa karmaṇām anuṣṭhāteti arthaḥ* — "since the sacrificer promptly performs the rites such as the sacrifice, he is called *śruṣṭi*. Yāska says '*śruṣṭīti kṣipranāmāśu aśvīti*' (Ni. 6-13, as read, ?). The tenor is that Agni protects him, accepting the oblations offered by the sacrificer."
+- **अजुर्यम्** (*ajuryam*) — *jarā nāsyāstīti juryaḥ | jararahitaṃ dṛḍhāṅgaṃ sarvakāryeṣu śaktam ity arthaḥ* — "one who is strong, with limbs unimpaired, who can do all works; as a king seeks out and keeps near him such a man, so Agni chooses the sacrificer."
+- **हव्यवाट्** (*havyavāṭ*) — *havyavāhano nāma devānām agniḥ* — "what is offered in Agni to the gods is *havya*; because he carries it to the gods, Agni is called *havyavāhana*. Agni is divided into three: Havyavāhana, Kavyavāhana, Saharakṣas; in the Taittirīya Saṃhitā (2-5-8-6, as read) it is said '*trayo vā agnayo havyavāhano devānāṃ kavyavāhanaḥ pitṝṇāṃ saharakṣā asurāṇām*'."
+- *On* **क्षेमो न साधुः, क्रतुर्न भद्रः**: "in these sentences Sāyaṇa explains the word *kṣema* as 'protector' and the word *kratu* as 'doer of rites', and has taken them as the *upamāna*. Skandasvāmin says that in the sentence *śruṣṭiṃ rājeva* the word *śruṣṭi* does not denote 'quick', but denotes a messenger (*dūta*) 'of one's own or of another' [reading doubtful, ?]; and that '*sādhur iva kṣemaṃ karoty agniḥ, vijñānam iva bhadraḥ*' he proves in a way other than that in which Sāyaṇa has stated the *upamāna–upameya* relation."
+
+*(Rik 67.1 — no grammar page is printed after the Special Topics on p. 206; the page ends here with the Special Topics. If a grammar paragraph follows on the next page, it is added under p. 207.)*
+
+---
+
+**Progress note:** Printed pp. 1–206 done (PDF 19–224): Sūktas 62–66 complete. **Sūkta 67** (5 four-pāda Ṛks = 10 half-Ṛks; Agni; Parāśara Śākti): introduction and heading block done; **Rik 67.1** — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English and Special Topics done (pp. 204–206); the grammar page not yet seen. Next: p. 207 (PDF 225), the grammar page of Rik 67.1 (if printed there) and Rik 67.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–67 [?]; the *ajurya* derivation and Skandasvāmin's remark in 67.1 compressed/doubtful [?]; accent marks of the Saṃhitā/Pada not reproduced.
