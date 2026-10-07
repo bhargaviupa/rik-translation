@@ -5618,4 +5618,68 @@ Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasig
 
 ---
 
-**Progress note:** Printed pp. 1–281 done (PDF 19–299): Sūktas 62–69 complete. **Sūkta 70** (11 half-Ṛks, printed as 6 Ṛks; Agni; Parāśara Śākti): Riks 70.1–70.5 complete; **Rik 70.6** (the last, printed "11 ||") — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, the source's English (with its misprints) and Special Topics done (pp. 279–281); its grammar page is begun on p. 281 and breaks off after *śūraḥ*. Next: p. 282 (PDF 300), the rest of the grammar page and the closing line of Sūkta 70 (the closing line should name the sūkta's end and its varga, to be taken as printed); that completes Sūkta 70 — the end of the user's "next 2 sūktas" request (69 and 70). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals of Sūktas 65–70 [?]; accent marks of the Saṃhitā/Pada not reproduced; the opening metre-note of the bhāṣya on p. 279 compressed and doubtful [?].
+### Page 282 (PDF 300)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71" as read [the Kannada numerals are small].)*
+
+**Grammar page of Rik 70.6 (concluded; noted briefly):** *tveṣaḥ* — root *tviṣ* "to shine"; affix *ac* by *nandigrahipacādibhyaḥ…* (Pā. [3-1-134]); guṇa of the light penultimate for the sake of the affix; the affix being *cit*, the final syllable is acute by *cito 'ntodāttaḥ* (Pā. [6-1-163]). *Grammar page, noted briefly.*
+
+**Closing line of the sūkta** *(printed large, Kannada)*:
+
+> ಎಪ್ಪತ್ತನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು
+
+*(eppattaneya sūktavu samāptavu* — "The seventieth sūkta is concluded.")*
+
+**— End of Sūkta 70.** *(Sūkta 70: eleven half-Ṛks printed as six Ṛks, Agni; Parāśara Śākti; Dvipadā-Virāṭ. The varga numerals of its pages are as read, [?], and have not been reconciled.)*
+
+---
+
+## Sūkta 71 *(begun: p. 282 introduction, p. 283 heading and Rik 71.1 Saṃhitā/Pada)*
+
+**एकसप्ततितमं सूक्तम् — "The seventy-first sūkta"** *(title printed large in Kannada: "ಎಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು")*
+
+**Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; compressed, with several doubtful syllables [?])*
+
+> उप प्रेति दशर्चं सप्तमं सूक्तं । आत्रानुक्रम्यते । उप प्र दशेति । ऋषिश्छान्दस्यादिति परिभाषयोः शक्तिपुत्रः पराशर ऋषिः । अनादेशपरिभाषयो स्त्रिष्टुप् । परमाग्नेयेन्द्रादिति परिभाषितत्वादग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदमादीनि त्रीणि सूक्तानि । अथैतस्या इति खण्डे तथैव सूत्रितं । उप प्र जिन्वन्निति तिस्रः का ते उपेतिरिति सूक्ते । आ. [४-१३?] इति ॥ अश्विनशस्त्रेऽपि प्रातरनुवाकातिदेशादिदमादीनि त्रीणि सूक्तानि । तथैव सूत्र्यते । एतयोराग्नेयं गायत्रमुपसंतनुयात् । प्रातरनुवाकन्यायेन । आ. [६-३?] इति ॥
+
+*upa preti daśarcaṃ saptamaṃ sūktaṃ | atrānukramyate | upa pra daśeti | ṛṣiś chāndasyād iti paribhāṣayoḥ śaktiputraḥ parāśara ṛṣiḥ | anādeśaparibhāṣayo striṣṭup | paramāgneyendrād iti paribhāṣitatvād agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādīni trīṇi sūktāni | athaitasyā iti khaṇḍe tathaiva sūtritaṃ | upa pra jinvann iti tisraḥ kā te upetir iti sūkte | ā. [4-13?] iti || aśvinaśastre 'pi prātaranuvākātideśād idamādīni trīṇi sūktāni | tathaiva sūtryate | etayor āgneyaṃ gāyatram upasaṃtanuyāt | prātaranuvākanyāyena | ā. [6-3?] iti ||*
+
+*(Reading note: the first two sentences are compressed in the print — the words "ṛṣiś chāndasyād iti paribhāṣayoḥ", "anādeśaparibhāṣayo striṣṭup" and "paramāgneyendrād" are read as printed and are doubtful in several syllables [?]; the sense is given by the Kannada anuvāda below. Āśvalāyana numerals [?].)*
+
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*upa pra jinvan*", is the seventh sūkta in the twelfth anuvāka. It has ten Ṛks. The Anukramaṇikā says "*upa pra daśa*". The ṛṣi of this sūkta is Parāśara, son of Śakti; the metre is Triṣṭup; the deity is Agni. At the time of reciting the Prātaranuvāka mantras, this sūkta and the next two sūktas are used for the Ṛks of Agni in the Triṣṭup metre — as is stated in the sūtra of the Āśvalāyana-śrauta-sūtra, in the section beginning "*athaitasyāḥ*": "*upa pra jinvan* [and the] three [Ṛks] and the two sūktas *kā te upetiḥ*" (Ā. [4-13?]). And for the Aśvina-śastra mantras, belonging to the Prātaranuvāka, these three sūktas are used, as indicated by the sūtra of the Āśvalāyana-śrauta-sūtra "*etayor āgneyaṃ gāyatram upasaṃtanuyāt prātaranuvākanyāyena*" (Ā. [6-3?]).
+
+---
+
+### Page 283 (PDF 301)
+
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+
+**सूक्त — ७१ (Sūkta 71)**
+
+॥ ओं ॥ — *Oṃ.*
+॥ मण्डल—१ ॥ अनुवाक—१२ ॥ सूक्त—७१ ॥ — *Maṇḍala 1; Anuvāka 12; Sūkta 71.*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—१३, १४ [?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga 13, 14 [as read; the second numeral is doubtful, ?].*
+*Number of Ṛks in the sūkta:* 10. *Ṛṣi:* Pārāśara Śākti. *Devatā:* Agni. *Chandas:* Triṣṭup.
+
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.1**
+
+> उप प्र जिन्वन्नुशतीरुशंतं पतिं न नित्यं जनयः सनीळाः ।
+> स्वसारः श्यावीमरुषीमजुष्रञ्चित्रमुच्छंतीमुषसं न गावः ॥ १ ॥
+
+*upa pra jinvann uśatīr uśantaṃ patiṃ na nityaṃ janayaḥ sanīḷāḥ |
+svasāraḥ śyāvīm aruṣīm ajuṣran citram ucchantīm uṣasaṃ na gāvaḥ ||1||*
+
+*(Accents are marked in the print; not reproduced here.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha**
+
+> उप । प्र । जिन्वन् । उशतीः । उशन्तम् । पतिम् । न । नित्यम् । जनयः । सऽनीळाः ।
+> स्वसारः । श्यावीम् । अरुषीम् । अजुष्रन् । चित्रम् । उच्छन्तीम् । उषसम् । न । गावः ॥ १ ॥
+
+*upa | pra | jinvan | uśatīḥ | uśantam | patim | na | nityam | janayaḥ | sa-nīḷāḥ | svasāraḥ | śyāvīm | aruṣīm | ajuṣran | citram | ucchantīm | uṣasam | na | gāvaḥ ||1||*
+
+*(The Sāyaṇa-bhāṣya of Rik 71.1 begins on p. 284.)*
+
+---
+
+**Progress note:** Printed pp. 1–283 done (PDF 19–301): Sūktas 62–70 complete (Sūkta 70's closing line, p. 282: "eppattaneya sūktavu samāptavu"). **Sūkta 71** (10 Ṛks; Agni; Parāśara Śākti; Triṣṭup; the seventh sūkta of Anuvāka 12; Varga "13, 14" as read [?]) begun: Sāyaṇa's introduction (p. 282), heading and Rik 71.1 Saṃhitā and Pada (p. 283) done. Next: p. 284 (PDF 302), the Sāyaṇa-bhāṣya of Rik 71.1. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks of the Saṃhitā/Pada not reproduced; the compressed opening sentences of Sāyaṇa's introduction to Sūkta 71 doubtful [?].
