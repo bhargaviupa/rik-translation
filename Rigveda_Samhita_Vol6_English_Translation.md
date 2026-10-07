@@ -11535,4 +11535,83 @@ dyumnair abhi pra ṇonumaḥ ||5||*
 
 ---
 
-**Progress note:** Printed pp. 1–524 done (PDF 19–542): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: introduction, Anuvāda, heading (pp. 521–522) and **Rik 79.1** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha, Bhāvārtha, the source's English and the first part of the Special Topics (pp. 522–524) done; the Special Topics of 79.1 break off at the foot of p. 524 (*hiraṇyakeśaḥ*, mid-sentence) and continue on p. 525 (PDF 543), then its grammar page. Next: p. 525 (PDF 543). Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518; the compressed *kārīryām* passage on p. 521 (I rendered only the Kannada Anuvāda on p. 522).
+### Page 525 (PDF 543)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+*Special Topics of Rik 79.1, continued from p. 524 (the sentence on **हिरण्यकेशः** resumes mid-way):*
+
+"…the comparison is conventional (*rūḍhi*). Just as gold shines brightly, so the flames of Agni shine. Since these, rising upward from Agni, appear like the hair on the head, the comparison of the flames to hair is fitting. The use of this word *hiraṇyakeśa* occurs in the Ṛgveda only in this Ṛk, and nowhere else. With reference to the pair of bay horses of Indra, in the Ṛk —
+
+> इह त्या सधमाद्या हरी हिरण्यकेश्या ।
+
+*iha tyā sadhamādyā harī hiraṇyakeśyā |* (Ṛk. Saṃ. 8-[2]-[29] [?]) — *Gloss, mine and tentative:* "Here (are) those two bay horses, sharing the revelry, golden-maned."
+
+— the word *hiraṇyakeśyā* is used. The comparison of Agni's flame to *hiraṇyajihvaḥ* ('golden-tongued') is stated in the Ṛk Saṃ. 6-[21?]-[3?] [?]."
+
+- **रजसः** — "Yāska gives an etymological explanation (*nirvacana*) of this word —
+
+> रजः । रजो रजतेर्ज्योतीरज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यन्ते । असृगहनी रजसी उच्येते ।
+
+*rajaḥ | rajo rajater jyotī-raja ucyate | udakaṃ raja ucyate | lokā rajāṃsy ucyante | asṛg-ahanī rajasī ucyete |* (Ni. 4-[19] [?]) — I give the line as the print has it (the words after *rajaḥ* are as read; the Kannada gloss follows). *Gloss, mine and tentative:* "*Rajas*: from the root *raj* 'to shine'; light is called *rajas*; water is called *rajas*; the worlds are called *rajāṃsi*; blood and day are called the two *rajasī*."
+
+That is: (1) *Rajaḥ* — the word, derived from the verb *rajati*, 'it shines', means light, brightness; since it makes other things visible by its own light, *rajas* is a name for light. As example they have given the mantra *yā te agne rajaḥśayā tanūḥ* (…) [the mantra is quoted only in part in the print].
+
+(2) *Udakaṃ raja ucyate* — *rajaḥ* means water. For examples of this sense —
+
+> नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो रजांसि ।
+
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto atarao rajāṃsi |* (Ṛk. Saṃ. 1-[33]-[14] [?]) — *the print reads* "atero" *for the last verb; I read* atarao *as printed and note it [?].* *Gloss, mine and tentative:* "When you crossed, like a frightened falcon, the ninety-nine flowing (waters)…" (sense uncertain to me).
+
+> भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिः सचसे शिवाभिः ।
+
+*bhuvo yajñasya rajasaś ca netā yatrā niyudbhiḥ sacase śivābhiḥ |* (Ṛk. Saṃ. 10-[8]-6 [?]) — *Gloss, mine and tentative:* "You became the leader of the sacrifice and of the waters (/space), where you attend with your auspicious teams."
+
+The word *rajas* in these Ṛks gives the sense 'water'.
+
+> पूर्वे अर्धे रजसो अप्त्यस्य गवां जनित्र्यकृत प्र केतुम् ।
+
+*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum |* (Ṛk. Saṃ. 1-[134]-3 [?]) — *Gloss, mine and tentative:* "In the earlier half of the watery (region), the mother of the cows made a banner (sign) appear."
+
+> इन्द्रश्च या चक्रथुः सोम तानि धुरा न युक्ता रजसो वहन्ति ।
+
+*indraś ca yā cakrathuḥ soma tāni dhurā na yuktā rajaso vahanti |* (Ṛk. Saṃ. 1-[186]-[19] [?]) — *the reference numerals are doubtful [?].* *Gloss, mine and tentative:* "And what you two, Indra and Soma, have done, (those deeds) bear (it) on like yoked ones to the pole of the (watery) region."
+
+### Page 526 (PDF 544)
+
+*(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 79".)*
+
+*Special Topics continued:*
+
+"(3) The word *rajas* in these Ṛks gives the sense 'world' (*loka*).
+
+(4) *Asṛg-ahanī rajasī ucyete* — *asṛk* is blood (*rudhira*); and *ahaḥ* (day): both, *asṛg-ahanī*, are also called the two *rajasī*. The word *rajasī* gives the senses 'blood' and 'day'.
+
+> अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
+
+*ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |* (Ṛk. Saṃ. 6-[9]-1 [?]) — *Gloss, mine and tentative:* "The black day and the bright day revolve apart, the two (spaces), by their courses."
+
+In this Ṛk the word *rajas* gives the sense 'day'. In the present context the sense of *rajas* is light, brightness."
+
+- **ध्रजीमान्** — *dhraja gatau* — "one who moves with speed. As the wind blows swiftly, so is Agni of swift motion."
+- **शुचिभ्राजाः** — *śobhanadīptiḥ* — "one who shines exceedingly; that the lightning-Agni (the flash) shines intensely is well known in the world."
+- **उषसो नवेदाः** — "Since it is said that the Uṣas deities do not know the capacity of making rain fall from the clouds, it is not as if the Uṣas deity were being blamed. The bhāṣyakāra explains that the ṛṣi describes it in this way in order to bring out the praise of Agni."
+- **यशस्वतीः अपस्युवः** — "Among the hundred and one names of water beginning with *aṇaḥ* [?] the word *yaśaḥ* occurs (Ni. [1-12] [?]); so *yaśaḥ* means water; among the twenty-eight names of food beginning with *vājaḥ* the word *yaśaḥ* occurs (Ni. [2-7] [?]); so *yaśaḥ* means food; among the twenty-eight names of wealth beginning with *maghaṃ reṇkaḥ* the word *yaśaḥ* occurs; so *yaśaḥ* means wealth (Ni. 3-[9] [?]); and in common usage the word also means fame (*kīrti*). Of these the bhāṣyakāra has accepted the sense 'food'. Because *yaśasvatīḥ* is an epithet qualifying *apasyuvaḥ* [the words for] waters or rain-water, and because rain is the cause of the growth of plants and so of food and of the production of nourishment, the sense 'food' for *yaśaḥ* is the fitting one here. *Yaśasvatīḥ* means 'endowed with food, or with the means of producing nourishment'."
+- **सत्याः** — *avitathārambhāḥ* — "The bhāṣyakāra has explained this word as 'truthful people (subjects)'."
+
+### Page 527 (PDF 545)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.1)** *(grammar page, noted briefly)*
+
+- **विसारे** — root *sṛ gatau*; the affix *ghañ* (ending with a mark *ñ*, so vṛddhi of the penultimate vowel — "acoñṇiti" (अचो ञ्णिति, Pā. Sū. 7-2-115)); the accent is final-udātta by "karṣātvato ghañaḥ" (कर्षात्वतो घञोऽन्त उदात्तः, Pā. Sū. 6-1-159 [?]); *vi* is a *gati*, so the compound is formed with "gatikārakopapadāt kṛt" (Pā. Sū. 6-2-139), and the accent of the *kṛt*-final member (*kṛduttarapadaprakṛtisvara*) comes.
+- **ध्रजीमान्** — root *dhraj gatau*; the affix *in* in the sense of the action by "in sarvadhātubhyaḥ" (इन् सर्वधातुभ्यः, Uṇ. Sū. 4-[117]? [?]), giving *dhraji*; in the sense of "this exists" the affix *matup* by "tad asyāsty asminn iti" (Pā. 5-2-94); lengthening of the preceding by "anyeṣām api dṛśyate" (अन्येषामपि दृश्यते, Pā. Sū. 6-3-[137]); since the first-case ending (*su*) follows, *uk* being a mark (*ugit*) there is the augment *num* by "ugidacāṃ sarvanāmasthāne 'dhātoḥ" (उगिदचां सर्वनामस्थानेऽधातोः); lengthening of the penultimate by "atvasantasya cādhātoḥ" (Pā. Sū. 6-4-14 [?]); elision of *su* by "hal-ṅyābbhyo dīrghāt sutisy apṛktaṃ hal" (हल्ङ्याब्भ्यो दीर्घात्…); loss of the *t* by loss of the conjunct final; this is *asiddha*, so *nalopa* does not arise. *Matup* has the mark *p*, so it is anudātta; *in* has the mark *n*, so by "ñnityādir nityam" the stem is *ādyudātta*.
+- **नवेदाः** — root *vid jñāne* (विद ज्ञाने), preceded by *nañ*; the affix *ac* by "nandigrahapacādibhyo lyuṇinyacaḥ" (Pā. Sū. 3-1-134), this being in the *pacādi* group; because of the affix, guṇa of the root by "pugantalaghūpadhasya ca" (Pā. Sū. 7-3-86); *nalopo nañaḥ* (Pā. Sū. 6-3-73) would drop the *n* of *na*, but "nabhrāṇ-napāt…" (Pā. Sū. 6-3-75) gives *prakṛtibhāva* to it; by "tatpuruṣe tulyārtha…" (Pā. Sū. 6-2-2) the accent of the first member is retained.
+- **अपस्युवः** — after the word *apas*, in the sense 'desires for oneself', the affix *kyac* by "supa ātmanaḥ kyac" (सुप आत्मनः क्यच्, Pā. Sū. 3-1-8); the root-designation (*dhātusaṃjñā*) of the *kyac*-ending stem *apasya* by "sanādyantā dhātavaḥ"; after it the affix *u* by "kyāc chandasi" (क्याच्छन्दसि, Pā. Sū. 3-2-170); with *u* following, the *a* of *kyac* is dropped by "ato lopaḥ" (अतो लोपः); *apasyu* results; with *jas* following, guṇa would arise by "jasi ca"; the *uvaṅ* replacement by "tenādīnāṃ chandasi bahulam upasaṃkhyānam" (Pā. 6-4-77, vārttika 1 [?]); the *s* becomes *ru* and visarga: *apasyuvaḥ*. The accent comes from the affix *u*. ||1||
+
+*Grammar page, noted briefly; every sūtra numeral is tentative [?], given only where read.*
+
+---
+
+**Progress note:** Printed pp. 1–527 done (PDF 19–545): **Sūktas 62–78 complete.** **Sūkta 79** (twelve Ṛks; sixth sūkta of Anuvāka 13; ṛṣi Gotama Rāhūgaṇa; Ṛks 1–3 Triṣṭubh, 4–6 Uṣṇih, 7–12 Gāyatrī; Varga "27, 28" as read [?]) in progress: **Rik 79.1 complete** (heading and introduction pp. 521–522; text, bhāṣya, Pratipadārtha, Bhāvārtha and English pp. 522–524; Special Topics pp. 524–526 split where the print splits them; grammar page p. 527, noted briefly). Next: p. 528 (PDF 546) — Rik 79.2. Open flags: Nirukta/Taittirīya/Āśvalāyana/Uṇādi/Mahābhāṣya/Kāśikā numerals [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; garbled citations on pp. 512, 515, 517–518, 525; the compressed *kārīryām* passage on p. 521; the Yāska line on p. 525 given as read.
