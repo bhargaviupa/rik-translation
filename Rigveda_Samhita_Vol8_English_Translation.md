@@ -1885,4 +1885,127 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–61 done (PDF 21–81): **Sūkta 95 complete** (11 Ṛks, pp. 1–61; no separate closing line in the print); **Sūkta 96** (9 Ṛks; *sa pratnathā*; Kutsa Āṅgirasa; Triṣṭubh; Agni as Draviṇodas, or pure Agni; 15th Anuvāka) begun at the foot of p. 61 with the Kannada heading, Sāyaṇa's introduction and the first lines of the Anuvāda (breaking at "In the Aitareya Brāhmaṇa also"). Next: printed p. 62 (PDF 82) — the rest of the Anuvāda, the heading block and Rik 96.1. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–61) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes; Skandasvāmin's *stutir atrābhipretā…* on p. 58 [?]); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the Sūkta 96 introduction's *vyūḍha…kṣed iti khaṇḍe* and its Āśvalāyana/Aitareya numerals [?]; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 62 (PDF 82)
+
+*(Running head: left 62; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Anuvāda of Sūkta 96, concluded from p. 61 (Kannada)**
+
+"…in this matter too, in the Aitareya Brāhmaṇa there is the statement '*sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam*' etc. (Ai. Brā. 3-1[5] [?]). In the *Mahāpitṛyajña*, in place of the *homa* that is made for Agni called Sviṣṭakṛt, this Ṛk *sa pratnathā* is used as the *yājyā* mantra, addressed to the Agni called Kavyavāhana; so it is explained in the section called *dakṣiṇāgneḥ* of the Āśvalāyana Śrauta-sūtra by the sūtra '*sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ*' (Āś. 2-1[9] [?])."
+
+*(A printer's ornament follows.)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ९६ (Sūkta 96)**
+
+॥ मण्डल—१ ॥ अनुवाक—१५ ॥ सूक्त—९६ ॥ — *Maṇḍala 1; Anuvāka 15; Sūkta 96.*
+॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—३, ४ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "3, 4" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 9. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* *agnir agnir draviṇodā vā* (as printed; "Agni, or Agni Draviṇodas" [?]). *Chandas:* Triṣṭubh.
+
+### Rik 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.1)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> स प्रत्नथा सहसा जायमानः सद्यः काव्यानि बळधत्त विश्वा ।
+> आपश्च मित्रं धिषणा च साधन्देवा अग्निं धारयन्द्रविणोदाम् ॥ १ ॥
+
+*sa pratnathā sahasā jāyamānaḥ sadyaḥ kāvyāni baḷ adhatta viśvā | āpaś ca mitraṃ dhiṣaṇā ca sādhan devā agniṃ dhārayan draviṇodām ‖ 1 ‖*
+
+### Page 63 (PDF 83)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 63.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.1)**
+
+> सः । प्रत्नऽथा । सहसा । जायमानः । सद्यः । काव्यानि । बट् । अधत्त । विश्वा ।
+> आपः । च । मित्रम् । धिषणा । च । साधन् । देवाः । अग्निम् । धारयन् । द्रविणःऽदाम् ॥ १ ॥
+
+*saḥ | pratna-thā | sahasā | jāyamānaḥ | sadyaḥ | kāvyāni | baṭ | adhatta | viśvā | āpaḥ | ca | mitram | dhiṣaṇā | ca | sādhan | devāḥ | agnim | dhārayan | draviṇaḥ-dām ‖ 1 ‖*
+
+*(Reading note, now that the Pada has been viewed: the Saṃhitā's* baḷ *is the Pada's* baṭ*;* pratnathā *is divided* pratna-thā*;* draviṇodām *is divided* draviṇaḥ-dām *as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.1)**
+
+> सहसा बलेन जायमानो निर्मथनेनोत्पद्यमानः सोऽग्निः सद्यस्तदानीमुत्पत्त्यनन्तरमेव प्रत्नथा प्रत्न इव चिरंतन इव विश्वा विश्वानि सर्वाणि काव्यानि कवेः क्रान्तदर्शिनः प्रगल्भस्य कर्माणि बट् सत्यमधत्त । अधारयत् । पूर्वं विद्यमान इवाग्निरुत्पत्तिसमकालमेव स्वकीयं हविर्वहनादिकं सर्वं कार्यमकरोदित्यर्थः । इमुमग्निं वैद्युतरूपेण वर्तमानं मेघेष्ववस्थिता आपश्च धिषणा च या माध्यमिका वाक् सा च मित्रं सखिभूतं साधन् । साधयन्ति । कुर्वन्ति । तमिमं द्रविणोदां द्रविणस्य धनस्य दातारमग्निं देवा ऋत्विजो धारयन् । गार्हपत्यादिरूपेण धारयन्ति । यद्वा । देवा एवेन्द्रादय इमममग्निं द्रविणोदां हविर्लक्षणस्य धनस्य दातारं कृत्वा दौत्ये धारयन् । धारयन्ति ॥ प्रत्नथा । प्रत्नपूर्वविश्वेमात्थाल् छन्दसीतीवार्थे थाल्प्रत्ययः । काव्यानि । कवेः कर्म काव्यं । गुणवचनब्राह्मणादिभ्य इति ष्यञ् । ञित्त्वादाद्युदात्तत्वं । साधन् । षिधु संराद्धौ । णौ सिध्यतेरपारलौकिके । पा. ६-१-४९ [?] इत्यात्वं । लेट्यडागमः । इतश्च लोप इतीकारलोपः । छन्दस्युभयथेति शप आर्धधातुकत्वाण्णेरनिटीति णिलोपः । द्रविणोदां । द्रविणानि ददातीति द्रविणोदाः । द्रु गतौ । द्रुदक्षिभ्यामिनन् । छान्दसः पूर्वपदस्य सुक् । अन्येभ्योऽपि दृश्यन्ते इति ददातेर्विच् । सकारान्तं त्वसुनि कृते निष्पद्यते ॥
+> *sahasā balena jāyamāno nirmanthanenotpadyamānaḥ so 'gniḥ sadyas tadānīm utpattyanantaram eva pratnathā pratna iva ciraṃtana iva viśvā viśvāni sarvāṇi kāvyāni kaveḥ krāntadarśinaḥ pragalbhasya karmāṇi baṭ satyam adhatta | adhārayat | pūrvaṃ vidyamāna ivāgnir utpattisamakālam eva svakīyaṃ havirvahanādikaṃ sarvaṃ kāryam akarod ity arthaḥ | imam agniṃ vaidyutarūpeṇa vartamānaṃ megheṣv avasthitā āpaś ca dhiṣaṇā ca yā mādhyamikā vāk sā ca mitraṃ sakhibhūtaṃ sādhan | sādhayanti | kurvanti | tam imaṃ draviṇodāṃ draviṇasya dhanasya dātāram agniṃ devā ṛtvijo dhārayan | gārhapatyādirūpeṇa dhārayanti | yadvā | devā evendrādaya imam agniṃ draviṇodāṃ havirlakṣaṇasya dhanasya dātāraṃ kṛtvā daulye dhārayan | dhārayanti ‖ pratnathā | pratnapūrvaviśvemāt thāl chandasīvārthe thālpratyayaḥ | kāvyāni | kaveḥ karma kāvyaṃ | guṇavacanabrāhmaṇādibhya iti ṣyañ | ñittvād ādyudāttatvaṃ | sādhan | ṣidhu saṃrāddhau | ṇau sidhyater apāralaukike | pā. 6-1-49 [?] ity ātvaṃ | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | chandasy ubhayatheti śapa ārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | draviṇodāṃ | draviṇāni dadātīti draviṇodāḥ | dru gatau | drudakṣibhyām inan | chāndasaḥ pūrvapadasya suk | anyebhyo 'pi dṛśyante iti dadāter viic | sakārāntaṃ tv asuni kṛte niṣpadyate ‖*
+
+*Sense (mine, from the Kannada that follows):* "Being born by force — by churning — that Agni at once, immediately after his birth, in the manner of the ancient (*pratnathā*), like one long-standing, *baṭ* (truly) took upon himself (*adhatta*) all the works (*kāvyāni*) of the *kavi*, the far-seeing, bold one: that is, Agni, as if existing before, at the very moment of birth did all the work of carrying the oblation and the rest. This Agni, existing in the form of lightning, the waters abiding in the clouds, and *dhiṣaṇā* — the speech of the middle region — make their friend (*mitra*); and the gods — the priests — hold him, this Agni, the giver of wealth (*draviṇodā*), in the form of the Gārhapatya and so on. Or: the gods, Indra and the others, having made Agni the giver of wealth in the form of oblations, keep him in the office of messenger."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *pratnathā* — the suffix *thāl* in the sense of 'as' after a word with *pratna*… in the Veda; *kāvyāni* — *ṣyañ*, first-syllable acute; *sādhan* — root *ṣidhu* (to accomplish), with *ṇic*, *ā* for the root-vowel, the Vedic *leṭ* with *aṭ*; the *i* of the ending elided; *śap* as *ārdhadhātuka*, so the *ṇi* is lost; *draviṇodām* — 'giver of treasures': the root *dru* (going), *inan* by *drudakṣibhyām inan*; the Vedic *suk* of the first member; the root *dā* with *vic* (by *anyebhyo 'pi dṛśyante*); the form with a final *s* arises when *asun* is applied. *(The tail is partly clotted; sūtra numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*sahasā* — by the force (of churning); *jāyamānaḥ* — being born; *saḥ* — that Agni; *sadyaḥ* — as soon as he is born; *pratnathā* — like one of old, long since [existing]; *viśvā* — all; *kāvyāni* — the works of the wise (carrying the oblation and so on); *baṭ* — truly; *adhatta* — takes upon himself (acquires for himself); *āpaḥ ca* — the waters (that are in the clouds) too; *dhiṣaṇā ca* — the speech (which is in the form of thunder) also; *mitraṃ* — [make] this Agni (in the form of lightning) a friend, loving; *sādhan* — they bring about; *draviṇodām* — the giver of wealth; *agniṃ* — Agni; *devāḥ* — the priests; *dhārayan* — (in the Gārhapatya and other forms) hold (kept)."
+
+*(The Pratipadārtha continues on p. 64.)*
+
+### Page 64 (PDF 84)
+
+*(Running head: left 64; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Pratipadārtha of Rik 96.1, concluded:** "…*mitraṃ* — (Agni in the form of lightning) as a loving one; *sādhan* — they accomplish; *draviṇodām* — the giver of wealth; *agniṃ* — Agni; *devāḥ* — the priests; *dhārayan* — (in the form of the Gārhapatya and others) they kept."
+
+"*Or:* *devāḥ* — the gods (Indra and the others); *agniṃ* — Agni; *draviṇodām* — (in the form of the oblation) as the giver of wealth; *dhārayan* — they made him stay (in the work of messenger)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Agni, born by the force of churning the fire-sticks, as soon as he is born makes all the sacrificial works of the wise sacrificer his own, as if he had been of old, like one long-standing. The waters in the clouds, and the speech in the form of thunder, make this Agni, in the form of lightning, a friend. The priests have kept him, the giver of wealth in the form of oblations, in the Gārhapatya and the other fires; or the gods, Indra and the others, have kept him in the office of messenger."
+
+**English Translation (as printed)**
+
+> Engendered by force, Agni verily appropriates, as soon as born, the offerings of the sages : the waters and voice make him their friend, and the gods retain him as the giver of (sacrificial) wealth.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.1 (Kannada)**
+
+> द्वे विरूपे सूक्तमौषसाग्नेयं य स प्रत्नथेति द्रविणोदसेऽग्नये ।
+> *dve virūpe sūktam auṣasāgneyaṃ ya sa pratnatheti draviṇodase 'gnaye |*
+> (*Bṛ. De.* 3-1[3?] as read [?])
+
+> स प्रत्नथा नव द्रविणोदसे ।
+> *sa pratnathā nava draviṇodase |*
+> (*Sarvānukramaṇī*)
+
+"*Draviṇodasaḥ — guṇayuktāyāgnaye idaṃ stāvakam* (*Vedārthadīpikā*): 'to Agni, endowed with the quality of *draviṇodas*: this is the praise' [as read]. This sūkta is recited with the epithet *draviṇodāḥ* in view of Agni."
+
+***draviṇodāḥ*** — "Yāska has written a long explanation of this word —"
+
+> द्रविणोदाः । द्रविणोदाः कस्माद्धनं द्रविणमुच्यते । यदेनदभिद्रवन्ति । बलं वा द्रविणं यदेनेनाभिद्रवन्ति । तस्य दाता द्रविणोदाः ।
+> *draviṇodāḥ | draviṇodāḥ kasmād dhanaṃ draviṇam ucyate | yad enad abhidravanti | balaṃ vā draviṇaṃ yad enenābhidravanti | tasya dātā draviṇodāḥ |*
+> (*Ni.* 8-1 as read [?])
+
+*(Translation, mine and tentative: "'Draviṇodas': why is wealth called* draviṇa*? Because people run towards it; or* draviṇa *is strength, because by it they run [against enemies]; the giver of that is* draviṇodāḥ*.")* *(continues on p. 65)*
+
+### Page 65 (PDF 85)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 65; foot: printer's signature "5 … Volume 8".)*
+
+"Here the derivation of the word *draviṇodāḥ* is: *draviṇaṃ dadātīti draviṇodāḥ*, 'one who gives *draviṇa*'. The word *draviṇa* has two meanings, wealth and strength. Therefore *draviṇodāḥ* means 'one who gives wealth, or strength'. This is the etymological sense of the word. Besides this, Yāska has stated the following derivation, which suits this Ṛk —"
+
+> द्रविणोदा यस्त्वं । द्रविणस इति द्रविणसादिन इति वा द्रविणसानिन इति वा द्रविणसस्स्मात् पिबस्तीति वा । यज्ञेषु देवमीळते । योचन्ति सुन्वन्ति वर्धयन्ति पूजयन्तीति वा ॥
+> *draviṇodā yas tvaṃ | draviṇasa iti draviṇasādina iti vā draviṇasānina iti vā draviṇasassmāt pibastīti vā | yajñeṣu devam īḷate | yocanti sunvanti vardhayanti pūjayantīti vā ‖*
+> (*Ni.* 8-2 as read [?])
+
+*(The Sanskrit of this quotation is clotted in the print and is read as given, doubtful throughout [?].)* "That is: the priests, desiring wealth, oblations and the like, pray to you, 'Draviṇodas', in the sacrifices, as drinkers of Soma: so the principal sense. Here, though the word *draviṇodāḥ* is in the nominative singular, to be an epithet of the accusative singular *devam*, one must supply by *adhyāhāra* the words 'draviṇodāḥ yaḥ devaḥ, taṃ devam': 'the god who is giver of wealth, that god'. The priests, being those who pray to the god for the sake of worshipping, are called *draviṇasaḥ* ('those who desire wealth, or oblations'). And *īḷate* means 'they ask, they praise, they extol, they worship': many senses can be given."
+
+> तत्को द्रविणोदा इन्द्र इति क्रौष्टुकिः ।
+> स बलधनयोर्दातेत्यमुष्य च सर्वा बलकृतिः ॥
+> *tat ko draviṇodā indra iti krauṣṭukiḥ |*
+> *sa baladhanayor dāteti amuṣya ca sarvā balakṛtiḥ ‖*
+> (*Ni.* 8-2 verse, as read [?])
+
+*(Translation, mine and tentative: "'Who then is Draviṇodas?' — 'Indra', says Krauṣṭuki: 'for he is the giver of strength and wealth, and all the works of strength are his'.")* "The etymological sense of the word *draviṇodāḥ* has been stated. But who is the deity called *draviṇodāḥ*? He is Indra: since he gives, in abundance, the strength and wealth that the word *draviṇa* signifies, Krauṣṭuki says that Indra should be called *draviṇodāḥ*."
+
+> अथास्याग्निं द्रविणोदसमाहैष पुनरेतस्माज्जायते । योऽश्मनोरन्तरग्निं जजान इत्यपि निगमो भवति ॥
+> *athāsyāgniṃ draviṇodasam āhaiṣa punar etasmāj jāyate | yo aśmanor antar agniṃ jajāna ity api nigamo bhavati ‖*
+
+*(Translation, mine and tentative: "Next, they call Agni 'Draviṇodas': he is born again from this [Indra]; and there is also a Vedic text: 'who begot Agni between the two stones'.")* "And they also give this word another meaning: Indra created heaven and earth, and between them he created Agni; therefore the word *draviṇodāḥ* may be said to mean Agni, and to support this meaning they give as an example the Ṛk '*aśmanor antar agniṃ jajāna*' —"
+
+> अथाप्यृतुयाजेषु द्रविणोदसः प्रवादा भवन्ति । तेषां पुनः पात्रस्यैन्द्रपानमिति भवति ॥ अथाप्येनं सोमपानेन स्तौति । अथाप्याह द्रविणोदः पिबतु द्रविणोदस इति ॥
+> *athāpy ṛtuyājeṣu draviṇodasaḥ pravādā bhavanti | teṣāṃ punaḥ pātrasyaindrapānam iti bhavati ‖ athāpy enaṃ somapānena stauti | athāpy āha draviṇodaḥ pibatu draviṇodasa iti ‖*
+
+*(Translation, mine and tentative: "And further, in the* ṛtu-yājas*, there are statements about Draviṇodas; and of these, 'the drinking of the vessel is Indra's drinking'. And further, he praises him as one who drinks Soma; and further it says: 'let Draviṇodas drink, Draviṇodas'.")*
+
+---
+
+**Progress note:** Printed pp. 1–65 done (PDF 21–85): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; *sa pratnathā*; Kutsa Āṅgirasa; Triṣṭubh; Agni as Draviṇodas, or Agni; 15th Anuvāka; printed pp. 61–?): Anuvāda, heading block and Rik 96.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 96.1 (the long Nirukta discussion of *draviṇodāḥ*) under way on pp. 64–65, breaking at the foot of p. 65 after Yāska's quotation about the *ṛtuyājas* and Soma-drinking. Next: printed p. 66 (PDF 86). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–65) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–65 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā reference on p. 64 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
