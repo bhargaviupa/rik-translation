@@ -5998,4 +5998,91 @@ Closing of Rik 86.9: "॥ ९ ॥" (9), followed by a rule.
 
 ---
 
-**Progress note:** Printed pp. 1–215 done (PDF 16–230) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–216 — the contents table lists Sūkta 87 at p. 215, but p. 215 is still Rik 86.10, so Sūkta 87 begins on p. 216 or later [to be confirmed]): **Riks 86.1–86.9 complete**; **Rik 86.10** (the last) done through its Special Topics and the grammar of *gūhata*, *yāta*, *atriṇam*, *uśmasi* (the last entry runs on p. 216, and the Ṛk's closing numeral and any Sūkta-closing line follow). Next: printed p. 216 (PDF 231). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences "vidā/vida", "vidhyatā/vidhyata", "gūhatā/gūhata", "kartā/karta" in 86.8–86.10; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 216 (PDF 231)
+
+*(Running head: "216 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86 [print: 87?]".)*
+
+*Vyākaraṇa-prakriyā of Rik 86.10, concluded from p. 215:*
+
+- **उश्मसि** (cont.) — "…since *yat* is in connexion, the *nighāta* accent does not occur; by the affix-accent (*ādyudātta*) the vowel after *m* is acute."
+
+Closing of Rik 86.10: "॥ १० ॥" (10). *(The print has no separate closing line for Sūkta 86; it ends here, at the head of p. 216.)*
+
+---
+
+## Sūkta 87 (Maṇḍala 1, Sūkta 87) — "एंभत्तेळनेय सूक्तवु" (*embhattēḷaneya sūktavu*, "the eighty-seventh Sūkta")
+
+*(Heading printed large, in Kannada: "ಎಂಭತ್ತೇಳನೆಯ ಸೂಕ್ತವು". The contents table of the volume gives p. 215 for this sūkta; in the print it begins on p. 216.)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; numerals [?])**
+
+> प्रत्वक्षस इति षडृचं तृतीयं सूक्तं गोतमस्यार्षं जागतं मारुतम् । तथा चानुक्रान्तम् । प्रत्वक्षसः षड्जागतमिति ॥ अग्निष्टोमे अग्निमारुतशस्त्र इदं सूक्तं मारुतनिविद्धानम् । अथ यथैतमिति खण्डे सूत्रितम् । प्रत्वक्षसः प्रतवसो यज्ञा यज्ञा वो अग्नये । आ. ५-२० [?] । इति ॥
+
+*pratvakṣasa iti ṣaḍṛcaṃ tṛtīyaṃ sūktaṃ gotamasyārṣaṃ jāgataṃ mārutam | tathā cānukrāntam | pratvakṣasaḥ ṣaḍ jāgatam iti ‖ agniṣṭome agnimārutaśastra idaṃ sūktaṃ mārutanividdhānam | atha yathaitam iti khaṇḍe sūtritam | pratvakṣasaḥ pratavaso yajñā yajñā vo agnaye | Ā. 5-20 [?] | iti ‖*
+
+*Translation:* "The third sūkta, *pratvakṣasaḥ*, of six Ṛks, is the vision of Gotama, in the Jagatī metre, addressed to the Maruts; so it is recorded in the Anukramaṇī: '*pratvakṣasaḥ ṣaḍ jāgatam*'. In the *Agniṣṭoma*, in the *Āgnimāruta śastra*, this sūkta is used at the *mārutanividdhāna* [as printed]; it is prescribed in the section *atha yathaitam*: '*pratvakṣasaḥ pratavaso yajñā yajñā vo agnaye*' (Āś. [5-20] [?])."
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *pratvakṣasaḥ* is the third sūkta in this anuvāka. There are six Ṛks in it. The ṛṣi of this sūkta is Gotama, the deities are the Maruts, the metre is Jagatī. In the Anukramaṇī it is said '*pratvakṣasaḥ ṣaḍ jāgatam*'. In the *Agniṣṭoma* sacrifice, at the time of reciting the *Āgnimāruta śastra* mantras, this sūkta has an application for the *mārutanividdha* mantras; the Āśvalāyana Śrauta-sūtra sets this forth in the section *atha yathaitam* by the sūtra '*pratvakṣasaḥ pratavaso yajñā yajñā vo agnaye*' (Āś. [5-20] [?])."
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ८७ — Sūkta 87**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ८७ — *Maṇḍala 1 · Anuvāka 14 · Sūkta 87*
+- अष्टक १ · अध्याय ६ · वर्ग १३ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 13 [?]*
+- सूक्तदल्लिरुव ऋक्संख्ये — ६ — *number of Ṛks in the sūkta: 6*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — इन्द्रः [sic: as printed; the introduction above and the Anukramaṇī say the Maruts] — *deity: "Indra" as printed on this heading line — evidently a misprint for the Maruts*
+- छन्दः — जगती — *metre: Jagatī*
+
+---
+
+### Page 217 (PDF 232)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 217.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.1)** *(Jagatī; Maruts; accents not reproduced)*
+
+> प्रत्वक्षसः प्रतवसो विरप्शिनोऽनानता अविथुरा ऋजीषिणः ।
+> जुष्टतमासो नृतमासो अञ्जिभिर्व्यानज्रे के चिदुस्रा इव स्तृभिः ॥ १ ॥
+
+*pratvakṣasaḥ pratavaso virapśino 'nānatā avithurā ṛjīṣiṇaḥ | juṣṭatamāso nṛtamāso añjibhir vy ānajre ke cid usrā iva stṛbhiḥ ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "The great slayers, of surpassing strength, loud-resounding, unbowed, unshaken, drinkers of the strained Soma, most beloved, best of leaders — they have shown themselves with their ornaments, like some rays [of light] with their stars [or: with their coverings]."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.1)**
+
+> प्रत्वक्षसः । प्रऽतवसः । विऽरप्शिनः । अनानताः । अविऽथुराः । ऋजीषिणः ।
+> जुष्टऽतमासः । नृऽतमासः । अञ्जिऽभिः । वि । आनज्रे । के । चित् । उस्राःऽइव । स्तृऽभिः ॥ १ ॥
+
+*pratvakṣasaḥ | pra-tavasaḥ | vi-rapśinaḥ | anānatāḥ | avi-thurāḥ | ṛjīṣiṇaḥ | juṣṭa-tamāsaḥ | nṛ-tamāsaḥ | añji-bhiḥ | vi | ānajre | ke | cit | usrāḥ-iva | stṛ-bhiḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.1)**
+
+> प्रत्वक्षसः शत्रूणां प्रकर्षेण तनूकर्तारः । शत्रुघातिन इत्यर्थः । यतः प्रतवसः प्रकृष्टबलोपेता अत एव विरप्शिनो विविधशब्दोपेताः [?] । यद्वा । महन्नामैतत् । महान्तो हि विविधैः शब्दैः प्रशस्यन्ते । अत एवानानता आनतिरहिताः । सर्वोत्कृष्टा इत्यर्थः । अविथुरा अवियुक्ताः । सप्तगणरूपेण सङ्घीभूता इत्यर्थः । ऋजीषिणः । तृतीयसवने ऋजीषस्याभिषवणात्तत्र च मरुतः स्तूयन्त इति तेषामृजीषित्वम् । यद्वा । ऋजीषिणः प्रार्जयितारो रसानाम् । जुष्टतमासोऽतिशयेन यष्टृभिः सेविताः । नृतमासोऽतिशयेन मेघादेर्नेतारः । एवंभूता मरुतः स्तृभिः स्वशरीरस्याच्छादकैरञ्जिभी रूपाभिव्यञ्जकैराभरणैर्व्यानज्रे । नभसि व्यक्ता दृश्यन्ते । तत्र दृष्टान्तः । के चिदुस्रा इव । ये केचन सूर्यरश्मयो यथा नभसि दीप्यन्ते तद्वत् ॥ प्रत्वक्षसः । प्रकर्षेण त्वक्षन्ते तनूकुर्वन्तीति प्रत्वक्षसः । त्वक्षू त्वक्षू तनूकरणे । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । प्रतवसः । तव इति बलनाम । प्रकृष्टं तवो येषां । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । विरप्शिनः । रप लप जल्प व्यक्तायां वाचि । विरपणं विरप्शः । णिनादिकः शक्प्रत्ययः [?] । तद्वन्तो विरप्शिनः । अनानताः । आनता अवनताः प्रह्वीभूताः । न आनता अनानताः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अविथुराः । व्यथ भयचलनयोः । व्यथेः सम्प्रसारणं थः किच्च । (उ. १-४० [?]) इत्युरच्प्रत्ययः । अत्र तु बहुलवचनाद्वृद्धिर्न क्रियते । पूर्ववत्समासस्वरः । जुष्टतमासः । नित्यं मन्त्रे इति जुष्टशब्द आद्युदात्तः । तत आतिशायनिकस्य तमासः पित्त्वादनुदात्तत्वे स एव स्वरः शिष्यते । आनज्रे । अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु । कर्मणि छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । आत आदेरित्यभ्यासस्यात्वम् [?] । तस्मान्नुट् द्विहलः (पा. ७-३-७१ [?]) इति नुट् । व्यत्ययेनोपधालोपः । इरयोरे । स्तृभिः । स्तृञ् आच्छादने । क्विप् । आगमानुशासनस्यानित्यत्वात्तुगभावः ॥ १ ॥
+
+*pratvakṣasaḥ śatrūṇāṃ prakarṣeṇa tanūkartāraḥ | śatrughātina ity arthaḥ | yataḥ pratavasaḥ prakṛṣṭabalopetā ata eva virapśino vividhaśabdopetāḥ [?] | yadvā | mahannāmaitat | mahānto hi vividhaiḥ śabdaiḥ praśasyante | ata evānānatā ānatirahitāḥ | sarvotkṛṣṭā ity arthaḥ | avithurā aviyuktāḥ | saptagaṇarūpeṇa saṅghībhūtā ity arthaḥ | ṛjīṣiṇaḥ | tṛtīyasavane ṛjīṣasyābhiṣavaṇāt tatra ca marutaḥ stūyanta iti teṣām ṛjīṣitvam | yadvā | ṛjīṣiṇaḥ prārjayitāro rasānām | juṣṭatamāso 'tiśayena yaṣṭṛbhiḥ sevitāḥ | nṛtamāso 'tiśayena meghāder netāraḥ | evaṃbhūtā marutaḥ stṛbhiḥ svaśarīrasyācchādakair añjibhī rūpābhivyañjakair ābharaṇair vy ānajre | nabhasi vyaktā dṛśyante | tatra dṛṣṭāntaḥ | ke cid usrā iva | ye kecana sūryaraśmayo yathā nabhasi dīpyante tadvat ‖ pratvakṣasaḥ | prakarṣeṇa tvakṣante tanūkurvantīti pratvakṣasaḥ | tvakṣū tvakṣū tanūkaraṇe | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ cety asun pūrvapadaprakṛtisvaratvaṃ ca | pratavasaḥ | tava iti balanāma | prakṛṣṭaṃ tavo yeṣāṃ | bahuvrīhau pūrvapadaprakṛtisvaratvam | virapśinaḥ | rapa lapa jalpa vyaktāyāṃ vāci | virapaṇaṃ virapśaḥ | ṇinādikaḥ śak-pratyayaḥ [?] | tadvanto virapśinaḥ | anānatāḥ | ānatā avanatāḥ prahvībhūtāḥ | na ānatā anānatāḥ | avyayapūrvapadaprakṛtisvaratvam | avithurāḥ | vyatha bhayacalanayoḥ | vyatheḥ samprasāraṇaṃ thaḥ kic ca | (Uṇ. 1-40 [?]) ity urac-pratyayaḥ | atra tu bahulavacanād vṛddhir na kriyate | pūrvavat samāsasvaraḥ | juṣṭatamāsaḥ | nityaṃ mantre iti juṣṭaśabda ādyudāttaḥ | tata ātiśāyanikasya tamāsaḥ pittvād anudāttatve sa eva svaraḥ śiṣyate | ānajre | añjū vyaktimrakṣaṇakāntigatiṣu | karmaṇi chandasi luṅlaṅliṭa iti vartamāne liṭ | āta āder ity abhyāsasyātvam [?] | tasmān nuṭ dvihalaḥ (Pā. 7-3-71 [?]) iti nuṭ | vyatyayenopadhālopaḥ | irayor e | stṛbhiḥ | stṛñ ācchādane | kvip | āgamānuśāsanasyānityatvāt tugabhāvaḥ ‖ 1 ‖*
+
+*(Kannada script; the grammatical tail is compressed and several sūtra wordings and numerals are read with doubt [?]; the first alternative on* virapśinaḥ *and the sūtra on* ānajre *are least certain.)*
+
+*Translation:* "*Pratvakṣasaḥ* — those who thin out (*tanūkartāraḥ*) their enemies to the utmost: that is, slayers of enemies. Since they are *pratavasaḥ* — possessed of outstanding strength — they are therefore *virapśinaḥ* — endowed with various cries [of praise] [?]. Or: this is a name for 'great': the great are praised with many words; for that very reason *anānatāḥ* — unbowed, the best of all; *avithurāḥ* — not separated, that is, banded together as the group of seven; *ṛjīṣiṇaḥ* — since the *ṛjīṣa* is pressed at the third pressing, and the Maruts are praised there, they have the quality of *ṛjīṣa*; or 'those who bring forth the juices'. *Juṣṭatamāsaḥ* — most served by the sacrificers; *nṛtamāsaḥ* — foremost guides of cloud and the like. Such Maruts *vy ānajre* — become visible, shine forth, in the sky with *añjibhiḥ* — ornaments that manifest their form — and *stṛbhiḥ* — coverings of their body; as some rays of the sun (*usrāḥ*) shine in the sky, so they. *Grammar tail, noted briefly:* *pratvakṣasaḥ* — *tvakṣū* 'to make thin' with *asun*; *pratavasaḥ* — *tavas* is a name of strength; *virapśinaḥ* — *rapa* 'to speak'; *anānatāḥ* — *ānata* = bowed; with the negative; *avithurāḥ* — *vyatha* 'to fear, to move', with *urac* and *saṃprasāraṇa*; *juṣṭatamāsaḥ* — *juṣṭa* is acute on its first syllable, *tamāsa* is unaccented because *pit*; *ānajre* — *añjū* with Vedic *liṭ* in the present sense; *stṛbhiḥ* — *stṛñ ācchādane* with *kvip*, no augment *tuk* since the rule of augments is not invariable."
+
+---
+
+### Page 218 (PDF 233)
+
+*(Running head: "218 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.1)** *(Kannada)*
+
+*pratvakṣasaḥ* — destroyers of enemies; *pratavasaḥ* — those endowed with surpassing strength; *virapśinaḥ* — makers of various cries of victory, or possessed of greatness praised with various words (for that reason); *anānatāḥ* — bowing to none (the best of all); *avithurāḥ* — ever together (not separate); *ṛjīṣiṇaḥ* — those who drink Soma together at the third pressing; *juṣṭatamāsaḥ* — those most served (by the sacrificers); *nṛtamāsaḥ* — the Maruts, who are chief guides of the clouds; *stṛbhiḥ* — covering their bodies; *añjibhiḥ* — with ornaments that display their beauty; *kecit usrā iva* — like certain well-known rays of the sun; *vy ānajre* — (in the atmosphere) appear prominently.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.1** *(Kannada)*
+
+"The Maruts are destroyers of enemies and have surpassing strength. Making various cries of victory they traverse the highest places, bowing to none. Always united, not single, and above all they gather at the third pressing and drink Soma. Most served by the sacrificers, and the foremost guides of the clouds, those Maruts appear in the atmosphere, with ornaments that display the beauty with which they cover their bodies, prominent like certain well-known rays of the sun in the sky."
+
+---
+
+**Progress note:** Printed pp. 1–218 done (PDF 16–233) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–86 complete** (86: ten Ṛks, ended at the head of p. 216, no closing line). **Sūkta 87** (six Ṛks, Jagatī; Maruts — the print's heading line says "Indra", evidently a misprint; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, third sūkta; begins p. 216; the contents table gives p. 215): heading, introduction, Anuvāda done; **Rik 87.1** done through the Pratipadārtha and Bhāvārtha (p. 218); next: its English, Special Topics and grammar (p. 219), then 87.2–87.6. Next: printed p. 219 (PDF 234). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
