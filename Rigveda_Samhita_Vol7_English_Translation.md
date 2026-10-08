@@ -7228,4 +7228,93 @@ Closing of Rik 88.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–260 done (PDF 16–275) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.4 complete**; **Rik 88.5** (Virāḍrūpā) done through its English and most of its Special Topics (the Yāska quotation *athāpy ete mādhyamikā devagaṇā varāhava…* breaks off at the foot of p. 260); next: the rest of 88.5's Special Topics, its grammar page, then 88.6. Next: printed p. 261 (PDF 276). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 261 (PDF 276)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 261.)*
+
+*Special Topics of Rik 88.5, concluded from p. 260 — Yāska's quotation:*
+
+> …उच्यन्ते पश्यन् हिरण्यचक्रान् ॥
+
+*…ucyante paśyan hiraṇyacakrān ‖* (Ni. [5-4] [?]) — *Gloss, mine and tentative:* "…are called *varāhavaḥ* — [as in the Ṛk] 'seeing the golden-wheeled ones'."
+
+"Yāska says that, of the three regions — heaven, atmosphere and earth — the deities of the middle, atmospheric region are called *varāhavaḥ*. Since the Marut deities belong to the company of these atmospheric deities, they are referred to by the name *varāhavaḥ*; thus he makes clear that the word *varāhavaḥ* has the sense 'Marut deities'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 88.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **अचेति** — the root *citī saṃjñāne*; in the present sense, in the passive, by "छन्दसि लुङ्लङ्लिटः" *luṅ*; third person singular, the affix *ta*; by "चिण् भावकर्मणोः" (Pā. Sū. 3-1-[66]) *ciṇ* for *cli* in the passive; by "पुगन्तलघूपधस्य च" the *guṇa* of the *laghūpadha*, with *ciṇ* as the occasion; by "चिणो लुक्" (Pā. Sū. 6-4-[104]) the *luk* of the *ta* that follows *ciṇ*; the augment *aṭ* for the *aṅga* because of *luṅ*; since it follows an *atiṅanta*, the *nighāta*.
+- **सस्वः** — the root *svṛ śabdopatāpayoḥ*; *laṅ*, third person singular, the affix *tip*; by "इतश्च" the loss of its *i*; by "बहुलं छन्दसि" the *ślu* for the *vikaraṇa* *śap*; by "श्लौ" the reduplication; the reduplicate keeps its *hal*-initial; by "उरत्" the *a* for the *ṛ* with *raparatva*, and again the *hal*-initial remains; *sasvṛ + t*: by the affix [as read] the *guṇa* of the *ṛ* of the root with *r*; by "हल्ङ्याब्भ्यो…" the loss of the affix; by the final-*r*, *visarga*; since *aṭ*-augment is [here] not present because Yāska [*ati*-]… the *nighāta* does not come since a *tiṅanta* precedes; by the root's accent the final acute. *(The reasoning on the augment is read with doubt [?].)*
+- **पश्यन्** — the root *dṛśir prekṣaṇe*; the affix *śatṛ* in the sense of *laṭ*; since it is *śit*, by "पाघ्राध्मास्थाम्नादाण्दृश्यर्त्ति…" the substitute *paśya* for the root; since the *lasārvadhātuka* is unaccented, the root's accent remains.
+- **विधावतः** — the root *dhāvu gatiśuddhyoḥ*; the affix *śatṛ*; as before the root's accent remains; accusative plural.
+- **वराहून्** — the root *hana hiṃsāgatyoḥ*, or *hṛñ haraṇe*, preceded by *āṅ* … *(this is the grammar page's note on the derivation; the sentence as printed)*: when the word *vara* stands as the first member, the form *hu* is obtained; or from *hvā spardhāyām*, or *hu dānādanayoḥ*: since some say it is from the root *hu*, only the sense of eating need be given; with all these roots the form is obtained by the doctrine of *pṛṣodarādi*; accusative plural.
+
+Closing of Rik 88.5: "॥ ५ ॥" (5).
+
+---
+
+### Page 262 (PDF 277)
+
+*(Running head: "262 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 88.6)** *(Prastārapaṅkti — the last Ṛk; Maruts; accents not reproduced)*
+
+> एषा स्या वो मरुतोऽनुभर्त्री प्रति ष्टोभति वाघतो न वाणी ।
+> अस्तोभयद्वृथासामनु स्वधां गभस्त्योः ॥ ६ ॥
+
+*eṣā syā vo maruto 'nubhartrī prati ṣṭobhati vāghato na vāṇī | astobhayad vṛthāsām anu svadhāṃ gabhastyoḥ ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "This is that [praise] of yours, O Maruts, the following [bearer]; it sounds forth to you like the voice of a priest; it has cheered, without trouble, along with these [Ṛks], the sustenance [food] in [your] hands."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 88.6)**
+
+> एषा । स्या । वः । मरुतः । अनुऽभर्त्री । प्रति । स्तोभति । वाघतः । न । वाणी ।
+> अस्तोभयत् । वृथा । आसाम् । अनु । स्वधाम् । गभस्त्योः ॥ ६ ॥
+
+*eṣā | syā | vaḥ | marutaḥ | anu-bhartrī | prati | stobhati | vāghataḥ | na | vāṇī | astobhayat | vṛthā | āsām | anu | svadhām | gabhastyoḥ ‖ 6 ‖*
+
+*(The Saṃhitā prints* ṣṭobhati *with the sandhi-ṣatva after* prati*; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 88.6)**
+
+> हे मरुतः स्या सैषास्मदीया स्तुतिर्वो युष्माकमनुभर्त्री युष्माननुहरन्ती युष्मद्गुणसदृशी प्रति ष्टोभति । प्रत्येकं स्तौति । स्तोभतिः स्तुतिकर्मा । तथा वाघतो न वाणी । नशब्दः सम्प्रत्यर्थे । तदुक्तं यास्केन । अस्त्युपमार्थस्य सम्प्रत्यर्थे प्रयोगः । नि. १-१० [?] इति । इदानीमृत्विक्सम्बन्धिनी वागपि वृथानायासेनासामाभिर्मन्त्रैरस्तोभयत् । अस्तौत् । इदानीमृत्विक्को कदेत्याह । गभस्त्योरस्मदीययोर्बाह्वोः स्वधामन्नं । अन्ननामैतत् । यदा बहुविधमन्नं मरुतः स्थापयन्ति । तामनुलक्ष्येत्यर्थः ॥ अनुभर्त्री । हृञ् हरणे । तृच् । ऋन्नेभ्य इति ङीप् । उदात्तयणो हल्पूर्वादिति नद्या उदात्तत्वम् ॥
+
+*he marutaḥ syā saiṣāsmadīyā stutir vo yuṣmākam anubhartrī yuṣmān anuharantī yuṣmadguṇasadṛśī prati ṣṭobhati | pratyekaṃ stauti | stobhatiḥ stutikarmā | tathā vāghato na vāṇī | naśabdaḥ sampratyarthe | tad uktaṃ yāskena | asty upamārthasya sampratyarthe prayogaḥ | Ni. 1-10 [?] iti | idānīm ṛtviksambandhinī vāg api vṛthānāyāsenāsām ābhir mantrair astobhayat | astaut | idānīm ṛtvik ko kadety āha | gabhastyor asmadīyayor bāhvoḥ svadhām annaṃ | annanāmaitat | yadā bahuvidham annaṃ marutaḥ sthāpayanti | tām anulakṣyety arthaḥ ‖ anubhartrī | hṛñ haraṇe | tṛc | ṛnnebhya iti ṅīp | udāttayaṇo halpūrvād iti nadyā udāttatvam ‖*
+
+*(Kannada script; the clause "idānīm ṛtvik ko kadety āha" is clotted and read with doubt [?].)*
+
+*Translation:* "O Maruts, *syā* — that very praise of ours, *vo anubhartrī* — which follows you, matches your virtues — *prati ṣṭobhati* — praises each of you; *stobhati* is 'to praise'. And like the voice (*vāṇī*) of the priest (*vāghataḥ*) — *na* here is in the sense of 'now' (*sampratyartha*): Yāska says 'the word *na* in the sense of comparison also occurs in the sense of "now"' (Ni. [1-10] [?]). Now the speech of the priest, too, with these mantras, has praised effortlessly (*vṛthā*, without trouble) — *astobhayat*. Having regard to the food (*svadhām*) that you set in our hands (*gabhastyoḥ*) — *svadhā* is a name of food — when the Maruts place food of many kinds — so the meaning. *Grammar tail, noted briefly:* *anubhartrī* — *hṛñ haraṇe* with *tṛc*, feminine *ṅīp*; the *nadī* ending takes the acute by "udāttayaṇo halpūrvāt"."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 88.6)** *(Kannada)*
+
+*marutaḥ* — O Maruts; *syā eṣā* — this our praise; *vaḥ* — to you; *anubhartrī* — in keeping with your greatness; *prati ṣṭobhati* — it praises each one of you; *gabhastyoḥ* — in our hands; *svadhām* — (various kinds of) food (since the Maruts favour us); *na* — now; *vāghataḥ* — of the priest; *vāṇī* — speech; *vṛthā* — without effort; *āsām* — together with these Ṛks; *astobhayat* — has praised.
+
+---
+
+### Page 263 (PDF 278)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 263.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 88.6** *(Kannada)*
+
+"O Maruts, our praise, in keeping with your greatness, pervades and praises each one of you separately. Because you, Maruts, favour us with food of many kinds in both our hands, now the speech of the priest has praised you, without trouble, along with these Ṛks."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, this is that praise which suited to your merits glorifies every one of you. The speech of the priest has now glorified you, without difficulty, with sacred verses since you have placed food in our hands." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 88.6)**
+
+- **स्या** — *saiṣā* — "that very one; *syā* is the feminine of *syaḥ*, 'that'."
+- **अनुभर्त्री** — *hṛñ haraṇe | yuṣmān anuharantī, yuṣmadguṇasadṛśī* — "following you; that is, in keeping with, suited to your greatness."
+- **ष्टोभति** (*stobhati*) — "among the twenty-four verbs of praising — *arcati, gāyati* and the rest — the word *stobhati* is read, so *stobhati* means 'praises' (Ni. [3-?] [?])."
+- **वाघतः** — "among the eight names of priests — *bhāratāḥ, kuravaḥ* and the rest — the word *vāghataḥ* is read, so *vāghataḥ* means 'priests'. Here *vāghataḥ vāṇī* means the speech in the form of praise recited by the priests."
+- **न** — "Yāska says this word: '*asty upamārthasya sampratyarthe prayogaḥ*' (Ni. [1-10] [?]): the word *na*, which has the sense of comparison, is also used in the sense 'now'. Since both the sense of comparison and 'now' exist for the word *na*, the bhāṣyakāra here gives only the sense 'now'. Skandasvāmin gives the sense of comparison."
+- **वृथा** — "without trouble, without effort."
+- **स्वधाम्** — "among the twenty-eight names of food — *andhaḥ, vājaḥ* and the rest — the word *svadhā* is read; so *svadhām* means food, or the food in the form of oblation."
+- **गभस्त्योः** — "among the names of arms — *āyuṣī, jyavānā* and the rest — the word *gabhasti* is read; so *gabhastyoḥ* means in the arms, or in the hands."
+
+**Closing of Rik 88.6 and of Sūkta 88.** *(The grammar page of this Ṛk, if the print has one, is not on p. 263: after the Special Topics, p. 263 ends; the Vyākaraṇa-prakriyā of Rik 88.6 begins on p. 264, PDF 279.)*
+
+---
+
+**Progress note:** Printed pp. 1–263 done (PDF 16–278) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263/264): **Riks 88.1–88.5 complete**; **Rik 88.6** (the last) done through the Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics; **only its grammar page remains (printed p. 264, PDF 279)**, followed by the start of Sūkta 89 (contents table: p. 264) — the sūkta boundary is to be confirmed on viewing. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259, 261, 263 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; p. 261 *sasvaḥ* grammar doubtful; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
