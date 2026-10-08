@@ -9893,4 +9893,84 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–349 done (PDF 16–364) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.5 complete; Rik 91.6 done through the grammar page, which breaks at the foot of p. 349 at *marāmahe* (*vyatyayo bahulam* → *śap*) and continues on p. 350 (not yet viewed). Next: printed p. 350 (PDF 365). Open flags: Special Topics of 91.6 (pp. 348–349): Ṛgveda, Taittirīya and Nirukta numerals in small digits [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted (*caṇ*/*ced* reading and the *nipātair yad…* citation doubtful [?]); Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini numeral 8-1-30 [?]; Special Topics of 91.5 (pp. 345–346): Ṛgveda, Taittirīya and Āśvalāyana numerals [?]; Pāṇini numerals on p. 346 [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; Special Topics of 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; the *ūḍidaṃ padādi* sūtra number on p. 343 not legible; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of 91.3 (pp. 335–337) [?]; of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 350 (PDF 365)
+
+*(Running head: left "350", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Vyākaraṇa-prakriyā of Rik 91.6, continued from p. 349 (grammar page, noted briefly):* *marāmahe* — (*śap* by *vyatyaya*, as at the foot of p. 349); by *ato dīrgho yañi* (अतो दीर्घो यञि) the stem-final *a* is lengthened; the *nighāta* accent, as the verb follows a word.
+*priyastotraḥ* — *priyāṇi stotrāṇi yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (बहुव्रीहौ प्रकृत्या पूर्वपदम्) — the first member keeps its natural accent.
+*vanaspatiḥ* — by *ubhe vanaspatyādiṣu* (उभे वनस्पत्यादिषु, Pā. 6-2-140 [?]) both the first and the final members keep their natural accent at once. *vanānāṃ patiḥ vanaspatiḥ*: since it belongs to the *pāraskarādi* group, the augment *suṭ* comes. ‖ 6 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.7)**
+
+> त्वं सोम महे भगं त्वं यून ऋतायते ।
+> दक्षं दधासि जीवसे ॥ ७ ॥
+
+*tvaṃ soma mahe bhagaṃ tvaṃ yūna ṛtāyate | dakṣaṃ dadhāsi jīvase ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.7)**
+
+> त्वम् । सोम । महे । भगम् । त्वम् । यूने । ऋतऽयते ।
+> दक्षम् । दधासि । जीवसे ॥ ७ ॥
+
+*tvam | soma | mahe | bhagam | tvam | yūne | ṛta-yate | dakṣam | dadhāsi | jīvase ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.7)** *(begins at the foot of p. 350)*
+
+> आयुष्कामेष्ट्यां द्वितीयस्याज्यभागस्य त्वं सोम महे भगमित्येषानुवाक्या । अथ काम्या इति खण्डे सूत्रितं । आ नो अग्ने सुचेतुना त्वं सोम महे भगं । आ. २-१० [?] । इति ॥ हे सोम त्वं महे महते वृद्धाय ऋतायते ऋतं यज्ञमात्मन इच्छते पुरुषाय जीवसे जीवितुं वपुरुपभोगसमर्थं [?] भगं धनं दधासि ।
+
+*āyuṣkāmeṣṭyāṃ dvitīyasyājyabhāgasya tvaṃ soma mahe bhagam ity eṣānuvākyā | atha kāmyā iti khaṇḍe sūtritaṃ | ā no agne sucetunā tvaṃ soma mahe bhagaṃ | Ā. 2-10 [?] | iti ‖ he soma tvaṃ mahe mahate vṛddhāya ṛtāyate ṛtaṃ yajñam ātmana icchate puruṣāya jīvase jīvituṃ vapur upabhogasamarthaṃ [?] bhagaṃ dhanaṃ dadhāsi |*
+
+---
+
+### Page 351 (PDF 366)
+
+*(Running head left: "A. 1 A. 6 Va. 20 [?]"; centre: "Ṛgvedasaṃhitā"; right: 351.)*
+
+> विदधासि करोषि । तथा त्वं यूने तरुणाय च ऋतायते जीवितुं धनं करोषि ॥ महे । महतः । अच्छब्दलोपश्छान्दसः । बृहन्महतोरुपसंख्यानमिति विभक्तेरुदात्तत्वं । यूने । श्वयुवमघोनामतद्धिते इति संप्रसारणं । ऋतायते । ऋतमात्मन इच्छति । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येत्वदीर्घयोर्निषेधः । अन्येषामपि दृश्यत इति सांहितिको दीर्घः । क्यजन्ताल्लटः शतृ । शतुरनुमो नद्यजादी इति विभक्तेरुदात्तत्वं । जीवसे । जीव प्राणधारणे । तुमर्थे सेसेनसे [?] इत्यसे प्रत्ययः ॥
+
+*vidadhāsi karoṣi | tathā tvaṃ yūne taruṇāya ca ṛtāyate jīvituṃ dhanaṃ karoṣi ‖ mahe | mahataḥ | acchabdalopaś chāndasaḥ | bṛhanmahator upasaṃkhyānam iti vibhakter udāttatvaṃ | yūne | śvayuvamaghonām ataddhite iti saṃprasāraṇaṃ | ṛtāyate | ṛtam ātmana icchati | supa ātmanaḥ kyac | na chandasy aputrasyetvadīrghayor niṣedhaḥ | anyeṣām api dṛśyata iti sāṃhitiko dīrghaḥ | kyajantāl laṭaḥ śatṛ | śatur anumo nadyajādī iti vibhakter udāttatvaṃ | jīvase | jīva prāṇadhāraṇe | tumarthe sesenase [?] ity ase pratyayaḥ ‖*
+
+*Translation:* "O Soma, to the *mahe* — the great, the old — *ṛtāyate*, the person who desires for himself *ṛta*, the sacrifice, *jīvase*, in order to live, you bestow *bhagam*, wealth [fit for enjoyment (the print here is clotted [?])]. *Vidadhāsi* means 'you make'. And likewise to the young (*yūne*) who desires the sacrifice you give wealth in order to live."
+
+*Grammar tail:* *mahe* from *mahat*, the loss of the final *t* being Vedic; the case-ending acute by the *vārttika* "*bṛhanmahator upasaṃkhyānam*". *yūne* — the *saṃprasāraṇa* by *śvayuvamaghonām ataddhite*. *ṛtāyate* — "he wishes *ṛtam* for himself", the suffix *kyac* by *supa ātmanaḥ kyac*; the prohibition of *ī* and lengthening by *na chandasy aputrasya*; the lengthening in the Saṃhitā by *anyeṣām api dṛśyate*; *śatṛ* after the *laṭ* of the *kyac*-ending stem; the case-ending acute by *śatur anumo nadyajādī*. *jīvase* — root *jīva prāṇadhāraṇe*; the suffix *ase* in the sense of the infinitive [citing *tumarthe sesenase…*, partly read [?]].
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.7)** *(Kannada)*
+
+*Soma* — O Soma-deity; *tvam* — you; *ṛtāyate* — to him who desires the sacrifice; *mahe* — to the old one too; *jīvase* — in order to live; *dakṣam* — fit to be enjoyed; *bhagam* — wealth; *dadhāsi* — you graciously give (so); *tvam* — you; *yūne* — to the young one too (who desires to perform sacrifice), you give wealth in order to live.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.7** *(Kannada)*
+
+"O Soma-deity, you graciously give wealth, which they need for living and are fit to enjoy, both to the old who desire to bring the sacrificial works to fulfilment and, in the same way, to the young who so desire."
+
+**English Translation** *(printed in English in the source; Rik 91.7)*
+
+"Soma, you bestow upon him who worships you whether old or young, wealth that he may enjoy and live." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.7)** *(Kannada)*
+
+"In the *Āyuṣkāmeṣṭi*, when the second *ājyabhāga* oblation is offered, the mantra *tvaṃ soma mahe bhagam* is to be used as the *puronuvākyā*; the Āśvalāyana Śrauta-sūtra, in the section beginning *atha kāmyāḥ*, says '*ā no agne sucetunā tvaṃ soma mahe bhagam*' (Ā. 2-10 [?])."
+
+***ṛtāyate*** — *yajñam ātmana icchate puruṣāya* | "Only to the sacrificer who fulfils the sacrifice and desires its fruit are wealth and strength obtained. To the one who does not, there is nothing: this is the meaning. Here: *ṛtāyate mahe, ṛtāyate taruṇāya ca dakṣam upabhogasamarthaṃ dhanaṃ vidadhāsi* — whether the sacrificer is old or young, you graciously give him wealth fit for enjoyment: so Sāyaṇa explains; *mahe bhagaṃ, ṛtāyate yūne balaṃ* —
+
+---
+
+### Page 352 (PDF 367)
+
+*(Running head: left "352", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+"— *vṛddhāya dhanaṃ vā dadāsi*": to the old you graciously give wealth, and to the young who desire to perform sacrifice, strength or growth — so Skandasvāmin explains. '*vṛddhāya dhanaṃ dadhāsi | yūne ca balaṃ ca yacchasi*' [as printed]: Mādhava too, like Skandasvāmin, explains in this way, and, not making the word *dakṣa* an attribute of *bhaga*, gives separate meanings [as read]."
+
+***jīvase*** — "For living." *(printed in English in the source: "for long life.")*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.7)** *(Kannada; grammar page, noted briefly)*
+
+*mahe* — the stem *mahat*; in the dative singular the form is *mahe*; in the Saṃhitā the *t* is elided, Vedic; by the *vārttika* *bṛhanmahator upasaṃkhyānam* the case-ending takes the acute.
+*yūne* — the stem *yuvan*; after the dative singular, by *śvayuvamaghonām ataddhite* (श्वयुवमघोनामतद्धिते, Pā. 6-4-133 [?]) the *va* would take *saṃprasāraṇa*, but since the *va* is followed by a vowel the *ya* is not changed; *va* becomes *u*; by *saṃprasāraṇāc ca* (संप्रसारणाच्च, Pā. 6-1-108 [?]) the preceding form; hence *yūne*.
+*ṛtāyate* — *ṛtam ātmana icchati*; by *supa ātmanaḥ kyac* (सुप आत्मनः क्यच्, Pā. 3-1-8 [?]) *kyac* after the noun *ṛta* in the desiderative sense; by *na chandasy aputrasya* (न छन्दस्यपुत्रस्य, Pā. 7-4-35 [?]) neither *ī* nor lengthening appears; by *anyeṣām api dṛśyate* (अन्येषामपि दृश्यते, Pā. 6-3-137 [?]) the lengthening in the Saṃhitā; by *sanādyantā dhātavaḥ* (सनाद्यन्ता धातवः) the *kyac*-ending is a root; *śatṛ* in the sense of the present participle gives *ṛtāyat*; the dative singular; as the stem has no *num*, by *śatur anumo nadyajādī* (शतुरनुमो नद्यजादी, Pā. 6-1-173 [?]) the case-ending takes the acute.
+*dadhāsi* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ*, second person singular; the *nighāta* accent.
+*jīvase* — root *jīva prāṇadhāraṇe*; when the sense is that of the infinitive, by *tumarthe sesenase…* (तुमर्थे सेसेनसेसेन…, Pā. 3-4-9 [?]) the suffix *ase*; since it ends in a vowel, by *kṛn mejantaḥ* (कृन्मेजन्तः, Pā. 1-1-39 [?]) it is an indeclinable; by the suffix accent the middle syllable is acute. ‖ 7 ‖
+
+---
+
+**Progress note:** Printed pp. 1–352 done (PDF 16–367) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.7 complete (p. 352 ends with the close of the grammar page of 91.7 and a printer's ornament). Next: printed p. 353 (PDF 368) — Saṃhitā of Rik 91.8. Open flags: bhāṣya of 91.7 (p. 350): the clause *vapur upabhogasamarthaṃ* doubtful [?] (the print is clotted; the Special Topics read *dakṣam upabhogasamarthaṃ*); the *tumarthe sesenase…* rule partly read [?]; Pāṇini numerals on p. 352 (6-4-133, 6-1-108, 3-1-8, 7-4-35, 6-3-137, 6-1-173, 3-4-9, 1-1-39) as read, doubtful [?]; Āśvalāyana numeral on pp. 350–351 (2-10) [?]; Pāṇini numeral 6-2-140 on p. 350 [?]; Special Topics of 91.6 (pp. 348–349): Ṛgveda, Taittirīya and Nirukta numerals [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted [?]; Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini numeral 8-1-30 [?]; Special Topics of 91.5 (pp. 345–346): numerals [?]; Pāṇini numerals on p. 346 [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; Special Topics of 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; the *ūḍidaṃ padādi* sūtra number on p. 343 not legible; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of 91.3 (pp. 335–337) [?]; of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
