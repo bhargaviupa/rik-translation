@@ -7317,4 +7317,86 @@ Closing of Rik 88.5: "॥ ५ ॥" (5).
 
 ---
 
-**Progress note:** Printed pp. 1–263 done (PDF 16–278) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263/264): **Riks 88.1–88.5 complete**; **Rik 88.6** (the last) done through the Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics; **only its grammar page remains (printed p. 264, PDF 279)**, followed by the start of Sūkta 89 (contents table: p. 264) — the sūkta boundary is to be confirmed on viewing. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259, 261, 263 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; p. 261 *sasvaḥ* grammar doubtful; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 264 (PDF 279)
+
+*(Running head: "264 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+*Vyākaraṇa-prakriyā of Rik 88.6 (grammar page, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **स्या** — the word *tyad*; to it, in the nominative, the case-ending following, by "त्यदादीनामः" the substitute *a*; in the feminine, by "अजाद्यतष्टाप्" the affix *ṭāp* since it ends in *a*; when *tyā*, by "तदोः सः सावनन्त्ययोः" (Pā. Sū. 7-2-[106]) the substitute *s* for the *t*; by "हल्ङ्याब्भ्यो…" the loss of *su*; the form *syā*.
+- **अनुभर्त्री** — the root *bhṛñ bharaṇe*; the affix *tṛc*; because of the affix the *guṇa* of the root; the word *bhartṛ*; when the feminine is intended, by "ऋन्नेभ्यो ङीप्" (Pā. Sū. 4-1-[5]) the affix *ṅīp*, since it ends in *ṛ*; the *yaṇ* substitution; since *tṛc* is *cit*, by "चितः" the final acute, so in the place of the acute a *yaṇ* arose; by "उदात्तयणो हल्पूर्वात्" (Pā. Sū. 6-1-[174]) since a consonant (*t*) precedes the *yaṇ*, the *ī* that has the designation *nadī* takes the acute.
+- **स्तोभति** — the root *ṣṭubhu stambhe*; here used in the sense of praising; *laṭ*, third person singular; the *nighāta* accent of the *tiṅanta*.
+- **अस्तोभयत्** — the root with the sense of *ṇic* in its own meaning; after the *ṇijanta* *laṅ*, third person singular; since it stands at the beginning of a *pāda*, the *nighāta* does not come; since the augment *aṭ* is acute, the first syllable is acute.
+
+Closing of Rik 88.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The print has no separate closing line for Sūkta 88; it ends here, on p. 264.)*
+
+---
+
+## Sūkta 89 (Maṇḍala 1, Sūkta 89) — "एंभत्तोंभत्तनेय सूक्तवु" (*embhattombhattaneya sūktavu*, "the eighty-ninth Sūkta")
+
+*(Heading printed large, in Kannada: "ಎಂಭತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು". Printed p. 264, lower half; the contents table gives p. 264.)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; Kannada script converted letter by letter; numerals [?])**
+
+> आ नो भद्रा इति दशर्चं पञ्चमं सूक्तम् । गोतमस्यार्षं वैश्वदेवम् । आदितः पञ्चर्चः सप्तमी च जगत्यः षष्ठी स्वस्तिन इन्द्रेत्येषा विराट्स्थाना । नवका वैराजस्त्रिष्टुभश्च । अनु–५ । इत्युक्तलक्षणयोगात् । अष्टम्याद्यास्तिस्रस्त्रिष्टुभः । तथा चानुक्रान्तम् । आ नो दश वैश्वदेवं तु पञ्चाद्याः सप्तमी च जगत्यः षष्ठी विराट्स्थानेति । अग्निष्टोमे वैश्वदेवशस्त्र उत्तमामर्जमेतत्सूक्तं वैश्वदेवनिविद्धानीयम् । सा तु प्रकृतौ विकृतौ च वैश्वदेवशस्त्रस्य परिधानीया । तथा च सूत्रितम् । आ नो भद्राः क्रतवो यन्तु विश्वत इति नव वैश्वदेवम् । आ. ५-१८ [?] । इति । अदितिर्द्यौरदितिरन्तरिक्षमिति परिदध्यात्सर्वत्र वैश्वदेवे । आ. ५-१८ [?] । इति च । ब्राह्मणं च भवति । सद्यैव पञ्चजनीयेया परिदध्यात् । ऐ. ब्रा. ३-१० [?] । इति ॥ महाव्रते निष्केवल्य एतत्सूक्तम् । तथा च पञ्चमारण्यके सूत्र्यते । आनो भद्रीयं च तस्य स्थाने । ऐ. ब्रा. ५-३-२ [?] । इति ॥
+
+*ā no bhadrā iti daśarcaṃ pañcamaṃ sūktam | gotamasyārṣaṃ vaiśvadevam | āditaḥ pañcarcaḥ saptamī ca jagatyaḥ ṣaṣṭhī svastina indretyeṣā virāṭsthānā | navakā vairājas triṣṭubhaś ca | anu-5 | ity uktalakṣaṇayogāt | aṣṭamyādyās tisras triṣṭubhaḥ | tathā cānukrāntam | ā no daśa vaiśvadevaṃ tu pañcādyāḥ saptamī ca jagatyaḥ ṣaṣṭhī virāṭsthāneti | agniṣṭome vaiśvadevaśastra uttamām arjam etat sūktaṃ vaiśvadevanividdhānīyam | sā tu prakṛtau vikṛtau ca vaiśvadevaśastrasya paridhānīyā | tathā ca sūtritam | ā no bhadrāḥ kratavo yantu viśvata iti nava vaiśvadevam | Ā. 5-18 [?] | iti | aditir dyaur aditir antarikṣam iti paridadhyāt sarvatra vaiśvadeve | Ā. 5-18 [?] | iti ca | brāhmaṇaṃ ca bhavati | sadyaiva pañcajanīyeyā paridadhyāt | Ai. Brā. 3-10 [?] | iti ‖ mahāvrate niṣkevalya etat sūktam | tathā ca pañcamāraṇyake sūtryate | ā no bhadrīyaṃ ca tasya sthāne | Ai. Brā. 5-3-2 [?] | iti ‖*
+
+*Translation (as read; the text of this introduction is compressed and some wording is doubtful [?]):* "The fifth sūkta, *ā no bhadrāḥ*, of ten Ṛks, the vision of Gotama, to the Viśvedevas. The first five and the seventh are Jagatī; the sixth, *svasti na indra*, is *virāṭsthānā*; the [last] nine [as printed: 'navakā'] … and Triṣṭubh [Ṛks]. From the application of the rule stated [*anu*-5] [?] the eighth and the two following are Triṣṭubh. So it is recorded in the Anukramaṇī: '*ā no daśa vaiśvadevaṃ tu pañcādyāḥ saptamī ca jagatyaḥ ṣaṣṭhī virāṭsthāna*'. In the Agniṣṭoma, in the *Vaiśvadeva śastra*, this sūkta, with its last Ṛk, is used at the *vaiśvadeva-nividdhāna*; it is the concluding (*paridhānīyā*) Ṛk of the Vaiśvadeva śastra both in the model and the modified rites. It is prescribed: '*ā no bhadrāḥ kratavo yantu viśvata* — the nine are Vaiśvadeva' (Āś. [5-18] [?]), and '*aditir dyaur aditir antarikṣam* — one should conclude with this, in every Vaiśvadeva' (Āś. [5-18] [?]). The Brāhmaṇa says: 'at once one should conclude with the *pañcajanīyā*' (Ai. Brā. [3-10] [?]). At the *Mahāvrata*, in the *niṣkevalya*, this sūkta is used; so it is prescribed in the fifth Āraṇyaka: '*ā no bhadrīyaṃ ca tasya sthāne*' (Ai. Brā. [5-3-2] [?])."
+
+---
+
+### Page 265 (PDF 280)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 265.)*
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *ā no bhadrāḥ* is the fifth sūkta in the fourteenth anuvāka. There are ten Ṛks in it. The ṛṣi of this sūkta is Gotama; the deities are the Viśvedevas. The first five Ṛks and the seventh are in the Jagatī metre; the sixth Ṛk, *svasti na indro*, is in the metre called *virāṭsthānā*; the three Ṛks from the eighth to the tenth are in the Triṣṭubh metre. In the Anukramaṇī it is said: '*ā no daśa vaiśvadevaṃ tu pañcādyāḥ saptamī ca jagatyaḥ ṣaṣṭhī virāṭsthāna*'. In the *Agniṣṭoma* sacrifice, at the time of reciting the mantras of the *Vaiśvadeva śastra*, this sūkta is to be used, leaving aside its last Ṛk, for the *Vaiśvadeva-nividdhāna* mantras; and the remaining [last] Ṛk is to be used in the model and modified sacrifices as the *paridhānīyā* mantra of the Vaiśvadeva śastra. This is set forth by the Āśvalāyana Śrauta-sūtra in the sūtra '*ā no bhadrāḥ kratavo yantu viśvata iti nava vaiśvadevam*' (Āś. [5-18] [?]) and also in '*aditir dyaur aditir antarikṣam iti paridadhyāt sarvatra vaiśvadeve*' (Āś. [5-18] [?]). On this there is the word of the Aitareya Brāhmaṇa '*sadyaiva pañcajanīyeyā paridadhyāt*' (Ai. Brā. [3-10] [?]); and, in the *Mahāvrata*, at the time of reciting the *niṣkevalya śastra* mantras this sūkta is applied; the sentence '*ā no bhadrīyaṃ ca tasya sthāne*' of the Aitareya Brāhmaṇa's *Pañcamāraṇyaka* (Ai. Brā. [5-3-2] [?]) shows it."
+
+*(printer's ornament)*
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ८९ — Sūkta 89**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ८९ — *Maṇḍala 1 · Anuvāka 14 · Sūkta 89*
+- अष्टक १ · अध्याय ६ · वर्ग १५, १६ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 15, 16 [?]* (the numerals are small and read with doubt [?])
+- सूक्तदल्लिरुव ऋक्संख्ये — १० — *number of Ṛks in the sūkta: 10*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — विश्वेदेवाः — *deity: the Viśvedevas*
+- छन्दः — १–५, ७ जगती; ६ विराट्स्थाना; ८–१० त्रिष्टुप् — *metre: Ṛks 1–5 and 7 Jagatī; 6 Virāṭsthānā; 8–10 Triṣṭubh* *(the heading line prints "೧–೫, ೭ ಜಗತೀ । ೬ ವಿರಾಟ್ಸ್ಥಾನಾ । ೮–೧೦ ತ್ರಿಷ್ಟುಪ್")*
+
+---
+
+### Page 266 (PDF 281)
+
+*(Running head: "266 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.1)** *(Jagatī; Viśvedevas; accents not reproduced)*
+
+> आ नो भद्राः क्रतवो यन्तु विश्वतोऽदब्धासो अपरीतास उद्भिदः ।
+> देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षितारो दिवेदिवे ॥ १ ॥
+
+*ā no bhadrāḥ kratavo yantu viśvato 'dabdhāso aparītāsa udbhidaḥ | devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "May noble resolves [or: sacrifices] come to us from every side, unharmed, unhindered, victorious; that the gods may be for our growth always, our unceasing guardians, day by day."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.1)**
+
+> आ । नः । भद्राः । क्रतवः । यन्तु । विश्वतः । अदब्धासः । अपरिऽइतासः । उत्ऽभिदः ।
+> देवाः । नः । यथा । सदम् । इत् । वृधे । असन् । अप्रऽआयुवः । रक्षितारः । दिवेऽदिवे ॥ १ ॥
+
+*ā | naḥ | bhadrāḥ | kratavaḥ | yantu | viśvataḥ | adabdhāsaḥ | apari-itāsaḥ | ut-bhidaḥ | devāḥ | naḥ | yathā | sadam | it | vṛdhe | asan | apra-āyuvaḥ | rakṣitāraḥ | dive-dive ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.1)** *(begins here; Kannada script; runs on to p. 267)*
+
+> नोऽस्मान् क्रतवोऽग्निष्टोमादयो महायज्ञा विश्वतः सर्वस्मादपि दिग्भागाद्यन्तु । आगच्छन्तु । कीदृशाः क्रतवः । भद्राः समीचीनफलसाधनत्वेन कल्याणा भजनीया वा । अदब्धासोऽसुरैरहिंसिताः । अपरीतासः शत्रुभिरपरिगताः । अप्रतिरुद्धा इत्यर्थः । उद्भिदः शत्रूणामुद्भेत्तारः । ईदृशाः क्रतवोऽस्माकं यथागच्छन्तु । अप्रायुवोऽप्रगच्छन्तः स्वकीयं रक्षितव्यमपरित्यजन्तः अत एव दिवे दिवे प्रतिदिवसं रक्षितारो रक्षां कुर्वन्ते एवंगुणविशिष्टाः सर्वे देवा नोऽस्माकं सदमित् सद्यैव वृधे वर्धनायासन् । भवन्तु ॥ अदब्धासः । दम्भु इति दम्भे । दम्भो हिंसा । निष्ठायां यस्य विभाषेतीट्प्रतिषेधः । नञ्सुभ्यामित्यव्ययपूर्वपदप्रकृतिस्वरत्वम् । अपरीतासः । इण् गतौ । पूर्ववत्कर्मणि निष्ठा । उभयत्राज्जसेरसुक् ।
+
+*no 'smān kratavo 'gniṣṭomādayo mahāyajñā viśvataḥ sarvasmād api digbhāgād yantu | āgacchantu | kīdṛśāḥ kratavaḥ | bhadrāḥ samīcīnaphalasādhanatvena kalyāṇā bhajanīyā vā | adabdhāso 'surair ahiṃsitāḥ | aparītāsaḥ śatrubhir aparigatāḥ | apratiruddhā ity arthaḥ | udbhidaḥ śatrūṇām udbhettāraḥ | īdṛśāḥ kratavo 'smākaṃ yathāgacchantu | aprāyuvo 'pragacchantaḥ svakīyaṃ rakṣitavyam aparityajantaḥ ata eva dive dive pratidivasaṃ rakṣitāro rakṣāṃ kurvante evaṃguṇaviśiṣṭāḥ sarve devā no 'smākaṃ sadam it sadyaiva vṛdhe vardhanāyāsan | bhavantu ‖ adabdhāsaḥ | dambhu iti dambhe | dambho hiṃsā | niṣṭhāyāṃ yasya vibhāṣeṭ-pratiṣedhaḥ | nañsubhyām ity avyayapūrvapadaprakṛtisvaratvam | aparītāsaḥ | iṇ gatau | pūrvavat karmaṇi niṣṭhā | ubhayatrāj jaser asuk |* *(the tail continues on p. 267)*
+
+*Translation (main sense):* "May *kratavaḥ* — the great sacrifices, the Agniṣṭoma and the rest — come to us from every quarter. What kind? *Bhadrāḥ* — auspicious, as the means to good fruit, or fit to be resorted to; *adabdhāsaḥ* — not harmed by the Asuras; *aparītāsaḥ* — not surrounded by enemies, that is, unobstructed; *udbhidaḥ* — breakers-out against enemies. May sacrifices of this kind come to us; and may all the gods, who, not departing (*aprāyuvaḥ*), not abandoning what is theirs to guard, are therefore our protectors day by day, be for our growth, at once and ever."
+
+---
+
+**Progress note:** Printed pp. 1–266 done (PDF 16–281) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete** (88: six Ṛks, ended on p. 264, no closing line in the print). **Sūkta 89** (ten Ṛks: 1–5, 7 Jagatī; 6 Virāṭsthānā; 8–10 Triṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, fifth sūkta; application: Agniṣṭoma *vaiśvadeva-śastra*, last Ṛk the *paridhānīyā*, and *mahāvrata niṣkevalya*; begins p. 264; printed pp. 264–302): heading, introduction and Anuvāda done; **Rik 89.1** — Saṃhitā, Pada and the main sense of the bhāṣya done; its grammatical tail continues on p. 267. Next: printed p. 267 (PDF 282). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259, 261, 263 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; p. 249 note; p. 252 grammar-tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed (e.g. "navakā vairājas triṣṭubhaś ca", "anu-5"); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
