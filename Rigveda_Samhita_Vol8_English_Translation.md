@@ -4052,4 +4052,115 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–137 done (PDF 21–157): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; *vaiśvānarasya sumatau syāma*; Kutsa Āṅgirasa; Triṣṭubh; Agni Vaiśvānara, or pure Agni; 15th Anuvāka; printed pp. 134–?): Sāyaṇa's introduction, Anuvāda, heading block and Rik 98.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 98.1 (*Vaiśvānarāgni-mahimā*, the greatness of Vaiśvānara) begun on p. 137, breaking at the foot of p. 137 at "…So, knowing the nature of the Vaiśvānara fire, whatever". Next: printed p. 138 (PDF 158). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–137) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8) [?]; in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Yāska quotation (Ni. 7-23) and the Śatapatha and Chāndogya-type quotations on p. 137 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 138 (PDF 158)
+
+*(Running head: left 138; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**Special Topics of Rik 98.1, continued from p. 137 (Kannada)**
+
+"…the Puruṣa performs the Agnihotra, his offering is made as though in all beings, in all worlds and in all selves (Chā. Up. 5-2[4]-3 [?]): thus the Upaniṣads, the Chāndogya and others, state the greatness of the worship of the Vaiśvānara fire. Therefore, what the nature of this deity is, and what relation this deity has to the performance of rites and to the attainment of spiritual knowledge, must by all means be known in this context. In this very Ṛk it is said *rājā hi kam bhuvanānām abhiśrīḥ*: 'Vaiśvānara is the worshipful lord of all beings'. But the question 'who is this Vaiśvānara?' also arose; and the Nirukta-author, in explaining this very Ṛk, takes many examples and concludes that Vaiśvānara is the earthly fire. His explanation is this —"
+
+> वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयन्तीति वा ।
+> अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः ।
+> *vaiśvānaraḥ kasmād viśvān narān nayati | viśva enaṃ narā nayantīti vā |*
+> *api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*
+> (*Ni.* 7-21 as read [?])
+
+*(Translation, mine and tentative: "Why is he Vaiśvānara? Because he leads all men; or because all men lead him; or he may be* viśvānara *— 'having all men'; 'all beings have entered into him': therefore* vaiśvānara*.")*
+
+"Since he is the leader of all as a guide, or since all invoke him as the chief deity of the sacrifice, or since he has pervaded everywhere and entered into all beings, [the Nirukta-author] explains the Ṛk *vaiśvānarasya sumatau syāma* and gives the nature of this deity. *Ito jātaḥ sarvam idam abhi paśyati vaiśvānaraḥ saṃyatete sūryeṇa rājā yaḥ sarveṣāṃ bhūtānām abhiśrayaṇīyaḥ* — 'we shall be in the gracious favour of Vaiśvānara, born from here, he who sees all this and unites with the sun, the king, to be approached by all beings': the meaning of the Ṛk is explained thus: 'both because he is the lord and because he is the support of all, may we all be worthy of the gracious view of this Vaiśvānara; born here in the earthly form he looks over the world and becomes one with the sun'. Having explained it, —"
+
+> तत्को वैश्वानरः । ... (नि. ७-२३)
+> *tat ko vaiśvānaraḥ | … (ni. 7-23)*
+
+"— after posing the question 'who is this Vaiśvānara?' and discussing the divergence of the ancient authorities, the Nirukta-author at the end gives his own conclusive view. In their discussion they point out, first, the fault in the opinions that hold Vaiśvānara to be a deity of the atmosphere:"
+
+> मध्यम इत्याचार्याः । वर्षकर्मणा ह्येनं स्तौति । प्र नू महित्वं वृषभस्य वोचम् ।
+> *madhyama ity ācāryāḥ | varṣakarmaṇā hy enaṃ stauti | pra nū mahitvaṃ vṛṣabhasya vocam |*
+> (*Ṛ. Saṃ.* 1-[?]9-[?] as read [?])
+
+*(Translation, mine and tentative: "'[Vaiśvānara is] of the middle region,' say the teachers; for he is praised by the act of rain: 'I will speak forth the greatness of the bull'.")* "— the teachers hold that he is a deity of the atmosphere, praising him as the cause of the work of rain, as is described in the Ṛk 'pra nū mahitvam…'. And besides —"
+
+> एषां लोकानां रोहेण सवनानां रोह आम्नातो रोहात्प्रत्यवरोहश्चिकीर्षति । तस्मानुकृतं । होतान्नि[?]मारुते शस्त्रे वैश्वानरीयेण सूक्तेन प्रतिपद्येते ।
+> *eṣāṃ lokānāṃ rohena savanānāṃ roha āmnāto rohāt pratyavarohaś cikīrṣati | tasmānukṛtaṃ | hotāgnimāruta śastre vaiśvānarīyeṇa sūktena pratipadyete |*
+
+*(Read from the print, doubtful in several words [?]; the sense, with the Kannada: "the ascent of these worlds is by the ascent of the pressings (*savana*); after the ascent there is the wish to descend; therefore in the Hotṛ's Agni-Māruta śastra the entry is with the Vaiśvānarīya sūkta".)*
+
+### Page 139 (PDF 159)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 139.)*
+
+> सूर्यप्रसूतावग्नौ तु दृष्ट्वा पार्थिवमध्यमौ ।
+> एतेषामेव लोकानां त्रयाणामध्वरेऽध्वरे ॥
+> रोहात्प्रत्यवरोहेण चिकीर्षन्नग्निमारुतं ।
+> शस्त्रं वैश्वानरीयेण सूक्तेन प्रतिपद्यते ॥
+> *sūryaprasūtāv agnau tu dṛṣṭvā pārthivamadhyamau |*
+> *eteṣām eva lokānāṃ trayāṇām adhvare 'dhvare ‖*
+> *rohāt pratyavaroheṇa cikīrṣann agnimārutaṃ |*
+> *śastraṃ vaiśvānarīyeṇa sūktena pratipadyate ‖*
+> (*Bṛ. De.* 1-100; 1-102 as read [?])
+
+*(Translation, mine and tentative: "Having seen in the fire, born of the sun, the earthly and the middle [fires], in every sacrifice, of these three worlds, wishing, after the ascent, to make the descent, he begins the Agni-Māruta śastra with the Vaiśvānarīya sūkta.")*
+
+"The injunction here is that the increase of the oblations should follow the order of ascent, 'earth, atmosphere and heaven'; and, after ascent, the order of descent must be carried out. Following this order, the sacrificer, having in view Agni and the Maruts, first praises Vaiśvānara, in the order of descent, in this Vaiśvānarīya sūkta. With this meaning, the Vaiśvānara spoken of here is explained, in the earlier [part], '*athāsāv āditya iti pūrve yajñikāḥ*': 'the old performers of the sacrifice hold him to be the sun, Āditya'. After setting out the earlier position, [the Nirukta-author argues]:"
+
+> सोऽसि न स्तोत्रियमाद्रियेतागनेयो हि भवति । तत्र आगच्छन्ति मध्यस्थाना देवता रुद्रं च मरुतश्च केतोऽग्निमिहस्थानमत्र वै स्तोत्रियं शंसति ॥
+> *so 'si na stotriyam ādriyetāgneyo hi bhavati | tatra āgacchanti madhyasthānā devatā rudraṃ ca marutaś ca keto 'gnim ihasthānam atra vai stotriyaṃ śaṃsati ‖*
+
+*(Read from the print, clotted in several words [?]; the Kannada gives the sense: "This sūkta is chiefly in view of Agni; afterwards Rudra and the Maruts are named; and the sacrificer, in whichever earthly sacrificial hall he recites this sūkta, again addresses with praise the Agni who belongs to that earthly world. Therefore the Vaiśvānara spoken of here is of the earthly deity, and not of the atmosphere": the above view [of the atmospheric Vaiśvānara] is thus refuted. He maintains his own view that this Vaiśvānara fire is of the earth, and cites the scriptural sentences that fit it:")*
+
+> अथाप्याह । इतो जातो विश्वमिदं वि चष्टे वैश्वानरो यतते सूर्येण । इति
+> *athāpy āha | ito jāto viśvam idaṃ vi caṣṭe vaiśvānaro yatate sūryeṇa | iti*
+> (*Ṛ. Saṃ.* 1-98-1)
+
+> न च पुनरात्मनात्मा संयतते नैवान्यः संयतते इत इमामादधात्यमुतोऽमुष्य रश्मयः प्रादुर्भवन्तीतोऽस्यार्चिषस्तयोर्भासोः संसंगं दृष्ट्वैवमवक्ष्यत् ॥
+> *na ca punar ātmanātmā saṃyatate naivānyaḥ saṃyatate ita imām ādadhāty amuto 'muṣya raśmayaḥ prādurbhavantīto 'syārciṣas tayor bhāsoḥ saṃsaṅgaṃ dṛṣṭvaivam avakṣyat ‖*
+> (*Ni.* 7-23 as read [?])
+
+*(Translation, mine and tentative: "Then he says: 'Born from here, he surveys all this; Vaiśvānara vies with the sun'; and one thing does not unite with itself, nor does another unite [with it]: from here he places this [fire]; from yonder the rays of that [sun] appear; from here the flame of this; seeing the junction of their lights, he said so." The sentences are read as given, with clotted words [?].)*
+
+"The sentence of the Saṃhitā — that Vaiśvānara spreads himself widely and unites with the sun — supports this argument. That Vaiśvānara should of himself spread and unite with himself is impossible: it is natural to say that one thing, extending, unites with another. After the sacrificer has kindled Agni on the earth, its rays spread to the upper world and appear there also; seeing the union of the rays of Āditya, who pervades the atmospheric world, with these, it is described that '*yatate sūryeṇa*'" *(continues on p. 140)*
+
+### Page 140 (PDF 160)
+
+*(Running head: left 140; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+"…, seeing the two as one. And besides —"
+
+> अथ यान्येतान्यात्मिकानि सूक्तानि भागानि वा सावित्राणि वा सौर्याणि वा पौष्णानि वा वैष्णवानि वा वैश्वदेव्यानि वा तेषु वैश्वानरीयाः प्रवादा अभविष्यन्नादित्यकर्मणा जैनमस्तोष्यन्निति देवेदेत्यस्तमेषीति विसर्केषीति ।
+> *atha yāny etāny ātmikāni sūktāni bhāgāni vā sāvitrāṇi vā saurāṇi vā pauṣṇāni vā vaiṣṇavāni vā vaiśvadevyāni vā teṣu vaiśvānarīyāḥ pravādā abhaviṣyann ādityakarmaṇā jainam astoṣyann iti devedety astameṣīti visarkeṣīti |*
+> (*Ni.* 7-2[3] as read [?])
+
+*(Read from the print, doubtful in several words [?]. Translation, mine and tentative, with the Kannada: "And in the sūktas of the self [?], or the parts, or those to Savitṛ, Sūrya, Pūṣan, Viṣṇu, the Viśve-devāḥ, statements about Vaiśvānara would have occurred; he would have been praised by the act of Āditya, as the one who rises, who sets, who goes round.")* "If Vaiśvānara were the sun himself, then the nature and action of such deities of the atmosphere as Savitṛ, Pūṣan, Viṣṇu and the Viśve-devāḥ would also have had to be spoken of in him in the spiritual sense; and he would have had to be spoken of as 'rising', 'setting', 'going round'. But here there are only descriptions relating to Agni as deity; so it is clearly known that this Vaiśvānara is a synonym of the earthly Agni. From these and other grounds —"
+
+> यस्तु सूक्तं भजते यस्मै हविर्निरूप्यते तेयमेव सोऽग्निर्वैश्वानरः ।
+> *yas tu sūktaṃ bhajate yasmai havir nirūpyate teyam eva so 'gnir vaiśvānaraḥ |*
+> (*Ni.* 7-2[?] as read [?])
+
+"— the hymn of praise and the offering of the oblation are firmly understood to be offered for Vaiśvānara, the form of Agni. That the appearance of this Vaiśvānara fire is, on the earth too, the work of him alone, is also: *rājā hi kam bhuvanānām abhiśrīḥ*: he is the lord and the refuge of all beings. For this reason those who worship deities such as the heavenly ones are plainly said, in many places, to be able to obtain good fortune only through worship of him. Whereas it is the rule that one worships his earthly form by the performance of rites, the worship, made by knowledge of the spiritual form, of him who is all-pervading, who is within all things moving and unmoving of the whole universe, is another kind. Knowing the relation that exists between the performance of rites and the worship by knowledge, the greatness of the universal-soul fire Vaiśvānara is explained in the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads. The story of the seers who went to a teacher to know his true nature is told in the Śatapatha Brāhmaṇa (10-6-1-1 to 11 [?])."
+
+> अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (नि. ७-२१)
+> *api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ | (ni. 7-21)*
+
+"— as in the Nirukta-author's derivation, 'one who has pervaded everywhere and is within all beings', this story shows the nature of Vaiśvānara, who is the inner controller of all and so on."
+
+> अथ हैतेऽरुणे औपवेशौ समाजग्मुः सत्ययज्ञः पौलुषिर्महाशालो जाबालो बुडिल आश्वतराश्विरिन्द्रद्युम्नो भाल्लवेयो जनः शार्कराक्ष्यस्ते ह
+> *atha haite 'ruṇe aupaveśau samājagmuḥ satyayajñaḥ pauluṣir mahāśālo jābālo buḍila āśvatarāśvir indradyumno bhāllaveyo janaḥ śārkarākṣyas te ha* *(the passage continues on p. 141)*
+
+*(The opening words, "*atha haite 'ruṇe aupaveśau*" as read, doubtful [?]; the standard text names Aruṇa Aupaveśi at the end of the list. The Śatapatha passage, as printed, continues below.)*
+
+### Page 141 (PDF 161)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 141.)*
+
+**The Śatapatha Brāhmaṇa passage, continued from p. 140 (Sanskrit in Kannada script; read from an enlargement)**
+
+> समासाते तेषां ह वैश्वानरे न समियाय ॥१॥ ते होचुः । अश्वपतिर्वायं कैकेयः संप्रति वैश्वानरं वेद तं गच्छामेति ते हाश्वपतिं कैकेयमाजग्मुस्तेभ्यो ह पृथगावसथान्कृथगपचितीः पृथक्साहस्रान्स्नेमान्प्रोवाच ते ह प्रातरसंविदाना एव समित्पाणयः प्रतिचक्रमिर उपत्वायामेति ॥२॥ स होवाच । येन्नु भगवन्तोऽनूचाना आनूचानपुत्राः किमिदमिति ते होचुर्वैश्वानरं भगवान्संप्रति वेद तं नो ब्रूहीति स होवाच संप्रति खलु ना अहं वैश्वानरं वेदाभ्याधत्त समिध उपेता स्थेति ॥३॥ स होवाचारुणमौपवेशिं । गौतमं कं त्वं वैश्वानरं वेत्थेति पृथिवीमेव राजन्निति होवाचोमिति होवाचैष वै प्रतिष्ठा एतं रयिं वैश्वानर एतं हि वै त्वं प्रतिष्ठा वैश्वानरं वेत्थ तस्मात्त्वं प्र शिश्मितः प्रजया पशुभिरसि यो वा एतं प्रतिष्ठां वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेतीति सादौ त्वा एतौ वैश्वानरस्य पादौ तेऽमल्लास्यतां यदि ह नागमिष्य इति पादौ तेऽविदितावभविष्यतां यदि ह नागमिष्य इति वा ॥४॥ अथ होवाच सत्ययज्ञं पौलुषिं । प्राचीनयोग्य कं त्वं वैश्वानरं वेत्थेत्यप एव राजन्निति होवाचोमिति होवाचैष वै रयिर्वैश्वानर एतं हि वै त्वं रयिं वैश्वानरं वेत्थ तस्मात्त्वं रयिमान्पुष्टिमानसि यो वा एतं रयिं वैश्वानरं वेदापपुनर्मृत्युं जयति सर्वमायुरेतीति वस्तिस्त्वा एष वैश्वानरस्य वस्तिस्तेऽभिद्येदि ह नागमिष्य इति वस्तिस्ते विदिग्धोऽभविष्यद्यदि ह नागमिष्य इति वा ॥५॥ अथ होवाच महाशालं जाबालं । औपमन्यव कं त्वं वैश्वानरं वेत्थेत्याकाशमेव राजन्निति होवाचोमिति होवाचैष वै बहुलो वैश्वानर एतं हि वै त्वं बहुलं वैश्वानरं वेत्थ तस्मात्त्वं बहु प्रजया पशुभिरसि यो वा एतं बहुलं वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेत्यात्मा त्वा एष वैश्वानरस्यात्मा त्वाहास्यद्यदि ह नागमिष्य इत्यात्मा ते विदितोऽभविष्यद्यदि ह नागमिष्य इति वा ॥६॥ अथ होवाच बुडिलमाश्वतराश्विं । वैयाघ्रपद्य कं त्वं वैश्वानरं वेत्थेति वायुमेव राजन्निति होवाचोमिति होवाचैष वै पृथग्वर्त्मा वैश्वानर एतं हि वै त्वं पृथग्वर्त्मानं वैश्वानरं वेत्थ तस्मात्त्वां पृथग्रश्मयोऽनुयान्ति यो वा एतं पृथग्वर्त्मानं वैश्वानरं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति प्राणस्त्वा एष वैश्वानरस्य प्राणस्त्वाहास्यद्यदि ह नागमिष्य इति प्राणस्ते विदितोऽभविष्यद्यदि ह नागमिष्य इति वा ॥७॥ अथ होवाचेन्द्रद्युम्नं भाल्लवेयं । वैयाघ्रपद्य कं त्वं वैश्वानरं वेत्थेत्यादित्य…
+> *samāsāte teṣāṃ ha vaiśvānare na samiyāya ‖1‖ te hocuḥ | aśvapatir vāyaṃ kaikeyaḥ saṃprati vaiśvānaraṃ veda taṃ gacchāmeti te hāśvapatiṃ kaikeyam ājagmus tebhyo ha pṛthag āvasathān kṛthag apacitīḥ pṛthak sāhasrān snemān provāca te ha prātar asaṃvidānā eva samitpāṇayaḥ praticakramira upatvāyāmeti ‖2‖ sa hovāca | yen nu bhagavanto 'nūcānā ānūcānaputrāḥ kim idam iti te hocur vaiśvānaraṃ bhagavān saṃprati veda taṃ no brūhīti sa hovāca saṃprati khalu nā ahaṃ vaiśvānaraṃ vedābhyādhatta samidha upetā stheti ‖3‖ sa hovācāruṇam aupaveśiṃ | gautama kaṃ tvaṃ vaiśvānaraṃ vettheti pṛthivīm eva rājann iti hovācom iti hovācaiṣa vai pratiṣṭhā etaṃ rayiṃ vaiśvānara etaṃ hi vai tvaṃ pratiṣṭhā vaiśvānaraṃ vettha tasmāt tvaṃ pra śiśmitaḥ prajayā paśubhir asi yo vā etaṃ pratiṣṭhāṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvam āyur eti iti sādau tvā etau vaiśvānarasya pādau te 'mallāsyatāṃ yadi ha nāgamiṣya iti pādau te 'viditāv abhaviṣyatāṃ yadi ha nāgamiṣya iti vā ‖4‖ atha hovāca satyayajñaṃ pauluṣiṃ | prācīnayogya kaṃ tvaṃ vaiśvānaraṃ vettheti apa eva rājann iti hovācom iti hovācaiṣa vai rayir vaiśvānara etaṃ hi vai tvaṃ rayiṃ vaiśvānaraṃ vettha tasmāt tvaṃ rayimān puṣṭimān asi yo vā etaṃ rayiṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvam āyur eti iti vastis tvā eṣa vaiśvānarasya vastis te 'bhidyed ūri ha nāgamiṣya iti vastis te vidigdho 'bhaviṣyad yadi ha nāgamiṣya iti vā ‖5‖ atha hovāca mahāśālaṃ jābālam | aupamanyava kaṃ tvaṃ vaiśvānaraṃ vettheti ākāśam eva rājann iti hovācom iti hovācaiṣa vai bahulo vaiśvānara etaṃ hi vai tvaṃ bahulaṃ vaiśvānaraṃ vettha tasmāt tvaṃ bahu prajayā paśubhir asi yo vā etaṃ bahulaṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvam āyur eti ity ātmā tvā eṣa vaiśvānarasyātmā tvāhāsyad yadi ha nāgamiṣya ity ātmā te vidito 'bhaviṣyad yadi ha nāgamiṣya iti vā ‖6‖ atha hovāca buḍilam āśvatarāśviṃ | vaiyāghrapadya kaṃ tvaṃ vaiśvānaraṃ vettheti vāyum eva rājann iti hovācom iti hovācaiṣa vai pṛthagvartmā vaiśvānara etaṃ hi vai tvaṃ pṛthagvartmānaṃ vaiśvānaraṃ vettha tasmāt tvāṃ pṛthag raśmayo 'nuyānti yo vā etaṃ pṛthagvartmānaṃ vaiśvānaraṃ vedāpa punarmṛtyuṃ jayati sarvam āyur eti prāṇas tvā eṣa vaiśvānarasya prāṇas tvāhāsyad yadi ha nāgamiṣya iti prāṇas te vidito 'bhaviṣyad yadi ha nāgamiṣya iti vā ‖7‖ atha hovācendradyumnaṃ bhāllaveyaṃ | vaiyāghrapadya kaṃ tvaṃ vaiśvānaraṃ vetthety āditya…*
+> (*Śa. Brā.* 10-6-1-1 to 10 as read [?])
+
+*(Read letter by letter from the enlargement; several words, e.g.* kṛthag apacitīḥ*,* snemān*,* abhyādhatta*,* ūri ha*, are clotted or doubtful [?], and the print's verse numerals ‖1‖–‖7‖ are given as printed. Summary of the passage, mine and tentative: Six learned householders (Satyayajña Pauluṣi, Mahāśāla Jābāla, Buḍila Āśvatarāśvi, Indradyumna Bhāllaveya, Jana Śārkarākṣya, and Aruṇa Aupaveśi [Gautama]) met and could not agree about 'Vaiśvānara'. They went to Aśvapati Kaikeya, who knew Vaiśvānara; he lodged them separately with gifts, and next morning they came with fuel in their hands. He asked each in turn which Vaiśvānara he knew: Aruṇa Aupaveśi said 'the earth', and was told 'this is the foundation [*pratiṣṭhā*], this is Vaiśvānara's *rayi* … you are well established with offspring and cattle; whoever knows him wins re-death and attains full life; these are Vaiśvānara's two feet; yours would have ...'. Satyayajña said 'the waters' — 'the wealth (*rayi*) … the bladder (*vasti*)'; Mahāśāla Jābāla said 'space' — 'the abundant; the self (*ātmā*)'; Buḍila Āśvatarāśvi said 'the wind' — 'the one with separate paths; the breath (*prāṇa*)'; and so on: each had known only a part of Vaiśvānara, and the king told each what would have befallen him had he not come. The passage continues with Indradyumna Bhāllaveya, who answers 'the sun'.)*
+
+---
+
+**Progress note:** Printed pp. 1–141 done (PDF 21–161): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 complete up to its Special Topics, which are under way on pp. 137–141 (*Vaiśvānarāgni-mahimā*; the Nirukta discussion of who Vaiśvānara is, Nirukta 7-21 to 7-23; the Bṛhaddevatā verses; and the long Śatapatha Brāhmaṇa passage (10-6-1) on the six householders and Aśvapati Kaikeya, transcribed from an enlargement), breaking at the foot of p. 141 in the midst of the Śatapatha passage at "…*vaiyāghrapadya kaṃ tvaṃ vaiśvānaraṃ vetthety āditya…*". Next: printed p. 142 (PDF 162). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–141) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted, e.g. the *eṣāṃ lokānāṃ rohena…* line and *so 'si na stotriyam…*) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–141 (the opening words *atha haite 'ruṇe aupaveśau*, *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *ūri ha* and the verse numerals) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
