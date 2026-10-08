@@ -4,7 +4,7 @@
 
 **Relation to earlier volumes:** a direct continuation of Volume 6 (Sūktas 62–80, the Fifth Adhyāya). All conventions of Volumes 1–6 carry over unchanged (see `CLAUDE.md`): three-layer Sanskrit (Devanagari + IAST + English), view each page before writing, [?] for doubtful readings and numerals, the source's own English reproduced with [sic], grammar pages noted briefly, accent marks not reproduced.
 
-**Page numbering:** the title page of the Sixth Adhyāya (Sanskrit verses, "Prathamāṣṭake ṣaṣṭho 'dhyāyaḥ", and the first lines of Sāyaṇa's introduction) is PDF 16 = printed page 1; PDF 17 = printed 2 (the Sūkta 81 heading); PDF 18 = printed 3. So **printed page = PDF page − 15** (checked on PDF 16–18 by their printed folios). The last printed page is about 567 (PDF 582). The preliminary matter (PDF 1–15) comprises the title page, the council page, the portrait, a Kannada *Pīṭhike* (preface, PDF 7–11; its first pages explain Vedic metres, with a table of the fourteen metres by syllable-count — *gāyatrī* 24, *uṣṇik* 28, *anuṣṭubh* 32, *bṛhatī* 36, *paṅkti* 40, *triṣṭubh* 44, *jagatī* 48, *atijagatī* 52, *śakvarī* 56, *atiśakvarī* 60, *aṣṭi* 64, *atyaṣṭi* 68, *dhṛti* 72, *atidhṛti* 76) and the contents. **The Pīṭhike is not yet translated** (only its first two pages were looked at, for this note); it can be added on request.
+**Page numbering:** the title page of the Sixth Adhyāya (Sanskrit verses, "Prathamāṣṭake ṣaṣṭho 'dhyāyaḥ", and the first lines of Sāyaṇa's introduction) is PDF 16 = printed page 1; PDF 17 = printed 2 (the Sūkta 81 heading); PDF 18 = printed 3. So **printed page = PDF page − 15** (checked on PDF 16–18 by their printed folios). The last printed page is about 567 (PDF 582). The preliminary matter (PDF 1–15) comprises the title page, the council page, the portrait, a Kannada *Pīṭhike* (preface, PDF 7–11; its first pages explain Vedic metres, with a table of the fourteen metres by syllable-count — *gāyatrī* 24, *uṣṇik* 28, *anuṣṭubh* 32, *bṛhatī* 36, *paṅkti* 40, *triṣṭubh* 44, *jagatī* 48, *atijagatī* 52, *śakvarī* 56, *atiśakvarī* 60, *aṣṭi* 64, *atyaṣṭi* 68, *dhṛti* 72, *atidhṛti* 76) and the contents. **The Pīṭhike is translated below, between this contents note and the Sixth Adhyāya** (added later at the user's request; its page iii is missing in the source).
 
 **Table of contents (as read from PDF pp. 12–15, at 130 dpi; page numbers are the printed Kannada numerals — treat as approximate):**
 
@@ -28,6 +28,95 @@
 *(Sūkta numbers and opening words were read from the Kannada-script contents at 130 dpi; the Sanskrit opening words are my reading and are to be confirmed against each Sūkta's own heading when it is reached. The contents also list the main "special topics" of each sūkta — e.g. the legend of Gotama, the *Dadhīci* legend (p. 115–118), the Maruts' legend (pp. 146 ff.), the *Parjanya* legend (p. 286), the *Agnīṣoma*/*paṇi* legends (pp. 481–491), the *Kutsa*–Mitrāvaruṇa legend (p. 551) — and end with "Ēḷaneya bhāgada viṣayānukramaṇike samāptavu", "the contents of the seventh part end".)*
 
 *(The abbreviations key of Volume 6 is taken over; it is to be checked against the key in this volume's preliminary pages when needed.)*
+
+## ಪೀಠಿಕೆ — PĪṬHIKE (PREFACE of the translator, H. P. Venkata Rao) — Roman folios i–vi (PDF 7–11)
+
+*(Translated at the user's request and placed here, between the contents and the Sixth Adhyāya, where it stands in the book. Kannada prose, rendered in plain English. Printed folios: PDF 7 = i, PDF 8 = ii, PDF 9 = iv, PDF 10 = v, PDF 11 = vi — **the folio iii is missing in the scan/print**: the text of p. ii breaks off at "…the number of metres and of Ṛks in the Ṛgveda is as follows—", and p. iv resumes in mid-sentence with "…in a pāda, if one syllable is short…"; the table or paragraphs that stood between (apparently the table of the numbers of Ṛks in each metre, which p. iv's later text refers to as "the table above") are not in the source PDF. Kannada numerals read from enlarged slices are marked [?] where uncertain.)*
+
+### Page i (PDF 7)
+
+**Pīṭhike.**
+
+"In explaining the Ṛgveda with the meaning, translation and commentary, it is the method that has come down from the age of the Ārṣeya [ṛṣi-tradition] to state, at the head of every sūkta, the ṛṣi, the deity and the metre belonging to that sūkta, and its application (*viniyoga*). Following this, the commentator Sāyaṇācārya, at the beginning of every sūkta, gives the ṛṣi, deity and metre as they are in the Anukramaṇī, and states the application as it is stated in the Āśvalāyana Śrauta-sūtra. Here, 'Anukramaṇī' means the *Sarvānukramaṇī* spoken by the sage Śaunaka. In it are set out, for each sūkta, the number of Ṛks, the names of the ṛṣis who are the seers of those Ṛks, the deity of the sūkta, the metre of the Ṛks, and so on. Besides this Anukramaṇī there are other Anukramaṇīs — the *Ārṣeyānukramaṇī*, which gives the matters concerning the ṛṣis, the *Chandonukramaṇī*, which gives the matters concerning the metres, and others. Following these, the commentator describes the ṛṣi, deity and metre of the sūkta. The order of application he gives according to the Āśvalāyana Śrauta-sūtra. The matters of ṛṣis, Anukramaṇīs, Śrauta-sūtras and so on we have already described in the Pūrvapīṭhikā chapter in the first part of the Ṛgveda Saṃhitā; but it will be right, in the interest of readers, to give a brief introduction here to the matter of metres in the present context. For the whole of the Ṛgveda is made up of mantras bound in metre. Unlike the Yajurveda and the like, it has no sentences in the form of prose. All the mantras in it, being subject to the rule of metre, are in a language of verse-form. Such mantras bound in metre are called *ṛks*. In these Ṛks there are many kinds and sub-kinds according to the number of syllables and the number of *pādas* (quarter-verses). Since the seers of the Vedic mantras are many, the variety seen in the metres is natural. In the book called *Chandas* by Piṅgala — famous as a Vedāṅga — the details of metres are set out, but this book is not counted as very ancient. For in that book, together with the matters of Vedic metres, there are also the descriptions of the metrical characteristics of the verses used in later Sanskrit; therefore the book is not very authoritative. In this matter, since the book called *Sarvānukramaṇī*, composed by the great sage Kātyāyana, is ancient and authoritative, we give here a brief account of the metres of the Ṛgveda on the basis of the matters stated in it.
+
+In putting the metres in order, only the number of syllables in them is counted. Differences among syllables, such as long, short, conjunct, have no importance. The number of syllables alone is the chief means of determining the order of the metres. In this matter the sage Kātyāyana says:
+
+> यदक्षरपरिमाणं तच्छन्दः ।
+
+*yad akṣaraparimāṇaṃ tac chandaḥ* — "That which is a measure of syllables is the metre." *(as printed; the Sanskrit sentence is short and legible; the source it is quoted from is not named on the page).*
+
+### Page ii (PDF 8)
+
+"Although the chief metres are seven, according to the number of syllables there can be counted fourteen chief metres. The other metres are sub-divisions of these chief metres. The names of the chief metres and the number of syllables in them are given below:
+
+| No. | Metre | Syllables | No. | Metre | Syllables |
+|---|---|---|---|---|---|
+| 1 | Gāyatrī | 24 | 8 | Atijagatī | 52 |
+| 2 | Uṣṇik | 28 | 9 | Śakvarī | 56 |
+| 3 | Anuṣṭup | 32 | 10 | Atiśakvarī | 60 |
+| 4 | Bṛhatī | 36 | 11 | Aṣṭi | 64 |
+| 5 | Paṅkti | 40 | 12 | Atyaṣṭi | 68 |
+| 6 | Triṣṭup | 44 | 13 | Dhṛti | 72 |
+| 7 | Jagatī | 48 | 14 | Atidhṛti | 76 |
+
+"Of these, the Gāyatrī metre has three pādas, and in each pāda eight syllables. Therefore in all, twenty-four syllables for the Gāyatrī metre. In this metre the first two pādas together are called the *pūrvārdha* (first half), forming one sentence, and the third pāda alone the *uttarārdha* (second half).
+
+In the metre called Paṅkti there are five pādas of eight syllables. In the first half there are two pādas and in the second half three pādas. In the Śakvarī metre there are seven pādas of eight.
+
+In the metres beginning with Uṣṇik there are four pādas. Two pādas make one half. The number of syllables is in the same way [eight per pāda?] — *(the print reads 'in the same manner'; the table gives 28 and 32 for the first two, so the pādas of the Uṣṇik are 8 + 8 + 12 in the Ṛgveda's usual form; the author does not say this here)*. In the last metre, Atidhṛti, none of these orders is seen: there are only seventy-six syllables. The detailed description of the number of syllables and the like of the metres has been given in the twelfth chapter of the Pūrvapīṭhikā of the first part of the Ṛg. Saṃ. (pages 221–231).
+
+In the Ṛgveda the greater part consists of Ṛks in the Gāyatrī, Triṣṭup and Jagatī [metres]. As stated in the *Chandonukramaṇī* composed by the sage Śaunaka, the number of the different metres and Ṛks in the Ṛgveda (the Śākala recension) is as follows —" *(the passage breaks off here; the next printed page is iv; see the note above).*
+
+### Page iv (PDF 9)
+
+*(Resuming mid-sentence.)* "…in a pāda, if one syllable is short, it is called *nicṛt*; if it is in excess, *bhurik*. Likewise, if two syllables are short it is called *virāṭ*, if in excess *svarāṭ*. In some contexts a conjunct is counted as two syllables according to the order of pronunciation. In the first pāda of the famous Gāyatrī mantra, which is a Ṛk of the Gāyatrī metre, *tat savitur vareṇyam*, there are only seven syllables, instead of eight. In order to make this good, some think that the conjunct *ṇyaṃ* at the end of the pāda contains two syllables, *ṇi + aṃ* [i.e. *vareṇiyam*]. Since such elisions are needed, the order of the number of syllables is not seen to be observed so strictly. Therefore, since the Gāyatrī mantra has only [23 [?]] syllables, it is called a Ṛk of the *nicṛd-gāyatrī* metre. Likewise, if a Ṛk of the Gāyatrī metre has one syllable in excess, it is called *bhurig-gāyatrī*. And in the Paṅkti metre, by rule there are forty syllables. If two syllables are short — that is, if a Ṛk of the Paṅkti metre has only [38 [?]] syllables — it is called *virāṭ-paṅkti*; and if two syllables are in excess — that is, if there are [42 [?]] syllables — it is called *svarāṭ-paṅkti*. As we have said before, the detailed account of the metres was given in the [twelfth [?]] chapter of the Pūrvapīṭhikā of Ṛg. Saṃ. Part [1 [?]].
+
+As seen in the table above, Ṛks of the Triṣṭup metre are many in the Ṛgveda — there are [4253 [?]] Ṛks — so it may be said that this Triṣṭup metre is used most. In later Sanskrit too, the Anuṣṭup metre of [32] syllables has pre-eminence. The many books such as the Purāṇas are written in this Anuṣṭup metre. Following the order of the Vedic metres, with some changes, many metres have been constructed in later Sanskrit. For instance, following the Anuṣṭup metre of [32] syllables, the Anuṣṭup metre of 32 [as printed twice] syllables; following the Triṣṭup metre, with pādas of eleven syllables, the metres called *Indravajrā* and *Upendravajrā*; following the Jagatī metre, with pādas of twelve syllables, the metre *Vaṃśastha*; and following the Śakvarī metre, the metre *Vasantatilakā*, have been constructed.
+
+In the combination of syllables of the Anuṣṭup metre, because there is no very strict rule, this metre is used in many modern Sanskrit compositions. In this metre there are four pādas, and in each pāda eight syllables. The seventh syllable of the second and fourth pādas must be short. Likewise the fifth syllable of the first and third pādas must be short. If only this much holds, this metre-composition is possible. There is no need to follow further rules. Therefore this metre is used especially.
+
+The Gāyatrī and other metres described above are very ancient. Even in the Ṛgveda age, the very ancient time, the seers praised the deities in sentences bound in metres, that is, in Ṛks themselves, as may be seen in many Ṛks of the Ṛgveda —"
+
+*(Digits read from a 230-dpi enlargement: the syllable-counts "23", "38", "42" and the Triṣṭup total "4253" and the chapter/part numbers are small Kannada numerals read with doubt; none is confirmed. The Triṣṭup total is as the Kannada digits seem to read, i.e. four thousand, two hundred and fifty-three, and is quoted from the missing table's context.)*
+
+### Page v (PDF 10)
+
+> अग्नेर्गायत्र्यभवत्सयुग्वोष्णिहया सविता सं बभूव ।
+> अनुष्टुभा सोम उक्थैर्महस्वान् बृहस्पतेर्बृहती वाचमावत् ॥
+> विराण्मित्रावरुणयोरभिश्रीरिन्द्रस्य त्रिष्टुबिह भागो अह्नः ।
+> विश्वान्देवान् जगत्या विवेश तेन चाक्लृप्त ऋषयो मनुष्याः ॥
+
+*agner gāyatry abhavat sayugvoṣṇihayā savitā saṃ babhūva | anuṣṭubhā soma ukthair mahasvān bṛhaspater bṛhatī vācam āvat ‖ virāṇ mitrāvaruṇayor abhiśrīr indrasya triṣṭub iha bhāgo ahnaḥ | viśvān devān jagatyā viveśa tena cākḷpta ṛṣayo manuṣyāḥ ‖* (Ṛ. Saṃ. 10-130-4 and 5, as printed "೧೦-೧೩೦-೪ ಮತ್ತು ೫") — *Gloss, mine and tentative:* "The Gāyatrī was Agni's companion-yoked; Savitṛ came together with the Uṣṇih; Soma, the radiant, with the Anuṣṭubh and the hymns; the Bṛhatī guarded the speech of Bṛhaspati. The Virāj [went] to Mitra and Varuṇa; the Triṣṭubh is here Indra's share of the day; the Jagatī entered all the gods: by it the seers, the men, were fashioned."
+
+> त्रिष्टुब्गायत्री छन्दांसि सर्वा ता यम आहिता ।
+
+*triṣṭub gāyatrī chandāṃsi sarvā tā yama āhitā |* (Ṛ. Saṃ. 10-14-16, as read "೧೦-೧೪-೧೬" [?]) — *Gloss, mine and tentative:* "The Triṣṭubh, the Gāyatrī, all the metres — all those are set in Yama."
+
+"In these Ṛks there is the description that, besides the names of the Gāyatrī and other metres, from Agni arose the Gāyatrī metre, from Sūrya the Uṣṇik metre, from Soma the Anuṣṭup metre, from Bṛhaspati the Bṛhatī metre, and from Mitra and Varuṇa the Virāṭ metre. And since the Triṣṭup metre was discovered by Indra, it is seen that by that very metre the seers especially praised Indra. Likewise the Viśvedevas created the Jagatī metre. The priests who do Sāman singing use the Śakvarī metre especially. On this matter —
+
+> ऋचां त्वः पोषमास्ते पुपुष्वान् गायत्रं त्वो गायति शक्वरीषु ।
+
+*ṛcāṃ tvaḥ poṣam āste pupuṣvān gāyatraṃ tvo gāyati śakvarīṣu |* (Ṛ. Saṃ. 10-71-11) — *Gloss, mine and tentative:* "One sits, thriving in the growth of Ṛks; another sings the Gāyatra in the Śakvarī [verses]."
+
+> यच्छक्वरीषु बृहता रवेणेन्द्रे शुष्ममदधाता वसिष्ठाः ।
+
+*yac chakvarīṣu bṛhatā raveṇendre śuṣmam adadhātā vasiṣṭhāḥ |* (Ṛ. Saṃ. 7-33-4 [?]) — *Gloss, mine and tentative:* "When, with the Śakvarī [verses], with great sound, the Vasiṣṭhas placed vigour in Indra." *(Both citations are given here as read from the print; the Kannada reference numerals are small and doubtful, "೧೦-೭೧-೧೧" and "೭-೩೩-೪" [?].)*
+
+— these Ṛks support this meaning. Therefore it is clear that the Gāyatrī and other metres have been in use from very ancient times.
+
+To publish in simple Kannada language, with explanation, this Ṛgveda Saṃhitā — most ancient, most profound, most extensive, the root of all the sciences — is not an easy task. Yet with the high aim that learned people and common folk alike may gain growth of knowledge through such a great work and become worthy of the grace of God, the lord of the Karnāṭaka throne, patron of Vedic learning, himself a scholar, beloved of his subjects, devoted to God, Śrī Jayacāmarājendra Wodeyar Bahadur, G.C.B., G.C.S.I., the great ruler, supports this publication, which requires much wealth, by his generous patronage — this must be said to be the merit of the Karnāṭaka people. To such a noble-minded ruler of ours, and to his family, and to the royal prince-daughter [*rājakumārī*] (named with the Gāyatrī, which is counted as most important among the Vedic mantras) — *(the sentence runs on to p. vi)*
+
+### Page vi (PDF 11)
+
+"…and to all the multitude of the subjects, may the Lord of all, the Vedapuruṣa, grant, in the highest degree, all this-worldly fruits — long life, health, prosperity and every wealth — and the spiritual knowledge that is the highest truth: so I pray.
+
+*Mysore.* [Date:] Virodhināma-saṃvatsara, Puṣya śuddha ekādaśī, Friday — **30–12–1949**. *(Printed: "ಮೈಸೂರು · ವಿರೋಧಿನಾಮ ಸಂ|| ಪುಷ್ಯ ಶುದ್ಧ ಏಕಾದಶಿ ಶುಕ್ರವಾರ · 30—12—1949".)*
+
+**Translator** *(Anuvādaka)*: **H. P. Venkatarao**, *Āsthāna Mahāvidvān* [Court Great Scholar]."
+
+*(Printer's ornament.)* Colophon at the foot: "K. Venkatasubbaiah, Printer, Sri Vinayak Printing Works, Mysore."
+
+---
 
 ## ॥ षष्ठोऽध्यायः ॥ — THE SIXTH ADHYĀYA OF THE FIRST AṢṬAKA
 
