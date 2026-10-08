@@ -8956,4 +8956,108 @@ Closing of Rik 90.7: "॥ ७ ॥" (7).
 
 ---
 
-**Progress note:** Printed pp. 1–320 done (PDF 16–335) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.7 complete**; **Rik 90.8** — Saṃhitā, Pada and bhāṣya (with grammatical tail) done (foot of p. 320); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 321 on), then **90.9** (the last, Anuṣṭubh) and the end of Sūkta 90 (about p. 324), then **Sūkta 91** (contents table: p. 325). Next: printed p. 321 (PDF 336). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–320 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 321 (PDF 336)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 321. Foot: printer's signature "21 … Volume 7".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.8)** *(Kannada)*
+
+*naḥ* — for us; *vanaspatiḥ* — the deity Vanaspati; *madhumān* — possessed of fruits endowed with sweetness; *astu* — let him be (may he favour us with such fruits); *sūryaḥ* — the Sun too; *madhumān* — let him be sweet; *gāvaḥ* — the cows too; *naḥ* — for our share (good fortune); *mādhvīḥ* — possessed of sweetness; *bhavantu* — let them be.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.8** *(Kannada)*
+
+"May the deity Vanaspati give us fruits endowed with sweetness. May the Sun be sweet to our lot. May the cows too, for our lot, be possessed of sweetness."
+
+**English Translation** *(printed in English in the source)*
+
+"May Vanaspati (tree) become sweet for us; may Surya be sweet for us; may the cows be sweet to us." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.8)**
+
+- **वनस्पतिः** — *vanānāṃ pālayitā yūpābhimānī devo mādhuryopetaphalavān astu* — "the protector of the forests and the deity presiding over the sacrificial post, Vanaspati: may he give us sweet fruits. *Vanaspati* means 'the master of the forests' trees', the great tree. May such trees and the like bear fruit: such is the prayer of the ṛṣi. Yāska, as the explanation of the word *vanaspati*, says '*vanaspatir ity enam āhuḥ eṣa hi vanānāṃ pātā vā pālayitā vā*' (Ni. [8-3] [?]) — 'they call him *vanaspati*, for he is the protector or the guardian of the forests'.
+
+"In the Ṛgveda the word *vanaspati* is used in the senses of: (1) the best of trees (Ṛ. Saṃ. [1-?-?; 3-?-?; 5-?-?]; [?] — numerals read with doubt); (2) *yūpa*, the post to which the animal is tied at sacrifices (Ṛ. Saṃ. [3-8-?; 3-8-?; 3-8-?] [?]); (3) a part of a chariot or of a thing made of wood (Ṛ. Saṃ. [?]); (4) Soma (Ṛ. Saṃ. [1-?-?]; Vāj. Saṃ. [10-?] [?])." *(the lists of reference numerals are in small Kannada digits, not verified [?])*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.8)** *(grammar page, noted briefly)*
+
+- **वनस्पतिः** — *vanānāṃ patiḥ vanaspatiḥ*; since it is read in the *pāraskarādi* list, by "पारस्करप्रभृतीनि च संज्ञायाम्" (Pā. Sū. 6-1-[157]) the augment *suṭ*; since both the word *vana* and the word *pati* are acute on the first syllable, by "उभे वनस्पत्यादिषु युगपत्" (Pā. Sū. 6-2-[140]) both the former and the latter member keep their base accent at once.
+
+---
+
+### Page 322 (PDF 337)
+
+*(Running head: "322 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.8, concluded:*
+
+- **सूर्यः** — *sarati ākāśe iti sūryaḥ*; the root *sṛ gatau*; by "राजसूयसूर्यमृषोद्यरुच्यकुप्यकृष्टपच्याव्यथ्याः" (Pā. Sū. 3-1-[114]) the form is fixed by *nipātana* as ending in *kyap*.
+
+Closing of Rik 90.8: "॥ ८ ॥" (8), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.9)** *(Anuṣṭubh — the last Ṛk; accents not reproduced)*
+
+> शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा ।
+> शं न इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः ॥ ९ ॥
+
+*śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ śaṃ no viṣṇur urukramaḥ ‖ 9 ‖*
+
+*Gloss, mine and tentative:* "May Mitra be a blessing to us, a blessing Varuṇa, a blessing to us may Aryaman be; a blessing to us Indra and Bṛhaspati, a blessing to us Viṣṇu of the wide stride."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.9)**
+
+> शम् । नः । मित्रः । शम् । वरुणः । शम् । नः । भवतु । अर्यमा ।
+> शम् । नः । इन्द्रः । बृहस्पतिः । शम् । नः । विष्णुः । उरुऽक्रमः ॥ ९ ॥
+
+*śam | naḥ | mitraḥ | śam | varuṇaḥ | śam | naḥ | bhavatu | aryamā | śam | naḥ | indraḥ | bṛhaspatiḥ | śam | naḥ | viṣṇuḥ | uru-kramaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.9)**
+
+> अहरभिमानी मित्रो देवो नोऽस्माकं शं सुखकरो भवतु । यद्वा । अस्मदीयानामुपद्रवाणां शमयिता भवतु । रात्र्यभिमानी वरुणश्च शं सुखकरो भवतु । अर्यमाहोरात्रयोः ख्यापयिता सूर्यश्च नोऽस्माकं शं सुखकरो भवतु । बृहस्पतिर्बृहतां देवानां पालयितेन्द्रश्च नोऽस्माकं शं सुखकरो भवतु । उरुक्रमः । उरु विस्तीर्णं क्रामति पादौ विक्षिपतीत्युरुक्रमः । विष्णुर्हि वामनावतारे पृथिव्यादीन् लोकान्पदत्रयरूपेणाक्रान्तवान् । अत उरुक्रमो विष्णुः । अस्माकं शं सुखकर उपद्रवाणां शमयिता वा भवतु ॥ उरुक्रमः । क्रमु पादविक्षेपे । पचाद्यच् । यद्वा । उरून् क्रामतीत्युरुक्रमः । कर्मण्यण् । नोदात्तोपदेशस्य मान्तस्येति वृद्धिप्रतिषेधः ॥
+
+*ahar-abhimānī mitro devo no 'smākaṃ śaṃ sukhakaro bhavatu | yadvā | asmadīyānām upadravāṇāṃ śamayitā bhavatu | rātryabhimānī varuṇaś ca śaṃ sukhakaro bhavatu | aryamāhorātrayoḥ khyāpayitā sūryaś ca no 'smākaṃ śaṃ sukhakaro bhavatu | bṛhaspatir bṛhatāṃ devānāṃ pālayitendraś ca no 'smākaṃ śaṃ sukhakaro bhavatu | urukramaḥ | uru vistīrṇaṃ krāmati pādau vikṣipatīty urukramaḥ | viṣṇur hi vāmanāvatāre pṛthivyādīn lokān padatrayarūpeṇākrāntavān | ata urukramo viṣṇuḥ | asmākaṃ śaṃ sukhakara upadravāṇāṃ śamayitā vā bhavatu ‖ urukramaḥ | kramu pādavikṣepe | pacādyac | yadvā | urūn krāmatīty urukramaḥ | karmaṇy aṇ | nodāttopadeśasya māntasyeti vṛddhipratiṣedhaḥ ‖*
+
+*Translation:* "May Mitra, the deity presiding over the day, be *śam* — a doer of good — for us; or may he be a quieter of our troubles. May Varuṇa, the deity presiding over the night, be a doer of good. May Aryaman, the sun that makes known day and night, be a doer of good for us. May Bṛhaspati, the guardian of the great gods, and Indra be doers of good for us. *Urukramaḥ* — he who strides widely (*uru*, wide), casting his feet: for Viṣṇu in the Vāmana incarnation strode over the worlds, earth and the rest, in three steps; hence Viṣṇu is *urukrama*: may he be a doer of good for us, or a quieter of troubles. *Grammar tail:* *urukramaḥ* — *kramu pādavikṣepe* with *ac*; or *urūn krāmati* with *aṇ* in the object sense, with the prohibition of *vṛddhi* for a root with unaccented *upadeśa* ending in *m*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.9)** *(Kannada; begins at the foot of p. 322)*
+
+*mitraḥ* — Mitra (the deity presiding over the day); *naḥ* — for us; *śam* — (our troubles being averted) let him be a giver of happiness; *varuṇaḥ* — Varuṇa (the deity presiding over night); *śam* — let him be a giver of happiness; *aryamā* — Aryaman (the divider of day and night); *naḥ* — for us; *śam* — a bestower of happiness…
+
+---
+
+### Page 323 (PDF 338)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 323.)*
+
+*Pratipadārtha of Rik 90.9, continued from p. 322:*
+
+"…*bṛhaspatiḥ* — Bṛhaspati; *indraḥ* — Indra; *naḥ* — for us; *śam* — let them be bestowers of happiness; *urukramaḥ* — he who has wide strides; *viṣṇuḥ* — Viṣṇu; *naḥ* — for us; *śam* — let him be a bestower of happiness."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.9** *(Kannada)*
+
+"May Mitra, the deity presiding over the day, and Varuṇa, the deity presiding over the night, be bestowers of happiness to us. May Aryaman, the divider of day and night, make happiness for us. May Bṛhaspati and Indra be givers of happiness to us. May Viṣṇu too, of wide strides, be a bestower of happiness to us."
+
+**English Translation** *(printed in English in the source)*
+
+"May Mitra be auspicious for us; may Varuna, may Aryaman be auspicious for us; may Indra and Bribaspati be propitious to us; may wide-striding Vishnu be auspicious for us." — as printed ("Bribaspati" in the print [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.9)**
+
+"This Ṛk is used as the *śānti-pāṭha* (peace-chant) of the first chapter, the *Śīkṣāvallī*, of the Taittirīya Upaniṣad."
+
+- **शं नो मित्रः भवतु** — "may Mitra, the deity presiding over the day, make happiness for us."
+- **वरुणः** — "Varuṇa, the deity who presides over the night."
+- **बृहस्पतिः** — *bṛhatāṃ devānāṃ pālayitā* — "the great, or excellent, Bṛhaspati, the protector of many gods."
+- **अर्यमा** — "the sun, who divides day and night."
+- **विष्णुः उरुक्रमः** — *kramu pādavikṣepe | uru vistīrṇaṃ krāmati pādau vikṣipatīty urukramaḥ | viṣṇur hi vāmanāvatāre pṛthivyādīn lokān padatrayarūpeṇākrāntavān* — "'*urukrama*' means one who steps over a wide expanse, a long way: it is said that Viṣṇu, at the time of the Vāmana incarnation, strode over the worlds, earth and the rest, with three steps. Several Ṛks that indicate this kind of prowess of Viṣṇu —
+
+> अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे । पृथिव्याः सप्तधामभिः ॥
+
+*ato devā avantu no yato viṣṇur vicakrame | pṛthivyāḥ saptadhāmabhiḥ ‖* (Ṛ. Saṃ. 1-22-16) — *Gloss, mine and tentative:* "From where Viṣṇu strode out with the seven stations of the earth, from there may the gods protect us."
+
+> इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदम् । समूळ्हमस्य पांसुरे ॥
+
+*idaṃ viṣṇur vicakrame tredhā ni dadhe padam | samūḷham asya pāṃsure ‖* (Ṛ. Saṃ. 1-22-17) — *Gloss, mine and tentative:* "Viṣṇu strode across this; thrice he set down his foot; it is gathered in his dust-filled [footstep]." *(The Kannada print gives the two citations with their reference numerals at the edge of the line; the numerals, as I read them, are* 1-22-16 *and* 1-22-17 *[?]. The list of such Ṛks continues on p. 324.)*
+
+---
+
+**Progress note:** Printed pp. 1–323 done (PDF 16–338) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.8 complete**; **Rik 90.9** (the last, Anuṣṭubh; used as the *śānti-pāṭha* of the Taittirīya Upaniṣad's Śīkṣāvallī) done through its Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics as far as the first two Viṣṇu-citations (p. 323); the rest of the Special Topics and its grammar page follow on p. 324, then the end of Sūkta 90, then **Sūkta 91** (contents table: p. 325). Next: printed p. 324 (PDF 339). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290, the *pañcajanāḥ* citations on pp. 300–301, the *vanaspati* lists on p. 321 and the Viṣṇu citations on p. 323 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
