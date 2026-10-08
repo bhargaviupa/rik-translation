@@ -11659,6 +11659,83 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–409 done (PDF 16–424) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1 complete; Rik 92.2 done through the Special Topics and the first lines of the Vyākaraṇa-prakriyā (*apaptan*), which breaks at the foot of p. 409 ("…since the root is *ḷdit* —"), to be continued from the head of p. 410. Next: printed p. 410 (PDF 425). "
-"Open flags (Sūkta 92): the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; the Nirukta numerals 12-7, 3-9, 2-20, 5-20 [?]; the Ṛgveda numerals 1-124-5 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini numerals 2-4-80, 7-1-5, 3-1-80, 7-1-58, 8-3-41, 6-1-163, 2-4-72, 6-4-81, 7-4-19, 5-3-111, 7-3-83, 7-1-3 [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ* (print 'uṣasko…'), *caturhṛdīrgā…* and *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; Saṃhitā/Pada difference uṣāsaḥ/uṣasaḥ in 92.2. "
+### Page 410 (PDF 425)
+
+*(Running head: left "410", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.2, continued from p. 409 (grammar page, noted briefly):*
+
+[*apaptan*, continued —] "…since the root is *ḷdit*, the replacement *aṅ* for *cli*, obtained in the *luṅ*, by *puṣādidyutādyḷditaḥ parasmaipadeṣu* (पुषादिद्युताद्यॢदितः, Pā. 3-1-55 [?]); by *pataḥ pum* (Pā. 7-4-19 [?]), because of the *aṅ* the root takes the augment *pum*; by *mid aco 'ntyāt paraḥ* (मिदचोऽन्त्यात्परः, Pā. 1-1-47 [?]) it comes after the last vowel; by *saṃyogāntasya lopaḥ* (Pā. 8-2-23 [?]) the final *t* of the suffix is elided; the augment *aṭ* for the stem; since the verb follows a word, the *nighāta* accent."
+*svāyujaḥ* — root *yujir yoge*; when *su* + *ā* precede, the suffix *kvip*; by *gatikārakopapadāt kṛt* the *kṛdanta* final member keeps its natural accent; the nominative plural.
+*akran* — root *ḍukṛñ karaṇe*; in the *luṅ* *anta* for *jhi*; the final *i* is elided; by *mantre ghasahvaraṇaśavṛdahādvṛcakṛgamijanibhyo leḥ* (Pā. 2-4-80 [?]) the *luk* of the *cli*; the *ṛ* of the root becomes *r* (*yaṇ*); the augment *aṭ* for the stem; since it stands at the head of the pāda, no *nighāta*; since the augment is acute, the initial acute.
+*pūrvathā* — *pūrveṣu iva pūrvathā*; by *pratnapūrvaviśvemāt thāl chandasi* (Pā. 5-3-111 [?]) the suffix *thāl* in the sense of 'as'; by *liti* (लिति, Pā. 6-1-193 [?]) the syllable before the suffix takes the acute.
+*aśiśrayuḥ* — root *śriñ sevāyām*; by *bahulaṃ chandasi* *ślu* for *śap*; by *ślau* the root is doubled; in the plural *jhi* is obtained; by *sijabhyastavidibhyaś ca* (Pā. 3-4-109 [?]) *jus*, since it follows a reduplicated stem; by *jusi ca* (Pā. 7-3-83 [?]) the guṇa of the stem ending in *ik*; the augment *aṭ*; the *nighāta*. ‖ 2 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.3)** *(Jagatī; the second line is on p. 411)*
+
+> अर्चन्ति नारीरपसो न विष्टिभिः समानेन योजनेना परावतः ।
+
+*arcanti nārīr apaso na viṣṭibhiḥ samānena yojanenā parāvataḥ |*
+
+---
+
+### Page 411 (PDF 426)
+
+*(Running head left: "A. 1 A. 6 Va. 25 [?]"; centre: "Ṛgvedasaṃhitā"; right: 411.)*
+
+> इषं वहन्तीः सुकृते सुदानवे विश्वेदह यजमानाय सुन्वते ॥ ३ ॥
+
+*iṣaṃ vahantīḥ sukṛte sudānave viśvedaha yajamānāya sunvate ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.3)**
+
+> अर्चन्ति । नारीः । अपसः । न । विष्टिऽभिः । समानेन । योजनेन । आ । पराऽवतः ।
+> इषम् । वहन्तीः । सुऽकृते । सुऽदानवे । विश्वा । इत् । अह । यजमानाय । सुन्वते ॥ ३ ॥
+
+*arcanti | nārīḥ | apasaḥ | na | viṣṭi-bhiḥ | samānena | yojanena | ā | parā-vataḥ | iṣam | vahantīḥ | su-kṛte | su-dānave | viśvā | it | aha | yajamānāya | sunvate ‖ 3 ‖*
+
+(The Saṃhitā's *viśvedaha* is divided in the Pada as *viśvā | it | aha*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.3)**
+
+> नारीर्नेत्र्य उषसो विष्टिभिर्निवेशकैः स्वकीयैस्तेजोभिः समानेन योजनेनैकेनैव योजनेनोद्योगेन परावत आ दूरदेशादा पश्चिमदिग्भागादर्चन्ति । नभःप्रदेशं पूजयन्ति । कृत्स्नं जगद्व्यापयन्तीत्यर्थः । तत्र दृष्टान्तः । अपसो न । युद्धकर्मणोपेताः पुरुषा यथा स्वकीयैरायुधैर्धार्ष्ट्येनोपेताः [print 'dhārṭīmupena', doubtful [?]] सर्वं देशं व्याप्नुवन्ति तद्वत् । किं कुर्वत्यः । सुकृते शोभनस्य कर्मणः कर्त्रे सुन्वते सोमाभिषवं कुर्वते सुदानवे कल्याणदक्षिणा ऋत्विग्भ्यो ददते यजमानाय विश्वेदह सर्वमेवेषमन्नं वहन्तीरावहन्त्यः । प्रयच्छन्त्य इत्यर्थः ॥ नारीः । नृ नये । ऋदोरप् । नृनरयोर्वृद्धिश्च । पा. ३-३-५७ [?] इति शार्ङ्गरवादिषु पाठात् ङीन् । जसि वा छन्दसीति पूर्वसवर्णदीर्घत्वं । अपसः । अपःशब्दादर्शआदिभ्योऽच् [print partial; doubtful [?]] । सुपां सुलुगिति जसः सुः । व्यत्ययेन प्रत्ययात्पूर्वस्योदात्तत्वं । विष्टिभिः । विश प्रवेशने । विशन्ति प्रविशन्तीति विष्टयः किरणाः । क्तिच् क्तौ च संज्ञायामिति क्तिच् । विश्वा । सुपां सुलुगित्यमो डादेशः ॥
+
+*nārīr netrya uṣaso viṣṭibhir niveśakaiḥ svakīyais tejobhiḥ samānena yojanenaikenaiva yojanenodyogena parāvata ā dūradeśād ā paścimadigbhāgād arcanti | nabhaḥpradeśaṃ pūjayanti | kṛtsnaṃ jagad vyāpayantīty arthaḥ | tatra dṛṣṭāntaḥ | apaso na | yuddhakarmaṇopetāḥ puruṣā yathā svakīyair āyudhair dhārṣṭyenopetāḥ [?] sarvaṃ deśaṃ vyāpnuvanti tadvat | kiṃ kurvatyaḥ | sukṛte śobhanasya karmaṇaḥ kartre sunvate somābhiṣavaṃ kurvate sudānave kalyāṇadakṣiṇā ṛtvigbhyo dadate yajamānāya viśvedaha sarvam eveṣam annaṃ vahantīr āvahantyaḥ | prayacchantya ity arthaḥ ‖ nārīḥ | nṛ naye | ṛdor ap | nṛnarayor vṛddhiś ca | Pā. 3-3-57 [?] iti śārṅgaravādiṣu pāṭhāt ṅīn | jasi vā chandasīti pūrvasavarṇadīrghatvaṃ | apasaḥ | apaḥśabdād arśa-ādibhyo 'c [partial [?]] | supāṃ sulug iti jasaḥ suḥ | vyatyayena pratyayāt pūrvasyodāttatvaṃ | viṣṭibhiḥ | viśa praveśane | viśanti praviśantīti viṣṭayaḥ kiraṇāḥ | ktic ktau ca saṃjñāyām iti ktic | viśvā | supāṃ sulug ity amo ḍādeśaḥ ‖*
+
+*Translation:* "*Nārīḥ*, the leaders, the Uṣases, *arcanti* — *viṣṭibhiḥ*, with their own entering rays, *samānena yojanena*, by one single effort, from *parāvataḥ*, far-off, from the western quarter — they honour, they pervade, the region of the sky: that is, they make the whole world pervaded. The simile: *apaso na* — as men engaged in battle, with their own weapons and with boldness [the print here is doubtful [?]], pervade the whole country. What are they doing? They bear (*vahantīḥ*) every sort of *iṣam*, food, for the sacrificer who does good works (*sukṛte*), who presses Soma (*sunvate*), who gives well to the priests (*sudānave*): they bring it, they bestow it."
+
+*Grammar tail (partly clotted):* *nārīḥ* — root *nṛ naye*; *ṛdor ap*; the vṛddhi of *nṛ*/*nara* (vārttika); by the *śārṅgaravādi* group (Pā. 3-3-57 [?], as printed) the suffix *ṅīn*; by *jasi vā chandasi* the lengthening with the preceding similar vowel. *apasaḥ* — [from the word *apas*, 'work', the suffix *ac*, as printed, partly read [?]]; by *supāṃ sulug* *jas* is replaced by *su*; by *vyatyaya* the syllable before the suffix takes the acute. *viṣṭibhiḥ* — root *viśa praveśane*; "those that enter are *viṣṭayaḥ*, rays"; the suffix *ktic* by *ktic ktau ca saṃjñāyām*. *viśvā* — by *supāṃ sulug* the replacement *ḍā* for *am*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.3)** *(Kannada; begins at the foot of p. 411)*
+
+*nārīḥ* — the Uṣas deities who are guides; *sukṛte* — to the one who does pure works; *sunvate* — to the one who presses the Soma-juice; *sudānave* — (to the priests) a liberal —
+
+---
+
+### Page 412 (PDF 427)
+
+*(Running head: left "412", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*(the Pratipadārtha continues:)* "— giver; *yajamānāya* — to the sacrificer; *viśvedaha* — all; *iṣam* — food; *vahantīḥ* — bringing and giving; *viṣṭibhiḥ* — with (their natural) rays; *samānena yojanena* — with an effort made at a single time; *apaso na* — as men engaged in battle occupy all regions of the battlefield with their weapons; *ā parāvataḥ* — in the very remote regions of the mid-region too; *arcanti* — they pervade."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.3** *(Kannada)*
+
+"The Uṣas deities are guides to all. Bringing all food for the sacrificer who performs pure works, presses Soma-juice at the sacrifices, and gives liberally to the priests, they too, with their natural rays, simultaneously pervade even the very remote regions of the mid-region, as warriors pervade the whole battlefield."
+
+**English Translation** *(printed in English in the source; Rik 92.3)*
+
+"The female leaders of the morning illuminate with their inherent radiance, the remotest parts of the heaven, with a sumultaneous [sic] effort, like warriors with their shining arms in the van of the battle, bringing every kind of food to the performer of good works, to the bountiful, and to the worshipper who presents libations." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.3)** *(Kannada)*
+
+***nārīḥ*** — *netryaḥ* | "'Guides': that is, those who free all living beings from the darkness of night, give them brightness and awareness, and show the way so that each does his own works."
+
+***iṣam*** — "Since *andhaḥ, vājaḥ* and the like are read among the names for food (Ni. 2-7 [?]), *iṣam* means 'food'."
+
+***viṣṭibhiḥ*** — "Since *āpaḥ, āpnaḥ* and the like are read among the names for works (Ni. 2-1 [?]), 'by works' is the meaning. But here Sāyaṇa gives the sense 'with lustres'. *viśanti praviśantīti viṣṭayaḥ kiraṇāḥ*: because they enter and pervade all the world, 'rays' is the meaning. Both these meanings are possible here. According to the construction of Skandasvāmin, *apaso na viṣṭibhiḥ* means 'like women who, with works such as smearing [the floor] and other household chores, are skilled in work'."
+
+---
+
+**Progress note:** Printed pp. 1–412 done (PDF 16–427) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.2 complete; Rik 92.3 done through the Special Topics for *nārīḥ*, *iṣam*, *viṣṭibhiḥ* (the Special Topics may continue on p. 413, and the grammar page of 92.3 follows). Next: printed p. 413 (PDF 428). "
+"Open flags (Sūkta 92): the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; the Nirukta numerals 12-7, 3-9, 2-20, 5-20, 2-7, 2-1 [?]; the Ṛgveda numerals 1-124-5 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini numerals 2-4-80, 7-1-5, 3-1-80, 7-1-58, 8-3-41, 6-1-163, 2-4-72, 6-4-81, 7-4-19, 5-3-111, 7-3-83, 7-1-3, 3-1-55, 1-1-47, 8-2-23, 6-1-193, 3-4-109, 3-3-57 [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ* (print 'uṣasko…'), *caturhṛdīrgā…* and *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; the bhāṣya of 92.3: *dhārṣṭyenopetāḥ* (print 'dhārṭīmupena') and the *apasaḥ* derivation (*apaḥśabdād arśa-ādibhyo 'c*) doubtful [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ in 92.2 and viśvedaha/viśvā-it-aha in 92.3. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts: 91.4 first citation garbled; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, *māmamṛtaṃ*; 91.14 *na rarāṇa na rame*; 91.17 English translation's last line smudged; 91.18 p. 381 last line blotted, 'uices' [sic]; 91.19–91.23 clotted bhāṣya clauses as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
