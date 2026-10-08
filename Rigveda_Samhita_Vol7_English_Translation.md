@@ -8134,4 +8134,77 @@ Closing of Rik 89.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–293 done (PDF 16–308) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.7 complete**; **Rik 89.8** (Triṣṭubh) done through its Saṃhitā, Pada, bhāṣya (the Saumya-caru and Mahānāmnī application is stated at its head), Pratipadārtha, Bhāvārtha, English and the first (application) part of the Special Topics, which runs on p. 294; then 89.8's remaining Special Topics and grammar, 89.9 and 89.10. Next: printed p. 294 (PDF 309). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8 (*tuṣṭuvāṃsaḥ/tustu-vāṃsaḥ*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282 and 292 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 294 (PDF 309)
+
+*(Running head: "294 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.8, continued from p. 293:*
+
+- **भद्रम्** — "'good', 'an auspicious matter'. When the word *bhadram* is construed with the verb *śṛṇuyāma* it must be taken as 'an auspicious message, or word'; when it is joined with the verb *paśyema* it must be taken as 'auspicious things (events)'."
+- **यजत्राः** — *yāgeṣu ca puroḍāśādibhir yaṣṭavyā devāḥ* — "gods who are worshipped in sacrifices with substances such as *puroḍāśa*."
+- **व्यशेम** — *aśū vyāptau | prāpnuyāma* — "may we obtain, may we experience, may we live."
+- **देवहितं यदायुः** — *devena prajāpatinopakalpitaṃ kṛtsnaṃ ṣoḍaśādhikaśatapramāṇaṃ viṃśatyadhikaśatapramāṇaṃ vā āyuḥ* — "the life appointed by the god Prajāpati: that is, the full term of life determined by Brahmā for men — as the bhāṣyakāra says, a hundred and sixteen, or a hundred and twenty years of life. In the next Ṛk the hundred years are said to be the measure of man's life."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.8)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **कर्णेभिः** — the word *karṇa*, instrumental plural; *bhis* following, by "बहुलं छन्दसि" (Pā. Sū. 7-1-[10]) the *ais* substitution does not come; then by "बहुवचने झल्येत्" the *e* for the final *a* of the stem; the *s* of *bhis* gets *ru* and *visarga*.
+- **शृणुयाम** — the root *śru śravaṇe*; *liṅ*, first person plural, the affix *mas*; by "नित्यं ङितः" the loss of the *s* of the affix; by "श्रुवः शृ च" (Pā. Sū. 3-1-[74]) the substitute *śṛ* for the root and the *śnu* *vikaraṇa*; by "लिङः सलोपोऽनन्त्यस्य" the loss of the non-final *s* [of *yāsuṭ*]; *yāsuṭ* augment; since it follows an *atiṅanta*, the *nighāta*.
+- **अक्षभिः** — the word *akṣi*; instrumental plural; *bhis* following, by "छन्दस्यपि दृश्यते" the substitute *anaṅ*, with the acute left on the last syllable by the *anaṅ* rule; since it is *ṅit*, the substitute is final; *akṣan + bhis*, by "नलोपः प्रातिपदिकान्तस्य" the loss of the *n*.
+- **यजत्राः** — the root *yaja devapūjāsaṅgatikaraṇadāneṣu*; by "अमिनक्षियजिवधिपतिभ्योऽत्रन्" (Uṇ. Sū. 3-[105] [?]) the affix *atran*; vocative plural; by "आमन्त्रितस्य च" the *nighāta*.
+- **तुष्टुवांसः** — the root *ṣṭuñ stutau*; by "क्वसुश्च" (Pā. Sū. 3-2-[107]) the affix *kvasu* in the place of *liṭ*; since the root is reduplicated by it, by "शर्पूर्वाः खयः" (Pā. Sū. 7-4-[61]) the *t* is kept in the reduplicate as the *khay*-letter; the word *tuṣṭuvas*; in the nominative plural, by "उगिदचां सर्वनामस्थानेऽधातोः" the augment *num*; by "आत्वसन्तस्य चाधातोः" the lengthening of the penultimate; *n* becomes *anusvāra*; by the affix-accent the *ā* is acute.
+- **अशेम** — the root *aśū vyāptau*; by "आशिषि लिङ्" the *liṅ*; first person plural, *mas*; the loss of the *s*; since *āśīrliṅ* follows, by "लिङ्याशिषि अङ्" (Pā. Sū. 3-1-[86]) the affix *aṅ*; if the enumeration of the other verbs in that sūtra is for exclusion, then by "व्यत्ययो बहुलम्" *śap* for *śnu*; since it follows an *atiṅanta*, the *nighāta* accent.
+- **देवहितम्** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; the affix *kta* in the passive; by "दधातेर्हिः" (Pā. Sū. 7-4-[42]) the substitute *hi* for the root; by "तृतीया कर्मणि" (Pā. Sū. 6-2-[48]) the first member keeps its base accent.
+
+Closing of Rik 89.8: "॥ ८ ॥" (8), followed by a printer's ornament.
+
+---
+
+### Page 295 (PDF 310)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 295.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.9)** *(Triṣṭubh; Viśvedevas; accents not reproduced)*
+
+> शतमिन्नु शरदो अन्ति देवा यत्रा नश्चक्रा जरसं तनूनाम् ।
+> पुत्रासो यत्र पितरो भवन्ति मा नो मध्या रीरिषतायुर्गन्तोः ॥ ९ ॥
+
+*śatam in nu śarado anti devā yatrā naś cakrā jarasaṃ tanūnām | putrāso yatra pitaro bhavanti mā no madhyā rīriṣatāyur gantoḥ ‖ 9 ‖*
+
+*Gloss, mine and tentative:* "A hundred autumns are indeed near, O gods, wherein you have made old age for our bodies; where sons become fathers — do not harm us in the middle of our course, before our life has gone."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.9)**
+
+> शतम् । इत् । नु । शरदः । अन्ति । देवाः । यत्र । नः । चक्र । जरसम् । तनूनाम् ।
+> पुत्रासः । यत्र । पितरः । भवन्ति । मा । नः । मध्या । रीरिषत । आयुः । गन्तोः ॥ ९ ॥
+
+*śatam | it | nu | śaradaḥ | anti | devāḥ | yatra | naḥ | cakra | jarasam | tanūnām | putrāsaḥ | yatra | pitaraḥ | bhavanti | mā | naḥ | madhyā | rīriṣata | āyuḥ | gantoḥ ‖ 9 ‖*
+
+*(The Saṃhitā prints* cakrā*, the Pada* cakra*; as printed.)*
+
+---
+
+### Page 296 (PDF 311)
+
+*(Running head: "296 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.9)**
+
+> हे देवा अत्यन्तिके मनुष्याणां समीपे आयुष्ट्वेन भवद्भिः कल्पिताः शरदः संवत्सराः शतमिन्नु शतं खलु । यस्मात्सृष्टिकाले मनुष्याणां शतं संवत्सरा आयुरिति युष्माभिः परिकल्पितं तस्मान्नोऽस्माकमायुर्गन्तोः क्लृप्तस्यायुषो गमनात्पूर्वं मध्या मध्ये मा रीरिषत । मा हिंसिष्ट । कीदृशान् । नोऽस्माकं तनूनां शरीराणां जरसं जरां यत्र यस्यामवस्थायां चक्र कृतवन्तो यूयं । यत्र च पुत्रासः पुत्राः पितरोऽस्माकं रक्षितारो भवन्ति । ईदृग्दशापन्नानित्यर्थः ॥ अन्ति । अन्तिकशब्दस्य कादिलोपो बहुलमिति वक्तव्यमिति कलोपः । यत्र । ऋचि तनुघमक्षुतञ्जुत्रेति संहितायां दीर्घः । चक्र । लिटि मध्यमबहुवचनस्य कित्त्वाद्गुणाभावे यणादेशः । द्यावः ज्योतेस्तस्ज इति संहितायां दीर्घत्वं । जरसं । जराया जरसन्यतरस्यां । पा. ७-२-१०१ [?] इति जरसादेशः । मध्या । सुपां सुलुगिति सप्तम्या डाडेशः । रीरिषत । रिष रुष हिंसायां । अस्माण्णिजन्तात् माङि लुङि मध्यमबहुवचने च्लेश्चङ । णिलोपोपधाह्रस्वद्विर्वचनहलादिशेषसन्द्वावेत्वदीर्घाः । छान्दसः पदकालीनो ह्रस्वः । गन्तोः । गमेस्तोसुन्नु प्रत्ययः ॥
+
+*he devā atyantike manuṣyāṇāṃ samīpe āyuṣṭvena bhavadbhiḥ kalpitāḥ śaradaḥ saṃvatsarāḥ śatam in nu śataṃ khalu | yasmāt sṛṣṭikāle manuṣyāṇāṃ śataṃ saṃvatsarā āyur iti yuṣmābhiḥ parikalpitaṃ tasmān no 'smākam āyur gantoḥ kḷptasyāyuṣo gamanāt pūrvaṃ madhyā madhye mā rīriṣata | mā hiṃsiṣṭa | kīdṛśān | no 'smākaṃ tanūnāṃ śarīrāṇāṃ jarasaṃ jarāṃ yatra yasyām avasthāyāṃ cakra kṛtavanto yūyaṃ | yatra ca putrāsaḥ putrāḥ pitaro 'smākaṃ rakṣitāro bhavanti | īdṛgdaśāpannān ity arthaḥ ‖ anti | antikaśabdasya kādilopo bahulam iti vaktavyam iti kalopaḥ | yatra | ṛci tanughamakṣutañjutreti saṃhitāyāṃ dīrghaḥ | cakra | liṭi madhyamabahuvacanasya kittvād guṇābhāve yaṇādeśaḥ | … saṃhitāyāṃ dīrghatvaṃ | jarasam | jarāyā jarasanyatarasyāṃ | Pā. 7-2-101 [?] iti jarasādeśaḥ | madhyā | supāṃ suluk iti saptamyā ḍāḍeśaḥ | rīriṣata | riṣa ruṣa hiṃsāyām | asmāṇ ṇijantāt māṅi luṅi madhyamabahuvacane ca cleś caṅ | ṇilopopadhāhrasvadvirvacanahalādiśeṣasandvāvetvadīrghāḥ | chāndasaḥ padakālīno hrasvaḥ | gantoḥ | gameḥ tosun-nu pratyayaḥ ‖*
+
+*(Kannada script; the clause "dyāvaḥ jyotes tasja iti saṃhitāyāṃ dīrghatvaṃ" is clotted and read with doubt [?].)*
+
+*Translation:* "O gods, a hundred autumns, years — *śatam in nu* — truly a hundred, are appointed by you as the term of life of men, very near to men. Since you, at the time of creation, have ordained a hundred years as the life of men, therefore *no āyur gantoḥ* — before the going [end] of our appointed life, *madhyā* — in the middle — *mā rīriṣata* — do not harm [us]. Of what kind? [We] whose bodies you have made liable to *jarasam* — old age — *yatra*, at that stage [of life]; and where *putrāsaḥ*, sons, become our protectors, as fathers — that is, those who have reached such a state. *Grammar tail, noted briefly:* *anti* — loss of the *ka* of *antika* (*bahula*); *yatra* — lengthening in the Saṃhitā; *cakra* — *liṭ* second plural; *jarasam* — *jarasa* is substituted for *jarā* (Pā. 7-2-[101] [?]); *madhyā* — the locative ending replaced by *ḍā*; *rīriṣata* — *riṣa ruṣa hiṃsāyām*, in the causative, with *luṅ* after *mā*, *caṅ* for *cli*, with the reduplication and shortening; *gantoḥ* — *tosun* after *gam*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.9)** *(Kannada)*
+
+*devāḥ* — O gods; *anti* — (in the lives of men) as determined; *śaradaḥ* — years; *śatam it nu* — a hundred indeed (by you); *naḥ* — our; *tanūnām* — of bodies; *jarasam* — weakness (of old age); *yatra* — at which time of our life; *cakra* — you have made (as appointed by you); *yatra* — at which time of our life; *putrāsaḥ* — our sons; *pitaraḥ* — as fathers, protectors (or, protecting their own sons like fathers); *bhavanti* — they become — (make it so); *naḥ* — us; *āyur gantoḥ* — before the end of our whole life; *madhyā* — in the middle; *mā rīriṣata* — do not harm, hindering us.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.9** *(Kannada)*
+
+"O gods, a hundred years of life are indeed fixed for men. But at the time when we are enjoying that life of a hundred years to the full, do not, in the middle, cause weakness to arise in our bodies and thereby make us dependent, with the burden of protecting our bodies falling on our sons; do not hinder our growth and harm us in the middle of our life."
+
+---
+
+**Progress note:** Printed pp. 1–296 done (PDF 16–311) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.8 complete**; **Rik 89.9** (Triṣṭubh) done through its Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 296); next: its English, Special Topics and grammar (p. 297), then **89.10** (*aditir dyaur…*), and the end of Sūkta 89, then **Sūkta 90** (contents table: p. 303). Next: printed p. 297 (PDF 312). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8 (*tuṣṭuvāṃsaḥ/tustu-vāṃsaḥ*), 89.9 (*cakrā/cakra*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292 and 296 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
