@@ -2252,4 +2252,142 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–73 done (PDF 21–93): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Rik 96.1 complete (Special Topics concluded on p. 70, grammar on pp. 70–72); Rik 96.2: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha and English done (pp. 72–73). Next: printed p. 74 (PDF 94) — the Special Topics and grammar of Rik 96.2, then Rik 96.3. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–73) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on pp. 67 and 70 (numerals; second line of the first verse on p. 67) [?], the Ṛgveda numerals and the clotted first quotation on p. 70 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; in 96.2 the bhāṣya's *guṇeniṣṭha*, *ākṣṇīyena* and *chandasīṇa* [?] and the Pada's *kavyatā | āyoḥ*; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 74 (PDF 94)
+
+*(Running head: left 74; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.2 (Kannada)**
+
+***pūrvayā nividā kavyatā āyoḥ manūnām imāḥ prajāḥ ajanayat*** — "*prathamayā 'agnir devedhaḥ' ity ādikayā guṇaniṣṭhaguṇābhidhānalakṣaṇāṃ stutiṃ kurvatā manoḥ sambandhinokthena ca stūyamānaḥ mānavīḥ sarvāḥ prajāḥ ajanayat*: 'praised by the first [*nivid*], that beginning *agnir devedhaḥ*, which is a praise consisting in the statement of qualities, and by the hymn belonging to Manu, he begot all the human peoples.' The *nivid* hymn *agnir devedhaḥ* and the rest, though very ancient, sets forth the extraordinary qualities of Agni, and praises the greatness of Agni, who is said to have created all the peoples that belong to Manu. The praise of Kutsa, the seer who, with his divine insight, grasped this greatness of Agni and composed this sūkta praising him, and likewise the greatness of the *nivid* mantras, and the relation of cause and effect that those great mantras have to the creation of the world, and the extraordinary qualities of Agni that those mantras proclaim — all are stated together in the Aitareya Brāhmaṇa:"
+
+> प्रजापतिर्वा इदमेक आसीत्सोऽकामयत प्रजायेयेति भूयान्स्यामिति स तपोऽतप्यत स वाचमयच्छत्स संवत्सरस्य परस्ताद्व्याहरद्द्वादशकृत्वः प्रादेश पदा वा एषा निविदेतां वाव तां निविदं व्याहरत्तां सर्वाणि भूतान्यसृज्यन्त ।
+> *prajāpatir vā idam eka āsīt so 'kāmayata prajāyeyeti bhūyān syām iti sa tapo 'tapyata sa vācam ayacchat sa saṃvatsarasya parastād vyāharad dvādaśakṛtvaḥ prādeśa padā vā eṣā nivid etāṃ vāva tāṃ nividaṃ vyāharat tāṃ sarvāṇi bhūtāny asṛjyanta |*
+> (*Ai. Brā.* 10-1; 10-2 as read [?])
+
+*(Translation, mine and tentative: "Prajāpati was this [world] alone. He desired, 'May I be born as offspring; may I become more.' He performed austerity; he held back speech; after a year he uttered it twelve times, in span-long steps: this is the* nivid*. He uttered this very* nivid*; by it all beings were created." The print's* prajāyeyeti bhūyān syām *reads as in Kannada* bhūyonyāmiti*, doubtful [?], and* prādeśa padā *is as printed [?].)*
+
+"In the beginning Prajāpati, being alone, wished for the creation of creatures — 'may I be born many' — and for a year practised silence and austerity. Afterwards, having recited twelve times the *nivid* mantras that are contained in twelve great sentences, he created all the beings of the world: so the power of these mantras is shown, and, understanding their secret, Kutsa praised both them and the Ṛk composed by him in this way —"
+
+> तदेतदृषिः पश्यन्नभ्यनूवाच स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनामिति ।
+> *tad etad ṛṣiḥ paśyann abhyanūvāca sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām iti |*
+
+*(Translation, mine and tentative: "Seeing this, the seer chanted after it: 'he, by the ancient* nivid *…'." The two words* kavyatāyoḥ *are as printed in this quotation [?].)*
+
+"By the power of the *nivid* mantras all the beings of the world were created: Kutsa, grasping this principle, composed this mantra, '*sa pūrvayā*' (Ṛ. Saṃ. 1-96-2)."
+
+> तस्मा एतां पुरस्तात्सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ।
+> *tasmā etāṃ purastāt sūktasya nividaṃ dadhāti prajātyai | prajāyate prajayā paśubhir ya evaṃ veda |*
+
+*(Translation, mine and tentative: "Therefore he places this* nivid *at the head of the sūkta, for offspring. He who knows thus is born with offspring and cattle.")* "For this reason, at the beginning of the sūkta, the *nivid* mantra is recited to obtain progeny, and the one who recites it gets offspring. For one who thus knows, all wealth — first of all good progeny — is obtained."
+
+"The mantras that describe, and invite, the extraordinary qualities of a deity, or of a group of deities, are well known by the name *nivid* mantras."
+
+### Page 75 (PDF 95)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 75.)*
+
+> कर्मैव तावत्सावित्र्यां निविदि स्तौति कर्मणा ।
+> यद्धेनुः सप्त्यनड्वाहौ वोळ्हा दोग्ध्र्यशुरेव वा ॥
+> *karmaiva tāvat sāvitryāṃ nividi stauti karmaṇā |*
+> *yad dhenuḥ sapty anaḍvāhau voḷhā dogdhry aśur eva vā ‖*
+> (*Bṛ. De.* 3-30 as read [?])
+
+*(Translation, mine and tentative, with the Kannada: "In the* nivid *to Savitṛ he praises, by deed, the deed itself — [the beasts] the cow, the horse, the two draught-oxen, the bearer, the milker, the swift one." The verse is read as printed, doubtful in several words [?].)*
+
+"For example, in the first Ṛk of 1-3[5]-1 [?], the *nivid* mantra addressed to the deity Savitṛ shows the distinctive character of Savitṛ by describing his extraordinary actions. By *dogdhrī* is understood a cow that gives milk; by *āśu* ('swift'), the horse; by *voḷhā*, the draught-ox that bears the load — so they show the distinctive character of these. In the same way the *nivid* mantra of every deity praises, by describing the actions, the qualities that are special to that deity."
+
+"In this Ṛk composed by Kutsa the twelve great mantras, [implied by the words] *pūrvayā nividā*, which are addressed to Agni, are explained, each one separately, in the Aitareya Brāhmaṇa (Ai. Brā. 10-3 [?]):"
+
+1. "*agnir devedhaḥ*" — *iti śaṃsaty asau vā agnir devedhaḥ etaṃ hi devā indhate*: "the Agni of the heavenly world (the sun) is *devedhaḥ*, 'kindled by the gods': the gods make him blaze."
+
+2. "*agnir manvidhaḥ*" — *imaṃ hi manuṣyā indhate*: "the earthly Agni is kindled by men."
+
+3. "*agniḥ suṣamit*" — *vāyur vā agniḥ suṣamid vāyur hi svayam ātmānaṃ samindhe*: "Agni, being in the atmosphere, in the form of the wind, kindles himself."
+
+4. "*hotā devavṛtaḥ*" — *eṣa hi sarvato devair vṛtaḥ*: "he is chosen by the gods, on all sides, as Hotṛ."
+
+5. "*hotā manurvṛtaḥ*" — *ayaṃ hi sarvato manuṣyair vṛtaḥ*: "he is chosen by men, on all sides, as Hotṛ."
+
+6. "*praṇīr yajñānām*" — *vāyur vai praṇīr yajñānāṃ yad āhi sprāṇety atha yajño 'thāgnihotram* [as read [?]]: "since a sacrifice can be accomplished only when the wind moves, and since the Agnihotra goes forward, the wind alone is the conductor of sacrifices."
+
+7. "*rathīr adhvarāṇām*" — *asau vai rathīr adhvarāṇām eṣa hi yajñaitac carati rathīr iva*: "as a charioteer goes to the place he wishes, so Agni in the form of the sun, together with the sacrificer, goes with the oblations as a chariot, to the places he desires."
+
+### Page 76 (PDF 96)
+
+*(Running head: left 76; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+8. "*atūrto hotā*" — *imaṃ ha na kaścana tiryañcaṃ tarati | mārgamadhye tiryañcaṃ mārgasyāvarodhakatvena anasthitaṃ prauḍhaṃ dāvāgniṃ kaścid api taritum na samarthaḥ*: "no one can cross him lying across: no one is able to cross, or oppose, this Agni who is a mature forest-fire, blocking the way across the path." *(As printed; the print's* anasthitam *is clotted [?].)*
+
+9. "*tūrṇir havyavāṭ*" — *vāyur vai tūrṇir havyavāṭ | vāyur hīdaṃ sarvaṃ sadyas tarati | yad idaṃ kiṃ ca vāyur devebhyo havyaṃ vahati*: "the wind: since the wind, with his power of moving through all the world in an instant, carries oblations to the gods, the wind alone is the carrier of oblations (*havyavāṭ*)."
+
+10. "*ā devo devān yakṣat*" — *asau vai devo devān āvahati*: "the deity who brings all the gods to the sacrifice is this one alone."
+
+11. "*yakṣad agnir devo devān*" — *agnir devo devān yajati*: "Agni, whose nature is divine, sacrifices to the gods."
+
+12. "*so adhvarā karati jātavedāḥ*" — *vāyur vai jātavedā vāyur hīdaṃ sarvaṃ karoti*: "the wind is Jātavedas; he makes this whole world, as Jātavedas; and he himself is the worshipful Agni."
+
+"In this way these twelve *nivid* mantras have been explained in the Aitareya Brāhmaṇa. That the recital of these mantras gives the most excellent fruits — with this faith, when the deities are invoked, the practice of reciting these, with praise of the form, power, accomplishment of greatness of each deity, is the tradition, as one can see in the Ṛksaṃhitā in many contexts —"
+
+> तास्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
+> *tāsūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham |*
+> (*Ṛ. Saṃ.* 1-8[9]-3 as read [?])
+
+> जुषेथां यज्ञं बोधतं हवस्य मे सत्त्रो होता निविदः पूर्व्या अनु ।
+> *juṣethāṃ yajñaṃ bodhataṃ havasya me sattro hotā nividaḥ pūrvyā anu |*
+> (*Ṛ. Saṃ.* 2-3[6]-6 as read [?])
+
+> किमु ष्विदस्मै निविदो भनन्तेन्द्रस्यावद्यं दिधिषन्त आपः ।
+> *kim u ṣvid asmai nivido bhananta indrasyāvadyaṃ didhiṣanta āpaḥ |*
+> (*Ṛ. Saṃ.* 4-1[4]-6 as read [?])
+
+> वि यद्वाचं कीस्तासो भरन्ते शंसन्ति के चिन्निविदो मनानाः ।
+> *vi yad vācaṃ kīstāso bharante śaṃsanti ke cin nivido manānāḥ |*
+> (*Ṛ. Saṃ.* 6-2[2]-10 as read [?])
+
+*(Glosses, mine and tentative: "with the first* nivid *we invoke Bhaga, Mitra, Aditi, Dakṣa, the unharmed"; "enjoy the sacrifice, take heed of my call; may the Hotṛ, after the ancient* nivids*, sit"; "what do the* nivid*s tell for him? the waters wish to take up Indra's praise-worthy [deed]"; "when the singers bring forth speech, and some, reflecting, recite* nivid*s". The Ṛgveda numerals are as read from small print, doubtful [?]; the third verse's first words are doubtful [?].)*
+
+"The greatness of the *nivid* mantras is stated in the Taittirīya Brāhmaṇa (3-5-6 [?]) — the *nivid* mantra relating to Agni:"
+
+> देवेद्धो मन्विद्धः ऋषिष्टुतो विप्रानुमदितः कविशस्तो ब्रह्मसंशितो घृतापवनः प्रणीर्यज्ञानां रथीरध्वराणामतूर्तो होता तूर्णिर्हव्यवाट् । आस्पात्रं जुहूर्देवानां चमसो देवपानः । अरां इवाग्ने नेमिर्देवांस्त्वं परिभूरसि ॥
+> *devedhho manviddhaḥ ṛṣiṣṭuto viprānumaditaḥ kaviśasto brahmasaṃśito ghṛtāhavanaḥ praṇīr yajñānāṃ rathīr adhvarāṇām atūrto hotā tūrṇir havyavāṭ | āspātraṃ juhūr devānāṃ camaso devapānaḥ | arāṃ ivāgne nemir devāṃs tvaṃ paribhūr asi ‖*
+> (*Tai. Brā.* 3-5-6 as read [?])
+
+*(Translation, mine and tentative: "kindled by gods, kindled by Manu, praised by seers, delighted by sages, praised by poets, sharpened by priests, fed with ghee; leader of sacrifices, charioteer of rites, the unbeaten Hotṛ, swift bearer of oblations; the vessel, the ladle of the gods, the cup from which gods drink; like a felly around spokes, you surround the gods.")*
+
+### Page 77 (PDF 97)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 77.)*
+
+***āyoḥ manoḥ*** — *manoḥ sambandhinokthena stūyamānaḥ*: "praised by the hymn belonging to Manu: the creation of the beings by Agni, who is praised by Manu with mantras such as '*agnir devedhaḥ*', is described. Because *āyoḥ* is explained as 'Manu', one may take it as meaning Manu, one of the Prajāpatis who are the creators. It cannot be that the first among the fourteen Manus that are named in the Manu-smṛti (1-6[3]), Svāyambhuva Manu, and the Prajāpati whom the Aitareya Brāhmaṇa gives as an example, are one and the same: for in the Aitareya Brāhmaṇa Sāyaṇa himself explains the word *prajāpati* as *īśvaraḥ*."
+
+> येन ज्योतींष्यायवे मनवे च विवेदिथ ।
+> *yena jyotīṃṣy āyave manave ca vivedītha |*
+> (*Ṛ. Saṃ.* 8-1[2]-3 as read [?])
+
+*(Gloss, mine and tentative: "by which you found the lights for Āyu and for Manu".)* "In this place *āyave* and *manave* are said as if Āyu and Manu were different; but both may be ordinary human persons. The context of the legend here is not clear. And in the Ṛksaṃhitā itself the word *āyu* is used in senses such as 'life' and 'man', and it also points to different persons, as a proper name. For example —"
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+> *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
+> (*Ṛ. Saṃ.* 1-53-10)
+
+> य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे ।
+> *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive |*
+> (*Ṛ. Saṃ.* 8-53-2 as read [?])
+
+"Citing these two Ṛks, the English commentators (*Index of Vedic subjects and proper names* by Maedonell [sic] and Keith, Vol. I) hold that Āyu here has no friendship with Indra: since it says that he subdued and injured him, they take it that he must have been Indra's adversary. But in the bhāṣya, for *ardayaḥ*, Sāyaṇa explains: '*āyuṃ āyunāmānam ṛṣiṃ varapradānena pīḍayasi | āyuve mūlādi*…' [as read, clotted [?]] — 'you afflict Āyu, by the grant of boons (which burdens)', i.e. 'you oppress, by the burden of conferring boons, your friendly devotees such as Āyu'. But —"
+
+> मा नो गुह्या रिप आयोरहन्दभन्मा न आभ्यो रीरधो दुच्छुनाभ्यः ।
+> *mā no guhyā ripa āyor ahan dabhan mā na ābhyo rīradho ducchunābhyaḥ |*
+> (*Ṛ. Saṃ.* 2-3[1]-2 as read [?])
+
+"— in this passage Sāyaṇa explains clearly *āyoḥ* as 'of the man, who is an enemy'. And —"
+
+> युयोप नाभिरुपरस्यायोः प्र पूर्वाभिस्तिरते राष्ट्रि शूरः ।
+> *yuyopa nābhir uparasyāyoḥ pra pūrvābhis tirate rāṣṭi śūraḥ |*
+> (*Ṛ. Saṃ.* 1-104-4 as read [?])
+
+*(Glosses, mine and tentative: "[Indra] who has made Āyu's…" — the first is read from clotted print; "do not let the secret enemy, O day, harm the man Āyu; do not hand us over to these evil-doers"; "the navel [?] of the later Āyu is covered; the hero, with the former [ones], overcomes the realm". The second and third are tentative, and the first is not rendered [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–77 done (PDF 21–97): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1 complete; Rik 96.2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done, and the Special Topics under way (pp. 74–77: the *nivid* and Prajāpati passage from the Aitareya Brāhmaṇa, the twelve *nivid*-mantras of Agni, the Taittirīya Brāhmaṇa *nivid*, and the discussion of *āyoḥ manoḥ*), breaking at the foot of p. 77 in the discussion of *āyu* (citing Ṛ. 1-104-4). Next: printed p. 78 (PDF 98). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–77) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on pp. 67 and 70 [?], the Ṛgveda numerals and the clotted first quotation on p. 70 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; in 96.2 the bhāṣya's *guṇeniṣṭha*, *ākṣṇīyena* and *chandasīṇa* [?], the Pada's *kavyatā | āyoḥ*, the Aitareya Brāhmaṇa quotation on p. 74 (*bhūyān syām*, *prādeśa padā*) [?], the Bṛhaddevatā verse on p. 75 [?], the Aitareya items 6 and 8 on pp. 75–76 [?], the Ṛgveda and Taittirīya Brāhmaṇa numerals on pp. 76–77 [?] and the clotted passages on p. 77 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
