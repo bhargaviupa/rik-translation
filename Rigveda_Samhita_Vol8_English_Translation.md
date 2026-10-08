@@ -903,4 +903,112 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–21 done (PDF 21–41): Sūkta 95, Riks 95.1–95.3 complete (95.3's Special Topics on pp. 17–19, grammar on pp. 19–21); Rik 95.4: Saṃhitā and Pada (pp. 21), and the first lines of the bhāṣya (breaking at the foot of p. 21 at "…*evaṃbhūtam imam agniṃ vo yuṣmākaṃ*"). Next: printed p. 22 (PDF 42). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.2 (*nṛptyati* [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta and Bṛhaddevatā numerals of the Special Topics of 95.1–95.3 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.3 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā* and *ābādiṣu* in the bhāṣyas of 95.3–95.4 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on p. 21).
+### Page 22 (PDF 42)
+
+*(Running head: left 22; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Sāyaṇa-bhāṣya of Rik 95.4, continued from p. 21**
+
+> …मध्ये क आचिकेत [?] । को जानाति । न कोऽपीत्यर्थः । सोऽयमग्निर्वत्सः मेघस्थानामपां वैद्युताग्निरूपेण पुत्रस्थानीयः सन् मात्र्यः तस्य मात्रस्थानीयानि वृष्ट्युदकानि स्वधाभिर्हविर्लक्षणैरन्नैर्जनयते । उत्पादयति । तथा च स्मर्यते । अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः । मनु. ३-७६ । इति । अपि च बह्वीनां मेघस्थानामपां गर्भो वैद्युतरूपेण गर्भस्थानीयः सोऽग्निरपसामुपस्थात् समुद्रान्निश्चरति । औषसाग्निरूपेणादित्यः सन्निर्गच्छति । कीदृशः । महान् तेजसा प्रौढः । कविः क्रान्तदर्शी । स्वधावान् हविर्लक्षणान्नवान् । एक एवाग्निर्होमनिष्पादकलक्षणेन पार्थिवरूपेण वैद्युतात्मनौषसरूपेणादित्यात्मना च विभज्य वर्तते इत्यर्थः ॥
+
+*…madhye ka ā ciketa [?] | ko jānāti | na ko 'pīty arthaḥ | so 'yam agnir vatsaḥ meghasthānām apāṃ vaidyutāgnirūpeṇa putrasthānīyaḥ san mātryaḥ tasya mātrasthānīyāni vṛṣṭyudakāni svadhābhir havirlakṣaṇair annair janayate | utpādayati | tathā ca smaryate | agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ | manu. 3-76 | iti | api ca bahvīnāṃ meghasthānām apāṃ garbho vaidyutarūpeṇa garbhasthānīyaḥ so 'gnir apasām upasthāt samudrān niścarati | auṣasāgnirūpeṇādityaḥ san nirgacchati | kīdṛśaḥ | mahān tejasā prauḍhaḥ | kaviḥ krāntadarśī | svadhāvān havirlakṣaṇānnavān | eka evāgnir homaniṣpādakalakṣaṇena pārthivarūpeṇa vaidyutātmanauṣasarūpeṇādityātmanā ca vibhajya vartate ity arthaḥ ‖*
+
+*Sense (mine, from the Kannada that follows):* "…among you, who has understood [him]? Who knows? — the sense is: no one. This Agni, as the son (*vatsa*) of the cloud-dwelling waters, in the form of lightning, makes his mothers — the rain-waters standing in the place of mothers — through *svadhā*, through foods in the form of oblations; he brings them forth. And so it is recorded in the Smṛti: 'The oblation cast into the fire rightly reaches the sun; from the sun comes rain, from rain food, from that creatures' (Manu 3-76). Further, the embryo of the many cloud-dwelling waters, the one who is in the place of an embryo in the form of lightning, that Agni comes forth from the lap of the waters, from the ocean: as the sun, in the form of the dawn-fire, he comes out. What is he like? Great, mature in lustre; a *kavi*, one who has crossed [to sight]; *svadhāvān*, possessed of food in the form of oblations. The sense is that the one Agni exists divided as the earthly form that accomplishes the offering, as lightning, as the dawn-form, and as the sun."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *ciketa* — root *kit* (to know), the Vedic perfect; *janayata* — root *janī*, the *ṇic*, with the *mit* group and shortening by *mitāṃ hrasvaḥ*, the *laṅ* form with the ending *jhi* → *anta*, as in 95.2, the *aṭ*-augment omitted in the Veda; *bahvīnām* — the *ṅīṣ* feminine of *bahu*, with *nityaṃ chandasi* (Pā. 4-1-[?] [?]) and *bahuśabdāj ṅīṣ*; *apasām* — root *āp* (to pervade), the Uṇādi suffix *as* with *hrasva* (*apaḥ karmākhyāyām*, Uṇ. 4-[?] [?]); *upasthāt* — *upasthā*, the *k*-suffix in the sense of 'standing near' with the rule on *upasarga*; the cases of *kaviḥ*, *svadhāvān*, *niṣ* … are treated as in the earlier verses. *(The tail is compressed; sūtra numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*niṇyaṃ* — (O priests and sacrificers, in each thing, in a different form) hidden; *imaṃ* — this Agni; *vaḥ* — among you; *kaḥ* — who (of himself) *ā ciketa* — will know (no one among you can, [this] Agni); *vatsaḥ* — (in the form of lightning, among the cloud-waters) in the position of a son; *mātṝḥ* — (his own) mothers, the rain-waters; *svadhābhiḥ* — by the foods in the form of oblations; *janayata* — makes [them] arise (and); *mahān* — one with greatness of lustre; *kaviḥ* — wise; *svadhāvān* — one having food in the form of oblations; *bahvīnāṃ garbhaḥ* — Agni who is hidden, in the form of lightning, in the many cloud-waters; *apasām upasthāt* — from the midst of the ocean, the dwelling-place of the waters; *niścarati* — (in the form of the dawn-fire, as the sun) goes out."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"None among you is able to know this Agni, who is hidden in each thing in a different form. This Agni, existing as a son in the cloud-waters in the form of lightning, afterwards accepts the oblation of the sacrifice and, as the scriptural saying has it, '*yajñād bhavati parjanyaḥ*' ['from the sacrifice comes the rain-cloud'], through the offering of the sacrifice" *(continues on p. 23)*
+
+### Page 23 (PDF 43)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 23.)*
+
+"…makes arise the rain-waters, who are his mothers. And this Agni, who is great in the glory of his lustre, wise, and has food in the form of oblations, hidden in the midst of the cloud-waters in the form of lightning, goes forth from the middle of the ocean, in the form of the dawn-fire (as the sun)."
+
+**English Translation (as printed)**
+
+> Which of you discerns the hidden Agni ? a son, he begets his mothers by oblations ; the germ of many (waters), he issues from the ocean ; mighty and wise, the recipient of oblations.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.4 (Kannada)**
+
+"The form of the outward manifestation of Agni can be known by all, in a gross way; but, to show that his true subtle form, and his greatness, cannot be fully known by anyone, the description of the subtle form of Agni is begun in the form of a question."
+
+***niṇyaṃ*** — "*niṇyaṃ, sasṭaḥ* [as read [?]], *sanutaḥ* and others are read among the six [?] names for 'hidden' (Ni. 3-19 [?]), so the meaning is 'secret, concealed'. It is an epithet of Agni, since he is hidden in all things in different forms. In contexts that give the sense 'secret' the use of the word *niṇya* can be seen in some other places also. For example —"
+
+> कविर्न निण्यं विदथानि साधन्वृषा यत्सेकं विपिपानो अर्चात् ।
+> *kavir na niṇyaṃ vidathāni sādhan vṛṣā yat sekaṃ vipipāno arcāt |*
+> (*Ṛ. Saṃ.* 4-19-3 as read [?])
+
+*(Gloss, mine and tentative: "like a poet, accomplishing the hidden rites, when the bull, drinking, sang forth the out-pouring".)* "— here it is something accessible only to the poet's vision; a secret which is not in the reach of ordinary understanding. In some other contexts, when one searches for the truth and the truth is extremely recondite, difficult and not coming to hand, the word *niṇya* is used to show the confusion of the mind. For example —"
+
+> न वि जानामि यदिवेदमस्मि निण्यः संनद्धो मनसा चरामि ।
+> *na vi jānāmi yad ivedam asmi niṇyaḥ saṃnaddho manasā carāmi |*
+> (*Ṛ. Saṃ.* 1-164-37 as read)
+
+*(Gloss, mine and tentative: "I do not know what I am like; hidden, bound in mind, I wander".)* "Here *niṇyaḥ* is *antarhitaḥ, mūḍhacittaḥ*, 'hidden, of deluded mind': the sense is 'one of confused mind', 'one whose mind is agitated'; the cause is that the truth is beyond reach."
+
+### Page 24 (PDF 44)
+
+*(Running head: left 24; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+"As in the examples above, here too the word *niṇya* has the sense 'secret', and since the subtle form of Agni is highly secret, there is the question '*vaḥ kaḥ ā ciketa*' — 'which of you can know?'. Because —"
+
+> दिवश्चित्ते बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वम् ।
+> *divaś cit te bṛhato jātavedo vaiśvānara pra ririce mahitvam |*
+> (*Ṛ. Saṃ.* 1-98-3 as read [?])
+
+*(Gloss, mine and tentative: "even beyond the great heaven, Jātavedas Vaiśvānara, your greatness has extended".)*
+
+"— from such descriptions the power of Agni extends beyond even the heavenly world, so it is impossible for mortals to know his greatness. Even his reality (*sattva*) pervading the mountains, the plants and the waters is so secret that it cannot be known to the ordinary sight of men (Ṛ. 1-98-3 [?]) — that is how it is to be understood."
+
+***vatsaḥ mātṝḥ svadhābhiḥ janayata*** — "For this sentence the explanation of Sāyaṇa and that of Skandasvāmin differ greatly. Sāyaṇa says: '*vatsaḥ meghasthānām apāṃ vaidyutāgnirūpeṇa putrasthānīyaḥ san, mātṝḥ tasya mātṛsthānīyāni vṛṣṭyudakāni svadhābhir havirlakṣaṇair annair janayate, utpādayati*' — that is, being as a son of the cloud-waters in the form of lightning-fire, he, by the foods that are of the nature of oblations, makes arise his mothers, the rain-waters." He cites the verse from the Manu-smṛti —"
+
+> अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते ।
+> आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः ॥
+> *agnau prāstāhutiḥ samyag ādityam upatiṣṭhate | ādityāj jāyate vṛṣṭir vṛṣṭer annaṃ tataḥ prajāḥ ‖*
+> (*Manu* 3-76)
+
+*(Translation, mine and tentative: "the oblation rightly cast into the fire reaches the sun; from the sun rain is born, from rain food, from that creatures".)* "— and so, by citing this statement of authority, he explains that rain is created through sacrifice. Skandasvāmin says:"
+
+> योऽयं वत्सस्थानीयः अपत्यभूतस्सन् मातॄः ओषधिवनस्पतयः । अत्र मातर उच्यन्तेऽग्नेर्जनकत्वात् । जनयत वैद्युतात्मना व्यवस्थितः सन् जनयति । स्वधाभिः । स्वधेत्युदकनाम । वृष्टिलक्षणैः उदकैः ।
+> *yo 'yaṃ vatsasthānīyaḥ apatyabhūtas san mātṝḥ oṣadhivanaspatayaḥ | atra mātara ucyante 'gner janakatvāt | janayata vaidyutātmanā vyavasthitaḥ san janayati | svadhābhiḥ | svadhety udakanāma | vṛṣṭilakṣaṇaiḥ udakaiḥ |*
+
+*(Translation, mine and tentative, with the Kannada that follows: "He who is in the place of the calf, being the offspring — 'mothers' are the plants and trees; here they are called mothers because they give birth to Agni. He gives birth (*janayata*), abiding in the lightning-form, he produces. *Svadhābhiḥ*: '*svadhā*' is a name for water, i.e. with waters of the nature of rain.")* "Since Agni arises from the plants and trees, they are mothers to Agni; again, taking the form of lightning, he pours rain and, by *svadhābhiḥ*, that is by the waters of the form of rain, makes his mothers, the plants and trees, arise again: so Skandasvāmin explains the sense."
+
+> अत्रेदमुक्तं भवति । सत्यपि भौतिकेऽग्नौ परिज्ञाते द्युलोकादिषु तथान्तरिक्षप्रदेशेषु वर्तमानं गूढस्वरूपमग्निं कोऽपि न जानाति । अग्निरूपो वत्सो हि शिशुरेव स्वकीयो मातॄर्जनयति । अल्पप्रकृतिरज्ञो बलहीनो बालकः कथं मातृजनने समर्थः स्यादिति न शङ्कनीयम् । अग्निर्हि न स्वमातॄणामुदरात् साधारणबालका यथा अल्पप्रकृतिरज्ञो निर्बलश्च जज्ञे । तर्हि महान् कविः स्वधावान् सन्नेव उदपद्यतेति ॥
+> *atredam uktaṃ bhavati | satyapi bhautike 'gnau parijñāte dyulokādiṣu tathāntarikṣapradeśeṣu vartamānaṃ gūḍhasvarūpam agniṃ ko 'pi na jānāti | agnirūpo vatso hi śiśur eva svakīyo mātṝr janayati | alpaprakṛtir ajño balahīno bālakaḥ kathaṃ mātṛjanane samarthaḥ syād iti na śaṅkanīyam | agnir hi na svamātṝṇām udarāt sādhāraṇabālakā yathā alpaprakṛtir ajño nirbalaś ca jajñe | tarhi mahān kaviḥ svadhāvān sann eva udapadyateti ‖*
+
+*(Translation, mine and tentative: "Here this is said: although the earthly Agni is known, no one knows the Agni who is of hidden nature, existing in the heavenly world and so in the regions of the atmosphere. The calf who is Agni, though a child, begets his own mothers. One should not doubt how a child of small nature, ignorant, without strength, could be capable of bearing mothers: for Agni was not born from the womb of his mothers like an ordinary child, small in nature, ignorant and weak; no, he arose as one already great, wise, and possessed of* svadhā*.")* *(continues on p. 25)*
+
+### Page 25 (PDF 45)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 25.)*
+
+"That is: everyone has seen the Agni who is on the earth; but no one has known the nature of the Agni who is in hidden forms in the heavens and in the atmosphere. When it is said of the calf-like Agni, or the child, that he makes his own mothers [plants] arise, there is no reason to be in doubt as to whether a child, of utterly small form, ignorant and weak, can be capable of making [his] mothers arise; for Agni was not born like an ordinary child, but is great and wise from the very moment he is born."
+
+***bahvīnāṃ garbhaḥ apasām upasthāt niścarati*** — "For this sentence too there is much difference between the explanations of these two. Sāyaṇa explains: '*bahvīnāṃ meghasthānām apāṃ, garbhaḥ vaidyutarūpeṇa garbhasthānīyaḥ so 'gniḥ, apasām upasthāt samudrān niścarati — auṣasāgnirūpeṇādityaḥ san nirgacchati*': the Agni who, in the form of lightning, is in the position of the embryo in the many cloud-waters, comes forth from the midst of the ocean, in the form of the dawn-fire, as the sun. Skandasvāmin explains:"
+
+> बह्वीनामोषधीनां दिशां वा गर्भः अपत्यभूतः अपसामुपस्थात् । आपांसि कर्माणि । तान्युपगम्य यत्र तिष्ठन्ति गो उपसामुपस्थो यज्ञः आहवनीयो वा [?] । तस्मात् महान् कविर्मेधावी स्वधावान् हविरिच्छन् स्वदाय निश्चरति देवान्प्रति निर्गच्छति ।
+> *bahvīnām oṣadhīnāṃ diśāṃ vā garbhaḥ apatyabhūtaḥ apasām upasthāt | āpāṃsi karmāṇi | tāny upagamya yatra tiṣṭhanti go upasām upastho yajñaḥ āhavanīyo vā [?] | tasmāt mahān kavir medhāvī svadhāvān havir icchan svadāya niścarati devān prati nirgacchati |*
+
+*(Translation, mine and tentative, with the Kannada: "The embryo, as offspring, of the many plants or of the quarters, from the lap of the* apas*s;* āpāṃsi *means 'rites'; having approached them where they stand — the sacrifice, or the Āhavanīya [fire] [the words in the middle of the sentence are clotted [?]]; from that [place] the great, wise one, possessed of* svadhā*, desiring the oblation, goes out; he goes out towards the gods.")* "Agni, as the offspring of the plants or of the quarters, being in the forms of the Āhavanīya and the other fires, takes the oblations from the midst of the sacrifice and sets out to go to the neighbourhood of the gods, so he explains. These two meanings both fit the context well. How? For '*bahvīnāṃ garbhaḥ*' —"
+
+> गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् ।
+> *garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām |*
+> (*Ṛ. Saṃ.* 1-70-3)
+
+"— on the basis of this scriptural statement it can be '*apāṃ garbhaḥ*', that is, of the cloud-waters, or '*oṣadhīnāṃ garbhaḥ*'. For *apasām upasthāt* also the meaning may be as Sāyaṇa explains, 'he comes out from the midst of the ocean', or, since the word *apas* is read among the twenty-six names of 'work' — *apaḥ*, *apnaḥ*, *daṃsaḥ* and so on (Ni. 2-1 [?], as read) — *apasām upasthāt* can be taken to mean 'from the midst of the sacrifice'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.4)** *(grammar pages, from p. 25, noted briefly; continues on p. 26)*
+
+***imam*** — the word *idam*; in the accusative singular, with *am* following, *a* by *tyadādīnām aḥ* (Pā. 7-2-102 [?]), the *pararūpa*; the *d* becomes *m* by the vārttika *daś ca* [as read] (Pā. 7-2-[?] [?]); *ami*… *(continues on p. 26)*
+
+---
+
+**Progress note:** Printed pp. 1–25 done (PDF 21–45): Sūkta 95, Riks 95.1–95.3 complete; Rik 95.4: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English and Special Topics done (pp. 21–25; the Sāyaṇa/Skandasvāmin comparison on *vatsaḥ mātṝḥ svadhābhiḥ janayata* and *bahvīnāṃ garbhaḥ…*), its grammar page begun at the foot of p. 25 (*imam*). Next: printed p. 26 (PDF 46). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.4 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.4 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.4 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā* and *ābādiṣu* in the bhāṣyas of 95.3–95.4 [?]; *madhye ka ā ciketa* in the bhāṣya of 95.4 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
