@@ -9479,4 +9479,77 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–337 done (PDF 16–352) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.2 complete; Rik 91.3 done through the Special Topics (pp. 334–337; the page ends with the *dakṣāyyaḥ* citation; the Vyākaraṇa-prakriyā of 91.3, if printed, begins on p. 338 — not yet viewed). Next: printed p. 338 (PDF 353). Open flags: p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* and the Uṇādi numeral doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?] (*haṃti rakṣo…* text and ref doubtful; the *niśi-kram-* Nirukta-style phrase doubtful; *soma rājan pra ṇa* ligatures unclear); Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 338 (PDF 353)
+
+*(Running head: left "338", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.3)** *(Kannada; grammar page, noted briefly)*
+
+*rājñaḥ* — root *rāj dīptau*; the Uṇādi suffix *kanin*; since *nit*, the initial-acute accent.
+*soma* — vocative singular; by *āmantritasya ca* (आमन्त्रितस्य च) the *nighāta* accent.
+*śuciṣṭvam* — *śuciḥ + tvam*: since *yuṣmad* follows, by *yuṣmattattakṣuḥṣvantaḥpādam* (युष्मत्तत्तक्षुःष्वन्तःपादम्, Pā. 8-3-103 [?], numerals as read) the visarga becomes *ṣ*.
+*asi* — root *as bhuvi*; *laṭ*, second person singular, *siP*; by *tāsasty or lopaḥ* (तासस्त्योर्लोपः, Pā. 7-4-50 [?]) the *s* of the root is elided before a *sārvadhātuka* beginning with *s*; the *tiṅ*-*nighāta* accent.
+*dakṣāyyaḥ* — root *dakṣa vṛddhau*; *śṛdakṣispṛhigrahibhya āyyaḥ* (शृदक्षिस्पृहिग्रहिभ्य आय्यः, U. 3-96 [?]); by the suffix accent the *ā* is acute. ‖ 3 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.4)**
+
+> या ते धामानि दिवि या पृथिव्यां या पर्वतेष्वोषधीष्वप्सु ।
+> तेभिर्नो विश्वैः सुमना अहेळन्राजन्सोम प्रति हव्या गृभाय ॥ ४ ॥
+
+*yā te dhāmāni divi yā pṛthivyāṃ yā parvateṣv oṣadhīṣv apsu | tebhir no viśvaiḥ sumanā aheḷan rājan soma prati havyā gṛbhāya ‖ 4 ‖*
+
+*(Accent marks not reproduced.)*
+
+---
+
+### Page 339 (PDF 354)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 339.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.4)**
+
+> या । ते । धामानि । दिवि । या । पृथिव्याम् । या । पर्वतेषु । ओषधीषु । अप्ऽसु ।
+> तेभिः । नः । विश्वैः । सुऽमनाः । अहेळन् । राजन् । सोम । प्रति । हव्या । गृभाय ॥ ४ ॥
+
+*yā | te | dhāmāni | divi | yā | pṛthivyām | yā | parvateṣu | oṣadhīṣu | ap-su | tebhiḥ | naḥ | viśvaiḥ | su-manāḥ | aheḷan | rājan | soma | prati | havyā | gṛbhāya ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.4)**
+
+> आग्रयणेष्ट्यां सौम्यस्य हविषो या ते धामानीति याज्या । आग्रयणं व्रीहिश्यामाकयवानामिति खण्डे सूत्रितं । सोम यास्ते मयोभुवो या ते धामानि दिवि या पृथिव्याम् । आ. २-९ [?] इति ॥ एषैवैकादशिनस्य सौम्यस्य पशोर्वपायां याज्या । सूत्रितं च । या ते धामानि दिवि या पृथिव्यामुषाळ्हं युत्सु पृतनासु पप्रिं । आ. ३-२ [?] इति ॥ प्रायणीयेष्ट्यावस्यैव सौम्यस्य याज्या । सूत्रितं च । त्वं सोम प्र चिकितो मनीषा या ते धामानि दिवि या पृथिव्यां । आ. ४-३ [?] इति ॥
+> हे सोम ते तव दिवि द्युलोके यानि धामानि तेजांसि वर्तन्ते । तथा पृथिव्यां भूमौ यानि वर्तन्ते । तथा पर्वतेषु पर्वतवत्सु शिलोच्चयेषु यानि वर्तन्ते । तथा व्रीह्याद्योषधीषु अप्सु च यानि वर्तन्ते । तेभिर्विश्वैः सर्वैस्तेजोभिर्युक्तः सुमनाः शोभनमना अहेळन् अक्रुध्यन् हे राजन्सोम राजमान सोम एवंभूतस्त्वं हव्यास्माभिः प्रत्तानि हवींषि प्रति गृभाय प्रतिगृहाण ॥ या । शेश्छन्दसि बहुलमिति शेर्लोपः । पृथिव्याम् । उदात्तयणः इति विभक्तेरुदात्तत्वं । ओषधीषु । ओषधेश्च विभक्त्यावप्रथमायाम् । पा. ६-३-१३२ [?] । इति दीर्घः । अप्सु । ऊडिदमित्यादिना विभक्तेरुदात्तत्वं । सुमनाः । सोर्मनसी आलोमोषसी इत्युत्तरपदाद्युदात्तत्वं । गृभाय । ग्रह उपादाने । छन्दसि शायजपीति [?] हौ श्नाप्रत्ययस्य शायजादेशः ॥
+
+*āgrayaṇeṣṭyāṃ saumyasya haviṣo yā te dhāmānīti yājyā | āgrayaṇaṃ vrīhiśyāmākayavānām iti khaṇḍe sūtritaṃ | soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām | Ā. 2-9 [?] iti ‖ eṣaivaikādaśinasya saumyasya paśor vapāyāṃ yājyā | sūtritaṃ ca | yā te dhāmāni divi yā pṛthivyām uṣāḷhaṃ yutsu pṛtanāsu papriṃ | Ā. 3-2 [?] iti ‖ prāyaṇīyeṣṭyāv asyaiva saumyasya yājyā | sūtritaṃ ca | tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyāṃ | Ā. 4-3 [?] iti ‖ he soma te tava divi dyuloke yāni dhāmāni tejāṃsi vartante | tathā pṛthivyāṃ bhūmau yāni vartante | tathā parvateṣu parvatavatsu śilocchrayeṣu yāni vartante | tathā vrīhyādyoṣadhīṣu apsu ca yāni vartante | tebhir viśvaiḥ sarvais tejobhir yuktaḥ sumanāḥ śobhanamanā aheḷan akrudhyan he rājan soma rājamāna soma evaṃbhūtas tvaṃ havyāsmābhiḥ prattāni havīṃṣi prati gṛbhāya pratigṛhāṇa ‖ yā | śeś chandasi bahulam iti śer lopaḥ | pṛthivyām | udāttayaṇaḥ iti vibhakter udāttatvaṃ | oṣadhīṣu | oṣadheś ca vibhaktyāvaprathamāyām | Pā. 6-3-132 [?] | iti dīrghaḥ | apsu | ūḍidam ity ādinā vibhakter udāttatvaṃ | sumanāḥ | sor manasī alomoṣasī ity uttarapadādyudāttatvaṃ | gṛbhāya | graha upādāne | chandasi śāyajapīti [?] hau śnāpratyayasya śāyajādeśaḥ ‖*
+
+*Translation:* "In the Āgrayaṇa offering, for the oblation to Soma, '*yā te dhāmāni*' is the *yājyā*; prescribed in the section '*āgrayaṇaṃ vrīhiśyāmākayavānām*': '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]). This same Ṛk is the *yājyā* for the *vapā* of the animal of the Saumya of the *ekādaśina*; prescribed: '*yā te dhāmāni divi yā pṛthivyām uṣāḷhaṃ yutsu pṛtanāsu papriṃ*' (Ā. 3-2 [?]). At the *prāyaṇīyā* offering it is the *yājyā* of this same Soma; prescribed: '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Ā. 4-3 [?]). — O Soma, whatever *dhāmāni*, lustres, of yours are in heaven; likewise whatever are on earth; likewise whatever are on the mountains, the rock-heaps that have the nature of hills; likewise whatever are in the plants such as rice and in the waters: with all those lustres united, *sumanāḥ* — well-minded — *aheḷan*, not angry, O king Soma, shining Soma, being such, *prati gṛbhāya* — receive in return the oblations offered by us."
+
+*Grammar tail (noted briefly):* *yā* — the elision of *śi* by "*śe chandasi bahulam*"; *pṛthivyām* — the case-ending acute by *udāttayaṇo hal-pūrvāt*; *oṣadhīṣu* — the lengthening (Pā. 6-3-132 [?]); *apsu* — the case-ending accent by *ūḍidam…*; *sumanāḥ* — the final-member initial-acute accent; *gṛbhāya* — root *grah upādāne*; in Chandas the *śnā* suffix is replaced by *śāyac* [the cited rule *śāyajapi*…, partly read [?]]. *(Numerals as read, doubtful [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.4)** *(Kannada; begins at the foot of p. 339)*
+
+*rājan* — O shining one; *soma* — O Soma-deity; *te* — your; *yā dhāmāni* — whichever lustres; *divi* — are in the world of heaven; *pṛthivyām* — on the earth; *yā* — whichever —
+
+---
+
+### Page 340 (PDF 355)
+
+*(Running head: left "340", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+— lustres are in the mountains (likewise); *oṣadhīṣu* — in the roots and the like (plants), too; *apsu* — in the waters, too; *yā* — whichever lustres there are; *tebhiḥ viśvaiḥ* — with all those lustres, united (and); *sumanāḥ* — gracious-minded; *aheḷan* — free of anger; *naḥ havyā* — the oblations offered by us; *prati gṛbhāya* — accept.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.4** *(Kannada)*
+
+"O shining Soma-deity, whichever of your lustres are in the world of heaven, on the earth, in the mountains, in the roots and plants and in the waters, endowed with all those lustres, be gracious-minded towards us and free of anger, and accept the oblations offered by us."
+
+**English Translation** *(printed in English in the source; Rik 91.4)*
+
+"O illustrious Soma, endowed with all the glories that are displayed by you in heaven, on earth, in the mountains, in the plants, in the waters, be well-disposed towards us and devoid of anger, accept our oblations." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.4)** *(Kannada)*
+
+"When the oblation belonging to the Soma deity is offered in the *Āgrayaṇeṣṭi*, this Ṛk, *yā te dhāmāni*, is to be used as the *yājyā* mantra; this is shown in the Āśvalāyana Śrauta-sūtra, in the section called '*āgrayaṇaṃ vrīhiśyāmākayavānām*', by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]); and in the sacrifice called *ekādaśina*, at the *vapā*-offering of the animal for the Soma deity, it is to be used as the *yājyā* mantra; this is explained by the sūtra '*yā te dhāmāni divi yā pṛthivyām uṣāḷhaṃ yutsu pṛtanāsu papriṃ*' (Ā. 3-2 [?]). In the *Prāyaṇīyeṣṭi* also, at the time of offering the oblation to Soma, it is to be used as the *yājyā*; this is explained by the sūtra '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Ā. 4-3 [?])."
+
+***yā te dhāmāni*** — *yāni tejāṃsi vartante tais sarvais tejobhir yuktaḥ* | "Here the word *dhāman* may be given any meaning, 'lustre' or 'place'. With all your lustres —
+
+---
+
+**Progress note:** Printed pp. 1–340 done (PDF 16–355) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.3 complete (the grammar page of 91.3 on p. 338); Rik 91.4 done through the first lines of the Special Topics (*yā te dhāmāni*, the sentence stops at the foot of p. 340 mid-clause: "With all your lustres —"). Next: printed p. 341 (PDF 356) — continue the Special Topics of 91.4 from "…with all your lustres". Open flags: Āśvalāyana numerals on pp. 339–340 (2-9, 3-2, 4-3) [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?] (6-3-132, 8-3-103, 7-4-50, U. 3-96); *śāyaj* rule of the grammar tail of 91.4 partly read [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?] (*haṃti rakṣo…* text and ref doubtful; the *niśi-kram-* phrase doubtful; *soma rājan pra ṇa* ligatures unclear); Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
