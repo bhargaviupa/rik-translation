@@ -7474,4 +7474,79 @@ Closing of Rik 89.1: "॥ १ ॥" (1).
 
 ---
 
-**Progress note:** Printed pp. 1–269 done (PDF 16–284) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks: 1–5, 7 Jagatī; 6 Virāṭsthānā; 8–10 Triṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Rik 89.1 complete**; **Rik 89.2** — Saṃhitā done (foot of p. 269). Next: printed p. 270 (PDF 285): Pada and bhāṣya of 89.2. The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; p. 267 tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 270 (PDF 285)
+
+*(Running head: "270 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.2)**
+
+> देवानाम् । भद्रा । सुऽमतिः । ऋजुऽयताम् । देवानाम् । रातिः । अभि । नः । नि । वर्तताम् ।
+> देवानाम् । सख्यम् । उप । सेदिम । वयम् । देवाः । नः । आयुः । प्र । तिरन्तु । जीवसे ॥ २ ॥
+
+*devānām | bhadrā | su-matiḥ | ṛju-yatām | devānām | rātiḥ | abhi | naḥ | ni | vartatām | devānām | sakhyam | upa | sedima | vayam | devāḥ | naḥ | āyuḥ | pra | tirantu | jīvase ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.2)**
+
+> भद्रा सुखयित्री भजनीया वा देवानां सुमतिः शोभना मतिरनुग्रहात्मिका बुद्धिरस्माकमस्त्विति शेषः । कीदृशानां । ऋजूयतामृजु मार्जवयुक्तं सम्यग्गेनुष्ठातारं यजमानमात्मन इच्छतां । तथा देवानां रातिर्दानं नोऽस्माभिमुख्येन नितरां वर्तताम् । तदभिमतफलप्रदानमस्माकं भवत्वित्यर्थः । वयं च तेषां देवानां सख्यं सखित्वं सख्युः कर्म वोपसेदिमु । प्राप्नुवाम । ताद्दृशा देवा नोऽस्माकमायुर्जीवनसे जीवितुं प्र तिरन्तु । वर्धयन्तु ॥ भद्रा । भदि कल्याणे सुखे च । ऋजेन्द्राग्रेत्यादौ । उ. २-२८ [?] । रन्प्रत्ययान्तो निपातितः । व्यत्ययेनान्तोदात्तः । ऋजूयताम् । ऋजुमात्मन इच्छतीति ऋजूयति । सुप आत्मनः क्यच् । तदन्तात्छतृ । शतुरनुम इत्याजादिविभक्तेरुदात्तत्वम् । रातिः । रा दाने । मन्त्रे वृषेषेति क्तिन उदात्तत्वम् । सख्यम् । सख्युर्य इति भावे कर्मणि वा य-प्रत्ययः । सेदिम । षद्ऌ विशरणगत्यवसादनेषु । छन्दसि लुङ्लङ्लिट इति वर्तमाने प्रार्थनायां लिङ् । सत्सस्याञ्जेमित्रकेत्वेन लिट् । परत आदेशादित्याभावादत एकहल्मध्य इत्येत्वाभ्यासलोपौ । अन्येषामपि दृश्यत इति संहितायां दीर्घत्वम् । प्र तिरन्तु । प्रपूर्वस्तिरतिर्वर्धनार्थः । तथा च यास्को व्याचख्यौ । देवानां सख्यमुपसेदिम वयं देवा न आयुः प्रवर्धयन्तु चिरं जीवनाय । नि. १२-४१ [?] इति ॥
+
+*bhadrā sukhayitrī bhajanīyā vā devānāṃ sumatiḥ śobhanā matir anugrahātmikā buddhir asmākam astv iti śeṣaḥ | kīdṛśānām | ṛjūyatām ṛju mārjavayuktaṃ samyag anuṣṭhātāraṃ yajamānam ātmana icchatāṃ | tathā devānāṃ rātir dānaṃ no 'smābhimukhyena nitarāṃ vartatām | tadabhimataphalapradānam asmākaṃ bhavatv ity arthaḥ | vayaṃ ca teṣāṃ devānāṃ sakhyaṃ sakhitvaṃ sakhyuḥ karma vopasedima | prāpnuvāma | tādṛśā devā no 'smākam āyur jīvase jīvituṃ pra tirantu | vardhayantu ‖ bhadrā | bhadi kalyāṇe sukhe ca | ṛjendrāgreti | Uṇ. 2-28 [?] | ran-pratyayānto nipātitaḥ | vyatyayenāntodāttaḥ | ṛjūyatām | ṛjum ātmana icchatīti ṛjūyati | supa ātmanaḥ kyac | tadantāc chatṛ | śatur anuma ity ājādivibhakter udāttatvam | rātiḥ | rā dāne | mantre vṛṣeṣeti ktina udāttatvam | sakhyam | sakhyur ya iti bhāve karmaṇi vā ya-pratyayaḥ | sedima | ṣadḷ viśaraṇagatyavasādaneṣu | chandasi luṅlaṅliṭa iti vartamāne prārthanāyāṃ liṅ [as printed] | … | pra tirantu | prapūrvas tiratir vardhanārthaḥ | tathā ca yāsko vyācakhyau | devānāṃ sakhyam upasedima vayaṃ devā na āyuḥ pravardhayantu ciraṃ jīvanāya | Ni. 12-41 [?] iti ‖*
+
+*(Kannada script; "anuṣṭhātāraṃ", the clause on* sedima *and the Uṇādi number are cramped and read with doubt [?].)*
+
+*Translation:* "May there be for us *bhadrā* — auspicious, giving happiness, or to be resorted to — *devānāṃ sumatiḥ*, the good mind, the gracious thought, of the gods. Of what gods? *Ṛjūyatām* — those who desire the sacrificer who is straight, upright, who performs rightly. And may the *rātiḥ*, the gift, of the gods turn towards us, bestowing the fruit desired. And may we obtain (*upa sedima*) the friendship of those gods — their friendship, or the state of a friend. May such gods lengthen (*pra tirantu*) our life, that we may live. *Grammar tail, noted briefly:* *bhadrā* — *bhadi kalyāṇe sukhe ca* with *ran* (Uṇ. 2-[28] [?]); *ṛjūyatām* — *kyac* after *ṛju* ('wishes for the straight one'), then *śatṛ*; *rātiḥ* — *ktin*; *sakhyam* — *ya* in the abstract; *sedima* — optative sense in the Vedic *liṭ*; *pra tirantu* — *tir* with *pra* in the sense of increasing; Yāska explains (Ni. [12-41] [?]): 'May we obtain the friendship of the gods; may the gods increase our life for a long life.'"
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.2)** *(Kannada; begins here, runs to p. 271)*
+
+*ṛjūyatām* — (the gods) desiring the upright sacrificer; *devānām* — of the gods; *bhadrā* — worshipful; *sumatiḥ* — excellent and gracious mind (let it be favourable to us); *devānām* — of the gods; *rātiḥ* — generous gift; *naḥ* — towards us; *abhi vartatām* — let it turn; *vayam* — we too; *devānām* — of those gods…
+
+---
+
+### Page 271 (PDF 286)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 271.)*
+
+*Pratipadārtha of Rik 89.2, continued from p. 270:*
+
+"…*sakhyam* — friendship; *upa sedima* — may we obtain; *devāḥ* — those gods; *naḥ* — our; *āyuḥ* — life; *jīvase* — that we may live; *pra tirantu* — let them lengthen."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.2** *(Kannada)*
+
+"May the worshipful and excellent mind of the gods, who desire a sacrificer who is upright, be favourable to us. May the generous gift of the gods turn towards us. May we too obtain the friendship of those gods. May those gods cause our life to increase."
+
+**English Translation** *(printed in English in the source)*
+
+"May the auspicious favour of the gods be ours; may the bounty of the gods, ever approving of the upright, light upon us; may we obtain the friendship of the gods and may the gods extend our life that we may live." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.2)**
+
+- **देवानां भद्रा सुमतिः** — "the mind of the gods that desires to do us good; or their favour."
+- **ऋजूयताम्** — *ṛjumārjavayuktaṃ samyag anuṣṭhātāraṃ ātmana icchatām* — "those who desire for themselves one who is upright, that is, those who look for sacrificers who begin the rites of sacrifice that are in the way of rectitude. The meaning: the gods approve the sacrifices and chants that the sacrificers perform."
+- **रातिः** — *rā dāne* — "the favour or the gifts of the gods, such as wealth and the like."
+- **उप सेदिम** — *ṣadḷ viśaraṇagatyavasādaneṣu* — "may we obtain, may we gain."
+- **प्र तिरन्तु** — *prapūrvas tiratir vardhanārthaḥ* — "let them increase our life. Yāska: '*devānāṃ āyuḥ pravardhayitum ciraṃ jīvanāya*' (Ni. [12-41] [?]) — so he says: may the gods increase our life, that we may live for a long time."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.2)** *(grammar page, noted briefly; begins here)*
+
+- **भद्रा** — the root *bhadi kalyāṇe sukhe ca*; by "ऋजेन्द्राग्रवज्र…" (Uṇ. Sū. 2-[28] [?]) *ran* is fixed by *nipātana*; by *vyatyaya* the final acute; in the feminine, by "अजाद्यतष्टाप्" the affix *ṭāp*; for the nominative singular *su*, by "हल्ङ्याब्भ्यो…" the loss.
+
+---
+
+### Page 272 (PDF 287)
+
+*(Running head: "272 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Vyākaraṇa-prakriyā of Rik 89.2, continued (grammar, noted briefly; numerals as read [?]):*
+
+- **ऋजूयताम्** — *ṛjum ātmana icchati* in the sense; by "सुप आत्मनः क्यच्" (Pā. Sū. 3-1-8) the affix *kyac* after the *subanta* *ṛju*; by "अकृत्सार्वधातुकयोर्दीर्घः" (Pā. Sū. 7-4-25) the lengthening of the *a* of *kyac* since a following … (the *y* is the occasion, hence the lengthening of the preceding *aṅga*); by "सनाद्यन्ता धातवः" it gets the designation of a root; in the present sense, the affix *śatṛ*; *śap*; by "अतो गुणे" the *pararūpa*; the word *ṛjūyat*; genitive plural; since it lacks *num*, when the *ajādi* case-ending follows, by "शतुरनुमो नद्यजादी" (Pā. Sū. 6-1-[173]) the case-ending *ām* is acute.
+- **रातिः** — the root *rā dāne*; by "स्त्रियां क्तिन्" the affix *ktin* in the abstract sense; since it would be first-syllable acute, by "मन्त्रे वृषेषपचमनविदभूवीरा उदात्तः" (Pā. Sū. 3-3-[96]) the affix *ktin* is acute.
+- **वर्तताम्** — the root *vṛtu vartane*; *loṭ*, third person singular, the affix *ta*; by "आमेतः" (Pā. Sū. 3-4-[90]) the substitute *ām* for the *e* of the affix, which came by the *ṭit*; the *nighāta* of the *tiṅanta*.
+- **सख्यम्** — *sakhyuḥ bhāvaḥ sakhyam*; by "सख्युर्यः" (Pā. Sū. 4-1-[126]) the affix *ya* in the abstract sense or the sense of action; by "यस्येति च" the loss of the *i*; by the affix-accent the final acute.
+- **सेदिम** — the root *ṣadḷ viśaraṇagatyavasādaneṣu*; by "छन्दसि लुङ्लङ्लिटः" in the sense of prayer, *liṭ*; by "धात्वादेः षः सः" the *s* for the *ṣ*; since *liṭ* is the occasion, the root is reduplicated, and here, since no substitute at the start of the root appears, by "अत एकहल्मध्येऽनादेशादेर्लिटि" (Pā. Sū. 6-4-[120]) the *e* for the *a* of the root and the loss of the reduplicate, the root standing between two single consonants [*s…d*]; for the first-person plural *mas* the augment *iṭ*; by "अन्येषामपि दृश्यते" the lengthening of the final in the Saṃhitā.
+- **प्र तिरन्तु** — the root *tira* [*tṛ*] with the preposition *pra* has the sense of increasing; Yāska explains it in just this way: '*devānāṃ sakhyam upasedima vayaṃ devā na āyuḥ pravardhayantu ciraṃ jīvanāya*' (Ni. [12-41] [?]) — 'may we obtain the friendship of the gods; may the gods increase our life, for living long'; *laṭ* [as printed, in the sense of *loṭ*], third person plural; since it follows an *atiṅanta*, the *nighāta* accent.
+- **जीवसे** — in the sense of *tumun*, by "तुमर्थे सेसेनसे…" the affix *ase*.
+
+Closing of Rik 89.2: "॥ २ ॥" (2).
+
+---
+
+**Progress note:** Printed pp. 1–272 done (PDF 16–287) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.2 complete**; next: **Rik 89.3** at printed p. 273 (PDF 288). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages (incl. 270–272); Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; p. 267 and p. 270 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
