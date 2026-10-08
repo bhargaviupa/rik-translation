@@ -4625,4 +4625,80 @@ Closing of Rik 85.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–167 done (PDF 16–182) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.5 complete**; **Rik 85.6** — Saṃhitā, Pada, application note, bhāṣya and grammatical tail done, Pratipadārtha begun at the foot of p. 167 (continues on p. 168). Next: printed p. 168 (PDF 183). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 168 (PDF 183)
+
+*(Running head: "168 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Pratipadārtha of Rik 85.6, continued from p. 167 (Kannada):*
+
+"…(O Maruts) filling (with the wealth to be bestowed on us) *pra jigāta* — come at once; *marutaḥ* — O Maruts; *vaḥ* — for you; *sadaḥ* — the seat in the form of the altar-platform (*vedi*); *uru* — spaciously; *kṛtam* — has been made (made ready); *barhiḥ* — on the sacred grass; *ā sīdata* — sit; *madhvaḥ* — of the sweet; *andhasaḥ* — of food (in the form of Soma-juice) by drinking; *mādayadhvam* — be satisfied."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.6** *(Kannada)*
+
+"O Maruts, may your horses, easily and swiftly going, bring you to our sacrificial ground. Come at once, with your hands filled with the wealth to be bestowed on us. A seat in the form of the altar has been made spacious for you. Come and sit on the sacred grass and be satisfied with the sweet drinking of the Soma-juice."
+
+**English Translation** *(printed in English in the source)*
+
+"Let your swift-going horses bear you hither; and moving swiftly come with your hands (filled with good things); sit, Maruts upon the broad seat made of clipped sacred grass and be delighted with the sweet sacrificial food." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.6)**
+
+"At the third pressing, the priest called Potṛ is to use this Ṛk *ā vo vahantu* as a *yājyā* mantra; this is set forth in the Āśvalāyana Śrauta-sūtra in the sūtra '*ā vo vahantu saptayo raghuṣyado 'meva naḥ suhavā ā hi gantana*' (Āś. [5-5] [?])."
+
+- **सप्तयः** — *sarpaṇaśīlā aśvāḥ* — "swiftly moving horses. Here it should be understood as the spotted does (*pṛṣatīḥ*), the vehicles of the Marut deities."
+- **रघुस्यदः** — "*raghu* means *laghu*, light; by the interchange of letters, *r* is used for *l*. *Laghu śīghraṃ syandamānāḥ vegena gacchanta ity arthaḥ* — 'quickly flowing'; that is, going with speed."
+- **रघुपत्वानः** — "the meaning of this word is the same as of *raghuṣyadaḥ*, but this word refers to the Marut deities: *laghu śīghraṃ patanto gacchanto yūyam* — 'you, the Marut deities who move swiftly'."
+- **जिगात** — *gā stutau | jauhotyādikaḥ | jigātīti gatikarmasu pāṭhād atra gatyarthaḥ* — "'come' or 'go'."
+
+---
+
+### Page 169 (PDF 184)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 169.)*
+
+*Special Topics of Rik 85.6, continued from p. 168:*
+
+- **उरु** — "spacious, large."
+- **मध्वः** — "sweet, pleasing to the taste."
+- **अन्धसः** — *somalakṣaṇasyānnasya* — "of the food in the form of Soma; the food of the nature of Soma-drinking: that is, of the drink that is of the nature of Soma-juice, or of the food that is marked by *havis*." *(the second alternative is printed in a clotted line and is read with doubt [?])*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.6)** *(grammar page, noted briefly; every sūtra read is in three layers, the numerals as read [?])*
+
+- **वहन्तु** — the root *vaha prāpaṇe*; *loṭ*, third person plural; by "एरुः" (*er uḥ*) the substitute *u* for the *i* of the ending: *antu*; the *nighāta* of the *tiṅanta*.
+- **रघुस्यदः** — *raghu syandante iti raghuṣyadaḥ*; the root *syandū prasravaṇe*; by "क्विप् च" (*kvip ca*, Pā. Sū. 3-2-[76] [?]) the affix *kvip*; since it is *kit*, by "अनिदितां हल उपधायाः क्ङिति" the loss of the nasal; since *raghu* belongs to the *kāsilakādi* [?] group, optionally *l* for *r*; the word *raghuṣyad*; by "गतिकारकोपपदात् कृत्" the *kṛdutarapada* keeps its base accent; nominative plural.
+- **रघुपत्वानः** — *raghu patantaḥ raghupatvānaḥ*; the root *paṭlṛ gatau*; by "अन्येभ्योऽपि दृश्यन्ते" (Pā. Sū. 3-2-[75] [?]) the affix *vanip*; the word *raghupatvan*; since *vanip* is *pit*, the root accent remains; in the compound, as before, the *kṛdutarapada*'s base accent; *jas* following, by "सर्वनामस्थाने चासम्बुद्धौ" the lengthening of the penultimate.
+- **जिगात** — the root *gā stutau*; Juhotyādi; *jigāti* (Ni. [2-?-?] [?]) is read among the roots of motion, hence here it comes in the sense of going; for the second person plural of *loṭ*, by "तप्तनप्तनथनाश्च" (*taptanaptanthanāś ca*, Pā. Sū. 7-1-[45] [?]) the substitute *ta*; since it is *pit* there is no *ṅit*-ness and so no changes like *ī*; when *ślu* is present, the duplications etc. come; by "ई हल्यघोः" (*ī halyaghoḥ*, Pā. Sū. 6-4-[113] [?]) the *ī* for the *ā* is *not* made, and by "बहुलं छन्दसि" (Pā. Sū. 7-4-[78] [?]) the *i* in the reduplicate comes; the *nighāta* of the *tiṅanta*.
+- **सीदत** — the root *ṣadḷ viśaraṇagatyavasādaneṣu*; *loṭ*, second person plural; since *laṅ*/*luṅ*-like *ṅit*-ness is present, by "तस्थस्थमिपां तान्तन्तामः" (*tasthasthamipāṃ tāntantāmaḥ*, Pā. Sū. 3-4-101) the substitute *ta*; by "पाघ्राध्मा…" (*pāghrādhmā…*, Pā. Sū. 7-3-78) the substitute *sīda* for the root; since it stands at the beginning of a *pāda*, no *nighāta*; the affix is unaccented by "तास्यनुदात्तेत्", so the root-accent remains.
+- **सदः** — *sadaḥ + kṛtam*, the root *ḍukṛñ* following; by "अतः कृकमिकंसकुम्भपात्रकुशाकर्णीष्वनव्ययस्य" (*ataḥ kṛkamikaṃsa…*, Pā. Sū. 8-3-46) the *visarga* is replaced by *s* (*satva*). *(The sūtra number is read as given, with a numeral in doubt [?].)*
+
+---
+
+### Page 170 (PDF 185)
+
+*(Running head: "170 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.6, concluded from p. 169 (grammar, noted briefly):*
+
+- **मादयध्वम्** — the root *mada tṛptiyoge*, Curādi, *ātmanepada*; by "सत्यापपाश…" (*satyāpapāśa…*, Pā. Sū. 3-1-25) the affix *ṇic* in its own sense; by "अत उपधायाः" (*ata upadhāyāḥ*) *vṛddhi* (lengthening) for the penultimate of the root; *loṭ*, second person plural, the affix *dhvam*; *śap* as *vikaraṇa*; on its account *guṇa* of the *ṇic*, and *ay*-substitution; since the verb stands at the beginning of a *pāda*, no *nighāta*; by the accent of *ṇic*, the *ā* after *d* is acute.
+
+Closing of Rik 85.6: "॥ ६ ॥" (6), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.7)** *(Jagatī; Maruts; accents not reproduced)*
+
+> ते ऽवर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः ।
+> विष्णुर्यद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥ ७ ॥
+
+*te 'vardhanta svatavaso mahitvanā nākaṃ tasthur uru cakrire sadaḥ | viṣṇur yad dhāvad vṛṣaṇaṃ madacyutaṃ vayo na sīdann adhi barhiṣi priye ‖ 7 ‖*
+
+*Gloss, mine and tentative:* "Those of self-won strength grew by their greatness; they stood in the vault of heaven; they made their seat wide — when Viṣṇu hastened to the bull, the drop that falls in intoxication, [and] sat like a bird on the dear sacred grass."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.7)**
+
+> ते । अवर्धन्त । स्वऽतवसः । महित्वना । आ । नाकम् । तस्थुः । उरु । चक्रिरे । सदः ।
+> विष्णुः । यत् । ह । आवत् । वृषणम् । मदऽच्युतम् । वयः । न । सीदन् । अधि । बर्हिषि । प्रिये ॥ ७ ॥
+
+*te | avardhanta | sva-tavasaḥ | mahitvanā | ā | nākam | tasthuḥ | uru | cakrire | sadaḥ | viṣṇuḥ | yat | ha | āvat | vṛṣaṇam | mada-cyutam | vayaḥ | na | sīdan | adhi | barhiṣi | priye ‖ 7 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–170 done (PDF 16–185) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.6 complete**; **Rik 85.7** — Saṃhitā and Pada done (foot of p. 170); next: its application note (if any), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar. Next: printed p. 171 (PDF 186). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
