@@ -6174,4 +6174,68 @@ Closing of Rik 86.10: "॥ १० ॥" (10). *(The print has no separate closing
 
 ---
 
-**Progress note:** Printed pp. 1–218 done (PDF 16–233) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–86 complete** (86: ten Ṛks, ended at the head of p. 216, no closing line). **Sūkta 87** (six Ṛks, Jagatī; Maruts — the print's heading line says "Indra", evidently a misprint; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, third sūkta; begins p. 216; the contents table gives p. 215): heading, introduction, Anuvāda done; **Rik 87.1** done through the Pratipadārtha and Bhāvārtha (p. 218); next: its English, Special Topics and grammar (p. 219), then 87.2–87.6. Next: printed p. 219 (PDF 234). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 219 (PDF 234)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 219.)*
+
+**English Translation** *(printed in English in the source; Rik 87.1)*
+
+"Annihilators of adversaries, endowed with great strength, loud-shouting unbending, unseperable [sic] partakers of the evening oblations, constantly worshipped and leaders of the clouds, the Maruts, by their personal decorations are conspicuous in the sky like some rays of the Sun." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.1)**
+
+"Although the word *marutaḥ* is not in this Ṛk, the eight words *pratvakṣasaḥ, pratavasaḥ, virapśinaḥ, anānatāḥ, avithurāḥ, ṛjīṣiṇaḥ, juṣṭatamāsaḥ, nṛtamāsaḥ* are adjectives that state the qualities of the Marut deities."
+
+- **प्रत्वक्षसः** — *takṣū tvakṣū tanūkaraṇe | prakarṣeṇa tvakṣante tanūkurvantīti pratvakṣasaḥ | śatrūṇāṃ prakarṣeṇa tanūkartāraḥ* — "destroyers of enemies."
+- **प्रतवसः** — "*tavas* means strength (Ni. [2-9] [?]); *prakṛṣṭaṃ tavo yeṣām* — those of great or of excellent strength."
+- **विरप्शिनः** — *rapa lapa jalpa vyaktāyāṃ vāci | virapaṇaṃ virapśaḥ | tadvanto virapśinaḥ vividhena jayaghoṣeṇopetāḥ* — "those furnished with various shouts of victory. Or, since *virapśin* is a name of the great (Ni. [3-3] [?]), *virapśinaḥ* means the mighty ones, the excellent."
+- **अनानताः** — *ānatā avanatāḥ prahvībhūtāḥ | na ānatā anānatāḥ | anatirahitāḥ | sarvotkṛṣṭā ity arthaḥ* — "*ānata* or *avanata* means those who bow in salutation; *anānata* means 'those who bow to no one', that is, the supreme."
+- **अविथुराः** — *vyatha bhayacalanayoḥ | aviyuktāḥ* — "those who are not separate: these Maruts have joined together, are united in the form of a company of seven. The meaning 'fearless' may also be given to this word."
+- **ऋजीषिणः** — *ṛjīṣasyābhiṣavaṇāt tatra ca marutaḥ stūyanta iti teṣām ṛjīṣitvam | yadvā ṛjīṣiṇaḥ prārjayitāro rasānām* — "since *ṛjīṣa* is pressed at the third pressing and the Maruts are praised there, they are *ṛjīṣiṇaḥ*; or 'those who bring forth the juices'. Yāska explains this word:
+
+> ऋजीषी सोमो यत् सोमस्य पूयमानस्यातिरिच्यते तदृजीषमपार्जितं भवति तेनर्जीषी सोमः ॥
+
+*ṛjīṣī somo yat somasya pūyamānasyātiricyate tad ṛjīṣam apārjitaṃ bhavati tenarjīṣī somaḥ ‖* (Ni. [?] [?]) — *Gloss, mine and tentative:* "*Ṛjīṣī* is Soma: what remains over of Soma that is being purified is *ṛjīṣa*, the residue that is strained off; hence Soma is *ṛjīṣī*." *(Continues on p. 220.)*
+
+---
+
+### Page 220 (PDF 235)
+
+*(Running head: "220 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Special Topics of Rik 87.1, continued from p. 219:*
+
+"…thus he gave the explanation. *Ṛjīṣī* means Soma: since, having separated the dregs and the like that remain in the leather bag after the pressing of Soma, only the sap that is the essence is taken specially, Soma is called *ṛjīṣī*. Here, as the bhāṣyakāra says, the word *ṛjīṣiṇaḥ* means the Marut deities who drink Soma at the third pressing."
+
+- **जुष्टतमासः** — *juṣī prītisevanayoḥ | atiśayena yaṣṭṛbhiḥ sevitāḥ* — "served in the highest degree by the sacrificers who perform sacrifices; or, objects of affection to the sacrificers."
+- **नृतमासः** — *atiśayena meghāder netāraḥ* — "those who are in the highest degree the cause of the movements of cloud and the like, leaders, chiefs: that is, the clouds move as the wind blows."
+- **अञ्जिभिः** — *añjū vyaktimrakṣaṇakāntigatiṣu | rūpābhivyañjakair ābharaṇaiḥ* — "with materials of beauty, collyrium and the like, that increase the lustre of the body; with ornaments."
+- **स्तृभिः** — *stṛñ ācchādane* — "covering, concealing the body. This word is an adjective of *añjibhiḥ*. Skandasvāmin explains this word as 'stars' (*nakṣatras*): as stars shine in the sky, so these Marut deities shine adorned with ornaments and the like — that is the intention."
+- **आनज्रे** — *nabhasi vyaktā dṛśyante* — "they shine well in the atmosphere."
+- **उस्रा इव** — "like rays of the sun; as the rays of the sun are clearly visible in the atmosphere, so are these Maruts seen clearly: so the intention."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **प्रत्वक्षसः** — *prakarṣeṇa tvakṣante tanūkurvanti iti pratvakṣasaḥ*; the root *takṣū tvakṣū tanūkaraṇe*; by "गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च" (Uṇ. Sū. 4-[222] [?]) the affix *asun*; by its connexion the first member keeps its base accent; here the first member is a *gati*; nominative plural.
+- **प्रतवसः** — *tavas* is a name for strength; *prakṛṣṭaṃ tavo yeṣāṃ te pratavasaḥ*; in the *bahuvrīhi*, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member's base accent.
+- **विरप्शिनः** — the root *rapa lapa vyaktāyāṃ vāci*; *virapaṇaṃ virapśaḥ*; by "णादिकाः शक्" the affix *śak* [as read]; *virapśo yeṣām asti iti virapśinaḥ*; in the sense of *matup*, by "अत इनिठनौ" the affix *ini*; by the affix-accent the *i* of *ini* is acute.
+
+---
+
+### Page 221 (PDF 236)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 221.)*
+
+*Vyākaraṇa-prakriyā of Rik 87.1, continued from p. 220 (grammar, noted briefly):*
+
+- **अनानताः** — *anatāḥ avanatāḥ prahvībhūtāḥ*; when preceded by the preposition *āṅ*, the root *ṇam* with the affix *kta*; by "अनुदात्तोपदेश…" the loss of the nasal; *na anatāḥ anānatāḥ* — a *tatpuruṣa* in the sense of non-equality [as read: *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2-[2]) ] by which the first member, an indeclinable, keeps its base accent.
+- **अविथुराः** — the root *vyatha bhayasaṃcalanayoḥ*; by "व्यथेः सम्प्रसारणं थः किच्च" (Uṇ. Sū. 1-[40] [?]) the affix *urac*; *th* for the *dh* [as read]; here, because of the word *bahula* in the Uṇādi, *vṛddhi* is not made; *saṃprasāraṇa* of *y* to *i*; by "सम्प्रसारणाच्च" the earlier form; the word *vithura*; *na vithurāḥ* — as before, the first member (an indeclinable) keeps its accent.
+- **जुष्टतमासः** — the root *juṣī prītisevanayoḥ*; the affix *kta*; by "नित्यं मन्त्रे" (Pā. Sū. 6-1-[210]) the word is acute on its first syllable; *atiśayena juṣṭaḥ juṣṭatamaḥ*; by "अतिशायने तमबिष्ठनौ" the affix *tamap*; since it is *pit* it is unaccented, so the earlier accent remains; the nominative plural, with *jas* following, by "आज्जसेरसुक्" the augment *asuk*; likewise in *nṛtamāsaḥ*.
+- **आनज्रे** — the root *añjū vyaktimrakṣaṇakāntigatiṣu*; in the present sense by "छन्दसि लुङ्लङ्लिटः" *liṭ*; third person plural, by "लिटस्तझयोरेशिरेच्" the substitute *irec*; by "लिङ् निमित्त" the root is reduplicated; the reduplicate's *hal*-initial remains; by "अत आदेः" (Pā. Sū. 7-4-[70]) lengthening; then, by "तस्मान्नुड् द्विहलः" (Pā. Sū. 7-4-[71]) the augment *nuṭ* to the two-consonant root after the lengthened vowel made before; by *vyatyaya* the loss of the nasal *n* of the root's penultimate; by "इरयोरे" (Pā. Sū. 6-4-[76]) the substitute *re* for the affix; the form *ānajre*; since it follows an *atiṅanta*, the *nighāta* accent.
+- **स्तृभिः** — the root *stṛñ ācchādane*; by "क्विप् च" the affix *kvip*; although the augment *tuk* is possible after a short vowel, by the statement "आगमशास्त्रमनित्यम्" (the rule of augments is not invariable) the *tuk* does not come here.
+
+Closing of Rik 87.1: "॥ १ ॥" (1), followed by a printer's ornament.
+
+---
+
+**Progress note:** Printed pp. 1–221 done (PDF 16–236) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the **Pīṭhike (folios i–vi, PDF 7–11) is now translated and sits before the Sixth Adhyāya** (its folio iii is missing in the source). **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts — the print's heading line says "Indra", evidently a misprint; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, third sūkta; printed pp. 216–240): **Rik 87.1 complete**; next: Rik 87.2 at printed p. 222 (PDF 237), then 87.3–87.6. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
