@@ -7796,4 +7796,79 @@ Closing of Rik 89.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–281 done (PDF 16–296) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.4 complete**; **Rik 89.5** — Saṃhitā and Pada done (foot of p. 281); next: its bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 282 on), then 89.6–89.10. Next: printed p. 282 (PDF 297). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273–274 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 282 (PDF 297)
+
+*(Running head: "282 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.5)** *(Kannada script; dense; the grammatical tail is compressed and read in part [?])*
+
+> पूर्वार्धेनेन्द्रः स्तूयते । आपरार्धेन पूषा । ईशानमैश्वर्यवन्तं आत एव जगतो जङ्गमस्य प्राणिजातस्य तस्थुषः स्थावरस्य च पतिं स्वामिनं धियंजिन्वं धीर्भिः कर्मभिः प्रीणयितव्यं एवंभूतं तमिन्द्रमवसे रक्षणाय वयं हूमहे । आह्वयामः । पूषा नोऽस्माकं वेदसां धनानां वृधे वर्धनाय रक्षिता यथासत् येन प्रकारेण भवति तेनैव प्रकारेणादब्धः केनाप्यहिंसितः पूषा स्वस्तये ऽस्माकमविनाशाय पायुः रक्षिता भवतु ॥ तस्थुषः । तिष्ठतेर्लिटः क्वसुः । षष्ठ्येकवचने वसोः सम्प्रसारणमिति सम्प्रसारणं । शासिवसिघसीनां चेति षत्वं । षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य सत्वं । धियंजिन्वं । जिवि प्रीणनार्थः । कृत्यल्युटो बहुलमिति बहुलवचनात्खच् । इदित्वान्नुम् ... प्रत्ययः ... ङसः । ईशानः  ... हृदयं... [clotted]
+
+*pūrvārdhenendraḥ stūyate | āparārdhena pūṣā | īśānam aiśvaryavantaṃ ata eva jagato jaṅgamasya prāṇijātasya tasthuṣaḥ sthāvarasya ca patiṃ svāminaṃ dhiyaṃjinvaṃ dhīrbhiḥ karmabhiḥ prīṇayitavyaṃ evaṃbhūtaṃ tam indram avase rakṣaṇāya vayaṃ hūmahe | āhvayāmaḥ | pūṣā no 'smākaṃ vedasāṃ dhanānāṃ vṛdhe vardhanāya rakṣitā yathāsat yena prakāreṇa bhavati tenaiva prakāreṇādabdhaḥ kenāpy ahiṃsitaḥ pūṣā svastaye 'smākam avināśāya pāyuḥ rakṣitā bhavatu ‖ tasthuṣaḥ | tiṣṭhater liṭaḥ kvasuḥ | ṣaṣṭhyekavacane vasoḥ saṃprasāraṇam iti saṃprasāraṇaṃ | śāsivasighasīnāṃ ceti ṣatvaṃ | ṣaṣṭhyāḥ patiputreti visarjanīyasya satvaṃ | dhiyaṃjinvaṃ | jivi prīṇanārthaḥ | kṛtyalyuṭo bahulam iti bahulavacanāt khac | iditvān num … pratyayaḥ … [the rest of the tail, on* īśānaḥ*, *vedasām*, *asat*, *pāyuḥ*, *svastaye*, is compressed and omitted here; the Kannada prakriyā on pp. 283–284 treats the same words] ‖*
+
+*Translation:* "In the first half Indra is praised; in the latter half, Pūṣan. *Īśānam* — the lord, hence, of *jagataḥ* — the moving world, the class of living beings — and of *tasthuṣaḥ* — the stationary, *patim*, master; *dhiyaṃjinvam* — one to be satisfied with *dhīs*, deeds: such an Indra we invoke (*hūmahe*, call) for help, protection. And may Pūṣan, in whatever way he may become our protector for the increase of our *vedasām* — wealths — in just that way be *adabdhaḥ* — unharmed by anyone — and for our welfare, our non-destruction, be our guardian (*pāyuḥ*)."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.5)** *(Kannada)*
+
+*īśānam* — the lord (and so) of those moving…; *jagataḥ* — of beings that move; *tasthuṣaḥ* — of the stationary, mountains and the like; *patim* — the master; *dhiyaṃjinvam* — one to be pleased with good deeds; *tam* — that Indra; *avase* — for protection; *vayam* — we; *hūmahe* — call in prayer; *pūṣā* — the deity Pūṣan; *naḥ* — our; *vedasām* — of riches; *vṛdhe* — for increase; *rakṣitā* — as protector; *yathā asat* — in whatever way he is; *adabdhaḥ* — unharmed by anyone; *svastaye* — for our welfare; *pāyuḥ* — may he be our protector.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.5** *(Kannada)*
+
+"We call in prayer, for protection, Indra, who is lord of all beings that move and do not move, who is possessed of lordship, and who is to be pleased with excellent deeds. And may the deity Pūṣan, in whatever way he is our protector for the increase of our riches, in the same way, unharmed by anyone, be our protector for our welfare."
+
+**English Translation** *(printed in English in the source; runs to p. 283)*
+
+"We invoke that lord of living beings, that protector of things immovable, Indra, who is to be propitiated by pious rites for our protection; as Pushan has ever been our defender for the increase of our riches, [so he] may continue to be the unmolested guardian of our welfare." — as printed ("as Pushan…" at the head of p. 283).
+
+---
+
+### Page 283 (PDF 298)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 283.)*
+
+*(English Translation of Rik 89.5, concluded: "…as Pushan has ever been our defender for the increase of our riches, so he may continue to be the unmolested guardian of our welfare.")*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.5)**
+
+"In the first half of this Ṛk Indra is praised, in the latter half Pūṣan."
+
+- **जगतः तस्थुषः पतिम्** — *jagato jaṅgamasya prāṇijātasya | tasthuṣaḥ sthāvarasya* — "lord of the class of living beings that move, and of the stationary trees, mountains and the like."
+- **ईशानम्** — *īśa aiśvarye* — "Indra, who has lordship."
+- **वेदसाम्** — "among the twenty-eight names of wealth — *maghaṃ, reknaḥ* and the rest — the word *vedas* is read; so *vedasām* means 'of riches' (Ni. [2-10] [?])."
+- **धियंजिन्वम्** — "*dhī* is a word for 'work'; *jivi prīṇanārthaḥ* — to be pleased with works; fit to be satisfied with sacrificial works and the like."
+- **पायुः** — *pā rakṣaṇe | rakṣitā* — "protector, guardian."
+- **स्वस्तये** — *avināśāya* — "for non-destruction, for welfare, for the bringing of what is good or auspicious, *for our welfare* (English, as printed)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **तस्थुषः** — the root *ṣṭhā gatinivṛttau*; *liṭ* follows, and by "क्वसुश्च" the affix *kvasu* for it; the root is reduplicated; by "शर्पूर्वाः खयः" in the reduplicate the *th* is kept; by "अभ्यासे चर्च" the substitute *t* for *th*; by "आर्धधातुकस्येड्वलादेः" the augment *iṭ* for the affix beginning with *v*; by "आतो लोप इटि च" the loss of the *ā* of the root; the word *tasthivas*; with *ṅas* following, by "वसोः सम्प्रसारणम्" (Pā. Sū. 6-4-[131]) the *saṃprasāraṇa* of the *v*; by "सम्प्रसारणाच्च" the earlier form; by "आङ्गं…" [as read: *ālṅtavyūhāḥ*] since the *iṭ* has been lost with the *saṃprasāraṇa*, the *iṭ*-augment does not come; by "शासिवसिघसीनां च" (Pā. Sū. 8-3-[60]) the *ṣatva* for the *s* of *vas*; *tasthuṣ + as*, by "षष्ठ्याः पतिपुत्र…" (Pā. Sū. 8-3-[53]) since *pati* follows, the *s* for the visarga [*tasthuṣaḥ patim*, with the visarga turned to *s*].
+- **धियंजिन्वम्** — the root *jivi prīṇanārthaḥ*; by "कृत्यल्युटो बहुलम्" (Pā. Sū. 3-3-[113]) since *bahula* is stated, the affix *khac*; by "इदितो नुम् धातोः" … *(continues on p. 284)*
+
+---
+
+### Page 284 (PDF 299)
+
+*(Running head: "284 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Vyākaraṇa-prakriyā of Rik 89.5, concluded from p. 283 (grammar, noted briefly):*
+
+- **धियंजिन्वम्** (cont.) — "…the augment *num* for the root; by "इच एकाचोऽम्प्रत्ययवच्च" (Pā. Sū. 6-3-[68]) the augment *am* for the first member ending in *ik* that is a monosyllable, before a *khit*-affix word; it comes like the *ām* of a case-ending; by "विभक्तिभाव…" the *am* for the word *dhī*; by "अचि श्नुधातुभ्रुवां…" the substitute *iy* for the *ī*; the word *dhiyaṃjinva* has the final acute by "चितः"."
+- **अवसे** — the root *ava rakṣaṇe*; the affix *asun*; since it is *nit*, the first syllable is acute; dative singular.
+- **हूमहे** — as explained under the third Ṛk.
+- **असत्** — the root *as bhuvi*; *leṭ*, third person singular, the affix *tip*; by "इतश्च लोपः परस्मैपदेषु" the loss of its *i*; by "लेटोऽडाटौ" the augment *aṭ*; by "बहुलं छन्दसि" the *luk* of *śap* does not come; so the *a* of *śap* is not elided; since "निपातैर्यद्यदि…" (Pā. Sū. 8-1-[30]) *yathā* is in connexion, the *nighāta* is prevented, so the root's accent remains.
+- **वृधे** — the root *vṛdhu vṛddhau*; the affix *kvip*; the word *vṛdh*; dative singular.
+- **पायुः** — the root *pā rakṣaṇe*; by "कृवापाजिमिस्वदिसाध्यशूभ्य उण्" (Uṇ. Sū. 1-[1]) the affix *uṇ*; by "आतो युक् चिण्कृतोः" (Pā. Sū. 7-3-[33]) the augment *yuk* after the *ā*; by the affix-accent the final acute.
+- **स्वस्तये** — the root *as bhuvi*; since *su* precedes, to it in the abstract sense the affix *ktin*; although the root, since the affix is *ārdhadhātuka*, ought to take *bhū* by "अस्तेर्भूः" (Pā. Sū. 2-4-[52]), since by "छन्दस्युभयथा" the affix has *sārvadhātuka* status too, the *bhū* substitution does not come; the author of the *Vṛtti* gives this very solution.
+
+Closing of Rik 89.5: "॥ ५ ॥" (5), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.6)** *(Virāṭsthānā; Viśvedevas; accents not reproduced; the verse begins at the foot of p. 284 and runs on p. 285)*
+
+> स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+> …
+
+*svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ | …* *(the remaining lines of this Ṛk are on p. 285)*
+
+---
+
+**Progress note:** Printed pp. 1–284 done (PDF 16–299) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.5 complete**; **Rik 89.6** (Virāṭsthānā) — first line of the Saṃhitā done at the foot of p. 284; the rest of it on p. 285, then 89.6's remaining parts and 89.7–89.10. Next: printed p. 285 (PDF 300). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
