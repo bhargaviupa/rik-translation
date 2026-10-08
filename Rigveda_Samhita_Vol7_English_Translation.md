@@ -8760,4 +8760,97 @@ Closing of Rik 90.4: "॥ ४ ॥" (4). *(A separator "— :o: —" follows in t
 
 ---
 
-**Progress note:** Printed pp. 1–314 done (PDF 16–329) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.4 complete**; **Rik 90.5** done through its English, Special Topics and the first two entries of its grammar page (*goagrāḥ*, *evayāvaḥ*, p. 314); the grammar page's remaining entries (*karta*, *svastimataḥ*, etc.), if any, follow on p. 315, then 90.6–90.9. Next: printed p. 315 (PDF 330). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311 and 313 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 315 (PDF 330)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 315.)*
+
+*Vyākaraṇa-prakriyā of Rik 90.5, concluded from p. 314:*
+
+- **कर्ता** — [as printed, the Pada's *karta*; the grammar treats the Saṃhitā form *kartā*] the root *ḍukṛñ karaṇe*; in the agent sense the affix *tṛn*; because of it the *guṇa* of the root; since *tṛn* is *nit*, the first syllable is acute; nominative singular. *(The page's grammar note, as printed, treats this single word and then closes the Ṛk.)*
+
+Closing of Rik 90.5: "॥ ५ ॥" (5).
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.6)** *(Gāyatrī; accents not reproduced)*
+
+> मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः ।
+> माध्वीर्नः सन्त्वोषधीः ॥ ६ ॥
+
+*madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ | mādhvīr naḥ santv oṣadhīḥ ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "Sweet the winds blow for the one who follows the Law; sweet the rivers pour; may the plants be sweet to us."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.6)**
+
+> मधु । वाताः । ऋतऽयते । मधु । क्षरन्ति । सिन्धवः ।
+> माध्वीः । नः । सन्तु । ओषधीः ॥ ६ ॥
+
+*madhu | vātāḥ | ṛta-yate | madhu | kṣaranti | sindhavaḥ | mādhvīḥ | naḥ | santu | oṣadhīḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.6)**
+
+> ऋत्विगाद्यर्थमाहुतं मधुपर्कं मधु वाता इति तृचेन ऋत्विगादिः प्रतिगृहीत्वाऽवेक्षेत । तथा च सूत्र्यते । मधु वाता ऋतायत इति तृचेनावेक्ष्य । आ. गृ. १-२४-१४ [?] । इति ॥
+
+*ṛtvigādyarthām āhutaṃ madhuparkaṃ madhu vātā iti tṛcena ṛtvigādiḥ pratigṛhītvāvekṣeta | tathā ca sūtryate | madhu vātā ṛtāyata iti tṛcenāvekṣya | Ā. Gṛ. 1-24-14 [?] | iti ‖*
+
+*(application note: the Āśvalāyana Gṛhya numeral is read with doubt [?].)*
+
+*Translation:* "The priest and the others, having received the *madhuparka* brought for the priest and others, are to look at it with the *tṛca* [triplet] beginning *madhu vātā*; it is so prescribed: 'looking at it with the *tṛca* *madhu vātā ṛtāyate*' (Āś. Gṛ. [1-24-14] [?])."
+
+> ऋतायते ऋतं यज्ञमात्मन इच्छते यजमानाय वाता वायवो मधु माधुर्योपेतं कर्म फलं क्षरन्ति । वर्षन्ति । प्रयच्छन्तीत्यर्थः । तथा सिन्धवः स्यन्दनशीला नद्यः समुद्रा वा मधु माधुर्योपेतं स्वकीयं रसं क्षरन्ति । एवं नोऽस्मभ्यमोषधीः फलपाकान्ता ओषधयस्सस्याश्च माध्वीर्माधुर्योपेताः सन्तु । भवन्तु ॥ मधु । अस्मादुत्तरस्य मत्वर्थीयस्य लुगकारेकारेरेफाश्च वक्तव्याः । पा. ४-४-१२१-३ [?] । इति लुक् । ऋतायते । ऋतमात्मन इच्छतीति । सुप आत्मनः क्यच् । न च्छन्दस्यपुत्रस्येत्वदीर्घयोर्निषेधः । अन्येषामपि संहितायां दीर्घत्वं । क्यजन्ताल्लटः शतृ । शतुरनुम इति विभक्तेरुदात्तत्वं । माध्वीः । मधोरञ् च । पा. ४-४-१२१ [?] । इति मत्वर्थीयो ऽञ्प्रत्ययः । ऋत्यकः । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । ओषधीः । ओषः पाके असु धीयेत इत्योषधयः । कर्मण्यधिकरणे चेति किप्रत्ययः । कृदिकारादक्तिन इति ङीप् । जसि पूर्ववत्पूर्वसवर्णदीर्घः । दासीभारादिषु पठितत्वात्पूर्वपदप्रकृतिस्वरत्वं । तच्चेङ्घान्तमाद्युदात्तं ॥
+
+*ṛtāyate ṛtaṃ yajñam ātmana icchate yajamānāya vātā vāyavo madhu mādhuryopetaṃ karma phalaṃ kṣaranti | varṣanti | prayacchantīty arthaḥ | tathā sindhavaḥ syandanaśīlā nadyaḥ samudrā vā madhu mādhuryopetaṃ svakīyaṃ rasaṃ kṣaranti | evaṃ no 'smabhyam oṣadhīḥ phalapākāntā oṣadhayas sasyāś ca mādhvīr mādhuryopetāḥ santu | bhavantu ‖ madhu | asmād uttarasya matvarthīyasya lugakārekārerephāś ca vaktavyāḥ | Pā. 4-4-121-3 [?] | iti luk | ṛtāyate | ṛtam ātmana icchatīti | supa ātmanaḥ kyac | na chandasy aputrasyetvadīrghayor niṣedhaḥ | anyeṣām api saṃhitāyāṃ dīrghatvaṃ | kyajantāl laṭaḥ śatṛ | śatur anuma iti vibhakter udāttatvaṃ | mādhvīḥ | madhor añ ca | Pā. 4-4-121 [?] | iti matvarthīyo 'ñ-pratyayaḥ | ṛty akaḥ | vā chandasīti pūrvasavarṇadīrghatvaṃ | oṣadhīḥ | oṣaḥ pāke asu dhīyeta ity oṣadhayaḥ | karmaṇy adhikaraṇe ceti ki-pratyayaḥ | kṛdikārād aktina iti ṅīp | jasi pūrvavat pūrvasavarṇadīrghaḥ | dāsībhārādiṣu paṭhitatvāt pūrvapadaprakṛtisvaratvaṃ | tac ceṅghāntam ādyudāttaṃ ‖*
+
+*(Kannada script; the Pāṇini numerals and the clause "ṛty akaḥ" are read with doubt [?].)*
+
+*Translation:* "*Ṛtāyate* — for the sacrificer who desires *ṛta*, the rite, for himself: *vātāḥ* — the winds *madhu* — sweet, with a fruit endowed with sweetness — *kṣaranti* — pour, rain down; that is, give. Likewise *sindhavaḥ* — the flowing rivers, or oceans — pour their own *madhu*, sweet juice. Likewise, *oṣadhīḥ* — plants whose end is the ripening of the fruit, and crops — *mādhvīḥ* — endowed with sweetness — *santu* — may they be to us. *Grammar tail, noted briefly:* *madhu* — loss of the *matup* after it by the statement cited (Pā. 4-4-[121] [?]); *ṛtāyate* — *kyac* from *ṛta*; *mādhvīḥ* — *añ* after *madhu* in the sense 'having it'; *oṣadhīḥ* — *ōṣa* ('burning') + *dhā* with *ki* in the locus sense; feminine *ṅīp*; first member keeps its accent."
+
+---
+
+### Page 316 (PDF 331)
+
+*(Running head: "316 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.6)** *(Kannada)*
+
+*ṛtāyate* — to the sacrificer who desires the sacrifice; *vātāḥ* — the winds; *madhu* — sweet fruits of work; *kṣaranti* — pour; *sindhavaḥ* — the rivers of flowing form; *madhu* — their juice, endowed with sweetness; *kṣaranti* — pour out; *naḥ* — to us; *oṣadhīḥ* — crops and roots and the like; *mādhvīḥ* — endowed with sweetness; *santu* — let them be.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.6** *(Kannada)*
+
+"For the sacrificer who performs sacrifices and is devoted to the worship of the gods, the winds pour sweet fruits of work; the rivers of flowing form increase their sweet juice. May the crops and roots and the like be sweet for us, the performers of sacrifices."
+
+**English Translation** *(printed in English in the source)*
+
+"The winds bring sweet (rewards) to the Sacrificer; the rivers bring sweet waters; may the herbs yield sweetness to us. Or: Sweetly do the winds blow for the pious Sacrificer; sweetly do the rivers flow, sweet may the plants be for us." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.6)**
+
+"The people such as the priests look at the *madhuparka* prepared for them with the three Ṛks beginning *madhu vātā*, receive it, and then partake of it: so the Āśvalāyana Gṛhya-sūtra points out in the sūtra '*madhu vātā ṛtāyate iti tṛcenāvekṣya*' (Āś. Gṛ. [1-24-14] [?])."
+
+- **ऋतायते** — *yajñam ātmana icchate yajamānāya* — "for the sacrificer who performs the sacrifice: for his pleasure."
+- **मधु** — "sweet, pleasing." *(continues on p. 317)*
+
+---
+
+### Page 317 (PDF 332)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 317.)*
+
+*Special Topics of Rik 90.6, continued from p. 316:*
+
+- **क्षरन्ति** — *varṣanti* — "pour; make (rain)."
+- **सिन्धवः** — *syandanaśīlā nadyaḥ samudrā vā* — "rivers, or oceans."
+
+"The main intention: for the pleasure of the sacrificer who performs sacrifices, may the wind blow gladdening; may the rivers flow, filled with cool or sweet water; may crops, plants and trees (grain, fruits and so on) be full of sweet-tasting fruits and the like."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.6)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **मधु** — in the *matup* affix that follows these, by the statement "लुगकारेकाररेफाश्च वक्तव्याः" (Pā. Sū. 4-4-[121]-3 [?]) the *luk*; the second case-ending *am* following, by "स्वमोर्नपुंसकात्" the *luk* of it.
+- **ऋतायते** — *ṛtam ātmana icchati ṛtāyate*; by "सुप आत्मनः क्यच्" (Pā. Sū. 3-1-8) the affix *kyac* in the sense of wishing; *kyac* following, by "न छन्दस्यपुत्रस्य" (Pā. Sū. 7-4-[35]) the *ī*-substitution and lengthening for the *a* of *ṛta* do not come; by "अन्येषामपि दृश्यते" the lengthening of the *t* [i.e. of the vowel after *t*] in the Saṃhitā; the form ending in *kyac*, by "सनाद्यन्ता धातवः" gets the designation of a root; after it, in the sense of *laṭ*, the affix *śatṛ*; the word *ṛtāyat*; in the dative singular, since *śatṛ* has no *num*, with a vowel-initial case-ending following, by "शतुरनुमो नद्यजादी" (Pā. Sū. 6-1-[173]) the case-ending is acute.
+- **क्षरन्ति** — the root *kṣara sañcalane* [as read: *kṣara prasravaṇe*]; *laṭ*, third person plural; since it follows an *atiṅanta*, the *nighāta*.
+- **माध्वीः** — in the sense 'is sweet to it' (*madhu asyā asti*), by "मधोरञ् च" (Pā. Sū. 4-4-[126]) the affix *añ*; since *añ* follows, by "ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययादिति च्छन्दसि" (Pā. Sū. 6-4-[175]) the *yaṇ* substitution is fixed by *nipātana*; since the affix is *ñit*, *vṛddhi* of the initial; when the feminine is intended, by "टिड्ढाणञ्…" the affix *ṅīp*; in the nominative plural, *jas* following, by "वा छन्दसि" the lengthening of the preceding homorganic; the *s* becomes *ru* and *visarga*: *mādhvīḥ*.
+- **सन्तु** — the root *as bhuvi*; *loṭ*, third person plural; the substitute *ant*; *u*; by "श्नसोरल्लोपः" the loss of the *a* of the root; since it follows an *atiṅanta*, the *nighāta*.
+- **ओषधीः** — *oṣaḥ pākaḥ asu dhīyate iti oṣadhayaḥ*, the root *dudhāñ dhāraṇapoṣaṇayoḥ*; in the locus sense, by "कर्मण्यधिकरणे च" (Pā. Sū. 3-3-[93]) the affix *ki*; by "आतो…" *(the page ends here; the grammar continues on p. 318)*
+
+---
+
+**Progress note:** Printed pp. 1–317 done (PDF 16–332) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.5 complete**; **Rik 90.6** done through its Special Topics and most of its grammar page (ending mid-entry at *oṣadhīḥ*, p. 317); the rest of the grammar continues on p. 318, then 90.7–90.9 (the last, Anuṣṭubh), and the end of Sūkta 90 (about p. 324). Next: printed p. 318 (PDF 333). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
