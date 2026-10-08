@@ -5915,4 +5915,87 @@ Closing of Rik 86.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–212 done (PDF 16–227) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.8 complete**; **Rik 86.9** done through its Special Topics and the first entry of its grammar page (*karta*, p. 212; continues on p. 213); then 86.10, the last (the sūkta ends about p. 214). Next: printed p. 213 (PDF 228). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā "vidā"/"vidhyatā" vs Pada "vida"/"vidhyata" in 86.8–86.9; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 213 (PDF 228)
+
+*(Running head left: "A. 1 A. 6 Va. 12 [?]"; centre: "Ṛgvedasaṃhitā"; right: 213.)*
+
+*Vyākaraṇa-prakriyā of Rik 86.9, continued from p. 212 (grammar, noted briefly):*
+
+- **कर्त** (cont.) — "…by "तप्तनप्तनथनाश्च" (Pā. Sū. 7-1-[45]) the substitute *ta* for the ending; since it is *pit*, no *ṅit*-ness, so there is no *ṅit*-related change; then, by "सार्वधातुकार्धधातुकयोः" the *guṇa* of the *ik* of the root; the *nighāta* accent of the *tiṅanta*; the form *karta*. When *āviḥ* (adverb) precedes, the *s* of the visarga becomes *ru*, *visarga*; by "इदुदुपधस्य चाप्रत्ययस्य" (Pā. Sū. 8-3-[41] [?]) the *ṣatva* of the *visarga* that is connected with something other than an affix; the form *āviṣkarta*."
+- **महित्वना** — when *mahitva + ṭā*, by *vyatyaya* the *nā* of the instrumental singular does not appear [as printed] and the acute accent comes; or, by "सुपां सुलुक्" the substitute *ā* for the instrumental ending, and the augment *n*; since it is *cit* [as printed], by "चितः" the final acute.
+- **विध्यता** — the root *vyadha tāḍane*; *loṭ*, second person plural; by "तस्थस्थमिपां तान्तन्तामः" the substitute *ta*; by "दिवादिभ्यः श्यन्" the *vikaraṇa* *śyan*; since the affix is *pit*-less (*sārvadhātukam apit*) it is *ṅit*, and by "ग्रहिज्यावयिव्यधिवष्टिविचतिवृश्चतिपृच्छतिभृज्जतीनां ङिति च" (Pā. Sū. 6-1-[16]) the *saṃprasāraṇa* of the root (the *y*); by "सम्प्रसारणाच्च" the earlier form; the form *vidhyata*; since the affix is *ṅit*, by "ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम्" (Pā. Sū. 6-3-[133]) the lengthening in the Saṃhitā; since the verb stands at the beginning of a *pāda*, no *nighāta*; since the unaccented *upadeśa* follows, the affix is unaccented, and the root's accent remains.
+
+Closing of Rik 86.9: "॥ ९ ॥" (9), followed by a rule.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.10)** *(Gāyatrī — the last Ṛk; Maruts; accents not reproduced)*
+
+> गूहता गुह्यं तमो वि यात विश्वमत्रिणम् ।
+> ज्योतिष्कर्ता यदुश्मसि ॥ १० ॥
+
+*gūhatā guhyaṃ tamo vi yāta viśvam atriṇam | jyotiṣ kartā yad uśmasi ‖ 10 ‖*
+
+*Gloss, mine and tentative:* "Conceal the hidden darkness; drive away every devourer; make the light that we long for."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.10)**
+
+> गूहत । गुह्यम् । तमः । वि । यात । विश्वम् । अत्रिणम् ।
+> ज्योतिः । कर्त । यत् । उश्मसि ॥ १० ॥
+
+*gūhata | guhyam | tamaḥ | vi | yāta | viśvam | atriṇam | jyotiḥ | karta | yat | uśmasi ‖ 10 ‖*
+
+*(The Saṃhitā prints* gūhatā *and* kartā*; the Pada* gūhata *and* karta*; as printed.)*
+
+---
+
+### Page 214 (PDF 229)
+
+*(Running head: "214 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.10)**
+
+> हे मरुतो गुह्यं गुहायां स्थितं सर्वत्र व्याप्य वर्तमानं तमोऽन्धकारं गूहत । संवृतं कुरुत । यथास्माभिर्न दृश्यते तथादर्शनं प्रापयत । विनाशयतेत्यर्थः । विश्वं सर्वमत्रिणमत्तारं राक्षसादिकं वि यात । विविधं यापयत । अस्मत्प्रकाशान्निर्गमयत । यज्ज्योतिः सूर्यादिकं वयमुश्मसि कामयामहे तत्कर्त । कुरुत । यद्वा । गुह्यं गुहायां शरीरान्तर्गतगुहारूपे हृदये भवं तमो भावरूपाज्ञानं तद्गूहत । विनाशयत । अत्रिणं पुरुषार्थस्यात्तारं कामक्रोधादिकं सर्वं विनिर्गमयत । यज्ज्योतिः परतत्त्वसाक्षात्काररूपं ज्ञानं कामयामहे प्राणापानादिपञ्चवृत्तिरूपा हे मरुतस्तत्कर्त । कुरुत ॥ गूहत । गुहू संवरणे । शपि लघूपधगुण ऊदुपधाया गोहः (पा. ६-४-८९) इत्यूपधाया ऊकारः । यात । या प्रापणे । अस्मादन्तर्भावितण्यर्थाल्लोट् । अत्रिणम् । अदेस्त्रिनि च । (उ. ४-६७ [?]) इति त्रिनिप्रत्ययः । उश्मसि । वश कान्तौ । इदन्तो मसिः । आदादित्वाच्छपो लुक् । ग्रहिज्यादिना सम्प्रसारणम् ॥ १० ॥
+
+*he maruto guhyaṃ guhāyāṃ sthitaṃ sarvatra vyāpya vartamānaṃ tamo 'ndhakāraṃ gūhata | saṃvṛtaṃ kuruta | yathāsmābhir na dṛśyate tathādarśanaṃ prāpayata | vināśayatety arthaḥ | viśvaṃ sarvam atriṇam attāraṃ rākṣasādikaṃ vi yāta | vividhaṃ yāpayata | asmatprakāśān nirgamayata | yaj jyotiḥ sūryādikaṃ vayam uśmasi kāmayāmahe tat karta | kuruta | yadvā | guhyaṃ guhāyāṃ śarīrāntargataguhārūpe hṛdaye bhavaṃ tamo bhāvarūpājñānaṃ tad gūhata | vināśayata | atriṇaṃ puruṣārthasyāttāraṃ kāmakrodhādikaṃ sarvaṃ vinirgamayata | yaj jyotiḥ paratattvasākṣātkārarūpaṃ jñānaṃ kāmayāmahe prāṇāpānādipañcavṛttirūpā he marutas tat karta | kuruta ‖ gūhata | guhū saṃvaraṇe | śapi laghūpadhaguṇa ūdupadhāyā gohaḥ (Pā. 6-4-89) ity ūpadhāyā ūkāraḥ | yāta | yā prāpaṇe | asmād antarbhāvitaṇyarthāl loṭ | atriṇam | ader trini ca (Uṇ. 4-67 [?]) iti trinipratyayaḥ | uśmasi | vaśa kāntau | idanto masiḥ | ādādittvāc chapo luk | grahijyādinā samprasāraṇam ‖ 10 ‖*
+
+*Translation:* "O Maruts, *guhyam* — what stands hidden in a cave, what pervades all places, *tamaḥ*, darkness: *gūhata* — conceal it; make it covered, so that it is not seen by us — destroy it, is the meaning. *Viśvam atriṇam* — every devourer, a Rākṣasa and the like: *vi yāta* — drive away, send out of our light. *Yaj jyotiḥ* — the light, the sun and the like, that we long for (*uśmasi*, we desire): *karta* — make it. Or else: *guhyam* — what is in the cave, in the heart, which is like a cave inside the body, *tamaḥ* — the darkness that is ignorance in the form of a thing: destroy it (*gūhata*); *atriṇam* — the devourer of the goal of man (*puruṣārtha*), desire, anger and the rest, all of it, drive out; and the light that we desire (*yaj jyotiḥ*), the knowledge in the form of direct perception of the supreme reality, O Maruts, who are of the nature of the five vital breaths *prāṇa, apāna* and so on, make it for us." *Grammar tail, noted briefly:* *gūhata* — *guhū saṃvaraṇe*, *ū* for the penultimate by "ūdupadhāyā gohaḥ" (Pā. 6-4-89); *yāta* — *yā prāpaṇe*, *loṭ*, with the causative sense contained; *atriṇam* — the affix *trini* (Uṇ. 4-[67] [?]); *uśmasi* — *vaśa kāntau*, with *masi* [for *mas*] and *śap* elided; *saṃprasāraṇa* by "grahijyā…"."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.10)** *(Kannada)*
+
+*guhyam* — (O Maruts) hiding in the cave (and then pervading all the regions); *tamaḥ* — the darkness; *gūhata* — hide (from us; destroy); *viśvam atriṇam* — all devouring Rākṣasas and the like; *vi yāta* — drive off in various directions; *yat jyotiḥ* — whichever lights, the sun and the rest; *uśmasi* — (we) desire; *karta* — make them (all).
+
+**अथवा — Or (second reading)**
+
+*guhyam* — (O Maruts, in the body) which is in the heart in the form of a cave; *tamaḥ* — the darkness in the form of ignorance; *gūhata* — destroy; *atriṇam* — the desire, anger and the like which devour the human aims; *vi yāta* — drive far away; *yat jyotiḥ* — the light that is the means to direct vision of the highest reality; *uśmasi* — we desire; *karta* — make it for us.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.10** *(Kannada; begins at the foot of p. 214)*
+
+"O Maruts, destroy the darkness that is hidden in caves and then pervades all regions. Drive in various directions the devouring Rākṣasas and the like. Make for us all the lights, the sun and the rest, that we desire."
+
+---
+
+### Page 215 (PDF 230)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 215.)*
+
+**English Translation** *(printed in English in the source)*
+
+"Disperse the darkness concealing every where; drive away every devouring enemy; show us the light we long for." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.10)**
+
+"For this Ṛk the bhāṣyakāra has given two different meanings. He explains the word *tamaḥ*, taking the common meaning 'darkness' and then the meaning 'ignorance', and explains each accordingly."
+
+- **गुह्यम्** — *guhāyāṃ sthitam, sarvatra vyāpyamānam* — "situated in a cave; pervading everywhere. When hidden, in secret places where no one is able to see it. In the Ṛgveda and the other Vedas, the use of the words *guhyam*, *guhā hitam* is especially frequent in contexts that show the meaning 'secret'."
+- **गूहत** — *saṃvṛtaṃ kuruta | guhū saṃvaraṇe | apanayeta ity arthaḥ* — "make it hidden; remove it; make it go through concealment."
+- **अत्रिणम्** — *sarvam attāraṃ rākṣasādikam* — "the Rākṣasas and the like who eat all beings."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.10)** *(grammar page, noted briefly; begins here)*
+
+- **गूहत** — the root *guhū saṃvaraṇe*, Bhvādi; *loṭ*, second person plural, the substitute *ta*; by "कर्तरि शप्" (*kartari śap*) the *vikaraṇa* *śap*; since it is *sārvadhātuka* the *guṇa* of the *laghūpadha* would come by "पुगन्तलघूपधस्य च", but by "ऊदुपधाया गोहः" (Pā. Sū. 6-4-[89]) the substitute *ū* for the penultimate; the form *gūhata*; since the verb stands at the beginning of a *pāda*, no *nighāta*; by the root's accent the first syllable is acute.
+- **यात** — the root *yā prāpaṇe*; since the sense of *ṇic* (causing) is included in the meaning of the root, *loṭ*; second person plural, the substitute *ta*; by "अदिप्रभृतिभ्यः शपः" the *luk* of the *vikaraṇa*; since it follows an *atiṅanta*, the *nighāta* accent.
+- **अत्रिणम्** — the root *ada bhakṣaṇe*; by "अदेस्त्रिनि च" (Uṇ. Sū. 4-[68] [?]) the affix *trini*; the word *atrin*; the affix-accent; accusative singular.
+- **उश्मसि** — the root *vaśa kāntau*, Adādi; *laṭ*, first person plural, the affix *mas*; since the affix is *sārvadhātuka* and *apit*, it is *ṅit*, so by "ग्रहिज्यावयिव्यधि…" (Pā. Sū. 6-1-[16]) the *saṃprasāraṇa* (*v* → *u*) of the root; since it belongs to the *adādi* class, the *luk* of *śap*; by "इदन्तो मसि" (Pā. Sū. 7-1-[46]) the augment *i* for the affix *mas*: the form *uśmasi*; since *yat* is in connexion, the *nighāta* … *(the sentence runs on to p. 216)*
+
+---
+
+**Progress note:** Printed pp. 1–215 done (PDF 16–230) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–216 — the contents table lists Sūkta 87 at p. 215, but p. 215 is still Rik 86.10, so Sūkta 87 begins on p. 216 or later [to be confirmed]): **Riks 86.1–86.9 complete**; **Rik 86.10** (the last) done through its Special Topics and the grammar of *gūhata*, *yāta*, *atriṇam*, *uśmasi* (the last entry runs on p. 216, and the Ṛk's closing numeral and any Sūkta-closing line follow). Next: printed p. 216 (PDF 231). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences "vidā/vida", "vidhyatā/vidhyata", "gūhatā/gūhata", "kartā/karta" in 86.8–86.10; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
