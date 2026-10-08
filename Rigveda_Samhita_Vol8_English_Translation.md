@@ -4344,4 +4344,116 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 ---
 
-**Progress note:** Printed pp. 1–149 done (PDF 21–169): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 Special Topics (pp. 137–145: the *Vaiśvānarāgni-mahimā*, the Nirukta discussion of Vaiśvānara, the Bṛhaddevatā verses, the Śatapatha Brāhmaṇa 10-6-1 story of the six householders and Aśvapati Kaikeya — its Sanskrit text on pp. 141–142 and Kannada summary on pp. 142–144 — and the Chāndogya Upaniṣad 5-18-2 and 5-24 quotations with Śaṅkara's derivation on p. 145) done to the foot of p. 145; the Special Topics' close and grammar of 98.1 (pp. 146–147) and Rik 98.2 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topic on the Cāturmāsya *yājyā*, pp. 148–149) done; the Special Topics of 98.2 continue on p. 150, then Rik 98.3. Next: printed p. 150 (PDF 170). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 150 (PDF 170)
+
+*(Running head: left 150; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**Special Topics of Rik 98.2, continued (Kannada)**
+
+"*Divi pṛṣṭaḥ* — in the world of heaven, in contact [with it] in the form of the sun, or placed there. *Pṛthivyām* — on earth, in the form of the *gārhapatya* fire and the rest. *Viśvāḥ oṣadhīḥ* — [he is] in the form of the earthly fire, and has entered within for the sake of cooking. That is: Agni, in the form of the sun, has contact with the heavenly world; in the form of the *gārhapatya* and the rest, contact with the earth; and, in the form of the earthly fire, contact with all the plants. Or, since he is placed in all these regions — so Sāyaṇa has taken *pṛṣṭaḥ* in the sense of 'touch'. Skandasvāmin explains: *pṛṣṭaḥ stutaḥ agniḥ | sāmarthyāt devaiḥ |* — [Skandasvāmin's words, as read, with the second clause clotted [?]]: praised by the gods in the heavenly world, praised by men on earth, and praised by gods and men alike in the plants as well — thus he is said to be pervasive. Either of the two meanings may be taken. For to pervade all these worlds he must have exceedingly great power; then all praise this greatness without reservation. All the Śrutis praise in the highest degree the greatness of this all-pervading Vaiśvānara fire."
+
+> आग्ने [as printed; read *agne*?] यत्ते दिवि वर्चः पृथिव्यां यदोषधीष्वप्स्वा यजत्र ।
+> येनान्तरिक्षमुर्वाततन्थ त्वेषः स भानुरर्णवो नृचक्षाः ।
+> *āgne [as printed] yat te divi varcaḥ pṛthivyāṃ yad oṣadhīṣv apsv ā yajatra | yenāntarikṣam urv ātatantha tveṣaḥ sa bhānur arṇavo nṛcakṣāḥ |*
+> (*Ṛ. Saṃ.* 3-22-2 as read [?])
+
+> आ सूर्ये न रश्मयो ध्रुवासो वैश्वानरे दधिरेऽग्ना वसूनि ।
+> यो पर्वतेष्वोषधीष्वप्सु यो मानुषेष्वसि तस्य राजा ॥
+> *ā sūrye na raśmayo dhruvāso vaiśvānare dadhire 'gnā vasūni | yo parvateṣv oṣadhīṣv apsu yo mānuṣeṣv asi tasya rājā ‖*
+> (*Ṛ. Saṃ.* 1-[7?]9-3 as read [?]; the print's *yo … yo* and *'gnā* followed as printed)
+
+> वि यो वीरुत्सु रोधन्महित्वोत प्रजा उत प्रसूष्वन्तः ।
+> *vi yo vīrutsu rodhan mahitvota prajā uta prasūṣv antaḥ |*
+> (*Ṛ. Saṃ.* 1-[6?]7-9 as read [?])
+
+*(Glosses, mine and tentative: "Your splendour, O worshipful one, that is in heaven, on earth, in plants and waters, with which you have spread the wide mid-air — that bright, flood-like, man-beholding ray"; "Like rays in the sun, the firm [flames] have set riches in Vaiśvānara, … who is in mountains, in plants, in waters, among men — of him [you are] king"; "who by his greatness spreads [or: stays] in the plants, in creatures, and in the offspring-bearing…". The second and third are broken in the print and the glosses are only a rough guess.)*
+
+"As in many places of the Ṛksaṃhitā such praise is given, so in the Śatapatha and the other Brāhmaṇas too there is, in many places, praise of this kind of the Vaiśvānara fire."
+
+> नृषदे वेडिति । प्राणो वै नृषन्नुष्या नरस्तद्योऽयं मनुष्येषु प्राणोऽग्निस्तमेतेन प्रीणात्यप्सुषदे वेडिति योऽप्स्वग्निस्तमेतेन प्रीणाति बर्हिषदे वेडिति य ओषधिष्वग्निस्तमेतेन प्रीणाति वनसदे वेडिति यो वनस्पतिष्वग्निस्तमेतेन प्रीणाति स्वर्विदे वेडित्ययमग्निः स्वर्विदमेवैतमग्निं प्रीणाति ॥
+> *nṛṣade veḍ iti | prāṇo vai nṛṣann uṣyā naras tad yo 'yaṃ manuṣyeṣu prāṇo 'gnis tam etena prīṇāty apsuṣade veḍ iti yo 'psv agnis tam etena prīṇāti barhiṣade veḍ iti ya oṣadhiṣv agnis tam etena prīṇāti vanasade veḍ iti yo vanaspatiṣv agnis tam etena prīṇāti svarvide veḍ ity ayam agniḥ svarvidam evaitam agniṃ prīṇāti ‖*
+> (*Śatapatha Brāhmaṇa* 9-2-1-[8?] as read [?]; *nṛṣann uṣyā* and the end *svarvidam evaitam* are clotted in print, read as given [?])
+
+*(Translation, mine and tentative: "'To the one seated among men — veṭ!' The breath is the one seated among men, the men: the breath that is in men is Agni; him he thereby pleases. 'To the one seated in the waters — veṭ!' The Agni that is in the waters, him he thereby pleases. 'To the one seated on the grass — veṭ!' The Agni that is in the plants, him he thereby pleases. 'To the one seated in the wood — veṭ!' The Agni that is in the trees, him he thereby pleases. 'To the one who finds the heavenly world — veṭ!' This is that Agni: he pleases that very Agni who finds the heavenly world.")*
+
+### Page 151 (PDF 171)
+
+*(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 151.)*
+
+**Special Topics of Rik 98.2, continued from p. 150 (Kannada)**
+
+"'To the one seated among men — *veṭ*' is the sense, [spoken] to the Agni who is in men. Of all men, it is the breath that is Agni. The man who offers an oblation for this breath pleases the Agni, in the form of breath, that pervades all men. By this oblation to the Agni who is in the waters he pleases the Agni hidden in the waters; by this oblation to the Agni seated on the grass he pleases the Agni pervading the plants; by the oblation given to the Agni hidden in the trees he pleases the Agni hidden in the trees; by the oblation given to the Agni who traverses the world of heaven he pleases the Agni who has traversed the world of heaven. Thus the praise of the Agni who pervades all regions is found in many places. In Śat. Br. 9-2-3 [as read, ?] this subject is further explained at length.
+
+*Sahasā pṛṣṭaḥ* — since *ojaḥ, pājaḥ, śavaḥ* and the like are read among the names of strength (*Ni.* 2-9 as read [?]), the word *sahas* means strength. [Sāyaṇa:] *saṅgatayo balavattayā stutaḥ ity arthaḥ* [as read, doubtful [?]] — the sense is: he is praised for [his] strength; [and in Kannada:] he is one praised for the greatness of his own power that dwells in himself. By many epithets such as 'son of strength' and 'lord of strength' Agni is praised in many contexts."
+
+> तस्मिन्न्[?]न्ति प्रशिषस्तस्मिन्निष्टयः स वाजस्य शवसः शुष्मिणस्पतिः ।
+> *tasminn [?]nti praśiṣas tasmin niṣṭayaḥ sa vājasya śavasaḥ śuṣmiṇas patiḥ |*
+> (*Ṛ. Saṃ.* 1-[1?]43-1 as read [?]; the word after *tasmin* is clotted in print and not completed from memory)
+
+> त्वं नो अग्ने अद्भुत क्रत्वा दक्षस्य मंहना ।
+> त्वे असुर्य१मारुहत्क्रणा [?] मित्रो न यज्ञियः ॥
+> *tvaṃ no agne adbhuta kratvā dakṣasya maṃhanā | tve asuryam āruhat kraṇā [?] mitro na yajñiyaḥ ‖*
+> (*Ṛ. Saṃ.* 3-1[0?]-2 as read [?]; *kraṇā* as printed, doubtful)
+
+"— thus Agni alone is the lord of every form of power; and because he has such incomparable strength, he is entreated: protect us from the enemies who do harm.
+
+*Riṣaḥ* — *hiṃsataḥ śatroḥ* [as read] — 'from the harming enemy, protect' is the prayer. The enemy-destroying power of Agni —"
+
+> स हि पुरू चिदोजसा विरुक्मता दीद्यानो भवति द्रुहंतरः । परशुर्न द्रुहंतरः ।
+> *sa hi purū cid ojasā virukmatā dīdyāno bhavati druhaṃtaraḥ | paraśur na druhaṃtaraḥ |*
+> (*Ṛ. Saṃ.* 1-[1?]2[2?]-3 as read [?])
+
+> स पुरस्तादुपदधाति । आग्ने [as printed] जातान्प्रणुदा नः सपत्नानिति यथैव यजुस्तथा बन्धुः । अथ पश्चात् सहसा जातान्प्रणुदा नः सपत्नानिति यथैव यजुस्तथा बन्धुः ।
+> *sa purastād upadadhāti | āgne [as printed] jātān praṇudā naḥ sapatnān iti yathaiva yajus tathā bandhuḥ | atha paścāt sahasā jātān praṇudā naḥ sapatnān iti yathaiva yajus tathā bandhuḥ |*
+> (*Śat. Br.* 8-5-[1?]8 as read [?])
+
+*(Gloss, mine and tentative: "He lays [the brick] down in front: 'Drive away from us our rivals, born [already], O Agni' — as is the formula, so is the connection. Then behind: 'Drive away from us by force the rivals that are born' — as is the formula, so is the connection.")*
+
+### Page 152 (PDF 172)
+
+*(Running head: left 152; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**Special Topics of Rik 98.2, close (Kannada)**
+
+"'[Destroy] now all the enemies who are born and who will be born hereafter, and, relying always only on your strength, may we be guided by your protection' — so, in the Ṛgādi Saṃhitās and in the Śatapatha and other Brāhmaṇas, the greatness of Agni's power is praised."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 98.2)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *pṛṣṭaḥ* (root *spṛś saṃsparśane*, affix *kta*; *s* → *ṣ* by the rule *vraścabhrasja…* [Pā. Sū. 8-2-36], *t* → *ṭ* by the *ṣṭutva* rule; Vedic loss of the initial *s* — or root *pṛṣu secane*, *kta* by *niṣṭhā* [Pā. Sū. 3-2-102 as read, ?], *iṭ* barred by *yasya vibhāṣā* [Pā. Sū. 7-2-15 as read, ?], no *guṇa* of the penult because the affix has *k*, final acute by the affix); *divi* (*div*, locative singular; the case-ending acute by *ūḍidaṃpadādi…* [Pā. Sū. 6-1-171 as read, ?]); *pṛthivyām* (*pṛthivī*, locative, *ṅi* → *ām* by a rule beginning *ṅer āṃ…* [name clotted, ?], *yaṇ*, then the ending acute by *udāttayaṇo hal pūrvāt* [Pā. Sū. 6-1-174 as read, ?]); *viveśa* (root *viś praveśane*, *liṭ*, third person singular, *ṇal*; doubling of the root; *guṇa* of the penult; *nighāta* accent because it follows a non-verb); *riṣaḥ* (root *riṣ hiṃsāyām*, *kvip* by *kvip ca* [Pā. Sū. 3-2-76 as read, ?]; no *guṇa* as the affix has *k*; ablative singular; the ending acute by *sāvekācas tṛtīyādiḥ…* [Pā. Sū. 6-1-168 as read, ?]); *pātu* (root *pā rakṣaṇe*, *loṭ*, third person singular, *nighāta*). The Rik is closed with an ornament.
+
+## Rik 98.3 (Sūkta 98, third and last Rik) — printed pp. 153–[?]
+
+### Page 153 (PDF 173)
+
+*(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 153.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 98.3)**
+
+> वैश्वानर तव तत्सत्यमस्त्वस्मान्रायो मघवानः सचन्ताम् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ३ ॥
+
+*vaiśvānara tava tat satyam astv asmān rāyo maghavānaḥ sacantām | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 3 ‖*
+
+*(Accent-marks are printed; not reproduced, per the standing rule. The print's first line reads* tat satyam astv asmān *with a crowded ligature in* astv [?].)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 98.3)**
+
+> वैश्वानर । तव । तत् । सत्यम् । अस्तु । अस्मान् । रायः । मघऽवानः । सचन्ताम् ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ३ ॥
+
+*vaiśvānara | tava | tat | satyam | astu | asmān | rāyaḥ | magha-vānaḥ | sacantām | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 98.3)**
+
+> हे वैश्वानर तव तत्त्वदीयं तदस्माभिः क्रियमाणं कर्म सत्यमस्तु । अवितथफलं भवतु । ततोऽस्मान् मघवानो मघवन्तो धनवन्तो रायो धनवदतिप्रियोः [?] पुत्राः सचन्ताम् । सेवन्ताम् । एवं यदस्माभिः प्रार्थितं नोऽस्मदीयं तत् मित्रोऽहरभिमानी देवो वरुणो रात्र्यभिमानी । अदितिरदीना देवमाता सिन्धुः स्यन्दनशीलोदकाभिमानी देवः । उतशब्दः समुच्चये । एते सर्वे मित्रादयो मामहन्ताम् । पूजयन्ताम् । पालयन्तामित्यर्थः ॥
+> *he vaiśvānara tava tat tvadīyaṃ tad asmābhiḥ kriyamāṇaṃ karma satyam astu | avitathaphalaṃ bhavatu | tato 'smān maghavāno maghavanto dhanavanto rāyo dhanavadatipriyoḥ [?] putrāḥ sacantām | sevantām | evaṃ yad asmābhiḥ prārthitaṃ no 'smadīyaṃ tat mitro 'harabhimānī devo varuṇo rātryabhimānī | aditir adīnā devamātā sindhuḥ syandanaśīlodakābhimānī devaḥ | utaśabdaḥ samuccaye | ete sarve mitrādayo māmahantām | pūjayantām | pālayantām ity arthaḥ ‖*
+
+"O Vaiśvānara, that [deed] of yours — that rite which is being performed by us — may it be true, may it bear unfailing fruit. Then may the wealthy [*maghavānaḥ*, 'possessed of wealth'] riches (*rāyaḥ*) — sons, rich and most dear [print's wording clotted here [?]] — attend us, wait upon us. Likewise, what we have prayed for — that of ours — may Mitra, the god who presides over the day, Varuṇa, who presides over the night, Aditi, the undiminished mother of the gods, Sindhu, the god who presides over flowing water — the word *uta* is in the sense of 'and' — all these, Mitra and the rest, *māmahantām*: may they honour, worship, protect [it] — that is the sense."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(begun at the foot of p. 153; continues on p. 154)*
+
+"*vaiśvānara* — O Agni, lord of all humankind; *tava* — to you (addressing you); *tat* — all that rite which we perform; *satyam astu* — may it yield true fruit (suitable to the purpose); *asmān* — us; *maghavānaḥ* — those rich in wealth; *rāyaḥ* —"
+
+---
+
+**Progress note:** Printed pp. 1–153 done (PDF 21–173): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 Special Topics (pp. 137–145: the *Vaiśvānarāgni-mahimā*, the Nirukta discussion of Vaiśvānara, the Bṛhaddevatā verses, the Śatapatha Brāhmaṇa 10-6-1 story of the six householders and Aśvapati Kaikeya — its Sanskrit text on pp. 141–142 and Kannada summary on pp. 142–144 — and the Chāndogya Upaniṣad 5-18-2 and 5-24 quotations with Śaṅkara's derivation on p. 145) done to the foot of p. 145; the Special Topics' close and grammar of 98.1 (pp. 146–147) and Rik 98.2 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topic on the Cāturmāsya *yājyā*, pp. 148–149) done; the Special Topics of 98.2 (pp. 150–152), its grammar page (p. 152) and Rik 98.3 (Saṃhitā, Pada, bhāṣya, and the Pratipadārtha begun, p. 153) done. Next: printed p. 154 (PDF 174): Pratipadārtha of 98.3 continues mid-sentence at *rāyaḥ —*. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
