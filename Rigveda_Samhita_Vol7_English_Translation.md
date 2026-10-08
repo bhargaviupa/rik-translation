@@ -5083,4 +5083,78 @@ Closing of Rik 85.10: "॥ १० ॥" (10), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–185 done (PDF 16–200) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.10 complete**; **Rik 85.11** — Saṃhitā and Pada done (foot of p. 185); next: its bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then 85.12 (Triṣṭubh, last Ṛk; the sūkta ends about p. 191). Next: printed p. 186 (PDF 201). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 186 (PDF 201)
+
+*(Running head: "186 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.11)**
+
+> मरुतोऽवतमुद्धृतं कूपं यस्यां दिशि ऋषिर्वसति तया दिशा जिह्मं वक्रं तिर्यञ्चं नुनुद्रे । प्रेरितवन्तः । एवं कूपं नीत्वा ऋषेराश्रमेऽवस्थाप्य तृष्णजे तृषितायं गोतमाय ऋषये तदर्थमुत्सं जलप्रवाहं कूपादुद्धृत्यासिञ्चन् । आहावे वानयन् [?] । एवं कृत्वैनं स्तोतारमृषिं चित्रभानवो विचित्रदीप्तयस्ते मरुतोऽवसेदृशेन रक्षणेन सह गच्छन्ति । तत्समीपं प्राप्नुवन्ति । प्राप्य च विप्रस्य मेधाविनो गोतमस्य कामम् अभिलाषं धामभिरायुषो धारकैरुदकैस्तर्पयन्त । अतर्पयन् ॥ तया । [the clause on *tayā*, with the sūtra *na goścanmsāvavarṇa…*, cramped; read with doubt [?]] । दिशा । सावेकाच इति विभक्तेरुदात्तत्वम् । तृष्णजे । ञित्वृषा पिपासायाम् । स्वपितृषोर्नजिङ् (पा. ३-२-१७२ [?]) । प्रत्ययोदात्तत्वम् । … पदकारस्य शाकल्यस्य त्वयमभिप्रायः । अन्येष्वपि दृश्यत इति दृशिग्रहणात् केवलादपि जनेर्डप्रत्ययः । तृष्णा जाता यस्य स तृष्णजः । ज्यापोः संज्ञाछन्दसोर्बहुलमिति ह्रस्वत्वम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । धामभिः । धाधातेरातो मनिन् [?]… इति मनिन् ॥
+
+*maruto 'vatam uddhṛtaṃ kūpaṃ yasyāṃ diśi ṛṣir vasati tayā diśā jihmaṃ vakraṃ tiryañcaṃ nunudre | preritavantaḥ | evaṃ kūpaṃ nītvā ṛṣer āśrame 'vasthāpya tṛṣṇaje tṛṣitāya gotamāya ṛṣaye tadartham utsaṃ jalapravāhaṃ kūpād uddhṛtyāsiñcan | āhāve vānayan [?] | evaṃ kṛtvainaṃ stotāram ṛṣiṃ citrabhānavo vicitradīptayas te maruto 'vasedṛśena rakṣaṇena saha gacchanti | tatsamīpaṃ prāpnuvanti | prāpya ca viprasya medhāvino gotamasya kāmam abhilāṣaṃ dhāmabhir āyuṣo dhārakair udakais tarpayanta | atarpayan ‖ tayā | [clause cramped] | diśā | sāv ekāca iti vibhakter udāttatvam | tṛṣṇaje | ñitvṛṣā pipāsāyām | svapitṛṣor najiṅ (Pā. 3-2-172 [?]) | pratyayodāttatvam | … padakārasya śākalyasya tv ayam abhiprāyaḥ | anyeṣv api dṛśyata iti dṛśigrahaṇāt kevalād api janer ḍapratyayaḥ | tṛṣṇā jātā yasya sa tṛṣṇajaḥ | jyāpoḥ saṃjñāchandasor bahulam iti hrasvatvam | bahuvrīhau pūrvapadaprakṛtisvaratvam | dhāmabhiḥ | dhādhāter āto manin [?] … iti manin ‖*
+
+*(Kannada script; this page's bhāṣya is printed in small type; the clause on* tayā*, one sentence after* tṛṣṇaje*, and the citation in the clause on* dhāmabhiḥ *are cramped and are read with doubt or omitted.)*
+
+*Translation:* "The Maruts *nunudre* — impelled — the well that had been raised, *jihmam* — crooked, sideways, in whatever direction the sage was living. Having carried the well thus, set it at the sage's hermitage, they poured out for the thirsty Gotama, the sage, *utsam* — a stream of water — lifting it out of the well [or: bringing it into the trough]. Having done so, these Maruts, *citrabhānavaḥ* — of various radiance — come to this sage who praises, with such protection, reach his presence, and, having reached, *dhāmabhiḥ* — with waters that sustain life — satisfy (*tarpayanta* = *atarpayan*) the desire (*kāmam*) of the wise Gotama (*viprasya*). *Grammar tail, noted briefly:* *diśā* — the case-ending acute by "sāv ekācas…"; *tṛṣṇaje* — *tṛṣa pipāsāyām* with *najiṅ* (Pā. 3-2-172 [?]) after the roots *svap* and *tṛṣ*; here the *padakāra* Śākalya has a different view: since "anyeṣv api dṛśyate" includes the word 'seen', even from the bare root *jan* there is the affix *ḍa*: *tṛṣṇā jātā yasya sa tṛṣṇajaḥ*; the shortening by "bahulam"; the first member keeps its accent; *dhāmabhiḥ* — *manin* after the root *dhā*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.11)** *(Kannada)*
+
+*jihmam* — crooked; *avatam* — the well they had raised; *tayā diśā* — (in the direction where the sage Gotama was living) in that direction; *nunudre* — made it go; *(then, placing it in the hermitage of the sage)*; *tṛṣṇaje* — to the thirsty; *gotamāya* — for Gotama the sage; *utsam* — the stream of water; *asiñcan* — they poured; *citrabhānavaḥ* — the Maruts of many kinds of radiance; *īm* — this (devout) sage; *avasā* — with (such) protection; *ā gacchanti* — approach; *viprasya* — of the wise Gotama; *kāmam* — wish; *dhāmabhiḥ* — with waters that sustain life; *tarpayanta* — satisfied.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.11** *(Kannada)*
+
+"The Maruts made the well which they had raised go, crooked, in the direction where the sage Gotama lived. Then, having set it at the sage's hermitage, they poured out a stream of water for the thirsty sage Gotama. The Maruts, of various radiance, approached their devotee Gotama with such protection, and satisfied the wise man's wish with waters that sustain life."
+
+---
+
+### Page 187 (PDF 202)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 187.)*
+
+**English Translation** *(printed in English in the source)*
+
+"They brought the crooked well to the place (where Gotama was) and sprinkled the water upon the thirsty Gotama; the variously radiant Maruts come to his succour, gratifying the desire of the Sage with life-sustaining waters." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.11)**
+
+- **जिह्मम्** — *vakram* — "crooked, not straight."
+- **उत्सम्** — "a stream of water."
+- **तृष्णजे** — *tṛṣitāya gotamāya* — "to the thirsty (Gotama)."
+- **चित्रभानवः** — "those of many kinds of radiance."
+- **धामभिः** — *dhārakair udakaiḥ* — "with waters that flow in streams."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.11)** *(grammar page, noted briefly; begins here)*
+
+- **तया** — the word *tad*; in the feminine instrumental singular the form *tayā*; since by "सावेकाचस्तृतीयादिः" the case-ending would have the acute, the prohibition comes, by "न गोश्वन्साववर्णराडङ्क्रुङ्कृद्भ्यः" (*na goścan-sāvavarṇa-rāḍaṅ-kruṅkṛdbhyaḥ*, Pā. Sū. 6-1-[182] [?]).
+- **दिशा** — the word *diś*; always feminine; instrumental singular; being "*supara*" [i.e. followed by the case-ending], by "एकाचः" etc. [as read: "*eko 'ca…*"], the case-ending acute by "सावेकाचस्तृतीयादिः".
+- **असिञ्चन्** — the root *ṣica kṣaraṇe*, Tudādi; *laṅ*, third person plural; by "झोऽन्तः" the substitute *ant*; the loss of the final *a*; by "शे मुचादीनाम्" (Pā. Sū. 7-1-[59]) the augment *num*; the *vikaraṇa* (*śa*); loss of the final consonant of the conjunct; the augment *aṭ*; since it stands at the beginning of a *pāda*, there is no *nighāta*; since the augment *aṭ* is acute, the first syllable is acute.
+- **तृष्णजे** — the root *ñitṛṣā pipāsāyām*; to it, by "स्वपितृषोर्नजिङ्" (Pā. Sū. 3-2-[172] [?]) the affix *najiṅ*; by "रञ्जेः…" [as read: "*rakṣāpāṃ…*"] the *ṅ* of the affix, the acute accent of the affix; since the root *tṛṣ*'s penultimate (*ṛ*) is followed by a *jit* affix, no *guṇa*; the word *tṛṣṇaj*; by the *ṇa* acute through the affix-accent, the *a* of the *ṇa* is acute; in the dative singular the form *tṛṣṇaje*.
+
+---
+
+### Page 188 (PDF 203)
+
+*(Running head: "188 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.11, continued from p. 187 (grammar, noted briefly):*
+
+- **तृष्णजे** (cont.) — "In the analysis of this word the *padakāra* Śākalya has a different view: by the sūtra "अन्येष्वपि दृश्यते" (*anyeṣv api dṛśyate*, Pā. Sū. 3-2-101), by the inclusion of the word *dṛśi*, the affix *ḍa* comes after the bare root *jan*; by the force of the *ḍit*, the loss of the *ṭi* part (*an*) of *jani*; *tṛṣṇā jātā yasya sa tṛṣṇajaḥ*; by "ज्यापोः संज्ञाछन्दसोर्बहुलम्" (*jyāpoḥ saṃjñāchandasor bahulam*) the shortening of the *ā* at the end of the first member in the compound; since it is a *bahuvrīhi* compound, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its accent."
+- **गच्छन्ति** — the root *gamḷ gatau*; *laṭ*, third person plural; the substitute *anti*; *śap*; by "इषुगमियमां छः" (*iṣugamiyamāṃ chaḥ*) the substitute *ccha*; the *nighāta* of the *tiṅanta*.
+- **चित्रभानवः** — *citrāḥ bhānavo yasya saḥ*; by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its accent.
+- **तर्पयन्त** — the root *tṛpa tṛptau*; *laṅ*, third person plural [in the Veda in the sense of *laṭ*]; by "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; the *nighāta* of the *tiṅanta*.
+- **धामभिः** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; by "आतो मनिन्क्वनिब्वनिपश्च" the affix *manin*; the word *dhāman*; since it ends in a *nit* affix, the first syllable is acute; in the instrumental plural, by "नलोपः प्रातिपदिकान्तस्य" the loss of *n*.
+
+Closing of Rik 85.11: "॥ ११ ॥" (11), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.12)** *(Triṣṭubh — the last Ṛk of the sūkta; Maruts; accents not reproduced)*
+
+> या वः शर्म शशमानाय सन्ति त्रिधातूनि दाशुषे यच्छताधि ।
+> अस्मभ्यं तानि मरुतो वि यन्त रयिं नो धत्त वृषणः सुवीरम् ॥ १२ ॥
+
+*yā vaḥ śarma śaśamānāya santi tridhātūni dāśuṣe yacchatādhi | asmabhyaṃ tāni maruto vi yanta rayiṃ no dhatta vṛṣaṇaḥ suvīram ‖ 12 ‖*
+
+*Gloss, mine and tentative:* "The threefold shelters you have for the one who labours [in praise], for the giver — grant them; those, O Maruts, extend to us; bestow on us wealth with good heroes, O showerers."
+
+---
+
+**Progress note:** Printed pp. 1–188 done (PDF 16–203) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.11 complete**; **Rik 85.12** (the last, Triṣṭubh) — Saṃhitā done (foot of p. 188); next: its Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, and the end of Sūkta 85 (about p. 191). Next: printed p. 189 (PDF 204). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
