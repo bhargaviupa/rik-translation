@@ -10073,4 +10073,105 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–355 done (PDF 16–370) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.8 complete; Rik 91.9 Saṃhitā and Pada done at the foot of p. 355. Next: printed p. 356 (PDF 371) — the Sāyaṇa-bhāṣya of 91.9. Open flags: 91.8 (pp. 353–355): the Āśvalāyana citation *svastyayanyāṃ rakṣitevaṃtāvagne rakṣāṇo…* partly read [?]; Ā. 3-10 [?]; Ṛgveda numeral of *vṛṇīmahe sakhyāya* [?]; Pāṇini numerals on pp. 354–355 (3-4-87, 6-3-135, 7-4-33, 7-4-37, 6-1-173, 7-2-98, 6-3-91) [?]; case-name of *tvāvataḥ* in the grammar page doubtful; the Saṃhitā *rakṣā* vs Pada *rakṣa*; 91.7 (pp. 350–352): bhāṣya clause *vapur upabhogasamarthaṃ* doubtful [?]; the *tumarthe sesenase…* rule partly read [?]; Pāṇini numerals on p. 352 [?]; Āśvalāyana numeral 2-10 [?]; Pāṇini numeral 6-2-140 on p. 350 [?]; 91.6 (pp. 348–349): Ṛgveda, Taittirīya and Nirukta numerals [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted [?]; Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini numeral 8-1-30 [?]; 91.5 (pp. 345–346): numerals [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; the *ūḍidaṃ padādi* sūtra number on p. 343 not legible; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; numerals of 91.3 (pp. 335–337) and 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 356 (PDF 371)
+
+*(Running head: left "356", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.9)**
+
+> सोमप्रवहणे सोम यास्त इति तृचोऽनुवक्तव्यः । सूत्रितं च । सोम यास्ते मयोभुव इति तिस्रः । आ. ४-४ [?] इति ॥ आग्रयणे सौम्यस्य सोम यास्त इत्येषानुवाक्या । सूत्रितं च । सोम यास्ते मयोभुवो या ते धामानि दिवि या पृथिव्याम् । २-९ [?] इति ॥ अश्वमेधेऽपि पौष्णमिष्ट्वा द्वितीयस्याज्यभागस्यैषानुवाक्या । सूत्रितं च । त्वमग्ने सप्रथा असि सोम यास्ते मयोभुव इति सद्वंतौ । आ. १०-६ [?] इति ॥
+> हे सोम ते तव संबन्धिन्यो दाशुषे चरुपुरोडाशादीनि दत्तवते यजमानाय मयोभुवो मयसः सुखस्य भावयित्र्यो या ऊतयो रक्षाः संति विद्यन्ते ताभी रक्षाभिर्नोऽस्माकमविता रक्षिता भव ॥ मयोभुवः । अस्या ऊतिविशेषणत्वेन स्त्रीलिंगत्वे भुवश्च । पा. ४-१-४२ [?] इति ङीष् प्राप्नोति । तद्वोतो गुणवचनादित्यस्मादुत इति तपरकरणस्यानुवर्तनान्न भवति ॥
+
+*somapravahaṇe soma yās ta iti tṛco 'nuvaktavyaḥ | sūtritaṃ ca | soma yās te mayobhuva iti tisraḥ | Ā. 4-4 [?] iti ‖ āgrayaṇe saumyasya soma yās ta ity eṣānuvākyā | sūtritaṃ ca | soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām | 2-9 [?] iti ‖ aśvamedhe 'pi pauṣṇam iṣṭvā dvitīyasyājyabhāgasyaiṣānuvākyā | sūtritaṃ ca | tvam agne saprathā asi soma yās te mayobhuva iti sadvaṃtau | Ā. 10-6 [?] iti ‖ he soma te tava saṃbandhinyo dāśuṣe carupuroḍāśādīni dattavate yajamānāya mayobhuvo mayasaḥ sukhasya bhāvayitryo yā ūtayo rakṣāḥ saṃti vidyante tābhī rakṣābhir no 'smākam avitā rakṣitā bhava ‖ mayobhuvaḥ | asyā ūtiviśeṣaṇatvena strīliṃgatve bhuvaś ca | Pā. 4-1-42 [?] iti ṅīṣ prāpnoti | tadvoto guṇavacanād ity asmād uta iti taparakaraṇasyānuvartanān na bhavati ‖*
+
+*Translation:* "In the *somapravahaṇa* (conveying of Soma) the three Ṛks beginning *soma yās te* are to be recited; it is prescribed: '*soma yās te mayobhuva iti tisraḥ*' (Ā. 4-4 [?]). In the Āgrayaṇa offering, for the Saumya, *soma yās te* is the *anuvākyā*; prescribed: '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (2-9 [?]). In the Aśvamedha too, after the offering to Pūṣan, this is the *anuvākyā* for the second *ājyabhāga*; prescribed: '*tvam agne saprathā asi soma yās te mayobhuva*', a pair [*sadvantau*] (Ā. 10-6 [?]). — O Soma, whichever *ūtayaḥ* (helps, protections) of yours, *mayobhuvaḥ* — producers of *mayas*, of happiness — exist for the sacrificer who gives oblations (*dāśuṣe*), such as the *caru* and *puroḍāśa*: with those protections be our *avitā*, our protector."
+
+*Grammar tail:* *mayobhuvaḥ* — since it is an attribute of *ūtayaḥ* and is feminine, by *bhuvaś ca* (Pā. 4-1-42 [?]) the feminine suffix *ṅīṣ* would be obtained; but since in *vāto guṇavacanāt* the *ta*-restricted *ut* ["of a stem ending in *u*"] continues, it does not occur.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.9)** *(Kannada)*
+
+*Soma* — O Soma-deity; *te* — belonging to you; *dāśuṣe* — to the sacrificer who offers oblations; *mayobhuvaḥ* — which are causes of happiness; *yāḥ ūtayaḥ* — whichever means of protection; *santi* — there are; *tābhiḥ* — with those means of protection; *naḥ* — our; *avitā* — protector; *bhava* — be.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.9** *(Kannada)*
+
+"O Soma-deity, the sacrificer who offers you oblations, your devotee, trusts only in you for his protection. With whatever means of protection that are causes of happiness for him, be our protector too with all of them."
+
+**English Translation** *(printed in English in the source; Rik 91.9)*
+
+"Soma, be our protector with these assistances which are sources of happiness to the offerer of oblations." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.9)** *(Kannada)*
+
+"In the *somapravahaṇa* the three Ṛks beginning *soma yās te* are the *puronuvākyā* mantras; the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*soma yās te mayobhuva iti tisraḥ*'. And in the *Āgrayaṇeṣṭi*, in the offering to the Soma deity, *soma* —
+
+---
+
+### Page 357 (PDF 372)
+
+*(Running head left: "A. 1 A. 6 Va. 20 [?]"; centre: "Ṛgvedasaṃhitā"; right: 357.)*
+
+"— *yās te* is to be used as the *puronuvākyā* mantra; the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*soma yās te mayobhuvo yā te dhāmāni divi yā pṛthivyām*' (Ā. 2-9 [?]). And in the Aśvamedha sacrifice too, in the offering to the Pūṣan deity, this Ṛk is to be used as the *puronuvākyā* mantra for the second *ājyabhāga* oblation; the Āśvalāyana Śrauta-sūtra explains it by the sūtra '*tvam agne saprathā asi soma yās te mayobhuva iti sadvantau*' (Ā. 10-6 [?])."
+
+***dāśuṣe*** — *dāśṛ dāne* | "To the sacrificer who offers oblations."
+
+***ūtayaḥ*** — *ūtir avanāt* (Ni. 5-3 [?]) | "The author of the Nirukta explains that the word *ūti* is derived from the root *av*, which gives the sense 'protection', and cites the Ṛk *ā tvā rathaṃ yatho-ūtaye* (Ṛ. Saṃ. 8-68-1 [?]) [as read; the citation is cut short in the print]. *ūtayaḥ* means 'protections'. What sort of protections? —"
+
+***mayobhuvaḥ*** — *mayasaḥ sukhasya bhāvayitryaḥ* | "Protections that are causes of happiness: this is the meaning. The nature of the happiness obtained from Soma is described in the Ṛks from Ṛ. Saṃ. 9-113-[?] to [?]. In general all the prayers that are made in the Ṛksaṃhitā to the deities, even though they proceed looking to happiness, are described in the prayer to the deity Soma as of a very high order of happiness:"
+
+> यत्र ज्योतिरजस्रं यस्मिँल्लोके स्वर्हितम् ।
+> तस्मिन्मां धेहि पवमानामृते लोके अक्षित इन्द्रायेन्दो परि स्रव ॥
+
+*yatra jyotir ajasraṃ yasmiṃl loke svarhitam | tasmin māṃ dhehi pavamānāmṛte loke akṣita indrāyendo pari srava ‖*  (Ṛ. Saṃ. 9-113-7 [?])
+
+*Gloss, mine and tentative:* "Where there is unceasing light, in the world in which the sun is set — in that place put me, O purifying one, in the immortal, imperishable world; flow clear for Indra, O Indu."
+
+> यत्र कामा निकामाश्च यत्र ब्रध्नस्य विष्टपम् ।
+> स्वधा च यत्र तृप्तिश्च तत्र मामृतं कृधीन्द्रायेन्दो परि स्रव ॥
+
+*yatra kāmā nikāmāś ca yatra bradhnasya viṣṭapam | svadhā ca yatra tṛptiś ca tatra māmṛtaṃ kṛdhīndrāyendo pari srava ‖*  (Ṛ. Saṃ. 9-113-10 [?]; the print reads *māmamṛtaṃ* with an apparent extra *ma* [?])
+
+*Gloss, mine and tentative:* "Where there are desires and fulfilments, where is the vault of the sun, where is *svadhā* [the ancestral offering-food] and satisfaction — there make me immortal; flow clear for Indra, O Indu."
+
+> यत्रानन्दाश्च मोदाश्च मुदः प्रमुद आसते ।
+> कामस्य यत्राप्ताः कामास्तत्र मामृतं कृधीन्द्रायेन्दो परि स्रव ॥
+
+*yatrānandāś ca modāś ca mudaḥ pramuda āsate | kāmasya yatrāptāḥ kāmās tatra māmṛtaṃ kṛdhīndrāyendo pari srava ‖*  (Ṛ. Saṃ. 9-113-11 [?]; the same note on *māmamṛtaṃ* [?])
+
+*Gloss, mine and tentative:* "Where delights and joys, pleasures and ecstasies abide, where the desires of desire are attained — there make me immortal; flow clear for Indra, O Indu."
+
+"The nature of the happiness described in these Ṛks surpasses even the happiness of heaven as it is ordinarily described: a happiness of the highest order, with joy, delight and ecstasy of the kind that has no craving left [*nikāma*]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.9)** *(Kannada; grammar page, noted briefly)*
+
+*soma* — vocative singular; since it stands at the head of the pāda, the *āmantrita*-*nighāta* does not occur; by *āmantritasya ca* (Pā. 6-1-198 [?]) the initial-acute accent.
+
+---
+
+### Page 358 (PDF 373)
+
+*(Running head: left "358", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Vyākaraṇa-prakriyā of Rik 91.9, continued (grammar page, noted briefly):*
+
+*mayobhuvaḥ* — *mayasaḥ bhāvayitryaḥ mayobhuvaḥ*; when *mayas* is the *upapada*, *kvip* after the root *bhū*. Though *ūti* here is feminine and the word is its attribute, so that by *bhuvaś ca* (Pā. 4-1-42 [?]) *ṅīṣ* would have to come, by *vāto guṇavacanāt* (वा तो गुणवचनात्, Pā. 4-1-44 [?]) the restriction to *ut* [a stem ending in *u*] continues, and it does not come; as it is lengthened, there is no *ṅīṣ* here. By *aci śnudhātubhruvāṃ…* (अचि श्नुधातुभ्रुवां…, Pā. 6-4-77 [?]), since *jas* follows, the *uvaṅ* replacement.
+*santi* — root *as bhuvi*; *laṭ*, third person plural; by *śnasor allopaḥ* (श्नसोरल्लोपः, Pā. 6-4-111 [?]) the *a* of the root *as* is elided; since *yāḥ* ("which") in the earlier part is related, the *nighāta* of the finite verb does not occur; by the suffix accent the initial acute.
+*dāśuṣe* — root *ḍudāñ dāne*; *kvasu*, as an irregular formation, by *dāśvān sāhvān mīḍhvāṃś ca* (दाश्वान्साह्वान्मीढ्वांश्च, Pā. 6-1-12 [?]); in the dative singular, by *vasoḥ saṃprasāraṇam* (वसोः संप्रसारणम्, Pā. 6-4-131 [?]) *saṃprasāraṇa*; by *saṃprasāraṇāc ca* (संप्रसारणाच्च) the preceding form; by *śāsivasighasīnāṃ ca* (शासिवसिघसीनां च, Pā. 8-3-60 [?]) the *ṣatva* of the *s* of *vasu*: *dāśuṣe*.
+*avitā* — root *av rakṣaṇe*; *tṛc* in the agent sense; by *ārdhadhātukasyeḍ valādeḥ* (आर्धधातुकस्येड्वलादेः) the augment *iṭ*: *avitṛ*; the nominative singular, *su* following: an *-an-* replacement [the print names it *anaṅ*/*ānaṅ*, read doubtfully [?]]; by *aptṛntṛcsvasṛ…* (अप्तृन्तृच्स्वसृ…, the sūtra begins thus; the number not legible [?]) the lengthening of the penultimate; *su*-elision; *n*-elision; by *cit* (चितः, Pā. 6-1-163 [?]) the final syllable takes the acute. ‖ 9 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.10)**
+
+> इमं यज्ञमिदं वचो जुजुषाण उपागहि ।
+> सोम त्वं नो वृधे भव ॥ १० ॥
+
+*imaṃ yajñam idaṃ vaco jujuṣāṇa upāgahi | soma tvaṃ no vṛdhe bhava ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.10)**
+
+> इमम् । यज्ञम् । इदम् । वचः । जुजुषाणः । उपऽआगहि ।
+> सोम । त्वम् । नः । वृधे । भव ॥ १० ॥
+
+*imam | yajñam | idam | vacaḥ | jujuṣāṇaḥ | upa-āgahi | soma | tvam | naḥ | vṛdhe | bhava ‖ 10 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–358 done (PDF 16–373) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.9 complete; Rik 91.10 Saṃhitā and Pada done at the foot of p. 358. Next: printed p. 359 (PDF 374) — the Sāyaṇa-bhāṣya of 91.10. Open flags: 91.9 (pp. 356–358): Āśvalāyana numerals 4-4, 2-9, 10-6 [?]; Pāṇini numerals on pp. 356 and 358 (4-1-42, 4-1-44, 6-4-77, 6-4-111, 6-1-12, 6-4-131, 8-3-60, 6-1-163, 6-1-198) [?]; the *-an-* replacement in *avitā* and the sūtra *aptṛntṛcsvasṛ…* number doubtful; Ṛgveda numerals of the three *yatra* citations (9-113-7, 10, 11) and of the Nirukta/*ā tvā rathaṃ* citation (the print cuts it short) [?]; the print's *māmamṛtaṃ* in the second and third citations [?]; the range "9-113-[?] to [?]" unreadable; 91.8 (pp. 353–355): Āśvalāyana citation *svastyayanyāṃ rakṣitevaṃtāvagne…* partly read [?]; Ā. 3-10 [?]; Ṛgveda numeral of *vṛṇīmahe sakhyāya* [?]; Pāṇini numerals on pp. 354–355 [?]; case-name of *tvāvataḥ* doubtful; the Saṃhitā *rakṣā* vs Pada *rakṣa*; 91.7 (pp. 350–352): bhāṣya clause *vapur upabhogasamarthaṃ* doubtful [?]; the *tumarthe sesenase…* rule partly read [?]; Pāṇini numerals on p. 352 [?]; Āśvalāyana numeral 2-10 [?]; 6-2-140 on p. 350 [?]; 91.6 (pp. 348–349): numerals [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted [?]; Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini numeral 8-1-30 [?]; 91.5 (pp. 345–346): numerals [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; the *ūḍidaṃ padādi* sūtra number on p. 343 not legible; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; numerals of 91.3 (pp. 335–337) and 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
