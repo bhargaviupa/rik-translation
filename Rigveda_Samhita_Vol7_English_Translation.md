@@ -11578,6 +11578,87 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–406 done (PDF 16–421) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): introduction, Anuvāda, heading and Rik 92.1 done through the grammar page, which breaks at the foot of p. 406 in the middle of *niṣkṛṇvānāḥ* ("…since it is *it*, —"); to be continued from the head of p. 407. Next: printed p. 407 (PDF 422). "
-"Open flags (Sūkta 92): the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata* (the bhāṣya's gloss *akṛṣata* and the Nirukta quotation *ketum akṛṣata* as printed); the Nirukta numeral 12-7 and 3-9 [?]; the Ṛgveda numeral 1-124-5 [?]; the reference 'Ṛg. Saṃ. Part [5?], pp. 32–33' as printed [?]; the grammar page's *ātmanepadeṣv anataḥ*, Pāṇini 2-4-80, 7-1-5, 3-1-80 [?]; the bhāṣya's *vo 'ṣasaḥ* and the Nirukta quotation's *prajñānam e* read from a clotted print [?]. "
+### Page 407 (PDF 422)
+
+*(Running head left: "A. 1 A. 6 Va. 24 [?]"; centre: "Ṛgvedasaṃhitā"; right: 407.)*
+
+*Vyākaraṇa-prakriyā of Rik 92.1, concluded (grammar page, noted briefly):*
+
+[*niṣkṛṇvānāḥ*, continued —] "…since it is *it*, by *idito num dhātoḥ* (इदितो नुम् धातोः, Pā. 7-1-58 [?]) the augment *num*; *u* is replaced by *v* (*yaṇ*): *kṛṇvāna*. The visarga of *niḥ* before the *k* of the next word takes *ṣatva* by *idudupadhasya cāpratyayasya* (Pā. 8-3-41 [?]). Since *cānaś* is *cit*, by *cit* (चितः, Pā. 6-1-163 [?]) the word *kṛṇvāna* takes the final-acute. Since it forms a *gati*-compound with *nir*, by *gatikārakopapadāt kṛt* the *kṛdanta* final member keeps its natural accent."
+*yanti* — root *iṇ gatau*; *laṭ*, third person plural; *anta* for *jhi*; by *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [?]) the *luk* of *śap*; by *iṇo yaṇ* (इणो यण्, Pā. 6-4-81 [?]) the *yaṇ* for the *i* of the root; since a finite verb follows a word, the *nighāta* accent. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.2)** *(Jagatī)*
+
+> उदपप्तन्नरुणा भानवो वृथा स्वायुजो अरुषीर्गा अयुक्षत ।
+> अक्रन्नुषासो वयुनानि पूर्वथा रुशन्तं भानुमरुषीरशिश्रयुः ॥ २ ॥
+
+*udapaptann aruṇā bhānavo vṛthā svāyujo aruṣīr gā ayukṣata | akrann uṣāso vayunāni pūrvathā ruśantaṃ bhānum aruṣīr aśiśrayuḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.2)**
+
+> उत् । अपप्तन् । अरुणाः । भानवः । वृथा । सुऽआयुजः । अरुषीः । गाः । अयुक्षत ।
+> अक्रन् । उषसः । वयुनानि । पूर्वऽथा । रुशन्तम् । भानुम् । अरुषीः । अशिश्रयुः ॥ २ ॥
+
+*ut | apaptan | aruṇāḥ | bhānavaḥ | vṛthā | su-āyujaḥ | aruṣīḥ | gāḥ | ayukṣata | akran | uṣasaḥ | vayunāni | pūrva-thā | ruśantam | bhānum | aruṣīḥ | aśiśrayuḥ ‖ 2 ‖*
+
+(The Saṃhitā prints *uṣāsaḥ*, the Pada *uṣasaḥ*. Accent marks not reproduced.)
+
+---
+
+### Page 408 (PDF 423)
+
+*(Running head: left "408", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.2)**
+
+> अरुणा आरोचमाना भानव उषसो दीप्तयो वृथानायासेन स्वयमेवोदपप्तन् । उदगमन् । तदनन्तरमुषसश्च स्वायुजः सुखेन रथे आयोक्तुं शक्या अरुषीः शुभ्रवर्णा गाः पूर्वमुत्थितान् रश्मीन् ईदृशीः स्ववाहनभूताश्चतुर्हृदीर्गा [clotted [?]] एवायुक्षत । स्वरथेऽयोजयन् । उक्तं च । अरुणो गावः उषसामिति । एवं गोभिर्युक्तं रथमारुह्योषसः पूर्वथा पूर्वेष्वतीतेष्वहःस्विव [reading doubtful [?]] वयुनानि सर्वेषां प्राणिनां ज्ञानान्यक्रन् । अकार्षुः । उषःकाले जाते हि सर्वे प्राणिनो ज्ञानयुक्ता भवन्ति । तदनन्तरमरुषीरारोचमानास्ता उषसो रुशन्तं । रुशदिति वर्णनाम रोचतेर्ज्वलतिकर्मणः । नि. २-२० [?] इति यास्कः । शुभ्रवर्णं भानुं । सूर्यमशिश्रयुः । आसेवन्ते । तेन सहैकीभवन्तीत्यर्थः ॥ अपप्तन् । पत्ऌ गतौ । लुङि ऌदित्वात् च्लेरङादेशः । पतः पुम् । पा. ७-४-१९ [?] इति धातोः पुमागमः । अक्रन् । मन्त्रे घसेत्यादिना च्लेर्लुक् । पूर्वथा । प्रत्नपूर्वविश्वेमात्थाल् छन्दसि । पा. ५-३-१११ [?] इवार्थे थाल्प्रत्ययः । अशिश्रयुः । श्रिञ् सेवायां । बहुलं छन्दसीति शपः श्लुः । सिजभ्यस्तविदिभ्यश्चेति झेर्जुस् । जुसि च । पा. ७-३-८३ [?] इति गुणः ॥
+
+*aruṇā arocamānā bhānava uṣaso dīptayo vṛthānāyāsena svayam evodapaptan | udagaman | tadanantaram uṣasaś ca svāyujaḥ sukhena rathe āyoktuṃ śakyā aruṣīḥ śubhravarṇā gāḥ pūrvam utthitān raśmīn īdṛśīḥ svavāhanabhūtāś caturhṛdīrgā [clotted [?]] evāyukṣata | svarathe 'yojayan | uktaṃ ca | aruṇo gāvaḥ uṣasām iti | evaṃ gobhir yuktaṃ ratham āruhyoṣasaḥ pūrvathā pūrveṣv atīteṣv ahaḥsv iva [reading doubtful [?]] vayunāni sarveṣāṃ prāṇināṃ jñānāny akran | akārṣuḥ | uṣaḥkāle jāte hi sarve prāṇino jñānayuktā bhavanti | tadanantaram aruṣīr arocamānās tā uṣaso ruśantaṃ | ruśad iti varṇanāma rocater jvalatikarmaṇaḥ | Ni. 2-20 [?] iti yāskaḥ | śubhravarṇaṃ bhānuṃ | sūryam aśiśrayuḥ | āsevante | tena sahaikībhavantīty arthaḥ ‖ apaptan | patḷ gatau | luṅi ḷdittvāc cler aṅādeśaḥ | pataḥ pum | Pā. 7-4-19 [?] iti dhātoḥ pumāgamaḥ | akran | mantre ghasety ādinā cler luk | pūrvathā | pratnapūrvaviśvemāt thāl chandasi | Pā. 5-3-111 [?] ivārthe thālpratyayaḥ | aśiśrayuḥ | śriñ sevāyāṃ | bahulaṃ chandasīti śapaḥ śluḥ | sijabhyastavidibhyaś ceti jher jus | jusi ca | Pā. 7-3-83 [?] iti guṇaḥ ‖*
+
+*Translation:* "The *aruṇāḥ*, shining *bhānavaḥ*, the beams of the Uṣases, *vṛthā*, without effort, of themselves, *ut apaptan*, rose up. Thereafter the Uṣases *svāyujaḥ*, easily yoked to the chariot, *aruṣīḥ gāḥ*, bright-coloured, the previously risen rays — such, being their own vehicles [the middle words clotted [?]] — *ayukṣata*, yoked to their own chariot. It is said, '*aruṇo gāvaḥ uṣasām*' ['the ruddy cows of the Uṣases']. Having thus mounted the chariot yoked with cows, the Uṣases *pūrvathā*, as on the days gone by [reading doubtful], *vayunāni akran*, produced knowledge in all living beings: for when the time of dawn has come, all beings become possessed of knowledge. Thereafter those Uṣases, *aruṣīḥ*, shining, *aśiśrayuḥ*, served the *ruśantam*, white-bright, *bhānum*, the sun: they become one with him. '*ruśat*' is a name for colour, from *rocate*, the root of shining and blazing', says Yāska (Ni. 2-20 [?])."
+
+*Grammar tail:* *apaptan* — root *patḷ gatau*; in the *luṅ*, since the root is *ḷdit*, *aṅ* replaces *cli*; by *pataḥ pum* (Pā. 7-4-19 [?]) the augment *pum* for the root. *akran* — the *luk* of *cli* by *mantre ghasa…*. *pūrvathā* — by *pratnapūrvaviśvemāt thāl chandasi* (Pā. 5-3-111 [?]) the suffix *thāl* in the sense of 'like'. *aśiśrayuḥ* — root *śriñ sevāyām*; *ślu* for *śap* by *bahulaṃ chandasi*; *jus* for *jhi* by *sijabhyastavidibhyaś ca*; by *jusi ca* (Pā. 7-3-83 [?]) the guṇa.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.2)** *(Kannada)*
+
+*aruṇāḥ* — golden-red; *bhānavaḥ* — (of the Uṣas deities) radiances; *vṛthā* — without effort; *ut apaptan* — rose upward. (Thereafter) *uṣasaḥ* — the Uṣas deities; *svāyujaḥ* — fit to be easily joined; *aruṣīḥ* — golden-red; *gāḥ* — (their earlier-manifested) rays, or (their chariot's) cows; *ayukṣata* — yoked (to their chariot); (and) *pūrvathā* — as was done on earlier mornings; *vayunāni* — to all beings, consciousness; *akran* — they produced; (afterwards) *aruṣīḥ* — the golden Uṣas deities; *ruśantam* — of auspicious colour; *bhānum* — the sun; *aśiśrayuḥ* — served (joined with him).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.2** *(Kannada)*
+
+"The golden-red radiances of the Uṣas deities rose upward without any effort. Thereafter the Uṣas deities yoked to their chariot their rays or cows, which are easily joined and are of the red of the twilight. And, as they did on the days of earlier mornings, they produced consciousness in all beings. Afterwards, with their own radiance, they united with the sun of auspicious colour."
+
+---
+
+### Page 409 (PDF 424)
+
+*(Running head left: "A. 1 A. 6 Va. 25 [?]"; centre: "Ṛgvedasaṃhitā"; right: 409.)*
+
+**English Translation** *(printed in English in the source; Rik 92.2)*
+
+"The purple rays fly up quickly ; easy to be yoked, the cows are harnessed ; as of yore, the dieties [sic] of the dawn have restored consciousness; and bright-rayed have attended upon the glorious Sun." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.2)** *(Kannada)*
+
+***aruṇaḥ*** — *aruṇa ārocanaḥ* (Ni. 5-20 [?]) | "That is, 'golden-red, attractive'."
+
+***vṛthā*** — *vṛthā iti anāyāsavacanaḥ* | "So Sāyaṇa says in general while explaining such Ṛks as Ṛ. Saṃ. 1-[?]-4 [?] and 1-[?]-2 [?]. Here too it may be said that, without effort, that is, out of their own pleasure, they proceeded."
+
+***svāyujaḥ*** — *sukhena rathe āyoktuṃ śakyāḥ* | "That is, they can be easily joined and yoked in the chariot."
+
+***aruṣīḥ gāḥ*** — *aruṣīr ārocanāt* (Ni. 12-7 [?]), and '*aruṇo gāva uṣasām*' (Ni. 2-[?] [?]), '*aruṇa ārocanaḥ*' (Ni. 5-20 [?]) — "the author of the Nirukta explains. The meaning of this is: the rays that illumine the vehicles of the Uṣases; or, the red cows."
+
+***vayunāni*** — "*ketaḥ, ketuḥ* (Ni. 3-9 [?]) and the like being read among the names of knowledge (*prajñā*), the word means 'knowledge'. The intention is that by producing light they produced awakening, consciousness, in all beings."
+
+***ruśantam*** — *ruśad iti varṇanāma rocater jvalatikarmaṇaḥ* (Ni. 2-20 [?]) | "That is, from the root *ruc* which gives the sense of shining, the word *ruśat* is formed, giving the sense of 'bright colour': so the author of the Nirukta explains. It means 'of auspicious colour'."
+
+***bhānum āśiśrayuḥ*** — "They served the sun. They became one with him: that is, before sunrise they spread their own lustre, and after sunrise they united with his lustre: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.2)** *(Kannada; grammar page, noted briefly)*
+
+*apaptan* — root *patḷ gatau*; *luṅ*, third person plural, *jhi* as the suffix; by *jhonta* (झोऽन्तः, Pā. 7-1-3 [?]) the replacement *anta*; by *itaś ca* the *i* is elided; since the root is *ḷdit* —
+
+---
+
+**Progress note:** Printed pp. 1–409 done (PDF 16–424) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1 complete; Rik 92.2 done through the Special Topics and the first lines of the Vyākaraṇa-prakriyā (*apaptan*), which breaks at the foot of p. 409 ("…since the root is *ḷdit* —"), to be continued from the head of p. 410. Next: printed p. 410 (PDF 425). "
+"Open flags (Sūkta 92): the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; the Nirukta numerals 12-7, 3-9, 2-20, 5-20 [?]; the Ṛgveda numerals 1-124-5 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini numerals 2-4-80, 7-1-5, 3-1-80, 7-1-58, 8-3-41, 6-1-163, 2-4-72, 6-4-81, 7-4-19, 5-3-111, 7-3-83, 7-1-3 [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ* (print 'uṣasko…'), *caturhṛdīrgā…* and *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; Saṃhitā/Pada difference uṣāsaḥ/uṣasaḥ in 92.2. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts: 91.4 first citation garbled; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, *māmamṛtaṃ*; 91.14 *na rarāṇa na rame*; 91.17 English translation's last line smudged; 91.18 p. 381 last line blotted, 'uices' [sic]; 91.19–91.23 clotted bhāṣya clauses as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
