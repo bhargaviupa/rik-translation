@@ -12319,6 +12319,113 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–433 done (PDF 16–448), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.8 complete (92.3 minus the missing p. 413); Rik 92.9 Saṃhitā at the foot of p. 433. Next: printed p. 434 (PDF 449) — the Pada of 92.9. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–432 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–433 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6, 92.7 and 92.8 (*vājaprasūtā…*, the *dāsapravargam*/*yaśasam* derivations); Special Topics of 92.7 and 92.8: the *aśvabudhyān* first meaning, the *sudaṃsā* citation text, Skandasvāmin's *daṃsa*/*śravas* sentence and the *vājaprasūtā* Sāyaṇa sentence clotted [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6); the 'Part [5?], pp. 32–33' reference [?]. "
+### Page 434 (PDF 449)
+
+*(Running head: left "434", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.9)**
+
+> विश्वानि । देवी । भुवना । अभिऽचक्ष्य । प्रतीची । चक्षुः । उर्विया । वि । भाति ।
+> विश्वम् । जीवम् । चरसे । बोधयन्ती । विश्वस्य । वाचम् । अविदत् । मनायोः ॥ ९ ॥
+
+*viśvāni | devī | bhuvanā | abhi-cakṣya | pratīcī | cakṣuḥ | urviyā | vi | bhāti | viśvam | jīvam | carase | bodhayantī | viśvasya | vācam | avidat | manāyoḥ ‖ 9 ‖*
+
+(The Saṃhitā's *avidan manāyoḥ* is divided in the Pada as *avidat | manāyoḥ*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.9)**
+
+> देवी द्योतमानोषा विश्वानि सर्वाणि भुवना भुवनानि भूतजातान्यभिचक्ष्याभिप्रकाश्य प्रकाशवन्ति कृत्वानन्तरं प्रतीची प्रत्यङ्मुखी सती चक्षुः प्रकाशकेन तेजसोर्विया उर्वी विस्तीर्णा सती वि भाति । प्रकाशते । अपि च विश्वं जीवं सर्वं प्राणिजातं चरसे चरणाय स्वस्वव्यापारेषु प्रवर्तनाय बोधयन्ती निद्रातः सकाशादुद्बोधयन्त्युषा विश्वस्य सर्वस्य मनायोर्मनसा युक्तस्य वाग्व्यवहारसमर्थस्य प्राणिजातस्य यो वागस्ति तां वाचमविदत् । अलभत । अत एवोषसः सूनृतावतीति संज्ञोपपन्ना भवति ॥ अभिचक्ष्य । चक्षिङ् व्यक्तायां वाचि । अयं प्रकाशनार्थोऽपि । समासेऽनञ्पूर्वे । पा. ७-१-३७ [?] इति क्त्वाप्रत्ययस्य ल्यबादेशः । प्रतीची । प्रतिपूर्वादञ्चतेर्ऋत्विग्दधृगित्यादिना क्विन् । अनिदितामिति नलोपः । अञ्चतेश्चोपसंख्यानमिति ङीप् । अच इत्यकारलोपे चाविति दीर्घत्वं । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वं । उर्विया । उर्वीशब्दादुत्तरस्य सोरीयादियाजीकारादीनां चोपसंख्यानं । पा. ७-१-३९ [?] इति डियाजादेशः । आदेशसामर्थ्यात्सस्य लोपो न भवति । मनायोः । मन आत्मन इच्छति मनस्यति । सुप आत्मनः क्यच् । क्याच्छन्दसीत्युः । वर्णव्यापत्त्या सकार आकारः । यद्वा । कर्तुः क्यङ् सलोपश्चेति क्यङ् सकारलोपश्च । अकृत्सार्वधातुकयोरिति दीर्घः ॥
+
+*devī dyotamānoṣā viśvāni sarvāṇi bhuvanā bhuvanāni bhūtajātāny abhicakṣyābhiprakāśya prakāśavanti kṛtvānantaraṃ pratīcī pratyaṅmukhī satī cakṣuḥ prakāśakena tejasorviyā urvī vistīrṇā satī vi bhāti | prakāśate | api ca viśvaṃ jīvaṃ sarvaṃ prāṇijātaṃ carase caraṇāya svasvavyāpāreṣu pravartanāya bodhayantī nidrātaḥ sakāśād udbodhayanty uṣā viśvasya sarvasya manāyor manasā yuktasya vāgvyavahārasamarthasya prāṇijātasya yo vāg asti tāṃ vācam avidat | alabhata | ata evoṣasaḥ sūnṛtāvatīti saṃjñopapannā bhavati ‖ abhicakṣya | cakṣiṅ vyaktāyāṃ vāci | ayaṃ prakāśanārtho 'pi | samāse 'nañpūrve | Pā. 7-1-37 [?] iti ktvāpratyayasya lyabādeśaḥ | pratīcī | pratipūrvād añcater ṛtvigdadhṛg ity ādinā kvin | aniditām iti nalopaḥ | añcateś copasaṃkhyānam iti ṅīp | aca ity akāralope cāv iti dīrghatvaṃ | udāttanivṛttisvareṇa ṅīpa udāttatvaṃ | urviyā | urvīśabdād uttarasya sor īyādiyājīkārādīnāṃ copasaṃkhyānaṃ | Pā. 7-1-39 [?] iti ḍiyājādeśaḥ | ādeśasāmarthyāt sasya lopo na bhavati | manāyoḥ | mana ātmana icchati manasyati | supa ātmanaḥ kyac | kyāc chandasīty uḥ | varṇavyāpattyā sakāra ākāraḥ | yadvā | kartuḥ kyaṅ salopaś ceti kyaṅ sakāralopaś ca | akṛtsārvadhātukayor iti dīrghaḥ ‖*
+
+*Translation:* "The *devī*, the shining Uṣas, having illumined *viśvāni bhuvanā*, all the beings of the world, and made them luminous, thereafter, turned towards the west, *urviyā*, wide, spread out, with light that makes *cakṣuḥ* appear [i.e. with her illuminating radiance], *vi bhāti*, shines. And *viśvaṃ jīvam*, all living things, *carase*, to go about, to engage in their own undertakings, *bodhayantī*, rousing them from sleep, the Uṣas — *viśvasya manāyoḥ* — of all beings possessed of mind and able to speak, *avidat*, obtains, hears the *vācam*, the speech that they have. Hence the Uṣas is rightly called *sūnṛtāvatī* [possessing true, pleasant speech]."
+
+*Grammar tail (partly clotted; characterized):* *abhicakṣya* — root *cakṣiṅ vyaktāyāṃ vāci*; this has also the sense 'to illumine'; in a compound not beginning with *nañ*, *lyap* replaces *ktvā* (Pā. 7-1-37 [?]). *pratīcī* — from *añc* with *prati*; the suffix *kvin* by *ṛtvigdadhṛk…*; the *n* is elided by *aniditām…*; *ṅīp* by the *upasaṃkhyāna* for *añcati*; the elision of the *a*, and the lengthening by *cāu*; the *ṅīp* takes the acute by the *udāttanivṛtti* accent. *urviyā* — after the word *urvī*, *su* … by the *upasaṃkhyāna* on *īyādi*, *yāj*… (Pā. 7-1-39 [?]) the replacement *ḍiyā*; because of the replacement's force the *s* is not elided. *manāyoḥ* — "he wishes *manas* for himself": *manasyati*; *kyac* by *supa ātmanaḥ kyac*; *u* by *kyāc chandasi*; *s* → *ā* by a change of letter. Or *kyaṅ* in the agent sense and elision of *s*; the lengthening by *akṛtsārvadhātukayoḥ*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.9)** *(Kannada; begins on p. 434)*
+
+*devī* — the radiant Uṣas deity; *viśvāni bhuvanā* — all the beings; *abhicakṣya* — making them luminous; *pratīcī* — facing the west; *cakṣuḥ* — (her own) with radiance; *urviyā* — spreading widely; *vi bhāti* — shines; *viśvaṃ jīvam* — all living things; *carase* — in order to engage (in their dealings); *bodhayantī* — (from sleep) awakening —
+
+---
+
+### Page 435 (PDF 450)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 435.)*
+
+*(the Pratipadārtha continues:)* "— [*bodhayantī*,] rousing; *viśvasya* — of all (and); *manāyoḥ* — beings endowed with consciousness; *vācam* — speech in the form of sound; *avidat* — obtains (hears)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.9** *(Kannada)*
+
+"The radiant Uṣas deity, having illuminated all the beings of the world, afterwards, facing the west, spreads with her radiance and shines. Rousing all beings from sleep so that they engage in their dealings, she hears also the speech, in the form of sound, of all beings endowed with consciousness."
+
+**English Translation** *(printed in English in the source; Rik 92.9)*
+
+"The divine Ushas having lighted up the whole world, spreads expanding with her radiance towards the west, arousing all living creatures to their labours ; she hears the speach [sic] of all endowed with thought." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.9)** *(Kannada)*
+
+***abhicakṣya*** — *darśayitvā* | "That is, 'having illumined'. In the Ṛksaṃhitā the root *cakṣ* is generally used in the sense 'look' or 'appear'. When it is used joined with the preposition *abhi*, these two meanings are chiefly seen. For example —"
+
+> आपो हि ष्ठा मयोभुवस्ता न ऊर्जे दधातन । महे रणाय चक्षसे ।
+
+*āpo hi ṣṭhā mayobhuvas tā na ūrje dadhātana | mahe raṇāya cakṣase |*  (Ṛ. Saṃ. 10-9-1 [?])
+
+> मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं घृतवज्जुहोत ।
+
+*mitraḥ kṛṣṭīr animiṣābhi caṣṭe mitrāya havyaṃ ghṛtavaj juhota |*  (Ṛ. Saṃ. 3-59-1 [?])
+
+*Gloss, mine and tentative:* "You waters are the bringers of happiness: set us in vigour, for great delight and for sight. — Mitra, with unwinking [eye], looks upon the peoples: offer to Mitra the ghee-rich oblation."
+
+"In these Ṛks one should compare the word *cakṣase*, without the preposition, with the word *abhicaṣṭe*, which has the preposition. *cakṣase* is explained '*darśanāya*' (Ni. 7-[?] [?]), 'for seeing'; *abhicaṣṭe* '*abhipaśyati*' (Ni. 10-22 [?]), '*sarvataḥ paśyati*': 'he looks on all sides, well'."
+
+"In many contexts the sense 'appear, illumine' is also found for these same words. For example,"
+
+---
+
+### Page 436 (PDF 451)
+
+*(Running head: left "436" [blotted], centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92". The scan of this page is poor: the running head and several lines are blotted.)*
+
+> येन चष्टे वरुणो मित्रो अर्यमा येन नासत्या भगः ।
+
+*yena caṣṭe varuṇo mitro aryamā yena nāsatyā bhagaḥ |*  (Ṛ. Saṃ. 8-18-13 [?])
+
+> महत्ते विष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् ।
+
+*mahat te viṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum |*  (Ṛ. Saṃ. 8-4-2 [?]; the second citation's text is read with doubt from the blotted print [?])
+
+*Gloss, mine and tentative:* "By which Varuṇa, Mitra and Aryaman shine, by which the Nāsatyas and Bhaga; — great is your visible deed, O Viṣṇu, [may we see Turvaśa and Yadu]."
+
+"The two verbs *caṣṭe* and *abhicakṣyam* in these Ṛks too mean *prakāśayati, prakāśyam*: that is, 'to make manifest, to appear'. Likewise the word *abhicakṣya* in the Ṛk now in hand means 'having illumined all the beings'."
+
+***urviyā*** — *uruśabdāt tṛtīyaikavacane urviyā iti rūpam | uruṇā* [as read, clotted [?]] | "From the word *uru*, when the singular of the third case [instrumental] is used, the form is *urviyā*: that is, 'widely'. It is used in the context 'pervade, spread widely everywhere'. For example —"
+
+> वृश्चस्तीर्विया वि क्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
+
+*vṛścas tīrviyā vi krayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-100-3 [?]; the Saṃhitā text is read from a blotted print and is doubtful [?])
+
+"— as used in such Ṛks, here too the meaning is: 'may the Uṣas shine, pervading and spreading widely'."
+
+***bodhayantī*** — *suptān uttheśayantī* [as read [?]] | "Rousing those who are asleep and making them rise, she makes all resume their own works: this is the meaning. The idea that, after the night, the Uṣas wakes all the herds of living things and fills them with consciousness is expressed in the delightful language of many Ṛks; for example —"
+
+> अद्मसन्न ससतो बोधयन्ती शश्वत्तमागात्पुनरेयुषीणाम् ।
+
+*admasan na sasato bodhayantī śaśvattamāgāt punar eyuṣīṇām |*  (Ṛ. Saṃ. 1-113-8 [?]; text as read [?])
+
+> व्युच्छन्ती जीवमुदीरयन्त्युषा मृतं कं चन बोधयन्ती ।
+
+*vy ucchantī jīvam udīrayanty uṣā mṛtaṃ kaṃ cana bodhayantī |*  (Ṛ. Saṃ. 1-113-8 [?])
+
+> व्यु षा आवः पथ्या जनानां पञ्च क्षितीर्मानुषीर्बोधयन्ती ।
+
+*vy u ṣā āvaḥ pathyā janānāṃ pañca kṣitīr mānuṣīr bodhayantī |*  (Ṛ. Saṃ. 7-79-1 [?])
+
+*Gloss, mine and tentative (for the three):* "…waking the sleepers, as one who has been absent comes back again and again. — Dawning, rousing the living, the Uṣas awakens even the one who seems dead. — The Uṣas opened up the paths of the people, awakening the five human tribes."
+
+"— in many places such as these, the description of the benefit that comes to the world from the Uṣas has been given beautifully in the poetic language of the Ṛksaṃhitā."
+
+---
+
+**Progress note:** Printed pp. 1–436 done (PDF 16–451), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.8 complete (92.3 minus the missing p. 413); Rik 92.9 done through the Special Topics for *abhicakṣya*, *urviyā*, *bodhayantī* (the Special Topics may continue on p. 437 with *manāyoḥ*, *vācam*, etc.; the grammar page follows). Next: printed p. 437 (PDF 452). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (blotted running head, several lines unclear: the citations on that page are read with extra doubt); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–436 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–434 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6, 92.7, 92.8 and 92.9 (the *urviyā* *upasaṃkhyāna* rule and its Pāṇini number); the Special Topics of 92.7, 92.8 and 92.9 clotted in the places named on the pages; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9); the 'Part [5?], pp. 32–33' reference [?]. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
