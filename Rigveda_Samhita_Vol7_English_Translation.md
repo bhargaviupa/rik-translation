@@ -7952,4 +7952,107 @@ Closing of Rik 89.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–287 done (PDF 16–302) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.6 complete**; next: **Rik 89.7** (Jagatī) at printed p. 288 (PDF 303), then 89.8–89.10 (Triṣṭubh; the tenth is *aditir dyaur…*). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 288 (PDF 303)
+
+*(Running head: "288 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.7)** *(Jagatī; Viśvedevas; accents not reproduced)*
+
+> पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विदथेषु जग्मयः ।
+> अग्निजिह्वा मनवः सूरचक्षसो विश्वे नो देवा अवसा गमन्निह ॥ ७ ॥
+
+*pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidatheṣu jagmayaḥ | agnijihvā manavaḥ sūracakṣaso viśve no devā avasā gamann iha ‖ 7 ‖*
+
+*Gloss, mine and tentative:* "The Maruts with spotted steeds, sons of Pṛśni, going in splendour, frequenting the sacrifices, tongued with Agni, thoughtful, with eyes like the sun's — may all the gods come here to us with help."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.7)**
+
+> पृषत्ऽअश्वाः । मरुतः । पृश्निऽमातरः । शुभंऽयावानः । विदथेषु । जग्मयः ।
+> अग्निऽजिह्वाः । मनवः । सूरऽचक्षसः । विश्वे । नः । देवाः । अवसा । आ । गमन् । इह ॥ ७ ॥
+
+*pṛṣat-aśvāḥ | marutaḥ | pṛśni-mātaraḥ | śubhaṃ-yāvānaḥ | vidatheṣu | jagmayaḥ | agni-jihvāḥ | manavaḥ | sūra-cakṣasaḥ | viśve | naḥ | devāḥ | avasā | ā | gaman | iha ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.7)**
+
+> पृषदश्वाः । पृषद्भिः श्वेतबिन्दुभिर्युक्ता अश्वा येषां ते तथोक्ताः । पृश्निमातरः । पृश्निर्नानावर्णा गौर्माता येषां । शुभंयावानः । शुभं यान्ति गच्छन्तीति शुभंयावानः । शोभनगतय इत्यर्थः । विदथेषु यज्ञेषु जग्मयो गन्तारः । अग्निजिह्वा अग्नेर्जिह्वायां वर्तमानाः । सर्वे हि देवा हविःस्वीकरणायाग्नेर्जिह्वायां वर्तन्ते । तात्स्थ्यात्ताच्छब्द्यम् । मनवः सर्वस्य मन्तारः । सूरचक्षसः सूर्यप्रकाश इव चक्षः प्रकाशो येषां ते एवंभूता मरुतो मरुत्संज्ञका विश्वे देवाः सर्वे देवा नोऽस्माकमिहास्मिन्कर्मण्यवसा रक्षणेन सहा गमन् । आगच्छन्तु ॥ शुभंयावानः । या प्रापणे । आतो मनिन्क्वनिब्वनिपश्चेति वनिप् । तत्पुरुषे कृति बहुलमिति बहुलवचनाद्द्वितीयाया अलुक् । गमन् । गमेः प्रार्थनायां लेट्यडागमः । इतश्च लोप इतीकारलोपः । बहुलं छन्दसीति शपो लुक् ॥
+
+*pṛṣadaśvāḥ | pṛṣadbhiḥ śvetabindubhir yuktā aśvā yeṣāṃ te tathoktāḥ | pṛśnimātaraḥ | pṛśnir nānāvarṇā gaur mātā yeṣāṃ | śubhaṃyāvānaḥ | śubhaṃ yānti gacchantīti śubhaṃyāvānaḥ | śobhanagataya ity arthaḥ | vidatheṣu yajñeṣu jagmayo gantāraḥ | agnijihvā agner jihvāyāṃ vartamānāḥ | sarve hi devā haviḥsvīkaraṇāyāgner jihvāyāṃ vartante | tātsthyāt tācchabdyam | manavaḥ sarvasya mantāraḥ | sūracakṣasaḥ sūryaprakāśa iva cakṣaḥ prakāśo yeṣāṃ te evaṃbhūtā maruto marutsaṃjñakā viśve devāḥ sarve devā no 'smākam ihāsmin karmaṇy avasā rakṣaṇena sahā gaman | āgacchantu ‖ śubhaṃyāvānaḥ | yā prāpaṇe | āto maninkvanibvanipaś ceti vanip | tatpuruṣe kṛti bahulam iti bahulavacanād dvitīyāyā aluk | gaman | gameḥ prārthanāyāṃ leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | bahulaṃ chandasīti śapo luk ‖*
+
+*Translation:* "*Pṛṣadaśvāḥ* — those whose horses are spotted does with white spots. *Pṛśnimātaraḥ* — those whose mother is the many-coloured cow Pṛśni. *Śubhaṃyāvānaḥ* — those who go (*yānti*) beautifully, of fine going. *Vidatheṣu jagmayaḥ* — goers to sacrifices. *Agnijihvāḥ* — those who dwell on the tongue of Agni: for all the gods dwell on Agni's tongue to receive the oblation; by their abiding there the name [of the place] is given to them. *Manavaḥ* — thinkers of everything; *sūracakṣasaḥ* — those whose eye (light) is like the shining of the sun. Such Maruts — the Viśvedevas called Maruts, all the gods — may they come here to this rite of ours with help, protection. *Grammar tail, noted briefly:* *śubhaṃyāvānaḥ* — *vanip* after *yā*, the accusative case-ending not elided by the *bahula* rule in the *tatpuruṣa*; *gaman* — *leṭ* of *gam* in prayer, with the augment *aṭ*, loss of *ī*, *śap* elided."
+
+---
+
+### Page 289 (PDF 304)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 289. Foot: printer's signature "19 … Volume 7".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.7)** *(Kannada)*
+
+*pṛṣadaśvāḥ* — having horses (does) marked with spots as their vehicles; *pṛśnimātaraḥ* — those who have Pṛśni (the cow of many colours) as mother; *śubhaṃyāvānaḥ* — of excellent going; *vidatheṣu* — in sacrifices; *jagmayaḥ* — moving about; *agnijihvāḥ* — those who are on the tongue of Agni; *manavaḥ* — those who attend to all with thought; *sūracakṣasaḥ* — resplendent like the sun; *marutaḥ* — the Maruts; *viśve devāḥ* — all the gods; *naḥ* — towards us; *iha* — to this place of sacrifice (at the time of sacrifices); *avasā* — with protection; *ā gaman* — may they be gracious.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.7** *(Kannada)*
+
+"May the Maruts, who have spotted does as vehicles, whose mother is Pṛśni, who move about at sacrifices, who are on the tongue of Agni, who attend to everything with thought, and who are resplendent like the sun — and all the gods — be gracious to this place of sacrifice (at the time of this sacrifice) with their protection for us."
+
+**English Translation** *(printed in English in the source)*
+
+"May the Maruts whose horses are spotted deer, who are the sons of Prisni, gracefully moving frequenters of sacrifices, seated on the tongue of Agni regarders of all, and radient [sic] as the Sun, may all the gods come hither for our protection." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.7)**
+
+- **पृषदश्वाः** — *pṛṣatyaḥ aśvā yeṣāṃ te pṛṣadaśvāḥ* — "those whose horses are does with white spots. The vehicles of the Marut deities are called *pṛṣatī*: '*pṛṣatyo marutām*' (Ni. [?-?] [?]) — so the Nirukta says."
+- **पृश्निमातरः** — *pṛśnir nānāvarṇā gaur mātā* — "sons of the cow of many colours; or, as Skandasvāmin says, 'Pṛśni is heaven, she is the mother'. It may be said too that they are sons of the atmosphere. For a detailed meaning of the word *pṛśnimātaraḥ* see Ṛ. Saṃ. Part 3, pp. 179–180."
+- **शुभंयावानः** — *śubhaṃ śobhanaṃ yānti gacchantīti śubhaṃyāvānaḥ* — "of beautiful going. Skandasvāmin: '*śubham ity udakam | tadarthaṃ meghān prati gantāraḥ*' — '*śubham* is water: those who go to the clouds for water' — [so he gives the sense 'going to the clouds, for the sake of water']. *Śubha* means water; since for water — for the purpose of rain — they go to the neighbourhood of the clouds, the Maruts have the name *śubhaṃyāvānaḥ*." *(the sentence runs on to p. 290)*
+
+---
+
+### Page 290 (PDF 305)
+
+*(Running head: "290 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.7, continued from p. 289:*
+
+- **अग्निजिह्वाः** — *agner jihvāyāṃ vartamānāḥ | sarve hi devā haviḥsvīkaraṇāyāgner jihvāyāṃ vartante* — "all the gods are on Agni's tongue for the sake of receiving the oblation: they make homa in the fire so that the oblations offered reach the deities; hence it is the usage to say that the gods are on the tongue of Agni. Skandasvāmin: '*agnau prakṣiptaṃ havir devā aśnanti tenaiṣām agnir jihvāsthānīyaḥ | vakṣyamāṇānāṃ viśveṣāṃ devānām etad viśeṣaṇaṃ na marutām*' — 'the gods eat the oblation put in the fire; so for them Agni is as the tongue. This is an epithet of the Viśvedevas that will be named below, not of the Maruts.' A few Ṛks in which the word *agnijihvāḥ* occurs are given as examples —
+
+> शृण्वन्तु सोमं मरुतः सुदानवोऽग्निजिह्वा ऋतावृधः ॥
+
+*śṛṇvantu somaṃ marutaḥ sudānavo 'gnijihvā ṛtāvṛdhaḥ ‖* (Ṛ. Saṃ. [1-?-?] [?]) — *Gloss, mine and tentative:* "May the bountiful Maruts, the fire-tongued, the strengtheners of Law, hear [drink] the Soma."
+
+> इमं स्तोमं रोदसी प्र ब्रवीम्यृदूदराः शृणवन्नग्निजिह्वाः ॥
+
+*imaṃ stomaṃ rodasī pra bravīmy ṛdūdarāḥ śṛṇavann agnijihvāḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — *Gloss, mine and tentative:* "This praise I proclaim to heaven and earth; may the soft-bellied, fire-tongued ones hear."
+
+> ये अग्निजिह्वा ऋतसाप आसुर्ये मनुं चक्रुरुपरं दसाय ॥
+
+*ye agnijihvā ṛtasāpa āsur ye manuṃ cakrur uparaṃ dasāya ‖* (Ṛ. Saṃ. [6-?-?] [?]) — *Gloss, mine and tentative:* "They who were fire-tongued, bound to the Law, who made Manu [the superior] for the lower one…" *(the second half is read with doubt [?])*
+
+> द्विजन्मानो य ऋतसापः सत्याः स्वर्वन्तो यजता अग्निजिह्वाः ॥
+
+*dvijanmāno ya ṛtasāpaḥ satyāḥ svarvanto yajatā agnijihvāḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — *Gloss, mine and tentative:* "Twice-born, bound to the Law, true, possessed of light, worthy of worship, fire-tongued."
+
+> ये अग्निजिह्वा उत वा यजत्रा आसद्यास्मिन् बर्हिषि मादयध्वम् ॥
+
+*ye agnijihvā uta vā yajatrā āsadyāsmin barhiṣi mādayadhvam ‖* (Ṛ. Saṃ. [?-?-?] [?]) — *Gloss, mine and tentative:* "You who are fire-tongued, or worshipful, sit upon this sacred grass and rejoice."
+
+> बहवः सूरचक्षसोऽग्निजिह्वा ऋतावृधः ॥
+
+*bahavaḥ sūracakṣaso 'gnijihvā ṛtāvṛdhaḥ ‖* (Ṛ. Saṃ. [?-?-?] [?]) — *Gloss, mine and tentative:* "Many, sun-eyed, fire-tongued, strengthening the Law."
+
+> दिवक्षसो अग्निजिह्वा ऋतावृध ऋतस्य योना क्षयथः सम्योकसा ॥
+
+*divakṣaso agnijihvā ṛtāvṛdha ṛtasya yonā kṣayathaḥ samokasā ‖* (Ṛ. Saṃ. [10-?-?] [?]) — *Gloss, mine and tentative:* "Heaven-dwelling, fire-tongued, strengtheners of the Law, you two dwell together in the seat of the Law."
+
+— the word *agnijihvāḥ* is used only in these Ṛks; it occurs nowhere else." *(The seven citations are given as read; all Ṛgveda reference numerals here are small and doubtful [?].)*
+
+- **मनवः** — *mantāraḥ jñātāraḥ* — "those who have knowledge."
+- **सूरचक्षसः** — *sūryasyeva cakṣur darśanaṃ yeṣāṃ te* — "those who have brilliance like the shining of the sun."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.7)** *(grammar page, noted briefly; begins here)*
+
+- **पृषदश्वाः** — *pṛṣadbhiḥ yuktāḥ aśvāḥ yeṣāṃ te pṛṣadaśvāḥ*, a *bahuvrīhi*; by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its base accent. In the same way the accent comes in *pṛśnimātaraḥ*.
+
+*(The grammar page continues on p. 291.)*
+
+---
+
+**Progress note:** Printed pp. 1–290 done (PDF 16–305) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.6 complete**; **Rik 89.7** (Jagatī) done through its Special Topics (with the seven *agnijihvāḥ* citations on p. 290) and the first entry of its grammar page; the rest of the grammar follows on p. 291, then 89.8–89.10 (Triṣṭubh). Next: printed p. 291 (PDF 306). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
