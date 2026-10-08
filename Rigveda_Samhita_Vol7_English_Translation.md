@@ -8853,4 +8853,107 @@ Closing of Rik 90.5: "॥ ५ ॥" (5).
 
 ---
 
-**Progress note:** Printed pp. 1–317 done (PDF 16–332) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.5 complete**; **Rik 90.6** done through its Special Topics and most of its grammar page (ending mid-entry at *oṣadhīḥ*, p. 317); the rest of the grammar continues on p. 318, then 90.7–90.9 (the last, Anuṣṭubh), and the end of Sūkta 90 (about p. 324). Next: printed p. 318 (PDF 333). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 318 (PDF 333)
+
+*(Running head: "318 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.6, concluded from p. 317 (grammar, noted briefly):*
+
+- **ओषधीः** (cont.) — "…by "आतो लोप इटि च" the loss of the *ā* of the root, since an affix beginning with *i* follows [*ki* being *kit*]; the word *oṣadhi*; in the feminine, by "कृदिकारादक्तिनः" (Pā. Sū. 4-1-[45]) the affix *ṅīp*; with *jas* following, as before, by "वा छन्दसि" the lengthening of the preceding homorganic vowel; since it is read in the *dāsībhārādi* list, the first member keeps its base accent; since the word *dāsībhāra* ends in *gha* [*ghañ*], and is acute on the first syllable, this word too is acute on the first syllable."
+
+Closing of Rik 90.6: "॥ ६ ॥" (6).
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.7)** *(Gāyatrī; accents not reproduced)*
+
+> मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः ।
+> मधु द्यौरस्तु नः पिता ॥ ७ ॥
+
+*madhu naktam utoṣaso madhumat pārthivaṃ rajaḥ | madhu dyaur astu naḥ pitā ‖ 7 ‖*
+
+*Gloss, mine and tentative:* "Sweet be the night and the dawns; sweet the earthly region; sweet may Heaven, our father, be to us."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.7)**
+
+> मधु । नक्तम् । उत । उषसः । मधुऽमत् । पार्थिवम् । रजः ।
+> मधु । द्यौः । अस्तु । नः । पिता ॥ ७ ॥
+
+*madhu | naktam | uta | uṣasaḥ | madhu-mat | pārthivam | rajaḥ | madhu | dyauḥ | astu | naḥ | pitā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.7)**
+
+> नक्तं रात्रिर्नोऽस्माकं मधु मधुमती माधुर्योपेतफलप्रदा भवतु । उताप्यपि चोषस उषःकालोपलक्षितान्यहानि च मधुमन्ति भवन्ति । पार्थिवं रजः पृथिव्याः सम्बन्धिनी लोको ऽस्माकं मधुमत् माधुर्यविशिष्टफलयुक्तो भवतु । पिता वृष्टिप्रदानेन सर्वेषां पालयिता द्यौर्द्युलोको ऽपि मधु मधुयुक्तो भवतु ॥ पार्थिवं । पृथिव्या ञाञौ । पा. ४-१-[२] [?] इति प्राग्दीव्यतीयो ऽण्प्रत्ययः । रजः । रजःशब्दो लोकवाची । लोका रजांस्युच्यन्ते । नि. ४-१९ [?] इति यास्कः । रजन्त्यस्मिन्जना इति रजः । असुनि रजकरजनरजःसु पसंख्यानं । का. ६-४-[२४]-१ [?] । इति रंजेर्नलोपः ॥
+
+*naktaṃ rātrir no 'smākaṃ madhu madhumatī mādhuryopetaphalapradā bhavatu | utāpi cāṣasa uṣaḥkālopalakṣitāny ahāni ca madhumanti bhavanti | pārthivaṃ rajaḥ pṛthivyāḥ sambandhinī loko 'smākaṃ madhumat mādhuryaviśiṣṭaphalayukto bhavatu | pitā vṛṣṭipradānena sarveṣāṃ pālayitā dyaur dyuloko 'pi madhu madhuyukto bhavatu ‖ pārthivaṃ | pṛthivyā ñāñau | Pā. 4-1-[2] [?] iti prāgdīvyatīyo 'ṇ-pratyayaḥ | rajaḥ | rajaḥśabdo lokavācī | lokā rajāṃsy ucyante | Ni. 4-[19] [?] iti yāskaḥ | rajanty asmin janā iti rajaḥ | asuni rajakarajanarajaḥsu paṃsaṃkhyānaṃ | Kā. 6-4-[24]-1 [?] | iti raṃjer nalopaḥ ‖*
+
+*(the opening phrase "utāpi cāṣasa" in the print reads "utāpi coṣasa"; given as "utāpi coṣasa" — the printer's* o *noted: the Saṃhitā is* utoṣasaḥ*.)*
+
+*Translation:* "May *naktam* — the night — be sweet for us, i.e. a giver of fruit endowed with sweetness; and also (*uta*) the dawns, the days marked by the dawn-time, are sweet. May the *pārthivaṃ rajaḥ* — the world belonging to the earth — be sweet for us, with fruit of distinguished sweetness; may Heaven, the father, the protector of all by giving rain, also be sweet. *Grammar tail:* *pārthivam* — the affix *aṇ* of the 'prāg-dīvyatīya' class after *pṛthivī* (Pā. 4-1-[2] [?]); *rajaḥ* — the word *rajas* denotes a world: 'the worlds are called *rajāṃsi*' (Ni. [4-19] [?], Yāska): because people dwell (*ranj-*) in it; the nasal of *raṃj* lost before *asun*."
+
+---
+
+### Page 319 (PDF 334)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 319.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.7)** *(Kannada)*
+
+*naktam* — the night; *naḥ* — to us; *madhu* — giver of fruits with sweetness (let it be); *uta* — and; *uṣasaḥ* — the days marked by the dawn-times (let them be givers of sweet fruit); *pārthivam rajaḥ* — the world that belongs to the earth; *madhumat* — let it have sweet fruit; *pitā* — [by giving rain] the protector of all; *dyauḥ* — the world of heaven; *madhu* — let it be endowed with sweetness.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.7** *(Kannada)*
+
+"May the night and the day always be givers of fruit endowed with sweetness to us. May the whole world of earth have sweet fruit for us. May the world of heaven, which protects all by giving rain, be endowed with sweetness."
+
+**English Translation** *(printed in English in the source)*
+
+"May night and morning be sweet; may the region of the earth be full of sweetness; may the protecting heaven be sweet to us." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.7)**
+
+- **उषसः** — *uṣaḥkālopalakṣitāny ahāni* — "days marked by the dawn-time: the day together with the dawn, that is, the morning time; *early morning* (English, as printed)."
+- **पार्थिवं रजः** — "*rajas* means a world: '*lokā rajāṃsy ucyante*' (Ni. [4-19] [?]); *pārthivaṃ rajaḥ* means the world of earth, or the earth."
+- **द्यौः पिता** — "heaven (*dyauḥ*), who is as it were a father to us — that is, the world of heaven. In the Ṛgveda the word *dyāvāpṛthivī* is used in many places; it means heaven and earth. There is a convention of calling heaven the father and the earth the mother. For, just as father and mother nourish us with food and the like, so heaven — that is, the atmosphere — pours down the rain needed for the production of our food; the earth, by the help of the rain, produces crops and the like and supplies us the food we need. Hence the convention of calling heaven and earth father and mother."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.7)** *(grammar page, noted briefly; begins here)*
+
+- **मधुमत्** — *madhu yeṣām asti madhumanti*; by "तदस्यास्त्यस्मिन्निति मतुप्" the affix *matup*; in the neuter plural, by "शेश्छन्दसि बहुलम्" the loss of *śi*…
+
+---
+
+### Page 320 (PDF 335)
+
+*(Running head: "320 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.7, continued from p. 319 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **पार्थिवम्** — *pṛthivyā idam pārthivam*; by "पृथिव्या ञाञौ" (Pā. Sū. 4-1-[?]) the affix *añ* in the sense of 'relating to' of the *prāgdīvyatīya* class; by "यस्येति च" the loss of the *ī*; by "तद्धितेष्वचामादेः" the *vṛddhi* of the initial; by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+- **रजः** — *rajas* here denotes the meaning 'world': '*lokā rajāṃsy ucyante*' (Ni. [4-19] [?]), Yāska says: *rajanty asmin janāḥ iti rajaḥ*; the root *ranja rāge*; the affix *asun*; by the statement "रजकरजनरजःसूपसंख्यानम्" (Kā. 6-4-[24]-1 [?]) the *asun* following, the nasal of the root *ranj* is lost; since the affix is *nit*, the first syllable is acute.
+
+Closing of Rik 90.7: "॥ ७ ॥" (7).
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.8)** *(Gāyatrī; accents not reproduced)*
+
+> मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः ।
+> माध्वीर्गावो भवन्तु नः ॥ ८ ॥
+
+*madhumān no vanaspatir madhumāṃ astu sūryaḥ | mādhvīr gāvo bhavantu naḥ ‖ 8 ‖*
+
+*Gloss, mine and tentative:* "May the lord of the forest [tree] be sweet to us; may the sun be sweet; may the cows be sweet to us."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.8)**
+
+> मधुऽमान् । नः । वनस्पतिः । मधुऽमान् । अस्तु । सूर्यः ।
+> माध्वीः । गावः । भवन्तु । नः ॥ ८ ॥
+
+*madhu-mān | naḥ | vanaspatiḥ | madhu-mān | astu | sūryaḥ | mādhvīḥ | gāvaḥ | bhavantu | naḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.8)**
+
+> नोऽस्माकं वनस्पतिर्वनानां पालयिता यूपाभिमानी देवो मधुमान् माधुर्योपेतफलवानस्तु । ताद्दृशं फलमस्मभ्यं प्रयच्छत्वित्यर्थः । सूर्यः सर्वस्य प्रेरकः सविता च मधुमानस्तु । गावो ऽग्निहोत्राद्यर्था धेनवश्च नोऽस्माकं माध्वीर्माधुर्योपेतेन पयसा युक्ता भवन्तु ॥ वनस्पतिः । वनानां पतिर्वनस्पतिः । पारस्करादित्वात्सुट् । वनपतिशब्दाद्यदात्तौ । उभे वनस्पत्यादिषु युगपदिति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+
+*no 'smākaṃ vanaspatir vanānāṃ pālayitā yūpābhimānī devo madhumān mādhuryopetaphalavān astu | tādṛśaṃ phalam asmabhyaṃ prayacchatv ity arthaḥ | sūryaḥ sarvasya prerakaḥ savitā ca madhumān astu | gāvo 'gnihotrādyarthā dhenavaś ca no 'smākaṃ mādhvīr mādhuryopetena payasā yuktā bhavantu ‖ vanaspatiḥ | vanānāṃ patir vanaspatiḥ | pāraskarādittvāt suṭ | vanapatiśabdād yadāttau | ubhe vanaspatyādiṣu yugapad iti pūrvottarapadayor yugapat prakṛtisvaratvam ‖*
+
+*Translation:* "May *vanaspatiḥ* — the guardian of forests, the deity presiding over the sacrificial post — be *madhumān*, possessed of fruit endowed with sweetness: may he give us such fruit. May *sūryaḥ*, the sun, the impeller of all, Savitṛ, be *madhumān*. May the cows — the milch cows for the Agnihotra and the rest — be *mādhvīḥ*, endowed with sweet milk, for us. *Grammar tail:* *vanaspatiḥ* — *vanānāṃ patiḥ* with the augment *suṭ* by the *pāraskarādi* list; both members keep their accent at once by 'ubhe vanaspatyādiṣu yugapat'."
+
+---
+
+**Progress note:** Printed pp. 1–320 done (PDF 16–335) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.7 complete**; **Rik 90.8** — Saṃhitā, Pada and bhāṣya (with grammatical tail) done (foot of p. 320); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 321 on), then **90.9** (the last, Anuṣṭubh) and the end of Sūkta 90 (about p. 324), then **Sūkta 91** (contents table: p. 325). Next: printed p. 321 (PDF 336). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–320 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
