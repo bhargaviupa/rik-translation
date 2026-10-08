@@ -5157,4 +5157,85 @@ Closing of Rik 85.11: "॥ ११ ॥" (11), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–188 done (PDF 16–203) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.11 complete**; **Rik 85.12** (the last, Triṣṭubh) — Saṃhitā done (foot of p. 188); next: its Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, and the end of Sūkta 85 (about p. 191). Next: printed p. 189 (PDF 204). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 189 (PDF 204)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 189.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.12)**
+
+> या । वः । शर्म । शशमानाय । सन्ति । त्रिऽधातूनि । दाशुषे । यच्छत । अधि ।
+> अस्मभ्यम् । तानि । मरुतः । वि । यन्त । रयिम् । नः । धत्त । वृषणः । सुऽवीरम् ॥ १२ ॥
+
+*yā | vaḥ | śarma | śaśamānāya | santi | tri-dhātūni | dāśuṣe | yacchata | adhi | asmabhyam | tāni | marutaḥ | vi | yanta | rayim | naḥ | dhatta | vṛṣaṇaḥ | su-vīram ‖ 12 ‖*
+
+**॥ विनियोगः ॥ — Application note (Viniyoga), in Sanskrit**
+
+> मारुते पशौ या वः शर्मेति हविषो याज्या । प्रदानानामिति खण्डे सूत्रितं । अरा इवेदचरमा अहेव या वः शर्म शशमानाय सन्ति । आ. ३-८ [?] । इति ॥
+
+*māruta paśau yā vaḥ śarmeti haviṣo yājyā | pradānānām iti khaṇḍe sūtritaṃ | arā ived acaramā aheva yā vaḥ śarma śaśamānāya santi | Ā. 3-8 [?] | iti ‖*
+
+*Translation:* "In the animal sacrifice offered to the Maruts, the Ṛk *yā vaḥ śarma* is the *yājyā* for the *havis* (offering); it is prescribed in the section on offerings (*pradānānām* [?]): '*arā ived acaramā aheva yā vaḥ śarma śaśamānāya santi*' (Āś. [3-8] [?])." *(The wording of the sūtra and the numerals are cramped; read with doubt.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.12)**
+
+> हे मरुतो वो युष्माकं सम्बन्धीनि या यानि शर्म शर्माणि सुखानि गृहाणि वा । कीदृशानि । त्रिधातूनि पृथिव्यादिषु त्रिषु स्थानेष्ववस्थितानि शशमानाय युष्मान् स्तुतिभिर्भजमानाय दातुं सम्पादितानि । पूर्वोक्तलक्षणानि शर्माणि यानि सन्ति यानि च दाशुषे हविर्दत्तवते यजमानायाधि यच्छत अधिकं प्रयच्छथ हे मरुतस्तानि सर्वाणि शर्माण्यस्मभ्यं वि यन्त । विशेषेण प्रयच्छत । किञ्च हे वृषणः कामानां वर्षितारो मरुतो नोऽस्मभ्यं सुवीरं शोभनैर्वीरैः पुत्रादिभिर्युक्तं रयिं धनं धत्त । दत्त ॥ या । शेश्छन्दसि बहुलमिति शेर्लोपः । शर्म । सुपां सुलुगिति जसो लुक् । शशमानाय । शश प्लुतगतौ । ताच्छील्यादिकश्चानश् । यच्छत । छान्दसे लोटि [?] … । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । यन्त । यमेर्लोटि बहुलं छन्दसीति शपो लुक् । तप्तनप्तनथनाश्चेति तस्य तबादेशः । आतस्तस्य पित्त्वेन ङित्त्वाभावादसुदात्तोपदेशेत्यादिनानुनासिकलोपो न भवति । वृषणः । वा षपूर्वस्य निगम इत्यपधादीर्घाभावः । सुवीरम् । बहुव्रीहौ वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वम् ॥ १२ ॥
+
+*he maruto vo yuṣmākaṃ sambandhīni yā yāni śarma śarmāṇi sukhāni gṛhāṇi vā | kīdṛśāni | tridhātūni pṛthivyādiṣu triṣu sthāneṣv avasthitāni śaśamānāya yuṣmān stutibhir bhajamānāya dātuṃ sampāditāni | pūrvoktalakṣaṇāni śarmāṇi yāni santi yāni ca dāśuṣe havir dattavate yajamānāyādhi yacchata adhikaṃ prayacchatha he marutas tāni sarvāṇi śarmāṇy asmabhyaṃ vi yanta | viśeṣeṇa prayacchata | kiñca he vṛṣaṇaḥ kāmānāṃ varṣitāro maruto no 'smabhyaṃ suvīraṃ śobhanair vīraiḥ putrādibhir yuktaṃ rayiṃ dhanaṃ dhatta | datta ‖ yā | śeś chandasi bahulam iti śer lopaḥ | śarma | supāṃ suluk iti jaso luk | śaśamānāya | śaśa plutagatau | tācchīlyādikaś cānaś | yacchata | chāndase loṭi [?] … | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | yanta | yamer loṭi bahulaṃ chandasīti śapo luk | taptanaptanthanāś ceti tasya tabādeśaḥ | ātas tasya pittvena ṅittvābhāvād asudāttopadeśety ādinānunāsikalopo na bhavati | vṛṣaṇaḥ | vā ṣapūrvasya nigama ity apadhādīrghābhāvaḥ | suvīram | bahuvrīhau vīravīryau cety uttarapadādyudāttatvam ‖ 12 ‖*
+
+*(Kannada script; the clause on* yacchata *is cramped and partly omitted [?].)*
+
+*Translation:* "O Maruts, those *śarmāṇi* of yours — comforts or houses — what kind? *Tridhātūni* — set in the three places, earth and the rest — prepared for the one who praises you (*śaśamānāya*) with hymns, to give: whatever comforts, of the character stated above, there are, and which you *adhi yacchata* — give abundantly — to the sacrificer who has given offerings (*dāśuṣe*): O Maruts, all those comforts *vi yanta* — give specially to us. And further, O *vṛṣaṇaḥ*, showerers of what is desired, O Maruts, *dhatta* — give (*datta*) us wealth (*rayim*) endowed with good heroes — good sons and the like. *Grammar tail, noted briefly:* *yā* — the *śi* is dropped by "śeś chandasi bahulam"; *śarma* — *luk* of *jas* by "supāṃ suluk"; *śaśamānāya* — *śaśa plutagatau*, with *cānaś* (the habit-sense affix); *yacchata* — no augment *aṭ* because of the connexion with *mā*; *yanta* — *yam* in the *loṭ*, *śap* elided; the substitute *ta* for *tha*; because it is *pit* and not *ṅit*, the nasal (*anunāsika*) is not dropped; *vṛṣaṇaḥ* — no lengthening of the penultimate (*vā ṣapūrvasya nigame*); *suvīram* — in the *bahuvrīhi* the first syllable of the latter member is acute ("vīravīryau ca")."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.12)** *(Kannada; begins at the foot of p. 189)*
+
+*vaḥ* — (O Maruts) belonging to you (and favoured by you); *tridhātūni* — situated in the three worlds, earth and the rest; *śaśamānāya* — (prepared) for the devotee who praises you; and *yā* — whichever; *śarma* — comforts or houses…
+
+---
+
+### Page 190 (PDF 205)
+
+*(Running head: "190 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Pratipadārtha of Rik 85.12, continued from p. 189:*
+
+"…*santi* — are; (and) *dāśuṣe* — to the sacrificer who gives offerings; *adhi yacchata* — (whatever comforts or houses) you give; *marutaḥ* — O Maruts; *tāni* — all those comforts or houses; *asmabhyam* — to us; *vi yanta* — give in abundance; *vṛṣaṇaḥ* — O Maruts, who shower what is desired; *naḥ* — to us; *suvīram* — of excellent heroes, with sons and the like; *rayim* — (in the form of children and so on) wealth; *dhatta* — give."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.12** *(Kannada)*
+
+"O Maruts, whatever comforts or houses belong to you, are favoured by you, are situated in the three worlds, and are prepared for the devotee who praises you — those which you give to the sacrificer who offers oblations — give all those comforts or houses to us as well in abundance. O Maruts, who shower what is desired, give us wealth, excellent and endowed with heroes, with sons and the like."
+
+**English Translation** *(printed in English in the source)*
+
+"Whatever blessings and happiness there are in the three worlds which are in your power to grant, give them to the offerer of oblations who adresses [sic] you with praise; O Maruts, bestowers of all good, grant us those blessings, and riches accompanied by brave sons and followers." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.12)**
+
+- **शशमानाय** — *śaśa plutagatau | śaśatir arcatikarmā* — "*śaśa* is 'to leap, to go'; (Ni. [3-?] [?] [as read: *śaśatir arcatikarmā*]) 'one who does the work of praising' — to a sacrificer who praises."
+- **शर्म** — "comfort or house."
+- **त्रिधातूनि** — *pṛthivyādiṣu triṣu sthāneṣv avasthitāni* — "situated in the three worlds, earth and the rest. Skandasvāmin explains this word: '*tridhātūni | dhīyante prāṇināṃ deheṣv iti dhātavaḥ annarasāḥ*' — 'whatever is held in the bodies of living beings is called *dhātu*, food-juices' — and takes the meaning as the food-juices and the like in the bodies of living beings." *(The Skandasvāmin sentence is read with doubt [?].)*
+- **दाशुषे** — *havirdattavate yajamānāya* — "to the sacrificer who offers oblations."
+- **वि यन्त** — *viśeṣeṇa prayacchata* — "give specially."
+- **वृषणः** — *kāmānāṃ varṣitāraḥ* — "the Marut deities who give what is desired."
+
+---
+
+### Page 191 (PDF 206)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 191.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.12)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **या** — in the neuter, since the substitute *śi* comes, by "शेश्छन्दसि बहुलम्" the loss of *śi*.
+- **शर्म** — the word *śarman* is neuter always; *jas* follows it, and by "सुपां सुलुक्" the *luk* of *jas* comes.
+- **शशमानाय** — the root *śaśa plutagatau*; by "ताच्छील्यवयोवचनशक्तिषु चानश्" (*tācchīlyavayovacanaśaktiṣu cānaś*, Pā. Sū. 3-2-[129]) the affix *cānaś* in the sense of habit; by "आने मुक्" (*āne muk*) the augment *muk*, since the affix follows; because the affix has the marker *c*, by "चितः" the final acute; in the dative singular, *śaśamānāya*.
+- **यच्छत** — the root *dāṇ dāne*; in the sense of *loṭ*, by "छन्दसि लुङ्लङ्लिटः" *laṅ*; by "पाघ्राध्मास्था…" the substitute *yaccha* for the root; for the second-person plural, by "तस्थस्थमिपां तान्तन्तामः" the substitute *ta*; by "बहुलं छन्दस्यमाङ्योगेऽपि" the augment *aṭ* does not come; since it stands after an *atiṅanta*, the *nighāta*.
+- **यन्त** — the root *yama uparame*; *loṭ*, second person plural; by "तप्तनप्तनथनाश्च" (Pā. Sū. 7-1-[45]) the substitute *ta*; by "बहुलं छन्दसि" the *luk* of *śap*; since the substitute *ta* is *pit*, there is no *ṅit*-ness, so the *m* of the root, being nasal, is not dropped by "अनुदात्तोपदेशवनतितनोत्यादीनाम्" (Pā. Sū. 6-4-[37]); by "नश्चापदान्तस्य झलि" the *anusvāra* for the *m*; since *yay* follows, the homorganic nasal; the *nighāta* of the *tiṅanta*.
+- **धत्त** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ*, second person plural; the *nighāta* of the *tiṅanta*.
+- **वृषण** — the word *vṛṣan* ends in the affix *kanin*, and so has the first syllable acute; the vocative plural, *jas* following, by "सर्वनामस्थाने चासम्बुद्धौ" the lengthening of the penultimate would have come; but by "वा षपूर्वस्य निगमे" (Pā. Sū. 6-4-[9]) in the Chandas the lengthening of the penultimate is optional, so it does not occur here; by "आमन्त्रितस्य च" the *nighāta* accent.
+- **सुवीरम्** — *śobhanāḥ vīrāḥ yasya sa suvīraḥ tat*; the first member's base accent is set aside by "नञ्सुभ्याम्", which by its rule gives the accent on the last syllable of the latter member; but this too is set aside by "बहुव्रीहौ वीरवीर्यौ च" (Pā. Sū. 6-2-[120] [?]), by which the first syllable of the latter member is acute; accusative singular.
+
+Closing of Rik 85.12: "॥ १२ ॥" (12). *(The print has no separate closing line for Sūkta 85; the sūkta ends at the foot of p. 191 with this Ṛk's numeral.)*
+
+---
+
+**Progress note:** Printed pp. 1–191 done (PDF 16–206) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82, 83, 84 and 85 complete** (Sūkta 85: twelve Ṛks, Maruts, Gotama Rāhūgaṇa, printed pp. 143–191; the print has no separate closing line). Next: **Sūkta 86** (printed pp. 192–214; the contents table lists it at p. 192; ten Ṛks expected from the heading, to be confirmed on viewing); next page to view: printed p. 192 (PDF 207). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
