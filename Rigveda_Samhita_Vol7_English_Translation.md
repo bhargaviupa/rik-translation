@@ -6470,4 +6470,84 @@ Closing of Rik 87.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–230 done (PDF 16–245) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.3 complete**; **Rik 87.4** — Saṃhitā, Pada, bhāṣya (with grammatical tail) done and the Pratipadārtha begun at the foot of p. 230; next: its remainder, Bhāvārtha, English, Special Topics and grammar, then 87.5–87.6. Next: printed p. 231 (PDF 246). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 231 (PDF 246)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 231.)*
+
+*Pratipadārtha of Rik 87.4, continued from p. 230:*
+
+"…*anedyaḥ* — one not blamed by anyone; *vṛṣā* — the Marut host that showers rain; *asyāḥ dhiyaḥ* (*atha*) — of this our sacrificial work; *prāvitā asi* — becomes the protector."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.4** *(Kannada)*
+
+"All the other beings of the world, for their movement, look for the help of the Maruts. But the Maruts alone move of themselves, with no help from anyone else. The host of those Maruts — possessing such power, having spotted does for horses, endowed with youth, possessed of strength that cannot be obtained from others — is lord of this whole world. Fit for good deeds, freeing their devotees from debt by the gift of wealth and the like, and blamed by none, that host of Maruts becomes the protector of this our sacrificial work."
+
+**English Translation** *(printed in English in the source)*
+
+"The troop of Maruts is self-moving, deer-borne, ever young, lords of this earth, and invested with vigour; you who are sincere liberators from debt, irreproachable and shedders of rain, are the protectors of this our rite." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.4)**
+
+- **स्वसृत्** — *svayam eva saran* — "moving of themselves, without any impulse from another."
+- **पृषदश्वः** — *pṛṣatyaḥ śvetabindubhir aṅkitā mṛgyo 'śvasthānīyā yasya* — "since these spotted does, marked with white spots, are the horses of the Marut deities, 'one having such horses'. '*pṛṣatyo marutām*' (Ni. [2-28] [?]) — so it is explained."
+- **युवा** — "ever young. Since the strength of the Maruts is always extreme, without increase or decrease, they are mighty like youths: that is the intention."
+- **सत्यः** — *satkarmārhaḥ* — "worthy of being honoured with good works such as sacrifice."
+- **ऋणयावा** — *stotṝṇām ṛṇasyopagamayitā* — "one who removes the debts of those who praise."
+- **अनेद्यः** — *ṇidi kutsāyām | sarvair aninditaḥ* — "blamed by none; that is, praised by all."
+- **धियः** — *karmaṇaḥ* — "the word *dhī* here means 'work' (Ni. [2-1] [?]): after the performance of the sacrifice and similar works that we do."
+- **ईशानः** — *īśa aiśvarye* — "master, lord of the world."
+
+---
+
+### Page 232 (PDF 247)
+
+*(Running head: "232 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **स्वसृत्** — the root *sṛ gatau*; by "क्विप् च" the affix *kvip*; by "ह्रस्वस्य पिति कृति तुक्" (*hrasvasya piti kṛti tuk*) the augment *tuk* for the short *ṛ*; by "गतिकारकोपपदात् कृत्" the *kṛdutarapada* keeps its base accent.
+- **अया** — the word *idam*; in the genitive singular, for the case-ending, by "सुपां सुलुक्…" the substitute *yā*; since a case-ending beginning with a consonant follows [as printed: *halādi*], by "हलि लोपः" (Pā. Sū. 7-2-[113]) the loss of the *id* of *idam*; by "त्यदादीनामः" the *a*; by "अतो गुणे" the *pararūpa*; the form *ayā*; by "चितः" the final acute.
+- **ईशानः** — the root *īśa aiśvarye*; in the sense of habit, by "ताच्छील्यवयोवचनशक्तिषु चानश्" (Pā. Sū. 3-2-[129]) *cānaś*; since the *lasārvadhātuka* is stated to be unaccented by "तास्यनुदात्तेत्", here by "चितः" the final acute; when *ayā + īśānaḥ*, the *guṇa* sandhi would have come, but since *īśā* is read in the *akṣādi* [as printed], by "ईषाक्षादीनां छन्दसि प्रकृतिभावो वक्तव्यः" (Pā. Sū. 6-1-[128] vārttika) the *prakṛtibhāva* comes.
+- **असि** — the root *as bhuvi*; by "व्यत्ययो बहुलम्" *laṭ*, third person singular for the second-person singular affix *sip*; when *as + si*, by "तासस्त्योर्लोपः" (Pā. Sū. 7-4-[50]) the loss of the *s* of the root because an affix beginning with *s* follows; since it stands at the beginning of a *pāda*, no *nighāta*; *sip* is *pit*, so unaccented; the root's accent remains.
+- **ऋणयावा** — the root *yā prāpaṇe*; since the sense of *ṇic* is included in the root's sense, to it by "आतो मनिन्क्वनिब्वनिपश्च" the affix *vanip*; the word *yāvan*; since *vanip* is *pit*, unaccented, the root's accent, the first syllable acute; *ṛṇasya yāvā ṛṇayāvā*; by "गतिकारकोपपदात् कृत्" the *kṛdutarapada*'s base accent.
+- **अनेद्यः** — the root *ṇidi kutsāyām*; by "ऋहलोर्ण्यत्" (Pā. Sū. 3-1-[124]) the affix *ṇyat*; since it is *idit*, the augment *num* by "इदितो नुम् धातोः" would come, but by "आगमानुशासनमनित्यम्" it does not come here; then by "पुगन्तलघूपधस्य च" the *guṇa* of the *laghūpadha*, using *ṇyat* as the occasion; by "न नेद्यः" [?] and "नञ्तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-[2]) the accent of the first member, an indeclinable.
+- **प्रावितः** [as printed: *prāvitā*] — the root *ava rakṣaṇe*; in the agent sense the affix *tṛc*; the word *avitṛ*; *su* following, by "ऋदुशनस्पुरुदंसोऽनेहसां च" the substitute *anaṅ*; by "अप्तृन्तृच्स्वसृनप्तृ…" the lengthening of the penultimate; by "हल्ङ्याब्भ्यो…" *(continues on p. 233)*
+
+---
+
+### Page 233 (PDF 248)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 233.)*
+
+*Vyākaraṇa-prakriyā of Rik 87.4, concluded from p. 232:*
+
+- **प्रावितः** (cont.) — "…by "हल्ङ्याब्भ्यो दीर्घात्सुतिस्यपृक्तं हल्" the elision of *su*; by "नलोपः प्रातिपदिकान्तस्य" the loss of *n*; by "चितः" [as printed] the final acute."
+- **वृषा** — the word *vṛṣan* ends in the affix *kanin* and so is acute on its first syllable; the nominative singular.
+
+Closing of Rik 87.4: "॥ ४ ॥" (4), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.5)** *(Jagatī; Maruts; accents not reproduced)*
+
+> पितुः प्रत्नस्य जन्मना वदामसि सोमस्य जिह्वा प्र जिगाति चक्षसा ।
+> यदीमिन्द्रं शम्यृक्वाण आशतादिन्नामानि यज्ञियानि दधिरे ॥ ५ ॥
+
+*pituḥ pratnasya janmanā vadāmasi somasya jihvā pra jigāti cakṣasā | yad īm indraṃ śamy ṛkvāṇa āśatād in nāmāni yajñiyāni dadhire ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "By the birth [lineage] of the ancient father we speak; the tongue of Soma goes forth with sight; when, by their work and singing, they reached Indra — then indeed they took on sacrificial names."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.5)**
+
+> पितुः । प्रत्नस्य । जन्मना । वदामसि । सोमस्य । जिह्वा । प्र । जिगाति । चक्षसा ।
+> यत् । ईम् । इन्द्रम् । शमि । ऋक्वाणः । आशत । आत् । इत् । नामानि । यज्ञियानि । दधिरे ॥ ५ ॥
+
+*pituḥ | pratnasya | janmanā | vadāmasi | somasya | jihvā | pra | jigāti | cakṣasā | yat | īm | indram | śami | ṛkvāṇaḥ | āśata | āt | it | nāmāni | yajñiyāni | dadhire ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.5)** *(begins at the foot of p. 233)*
+
+> प्रत्नस्य चिरन्तनस्य पितुरस्माकं जनकस्य रहूगणस्य सकाशाद्यज्जन्मना तेन [?] वयं वदामसि । ब्रूमः । वक्ष्यमाणं वृत्तान्तमस्माकं पित्रोपदिष्टवान् । अतो वयं …
+
+*pratnasya cirantanasya pitur asmākaṃ janakasya rahūgaṇasya sakāśād yajjanmanā tena [?] vayaṃ vadāmasi | brūmaḥ | vakṣyamāṇaṃ vṛttāntam asmākaṃ pitropadiṣṭavān | ato vayaṃ …* *(the bhāṣya runs on to p. 234)*
+
+---
+
+**Progress note:** Printed pp. 1–233 done (PDF 16–248) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.4 complete**; **Rik 87.5** — Saṃhitā, Pada and the first lines of the bhāṣya (to *vayaṃ vadāmasi* … *ato vayaṃ*) done at the foot of p. 233; the bhāṣya continues on p. 234; then 87.5's remainder and 87.6. Next: printed p. 234 (PDF 249). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
