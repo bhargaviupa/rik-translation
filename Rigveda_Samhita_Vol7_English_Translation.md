@@ -11879,6 +11879,124 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–418 done (PDF 16–433), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.4 complete (92.3 minus the missing p. 413); Rik 92.5 Saṃhitā, Pada and the first part of the Sāyaṇa-bhāṣya done, the bhāṣya breaking at the foot of p. 418 ("…*tadanantaraṃ citraṃ cāyanīyaṃ bhānuṃ*"). Next: printed p. 419 (PDF 434) — the rest of the bhāṣya of 92.5. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; Nirukta numerals (12-7, 3-9, 2-20, 5-20, 2-7, 2-1, 2-9, 6-[?]) [?]; the Ṛgveda numerals 1-124-5, 1-92-2 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini/Uṇādi numerals on pp. 407–417 given as read, doubtful [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ*, *caturhṛdīrgā…*, *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; of 92.3: *dhārṣṭyenopetāḥ*, the *apasaḥ* derivation [?]; of 92.4: *jagatpraśliṣṭāni*, *sthādhyikena*, *nṛns tūrvati*, *uṣāḥ śāstroktam andhakāram* clotted [?]; the Special Topics of 92.4: *usrā viśo 'syāṃ bhogāḥ* clotted [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5). "
+### Page 419 (PDF 434)
+
+*(Running head left: "A. 1 A. 6 Va. 26 [?]"; centre: "Ṛgvedasaṃhitā"; right: 419.)*
+
+*Sāyaṇa-bhāṣya of Rik 92.5, concluded:*
+
+> सूर्यं दिवो दुहिता द्युलोकादुत्पन्नोषा अश्रेत् । असेवत ॥ वि तिष्ठते । समवप्रविभ्य इत्यात्मनेपदं । अश्रेत् । श्रिञ् सेवायां । लङि बहुलं छन्दसीति शपो लुक् ॥
+
+*sūryaṃ divo duhitā dyulokād utpannoṣā aśret | asevata ‖ vi tiṣṭhate | samavapravibhya ity ātmanepadaṃ | aśret | śriñ sevāyāṃ | laṅi bahulaṃ chandasīti śapo luk ‖*
+
+*Translation:* "…the sun: *divo duhitā*, the daughter of heaven, Uṣas born of the heavenly world, *aśret*, served him [*asevata*]. — *vi tiṣṭhate*: the *ātmanepada* by *samavapravibhyaḥ sthaḥ*. *aśret* — root *śriñ sevāyām*; in the *laṅ* the *luk* of *śap* by *bahulaṃ chandasi*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.5)** *(Kannada)*
+
+*asyāḥ* — of the Uṣas deity; *ruśat* — shining; *arciḥ* — radiance; *prati adarśi* — is seen first (in the eastern quarter); *vi tiṣṭhate* — (afterwards) spreads in all the quarters; *abhvam* — spreading widely; *kṛṣṇam* — blackness (darkness); *bādhate* — destroys; *vidatheṣu* — in sacrifices; *svarum na añjan* — as [the priests] anoint the sacrificial post with ghee, by means of a stick; *peśaḥ* — her own form (which Uṣas adorns with collyrium and the like); *citram* — brilliant; *bhānum* — the sun; *divaḥ duhitā* — the daughter of heaven, Uṣas; *aśret* — served.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.5** *(Kannada)*
+
+"The radiance of the shining Uṣas deity is first seen in the eastern quarter. Then it destroys the darkness that spreads widely in all quarters. As priests in the sacrifices anoint the sacrificial post with ghee, using a stick, so the Uṣas deity too adorns her form. And the daughter of heaven, Uṣas, serves the radiant sun."
+
+**English Translation** *(printed in English in the source; Rik 92.5)*
+
+"Her brilliant light is first seen towards the east ; it spreads and disperses the thick darkness ; she anoints her body as the priests anoint the sacrificial post in sacrifices ; the daughter of the sky awaits the glorious Sun." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.5)** *(Kannada)*
+
+"At the time of reciting the *prātaranuvāka* mantras, for the mantras connected with the *Uṣasya* sacrifice, the eight Ṛks beginning *pratyarciḥ*, and also for the mantras of the *Āśvina-śastra*, the application of these mantras is shown by the Āśvalāyana Śrauta-sūtra in the sūtra '*pratyarcir ity aṣṭau vṛṣā ā vo divijā iti ṣaḍ iti traiṣṭubhaṃ*' (Ā. 4-14 [?])."
+
+***svaruṃ na*** — "*svaru* means 'a stick, a rod', the stick with which collyrium is applied to the eye. As ghee is smeared with it on the sacrificial post, so the Uṣas deity adorns herself with collyrium, or with a stick applied to the eye: this is the idea.
+
+---
+
+### Page 420 (PDF 435)
+
+*(Running head: left "420", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+"Besides, *svaru* means 'sacrificial post' too. In the Ṛk 7-35-7 [?] the word *svarūṇām* is explained '*svarūṇāṃ yūpānām*', and in Ṛ. Saṃ. 4-6-4 [?] '*svarur na yūpaśakalavājī*' — '*svarur atra yūpaṃ lakṣayati*' ['here *svaru* indicates the sacrificial post']: so the bhāṣya-writers explain it. In general the meaning of the word *svaru* is 'sacrificial post'. Some Ṛks in which this word occurs, for example —"
+
+> उदु स्वरुर्नवजा नाक्रः पेशो वे अनक्ति सुधितिः सुमेकः ।
+
+*ud u svarur navajā nākraḥ peśo ve anakti sudhitiḥ sumekaḥ |*  (Ṛ. Saṃ. 4-6-4 [?]; the Saṃhitā text as read from the print, doubtful [?])
+
+> शं नः स्वरूणां मितयो भवन्तु शं नः प्रस्वः शम्वस्तु वेदिः ।
+
+*śaṃ naḥ svarūṇāṃ mitayo bhavantu śaṃ naḥ prasvaḥ śam v astu vediḥ |*  (Ṛ. Saṃ. 7-35-7 [?])
+
+> बृहन्निदिध्म एषां भूरि शस्तं पृथुः स्वरुः ।
+
+*bṛhann ididdhma eṣāṃ bhūri śastaṃ pṛthuḥ svaruḥ |*  (Ṛ. Saṃ. 5-43-3 [?]; read as printed, *nidhma* [?])
+
+> ते देवासः स्वरवस्तस्थिवांसः प्रजावदस्मे दिधिषन्तु रत्नम् ।
+
+*te devāsaḥ svaravas tasthivāṃsaḥ prajāvad asme didhiṣantu ratnam |*  (Ṛ. Saṃ. 3-8-6 [?])
+
+> हंसा इव श्रेणिशो यतानाः शुक्रा वसानाः स्वरवो न आगुः ।
+
+*haṃsā iva śreṇiśo yatānāḥ śukrā vasānāḥ svarāvo na āguḥ |*  (Ṛ. Saṃ. 3-8-9 [?])
+
+> शृङ्गाणीवेच्छृङ्गिणां सं ददृश्रे चषालवन्तः स्वरवः पृथिव्याम् ।
+
+*śṛṅgāṇīvec chṛṅgiṇāṃ saṃ dadṛśre caṣālavantaḥ svaravaḥ pṛthivyām |*  (Ṛ. Saṃ. 3-8-10 [?])
+
+> अस्थुरु चित्रा उषसः पुरस्तान्मिता इव स्वरवोऽध्वरेषु ।
+
+*asthur u citrā uṣasaḥ purastān mitā iva svaravo 'dhvareṣu |*  (Ṛ. Saṃ. 4-51-2 [?])
+
+*Gloss, mine and tentative (for the group):* "…the measures of the *svarus* be peace for us; may the *vedi* be peace for us. — Those gods who stood as *svarus* [sacrificial posts], may they bestow upon us wealth with offspring. — Like geese in rows, bright, clothed [?], the *svarus* came to us. — Like horns of the horned, the *svarus* with their ring-heads were seen on the earth. — The bright Uṣases have stood forth in the east like measured *svarus* at the sacrifices." *(The Saṃhitā texts above are read from the print and each is doubtful in places [?].)*
+
+"The word *svaru* in these Ṛks indicates the sense 'sacrificial post'. Yāska has given no explanation of this word."
+
+***ruśat*** — "From 'auspicious colour', 'shining' is the meaning. The order of its derivation has been told in the commentary on the Ṛk 1-92-2 [p. 409]."
+
+***arciḥ*** — *arciḥ, śociḥ, tapaḥ* and the like being read among the names of blazing (Ni. 1-[?] [?]), 'light' is the meaning.
+
+***vi tiṣṭhate*** — "'She spreads in various ways in the three worlds' is the meaning."
+
+***vidatheṣu*** — "*yajñaḥ, venaḥ, adhvaraḥ* and the like are read among the names of sacrifice (Ni. 3-17 [?]). *vidathāni* are *vedanāni*, 'knowledges'. Explaining this meaning, the author of the Nirukta cites the Ṛk of the Ṛksaṃhitā —
+
+---
+
+### Page 421 (PDF 436)
+
+*(Running head left: "A. 1 A. 6 Va. 27 [?]"; centre: "Ṛgvedasaṃhitā"; right: 421.)*
+
+> होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
+
+*hotā devo amartyaḥ purastād eti māyayā | vidathāni pracodayan ‖*  (Ṛ. Saṃ. 3-27-7 [?])
+
+*Gloss, mine and tentative:* "The immortal god, the Hotṛ, goes in front by his power, urging the *vidathas*."
+
+"— so here too: 'in the sacrifices that are means of knowledge'."
+
+***divo duhitā*** — "'Born from the heavenly world': Uṣas is meant. For the Uṣas the epithet *divo duhitā*, or *duhitar divaḥ*, in the vocative, comes in many places; for example —"
+
+> त्वं त्र्यभिरागहि वाजेभिर्दुहितर्दिवः ।
+
+*tvaṃ try-abhir āgahi vājebhir duhitar divaḥ |*  (Ṛ. Saṃ. 1-30-20 [?]; read as printed)
+
+> सह वामेन न उषो व्युच्छा दुहितर्दिवः ।
+
+*saha vāmena na uṣo vy uchā duhitar divaḥ |*  (Ṛ. Saṃ. 1-48-1 [?])
+
+*Gloss, mine and tentative:* "Come to us with your three-fold [gifts], with strengths, O daughter of heaven. — Dawn forth with good things for us, O Uṣas, daughter of heaven."
+
+"— so in Ṛ. Saṃ. 6-30-5 [?]; 7-42-15 [?] and many other Ṛks this word is used."
+
+***abhvam*** — *mahat, bṛhat, ukṣitaḥ* and the like being read among the names of the great (Ni. 3-3 [?]) | "The extremely great, deep darkness too the Uṣas destroys."
+
+***bhānum aśret*** — "One meaning: 'she served the sun'; or 'she obtained radiance'; and there is another meaning: 'she, who at every moment is blazing, assumes another form' — so Skandasvāmin says: '*pratikṣaṇaṃ dīptā rūpāntarībhavatīty arthaḥ*'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.5)** *(Kannada; grammar page, noted briefly)*
+
+*adarśi* — root *dṛśir prekṣaṇe*; in the passive *luṅ*, third person singular, the suffix *ta*; by *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66 [?]) *ciṇ* for the *cli*; by *ciṇo luk* (Pā. 6-4-104 [?]) the elision of the *ta* that follows *ciṇ*; the guṇa of the light penultimate of the root on account of *ciṇ*; the augment *aṭ* for the stem; since it follows a word, the *nighāta* accent.
+*vi tiṣṭhate* — root *ṣṭhā gatinivṛttau*; *parasmaipada*; since the preverb *vi* is joined, the *ātmanepada* by *samavapravibhyaḥ sthaḥ* (Pā. 1-3-22 [?]); *laṭ*, third person singular; by *ṭita ātmanepadānāṃ ṭer e* the final *e*; *śap*; by *pāghrādhmāsthā…* (Pā. 7-3-78 [?]) the replacement *tiṣṭha* for the stem; the *tiṅ*-*nighāta*.
+*bādhate* — root *bādhṛ viloḍane*, the *ātmanepada* in the *laṭ*; since it follows a finite verb, the *nighāta* accent does not occur; since *śap* and the *lasārvadhātuka* suffix are unaccented, the accent of the root remains.
+
+---
+
+**Progress note:** Printed pp. 1–421 done (PDF 16–436), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.4 complete (92.3 minus the missing p. 413); Rik 92.5 done through the grammar page for *adarśi*, *vi tiṣṭhate*, *bādhate*; the grammar page may continue on p. 422 with the remaining words (*svarum*, *añjan*, *aśret*, etc.). Next: printed p. 422 (PDF 437). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; Nirukta numerals [?]; the Ṛgveda numerals of every citation on pp. 406–421 (1-124-5, 1-92-2, 4-6-4, 7-35-7, 5-43-3, 3-8-6, 3-8-9, 3-8-10, 4-51-2, 3-27-7, 1-30-20, 1-48-1, 6-30-5, 7-42-15) as read, doubtful [?]; the Saṃhitā text of the first and third *svaru* citations (pp. 420) doubtful; the 'Part [5?], pp. 32–33' reference [?]; Pāṇini/Uṇādi numerals on pp. 407–421 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4 as noted on the pages; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
