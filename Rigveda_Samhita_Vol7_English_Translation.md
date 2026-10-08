@@ -10988,6 +10988,84 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–385 done (PDF 16–400) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.18 complete; Rik 91.19 done through the Special Topics and the first two entries of its Vyākaraṇa-prakriyā (*yajanti*, *tā*); the grammar page continues on p. 386. Next: printed p. 386 (PDF 401). "
-"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.19 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19: *parito bhāvayitryaṇi*, *vīryo jñāyante*, *asmāt kvip* clotted in the bhāṣya; the *aṣāḷhaṃ* of p. 383 (read *uṣāḷhaṃ* on p. 339 from a different print) — the standard form is not asserted; the *kratve dakṣāya…* citation's text and numeral; Nirukta numeral for house-names read 3-4 (p. 365) and 3-13 (p. 385); the reference to 'Ṛg. Saṃ. Part 1, pp. 633–634' is as printed; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15); the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+### Page 386 (PDF 401)
+
+*(Running head: left "386", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Vyākaraṇa-prakriyā of Rik 91.19, continued (grammar page, noted briefly):*
+
+*paribhūḥ* — root *bhū prāptau*; by *kvip ca* (क्विप् च, Pā. 3-2-76 [?]) the suffix *kvip*; by *vyatyayo bahulam* (Pā. 3-1-85 [?]) a change of gender and number of the qualified word has come: in place of the neuter plural the singular common to feminine and masculine; by *gatikārakopapadāt kṛt* (गतिकारकोपपदात्कृत्) the *kṛdanta* final member keeps its natural accent.
+*astu* — root *as bhuvi*; *loṭ*, third person; by *vyatyayo bahulam* the singular suffix for the plural; the *nighāta* since it follows a word.
+*gayasphānaḥ* — *gaya* is a name of house or of wealth; *gayānāṃ sphāyitā vardhayitā*; root *ohpyāyī vṛddhau*; by *kṛtyalyuṭo bahulam* (Pā. 3-3-113 [?]) the suffix *lyuṭ*; in Chandas the *y* of the root is elided; by *yuvor anākau* the replacement *ana*; by *gatikārakopapadāt kṛt* the final member's natural accent.
+*suvīraḥ* — by *nañsubhyām* the final-member final-acute would be obtained, but by *vīravīryau ca* (वीरवीर्यौ च, Pā. 6-2-120 [?]) the final member takes the initial-acute.
+*avīrahā* — *vīrāṇāṃ hantā vīrahā*; when *vīra* is the *upapada*, *kvip* after *han*; *na vīrahā avīrahā*; by *tatpuruṣe tulyārthatṛtīyā…* (तत्पुरुषे तुल्यार्थ…, Pā. 6-2-2 [?]) the first member (*nañ*) keeps its natural accent.
+*cara* — root *cara gatibhakṣaṇayoḥ*; *loṭ*, second person singular; the *tiṅ*-*nighāta*. ‖ 19 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.20)**
+
+> सोमो धेनुं सोमो अर्वन्तमाशुं सोमो वीरं कर्मण्यं ददाति ।
+> सादन्यं विदथ्यं सभेयं पितृश्रवणं यो ददाशदस्मै ॥ २० ॥
+
+*somo dhenuṃ somo arvantam āśuṃ somo vīraṃ karmaṇyaṃ dadāti | sādanyaṃ vidathyaṃ sabheyaṃ pitṛśravaṇaṃ yo dadāśad asmai ‖ 20 ‖*
+
+---
+
+### Page 387 (PDF 402)
+
+*(Running head left: "A. 1 A. 6 Va. 22 [?]"; centre: "Ṛgvedasaṃhitā"; right: 387.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.20)**
+
+> सोमः । धेनुम् । सोमः । अर्वन्तम् । आशुम् । सोमः । वीरम् । कर्मण्यम् । ददाति ।
+> सदन्यम् । विदथ्यम् । सभेयम् । पितृऽश्रवणम् । यः । ददाशत् । अस्मै ॥ २० ॥
+
+*somaḥ | dhenum | somaḥ | arvantam | āśum | somaḥ | vīram | karmaṇyam | dadāti | sadanyam | vidathyam | sabheyam | pitṛ-śravaṇam | yaḥ | dadāśat | asmai ‖ 20 ‖*
+
+(The Pada prints *sadanyam*, the Saṃhitā *sādanyam*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.20)**
+
+> महापितृयज्ञे सोमस्य पितृमतो यागे सोमो धेनुमित्येषा द्वितीयानुवाक्या । तत्र ह्येकैकस्य हविषो द्वे द्वे अनुवाक्ये समुच्चयेन विहिते । तथैव दक्षिणाग्नेरिति खण्डे सूत्रितं । सोमो धेनुं सोमो अर्वन्तमाशुं त्वं सोम पितृभिः संविदानः । आ. २-१९ [?] इति ॥
+> यो यजमानो ददाशत् सोमाय हविर्लक्षणान्यन्नानि दद्यात् तस्मै यजमानाय सोमो धेनुं सवत्सां दोग्ध्रीं गां ददाति । तथाशुं शीघ्रगामिनमर्वन्तमश्वं ददाति प्रयच्छति । तथा वीरं पुत्रमस्मै यजमानाय ददाति । कीदृशं पुत्रम् । कर्मण्यं लौकिककर्मसु कुशलं सदन्यं । सदनं गृहं । तदर्हं । गृहकार्यकुशलमित्यर्थः । विदथ्यं । विदन्त्येषु देवानिति विदथा यज्ञाः । तदर्हं । दर्शपूर्णमासादियागानुष्ठानपरमित्यर्थः । सभेयं । सभायां साधुं । सकलशास्त्राभिज्ञमित्यर्थः । पितृश्रवणं पिता श्रूयते प्रख्यायते येन पुत्रेण तादृशं ॥ कर्मण्यं । कर्मसु साधुः कर्मण्यः । तत्र साधुः । पा. ४-४-९८ [?] इति यत् । येचाभावकर्मणोरिति प्रकृतिभावः । तित्स्वरितमिति स्वरितत्वं । एवमुत्तरत्रापि यत्प्रत्ययः । सभेयं । ढश्छन्दसि । पा. ४-४-१०६ [?] इति तत्र साधुरित्यर्थे ढप्रत्ययः । ददाशत् । दाश दाने । लेट्यडागमः । बहुलं छन्दसीति शपः श्लुः ॥
+
+*mahāpitṛyajñe somasya pitṛmato yāge somo dhenum ity eṣā dvitīyānuvākyā | tatra hy ekaikasya haviṣo dve dve anuvākye samuccayena vihite | tathaiva dakṣiṇāgner iti khaṇḍe sūtritaṃ | somo dhenuṃ somo arvantam āśuṃ tvaṃ soma pitṛbhiḥ saṃvidānaḥ | Ā. 2-19 [?] iti ‖ yo yajamāno dadāśat somāya havirlakṣaṇāny annāni dadyāt tasmai yajamānāya somo dhenuṃ savatsāṃ dogdhrīṃ gāṃ dadāti | tathāśuṃ śīghragāminam arvantam aśvaṃ dadāti prayacchati | tathā vīraṃ putram asmai yajamānāya dadāti | kīdṛśaṃ putram | karmaṇyaṃ laukikakarmasu kuśalaṃ sadanyaṃ | sadanaṃ gṛhaṃ | tadarhaṃ | gṛhakāryakuśalam ity arthaḥ | vidathyaṃ | vidanty eṣu devān iti vidathā yajñāḥ | tadarhaṃ | darśapūrṇamāsādiyāgānuṣṭhānaparam ity arthaḥ | sabheyaṃ | sabhāyāṃ sādhuṃ | sakalaśāstrābhijñam ity arthaḥ | pitṛśravaṇaṃ pitā śrūyate prakhyāyate yena putreṇa tādṛśaṃ ‖ karmaṇyaṃ | karmasu sādhuḥ karmaṇyaḥ | tatra sādhuḥ | Pā. 4-4-98 [?] iti yat | ye cābhāvakarmaṇor iti prakṛtibhāvaḥ | titsvaritam iti svaritatvaṃ | evam uttaratrāpi yatpratyayaḥ | sabheyaṃ | ḍhaś chandasi | Pā. 4-4-106 [?] | iti tatra sādhur ity arthe ḍhapratyayaḥ | dadāśat | dāśa dāne | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapaḥ śluḥ ‖*
+
+*Translation:* "At the *mahāpitṛyajña*, in the offering of Soma Pitṛmat, *somo dhenum* is the second *anuvākyā*; for each oblation two *anuvākyās* are prescribed together; so it is prescribed in the section *dakṣiṇāgneḥ*: '*somo dhenuṃ somo arvantam āśuṃ tvaṃ soma pitṛbhiḥ saṃvidānaḥ*' (Ā. 2-19 [?]). — The sacrificer who *dadāśat*, gives to Soma foods in the form of oblations: to that sacrificer Soma gives a milch-cow with her calf; likewise he gives *āśum*, a swift-going *arvantam*, a horse; and likewise a *vīram*, a son, to this sacrificer. What sort of son? *Karmaṇyam* — skilled in worldly works; *sadanyam* — *sadana* is the house: fit for it, i.e. skilled in the affairs of the house; *vidathyam* — the *vidathāḥ* are sacrifices, 'in which the gods are known': fit for them, i.e. devoted to the performance of such sacrifices as the new-moon and full-moon; *sabheyam* — good in the assembly, i.e. versed in all the śāstras; *pitṛśravaṇam* — the son through whom the father is heard of, becomes famous."
+
+*Grammar tail:* *karmaṇyam* — *karmasu sādhuḥ karmaṇyaḥ*; the suffix *yat* in the sense 'good at that' (Pā. 4-4-98 [?]); by *ye cābhāvakarmaṇoḥ* the *prakṛtibhāva*; by *tit svaritam* the *svarita*. Likewise the suffix *yat* in the later words. *sabheyam* — by *ḍhaś chandasi* (Pā. 4-4-106 [?]) the suffix *ḍha* in the sense 'good there'. *dadāśat* — root *dāśa dāne*; in the *leṭ* the augment *aṭ*; by *bahulaṃ chandasi* *ślu* for *śap*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.20)** *(Kannada; begins on p. 387)*
+
+*yaḥ* — whichever sacrificer; *dadāśat* — (oblations) offers; *asmai (tasmai)* — to that sacrificer; *somaḥ* — Soma-deity; *dhenum* — (together with the calf) a milch cow; *dadāti* — gives; *somaḥ* — Soma-deity; *āśum* — swiftly; *arvantam* — a horse; *dadāti* — gives; *somaḥ* — Soma-deity —
+
+---
+
+### Page 388 (PDF 403)
+
+*(Running head: left "388", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*(the Pratipadārtha continues:)* "*karmaṇyam* — one skilled in (worldly) tasks; *sadanyam* — one expert in house-affairs; *vidathyam* — (devoted to new-moon and full-moon) sacrificial works; *sabheyam* — (through knowledge of all śāstras) an ornament of the assembly; *pitṛśravaṇam* — one who makes his father's name well known; *vīram* — a worthy son — he gives."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.20** *(Kannada)*
+
+"To the sacrificer who offers oblations, the Soma-deity graciously gives a milch cow together with her calf, a swift-running horse; and also a worthy son, skilled in worldly tasks, expert in house-affairs, devoted to such sacrificial works as the new-moon and full-moon, an ornament of the assembly of the learned through the knowledge of all the śāstras, and one who makes his father's name well known and brings his father honour."
+
+**English Translation** *(printed in English in the source; Rik 91.20)*
+
+"To him who presents offerings, Soma gives a milch-cow, a swift horse, and a son who is able in affairs, skilful in domestic concerns, diligent in worships, eminent in Society and who is an honour to his father." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.20)** *(Kannada)*
+
+"In the *mahāpitṛyajña*, with reference to the deity Soma Pitṛmān, when the oblation is made, this Ṛk *somo dhenuṃ* is to be used as the *puronuvākyā* mantra, and for each separate oblation two *puronuvākyā* mantras are to be applied together; so the Āśvalāyana Śrauta-sūtra indicates in the section *tathaiva dakṣiṇāgneḥ* by the sūtra '*somo dhenuṃ somo arvantam āśuṃ tvaṃ soma pitṛbhiḥ saṃvidānaḥ*' (Ā. 2-19 [?])."
+
+***arvantam*** — "*atyaḥ, hayaḥ, arvā*, and so on: it is read among the names of the horse (Ni. 1-12 [?])."
+
+***vidathyam*** — *vidanty eṣu devān iti vidathāḥ* | "Since in the sacrifices the nature of the deities is well known, *vidatha* means 'sacrifice'; one who is engaged in sacrifices of the kind of the new-moon and full-moon is called *vidathya*. In explaining the Ṛk '*vidathāni pracodayan*' (Ṛ. Saṃ. 3-32-2 [?]; the numerals read "२-३२-७" [?]), the author of the Nirukta says '*vidathāni vedanāni*' (Ni. 2-3 [?]), 'knowledges' — as he has explained. Therefore one engaged in sacrifices that are means of such knowledge is called *vidathya*."
+
+***sabheyam*** — "*vidvatsabhāyāṃ yogyaḥ* — one fit for the assembly of the learned; that is, skilled in all the śāstras: this is the meaning."
+
+---
+
+**Progress note:** Printed pp. 1–388 done (PDF 16–403) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.19 complete; Rik 91.20 done through the Special Topics for *arvantam*, *vidathyam*, *sabheyam* (the Special Topics may continue on p. 389 with *pitṛśravaṇam* etc.). Next: printed p. 389 (PDF 404). "
+"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.20 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19: *parito bhāvayitryaṇi*, *vīryo jñāyante*, *asmāt kvip* clotted in the bhāṣya; *aṣāḷhaṃ* (p. 383) vs *uṣāḷhaṃ* (p. 339) as printed; the *kratve dakṣāya…* citation's text and numeral; Nirukta numeral for house-names read 3-4 (p. 365) and 3-13 (p. 385); the reference 'Ṛg. Saṃhitā Part 1, pp. 633–634' as printed; 91.20: Nirukta 1-12 for horse-names [?], the *vidathāni pracodayan* citation's numerals [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20); the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343; the Pada of 91.19 confirms *paribhūr astu*. "
 "Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
