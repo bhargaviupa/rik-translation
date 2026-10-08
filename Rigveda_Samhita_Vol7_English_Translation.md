@@ -12776,6 +12776,79 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–448 done (PDF 16–463), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.10 complete (92.3 minus the missing p. 413); Rik 92.11 done through the Special Topics and the first entries of the grammar page (*vyūrṇvatī*, *divaḥ*, *antān*), which continues on p. 449. Next: printed p. 449 (PDF 464). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–448 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–448 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.11; the Special Topics of 92.10: the *śvaghnī* Ṛgveda numerals (several unreadable) [?]; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
+### Page 449 (PDF 464)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 449. Foot: printer's signature "29 … Volume 7".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.11, concluded (grammar page, noted briefly):*
+
+[*antān*, concluded —] "…by *āto 'ṭi nityam* (Pā. 8-3-3 [?]), since a vowel [*a*-beginning word] follows, the *ā* becomes *anunāsika* [read: *ā*-preceded *ru* becomes *r* and the vowel is nasalized as in *antāṃ abodhi*]."
+*abodhi* — root *budha avagamane*; in the passive *luṅ*, third person singular, the suffix *ta*; by *ciṇ bhāvakarmaṇoḥ* (Pā. 3-1-66 [?]) *ciṇ* for the *cli*; because of it the guṇa of the light penultimate of the root; by *ciṇo luk* (Pā. 6-4-104 [?]) the *luk* of the *ta*; the augment *aṭ* for the stem; the *nighāta* of a finite verb.
+*sanutaḥ* — since it is read in the *svarādi* group as a final-acute word, by *svarādinipātam avyayam* (Pā. 1-1-37 [?]) it has the name *avyaya*; by *avyayād āpsupaḥ* (Pā. 2-4-82 [?]) the *luk* of the locative ending that follows it.
+*yuyoti* — root *yu miśraṇāmiśraṇayoḥ*; *laṭ*, third person singular, *tip*; by *bahulaṃ chandasi* *ślu* for *śap*; by *ślau* the root is doubled; by *sārvadhātukārdhadhātukayoḥ* the guṇa of the root's *u* because of *tip*; since it follows a word, the *nighāta*.
+*manuṣyā* — after the word *manuṣya*, the genitive-plural ending; by *supāṃ sulug* the replacement *ḍā* [for *ām*].
+*yugāni* — root *yujir yoge*; the suffix *ghañ* in the instrumental sense or the passive; by *cajoḥ ku ghiṇyatoḥ* (Pā. 7-3-52 [?]), since it is *ñit*, the *ku* replaces the *j*; the guṇa of the light penultimate would be obtained, but since the word *yuga* in the sense of a particular time is read in the *umbhādi* group, no guṇa; by *umbhādīnāṃ ca* the final-acute.
+*jārasya* — *dāra* and *jāra*, by *dārajārau kartari ṇiluk ca* (Pā. 3-3-20 [?]), are formed irregularly ending in *ghañ*. ‖ 11 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.12)** *(Triṣṭubh; the second line is on p. 450)*
+
+> पशून्न चित्रा सुभगा पृथाना सिन्धुर्न क्षोद उर्विया व्यश्वैत् ।
+
+*paśūn na citrā subhagā pṛthānā sindhur na kṣoda urviyā vy aśvait |*
+
+---
+
+### Page 450 (PDF 465)
+
+*(Running head: left "450", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+> अमिनती दैव्यानि व्रतानि सूर्यस्य चेति रश्मिभिर्दृशाना ॥ १२ ॥
+
+*aminatī daivyāni vratāni sūryasya ceti raśmibhir dṛśānā ‖ 12 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.12)**
+
+> पशून् । न । चित्रा । सुऽभगा । पृथाना । सिन्धुः । न । क्षोदः । उर्विया । वि । अश्वैत् ।
+> अमिनती । दैव्यानि । व्रतानि । सूर्यस्य । चेति । रश्मिऽभिः । दृशाना ॥ १२ ॥
+
+*paśūn | na | citrā | su-bhagā | pṛthānā | sindhuḥ | na | kṣodaḥ | urviyā | vi | aśvait | aminatī | daivyāni | vratāni | sūryasya | ceti | raśmi-bhiḥ | dṛśānā ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.12)**
+
+> सुभगा शोभनधना चित्रा चायनीयोषाः पशून्न यथा पशून्गोपालकोरण्ये विस्तारयति तथा पृथाना तेजांसि विस्तारयन्त्युर्वियोर्वी महती एवंभूता सा व्यश्वैत् । सर्वं जगद्व्याप्नोत् । तत्र दृष्टान्तः । सिन्धुर्न क्षोदः । यथा स्यन्दनशीलमुदकं निम्नदेशेऽजिरादेव व्याप्नोति तद्वत् । सैवोषाः सूर्यस्य रश्मिभिः किरणैः सह दृशाना दृश्यमाना सती चेति । प्रज्ञाताभूत् । किं कुर्वती । दैव्यानि देवसंबन्धीनि दर्शपूर्णमासादीनि कर्माणि व्रतान्यमिनती अहिंसती । अनुष्ठाने यजमानान्प्रवर्तयन्तीत्यर्थः । उषसः प्रादुर्भावानन्तरं ह्यग्निहोत्रादीनि सर्वाणि कर्माण्यनुष्ठीयन्ते न रात्रौ । न सायमुस्ति देवता आजुष्टं । ऋगुसं. ३-२२-१ [?] इति श्रुतेः ॥ पृथाना । पृथ प्रख्याने । अस्मादन्तर्भावितण्यर्थात्छीलिकश्चानश् । बहुलं छन्दसीति शपो लुक् । सिन्धुः । स्यन्दू प्रस्रवणे । स्यन्देः संप्रसारणं धश्च । उ. १-११ [?] इत्युप्रत्ययः । निदित्यनुवृत्तेरामुं दात्तत्वं । अश्वैत् । टुओश्चि गतिवृद्ध्योः । लुङ्यज्चजोर्विकल्पितत्वात् । पा. ३-१-४९ [?] च्लेः सिच् । आगमानुशासनस्यानित्यत्वादिडभावः । सिचि वृद्धिः । पा. ७-२-१ [?] अनिदादित्वात् हृम्यन्तक्षणेति वृद्धिप्रतिषेधाभावः । बहुलं छन्दसि । पा. ७-२-४२ [?] इतीडागमाभावः । स्कोः संयोगाद्योरिति सलोपः । चेति । चिती संज्ञाने । कर्मणि लुङः बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । दृशाना । दृशेः कर्मणि लटः शानच् । बहुलं छन्दसीति विकरणस्य लुक् ॥
+
+*subhagā śobhanadhanā citrā cāyanīyoṣāḥ paśūn na yathā paśūn gopālakoraṇye vistārayati tathā pṛthānā tejāṃsi vistārayanty urviyorvī mahatī evaṃbhūtā sā vy aśvait | sarvaṃ jagad vyāpnot | tatra dṛṣṭāntaḥ | sindhur na kṣodaḥ | yathā syandanaśīlam udakaṃ nimnadeśe 'jirād eva vyāpnoti tadvat | saivoṣāḥ sūryasya raśmibhiḥ kiraṇaiḥ saha dṛśānā dṛśyamānā satī ceti | prajñātābhūt | kiṃ kurvatī | daivyāni devasaṃbandhīni darśapūrṇamāsādīni karmāṇi vratāny aminatī ahiṃsatī | anuṣṭhāne yajamānān pravartayantīty arthaḥ | uṣasaḥ prādurbhāvānantaraṃ hy agnihotrādīni sarvāṇi karmāṇy anuṣṭhīyante na rātrau | na sāyam asti devatā ājuṣṭaṃ | Ṛ. Saṃ. 3-22-1 [?] iti śruteḥ ‖ pṛthānā | pṛtha prakhyāne | asmād antarbhāvitaṇyarthāc chīlikaś cānaś | bahulaṃ chandasīti śapo luk | sindhuḥ | syandū prasravaṇe | syandeḥ saṃprasāraṇaṃ dhaś ca | U. 1-11 [?] ity upratyayaḥ | nidity anuvṛtter āmuṃ dāttatvaṃ | aśvait | ṭuoś ci gativṛddhyoḥ | luṅy ajcajor vikalpitatvāt | Pā. 3-1-49 [?] cleḥ sic | āgamānuśāsanasyānityatvād iḍabhāvaḥ | sici vṛddhiḥ | Pā. 7-2-1 [?] anidāditvāt hṛmyantakṣaṇeti vṛddhipratiṣedhābhāvaḥ | bahulaṃ chandasi | Pā. 7-2-42 [?] itīḍāgamābhāvaḥ | skoḥ saṃyogādyor iti salopaḥ | ceti | citī saṃjñāne | karmaṇi luṅaḥ bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | dṛśānā | dṛśeḥ karmaṇi laṭaḥ śānac | bahulaṃ chandasīti vikaraṇasya luk ‖*
+
+*Translation:* "*Subhagā*, of good wealth, *citrā*, to be honoured, the Uṣas — as a cowherd in the forest spreads out his cattle, so she, *pṛthānā*, spreading her lights, *urviyā*, being wide and great, being such *vy aśvait*, pervaded all the world. The simile: *sindhur na kṣodaḥ* — as flowing water in a low place pervades [it] quickly, so [she]. That same Uṣas, *dṛśānā*, seen together with the rays of the sun, *ceti* — became known. What is she doing? She does not injure the *daivyāni vratāni*, the divine rites of the new- and full-moon and the like: that is, she urges the sacrificers to perform them. For it is after the appearance of Uṣas that all rites such as the Agnihotra are performed, not at night. 'Not in the evening is the deity pleased with it', says the śruti (Ṛ. Saṃ. 3-22-1 [?])."
+
+*Grammar tail (partly clotted; characterized):* *pṛthānā* — root *pṛtha prakhyāne*, with the causative sense included; the suffix *cānaś* in the habitual sense; *luk* of *śap* by *bahulaṃ chandasi*. *sindhuḥ* — root *syandū prasravaṇe*; *saṃprasāraṇa* of the root and *dha* (U. 1-11 [?]) the suffix *u*; the accent by the continuing rule *nit*. *aśvait* — root *ṭuoś ci gativṛddhyoḥ*; in the *luṅ* *sic* for *cli*; the augment *iṭ* is absent because the rule on augments is not invariable; the vṛddhi before *sic* (Pā. 7-2-1 [?]); the *iṭ*-augment prevented by *bahulaṃ chandasi* (Pā. 7-2-42 [?]); the elision of *s* by *skoḥ saṃyogādyoḥ*. *ceti* — root *citī saṃjñāne*; the passive *luṅ*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*. *dṛśānā* — *śānac* in the passive *laṭ* from *dṛś*; the *luk* of the stem-suffix by *bahulaṃ chandasi*."
+
+---
+
+### Page 451 (PDF 466)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 451.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.12)** *(Kannada)*
+
+*subhagā* — one who has excellent wealth; *citrā* — adorable; the Uṣas deity; *paśūn na* — as a cowherd lets his cattle spread over a pasture; *sindhuḥ na kṣodaḥ* — as a flowing river spreads its water; *pṛthānā* — spreading her radiance; *urviyā* — widely; *vy aśvait* — has pervaded the world; *daivyāni* — those connected with the gods; *vratāni* — sacrificial acts; *aminatī* — not injuring; *sūryasya* — of the Sun; *raśmibhiḥ* — together with the rays; *dṛśānā* — becoming visible; *ceti* — became known.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.12** *(Kannada)*
+
+"The Uṣas deity, who has excellent wealth and is adorable, has pervaded the world, spreading her radiance widely, as a cowherd lets his cattle spread over the green meadows in all directions, and as a flowing river spreads its water. And without injuring the sacrificial acts connected with the gods, she became visible with the rays of the Sun and perceptible to all."
+
+**English Translation** *(printed in English in the source; Rik 92.12)*
+
+"The affluent and adorable Ushas has sent her rays as a cowherd drives the cattle to pasture, and spreads expansive like flowing water ; She is seen associated with the rays of the Sun, unimpeding sacred ceremonies." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.12)** *(Kannada)*
+
+***citrā*** — *pūjanīyā* | "The adorable Uṣas deity. For the word *citra*, the meaning 'delightful, wonderful, or attractive' is commonly well known (*cāyanīya*). But here it means 'adorable'. The author of the Nirukta, citing the Ṛk that follows this, explains the word *citra* there as *citraṃ-maṃhanīyam* ('respectable'), 'to be honoured'; so it should be explained here too."
+
+***sindhuḥ na kṣodaḥ*** — "Since *āvanayaḥ, yahvyaḥ, khāḥ* and the like are read among the thirty-seven names of rivers (Ni. 1-[?] [?]), *sindhu* means 'river'; since *arṇaḥ, kṣodaḥ* and the like are read among the hundred names of water, *kṣoda* means 'water'. The simile here is apt: as a river spreads its water widely without being obstructed, so the Uṣas too spreads her radiance widely."
+
+---
+
+**Progress note:** Printed pp. 1–451 done (PDF 16–466), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.11 complete (92.3 minus the missing p. 413); Rik 92.12 done through the Special Topics for *citrā* and *sindhuḥ na kṣodaḥ* (more Special Topics may follow on p. 452, then the grammar page). Next: printed p. 452 (PDF 467). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–451 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–450 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.12 (in 92.12 the *nidity anuvṛtter āmuṃ dāttatvam* accent clause is clotted [?]); the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
