@@ -13503,7 +13503,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.1)** *(Kannada)*
 
-***vṛṣaṇā*** — "Although this attribute is used many times in respect of other deities too, there is a special sense in calling Agni and Soma *vṛṣaṇā*. [The Sanskrit phrases printed here, '*dedhaprtnāni dāśuṣe*' (garbled in my reading [?]) and '*parṣi rādho maghonām*', are cited as examples:] a prayer of one and the same order occurs in many contexts: in Ṛks such as Ṛ. Saṃ. 4-13-3 [?]; 8-101-2 [?], and, of Agni, 9-3-6 [?]; 9-1-3 [?], the same manner of aiming at both Agni and Soma is found. The meaning is that they are the givers of special wealth."
+***vṛṣaṇā*** — "Although this attribute is used many times in respect of other deities too, there is a special sense in calling Agni and Soma *vṛṣaṇā*. [The Sanskrit phrases printed here, '*dedhaprtnāni dāśuṣe*' (garbled in my reading [?]; **corrected after p. 475, where the same phrase is clearly printed: *dadhad ratnāni dāśuṣe*, "bestowing jewels on the giver") and '*parṣi rādho maghonām*', are cited as examples:] a prayer of one and the same order occurs in many contexts: in Ṛks such as Ṛ. Saṃ. 4-13-3 [?]; 8-101-2 [?], and, of Agni, 9-3-6 [?]; 9-1-3 [?], the same manner of aiming at both Agni and Soma is found. The meaning is that they are the givers of special wealth."
 
 ***haryatam*** — "*vaṣṭi, uśmasi* and the like, and also *haryati*, being read among the words for 'wishing' (Ni. 2-6 [?]), and since there is also the explanation '*haryatiḥ prepsākarmā*' (Ni. 7-17 [?]), *haryatam* means 'wish, desire' —
 
@@ -13538,6 +13538,103 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–472 done (PDF 16–487), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): the introduction, Anuvāda, heading block and Rik 93.1 done through the grammar page, which breaks at the foot of p. 472 mid-entry (*havam* — "…the accent of the root remains. —"), to be concluded from the head of p. 473. Next: printed p. 473 (PDF 488). "
-"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 [?]; the introduction's *haviṣām āditas tisra…* clause [?]; the garbled Sanskrit phrases in the Special Topics of 93.1 ('*dedhaprtnāni dāśuṣe*') [?]; the Ṛgveda numerals 4-13-3, 8-101-2, 9-3-6, 9-1-3, 10-150-2 and the Nirukta numerals 2-6, 7-17, 3-6 [?]; Pāṇini numerals 6-3-27, 8-3-81/82, 6-2-141, 6-1-198, 3-1-74, 6-4-8, 6-4-9, 3-3-75 [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]. Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 473 (PDF 488)
+
+*(Running head left: "A. 1 A. 6 Va. 28 [?]"; centre: "Ṛgvedasaṃhitā"; right: 473.)*
+
+*Vyākaraṇa-prakriyā of Rik 93.1, concluded (grammar page, noted briefly):*
+
+[*havam*, continued —] "…*sūktāni* — root *vaca paribhāṣaṇe*; when *su* precedes, the participle suffix *kta*; since it is *kit*, by *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15 [?]) the *saṃprasāraṇa*; the preceding form; the word *sūkta*. By *sūpamānāt ktaḥ* (Pā. 6-2-144 [?]) the final-member final-acute accent."
+*haryatam* — root *harya gatikāntyoḥ*, of the *bhvādi* class; *kānti* means 'wish'; *loṭ*, second person dual; since it follows a word, the *nighāta* accent.
+*bhavatam* — as before, *loṭ*, second person dual; since it follows a word, the *nighāta* accent does not occur [in the print: since the finite verb stands before a word [?]]; since *śap* is *pit*, it is unaccented; since the *lasārvadhātuka* (*tam*) comes after an *udāttopadeśa* root, by *tāsyanudāttetṅ…* (Pā. 6-1-186 [?]) it is unaccented; then the accent of the root remains. ‖ 1 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.2)** *(Anuṣṭubh)*
+
+> अग्नीषोमा यो अद्य वामिदं वचः सपर्यति ।
+> तस्मै धत्तं सुवीर्यं गवां पोषं स्वश्व्यम् ॥ २ ॥
+
+*agnīṣomā yo adya vām idaṃ vacaḥ saparyati | tasmai dhattaṃ suvīryaṃ gavāṃ poṣaṃ svaśvyam ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 93.2)**
+
+> अग्नीषोमा । यः । अद्य । वाम् । इदम् । वचः । सपर्यति ।
+> तस्मै । धत्तम् । सुऽवीर्यम् । गवाम् । पोषम् । सुऽअश्व्यम् ॥ २ ॥
+
+*agnīṣomā | yaḥ | adya | vām | idam | vacaḥ | saparyati | tasmai | dhattam | su-vīryam | gavām | poṣam | su-aśvyam ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.2)**
+
+> यदा पौर्णमास्यामग्नीषोमावुपांशुयाजस्य देवता तदानीमग्नीषोमा यो अद्येति तस्यानुवाक्या । सूत्रितं चोक्ता देवता इति खण्डे । अग्नीषोमा यो अद्य वामान्यं दिवो मातरिश्वा जभार । आ. १-६ [?] । इति ॥
+
+*yadā paurṇamāsyām agnīṣomāv upāṃśuyājasya devatā tadānīm agnīṣomā yo adyeti tasyānuvākyā | sūtritaṃ coktā devatā iti khaṇḍe | agnīṣomā yo adya vām anyaṃ divo mātariśvā jabhāra | Ā. 1-6 [?] | iti ‖*
+
+*(The sūtra as printed reads "…vāmānyaṃ divo mātariśvā jabhāra"; the words run together in the print and are given here as read [?].)*
+
+*Translation (so far):* "When, at the full-moon offering, Agni and Soma are the deities of the *upāṃśuyāja*, then *agnīṣomā yo adya* is its *anuvākyā*; it is prescribed in the section *uktā devatāḥ*: '*agnīṣomā yo adya vām anyaṃ divo mātariśvā jabhāra*' (Ā. 1-6 [?])."
+
+---
+
+### Page 474 (PDF 489)
+
+*(Running head: left "474", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+> हे अग्नीषोमौ यो यजमानोऽद्यास्मिन्कर्मणि वां युवाभ्यां युष्मदर्थमिदं स्तुतिलक्षणं वचो वाक्यं सपर्यति पूजितं करोति तस्मै यजमानाय गवां पशूनां पोषमभिवृद्धिं धत्तं । प्रयच्छतं । कीदृशं पोषं । सुवीर्यं शोभनेन वीर्येण सामर्थ्येनोपेतं स्वश्व्यं शोभनैरश्वैर्युक्तं ॥ गवां । सावेकाच इति प्राप्तस्य विभक्त्युदात्तत्वस्य न गोश्वन्साववर्णेति प्रतिषेधः ॥
+
+*he agnīṣomau yo yajamāno 'dyāsmin karmaṇi vāṃ yuvābhyāṃ yuṣmadartham idaṃ stutilakṣaṇaṃ vaco vākyaṃ saparyati pūjitaṃ karoti tasmai yajamānāya gavāṃ paśūnāṃ poṣam abhivṛddhiṃ dhattaṃ | prayacchataṃ | kīdṛśaṃ poṣaṃ | suvīryaṃ śobhanena vīryeṇa sāmarthyenopetaṃ svaśvyaṃ śobhanair aśvair yuktaṃ ‖ gavāṃ | sāvekāca iti prāptasya vibhaktyudāttatvasya na gośvansāvavarṇeti pratiṣedhaḥ ‖*
+
+*Translation:* "O Agni and Soma, the sacrificer who, now, in this rite, *saparyati* — honours — *idaṃ vacaḥ*, this word in the form of praise, for you two: to that sacrificer *dhattam*, give *poṣam*, increase, *gavām*, of cattle. What sort of *poṣam*? *Suvīryam* — endowed with excellent strength, capacity; *svaśvyam* — possessed of excellent horses. — *gavām*: the acute on the case-ending, which would be obtained by *sāvekācas…*, is prevented by *na goṣvansāvavarṇarāḍaṅkrutkṛdbhyaḥ* [as read]."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.2)** *(Kannada)*
+
+*agnīṣomā* — O Agni and Soma deities; *yaḥ* — whichever sacrificer; *adya* — in this sacrificial rite; *vām* — you (addressing you); *idaṃ vacaḥ* — this speech in the form of praise; *saparyati* — offers with respectful worship; *tasmai* — to that sacrificer; *suvīryam* — endowed with excellent capacity; *svaśvyam* — endowed with excellent horses; *gavām* — of cattle; *poṣam* — prosperity; *dhattam* — give.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.2** *(Kannada)*
+
+"O Agni and Soma deities, to the sacrificer who, in this rite, offers this praise to you, give prosperity of cattle endowed with excellent capacity and with excellent horses."
+
+**English Translation** *(printed in English in the source; Rik 93.2)*
+
+"Agni and Soma, grant to him who addresses this prayer to you both, store of cattle with sound strength and good horses." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.2)** *(Kannada)*
+
+"In the *Paurṇamāsyeṣṭi*, for invoking the deities in the *upāṃśuyāja* offered to the deities Agni and Soma, the Ṛk *agnīṣomā yo adya* is to be used as the *puronuvākyā* mantra; the Āśvalāyana Śrauta-sūtra shows this, in the section *uktā devatā*, by the sūtra '*agnīṣomā yo adya vāmānyaṃ divo mātariśvā jabhāra*' (Ā. 1-6 [?])."
+
+***saparyati*** — "*irajyati, vidhema, saparyati* and the like being read among the names of acts of attendance (Ni. 3-13 [?]), it means respectful worship. Citing the example '*rodasī saparyataḥ*' (Ṛ. Saṃ. 10-30-1 [?]), the author of the Nirukta (Ni. 10-10 [?]) explains '*paricarataḥ*', that is, '*pūjayataḥ*', 'they worship'. So here too it means respectful worship, an offering.'"
+
+---
+
+### Page 475 (PDF 490)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 475.)*
+
+***suvīryaṃ svaśvyaṃ gavāṃ poṣam*** — "It has been described in many places that Agni and Soma, both these deities, are lords of all wealth. As in '*dadhad ratnāni dāśuṣe*' (Ṛ. Saṃ. 1-12-3 [?]), said of Agni, so of Soma too (Ṛ. Saṃ. 9-3-6 [?]) it is addressed. The kind of jewels that are meant is explained:"
+
+> गोजिन्नः सोमो रथजिद्धिरण्यजित्स्वर्जिदब्जित्पवते सहस्रजित् ।
+
+*gojin naḥ somo rathajid dhiraṇyajit svarjid abjit pavate sahasrajit |*  (Ṛ. Saṃ. 9-[?]-4 [?]; the print is blurred in places: *abjit pavate* read with doubt [?])
+
+*Gloss, mine and tentative:* "Soma, winner of cows for us, winner of chariots, of gold, of heaven, of the waters, flows clear, winner of thousands."
+
+"— as this Ṛk explains, the power and the generosity of Soma are described: he is the one who grants to sacrificers many kinds of wealth, namely cows, chariots, gold and the like."
+
+> वसुर्वसूनां क्षयसि त्वमेक इद्द्यावा च यानि पृथिवी च पुष्यतः ।
+
+*vasur vasūnāṃ kṣayasi tvam eka id dyāvā ca yāni pṛthivī ca puṣyataḥ |*  (Ṛ. Saṃ. 10-41-3 [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "You alone, the good of goods, rule over those [goods] which heaven and earth nourish."
+
+"— as in this Ṛk, in many places Agni is praised: 'Agni alone is the lord of all kinds of wealth, and both heaven and earth are nourished by the wealth that this giver gives.' So the deities Agni and Soma, the lords of all wealth, are prayed to — as is customary — for wealth in the form of excellent cattle, horses and the like, to be granted."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.2)** *(Kannada; grammar page, noted briefly)*
+
+*agnīṣomā* — for the ending *au* of this [word], by *supāṃ sulug* the replacement *ā*; the formation of the form was explained in the previous mantra.
+*vacaḥ* — root *vaca paribhāṣaṇe*; by *sarvadhātubhya asun* (Uṇādi 4-189 [?]) the suffix *asun*; since it is *nit*, the initial-acute accent.
+*saparyati* — root *sapara pūjāyām* [as printed; a nominal verb-stem [?]]; since it is read in the *kaṇḍvādi* list, by *kaṇḍvādibhyo yak* (Pā. 3-1-27 [?]) the suffix *yak* in its own sense; by *sanādyantā dhātavaḥ* it takes the name of a root; *laṭ*, third person singular; since *yaḥ* ("who") is related, the *nighāta* does not occur; the accent of *yak* remains.
+*dhattam* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, of the *juhotyādi* class; *loṭ*, second person dual; the replacement *tam*; *ślu* for the stem-suffix; the root is doubled; by *śnābhyastayor ātaḥ* (Pā. 6-4-112 [?]) the elision of the root's *ā*; by *khari ca* (Pā. 8-4-55 [?]) the *dh* becomes *t*; since it follows a word, the *nighāta* accent. —
+
+---
+
+**Progress note:** Printed pp. 1–475 done (PDF 16–490), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1 complete; Rik 93.2 done through the grammar page, which breaks at the foot of p. 475 in *dhattam* ("…since it follows a word, the *nighāta* accent. —"), to be concluded from the head of p. 476. Next: printed p. 476 (PDF 491). "
+"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?]; the introduction's *haviṣām āditas tisra…* clause [?]; the Special Topics of 93.1 cite '*dedhaprtnāni dāśuṣe*' (garbled on p. 471), which p. 475 shows to be *dadhad ratnāni dāśuṣe* — correction noted in the text; the Ṛgveda numerals (4-13-3, 8-101-2, 9-3-6, 9-1-3, 10-150-2, 1-12-3, 10-30-1, 10-41-3, 9-[?]-4) and Nirukta numerals (2-6, 7-17, 3-6, 3-13, 10-10) [?]; Pāṇini/Uṇādi numerals on pp. 470–475 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule (*na goṣvan…*) as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]. Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
