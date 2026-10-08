@@ -12665,6 +12665,117 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–445 done (PDF 16–460), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.10 complete (92.3 minus the missing p. 413); Rik 92.11 Saṃhitā, Pada, bhāṣya and Pratipadārtha done (pp. 444–445); its Bhāvārtha, English translation, Special Topics and grammar page come next. Next: printed p. 446 (PDF 461). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–443 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–445 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10; the Special Topics of 92.10: the *śvaghnī* Ṛgveda numerals (several unreadable) [?]; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
+### Page 446 (PDF 461)
+
+*(Running head: left "446", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.11** *(Kannada)*
+
+"When the Uṣas deity, freeing all the end-portions of the mid-region from darkness, was making them shine, everyone came to know her form. She sends her sister, the night, who had gone away of herself, to a hidden place, so that she is not seen. Bringing to an end the ages of men — Kṛta, Tretā and the rest — which measure their time, she shines with her own radiance as the wife of the Sun, who makes the night end."
+
+**English Translation** *(printed in English in the source; Rik 92.11)*
+
+"She has been seen illuminating the boundaries of the sky, and driving into disappearance the spontaneously [sic, as printed: 'the spontaneously night'] night; wearing away the ages of the human race, she shines with light like the bride of the Sun." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.11)** *(Kannada)*
+
+***vyūrṇvatī*** — *ūrṇuñ ācchādane* | "The root *ūrṇu*, which gives the sense 'to cover, to hide', forms *ūrṇvatī*. Here, joined with the preposition *vi*, the sense is 'removal of covering': that is, removal of the covering that is the darkness of the night. *vivṛtāṃs tamasā viyuktān kurvaty uṣāḥ* — 'the Uṣas who, with the radiance that has enveloped the world, makes it shine' — this is the meaning."
+
+"In some places, when this is used as an epithet of Uṣas, there is the meaning 'giving' for *vyūrṇvatī*. For example —"
+
+> व्यूर्ण्वती दाशुषे वार्याणि पुनर्ज्योतिर्युवतिः पूर्वथाकः ।
+
+*vy ūrṇvatī dāśuṣe vāryāṇi punar jyotir yuvatiḥ pūrvathākaḥ |*  (Ṛ. Saṃ. 3-[?]-6 [?]; the numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "Opening out choice things for the giver, the young woman has again made the light as of old."
+
+"— in this Ṛk, *prayacchantī* ['giving'] is explained: 'as one who gives'; here too it means that she appears and gives. In such Ṛks as Ṛ. Saṃ. 6-[?]-3 [?], the explanation '*svatejasā ācchādayantī*' is given. In all those places the preposition *vi* has the special sense of 'distinctly'; *ūrṇvana* is 'to cover by spreading out the radiance completely' — this is the idea."
+
+***svasāram*** — *uṣasaḥ prādurbhāve sati svayam eva sarantīṃ niśām* | "'Night, who, when the Uṣas appears, goes away of herself': it is explained that with the very rising of Uṣas the night goes away of herself. Here for the word *svasāram* the meaning 'sister' may also be given. The Night and the Uṣas are sisters, since the Night, together with the Uṣas, is born at the same time —
+
+---
+
+### Page 447 (PDF 462)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 447.)*
+
+"— and is a sister of Uṣas who gives place to the Uṣas, her own sister. The relation of these two is also described in many places —"
+
+> समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।
+
+*samāno adhvā svasror anantas tam anyānyā carato devaśiṣṭe |*  (Ṛ. Saṃ. 1-113-3 [?])
+
+> स्वस्वा स्वस्रे ज्यायस्यै योनिमारैगपैत्यस्याः प्रतिचक्ष्येव ।
+
+*svasvā svasre jyāyasyai yonim āraig apaity asyāḥ praticakṣyeva |*  (Ṛ. Saṃ. 1-124-8 [?]; the Saṃhitā text read with difficulty [?])
+
+> अरुषस्य दुहितरा विरूपे स्तृभिरन्या पिपिशे सूरो अन्या ।
+> मिथस्तुरा विचरन्ती पावके मन्म श्रुतं नक्षत ऋच्यमाने ॥
+
+*aruṣasya duhitarā virūpe stṛbhir anyā pipiśe sūro anyā | mithas turā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne ‖*  (Ṛ. Saṃ. 6-49-3 [?])
+
+*Gloss, mine and tentative (for the three):* "The path of the two sisters is the same, endless; they go along it one after another, taught by the gods. — The younger sister yields her place to the elder, as if looking back at her. — The two daughters of the ruddy one, of different forms: one is adorned with stars, the other with the sun; hastening one after the other, moving about, purifying, the praised pair attain the heard prayer."
+
+"In many Ṛks such as these, describing the sister-relation of the Night and the Uṣas, it is explained that both, by their constant and regulated movement, are the cause of the progress of the world. Hence here too it can be said that *svasāram* means 'sister'."
+
+***sanutaḥ*** — "*niṇyam, svasaḥ, sanutaḥ* and the like being read among the six names of 'hidden' (Ni. 3-[?] [?]), it means 'hidden', 'not visible to the eye'. As an example for this word the author of the Nirukta cites the Ṛk —"
+
+> स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ।
+
+*sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu |*  (Ṛ. Saṃ. 6-44-12 [?])
+
+*Gloss, mine and tentative:* "May Indra, the good protector, the possessor of his own, drive away from us, even far off, [our] hatred, hiding it."
+
+"Likewise, in many Ṛks such as Ṛ. Saṃ. 3-[?]-3 [?]; 5-[?]-[?] [?]; 8-[?]-3 [?]; 10-[?]-6 [?] the word is used in the senses of 'secret', 'hidden', 'a place not visible to the eye'. In this context also it is said that the Uṣas drives the night, her own sister, to a hidden place that no one can see."
+
+***yugāni praminatī*** — *yugaśabdaḥ kālavacanaḥ | manuṣyāṇāṃ jīvitādikālān* | "The word *yuga* means a span of time, the time of human life. (His explanation may be seen on page 2[?] of Bāl Gaṅgādhar Tilak's book *The Arctic Home in the Vedas* [as printed; the page number is not legible [?]].) She, causing to end the whole period of men's lives —"
+
+***cakṣasā vibhāti*** — "She shines with her own radiance, with her beauty, together with her beloved Sun. In this idea the experience of truth and the sight of beauty are joined together. The truth-seeing idea that the Uṣas brings to an end the whole period of human life is expressed generally in all the descriptions of Uṣas. For example —"
+
+---
+
+### Page 448 (PDF 463)
+
+*(Running head: left "448", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+> ईयुष्टे ये पूर्वतरामपश्यन्व्युच्छन्तीमुषसं मर्त्यासः ।
+
+*īyuṣ ṭe ye pūrvatarām apaśyan vyucchantīm uṣasaṃ martyāsaḥ |*  (Ṛ. Saṃ. 1-113-8 [?]; numerals as read; the first word is printed *īyuṣṭe* [?])
+
+> अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
+
+*aminatī daivyāni vratāni praminatī manuṣyā yugāni |*  (Ṛ. Saṃ. 1-124-2 [?])
+
+*Gloss, mine and tentative (for both):* "Those mortals who saw the earlier Uṣas dawning have gone. — Not infringing the divine laws, bringing to an end the ages of men."
+
+"— in many such places the picture of the brevity of human life is drawn: all who saw this eternal beauty of the Uṣas in former times and were pleased have passed away; those who come afterwards will be the same; but the Uṣas alone is eternal, ever young: so the idea is expressed."
+
+***jārasya*** — *rātrer jarayituḥ sūryasya* | "Of the Sun, who brings the night to an end, or of the beloved Sun: either meaning may be taken; the second meaning is the more acceptable."
+
+***yoṣā*** — "'As a wife': since afterwards there is a relation of husband and wife, the meaning 'beloved' is appropriate. This married relationship of Uṣas and the Sun is described in many places. For example —"
+
+> सूर्यो देवीमुषसं रोचमानां मर्यो न योषामभ्येति पश्चात् ।
+
+*sūryo devīm uṣasaṃ rocamānāṃ maryo na yoṣām abhy eti paścāt |*  (Ṛ. Saṃ. 1-115-2 [?])
+
+> वाजिनीवती सूर्यस्य योषा चित्रामघा राय ईशे वसूनाम् ।
+
+*vājinīvatī sūryasya yoṣā citrāmaghā rāya īśe vasūnām |*  (Ṛ. Saṃ. 7-75-3 [?])
+
+*Gloss, mine and tentative:* "The Sun follows the shining goddess Uṣas from behind, like a man [following] a young woman. — The strong, the Sun's wife, of wonderful gifts, rules over the wealth of goods."
+
+"— in many such contexts the relation of husband and wife between Sūrya and Uṣas is indicated. The author of the Nirukta also, explaining '*sūryā sūryasya patnī*', cites the Ṛk Ṛ. Saṃ. 10-[?]-20 [?] (Ni. 12-[?] [?])."
+
+***cakṣasā*** — *ātmīyena prakāśajñena* | "By her own sight: with her sight in the form of radiance, being united with the Sun, she shines: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.11)** *(Kannada; grammar page, noted briefly)*
+
+*vyūrṇvatī* — root *ūrṇuñ ācchādane*; when the preposition *vi* precedes, in the place of the *laṭ* the suffix *śatṛ*: *vyūrṇvat*; in the feminine, since *śatṛ* is *ugit*, by *ugitaś ca* the suffix *ṅīp*; since *śatṛ* has no *num*, an *ī* with the name *nadī* has come after it, and by *śatur anumo nadyajādī* the *ṅīp* takes the acute.
+*divaḥ* — by *ūḍidaṃ padādi* the case-ending takes the acute.
+*antān* — by *dīrghād aṭ samānapāde* (Pā. 8-3-9 [?]) the *n* becomes *ru*; by *ato roḥ…* [as read] *āto 'ṭi nityam* (Pā. 8-3-3 [?]) the *ā* before the following *a*-beginning word takes the *anunāsika* —
+
+---
+
+**Progress note:** Printed pp. 1–448 done (PDF 16–463), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.10 complete (92.3 minus the missing p. 413); Rik 92.11 done through the Special Topics and the first entries of the grammar page (*vyūrṇvatī*, *divaḥ*, *antān*), which continues on p. 449. Next: printed p. 449 (PDF 464). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–448 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–448 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.11; the Special Topics of 92.10: the *śvaghnī* Ṛgveda numerals (several unreadable) [?]; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
