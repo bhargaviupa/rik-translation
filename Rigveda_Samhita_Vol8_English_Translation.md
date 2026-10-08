@@ -432,4 +432,83 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–3 done (PDF 21–23): the title page and Sāyaṇa's introduction to Sūkta 95 (*dve virūpe*; 11 Ṛks; Kutsa Āṅgirasa; Triṣṭubh; Agni, or the Agni of the dawn; 15th Anuvāka), the Anuvāda, the heading block, and Rik 95.1 (Saṃhitā and Pada). Next: printed p. 4 (PDF 24) — the Sāyaṇa-bhāṣya of Rik 95.1. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (Sūkta starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–vii read from small print, with clotted words [?]; the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folios vi–viii [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 (*agnir agnir auṣasyo vā*) [?].
+### Page 4 (PDF 24)
+
+*(Running head: left 4; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.1)**
+
+> स्वर्थे स्वरणे शोभनगमनागमने । यद्वा । अर्थः प्रयोजनं । शोभनप्रयोजनोपेते विरूपे विषमरूपे शुक्लकृष्णतया नानारूपे द्वे अहोरात्रे चरतः । पुनः पुनः पर्यावर्तेते । ते चाहोरात्रे अग्नेः सूर्यस्य च जननी । तत्र रात्रेः पुत्रः सूर्यः । स हि गर्भवद्रात्र्यावन्तर्हितः सन् तस्याः क्रमभागादुत्पद्यते । अह्नः पुत्रोऽग्निः । स हि तत्र विद्यमानोऽपि प्रकाशरहितैनाप्रसन्नकल्पः सन् तस्मादह्नः सकाशान्निर्मुक्तः प्रकाशमानं स्वात्मानं लभते । अनयोरेतयोः पुत्रत्वं च तैत्तिरीयैराम्नायते । शतोरेता वत्सौ । अग्निश्चादित्यश्च । रात्रेर्वत्सः । श्वेत आदित्यः । अह्नोऽरुणः [?] । ताम्रो अरुण इति । ते चाहोरात्रे वत्सं स्वं स्वं पुत्रं मन्यान्या परस्परव्यतिहारेणोप धापयेते । स्वकीयं रसं पाययतः । यद्रात्र्यां कर्तव्यं स्वपुत्रस्यादित्यस्य रसस्य पायनं तदहः करोति । यदहः कर्तव्यं स्वपुत्रस्याग्नेः रसस्य पायनं तद्रात्रिः करोति । एतच्च सायंप्रातःकालीनाहुत्यभिप्रायं । श्रूयते च । तस्माद् अग्नये सायं हूयते । सूर्याय प्रातरिति । यस्मादेवं । तस्मादन्यस्यां स्वजननन्यां अन्यस्यामहरात्रिकायां [?] । हरिः रसहरणशीलः आदित्यः स्वधावान् हविर्लक्षणान्नवान्भवति । शुक्रः निर्मलदीप्तिरग्निः स्वजननन्यामन्यस्यां रात्र्यामादित्यस्य जनन्यां सुवर्चाः शोभनदीप्तियुक्तः सन् ददृशे । दृश्यते ॥
+
+*svarthe svaraṇe śobhanagamanāgamane | yadvā | arthaḥ prayojanaṃ | śobhanaprayojanopete virūpe viṣamarūpe śuklakṛṣṇatayā nānārūpe dve ahorātre carataḥ | punaḥ punaḥ paryāvartete | te cāhorātre agneḥ sūryasya ca jananī | tatra rātreḥ putraḥ sūryaḥ | sa hi garbhavad rātryāvantarhitaḥ san tasyāḥ kramabhāgād utpadyate | ahnaḥ putro 'gniḥ | sa hi tatra vidyamāno 'pi prakāśarahitaināprasannakalpaḥ san tasmād ahnaḥ sakāśān nirmuktaḥ prakāśamānaṃ svātmānaṃ labhate | anayor etayoḥ putratvaṃ ca taittirīyair āmnāyate | śatoretā vatsau | agniś cādityaś ca | rātrer vatsaḥ | śveta ādityaḥ | ahno 'ruṇaḥ [?] | tāmro aruṇa iti | te cāhorātre vatsaṃ svaṃ svaṃ putraṃ manyānyā parasparavyatihāreṇopa dhāpayete | svakīyaṃ rasaṃ pāyayataḥ | yad rātryāṃ kartavyaṃ svaputrasyādityasya rasasya pāyanaṃ tad ahaḥ karoti | yad ahaḥ kartavyaṃ svaputrasyāgneḥ rasasya pāyanaṃ tad rātriḥ karoti | etac ca sāyaṃprātaḥkālīnāhutyabhiprāyaṃ | śrūyate ca | tasmād agnaye sāyaṃ hūyate | sūryāya prātar iti | yasmād evaṃ | tasmād anyasyāṃ svajananyāṃ anyasyām ahorātrikāyāṃ [?] | hariḥ rasaharaṇaśīlaḥ ādityaḥ svadhāvān havirlakṣaṇānnavān bhavati | śukraḥ nirmaladīptir agniḥ svajananyām anyasyāṃ rātryām ādityasya jananyāṃ suvarcāḥ śobhanadīptiyuktaḥ san dadṛśe | dṛśyate ‖*
+
+*Sense (mine, from the Kannada that follows):* "*svarthe* — of fine going and coming; or, *artha* is 'purpose': the two, day and night, which possess a fine purpose, being *virūpe* — of unequal forms, of various forms by being white and black — move, and revolve again and again. These two, day and night, are the mothers of Agni and of Sūrya. Of these, Sūrya is the son of night: hidden in the night as in a womb, he is born from the portion of it that comes in due course. Agni is the son of the day: although existing in it, being devoid of light, as if ungladdened, released from that day, he obtains his own shining self. That these two are sons [of the day and night] is handed down by the Taittirīyas: 'the two calves of the hundred-fold seed [?], Agni and Āditya; the calf of the night is the white Āditya; [the calf] of the day is red [?]; the coppery one is red.' And the day and night, each thinking of its own calf, their own son, give it to drink, in mutual exchange, their own sap: what has to be done at night for the sap-giving of their own son Āditya, the day does; what has to be done in the day for the sap-giving of its own son Agni, the night does. This has in view the evening and the morning oblations; and it is heard: 'therefore the oblation is made to Agni in the evening, to Sūrya in the morning.' Since it is so, in the one mother, in the other — Hari, the Āditya, who is of the nature of drawing up the sap, becomes one who has *svadhā*, who has food in the form of the oblation; and the *śukra*, bright Agni, in the other, the night that is Āditya's mother, endowed with fine radiance (*suvarcāḥ*), is seen." *(The Taittirīya passage and the phrase* anyasyām ahorātrikāyām *are clotted in the print [?]; the grammatical tail, which runs from the foot of this page to the head of p. 5, is characterized below, not transcribed.)*
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed; grammar words and sūtras named only where legible):* *svarthe* — root *ṛ* (to go), the suffix *thān* in the sense of the action or the object (*uṣikuṣigārtibhyas than*), first-syllable acute because the suffix is *ṇit*-marked; the compound 'those two whose purpose is fine' takes the accent of the later member's first syllable in a two-syllabled word (*dvyac chandasi*); *anyānyā* — the doubling of a pronoun in the sense of reciprocal action ('*karmavyatihāre sarvanāmno dve bhavata iti vaktavyam*'; '*samāsavac ca bahulam*', Mahābhāṣya 8-1-10 [?]), with the accent of the repeated word (*āmreḍita*) as the unaccented second member; *dhāpayete* — root *dheṭ* (to drink), *ā*-substitution, *ṇic* in the causal sense, with the augment *puk* by the rule beginning *arti-hrī…* (Pā. 7-3-36 [?]), with a long discussion (clotted in the print) on whether the rule on 'the technical rule stated for the particular form' applies; *hariḥ* — root *hṛñ* (to take), the Uṇādi suffix *in*, first-syllable acute because of the *ñ*-marker; *bhavati* — the verb is unaccented after the nominative (the rule on '*ekānnābhyāṃ samarthābhyām*' [?], Pā. 8-1-65 [?]) *(continues on p. 5)*.
+
+### Page 5 (PDF 25)
+
+*(Running head: left "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 5.)*
+
+*Grammatical tail, concluded:* … the *nighāta* [accent is blocked? — the sentence is clotted in the print [?]]. *dadṛśe* — *liṭ* in the present sense, by *chandasi luṅlaṅliṭaḥ*. *suvarcāḥ* — 'one whose *varcas* (lustre) is fine'; the accent on the later member's first syllable (*sormanasī alomoṣasī*). ‖
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*svarthe* — [the two] with an excellent coming and going and moving about, or with excellent purposes; *virūpe* — (by the difference of white and black) of different forms; *dve* — the two, day and night; *carataḥ* — repeatedly move by revolution (these day and night both); *anyānyā* — by mutual exchange; *vatsaṃ* — their own, each its own, son (Agni and Sūrya); *upadhāpayete* — they give food and nourish. The night gives food to Agni, the son of the day, and the day to Sūrya, the son of the night (hence); *anyasyāṃ* — in the day, who is Agni's mother; *hariḥ* — Sūrya, who draws the sap; *svadhāvān* — one having food in the form of oblation; *bhavati* — becomes; *śukraḥ* — Agni with the spotless brightness; *anyasyāṃ* — in the night, who is Āditya's mother; *suvarcāḥ* — with fine radiance; *dadṛśe* — is seen."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The day and the night, which move to and fro in excellent journeys and are of different forms by the difference of white and black, revolve again and again in succession. These two, too, by exchange, feed — the night, Agni, the son of the day, and the day, Sūrya, the son of the night. Sūrya, who draws sap from the day, who is the mother of Agni, gets food in the form of oblation, and Agni, endowed with spotless brightness, obtains his own excellent radiance in the night, who is Sūrya's mother." *(Paraphrased as printed.)*
+
+**English Translation (as printed)**
+
+> Two periods, of different complexions, revolve for their own purposes, and each in sucession [sic] severally nourishes a son ; in one, Hari (Sun) is the receiver of oblations, in the other, the brilliant Agni is beheld.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Kannada)**
+
+> द्वे विरूपे सूक्तमौषसाग्नेयम् ।
+> *dve virūpe sūktam auṣasāgneyam |*
+> (*Bṛ. De.* 3-14 as read [?])
+
+*(Translation, mine and tentative, of the quotation as read: "the sūkta* dve virūpe *is for Uṣas and for Agni".)*
+
+"At the beginning of this sūkta there is a description of night and the dawns, and a series of attendances which serve Agni's nourishment. Without the least rest, by repeated revolution, and by alternation, the world-travel of the nights and dawns, which one by one goes on without a break, is described in a poetic hymn; and it is told with what affection both nourish Agni, the benefactor of the world. One more matter to notice in this Ṛk is, as Skandasvāmin says —"
+
+> उषसा चात्र तत्स्मरणमन्यन्तरभाव्यर्थः क्रम्यते [?]
+> *uṣasā cātra tatsmaraṇam anyantarabhāvyarthaḥ kramyate [?]*
+
+*(The Sanskrit of Skandasvāmin is clotted in the print and is read as given [?]; gloss, mine and tentative from the Kannada: "and here 'by Uṣas' the memory of that [day] is the sense to be understood".)* "— that since in this description the dawn (*uṣas*), which indicates the day, is mentioned, the word 'Uṣas' wherever it is used here means 'day' (*ahas*)."
+
+*(The Special Topics continue on p. 6.)*
+
+### Page 6 (PDF 26)
+
+*(Running head: left 6; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+"…in the form of alternation, by repetition and by turns, and — one after another — the unbroken world-travel of the nights and dawns, is described in a poetic hymn, and it is told with what affection the two nourish Agni, who benefits the world."
+
+***dve virūpe*** — *viṣamarūpe śuklakṛṣṇatayā*: "the dawns and nights, with differing colours in the forms of white and black."
+
+> अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
+> *ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |*
+> (*Ṛ. Saṃ.* 6-9-1)
+
+*(Gloss, mine and tentative: "the black day and the bright day revolve [as] the two spaces, by their [own] knowable ways".)*
+
+"As described in the sūkta of Bharadvāja, so here too the night, of black colour, and the day, of white colour, move about one after the other in alternation: so is explained the revolution (*paribhramaṇa*) of day and night."
+
+***svarthe*** — *śobhanagamanāgamane*: "'having excellent going and coming, in the form of a most excellent movement': the sense is the movement-order. For the word *artha*, 'to go' is a sense given by *arthaḥ artheḥ* (Ni. 1-18 [?]), 'move', and by following the derivation of the Nirukta-author, one meaning has come out that *artha* is 'going'; besides this, *arthaḥ prayojanam* (the sense of *artha* is 'purpose') — *śobhanaprayojanopete*, 'having an excellent purpose': since the word *artha* means 'purpose', the sense is 'those whose purpose is the most excellent', that is, 'those whose purpose is to help the course of the world'. Another meaning arises thus."
+
+***anyānyā vatsam upadhāpayete*** — *te ca ahorātre svaṃ svaṃ putraṃ parasparavyatihāreṇa upadhāpayete svakīyaṃ rasaṃ pāyayataḥ*: "'the day and the night, each its own son, by mutual exchange, give to drink their own sap': the day and night give to drink in turn, to their own sons — that is, the day to the son of the night, and the night to the son of the day: this is the principal sense of the sentence. In what contexts the word *vatsa* is used here, those who have studied it will say:"
+
+> रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> *ruśadvatsā ruśatī śvetyāgād āraigu kṛṣṇā sadanāny asyāḥ |*
+> (*Ṛ. Saṃ.* 1-113-2 as read)
+
+*(The word* āraigu *as printed, doubtful [?]. Gloss, mine and tentative: "the white one has come, shining, with the shining calf; the dark one has left her dwellings".)*
+
+"As it is used in such a Ṛk, Agni, in the form of the Sun, is well known as the son of Uṣas. And not only that, but —" *(continues on p. 7)*
+
+---
+
+**Progress note:** Printed pp. 1–6 done (PDF 21–26): the title page, introduction, Anuvāda and heading of Sūkta 95; Rik 95.1 (Saṃhitā, Pada, Sāyaṇa-bhāṣya with the grammatical tail characterized, Pratipadārtha, Bhāvārtha, English, and the Special Topics begun — the passage on *anyānyā vatsam upadhāpayete* breaks at the foot of p. 6 at "And not only that, but —"). Next: printed p. 7 (PDF 27). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations (see above) [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* [?]; *āraigu* (1-113-2), Bṛ. De. 3-14, Ni. 1-18 as read [?]; the grammatical tail of 95.1 is characterized, with its numerals as read [?].
