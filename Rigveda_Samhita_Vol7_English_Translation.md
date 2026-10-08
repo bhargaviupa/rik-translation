@@ -6550,4 +6550,66 @@ Closing of Rik 87.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–233 done (PDF 16–248) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.4 complete**; **Rik 87.5** — Saṃhitā, Pada and the first lines of the bhāṣya (to *vayaṃ vadāmasi* … *ato vayaṃ*) done at the foot of p. 233; the bhāṣya continues on p. 234; then 87.5's remainder and 87.6. Next: printed p. 234 (PDF 249). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 234 (PDF 249)
+
+*(Running head: "234 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Bhāṣya of Rik 87.5, continued from p. 233 (Kannada script; the sentence beginning "pratnasya" runs on; several clauses are compressed and read with doubt [?]):*
+
+> …ब्रूम इत्यर्थः । कोऽसौ वृत्तान्त इति चेत् उच्यते । सोमस्य यज्ञेष्वभिषुतस्य सोमद्रव्यस्य चक्षसा प्रकाशमानयाहुत्या सहिता जिह्वा स्तुतिरूपा वाक् प्र जिगाति । मरुद्गणं प्रकर्षेण गच्छति । यज्ञेषु सोमाहुतिः स्तुतिश्च मरुद्भ्यः क्रियते । यस्मादीमेनमिन्द्रं शमि वृत्रवधादिरूपे कर्मणि ऋक्वाणः प्रहर भगवो जहि वीरयस्वेत्येवंरूपया स्तुत्या युक्ताः सन्त आशत प्राप्नुवन् । [clause cramped: "na paryety…" [?]] आदित् इदमिन्द्रप्राप्त्यनन्तरमेव यज्ञियानि यज्ञार्हाणि [?] चेत्येवमादीनि नामानीन्द्रसकाशाल्लब्ध्वा दधिरे । धृतवन्तः । तस्मादेषां यज्ञे सोमाहुतिः स्तुतिश्च क्रियते ॥ शमि । शमु शमीति कर्मनाम । सप्तम्येकवचने छान्दसः ईकारलोपः । ऋक्वाणः । ऋच स्तुतौ । सम्पदादिलक्षणो भावे क्विप् । छन्दसीवनिपावित्यादिना मत्वर्थीयो वनिप् । अन्त्यविकारश्छान्दसः । यद्वा । अयस्मयादिषु च । (का. १-४-२० [?]) इत्युक्तत्वात् पदसञ्ज्ञा भसञ्ज्ञा च … [cramped] । आशत । लङः बहुलं छन्दसीति विकरणस्य लुक् । यज्ञियानि । यज्ञर्त्विग्भ्यां घखञौ (पा. ५-१-७१) इति घ-प्रत्ययः ॥
+
+*brūma ity arthaḥ | ko 'sau vṛttānta iti cet ucyate | somasya yajñeṣv abhiṣutasya somadravyasya cakṣasā prakāśamānayāhutyā sahitā jihvā stutirūpā vāk pra jigāti | marudgaṇaṃ prakarṣeṇa gacchati | yajñeṣu somāhutiḥ stutiś ca marudbhyaḥ kriyate | yasmād īm enam indraṃ śami vṛtravadhādirūpe karmaṇi ṛkvāṇaḥ prahara bhagavo jahi vīrayasvety evaṃrūpayā stutyā yuktāḥ santa āśata prāpnuvan | [clause cramped [?]] ād it idam indraprāptyanantaram eva yajñiyāni yajñārhāṇi [?] cety evamādīni nāmānīndrasakāśāl labdhvā dadhire | dhṛtavantaḥ | tasmād eṣāṃ yajñe somāhutiḥ stutiś ca kriyate ‖ śami | śamu śamīti karmanāma | saptamyekavacane chāndasaḥ īkāralopaḥ | ṛkvāṇaḥ | ṛca stutau | sampadādilakṣaṇo bhāve kvip | chandasīvanipāv ity ādinā matvarthīyo vanip | antyavikāraś chāndasaḥ | yadvā | ayasmayādiṣu ca (Kā. 1-4-20 [?]) ity uktatvāt padasaṃjñā bhasaṃjñā ca … [cramped] | āśata | laṅaḥ bahulaṃ chandasīti vikaraṇasya luk | yajñiyāni | yajñartvigbhyāṃ ghakhañau (Pā. 5-1-71) iti gha-pratyayaḥ ‖*
+
+*Translation:* "…we declare, is the meaning. What is that account? It is told: the *jihvā* — the tongue, the speech of the form of praise — accompanied by the *cakṣasā*, the shining oblation, of the Soma pressed at the sacrifices, *pra jigāti* — goes forth, goes especially to the Marut host. At the sacrifices the Soma-oblation and praise are made to the Maruts, because *īm enam indram* — this Indra, in the *śami*, the action of the nature of the slaying of Vṛtra, the Maruts, *ṛkvāṇaḥ* — bound with praise of the form 'strike, O Lord, slay, show your valour' — *āśata* — reached him. *Āt it* — immediately after attaining Indra, they, having received from Indra such names as *yajñiyāni* — worthy of sacrifice [?], *dadhire* — bore them. Therefore for them, at the sacrifice, the Soma-oblation and praise are made. *Grammar tail, noted briefly:* *śami* — *śamu* 'work', locative with Vedic loss of *ī*; *ṛkvāṇaḥ* — *ṛca stutau* with *kvip* in the abstract sense, then *vanip* in the sense 'possessing it'; *yajñiyāni* — *gha* after *yajña* and *ṛtvij* (Pā. 5-1-71)."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.5)** *(Kannada)*
+
+*pratnasya* — of the ancient; *pituḥ* — from our father (named Rahūgaṇa, who gave us birth); *vadāmasi* — (the truth he taught us in brief) we now make known; *somasya* — (at sacrifices, pressed earlier) of the Soma-juice; *cakṣasā* — together with the shining oblation; *jihvā* — the speech of the form of praise; *pra jigāti* — joins (the Maruts — the Soma-oblation and the praise are offered together to the Maruts); *īm indram* — this Indra; *śami* — (in the work of slaying Vṛtra and the like); *ṛkvāṇaḥ* — [the Maruts], with praises ("*prahara…*" and the like); *āśata* — (having praised Indra) joined together with him; *āt it* — immediately after; *yajñiyāni* — worthy of the sacrifice; *nāmāni* — names; *dadhire* — obtained (by the grace of Indra).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.5** *(Kannada)*
+
+"Our father, the ancient one named Rahūgaṇa, who gave us birth, taught us a certain truth in brief. We now make it known: at the sacrifices the Soma-oblation, shining, and the praise are offered together to the Maruts. For the Maruts, in the work of the slaying of Vṛtra and the like, joined Indra, the one who began it, with a verse of encouragement such as '*prahara…*' and, immediately on joining him, obtained from Indra's grace names that are fit to be recited at sacrifices."
+
+---
+
+### Page 235 (PDF 250)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 235.)*
+
+**English Translation** *(printed in English in the source)*
+
+"We declare by our birth from our ancient (late) father, that the tongue of praise accompanies the manifesting invocation of the Maruts at the libations of the Soma; for, as they stood by, encouraging Indra in the conflict they have acquired names that are to be recited at sacrifices." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.5)**
+
+- **प्रत्नस्य पितुः** — *cirantanasya pitur asmākaṃ janakasya rahūgaṇasya sakāśāt* — "from our ancient father, our begetter Rahūgaṇa: from the ancient, or from the father named Rahūgaṇa, the sage."
+- **वदामसि** — *brūmaḥ* — "we say. Although there is only one Gotama here, it is the established custom, when poets and authors speak, to use the plural form 'we'; hence the plural *vadāmasi* is used here."
+- **जिह्वा** — "tongue: that is, the speech of the form of praise, uttered by the tongue."
+- **जिगाति** — *gacchati* — "goes and joins the Marut hosts; that is, it is made to be heard by them."
+- **शमि** — "*śami* means 'action' (Ni. [2-1] [?]): in actions such as the slaying of Vṛtra."
+- **ऋक्वाणः** — *ṛca stutau* — "possessed of praises of the form of Ṛks."
+- **नामानि यज्ञियानि दधिरे** — "your names are recited at the sacrifices; that is, because you encouraged Indra in the slaying of Vṛtra and the like with sentences such as '*prahara bhagavo jahi*' ('strike, O Lord, slay'), and helped him, your names became fit to be recited at sacrifices: that is the intention."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **वदामसि** — the root *vada vyaktāyāṃ vāci*; *laṭ*, first person plural, the affix *masi* [= *mas*]; *śap*; by "अतो दीर्घो यञि" (*ato dīrgho yañi*) the lengthening of the *a*-ending stem because the affix *mas* follows; by "इदन्तो मसि" the augment *i* for the affix; since it follows an *atiṅanta* [as printed], the *nighāta* accent.
+- **जिगाति** — the root *gā stutau*, Juhotyādi; *laṭ*, third person singular, the affix; for *śap* the substitute *ślu*; by "श्लौ" the reduplication of the root; by "ह्रस्वः" the shortening of the reduplicate; by "बहुलं छन्दसि" the *i* in the reduplicate; by "कुहोश्चुः" *cutva*: *ji*; here too the *nighāta* accent comes.
+
+---
+
+### Page 236 (PDF 251)
+
+*(Running head: "236 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Vyākaraṇa-prakriyā of Rik 87.5, continued from p. 235 (grammar, noted briefly):*
+
+- **शमि** — *śamī* is a name for action; in the locative singular, since the case-ending *i* follows, the *ī* is lost in the Chandas: *śami*.
+- **ऋक्वाणः** — the root *ṛca stutau*; since the abstract sense, by "सम्पदादिभ्यः क्विप्" the affix *kvip*; the word *ṛc*; *ṛg asya asti iti* — in the sense of *matup*, by "छन्दसीवनिपौ च वनिपौ" [as read] the affix *vanip*; the change of the final letter is Vedic, that is, *k* in place of *c*: the word *ṛkvan*; in the nominative plural, with *jas* following, the lengthening of the penultimate by "सर्वनामस्थाने चासम्बुद्धौ"; by "अट्कुप्वाङ्नुम्व्यवायेऽपि" the *ṇ* for *n*: *ṛkvāṇaḥ*. Or, because the statement "अयस्मयादीनि च्छन्दसि" (*ayasmayādīni chandasi*) — and the rule "क्वचिदुभयं भवति" (Kā. 1-4-[20] [?]) — both *pada*-status and *bha*-status come; as in "*sa suṣṭubhā sa ṛkvatā*" where the *kutva* occurs because of *pada*-status, so here too by *pada*-status the *kutva* occurs; since *bha*-status is also there, *jaśtva* does not come to the *k*.
+- **आशत** — the root *aśū vyāptau*; *laṅ*, third person plural, the affix *jha*; by "बहुलं छन्दसि" the *luk* of *śnu* [as printed: *śnu*] the *vikaraṇa*; since *a*-ending comes after, by "आत्मनेपदेष्वनतः" the substitute *at* for *jha*; by "आडजादीनाम्" the augment *āṭ*; the form *āśata*; since *yat* is in connexion, no *nighāta* occurs; since the augment is acute, the first syllable is acute.
+- **यज्ञियानि** — in the sense of 'fit for it', after *yajña*, by "यज्ञर्त्विग्भ्यां घखञौ" (Pā. Sū. 5-1-[71]) the affix *gha*; by "आयनेयीनीयियः फढखछघाम्" the substitute *iy* for *gha*; by "यस्येति च" the loss of the *a* of the stem; in the plural neuter, the substitute *śi*; by "नपुंसकस्य झलचः" the augment *num*; since *śi* has the designation *sarvanāmasthāna*, by "सर्वनामस्थाने चासम्बुद्धौ" the lengthening of the penultimate of the stem ending in *n*; by the affix-accent the *i* of the substitute *iy* is acute.
+
+Closing of Rik 87.5: "॥ ५ ॥" (5), followed by a printer's ornament.
+
+---
+
+**Progress note:** Printed pp. 1–236 done (PDF 16–251) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.5 complete**; next: **Rik 87.6** (the last) at printed p. 237 (PDF 252), and the end of Sūkta 87 (about p. 240), then Sūkta 88 (contents table: p. 241). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232, 234, 236; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
