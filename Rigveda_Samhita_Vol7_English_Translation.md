@@ -6921,4 +6921,83 @@ Closing of Rik 88.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–248 done (PDF 16–263) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Rik 88.1 complete**; **Rik 88.2** — Saṃhitā, Pada, bhāṣya and its grammatical tail done (p. 248); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then 88.3–88.6. Next: printed p. 249 (PDF 264). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239, 243, 245–246, 248 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages (listed in earlier notes) and on pp. 246, 248; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 249 (PDF 264)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 249.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 88.2)** *(Kannada; set at the head of p. 249 in the print before the English — read here from the Special Topics' flow; the Pratipadārtha and Bhāvārtha of this Ṛk stand at the foot of p. 248 and are given there in the Kannada: "te — those Maruts; aruṇebhiḥ — with ruddy; piśaṅgaiḥ — tawny; rathatūrbhiḥ — chariot-urging; aśvaiḥ — with horses; varam — the chooser of the gods; kam — the praising sacrificer; śubhe — for his good, or for sending rain; ā yānti — come; rukmo na — like shining gold; citraḥ — attractive; svadhitīvān — armed with weapons; rathasya pavyā — with the wheel-rim of the chariot; bhūma — the earth; jaṅghananta — they strike.")*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 88.2** *(Kannada, foot of p. 248)*
+
+"Those Maruts, with horses of ruddy and tawny colour that speed the chariot, come to the sacrificer who praises and chooses the gods, to do him good. Attractive like shining gold and armed with thunderbolts, those Maruts, as a host, trample the earth with the wheels of their chariots and enter it."
+
+**English Translation** *(printed in English in the source)*
+
+"To what glorifier of the gods do they repair with their ruddy, tawny car-bearing horses for his advantage? bright as burnished gold and armed with the thunderbolt they break the earth with their chariot-wheels." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 88.2)**
+
+- **अरुणेभिः पिशङ्गैः** — "with horses of red and tawny (Kannada: *piṅgala*, yellowish) colours, of mixed colour. *(The English words 'red and tawny horses' are added in the print.)*"
+- **वरम्** — *devānāṃ varītāram* — "one who calls the gods, or one who invites; the sacrificer."
+- **कम्** — *kai gai śabde | kāyatīti kaḥ taṃ | śabdayitāraṃ stuvantam* — "the one who sounds, that is, the sacrificer who praises. The meaning 'questioning' may be given to this word." *(The English translation above takes it so: "To what glorifier…?")*
+- **शुभे** — "for the sake of prosperity; or *śubha* means water (Ni. [1-12] [?]): to serve water, to give rain."
+- **रथतूर्भिः** — *tura tvaraṇe | rathaṃ tuturati tvarāyuktaṃ kurvantīti rathaturaḥ* — "those that make the chariot go swiftly: horses that make it move as with haste."
+- **रुक्मो न** — *rocamānaṃ suvarṇam iva* — "like shining, glittering gold: endowed with lustre."
+- **चित्रः** — *atiśayena darśanīyaḥ* — "exceedingly beautiful to look at."
+- **स्वधितीवान्** — "among the eighteen names of thunderbolt — *vidyut, nemiḥ* and the rest — the word *svadhitiḥ* is read; so *svadhitīvān* means 'furnished with weapons (*vajra*) for destroying enemies'."
+- **पव्या** — *cakradhārayā* — "by the wheel-rim (Ni. [5-5] [?])."
+- **जङ्घनन्त भूम** — "they strike the earth: that is, when the Marut deities come to the earth to protect those who praise, the earth is oppressed, unable to bear their weight."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 88.2)** *(grammar page, noted briefly; begins here)*
+
+- **अरुणेभिः** — by "बहुलं छन्दसि" the substitute *ais* does not come for *bhis* in the instrumental plural; by "बहुवचने झल्येत्" the *e*.
+
+---
+
+### Page 250 (PDF 265)
+
+*(Running head: "250 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+*Vyākaraṇa-prakriyā of Rik 88.2, continued (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **वरम्** — *vriyante devā anena iti varaḥ*; the root *vṛñ varaṇe*; by "ग्रहवृदृनिश्चिगमश्च" (*grahavṛdṛniścigamaś ca*, Pā. Sū. 3-3-[58]) the affix *ap* in the instrumental sense; the *guṇa* of the *ik* of the root because of the affix; *raparaḥ*; since *ap* is *pit*, unaccented; the root's accent remains.
+- **शुभे** — the root *śubha dīptau*; the affix *kvip*; dative singular; by "सावेकाचस्तृतीयादिः" the case-ending acute.
+- **कम्** — the root *kai gai śabde*; *kāyati iti kaḥ*; by the statement *bahula*, the affix *ka* comes even where the root is *igupadha*; by "आदेच उपदेशेऽशिति" the *ā* for the root; since *ka* is *kit*, by "आतो लोप इटि च" the loss of the *ā*; the word *ka*; accusative singular; by the affix-accent *ka* is acute on its last syllable; when the case-ending is joined, the single substitute is acute by "उदात्तयणो हल्पूर्वात्…" [as printed: *ekādeśa udāttenodāttaḥ*].
+- **रथतूर्भिः** — the root *tura tvaraṇe*; *rathaṃ tuturati*; by "क्विप् च" the affix *kvip*; *rathatur*; instrumental plural; *bhis* following, by "हलि च" (Pā. Sū. 8-2-[77]) the lengthening of the *ik* penultimate of the root; by "गतिकारकोपपदात्कृत्" the base accent of the *kṛdutarapada*.
+- **पव्या** — *pavī rathanemir bhavati* (Ni. [5-5] [?], Yāska — 'the rim of the chariot is called *pavi*'); the root *pūṅ pavane*; by "अचि इः" (Uṇ. Sū. 4-[142] [?]) the affix *i*; by the affix the *guṇa*; *av*-substitution; in the instrumental singular the case-ending *ṭā*; *yaṇ*-substitution; since a case-ending follows the *yaṇ* substituted for an acute, by "उदात्तयणो हल्पूर्वात्" (Pā. Sū. 6-1-[174]) the case-ending is acute.
+- **जङ्घनन्त** — the root *han hiṃsāgatyoḥ*; in the sense of intensity, by "धातोरेकाचो हलादेः क्रियासमभिहारे यङ्" the affix *yaṅ*; then *laṅ* in the present sense; third person plural, by "झोऽन्तः" the substitute *ant*; since *yaṅ* is *ārdhadhātuka*-like, by "अतो लोपः" the loss of the *a* of *yaṅ*; the root is reduplicated; by "कुहोश्चुः" *cutva*; by "अभ्यासाच्च" the *kutva* for the *h* of the reduplicate-following root, producing *gh*; by "नुगतोऽनुनासिकान्तस्य" (Pā. Sū. 7-4-[85]) the augment *nuk* to the reduplicate of a root with nasal ending; *anusvāra* from *nuk*; since it follows an *atiṅanta*, the *nighāta* accent.
+- **भूमा** — *bhūmi + am*; by "सुपां सुलुक्" the substitute *ḍā* for *am*; by the *ḍit*-ness the loss of the *ṭi* (the *i*); the shortening in the Saṃhitā is Vedic.
+
+Closing of Rik 88.2: "॥ २ ॥" (2).
+
+---
+
+### Page 251 (PDF 266)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 251.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 88.3)** *(Triṣṭubh; Maruts; accents not reproduced)*
+
+> श्रिये कं वो अधि तनूषु वाशीर्मेधा वना न कृणवन्त ऊर्ध्वा ।
+> युष्मभ्यं कं मरुतः सुजातास्तुविद्युम्नासो धनयन्ते अद्रिम् ॥ ३ ॥
+
+*śriye kaṃ vo adhi tanūṣu vāśīr medhā vanā na kṛṇavanta ūrdhvā | yuṣmabhyaṃ kaṃ marutaḥ sujātās tuvidyumnāso dhanayante adrim ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "For splendour, upon your bodies the axes [weapons]; they set them upright, like trees [forests] raised up. For you, O Maruts well-born, of great glory, [the people] strive for wealth — the stone [pressing-stone/cloud]."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 88.3)**
+
+> श्रिये । कम् । वः । अधि । तनूषु । वाशीः । मेधा । वना । न । कृणवन्ते । ऊर्ध्वा ।
+> युष्मभ्यम् । कम् । मरुतः । सुऽजाताः । तुविऽद्युम्नासः । धनयन्ते । अद्रिम् ॥ ३ ॥
+
+*śriye | kam | vaḥ | adhi | tanūṣu | vāśīḥ | medhā | vanā | na | kṛṇavante | ūrdhvā | yuṣmabhyam | kam | marutaḥ | su-jātāḥ | tuvi-dyumnāsaḥ | dhanayante | adrim ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 88.3)** *(begins at the foot of p. 251; Kannada script)*
+
+> हे मरुतो वो युष्माकं तनूषु शरीरेष्वंसप्रदेशेषु वाशीः शत्रूणामाक्रोशकमाराख्यमायुधं श्रिये कम्, ऐश्वर्यार्थं वर्तते इति शेषः । कमित्यैतत्पादपूरणम् । तदुक्तम् । अथापि पादपूरणः कमीमिद्धीतीति । ताद्दृशा मरुतो वना न उच्छ्रितान्वृक्षसमूहानिव मेधा मेधान्यज्ञानूर्ध्वा ऊर्ध्वान् एकाहाहीनसत्ररूपेणोच्छ्रितान् कृणवन्ते । यजमानैः कारयन्ति । हे सुजाताः शोभनजननयुक्ता मरुतो युष्मभ्यं युष्मदर्थं कं सुखकरमद्रिं सोमाभिषवे प्रवृत्तं ग्रावाणं तुविद्युम्नासः प्रभूतधना यजमाना धनयन्ते । धनं कुर्वन्ति । युष्माकं यागाय ग्रावभिरभिषुण्वन्तीत्यर्थः ॥ वाशीः । शत्रूणां भयोत्पादनेनाक्रोशशब्दकरणं वाशः । … तत ईकारः … मत्वर्थीय ईकारः । व्यत्ययेनाद्युदात्तत्वम् । मेधा । सुपां सुलुगिति शसो डादेशः । वना । शेश्छन्दसि बहुलमिति …
+
+*he maruto vo yuṣmākaṃ tanūṣu śarīreṣv aṃsapradeśeṣu vāśīḥ śatrūṇām ākrośakam ārākhyam āyudhaṃ śriye kam, aiśvaryārthaṃ vartate iti śeṣaḥ | kam ity etat pādapūraṇam | tad uktam | athāpi pādapūraṇaḥ kam īm iddhīti | tādṛśā maruto vanā na ucchritān vṛkṣasamūhān iva medhā medhān yajñān ūrdhvā ūrdhvān ekāhāhīnasatrarūpeṇocchritān kṛṇavante | yajamānaiḥ kārayanti | he sujātāḥ śobhanajananayuktā maruto yuṣmabhyaṃ yuṣmadartham kaṃ sukhakaram adriṃ somābhiṣave pravṛttaṃ grāvāṇaṃ tuvidyumnāsaḥ prabhūtadhanā yajamānā dhanayante | dhanaṃ kurvanti | yuṣmākaṃ yāgāya grāvabhir abhiṣuṇvantīty arthaḥ ‖ vāśīḥ | śatrūṇāṃ bhayotpādanenākrośaśabdakaraṇaṃ vāśaḥ | … | vanā | śeś chandasi bahulam iti …* *(the bhāṣya runs on to p. 252)*
+
+---
+
+**Progress note:** Printed pp. 1–251 done (PDF 16–266) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.2 complete**; **Rik 88.3** — Saṃhitā, Pada and the main sense of the bhāṣya done (foot of p. 251; the bhāṣya and its grammatical tail continue on p. 252); then Riks 88.4–88.6. Next: printed p. 252 (PDF 267). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 are at the foot of p. 248 (reported in a bracketed note); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
