@@ -2028,7 +2028,8 @@ Title block:
 
 *(Translation, mine and tentative: "As to 'the giving of strength and wealth' — lordship is found in all deities; and as one says 'born of strength; some think of him thus' — this Agni too is born when churned by strength, by force; therefore they call him 'son of strength, offspring of strength, child of strength'.")* "Lordship is found in all deities; therefore Agni too gives strength and wealth, and so Agni can be called *draviṇodāḥ*. Apart from this, the word *draviṇa* has the sense of 'strength'. Since Agni is born by the use of strength (by churning), there is the belief that Agni is born from strength; therefore Agni is praised by the words *sahasaḥ putram*, *sahasaḥ sūnum*, *sahaso yahum*" *(as read; the second* sahasas*-words are as printed)*:
 
-> द्रप्सश्चस्कन्द [?]… *(the verse is given in the print as follows)*
+*(The three verses are given in the print as follows.)*
+
 > द्रन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥
 > *dranaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ ‖*
 > (*Ṛ. Saṃ.* 3-2-[?] as read [?])
@@ -2041,7 +2042,7 @@ Title block:
 > *agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahi śravaḥ ‖*
 > (*Ṛ. Saṃ.* 1-79-4 as read)
 
-*(Glosses, mine and tentative: "the dripper, the ghee-fed, the ancient Hotṛ, the choice one, the wonderful son of strength"; "you, youngest, O son of strength, when invoked, become the guardian of the rite, worthy of sacrifice"; "Agni, lord of the wealth of cows, O child of strength, grant us great glory, Jātavedas". The first verse is printed with its first word clotted [?].)*
+*(Glosses, mine and tentative: "the dripper, the ghee-fed, the ancient Hotṛ, the choice one, the wonderful son of strength"; "you, youngest, O son of strength, when invoked, become the guardian of the rite, worthy of sacrifice"; "Agni, lord of the wealth of cows, O child of strength, grant us great glory, Jātavedas". The first verse's first word is printed *drannaḥ* (Kannada script, as read), doubtful [?].)*
 
 "In these Ṛks the words *sahasaspūtra*, *sahasaḥ sūnu* and *sahaso yaho* are, respectively, used in praising Agni. Therefore, although other deities too can give strength and wealth, it is Agni, particularly, who is presented by the word *draviṇodāḥ*."
 
