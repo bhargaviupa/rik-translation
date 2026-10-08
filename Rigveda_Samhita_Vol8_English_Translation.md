@@ -3422,4 +3422,133 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–117 done (PDF 21–137): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Rik 97.1 complete (Special Topics on pp. 113–115, grammar on pp. 115–116); Rik 97.2: Saṃhitā, Pada, bhāṣya (begun p. 116, tail p. 117), Pratipadārtha, Bhāvārtha, English done, and the Special Topics begun (*sukṣetriyā*, with the Ṛgveda quotation 1-1[1]1-4), at the foot of p. 117. Next: printed p. 118 (PDF 138). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–117) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on p. 115 [?], and the bhāṣya's tail of 97.2 (*kyajantād a pratyayāt*) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 118 (PDF 138)
+
+*(Running head: left 118; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**Special Topics of Rik 97.2, continued from p. 117 (Kannada)**
+
+> सपर्यन्तः पुरुप्रियं मित्रं न क्षेत्रसाधसम् ।
+> *saparyantaḥ purupriyaṃ mitraṃ na kṣetrasādhasam |*
+> (*Ṛ. Saṃ.* 8-3[?]-1[?] as read [?])
+
+*(Gloss, mine and tentative: "serving him, the much-beloved, like a friend, the accomplisher of the field".)* "In this passage the word *kṣetra* is a synonym of 'sacrifice'; but in the present context the meaning is 'the excellent earth' (*bhūsvatva*). *Sukṣetriyā* — 'through the wish to obtain it'."
+
+***sugātuyā*** — *śobhanamārgecchayā*: "'by wishing for the excellent path': one must take hold of the excellent path, with the wish that one should follow it. The word *gātu* has already been shown, as said earlier, to be of the sense 'path of the performance of sacrifice' (*anuṣṭhānamārga*), 'path of going to the world of the gods' (*devalokagamanamārga*), and so, like the word *sugam*, to be of the sense 'the right path' (*sanmārga*) (Ṛ. 1-94-[?]). *Iha tāvaj loke śobhanakṣetrecchayā paraloke sugātuyā*: 'here, in this world, through the desire for excellent fields; in the other world, through the desire for a good path': so the purpose of the worship of Agni is made known — 'we worship you [*tvāṃ yajāmahe*] out of the desire to obtain prosperity in this world, and out of the desire to follow the right path that is the means of enjoying the happiness of heaven in the world beyond.' Because the sinner is not qualified to obtain either of these two kinds of favour of Agni, the prayer *apa naḥ śośucad agham* — 'destroy this sin and make me worthy [pure] to obtain your favour' — is made."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.2)** *(grammar pages, pp. 118–119, noted briefly; numerals small and doubtful [?])*
+
+***sukṣetriyā*** — *śobhanaṃ kṣetraṃ sukṣetram*: when 'he wishes it for himself' is intended, the suffix *kyac* by *supa ātmanaḥ kyac* (Pā. 3-1-8 [?]); *kyac*'s *ī*-elision and lengthening are blocked in the Veda, by *na chandasy aputrasya* (Pā. 7-4-35 [?]); by *vyatyayo bahulam* (Pā. 3-1-85 [?]) the *ī*, etc. arise; by *sanādyantā dhātavaḥ* it takes the designation 'root' (*sukṣetriya*); since it ends in a suffix, the suffix *a* (*aṅ*) in the sense of the action by *aprī-… ṭ* (Pā. 3-3-102 [?]); *ato lopaḥ* elides the *a* of *kyac*; for the feminine, *ajādyatas ṭāp* (Pā. 4-1-4 [?]) gives *ṭāp*; through the accent of *kyac*, the end is acute, and when *ṭāp* [and the *a*] combine in one substitute, it too is acute; the instrumental singular follows: *supāṃ suluk* (Pā. 7-1-39 [?]) gives *ā* for the ending, and similarly in *sugātuyā* and *vasūyā*. Or: *śobhanaṃ kṣetram asyāsti*, 'he has an excellent field': with the instrumental singular, *iyoḍiyājīkārāṇām upasaṃkhyānam* (Vārttika on Pā. 7-1-39 [?]): *ḍiyā* for the instrumental ending; since it is *ḍit*, the earlier *ṭi* is elided; since it is *cit* [? as read], the final acute.
+
+### Page 119 (PDF 139)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 119.)*
+
+*Grammar of Rik 97.2, concluded (noted briefly):* ***yajāmahe*** — root *yaja* (worship, union, giving); *loṭ*, first person plural; in the dual-and-plural, *nighāta* after a verb-ending word. ‖ 2 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.3)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> प्र यद्भन्दिष्ठ एषां प्रास्माकासश्च सूरयः ।
+> अप नः शोशुचदघम् ॥ ३ ॥
+
+*pra yad bhandiṣṭha eṣāṃ prāsmākāsaś ca sūrayaḥ | apa naḥ śośucad agham ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.3)**
+
+> प्र । यत् । भन्दिष्ठः । एषाम् । प्र । अस्माकासः । च । सूरयः ।
+> अप । नः । शोशुचत् । अघम् ॥ ३ ॥
+
+*pra | yat | bhandiṣṭhaḥ | eṣām | pra | asmākāsaḥ | ca | sūrayaḥ | apa | naḥ | śośucat | agham ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.3)**
+
+> यद्यथैषां स्तोतॄणां मध्येऽयं कुत्सः प्र भन्दिष्ठः । प्रकर्षेण स्तोतृतमः । एवमस्माकासस्तदीया अस्माकीनाः सूरयः स्तोतारश्च प्रकर्षेण स्तोतृतमा भवन्ति । अन्यत्समानं ॥ भन्दिष्ठः । भदि कल्याणे सुखे चेति तु धातुः । अस्मात्तृजन्तात्तृश्छन्दसीष्ठन् । तुरिष्ठेमेयस्सु इति तृलोपः । अस्माकासः । अस्माकं सम्बन्धिनोऽस्माकाः । तस्मिन्नणि च युष्माकास्माकौ । पा. ४-३-१ । इत्यस्माकादेशः । छान्दसोऽत्र प्रत्ययस्य लोपः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्वृद्धिभावः । आजस्सेरसुक् । स्थानिवदादेशेऽपि मकाराऽत्परस्याकारस्योदात्तत्वं । यद्वा । षष्ठीबहुवचनेऽस्माकंशब्दस्य मध्योदात्तस्य दृप्वृक्शब्दके [?] एवाचार्येणातिदिष्कृते ॥
+> *yad yathaiṣāṃ stotṝṇāṃ madhye 'yaṃ kutsaḥ pra bhandiṣṭhaḥ | prakarṣeṇa stotṛtamaḥ | evam asmākāsas tadīyā asmākīnāḥ sūrayaḥ stotāraś ca prakarṣeṇa stotṛtamā bhavanti | anyat samānaṃ ‖ bhandiṣṭhaḥ | bhadi kalyāṇe sukhe ceti tu dhātuḥ | asmāt tṛjantāt tṛś chandasīṣṭhan | turiṣṭhemeyassu iti tṛlopaḥ | asmākāsaḥ | asmākaṃ sambandhino 'smākāḥ | tasminn aṇi ca yuṣmākāsmākau | pā. 4-3-1 | ity asmākādeśaḥ | chāndaso 'tra pratyayasya lopaḥ | saṃjñāpūrvakasya vidher anityatvād vṛddhibhāvaḥ | ājjaser asuk | sthānivad ādeśe 'pi makārāt parasyākārasyodāttatvaṃ | yadvā | ṣaṣṭhībahuvacane 'smākaṃśabdasya madhyodāttasya dṛpvṛkśabdake [?] evācāryeṇātidiṣkṛte ‖*
+
+*Sense (mine, from the Kannada that follows):* "Just as among these praisers this Kutsa is *prabhandiṣṭha* — pre-eminently the best praiser — so our own praisers (*asmākāsaḥ sūrayaḥ*) too are pre-eminently excellent praisers. The rest as before." Tail (characterized): *bhandiṣṭhaḥ* — the root *bhadi* (in the sense of welfare, happiness), the agent suffix *tṛc*, and *iṣṭhan* in the Veda, the elision of *tṛ* by *tuṛiṣṭhemeyassu*; *asmākāsaḥ* — 'belonging to us', formed with the replacement *asmāka* by the rule on *yuṣmākāsmākau* in the sense of 'belonging to' (Pā. 4-3-1 [?]), the suffix elided in the Veda, no vṛddhi, the augment *asuk* for the nominative plural; the accent of the *a* after the *m*; or on another view, in the genitive plural the middle-acute *asmāka* of the word *asmākam*. *(The last clause of the tail is clotted [?]; numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*eṣāṃ* — (those who sing your praises) among these praisers; *yat* — in which way; *prabhandiṣṭhaḥ* — he who is the best praiser of all (Kutsa) (in that way); *asmākāsaḥ* — those among our company; *sūrayaḥ ca* — and these other praisers too; *pra* — are the very best praisers; *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, just as Kutsa is the best praiser among these praisers who sing your qualities, so these other praisers too in our company are of the very best. Satisfied by their praises, favour us. May our sin be destroyed."
+
+**English Translation (as printed)**
+
+> (In like manner as among these your worshippers Kutsa) is the pre-eminent panegyrist, so are our encomiasts (of you) the most distinguished : may our sin be repented of.
+
+### Page 120 (PDF 140)
+
+*(Running head: left 120; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.3 (Kannada)**
+
+***prabhandiṣṭhaḥ*** — "*arcati*, *gāyati* and so on are read among the twenty-two [?] names of 'worship' (Ni. 3-[?]), so *bhandate* means 'worships, praises'. *Prabhandiṣṭhaḥ* — *prakarṣeṇa stotṛtamaḥ*: 'the one who praises in the highest degree': the best praiser of all. On this matter —"
+
+> आ विवेश रोदसी भूरिवर्पसा पुरुप्रियो भन्दते धामभिः कविः ।
+> *ā viveśa rodasī bhūrivarpasā purupriyo bhandate dhāmabhiḥ kaviḥ |*
+> (*Ṛ. Saṃ.* 3-3-4 as read [?])
+
+> स भन्दना उदियर्ति प्रजावतीर्विश्वायुर्विश्वाः सुभराः अहर्दिवि ।
+> *sa bhandanā ud iyarti prajāvatīr viśvāyur viśvāḥ subharā ahardivi |*
+> (*Ṛ. Saṃ.* 6-[?]-1[?] as read [?])
+
+*(Glosses, mine and tentative: "he entered heaven and earth with great form; the much-loved poet is praised for his powers"; "he, [praised] with praise, sends up the fruitful, the all-living, all of the well-borne [ones], day by day".)* "The Nirukta-author has quoted these two Ṛks (Ni. 3-[?]) and has shown the propriety of this word in contexts of excellent praise. Here the excess of devotion is stated: that among all the praisers he is the best."
+
+***sūrayaḥ*** — "*rebhaḥ*, *jaritā*, *kāruḥ* and so on are read among the thirteen [?] names of the praiser (Ni. 3-[?]); so *sūrayaḥ* means 'those who praise', devotees who praise. The word *sūri*, in contexts in which it gives the meaning 'the wise, the discerning, the intelligent', is used in many places. When it is used with reference to the seers, who have the power of vision — extraordinary, both of the eye and of the mind — by which they grasp the true natures of the gods and the hidden truths of the universe, this epithet gives a special sense." *(continues on p. 121)*
+
+### Page 121 (PDF 141)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 121.)*
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः ।
+> *tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |*
+> (*Ṛ. Saṃ.* 1-2[2]-20)
+
+"In passages such as this, *sūri* indicates, merely by 'praisers', the seers' extraordinary power of vision. And, not only with reference to seers, it is used as an epithet of Indra and other deities as well —"
+
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ।
+> *maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai |*
+> (*Ṛ. Saṃ.* 1-6[1]-1 as read [?])
+
+"— in Ṛks like these it tells of the wisdom of Indra and others, calling Indra *vipaścittama* ('the most wise'). Besides this, it is used also to give the sense of 'lord, impeller, one who sets on a good path' —"
+
+> जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ।
+> *jano yaḥ pajrebhyo vājinīvān aśvāvato rathino mahyaṃ sūriḥ |*
+> (*Ṛ. Saṃ.* 1-1[2]3-6 as read [?])
+
+> असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
+> *asad yathā jaritra uta sūrir indro rāyo viśvavārasya dātā |*
+> (*Ṛ. Saṃ.* 6-3[?]-1[?] as read [?])
+
+> मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
+> *muhyantv anye abhito janāsa ihāsmākaṃ maghavā sūrir astu |*
+> (*Ṛ. Saṃ.* 10-[?]-6 as read [?])
+
+*(Glosses, mine and tentative: "the man who [has] swift horses and chariots for me, the lord"; "may Indra be for the praiser, the lord, the giver of wealth that all desire"; "let the other folk around be bewildered; here may our bounteous one be the lord". The numerals and several words are read from small print [?].)* "— in contexts such as these, this epithet is used with reference to deities who are lords and who set [men] on the good path, and describes the qualities of Indra and others."
+
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ।
+> *ād asya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathād īṣate vayaḥ |*
+> (*Ṛ. Saṃ.* 1-1[4]1-2 as read [?])
+
+"— in such places it often gives, as a rare form, also the sense 'path'."
+
+"In this Ṛk, the praise is of Kutsa as the best praiser, and of the others in his company who are equally devoted, as praisers who are wise. By the epithet *prabhandiṣṭhaḥ* a particular distinction in Kutsa is shown: the distinction of Kutsa suggested in this passage can be seen in the Pīṭhikā section of this part. And, too, the praise of his work, suited to this context, can be known from certain examples in the Ṛksaṃhitā itself —"
+
+> आवः कुत्समिन्द्र यस्मिञ्चाकन्प्रावो युध्यन्तं वृषभं दशद्युम् ।
+> *āvaḥ kutsam indra yasmiñ cākan prāvo yudhyantaṃ vṛṣabhaṃ daśadyum |*
+> (*Ṛ. Saṃ.* 1-3[3]-1[4] as read [?])
+
+*(Gloss, mine and tentative: "you aided Kutsa, Indra, in whom you delighted; you aided the fighting bull, Daśadyu".)* *(continues on p. 122)*
+
+---
+
+**Progress note:** Printed pp. 1–121 done (PDF 21–141): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1 and 97.2 complete (97.2's Special Topics on pp. 117–118, grammar on pp. 118–119); Rik 97.3: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 119–120), and the Special Topics under way (*prabhandiṣṭhaḥ*, *sūrayaḥ*, with Ṛgveda quotations; the passage on Kutsa's distinction, citing 1-3[3]-1[4]), breaking at the foot of p. 121. Next: printed p. 122 (PDF 142). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–121) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on p. 115 and the Ṛgveda numerals on pp. 118–121 [?], the bhāṣya tail of 97.2 (*kyajantād a pratyayāt*) and the last clause of the 97.3 tail [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
