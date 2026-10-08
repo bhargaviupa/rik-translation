@@ -12402,7 +12402,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 > वृश्चस्तीर्विया वि क्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
 
-*vṛścas tīrviyā vi krayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-100-3 [?]; the Saṃhitā text is read from a blotted print and is doubtful [?])
+*vṛścas tīrviyā vi krayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-100-3 [?]; the Saṃhitā text is read from a blotted print and is doubtful [?]) *[Correction, made after p. 442: the same Ṛk is printed clearly on p. 442 as* vyacasvatīr urviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ *(Ṛ. Saṃ. 10-110-5 [?]); the blotted reading above should be understood as that.]*
 
 "— as used in such Ṛks, here too the meaning is: 'may the Uṣas shine, pervading and spreading widely'."
 
@@ -12500,6 +12500,96 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–439 done (PDF 16–454), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.9 complete (92.3 minus the missing p. 413); Rik 92.10 Saṃhitā, Pada, bhāṣya done and the Pratipadārtha begun, breaking at the foot of p. 439 ("*samānaṃ varṇam abhi* — (without change) one and the same form —"). Next: printed p. 440 (PDF 455) — the rest of the Pratipadārtha of 92.10. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–437 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–439 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10 (in 92.10 the clauses *sarvatra…* and *uṣaḥsaṃparkatāsu…* [?]); Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9); the 'Part [5?], pp. 32–33' reference [?]. "
+### Page 440 (PDF 455)
+
+*(Running head: left "440", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*(Pratipadārtha of Rik 92.10, continued from p. 439:)* "— a form without any change; *śumbhamānā* — shining; *devī* — the radiant deity Uṣas; *martasya* — of all beings subject to death; *āyuḥ* — the life; *kṛtnuḥ* — the knower [as printed, 'jāṇanāda' [?]]; *śvaghnī iva* — like a gambler [*jūjugāra*, as printed]."
+
+**Or** *(a printed alternative):* "*āminānā* — she who injures by tearing apart (the wings and the like); *vijaḥ* — of the (moving) birds; *kṛtnuḥ* — she who cuts (the wings); *śvaghnī iva* — like a hunter's wife; *jarayantī* — gives old age and destroys."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.10** *(Kannada)*
+
+"The radiant Uṣas deity, being beginningless, appears every day in one and the same manner, with a form that has no change at all. And as the wife of a hunter, injuring the birds that move about by tearing off their wings and the like, cuts them and makes them die, so this Uṣas too makes all beings subject to death grow old, causing their life to wear away."
+
+**English Translation** *(printed in English in the source; Rik 92.10)*
+
+"The divine and ancient Ushas, born again and again and bright with unchanging hues, wastes away the life of a mortal, like the wife of a hunter cutting up and dividing the birds." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.10)** *(Kannada)*
+
+"In this Ṛk a sort of distress is mixed with joy. By describing the beauty and loveliness of the Uṣas, who fills the whole world with consciousness and light and brings living things to fullness, [the poet] gives expression to the joy of experience; and in the presence of Uṣas, who remains ever in unfailing youth, all creatures, from mortals who reach old age onward, show a slight anxiety in the thought that they are drawing near to death. With the experience of beauty is joined the experience of truth. In this context Professor Max Müller, explaining the intention of this Ṛk, has said certain things about the Uṣas deity which it would be inappropriate not to quote; they are given here:"
+
+> "The Dawn, which to us is merely a beautiful sight, was to the early gazer and thinker, the problem of all problems. It was the unknown land from whence rose every day those bright emblems of a divine power which left in
+
+---
+
+### Page 441 (PDF 456)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 441.)*
+
+> the mind of man the first impression and intimation of another world, of power above, of order and wisdom. What we simply call the sun-rise, brought before their eyes every day, the riddle of the riddles, the riddle of existence. The days of their life sprang from that dark abyss which every morning seemed instinct with light and life. Their youth, their manhood, their old age, all were to the Vedic bards the gift of that heavenly mother who appeared bright, young, unchanged, immortal every morning, while everything else seemed to grow old, to change, and drop, and at last to set, never to return. It was there, in that bright chamber, that, as their poets said, mornings and days were spun, or under a different image, where mornings and days were nourished, where life or time was drawn out".
+> ( Lectures on the Science of Language Vol. II (P. 481–482) )
+
+*(The English quotation is reproduced as printed in the source, including the closing quotation mark, which follows the full stop as printed.)*
+
+*Kannada, continued:* "Thus, in describing, before the eternal Uṣas of the unchanging life of the world, the changing youth and beauty [of mortals] —"
+
+***punaḥ punar jāyamānā purāṇī*** — "this is a delineation of the nature of Uṣas. Here, for *jāyamānā*, the meaning intended is 'birth' in the sense of 'rising': *pratidivasaṃ sūryodayāt pūrvaṃ prādurbhavantī* — 'appearing every day before sunrise' [Sāyaṇa]. That is, 'birth' does not mean a fresh origin; the meaning is that she appears anew, before sunrise, every day, as a new rising. *Purāṇī* — *cirantanī, nityā ity arthaḥ* | *jagatsṛṣṭikāla evotpannatvād uṣā purāṇīty ucyate* ['ancient: eternal; since the Uṣas has been produced at the very time of the world's creation, she is called *purāṇī*']. The attribute *purāṇī* is used because she is beginningless, eternal, and has existed since the time of the creation of the world. This kind of description is seen at every step in the Ṛks that are in praise of Uṣas. For example —"
+
+> शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी ।
+> अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥
+
+*śaśvat puroṣā vy uvāsa devy atho adyedaṃ vy āvo maghonī | atho vy ucchād uttarāṃ anu dyūn ajarāmṛtā carati svadhābhiḥ ‖*  (Ṛ. Saṃ. 1-113-13 [?])
+
+> पुराणे देवी युवतिः पुरंधिरनु व्रतं चरसि विश्ववारे ।
+
+*purāṇe devī yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*  (Ṛ. Saṃ. 3-61-1 [?]; the Saṃhitā text as read, doubtful [?])
+
+> ईयुषीणामुपमा शश्वतीनां विभातीनां प्रथमोषा व्यश्वैत् ।
+
+*īyuṣīṇām upamā śaśvatīnāṃ vibhātīnāṃ prathamoṣā vy aśvait |*  (Ṛ. Saṃ. 1-113-15 [?])
+
+*Gloss, mine and tentative:* "The goddess Uṣas dawned of old, and today the bounteous one has opened out this [world]; and she will dawn on the days that follow, ageless, immortal, moving by her own laws. — O ancient goddess, young, a bestower, you go by the rule, O all-choosing one. — Last of those who have gone, first of those who shall shine, the Uṣas has dawned."
+
+"— in such Ṛks it is described that the beginningless Uṣas, rising newly each day, awakens the world according to her own rule."
+
+---
+
+### Page 442 (PDF 457)
+
+*(Running head: left "442", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+***śumbhamānā*** — *śumbha dīptau* | "From the root *śumbha*, which gives the sense 'to shine, to be beautiful', the word *śumbhamānā* is formed. *śumbhamānāḥ* — *śuśobhiṣamāṇāḥ* (Ni. 6-11 [?]): so the author of the Nirukta explains it as 'those who wish to shine greatly': 'shining attractively'. This word is used in every place where the sense is 'to adorn so as to please the mind'. For example —"
+
+> व्यचस्वतीरुर्विया वि श्रयन्तां पतिभ्यो न जनयः शुम्भमानाः ।
+
+*vyacasvatīr urviyā vi śrayantāṃ patibhyo na janayaḥ śumbhamānāḥ |*  (Ṛ. Saṃ. 10-110-5 [?]; printed "10-110-3")
+
+> आप इव प्रवता शुम्भमाना उरुष्यदग्निः पित्रोरुपस्थे ।
+
+*āpa iva pravatā śumbhamānā uruṣyad agniḥ pitror upasthe |*  (Ṛ. Saṃ. 2-35-8 [?])
+
+> आविर्वक्षः कृणुषे शुम्भमानोषो देवि रोचमाना महोभिः ।
+
+*āvir vakṣaḥ kṛṇuṣe śumbhamānoṣo devi rocamānā mahobhiḥ |*  (Ṛ. Saṃ. 6-64-2 [?])
+
+*Gloss, mine and tentative:* "May the wide-spreading [doors] open widely, like women adorning themselves for their husbands. — Like waters adorning themselves downhill, Agni protects in the lap of his parents. — You bare your breast, adorning yourself, O goddess Uṣas, shining with your splendours."
+
+"— such Ṛks may be looked at. Thus, having described the attractive nature of Uṣas, he now explains the part that gives a little distress."
+
+***vijaḥ*** — *vir iti śakuninām veter gatikarmaṇaḥ* (Ni. 3-[?] [?]) | "From the root *vī*, in the sense 'to move about, to wander', comes *vi*, and from it the word *vija* is formed. Skandasvāmin: '*vī iti pakṣināma | tato jāte iti vijaḥ*' — 'the *vi* is the name of a bird; the one born from it is *vija*' [that is, the word *vija* arises from *vi*, 'bird'], following the Nirukta. Sāyaṇa, however, explains the word *vijaḥ* as derived from the root *oviji bhayacalanayoḥ* ('to fear, to tremble'): *vijanti calantīti vijaḥ pakṣiṇaḥ* — 'those that move about are *vijaḥ*, birds'."
+
+"In general, the use of the word *vijaḥ* for 'bird' in the Ṛksaṃhitā may be said to occur at this one place only; for the word *vijaḥ* used in Ṛk 1-92-10 [as read] the meaning is *udvejakaḥ* ('one who causes alarm'). In all the other places the words *viḥ* or *vayaḥ* are used for 'bird'."
+
+***āminānā*** — *mīñ hiṃsāyām* | *balād dhiṃsantī* | "For this word, which arises from the root *mī* with the sense of injury, the meaning 'one who injures by force' arises."
+
+***kṛtnuḥ*** — *kṛtī chedane* | "From the root *kṛt*, 'to cut', the meaning is: one who cuts and injures all the wings."
+
+***śvaghnī*** — "To this word three meanings can be given: *jūjagāra* [a gambler, as printed], *vyādha* [a hunter], and *vyādhapatnī* [a hunter's wife]. The first, as the Nirukta writer's explanation: *śvaghnī* —
+
+---
+
+**Progress note:** Printed pp. 1–442 done (PDF 16–457), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.9 complete (92.3 minus the missing p. 413); Rik 92.10 done through most of its Special Topics (the Max Müller quotation, *punaḥ punar jāyamānā*, *śumbhamānā*, *vijaḥ*, *āminānā*, *kṛtnuḥ*), which break at the foot of p. 442 mid-sentence at *śvaghnī* ("The first, as the Nirukta writer's explanation: *śvaghnī* —"), to be continued from the head of p. 443; the grammar page follows. Next: printed p. 443 (PDF 458). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (the citation there beginning *vṛścas tīrviyā…* is the Ṛk *vyacasvatīr urviyā vi śrayantām…*, whose clear print is on p. 442 — the reading on p. 436 is superseded by that on p. 442); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–442 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–439 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10; the Max Müller quotation reproduced from the print; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
