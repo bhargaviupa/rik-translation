@@ -7153,4 +7153,79 @@ Closing of Rik 88.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–257 done (PDF 16–272) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.3 complete**; **Rik 88.4** done through the bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the first five entries of the grammar page (ending mid-entry at *nunudre*, p. 257); the rest of the grammar follows on p. 258, then 88.5 (Virāḍrūpā) and 88.6. Next: printed p. 258 (PDF 273). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 258 (PDF 273)
+
+*(Running head: "258 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+*Vyākaraṇa-prakriyā of Rik 88.4, concluded from p. 257 (grammar, noted briefly):*
+
+- **नुनुद्रे** (cont.) — "…the substitute *re* for *ire*; for the *n* of the root, by "णोनः" [as read: *ṇo naḥ*] the *n*-form; since *liṭ* is the occasion, the root is reduplicated; in the reduplicate the *hal*-initial remains; by "असंयोगाल्लिट् कित्" (*asaṃyogāl liṭ kit*, Pā. Sū. 1-2-[5]) the *kit*-ness of the affix, so no *laghūpadha-guṇa* for the root; since it follows an *atiṅanta*, the *nighāta* accent."
+- **उत्सधिम्** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*; by "कर्मण्यधिकरणे च" (Pā. Sū. 3-3-[93]) the affix *ki* in the locative sense; *utsaḥ asmin dhīyate iti utsadhiḥ*; since the affix is *kit*, by "आतो लोप इटि च" the loss of the *ā* of the root; by the affix-accent the final acute.
+- **पिबध्यै** — the root *pā pāne*; in the sense of *tumun*, by "तुमर्थे सेसेनसेअसेन्…" (Pā. Sū. 3-4-[9]) the affix *śadhyai*; since it is *śit*, by "पाघ्राध्मास्थाम्नादाण्…" (Pā. Sū. 7-3-[78]) the substitute *piba* for the root; since the affix is *nit*, the first syllable is acute.
+
+Closing of Rik 88.4: "॥ ४ ॥" (4), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 88.5)** *(Virāḍrūpā — eleven + eleven + eleven + eight; Maruts; accents not reproduced)*
+
+> एतत्त्यन्न योजनमचेति सस्वर्ह यन्मरुतो गोतमो वः ।
+> पश्यन्हिरण्यचक्रानयोदंष्ट्रान्विधावतो वराहून् ॥ ५ ॥
+
+*etat tyan na yojanam aceti sasvar ha yan maruto gotamo vaḥ | paśyan hiraṇyacakrān ayodaṃṣṭrān vidhāvato varāhūn ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "That very yoking [song] is known — what Gotama, O Maruts, sang for you, seeing the golden-wheeled, iron-tusked ones, running hither and thither, the destroyers of the mightiest."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 88.5)**
+
+> एतत् । त्यत् । न । योजनम् । अचेति । सस्वः । ह । यत् । मरुतः । गोतमः । वः ।
+> पश्यन् । हिरण्यऽचक्रान् । अयःऽदंष्ट्रान् । विऽधावतः । वराहून् ॥ ५ ॥
+
+*etat | tyat | na | yojanam | aceti | sasvaḥ | ha | yat | marutaḥ | gotamaḥ | vaḥ | paśyan | hiraṇya-cakrān | ayaḥ-daṃṣṭrān | vi-dhāvataḥ | varāhūn ‖ 5 ‖*
+
+---
+
+### Page 259 (PDF 274)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 259.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 88.5)**
+
+> हे मरुत एतद्योजनम् । युज्यतेऽनेन देवतेति योजनमेतत्सूक्तरूपं स्तोत्रम् । तद्यत्त्यत् प्रसिद्धमन्यदुत्कृष्टं स्तोत्रमिवाचेति । सर्वैर्ज्ञायते । वो युष्मदर्थं यदेतत्सूक्तरूपं स्तोत्रं गोतमो ऋषिः सस्वर्ह उच्चारितवान् खलु । किं कुर्वन् । हिरण्यचक्रान् हिरण्मयचक्ररथारूढान् हितरमणीयकर्मायुक्तान् अयोदंष्ट्रान् । दशतीति दंष्ट्रा चक्रधारा । अयोमयाभिश्चक्रधाराभिर्युक्तान् । यद्वा । दंशनसाधना ऋष्टयो दंष्ट्राः । अयोमया ऋष्टयो येषां तानि विधावतः विविधमितस्ततः प्रवर्तमानान् वराहून् वरस्योत्कृष्टस्य शत्रोर्हन्तॄन् । यद्वा । उत्कृष्टस्य वृष्ट्युदकस्याहर्तॄन् । अथवा उत्कृष्टानां देवतानामाह्वातॄन् वरस्य हविषो भक्षयितॄन् । एवंभूतान्मरुतः पश्यन् सम्यग्ज्ञानन् गोतमो यज्ञे स्तोत्रं कृतवान् तदेतत्स्तोत्रमुत्कृष्टं सदस्माभिः सर्वैरुपलभ्यत इत्यर्थः । अत्र निरुक्तम् । अथाप्येते माध्यमिका देवगणा वराहव उच्यन्ते पश्यन्हिरण्यचक्रान् । नि. ५-४ [?] । इति ॥ अचेति । चिती संज्ञाने । छान्दसो वर्तमाने कर्मणि लुङ् । सस्वः । स्वृ शब्दोपतापयोः । लङि तिपि बहुलं छन्दसीति शपः श्लुः । गुणे हल्ङ्याब्भ्य इति तेर्लोपः । धातुस्वरेणान्तोदात्तत्वम् । वराहून् । वरशब्दोपपदादाजपूर्वाद्धन्तेर्वा हरतेर्वा ह्वयतेर्वा जुहोतेर्वा दनार्थाद्वा । हु इत्येतस्य निष्पत्तिरिति स्कन्दस्वामी । अस्य पृषोदरादित्वादभिमतसिद्धिः ॥
+
+*he maruta etad yojanam | yujyate 'nena devateti yojanam etatsūktarūpaṃ stotram | tad yat tyat prasiddham anyad utkṛṣṭaṃ stotram ivāceti | sarvair jñāyate | vo yuṣmadartham yad etatsūktarūpaṃ stotraṃ gotamo ṛṣiḥ sasvar ha uccāritavān khalu | kiṃ kurvan | hiraṇyacakrān hiraṇmayacakrarathārūḍhān hitaramaṇīyakarmāyuktān ayodaṃṣṭrān | daśatīti daṃṣṭrā cakradhārā | ayomayābhiś cakradhārābhir yuktān | yadvā | daṃśanasādhanā ṛṣṭayo daṃṣṭrāḥ | ayomayā ṛṣṭayo yeṣāṃ tāni vidhāvataḥ vividham itastataḥ pravartamānān varāhūn varasyotkṛṣṭasya śatror hantṝn | yadvā | utkṛṣṭasya vṛṣṭyudakasyāhartṝn | athavā utkṛṣṭānāṃ devatānām āhvātṝn varasya haviṣo bhakṣayitṝn | evaṃbhūtān marutaḥ paśyan samyag jānan gotamo yajñe stotraṃ kṛtavān tad etat stotram utkṛṣṭaṃ sad asmābhiḥ sarvair upalabhyata ity arthaḥ | atra niruktam | athāpy ete mādhyamikā devagaṇā varāhava ucyante paśyan hiraṇyacakrān | Ni. 5-4 [?] | iti ‖ aceti | citī saṃjñāne | chāndaso vartamāne karmaṇi luṅ | sasvaḥ | svṛ śabdopatāpayoḥ | laṅi tipi bahulaṃ chandasīti śapaḥ śluḥ | guṇe halṅyābbhya iti ter lopaḥ | dhātusvareṇāntodāttatvam | varāhūn | varaśabdopapadād ājapūrvād dhanter vā harater vā hvayater vā juhoter vā danārthād vā | hu ity etasya niṣpattir iti skandasvāmī | asya pṛṣodarāditvād abhimatasiddhiḥ ‖*
+
+*(Kannada script; a few grammatical phrases are compressed and read with doubt [?].)*
+
+*Translation:* "O Maruts, *etad yojanam* — *yojana* means 'that by which a deity is joined (invoked)', i.e. the hymn-form of praise, this sūkta. That *tyat*, like some other famous, excellent hymn, *aceti* — is known by all. This hymn-form of praise which the sage Gotama has uttered (*sasvar ha*) for you — doing what? Seeing the *hiraṇyacakrān* — those mounted on chariots with golden wheels, engaged in beneficial and delightful deeds, *ayodaṃṣṭrān* — with iron *daṃṣṭrā* (*daśati* = bites), i.e. furnished with iron wheel-rims; or *daṃṣṭrā* = spears serving for biting, who have iron spears; *vidhāvataḥ* — running about in various directions here and there; *varāhūn* — slayers of the best of enemies; or bringers of the best rain-water; or callers of the best gods, eaters of the best oblation. Seeing such Maruts well, Gotama made the hymn at the sacrifice; that hymn, excellent as it is, is known to all of us — that is the sense. On this Yāska (Ni. [5-4] [?]): 'Moreover these groups of middle-region gods are called *varāhavaḥ* — *paśyan hiraṇyacakrān*.' *Grammar tail, noted briefly:* *aceti* — *citī saṃjñāne*, Vedic *luṅ* in the passive present; *sasvaḥ* — *svṛ śabdopatāpayoḥ*, *laṅ* with *tip*, *śap* elided, loss of the affix by "halṅyāb…"; *varāhūn* — from *vara* plus *han*, or *hṛ*, or *hvā*, or *hu*: Skandasvāmin says 'the derivation of *hu*'; by being in the *pṛṣodarādi* list the desired form is obtained."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 88.5)** *(Kannada)*
+
+*marutaḥ* — O Maruts; *hiraṇyacakrān* — sitting in chariots with golden wheels, or beneficial and delightful deeds being theirs; *ayodaṃṣṭrān* — holding iron weapons; *vidhāvataḥ* — running about everywhere with speed; *varāhūn* — those who slay mighty enemies, or bring excellent rain-water, or call excellent deities to the sacrifice, or eat the excellent oblation; you; *paśyan* — seeing well; *vaḥ* — for you; *yat* — which sūkta-form hymn; *gotamaḥ* — the sage Gotama; *sasvaḥ* — recited; *etat yojanam* — this sūkta-form hymn also; *tyat* — that famous hymn-offering; *na* — as it were; *aceti* — is known to all.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 88.5** *(Kannada; runs to p. 260)*
+
+"O Maruts, sitting in chariots with golden wheels, holding iron weapons, running swiftly in all directions, and destroying mighty enemies — the sage Gotama, seeing you well, recited a hymn for you; this sūkta too is known to all as that very famous hymn-offering."
+
+---
+
+### Page 260 (PDF 275)
+
+*(Running head: "260 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+**English Translation** *(printed in English in the source)*
+
+"Marutś, this hymn is known to be the same as that which Gotama recited, in your praise, when he beheld you seated in your chariots with golden wheels, armed with iron weapons, hurrying hither and thither and destroying your mightiest foes." — as printed ("Marutś" as in the print [sic]).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 88.5)**
+
+- **एतत्त्यन्न** — "this is a famous and excellent hymn."
+- **योजनम्** — *etatsūktasādhyaṃ stotram* — "the hymn made by this sūkta. Skandasvāmin explains the word *yojana* thus: '*yujyante prāṇaviyogādinā anena śatrava iti yojanaṃ senālakṣaṇaṃ balam ihābhipretam*' — 'that by which enemies are joined [to] separation from life and the like is *yojana*; the power in the form of an army is intended here.' Since here the enemies are destroyed, he explains *yojana* as 'army-like power'."
+- **अचेति** — *citī saṃjñāne | sarvair jñāyate* — "is known by all."
+- **सस्वः** — *svṛ śabdopatāpayoḥ* — "recited."
+- **हिरण्यचक्रान्** — "those who sit in golden-wheeled chariots; or those who do beneficial and delightful acts."
+- **अयोदंष्ट्रान्** — *daśatīti daṃṣṭrā cakradhārā | ayomayābhiś cakradhārābhir yuktān | yadvā daṃśanasādhanā ṛṣṭayo daṃṣṭrāḥ ayomayā ṛṣṭayo yeṣām* — "furnished with wheel-rims made of iron; or those with weapons made of iron."
+- **विधावतः** — *vividham itastataḥ pravartamānān* — "running about in many ways."
+- **वराहून्** — *varasyotkṛṣṭasya śatror hantṝn* — "destroyers of excellent enemies; or bringers of the best rain-water, in the form of excellent rain; or callers of the best deities to the sacrificial ground; or eaters of the best oblation: the meaning is 'the Marut deities who eat the best oblation'. The sage Yāska: '*athāpy ete mādhyamikā devagaṇā varāhava*…'" *(the quotation breaks off at the foot of p. 260 and continues on p. 261)*
+
+---
+
+**Progress note:** Printed pp. 1–260 done (PDF 16–275) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.4 complete**; **Rik 88.5** (Virāḍrūpā) done through its English and most of its Special Topics (the Yāska quotation *athāpy ete mādhyamikā devagaṇā varāhava…* breaks off at the foot of p. 260); next: the rest of 88.5's Special Topics, its grammar page, then 88.6. Next: printed p. 261 (PDF 276). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
