@@ -5616,4 +5616,104 @@ Closing of Rik 86.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–203 done (PDF 16–218) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.4 complete**; **Rik 86.5** done through its English, Special Topics and the first three entries of its grammar page, ending mid-entry at *sasruṣīḥ* (p. 203; the grammar continues on p. 204). Next: printed p. 204 (PDF 219). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 204 (PDF 219)
+
+*(Running head: "204 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+*Vyākaraṇa-prakriyā of Rik 86.5, concluded from p. 203 (grammar, noted briefly):*
+
+- **सस्रुषीः** (cont.) — "…when the feminine is intended, by "उगितश्च" (*ugitaś ca*) the affix *ṅīp*; since an affix beginning with a vowel (*ajādi*) follows, the *bha* designation arises, so by "वसोः सम्प्रसारणम्" (*vasoḥ saṃprasāraṇam*) the *saṃprasāraṇa* of the *v* of *vasu* (*u*-substitution); by "सम्प्रसारणाच्च" the earlier form for the *a* of *vas*; by "शासिवसिघसीनां च" (Pā. Sū. 8-3-[60]) the *ṣatva* for the *s* of *vas*; the form *sasruṣī*; in the nominative plural, with *jas* following, by "वा छन्दसि" (Pā. Sū. 6-1-[106]) the lengthening to the homorganic vowel; the form *sasruṣīḥ*."
+
+Closing of Rik 86.5: "॥ ५ ॥" (5), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.6)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> पूर्वीभिर्हि ददाशिम शरद्भिर्मरुतो वयम् ।
+> अवोभिश्चर्षणीनाम् ॥ ६ ॥
+
+*pūrvībhir hi dadāśima śaradbhir maruto vayam | avobhiś carṣaṇīnām ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "For through many autumns [years], O Maruts, we have made offerings, with the helps of [you who see] all the peoples."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.6)**
+
+> पूर्वीभिः । हि । ददाशिम । शरत्ऽभिः । मरुतः । वयम् ।
+> अवःऽभिः । चर्षणीनाम् ॥ ६ ॥
+
+*pūrvībhiḥ | hi | dadāśima | śarat-bhiḥ | marutaḥ | vayam | avaḥ-bhiḥ | carṣaṇīnām ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.6)**
+
+> हे मरुतः पूर्वीभिर्बह्वीभिः शरद्भिः संवत्सरैश्चर्षणीनां सर्वस्य द्रष्टॄणां सर्वज्ञानां भवतां सम्बन्धिभिरवोभी रक्षणैर्युक्ताः सन्तो वयं ददाशिम । युष्मभ्यं हवींषि दत्तवन्तः । हि यस्मादर्थे । यस्मादेवं तस्मादिदानीमप्यस्मदीयहविःस्वीकरणाय [आगच्छ?] [?] इत्यर्थः ॥ पूर्वीभिः । पुरुशब्दाद्गुणवचनादिति ङीष् । यणादेशे हलि चेति दीर्घत्वम् । ददाशिम । दाश दाने । लिटीडागमः । हि चेति निघातप्रतिषेधः । चर्षणीनाम् । नामन्यतरस्यामिति नाम उदात्तत्वम् ॥ ६ ॥
+
+*he marutaḥ pūrvībhir bahvībhiḥ śaradbhiḥ saṃvatsaraiś carṣaṇīnāṃ sarvasya draṣṭṝṇāṃ sarvajñānāṃ bhavatāṃ sambandhibhir avobhī rakṣaṇair yuktāḥ santo vayaṃ dadāśima | yuṣmabhyaṃ havīṃṣi dattavantaḥ | hi yasmād arthe | yasmād evaṃ tasmād idānīm apy asmadīyahaviḥsvīkaraṇāya [āgaccha?] [?] ity arthaḥ ‖ pūrvībhiḥ | puruśabdād guṇavacanād iti ṅīṣ | yaṇādeśe hali ceti dīrghatvam | dadāśima | dāśa dāne | liṭīḍāgamaḥ | hi ceti nighātapratiṣedhaḥ | carṣaṇīnām | nāmanyatarasyām iti nāma udāttatvam ‖ 6 ‖*
+
+*(Kannada script; the last words of the sentence on* hi *are not clear [?].)*
+
+*Translation:* "O Maruts, endowed with protections (*avobhiḥ*) that belong to you, who are *carṣaṇīnām* — all-seers, all-knowing — through many (*pūrvībhiḥ*) autumns (*śaradbhiḥ*), years, we have made offerings: we have given you oblations. *Hi* is in the sense of 'because'; because it is so, now also [come] to accept our oblations — so the meaning. *Grammar tail, noted briefly:* *pūrvībhiḥ* — *ṅīṣ* after *puru* (a word of quality); lengthening by "hali ca" after the *yaṇ*-substitution; *dadāśima* — *dāśa dāne* with the augment *iṭ* in *liṭ*; *nighāta* is barred by *hi*; *carṣaṇīnām* — the *nām* acute by "nāmanyatarasyām"."
+
+---
+
+### Page 205 (PDF 220)
+
+*(Running head left: "A. 1 A. 6 Va. 12 [?]"; centre: "Ṛgvedasaṃhitā"; right: 205.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.6)** *(Kannada)*
+
+*marutaḥ* — O Maruts; *pūrvībhiḥ śaradbhiḥ* — through many years; *carṣaṇīnām* — of you who are all-knowing; *avobhiḥ* — with protections (being endowed with them); *vayam* — we; *dadāśima* — have offered (offerings to you); *hi* — for that reason (even now, to receive our offering, come, show favour).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.6** *(Kannada)*
+
+"O Maruts, through many years, having obtained your protections, you who are all-knowing, we are offering offerings to you. Now also, to accept our offering, show favour."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, enjoying the protection of you who behold all things we have offered you oblations for many years." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.6)**
+
+- **पूर्वीभिः** — "*puru* means 'many'. *Bahvībhiḥ* means 'numerous, abundant'."
+- **शरद्भिः** — "Although this word means 'by autumns (the season *śarad*)', since the autumn season comes only once in a year, in the Ṛgveda and in the other Vedas too this word is often used to denote a year. Hence here the meaning 'by years' must be given to *śaradbhiḥ*. A couple of Ṛks in which this word is used in that sense are given below as examples:
+
+> तच्चक्षुर्देवहितं शुक्रमुच्चरत् । पश्येम शरदः शतं जीवेम शरदः शतम् ॥
+
+*tac cakṣur devahitaṃ śukram uccarat | paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam ‖* (Ṛ. Saṃ. 7-66-16 [?]) — *Gloss, mine and tentative:* "That eye, set by the gods, bright, rises: may we see a hundred autumns, may we live a hundred autumns."
+
+> शतं जीव शरदो वर्धमानः शतं हेमन्ताञ्छतमु वसन्तान् । शतमिन्द्राग्नी सविता बृहस्पतिः शतायुषा हविषेमं पुनर्दुः ॥
+
+*śataṃ jīva śarado vardhamānaḥ śataṃ hemantāñ chatam u vasantān | śatam indrāgnī savitā bṛhaspatiḥ śatāyuṣā haviṣemaṃ punar duḥ ‖* (Ṛ. Saṃ. 10-161-4 [?]) — *Gloss, mine and tentative:* "Live a hundred autumns, growing; a hundred winters, a hundred springs: may Indra and Agni, Savitṛ, Bṛhaspati, with an oblation of a hundred years of life, give him back again."
+
+"…and so on. In the second example the *vasanta* (spring) season has also been used. Ordinarily, it is the usage to use the *śarad* season to denote the year."
+- **ददाशिम** — *dāśa dāne | havīṃṣi dattavantaḥ* — "we have offered oblations."
+
+---
+
+### Page 206 (PDF 221)
+
+*(Running head: "206 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+*Special Topics of Rik 86.6, concluded from p. 205:*
+
+- **चर्षणीनाम्** — *sarvasya draṣṭṝṇāṃ sarvajñānāṃ bhavatām* — "of you who see everything, or know everything: all-knowing."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.6)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **पूर्वीभिः** — the word *puru*; to it, in the feminine, by "वोतो गुणवचनात्" (*voto guṇavacanāt*, Pā. Sū. 4-1-[44]) the affix *ṅīṣ*; by "इको यणचि" the *yaṇ*-substitution; by "हलि च" (Pā. Sū. 8-2-[77]) the lengthening of the vowel before the *r*; instrumental plural; by the affix-accent the *ī* is acute.
+- **ददाशिम** — the root *dāśṛ dāne*; *liṭ*, first person plural, the affix *mas*; by "आर्धधातुकस्येड्वलादेः" the augment *iṭ*; the root is reduplicated by *liṭ*; in the reduplicate the *hal*-initial remains; short; the form *dadāśima*; since the particle *hi* precedes, by "हि च" (Pā. Sū. 8-1-[34]) the *nighāta* is prohibited; by the affix-accent the final acute.
+- **अवोभिः** — the root *ava rakṣaṇe*; since *asun* comes after all roots, the affix *asun*; the word *avas*; in the instrumental plural, *s* becomes *ru*, then *u*, with *guṇa*; since it ends in a *nit* affix, the first syllable is acute.
+- **चर्षणीनाम्** — in the genitive plural the augment *nuṭ* for *ām*; by "नामि" the lengthening of the stem-final; by "नामन्यतरस्याम्" (Pā. Sū. 6-1-[177]) the case-ending *nām* is acute.
+
+Closing of Rik 86.6: "॥ ६ ॥" (6), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.7)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> सुभगः स प्रयज्यवो मरुतो अस्तु मर्त्यः ।
+> यस्य प्रयांसि पर्षथ ॥ ७ ॥
+
+*subhagaḥ sa prayajyavo maruto astu martyaḥ | yasya prayāṃsi parṣatha ‖ 7 ‖*
+
+*Gloss, mine and tentative:* "May that mortal be fortunate, O most worshipful Maruts, whose offerings you carry across."
+
+---
+
+**Progress note:** Printed pp. 1–206 done (PDF 16–221) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.6 complete**; **Rik 86.7** — Saṃhitā done (foot of p. 206); next: its Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then 86.8–86.10 (the sūkta ends about p. 214). Next: printed p. 207 (PDF 222). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
