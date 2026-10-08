@@ -7084,4 +7084,73 @@ Closing of Rik 88.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–254 done (PDF 16–269) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.3 complete**; **Rik 88.4** — Saṃhitā and Pada done (foot of p. 254); next: its bhāṣya and the rest, then 88.5 (Virāḍrūpā) and 88.6. Next: printed p. 255 (PDF 270). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 255 (PDF 270)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 255.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 88.4)** *(Kannada script; dense; the grammatical tail is compressed and read in part [?])*
+
+> तृषितैर्गोतमैः स्तुता मरुतस्तेभ्यो गोतमेभ्यो देशान्तरे वर्तमानं कूपमुत्पाट्यानीय प्रादुः । एतद्दृष्ट्वा कश्चिदृषिर्ब्रूते । हे गोतमा गृध्रा जलाभिकाङ्क्षायुक्ता नो [यूयं?] युष्मानहानि शोभनोदकोपेतानि दिनानि पर्यागुः । पर्यागतानि । परितः अभिमुखेन प्राप्तानि । प्राप्य च वार्कार्यां वाभिरुदकैर्निष्पाद्यां धियं ज्योतिष्टोमादिलक्षणं कर्म च देवीं द्योतमानमकुर्वन् । येषां ब्रह्म हविर्लक्षणमन्नमर्कैर्मन्त्रसाध्यैः स्तोत्रैः सह कृण्वन्तो मरुद्भ्यः कुर्वन्तो गोतमासो गोतमा ऋषय उत्सधिम् । उत्सो जलप्रवाहोऽस्मिन्धीयत इत्युत्सधिः कूपम् । तं पिबध्यै स्वकीयपानायोर्ध्वं नुनुद्रे नुनुदिरे देशान्तरे वर्तमानं कूपमुत्पाट्यानीतवन्तः । एतदीयस्तोत्रैः स्तुता मरुतः कूपमुत्पाट्यानयन्ते इति यत्तद्वेतदीयस्तोत्रकारितमित्येतेनोपचर्यते ॥ गृध्राः । गृधु अभिकाङ्क्षायाम् । सुसूधागृधिभ्यः क्रन्निति क्रन्प्रत्ययः । सुपां सुलुगिति शसो जस् । नित्त्वाद्याद्युदात्तत्वम् । आगुः । एतेर्लुङ्जेणो गा लुङीति गादेशः । आत इति रेर्जुस् । वार्कार्याम् । डुकृञ् करणे । ऋहलोर्ण्यत् । वाभिः कार्या वार्कार्या । त्रिचक्रादिगणत्वादुत्तरपदान्तोदात्तत्वम् । नुनुद्रे । णुद प्रेरणे । इरयोर इति रेआदेशः । उत्सधिम् । कर्मण्यधिकरणे चेति दधातेरधिकरणे किप्रत्ययः । पिबध्यै । पा पाने । तुमर्थे सेसेनिति शध्यैप्रत्ययः । पाघ्रेत्यादिना पिबादेशः ॥
+
+*tṛṣitair gotamaiḥ stutā marutas tebhyo gotamebhyo deśāntare vartamānaṃ kūpam utpāṭyānīya prāduḥ | etad dṛṣṭvā kaścid ṛṣir brūte | he gotamā gṛdhrā jalābhikāṅkṣāyuktā no [yūyaṃ?] yuṣmān ahāni śobhanodakopetāni dināni paryāguḥ | paryāgatāni | paritaḥ abhimukhena prāptāni | prāpya ca vārkāryāṃ vābhir udakair niṣpādyāṃ dhiyaṃ jyotiṣṭomādilakṣaṇaṃ karma ca devīṃ dyotamānam akurvan | yeṣāṃ brahma havirlakṣaṇam annam arkair mantrasādhyaiḥ stotraiḥ saha kṛṇvanto marudbhyaḥ kurvanto gotamāso gotamā ṛṣaya utsadhim | utso jalapravāho 'smin dhīyata ity utsadhiḥ kūpam | taṃ pibadhyai svakīyapānāyorddhvaṃ nunudre nunudire deśāntare vartamānaṃ kūpam utpāṭyānītavantaḥ | etadīyastotraiḥ stutā marutaḥ kūpam utpāṭyānayante iti yat tad vetadīyastotrakāritam ity etenopacaryate ‖ gṛdhrāḥ | gṛdhu abhikāṅkṣāyām | susūdhāgṛdhibhyaḥ kran iti kran-pratyayaḥ | supāṃ suluk iti śaso jas | nittvād ādyudāttatvam | āguḥ | eter luṅ jeṇo gā luṅīti gādeśaḥ | āta iti rer jus | vārkāryām | ḍukṛñ karaṇe | ṛhaloṛ ṇyat | vābhiḥ kāryā vārkāryā | tricakrādigaṇatvād uttarapadāntodāttatvam | nunudre | ṇuda preraṇe | irayor a iti reādeśaḥ | utsadhim | karmaṇy adhikaraṇe ceti dadhāter adhikaraṇe ki-pratyayaḥ | pibadhyai | pā pāne | tumarthe sesenīti śadhyai-pratyayaḥ | pāghretyādinā pibādeśaḥ ‖*
+
+*(Kannada script; "no [yūyaṃ?]" and the last clause "etadīyastotrakāritam" are doubtful [?].)*
+
+*Translation:* "The Maruts, praised by the thirsty Gotamas, lifted up and brought to those Gotamas a well that was in another place, and gave it. Seeing this, a certain sage says: O Gotamas, *gṛdhrāḥ* — eager, longing for water — *ahāni* — days endowed with fine water — have *paryāguḥ* — come round, come facing you from every side; and having come, they made *dhiyam* — the rite, of the nature of the Jyotiṣṭoma and the like, to be effected by *vārkāryām*, water — shining (*devīm*). The Gotamas, the sages, *brahma kṛṇvantaḥ* — offering to the Maruts the food of the nature of oblation along with chants (*arkaiḥ*) made by mantras, *utsadhim* — the well in which a spring of water is held — *ūrdhvaṃ nunudre* — raised it up, for their own drinking, bringing the well that was in another place. [As the Maruts, praised by their chants, uproot and bring the well — that is spoken of figuratively as done by the chants.] *Grammar tail, noted briefly:* *gṛdhrāḥ* — *gṛdhu abhikāṅkṣāyām* with *kran*; *āguḥ* — *luṅ* of *i* with the substitute *gā*, *jus* for *jhi*; *vārkāryām* — *ṇyat* after *kṛ*; *vābhiḥ kāryā*; *nunudre* — *re* for *ire*; *utsadhim* — *ki* in the sense of locus after *dhā*; *pibadhyai* — the infinitive *śadhyai*, with *piba* for *pā*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 88.4)** *(Kannada; begins at the foot of p. 255)*
+
+*gṛdhrāḥ* — (O sons of Gotama) who ardently desired water; *vaḥ* — you; *ahāni* — days (furnished with fine water); *pari ā aguḥ* — have come round to meet you, approached; (and) *vārkāryām* — brought about by water (water being necessary for it) …
+
+---
+
+### Page 256 (PDF 271)
+
+*(Running head: "256 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+*Pratipadārtha of Rik 88.4, continued from p. 255:*
+
+"…and necessary; *dhiyam* — the rite of the nature of the Jyotiṣṭoma and the like; *devīṃ ca* — they made it shining (on these days); *brahma* — food in the form of oblations; *arkaiḥ* — with stotras in the form of mantras; *kṛṇvantaḥ* — offering (to the Maruts); *gotamāsaḥ* — the sages who are sons of Gotama; *utsadhim* — the well that is the abode of water; *pibadhyai* — for their own drinking; *ūrdhvaṃ nunudre* — raised and brought (so that the water comes upward)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 88.4** *(Kannada)*
+
+"O sons of Gotama, you earnestly desired water. Days endowed with the water you needed have come to meet you. And you made manifest the rite — of the nature of the Jyotiṣṭoma and the like — that must be accomplished with water. On such days, you sons of Gotama, offering the food that is oblation to the Maruts, with chants in the form of mantras, raised up and brought the well that is the abode of water, that the water might come up for your drinking. The Maruts, too, from a distant place, raised that well and brought it for you."
+
+**English Translation** *(printed in English in the source)*
+
+"Fortunate days have befallen you, (sons of Gotama), when thirsty and having sung about you in the sacrifice for which water was essential; the sons of Gotama, offering oblations with sacred hymns have raised aloft the well provided for their dwelling." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 88.4)**
+
+"The Maruts, praised by the sage Gotama, who was in need of water, and by his sons, lifted a well full of water from a distant place and brought it and gave it to the sage Gotama. A certain sage who saw this spoke this Ṛk."
+
+- **गृध्राः** — *gṛdhu abhikāṅkṣāyām* — "those who earnestly desire (water)."
+- **वार्कार्याम्** — *ḍukṛñ karaṇe | vābhiḥ kāryā vārkāryā tām* — "that which is to be done with water; the necessary [rite that requires water]."
+- **धियम्** — "work: the Jyotiṣṭoma and similar sacrificial works. Among the twenty-six names of work — *apaḥ, aṣṭaḥ* and the rest — the word *dhīḥ* is read; hence *dhiyam* means 'work' (Ni. [2-1] [?])." *(continues on p. 257)*
+
+---
+
+### Page 257 (PDF 272)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 257. Foot: printer's signature "17 … Volume 7".)*
+
+*Special Topics of Rik 88.4, continued from p. 256:*
+
+- **देवीं च** — *dyotamānam akurvan* — "they made it shine; that is, they made it glorious."
+- **ब्रह्म** — *havirlakṣaṇam annam* — "the food to be offered to the deities in the form of oblation."
+- **अर्कैः** — "with Ṛks, with mantras, with stotras."
+- **गोतमासः** — "the sons of the sage Gotama, or his descendants."
+- **उत्सधिम्** — *jalapravāho 'smin dhīyata ity utsadhiḥ kūpam* — "the well in which there is a flow of water."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 88.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **गृध्राः** — the root *gṛdhu abhikāṅkṣāyām*; by "सुसूधाग्रिधिभ्यः क्रन्" (Uṇ. Sū. 2-[25] [?]) the affix *kran*; since it is *kit*, no *laghūpadha-guṇa*; the word *gṛdhra*; by "सुपां सुलुक्…" [as read: "*supāṃ suluk*"], the *jas* comes for *śas*; since *kran* is *nit*, the first syllable is acute.
+- **आगुः** — the root *iṅ gatau*; in *luṅ*, by "इणो गा लुङि" (Pā. Sū. 2-4-[45]) the substitute *gā* for the root; third person plural, the affix *jhi*; by "आतः" (Pā. Sū. 3-4-[110]) when *jhi* follows a root ending in *ā*, the substitute *jus* for *jhi*; by "उस्यपदान्तात्" (Pā. Sū. 6-1-[96]) the *pararūpa*; the augment *aṭ* for the *aṅga*; by "तिङ्ङतिङः" the *nighāta* accent.
+- **इमाम्** — the word *idam*, feminine, accusative singular; by "ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः" the case-ending acute.
+- **वार्कार्याम्** — the root *ḍukṛñ karaṇe*; by "ऋहलोर्ण्यत्" (Pā. Sū. 3-1-[124]) the affix *ṇyat*; since it is *ṇit*, by "अचो ञ्णिति" the *vṛddhi*; by "उरण् रपरः" with *r*; when the feminine is intended, by "अजाद्यतष्टाप्" the affix *ṭāp*; *vābhiḥ kāryā vārkāryā*; since it belongs to the *tricakrādi* group the final syllable of the latter member is acute.
+- **गोतमासः** — in the nominative plural, by "आज्जसेरसुक्" the augment *asuk* for *jas*.
+- **नुनुद्रे** — the root *ṇuda preraṇe*; *liṭ*, third person plural, by "लिटस्तझयोरेशिरेच्" the substitute *irec*; for it, in the Chandas, by "इरयोरे" (Pā. Sū. 6-4-[76]) the *re*… *(the page ends here; the grammar continues on p. 258)*
+
+---
+
+**Progress note:** Printed pp. 1–257 done (PDF 16–272) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Riks 88.1–88.3 complete**; **Rik 88.4** done through the bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and the first five entries of the grammar page (ending mid-entry at *nunudre*, p. 257); the rest of the grammar follows on p. 258, then 88.5 (Virāḍrūpā) and 88.6. Next: printed p. 258 (PDF 273). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; on p. 249 the Pratipadārtha/Bhāvārtha of 88.2 stand at the foot of p. 248 (reported in a bracketed note); p. 252 grammar-tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
