@@ -3812,4 +3812,138 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–129 done (PDF 21–149): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.6 complete (97.5's Special Topics and grammar on pp. 126–127; 97.6 on pp. 127–129); Rik 97.7: Saṃhitā and Pada (foot of p. 129). Next: printed p. 130 (PDF 150) — the bhāṣya of 97.7, then its other parts, then Rik 97.8 (the last Ṛk), and Sūkta 98 at printed p. 134. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–129) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122, 124 and 126–129 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*) and 97.3 (last clause) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 130 (PDF 150)
+
+*(Running head: left 130; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.7)**
+
+> हे विश्वतोमुख सर्वतोमुखाग्ने नावेव नावा नदीमिव द्विषः शत्रून्नोऽस्मानति पारय । अतिक्रम्य शत्रुरहितं प्रदेशं प्रापय ॥ नावेव । सावेकाच इति विभक्तेरुदात्तत्वं । पारय । पार तीर कर्मसमाप्तौ ॥
+> *he viśvatomukha sarvatomukhāgne nāveva nāvā nadīm iva dviṣaḥ śatrūn no 'smān ati pāraya | atikramya śatrurahitaṃ pradeśaṃ prāpaya ‖ nāveva | sāvekāca iti vibhakter udāttatvaṃ | pāraya | pāra tīra karmasamāptau ‖*
+
+*Sense (mine, from the Kannada):* "O Agni of all-sided face, as by a boat one crosses a river, so carry us beyond (*ati pāraya*) our enemies: bring us across to a region without enemies." Tail: *nāveva* — the case-ending acute by *sāvekāca…* (Pā. 6-1-168 [?]); *pāraya* — *pāra*, *tīra*, in the sense of completing an act.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*viśvatomukha* — O Agni, who have flame-faces in many directions; *nāveva* — as a boatman makes (the travellers) cross by means of a boat; *naḥ* — us; *dviṣaḥ* — from enemies; *ati pāraya* — carry across (and bring us to a distant place free of enemies); *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed."
+
+*Or:* "[*viśvatomukha* — O Agni, who have faces (in the form of flames) in all directions; *dviṣaḥ* — (our) enemies; *naḥ* — by us; *nāveva* — as by boats; *atipāraya* — carry [us] across (to a distant place).]"
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, since your flame spreads in all directions, you are *viśvatomukha*. Carry off our enemies, and bring us far away from them. As a boatman makes one cross a river easily in a boat, make us cross easily over the danger of enemies. May our sin be destroyed."
+
+**English Translation (as printed)**
+
+> Your countenance is turned to all sides, send off our adversaries, as if in a ship, (to the opposite shore) : may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.7 (Kannada)**
+
+***dviṣo no nāveva atipāraya*** — "Of the two kinds of construction given above, the first suits the context better: 'as, to cross a river that is deep, full of the current and filled with dangerous water-creatures, there is no way without the help of a boatman, so, to escape from the swarm of enemies and be far away, the help of Agni is utterly necessary': giving this comparison, he prays: 'as the boatman, by a boat, makes us cross on the river, so make us cross over the enemies, and take us to a distant place free of enemies'."
+
+### Page 131 (PDF 151)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 131.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.7)** *(grammar page, noted briefly)*
+
+***dviṣaḥ*** — root *dviṣa* (to dislike); *kvip* by *kvip ca* (Pā. 3-2-76 [?]); elision of *kvip* wholly; the form *dviṣ*; the accusative plural. — ***nāvā*** — the word *nau*, feminine, ending in *au* [*o*]; the instrumental singular *ṭā*; with it following, the *āv* substitute; since the stem has one syllable, *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 [?]) gives the case-ending its acute. — ***pāraya*** — root *pāra*, *tīra* (to complete an act), *curādi*; the suffix *ṇic* by *satyāpapāśa…* (Pā. 3-1-25 [?]) in the sense of the root itself; *loṭ*, second person singular, *sip*; *hi* for it; *śap*; guṇa for *ṇic* and *ay*-substitution; *ato heḥ* (Pā. 6-4-105 [?]) elides *hi*; by *tiṅ atiṅaḥ* (Pā. 8-1-28 [?]) the *nighāta*, since it follows a verb-ending word. ‖ 7 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 8
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.8)** *(Gāyatrī; accent marks printed here, not reproduced)* — *the last Ṛk of the sūkta*
+
+> स नः सिन्धुमिव नावयाति पर्षा स्वस्तये ।
+> अप नः शोशुचदघम् ॥ ८ ॥
+
+*sa naḥ sindhum iva nāvayāti parṣā svastaye | apa naḥ śośucad agham ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.8)**
+
+> सः । नः । सिन्धुम्ऽइव । नावया । अति । पर्षा । स्वस्तये ।
+> अप । नः । शोशुचत् । अघम् ॥ ८ ॥
+
+*saḥ | naḥ | sindhum-iva | nāvayā | ati | parṣā | svastaye | apa | naḥ | śośucat | agham ‖ 8 ‖*
+
+*(Reading note: the print's Pada, as printed, has* parṣā *and the Saṃhitā* parṣā*; the bhāṣya reads* pārṣa*, i.e.* parṣa*; the Saṃhitā's long* ā *is the lengthening in the Saṃhitā [?].)*
+
+### Page 132 (PDF 152)
+
+*(Running head: left 132; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.8)**
+
+> पूर्वोक्त एवार्थः पुनरपि दार्ढ्याय प्रार्थ्यते । हे अग्ने स त्वं नोऽस्मान्नावया नावा सिन्धुमिव नदीमिव स्वस्तये क्षेमार्थमतिपर्ष । शत्रूनतिक्रम्य्य [sic] पालय । शत्रुरहितं प्रदेशमस्मान्प्रापयेत्यर्थः । त्वत्प्रसादान्नोऽस्माकमघं पापं चाप शोशुचत् । अस्मत्तोऽपक्रम्य शत्रुः शोकयुक्तो भवतु ॥ नावया । आजयोजयोरामं चोपसंख्यानं । मा. ७-१-१८-१ [?] । इति तृतीयाया अयादेशः । उपोत्तमं रिति । पा. ६-१-२१३ [?] । इत्येकारस्योदात्तत्वं । पर्ष । पृ पालनपूरणयोः । लोटि बहुलं छन्दसीति शपः श्लोरभावः । सिब्बहुलं लेटीति बहुलवचनात्सिप् । गुणः । द्वे यौ [?] तेस्तिज इति दीर्घत्वं ॥
+> *pūrvokta evārthaḥ punar api dārḍhyāya prārthyate | he agne sa tvaṃ no 'smān nāvayā nāvā sindhum iva nadīm iva svastaye kṣemārtham atiparṣa | śatrūn atikramya pālaya | śatrurahitaṃ pradeśam asmān prāpayety arthaḥ | tvatprasādān no 'smākam agham pāpaṃ cāpa śośucat | asmatto 'pakramya śatruḥ śokayukto bhavatu ‖ nāvayā | ājayojayor āmaṃ copasaṃkhyānaṃ | mā. 7-1-18-1 [?] | iti tṛtīyāyā ayādeśaḥ | upottamaṃ riti | pā. 6-1-213 [?] | ity ekārasyodāttatvaṃ | parṣa | pṛ pālanapūraṇayoḥ | loṭi bahulaṃ chandasīti śapaḥ ślor abhāvaḥ | sibbahulaṃ leṭīti bahulavacanāt sip | guṇaḥ | dve yau [?] teḥ stija iti dīrghatvaṃ ‖*
+
+*Sense (mine, from the Kannada that follows):* "The same sense as stated before is again prayed for, for firmness. O Agni, you, with a boat (*nāvayā*), as across a sea (*sindhum iva*), as across a river, for our welfare (*svastaye*) carry us across (*ati parṣa*): protect, going beyond the enemies; bring us to a region without enemies. By your grace may our sin be burned away; and may the enemy, departing from us, be seized with grief." The word *śatrūn atikramya* is printed with a doubled *y* [sic: a misprint]. Tail (characterized): *nāvayā* — *ay* for the instrumental ending (the *upasaṃkhyāna* on *āj-yoj…*, cited as Mā. 7-1-18-1 [?]); the acute on the *e* by *upottamaṃ riti* (Pā. 6-1-213 [?]); *parṣa* — root *pṛ* (to protect, to fill), the *śap* with *ślu* not arising by *bahulaṃ chandasi*; *sip* by *sibbahulaṃ leṭi*; guṇa; lengthening [the last clause clotted [?]]. *(Sūtra numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*saḥ* — (O Agni) such as you are; *naḥ* — us; *nāvayā* — by a boat (a boatman); *sindhum iva* — as across a river; *svastaye* — for our welfare; *ati parṣa* — (crossing over enemies) carry us across, to a region free of enemies; *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed; or, may it go far from us and cause grief to our enemy."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, you are the one who has all auspicious qualities. Protect us from our enemies. As a boat easily carries one across a river, so bring us easily to a region free of enemies. May our sin be destroyed."
+
+**English Translation (as printed)**
+
+> Convey us in a ship across the sea, for our welfare : may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.8 (Kannada)**
+
+"The sentiment of the previous Ṛk is said in this Ṛk too."
+
+***ati parṣa*** — *atipāraya*: "'carry across, bring [us] to a protected place. [This is] a feature common to all the works of the seers: in all times of praying 'free us from sin, from sorrow and from enemies, and take us to a region that is far-off and safe', the protection of the deities is compared to a boat."
+
+### Page 133 (PDF 153)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 133.)*
+
+> स नः पर्षदति दुर्गाणि विश्वा नावेव सिन्धुं दुरिताऽत्यग्निः ।
+> *sa naḥ parṣad ati durgāṇi viśvā nāveva sindhuṃ duritāty agniḥ |*
+> (*Ṛ. Saṃ.* 1-9[9]-1 as read [?])
+
+> स नो विश्वा अति द्विषः पर्षन्नावेव सुक्रतुः ।
+> *sa no viśvā ati dviṣaḥ parṣan nāveva sukratuḥ |*
+> (*Ṛ. Saṃ.* 5-2[?]-4 as read [?])
+
+> इत्था गृणन्तो महिनस्य शर्मोऽपो न नावा दुरिता तरेम ।
+> *itthā gṛṇanto mahinasya śarmo 'po na nāvā duritā tarema |*
+> (*Ṛ. Saṃ.* 6-6[?]-6 as read [?])
+
+> ऋतस्य मित्रावरुणा पथा वामपो न नावा दुरिता तरेम ।
+> *ṛtasya mitrāvaruṇā pathā vām apo na nāvā duritā tarema |*
+> (*Ṛ. Saṃ.* 7-6[5]-3 as read [?])
+
+*(Glosses, mine and tentative: "may Agni carry us across all difficulties, as a boat across a river, across dangers"; "may he carry us across all enemies, as by a boat, the one of good will"; "thus praising the greatness of the great one, may we cross over dangers as over waters by a boat"; "by the path of order, Mitra and Varuṇa, may we cross over dangers by you, as over water by a boat". Numerals read from small print, doubtful [?].)*
+
+"In many such places the comparison of the deities' help to a boat, which carries across a river that is deep and has strong currents, is most apt. In the present context, since sin is of the nature of an enemy, it is prayed that Agni should make Kutsa fit for his protection by destroying sin, and that Agni's boat-like favour and help are altogether necessary."
+
+***svastaye*** — *svastir ity avināśanāma | astir abhipūjitaḥ su āsti iti*: "*svasti* is the name for 'not being destroyed': *asti* is 'being well honoured': it is well known as *svasti*. *Asti*, that which is excellent, endowed with beauty and permanent, means life, that is the purport (Ni. 3-2[?]). The Nirukta-author explains it as 'life with good fortune', and, citing the Ṛk —"
+
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति ।
+> *svastir id dhi prapathe śreṣṭhā rekṇasvaty abhi yā vām eti |*
+> (*Ṛ. Saṃ.* 10-6[3]-1[?] as read [?])
+
+"— he shows the propriety of the word *svasti*."
+
+> स्वस्ति नः पथ्यासु धन्वसु स्वस्त्यप्सु वृजने स्वर्वति ।
+> स्वस्ति नः पुत्रकृथेषु योनिषु स्वस्ति रायो मरुतो दधातन ॥
+> *svasti naḥ pathyāsu dhanvasu svasty apsu vṛjane svarvati |*
+> *svasti naḥ putrakṛtheṣu yoniṣu svasti rāyo maruto dadhātana ‖*
+> (*Ṛ. Saṃ.* 10-6[3]-1[2] as read [?])
+
+*(Gloss, mine and tentative: "welfare for us on the paths, in the deserts; welfare in the waters, in the pasture, in the sunlit land; welfare for us in the wombs that bear sons; Maruts, grant welfare in wealth".)* "— as in this context, praying for welfare of every kind in life, so here too, for every kind of welfare, Agni is prayed to make us free of sin."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.8)** *(grammar pages, pp. 133–134, noted briefly; numerals small and doubtful [?])*
+
+***nāvayā*** — the word *nau*; with the instrumental singular following, by the *upasaṃkhyāna* '*āj-yoj…*' (Vārttika on Pā. 7-1-39 [?]) *ayā* [*āyā*] is substituted; *av* for the *au*; the acute on the *ā* [*e*, the print's *ekāra*] by *upottamaṃ riti* (Pā. 6-1-213 [?]). — ***parṣa*** — root *pṝ* (to protect, to fill), *juhotyādi*; *loṭ*, second person singular; *serhy apicca* (Pā. 3-4-87 [?]) gives *hi*; by *bahulaṃ chandasi* the *śap* does not take *ślu*; here, in the *sibbahulaṃ leṭi* rule (Pā. 3-1-34 [?]), because of the wording *bahulam*, the *sip* arises as well [*sip*, *aṭ*…] *(continues on p. 134)*
+
+---
+
+**Progress note:** Printed pp. 1–133 done (PDF 21–153): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.8 complete except the end of the grammar of 97.8, which is begun at the foot of p. 133 (*nāvayā*, *parṣa*) and continues on p. 134, where Sūkta 98 follows (the contents give Sūkta 98 at printed p. 134). Next: printed p. 134 (PDF 154). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–133) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122, 124, 126–129 and 133 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*), 97.3 (last clause) and 97.8 (*dve yau teḥ stija…*) [?], the print's *śatrūn atikramya* with doubled *y* (p. 132); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
