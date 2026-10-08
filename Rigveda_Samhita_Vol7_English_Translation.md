@@ -13223,6 +13223,115 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–463 done (PDF 16–478), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.15 complete (92.3 minus the missing p. 413); Rik 92.16 (the first Aśvin Ṛk) done in full as far as p. 463; its grammar page breaks at the foot of p. 463 after *samanasā* ("by *supāṃ sulug* the ending is replaced by *ā*. —"), to be concluded from the head of p. 464. Next: printed p. 464 (PDF 479). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–463 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print; the Aśvin citations of p. 463 read from small digits); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–463 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.16 (in 92.13 the final *aitva*/*yepravṛtti* clause and *hṛñ haraṇe*; in 92.14 *ihāsmin yajñe* [?]; in 92.15 the clause *prāsprāptāyāṃ…*; in 92.16 *uṣaḥsāhacaryād…* and the *asmat* ablative/genitive reading; in the Special Topics of 92.16 Skandasvāmin's *vartiṣā…prasiddhena pathā*); the 'Part [5?], pp. 32–33' reference and the 'Part 4, p. 75' reference as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15). "
+### Page 464 (PDF 479)
+
+*(Running head: left "464", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.16, concluded (grammar page, noted briefly):*
+
+*yacchatam* — root *dāṇ dāne*; *loṭ*, second person dual, *thas*; since *thas* has no *lakāra*-*ḍit*, by *tas thas thatha…* (Pā. 3-4-101 [?]) the replacement *tam*; by *pāghrādhmā…* (Pā. 7-3-78 [?]) the replacement *yaccha* for the root; the *tiṅ*-*nighāta*. ‖ 16 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.17)** *(Uṣṇih)*
+
+> यावित्था श्लोकमा दिवो ज्योतिर्जनाय चक्रथुः ।
+> आ न ऊर्जं वहतमश्विना युवम् ॥ १७ ॥
+
+*yāv itthā ślokam ā divo jyotir janāya cakrathuḥ | ā na ūrjaṃ vahatam aśvinā yuvam ‖ 17 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.17)**
+
+> यौ । इत्था । श्लोकम् । आ । दिवः । ज्योतिः । जनाय । चक्रथुः ।
+> आ । नः । ऊर्जम् । वहतम् । अश्विना । युवम् ॥ १७ ॥
+
+*yau | itthā | ślokam | ā | divaḥ | jyotiḥ | janāya | cakrathuḥ | ā | naḥ | ūrjam | vahatam | aśvinā | yuvam ‖ 17 ‖*
+
+(The Saṃhitā's *yāv itthā* is divided in the Pada as *yau | itthā*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.17)**
+
+> हे अश्विनौ यौ युवां दिवो द्युलोकात् श्लोकमुपश्लोकनीयं प्रशंसनीयं ज्योतिस्तेज इत्थमस्माभिरनुभूयमानेन प्रकारेण चक्रथुः कृतवन्तौ । केषांचिन्मतेन सूर्याचन्द्रमसावश्विनावुच्येते । तदुक्तं यास्केन । तत्कावश्विनौ द्यावापृथिव्यावित्येके ऽहोरात्रावित्येके सूर्याचन्द्रमसावित्येके । नि. १२-१ [?] । इति । तथा च प्रकाशकत्वं तयोरुपपन्नं । तौ युवां युवां नोऽस्मभ्यमूर्जं बलप्रदमन्नमा वहतं । आनयेतं । प्रयच्छतं ॥ श्लोकं । श्लोक संघाते । अयं स्तुत्यर्थोऽपि । कर्मणि घञ् । ञित्त्वादाद्युदात्तत्वं ॥
+
+*he aśvināv yau yuvāṃ divo dyulokāt ślokam upaślokanīyaṃ praśaṃsanīyaṃ jyotis tejaḥ itthamasmābhir anubhūyamānena prakāreṇa cakrathuḥ kṛtavantau | keṣāṃcin matena sūryācandramasāv aśvināv ucyete | tad uktaṃ yāskena | tat kāv aśvinau dyāvāpṛthivyāv ity eke 'horātrāv ity eke sūryācandramasāv ity eke | Ni. 12-1 [?] | iti | tathā ca prakāśakatvaṃ tayor upapannaṃ | tau yuvāṃ yuvāṃ no 'smabhyam ūrjaṃ balapradam annam ā vahataṃ | ānayetaṃ | prayacchataṃ ‖ ślokaṃ | śloka saṃghāte | ayaṃ stutyartho 'pi | karmaṇi ghañ | ñittvād ādyudāttatvaṃ ‖*
+
+*Translation:* "O Aśvins, who from *divaḥ*, from the world of heaven, have made *ślokam*, praiseworthy, desirable, *jyotiḥ*, light, *itthā*, in this manner as it is experienced by us, for *janāya*, for the people. By the opinion of some, the Aśvins are the Sun and the Moon; so Yāska says: 'Who are the two Aśvins? Heaven and earth, say some; day and night, say some; the sun and the moon, say some' (Ni. 12-1 [?]). Thus their light-giving nature is established. Such as you are — you two — *ā vahatam*, bring to us *ūrjam*, food that gives strength."
+
+*Grammar tail:* *ślokam* — root *śloka saṃghāte*; this root also has the sense of praise; *ghañ* in the passive; the initial-acute since it is *ñit*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.17)** *(Kannada; begins at the foot of p. 464)*
+
+*aśvinā* — O Aśvin deities; *yau* — you who; *ā divaḥ* — from the world of heaven; *ślokam* — praiseworthy; *jyotiḥ* — light; *janāya* — to us, human beings; *itthā* —
+
+---
+
+### Page 465 (PDF 480)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 465. Foot: printer's signature "30 … Volume 7".)*
+
+*(Pratipadārtha of Rik 92.17, continued:)* "— in this way (so that we experience it); *cakrathuḥ* — have made; *yuvam* — the same you; *naḥ* — to us; *ūrjam* — food endowed with strength; *ā vahatam* — bring."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.17** *(Kannada)*
+
+"O Aśvin deities, you have brought from the world of heaven praiseworthy light, and so have made us human beings experience happiness. In the same way, being of a generous nature, bring us food that is endowed with strength."
+
+**English Translation** *(printed in English in the source; Rik 92.17)*
+
+"Aswins [sic], you have sent adorable light from heaven to man ; bring us strength." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.17)** *(Kannada)*
+
+***ślokam*** — "*ślokaḥ, dhārā, iḷā* and the like being read among the thirty-two names of speech (Ni. 1-11 [?]), it means speech in the form of praise. *ślokaṃ jyotiḥ* means 'light that is to be praised, or that is praiseworthy'."
+
+> यस्य योगे दुहिता जायते दिव उभे अहनी सुदिने विवस्वतः ।
+
+*yasya yoge duhitā jāyate diva ubhe ahanī sudine vivasvataḥ |*  (Ṛ. Saṃ. 10-39-12 [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "In whose yoking the daughter of heaven is born, and both days become fair, [those] of the shining one."
+
+"— as this Ṛk says, since the Aśvin deities are the root cause both of the appearance of the Uṣas and of the rising of the Sun, they were praised as having given light and caused illumination to the world."
+
+***ā na ūrjaṃ vahatam*** — "*andhaḥ, vājaḥ, payaḥ* and the like being read among the thirty-six names of food (Ni. 2-7 [?]), *ūrj* here means 'food'. In some places it means food that is endowed with strength, or that gives strength. Here Sāyaṇa explains *balapradam annam* — 'food that gives strength': that is, *naḥ ā vahatam* — 'give us'. In the Ṛk 1-157-[?] [?] that follows too, in the same order, a prayer is made to the Aśvin deities:"
+
+> आ न ऊर्जं वहतमश्विना युवं मधुमत्या नः कशया मिमिक्षतम् ।
+
+*ā na ūrjaṃ vahatam aśvinā yuvaṃ madhumatyā naḥ kaśayā mimikṣatam |*  (Ṛ. Saṃ. 1-157-4 [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "Bring us vigour, O Aśvins; sprinkle us with your honeyed whip."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.17)** *(Kannada; grammar page, noted briefly)*
+
+*divaḥ* — by *ūḍidaṃ padādi* (Pā. 6-1-171) the case-ending takes the acute.
+*cakrathuḥ* — root *ḍukṛñ karaṇe*; *liṭ*, second person dual, *thas*; by *parasmaipadānāṃ ṇalatusus…* (Pā. 3-4-82 [?]) the replacement *athus* for *thas*; the root is doubled; in the reduplicative *ur at* (the *ṛ* becomes *a*); *cutva* [the *k* becomes *c*]; the *yaṇ* replacement [continues on p. 466]
+
+---
+
+### Page 466 (PDF 481)
+
+*(Running head: left "466" [blotted], centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*(Vyākaraṇa-prakriyā of Rik 92.17, concluded:)* "— *yau*, being connected with it earlier [as 'yau'], the *nighāta* does not occur; by the suffix accent the middle syllable is acute."
+*ślokam* — root *ślokṛ saṃghāte*; since it is accepted that roots have many meanings, it is here taken in the sense of praise; "*ślokyate iti ślokaḥ*"; *ghañ* in the passive; since it is *ñit*, by *ñnityādir nityam* (Pā. 6-1-197 [?]) the initial-acute.
+*vahatam* — root *vaha prāpaṇe*; *loṭ*, second person dual; since it follows a finite verb [read: a word], the *nighāta* accent.
+*aśvinā* — by *supāṃ sulug* the ending *au* is replaced by *ā*.
+*yuvam* — the word *yuṣmad*, in the dual; by *prathamayoś ca dvivacane bhāṣāyām* (Pā. 7-2-88 [?]) the *ā* is said to occur in the common language only, so it does not occur in Chandas; by a rule printed as '*jī prathamayor am*' [read doubtfully; evidently the rule replacing the ending by *am* [?]] the replacement *am* for the ending; by *yuvāvau dvivacane* (Pā. 7-2-92 [?]) the replacement *yuva* for the stem; by *śeṣe lopaḥ* (Pā. 7-2-90 [?]) the elision of the part (*ad*) after the *m*. ‖ 17 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.18)** *(Uṣṇih; the last Ṛk of the sūkta)*
+
+> एह देवा मयोभुवा दस्रा हिरण्यवर्तनी ।
+> उषर्बुधो वहन्तु सोमपीतये ॥ १८ ॥
+
+*eha devā mayobhuvā dasrā hiraṇyavartanī | uṣarbudho vahantu somapītaye ‖ 18 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.18)**
+
+> आ । इह । देवा । मयःऽभुवा । दस्रा । हिरण्यवर्तनी इति हिरण्यऽवर्तनी ।
+> उषःऽबुधः । वहन्तु । सोमऽपीतये ॥ १८ ॥
+
+*ā | iha | devā | mayaḥ-bhuvā | dasrā | hiraṇyavartanī iti hiraṇya-vartanī | uṣaḥ-budhaḥ | vahantu | soma-pītaye ‖ 18 ‖*
+
+(The Saṃhitā's *eha* is divided in the Pada as *ā | iha*. Accent marks not reproduced.)
+
+---
+
+**Progress note:** Printed pp. 1–466 done (PDF 16–481), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.17 complete (92.3 minus the missing p. 413); Rik 92.18 (the last Ṛk) Saṃhitā and Pada done at the foot of p. 466. Next: printed p. 467 (PDF 482) — the Sāyaṇa-bhāṣya of 92.18. "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–466 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print; the Aśvin citations of pp. 463 and 465 read from small digits); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–466 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.16 (details on the pages); the rule printed '*jī prathamayor am*' in the grammar of 92.17 [?]; the 'Part [5?], pp. 32–33' reference and the 'Part 4, p. 75' reference as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
