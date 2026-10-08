@@ -697,4 +697,91 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–13 done (PDF 21–33): Sūkta 95, Rik 95.1 complete; Rik 95.2: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done; its Special Topics begun (the origin of Agni; *daśa*; *garbha*; *vibhṛtra*; *tigmānīka*; *svayaśas* done) and breaking at the foot of p. 13 in the passage on *tvaṣṭuḥ janayanta* at "…the sense 'wind' must be understood, for…". Next: printed p. 14 (PDF 34). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* and *anyonyasya ca vatsasthānīyam agniṃ* [?]; the Ṛgveda numerals of the Special Topics of 95.1 and 95.2 (7-78-3, 1-124-8, 10-88-6, 1-113-2, 10-1-2, 10-2-7, 4-6-8, 3-[?]-13, 1-70-3, 4-4-4, 4-5-6), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14, 8-103, 1-6-3 and Nirukta 10-6 as read [?]; the Uṇādi numerals in the grammatical tail of 95.2 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3; the grammar pages of 95.1 are characterized, with numerals as read [?].
+### Page 14 (PDF 34)
+
+*(Running head: left 14; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Special Topics of Rik 95.2, continued from p. 13 (Kannada)**
+
+"…for the word *tvaṣṭṛ* is not found used in the Ṛksaṃhitā as a synonym of Vāyu. And further, where, in describing the origin of Agni, the word *tvaṣṭṛ* has been used, Sāyaṇa says, 'Tvaṣṭṛ — Prajāpati':"
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान ।
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpas tvaṣṭā yaṃ tvā sujanimā jajāna |*
+> (*Ṛ. Saṃ.* 10-2-7 as read [?])
+
+"In this place, for the word *tvaṣṭā* he gives the explanation 'Prajāpati'. Skandasvāmin, however, gives no explanation of the sense here, but uses this very word and, in explaining it, cites the narrative context of the former [verse] — '*atha tvaṣṭā dikṣv agnim ajanayat*':"
+
+> अत्रेतिहासमाचक्षते । सर्वमिदमन्धेन तमसा क्षणेनैवावृतमभवत् । अथ त्वष्टा दिक्ष्वग्निमजनयत् । तस्मिन्नृप्त्यति [?] प्रवर्धमाने आकाशे प्राज्वलन् । तं दिशो द्यावापृथिव्यौ चामृतेन तर्पयित्वा तत्र तत्र विहृतवत्य इति ।
+> *atretihāsam ācakṣate | sarvam idam andhena tamasā kṣaṇenaivāvṛtam abhavat | atha tvaṣṭā dikṣv agnim ajanayat | tasmin nṛptyati [?] pravardhamāne ākāśe prājvalan | taṃ diśo dyāvāpṛthivyau cāmṛtena tarpayitvā tatra tatra vihṛtavatya iti |*
+
+*(Translation, mine and tentative, with the Kannada that follows: "Here they tell a story: all this was covered in a moment by blind darkness; then Tvaṣṭṛ produced Agni in the quarters. As he grew, he blazed in the sky; the quarters, and heaven and earth, having satisfied him with nectar, carried him about here and there." The word* nṛptyati *is doubtful [?].)*
+
+"In the beginning, by the darkness, the whole world was enveloped, and Tvaṣṭṛ created Agni in the quarters. Since materials for Agni's nourishment were also lacking [?], when he shone in the sky, heaven and earth and the ten quarters satisfied him with nectar: such is the story, in connexion with Agni–Mātariśvan (Ṛ. Saṃ. 1-93-6 as read [?]). Since it suits the context of the story, it is to be understood that Skandasvāmin has indicated that by *tvaṣṭṛ* just Vāyu is to be understood."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.2)** *(grammar pages, pp. 14–15, noted briefly; numerals read from small print, doubtful [?])*
+
+***tvaṣṭuḥ*** — root *tviṣ* (to shine); the suffix *tṛn* is given irregularly by the Uṇādi rule *naptṛ-neṣṭṛ-tvaṣṭṛ…* (Uṇ. 2-[?] [?]); *ñit*/*nit*-marked, hence the first syllable acute by *ñnityādir nityam* (Pā. 6-1-197 [?]); the genitive/ablative singular *ṅas*: *ṛta ut* (Pā. 6-1-111 [?]) turns the *ṛ* and the *a* of the ending into a single *u*; the substitute for the *ṛ* gets *r* by *uraṇ raparaḥ*; the *s* after the *r* is lost by *rātsasya* (Pā. 8-2-24 [?]); the final *r* becomes *visarga* by *kharavasānayor visarjanīyaḥ*. — ***janayanta*** — root *janī* (to arise); *ṇic* by *hetumati ca* (Pā. 3-1-26 [?]) as the causer's action is shown; vṛddhi of the penultimate by *ata upadhāyāḥ* (Pā. 7-2-116 [?]); for the *janījṛṣknasurañjo 'mantāś ca* group the *mit*-designation arises, so before *ṇic* the penultimate is shortened by *mitāṃ hrasvaḥ* (Pā. 6-4-92 [?]); *laṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; third person plural *jhi* → *anta* by *jho 'ntaḥ*; *śap*; guṇa for *ṇic* and *ay*-substitution; the augment *aṭ* does not arise by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 [?]); *nighāta* accent after a verb-ending word.
+
+### Page 15 (PDF 35)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 15.)*
+
+*Grammar of Rik 95.2, concluded (noted briefly):* ***atandrāsaḥ*** — the word *atandra* with *jas* following; *asuk* by *ajjhaser asuk* (Pā. 7-1-50 [?]) — the augment *asuk* before *jas*. — ***yuvatayaḥ*** — the stem *yuvan*, when the feminine sense is intended, takes *ti* by *yūnas ti* (Pā. 4-1-77 [?]); because it takes the designation *pada*, the final *n* is lost by *nalopaḥ prātipadikāntasya* (Pā. 8-2-7 [?]); the final acute by the suffix accent. — ***vibhṛtram*** — root *hṛñ* (to take); *ktra* in the passive by the Uṇādi sūtra (Pā./Uṇ. 4-2-[?] [?]); a Vedic *r*-augment; since the suffix is *kit*, no guṇa; the *gati* keeps its natural accent by *gatir anantaraḥ* (Pā. 6-2-49 [?]); by the vārttika *hṛgrahor bhaś chandasi* the *h* becomes *bh*. Or the Uṇādi *ktra*: no effort needed in a Vedic form. — ***tigmānīkam*** — root *tij* (sharpness); *mak* by *yujirucitijāṃ kuś ca* (Uṇ. 1-1[4] [?]); *kutva*; since the suffix is *kit*, no guṇa of the light penultimate; 'one whose *anīka* is sharp' — *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1): the first member's natural accent; the second case, singular. *anīka* — root *an* (breathing); *kīkan* by *anidṛśibhyāṃ ca* (Uṇ. 4-3-[?] [?]). — ***virocamānam*** — root *ruc* (to shine); *śānac* in the present sense; guṇa of the light penultimate by *pugantalaghūpadhasya ca*; *śap*; *mukāgama* by *aneka*…*muk*; the later member's natural accent by *gatikārakopapadāt kṛt*. — ***pariṣīm*** — *pari + sīm*: since the preceding member is a cause, the *s* becomes *ṣ* by *pūrvapadāt* (Pā. 8-3-106 [?]). — ***nayanti*** — root *ṇīñ* (to lead); *ṇatva* by *ṇo naḥ*; *laṭ*, third person plural; *nighāta* accent. ‖ 2 ‖ *(Grammar pages, noted briefly; numerals small and doubtful [?].)*
+
+---
+
+### Rik 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.3)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> त्रीणि जाना परि भूषन्त्यस्य समुद्र एकं दिव्येकमप्सु ।
+> पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्ठु ॥ ३ ॥
+
+*trīṇi jānā pari bhūṣanty asya samudra ekaṃ divy ekam apsu | pūrvām anu pra diśaṃ pārthivānām ṛtūn praśāsad vi dadhāv anuṣṭhu ‖ 3 ‖*
+
+### Page 16 (PDF 36)
+
+*(Running head: left 16; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.3)**
+
+> त्रीणि । जाना । परि । भूषन्ति । अस्य । समुद्रे । एकम् । दिवि । एकम् । अप्ऽसु ।
+> पूर्वाम् । अनु । प्र । दिशम् । पार्थिवानाम् । ऋतून् । प्रऽशासत् । वि । दधौ । अनुऽस्थु ॥ ३ ॥
+
+*trīṇi | jānā | pari | bhūṣanti | asya | samudre | ekam | divi | ekam | ap-su | pūrvām | anu | pra | diśam | pārthivānām | ṛtūn | pra-śāsat | vi | dadhau | anu-sthu ‖ 3 ‖*
+
+*(Reading note: Saṃhitā* anuṣṭhu*; the Pada, as printed, divides* anu-sthu*, i.e.* anuṣṭhu *from* anu + sthu*; Saṃhitā* divy ekam *for Pada* divi | ekam*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.3)**
+
+> अस्याग्नेस्त्रीणि त्रिसंख्याकानि जाना जननानि जन्मानि परि भूषन्ति । परितः सर्वतोऽलंकुर्वन्ति । यद्वा । परीत्येष [?] समित्येतस्य स्थाने । अस्याग्नेस्त्रीणि जन्मानि संभवन्ति । समुद्रे बाडवडवानलरूपेणैकं जन्म । दिवि द्युलोक आदित्यरूपेणैकं । अप्सु । आप इत्यन्तरिक्षनाम । अन्तरिक्षे वैद्युताग्निरूपेणैकं । एवमग्निस्त्रेधात्मानं विभज्य त्रिषु स्थानेषु वर्तत इत्यर्थः । तत्रादित्यात्मना वर्तमानः सोऽग्निर्ऋतून्वसन्ताद्यान्षडृतून्प्रशासत् प्रकर्षेण विभक्ततया ज्ञापयन् पार्थिवानां पृथिव्याः संबन्धिनां सर्वेषां प्राणिनां पूर्वां प्राचीं प्रदिशं प्रकृष्टां ककुभं । अनुष्ठ्वित्येतदव्ययं सम्यक्शब्दसमानार्थं सुष्ठ्विति यथा । सम्यगनुक्रमेण वि दधौ । कृतवान् । स्तो भेदरहितयोरखण्डयोर्दिक्कालयोः प्राच्यादिभेदो वसन्तादिभेदश्च सूर्यगत्या निष्पाद्यते । अतः सूर्य एव तयोः कर्तेत्यर्थः ॥
+
+*asyāgnes trīṇi trisaṃkhyākāni jānā jananāni janmāni pari bhūṣanti | paritaḥ sarvato 'laṃkurvanti | yadvā | parīty eṣa [?] samity etasya sthāne | asyāgnes trīṇi janmāni saṃbhavanti | samudre bāḍavaḍavānalarūpeṇaikaṃ janma | divi dyuloka ādityarūpeṇaikaṃ | apsu | āpa ity antarikṣanāma | antarikṣe vaidyutāgnirūpeṇaikaṃ | evam agnis tredhātmānaṃ vibhajya triṣu sthāneṣu vartata ity arthaḥ | tatrādityātmanā vartamānaḥ so 'gnir ṛtūn vasantādyān ṣaḍṛtūn praśāsat prakarṣeṇa vibhaktatayā jñāpayan pārthivānāṃ pṛthivyāḥ saṃbandhināṃ sarveṣāṃ prāṇināṃ pūrvāṃ prācīṃ pradiśaṃ prakṛṣṭāṃ kakubhaṃ | anuṣṭhv ity etad avyayaṃ samyakśabdasamānārthaṃ suṣṭhv iti yathā | samyag anukrameṇa vi dadhau | kṛtavān | sto bhedarahitayor akhaṇḍayor dikkālayoḥ prācyādibhedo vasantādibhedaś ca sūryagatyā niṣpādyate | ataḥ sūrya eva tayoḥ kartety arthaḥ ‖*
+
+*Sense (mine, from the Kannada that follows):* "Of this Agni three births, three in number (*jānā*), adorn him all around; or — *pari* in place of *sam* [as read [?]] — three births of this Agni come to be: one birth in the ocean, in the form of the submarine fire; one in heaven, the world of light, in the form of the sun; one in the *apsu* — 'waters' is a name of the atmosphere — in the atmosphere, in the form of the lightning-fire. Thus Agni, having divided himself threefold, abides in three places. Of these, the Agni who is in the form of the sun, indicating the six seasons beginning with spring, distinctly, for all the creatures of the earth, has arranged (*vi dadhau*) the foremost eastern direction, in due order (*anuṣṭhu* — an indeclinable of the same sense as 'properly', 'well'). Since the divisions of the quarters (east and the rest) and of the seasons (spring and the rest) are brought about for the two undivided, whole [entities] of space and time by the course of the sun, the sense is that the Sun alone is their maker."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *jānā* — root *janī*; an irregular suffix (*phiñ*? [as read, doubtful [?]]) with initial acute because the word falls into the *vṛṣādi* group, the *śi* ending elided by *śeś chandasi bahulam*; *bhūṣanti* — root *bhūṣa* (to adorn), *bhvādi*; or from *bhū* in the *leṭ*, with *sip* (the form is explained by *sib bahulaṃ leṭi*), the non-addition of *iṭ* and of guṇa defended by the non-universality of augment-rules; *divi*, *apsu* — case-ending acute (*udidam*); *pārthivānām* — the *añ* suffix by *pṛthivyā ñāñau*; *praśāsat* — *śās* (to instruct), *śatṛ*, with the *num*-prohibition (the reduplicate-class rule *jakṣityādayaḥ ṣaṭ*, *nābhyastāc chatuḥ*); the accent of the later member of the *kṛt* compound; *anuṣṭhu* — a *ku* suffix given by the Uṇādi rule on *apa-duḥ-su-ṣṭha* (Uṇ. 1-26 [?]), by *bahulam* also after the root *sthā* with the prefix *anu*. *(The tail is partly clotted; sūtra numerals small and doubtful [?].)*
+
+### Page 17 (PDF 37)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 17; foot: printer's signature "2 … Volume 8".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*asya* — this Agni's; *trīṇi jānā* — three birth-places; *pari bhūṣanti* — adorn all around, or are produced; *samudre* — in the ocean; *ekaṃ* — (in the form of the submarine fire) one birth-place; *divi* — in the heavenly world; *ekaṃ* — (in the form of the sun) one birth-place; *apsu* — in the atmosphere (in the form of lightning, the third birth-place); *ṛtūn* — (of these, the Agni in the form of the sun) the six seasons beginning with spring; *anu praśāsat* — informing, dividing them in order; *pārthivānām* — for all the creatures that belong to the earth; *pūrvāṃ pradiśaṃ* — the excellent east direction; *anuṣṭhu* — in order; *vi dadhau* — he established."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"This Agni has one birth-place in the ocean, in the form of the submarine fire; one in the heavenly world, in the form of the sun; and one in the atmosphere, in the form of lightning: thus three birth-places. Of these three forms, the Agni who is in the form of the sun makes for the creatures of the earth the divisions of place and of time. By dividing in order the six seasons, spring and the rest, he shows time; and by showing the quarters, east and the rest, place. He alone is the maker of time and place."
+
+**English Translation (as printed)**
+
+> They contemplate three places of his birth ; one in the ocean, one in the heaven, one in the firmament ; and, dividing the seasons of the year for the benefit of earthly creatures, he formed, in regular sucession [sic], the eastern quarter.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.3 (Kannada)**
+
+***trīṇi jānā*** — *trisaṃkhyākāni jananāni*: "three kinds of births: these three birth-places are said one by one. This description shows the original form of Agni's manifestation" *(continues on p. 18)*
+
+---
+
+**Progress note:** Printed pp. 1–17 done (PDF 21–37): Sūkta 95, Rik 95.1 and 95.2 complete (95.2's Special Topics on pp. 11–14, grammar on pp. 14–15); Rik 95.3: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done; its Special Topics begun at the foot of p. 17 (*trīṇi jānā*), breaking at "…This description shows the original form of Agni's manifestation". Next: printed p. 18 (PDF 38). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra…*, *anyonyasya ca vatsasthānīyam agniṃ* and the story-passage *atra itihāsam ācakṣate…* (*nṛptyati* [?]) [?]; the Ṛgveda numerals of the Special Topics of 95.1 and 95.2 (7-78-3, 1-124-8, 10-88-6, 1-113-2, 10-1-2, 10-2-7, 4-6-8, 3-[?]-13, 1-70-3, 4-4-4, 4-5-6, 1-93-6), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14, 8-103, 1-6-3 and Nirukta 10-6 as read [?]; the Uṇādi/Pāṇini numerals in the grammatical tails and grammar pages of 95.1–95.3 [?]; *parīty eṣa samity etasya sthāne* and the form *jānā*'s suffix in the bhāṣya of 95.3 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3.
