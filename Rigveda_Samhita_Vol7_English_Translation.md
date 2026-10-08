@@ -9280,4 +9280,102 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–331 done (PDF 16–346) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Rik 91.1 complete (pp. 326–330); Rik 91.2 Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha done (pp. 330–331); the English and Special Topics of 91.2 begin on p. 332. Next: printed p. 332 (PDF 347). Open flags: Pāṇini numerals on pp. 329–330 given as read, doubtful [?]; Āśvalāyana numeral on p. 331 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 332 (PDF 347)
+
+*(Running head: left "332", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**English Translation** *(printed in English in the source; Rik 91.2)*
+
+"Soma, you are the doer of good by pious acts ; you are powerful by your energies and know all things; you are showerer of benefits by your bounties and are great by your greatness ; O guide of men, you have been well nourished by sacrificial offerings." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.2)** *(Kannada)*
+
+"In the Agniṣṭoma sacrifice, at the time of reciting the Marutvatīya-śastra mantras, this Ṛk *tvaṃ soma kratubhiḥ* is to be used as the *dhāyyā* mantra; this is stated by the Āśvalāyana Śrauta-sūtra by the sūtra '*agnīr netā tvaṃ soma kratubhiḥ pinvanty apa iti dhāyyāḥ*' (Ā. 5-14 [?], numerals as read)."
+
+***kratubhiḥ*** — "The word *kratu* has been used in many senses: act, understanding, resolve, strength. But for the phrase *saha kratubhiḥ* it is only the meaning '*karmabhiḥ prajñayā vā*' — by acts or by understanding — that is established; and so here too the explanation is given: '*saha tvatsaṃbandhibhir agniṣṭomādikarmabhir ātmīyair jñānair vā*'. In Ṛ. Saṃ. 10-[?]-1 alone, [Sāyaṇa] makes the meaning '*karmapaiḥ puruṣaiḥ*' [as read, doubtful [?]]."
+
+***dakṣaiḥ sudakṣaḥ*** — "Since the word *dakṣa* is included among the 'twenty-eight names of strength' beginning *ojaḥ*, *pājaḥ* (Ni. 2-9 [?]), the meaning of the word *dakṣa* is 'strength'; the sense is 'one possessed of excellent strength through his own strength'. Or the word may also be said to be a synonym of growth: '*vṛddhibhiḥ suvṛddha ity arthaḥ*' (Ska. Bhā.)" *(Skandasvāmin's bhāṣya)*
+
+***viśvavedāḥ*** — "The word *vedas* means wealth or knowledge —"
+
+> स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+
+*svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ |*  (Ṛ. Saṃ. 1-89-6 [?])
+
+*Gloss, mine and tentative:* "May Indra of increased fame be a blessing to us; may Pūṣan, the all-knowing [or all-possessing], be a blessing to us."
+
+> ररक्ष तान्त्सुकृतो विश्ववेदा दिप्सन्त इद्रिपवो नाह देभुः ।
+
+*rarakṣa tān sukṛto viśvavedā dipsanta idripavo nāha debhuḥ |*  (Ṛ. Saṃ. 1-[?]-3 [?]; the printed numerals, read as "१-१८२-३" [?], are doubtful) *(the Saṃhitā text is as read from the print; *dipsanta* and *idripavaḥ* doubtful [?])*
+
+*Gloss, mine and tentative:* "The all-knowing one protected those doers of good; the foes who wished to harm them did not injure them."
+
+"— and in such places everywhere it is [explained] by the commentary '*viśvāni vetrīti viśvavedāḥ; viśvāni jñānāni dhanāni vā yasya*', or '*viśvaprajñaḥ*'; so here too it means 'one possessed of all wealth', or 'one possessed of all knowledge'."
+
+***vṛṣatvebhiḥ*** — *kāmābhivarṣaṇaiḥ* | "By showering the desired things."
+
+***mahitvā*** — *māhātmyena ca* | "And by greatness. Here, if *mahitvā* is taken as qualifying *vṛṣatvebhiḥ*, the meaning would be 'one who showers desired things of greatness'. '*tvaṃ varṣitā mahadbhir varṣaṇaiḥ*' (Ska. Bhā.)."
+
+---
+
+### Page 333 (PDF 348)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 333.)*
+
+***nṛcakṣāḥ*** — *nṝṇāṃ yajñasya netṝṇāṃ yajamānānām abhimataphalasya darśayitā* | "One who shows the sacrificers, who perform the sacrifice, the things they desire: this is the meaning. The word is also used with reference to deities such as Agni and Sūrya —"
+
+> त्वं नृचक्षा वृषभानु पूर्वीः कृष्णास्वग्ने अरुषो वि भाहि ।
+
+*tvaṃ nṛcakṣā vṛṣabhānu pūrvīḥ kṛṣṇāsv agne aruṣo vi bhāhi |*  (Ṛ. Saṃ. 3-[?]-[?] [?]; numerals as printed, small and doubtful)
+
+*Gloss, mine and tentative:* "You, O Agni, beholder of men, bull-radiant, shine forth red among the many dark [nights]."
+
+> कविर्नृचक्षा अभि षीमचष्ट ऋतस्य योना विघृते मदन्ती ।
+
+*kavir nṛcakṣā abhi ṣīm acaṣṭa ṛtasya yonā vighṛte madantī |*  (Ṛ. Saṃ. 3-[?]-6 [?])
+
+*Gloss, mine and tentative:* "The seer, beholder of men, looked upon the two [the earth and heaven], rejoicing in the seat of Ṛta, in the ... [*vighṛte*, doubtful [?]]."
+
+> नृचक्षा रक्षः परि पश्य विक्षु तस्य त्रीणि प्रति शृणीह्यग्रा ।
+
+*nṛcakṣā rakṣaḥ pari paśya vikṣu tasya trīṇi prati śṛṇīhy agrā |*  (Ṛ. Saṃ. 10-87-10 [?])
+
+*Gloss, mine and tentative:* "Beholder of men, look around the Rakṣas among the peoples; break his three tips."
+
+"Wherever this attribute occurs, *nṝṇāṃ draṣṭā* means 'one who looks upon the sacrificers with favour'. Only here is it *darśayitā* — 'one who shows the fruit'. In Ṛ. Saṃ. 10-[?]-2 [?] the explanation is given, '*nṛbhiḥ raśmibhiḥ prakāśamānaḥ*' [as read, doubtful [?]]."
+
+***dyumnebhiḥ*** — "*dyumnaṃ dyotateḥ yaśo vā dhanaṃ vānnaṃ vā* [Nirukta-like gloss, as printed] — since this is said, here any meaning may be given — 'become possessed of fame by fames, wealth by wealths, or of food by foods: you are thus'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.2)** *(Kannada; grammar page, noted briefly)*
+
+*sukratuḥ* — *śobhanaḥ kratur yasya saḥ*, a *bahuvrīhi*; by *kratvādayaś ca* (क्रत्वादयश्च, Pā. 6-2-118 [?]) the final member takes the initial-acute [as printed].
+*bhūḥ* — root *bhū sattāyām*; *luṅ* in the present sense, Vedic; *siP* in the second person singular; *itaś ca* (इतश्च) elides *i*; *cleḥ sic* (च्लेः सिच्) gives the *sic* replacement; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु) — *luk* of the *sic*; *bahulaṃ chandasy amāṅyoge 'pi* (बहुलं छन्दस्यमाङ्योगेऽपि) — no *aṭ* augment; the *s* of the suffix becomes *ru*, visarga; *nighāta* accent following the preverb.
+*sudakṣaḥ* — root *dakṣa vṛddhau*; "*dakṣyate 'neneti dakṣo balam*"; *ghañ* in the instrumental sense; since it is *ñit*, the initial-acute by *ñnityādir nityam* (ञ्नित्यादिर्नित्यम्, [?]); *śobhano dakṣo yasya*, a *bahuvrīhi*; by *ādyudāttaṃ dvyac chandasi* (आद्युदात्तं द्व्यच्छन्दसि, Pā. 6-2-119 [?]) — as the stem has two syllables, the final member takes the initial-acute. *(Numerals read with doubt [?]; the last lines are partly smudged.)*
+
+---
+
+### Page 334 (PDF 349)
+
+*(Running head: left "334", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Vyākaraṇa-prakriyā of Rik 91.2, continued (grammar page, noted briefly):*
+
+*viśvavedāḥ* — *viśvāni vedāṃsi yasyāsau*; *bahuvrīhau viśvaṃ saṃjñāyām* (बहुव्रीहौ विश्वं संज्ञायाम्, Pā. 6-2-106 [?]) — the pre-member keeps the final-acute.
+*vṛṣā* — root *vṛṣu secane*; the Uṇādi suffix *kanin*; since *nit*, the initial-acute; the nominative singular.
+*vṛṣatvebhiḥ* — *vṛṣṇo bhāvo vṛṣatvam*; the instrumental plural follows; *bahulaṃ chandasi* (बहुलं छन्दसि, Pā. 7-1-10 [?]) — *bhis* does not take *ais*; *bahuvacane jhaly et* (बहुवचने झल्येत्) — the substitution *e* [reading uncertain [?]]; *s* becomes *ru*, visarga.
+*mahitvā* — root *mahā pūjāyām*; the Uṇādi suffix *in* — *mahi*; the abstract suffix *tva*; the instrumental singular *ṭā* follows, and by *supāṃ sulug* (सुपां सुलुक्) the case-ending is replaced by *ā*.
+*dyumnebhiḥ* — as before; *bahulaṃ chandasi*, no *ais*.
+*nṛcakṣāḥ* — root *cakṣiṅ vyaktāyāṃ vāci*; the Uṇādi suffix *asun*, the stem *cakṣas*; since *nit*, initial-acute; *nṝṇāṃ cakṣāḥ*; *gatikārakopapadāt kṛt* (गतिकारकोपपदात्कृत्, Pā. 6-2-139 [?]) — the *kṛdanta* final member keeps its own accent. ‖ 2 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.3)**
+
+> राज्ञो नु ते वरुणस्य व्रतानि बृहद्गभीरं तव सोम धाम ।
+> शुचिष्ट्वमसि प्रियो न मित्रो दक्षाय्यो अर्यमेवासि सोम ॥ ३ ॥
+
+*rājño nu te varuṇasya vratāni bṛhad gabhīraṃ tava soma dhāma | śuciṣ ṭvam asi priyo na mitro dakṣāyyo aryamevāsi soma ‖ 3 ‖*
+
+*(Saṃhitā as printed: *śuciṣṭvam* and *aryamevāsi*; the Pada, which follows on the next page, has not yet been viewed. Accent marks not reproduced.)*
+
+---
+
+**Progress note:** Printed pp. 1–334 done (PDF 16–349) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1 and 91.2 complete (pp. 326–334); Rik 91.3 Saṃhitā only at the foot of p. 334. Next: printed p. 335 (PDF 350) — the Pada of 91.3 first. Open flags: Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) in small Kannada digits [?] (the citation *rarakṣa tān sukṛto…* with its text doubtful; *vighṛte* in the third citation doubtful); Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
