@@ -254,4 +254,94 @@
 
 ---
 
-**Progress note:** The Pīṭhike is in progress: folios i–vi (PDF 6–11) translated, the Trita discussion (Yāska, Sāyaṇa, Śatapatha and Taittirīya Brāhmaṇas, Benfey, Bergaigne, Pischel, Roth, Ludwig, Muir) breaking mid-argument at the foot of folio vi at "…identity of Trita with Agni, who is in three forms."; next: folio vii (PDF 12), then folios viii–ix (PDF 13–14), then the Seventh Adhyāya from PDF 21 (printed p. 1). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–v read from small print, with clotted words [?] (the Śatapatha passage on folios iv–v, the Taittirīya Brāhmaṇa opening clause, *tritas tv airṇatamo*); the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folio vi from small digits [?].
+### Page vii (PDF 12)
+
+*(Running head: "vii".)*
+
+> अग्ने त्री ते वाजिना त्री षधस्था तिस्रस्ते जिह्वा ऋतजात पूर्वीः ।
+> तिस्र उ ते तन्वो देववातास्ताभिर्नः पाहि गिरो अप्रयुच्छन् ॥
+> *agne trī te vājinā trī ṣadhasthā tisras te jihvā ṛtajāta pūrvīḥ |*
+> *tisra u te tanvo devavātās tābhir naḥ pāhi giro aprayucchan ‖*
+> (*Ṛ. Saṃ.* 3-20-2 as read)
+
+*(Translation, mine and tentative: "Agni, three are your strengths, three your seats, three your tongues, ancient, born of the rite; three are your bodies loved of the gods: with them guard our songs, unwearied".)*
+
+"Agni has three powers, three stations, three tongues and three bodies, as described in this Ṛk; and, as in 'tejas-traya' (3-?-?) and the three of the flame (3-?-?), described too —"
+
+> त्रिरस्य ता परमा सन्ति सत्या स्पार्हा देवस्य जनिमान्यग्नेः ।
+> *trir asya tā paramā santi satyā spārhā devasya janimāny agneḥ |*
+> (*Ṛ. Saṃ.* 4-1-7 as read [?])
+
+*(Gloss, mine and tentative: "thrice are these highest true births of the god Agni, [each] to be desired".)*
+
+"— the places of origin of the god Agni are three. What are they? 'He was first born in the dwellings, in the depth of this [region of] the sky, in his womb' —"
+
+> स जायत प्रथमः पस्त्यासु महो बुध्ने रजसो अस्य योनौ ।
+> *sa jāyata prathamaḥ pastyāsu maho budhne rajaso asya yonau |*
+> (*Ṛ. Saṃ.* 4-1-11 as read [?])
+
+"— as described in Ṛks like this: the earth, the heavenly world and the atmosphere. In the same way, for the lightning-fire (*vaidyutāgni*) abiding in the atmosphere, and for Trita, who belongs to the clouds and is far off, a common nature other than this is to be understood. This part Trita himself has said plainly:"
+
+> अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता ।
+> त्रितस्तद्वेदाप्त्यः स जामित्वाय रेभति वित्तं मे अस्य रोदसी ॥
+> *amī ye sapta raśmayas tatrā me nābhir ātatā |*
+> *tritas tad vedāptyaḥ sa jāmitvāya rebhati vittaṃ me asya rodasī ‖*
+> (*Ṛ. Saṃ.* 1-105-9)
+
+*(Gloss, mine and tentative: "those seven rays there — there my navel is stretched out; Trita the Āptya knows that; he cries out for kinship; know this of mine, heaven and earth".)*
+
+"In these seven rays of the sun, which are in the form of the seven breaths (*prāṇa*), my navel has been spread out widely. Trita, the son of the waters, who passed beyond [his] ignorance, has learned his earlier conduct. In order for the seer who has this knowledge to come out of the well, he praises these rays of his own kin, it is said; and also 'yad īm …' —"
+
+> यदीमह त्रितो दिव्युप ध्माताव धमति शिशीते धा‌तरी यथा [?]
+> *yad īm aha trito divy upa dhmāteva dhamati śiśīte dhātarī yathā [?]*
+> (*Ṛ. Saṃ.* 8-?-? [?], as read from small print)
+
+> प्र सप्तगुर्दिव्यः कण्वहोता त्रितो दिवः सजोषा वातो अग्निः ।
+> *pra saptagur divyaḥ kaṇvahotā trito divaḥ sajoṣā vāto agniḥ |*
+> (*Ṛ. Saṃ.* 8-?-? [?], as read from small print)
+
+*(The first quotation is clotted and read as given [?]. Gloss, mine and tentative, of the second: "the heavenly, seven-voiced, with Kaṇva as Hotṛ; Trita of heaven, together with the wind and Agni".)*
+
+"Trita, being in the atmosphere, makes this Agni blaze up, as described in the first; and in the second, Trita, who is in the atmosphere, comes along with the sun and others [as read]: on the basis of such sentences also it can be said that the lightning-fire is known to be a synonym of Trita."
+
+"*Āptyaḥ* (*apāṃ putraḥ*, 1-105-9) — the epithet *āptya* is used in all the places in which Trita is spoken of. In the same way the epithet *apāṃ napāt* ['son of the waters'] is always used of the lightning-fire. Therefore Trita and the lightning-fire may be said to be one in origin."
+
+"In this part there is also, in the 4th Ṛk of the 1[1?]6th sūkta, the matter of Ātithigva and Divodāsa, which is somewhat open to discussion. There the word *ātithigva* is an epithet of Divodāsa. [The two kinds of sense of the word *ātithigva*, and the matter of Divodāsa, are explained as special topics of that Ṛk.] Some scholars say that Ātithigva and Divodāsa are two different persons; others, that they are the name of one person. But from the evidence of the Ṛksaṃhitā itself it can be said that although Divodāsa is one, the persons called Ātithigva are four. Divodāsa is one of these four Ātithigvas."
+
+### Page viii (PDF 13)
+
+*(Running head: "viii".)*
+
+"Of these four, the first is of the Bharata line. When Vadhryaśva's son fought with Śambara, the help given to him by the Aśvin deities and by Indra is described in the Ṛks 1-11[2]-14, 1-116-18, 4-26-3, 6-47-23 [all as read from small print [?]] and others. In the Ṛk 6-?-2 [?] it is said also that, besides Śambara, he conquered with Indra's help Turvaśa and Yadu. This one must be Ātithigva Divodāsa."
+
+"The second Ātithigva was lord of the country called Guṅgu (Gaṅgu [?]). He too obtained victory with the help of Indra, as is known from descriptions in Ṛks such as 10-4[8]-? [?]. Since the Bharata line and the Guṅgu line are different, the Ātithigva who destroyed Parṇaya and Karañja must be a person different from Ātithigva Divodāsa of the Bharata line."
+
+"The third is the father of Indrota, mentioned in the Ṛk 8-68-1[5] [?]. He is known as Ātithigva Indrota (8-68-1[5, 6] [?]). It is said of him that Aśvamedha Pūtakratu, a king of the Bharata line, was his friend-king (*mitrarāja*)."
+
+"The Ātithigva defeated by Indra must be yet another person, different from the three persons named above."
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+> *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
+> (*Ṛ. Saṃ.* 1-53-10 as read [?])
+
+> य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ।
+> *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive |*
+> (*Ṛ. Saṃ.* 8-53-2 as read [?])
+
+*(Glosses, mine and tentative: "for him you made Kutsa, Ātithigva, Āyu subject to the great, young king"; "who, waxing from day to day, crushed Āyu, Kutsa, Ātithigva".)*
+
+"In Ṛks such as these it is described that Indra crushed Ātithigva and others. Therefore it is known that he was Indra's enemy. Sāyaṇācārya, however, explains the word *ātithigva* alone, in all places, as Ātithigva Divodāsa. But this matter needs still further consideration."
+
+"In the same way some other matters worthy of discussion have been explained, as suitable, in those contexts. Kutsa's feeling, language and style are mature. Kutsa is well known as foremost among devout praisers. Expressions such as '*agne sakhye mā riṣāmā vayaṃ tava*', '*apa naḥ śośucad agham*', '*marutvān no bhavatv indra ūtī*', '*vittaṃ me asya rodasī*' are examples of the expression of devotional feeling by the seer Kutsa. Since the sūktas of this seer will continue in the next adhyāya too, the maturity of Kutsa's poetic style will be explained in the next part, as far as is possible."
+
+### Page ix (PDF 14)
+
+*(Running head: "ix".)*
+
+"To publish with discussion, in simple Kannada, this Ṛgveda Saṃhitā, which is very ancient, very profound, very extensive and the root of all the śāstras, is not an easy task. But, with the lofty aim that by such a great work all people, from scholars to the common folk, may gain growth of knowledge and become worthy of the grace of God, Śrī Jayacāmarājendra Wodeyar Bahadur, G.C.B., G.C.S.I., the great Lord, lord of the Karnāṭaka throne, patron of Vedic learning, self-taught scholar, beloved of his subjects, devoted to God, is encouraging with his generous patronage the publication of this costly work: it must be said that this is the good fortune of the multitude of the people of Karnāṭaka. To such a generous-minded lord of ours, and to his family (to the royal princess [*rājakumāri*] marked with the name of the mantra Gāyatrī, which is reckoned among the Vedic mantras as the most important), and likewise to the whole multitude of the people, may the Lord of all, the Vedic Person, grant, more than before, all wealth such as long life, health and prosperity, the fruits of this world, and also the knowledge of the Self which is of ultimate value — thus I pray."
+
+*(Signature block, as printed:)* "Mysore. Vikṛti year, Caitra Śuddha Pratipad [as read: 'prathamā'], Sunday [*bhānuvāra*]. 19–3–1950. — Translator: H. P. Venkatarao, Āsthāna Mahāvidvān." *(A printer's ornament follows. The Pīṭhike ends here; PDF 15–20 are the contents.)*
+
+---
+
+**Progress note:** The Pīṭhike (folios i–ix, PDF 6–14) is **complete**; its signature block is dated Mysore, 19-3-1950. Next: the Seventh Adhyāya from PDF 21 (printed p. 1, the unnumbered title page; Sūkta 95 heading on printed p. 3 = PDF 23 as the contents table suggests, to be confirmed). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–vii read from small print, with clotted words [?] (the Śatapatha passage on folios iv–v, the Taittirīya Brāhmaṇa opening clause, *tritas tv airṇatamo*, *yad īm aha trito…*); the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folios vi–viii from small digits [?].
