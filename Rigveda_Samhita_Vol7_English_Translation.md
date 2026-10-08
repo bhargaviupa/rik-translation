@@ -8363,4 +8363,102 @@ Closing of Rik 89.10: "॥ १० ॥" (10), followed by a printer's ornament. *
 
 ---
 
-**Progress note:** Printed pp. 1–302 done (PDF 16–317) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete** (89: ten Ṛks, ended on p. 302, no closing line in the print). Next: **Sūkta 90** (contents table: p. 303; *ṛjunītī*; to be viewed — its heading, introduction and Ṛk count are not yet seen) at printed p. 303 (PDF 318). The user has asked for the next two sūktas (89 and 90) in this stretch: Sūkta 89 is done; Sūkta 90 remains. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+---
+
+## Sūkta 90 (Maṇḍala 1, Sūkta 90) — "तोंभत्तनेय सूक्तवु" (*tombhattaneya sūktavu*, "the ninetieth Sūkta")
+
+### Page 303 (PDF 318)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 303. Heading printed large, in Kannada: "ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು". The contents table gives p. 303.)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; Kannada script converted letter by letter; compressed and read with doubt in places [?])**
+
+> ऋजुनीतीति नवर्चं षष्ठं सूक्तं गोतमस्यार्षम् । अत्रानुक्रम्यते । ऋजुनीती नव गायत्रमन्त्यानुष्टुबिति । पूर्वत्र वैश्वदेवं त्रिःपूर्वत्वात्तु ह्यादिपरिभाषयेदमपि सूक्तं बहुदेवताकम् । सूक्तविनियोगो लैङ्गिकः । चातुर्विंशिकेऽहनि प्रातःसवने मैत्रावरुणस्य ऋजुनीती न इत्येषारम्भणीया । चतुर्विंश इति खण्डे सूत्रितम् । ऋजुनीती नो वरुण इन्द्रं वो विश्वतस्परि । आ. ७-२ [?] । इति ॥ अहर्गणेषु द्वितीयादिष्वहःस्वप्येषारम्भणीया शंसनीया । सूत्रितं च । आरम्भणीयाः पर्योसान्कद्वतो ऽपरः शस्यानीति होत्रका द्वितीयादिष्वेव । आ. ७-१ [?] । इति ॥
+
+*ṛjunītīti navarcaṃ ṣaṣṭhaṃ sūktaṃ gotamasyārṣam | atrānukramyate | ṛjunītī nava gāyatram antyānuṣṭub iti | pūrvatra vaiśvadevaṃ triḥpūrvatvāt tu hyādiparibhāṣayedam api sūktaṃ bahudevatākam | sūktaviniyogo laiṅgikaḥ | cāturviṃśike 'hani prātaḥsavane maitrāvaruṇasya ṛjunītī na ity eṣārambhaṇīyā | caturviṃśa iti khaṇḍe sūtritam | ṛjunītī no varuṇa indraṃ vo viśvatas pari | Ā. 7-2 [?] | iti ‖ ahargaṇeṣu dvitīyādiṣv ahaḥsv apy eṣārambhaṇīyā śaṃsanīyā | sūtritaṃ ca | ārambhaṇīyāḥ paryosān kadvato 'paraḥ śasyānīti hotrakā dvitīyādiṣv eva | Ā. 7-1 [?] | iti ‖*
+
+*Translation (as read; doubtful words noted):* "The sixth sūkta, *ṛjunītī*, of nine Ṛks, is the vision of Gotama. The Anukramaṇī says here: '*ṛjunītī* — nine, Gāyatrī, the last Anuṣṭubh.' As in the preceding sūkta it is Vaiśvadeva [the deity is the Viśvedevas]; by the rule beginning with *hi*, this sūkta too has many deities [as printed, *bahudevatāka*] [?]. The application of the sūkta is *laiṅgika*. On the *Cāturviṃśika* day, at the morning pressing, the Ṛk *ṛjunītī no varuṇa* is the *ārambhaṇīyā* [opening verse] of the Maitrāvaruṇa; it is prescribed in the section *caturviṃśa*: '*ṛjunītī no varuṇa indraṃ vo viśvatas pari*' (Āś. [7-2] [?]). In the *ahargaṇa* sacrifices too, from the second day on, this is to be used as the opening, recited; and it is prescribed: '*ārambhaṇīyāḥ …* the Hotrakas, on the second and following days' (Āś. [7-1] [?])." *(The second sūtra is clotted in the print: "paryosān kadvato 'paraḥ" is read as printed and not completed [?].)*
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *ṛjunītī* is the sixth sūkta of the fourteenth anuvāka. There are nine Ṛks in it. The ṛṣi of this sūkta is Gotama. In the Anukramaṇī it is said '*ṛjunītī nava gāyatram antyānuṣṭub*' — that is, of the nine Ṛks in the sūkta *ṛjunītī*, the first eight are in the Gāyatrī metre and the last Ṛk in the Anuṣṭubh metre. The deities of this sūkta too are the Viśvedevas. The application of the sūkta is *laiṅgika*. At the morning pressing of the twenty-fourth day of the sacrifice, the *Mitrāvaruṇa* priest is to begin with the Ṛk *ṛjunītī*: the Āśvalāyana Śrauta-sūtra sets this forth in the section called *Caturviṃśa* by the sūtra '*ṛjunītī no varuṇa indraṃ vo viśvatas pari*' (Āś. [7-2] [?]); and the mantras beginning with this Ṛk, from the second day of the *Ahargaṇa* sacrifice onward, are to be used — the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*ārambhaṇīyāḥ paryosān kadvato 'paraḥ śasyānīti hotrakā dvitīyādiṣv eva*' (Āś. [7-1] [?])."
+
+*(printer's ornament)*
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ९० — Sūkta 90**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ९० — *Maṇḍala 1 · Anuvāka 14 · Sūkta 90*
+- अष्टक १ · अध्याय ६ · वर्ग १६, १७ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 16, 17 [?]*
+- सूक्तदल्लिरुव ऋक्संख्ये — ९ — *number of Ṛks in the sūkta: 9*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — विश्वेदेवाः — *deity: the Viśvedevas*
+- छन्दः — १–८ गायत्री; ९ अनुष्टुप् — *metre: Ṛks 1–8 Gāyatrī; 9 Anuṣṭubh*
+
+---
+
+### Page 304 (PDF 319)
+
+*(Running head: "304 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.1)** *(Gāyatrī; accents not reproduced)*
+
+> ऋजुनीती नो वरुणो मित्रो नयतु विद्वान् ।
+> अर्यमा देवैः सजोषाः ॥ १ ॥
+
+*ṛjunītī no varuṇo mitro nayatu vidvān | aryamā devaiḥ sajoṣāḥ ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "By the straight guidance may Varuṇa, Mitra, the knowing, lead us, [and] Aryaman, with the gods, in joint delight."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.1)**
+
+> ऋजुऽनीती । नः । वरुणः । मित्रः । नयतु । विद्वान् ।
+> अर्यमा । देवैः । सऽजोषाः ॥ १ ॥
+
+*ṛju-nītī | naḥ | varuṇaḥ | mitraḥ | nayatu | vidvān | aryamā | devaiḥ | sa-joṣāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.1)**
+
+> अहरभिमानी देवो मित्रो वरुणो रात्र्यभिमानी । मित्रश्च वरुणश्च विद्वान् नेतव्यमुत्तमं स्थानं जानन् नोऽस्मान् ऋजुनीती ऋजुनीत्या ऋजुनयनेन कौटिल्यरहितेन गमनेन नयतु । अभिमतं फलं प्रापयतु । तथा देवैरन्यैरिन्द्रादिभिः सजोषाः समानप्रीतिरर्यमाहोरात्रविभागस्य कर्ता सूर्यश्चास्मान्सुगमनेनाभिमतं स्थानं प्रापयतु ॥ ऋजुनीती । सुपां सुलुगिति तृतीयायाः पूर्वसवर्णदीर्घत्वं ॥
+
+*ahar-abhimānī devo mitro varuṇo rātryabhimānī | mitraś ca varuṇaś ca vidvān netavyam uttamaṃ sthānaṃ jānan no 'smān ṛjunītī ṛjunītyā ṛjunayanena kauṭilyarahitena gamanena nayatu | abhimataṃ phalaṃ prāpayatu | tathā devair anyair indrādibhiḥ sajoṣāḥ samānaprītir aryamāhorātravibhāgasya kartā sūryaś cāsmān sugamanenābhimataṃ sthānaṃ prāpayatu ‖ ṛjunītī | supāṃ suluk iti tṛtīyāyāḥ pūrvasavarṇadīrghatvaṃ ‖*
+
+*Translation:* "Mitra, the deity presiding over the day, and Varuṇa, the deity presiding over the night: Mitra and Varuṇa, *vidvān*, knowing the highest place to which one is to be led, *nayatu* — may they lead us, *ṛjunītī* — by straight leading, by a going that is free from crookedness; may they bring us the desired fruit. And likewise Aryaman — the maker of the division of day and night, the sun — *sajoṣāḥ*, of equal delight with the other gods, Indra and the rest, may he bring us by good going to the desired place. *Grammar tail:* *ṛjunītī* — lengthening of the preceding vowel by 'supāṃ suluk' for the instrumental ending."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.1)** *(Kannada)*
+
+*mitraḥ* — Mitra (the deity presiding over day); *varuṇaḥ* — Varuṇa (the deity presiding over night); *vidvān* — knowing (our place of going); *naḥ* — us; *ṛjunītī* — by an upright (right) path; *nayatu* — may they lead us (and bring us our desired fruit); *devaiḥ* — together with other gods, Indra and the rest; *sajoṣāḥ* — of equal delight; *aryamā* — the deity Aryaman too (may he bring us to our desired place).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.1** *(Kannada)*
+
+"May Mitra, the deity presiding over the day, and Varuṇa, the deity presiding over the night, knowing the place we are to go to, lead us by the right path and cause us to obtain our desired place; and likewise, Aryaman, who is of equal delight with the other gods, Indra and the rest, and who divides day and night, may he too bring us to our desired place."
+
+---
+
+### Page 305 (PDF 320)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 305. Foot: printer's signature "20 … Volume 7".)*
+
+**English Translation** *(printed in English in the source)*
+
+"May Varuna, the wise Mitra and Aryaman accompanied with other gods lead us by straight paths." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.1)**
+
+- **ऋजुनीती** — *kauṭilyarahitena gamanena* — "with an upright way, free from crookedness; by a path of justice (*nyāya*) free from deceit, fraud and the like."
+- **विद्वान्** — "the knowing, the wise."
+- **वरुणः मित्रः** — "Mitra is well known as the deity presiding over the day, and Varuṇa as the deity presiding over the night. There are Śruti sentences in the Taittirīya Brāhmaṇa: '*maitraṃ vā ahaḥ*', '*vāruṇī rātriḥ*' (Tai. Brā. [?])."
+- **अर्यमा** — "one of the twelve Ādityas; it is said that this deity divides day and night."
+- **सजोषाः** — *samānaprītiḥ athavā devaiḥ saha saṃpriyamāṇaḥ* — "one who has equal delight with the gods."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.1)** *(grammar page, noted briefly; begins here; sūtras read in three layers, numerals as read [?])*
+
+- **ऋजुनीती** — the word *ṛjunīti*, feminine, ending in *i*; the instrumental singular following, by "सुपां सुलुक्…" the lengthening of the preceding homorganic vowel for the case-ending.
+- **नयतु** — the root *ṇīñ prāpaṇe*; by "णो नः" the *n* for the *ṇ*; *loṭ*, third person singular, by "एरुः" the substitute *tu* for *ti*; *śap* the *vikaraṇa*; because of it, the *guṇa* of the *ik* of the root, and the substitute *ay*; since it follows an *atiṅanta*, the *nighāta* by "तिङ्ङतिङः".
+- **विद्वान्** — the root *vida jñāne*; the affix *śatṛ* following, by "विदेः शतुर्वसुः" (Pā. Sū. 7-1-[36]) the substitute *vasu* for *śatṛ*; the word *vidvas*; *su* following, by "आत्सन्तस्य चासम्बुद्धौ" the lengthening of the penultimate; by "उगिदचां सर्वनामस्थानेऽधातोः" the augment *num*; by "हल्ङ्याब्भ्यो…" the loss of *su*; by "संयोगान्तस्य लोपः" the loss of the final *s*; by the affix-accent the *a* after *v* is acute.
+- **सजोषाः** — the root *juṣī prītisevanayoḥ*; the affix *asun*; because of it the *guṇa* of the *laghūpadha*; by "ञ्नित्यादिर्नित्यम्" the first syllable acute; *samāno joṣo yasya sa sajoṣāḥ* *(the page ends mid-entry; the grammar continues on p. 306)*
+
+---
+
+**Progress note:** Printed pp. 1–305 done (PDF 16–320) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, sixth sūkta; application *laiṅgika*, opening verse of the Maitrāvaruṇa at the *Cāturviṃśika*; printed pp. 303–324): heading, introduction and Anuvāda done; **Rik 90.1** done through its English, Special Topics and the first four entries of its grammar page (ending mid-entry at *sajoṣāḥ*, p. 305); the rest of that page runs on p. 306, then 90.2–90.9. Next: printed p. 306 (PDF 321). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
