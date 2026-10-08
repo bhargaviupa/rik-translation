@@ -9378,4 +9378,105 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–334 done (PDF 16–349) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1 and 91.2 complete (pp. 326–334); Rik 91.3 Saṃhitā only at the foot of p. 334. Next: printed p. 335 (PDF 350) — the Pada of 91.3 first. Open flags: Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) in small Kannada digits [?] (the citation *rarakṣa tān sukṛto…* with its text doubtful; *vighṛte* in the third citation doubtful); Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 335 (PDF 350)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 335.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.3)**
+
+> राज्ञः । नु । ते । वरुणस्य । व्रतानि । बृहत् । गभीरम् । तव । सोम । धाम ।
+> शुचिः । त्वम् । असि । प्रियः । न । मित्रः । दक्षाय्यः । अर्यमाऽइव । असि । सोम ॥ ३ ॥
+
+*rājñaḥ | nu | te | varuṇasya | vratāni | bṛhat | gabhīram | tava | soma | dhāma | śuciḥ | tvam | asi | priyaḥ | na | mitraḥ | dakṣāyyaḥ | aryamā-iva | asi | soma ‖ 3 ‖*
+
+(The Pada divides the Saṃhitā's *aryamevāsi* as *aryamā-iva | asi*, and *śuciṣṭvam* as *śuciḥ | tvam*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.3)**
+
+> हे सोम राज्ञो ब्राह्मणानां स्वामिनः । सोमोऽस्माकं ब्राह्मणानां राजा । तै. ब्रा. १-८-५-२ [?] इति श्रुतेः । यागार्थमाहृतः क्रीतो वस्त्रेणावृतः सोमो वरुणः । वरुणोऽसि धृतव्रत इति मन्त्रलिङ्गात् । क्रीतस्य ते नु तव संबन्धीनि हि व्रतानि सर्वाण्यग्निष्टोमादीनि कर्माणि । अतः सर्वेषु योगेषु त्वमेव करणभूतो भवसीत्यर्थः । अतस्तव धाम त्वदीयं तेजो बृहन्महद्विस्तीर्णं गभीरं गाम्भीर्योपेतं च । यद्वा । नु इत्येतदुपमार्थे । तदुक्तं यास्केन । अथाप्युपमार्थे भवति वृक्षस्य नु ते पुरुहूत वयाः । नि. १-४ [?] इति । राज्ञो राजमानस्य वरुणस्य नु वरुणस्येव हे सोम ते तव व्रतानि कर्माणि लोकहितकारीणि । शिष्टं समानं । हे सोम त्वं शुचिः सर्वेषां शोधकोऽसि । तत्र दृष्टान्तः । प्रियो न मित्रः । यथा सर्वेषामनुकूलोऽहरभिमानी मित्रो देवः शोधयिता भवति तद्वत् । तथा त्वमर्यमेवास्माभिर्दृश्यमानः सूर्य इव दक्षाय्योऽसि । सर्वेषां वर्धको भवसि । यथाहनि सूर्यः प्रकाशेन सर्वं वर्धयति एवं निश्मृतमय्यैः [?] सोमकिरणैराप्यायमानं सस्थावरजंगमात्मकं सर्वं जगद्वर्धते ॥ शुचिष्ट्वं । युष्मत्तत्तक्षुःष्वन्तःपादमिति [?] विसर्जनीयस्य सत्त्वं । दक्षाय्यः । दक्ष वृद्धौ । शृदक्षिस्पृहिग्रहिभ्य आय्यः । उ. ३-९६ [?] इत्याय्यप्रत्ययः ॥
+
+*he soma rājño brāhmaṇānāṃ svāminaḥ | somo 'smākaṃ brāhmaṇānāṃ rājā | Tai. Brā. 1-8-5-2 [?] iti śruteḥ | yāgārthamāhṛtaḥ krīto vastreṇāvṛtaḥ somo varuṇaḥ | varuṇo 'si dhṛtavrata iti mantraliṅgāt | krītasya te nu tava saṃbandhīni hi vratāni sarvāṇy agniṣṭomādīni karmāṇi | ataḥ sarveṣu yogeṣu tvam eva karaṇabhūto bhavasīty arthaḥ | atas tava dhāma tvadīyaṃ tejo bṛhan mahad vistīrṇaṃ gabhīraṃ gāmbhīryopetaṃ ca | yadvā | nu ity etad upamārthe | tad uktaṃ yāskena | athāpy upamārthe bhavati vṛkṣasya nu te puruhūta vayāḥ | Ni. 1-4 [?] iti | rājño rājamānasya varuṇasya nu varuṇasyeva he soma te tava vratāni karmāṇi lokahitakārīṇi | śiṣṭaṃ samānaṃ | he soma tvaṃ śuciḥ sarveṣāṃ śodhako 'si | tatra dṛṣṭāntaḥ | priyo na mitraḥ | yathā sarveṣām anukūlo 'harabhimānī mitro devaḥ śodhayitā bhavati tadvat | tathā tvam aryamevāsmābhir dṛśyamānaḥ sūrya iva dakṣāyyo 'si | sarveṣāṃ vardhako bhavasi | yathāhani sūryaḥ prakāśena sarvaṃ vardhayati evaṃ niśmṛtamayyaiḥ [?] somakiraṇair āpyāyamānaṃ sasthāvarajaṃgamātmakaṃ sarvaṃ jagad vardhate ‖ śuciṣṭvaṃ | yuṣmattattakṣuḥṣvantaḥpādam iti [?] visarjanīyasya satvaṃ | dakṣāyyaḥ | dakṣa vṛddhau | śṛdakṣispṛhigrahibhya āyyaḥ | U. 3-96 [?] ity āyyapratyayaḥ ‖*
+
+*Translation:* "O Soma — *rājñaḥ*, of the lord of the Brāhmaṇas. 'Soma is the king of us Brāhmaṇas', according to the śruti (Tai. Brā. 1-8-5-2 [?]). Soma, brought for the sacrifice, purchased, covered with a cloth, is Varuṇa — from the mantra-sign '*varuṇo 'si dhṛtavrata*' ['you are Varuṇa, of firm vows']. All the *vratāni* — the acts such as the Agniṣṭoma — are indeed yours, the purchased one: so in all the combinations (*yogeṣu*) it is you alone who are the instrument; this is the meaning. Therefore your *dhāma*, your own lustre, is *bṛhat* — great, extended — and *gabhīram*, endowed with depth. Or: this *nu* is in the sense of comparison; so Yāska has said: 'And again, it has the sense of comparison: *vṛkṣasya nu te puruhūta vayāḥ*' (Ni. 1-4 [?]). [Thus:] O Soma, your *vratāni*, your acts, are beneficial to the world, like those of Varuṇa, the shining king. The rest as above. O Soma, you are *śuciḥ*, the purifier of all. The example: *priyo na mitraḥ* — as the god Mitra, the friend of all and presiding over the day, is the purifier, so are you. And as Aryaman [*aryamevāsi*] — the sun that we see — you are *dakṣāyyaḥ*, the one who makes all grow: as the sun by day makes all grow by light, so by the Soma-rays, *niśmṛtamayyaiḥ* [as read, doubtful [?]], the whole world, moving and unmoving, being nourished, grows."
+
+*Grammar tail of the bhāṣya (noted briefly):* *śuciṣṭvam* — the visarga becomes *s* [the cited rule, *yuṣmat-tat-takṣuḥṣv antaḥ-pādam* or similar, doubtful [?]]. *dakṣāyyaḥ* — root *dakṣa vṛddhau*; the suffix *āyya* by the Uṇādi sūtra *śṛdakṣispṛhigrahibhya āyyaḥ* (U. 3-96 [?]).
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.3)** *(Kannada; begins at the foot of p. 335)*
+
+*Soma* — O Soma-deity; *te nu vratāni* — all your acts, together; *rājñaḥ* — of the lord, or of the shining one; *varuṇasya* — like the acts of Varuṇa (beneficial to the world) —
+
+---
+
+### Page 336 (PDF 351)
+
+*(Running head: left "336", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**Or** *(the Kannada Pratipadārtha gives an alternative):* "[*vratāni* — all the acts; *rājñaḥ* — of the sovereign; *varuṇasya* — of Varuṇa, covered with the cloth taken for the sacrifice; *te nu* — are indeed yours alone (you are the cause of all)]."
+
+*tava* — your; *dhāma* — lustre; *bṛhat* — vast; *gabhīram* — endowed with depth; *soma* — O Soma; *tvam* — you; *priyo na mitraḥ* — like a friend who is favourable; *śuciḥ asi* — you are the purifier of everything; *āryamā iva* — like Aryaman; *dakṣāyyaḥ asi* — you are the augmenter of all.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.3** *(Kannada)*
+
+"O Soma-deity, all your acts are, like the acts of the sovereign Varuṇa, beneficial to the world. Your lustre is vast and endowed with depth. O Soma-deity, like a friend favourable to all, you purify everything. Like Aryaman, you bring everyone to growth."
+
+**English Translation** *(printed in English in the source; Rik 91.3)*
+
+"Your acts are like those of king Varuna ; Soma, your glory is great and profound ; you are the purifier of all like the beloved Mitra ; you are the augmenter [printed "angmenter", sic] of all like Aryaman." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.3)** *(Kannada)*
+
+***rājño nu te varuṇasya vratāni*** — "This pāda can be explained in two ways. On the authority of the śruti"
+
+> सोमोऽस्माकं ब्राह्मणानां राजा ।
+
+*somo 'smākaṃ brāhmaṇānāṃ rājā |*  (Tai. Saṃ. 1-8-10-2 [?], numerals as printed, doubtful)
+
+*Gloss, mine and tentative:* "Soma is the king of us Brāhmaṇas."
+
+"— the word *rājan* means 'king of the Brāhmaṇas'; and, as in '*yāgārthamāhṛtaḥ krīto vastreṇāvṛtaḥ somo varuṇaḥ*', the Soma purchased for the sacrifice and covered with cloth is well known as Varuṇa. So if it is taken as *āvṛtta* (turned back [to Varuṇa]), then it means: 'your acts — all the acts such as the Agniṣṭoma — are, in short, the acts of the lord of us all, Varuṇa'. Or, if the indeclinable *nu* is used in the sense of *iva* ('like'), taking *upamārthe* ('in the sense of comparison'), then *rājñaḥ* — of the sovereign of all the worlds — *varuṇasya* — of Varuṇa — *vratāni nu* — 'like the acts that benefit the world', *te* — your acts too benefit the world."
+
+> हंति रक्षो बाधते पर्यरातीर्वरिवः कृण्वन्वजनस्य राजा ।
+
+*haṃti rakṣo bādhate paryarātīr varivaḥ kṛṇvan vrajanasya rājā |*  (Ṛ. Saṃ. 9-[?]-10 [?], numerals as printed, doubtful; *vrajanasya* as read [?])
+
+*Gloss, mine and tentative:* "He slays the Rakṣas, he drives back the foes, making room, the king of the [pasturing] fold."
+
+---
+
+### Page 337 (PDF 352)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 337. Foot: printer's signature "22 … Volume 7".)*
+
+> पवित्रेभिः पवमानो नृचक्षा राजा देवानामुत मर्त्यानाम् ।
+
+*pavitrebhiḥ pavamāno nṛcakṣā rājā devānām uta martyānām |*  (Ṛ. Saṃ. 9-[?]-[?] [?])
+
+*Gloss, mine and tentative:* "Purifying himself through the filters, the beholder of men, the king of gods and of mortals."
+
+"In such places the epithet *rājā* is applied directly to Soma."
+
+***dhāma*** — "The word *dhāman* has various meanings, such as lustre, dwelling-place and so on. Here any meaning may be given."
+
+***gabhīram*** — "Deep, impenetrable. Both the dwelling-place and the greatness of the Soma-deity are *gabhīra* — never wholly comprehended by anyone, and deep in their very nature. This same description in the form of praise, '*bṛhad gabhīraṃ tava soma dhāma*', is also found in Ṛ. Saṃ. [9-?]-? [?], in the same order, the sūkta's printed in full there [as read, doubtful [?]]."
+
+***śuciḥ*** — "*śocatir jvalati karmaṇaḥ* (Ni. 6-[?] [?]) — from the root *śuc*, which gives the sense 'to shine', the noun *śuci* is formed. The word *śuci* has the meanings 'brightness, light'; and 'pure, clean' is also given; the word is produced from the same root. And the Nirukta writer's statement, *niśi-kram-asmāt-pāpakam* (Ni. 6-[?] [?]) ['sin has been …(?) from him'; as read, doubtful [?]], is also well known. On these authorities, *śuciḥ* here is to be understood as 'purity'. As Mitra, the god who presides over the day, purifies all the world by removing darkness and sin, so Soma too is the purifier of all, the remover of sin."
+
+> अवस्यतं मुंचतं यन्नो अस्ति तनूषु बद्धं कृतमेनो अस्मत् ।
+
+*avasyataṃ muṃcataṃ yan no asti tanūṣu baddhaṃ kṛtam eno asmat |*  (Ṛ. Saṃ. 6-[?]-3 [?])
+
+*Gloss, mine and tentative:* "Desiring [our welfare], release whatever sin done by us is bound in our bodies."
+
+***dakṣāyyaḥ*** — *dakṣa vṛddhau* | "Although the word *dakṣa* is used among the names of strength that are instruments of growth, here the meaning is growth itself. *dakṣāyyaḥ* means 'the author of such growth'. As the sun, in the form of Aryaman, makes the worlds grow with his rays throughout the day, so Soma too, with his rays full of nectar, makes the whole world, moving and unmoving, grow."
+
+> सोम राजन्प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ।
+
+*soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi |*  (Ṛ. Saṃ. 8-[?]-[?] [?])  *(the Saṃhitā text as read; the print's ligatures here are unclear [?])*
+
+*Gloss, mine and tentative:* "O king Soma, extend our lives, as the sun extends the days."
+
+"In such places everywhere, the prayer is: 'as the sun increases the days, the divisions of time that sustain the world, so too increase our lives' (*asmākam āyūṃṣi pra vardhaya*)."
+
+---
+
+**Progress note:** Printed pp. 1–337 done (PDF 16–352) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.2 complete; Rik 91.3 done through the Special Topics (pp. 334–337; the page ends with the *dakṣāyyaḥ* citation; the Vyākaraṇa-prakriyā of 91.3, if printed, begins on p. 338 — not yet viewed). Next: printed p. 338 (PDF 353). Open flags: p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* and the Uṇādi numeral doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?] (*haṃti rakṣo…* text and ref doubtful; the *niśi-kram-* Nirukta-style phrase doubtful; *soma rājan pra ṇa* ligatures unclear); Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
