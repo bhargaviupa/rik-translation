@@ -7716,4 +7716,84 @@ Closing of Rik 89.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–278 done (PDF 16–293) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.3 complete**; **Rik 89.4** — Saṃhitā, Pada and the first part of the bhāṣya done (foot of p. 278); the bhāṣya continues on p. 279; then 89.5–89.10. Next: printed p. 279 (PDF 294). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273–274 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 279 (PDF 294)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 279.)*
+
+*Bhāṣya of Rik 89.4, concluded from p. 278 (Kannada script):*
+
+> …युवां तद्भेषजं शृणुतं । आकर्णयतं । यद्भेषजमस्माभिर्व्याध्यादिषु प्रार्थ्यते । तद्भेषजं देवानां भिषजौ युवामस्माकमनुकूलं यथा भवति तथा जानीतमित्यर्थः ॥ मयोभु । ह्रस्वो नपुंसके प्रातिपदिकस्य । पा. १-२-४७ [?] इति ह्रस्वत्वम् । वातु । वा गतिगन्धनयोः । अन्तर्भावितण्यर्थात्प्रार्थनायां लोट् । सोमसुतः । सोमे सुञः । पा. ३-२-९० [?] इति भूते क्विप् । धिष्ण्या । धिषणाशब्दादर्हार्थे छन्दसि च इति यः । वर्णलोपश्छान्दसः । सुपां सुलुगित्याकारः ॥
+
+*yuvāṃ tad bheṣajaṃ śṛṇutaṃ | ākarṇayataṃ | yad bheṣajam asmābhir vyādhyādiṣu prārthyate | tad bheṣajaṃ devānāṃ bhiṣajau yuvām asmākam anukūlaṃ yathā bhavati tathā jānītam ity arthaḥ ‖ mayobhu | hrasvo napuṃsake prātipadikasya | Pā. 1-2-47 [?] iti hrasvatvam | vātu | vā gatigandhanayoḥ | antarbhāvitaṇyarthāt prārthanāyāṃ loṭ | somasutaḥ | some suñaḥ | Pā. 3-2-90 [?] iti bhūte kvip | dhiṣṇyā | dhiṣaṇāśabdād arhārthe chandasi ca iti yaḥ | varṇalopaś chāndasaḥ | supāṃ suluk ity ākāraḥ ‖*
+
+*Translation:* "…you two hear that remedy; listen; the remedy that we ask for in sicknesses and the like: you, the physicians of the gods, know it in such a way that it be favourable to us — that is the meaning. *Grammar tail, noted briefly:* *mayobhu* — short for the base in the neuter (Pā. 1-2-[47] [?]); *vātu* — *vā gatigandhanayoḥ*, *loṭ* in the sense of prayer, with the sense of *ṇic* contained; *somasutaḥ* — *kvip* in the past sense after *su* with *some* (Pā. 3-2-[90] [?]); *dhiṣṇyā* — *ya* after *dhiṣaṇā* in the sense 'worthy', Vedic loss of a letter; the dual ending *ā* by 'supāṃ suluk'."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.4)** *(Kannada)*
+
+*vātaḥ* — the wind; *mayobhu* — giving happiness; *tat bheṣajam* — that remedy; *naḥ* — to us; *vātu* — bringing, may it reach; *mātā* — the mother of all; *pṛthivī* — the earth; *tat* — that remedy (may she bring us); *pitā* — the protector of all; *dyauḥ* — the world of heaven; *tat* — that remedy; *somasutaḥ* — those who press Soma; *mayobhuvaḥ* — giving happiness; *grāvāṇaḥ* — the pressing stones; *tat* — that remedy; *dhiṣṇyā* — O Aśvin deities, fit to be meditated on; *yuvam* — you too; *śṛṇutam* — hear (our prayer for that remedy).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.4** *(Kannada)*
+
+"May the wind bring that remedy that gives happiness to us. May the earth, mother of all, and heaven, the protector, and the pressing stones that give happiness and press Soma bring us that remedy. O Aśvin deities, worthy of meditation, you too hear our prayer for that remedy."
+
+**English Translation** *(printed in English in the source)*
+
+"May the wind waft to us the grateful medicament; may mother earth, may father heaven, convey it to us; may the stones that express the Soma-juice and are productive of pleasure bring it to us; Aswins, who are to be meditated upon hear our prayer." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.4)**
+
+- **मयोभु** — *sukhasya bhāvayitṛ* — "that which makes happiness."
+- **तद्भेषजम्** — "'that remedy', meaning the remedy by which we have happiness. Since only the word *tat* is here, the word *yat* must be supplied. The bhāṣyakāra has given no explanation for the word *bheṣaja*; other meanings than 'medicine' may be given to the word *bheṣaja*." *(continues on p. 280)*
+
+---
+
+### Page 280 (PDF 295)
+
+*(Running head: "280 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.4, continued from p. 279:*
+
+- **माता पृथिवी पिता द्यौः** — "The practice of calling the earth 'mother' and heaven (*dyauḥ*) 'father' is special to the Ṛgveda. Since the earth produces grain and the like, and the sky (the atmosphere) pours rain, both nourish the beings in the world — that is the intention."
+- **ग्रावाणः सोमसुतः** — "the stones used for crushing the Soma creeper."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.4)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **मयोभु** — *mayasaḥ bhūḥ mayobhūḥ*; the root *bhū sattāyām*; after the *ṇijanta*, the affix *kvip*; by "णेरनिटि" (Pā. Sū. 6-4-[51]) the loss of *ṇi*; when *mayobhū*, by "ह्रस्वो नपुंसके प्रातिपदिकस्य" (Pā. Sū. 1-2-[47]) the shortening in the neuter; since it is *supara*, by "स्वमोर्नपुंसकात्" the *luk* of *su*; by "गतिकारकोपपदात्कृत्" the base accent of the *kṛdutarapada*.
+- **वातु** — the root *vā gatigandhanayoḥ*, Adādi; when the sense of *ṇic* (impelling) is contained in the root, *loṭ* in the sense of prayer; by "एरुः" the *u* for the *i*; by "अदिप्रभृतिभ्यः शपः" the *luk* of *śap*; since it follows an *atiṅanta*, the *nighāta*.
+- **सोमसुतः** — the root *ṣuñ abhiṣave*; by "धात्वादेः षः सः" the *s* for the initial; by "सोमे सुञः" (Pā. Sū. 3-2-[90]) the affix *kvip* in the past sense, since *soma* is the object [*upapada*]; since *kvip* is *pit*, by "ह्रस्वस्य पिति कृति तुक्" the augment *tuk* after the *u*; the word *somasut*; by "गतिकारकोपपदात्कृत्" the base accent of the *kṛdutarapada*; nominative plural.
+- **अश्विना** — for the nominative dual, by "सुपां सुलुक्" the substitute *ā*.
+- **शृणुतम्** — the root *śru śravaṇe*; *loṭ*, second person dual; by "तस्थस्थमिपां तान्तन्तामः" the substitute *tam*; by "श्रुवः शृ च" (Pā. Sū. 3-1-[74]) the *śnu* *vikaraṇa* and *śṛ* for the root; by "ऋवर्णान्नस्य णत्वं वाच्यम्" the *ṇ* for the *n*; since "सार्वधातुकमपित्" makes the affix *ṅit*, the *guṇa* does not come; the *nighāta* of the *tiṅanta*.
+
+---
+
+### Page 281 (PDF 296)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 281.)*
+
+*Vyākaraṇa-prakriyā of Rik 89.4, concluded from p. 280:*
+
+- **धिष्ण्या** — the word *dhiṣaṇā*; to it, in the sense 'worthy of it', by "छन्दसि च" (Pā. Sū. 5-1-[67]) the affix *ya*; by the Vedic omission of a letter, the *a* after *ṇ* is lost; in the vocative dual, by "सुपां सुलुक्" the substitute *ā*; by "आमन्त्रितस्य च" the *nighāta* accent.
+- **युवम्** — the word *yuṣmad*; after it, since the nominative dual follows, by "जसः प्रथमयोरम्" (Pā. Sū. 7-1-[28]) the substitute *am*; by "युवावौ द्विवचने" the substitutes *yuvā* for the portion of the base up to *m*; by "प्रथमायाश्च द्विवचने भाषायाम्" (Pā. Sū. 7-2-[88]) the *ātva* [= long *ā*] is stated for the spoken language, so it does not come in the Chandas; by "शेषे लोपः" the loss of the portion after *m*.
+
+Closing of Rik 89.4: "॥ ४ ॥" (4), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.5)** *(Jagatī; Viśvedevas — here addressed to Pūṣan; accents not reproduced)*
+
+> तमीशानं जगतस्तस्थुषस्पतिं धियंजिन्वमवसे हूमहे वयम् ।
+> पूषा नो यथा वेदसामसद्वृधे रक्षिता पायुरदब्धः स्वस्तये ॥ ५ ॥
+
+*tam īśānaṃ jagatas tasthuṣas patiṃ dhiyaṃjinvam avase hūmahe vayam | pūṣā no yathā vedasām asad vṛdhe rakṣitā pāyur adabdhaḥ svastaye ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "Him, the lord of what moves and what stands, the stirrer of thoughts, we invoke for help; that Pūṣan may be for the increase of our wealth, a guardian, a protector, unharmed, for our welfare."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.5)**
+
+> तम् । ईशानम् । जगतः । तस्थुषः । पतिम् । धियम्ऽजिन्वम् । अवसे ।
+> हूमहे । वयम् ।
+> पूषा । नः । यथा । वेदसाम् । असत् । वृधे । रक्षिता । पायुः । अदब्धः । स्वस्तये ॥ ५ ॥
+
+*tam | īśānam | jagataḥ | tasthuṣaḥ | patim | dhiyam-jinvam | avase | hūmahe | vayam | pūṣā | naḥ | yathā | vedasām | asat | vṛdhe | rakṣitā | pāyuḥ | adabdhaḥ | svastaye ‖ 5 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–281 done (PDF 16–296) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.4 complete**; **Rik 89.5** — Saṃhitā and Pada done (foot of p. 281); next: its bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 282 on), then 89.6–89.10. Next: printed p. 282 (PDF 297). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273–274 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
