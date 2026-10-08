@@ -13127,6 +13127,102 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–460 done (PDF 16–475), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.14 complete (92.3 minus the missing p. 413); Rik 92.15 done through the Special Topics and the grammar page, which breaks at the foot of p. 460 in *saubhagāni* ("…the vṛddhi of the first member and of the second as well —"), to be continued from the head of p. 461. Next: printed p. 461 (PDF 476). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–460 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–460 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.15 (in 92.13 the final *aitva*/*yepravṛtti* clause and *hṛñ haraṇe*; in 92.14 *ihāsmin yajñe* [?]; in 92.15 the clause *prāsprāptāyāṃ…*); the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15). "
+### Page 461 (PDF 476)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 461.)*
+
+*Vyākaraṇa-prakriyā of Rik 92.15, concluded (grammar page, noted briefly):*
+
+[*saubhagāni*, continued —] "…since both are *uttarapada* [*bhaga*-ending words], the vṛddhi of both members would be obtained, but by the statement *sarve vidhayaś chandasi vikalpyante* (Kā. 7-3-19 [?]) — 'all rules are optional in Chandas' — the vṛddhi of the final member does not occur."
+*vaha* — root *vaha prāpaṇe*; *loṭ*, second person singular; the *tiṅ*-*nighāta*. ‖ 15 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.16)** *(Uṣṇih; the first of the three Ṛks addressed to the Aśvins)*
+
+> अश्विना वर्तिरस्मदा गोमद्दस्रा हिरण्यवत् ।
+> अर्वाग्रथं समनसा नि यच्छतम् ॥ १६ ॥
+
+*aśvinā vartir asmad ā gomad dasrā hiraṇyavat | arvāg rathaṃ samanasā ni yacchatam ‖ 16 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.16)**
+
+> अश्विना । वर्तिः । अस्मत् । आ । गोऽमत् । दस्रा । हिरण्यऽवत् ।
+> अर्वाक् । रथम् । सऽमनसा । नि । यच्छतम् ॥ १६ ॥
+
+*aśvinā | vartiḥ | asmat | ā | go-mat | dasrā | hiraṇya-vat | arvāk | ratham | sa-manasā | ni | yacchatam ‖ 16 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.16)**
+
+> प्रातरनुवाकस्याश्विने क्रतावौष्णिहे छन्दस्यश्विना वर्तिरित्ययं तृचः । आश्विनशस्त्रे च । तथा च सूत्रितं । अश्विना वर्तिरस्मदाश्विनावेह गच्छतमिति तृचौ । आ. ४-१४ [?] । इति ॥
+> उषःसाहचर्याद्बुद्धिस्थावश्विनाविदमादिकेन तृचेन स्तूयेते [reading doubtful [?]] । हे अश्विनावश्ववन्तौ व्यापनशीलौ वा देवौ दस्रा दस्रौ शत्रूणामुपक्षपयितारौ अस्मदस्माकं वर्तिर्वर्तनहेतुभूतं गृहमा समन्ताद्गोमद्बहुभिर्गोभिर्युक्तं । हिरण्यवद्धितरमणीयधनयुक्तं च यथा भवति तथा समनसा समानमनस्कौ सन्तौ युवां युष्मदीयं रथमर्वागाभिमुख्येनास्मदीयं गृहमभिमुखं नि यच्छतं । आवर्तयतम् ॥
+
+*prātaranuvākasyāśvine kratāv auṣṇihe chandasy aśvinā vartir ity ayaṃ tṛcaḥ | āśvinaśastre ca | tathā ca sūtritaṃ | aśvinā vartir asmadāśvināveha gacchatam iti tṛcau | Ā. 4-14 [?] | iti ‖ uṣaḥsāhacaryād buddhisthāv aśvināv idamādikena tṛcena stūyete [?] | he aśvināv aśvavantau vyāpanaśīlau vā devau dasrā dasrau śatrūṇām upakṣapayitārau asmad asmākaṃ vartir vartanahetubhūtaṃ gṛham ā samantād gomad bahubhir gobhir yuktaṃ | hiraṇyavad dhitaramaṇīyadhanayuktaṃ ca yathā bhavati tathā samanasā samānamanaskau santau yuvāṃ yuṣmadīyaṃ ratham arvāg ābhimukhyenāsmadīyaṃ gṛham abhimukhaṃ ni yacchataṃ | āvartayatam ‖*
+
+*Translation:* "In the *prātaranuvāka*, in the Aśvina *kratu*, in the Uṣṇih metre, this triplet beginning *aśvinā vartiḥ* is applied; and in the *Āśvina-śastra*. So it is prescribed: '*aśvinā vartir asmad āśvināv eha gacchatam iti tṛcau*' (Ā. 4-14 [?]). — [Because of their association with the Uṣas, the two Aśvins, held in mind, are praised by this triplet beginning with *idam* (the reading of this clause is doubtful [?]).] O Aśvins, possessed of horses or of pervading nature, divine *dasrā*, destroyers of foes, *ā*, all around, in such a way that our *vartiḥ* — our house, the means of our dwelling — may become *gomat*, abounding in many cows, and *hiraṇyavat*, endowed with wealth that is good and delightful: so, being *samanasā*, of one mind [that is, well-disposed], do you *ni yacchatam* — turn and drive — your chariot *arvāk*, in the direction of, towards our house."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.16)** *(Kannada; begins at the foot of p. 461 and continues on p. 462)*
+
+*(see p. 462)*
+
+---
+
+### Page 462 (PDF 477)
+
+*(Running head: left "462", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Grammar tail of the bhāṣya of Rik 92.16 (concluded from p. 461; noted briefly):* *aśvinā* — the ending replaced by *ā* by *supāṃ sulug*. *vartiḥ* — "that in which one dwells (*vartate*) is *vartiḥ*, the house"; the Uṇādi suffix *isi*. *asmat* — the *luk* of the ablative (read in the print as 'ṣaṣṭhyā', where a *pañcamī* would be expected [?]) by *supāṃ sulug*. *samanasā* — "those two whose minds are alike are *samanasau*"; by *samānasya chandasi* the replacement *sa* for *samāna*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.16)** *(Kannada)*
+
+*dasrā* — destroyers of foes; *aśvinā* — O Aśvin deities; *asmat* — our; *vartiḥ* — house, our dwelling-place; *ā* — all around; *gomat* — so as to be full of cows; *hiraṇyavat* — so as to be filled with wealth that is good and delightful; *samanasā* — with a mind of favour; *ratham* — your chariot; *arvāk* — (towards our house) facing; *ni yacchatam* — turn and drive.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.16** *(Kannada)*
+
+"O Aśvin deities, destroyers of foes: so that our house may be filled all around with cows, and also with abundant wealth, with a mind of favour towards us, turn your chariot and drive it toward our house."
+
+**English Translation** *(printed in English in the source; Rik 92.16)*
+
+"Aswins [sic], destroyers of foes, turn your chariot towards our abode, so that with your favour it may become full of cattle and gold." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.16)** *(Kannada)*
+
+"At the time of reciting the *prātaranuvāka* mantras, when reciting the Ṛks in the Uṣṇih metre belonging to the Aśvina *kratu*, the three Ṛks beginning *aśvinā vartiḥ* are to be recited, and in the recitation of the *Āśvina-śastra* mantras too these Ṛks are to be recited; this is shown by the Āśvalāyana Śrauta-sūtra in the sūtra '*aśvinā vartir asmadāśvināveha gacchatam iti tṛcau*' (Ā. 4-14 [?])."
+
+"The origin of the Aśvin deities, their nature and their place were explained in detail earlier: see Part 4, page 75 [as printed]."
+
+***dasrā*** — *dasu upakṣaye — śatrūṇām upakṣapayitārau* | "*Dasu* means 'to destroy': those who destroy enemies. Or, as divine physicians (*devavaidya*), the destroyers of diseases. The meaning 'destroyers of enemies' or 'destroyers of disease through being divine physicians' is given to *dasrā*; it may also mean *darśanīyau*, 'beautiful in form'. In this Ṛk the bhāṣya-writer explains it as destroyers of enemies. Of the Aśvins, the sons of Saraṇyū, one is named Dasra and the other Nāsatya; but it is well known that both together are commonly called *dasrā*."
+
+---
+
+### Page 463 (PDF 478)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 463.)*
+
+***vartiḥ*** — *vartanahetubhūtaṃ gṛham* | "Sāyaṇa explains 'the house that is the basis for living'; Skandasvāmin, '*vartiṣā* [or similar; the printed Sanskrit before it is clotted [?]] *prasiddhena pathā*' — 'by the well-known road', that is, 'by the well-known or excellent road'. Wherever the word *vartiḥ* occurs, Sāyaṇa generally explains it as 'house', and Skandasvāmin as 'a well-known or excellent road'. For example, in Ṛks such as 1-34-9 [?]; 1-112-[?] [?]; 1-[?]-3 [?]; 1-[?]-4 [?] the two commentators have given different meanings in the same way. It is also a special point that the sūktas in which these Ṛks occur are all addressed to the Aśvin deities."
+
+***arvāg ratham samanasā ni yacchatam*** — "'With a mind of favour towards us, turn your chariot and come towards our house.' The chariot of the Aśvin deities is exceedingly well known, both for its beauty and for its marvellousness; so in prayers to these deities there is a description of them together with their chariot, which is endowed with greatness, and a prayer to them. For example, in the seventh maṇḍala, by Vasiṣṭha, and in the eighth, by Śyāvāśva Ātreya, in the very same order of this Ṛk, the Aśvin deities are prayed to in this way —"
+
+> अर्वाग्रथं समनसा नि यच्छतं पिबतं सोम्यं मधु ।
+
+*arvāg rathaṃ samanasā ni yacchataṃ pibataṃ somyaṃ madhu |*  (Ṛ. Saṃ. 7-69-3 [?]; numerals read from small digits, doubtful)
+
+> अर्वाग्रथं नि यच्छतं पिबतं सोम्यं मधु ।
+
+*arvāg rathaṃ ni yacchataṃ pibataṃ somyaṃ madhu |*  (Ṛ. Saṃ. 8-35-23 [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative (for both):* "With one mind turn your chariot this way, and drink the Soma-sweet."
+
+"— thus, in all the prayers made to them, the 'turning of the chariot to face this way' is praised."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.16)** *(Kannada; grammar page, noted briefly)*
+
+*aśvinā* — the dual *au* follows, and by *supāṃ sulug* the *au* is replaced by *ā*.
+*vartiḥ* — "*vartate 'sminn iti vartiḥ gṛham*"; root *vṛtu vartane*; to it the Uṇādi suffix *isi*: the word *vartis*; by the suffix accent the final-acute.
+*asmat* — the word *asmat*; after it the genitive-ending [as printed], by *supāṃ sulug* the *luk*.
+*dasrā* — here too, as before, the ending *au* is replaced by *ā* by *supāṃ sulug*.
+*samanasā* — "*samānaṃ mano yayos tau samanasau*"; by *samānasya chandasi* (Pā. 6-3-84 [?]) the replacement *sa* for the word *samāna*; by *supāṃ sulug* the ending is replaced by *ā*. —
+
+---
+
+**Progress note:** Printed pp. 1–463 done (PDF 16–478), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.15 complete (92.3 minus the missing p. 413); Rik 92.16 (the first Aśvin Ṛk) done in full as far as p. 463; its grammar page breaks at the foot of p. 463 after *samanasā* ("by *supāṃ sulug* the ending is replaced by *ā*. —"), to be concluded from the head of p. 464. Next: printed p. 464 (PDF 479). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–463 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print; the Aśvin citations of p. 463 read from small digits); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–463 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.16 (in 92.13 the final *aitva*/*yepravṛtti* clause and *hṛñ haraṇe*; in 92.14 *ihāsmin yajñe* [?]; in 92.15 the clause *prāsprāptāyāṃ…*; in 92.16 *uṣaḥsāhacaryād…* and the *asmat* ablative/genitive reading; in the Special Topics of 92.16 Skandasvāmin's *vartiṣā…prasiddhena pathā*); the 'Part [5?], pp. 32–33' reference and the 'Part 4, p. 75' reference as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
