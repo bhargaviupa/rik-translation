@@ -6401,4 +6401,73 @@ Closing of Rik 87.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–227 done (PDF 16–242) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.2 complete**; **Rik 87.3** done through the first two entries of its Special Topics (p. 227); the rest of its Special Topics and grammar follow on p. 228, then 87.4–87.6. Next: printed p. 228 (PDF 243). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 228 (PDF 243)
+
+*(Running head: "228 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Special Topics of Rik 87.3, continued from p. 227:*
+
+- **रेजते** — *rejṛ kampane | bhyasate rejate iti bhayepepanayoḥ* (Ni. [2-?] [?]) — "'to tremble'; Yāska says '*bhyasate rejate*' — it means moving from fear."
+- **यामेषु** — *yama uparame; yadvā yā prāpaṇe* — "two meanings may be given: 'joining' or 'going'. When the clouds are in the sky, by the stroke of the wind they gather in one place and rain; the name *yāma* is given to that gathering. Or *yāma* means 'goings': when the wind blows with force, the clouds move on — or move forward, away — that is the intention."
+- **भ्राजदृष्टयः** — *dīpyamānāyudhāḥ* — "those with shining weapons. For the Marut deities the swift movement, that is, the swift blowing, is itself the weapon; since they blow swiftly they shake trees and the like."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **अज्मेषु** — the root *aja gatikṣepaṇayoḥ*; in the Uṇādi there is the statement *bahula*, so the affix *man*, enjoined by "अर्तिस्तुसुहुसृधृक्षिक्षुभायावापदियक्षिनीभ्यो मन्" (Uṇ. Sū. 1-[140] [?]), comes here too; since an *ārdhadhātuka* beginning with a *val*-letter follows, the substitute *vī* for the root would have come by "अजेर्व्यघञपोः" (Pā. Sū. 2-4-[56]); but since "*valādāv ārdhadhātuke vikalpa iṣyate*" (Kā. 2-4-56 [?]) is stated, *vī* does not come here; the word *ajma*; since it is *nit*, by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+- **विथुरा** — explained under Ṛk 87.1 [as printed: "in the first Ṛk of this sūkta"].
+- **रेजते** — the root *rejṛ kampane*; *bhyasate rejate iti bhayavepanayoḥ* (Ni. [2-?] [?], Yāska — which shows that the word has the sense of fear as well); *laṭ*, third person singular; since it follows an *atiṅanta*, the *nighāta* accent.
+- **यामेषु** — the root *yamu uparame*; *ghañ* in the abstract sense, with *ñit*; so by "अत उपधायाः" the *vṛddhi* of the penultimate; the *ñit*-accent is set aside and by "कर्षात्वतो घञोऽन्त उदात्तः" the final acute would have come; since it is read in the list, by "वृषादीनां च" (Pā. Sū. 6-1-[203]) again the first syllable is acute. Or the root *yā prāpaṇe*, with the affix *man* by "अर्तिस्तुसु…", and since it ends in a *nit* affix the first syllable is acute; locative plural.
+
+---
+
+### Page 229 (PDF 244)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 229.)*
+
+*Vyākaraṇa-prakriyā of Rik 87.3, concluded from p. 228 (grammar, noted briefly):*
+
+- **युञ्जते** — the root *yujir yoge*, Rudhādi; *laṭ*, third person plural; since *yat* is in connexion, no *nighāta*; by the accent of the *vikaraṇa* the middle [syllable] is acute.
+- **शुभे** — the root *śubha dīptau*; in the passive, by "सम्पदादिभ्यः क्विप्" the affix *kvip*, since it is read there; the word *śubh*; dative singular; since it is *supara*, by "एकाचः" … the case-ending acute by "सावेकाचस्तृतीयादिः" (Pā. Sū. 6-1-[168]).
+- **पनयन्त** — the root *pana vyavahāre*; by "गुपूधूपविच्छिपणिपनिभ्य आयः" (*gupūdhūpavicchipaṇipanibhya āyaḥ*, Pā. Sū. 3-1-28) the affix *āya* in its own sense; by "सनाद्यन्ता धातवः" the root-status for what ends in *āya*; in the present sense, by "छन्दसि लुङ्लङ्लिटः" *laṅ*; by "व्यत्ययो बहुलम्" the shortening in *panāya*; in the third person plural, by "झोऽन्तः" the substitute *ant*; *śap*; by "अतो गुणे" the *pararūpa*; by "बहुलं छन्दस्यमाङ्योगेऽपि" the augment *aṭ* does not come; since it follows an *atiṅanta*, the *nighāta* accent.
+
+Closing of Rik 87.3: "॥ ३ ॥" (3), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.4)** *(Jagatī; Maruts; accents not reproduced)*
+
+> स हि स्वसृत्पृषदश्वो युवा गणोऽया ईशानस्तविषीभिरावृतः ।
+> असि सत्य ऋणयावानेद्योऽस्या धियः प्रावितथा वृषा गणः ॥ ४ ॥
+
+*sa hi svasṛt pṛṣadaśvo yuvā gaṇo 'yā īśānas taviṣībhir āvṛtaḥ | asi satya ṛṇayāvānedyo 'syā dhiyaḥ prāvitāthā vṛṣā gaṇaḥ ‖ 4 ‖*
+
+*Gloss, mine and tentative:* "For that host, self-moving, with spotted steeds, youthful, ruling over this [world], surrounded by powers, is true, a debt-remover, blameless; and the showering host protects this thought [prayer] of ours."
+
+---
+
+### Page 230 (PDF 245)
+
+*(Running head: "230 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.4)**
+
+> सः । हि । स्वऽसृत् । पृषत्ऽअश्वः । युवा । गणः । अया । ईशानः । तविषीभिः । आऽवृतः ।
+> असि । सत्यः । ऋणऽयावा । अनेद्यः । अस्याः । धियः । प्रऽअविता । अथ । वृषा । गणः ॥ ४ ॥
+
+*saḥ | hi | sva-sṛt | pṛṣat-aśvaḥ | yuvā | gaṇaḥ | ayā | īśānaḥ | taviṣībhiḥ | ā-vṛtaḥ | asi | satyaḥ | ṛṇa-yāvā | anedyaḥ | asyāḥ | dhiyaḥ | pra-avitā | atha | vṛṣā | gaṇaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.4)**
+
+> स हि स खलु मरुद्गणोऽया अस्य सर्वस्य जगत ईशान ईश्वरशीलो भवति । कीदृशः । स्वसृत् स्वयमेव सरन् । न ह्यन्यः कश्चिदस्य मरुद्गणस्य प्रेरकोऽस्ति । पृषदश्वः । पृषत्यः श्वेतबिन्दुभिरङ्किता मृग्योऽश्वस्थानीया यस्य स तथोक्तः । युवा नित्यतरुणः । तविषीभिरन्येषामसाधारणैर्बलैरावृतः परिवेष्टितः । सत्यः सत्कर्माहः । ऋणयावा स्तोतॄणामृणस्योपगमयिता । बहुलस्य धनस्य दातेत्यर्थः । अनेद्यः । प्रशस्यनामैतत् । सर्वैरनिन्दितः । वृषा जलानां वर्षिता । एवंभूतो मरुद्गणोऽस्या धियोऽस्मदीयस्य कर्मणोऽस्माभिः सम्पादितस्य कर्मण उत्थानानन्तरं प्राविताऽसि [sic: as printed] । प्रकर्षेण रक्षिता भवति ॥ अया । सुपां सुलुगिति षष्ठ्या याजादेशः । हलि लोपः (पा. ७-२-११३ [?]) इतीदम इद्रूपस्य लोपः । ईशानः । ईश ऐश्वर्ये । इत्यस्मात्ताच्छील्यकश्चानश् । तस्य लसार्वधातुकत्वाभावेन चित्स्वरेणान्तोदात्तत्वम् । अया ईशान इत्येषाम् अदादित्वात् प्रकृतिभावः [?] । असि । पुरुषव्यत्ययः । ऋणयावा । या प्रापण इत्यस्मादन्तर्भावितण्यर्थादातो मनिन्क्वनिब्वनिपश्चेति वनिप् । अनेद्यः । णिदि कुत्सायाम् । ऋहलोर्ण्यदिति ण्यत् । आगमानुशासनस्यानित्यत्वान्नुमभावे लघूपधगुणः । नञ्सुभ्यामित्यव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*sa hi sa khalu marudgaṇo 'yā asya sarvasya jagata īśāna īśvaraśīlo bhavati | kīdṛśaḥ | svasṛt svayam eva saran | na hy anyaḥ kaścid asya marudgaṇasya prerako 'sti | pṛṣadaśvaḥ | pṛṣatyaḥ śvetabindubhir aṅkitā mṛgyo 'śvasthānīyā yasya sa tathoktaḥ | yuvā nityataruṇaḥ | taviṣībhir anyeṣām asādhāraṇair balair āvṛtaḥ pariveṣṭitaḥ | satyaḥ satkarmārhaḥ | ṛṇayāvā stotṝṇām ṛṇasyopagamayitā | bahulasya dhanasya dātety arthaḥ | anedyaḥ | praśasyanāmaitat | sarvair aninditaḥ | vṛṣā jalānāṃ varṣitā | evaṃbhūto marudgaṇo 'syā dhiyo 'smadīyasya karmaṇo 'smābhiḥ sampāditasya karmaṇa utthānānantaraṃ prāvitā 'si [sic] | prakarṣeṇa rakṣitā bhavati ‖ ayā | supāṃ suluk iti ṣaṣṭhyā yājādeśaḥ | hali lopaḥ (Pā. 7-2-113 [?]) itīdama idrūpasya lopaḥ | īśānaḥ | īśa aiśvarye | ity asmāt tācchīlyakaś cānaś | tasya lasārvadhātukatvābhāvena citsvareṇāntodāttatvam | ayā īśāna ity eṣām adāditvāt prakṛtibhāvaḥ [?] | asi | puruṣavyatyayaḥ | ṛṇayāvā | yā prāpaṇa ity asmād antarbhāvitaṇyarthād āto maninkvanibvanipaś ceti vanip | anedyaḥ | ṇidi kutsāyām | ṛhaloṛ ṇyad iti ṇyat | āgamānuśāsanasyānityatvān numabhāve laghūpadhaguṇaḥ | nañsubhyām ity avyayapūrvapadaprakṛtisvaratvam ‖*
+
+*(Kannada script. In the printed bhāṣya the verb "asi" is carried into the explanation as "prāvitā 'si" — apparently mixing the second-person Ṛk text with the third-person gloss; noted [sic]. The sūtra-wording after* ayā īśāna *and the* anedyaḥ *rule are cramped and read with doubt [?].)*
+
+*Translation:* "That Marut host *ayā* — [lord of this whole world] — is *īśāna*, lordly by nature. Of what kind? *Svasṛt* — itself moving; for there is no one else who impels this Marut host. *Pṛṣadaśvaḥ* — whose horses are spotted does marked with white spots. *Yuvā* — ever young. *Taviṣībhiḥ āvṛtaḥ* — surrounded by powers, strengths not common to others. *Satyaḥ* — worthy of good deeds. *Ṛṇayāvā* — one who brings what is owed to those who praise; the giver of abundant wealth. *Anedyaḥ* — a name meaning 'praiseworthy': unblamed by all. *Vṛṣā* — the shower of waters. Being such, the Marut host *asyā dhiyaḥ* — of this work of ours, the rite done by us — protects it, after its rising [its performance], fully."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.4)** *(Kannada; begins at the foot of p. 230)*
+
+*svasṛt* — (without the help of others) moving by itself; *pṛṣadaśvaḥ* — having spotted does as the horses; *yuvā* — ever young; *taviṣībhiḥ* — (not obtainable from others) by strengths; *āvṛtaḥ* — surrounded on every side; *saḥ hi* — that very Marut host; *ayā* — of all this world; *īśānaḥ* — lord; *satyaḥ* — fit for good works; *ṛṇayāvā* — (to the devotees) one who removes by the gift of wealth; *anedyaḥ* — …
+
+---
+
+**Progress note:** Printed pp. 1–230 done (PDF 16–245) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.3 complete**; **Rik 87.4** — Saṃhitā, Pada, bhāṣya (with grammatical tail) done and the Pratipadārtha begun at the foot of p. 230; next: its remainder, Bhāvārtha, English, Special Topics and grammar, then 87.5–87.6. Next: printed p. 231 (PDF 246). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
