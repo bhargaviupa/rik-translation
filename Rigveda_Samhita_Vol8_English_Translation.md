@@ -2900,4 +2900,115 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–97 done (PDF 21–117): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.5 complete (96.5's grammar concluded on p. 94); Rik 96.6: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 94–96), and the Special Topics under way (*budhnaḥ*; *saṃgamano vasūnām*; *veḥ*; *manmasādhanaḥ*), breaking at the foot of p. 97 in the passage on *manmasādhanaḥ* at "…in the many contexts of Ṛ. 1-[?]-[?] … and others". Next: printed p. 98 (PDF 118). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–97) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.5 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5 and the Ṛgveda numerals throughout [?]; in 96.6 the bhāṣya's opening *yo 'gniṃ* (for *so 'gniḥ*) [?] and the Ṛgveda numerals of pp. 96–97 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 98 (PDF 118)
+
+*(Running head: left 98; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Special Topics of Rik 96.6, continued from p. 97**
+
+"…[the words] *manmanā*, *manmabhiḥ*, used in Ṛks, in the senses 'excellent, worshipful inclination of mind', here too mean 'desired goals belonging to the highest class': Agni is the one who accomplishes them."
+
+> यो नां यज्ञैः शशमानो ह दाशति कविर्होता यजति मन्मसाधनः ।
+> *yo nāṃ yajñaiḥ śaśamāno ha dāśati kavir hotā yajati manmasādhanaḥ |*
+> (*Ṛ. Saṃ.* 1-1[?]0-1 as read [?])
+
+*(Gloss, mine and tentative: "who, striving, gives to us with sacrifices; the poet, the Hotṛ, sacrifices — the accomplisher of wishes".)* "In *manmasādhanaḥ* in this Ṛk, too, the word *manma* is an epithet of the sacrificer who offers, meaning 'one who has excellent and worshipful materials'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.6)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+***rāyaḥ*** — the word *rai*; with the sixth-case *jas*… [as read] *ec* → *āy* by *eco 'yavāyāvaḥ* (Pā. 6-1-78 [?]); the case-ending acute by *ūḍidaṃ padādi* (Pā. 6-1-171 [?]). — ***saṃgamanaḥ*** — *sam* the preposition; root *gamḷ* (to go), of the *nandyādi* group; by *nandigrahipacādibhyo lyuṇinyacaḥ* (Pā. 3-1-134 [?]) *lyu* in the agent sense; *yuvor anākau* (Pā. 7-1-1 [?]) for *ana*; since it is *lit*-marked, the syllable before the suffix is acute by *liti* (Pā. 6-1-193 [?]); with *sam*, as a *gati*, *gatikārakopapadāt kṛt* (Pā. 6-2-139 [?]) gives the *kṛt*-compound accent. — ***yajñasya*** — root *yaja* (worship, union, giving); *naṅ* by *yajayācayatavichapracchaviśa…* (Pā. 3-3-90 [?]); *śnātvādi*: *ikārādeśa* [as read [?]]; the final acute by the suffix accent; the genitive singular. — ***manmasādhanaḥ*** — *manma* is *mananīya* (to be thought on); the one who accomplishes it, *sādhana*; *gatikārakopapadāt kṛt* gives the *kṛdanta*'s first-member accent. — ***veḥ*** — root *vī* (going and the rest), *Uṇādi* suffix *i*; because of its *ṭi*-elision, the form is *vi*; the genitive singular; by *ghe[r]ṅiti* (Pā. 7-3-111 [?]) guṇa, the earlier form. — ***rakṣamāṇāsaḥ*** — nominative plural; by *ājjaseḥ asuk* (Pā. 7-1-50 [?]) the *asuk* augment for *jas*; since it is *kit* it joins the end; the *s* becomes *ru* and *visarga*; the *śānac* is *cit*, but since the root has the *adupadeśa*, it is unaccented by *tāsyanudāttet* (Pā. 6-1-186 [?]), so the root's accent remains. ‖ 6 ‖
+
+### Page 99 (PDF 119)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 99.)*
+
+### Rik 7
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.7)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> नू च पुरा च सदनं रयीणां जातस्य च जायमानस्य च क्षाम् ।
+> सतश्च गोपां भवतश्च भूरेर्देवा अग्निं धारयन्द्रविणोदाम् ॥ ७ ॥
+
+*nū ca purā ca sadanaṃ rayīṇāṃ jātasya ca jāyamānasya ca kṣām | sataś ca gopāṃ bhavataś ca bhūrer devā agniṃ dhārayan draviṇodām ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.7)**
+
+> नु । च । पुरा । च । सदनम् । रयीणाम् । जातस्य । च । जायमानस्य । च । क्षाम् ।
+> सतः । च । गोपाम् । भवतः । च । भूरेः । देवाः । अग्निम् । धारयन् । द्रविणःऽदाम् ॥ ७ ॥
+
+*nu | ca | purā | ca | sadanam | rayīṇām | jātasya | ca | jāyamānasya | ca | kṣām | sataḥ | ca | gopām | bhavataḥ | ca | bhūreḥ | devāḥ | agnim | dhārayan | draviṇaḥ-dām ‖ 7 ‖*
+
+*(Reading note: the Saṃhitā's* nū *is the Pada's* nu*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.7)**
+
+> नू चेति निपातसमुदायोऽद्येत्यस्यार्थे । नू चिदिति निपातः पुराणनवयोर्नू चेति । नि. ४-१२ [?] । इति यास्कः । नू चाद्यास्मिन्काले पुरा च रयीणां सर्वेषां धनानां सदनमावासस्थानं जातस्योत्पन्नस्य कार्यजातस्य जायमानस्योत्पद्यमानस्य च क्षां निवासयितारं सतश्च सर्वत्र विद्यमानस्वभावस्य नित्यस्य चाकाशादेर्भवतश्च सद्भावं प्राप्नुवतो भूरेरसंख्यातस्यान्यस्य च भूतजातस्य गोपां गोपायितारं रक्षितारं द्रविणोदां धनप्रदं । एवंगुणविशिष्टमग्निं देवा धारयन् । हविर्वोढृत्वेन धारयन्ति ॥ नू च । ऋचि तुनुघेति दीर्घः । रयीणां । नामन्यतरस्यामिति नाम उदात्तत्वं । क्षां । क्षि निवासगत्योः । अस्मात्क्विप् । वृद्ध्यायादेशौ । ण्यन्ताक्त्विप् । णेरनिटीति णिलोपः । वेरपृक्तलोपापश्चलि लोपो बलीयानिति पूर्वं लोपो व्योर्वलीति यलोपः । न च णिलोपस्य स्थानिवत्त्वं । न पदान्तद्विर्वचनवरेयलोपेति प्रतिषेधात् । यद्वा । प्रै जै सै क्षये । अस्मात्क्वित्सुप् । आदेच उपदेश इत्यात्वं । शतः । अस्तेः शतर्यादित्वाच्छप्पो लुक् । श्नसोरल्लोप इत्यकारलोपः । शतुरनुम इति विभक्तेरुदात्तत्वं ॥
+> *nū ceti nipātasamudāyo 'dyety asyārthe | nū cid iti nipātaḥ purāṇanavayor nū ceti | ni. 4-12 [?] | iti yāskaḥ | nū cādyāsminn kāle purā ca rayīṇāṃ sarveṣāṃ dhanānāṃ sadanam āvāsasthānaṃ jātasyotpannasya kāryajātasya jāyamānasyotpadyamānasya ca kṣāṃ nivāsayitāraṃ sataś ca sarvatra vidyamānasvabhāvasya nityasya cākāśāder bhavataś ca sadbhāvaṃ prāpnuvato bhūrer asaṃkhyātasyānyasya ca bhūtajātasya gopāṃ gopāyitāraṃ rakṣitāraṃ draviṇodāṃ dhanapradaṃ | evaṃguṇaviśiṣṭam agniṃ devā dhārayan | havirvoḍhṛtvena dhārayanti ‖ nū ca | ṛci tunughety ādinā dīrghaḥ | rayīṇāṃ | nāmany atarasyām iti nāma udāttatvaṃ | kṣāṃ | kṣi nivāsagatyoḥ | asmāt kvip | vṛddhy-āyādeśau | ṇyantāt kvip | ṇer aniṭīti ṇilopaḥ | ver apṛktalopāpaścali lopo balīyān iti pūrvaṃ lopo vyor valīti yalopaḥ | na ca ṇilopasya sthānivattvaṃ | na padāntadvirvacanavareyalopeti pratiṣedhāt | yadvā | prai jai sai kṣaye | asmāt kvit sup | ādeca upadeśa ity ātvaṃ | sataḥ | astes śatary ādittvāt śapo luk | śnasor allopa ity akāralopaḥ | śatur anuma iti vibhakter udāttatvaṃ ‖*
+
+*Sense (mine, from the Kannada that follows):* "*Nū ca* is a cluster of particles in the sense of 'now' (*adya*). 'The particle *nū cit*' — '*purāṇanavayor nū ca*' (Ni. 4-12 [?]) says Yāska. *Nū ca* — now, in this time, and *purā ca*, formerly; of all riches (*rayīṇām*) the abode; of what is born (*jātasya*), of the whole class of effects, and of what is being born (*jāyamānasya*), of the settler (*kṣām*, 'the one who gives a dwelling'); of what is (*sataḥ*, the unchanging nature that exists everywhere, the eternal [elements] such as space) and of what is coming into being (*bhavataḥ*), of the many, innumerable, other creatures, the *gopā* — the protector, the guardian; the giver of wealth: Agni, endowed with such qualities, the gods hold, as the bearer of oblations." Tail (characterized): *nū ca* — lengthening by *ṛci tunughamakṣu…*; *rayīṇām* — the acute on *nām* by *nāmy atarasyām* [as read]; *kṣām* — root *kṣi* (to dwell, to go), with *kvip* — or, alternatively, from *prai*, *jai*, *sai* (to waste) with *kvit-sup*; *sataḥ* — root *as*, *śatṛ*, elision of *śap*, loss of the *a* by *śnasor allopaḥ*; the case-ending acute by *śatur anumo…*. *(The tail on* kṣām *is very compressed and is characterized only; numerals small and doubtful [?].)*
+
+### Page 100 (PDF 120)
+
+*(Running head: left 100; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+*(The grammatical tail of the bhāṣya of Rik 96.7 concludes at the head of this page: …*śatuḥ* — *ity ātvaṃ | sataḥ | asteḥ śatary ādittvāc chapo luk | śnasor allopa ity akāralopaḥ | śatur anuma iti vibhakter udāttatvaṃ ‖*, as given above.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*nū ca* — in the present time; *purā ca* — in the earlier time (that is, or was); *rayīṇāṃ* — of all riches; *sadanaṃ* — the abode; *jātasya ca* — of what has been born; *jāyamānasya ca* — and of all creatures that are to be born later; *kṣām* — the place of dwelling; *sataś ca* — of space and the like that exist at all places and times; *bhavataś ca* — of those that arise (not beginningless); *bhūreḥ* — of the other innumerable creatures; *gopām* — the protector; *draviṇodām* — the giver of wealth; *agniṃ* — Agni; *devāḥ* — the gods; *dhārayan* — (as the one who distributes the oblations) set (in the office of messenger)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The gods have set, in the office of messenger who distributes oblations, Agni — who is the abode of all riches present, past and future; the place of dwelling for all creatures, past and about to be born; the protector of space and the other [eternal] beings that exist in all places and times without beginning, and of the innumerable other beings; and the giver of wealth."
+
+**English Translation (as printed)**
+
+> The gods retain Agni as the giver of (sacrificial) wealth, who now is, and heretofore has been, the abode of riches, the receptacle of all that has been, and all that will be, born, and the preserver of all (that) exists, (as well as of all) that are coming into existence.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.7 (Kannada)**
+
+***nū ca*** — *nipātasamudāyaḥ adya ity asyārthe | asmin kāle*: "'a cluster of particles, in the sense of *adya*, "today"', 'in this time': 'now', these particles are used in the sense of 'new', as 'what is new', and also in the sense of 'old' (*prācīna*, 'ancient'): *nū cid iti nipātaḥ purāṇanavayor nū ceti* ('the particle *nū cit*, in the sense of old and new, as *nū ca*'): in both senses these particles are used, 'old' and 'new', 'former' and 'present' (Ni. 4-12 [?]); so the Nirukta-author gives illustrative sentences from the Ṛksaṃhitā and explains them:" *(continues on p. 101)*
+
+### Page 101 (PDF 121)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 101.)*
+
+> अद्या चिन्नू चित्तदपो नदीनां यदाभ्यो अरदो गातुमिन्द्र ।
+> *adyā cin nū cit tad apo nadīnāṃ yad ābhyo arado gātum indra |*
+> (*Ṛ. Saṃ.* 6-30-3 as read [?])
+
+"In this Ṛk *nū cit* means 'as before': the flow of the rivers even now, and in the past, is of one kind, since Indra has regulated it: thus the might of Indra is praised. The Nirukta-author, quoting also the Ṛk 1-[?]-3 of the present context, gives the meaning of *nū ca* used in it as 'now', for *adya ca*: so both senses 'previously' and 'now' are given in the explanation. In many places the word is used also in the sense of 'quickly' (*śīghra*) —"
+
+> नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
+> *nū marto dayate saniṣyan yo viṣṇava urugāyāya dāśat |*
+> (*Ṛ. Saṃ.* 2-1[?]-1 as read [?])
+
+"Here *nu* means 'quickly'. In the same way in Ṛks 1-[?]-1; 1-[?]-1; 1-10[4]-3 and others the word is used in this sense. And also, in the sense of prohibition, the word *nū* is used —"
+
+> नू चित्स भ्रेषते जनो न रेषन्मनो यो अस्य घोरमाविवासात् ।
+> *nū cit sa bhreṣate jano na reṣan mano yo asya ghoram āvivāsāt |*
+> (*Ṛ. Saṃ.* 2-[?]0-6 as read [?])
+
+> नू चिद्धि परिमम्नाथे अस्मान्ना वां शश्वद्भिर्वव्रृतीय वाजैः ।
+> *nū cid dhi parimamnāthe asmān nā vāṃ śaśvadbhir vavṛtīya vājaiḥ |*
+> (*Ṛ. Saṃ.* 2-[?]3-6 as read [?])
+
+*(Glosses, mine and tentative: "never does that man come to harm, who attends upon his [the god's] terrible mind"; "you two do not neglect us at all; let me turn you hither with constant strengthening offerings". The two quotations are read from small, partly clotted print [?].)* "In all these, *nū cit* means 'not at all', that is a prohibition or negation."
+
+***kṣām*** — *kṣiyater nivāsakarmaṇaḥ* (Ni. 2-[?]): "from the root *kṣi*, which gives the sense of 'dwelling' this form is derived: 'the place of dwelling'."
+
+***jātasya jāyamānasya ca kṣām*** — "since Agni is ever young, and since he is at the root of food and is the establisher of all beings, Agni is the support of all that has been born and that will be born; he is not that alone —"
+
+> अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
+> प्रिया पदानि पश्वो नि पाहि विश्वायुरग्ने गुहा गुहं गाः ॥
+> *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+> *priyā padāni paśvo ni pāhi viśvāyur agne guhā guhaṃ gāḥ ‖*
+> (*Ṛ. Saṃ.* 1-67-3 and 6 as read [?])
+
+*(Gloss, mine and tentative: "like the unborn, he upheld the earth; he propped the sky with true mantras; guard the dear places of the cattle, Agni, all-living, [you who] go from cave to cave".)* "— as is said in praise of his greatness, that he is the upholder of the earth and the atmosphere and the guardian of all that arises in them, so it is described here."
+
+***sataś ca bhavataś ca gopām*** — "'The protector of space and the other [elements] that exist at all times and places, and of all beings that arise step by step.'"
+
+---
+
+**Progress note:** Printed pp. 1–101 done (PDF 21–121): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.6 complete (96.6's Special Topics concluded on p. 98, grammar on p. 98); Rik 96.7: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done (pp. 99–100) and the Special Topics under way (*nū ca*; *kṣām*; *jātasya jāyamānasya ca kṣām*; *sataś ca bhavataś ca gopām*), at the foot of p. 101. Next: printed p. 102 (PDF 122). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–101) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.6 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, and the Ṛgveda numerals throughout [?]; in 96.7 the compressed tail on *kṣām* [?] and the clotted Ṛgveda quotations on p. 101 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
