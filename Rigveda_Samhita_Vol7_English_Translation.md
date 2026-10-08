@@ -5335,4 +5335,92 @@ Closing of Rik 85.12: "॥ १२ ॥" (12). *(The print has no separate closing
 
 ---
 
-**Progress note:** Printed pp. 1–194 done (PDF 16–209) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): heading, Sanskrit introduction and Anuvāda done; **Rik 86.1** done through the Special Topics and the first two entries of its grammar page (p. 194; continues on p. 195). Next: printed p. 195 (PDF 210). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 195 (PDF 210)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 195.)*
+
+*Vyākaraṇa-prakriyā of Rik 86.1, continued from p. 194 (grammar, noted briefly):*
+
+- **विमहसः** — *viśiṣṭaṃ mahaḥ (tejaḥ) yeṣāṃ te vimahasaḥ*; in the vocative plural too the form *vimahasaḥ*; by "आमन्त्रितस्य च" the *nighāta* accent.
+- **सुगोपातमः** — *śobhano gopā rakṣako yasya saḥ sugopāḥ* (one who has capable protection); *atiśayena sugopāḥ sugopātamaḥ*: by "अतिशायने तमबिष्ठनौ" (*atiśāyane tamabiṣṭhanau*) the affix *tamap*; since it is *pit*, by "अनुदात्तौ सुप्पितौ" (*anudāttau suppitau*) it is unaccented; when *sugopāḥ* is a *bahuvrīhi* compound, by "नञ्सुभ्याम्" (Pā. Sū. 6-2-[172]) the final-syllable accent of the latter member alone remains; the *ā* after *p* is acute.
+
+Closing of Rik 86.1: "॥ १ ॥" (1), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.2)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> यज्ञैर्वा यज्ञवाहसो विप्रस्य वा मतीनाम् ।
+> मरुतः शृणुता हवम् ॥ २ ॥
+
+*yajñair vā yajñavāhaso viprasya vā matīnām | marutaḥ śṛṇutā havam ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "Whether by sacrifices, O bearers of the sacrifice, or by the sage's thoughts [praises] — O Maruts, hear the call."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.2)**
+
+> यज्ञैः । वा । यज्ञऽवाहसः । विप्रस्य । वा । मतीनाम् ।
+> मरुतः । शृणुत । हवम् ॥ २ ॥
+
+*yajñaiḥ | vā | yajña-vāhasaḥ | viprasya | vā | matīnām | marutaḥ | śṛṇuta | havam ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.2)** *(begins at the foot of p. 195)*
+
+> हे यज्ञवाहसो यज्ञस्य वोढारो मरुतो यूयं यज्ञैर्वा । वाशब्दः समुच्चये । यज्ञैश्च यजमानस्य मतीनां स्तुतीनां सम्बन्धिनो विप्रस्य वा यजमानस्य मेधाविनश्च हवमाह्वानं शृणुत । यज्ञवतो यजमानस्य यागरहितस्य स्तोतुश्चाह्वानमवश्यं भवद्भिः श्रोतव्यं यतो भवन्तो यज्ञस्य वोढारः स्तुतिप्रियाश्चेति भावः …
+
+*he yajñavāhaso yajñasya voḍhāro maruto yūyaṃ yajñair vā | vāśabdaḥ samuccaye | yajñaiś ca yajamānasya matīnāṃ stutīnāṃ sambandhino viprasya vā yajamānasya medhāvinaś ca havam āhvānaṃ śṛṇuta | yajñavato yajamānasya yāgarahitasya stotuś cāhvānam avaśyaṃ bhavadbhiḥ śrotavyaṃ yato bhavanto yajñasya voḍhāraḥ stutipriyāś ceti bhāvaḥ …*
+
+---
+
+### Page 196 (PDF 211)
+
+*(Running head: "196 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+*Bhāṣya of Rik 86.2 and its grammatical tail, continued from p. 195 (Kannada script; the tail is in small compressed type, characterized; sūtras read are in three layers, numerals [?]):*
+
+> …स्तुतिप्रियाश्चेति भावः ॥ यज्ञवाहसः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं चेति वचनाद् वहिहाधाञ्भ्यश्छन्दसीति कारकपूर्वाद्वहतेरसुन् । चिदित्यनुवृत्तेरुपधावृद्धिः [?] । मतीनाम् । मन ज्ञाने । अस्मात्स्त्रियां क्तिन् । नामन्यतरस्यामिति नाम उदात्तत्वम् । शृणुत । श्रुवः शृ च । सति शिष्टस्य स्वरबलीयस्त्वमन्यत्र विकरणेभ्य इति वचनात्तृज एव स्वरः शिष्यते । मरुत इत्यस्यामन्त्रितस्यामन्त्रितं पूर्वमविद्यमानवदित्यविद्यमानवत्त्वेन पदादपरत्वान्निघाताभावः । हवम् । भावेऽनुपसर्गस्येति ह्वयतेरप् सम्प्रसारणं च ॥
+
+*…stutipriyāś ceti bhāvaḥ ‖ yajñavāhasaḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ceti vacanād vahihādhāñbhyaś chandasīti kārakapūrvād vahater asun | cid ity anuvṛtter upadhāvṛddhiḥ [?] | matīnām | mana jñāne | asmāt striyāṃ ktin | nāmany atarasyām iti nāma udāttatvam | śṛṇuta | śruvaḥ śṛ ca | sati śiṣṭasya svarabalīyastvam anyatra vikaraṇebhya iti vacanāt tṛja eva svaraḥ śiṣyate | maruta ity asyāmantritasyāmantritaṃ pūrvam avidyamānavad ity avidyamānavattvena padād aparatvān nighātābhāvaḥ | havam | bhāve 'nupasargasyeti hvayater ap saṃprasāraṇaṃ ca ‖*
+
+*(The sūtra wordings are given as read; "cid ity anuvṛtter upadhāvṛddhiḥ" and "tṛja eva svaraḥ" are read with doubt [?].)*
+
+*Translation:* "…that is the idea: O Maruts, you are the bearers of the sacrifice, and fond of praise; therefore you must hear the call both of the sacrificer who has a sacrifice and of the praiser who has none. *Grammar tail, noted briefly:* *yajñavāhasaḥ* — by the statement that the first member of a compound with a *gati* or *kāraka* keeps its base accent, and by "vahihādhāñbhyaś chandasi" the affix *asun* after *vah* preceded by a *kāraka*; the lengthening of the penultimate; *matīnām* — *mana jñāne*, with *ktin* in the feminine; *nām* acute by "nāmany atarasyām"; *śṛṇuta* — *śruvaḥ śṛ ca*, the *śnu*-*vikaraṇa* with the substitute *śṛ* for the root; the accent of the *vikaraṇa* alone remains by the stated rule; *maruta* — since *āmantrita* before an *āmantrita* is as if non-existent, there is no *nighāta*; *havam* — *hvayati* with *ap* in the abstract sense, and *saṃprasāraṇa*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.2)** *(Kannada)*
+
+*yajñavāhasaḥ* — those who carry the sacrifice; *marutaḥ* — O Maruts; *yajñaiḥ vā* — (you, the sacrificers endowed with sacrifices) or; *matīnām* — of those who recite praises; *viprasya vā* — (even without sacrifices) the devotee, the wise man; *havam* — the invocation; *śṛṇuta* — hear.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.2** *(Kannada)*
+
+"O Maruts, you are the bearers of the sacrifice and fond of praise; therefore listen with equal affection to the invocation of your devotee — the sacrificer who performs the sacrifice, and the reciter of praises other than the sacrificer."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, bearers of oblations, hear the invocations of the praises of the worshipper with or without sacrifices." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.2)**
+
+- **यज्ञवाहसः** — "those who carry out the sacrifice; priests who bear a share in sacrifices."
+- **मतीनाम्** — *stutīnām* — "connected with praises; those who are invoked by praises."
+- **यज्ञैर्वा** — "the sacrificer who performs a sacrifice, or one who performs an invocation in the same way without a sacrifice: the word *vā* indicates the sense that attention should be given to both."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.2)** *(grammar page, noted briefly; begins here)*
+
+- **यज्ञवाहसः** — "गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च" (the statement, Uṇ. Sū. 4-[222] [?]): since the *kāraka* *yajña* stands as the first member, the affix *asun* comes after the root *vah* by "वहिहाधाञ्भ्यश्छन्दसि" (*vahihādhāñbhyaś chandasi*) *(continues on p. 197)*
+
+---
+
+### Page 197 (PDF 212)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 197.)*
+
+*Vyākaraṇa-prakriyā of Rik 86.2, continued from p. 196 (grammar, noted briefly):*
+
+- **यज्ञवाहसः** (cont.) — (Uṇ. Sū. 4-[222]) — the affix *asun* after the root *vah*; by "वसेर्णित्" (Uṇ. Sū. 4-[232] [?]) the *ṇit* is carried on, so the affix *asun* is *ṇit*, and *vṛddhi* comes to the root; then by "अत उपधायाः" the lengthening of the penultimate of the root; the word *yajñavāhas*; in the vocative plural: *yajñavāhasaḥ*; by "आमन्त्रितस्य च" the *nighāta* accent.
+- **मतीनाम्** — the root *mana jñāne*; by "स्त्रियां क्तिन्" (*striyāṃ ktin*) the affix *ktin* in the sense of instrument; with *mati + nām*, by "अनुदात्तोपदेशवनतितनोत्यादीनाम्…" (Pā. Sū. 6-4-[37]) the nasal *n* of the root is dropped; in the genitive plural, by "ह्रस्वनद्यापोर्नुट्" (*hrasvanadyāpor nuṭ*) the augment *nuṭ* for *ām*; by "नामि" (*nāmi*) the lengthening of the preceding vowel: *matīnām*; by "नामन्यतरस्याम्" (Pā. Sū. 6-1-[177]) the case-ending *nām* is acute.
+- **शृणुत** — the root *śru śravaṇe*; *loṭ*, second person plural; because it is *laṅ*-like [*ṅit*], by "तस्थस्थमिपां तान्तन्तामः" the substitute *ta*; by "श्रुवः शृ च" (Pā. Sū. 3-1-[74]) the *śnu* *vikaraṇa* and the substitute *śṛ* for the root *śru*; for *śap*, the *śnu*-*vikaraṇa*; by "सार्वधातुकमपित्" the *ṅit*-ness, so no *guṇa* for the *u*; by the rule "सति शिष्टस्वरबलीयस्त्वमन्यत्र विकरणेभ्यः" the accent of the *vikaraṇa* is set aside, so the accent of the *tiṅ* ending remains; the word has a final acute; although it follows an *atiṅanta* it would have the *nighāta*; however, since *maruta* is an *āmantrita*, by "आमन्त्रितं पूर्वमविद्यमानवत्" the earlier word *āmantrita* is taken as non-existent, so that there is no previous word before *pada* (the *pada* does not come after) and the *nighāta* does not apply.
+- **हवम्** — the root *hveñ spardhāyāṃ śabde ca*; by "भावेऽनुपसर्गस्य" (Pā. Sū. 3-3-[75]) the affix *ap* in the abstract sense and *saṃprasāraṇa*; by "सम्प्रसारणाच्च" the earlier form for the vowel of the root; *hu + a*, by "सार्वधातुकार्धधातुकयोः" the *guṇa*; *av*-substitution; since *ap* is *pit*, unaccented; the root's accent remains.
+
+Closing of Rik 86.2: "॥ २ ॥" (2), followed by a printer's ornament.
+
+---
+
+**Progress note:** Printed pp. 1–197 done (PDF 16–212) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1 and 86.2 complete.** Next: Rik 86.3 at printed p. 198 (PDF 213). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
