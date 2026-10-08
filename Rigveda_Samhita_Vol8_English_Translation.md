@@ -1165,4 +1165,113 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–33 done (PDF 21–53): Sūkta 95, Riks 95.1–95.5 complete (95.5's Special Topics on pp. 29–31 with the Nirukta explanation, grammar on pp. 31–32); Rik 95.6: Saṃhitā, Pada and the first part of the bhāṣya (p. 33), breaking at the foot of p. 33 at "…*yam agniṃ dakṣiṇata āhavanīyasya dakṣiṇabhāge 'vasthitā…*". Next: printed p. 34 (PDF 54). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.5 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the whole clotted comment on p. 29 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta (9-15, 8-14), Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.5 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.5 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation (read *pratyakte … pratyāsevete* on p. 30; p. 28's *pratyekte … pratyāsenete* is the same passage) and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the opening of the bhāṣya of 95.6 (*yathaivaiḥ svakīyaiś ca vatsair ādarātiśayena*) [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
+### Page 34 (PDF 54)
+
+*(Running head: left 34; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Sāyaṇa-bhāṣya of Rik 95.6, continued from p. 33**
+
+> …ऋत्विजो हविर्भिश्चरुपुरोडाशादिभिरञ्जन्ति । आर्द्रीकुर्वन्ति तर्पयन्ति । सोऽग्निरिति पूर्वेणान्वयः ॥ वाश्राः । वाश्र शब्दे । स्थायितेत्यादिना रक् [?] । एवैः । इण् गतौ । इण्शीङ्भ्यां वन्निति भावे वन्प्रत्ययः ॥
+> *…ṛtvijo havirbhiś caru-puroḍāśādibhir añjanti | ārdrīkurvanti tarpayanti | so 'gnir iti pūrveṇānvayaḥ ‖ vāśrāḥ | vāśra śabde | sthāyitety ādinā rak [?] | evaiḥ | iṇ gatau | iṇśīṅbhyāṃ vann iti bhāve vanpratyayaḥ ‖*
+
+*Sense (mine, from the Kannada):* "…the priests, with oblations — *caru*, *puroḍāśa* and the rest — *añjanti*: they moisten (*ārdrīkurvanti*), they gratify. That Agni — so it is connected with the earlier [part]." Tail: *vāśrāḥ* — root *vāśṛ* (to sound), with the suffix *rak* by the Uṇādi rule beginning *sthāyi…* [the word read as printed [?]]; *evaiḥ* — root *iṇ* (to go), the suffix *van* in the sense of the action by *iṇśīṅbhyāṃ van* (Uṇ. [?] [?]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*bhadre* — (the two) with auspicious limbs; *mene* — the two women; *joṣayete na* — like [the two] serving (with fly-whisks and the like, on both sides) a king; *vāśrāḥ* — (from affection) making sounds; *gāvaḥ* — the cows; *evaiḥ* — with an excess of regard; *upa tasthuḥ* — approach and tend (their calves), as also; *ubhe* — day and night, both, or both heaven and earth, or the two fire-sticks (they serve Agni on both flanks); *yaṃ* — whichever Agni; *dakṣiṇataḥ* — on the right-hand side (of the Āhavanīya) [the priests who are there]; *havirbhiḥ* — with *caru*, *puroḍāśa* and the like; *añjanti* — (they honour) they anoint; *saḥ* — that Agni; *dakṣāṇāṃ* — of all the kinds of strength; *dakṣapatiḥ* — the capable lord; *babhūva* — has become."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Just as two women of auspicious limbs serve a king on both sides with fly-whisks, out of devotion; and just as cows, lowing from affection, approach their calves and tend them with regard — so the day and the night, the two that are auspicious for the world, serve Agni on both flanks. The Agni whom the priests who stand on the south side of the Āhavanīya honour, anointing him with *caru*, *puroḍāśa* and the like, has become the capable lord of every kind of strength, and of every enemy."
+
+**English Translation (as printed)**
+
+> Both the auspicious ones ( day and night ) wait upon him like two female attendants, as lowing cows (follow their calves) by the paths (that they have gone) ; he has been the lord of might among the mighty, whom ( the priests) on the right (of the altar) anoint.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.6 (Kannada)**
+
+"In this description beauty, fear and devotion, affection (*vātsalya*), and fidelity to the rite are mingled together. The service of Agni by the day and night, or by heaven and earth, is likened to the service of a king by beautiful women with auspicious limbs, and to the way cows tend their calves with affection. By praising the fidelity of the priests to the rite, the glory of Agni is described."
+
+### Page 35 (PDF 55)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 35.)*
+
+***bhadre*** — *bhadraṃ bhagena vyākhyātaṃ | bhajanīyaṃ bhūtānām abhidravaṇīyaṃ bhavati …* [clotted [?]] *iti vā bhājanavad vā* (Ni. 4-9 [?]): "'*bhadra* has been explained through *bhaga*': the word *bhadra* is used in the senses 'bringing welfare' or 'auspicious'. To explain further: it is used in the senses of that which is fit for enjoyment (*bhoga*); that which is highly desired by creatures; or that which gives pleasant enjoyment, or that which is proper to one who has fitness. The Nirukta-author, in explaining this word, gives its sense, suited to the context, with an example of a scriptural sentence. In the Ṛksaṃhitā —"
+
+> अत्रा सखायः सख्यानि जानते भद्रैषां लक्ष्मीर्निहिताधि वाचि ।
+> *atrā sakhāyaḥ sakhyāni jānate bhadraiṣāṃ lakṣmīr nihitādhi vāci |*
+> (*Ṛ. Saṃ.* 10-71-2 as read)
+
+*(Gloss, mine and tentative: "here friends know their friendships; their good fortune is laid in speech".)* "— in explaining the word *bhadra* in this sentence they give the sense *maṅgalātmaka*, 'auspicious in nature'. In the same way here too, for the word *bhadre* [Sāyaṇa gives] *bhajanīye śobhanāṅgyau* — 'adorable, of fair limbs' — as an epithet of the two beautiful women. Or, making the word *bhadre* an epithet of *ubhe*, one can construe 'the auspicious day and night, or heaven and earth': that is the view of Skandasvāmin. In his explanation it reads: '*ubhe dyāvāpṛthivyau bhadre kalyāṇyau joṣayete*', 'the two, heaven and earth, the two auspicious ones, serve'."
+
+***mene*** — *menā gnā iti strīṇām | menā mānayanty enāḥ* (Ni. 3-21 [?]): "*menā* and *gnā* are words for women: 'they are called *menā* because men honour them' — so the Nirukta explains. Therefore *mene* here can be said to mean 'two fair women worthy of honour'."
+
+***joṣayete na*** — *sevete iva | yathā śobhane striyau cāmarahaste rājānam ubhayataḥ sevete evaṃ dyāvāpṛthivyāv enam agnim ubhayataḥ sevete*: "'they serve, as it were: just as two fair women with fly-whisks in hand serve a king on both sides, so heaven and earth serve this Agni on both sides' — such is the idea: standing on both sides they serve."
+
+***vāśrāḥ*** — *vāśṛ śabde*: "from the root *vāś* meaning 'to make a sound' it has come. But generally the word *vāśrāḥ* is used, more than anywhere, as an epithet of cows who make sounds from affection for their calves. Wherever this simile is to indicate affection, love for the young, it comes to be of this one pattern. For example —"
+
+> वाश्रेव विद्युन्मिमाति वत्सं न माता सिषक्ति ।
+> *vāśreva vidyun mimāti vatsaṃ na mātā sisakti |*
+> (*Ṛ. Saṃ.* 1-38-8 as read)
+
+### Page 36 (PDF 56)
+
+*(Running head: left 36; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+> आर्वाची सा मरुतो या व ऊतिरो षु वाश्रेव सुमतिर्जिगातु ।
+> *ārvācī sā maruto yā va ūtir o ṣu vāśreva sumatir jigātu |*
+> (*Ṛ. Saṃ.* 2-34-15 as read)
+
+> गाव इव ग्रामं यूयुधिरिवाश्वान्वाश्रेव वत्सं सुमना दुहाना ।
+> *gāva iva grāmaṃ yūyudhir ivāśvān vāśreva vatsaṃ sumanā duhānā |*
+> (*Ṛ. Saṃ.* 10-149-4 as read)
+
+*(Glosses, mine and tentative: "may that help of yours, Maruts, which is [near], come hither, like a lowing cow, your kindly thought"; "like cows to their village, like a fighter [to] horses, like a lowing [cow] giving milk, kindly, to her calf".)*
+
+"In all these contexts, too, the word *vāśrāḥ* is used as an epithet of cows full of the love of the young, 'those who give out a lowing sound' (*haṃbhāravaṃ kurvatyaḥ gāvaḥ*). Here also, since this simile is given, the affection of heaven and earth for the son in Agni is expressed. For example —"
+
+> स रोचयञ्जनुषा रोदसी उभे स मात्रोरभवत्पुत्र ईड्यः ।
+> *sa rocayaj januṣā rodasī ubhe sa mātror abhavat putra īḍyaḥ |*
+> (*Ṛ. Saṃ.* 3-2-2 as read)
+
+> अग्ने दिवः सूनुरसि प्रचेतास्तना पृथिव्या उत विश्ववेदाः ।
+> *agne divaḥ sūnur asi pracetās tanā pṛthivyā uta viśvavedāḥ |*
+> (*Ṛ. Saṃ.* 3-25-1 as read)
+
+*(Glosses, mine and tentative: "he made both the worlds shine by his birth; he became the praiseworthy son of both mothers"; "Agni, you are the son of heaven, of wide understanding, and of the earth also, all-knowing".)*
+
+"In such contexts it is said that Agni is the son, worthy of worship and the object of trust, of heaven and earth; therefore it is fitting that here the comparison is with the affection of cows who have the love of offspring."
+
+"Or, if the word *ubhe* is interpreted as day and night, it is the same:"
+
+> द्वे विरूपे चरतः स्वर्थे अन्यान्या वत्समुपधापयेते ।
+> *dve virūpe carataḥ svarthe anyānyā vatsam upadhāpayete |*
+> (*Ṛ. Saṃ.* 1-95-1)
+
+"— by this Saṃhitā statement of the Ṛk and also by the sentences of the Taittirīya Āraṇyaka (1-10): '*tayor etau vatsau | agniś cādityaś ca | rātrer vatsaḥ | śveta ādityaḥ | ahno 'gniḥ*' ('these two are their calves: Agni and Āditya; the white Āditya is the calf of the night; Agni, of the day'), Agni is well known as the calf of day and night. Or, if for *ubhe* one takes *araṇī* ('the two fire-sticks') —"
+
+> उत स्म यं शिशुं यथा नवं जनिष्टारणी ।
+> *uta sma yaṃ śiśuṃ yathā navaṃ janiṣṭāraṇī |*
+> (*Ṛ. Saṃ.* 5-9-3 as read)
+
+> अतिथिं मानुषाणां सूनुं वनस्पतीनाम् ।
+> *atithiṃ mānuṣāṇāṃ sūnuṃ vanaspatīnām |*
+> (*Ṛ. Saṃ.* 8-31-[?] [?], as read)
+
+*(Glosses, mine and tentative: "whom the two fire-sticks begot, as it were a new-born child"; "the guest of men, the son of the trees".)* "— by such sentences Agni is said to be a son in whom the fire-sticks take pride. Therefore, whether *ubhe* is understood as heaven and earth, or day and night, or the two fire-sticks, this comparison suits the context quite appropriately."
+
+### Page 37 (PDF 57)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 37.)*
+
+***dakṣapatiḥ*** — *balādhipatiḥ | balānāṃ madhye yad atiśayitaṃ balaṃ tasyādhipatir babhūveti arthaḥ*: "'lord of strength': of the strengths, the one which is excessively great, he has become the lord of that — one extremely powerful: that is the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.6)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+***vāśrāḥ*** — root *vāśṛ* (to sound); the suffix *rak* by the Uṇādi rule *sthāy…* (Uṇ. 2-1[2]0 [?]); the form *vāśra*; for the feminine, *ṭāp* by *ajādyataṣṭāp*; the nominative plural. — ***tasthuḥ*** — root *ṣṭhā* (cessation of motion); *ṣa* → *sa* at the beginning by *dhātvādeḥ ṣaḥ saḥ*; *liṭ*, third person plural; *us* for the ending by *parasmaipadānāṃ ṇalatusus…*; reduplication of the root; in the reduplicate, *th* alone remains by *śarpūrvāḥ khayaḥ* (Pā. 7-4-61 [?]); by *āto lopa iṭi ca* (Pā. 6-4-64 [?]), the *ā* of the root is elided, the *us* being treated as *kit*; *nighāta*. — ***evaiḥ*** — root *iṇ* (to go); the suffix *van* in the sense of the action by *iṇśīṅbhyāṃ van* (Uṇ. 2-[?] [?]); guṇa of the root's vowel through *sārvadhātukārdhadhātukayoḥ*; the form *eva*; initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]); instrumental plural. — ***dakṣapatiḥ*** — 'lord of *dakṣa*': a genitive tatpuruṣa; the first member's natural accent by *patyāvaiśvaryo* [*patyāv aiśvarye*] (Pā. 6-2-18 [?]). — ***añjanti*** — root *añjū* (anointing, shining, going), *rudhādi*; *laṭ*, third person plural; *jhi* → *anti* by *jho 'ntaḥ*; *śnam* by *rudhādibhyaḥ śnam* (Pā. 3-1-78 [?]); since the stem is *atij* [as read] the nighāta is prohibited, so the root's accent stays; by the suffix's initial acute the word has its middle syllable acute. — ***dakṣiṇataḥ*** — in the sense 'from the south', the suffix *atasuc* by *dakṣiṇottarābhyām atasuc* (Pā. 5-3-28 [?]); elision of the *a* by *yasyeti ca*; since the suffix is *c*-marked, the final acute by *cito 'ntodāttaḥ* (Pā. 6-1-163 [?]; the print's *ṭit* is read as *cit* [?]). ‖ 6 ‖ *(Grammar page, noted briefly; numerals small and doubtful [?].)*
+
+*(A printer's ornament follows.)*
+
+---
+
+**Progress note:** Printed pp. 1–37 done (PDF 21–57): Sūkta 95, Riks 95.1–95.6 complete (95.6's Special Topics on pp. 34–37, grammar on p. 37). Next: printed p. 38 (PDF 58) — Rik 95.7 (Saṃhitā, Pada, bhāṣya…). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.5 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the whole clotted comment on p. 29 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta (9-15, 8-14, 4-9, 3-21), Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.6 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.6 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the opening of the bhāṣya of 95.6 (*yathaivaiḥ svakīyaiś ca vatsair ādarātiśayena*) and the Nirukta quotation on *bhadra* [?]; Ṛ. 8-31-[?] on p. 36 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
