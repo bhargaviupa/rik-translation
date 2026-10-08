@@ -1686,4 +1686,111 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–53 done (PDF 21–73): Sūkta 95, Riks 95.1–95.9 complete (95.9's Special Topics on pp. 50–52, grammar on pp. 52–53); Rik 95.10: Saṃhitā and the first line of the Pada (foot of p. 53). Next: printed p. 54 (PDF 74) — the rest of the Pada of 95.10, its bhāṣya, and Rik 95.11 to follow (the last Ṛk of Sūkta 95; then Sūkta 96 begins at printed p. 61 = PDF 81). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–53) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.9 (see the earlier notes; on p. 46 the Rigvedic quotation *gobhir yad īm anye…* [?] and Ni. 3-17, 10-46 [?]; the bhāṣya of 95.9, *svakīyair ātmīyais te* [?]; Ṛ. 1-143-8 and 6-8-2 on pp. 51–52 [?]); the Pada's *at-bhiḥ* in 95.8; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 54 (PDF 74)
+
+*(Running head: left 54; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha of Rik 95.10, concluded**
+
+> विश्वा । सनानि । जठरेषु । धत्ते । अन्तः । नवासु । चरति । प्रऽसूषु ॥ १० ॥
+> *viśvā | sanāni | jaṭhareṣu | dhatte | antaḥ | navāsu | carati | pra-sūṣu ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.10)**
+
+> धन्वन् नभसि गातुं गमनशीलमूर्मिमुदकसंघमयेऽग्निः स्रोतः कृणुते । स्रोतसा प्रवाहरूपेण युक्तं करोति । शुक्रैर्निर्मलैरूर्मिभिस्तैर्जलसंघैः क्षां भूमिमभि नक्षति । अभिव्याप्नोति । स्वतेजोभिरन्तरिक्षे जलसंघमुत्पाद्य तेन सर्वां भूमिमभिवर्षतीत्यर्थः । पश्चाद्विश्वा सर्वाणि सनानि । अन्ननामैतत् । सर्वाण्यन्नानि जठरेषु धत्ते । अवस्थापयति । तदर्थं नवासु वृष्ट्यनन्तरमुत्पन्नासु प्रसूषु सर्वेषामन्नानां प्रसवित्रीष्वोषधीषु पाकार्थमन्तश्चरति । मध्ये वर्तते । अन्तरवस्थितेन भौमाग्निना सर्वा ओषधयः पच्यन्ते ॥ धन्वन् । रवि रवि धवि गत्यर्थाः । इदित्त्वान्नुम् । कनिन्युवृषीत्यादिना कनिन् । सुपां सुलुगिति सप्तम्या लुक् । धन्वान्तरिक्षं धन्वन्त्यस्माद्आपः । इति यास्कः । नि. ५-५ [?] । नित्त्वादाद्युदात्तत्वं । गातुं । गाज् गतौ । कमिमनिजनीत्यादिना तुप्रत्ययः । ऊर्मिं । अर्तेरूचेति मिप्रत्ययः । नक्षति । नक्ष गतौ ॥
+> *dhanvan nabhasi gātuṃ gamanaśīlam ūrmim udakasaṃghamayeṃ 'gniḥ srotaḥ kṛṇute | srotasā pravāharūpeṇa yuktaṃ karoti | śukrair nirmalair ūrmibhis tair jalasaṃghaiḥ kṣāṃ bhūmim abhi nakṣati | abhivyāpnoti | svatejobhir antarikṣe jalasaṃghamutpādya tena sarvāṃ bhūmim abhivarṣatīty arthaḥ | paścād viśvā sarvāṇi sanāni | anna-nāmaitat | sarvāṇy annāni jaṭhareṣu dhatte | avasthāpayati | tadartham navāsu vṛṣṭyanantaram utpannāsu prasūṣu sarveṣām annānāṃ prasavitrīṣv oṣadhīṣu pākārtham antaś carati | madhye vartate | antaravasthitena bhaumāgninā sarvā oṣadhayaḥ pacyante ‖ dhanvan | ravi ravi dhavi gatyarthāḥ | iditvān num | kaninyuvṛṣītyādinā kanin | supāṃ suluk iti saptamyā luk | dhanvāntarikṣaṃ dhanvanty asmād āpaḥ | iti yāskaḥ | ni. 5-5 [?] | nittvād ādyudāttatvaṃ | gātum | gāj gatau | kamimanijanīty ādinā tuprattyayaḥ | ūrmim | arter ūceti miprattyayaḥ | nakṣati | nakṣa gatau ‖*
+
+*(Reading note: in the print's first line the word* ūrmim udakasaṃghamayeṃ *is read as* ūrmim udakasaṃghamayam *with the stray nasal as printed [?].)*
+
+*Sense (mine, from the Kannada that follows):* "*Dhanvan* — in the sky, Agni makes a *srotas* (stream, torrent) — a wave (*ūrmi*) of masses of water that moves; he makes it of the form of a flowing current. With those spotless waves — masses of water — he overspreads (*abhi nakṣati*) the earth (*kṣām*): the sense is that, having made, by his own radiances, a mass of water in the atmosphere, with it he rains on the whole earth. Then (*viśvā sanāni*, *sana* being a name for food) he places all the foods in the bellies, he establishes them; for this purpose he moves within (*antaś carati*) the plants, the 'newly born ones' arisen after the rain, the mothers of all foods, for their cooking: by the earthly fire that is within, all the plants are cooked." Tail: *dhanvan* — the roots *ravi*, *ravi*, *dhavi* mean going; *num* by the *i*-marker; *kanin* by *kaninyuvṛṣi…*; the locative ending elided by *supāṃ suluk*; Yāska: '*dhanva* is the atmosphere, since the waters flow from it' (Ni. 5-5 [?]); initial acute by *nit*; *gātum* — root *gāj* (going), the suffix *tu* by *kamimanijani…*; *ūrmim* — root *ṛ* (to go), the suffix *mi* by *arter ūca*; *nakṣati* — root *nakṣa* (going).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*agniḥ* — Agni) *dhanvan* — in the atmosphere; *gātum* — one whose nature is to move; *ūrmiṃ* — a mass of water; *srotaḥ* — in the form of a current (so that it flows); *kṛṇute* — he makes; *śukraiḥ* — with the spotless; *ūrmibhiḥ* — those masses of water; *kṣāṃ* — the earth; *abhi nakṣati* — he makes it be covered completely (with water). (Afterwards) *viśvā sanāni* — all the foods; *jaṭhareṣu* — in the bellies; *dhatte* — he places; (for that purpose) *navāsu* — (after the rain) the newly born; *prasūṣu* — in (all) the crops; *antaḥ carati* — he moves within."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Agni makes the mass of water which moves in the atmosphere flow in the form of a stream. With those spotless masses of water in the form of waves he makes the earth completely covered, as if drowned in water. Afterwards, placing all the foods in the bellies of the crops and the like, for their ripening he moves, after the rain, within all the crops that are newly born."
+
+### Page 55 (PDF 75)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 55.)*
+
+**English Translation (as printed)**
+
+> He causes the waters to flow in a torrent through the sky, and with those pure waves he inundates the earth ; he gathers all (articles of) food in the stomach, and for that purpose sojourns in the news-sprung [sic] parents (of the grain).
+
+*(The print's "news-sprung" is, no doubt, a misprint for "newly sprung".)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.10 (Kannada)**
+
+***dhanvan*** — "*ambaram, viyat, vyoma* and so on are read among the sixteen [?] names of the atmosphere (Ni. 1-[?]0 [?]); so *dhanvan* means 'atmosphere': *dhanva* is the atmosphere, 'from which the waters flow' (*dhanvanty asmād āpaḥ*): from here, the waters stream; the name *dhanva* is well known."
+
+> यः परस्याः परावतस्तिरो धन्वातिरोचते ।
+> *yaḥ parasyāḥ parāvatas tiro dhanvātirocate |*
+> (*Ṛ. Saṃ.* 10-[?]-2 as read [?])
+
+"— quoting this sentence, the Nirukta-author explains the derivation of the word *dhanva* (Ni. 5-[?] [?])."
+
+***ūrmiṃ*** — *ūrmir ūrṇoteḥ*: "'wave' is *ūrmi*, from the root *ūrṇu*, 'to cover, to overspread, to envelop': this is the opinion of the Nirukta-author (Ni. 5-[?] [?]); (the Uṇādi sūtra *arter ūca* is read, p. 4[?]4 [?]). As in the sense of the word 'wave' [*taraṅga*] (in Kannada), it is used also in the meaning 'mass of water', 'collection of water': the sense is 'a mass of water'."
+
+***kṣām*** — "*gauḥ, gnā, jmā* and so on, in the twenty-one names of the earth (Ni. 1-[?] [?]), so it means 'earth'. *kṣiyater nivāsakarmaṇaḥ* (Ni. 1-[?] [?]): from the root *kṣi*, which has the sense of dwelling, since everyone dwells on it, the earth has the name *kṣā*. *kṣām* — the earth, [accusative]."
+
+***abhi nakṣati*** — "*innati, nakṣati, ākṣāṇaḥ* and so on are read among the ten words of pervasion (Ni. 2-[?]0 [?]), so the word *abhi nakṣati* means 'pervades all round, overspreads'."
+
+> प्र पर्वता अनवन्त प्र गावः प्र ब्रह्माणो अभिनक्षन्त इन्द्रम् ।
+> *pra parvatā anavanta pra gāvaḥ pra brahmāṇo abhinakṣanta indram |*
+> (*Ṛ. Saṃ.* 8-4[?]-3 as read [?])
+
+> सरस्वतीं यां पितरो हवन्ते दक्षिणा यज्ञमभिनक्षमाणाः ।
+> *sarasvatīṃ yāṃ pitaro havante dakṣiṇā yajñam abhinakṣamāṇāḥ |*
+> (*Ṛ. Saṃ.* 10-[?]-5 as read [?])
+
+*(Glosses, mine and tentative: "the mountains, the cows, the priests have gone forward, approaching Indra"; "Sarasvatī, whom the fathers call, in the south, approaching the sacrifice".)* "In such contexts, *abhinakṣantaḥ*, *abhinakṣamāṇāḥ* mean 'standing all around': here too, the sense is that the water covers the whole earth."
+
+***sanāni*** — *annanāmaitat | sakalāny annāni*: "'a name for food: all foods', that is, all the best foods." *(continues on p. 56)*
+
+### Page 56 (PDF 76)
+
+*(Running head: left 56; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.10)** *(grammar pages, pp. 56–57, noted briefly; numerals small and doubtful [?])*
+
+***dhanvan*** — the roots *ravi*, *ravi*, *dhavi* mean going; since *i*-marked, *num* by *idito num dhātoḥ* (Pā. 7-1-58 [?]); *kanin* by *kaninyuvṛṣitakṣirājidhanvidhārya…* [as read, 'kanin yuvṛṣi…'] (Uṇ. 1-1[5]4 [?]); the stem *dhanvan*; with the locative singular following, the case-ending is elided by *supāṃ suluk* (Pā. 7-1-39 [?]); initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]); (Yāska, Ni. 5-[?]: *dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*, 'the waters flow from this'). — ***kṛṇute*** — root *kṛvi* (injuring, doing); explained in the 8th Ṛk of this sūkta. — ***gātum*** — root *gāj* (going); *tu* by *kamimanijanigā…* (Uṇ. [?] [?]); the form *gātu*; final acute by the suffix accent; accusative singular. — ***ūrmim*** — root *ṛ* (going); *mi* by *arter ūc ca* (Uṇ. 4-1[1]4 [?]); by the 'conjunction' with it, the root's *ṛ* becomes *ū*; *raparaḥ* by *uraṇ raparaḥ*, since the substitute stands in the place of an *ṛ*; the form *ūrmi*; final acute by the suffix accent; accusative singular *am*, with *ami pūrvaḥ* (Pā. 6-1-107 [?]) the earlier form as the single substitute. — ***nakṣati*** — root *nakṣa* (to go); *laṭ*, third person singular; *nighāta* after a verb-ending word. — ***viśvā*** — *viśvāni* in the neuter; in Vedic *śeś chandasi bahulam* (Pā. 6-1-70 [?]) elides *śi*. — ***dhatte*** — root *dhāñ* (to hold, nourish; *juhotyādi*); *laṭ*, third person singular; *ṭita ātmanepadānāṃ ṭere*; *śap* → *ślu* by *juhotyādibhyaḥ śluḥ*; doubling of the root by *ślau*; with *dhā + te*, the reduplicate is shortened (*hrasvaḥ*); *abhyāse carca* (Pā. 8-4-54 [?]) gives *jaś*; by *śnābhyastayor ātaḥ* (Pā. 6-4-112 [?]) the *ā* of the root is elided before *ṅit*; by *dadhas tathoś ca* (Pā. 8-2-38 [?]) the *dh* of the doubled root, which ends in a *jhaṣ*, takes *bhaṣ*-substitution before *t* and *th*; the earlier *dh* of the reduplicate becomes *d*; *khari ca* (Pā. 8-4-55 [?]) *carva*; the form *dhatte*; *nighāta*.
+
+### Page 57 (PDF 77)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 57.)*
+
+*Grammar of Rik 95.10, concluded (noted briefly):* ***prasūṣu*** — root *sūṅ*/*sūṅ prāṇiprasave* (to give birth); *divādi*; with *pra* as upapada *kvip*; the *s* of the first (reduplicate) *ṣatva*; since *kvip* is wholly elided, the root's accent stays; in the compound by *gatikārakopapadāt kṛt* the accent of the first member of the *kṛdanta* compound is retained (Pā. 6-2-139 [?]); the seventh-case plural. ‖ 10 ‖
+
+---
+
+### Rik 11
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.11)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> एवा नो अग्ने समिधा वृधानो रेवत्पावक श्रवसे वि भाहि ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ११ ॥
+
+*evā no agne samidhā vṛdhāno revat pāvaka śravase vi bhāhi | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.11)**
+
+> एव । नः । अग्ने । सम्ऽइधा । वृधानः । रेवत् । पावक । श्रवसे । वि । भाहि ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ११ ॥
+
+*eva | naḥ | agne | sam-idhā | vṛdhānaḥ | revat | pāvaka | śravase | vi | bhāhi | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 11 ‖*
+
+*(Reading note: the Pada, as printed, has* eva *where the Saṃhitā has* evā*;* māmahantām *is as in the Saṃhitā (compare Sūkta 94, 94.16, where the Pada read* mamahantām*).)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.11)** *(begun; continues on p. 58)*
+
+> हे पावक शोधकाग्ने समिधास्माभिर्दत्तत्वेन समिदादिद्रव्येणैवमुक्त-. प्रकारेण वृधानो वर्धमानः सन् रेवत् रयिमते धनयुक्ताय नोऽस्माकं श्रवसेऽन्नाय वि भाहि । विशेषेण दीप्यस्व । अस्माकं तादृशमन्नं प्रयच्छेत्यर्थः ।
+> *he pāvaka śodhakāgne samidhāsmābhir dattatvena samidādidravyeṇaivam ukta-prakāreṇa vṛdhāno vardhamānaḥ san revat rayimate dhanayuktāya no 'smākaṃ śravase 'nnāya vi bhāhi | viśeṣeṇa dīpyasva | asmākaṃ tādṛśam annaṃ prayacchety arthaḥ |*
+
+*(Sense, mine and tentative: "O Agni, the purifier, growing by the kindling-wood and other materials given by us, in the manner said, shine forth, specially, for our food (*śravase*) — which is possessed of wealth, *revat*: that is, give us such food.")*
+
+---
+
+**Progress note:** Printed pp. 1–57 done (PDF 21–77): Sūkta 95, Riks 95.1–95.10 complete (95.10's Special Topics on p. 55, grammar on pp. 56–57); Rik 95.11 (the last Ṛk of Sūkta 95; the udarka-refrain *tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ*): Saṃhitā, Pada, and the first lines of the bhāṣya (foot of p. 57), breaking at "…*asmākaṃ tādṛśam annaṃ prayaccheti arthaḥ*". Next: printed p. 58 (PDF 78) — the rest of the bhāṣya of 95.11, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar; then the Sūkta's end, and Sūkta 96 at printed p. 61 (PDF 81). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–57) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.10 (see the earlier notes; the print's first line of the 95.10 bhāṣya *ūrmim udakasaṃghamayeṃ* [?]; the Ṛgveda and Nirukta numerals of p. 55 [?]); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
