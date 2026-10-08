@@ -11802,6 +11802,83 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–415 done (PDF 16–430), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.3 done as far as the scan allows (92.3's last Special Topics and grammar page were on the missing p. 413); Rik 92.4 done through the English translation, which breaks at the foot of p. 415 ("…and as cattle —"). Next: printed p. 416 (PDF 431). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; the Nirukta numerals 12-7, 3-9, 2-20, 5-20, 2-7, 2-1 [?]; the Ṛgveda numerals 1-124-5 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini numerals 2-4-80, 7-1-5, 3-1-80, 7-1-58, 8-3-41, 6-1-163, 2-4-72, 6-4-81, 7-4-19, 5-3-111, 7-3-83, 7-1-3, 3-1-55, 1-1-47, 8-2-23, 6-1-193, 3-4-109, 3-3-57, 3-2-58, 6-4-73 [?]; Uṇādi 1-94 [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ* (print 'uṣasko…'), *caturhṛdīrgā…* and *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; the bhāṣya of 92.3: *dhārṣṭyenopetāḥ* and the *apasaḥ* derivation doubtful [?]; the bhāṣya of 92.4: *jagatpraśliṣṭāni*, *sthādhyikena*, *nṛns tūrvati*, the clause *uṣāḥ śāstroktam andhakāram* clotted [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4). "
+### Page 416 (PDF 431)
+
+*(Running head: left "416", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**English Translation of Rik 92.4, concluded** *(printed in English in the source)*
+
+"— hasten to their pastures, she speeds to the east, and, shedding light npon [sic] all the world dissipates the darkness." — as printed (so the whole reads: "Ushas cuts off the accumulated glooms as a barber cuts off the hair ; she bares her bosom as a cow yeilds her udder to the milker ; and as cattle hasten to their pastures, she speeds to the east, and, shedding light npon all the world dissipates the darkness.").
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.4)** *(Kannada)*
+
+***nṛtoḥ iva*** — "In this simile two kinds of meaning arise: the removal of a blemish, and the display of beauty. The first: *nṛtūḥ* means *nṝn tūrvati keśena riktīkarotīti nṛtūr nāpitaḥ* [as read, doubtful [?]]: because he cuts all the hair of men completely, the barber is called *nṛtū*, *nāpita*."
+
+***vapate*** — *chinatti* | "She cuts off. As a barber cuts the hair of the head, so the Uṣas too *peśāṃsi* — the dark glooms that cover the world — *adhi vapate*, destroys completely. In this sense it is that she displays beauty through the removal of blemish."
+
+"The second: *nṛtoḥ iva* — *nṛtyantī yoṣid iva*: as a beautiful woman who dances makes ready her *peśāṃsi*, her charming forms and graces, so the Uṣas too *adhi vapate* — acquires her charming beauty, spreading her radiance all around — this is the meaning."
+
+***usrā*** — "Since *āhnayaḥ, usrā* and the like are read among the names of the cow (Ni. 2-9 [?]), *usrā* means 'cow'. *usrā viśo 'syāṃ bhogāḥ* [as read, clotted [?]]: because they hold flowing milk that is a means of comfort, the cow has the name *usriyā*."
+
+***barjaham*** — *prāṇināṃ bharaṇasamarthatvāt bas iti kṣīram ucyate | taj jahātīti barjaham ūdhaḥ* | "Milk, which is able to nourish living beings, is called *bas*. The place that gives this milk is called *barjaham*: the udder."
+
+"Here the simile has great propriety. As the cow shows her udder in order to give milk generously, so the Uṣas too shows her breast: that is, she spreads her radiance, generously, to the world, and creates light and awareness."
+
+***vrajam*** — *vṛṇoter vrajaḥ* (Ni. 6-[?] [?]) | "Because it is enclosed [by a fence], it is called *vraja*. *vrajaṃ na* — as a cow goes to the pen that is the place of her protection, out of her own pleasure, with no other compulsion, so the Uṣas too goes to her own place —
+
+---
+
+### Page 417 (PDF 432)
+
+*(Running head left: "A. 1 A. 6 Va. 26 [?]"; centre: "Ṛgvedasaṃhitā"; right: 417. Foot: printer's signature "27 … Volume 7".)*
+
+"— the eastern quarter — out of her own satisfaction, and spreads light over all the worlds. The Ṛk below conveys this same point:"
+
+> उदपप्तन्नरुणा भानवो वृथा स्वायुजो अरुषीर्गा अयुक्षत ।
+
+*udapaptann aruṇā bhānavo vṛthā svāyujo aruṣīr gā ayukṣata |*  (Ṛ. Saṃ. 1-92-2 [?]; this is the second Ṛk of the present sūkta, as translated on p. 407)
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.4)** *(Kannada; grammar page, noted briefly)*
+
+*vapate* — root *ḍuvap bījasantāne*; this is also used in the sense of cutting (*bhedana*); *laṭ*, third person singular; the *nighāta* accent.
+*nṛtūriva* — root *turvī hiṃsārthaḥ*; by *kvip ca* the suffix *kvip*; by *rālopa* (रात्लोपः, Pā. 6-4-21 [?]) the *v* standing after *r* is elided; *su* following; by *vor upadhāyā dīrghaḥ* (Pā. 8-2-76 [?]) the penultimate vowel of the root ending in *r* is lengthened: *tūḥ*. Or from *nṛtī gātravināme* ('to dance, to move the limbs'); by *nṛtiśṛdhyoḥ kūḥ* (U. 1-91 [?]) the suffix *kū*; since it is *kit*, the guṇa of the light penultimate does not occur; by the suffix accent the final-acute.
+*ūrṇute* — root *ūrṇuñ ācchādane* of the *adādi* class; *laṭ*, third person singular; the *tiṅ*-*nighāta*.
+*barjaham* — root *vṛj saṃbhaktau*; "*vṛṇīte saṃbhajate gām iti baḥ payaḥ*"; the suffix *vic*; the guṇa of the root on that account; since *r* follows, the visarga is replaced by *r*. By the *upasaṃkhyāna* "*khaś prakaraṇe vātaśunītilagardheṣv ajaheṭtudajahātibhya*" (Pā. 3-2-28 [?], vārttika as printed) the suffix *khaś*: here, although the word *gardha* is not the *upapada*, the suffix *khaś* comes by the mention of *bahulam* in *kṛtyalyuṭo bahulam*; by *tiṅ śit sārvadhātukam* (Pā. 3-4-113 [?]) it takes the name *sārvadhātuka*; then *śap* by *kartari śap*; since the root belongs to the *juhotyādi* class, *ślu* replaces *śap*; by *ślau* the root is doubled; the reduplicative is shortened; by *kuhoś cuḥ* the *cutva*; by *bavayor abhedaḥ* the *v* becomes *b*; since it belongs to the *divodāsādi* list, the first member takes the initial-acute.
+*āvaḥ* — root *vṛñ varaṇe*; *luṅ*, third person singular, *tip*; by *itaś ca* the *i* is elided; by *mantre ghasahvaraṇa…* (Pā. 2-4-80 [?]) the *luk* of the *cli* obtained in the *luṅ*; because of *tip* the guṇa of the root; since *tip* [here] is *apṛkta* after the consonant-ending stem, by *halṅyābbhyo dīrghāt sutisy apṛktaṃ hal* (Pā. 6-1-68 [?]) [the consonant-elision] and the augment *aṭ* for the stem; since a finite verb follows a word, the *nighāta* accent. ‖ 4 ‖
+
+---
+
+### Page 418 (PDF 433)
+
+*(Running head: left "418", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.5)** *(Triṣṭubh)*
+
+> प्रत्यर्ची रुशदस्या अदर्शि वि तिष्ठते बाधते कृष्णमभ्वम् ।
+> स्वरुं न पेशो विदथेष्वञ्जञ्चित्रं दिवो दुहिता भानुमश्रेत् ॥ ५ ॥
+
+*pratyarcī ruśadasyā adarśi vi tiṣṭhate bādhate kṛṣṇam abhvam | svaruṃ na peśo vidatheṣv añjañ citraṃ divo duhitā bhānum aśret ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.5)**
+
+> प्रति । अर्चिः । रुशत् । अस्याः । अदर्शि । वि । तिष्ठते । बाधते ।
+> कृष्णम् । अभ्वम् ।
+> स्वरुम् । न । पेशः । विदथेषु । अञ्जन् । चित्रम् । दिवः । दुहिता ।
+> भानुम् । अश्रेत् ॥ ५ ॥
+
+*prati | arciḥ | ruśat | asyāḥ | adarśi | vi | tiṣṭhate | bādhate | kṛṣṇam | abhvam | svarum | na | peśaḥ | vidatheṣu | añjan | citram | divaḥ | duhitā | bhānum | aśret ‖ 5 ‖*
+
+(The Saṃhitā's *pratyarcī ruśat* is divided in the Pada as *prati | arciḥ | ruśat*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.5)**
+
+> प्रातरनुवाके उषस्ये क्रतौ प्रत्यर्चिरित्यष्टावनुवक्तव्याः । आश्विनशस्त्रे च । तथा च सूत्रितं । प्रत्यर्चिरित्यष्टौ वृषा आ वो दिविजा इति षळिति त्रैष्टुभं । आ. ४-१४ [?] इति ॥
+> अस्या उषसो रुशद्दीप्यमानमर्चिस्तेजः प्रत्यदर्शि । सर्वैः पूर्वस्यां दिशि प्रथमतो दृश्यते । वि तिष्ठते । सर्वासु दिक्षु विविधमवतिष्ठते । व्याप्नोतीत्यर्थः । सर्वा दिशो व्याप्य चाभ्वं । महन्नामैतत् । अतिशयेन विपुलं कृष्णं कृष्णवर्णमन्धकारं बाधते । अपसारयति । विदथेषु यज्ञेषु स्वरुं न स्वरुनाम्ना शकलेन युक्तं यूपं यथाज्येनाध्वर्यवो अञ्जन् अञ्जन्ति तद्वन्नभसि स्वकीयं पेशो रूपमुषा अनक्ति । संश्लिष्टं करोति । तदनन्तरं चित्रं चायनीयं भानुं
+
+*prātaranuvāke uṣasye kratau pratyarcir ity aṣṭāv anuvaktavyāḥ | āśvinaśastre ca | tathā ca sūtritaṃ | pratyarcir ity aṣṭau vṛṣā ā vo divijā iti ṣaḷ iti traiṣṭubhaṃ | Ā. 4-14 [?] iti ‖ asyā uṣaso ruśad dīpyamānam arcis tejaḥ pratyadarśi | sarvaiḥ pūrvasyāṃ diśi prathamato dṛśyate | vi tiṣṭhate | sarvāsu dikṣu vividham avatiṣṭhate | vyāpnotīty arthaḥ | sarvā diśo vyāpya cābhvaṃ | mahannāmaitat | atiśayena vipulaṃ kṛṣṇaṃ kṛṣṇavarṇam andhakāraṃ bādhate | apasārayati | vidatheṣu yajñeṣu svaruṃ na svarunāmnā śakalena yuktaṃ yūpaṃ yathājyenādhvaryavo añjan añjanti tadvan nabhasi svakīyaṃ peśo rūpam uṣā anakti | saṃśliṣṭaṃ karoti | tadanantaraṃ citraṃ cāyanīyaṃ bhānuṃ*
+
+---
+
+**Progress note:** Printed pp. 1–418 done (PDF 16–433), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.4 complete (92.3 minus the missing p. 413); Rik 92.5 Saṃhitā, Pada and the first part of the Sāyaṇa-bhāṣya done, the bhāṣya breaking at the foot of p. 418 ("…*tadanantaraṃ citraṃ cāyanīyaṃ bhānuṃ*"). Next: printed p. 419 (PDF 434) — the rest of the bhāṣya of 92.5. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; Nirukta numerals (12-7, 3-9, 2-20, 5-20, 2-7, 2-1, 2-9, 6-[?]) [?]; the Ṛgveda numerals 1-124-5, 1-92-2 and the 'Part [5?], pp. 32–33' reference [?]; Pāṇini/Uṇādi numerals on pp. 407–417 given as read, doubtful [?]; the bhāṣya of 92.2: *uṣaso dīptayaḥ*, *caturhṛdīrgā…*, *pūrveṣv atīteṣv ahaḥsv iva* clotted [?]; of 92.3: *dhārṣṭyenopetāḥ*, the *apasaḥ* derivation [?]; of 92.4: *jagatpraśliṣṭāni*, *sthādhyikena*, *nṛns tūrvati*, *uṣāḥ śāstroktam andhakāram* clotted [?]; the Special Topics of 92.4: *usrā viśo 'syāṃ bhogāḥ* clotted [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
