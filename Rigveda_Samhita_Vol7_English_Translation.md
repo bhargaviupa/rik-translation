@@ -8668,4 +8668,96 @@ Closing of Rik 90.3: "॥ ३ ॥" (3). *(A separator "— :o: —" follows in t
 
 ---
 
-**Progress note:** Printed pp. 1–311 done (PDF 16–326) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.3 complete**; **Rik 90.4** done through its English, Special Topics and the first entry of its grammar page (*pathaḥ*, mid-entry at the foot of p. 311); the rest of the grammar continues on p. 312, then 90.5–90.9. Next: printed p. 312 (PDF 327). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299 and 311 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 312 (PDF 327)
+
+*(Running head: "312 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.4, continued from p. 311 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **पथः** (cont.) — "…since *śas* is unaccented, by "अनुदात्तस्य च यत्रोदात्तलोपः" (Pā. Sū. 6-1-[158]) the accent for *śas* comes."
+- **सुविताय** — the root *iṇ gatau*; the affix *kta* in the passive; *suṣṭhu itaḥ suvitaḥ*; by the statement "तेनादीनां छन्दसि बहुलमुपसंख्यानम्" the *uvaṅ* substitute for the *u* of *su* comes; since by "गतिरनन्तरः" (Pā. Sū. 6-2-[49]) the first member's base accent would have come, by "सूपमानात्क्तः" (Pā. Sū. 6-2-[144]) the final syllable of the latter member is acute.
+- **चियन्तु** — the root *ciñ cayane*, Svādi; *loṭ*, third person plural; by "एरुः" the *u* for the *i*; *ant* substitute; by "बहुलं छन्दसि" the *luk* of *śnu*; since "सार्वधातुकमपित्" makes the affix *ṅit*, no *guṇa* comes; by "अचि श्नुधातुभ्रुवाम्" the substitute *iy* for the *i* of the root; since it stands at the beginning of a *pāda*, no *nighāta*; by the accent of the affix the *u* is acute.
+- **वन्द्यासः** — the root *vadi abhivādanastutyoḥ*; by "ऋहलोर्ण्यत्" the affix *ṇyat*; by "इदितो नुम् धातोः" the augment *num* for the root; the form *vandya*; by "ईडवन्दवृशंसदुहां ण्यतः" (Pā. Sū. 6-1-[213]) the first syllable acute as an exception to the *svarita*; in the nominative plural, with *jas* following, by "आज्जसेरसुक्" the augment *asuk*; *ru*-*visarga* for the *s*: *vandyāsaḥ*.
+
+Closing of Rik 90.4: "॥ ४ ॥" (4). *(A separator "— :o: —" follows in the print.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.5)** *(Gāyatrī; accents not reproduced)*
+
+> उत नो धियो गोअग्राः पूषन्विष्णवेवयावः ।
+> कर्ता नः स्वस्तिमतः ॥ ५ ॥
+
+*uta no dhiyo goagrāḥ pūṣan viṣṇav evayāvaḥ | kartā naḥ svastimataḥ ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "And, O Pūṣan, O Viṣṇu, O fast-goers [Maruts], make our rites cattle-leading; make us full of welfare."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.5)**
+
+> उत । नः । धियः । गोऽअग्राः । पूषन् । विष्णो इति । एवऽयावः ।
+> कर्त । नः । स्वस्तिऽमतः ॥ ५ ॥
+
+*uta | naḥ | dhiyaḥ | go-agrāḥ | pūṣan | viṣṇo iti | eva-yāvaḥ | karta | naḥ | svasti-mataḥ ‖ 5 ‖*
+
+*(The Saṃhitā prints* kartā*, the Pada* karta*; as printed.)*
+
+---
+
+### Page 313 (PDF 328)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 313.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.5)**
+
+> अप्तोर्यामे सन्ति चत्वार्यतिरिक्तोक्थानि । तत्र चतुर्थे ऽच्छावाकातिरिक्तोक्थ उत नो धिय इत्येषासुरूपत्र्चस्य वैकल्पिकी तृतीया । सूत्रितं च । उत नो धियो गोअग्रा इति वासुरूपस्तोत्रमा । आ. ९-११ [?] । इति ॥
+
+*aptoryāme santi catvāry atiriktokthāni | tatra caturthe 'cchāvākātiriktokthe uta no dhiya ity eṣāsurūpatṛcasya vaikalpikī tṛtīyā | sūtritaṃ ca | uta no dhiyo goagrā iti vāsurūpastotramā | Ā. 9-11 [?] | iti ‖*
+
+*(application note: "aptoryāme" as printed; the sūtra and its numeral are cramped and read with doubt [?].)*
+
+*Translation:* "In the *Aptoryāma* there are four *atirikta-uktha* [supplementary recitations]. Of these, in the fourth, the *Acchāvāka*'s supplementary uktha, this Ṛk *uta no dhiyaḥ* is the optional third of the *tṛca* of the *Asurūpa*; and it is prescribed: '*uta no dhiyo goagrā iti vāsurūpastotramā*' (Āś. [9-11] [?])."
+
+> हे पूषन्पोषक देव हे विष्णो व्यापनशील देव हे एवयावः । एवैर्गन्तृभिरश्वैर्याति गच्छतीत्येवयावा मरुद्गणः । हे मरुद्गण ते सर्वे यूयं नोऽस्माकं धियोऽप्तोर्यामलक्षणानि कर्माणि गोअग्राः पश्वग्राणि पशुप्रमुखान्यस्मत्सकाशाद्भ्रष्टैः पशुभिर्युक्तानि कर्त । कुरुत । अप्तोर्यामकर्मणश्च पशुप्राप्तिहेतुत्वमाम्नायते । यस्माच्छवः प्रस्रेव भ्रंशेरन् स एतेन यजेत । तै. ब्रा. ३-८-१४-३ [?] । इति । उताप्यपि च नोऽस्मान्स्वस्तिमतः अविनाशिनः कुरुत ॥ एवयावः । इण् गतौ । इणः कर्मवन्नादर्शनात् । पूर्वपदप्रकृतिस्वरत्वम् । इण्शीभ्यां वन् । उ. १-१५० [?] । वन्प्रत्ययः । सम्बुद्धौ वने उपसंख्यानं । पा. ८-३-१ [?] । इति नकारस्य रुत्वं ॥
+
+*he pūṣan poṣaka deva he viṣṇo vyāpanaśīla deva he evayāvaḥ | evair gantṛbhir aśvair yāti gacchatīty evayāvā marudgaṇaḥ | he marudgaṇa te sarve yūyaṃ no 'smākaṃ dhiyo 'ptoryāmalakṣaṇāni karmāṇi goagrāḥ paśvagrāṇi paśupramukhāny asmatsakāśād bhraṣṭaiḥ paśubhir yuktāni karta | kuruta | aptoryāmakarmaṇaś ca paśuprāptihetutvam āmnāyate | yasmāc chavaḥ prasreva bhraṃśeran sa etena yajeta | Tai. Brā. 3-8-14-3 [?] | iti | utāpi api ca no 'smān svastimataḥ avināśinaḥ kuruta ‖ evayāvaḥ | iṇ gatau | iṇaḥ karmavan nādarśanāt | pūrvapadaprakṛtisvaratvam | iṇśībhyāṃ van | Uṇ. 1-150 [?] | van-pratyayaḥ | sambuddhau vane upasaṃkhyānaṃ | Pā. 8-3-1 [?] | iti nakārasya rutvam ‖*
+
+*(Kannada script; "iṇaḥ karmavan nādarśanāt" and the numerals are read with doubt [?].)*
+
+*Translation:* "O Pūṣan, nourishing god; O Viṣṇu, god who pervades; O *evayāvaḥ* — you who go with *eva*, swift horses: the Marut host. O Maruts, all of you, make *dhiyaḥ* — our rites, of the nature of the Aptoryāma — *goagrāḥ*, headed by cattle, that is, furnished with cattle recovered from where they had been lost, with cattle at their head. And of the Aptoryāma rite it is taught that it is a cause of obtaining cattle: 'he whose cattle have strayed away, as it were, should perform the sacrifice with this' (Tai. Brā. [3-8-14-3] [?]). And further, make us *svastimataḥ* — possessed of welfare, imperishable. *Grammar tail, noted briefly:* *evayāvaḥ* — *iṇ gatau* with *van* (Uṇ. 1-[150] [?]); first member keeps its accent; in the vocative the *n* becomes *ru* (Pā. 8-3-[1] [?])."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.5)** *(Kannada)*
+
+*pūṣan* — O Pūṣan; *viṣṇo* — O Viṣṇu; *evayāvaḥ* — O Maruts, who draw the chariot with swift horses; *naḥ* — our; *dhiyaḥ* — the rites (of the nature of Aptoryāma); *goagrāḥ* — leading the cattle that had strayed from us, returned; *karta* — make; *uta* — and; *naḥ* — us; *svastimataḥ* — possessed of welfare (make).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.5** *(Kannada)*
+
+"O Pūṣan, O Viṣṇu, O Maruts: by your grace may our rites of the nature of the Aptoryāma be fruitful. Favour those rites and make them able to bring back to us the cattle that have gone astray. And make us all fortunate."
+
+**English Translation** *(printed in English in the source)*
+
+"Pushan, Vishnu, Maruts, make our rites restorative of our cattle; make us prosperous." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.5)**
+
+"In the sacrifice called *Aptoryāma* four *atirikta-uktha* mantras are to be recited. When the priest called *Acchāvāka* recites the fourth of these, the Ṛk *uta no dhiyaḥ* is to be recited as the third Ṛk of the *tṛca* called *Asurūpa*, optionally, as the Āśvalāyana Śrauta-sūtra points out: '*uta no dhiyo goagrā iti vāsurūpastotramā*' (Āś. [9-11] [?]). *(continues on p. 314)*
+
+---
+
+### Page 314 (PDF 329)
+
+*(Running head: "314 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Special Topics of Rik 90.5, continued from p. 313:*
+
+- **धियः** — "the word *dhī* here suggests the sense of 'work' (Ni. [2-1] [?]): *dhiyaḥ* means works, sacrificial works and the like."
+- **गोअग्राः** — *gāvo 'gre yāsāṃ tā goagrāḥ dhiyaḥ | golābhaphalā ity arthaḥ | aptoryāmakarmaṇaś ca paśuprāptihetutvam āmnāyate | yasmāc chavaḥ prasreva bhraṃśeran sa etena yajeta* (Tai. Brā. [3-8-14-3] [?]) — "those with cattle at their head — that is, with the acquisition of cattle as their main fruit; works such as the Aptoryāma. This sacrifice called Aptoryāma is to be performed, as the Tai. Brā. text indicates, by one who wishes for cattle. Therefore the sense is: may the sacrifices such as the Aptoryāma that we perform with a view to obtaining cattle, by the grace of Pūṣan and the other deities, be completed fully."
+- **पूषन्, विष्णो** — "nourisher, all-pervading. Since he nourishes all, this deity (one of the twelve Ādityas) is called Pūṣan; since Viṣṇu pervades all, he is called Viṣṇu."
+- **एवयावः** — *iṇ gatau | evair gantṛbhir aśvair yāti gacchatīty evayāvā marudgaṇaḥ* — "those who move in the chariot with swift-going horses called *pṛṣatī*: *evayāvaḥ* means the Maruts: so the bhāṣyakāra explains."
+- **स्वस्तिमतः** — "those who have welfare, growth; this word is an adjective of the word *naḥ*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **गोअग्राः** — by "सर्वत्र विभाषा गोः" (Pā. Sū. 6-1-[122]) the *prakṛtibhāva* comes.
+- **एवयावः** — the root *iṇ gatau*; by "इण्शीभ्यां वन्" (Uṇ. Sū. 1-[150]) the affix *van*; because of it the *guṇa* by "सार्वधातुकार्धधातुकयोः"; the form *eva*; when in the *upapada*, from *yā prāpaṇe* the affix *vanip* by "आतो मनिन्क्वनिब्वनिपश्च"; the word *evayāvan*; in the vocative, *su* following, by "वने उपसंख्यानम्" (Pā. Sū. 8-3-[1]) the *ru* for the *n*; by "हल्ङ्याब्भ्यो…" the loss of *su*; by "खरवसानयोः" the *visarga* for *r*; by "आमन्त्रितस्य च" the first syllable acute.
+
+---
+
+**Progress note:** Printed pp. 1–314 done (PDF 16–329) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.4 complete**; **Rik 90.5** done through its English, Special Topics and the first two entries of its grammar page (*goagrāḥ*, *evayāvaḥ*, p. 314); the grammar page's remaining entries (*karta*, *svastimataḥ*, etc.), if any, follow on p. 315, then 90.6–90.9. Next: printed p. 315 (PDF 330). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311 and 313 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
