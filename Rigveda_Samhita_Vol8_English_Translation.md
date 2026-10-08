@@ -1390,4 +1390,91 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–41 done (PDF 21–61): Sūkta 95, Riks 95.1–95.6 complete; Rik 95.7: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 38–39), and the Special Topics under way (the *savitā*, *ubhe sicau*, *atka* passages, with Skandasvāmin's alternative explanations, pp. 39–41), breaking at the foot of p. 41 in the passage on *mātṛbhyaḥ* at "…then *navā vasanā jahāti* — 'he gives up his new garment'…". Next: printed p. 42 (PDF 62). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.7 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the clotted comment on p. 29 [?]; *yajamānanāmaitat*, *sannahyati* and *añjatir api …artha* on pp. 40–41 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta (9-15, 8-14, 4-9, 3-21), Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.7 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]; the Ṛgveda numerals for *atka* on p. 41 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.7 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the opening of the bhāṣya of 95.6 and the Nirukta quotation on *bhadra* [?]; Ṛ. 8-31-[?] on p. 36 and 2-3[3]-3 on p. 40 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's *vṛtaṃ* for *vyutaṃ* (1-123-7) on p. 41.
+### Page 42 (PDF 62)
+
+*(Running head: left 42; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Special Topics of Rik 95.7, concluded from p. 41**
+
+"…'he gives up his new garment': that is, he lets go the radiance which covers the whole world. If 'from the quarters' is the sense, then —"
+
+> आचिरोत्पन्नानि तमांसि दिग्भ्यः त्वाष्ट्रोऽग्निरजहात् [?]
+> *ācirotpannāni tamāṃsi digbhyaḥ tvāṣṭro 'gnir ajahāt [?]*
+
+*(Read from the print, doubtful [?]; the sense, with the Kannada: "Agni drove away from all the ten quarters the darkness newly come into being".)* "— the Agni drove away, from the ten quarters, the darkness that had newly enveloped them; that is, he destroyed it: such is the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.7)** *(grammar pages, pp. 42–43, noted briefly; numerals small and doubtful [?])*
+
+***yaṃyamīti*** — root *yam* (to stop); since the intensive sense is shown, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22 [?]); *luk* of the *yaṅ* by *yaño 'ci ca* (Pā. 2-4-74 [?]); doubling of the root by *sanyaṅoḥ* (Pā. 6-1-9 [?]); the reduplicate keeps the first consonant (*ādihal śeṣaḥ*); since the root ends in a nasal, the reduplicate takes *nuk* by *nugato 'nunāsikāntasya* (Pā. 7-4-85 [?]) — the *nuk* is explained there as a mark of the *anusvāra*; otherwise, as there is no cause for an *anusvāra*, it would have to be *n*; by *sanādyantā dhātavaḥ* (Pā. 3-1-32 [?]) the form takes the designation 'root'; *laṭ*, third person singular *tip*; *śap* elided by *carkarītaṃ ca*, which is read in the *adādi* class; *īṭ* for the *pit* ending (*ti*) by *yaṅo vā* (Pā. 7-3-94 [?]); the form *yaṃyamīti*; *nighāta* after a verb-ending word. — ***savitā*** — root *ṣū* (to impel); *tṛc*; *iṭ* by *ārdhadhātukasyeḍ valādeḥ*; guṇa and *av*-substitution; final acute by *citaḥ*. — ***sicau*** — root *ṣica* (to flow); '*siñcataḥ phalena saṃyojayataḥ*': the two that unite with the fruit — heaven and earth; *kvip* by *kvip ca* (Pā. 3-2-76 [?]); since it is *kit*, no guṇa of the light penultimate; *kvip* being elided entirely, the root's accent remains; the dual (the print has 'accusative singular' [?]). — ***yatete*** — root *yatī* (to strive); *laṭ*, third person [singular, as the print has it]; *ṭita ātmanepadānāṃ ṭere*; *śap*; *nighāta*, since a verb-ending word precedes (*tiṅ atiṅaḥ*). — ***bhīmaḥ*** — 'from whom they fear': root *ñibhī* (fear); *bhīmādayo 'pādāne* (Uṇ. 3-[?] [?]), the form given with the suffix *ma*; final acute by the suffix accent.
+
+### Page 43 (PDF 63)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 43.)*
+
+*Grammar of Rik 95.7, concluded (noted briefly):* ***atkam*** — root *at* (continuous going), *bhvādi*; *kan* by *iṇbhīkāpāśalyatimarcibhyaḥ kan* (Uṇ. 3-[?] [?]); the suffix being *nit*, the initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]). — ***ajate*** — root *aja* (to drive, to throw); by *vyatyayo bahulam* the *ātmanepada* ending in the *laṭ*; third person singular; *nighāta* after a verb-ending word. — ***simasmāt*** — the word *sima* is in the list of synonyms of *sarva*; so *sarvādīni sarvanāmāni* (Pā. 1-1-27 [?]) gives it the designation of a pronoun; with the fifth-case singular following, *smāt* by *ṅasiṅyoḥ smātsminau* (Pā. 7-1-15 [?]); since it is not a single sound, it replaces the whole (*anekāl śit sarvasya*). — ***navā*** — in the neuter plural *śi* comes; with the *kārya*, *śi* is elided by *śeś chandasi bahulam* (Pā. 6-1-70 [?]); likewise in *vasanā*. — ***jahāti*** — root *ohāk* (to abandon), *juhotyādi*; *laṭ*, third person singular *tip*; *śap* → *ślu* by *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 [?]); doubling of the root by *ślau* (Pā. 6-1-10 [?]); the reduplicate shortened; *cutva*, then *ja* for *h*; *jahāti*; *nighāta*. ‖ 7 ‖ *(Grammar pages, noted briefly; numerals small and doubtful [?].)*
+
+---
+
+### Rik 8
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.8)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> त्वेषं रूपं कृणुत उत्तरं यत्संपृञ्चानः सदने गोभिरद्भिः ।
+> कविर्बुध्नं परि मर्मृज्यते धीः सा देवताता समितिर्बभूव ॥ ८ ॥
+
+*tveṣaṃ rūpaṃ kṛṇuta uttaraṃ yat saṃpṛñcānaḥ sadane gobhir adbhiḥ | kavir budhnaṃ pari marmṛjyate dhīḥ sā devatātā samitir babhūva ‖ 8 ‖*
+
+### Page 44 (PDF 64)
+
+*(Running head: left 44; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.8)**
+
+> त्वेषम् । रूपम् । कृणुते । उत्ऽतरम् । यत् । सम्ऽपृञ्चानः ।
+> सदने । गोभिः । अत्ऽभिः ।
+> कविः । बुध्नम् । परि । मर्मृज्यते । धीः । सा । देवऽताता । सम्ऽइतिः । बभूव ॥ ८ ॥
+
+*tveṣam | rūpam | kṛṇute | ut-taram | yat | sam-pṛñcānaḥ | sadane | gobhiḥ | at-bhiḥ | kaviḥ | budhnam | pari | marmṛjyate | dhīḥ | sā | deva-tātā | sam-itiḥ | babhūva ‖ 8 ‖*
+
+*(Reading note: the print's Pada has* at-bhiḥ *for the Saṃhitā's* adbhiḥ*, and* uttaram *is divided* ut-taram*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.8)**
+
+> सदनेऽन्तरिक्षे गोभिर्गन्त्रीभिरद्भिर्मेघस्थाभिः सह संपृञ्चानो वैद्युतरूपेण संयुक्तः सन् त्वेषं दीप्तं सर्वैर्द्रष्टुमशक्यमुत्तरमुत्कृष्टतरं रूपं वैद्युतं प्रकाशं यद्यदा कृणुते करोति । तदानीं कविः क्रान्तदर्शी धीः सर्वेषां धारकः सोऽग्निर्बुध्नं सर्वस्योदकस्य मूलभूतमन्तरिक्षं परि मर्मृज्यते । परितो मार्ष्टि स्वतेजसाच्छादयति । तस्याग्नेः सा देवताता देवेन देवनशीलेनाग्निना तता विस्तारिता दीप्तीरश्मिभिः स्तुता सती समितिर्बभूव । तेजसां संहतिर्भवति ॥ संपृञ्चानः । पृची संपर्के । रौधादिकः । अस्माल्लटः शानच् । श्नसोरल्लोपः इत्यकारलोपः । सीदन्त्यस्मिन् गन्धर्वादय इति सदनमन्तरिक्षं । अधिकरणे ल्युट् । मर्मृज्यते । मृजूष् शुद्धौ । अस्माद्यञ् मर्मृज्यते मर्मृज्यमानास इति चोपसंख्यानं । पा. ७-४-६५ [?] इति निपातनादभ्यासस्य रुगागमः । देवताता । देवेन तता देवताता । तनोतेः कर्मणि निष्ठा । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । व्यत्ययेनात्वं । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+*sadane 'ntarikṣe gobhir gantrībhir adbhir meghasthābhiḥ saha saṃpṛñcāno vaidyutarūpeṇa saṃyuktaḥ san tveṣaṃ dīptaṃ sarvair draṣṭum aśakyam uttaram utkṛṣṭataraṃ rūpaṃ vaidyutaṃ prakāśaṃ yad yadā kṛṇute karoti | tadānīṃ kaviḥ krāntadarśī dhīḥ sarveṣāṃ dhārakaḥ so 'gnir budhnaṃ sarvasyodakasya mūlabhūtam antarikṣaṃ pari marmṛjyate | paritau mārṣṭi svatejasācchādayati | tasyāgneḥ sā devatātā devena devanaśīlenāgninā tatā vistāritā dīptī raśmibhiḥ stutā satī samitir babhūva | tejasāṃ saṃhatir bhavati ‖ saṃpṛñcānaḥ | pṛcī saṃparke | raudhādikaḥ | asmāl laṭaḥ śānac | śnasor allopaḥ ity akāralopaḥ | sīdanty asmin gandharvādaya iti sadanam antarikṣaṃ | adhikaraṇe lyuṭ | marmṛjyate | mṛjūṣ śuddhau | asmād yañ marmṛjyate marmṛjyamānāsa iti copasaṃkhyānaṃ | pā. 7-4-65 [?] iti nipātanād abhyāsasya rugāgamaḥ | devatātā | devena tatā devatātā | tanoteḥ karmaṇi niṣṭhā | anudāttopadeśety ādinānunāsikalopaḥ | vyatyayenātvaṃ | tṛtīyā karmaṇeti pūrvapadaprakṛtisvaratvaṃ ‖*
+
+*Sense (mine, from the Kannada):* "In the *sadana*, the atmosphere, joined with the *gobhiḥ adbhiḥ* — the moving cloud-waters — in the form of lightning, when he makes (*kṛṇute*) a shining form that no one can bear to see, the best, the most excellent, a lightning radiance, then Agni, the *kavi* (far-seeing) and *dhīḥ* (sustainer of all), adorns all around the *budhna* — the atmosphere that is the foundation of all water — covering it with his own radiance. That radiance of that Agni, spread out by the god Agni, whose nature is to sport (*devana*), being praised by the rays, became a *samiti*: there is a concentration of radiances."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *saṃpṛñcānaḥ* — root *pṛcī* (to mix), of the *rudhādi* class; *śānac* of the *laṭ*; the *a* is elided by *śnasor allopaḥ*; *sadanam* — 'where Gandharvas and others sit': the atmosphere, *lyuṭ* in the sense of the locus; *marmṛjyate* — root *mṛjūṣ* (to purify); with *yañ*, and the statement '*marmṛjyate*, *marmṛjyamānāsaḥ*' as a *upasaṃkhyāna*: by the irregular formation (Pā. 7-4-65 [?]) the reduplicate gets *rugāgama*; *devatātā* — 'spread by the god'; *niṣṭhā* of *tan* in the passive; loss of the nasal by *anudāttopadeśa…*; *ā* by *vyatyaya*; first member's natural accent by *tṛtīyā karmaṇi*. *(Numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*sadane* — in the atmosphere; *gobhiḥ* — that move; *adbhiḥ* — with the (cloud-)waters; *sampṛñcānaḥ* — mingling (in the form of lightning); *tveṣaṃ* — shining; *uttaraṃ* — excellent and superior; *rūpaṃ* — (the lightning) radiant form; *yat* — when; *kṛṇute* — he makes (then); *kaviḥ* — the wise; *dhīḥ* — he who sustains the whole world, Agni; *budhnaṃ* — the atmosphere, the foundation of the waters; *pari marmṛjyate* — all around (with his radiance) adorns; *sā devatātā* — that radiance spread out by the god Agni; *samitiḥ babhūva* — (after being praised by us) became of a concentrated form (joined together)."
+
+### Page 45 (PDF 65)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 45.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"When Agni, joined in the atmosphere with the cloud-waters that move there, in the form of lightning, creates his own excellent and superior radiance, wise, and the sustainer of the whole world, he fills with his radiance the whole atmosphere, which is the foundation of the waters. That radiance, spread abroad by the god Agni, after we have praised it, became of a concentrated form, and became fit for the sacrifice."
+
+**English Translation (as printed)**
+
+> Associated in the firmament with the moving waters, he assumes an excellent and lustrous form, and the wise sustainer (of all things) sweeps over the source (of the rains with his radiance), whence a concentration of light is spread abroad by the sportive deity.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.8 (Kannada)**
+
+> अत्रेदमुक्तं भवति । यदा मेघोदकरूपाभिर्गोभिर्युक्तः सन्नग्निर्वैद्युतः स्वकीयमुत्पृष्टतरं तेजस्तेजःपुञ्जपूर्णमन्तरिक्षे प्रादुर्भावयति तदा तत्सर्वमन्तरिक्षं तेन तेजसा प्रमृष्टं भवति यच्च तत्स्वरूपप्रादुर्भावनं तेनैव देवान्तरैः सहाग्नेर्गमनं भवतीति ॥
+> *atredam uktaṃ bhavati | yadā meghodakarūpābhir gobhir yuktaḥ sann agnir vaidyutaḥ svakīyam utpṛṣṭataraṃ tejas tejaḥpuñjapūrṇam antarikṣe prādurbhāvayati tadā tat sarvam antarikṣaṃ tena tejasā pramṛṣṭaṃ bhavati yac ca tatsvarūpaprādurbhāvanaṃ tenaiva devāntaraiḥ sahāgner gamanaṃ bhavatīti ‖*
+
+*(Translation, mine and tentative, with the Kannada that follows: "Here this is said: when, joined with the 'cows' that are the waters of the clouds, Agni, in the form of lightning, makes his own most excellent radiance, full of a mass of light, appear in the atmosphere, then the whole atmosphere is cleansed by that radiance; and the appearance of his own form is the very thing by which Agni's going with the other gods comes about.")* "That is: in the midst of the clouds Agni, in the form of lightning, appearing in the atmosphere with his entire radiance, fills the whole atmosphere with brightness, and shines exceedingly. In this way Agni, having appeared, joins the other deities."
+
+"Two kinds of construction are possible, for the first and second halves of this Ṛk. For the first half: first, that Agni, mingled in the atmosphere with the rain-waters, makes his radiance arise in the form of lightning; second, that, joined in the sacrificial house with praises and Soma-juices, he makes his own blazing radiance appear. The first construction is in Sāyaṇa's explanation:"
+
+***sadane*** — *antarikṣe*: "*sīdanty asmin gandharvādayaḥ iti sadanam antarikṣam* — 'Gandharvas and others, as they roam, sit there': so the atmosphere has the name *sadana*. In this atmosphere, *gobhiḥ adbhiḥ sampṛñcānaḥ* — *gantrībhiḥ meghasthābhiḥ saha vaidyutarūpeṇa saṃyuktaḥ* — it is explained that, joined with the waters that are in the clouds and move about, in the form of lightning, he creates his own radiance." *(continues on p. 46)*
+
+---
+
+**Progress note:** Printed pp. 1–45 done (PDF 21–65): Sūkta 95, Riks 95.1–95.7 complete (95.7's Special Topics and grammar on pp. 41–43); Rik 95.8: Saṃhitā (p. 43), Pada, bhāṣya (grammatical tail characterized), Pratipadārtha (p. 44), Bhāvārtha, English (p. 45), and the Special Topics begun (the Skandasvāmin comment on the two constructions; *sadane*; *gobhiḥ adbhiḥ sampṛñcānaḥ*), breaking at the foot of p. 45. Next: printed p. 46 (PDF 66). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–45) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1 (Taittirīya passage, *anyasyām ahorātrikāyām*), 95.2 (*nṛptyati*), 95.3 (*parīty eṣa samity etasya sthāne*, the suffix of *jānā*), 95.4 (*ābādiṣu*, *madhye ka ā ciketa*, the middle of the *apasām upasthāt* passage), 95.5 (Yāska's quotation and the sūtra numbers; the whole clotted comment on p. 29), 95.6 (the opening of the bhāṣya; the Nirukta quotation on *bhadra*), 95.7 (*yajamānanāmaitat*, *sannahyati*, *añjatir api…*; the Ṛgveda numerals for *atka*; the print's *vṛtaṃ* for *vyutaṃ* in 1-123-7) and 95.8 (the Pada's *at-bhiḥ*); the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the grammar pages and grammatical tails are characterized, not transcribed.
