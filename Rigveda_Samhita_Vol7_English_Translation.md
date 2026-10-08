@@ -9665,4 +9665,123 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–343 done (PDF 16–358) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.4 complete (pp. 326–343); Rik 91.5 Saṃhitā at the foot of p. 343. Next: printed p. 344 (PDF 359) — the Pada of 91.5 first. Open flags: Special Topics of 91.4 (pp. 341–342): all Ṛgveda and Nirukta numerals in small Kannada digits [?]; the first citation (*somaṃ bharadvād…*) garbled in reading and given with no gloss [?]; *divyanyaḥ* citation doubtful; the *āyo gobhiḥ* gloss's last words doubtful; Pāṇini numerals on pp. 342–343 (6-1-70, 7-3-116, 6-1-174, 8-3-59, 6-3-132, 7-1-10, 6-2-117, 3-1-84, 6-4-105) and the Vārttika numeral [?]; Āśvalāyana numerals on pp. 339–340 (2-9, 3-2, 4-3) [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?]; Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 344 (PDF 359)
+
+*(Running head: left "344", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.5)**
+
+> त्वम् । सोम । असि । सत्ऽपतिः । त्वम् । राजा । उत । वृत्रऽहा ।
+> त्वम् । भद्रः । असि । क्रतुः ॥ ५ ॥
+
+*tvam | soma | asi | sat-patiḥ | tvam | rājā | uta | vṛtra-hā | tvam | bhadraḥ | asi | kratuḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.5)**
+
+> पौर्णमासेष्ट्यां सौम्यस्याज्यभागस्य त्वं सोमेत्येषानुवाक्या । सूत्रितं च । अग्निर्वृत्राणि जंघनदिति पूर्वस्याज्यभागस्यानुवाक्या त्वं सोमासि सत्पतिरित्युत्तरस्य । आ. १-३ [?] इति । एवं यत्र यत्र वार्त्रघ्न्याज्यभागस्तत्र सर्वत्रास्य विनियोगः ॥ प्रातःकालीनायामुपसदि प्रधानस्य सौम्यस्यैवैषानुवाक्या । अपराह्णिक्यामुपसदि स्यैव याज्या । सूत्रितं च । त्वं सोमासि सत्पतिर्गयस्फानो अमीवहा इति विपर्यासो याज्यानुवाक्यानां । आ. ४-८ [?] इति च ॥
+> हे सोम त्वं सत्पतिरसि । सतां कर्मसु वर्तमानानां ब्राह्मणानामधिपतिर्भवसि । तस्मात्सोमराजानो ब्राह्मणाः । तै. ब्रा. १-८-४-१ [?] इति श्रुतेः । यद्वा । सन्तः स्वानादयः पतयः पालका यस्य सोमस्य तादृशो भवसि । तथा चाम्नायते । स्वान भ्राजेत्याहैते वा अमुष्मिंल्लोके सोममरक्षन् । तै. सं. ६-१-१०-३ [?] इति । उताऽपि च राजा राजमानस्त्वं वृत्रहा वृत्रस्यासुरस्य शत्रोर्वा हन्तासि । भद्रः शोभनः क्रतुर्योऽयमग्निष्टोमादियागस्त्वमेव तद्रूपो भवसि । त्वत्साधनत्वाद्यागानाम् ॥ सत्पतिः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । तत्पुरुषपक्षे तु पत्यावैश्वर्ये इति पूर्वपदप्रकृतिस्वरत्वं ॥
+
+*paurṇamāseṣṭyāṃ saumyasyājyabhāgasya tvaṃ somety eṣānuvākyā | sūtritaṃ ca | agnir vṛtrāṇi jaṃghanad iti pūrvasyājyabhāgasyānuvākyā tvaṃ somāsi satpatir ity uttarasya | Ā. 1-3 [?] iti | evaṃ yatra yatra vārtraghny ājyabhāgas tatra sarvatrāsya viniyogaḥ ‖ prātaḥkālīnāyām upasadi pradhānasya saumyasyaivaiṣānuvākyā | aparāhṇikyām upasadi syaiva yājyā | sūtritaṃ ca | tvaṃ somāsi satpatir gayasphāno amīvahā iti viparyāso yājyānuvākyānāṃ | Ā. 4-8 [?] iti ca ‖ he soma tvaṃ satpatir asi | satāṃ karmasu vartamānānāṃ brāhmaṇānām adhipatir bhavasi | tasmāt somarājāno brāhmaṇāḥ | Tai. Brā. 1-8-4-1 [?] iti śruteḥ | yadvā | santaḥ svānādayaḥ patayaḥ pālakā yasya somasya tādṛśo bhavasi | tathā cāmnāyate | svāna bhrājety āhaite vā amuṣmiṃl loke somam arakṣan | Tai. Saṃ. 6-1-10-3 [?] iti | utāpi ca rājā rājamānas tvaṃ vṛtrahā vṛtrasyāsurasya śatror vā hantāsi | bhadraḥ śobhanaḥ kratur yo 'yam agniṣṭomādiyāgas tvam eva tadrūpo bhavasi | tvatsādhanatvād yāgānām ‖ satpatiḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | tatpuruṣapakṣe tu patyāv aiśvarya iti pūrvapadaprakṛtisvaratvaṃ ‖*
+
+*Translation:* "At the full-moon offering, this Ṛk *tvaṃ soma* is the *anuvākyā* for the *ājyabhāga* of the Saumya. It is prescribed: '*agnir vṛtrāṇi jaṃghanat*' is the *anuvākyā* of the former *ājyabhāga*, '*tvaṃ somāsi satpatiḥ*' of the latter (Ā. 1-3 [?]); and wherever there is an *ājyabhāga* with the Vṛtra-slaying Ṛks, this has application in all such places. At the forenoon *upasad*, it is the *anuvākyā* for the principal Saumya offering; at the afternoon *upasad* it is the *yājyā* of the same. It is prescribed: '*tvaṃ somāsi satpatir gayasphāno amīvahā*' — the inversion of the *yājyā* and *anuvākyā* (Ā. 4-8 [?]). — O Soma, you are *satpatiḥ*: you are the lord of the Brāhmaṇas who abide in sacrificial acts. 'Therefore the Brāhmaṇas have Soma as their king': so says the śruti (Tai. Brā. 1-8-4-1 [?]). Or: you are such a Soma as has the good ones — Svāna and the rest — as his lords, his guardians. So it is handed down: 'He says *svāna bhrāja*; these indeed guarded Soma in that world' (Tai. Saṃ. 6-1-10-3 [?]). And you, *rājā*, shining, are *vṛtrahā*, the slayer of the asura Vṛtra or of enemies. *Bhadraḥ*, auspicious, *kratuḥ*, this sacrifice, the Agniṣṭoma and the others: you yourself become that form, since the sacrifices have you as their means."
+
+*Grammar tail:* *satpatiḥ* — in the *bahuvrīhi* the first member keeps its natural accent; in the *tatpuruṣa* alternative, by *patyāv aiśvarye* the first member likewise keeps its natural accent.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.5)** *(Kannada)*
+
+*Soma* — O Soma-deity; *tvam* — you; *satpatiḥ asi* — you are the lord of the good people who perform sacrificial acts (their protector); *uta* — and; *rājā* — the shining one; *tvam* — you; *vṛtrahā* — you are the destroyer of the demon Vṛtra.
+
+**Or** *(printed alternative):* "[*tvam* — you; *satpatiḥ* — the protector of good people, and *rājā* — sovereign, *asi* — you are.]"
+
+*bhadraḥ* — the auspicious one; *kratuḥ* — the sacrifice such as the Agniṣṭoma; *tvam (eva) asi* — you yourself are.
+
+---
+
+### Page 345 (PDF 360)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 345.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.5** *(Kannada)*
+
+"O Soma-deity, you are the lord of the good people who perform sacrifice. And you, the shining one, are the slayer of the demon Vṛtra. You yourself are the sacrifice, such as the Agniṣṭoma, that is auspicious."
+
+**English Translation** *(printed in English in the source; Rik 91.5)*
+
+"Soma, you are the protector, the sovereign of the pious or even the slayer of vritra ; you are holy sacrifice." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.5)** *(Kannada)*
+
+"When the portion of ghee belonging to the Soma deity is offered in the *Paurṇamāseṣṭi* (full-moon sacrifice), this Ṛk, *tvaṃ soma*, is to be used as the *puronuvākyā* mantra; this is explained by the Āśvalāyana Śrauta-sūtra by the sūtra '*agnir vṛtrāṇi jaṃghanad iti pūrvasyājyabhāgasyānuvākyā tvaṃ somāsi satpatir ity uttarasya*' (Ā. 1-3 [?]). In this way this Ṛk has application wherever the oblation is made with reference to Indra in connection with the slaying of Vṛtra. In the *upasad* sacrifice performed in the morning, in the mantras of the Soma deity, the principal *puronuvākyā* is this Ṛk; this matter is pointed out by the Āśvalāyana Śrauta-sūtra by the sūtra '*tvaṃ somāsi satpatir gayasphāno amīvahā iti viparyāso yājyānuvākyānāṃ*' (Ā. 4-8 [?])."
+
+***satpatiḥ*** — *satāṃ patiḥ* | "Or *satāṃ pālayitā*; one can take it as a *tatpuruṣa*; or as a *bahuvrīhi*, '*santaḥ patayaḥ yasya*'."
+
+> ब्रह्मा देवानां पदवीः कवीनामृषिर्विप्राणां महिषो मृगाणाम् ।
+
+*brahmā devānāṃ padavīḥ kavīnām ṛṣir viprāṇāṃ mahiṣo mṛgāṇām |*  (Ṛ. Saṃ. 9-96-6 [?])
+
+*Gloss, mine and tentative:* "The brahman of the gods, the leader of the poets, the seer of the sages, the buffalo among wild beasts."
+
+> पवित्रेभिः पवमानो नृचक्षा राजा देवानामुत मर्त्यानाम् ।
+
+*pavitrebhiḥ pavamāno nṛcakṣā rājā devānām uta martyānām |*  (Ṛ. Saṃ. 9-86-24 [?])  *(the same Ṛk as cited on p. 337)*
+
+> तस्मात्सोमराजानो ब्राह्मणाः ।
+
+*tasmāt somarājāno brāhmaṇāḥ |*  (Tai. Saṃ. 6-1-10-5 [?])
+
+*Gloss, mine and tentative:* "Therefore the Brāhmaṇas have Soma as their king."
+
+"— from such śruti-sentences it is well known that Soma is lord of the gods and of the good people who perform sacrifice, and the protector of the good; so the meaning '*satāṃ patiḥ*' or '*pālayitā*' may be given. Or"
+
+> स्वान भ्राजेत्याहैते वा अमुष्मिंल्लोके सोममरक्षन् ।
+
+*svāna bhrājety āhaite vā amuṣmiṃl loke somam arakṣan |*  (Tai. Saṃ. 6-1-10-5 [?])
+
+*Gloss, mine and tentative:* "He says '*svāna, bhrāja*'; these, in that world, guarded Soma."
+
+---
+
+### Page 346 (PDF 361)
+
+*(Running head: left "346", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+"— as such śruti-sentences say, one may take the meaning that Soma-deity is one for whom Svāna and the others are lords and protectors."
+
+***rājā*** — *rājamānaḥ* | "Since the word *satpatiḥ* already means 'lord', *rājā* here may be taken to mean 'the shining one'."
+
+***vṛtrahā*** — *vṛtrasyāsurasya śatror vā hantā* | "In many wars Soma has fought alongside Indra with Vṛtra, helping him and winning the victory for Indra."
+
+> स पवस्व य आविथेन्द्रं वृत्राय हन्तवे ।
+
+*sa pavasva ya āvithendraṃ vṛtrāya hantave |*  (Ṛ. Saṃ. 9-61-22 [?])
+
+*Gloss, mine and tentative:* "Flow clear, you who aided Indra to slay Vṛtra."
+
+"As said in this Ṛk, and likewise in Ṛ. Saṃ. 9-31-6 [?]; 9-23-3 [?]; 9-24-3 [?]; 9-24-9 [?] and many more Ṛks (numerals as read, all doubtful), the epithet 'Vṛtra-slayer' is well known of Soma. *Vṛtra* means a cloud."
+
+***bhadraḥ*** — "Auspicious; or worthy of worship."
+
+***kratuḥ*** — "It may mean one possessed of works or one possessed of understanding; or, as the bhāṣya says, '*agniṣṭomādi-yāga-rūpas tvam eva* | *tvatsādhanatvād yāgānām*' — you yourself are the sacrifice in all its forms: this is the meaning. When praying to the Soma-deity —"
+
+> आत्मा यज्ञस्य पूर्व्यः ।
+
+*ātmā yajñasya pūrvyaḥ |*  (Ṛ. Saṃ. 9-2-10 [?])
+
+*Gloss, mine and tentative:* "The ancient self of the sacrifice."
+
+> आत्मा यज्ञस्य रंह्या सुष्वाणः पवते सुतः ।
+
+*ātmā yajñasya raṃhyā suṣvāṇaḥ pavate sutaḥ |*  (Ṛ. Saṃ. 9-6-8 [?])
+
+*Gloss, mine and tentative:* "The self of the sacrifice, swiftly, being pressed, the pressed [Soma] flows clear."
+
+"— in Ṛks such as these, Soma is described as the very self of the sacrifice; therefore the meaning 'of the form of the sacrifice' may be given to *kratuḥ*."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.5)** *(Kannada; grammar page, noted briefly)*
+
+*satpatiḥ* — a *bahuvrīhi* compound; by *bahuvrīhau prakṛtyā pūrvapadam* (बहुव्रीहौ प्रकृत्या पूर्वपदम्, Pā. 6-2-1 [?]) the first member keeps its natural accent. If compounded as a *tatpuruṣa*, "*satāṃ patiḥ*", then by *patyāv aiśvarye* (पत्यावैश्वर्ये, Pā. 6-2-18 [?]) the first member keeps its natural accent.
+*vṛtrahā* — *vṛtraṃ hatavān*; when the word *vṛtra* is the *upapada*, in the past sense, by *brahmabhrūṇavṛtreṣu kvip* (ब्रह्मभ्रूणवृत्रेषु क्विप्, Pā. 3-2-87 [?]) the suffix *kvip* after the root *han*; the stem *vṛtrahan*; the nominative singular; by *gatikārakopapadāt kṛt* (गतिकारकोपपदात्कृत्) the *kṛdanta* final member keeps its natural accent — *(the print continues on p. 347)*
+
+---
+
+**Progress note:** Printed pp. 1–346 done (PDF 16–361) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.4 complete; Rik 91.5 done through the grammar page, which breaks at the foot of p. 346 after *vṛtrahā* (*gatikārakopapadāt kṛt*) and continues on p. 347 (not yet viewed). Next: printed p. 347 (PDF 362). Open flags: Special Topics of 91.5 (pp. 345–346): all Ṛgveda, Taittirīya and Āśvalāyana numerals in small digits [?]; Pāṇini numerals on p. 346 (6-2-1, 6-2-18, 3-2-87) [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed (Taittirīya Saṃhitā citation) [?]; Special Topics of 91.4 (pp. 341–342): all Ṛgveda and Nirukta numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; *divyanyaḥ* citation doubtful; the *ā yo gobhiḥ* gloss's last words doubtful; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; the *ūḍidaṃ padādi* sūtra number on p. 343 not legible; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 [?]; Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
