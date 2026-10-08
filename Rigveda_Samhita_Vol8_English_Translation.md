@@ -1011,4 +1011,77 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–25 done (PDF 21–45): Sūkta 95, Riks 95.1–95.3 complete; Rik 95.4: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English and Special Topics done (pp. 21–25; the Sāyaṇa/Skandasvāmin comparison on *vatsaḥ mātṝḥ svadhābhiḥ janayata* and *bahvīnāṃ garbhaḥ…*), its grammar page begun at the foot of p. 25 (*imam*). Next: printed p. 26 (PDF 46). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.4 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.4 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.4 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā* and *ābādiṣu* in the bhāṣyas of 95.3–95.4 [?]; *madhye ka ā ciketa* in the bhāṣya of 95.4 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
+### Page 26 (PDF 46)
+
+*(Running head: left 26; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Vyākaraṇa-prakriyā of Rik 95.4, continued from p. 25** *(grammar, noted briefly; numerals small and doubtful [?])*
+
+*imam*, concluded: *pūrvarūpa* (*ami pūrvaḥ*); the case-ending acute by *ūḍidaṃ padādi…* (Pā. 6-1-171 [?]). — ***ciketa*** — root *kit* (to know); *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 [?]); in the third person singular *ṇal* in place of the ending by *parasmaipadānāṃ ṇalatusus…* [as read]; reduplication of the root; the reduplicate keeps its first consonant (*ādihal śeṣaḥ*), *cutva* (*k* → *c*); guṇa of the light penultimate by *pugantalaghūpadhasya ca*; the form *ciketa*; *nighāta* after a verb-ending word. — ***janayata*** — as in 95.2: *ṇic* by *hetumati ca*, vṛddhi of the penultimate by *ata upadhāyāḥ*, *mit*-designation of the root by *janījṛṣknasurañjo 'mantāś ca* and shortening by *mitāṃ hrasvaḥ* (Pā. 6-4-92 [?]); after *ṇijanta*, as before, a Vedic *laṅ* in the present sense; the ending *ta* in the third person singular; *kartari śap*; guṇa and *ay* for the *ṇic*; *bahulaṃ chandasy amāṅyoge 'pi* gives non-addition of the augment *aṭ*; *nighāta*. — ***bahvīnām*** — the word *bahu*, when the feminine sense is intended, takes *ṅīṣ* by *nityaṃ chandasi* (Pā. 4-1-[?] [?]); *yaṇ*-substitution (*bahv*); *bahvī* is the form; in the genitive plural, *ām*; because the stem ends in a *nadī*-word, *nuṭ* by *hrasvanadyāpo nuṭ*; since *nām* follows a *jyā*-ending word, the acute on *ām* by *jyāś chandasi bahulam* (Pā. 6-1-[?] [?]). — ***apasām*** — root *āp* (to pervade), *svādi*; *asi* by *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā* (Uṇ. 4-[?] [?]): although the sense of 'work' is not present here, the suffix is applied by the wording *bahulam*; by that connexion the root's *ā* is shortened; the word *apas*; the *ā*-vowel after *p* acute through the suffix accent; genitive plural. — ***upasthāt*** — *upa* the preposition; *ṣṭhā* (cessation of motion); *upapadasthān* (*upatiṣṭhaty atra*, 'standing near it'); the *ka* suffix by *kṛtyalyuṭo bahulam* (Pā. 3-3-113 [?]), by the force of *bahulam* in the locative-type sense, and *ātaś copasarge* (Pā. 3-1-136 [?]) after the verb-root ending in *ā* when the *upasarga* is the upapada; since it is *kit*, the *ā* of the root is elided by *āto lopa iṭi ca* (Pā. 6-4-64 [?]); the accent of the *kṛt* compound — the first member's natural accent would arise, but since the word belongs to the *marudvṛdhādi* group, the first member's final acute by *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* (Pā. 6-2-[?] [?]); the fifth case, singular.
+
+### Page 27 (PDF 47)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 27.)*
+
+*Grammar of Rik 95.4, concluded:* ***carati*** — root *cara* (to go, to eat); *laṭ*, third person singular; *nighāta* accent, after a verb-ending word. ‖ 4 ‖
+
+---
+
+### Rik 5
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.5)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> आविष्ट्यो वर्धते चारुरासु जिह्मानामूर्ध्वः स्वयशा उपस्थे ।
+> उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते ॥ ५ ॥
+
+*āviṣṭyo vardhate cārur āsu jihmānām ūrdhvaḥ svayaśā upasthe | ubhe tvaṣṭur bibhyatur jāyamānāt pratīcī siṃhaṃ prati joṣayete ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.5)**
+
+> आविःऽत्यः । वर्धते । चारुः । आसु । जिह्मानाम् । ऊर्ध्वः । स्वऽयशाः । उपऽस्थे ।
+> उभे इति । त्वष्टुः । बिभ्यतुः । जायमानात् । प्रतीची इति । सिंहम् । प्रति । जोषयेते इति ॥ ५ ॥
+
+*āviḥ-tyaḥ | vardhate | cāruḥ | āsu | jihmānām | ūrdhvaḥ | sva-yaśāḥ | upa-sthe | ubhe iti | tvaṣṭuḥ | bibhyatuḥ | jāyamānāt | pratīcī iti | siṃham | prati | joṣayete iti ‖ 5 ‖*
+
+*(Reading note, now that the Pada has been viewed: the Pada divides the Saṃhitā's* āviṣṭyaḥ *as* āviḥ-tyaḥ *as printed [the second part* tya*].)*
+
+### Page 28 (PDF 48)
+
+*(Running head: left 28; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.5)**
+
+> आसु मेघस्थास्वप्सु वैद्युतात्मना वर्तमानोऽग्निश्चारुः शोभनदीप्तिः सन् आविष्ट्ये वर्धते । आविर्भूतः प्रकाशमानो वृद्धिं प्राप्नोति । किं कुर्वन् । जिह्मानां कुटिलानां मेघेषु तिर्यगवस्थितानां तासामपामुपस्थ उत्सङ्गे स्वयशाः स्वायत्तयशस्कोऽग्निरूर्ध्व ऊर्ध्वज्वलनः सन् स्वकारणभूतास्वप्सु तिर्यगवस्थितास्वपि स्वयमूर्ध्वं ज्वलन्नित्यर्थः । तदुक्तं वैशेषिकैः । अग्नेरूर्ध्वज्वलनं वायोस्तिर्यक्पवनं । अणुमनसोराद्यं कर्मेत्यदृष्टकारितानीति । अपि च । उभे द्यावापृथिव्यौ त्वष्टुर्दीप्ताज्जायमानादुत्पद्यमानात्स्वादग्नेर्बिभ्यतुः । भयं प्रापतुः । तदनन्तरमुत्पन्नं सिंहं सहनशीलमभिभवनशीलं तमग्निं प्रतीची प्रत्यञ्चन्त्यौ प्रतिगच्छन्त्याबाभिमुख्येन प्राप्नुवन्त्यौ जोषयेते । सेवेते । यास्कस्त्वाह । आविरावेदनात्त्यो वर्धते चारुरासु चारु चरतेर्जिह्मं जिहीतेरूर्ध्व उच्छ्रितो भवति स्वयशा आत्मयशा उपस्थ उपस्थान उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते द्यावापृथिव्याविति वाहोरात्रे इति वारुणे इति वापि चैते प्रत्येक्ते सिंहं सहनं प्रत्यासेनेते [?] । नि. ९-१५ [?] इति ॥ आविष्ट्यः । आविः शब्दाच्छन्दसि । पा. ५-३-१०४ [?] इति त्यक्प्रत्ययः [?] । प्रस्नात्तादौ रेद्धते [?] । पा. ८-३-१०३ [?] । इति षत्वं । आसु । इदमोऽन्नादेश इत्यशादेशोऽनुदात्तः । विभक्तिश्च सुप्तादेरनुदात्तेति सर्वानुदात्तत्वं । न चोडिदमिति विभक्तेरुदात्तत्वं शङ्कनीयं । अन्तोदात्तादिदंशब्दाद्धि तद्विधीयते । प्रतीची । प्रतिपूर्वादञ्चतेर्ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपः । अञ्चतेश्चोपसंख्यानमिति ङीप् । अचः इत्याकारलोपे चावितीति दीर्घत्वं । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वं । वा छन्दसीति पूर्वसवर्णदीर्घः । जोषयेते । जुषी प्रीतिसेवनयोः । स्वार्थे णिच् ॥
+
+*āsu meghasthāsv apsu vaidyutātmanā vartamāno 'gniś cāruḥ śobhanadīptiḥ san āviṣṭye vardhate | āvirbhūtaḥ prakāśamāno vṛddhiṃ prāpnoti | kiṃ kurvan | jihmānāṃ kuṭilānāṃ megheṣu tiryag avasthitānāṃ tāsām apām upastha utsaṅge svayaśāḥ svāyattayaśasko 'gnir ūrdhva ūrdhvajvalanaḥ san svakāraṇabhūtāsv apsu tiryag avasthitāsv api svayam ūrdhvaṃ jvalann ity arthaḥ | tad uktaṃ vaiśeṣikaiḥ | agner ūrdhvajvalanaṃ vāyos tiryakpavanaṃ | aṇumanasor ādyaṃ karmety adṛṣṭakāritānīti | api ca | ubhe dyāvāpṛthivyau tvaṣṭur dīptāj jāyamānād utpadyamānāt svād agner bibhyatuḥ | bhayaṃ prāpatuḥ | tadanantaram utpannaṃ siṃhaṃ sahanaśīlam abhibhavanaśīlaṃ tam agniṃ pratīcī pratyañcantyau pratigacchantyābhimukhyena prāpnuvantyau joṣayete | sevete | yāskas tv āha | āvirāvedanāt tyo vardhate cārur āsu cāru caraṭer jihmaṃ jihīter ūrdhva ucchrito bhavati svayaśā ātmayaśā upastha upasthāna ubhe tvaṣṭur bibhyatur jāyamānāt pratīcī siṃhaṃ prati joṣayete dyāvāpṛthivyāv iti vāhorātre iti vāruṇe iti vāpi caite pratyekte siṃhaṃ sahanaṃ pratyāsenete [?] | ni. 9-15 [?] iti ‖ āviṣṭyaḥ | āviḥ śabdāc chandasi | pā. 5-3-104 [?] iti tyakpratyayaḥ [?] | prasnāttādau reddhate [?] | pā. 8-3-103 [?] | iti ṣatvaṃ | āsu | idamo 'nnādeśa ity aśādeśo 'nudāttaḥ | vibhaktiś ca suptādeḥ anudātteti sarvānudāttatvaṃ | na coḍidam iti vibhakter udāttatvaṃ śaṅkanīyaṃ | antodāttād idaṃśabdād dhi tad vidhīyate | pratīcī | pratipūrvād añcater ṛtvig ity ādinā kvin | aniditām iti nalopaḥ | añcateś copasaṃkhyānam iti ṅīp | acaḥ ity ākāralope cāviti dīrghatvaṃ | udāttanivṛttisvareṇa ṅīpa udāttatvaṃ | vā chandasīti pūrvasavarṇadīrghaḥ | joṣayete | juṣī prītisevanayoḥ | svārthe ṇic ‖*
+
+*Sense (mine, from the Kannada that follows):* "The Agni who is in these cloud-waters in the form of lightning, *cāru*, of beautiful brilliance, grows manifest (*āviṣṭye*): having appeared, shining, he increases. Doing what? In the lap of the waves, of the crooked ones (*jihmānām*), that lie slantwise in the clouds, Agni, *svayaśāḥ* (with fame of his own), *ūrdhva* — burning upward — is himself blazing upward even within his own causes, the waters lying across. As the Vaiśeṣikas have said: 'the upward blazing of fire, the sideways blowing of wind, the first action of the atoms and the mind, are brought about by the unseen [force]'. And: both heaven and earth were frightened of this Agni, who was shining and being born from Tvaṣṭṛ; they fell into fear. After that, the lion — the one who bears, the overcoming one — that Agni, they (*pratīcī*), facing and coming towards him, approaching face to face, serve (*joṣayete*, they worship). Yāska says: '*āvir āvedanāt* … [the passage is clotted [?]] (Ni. 9-15 [?])'." *(The two Pāṇinian sūtra numbers and the form* prasnāttādau reddhate *are clotted in the print [?]; the grammatical tail is characterized: the suffix* tya *after* āviḥ *in the Veda; *ṣatva*;* āsu *— the substitution of* aś *for* idam*, an unaccented form, and the discussion why the case-ending is nevertheless acute;* pratīcī *— from* añc *with the prefix* prati *by* kvin*, loss of the nasal, the feminine* ṅīp*, with the ending's accent;* joṣayete *— from* juṣī *(love, service), *ṇic* in the same sense. Numerals doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*āsu* — in these (cloud-)waters (Agni, in the form of lightning, among others); *cāruḥ* — of charming lustre; *jihmānām* — (in the form of waves) of the crooked waters; *upasthe* — in the sides; *svayaśāḥ* — making himself shine by himself; *ūrdhvaḥ* — one with the upward-turned flame; *āviṣṭyaḥ* — manifest; *vardhate* — grows; *ubhe* — both heaven and earth; *tvaṣṭuḥ* — shining; *jāyamānāt* — rising, from the sight of this Agni; *bibhyatuḥ* — became afraid; (afterwards) *siṃhaṃ prati* — towards the all-overcoming Agni; *pratīcī* — facing, confronting; *joṣayete* — they serve (they pay honour)."
+
+### Page 29 (PDF 49)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 29.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Agni, in the cloud-waters, makes his own heart-stealing radiance shine in the form of lightning. Making himself shine by himself, with an upward-turned flame he grows manifest. At the time when Agni rises in this form, both heaven and earth are seized with fear. Afterwards, facing this Agni, who is of the nature of pervading everywhere, they pay him their homage."
+
+**English Translation (as printed)**
+
+> Appearing amongst them ( the waters ), the bright-shining (Agni) increases, rising above the flanks of the waving waters, spreading his own renown : both (heaven and earth) are alarmed as the radiant Agni is born, and approaching the lion, they pay him honour.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.5 (Kannada)**
+
+> इदमुक्तं भवति । न साधारणवत्सवदयमग्निर्वत्सो दृश्यमानो मातुरुदरे वर्धते तर्हि दृश्यमान एव वर्धते । पशुवत्तिर्यक्षीनानां [?] आबूपमात्र्येणामुदरे च तिर्यगीनो न वर्धते तर्हि ऊर्ध्वः सन् वर्धते । ता इव चायं न दीप्तिहीनस्तर्हि स्वयशाः स्वायत्तदीप्तिर्भवति । त्वष्टुस्तु यदायमग्निर्जातस्तदा द्यावापृथिव्यावपि तस्माद्भीत्वा परागच्छते । पश्चात्त्वनुरागत्य तं सिंहसदृशमग्निं चालवत्से नेते स्नेति भावः ॥
+> *idam uktaṃ bhavati | na sādhāraṇavatsavad ayam agnir vatso dṛśyamāno mātur udare vardhate tarhi dṛśyamāna eva vardhate | paśuvat tiryakṣīnānām [?] ābūpamātryeṇāmudare ca tiryagīno na vardhate tarhi ūrdhvaḥ san vardhate | tā iva cāyaṃ na dīptihīnas tarhi svayaśāḥ svāyattadīptir bhavati | tvaṣṭus tu yadāyam agnir jātas tadā dyāvāpṛthivyāv api tasmād bhītvā parāgacchate | paścāt tv anurāgatya taṃ siṃhasadṛśam agniṃ cālavatse nete sneti bhāvaḥ ‖*
+
+*(The Sanskrit of this comment, evidently Skandasvāmin's, is very clotted in the print and is read as given, doubtful throughout [?]. Its sense, as the Kannada explains:)* "That is: unlike an ordinary child, this Agni does not grow hidden in the mother's womb, but grows being seen by all (by the burning of fuel such as wood). Besides, unlike animals, he does not grow concealed in the womb of the waters, but, to everyone's sight, he grows with upward-turned flames. Nor, like the waters, his mothers, is he without lustre: he shines by himself. When this Agni is born, heaven and earth are, indeed, frightened and withdraw; but afterwards, drawing near, they serve this lion-like Agni."
+
+"Here the nature of the lightning-fire is described. At one and the same moment, it is charming and also, by its frightful qualities, awful; the glory of the lightning is praised, and its description is given. In the midst of the rain-giving waters in the form of waves, the Agni who appears in the form of lightning — brilliant, and of heart-stealing radiance — becomes, as soon as he arises, extremely delightful. At the same moment, the glory of that lightning, more than that of all the forces," *(continues on p. 30)*
+
+---
+
+**Progress note:** Printed pp. 1–29 done (PDF 21–49): Sūkta 95, Riks 95.1–95.4 complete (95.4's grammar on pp. 25–27); Rik 95.5: Saṃhitā, Pada, bhāṣya (with Yāska's explanation; grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done, and its Special Topics begun (the Skandasvāmin comment and the lightning-fire paragraph, breaking at the foot of p. 29 at "…the glory of that lightning, more than that of all the forces,"). Next: printed p. 30 (PDF 50). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.5 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the whole clotted comment on p. 29 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.4 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.5 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation (Ni. 9-15 [?]) and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
