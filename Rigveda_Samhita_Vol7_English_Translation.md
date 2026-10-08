@@ -9552,4 +9552,117 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–340 done (PDF 16–355) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.3 complete (the grammar page of 91.3 on p. 338); Rik 91.4 done through the first lines of the Special Topics (*yā te dhāmāni*, the sentence stops at the foot of p. 340 mid-clause: "With all your lustres —"). Next: printed p. 341 (PDF 356) — continue the Special Topics of 91.4 from "…with all your lustres". Open flags: Āśvalāyana numerals on pp. 339–340 (2-9, 3-2, 4-3) [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?] (6-3-132, 8-3-103, 7-4-50, U. 3-96); *śāyaj* rule of the grammar tail of 91.4 partly read [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?] (*haṃti rakṣo…* text and ref doubtful; the *niśi-kram-* phrase doubtful; *soma rājan pra ṇa* ligatures unclear); Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 341 (PDF 356)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 341.)*
+
+*Special Topics of Rik 91.4, continued from p. 340 (Kannada) — the sentence broken at the foot of p. 340 continues:* "…with all your lustres, united [with them], or united with all your places, accept our oblations — this is the sense. If the word *dhāman* is taken in the sense of 'place', which are those places? —"
+
+***divi*** — "One place of Soma is in the world of heaven. The story is well known that the first dwelling-place of Soma was the heavenly world, and that the falcon (*śyena*) brought it from there to the earth."
+
+> सोमं भरद्वाद्‍हाणो [?] देवाबान्ब्वो [?] अमुष्मादुत्तरादादाय ।
+
+*somaṃ bharadvād…hāṇo [?] devā… [?] amuṣmād uttarād ādāya |*  (Ṛ. Saṃ. 4-26-6 [?]; the Saṃhitā text of this citation is garbled in my reading of the print and is not reproduced with confidence [?]; gloss omitted)
+
+> दिवं सुपर्णो गत्वाय सोमं वज्रिण आभरत् ।
+
+*divaṃ suparṇo gatvāya somaṃ vajriṇa ābharat |*  (Ṛ. Saṃ. 8-100-8 [?], numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "The well-winged one, having gone to heaven, brought the Soma for the wielder of the thunderbolt."
+
+"— many such śruti-sentences set forth that the place of Soma was first the world of heaven, and that afterwards the falcon brought it to the earth."
+
+***pṛthivyām*** — "That the Soma-juice, for the performance of the sacrifice and for the satisfaction of Indra and the other deities, is brought down to the earth, and that its place is established in the earth, is said in the mantra"
+
+> दिव्यन्यः सदनं चक्र उच्चा पृथिव्यामन्यो अध्यन्तरिक्षे ।
+
+*divyanyaḥ sadanaṃ cakra uccā pṛthivyām anyo adhy antarikṣe |*  (Ṛ. Saṃ. 3-40-4 [?])
+
+*Gloss, mine and tentative:* "One made his seat on high in heaven, another on the earth, another in the mid-region [reading of *divyanyaḥ* doubtful [?]]."
+
+"— and in many other places, as in this mantra, the benefit to the world that comes from Soma is described."
+
+***parvateṣu*** — "Of all the best plants the mountain too is the support for the Soma-creeper; and it is said that the Soma-creeper is brought from the mountains for all that the sacrifice needs. In the Ṛgveda:"
+
+> आन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
+
+*ānyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ |*  (Ṛ. Saṃ. 1-93-6 [?])
+
+*Gloss, mine and tentative:* "Mātariśvan brought one [fire] from heaven; the falcon churned out the other from the mountain."
+
+> असाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः ।
+
+*asāvy aṃśur madāyāpsu dakṣo giriṣṭhāḥ |*  (Ṛ. Saṃ. 9-[?]-4 [?])
+
+*Gloss, mine and tentative:* "The Soma-shoot has been pressed for exhilaration, the skilful one that dwells on the mountain, in the waters."
+
+"— and likewise in the Ṛks 3-49-4 [?]; 5-43-4 [?]; 9-85-10 [?]; 9-59-6 [?] and others (numerals as read from small digits, all doubtful [?]) the place of Soma on the mountains is described."
+
+***oṣadhīṣu*** — "Among the roots, the Soma-creeper itself, the best, is the support of the Soma-juice; so the place of the root-substance —"
+
+---
+
+### Page 342 (PDF 357)
+
+*(Running head: left "342", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*(continuing — "…the place of the root-substance, in the plants: this is described in")*
+
+> आ यो गोभिः सृज्यत ओषधीष्वा देवानां सुम्न इषयन्नुपावसुः ।
+
+*ā yo gobhiḥ sṛjyata oṣadhīṣv ā devānāṃ sumna iṣayann upāvasuḥ |*  (Ṛ. Saṃ. 9-[?]-3 [?])
+
+*Gloss, mine and tentative:* "Who is mixed with the milks, who [dwells] in the plants, [and] in the favour of the gods, the impeller, the one who stands by with riches [reading of the last words doubtful [?]]."
+
+"In such Ṛks it is described that the Soma-juice, for the satisfaction of the deities, is established in the plants."
+
+***apsu*** — "The sacred waters of the tīrthas increase the sweetness of the Soma-juice; at the beginning of the sacrifice the Soma-juice is mixed with water, and its sweetness thereby grows. In such contexts —"
+
+> याभिः सोमो मोदते हर्षते च कल्याणीभिर्युवतिभिर्न मर्यः ।
+
+*yābhiḥ somo modate harṣate ca kalyāṇībhir yuvatibhir na maryaḥ |*  (Ṛ. Saṃ. 10-30-5 [?])
+
+*Gloss, mine and tentative:* "With whom [the waters] Soma rejoices and is glad, as a man with fair young women."
+
+"— in Ṛks such as this, the relation between Soma and the waters is likened to the relation of husband and wife, and to the happiness of wedded life. Therefore the waters too are well known as places of the Soma-juice."
+
+"Thus, existing in all these places — the world of heaven, the earth, the mountain, the plants, the water — and together with all the places, accept our oblations: this is the intention."
+
+"Moreover, if the word *dhāman* is given the sense 'lustre', it means 'all the various kinds of greatness of Soma'. As is described in many places — Ṛ. Saṃ. 3-40-13 [?]; 9-82-24 [?]; 9-74-3 [?]; 9-85-6 [?] and others (numerals as read, doubtful) — Soma is lord over all men and the gods too, resplendent like the sun, the producer of all the orbs of light, the guide of the way of right conduct like Varuṇa, the one who sets the world in order: so, joined with these various greatnesses, accept our oblations — this is the intention."
+
+***aheḷan*** — "*reḷate, heḷate* — since it is included among the 'names of anger' (*krodhakarmanāmāni*) beginning *reḷate, heḷate* in the Nirukta (Ni. 2-[?] [?]), *heḷan* means 'being angry', and *aheḷan* means 'being not angry'. The prayer '*aheḷan sumanā bhava*' is found in Ṛ. Saṃ. 1-24-11 [?]; 1-[?]-3 [?]; 6-[?]-1 [?]; 10-3[?]-8 [?] and other Ṛks (numerals as read, doubtful). Because of the belief that Agni, Varuṇa, Soma and the other deities punish those who commit sin, and because they know that the favour of those deities will not be obtained [by the sinful], the sacrificers all pray, out of fear of great sin, that those deities not be angry and, not disregarding them, show them favour and do them good."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.4)** *(Kannada; grammar page, noted briefly)*
+
+*yā* — the word *yad*; in the neuter nominative plural *śi* is the replacement; *ā* for the stem; the augment *num* [as read]; lengthening; by *śe chandasi bahulam* (शे छन्दसि बहुलम्, Pā. 6-1-70 [?]) there is elision of *śi*.
+
+---
+
+### Page 343 (PDF 358)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 343.)*
+
+*Vyākaraṇa-prakriyā of Rik 91.4, continued (grammar page, noted briefly):*
+
+*divi* — the word *div*; the locative singular; by *ūḍidaṃ padādi* (ऊडिदं पदाद्यप्पुम्नस्रुभ्यः, the cited sūtra, [Pā. 6-1-171] [?]) the case-ending takes the acute.
+*pṛthivyām* — after the stem *pṛthivī*, the locative singular follows, and by *ṅer ām nadyāmnībhyaḥ* (ङेराम्नद्याम्नीभ्यः [?], Pā. 7-3-116 [?]) the replacement *ām*; *ī* is replaced by *y* (*yaṇ*); *udāttayaṇo hal pūrvāt* (उदात्तयणो हल्पूर्वात्, Pā. 6-1-174 [?]) — as the *yaṇ* replacing the acute vowel stands before, the case-ending takes the acute.
+*oṣadhīṣu* — stem *oṣadhi*; locative plural *sup*; by *ādeśapratyayayoḥ* (आदेशप्रत्यययोः, Pā. 8-3-59 [?]) the *ṣatva*; by *oṣadheś ca vibhaktyāv aprathamāyām* (ओषधेश्च विभक्त्यावप्रथमायाम्, Pā. 6-3-132 [?]), since a case-ending other than the nominative follows, the stem *oṣadhi* is lengthened.
+*apsu* — locative plural; *ūḍidaṃ padādi* — the case-ending accent.
+*tebhiḥ* — the word *tad*; instrumental plural; by *bahulaṃ chandasi* (बहुलं छन्दसि, Pā. 7-1-10 [?]) there is no *ais*-replacement.
+*sumanāḥ* — *śobhanaṃ manaḥ yeṣāṃ te sumanāḥ*; *sor manasī alomoṣasī* (सोर्मनसी अलोमोषसी, Pā. 6-2-117 [?]) — the final-member initial-acute.
+*havyā* — the neuter accusative plural, *śi* replacement, and by *śeś chandasi bahulam* (शेश्छन्दसि बहुलम्) elision of *śi*.
+*gṛbhāya* — root *grah upādāne*; *loṭ*, second person singular, *sip* → *hi*; *kryādibhyaḥ śnā* (क्र्यादिभ्यः श्ना) gives the *śnā* suffix; on that *hi* following, *śānac* would be the replacement, but *chandasi śāyajapi* (छन्दसि शायजपि, Pā. 3-1-84 [?]) gives *śāyac*; *ato heḥ* (अतो हेः, Pā. 6-4-105 [?]) — *luk* of *hi*; *gṛhāya*: *hṛgrahor bhaś chandasi* (हृग्रहोर्भश्छन्दसि, Vārttika [?], numeral as read "वा. ४४३?" [?]) — *ha* replaced by *bha*; the *nighāta* accent following the preverb. ‖ 4 ‖
+*(The sūtra-name in the grammar tail on p. 339, which I there read "śāyajapīti" with a query, is clearer here: *chandasi śāyajapi*.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.5)**
+
+> त्वं सोमासि सत्पतिस्त्वं राजोत वृत्रहा ।
+> त्वं भद्रो असि क्रतुः ॥ ५ ॥
+
+*tvaṃ somāsi satpatis tvaṃ rājota vṛtrahā | tvaṃ bhadro asi kratuḥ ‖ 5 ‖*
+
+*(Gāyatrī, three pādas. Accent marks not reproduced; the Pada follows on p. 344.)*
+
+---
+
+**Progress note:** Printed pp. 1–343 done (PDF 16–358) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.4 complete (pp. 326–343); Rik 91.5 Saṃhitā at the foot of p. 343. Next: printed p. 344 (PDF 359) — the Pada of 91.5 first. Open flags: Special Topics of 91.4 (pp. 341–342): all Ṛgveda and Nirukta numerals in small Kannada digits [?]; the first citation (*somaṃ bharadvād…*) garbled in reading and given with no gloss [?]; *divyanyaḥ* citation doubtful; the *āyo gobhiḥ* gloss's last words doubtful; Pāṇini numerals on pp. 342–343 (6-1-70, 6-1-171, 7-3-116, 6-1-174, 8-3-59, 6-3-132, 7-1-10, 6-2-117, 3-1-84, 6-4-105) and the Vārttika numeral [?]; Āśvalāyana numerals on pp. 339–340 (2-9, 3-2, 4-3) [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; Ṛgveda, Taittirīya and Nirukta numerals of the Special Topics of 91.3 on pp. 335–337 in small Kannada digits [?]; Ṛgveda and Nirukta numerals in the Special Topics of 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 given as read, doubtful [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
