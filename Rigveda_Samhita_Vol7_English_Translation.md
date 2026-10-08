@@ -7586,7 +7586,7 @@ Closing of Rik 89.2: "॥ २ ॥" (2).
 
 *(Running head: "274 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
 
-*(The whole of the bhāṣya of 89.3, with its grammatical tail, stands on p. 273 and the first lines of p. 274 in the print; the passage on* hūmahe*, the* asridham *and* mayaskarat *entries given above are the whole tail as printed, continuing at the head of p. 274 with its final words.)*
+*(Correction of the layout note: the bhāṣya of 89.3 begins on p. 273 and breaks off at "asau vā ādityo…"; it continues on p. 274, where the passages on Aryaman, Varuṇa, Soma and the Aśvins, with Yāska's quotation, and the grammatical tail (*hūmahe, asridham, mayaskarat*) stand. The whole bhāṣya is given above in one piece, as read across the two pages.)*
 
 **॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.3)** *(Kannada)*
 
@@ -7632,4 +7632,88 @@ That is, of the female deities of the middle region (the atmospheric deities), A
 
 ---
 
-**Progress note:** Printed pp. 1–275 done (PDF 16–290) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.2 complete**; **Rik 89.3** done through the bhāṣya, Pratipadārtha, Bhāvārtha, English and most of the Special Topics (to *dakṣam*, mid-entry at the foot of p. 275); the rest of the Special Topics and the grammar page follow on p. 276, then 89.4–89.10. Next: printed p. 276 (PDF 291). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–275 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273 tails clotted (p. 273 given as one block, the page-274 head being a short end of it); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 276 (PDF 291)
+
+*(Running head: "276 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.3, continued from p. 275:*
+
+"…since he pervades all beings in the form of breath, he may also be called Hiraṇyagarbha. Yāska has given another meaning of the word *dakṣa*:
+
+> आदित्यो दक्ष इत्याहुरादित्यमध्ये च स्तुतः ॥
+
+*ādityo dakṣa ity āhur ādityamadhye ca stutaḥ ‖* (Ni. [11-23] [?]) — *Gloss, mine and tentative:* "They say that the Āditya is Dakṣa; and he is praised among the Ādityas."
+
+— *dakṣa* is also a name of an Āditya, for Dakṣa is counted among the twelve Ādityas. As an example he gave the Ṛk —
+
+> अदितेर्दक्षो अजायत दक्षाद्वदितिः परि ॥
+
+*aditer dakṣo ajāyata dakṣād v aditiḥ pari ‖* (Ṛ. Saṃ. 10-72-4) — *Gloss, mine and tentative:* "From Aditi Dakṣa was born, and from Dakṣa Aditi [was born] besides."
+
+- **अर्यमणम्** — *arīn mandehādīn asurān pracchati niyacchatīty aryamā sūryaḥ* — "since this deity restrains enemies, Asuras by the name of Mandehas and others, he is called Aryaman. '*asau vā ādityo 'ryamā*' — 'that Āditya is Aryaman' — says a Śruti sentence: Aryaman is the sun, one of the twelve Ādityas."
+- **अस्रिधम्** — *śoṣaṇarahitaṃ sarvadaikarūpeṇa vartamānaṃ marudgaṇam* — "the Marut host, which does not dry up and is ever in one form."
+- **वरुणम्** — *vṛṇoti pāpakṛtaḥ svakīyaiḥ pāśair āvṛṇotīti rātryabhimānidevo varuṇaḥ | śrūyate ca | vāruṇī rātriḥ* (Tai. Brā. [1-2-10-1] [?]) — "one who encloses the evildoers with his nooses; and there is a Śruti sentence that this Varuṇa is the deity of the night."
+- **सोमम्** — *dvedhātmānaṃ vibhajya pṛthivyāṃ latārūpeṇa divi ca candrātmanā devatārūpeṇa vartamānam* — "the deity Soma, who has divided himself into two and exists on earth in the form of the creeper called Soma and in heaven (the atmosphere) in the form of the deity called the moon."
+- **अश्विना** — *aśvināśvavantau | yadvā sarvaṃ vyāpnuvantau* — "'possessed of horses', hence the name *aśvinī*-deities; or those who pervade everything. Yāska:
+
+> अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । अहोरात्रावित्येके । सूर्याचन्द्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥
+
+*aśvinau yad vyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvair aśvināv ity aurṇavābhaḥ | tau kāv aśvinau dyāvāpṛthivyāv ity eke | ahorātrāv ity eke | sūryācandramasāv ity eke | rājānau puṇyakṛtāv ity aitihāsikāḥ ‖* (Ni. [12-1] [?]) — *Gloss, mine and tentative:* "The Aśvins — because the one pervades all with moisture, the other with light; [or], says Aurṇavābha, 'with horses'. Who are the two Aśvins? Some say heaven and earth; some, day and night; some, sun and moon; the historians say, two virtuous kings."
+
+That is, since the Aśvin deities pervade all with water, they are called Aśvins, say some; others, since they pervade everything with light; the sage Aurṇavābha says they are called Aśvins because they have horses. Who are these Aśvin deities? Some say heaven and earth, some day and night, some sun and moon; the historians say two kings who did meritorious deeds."
+- **सरस्वती** — "As to the deity Sarasvatī, see what we have written at length in Ṛ. Saṃ. Part 3, pp. 69–77."
+- **मयः** — "among the twenty-seven names of happiness — *śaṃbhūḥ, śatarā* and the rest — the word *mayaḥ* is read; so *mayaḥ* means happiness (Ni. [3-6] [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **हूमहे** — the root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person plural, the affix *mahiṅ*; by "टित आत्मनेपदानां टेरे" the *e*; by "ह्वः सम्प्रसारणम्" (Pā. Sū. 6-1-[32]) *hvaḥ* running on, by "बहुलं छन्दसि" the *saṃprasāraṇa* of the root; by "सम्प्रसारणाच्च" the earlier form; when *hu + mahe*, by "हलः" (Pā. Sū. 6-4-[2]) the lengthening of the *saṃprasāraṇa* vowel that stands before a consonant [as read: *aṅgasya halaḥ …*]: so the *u* is lengthened; by "बहुलं छन्दसि" the *luk* of *śap*; since it follows an *atiṅanta*, the *nighāta*.
+
+---
+
+### Page 277 (PDF 292)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 277.)*
+
+*Vyākaraṇa-prakriyā of Rik 89.3, continued from p. 276 (grammar, noted briefly):*
+
+- **अस्रिधम्** — the root *sridhu śoṣaṇe*; since it is read in the *sampadādi* list, by "सम्पदादिभ्यः क्विप्" the affix *kvip* in the abstract sense; the word *sridh*; *na vidyate sridh yasya sa asridh* — in the *bahuvrīhi* compound, by "नञ्सुभ्याम्" the final syllable of the latter member is acute; accusative singular.
+- **अश्विना** — the word *aśvin*; in the dual after it, by "सुपां सुलुक्" the substitute *ā* for the case-ending.
+- **मयस्करत्** — *mayaḥ karat*; the root *ḍukṛñ karaṇe*; *leṭ*, third person singular, the affix *tip*; by "इतश्च लोपः परस्मैपदेषु" (Pā. Sū. 3-4-[97]) the loss of its *i*; by "लेटोऽडाटौ" the augment *aṭ*; by "बहुलं छन्दसि" the *luk* of the *vikaraṇa* *u*; by "सार्वधातुकार्धधातुकयोः" the *guṇa* of the *ik* of the root because of the affix; *mayaḥ + karat*, when the *jihvāmūlīya* would come… *(continues on p. 278)*
+
+---
+
+### Page 278 (PDF 293)
+
+*(Running head: "278 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Vyākaraṇa-prakriyā of Rik 89.3, concluded from p. 277:*
+
+- **मयस्करत्** (cont.) — "…it comes; but by "अतः कृकमिकंसकुम्भपात्रकुशाकर्णीष्वनव्ययस्य" (Pā. Sū. 8-3-[46]) since *a* precedes, the *s* for the visarga; in *mayaskarat* by "तिङ्ङतिङः" the *nighāta* accent for the *tiṅanta*."
+
+Closing of Rik 89.3: "॥ ३ ॥" (3), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.4)** *(Jagatī; Viśvedevas; accents not reproduced)*
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
+> तद्ग्रावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवम् ॥ ४ ॥
+
+*tan no vāto mayobhu vātu bheṣajaṃ tan mātā pṛthivī tat pitā dyauḥ | tad grāvāṇaḥ somasuto mayobhuvas tad aśvinā śṛṇutaṃ dhiṣṇyā yuvam ‖ 4 ‖*
+
+*Gloss, mine and tentative:* "May the wind blow us that happy remedy; that, may Mother Earth, that Father Heaven [give]; that, the Soma-pressing stones, the givers of happiness; that, O Aśvins, you hear, O worthy ones."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.4)**
+
+> तत् । नः । वातः । मयःऽभु । वातु । भेषजम् । तत् । माता । पृथिवी । तत् । पिता । द्यौः ।
+> तत् । ग्रावाणः । सोमऽसुतः । मयःऽभुवः । तत् । अश्विना । शृणुतम् । धिष्ण्या । युवम् ॥ ४ ॥
+
+*tat | naḥ | vātaḥ | mayaḥ-bhu | vātu | bheṣajam | tat | mātā | pṛthivī | tat | pitā | dyauḥ | tat | grāvāṇaḥ | soma-sutaḥ | mayaḥ-bhuvaḥ | tat | aśvinā | śṛṇutam | dhiṣṇyā | yuvam ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.4)** *(begins at the foot of p. 278)*
+
+> वातो वायुस्तद्भेषजमौषधं नोऽस्मान्प्रापयतु । यद्भेषजं मयोभु मयसः सुखस्य भावयितृ । माता सर्वेषां जननी पृथिवी भूमिरपि तद्भेषजमस्मान्प्रापयतु । पिता वृष्टिप्रदानेन सर्वेषां रक्षिता द्यौर्दुलोकोऽपि तद्भेषजमस्मान्प्रापयतु । सोमसुतः सोमाभिषवं कृतवन्तो मयोभुवो मयसो योगफलभूतस्य सुखस्य भावयितारो ग्रावाणो ऽभिषवसाधनाः पाषाणाश्च तद्भेषजमस्मान्प्रापयन्तु । हे धिष्ण्या धिषणा बुद्धिः । तदर्हावश्विना युवं …
+
+*vāto vāyus tad bheṣajam auṣadhaṃ no 'smān prāpayatu | yad bheṣajaṃ mayobhu mayasaḥ sukhasya bhāvayitṛ | mātā sarveṣāṃ jananī pṛthivī bhūmir api tad bheṣajam asmān prāpayatu | pitā vṛṣṭipradānena sarveṣāṃ rakṣitā dyaur dyuloko 'pi tad bheṣajam asmān prāpayatu | somasutaḥ somābhiṣavaṃ kṛtavanto mayobhuvo mayaso yogaphalabhūtasya sukhasya bhāvayitāro grāvāṇo 'bhiṣavasādhanāḥ pāṣāṇāś ca tad bheṣajam asmān prāpayantu | he dhiṣṇyā dhiṣaṇā buddhiḥ | tadarhāv aśvināv yuvaṃ …* *(the bhāṣya runs on to p. 279)*
+
+---
+
+**Progress note:** Printed pp. 1–278 done (PDF 16–293) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.3 complete**; **Rik 89.4** — Saṃhitā, Pada and the first part of the bhāṣya done (foot of p. 278); the bhāṣya continues on p. 279; then 89.5–89.10. Next: printed p. 279 (PDF 294). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273–274 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
