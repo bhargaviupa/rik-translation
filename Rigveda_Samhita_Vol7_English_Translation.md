@@ -12939,6 +12939,94 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–454 done (PDF 16–469), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.12 complete (92.3 minus the missing p. 413); Rik 92.13 (the first Uṣṇih Ṛk) Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha done (p. 454), the Pratipadārtha ending "…*asmabhyam* — to us; *ā bhara* — bring." Next: printed p. 455 (PDF 470) — the Bhāvārtha, English translation and Special Topics of 92.13. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–452 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–454 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print (the Kannada sentence after it partly obscured) [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.13 (in 92.13 the final *aitva*/*yepravṛtti* clause) [?]; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
+### Page 455 (PDF 470)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 455.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.13** *(Kannada)*
+
+"O Uṣas deity, united with sacrificial acts in which oblations are offered: bring us in many ways wealth of that kind — wealth we desire — by which we may sustain our children and grandchildren."
+
+**English Translation** *(printed in English in the source; Rik 92.13)*
+
+"Ushas, possessor of food, bring us that various wealth by which we may sustain sons and grandsons." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.13)** *(Kannada)*
+
+"In reciting the Ṛks of the Uṣṇih metre, belonging to the Uṣasya *kratu* at the time of reciting the *prātaranuvāka* mantras, these three Ṛks beginning *uṣas tac citram* are to be recited; and these Ṛks are applied at the time of reciting the mantras of the *Āśvina-śastra* too: so it is stated by the Āśvalāyana Śrauta-sūtra, in the section *athoṣasya*, in the sūtra *uṣas tac citram ā bhara* (Ā. 4-14)."
+
+***tokaṃ ca tanayaṃ ca*** — "*tuk, tokam, tanayaḥ* and the like are read among the fifteen names of offspring (Ni. 3-[?] [?]); so the meaning of both words is 'son'. Looked at crudely, the meaning of these two words is one. But in usage there is the custom of speaking of 'son and grandson' together. Not only that: the author of the Nirukta, in *tokaṃ tudyateḥ* ['*toka* from *tud*'] and *tanayaṃ tanoteḥ* ['*tanaya* from *tan*'], has shown the technical difference in the two. Explaining this, the commentators say: '*tokam iti putraḥ sa hi nityaṃ pitrā vinayitā tudyate idaṃ kuru idaṃ mā kārṣīr iti* | *tanayaṃ — tanoteḥ pautram* | *tadvṛttitarāṃ pituḥ sakāśāt tatam bhavati*' — '*toka* means a son: for he is constantly goaded by his father, "do this, do not do that"; *tanaya* is from *tan*, a grandson: he becomes wider [more extended] than the father': that is, the father who gives instruction, giving a fixed injunction of conduct and so regulating the son's life, is the reason why the son is called *toka*, and the grandson, as the means of extending and prospering the line, is called *tanaya*: so the meaning arises (Ni. 10-[?] [?])."
+
+***dhāmahe*** — *dadhīmahi* (Ni. 12-6 [?]) | "'To support': that is, 'we protect'. By what wealth we shall be able to protect our sons, grandsons and the like —"
+
+***citram*** — *maṃhanīyam* (Ni. 12-6 [?]) | "'Bring us wealth that is to be honoured': this is the sense of the prayer."
+
+"After this same prayer of the same order, the Ṛk composed by the ṛṣi Vāmadeva, in which Uṣas is addressed, [is cited:]
+
+---
+
+### Page 456 (PDF 471)
+
+*(Running head: left "456", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+> उषो मघोन्या वह सूनृते वार्या पुरु । अस्मभ्यं वाजिनीवति ।
+
+*uṣo maghonyā vaha sūnṛte vāryā puru | asmabhyaṃ vājinīvati |*  (Ṛ. Saṃ. 4-55-9 [?]; read as printed, the first words *uṣo maghonyā* [?])
+
+*Gloss, mine and tentative:* "O Uṣas, bounteous one, O truth-speaking one, bring us abundant choice goods, O possessor of strength."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.13)** *(Kannada; grammar page, noted briefly)*
+
+*bhara* — root *hṛñ haraṇe* [the root is *bhṛñ bharaṇe*; the print gives *hṛñ*, as read [?]]; *loṭ*, second person singular, *sip*; by *ser hy apic ca* (Pā. 3-4-87 [?]) the replacement *hi*; the stem-suffix *śap*; by *ato heḥ* the *luk* of *hi*. [By *hṛgrahor bhaś chandasi* (Vārttika) the *h* is replaced by *bh* — *printed*: the rule is cited for *hṛ*, hence the root's form here [?].] The *tiṅ*-*nighāta*.
+*vājinīvati* — as a vocative, by *āmantritasya ca* (Pā. 8-1-19 [?]) the *nighāta* accent.
+*dhāmahe* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ*, first person plural, with the suffix *mahiṅ*; by *ṭita ātmanepadānāṃ ṭer e* the final *e*; by *bahulaṃ chandasi* the *luk* of *śap*. Or, in the *loṭ*, by *āḍuttamasya picca* (Pā. 3-4-92 [?]) the augment *āṭ* for the suffix; the suffix is treated as *pit*; hence by *anudāttau suppitau* the suffix is unaccented, and the accent of the root remains. If we take it to be a *loṭ* form, then by *eta ai* (Pā. 3-4-93 [?]) the *ai*-substitution is to be understood as not occurring, by *vyatyaya*. Since *yena* ("by which") precedes and is connected, by *yadvṛttānnityam* the *nighāta* does not occur. ‖ 13 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.14)** *(Uṣṇih)*
+
+> उषो अद्येह गोमत्यश्वावति विभावरि ।
+> रेवदस्मे व्युच्छ सूनृतावति ॥ १४ ॥
+
+*uṣo adyeha gomaty aśvāvati vibhāvari | revad asme vy uccha sūnṛtāvati ‖ 14 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.14)**
+
+> उषः । अद्य । इह । गोऽमति । अश्वऽवति । विभाऽवरि ।
+> रेवत् । अस्मे इति । वि । उच्छ । सूनृताऽवति ॥ १४ ॥
+
+*uṣaḥ | adya | iha | go-mati | aśva-vati | vibhā-vari | revat | asme iti | vi | uccha | sūnṛtā-vati ‖ 14 ‖*
+
+---
+
+### Page 457 (PDF 472)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 457.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.14)**
+
+> हे गोमत्यश्वावति गोभिरश्वैश्च युक्ते तथाश्वावतीत्यश्वैर्युक्ते विभावरि विशिष्टप्रकाशोपेते सूनृतावति प्रियसत्यात्मिका वाक् सूनृता । तादृश्या वाचा युक्ते एवंभूते हे उष उषोदेवतेऽद्येदानीं प्रभातसमये इहास्मिन्यज्ञे [read: *yajñe*] इहास्माकं रेवत् धनयुक्तं कर्म यथा भवति तथा व्युच्छ । नैशं तमो निवारय ॥ अश्वावति । मन्त्रे सोमाश्वेन्द्रियेति मतौ दीर्घत्वं । पादादित्वादामन्त्रितस्याविद्यमानवत्त्वेन सुगनिघाताभावः । रेवत् । रयेर्मतौ बहुलं । पा. ६-१-३७-६ [?] इति संप्रसारणं । छन्दसीर इति मतुपो वत्वं । रेशब्दाच्च मतुप उदात्तत्वं वक्तव्यं । का. ६-१-१८६-१ [?] इति मतुप उदात्तत्वं । उच्छ । उच्छी विवासे । विवासो वर्जनं ॥
+
+*he gomaty aśvāvati gobhir aśvaiś ca yukte tathāśvāvatīty aśvair yukte vibhāvari viśiṣṭaprakāśopete sūnṛtāvati priyasatyātmikā vāk sūnṛtā | tādṛśyā vācā yukte evaṃbhūte he uṣa uṣodevate 'dyedānīṃ prabhātasamaye ihāsmin yajñe [?] ihāsmākaṃ revat dhanayuktaṃ karma yathā bhavati tathā vy uccha | naiśaṃ tamo nivāraya ‖ aśvāvati | mantre somāśvendriyeti matau dīrghatvaṃ | pādāditvād āmantritasyāvidyamānavattvena suganighātābhāvaḥ | revat | rayer matau bahulaṃ | Pā. 6-1-37-6 [?] iti saṃprasāraṇaṃ | chandasīra iti matupo vatvaṃ | reśabdāc ca matupa udāttatvaṃ vaktavyaṃ | Kā. 6-1-186-1 [?] iti matupa udāttatvaṃ | uccha | uchī vivāse | vivāso varjanaṃ ‖*
+
+*Translation:* "O *gomati*, *aśvāvati* — united with cows, and likewise with horses; *vibhāvari*, endowed with distinguished radiance; *sūnṛtāvati*: *sūnṛtā* is speech that is agreeable and true; united with such speech, being such, O Uṣas deity — now, at the time of dawn, *iha*, in this sacrifice, *revat*, in such a way that our work may be wealth-bearing, *vy uccha*: dispel the darkness of the night. — *aśvāvati*: the lengthening in the suffix *matup* by *mantre somāśvendriya…*; since it is at the head of the pāda, the vocative counts as non-existent, so the *su-* *nighāta* does not occur. *revat* — in *matup* after *rayi*, the *saṃprasāraṇa* is optional (Pā. 6-1-37 [?]); by *chandasīra…* the *v* of *matup*; after the word *re*, the *matup* takes the acute by the rule that must be stated (Kā. 6-1-186 [?]). *uccha* — root *uchī vivāse*; *vivāsa* is 'keeping away'."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.14)** *(Kannada)*
+
+*gomati* — one united with cows; *aśvāvati* — one united with horses; *vibhāvari* — a radiant one; *sūnṛtāvati* — one whose speech is pleasing and true; *uṣaḥ* — O Uṣas deity; *adya* — at this (dawn) time; *iha* — in this (sacrificial) place; *asme* — to us; *revat* — make our works wealth-bearing; *vy uccha* — drive away (the darkness) and destroy it.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.14** *(Kannada)*
+
+"O Uṣas deity, united with cows and horses, radiant, and having speech that is pleasing and true: at this dawn time, in this place of sacrifice, so manifest that for us all our works are wealth-bearing, drive away the darkness and destroy it."
+
+**English Translation** *(printed in English in the source; Rik 92.14)*
+
+"Luminous Ushas, possessor of cows and horses, true of speech, dawn here to day upon this (ceremoney) [sic] that is to bring us wealth." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.14)** *(Kannada; begins at the foot of p. 457)*
+
+***vibhāvari, sūnṛtāvati*** — "*vibhāvarī, sūnarī, bhāsvatī* and the like are read among the sixteen names of Uṣas (Ni. 1-[?] [?]); *vibhāvarī* means one endowed with distinguished radiance, and *sūnṛtāvatī* means one who has speech that is pleasing and true. Here both are used as vocatives. The explanation of the attributes *sūnṛtāvatī* and *sūnṛtānāṃ netrī* [was given] in the commentary on the seventh Ṛk of this very sūkta [92.7, p. 428]. For *vibhāvarī*: *vividhā bhā vibhāḥ | vibhāyuktā vibhāvarī* — 'a mass of various radiances is *vibhā*; one who has such [radiances] —
+
+---
+
+**Progress note:** Printed pp. 1–457 done (PDF 16–472), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.13 complete (92.3 minus the missing p. 413); Rik 92.14 done through the English translation and the opening of the Special Topics, which break mid-sentence at the foot of p. 457 ("*vibhāvarī* — 'a mass of various radiances is *vibhā*; one who has such [radiances] —"), to be continued from the head of p. 458. Next: printed p. 458 (PDF 473). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–456 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–457 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.14 (in 92.13 the final *aitva*/*yepravṛtti* clause; in 92.13's grammar page *hṛñ haraṇe* for *bhṛñ bharaṇe* as printed [?]; in 92.14 *ihāsmin yajñe* [?] and the *Kā.* numerals); the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
