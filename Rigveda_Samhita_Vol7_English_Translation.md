@@ -13027,6 +13027,106 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–457 done (PDF 16–472), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.13 complete (92.3 minus the missing p. 413); Rik 92.14 done through the English translation and the opening of the Special Topics, which break mid-sentence at the foot of p. 457 ("*vibhāvarī* — 'a mass of various radiances is *vibhā*; one who has such [radiances] —"), to be continued from the head of p. 458. Next: printed p. 458 (PDF 473). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–456 as read, doubtful [?]; Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi numerals on pp. 407–457 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.14 (in 92.13 the final *aitva*/*yepravṛtti* clause; in 92.13's grammar page *hṛñ haraṇe* for *bhṛñ bharaṇe* as printed [?]; in 92.14 *ihāsmin yajñe* [?] and the *Kā.* numerals); the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
+### Page 458 (PDF 473)
+
+*(Running head: left "458", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Special Topics of Rik 92.14, continued from p. 457 (Kannada):* "— one who is united with radiance in a mass: so they explain *vibhāvarī*. In the Ṛksaṃhitā, wherever the word *vibhāvarī* occurs generally, it is used for Uṣas, either as vocative or as epithet. The attributes *gomati, aśvāvati* are applied generally to other deities also, and are used there as attributes according to the context."
+
+***revat*** — "From the word *rayi*, which is read among the names of wealth (Ni. 2-9 [?]), *revat* is formed: possessed of wealth, filled with wealth: this is the meaning."
+
+***vy uccha*** — *vividhaṃ uccha* | "Destroy the darkness completely: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.14)** *(Kannada; grammar page, noted briefly)*
+
+*aśvāvati* — "*aśvāḥ asyā asti*": in the sense 'she has horses', by *tad asyāstyasminn iti matup* (Pā. 5-2-94 [?]) the suffix *matup*; since the suffix begins with *m* after an *a*-ending stem, by *mādupadhāyāś ca mator vo 'yavādibhyaḥ* (Pā. 8-2-9 [?]) the *m* of *matup* becomes *v*; by *mantre somāśvendriyaviśvadevyasya matau* (Pā. 6-3-131 [?]) the lengthening of *aśva* before *matup*; since it stands at the head of the pāda, by the prohibition *apādādau* (Pā. 8-1-18 [?]) the *nighāta* does not occur; by *āmantritasya ca* (Pā. 6-1-198 [?]) the initial-acute accent.
+*revat* — in the sense "*rayiḥ asyāḥ asti*" the suffix *matup* as before; by *rayer mato bahulam* (Pā. 6-1-37 [?]) the *saṃprasāraṇa* before *matup*; by *saṃprasāraṇāc ca* the preceding form; when *r + i + mat* stands, the guṇa; by *chandasīraḥ* (Pā. 8-2-15 [?]) the *m* of *matup* becomes *v*: the word *revat*; by *reśabdāc ca matupa udāttatvaṃ vaktavyam* (Kā. 6-1-186 [?]) even though *matup* is *pit*, the acute comes on *matup*.
+*uccha* — root *uchī vivāse*; *vivāsa* means 'removing'; *loṭ*, second person singular, *sip*, with *hi* as the replacement; the stem-suffix *śap*; by *ato heḥ* the *luk* of *hi*; by *chaty* [*chaty-aco*…, as read [?]] the augment *tuk* for the short *u*; since it follows a word, the *nighāta*. ‖ 14 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.15)** *(Uṣṇih)*
+
+> युक्ष्वा हि वाजिनीवत्यश्वाँ अद्यारुणाँ उषः ।
+> अथा नो विश्वा सौभगान्या वह ॥ १५ ॥
+
+*yukṣvā hi vājinīvaty aśvāṃ adyāruṇāṃ uṣaḥ | athā no viśvā saubhagāny ā vaha ‖ 15 ‖*
+
+---
+
+### Page 459 (PDF 474)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 459.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.15)**
+
+> युक्ष्व । हि । वाजिनीऽवति । अश्वान् । अद्य । अरुणान् । उषः ।
+> अथ । नः । विश्वा । सौभगानि । आ । वह ॥ १५ ॥
+
+*yukṣva | hi | vājinī-vati | aśvān | adya | aruṇān | uṣaḥ | atha | naḥ | viśvā | saubhagāni | ā | vaha ‖ 15 ‖*
+
+(The Saṃhitā's *yukṣvā* is divided in the Pada as *yukṣva*, the *ā* being the Saṃhitā lengthening.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.15)**
+
+> हे वाजिनीवति हविर्लक्षणान्नवत्कर्मोपेते उषोदेवते अरुणानरुणवर्णानश्वानश्वस्थानीयान् गोविशेषानद्यास्मिन्काले युक्ष्वा हि । योजयैव । हिरवधारणे । अथानन्तरं रथमारुह्य विश्वा सौभगानि सर्वाणि सौभाग्यानि नोऽस्मभ्यमा वह । आनय ॥ अश्वान् । दीर्घादटि समानपाद इति संहितायां नकारस्य रुत्वं । आतोऽटि नित्यमिति सानुनासिक आकारः । सौभगानि । सुभगान्मन्त्रे इत्युद्गात्रादिषु पाठाद्भावकर्मणोरर्थयोः प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् इत्यञ्प्रत्ययः । हृद्भगसिन्ध्वन्ते पूर्वपदस्य चेत्युभयपदवृद्धिः । प्रास्प्राप्तायां सर्वविधीनां छन्दसि विकल्पितत्वादुत्तरपदवृद्धिर्न भवतीत्युक्तं । का. ७-३-१९ ॥
+
+*he vājinīvati havirlakṣaṇānnavatkarmopete uṣodevate aruṇān aruṇavarṇān aśvān aśvasthānīyān goviśeṣān adyāsmin kāle yukṣvā hi | yojayaiva | hir avadhāraṇe | athānantaraṃ ratham āruhya viśvā saubhagāni sarvāṇi saubhāgyāni no 'smabhyam ā vaha | ānaya ‖ aśvān | dīrghād aṭi samānapāda iti saṃhitāyāṃ nakārasya rutvaṃ | āto 'ṭi nityam iti sānunāsika ākāraḥ | saubhagāni | subhagān mantre ity udgātrādiṣu pāṭhād bhāvakarmaṇor arthayoḥ prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ ity añpratyayaḥ | hṛdbhagasindhvante pūrvapadasya cety ubhayapadavṛddhiḥ | prāsprāptāyāṃ sarvavidhīnāṃ chandasi vikalpitatvād uttarapadavṛddhir na bhavatīty uktaṃ | Kā. 7-3-19 ‖*
+
+*Translation:* "O *vājinīvati*, Uṣas deity, endowed with acts that bring food in the form of oblation: *aruṇān*, the ruddy, *aśvān*, those that stand in the place of horses — the special kine — *yukṣvā*, yoke, *adya*, at this time; *hi* is for emphasis. Thereafter, having mounted the chariot, bring *viśvā saubhagāni*, all prosperities, to us. — *aśvān* — by *dīrghād aṭi samānapāde* the *n* becomes *ru* in the Saṃhitā; by *āto 'ṭi nityam* the *ā* is nasalized. *saubhagāni* — *subhagān mantre*, since it is read in the *udgātrādi* group, the suffix *añ* in the senses of state and action, by *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ*; by *hṛdbhagasindhvante pūrvapadasya ca* the vṛddhi of both members; but the *uttarapadavṛddhi* does not occur, because all rules are optional in Chandas (Kā. 7-3-19)."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.15)** *(Kannada)*
+
+*vājinīvati* — O one united with food (in the form of oblations); *uṣaḥ* — O Uṣas deity; *aruṇān* — golden-red; *aśvān* — (in the place of horses) cows serving as draught animals; *adya* — at this time of sacrifice; *yukṣvā hi* — unhindered, yoke them (to the chariot); *atha* — thereafter; *viśvā saubhagāni* — all good fortunes; *naḥ* — to us; *ā vaha* — bring.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.15** *(Kannada)*
+
+"O Uṣas deity, united with food in the form of oblations: at this time of sacrifice, yoke to your chariot, unhindered, your golden-red cows, which serve in the place of horses as draught animals. Thereafter, in that chariot, bring us all good fortunes."
+
+**English Translation** *(printed in English in the source; Rik 92.15)*
+
+"Possessor of food, Ushas, yoke today your reddish horses and bring to us all good things." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.15)** *(Kannada; begins at the foot of p. 459)*
+
+***aruṇān aśvān*** — "*aruṇā gāva uṣasām* — as is read among the names of the vehicles of the deities (Ni. 2-[?] [?]), the vehicles of Uṣas are the golden-red cows. These very ones, in the place of horses —
+
+---
+
+### Page 460 (PDF 475)
+
+*(Running head: left "460", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+"— are yoked to the chariot of the Uṣas. For these vehicles, in some places the word *gāvaḥ* (cows) and in some places *aśvāḥ* (horses) are used. In some Ṛks they are also called *āpasvaḥ* ['active']. For example —"
+
+> वहन्त्वरुणास्व उप त्वा सोमिनो गृहम् ।
+
+*vahantv aruṇāsva upa tvā sominaḥ gṛham |*  (Ṛ. Saṃ. 1-14-[?] [?]; the Saṃhitā text as read, partly garbled in the print [?])
+
+> आ त्वा वहन्तु सुयमासो अश्वा हिरण्यवर्णां पृथुपाजसो ये ।
+
+*ā tvā vahantu suyamāso aśvā hiraṇyavarṇāṃ pṛthupājaso ye |*  (Ṛ. Saṃ. 3-61-2 [?])
+
+> प्रति द्युतानामरुषासो अश्वाश्चित्रा अदृश्रन्नुषसं वहन्तः ।
+
+*prati dyutānām aruṣāso aśvāś citrā adṛśran uṣasaṃ vahantaḥ |*  (Ṛ. Saṃ. 7-75-6 [?])
+
+> आवेयमश्वैद्युवतिः पुरस्ताद्युङ्क्ते गवामरुणानामनीकम् ।
+
+*āveyam aśvaid yuvatiḥ purastād yuṅkte gavām aruṇānām anīkam |*  (Ṛ. Saṃ. 1-124-11 [?])
+
+*Gloss, mine and tentative (for the four):* "May the ruddy [steeds] carry you to the house of the Soma-bearer. — May the well-tamed horses of broad strength carry you, golden-coloured. — The ruddy, wonderful horses, bearing Uṣas, were seen opposite the shining ones. — This young woman has come from the east; she yokes the host of ruddy cows."
+
+"— in many contexts the vehicles of Uṣas are described."
+
+***viśvā saubhagāni*** — "*bhaga* is a name for wealth. *śobhanāni dhanāni subhagāni*; *subhagāny eva saubhagāni*: 'excellent riches'. *bhaga* is read among the names of wealth. The sense is 'excellent wealth'. The prayer, 'bring us all excellent wealth in the form of sons, grandsons and the like', in Ṛks 1-30-22 [?]; 1-48-1 [?]; 8-[?]-3 [?]; 4-30-2 [?] and many other places, is made, addressing the Uṣas, in order to ask for long life, prosperity, and the wealth of sons and grandsons."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.15)** *(Kannada; grammar page, noted briefly)*
+
+*yukṣvā* — root *yujir yoge*; *loṭ*, second person singular, *thās*; by *thāsaḥ se* (Pā. 3-4-80 [?]) the replacement *se*; by *savābhyāṃ vāmau* (Pā. 3-4-91 [?]) *va* for the *e*; by *coḥ kuḥ* (Pā. 8-2-30 [?]) *ku* for the *j*; by *khari ca* (Pā. 8-4-55 [?]) the change to *k*; by *ādeśapratyayayoḥ* (Pā. 8-3-59 [?]) the *ṣatva* of the *s*: *yukṣva*; since it stands at the head of the pāda, no *nighāta*; by the suffix accent the final-acute. [The lengthening in the Saṃhitā is noted separately.]
+*aśvān* — by *dīrghād aṭi samānapāde* (Pā. 8-3-9 [?]) the *n* becomes *ru*; by *āto 'ṭi nityam* (Pā. 8-3-3 [?]) the *ā* is nasalized; likewise in *aruṇān*, since *aṭ* follows, by *ru* and nasalization.
+*saubhagāni* — *subhagān mantre* [as the gaṇa-reading], since it is read in the *udgātrādi* list, the suffix *añ* in the sense of state and action, by *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* (Pā. 5-1-129 [?]); by *hṛdbhagasindhvante pūrvapadasya ca* (Pā. 7-3-19 [?]) the vṛddhi of the first member and of the second as well —
+
+---
+
+**Progress note:** Printed pp. 1–460 done (PDF 16–475), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.14 complete (92.3 minus the missing p. 413); Rik 92.15 done through the Special Topics and the grammar page, which breaks at the foot of p. 460 in *saubhagāni* ("…the vṛddhi of the first member and of the second as well —"), to be continued from the head of p. 461. Next: printed p. 461 (PDF 476). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–460 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–460 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.15 (in 92.13 the final *aitva*/*yepravṛtti* clause and *hṛñ haraṇe*; in 92.14 *ihāsmin yajñe* [?]; in 92.15 the clause *prāsprāptāyāṃ…*); the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
