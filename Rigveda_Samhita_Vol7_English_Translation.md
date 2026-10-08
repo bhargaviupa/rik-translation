@@ -6612,4 +6612,100 @@ Closing of Rik 87.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–236 done (PDF 16–251) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.5 complete**; next: **Rik 87.6** (the last) at printed p. 237 (PDF 252), and the end of Sūkta 87 (about p. 240), then Sūkta 88 (contents table: p. 241). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232, 234, 236; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 237 (PDF 252)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 237.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.6)** *(Jagatī — the last Ṛk; Maruts; accents not reproduced)*
+
+> श्रियसे कं भानुभिः सं मिमिक्षिरे ते रश्मिभिस्त ऋक्वभिः सुखादयः ।
+> ते वाशीमन्त इष्मिणो अभीरवो विद्रे प्रियस्य मारुतस्य धाम्नः ॥ ६ ॥
+
+*śriyase kaṃ bhānubhiḥ saṃ mimikṣire te raśmibhis ta ṛkvabhiḥ sukhādayaḥ | te vāśīmanta iṣmiṇo abhīravo vidre priyasya mārutasya dhāmnaḥ ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "For splendour they mingled the water with their rays; they, with the praisers, the good eaters; they, with their speech, urgent, fearless, have found a place of the dear Marut abode."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.6)**
+
+> श्रियसे । कम् । भानुऽभिः । सम् । मिमिक्षिरे । ते । रश्मिऽभिः । ते । ऋक्वऽभिः । सुऽखादयः ।
+> ते । वाशीऽमन्तः । इष्मिणः । अभीरवः । विद्रे । प्रियस्य । मारुतस्य । धाम्नः ॥ ६ ॥
+
+*śriyase | kam | bhānu-bhiḥ | sam | mimikṣire | te | raśmi-bhiḥ | te | ṛkva-bhiḥ | su-khādayaḥ | te | vāśī-mantaḥ | iṣmiṇaḥ | abhīravaḥ | vidre | priyasya | mārutasya | dhāmnaḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.6)**
+
+> ते पूर्वोक्ता मरुतो भानुभिर्भानुशीलैर्दीप्यमानैः सूर्यरश्मिभिः सह कं वृष्ट्युदकं श्रियसे श्रयितुं प्राणिभिः सेवितुं सं मिमिक्षिरे । सम्यग्मेढुमिच्छन्ति । पृथिवीं वृष्ट्युदकेन सम्यक् सेक्तुमिच्छन्ति । एवं वृष्टिमुत्पाद्य ते मरुत ऋक्वभिः स्तुतिमद्भिरृत्विग्भिः सह सुखादयः शोभनस्य हविषो भक्षयितारो भवन्ति । वाशीमन्तः । वाशीति वाङ्नाम । शोभनया स्तुतिलक्षणया वाचोपेताः । इष्मिणो गतिमन्तः । अभीरवो भयरहितास्ते मरुतः । प्रियस्य सर्वाभिमतस्य मारुतस्य मरुत्सम्बन्धिनो धाम्नः स्थानस्य सर्वाभिमतं मरुत्सम्बद्धं विशिष्टं स्थानं विद्रे । लब्धवन्तः ॥ श्रियसे । तुमर्थे सेसेनसेति कसेन्प्रत्ययः । मिमिक्षिरे । मिह सेचने । अस्माद्दिच्छासनन्ताल्लिट्यमन्त्र इति निषेधादामभावः । व्यत्ययेनात्मनेपदम् । सुखादयः । खादृ भक्षणे । णादिक इप्रत्ययः । शोभना खादिर्भक्षणं येषां । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । इष्मिणः । इष गतौ । इषुयुधीन्धीत्यादिना मक् । ततो मत्वर्थीय इनिः । विद्रे । विद्लृ लाभे । लिट् द्विर्वचनप्रकरणे छन्दसि वेति व्यत्ययमिति द्विर्वचनाभावः । इरयोर इति … रेभावः ॥
+
+*te pūrvoktā maruto bhānubhir bhānuśīlair dīpyamānaiḥ sūryaraśmibhiḥ saha kaṃ vṛṣṭyudakaṃ śriyase śrayituṃ prāṇibhiḥ sevituṃ saṃ mimikṣire | samyag meḍhum icchanti | pṛthivīṃ vṛṣṭyudakena samyak sektum icchanti | evaṃ vṛṣṭim utpādya te maruta ṛkvabhiḥ stutimadbhir ṛtvigbhiḥ saha sukhādayaḥ śobhanasya haviṣo bhakṣayitāro bhavanti | vāśīmantaḥ | vāśīti vāṅnāma | śobhanayā stutilakṣaṇayā vācopetāḥ | iṣmiṇo gatimantaḥ | abhīravo bhayarahitās te marutaḥ | priyasya sarvābhimatasya mārutasya marutsambandhino dhāmnaḥ sthānasya sarvābhimataṃ marutsambaddhaṃ viśiṣṭaṃ sthānaṃ vidre | labdhavantaḥ ‖ śriyase | tumarthe sesenaseti kasen-pratyayaḥ | mimikṣire | miha secane | asmād icchāsanantāl liṭy amantra iti niṣedhād āmabhāvaḥ | vyatyayenātmanepadam | sukhādayaḥ | khādṛ bhakṣaṇe | ṇādika i-pratyayaḥ | śobhanā khādir bhakṣaṇaṃ yeṣāṃ | nañsubhyām ity uttarapadāntodāttatvam | iṣmiṇaḥ | iṣa gatau | iṣuyudhīndhīty ādinā mak | tato matvarthīya iniḥ | vidre | vidḷ lābhe | liṭ dvirvacanaprakaraṇe chandasi veti vyatyayam iti dvirvacanābhāvaḥ | irayor a iti … rebhāvaḥ ‖*
+
+*(Kannada script; the last clauses of the grammatical tail are compressed and run to p. 238; the "irayor…" wording is read with doubt [?].)*
+
+*Translation:* "Those Maruts spoken of before, *bhānubhiḥ* — with the rays of the sun, which shine, *kam* — rain-water, *śriyase* — that creatures may resort to it, enjoy it — *saṃ mimikṣire* — wish to pour well; they wish to sprinkle the earth well with rain-water. Having thus produced the rain, those Maruts, with the *ṛkvabhiḥ* — priests who possess praise — *sukhādayaḥ* — eat well the good oblation. *Vāśīmantaḥ* — *vāśī* is a name for speech; possessed of excellent speech, of the nature of praise. *Iṣmiṇaḥ* — moving swiftly; *abhīravaḥ* — fearless, those Maruts; *priyasya* — of the dear, favoured by all, *mārutasya dhāmnaḥ* — of the Marut place, they have found (*vidre*, obtained) a distinguished place connected with the Maruts."
+
+---
+
+### Page 238 (PDF 253)
+
+*(Running head: "238 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Grammatical tail of the bhāṣya of Rik 87.6, concluded from p. 237:*
+
+> …रेभावः ॥ [as read; preceded by] सुखादयः । खादृ भक्षणे । णादिक इप्रत्ययः । शोभना खादिर्भक्षणं येषाम् । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । इष्मिणः । इष गतौ । इषुयुधीन्धीत्यादिना मक् । ततो मत्वर्थीय इनिः । विद्रे । विद्लृ लाभे । लिट् द्विर्वचनप्रकरणे छन्दसि वेति व्यत्ययमिति द्विर्वचनाभावः । इरयोर रे इति रेभावः ॥
+
+*(The words are the same as the end of p. 237's tail; the print repeats the end of the tail at the head of p. 238: "…bhāvaḥ | sukhādayaḥ | khādṛ bhakṣaṇe | …"; as printed, not added to.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.6)** *(Kannada)*
+
+*te* — those Maruts; *bhānubhiḥ* — with the shining; *raśmibhiḥ* — with the rays of the sun; *kam* — rain-water; *śriyase* — for the use of creatures; *saṃ mimikṣire* — they wish to pour out plentifully with a will; *te* — after that those Maruts; *ṛkvabhiḥ* — with the priests who praise; *sukhādayaḥ* — eaters of delicious oblations; *vāśīmantaḥ* — possessing speech in the form of praise; *iṣmiṇaḥ* — of the nature of moving; *abhīravaḥ* — free from fear; *te* — those Maruts; *priyasya* — beneficial to all; *mārutasya* — fit for the Maruts; *dhāmnaḥ* — an excellent place; *vidre* — obtained.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.6** *(Kannada)*
+
+"The Maruts, joining the shining rays of the sun, pour rain-water abundantly for the use of living creatures. After that they eat delicious oblations along with the priests who praise. Those Maruts, possessed of speech in the form of praise, of a moving nature, free from fear, obtained an excellent place, beneficial to all and fit for them."
+
+**English Translation** *(printed in English in the source)*
+
+"Combining with the solar rays, they have willingly poured down (rain) for the welfare of mankind, and praised by the priests, have been pleased partakers of the sacrificial food; addressed with praises, moving swiftly and exempt from fear, they have become possessed of a station agreeable and suitable to the Maruts." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.6)**
+
+- **श्रियसे** — *sevitum* — "for being served, resorted to, attained. Skandasvāmin explains '*satyasaṃpattilakṣaṇāyai śriyai*' — 'for the prosperity that is of the nature of the wealth of truth', or for the obtaining of wealth." *(the Skandasvāmin phrase is partly clotted [?])*
+- **कम्** — "water (Ni. [1-12] [?]): rain." *(Continues on p. 239.)*
+
+---
+
+### Page 239 (PDF 254)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 239.)*
+
+*Special Topics of Rik 87.6, continued from p. 238:*
+
+- **भानुभिः रश्मिभिः** — *dīpyamānaiḥ sūryaraśmibhiḥ saha athavā vidyullakṣaṇābhiḥ* — "with shining rays, or with lightning: furnished with shining rays, or with lightning."
+- **ऋक्वभिः** — *stutimadbhir ṛtvigbhiḥ* — "with the priests who praise with Ṛks."
+- **सुखादयः** — *khādṛ bhakṣaṇe | śobhanā khādir bhakṣaṇaṃ yeṣāṃ te | sukhasya śobhanasya haviṣo bhakṣayitāraḥ* — "those who eat the excellent oblation. Skandasvāmin explains this word as '*śobhanāḥ khādayaḥ āyudhaviśeṣā yeṣāṃ*' — those who have good *khādi*, a special weapon: *khādi* means a special weapon of the Marut deities, so 'having such weapons'. To support this meaning he gives two examples —
+
+> त्वेषं गणं तवसं खादिहस्तं धुनिव्रतं मायिनं दातिवारम् ।
+
+*tveṣaṃ gaṇaṃ tavasaṃ khādihastaṃ dhunivrataṃ māyinaṃ dātivāram |* (Ṛ. Saṃ. 5-[52]-[?] [?]) — *Gloss, mine and tentative:* "The blazing, strong host, with *khādi* [rings or weapons] in hand, of shaking ways, wonder-working, giver of the choice [wealth]."
+
+> अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः ।
+
+*aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ |* (Ṛ. Saṃ. 5-[54]-[11] [?]) — *Gloss, mine and tentative:* "On your shoulders are spears, on your feet *khādis*, on your breasts golden ornaments, O Maruts; on the chariot there is splendour." *(Both reference numerals are small and doubtful [?].)*
+
+- **वाशीमन्तः** — *vāśīti vāṅnāma | śobhanayā stutilakṣaṇayā vācopetāḥ* — "*vāśī* means speech (Ni. [1-11] [?]); those who are praised by words in the form of praise. Skandasvāmin explains the word *vāśī* too as a special weapon, and gives the example —
+
+> वाशीमेको बिभर्ति हस्त आयसीमन्तर्देवेषु निध्रुविः ।
+
+*vāśīm eko bibharti haste āyasīm antar deveṣu nidhruviḥ |* (Ṛ. Saṃ. 8-29-[3] [?]) — *Gloss, mine and tentative:* "One carries in his hand an iron *vāśī* [axe], steady among the gods."
+
+— and he gives also the meaning 'speech'."
+- **इष्मिणः** — *iṣa gatau | gatimantaḥ* — "swift movers; of a moving nature."
+- **अभीरवः** — "fearless, those who have no fear."
+- **प्रियस्य मारुतस्य धाम्नः** — "the own place that is a delight to the Marut deities. Skandasvāmin explains the word *dhāman* as 'place, name or birth' (*sthānaṃ vā nāma vā janma vā*) — place, or name, or birth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.6)** *(grammar page, noted briefly; begins here)*
+
+- **श्रियसे** — the root *śriñ sevāyām*; in the sense of *tumun*, by "तुमर्थे सेसेनसेअसेन्…" (*tumarthe sesenase…*, Pā. Sū. 3-4-[9]) the affix *kasen* [as read, *kasen*]; since it is *kit*, no *guṇa* comes. By the *ac-ṅit*-… *(the page ends mid-sentence; the grammar page continues on p. 240)*
+
+---
+
+**Progress note:** Printed pp. 1–239 done (PDF 16–254) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.5 complete**; **Rik 87.6** (the last) done through its Special Topics and the first entry of its grammar page (*śriyase*, p. 239; the grammar page continues on p. 240, followed by the Ṛk's closing numeral and the end of Sūkta 87). Next: printed p. 240 (PDF 255); then Sūkta 88 (contents table: p. 241). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; the repeated tail-end at the head of p. 238; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232, 234, 236, 237–238; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
