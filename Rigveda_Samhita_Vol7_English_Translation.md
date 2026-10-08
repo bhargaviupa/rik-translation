@@ -5238,4 +5238,101 @@ Closing of Rik 85.12: "॥ १२ ॥" (12). *(The print has no separate closing
 
 ---
 
-**Progress note:** Printed pp. 1–191 done (PDF 16–206) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81, 82, 83, 84 and 85 complete** (Sūkta 85: twelve Ṛks, Maruts, Gotama Rāhūgaṇa, printed pp. 143–191; the print has no separate closing line). Next: **Sūkta 86** (printed pp. 192–214; the contents table lists it at p. 192; ten Ṛks expected from the heading, to be confirmed on viewing); next page to view: printed p. 192 (PDF 207). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+---
+
+## Sūkta 86 (Maṇḍala 1, Sūkta 86) — "एंभत्तारनेय सूक्तवु" (*embhattāraneya sūktavu*, "the eighty-sixth Sūkta")
+
+### Page 192 (PDF 207)
+
+*(Running head: "192 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86". Heading printed large, in Kannada: "ಎಂಭತ್ತಾರನೆಯ ಸೂಕ್ತವು".)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; Kannada script converted letter by letter; numerals [?])**
+
+> मरुतो यस्येति दशर्चं द्वितीयं सूक्तं गोतमस्यार्षं गायत्रं मरुद्देवताकम् । अनुक्रान्तं च । मरुतो दश गायत्रमिति ॥ व्यूढे तृतीये छन्दोमे अग्निमारुते शस्त्र एतत्सूक्तम् । तृतीयस्यागन्म महेति खण्डे सूत्रितम् । मरुतो यस्य हि प्राग्नये वाचमित्याग्निमारुतम् । आ. ८-११ [?] । इति ॥ ऐन्द्रामारुतीं प्रधानस्य हविषो मरुतो यस्येत्येषानुवाक्या । सूत्रितं च । ऐन्द्रामारुतीं भेदकामा मरुतो यस्य हि क्षये । आ. २-११ [?] । इति ॥ एषैव वरुणप्रघासेषु मारुता आमिक्षायामनुवाक्या । सूत्रितं च । मरुतो यस्य हि क्षयेऽरा इवेदचरमा अहेव । आ. २-१२ [?] । इति ॥ तथा प्रातःसवने पोतुरेषा पृष्ठितयाज्या । सूत्रितं च । मरुतो यस्य हि क्षयेऽग्ने पत्नीरिहा वह । आ. ५-५ [?] । इति ॥
+
+*maruto yasyeti daśarcaṃ dvitīyaṃ sūktaṃ gotamasyārṣaṃ gāyatraṃ maruddevatākam | anukrāntaṃ ca | maruto daśa gāyatram iti ‖ vyūḍhe tṛtīye chandome agnimāruta śastra etat sūktam | tṛtīyasyāgan ma maheti khaṇḍe sūtritam | maruto yasya hi prāgnaye vācam ity āgnimārutam | Ā. 8-11 [?] | iti ‖ aindrāmārutīṃ pradhānasya haviṣo maruto yasyety eṣānuvākyā | sūtritaṃ ca | aindrāmārutīṃ bhedakāmā maruto yasya hi kṣaye | Ā. 2-11 [?] | iti ‖ eṣaiva varuṇapraghāseṣu mārutā āmikṣāyām anuvākyā | sūtritaṃ ca | maruto yasya hi kṣaye 'rā ived acaramā aheva | Ā. 2-12 [?] | iti ‖ tathā prātaḥsavane potur eṣā pṛṣṭhitayājyā | sūtritaṃ ca | maruto yasya hi kṣaye 'gne patnīr ihā vaha | Ā. 5-5 [?] | iti ‖*
+
+*Translation:* "The second sūkta, *maruto yasya* — ten Ṛks — is the vision of Gotama, Gāyatrī, addressed to the Maruts; the Anukramaṇī says '*maruto daśa gāyatram*'. In the *vyūḍha chandoma* of the third day, this sūkta is used in the *Āgnimāruta śastra*; it is prescribed in the section *tṛtīyasyāgan ma maha* [as read]: '*maruto yasya hi prāgnaye vācam* — the *Āgnimāruta*' (Āś. [8-11] [?]). In the *Aindrāmāruta* principal offering (*havis*), this Ṛk *maruto yasya* is the *anuvākyā*; it is prescribed: '*aindrāmārutīṃ bhedakāmā maruto yasya hi kṣaye*' (Āś. [2-11] [?]). It is also the *anuvākyā* of the Marut oblation of curds (*āmikṣā*) in the Varuṇapraghāsa offerings; it is prescribed: '*maruto yasya hi kṣaye 'rā ived acaramā aheva*' (Āś. [2-12] [?]). And at the morning pressing it is the Potṛ's *pṛṣṭhitayājyā*, as prescribed: '*maruto yasya hi kṣaye 'gne patnīr ihā vaha*' (Āś. [5-5] [?])." *(The sūtra citations are cramped in the print and read with doubt.)*
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *maruto yasya* is the second sūkta in the fourteenth anuvāka of the first maṇḍala. There are ten Ṛks in it. The ṛṣi of this sūkta is Gotama. The metre is Gāyatrī; the deities are the Maruts. In the Anukramaṇī it is said: '*maruto daśa gāyatram*'. In the *vyūḍha* Ṛtu-type sacrifice, called *chandoma*, on the third day, at the time of reciting the *Āgnimāruta śastra* with its mantras, this sūkta has an application. This matter is set forth in the Āśvalāyana Śrauta-sūtra, in the section beginning *tṛtīyasyāgan ma maha*, by the sūtra '*maruto yasya hi prāgnaye vācam ity āgnimārutam*' (Āś. [8-11] [?]). In the principal *homa* called *Aindrāmārutī*, when the offering is being laid out, this Ṛk *maruto yasya* is to be used as the *puronuvākyā*, and the Āśvalāyana Śrauta-sūtra shows this by the sūtra '*aindrāmārutīṃ bhedakāmā maruto yasya hi kṣaye*' (Āś. [2-11] [?]). Also, in the *Varuṇapraghāsa* sacrifice, in the curds-offering that belongs to the Maruts, this Ṛk is to be used as the *puronuvākyā* mantra; this is set out in the Āśvalāyana Śrauta-sūtra in the sūtra '*maruto yasya hi kṣaye 'rā ived acaramā aheva*' (Āś. [2-12] [?]). And at the morning pressing, the Potṛ priest is to use this Ṛk as the *pṛṣṭhitayājyā* mantra: the Āśvalāyana Śrauta-sūtra says '*maruto yasya hi kṣaye 'gne patnīr ihā vaha*' (Āś. [5-5] [?])."
+
+*(printer's ornament)*
+
+---
+
+### Page 193 (PDF 208)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 193. Foot: printer's signature "13 … Volume 7".)*
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ८६ — Sūkta 86**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ८६ — *Maṇḍala 1 · Anuvāka 14 · Sūkta 86*
+- अष्टक १ · अध्याय ६ · वर्ग ११, १२ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 11, 12* (the numerals are small and read with doubt [?])
+- सूक्तदल्लिरुव ऋक्संख्ये — १० — *number of Ṛks in the sūkta: 10*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — मरुतः — *deity: the Maruts*
+- छन्दः — गायत्री — *metre: Gāyatrī*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.1)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> मरुतो यस्य हि क्षये पाथा दिवो विमहसः ।
+> स सुगोपातमो जनः ॥ १ ॥
+
+*maruto yasya hi kṣaye pāthā divo vimahasaḥ | sa sugopātamo janaḥ ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "O Maruts, in whose house you drink — you, the mighty ones of heaven — that man has the best of protectors."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.1)**
+
+> मरुतः । यस्य । हि । क्षये । पाथ । दिवः । विऽमहसः ।
+> सः । सुऽगोपातमः । जनः ॥ १ ॥
+
+*marutaḥ | yasya | hi | kṣaye | pātha | divaḥ | vi-mahasaḥ | saḥ | su-gopātamaḥ | janaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.1)**
+
+> हे विमहसो विशिष्टप्रकाशा मरुतो दिवोऽन्तरिक्षलोकादागत्य यस्य हि यस्य खलु यजमानस्य क्षये यज्ञगृहे पाथ सोमं पिबथ स जनो जातो यजमानः सुगोपातमः शोभनैः पालकैरत्यन्तं युक्तो भवति ॥ पाथ । पा पाने । लटि बहुलं छन्दसीति शपो लुक् । यद्वृत्तयोगादनिघातः । विमहसः । विशिष्टं महस्तेजो येषां ते तथोक्ताः । सुगोपातमः । शोभनो गोपा रक्षको यस्य स सुगोपाः सुगोपातमः । तमपः पित्त्वादनुदात्तत्वे सति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वमेव शिष्यते ॥
+
+*he vimahaso viśiṣṭaprakāśā maruto divo 'ntarikṣalokād āgatya yasya hi yasya khalu yajamānasya kṣaye yajñagṛhe pātha somaṃ pibatha sa jano jāto yajamānaḥ sugopātamaḥ śobhanaiḥ pālakair atyantaṃ yukto bhavati ‖ pātha | pā pāne | laṭi bahulaṃ chandasīti śapo luk | yadvṛttayogād anighātaḥ | vimahasaḥ | viśiṣṭaṃ mahas tejo yeṣāṃ te tathoktāḥ | sugopātamaḥ | śobhano gopā rakṣako yasya sa sugopāḥ sugopātamaḥ | tamapaḥ pittvād anudāttatve sati bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam eva śiṣyate ‖*
+
+*Translation:* "O *vimahasaḥ* — of special brilliance — Maruts, coming from the atmospheric world, heaven (*divaḥ*), *yasya hi* — in whatever sacrificer's *kṣaye* — sacrificial house — you drink Soma, that man, the sacrificer, becomes *sugopātamaḥ* — endowed in the highest degree with excellent protectors. *Grammar tail, noted briefly:* *pātha* — *pā pāne*; in *laṭ*, by "bahulaṃ chandasi" the *śap* is elided; because of the connexion with *yat*-type word [*yasya*], no *nighāta*; *vimahasaḥ* — those who have special splendour; *sugopātamaḥ* — *śobhano gopā rakṣako yasya sa sugopāḥ*, then *tamap*; since *tamap* is *pit* and unaccented, in the *bahuvrīhi* the final accent of the latter member by "nañsubhyām" alone remains."
+
+---
+
+### Page 194 (PDF 209)
+
+*(Running head: "194 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.1)** *(Kannada)*
+
+*vi mahasaḥ* — endowed with special brilliance; *marutaḥ* — O Maruts; *divaḥ* — (coming) from the atmosphere; *yasya hi* — whichever; sacrificer's; *kṣaye* — in the (sacrificial) house; *pātha* — you drink (the Soma-juice); *sa janaḥ* — that man, the performer of the sacrifice; *sugopātamaḥ* — is endowed with excellent protections.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.1** *(Kannada)*
+
+"O Maruts, of exceeding brilliance: whichever sacrificer's sacrificial house you come to from the atmospheric world and drink the Soma-juice there, that man has excellent protections."
+
+**English Translation** *(printed in English in the source)*
+
+"O resplendent Maruts, that man in whose house you drink the Soma-libation is provided with most able protectors." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.1)**
+
+- **विमहसः** — *viśiṣṭaprakāśāḥ* — "extremely resplendent."
+- **क्षये** — *yajñagṛhe* — "in the house where sacrifice is performed."
+- **पाथ** — "you drink the Soma-juice."
+- **सुगोपातमः** — *śobhano gopā rakṣako yasya sa sugopāḥ | atiśayena sugopāḥ sugopātamaḥ* — "one who has excellent protectors."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.1)** *(grammar page, noted briefly; begins here)*
+
+- **पाथ** — the root *pā pāne*; *laṭ*, second person plural, the affix *tha*; by "बहुलं छन्दसि" the *luk* of the *śap* *vikaraṇa*; since the affix is *śit*-less [as printed: *śit-pratyaya parad-lilladiruvudarinda*], the substitute *piba* by "पाघ्राध्मा…" does not come; since *yasya* precedes, by "यद्वृत्तान्नित्यम्" the *nighāta* does not occur; by the affix-accent the final acute; by "व्यचोऽतस्तिङः" (Pā. Sū. 6-3-[135] [?]) in the mantra the lengthening occurs because of the Veda: the *ā* is long.
+- **दिवः** — by "ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः" (Pā. Sū. 6-1-[171]) the case-ending is acute.
+
+*(The grammar page continues on p. 195.)*
+
+---
+
+**Progress note:** Printed pp. 1–194 done (PDF 16–209) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): heading, Sanskrit introduction and Anuvāda done; **Rik 86.1** done through the Special Topics and the first two entries of its grammar page (p. 194; continues on p. 195). Next: printed p. 195 (PDF 210). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
