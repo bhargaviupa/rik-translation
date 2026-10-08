@@ -4456,4 +4456,132 @@ Grammar page, noted briefly. It treats: *pṛṣṭaḥ* (root *spṛś saṃspa
 
 ---
 
-**Progress note:** Printed pp. 1–153 done (PDF 21–173): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 Special Topics (pp. 137–145: the *Vaiśvānarāgni-mahimā*, the Nirukta discussion of Vaiśvānara, the Bṛhaddevatā verses, the Śatapatha Brāhmaṇa 10-6-1 story of the six householders and Aśvapati Kaikeya — its Sanskrit text on pp. 141–142 and Kannada summary on pp. 142–144 — and the Chāndogya Upaniṣad 5-18-2 and 5-24 quotations with Śaṅkara's derivation on p. 145) done to the foot of p. 145; the Special Topics' close and grammar of 98.1 (pp. 146–147) and Rik 98.2 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topic on the Cāturmāsya *yājyā*, pp. 148–149) done; the Special Topics of 98.2 (pp. 150–152), its grammar page (p. 152) and Rik 98.3 (Saṃhitā, Pada, bhāṣya, and the Pratipadārtha begun, p. 153) done. Next: printed p. 154 (PDF 174): Pratipadārtha of 98.3 continues mid-sentence at *rāyaḥ —*. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 154 (PDF 174)
+
+*(Running head: left 154; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 98.3, continued from p. 153 (Kannada)**
+
+"[*rāyaḥ* —] sons endowed with riches or fortunes; *sacantām* — may they attend; *naḥ* — our (prayed-for by us); *tat* — that fortune; *mitraḥ* — Mitra; *varuṇaḥ* — and Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the deity presiding over the flowing of waters; *pṛthivī* — and the earth; *uta* — and; *dyauḥ* — the heavenly world; *māmahantām* — may [they] protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, may all the rites that we perform with you in view have power to give truly the end we desire. May sons rich in wealth ever attend us. May Mitra, Varuṇa, Aditi and the deity of the ocean protect for us that wealth which we have asked; and so may the earth and the heavenly world."
+
+**English Translation (as printed)**
+
+> Vais'wanara, may this (your adoration be attended) by real (fruit) ; may precious treasures wait us [sic], and may Mitra, Varuna, Aditi—ocean, earth, and heaven, preserve them to us.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 98.3 (Kannada)**
+
+"*Tat satyam astu* — [Sāyaṇa:] *asmābhiḥ kriyamāṇaṃ karma avitathaphalaṃ bhavatu*: 'may the rite performed by us bear true fruit' — this is the prayer: may whatever rites we perform bring true fruits. These fruits may be of many forms. Whether in the form of cattle, sons and the like, or in the form of the destruction of the Asuras, or in the form of the sending of rain, the performance of a rite for the sake of fruits must be done with such power that it gives, in due season, the fruits wished for. If the rite is true in nature, the fruit also will be true in nature; and faith (*śraddhā*) too is evident in the sacrificer. For such fruits to be gained, there must be the highest worthiness (*arhatā*). The word *satya* is used throughout the Ṛksaṃhitā with a meaning that sets before us this splendid, ethical worthiness and power. Those who have such supreme worthiness — their rites too are of the form of truth; bringing out this very sense, the Nirukta-author too gives the derivation of the word *satya*:"
+
+> सत्यं कस्मात् । सत्सु तायते सत्प्रभवं भवतीति वा ।
+> *satyaṃ kasmāt | satsu tāyate satprabhavaṃ bhavatīti vā |*
+> (*Ni.* 3-[1?]2 as read [?])
+
+"— 'It spreads (*tāyate*) among the good (*sat*), or it is born (*prabhavati*) among the good: therefore it is called *satya*,' the Nirukta-author explains. According to this derivation, the fruit that is of the nature of truth too must come to the good: so the sense is that for the true rite of the good there is a true fruit that fits it.
+
+### Page 155 (PDF 175)
+
+*(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 155.)*
+
+[Thus,] since the word *satya* is used both of the rite and of the fruit, in both these contexts it is to be explained what principle of the universe this idea reflects."
+
+> ते देवा उत्सृज्यानृतं सत्यमन्वालेभिरे [?] ।
+> *te devā utsṛjyānṛtaṃ satyam anvālebhire [?] |*
+> (*Śat. Br.* 9-5-1-1[3?] as read [?])
+
+> तद्यत्तत्सत्यं त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं केनवामहा [?] इति ।
+> *tad yat tat satyaṃ trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ kenavāmahā [?] iti |*
+> (*Śat. Br.* 9-5-1-1[5?] as read [?])
+
+"The gods, abandoning untruth, took firm hold of truth. The three Vedas, called *trayī*, being of the nature of this truth, the gods said [or: wished]: 'having performed the sacrifice, with this truth what shall we —?' [the end of the sentence, *kenavāmahā*, is doubtful [?]]. Besides showing that between truth and the sacrificial rite there is an essential relation, these passages pray that, by such a sacrificial rite of the nature of truth, one may obtain a life full and rich in wealth."
+
+> नाभिर्ऋतस्य सप्रथा इति । सत्यं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह ।
+> *nābhir ṛtasya saprathā iti | satyaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ity evaitad āha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ity evaitad āha |*
+> (*Śat. Br.* 1[4?]-3-1-1[8?] as read [?])
+
+"By such explanations, pointing out the identity between the order of the world and truth, [the text] shows that by following truth, and by performing rites that are true, one obtains full life as the fruit; it shows the relation of cause and effect between the fruit that is true and the rite that is true.
+
+For the performance of rites of this truth-nature, it is extremely necessary to know the nature of the deities who are the cause of the order of the world; and that this knowledge too is to be won only through truth is likewise explained, in detail, in many contexts."
+
+> गूढं ज्योतिः पितरो अन्वविन्दन्त्सत्यमन्त्रा अजनयन्नुषासम् ।
+> *gūḍhaṃ jyotiḥ pitaro anvavindan satyamantrā ajanayann uṣāsam |*
+> (*Ṛ. Saṃ.* 7-[7?]6-4 as read [?])
+
+> सत्यं तदिन्द्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियन्तम् ।
+> *satyaṃ tad indro daśabhir daśagvaiḥ sūryaṃ viveda tamasi kṣiyantam |*
+> (*Ṛ. Saṃ.* 3-[3?]9-[3?] as read [?])
+
+*(Glosses, mine and tentative: "The fathers found the hidden light; with true mantras they brought forth the dawn"; "That is true: Indra, with the ten, the Daśagvas, found the sun that dwelt in darkness.")*
+
+"Besides this, there are many sentences that point to the fruit, the wealth, of those who, knowing the nature of the deities who are of the form of truth, performed their rites, as in the former contexts; and with them, too, is the prayer that it may be auspicious for us through truth itself."
+
+### Page 156 (PDF 176)
+
+*(Running head: left 156; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99" [as the numeral reads, 98 or 99 [?]].)*
+
+> सा मा सत्योक्तिः परि पातु विश्वतो द्यावा च यत्र ततनन्नहानि च ।
+> *sā mā satyoktiḥ pari pātu viśvato dyāvā ca yatra tatanann ahāni ca |*
+> (*Ṛ. Saṃ.* 10-3[7?]-2 as read [?])
+
+*(Gloss, mine and tentative: "May that true utterance guard me on every side, where heaven and the days are spread out".)*
+
+"In these and other sentences it is prayed that all kinds of protection may be obtained through truth alone.
+
+In this present Ṛk too the same idea is expressed. It is said that Agni too, by truth alone, carried out his work of protecting the world; and, that one should worship Agni, as one 'of the nature of truth' (*satyadharman*):"
+
+> अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
+> *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+> (*Ṛ. Saṃ.* 1-67-3 as read [?])
+
+> कविमग्निमुपस्तुहि सत्यधर्माणमध्वरे ।
+> *kavim agnim upastuhi satyadharmāṇam adhvare |*
+> (*Ṛ. Saṃ.* 1-12-[7?] as read [?])
+
+> देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा ।
+> *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā |*
+> (*Ṛ. Saṃ.* 1-7[3?]-3 as read [?])
+
+*(Glosses, mine and tentative: "Unborn, he held the earth and propped up the sky with true mantras"; "Praise Agni the sage, of the nature of truth, at the sacrifice"; "Who, like the god Savitṛ, of true thought, guards by his will all [our] crooked ways".)*
+
+"In passages such as these it is shown that Agni supports the worlds, earth and the rest, and carries out the protection of the worlds, by truth alone; and likewise the need to worship Agni, the one of true *dharma*."
+
+> अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमाशुषाणाः ।
+> शुचीदयन्दीधितिमुक्थशासः क्षामा भिन्दन्तो अरुणीरप व्रन् ।
+> *adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtam āśuṣāṇāḥ | śucīd ayan dīdhitim ukthaśāsaḥ kṣāmā bhindanto aruṇīr apa vran |*
+> (*Ṛ. Saṃ.* 4-2-16 as read [?])
+
+*(Gloss, mine and tentative: "So, as our forefathers of old, O Agni, who had attained the order [ṛta], went, bright, to the light, reciting the praise, and breaking the ground they opened the ruddy [cows/dawns]".)*
+
+"— thus, suggesting the context that has gone before: as in former times our forefathers obtained good fruits by sacrificial rites of the nature of truth, so now, for us too, may all our rites — *tat satyam astu* — bear true fruit: thus Vaiśvānara, the fire, is prayed to.
+
+*Maghavānaḥ rāyaḥ* — here, since *magha* and *rai* are both read among the names of wealth, the word *maghavānaḥ* is taken as 'together with wealth', and for the word *rāyaḥ* [Sāyaṇa] explains *dhanavatipriyoḥ* [as printed, doubtful [?]] — 'sons who are dear, and wealthy'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 98.3)** *(grammar pages, pp. 156–157, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *astu* (root *as bhuvi*, *adādi*; *loṭ*, third person singular; *tip* → *tu* by *eruḥ* [as read: *iruḥ*? ?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72]; *nighāta* accent because it follows a non-verb); *rāyaḥ* (*rai*, *jas*; *āy*-substitution by *eco 'yavāyāvaḥ* [as read, ?]; the final *s* → *ru* → visarga); *maghavānaḥ* (*maghaṃ asyāsti*, the sense of possession intended; the affix *vanip* by the vārttika *chandasīvanipau ca vaktavyau* [Pā. Sū. 5-2-109, vārttika, as read [?]]; the word *maghavan* is thus made, ending in *n*; being *pit* it is *anudātta*; the lengthening of the penult before *jas* by *sarvanāmasthāne cāsambuddhau* [Pā. Sū. 6-4-8 as read, ?]); *sacantām* (root *ṣac sevane secane ca*, *bhvādi*; *loṭ*, third person plural, *jhi*; *anta*-substitution for *jh*; *āmetaḥ* [Pā. Sū. 3-4-90, read in print as 6-4-90 [?]] — *ām* for the *e*; *śap* as the *vikaraṇa*; *pararūpa*; *nighāta* accent); *māmahantām* (root *maha pūjāyām*, *loṭ*, third person plural; *anta*; *bahulaṃ chandasi* [Pā. Sū. 2-4-73 as read, ?], *śap* → *śluḥ*; doubling of the root by *ślau* [Pā. Sū. 6-1-10 as read, ?]; lengthening of the reduplicative syllable by *anyeṣām api dṛśyate* [Pā. Sū. 6-3-137 as read, ?]; *nighāta* accent). The Rik is closed with *‖ 3 ‖*.
+
+### Page 157 (PDF 177)
+
+*(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 157. The grammar of Rik 98.3 given above begins at the foot of p. 156 and is completed at the head of this page.)*
+
+*(Printed line, centred:)* **ತೊಂಭತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು** — *tombhatteṇṭaneya sūktavu samāptavu*, "The ninety-eighth Sūkta is ended."
+
+## Sūkta 99
+
+**ತೊಂಭತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *tombhattombhattaneya sūktavu*, "the ninety-ninth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 99 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> जातवेदस इत्येकर्चं षष्ठं सूक्तं मरीचिपुत्रस्य कश्यपस्यार्षं त्रैष्टुभम् । जातवेदोगुणकोऽग्निः शुद्धाग्निर्वा देवता । तथा चानुक्रान्तम् । जातवेदस एका । जातवेदस्येमे तदादीन्येकभूयांसि सूक्तसहस्रमेतत्तु कश्यपार्षमिति [?] ॥ आहर्गणेषु द्वितीयादिष्वहःस्वाग्निमारुते जातवेदस्यनिविद्धानात्पूर्वमेषा शंसनीया [?] । सूत्रितं च । जातवेदसे सुनवाम सोममित्याग्निमारुते जातवेदस्यानाम् । आ. २-१ [?] इति ॥
+> *jātavedasa ity ekarcaṃ ṣaṣṭhaṃ sūktaṃ marīciputrasya kaśyapasyārṣaṃ traiṣṭubham | jātavedoguṇako 'gniḥ śuddhāgnir vā devatā | tathā cānukrāntam | jātavedasa ekā | jātavedasyeme tadādīny ekabhūyāṃsi sūktasahasram etat tu kaśyapārṣam iti [?] ‖ āhargaṇeṣu dvitīyādiṣv ahaḥsv āgnimārute jātavedasyanividdhānāt pūrvam eṣā śaṃsanīyā [?] | sūtritaṃ ca | jātavedase sunavāma somam ity āgnimārute jātavedasyānām | Ā. 2-1 [?] iti ‖*
+
+*(Sense, mine and tentative, from the Kannada that follows: "The sixth sūkta, of one Ṛk, beginning* jātavedase*, is the seer-composition of Kaśyapa, son of Marīci, in the Triṣṭubh metre; its deity is Agni with the quality of Jātavedas, or the pure Agni. So the Anukramaṇī: '*jātavedasa* — one; these [sūktas] beginning with this, with a surplus of one, [make up] the thousand sūktas; this one is of Kaśyapa's seership.' In the* āhargaṇa *rites, on the second and following days, this [Ṛk] is to be recited in the Āgnimāruta [śastra] before the* nivid *of Jātavedas. And it is set down in the Sūtra: '*jātavedase sunavāma somam*', in the Āgnimāruta [śastra], of those [Ṛks] addressed to Jātavedas.' The Sūtra-numeral and the middle of the sentence are doubtful.)*
+
+**Anuvāda (Kannada):** "*Jātavedase* — this sūkta is the sixth sūkta in the fifteenth anuvāka; it has only one Ṛk. Of this sūkta the ṛṣi is Kaśyapa, son of Marīci; the metre is Triṣṭubh; the deity is Agni named Jātavedas, or Agni alone. In the Anukramaṇikā it is said — '*jātavedasa ekā jātavedasyeme tadādīny ekabhūyāṃsi sūktasahasram etat tu kaśyapārṣam iti*'. In the rite called Āhargaṇa, leaving out the first day, the remaining" *(continues on p. 158)*
+
+---
+
+**Progress note:** Printed pp. 1–157 done (PDF 21–177): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 Special Topics (pp. 137–145: the *Vaiśvānarāgni-mahimā*, the Nirukta discussion of Vaiśvānara, the Bṛhaddevatā verses, the Śatapatha Brāhmaṇa 10-6-1 story of the six householders and Aśvapati Kaikeya — its Sanskrit text on pp. 141–142 and Kannada summary on pp. 142–144 — and the Chāndogya Upaniṣad 5-18-2 and 5-24 quotations with Śaṅkara's derivation on p. 145) done to the foot of p. 145; the Special Topics' close and grammar of 98.1 (pp. 146–147) and Rik 98.2 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topic on the Cāturmāsya *yājyā*, pp. 148–149) done; Sūkta 98 is COMPLETE (Riks 98.1–98.3, ending p. 157 with 'tombhatteṇṭaneya sūktavu samāptavu'). **Sūkta 99** (1 Ṛk, *jātavedase sunavāma somam*, Kaśyapa Mārīca, Triṣṭubh, Jātavedas Agni; printed pp. 157–164) begun: heading, Sāyaṇa's introduction and the start of the Anuvāda are done (p. 157). Next: printed p. 158 (PDF 178): the Anuvāda continues mid-sentence ('leaving out the first day, the remaining…'), then the Saṃhitā of Rik 99.1. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
