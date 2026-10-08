@@ -2404,7 +2404,7 @@ Title block:
 
 *(The print's* kṣṛvaṇigbharatā *is as read from the Kannada and is doubtful [?]; gloss, mine and tentative: "of Kutsa, of Āyu, of Atithigva, the heroes… bring the Soma for him".)*
 
-"In such places it appears that Kutsa, Atithigva and Āyu were all, in a legendary way, adversaries needed by Indra. In many places also, 'to the royal seer of the Pūru line, to Manu' (*paururavasya rājarṣeḥ … āyave manave*) is explained. Therefore the name *āyu*, in various places, indicates different persons; this is clear."
+"In such places it appears that Kutsa, Atithigva and Āyu were all, in a legendary way, adversaries needed by Indra. In many places also, 'to Āyu, the son of Urvaśī, of the royal seer of the Paururava line' (*paururavasya rājarṣeḥ ūrvaśeyāya āyave*) and 'to Manu' (*manave*) is explained. Therefore the name *āyu*, in various places, indicates different persons; this is clear."
 
 ***dyāṃ apaś ca*** — "*svatejasā dyāṃ ca antarikṣaṃ ca vyāpnoti*: 'with his own radiance he pervades the heavenly world and the atmosphere'. That is —"
 
@@ -2447,7 +2447,7 @@ Title block:
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.3)** *(begun; continues on p. 80)*
 
 > हे विशः सर्वे मनुष्याः । आरीरग्निं स्वामिनं गच्छन्त्यो यूयमेतमग्निमीळत स्तुध्वं । कीदृशं । प्रथमं सर्वेषु देवेषु मुख्यं । यज्ञसाधं…
-> *he viśaḥ sarve manuṣyāḥ | ārīr agniṃ svāminaṃ gacchantyo yūyam etam agnim īḷata stutvaṃ [sic] | kīdṛśaṃ | prathamaṃ sarveṣu deveṣu mukhyaṃ | yajñasādhaṃ…* *(the sentence continues on p. 80)*
+> *he viśaḥ sarve manuṣyāḥ | ārīr agniṃ svāminaṃ gacchantyo yūyam etam agnim īḷata studdhvaṃ | kīdṛśaṃ | prathamaṃ sarveṣu deveṣu mukhyaṃ | yajñasādhaṃ…* *(the sentence continues on p. 80)*
 
 ### Page 80 (PDF 100)
 
@@ -2492,7 +2492,7 @@ Title block:
 
 *(Gloss, mine and tentative: "to him, first in the sacrifices, the peoples desiring the gods, approaching, speak, to the wonderful one".)* "— in this Ṛk too they are used in the context of the worship of Agni: it is an address to men who go quickly for the worship of Agni, and to those who offer the oblations."
 
-***yajñasādham*** — *yajñasya darśapūrṇamāsādeḥ sādhakaṃ niṣpādakam*: "'the accomplisher of the sacrifice, the *darśapūrṇamāsa* and the rest' is an epithet of Agni, in the sense of 'he who brings to completion the *daśapūrṇamāsa* and the rest'. This epithet is used in three places, once as an epithet of Rudra and twice of Agni —"
+***yajñasādham*** — *yajñasya darśapūrṇamāsādeḥ sādhakaṃ niṣpādakam*: "'the accomplisher of the sacrifice, the *darśapūrṇamāsa* and the rest' is an epithet of Agni, in the sense of 'he who brings to completion the *darśapūrṇamāsa* and the rest'. This epithet is used in three places, once as an epithet of Rudra and twice of Agni —"
 
 > त्वेषं वयं रुद्रं यज्ञसाधं वङ्कुं कविमवसे नि ह्वयामहे ।
 > *tveṣaṃ vayaṃ rudraṃ yajñasādhaṃ vaṅkuṃ kavim avase ni hvayāmahe |*
