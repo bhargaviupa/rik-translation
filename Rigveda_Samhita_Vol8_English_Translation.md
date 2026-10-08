@@ -2781,4 +2781,123 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–93 done (PDF 21–113): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.4 complete; Rik 96.5: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English and Special Topics done (pp. 89–92), its grammar pages begun (pp. 92–93, through *samīcī*); next: printed p. 94 (PDF 114) — the rest of the grammar of 96.5 (*dyāvākṣāmā*, *rukmaḥ* …), then Rik 96.6. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–93) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.4 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4) and the Ṛgveda numerals throughout [?]; in 96.5 the bhāṣya's *ahastriyāme*, the long *dhāpayete* argument and the Ṛgveda numerals of pp. 91–92 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 94 (PDF 114)
+
+*(Running head: left 94; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+*Grammar of Rik 96.5, concluded from p. 93 (noted briefly):* ***samīcī***, concluded: …*añcateś copasaṃkhyānam* (Pā. [?]) gives *ṅīp*; this is a *para*-word and has the designation *saṃjñā*, so *acaḥ* (Pā. 6-4-138 [?]) lengthens the preceding vowel [the print's remark]; here the *ṅīp*, being *pit*, is unaccented; for the *ṅīp*, since the root's acute-bearing *a* is elided, *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161 [?]) gives the acute to the *ṅīp*; here the Padakāra's intention differs: *uda īt* (Pā. 6-4-139 [?]) — that the *īt* prescribed for the *a* of the root *añcu* when *ud* is the prefix applies, by *vyatyaya*, also to the root when *sam* is the prefix, as in the word *samīcī*; the dual ending following, *vā chandasi* (Pā. 6-1-106 [?]) the homogeneous lengthening. — ***dyāvākṣāmā*** — *diva dyāvā* (Pā. 6-3-29 [?]): *div* is replaced by *dyāvā*; the genitive dual *os* following, *supāṃ suluk* (Pā. 7-1-39 [?]) gives *ḍā* [*ā*] in place of it; *devatādvandve ca* (Pā. 6-2-141 [?]) gives both members their natural accent at once. — ***bhāti*** — root *bhā* (to shine); *laṭ*, third person singular; *nighāta*, after a verb-ending word. ‖ 5 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 6
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.6)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> रायो बुध्नः संगमनो वसूनां यज्ञस्य केतुर्मन्मसाधनो वेः ।
+> अमृतत्वं रक्षमाणास एनं देवा अग्निं धारयन्द्रविणोदाम् ॥ ६ ॥
+
+*rāyo budhnaḥ saṃgamano vasūnāṃ yajñasya ketur manmasādhano veḥ | amṛtatvaṃ rakṣamāṇāsa enaṃ devā agniṃ dhārayan draviṇodām ‖ 6 ‖*
+
+### Page 95 (PDF 115)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 95.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.6)**
+
+> रायः । बुध्नः । सम्ऽगमनः । वसूनाम् । यज्ञस्य । केतुः । मन्मऽसाधनः । वेः इति वेः ।
+> अमृतऽत्वम् । रक्षमाणासः । एनम् । देवाः । अग्निम् । धारयन् । द्रविणःऽदाम् ॥ ६ ॥
+
+*rāyaḥ | budhnaḥ | sam-gamanaḥ | vasūnām | yajñasya | ketuḥ | manma-sādhanaḥ | veḥ iti veḥ | amṛta-tvam | rakṣamāṇāsaḥ | enam | devāḥ | agnim | dhārayan | draviṇaḥ-dām ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.6)**
+
+> योऽग्निं रायो धनस्य बुध्नो मूलभूतः । आहुतिद्वारा सर्वेषां धनानां कारणत्वात् । वसूनां निवासहेतूनां धनानां संगमनः संगमयिता । स्तोतॄणां प्रापयिता । यज्ञस्य दर्शपूर्णमासादेः केतुः केतयिता ज्ञापयिता । वेर्वीरात्मानमभिगच्छते पुरुषस्य मन्मसाधनो मननीयस्याभिलषितस्य साधयिता । अमृतत्वं स्वकीयामरणत्वं रक्षमाणासः पालयन्तो देवा एनं धनस्य दातारमग्निं धारयन्ति ॥ रायः । ऊडिदमिति विभक्तेरुदात्तत्वं । संगमनः । नन्द्यादिलक्षणो ल्युः । वेः । वी गत्यादिषु । अस्मादौणादिक इप्रत्ययः । टिलोपश्च ॥
+> *yo 'gniṃ rāyo dhanasya budhno mūlabhūtaḥ | āhutidvārā sarveṣāṃ dhanānāṃ kāraṇatvāt | vasūnāṃ nivāsahetūnāṃ dhanānāṃ saṃgamanaḥ saṃgamayitā | stotṝṇāṃ prāpayitā | yajñasya darśapūrṇamāsāder ketuḥ ketayitā jñāpayitā | ver vīrātmānam abhigacchate puruṣasya manmasādhano mananīyasyābhilaṣitasya sādhayitā | amṛtatvaṃ svakīyāmaraṇatvaṃ rakṣamāṇāsaḥ pālayanto devā enaṃ dhanasya dātāram agniṃ dhārayanti ‖ rāyaḥ | ūḍidam iti vibhakter udāttatvaṃ | saṃgamanaḥ | nandyādilakṣaṇo lyuḥ | veḥ | vī gatyādiṣu | asmād auṇādika ipratyayaḥ | ṭilopaś ca ‖*
+
+*(The bhāṣya begins* yo 'gniṃ *as printed; the sense requires* so 'gniḥ*, 'that Agni' [?]. Sense, mine and tentative: "Agni is the* budhna *— the root — of* rāyaḥ*, wealth: since by the oblation he is the cause of all riches. He is the* saṃgamana*, the one who brings together, the* vasūnām*, riches that are the cause of dwelling; he who causes the praisers to obtain; the* ketu *of the sacrifice (the* darśapūrṇamāsa *and the rest) — the one who makes it known; for the person who approaches him ('* veḥ*', of the one who approaches), the accomplisher of the desired, the thing to be reflected upon; the gods, guarding their own immortality, hold him, Agni, the giver of wealth.")* Tail: *rāyaḥ* — the case-ending acute by *ūḍidam…*; *saṃgamanaḥ* — *lyu* by the *nandyādi* group; *veḥ* — root *vī* (going and the rest), the Uṇādi suffix *i*, with loss of the *ṭi*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*agniḥ* — Agni) *rāyaḥ* — of wealth; *budhnaḥ* — the cause; *vasūnāṃ* — of riches; *saṃgamanaḥ* — one who brings them together; *yajñasya* — of the sacrifice; *ketuḥ* — the one who makes known (the guide of the way); *veḥ* — (the man who approaches him) of the man; *manmasādhanaḥ* — the one who accomplishes the desired goals (he is). *Amṛtatvaṃ* — their own freedom from death; *rakṣamāṇāsaḥ* — those who guard it; *devāḥ* — the deities; *enaṃ agniṃ* — this Agni, who has the qualities named above; *draviṇodām* — as the one who distributes wealth (in the form of oblations); *dhārayan* — set in the office of messenger."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Agni, who by sacrifice and the like is the cause of wealth, who brings riches to the sacrificers, who is the guide of the sacrifice, and who accomplishes the desired goals of one who approaches and worships him" *(continues on p. 96)*
+
+### Page 96 (PDF 116)
+
+*(Running head: left 96; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+"…[— such is Agni]. The gods, who guard their own immortality, have set Agni, who has the qualities described above, in the office of messenger who distributes oblations."
+
+**English Translation (as printed)**
+
+> The source of opulence, the bestower of riches, the director of the sacrifice, the accomplisher of the desires (of the man) who has recourse to him ; him, the gods, preserving their immortality, retain as the giver of (sacrificial) wealth.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.6 (Kannada)**
+
+***budhnaḥ*** — *mūlabhūtaḥ*: "'the root; the one who is the foundation'. Ordinarily the word *budhna* is used for the most part as a synonym of the atmosphere (*antarikṣa*). Even in giving the sense 'atmosphere' *baddhā asmin dhṛtā āpa iti vā* ('because the waters are bound and held here') (Ni. 10-4[6] [?]), that is, because it holds the waters as their support, the atmosphere has the name *budhna*. In many contexts, not as a synonym for the atmosphere but in the sense 'support' or 'root', it is used:"
+
+> निर्यदीं बुध्नान्महिषस्य वर्पस ईशानासः शवसा क्रन्त सूरयः ।
+> *nir yad īṃ budhnān mahiṣasya varpasa īśānāsaḥ śavasā kranta sūrayaḥ |*
+> (*Ṛ. Saṃ.* 1-141-3)
+
+"Here, for the word *budhnāt* the meaning is *mahato yajñasya mūlāt* ('from the root of the great sacrifice'), that is, 'from the time of the *ādhāna*', from the beginning."
+
+> द्विमाता होता विदथेषु सम्राळन्वग्रं चरति क्षेति बुध्नः ।
+> *dvimātā hotā vidatheṣu samrāḍ anv agraṃ carati kṣeti budhnaḥ |*
+> (*Ṛ. Saṃ.* 3-[?]-2 as read [?])
+
+"— in this Ṛk, *budhnaḥ* means 'the root of all works'."
+
+> इन्द्राय गिरो अनिशितसर्गा अपः प्रैरयत्सगरस्य बुध्नात् ।
+> *indrāya giro aniśitasargā apaḥ prairayat sagarasya budhnāt |*
+> (*Ṛ. Saṃ.* 10-[?]-4 as read [?])
+
+*(Glosses, mine and tentative: "the two-mothered Hotṛ, the sovereign in the assemblies, goes forward, dwells as the root"; "for Indra the songs, the unsharpened streams, he sent the waters from the depth of the ocean".)* "— in this, *sagarasya budhnāt* is 'from the root-place, the thick depth, that is the support of the atmosphere'."
+
+"Thus, though the word *budhna* is not used in the sense of 'atmosphere' in ordinary usage, 'support', 'cause', 'root' is its chief meaning. In this Ṛk, *rāyo budhnaḥ* —" *(continues on p. 97)*
+
+### Page 97 (PDF 117)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 97; foot: printer's signature "7 … Volume 8".)*
+
+"…*sarveṣāṃ dhanānāṃ kāraṇatvāt*: 'the cause of all wealth': that is, of all kinds of riches, whether in the form of cattle, or in the form of food, or in the form of protection — since Agni is the support, this epithet properly applies to him:"
+
+> सं यस्मिन्विश्वा वसूनि जग्मुर्वाजे नाश्वाः सप्तीवन्त एवैः ।
+> *saṃ yasmin viśvā vasūni jagmur vāje nāśvāḥ saptīvanta evaiḥ |*
+> (*Ṛ. Saṃ.* 10-6-[?] as read [?])
+
+> आ सूर्ये न रश्मयो ध्रुवासो वैश्वानरे दधिरेऽग्ना वसूनि ।
+> या पर्वतेष्वोषधीष्वप्सु या मानुषेष्वसि तस्य राजा ॥
+> *ā sūrye na raśmayo dhruvāso vaiśvānare dadhire 'gnā vasūni |*
+> *yā parvateṣv oṣadhīṣv apsu yā mānuṣeṣv asi tasya rājā ‖*
+> (*Ṛ. Saṃ.* 1-59-3 as read)
+
+> वसुर्वसूनां क्षयसि त्वमेक इद्द्यावा च यानि पृथिवी च पुष्यतः ।
+> *vasur vasūnāṃ kṣayasi tvam eka id dyāvā ca yāni pṛthivī ca puṣyataḥ |*
+> (*Ṛ. Saṃ.* 10-91-3 as read [?])
+
+*(Glosses, mine and tentative: "in whom all riches have gathered, as swift horses to the contest"; "like rays in the sun, the riches are set firm in Vaiśvānara; [the riches] that are in the mountains, in the plants, in the waters, in men — of them you are the king"; "you alone are the Vasu of the Vasus, [rule over] those that heaven and earth nourish".)* "In many places such as these it is said that Agni is the support and the lord of every kind of wealth; so here too he is praised as *rāyo budhnaḥ*."
+
+***saṃgamano vasūnām*** — "Agni is not only the support of riches: he gives wealth to all sacrificers who are faithful to their rites."
+
+> सं त्वा रायः शतिनः सं सहस्रिणः सुवीरं यन्ति व्रतपामदाभ्य ।
+> *saṃ tvā rāyaḥ śatinaḥ saṃ sahasriṇaḥ suvīraṃ yanti vratapām adābhya |*
+> (*Ṛ. Saṃ.* 1-3[1]-10 as read [?])
+
+> विश्वं सो अग्ने जयति त्वया धनं यस्ते ददाश मर्त्यः ।
+> *viśvaṃ so agne jayati tvayā dhanaṃ yas te dadāśa martyaḥ |*
+> (*Ṛ. Saṃ.* 1-3[6]-4 as read [?])
+
+*(Glosses, mine and tentative: "to you, protector of vows, unharmed, come riches by hundreds, by thousands, with good heroes"; "he wins all wealth through you, Agni, the mortal who has given to you".)* "— thus the sacrificer who offers oblations to Agni obtains all kinds of wealth, hundred-fold and thousand-fold. As it is said that Agni gives all riches, here too his generosity is praised."
+
+***veḥ*** — "the genitive singular of the root *vī*, of the sense 'to go': of the sacrificer who approaches Agni with worship and the like."
+
+***manmasādhanaḥ*** — *mananīyasya abhilaṣitasya sādhayitā*: "'one who accomplishes the desired goals that are to be thought upon'; though the derivation of the word *manma* as 'the wish of the mind' is a derived sense, the use of this word in the passages of the Ṛksaṃhitā gives somewhat more meaning than merely the ordinary wish of the mind: in the many contexts of Ṛ. 1-[?]-[?]; 1-1[?]-[?]; 1-[?]0-1; 1-[?]0-5 and others" *(continues on p. 98)*
+
+---
+
+**Progress note:** Printed pp. 1–97 done (PDF 21–117): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.5 complete (96.5's grammar concluded on p. 94); Rik 96.6: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 94–96), and the Special Topics under way (*budhnaḥ*; *saṃgamano vasūnām*; *veḥ*; *manmasādhanaḥ*), breaking at the foot of p. 97 in the passage on *manmasādhanaḥ* at "…in the many contexts of Ṛ. 1-[?]-[?] … and others". Next: printed p. 98 (PDF 118). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–97) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.5 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5 and the Ṛgveda numerals throughout [?]; in 96.6 the bhāṣya's opening *yo 'gniṃ* (for *so 'gniḥ*) [?] and the Ṛgveda numerals of pp. 96–97 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
