@@ -4501,7 +4501,7 @@ Closing of Rik 85.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 *he marutaḥ pṛṣatīr yadā ratheṣu prāyugdhvaṃ prāyuyujata | kiṃ kurvantaḥ | vāje anne nimittabhūte sati adriṃ megham raṃhayanto varṣaṇārthaṃ prerayantaḥ | uta tadānīm aruṣasyārocamānasya sūryasya vidyutto vāgner vā sakāśād vṛṣṭyudakadhārā bhavanto vi ṣyanti | vimuñcanti | vimuktāś ca tāḥ dhārā udabhir udakaiś ca carmeva parimitam alpaṃ carma yathāprayatnena kledyate evaṃ bhūma sarvāṃ bhūmiṃ vyundanti | viśeṣeṇārdrāṃ kurvanti ‖ raṃhayantaḥ | rahi gatau | vi ṣyanti | ṣo antakarmaṇi | daivādikaḥ | otaḥ śyani (Pā. 7-3-71 [?]) ity okāralopaḥ | upasargāt sunotīti ṣatvam | udabhiḥ | paddann ity ādinā udakaśabdasyodannādeśaḥ | vyundanti | undī kledane | bhūma | supāṃ suluk iti bhūmiśabdād uttarasyāmo ḍādeśaḥ | chāndasaṃ hrasvatvam ‖*
 
-*Translation:* "O Maruts, when you have yoked the spotted does to your chariots — doing what? — for the sake of *vāja*, food, driving (*raṃhayantaḥ*) the *adri*, the cloud, for the sake of rain: then (*uta*) from the ruddy (*aruṣasya*), non-shining [sic: 'not shining'?] sun, or from lightning, or from fire, the streams of rain-water *vi ṣyanti* — are let loose; and those streams, with waters (*udabhiḥ*), as a small bit of hide, measured out, is moistened with some effort, even so *bhūma* — the whole earth — they *vyundanti*, drench thoroughly. *Grammar tail, noted briefly:* *raṃhayantaḥ* — *rahi gatau*; *vi ṣyanti* — *ṣo antakarmaṇi* ('to end'), Divādi, with loss of the *o* before *śyan*, by "otaḥ śyani" [Pā. 7-3-71 [?]], *ṣatva* after a preposition; *udabhiḥ* — *udan* substituted for *udaka* by "pad-dan-no-…"; *vyundanti* — *undī kledane*; *bhūma* — by "supāṃ suluk" the *ḍā* substitution for the accusative case-ending *am* after *bhūmi*, and the shortening is Vedic."
+*Translation:* "O Maruts, when you have yoked the spotted does to your chariots — doing what? — for the sake of *vāja*, food, driving (*raṃhayantaḥ*) the *adri*, the cloud, for the sake of rain: then (*uta*) from the ruddy / radiant (*aruṣasya*) sun, or from lightning, or from fire, the streams of rain-water *vi ṣyanti* — are let loose; and those streams, with waters (*udabhiḥ*), as a small bit of hide, measured out, is moistened with some effort, even so *bhūma* — the whole earth — they *vyundanti*, drench thoroughly. *Grammar tail, noted briefly:* *raṃhayantaḥ* — *rahi gatau*; *vi ṣyanti* — *ṣo antakarmaṇi* ('to end'), Divādi, with loss of the *o* before *śyan*, by "otaḥ śyani" [Pā. 7-3-71 [?]], *ṣatva* after a preposition; *udabhiḥ* — *udan* substituted for *udaka* by "pad-dan-no-…"; *vyundanti* — *undī kledane*; *bhūma* — by "supāṃ suluk" the *ḍā* substitution for the accusative case-ending *am* after *bhūmi*, and the shortening is Vedic."
 
 ---
 
@@ -4530,4 +4530,99 @@ Closing of Rik 85.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–164 done (PDF 16–179) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.4 complete**; **Rik 85.5** done through the first four entries of its Special Topics (to *raṃhayantaḥ*, p. 164); the rest of the Special Topics and the grammar page follow on p. 165. Next: printed p. 165 (PDF 180). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 165 (PDF 180)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 165.)*
+
+*Special Topics of Rik 85.5, continued from p. 164:*
+
+- **अरुषस्य** — *arocamānasya sūryasya vidyutaḥ agner vā sakāśād vṛṣṭyudakadhārā bhavanto vi ṣyanti* — "from the radiant sun, or from lightning (fire), the streams of rain-water are let loose: the meaning is that rain comes from the radiant sun, or from the lightning (the fire). When rain is falling, with thunder and lightning, the wind blows fiercely; here the ṛṣi describes the Maruts (the winds) as going swiftly and, through the lightning, as sending the clouds to scatter the water upon the earth."
+
+"It is well known that wherever the Marut deities move, causing rain to fall, fire (lightning) arises there. This matter is stated in many Ṛks:
+
+> अध क्षरन्ति सिन्धवो न सृष्वाः प्र नीचीरग्ने अरुषीरजानन् ॥
+
+*adha kṣaranti sindhavo na sṛṣvāḥ pra nīcīr agne aruṣīr ajānan ‖* (Ṛ. Saṃ. 1-[?]-[?] [?]) — *Gloss, mine and tentative:* "Then they flow like rivers in spate; the ruddy ones recognised [the way] downward, O Agni." *(Quotation partly doubtful in the print.)*
+
+> ईशानकृतो धुनयो रिशादसो वातान् विद्युतस्तविषीभिरक्रत । दुहन्त्यूधर्दिव्यानि धूतयो भूमिं पिन्वन्ति पयसा परिज्रयः ॥
+
+*īśānakṛto dhunayo riśādaso vātān vidyutas taviṣībhir akrata | duhanty ūdhar divyāni dhūtayo bhūmiṃ pinvanti payasā parijrayaḥ ‖* (Ṛ. Saṃ. 1-[64]-[5] [?]) — *Gloss, mine and tentative:* "The shakers, devourers of foes, who act as lords, made winds and lightnings with their might; the shakers milk the heavenly udder; ranging round, they swell the earth with milk."
+
+> अग्निभ्राजसो विद्युतो गभस्त्योः शिप्राः शीर्षसु वितता हिरण्ययीः ॥
+
+*agnibhrājaso vidyuto gabhastyoḥ śiprāḥ śīrṣasu vitatā hiraṇyayīḥ ‖* (Ṛ. Saṃ. 5-[54]-[11] [?]) — *Gloss, mine and tentative:* "Shining like fire, the lightnings are in their hands; the golden helmets are spread upon their heads."
+
+"In many such Ṛks this matter is clearly supported."
+
+- **स्यन्ति** — *ṣo antakarmaṇi | vi ṣyanti vimuñcanti* — "they let go, they send forth: they send out rain."
+- **चर्मेव उदभिः** — "as a hide is wetted with water."
+- **उन्दन्ति भूम** — "they wet the earth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.5)** *(grammar page, noted briefly; begins here)*
+
+- **अयुग्ध्वम्** — the process was stated in the preceding Ṛk; here too, because *yat* is in connexion, the *nighāta* does not occur.
+- **मरुतः** — by "आमन्त्रितस्य च" the *nighāta* accent.
+- **रंहयन्तः** — the root *rahi gatau*; by "इदितो नुम् धातोः" (*idito num dhātoḥ*) the augment *num*; since it is in the sense of impelling, *ṇic*; after the *ṇijanta* *śatṛ* in the sense of *laṭ*; *śap*; because of it, guṇa of the *ṇic*, and *ay*-substitution: *rahayat*; by the accent of *ṇic* the *a* after *h* is acute; in the nominative plural, as it is *ugit*, the augment *num*.
+
+---
+
+### Page 166 (PDF 181)
+
+*(Running head: "166 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.5, continued from p. 165 (grammar, noted briefly):*
+
+- **वि ष्यन्ति** — the root *ṣo antakarmaṇi*, Divādi; by "धात्वादेः षः सः" (*dhātvādeḥ ṣaḥ saḥ*) the *ṣ* becomes *s*; *laṭ*, third person plural, the substitute *anta*; by "दिवादिभ्यः श्यन्" the *śyan* *vikaraṇa*; it being followed by *śyan*, by "ओतः श्यनि" (*otaḥ śyani*, Pā. Sū. 7-3-[71] [?]) the loss of the *o* of the root; by "अतो गुणे" the following form (*pararūpa*); the form *syanti*; owing to the connexion with the preposition *vi* (and its *visarga*), by "उपसर्गात्सुनोति…" (*upasargāt sunoti…*, Pā. Sū. 8-3-[65] [?]) *ṣatva* for the *s* of the root; the *nighāta* accent of the *tiṅanta*.
+- **उदभिः** — when the word is *udaka* + *bhis*, by "पद्दन्नोमास्हृन्निशसन्…" (*paddann-omās-hṛn-niśasan…*, Pā. Sū. 6-1-[63] [?]) the substitute *udan* for the base; as it has the status of *pada*, by "नलोपः प्रातिपदिकान्तस्य" the loss of *n*; being *asiddha*, the *ī*-lengthening etc. do not occur.
+- **व्युन्दन्ति** — the root *undī kledane*; third person plural; the *nighāta* of the *tiṅanta*.
+- **भूम** — when *bhūmi* + *am*, by "सुपां सुलुक्…" (*supāṃ suluk…*) the substitute *ḍā* in place of *ami*; by the force of the *ḍit*, the loss of the *ṭi* part (*i*) of the base; the shortening comes as a Vedic feature.
+
+Closing of Rik 85.5: "॥ ५ ॥" (5), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.6)** *(Jagatī; Maruts; accents not reproduced)*
+
+> आ वो वहन्तु सप्तयो रघुष्यदो रघुपत्वानः प्र जिगात बाहुभिः ।
+> सीदता बर्हिरुरु वः सदस्कृतं मादयध्वं मरुतो मध्वो अन्धसः ॥ ६ ॥
+
+*ā vo vahantu saptayo raghuṣyado raghupatvānaḥ pra jigāta bāhubhiḥ | sīdatā barhir uru vaḥ sadaskṛtaṃ mādayadhvaṃ maruto madhvo andhasaḥ ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "May your swift steeds, light-running, light-flying, bring you here; come forward with your arms; sit on the broad sacrificial grass, made for you as a seat; and rejoice, O Maruts, in the sweet food [Soma]."
+
+---
+
+### Page 167 (PDF 182)
+
+*(Running head left: "A. 1 A. 6 Va. [?]"; centre: "Ṛgvedasaṃhitā"; right: 167.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.6)**
+
+> आ । वः । वहन्तु । सप्तयः । रघुऽस्यदः । रघुऽपत्वानः । प्र । जिगात । बाहुऽभिः ।
+> सीदत । आ । बर्हिः । उरु । वः । सदः । कृतम् । मादयध्वम् । मरुतः । मध्वः । अन्धसः ॥ ६ ॥
+
+*ā | vaḥ | vahantu | saptayaḥ | raghu-syadaḥ | raghu-patvānaḥ | pra | jigāta | bāhu-bhiḥ | sīdata | ā | barhiḥ | uru | vaḥ | sadaḥ | kṛtam | mādayadhvam | marutaḥ | madhvaḥ | andhasaḥ ‖ 6 ‖*
+
+**॥ संहितापाठः (विनियोगः) ॥ — Application note (Viniyoga), in Sanskrit**
+
+> तृतीयसवने आ वो वहन्त्विति पोतुः पृष्ठितयाज्या । सूत्रितं च । आ वो वहन्तु सप्तयो रघुष्यदोऽमेव नः सुहवा आ हि गन्तनेति ॥ आ. ५-५ [?] । इति ॥
+
+*tṛtīyasavane ā vo vahantv iti potuḥ pṛṣṭhitayājyā | sūtritaṃ ca | ā vo vahantu saptayo raghuṣyado 'meva naḥ suhavā ā hi gantana iti ‖ Ā. 5-5 [?] | iti ‖*
+
+*Translation:* "At the third pressing, the Ṛk *ā vo vahantu* is the *pṛṣṭhitayājyā* (a *yājyā* mantra) of the Potṛ priest; and it is prescribed in the sūtra: '*ā vo vahantu saptayo raghuṣyado 'meva naḥ suhavā ā hi gantana*' (Āś. [5-5] [?])." *(The Āśvalāyana numeral is cramped; read with doubt.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.6)**
+
+> हे मरुतो वो युष्मान् सप्तयः सर्पणशीला अश्वा आ वहन्तु । अस्मद्यज्ञं प्रापयन्तु । कीदृशाः सप्तयः । रघुस्यदो लघु शीघ्रं स्यन्दमानाः । वेगेन गच्छन्त इत्यर्थः । रघुपत्वानो लघु शीघ्रं पतन्तो गच्छन्तो यूयं बाहुभिः स्वकीयैर्हस्तैरस्मभ्यं दातव्यं धनमाहृत्य प्र जिगात । प्रकर्षेण गच्छत । हे मरुतो वो युष्माकं सदः सदनं स्थानमुरु विस्तीर्णं कृतम् । तत्र यदास्तीर्णं बर्हिस्तदा सीदत । तस्मिन् बर्हिष्युपविशत । उपविश्य च मध्वो मधुरस्यान्धसः सोमलक्षणस्यान्नस्य पानेन मादयध्वं तृप्ता भवत ॥ रघुस्यदः । रघु स्यन्दन्त इति रघुस्यदः । स्यन्दू प्रस्रवणे । क्विप् चेति क्विप् । अनिदितामिति नलोपः । कृदुत्तरपदप्रकृतिस्वरत्वम् । रघुपत्वानः । पत्लृ गतौ । अन्येभ्योऽपि दृश्यन्त इति वनिप् । जिगात । गा स्तुतौ । जौहोत्यादिकः । जिगातीति गतिकर्मसु पाठादत्र गत्यर्थः । लोण्मध्यमबहुवचनस्य तप्तनप्तनथनाश्चेति तबादेशः । तस्य पित्त्वेन ङित्त्वाभावाद् हल्ङ्योरीति [?] ईत्वाभावः । सदः । अतः कृकमि… (पा. ८-३-४६ [?]) । विसर्जनीयस्य सत्त्वम् । मादयध्वम् । मद तृप्तियोगे । चुरादिरात्मनेपदी ॥
+
+*he maruto vo yuṣmān saptayaḥ sarpaṇaśīlā aśvā ā vahantu | asmadyajñaṃ prāpayantu | kīdṛśāḥ saptayaḥ | raghuṣyado laghu śīghraṃ syandamānāḥ | vegena gacchanta ity arthaḥ | raghupatvāno laghu śīghraṃ patanto gacchanto yūyaṃ bāhubhiḥ svakīyair hastair asmabhyaṃ dātavyaṃ dhanam āhṛtya pra jigāta | prakarṣeṇa gacchata | he maruto vo yuṣmākaṃ sadaḥ sadanaṃ sthānam uru vistīrṇaṃ kṛtam | tatra yadāstīrṇaṃ barhis tadā sīdata | tasmin barhiṣy upaviśata | upaviśya ca madhvo madhurasyāndhasaḥ somalakṣaṇasyānnasya pānena mādayadhvaṃ tṛptā bhavata ‖ raghuṣyadaḥ | raghu syandanta iti raghuṣyadaḥ | syandū prasravaṇe | kvip ceti kvip | aniditām iti nalopaḥ | kṛduttarapadaprakṛtisvaratvam | raghupatvānaḥ | patḷ gatau | anyebhyo 'pi dṛśyanta iti vanip | jigāta | gā stutau | jauhotyādikaḥ | jigātīti gatikarmasu pāṭhād atra gatyarthaḥ | loṇ madhyamabahuvacanasya taptanaptanthanāś ceti tabādeśaḥ | tasya pittvena ṅittvābhāvād hal-ṅyor īti [?] ītvābhāvaḥ | sadaḥ | ataḥ kṛkami… (Pā. 8-3-46 [?]) | visarjanīyasya sattvam | mādayadhvam | mada tṛptiyoge | curādir ātmanepadī ‖*
+
+*(Kannada script; the sūtras cited in the last part of the tail are cramped, and the exact wording and the number are given with doubt [?]; the form "raghuṣyadaḥ" is the print's own: the Saṃhitā has* raghuṣyado*, the Pada* raghu-syadaḥ*.)*
+
+*Translation:* "O Maruts, may your swift horses bring you here — may they convey you to our sacrifice. How are the horses? *Raghuṣyadaḥ* — light, swiftly flowing, i.e. going with speed. You, *raghupatvānaḥ* — flying lightly, quickly — come forward, bringing with your own hands the wealth we are to be given. O Maruts, your seat (*sadaḥ*) has been made wide (*uru*). Then, when the sacred grass is spread there, be seated; sit on that grass; and having sat, rejoice (*mādayadhvam*) with the drinking of the sweet food (*madhvo andhasaḥ*), the food that is Soma — be satisfied. *Grammar tail, noted briefly:* *raghuṣyadaḥ* — *raghu syandante*; the root *syandū prasravaṇe*, the affix *kvip*, loss of the nasal, the *kṛdutarapada* with its base accent; *raghupatvānaḥ* — root *paṭlṛ gatau*, the affix *vanip* (as for others also seen); *jigāta* — root *gā stutau*, Juhotyādi; because *jigāti* is read among the roots meaning motion, here it has the sense of going; the substitute *ta* for the second-person plural of *loṭ* by "tas-thas-thana-…" with the later changes; *sadaḥ* — the *visarga* is turned to *s* by the sūtra cited; *mādayadhvam* — *mada tṛptiyoge*, a Curādi root, *ātmanepada*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.6)** *(Kannada; begins at the foot of p. 167)*
+
+*vaḥ* — (O Maruts) you; *raghuṣyadaḥ* — which move easily and quickly; *raghupatvānaḥ* — which go swiftly; *saptayaḥ* — horses; *ā vahantu* — may they bring (to our sacrificial ground); *bāhubhiḥ* — with your arms (the wealth we are to be favoured with) …
+
+---
+
+**Progress note:** Printed pp. 1–167 done (PDF 16–182) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.5 complete**; **Rik 85.6** — Saṃhitā, Pada, application note, bhāṣya and grammatical tail done, Pratipadārtha begun at the foot of p. 167 (continues on p. 168). Next: printed p. 168 (PDF 183). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
