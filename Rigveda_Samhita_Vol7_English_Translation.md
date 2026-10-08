@@ -8290,4 +8290,77 @@ Closing of Rik 89.9: "॥ ९ ॥" (9), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–299 done (PDF 16–314) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.9 complete**; **Rik 89.10** (the last, Triṣṭubh; Aditi's all-embracing verse) — Saṃhitā, Pada, application note and bhāṣya with its grammatical tail done (p. 299); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 300 on), the end of Sūkta 89 (about p. 302), then **Sūkta 90** (contents table: p. 303). Next: printed p. 300 (PDF 315). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293, 299 [?]; Nirukta and Aitareya numerals on p. 299 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 300 (PDF 315)
+
+*(Running head: "300 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.10)** *(Kannada)*
+
+*aditiḥ* — Aditi; *dyauḥ* — the shining heaven; *aditiḥ* — Aditi; *antarikṣam* — the atmosphere; *aditiḥ* — Aditi; *mātā* — mother (of the whole world); *saḥ pitā* — she herself is the father (of the world), the begetter; *saḥ putraḥ* — she herself is the son (born to the parents); *viśve devāḥ* — all the deities; *aditiḥ* — Aditi herself; *pañca janāḥ* — the four castes together with the Niṣādas, or the five classes — Gandharvas, Pitṛs, gods, Asuras and Rākṣasas; *aditiḥ* — Aditi; *jātam* — what has been born; *aditiḥ* — Aditi; *janitvam* — what will be born (in future), or the place of origin (Aditi).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.10** *(Kannada)*
+
+"The unbroken Aditi is the giver of birth to the whole universe. She herself is the mother of the world and the father of the world. Everything that is born is she herself; Aditi is the place of origin. The five classes of people, of the nature of castes and including the Niṣādas, are she herself. Aditi herself is all the gods; she herself the shining heaven, she herself the atmosphere, she herself the whole universe, she herself the regulator of the universe."
+
+**English Translation** *(printed in English in the source)*
+
+"Aditi is heaven; Aditi is firmament; Aditi is mother, father and son; Aditi is all the gods; Aditi is the five classes of men; Aditi is what is born, Aditi is what shall be born." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.10)**
+
+"This Ṛk *aditir dyaur aditiḥ*, which has Aditi as its deity, is to be used as the *yājyā* mantra for offering the oblation in the animal sacrifice that has Aditi as its deity; this is set forth in the Āśvalāyana Śrauta-sūtra by the sūtra '*aditir dyaur aditir antarikṣaṃ na te viṣṇo jāyamāno na jātaḥ*' (Āś. [3-9] [?])."
+
+- **अदितिम्** — "see what has been written in the special topics of the third Ṛk of this sūkta regarding Aditi."
+- **पञ्च जनाः** — "five classes of people. The matter of the five classes of people, well known from Ṛgveda times, is not merely indicated here in the Ṛgveda; it has come down in places such as the Aitareya Brāhmaṇa [3-?; 4-?], the Taittirīya Saṃhitā [1-?-?], the Kāṭhaka Saṃhitā [?-?] and the Bṛhadāraṇyaka Upaniṣad [4-4-17] [?] (numerals read with doubt [?]). In the Ṛgveda, besides the words *pañcajanāḥ*, the words that give the same sense — *pañcamānuṣāḥ* (Ṛ. Saṃ. [?]), *janāḥ*, *kṛṣṭayaḥ*, *kṣitayaḥ*, *carṣaṇayaḥ* — are used in many places (each with a run of small Kannada reference numerals, which are given in the print and are not verified here [?])." *(continues on p. 301)*
+
+---
+
+### Page 301 (PDF 316)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 301.)*
+
+*Special Topics of Rik 89.10, continued from p. 300:*
+
+"Among Western scholars some take *pañcajanāḥ* to mean the five well-known Āryan tribes who dwelt on the banks of the river Sarasvatī: Anu, Druhyu, Yadu, Turvaśa and Puru. To support their view they quote Ṛks such as Ṛ. Saṃ. [1-108-8] [?] and [8-10-5] [?]. In the Śatapatha Brāhmaṇa too (Śa. Brā. [13-5-4-14] [?]) and in the Aitareya Brāhmaṇa (Ai. Brā. [8-23] [?]) it is stated that these five peoples are the sons [or tribes] of Bharata [as printed, 'bharata-ru' — sic?]."
+
+"For the word *pañcajanāḥ* the bhāṣyakāra explains it as *niṣādapañcamāḥ*, and Skandasvāmin as *gandharvāḥ pitaro devāḥ* [sic: *devāḥ asurā rakṣāṃsi*]; and Veṅkaṭamādhava explains: '*manuṣyāṇāṃ pañcānāṃ kṣitīnāṃ niveśatāṃ gandharvāḥ pitaro devā asurā rakṣāṃsīti pañcatvam*' [as read, partly clotted [?]]. According to Sāyaṇa's view, *pañcajanāḥ* means five classes of people — Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and Niṣāda. *Niṣāda* means the people who lie outside the four castes, Brāhmaṇa and the rest, and live by the hunting of beasts — the Gonds, Kolas, Bhillas and others, the earlier inhabitants of this land, who belong to this class; even now these live in large numbers in forests and hills in some places such as the central provinces, as uncivilised folk. As examples of Ṛks in which the words *pañca janāḥ* and *pañcakṛṣṭayaḥ* occur, we give a couple —
+
+> तेदध्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम । उर्जाद उत यज्ञियासः पञ्चजना मम होत्रं जुषध्वम् ॥
+
+*tad adya vācaḥ prathamaṃ masīya yenāsurāṃ abhi devā asāma | urjāda uta yajñiyāsaḥ pañcajanā mama hotraṃ juṣadhvam ‖* (Ṛ. Saṃ. 10-53-4) — *Gloss, mine and tentative:* "Today may I measure [out] that first of speech, by which we gods overcame the Asuras; O eaters of strength, and worthy ones, O five peoples, take pleasure in my offering."
+
+> पञ्च जना मम होत्रं जुषन्तां गोजाता उत ये यज्ञियासः ॥
+
+*pañca janā mama hotraṃ juṣantāṃ gojātā uta ye yajñiyāsaḥ ‖* (Ṛ. Saṃ. 10-53-5) — *Gloss, mine and tentative:* "May the five peoples take pleasure in my offering, those born of the cow and the worthy ones."
+
+> सद्यश्चिद्यः शवसा पञ्चकृष्टीः सूर्य इव ज्योतिषापस्ततान ॥
+
+*sadyaś cid yaḥ śavasā pañcakṛṣṭīḥ sūrya iva jyotiṣāpas tatāna ‖* (Ṛ. Saṃ. 10-[178]-[?] [?], as read "೧೦-೧೪೫-೫" — uncertain) — *Gloss, mine and tentative:* "He who at once, with might, spread out the five peoples, as the sun spreads the waters with light."
+
+— For the words *pañca janāḥ* and *pañcakṛṣṭayaḥ* in these Ṛks, Yāska has explained the meaning in his Nirukta thus —
+
+> पञ्च जना मम होत्रं जुषध्वं गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः । निषादः कस्मान्निषदनो भवति निषण्णमस्मिन् पापकमिति नैरुक्ताः ॥
+
+*pañca janā mama hotraṃ juṣadhvaṃ gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ | niṣādaḥ kasmān niṣadano bhavati niṣaṇṇam asmin pāpakam iti nairuktāḥ ‖* (Ni. [3-8] [?]) — *Gloss, mine and tentative:* "'O five peoples, take pleasure in my offering': some say, the Gandharvas, Pitṛs, gods, Asuras, Rākṣasas; Aupamanyava says, the four castes, and the Niṣāda is the fifth. Why is the Niṣāda so called? Because he is a 'sitting-place' — evil is seated in him, say the etymologists." *(continues on p. 302)*
+
+---
+
+### Page 302 (PDF 317)
+
+*(Running head: "302 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.10, concluded from p. 301:*
+
+"That is, some say *pañcajanāḥ* means five kinds of people — Gandharvas, Pitṛs, gods, Asuras and Rākṣasas. The view of Aupamanyava and others is that the five kinds are the people of the four castes, Brāhmaṇas and the rest, together with a people of the hunter-tribe called Niṣāda. Sāyaṇa has approved this very view. Because the Niṣādas kill living beings, or because sin is thick in them, the Nirukta-writers call them *niṣāda* [*niṣadana*, 'seat of']. Apart from this, there may be a settled usage in that age in which *pañcajanāḥ* meant 'five tribes' — by collecting the names of the five chief Āryan tribes then well known, Anu, Druhyu, Yadu, Turvaśa and Puru. Be that as it may, in this matter it is clear that there was a difference of opinion even in the age of Yāska, the author of the Nirukta."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.10)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **अदितिः** — the root *do avakhaṇḍane*; in the passive, by "स्त्रियां क्तिन्" the affix *ktin*; since it follows, by "द्यतिस्यतिमास्थामित्ति किति" (Pā. Sū. 7-4-[40]) the substitute *i* for the root's *ā*. On Yāska's view: the root *dīṅ kṣaye*; to it, in the abstract sense, the same affix *ktin* as before; by *vyatyaya*, since the affix follows, a shortening of the root. *na ditiḥ aditiḥ* — a *nañ*-*tatpuruṣa*; by "तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-[2]) the first member, an indeclinable, keeps its base accent.
+- **स पिता** — here one has to take over what was said earlier in the word *saḥ*, as the antecedent; it is *devamātā* and so on; she is feminine. Then the doubt arises why here too it is not said *sā*, in the feminine. Those who know make this solution: "pronouns, when they establish the identity of the thing pointed to and the thing referred to, take in turn the gender of the one indicated" — *uddeśyaliṅgatayā pulliṅgatvam*, 'masculine by the gender of the subject-term'. Pronouns convey the sameness of the subject and the predicate; then, depending on what is intended, sometimes the gender of the predicate and sometimes of the subject comes; here, following the gender of the subject-term, the masculine is said.
+- **जनित्वम्** — the root *janī prādurbhāve*; in the locus sense, by the Uṇādi the affix *tvan*; by "आर्धधातुकस्येड्वलादेः" the augment *iṭ*; since it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" the first syllable is acute.
+
+Closing of Rik 89.10: "॥ १० ॥" (10), followed by a printer's ornament. *(The print has no separate closing line for Sūkta 89; it ends here, on p. 302.)*
+
+---
+
+**Progress note:** Printed pp. 1–302 done (PDF 16–317) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete** (89: ten Ṛks, ended on p. 302, no closing line in the print). Next: **Sūkta 90** (contents table: p. 303; *ṛjunītī*; to be viewed — its heading, introduction and Ṛk count are not yet seen) at printed p. 303 (PDF 318). The user has asked for the next two sūktas (89 and 90) in this stretch: Sūkta 89 is done; Sūkta 90 remains. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
