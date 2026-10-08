@@ -14275,5 +14275,92 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–496 done (PDF 16–511), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete**. **Sūkta 93** (twelve Ṛks; Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.7 complete; Rik 93.8 (Jagatī or Triṣṭubh) Saṃhitā begun at the foot of p. 496 (first line only: *yo agnīṣomā haviṣā saparyād devadrīcā manasā yo ghṛtena*); its second line, Pada and commentary follow on p. 497. Next: printed p. 497 (PDF 512). Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 497 (PDF 512)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 497. Foot: printer's signature "32 … Volume 7".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.8, concluded)**
+
+> यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो घृतेन ।
+> तस्य व्रतं रक्षतं पातमंहसो विशे जनाय महि शर्म यच्छतम् ॥ ८ ॥
+
+*yo agnīṣomā haviṣā saparyād devadrīcā manasā yo ghṛtena | tasya vrataṃ rakṣataṃ pātam aṃhaso viśe janāya mahi śarma yacchatam ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 93.8)**
+
+> यः । अग्नीषोमा । हविषा । सपर्यात् । देवद्रीचा । मनसा । यः । घृतेन ।
+> तस्य । व्रतम् । रक्षतम् । पातम् । अंहसः । विशे । जनाय । महि । शर्म । यच्छतम् ॥ ८ ॥
+
+*yaḥ | agnīṣomā | haviṣā | saparyāt | devadrīcā | manasā | yaḥ | ghṛtena | tasya | vratam | rakṣatam | pātam | aṃhasaḥ | viśe | janāya | mahi | śarma | yacchatam ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.8)**
+
+> यो यजमानोऽग्निषोमौ [sic: *agnīṣomau*] हे अग्नीषोमौ देवद्रीचा देवानञ्चता देवतापरायणेन श्रद्धायुक्तेन मनसान्तःकरणेन युक्तः सन् हविषा चरुपुरोडाशादिना सपर्यात् सपर्यति परिचरति । यश्च यजमानो घृतेनाज्येनाग्नीषोमौ परिचरिति । तस्य यजमानस्य व्रतं कर्म रक्षतम् । अंहसः पापात्तं च यजमानं पातम् । रक्षतम् । विशे योगेषु प्रविशते तस्मै जनाय यजमानाय महि महत्त्वभूतं शर्म सुखं यच्छतं । दत्तम् ॥ अग्नीषोमा । देवताद्वन्द्वे चेत्युभयपदप्रकृतिस्वरत्वं । सपर्यात् । सपर पूजायां । कण्ड्वादिः । लेट्यडागमः । देवद्रीचा । सेवानाञ्चतीति सेवद्र्यञ्च् । अञ्चतेर्ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपः । विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये । पा. ६-३-९२ [?] । इति देवशब्दस्य टेरद्र्यादेशः । तृतीयैकवचने टाच् [?] इत्याकारलोपे चावितीति दीर्घत्वं । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते द्रिसथ्योरन्तोदात्तनिपातनं कृत्स्वरनिवृत्त्यर्थं । पा. ६-२-५३-१ [?] इति वचनाद्द्र्यादेशोऽन्तोदात्तः । विशे । सावेकाच इति विभक्तेरुदात्तत्वं ॥
+
+*yo yajamāno 'gnīṣomau he agnīṣomau devadrīcā devān añcatā devatāparāyaṇena śraddhāyuktena manasāntaḥkaraṇena yuktaḥ san haviṣā carupuroḍāśādinā saparyāt saparyati paricarati | yaś ca yajamāno ghṛtenājyenāgnīṣomau paricariti | tasya yajamānasya vrataṃ karma rakṣatam | aṃhasaḥ pāpāt taṃ ca yajamānaṃ pātam | rakṣatam | viśe yogeṣu praviśate tasmai janāya yajamānāya mahi mahattvabhūtaṃ śarma sukhaṃ yacchataṃ | dattam ‖ agnīṣomā | devatādvandve cety ubhayapadaprakṛtisvaratvaṃ | saparyāt | sapara pūjāyāṃ | kaṇḍvādiḥ | leṭy aḍāgamaḥ | devadrīcā | sevānāñcatīti sevadryañc | añcater ṛtvigity ādinā kvin | aniditām iti nalopaḥ | viṣvagdevayoś ca ṭer adryañcatāv apratyaye | Pā. 6-3-92 [?] | iti devaśabdasya ṭer adryādeśaḥ | tṛtīyaikavacane ṭāc [?] ity ākāralope cāvīti dīrghatvaṃ | kṛduttarapadaprakṛtisvaratve prāpte drisathyor antodāttanipātanaṃ kṛtsvaranivṛttyarthaṃ | Pā. 6-2-53-1 [?] iti vacanād dryādeśo 'ntodāttaḥ | viśe | sāvekāca iti vibhakter udāttatvaṃ ‖*
+
+*Translation:* "The sacrificer who, O Agni and Soma, *devadrīcā*, with a mind that goes towards the gods, devoted to the deities and endowed with faith, *saparyāt*, serves you with an oblation such as *caru* or *puroḍāśa*; and the sacrificer who serves Agni and Soma with ghee: *tasya vratam rakṣatam* — protect that sacrificer's rite; *pātam aṃhasaḥ* — protect him from sin. *Viśe janāya* — to the man who enters upon the rites, to the sacrificer, *yacchatam*, give *mahi śarma*, great happiness."
+
+*Grammar tail (partly clotted):* *agnīṣomā* — in a deity-*dvandva* the natural accent of both members. *saparyāt* — root *sapara pūjāyām* of the *kaṇḍvādi* group; the augment *aṭ* in the *leṭ*. *devadrīcā* — "the one who goes to the gods": *devadryañc*; *kvin* after *añc*; the *n* elided; *devadryañc* by the rule *viṣvagdevayoś ca ṭer adryañcatāv apratyaye* (Pā. 6-3-92 [?]); the lengthening in the instrumental; the final-acute of *dri* by an irregular rule against the *kṛt* accent. *viśe* — the case-ending acute by *sāvekācas…*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.8)** *(Kannada; continues on p. 498)*
+
+*agnīṣomā* — O Agni and Soma deities; *yaḥ* — whichever sacrificer; *devadrīcā* — devoted to the gods, with faith and devotion; *manasā* — with a mind; *haviṣā* —
+
+---
+
+### Page 498 (PDF 513)
+
+*(Running head: left "498", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+*(Pratipadārtha, continued:)* "— with oblations such as *caru* and *puroḍāśa*; *saparyāt* — worships; *yaḥ* — whichever sacrificer; *ghṛtena* — with the oblation of ghee; *tasya* — of such [every] sacrificer; *vratam* — the rite; *rakṣatam* — protect; *aṃhasaḥ* — from sin; *pātam* — protect; *viśe* — who has entered the sacrificial rites; *janāya* — to the sacrificer; *mahi* — abundant; *śarma* — happiness; *yacchatam* — give."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.8** *(Kannada)*
+
+"O Agni and Soma deities, protect all the rites of every sacrificer who, with extreme faith and devotion to the gods, worships with *caru*, *puroḍāśa* and the like, and of the one who worships the deities with the oblation of ghee, and free them from sin. To the sacrificer who has entered the sacrificial rites give abundant happiness."
+
+**English Translation** *(printed in English in the source; Rik 93.8)*
+
+"Agni and Soma, protect his sacrifice and defend him from ill, who with a mind devoted to the gods, worships you with clarified butter and oblations ; grant to the man engaged in devotion extreme happiness." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.8)** *(Kannada)*
+
+***devadrīcā*** — *devān añcatā devatāparāyaṇena śraddhāyuktena* | "'With a mind of one wholly devoted to the deities': that is, with a mind that, having faith and devotion only to the deities, is intent on their service and attaches itself solely to them."
+
+***vrataṃ rakṣatam*** — "Protect the rites such as sacrifice from the harm of the asuras, so that the sacrifice is brought to fulfilment."
+
+***pātam aṃhasaḥ*** — "Many kinds of defects, whether in the sacrifice or at other times, are all sinful deeds; the sense is: save the sacrificer from such defects that may befall him beyond his own control, and free him from sin. Since the fear of sin is great in sacrificers, there are many examples of praying to Agni and Soma in this manner at every step —"
+
+> यच्चिद्धि ते पुरुषत्रा यविष्ठाचित्तिभिश्चकृमा कच्चिदागः ।
+> कृधी ष्वस्माँ अदितेरनागान्व्येनांसि शिश्रथो विष्वगग्ने ॥
+
+*yac cid dhi te puruṣatrā yaviṣṭhācittibhiś cakṛmā kac cid āgaḥ | kṛdhī ṣv asmām̐ aditer anāgān vy enāṃsi śiśratho viṣvag agne ‖*  (Ṛ. Saṃ. 4-12-4 [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "Whatever offence we have committed against you among men, O youngest one, through want of understanding — make us sinless before Aditi; loosen our sins on every side, O Agni."
+
+---
+
+### Page 499 (PDF 514)
+
+*(Running head left: "A. 1 A. 6 Va. 33 [?]"; centre: "Ṛgvedasaṃhitā"; right: 499.)*
+
+> यत्ते वयं प्रमिनाम व्रतानि स नो मृळ सुषखा देव वस्यः ।
+
+*yat te vayaṃ praminām vratāni sa no mṛḷa suṣakhā deva vasyaḥ |*  (Ṛ. Saṃ. 1-[?]-[?] [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "Whatever of your ordinances we have infringed — be gracious to us, O god, a good friend, the better one."
+
+"— in such Ṛks it is seen that Agni and Soma are prayed to for protection from the sin that may arise, whether from lapse in a rite or from some other cause."
+
+***viśe janāya*** — "Here there is room for two meanings. Sāyaṇa explains: *viśe yogeṣu praviśate | janāya yajamānāya* — 'to the sacrificer who, having entered the sacrificial acts, worships the deities, give [happiness]'. Skandasvāmin explains: *viśe | manuṣyanāmaitat | putrādimanuṣyajātasvabhūtāya yajamānāya* — 'since *viś* is read among the names of men, *manuṣyāḥ, naraḥ, dhanāḥ* and the like (Ni. 2-2 [?]), *viśe* means 'to the sacrificer who has men — sons, grandsons and the rest — in his household'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.8)** *(Kannada; grammar page, noted briefly)*
+
+*agnīṣomā* — by *supāṃ sulug* the dual ending is replaced by *ā*; by *devatādvandve ca* (Pā. 6-2-141 [?]) the natural accent of both members.
+*saparyāt* — root *sapara pūjāyām*, of the *kaṇḍvādi* group; *leṭ*, third person singular; the *i* of *tip* is elided by *itaś ca lopaḥ*; by *leṭo 'ḍāṭau* the augment *aṭ*; by *kaṇḍvādibhyo yak* (Pā. 3-1-27 [?]) *yak* in its own sense; by *sanādyantā dhātavaḥ* the stem is a root, so the *leṭ* is spoken of afterwards; since *yaḥ* is connected, no *nighāta*; the accent of *yak* remains.
+*devadrīcā* — "*devān añcati iti devadryañc*"; root *añcu gatipūjanayoḥ*; when *deva* is the *upapada*, by *ṛtvigdadhṛk…* the suffix *kvin*; by *aniditāṃ hala upadhāyāḥ* the nasal of the penultimate is elided; since the root *añc* stands after it without a suffix, by *viṣvagdevayoś ca ṭer adryañcatāv apratyaye* (Pā. 6-3-92 [?]) *adri* for the *ṭi* of *deva*; the instrumental singular takes *ṭā*; when *devadri + añc + ā* stands, by *aco 'ñcaḥ* (Pā. 6-4-138 [?]) the *a* of the root is elided; by *cau* (Pā. 6-3-138 [?]) the preceding vowel is lengthened since the *añc* whose nasal is lost follows: *devadrī*; hence *devadrīcā*. By *gatikārakopapadāt kṛt* the *kṛdanta* final member would keep its accent, but by *adrisathyor…antodāttanipātanam* [as read, clotted [?]] the irregular final-acute —
+
+---
+
+**Progress note:** Printed pp. 1–499 done (PDF 16–514), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete**. **Sūkta 93** (twelve Ṛks; Agnīṣomau; printed pp. 469–?): Riks 93.1–93.7 complete; Rik 93.8 done through the Special Topics and the first entries of the grammar page (*agnīṣomā*, *saparyāt*, *devadrīcā*), which breaks at the foot of p. 499 in *devadrīcā* (…the accent *ādyudātta*…); to be concluded from the head of p. 500. Next: printed p. 500 (PDF 515). Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
