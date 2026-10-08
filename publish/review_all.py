@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One reviewer worklist for all six volumes (every [?]).  python3 review_all.py"""
+"""One reviewer worklist for all seven volumes (every [?]).  python3 review_all.py"""
 import re, pathlib, collections
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
@@ -8,7 +8,8 @@ import review_list as R
 PUB = R.PUB; ROOT = PUB.parent
 SRC = {1: PUB/'work'/'vol1_clean.md', 2: PUB/'work'/'vol2_clean.md', 3: ROOT/'Rigveda_Samhita_Vol3_English_Translation.md',
        4: PUB/'work'/'vol4_clean.md', 5: PUB/'work'/'vol5_clean.md',
-       6: ROOT/'Rigveda_Samhita_Vol6_English_Translation.md'}
+       6: ROOT/'Rigveda_Samhita_Vol6_English_Translation.md',
+       7: ROOT/'Rigveda_Samhita_Vol7_English_Translation.md'}
 allrows = []
 for v, p in SRC.items():
     rows = R.collect(p.read_text(encoding='utf-8'))
@@ -38,7 +39,7 @@ for k, n in collections.Counter(r[5] for r in allrows).most_common(): s.append([
 s.column_dimensions['A'].width = 38
 h = wb.create_sheet('How to use')
 for t in ["Each row is one place in the translation marked [?] = a reading that could not be made out with confidence from the 1949 scan.",
-          "Volume 1 includes the portions translated late (printed pp. 95–167, 191–205, 261–283, 288–295). Volumes 3 and 6 are read from their closed source files (Volume 6 is the uncleaned working text: its page headings and progress note are not stripped).",
+          "Volume 1 includes the portions translated late (printed pp. 95–167, 191–205, 261–283, 288–295). Volumes 3, 6 and 7 are read from their closed source files (Volumes 6 and 7 are the uncleaned working text: its page headings and progress note are not stripped).",
           "Original page = the page number of the 1949 Kannada edition.",
           "Priority High = a doubtful Sanskrit word or phrase in the Saṃhitā/Pada/bhāṣya text. Medium = a doubtful word, name or sense elsewhere. Low = a doubtful reference or sūtra number.",
           "Not flagged with [?] but also needing review: Vol 1 rishi-index hymn references (Kannada numerals, not reproduced); Vol 1 tables on pp. 117–118, 138–139, 150–151 (not reproduced); Vol 1 Pada-pāṭha tables pp. 291–294 (accents not reproduced).",
@@ -62,6 +63,11 @@ for row in [
  ['Vol 6','471–472, 582, 589, 595','Grammar page of Rik 76.1 folded across two pages; accent arguments in 80.6, 80.8, 80.12, 80.13 and a compressed clause in 80.9 read with doubt','Compressed scholastic argument; sūtra numerals tentative throughout.'],
  ['Vol 6','615–618','Dadhyañc/Manu reference lists and the 9×3×3×10=810 computation (Kannada numerals)','Digits read as given; not verified.'],
  ['Vol 6','all','Varga numerals in headings and source cross-reference "Ṛk Saṃhitā vol. N pp. 640–641" left unreconciled','Small Kannada numerals unreliable.'],
+ ['Vol 7','413','Printed p. 413 is missing from the scan (gap note in the text)','Page absent from Rig_Vol7.pdf; the Sūkta 91 text there needs the page supplied from another copy.'],
+ ['Vol 7','428 (PDF) / 513','PDF 428 is a stray duplicate of printed p. 513, translated at its proper place','Check the duplicate against the original edition.'],
+ ['Vol 7','436','Poorly scanned page; one citation corrected from the clearer printing on p. 442','Re-read against the original.'],
+ ['Vol 7','509–567 (Sūkta 94)','Bhāṣya clots in 94.6–94.16; Bṛhaddevatā III.126–128 stanzas on p. 566 transcribed from clotted print; Skandasvāmin story in 94.12','Several words uncertain; glosses tentative.'],
+ ['Vol 7','all','Ṛgveda, Nirukta, Pāṇini/Uṇādi numerals and varga numerals given as read; Saṃhitā/Pada differences recorded as printed','Small Kannada numerals unreliable.'],
  ['All','—','Outside Vedic/Sanskrit expert review of all [?] readings','Recommended before final publication.'],
  ['All','—','Present Maharaja/Guruji portraits, captions, copyright/permission details','Still to be supplied.']]:
     extra.append(row)
