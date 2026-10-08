@@ -5525,4 +5525,95 @@ Closing of Rik 86.3: "॥ ३ ॥" (3), followed by a rule.
 
 ---
 
-**Progress note:** Printed pp. 1–200 done (PDF 16–215) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.3 complete**; **Rik 86.4** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha and Bhāvārtha done (p. 200); next: its English, Special Topics and grammar page (p. 201), then 86.5–86.10. Next: printed p. 201 (PDF 216). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 201 (PDF 216)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 201.)*
+
+**English Translation** *(printed in English in the source; Rik 86.4)*
+
+"The libation is poured out for the heroic band of Maruts at the sacrifice on the oppointed [sic] days and the hymn repeated causes joy to the Maruts." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.4)**
+
+- **वीरस्य** — *śatrukṣepaṇakuśalasyāsya marudgaṇasya* — "for the host of Maruts, who have the capacity to conquer enemies."
+- **दिविष्टिषु** — *iṣṭaye eṣaṇāni gamanāni | divo dyotamānasya sūryasyeṣṭayo yeṣu dineṣu te | yajanīye dineṣu* — "on the days on which sacrifice is performed."
+- **उक्थम्** — "praise addressed to the Marut deities."
+- **शस्यते** — *hotrā paṭhyate* — "is recited by the priest called Hotṛ."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.4)** *(grammar page, noted briefly)*
+
+- **अस्य** — the word *idam*; in the genitive singular the affix *ṅas*; by "त्यदादीनामः" (*tyadādīnām aḥ*) the substitute *a*; by "अतो गुणे" the *pararūpa*; since it ends in *a*, the substitute *sya* for the case-ending (*ṅas*); since a case-ending beginning with a consonant follows, by "हलि लोपः" (Pā. Sū. 7-2-[113]) the loss of the *id* of *idam*; the form *asya*; by "ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः" (Pā. Sū. 6-1-[171]) the case-ending is acute.
+- **दिविष्टिषु** — *iṣṭayaḥ eṣaṇāni gamanāni*; the root *iṣa gatau*, Divādi; the affix *ktin* in the abstract sense; by *ṣṭutva* the *ṭ* for the *t* of the affix; *divo dyotamānasya sūryasyeṣṭayo yeṣu dineṣu te diviṣṭayaḥ* ('daytime', the meaning); in the *bahuvrīhi*, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its base accent; since the compound is a *subanta*-*luk* one [as printed: *subluk*], the word *div* would take *pada*-ness at its end, and by "दिव उत्" (*diva ut*) the substitute *ut* would have to come; but by "व्यत्ययो बहुलम्" it does not come here; locative plural.
+- **शस्यते** — the root *śaṃsu stutau*; *laṭ* in the passive, third person singular; by "यत्" (*kit*-ness of *yak*) and "अनिदितां हल उपधायाः क्ङिति" the loss of the penultimate nasal of the root; the *nighāta* accent of the *tiṅanta*.
+
+Closing of Rik 86.4: "॥ ४ ॥" (4), followed by a printer's ornament.
+
+---
+
+### Page 202 (PDF 217)
+
+*(Running head: "202 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.5)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> अस्य श्रोषन्त्वा भुवो विश्वा यश्चर्षणीरभि ।
+> सूरं चित्सस्रुषीरिषः ॥ ५ ॥
+
+*asya śroṣantv ā bhuvo viśvā yaś carṣaṇīr abhi | sūraṃ cit sasruṣīr iṣaḥ ‖ 5 ‖*
+
+*Gloss, mine and tentative:* "Let them hear this [praise] — he who overcomes all peoples; may the nourishments flow even to the one who impels [the singer]."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.5)**
+
+> अस्य । श्रोषन्तु । आ । भुवः । विश्वाः । यः । चर्षणीः । अभि ।
+> सूरम् । चित् । सस्रुषीः । इषः ॥ ५ ॥
+
+*asya | śroṣantu | ā | bhuvaḥ | viśvāḥ | yaḥ | carṣaṇīḥ | abhi | sūram | cit | sasruṣīḥ | iṣaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.5)**
+
+> अस्य यजमानस्य स्तुतिं मरुत आ अभिमुख्येन श्रोषन्तु । शृण्वन्तु । यो मरुद्गणो विश्वाश्चर्षणीः सर्वान् शत्रुभूतान्मनुष्यानभि भुवः अभिभवति । ताद्दृग्गणाकारा मरुतः शृण्वन्त्वित्यर्थः । सूरं चित् स्तोतारं प्रेरयितारं यजमानमपीषो मरुद्भिः प्रत्तान्यन्नानि सस्रुषीः प्राप्तानि भवन्तु ॥ श्रोषन्तु । श्रु श्रवणे । लोटि सिब्बहुलं लेटीति बहुलवचनात्सिप् । धातोर्गुणः । प्रत्ययसकारस्य षत्वम् । भुवः । भूसत्तायाम् । लेटि तिप् । तिजां तिजो भवन्तीति सिप् । लेटोऽडाटौ इत्यडागमः । बहुलं छन्दसीति शपो लुक् । भूसुवोस्तिङि इति गुणप्रतिषेधः । सूरम् । सू प्रेरणे । सुसूधागृधिभ्यः क्रन् (उ. २-[२५] [?]) । सस्रुषीः । स्रु गतौ । अस्माल्लिटः क्वसुः । उगितश्चेति ङीप् । भसंज्ञायां वसोः सम्प्रसारणमिति संप्रसारणम् । शासिवसिघसीनां चेति षत्वम् । जसि वा छन्दसीति पूर्वसवर्णदीर्घत्वम् ॥
+
+*asya yajamānasya stutiṃ maruta ā abhimukhyena śroṣantu | śṛṇvantu | yo marudgaṇo viśvāś carṣaṇīḥ sarvān śatrubhūtān manuṣyān abhi bhuvaḥ abhibhavati | tādṛg gaṇākārā marutaḥ śṛṇvantv ity arthaḥ | sūraṃ cit stotāraṃ prerayitāraṃ yajamānam apīṣo marudbhiḥ prattāny annāni sasruṣīḥ prāptāni bhavantu ‖ śroṣantu | śru śravaṇe | loṭi sibbahulaṃ leṭīti bahulavacanāt sip | dhātor guṇaḥ | pratyayasakārasya ṣatvam | bhuvaḥ | bhū sattāyām | leṭi tip | tijāṃ tijo bhavantīti sip | leṭo 'ḍāṭāv ity aḍāgamaḥ | bahulaṃ chandasīti śapo luk | bhūsuvos tiṅi iti guṇapratiṣedhaḥ | sūram | sū preraṇe | susūdhāgṛdhibhyaḥ kran (Uṇ. 2-[25] [?]) | sasruṣīḥ | sru gatau | asmāl liṭaḥ kvasuḥ | ugitaś ceti ṅīp | bhasaṃjñāyāṃ vasoḥ saṃprasāraṇam iti saṃprasāraṇam | śāsivasighasīnāṃ ceti ṣatvam | jasi vā chandasīti pūrvasavarṇadīrghatvam ‖*
+
+*(Kannada script; the grammatical tail is in compressed type; sūtra wording as read, the Uṇādi numeral and some clauses doubtful [?].)*
+
+*Translation:* "May the Maruts listen — *ā śroṣantu*, hear, turning towards him — to the praise of this sacrificer: the Marut host that *abhi bhuvaḥ* overcomes all *carṣaṇīḥ* — all men who are enemies; may Maruts of such host-form hear. And even to the *sūra*, the praiser, the impeller, the sacrificer, may the foods given by the Maruts, *sasruṣīḥ*, come, arrive. *Grammar tail, noted briefly:* *śroṣantu* — *śru śravaṇe*, *loṭ*, with *sip* by "bahulam" (the multiplicity statement), *guṇa* of the root, *ṣatva* of the affix's *s*; *bhuvaḥ* — *bhū sattāyām*, *leṭ*, *tip*, *sip* (by "tijāṃ tijo bhavanti"), the augment *aṭ*, loss of *śap* by "bahulaṃ chandasi", no *guṇa* by "bhūsuvos tiṅi"; *sūram* — *sū preraṇe* with *kran* (Uṇ. 2-[25] [?]); *sasruṣīḥ* — *sru gatau*, *kvasu* for *liṭ*, then *ṅīp* because it ends in an *ug*-marked affix, *saṃprasāraṇa* in the *bha* designation, *ṣatva* by "śāsivasighasīnāṃ ca", lengthening to the preceding homorganic vowel by "jasi vā chandasi"."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.5)** *(Kannada)*
+
+*yaḥ* — which Marut host; *viśvāḥ carṣaṇīḥ* — all men who are enemies; *abhi bhuvaḥ* — overpowering and subduing; (that host of Maruts); *asya* — this sacrificer's (praise); *ā śroṣantu* — let them hear well; *sūram cit* — the sacrificer who praises, too, together; *iṣaḥ* — (the Maruts' given) foods; *sasruṣīḥ* — let them come and fill.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.5** *(Kannada; begins at the foot of p. 202)*
+
+"May the host of Maruts, who overpower and subdue all men who are enemies, hear this sacrificer's…" *(continues on p. 203)*
+
+---
+
+### Page 203 (PDF 218)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 203.)*
+
+*Bhāvārtha of Rik 86.5, continued from p. 202:* "…praise well. And may the foods given by those Maruts come and enrich both the praiser and the sacrificer."
+
+**English Translation** *(printed in English in the source)*
+
+"May the Maruts, victorious over all men, hear the praises of this (their worshipper) and may abundant food be obtained by him who praises them." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.5)**
+
+- **अभि भुवः** — "those who overpower the enemies of the sacrificer."
+- **सूरम्** — *stuteḥ prerayitāram* — "the sacrificer who praises (and impels to praise)."
+- **विश्वाः चर्षणीः** — "all men; that is, all men who are enemies."
+- **सस्रुषीः** — *sru gatau | prāptāni bhavantu* — "let them come, let them come and fill."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.5)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **श्रोषन्तु** — the root *śru śravaṇe*; *loṭ*, third person plural; the substitute *anta*; *u* (*uttama* [as printed: "uttva"]); by "सिब्बहुलं लेटि" (Pā. Sū. 3-1-[34]), since the word *bahula* is included, *sip* comes in *loṭ* too; *guṇa* of the root; by "आदेशप्रत्यययोः" (*ādeśapratyayayoḥ*) *ṣatva* for the *s* of the affix; the form *śroṣantu*; since it stands after an *atiṅanta*, the *nighāta* accent.
+- **भुवः** — the root *bhū sattāyām*; *leṭ*, third person singular, the affix *tip*; by the statement "तिज्झलां तिजो भवन्ति" the *sip* substitute comes; by "लेटोऽडाटौ" the augment *aṭ*; by "बहुलं छन्दसि" the *luk* of *śap*; since only *tiṅ* follows, by "भूसुवोस्तिङि" (Pā. Sū. 7-3-[88]) no *guṇa*; by "इतश्च लोपः परस्मैपदेषु" the loss of the *i* of the affix; the *ru*-*visarga*, the *uv*-substitution for the *u* of the root: *bhuvaḥ*.
+- **सूरम्** — the root *sū preraṇe*; by "सुसूधागृधिभ्यः क्रन्" (Uṇ. Sū. 2-[25] [?]) the affix *kran*; by "धात्वादेः षः सः" the *s* for the *ṣ* of the root's initial; since the affix is *kit*, no *guṇa*; since it ends in a *nit* affix, the first syllable is acute; accusative singular.
+- **सस्रुषीः** — the root *sru gatau*; *liṭ* follows and in its place, by "क्वसुश्च" the affix *kvasu*; reduplication of the root; in the reduplicate the *hal*-initial remains; the word *sasruvas*; since the feminine is intended… *(the page ends here; the grammar continues on p. 204)*
+
+---
+
+**Progress note:** Printed pp. 1–203 done (PDF 16–218) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.4 complete**; **Rik 86.5** done through its English, Special Topics and the first three entries of its grammar page, ending mid-entry at *sasruṣīḥ* (p. 203; the grammar continues on p. 204). Next: printed p. 204 (PDF 219). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
