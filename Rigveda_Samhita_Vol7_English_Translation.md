@@ -7549,4 +7549,87 @@ Closing of Rik 89.2: "॥ २ ॥" (2).
 
 ---
 
-**Progress note:** Printed pp. 1–272 done (PDF 16–287) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.2 complete**; next: **Rik 89.3** at printed p. 273 (PDF 288). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages (incl. 270–272); Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; p. 267 and p. 270 tails clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 273 (PDF 288)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 273. Foot: printer's signature "18 … Volume 7".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.3)** *(Jagatī; Viśvedevas; accents not reproduced)*
+
+> तान्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
+> अर्यमणं वरुणं सोममश्विना सरस्वती नः सुभगा मयस्करत् ॥ ३ ॥
+
+*tān pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham | aryamaṇaṃ varuṇaṃ somam aśvinā sarasvatī naḥ subhagā mayas karat ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "Them we invoke with the ancient *nivid*: Bhaga, Mitra, Aditi, Dakṣa, Asridh, Aryaman, Varuṇa, Soma, the Aśvins; may Sarasvatī, fortunate, make happiness for us."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.3)**
+
+> तान् । पूर्वया । निऽविदा । हूमहे । वयम् । भगम् । मित्रम् ।
+> अदितिम् । दक्षम् । अस्रिधम् ।
+> अर्यमणम् । वरुणम् । सोमम् । अश्विना । सरस्वती । नः । सुऽभगा । मयः । करत् ॥ ३ ॥
+
+*tān | pūrvayā | ni-vidā | hūmahe | vayam | bhagam | mitram | aditim | dakṣam | asridham | aryamaṇam | varuṇam | somam | aśvinā | sarasvatī | naḥ | su-bhagā | mayaḥ | karat ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.3)**
+
+> तान्विश्वान्देवान्पूर्वया पूर्वकालीनया नित्यया निविदा वेदात्मिकया वाचा । निविदिति वाङ्नाम । यद्वा । निविदा विश्वे देवाः सोमस्य मत्स्न्नित्यादिकया वैश्वदेवा निविदा वयं हूमहे । आह्वयामः । देवानिति यत्सामान्येनोक्तं तदेव विप्रियेते । भगं भजनीयं द्वादशानामादित्यानामन्यतमं मित्रं प्रमीतेस्त्रायकं तदहर्भिमानिनं देवं । मैत्रं वा अहः । तै. ब्रा. १-२-१०-१ । इति श्रुतेः । अदितिमखण्डनीयामदीनां वा देवमातरं दक्षं सर्वस्य जगतो निर्माणे समर्थं प्रजापतिं । यद्वा प्राणरूपेण सर्वेषु प्राणिषु व्याप्य वर्तमानं हिरण्यगर्भं । प्राणो वै दक्ष इति श्रुतेः । अस्रिधं शोषणरहितं सर्वदैकरूपेण वर्तमानं मरुद्गणं । अर्यमणं अरीन् मन्देहादीनसुरान्प्रच्छति नियच्छतीत्यर्यमा सूर्यः । असौ वा आदित्यो ऽर्यमेति श्रुतेः । तं । वरुणं । वृणोति पापकृतः स्वकीयैः पाशैरावयन्नोतीति रात्र्यभिमानिदेवो वरुणः । श्रूयते च । वारुणी रात्रिः । तै. ब्रा. १-२-१०-१ । इति । सोमं द्वेधात्मानं निभज्य पैथिव्यां लताकारूपेण दिवि च चन्द्रात्मना देवताकरूपेण वर्तमानं । अश्विनाश्वमन्तौ । यद्वा । सर्वं व्याप्नुवन्तौ । तथा च यास्कः । अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यो ऽश्वैरश्विनावित्याग्रायणवाभस्त्रात्मावश्विनौ द्यावापृथिव्यावित्येके ऽहोरात्रावित्येके सूर्याचन्द्रमसावित्येके राजानौ पुण्यकृतावित्यैतिहासिकाः । नि. १२-१ [?] । इति । एवंभूतान्सर्वान्देवानस्मद्दृक्षणार्थमाह्वयाम इति पूर्वत्र सम्बन्धः । अस्माभिराहूता सुभगा शोभनधनोपेता सरस्वती नो ऽस्मभ्यं मयः सुखं करत् । करोतु ॥ हूमहे । ह्वेञ् । लटि ह्वः । इत्यनुवृत्तौ बहुलं छन्दसीति सम्प्रसारणं । परपूर्वत्वे हल इति दीर्घत्वम् । बहुलं छन्दसीति शपो लुक् । अस्रिधम् । स्रिधु शोषणे । सम्पदादिलक्षणो भावे क्विप् । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । मयस्करत् । करोतेर्लेट्यडागमः । बहुलं छन्दसीति विकरणस्य लुक् । अतः कृकमीति विसर्जनीयस्य सत्वम् ॥
+
+*tān viśvān devān pūrvayā pūrvakālīnayā nityayā nividā vedātmikayā vācā | nividiti vāṅnāma | yadvā | nividā viśve devāḥ somasya matsann ity ādikayā vaiśvadevā nividā vayaṃ hūmahe | āhvayāmaḥ | devān iti yat sāmānyenoktaṃ tad eva viśeṣyate | bhagaṃ bhajanīyaṃ dvādaśānām ādityānām anyatamaṃ mitraṃ pramīter trāyakaṃ tadaharabhimāninaṃ devaṃ | maitraṃ vā ahaḥ | Tai. Brā. 1-2-10-1 | iti śruteḥ | aditim akhaṇḍanīyām adīnāṃ vā devamātaraṃ dakṣaṃ sarvasya jagato nirmāṇe samarthaṃ prajāpatiṃ | yadvā prāṇarūpeṇa sarveṣu prāṇiṣu vyāpya vartamānaṃ hiraṇyagarbhaṃ | prāṇo vai dakṣa iti śruteḥ | asridhaṃ śoṣaṇarahitaṃ sarvadaikarūpeṇa vartamānaṃ marudgaṇaṃ | aryamaṇaṃ arīn mandehādīn asurān pracchati niyacchatīty aryamā sūryaḥ | asau vā āditya aryameti śruteḥ | taṃ | varuṇaṃ | vṛṇoti pāpakṛtaḥ svakīyaiḥ pāśair āvayann otīti rātryabhimānideva varuṇaḥ | śrūyate ca | vāruṇī rātriḥ | Tai. Brā. 1-2-10-1 | iti | somaṃ dvedhātmānaṃ nibhajya paithivyāṃ latākārūpeṇa divi ca candrātmanā devatākarūpeṇa vartamānaṃ | aśvināśvamantau | yadvā | sarvaṃ vyāpnuvantau | tathā ca yāskaḥ | aśvinau yad vyaśnuvāte sarvaṃ rasenānyo jyotiṣānyo 'śvair aśvināv ity āgrāyaṇavābhastrātmāv aśvinau dyāvāpṛthivyāv ity eke 'horātrāv ity eke sūryācandramasāv ity eke rājānau puṇyakṛtāv ity aitihāsikāḥ | Ni. 12-1 [?] | iti | evaṃbhūtān sarvān devān asmadrakṣaṇārtham āhvayāma iti pūrvatra sambandhaḥ | asmābhir āhūtā subhagā śobhanadhanopetā sarasvatī no 'smabhyaṃ mayaḥ sukhaṃ karat | karotu ‖ hūmahe | hveñ | laṭi hvaḥ | ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇaṃ | parapūrvatve hala iti dīrghatvam | bahulaṃ chandasīti śapo luk | asridham | sridhu śoṣaṇe | sampadādilakṣaṇo bhāve kvip | bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | mayaskarat | karoter leṭy aḍāgamaḥ | bahulaṃ chandasīti vikaraṇasya luk | ataḥ kṛkamīti visarjanīyasya satvam ‖*
+
+*(Kannada script; set as a dense block; the Yāska passage and some wording ("āgrāyaṇavābhastrātmāv") are clotted and read with doubt [?]; the Taittirīya numerals [?].)*
+
+*Translation:* "Those all-gods we invoke with the ancient, eternal *nivid*, i.e. speech of the nature of the Veda (*nivid* is a name of speech); or with the Vaiśvadeva *nivid* beginning '*viśve devāḥ somasya matsan*'. 'The gods' being said in general, it is now made specific. *Bhagam* — the one to be resorted to, one of the twelve Ādityas; *Mitra* — the deity presiding over the day, the saviour from death ('the day belongs to Mitra', Tai. Brā. [1-2-10-1] [?]); *Aditi* — the unbroken, the mother of the gods; *Dakṣa* — Prajāpati, able to make the whole world; or Hiraṇyagarbha, pervading all living things as breath ('breath is Dakṣa' — Śruti); *Asridh* — not liable to wasting, always in one form: the Marut host; *Aryaman* — he who restrains enemies, Asuras like the Mandehas — the sun ('that Āditya is Aryaman'); *Varuṇa* — the deity presiding over night, who binds evildoers with his nooses ('Night is Varuṇa's'); *Soma* — dividing himself into two, living on earth as the plant and in heaven as the moon; the *Aśvins* — possessed of horses, or pervading all; Yāska says (Ni. [12-1] [?]): 'the Aśvins — because one pervades all with moisture, the other with light; [or] with horses; [some say] heaven and earth; some, day and night; some, sun and moon; the historians say, two virtuous kings.' All such gods we invoke for our protection. May *Sarasvatī*, invoked by us, endowed with fine wealth, make *mayas* — happiness — for us. *Grammar tail, noted briefly:* *hūmahe* — *hve* with *saṃprasāraṇa* by 'bahulaṃ chandasi', lengthening; *asridham* — *sridhu śoṣaṇe* with *kvip*; first member *nañ* keeps…; *mayaskarat* — *leṭ* of *kṛ* with *aṭ*, *śap* elided, *s* for the visarga."
+
+---
+
+### Page 274 (PDF 289)
+
+*(Running head: "274 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*(The whole of the bhāṣya of 89.3, with its grammatical tail, stands on p. 273 and the first lines of p. 274 in the print; the passage on* hūmahe*, the* asridham *and* mayaskarat *entries given above are the whole tail as printed, continuing at the head of p. 274 with its final words.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.3)** *(Kannada)*
+
+*vayam* — we; *bhagam* — Bhaga; *mitram* — Mitra; *aditim* — Aditi; *dakṣam* — Dakṣa; *asridham* — Asridh (the Maruts); *aryamaṇam* — Aryaman; *varuṇam* — Varuṇa; *somam* — Soma; *aśvinā* — the two Aśvin deities; *tān* — all these deities; *pūrvayā* — of ancient times (eternal); *nividā* — by speech that is the Veda; *hūmahe* — we invoke with prayer; *subhagā* — endowed with fine wealth; *sarasvatī* — Sarasvatī; *naḥ* — for us; *mayaḥ* — happiness; *karat* — let her make.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.3** *(Kannada)*
+
+"We gather the whole group of gods — Bhaga, Mitra, Aditi, Dakṣa, Asridh (the Maruts), Aryaman, Varuṇa, Soma and the Aśvin deities — and invoke them with the eternal Vedic speech. May Sarasvatī, endowed with fine wealth, make happiness for us."
+
+**English Translation** *(printed in English in the source)*
+
+"We invoke them with an ancient speech Bhaga, Mitra, Aditi, Daksha, Asridh, Aryaman, Varuna, Soma, the Aswins; and may the gracious Saraswati grant us happiness." — as printed.
+
+---
+
+### Page 275 (PDF 290)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 275.)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.3)**
+
+- **निविदा** — "among the seven names of speech — *ślokaḥ, dhārā* and the rest — the word *nivid* is read; so *nividā* means 'with speech', 'with Vedic speech' (Ni. [?-?] [?]); or with the mantra called *nivid* used at the recitation of the Vaiśvadeva śastra."
+- **भगम्** — *bhajanīyam* — "fit to be resorted to; or one among the twelve Ādityas."
+- **मित्रम्** — "Mitra is the deity of the day. On this matter there is a Śruti sentence '*maitraṃ vā ahaḥ*' ('the day is Mitra's') (Tai. Brā. [1-2-10-1] [?]). Yāska on this word: '*mitraḥ pramīter trāyate saṃmitrāno dravatīti vā | medayater vā*' — the deity is called Mitra because he saves from death, or because, uniting, he runs, or from *medayati* ('to love'). Or, since he sprinkles well in the atmosphere rain-water and makes everything moist, he is called Mitra: 'he who wets all with water is Mitra.' As an example of this meaning he gives:
+
+> मित्रो जनान् यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् । मित्रः कृष्टीरनिमिषाभिचष्टे मित्राय हव्यं घृतवज्जुहोत ॥
+
+*mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīm uta dyām | mitraḥ kṛṣṭīr animiṣābhicaṣṭe mitrāya havyaṃ ghṛtavaj juhota ‖* (Ṛ. Saṃ. 3-59-1) — *Gloss, mine and tentative:* "Mitra, calling, sets men to their tasks; Mitra upholds earth and heaven; Mitra watches the peoples with unwinking eye: offer to Mitra the oblation with ghee."
+- **अदितिम्** — *devamātaram* — "Aditi, the mother of the gods. Yāska's explanation of this word is as follows:
+
+> अथातो मध्यस्थानाः स्त्रियः । तासामदितिः प्रथमागामिनी भवति । अदीना देवमाता ॥
+
+*athāto madhyasthānāḥ striyaḥ | tāsām aditiḥ prathamāgāminī bhavati | adīnā devamātā ‖* (Ni. [?-?] [?]) — *Gloss, mine and tentative:* "Now the women (goddesses) of the middle region: among them Aditi comes first — she who is not poor, the mother of the gods."
+
+That is, of the female deities of the middle region (the atmospheric deities), Aditi is the first; *Aditi* means 'the mother of the gods, who is not diminished'. And on the matter of Aditi's greatness —
+
+> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः । विश्वे देवा अदितिः पञ्चजना अदितिर्जातमदितिर्जनित्वम् ॥
+
+*aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañcajanā aditir jātam aditir janitvam ‖* (Ṛ. Saṃ. 1-89-10) — *Gloss, mine and tentative:* "Aditi is heaven, Aditi the atmosphere; Aditi is the mother, she the father, she the son; Aditi is all the gods, the five peoples; Aditi is what is born, Aditi what will be born."
+
+— Yāska says '*ityaditer vibhūtim ācaṣṭe | enā nasyādīnā iti vā*' (Ni. [4-22] [?]): thus he declares the greatness of Aditi." *(This Ṛk is the tenth Ṛk of this very sūkta.)*
+- **दक्षम्** — "Prajāpati, able to make the whole world; or Hiraṇyagarbha, who pervades all beings in the form of breath: '*prāṇo vai dakṣaḥ*' — 'breath indeed is Dakṣa' — so says the Śruti. *Dakṣa* means 'breath': that [meaning] *(continues on p. 276)*
+
+---
+
+**Progress note:** Printed pp. 1–275 done (PDF 16–290) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.2 complete**; **Rik 89.3** done through the bhāṣya, Pratipadārtha, Bhāvārtha, English and most of the Special Topics (to *dakṣam*, mid-entry at the foot of p. 275); the rest of the Special Topics and the grammar page follow on p. 276, then 89.4–89.10. Next: printed p. 276 (PDF 291). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–275 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270 and 273 tails clotted (p. 273 given as one block, the page-274 head being a short end of it); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
