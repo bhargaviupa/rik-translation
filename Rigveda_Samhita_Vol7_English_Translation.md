@@ -8461,4 +8461,98 @@ Closing of Rik 89.10: "॥ १० ॥" (10), followed by a printer's ornament. *
 
 ---
 
-**Progress note:** Printed pp. 1–305 done (PDF 16–320) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, sixth sūkta; application *laiṅgika*, opening verse of the Maitrāvaruṇa at the *Cāturviṃśika*; printed pp. 303–324): heading, introduction and Anuvāda done; **Rik 90.1** done through its English, Special Topics and the first four entries of its grammar page (ending mid-entry at *sajoṣāḥ*, p. 305); the rest of that page runs on p. 306, then 90.2–90.9. Next: printed p. 306 (PDF 321). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 306 (PDF 321)
+
+*(Running head: "306 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.1, concluded from p. 305:*
+
+- **सजोषाः** (cont.) — "…*prītiḥ yasya saḥ sajoṣāḥ*; by "गतिकारकोपपदात्कृत्" the base accent of the *kṛdutarapada*."
+
+Closing of Rik 90.1: "॥ १ ॥" (1), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.2)** *(Gāyatrī; accents not reproduced)*
+
+> ते हि वस्वो वसवानास्ते अप्रमूरा महोभिः ।
+> व्रता रक्षन्ते विश्वाहा ॥ २ ॥
+
+*te hi vasvo vasavānās te apramūrā mahobhiḥ | vratā rakṣante viśvāhā ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "For they, the lords of wealth, the clothers [givers of covering], the undeluded, with their might guard the ordinances every day."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.2)**
+
+> ते । हि । वस्वः । वसवानाः । ते । अप्रऽमूराः । महःऽभिः ।
+> व्रता । रक्षन्ते । विश्वाहा ॥ २ ॥
+
+*te | hi | vasvaḥ | vasavānāḥ | te | a-pra-mūrāḥ | mahaḥ-bhiḥ | vratā | rakṣante | viśvāhā ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.2)**
+
+> ते हि पूर्वोक्ता मित्रादयो वस्वो वसुनो धनस्य वसवाना वासका आच्छादयितारः । सर्वं जगद्धनेनाच्छादयन्तीत्यर्थः । अत एव ते मित्रादयो ऽप्रमूरा अप्रमूर्खिताः अमूढाः प्राज्ञाः सन्तो महोभिस्तेजोभिर्विश्वाहा सर्वाण्यहानि । अत्यन्तसंयोगे द्वितीया । सर्वेष्वप्यहस्सु व्रता व्रतानि जगन्निर्वाहरूपाणि स्वकीयानि कर्माणि रक्षन्ते । पालयन्ति ॥ वस्वः । आगमानुशासनस्यानित्यत्वान्नुमभावे जसादिषु छन्दसि वावचनमिति घेर्ङितीति गुणस्य विकल्पनादभावे यणादेशः । वसवानाः । वस आच्छादने । अस्मादन्तर्भावितण्यर्थाल्लटः शानच् । बहुलं छन्दसीति शपो लुगभावः । वर्णव्यापत्त्या मकारस्य वकारः । अप्रमूराः । मुर्छा मोहसमुच्छ्राययोः । अस्मात्पदादिलक्षणो भावे क्विप् । राल्लोप इति ङकारलोपः । प्रकृष्टा मूः प्रमूः । ततो मत्वर्थीयो रः । रो रि । पा. ८-३-१४ [?] । इति रेफलोपः । न प्रमूरा अप्रमूराः । अव्ययपूर्वपदप्रकृतिस्वरत्वं । रक्षन्ते । रक्ष पालने । व्यत्ययेन तेज् ॥
+
+*te hi pūrvoktā mitrādayo vasvo vasuno dhanasya vasavānā vāsakā ācchādayitāraḥ | sarvaṃ jagad dhanenācchādayantīty arthaḥ | ata eva te mitrādayo 'pramūrā apramūrkhitāḥ amūḍhāḥ prājñāḥ santo mahobhis tejobhir viśvāhā sarvāṇy ahāni | atyantasaṃyoge dvitīyā | sarveṣv apy ahassu vratā vratāni jagannirvāharūpāṇi svakīyāni karmāṇi rakṣante | pālayanti ‖ vasvaḥ | āgamānuśāsanasyānityatvān numabhāve jasādiṣu chandasi vāvacanam iti gher ṅhīti guṇasya vikalpanād abhāve yaṇādeśaḥ | vasavānāḥ | vasa ācchādane | asmād antarbhāvitaṇyarthāl laṭaḥ śānac | bahulaṃ chandasīti śapo lugabhāvaḥ | varṇavyāpattyā makārasya vakāraḥ | apramūrāḥ | murchā mohasamucchrāyayoḥ | asmāt padādilakṣaṇo bhāve kvip | rāllopa iti ṅakāralopaḥ | prakṛṣṭā mūḥ pramūḥ | tato matvarthīyo raḥ | ro ri | Pā. 8-3-[14] [?] | iti rephalopaḥ | na pramūrā apramūrāḥ | avyayapūrvapadaprakṛtisvaratvaṃ | rakṣante | rakṣa pālane | vyatyayena tej ‖*
+
+*(Kannada script; "padādilakṣaṇo" and the Pāṇini numeral are read with doubt [?].)*
+
+*Translation:* "Those Mitra and the rest, spoken of before, are *vasvaḥ* — of wealth (*vasu*); *vasavānāḥ* — clothers, coverers: they cover the whole world with wealth. For that very reason those Mitra and the rest, *apramūrāḥ* — not stupefied, not foolish, but wise — with *mahobhiḥ*, their lustres, *viśvāhā* — on all days (the second case in the sense of continuous connexion): *vratā* — their own duties of sustaining the world — *rakṣante* — protect, maintain. *Grammar tail, noted briefly:* *vasvaḥ* — no *num* augment since the rule of augments is not invariable, *yaṇ* substitution as *guṇa* is optional; *vasavānāḥ* — *vasa ācchādane* with the causative sense contained, *śānac* for *laṭ*; *apramūrāḥ* — *murchā mohasamucchrāyayoḥ*, *kvip*, loss of *r*, then *ra* in the sense 'having'; *rakṣante* — *ātmanepada* by *vyatyaya*."
+
+---
+
+### Page 307 (PDF 322)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 307.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.2)** *(Kannada)*
+
+*te hi* — those very deities, Mitra and the rest; *vasvaḥ* — of wealth (wealth); *vasavānāḥ* — (for the whole world) the coverers, the bestowers (those who give); *te* — those Mitra and the rest; *apramūrāḥ* — without negligence; *mahobhiḥ* — with their lustre; *viśvāhā* — on all days; *vratā* — (the duties that sustain the world) their works; *rakṣante* — maintain.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.2** *(Kannada)*
+
+"The deities Mitra, Varuṇa and the rest are distributors of wealth to the whole world. Without being negligent even a little, they guard every day, with attention, their duty of the nature of sustaining the world, and shine with their lustre."
+
+**English Translation** *(printed in English in the source)*
+
+"For, they are the distributors of wealth over the world; and never heedless, discharge their duties every day." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.2)**
+
+- **ते** — "the deities named in the preceding Ṛk: Mitra, Varuṇa and Aryaman."
+- **वस्वः वसवानाः** — *vasa ācchādane* — "'to cover'; that is, those who cover with wealth. The meaning: those who give wealth to sacrificers and others who praise, in keeping with the work of each."
+- **अप्रमूराः** — *murchā mohasamucchrāyayoḥ* — "those without delusion, not foolish, that is, wise."
+- **महोभिः** — *ātmīyaiḥ tejobhiḥ* — "by their lustres, or by their greatness."
+- **व्रता** — "their duties of work."
+- **विश्वाहा** — "on all days."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.2)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **वस्वः** — the word *vasu*, neuter, ending in *u*; it ought to take the form *vasunaḥ*; but by the statement "आगमशास्त्रमनित्यम्" the *num* augment by "इकोऽचि विभक्तौ" does not come; by "जसादिषु छन्दसि वा वचनम्" the *guṇa* by "घेर्ङिति" (Pā. Sū. 7-3-[111]) is optional and does not come here; then by "इको यणचि" the *yaṇ* substitution, [*vasv-*]…
+
+---
+
+### Page 308 (PDF 323)
+
+*(Running head: "308 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Vyākaraṇa-prakriyā of Rik 90.2, continued from p. 307 (grammar, noted briefly):*
+
+- **वसवानाः** — the root *vasa ācchādane*; since the sense of *ṇic* is contained in it, *śānac* in the sense of *laṭ*; since it is *adādi* [as printed; read: as the root is not in the *adādi* list], by "बहुलं छन्दसि" the *luk* of *śap* does not come; when *vas + āna*, by "आनेमुक्" (Pā. Sū. 3-2-[130]) the augment *muk* [as read, *ānemuk*] after the *a*-final *aṅga*; by letter-substitution the *m* becomes *v*; since the affix is *cit*, by "चितः" the final acute; nominative plural.
+- **अप्रमूराः** — the root *murchā mohasamucchrāyayoḥ*; by "सम्पदादिभ्यः क्विप्" the affix *kvip* in the abstract sense; by "राल्लोपः" (Pā. Sū. 6-4-[21]) the *ch* and *v* after *r* are lost, since *kvip*, which is *jhal*-initial [as read], is a nasal-like affix and follows; here, since *kvip* is present, the *ch* is lost; *prakṛṣṭā mūḥ pramūḥ*; after *pramū*, in the sense 'having it', by the Vedic *ra* affix; since *rephā* is followed by *repha*, by "रो रि" (Pā. Sū. 8-3-[14]) the loss of the *r*; *na pramūrāḥ apramūrāḥ*, a *nañ*-*tatpuruṣa*, so by "तत्पुरुषे तुल्यार्थ…" the first member, an indeclinable, keeps its base accent.
+- **व्रता** — in the neuter plural, the substitute *śi* for *śas*; by "शेश्छन्दसि बहुलम्" the loss of *śi*.
+- **रक्षन्ते** — the root *rakṣa pālane*; *laṭ*, third person plural; by "व्यत्ययो बहुलम्" the *ātmanepada* affix; since it follows an *atiṅanta*, the *nighāta*.
+- **विश्वाहा** — *viśvāsu tāsu ahāsu ca viśvāhā*; by "शेश्छन्दसि बहुलम्" the loss of *śi*.
+
+Closing of Rik 90.2: "॥ २ ॥" (2), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.3)** *(Gāyatrī; accents not reproduced)*
+
+> ते अस्मभ्यं शर्म यंसन्नमृता मर्त्येभ्यः ।
+> बाधमाना अप द्विषः ॥ ३ ॥
+
+*te asmabhyaṃ śarma yaṃsann amṛtā martyebhyaḥ | bādhamānā apa dviṣaḥ ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "May those immortals grant shelter to us mortals, driving away the haters."
+
+---
+
+**Progress note:** Printed pp. 1–308 done (PDF 16–323) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.2 complete**; **Rik 90.3** — Saṃhitā done (foot of p. 308); next: its Pada, bhāṣya and the rest, then 90.4–90.9. Next: printed p. 309 (PDF 324). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
