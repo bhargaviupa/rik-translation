@@ -784,4 +784,123 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–17 done (PDF 21–37): Sūkta 95, Rik 95.1 and 95.2 complete (95.2's Special Topics on pp. 11–14, grammar on pp. 14–15); Rik 95.3: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done; its Special Topics begun at the foot of p. 17 (*trīṇi jānā*), breaking at "…This description shows the original form of Agni's manifestation". Next: printed p. 18 (PDF 38). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra…*, *anyonyasya ca vatsasthānīyam agniṃ* and the story-passage *atra itihāsam ācakṣate…* (*nṛptyati* [?]) [?]; the Ṛgveda numerals of the Special Topics of 95.1 and 95.2 (7-78-3, 1-124-8, 10-88-6, 1-113-2, 10-1-2, 10-2-7, 4-6-8, 3-[?]-13, 1-70-3, 4-4-4, 4-5-6, 1-93-6), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14, 8-103, 1-6-3 and Nirukta 10-6 as read [?]; the Uṇādi/Pāṇini numerals in the grammatical tails and grammar pages of 95.1–95.3 [?]; *parīty eṣa samity etasya sthāne* and the form *jānā*'s suffix in the bhāṣya of 95.3 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3.
+### Page 18 (PDF 38)
+
+*(Running head: left 18; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Special Topics of Rik 95.3, continued from p. 17**
+
+"…shows. That Agni's threefold existence, and also the threefold manifestation that corresponds to it, reflect the original principle of the world, is known from the exposition of the Bṛhaddevatā:"
+
+> भवद्भूतस्य भव्यस्य जङ्गमस्थावरस्य च ।
+> अस्यैके सूर्यमेवैकं प्रभवं प्रलयं विदुः ॥
+> एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा ।
+> ऋषयो गीर्भिरर्चन्ति व्यञ्जितं नामभिस्त्रिभिः ॥
+> *bhavad-bhūtasya bhavyasya jaṅgamasthāvarasya ca |*
+> *asyaike sūryam evaikaṃ prabhavaṃ pralayaṃ viduḥ ‖*
+> *etad-bhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā |*
+> *ṛṣayo gīrbhir arcanti vyañjitaṃ nāmabhis tribhiḥ ‖*
+> (*Bṛ. De.* 1-60; 1-61 as read [?])
+
+*(Translation, mine and tentative: "Of what is, was and will be, of the moving and the unmoving, some know this [Agni] as the one source and dissolution, the Sun alone. In these beings and worlds, Agni stands threefold; the seers praise him with songs, made manifest by three names." The lines are read as printed; the second half of the first stanza is doubtful [?].)*
+
+"In these verses, in the context of describing the greatness of Agni, the author of the Bṛhaddevatā says that Prajāpati, the womb of all beings, has obtained his existence in three forms, in the form of Agni, in three places, as the source of the creation and dissolution of all moving and unmoving creatures in the past, the future and the present. And that the seers, as said below, speak of this threefold manifestation of Agni by three names, so he praises this very Agni further —"
+
+> त्रिस्थानं चैनमर्चन्ति होत्रायां वृक्तबर्हिषः ॥
+> इहैव पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः ।
+> अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निः शुचिरुच्यते ॥
+> इहाग्निभूतस्त्वृषिभिर्लोके स्तुतिभिरीळितः ।
+> जातवेदाः स्तुतो मध्ये स्तुतो वैश्वानरो दिवि ॥
+> *tristhānaṃ cainam arcanti hotrāyāṃ vṛktabarhiṣaḥ ‖*
+> *ihaiva pavamāno 'gnir madhyamo 'gnir vanaspatiḥ |*
+> *amuṣminn eva vipraiś tu loke 'gniḥ śucir ucyate ‖*
+> *ihāgnibhūtas tv ṛṣibhir loke stutibhir īḷitaḥ |*
+> *jātavedāḥ stuto madhye stuto vaiśvānaro divi ‖*
+> (*Bṛ. De.* 1-62 to 1-67 as read [?])
+
+*(Translation, mine and tentative: "And him, standing in three places, they worship with the sacrifice, having strewn the sacred grass: here Pavamāna Agni; the middle Agni, Vanaspati; and in that [heavenly] world, by the sages, Agni is called Śuci. Here on earth, being Agni, he is praised by the seers with hymns; Jātavedas is praised in the middle; Vaiśvānara is praised in heaven." The word* hotrāyāṃ *and the numerals are doubtful [?].)*
+
+"Among these three kinds, for Agni who manifests on earth the name *pavamāna*, for the Agni of the middle world the name *vanaspati*, and for the Agni in the heavenly world the name *śuci* are well known. These three varieties are also read in the Taittirīya Saṃhitā (2-2-4 as read [?]) in the division *pavamāna*, *śuci*, *pāvaka*. Besides, the names Agni, Jātavedas and Vaiśvānara too show the three places and three forms. The Nirukta-author also, citing from the Ṛksaṃhitā —"
+
+> स्तोमेन हि दिवि देवासो अग्निमजीजनञ्छक्तिभी रोदसिप्राम् ।
+> तमू अकृण्वन् त्रेधा भुवे कं स ओषधीः पचति विश्वरूपाः ॥
+> *stomena hi divi devāso agnim ajījanañ chaktibhī rodasiprām |*
+> *tam ū akṛṇvan tredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpāḥ ‖*
+> (*Ṛ. Saṃ.* 10-88-10 as read)
+
+*(Gloss, mine and tentative: "for by praise the gods in heaven begot Agni, filling the two worlds, by their powers; they made him threefold for [his] being, a joy; he ripens the plants of every form".)*
+
+"— and shows with it: '*tam akurvan tredhābhāvāya pṛthivyām antarikṣe divīti śākapūṇiḥ*' [as read] ('they made him threefold in being: on earth, in the atmosphere and in heaven' — so Śākapūṇi). Following Śākapūṇi's explanation, in these three places — the divisions of the earth, the atmosphere and the heavenly world — Agni has become manifest in three forms," *(continues on p. 19)*
+
+### Page 19 (PDF 39)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 19.)*
+
+"…as Agni, Jātavedas and Vaiśvānara; and they explain these three forms fully with examples from Saṃhitā sentences (Ni. 7-14 to 7-23 [as read [?]])."
+
+"In just this way, in this Ṛk also the three places are described in order by the names *samudre*, *divi* and *apsu*: in the ocean he moves in the form of the submarine fire, in the heavenly world in the form of the sun, and in the *apsu*, that is in the atmosphere, in the form of lightning — thus it is explained at length. Sometimes the names of these places are altered, though the intention is always the same. For example, here, in place of 'earth', the word *samudra* is distributed to suit the context. In all, three such divisions are stated, in many contexts, in all four Vedas."
+
+> दिवस्परि प्रथमं जज्ञे अग्निरस्मद्द्वितीयं परि जातवेदाः ।
+> तृतीयमप्सु नृमणा अजस्रमिन्धान एनं जरते स्वाधीः ॥
+> *divas pari prathamaṃ jajñe agnir asmad dvitīyaṃ pari jātavedāḥ |*
+> *tṛtīyam apsu nṛmaṇā ajasram indhāna enaṃ jarate svādhīḥ ‖*
+> (*Ṛ. Saṃ.* 10-45-1; *Vā. Saṃ.* 12-18; *Tai. Saṃ.* 4-2-4-3 as read [?])
+
+> अग्निरस्मि जन्मना जातवेदा घृतं मे चक्षुरमृतं म आसन् ।
+> अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥
+> *agnir asmi janmanā jātavedā ghṛtaṃ me cakṣur amṛtaṃ ma āsan |*
+> *arkas tridhātū rajaso vimāno 'jasro gharmo havir asmi nāma ‖*
+> (*Ṛ. Saṃ.* 3-26-7; *Vā. Saṃ.* 18-66; *Ni.* 14-2 as read [?])
+
+*(Glosses, mine and tentative: "first Agni was born from heaven, the second from us [or: from here], Jātavedas; the third in the waters, the man-minded, unceasing: him the sage praises, kindling"; "I am Agni by birth, Jātavedas; the ghee is my eye, the nectar is in my mouth; I am the threefold ray, the measure of the space, the unceasing heat, the oblation by name".)*
+
+"From such explanations the nature of the description *trīṇi jānā* is understood clearly."
+
+***apsu*** — *āpaḥ ity antarikṣanāma* (Ni. 2-10 [?]): "since *āpas* is read among the names of the atmosphere, *apsu ekam* means: in the atmosphere, one variety of Agni, in the form of the lightning-fire."
+
+***pūrvāṃ pradiśam anuṣṭhu vidadhau*** — "By showing in order the six seasons, spring and the rest, he shows time; and by showing the quarters, east and the rest, place: thus Āditya (Agni) is well known as the creator of time and place; the sense is that he has regulated the performance of sacrificial rites such as *yajña* and *yāga* as to time."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.3)** *(grammar pages, pp. 19–21, noted briefly; numerals small and doubtful [?])*
+
+***jānā*** — root *janī* (to arise); an *ñit*-suffix (the print gives *phiñ* [?]); vṛddhi of the penultimate by *ata upadhāyāḥ*; though the final acute *karṣātvataḥ* (Pā. 6-1-158 [?]) would be due, since *vṛṣādi* is an *ākṛtigaṇa* the initial acute comes by *vṛṣādīnāṃ ca* (Pā. 6-1-203 [?]); in the neuter plural *śi* in place of *jas* and *śas* by *jaśśasoḥ śiḥ* (Pā. 7-1-20 [?]); the *śi* elided by *śeś chandasi bahulam* (Pā. 6-1-70 [?]).
+
+### Page 20 (PDF 40)
+
+*(Running head: left 20; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+*Grammar of Rik 95.3, continued (noted briefly):* ***bhūṣanti*** — root *bhūṣa* (to adorn), *bhvādi*; or from *bhū* (being): in the *leṭ* third person plural, *sip* by *sibbahulaṃ leṭi* (Pā. 3-1-34 [?]); the *iṭ* is not added because by the maxim '*āgamaśāstram anityam*' the augment-rule on *ārdhadhātukasyeḍ valādeḥ* does not apply, and by '*saṃjñāpūrvako vidhir anityaḥ*' the guṇa that would result from the suffix is not made; the ending *jhi* → *anta* by *jho 'ntaḥ* (Pā. 7-1-3 [?]); *ṣatva* for the *s* of *sip* by *ādeśapratyayayoḥ* (Pā. 8-3-59 [?]); *nighāta*. — ***divi apsu*** — the locative singular and plural; in both, the case-ending acute by *ūḍidaṃ padādi…* (Pā. 6-1-171 [?]). — ***pārthivānām*** — 'these belong to the earth': *añ* by *pṛthivyā ñāñau* (Pā. 4-1-[?] [?]), a suffix of the *prāg-dīvyatīya* class; since *ñit*, vṛddhi of the first vowel by *taddhiteṣv acām ādeḥ*; elision of the *ī* by *yasyeti ca*; the form *pārthiva*; initial acute by *ñnityādir nityam*; in the genitive plural, *nuṭ* by *prasanadyāpo 'nuṭ* [?] and lengthening by *nāmi* (Pā. 6-4-3 [?]). — ***praśāsat*** — root *śās* (to instruct); *śatṛ* in the present sense; elision of *śap* by *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [?]); the words *jakṣityādayaḥ ṣaṭ* (Pā. 6-1-6 [?]) give the designation *abhyasta*, so *num* would arise before the *su*, but is prohibited by *nābhyastāc chatuḥ* (Pā. 7-1-78 [?]); the form *śāsat*; *pra* is a *gati*; by *gatikārakopapadāt kṛt* (Pā. 6-2-139 [?]) the accent of the first member of the *kṛt* compound is retained. — ***dadhau*** — root *ḍu dhāñ* (to hold, nourish); *liṭ*, third person singular; *nighāta*, after a verb-ending word. — ***anuṣṭhu*** — *anu* is the preposition; *ṣṭhā* (cessation of motion); *uṇādayo bahulam*: by the force of the word *bahulam*, the *ku* suffix prescribed for the root *sthā* by *apaduḥsuṣu sthaḥ* (Uṇ. 1-[?] [?]) occurs here also, where *anu* comes first; the suffix being *kit*… *(continues on p. 21)*
+
+### Page 21 (PDF 41)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 21.)*
+
+*Grammar of Rik 95.3, concluded:* …*ato lopa iṭi ca* (Pā. 6-4-64 [?]) elides the *ā* of the root; when *anuṣṭhu* is formed, *ṣatva* of the *s* by *upasargāt sunoti…* (Pā. 8-3-65 [?]); final acute by the suffix accent. ‖ 3 ‖ *(Grammar pages, noted briefly; numerals read from small print, doubtful [?].)*
+
+---
+
+### Rik 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.4)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> क इमं वो निण्यमा चिकेत वत्सो मातॄर्जनयत स्वधाभिः ।
+> बह्वीनां गर्भो अपसामुपस्थान्महान्कविर्निश्चरति स्वधावान् ॥ ४ ॥
+
+*ka imaṃ vo niṇyam ā ciketa vatso mātṝr janayata svadhābhiḥ | bahvīnāṃ garbho apasām upasthān mahān kavir niś carati svadhāvān ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.4)**
+
+> कः । इमम् । वः । निण्यम् । आ । चिकेत । वत्सः । मातॄः । जनयत । स्वधाभिः ।
+> बह्वीनाम् । गर्भः । अपसाम् । उपऽस्थात् । महान् । कविः । निः । चरति । स्वधाऽवान् ॥ ४ ॥
+
+*kaḥ | imam | vaḥ | niṇyam | ā | ciketa | vatsaḥ | mātṝḥ | janayata | svadhābhiḥ | bahvīnām | garbhaḥ | apasām | upa-sthāt | mahān | kaviḥ | niḥ | carati | svadhā-vān ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.4)** *(begun at the foot of p. 21; continues on p. 22)*
+
+> हे ऋत्विग्यजमाना निण्यं निर्णीतं अन्तर्हितमेतत् । आबादिषु [?] गर्भरूपेणान्तर्हितं । तथा च मन्त्रान्तरं । गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथां । ऋग्वे. १-७०-३ । इति । एवंभूतमिममग्निं वो युष्माकं
+> *he ṛtvigyajamānā niṇyaṃ nirṇītaṃ antarhitam etat | ābādiṣu [?] garbharūpeṇāntarhitaṃ | tathā ca mantrāntaram | garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām | ṛgve. 1-70-3 | iti | evaṃbhūtam imam agniṃ vo yuṣmākaṃ* *(the sentence continues on p. 22)*
+
+*(Sense, mine and tentative: "O priests and sacrificers, [this] is the hidden (*niṇya*, determined) thing, hidden in an embryonic form in the waters and the like [the word* ābādiṣu *is doubtful [?]]; and so another mantra: 'the embryo of the waters, the embryo of the forests, the embryo of the standing and the embryo of the moving' (Ṛ. 1-70-3, as printed in the bhāṣya). This Agni, of yours…". The print here gives the verse correctly:* apāṃ*, so the* asāṃ *of p. 12 is a misprint.)*
+
+---
+
+**Progress note:** Printed pp. 1–21 done (PDF 21–41): Sūkta 95, Riks 95.1–95.3 complete (95.3's Special Topics on pp. 17–19, grammar on pp. 19–21); Rik 95.4: Saṃhitā and Pada (pp. 21), and the first lines of the bhāṣya (breaking at the foot of p. 21 at "…*evaṃbhūtam imam agniṃ vo yuṣmākaṃ*"). Next: printed p. 22 (PDF 42). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.2 (*nṛptyati* [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta and Bṛhaddevatā numerals of the Special Topics of 95.1–95.3 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.3 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā* and *ābādiṣu* in the bhāṣyas of 95.3–95.4 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on p. 21).
