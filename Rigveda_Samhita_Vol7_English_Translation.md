@@ -4924,14 +4924,89 @@ Closing of Rik 85.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 *Translation:* "*Svapāḥ* — the skilful worker, *tvaṣṭā* — the maker of all things — when he *avartayat* — made [the thunderbolt] come to Indra, that is, gave it. What kind? *Sukṛtam* — well made, *hiraṇyayam* — golden, *sahasrabhṛṣṭim* — furnished with many streams [points]: that thunderbolt Indra *dhatte* — holds. For what purpose? *Nari* — here, by connexion with men (*nṛ*), the word *nṛ* means the battle; in battle, *apāṃsi* — deeds of the nature of slaying enemies, *kartave* — to do. Thus, having taken the thunderbolt, with that thunderbolt he *ahan* — slew *vṛtram*, the cloud that holds back the rain-water — *arṇavam*, joined with its water; and the waters stopped by it he *niraubjat* — wholly threw down head-foremost; that is, he made them rain." *Grammar tail, noted briefly:* *sukṛtam* — *kṛ* preceded by *su*, with *niṣṭhā* in the passive; the *gati* keeps its base accent by "gatir anantaraḥ"; *hiraṇyayam* — a form fixed by *nipātana* with the affix *mayaṭ*; *svapāḥ* — first member's accent as in "sormanasī…"; *kartave* — the affix *tavenn* in the sense of *tumun*; *apām* — the genitive in the sense of the dative, since the object is the recipient (*sampradāna*); the case-ending acute by "ūḍidam…"; *aubjat* — *ubja ārjave*; *arṇavam* — the *va* affix in the sense 'having that', with the loss of *s* (of *arṇas*)."
 
-**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.9)** *(Kannada; begins here, runs to p. 180)*
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.9)** *(Kannada)*
 
 *svapāḥ* — of excellent actions; *tvaṣṭā* — the divine craftsman; *sukṛtam* — excellently made; *hiraṇyayam* — golden; *sahasrabhṛṣṭim* — with many edges; *yat vajram* — which thunderbolt; *avartayat* — gave (to Indra); *indraḥ* — Indra; *nari* — in battle; *apāṃsi* — the deeds (of killing enemies and the like); *kartave* — to perform; *dhatte* — holds (that thunderbolt); *vṛtram* — the cloud that covers the rain, etc.; *arṇavam* — that cloud filled with water; *ahan* — he struck; *apām* — the waters; *niḥ aubjat* — made flow fully.
 
-**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.9** *(Kannada; begins here)*
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.9** *(Kannada; ends at the foot of p. 179)*
 
-"The divine craftsman, of excellent actions, gave Indra a thunderbolt that is excellently made, golden and of many edges. Indra holds that thunderbolt in battle in order to do the deeds of killing enemies and the like. And with it he struck the cloud that covers the rain and the like, and let the waters pour down in streams…" *(the Bhāvārtha runs on to p. 180)*
+"The divine craftsman, of excellent actions, gave Indra a thunderbolt that is excellently made, golden and of many edges. Indra holds that thunderbolt in battle in order to do the deeds of killing enemies and the like. And with it he struck the cloud that covers the rain and the like, and let the waters pour down in streams." *(An earlier note that this ran on to p. 180 was mistaken: it is complete on p. 179.)*
 
 ---
 
-**Progress note:** Printed pp. 1–179 done (PDF 16–194) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.8 complete**; **Rik 85.9** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha and the first half of the Bhāvārtha done; the Bhāvārtha concludes on p. 180, followed by the English, Special Topics and grammar. Next: printed p. 180 (PDF 195). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 180 (PDF 195)
+
+*(Running head: "180 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**English Translation** *(printed in English in the source; Rik 85.9)*
+
+"Indra wields the well-made, golden and thousand edged thunderbolt, which the skillful Twashtri has framed for him that he may achieve great exploits in war. He has slain Vritra and sent down a flood of waters." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.9)**
+
+- **त्वष्टा** — "the divine craftsman. See what we have written on the discussion of Tvaṣṭṛ in Ṛ. Saṃ. Part 3, p. 25 [as printed: 'bhāga 3, pēju 25']."
+- **सहस्रभृष्टिम्** — *anekābhir dhārābhir yuktam* — "furnished with many streams: with a thousand edges."
+- **स्वपाः** — *śobhanakarmā* — "one who does good works; skilful in works."
+- **नरि** — "in the matter of men; that is, in the context where it is used against men or enemies; in battle."
+- **कर्तवे** — "in order to do deeds of daring; in order to fight with enemies."
+- **निः औब्जत्** — *ubja ārjave | niḥśeṣeṇādhomukham apātayat* — "made them flow downward, well."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.9)** *(grammar page, noted briefly; begins here)*
+
+- **सुकृतम्** — when *su* precedes, the root *ḍukṛñ karaṇe*; to it *niṣṭhā* (*kta*) in the passive; by "गतिरनन्तरः" (*gatir anantaraḥ*, Pā. Sū. 6-2-[49] [?]) *su* has the designation *gati*, hence it keeps its base accent.
+- **हिरण्ययम्** — *hiraṇyasya vikāraḥ*: the affix *mayaṭ* in the sense of 'modification'; when *hiraṇya + maya*, by "ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययादिति च्छन्दसि" (*ṛtvyavāstvyavāstvamādhvīhiraṇyayād iti chandasi*, Pā. Sū. 6-4-[175] [?]) the loss of the *m* of *mayaṭ* is fixed by *nipātana*.
+- **स्वपाः** — by "सोर्मनसी अलोमोषसी" (Pā. Sū. 6-2-[117] [?]) the first syllable of the latter member is acute.
+- **अवर्तयत्** — the root *vṛtu vartane*; after the *ṇijanta*, *laṅ*, third person singular, the form as stated; since *yat* is in connexion, the *nighāta* does not occur; since the augment *aṭ* is acute, the first syllable is acute.
+
+---
+
+### Page 181 (PDF 196)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 181.)*
+
+*Vyākaraṇa-prakriyā of Rik 85.9, continued from p. 180 (grammar, noted briefly):*
+
+- **धत्ते** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*, Juhotyādi; *laṭ*, third person singular; since it stands at the beginning of a *pāda*, no *nighāta*; by the affix-accent the final acute.
+- **कर्तवे** — the root *ḍukṛñ karaṇe*; in the sense of *tumun*, by "तुमर्थे सेसेनसेअसेन्…" (*tumarthe seseasenase…*, Pā. Sū. 3-4-[9] [?]) the affix *tavai* [as read, *tavenn*]; by "सार्वधातुकार्धधातुकयोः" the *guṇa* of the *ik* of the root, because of that affix; the form *kartave*; since it ends in a *nit* affix, the first syllable is acute.
+- **अहन्** — the root *han hiṃsāgatyoḥ*; *laṅ*, third person singular; by "अदिप्रभृतिभ्यः शपः" the *luk* of *śap*; by "हल्ङ्याब्भ्यो…" the *luk* of the affix; the form as stated is accomplished; by the position at the beginning of a *pāda*, *nighāta* is prohibited; since the augment *aṭ* is acute, the first syllable is acute.
+- **अपाम्** — by the statement "कर्मणा यमभिप्रैति स सम्प्रदानम्" with "क्रियाग्रहणं कर्तव्यम्" the object also receives the designation *sampradāna*; so the genitive (*ṣaṣṭhī*) stands in the sense of the dative; genitive plural; by "ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः" (Pā. Sū. 6-1-[171]) the case-ending is acute.
+- **औब्जत्** — the root *ubja ārjave*; *laṅ*, third person singular; since it stands after an *atiṅanta*, the *nighāta*.
+- **अर्णवम्** — *arṇāṃsi asmin santi iti arṇavaḥ*; in the sense of *matup*, by "अर्णसो लोपश्च" (Kā. 5-2-[109] [?]) the affix *va*; in connexion with it, the loss of the *s* of *arṇas*; by the affix-accent the final acute.
+
+Closing of Rik 85.9: "॥ ९ ॥" (9), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.10)** *(Jagatī; Maruts; accents not reproduced; the verse is continued on p. 182)*
+
+> ऊर्ध्वं नुनुद्रेऽवतं त ओजसा दादृहाणं चिद्बिभिदुर्वि पर्वतम् ।
+> धमन्तो वाणं मरुतः सुदानवो मदे सोमस्य रण्यानि चक्रिरे ॥ १० ॥
+
+*ūrdhvaṃ nunudre 'vataṃ ta ojasā dādṛhāṇaṃ cid bibhidur vi parvatam | dhamanto vāṇaṃ marutaḥ sudānavo made somasya raṇyāni cakrire ‖ 10 ‖*
+
+*Gloss, mine and tentative:* "They drove the well upward with their strength; they split the firm mountain; blowing the *vāṇa* (a pipe/lute), the bountiful Maruts, in the exhilaration of Soma, did delightful deeds."
+
+---
+
+### Page 182 (PDF 197)
+
+*(Running head: "182 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.10)**
+
+> ऊर्ध्वम् । नुनुद्रे । अवतम् । ते । ओजसा । दादृहाणम् । चित् । बिभिदुः । वि । पर्वतम् ।
+> धमन्तः । वाणम् । मरुतः । सुऽदानवः । मदे । सोमस्य । रण्यानि । चक्रिरे ॥ १० ॥
+
+*ūrdhvam | nunudre | avatam | te | ojasā | dādṛhāṇam | cit | bibhiduḥ | vi | parvatam | dhamantaḥ | vāṇam | marutaḥ | su-dānavaḥ | made | somasya | raṇyāni | cakrire ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.10)**
+
+> आत्रेयमाख्यायिका । गोतम ऋषिः पिपासया पीडितः सन् मरुत उदकं ययाचे । तदनन्तरं मरुतोऽवटस्थं कूपमुद्धृत्य यत्र स गोतम ऋषिस्तिष्ठति तां दिशं नीत्वा ऋषिसमीपे कूपमवस्थाप्य तत्स्पर्श आहावं च कृत्वा तस्मिन्नाहावे कूपमुत्सिच्य तमृषिं तेनोदकेन तर्पयाञ्चक्रुः । आयमर्थोऽनया चोत्तरया च प्रतिपाद्यते ॥ ते मरुतोऽवतम् । अवस्त्रात इति भवत्यवतः कूपः । कूपनामसु चावतोऽवट इति पठितम् । तमूर्ध्वमुपरि यथा भवति तथौजसा स्वकीयेन बलेन नुनुद्रे । प्रेरितवन्तः । उत्पातितवन्त इत्यर्थः । एवं कूपमुत्पाट्य ऋषेराश्रमं प्रति नयन्तो मरुतो मार्गमध्ये दादृहाणं प्रवृद्धं गतिनिरोधकं पर्वतं चित् पर्वतवन्तं शिलोच्चयमपि वा बिभिदुः । विशेषेण बभञ्जुः । सुदानवः शोभनदानास्ते मरुतो वाणं शतसंख्याभिस्तन्त्रीभिर्युक्तं वीणाविशेषं धमन्तो वादयन्तः सोमस्य मदे सोमपानेन हर्षे सति रण्यानि स्तुत्यानि रमणीयानि धनानि चक्रिरे । स्तोतृभ्यः कुर्वन्ति ॥ नुनुद्रे । णुद प्रेरणे । [the clause on the *re* substitute for the ending, cramped] । दादृहाणम् । दृह दृहि वृद्धौ । लिटः कानच् । धमन्तः । ध्मा शब्दाग्निसंयोगयोः । पाघ्रेत्यादिना धमादेशः । वाणम् । अण रण वण शब्दार्थाः । कर्मणि घञ् । कर्षात्वत इत्यन्तोदात्तत्वम् । रण्यानि । रणतेर्भावे वशिरण्योरुपसंख्यानम् (पा. ३-१-[१२३] [?]) इत्यप् । ततो भवे छन्दसीति यत् । यतोऽनाव इत्याद्युदात्तत्वम् ॥
+
+*ātreyam ākhyāyikā | gotama ṛṣiḥ pipāsayā pīḍitaḥ san maruta udakaṃ yayāce | tadanantaraṃ maruto 'vaṭasthaṃ kūpam uddhṛtya yatra sa gotama ṛṣis tiṣṭhati tāṃ diśaṃ nītvā ṛṣisamīpe kūpam avasthāpya tatsparśa āhāvaṃ ca kṛtvā tasminn āhāve kūpam utsicya tam ṛṣiṃ tenodakena tarpayāñcakruḥ | āyam artho 'nayā cottarayā ca pratipādyate ‖ te maruto 'vatam | avastrāta iti bhavaty avataḥ kūpaḥ | kūpanāmasu cāvato 'vaṭa iti paṭhitam | tam ūrdhvam upari yathā bhavati tathaujasā svakīyena balena nunudre | preritavantaḥ | utpātitavanta ity arthaḥ | evaṃ kūpam utpāṭya ṛṣer āśramaṃ prati nayanto maruto mārgamadhye dādṛhāṇaṃ pravṛddhaṃ gatirodhakaṃ parvataṃ cit parvatavantaṃ śiloccayam api vā bibhiduḥ | viśeṣeṇa babhañjuḥ | sudānavaḥ śobhanadānās te maruto vāṇaṃ śatasaṃkhyābhis tantrībhir yuktaṃ vīṇāviśeṣaṃ dhamanto vādayantaḥ somasya made somapānena harṣe sati raṇyāni stutyāni ramaṇīyāni dhanāni cakrire | stotṛbhyaḥ kurvanti ‖ nunudre | ṇuda preraṇe | … | dādṛhāṇam | dṛha dṛhi vṛddhau | liṭaḥ kānac | dhamantaḥ | dhmā śabdāgnisaṃyogayoḥ | pāghretyādinā dhamādeśaḥ | vāṇam | aṇa raṇa vaṇa śabdārthāḥ | karmaṇi ghañ | karṣātvata ity antodāttatvam | raṇyāni | raṇater bhāve vaśiraṇyor upasaṃkhyānam (Pā. 3-1-[123] [?]) ity ap | tato bhave chandasīti yat | yato 'nāva ity ādyudāttatvam ‖*
+
+*(Kannada script; the Aitareya-type story at the head is the bhāṣyakāra's own; one clause of the tail, on* nunudre*, is cramped and omitted; the Āvaṭa/avata etymology sentence "avastrāta iti bhavaty avataḥ kūpaḥ" is read with doubt [?].)*
+
+*Translation:* "The story from the Ātreya (tradition): The sage Gotama, oppressed by thirst, begged the Maruts for water. Then the Maruts raised a well from its pit, carried it to the quarter where the sage Gotama was, set the well near the sage, made a trough (*āhāva*) at its touch, drew the water of the well into that trough, and satisfied the sage with that water. This matter is set forth by this Ṛk and the next. *Te maruto 'vatam* — *avata* means well ('what is guarded'?); among the names of the well the Nighaṇṭu reads *avataḥ, avaṭaḥ*. They *nunudre* — impelled it upward, that is, in whatever way it comes up, by their own strength; they threw it up. So, having uprooted the well and carrying it toward the sage's hermitage, the Maruts on the way even split (*bibhiduḥ*) a mountain that stood grown huge (*dādṛhāṇam*) blocking the path — or a hill of rocks. *Sudānavaḥ* — bountiful; they, blowing (*dhamantaḥ*) the *vāṇa* — a special lute with a hundred strings — making it sound, in the exhilaration of Soma, that is, in joy from drinking Soma, make *raṇyāni* — worthy of praise, delightful — riches: they do it for those who praise them." *Grammar tail, noted briefly:* *dādṛhāṇam* — *dṛha dṛhi vṛddhau*, with *kānac* for *liṭ*; *dhamantaḥ* — *dhmā* with the substitute *dham* by "pāghrā…"; *vāṇam* — from *aṇa/raṇa/vaṇa* in the sense of sound, with *ghañ* in the passive, and the final acute by "karṣātvataḥ"; *raṇyāni* — from *raṇ*, with *ap* by an *upasaṃkhyāna* (Pā. 3-1-[123] [?]), then *yat* in the sense 'being in it' in the Veda, with the first syllable acute by "yato 'nāvaḥ"."
+
+---
+
+**Progress note:** Printed pp. 1–182 done (PDF 16–197) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.9 complete**; **Rik 85.10** — Saṃhitā, Pada, bhāṣya with the Gotama-and-the-well story and its grammatical tail done (pp. 181–182); next: Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of 85.10, then 85.11 and 85.12. Next: printed p. 183 (PDF 198). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
