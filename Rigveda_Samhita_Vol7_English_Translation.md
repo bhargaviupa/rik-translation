@@ -8207,4 +8207,87 @@ Closing of Rik 89.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–296 done (PDF 16–311) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.8 complete**; **Rik 89.9** (Triṣṭubh) done through its Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha (p. 296); next: its English, Special Topics and grammar (p. 297), then **89.10** (*aditir dyaur…*), and the end of Sūkta 89, then **Sūkta 90** (contents table: p. 303). Next: printed p. 297 (PDF 312). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8 (*tuṣṭuvāṃsaḥ/tustu-vāṃsaḥ*), 89.9 (*cakrā/cakra*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292 and 296 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 297 (PDF 312)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 297.)*
+
+**English Translation** *(printed in English in the source; Rik 89.9)*
+
+"O Gods, since only a hundred years were appointed for the life of man at the close of which you cause old age to our bodies and at the close of which the sons become fathers, may you never destroy our life while it is yet running its course." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.9)**
+
+- **शतं शरदः** — "a hundred years. Since the *śarad* season comes only once in a year, a hundred *śarad* seasons means a hundred years. In the Ṛgveda and in the other Vedas the use of the word *śarad* is special for indicating a year."
+- **अन्ति** — *antike* — "in the body, the old age (*vṛddhāpya*) that arises according to the nature of age, an affliction that has come to the head, the weakness."
+- **जरसं तनूनाम्** — "near, in the body."
+- **पुत्रासो यत्र पितरो भवन्ति** — "The bhāṣyakāra, for this sentence — *yatra ca putrāḥ pitaro 'smākaṃ rakṣitāro bhavanti* — says: 'at which stage of old age our sons have to protect us — may we not have such weakness': *let us not become so feeble and infirm as to be, as it were, and to require the paternal care of our own sons* (English, as printed). Rather than this kind of meaning, the sense that is evident in this Ṛk is: 'in the time of our life, or in the last part of life, those who are our sons — those whom we begot — become fathers' — that is, old age: may we not have it."
+- **आयुर्गन्तोः** — *kḷptasyāyuṣo gamanāt pūrvam* — "before the end of the appointed hundred-year measure of life."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.9)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **अन्ति** — the word *antika*; for its final *ka*, by the statement "कादिलोपो बहुलमिति वक्तव्यम्" the loss comes.
+- **यत्र** — the word *yad*; in the locative, by "सप्तम्यास्त्रल्" (Pā. Sū. 5-3-[10]) the affix *tral*; since it has the designation *vibhakti*, by "त्यदादीनामः" the *a* for the *d*, with *pararūpa*; by "ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम्" (Pā. Sū. 6-3-[133]) the lengthening in the Saṃhitā.
+- **चक्र** — the root *ḍukṛñ karaṇe*; *liṭ*, second person plural, the substitute *a* for the affix *tha*; the root is reduplicated; in the reduplicate *uraṭ* [the *a* for the *ṛ*]; *cutva*; *kṛ + a*, the *yaṇ* substitution; since *yatra* is connected before, no *nighāta*; by "द्यौश्चोत्स्तिसः…" [as read] the lengthening in the Saṃhitā; by the affix-accent the final acute.
+- **जरसम्** — the word *jarā*; in the accusative singular, *am* following, by "जरायाः जरसन्यतरस्याम्" (Pā. Sū. 7-2-[101]) the substitute *jaras*.
+- **पुत्रासः** — the word *putra*; with *jas* following, by "आज्जसेरसुक्" the augment *asuk*.
+- **भवन्ति** — the root *bhū sattāyām*; third person plural; since *yatra* is connected before it, no *nighāta*; *śap* is unaccented; the *lasārvadhātuka* *anti* too, coming after a root with no vowel-initial, is unaccented by "तास्यनुदात्तेत्"; so the root's accent remains.
+- **मध्या** — in the locative, *madhya + ṅi*, by "सुपां सुलुक्" the substitute *ḍā*.
+
+---
+
+### Page 298 (PDF 313)
+
+*(Running head: "298 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Vyākaraṇa-prakriyā of Rik 89.9, continued from p. 297 (grammar, noted briefly):*
+
+- **जरसम्** (cont.) — "…the word *jarā*; with the second case-ending *am* following, by "जरायाः जरसन्यतरस्याम्" (Pā. Sū. 7-2-[101]) the substitute *jaras*."
+- **पुत्रासः** — the word *putra*, with *jas* following, by "आज्जसेरसुक्" the augment *asuk* for *jas*.
+- **रीरिषत** — the root *riṣa ruṣa hiṃsāyām*; in the sense of impelling, by "हेतुमति च" the affix *ṇic*; by "पुगन्तलघूपधस्य च" the *guṇa* of the *laghūpadha*; by "सनाद्यन्ता धातवः" it gets the designation of a root; in the sense of the past, *luṅ*, third person plural [as read: "*prathamapuruṣa ekavacana*", the *ta* affix]; by "णिश्रिद्रुस्रुभ्यः कर्तरि चङ्" (Pā. Sū. 3-1-[48]) *caṅ* in place of *cli*; by "चङि" (Pā. Sū. 6-1-[11]) the reduplication of the first single-vowel part of the root; the reduplicate keeps its *hal*-initial; by "णौ चङ्युपधाया ह्रस्वः" (Pā. Sū. 7-4-[1]) the shortening of the penultimate of the root; then, since *sanvat* [*laghuni caṅpare ṇau*] — the reduplicate's vowel is light, with *caṅ* following *ṇi* — the *sanvadbhāva*; by "सन्यतः" the *i* in the reduplicate; by "दीर्घो लघोः" the lengthening; by "णेरनिटि" the loss of *ṇi* because of *caṅ*; since it is in connexion with *mā*, by "न माङ्योगे" the augment *aṭ* does not come; since it follows an *atiṅanta*, the *nighāta*; by Vedic usage a shortening at the pada-stage [is not] made.
+- **गन्तोः** — the root *gamḷ gatau*; by "भावलक्षणे स्थेण्कृञ्…" (Pā. Sū. 3-4-[16]) the affix *tosun* in the abstract sense; by "क्त्वातोसुन्कसुनः" (Pā. Sū. 1-1-[40]) it gets the designation of an indeclinable; since it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+
+Closing of Rik 89.9: "॥ ९ ॥" (9), followed by a printer's ornament.
+
+---
+
+### Page 299 (PDF 314)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 299.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.10)** *(Triṣṭubh — the last Ṛk; Viśvedevas; accents not reproduced)*
+
+> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
+> विश्वे देवा अदितिः पञ्च जना अदितिर्जातमदितिर्जनित्वम् ॥ १० ॥
+
+*aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañca janā aditir jātam aditir janitvam ‖ 10 ‖*
+
+*Gloss, mine and tentative:* "Aditi is heaven, Aditi the atmosphere; Aditi is the mother, she the father, she the son; Aditi is all the gods, the five peoples; Aditi is what is born, Aditi what is to be born."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.10)**
+
+> अदितिः । द्यौः । अदितिः । अन्तरिक्षम् । अदितिः । माता । सः । पिता । सः । पुत्रः ।
+> विश्वे । देवाः । अदितिः । पञ्च । जनाः । अदितिः । जातम् । अदितिः । जनिऽत्वम् ॥ १० ॥
+
+*aditiḥ | dyauḥ | aditiḥ | antarikṣam | aditiḥ | mātā | saḥ | pitā | saḥ | putraḥ | viśve | devāḥ | aditiḥ | pañca | janāḥ | aditiḥ | jātam | aditiḥ | jani-tvam ‖ 10 ‖*
+
+**॥ विनियोगः ॥ — Application note (Viniyoga), in Sanskrit**
+
+> अदितिर्द्यौरदितिरित्येषादितिदेवताके पशौ हविषो याज्या । सूत्रितं च । अदितिर्द्यौरदितिरन्तरिक्षं न ते विष्णो जायमानो न जातः । आ. ३-९ [?] । इति ॥
+
+*aditir dyaur aditir ity eṣāditidevatāke paśau haviṣo yājyā | sūtritaṃ ca | aditir dyaur aditir antarikṣaṃ na te viṣṇo jāyamāno na jātaḥ | Ā. 3-9 [?] | iti ‖*
+
+*Translation:* "The Ṛk *aditir dyaur aditiḥ* is the *yājyā* for the oblation in the animal sacrifice whose deity is Aditi; and it is prescribed: '*aditir dyaur aditir antarikṣaṃ na te viṣṇo jāyamāno na jātaḥ*' (Āś. [3-9] [?])." *(numerals read with doubt.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.10)** *(Kannada script; dense; the grammatical tail is compressed [?])*
+
+> अदितिर्दीनाखण्डनीया वा पृथिवी देवमाता वा स्वैव द्यौर्द्योतनशीलो नाकः । स्वैवान्तरिक्षमन्तरा द्यावापृथिव्योर्मध्य ईक्ष्यमाणं व्योम । स्वैव माता निर्मात्री जगतो जननी । स्वैव पितोत्पादकः । तत्तश्च स पुत्रो मातापित्रोर्जातः पुत्रो ऽपि स्वैव । विश्वे देवाः सर्वे ऽपि देवा अदितिरेव । पञ्च जना निषादपञ्चमाश्चत्वारो वर्णाः । यद्वा । गन्धर्वाः पितरो देवा असुरा रक्षांसि । तदुक्तं यास्केन । गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः । नि. ३-८ [?] । इति । ब्राह्मणे त्वेवमाम्नातं । सर्वेषां वा एतत्पञ्चजनानामुक्थं देवमनुष्याणां गन्धर्वाप्सरसां सर्पाणां च पितॄणां च । ऐ. ब्रा. ३-१० [?] । इति । तत्र गन्धर्वाप्सरसाम्यैक्यात्पञ्चजनत्वं । एवंविधाः पञ्च जना अप्यदितिरेव । जातं जननं प्रजानामुत्पत्तिः सापि अदितिरेव । जनित्वं जन्माधिकरणं तदपि अदितिरेव । एवं सकलजगदात्मना अदितिः स्तूयते । उक्तं च यास्केन । इत्यदितेर्विभूतिमाचष्टे । नि. ४-२२ [?] । इति ॥ अदितिः । दो अवखण्डने । अस्मात्क्रमर्णि क्तिनि व्यत्यस्तिमास्थाम् । पा. ३-१-४० [?] । इतीत्वं । यास्कपक्षे तु दीञ् क्षये इत्यस्मात् क्तिनि व्यत्ययेन ह्रस्वत्वं । नञ्सुभ्यामित्यव्ययपूर्वपदप्रकृतिस्वरत्वं । स पिता । निर्दिश्यमानप्रतिनिर्दिश्यमानयोरेकतामापादयन्ति सर्वनामानि पर्यायेण तल्लिङ्गतामुपादद्त इत्युद्देश्यलिङ्गतया पुल्लिङ्गत्वं । जनित्वं । जनेरौणादिकस्त्वप्रत्ययः ॥
+
+*aditir dīnākhaṇḍanīyā vā pṛthivī devamātā vā svaiva dyaur dyotanaśīlo nākaḥ | svaivāntarikṣam antarā dyāvāpṛthivyor madhya īkṣyamāṇaṃ vyoma | svaiva mātā nirmātrī jagato jananī | svaiva pitotpādakaḥ | tatas ca sa putro mātāpitror jātaḥ putro 'pi svaiva | viśve devāḥ sarve 'pi devā aditir eva | pañca janā niṣādapañcamāś catvāro varṇāḥ | yadvā | gandharvāḥ pitaro devā asurā rakṣāṃsi | tad uktaṃ yāskena | gandharvāḥ pitaro devā asurā rakṣāṃsīty eke catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ | Ni. 3-8 [?] | iti | brāhmaṇe tv evam āmnātaṃ | sarveṣāṃ vā etat pañcajanānām uktham devamanuṣyāṇāṃ gandharvāpsarasāṃ sarpāṇāṃ ca pitṝṇāṃ ca | Ai. Brā. 3-10 [?] | iti | tatra gandharvāpsarasām aikyāt pañcajanatvaṃ | evaṃvidhāḥ pañca janā apy aditir eva | jātaṃ jananaṃ prajānām utpattiḥ sāpy aditir eva | janitvaṃ janmādhikaraṇaṃ tad apy aditir eva | evaṃ sakalajagadātmanā aditiḥ stūyate | uktaṃ ca yāskena | ity aditer vibhūtim ācaṣṭe | Ni. 4-22 [?] | iti ‖ aditiḥ | do avakhaṇḍane | asmāt kramarṇi ktini vyatyastimāsthām | Pā. 3-1-40 [?] | itītvaṃ | yāskapakṣe tu dīñ kṣaye ity asmāt ktini vyatyayena hrasvatvaṃ | nañsubhyām ity avyayapūrvapadaprakṛtisvaratvaṃ | sa pitā | nirdiśyamānapratinirdiśyamānayor ekatām āpādayanti sarvanāmāni paryāyeṇa tallingatām upādadata ity uddeśyaliṅgatayā pulliṅgatvaṃ | janitvam | janer auṇādikas tvapratyayaḥ ‖*
+
+*(Kannada script; the tail is compressed; "kramarṇi", "vyatyastimāsthām" and the Pāṇini numeral are read with doubt [?]; the Nirukta and Aitareya numerals are small and uncertain [?].)*
+
+*Translation:* "Aditi — the not-poor, the unbroken one, or the earth, or the mother of the gods — is herself *dyauḥ*, heaven, the shining *nāka*; she herself is *antarikṣam*, the sky seen between heaven and earth; she herself is *mātā*, the maker of the world, the mother; she herself the father, the begetter; and she is also *putraḥ*, the son born of mother and father. *Viśve devāḥ* — all the gods are Aditi herself. *Pañca janāḥ* — the five peoples: the four castes with the Niṣādas as the fifth; or the Gandharvas, Pitṛs, gods, Asuras and Rākṣasas. Yāska has said (Ni. [3-8] [?]): 'the Gandharvas, Pitṛs, gods, Asuras, Rākṣasas', say some; 'the four castes and the Niṣāda as fifth', says Aupamanyava. In the Brāhmaṇa it is said: 'this is the *uktha* of all the five peoples — gods, men, Gandharvas and Apsarases, serpents, and Pitṛs' (Ai. Brā. [3-10] [?]); there the Gandharvas and Apsarases count as one, hence five peoples. Such five peoples too are Aditi. *Jātam* — birth, the birth of creatures, is Aditi; *janitvam* — the place of birth, that too is Aditi. Thus Aditi is praised as the self of all the world. And Yāska has said (Ni. [4-22] [?]): 'thus he declares the greatness of Aditi.' *Grammar tail, noted briefly:* *aditiḥ* — *do avakhaṇḍane* with *ktin* (the *i* by 'vyatyasti…'); on Yāska's view, from *dīñ kṣaye* with *ktin* and shortening; the first member keeps its accent by 'nañsubhyām'; *sa pitā* — pronouns take the gender of the thing indicated; *janitvam* — the Uṇādi affix *tva* after *jan*."
+
+---
+
+**Progress note:** Printed pp. 1–299 done (PDF 16–314) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.9 complete**; **Rik 89.10** (the last, Triṣṭubh; Aditi's all-embracing verse) — Saṃhitā, Pada, application note and bhāṣya with its grammatical tail done (p. 299); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar (p. 300 on), the end of Sūkta 89 (about p. 302), then **Sūkta 90** (contents table: p. 303). Next: printed p. 300 (PDF 315). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293, 299 [?]; Nirukta and Aitareya numerals on p. 299 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
