@@ -344,4 +344,92 @@
 
 ---
 
-**Progress note:** The Pīṭhike (folios i–ix, PDF 6–14) is **complete**; its signature block is dated Mysore, 19-3-1950. Next: the Seventh Adhyāya from PDF 21 (printed p. 1, the unnumbered title page; Sūkta 95 heading on printed p. 3 = PDF 23 as the contents table suggests, to be confirmed). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–vii read from small print, with clotted words [?] (the Śatapatha passage on folios iv–v, the Taittirīya Brāhmaṇa opening clause, *tritas tv airṇatamo*, *yad īm aha trito…*); the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folios vi–viii from small digits [?].
+## ॥ सप्तमोऽध्यायः ॥ — THE SEVENTH ADHYĀYA OF THE FIRST AṢṬAKA
+
+### Page 1 (PDF 21)
+
+*(Title page of the Seventh Adhyāya; no running head, no folio.)*
+
+॥ ॐ ॥ ॥ श्रीः ॥ ॥ श्री महागणाधिपतये नमः ॥ — *Oṃ. Śrīḥ. Śrī mahāgaṇādhipataye namaḥ.* — "Oṃ. Prosperity. Salutation to the glorious Lord of the Gaṇas." *(An Oṃ-emblem in a ring of rays stands above.)*
+
+Invocation verses (six lines; the same invocation as at the head of the earlier adhyāyas):
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे । यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् । निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः । तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+*vāgīśādyāḥ sumanasaḥ sarvārthānām upakrame | yaṃ natvā kṛtakṛtyāḥ syus taṃ namāmi gajānanam ‖*
+*yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tam ahaṃ vande vidyātīrthamaheśvaram ‖*
+*vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmāt sarvaprayatnena vedam eva sadā japet ‖*
+
+*Translation (the same verses as in the earlier volumes, editorial and tentative):* "May the gods headed by Vāgīśa (Brahmā), by bowing to whom, at the beginning of all undertakings, [one] would be successful — to him I bow, the elephant-faced one. Him whose breath the Vedas are, who out of the Vedas fashioned the whole world — to him, Maheśvara, the holy ford of learning, I bow. The Veda is Śiva, Śiva is the Veda; the student of the Veda is Sadāśiva; therefore, with all effort, one should always recite the Veda alone."
+
+Title block:
+
+> सायणभाष्यसहिता — *sāyaṇabhāṣyasahitā* — "With Sāyaṇa's commentary"
+> ऋग्वेद संहिता — *ṛgveda saṃhitā* — "Ṛgveda Saṃhitā"
+> भाग—८ — *bhāga 8* — "Part 8"
+> ॥ प्रथमाष्टके सप्तमोऽध्यायः ॥ — *prathamāṣṭake saptamo 'dhyāyaḥ* — "In the first aṣṭaka, the seventh adhyāya"
+> ॥ ಮೊದಲನೆಯ ಅಷ್ಟಕದಲ್ಲಿ ಏಳನೆಯ ಅಧ್ಯಾಯವು ॥ — *modalaneya aṣṭakadalli ēḷaneya adhyāyavu* — "In the first aṣṭaka, the seventh adhyāya."
+> ॥ श्री गणेशायनमः ॥ — *śrī gaṇeśāya namaḥ* — "Salutation to the glorious Gaṇeśa."
+
+> यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
+> *yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tam ahaṃ vande vidyātīrthamaheśvaram ‖*
+
+*(The verse is repeated here as printed.)*
+
+**Sāyaṇa's introduction to Sūkta 95 (Sanskrit in Kannada script; the first lines on this page, continued on p. 2):**
+
+> प्रथमे मण्डले पञ्चदशेऽनुवाके प्रथमं सूक्तं व्याख्यातं । द्वे विरूपे इत्येकादशर्चं द्वितीयं सूक्तं । अत्रानुक्रम्यते । द्वे एकादशौषसाय वाग्नेयं
+> *prathame maṇḍale pañcadaśe 'nuvāke prathamaṃ sūktaṃ vyākhyātaṃ | dve virūpe ity ekādaśarcaṃ dvitīyaṃ sūktaṃ | atrānukramyate | dve ekādaśauṣasāya vāgneyaṃ* *(the sentence continues on p. 2)*
+
+### Page 2 (PDF 22)
+
+*(Running head: left 2; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+*Sāyaṇa's introduction, continued:*
+
+> इति । ऋषिश्चान्यस्मादिति परिभाषयेह कुत्सस्यानुवृत्तेरांगिरसः कुत्सऋषिः । अनादेशपरिभाषया त्रिष्टुप् छन्दः । उषसि प्रातःकाले हविर्भाग्योऽग्निरस्ति स देवता । यद्वा । आग्नेयं तदिति पूर्वोक्तेरुक्तत्वात्तु ह्यादिपरिभाषयेदमादीनि पञ्च सूक्तानि केवलाग्निदेवत्यानि । अतोऽस्य सूक्तस्यौषसगुणविशिष्टोऽग्निः शुद्धोऽग्निर्वा देवतेति वाशब्दार्थः ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदमादिके द्वे सूक्ते । तथा च सूत्रितमथैतस्या इति खण्डे । द्वे विरूपे इति सूक्ते । आ. ४-१३ [?] । इति ॥ अश्विनशस्त्रे चैते प्रातरनुवाकन्यायेन तस्यैव समाम्नायस्य । आ. ६-५ [?] । इत्यतिदिष्टत्वात् ॥
+
+*iti | ṛṣiś cānyasmād iti paribhāṣayeha kutsasyānuvṛtter āṅgirasaḥ kutsa ṛṣiḥ | anādeśaparibhāṣayā triṣṭup chandaḥ | uṣasi prātaḥkāle havirbhāgyo 'gnir asti sa devatā | yadvā | āgneyaṃ tad iti pūrvokter uktatvāt tu hy ādiparibhāṣayedam ādīni pañca sūktāni kevalāgnidevatyāni | ato 'sya sūktasyauṣasaguṇaviśiṣṭo 'gniḥ śuddho 'gnir vā devateti vāśabdārthaḥ ‖ prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādike dve sūkte | tathā ca sūtritam athaitasyā iti khaṇḍe | dve virūpe iti sūkte | Āś. 4-13 [?] | iti ‖ aśvinaśastre caite prātaranuvākanyāyena tasyaiva samāmnāyasya | Āś. 6-5 [?] | ity atidiṣṭatvāt ‖*
+
+*Sense (mine, from the Kannada that follows):* "…so [the Anukramaṇī says]. By the rule 'and the ṛṣi from the other' the ṛṣi of this sūkta is Kutsa Āṅgirasa, by continuation (*anuvṛtti*) of Kutsa [from the preceding]; by the rule of 'no (other) assignment' the metre is Triṣṭubh. The deity is Agni, who is the sharer of the oblation at the time of Uṣas, in the morning. Or: since 'for Agni' has been said in the earlier statement, by the rule beginning 'tu hi' [?] the five sūktas beginning with this one are addressed to Agni alone; therefore the word *vā* ('or') means: for this sūkta the deity is either Agni endowed with the character of the dawn, or the pure Agni. These two sūktas beginning with this one, in the Triṣṭubh metre, belong to the Āgneya *kratu* of the *Prātaranuvāka*; and so it is laid down in the section beginning *athaitasyāḥ*: 'the sūktas *dve virūpe*' (Āś. 4-13 [?]). These are also (used) in the Aśvina-śastra, by the rule of the Prātaranuvāka, as it is extended to that same recitation (Āś. 6-5 [?])."
+
+**Anuvāda (Kannada):** "In the fifteenth anuvāka of the first maṇḍala, the first sūkta was explained in the previous adhyāya. In this anuvāka, *dve virūpe* is the second sūkta. It has eleven Ṛks. In the Anukramaṇikā it is said '*dve ekādaśauṣasāya vāgneyaṃ*'. As said before, for this sūkta too the ṛṣi is Kutsa Āṅgirasa. The metre is Triṣṭubh. The deity is Agni, the sharer of the oblation at the time of Uṣas (dawn); or, as said earlier in the Anukramaṇikā, five sūktas from this one have Agni as deity; therefore the word *vā* ('or') shows that the deity of this sūkta is either the Agni who is to be worshipped at the time of Uṣas, or Agni alone, whichever of the two it may be. When the Ṛks of the Triṣṭubh metre that belong to the Āgneya *kratu* are to be recited at the time of the recitation of the Prātaranuvāka mantras, this sūkta and the next have application. This matter is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning *athaitasyāḥ*, by the sūtra *dve virūpe iti sūkte* (Āś. 4-13 [?]). And it is explained in the Āśvalāyana Śrauta-sūtra itself that these two sūktas are to be used also, at the time of the recitation of the Aśvina-śastra mantras, at the time of reciting the Prātaranuvāka mantras (Āś. 6-5 [?])."
+
+*(A printer's ornament follows.)*
+
+### Page 3 (PDF 23)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right: 3.)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ९५ (Sūkta 95)**
+
+॥ मण्डल—१ ॥ अनुवाक—१५ ॥ सूक्त—९५ ॥ — *Maṇḍala 1; Anuvāka 15; Sūkta 95.*
+॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—१, २ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "1, 2" as read, doubtful [?].*
+*Number of Ṛks in the sūkta:* 11. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* *agnir agnir auṣasyo vā* (as printed; presumably "Agni, or the Agni of the dawn", the first word repeated by the print [?]). *Chandas:* Triṣṭubh.
+
+### Rik 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.1)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> द्वे विरूपे चरतः स्वर्थे अन्यान्या वत्समुप धापयेते ।
+> हरिरन्यस्यां भवति स्वधावाञ्छुक्रो अन्यस्यां ददृशे सुवर्चाः ॥ १ ॥
+
+*dve virūpe carataḥ svarthe anyānyā vatsam upa dhāpayete | harir anyasyāṃ bhavati svadhāvāñ chukro anyasyāṃ dadṛśe suvarcāḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.1)**
+
+> द्वे इति । विरूपे इति विऽरूपे । चरतः । स्वर्थे इति सुऽअर्थे । अन्याऽअन्या । वत्सम् । उप । धापयेते इति ।
+> हरिः । अन्यस्याम् । भवति । स्वधाऽवान् । शुक्रः । अन्यस्याम् । ददृशे । सुऽवर्चाः ॥ १ ॥
+
+*dve iti | virūpe iti vi-rūpe | carataḥ | svarthe iti su-arthe | anyā-anyā | vatsam | upa | dhāpayete iti | hariḥ | anyasyām | bhavati | svadhā-vān | śukraḥ | anyasyām | dadṛśe | su-varcāḥ ‖ 1 ‖*
+
+*(Reading note, now that the Pada has been viewed: the Saṃhitā's* anyānyā *is the Pada's* anyā-anyā*;* dve virūpe *and* svarthe *are given in the Pada with the dual marker* iti*; Saṃhitā* svadhāvāñ chukro *is the Pada's* svadhā-vān | śukraḥ*.)*
+
+---
+
+**Progress note:** Printed pp. 1–3 done (PDF 21–23): the title page and Sāyaṇa's introduction to Sūkta 95 (*dve virūpe*; 11 Ṛks; Kutsa Āṅgirasa; Triṣṭubh; Agni, or the Agni of the dawn; 15th Anuvāka), the Anuvāda, the heading block, and Rik 95.1 (Saṃhitā and Pada). Next: printed p. 4 (PDF 24) — the Sāyaṇa-bhāṣya of Rik 95.1. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (Sūkta starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–vii read from small print, with clotted words [?]; the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folios vi–viii [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 (*agnir agnir auṣasyo vā*) [?].
