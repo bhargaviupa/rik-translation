@@ -7399,4 +7399,79 @@ Closing of Rik 88.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–266 done (PDF 16–281) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete** (88: six Ṛks, ended on p. 264, no closing line in the print). **Sūkta 89** (ten Ṛks: 1–5, 7 Jagatī; 6 Virāṭsthānā; 8–10 Triṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, fifth sūkta; application: Agniṣṭoma *vaiśvadeva-śastra*, last Ṛk the *paridhānīyā*, and *mahāvrata niṣkevalya*; begins p. 264; printed pp. 264–302): heading, introduction and Anuvāda done; **Rik 89.1** — Saṃhitā, Pada and the main sense of the bhāṣya done; its grammatical tail continues on p. 267. Next: printed p. 267 (PDF 282). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages incl. 245–246, 248–250, 253, 256, 259, 261, 263 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; p. 249 note; p. 252 grammar-tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed (e.g. "navakā vairājas triṣṭubhaś ca", "anu-5"); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 267 (PDF 282)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 267.)*
+
+*Grammatical tail of the bhāṣya of Rik 89.1, concluded from p. 266 (Kannada script; characterized):*
+
+> वृधे । वृधु वृद्धौ । सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् । असन् । अस भुवि । लेट्यडागमः । बहुलं छन्दसीति शपो लुगभावः । तस्याजित्त्वात् श्नसोरल्लोप इत्यकारलोपाभावः । अप्रायुवः । इण् गतौ । अस्मात्प्रे पूर्वाच्छन्दसीण …(उ. १-३) इत्युप्रत्ययः । नञ्सुभ्यामित्यव्ययपूर्वपदप्रकृतिस्वरत्वम् । जसि जसादिषु छन्दसि वावचनमिति गुणस्य विकल्पितत्वादभावे तस्नादित्वादुवङ् ॥
+
+*vṛdhe | vṛdhu vṛddhau | sampadādilakṣaṇo bhāve kvip | sāv ekāca iti vibhakter udāttatvam | asan | asa bhuvi | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapo lugabhāvaḥ | tasyājittvāt śnasor allopa ity akāralopābhāvaḥ | aprāyuvaḥ | iṇ gatau | asmāt pre pūrvāc chandasīṇ … (Uṇ. 1-3 [?]) ity u-pratyayaḥ | nañsubhyām ity avyayapūrvapadaprakṛtisvaratvam | jasi jasādiṣu chandasi vāvacanam iti guṇasya vikalpitatvād abhāve tasnāditvād uvaṅ ‖*
+
+*(compressed; sūtra and numeral partly clotted [?]).* *Noted briefly:* *vṛdhe* — *kvip* in the abstract sense, case-ending acute; *asan* — *leṭ* of *as*, with *aṭ*, *śap* not elided; *aprāyuvaḥ* — *iṇ gatau* preceded by *pra*, affix *u* (Uṇ. 1-[3] [?]), first member an indeclinable keeps its accent; *uvaṅ* before *jas*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.1)** *(Kannada)*
+
+*yathā* — in whatever way; *aprāyuvaḥ* — not abandoning (the devotees whom they should protect); *dive dive* — every day; *rakṣitāraḥ* — protectors (of the sacrificers); *devāḥ* — all the gods; *naḥ* — for us; *sadam it* — always; *vṛdhe* — for the cause of growth; *asan* — may they be; *tathā* — in that way; *bhadrāḥ* — auspicious or worshipful; *adabdhāsaḥ* — unharmed (by enemies); *aparītāsaḥ* — unobstructed (by enemies); *udbhidaḥ* — destroyers of enemies; *kratavaḥ* — great sacrifices (Agniṣṭoma and the like); *naḥ* — towards us; *viśvataḥ* — from all quarters; *ā yantu* — may they come.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.1** *(Kannada)*
+
+"In whatever way the gods, who never abandon their devotee the sacrificer but protect him day by day, are always causes of our growth — in that way, may the great sacrifices such as the Agniṣṭoma, auspicious, unharmed by enemies, unobstructed, and destroyers of enemies, come to us from all quarters."
+
+**English Translation** *(printed in English in the source)*
+
+"May auspicious work (or excellent wisdom) unmolested, unimpeded, and unconquered come to us from every quarter; may the gods not turning away from us but granting us protection day by day be, ever with us for our advancement." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.1)**
+
+"The deities of this sūkta and of the following sūkta are the Viśvedevas. Some say that 'Viśvedevas' means a group belonging to one particular deity; others that it means all the deities. Yāska says '*viśve devāḥ sarve devāḥ*' (Ni. [12-?] [?]). On this matter see what we have written in Ṛ. Saṃ. Part 3, pp. 49–50. This sūkta has been used for the recitation of the *śānti* mantras [as printed, "śāntika"?]."
+
+---
+
+### Page 268 (PDF 283)
+
+*(Running head: "268 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Special Topics of Rik 89.1, continued from p. 267:*
+
+"In the Ṛgveda there are, besides the Ṛks in various places that are addressed to the Viśvedevas, a number of whole sūktas with the Viśvedevas as their deity: in the first maṇḍala, the sūktas numbered [as read] 3, 14, 23, 30, 89, 90, 186 … [?]; in the second maṇḍala, sūktas 3 and 31; in the third maṇḍala, sūkta 54 [?]; in the fourth maṇḍala, sūkta 55 [?]; in the fifth maṇḍala, sūktas [41, 42, 43 …] [?]; in the sixth maṇḍala, [49, 50, 51, 52 …] [?]; in the seventh maṇḍala, [34, 35, 36, 37 …] [?]; in the eighth maṇḍala, [27, 28, 29, 30 …] [?]; in the tenth maṇḍala, [56, 57, 58 … and others] [?] — these sūktas are addressed to the Viśvedevas." *(The long run of sūkta numbers is in small Kannada numerals, read only partly; the above list is the sense and is not given as a verified enumeration [?].)*
+
+- **अदब्धासः** — *dambhu dambhe | dambho hiṃsā | adabdhāso 'suraiḥ ahiṃsitāḥ* — "not harmed by the Asuras; those by whom the Asuras cannot do harm."
+- **अपरीतासः** — *iṇ gatau | śatrubhir aparigatāḥ* — "free from obstruction by enemies; hard for enemies to approach."
+- **उद्भिदः** — *śatrūṇām udbhettāraḥ* — "destroyers of enemies. Skandasvāmin explains this word: '*udbhinnā ity ekāhaḥ, tat prabhṛtayaḥ | athavā udbhindanti phalānīty udbhidaḥ | janayitāraḥ phalānām*' — '*udbhid* is a day-sacrifice, one of the *ekāha*s, and those beginning with it; or those who split forth fruits: producers of fruits.' So he explains: the one-day sacrifice of the name *udbhid*, and the like, or 'those who bring forth the fruit of sacrificial acts'." *(Sanskrit of Skandasvāmin as read, partly clotted [?].)*
+- **सदमित्** — *sadyaiva* — "always, at all times."
+- **अप्रायुवः** — *iṇ gatau | apragacchantaḥ svakīyaṃ rakṣitavyam aparityajantaḥ* — "not abandoning the sacrificers they must protect, not neglecting them."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **यन्तु** — the root *iṇ gatau*, Adādi; *loṭ*, third person plural; by "झोऽन्तः" the substitute *ant*; by "एरुः" the *u* for the *i*; by "इणो यण्" (Pā. Sū. 6-4-[81]) the *yaṇ* substitute for the *i* of the root; the *nighāta* of the *tiṅanta*.
+- **अदब्धासः** — the root *dambhu dambhe*; *dambha* means harm; by "निष्ठा" the affix *kta*; since "यस्य विभाषा" (Pā. Sū. 7-2-[15]) applies, the augment *iṭ* does not come; by "अनिदितां हल उपधायाः क्ङिति" the loss of the penultimate nasal; *na dabdhāḥ adabdhāḥ*; in the *nañ*-*tatpuruṣa*, by "अव्ययं नञ् कुत्सितापदानाम्" … the first member, an indeclinable, keeps its accent; in the nominative plural, by "आज्जसेरसुक्" the augment *asuk*; *ru* and *visarga*.
+
+---
+
+### Page 269 (PDF 284)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 269.)*
+
+*Vyākaraṇa-prakriyā of Rik 89.1, concluded from p. 268 (grammar, noted briefly):*
+
+- **अपरीतासः** — the root *iṇ gatau*; as before, *kta* in the passive; *pari + ita*; first member an indeclinable, as before; *asuk* in the nominative plural.
+- **वृधे** — the root *vṛdha vṛddhau*; since it is read in the *sampadādi* list, by "सम्पदादिभ्यः क्विप्" the affix *kvip* in the abstract sense; the word *vṛdh*; dative singular; since it is a monosyllable, by "सावेकाचस्तृतीयादिः" the case-ending is acute.
+- **असन्** — the root *as bhuvi*; *leṭ*, third person plural, the affix *jhi*; by "झोऽन्तः" the substitute *ant*; by "इतश्च लोपः परस्मैपदेषु" the loss of the *i*; by "लेटोऽडाटौ" the augment *aṭ*; by "बहुलं छन्दसि" the *luk* of *śap* does not occur; since it is *jit* [as printed], *śnasor allopaḥ* (Pā. Sū. 6-4-[111]) does not take away the *a* of the root; since it stands at the beginning of a *pāda*, no *nighāta*; *śap* is *pit*, unaccented; by "तास्यनुदात्तेत्" the *lasārvadhātuka* is unaccented; the root's accent: first syllable acute.
+- **अप्रायुवः** — the root *iṇ gatau*, with the preposition *pra* before it; by "छन्दसीणः" (Uṇ. Sū. 1-[3]) the affix *uṇ* in the Saṃhitā; since it is *ṇit*, by "अचो ञ्णिति" the *vṛddhi* of the root; *āy*-substitution; the word *prāyu*; *na prāyuḥ aprāyuḥ*; in the *nañ*-*tatpuruṣa*, by "तत्पुरुषे तुल्यार्थ…" the first member, an indeclinable, keeps its accent; with *jas* following *aprāyu*, by "जसादिषु छन्दसि वा वचनम्" the *guṇa* is optional, and since *guṇa* does not come here, by its being in the *tanvādi* list the *uvaṅ* substitute; the form *aprāyuvaḥ*.
+
+Closing of Rik 89.1: "॥ १ ॥" (1).
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.2)** *(Jagatī; Viśvedevas; accents not reproduced)*
+
+> देवानां भद्रा सुमतिर्ऋजूयतां देवानां रातिरभि नो नि वर्तताम् ।
+> देवानां सख्यमुप सेदिमा वयं देवा न आयुः प्र तिरन्तु जीवसे ॥ २ ॥
+
+*devānāṃ bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no ni vartatām | devānāṃ sakhyam upa sedimā vayaṃ devā na āyuḥ pra tirantu jīvase ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "The good favour of the gods is for those who walk straight; may the gods' gift turn towards us; we have come to the friendship of the gods; may the gods lengthen our life that we may live."
+
+---
+
+**Progress note:** Printed pp. 1–269 done (PDF 16–284) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks: 1–5, 7 Jagatī; 6 Virāṭsthānā; 8–10 Triṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Rik 89.1 complete**; **Rik 89.2** — Saṃhitā done (foot of p. 269). Next: printed p. 270 (PDF 285): Pada and bhāṣya of 89.2. The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on many pages; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; p. 267 tail clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
