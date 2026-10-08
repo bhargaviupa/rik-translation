@@ -5822,4 +5822,97 @@ Closing of Rik 86.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–209 done (PDF 16–224) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.7 complete**; **Rik 86.8** done through its English (p. 209); next: its Special Topics and grammar page, then 86.9 and 86.10 (the sūkta ends about p. 214). Next: printed p. 210 (PDF 225). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā "vidā" vs Pada "vida" in 86.8; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 210 (PDF 225)
+
+*(Running head: "210 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.8)**
+
+- **शशमानस्य** — *śaṃsu stutau | stutikaraṇaśīlasya* — "of the sacrificer who praises you."
+- **नरः** — *netāraḥ* — "leaders, chiefs, foremost ones."
+- **सत्यशवसः** — "among the twenty-seven names of strength — *ojaḥ, pājaḥ* and the rest — the word *śavas* is read; *śavaḥ* means strength. *Satyaṃ śavo yeṣāṃ te satyaśavasaḥ* — those who have true, or excellent, strength: that is the intention."
+- **स्वेदस्य** — "*sveda* means perspiration. *Svedasya* means: of the sacrificer who has worshipped you with praises and the like, and who is covered with the sweat that arose from the exertion."
+- **वेनतः** — *venatiḥ kāntikarmā* — "one who desires: that is, the sacrificer who desires to praise you."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.8)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **शशमानस्य** — the root *śaśa plutagatau*; in the sense of habit, by "ताच्छील्यवयोवचनशक्तिषु चानश्" (Pā. Sū. 3-2-[129]) the affix *cānaś*; by "आने मुक्" the augment *muk*; since it is *cit*, by "चितः" the final acute; genitive singular.
+- **स्वेदस्य** — the root *ñiṣvidā gātrapraksaraṇe*; when the sense of *ṇic* (impelling) is included in the meaning of the root, the affix *ghañ* in the passive; because the affix is *ārdhadhātuka*, the *guṇa* of the *laghūpadha* of the root; the *ṣ* of the root becomes *s*; by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+- **सत्यशवसः** — *satyaṃ śavo yeṣāṃ te satyaśavasaḥ*; the vocative plural; by "आमन्त्रितस्य च" the *nighāta* accent.
+- **विदा** — the root *vidḷ lābhe*; *loṭ*, second person plural, for the affix by *vyatyaya* the substitute *jha*; by "बहुलं छन्दसि" the *luk* of the *vikaraṇa*; by "आत्मनेपदेष्वनतः" (*ātmanepadeṣv anataḥ*) the *at* substitute for *jha*, because the preceding letter is not *a*; by "सार्वधातुकमपित्" since the affix is *ṅit*, no *guṇa* for the *laghūpadha*; the word *vinta*? [as read: "*vinata*"]; by "लोपस्त आत्मनेपदेषु" (Pā. Sū. 7-1-41) the loss of the *t* of the affix; since it stands at the beginning of a *pāda*, no *nighāta*; by the affix-accent the *a* after *n* is acute; since the form is *vida*, by "व्येचोऽतिङः" (Pā. Sū. 6-3-[135] [?]) the final syllable is lengthened because the word is two-syllabled [*dvyac*]. *(The sūtra and the reasoning on* vidā *are read with doubt [?]; the clipped print does not allow a closer reading.)*
+
+---
+
+### Page 211 (PDF 226)
+
+*(Running head left: "A. 1 A. 6 Va. 12 [?]"; centre: "Ṛgvedasaṃhitā"; right: 211.)*
+
+*Vyākaraṇa-prakriyā of Rik 86.8, concluded from p. 210:*
+
+- **कामस्य** — genitive singular; since it is read in the *vṛṣādi* list, by "वृषादीनां च" (Pā. Sū. 6-1-[203]) the first syllable acute; by the statement "क्रियाग्रहणं कर्तव्यम्" in the sūtra that gives the rule for the *sampradāna*, the object receives the designation *sampradāna*; so the genitive (*ṣaṣṭhī*) comes in the sense of the dative.
+
+Closing of Rik 86.8: "॥ ८ ॥" (8), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.9)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> यूयं तत्सत्यशवस आविष्कर्त महित्वना ।
+> विध्यता विद्युता रक्षः ॥ ९ ॥
+
+*yūyaṃ tat satyaśavasa āviṣkarta mahitvanā | vidhyatā vidyutā rakṣaḥ ‖ 9 ‖*
+
+*Gloss, mine and tentative:* "You, O true-mighty ones, bring that [might] to light by your greatness; with the lightning pierce the demon."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.9)**
+
+> यूयम् । तत् । सत्यऽशवसः । आविः । कर्त । महिऽत्वना ।
+> विध्यत । विऽद्युता । रक्षः ॥ ९ ॥
+
+*yūyam | tat | satya-śavasaḥ | āviḥ | karta | mahi-tvanā | vidhyata | vi-dyutā | rakṣaḥ ‖ 9 ‖*
+
+*(The Saṃhitā prints* vidhyatā*, the Pada* vidhyata*; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.9)**
+
+> हे सत्यशवसः सत्यबला अन्यैरप्रधृष्यबला मरुतो यूयं तद्वृत्रवधादिषु प्रसिद्धं युष्मदीयं माहात्म्यमाविष्कर्त । आविष्कुरुत । प्रकाशयत । विद्युता विद्योतमानेन महित्वना तेन माहात्म्येन रक्षोऽस्माकमुपद्रवकारिणं राक्षसादिकं विध्यत । ताडयत । नाशयतेत्यर्थः ॥ कर्त । करोतेर्लोटि बहुलं छन्दसीति विकरणस्य लुक् । तप्तनप्तनथनाश्चेति तबादेशः । गुणः । इदुदुपधस्य चाप्रत्ययस्य (पा. ८-३-४१ [?]) इत्यकारविशब्दे विसर्जनीयस्य षत्वम् । महित्वना । भावप्रत्ययादुत्तरस्याजो व्यत्ययेन नाभावः उदात्तत्वं च । यद्वा । सुपां सुलुगिति तृतीयाया आजादेशो नकारोपजनश्च । विध्यत । व्यध ताडने । श्यनि ग्रहिज्यादिना संप्रसारणम् । तबादस्य सार्वधातुकमपिदिति ङित्त्वे सति ऋचि तुनुघमक्षुतञ्जेति संहितायां दीर्घः [?] ॥
+
+*he satyaśavasaḥ satyabalā anyair apradhṛṣyabalā maruto yūyaṃ tad vṛtravadhādiṣu prasiddhaṃ yuṣmadīyaṃ māhātmyam āviṣkarta | āviṣkuruta | prakāśayata | vidyutā vidyotamānena mahitvanā tena māhātmyena rakṣo 'smākam upadravakāriṇaṃ rākṣasādikaṃ vidhyata | tāḍayata | nāśayatety arthaḥ ‖ karta | karoter loṭi bahulaṃ chandasīti vikaraṇasya luk | taptanaptanthanāś ceti tabādeśaḥ | guṇaḥ | idudupadhasya cāpratyayasya (Pā. 8-3-41 [?]) ity akāraviśabde visarjanīyasya ṣatvam | mahitvanā | bhāvapratyayād uttarasyājo vyatyayena nābhāvaḥ udāttatvaṃ ca | yadvā | supāṃ suluk iti tṛtīyāyā ājādeśo nakāropajanaś ca | vidhyata | vyadha tāḍane | śyani grahijyādinā saṃprasāraṇam | tabādasya sārvadhātukam apid iti ṅittve sati ṛci tunughamakṣutañjeti saṃhitāyāṃ dīrghaḥ [?] ‖*
+
+*(Kannada script; the sūtras in the grammatical tail (the* idudupadhasya *sūtra and the clause on lengthening in the Saṃhitā) are cramped and are read with doubt [?].)*
+
+*Translation:* "O *satyaśavasaḥ* — of true strength, whose strength others cannot overcome — Maruts, *yūyam* — you, *āviṣkarta* — make manifest, make known, that greatness of yours, famed in the slaying of Vṛtra and the like. *Vidyutā* — with the shining *mahitvanā*, that majesty, pierce (*vidhyata*) — strike, destroy — the *rakṣas*, the demon-class who torment us. *Grammar tail, noted briefly:* *karta* — *loṭ* of *kṛ*, the *vikaraṇa* elided by "bahulaṃ chandasi", the substitute *ta* for *tha*, *guṇa*; *mahitvanā* — the *ā* of the instrumental after a *bhāva*-affix is by *vyatyaya* … [or by "supāṃ suluk" the substitute *ā* with the augment *n*]; *vidhyata* — *vyadha tāḍane*, with *saṃprasāraṇa* by "grahijyā…" before *śyan*."
+
+---
+
+### Page 212 (PDF 227)
+
+*(Running head: "212 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.9)** *(Kannada)*
+
+*satyaśavasaḥ* — (not to be overcome by enemies) of true prowess, O Maruts; *yūyam* — you; *tat* — that majesty (famed at the times of slaying Vṛtra and the like); *āviṣkarta* — make manifest; *vidyutā* — shining; *mahitvanā* — by that majesty; *rakṣaḥ* — (the demons who torment us) the Rākṣasas; *vidhyata* — destroy.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.9** *(Kannada)*
+
+"O Maruts, your true strength cannot be overcome by enemies. At times such as the slaying of Vṛtra you manifested your majesty. By that shining majesty destroy the Rākṣasas who torment us."
+
+**English Translation** *(printed in English in the source)*
+
+"Possessors of true vigor, you have displayed your might with the brilliance of which you have destroyed the Rakshas." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.9)**
+
+- **सत्यशवसः** — "The explanation of this word has been given in the preceding Ṛk. *Itarair* — 'by others', that is, by enemies, whose strength cannot be endured: those who have strength of that kind; that is, of exceeding valour."
+- **आविष्कर्त** — *āviṣkuruta, prakāśayata* — "make manifest": that is, 'make it plain to all, so that all may know'."
+- **महित्वना** — "by majesty, by excellence."
+- **विध्यत** — *vyadha tāḍane | tāḍayata nāśayateti arthaḥ* — "strike; that is, destroy. The final syllable of this word is long in the Saṃhitā text, to suit the metre."
+- **रक्षः** — "Rākṣasas and the like, Piśācas, evil spirits that wish to do harm to men; *evil spirits* (English, as printed)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.9)** *(grammar page, noted briefly; begins here)*
+
+- **कर्त** — the root *ḍukṛñ karaṇe*; in the sense of *loṭ*, second person plural, since *laṅ*-like *ṅit*-ness is present, the substitute *ta*; by "बहुलं छन्दसि" the *luk* of the *vikaraṇa* (*u*); by "तप्तनप्तनथनाश्च" (Pā. Sū. [7-1-45]) …
+
+*(The grammar page continues on p. 213.)*
+
+---
+
+**Progress note:** Printed pp. 1–212 done (PDF 16–227) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.8 complete**; **Rik 86.9** done through its Special Topics and the first entry of its grammar page (*karta*, p. 212; continues on p. 213); then 86.10, the last (the sūkta ends about p. 214). Next: printed p. 213 (PDF 228). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā "vidā"/"vidhyatā" vs Pada "vida"/"vidhyata" in 86.8–86.9; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
