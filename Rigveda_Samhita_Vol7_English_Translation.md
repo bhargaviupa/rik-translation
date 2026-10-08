@@ -4778,4 +4778,87 @@ Closing of Rik 85.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–173 done (PDF 16–188) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.6 complete**; **Rik 85.7** complete through Pratipadārtha, Bhāvārtha, English and Special Topics, and its grammar page begun (*te vardhanta*, *svatavasaḥ*, *mahitvanā*, p. 173); the rest of the grammar page follows on p. 174. Next: printed p. 174 (PDF 189). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169 grammar partly read; 154 *kopayetha* doubtful; **p. 171: bhāṣya's grammatical tail partly omitted (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 174 (PDF 189)
+
+*(Running head: "174 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.7, continued from p. 173 (grammar, noted briefly):*
+
+- **तस्थुः** — the root *ṣṭhā gatinivṛttau*; *liṭ*, third person plural; by "परस्मैपदानां णलतुसुस्…" (*parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ*, Pā. Sū. 3-4-82) the substitute *us*; after duplication, by "शर्पूर्वाः खयः" (*śarpūrvāḥ khayaḥ*) the *th* is kept in the reduplicate; by "अभ्यासे चर्च" (*abhyāse care ca*) the *t* in place of the *th*; by "आतो लोप इटि च" the loss of the *ā*. Since here the construction is "*nākam ā tasthuḥ ca, sadaś ca vistīrṇaṃ cakrire*", by "चादिलोपे विभाषा" (*cādilope vibhāṣā*, Pā. Sū. 8-1-[63] [?]) the prohibition of *nighāta* comes to the *tiṅ*-ending that stands first; then, by the affix-accent, the final acute.
+- **यत्** — a dative plural, the *ṅe-bhyas* that follows; by "सुपां सुलुक्" its *luk*.
+- **आवत्** — in the sense of the present, the root *av rakṣaṇe*; by "छन्दसि लुङ्लङ्लिटः" (*chandasi luṅ-laṅ-liṭaḥ*) *laṅ*; third person singular, *tip*; by "इतश्च" the loss of the final; by "आडजादीनाम्" the augment *āṭ*; by "आटश्च" *vṛddhi*; since *ha* is in connexion, no *nighāta* occurs; since the augment is acute, the first syllable is acute.
+- **वृषणम्** — *vṛṣan* ends in the affix *kanin* and so has the first syllable acute and a final *n*; in the accusative singular, since *am* follows, by "वा षपूर्वस्य निगमे" (Pā. Sū. 6-4-[9] [?]) the lengthening of the penultimate does not occur in Saṃhitā; by "अट्कुप्वाङ्नुम्व्यवायेऽपि" the *ṇ* for the *n*.
+- **मदच्युतम्** — *madaṃ cyotati iti madacyut*; the root *cyutir āsecane*; by "क्विप् च" the *kvip*; the *kṛdutarapada* keeps its base accent; accusative singular.
+- **सीदन्** — the root *ṣadḷ viśaraṇagatyavasādaneṣu*; *leṭ*, third person plural; by "पाघ्राध्मा…" the substitute *sīda* for the root; by "इतश्च लोपः परस्मैपदेषु" the loss of the *i* of the affix; the *nighāta* accent of the *tiṅanta*.
+
+Closing of Rik 85.7: "॥ ७ ॥" (7), followed by a printer's ornament.
+
+---
+
+### Page 175 (PDF 190)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 175.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.8)** *(Jagatī; Maruts; accents not reproduced)*
+
+> शूरा इवेद्युयुधयो न जग्मयः श्रवस्यवो न पृतनासु येतिरे ।
+> भयन्ते विश्वा भुवना मरुद्भ्यो राजान इव त्वेषसंदृशो नरः ॥ ८ ॥
+
+*śūrā ived yuyudhayo na jagmayaḥ śravasyavo na pṛtanāsu yetire | bhayante viśvā bhuvanā marudbhyo rājāna iva tveṣasaṃdṛśo naraḥ ‖ 8 ‖*
+
+*Gloss, mine and tentative:* "Like heroes, like fighters, like those eager for fame [or: food], the swift-going ones strive in the battles; all the worlds fear the Maruts, the men of dazzling aspect, like kings."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.8)**
+
+> शूराः । इव । इत् । युयुधयः । न । जग्मयः । श्रवस्यवः । न । पृतनासु । येतिरे ।
+> भयन्ते । विश्वा । भुवना । मरुत्ऽभ्यः । राजानःऽइव । त्वेषऽसंदृशः । नरः ॥ ८ ॥
+
+*śūrāḥ | iva | it | yuyudhayaḥ | na | jagmayaḥ | śravasyavaḥ | na | pṛtanāsu | yetire | bhayante | viśvā | bhuvanā | marut-bhyaḥ | rājānaḥ-iva | tveṣa-saṃdṛśaḥ | naraḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.8)**
+
+> इदित्येतत्समुच्चये । शूरा इवेत् शौर्योपेता युयुत्सवः पुरुषा इव च युयुधयः शत्रुभिर्युध्यमानाः पुरुषा इव च जग्मयः शीघ्रं गच्छन्तो मरुतः श्रवस्यवो न श्रवोऽन्नमात्मन इच्छन्तः पुरुषा इव पृतनासु संग्रामेषु येतिरे । प्रयतन्ते । पुत्रादिभिर्युद्धे व्याप्रियन्ते । तादृशेभ्यो मरुद्भ्यो विश्वा भुवना सर्वाणि भूतजातानि भयन्ते । बिभ्यति । ये नरो वृष्ट्यादेर्नेतारो मरुतो राजान इव राजमाना नृपतय इव त्वेषसंदृशो दीप्तसंदर्शना उग्ररूपतया द्रष्टुमशक्या भवन्ति तेभ्य इत्यर्थः ॥ युयुधयः । युध संप्रहारे । आदृगमहनजनः… (पा. ३-२-१७१ [?]) इति वचनात्किन्प्रत्ययः । लिड्वद्भावाद् द्विर्भावादि । कित्त्वाद्गुणाभावः । नित्त्वादाद्युदात्तत्वम् [?] । जग्मयः । तेनैव सूत्रेण किन्प्रत्ययः । गमहनेत्यादिनोपधालोपः । स्थानिवद्भावाद् द्विर्भावादि । श्रवस्यवः । श्रव इच्छति श्रवस्यति । क्याच्छन्दसीत्युप्रत्ययः । येतिरे । यती प्रयत्ने । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । भयन्ते । ञिभी भये । बहुलं छन्दसीति शपः श्लोरभावः । … [the clause on the loss/change of the *ś* of *śap*, cramped] । त्वेषसंदृशः । त्विष दीप्तौ । पचाद्यच् । दृशिर् प्रेक्षणे । संपूर्वादस्मात् संपदादिलक्षणो भावे क्विप् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*idity etat samuccaye | śūrā ived śauryopetā yuyutsavaḥ puruṣā iva ca yuyudhayaḥ śatrubhir yudhyamānāḥ puruṣā iva ca jagmayaḥ śīghraṃ gacchanto marutaḥ śravasyavo na śravo 'nnam ātmana icchantaḥ puruṣā iva pṛtanāsu saṃgrāmeṣu yetire | prayatante | putrādibhir yuddhe vyāpriyante | tādṛśebhyo marudbhyo viśvā bhuvanā sarvāṇi bhūtajātāni bhayante | bibhyati | ye naro vṛṣṭyāder netāro maruto rājāna iva rājamānā nṛpataya iva tveṣasaṃdṛśo dīptasaṃdarśanā ugrarūpatayā draṣṭum aśakyā bhavanti tebhya ity arthaḥ ‖ yuyudhayaḥ | yudha saṃprahāre | ādṛgamahanajanaḥ… (Pā. 3-2-171 [?]) iti vacanāt kin-pratyayaḥ | liḍvadbhāvād dvirbhāvādi | kittvād guṇābhāvaḥ | nittvād ādyudāttatvam [?] | jagmayaḥ | tenaiva sūtreṇa kin-pratyayaḥ | gamahanety ādinopadhālopaḥ | sthānivadbhāvād dvirbhāvādi | śravasyavaḥ | śrava icchati śravasyati | kyāc chandasīty u-pratyayaḥ | yetire | yatī prayatne | chandasi luṅlaṅliṭ iti vartamāne liṭ | bhayante | ñibhī bhaye | bahulaṃ chandasīti śapaḥ ślor abhāvaḥ | … | tveṣasaṃdṛśaḥ | tviṣa dīptau | pacādy ac | dṛśir prekṣaṇe | saṃpūrvād asmāt sampadādilakṣaṇo bhāve kvip | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
+
+*(Kannada script; the bhāṣya's grammatical tail is in small, compressed type; the sūtra wording and number after "ādṛgamahanajanaḥ" and the clause on* nittvād ādyudāttatvam *are read with doubt [?]; one clause after* bhayante *is omitted as illegible.)*
+
+*Translation:* "*Id* is in the sense of 'and' (conjunction). Like heroes — fighters endowed with valour — and like warriors (*yuyudhayaḥ*) fighting with enemies, like men going quickly (*jagmayaḥ*), the Maruts, like men who wish for fame (*śravas*, food) for themselves, *yetire* — strive in battles (*pṛtanāsu*), engage in war with sons and the rest [as read]. From such Maruts all the worlds, all beings, are afraid — and the men who are the guides of rain and the rest, the Maruts, who like kings are shining, who are *tveṣasaṃdṛśaḥ* — of blazing appearance — cannot be looked at, on account of their terrible form: from them, that is, the meaning." *Grammar tail, noted briefly:* *yuyudhayaḥ* — root *yudha saṃprahāre*, the affix *kin* by the sūtra cited; the reduplication as if in *liṭ*; no *guṇa* because of *kit*-ness; *jagmayaḥ* — by the same sūtra, the affix *kin*, with the loss of the penultimate by "gamahana…", and reduplication by *sthānivadbhāva*; *śravasyavaḥ* — *śrava icchati śravasyati*, with the affix *u* after *kyac* in the Chandas; *yetire* — root *yatī prayatne*, Vedic *liṭ* in the present sense; *bhayante* — root *ñibhī bhaye*, with no *ślu* for *śap* by the doctrine "bahulaṃ chandasi"; *tveṣasaṃdṛśaḥ* — *tviṣa dīptau* with *ac* (the *pacādi* class); *dṛśir prekṣaṇe* preceded by *sam*, the affix *kvip* in the abstract sense (the *sampadādi* class); in the *bahuvrīhi* the first member's base accent."
+
+---
+
+### Page 176 (PDF 191)
+
+*(Running head: "176 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Close of the grammatical tail of the bhāṣya of Rik 85.8, continued from p. 175 (Kannada script):*
+
+> …शपः श्लोरभावः । त्वेषसंदृशः । त्विष दीप्तौ । पचाद्यच् । दृशिर् प्रेक्षणे । संपूर्वादस्मात्संपदादिलक्षणो भावे क्विप् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥ ८ ॥
+
+*…śapaḥ ślor abhāvaḥ | tveṣasaṃdṛśaḥ | tviṣa dīptau | pacādy ac | dṛśir prekṣaṇe | saṃpūrvād asmāt sampadādilakṣaṇo bhāve kvip | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖ 8 ‖*
+
+*(So the remaining clause on p. 175's "…" is the one that runs "…the replacement of the* ś *by the* ślu *is not made" — as printed: "…śapaḥ ślor abhāvaḥ". The Ṛk's closing numeral "॥ ८ ॥" follows the bhāṣya, as in the preceding Ṛks.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.8)** *(Kannada)*
+
+*śūrā iva* — like heroes; *yuyudhayaḥ na* — the Maruts, who are like warriors; *śravasyavaḥ na* — like folk desiring food; *jagmayaḥ* — of swift movement; *pṛtanāsu* — in battles; *yetire* — they strive; *naraḥ* — guides of rain and the rest; *rājāna iva* — like shining kings; *tveṣasaṃdṛśaḥ* — (the Maruts) of fierce splendour; *marudbhyaḥ* — from such Maruts; *viśvā bhuvanā* — all the beings of the world; *bhayante* — are afraid.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.8** *(Kannada)*
+
+"The Maruts, who are like heroes, like warriors, like folk who desire food, of swift movement, strive in battles. Being guides of rain and the rest, and, like shining kings, of fierce splendour who strike fear into others, all the beings of the world go about in fear of these Maruts."
+
+**English Translation** *(printed in English in the source)*
+
+"Like heroes, like warriors, like men eager for food, the swift-moving (Maruts) have engaged in battles; all beings fear the Maruts who are the leaders (of the rain) and who are of awful appearance like kings." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.8)**
+
+- **युयुधयः** — *yudha saṃprahāre | yuyutsavaḥ puruṣāḥ* — "men who wish for battle; warriors, soldiers, *warriors, combatants etc.* (English, as printed)."
+- **श्रवस्यवः** — "*śravaḥ* means food (Ni. [10-?] [?]); *śrava icchati śravasyati* — 'one who wishes food'."
+- **पृतनासु** — *saṃgrāmeṣu* — "since the word *pṛtanā* is read among the forty-six names of battle — *raṇaḥ, vivāk* and the rest (Ni. [2-17] [?]) — *pṛtanāsu* means 'in battles'. This word is always used in the plural."
+- **राजाने इव** — "as people fear on seeing kings."
+- **त्वेषसंदृशः** — *tviṣa dīptau | dīptasaṃdarśanā ugrarūpatayā draṣṭum aśakyā bhavanti* — "those of shining appearance, who on account of terrible form cannot be looked at; that is, since they are of a cruel form, they are fearful to look at…" *(the entry runs on to p. 177)*
+
+---
+
+**Progress note:** Printed pp. 1–176 done (PDF 16–191) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.7 complete**; **Rik 85.8** done through the first five entries of its Special Topics (to *tveṣasaṃdṛśaḥ*, p. 176); the rest of the Special Topics and the grammar page follow on p. 177. Next: printed p. 177 (PDF 192). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175 grammar partly read; 154 *kopayetha* doubtful; **p. 171 and p. 175: bhāṣya's grammatical tail partly omitted (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
