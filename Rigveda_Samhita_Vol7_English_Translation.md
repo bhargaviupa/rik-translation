@@ -13741,6 +13741,97 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–478 done (PDF 16–493), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.2 complete; Rik 93.3 done through the grammar page (*āhutim*, *dāśāt*, *haviṣkṛtim*, *suvīryam*), which continues on p. 479 with *viśvam*, *āyuḥ*, *vy aśnavat*. Next: printed p. 479 (PDF 494). "
-"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?]; the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals (4-13-3, 8-101-2, 9-3-6, 9-1-3, 10-150-2, 1-12-3, 10-30-1, 10-41-3, 9-[?]-4, 6-2-5, 5-23-5, 8-31-8, 10-85-42) and Nirukta numerals (2-6, 7-17, 3-6, 3-13, 10-10, 2-7) [?]; the first two citations of p. 477 read with considerable doubt [?]; Pāṇini/Uṇādi numerals on pp. 470–478 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule (*na goṣvan…*) as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]. Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 479 (PDF 494)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 479.)*
+
+*Vyākaraṇa-prakriyā of Rik 93.3, concluded (grammar page, noted briefly):*
+
+*aśnavat* — root *aśū vyāptau*; by *vyatyayo bahulam* the *parasmaipada*; *leṭ*, third person singular, *tip*; the *i* is elided; by *leṭo 'ḍāṭau* the augment *aṭ*; by *svādibhyaḥ śnuḥ* (Pā. 3-1-73 [?]) the stem-suffix *śnu*; because of the suffix, the guṇa of its *u*; the replacement *av*; since it follows a word, the *nighāta* accent. ‖ 3 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.4)** *(Triṣṭubh)*
+
+> अग्नीषोमा चेति तद्वीर्यं वां यदमुष्णीतमवसं पणिं गाः ।
+> अवातिरतं बृसयस्य शेषोऽविन्दतं ज्योतिरेकं बहुभ्यः ॥ ४ ॥
+
+*agnīṣomā ceti tad vīryaṃ vāṃ yad amuṣṇītam avasaṃ paṇiṃ gāḥ | avātiratam bṛsayasya śeṣo 'vindataṃ jyotir ekaṃ bahubhyaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 93.4)**
+
+> अग्नीषोमा । चेति । तत् । वीर्यम् । वाम् । यत् । अमुष्णीतम् । अवसम् । पणिम् । गाः ।
+> अव । अतिरतम् । बृसयस्य । शेषः । अविन्दतम् । ज्योतिः । एकम् । बहुऽभ्यः ॥ ४ ॥
+
+*agnīṣomā | ceti | tat | vīryam | vām | yat | amuṣṇītam | avasam | paṇim | gāḥ | ava | atiratam | bṛsayasya | śeṣaḥ | avindatam | jyotiḥ | ekam | bahu-bhyaḥ ‖ 4 ‖*
+
+(The Saṃhitā prints *avātiratam*, the Pada *ava | atiratam*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.4)** *(begins at the foot of p. 479)*
+
+> हे अग्नीषोमौ वां युवयोस्तद्वक्ष्यमाणं वीर्यं सामर्थ्यं चेति । अस्माभिर्ज्ञातमभूत् । यद्येन वीर्येण गा अवसं गोरूपमन्नं पणिं पणेः
+
+*he agnīṣomau vāṃ yuvayos tad vakṣyamāṇaṃ vīryaṃ sāmarthyaṃ ceti | asmābhir jñātam abhūt | yad yena vīryeṇa gā avasaṃ gorūpam annaṃ paṇiṃ paṇeḥ*
+
+---
+
+### Page 480 (PDF 495)
+
+*(Running head: left "480", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+*Sāyaṇa-bhāṣya of Rik 93.4, continued from p. 479:*
+
+> विभक्तिव्यत्ययः । एतन्नामकादसुरादमुष्णीतमपाहार्ष्टं । तथा बृसयस्य । बृसिर्वेष्टनार्थः । बृसयति सर्वं वेष्टयतीति बृसयोऽसुरस्त्वष्टा । तस्यासुरस्य शेषोऽपत्यं । शेष इत्यपत्यनाम शिष्यते प्रयुत इति यास्कः । नि. ३-२ [?] । त्वाष्ट्रसकाशादुत्पन्नं [reading doubtful [?]] वृत्रमवातिरतं । अवधिष्टं । अवतिरतिर्वधकर्मा । प्राणापानरूपयोर्युवयोर्वृत्रे ऽवस्थानात्तस्य मरणं प्राप्तं । तथा चाम्नायते । तस्माज्जृम्भमानादग्नीषोमौ निरक्रामतां प्राणापानौ वा एनं तदजहिताम् । तै. सं. २-५-२-४ [?] । इति । ततो वृत्रवधानन्तरं ज्योतिर्द्योतमानं सूर्यमेकं नभसि गच्छन्तं बहुभ्यो जनेभ्यो बहूनामर्थायाविन्दतं । अलप्साथां । एतत्सर्वं येन वीर्येण क्रियते तदस्माभिर्ज्ञातमित्यर्थः ॥ चेति । चिती संज्ञाने । लुङि चिण् भावकर्मणोः । पा. ३-१-६६ [?] । इति च्लेश्चिणादेशः । चिणो लुगिति तशब्दस्य लुक् । अमुष्णीतं । मुष स्तेये । क्र्यादिकः । अवसं । अवतेरौणादिको ऽसच् । शेषः । सुपां सुलुगिति द्वितीयायाः सुः । एकं । इण् गतौ । इण्शीङ्स्पाशल्यतिमर्चिभ्यः कन् । उ. ३-४३ [?] । इति कन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
+
+*vibhaktivyatyayaḥ | etannāmakād asurād amuṣṇītam apāhārṣṭaṃ | tathā bṛsayasya | bṛsir veṣṭanārthaḥ | bṛsayati sarvaṃ veṣṭayatīti bṛsayo 'suras tvaṣṭā | tasyāsurasya śeṣo 'patyaṃ | śeṣa ity apatyanāma śiṣyate prayuta iti yāskaḥ | Ni. 3-2 [?] | tvāṣṭrasakāśād utpannaṃ [?] vṛtram avātiratam | avadhiṣṭaṃ | avatiratir vadhakarmā | prāṇāpānarūpayor yuvayor vṛtre 'vasthānāt tasya maraṇaṃ prāptaṃ | tathā cāmnāyate | tasmāj jṛmbhamānād agnīṣomau nirakrāmatāṃ prāṇāpānau vā enaṃ tad ajahitām | Tai. Saṃ. 2-5-2-4 [?] | iti | tato vṛtravadhānantaraṃ jyotir dyotamānaṃ sūryam ekaṃ nabhasi gacchantaṃ bahubhyo janebhyo bahūnām arthāyāvindataṃ | alapsāthāṃ | etat sarvaṃ yena vīryeṇa kriyate tad asmābhir jñātam ity arthaḥ ‖ ceti | citī saṃjñāne | luṅi ciṇ bhāvakarmaṇoḥ | Pā. 3-1-66 [?] | iti cleś ciṇādeśaḥ | ciṇo lug iti taśabdasya luk | amuṣṇītaṃ | muṣa steye | kryādikaḥ | avasaṃ | avater auṇādiko 'sac | śeṣaḥ | supāṃ sulug iti dvitīyāyāḥ suḥ | ekaṃ | iṇ gatau | iṇśīṅspāśalyatimarcibhyaḥ kan | U. 3-43 [?] | iti kanpratyayaḥ | nittvād ādyudāttatvam ‖*
+
+*Translation (the whole bhāṣya, begun on p. 479):* "O Agni and Soma, we have come to know that *vīryam*, prowess, of yours — that capacity which is about to be told — *yad*, by which you *amuṣṇītam*, carried off [*apāhārṣṭam*], *gāḥ avasam*, the cows, [that are] food in the form of cattle, *paṇim*, from Paṇi [the case-ending is varied: from the *asura* of this name]. And likewise *bṛsayasya* — *bṛsi* has the sense of enveloping; he who envelops all is *bṛsaya*, the asura Tvaṣṭṛ. *Śeṣaḥ*, the offspring of that asura ('*śeṣa* is a name for offspring; it is left behind, it is sent forth', says Yāska, Ni. 3-2 [?]) — Vṛtra, born of Tvaṣṭṛ [reading doubtful [?]] — *avātiratam*: you slew; *avatirati* is a verb of killing. Since, being of the nature of *prāṇa* and *apāna* [the in- and out-breaths], you two were established in Vṛtra, his death occurred. So it is handed down: 'From him, as he yawned, Agni and Soma went out; or the *prāṇa* and *apāna* abandoned him then' (Tai. Saṃ. 2-5-2-4 [?]). Then, after the slaying of Vṛtra, you *avindatam*, obtained *jyotiḥ*, the one shining luminary, the Sun, going in the sky, *bahubhyaḥ*, for the sake of many people; *alapsāthām* [you two have obtained]. *Tat vīryam ceti* — that prowess by which all this is done has been known by us: this is the meaning."
+
+*Grammar tail:* *ceti* — root *citī saṃjñāne*; in the passive *luṅ* the *ciṇ* for *cli* by Pā. 3-1-66 [?]; the *luk* of the *ta* after *ciṇ*. *amuṣṇītam* — root *muṣa steye* of the *kryādi* class. *avasam* — the Uṇādi suffix *asac* from *av*. *śeṣaḥ* — the replacement *su* for the accusative by *supāṃ sulug*. *ekam* — root *iṇ gatau*; the suffix *kan* by *iṇśīṅ…* (U. 3-43 [?]); since it is *nit*, the initial-acute.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.4)** *(Kannada)*
+
+*agnīṣomā* — O Agni and Soma deities; *vām* — your; *yat* — by which prowess; *gāḥ avasam* — the food in the form of cattle; *paṇim* — from the demon named Paṇi; *amuṣṇītam* — you carried off; (and) *bṛsayasya* — of the demon named Bṛsaya (Tvaṣṭṛ); *śeṣaḥ* — the son, Vṛtra; *avātiratam* — you slew; (not only that) *jyotiḥ ekam* — the one shining Sun; *bahubhyaḥ* — for the benefit of many people; *avindatam* — you obtained; *tat vīryam* — that capacity; *ceti* — was known (by us).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.4** *(Kannada)*
+
+"O Agni and Soma deities: that capacity of yours, by which you carried off the food in the form of cattle from the demon named Paṇi, and slew Vṛtra, the son of the demon Bṛsaya, and, moreover, made the one radiant Sun move in the mid-region for the benefit of all human beings — we all have well understood."
+
+**English Translation** *(printed in English in the source; Rik 93.4)*
+
+"Agni and Soma, that prowess of yours by which you have carried off the cows that were the food of Pani, is well known to us ; you have slain the offspring of Brisaya, and you have acquired the one luminary ( the Sun ) for the benefit of the many." — as printed.
+
+---
+
+### Page 481 (PDF 496)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 481. Foot: printer's signature "31 … Volume 7".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.4)** *(Kannada)*
+
+***avasam*** — "The author of the Nirukta (Ni. 1-17 [?]) shows that the word *avasam* arises from the root *av*, which has the sense of motion, and, giving the example of the last pāda of the Ṛk 10-[?]-10 [?] [numerals as read, doubtful], '*avasāya padvate rudra mṛḷa*', explains '*padvad avasaṃ gāvaḥ*', that is, food for the time when cattle roam. In the same way here too the meaning is 'food in the form of cattle'."
+
+***paṇim*** — "The wicked nature of the demon named Paṇi, or of the group of demons — what sort of harm came from them to the Vedic worshippers who were intent on performing sacrifices — and how chiefly Indra, as helper, brought back the stolen cows to prevent the harassment of these demons, and so helped the sacrificers, has been explained in detail in the previous volumes. That Agni too was a helper in these contexts is described in the Ṛks —"
+
+> नैक्रतून् ग्रथिनो मृध्रवाचः पणेरश्रद्धां अवृधां अयज्ञान् ।
+> पप्र तान् दस्यूरग्निर्विवाय पूर्वश्चकारापरां अयज्यून् ॥
+
+*naikratūn grathino mṛdhravācaḥ paṇer aśraddhāṃ avṛdhāṃ ayajñān | papra tān dasyūr agnir vivāya pūrvaś cakārāparāṃ ayajyūn ‖*  (Ṛ. Saṃ. 7-6-3 [?]; the first word is read with doubt from the print (*naikratūn*) and the Saṃhitā text is given as read [?])
+
+> त्वं दस्यूँ रोकसो अग्न आज उरु ज्योतिर्जनयन्नार्याय ।
+
+*tvaṃ dasyūṃ r okaso agna āja uru jyotir janayann āryāya |*  (Ṛ. Saṃ. 7-5-6 [?]; the Saṃhitā text as read [?])
+
+*Gloss, mine and tentative (for both):* "Agni drove away [or confounded] those enemies of Paṇi — faithless, of weak speech, fettered, unworshipping, non-sacrificing — and made the former ones [lower] than the latter, the non-sacrificers. — You, Agni, drove the Dasyus from their dwelling, producing wide light for the Ārya."
+
+"— as described in these Ṛks, it becomes known that Agni too freed the Āryas from the oppression of the *asuras* named Paṇi and furnished them with light."
+
+***bṛsayasya*** — *bṛsiḥ veṣṭanārthaḥ | bṛsayati sarvaṃ veṣṭayatīti bṛsayaḥ asuraḥ tvaṣṭā* | "Sāyaṇa explains that the word *bṛsaya* arises from the word *bṛsi*, which gives the sense 'to cover all, to surround and enclose'; that it is the name of a demon who covers and encloses; and that this is the name of the asura called Tvaṣṭṛ."
+
+***bṛsayasya śeṣaḥ*** — "*tuk, tokam, tanayaḥ* and the like being read among the names of offspring (Ni. 3-2 [?]), *śeṣaḥ* means 'son': '*śeṣa ity apatyanāma śiṣyate prayuteḥ*' (Ni. 3-2 [?]). It is well known that Vṛtra is the son of Bṛsaya."
+
+***avātiratam*** — "*dabhnoti, śṛṇathi* and the like being read among the names of acts of slaying (Ni. 2-10 [?]), it means 'you slew'. According to the Taittirīya Saṃhitā, these two deities, Agni and Soma, killed Vṛtra by causing the absence of the chief principles in the form of *prāṇa* and *apāna* —
+
+---
+
+**Progress note:** Printed pp. 1–481 done (PDF 16–496), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.3 complete; Rik 93.4 done through the Special Topics, which break mid-sentence at the foot of p. 481 (*avātiratam*: "…by causing the absence of the chief principles in the form of *prāṇa* and *apāna* —"), to be continued from the head of p. 482 ("…so says the Taittirīya Saṃhitā"). Next: printed p. 482 (PDF 497). "
+"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?]; the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals (4-13-3, 8-101-2, 9-3-6, 9-1-3, 10-150-2, 1-12-3, 10-30-1, 10-41-3, 9-[?]-4, 6-2-5, 5-23-5, 8-31-8, 10-85-42, 7-6-3, 7-5-6, 10-[?]-10) and Nirukta numerals (2-6, 7-17, 3-6, 3-13, 10-10, 2-7, 1-17, 3-2, 2-10) [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4: *tvāṣṭrasakāśād utpannam* and the *prāṇāpāna* sentence read from a clotted print [?]; Tai. Saṃ. 2-5-2-4 [?]; Pāṇini/Uṇādi numerals on pp. 470–481 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule (*na goṣvan…*) as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada difference avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
