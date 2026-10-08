@@ -11499,6 +11499,85 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–403 done (PDF 16–418) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line in the print). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): the Sanskrit introduction and Anuvāda (pp. 402–403), the heading block and the Saṃhitā of Rik 92.1 and the first line of its Pada are done (p. 403). Next: printed p. 404 (PDF 419) — the second line of the Pada of 92.1 (*niṣkṛṇvānā āyudhānīva…*), then the Sāyaṇa-bhāṣya. "
-"Open flags (Sūkta 91, condensed — now complete): in every Rik of 91.1–91.23 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22 bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted, the Ṛgveda numerals on pp. 396–397 all doubtful; 91.23 *sahasāvan* clotted, Ṛgveda numerals 9-66-18/12, Ai. Brā. 1-14 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. Sūkta 92: the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]. "
-"Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 404 (PDF 419)
+
+*(Running head: left "404", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.1, concluded)**
+
+> निःऽकृण्वानाः । आयुधानिऽइव । धृष्णवः । प्रति । गावः । अरुषीः । यन्ति । मातरः ॥ १ ॥
+
+*niḥ-kṛṇvānāḥ | āyudhāni-iva | dhṛṣṇavaḥ | prati | gāvaḥ | aruṣīḥ | yanti | mātaraḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.1)**
+
+> उ इत्येतत्पादपूरणं । त्याः ता एता उषसः प्रभातकालाभिमानिन्यो देवताः केतुमन्धकारावृतस्य सर्वस्य जगतः प्रज्ञापकं प्रकाशमक्रत । अकृषत । कृतवत्यः । यस्मादेवं तस्मादुषसो रजसोऽन्तरिक्षलोकस्य पूर्वेऽर्धे प्राचीनदिग्भागे भानुं प्रकाशमञ्जते । व्यक्तीकुर्वन्ति । धृष्णवो धर्षणशीला योद्धार आयुधानीव यथासिप्रभृतीन्यायुधानि संस्कुर्वन्ति एवं निष्कृण्वानाः स्वभासा जगत्संस्कुर्वाणा गावो गमनस्वभावा अरुषीरारोचमाना मातरः सूर्यप्रकाशस्य निर्मात्र्यो जगज्जनन्यो वोषसः प्रति यन्ति । प्रतिदिवसं गच्छन्ति । एवंविधा उषसोऽस्मान्रक्षन्त्वित्यर्थः ॥ अत्र निरुक्तं । एतास्त्या उषसः केतुमकृषत प्रज्ञानमे । कस्या इव पूजनार्थे बहुवचनं स्यात् पूर्वेऽर्धेऽन्तरिक्षलोकस्य समञ्जते भानुना निष्कृण्वाना आयुधानीव धृष्णवः । निरित्येष समित्येतस्य स्थाने । एमीदेषां निष्कृतं जारिणीवेत्यपि निगमो भवति । प्रति यन्ति गावो गमनादरुषीरारोचनान्मातरो भासो निर्मात्र्यः । नि. १२-७ [?] इति ॥ अक्रत । करोतेर्लुङि मन्त्रे घसेति च्लेर्लुक् । निष्कृण्वानाः । कृवि हिंसाकरणयोश्च । अस्मात्तच्छीलिकश्चानश् । धिन्विकृण्व्योरच इत्युप्रत्ययः । इदुदुपधस्य चाप्रत्ययस्येति विसर्जनीयस्य षत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
+
+*u ity etat pādapūraṇaṃ | tyāḥ tā etā uṣasaḥ prabhātakālābhimāninyo devatāḥ ketum andhakārāvṛtasya sarvasya jagataḥ prajñāpakaṃ prakāśam akrata | akṛṣata | kṛtavatyaḥ | yasmād evaṃ tasmād uṣaso rajaso 'ntarikṣalokasya pūrve 'rdhe prācīnadigbhāge bhānuṃ prakāśam añjate | vyaktīkurvanti | dhṛṣṇavo dharṣaṇaśīlā yoddhāra āyudhānīva yathāsiprabhṛtīny āyudhāni saṃskurvanti evaṃ niṣkṛṇvānāḥ svabhāsā jagat saṃskurvāṇā gāvo gamanasvabhāvā aruṣīr ocamānā mātaraḥ sūryaprakāśasya nirmātryo jagajjananyo vo 'ṣasaḥ prati yanti | pratidivasaṃ gacchanti | evaṃvidhā uṣaso 'smān rakṣantv ity arthaḥ ‖ atra niruktaṃ | etās tyā uṣasaḥ ketum akṛṣata prajñānam e | kasyā iva pūjanārthe bahuvacanaṃ syāt pūrve 'rdhe 'ntarikṣalokasya samañjate bhānunā niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ | nir ity eṣa sam ity etasya sthāne | emīd eṣāṃ niṣkṛtaṃ jāriṇīvety api nigamo bhavati | prati yanti gāvo gamanād aruṣīr ārocanān mātaro bhāso nirmātryaḥ | Ni. 12-7 [?] iti ‖ akrata | karoter luṅi mantre ghaseti cler luk | niṣkṛṇvānāḥ | kṛvi hiṃsākaraṇayoś ca | asmāt tacchīlikaś cānaś | dhinvikṛṇvyor a ca ity upratyayaḥ | idudupadhasya cāpratyayasyeti visarjanīyasya ṣatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ ‖*
+
+*Translation:* "*u* is a mere filler. *Tyāḥ* — those *etāḥ* Uṣases, the deities who preside over the time of dawn, *ketum akrata*, made light, which makes known to all the world enveloped in darkness (*akṛṣata*, 'they did'). Because it is so, the Uṣases *añjate* — display, make manifest — *bhānum*, radiance, *rajasaḥ pūrve ardhe*, in the eastern half of the mid-region, in the eastern quarter. As *dhṛṣṇavaḥ*, bold warriors — *āyudhānīva*, like weapons — burnish their swords and other weapons, so *niṣkṛṇvānāḥ*, making the world bright with their own light, *gāvaḥ* — of the nature of going — *aruṣīḥ*, ruddy, shining, *mātaraḥ* — makers of the sun's light, mothers of the world — [or the Uṣases] *prati yanti*, go daily. May such Uṣases protect us: this is the meaning. — Here in the Nirukta: '*etās tyā uṣasaḥ ketum akṛṣata prajñānam*'… [Yāska's explanation as quoted, in the printed text:] *kasyā iva pūjanārthe bahuvacanaṃ syāt*, *pūrve 'rdhe 'ntarikṣalokasya samañjate bhānunā niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ*; *nir* is here in the place of *sam*; '*emīd eṣāṃ niṣkṛtaṃ jāriṇīva*' is also a scripture-text [of this sense]; '*prati yanti gāvo gamanād aruṣīr ārocanān mātaro bhāso nirmātryaḥ*' (Ni. 12-7 [?])."
+
+*Grammar tail:* *akrata* — the *luṅ* of *kṛ*, the *luk* of *cli* by *mantre ghasahvara…*. *niṣkṛṇvānāḥ* — root *kṛvi hiṃsākaraṇayoḥ*; the suffix *cānaś* in the habitual sense; the suffix *u* by *dhinvikṛṇvyor a ca*; by *idudupadhasya cāpratyayasya* the *ṣatva* of the visarga; the *kṛdanta* final member keeps its natural accent.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.1)** *(Kannada)*
+
+*tyā etā uṣasaḥ* — those well-known (and presiding over the morning) Uṣas deities; *ketum* — (to the world covered by darkness) light, or knowledge; *akrata* — made; *rajasaḥ pūrve ardhe* — in the eastern half of the mid-region; *bhānum* — radiance; *añjate* — make manifest; *dhṛṣṇavaḥ* — warriors (for fighting); *āyudhāni iva* — as [they] polish and burnish their weapons; *niṣkṛṇvānāḥ* — (making the world bright with their radiance); *gāvaḥ* — of the nature of moving; *aruṣīḥ* — of the colour of morning twilight; *mātaraḥ* — the producers of the sun's radiance, or the mothers of the world, the Uṣas deities; *prati yanti* — go about every day.
+
+---
+
+### Page 405 (PDF 420)
+
+*(Running head left: "A. 1 A. 6 Va. 24 [?]"; centre: "Ṛgvedasaṃhitā"; right: 405.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.1** *(Kannada)*
+
+"To the world enveloped by the darkness of night, the Uṣas deities gave light. They display their radiance in the eastern quarter of the mid-region. As warriors burnish their weapons and make them shine, the Uṣas deities, making the world bright with their radiance, being of moving nature, red with the twilight of dawn, and the producers of the sun's radiance, go about daily by their own rule."
+
+**English Translation** *(printed in English in the source; Rik 92.1)*
+
+"The celebrated dawn has spread the banner ; In the eastern half of the firmament, light is made manifest, making all things bright, like warriors brandishing their bright weapons. Thus the mother, radiant and advancing, travels daily;" — as printed (the final semicolon is as printed).
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.1)** *(Kannada)*
+
+***tyāḥ uṣasaḥ*** — "Those well-known Uṣases themselves, who appeared on all the earlier mornings; or, as the author of the Nirukta says, '*kasyā iva pūjanārthe bahuvacanaṃ syāt*' (Ni. 12-7 [?]), the plural is in the sense of honour. Because the one Uṣas appears every day, she is imagined as many Uṣases, and the plural is used."
+
+"A full description of the nature and greatness of the deity Uṣas is given in Ṛg. Saṃ. Part [5?], pp. 32–33 [as printed; the part number is read with some doubt [?]]."
+
+***ketum*** — "*ketaḥ, ketuḥ, cetaḥ* and the like being read among the names for knowledge (Ni. 3-9 [?]), *ketum* means 'knowledge of the world'. Or, if the word *ketu* is taken to mean 'banner', it means 'they displayed a banner-like brightness'."
+
+***bhānum añjate*** — "'They manifest the radiance'. Here two constructions are possible. Sāyaṇa: *rajasaḥ pūrve ardhe bhānum añjate* — 'in the eastern quarters of the mid-region they display their radiance'; Skandasvāmin: *rajasaḥ pūrve ardhe sthitā bhānunā añjate* — 'standing in the eastern half of the mid-region, they make everything manifest by their radiance'. In addition, Skandasvāmin joins the simile that follows, *niṣkṛṇvānāḥ dhṛṣṇava iva*, with *añjate*: as warriors make their weapons shine by polishing and the like, so the Uṣases too light all the mid-region with their rays. Sāyaṇa joins this simile with the second half —
+
+---
+
+### Page 406 (PDF 421)
+
+*(Running head: left "406", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+"— as '*yodvāraḥ yathā āyudhāni saṃskurvanti evaṃ niṣkṛṇvānāḥ uṣasaḥ*': as warriors polish their weapons, so the Uṣases, polishing the world by their radiance, go about daily."
+
+***niṣkṛṇvānāḥ*** — *nir ity eṣa sam ity etasya sthāne* (Ni. 12-7 [?]) | "That is, the prefix *nir* has come in the place of *sam*, and the author of the Nirukta explains that *saṃskurvāṇāḥ* here means 'making [it] shine, with propriety'."
+
+***gāvaḥ*** — *gāvo gamanāt* (Ni. 12-7 [?]) | "Because they have the nature of moving: hence *gāvaḥ*."
+
+***aruṣīḥ*** — *aruṣīr ārocanāt* (Ni. 12-7 [?]) | "Because they shine attractively: hence *aruṣīḥ*."
+
+***mātaraḥ*** — *bhāso nirmātryaḥ* (Ni. 12-7 [?]) | "Because they are the producers of the lights: hence *mātaraḥ*; the author of the Nirukta explains that these are epithets of the rays as well. The same sense is explained in the Ṛk —"
+
+> पूर्वे अर्धे रजसो अप्त्यस्य गवां जनित्र्यकृत प्र केतुम् ।
+> व्यु प्रथते वितरं वरीय ओभा पृणन्ती पित्रोरुपस्था ॥
+
+*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum | vy u prathate vitaraṃ varīya obhā pṛṇantī pitror upasthā ‖*  (Ṛ. Saṃ. 1-124-5 [?])
+
+*Gloss, mine and tentative:* "In the eastern half of the watery region the mother of the cows [rays] made her banner appear; she spreads far and wide, filling both [worlds], the lap of her two parents."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.1)** *(Kannada; grammar page, noted briefly)*
+
+*akrata* — root *ḍukṛñ karaṇe*; *luṅ*, third person plural, *jha* → *yat*… [as printed: *yaprat…*]; by *mantre ghasahvaraṇaśavṛdahādvṛcakṛgamijanibhyo leḥ* (Pā. 2-4-80 [?], the sūtra begins *mantre ghasa…*) the *luk* of the *cli* that is obtained in the *luṅ*; since the stem does not end in *a*, by *ātmanepadeṣv anataḥ* (Pā. 7-1-5 [?]) the replacement *at* for *jha*; the *ṛ* of the root is replaced by *y* [read: *ra*] (the *yaṇ*); the augment *aṭ* for the stem; since the verb follows [a word], the *nighāta* accent.
+*añjate* — root *añjū vyaktimrakṣaṇakāntigatiṣu*; *laṭ*, third person plural; the *tiṅ*-*nighāta*.
+*niṣkṛṇvānāḥ* — root *kṛvi hiṃsākaraṇayoś ca*; the suffix *cānaś* in the habitual sense, by *tacchīlatadharmatatsādhukāriṣu*; by *dhinvikṛṇvyor a ca* (Pā. 3-1-80 [?]) the suffix *u*; since it is *it*, [the next sentence is cut at the foot of the page] —
+
+---
+
+**Progress note:** Printed pp. 1–406 done (PDF 16–421) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): introduction, Anuvāda, heading and Rik 92.1 done through the grammar page, which breaks at the foot of p. 406 in the middle of *niṣkṛṇvānāḥ* ("…since it is *it*, —"); to be continued from the head of p. 407. Next: printed p. 407 (PDF 422). "
+"Open flags (Sūkta 92): the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata* (the bhāṣya's gloss *akṛṣata* and the Nirukta quotation *ketum akṛṣata* as printed); the Nirukta numeral 12-7 and 3-9 [?]; the Ṛgveda numeral 1-124-5 [?]; the reference 'Ṛg. Saṃ. Part [5?], pp. 32–33' as printed [?]; the grammar page's *ātmanepadeṣv anataḥ*, Pāṇini 2-4-80, 7-1-5, 3-1-80 [?]; the bhāṣya's *vo 'ṣasaḥ* and the Nirukta quotation's *prajñānam e* read from a clotted print [?]. "
+"Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts: 91.4 first citation garbled; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, *māmamṛtaṃ*; 91.14 *na rarāṇa na rame*; 91.17 English translation's last line smudged; 91.18 p. 381 last line blotted, 'uices' [sic]; 91.19–91.23 clotted bhāṣya clauses as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
