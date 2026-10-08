@@ -9052,12 +9052,72 @@ Closing of Rik 90.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 > अतो देवा अवन्तु नो यतो विष्णुर्विचक्रमे । पृथिव्याः सप्तधामभिः ॥
 
-*ato devā avantu no yato viṣṇur vicakrame | pṛthivyāḥ saptadhāmabhiḥ ‖* (Ṛ. Saṃ. 1-22-16) — *Gloss, mine and tentative:* "From where Viṣṇu strode out with the seven stations of the earth, from there may the gods protect us."
+*ato devā avantu no yato viṣṇur vicakrame | pṛthivyāḥ saptadhāmabhiḥ ‖* (Ṛ. Saṃ. [reference not printed on p. 323 [?]]) — *Gloss, mine and tentative:* "From where Viṣṇu strode out with the seven stations of the earth, from there may the gods protect us."
 
 > इदं विष्णुर्विचक्रमे त्रेधा नि दधे पदम् । समूळ्हमस्य पांसुरे ॥
 
-*idaṃ viṣṇur vicakrame tredhā ni dadhe padam | samūḷham asya pāṃsure ‖* (Ṛ. Saṃ. 1-22-17) — *Gloss, mine and tentative:* "Viṣṇu strode across this; thrice he set down his foot; it is gathered in his dust-filled [footstep]." *(The Kannada print gives the two citations with their reference numerals at the edge of the line; the numerals, as I read them, are* 1-22-16 *and* 1-22-17 *[?]. The list of such Ṛks continues on p. 324.)*
+*idaṃ viṣṇur vicakrame tredhā ni dadhe padam | samūḷham asya pāṃsure ‖* (Ṛ. Saṃ. [reference not printed on p. 323 [?]]) — *Gloss, mine and tentative:* "Viṣṇu strode across this; thrice he set down his foot; it is gathered in his dust-filled [footstep]." *(Correction: on p. 323 the print gives these two citations without any reference numerals — the page ends after the second citation — and the numerals are therefore not supplied here. The list of such Ṛks continues on p. 324, where the later citations do carry numerals.)*
 
 ---
 
-**Progress note:** Printed pp. 1–323 done (PDF 16–338) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.8 complete**; **Rik 90.9** (the last, Anuṣṭubh; used as the *śānti-pāṭha* of the Taittirīya Upaniṣad's Śīkṣāvallī) done through its Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics as far as the first two Viṣṇu-citations (p. 323); the rest of the Special Topics and its grammar page follow on p. 324, then the end of Sūkta 90, then **Sūkta 91** (contents table: p. 325). Next: printed p. 324 (PDF 339). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290, the *pañcajanāḥ* citations on pp. 300–301, the *vanaspati* lists on p. 321 and the Viṣṇu citations on p. 323 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 324 (PDF 339)
+
+*(Running head: "324 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Special Topics of Rik 90.9, continued from p. 323 — the further Viṣṇu citations (Ṛgveda reference numerals, as printed in small Kannada digits at the right of each citation, read with doubt [?]):*
+
+> त्रीणि पदा वि चक्रमे विष्णुर्गोपा अदाभ्यः । अतो धर्माणि धारयन् ॥
+
+*trīṇi padā vi cakrame viṣṇur gopā adābhyaḥ | ato dharmāṇi dhārayan ‖* (Ṛ. Saṃ. [1-22-18, 19, 20 as read] [?]) — *Gloss, mine and tentative:* "Three steps Viṣṇu strode, the guardian, the unbeguilable; from there upholding the ordinances."
+
+> यस्योरुषु त्रिषु विक्रमणेष्वधिक्षियन्ति भुवनानि विश्वा ॥
+
+*yasyoruṣu triṣu vikramaṇeṣv adhikṣiyanti bhuvanāni viśvā ‖* (Ṛ. Saṃ. [1-154-2] [?]) — *Gloss, mine and tentative:* "In whose three wide strides all the worlds abide."
+
+> य इदं दीर्घं प्रयतं सधस्थमेको विममे त्रिभिरित्पदेभिः ॥
+
+*ya idaṃ dīrghaṃ prayataṃ sadhastham eko vimame tribhir it padebhiḥ ‖* (Ṛ. Saṃ. [1-154-3] [?]) — *Gloss, mine and tentative:* "Who alone measured out this long, stretched-out common abode with three steps."
+
+> उरुक्रमस्य स हि बन्धुरित्था विष्णोः पदे परमे मध्व उत्सः ॥
+
+*urukramasya sa hi bandhur itthā viṣṇoḥ pade parame madhva utsaḥ ‖* (Ṛ. Saṃ. [1-154-5] [?]) — *Gloss, mine and tentative:* "For he is thus the friend of the wide-striding one: in Viṣṇu's highest step is a spring of honey."
+
+> त्रिर्देवः पृथिवीमेष एतां वि चक्रमे शतर्चसं महित्वा ॥
+
+*trir devaḥ pṛthivīm eṣa etāṃ vi cakrame śatarcasaṃ mahitvā ‖* (Ṛ. Saṃ. [7-100-3] [?]) — *Gloss, mine and tentative:* "Thrice this god strode across this earth, of a hundred splendours, in his greatness."
+
+"In many such Ṛks the striding of the feet of Viṣṇu is described. See what has been written in Ṛ. Saṃ. Part 3, pp. 125 and 126."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.9)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **अर्यमा** — the root *māṅ* preceded by *ari* [as printed: *ārya*-preceded] — *aryaman* is fixed by *nipātana* by "श्रन्न्क्वनिन्" (Uṇ. Sū. 1-[?]) [the sūtra wording as read: *śrannkvanin*].
+- **बृहस्पतिः** — *bṛhatāṃ patiḥ bṛhaspatiḥ*; by "तद्बृहतोः करपत्योश्चोरदेवतयोः सुट् तलोपश्च" (Pā. Sū. 6-1-[157], the *vārttika* as read) the augment *suṭ*, and the loss of the *t* of *bṛhat*; as before, both members keep their base accent.
+- **उरुक्रमः** — the root *kramu pādavikṣepe*; since it is read in the *pacādi* list, by "नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः" (Pā. Sū. 3-1-[134]) the affix *ac*; or, *urūn krāmati iti urukramaḥ*: by "कर्मण्यण्" (Pā. Sū. 3-2-[1]) the affix *aṇ* when a word denoting the object stands as *upapada*; by "अत उपधायाः" the *vṛddhi* would have come, but by "नोदात्तोपदेशस्य मान्तस्य…" (Pā. Sū. 7-3-[34]) the *vṛddhi* is prohibited for a root with an unaccented *upadeśa* ending in *m*; by the affix-accent *kramaḥ* is acute on the last syllable; by "गतिकारकोपपदात्कृत्" the *kṛdutarapada*'s base accent in the compound.
+
+Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The print has no separate closing line for Sūkta 90; it ends here, on p. 324.)*
+
+---
+
+## Sūkta 91 (Maṇḍala 1, Sūkta 91) — "तोंभत्तोंदनेय सूक्तवु" (*tombhattondaneya sūktavu*, "the ninety-first Sūkta")
+
+### Page 325 (PDF 340)
+
+*(Running head left: "A. 1 A. 6 Va. 17 [?]"; centre: "Ṛgvedasaṃhitā"; right: 325. Heading printed large, in Kannada: "ತೊಂಭತ್ತೊಂದನೆಯ ಸೂಕ್ತವು". The contents table gives p. 325, which agrees.)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; Kannada script converted letter by letter; compressed and read with doubt in places [?])**
+
+> त्वं सोमेति त्रयोविंशत्यृचं सप्तमं सूक्तं गोतमस्यार्षं सोमदेवताकम् । पञ्चम्याद्याः षोडश्यन्ता द्वादशर्चो गायत्र्यः । सप्तदशी उष्णिक् । शिष्टा दश त्रिष्टुभः । तथा चानुक्रान्तम् । त्वं सोमु त्र्यधिका सौम्यं पञ्चमाद्यि गायत्रो द्वादशोष्णिक् चेति ॥ सूक्तविनियोगो लैङ्गिकः । एकादशिनस्य सौम्यस्य पशोर्वपापुरोडाशयोस्त्वं सोमेति द्वे ऋचावनुवाक्ये । सूत्रितं च । त्वं सोम प्र चिकितो मनीषेति द्वे । आ. ३-२ [?] । इति ॥ महापितृयज्ञे एकैकस्य हविषो द्वे द्वे अनुवाक्ये । तत्र सोमस्य पितृमतस्त्वं सोमेत्येषा प्रथमानुवाक्या । दक्षिणाग्नेरग्निमिति खण्डे सूत्रितं । त्वं सोम प्र चिकितो मनीषा सोमो धेनुं । आ. २-१९ [?] । इति ॥ एतस्यैव प्रायणीयेष्ट्यां सौम्यस्यानुवाक्या । तदहः प्रायणीयेष्टिरित्यत्र सूत्रितं । त्वं सोम प्र चिकितो मनीषा या ते धामानि दिवि या पृथिव्यां । आ. ४-३ [?] । इति ॥
+
+*tvaṃ somety trayoviṃśatyṛcaṃ saptamaṃ sūktaṃ gotamasyārṣaṃ somadevatākam | pañcamyādyāḥ ṣoḍaśyantā dvādaśarco gāyatryaḥ | saptadaśī uṣṇik | śiṣṭā daśa triṣṭubhaḥ | tathā cānukrāntam | tvaṃ soma tryadhikā saumyaṃ pañcamādyi gāyatro dvādaśoṣṇik ceti ‖ sūktaviniyogo laiṅgikaḥ | ekādaśinasya saumyasya paśor vapāpuroḍāśayos tvaṃ somēti dve ṛcāv anuvākye | sūtritaṃ ca | tvaṃ soma pra cikito manīṣeti dve | Ā. 3-2 [?] | iti ‖ mahāpitṛyajñe ekaikasya haviṣo dve dve anuvākye | tatra somasya pitṛmatas tvaṃ somety eṣā prathamānuvākyā | dakṣiṇāgner agnim iti khaṇḍe sūtritaṃ | tvaṃ soma pra cikito manīṣā somo dhenuṃ | Ā. 2-19 [?] | iti ‖ etasyaiva prāyaṇīyeṣṭyāṃ saumyasyānuvākyā | tadahaḥ prāyaṇīyeṣṭir ity atra sūtritaṃ | tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyāṃ | Ā. 4-3 [?] | iti ‖*
+
+*Translation (as read; the Anukramaṇī line is garbled in the print: "tryadhikā", "pañcamādyi", "dvādaśoṣṇik" are as printed and not corrected [?]):* "The seventh sūkta, *tvaṃ soma*, of twenty-three Ṛks, the vision of Gotama, addressed to Soma. The twelve Ṛks from the fifth to the sixteenth are Gāyatrī; the seventeenth is Uṣṇih; the remaining ten are Triṣṭubh. So it is recorded in the Anukramaṇī. The application of the sūkta is *laiṅgika*. At the animal sacrifice of the Saumya (Soma-deity) in the *ekādaśinī*, the two Ṛks *tvaṃ soma* are the *anuvākyā* for the *vapā* and the *puroḍāśa*; prescribed: '*tvaṃ soma pra cikito manīṣeti dve*' (Āś. [3-2] [?]). At the *Mahāpitṛyajña*, each oblation has two *anuvākyās*; of these, for Soma Pitṛmat, '*tvaṃ soma*' is the first *anuvākyā*; prescribed in the section *dakṣiṇāgner agnim*: '*tvaṃ soma pra cikito manīṣā somo dhenum*' (Āś. [2-19] [?]). It is also the *anuvākyā* of the Saumya in the *prāyaṇīyā* offering of this same rite; prescribed: '*tadahaḥ prāyaṇīyeṣṭiḥ*' — '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Āś. [4-3] [?])."
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *tvaṃ soma* is the seventh sūkta in the fourteenth anuvāka. There are twenty-three Ṛks in it. The ṛṣi of this sūkta is Gotama. The deity is Soma. Of these, twelve Ṛks, from the fifth to the sixteenth, are in the Gāyatrī metre; the seventeenth Ṛk in the Uṣṇih metre. The remaining ten Ṛks are in the Triṣṭubh metre. In the Anukramaṇī it is said '*tvaṃ soma tryadhikā saumyaṃ pañcamādyi gāyatro dvādaśoṣṇik ceti*' [as printed]. The application of the sūkta is *laiṅgika*. In the Soma sacrifice called *Ekādaśina*, when the *vapā* (omentum) and the *puroḍāśa* of the animal are offered in the fire, the two Ṛks of this sūkta, *tvaṃ soma*, are to be used as *anuvākyā* mantras; the Āśvalāyana Śrauta-sūtra says this by the sūtra '*tvaṃ soma pra cikito manīṣeti dve*' (Āś. [3-2] [?]). In the *Mahāpitṛyajña*, for each oblation there are two *anuvākyā* mantras; of these, the Ṛk *tvaṃ soma* is the first *anuvākyā* mantra for the oblation to Soma Pitṛmat; this is set forth in the Āśvalāyana Śrauta-sūtra, in the section *dakṣiṇāgner agnim*, by the sūtra '*tvaṃ soma pra cikito manīṣā somo dhenum*' (Āś. [2-19] [?]). Besides, the first Ṛk of this sūkta is also to be used as the *puronuvākyā* mantra of the Soma deity in the *Prāyaṇīyā* offering, as is shown in the section *tadahaḥ prāyaṇīyeṣṭiḥ* by the sūtra '*tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyām*' (Āś. [4-3] [?])."
+
+*(printer's ornament)*
+
+---
+
+**Progress note:** Printed pp. 1–325 done (PDF 16–340) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete** (90: nine Ṛks, ended on p. 324, no closing line in the print). **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): heading, Sanskrit introduction and Anuvāda done (p. 325); the Sūkta's own heading block (Om, numerals, ṛṣi/deity/metre list) and Rik 91.1 begin on p. 326. Next: printed p. 326 (PDF 341). The user's request for "the next two sūktas" (89 and 90) is complete. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 and the Āśvalāyana numerals on p. 325 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290, the *pañcajanāḥ* citations on pp. 300–301, the *vanaspati* lists on p. 321 and the Viṣṇu citations on pp. 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 and p. 325 introductions compressed/garbled; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
