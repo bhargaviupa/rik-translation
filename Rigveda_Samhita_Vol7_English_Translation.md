@@ -9120,4 +9120,84 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–325 done (PDF 16–340) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete** (90: nine Ṛks, ended on p. 324, no closing line in the print). **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): heading, Sanskrit introduction and Anuvāda done (p. 325); the Sūkta's own heading block (Om, numerals, ṛṣi/deity/metre list) and Rik 91.1 begin on p. 326. Next: printed p. 326 (PDF 341). The user's request for "the next two sūktas" (89 and 90) is complete. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 and the Āśvalāyana numerals on p. 325 [?]; the Āśvalāyana Gṛhya numeral on pp. 315–316 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290, the *pañcajanāḥ* citations on pp. 300–301, the *vanaspati* lists on p. 321 and the Viṣṇu citations on pp. 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; the Āśvalāyana numerals on pp. 292–293, 299–300, 313 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5 (*kartā/karta*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 and p. 325 introductions compressed/garbled; pp. 267, 270, 273–274, 282, 292, 296, 299, 311, 313 and 315 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311, 313, 315: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 326 (PDF 341)
+
+*(Running head: left "326", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91" in small Kannada numerals.)*
+
+**॥ ॐ ॥ — Sūkta 91**
+
+**Maṇḍala 1 ‖ Anuvāka 14 ‖ Sūkta 91 ‖ Aṣṭaka 1 ‖ Adhyāya 6 ‖ Varga 19, 20, 21, 22, 23 [?]** *(the five varga numerals, in small Kannada digits, as read; doubtful [?])*
+
+*Number of Ṛks in the Sūkta: 23. ‖ Ṛṣi: Gotama Rāhūgaṇa ‖ Devatā: Soma ‖ Chandas: Ṛks 1–4 and 18–23 Triṣṭubh; 5–16 Gāyatrī; 17 Uṣṇih.*
+
+> ॥ ऋषिः — गोतमो राहूगणः ॥ देवता — सोमः ॥ छन्दः — १–४, १८–२३ त्रिष्टुप् । ५–१६ गायत्री । १७ उष्णिक् ॥
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.1)**
+
+> त्वं सोम प्र चिकितो मनीषा त्वं रजिष्ठमनु नेषि पंथाम् ।
+> तव प्रणीती पितरो न इन्दो देवेषु रत्नमभजन्त धीराः ॥ १ ॥
+
+*tvaṃ soma pra cikito manīṣā tvaṃ rajiṣṭham anu neṣi paṃthām | tava praṇītī pitaro na indo deveṣu ratnam abhajanta dhīrāḥ ‖ 1 ‖*
+
+*(Accent marks not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.1)** *(the sub-heading is printed on p. 326 as "Bhāvārtha", evidently a misprint for Pada-pāṭha)*
+
+> त्वम् । सोम । प्र । चिकितः । मनीषा । त्वम् । रजिष्ठम् । अनु । नेषि । पंथाम् ।
+> तव । प्रऽनीती । पितरः । नः । इन्दो इति । देवेषु । रत्नम् । अभजन्त । धीराः ॥ १ ॥
+
+*tvam | soma | pra | cikitaḥ | manīṣā | tvam | rajiṣṭham | anu | neṣi | paṃthām | tava | pra-nītī | pitaraḥ | naḥ | indo iti | deveṣu | ratnam | abhajanta | dhīrāḥ ‖ 1 ‖*
+
+---
+
+### Page 327 (PDF 342)
+
+*(Running head left: "A. 1 A. 6 Va. 19 [?]"; centre: "Ṛgvedasaṃhitā"; right: 327.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.1)**
+
+> हे सोम त्वं मनीषा मनीषयास्मदीयया बुद्ध्या प्र चिकितः । प्रकर्षेण ज्ञातोऽसि । वयं त्वां स्तुतिभिरर्चाम इत्यर्थः । अतस्त्वं रजिष्ठमृजुतममकुटिलं पंथां पंथानं कर्मफलावाप्तिहेतुभूतं मार्गमनु नेषि । अस्मानुसृत्य क्रमेण प्रापयसि । किंच हे इन्दो उन्दनशील सर्वं जगदमृतेन क्लेदयिता सोम तव प्रणीती प्रणीत्या प्रवृत्त्यर्थकेण [?] प्रकृष्टनयनेन धीरा धीमन्तः कर्मवन्तः प्रज्ञावन्तो वा नोऽस्माकं पितरो देवेष्विन्द्रादिषु रत्नं रमणीयं धनमभजन्त । आसेवन्त । प्राप्नुवन् । अतोऽस्मानपि तादृशं धनं प्रापयेत्यर्थः ॥
+
+*he soma tvaṃ manīṣā manīṣayāsmadīyayā buddhyā pra cikitaḥ | prakarṣeṇa jñāto 'si | vayaṃ tvāṃ stutibhir arcāma ity arthaḥ | atas tvaṃ rajiṣṭham ṛjutamam akuṭilaṃ paṃthāṃ paṃthānaṃ karmaphalāvāptihetubhūtaṃ mārgam anu neṣi | asmān anusṛtya krameṇa prāpayasi | kiṃca he indo undanaśīla sarvaṃ jagad amṛtena kledayitā soma tava praṇītī praṇītyā pravṛttyarthakeṇa [?] prakṛṣṭanayanena dhīrā dhīmantaḥ karmavantaḥ prajñāvanto vā no 'smākaṃ pitaro deveṣv indrādiṣu ratnaṃ ramaṇīyaṃ dhanam abhajanta | āsevanta | prāpnuvan | ato 'smān api tādṛśaṃ dhanaṃ prāpayety arthaḥ ‖*
+
+*Translation:* "O Soma, you are *pra cikitaḥ* through our *manīṣā* — through our own understanding — that is, you are known thoroughly; the meaning is, we praise you with hymns. Therefore you lead us along the straightest, the least crooked path — the road that is the means of obtaining the fruit of ritual — following us, and bring us along in due order. Further, O *indo*, you who moisten [*undana*] the whole world with the nectar, Soma: by your *praṇītī*, by your leading — [the words *pravṛttyarthakeṇa* in the print are doubtful [?]] — by an excellent guidance, our fathers, wise (*dhīrāḥ*), possessed of ritual, or possessed of insight, *abhajanta* — enjoyed, obtained — among the gods, Indra and the rest, delightful wealth (*ratnam*). Therefore grant us too such wealth: this is the sense."
+
+*Grammar tail of the bhāṣya (compressed, read in part, characterized not transcribed):* *pra cikitaḥ* from the root *kit* "to know" (*kita jñāne*), in the passive/*karmaṇi* with the *niṣṭhā* suffix, the doubling (*dvirvacana*) being Vedic (*chāndasa*); an alternative explanation through *yajuḥ* [?] is clotted in the print and not read. *gatiranantara* — the preverb retains its accent. *manīṣā* — the instrumental ending replaced by *ḍā* (*supāṃ sulug* [sūtra as cited]). *rajiṣṭham* — from *ṛju*, the suffix *iṣṭhan* optionally, in Chandas (Pā. 6-4-163 [?]); the *ṭi*-elision is cited. *neṣi* — from *nī*, in the present tense, the *śap* elided by "*bahulaṃ chandasi*". *paṃthām* — *pathimathyṛbhukṣām āt* (Pā. 7-1-85 [?]); the accent of *pathi* and *mathi* as initial-acute in the strong cases. *praṇītī* — *tādau ca* (the preverb keeps its own accent); the instrumental by *supāṃ sulug*, preceding-similar long vowel. *(Grammar tail, noted briefly; the numerals read with doubt [?].)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.1)** *(Kannada)*
+
+*Soma* — O Soma-deity; *tvam* — you; *manīṣā* — by our understanding; *pra cikitaḥ* — you have been well understood (therefore); *tvam* — you; *rajiṣṭham* — most straight (authentic); *paṃthām* — [by] the path (the means of obtaining the fruit of rites); *anu neṣi* — you lead us and bring us to it; *indo* — O Soma, who cause all the world to be moistened with nectar; *tava* — your; *praṇītī* — by excellent guidance; *dhīrāḥ* — the wise, or those possessed of ritual; *naḥ* — our; *pitaraḥ* — fathers; *deveṣu* — among Indra and the other gods; *ratnam* — delightful wealth; *abhajanta* — obtained.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.1** *(Kannada; begins at the foot of p. 327)*
+
+"O Soma-deity, we know your nature well by our understanding. You lead us along the most authentic path, which obtains the fruit of rites. O Soma, who moisten all the world with nectar, because of your excellent guidance —
+
+---
+
+### Page 328 (PDF 343)
+
+*(Running head left: "328", centre: "Sāyaṇabhāṣyasahitā", right: "Ma. 1 A. 14 Sū. 91".)*
+
+— our fathers, who followed your path, obtained delightful wealth among the gods, Indra and the others. In the same way, favour us too with wealth."
+
+**English Translation** *(printed in English in the source)*
+
+"Soma, you are thoroughly apprehended by our understanding; you lead us along a straight path ; O Soma, by your guidance our righteous fathers obtained wealth amongst the gods." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.1)** *(Kannada)*
+
+"This sūkta, beginning with *tvaṃ soma*, is addressed to the deity Soma. Because all the mantras addressed to the deity Soma in the Ninth Maṇḍala are in that Maṇḍala, this sūkta ought, by rule, to have been placed in that Maṇḍala. It is not so. In the Anukramaṇī too it is said: '*saha-tvaṃ soma tryadhikā saumyaṃ pañcamyādi gāyatro dvādaśoṣṇik ceti*' [as printed]. And the deity of the Ninth Maṇḍala is called *pavamānaḥ somaḥ*. Although the Soma-deity is one, the Soma-deity qualified by the attribute *pavamāna* ("purifying") is regarded as a separate deity and praised. Therefore this sūkta, whose deity is Soma, was not included among the sūktas of the deity *pavamānaḥ somaḥ*. In the Ṛgveda such an arrangement is a special feature. For example, the words Savitṛ, Āditya and Sūrya ordinarily indicate one deity, yet there are separate sūktas for Savitṛ, for Āditya and for Sūrya. Like them, *agniḥ* and *agniḥ pāvakaḥ*, *draviṇodāḥ* and the other deities are praised separately. In the same way this sūkta was not included in the Ninth Maṇḍala but was placed in the First Maṇḍala together with the sūktas of other deities such as Agni and Indra — this should be understood."
+
+*(Transcription note: the running quotation of the Anukramaṇī, with its reading "saha" and the spelling "tryadhikā / pañcamyādi", is as printed and is not corrected [?].)*
+
+***pra cikitaḥ*** — *kita jñāne* | *prakarṣeṇa jñāto 'si* | *vayaṃ tvāṃ stutibhir arcāsi ity arthaḥ* [as read; clotted [?]]. Kannada: "(By our understanding) you are known — that is, by the power of our understanding we praise you, and through those praises we come to know you: this is the sense. Skandasvāmin explains this word: '*prakarṣeṇa jānāsi yad yāvat jñātavyam*' — you know in full everything that is to be known; so he explains [as read]."
+
+***manīṣā*** — by the power of our understanding; by the praises that we make.
+
+***rajiṣṭham*** — *ṛjutamam akuṭilam* | "straight, not crooked, right, true — such meanings may be given."
+
+***anu neṣi paṃthām*** — "You lead us along the straight path: that is, you act as guide so that we may proceed in the knowledge of sacrificial and other good rites."
+
+---
+
+**Progress note:** Printed pp. 1–328 done (PDF 16–343) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): heading block (p. 326) and Rik 91.1 done; the Special Topics of 91.1 stop at the foot of p. 328 (the print may continue on p. 329). Next: printed p. 329 (PDF 344). Open flags: p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative in the grammar tail doubtful [?]; Pāṇini numerals on p. 327 [?]; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
