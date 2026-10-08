@@ -1571,4 +1571,119 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–49 done (PDF 21–69): Sūkta 95, Riks 95.1–95.8 complete (95.8's Special Topics, with Skandasvāmin's explanation and Bloomfield's remark from *Rig-Veda Repetitions*, on pp. 45–47; grammar on pp. 47–49); Rik 95.9: Saṃhitā, Pada and the first lines of the bhāṣya (p. 49), breaking at the foot of p. 49 at "…*kīdṛśaiḥ | adabdhebhiḥ rākṣasādibhi…*". Next: printed p. 50 (PDF 70). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–49) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.8 (see the earlier notes; newly, on p. 46 the Rigvedic quotation *gobhir yad īm anye…* [?] and Ni. 3-17, 10-46 [?]; the bhāṣya of 95.9, *svakīyair ātmīyais te* [?]); the Pada's *at-bhiḥ* in 95.8; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 50 (PDF 70)
+
+*(Running head: left 50; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Sāyaṇa-bhāṣya of Rik 95.9, continued from p. 49**
+
+> …कीदृशैः । अदब्धेभिः राक्षसादिभिरहिंसितैः । पायुभिः पालनशक्तैः ॥ ज्रयः । जि ज्रि अभिभवने । असुन् । अदब्धेभिः । दभ्नु दम्भे । निष्ठायां यस्य विभाषेतीट्प्रतिषेधः । अनिदितामिति नलोपः । झषस्तथोर्धोऽधः इति धत्वं । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । बहुलं छन्दसीति भिस ऐसभावः ॥ ९ ॥
+> *…kīdṛśaiḥ | adabdhebhiḥ rākṣasādibhir ahiṃsitaiḥ | pāyubhiḥ pālanaśaktaiḥ ‖ jrayaḥ | ji jri abhibhave | asun | adabdhebhiḥ | dabhnu dambhe | niṣṭhāyāṃ yasya vibhāṣeti iṭpratiṣedhaḥ | aniditām iti nalopaḥ | jhaṣas tathor dho 'dhaḥ iti dhatvaṃ | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | bahulaṃ chandasīti bhisa aisabhāvaḥ ‖ 9 ‖*
+
+*Sense (mine, from the Kannada):* "…with what [splendours]? *Adabdhebhiḥ*: not harmed by demons and others; *pāyubhiḥ*: capable of protecting." Tail: *jrayaḥ* — root *ji*, *jri* (to overcome), the suffix *asun*; *adabdhebhiḥ* — root *dabhnu* (to harm); in the *niṣṭhā*, the *iṭ* is prohibited by *yasya vibhāṣā*; elision of the nasal by *aniditām…*; *dha* by *jhaṣas tathor dho 'dhaḥ*; the *nañ*-compound has the first member's natural accent (the indeclinable prefix); *bahulaṃ chandasi*: the *bhis* does not take *ais*. *(Grammar words only as read; numerals none.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*mahiṣasya* — of you, who are powerful (in glory); *te* — your; *jrayaḥ* — (by destroying the demons and others) capable of conquering; *virocamānaṃ* — brilliantly shining; *uru* — extensive; *dhāma* — radiance; *budhnaṃ* — the atmosphere, the foundation of the waters; *paryeti* — pervades all round; *agne* — O Agni; *iddhaḥ* — (by us) kindled; *adabdhebhiḥ* — unharmed (by demons); *pāyubhiḥ* — capable of protecting; *viśvebhiḥ svayaśobhiḥ* — with all your own radiances; *asmān* — us; *pāhi* — protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, your radiance, which is capable of conquering by destroying demons and others, which shines greatly and spreads extensively, pervades the whole atmosphere, the foundation of the waters. O great-souled one, kindled by us, protect us with all your radiances, which are unharmed by demons and capable of protecting."
+
+**English Translation (as printed)**
+
+> The vast and victorious radiance of thee, the mighty one, pervades the firmament ; Agni, who has been kindled by us, preserve us with all your undiminished and protecting glories.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.9 (Kannada)**
+
+"Agni is prayed to with his unimpeded power both to punish the wicked and to protect the good."
+
+***mahiṣasya*** — "*mahat, bṛhat, ukṣitaḥ* and so on — since it is read among the fifteen names meaning 'great' (Ni. 3-3 [?]), 'endowed with greatness, of great power': an epithet of Agni. The word is used in all contexts that speak of 'a being of great strength'."
+
+> ब्रह्मा देवानां पदवीः कवीनामृषिर्विप्राणां महिषो मृगाणाम् ।
+> *brahmā devānāṃ padavīḥ kavīnām ṛṣir viprāṇāṃ mahiṣo mṛgāṇām |*
+> (*Ṛ. Saṃ.* 9-96-6 as read)
+
+*(Gloss, mine and tentative: "the Brahman of the gods, the leader of poets, the seer of sages, the buffalo of wild beasts".)* *(continues on p. 51)*
+
+### Page 51 (PDF 71)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 51.)*
+
+"— in this, among all the beasts (*mṛgāṇām*) the *mahiṣa* is of the greatest strength, and its strength is praised. It is also used in the sense of 'extremely worshipful'."
+
+> निर्यदीं बुध्नान्महिषस्य वर्पस ईशानासः शवसा क्रन्त सूरयः ।
+> *nir yad īṃ budhnān mahiṣasya varpasa īśānāsaḥ śavasā kranta sūrayaḥ |*
+> (*Ṛ. Saṃ.* 1-141-3 as read)
+
+*(Gloss, mine and tentative: "when the lords, the patrons, by their strength, brought forth [him] from the foundation, from the form of the great one".)* "— here the sense is 'excellent', 'worshipful'. In the same way here too it is applied to Agni as an epithet: extremely powerful, strong, and extremely worshipful."
+
+***jrayaḥ*** — "*vartate, ayete, loṭate* and so on, in the list of twenty-two [?] words of motion (*gatikarma*), the word *jrayati* is read (Ni. 2-14 [?]); so the meaning is 'going'. But this word is used to speak of the speed of going, which shows a certain excellence in that going. For example —"
+
+> आधीवासं परि मातू रिहन्नह तुविग्रेभिः सत्वभिर्याति वि ज्रयः ।
+> *ādhīvāsaṃ pari mātū rihann aha tuvigrebhiḥ satvabhir yāti vi jrayaḥ |*
+> (*Ṛ. Saṃ.* 1-140-9 as read [?])
+
+*(Gloss, mine and tentative: "licking round the dwelling of the mothers, he goes about, spreading wide, with his mighty beings".)* "Here the speed of a forest-fire which spreads is described. And —"
+
+> प्रति भद्रा अदृक्षत गवां सर्गा न रश्मयः । ओषा अप्रा उरु ज्रयः ।
+> *prati bhadrā adṛkṣata gavāṃ sargā na raśmayaḥ | oṣā aprā uru jrayaḥ |*
+> (*Ṛ. Saṃ.* 4-52-3 as read)
+
+*(Gloss, mine and tentative: "the auspicious were seen, like the streams of cows, the rays; the dawn has filled the wide space".)* "— in this, for the word *jraya*, the meaning is 'great radiance', or in general 'unimpeded speed', or 'power'; here *jraya dhāma* is an epithet of the radiance, meaning 'radiance endowed with the capacity to conquer by destroying demons and others'."
+
+***budhnam*** — *antarikṣam*: "The derivation of this word was explained in the Special Topics of the previous Ṛk by citing the Nirukta sentence."
+
+***adabdhebhiḥ*** — *ahiṃsitaiḥ*: "'unharmed by anyone': an epithet of *pāyubhiḥ* (protections, with protections). The uses of forms derived from the root *dabh*, which means 'to harm, to destroy', are mostly Vedic. The use of the word *adabdha*, meaning 'unharmed, not destroyed', too has for the most part arisen in Vedic usage. When praying to Agni for protection, *adabdhebhiḥ*, or *gopābhiḥ*, the qualifier and the thing qualified are used together. For example —"
+
+> अप्रयुच्छन्नप्रयुच्छद्भिरग्ने शिवेभिर्नः पायुभिः पाहि शग्मैः ।
+> अदब्धेभिरदृपितेभिरिष्टेऽनिमिषद्भिः परि पाहि नो जाः ॥
+> *aprayucchann aprayucchadbhir agne śivebhir naḥ pāyubhiḥ pāhi śagmaiḥ |*
+> *adabdhebhir adṛpitebhir iṣṭe 'nimiṣadbhiḥ pari pāhi no jāḥ ‖*
+> (*Ṛ. Saṃ.* 1-143-8 as read [?])
+
+### Page 52 (PDF 72)
+
+*(Running head: left 52; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+> अदब्धेभिस्तव गोपाभिरिष्टेऽस्माकं पाहि त्रिषधस्थ सूरीन् ।
+> *adabdhebhis tava gopābhir iṣṭe 'smākaṃ pāhi triṣadhastha sūrīn |*
+> (*Ṛ. Saṃ.* 6-8-2 as read [?])
+
+*(Glosses, mine and tentative, of the two: "unceasing, with kindly protections and comforts, protect us, Agni; with unharmed, unassailable, unwinking [protections], protect our offspring on every side"; "with your unharmed guardians, protect our patrons, you who sit in three seats".)* "In such sentences, the firm faith that the protection of Agni so fully wards off the assaults of enemies, and makes it so that there is no harm, is expressed in many places."
+
+> न तस्य मायया चन रिपुरीशीत मर्त्यः ।
+> *na tasya māyayā cana ripur īśīta martyaḥ |*
+> (*Ṛ. Saṃ.* 8-23-15 as read)
+
+*(Gloss, mine and tentative: "no mortal enemy has power over him by any guile".)* "There is firm faith that no enemy can bring harm to the sacrificer who has come under the protection of Agni."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.9)** *(grammar pages, pp. 52–53, noted briefly; numerals small and doubtful [?])*
+
+***jrayaḥ*** — root *ji*, *jri* (to overcome); *asun* by *sarvadhātubhyo 'sun* (Uṇ. 4-[?] [?]); guṇa of the root's *i* by *sārvadhātukārdhadhātukayoḥ*; *ay*-substitution; the form *jrayas*; since it is *nit*, the initial acute. — ***eti*** — root *iṇ* (to go), *adādi*; *laṭ*, third person singular *tip*; *luk* of *śap*; guṇa of the root's *i* through *tip*; *nighāta*. — ***virocamānam*** — root *ruc* (to shine); *śānac* in the present sense; *śap*; guṇa of the light penultimate; *muk* by *āne muk* (Pā. 7-2-82 [?]) for a stem ending in a vowel; the *śap* being *pit*, it is unaccented; since after a root with *adupadeśa* the *laśarvataddhita* is unaccented, by *tāsyanudāttet* (Pā. 6-1-186 [?]) the *āna* too is unaccented, so the root's accent stays; *vi* is a *gati*, and by *gatikārakopapadāt kṛt* the accent of the later member of the *kṛt* compound. — ***viśvebhiḥ*** — *viśva* + *bhis*: *aisbhāva* is optional by *vā chandasi*, so it does not arise here; *e* for the *a* before *bhis* in the plural by *bahuvacane jhaly et* (Pā. 7-3-103 [?]); the *s* of the ending becomes *ru* and *visarga*. — ***iddhaḥ*** — root *iñindhī* (to shine); *kta* in the passive; the nasal of the penultimate dropped by *aniditāṃ hala upadhāyāḥ kṅiti*; *jhaṣas tathor dho 'dhaḥ* (Pā. 8-2-40 [?]) turns the *t* of the suffix to *dh*; *jhalāṃ jaś jhaśi* (Pā. 8-4-53 [?]) turns the earlier *dh* to *d*; final acute by the suffix accent.
+
+### Page 53 (PDF 73)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 53.)*
+
+*Grammar of Rik 95.9, concluded (noted briefly):* ***adabdhebhiḥ*** — root *dambhu* (to harm); *kta* after it; by *yasya vibhāṣā* (Pā. 7-2-15 [?]) the *iṭ* is prohibited; as before, the nasal dropped (*aniditām*); *dhatva*; the earlier *bh* becomes *b* (*jaśtva*); the form *dabdha*; *na dabdhāḥ* = *adabdhāḥ*, a *nañ*-compound; *tatpuruṣe tulyārtha…* (Pā. 6-2-2 [?]) the first member (the indeclinable) keeps its natural accent; by *bahulaṃ chandasi* the *aisbhāva* of *bhis* is optional, and in the third case plural it is *e*: *adabdhebhiḥ*. — ***pāhi*** — root *pā* (to protect), *adādi*; *loṭ*, second person singular *sip*; *hi* for *sip* by *serhy apicca* (Pā. 3-4-87 [?]); *śap* elided; *nighāta*. — ***asmān*** — the stem *asmad*; accusative plural; the *s* of *śas* becomes *n* by *śaso na* (Pā. 7-1-29 [?]); by the maxim *ādeḥ parasya* the first sound is replaced; the loss of the final *s* by *saṃyogāntalopaḥ*; the stem takes the final *a* by *dvitīyāyāṃ ca* (Pā. 7-2-87 [?]). ‖ 9 ‖ *(Grammar pages, noted briefly; numerals small and doubtful [?].)*
+
+---
+
+### Rik 10
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.10)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> धन्वन्स्रोतः कृणुते गातुमूर्मिं शुक्रैरूर्मिभिरभि नक्षति क्षाम् ।
+> विश्वा सनानि जठरेषु धत्तेऽन्तर्नवासु चरति प्रसूषु ॥ १० ॥
+
+*dhanvan srotaḥ kṛṇute gātum ūrmiṃ śukrair ūrmibhir abhi nakṣati kṣām | viśvā sanāni jaṭhareṣu dhatte 'ntar navāsu carati prasūṣu ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.10)** *(begun; continues on p. 54)*
+
+> धन्वन् । स्रोतः । कृणुते । गातुम् । ऊर्मिम् । शुक्रैः । ऊर्मिऽभिः । अभि । नक्षति । क्षाम् ।
+> *dhanvan | srotaḥ | kṛṇute | gātum | ūrmim | śukraiḥ | ūrmi-bhiḥ | abhi | nakṣati | kṣām |*
+
+---
+
+**Progress note:** Printed pp. 1–53 done (PDF 21–73): Sūkta 95, Riks 95.1–95.9 complete (95.9's Special Topics on pp. 50–52, grammar on pp. 52–53); Rik 95.10: Saṃhitā and the first line of the Pada (foot of p. 53). Next: printed p. 54 (PDF 74) — the rest of the Pada of 95.10, its bhāṣya, and Rik 95.11 to follow (the last Ṛk of Sūkta 95; then Sūkta 96 begins at printed p. 61 = PDF 81). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–53) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.9 (see the earlier notes; on p. 46 the Rigvedic quotation *gobhir yad īm anye…* [?] and Ni. 3-17, 10-46 [?]; the bhāṣya of 95.9, *svakīyair ātmīyais te* [?]; Ṛ. 1-143-8 and 6-8-2 on pp. 51–52 [?]); the Pada's *at-bhiḥ* in 95.8; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the grammar pages and grammatical tails are characterized, not transcribed.
