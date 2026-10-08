@@ -13946,6 +13946,91 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–484 done (PDF 16–499), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.4 complete; Rik 93.5 Saṃhitā, Pada and the opening (application) of the bhāṣya done at the foot of p. 484; the bhāṣya's sense-passage begins on p. 485. Next: printed p. 485 (PDF 500). "
-"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–482 (the p. 482 ones read from small digits: 1-59-6, 1-24-4, 9-34-6, 9-35-3, 10-156-4, 6-8-2, 9-61-16, 6-44-23) and Nirukta numerals [?]; Tai. Saṃ. 2-5-2-4 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4: *tvāṣṭrasakāśād utpannam* and the *prāṇāpāna* sentence read from a clotted print [?]; Pāṇini/Uṇādi numerals on pp. 470–484 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 485 (PDF 500)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 485.)*
+
+*Sāyaṇa-bhāṣya of Rik 93.5, the sense-passage and grammar tail (the application having been given at the foot of p. 484):*
+
+> हे सोम त्वमग्निश्च सक्रतू समानकर्माणौ सन्तौ युवं युवां रोचनानि रोचमानानि दीप्यमानान्येतान्यस्माभिर्निशि दृश्यमानानि ताराग्रहादीनि ज्योतींषि दिवि द्युलोकेऽधत्तं । अधारयतं । उत्तरार्धस्येयमाख्यायिका । इन्द्रो वृत्रं हत्वा ब्रह्महत्याया भीतः सन् पृथिव्यां वृक्षेषु स्त्रीषु अप्सु च तां ब्रह्महत्यां न्यमार्क्षीत् तासामपां शुद्धिरग्नीषोमाभ्यां जातेति । ब्रह्महत्यांशेन पापेन गृभीतान् गृहीतानाक्रान्तान् सिन्धून् नदीविशेषान् हे अग्नीषोमौ युवामभिशस्तेरभिशस्यमानादभितः प्रकटीतादवद्यात् [clotted [?]] पापादमुञ्चतं । मुक्तवन्तौ । यद्वा । वृत्रे इन्द्रेण हतः सन् नदीषु पपात । ततो मृतेन वृत्रशरीरेण नद्यः सर्वा दुष्टा बभूवुः । तथा च तैत्तिरीयकं । इन्द्रो वृत्रमहन् सोऽपोऽभ्यम्रियत तासां यन्मेध्यं यज्ञियं सदेवमासीत्तदपोऽक्रामत् । तै. ब्रा. ३-२-५-१ [?] । इति । तेन दोषेण गृहीता नदीस्तस्माद्दोषादग्नीषोमौ मुक्तवन्तौ ॥ रोचनानि । रुच दीप्तौ । अनुदात्तेतश्च हलादेरिति युच् । सिन्धून् । दीर्घादटि समानपाद इति नकारस्य रुत्वं । अत्रानुनासिक इत्यानुनासिकः । गृभीतान् । हृग्रहोर्भ इति भत्वं ॥
+
+*he soma tvam agniś ca sakratū samānakarmāṇau santau yuvaṃ yuvāṃ rocanāni rocamānāni dīpyamānāny etāny asmābhir niśi dṛśyamānāni tārāgrahādīni jyotīṃṣi divi dyuloke 'dhattaṃ | adhārayataṃ | uttarārdhasyeyam ākhyāyikā | indro vṛtraṃ hatvā brahmahatyāyā bhītaḥ san pṛthivyāṃ vṛkṣeṣu strīṣu apsu ca tāṃ brahmahatyāṃ nyamārkṣīt tāsām apāṃ śuddhir agnīṣomābhyāṃ jāteti | brahmahatyāṃśena pāpena gṛbhītān gṛhītān ākrāntān sindhūn nadīviśeṣān he agnīṣomau yuvām abhiśaster abhiśasyamānād abhitaḥ prakaṭītād avadyāt [clotted [?]] pāpād amuñcataṃ | muktavantau | yadvā | vṛtre indreṇa hataḥ san nadīṣu papāta | tato mṛtena vṛtraśarīreṇa nadyaḥ sarvā duṣṭā babhūvuḥ | tathā ca taittirīyakaṃ | indro vṛtram ahan so 'po 'bhyamriyata tāsāṃ yan medhyaṃ yajñiyaṃ sadevam āsīt tad apo 'krāmat | Tai. Brā. 3-2-5-1 [?] | iti | tena doṣeṇa gṛhītā nadīs tasmād doṣād agnīṣomau muktavantau ‖ rocanāni | ruca dīptau | anudāttetaś ca halāder iti yuc | sindhūn | dīrghād aṭi samānapāda iti nakārasya rutvaṃ | atrānunāsika ity ānunāsikaḥ | gṛbhītān | hṛgrahor bha iti bhatvaṃ ‖*
+
+*Translation:* "O Soma, you and Agni, *sakratū*, being of one work, *yuvam*, you two *adhattam*, set in the sky, in the world of heaven, these *rocanāni*, shining lights — the stars, planets and the like seen by us at night. — This is the narrative for the latter half: Indra, having slain Vṛtra and fearing the sin of Brahma-murder (*brahmahatyā*), lodged that sin in the earth, in the trees, in women and in the waters; the purification of those waters was accomplished by Agni and Soma. *Gṛbhītān* — seized, overcome, *sindhūn*, the rivers in particular, by a part of the Brahmahatyā — *abhiśasteḥ*, from the reviled [evident] *avadyāt*, from the base [?] sin, *amuñcatam*, you two released [the clotted words of the print are given as read [?]]. Or: Vṛtra, killed by Indra, fell into the rivers; and all the rivers were fouled by the dead body of Vṛtra. So the Taittirīya says: 'Indra slew Vṛtra; he [the dead Vṛtra] fell [or: was dying] into the waters; what was pure and fit for sacrifice in them, together with their divinity, departed from the waters' (Tai. Brā. 3-2-5-1 [?]). The rivers seized by that defect — from that defect Agni and Soma released them."
+
+*Grammar tail:* *rocanāni* — root *ruca dīptau*; the suffix *yuc* after a root that is *anudāttet* and begins with a consonant (*anudāttetaś ca halāder*). *sindhūn* — by *dīrghād aṭi samānapāde* the *n* becomes *ru*; by *atrānunāsikaḥ* the nasalization. *gṛbhītān* — by *hṛgrahor bhaḥ* the replacement *bha* [for *ha*].
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.5)** *(Kannada)*
+
+*soma* — O Soma deity; *agniḥ ca* — and O Agni; *sakratū* — having one and the same kind of action; *yuvam* — you two; *rocanāni etāni* — these shining orbs of stars (visible to our eyes); *divi* — in the world of heaven; *adhattam* — have lifted and set; *agnīṣomau* — O Agni and Soma deities, you [*Vṛtra-slaying sin* — *the print adds in brackets:* 'from the sin of Brahma-murder arising from the slaying of Vṛtra']; *gṛbhītān* — enveloped; *sindhūn* — the rivers in particular; *abhiśasteḥ* — evident all around (or reviled); [*avadyāt* — from sin; *gṛbhītān* — (since the dead body of Vṛtra fell, defiled), enveloped by fault;] *sindhūn* — the rivers in particular; *abhiśasteḥ* — evident on all sides; *avadyāt* — from the fault; *amuñcatam* — released (purified).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.5** *(Kannada)*
+
+"O Agni and Soma deities, you two have one and the same kind of action. These shining orbs of stars that are visible to our eyes you two together lifted up and set in the world of heaven. And you freed from that fault, purified, the rivers in particular that had been enveloped by the sin of brahmahatyā and by the pollution arising from the slaying of Vṛtra."
+
+---
+
+### Page 486 (PDF 501)
+
+*(Running head: left "486", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+**English Translation** *(printed in English in the source; Rik 93.5)*
+
+"Agni and Soma, you two acting together have sustained these constellations in the sky ; you have liberated the rivers that had been defied from the notorious imputation." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.5)** *(Kannada)*
+
+"In the animal sacrifice connected with the Agnīṣomīya deity, when the oblations of the *vapā* and the *puroḍāśa* are offered, the three Ṛks beginning *yuvam etāni* are in order *yājyā* mantras. The sūtra regarding this was stated earlier (Ā. 3-8 [?]); and in the *paurṇamāsya* sacrifice too, for the offering of the *puroḍāśa* connected with the Agnīṣomīya deity, the Ṛk *yuvam etāni* is to be used as the *yājyā* mantra; this is shown by the Āśvalāyana Śrauta-sūtra, in the section *uktā devatā*, by the sūtra '*yuvam etāni divi rocanānīndrāgnī avasā gatam*' (Ā. 1-6 [?])."
+
+***sakratū*** — *samānakarmāṇau* | "Having the same kind of action: that is, sharing the principal part in sacrificial and other rites; as explained in the Ṛks above, they cause satisfaction by sharing the oblations with Indra and the other deities, they grant the sacrificers the favour of these, they destroy the darkness that envelops the world and spread light. Thus those who accomplish the work by sharing equally in many kinds of world-benefitting acts: this is the meaning."
+
+***rocanāni etāni divi adhattam*** — "That work, in which the two lift the shining orbs of stars in the world of heaven and spread light over the world, is well known as the beneficent work of these two. For example —"
+
+> निषत्तमस्य चरतो ध्रुवस्य विश्वा दिवो रोचनापप्रिवांसम् ।
+
+*niṣattam asya carato dhruvasya viśvā divo rocanā paprivāṃsam |*  (Ṛ. Saṃ. 1-146-1 [?]; numerals as read, doubtful)
+
+> अधि द्यामस्थाद्वृषभो विचक्षणोऽरूरुचद्वि दिवो रोचना कविः ।
+
+*adhi dyām asthād vṛṣabho vicakṣaṇo 'rūrucad vi divo rocanā kaviḥ |*  (Ṛ. Saṃ. 9-86-9 [?])
+
+*Gloss, mine and tentative:* "[Agni] seated, of the moving and the fixed, filling all the lights of heaven. — The bull, the far-seeing, has mounted heaven; the seer made the lights of heaven shine."
+
+"Likewise (Ṛ. Saṃ. 6-7-7 [?]; 6-4-2 [?]; 6-44-23 [?]; 9-[?]-[?] [?], and so on) in many places it is described that both Agni and Soma lifted up all the orbs of light in the world of heaven and exceedingly increased their lustre."
+
+***gṛbhītān*** — "'Seized': that is, enveloped on all sides and stopped: this is the meaning."
+
+---
+
+### Page 487 (PDF 502)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 487.)*
+
+***sindhūn*** — "*āvanayaḥ, yahvyaḥ, sīrāḥ* and the like being read among the names of rivers (Ni. 1-[?] [?]), *sindhūn* means 'flowing rivers'."
+
+***abhiśasteḥ*** — "Evident on all sides."
+
+***avadyāt*** — "From the sin in the form of the slaying of Vṛtra. From the fault in the form of slaying Vṛtra, 'you removed that fault, when all the rivers had been filled with sin by being enveloped': this is the meaning."
+
+"Here, explaining *sindhūn* as 'rivers in the form of flowing waters', Sāyaṇa says that, at the slaying of Vṛtra, the dead body of Vṛtra fell into the rivers, and then all the rivers were filled with fault; and quoting the sentence of the Taittirīya Brāhmaṇa 3-2-[5]-1 [?] —"
+
+> इन्द्रो वृत्रमहन् सोऽपोऽभ्यम्रियत तासां यन्मेध्यं यज्ञियं सदेवमासीत्तदपोऽक्रामत् ।
+
+*indro vṛtram ahan so 'po 'bhyamriyata tāsāṃ yan medhyaṃ yajñiyaṃ sadevam āsīt tad apo 'krāmat |*  (Tai. Brā. 3-2-5-1 [?])
+
+"— he makes clear that Agni and Soma purified the rivers seized by that fault, by removing the fault."
+
+"But Skandasvāmin explains here the word *sindhūn* as '*syandanāt sindhavo raśmaya ihocyante*' [as read [?]] — 'by reason of flowing, *sindhus* are here called rays' — that is, flowing rays; and citing the sentence '*na sindhavo rajaso antam ānaśuḥ*' (Ṛ. Saṃ. 1-[?]-[?] [?]), he says that, as in that [verse], here too the meaning 'rays' should be given. In that case it is explained that Agni and Soma freed these rays, which had been enveloped by the asura Vṛtra, from the sin in the form of Vṛtra's slaying, by the slaying of Vṛtra, and made them clearly visible all around."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.5)** *(Kannada; grammar page, noted briefly)*
+
+*yuvam* — to the word *yuṣmad*, in the nominative dual, the replacement *am*; since by *prathamayoś ca dvivacane bhāṣāyām* (Pā. 7-2-88 [?]) the lengthening is prescribed for the common language only, it does not occur in the Saṃhitā.
+*divi* — by *ūḍidaṃ padādi* the case-ending takes the acute.
+*rocanāni* — root *ruca dīptau*; since it is *anudāttet*, by *anudāttetaś ca halāder* (Pā. 3-2-149 [?]) the suffix *yuc*; by *yuvor anākau* the replacement *ana* for it; because of it, the guṇa of the light penultimate of the root; the accusative plural; by *cit* [read: by the suffix accent] the final-acute.
+*adhattam* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṅ*, second person dual, —
+
+---
+
+**Progress note:** Printed pp. 1–487 done (PDF 16–502), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.4 complete; Rik 93.5 done through the Special Topics and the first entries of the grammar page (*yuvam*, *divi*, *rocanāni*), which breaks at the foot of p. 487 in *adhattam* ("*laṅ*, second person dual, —"), to be concluded from the head of p. 488. Next: printed p. 488 (PDF 503). "
+"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–487 (those of pp. 482 and 486 read from small digits) and Nirukta numerals [?]; Tai. Saṃ. 2-5-2-4 and Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4 (*tvāṣṭrasakāśād utpannam*, the *prāṇāpāna* sentence) and of 93.5 (*abhiśasteḥ…avadyāt…*, clotted words) [?]; the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss, reproduced as printed; Skandasvāmin's *syandanāt sindhavo raśmaya…* as read [?]; Pāṇini/Uṇādi numerals on pp. 470–487 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
