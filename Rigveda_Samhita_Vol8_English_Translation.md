@@ -3551,4 +3551,130 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–121 done (PDF 21–141): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1 and 97.2 complete (97.2's Special Topics on pp. 117–118, grammar on pp. 118–119); Rik 97.3: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 119–120), and the Special Topics under way (*prabhandiṣṭhaḥ*, *sūrayaḥ*, with Ṛgveda quotations; the passage on Kutsa's distinction, citing 1-3[3]-1[4]), breaking at the foot of p. 121. Next: printed p. 122 (PDF 142). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–121) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on p. 115 and the Ṛgveda numerals on pp. 118–121 [?], the bhāṣya tail of 97.2 (*kyajantād a pratyayāt*) and the last clause of the 97.3 tail [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 122 (PDF 142)
+
+*(Running head: left 122; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**Special Topics of Rik 97.3, concluded from p. 121**
+
+> वह कुत्समिन्द्र यस्मिञ्चाकन्स्यूमन्यू ऋज्रा वातस्याश्वा ।
+> *vaha kutsam indra yasmiñ cākan syūmanyū ṛjrā vātasyāśvā |*
+> (*Ṛ. Saṃ.* 1-1[2]1-5 as read [?])
+
+*(Gloss, mine and tentative: "bring Kutsa, Indra, in whom you delight, with the two swift horses of the wind, the strong-minded". The print's* syūmanyū *is read as given [?].)* "In passages such as these it is told that Indra longed to listen to the praise composed by Kutsa; so the very great distinction of his work is known by the scriptural sentences themselves."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.3)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+***bhandiṣṭhaḥ*** — root *bhadi* (in the sense of welfare, happiness); used here in the sense of praise; *tṛc* in the agent sense; *num* by the *i*-marker (*idito num dhātoḥ*); after the *tṛc*-ending, *iṣṭhan* by *tuś chandasi* (Pā. 5-3-59 [?]); *turiṣṭhemeyaḥsu* (Pā. 6-4-154 [?]) elides *tṛ* before *iṣṭhan*; the form *bhandiṣṭha*; since *iṣṭhan* is *nit*, the initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]). — ***asmākāsaḥ*** — 'belonging to us': *asmākaḥ*; the suffix *añ* after the word *asmad*, and by *tasminn aṇi ca yuṣmākāsmākau* (Pā. 4-3-2 [?]) the replacement *asmāka*; the elision of *añ* in the Veda; by the rule '*saṃjñāpūrvako vidhir anityaḥ*' no vṛddhi arises, though *añ* is the cause; *jas* following, *ājjaser asuk* (Pā. 7-1-50 [?]): the augment *asuk*; the *s* becomes *ru* and *visarga*; the form *asmākāsaḥ*; the acute: as the original has an udātta *a*, the *a* after the *m* in the replacement too is acute; or, on another view, in the genitive plural the middle-acute of *asmākam* is seen, and this extends to the replacement. — ***sūrayaḥ*** — root *ṣūṅ* (to give birth); *kri* by *sūjaḥ kriḥ* [*sūṅo kri*] (Uṇ. 4-[?] [?]); since it is *kit*, no guṇa of the root; *dhātvādeḥ ṣaḥ saḥ*; final acute by the suffix accent; the nominative plural. ‖ 3 ‖
+
+*(A printer's ornament follows.)*
+
+### Page 123 (PDF 143)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 123.)*
+
+### Rik 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.4)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> प्र यत्ते अग्ने सूरयो जायेमहि प्र ते वयम् ।
+> अप नः शोशुचदघम् ॥ ४ ॥
+
+*pra yat te agne sūrayo jāyemahi pra te vayam | apa naḥ śośucad agham ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.4)**
+
+> प्र । यत् । ते । अग्ने । सूरयः । जायेमहि । प्र । ते । वयम् ।
+> अप । नः । शोशुचत् । अघम् ॥ ४ ॥
+
+*pra | yat | te | agne | sūrayaḥ | jāyemahi | pra | te | vayam | apa | naḥ | śośucat | agham ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.4)**
+
+> हे अग्ने यद्यस्मात्ते तव सूरयः स्तोतारः प्रजायन्ते । पुत्रपौत्रादिरूपेण बहुविधा भवन्ति । ततो वयं च ते तव स्तोतारः सन्तः प्र जायेमहि । पुत्रपौत्रादिभिरुपेता भवेम ॥ जायेमहि । प्रार्थनायां लिङ् । श्यनि ज्ञाजनोर्जेति जादेशः । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वं ॥
+> *he agne yad yasmāt te tava sūrayaḥ stotāraḥ prajāyante | putrapautrādirūpeṇa bahuvidhā bhavanti | tato vayaṃ ca te tava stotāraḥ santaḥ pra jāyemahi | putrapautrādibhir upetā bhavema ‖ jāyemahi | prārthanāyāṃ liṅ | śyani jñājanor jā iti jādeśaḥ | ādupadeśāl lasārvadhātukānudāttatve śyano nittvād ādyudāttatvaṃ ‖*
+
+*Sense (mine, from the Kannada):* "O Agni, since your praisers (*sūrayaḥ*) are born in many ways in the form of sons, grandsons and the like, therefore may we too, being your praisers, be born forth (*pra jāyemahi*): may we be endowed with sons, grandsons and the like." Tail: *jāyemahi* — *liṅ* in the sense of prayer; *śyan*, *jā* for the root by *jñājanor jā*; since the root has *adupadeśa*, the *laśarvataddhita* is unaccented and the initial acute remains from the *nit*-ness of *śyan*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*agne* — O Agni; *yat* — for which reason (in which way); *te* — your; *sūrayaḥ* — the devotees who praise; *pra* — (like sons, grandsons and others who grow best); *vayaṃ* — we too; *te* — [being] your (devotees by your grace); *prajāyemahi* — may we be endowed with excellent sons, grandsons and the like (so favour us); *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, in the way that all those who praise you grow with sons, grandsons and the like, so may we too, being your devotees and praisers, favour [us] that our line may grow with sons, grandsons and the like. May our sin be destroyed."
+
+### Page 124 (PDF 144)
+
+*(Running head: left 124; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**English Translation (as printed)**
+
+> Inasmuch as your worshippers (are blessed with descendants,) so may we, (by repeating your praise,) obtain posterity : may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.4 (Kannada)**
+
+"In the manner of the words '*agne yat te sūrayaḥ pra vayaṃ te prajāyemahi*' —"
+
+> अतूर्तं श्रावयत्पतिं पुत्रं ददाति दाशुषे ।
+> *atūrtaṃ śrāvayatpatiṃ putraṃ dadāti dāśuṣe |*
+> (*Ṛ. Saṃ.* 3-2[?]-3 as read [?])
+
+"— since there is the faith that Agni favours a son of the kind who will spread the fame of the family and who is powerful, all those who desire the growth of the line, with the same faith, praise Agni; and Kutsa's prayer is that the Agni who, satisfied by that praise, gives other praisers the wealth of sons and makes their line grow, may make his own offspring grow too."
+
+> चन्द्रं रयिं पुरुवीरं बृहन्तं चन्द्र चन्द्राभिर्गृणते युवस्व ।
+> *candraṃ rayiṃ puruvīraṃ bṛhantaṃ candra candrābhir gṛṇate yuvasva |*
+> (*Ṛ. Saṃ.* 6-6-6 as read [?])
+
+*(Gloss, mine and tentative: "delightful wealth, rich in heroes, great; O delightful one, with delightful [gifts] join the praiser".)* "— as in such places the prayer is made: to bestow on him a son who will give him joy, make his line grow, and follow the path of the good; and, so that he be fit for the wealth of a son, to destroy his own sin completely."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.4)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+***jāyemahi*** — root *janī* (to arise); since the sense of prayer is shown, *liṅ*; first person plural *mahiṅ*; *śyan* by *divādibhyaḥ śyan* (Pā. 3-1-69 [?]); with it following, *jñājanor jā* (Pā. 7-3-79 [?]) gives *jā* for the root; for *liṅ*, the augment *yāsuṭ* by *yāsuṭ parasmaipadeṣūdātto ṅicca* (Pā. 3-4-103 [?]); since a short *a* follows, *yāsuṭ* arises; *ato yeyaḥ* (Pā. 7-2-80 [?]) gives *iya* for it; *lopo vyor vali* (Pā. 6-1-66 [?]) elides the *y* there; the *i* with *a* goes by guṇa to *e* [*ekādeśa*]; the form *jāyemahi*; since the *laśarvataddhita* follows an *adupadeśa*, *tāsyanudāttet* (Pā. 6-1-186 [?]) makes it unaccented; since *śyan* is *nit*, the initial acute by *ñnityādir nityam*; since *yat* is related to it, by *yadvṛttān nityam* (Pā. 8-1-66 [?]) the *nighāta* is blocked. — ***te*** — the word *yuṣmad*; in the genitive singular, *tava* is the form; *temayāv ekavacanasya* (Pā. 8-1-22 [?]): the *te* substitute [also by *anudātta*]. ‖ 4 ‖
+
+### Page 125 (PDF 145)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 125.)*
+
+### Rik 5
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.5)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> प्र यदग्नेः सहस्वतो विश्वतो यन्ति भानवः ।
+> अप नः शोशुचदघम् ॥ ५ ॥
+
+*pra yad agneḥ sahasvato viśvato yanti bhānavaḥ | apa naḥ śośucad agham ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.5)**
+
+> प्र । यत् । अग्नेः । सहस्वतः । विश्वतः । यन्ति । भानवः ।
+> अप । नः । शोशुचत् । अघम् ॥ ५ ॥
+
+*pra | yat | agneḥ | sahasvataḥ | viśvataḥ | yanti | bhānavaḥ | apa | naḥ | śośucat | agham ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.5)**
+
+> सहस्वतः सहनवतः शत्रूनभिभवतोऽग्नेर्भानवो दीप्तयो विश्वतः सर्वतः सर्वस्मादपि प्रदेशात्प्र यन्ति । प्रकर्षेणोद्गच्छन्ति । यद्यस्मादेवं तस्मात्तेनाग्नितेजसास्मदीयमघं नश्यतु ॥ यन्ति । इणो यण् । पा. ६-४-८१ । इति यणादेशः ॥
+> *sahasvataḥ sahanavataḥ śatrūn abhibhavato 'gner bhānavo dīptayo viśvataḥ sarvataḥ sarvasmād api pradeśāt pra yanti | prakarṣeṇodgacchanti | yad yasmād evaṃ tasmāt tenāgnitejasāsmadīyam agham naśyatu ‖ yanti | iṇo yaṇ | pā. 6-4-81 | iti yaṇādeśaḥ ‖*
+
+*Sense (mine, from the Kannada):* "The flames (*bhānavaḥ*, rays) of Agni, who is *sahasvān* — endowed with strength, who overpowers enemies — go forth (*pra yanti*) from every direction, from every place: they rise up powerfully. Since it is so, by that fire's radiance may our sin perish." Tail: *yanti* — *yaṇ* for the root *iṇ* (Pā. 6-4-81 [?]).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yat* — in which way; *sahasvataḥ* — (confronting and overcoming foes) the one who overcomes; *agneḥ* — of Agni; *bhānavaḥ* — the flames; *viśvataḥ* — in all regions; *pra yanti* — move forward and spread (by that); *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Since the flames of Agni, who is able to confront and overcome enemies, spread forward in all regions, may our sin be burned up and become ashes."
+
+**English Translation (as printed)**
+
+> Since the victorious flames of Agni penetrate universally, may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.5 (Kannada)**
+
+***sahasvataḥ*** — "*ojaḥ*, *pājaḥ* and so on are read among the twelve [?] names of strength (Ni. 2-9 [?]), so the word *sahas* means 'strength'. *Sahaḥ asmin asti iti sahasvān* ('he in whom there is strength is *sahasvān*'); of him, [of Agni] who has strength, thus" *(continues on p. 126)*
+
+---
+
+**Progress note:** Printed pp. 1–125 done (PDF 21–145): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.4 complete (97.3's Special Topics concluded and grammar on p. 122; 97.4 on pp. 123–124); Rik 97.5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done (p. 125) and the Special Topics begun (*sahasvataḥ*), breaking at the foot of p. 125. Next: printed p. 126 (PDF 146). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–125) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122 and 124 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*) and 97.3 (last clause) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
