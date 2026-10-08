@@ -12590,6 +12590,81 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–442 done (PDF 16–457), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.9 complete (92.3 minus the missing p. 413); Rik 92.10 done through most of its Special Topics (the Max Müller quotation, *punaḥ punar jāyamānā*, *śumbhamānā*, *vijaḥ*, *āminānā*, *kṛtnuḥ*), which break at the foot of p. 442 mid-sentence at *śvaghnī* ("The first, as the Nirukta writer's explanation: *śvaghnī* —"), to be continued from the head of p. 443; the grammar page follows. Next: printed p. 443 (PDF 458). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (the citation there beginning *vṛścas tīrviyā…* is the Ṛk *vyacasvatīr urviyā vi śrayantām…*, whose clear print is on p. 442 — the reading on p. 436 is superseded by that on p. 442); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–442 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–439 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10; the Max Müller quotation reproduced from the print; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9). "
+### Page 443 (PDF 458)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 443.)*
+
+*Special Topics of Rik 92.10, continued from p. 442 (Kannada):*
+
+***śvaghnī*** — "*śvaghnī* is *kitavo bhavati, svaṃ hanti svaṃ punar āśritaṃ bhavati* [as read] — *śvaghnī* means a gambler: he destroys himself; he ruins himself; and again he becomes dependent on others. [The author of the Nirukta (Ni. 5-[?] [?])] explains in this way and cites the Ṛk of the Ṛksaṃhitā —"
+
+> कृतं न श्वघ्नी वि चिनोति देवने संवर्गं यन्मघवा सूर्यं जयत् ।
+
+*kṛtaṃ na śvaghnī vi cinoti devane saṃvargaṃ yan maghavā sūryaṃ jayat |*  (Ṛ. Saṃ. 10-43-5 [?]; the Saṃhitā text as read, doubtful [?])
+
+*Gloss, mine and tentative:* "As a gambler gathers the winning throw at the dice, so [Indra] gathers the booty, when the bounteous one wins the sun."
+
+"If one follows this explanation, here *śvaghnī* is a gambler. Skandasvāmin explains: '*śvabhir hantīti śvaghnī lubdhaka ihocyate*' — 'he who kills by means of dogs, the huntsman, is called *śvaghnī* here' — that is, a hunter who kills deer by means of dogs; and Sāyaṇa: '*śunā mṛgān hatavān śvahā | tasya strī śvaghnī*' — 'the hunter's wife, who kills deer by means of dogs'. In the Ṛksaṃhitā, in the five places other than this Ṛk, there is use of the word *śvaghnī*. In those, Ṛ. Saṃ. 5-[?]-4 [?]; and 10-[?]-5 [?]; 6-[?]-2 [?] [the print's numerals], the word means *vyādha*, hunter, and in 10-42-9 [?]; 10-43-5 [?]; 9-[?]-[?] [?], where it occurs, Sāyaṇa explains it as *kitava*, gambler."
+
+"Whichever meaning is given, a certain distress is also expressed: the Uṣas, who gives beauty and gives consciousness to the world, brings old age to all creatures without their knowing it, and becomes the cause of destruction."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.10)** *(Kannada; grammar page, noted briefly)*
+
+*jāyamānā* — root *janī prādurbhāve*; in the present sense *śānac*; by *jñājanoṛjā* (Pā. 7-3-79 [?]) the replacement *jā* for the root; *śyan* as the stem-suffix; by *āne muk* (Pā. 7-2-82 [?]) the augment *muk* for the *a*-ending stem; since the *lasārvadhātuka* is unaccented by *tāsyanudāttetṅ…* (Pā. 6-1-186 [?]), and *śyan* is *nit*, the initial acute.
+*purāṇī* — *purā bhavā purāṇī*; *purā* is an indeclinable ending in *ā*; by *sāyaṃ ciraṃ prāhṇe prage 'vyayebhyaṣ ṭyuṭyulau tuṭ ca* (Pā. 4-3-23 [?]) the suffix *ṭyu* in the sense of 'being'; by *yuvor anākau* the replacement *ana* for *yu*; since the suffix is *ṭit*, by *ṭiḍḍhāṇañ…* (Pā. 4-1-15 [?]) the suffix *ṅīp*; since *n* has arisen after *r*, by *aṭkupvāṅnumvyavāye 'pi* (Pā. 8-4-2 [?]) *ṇatva* of it; by *vyatyaya* the final-acute.
+*śumbhamānā* — root *śumbha dīptau*; in the present sense *śānac*; *śap* as the stem-suffix; by *āne muk* the augment *muk* for the *a*-ending stem; since *śap* is *pit* it is unaccented; since the root's accent is *āduddhāta*, because it follows the root, by *tāsyanudāttetṅ…* the *lasārvadhātuka* (*āna*) is unaccented; hence the accent of the root remains.
+
+---
+
+### Page 444 (PDF 459)
+
+*(Running head: left "444", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.10, concluded (grammar page, noted briefly):*
+
+*śvaghnī* — *śunā mṛgān hatavān śvahā*; by *bahulaṃ chandasi* (Pā. 3-2-88 [?]), though the rule lays down that *brahman* and the like must be the *upapada*, the case is an exception to it: with *upapada* [*śvan*], *kvip* after *han*; *śvahan*; since it ends in *n*, in the feminine by *ṛnnebhyo ṅīp* the suffix *ṅīp*; since the name *bha* applies, by *allopo 'naḥ* the *a* of *an* is elided; by *ho hanter ñṇinneṣu* (Pā. 7-3-54 [?]) the *h* of the root, since *n* follows, becomes *kutva* [*gh*]; since the elided *a* was acute, by *anudāttasya ca yatrodāttalopaḥ* the *ṅīp* takes the acute.
+*kṛtnuḥ* — root *kṛtī chedane*; the Uṇādi suffix *knu*; since it is *kit*, the guṇa of the light penultimate does not occur; by the suffix accent the final-acute.
+*vijaḥ* — root *oviji bhayacalanayoḥ*; "*vijanti calanti iti vijaḥ*", birds; by *kvip ca* the suffix *kvip*; the nominative plural.
+*āminānā* — root *mīñ hiṃsāyām*, of the *kryādi* class; since it is in the *sthādi* list, by *sthādīnāṃ hrasvaḥ* (Pā. 7-3-80 [?], printed 'prasva') the shortening; in the present sense *śānac*; *śnā* as the stem-suffix by *kryādibhyaḥ śnā*; *āṅ* the preverb: *āminānā*; since *śānac* is *cit*, by *cit* the final-acute. ‖ 10 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.11)** *(Triṣṭubh)*
+
+> व्यूर्ण्वती दिवो अन्ताँ अबोध्यप स्वसारं सनुतर्युयोति ।
+> प्रमिनती मनुष्या युगानि योषा जारस्य चक्षसा वि भाति ॥ ११ ॥
+
+*vy ūrṇvatī divo antāṃ abodhy apa svasāraṃ sanutar yuyoti | praminatī manuṣyā yugāni yoṣā jārasya cakṣasā vi bhāti ‖ 11 ‖*
+
+*(The Saṃhitā prints *antāṃ abodhi apa*; the Pada has *antān | abodhi | apa*. Accent marks not reproduced.)*
+
+---
+
+### Page 445 (PDF 460)
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 445.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.11)**
+
+> विऽऊर्ण्वती । दिवः । अन्तान् । अबोधि । अप । स्वसारम् । सनुतः । युयोति ।
+> प्रऽमिनती । मनुष्या । युगानि । योषा । जारस्य । चक्षसा । वि । भाति ॥ ११ ॥
+
+*vi-ūrṇvatī | divaḥ | antān | abodhi | apa | svasāram | sanutaḥ | yuyoti | pra-minatī | manuṣyā | yugāni | yoṣā | jārasya | cakṣasā | vi | bhāti ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.11)**
+
+> दिवो नभसोऽन्तान् प्रान्तान्व्यूर्ण्वती विवृतांस्तमसा वियुक्तान् कुर्वत्युषा अबोधि । सर्वैः प्राणिभिरज्ञायि । ज्ञाताभूत् । तदनन्तरं स्वसारमुषसः प्रादुर्भावे सति स्वयमेव सरन्तीं निशां सनुतः । अन्तर्हितनामैतत् । अन्तर्हितप्रदेशे ऽपि युयोति । अपगमय्य पृथक्करोति । मनुष्या मनुष्याणां संबन्धीनि युगानि कृतत्रेतादीनि प्रमिनती स्वगमनागमनाभ्यां प्रकर्षेण हिंसन्ती जारस्य रात्रेर्जरयितुः सूर्यस्य योषा जायोषाश्च स्वसात्मीयेन प्रकाशेन वि भाति । विशेषेण प्रकाशते ॥ व्यूर्ण्वती । ऊर्णुञ् आच्छादने । विपूर्वादस्माल्लटः शतृ । उगितश्चेति ङीप् । शतुरनुम इति नद्या उदात्तत्वं । सनुतः । एतदन्तोदात्तं स्वरादिषु निपातितं । आतोऽव्ययेसंज्ञायामव्ययादाप्सुप इति सप्तम्या लुक् । युयोति । यु मिश्रणामिश्रणयोः । बहुलं छन्दसीति शपः श्लुः । मनुष्या । सुपां सुलुगिति षष्ठ्या ड्यादेशः । युगानि । युजेः करणे कर्मणि वा घञ् । चजोः कु घिण्यतोरिति कुत्वं । उम्भादिषु कालविशेषे रथाद्युपकरणे च युगशब्दपाठात् लघूपधगुणाभावः । का. ६-१-१६० [?] उम्भादीनां चेत्यन्तोदात्तत्वं । जारस्य । दारजारौ कर्तरि णिलुक्च । पा. ३-३-२० [?] । घञन्तो निपात्यते ॥
+
+*divo nabhaso 'ntān prāntān vy ūrṇvatī vivṛtāṃs tamasā viyuktān kurvaty uṣā abodhi | sarvaiḥ prāṇibhir ajñāyi | jñātābhūt | tadanantaraṃ svasāram uṣasaḥ prādurbhāve sati svayam eva sarantīṃ niśāṃ sanutaḥ | antarhitanāmaitat | antarhitapradeśe 'pi yuyoti | apagamayya pṛthak karoti | manuṣyā manuṣyāṇāṃ saṃbandhīni yugāni kṛtatretādīni praminatī svagamanāgamanābhyāṃ prakarṣeṇa hiṃsantī jārasya rātrer jarayituḥ sūryasya yoṣā jāyoṣāś ca svasātmīyena prakāśena vi bhāti | viśeṣeṇa prakāśate ‖ vyūrṇvatī | ūrṇuñ ācchādane | vipūrvād asmāl laṭaḥ śatṛ | ugitaś ceti ṅīp | śatur anuma iti nadyā udāttatvaṃ | sanutaḥ | etadantodāttaṃ svarādiṣu nipātitaṃ | āto 'vyayesaṃjñāyām avyayād āpsupa iti saptamyā luk | yuyoti | yu miśraṇāmiśraṇayoḥ | bahulaṃ chandasīti śapaḥ śluḥ | manuṣyā | supāṃ sulug iti ṣaṣṭhyā ḍyādeśaḥ | yugāni | yujeḥ karaṇe karmaṇi vā ghañ | cajoḥ ku ghiṇyator iti kutvaṃ | umbhādiṣu kālaviśeṣe rathādyupakaraṇe ca yugaśabdapāṭhāt laghūpadhaguṇābhāvaḥ | Kā. 6-1-160 [?] umbhādīnāṃ cety antodāttatvaṃ | jārasya | dārajārau kartari ṇiluk ca | Pā. 3-3-20 [?] | ghañanto nipātyate ‖*
+
+*Translation:* "The Uṣas, *vy ūrṇvatī*, laying open the *divaḥ antān*, the edges of the sky, freeing them from darkness, *abodhi* — was noticed by all beings; became known. Thereupon, at Uṣas's appearance, *svasāram*, her sister, the Night, who goes off of herself, *sanutaḥ* [a word meaning 'hidden'], *apa yuyoti* — she sends away, even from the hidden places, separates her. *Manuṣyā yugāni praminatī* — destroying, by her going and coming, the *yugas*, the ages (Kṛta, Tretā and the rest) of men, the *yoṣā*, the wife of *jāra*, the wearer-out of night, the Sun, shines with her own light, *vi bhāti*."
+
+*Grammar tail (partly clotted; characterized):* *vyūrṇvatī* — root *ūrṇuñ ācchādane*, with *vi*; the *śatṛ* in the *laṭ*; *ṅīp* by *ugitaś ca*; by *śatur anumo nadyajādī* the *nadī* takes the acute. *sanutaḥ* — listed among the *svarādi* words as a final-acute irregular form; by *āto 'vyaye saṃjñāyām…* the *luk* of the locative. *yuyoti* — root *yu miśraṇāmiśraṇayoḥ*; *ślu* for *śap* by *bahulaṃ chandasi*. *manuṣyā* — *ḍyā* replaces the genitive by *supāṃ sulug*. *yugāni* — *ghañ* from *yuj* in the instrumental or the passive sense; *kutva* by *cajoḥ ku ghiṇyatoḥ*; since the word *yuga* is read among the *umbhādi* words — in the sense of a particular time and of the apparatus of a chariot and the like — the guṇa of the light penultimate does not occur; final-acute by *umbhādīnāṃ ca* (Kā. 6-1-160 [?]). *jārasya* — *dāra* and *jāra* are formed irregularly by Pā. 3-3-20 [?] with the *ghañ* and the elision of *ṇi*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.11)** *(Kannada)*
+
+*divaḥ* — of the mid-region; *antān* — all the end-parts; *vy ūrṇvatī* — (freeing them from darkness) causing them to shine, the Uṣas deity; *abodhi* — (by all) was known; (afterwards) *svasāram* — her own sister, who went away by herself, the night; *sanutaḥ* — to a hidden place; *apa yuyoti* — drives so that she is not seen; *manuṣyā* — of men; *yugāni* — the ages Kṛta, Tretā and the rest; *praminatī* — causing to pass; *jārasya* — of the Sun, who makes the night end, or her beloved Sun; *yoṣā* — as wife; *cakṣasā* — with her own radiance; *vi bhāti* — shines.
+
+---
+
+**Progress note:** Printed pp. 1–445 done (PDF 16–460), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.10 complete (92.3 minus the missing p. 413); Rik 92.11 Saṃhitā, Pada, bhāṣya and Pratipadārtha done (pp. 444–445); its Bhāvārtha, English translation, Special Topics and grammar page come next. Next: printed p. 446 (PDF 461). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–443 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–445 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10; the Special Topics of 92.10: the *śvaghnī* Ṛgveda numerals (several unreadable) [?]; the 'Part [5?], pp. 32–33' reference [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
