@@ -11143,6 +11143,76 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–391 done (PDF 16–406) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.20 complete; Rik 91.21 done through the English translation, and its Special Topics break mid-sentence at the foot of p. 391 ("…the Āśvalāyana"), to be continued from the head of p. 392. Next: printed p. 392 (PDF 407). "
-"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.21 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; Nirukta numeral for house-names read 3-4 (p. 365) and 3-13 (p. 385); 91.20: Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21: the bhāṣya's *āpsām apsyātakaṃ* and the first derivation of *apsām* (print 'apsvabjo…') clotted, the root of *papriṃ* (*pyā/pṛ*) unclear, Pāṇini 6-3-113/6-3-112 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+### Page 392 (PDF 407)
+
+*(Running head: left "392", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Special Topics of Rik 91.21, continued from p. 391 (Kannada):* "— Śrauta-sūtra shows this in the section *pradānānām* by the sūtra '*aṣāḷhaṃ yutsu pṛtanāsu papriṃ yā te dhāmāni haviṣā yajanti*' (Ā. 3-2 [?])."
+
+***aṣāḷham*** — *saha abhibhave* | "*sāḷha* means 'one who is defeated'; *aṣāḷha* means one who is not defeated, that is, one who is *apratipatita* [as read, 'not fallen' [?]] — such is the meaning."
+
+***pṛtanāsu*** — "Since *raṇaḥ, vivāk, vikhādaḥ* and the like are read among the names of battle (Ni. 2-[?] [?]), *pṛtanāḥ* means 'battle'. *pṛtanāsu* — in battles; this word is always used in the plural."
+
+***papriṃ*** — "From the root *pyā*, which gives the sense of 'to fill' (*pyā pālanapūraṇayoḥ*) [as read [?]], the word *papri* is formed: 'the filler', that is, one who makes full. Sāyaṇa explains this word as *jayasya pūrayitāram* — one who fills [for us] with victory. Skandasvāmin takes the first meaning and explains, *saṃgrāmeṣu yaṣṭṝṇāṃ stotṝṇāṃ ca pālayitāram* — the protector, in battles, of sacrificers and praisers. The *Ṛgarthadīpikā* too has *pālayitāram*. Whichever meaning is taken here makes no difference. In Ṛks such as Ṛ. Saṃ. 1-[?]-3 [?] the phrase *papriḥ randhasaḥ* ['the giver of food'] also occurs, so *papri* means 'giver of food' as well."
+
+***svarṣām*** — *svargasya sanitāraṃ dātāram* | "One who makes heaven obtainable, the giver of heaven."
+
+***apsām*** — *apāṃ vṛṣṭilakṣaṇānām udakānāṃ dātāram* | "One who gives the waters that are rain. Or, from *psā bhakṣaṇe*: *psāti bhakṣayatīti psāḥ*; *na vidyate psā asyeti*: he who has no devourer, and therefore is the favourer of all — such is the sense they give. In Ṛks where the epithet *apsāḥ* generally occurs, such as Ṛ. Saṃ. 9-[?]-[?] [?]; 7-[?]-[?] [?]; 9-[?]-1 [?] and the like, *apsāḥ* means *apāṃ dātā*, the giver of waters. Therefore the same meaning is natural here too."
+
+***vṛjanasya gopām*** — "*vṛjana* means 'strength' (Ni. 2-9 [?]): the protector of strength."
+
+***bhareṣujām*** — "The word *bhara* is read among the names of battle (Ni. 2-17 [?]); *bhareṣu* means 'in battles'. '*janir atra sāmarthyāj jayater arthe*' [as read] — 'here *jan* in the sense of *ji*, to conquer': *saṃgrāmeṣu jetāram*, 'conqueror in battles', so Skandasvāmin explains; and Sāyaṇa, '*bhriyante eṣu havīṃṣīti bharāḥ yāgāḥ; teṣu prādurbhavantam*': *bharāḥ* are sacrifices, because the oblations are borne (*bhr̥*) in them; *bhareṣujām* is 'one who is born in them', that is, 'manifest in the sacrifices'."
+
+---
+
+### Page 393 (PDF 408)
+
+*(Running head left: "A. 1 A. 6 Va. 23 [?]"; centre: "Ṛgvedasaṃhitā"; right: 393.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.21)** *(Kannada; grammar page, noted briefly)*
+
+*aṣāḷham* — root *saha abhibhave*; the suffix *kta* follows; by *sāḍhyai sāḍhvā sāḍheti nigame* (Pā. 6-3-113 [?]) the irregular formation, so that by *sahivahor odavarṇasya* (Pā. 6-3-112 [?]) the change to *o* does not occur; by *saheḥ sāḍhaḥ saḥ* the *ṣatva*; a *nañ-tatpuruṣa* compound; by *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 [?]) the indeclinable first member keeps its natural accent.
+*yutsu* — the locative plural; by *sāvekācas tṛtīyādir vibhaktiḥ* the case-ending takes the acute.
+*papriṃ* — root *pyā pālanapūraṇayoḥ* [as read [?]]; by *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171 [?]) the suffix *kin*; since it is *liḍvat*, the root is doubled; the reduplicative [takes] *ur at* [as read [?]]; *halādiḥ śeṣaḥ*; the *yaṇ* replacement caused by the suffix; since the suffix is *nit*, by *ñnityādir nityam* (Pā. 6-1-197 [?]) the initial-acute; the accusative singular.
+*svarṣām* — *svaḥ svargaṃ sanotīti svarṣāḥ*; root *ṣaṇu dāne*; by *janasanakhanāṃ sañjhaloḥ* (Pā. 3-2-67 [?]) the *viṭ*; it being followed by it, by *viḍvanor anunāsikasyāt* (Pā. 6-4-41 [?]) the nasal of *san* becomes *ā*; the accusative singular; by *gatikārakopapadāt kṛt* the *kṛdanta* final member keeps its natural accent.
+*apsām* — when *ap* is the *upapada*, as said before, *viṭ* after the root *ṣaṇu*; the process of *ātva* as before. Or, from the root *psā bhakṣaṇe*: *psāti bhakṣayati iti psāḥ*; by *kvip ca* the suffix *kvip*; *na vidyate psā asya iti apsāḥ*, a *bahuvrīhi*; by *nañsubhyām* (Pā. 6-2-172 [?]) the final-member final-acute.
+*bhareṣujām* — root *janī prādurbhāve*; the *viṭ* as said before; *ātva*; *bhareṣu jāyate prādurbhavati iti bhareṣujāḥ*; by *tatpuruṣe kṛti bahulam* (Pā. 6-3-14 [?]) the *aluk* of the locative in the compound; the final-member *kṛdanta* keeps its natural accent.
+*sukṣitim* — root *kṣi nivāsagatyoḥ*; by *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 [?]) the suffix *ktic*; by *cit* (Pā. 6-1-163 [?]) the final-acute; in the compound the *kṛdanta* final member keeps its natural accent.
+*jayantam* — root *ji jaye*; in the present sense *śatṛ*; *śap*; the guṇa of the root on that account; *ay* replacement: *jayat*; in the accusative singular, since it is *ugit*, the augment *num*; the accent of the root remains.
+
+---
+
+### Page 394 (PDF 409)
+
+*(Running head: left "394", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*Vyākaraṇa-prakriyā of Rik 91.21, concluded (grammar page, noted briefly):*
+
+*madema* — root *madī harṣe*, of the *divādi* class; *vidhiliṅ*, first person plural, *mas*; by *nityaṃ ṅitaḥ* (नित्यं ङितः, Pā. 3-4-99 [?]) the elision of the *s*; by *vyatyayo bahulam* *śap* in place of *śyan*; the augment *yāsuṭ*; by *ato yeyaḥ* (Pā. 7-2-80 [?]) the replacement *iyā*; by *lopo vyor vali* (लोपो व्योर्वलि, Pā. 6-1-66 [?]) the elision of the *y*; the *nighāta* accent following a word.
+*soma* — by *āmantritasya ca* (Pā. 6-1-198 [?]) the *nighāta* accent. ‖ 21 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.22)**
+
+> त्वमिमा ओषधीः सोम विश्वास्त्वमपो अजनयस्त्वं गाः ।
+> त्वमा ततन्थोर्वन्तरिक्षं त्वं ज्योतिषा वि तमो ववर्थ ॥ २२ ॥
+
+*tvam imā oṣadhīḥ soma viśvās tvam apo ajanayas tvaṃ gāḥ | tvam ā tatanthorv antarikṣaṃ tvaṃ jyotiṣā vi tamo vavartha ‖ 22 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.22)**
+
+> त्वम् । इमाः । ओषधीः । सोम । विश्वाः । त्वम् । अपः । अजनयः । त्वम् । गाः ।
+> त्वम् । आ । ततन्थ । उरु । अन्तरिक्षम् । त्वम् । ज्योतिषा । वि । तमः । ववर्थ ॥ २२ ॥
+
+*tvam | imāḥ | oṣadhīḥ | soma | viśvāḥ | tvam | apaḥ | ajanayaḥ | tvam | gāḥ | tvam | ā | tatantha | uru | antarikṣam | tvam | jyotiṣā | vi | tamaḥ | vavartha ‖ 22 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.22)** *(begins at the foot of p. 394)*
+
+> हे सोम त्वमिमा भूम्यां वर्तमाना विश्वाः सर्वा ओषधीरजनयः । उत्पादितवानसि । तथा त्वमपस्तासामोषधीनां कारणभूतानि वृष्ट्युदकान्यजनयः ।
+
+*he soma tvam imā bhūmyāṃ vartamānā viśvāḥ sarvā oṣadhīr ajanayaḥ | utpāditavān asi | tathā tvam apas tāsām oṣadhīnāṃ kāraṇabhūtāni vṛṣṭyudakāny ajanayaḥ |*
+
+---
+
+**Progress note:** Printed pp. 1–394 done (PDF 16–409) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.21 complete; Rik 91.22 Saṃhitā, Pada and the first lines of the Sāyaṇa-bhāṣya done at the foot of p. 394 (the bhāṣya stops after "…*vṛṣṭyudakāny ajanayaḥ*"). Next: printed p. 395 (PDF 410) — continue the bhāṣya of 91.22 from "*tathā tvaṃ gāḥ…*". "
+"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.22 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21: the bhāṣya's *āpsām apsyātakaṃ* and the first derivation of *apsām* (print 'apsvabjo…') clotted, the root of *papriṃ* (*pyā/pṛ*) unclear, *aṣāḷham* explained as 'apratipatita' [?], *ur at* in the grammar page [?], the *papriḥ randhasaḥ* reference numerals, Pāṇini numerals 6-3-113, 6-3-112, 3-2-171, 6-1-197, 3-2-67, 6-4-41, 6-3-14, 3-3-174, 3-4-99, 7-2-80, 6-1-66 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
 "Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
