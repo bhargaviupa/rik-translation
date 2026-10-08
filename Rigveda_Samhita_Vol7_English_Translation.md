@@ -4861,4 +4861,77 @@ Closing of Rik 85.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–176 done (PDF 16–191) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.7 complete**; **Rik 85.8** done through the first five entries of its Special Topics (to *tveṣasaṃdṛśaḥ*, p. 176); the rest of the Special Topics and the grammar page follow on p. 177. Next: printed p. 177 (PDF 192). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175 grammar partly read; 154 *kopayetha* doubtful; **p. 171 and p. 175: bhāṣya's grammatical tail partly omitted (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 177 (PDF 192)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 177. Foot: printer's signature "12 … Volume 7".)*
+
+*Special Topics of Rik 85.8, continued from p. 176:*
+
+"…Because the Marut deities, when they move with great force (when they blow), are of a terrible form, people are afraid on seeing them — that is the intention."
+
+- **नरः** — *vṛṣṭyāder netāraḥ* — "the foremost in tasks like causing rain, 'the leaders'; without the help of the Marut deities it is impossible for rain to fall."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.8)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **युयुधयः** — the root *yudha saṃprahāre*; by "आदृगमहनजनः किकिनौ लिट् च" (*ādṛgamahanajanaḥ kikinau liṭ ca*), where "*utsargaś chandasi*" (Pā. Sū. 3-2-[171] [?]) applies, the affix *kin* comes here too; since *liṭ* has been said to be like it (*liḍvadbhāva*), the root is reduplicated; because it is *kit*, no *guṇa* because of the *ārdhadhātuka* affix; the word *yuyudhi*; since it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" the first syllable is acute; in the nominative plural, by "जसि च" the *guṇa*; *ay*-substitution.
+- **जग्मयः** — the root *gamḷ gatau*; by the preceding sūtra, the affix *kin*; reduplication; in the reduplicate, the *hal*-initial *ādi* [as read, "halādiśeṣa"]; by "कुहोश्चुः" (*kuhoś cuḥ*) *cutva*; by "गमहनजन…" (Pā. Sū. 6-4-[98]) the loss of the penultimate; since it is the inner operation, the loss of the penultimate comes first, and so the reduplication etc. is to be said through *sthānivadbhāva*; the word *jagmi*; as before, the first syllable acute; nominative plural.
+- **श्रवस्यवः** — *śravaḥ ātmanaḥ icchati śravasyati*; by "सुप आत्मनः क्यच्" (*supa ātmanaḥ kyac*) the affix *kyac*; by "श्रवस्यतीति श्रवस्युः क्याच्छन्दसि" (*kyāc chandasi*, Pā. Sū. 3-2-[170] [?]) the affix *u* after what ends in *kyac*; by "अतो लोपः" the loss of the *a* of *kyac*; by the affix-accent the word *śravasyu* has its final syllable acute; in the *jas*, by "ह्रस्वस्य गुणः" the *guṇa*; *av*-substitution.
+- **येतिरे** — the root *yatī prayatne*; in the present sense by "छन्दसि लुङ्लङ्लिटः" the affix *liṭ*; for the plural, the substitute *irec*; since reduplication has come, by "अत एकहल्मध्येऽनादेशादेर्लिटि" (*ata ekahalmadhye 'nādeśādor liṭi*, Pā. Sū. 6-4-[120]) the *e* (*ettva*) and the loss of the reduplicate (*abhyāsalopa*); since it stands after an *atiṅanta*, the *nighāta* accent.
+- **भयन्ते** — the root *ñibhī bhaye*; by "बहुलं छन्दसि" *ślu* is not the *vikaraṇa* for *śap*, so *śap* remains; in the plural, by *śap* the *guṇa* of the *i* of the root; since *ac* follows, *ay*-substitution; since it stands at the beginning of a *pāda*, there is no *nighāta*; since the *lasārvadhātuka* ending (*anti*) is unaccented by "तास्यनुदात्तेत्", the root-accent, the first syllable, is acute.
+- **विश्वा भुवना** — by "शेश्छन्दसि बहुलम्" the loss of *śi*, which came as a substitute in the neuter. *(The grammar page continues on p. 178.)*
+
+---
+
+### Page 178 (PDF 193)
+
+*(Running head: "178 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+*Vyākaraṇa-prakriyā of Rik 85.8, concluded from p. 177 (grammar, noted briefly):*
+
+- **त्वेषसंदृशः** — the root *tviṣa dīptau*; since it is read in the *pacādi* class, by "नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः" (*nandigrahipacādibhyo lyuṇinyacaḥ*, Pā. Sū. 3-1-134) the affix *ac*; since the affix is *pit* [?], by "पुगन्तलघूपधस्य च" (*pugantalaghūpadhasya ca*) the *guṇa* of the *laghūpadha*: *tveṣa*; the root *dṛśir prekṣaṇe*, preceded by *sam*; by the statement "सम्पदादिभ्यः क्विप्" the *kvip* in the abstract sense; in the *bahuvrīhi*, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its base accent.
+
+Closing of Rik 85.8: "॥ ८ ॥" (8), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 85.9)** *(Jagatī; Maruts; accents not reproduced)*
+
+> त्वष्टा यद्वज्रं सुकृतं हिरण्ययं सहस्रभृष्टिं स्वपा अवर्तयत् ।
+> धत्त इन्द्रो नर्यपांसि कर्तवेऽहन्वृत्रं निरपामौब्जदर्णवम् ॥ ९ ॥
+
+*tvaṣṭā yad vajraṃ sukṛtaṃ hiraṇyayaṃ sahasrabhṛṣṭiṃ svapā avartayat | dhatta indro naryapāṃsi kartave 'han vṛtraṃ nir apām aubjad arṇavam ‖ 9 ‖*
+
+*Gloss, mine and tentative:* "When Tvaṣṭṛ, the skilful worker, rolled forth the well-made golden thunderbolt of a thousand points, Indra takes it up to do manly deeds: he slew Vṛtra and drove out the flood of the waters."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 85.9)**
+
+> त्वष्टा । यत् । वज्रम् । सुऽकृतम् । हिरण्ययम् । सहस्रऽभृष्टिम् । सुऽअपाः । अवर्तयत् ।
+> धत्ते । इन्द्रः । नरि । अपांसि । कर्तवे । अहन् । वृत्रम् । निः । अपाम् । औब्जत् । अर्णवम् ॥ ९ ॥
+
+*tvaṣṭā | yat | vajram | su-kṛtam | hiraṇyayam | sahasra-bhṛṣṭim | su-apāḥ | avartayat | dhatte | indraḥ | nari | apāṃsi | kartave | ahan | vṛtram | niḥ | apām | aubjat | arṇavam ‖ 9 ‖*
+
+---
+
+### Page 179 (PDF 194)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 179.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.9)**
+
+> स्वपाः शोभनकर्मा त्वष्टा विश्वनिर्माता यद्वज्रमवर्तयत् इन्द्रं प्रत्यगमयत् । दत्तवानित्यर्थः । कीदृशम् । सुकृतं सम्यग्[ज्ञप्पादितं?] [?] हिरण्ययं सुवर्णमयं सहस्रभृष्टिमनेकाभिर्धाराभिर्युक्तं तद्वज्रमिन्द्रो धत्ते । धारयति । किमर्थम् । नरि । अत्र नृसम्बन्धान्नृशब्देन संग्रामोऽभिधीयते । संग्रामे अपांसि शत्रुहननादिलक्षणानि कर्माणि कर्तवे कर्तुम् । एवं वज्रं धृत्वा तेन वज्रेण वृत्रं वृष्ट्युदकस्यावरकमर्णवमर्णसोदकेन युक्तं मेघमहन् । अवधीत् । अपां तेन निरुद्धा आपश्च स निरौब्जत् । निःशेषेणाधोमुखमपातयत् । प्रवृष्टा आकरोदित्यर्थः ॥ सुकृतम् । सुपूर्वात्करोतेः कर्मणि निष्ठा । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । हिरण्ययम् । हिरण्यशब्दादुत्तरस्य मयटो मकारस्य लोपः [?]… निपात्यते । स्वपाः । सोर्मनसी अलोमोषसी इत्युत्तरपदाद्युदात्तत्वम् । कर्तवे । तुमर्थे सेसेनिति करोतेस्तवेन्प्रत्ययः । अपाम् । क्रियाग्रहणं कर्तव्यमिति कर्मणः सम्प्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । ऊडिदमिति विभक्तेरुदात्तत्वम् । औब्जत् । उब्ज आर्जवे । अर्णवम् । अर्णसो लोपश्च । (का. ५-२-१०९ [?]) इति मत्वर्थीयो वः सलोपश्च ॥
+
+*svapāḥ śobhanakarmā tvaṣṭā viśvanirmātā yad vajram avartayat indraṃ pratyagamayat | dattavān ity arthaḥ | kīdṛśam | sukṛtaṃ samyag[…] [?] hiraṇyayaṃ suvarṇamayaṃ sahasrabhṛṣṭim anekābhir dhārābhir yuktaṃ tad vajram indro dhatte | dhārayati | kimartham | nari | atra nṛsambandhān nṛśabdena saṃgrāmo 'bhidhīyate | saṃgrāme apāṃsi śatruhananādilakṣaṇāni karmāṇi kartave kartum | evaṃ vajraṃ dhṛtvā tena vajreṇa vṛtraṃ vṛṣṭyudakasyāvarakam arṇavam arṇasodakena yuktaṃ megham ahan | avadhīt | apāṃ tena niruddhā āpaś ca sa niraubjat | niḥśeṣeṇādhomukham apātayat | pravṛṣṭā ākarod ity arthaḥ ‖ sukṛtam | supūrvāt karoteḥ karmaṇi niṣṭhā | gatir anantara iti gateḥ prakṛtisvaratvam | hiraṇyayam | hiraṇyaśabdād uttarasya mayaṭo makārasya lopaḥ [?]… nipātyate | svapāḥ | sormanasī alomoṣasī ity uttarapadādyudāttatvam | kartave | tumarthe sesenity karoteś tavenpratyayaḥ | apām | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ sampradānatvāc caturthyarthe ṣaṣṭhī | ūḍidam iti vibhakter udāttatvam | aubjat | ubja ārjave | arṇavam | arṇaso lopaś ca (Kā. 5-2-109 [?]) iti matvarthīyo vaḥ salopaś ca ‖*
+
+*(Kannada script; the word printed after* samyag *in* sukṛtaṃ samyag… *is not clear [?]; the clause on the loss of the* m *of* mayaṭ *and the citation after it are partly unclear.)*
+
+*Translation:* "*Svapāḥ* — the skilful worker, *tvaṣṭā* — the maker of all things — when he *avartayat* — made [the thunderbolt] come to Indra, that is, gave it. What kind? *Sukṛtam* — well made, *hiraṇyayam* — golden, *sahasrabhṛṣṭim* — furnished with many streams [points]: that thunderbolt Indra *dhatte* — holds. For what purpose? *Nari* — here, by connexion with men (*nṛ*), the word *nṛ* means the battle; in battle, *apāṃsi* — deeds of the nature of slaying enemies, *kartave* — to do. Thus, having taken the thunderbolt, with that thunderbolt he *ahan* — slew *vṛtram*, the cloud that holds back the rain-water — *arṇavam*, joined with its water; and the waters stopped by it he *niraubjat* — wholly threw down head-foremost; that is, he made them rain." *Grammar tail, noted briefly:* *sukṛtam* — *kṛ* preceded by *su*, with *niṣṭhā* in the passive; the *gati* keeps its base accent by "gatir anantaraḥ"; *hiraṇyayam* — a form fixed by *nipātana* with the affix *mayaṭ*; *svapāḥ* — first member's accent as in "sormanasī…"; *kartave* — the affix *tavenn* in the sense of *tumun*; *apām* — the genitive in the sense of the dative, since the object is the recipient (*sampradāna*); the case-ending acute by "ūḍidam…"; *aubjat* — *ubja ārjave*; *arṇavam* — the *va* affix in the sense 'having that', with the loss of *s* (of *arṇas*)."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.9)** *(Kannada; begins here, runs to p. 180)*
+
+*svapāḥ* — of excellent actions; *tvaṣṭā* — the divine craftsman; *sukṛtam* — excellently made; *hiraṇyayam* — golden; *sahasrabhṛṣṭim* — with many edges; *yat vajram* — which thunderbolt; *avartayat* — gave (to Indra); *indraḥ* — Indra; *nari* — in battle; *apāṃsi* — the deeds (of killing enemies and the like); *kartave* — to perform; *dhatte* — holds (that thunderbolt); *vṛtram* — the cloud that covers the rain, etc.; *arṇavam* — that cloud filled with water; *ahan* — he struck; *apām* — the waters; *niḥ aubjat* — made flow fully.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.9** *(Kannada; begins here)*
+
+"The divine craftsman, of excellent actions, gave Indra a thunderbolt that is excellently made, golden and of many edges. Indra holds that thunderbolt in battle in order to do the deeds of killing enemies and the like. And with it he struck the cloud that covers the rain and the like, and let the waters pour down in streams…" *(the Bhāvārtha runs on to p. 180)*
+
+---
+
+**Progress note:** Printed pp. 1–179 done (PDF 16–194) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.8 complete**; **Rik 85.9** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha and the first half of the Bhāvārtha done; the Bhāvārtha concludes on p. 180, followed by the English, Special Topics and grammar. Next: printed p. 180 (PDF 195). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
