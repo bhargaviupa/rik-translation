@@ -6238,4 +6238,91 @@ Closing of Rik 87.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–221 done (PDF 16–236) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the **Pīṭhike (folios i–vi, PDF 7–11) is now translated and sits before the Sixth Adhyāya** (its folio iii is missing in the source). **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts — the print's heading line says "Indra", evidently a misprint; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, third sūkta; printed pp. 216–240): **Rik 87.1 complete**; next: Rik 87.2 at printed p. 222 (PDF 237), then 87.3–87.6. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 222 (PDF 237)
+
+*(Running head: "222 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.2)** *(Jagatī; Maruts; accents not reproduced)*
+
+> उपह्वरेषु यदचिध्वं ययिं वय इव मरुतः केन चित्पथा ।
+> श्चोतन्ति कोशा उप वो रथेष्वा घृतमुक्षता मधुवर्णमर्चते ॥ २ ॥
+
+*upahvareṣu yad acidhvaṃ yayiṃ vaya iva marutaḥ kena cit pathā | ścotanti kośā upa vo ratheṣv ā ghṛtam ukṣatā madhuvarṇam arcate ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "When, in the winding places, you gather the moving [cloud], O Maruts, like birds, by some path — the vessels [clouds] drip upon your chariots: sprinkle the ghee, honey-coloured, for the one who worships."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.2)**
+
+> उपऽह्वरेषु । यत् । अचिध्वम् । ययिम् । वयःऽइव । मरुतः । केन । चित् । पथा ।
+> श्चोतन्ति । कोशाः । उप । वः । रथेषु । आ । घृतम् । उक्षत । मधुऽवर्णम् । अर्चते ॥ २ ॥
+
+*upa-hvareṣu | yat | acidhvam | yayim | vayaḥ-iva | marutaḥ | kena | cit | pathā | ścotanti | kośāḥ | upa | vaḥ | ratheṣu | ā | ghṛtam | ukṣata | madhu-varṇam | arcate ‖ 2 ‖*
+
+*(The Saṃhitā prints* ukṣatā*, the Pada* ukṣata*; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.2)**
+
+> हे मरुत उपह्वरेषूपगन्तव्येष्वस्माकं सन्निकृष्टेषु [?] नभसः प्रदेशेषु यद्यदा यूयं ययिं गतिमन्तं मेघमचिध्वं वर्षणसामर्थ्येनोपचितं कुरुथ । किं कुर्वन्तः । वय इव पक्षिण इव केन चित्पथा केनचिदाकाशमार्गेण शीघ्रं गच्छन्तः । नभसि शीघ्रं वर्षणार्थं प्रवर्तमानैर्मरुद्भिर्मेघा उपचीयन्त इत्यर्थः । तदानीं कोशाः । मेघनामैतत् । वो युष्माकं रथेष्वासक्ता [?] मेघाः श्चोतन्ति । जलं मुञ्चन्ति । यस्मादेवं तस्माद्धे मरुतो यूयमर्चते युष्मान् हविर्भिः पूजयते मह्यं यजमानाय मधुवर्णं मधुसन्निभरूपं स्वच्छं घृतं वृष्ट्युदकमा समन्तादुक्षत । सिञ्चत । अस्मदभिलषितां वृष्टिं कुरुतेत्यर्थः ॥ उपह्वरेषु । ह्वृ कौटिल्ये । उपह्वरन्ति कौटिल्येन तिर्यग्गच्छन्त्येष्वित्युपह्वरा नभःप्रदेशाः । पुंसि सञ्ज्ञायां घः प्रायेणेत्यधिकरणे घः । अचिध्वम् । चिनोतेर्वर्तमाने लङ् । बहुलं छन्दसीति विकरणस्य लुक् । ययिम् । या प्रापणे । आद्गमहनजन … (पा. ३-२-१७१ [?]) इति किन्प्रत्ययः । …
+
+*he maruta upahvareṣūpagantavyeṣv asmākaṃ sannikṛṣṭeṣu [?] nabhasaḥ pradeśeṣu yad yadā yūyaṃ yayiṃ gatimantaṃ megham acidhvaṃ varṣaṇasāmarthyenopacitaṃ kuruthā | kiṃ kurvantaḥ | vaya iva pakṣiṇa iva kena cit pathā kenacid ākāśamārgeṇa śīghraṃ gacchantaḥ | nabhasi śīghraṃ varṣaṇārthaṃ pravartamānair marudbhir meghā upacīyanta ity arthaḥ | tadānīṃ kośāḥ | meghanāmaitat | vo yuṣmākaṃ ratheṣv āsaktā [?] meghāḥ ścotanti | jalaṃ muñcanti | yasmād evaṃ tasmād dhe maruto yūyam arcate yuṣmān havirbhiḥ pūjayate mahyaṃ yajamānāya madhuvarṇaṃ madhusannibharūpaṃ svacchaṃ ghṛtaṃ vṛṣṭyudakam ā samantād ukṣata | siñcata | asmadabhilaṣitāṃ vṛṣṭiṃ kurutety arthaḥ ‖ upahvareṣu | hvṛ kauṭilye | upahvaranti kauṭilyena tiryag gacchanty eṣv ity upahvarā nabhaḥpradeśāḥ | puṃsi saṃjñāyāṃ ghaḥ prāyeṇety adhikaraṇe ghaḥ | acidhvam | cinoter vartamāne laṅ | bahulaṃ chandasīti vikaraṇasya luk | yayim | yā prāpaṇe | ādgamahanajana… (Pā. 3-2-171 [?]) iti kin-pratyayaḥ | …*
+
+*(Kannada script; the clause "upagantavyeṣv asmākaṃ sannikṛṣṭeṣu" and the word before* meghāḥ ścotanti *are read with doubt [?]; the tail runs on to p. 223.)*
+
+*Translation:* "O Maruts, when, in the *upahvareṣu* — the winding places of the sky that are close to us — you *acidhvam* — gather up *yayim*, the moving cloud, make it swell with the power of raining; doing what? Going swiftly like birds (*vaya iva*) by some path (*kena cit pathā*), by some sky-route. The meaning: the clouds are gathered by the Maruts who hasten across the sky for rain. Then the *kośāḥ* — a name of cloud — attached to your chariots, drip, release water. Since it is so, O Maruts, for me, the sacrificer who worships you with oblations, *ā ukṣata* — sprinkle on every side the *ghṛtam*, rain-water, honey-coloured, clear, honey-like in appearance: bring about the rain we desire."
+
+---
+
+### Page 223 (PDF 238)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 223.)*
+
+*Grammatical tail of the bhāṣya of Rik 87.2, continued from p. 222 (characterized):*
+
+> …हनजन इति किप्रत्ययः । पथा । अजः भस्य टेर्लोप इति टिलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । श्चोतन्ति । श्च्युतिर् क्षरणे । छान्दसो यलोपः । उक्षत । उक्ष सेचने । लोटि तशब्दस्य ञित्त्वे सति ऋचि तुनुघेत्यादिना सांहितिको दीर्घः ॥ ३ ॥
+
+*…hanajana iti kipratyayaḥ | pathā | ajaḥ bhasya ṭer lopa iti ṭilopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvam | ścotanti | ścyutir kṣaraṇe | chāndaso yalopaḥ | ukṣata | ukṣa secane | loṭi taśabdasya ñittve sati ṛci tunughety ādinā sāṃhitiko dīrghaḥ ‖ 3 [sic: the numeral printed here is "೩" — a stray; the Ṛk's own closing numeral is 2] ‖*
+
+*(Kannada script; "tuna…" wording and the sūtra after* ñittve *are read with doubt [?]. The printed numeral at the end of this bhāṣya-tail is "॥೩॥"; since this is Rik 87.2, it is probably a misprint [sic?]; noted rather than corrected.)* *Noted briefly:* *yayim* — affix *kin* [by the sūtra cited on p. 222] after *yā*; *pathā* — the *ṭi*-loss in the *bha*-stem and the case-ending acute by *udāttanivṛtti*-accent; *ścotanti* — *ścyuti kṣaraṇe* ('to ooze') with the loss of *y* in the Veda; *ukṣata* — *ukṣa secane*, *loṭ*; the lengthening in the Saṃhitā [hence *ukṣatā*] by "ṛci tunu…"."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.2)** *(Kannada)*
+
+*marutaḥ* — O Maruts; *vaya iva* — like birds; *kena cit pathā* — by some path or other (going swiftly); *upahvareṣu* — in the regions of the sky near you; *yayim* — the moving mass of clouds; *yat* — when; *acidhvam* — you gather together; *kośāḥ* — the clouds; *vaḥ* — your; *ratheṣu* — on the chariots (pressing close); *ścotanti* — pour (water); (therefore, O Maruts) *arcate* — for the one who worships you (with oblations); *madhuvarṇam* — of honey's hue; *ghṛtam* — the rain-water; *ā ukṣata* — sprinkle all around.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.2** *(Kannada)*
+
+"O Maruts, like birds, moving swiftly along some path or other in the sky, when you gather the moving mass of clouds in the regions of the sky near you, the clouds press on your chariots and pour rain. Therefore, O Maruts, sprinkle on all sides, for the sacrificer who worships you with oblations, rain-water of the colour of honey."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, when, flying like birds along a certain path (of the sky), you collect the moving passing clouds in the nearest portion (of the firmament), then coming into collision with your cars, they pour forth the waters; therefore, shower upon your worshipper the honey-coloured rain." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.2)**
+
+- **उपह्वरेषु** — *hvṛ kauṭilye | upahvaranti kauṭilyena tiryag gacchanty eṣv ity upahvarā nabhaḥpradeśāḥ | asmākaṃ sannikṛṣṭeṣu nabhasaḥ pradeśeṣu* — "since the root *hvṛ* means 'crookedness', and since it is possible to move in these [places] directly or in curving courses, *upahvara* means the sky. Here 'near us' means in the sky above our heads. Skandasvāmin explains *upahvareṣu* as '*gahvareṣu parvatapradeśeṣu antarikṣapradeśeṣu vā*' — in mountain regions, in caves, in regions of the sky." *(printed Sanskrit of Skandasvāmin in the text, partly clotted [?])*
+
+---
+
+### Page 224 (PDF 239)
+
+*(Running head: "224 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Special Topics of Rik 87.2, continued from p. 223:*
+
+- **ययिम्** — *acidhvam gatimantaṃ meghamacidhvam kuruta* — "make the moving clouds, going in various directions, gather in one place (as if to make it rain)."
+- **वयो इव केन चित्पथा** — "like birds going in the atmosphere, by some one path of their own choice."
+- **कोशाः** — "among the thirty names of cloud — *adriḥ, grāvā* and the rest — the word *kośaḥ* is read; so *kośāḥ* means the clouds (Ni. [1-10] [?])."
+- **उप वो रथेषु** — "close to your chariots; that is, the meaning is that when the chariot comes into friction, the cloud pours rain. Skandasvāmin says: '*yatra pradeśe yuṣmadīyā rathā vayaṃ tiṣṭhanti* [as read] *tatra rathacakradhārābhir vidyamāno meghāḥ prakṣarantīty arthaḥ*' — 'in whatever place your chariots stand, there, by the streams from the chariot wheels, the clouds pour': so he gave the explanation." *(The Skandasvāmin Sanskrit is clotted in the print and read with doubt [?].)*
+- **घृतम्** — "among the hundred and one names of water — *arṇaḥ, kṣodaḥ* and the rest — the word *ghṛtam* is read (Ni. [1-12] [?]); *ghṛtam* means water. In the Ṛgveda this word is especially used in this sense."
+- **उक्षत** — *ukṣa secane* — "sprinkle; shower."
+- **मधुवर्णम्** — "of the colour of honey: that is, clear, pure."
+- **अर्चते** — "for the sacrificer who praises you."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 87.2)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **उपह्वरेषु** — the root *hvṛ kauṭilye*; *upahvaranti kauṭilyena tiryag gacchanty eṣu iti upahvarāḥ* [meaning] "the winding regions of the sky"; by "पुंसि संज्ञायां घः प्रायेण" (Pā. Sū. 3-3-[118]) the affix *gha* in the locative sense; for it the *guṇa* of the *ṛ* of the root; by "उरण्रपरः" (*uraṇ raparaḥ*) with *r*; by the affix-accent the final acute; locative plural.
+- **अचिध्वम्** — the root *ciñ cayane*; in the present sense by "छन्दसि लुङ्लङ्लिटः" *laṅ*; by "बहुलं छन्दसि" the *vikaraṇa* elided; second person plural; since *yat* is in connexion, no *nighāta*; since the augment *aṭ* is acute, the first syllable is acute.
+- **ययिम्** — the root *yā prāpaṇe*; by "आदृगमहनजनः किकिनौ लिट् च" (Pā. Sū. 3-2-[171]) the affix *kin*; since *liṭ* is stated to be like it, the root is reduplicated; the reduplicate gets *hrasva* by "ह्रस्वः" *(the page ends mid-entry; it continues on p. 225)*
+
+---
+
+**Progress note:** Printed pp. 1–224 done (PDF 16–239) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1 complete**; **Rik 87.2** done through the Special Topics and the first three entries of its grammar page (ending mid-entry at *yayim*, p. 224); the rest of the grammar follows on p. 225, then 87.3–87.6. Next: printed p. 225 (PDF 240). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10 and 87.2 (*ukṣatā/ukṣata*); a stray closing numeral "३" on p. 223; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
