@@ -13332,6 +13332,113 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–466 done (PDF 16–481), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.17 complete (92.3 minus the missing p. 413); Rik 92.18 (the last Ṛk) Saṃhitā and Pada done at the foot of p. 466. Next: printed p. 467 (PDF 482) — the Sāyaṇa-bhāṣya of 92.18. "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–466 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print; the Aśvin citations of pp. 463 and 465 read from small digits); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–466 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.16 (details on the pages); the rule printed '*jī prathamayor am*' in the grammar of 92.17 [?]; the 'Part [5?], pp. 32–33' reference and the 'Part 4, p. 75' reference as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 467 (PDF 482)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 467.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.18)**
+
+> उषर्बुध उषसि प्रबुद्धा अश्वा इहास्मिन्यागे सोमपीतये सोमपानाय दस्रा शत्रूणामुपक्षपयितारावश्विनावा वहन्तु । आनयन्तु । कीदृशौ । देवा देवनशीलौ दानादिगुणयुक्तौ वा मयोभुवा मयसः आरोग्यप्रदस्य सुखस्य भावयितारौ । अश्विनौ वै देवानां भिषजौ । ऐ. ब्रा. १-१८ [?] । इति श्रुतेः । हिरण्यवर्तनी । वर्तनेनेति [clotted [?]] वर्तनिशब्देन रथ उच्यते । सुवर्णमयो वर्तनिर्ययोस्तौ ॥ देवेत्यादिषु त्रिषु सुपां सुलुगित्याकारः । सोमपीतये । पा पाने । भावे क्तिनि घुमास्थेतीत्त्वं । सोमस्य पीतिः सोमपीतिः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं ॥
+
+*uṣarbudha uṣasi prabuddhā aśvā ihāsmin yāge somapītaye somapānāya dasrā śatrūṇām upakṣapayitārāv aśvināv ā vahantu | ānayantu | kīdṛśau | devā devanaśīlau dānādiguṇayuktau vā mayobhuvā mayasa ārogyapradasya sukhasya bhāvayitārau | aśvinau vai devānāṃ bhiṣajau | Ai. Brā. 1-18 [?] | iti śruteḥ | hiraṇyavartanī | vartaneneti [clotted [?]] vartaniśabdena ratha ucyate | suvarṇamayo vartanir yayos tau ‖ devetyādiṣu triṣu supāṃ sulug ity ākāraḥ | somapītaye | pā pāne | bhāve ktini ghumāstheti ittvaṃ | somasya pītiḥ somapītiḥ | dāsībhārād· itvāt pūrvapadaprakṛtisvaratvaṃ ‖*
+
+*Translation:* "*Uṣarbudhaḥ* — the horses awakened at dawn — *ā vahantu*, let them bring *iha*, to this sacrifice, *somapītaye*, for the drinking of Soma, the two Aśvins, the *dasrā*, destroyers of foes. What are they like? *Devā* — shining, or endowed with the qualities of generosity and the like; *mayobhuvā* — makers of *mayas*, of health-giving happiness: 'The Aśvins are indeed the physicians of the gods', says the śruti (Ai. Brā. 1-18 [?]). *Hiraṇyavartanī* — [by *vartani*, the chariot is meant (the printed derivation is clotted [?])]: those two whose *vartani*, chariot, is golden."
+
+*Grammar tail:* in *devā* and the next words, the ending is replaced by *ā* by *supāṃ sulug*. *somapītaye* — root *pā pāne*; *ktin* in the abstract sense; *ī* by *ghumāsthā…*; *somasya pītiḥ somapītiḥ*; since it is in the *dāsībhārādi* group, the first member keeps its natural accent.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.18)** *(Kannada)*
+
+*uṣarbudhaḥ* — the horses awakened at dawn; *iha* — to this (our) place of sacrifice; *somapītaye* — for the drinking of the Soma-juice; *devā* — those of generous, giving nature; *mayobhuvā* — givers of happiness; *hiraṇyavartanī* — riders of a golden chariot; *dasrā* — destroyers of foes, the Aśvin deities; *ā vahantu* — let them bring.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.18** *(Kannada)*
+
+"The Aśvin deities are of generous giving nature, givers of happiness, riders of a golden chariot, and destroyers of foes. May the horses awakened at dawn bring such Aśvin deities of great glory to this our place of sacrifice, to drink the Soma-juice."
+
+**English Translation** *(printed in English in the source; Rik 92.18)*
+
+"May the horses awakened at dawn bring hither, to drink the Soma-juice, the divine Aswins [sic], who are the givers of happiness, the destroyers of foes, seated in a golden chariot." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.18)** *(Kannada)*
+
+***uṣarbudhaḥ*** — *uṣasi prabuddhā aśvāḥ* | "'Horses awakened at the time of dawn.' This word is used in general for sacrificers who are awake at dawn for the sacrifice, and for the deities invited to receive the oblation, and in particular as an epithet of Agni. In the whole Ṛksaṃhitā there are only two places where it means the horses of the Aśvin deities: in this Ṛk, and in the Ṛk 4-45-4 [?] [numerals as read, doubtful]; in both it means the horses of the Aśvin deities."
+
+***devā*** — "Shining ones, or those whose nature is generosity and the like."
+
+---
+
+### Page 468 (PDF 483)
+
+*(Running head: left "468", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+***mayobhuvā*** — "*śimbātā, śatarā* [as read, doubtful [?]] and the like being read among the twenty names of happiness (Ni. 3-11 [?]), *mayas* means 'happiness'. The epithet *mayobhuvaḥ* is applied generally to other deities too: all of them are, in some way or other, givers of happiness to sacrificers. But among the Aśvin deities there is one special feature —"
+
+> अश्विनौ वै देवानां भिषजौ ।
+
+*aśvinau vai devānāṃ bhiṣajau |*  (Ai. Brā. 1-18 [?])
+
+*Gloss, mine and tentative:* "The Aśvins are indeed the physicians of the gods."
+
+"— from śruti-sentences such as this the Aśvin deities are well known as the physicians of the gods, and as bestowing a happiness in the form of health even on the sacrificers who have secured the favour of the gods. Therefore here: *mayasaḥ ārogyapradasya sukhasya bhāvayitārau* — 'those who give happiness in the form of health'."
+
+***hiraṇyavartanī*** — "*vartani* means the chariot, or the felloe of the chariot wheel (the outer rim), or the road of the chariot. *hiraṇyavartanī*: in most places it is explained as 'a golden chariot'. Here it means 'those who have a golden chariot'. Except for the Ṛk 6-[?]-2 [?] of the Ṛksaṃhitā, this epithet in all other places is applied to the Aśvin deities. In some places the two epithets *dasrā hiraṇyavartanī* occur together. For example —"
+
+> दस्रा हिरण्यवर्तनी सुषुम्ना सिन्धुवाहसा माध्वी मम श्रुतं हवम् ।
+
+*dasrā hiraṇyavartanī suṣumnā sindhuvāhasā mādhvī mama śrutaṃ havam |*  (Ṛ. Saṃ. 5-75-2 [?]; the Saṃhitā text as printed [?])
+
+> वावृधाना शुभस्पती दस्रा हिरण्यवर्तनी ।
+
+*vāvṛdhānā śubhas patī dasrā hiraṇyavartanī |*  (Ṛ. Saṃ. 8-5-11 [?])
+
+> दस्रा हिरण्यवर्तनी पिबतं सोम्यं मधु ।
+
+*dasrā hiraṇyavartanī pibataṃ somyaṃ madhu |*  (Ṛ. Saṃ. 8-8-1 [?])
+
+> दस्रा हिरण्यवर्तनी शुभस्पती पातं सोममृतावृधा ।
+
+*dasrā hiraṇyavartanī śubhas patī pātaṃ somam ṛtāvṛdhā |*  (Ṛ. Saṃ. 8-87-5 [?])
+
+*Gloss, mine and tentative (for the group):* "O Dasras of the golden path, gracious, carried by the river [?], sweet, hear my call. — Growing strong, lords of splendour, Dasras of the golden chariot. — Dasras of the golden chariot, drink the sweet Soma. — Dasras of the golden chariot, lords of splendour, drink the Soma, increasers of Ṛta." *(The Saṃhitā texts and numerals of these four are read from the print and are doubtful in places [?].)*
+
+"— in all these Ṛks the two attributes *dasrā* and *hiraṇyavartanī* together describe the form and the beauty of the Aśvin deities."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.18)** *(Kannada; grammar page, noted briefly)*
+
+*devā* — in this mantra, in all the three words beginning with this one, by *supāṃ sulug* the ending is replaced by *ā*.
+
+---
+
+### Page 469 (PDF 484)
+
+*(Running head left: "A. 1 A. 6 Va. 33 [?]"; centre: "Ṛgvedasaṃhitā"; right: 469.)*
+
+*Vyākaraṇa-prakriyā of Rik 92.18, concluded (grammar page, noted briefly):*
+
+*somapītaye* — *somasya pītiḥ somapītiḥ*; root *pā pāne*; in the abstract sense, by *striyāṃ ktin* (Pā. 3-3-94 [?]) the suffix *ktin*; since it is *kit*, by *ghumāsthāgāpājahātisāṃ hali* (Pā. 6-4-66 [?]) the *ī* for the root, when it is followed by it [a consonant-beginning *kit* suffix]: *pītiḥ*. Since it is read in the *dāsībhārādi* group, the first member keeps its natural accent.
+*vahantu* — root *vaha prāpaṇe*; *loṭ*, third person plural, the suffix *jhi*; by *jhoʼntaḥ* (Pā. 7-1-3 [?]) the replacement *anta*; by *eruḥ* (Pā. 3-4-86 [?]) the *u*; the stem-suffix *śap*; by *ato guṇe* (Pā. 6-1-97 [?]) the *a* of the stem and *a* of *anta* become one (the print says 'pūrvarūpa' [?]); since it follows a word [read: since it stands before a finite verb], by *tiṅ atiṅaḥ* (Pā. 8-1-28 [?]) the *nighāta* accent. ‖ 18 ‖
+
+*(There is no closing line for Sūkta 92 in the print: the grammar page ends with "‖ 18 ‖" and a rule, followed by the heading of the next Sūkta. Sūkta 92 thus occupies printed pp. 402–469, Ṛks 18, with printed p. 413 missing from the scan.)*
+
+---
+
+## Sūkta 93 (Maṇḍala 1, Sūkta 93) — "ತೊಂಭತ್ತಮೂರನೆಯ ಸೂಕ್ತವು" (*tombhattamūraneya sūktavu*, "the ninety-third Sūkta")
+
+**॥ अग्नीषोमाविति द्वादशर्चं नवमं सूक्तं ॥ — Sāyaṇa's introduction (Sanskrit, printed on p. 469)**
+
+> अग्नीषोमाविति द्वादशर्चं नवमं सूक्तं गोतमस्यार्षं । आदितस्तिस्रोऽनुष्टुभः । नवम्याद्यास्तिस्रो गायत्र्यः । अष्टमी जगती त्रिष्टुब्वा । शिष्टाः पञ्च त्रिष्टुभः । अग्नीषोमौ देवता । तथा चानुक्रान्तं । अग्नीषोमौ द्वादशाग्नीषोमीयमाद्यास्तिस्रोऽनुष्टुभ उपान्त्यास्तिस्रो गायत्र्योऽष्टमी जगती वेति ॥ अग्नीषोमीयस्य पशोर्वपापुरोडाशहविषामादितस्तिस्र ऋचः क्रमेणानुवाक्याः [reading of the opening words doubtful [?]] । सूत्रितं च । अग्नीषोमाविमं सु मे युवमेतानि दिवि रोचनानीति तृचौ । आ. ३-८ [?] । इति ॥
+
+*agnīṣomāv iti dvādaśarcaṃ navamaṃ sūktaṃ gotamasyārṣaṃ | āditas tisro 'nuṣṭubhaḥ | navamyādyās tisro gāyatryaḥ | aṣṭamī jagatī triṣṭub vā | śiṣṭāḥ pañca triṣṭubhaḥ | agnīṣomau devatā | tathā cānukrāntaṃ | agnīṣomau dvādaśāgnīṣomīyam ādyās tisro 'nuṣṭubha upāntyās tisro gāyatryo 'ṣṭamī jagatī veti ‖ agnīṣomīyasya paśor vapāpuroḍāśahaviṣām āditas tisra ṛcaḥ krameṇānuvākyāḥ [?] | sūtritaṃ ca | agnīṣomāv imaṃ su me yuvam etāni divi rocanānīti tṛcau | Ā. 3-8 [?] | iti ‖*
+
+*Translation:* "The ninth sūkta, *agnīṣomau*, of twelve Ṛks, the vision of Gotama. The first three are Anuṣṭubh; the three beginning with the ninth are Gāyatrī; the eighth is Jagatī or Triṣṭubh; the remaining five are Triṣṭubh. The deity is Agnīṣomau. So it is recorded in the Anukramaṇī: '*agnīṣomau dvādaśa; agnīṣomīyam; the first three Anuṣṭubh; the three before the last Gāyatrī; the eighth Jagatī or [Triṣṭubh]*'. For the oblations of the *vapā* and the *puroḍāśa* of the Agnīṣomīya animal, the first three Ṛks are the *anuvākyās* in order [reading doubtful [?]]. It is prescribed: '*agnīṣomāv imaṃ su me yuvam etāni divi rocanāni iti tṛcau*' (Ā. 3-8 [?])."
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *agnīṣomau* is the ninth sūkta in the fourteenth anuvāka. There are twelve Ṛks in it. The ṛṣi of this sūkta is Gotama. The first three Ṛks are in the Anuṣṭubh metre. The three from the ninth are in the Gāyatrī metre. The eighth Ṛk is in the Jagatī or the Triṣṭubh metre. The remaining five Ṛks are in the Triṣṭubh metre. Agni and Soma are the deities of this sūkta. In the Anukramaṇī it is said '*agnīṣomau dvādaśāgnīṣomīyam ādyās tisro 'nuṣṭubha upāntyās tisro gāyatryo 'ṣṭamī jagatī veti*'. In the animal sacrifice connected with Agnīṣoma, when the oblations of the *vapā* and the *puroḍāśa* are offered in the fire, the first three Ṛks of this sūkta are to be used in order as *puronuvākyā* mantras; so the Āśvalāyana Śrauta-sūtra explains it by the sūtra '*agnīṣomāv imaṃ su me yuvam etāni divi rocanāni iti tṛcau*' (Ā. 3-8 [?])."
+
+*(printer's rule)*
+
+---
+
+**Progress note:** Printed pp. 1–469 done (PDF 16–484), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): the Sanskrit introduction and the Anuvāda are done on p. 469; **next: printed p. 470 (PDF 485)** — the heading block (Om, varga numerals, ṛṣi/deity/metre list) and Rik 93.1. "
+"Open flags (Sūkta 92, now complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line of Sūkta 92 garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–468 as read, doubtful [?] (the first citation on p. 460, *vahantv aruṇāsva…*, is garbled in the print; the Aśvin citations of pp. 463, 465 and 468 read from small digits); Nirukta numerals [?]; the Tilak page reference on p. 447 illegible [?]; Pāṇini/Uṇādi/Kāśikā numerals on pp. 407–469 given as read, doubtful [?]; the Bloomfield quotation on p. 452 reproduced from the print [?]; clotted bhāṣya clauses in 92.2–92.18 (details on the pages; in 92.18 the clause *vartaneneti…*); the rule printed '*jī prathamayor am*' in the grammar of 92.17 [?]; the 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). Sūkta 93 so far: the introduction’s *haviṣām āditas tisra…* clause [?]; Ā. 3-8 [?]. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
