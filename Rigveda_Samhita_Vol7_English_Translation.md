@@ -4701,4 +4701,81 @@ Closing of Rik 85.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–170 done (PDF 16–185) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.6 complete**; **Rik 85.7** — Saṃhitā and Pada done (foot of p. 170); next: its application note (if any), bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar. Next: printed p. 171 (PDF 186). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169 grammar partly read; 154 *kopayetha* doubtful; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 171 (PDF 186)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 171.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 85.7)**
+
+> ते मरुतोऽवर्धन्त । वृद्धिं गताः । कीदृशाः । स्वतवसः स्वाश्रयबलाः । नान्यस्य कस्यचिद्बलमपेक्षन्ते । वृद्धिं प्राप्य च महित्वना महिम्ना महत्त्वेन नाकं स्वर्गमा तस्थुः । आस्थितवन्तः । सदः सदनं नभोलक्षणं स्थानं च स्वकीयनिवासाय उरु विस्तीर्णं चक्रिरे । यद्येभ्यो [?] मरुद्भ्यो यदर्थं वृषणं कामाभिवर्षकं मदच्युतं मदस्य हर्षस्यासेक्तारं यज्ञं विष्णुर्हावत् [?] । विष्णुरेवागत्य रक्षति ते मरुतो वयो न पक्षिणो यथा शीघ्रमागच्छन्ति एवं शीघ्रमागत्य बर्हिष्यस्मदीये यज्ञे प्रिये प्रीतिकरे सीदन् । सीदन्तु । उपविशन्तु ॥ ते ऽवर्धन्त । स्वरितो वानुदात्ते पदादौ (पा. ८-२-६ [?]) इत्येकादेशस्य स्वरितत्वम् । महित्वना । … [two clauses on *mahitvanā* and the accent, cramped, read with doubt]. तस्थुः । … [the clause on *nākam … tasthuḥ*, *sadaḥ* and *cakrire*, the loss of the initial of *ca* …, cramped]. यत् । सुपां सुलुगिति चतुर्थ्या लुक् । आवत् । छान्दसो वर्तमाने लङ् । वृषणम् । वा षपूर्वस्य निगमे इत्यपधादीर्घाभावः । मदच्युतम् । मदं च्योतयतीति मदच्युत् । च्युतिर् आसेचने । क्विप् चेति क्विप् । सीदन् । लिङर्थे लेट् । अडागमः ॥
+
+*te maruto 'vardhanta | vṛddhiṃ gatāḥ | kīdṛśāḥ | svatavasaḥ svāśrayabalāḥ | nānyasya kasyacid balam apekṣante | vṛddhiṃ prāpya ca mahitvanā mahimnā mahattvena nākaṃ svargam ā tasthuḥ | āsthitavantaḥ | sadaḥ sadanaṃ nabholakṣaṇaṃ sthānaṃ ca svakīyanivāsāya uru vistīrṇaṃ cakrire | yady ebhyo [?] marudbhyo yadarthaṃ vṛṣaṇaṃ kāmābhivarṣakaṃ madacyutaṃ madasya harṣasyāsektāraṃ yajñaṃ viṣṇur hāvat [?] | viṣṇur evāgatya rakṣati te maruto vayo na pakṣiṇo yathā śīghram āgacchanti evaṃ śīghram āgatya barhiṣy asmadīye yajñe priye prītikare sīdan | sīdantu | upaviśantu ‖ te 'vardhanta | svarito vānudātte padādau (Pā. 8-2-6 [?]) ity ekādeśasya svaritatvam | mahitvanā | … | tasthuḥ | … | yat | supāṃ suluk iti caturthyā luk | āvat | chāndaso vartamāne laṅ | vṛṣaṇam | vā ṣapūrvasya nigame ity apadhādīrghābhāvaḥ | madacyutam | madaṃ cyotayatīti madacyut | cyutir āsecane | kvip ceti kvip | sīdan | liṅarthe leṭ | aḍāgamaḥ ‖*
+
+*(Kannada script. On this page the bhāṣya is printed in small, heavily compressed type; two or three clauses of its grammatical tail are not legible enough to transcribe and are marked as omitted [?]; the clause beginning* yady ebhyo *is read with doubt.)*
+
+*Translation (of the sense of the bhāṣya, so far as read):* "The Maruts *avardhanta* — attained growth. How? *Svatavasaḥ* — having strength of their own support; they need not look to the strength of anyone else. Having attained growth, by their greatness (*mahitvanā*) they ascended (*ā tasthuḥ*) *nākam*, heaven; and they made wide (*uru*) their dwelling (*sadaḥ*), a place in the form of the sky, for their own abode. For these Maruts, for whose sake Viṣṇu protects the sacrifice that rains down desires, that sheds delight (*mada*) — Viṣṇu himself, coming, guards it — may those Maruts, as birds come swiftly, so, coming swiftly, sit (*sīdan* = *sīdantu*, 'let them sit') on the dear (*priye*), delight-giving sacred grass at this sacrifice of ours." *Grammar tail, noted briefly:* *te 'vardhanta* — the single substitute (*ekādeśa*) at the beginning of a *pāda* gets the *svarita* by the sūtra "svarito vānudātte padādau" (Pā. Sū. 8-2-6 [?]); *āvat* — a Vedic *laṅ* in the sense of the present; *vṛṣaṇam* — no lengthening of the penultimate in the Veda after a word beginning with *ṣ* (*vā ṣapūrvasya nigame*); *madacyutam* — *madaṃ cyotayatīti madacyut*, from *cyuti āsecane*, with *kvip*; *sīdan* — *leṭ* in the sense of *liṅ*, with the augment *aṭ*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 85.7)** *(Kannada)*
+
+*te* — those Maruts; *svatavasaḥ* — (without support from another) having strength of their own (by the support of their own strength); *avardhanta* — attained growth; *mahitvanā* — (by their) greatness; *nākam* — heaven; *ā tasthuḥ* — reached; *sadaḥ* — (a dwelling-place of the nature of the atmosphere), their abode; *uru* — widely; *cakrire* — made for themselves; *yat* — for whom; *vṛṣaṇam* — which showers (what is desired); *madacyutam* — which gives delight; that sacrifice; *viṣṇuḥ* — Viṣṇu; *ha āvat* — (comes and) protects (those Maruts); *vayaḥ na* — like birds, swiftly (coming); *priye* — beloved; *barhiṣi adhi* — excellent, on the sacred grass; *sīdan* — may they sit.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 85.7** *(Kannada)*
+
+"Those Maruts attained growth without any support of others, by the support of their own strength. By their own greatness they reached heaven and extended their dwelling-place. May those Maruts, for whose sake Viṣṇu comes and protects the sacrifice that gives what is desired and gives delight, come swiftly like birds and sit on the dear and excellent sacred grass."
+
+---
+
+### Page 172 (PDF 187)
+
+*(Running head: "172 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 85".)*
+
+**English Translation** *(printed in English in the source)*
+
+"Having confidance [sic] in their own strength they have increased in power; they have attained heaven by their greatness, and have made for themselves a spacious dwelling; may they (Maruts) for whom 'Vishnu' gave his aid in the sacrifice that bestows all desires and confers delight, come quickly like birds, and sit down upon their beloved Kusa grass." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 85.7)**
+
+- **स्वतवसः** — "among the twenty-seven names of strength — *ojas, pājas* and the rest — the word *tavas* is read (Ni. [2-9] [?]); hence *tavas* means strength. *Svatavasaḥ* means *svāśrayabalāḥ nānyasya kasyacid balam apekṣante* — they do not look to the help of another, but are confident in their own strength and capacity: that is the meaning."
+- **विष्णुः यत् ह आवत् वृषणं मदच्युतम्** — "that sacrifice which gives what is desired and causes delight — in which sacrifice Viṣṇu comes and protects it. On this matter there is a narrative (*upākhyāna*):
+
+> यदा विष्णुना सह मरुतः [?] इन्द्रस्य वृत्रहनने साहाय्यं चक्रुस्ततः प्रभृति ते महत्त्वमापुः स्वबलवन्तश्च बभूवुः श्रेष्ठा देवाश्च भूत्वा स्वर्गमधिष्ठितवन्तः । ततः प्रभृति च यजमानास्तेषामर्थे यज्ञं कुर्वन्ति ते च यजमानानां यज्ञं पक्षिवच्छीघ्रमागत्य बर्हिषि निषीदन्तीति ॥
+
+*yadā viṣṇunā saha marutaḥ [?] indrasya vṛtrahanane sāhāyyaṃ cakrus tataḥ prabhṛti te mahattvam āpuḥ svabalavantaś ca babhūvuḥ śreṣṭhā devāś ca bhūtvā svargam adhiṣṭhitavantaḥ | tataḥ prabhṛti ca yajamānās teṣām arthe yajñaṃ kurvanti te ca yajamānānāṃ yajñaṃ pakṣivac chīghram āgatya barhiṣi niṣīdantīti ‖* — *Translation:* "When the Maruts, together with Viṣṇu, helped Indra in the slaying of Vṛtra, from then on they attained greatness and became possessed of strength of their own; having become the best of the gods, they took up their abode in heaven. From then on the sacrificers perform sacrifices on their behalf, and they, coming swiftly like birds to the sacrifice of the sacrificers, sit upon the sacred grass." *(The first word after* yadā *is printed* viṣṇunā saha marute*; read here as* marutaḥ *with doubt.)*
+
+[The editor:] "The Marut deities came with Viṣṇu and helped Indra in the work of slaying Vṛtra. Therefore the greatness of these Marut deities increased. Their strength grew, and they made their dwelling in heaven among the first of the gods. Therefore the sacrificers who sacrifice make sacrifices for the pleasure of these Marut deities. These deities too, to favour the sacrificers, sit like birds, swiftly, on the sacred grass spread out for them at the sacrifices they perform. Here the Marut deities are friends of Indra; passages like '*marudbhir indra sakhyaṃ te astu*' support this matter. That Viṣṇu helped Indra, a friend of such Marut deities:
+
+> सखे विष्णो वितरं विक्रमस्व द्यौर्देहि लोकं वज्राय विष्कभे । हनाव वृत्रं रिणचाव सिन्धूनिन्द्रस्य यन्तु प्रसवे विसृष्टाः ॥
+
+*sakhe viṣṇo vitaraṃ vikramasva dyaur dehi lokaṃ vajrāya viṣkabhe | hanāva vṛtraṃ riṇacāva sindhūn indrasya yantu prasave visṛṣṭāḥ ‖* (Ṛ. Saṃ. 8-100-[12] [?]) — *Gloss, mine and tentative:* "Friend Viṣṇu, stride out wider; O heaven, give room for the thunderbolt to prop; let us two slay Vṛtra, let us free the rivers; let them go, released at Indra's impulse."
+
+---
+
+### Page 173 (PDF 188)
+
+*(Running head left: "A. 1 A. 6 Va. 10 [?]"; centre: "Ṛgvedasaṃhitā"; right: 173.)*
+
+*Special Topics of Rik 85.7, continued from p. 172 (the Ṛgveda citations):*
+
+> दिवो न तुभ्यमन्विन्द्र सत्रासुर्यं देवेभिर्धायि विश्वम् । अहिं यदृत्रमपो ववृवांसं हन्नृजीषिन् विष्णुना सचानः ॥
+
+*divo na tubhyam anv indra satrāsuryaṃ devebhir dhāyi viśvam | ahiṃ yad vṛtram apo vavrivāṃsaṃ hann ṛjīṣin viṣṇunā sacānaḥ ‖* (Ṛ. Saṃ. 6-[20]-[2] [?]) — *Gloss, mine and tentative:* "As if from heaven, O Indra, all the might has been placed on you by the gods, when, O lord of the soma-strainings, you slew the serpent Vṛtra who encompassed the waters, joined with Viṣṇu."
+
+> तमस्य विष्णुर्महिमानमोजसांशुं दधन्वान्मधुनो वि रप्शते । देवेभिरिन्द्रो मघवा सयावभिर्वृत्रं जघन्वाँ अभवद्वरेण्यः ॥
+
+*tam asya viṣṇur mahimānam ojasāṃśuṃ dadhanvān madhuno vi rapśate | devebhir indro maghavā sayāvabhir vṛtraṃ jaghanvāṃ abhavad vareṇyaḥ ‖* (Ṛ. Saṃ. 10-[113]-[2] [?]) — *Gloss, mine and tentative:* "His greatness [and] that stream of honey Viṣṇu holds in his strength, he proclaims [or: shouts forth]; with the gods who go together, Indra the bountiful, having slain Vṛtra, became the choicest."
+
+"In such Ṛks the matter of Viṣṇu helping Indra is brought up. Apart from this, in the Ṛks Ṛ. Saṃ. 8-[32-?]; 8-[?]; 10-[?]; 6-[?]; 6-[?]; 6-[?]; 2-[?]; 7-[?]; 7-[?]; 7-[?] (the numerals are small and read with doubt, so none is given as certain [?]), Viṣṇu is invoked, together with the Marut deities or with other deities, for the sake of drinking Soma."
+
+- **विष्णुः** — "As to Viṣṇu we have already written; see pages 119, 124, 125 of Ṛ. Saṃ. Part 3 [as printed: 'Ṛ. Saṃ. bhāga 3, pp. 119, 124, 125' — i.e. of an earlier volume of this edition]. For the word *viṣṇu* in this Ṛk, Skandasvāmin explains it as 'sacrifice': there is the Śruti sentence *yajño vai viṣṇuḥ* — 'sacrifice indeed is Viṣṇu'."
+- **वयो न** — "*vayo na* means 'like a bird': the ṛṣi prays that they should come swiftly, as a bird flies swiftly."
+- **बर्हिषि प्रिये** — "To invite the gods to a sacrifice, so that they come and sit, they spread a seat (*āsana*) of *kuśa* grass, cut at the tips, on the ground, like a soft mattress. The ṛṣis in many Ṛks pray that the deities come and sit on this seat. Here the word *priye* shows that such a seat is dear to the gods, a thing in which they take pleasure."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 85.7)** *(grammar page, noted briefly; begins here)*
+
+- **ते वर्धन्त** — *te + avardhanta*; by "एङः पदान्तादति" (*eṅaḥ padāntād ati*, Pā. Sū. 6-1-109) the earlier form (*pūrvarūpa*) is the single substitute; then by "स्वरितो वानुदात्ते पदादौ" (Pā. Sū. 8-2-[6] [?]): "when an unaccented follows at the beginning of a pada, the *svarita* is optional with the single substitute that arises from an acute..." — here, as the single substitute arises with an acute, it becomes *svarita*; the root *vṛdhu vṛddhau*; *laṅ*, third person plural.
+- **स्वतवसः** — *svakīyaṃ tavaḥ yeṣāṃ te svatavasaḥ*; by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member keeps its own accent.
+- **महित्वना** — the affix *tva* in the abstract sense; the *ā* of the following *jas* is lost by *vyatyaya*; the acute accent too is by *vyatyaya*. Or, by "सुपां सुलुक्" the substitute *ā* for the case-ending, and the augment *n*; since *mahitvanā* is *cit* [as read], by "चितः" the final acute.
+
+---
+
+**Progress note:** Printed pp. 1–173 done (PDF 16–188) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–84 complete.** **Sūkta 85** (twelve Ṛks: 5th and 12th Triṣṭubh, the rest Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka; printed pp. 143–191): Riks **85.1–85.6 complete**; **Rik 85.7** complete through Pratipadārtha, Bhāvārtha, English and Special Topics, and its grammar page begun (*te vardhanta*, *svatavasaḥ*, *mahitvanā*, p. 173); the rest of the grammar page follows on p. 174. Next: printed p. 174 (PDF 189). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169 grammar partly read; 154 *kopayetha* doubtful; **p. 171: bhāṣya's grammatical tail partly omitted (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
