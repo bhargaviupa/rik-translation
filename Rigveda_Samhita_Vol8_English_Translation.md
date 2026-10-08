@@ -3946,4 +3946,110 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–133 done (PDF 21–153): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.8 complete except the end of the grammar of 97.8, which is begun at the foot of p. 133 (*nāvayā*, *parṣa*) and continues on p. 134, where Sūkta 98 follows (the contents give Sūkta 98 at printed p. 134). Next: printed p. 134 (PDF 154). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–133) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122, 124, 126–129 and 133 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*), 97.3 (last clause) and 97.8 (*dve yau teḥ stija…*) [?], the print's *śatrūn atikramya* with doubled *y* (p. 132); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 134 (PDF 154)
+
+*(Running head: left 134; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**Grammar of Rik 97.8, concluded from p. 133 (noted briefly):** …*sip* arises; since *śap* is the cause, guṇa of the root's *i* [*ṛ*] by *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84 [?]); *raparaḥ* by *uraṇ raparaḥ*; *ato heḥ* (Pā. 6-4-105 [?]) elides *hi*; since the root has the *dvy-ac* form, the lengthening in the Saṃhitā by *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135 [?]) (*parṣā*). ‖ 8 ‖
+
+*(Here Sūkta 97 ends; the print has no separate closing line.)*
+
+---
+
+## Sūkta 98
+
+**ತೊಂಭತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು** — *tombhatteṇṭaneya sūktavu*, "the ninety-eighth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 98 (Sanskrit in Kannada script):**
+
+> वैश्वानरस्येति तृचं पञ्चमं सूक्तं कुत्सस्यार्षं त्रैष्टुभं । वैश्वानरगुणकोऽग्निः शुद्धाग्निर्वा देवता । तथा चानुक्रान्तं ॥ वैश्वानरस्य तृचं वैश्वानरीयमिति ॥ व्यूढस्य चतुर्थेऽहन्याग्निमारुते इदं सूक्तं वैश्वानरीयनिविद्धानं । व्यूढ… क्षेदिति खण्डे सूत्रितं । वैश्वानरस्य सुमतौ क ईं व्यक्ताः ॥ आ. ८-८ । इति ॥
+> *vaiśvānarasyeti tṛcaṃ pañcamaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubhaṃ | vaiśvānaraguṇako 'gniḥ śuddhāgnir vā devatā | tathā cānukrāntaṃ ‖ vaiśvānarasya tṛcaṃ vaiśvānarīyam iti ‖ vyūḍhasya caturthe 'hany āgnimārute idaṃ sūktaṃ vaiśvānarīyanividdhānaṃ | vyūḍha… kṣed iti khaṇḍe sūtritaṃ | vaiśvānarasya sumatau ka īṃ vyaktāḥ ‖ Āś. 8-8 | iti ‖*
+
+*Sense (mine, from the Kannada that follows):* "The fifth sūkta, *vaiśvānarasya*, of three Ṛks, is the *ṛṣi*-composition of Kutsa, in the Triṣṭubh metre; its deity is Agni with the quality of 'Vaiśvānara', or the pure Agni. And so the Anukramaṇī: '*vaiśvānarasya tṛcaṃ vaiśvānarīyam*'. On the fourth day of the *Vyūḍha*, in the Āgnimāruta [śastra], this sūkta is the *nivid*-insertion for Vaiśvānara; it is laid down in the section 'Vyūḍha…': '*vaiśvānarasya sumatau ka īṃ vyaktāḥ*' (Āśv. 8-8)."
+
+**Anuvāda (Kannada):** "*Vaiśvānarasya* is the fifth sūkta in the fifteenth anuvāka. It has three Ṛks. The seer of this sūkta is Kutsa. The metre is Triṣṭubh. The deity is Agni named Vaiśvānara, or Agni alone. In the Anukramaṇikā it is said '*vaiśvānarasya tṛcaṃ vaiśvānarīyam*'. When reciting the mantras of the Agni-Marut śastra on the fourth day of the sacrifice called *Vyūḍha*, this sūkta is to be used for the *nivid*-insertion of Vaiśvānara; it is explained in the Āśvalāyana Śrauta-sūtra, in the section called *Vyūḍha*, by the sūtra '*vaiśvānarasya sumatau ka īṃ vyaktāḥ*' (Āś. 8-8)."
+
+*(Printer's ornaments follow.)*
+
+### Page 135 (PDF 155)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 135.)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ९८ (Sūkta 98)**
+
+॥ मण्डल—१ ॥ अनुवाक—१५ ॥ सूक्त—९८ ॥ — *Maṇḍala 1; Anuvāka 15; Sūkta 98.*
+॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—६ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "6" as read [?].*
+*Number of Ṛks in the sūkta:* 3. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* *agnir vaiśvānaro vā* (as printed; "Agni, or Vaiśvānara" [?]). *Chandas:* Triṣṭubh.
+
+### Rik 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 98.1)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> वैश्वानरस्य सुमतौ स्याम राजा हि कं भुवनानामभिश्रीः ।
+> इतो जातो विश्वमिदं वि चष्टे वैश्वानरो यतते सूर्येण ॥ १ ॥
+
+*vaiśvānarasya sumatau syāma rājā hi kaṃ bhuvanānām abhiśrīḥ | ito jāto viśvam idaṃ vi caṣṭe vaiśvānaro yatate sūryeṇa ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 98.1)**
+
+> वैश्वानरस्य । सुऽमतौ । स्याम । राजा । हि । कम् । भुवनानाम् । अभिऽश्रीः ।
+> इतः । जातः । विश्वम् । इदम् । वि । चष्टे । वैश्वानरः । यतते । सूर्येण ॥ १ ॥
+
+*vaiśvānarasya | su-matau | syāma | rājā | hi | kam | bhuvanānām | abhi-śrīḥ | itaḥ | jātaḥ | viśvam | idam | vi | caṣṭe | vaiśvānaraḥ | yatate | sūryeṇa ‖ 1 ‖*
+
+### Page 136 (PDF 156)
+
+*(Running head: left 136; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 98.1)**
+
+> वैश्वानरस्य विश्वेषां नराणां लोकान्करणेत्रैश्वरेतश्वरे [?] स्वामित्वेन वा सम्बन्धिनोऽग्नेः सुमतौ शोभनायामनुग्रहात्मिकायां बुद्धौ स्याम । अनुग्राह्यत्वेन वर्तमाना भवेम । हि कमित्येतद्धि कबार्थे । स हि वैश्वानरोऽभिश्रीरभिश्रयणीयोऽभिमुख्येन सेवितव्यः सन् भुवनानां सर्वेषां भूतजातानां राजा स्वामी भवति । योऽवैश्वानरोऽग्निरितोऽस्मादरणिद्वयाज्जातमात्र एवेदं सर्वं जगद्वि चष्टे विशेषेण पश्यति । पाठे रुद्द्मतो सूर्येण च यतते संयतेते संगच्छते । उद्यन्तं वा वादित्यमग्निरनुसमारोहति । तै. ब्रा. ३-१-३-१० । इति तैत्तिरीयकं । यद्वा । पार्थिवस्याग्नेस्तेजांस्यूर्ध्वं गच्छन्ति । सूर्यकिरणश्चाधोमुखं प्रसरन्ति । तयोः सङ्गमनं दृष्ट्वा वैश्वानरो यतते सूर्येणेत्यृषिर्ब्रूते । तथा च यास्कः । आमुतोऽमुष्य रश्मयः प्रादुर्भवन्तीतोऽस्यार्चिषस्तयोर्भासोः संसंगं दृष्ट्वैवमुवाच्यत् । नि. ७-२३ । इति ॥ एवंभूतस्य महानुभावस्य वैश्वानरस्य सुमतौ स्यामेति सम्बन्धः ॥ वैश्वानरस्य विश्वेषां नराणां सम्बन्धिनि । नरे संज्ञायां । पा. ६-३-१२९ । इति पूर्वपदस्य दीर्घत्वं । तस्येदमित्यण् । सुमतौ । शोभना मतिः सुमतिः । तादौ च गतेः प्रकृतिस्वरे प्राप्ते मन्क्तिन्व्याख्यानेत्यादिनोत्तरपदान्तोदात्तत्वं । ननु तत्र कारकादित्यनुवृत्तेर्गतेरुत्तरस्य क्तिनो न प्राप्नोति । एवं तर्हि मतिमननं । भावे क्तिन् । शोभनं मननं यस्यां बुद्धौ सा सुमतिः । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । चष्टे । चक्षिङ् व्यक्तायां वाचि । अयं पश्यत्यर्थे च । अदादित्वाच्छपो लुक् । स्कोः संयोगाद्योरिति कलोपः । यतते । यती प्रयत्ने ॥
+> *vaiśvānarasya viśveṣāṃ narāṇāṃ lokān karaṇetraiśvaretaśvare [?] svāmitvena vā sambandhino 'gneḥ sumatau śobhanāyām anugrahātmikāyāṃ buddhau syāma | anugrāhyatvena vartamānā bhavema | hi kam ity etad dhi kabārthe | sa hi vaiśvānaro 'bhiśrīr abhiśrayaṇīyo 'bhimukhyena sevitavyaḥ san bhuvanānāṃ sarveṣāṃ bhūtajātānāṃ rājā svāmī bhavati | yo 'vaiśvānaro 'gnir ito 'smād araṇidvayāj jātamātra evedaṃ sarvaṃ jagad vi caṣṭe viśeṣeṇa paśyati | pāṭhe ruddmato sūryeṇa ca yatate saṃyatete saṃgacchate | udyantaṃ vā vādityam agnir anusamārohati | tai. brā. 3-1-3-10 | iti taittirīyakaṃ | yadvā | pārthivasyāgnes tejāṃsy ūrdhvaṃ gacchanti | sūryakiraṇāś cādhomukhaṃ prasaranti | tayoḥ saṅgamanaṃ dṛṣṭvā vaiśvānaro yatate sūryeṇety ṛṣir brūte | tathā ca yāskaḥ | āmuto 'muṣya raśmayaḥ prādurbhavantīto 'syārciṣas tayor bhāsoḥ saṃsaṃgaṃ dṛṣṭvaivam uvācyat | ni. 7-23 | iti ‖ evaṃbhūtasya mahānubhāvasya vaiśvānarasya sumatau syāmeti sambandhaḥ ‖ vaiśvānarasya viśveṣāṃ narāṇāṃ sambandhini | nare saṃjñāyāṃ | pā. 6-3-129 | iti pūrvapadasya dīrghatvaṃ | tasyedam ity aṇ | sumatau | śobhanā matiḥ sumatiḥ | tādau ca gateḥ prakṛtisvare prāpte mankktinvyākhyānety ādinottarapadāntodāttatvaṃ | nanu tatra kārakād ity anuvṛtter gater uttarasya ktino na prāpnoti | evaṃ tarhi matimananaṃ | bhāve ktin | śobhanaṃ mananaṃ yasyāṃ buddhau sā sumatiḥ | nañsubhyām ity uttarapadāntodāttatvaṃ | caṣṭe | cakṣiṅ vyaktāyāṃ vāci | ayaṃ paśyatyarthe ca | adādittvāc chapo luk | skoḥ saṃyogādyor iti kalopaḥ | yatate | yatī prayatne ‖*
+
+*(The first clause of the print's bhāṣya, "…* karaṇetraiśvaretaśvare *", is clotted and read as given [?]; the passage* pāṭhe ruddmato *is likewise clotted [?]. Sense, mine and tentative, from the Kannada below: "May we be in the good will (*sumati*), the gracious intention, of Vaiśvānara — of Agni, who is the lord of all men [*viśveṣāṃ narāṇām*, the Vaiśvānara]; may we be found worthy of his favour. For (*hi kam*, in the sense of 'surely') this Vaiśvānara, to be approached, to be served face to face, is king, lord, of all beings. This Agni, Vaiśvānara, immediately on being born from these two fire-sticks, surveys all this world, looks upon it in particular; and he unites with the sun: or, as the Taittirīya says, 'Agni ascends after the rising sun' (Tai. Brā. 3-1-3-10). Or: the radiances of the earthly Agni go upward, and the sun's rays go downward; seeing their meeting, the seer says 'Vaiśvānara vies with the sun'; and Yāska says: '… the rays of that one there appear; from this one the flame; seeing the junction of their lights he said so' (Ni. 7-23)." Grammatical tail (characterized): *vaiśvānarasya* — lengthening of the first member by* nare saṃjñāyāṃ *(Pā. 6-3-129); *aṇ* by *tasyedam*; *sumatau* — the accent of the final of the later member by the Kāśikā rule on *man-ktin-vyākhyāna…*, with a long discussion of how it applies to a *ktin* after a *gati*, resolved by taking* mati *as 'the act of thinking'; *caṣṭe* — root *cakṣiṅ* (to speak clearly; also 'to see'), *śap* elided as *adādi*, loss of *k* by *skoḥ saṃyogādyoḥ*; *yatate* — root *yatī* (to strive). Numerals as read, doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*vaiśvānarasya* — of Agni, the lord of all humankind; *sumatau* — in the kindly [favouring] intention; *syāma* — may we be, worthy of his favour; *hi kaṃ* — for (he); *abhiśrīḥ* — both visibly and as one to be worshipped; *bhuvanānāṃ* — of all beings; *rājā* — is the lord; *vaiśvānaraḥ* — Agni; *itaḥ* — from these two fire-sticks; *jātaḥ* — as soon as born; *idaṃ viśvaṃ* — all this world; *vi caṣṭe* — looks over with special sight; *sūryeṇa* ca — with the sun also; *yatate* — unites."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Worshipping Agni, lord of all humankind, may we always be worthy of his favour, so that his mind is gracious. That Agni is the visible lord, worthy of worship, of all beings. Agni, born of the two fire-sticks, as soon as he is born looks over the whole world with special sight; and, by the spreading of his flames, he unites with the rays of the sun."
+
+### Page 137 (PDF 157)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 137.)*
+
+**English Translation (as printed)**
+
+> May we continue in the favour of Vaiswanara, for verily he is the august sovereign of all beings ; as soon as generated from this (wood), he surveys the universe ; he accompanies the rising sun.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 98.1 (Kannada)**
+
+**॥ वैश्वानराग्नियमहिमा ॥ — *Vaiśvānarāgni-mahimā*, "the greatness of the Vaiśvānara fire"**
+
+> इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।
+> एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥
+> *indraṃ mitraṃ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān |*
+> *ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ‖*
+> (*Ṛ. Saṃ.* 1-164-46 as read)
+
+*(Translation, mine and tentative: "They call him Indra, Mitra, Varuṇa, Agni; then he is the heavenly, well-winged Garutmat. That which is One the sages speak of in many ways: they call it Agni, Yama, Mātariśvan".)*
+
+"Of this very Agni, the Mahātman, the Ātman who is the One alone, the intelligent speak in many ways: *agniḥ sarvā devatāḥ* (Ni. 7-[?]; also the Brāhmaṇa says it: 'Agni is all the deities'). The great-souled one, the universal Self, this Agni, all people worship, by calling him separately by names such as Indra. And in all the various contexts, the other fire-forms in which he appears under different appearances have as their root this very Vaiśvānara; the remaining forms are all branches of this Vaiśvānara fire: this is also the testimony of scripture."
+
+> वयो इदग्ने अग्नयस्ते अन्ये त्वे विश्वे अमृता मादयन्ते ।
+> वैश्वानर नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ध्यंथ ॥
+> *vayo id agne agnayas te anye tve viśve amṛtā mādayante |*
+> *vaiśvānara nābhir asi kṣitīnāṃ sthūṇeva janām̐ upamid yayantha ‖*
+> (*Ṛ. Saṃ.* 1-59-1 as read)
+
+*(Gloss, mine and tentative: "the other Agnis are but branches of you, Agni; in you all the immortals rejoice; Vaiśvānara, you are the navel of the peoples; you hold the folk up like a pillar".)*
+
+"Since Vaiśvānara, the fire, is the cause of the existence and the continuance of the whole world, all the dealings of the world are led by him. Therefore all beings, who desire the welfare of the self and the welfare of the world, should worship this Agni, the Self of the universe: the scriptures that teach rites and the scriptures that teach spiritual knowledge alike, in one way, teach the necessity of the worship of Vaiśvānara fire. The Saṃhitās, beginning with *vaiśvānarasya sumatau syāma* (Ṛ. Saṃ. 1-98-1), and the Brāhmaṇas, such as the Śatapatha — '*sa yo haitam evam agniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ veda; āpa punarmṛtyuṃ jayati sarvam āyur eti*' — 'he who knows this Vaiśvānara Agni, of the form of the Puruṣa, established within the Puruṣa, conquers death again and attains the full life' (Śa. Brā. 10-6-1-11 [?]) — say that one who knows the form of this Vaiśvānara fire, which is in the form of the Puruṣa, the Man [*puruṣāntar-cintana*, meditated within the man], conquers death, and obtains his full life; and: '*atha ya etam evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati*' ('and he who, knowing him thus, performs the Agnihotra, has his offering made in all worlds, in all beings, in all selves' [Chāndogya-type sentence, as read [?]]). So, knowing the nature of the Vaiśvānara fire, whatever" *(continues on p. 138)*
+
+---
+
+**Progress note:** Printed pp. 1–137 done (PDF 21–157): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; *vaiśvānarasya sumatau syāma*; Kutsa Āṅgirasa; Triṣṭubh; Agni Vaiśvānara, or pure Agni; 15th Anuvāka; printed pp. 134–?): Sāyaṇa's introduction, Anuvāda, heading block and Rik 98.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 98.1 (*Vaiśvānarāgni-mahimā*, the greatness of Vaiśvānara) begun on p. 137, breaking at the foot of p. 137 at "…So, knowing the nature of the Vaiśvānara fire, whatever". Next: printed p. 138 (PDF 158). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–137) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8) [?]; in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Yāska quotation (Ni. 7-23) and the Śatapatha and Chāndogya-type quotations on p. 137 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
