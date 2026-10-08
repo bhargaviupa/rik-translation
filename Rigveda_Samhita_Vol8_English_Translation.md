@@ -171,4 +171,87 @@
 
 ---
 
-**Progress note:** Setup done earlier (header, contents). The Pīṭhike is in progress: folios i–iii (PDF 6–8) translated; the Trita passage breaks at the foot of folio iii at "Therefore in the Ṛksaṃhitā and other…"; next: folio iv (PDF 9), then folios v–ix (PDF 10–14), then the Seventh Adhyāya from PDF 21 (printed p. 1). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā numerals as read, doubtful [?]; several Sanskrit citations on folios ii–iii read from small print [?].
+### Page iv (PDF 9)
+
+*(Running head: "iv".)*
+
+"…[the scholars'] opinions, whether the nature of Trita can be established, may be known; but first the opinions of Vedic scholars such as Yāska must be noted. The name Trita is used in [19?] sūktas, [40?] times in all [numerals read from small print, doubtful [?]]. But there is no independent sūkta concerning Trita (that is, addressed to a deity named Trita). In the list of deities in the Nighaṇṭu this name is not stated either. Yāska, however, explains this word in two places. First, in explaining the 7th Ṛk of the 105th sūkta (Ni. 4-6 [?]):"
+
+> त्रितं कूपेऽवहितमेतत्सूक्तं प्रतिबभौ । तत्र ब्रह्मेतिहासमिश्रमृज्मिश्रं गाथामिश्रं भवति । त्रितस्त्वैर्णतमो [?] मेधया बभूव अपि वा संख्यानामेवाभिप्रेतं स्यादेकतो द्वितस्त्रित इति त्रयो बभूवुः ।
+> *tritaṃ kūpe 'vahitam etat sūktaṃ pratibabhau | tatra brahmetihāsamiśram ṛkmiśraṃ gāthāmiśraṃ bhavati | tritas tv airṇatamo [?] medhayā babhūva api vā saṃkhyānām evābhipretaṃ syād ekato dvitas trita iti trayo babhūvuḥ |*
+
+*(Translation, mine and tentative, with the Kannada that follows: "To Trita, who was set down in a well, this sūktā appeared. In it there is a mixture of brahman, of history, of ṛk, of gāthā. Trita became [the most …, the word is clotted [?]] by his intelligence; or else a mere reckoning of numbers may be intended: from Ekata, Dvita, Trita — thus three came into being.")*
+
+"By Trita, who had fallen into the well, this sūkta was seen. It is a prayer in the form of *ṛk* and *gāthā*, with a story (*vittaṃ me asya rodasī*). Because he attained mastery in wisdom (*prajñā*), the name Trita came to him; or, since among Ekata, Dvita and Trita he is the third, the name 'Trita' may have come to him — so the first [explanation]. Secondly, in explaining the first Ṛk of 1-1[8]7 [?]: '*trite sthāne indraḥ*' [as read [?]] (Ni. 9-5 [?]) — Indra, who pervades three regions, is explained as an epithet of Indra."
+
+"In the Ṛksaṃhitā this word is used sixteen times together with Indra; once for the slayer of Vṛtra, once for Vyadaśva (?) [as read [?]]; as an epithet of the Maruts in four places; with Agni in seven places; once together with Varuṇa; four times with Soma; and six times for a person who stands in a far-off region."
+
+"In these places Sāyaṇa's explanation follows Yāska's derivation. He explains the word Trita as the name of the seer of the mantras in 2[0] Ṛks [?], and in the other places, according to the context, as an epithet showing the nature of the deities Vāyu, Varuṇa, Indra and Agni."
+
+"The story of Trita, the third among the three seers Ekata, Dvita and Trita, is given in the Special Topics of the first Ṛk of the 105th Sūkta. In the 9th Ṛk of the same sūkta, Trita has the epithet *āptya*; and Trita states that he is connected with Agni. How this epithet Āptya came to him, and what the connexion with Agni is — to explain this there is a story in the Śatapatha Brāhmaṇa."
+
+> चतुर्धाविहितो ह वाग्रेऽग्निरास । स यमग्रेऽग्निं होत्राय प्रावृणीत स प्राधन्वद्यं द्वितीयं प्रावृणीत स प्रैवाधन्वद्यं तृतीयं प्रावृणीत स प्रैवाधन्वदथ योऽयमेतर्ह्यग्निः स भीषा निलिल्ये सोऽपः प्रविवेश
+> *caturdhāvihito ha vāgre 'gnir āsa | sa yam agre 'gniṃ hotrāya prāvṛṇīta sa prādhanvadyaṃ dvitīyaṃ prāvṛṇīta sa praivādhanvadyaṃ tṛtīyaṃ prāvṛṇīta sa praivādhanvad atha yo 'yam etarhy agniḥ sa bhīṣā nililye so 'paḥ praviveśa*
+> *(continues on folio v)*
+
+*(Read from the print letter by letter; several words — especially* prādhanvadyaṃ*,* praivādhanvadyaṃ *— are doubtful [?]. Translation, mine and tentative, of the passage, with its end on the next page: "Agni was at first divided in four [ways]. Whom he chose for the Hotṛ's office first, … the second, … the third … then he who is this Agni now, in fear, hid himself; he entered the waters.")*
+
+### Page v (PDF 10)
+
+*(Running head: "v".)*
+
+> तं देवा अनुविद्य सहस्रैवाद्भ्य [?] आनिन्युः सोऽपोऽभितिष्ठमे [?] ऽवास्तूता [?] स्थ यो अप्रपदनं स्थ योऽभ्यो वो मामुकामं नयन्तीति तत आप्त्याः संबभूवुस्त्रितो द्वितो एकतः ।
+> *taṃ devā anuvidya sahasraivādbhya [?] āninyuḥ so 'po 'bhitiṣṭhame [?] 'vāstūtā [?] stha yo apraṇadanaṃ stha yo 'bhyo vo māmukāmaṃ nayantīti tata āptyāḥ saṃbabhūvus trito dvita ekataḥ |*
+> (*Śa. Brā.* 1-2-3-1 as read [?])
+
+"Agni's three elder brothers, wearied and thinned out in the work of carrying the oblations to the gods, and fearing that the same state might come upon him too, Agni ran away and hid himself in the water. Then the gods, entering the water, seized him and brought him back; Agni, in anger, spat upon the water, as a thing unfit to give protection. Then the three Āptya deities, Ekata, Dvita and Trita, arose. This is one reason why the epithet *āptya* came to be."
+
+"Secondly, to show that Trita and the others were born of Agni, Sāyaṇa has pointed out the derivation of the word *trita* on the basis of a passage of the Taittirīya Brāhmaṇa (Ṛ. Saṃ. 1-1[05]-? Sā. Bhā.):"
+
+> देवानां हविर्लोपनिषिघर्षणाय [?] अग्नेः सकाशात् अप्सु एकतो द्वितस्त्रित इति त्रयः पुरुषा जज्ञिरे । तथा च तैत्तिरीयैः समाम्नातं । सोऽङ्गारेभ्योऽपोऽभ्यपातयत् । तत एकतोऽजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत ।
+> *devānāṃ havir lopaniṣighaṛṣaṇāya [?] agneḥ sakāśāt apsu ekato dvitas trita iti trayaḥ puruṣā jajñire | tathā ca taittirīyaiḥ samāmnātaṃ | so 'ṅgārebhyo 'po 'bhyapātayat | tata ekato 'jāyata | sa dvitīyam abhyapātayat | tato dvito 'jāyata | sa tṛtīyam abhyapātayat | tatas trito 'jāyata |*
+> (*Tai. Brā.* 3-2-8-10 as read [?])
+
+*(Translation, mine and tentative: "From Agni, in the water, three persons were born, Ekata, Dvita and Trita; and so the Taittirīyas have handed down: 'He made [drops] from the embers fall into the waters; thence Ekata was born; he let a second fall; thence Dvita was born; he let a third fall; thence Trita was born.'" The opening clause of the quotation is clotted [?].)*
+
+"The sense of this Brāhmaṇa passage is that Agni, to wipe away the fault of the gods, caused the three persons Ekata, Dvita and Trita to arise in the water. For this reason Trita, in —"
+
+> अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
+> *agniṃ manye pitaram agnim āpim agniṃ bhrātaraṃ sadam it sakhāyam |*
+> (*Ṛ. Saṃ.* 10-7-3 as read [?])
+
+*(Gloss, mine and tentative: "I think of Agni as father, Agni as kinsman, Agni as brother, ever as friend".)*
+
+"— in Ṛks like this, calls Agni his father, his brother, his friend, and praises Agni as one whom he himself worships, and as one who helps the heavenly, worshipful Sūrya to give more light."
+
+"So, because Trita has a direct relation with Agni, and this is in Trita's own words, the views of the learned who state an identity with Indra, Vāyu and other deities may be said not to declare the right nature of Trita. That Trita is a portion (*aṃśa*) of Vaidyutāgni, the lightning-fire, must be stated on many authorities. To give the right reasons showing that this view is correct, and before concluding that he is called by the synonymous name Vaidyutāgni, [it is first needed, with great detachment and in a scholarly order,] to take up the Vedic studies…" *(continues on folio vi)*
+
+### Page vi (PDF 11)
+
+*(Running head: "vi".)*
+
+"…and to cite here some of the views about Trita among the opinions of the English scholars who have pursued Vedic studies with great detachment and in a scholarly order, and have made known their opinions in such matters, would not be improper. Among them, the scholar named Benfey says:"
+
+> "Trita is a mythical personage, to whom, as to Indra and other deities, is ascribed the destruction of the demons withholding the fertilising rain from the earth. In some passages, special mention is made of the fact, that Trita owes his strength for this deed to the sacred Soma draught, and in one passage, Indra is described as drinking Soma with him." *(English, as printed.)*
+
+"And Bergaigne says:"
+
+> "In his warlike exploits he always preserves his part as a sacrificer, Trita, who was certainly a God, has none the less become a priest, favourite of Indra." *(English, as printed.)*
+
+"And the scholar Pischel says:"
+
+> "Trita was from the beginning a God of the sea and of the waters." *(English, as printed.)*
+
+"The scholar Roth has stated an identity of Trita with Vāyu. The scholar Ludwig has endorsed this view. Muir has given his own view that Trita is a synonym (*paryāya*) of Indra. Thus, as each of the Western scholars states a different opinion, the followers of the Vedic tradition too seem to have shown, earlier, differences of opinion, as is said. But there are no proper authorities for establishing the identity of Trita with deities other than Agni. Although the name of Trita is said sixteen times together with Indra — in the Ṛks 2-11-20 [?]; 8-[?]-[?]; 9-[?]-[?]; and others, all as read from small print [?] — one who is a helper of Indra, a seer who is Indra's friend named Trita, is told of as a separate person who is in Indra's company; therefore *trita* is not a synonym of Indra. Just so, in —"
+
+> इमं त्रितो भूर्यविन्दिच्छन्वैभूवसो मूर्धन्यघ्न्यायाः ।
+> *imaṃ trito bhūry avindad icchan vaibhūvaso mūrdhany aghnyāyāḥ |*
+> (*Ṛ. Saṃ.* 10-8-8 as read [?])
+
+*(Gloss, mine and tentative: "Trita, the son of Vibhūvasu, seeking, found this [Agni] in plenty on the head of the cow".)*
+
+"— in this Ṛk, the words 'house-friend' (*gṛhasakhi*) apply only to Agni; apart from him Vāyu is not known as a house-friend. Like this, in the Ṛk 10-46-3 [?] also, the praise is addressed to Agni. Thus, on many authorities, it may be said freely that the name *trita* is not a synonym of other deities, but is a portion (*aṃśa*) of Agni. As to the word *āptya*, since in the Ṛks from 9-[?]-13 [?] to the 1[6]th [?] there is a description of one who is far off and goes to the end of clouds, it may be said to be the form of the lightning-fire. If that is said, then the companionship (*sāhacarya*) of Trita, in the form of the lightning-fire, with Indra, the Maruts and the other deities is also what is meant. And from the standpoint of the origin of the forms (*rūpaniṣpatti*), too, it is possible to state the identity of Trita with Agni, who is in three forms."
+
+---
+
+**Progress note:** The Pīṭhike is in progress: folios i–vi (PDF 6–11) translated, the Trita discussion (Yāska, Sāyaṇa, Śatapatha and Taittirīya Brāhmaṇas, Benfey, Bergaigne, Pischel, Roth, Ludwig, Muir) breaking mid-argument at the foot of folio vi at "…identity of Trita with Agni, who is in three forms."; next: folio vii (PDF 12), then folios viii–ix (PDF 13–14), then the Seventh Adhyāya from PDF 21 (printed p. 1). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112. Open flags: the Pīṭhike's Ṛgveda/Nirukta/Bṛhaddevatā/Śatapatha/Taittirīya numerals as read, doubtful [?]; several Sanskrit citations on folios ii–v read from small print, with clotted words [?] (the Śatapatha passage on folios iv–v, the Taittirīya Brāhmaṇa opening clause, *tritas tv airṇatamo*); the sūkta counts "19" and "40" for the name Trita and the Ṛk counts on folio vi from small digits [?].
