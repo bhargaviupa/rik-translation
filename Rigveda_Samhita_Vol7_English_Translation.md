@@ -11321,6 +11321,100 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–397 done (PDF 16–412) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.22 complete; Rik 91.23 (the last Ṛk) begun — the first line of its Saṃhitā is on p. 397; the second line, the Pada and all of its commentary are still to be written from p. 398 (PDF 413). Next: printed p. 398 (PDF 413). "
-"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.22 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22: bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted [?]; the Ṛgveda numerals of the Soma/*oṣadhi* citations on pp. 396–397 (10-97-18, 10-85-3, 6-4[4]-2[4], 9-24-6, 9-33-2, 6-42-4, 6-44-24, 9-66-24) all doubtful [?]; the gaṇa-sūtra *janījṛṣ…* partly read; Pāṇini numerals 3-1-26, 6-4-92, 7-2-64 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+### Page 398 (PDF 413)
+
+*(Running head: left "398", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.23, completed)**
+
+> देवेन नो मनसा देव सोम रायो भागं सहसावन्नभि युध्य ।
+> मा त्वा तनदीशिषे वीर्यस्योभयेभ्यः प्र चिकित्सा गविष्टौ ॥ २३ ॥
+
+*devena no manasā deva soma rāyo bhāgaṃ sahasāvann abhi yudhya | mā tvā tanad īśiṣe vīryasyobhayebhyaḥ pra cikitsā gaviṣṭau ‖ 23 ‖*
+
+(The second line begins at the head of p. 398. Triṣṭubh. The Saṃhitā prints *cikitsā*, the Pada *cikitsa*. Accent marks not reproduced.)
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.23)**
+
+> देवेन । नः । मनसा । देव । सोम । रायः । भागम् । सहसाऽवन् । अभि । युध्य ।
+> मा । त्वा । आ । तनत् । ईशिषे । वीर्यस्य । उभयेभ्यः । प्र । चिकित्स । गोऽइष्टौ ॥ २३ ॥
+
+*devena | naḥ | manasā | deva | soma | rāyaḥ | bhāgam | sahasā-van | abhi | yudhya | mā | tvā | ā | tanat | īśiṣe | vīryasya | ubhayebhyaḥ | pra | cikitsa | go-iṣṭau ‖ 23 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.23)**
+
+> हे देव द्योतमान सहसावन् बलवन् सोम देवेन मनसा द्योतमानया त्वदीयया बुद्ध्या रायो भागं धनस्यांशं नोऽस्मानभिलक्ष्य युध्य । प्रेरय । यद्वा । नोऽस्माकं रायो धनस्य भागं भक्तारमुपहर्तारं शत्रुमभि युध्य । आभिमुख्येन सम्यक् प्रहर । त्वा त्वादृशं त्वां कश्चिदपि शत्रुर्मा आ तनत् । क्लेशेनाततं मा कार्षीत् । मा हिंसीदित्यर्थः । उभयेभ्य उभयेषां युध्यमानानां संबन्धिनो वीर्यस्य बलस्य त्वमीशिषे । ईश्वरो भवसि । स त्वं गविष्टौ संग्रामे प्र चिकित्स । अस्मदीयमुपद्रवं परिहर ॥ रायः । ऊडिदमिति विभक्तेरुदात्तत्वं । भागं । भजतेः कर्मणि घञ् । कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तरि वा । कर्षात्वत इत्यन्तोदात्तत्वं । सहसावन् । सहःशब्दान्मतुपि छान्दस आकारलोपजनः [clotted [?]] । युध्य । युध संप्रहारे । व्यत्ययेन परस्मैपदं । तनत् । तनु विस्तारे । व्यत्ययेन शप् । नमाङ्योग इत्यडभावः । ईशिषे । ईशः से । पा. ७-२-७७ [?] इतीडागमः । चिकित्स । कित ज्ञाने । गुप्तिज्किद्भ्यः सन् । पा. ३-१-५ [?] । गविष्टौ । गवां बाणानामिष्टयः एषणानि गमनानि येषु । इति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*he deva dyotamāna sahasāvan balavan soma devena manasā dyotamānayā tvadīyayā buddhyā rāyo bhāgaṃ dhanasyāṃśaṃ no 'smān abhilakṣya yudhya | preraya | yadvā | no 'smākaṃ rāyo dhanasya bhāgaṃ bhaktāram upahartāraṃ śatrum abhi yudhya | ābhimukhyena samyak prahara | tvā tvādṛśaṃ tvāṃ kaścid api śatrur mā ā tanat | kleśenātataṃ mā kārṣīt | mā hiṃsīd ity arthaḥ | ubhayebhya ubhayeṣāṃ yudhyamānānāṃ saṃbandhino vīryasya balasya tvam īśiṣe | īśvaro bhavasi | sa tvaṃ gaviṣṭau saṃgrāme pra cikitsa | asmadīyam upadravaṃ parihara ‖ rāyaḥ | ūḍidam iti vibhakter udāttatvaṃ | bhāgaṃ | bhajateḥ karmaṇi ghañ | kṛtyalyuṭo bahulam iti bahulavacanāt kartari vā | karṣātvata ity antodāttatvaṃ | sahasāvan | sahaḥśabdān matupi chāndasa ākāralopajanaḥ [clotted [?]] | yudhya | yudha saṃprahāre | vyatyayena parasmaipadaṃ | tanat | tanu vistāre | vyatyayena śap | namāṅyoga ity aḍabhāvaḥ | īśiṣe | īśaḥ se | Pā. 7-2-77 [?] itīḍāgamaḥ | cikitsa | kita jñāne | guptijkidbhyaḥ san | Pā. 3-1-5 [?] | gaviṣṭau | gavāṃ bāṇānām iṣṭayaḥ eṣaṇāni gamanāni yeṣu | iti bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
+
+*Translation:* "O deva, shining one, *sahasāvan*, mighty Soma: with *devena manasā*, with your shining mind, your understanding, *abhi yudhya* — urge, send — to us a *bhāga*, a portion of wealth, with us in view. Or: *abhi yudhya* — strike with full force, in confrontation — the enemy who is the *bhaktṛ*, who takes, who carries off, a portion of our wealth. Let no enemy *mā ā tanat* — stretch [bind] you, such as you are, with distress, that is, let him not harm you. You *īśiṣe*, are lord of the strength of *ubhayebhyaḥ*, of both parties of fighters. Such as you are, *pra cikitsa*: in *gaviṣṭau*, in battle, ward off our trouble."
+
+*Grammar tail (partly clotted):* *rāyaḥ* — the case-ending acute by *ūḍidam*. *bhāgam* — the suffix *ghañ* in the passive sense from *bhaj*; or, by *kṛtyalyuṭo bahulam*, in the agent sense; by *karṣātvato…* the final-acute. *sahasāvan* — the suffix *matup* after *sahas*, with a Vedic elision of *ā* [clotted [?]]. *yudhya* — root *yudha saṃprahāre*; the *parasmaipada* by *vyatyaya*. *tanat* — root *tanu vistāre*; *śap* by *vyatyaya*; by *namāṅyoge* (the prohibition of the augment *aṭ* in connection with *mā*) the *aṭ* is absent. *īśiṣe* — the augment *iṭ* by *īśaḥ se* (Pā. 7-2-77 [?]). *cikitsa* — root *kita jñāne*; the suffix *san* by *guptijkidbhyaḥ san* (Pā. 3-1-5 [?]). *gaviṣṭau* — "that in which there are the *iṣṭayaḥ*, the goings (*eṣaṇāni, gamanāni*), of *gavāṃ bāṇānām*, of the arrows"; a *bahuvrīhi*, the first member keeping its natural accent.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.23)** *(Kannada; begins at the foot of p. 398)*
+
+*deva* — O shining one; *sahasāvan* — O mighty one; *Soma* — O Soma-deity; *devena manasā* — with your radiant mind (willingly); *rāyaḥ* — of wealth;
+
+---
+
+### Page 399 (PDF 414)
+
+*(Running head left: "A. 1 A. 6 Va. 23 [?]"; centre: "Ṛgvedasaṃhitā"; right: 399.)*
+
+*(the Pratipadārtha continues:)* "*bhāgam* — a portion; *naḥ* — to us too; *abhi yudhya* — cause to reach. [*rāyaḥ* — of wealth; *bhāgam* — the portion; *apaharantam* [as read] — the one who takes away; *naḥ (abhi)* — to us, our (enemy); *abhi yudhya* — fight and kill, and] — *tvā* — such as you; *mā ā tanat* — let no enemy hurt or obstruct you; *ubhayebhyaḥ* — (the two ranks engaged in battle); *vīryasya* — of the strength (to give); *īśiṣe* — you are the capable lord; *gaviṣṭau* — in battle; *pracikitsa* — protect (us)."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.23** *(Kannada)*
+
+"O shining and mighty Soma-deity, of your wealth endowed with radiance, graciously and willingly send us a portion. May no enemy obstruct you. You are the capable lord to grant strength to the two ranks engaged in battle. Therefore, standing firm for us the sacrificers, protect us, and destroy the enemy in battle."
+
+**English Translation** *(printed in English in the source; Rik 91.23)*
+
+"Divine and powerful Soma, gracefully give us our portion of wealth ; may none annoy you ; you are superior to two foes combined. Defend us in battle." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.23)** *(Kannada)*
+
+***sahasāvan*** — "Since the word *sahas* is read among the twenty-eight names of strength, *ojaḥ, pājaḥ, śaraḥ* and so on (Ni. 2-9 [?]), *sahas* means 'strength'; *sahasāvan* means 'mighty'. *Sahasāvan* is the vocative singular."
+
+***devena manasā*** — *dyotamānayā tvadīyayā buddhyā* | "That is, 'with your radiant mind' (that is, 'willingly'), Sāyaṇa explains. But Skandasvāmin: '*dīvyatiḥ dānārthaḥ; dānābhimukhena manasā*', that is, 'with a mind inclined to giving'. According to the Nirukta's explanation both meanings are possible, since the word *deva*: '*devo dānād vā, dīpanād vā, dyotanād vā, dyusthāno bhavatīti vā*' (Ni. 7-15 [?]) — whether it is 'from giving', 'from lighting' or 'from shining', the meanings 'giving', 'shining' or 'illuminating' may be given here, whichever is wanted."
+
+***abhi yudhya*** — "*abhi yudhya* means 'fight and destroy'. Or because the explanation is '*abhiyudhaḥ gatikarmā*' [as read [?]], *abhigamaya* — 'cause to come to us' — is the meaning. —
+
+---
+
+### Page 400 (PDF 415)
+
+*(Running head: left "400", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+"— both meanings come to the same here: 'having killed our enemies who have carried off the portion of wealth, bring that wealth to us' — this is the sense of *rāyaḥ bhāgaṃ naḥ abhiyudhya*."
+
+***mā ā tanat*** — "Though *ātanin* ordinarily means 'one who spreads', here *ātanet* means 'obstruction': while you are giving us gifts of wealth, let no one obstruct you, or let no enemy stop you."
+
+***vīryasya īśiṣe*** — "Here, if *ubhayebhyaḥ vīryasya* is construed as one construction, then, since you are the lord of the strength of the two ranks engaged in battle, you can give victory to those on whom you are well disposed — this is the sense: because you are the greatest of all heroes, none can conquer him. As described in the Ṛks 9-66-18 [?] and 12 [?] of the Ṛksaṃhitā —"
+
+> महाँ असि सोम ज्येष्ठ उग्राणामिन्द्र ओजिष्ठः । युध्वा सञ्छश्वज्जिगेथ ॥
+
+*mahāṃ asi soma jyeṣṭha ugrāṇām indra ojiṣṭhaḥ | yudhvā sañ chaśvaj jigetha ‖*  (Ṛ. Saṃ. 9-66-18 [?]; read as printed, the third word *indra* as read [?])
+
+> ये उग्रेभ्यश्चिदोजीयाञ्छूरेभ्यश्चिच्छूरतरः । भूरिदाभ्यश्चिन्मंहीयान् ॥
+
+*ye ugrebhyaś cid ojīyāñ śūrebhyaś cic chūrataraḥ | bhūridābhyaś cin maṃhīyān ‖*  (Ṛ. Saṃ. 9-66-12 [?]; the last word read *maṃhīyān* from a clotted print [?])
+
+*Gloss, mine and tentative (both):* "Great are you, O Soma, eldest of the fierce, mightiest [Indra-like]; by fighting you have conquered always. — He who is stronger than the strong, braver than the brave, more bounteous than the bountiful."
+
+"— the strength and capacity of Soma are exceedingly great. In the same way in the Aitareya Brāhmaṇa too, describing Soma's greatness, it is said that when in the war between the gods and the *asuras* the gods suffered defeat and were praising [him], after they made Soma king they obtained victory in all the quarters:"
+
+> ते सोमं राजानमकुर्वन् । ते सोमेन राज्ञा सर्वा दिशोऽजयन् ॥
+
+*te somaṃ rājānam akurvan | te somena rājñā sarvā diśo 'jayan ‖*  (Ai. Brā. 1-14 [?])
+
+*Gloss, mine and tentative:* "They made Soma king; with Soma as king they conquered all the quarters."
+
+"Skandasvāmin explains the word *ubhayebhyaḥ* as '*ātmīyebhyo 'smadīyebhyaś ca ubhayebhyo 'pi śatrubhyo dhanāny āhṛtya*' — 'from both your own enemies and our enemies, that is, from the enemies of both the sides, taking away the wealth, [bring it] to us': thus in one way; and further: '*athavā ubhayaśabdaḥ prayojanavacanaḥ; yāni cāsmākam iha loke prayojanāni yāni ca paratra tebhya ubhayebhyaḥ*' — 'or the word *ubhaya* expresses a purpose: for those two sorts of purposes that we have, in this world and in the other' — meaning that you alone are the lord of, and are able to give, whatever benefits are to be obtained by us in this world and in the next. So he gives the explanation."
+
+***gaviṣṭau*** — *gavāṃ bāṇānām iṣṭayaḥ eṣaṇāni gamanāni yeṣu* | "That is, 'in the battle in which the goings of arrows occur'. Sāyaṇa takes the word *gaviṣṭi* to mean 'battle'; Skandasvāmin: '*gāvaḥ iṣyante*' —
+
+---
+
+**Progress note:** Printed pp. 1–400 done (PDF 16–415) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.22 complete; Rik 91.23 (the last Ṛk) done through most of its Special Topics; the Special Topics of *gaviṣṭau* break mid-sentence at the foot of p. 400 ("*Skandasvāmin: gāvaḥ iṣyante*"), and the Vyākaraṇa-prakriyā, if any, and the sūkta's close come on p. 401. Next: printed p. 401 (PDF 416) — the end of Sūkta 91; then Sūkta 92 begins at p. 402 (PDF 417). "
+"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.23 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22 bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted, the Ṛgveda numerals on pp. 396–397 all doubtful, the gaṇa-sūtra *janījṛṣ…*; 91.23: the bhāṣya's *sahasāvan* (*ākāralopajanaḥ*) clotted, Pāṇini 7-2-77 and 3-1-5 [?], *abhiyudhaḥ gatikarmā* [?], the Ṛgveda numerals 9-66-18 and 9-66-12 and Ai. Brā. 1-14 [?], Ni. 2-9 and 7-15 [?], the second Ṛgveda citation's last word [?]; the Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
 "Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
