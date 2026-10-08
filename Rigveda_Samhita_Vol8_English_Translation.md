@@ -511,4 +511,79 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–6 done (PDF 21–26): the title page, introduction, Anuvāda and heading of Sūkta 95; Rik 95.1 (Saṃhitā, Pada, Sāyaṇa-bhāṣya with the grammatical tail characterized, Pratipadārtha, Bhāvārtha, English, and the Special Topics begun — the passage on *anyānyā vatsam upadhāpayete* breaks at the foot of p. 6 at "And not only that, but —"). Next: printed p. 7 (PDF 27). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations (see above) [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* [?]; *āraigu* (1-113-2), Bṛ. De. 3-14, Ni. 1-18 as read [?]; the grammatical tail of 95.1 is characterized, with its numerals as read [?].
+### Page 7 (PDF 27)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 7.)*
+
+**Special Topics of Rik 95.1, continued from p. 6**
+
+> आजीजनन्सूर्यं यज्ञमग्निमपाचीनं तमो अगादजुष्टम् [?]
+> *ā jījanan sūryaṃ yajñam agnim apācīnaṃ tamo agād ajuṣṭam [?]*
+> (*Ṛ. Saṃ.* 7-78-3 as read [?])
+
+*(Gloss, mine and tentative: "they brought to birth the sun, the sacrifice, Agni; the hateful darkness went away".)*
+
+"— in this Ṛk the relation of mother and son between Uṣas and Agni is stated. In the same way, in the Taittirīya Āraṇyaka (1-10 as read [?]) it is said that Agni is the son of the day, and Sūrya the son of the night:"
+
+> तयोरेतौ वत्सौ । अग्निश्चादित्यश्च । रात्रेर्वत्सः । श्वेत आदित्यः । अह्नोऽग्निः ।
+> *tayor etau vatsau | agniś cādityaś ca | rātrer vatsaḥ | śveta ādityaḥ | ahno 'gniḥ |*
+> (*Tai. Ā.* 1-10 as read [?])
+
+*(Translation, mine and tentative: "Of these two [the day and the night] these two are the calves: Agni and Āditya; the calf of the night is the white Āditya; [the calf] of the day is Agni". This clearer printing shows that the bhāṣya's clotted words on p. 4 are to be read* tayor etau vatsau *and* ahno 'gniḥ*, not "*śatoretā vatsau*" and "*ahno 'ruṇaḥ*" as I had read them there [?].)*
+
+"And, further, in many places the night and Uṣas, who indicates the day, are said to be sisters:"
+
+> स्वसा स्वस्रे ज्यायस्यै योनिमारैगपैत्यस्याः प्रतिचक्ष्येव ।
+> *svasā svasre jyāyasyai yonim āraig apaity asyāḥ praticakṣyeva |*
+> (*Ṛ. Saṃ.* 1-124-8 as read [?])
+
+*(Gloss, mine and tentative: "the sister gives way to the elder sister her place; she goes away from her, as if looking back".)*
+
+"In such many contexts, since night and the dawns are said to be sisters, the son of the day, Agni, drinks the oblation offered by the night in the evening, and the son of the night, Sūrya, the oblation offered by the day in the morning. As the authority '*tasmād agnaye sāyaṃ hūyate, sūryāya prātaḥ*' (*Tai. Brā.* 2-1-2-6 as read [?]) — 'therefore the oblation is made to Agni in the evening, to Sūrya in the morning' — shows, *yad rātryāṃ kartavyaṃ svaputrasyādityasya rasasya pāyanaṃ tad ahaḥ karoti; yad ahaḥ kartavyaṃ svaputrasyāgneḥ rasasya pāyanaṃ tad rātriḥ karoti*: what the night has to do for the sap-drinking of her own son Āditya, the day does; and what the day has to do for the sap-drinking of her own son Agni, the night performs. And, as described in —"
+
+> मूर्धा भुवो भवति नक्तमग्निस्ततः सूर्यो जायते प्रातरुद्यन् ।
+> *mūrdhā bhuvo bhavati naktam agnis tataḥ sūryo jāyate prātar udyan |*
+> (*Ṛ. Saṃ.* 10-88-6 as read)
+
+*(Gloss, mine and tentative: "at night Agni becomes the head of the earth; then, rising in the morning, Sūrya is born".)*
+
+"— Sūrya too is a manifestation of Agni. On the strength of this authority Skandasvāmin has explained, for *anyonyasya ca vatsasthānīyam agniṃ* [as read [?]], that in the singular the word *vatsa* ('calf') is a synonym of Agni alone."
+
+***hariḥ*** — *rasaharaṇaśīlaḥ ādityaḥ*: "since he draws up the sap (*rasa*), Āditya has the name Hari."
+
+***svadhāvān*** — *havirlakṣaṇānnavān*: "one who has food in the form of an oblation."
+
+> देवानां च पितॄणां च नमस्कारः स्वधैव च ।
+> *devānāṃ ca pitṝṇāṃ ca namaskāraḥ svadhaiva ca |*
+> (*Bṛ. De.* 8-103 as read [?])
+
+*(Gloss, mine and tentative: "for the gods and for the fathers, homage; and for the fathers* svadhā*".)* "— so *svadhā* means food in the form of an oblation to be offered to the gods."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.1)** *(grammar pages, pp. 7–9, noted briefly; the sūtra numbers are given only where read, and all are doubtful [?])*
+
+### Page 8 (PDF 28)
+
+*(Running head: left 8; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+*Grammar of Rik 95.1, p. 7 to p. 9 (grammar pages, noted briefly):* ***svarthe*** — root *ṛ* (to go); the suffix *thān* in the sense of the action or of the object by *uṣikuṣigārtibhyas thān* (Uṇ. [?]); *guṇa* of the root by *sārvadhātukārdhadhātukayoḥ*; *raparaḥ* by *uraṇ raparaḥ*; the suffix being *ṇit*-marked, initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]); the compound 'those two whose purpose is fine' has the later member's initial acute by *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119 [?]). — ***anyānyā*** — '*karmavyatihāre sarvanāmno dve bhavata iti vaktavyaṃ, samāsavac ca bahulam*' (Mahābhāṣya, as read): doubling is stated of pronouns in the sense of reciprocal action, with the compound-like treatment optional; so the pronoun *anya* is doubled; by the compound-like treatment, the case-ending is elided (*supo dhātuprātipadikayoḥ*); since the doubling arises on the strength of *bahulam*, the second is the *āmreḍita*, by *tasya paramām reḍitam* (Pā. 8-1-2 [?]), and has the unaccented *anudātta* by *anudātte ca* (Pā. 8-1-3 [?]). — ***dhāpayete*** — root *dheṭ* (to drink); *ā*-substitution by *āde ca upadeśe 'śiti* (Pā. 6-1-45 [?]); then *ṇic* by *hetumati ca* (Pā. 3-1-26 [?]), since the causer's action is shown; the root, ending in *a*-vowel after *ṇic*, takes the augment *puk* by *arti-hrī-…* (Pā. 7-3-36 [?]); the long discussion whether the *paribhāṣā* '*lakṣaṇapratipadoktayoḥ pratipadoktasyaiva grahaṇam*' (Paribhāṣā 113 [?]) applies, whether the form produced by a sūtra or the natural form is meant, and the sūtras *śācchāsā…* (Pā. 3-1-[?] [?]) and *nigaraṇacalanārthebhyaś ca* (Pā. 1-3-87 [?]) with the vārttika *pādādiṣu dheṭa upasaṃkhyānam*, to explain how the *ātmanepada* arises for *dheṭ*, is given in the print (clotted in places; not reproduced); the *loṭ* dual third person *ātām*; *ṭita ātmanepadānāṃ ṭer e*; the *e*-ending; *āto ṅitaḥ* (Pā. 7-2-81 [?]) gives *iya* for the *ā*; *lopo vyor vali* (Pā. 6-1-66 [?]) elides the *y*; *guṇa* for *ṇic*'s *i* because of *śap*; *ay*-substitution; *nighāta* accent, following a verb-ending word.
+
+### Page 9 (PDF 29)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 9.)*
+
+*Grammar of Rik 95.1, concluded (grammar page, noted briefly):* ***hariḥ*** — root *hṛñ* (to take); the suffix *in* by *sarvadhātubhya in* (Uṇ. 4-[?] [?]); guṇa of the root's vowel; *raparaḥ*; since the suffix is *ñit*-marked, initial acute. — ***bhavati*** — root *bhū* (being); *laṭ*, third person singular; since *anyānyām* [as read] is connected with it, *nighāta* is prohibited by *ekānyābhyāṃ samarthābhyām* (Pā. 8-1-65 [?]) for the *tiṅ*-ending that is the first to be uttered; *śap* being *pit*, the verb is unaccented; the *laśarvataddhite*-type accent *tāsyanudāttet* (Pā. 6-1-186 [?]) keeps the root's own accent. — ***dadṛśe*** — root *dṛśir* (to see); the *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 [?]); *eśiriśec* [*litas tajhayor eśirec*, Pā. 3-4-81 [?]] for the third-person singular ending; reduplication; *uraṭ* (*ṛ* → *ar*), *raparaḥ*, and the reduplicate's first consonant kept; by *asaṃyogāl liṭ kit* (Pā. 1-2-5 [?]) the suffix is *kit*-like, so the root's light penultimate takes no guṇa; *nighāta* after a verb-ending word. — ***suvarcāḥ*** — 'one whose lustre (*varcas*) is fine'; the later member's initial acute by *sormanasī alomoṣasī* (Pā. 6-2-[?] [?]); the penultimate vowel is lengthened by *atvasantasya cādhātoḥ* (Pā. 6-4-14 [?]), when the *su* follows. ‖ 1 ‖ *(Grammar pages, noted briefly; sūtra numerals read from small print, doubtful [?].)*
+
+---
+
+### Rik 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.2)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> दशेमं त्वष्टुर्जनयन्त गर्भमतन्द्रासो युवतयो विभृत्रम् ।
+> तिग्मानीकं स्वयशसं जनेषु विरोचमानं परि षीं नयन्ति ॥ २ ॥
+
+*daśemaṃ tvaṣṭur janayanta garbham atandrāso yuvatayo vibhṛtram | tigmānīkaṃ svayaśasaṃ janeṣu virocamānaṃ pari ṣīṃ nayanti ‖ 2 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–9 done (PDF 21–29): Sūkta 95, Rik 95.1 complete (Special Topics pp. 5–7, grammar pp. 7–9, with the bhāṣya clotted words of p. 4 corrected from p. 7: *tayor etau vatsau*, *ahno 'gniḥ*); Rik 95.2: Saṃhitā only (foot of p. 9). Next: printed p. 10 (PDF 30) — the Pada of Rik 95.2, then its bhāṣya. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* and *anyonyasya ca vatsasthānīyam agniṃ* [?]; the Ṛgveda numerals of the Special Topics of 95.1 (7-78-3, 1-124-8, 10-88-6, 1-113-2), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14 and 8-103 as read [?]; the grammar of 95.1 is characterized, with its numerals as read [?].
