@@ -14460,5 +14460,111 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–502 done (PDF 16–517), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete**. **Sūkta 93** (twelve Ṛks; Agnīṣomau; printed pp. 469–?): Riks 93.1–93.9 complete; Rik 93.10 (Gāyatrī) Saṃhitā and Pada done at the foot of p. 502 (the bhāṣya follows on p. 503). Next: printed p. 503 (PDF 518). Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 503 (PDF 518)
+
+*(Running head left: "A. 1 A. 6 Va. 33 [?]"; centre: "Ṛgvedasaṃhitā"; right: 503.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.10)**
+
+> हे अग्नीषोमौ वां युवयोः संबन्धी यो यजमानोऽनेन घृतेनोत्पवनादिभिः संस्कृतेनाज्येन युक्तं हविर्वां युवाभ्यां दाशति प्रयच्छति तस्मै यजमानाय बृहत्प्रभूतं धनं दीदयतं । प्रकाशयतं । प्रयच्छतमित्यर्थः ॥ दाशति । दाश्र दाने । शप्तिपोः पित्त्वादनुदात्तत्वे धातुस्वरः । यद्वृत्तयोगान्निघातः । दीदयतं । दीदयतिर्दीप्त्यर्थः ॥
+
+*he agnīṣomau vāṃ yuvayoḥ saṃbandhī yo yajamāno 'nena ghṛtenotpavanādibhiḥ saṃskṛtenājyena yuktaṃ havir vāṃ yuvābhyāṃ dāśati prayacchati tasmai yajamānāya bṛhat prabhūtaṃ dhanaṃ dīdayataṃ | prakāśayataṃ | prayacchatam ity arthaḥ ‖ dāśati | dāśra dāne | śaptipoḥ pittvād anudāttatve dhātusvaraḥ | yadvṛttayogān nighātaḥ | dīdayataṃ | dīdayatir dīptyarthaḥ ‖*
+
+*Translation:* "O Agni and Soma, the sacrificer who, belonging to you two, *dāśati* — gives — *anena ghṛtena*, with this ghee (ghee purified by *utpavana* and the like), an oblation joined with it, to you: to that sacrificer *dīdayatam* — make shine, give — *bṛhat*, abundant wealth."
+
+*Grammar tail:* *dāśati* — root *dāśṛ dāne*; since *śap* and *tip* are *pit* and unaccented, the accent of the root remains; the *nighāta* prevented by connexion with *yaḥ*. *dīdayatam* — *dīdayati* has the sense of shining.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.10)** *(Kannada)*
+
+*agnīṣomā* — O Agni and Soma deities; *vām* — belonging to both of you; *yaḥ* — whichever sacrificer; *anena ghṛtena* — with this oblation of ghee; *vām* — to you; *dāśati* — offers the oblation; *tasmai* — to that sacrificer; *bṛhat* — abundant wealth; *dīdayatam* — give.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.10** *(Kannada)*
+
+"O Agni and Soma deities, give abundant wealth to the sacrificer who offers to both of you the oblation together with this oblation of ghee."
+
+**English Translation** *(printed in English in the source; Rik 93.10)*
+
+"Agni and Soma, give ample recompense to him who presents to you both, this clarified butter." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.10)** *(Kannada)*
+
+***ghṛtena*** — "That is, an oblation together with ghee purified by *utpavana* and the like."
+
+***dīdayatam*** — "*bhrājate, bhrāśate* and the like being read among the names of acts of shining (Ni. 2-[?] [?]), here the meaning is 'cause the abundant wealth to shine', that is, 'give it'. Mādhava explains *vardhayatam*: 'make it increase'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.10)** *(Kannada; grammar page, noted briefly)*
+
+*dāśati* — root *dāśṛ dāne*; *laṭ*, third person singular; since *śap* is *pit*, and *tip* likewise unaccented, the accent of the root remains; because *yaḥ* precedes, by *yadvṛttān nityam* (Pā. 8-1-66 [?]) the *nighāta* is prohibited.
+*dīdayatam* — the root *dīdaya* has the sense of shining; *loṭ*, second person dual; since it follows a word, the *nighāta*. ‖ 10 ‖
+
+---
+
+### Page 504 (PDF 519)
+
+*(Running head: left "504", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.11)** *(Gāyatrī)*
+
+> अग्नीषोमाविमानि नो युवं हव्या जुजोषतम् ।
+> आ यातमुप नः सचा ॥ ११ ॥
+
+*agnīṣomāv imāni no yuvaṃ havyā jujoṣatam | ā yātam upa naḥ sacā ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 93.11)**
+
+> अग्नीषोमौ । इमानि । नः । युवम् । हव्या । जुजोषतम् ।
+> आ । यातम् । उप । नः । सचा ॥ ११ ॥
+
+*agnīṣomau | imāni | naḥ | yuvam | havyā | jujoṣatam | ā | yātam | upa | naḥ | sacā ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.11)**
+
+> हे अग्नीषोमौ युवं युवां नोऽस्मदीयानीमानि हव्या हवींषि जुजोषतं । सेवेथां । तदर्थं नोऽस्मान् सचा सह युवामुपा यातं । उपागच्छतं ॥ जुजोषतं । जुषी प्रीतिसेवनयोः । लोटि व्यत्ययेन शप् । छान्दसं द्विर्वचनं । यद्वा । विकरणस्य बहुलं छन्दसीति श्लुः । ततो व्यत्ययेन शप् । बहुलं छन्दसीति वक्तव्यमिति वचनान्नाभ्यस्तस्याचि पितीति लघूपधगुणप्रतिषेधाभावः ॥
+
+*he agnīṣomau yuvaṃ yuvāṃ no 'smadīyānīmāni havyā havīṃṣi jujoṣataṃ | sevethāṃ | tadarthaṃ no 'smān sacā saha yuvām upā yātaṃ | upāgacchataṃ ‖ jujoṣataṃ | juṣī prītisevanayoḥ | loṭi vyatyayena śap | chāndasaṃ dvirvacanaṃ | yadvā | vikaraṇasya bahulaṃ chandasīti śluḥ | tato vyatyayena śap | bahulaṃ chandasīti vaktavyam iti vacanān nābhyastasyāci pitīti laghūpadhaguṇapratiṣedhābhāvaḥ ‖*
+
+*Translation:* "O Agni and Soma, *yuvam*, you two, *jujoṣatam*, enjoy these our oblations. For that purpose come *upa*, towards us, *sacā*, together."
+
+*Grammar tail:* *jujoṣatam* — root *juṣī prītisevanayoḥ*; in the *loṭ*, *śap* by *vyatyaya*; the doubling is Vedic. Or: *ślu* for the stem-suffix by *bahulaṃ chandasi*, then *śap* by *vyatyaya*; by the statement "*bahulaṃ chandasīti vaktavyam*" the prohibition of the *guṇa* of the light penultimate by *nābhyastasyāci piti* does not apply.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.11)** *(Kannada)*
+
+*agnīṣomā* — O Agni and Soma deities; *yuvam* — both of you together; *naḥ* — our; *imāni havyā* — these oblations; *jujoṣatam* — (in order to) enjoy; *naḥ* — fixing your eyes on us; *sacā* — both together; *upa ā yātam* — come, joining [us].
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.11** *(Kannada)*
+
+"O Agni and Soma deities, both of you come together with company, to our place of sacrifice, in order to enjoy these our oblations."
+
+**English Translation** *(printed in English in the source; Rik 93.11)*
+
+"Agni and Soma, be pleased with these our oblations and come to us together." — as printed.
+
+---
+
+### Page 505 (PDF 520)
+
+*(Running head left: "A. 1 A. 6 Va. 33 [?]"; centre: "Ṛgvedasaṃhitā"; right: 505.)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.11)** *(Kannada)*
+
+***havyā*** — *havīṃṣi* | "Oblations; a word in the accusative plural."
+
+***sacā*** — *saha* | "'Both of you come together (joining)': this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.11)** *(Kannada; grammar page, noted briefly)*
+
+*havyā* — in the neuter plural the replacement *śi* came; by *śeś chandasi bahulam* the elision of *śi*.
+*jujoṣatam* — root *juṣī prītisevanayoḥ*; *loṭ*, second person dual; the replacement *tam*; by *vyatyayo bahulam* *śap* is the stem-suffix, with Vedic doubling and *halādiḥ śeṣaḥ* in the reduplicative; because of *śap*, the guṇa of the light penultimate. Or, by *bahulaṃ chandasi* the stem-suffix is *ślu*, then by *vyatyaya* *śap*; though the root is doubled and so *abhyasta*, by the saying *bahulaṃ chandasīti vaktavyam* the prohibition of guṇa by *nābhyastasyāci piti sārvadhātuke* (Pā. 7-3-87 [?]) does not apply; since it follows a word, the *nighāta*.
+*yātam* — root *yā prāpaṇe*; *loṭ*, second person dual; the *tiṅ*-*nighāta*. ‖ 11 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.12)** *(Triṣṭubh; the last Ṛk)*
+
+> अग्नीषोमा पिपृतमर्वतो न आ प्यायन्तामुस्रिया हव्यसूदः ।
+> अस्मे बलानि मघवत्सु धत्तं कृणुतं नो अध्वरं श्रुष्टिमन्तम् ॥ १२ ॥
+
+*agnīṣomā pipṛtam arvato na ā pyāyantām usriyā havyasūdaḥ | asme balāni maghavatsu dhattaṃ kṛṇutaṃ no adhvaraṃ śruṣṭimantam ‖ 12 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–505 done (PDF 16–520), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete**. **Sūkta 93** (twelve Ṛks; Agnīṣomau; printed pp. 469–?): Riks 93.1–93.11 complete; Rik 93.12 (Triṣṭubh, the last) Saṃhitā done at the foot of p. 505 (Pada and commentary follow on p. 506). Next: printed p. 506 (PDF 521). Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
