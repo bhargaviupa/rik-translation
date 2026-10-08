@@ -3313,4 +3313,113 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–113 done (PDF 21–133): Sūkta 95 and Sūkta 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; Agni endowed with the quality of purity, or pure Agni; 15th Anuvāka; printed pp. 110–?): Sāyaṇa's introduction (the Dīrghajihvī story), the Anuvāda, the heading block and Rik 97.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 97.1 under way (the meaning of *śuci*; the Dīrghajihvī story from the Tāṇḍya Brāhmaṇa and Skandasvāmin's alternative story with Kutsa and Luśa), breaking at the foot of p. 113 after the Ṛgveda quotation *pra muñcasva…*. Next: printed p. 114 (PDF 134). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–113) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, and Skandasvāmin's story (the Sanskrit clotted; the verse Ṛ. 10-3[8]-5) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 114 (PDF 134)
+
+*(Running head: left 114; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**Special Topics of Rik 97.1, continued from p. 113**
+
+> इति । स इन्द्रातिक्रमजेन पापेनाभिभूतमात्मानं मन्यमानः तदपनोदनार्थमग्निमुवाच । अप नः शोशुचदिति ॥
+> *iti | sa indrātikramajena pāpenābhibhūtam ātmānaṃ manyamānaḥ tadapanodanārtham agnim uvāca | apa naḥ śośucad iti ‖*
+
+*(Translation, mine and tentative: "…thus. He [Kutsa], thinking himself overcome by the sin born of the transgression of Indra, in order to remove it said to Agni: '*apa naḥ śośucat*'.")*
+
+"The story that is the source of this context has been told in the Chāndogya [or Chandoga] Brāhmaṇa as follows: Formerly, when Kutsa and Luśa both invited Indra, Indra came to Kutsa. Then Kutsa, making Indra stay, bound his testicles with a hundred straps (*kaśa*) [the print's word as read [?]]. At that time Luśa, reciting the mantra [*pra muñcasva pari kutsād ihā gahi kimu tvāvān muṣkayor baddha āsate* (Ṛ. 10-38-5 [?])], 'Free yourself from Kutsa and come to me', prayed to him. Then Kutsa, thinking that his disrespect to Indra was a sin, composed this sūkta to Agni for the removal of that sin. This same story Sāyaṇa has also explained, in commenting on the Ṛk Ṛ. Saṃ. 10-38-5 [?], with citations from the Śāṭyāyana Brāhmaṇa and the Chāndogya Brāhmaṇa suited to the context. But here alone he says that another story, that of Dīrghajihvī, is the source of this praise of Agni. In both places, whichever may be the source, the purpose of both is one and the same: it is the prayer that Kutsa composed to Agni for the removal of his sin."
+
+*(The reading of the Kannada in the story of Kutsa and Luśa is partly clotted; the correction that the "hundred" is of straps (*kaśa*) rests on a word read with doubt [?]. The tentative gloss given on p. 113 for Skandasvāmin's Sanskrit is to be read together with this account.)*
+
+***apa śośucat*** — "*asmatto nirgatya asmadīyaṃ tatśatruṃ śocayatu*: 'may [sin], going out from us, afflict our enemies', in one way: 'may it pervade our enemies' (*nivṛttavāgi*); and, in another way, *asmadīyaṃ pāpaṃ śokagrastaṃ sad vinaśyatu*: 'may our sin, being seized by grief, perish', 'may our sin full of suffering be destroyed': so Sāyaṇa explains. Skandasvāmin: '*apapūrvaḥ śucir atra sāmarthyād apasanayane | vyatyayena prathamapuruṣaḥ | apasanaye asmākam agham indrātikramajaṃ pāpam*': 'the root *śuc* with the prefix *apa* means here, by the force of the sense, "drive away", the third person being used by *vyatyaya* [for the second]: "drive away our sin, born of transgressing Indra"'. The root *śuc* with the prefix *apa* means 'remove, destroy'. Although this form would have to be in the second person, it is in the third by Vedic *vyatyaya*: 'Indra's disregard — destroy this sin of mine', so he explains."
+
+***śuśugdhi*** — *prakāśaya*: "'make shine'. Make wealth shine on all sides for us: that is, give us abundant wealth and make it shine about us."
+
+***apa naḥ śośucad agham*** — *uktārtham api vākyam ādarātiśayadyotanāya punaḥ paṭhyate | avaśyam asmākam agham vinaśyatu ity arthaḥ*: "'though the sentence has had its sense said, it is repeated again to show excess of regard: the sense is "our sin must by all means be destroyed"'. In this repetition the exceedingly intense desire for the removal of his own sin is shown: 'destroy my sin completely' is the prayer, pressed upon."
+
+"There is no fault in such a repetition. In such contexts the Nirukta-author maintains that an intensity of feeling is seen —"
+
+### Page 115 (PDF 135)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 115.)*
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयोऽहो दर्शनीय इति ।
+> *abhyāse bhūyāṃsam artham manyante yathāho darśanīyo 'ho darśanīya iti |*
+> (*Ni.* 10-4[3] as read [?])
+
+*(Translation, mine and tentative: "In repetition they find a greater meaning, as in 'how beautiful to see! how beautiful to see!'")* "— by repetition, a kind of excellence and force of the sentiment is shown for the growth of the feeling. In the example, 'she is beautiful, she is extremely beautiful', in describing her beauty one sees a kind of excessive regard. In just that way, there are many occasions of setting down sentences, in which, in making the highest feeling clear, excess of regard is shown. Among them the seer Parucchepa's style: *tatparuchepasya śīlam* (Ni. 10-4[3] [?]): the Nirukta-author praises this as the peculiar quality of Paruchepa. And —"
+
+> प्रत्नेव ज्येयं भव्याय्येन्दवे हव्यो न यु इषवान्मन्मरेजति रक्षोहा मन्म रेजति ।
+> *prāketad vocad yaṃ bhavyāyendave havyo na yu iṣavān manmarejati rakṣohā manma rejati |*
+> (*Ṛ. Saṃ.* 1-12[9]-6 as read [?])
+
+*(The verse is read from small print and is doubtful in several words [?]; gloss, mine and tentative: "…the one who shakes the intent of the foe, the slayer of demons, shakes the intent".)* "— by quoting the repetition in such a Ṛk he shows it. In just the same way, in this instance too, in the repetition *apa naḥ śośucad agham*, a fervent attachment to the removal of sin is shown. This is the peculiarity of the seer Kutsa."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.1)** *(grammar pages, pp. 115–116, noted briefly; numerals small and doubtful [?])*
+
+***śośucat*** — root *śuca* (to grieve); since the sense of intensity is shown, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ* (Pā. 3-1-22 [?]); *yaño 'ci ca* (Pā. 2-4-74 [?]) elides it before the following endings; by *pratyayalakṣaṇa* the doubling by *sanyaṅoḥ* (Pā. 6-1-9 [?]); the reduplicate keeps its first consonant (*halādiḥ śeṣaḥ*); *guṇo yaṅluk[oḥ]* (Pā. 7-4-82 [?]) gives guṇa to it; after the *yaṅ-luk*-ending root, *leṭ*, third person singular, *tip*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 [?]) elides the *i*; *leṭo 'ḍāṭau* (Pā. 3-4-94 [?]) gives the augment *aṭ*; since the *yaṅ-luk*-ending form is read among the *adādi* by 'it is like the *adādi*', *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [?]) elides *śap*; the form *śośucat*; the initial acute by *abhyastānām ādiḥ* (Pā. 6-1-189 [?]). Here, since the sense of 'and' is understood — *agham śośucac ca rayiṃ śuśugdhi ca* — by *cādilope vibhāṣā* (Pā. 8-1-63 [?]) the *nighāta* is prohibited. — ***śuśugdhi*** — root *śuca* (to shine); *loṭ*, second person singular, *sip*; *serhy apicca* (Pā. 3-4-87 [?]): *hi* for it; by *bahulaṃ chandasi* *śap* gets *ślu*; *ślau* (Pā. 6-1-10 [?]) doubles the root; the reduplicate keeps its first consonant; with *śuśuc + hi*, *hujhalbhyo her dhiḥ* *(continues on p. 116)*
+
+### Page 116 (PDF 136)
+
+*(Running head: left 116; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+*Grammar of Rik 97.1, concluded (noted briefly):* …*hujhalbhyo her dhiḥ* (Pā. 6-4-101 [?]) gives *dhi* in place of *hi*; since *hi* is *apit* [treated as], by *atideśa* the root's light penultimate takes no guṇa; *coḥ kuḥ* (Pā. 8-2-30 [?]) gives *k* for the *c* because *dhi*, a *jhal*, follows; *jhalāṃ jaś jhaśi* (Pā. 8-4-53 [?]) gives *j* [*g*]; the form *śuśugdhi*. Although the word *agne* before it is a vocative and, by *āmantritaṃ pūrvam avidyamānavat* (Pā. 8-1-72 [?]), counts as non-existent, the form *śuśugdhi* stands at the head of a pāda; by *āpādādau* (Pā. 8-1-5[?] [?]) the *nighāta* is prohibited; since *hi* is declared *apit*, the initial acute by *ādyudāttaś ca* (Pā. 3-1-3 [?]); thus *śuśugdhi* is final-acute; for *agne* too, since it is not at the head of a pāda, the *āṣṭamika nighāta* does not arise; by *āmantritasya ca* (Pā. 6-1-198 [?]) the initial acute. ‖ 1 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.2)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> सुक्षेत्रिया सुगातुया वसूया च यजामहे ।
+> अप नः शोशुचदघम् ॥ २ ॥
+
+*sukṣetriyā sugātuyā vasūyā ca yajāmahe | apa naḥ śośucad agham ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.2)**
+
+> सुऽक्षेत्रिया । सुगातुऽया । वसुऽया । च । यजामहे ।
+> अप । नः । शोशुचत् । अघम् ॥ २ ॥
+
+*su-kṣetriyā | sugātu-yā | vasu-yā | ca | yajāmahe | apa | naḥ | śośucat | agham ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.2)** *(begun; continues on p. 117)*
+
+> सुक्षेत्रिया शोभनक्षेत्रेच्छया सुगातुया शोभनमार्गेच्छया वसूया च धनेच्छया निमित्तभूतया च यजामहे । अग्निं हविर्भिः पूजयामः । यद्वा । सुक्षेत्रिया देवयजनलक्षणशोभनदेशसम्बन्धिना हविषाग्निं यजामहे । सोऽस्माकमघमप शोशुचत् । विनश्यतु ॥ सुक्षेत्रिया । शोभनं क्षेत्रं सुक्षेत्रं । तद्विषयेच्छा…
+> *sukṣetriyā śobhanakṣetrecchayā sugātuyā śobhanamārgecchayā vasūyā ca dhanecchayā nimittabhūtayā ca yajāmahe | agniṃ havirbhiḥ pūjayāmaḥ | yadvā | sukṣetriyā devayajanalakṣaṇaśobhanadeśasambandhinā haviṣāgniṃ yajāmahe | so 'smākam agham apa śośucat | vinaśyatu ‖ sukṣetriyā | śobhanaṃ kṣetraṃ sukṣetraṃ | tadviṣayecchā…* *(the sentence continues on p. 117)*
+
+### Page 117 (PDF 137)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 117.)*
+
+**Sāyaṇa-bhāṣya of Rik 97.2, continued from p. 116 (the grammatical tail)**
+
+> …सुक्षेत्रिया । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येतीत्वदीर्घयोर्निषेधः । व्यत्ययेन ईत्वदीर्घे । क्यजन्ताद्अ प्रत्ययादिति भावेऽकारप्रत्ययः । टाप् । सुपां सुलुगिति तृतीयाया लुक् । एवमुत्तरत्रापि । यद्वा । शोभनं क्षेत्रमस्येति सुक्षेत्रं । इयोडियाजीकाराणामुपसंख्यानं । पा. ६-१-१३[?] इति तृतीयाया डियाजादेशः ॥
+> *…sukṣetriyā | sup ātmanaḥ kyac | na chandasy aputrasyety ītvadīrghayor niṣedhaḥ | vyatyayena ītvadīrghe | kyajantād a pratyayād iti bhāve 'kārapratyayaḥ | ṭāp | supāṃ suluk iti tṛtīyāyā luk | evam uttaratrāpi | yadvā | śobhanaṃ kṣetram asyeti sukṣetraṃ | iyoḍiyājīkārāṇām upasaṃkhyānaṃ | pā. 6-1-1[?] iti tṛtīyāyā ḍiyājādeśaḥ ‖*
+
+*(The word* kyajantād a pratyayāt *is read as given, clotted [?]. Tail (characterized): *sukṣetriyā* — from the nominal stem the suffix *kyac* in the sense of 'desiring for oneself'; the prohibition of *ī* and lengthening in the Veda by the rule 'for one who has no son', and their occurrence by *vyatyaya*; the suffix *a* in the sense of the action after the *kyac*-ending; *ṭāp*; the instrumental ending elided by *supāṃ suluk*; and similarly in what follows; or the instrumental ending replaced by *ḍiyā*… numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*su kṣetriyā* — through the desire to obtain excellent fields of cultivation; *sugātuyā* — through the desire to know the excellent paths (of the performance of sacrifice); *vasūyā* — through the desire to obtain wealth, as well; *yajāmahe* — we worship (Agni); *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed, or destroy our sin."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"We worship Agni, through the desire to obtain excellent fields of cultivation, through the desire to know the excellent paths of the actions of the performance of sacrifice, and through the desire to obtain wealth. May our sin, filled with suffering, be destroyed."
+
+**English Translation (as printed)**
+
+> We worship you for pleasant fields, for good roads, and for riches ; may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.2 (Kannada)**
+
+***sukṣetriyā*** — *kṣiyater nivāsakarmaṇaḥ*: "from the root *kṣi*, 'to dwell', the form *kṣetra* is derived; the excellent field is *sukṣetra*; the desire for it is *sukṣetriyā*: it means 'by showing the wish to obtain such a field'. The word *kṣetra*, whose root has the sense 'place of dwelling', is used also as a synonym of all kinds of lands, such as houses. All places such as Kedāra [= a field] and others are called *kṣetra*. The meanings 'place of birth' and 'sacrifice' too are to be seen in certain places."
+
+> क्षेत्रादा विप्रं जनथो विपन्यया प्र वामत्र विधते दंसना भुवत् ।
+> *kṣetrād ā vipraṃ janatho vipanyayā pra vām atra vidhate daṃsanā bhuvat |*
+> (*Ṛ. Saṃ.* 1-1[1]1-4 as read [?])
+
+"In this *kṣetrāt* is *mātur udaralakṣaṇāt janmasthānāt* ('from the place of birth, in the form of the mother's womb'): the womb of the mother, the birthplace, that is, the place where the embryo dwells."
+
+---
+
+**Progress note:** Printed pp. 1–117 done (PDF 21–137): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Rik 97.1 complete (Special Topics on pp. 113–115, grammar on pp. 115–116); Rik 97.2: Saṃhitā, Pada, bhāṣya (begun p. 116, tail p. 117), Pratipadārtha, Bhāvārtha, English done, and the Special Topics begun (*sukṣetriyā*, with the Ṛgveda quotation 1-1[1]1-4), at the foot of p. 117. Next: printed p. 118 (PDF 138). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–117) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on p. 115 [?], and the bhāṣya's tail of 97.2 (*kyajantād a pratyayāt*) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
