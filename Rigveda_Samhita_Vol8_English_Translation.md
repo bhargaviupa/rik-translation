@@ -3011,4 +3011,97 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–101 done (PDF 21–121): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.6 complete (96.6's Special Topics concluded on p. 98, grammar on p. 98); Rik 96.7: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done (pp. 99–100) and the Special Topics under way (*nū ca*; *kṣām*; *jātasya jāyamānasya ca kṣām*; *sataś ca bhavataś ca gopām*), at the foot of p. 101. Next: printed p. 102 (PDF 122). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–101) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.6 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, and the Ṛgveda numerals throughout [?]; in 96.7 the compressed tail on *kṣām* [?] and the clotted Ṛgveda quotations on p. 101 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 102 (PDF 122)
+
+*(Running head: left 102; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.7)** *(grammar pages, pp. 102–103, noted briefly; numerals small and doubtful [?])*
+
+***nū ca*** — by *ṛci tunughamakṣutaṅkutroruṣyāṇām* (Pā. 6-3-133 [?]) in the Saṃhitā the *nu* is lengthened. — ***sadanam*** — 'where [the Gandharvas and others] sit': root *ṣadḷ* (to dissolve, go, wear away), with the *lyuṭ* suffix in the sense of the locus; *yuvor anākau* (Pā. 7-1-1 [?]) gives *ana*; since it is *lit*-marked, *liti* (Pā. 6-1-193 [?]) gives the acute to the syllable before the suffix. — ***rayīṇām*** — the word *rayi* in the genitive plural: *ām*; the augment *nuṭ* by *hrasvanadyāpo nuṭ* (Pā. 7-1-54 [?]); *nāmi* (Pā. 6-4-3 [?]) lengthens the vowel before *nām*; the acute on *nām* by *nāmany atarasyām* [*nāmany atarasyām*] (Vārttika 6-1-1[7]6 [?]). — ***kṣām*** — root *kṣi* (to dwell, to go); since the causer's action is shown, *ṇic* by *hetumati ca* (Pā. 3-1-26 [?]); because the suffix is *ṇit*, vṛddhi by *aco ñṇiti* (Pā. 7-2-115 [?]); *āy* for the *ai* after the *ac*; *kṣāy* takes the designation 'root' by *sanādyantā dhātavaḥ*; then *kvip* by *kvip ca* (Pā. 3-2-76 [?]); because of it, *ṇer aniṭi* (Pā. 6-4-51 [?]) elides *ṇi*; then, by the statement *ver aprktasya* (Pā. 6-1-67 [?]) and *lopo balīyān* the elision of *v* (*kvip*'s elision) … and *lopo vyor vali* (Pā. 6-1-66 [?]) elides the *y*; although the *ṇi*-elision, being in a preceding position, would count as the original by *acaḥ parasmin pūrvavidhau* (Pā. 1-1-57 [?]), by *na padāntadvirvacanavareyalopasvarasavarṇānusvāradīrghajaścartvavidhiṣu* (Pā. 1-1-58 [?]) the maxim is forbidden in the domain of the elision of *y*, so no *valādi*-cause stands inside; then by *ver aprktasya* (Pā. 6-1-67 [?]) the *v* is elided; the form *kṣā*. Or: from the roots *kṣai*, *jai*, *pai*, *sai* (to waste); *kvip* by *kvip ca*; *ā* by *ādeca upadeśe 'śiti* (Pā. 6-1-45 [?]); the form *kṣā*. — ***sataḥ*** — root *as* (to be), *adādi*; *śatṛ* in the present sense; the *śap* elided by *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 [?]); since the *śatṛ* is *sārvadhātuka* by *sārvadhātukam apit*, treated as *ṅit*, the *a* of the root is elided by *śnasor allopaḥ* (Pā. 6-4-111 [?]); the form *sat*; the sixth case, singular; since *śatṛ* is *num*-less, the case-ending is acute by *śatur anumo nadyajādī* (Pā. 6-1-173 [?]).
+
+### Page 103 (PDF 123)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 103.)*
+
+*Grammar of Rik 96.7, concluded (noted briefly):* ***gopām*** — root *gupū* (to protect); *āya* in the sense of the root by *gupūdhūpavicchipaṇipanibhya āyaḥ* (Pā. 3-1-28 [?]); guṇa of the light penultimate because of the suffix; then *kvip*; *ato lopaḥ* elides the *a* [the *ā* of *āya*]; as said before, the *v*-elision, the *kvip*-elision, and *lopo vyor vali* elide the *y*; the form *gopā*; the acute on the *ā* by the suffix's initial acute; accusative singular. ‖ 7 ‖
+
+---
+
+### Rik 8
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.8)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> द्रविणोदा द्रविणसस्तुरस्य द्रविणोदाः सनरस्य प्र यंसत् ।
+> द्रविणोदा वीरवतीमिषं नो द्रविणोदा रासते दीर्घमायुः ॥ ८ ॥
+
+*draviṇodā draviṇasas turasya draviṇodāḥ sanarasya pra yaṃsat | draviṇodā vīravatīm iṣaṃ no draviṇodā rāsate dīrgham āyuḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.8)**
+
+> द्रविणःऽदाः । द्रविणसः । तुरस्य । द्रविणःऽदाः । सनरस्य । प्र । यंसत् ।
+> द्रविणःऽदाः । वीरवतीम् । इषम् । नः । द्रविणःऽदाः । रासते । दीर्घम् । आयुः ॥ ८ ॥
+
+*draviṇaḥ-dāḥ | draviṇasaḥ | turasya | draviṇaḥ-dāḥ | sanarasya | pra | yaṃsat | draviṇaḥ-dāḥ | vīravatīm | iṣam | naḥ | draviṇaḥ-dāḥ | rāsate | dīrgham | āyuḥ ‖ 8 ‖*
+
+### Page 104 (PDF 124)
+
+*(Running head: left 104; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.8)**
+
+> द्रविणोदा द्रविणस्य धनस्य बलस्य वा दाताग्निस्तुरस्य त्वरमाणस्य चलतो जंगमस्य द्रविणसो धनस्य बलस्य वैकदेशं प्रयंसत् । अस्मभ्यं प्रयच्छतु । तथा द्रविणोदाः सनरस्य सननीयस्य संभजनीयस्य स्थावररूपस्य धनस्यैकदेशं प्रयच्छतु । अपि च द्रविणोदा वीरवतीं वीरैः पुत्रादिभिर्युक्तमिषमन्नं नोऽस्मभ्यं प्रयच्छतु । तथा द्रविणोदा दीर्घमायुरस्मभ्यं रासते । प्रयच्छतु ॥ तुरस्य । तुर त्वरणे । इगुपधलक्षणः कः । सनरस्य । वन षण संभक्तौ । कृदराद्यादेयश्च । उ. ३-४० [?] । इत्यरन्प्रत्ययः । यंसत् । यमु उपरमे । लेट्यडागमः । सिब्बहुलं लेटीति सिप् । रासते । रा दाने । पूर्ववल्लेट सिप् । व्यत्ययेनात्मनेपदम् ॥
+> *draviṇodā draviṇasya dhanasya balasya vā dātāgnis turasya tvaramāṇasya calato jaṅgamasya draviṇaso dhanasya balasya vaikadeśaṃ prayaṃsat | asmabhyaṃ prayacchatu | tathā draviṇodāḥ sanarasya sananīyasya saṃbhajanīyasya sthāvararūpasya dhanasyaikadeśaṃ prayacchatu | api ca draviṇodā vīravatīṃ vīraiḥ putrādibhir yuktam iṣam annaṃ no 'smabhyaṃ prayacchatu | tathā draviṇodā dīrgham āyur asmabhyaṃ rāsate | prayacchatu ‖ turasya | tura tvaraṇe | igupadhalakṣaṇaḥ kaḥ | sanarasya | vana ṣaṇa saṃbhaktau | kṛdarādy ādeyaś ca | u. 3-40 [?] | ity aranpratyayaḥ | yaṃsat | yamu uparame | leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip | rāsate | rā dāne | pūrvavall leṭ sip | vyatyayenātmanepadam ‖*
+
+*Sense (mine, from the Kannada that follows):* "May Agni, the giver of wealth (*draviṇodāḥ*) — the giver of *draviṇa*, wealth or strength — grant (*prayaṃsat*) to us a portion of the *turasya*, the quick, the moving, the mobile wealth or strength; likewise may Draviṇodas grant a portion of the *sanara*, the wealth to be shared, in stationary form; and, further, may Draviṇodas grant us food (*iṣam*) endowed with heroes — sons and the like; so too may Draviṇodas give us a long life (*dīrgham āyuḥ*)." Tail: *turasya* — root *tur* (to hasten), the suffix *ka* of the *igupadha* class; *sanarasya* — roots *vana*, *ṣaṇa* (to share), *aran* by the Uṇādi rule (Uṇ. 3-40 [?]); *yaṃsat* — root *yamu* (to stop), *leṭ* with the augment *aṭ*, *sip* by *sibbahulaṃ leṭi*; *rāsate* — root *rā* (to give), *leṭ*, *sip* as before, *ātmanepada* by *vyatyaya*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*draviṇodāḥ* — Agni, the giver of wealth or of strength; *turasya* — (for the sake of business) the moving; *draviṇasaḥ* — of wealth or strength; *prayaṃsat* — may he be the giver (may he give); *draviṇodāḥ* — Agni, the giver of wealth; *sanarasya* — the worshipful and also the permanent (sanctioned by the Śāstra) of wealth or of strength — may he be the giver; *draviṇodāḥ* — the giver of wealth, Agni; *vīravatīṃ* — endowed with sons and the like; *iṣaṃ* — food; *naḥ* — to us (may he give); *draviṇodāḥ* — Agni who gives wealth; *dīrgham āyuḥ* — a long life; *rāsate* — may he give."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"May Agni, the giver of wealth, favour us with wealth that moves for the sake of business, and with wealth that remains fixed (houses and the like), with food together with sons and the like, and with a long life."
+
+**English Translation (as printed)**
+
+> May Dravinoda grant us (a portion) of moveable wealth ; may Dravinoda grant us (a portion) of that which is stationary ; may Dravinoda give us food attended by progeny ; may Dravinoda bestow upon us long life.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.8 (Kannada)**
+
+***draviṇodāḥ*** — "The derivation of the word *draviṇodāḥ*, and the point that this epithet belongs to Agni as deity alone, were explained, with the authorities, in the Special Topics of the 63rd–6[4]th leaves of the Ṛgveda Saṃhitā's [this] part, and in this very part, in the Special Topics of the first Ṛk of this sūkta [pp. 64–70]." *(continues on p. 105)*
+
+### Page 105 (PDF 125)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 105.)*
+
+"…The author of the Bṛhaddevatā, in calling Kutsa the seer who addressed Agni by this epithet, has again quoted a sentence praising Kutsa, which is suitable to this context —"
+
+> द्रविणं धनं बलं वापि प्रायच्छद्येन कर्मणा ।
+> तत्कर्म दृष्ट्वा कुत्सस्तु प्राह्यैनं द्रविणोदसम् ॥
+> *draviṇaṃ dhanaṃ balaṃ vāpi prāyacchad yena karmaṇā |*
+> *tat karma dṛṣṭvā kutsas tu prāhyainaṃ draviṇodasam ‖*
+> (*Bṛ. De.* 2-35 as read [?])
+
+"Kutsa, grasping the deeds of Agni who gives wealth and strength liberally, praised Agni as *draviṇodāḥ*, the giver of wealth or of strength. Since there are many kinds of *draviṇa*, in this Ṛk the prayer is made that Agni should favour us with all varieties of wealth."
+
+***turasya*** — *calato jaṅgamasya*: "'of the moving, the mobile': the wealth that is used in business and moves quickly; *draviṇasaḥ* — 'of wealth'. *Turaḥ taratervā tvarater vā* (Ni. 2-1[?]): this word is used in the sense 'cross over, move' or 'hasten'. *Tvarayo ṭūrṇagatir yamaḥ*: 'Yama, since he is of rapid course, has the epithet *tura*': the Nirukta-author gives the derivation of this word (Ni. 2-1[3] [?]). The word is also used as a synonym of 'power'. In this Ṛk, it is used in the sense of wealth 'that, though helpful in quick transactions, moves from one person to another': the idea of 'unstable' also comes in."
+
+> पती तुरस्य राधसो विद्वांसा तर्वणस्तमा ।
+> *patī turasya rādhaso vidvāṃsā tarvaṇastamā |*
+> (*Ṛ. Saṃ.* 3-[?]6-[?] as read [?])
+
+"In Ṛks such as this too, *turasya rādhasaḥ* is used in the sense of *jaṅgamarūpasya dhanasya*, 'of moving wealth', meaning 'unstable, moving'. Besides this, in many places this word is used in the senses of 'speed', 'power', 'capacity'."
+
+> सदिद्धि ते तुविजातस्य मन्ये सहः सहिष्ठ तुरतस्तुरस्य ।
+> *sad id dhi te tuvijātasya manye sahaḥ sahiṣṭha turatas turasya |*
+> (*Ṛ. Saṃ.* 6-1[8]-[?] as read [?])
+
+> यं वर्धयन्तीद्गिरः पतिं तुरस्य राधसः ।
+> *yaṃ vardhayantīd giraḥ patiṃ turasya rādhasaḥ |*
+> (*Ṛ. Saṃ.* 6-4[?]-3 as read [?])
+
+*(Glosses, mine and tentative: "I think [of] your might, truly, O strongest, of you born of many, of the swift, the hastening"; "whom the songs magnify, the lord of swift wealth".)* "In all these, *turasya* gives the sense 'of the harmful one' or 'of the strong, the mighty' — 'of the foe'. In passages such as 1-[?]0-1[?]; 2-[?]0-3 it is a synonym of Yama. Since Yama goes with great speed, Yama has the name *tura* (Ni. 2-1[3]); it may also mean 'one of great power'. For the word *turasya* used in these various senses, the sense in the present context is 'of wealth in a mobile form'."
+
+---
+
+**Progress note:** Printed pp. 1–105 done (PDF 21–125): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.7 complete (96.7's Special Topics on pp. 100–101, grammar on pp. 102–103); Rik 96.8: Saṃhitā, Pada (pp. 103), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 104) done, and the Special Topics under way (*draviṇodāḥ*, *turasya*), breaking at the foot of p. 105 after the *turasya* discussion. Next: printed p. 106 (PDF 126). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–105) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.7 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, the compressed *kṣām* tail of 96.7, and the Ṛgveda numerals throughout [?]; in 96.8 the Ṛgveda numerals and Nirukta references on p. 105 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
