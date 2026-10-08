@@ -1274,4 +1274,120 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–37 done (PDF 21–57): Sūkta 95, Riks 95.1–95.6 complete (95.6's Special Topics on pp. 34–37, grammar on p. 37). Next: printed p. 38 (PDF 58) — Rik 95.7 (Saṃhitā, Pada, bhāṣya…). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.5 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the whole clotted comment on p. 29 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta (9-15, 8-14, 4-9, 3-21), Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.6 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.6 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the opening of the bhāṣya of 95.6 (*yathaivaiḥ svakīyaiś ca vatsair ādarātiśayena*) and the Nirukta quotation on *bhadra* [?]; Ṛ. 8-31-[?] on p. 36 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25).
+### Rik 7
+
+### Page 38 (PDF 58)
+
+*(Running head: left 38; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 95.7)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> उद्यंयमीति सवितेव बाहू उभे सिचौ यतते भीम ऋञ्जन् ।
+> उच्छुक्रमत्कमजते सिमस्मान्नवा मातृभ्यो वसना जहाति ॥ ७ ॥
+
+*ud yaṃyamīti savitevā bāhū ubhe sicau yatate bhīma ṛñjan | uc chukram atkam ajate simasmān navā mātṛbhyo vasanā jahāti ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.7)**
+
+> उत् । यंयमीति । सविताऽइव । बाहू इति । उभे इति । सिचौ । यतते । भीमः । ऋञ्जन् ।
+> उत् । शुक्रम् । अत्कम् । अजते । सिमस्मात् । नवा । मातृऽभ्यः । वसना । जहाति ॥ ७ ॥
+
+*ut | yaṃyamīti | savitā-iva | bāhū iti | ubhe iti | sicau | yatate | bhīmaḥ | ṛñjan | ut | śukram | atkam | ajate | simasmāt | navā | mātṛ-bhyaḥ | vasanā | jahāti ‖ 7 ‖*
+
+*(Reading note: the Saṃhitā's* ud yaṃyamīti *and* savitevā bāhū *are the Pada's* ut | yaṃyamīti *and* savitā-iva | bāhū iti*;* ṛñjan *as the Pada.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.7)**
+
+> सवितेव सर्वस्य प्रेरक आदित्यो यथा बाहू बाहुस्थानीयान्रश्मीनुद्यमयति तथायमौषसोऽग्निः स्वकीयानि तेजांस्युद्यंयमीति । भृशमुद्यतान्यूर्ध्वाभिमुखानि करोति । तदनन्तरं भीमः सर्वेषां भयंकरोऽग्निरुभे सिचावुभे द्यावापृथिव्यौ ऋञ्जन् प्रसाधयन् स्वतेजसालंकुर्वन्यतते । स्वव्यापारे प्रयतते । तदनन्तरं सिमस्मात्सर्वस्माद्भूतजातात् शुक्रं दीप्तमत्कं सारभूतं रसमुदजते । रश्मिभिरूर्ध्वमाक्षिपति । अपि च मातृभ्यः स्वमातृस्थानीयेभ्यो वृष्ट्युदकेभ्यः सकाशान्नवा नवानि प्रत्यग्राणि वसना सर्वस्य जगत आच्छादकानि तेजांसि जहाति । उद्गमयति ॥ यंयमीति । यम उपरमे । अस्माद्यङ्लुकि नुगतोऽनुनासिकान्तस्य । पा. ७-४-८५ [?] इत्यभ्यासस्य नुगागमः । एतच्चानुस्वारोपलक्षणार्थं । सिचौ । षिच क्षरणे । सिञ्चतः फलेन संयोजयत इति सिचौ द्यावापृथिव्यौ । क्विप्चेति क्विप् । यतते । यती प्रयत्ने । अत्कं । अत सातत्यगमने । इण्भीकापाशल्यतिमर्चिभ्यः कन् । उ. ३-४३ [?] इति कन् । नित्त्वादाद्युदात्तत्वं । सिमस्मात् । सिमशब्दः सर्वशब्दपर्यायः । नवा वसना । उभयत्र शेश्छन्दसि बहुलमिति शेर्लोपः । जहाति । ओहाक् त्यागे । जौहोत्यादिकः ॥
+
+*saviteva sarvasya prerakaḥ ādityo yathā bāhū bāhusthānīyān raśmīn udyamayati tathāyam auṣaso 'gniḥ svakīyāni tejāṃsy udyaṃyamīti | bhṛśam udyatāny ūrdhvābhimukhāni karoti | tadanantaraṃ bhīmaḥ sarveṣāṃ bhayaṅkaro 'gnir ubhe sicāv ubhe dyāvāpṛthivyau ṛñjan prasādhayan svatejasālaṃkurvan yatate | svavyāpāre prayatate | tadanantaraṃ simasmāt sarvasmād bhūtajātāt śukraṃ dīptam atkaṃ sārabhūtaṃ rasam udajate | raśmibhir ūrdhvam ākṣipati | api ca mātṛbhyaḥ svamātṛsthānīyebhyo vṛṣṭyudakebhyaḥ sakāśān navā navāni pratyagrāṇi vasanā sarvasya jagata ācchādakāni tejāṃsi jahāti | udgamayati ‖ yaṃyamīti | yama uparame | asmād yaṅluki nugato 'nunāsikāntasya | pā. 7-4-85 [?] ity abhyāsasya nugāgamaḥ | etac cānusvāropalakṣaṇārthaṃ | sicau | ṣica kṣaraṇe | siñcataḥ phalena saṃyojayata iti sicau dyāvāpṛthivyau | kvip ceti kvip | yatate | yatī prayatne | atkaṃ | ata sātatyagamane | iṇbhīkāpāśalyatimarcibhyaḥ kan | u. 3-43 [?] iti kan | nittvād ādyudāttatvaṃ | simasmāt | simaśabdaḥ sarvaśabdaparyāyaḥ | navā vasanā | ubhayatra śeś chandasi bahulam iti śer lopaḥ | jahāti | ohāk tyāge | jauhotyādikaḥ ‖*
+
+*Sense (mine, from the Kannada):* "As Savitṛ, the sun, the impeller of all, lifts up the rays which stand for his arms, so this Agni of the dawn lifts up (*udyaṃyamīti*) his own radiances; he makes them lifted greatly, turned upward. Then Bhīma, the one fearful to all, Agni, adorning both *sicau*, heaven and earth, with his own radiance (*ṛñjan*, 'making ready'), exerts himself (*yatate*) in his own work. After that, from *simasmāt* — from all that is born — he draws up (*ajate*) the bright (*śukra*) essence, the *atka*, the sap, hurling it upward with his rays. And from the mothers, the rain-waters that stand in the place of his mothers, he gives off new garments — new, fresh radiances that cover the whole world."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *yaṃyamīti* — root *yam* (to stop); the *yaṅ* with *luk*; the augment *nuk* of the reduplicate for a root with a nasal ending (*nugato 'nunāsikāntasya*, Pā. 7-4-85 [?]), taken as a mark of the *anusvāra*; *sicau* — root *ṣic* (to flow), 'those that unite with the fruit of what is sprinkled' — heaven and earth; *kvip*; *yatate* — root *yatī* (to strive); *atkam* — root *at* (continuous going), *kan* by *iṇbhīkāpāśalyatimarcibhyaḥ kan* (Uṇ. 3-43 [?]), initial acute from the *nit*-ness; *simasmāt* — *sima* is a synonym of *sarva*; *navā vasanā* — in both, *śi* elided by *śeś chandasi bahulam*; *jahāti* — root *ohāk* (to abandon), of the *juhotyādi* class. *(Numerals small and doubtful [?].)*
+
+### Page 39 (PDF 59)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 39.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*savitā* — the sun; *bāhū iva* — like arms (his own) the rays [that are like arms]: as he spreads them out, so *udyaṃyamīti* — (this Agni of the dawn spreads his radiance) he stretches his radiance upward; *bhīmaḥ* — Agni, the fearful; *ubhe sicau* — both heaven and earth; *añjan* — (with his radiances) decorating; *yatate* — (in his own duty) is intent (and afterwards); *simasmāt* — from all beings; *śukraṃ* — the bright; *atkaṃ* — the essential; *rasam* — the sap; *udajate* — (with his rays) raises upward (and); *mātṛbhyaḥ* — from the rain-waters, his mothers; *navā* — new; *vasanā* — (as a garment covering all the world) the pervading (radiances); *jahāti* — gives forth."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"As the sun spreads his rays, which are like arms, so this Agni of the dawn spreads his radiance upward. The fearful Agni, decorating both heaven and earth with his radiances, is intent on his own duty. Afterwards, from all beings, he lifts the bright, essential sap with his rays; and, with the rain-waters that are his mothers, he sends forth his new radiance, which pervades the whole world like a garment."
+
+**English Translation (as printed)**
+
+> Like the sun, he stretches forth his arms, and the formidable Agni, decorating both heaven and earth (with brightness), labours (in his duties) ; he draws up from everything the essential (moisture), and clothes (the earth) with new vestments (derived) from his maternal (rains).
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.7 (Kannada)**
+
+"Here Agni, with his radiance stretched upward, is compared to the spreading of the sun's rays. In this spreading of radiance there is a kind of fearsome beauty. Revealing these qualities, Agni, engaged in his everyday duties, takes the essence of the world in one way, and, returning that essence in another way, gives the whole world a new splendour."
+
+### Page 40 (PDF 60)
+
+*(Running head: left 40; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+***savitā*** — *sarvasya prerakaḥ ādityaḥ*: "Sāyaṇa explains it as 'the sun who impels everyone', and likens Agni's flames to the sun's rays: as the sun spreads his arm-like rays upward, so Agni too, his flames;"
+
+***udyaṃyamīti*** — *bhṛśam udyatān ūrdhvābhimukhāni karoti*: "'he makes them greatly lifted, turned upward' — it is said that Agni is thus compared to the sun. Skandasvāmin, however, explains this in another way:"
+
+> देवपरिवेषणवेलायां यदुद्यमनं तदिहाभिप्रेतं । देवान्परिवेष्टुं हवींष्यादाय पुनःपुनरुद्यच्छति । सवितेव । यजमाननामैतत् [?] शाकपूणिना पठितं । यजमान इव । देवान्परिवेष्टुं हस्ताभ्यां हवींष्यादाय यजमानवत् पुनःपुनरग्निरुत्क्षिपतीत्यर्थः ।
+> *devapariveṣaṇavelāyāṃ yad udyamanaṃ tad ihābhipretaṃ | devān pariveṣṭuṃ havīṃṣy ādāya punaḥ punar udyacchati | saviteva | yajamānanāmaitat [?] śākapūṇinā paṭhitaṃ | yajamāna iva | devān pariveṣṭuṃ hastābhyāṃ havīṃṣy ādāya yajamānavat punaḥ punar agnir utkṣipatīty arthaḥ |*
+
+*(Translation, mine and tentative: "At the time of serving the gods, the lifting [of the hands] is what is meant here: taking the oblations in order to serve the gods, he lifts them again and again. 'Like Savitṛ': this is read by Śākapūṇi among the names of the sacrificer [?]: 'like the sacrificer'. Taking the oblations in both hands, to serve the gods, Agni, like a sacrificer, again and again lifts [them] up: this is the sense.")* "At the time of distributing the oblations to the gods, Agni repeatedly lifts his upward-turned flames, which is likened to the arms of the sacrificer lifting up to offer the oblations. Because Śākapūṇi has read *savitṛ* among the names of the sacrificer, *savitā* means here the sacrificer who offers the oblations; or, as Skandasvāmin says — '*savitātra āditya eva vābhipretaḥ*' [as read [?]] — here by *savitṛ* the sun himself may be understood."
+
+***ubhe sicau*** — *ubhe dyāvāpṛthivyau*: "both heaven and earth. *Añjan* — *svatejasā alaṅkurvan*: 'adorning with his own radiance': so Sāyaṇa also construes. Skandasvāmin takes it so —"
+
+> उभे सिचौ—सिचशब्दः अत्र वस्त्राञ्चलवचनः । यततिरपि सन्नहनार्थः । उभे असि वस्त्राञ्चले गाढं सन्नह्यति [?] ।
+> *ubhe sicau — sicaśabdaḥ atra vastrāñcalavacanaḥ | yatatir api sannahanārthaḥ | ubhe asi vastrāñcale gāḍhaṃ sannahyati [?] |*
+
+*(Translation, mine and tentative: "'Both the* sica*s': the word* sica *here means the skirt of a garment; the verb* yatati *too is in the sense of tying on; he ties both the skirts of the garment firmly.")* "— *sica* here means the hem of a garment, and *yatete* means 'he fastens firmly the hems of the garment and prepares himself to receive the oblation' — so Skandasvāmin construes. This too seems quite appropriate, since in the Ṛksaṃhitā the word *sica* is used as an upapada; and, in one or two places in which it is used, it means the hem of a garment:"
+
+> पितुर्न पुत्रः सिचमा रभे त इन्द्र स्वादिष्ठया गिरा शचीवः ।
+> *pitur na putraḥ sicam ā rabhe ta indra svādiṣṭhayā girā śacīvaḥ |*
+> (*Ṛ. Saṃ.* 2-3[3]-3 as read [?])
+
+> माता पुत्रं यथा सिचाभ्येनं भूम ऊर्णुहि ।
+> *mātā putraṃ yathā sicābhy enaṃ bhūma ūrṇuhi |*
+> (*Ṛ. Saṃ.* 10-18-11 as read)
+
+*(Glosses, mine and tentative: "as a son lays hold of the hem of his father, so I lay hold of you, Indra, with the sweetest song"; "as a mother covers her son with the hem [of her garment], cover him, O Earth".)*
+
+"In these places the word *sica* is explained by Sāyaṇa too as 'the skirt of a garment'. Therefore, here Skandasvāmin's explanation will fit even better. Besides, Sāyaṇa" *(continues on p. 41)*
+
+### Page 41 (PDF 61)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 41.)*
+
+"…If one construes '*ubhe sicau añjan yatete*', Skandasvāmin takes '*ubhau sicau yatete*' separately, and afterwards, leaving aside '*bhīmaḥ añjan*', joins '*ātmānaṃ yajñaṃ vā prasādhayan*' ('decorating himself or the sacrifice') with '*ut śukram atkam ajate*'."
+
+***atkaṃ*** — *sārabhūtaṃ rasam*: "'the sap, which is the essence': he draws it up. Thus, for the word *atka*, here in one place only Sāyaṇa has explained 'sap'; in all the other places he explains it, saying plainly that the word is to be read as 'form' (*rūpa*). In some places only it means a covering armour (*kavaca*); in one or two places it is used as 'weapon'; it is also the name of a demon (*rākṣasa*)."
+
+"Skandasvāmin says: '*atkaśabdo 'tra rūpavacanaḥ | añjatir api …artha [?] | śukram āgneyajvālākhyaṃ rūpam utkṣipati | ūrdhvaṃ jvalatīty arthaḥ*' — 'the word *atka* here means "form"; *añjati* too [has such a sense]; he throws up the bright form called the flame of Agni: the sense is that he blazes upward'. Explaining that *udajate* means 'he throws upward', that is, 'spreading with the face turned upward he spreads out; he throws out the flame upward', he cites, from the Ṛksaṃhitā —"
+
+> सचा यदासु जहतीष्वत्कमानुषीषु मानुषो निषेवे ।
+> *sacā yad āsu jahatīṣv atkam amānuṣīṣu mānuṣo niṣeve |*
+> (*Ṛ. Saṃ.* 10-95-8 as read [?])
+
+*(Gloss, mine and tentative: "when, together with these [nymphs] who cast off their garments, I, the mortal, was [thus] together with the non-human ones".)* "— he gives to the word *atka* in this sentence the meaning 'beautiful form':"
+
+> स्तरीर्नात्कं वृतं [?] वसाना सूर्यस्य श्रिया सुदृशी हिरण्यैः ।
+> *starīr nātkaṃ vṛtaṃ [?] vasānā sūryasya śriyā sudṛśī hiraṇyaiḥ |*
+> (*Ṛ. Saṃ.* 1-123-7 as read)
+
+> वसानो अत्कं सुरभिं दृशे कं स्वर्ण नृतविषिरो बभूथ ।
+> *vasāno atkaṃ surabhiṃ dṛśe kaṃ svar ṇa nṛtaviṣiro babhūtha |*
+> (*Ṛ. Saṃ.* 6-[?]-3 as read [?])
+
+*(Glosses, mine and tentative: "like a barren cow [?], clothed in a covering, fair to see, with the splendour of the sun, with gold"; "clothing yourself in a fragrant covering, a joy to see, you have become [bright] like the sun". The first quotation's* vṛtaṃ *is as printed, where* vyutaṃ *might be expected [?].)*
+
+"In Ṛks like these, in which the word *atka* is used, Sāyaṇa too has given the explanation '*rūpa*'; only in one place here he says 'sap'. In this context Skandasvāmin's sense seems appropriate. In places such as Ṛ. 3-[3]4-3 [?]; 6-[6]3-4 [?] the meaning is 'armour' (*kavaca*), in 6-[3]3-3 [?] 'weapon', and in 10-[9]9-3 [?] 'the child of a demon' [as read from small print, all doubtful [?]]."
+
+***mātṛbhyaḥ*** — *svamātṛsthānīyebhyo vṛṣṭyudakebhyaḥ sakāśāt*: "'from the rain-waters standing in the place of his mothers' — so Sāyaṇa; and, because the quarters, too, are mothers, since they give birth to Agni (*mātaro 'pi diśaḥ agner janakatvāt*), Skandasvāmin explains the word *mātṛ* here as quarters, and *mātṛbhyaḥ* as 'from the quarters'. If this is done, the whole sense of the sentence differs. If 'from the rain-waters' is meant, then *navā vasanā jahāti* — 'he gives up his new garment'…" *(continues on p. 42)*
+
+---
+
+**Progress note:** Printed pp. 1–41 done (PDF 21–61): Sūkta 95, Riks 95.1–95.6 complete; Rik 95.7: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done (pp. 38–39), and the Special Topics under way (the *savitā*, *ubhe sicau*, *atka* passages, with Skandasvāmin's alternative explanations, pp. 39–41), breaking at the foot of p. 41 in the passage on *mātṛbhyaḥ* at "…then *navā vasanā jahāti* — 'he gives up his new garment'…". Next: printed p. 42 (PDF 62). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's quotations in 95.1–95.7 (*nṛptyati* [?]; the middle of the passage on *apasām upasthāt* [?]; the clotted comment on p. 29 [?]; *yajamānanāmaitat*, *sannahyati* and *añjatir api …artha* on pp. 40–41 [?]); the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta (9-15, 8-14, 4-9, 3-21), Bṛhaddevatā and Manu numerals of the Special Topics of 95.1–95.7 as read [?] (the Bṛhaddevatā stanzas on p. 18 doubtful [?]; the Ṛgveda numerals for *atka* on p. 41 doubtful [?]); the Uṇādi/Pāṇini numerals in the grammar of 95.1–95.7 [?]; *parīty eṣa samity etasya sthāne*, the suffix of *jānā*, *ābādiṣu*, *madhye ka ā ciketa* in the bhāṣyas of 95.3–95.4 [?]; Yāska's quotation and the sūtra numbers in the bhāṣya of 95.5 clotted [?]; the opening of the bhāṣya of 95.6 and the Nirukta quotation on *bhadra* [?]; Ṛ. 8-31-[?] on p. 36 and 2-3[3]-3 on p. 40 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's *vṛtaṃ* for *vyutaṃ* (1-123-7) on p. 41.
