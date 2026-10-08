@@ -11415,6 +11415,90 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–400 done (PDF 16–415) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.22 complete; Rik 91.23 (the last Ṛk) done through most of its Special Topics; the Special Topics of *gaviṣṭau* break mid-sentence at the foot of p. 400 ("*Skandasvāmin: gāvaḥ iṣyante*"), and the Vyākaraṇa-prakriyā, if any, and the sūkta's close come on p. 401. Next: printed p. 401 (PDF 416) — the end of Sūkta 91; then Sūkta 92 begins at p. 402 (PDF 417). "
-"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.23 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22 bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted, the Ṛgveda numerals on pp. 396–397 all doubtful, the gaṇa-sūtra *janījṛṣ…*; 91.23: the bhāṣya's *sahasāvan* (*ākāralopajanaḥ*) clotted, Pāṇini 7-2-77 and 3-1-5 [?], *abhiyudhaḥ gatikarmā* [?], the Ṛgveda numerals 9-66-18 and 9-66-12 and Ai. Brā. 1-14 [?], Ni. 2-9 and 7-15 [?], the second Ṛgveda citation's last word [?]; the Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+### Page 401 (PDF 416)
+
+*(Running head left: "A. 1 A. 6 Va. 23 [?]"; centre: "Ṛgvedasaṃhitā"; right: 401. Foot: printer's signature "26 … Volume 7".)*
+
+*Special Topics of Rik 91.23, continued from p. 400 (Kannada) — the quotation broken at the foot of p. 400 continues:* "— '*gāvaḥ iṣyante yatra prāpyaṃ sā gaviṣṭiḥ*; *tatra yajñe ity arthaḥ*' ['that in which cows are desired to be obtained is *gaviṣṭi*; that is, in the sacrifice']: that is, Skandasvāmin explains it as 'in a sacrifice performed with the wish to obtain cows'."
+
+***(pra) cikitsa*** — "If *gaviṣṭi* is taken to mean 'battle', the sense of *pra cikitsa* is '*asmadīyam upadravaṃ parihara*' — 'remove our troubles', that is, 'destroy our troubles'. If it is taken to mean 'sacrifice', [then] *kita jñāne*: here 'giving that is accompanied by knowledge of the truth' is indicated by *jñāna*; '*prakarṣeṇa dehīty arthaḥ*' — 'give in abundance': that is, 'give generously to us in the sacrifice' is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.23)** *(Kannada; grammar page, noted briefly)*
+
+*rāyaḥ* — the word *rai*; in the genitive singular the form is *rāyaḥ*; by *ūḍidaṃ padādi* (Pā. 6-1-171) the case-ending takes the acute.
+*bhāgam* — root *bhaja sevāyām*; in the passive sense *ghañ*; by *ata upadhāyāḥ* the vṛddhi of the penultimate; by *cajoḥ ku ghiṇyatoḥ* (Pā. 7-3-52 [?]) the *ku* substitution for the *j*. Or, since *bahulam* is mentioned in *kṛtyalyuṭo bahulam* (Pā. 3-3-113 [?]), the suffix *ghañ* in the agent sense; by *karṣātvataḥ* (Pā. 6-1-159 [?]) the *ñit* accent is set aside and the final-acute comes.
+*sahasāvan* — in the sense "he has *sahas*, strength", by *tad asyāsty asminn iti matup* (Pā. 5-2-94 [?]) the suffix *matup*; the word *sahas* takes a final *ā* by Vedic usage; since a word beginning with *ā* follows, by *mādupadhāyāś ca mator vo 'yavādibhyaḥ* (Pā. 8-2-9 [?]) the *m* becomes *v*; as a vocative, by *āmantritasya ca* (Pā. 8-1-19 [?]) the *nighāta* accent.
+*yudhya* — root *yudha saṃprahāre* (*divādi*); by *vyatyayo bahulam* the *parasmaipada*; *loṭ*, second person singular, *sip*, with *hi* for it; by *divādibhyaḥ śyan* the *śyan*; by *ato heḥ* the *luk* of *hi*; the *nighāta* accent following a word.
+*tanat* — root *tanu vistāre*; *laṅ*, third person singular, *tip*; by *itaś ca* the *i* elided; by *vyatyayo bahulam* *śap* for the *u*-class suffix; by *na māṅyoge* (Pā. 6-4-74 [?]) the augment *aṭ* does not occur, since *mā* is connected; the *nighāta* accent.
+*īśiṣe* — root *īśa aiśvarye*; *laṭ*, second person singular, *thās*; by *thāsaḥ se* the replacement *se*; by *īśaḥ se* (Pā. 7-2-77 [?]) the augment *iṭ* for *se* standing after it; by *ādeśapratyayayoḥ* the *ṣatva* of the suffix. —
+
+---
+
+### Page 402 (PDF 417)
+
+*(Running head: left "402", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92" in small Kannada numerals.)*
+
+*Vyākaraṇa-prakriyā of Rik 91.23, concluded (grammar page, noted briefly):*
+
+[*īśiṣe*, continued —] since it stands after a finite verb, the *nighāta* accent is not obtained, because the sūtra prohibits it (*atiṅaḥ*); the accent of the root remains.
+*cikitsa* — root *kita jñāne*; by *guptijkidbhyaḥ san* (Pā. 3-1-5 [?]) the suffix *san* in its own sense; by *sanādyantā dhātavaḥ* the root-name; *loṭ*, second person singular, *sip*, with *hi* for it; by *sanyaṅoḥ* (Pā. 6-1-9 [?]) the doubling of the first single-vowel part of the *san*-ending root; in the reduplicative *ku*-class replaced by the *cu*-class (*kuhoś cuḥ*); by *ato heḥ* the *luk* of *hi*; the *nighāta* following a word.
+*gaviṣṭau* — *gavāṃ bāṇānām iṣṭayaḥ eṣaṇāni gamanāni eṣu iti gaviṣṭiḥ*, a *bahuvrīhi* compound; by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 [?]) the first member keeps its natural accent; the locative singular. ‖ 23 ‖
+
+*(There is no closing line for Sūkta 91 in the print: the Ṛk's grammar page ends with "‖ 23 ‖", followed by a rule, and the heading of the next Sūkta. Sūkta 91 thus occupies printed pp. 325–402; Ṛks 23.)*
+
+---
+
+## Sūkta 92 (Maṇḍala 1, Sūkta 92) — "ತೊಂಭತ್ತೆರಡನೆಯ ಸೂಕ್ತವು" (*tombhatteraḍaneya sūktavu*, "the ninety-second Sūkta")
+
+**॥ ए॒ता उ॒ त्या इत्यष्टादशर्चमष्टमं सूक्तं ॥ — Sāyaṇa's introduction (Sanskrit, printed on p. 402)**
+
+> एता उ त्या इत्यष्टादशर्चमष्टमं सूक्तं गोतमस्यार्षं । आदितश्चतस्रो जगत्यः । त्रयोदश्याद्याः षडुष्णिहः । शिष्टा अष्टौ त्रिष्टुभः । उषा देवता । अश्विना वर्तिरित्यन्त्यास्तृचोऽश्विदेवताकाः । तथा चानुक्रान्तं । एता उ त्या द्व्यनोनपस्यं चतुर्जगत्यादि षळुष्णिगन्तं तृचोऽन्त्या अश्विन इति ॥ सूक्तविनियोगो लैंगिकः ॥ प्रातरनुवाक उषस्ये क्रतौ जागते छन्दस्याश्विनशस्त्रे चैता उ त्या इति चतस्रो विनियुक्ताः । सूत्रितं च । एता उ त्या इति चतस्रो जागतं । आ. ४-१४ [?] इति ॥
+
+*etā u tyā ity aṣṭādaśarcam aṣṭamaṃ sūktaṃ gotamasyārṣaṃ | āditaś catasro jagatyaḥ | trayodaśyādyāḥ ṣaḍ uṣṇihaḥ | śiṣṭā aṣṭau triṣṭubhaḥ | uṣā devatā | aśvinā vartir ity antyās tṛco 'śvidevatākāḥ | tathā cānukrāntaṃ | etā u tyā dvyanonapasyaṃ caturjagatyādi ṣaḷuṣṇigantaṃ tṛco 'ntyā aśvina iti ‖ sūktaviniyogo laiṅgikaḥ ‖ prātaranuvāka uṣasye kratau jāgate chandasy āśvinaśastre caitā u tyā iti catasro viniyuktāḥ | sūtritaṃ ca | etā u tyā iti catasro jāgataṃ | Ā. 4-14 [?] iti ‖*
+
+*Translation (the Anukramaṇī line is garbled in the print — "dvyanonapasyaṃ" as printed [?]):* "The eighth sūkta, *etā u tyā*, of eighteen Ṛks, the vision of Gotama. The first four are Jagatī; the six from the thirteenth are Uṣṇih; the remaining eight are Triṣṭubh. The deity is Uṣas; the last three Ṛks, beginning *aśvinā vartiḥ*, are addressed to the Aśvins. So it is recorded in the Anukramaṇī. The application of the sūkta is *laiṅgika*. In the *prātaranuvāka*, in the Uṣasya *kratu* in the Jagatī metre, and in the *Āśvina-śastra*, the four Ṛks *etā u tyā* are applied; it is prescribed: '*etā u tyā iti catasro jāgatam*' (Ā. 4-14 [?])."
+
+**अनुवादवु — Anuvāda (Kannada; begins at the foot of p. 402)**
+
+"The sūkta *etā u tyā* is the eighth sūkta in the fourteenth anuvāka. There are eighteen Ṛks in it. The ṛṣi of this sūkta is Gotama. The first four Ṛks are in the Jagatī metre. The six Ṛks from the thirteenth are in the Uṣṇik metre. The remaining eight Ṛks are in the Triṣṭubh metre. The deity of this sūkta is Uṣas. The last three Ṛks, beginning *aśvinā vartiḥ*, are addressed to the Aśvins. At the time of reciting the *prātaranuvāka* mantras, in the mantras connected with the *Uṣasya* sacrifice —
+
+---
+
+### Page 403 (PDF 418)
+
+*(Running head left: "A. 1 A. 6 Va. 24 [?]"; centre: "Ṛgvedasaṃhitā"; right: 403.)*
+
+*(the Anuvāda continues:)* "— in the mantras in the Jagatī metre, and in the mantras of the *Āśvina-śastra*, the application of the four Ṛks *etā u tyā* is shown by the Āśvalāyana Śrauta-sūtra by the sūtra '*etā u tyā iti catasro jāgatam*' (Ā. 4-14 [?])."
+
+*(printer's ornament)*
+
+**॥ सूक्त — ९२ ॥ — Sūkta 92**
+
+**Maṇḍala 1 ‖ Anuvāka 14 ‖ Sūkta 92 ‖ Aṣṭaka 1 ‖ Adhyāya 6 ‖ Varga 24, 25, 26, 27 [?]** *(the four varga numerals, in small Kannada digits, as read; doubtful [?])*
+
+*Number of Ṛks in the Sūkta: 18. ‖ Ṛṣi: Gotama Rāhūgaṇa ‖ Devatā: Ṛks 1–15 Uṣas; 16–18 the Aśvins ‖ Chandas: Ṛks 1–4 Jagatī; 5–12 Triṣṭubh; 13–18 Uṣṇih.*
+
+> ॥ ऋषिः — गोतमो राहूगणः ॥ देवता — १–१५ उषाः । १६–१८ अश्विनौ ॥ छन्दः — १–४ जगती । ५–१२ त्रिष्टुप् । १३–१८ उष्णिक् ॥
+
+*(The deity list is read from the print as "1–15 Uṣas; 16–18 Aśvinau", agreeing with the Anuvāda: the last three Ṛks are addressed to the Aśvins. The numerals "15", "16" are small and read with some doubt [?].)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.1)** *(Jagatī)*
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+> निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥ १ ॥
+
+*etā u tyā uṣasaḥ ketum akrata pūrve ardhe rajaso bhānum añjate | niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ prati gāvo 'ruṣīr yanti mātaraḥ ‖ 1 ‖*
+
+*(Accent marks not reproduced.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.1)** *(first line; the rest of the Pada is on p. 404)*
+
+> एताः । ऊं इति । त्याः । उषसः । केतुम् । अक्रत । पूर्वे । अर्धे । रजसः । भानुम् । अञ्जते ।
+
+*etāḥ | ūṃ iti | tyāḥ | uṣasaḥ | ketum | akrata | pūrve | ardhe | rajasaḥ | bhānum | añjate |*
+
+---
+
+**Progress note:** Printed pp. 1–403 done (PDF 16–418) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line in the print). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): the Sanskrit introduction and Anuvāda (pp. 402–403), the heading block and the Saṃhitā of Rik 92.1 and the first line of its Pada are done (p. 403). Next: printed p. 404 (PDF 419) — the second line of the Pada of 92.1 (*niṣkṛṇvānā āyudhānīva…*), then the Sāyaṇa-bhāṣya. "
+"Open flags (Sūkta 91, condensed — now complete): in every Rik of 91.1–91.23 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22 bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted, the Ṛgveda numerals on pp. 396–397 all doubtful; 91.23 *sahasāvan* clotted, Ṛgveda numerals 9-66-18/12, Ai. Brā. 1-14 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. Sūkta 92: the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]. "
 "Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
