@@ -2951,7 +2951,7 @@ Title block:
 
 *(Running head: left 100; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
 
-*(The grammatical tail of the bhāṣya of Rik 96.7 concludes at the head of this page: …*śatuḥ* — *ity ātvaṃ | sataḥ | asteḥ śatary ādittvāc chapo luk | śnasor allopa ity akāralopaḥ | śatur anuma iti vibhakter udāttatvaṃ ‖*, as given above.)*
+*(The grammatical tail of the bhāṣya of Rik 96.7 concludes at the head of this page: …*ity ātvaṃ | sataḥ | asteḥ śatary ādittvāc chapo luk | śnasor allopa ity akāralopaḥ | śatur anuma iti vibhakter udāttatvaṃ ‖*, as given above.)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
 
