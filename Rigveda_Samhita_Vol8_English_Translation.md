@@ -2008,4 +2008,151 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–65 done (PDF 21–85): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; *sa pratnathā*; Kutsa Āṅgirasa; Triṣṭubh; Agni as Draviṇodas, or Agni; 15th Anuvāka; printed pp. 61–?): Anuvāda, heading block and Rik 96.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 96.1 (the long Nirukta discussion of *draviṇodāḥ*) under way on pp. 64–65, breaking at the foot of p. 65 after Yāska's quotation about the *ṛtuyājas* and Soma-drinking. Next: printed p. 66 (PDF 86). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–65) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–65 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā reference on p. 64 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 66 (PDF 86)
+
+*(Running head: left 66; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Special Topics of Rik 96.1, continued from p. 65 (Kannada)**
+
+"…since it is said that in the sacrifices performed in view of the seasons, Indra drinks the Soma from the vessel in the hands of the priests, and since Indra is praised with mantras that relate to Soma-drinking, there is a custom of calling the priests *draviṇodasaḥ*. All this is the opinion of Krauṣṭuki."
+
+> अयमेवाग्निर्द्रविणोदा इति शाकपूणिः । आग्नेयेष्वेव हि सूक्तेषु द्रविणोदसः प्रवादा भवन्ति ॥
+> *ayam evāgnir draviṇodā iti śākapūṇiḥ | āgneyeṣv eva hi sūkteṣu draviṇodasaḥ pravādā bhavanti ‖*
+> (*Ni.* 8-2, continued, as read [?])
+
+*(Translation, mine and tentative: "'Agni himself is Draviṇodas', says Śākapūṇi; for it is in the sūktas addressed to Agni that the statements about Draviṇodas occur.")* "That Agni is *draviṇodāḥ* is the opinion of Śākapūṇi: for, in the sūktas that relate to Agni, the priests, when they praise Agni, use the word *draviṇodāḥ* as an epithet of Agni."
+
+> यथो एतस्य बलधनयोर्दातृत्वमिति सर्वासु देवतास्वैश्वर्यं विद्यते । यथो 'एतदोजसोजातमुतमन्य एनम्' इति चाहैत्ययमप्यग्निरोजसा बलेन मथ्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः सूनुं सहसो यहुम् ॥
+> *yatho etasya baladhanayor dātṛtvam iti sarvāsu devatāsv aiśvaryaṃ vidyate | yatho 'etad ojasojātam utamanya enam' iti cāhaitya ayam apy agnir ojasā balena mathyamāno jāyate tasmād enam āha sahasas putraṃ sahasaḥ sūnuṃ sahaso yahum ‖*
+> (*Ni.* 8-2, concluded, as read [?])
+
+*(Translation, mine and tentative: "As to 'the giving of strength and wealth' — lordship is found in all deities; and as one says 'born of strength; some think of him thus' — this Agni too is born when churned by strength, by force; therefore they call him 'son of strength, offspring of strength, child of strength'.")* "Lordship is found in all deities; therefore Agni too gives strength and wealth, and so Agni can be called *draviṇodāḥ*. Apart from this, the word *draviṇa* has the sense of 'strength'. Since Agni is born by the use of strength (by churning), there is the belief that Agni is born from strength; therefore Agni is praised by the words *sahasaḥ putram*, *sahasaḥ sūnum*, *sahaso yahum*" *(as read; the second* sahasas*-words are as printed)*:
+
+> द्रप्सश्चस्कन्द [?]… *(the verse is given in the print as follows)*
+> द्रन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥
+> *dranaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ ‖*
+> (*Ṛ. Saṃ.* 3-2-[?] as read [?])
+
+> त्वं ह यद्यविष्ठ्य सहसः सूनवाहुतः । ऋतावा यज्ञियो भुवः ॥
+> *tvaṃ ha yad yaviṣṭhya sahasaḥ sūnav āhutaḥ | ṛtāvā yajñiyo bhuvaḥ ‖*
+> (*Ṛ. Saṃ.* 6-2-3 as read)
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो । अस्मे धेहि जातवेदो महि श्रवः ॥
+> *agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahi śravaḥ ‖*
+> (*Ṛ. Saṃ.* 1-79-4 as read)
+
+*(Glosses, mine and tentative: "the dripper, the ghee-fed, the ancient Hotṛ, the choice one, the wonderful son of strength"; "you, youngest, O son of strength, when invoked, become the guardian of the rite, worthy of sacrifice"; "Agni, lord of the wealth of cows, O child of strength, grant us great glory, Jātavedas". The first verse is printed with its first word clotted [?].)*
+
+"In these Ṛks the words *sahasaspūtra*, *sahasaḥ sūnu* and *sahaso yaho* are, respectively, used in praising Agni. Therefore, although other deities too can give strength and wealth, it is Agni, particularly, who is presented by the word *draviṇodāḥ*."
+
+### Page 67 (PDF 87)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 67.)*
+
+"Here, quoting the sentences of the Bṛhaddevatā, let us see with which deity this epithet is chiefly connected, and which of that deity's qualities it makes known."
+
+"In the Bṛhaddevatā, first, after the derivation of the word *agni* is shown, it is considered whether the epithet *draviṇodāḥ* is suitably applied to Agni."
+
+> जातो यदग्रे भूतानामग्रणीरध्वरे च यत् ।
+> नाम्ना संनयते वाङ्गं स्तुतोऽग्निरिति सूरिभिः ॥
+> *jāto yad agre bhūtānām agraṇīr adhvare ca yat |*
+> *nāmnā saṃnayate vāṅgaṃ stuto 'gnir iti sūribhiḥ ‖*
+> (*Bṛ. De.* 2-34 as read [?])
+
+*(Translation, mine and tentative: "Because he was born first among beings, because he is the leader in the rite, and because he [brings together] by name the [parts of the] body, he is praised by the sages as 'Agni'.")* "Since he is the first-born among all beings, since he is the leader in sacrifices such as the *yajña* and *yāga*, and since, whatever object he enters, he makes it merge into himself and become dissolved, Agni has been praised by the seers: this derivation is in accord with the derivations given in the Nirukta, '*agraṇīr bhavati, agraṃ yajñeṣu praṇīyate, aṅgaṃ nayati saṃnamamānaḥ*' (Ni. 7-1[4] [?]). After explaining the word *agni*, he gives the derivation of the word *draviṇodāḥ* —"
+
+> द्रविणं धनं बलं वापि प्रायच्छद्येन कर्मणा ।
+> तत्कर्म दृष्ट्वा कुत्सस्तु प्राह्यैनं द्रविणोदसम् ॥
+> *draviṇaṃ dhanaṃ balaṃ vāpi prāyacchad yena karmaṇā |*
+> *tat karma dṛṣṭvā kutsas tu prāhyainaṃ draviṇodasam ‖*
+> (*Bṛ. De.* 2-35 as read [?])
+
+*(Translation, mine and tentative: "By whatever deed he gave wealth or strength, seeing that deed Kutsa called him 'Draviṇodas'.")* "Kutsa, noting the deeds of Agni who is able to give wealth and strength liberally, praised Agni as *draviṇodāḥ*, the giver of wealth or of strength."
+
+> द्रविणोदा द्रविणसस्तुरस्य द्रविणोदाः सनरस्य प्र यंसत् ।
+> द्रविणोदा वीरवतीमिषं नो द्रविणोदा रासते दीर्घमायुः ॥
+> *draviṇodā draviṇasas turasya draviṇodāḥ sanarasya pra yaṃsat |*
+> *draviṇodā vīravatīm iṣaṃ no draviṇodā rāsate dīrgham āyuḥ ‖*
+> (*Ṛ. Saṃ.* 1-96-8)
+
+"After pointing out Kutsa's own praise of Agni in this Ṛk, he affirms again that this epithet is applied to Agni as deity, and does not refer to other deities:"
+
+> अयं हि द्रविणोदोऽग्निरयं दाता बलस्य हि ।
+> जायते च बलेनायं मथ्यकृत्यै ऋषिभिर्ध्वरे ॥
+> द्रविणोदोऽग्निरेवायं द्रविणोदास्तदोच्यते ।
+> आग्नेयेष्वेव दृश्यन्ते प्रवादा द्रविणोदसः ॥
+> *ayaṃ hi draviṇodo 'gnir ayaṃ dātā balasya hi |*
+> *jāyate ca balenāyaṃ mathyakṛtyai ṛṣibhir dhvare ‖*
+> *draviṇodo 'gnir evāyaṃ draviṇodās tadocyate |*
+> *āgneyeṣv eva dṛśyante pravādā draviṇodasaḥ ‖*
+> (*Bṛ. De.* 3-6[1]; 3-6[2] as read [?])
+
+*(Translation, mine and tentative: "For this Agni is Draviṇodas; he is the giver of strength; and he is born by strength, by the seers in the rite, for the [act of] churning. Agni alone is Draviṇodas, therefore he is so called; and statements about Draviṇodas are seen only in the sūktas addressed to Agni." The words of the second line of the first verse are clotted [?].)*
+
+"The giver of wealth, the giver of strength, and one born by strength: and for this very reason the praise 'draviṇodāḥ' befits Agni. Therefore the author of the Bṛhaddevatā affirms that this epithet belongs to the deity Agni."
+
+### Page 68 (PDF 88)
+
+*(Running head: left 68; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+"In the verse quoted above, the praise of the nature, '*jāyate ca balenāyam*' ('and he is born by strength'), can be seen at the beginning of this Ṛk."
+
+***sahasā jāyamānaḥ*** — *balena, nirmathanena utpadyamānaḥ*: "'born by force, by churning': one who arises from the act of churning. Agni has praises in many places: *sahasaspūtraḥ*, *sahasaḥ sūnuḥ*; since he arises from the strength of churning, this praise is given. In the same way the address or description —"
+
+> द्रन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥
+> *dranaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ ‖*
+> (*Ṛ. Saṃ.* 3-2-[?] as read [?])
+
+> अग्ने वीहि पुरोळाशमाहुतं तिरो अह्न्यम् । सहसः सूनुरस्यध्वरे हितः ॥
+> *agne vīhi puroḷāśam āhutaṃ tiro ahnyam | sahasaḥ sūnur asy adhvare hitaḥ ‖*
+> (*Ṛ. Saṃ.* 3-[?]-[?] as read [?])
+
+> अस्माकमग्ने अध्वरं जुषस्व सहसः सूनो त्रिषधस्थ हव्यम् ।
+> *asmākam agne adhvaraṃ juṣasva sahasaḥ sūno triṣadhastha havyam |*
+> (*Ṛ. Saṃ.* 3-[?]-[?] as read [?])
+
+> यस्ते अग्ने सुमतिं मर्तो अक्षत्सहसः सूनो अति स प्र शृण्वे ।
+> *yas te agne sumatiṃ marto akṣat sahasaḥ sūno ati sa pra śṛṇve |*
+> (*Ṛ. Saṃ.* 10-11-[?] as read [?])
+
+*(Glosses, mine and tentative: "the dripper, ghee-fed, the ancient Hotṛ, the choice one, wonderful son of strength"; "Agni, eat the offered cake, the daily [offering]; you are the son of strength, placed in the rite"; "Agni, enjoy our rite, O son of strength, you of three seats, the oblation"; "the mortal who has attained your favour, O son of strength — he is heard of beyond [others]".)* "In such Ṛks Agni is addressed as 'son of strength': likewise here too it is said *sahasā jāyamānaḥ*."
+
+***pratnathā*** — "*pratnam, pradivaḥ, pravayāḥ* and so on are read among the six names for 'ancient' (Ni. 3-1[3] [?]), so *pratna* means 'old' or 'ancient'. Here Agni, as soon as he is born, shows extremely ancient-like power and knowledge, and manifests ability: this is the wonder that is to be shown."
+
+> तद्वामृतं रोदसी प्र ब्रवीमि जायमानो मातरा गर्भो अत्ति ।
+> नाहं देवस्य मर्त्यश्चिकेतागिनरङ्ग विचेताः स प्रचेताः ॥
+> *tad vām ṛtaṃ rodasī pra bravīmi jāyamāno mātarā garbho atti |*
+> *nāhaṃ devasya martyaś ciketāgnir aṅga vicetāḥ sa pracetāḥ ‖*
+> (*Ṛ. Saṃ.* 10-79-4 as read)
+
+*(Gloss, mine and tentative: "this truth of yours, O heaven and earth, I declare: being born, the embryo consumes his two mothers. I, a mortal, do not know the god: Agni, he is the discerning, the wise".)* "In such contexts, describing the greatness of Agni, [it is said that] as soon as he is born, or even while still in the embryonic stage, Agni obtains the power of devouring his own mothers. This is a power which is beyond the sight of men and wonderful. In the same way here also the wondrous power of Agni is praised; by this power Agni shows himself to be lord of all kinds of sacrificial rites."
+
+***kāvyāni*** — *kaveḥ krāntadarśinaḥ pragalbhasya karmāṇi*: "of the one who is wise and powerful, his works of carrying oblations and the rest."
+
+### Page 69 (PDF 89)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 69.)*
+
+***baṭ*** — "*baṭ, śrat, satrā* and so on are read among the six names for 'truth' (Ni. 3-[?]), so *baṭ* means 'truly'."
+
+"For the works of carrying the oblation and the rest no one else is capable; and, since the gods and men are to be connected with one another in a mutual relationship, and since Agni alone has the capacity to bring comfort and gratification at once to all, from the heavenly to the earthly, when the gods pray to Agni to perform the work of carrying the oblations, Agni consents to this great deed (Ṛ. 10-[?]-[?] [?]). And since to accomplish this deed immediately upon being born is an extremely wonderful matter, as it has been described in the various scriptural texts in other contexts, so also here it is praised —"
+
+> सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
+> *sadyo jāto vy amimīta yajñam agnir devānām abhavat purogāḥ |*
+> (*Ṛ. Saṃ.* 10-110-11; *Ai. Brā.* 3-2[?]-1[?]; *Vā. Saṃ.* 29-2[?] as read [?])
+
+*(Gloss, mine and tentative: "at once on being born he measured out the sacrifice; Agni became the forerunner of the gods".)*
+
+***dhiṣaṇā*** — "*ślokaḥ, dhārā, iḷā* and so on are read among the sixty-[?] names of speech (*vāk*) (Ni. 1-11 [?]); so *dhiṣaṇā* means 'speech'. '*dhiṣaṇā vāg dhiṣerdhāty-arthe dhīḥ sādhanīti vā*' (Ni. 8-[?] [?]): the Nirukta-author's derivation is that it comes from the root *dhiṣ*, which gives the sense 'it holds'; or it explains the sense in detail, as 'that which extends the intellect'."
+
+***āpaś ca dhiṣaṇā ca mitraṃ sādhan*** — "Since this is in praise of the lightning-fire, Sāyaṇa construes: 'both the waters that are in the clouds, and the speech in the form of thunder, make this Agni a friend'. For this kind of meaning other scriptural sentences may be cited —"
+
+> तस्य देवाः पृथिवी द्यौरुतापोऽरणयन्नोषधीः सख्ये अस्य ।
+> *tasya devāḥ pṛthivī dyaur utāpo 'raṇayann oṣadhīḥ sakhye asya |*
+> (*Ṛ. Saṃ.* 10-[?]-2 as read [?])
+
+*(Gloss, mine and tentative: "his [friendship]: the gods, earth, heaven, the waters and the plants delighted in his friendship".)* "— in such places, since it is said that the waters and the rest brought about Agni's friendship and gave him pleasure, here also that sense can be taken. But Skandasvāmin says, '*āp śabdo 'tra āpno ter vyāptivacano nodakavacanaḥ | dhiṣaṇeti vāṅnāma | stutilakṣaṇā vāk, vyāptāś ca āhutayaḥ agniṃ mitraṃ sādhan sādhayanti | kurvantīty arthaḥ*' [as read [?]]: 'here the word *āp* does not mean "water"; the word comes from the root *āp*, "to pervade". *Dhiṣaṇā* is a name of speech: the speech which is in the form of praise, and the pervasive oblations, make Agni a friend: they bring about, they do.' Since the word *āp* is used here in the sense of pervading, he states in his explanation that the intention is that the pervasive oblations and the words of praise make Agni their friend."
+
+---
+
+**Progress note:** Printed pp. 1–69 done (PDF 21–89): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Rik 96.1 Special Topics (the Nirukta and Bṛhaddevatā discussion of *draviṇodāḥ*; *sahasā jāyamānaḥ*; *pratnathā*; *kāvyāni*; *baṭ*; *dhiṣaṇā*; Skandasvāmin on *āp*) through p. 69, breaking at the foot of p. 69 after the Skandasvāmin comment on *āpaś ca dhiṣaṇā ca mitraṃ sādhan*. Next: printed p. 70 (PDF 90) — the rest of the Special Topics of 96.1 (*devāḥ … dhārayan*), the grammar pages, and Rik 96.2. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–69) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on p. 67 (numerals and the second line of the first verse) [?], the first word of Ṛ. 3-2-[?] on p. 66 and the Ṛgveda numerals of pp. 66–69 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
