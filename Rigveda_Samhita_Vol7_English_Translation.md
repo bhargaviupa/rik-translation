@@ -11997,6 +11997,95 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–421 done (PDF 16–436), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.4 complete (92.3 minus the missing p. 413); Rik 92.5 done through the grammar page for *adarśi*, *vi tiṣṭhate*, *bādhate*; the grammar page may continue on p. 422 with the remaining words (*svarum*, *añjan*, *aśret*, etc.). Next: printed p. 422 (PDF 437). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Saṃhitā/Pada of 92.1 read *akrata*; Nirukta numerals [?]; the Ṛgveda numerals of every citation on pp. 406–421 (1-124-5, 1-92-2, 4-6-4, 7-35-7, 5-43-3, 3-8-6, 3-8-9, 3-8-10, 4-51-2, 3-27-7, 1-30-20, 1-48-1, 6-30-5, 7-42-15) as read, doubtful [?]; the Saṃhitā text of the first and third *svaru* citations (pp. 420) doubtful; the 'Part [5?], pp. 32–33' reference [?]; Pāṇini/Uṇādi numerals on pp. 407–421 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4 as noted on the pages; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5). "
+### Page 422 (PDF 437)
+
+*(Running head: left "422", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.5, concluded (grammar page, noted briefly):*
+
+*divaḥ* — by *ūḍidaṃ padādi* (Pā. 6-1-171) the case-ending takes the acute.
+*aśret* — root *śriñ sevāyām*; *laṅ*, third person singular, *tip*, the elision of its *i* [by *itaś ca lopaḥ*]; by *bahulaṃ chandasi* the *luk* of *śap*; by *sārvadhātukārdhadhātukayoḥ* the guṇa of the *ik* vowel of the root because of the suffix; the augment *aṭ* for the stem: *aśret*; since it follows a word, the *nighāta* accent. ‖ 5 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.6)** *(Triṣṭubh)*
+
+> अतारिष्म तमसस्पारमस्योषा उच्छन्ती वयुना कृणोति ।
+> श्रिये छन्दो न स्मयते विभाती सुप्रतीका सौमनसायाजीगः ॥ ६ ॥
+
+*atāriṣma tamasas pāram asyoṣā ucchantī vayunā kṛṇoti | śriye chando na smayate vibhātī supratīkā saumanasāyājīgaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.6)**
+
+> अतारिष्म । तमसः । पारम् । अस्य । उषाः । उच्छन्ती । वयुना । कृणोति ।
+> श्रिये । छन्दः । न । स्मयते । विऽभाती । सुऽप्रतीका । सौमनसाय । अजीगरिति ॥ ६ ॥
+
+*atāriṣma | tamasaḥ | pāram | asya | uṣāḥ | ucchantī | vayunā | kṛṇoti | śriye | chandaḥ | na | smayate | vi-bhātī | su-pratīkā | saumanasāya | ajīgar iti ‖ 6 ‖*
+
+(The Pada's *ajīgar iti* stands for the Saṃhitā's *ājīgaḥ*, as in 92.4 *āvar iti*; the Saṃhitā's *ucchantī* is printed with a double *cch*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.6)** *(begins at the foot of p. 422)*
+
+> अस्य नैशस्य तमसोऽन्धकारस्य पारं समाप्तिप्रदेशमतारिष्म । उत्तीर्णा आभूम । आनन्तरमुच्छन्ती नैशं तमो वर्जयन्त्युषा वयुना वयुनानि
+
+*asya naiśasya tamaso 'ndhakārasya pāraṃ samāptipradeśam atāriṣma | uttīrṇā ābhūma | ānantaram ucchantī naiśaṃ tamo varjayanty uṣā vayunā vayunāni*
+
+---
+
+### Page 423 (PDF 438)
+
+*(Running head left: "A. 1 A. 6 Va. 27 [?]"; centre: "Ṛgvedasaṃhitā"; right: 423.)*
+
+*Sāyaṇa-bhāṣya of Rik 92.6, continued:*
+
+> सर्वेषां प्राणिनां ज्ञानानि कृणोति । निर्मिमीते । श्रिये संपदर्थं छन्दो न स्मयते । यथोपच्छन्दयिता वशीकरणे समर्थः पुरुष आर्थ्यसमीपं [?] प्राप्य तत्प्रीत्यर्थं स्मयते हसति एवं विभाती विशिष्टप्रकाशं कुर्वत्युषाः स्वकीययां निर्मलदन्तपङ्क्त्या हसन्तीव दृश्यते । एवं सुप्रतीका विशिष्टप्रकाशरूपत्वेन शोभनाङ्गी सती सौमनसाय सर्वेषां सौमनस्यायाजीगः । अन्धकारं भक्षितवती ॥ अतारिष्म । तॄ प्लवनतरणयोः । लुङः सिचि वृद्धिः । तमसः । षष्ठ्याः पतिपुत्रेति विसर्जनीयस्य संहितायां सत्वं । स्मयते । स्मिङ् ईषद्धसने । भौवादिकः । अजीगः । गॄ निगरणे । लङि बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसीत्यभ्यासस्येत्वं । तुजादित्वाद्दीर्घः ॥
+
+*sarveṣāṃ prāṇināṃ jñānāni kṛṇoti | nirmimīte | śriye saṃpadarthaṃ chando na smayate | yathopacchandayitā vaśīkaraṇe samarthaḥ puruṣa ārthya-samīpaṃ [?] prāpya tatprītyarthaṃ smayate hasati evaṃ vibhātī viśiṣṭaprakāśaṃ kurvaty uṣāḥ svakīyayā nirmaladantapaṅktyā hasantīva dṛśyate | evaṃ supratīkā viśiṣṭaprakāśarūpatvena śobhanāṅgī satī saumanasāya sarveṣāṃ saumanasyāyājīgaḥ | andhakāraṃ bhakṣitavatī ‖ atāriṣma | tṝ plavanataraṇayoḥ | luṅaḥ sici vṛddhiḥ | tamasaḥ | ṣaṣṭhyāḥ patiputreti visarjanīyasya saṃhitāyāṃ satvaṃ | smayate | smiṅ īṣaddhasane | bhauvādikaḥ | ajīgaḥ | gṝ nigaraṇe | laṅi bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasīty abhyāsasyetvaṃ | tujāditvād dīrghaḥ ‖*
+
+*Translation:* "…produces *vayunā*, the knowledges (consciousness), in all living beings. *Śriye chando na smayate*: as a man who is skilful in winning over by flattery (*upacchandayitā*) goes near the one from whom he wants something and *smayate*, smiles, in order to please him, so the Uṣas *vibhātī* — making a special light — is seen as if smiling with her own bright rows of teeth. So *supratīkā*, of beautiful limbs through her special form of light, for *saumanasāya*, the good-heartedness of all, *ajīgaḥ* — she has devoured the darkness. — *atāriṣma* — root *tṝ plavanataraṇayoḥ*; the vṛddhi before *sic* in the *luṅ*. *tamasaḥ* — the visarga of the genitive becomes *s* in the Saṃhitā by *ṣaṣṭhyāḥ patiputra…*. *smayate* — root *smiṅ īṣaddhasane*, of the *bhvādi* class. *ajīgaḥ* — root *gṝ nigaraṇe*; in the *laṅ* the *ślu* for *śap* by *bahulaṃ chandasi*; the *i*-vowel of the reduplicative by *bahulaṃ chandasi*; the lengthening because it belongs to the *tujādi* group."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.6)** *(Kannada)*
+
+*asya tamasaḥ* — of this darkness of night-time; *pāram* — the end; *atāriṣma* — we have crossed; *ucchantī* — (removing the darkness) appearing; *uṣāḥ* — the deity Uṣas; *vayunā* — (of all beings) the consciousness; *kṛṇoti* — creates; *śriye* — for wealth; *chandaḥ* — one who is able to flatter by praise; *smayate na* — as he goes to the wealthy and smiles to please him; *vibhātī* — shining, with the laughter of her radiance; *supratīkā* — beautifully shining in radiance, or one with an attractive face; *saumanasāya* — for the delight (of the beings); *ajīgaḥ* — swallowed (the darkness).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 92.6** *(Kannada)*
+
+"With the help of the Uṣas deity we have crossed to the end of the darkness of night. The Uṣas deity, appearing by driving away the darkness, creates consciousness in all beings. And as a man able to praise [and so win over], for the acquisition of wealth goes to the wealthy and, to please him, smiles broadly, so she too shines, smiling with the laughter of her radiance, and, beautifully lit and attractive in her radiance, she has swallowed the darkness for the delight of all beings."
+
+**English Translation** *(printed in English in the source; Rik 92.6)*
+
+"We have crossed over the boundary of darkness. Ushas restores the consciousness of living beings ; bright-shining, she smiles, like a flatterer, to obtain favour, and lovely in all her radiance, she has swallowed the darkness for our delight." — as printed.
+
+---
+
+### Page 424 (PDF 439)
+
+*(Running head: left "424", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 92.6)** *(Kannada)*
+
+***ucchantī*** — "For this word one meaning is 'removing, destroying'; another meaning may be given: 'shining, appearing with radiance'. The derivation of the word *uṣā* too comes from *ucchati* (Ni. 2-18 [?]). But the word *ucchati* may be derived from the root *uchī vivāse*, or from *vaś kāntau*; the author of the Nirukta also dealt with this matter in section 2-[?]. In the present context either meaning may be taken. *ucchantī uṣāḥ* may also mean 'the Uṣas who appears, driving away the darkness', or 'the Uṣas who shines'."
+
+***chandaḥ*** — "*rebhaḥ, jaritā, kāruḥ* and the like are read among the names of the praiser (Ni. 3-16 [?]). The meaning here is 'the praiser, who goes to a wealthy man and flatters him to win him over, and in the course of this praise smiles at him: as this praiser becomes smiling-faced, so the Uṣas too, with her radiance, smiles': this is one meaning. Besides, as Skandasvāmin says: '*chandas iti kāntikarmasu pāṭhāt chandaśśabdo 'tra kāmivacanaḥ*' [as read, partly clotted [?]] — since '*chandas*' is read among the names of loveliness (Ni. 3-[?] [?]), the word *chandaḥ* here may be said to mean a lover (*kāmin*) — a woman in love, who, smiling a little, with her tooth-rays flashing, shows [them]: *yathā kāminī īṣat smayantī sphuraddantakiraṇā prakāśayati evam uṣāḥ svakiraṇān āviṣkaroti*: as a lovely woman, smiling gently, displays the rays of her teeth, so the Uṣas also displays her rays."
+
+***supratīkā*** — *pratīkaśabdo mukhavacanaḥ darśanaparyāyo vā | sumukhā sudarśanā vā* | "*pratīka* means 'face', or 'seeing, appearance'. Therefore here it means 'one who has a beautiful face' or 'one who has a charming appearance'. In the Ṛksaṃhitā:"
+
+> यावन्मात्रमुषसो न प्रतीकं सुपर्ण्यो वसते मातरिश्वः ।
+
+*yāvan mātram uṣaso na pratīkaṃ suparṇyo vasate mātariśvaḥ |*  (Ṛ. Saṃ. 10-88-19 [?]; the print has *suparṇyo 3 vasate*, a mark of protraction)
+
+*Gloss, mine and tentative:* "As much as the [bright] face of the Uṣases, the well-winged [?] wind dwells [in it]." *(Reading of the whole citation doubtful [?].)*
+
+"— in this Ṛk too the word *pratīka* is explained in such a way."
+
+***ājīgaḥ*** — "In explaining the derivation of this word the author of the Nirukta cites a Ṛk of the Ṛksaṃhitā —"
+
+> यदा ते मर्तो अनु भोगमानळादिद्ग्रसिष्ठ ओषधीरजीगः ।
+
+*yadā te marto anu bhogam ānaḷ ād id grasiṣṭha oṣadhīr ajīgaḥ |*  (Ṛ. Saṃ. 1-58-2 [?]; the numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "When the mortal has attained your enjoyment, then you, the devourer, have swallowed the plants."
+
+---
+
+**Progress note:** Printed pp. 1–424 done (PDF 16–439), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.5 complete (92.3 minus the missing p. 413); Rik 92.6 done through most of the Special Topics (*ucchantī*, *chandaḥ*, *supratīkā*, and *ājīgaḥ* with its citation, which may continue on p. 425). Next: printed p. 425 (PDF 440). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–424 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–424 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, and in 92.6 (*ārthya-samīpam*, the Skandasvāmin *chandas* sentence on p. 424) [?]; the *suparṇyo vasate* citation's reading [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6); the 'Part [5?], pp. 32–33' reference [?]. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
