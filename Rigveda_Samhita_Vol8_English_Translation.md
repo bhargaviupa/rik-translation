@@ -586,4 +586,115 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–9 done (PDF 21–29): Sūkta 95, Rik 95.1 complete (Special Topics pp. 5–7, grammar pp. 7–9, with the bhāṣya clotted words of p. 4 corrected from p. 7: *tayor etau vatsau*, *ahno 'gniḥ*); Rik 95.2: Saṃhitā only (foot of p. 9). Next: printed p. 10 (PDF 30) — the Pada of Rik 95.2, then its bhāṣya. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* and *anyonyasya ca vatsasthānīyam agniṃ* [?]; the Ṛgveda numerals of the Special Topics of 95.1 (7-78-3, 1-124-8, 10-88-6, 1-113-2), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14 and 8-103 as read [?]; the grammar of 95.1 is characterized, with its numerals as read [?].
+### Page 10 (PDF 30)
+
+*(Running head: left 10; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 95.2)**
+
+> दश । इमम् । त्वष्टुः । जनयन्त । गर्भम् । अतन्द्रासः । युवतयः । विऽभृत्रम् ।
+> तिग्मऽअनीकम् । सुऽयशसम् । जनेषु । विऽरोचमानम् । परि । सीम् । नयन्ति ॥ २ ॥
+
+*daśa | imam | tvaṣṭuḥ | janayanta | garbham | atandrāsaḥ | yuvatayaḥ | vi-bhṛtram | tigma-anīkam | su-yaśasam | janeṣu | vi-rocamānam | pari | sīm | nayanti ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 95.2)**
+
+> अतन्द्रासः स्वकार्ये जगतः पोषणेनालसा आलस्यरहिताः । जागरूका इत्यर्थः । युवतयो नित्यतरुणाः । जरामरणरहिता इत्यर्थः । एवंभूता दश प्राच्याद्या दशसंख्याका दिशो गर्भं मेघेषु गर्भरूपेणान्तर्वर्तमानं त्वष्टुर्दीप्तस्य वायोः सकाशाज्जनयन्त उत्पादयन्ति । वैद्युतमग्निमुत्पादयन्ति । यद्वा । दशसंख्याका अङ्गुलयस्त्वष्टुर्दीप्तस्य वायोर्गर्भं स्वकारणभूते वायौ गर्भरूपेण वर्तमानं । आग्नेर्हि वायुः कारणं वायोरग्निरिति श्रुतेः । एवंभूतमिममग्निमरण्योः सकाशाज्जनयन्त उत्पादयन्ति । कीदृश्योऽङ्गुलयः । अतन्द्रासः पुनःपुनः कर्मकरणे आलस्यरहिताः । युवतयोऽपृथक्कृत्य वर्तमानाः । एकस्मिन्पाणौ संहत्यावस्थिता इत्यर्थः । कीदृशमग्निं । विभृत्रं । सर्वेषु भूतेषु विहृतं । जाठररूपेण विभज्य वर्तमानमित्यर्थः । तिग्मानीकं तीक्ष्णमुखं तीक्ष्णतेजसं । अत एव हि वैद्युताग्नि दर्शने दृष्टिः प्रतिहन्यते । स्वयशसं स्वायत्तयशस्कं अतिशयेन यशस्विनमित्यर्थः । जनेषु जनपदेषु सर्वदेशेषु विरोचमानं विशेषेण दीप्यमानं । बहूनामुपकारकमित्यर्थः । एवंभूतं सीमेनमग्निं परि परितः सर्वतो नयन्ति । स्वस्वोपकाराय सर्वे जनाः स्वकीयं देशं प्रापयन्ति ॥
+
+*atandrāsaḥ svakārye jagataḥ poṣaṇenālasā ālasyarahitāḥ | jāgarūkā ity arthaḥ | yuvatayo nityataruṇāḥ | jarāmaraṇarahitā ity arthaḥ | evaṃbhūtā daśa prācyādyā daśasaṃkhyākā diśo garbhaṃ megheṣu garbharūpeṇāntarvartamānaṃ tvaṣṭur dīptasya vāyoḥ sakāśāj janayanta utpādayanti | vaidyutam agnim utpādayanti | yadvā | daśasaṃkhyākā aṅgulayas tvaṣṭur dīptasya vāyor garbhaṃ svakāraṇabhūte vāyau garbharūpeṇa vartamānaṃ | āgner hi vāyuḥ kāraṇaṃ vāyor agnir iti śruteḥ | evaṃbhūtam imam agnim araṇyoḥ sakāśāj janayanta utpādayanti | kīdṛśyo 'ṅgulayaḥ | atandrāsaḥ punaḥ punaḥ karmakaraṇe ālasyarahitāḥ | yuvatayo 'pṛthakkṛtya vartamānāḥ | ekasmin pāṇau saṃhatyāvasthitā ity arthaḥ | kīdṛśam agniṃ | vibhṛtraṃ | sarveṣu bhūteṣu vihṛtaṃ | jāṭhararūpeṇa vibhajya vartamānam ity arthaḥ | tigmānīkaṃ tīkṣṇamukhaṃ tīkṣṇatejasaṃ | ata eva hi vaidyutāgni darśane dṛṣṭiḥ pratihanyate | svayaśasaṃ svāyattayaśaskaṃ atiśayena yaśasvinam ity arthaḥ | janeṣu janapadeṣu sarvadeśeṣu virocamānaṃ viśeṣeṇa dīpyamānaṃ | bahūnām upakārakam ity arthaḥ | evaṃbhūtaṃ sīmenam agniṃ pari paritaḥ sarvato nayanti | svasvopakārāya sarve janāḥ svakīyaṃ deśaṃ prāpayanti ‖*
+
+*Sense (mine, from the Kannada that follows):* "The *atandrāsaḥ* — those without lethargy in their own work, by the nourishing of the world; the vigilant. The *yuvatayaḥ* — the ever-young, free from old age and death. Such, the ten quarters, east and the rest, beget (*janayanta*) the embryo (*garbha*), who is within the clouds in an embryonic form, from the shining Tvaṣṭṛ, the wind: they produce the lightning-fire. Or: the ten fingers beget the embryo of Tvaṣṭṛ, the shining wind — who is in an embryonic form in the wind, his own cause (for, by the scripture, 'the wind is the cause of Agni; from the wind, Agni') — they produce this Agni from the two fire-sticks. What kind of fingers? *Atandrāsaḥ*: without laziness in doing the work again and again; *yuvatayaḥ*: standing undivided, joined together in one hand. What kind of Agni? *Vibhṛtra*: borne about in all beings, distributed in the form of the digestive fire; *tigmānīka*: sharp-faced, of sharp lustre — so that the sight is struck at seeing the lightning-fire. *Svayaśas*: having fame of his own, exceedingly famous; *janeṣu*: among the peoples, in all regions, shining brightly, a benefactor of many. Him, this Agni, all the people lead all around (*pari … nayanti*): for their own benefit they carry him to their own regions."
+
+*Grammatical tail of the bhāṣya (characterized, not transcribed):* *tvaṣṭuḥ* — from the root *tviṣ* (to shine), formed by the Uṇādi rule on *naptṛ-neṣṭṛ-tvaṣṭṛ…* (Uṇ. 2-9[?] [?]) with the ending in *tṛn* given irregularly, first-syllable acute as the suffix is *ṇit*-marked [as read]; *vibhṛtram* — root *hṛñ* (to take), *niṣṭhā* in the passive, with the Vedic addition of *r*; the *gati* (*vi*) keeps its natural accent (*gatir anantaraḥ*); *bha*-substitution by *hṛgrahor bhaḥ*, or the Uṇādi suffix *ktra*; *tigmānīkam* — root *tij* (to sharpen); the *k*-substitution (*kutva*) by *yujirucitijāṃ kuś ca* (Uṇ. 1-14[?] [?]) with *mak*; *anīkam* — root *an* (breathing), *kīkan* by *anidṛśibhyāṃ ca*; bahuvrīhi with the first member's natural accent; *pari ṣīm* — *ṣatva* by *pūrvapadāt*. *(Numerals and several words of the print are small and doubtful [?].)*
+
+### Page 11 (PDF 31)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 11.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*atandrāsaḥ* — (in their own duties) wakeful, without sloth; *yuvatayaḥ* — (without old age and death) ever-youthful; *daśa* — the ten quarters, east and the rest; *garbhaṃ* — [him who is] within the clouds, in an embryonic form;"
+
+"*Or:* [*atandrāsaḥ* — without sloth in their own works, intent on what is to be done; *yuvatayaḥ* — (in one place of the hand) standing together, joined; *daśa* — the ten fingers; *garbhaṃ* — (in the wind, their own cause) being within, in an embryonic form;]"
+
+"*vibhṛtraṃ* — (distributed in the form of the digestive fire in all beings) carried about; *tigmānīkaṃ* — one with a sharp face (of sharp lustre); *svayaśasaṃ* — one with fame of his own, in excess; *janeṣu* — in all regions; *virocamānaṃ* — shining; *imaṃ* — this Agni; *tvaṣṭuḥ* — by means of the wind; *janayanta* — they made [him] arise; and *sīṃ* — this very Agni; *pari* — in all regions; *nayanti* — (people) carry off for their own purposes."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The ten quarters, east and the rest, who are wakeful and without sloth in their own constant works, and ever-young, have, through the wind, caused to arise this Agni who is in an embryonic form within the clouds, who moves in all beings as the digestive fire, who is of sharp lustre, of great fame, and who shines in all regions. This same Agni the people carry to all places, each for his own purpose."
+
+**English Translation (as printed)**
+
+> The vigilant and youthful Ten beget, through the wind, this embryo Agni, inherent (in all beings) sharp-visaged, universally renowned, shining among men ; him they conduct ( to every dwelling )
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.2 (Kannada)**
+
+"The origin of Agni is described in many places. In some contexts the original place of the origin of Agni is said to be the atmosphere, and in others the earth. The description in this Ṛk gives room for both senses. First —" *(continues on p. 12)*
+
+### Page 12 (PDF 32)
+
+*(Running head: left 12; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+"*daśa imaṃ janayanti*: 'the ten quarters, east and the rest, number ten, produce this lightning-fire (*vaidyutāgni*)': the ten quarters, east and the rest, make Agni arise. Secondly, 'the ten fingers produce Agni' (by churning, *araṇi*): so two ways of explaining are possible; for both ways there is the authority of the scripture. Since the place of origin of Agni is the atmosphere, they have made the subtle Agni appear both through the earth and the atmosphere: thus Agni's origin is described —"
+
+> स जातो गर्भो असि रोदस्योरग्ने चारुर्विभृत ओषधीषु ।
+> *sa jāto garbho asi rodasyor agne cārur vibhṛta oṣadhīṣu |*
+> (*Ṛ. Saṃ.* 10-1-2 as read)
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान ।
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpas tvaṣṭā yaṃ tvā sujanimā jajāna |*
+> (*Ṛ. Saṃ.* 10-2-7 as read [?])
+
+*(Glosses, mine and tentative: "you, Agni, are the embryo of the two worlds, lovely, borne about in the plants"; "whom heaven-and-earth, whom the waters, whom Tvaṣṭṛ, whom the well-born one begot".)* "In such contexts, it has been explained that the effort of heaven and earth is the source of Agni's origin. And in some other places —"
+
+> द्विर्यं पञ्च जीजनन्त्संवसानाः स्वसारो अग्निं मानुषीषु विक्षु ।
+> *dvir yaṃ pañca jījanan saṃvasānāḥ svasāro agniṃ mānuṣīṣu vikṣu |*
+> (*Ṛ. Saṃ.* 4-6-8 as read [?])
+
+*(Gloss, mine and tentative: "whom the two fives, sisters dwelling together, begot — Agni among the human peoples".)* "— the order of origin of the earthly Agni is explained: the ten fingers of the two hands created Agni. Therefore in this context the word *daśa* can be understood to mean either the ten quarters, which hold the earth and the atmosphere, or the ten fingers busy in the work of churning. If the 'ten quarters' sense is taken, then *atandrāsaḥ* means *svakārye jagataḥ poṣaṇe 'nalasāḥ jāgarūkāḥ* — 'unslothful, wakeful, in the duties, of protecting the world, that are their own' — and *yuvatayaḥ* means *nityataruṇyaḥ*: 'ever-young, free of old age and death'. Or, if 'ten fingers' is meant, then the epithet *atandrāsaḥ* is *punaḥ punaḥ karmakaraṇe ālasyarahitāḥ* — 'unslothful, intent on what is to be done, in doing the work again and again' — and for *yuvatayaḥ*, *ekasmin pāṇau saṃhatya avasthitāḥ*: 'standing joined together in one hand', that is, 'in one place'."
+
+***garbhaṃ*** — "Agni who is within the clouds in embryonic form (in the form of lightning):"
+
+> स ईं वृषाजनयत्तासु गर्भं स ईं शिशुर्धयति तं रिहन्ति ।
+> *sa īṃ vṛṣājanayat tāsu garbhaṃ sa īṃ śiśur dhayati taṃ rihanti |*
+> (*Ṛ. Saṃ.* 3-[?]-13 as read [?])
+
+> गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् ।
+> *garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām |*
+> (*Ṛ. Saṃ.* 1-70-3 as read; the print has *asāṃ* for *apāṃ* [?])
+
+*(Glosses, mine and tentative: "the bull begot the embryo in them; he, the babe, sucks; they lick him"; "the embryo of the waters, the embryo of the forests, the embryo of the standing and the embryo of the moving".)*
+
+### Page 13 (PDF 33)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 13.)*
+
+"— so, in describing the lightning-fire, it is said that the fire is within the waters in the form of clouds, in an embryonic form: here too the epithet of 'Agni in the form of an embryo' is said."
+
+***vibhṛtraṃ*** — *sarveṣu bhūteṣu vihṛtam | jāṭhararūpeṇa vibhajya vartamānam ity arthaḥ*: "'borne about in all beings; the sense is that he exists divided in the form of the digestive fire'. Pervading all beings in the form of the digestive fire —"
+
+> तिष्ठत्येव हि भूतानां जठरे जठरे ज्वलन् ।
+> *tiṣṭhaty eva hi bhūtānāṃ jaṭhare jaṭhare jvalan |*
+> (*Bṛ. De.* 1-6-3 as read [?])
+
+*(Gloss, mine and tentative: "he stays, blazing in the belly of every being".)* "— as the Bṛhaddevatā describes: Agni who moves in the belly of all creatures."
+
+***tigmānīkaṃ*** — *tigmaṃ tejaḥ* (Ni. 10-6 [?]): "the word *tigma* arises from the root *tij*, which means 'sharpen, make keen'. 'Of sharp face, of sharp lustre': Sāyaṇa says the lightning-fire is of such sharp lustre that it cannot be looked at. And *anīkam* is also said in the world of the face (*mukha*) of a sword (*khaḍga*); but here, because of the sharp point and because of the likeness, the flames are called so: *tīkṣṇajvālam ity arthaḥ*, 'having keen flame' is the sense. Or, 'having a mass of keen flames': so Skandasvāmin explains. The epithets *tigmaheti*, *tigmabhṛṣṭi*, *tigmajambha* are used of Agni in many contexts —"
+
+> उदग्ने तिष्ठ प्रत्या तनुष्व न्यमित्रां ओषतात्तिग्महेते ।
+> *ud agne tiṣṭha praty ā tanuṣva ny amitrāṃ oṣatāt tigmahete |*
+> (*Ṛ. Saṃ.* 4-4-4 as read [?])
+
+> सानु द्विबर्हा महि तिग्मभृष्टिः सहस्ररेता वृषभस्तुविष्मान् ।
+> *sānu dvibarhā mahi tigmabhṛṣṭiḥ sahasraretā vṛṣabhas tuviṣmān |*
+> (*Ṛ. Saṃ.* 4-5-6 as read [?])
+
+*(Glosses, mine and tentative: "rise up, Agni, stretch yourself against [them], burn up the foes, sharp-weaponed one"; "the peak, twice-strong, great, sharp-pointed, thousand-seeded, bull, mighty".)* "In many such contexts these epithets are applied to Agni and describe the nature of Agni."
+
+***svayaśasaṃ*** — *ātmanimittakīrtiṃ*: "(Agni) who has fame of his own, whose greatness is praiseworthy."
+
+***tvaṣṭuḥ janayanta*** — "They made [him] arise through Tvaṣṭṛ. Here, Sāyaṇa explains the word *tvaiṣṭṛ* [sic: *tvāṣṭra*?] as 'through the wind': setting aside the etymological sense of the word *tvaṣṭṛ*, he explains *dīptāt madhyamāt vāyoḥ* — 'through the shining wind that is in the middle world'. Here, on the strength of the meaning of the root, the tradition has it that the sense 'wind' must be understood, for…" *(continues on p. 14)*
+
+---
+
+**Progress note:** Printed pp. 1–13 done (PDF 21–33): Sūkta 95, Rik 95.1 complete; Rik 95.2: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done; its Special Topics begun (the origin of Agni; *daśa*; *garbha*; *vibhṛtra*; *tigmānīka*; *svayaśas* done) and breaking at the foot of p. 13 in the passage on *tvaṣṭuḥ janayanta* at "…the sense 'wind' must be understood, for…". Next: printed p. 14 (PDF 34). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags: the Pīṭhike's numerals and clotted citations [?]; Āś. 4-13, 6-5 and the varga numerals of Sūkta 95 [?]; the printed devatā line of Sūkta 95 [?]; the Taittirīya passage and *anyasyām ahorātrikāyām* in the bhāṣya of 95.1 [?]; Skandasvāmin's *uṣasā cātra tatsmaraṇam…* and *anyonyasya ca vatsasthānīyam agniṃ* [?]; the Ṛgveda numerals of the Special Topics of 95.1 and 95.2 (7-78-3, 1-124-8, 10-88-6, 1-113-2, 10-1-2, 10-2-7, 4-6-8, 3-[?]-13, 1-70-3, 4-4-4, 4-5-6), Tai. Ā. 1-10, Tai. Brā. 2-1-2-6, Bṛ. De. 3-14, 8-103, 1-6-3 and Nirukta 10-6 as read [?]; the Uṇādi numerals in the grammatical tail of 95.2 [?]; the print's *asāṃ* for *apāṃ* in 1-70-3; the grammar pages of 95.1 are characterized, with numerals as read [?].
