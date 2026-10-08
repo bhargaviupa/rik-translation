@@ -15202,5 +15202,89 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–529 done (PDF 16–544), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.5 complete; Rik 94.6 Saṃhitā, Pada and the first part of the Sāyaṇa-bhāṣya done, breaking at the foot of p. 529 ('…*tathā januṣā janmanā svābhāvyena purohitaḥ purastād āgāmini svargādau*'); to be continued from the head of p. 530. Next: printed p. 530 (PDF 545). Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 530 (PDF 545)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]" — as read; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+
+**Sāyaṇa-bhāṣya of Rik 94.6, continued from p. 529**
+
+> …हितोऽनुकूलाचरणोऽसि । यद्वा । सर्वेषु कर्मसु पूर्वस्यां दिश्याहवनीये स्थापितोऽसि । अथवा पुरोहितो ब्रह्मा देवपुरोहितस्य बृहस्पतेः प्रतिनिधित्वात् । तथा च मन्त्रान्तरं । बृहस्पतिर्देवानां ब्रह्माहं मनुष्याणामिति । अतस्त्वं ब्रह्मणि पूर्वदवस्थाय तद्रूपः सन् विश्वा सर्वाण्यार्त्विज्या ऋत्विजः कर्माणि आध्वर्यवादीनि विद्वान् जानंस्त्वं हे धीर प्राज्ञाग्ने पुष्यसि । न्यूनाधिकभावराहित्येन संपूर्णानि करोषि । अन्यत्समानं ॥ जनुषा । जनेरुसिः । पुरोहितः । दधातेः कर्मणि निष्ठा पूर्वाधरेत्यादिना सिप्रत्यया… पुरस्शब्दो॑ऽन्तोदात्तः । तद्धितेश्चा-सर्वविभक्तिरित्यव्ययसंज्ञायां पुरोऽव्ययमिति गतित्वाद्गतिरनंतर इति पूर्वपदप्रकृतिस्वरत्वं । आर्त्विज्या । ब्राह्मणादित्वात् ष्यञ् । ञित्त्वादाद्युदात्तत्वं ॥
+
+*…hito 'nukūlācaraṇo 'si | yadvā | sarveṣu karmasu pūrvasyāṃ diśy āhavanīye sthāpito 'si | athavā purohito brahmā devapurohitasya bṛhaspateḥ pratinidhitvāt | tathā ca mantrāntaraṃ | bṛhaspatir devānāṃ brahmāhaṃ manuṣyāṇām iti | atas tvaṃ brahmaṇi pūrvad avasthāya tadrūpaḥ san viśvā sarvāṇy ārtvijyā ṛtvijaḥ karmāṇi ādhvaryavādīni vidvān jānaṃs tvaṃ he dhīra prājñāgne puṣyasi | nyūnādhikabhāvarāhityena saṃpūrṇāni karoṣi | anyat samānaṃ ‖ januṣā | janer usiḥ | purohitaḥ | dadhāteḥ karmaṇi niṣṭhā pūrvādharetyādinā si-pratyayā… purśabdo 'ntodāttaḥ | taddhiteś cāsarvavibhaktir ity avyayasaṃjñāyāṃ puro 'vyayam iti gatitvād gatir anantara iti pūrvapadaprakṛtisvaratvaṃ | ārtvijyā | brāhmaṇādittvāt ṣyañ | ñittvād ādyudāttatvaṃ ‖*
+
+*Gloss (mine, from the Kannada and the bhāṣya as printed):* "… 'one of favourable conduct'. Or: in all rites you are placed in the Āhavanīya fire in the eastern quarter. Or, the *purohita* is the Brahman priest, as the deputy of Bṛhaspati, the *purohita* of the gods. And as another mantra has it: 'Bṛhaspati is the Brahman of the gods, I of men.' So, abiding in the Brahman as before and taking that form, you, being learned in all the priestly duties — the Adhvaryu duties and the rest — O wise Agni, you cause the rite to thrive: you perform them complete, without lack or excess. The rest is as before." Grammatical tail: *januṣā* from *jan* with the Uṇādi suffix *usi*; *purohitaḥ* from *dadhāti* with the participial suffix (*niṣṭhā*) in the passive, the *si* suffix and the word *pur(s)* as read, final-acute; *puras* as an indeclinable by the rule on *taddhita* and non-all-case-endings, a *gati* by 'puro 'vyayam', hence the accent of the prior member by 'gatir anantaraḥ'; *ārtvijyā* with *ṣyañ* by the *brāhmaṇādi* group, first-vowel acute through the *ñ*-marker. *(The print of the grammatical tail is clotted in places; the sūtra numbers are not legible at this size and are not supplied; one clause after "si-pratyayā" is lost in the print [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*agne*) — O Agni; *tvam* — you; *adhvaryuḥ* — (in the sacrifice) the Adhvaryu, or the performer of the ordained rites; *uta* — and; *pūrvyaḥ* — principal; *hotā* — as Hotṛ, (or the one who gives the invocation to the gods); *asi* — you are; *praśāstā* — (in the sacrificial act) the one who gives instruction to all, or the one in the Maitrāvaruṇa station; *potā* — (the purifier of the sacrifice, or the one who completes the rite) as Potṛ; *januṣā* — by nature; *purohitaḥ* — one whose conduct is favourable to those who come later in heaven and the like, or the *purohita* of the gods; *viśvā* — all; *ārtvijyā* — the duties of the priests; *vidvān* — knowing; *dhīra* — O wise one; *agne* — O Agni; *puṣyasi* — (without the least lack or excess) you bring the sacrifice to completion with all its parts; *tava* — your; *sakhye* — through friendship; *vayaṃ* — we; *mā riṣāma* — may we not suffer harm."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, you are in the sacrifice the Adhvaryu, the principal Hotṛ, one who occupies the Maitrāvaruṇa station and the Potṛ station, and by nature the *purohita*. Being wise, you know the duties of all the priests, and so bring the sacrifice to completion with all its parts, without the least lack or fault. Because of friendship with you, may we suffer no harm."
+
+**English Translation (as printed)**
+
+> You are the sacrificing or the invoking priest, you are the principal (presenter of the offering) the director ( of the ceremonies ), their performer *(continues on p. 531)*
+
+### Page 531 (PDF 546)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 531.)*
+
+> or by birth the family priest ; thus conversant with all the priestly functions, you make the rite perfect ; Agni, let us not suffer injury through your friendship.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Kannada)**
+
+***adhvaryu, hotṛ, praśāstṛ, purohita*** — "The varieties of priests named in 'adhvaryu, hotṛ, praśāstṛ, purohita…' have been explained in detail in earlier volumes. Since Agni, the god, is the king of the rites (*adhvara*), since he bears the whole burden of carrying them through, since he invites the gods so that they come to the sacrifice, since he makes the offered oblation into portions, and since he supplies to the gods and to the sacrificers, each according to their wish, the fruits that satisfy them, he is praised in the words *viśvā ārtvijyā vidvān dhīra agne puṣyasi* — that he knows well the duties of all the priests and carries the sacrifice through in full without the least lack or excess."
+
+Citations of the Ṛgveda (Kannada script, read letter by letter; the small numerals as read, doubtful [?]):
+
+> केतुं यज्ञानां विदथस्य साधनं विप्रासो अग्निं महयन्त चित्तिभिः ।
+> *ketuṃ yajñānāṃ vidathasya sādhanaṃ viprāso agniṃ mahayanta cittibhiḥ |*
+> (*Ṛ. Saṃ.* 3-[?]-[?] [?], as read "३-३-३")
+
+*(Gloss, mine and tentative: "the sages honour Agni with their thoughts — the banner of the sacrifices, the accomplisher of the assembly's rite".)*
+
+> स केतुरध्वराणामग्निर्देवेभिरा गमत् ।
+> *sa ketur adhvarāṇām agnir devebhir ā gamat |*
+> (*Ṛ. Saṃ.* 3-10-4 as read [?])
+
+*(Gloss, mine and tentative: "he, the banner of the rites, Agni, may come with the gods".)*
+
+> आ वो राजानमध्वरस्य रुद्रं होतारं सत्ययजं रोदस्योः ।
+> *ā vo rājānam adhvarasya rudraṃ hotāraṃ satyayajaṃ rodasyoḥ |*
+> (*Ṛ. Saṃ.* 4-3-1 as read [?])
+
+*(Gloss, mine and tentative: "to you, the king of the rite, Rudra, the Hotṛ of true sacrifice for the two worlds".)*
+
+> होतारं चित्ररथमध्वरस्य यज्ञस्ययज्ञस्य केतुं रुशन्तम् ।
+> *hotāraṃ citrarathm adhvarasya yajñasya-yajñasya ketuṃ ruśantam |*
+> (*Ṛ. Saṃ.* 10-1-5 as read [?])
+
+*(The print reads* citrarathm *as given; presumably* citrarathaṃ *[?]. Gloss, mine and tentative: "the Hotṛ of the bright chariot, of the rite, the banner of every sacrifice, the shining one".)*
+
+> सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
+> *sadyo jāto vy amimīta yajñam agnir devānām abhavat purogāḥ |*
+> (*Ṛ. Saṃ.* 10-110-11 as read [?])
+
+*(Gloss, mine and tentative: "at once on being born Agni measured out the sacrifice and became the forerunner of the gods".)*
+
+"Thus in the Ṛksaṃhitā, in hundreds of contexts, Agni is praised in many ways as the king of the rites, as the one who accomplishes the duties of all the priests, and as the helper by whom the sacrifice is brought to completion with all its parts."
+
+***januṣā*** — "Meaning *janmanā*, 'by birth', that is, by nature. As in the Ṛk Ṛ. Saṃ. 10-110-11 [?] [just cited], the scriptural sentence says that Agni, as soon as he was born, made manifest the power of carrying the sacrifice through, and became the *purohita* of the gods."
+
+***praśāstā*** — "*prakarṣeṇa śāstā, śikṣakaḥ*: 'you are the instructor' — one who gives the best instruction to the priests and to the sacrificers. Or, *praśāstṛ* is the priest in the Maitrāvaruṇa station, the assistant of the Hotṛ." *(continues on p. 532)*
+
+### Page 532 (PDF 547)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+
+***potā*** — *yajñasya pāvayitā*: "the purifier of the sacrifice; one who makes the sacrifice pure; or the assistant of the priest in the Brahman's station."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*
+
+*hotā* — root *hu* (giving, eating), suffix *tṛn* in the agent sense, guṇa of the root; initial acute by *ñnityādir nityam*. *praśāstā* — root *śās* (instruct), suffix *tṛc*, final acute by *cit*-ness. *januṣā* — root *jan* (to be born), Uṇādi suffix *usi*; the *u* acute by the suffix accent. *puroḥitaḥ* — *dhāñ* (holding, nourishing) with *kta*, replaced by *hi* by *dadhāter hiḥ* (Pā. [?]); *pur* by the suffix *asi* in the sense of *pūrvādharāvarāṇām asipuradhavaś caiṣām* (Pā. [?]), giving the word *puras*, final-acute; indeclinable status by *taddhitaś cāsarvavibhaktiḥ* (Pā. 1-1-38 [?]) and *puro 'vyayam* (Pā. 1-4-67 [?]); *gati* status, hence the accent of the first member by *gatir anantaraḥ* (Pā. 6-2-49 [?]); the *o* of *puroḥitaḥ* acute. *viśvā* — neuter plural: *śi* in place of *śas*, elided by *śeś chandasi bahulam*. *ārtvijyā* — "the priest's (rites)": by inclusion in the *brāhmaṇa* group, *ṣyañ* by *guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca* (Pā. 5-1-124 [?]); vṛddhi of the first vowel by *taddhiteṣv acām ādeḥ*; *ṛ* turned to *ra* as read; initial acute by *ñit*; elision of *śi* as before. *vidvān* — root *vid* (to know), *śatṛ* in the sense of the present, replaced by *vasu* by *vido laṭo vā* / *vide śatur vasuḥ* (Pā. 3-2-[?] [?]); the stem *vidvas*; the nominative *su* following, lengthening of the vowel by *sāv anantasya*; *num* augment by *ugit*-ness; elision of *su* by *hal ṅyābbhyaḥ…*, elision of the final consonant by *saṃyogāntasya lopaḥ*. *(Grammar page, noted briefly; the sūtra numbers are small and were not chased; those shown are as read, doubtful.)*
+
+---
+
+**Progress note:** Printed pp. 1–532 done (PDF 16–547), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.6 complete (94.6 ends on p. 532 with its grammar page; Special Topics citations 3-3-3, 3-10-4, 4-3-1, 10-1-5, 10-110-11 as read [?]; the bhāṣya of 94.6 clotted at *pūrvaddhotar*, *hotṛsya*, *hotāmukhyaḥ* and in the grammar tail after *si-pratyayā* [?]). Next: printed p. 533 (PDF 548), Rik 94.7. Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
