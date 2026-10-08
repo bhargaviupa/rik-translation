@@ -5716,4 +5716,110 @@ Closing of Rik 86.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–206 done (PDF 16–221) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.6 complete**; **Rik 86.7** — Saṃhitā done (foot of p. 206); next: its Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then 86.8–86.10 (the sūkta ends about p. 214). Next: printed p. 207 (PDF 222). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 207 (PDF 222)
+
+*(Running head left: "A. 1 A. 6 Va. 12 [?]"; centre: "Ṛgvedasaṃhitā"; right: 207. )*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.7)**
+
+> सुऽभगः । सः । प्रऽयज्यवः । मरुतः । अस्तु । मर्त्यः ।
+> यस्य । प्रयांसि । पर्षथ ॥ ७ ॥
+
+*su-bhagaḥ | saḥ | pra-yajyavaḥ | marutaḥ | astu | martyaḥ | yasya | prayāṃsi | parṣatha ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.7)**
+
+> हे प्रयज्यवः प्रकर्षेण यष्टव्या मरुतः स मर्त्यो मनुष्यो यजमानः सुभगोऽस्तु । शोभनधनो भवतु । यस्य यजमानस्य प्रयांसि हविर्लक्षणान्यन्नानि पर्षथ आत्मनि सिञ्चथ । स्वीकुरुतेत्यर्थः ॥ सुभगः । भग इति धननाम । शोभनो भगो यस्य । क्रत्वादयश्चेत्युत्तरपदाद्युदात्तत्वम् [?] । पर्षथ । पृषु वृषु मृषु सेचने । भौवादिकः । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः ॥
+
+*he prayajyavaḥ prakarṣeṇa yaṣṭavyā marutaḥ sa martyo manuṣyo yajamānaḥ subhago 'stu | śobhanadhano bhavatu | yasya yajamānasya prayāṃsi havirlakṣaṇāny annāni parṣatha ātmani siñcatha | svīkurutety arthaḥ ‖ subhagaḥ | bhaga iti dhananāma | śobhano bhago yasya | kratvādayaś cety uttarapadādyudāttatvam [?] | parṣatha | pṛṣu vṛṣu mṛṣu secane | bhauvādikaḥ | yadvṛttān nityam iti nighātapratiṣedhaḥ ‖*
+
+*(Kannada script; the sūtra-wording after* subhagaḥ *is read with doubt [?].)*
+
+*Translation:* "O *prayajyavaḥ* — Maruts, to be worshipped to the highest degree — may that mortal, that man, the sacrificer, be *subhagaḥ* — possessed of fine wealth — whose *prayāṃsi*, food of the nature of oblations, you *parṣatha* — pour into yourselves; that is, accept. *Subhagaḥ* — *bhaga* is a name of wealth; he who has fine *bhaga*. *Parṣatha* — *pṛṣu, vṛṣu, mṛṣu* in the sense of sprinkling, Bhvādi; no *nighāta* because of the *yat*-type word [*yasya*] before it."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.7)** *(Kannada)*
+
+*prayajyavaḥ* — (those) fit for the most excellent sacrifices; *marutaḥ* — O Maruts; *yasya* — of which sacrificer; *prayāṃsi* — the foods of the nature of oblations; *parṣatha* — you accept for drinking; *saḥ* — that mortal, the sacrificer; *subhagaḥ* — one who has excellent wealth; *astu* — let him be.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.7** *(Kannada)*
+
+"O Maruts, you are worthy of excellent sacrifices. Whichever sacrificer's food of the nature of oblations you accept for drinking, may that man, the sacrificer, be possessed of excellent riches."
+
+**English Translation** *(printed in English in the source)*
+
+"O Maruts, who are to be especially worshipped, may the man whose offering you accept be ever prosperous." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.7)**
+
+- **प्रयज्यवः** — *prakarṣeṇa yaṣṭavyāḥ* — "worshipped well with sacrifices; worthy of sacrifices." *(continues on p. 208)*
+
+---
+
+### Page 208 (PDF 223)
+
+*(Running head: "208 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+*Special Topics of Rik 86.7, continued from p. 207:*
+
+- **प्रयांसि** — "among the twenty-eight names of food — *andhaḥ, vājaḥ* and the rest — the word *prayaḥ* is read; hence *prayāṃsi* means foods endowed with the nature of oblations (Ni. 2-[7] [?])."
+- **पर्षथ** — *pṛṣu, vṛṣu, mṛṣu secane | siñcatha | prāpnuthā | svīkarasi* — "'you pour; you obtain': the meaning is 'you accept'."
+- **सुभगः** — "*maghaṃ, reknaḥ* and the rest — among the twenty-eight names of wealth, the word *bhagaḥ* is read (Ni. 2-[10] [?]); so *subhagaḥ* means one who has excellent wealth."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.7)** *(grammar page, noted briefly)*
+
+- **सुभगः** — *śobhano bhago (dhanam) yasya subhagaḥ*; the accent that would come by "नञ्सुभ्याम्" is set aside, and by "क्रत्वादयश्च" (*kratvādayaś ca*, Pā. Sū. 6-2-[118]) the first syllable of the latter member is acute.
+- **प्रयज्यवः** — by "आमन्त्रितस्य च" the *nighāta* accent.
+- **अस्तु** — the root *as bhuvi*, Adādi; *loṭ*, third person singular; by "एरुः" the *u*; the *nighāta* of the *tiṅanta*.
+- **पर्षथ** — the root *pṛṣu vṛṣu mṛṣu secane*, Bhvādi; *laṭ*, second person plural; since *śap* follows, the *guṇa* of the *laghūpadha* of the root; since *yasya* precedes, by "यद्वृत्तान्नित्यम्" the *nighāta* is prohibited; since the root has an unaccented *upadeśa*, the *lasārvadhātuka* ending (*tha*) is unaccented by "तास्यनुदात्तेत्", so the root accent remains.
+
+Closing of Rik 86.7: "॥ ७ ॥" (7), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.8)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> शशमानस्य वा नरः स्वेदस्य सत्यशवसः ।
+> विदा कामस्य वेनतः ॥ ८ ॥
+
+*śaśamānasya vā naraḥ svedasya satyaśavasaḥ | vidā kāmasya venataḥ ‖ 8 ‖*
+
+*Gloss, mine and tentative:* "O leaders of true strength, know the desire of the praiser, of the one who sweats [toiling], who longs [for you]."
+
+---
+
+### Page 209 (PDF 224)
+
+*(Running head left: "A. 1 A. 6 Va. 12 [?]"; centre: "Ṛgvedasaṃhitā"; right: 209. Foot: printer's signature "[?]1 … Volume 7".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.8)**
+
+> शशमानस्य । वा । नरः । स्वेदस्य । सत्यऽशवसः ।
+> विद । कामस्य । वेनतः ॥ ८ ॥
+
+*śaśamānasya | vā | naraḥ | svedasya | satya-śavasaḥ | vida | kāmasya | venataḥ ‖ 8 ‖*
+
+*(The Saṃhitā prints* vidā*, the Pada* vida*; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.8)**
+
+> हे सत्यशवसोऽवितथबला नरो नेतारो मरुतः शशमानस्य युष्मान् स्तुतिभिः सम्भजमानस्य स्वेदस्य स्रावकमन्त्रोच्चारणजनितेन श्रमेण स्विद्यमानगात्रस्य वेनतः । वेनतिः कान्तिकर्मा । कामयमानस्य । वाशब्दः समुच्चये । एवम्भूतस्य स्तोतुश्च कामस्य कामम् अभिलाषं विद । लम्भयत । प्रयच्छेत्यर्थः ॥ शशमानस्य । शश प्लुतगतौ । ताच्छील्यकश्चानश् । स्वेदस्य । ञिष्विदा गात्रप्रक्षरणे । अन्तर्भावितण्यर्थात्कर्मणि घञ् । ञित्त्वादाद्युदात्तत्वम् । विद । विद्लृ लाभे । लोटि मध्यमपुरुषबहुवचनस्य व्यत्ययेन झादेशः [?] । बहुलं छन्दसीति विकरणस्य लुक् । झस्यादेशः । लोपस्त आत्मनेपदेष्विति तलोपः । प्रत्ययाद्युदात्तत्वम् । पादादित्वान्निघाताभावः । व्येचोतेस्तृज इति संहितायां दीर्घः [?] । कामस्य । वृषादिषु पाठादाद्युदात्तत्वम् । क्रियाग्रहणं कर्तव्यमिति कर्मणः सम्प्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥
+
+*he satyaśavaso 'vitathabalā naro netāro marutaḥ śaśamānasya yuṣmān stutibhiḥ sambhajamānasya svedasya srāvakamantroccāraṇajanitena śrameṇa svidyamānagātrasya venataḥ | venatiḥ kāntikarmā | kāmayamānasya | vāśabdaḥ samuccaye | evambhūtasya stotuś ca kāmasya kāmam abhilāṣaṃ vida | lambhayata | prayacchety arthaḥ ‖ śaśamānasya | śaśa plutagatau | tācchīlyakaś cānaś | svedasya | ñiṣvidā gātrapraksaraṇe | antarbhāvitaṇyarthāt karmaṇi ghañ | ñittvād ādyudāttatvam | vida | vidḷ lābhe | loṭi madhyamapuruṣabahuvacanasya vyatyayena jhādeśaḥ [?] | bahulaṃ chandasīti vikaraṇasya luk | jhasyādeśaḥ | lopas ta ātmanepadeṣv iti talopaḥ | pratyayādyudāttatvam | pādāditvān nighātābhāvaḥ | vyecotes tṛja iti saṃhitāyāṃ dīrghaḥ [?] | kāmasya | vṛṣādiṣu pāṭhād ādyudāttatvam | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ sampradānatvāc caturthyarthe ṣaṣṭhī ‖*
+
+*(Kannada script; the grammatical tail of this bhāṣya is cramped; "jhādeśaḥ" and "vyecotes tṛja" are read with doubt [?].)*
+
+*Translation:* "O *satyaśavasaḥ* — of unfailing strength — O leaders, Maruts: of the one who praises (*śaśamānasya*), who attends on you with praises, of *svedasya* — one whose body sweats from the exertion of uttering the mantras — *venataḥ* (*venatiḥ* is 'to desire'), one who longs: and (*vā* is in the sense of 'and') of such a praiser, *kāmasya* — the desire (*kāmam*), the wish: *vida* — grant, give. *Grammar tail, noted briefly:* *śaśamānasya* — *śaśa plutagatau*, with the habit-affix *cānaś*; *svedasya* — *ñiṣvidā gātrapraksaraṇe*, with *ghañ* in the passive for a causative sense contained within; first syllable acute since it is *ñit*; *vida* — *vidḷ lābhe*, *loṭ*, second-person plural, by *vyatyaya* the substitute (*jha*-type) [?], the *vikaraṇa* elided by "bahulaṃ chandasi", loss of *ta* by "lopas ta ātmanepadeṣu", the affix-accent; no *nighāta* at the beginning of a *pāda*; lengthening in the Saṃhitā [hence *vidā* in the Saṃhitā] [?]; *kāmasya* — by its place in the *vṛṣādi* list, first syllable acute; the genitive in the sense of the dative, because the object is a recipient."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.8)** *(Kannada)*
+
+*satyaśavasaḥ* — those of unfailing strength; *naraḥ* — O Maruts, who are leaders; *śaśamānasya* — (you) who worship with praises; *svedasya* — who toils (with the exertion of your worship) and sweats; *venataḥ* — who longs for (your favour); *kāmasya* — the wish; *vida* — knowing (and favour it).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.8** *(Kannada)*
+
+"O Maruts, of unfailing strength, who are leaders: knowing the wish of your devotee — who worships you with praises, always toils in your service of worship, and longs for your favour — grant it."
+
+**English Translation** *(printed in English in the source)*
+
+"Possessors of true vigor, pay attention to the wishes of him who praises you and toils in your service desiring your favour." — as printed.
+
+---
+
+**Progress note:** Printed pp. 1–209 done (PDF 16–224) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.7 complete**; **Rik 86.8** done through its English (p. 209); next: its Special Topics and grammar page, then 86.9 and 86.10 (the sūkta ends about p. 214). Next: printed p. 210 (PDF 225). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on p. 208 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā "vidā" vs Pada "vida" in 86.8; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
