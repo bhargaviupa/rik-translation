@@ -2593,4 +2593,114 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–85 done (PDF 21–105): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.3 complete (96.3's Special Topics on pp. 81–83, grammar on pp. 83–84); Rik 96.4: Saṃhitā, Pada and the Sāyaṇa-bhāṣya (with its grammatical tail, p. 85) done. Next: printed p. 86 (PDF 106) — the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 96.4, then Rik 96.5. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–85) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.3 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82 (*ratho na vikṣv ṛñjasāna…*), the print's *prota* for *potrād* (p. 82) and the Ṛgveda numerals throughout [?]; in 96.4 the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 86 (PDF 106)
+
+*(Running head: left 86; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 96.4 (Kannada)**
+
+"*mātariśvā* — (the maker of the whole world) the dweller in the atmosphere; *puruvārapuṣṭiḥ* — one whose growth is desired by many; *svarvit* — (through the sacrifice) one who joins to heaven; *viśāṃ* — of all the peoples; *gopāḥ* — the protector; *rodasyoḥ* — of heaven and earth; *janitā* — the begetter; *saḥ* — that Agni; *tanayāya* — for our son; *gātuṃ* — the path (of the performance of sacrifice); *vidat* — let him cause to be known; *draviṇodām* — the giver of wealth; *agniṃ* — Agni; *devāḥ* — the priests; *dhārayan* — (in the Gārhapatya and other forms) kept."
+
+"*Or:* *devāḥ* — the gods, Indra and the others; *agniṃ* — Agni; *draviṇodām* — (in the form of oblations) one who distributes wealth; *dhārayan* — they kept (in the office of messenger)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"May Agni — who dwells in the atmosphere, the maker of the whole world; whose growth is desired by many; who joins [the sacrificer] to heaven through the sacrifice; the protector of all peoples, and the begetter of heaven and earth — make known to our son the path of the performance of sacrifice. The gods, Indra and others, have set Agni in the office of messenger who distributes wealth in the form of oblations."
+
+**English Translation (as printed)**
+
+> May Agni, the dweller in the firmament, the nourisher with abundant benefits, the bestower of Swarga, the protector of mankind, the progenitor of heaven and earth, instruct my sons in the right way ; the gods retain Agni as the giver of (sacrificial) wealth.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.4 (Kannada)**
+
+"With five epithets here the nature and capacity of Agni are praised, and it is prayed that such an Agni should give to us and to our descendants the right understanding for sacrificial rites such as the *yajña* and *yāga*."
+
+***mātariśvā*** — *mātari sarvasya jagato nirmātari antarikṣe śvasan vartamānaḥ*: "'Agni who dwells, breathing, in the atmosphere, the maker of all the world, in the mother', thus Sāyaṇa, as an epithet of Agni; and since *mātariśvasambandhād agnir eva mātariśvety ucyate* ('from the connexion with Mātariśvan, Agni himself is called Mātariśvan'), Skandasvāmin explains that Agni too has the name Mātariśvan, because Mātariśvan [Vāyu] is the cause of Agni's manifestation. In this there is room for both meanings."
+
+### Page 87 (PDF 107)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 87.)*
+
+> उदस्तम्भीत्समिधा नाकमृष्वो ऽग्निर्भवन्नुत्तमो रोचनानाम् ।
+> *ud astambhīt samidhā nākam ṛṣvo 'gnir bhavann uttamo rocanānām |*
+> (*Ṛ. Saṃ.* 3-5-10 as read [?])
+
+"From such descriptions — that Agni with his radiance shone in the atmosphere more excellently than all the luminaries — the first meaning is arrived at. And on the basis of the second half of the same Ṛk,"
+
+> यदी भृगुभ्यः परि मातरिश्वा गुहा सन्तं हव्यवाहं समीधे ।
+> *yad ī bhṛgubhyaḥ pari mātariśvā guhā santaṃ havyavāhaṃ samīdhe |*
+> (*Ṛ. Saṃ.* 3-5-10 as read [?])
+
+*(Gloss, mine and tentative: "when Mātariśvan kindled the oblation-bearer who was hidden in secret, for the Bhṛgus".)* "— since in this sentence Mātariśvan is described as the cause of the manifestation of Agni, the second meaning also can be said, on this authority."
+
+***puruvārapuṣṭiḥ*** — *bahubhir varaṇīyā abhivṛddhir yasya saḥ*: "'one whose growth is to be desired by many': the epithet is because many people desire Agni's growth: for, since he distributes the oblations among the deities and gives them satisfaction, the gods desire his growth —"
+
+> महाँ अस्यध्वरस्य प्रकेतो न ऋते त्वदमृता मादयन्ते ।
+> *mahām̐ asy adhvarasya praketo na ṛte tvad amṛtā mādayante |*
+> (*Ṛ. Saṃ.* 2-1-[?] as read [?])
+
+*(Gloss, mine and tentative: "you are the great banner of the rite; without you the immortals are not gladdened".)* "— since it is stated plainly that without Agni the deities have no satisfaction at all, the deities desire the growth of Agni; and likewise, since Agni is the one who gives the fruits of every good fortune of sacrificial and other rites, men desire the growth of Agni. Therefore the epithet *puruvārapuṣṭiḥ* is given."
+
+***svarvit*** — *svaḥ svargasya yogadvāreṇa lambhayitā*: "'one who makes [the sacrificer] attain heaven through the door of union (*yoga*)': Sāyaṇa says: 'one who joins the performers of the sacrifice to heaven by means of sacrifices and the like'. Skandasvāmin explains it: *sarvasya veditā*, 'the knower of all':"
+
+> अग्निष्ट्वा विश्वा भुवनानि वेद महद्देवानामसुरत्वमेकम् ।
+> *agniṣ ṭvā viśvā bhuvanāni veda mahad devānām asuratvam ekam |*
+> (*Ṛ. Saṃ.* 3-5[5]-10 as read [?])
+
+> स हि वेदा वसुधितिं महाँ आरोधनं दिवः ।
+> *sa hi vedā vasudhitiṃ mahām̐ ārodhanaṃ divaḥ |*
+> (*Ṛ. Saṃ.* 4-5-[?] as read [?])
+
+*(Glosses, mine and tentative: "Agni knows all the worlds; one great asura-hood of the gods"; "for he knows the great treasure-house, the rampart of heaven".)* "— since Agni is praised as one who knows everything, the second meaning too holds."
+
+***viśāṃ gopāḥ*** — *sarvāsāṃ prajānāṃ rakṣitā*: "'the protector of all the peoples'. In many places such as Ṛ. 1-[?]-[?]; 5-[?]-[?]; 1-[?]0-[?]1; 3-[?]-8; 3-[?]-[?]5 the expressions *viśpatiḥ*, *viśāṃ* [*gopāḥ*] occur." *(continues on p. 88)*
+
+### Page 88 (PDF 108)
+
+*(Running head: left 88; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+"*gopāḥ*, *viśāṃ pura etā* and so on: as there is the description that Agni is the protector of peoples, here too he is praised: *viśāṃ gopāḥ*."
+
+***rodasyoḥ janitā*** — *dyāvāpṛthivyoḥ utpādayitā*: "the maker of heaven and earth. In the explanations of the Ṛks in the former Ṛks it was shown, by quoting certain scriptural sentences, that Agni arises from heaven and earth; in just the same way, in some other places Agni is praised as the producer of those two —"
+
+> वि यो रजांस्यमिमीत सुक्रतुर्वैश्वानरो वि दिवो रोचना कविः ।
+> परि यो विश्वा भुवनानि पप्रथेऽदब्धो गोपा अमृतस्य रक्षिता ॥
+> *vi yo rajāṃsy amimīta sukratur vaiśvānaro vi divo rocanā kaviḥ |*
+> *pari yo viśvā bhuvanāni paprathe 'dabdho gopā amṛtasya rakṣitā ‖*
+> (*Ṛ. Saṃ.* 6-7-7 as read [?])
+
+*(Gloss, mine and tentative: "who measured out the realms, the wise Vaiśvānara, the poet, [measured] the lights of heaven; who spread over all the worlds, unharmed, the guardian, the protector of the immortal".)* "— in such Ṛks it is described that Agni measured out the worlds and all the spheres of radiance in the atmosphere."
+
+***gātum*** — *anuṣṭhānamārgaṃ*: "so Sāyaṇa explains; and Skandasvāmin '*devalokagamanamārgam*' — 'the path of going to the world of the gods'. As is the case with the word *sugam* in the particular topics of Ṛk 1-[?]-[?] [in the former sūkta], so this word has the earthly and the ethical meanings. In both, the word is used: in the Ṛks 2-[?]-[?]; 8-[?]-[?]; 8-[?]-10; 3-[?]-[?] and others the word *gātu* is used in various senses: 'path', 'house' (in 5-3[?]-10…), 'the earth', and 'praise' (in 4-[?]-6). Here, 'may Agni show the path of the performance of sacrifices', that is, 'give good understanding', is the sense."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.4)** *(grammar pages, pp. 88–89, noted briefly; numerals small and doubtful [?])*
+
+***mātariśvā*** — this is formed by *śvanuksan…* (Uṇ. 1-1[5]2 [?]): when the word *mātṛ* is the upapada, the suffix *kanin* arises after the root *śvas* (to breathe), and it is stated as irregular (*nipātana*); therefore the case-ending is not elided in the first member (*mātari*); with *su* following, the lengthening of the penultimate (before the *n* ending) by *nāntopadhāyā*… — ***vidat*** — root *vidḷ* (to obtain); here, since the causer's action is shown, it is to be taken as containing the causative sense; *luṅ* in the sense of *loṭ* by *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 [?]); third person singular, *tip*; *itaś ca* (Pā. 3-4-100 [?]) elides its *i*; since the root has the *ḷ*-marker, *aṅ* in place of *cli* by *puṣādidyutādyḷdit…* (Pā. 3-1-55 [?]); since it is *ṅit*, no guṇa of the light penultimate; by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 [?]) the augment *aṭ* does not arise; since the verb stands at the beginning of a pāda, the *nighāta* is blocked by *āsādau* [?]; the *aṅ* suffix's accent.
+
+### Page 89 (PDF 109)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 89.)*
+
+*Grammar of Rik 96.4, concluded (noted briefly):* ***viśām*** — since it is of one syllable, the case-ending acute by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 [?]). — ***janitā*** — root *janī* (to arise); since the causer's action is shown, *ṇic* by *hetumati ca*; vṛddhi of the penultimate; *mit* by *janījṛṣknasurañjo 'mantāś ca*, so *mitāṃ hrasvaḥ* (Pā. 6-4-92 [?]) shortens the penultimate; after the *ṇijanta* root, *tṛc* in the agent sense; *iṭ* by *ārdhadhātukasyeḍ valādeḥ* (Pā. 7-2-35 [?]); since *iṭ* has been given, the elision of *ṇi* would not arise, but by *janitā mantre* (Pā. 6-4-53 [?]) the elision of *ṇi* is stated irregularly; the form *janitā*; since it is *cit* [*tṛc*], the final acute by *citaḥ*. — ***gātum*** — root *gai* (to sing); *ā* for the root-final by *ādeca upadeśe 'śiti* (Pā. 6-1-45 [?]); *tuc* [*tu*] as an Uṇādi suffix; the accusative singular. ‖ 4 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 5
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.5)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची ।
+> द्यावाक्षामा रुक्मो अन्तर्वि भाति देवा अग्निं धारयन्द्रविणोदाम् ॥ ५ ॥
+
+*naktoṣāsā varṇam āmemyāne dhāpayete śiśum ekaṃ samīcī | dyāvākṣāmā rukmo antar vi bhāti devā agniṃ dhārayan draviṇodām ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.5)** *(begun at the foot of p. 89; continues on p. 90)*
+
+> नक्तोषसा । वर्णम् । आमेम्याने इत्याऽमेम्याने । धापयेते इति । शिशुम् । एकम् । समीची इति सम्ऽईची ।
+> *naktoṣasā | varṇam | āmemyāne ity ā-memyāne | dhāpayete iti | śiśum | ekam | samīcī iti sam-īcī |*
+
+---
+
+**Progress note:** Printed pp. 1–89 done (PDF 21–109): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.4 complete (96.4's Special Topics on pp. 86–88, grammar on pp. 88–89); Rik 96.5: Saṃhitā and the first lines of the Pada (foot of p. 89). Next: printed p. 90 (PDF 110) — the rest of the Pada of 96.5, its bhāṣya, and Rik 96.6 to follow. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–89) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.3 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82 (*ratho na vikṣv ṛñjasāna…*), the print's *prota* for *potrād* (p. 82) and the Ṛgveda numerals throughout [?]; in 96.4 the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* [?] and the many Ṛgveda numerals of pp. 86–88 (read from small print, several illegible) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
