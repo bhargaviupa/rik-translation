@@ -6325,4 +6325,80 @@ Closing of Rik 87.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–224 done (PDF 16–239) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1 complete**; **Rik 87.2** done through the Special Topics and the first three entries of its grammar page (ending mid-entry at *yayim*, p. 224); the rest of the grammar follows on p. 225, then 87.3–87.6. Next: printed p. 225 (PDF 240). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10 and 87.2 (*ukṣatā/ukṣata*); a stray closing numeral "३" on p. 223; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 225 (PDF 240)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 225. Foot: printer's signature "15 … Volume 7".)*
+
+*Vyākaraṇa-prakriyā of Rik 87.2, concluded from p. 224 (grammar, noted briefly):*
+
+- **ययिम्** (cont.) — "…since the affix *kit* follows, by "आतो लोप इटि च" (Pā. Sū. 6-4-[64]) the loss of the *ā* of the root; by the affix-accent the final acute; accusative singular."
+- **पथा** — the word *pathin*; in the instrumental singular the case-ending *ṭā*; by "यचि भम्" (*yaci bham*) the *bha* designation; so by "भस्य टेर्लोपः" (Pā. Sū. 6-4-[144]) the loss of the *ṭi* part (*in*); since *aj*-initial unaccented follows, by "अनुदात्तस्य च यत्रोदात्तलोपः" (Pā. Sū. 6-1-[158]) the case-ending is acute.
+- **श्चोतन्ति** — the root *ścyutir kṣaraṇe*; *laṭ*, third person plural, the affix *jhi*, for it by "झोऽन्तः" the substitute *ant*; by Vedic usage the *y* of the root is dropped; since the verb stands at the beginning of a *pāda*, no *nighāta*; since by "तास्यनुदात्तेत्" the *lasārvadhātuka* is unaccented, the root's accent remains.
+- **उक्षत** — the root *ukṣa secane*; *loṭ*, second person plural; since *laṅ*-like ṅit-ness is there, by "तस्थस्थमिपां तान्तन्तामः" the substitute *ta*; since it is not *pit* [as printed "sārvadhātukam apit"], *jit*-ness [?]; in the Saṃhitā text, by "ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम्" (Pā. Sū. 6-3-[133]) the final syllable is lengthened [hence *ukṣatā*]; since it follows an *atiṅanta*, the *nighāta* accent.
+
+Closing of Rik 87.2: "॥ २ ॥" (2), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 87.3)** *(Jagatī; Maruts; accents not reproduced)*
+
+> प्रैषामज्मेषु विथुरेव रेजते भूमिर्यामेषु यद्ध युञ्जते शुभे ।
+> ते क्रीळयो धुनयो भ्राजदृष्टयः स्वयं महित्वं पनयन्त धूतयः ॥ ३ ॥
+
+*praiṣām ajmeṣu vithureva rejate bhūmir yāmeṣu yad dha yuñjate śubhe | te krīḷayo dhunayo bhrājadṛṣṭayaḥ svayaṃ mahitvaṃ panayanta dhūtayaḥ ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "At their drives the earth trembles forth like a forsaken wife, when they harness [their steeds] for splendour; they, the sporting ones, the shakers, with gleaming spears, the tossers, themselves proclaim their greatness."
+
+---
+
+### Page 226 (PDF 241)
+
+*(Running head: "226 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 87.3)**
+
+> प्र । एषाम् । अज्मेषु । विथुराऽइव । रेजते । भूमिः । यामेषु । यत् । ह । युञ्जते । शुभे ।
+> ते । क्रीळयः । धुनयः । भ्राजत्ऽऋष्टयः । स्वयम् । महिऽत्वम् । पनयन्त । धूतयः ॥ ३ ॥
+
+*pra | eṣām | ajmeṣu | vithurā-iva | rejate | bhūmiḥ | yāmeṣu | yat | ha | yuñjate | śubhe | te | krīḷayaḥ | dhunayaḥ | bhrājat-ṛṣṭayaḥ | svayam | mahi-tvam | panayanta | dhūtayaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 87.3)**
+
+> यद्ध यदा खल्वेते मरुतः शुभे शोभनाय वृष्ट्युदकाय युञ्जते मेघान् सङ्घीकुर्वन्ति तदानीमज्मेषु मेघानामुत्क्षेपकेष्वेषां मरुतां सम्बन्धिषु यामेषु मेघानां नियमनेषु सत्सु भूमिः पृथिवी प्र रेजते । प्रकर्षेण कम्पते । यद्वा । यदा खलु मरुतः स्वकीयान्रथान्युञ्जते अश्वैर्योजयन्ति तदानीमेषां रथानां सम्बन्धिषु पर्वतादेरुत्क्षेपकेषु यामेषु गमनेषु भूमिर्भीत्वा कम्पते । तत्र दृष्टान्तः । विथुरेव । यथा भर्त्रा वियुक्ता जाया राजोपद्रवादिषु सत्सु निरालम्बा सती कम्पते तद्वत् । ते ताद्दृशाः क्रीळयो विहारशीला धुनयश्चलनस्वभावा भ्राजदृष्टयो दीप्यमानायुधा एवम्भूता मरुतो धूतयः पर्वतादीन्कम्पयन्तः सन्तो महित्वं स्वकीयं महिमानं स्वयमेव पनयन्त । व्यवहरन्ति । प्रकटयन्तीत्यर्थः ॥ अज्मेषु । अज गतिक्षेपणयोः । अर्तिस्तुसुहुसृधृक्षिक्षुभायावापदियक्षिनीभ्यो मन् (उ. १-१४० [?]) इत्यादिना विधीयमानो मन् बहुलवचनादस्मादपि प्रवृत्ति [?]… वलादावार्धधातुके विकल्प इष्यते । (का. २-४-५६ [?]) इति वचनाद्वेर्वीभावाभावः । नित्त्वादाद्युदात्तत्वम् । रेजते । रेजृ कम्पने । भ्यसते रेजत इति भयेपेपनयोः इति यास्कः । (नि. ३-२१ [?]) । यामेषु । यम उपरमे । भावे घञ् । कर्षात्वत इत्यन्तोदात्तत्वे प्राप्ते वृषादिषु पाठादाद्युदात्तत्वम् । यद्वा । या प्रापण इत्यस्मादर्तिस्तुसुहुत्यादिना मन्प्रत्ययः । शुभे । शुभ दीप्तौ । सम्पदादिलक्षणः कर्मणि क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् । पनयन्ते । पन व्यवहारे । गुपूधूपविच्छीत्यायः । (पा. ३-१-२८) अस्माच्छान्दसो लङ् । व्यत्ययेन ह्रस्वत्वम् ॥
+
+*yad dha yadā khalv ete marutaḥ śubhe śobhanāya vṛṣṭyudakāya yuñjate meghān saṅghīkurvanti tadānīm ajmeṣu meghānām utkṣepakeṣv eṣāṃ marutāṃ sambandhiṣu yāmeṣu meghānāṃ niyamaneṣu satsu bhūmiḥ pṛthivī pra rejate | prakarṣeṇa kampate | yadvā | yadā khalu marutaḥ svakīyān rathān yuñjate aśvair yojayanti tadānīm eṣāṃ rathānāṃ sambandhiṣu parvatāder utkṣepakeṣu yāmeṣu gamaneṣu bhūmir bhītvā kampate | tatra dṛṣṭāntaḥ | vithureva | yathā bhartrā viyuktā jāyā rājopadravādiṣu satsu nirālambā satī kampate tadvat | te tādṛśāḥ krīḷayo vihāraśīlā dhunayaś calanasvabhāvā bhrājadṛṣṭayo dīpyamānāyudhā evambhūtā maruto dhūtayaḥ parvatādīn kampayantaḥ santo mahitvaṃ svakīyaṃ mahimānaṃ svayam eva panayanta | vyavaharanti | prakaṭayantīty arthaḥ ‖ ajmeṣu | aja gatikṣepaṇayoḥ | artistusuhusṛdhṛkṣikṣubhāyāvāpadiyakṣinībhyo man (Uṇ. 1-140 [?]) ity ādinā vidhīyamāno man bahulavacanād asmād api pravṛtti [?] … valādāv ārdhadhātuke vikalpa iṣyate | (Kā. 2-4-56 [?]) iti vacanād ver vībhāvābhāvaḥ | nittvād ādyudāttatvam | rejate | rejṛ kampane | bhyasate rejata iti bhayepepanayoḥ iti yāskaḥ | (Ni. 3-21 [?]) | yāmeṣu | yama uparame | bhāve ghañ | karṣātvata ity antodāttatve prāpte vṛṣādiṣu pāṭhād ādyudāttatvam | yadvā | yā prāpaṇa ity asmād artistusuhutyādinā man-pratyayaḥ | śubhe | śubha dīptau | sampadādilakṣaṇaḥ karmaṇi kvip | sāv ekāca iti vibhakter udāttatvam | panayante | pana vyavahāre | gupūdhūpavicchīty āyaḥ | (Pā. 3-1-28) asmāc chāndaso laṅ | vyatyayena hrasvatvam ‖*
+
+*(Kannada script; the grammatical tail is compressed; the Uṇādi sūtra and its number, the Kāśikā reference and the clause on* vībhāva *are read with doubt [?].)*
+
+*Translation:* "When these Maruts *yuñjate* — yoke, assemble the clouds, *śubhe* — for good, for raining water, then, in their *ajmeṣu* — the cloud-hurling [movements] — *yāmeṣu*, in the courses that restrain the clouds, the *bhūmiḥ*, the earth, *pra rejate* — trembles greatly. Or: when the Maruts yoke their own chariots, harness them with horses, then in the going of these chariots that hurl up mountains and the like, the earth, frightened, trembles. The illustration: *vithureva* — as a wife separated from her husband, helpless when the king's troubles and the like occur, trembles. Those Maruts, such as these: *krīḷayaḥ* — sportive; *dhunayaḥ* — of a shaking nature; *bhrājadṛṣṭayaḥ* — with gleaming weapons; *dhūtayaḥ* — making the mountains and the rest tremble — *mahitvam*, their own greatness, *svayam eva panayanta* — they themselves display. *Grammar tail, noted briefly:* *ajmeṣu* — *aja gatikṣepaṇayoḥ* with the affix *man*; *rejate* — *rejṛ kampane* (Yāska: *bhyasate rejate* — 'to be afraid'); *yāmeṣu* — *yam uparame* with *ghañ* (first-syllable acute because the word is in the *vṛṣādi* list); *śubhe* — *kvip* in the passive; *panayanta* — *pana vyavahāre* with *āya* (Pā. 3-1-28) and Vedic *laṅ*; shortening by *vyatyaya*."
+
+---
+
+### Page 227 (PDF 242)
+
+*(Running head left: "A. 1 A. 6 Va. 13 [?]"; centre: "Ṛgvedasaṃhitā"; right: 227.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 87.3)** *(Kannada)*
+
+*yaddha* — whenever (the Maruts); *śubhe* — to do good (by sending rain); *yuñjate* — they join (the clouds) together; *ajmeṣu* — in the (cloud-moving) swift [movements]; *eṣām* — of these Maruts; *yāmeṣu* — in the times of going; *bhūmiḥ* — the earth; *vithurā iva* — like a wife without her husband; *pra rejate* — trembles.
+
+**अथवा — Or (second arrangement)**
+
+[*yaddha* — whenever (the Maruts); *śubhe* — to do good (to the world); *yuñjate* — they yoke (horses to their chariots); *eṣām* — of these Maruts; *ajmeṣu* — (which make mountains and the like move) swift; *yāmeṣu* — in times of going; *bhūmiḥ* — the earth; *vithurā iva* — like a wife without her husband; *pra rejate* — trembles greatly.]
+
+*te* — such; *krīḷayaḥ* — fond of play; *dhunayaḥ* — of a moving nature; *bhrājadṛṣṭayaḥ* — with shining weapons; *dhūtayaḥ* — (shaking mountains and the rest) the Maruts; *mahitvam* — their greatness; *panayanta* — display.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 87.3** *(Kannada)*
+
+"Whenever these Maruts gather all the clouds together in order to do good to the world, then, with the going of these swift Maruts, the earth trembles like a wife left without her husband. Such swift ones, fond of play, of moving nature, with shining weapons, the Maruts, shaking mountains and the rest, display their greatness."
+
+**English Translation** *(printed in English in the source)*
+
+"When they assemble the clouds for the good work, earth trembles at their impetuous movements like a wife whose husband is away; sportive capricious, armed with bright weapons, and agitating (even the solid rock) they manifest their inherent might." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 87.3)**
+
+- **अज्मेषु** — *aja gatikṣepaṇayoḥ* — "that make things move, that make them go about."
+- **विथुरेव** — *bhartrā viyuktā jāyā* — "like a wife while she has no husband; that is, like a woman alone in the house when her husband has gone away to another place."
+
+---
+
+**Progress note:** Printed pp. 1–227 done (PDF 16–242) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.2 complete**; **Rik 87.3** done through the first two entries of its Special Topics (p. 227); the rest of its Special Topics and grammar follow on p. 228, then 87.4–87.6. Next: printed p. 228 (PDF 243). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205 [?]; Nirukta numerals on pp. 208, 219, 224, 226 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
