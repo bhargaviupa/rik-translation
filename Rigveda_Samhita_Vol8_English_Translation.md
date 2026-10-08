@@ -3207,4 +3207,110 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–109 done (PDF 21–129): Sūkta 95 complete; **Sūkta 96** (9 Ṛks) is **complete through Rik 96.9** (the last Ṛk, identical with 95.11; its bhāṣya refers to the earlier sūkta; its Special Topics and grammar end on p. 109, the page carrying also the grammar closing; the print's closing line, if any, has not been seen: it should be looked for at the head of p. 110). Next: printed p. 110 (PDF 130) — **Sūkta 97** begins (*apa naḥ śośucad agham*; per the contents it starts at printed p. 110; 15 Ṛks?). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–109) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.8 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, the compressed *kṣām* tail of 96.7, the Ṛgveda numerals throughout [?]; in 96.9 the bhāṣya's *āśvarārthas tu* [?] and the Bṛhaddevatā verse on p. 109 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 110 (PDF 130)
+
+*(Running head: left 110; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+*(The print has no separate closing line for Sūkta 96 at the end of p. 109.)*
+
+---
+
+## Sūkta 97
+
+**ತೊಂಭತ್ತೇಳನೆಯ ಸೂಕ್ತವು** — *tombhattēḷaneya sūktavu*, "the ninety-seventh Sūkta" *(Kannada heading, printed at the head of p. 110)*
+
+**Sāyaṇa's introduction to Sūkta 97 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> अप न इत्यष्टर्चं चतुर्थं सूक्तं कुत्सस्यार्षं गायत्रं । शुचिगुणकोऽग्निः शुद्धोऽग्निर्वा देवता । तथा चानुक्रान्तं । अप नोऽष्ठौ शुचये गायत्रमिति ॥ विनियोगो लैङ्गिकः ॥ अत्रेदमाख्यानं । दीर्घजिह्वी नाम राक्षसी सर्वान्यज्ञान्बबाधे । तां हन्तुमिन्द्रोऽशक्तः सन् सर्वस्य मित्रभूतं कुत्समब्रवीदेषा त्वया हन्तव्येति । स चावधीत् । तं वाग्भ्यवदत् अनुचितमिदं त्वया चरितं यत्त्वं सर्वेषां मित्रभूतः सन् क्रूरमकार्षीरिति । तमृषिं शोकः प्राप्नोत् । स ऋषिरेनेन सूक्तेनाग्निं स्तुत्वा शोकमपागमयत् । तथा च ताण्डकं । दीर्घजिह्वी वा इदं रक्षो यज्ञहा यज्ञाननलिहत्यैचरत् तामिन्द्रः कयो चन मायया हन्तुं नाशंसत् अथ ह सुमित्रः कुत्सः कल्याण आस तमब्रवीत् इत्यादि । ता. ११-६-८ [?] ॥ तस्मादेतत्सूक्तं शोकापनयनाय विनियोज्यं । अत एव हि सूत्रकारेण भारद्वाजेन दशमेऽहनि कर्तव्ये शान्तिकर्मणि यजुर्वेदे पठितमेतत्सूक्तं विनियुज्यते । नव च स्रवाहुतीरपि नः शोशुचदघमिति ॥
+> *apa na ity aṣṭarcaṃ caturthaṃ sūktaṃ kutsasyārṣaṃ gāyatraṃ | śuciguṇako 'gniḥ śuddho 'gnir vā devatā | tathā cānukrāntaṃ | apa no 'ṣṭau śucaye gāyatram iti ‖ viniyogo laiṅgikaḥ ‖ atredam ākhyānaṃ | dīrghajihvī nāma rākṣasī sarvān yajñān babādhe | tāṃ hantum indro 'śaktaḥ san sarvasya mitrabhūtaṃ kutsam abravīd eṣā tvayā hantavyeti | sa cāvadhīt | taṃ vāg abhyavadat anucitam idaṃ tvayā caritaṃ yat tvaṃ sarveṣāṃ mitrabhūtaḥ san krūram akārṣīr iti | tam ṛṣiṃ śokaḥ prāpnot | sa ṛṣir anena sūktenāgniṃ stutvā śokam apāgamayat | tathā ca tāṇḍakaṃ | dīrghajihvī vā idaṃ rakṣo yajñahā yajñān analihatyaicarat tām indraḥ kayo cana māyayā hantuṃ nāśaṃsat atha ha sumitraḥ kutsaḥ kalyāṇa āsa tam abravīt ity ādi | tā. 11-6-8 [?] ‖ tasmād etat sūktaṃ śokāpanayanāya viniyojyaṃ | ata eva hi sūtrakāreṇa bhāradvājena daśame 'hani kartavye śāntikarmaṇi yajurvede paṭhitam etat sūktaṃ viniyujyate | nava ca sravāhutīr api naḥ śośucad agham iti ‖*
+
+*Sense (mine, from the Kannada that follows):* "The fourth sūkta, *apa naḥ*, of eight Ṛks, is the *ṛṣi*-composition of Kutsa, in the Gāyatrī metre; its deity is Agni endowed with the quality of 'purity' (*śuci*), or the pure Agni. And so the Anukramaṇī: '*apa no 'ṣṭau śucaye gāyatram*'. Its application is by indication (*laiṅgika*). Here is this story: a rākṣasī named Dīrghajihvī harassed all the sacrifices. Indra, unable to kill her, said to Kutsa, who was a friend to all, 'She is to be killed by you'; and he killed her. Speech (*vāc*) said to him: 'This is improper conduct on your part: that you, being a friend of all, did a cruel deed.' Grief seized that seer; by this sūkta, praising Agni, he drove away the grief. And the Tāṇḍaka [Brāhmaṇa] says: 'Dīrghajihvī was a demoness that went about, destroying the sacrifices, licking up the offerings. Indra could not hope to kill her by any trick whatever; then Kutsa, the well-wishing, of good friendship, he said to him…' and so on (Tāṇḍya Brāhmaṇa 11-6-8 [?]). Therefore this sūkta is to be applied for the removal of grief; and just so the Sūtrakāra Bhāradvāja applies this sūkta, as read in the Yajurveda, in the rite of appeasement to be performed on the tenth day, with '*nava ca sravāhutīr api naḥ śośucad agham*'."
+
+**Anuvāda (Kannada):** "*Apa naḥ* is the fourth sūkta in the fifteenth anuvāka. It has eight Ṛks. The seer of this sūkta is Kutsa. The metre is Gāyatrī. The deity is Agni endowed with the quality of purity, or Agni alone. In the Anukramaṇikā it is said '*apa no 'ṣṭau śucaye gāyatram*'. The application is *laiṅgika*. A story is told here: Formerly a rākṣasī named Dīrghajihvī was causing obstacles to the sacrifices and rites performed by the seers. Though Indra tried, as the seers prayed, to destroy that rākṣasī, it was not possible. Then Indra called Kutsa, who was a friend to all, and said: 'O Kutsa, you destroy this rākṣasī; this work can be done by you alone'; and Kutsa destroyed the rākṣasī. Then the goddess of speech spoke to Kutsa: 'The act of killing a woman that you did is very improper; you who are known as a friend of all should not have done such a cruel thing.' Then Kutsa, filled with grief (sorrow), praised Agni with this sūkta and removed his grief and his sin. In the Tāṇḍya Brāhmaṇa too, on this matter: '*dīrghajihvī vā idaṃ rakṣo yajñahā yajñān analihatyaicarat tām indraḥ kayo cana māyayā hantuṃ nāśaṃsat atha ha sumitraḥ kutsaḥ kalyāṇa āsa tam-*'" *(continues on p. 111)*
+
+### Page 111 (PDF 131)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 111.)*
+
+"…*abravīt*' (Tā. 1[3]-6-8 [?]) is said. Therefore this sūkta must chiefly be used in rites of appeasement performed to remove grief. For this very reason the sage Bhāradvāja, in the rite of appeasement to be performed on the eighth [?] day in the *āpara-karma*, applies this mantra, which is found in the Yajurveda, with the sūkta '*nava ca sravāhutīr api naḥ śośucad agham*'. In the Yajurveda this mantra is in the Taittirīya Āraṇyaka, in the eleventh anuvāka of the sixth prapāṭhaka (Tai. Ā. 6-11 [?])."
+
+*(A printer's ornament follows.)*
+
+**॥ ओं ॥ — *Oṃ.***
+
+**सूक्त — ९७ (Sūkta 97)**
+
+॥ मण्डल—१ ॥ अनुवाक—१५ ॥ सूक्त—९७ ॥ — *Maṇḍala 1; Anuvāka 15; Sūkta 97.*
+॥ अष्टक—१ ॥ अध्याय—७ ॥ वर्ग—५ ॥ — *Aṣṭaka 1; Adhyāya 7; Varga "5" as read [?].*
+*Number of Ṛks in the sūkta:* 8. *Ṛṣi:* Kutsa Āṅgirasa. *Devatā:* *agnir agniḥ śucir vā* (as printed; "Agni, or the pure Agni" [?]). *Chandas:* Gāyatrī.
+
+### Rik 1
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.1)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> अप नः शोशुचदघमग्ने शुशुग्ध्या रयिम् ।
+> अप नः शोशुचदघम् ॥ १ ॥
+
+*apa naḥ śośucad agham agne śuśugdhy ā rayim | apa naḥ śośucad agham ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.1)**
+
+> अप । नः । शोशुचत् । अघम् । अग्ने । शुशुग्धि । आ । रयिम् ।
+> अप । नः । शोशुचत् । अघम् ॥ १ ॥
+
+*apa | naḥ | śośucat | agham | agne | śuśugdhi | ā | rayim | apa | naḥ | śośucat | agham ‖ 1 ‖*
+
+### Page 112 (PDF 132)
+
+*(Running head: left 112; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.1)**
+
+> हे अग्ने सोऽस्माकमघं पापमप शोशुचत् । अस्मत्तो निर्गत्यास्मदीयं शत्रुं शोचयतु । यद्वा । अस्मदीयं पापं शोशुचत् शोकग्रस्तं सद्विनश्यतु । अपि चास्माकं रयिं धनमा समन्ताच्छुशुग्धि । प्रकाशय । उक्तार्थमपि वाक्यमादरातिशयद्योतनाय पुनः पठ्यते । अवश्यमस्माकमघं विनश्यत्विति ॥ शोशुचत् । शुच शोके । अस्माद्यङ्लुगन्ताल्लेट्यडागमः । अदादिवच्चेति वचनाच्छपो लुक् । अभ्यस्तानामादिरित्याद्युदात्तत्वं । अघं शोशुचच्च रयिं शुशुग्धि चेति चार्थप्रतीतेश्चादिलोपे विभाषेति निघातप्रतिषेधः । शुशुग्धि । शुच दीप्तौ । लोट् बहुलं छन्दसीति शपः श्लुः । हुझल्भ्यो हेर्धिः । चोः कुरिति कुत्वं ॥
+> *he agne so 'smākam agham pāpam apa śośucat | asmatto nirgatyāsmadīyaṃ śatruṃ śocayatu | yadvā | asmadīyaṃ pāpaṃ śośucat śokagrastaṃ sad vinaśyatu | api cāsmākaṃ rayiṃ dhanam ā samantāc chuśugdhi | prakāśaya | uktārtham api vākyam ādarātiśayadyotanāya punaḥ paṭhyate | avaśyam asmākam aghaṃ vinaśyatv iti ‖ śośucat | śuca śoke | asmād yaṅluganāl leṭy aḍāgamaḥ | adādivac ceti vacanāc chapo luk | abhyastānām ādir ity ādyudāttatvaṃ | agham śośucac ca rayiṃ śuśugdhi ceti cārthapratīteś cādilope vibhāṣeti nighātapratiṣedhaḥ | śuśugdhi | śuca dīptau | loṭ bahulaṃ chandasīti śapaḥ śluḥ | hujhalbhyo her dhiḥ | coḥ kur iti kutvaṃ ‖*
+
+*Sense (mine, from the Kannada that follows):* "O Agni, may that [Agni] burn away (*apa śośucat*) our sin (*agham*), going forth from us let him make our enemy grieve; or: may our sin, seized by grief, perish. And shine for us on every side with wealth (*rayim*) — cause it to shine. The statement, though its sense has been said, is repeated to show the greatest regard: 'our sin must by all means perish'." Tail (characterized): *śośucat* — root *śuca* (to grieve), with *yaṅ-luk*, the *leṭ* with the augment *aṭ*; *śap* elided; the initial acute by *abhyastānām ādiḥ*; the non-*nighāta* because of the sense 'and' (*agham śośucac ca rayiṃ śuśugdhi ca*) with the optional rule on the elision of *ca*; *śuśugdhi* — root *śuca* (to shine), *loṭ*, *śap* → *ślu* by *bahulaṃ chandasi*; *dhi* for *hi* after a root ending in a *jhal* by *hujhalbhyo her dhiḥ*; *ku* for *c* by *coḥ kuḥ*. *(Sūtra numbers not read; the print is clear.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*agne* — O Agni; *naḥ* — our; *agham* — sin; *apa śośucat* — may it be drawn far from us and burn our enemy; or, may our sin, seized by grief, be destroyed (*asmākam* — for us); *rayiṃ* — wealth; *ā* — all around; *śuśugdhi* — make it shine; *naḥ* — our; *agham* — sin; *apa śośucat* — be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, may our sin, filled with sorrow, be destroyed. Make wealth spread all round us and shine. May our sin be utterly destroyed."
+
+**English Translation (as printed)**
+
+> May our sin, Agni, be repented of ; manifest riches to us ; may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.1 (Kannada)**
+
+***apa no 'ṣṭau śucaye gāyatram*** — "*(Sarvānukramaṇī)* '*śucaguṇako 'gniḥ śuddho 'gnir vā devatā*': thus Sāyaṇa tells of the deity indicated in this sūkta. In speaking of the quality of Agni, '*śuciguṇako 'gniḥ*' ('Agni endowed with the quality of purity'), one must understand the right meaning of the word *śuci*. In ordinary worldly usage the word *śuci* is applied only to material purity, in the sense of 'merely stainless'. But here there is a still greater meaning."
+
+### Page 113 (PDF 133)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 113; foot: printer's signature "8 … Volume 8".)*
+
+"…[It is not] merely stainless: the material purity is meant. But here there is a still greater meaning."
+
+***śuciḥ*** — *śocater jvalatikarmaṇaḥ | āyur iva śuciḥ ity eṣyā deva | siktaṃ kṣamāśyāpakamiti* [clotted [?]] *nairuktāḥ* (Ni. 6-[?]): "'from the root *śuc*, which means to blaze, to shine, to be bright, this form arises; and the form *śuci*, which gives the sense of purity, is derived from this same root. The spiritual meaning is that, by him, sin is washed away: *śuci* indicates the purity which is also of the *śuddhi* [purity] of spiritual [*ādhyātmika*] kind. Such a purifying Agni is the deity of this sūkta. The earlier story, in which Kutsa, who composed this sūkta, prayed to Agni for the removal of the sin of the deed he had done, repenting of it, and to be made pure from that sin, is given. But there is a great difference between Sāyaṇa's story told here and the one Skandasvāmin cites. In the introduction to the sūkta, Sāyaṇa explains this story —"
+
+> दीर्घजिह्वी नाम राक्षसी सर्वान् यज्ञान् बबाधे । तां हन्तुमिन्द्रोऽशक्तः सन् सर्वस्य मित्रभूतं कुत्समब्रवीदेषा त्वया हन्तव्येति । स चावधीत् । तं वाग्भ्यवदत् अनुचितमिदं त्वया चरितं यत्त्वं सर्वेषां मित्रभूतः सन् क्रूरमकार्षीरिति । तमृषिं शोकः प्राप्नोत् । स ऋषिरेनेन सूक्तेनाग्निं स्तुत्वा शोकमपागमयत् । तथा च ताण्डकं । दीर्घजिह्वी वा इदं रक्षो यज्ञहा यज्ञाननलिहत्यैचरत् तामिन्द्रः कयो चन मायया हन्तुं नाशंसत् अथ ह सुमित्रः कुत्सः कल्याण आस तमब्रवीत् । (*Tā. Brā.* 11-6-8 [?])
+> *dīrghajihvī nāma rākṣasī sarvān yajñān babādhe | tāṃ hantum indro 'śaktaḥ san sarvasya mitrabhūtaṃ kutsam abravīd eṣā tvayā hantavyeti | sa cāvadhīt | taṃ vāg abhyavadat anucitam idaṃ tvayā caritaṃ yat tvaṃ sarveṣāṃ mitrabhūtaḥ san krūram akārṣīr iti | tam ṛṣiṃ śokaḥ prāpnot | sa ṛṣir anena sūktenāgniṃ stutvā śokam apāgamayat | tathā ca tāṇḍakaṃ | dīrghajihvī vā idaṃ rakṣo yajñahā yajñān analihatyaicarat tām indraḥ kayo cana māyayā hantuṃ nāśaṃsat atha ha sumitraḥ kutsaḥ kalyāṇa āsa tam abravīt |*
+
+*(The introduction's passage is repeated here in the print and is not translated again; see p. 110.)* "A rākṣasī named Dīrghajihvī made all the sacrifices [and every sacrifice] a hindrance: Indra, unable to kill her, said to Kutsa, a friend to all, 'You must kill her'; he killed her; the goddess of speech said 'this is improper'; grief seized the seer; by this sūkta, praising Agni, he drove away the grief. In the Tāṇḍya Brāhmaṇa too the story is told in the same way. Skandasvāmin, citing another story, says that it is the source of this praise of Agni and of the prayer to remove sin:"
+
+> अत्र छन्दोगब्राह्मणादीतिहासमाचक्षते । कुत्सश्च लुशश्च इन्द्रं वृष्णयेषाम् । स इन्द्रः कुत्समुपावर्तत शतं शकेन वाद्रिभिरण्डयोरबध्नादिति । तदेतल्लुश इन्द्ररूपधामापन्नो वस्कृतीति ।
+> *atra chandogabrāhmaṇād itihāsam ācakṣate | kutsaś ca luśaś ca indraṃ vṛṣṇayeṣām | sa indraḥ kutsam upāvartata śataṃ śakena vādribhir aṇḍayor abadhnād iti | tad etal luśa indrarūpadhām āpanno vaskṛtīti |*
+
+*(Translation, mine and tentative, of Skandasvāmin's story as the Kannada gives it: "Here they tell a story from the Chāndogya[?]-brāhmaṇa: Kutsa and Luśa [were rivals about Indra]; that Indra approached Kutsa; [and] bound his [the other's] testicles with a hundred stones [?]; thereupon Luśa, having taken Indra's form, …". The Sanskrit is clotted in the print and is read as given, doubtful throughout [?].)*
+
+> प्र मुञ्चस्व परि कुत्सादिहा गहि किमु त्वावान्मुष्कयोर्बद्ध आसते ।
+> *pra muñcasva pari kutsād ihā gahi kim u tvāvān muṣkayor baddha āsate |*
+> (*Ṛ. Saṃ.* 10-3[8]-5 as read [?])
+
+*(Gloss, mine and tentative: "let [him] go; come here from Kutsa; why does one like you sit bound by the testicles?" — the print's words, read with doubt [?].)* *(continues on p. 114)*
+
+---
+
+**Progress note:** Printed pp. 1–113 done (PDF 21–133): Sūkta 95 and Sūkta 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; Agni endowed with the quality of purity, or pure Agni; 15th Anuvāka; printed pp. 110–?): Sāyaṇa's introduction (the Dīrghajihvī story), the Anuvāda, the heading block and Rik 97.1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English) done; the Special Topics of 97.1 under way (the meaning of *śuci*; the Dīrghajihvī story from the Tāṇḍya Brāhmaṇa and Skandasvāmin's alternative story with Kutsa and Luśa), breaking at the foot of p. 113 after the Ṛgveda quotation *pra muñcasva…*. Next: printed p. 114 (PDF 134). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–113) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, and Skandasvāmin's story (the Sanskrit clotted; the verse Ṛ. 10-3[8]-5) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
