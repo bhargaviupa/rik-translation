@@ -14031,6 +14031,89 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–487 done (PDF 16–502), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.4 complete; Rik 93.5 done through the Special Topics and the first entries of the grammar page (*yuvam*, *divi*, *rocanāni*), which breaks at the foot of p. 487 in *adhattam* ("*laṅ*, second person dual, —"), to be concluded from the head of p. 488. Next: printed p. 488 (PDF 503). "
-"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–487 (those of pp. 482 and 486 read from small digits) and Nirukta numerals [?]; Tai. Saṃ. 2-5-2-4 and Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4 (*tvāṣṭrasakāśād utpannam*, the *prāṇāpāna* sentence) and of 93.5 (*abhiśasteḥ…avadyāt…*, clotted words) [?]; the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss, reproduced as printed; Skandasvāmin's *syandanāt sindhavo raśmaya…* as read [?]; Pāṇini/Uṇādi numerals on pp. 470–487 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 488 (PDF 503)
+
+*(Running head: left "488", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+*Vyākaraṇa-prakriyā of Rik 93.5, concluded (grammar page, noted briefly):*
+
+[*adhattam*, continued —] "…second person dual, the replacement *tam*; *ślu* for the stem-suffix; by *ślau* the root is doubled; by *śnābhyastayor ātaḥ* (Pā. 6-4-112 [?]) the *ā* of the root is elided; since it follows a word, the *nighāta* accent."
+*sindhūn* — since *aṭ* [*a*-beginning word] follows, by *dīrghād aṭi samānapāde* (Pā. 8-3-9 [?]) the *n* becomes *ru*; by *atrānunāsikaḥ pūrvasya tu vā* (Pā. 8-3-2 [?]) the vowel before the *ru* is nasalized.
+*gṛbhītān* — root *graha upādāne*; to it the suffix *kta*; since it is *ārdhadhātuka*, by *ārdhadhātukasyeḍ valāder* (Pā. 7-2-35 [?]) the augment *iṭ*; by *graho 'liṭi dīrghaḥ* (Pā. 7-2-37 [?]) its lengthening; by *grahijyāvayi…* (Pā. 6-1-16 [?]) *saṃprasāraṇa*; by *hṛgrahor bhaś chandasi* [vārttika] the replacement *bha* for *ha*; by the suffix accent the final-acute; the accusative plural. ‖ 5 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.6)** *(Triṣṭubh)*
+
+> अन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
+> अग्नीषोमा ब्रह्मणा वावृधानोरुं यज्ञाय चक्रथुरु लोकम् ॥ ६ ॥
+
+*anyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ | agnīṣomā brahmaṇā vāvṛdhānoruṃ yajñāya cakrathur u lokam ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 93.6)** *(the Pada is divided across pp. 488–489)*
+
+> आ । अन्यम् । दिवः । मातरिश्वा । जभार । अमथ्नात् । अन्यम् । परि । श्येनः । अद्रेः ।
+> अग्नीषोमा । ब्रह्मणा । ववृधानो इति । उरुम् । यज्ञाय । चक्रथुः । ऊं इति । लोकम् ॥ ६ ॥
+
+*ā | anyam | divaḥ | mātariśvā | jabhāra | amathnāt | anyam | pari | śyenaḥ | adreḥ | agnīṣomā | brahmaṇā | vavṛdhānau [as read, 'vavṛdhānā'] | urum | yajñāya | cakrathuḥ | ūṃ iti | lokam ‖ 6 ‖*
+
+(The Saṃhitā prints *vāvṛdhānoruṃ*; the Pada's second line begins on p. 489. The Pada's *vavṛdhānā*, as I read it from the print, and the Saṃhitā's *vāvṛdhānā* differ in the length of the first vowel; the bhāṣya explains the Saṃhitā's lengthening of the reduplicative as Vedic [?]. Accent marks not reproduced.)
+
+---
+
+### Page 489 (PDF 504)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 489.)*
+
+*(the Pada, concluded, is given above)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 93.6)**
+
+> अग्नीषोमीयस्योपांशुयाजस्यान्यं दिव इत्येषा याज्या । अग्नीषोमा यो अद्य वामित्यत्र सूत्रमुदाहृतं ॥
+> हे अग्नीषोमौ युवयोर्मध्येऽन्यमेकमग्निं मातरिश्वा वायुर्दिवो द्युलोकादा जभार भृगवे यजमानायाजहार । तथा च मन्त्रान्तरं । द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा । ऋग्वेदे १-६०-१ [?] । इति । श्येनः शंसनीयगतिमान्स्त्री पक्ष्याकारा गायत्र्यन्यं सोममद्रेः परि मेरोरुपर्यवस्थितात्स्वर्गादमथ्नात् । बलादाहृतवती । एवं महानुभावौ युवां ब्रह्मणा स्पृष्ट्वा [clotted [?]] मन्त्ररूपेण स्तोत्रेण हविर्लक्षणेनान्नेन वा वावृधानौ वर्धमानौ युवामयज्ञान्योषां देवानां योगायोरुं विस्तीर्णं लोकं स्थानं चक्रथुः । कृतवन्तौ । उ इत्येतत्पादपूरणं । आज्यभागदेवतयोरग्नीषोमयोरुत्तरार्धदक्षिणार्धयोर्हूयेते । तस्माद्धैन्यदेवतानि [clotted [?]] सर्वाणि हवींषि हूयन्ते । तस्माद्यमं [clotted [?]] स्थानमग्नीषोमकृतं । तथा च तैत्तिरीयकं । राजानौ वा एतौ देवानां यदग्नीषोमावन्तरा देवता इज्येते देवतानां विधृत्यै । इति ॥ ववृधाना । वृधेर्लिटः कानच् । छान्दसमभ्यासस्य दीर्घत्वं । सुपां सुलुगित्याकारः ॥
+
+*agnīṣomīyasyopāṃśuyājasyānyaṃ diva ity eṣā yājyā | agnīṣomā yo adya vām ity atra sūtram udāhṛtaṃ ‖ he agnīṣomau yuvayor madhye 'nyam ekam agniṃ mātariśvā vāyur divo dyulokād ā jabhāra bhṛgave yajamānāyājahāra | tathā ca mantrāntaraṃ | dvijanmānaṃ rayim iva praśastaṃ rātiṃ bharad bhṛgave mātariśvā | ṛgvede 1-60-1 [?] | iti | śyenaḥ śaṃsanīyagatimān strī pakṣyākārā gāyatry anyaṃ somam adreḥ pari meror uparyavasthitāt svargād amathnāt | balād āhṛtavatī | evaṃ mahānubhāvau yuvāṃ brahmaṇā spṛṣṭvā [clotted [?]] mantrarūpeṇa stotreṇa havirlakṣaṇenānnena vā vāvṛdhānau vardhamānau yuvām ayajñānyoṣāṃ devānāṃ yogāyorum vistīrṇaṃ lokaṃ sthānaṃ cakrathuḥ | kṛtavantau | u ity etat pādapūraṇaṃ | ājyabhāgadevatayor agnīṣomayor uttarārdhadakṣiṇārdhayor hūyete | tasmād dhānyadevatāni [clotted [?]] sarvāṇi havīṃṣi hūyante | tasmād yamaṃ [clotted [?]] sthānam agnīṣomakṛtaṃ | tathā ca taittirīyakaṃ | rājānau vā etau devānāṃ yad agnīṣomāv antarā devatā ijyete devatānāṃ vidhṛtyai | iti ‖ vavṛdhānā | vṛdher liṭaḥ kānac | chāndasam abhyāsasya dīrghatvaṃ | supāṃ sulug ity ākāraḥ ‖*
+
+*Translation:* "For the *upāṃśuyāja* of the Agnīṣomīya, this Ṛk *anyaṃ divaḥ* is the *yājyā*. The sūtra is quoted at *agnīṣomā yo adya vām*. — O Agni and Soma, of you two *anyam*, one — Agni — *mātariśvā*, Vāyu, *divaḥ*, from the world of heaven, *ā jabhāra*, brought for Bhṛgu the sacrificer. So another mantra: 'Mātariśvan brought, like a treasure, the twice-born, praiseworthy gift to Bhṛgu' (Ṛg. 1-60-1 [?]). *Śyenaḥ* — the *śyenī*, the Gāyatrī in the form of a bird, of praiseworthy flight, *amathnāt*, took by force *anyam*, the other, Soma, *adreḥ pari*, from heaven, which is situated above the mountain Meru. Thus, such as you are, great ones, being *vāvṛdhānā*, grown, by *brahmaṇā*, by the praise in the form of mantra, or by food in the form of oblation, you two made for the sacrifice of the other gods *uru*, a wide, extended *lokam*, place. *U* is a mere filler. Agni and Soma, the deities of the two *ājyabhāgas*, are offered to in the northern half and in the southern half; so all the oblations of the other deities are offered [the clause is clotted [?]]; so the place is made by Agni and Soma. So the Taittirīya says: 'These two, Agni and Soma, are the kings of the gods: they are worshipped in between the deities, to keep the deities apart [in their order].'"
+
+*Grammar tail:* *vavṛdhānā* — *kānac* in the *liṭ* of *vṛdh*; the lengthening of the reduplicative is Vedic; the ending replaced by *ā* by *supāṃ sulug*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 93.6)** *(Kannada)*
+
+*agnīṣomā* — O Agni and Soma deities; *anyam* — one of you two, Agni; *mātariśvā* — Vāyu; *divaḥ* — from the world of heaven; *ā jabhāra* — brought (for Bhṛgu the sacrificer); *śyenaḥ* — Gāyatrī in the form of a hawk; *anyam* — the other, the Soma deity; *adreḥ pari* — from the heaven at the summit of the mountain Meru; *āmathnāt* — snatched and brought. (Such greatly glorious ones as you,) *brahmaṇā* — by praise in the form of mantra, or by food in the form of oblation; *vavṛdhānā* — grown; *yajñāya* — for the sacrifice of the other deities; *uru* — broad; *lokam* — the place (of sacrifice); *cakrathuḥ* — you made.
+
+---
+
+### Page 490 (PDF 505)
+
+*(Running head: left "490", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 93.6** *(Kannada)*
+
+"O Agni and Soma deities, Vāyu brought one of you two, Agni, from the world of heaven for Bhṛgu the sacrificer. Gāyatrī in the form of a hawk snatched and brought the other, the Soma deity, from heaven at the summit of the mountain Meru. Such greatly glorious ones as you, grown greater by praise in the form of mantra, made the place of sacrifice wide for the sacrifice of the other deities."
+
+**English Translation** *(printed in English in the source; Rik 93.6)*
+
+"Agni and Soma, the wind brought one of you from heaven, a hawk carried off the other by force from the summit of the mountain ; growing vast by praise you have made the world wide for sacrifice." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 93.6)** *(Kannada)*
+
+***mātariśvā*** — *mātariśvā vāyur mātary antarikṣe śvasiti mātary āśvanitīti vā* | "Because he breathes (*śvasiti*) in the mid-region, or because he moves (*aśvaniti*) about, Vāyu has acquired the name *mātariśvā*. In the Ṛk 1-96-4 [?] they explain this word as Agni, and in 1-190-3 [?] as the sacrificer; but apart from one or two such places, everywhere else *mātariśvā* means 'Vāyu'."
+
+***anyaṃ mātariśvā diva ā jabhāra*** — "Agni, who is the soul of the sacrifice, has been described in many ways, both his supernatural manifestation and his worldly origin. He is the banner of sacrifices, the means of knowledge, the dispenser of sacrifices, the sacrifice-bearer, the king of rites [see the descriptions in Ṛks such as 3-2-3 [?]; 3-11-2 [?]; 4-2-3 [?]]. His first manifestation, in the form of lightning, is said in the Ṛksaṃhitā to have come first to Vāyu:"
+
+> त्वमग्ने प्रथमो मातरिश्वन आविर्भव सुक्रतूया विवस्वते ।
+
+*tvam agne prathamo mātariśvana āvir bhava sukratūyā vivasvate |*  (Ṛ. Saṃ. 1-31-3 [?]; the Saṃhitā text as read, doubtful [?])
+
+> स जायमानः परमे व्योमन्नाविरग्निरभवन्मातरिश्वने ।
+
+*sa jāyamānaḥ parame vyoman nāvir agnir abhavan mātariśvane |*  (Ṛ. Saṃ. 1-143-2 [?]; the Saṃhitā text as read, doubtful [?])
+
+*Gloss, mine and tentative:* "You, Agni, were first made manifest to Mātariśvan, for the sake of the shining one, the skilful. — Born in the highest sky, Agni became manifest to Mātariśvan."
+
+"— and so on, in many Ṛks it is praised. This Vāyu is said, in many śruti sentences, to have called Agni, who was hidden in a very distant place, and to have helped the sacrificers Bhṛgu and Manu with him. For example —
+
+---
+
+**Progress note:** Printed pp. 1–490 done (PDF 16–505), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.5 complete; Rik 93.6 done through the middle of its Special Topics, which break mid-sentence at the foot of p. 490 ("…helped the sacrificers Bhṛgu and Manu with him. For example —"), to be continued from the head of p. 491. Next: printed p. 491 (PDF 506). "
+"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–490 (those of pp. 482, 486 and 490 read from small digits) and Nirukta numerals [?]; Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; Pāṇini/Uṇādi numerals on pp. 470–488 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
