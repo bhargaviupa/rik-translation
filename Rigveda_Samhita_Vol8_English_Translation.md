@@ -3677,4 +3677,139 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–125 done (PDF 21–145): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.4 complete (97.3's Special Topics concluded and grammar on p. 122; 97.4 on pp. 123–124); Rik 97.5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done (p. 125) and the Special Topics begun (*sahasvataḥ*), breaking at the foot of p. 125. Next: printed p. 126 (PDF 146). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–125) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122 and 124 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*) and 97.3 (last clause) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 126 (PDF 146)
+
+*(Running head: left 126; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**Special Topics of Rik 97.5, continued from p. 125**
+
+"…*sahasaspūtraḥ*, *sahasā jāyamānaḥ* and the like are epithets that show the constant connexion of Agni with strength; likewise *sahasvān* is also an epithet —"
+
+> प्रवो महे सहसा सहस्वत उषर्बुधे पशुषे नाग्नये स्तोमो बभूत्वग्नये ।
+> *pra vo mahe sahasā sahasvata uṣarbudhe paśuṣe nāgnaye stomo babhūtv agnaye |*
+> (*Ṛ. Saṃ.* 1-1[2]1-[?]0 as read [?])
+
+> स तत्कृधीषितस्तूयमग्ने स्वधातो बाधस्व सहसा सहस्वान् ।
+> *sa tat kṛdhīṣitas tūyam agne svardhāto bādhasva sahasā sahasvān |*
+> (*Ṛ. Saṃ.* 6-5-6 as read [?])
+
+> अग्निं वो वृधन्तमध्वराणां पुरूतमम् । अच्छा नप्त्रे सहस्वते ॥
+> *agniṃ vo vṛdhantam adhvarāṇāṃ purūtamam | acchā naptre sahasvate ‖*
+> (*Ṛ. Saṃ.* 8-1[0]3-2 as read [?])
+
+*(Glosses, mine and tentative: "for you, the great one, strong, mighty, waking at dawn: may this praise be for Agni, the herd-lord"; "so do that, hastened by us, Agni, strong in your own law; with strength repel the foes, O mighty one"; "to Agni, growing, the most abundant of the rites; to the grandson, the mighty". The numerals and several words are read from small print [?].)* "In many such places the nature of Agni is described as the one who has the power to confront and overcome enemies."
+
+***viśvato yanti bhānavaḥ*** — "the shining flames of Agni spread out to all regions and pervade —"
+
+> जातेआपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
+> *jāta āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |*
+> (*Ṛ. Saṃ.* 3-2-[?]0 as read [?])
+
+> इतो जातो विश्वमिदं वि चष्टे वैश्वानरो यतते सूर्येण ।
+> *ito jāto viśvam idaṃ vi caṣṭe vaiśvānaro yatate sūryeṇa |*
+> (*Ṛ. Saṃ.* 1-9[8]-1 as read [?])
+
+*(Glosses, mine and tentative: "being born, you filled the worlds, heaven and earth; Agni, you surround all these by your own power"; "born from here, he looks over all this; Vaiśvānara vies with the sun".)* "In many different Ṛks of this sort — as it is described that as soon as Agni is born he pervades heaven and earth and all the other parts of the world in the form of his flames — so here too the spreading of the radiance of Agni is described. The prayer is that 'those flames, which have the power to destroy enemies, should destroy the enemies in the form of our sin, and make us pure'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.5)** *(grammar pages, pp. 126–127, noted briefly; numerals small and doubtful [?])*
+
+***sahasvataḥ*** — 'he who has *sahas*': *sahasvān*; the suffix *matup* by *tad asyāsty asminn iti matup* (Pā. 5-2-94 [?]); since the stem ends in a vowel-like *s* (*ādupadhā*), the *m* of *matup* becomes *v* by *mādupadhāyāś ca matorvo 'yavādibhyaḥ* (Pā. 8-2-9 [?]); since *matup* is *pit*, it is unaccented; the sixth case, singular. — ***viśvataḥ*** — in the sense of the fifth case, *tasil* by *pañcamyās tasil* (Pā. 5-3-7 [?]); since it is *lit*-marked, the syllable before the suffix is acute by *liti* (Pā. 6-1-193 [?]). — ***yanti*** — root *iṇ* (to go), *adādi*; *laṭ*, third person plural *jhi*; *jho 'ntaḥ* (Pā. 7-1-3 [?]) gives *ant*; *iṇo yaṇ* (Pā. 6-4-81 [?]) gives *yaṇ* for the root-vowel before the *aj*-initial suffix; since *yat* [the word *yad*] is connected with it, the *nighāta* is blocked by *yadvṛttān nityam* (Pā. 8-1-66 [?]); so the root's initial acute [the *ādyudātta*] remains.
+
+### Page 127 (PDF 147)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 127.)*
+
+*Grammar of Rik 97.5, concluded (noted briefly):* ***bhānavaḥ*** — root *bhā* (to shine); *nu* by *dābhābhyāṃ nuḥ* (Uṇ. 3-[?]3 [?]); the final acute by the suffix accent; with *jas* following, *jasi ca* (Pā. 7-3-109 [?]) gives guṇa, and *av* for the *o*. ‖ 5 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 6
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.6)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> त्वं हि विश्वतोमुख विश्वतः परिभूरसि ।
+> अप नः शोशुचदघम् ॥ ६ ॥
+
+*tvaṃ hi viśvatomukha viśvataḥ paribhūr asi | apa naḥ śośucad agham ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.6)**
+
+> त्वम् । हि । विश्वतःऽमुख । विश्वतः । परिऽभूः । असि ।
+> अप । नः । शोशुचत् । अघम् ॥ ६ ॥
+
+*tvam | hi | viśvataḥ-mukha | viśvataḥ | pari-bhūḥ | asi | apa | naḥ | śośucat | agham ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 97.6)**
+
+> हे अग्ने त्वं हि त्वं खलु विश्वतोमुखः सर्वतोज्वालः । तव मुखस्थानीयानां ज्वालानां न कुत्रापि प्रतिहतिरस्ति । अतो हे विश्वतोमुखाग्ने विश्वतः सर्वतः सर्वस्मादप्युपद्रवजातात्परिभूरसि । अस्माकं परिग्रहीता भव । रक्षको भवेत्यर्थः । अन्यत्समानं ॥
+> *he agne tvaṃ hi tvaṃ khalu viśvatomukhaḥ sarvatojvālaḥ | tava mukhasthānīyānāṃ jvālānāṃ na kutrāpi pratihatir asti | ato he viśvatomukhāgne viśvataḥ sarvataḥ sarvasmād apy upadravajātāt paribhūr asi | asmākaṃ parigrahītā bhava | rakṣako bhaved ity arthaḥ | anyat samānaṃ ‖*
+
+*(Sense, mine and tentative: "O Agni, you are 'faced on all sides' — with flames in all directions; your flames, which are in the place of faces, are not checked anywhere; therefore, O Agni of all-sided face, you surround (*paribhūḥ asi*), from every direction, every group of dangers: be our protector — be a guardian, is the sense. The rest as before.")*
+
+### Page 128 (PDF 148)
+
+*(Running head: left 128; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*agne* — O Agni) *tvaṃ hi* — you; *viśvatomukhaḥ* — one with flames spreading without hindrance in every direction (as such you are); *viśvataḥ* — in all directions (the dangers that come to us); *paribhūḥ asi* — be our protector; *naḥ* — our; *agham* — sin; *apa śośucat* — may it be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, since your flame spreads forward, without hindrance, in all directions, you are *viśvatomukha*. Therefore, from whichever direction danger may come to us, be our protector and guard us. May our sin be destroyed."
+
+**English Translation (as printed)**
+
+> You, whose countenance is turned to all sides, are our defender ; may our sin be repented of.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 97.6 (Kannada)**
+
+***viśvatomukhaḥ*** — *sarvatojvālaḥ*: "'having flames everywhere': *tava mukhasthānīyānāṃ jvālānāṃ na kutrāpi pratihatir asti*: 'the flames of Agni, which stand in the place of his faces, are checked nowhere'; since the flame of Agni, unchecked, spreads out and pervades all sides, the epithet *viśvatomukha* is given. In just the same way this epithet is used everywhere as an epithet of the all-pervading (Ṛ. 10-8[1]-3 [?]) Viśvakarman."
+
+***paribhūḥ*** — *asmākaṃ parigrahītā rakṣakaḥ*: "'our protector who takes [us] in'; the sense is 'be our protector'. Skandasvāmin says: *paripūrvo bhavatiḥ sarvatra parigrahārthaḥ*: 'the root *bhū* with *pari* means "taking hold of" everywhere': a general rule is given that, joined with the prefix *pari*, the root *bhū* denotes embrace and acceptance everywhere. Even so, the use of the word *paribhūḥ* in different meanings can be seen. For example —"
+
+> अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि ।
+> *agne yaṃ yajñam adhvaraṃ viśvataḥ paribhūr asi |*
+> (*Ṛ. Saṃ.* 1-1-4)
+
+"— in this, *agnir asti* [*sic*, 'Agni is'] in the places called Āhavanīya, Mārjālīya, Gārhapatya and Āgnīdhrīya in the four directions, east and the rest — such is the sense: 'you are there in the four directions, east and the rest, in the places named Āhavanīya, Mārjālīya, Gārhapatya and Āgnīdhrīya'. Where the meaning 'pervade all regions' arises, it is not possible to say that the purport is 'accept all'. For example —" *(continues on p. 129)*
+
+### Page 129 (PDF 149)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 129; foot: printer's signature "9 … Volume 8".)*
+
+> स देवो देवान्प्रति प्रप्रथे पृथु विश्वेदु ता परिभूर्ब्रह्मणस्पतिः ।
+> *sa devo devān prati paprathe pṛthu viśved u tā paribhūr brahmaṇas patiḥ |*
+> (*Ṛ. Saṃ.* 2-2[3]-[?] as read [?])
+
+*(Gloss, mine and tentative: "that god spread wide toward the gods; all these doth Brahmaṇaspati surround".)* "In this Ṛk, the word *paribhū* means 'one who, having taken all under his own control, himself pervades everywhere, and, being the lord and master of all, stands in the most exalted places'. So, in different senses, 'accept us, make us your own and protect us' is the sense in the present context."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 97.6)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+***viśvatomukha*** — 'he whose face is on all sides': in the vocative singular, *āmantritasya ca* (Pā. 8-1-19 [?]) gives the *nighāta*. — ***paribhūḥ*** — root *bhū* (being) with the prefix *pari* before it; *kvip* by *kvip ca* (Pā. 3-2-76 [?]); *gatikārakopapadāt kṛt* (Pā. 6-2-139 [?]) gives the *kṛt*-compound's first-member accent. — ***asi*** — root *as* (to be); *laṭ*, second person singular, *sip*; since an *s*-initial suffix follows, *tāsasty or lopaḥ* (Pā. 7-4-50 [?]) elides the root's *s*; since *yat*-connexion [the word *hi*] there, no *nighāta*; since *sip* is *pit*, the root's accent holds. ‖ 6 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 7
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 97.7)** *(Gāyatrī; accent marks printed here, not reproduced)*
+
+> द्विषो नो विश्वतोमुखाति नावेव पारय ।
+> अप नः शोशुचदघम् ॥ ७ ॥
+
+*dviṣo no viśvatomukhāti nāveva pāraya | apa naḥ śośucad agham ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 97.7)**
+
+> द्विषः । नः । विश्वतःऽमुख । अति । नावाऽइव । पारय ।
+> अप । नः । शोशुचत् । अघम् ॥ ७ ॥
+
+*dviṣaḥ | naḥ | viśvataḥ-mukha | ati | nāvā-iva | pāraya | apa | naḥ | śośucat | agham ‖ 7 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–129 done (PDF 21–149): Sūktas 95 and 96 complete; **Sūkta 97** (8 Ṛks; *apa naḥ śośucad agham*; Kutsa Āṅgirasa; Gāyatrī; printed pp. 110–?): Riks 97.1–97.6 complete (97.5's Special Topics and grammar on pp. 126–127; 97.6 on pp. 127–129); Rik 97.7: Saṃhitā and Pada (foot of p. 129). Next: printed p. 130 (PDF 150) — the bhāṣya of 97.7, then its other parts, then Rik 97.8 (the last Ṛk), and Sūkta 98 at printed p. 134. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–97 (pp. 1–129) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95, 96 and 97 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–96.9 (see the earlier notes, all carried here); in 97 the introduction's Tāṇḍya Brāhmaṇa quotation and its reference (11-6-8 [?]; 'the eighth/tenth day' [?]) and the Taittirīya Āraṇyaka reference (6-11 [?]), the Nirukta quotation on *śuciḥ* on p. 113, Skandasvāmin's story on pp. 113–114 (the Sanskrit clotted; *kaśa* [?]; the verse Ṛ. 10-3[8]-5), the Nirukta and Ṛgveda quotations on pp. 115, 118–122, 124 and 126–129 [?], the bhāṣya tails of 97.2 (*kyajantād a pratyayāt*) and 97.3 (last clause) [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
