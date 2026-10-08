@@ -8055,4 +8055,83 @@ Closing of Rik 89.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–290 done (PDF 16–305) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.6 complete**; **Rik 89.7** (Jagatī) done through its Special Topics (with the seven *agnijihvāḥ* citations on p. 290) and the first entry of its grammar page; the rest of the grammar follows on p. 291, then 89.8–89.10 (Triṣṭubh). Next: printed p. 291 (PDF 306). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 291 (PDF 306)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 291.)*
+
+*Vyākaraṇa-prakriyā of Rik 89.7, concluded from p. 290 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **शुभंयावानः** — the root *yā prāpaṇe*; by "आतो मनिन्क्वनिब्वनिपश्च" (Pā. Sū. 3-2-[74]) the affix *vanip*, since the root ends in *ā*; the word *yāvan*; *śubhaṃ yānti iti śubhaṃyāvānaḥ*; by "तत्पुरुषे कृति बहुलम्" (Pā. Sū. 6-3-[14]) the word *bahula* is included, so the *luk* of the accusative case-ending does not occur in the compound; by "गतिकारकोपपदात्कृत्" the base accent of the *kṛdutarapada*.
+- **जग्मयः** — the root *gamḷ gatau*; by "आदृगमहनजनः किकिनौ लिट् च" (Pā. Sū. 3-2-[171]) the affix *kin*; by the statement that *liṭ*-like status holds, the root is reduplicated; in the reduplicate the *hal*-initial remains; by "कुहोश्चुः" *cutva*; by "गमहनजन…" the loss of the penultimate because the affix is *kit*; the word *jagmi*; in the nominative plural with *jas* following, by "जसि च" the *guṇa*; *ay*-substitution; since the affix is *nit*, the first syllable is acute.
+- **अवसा** — the root *ava rakṣaṇe*; the affix *asun*; the word *avas*; instrumental singular.
+- **गमन्** — the root *gamḷ gatau*; since the sense is a prayer, *leṭ*; third person plural, the affix *jhi*; by "झोऽन्तः" the substitute *ant*; by "इतश्च लोपः परस्मैपदेषु" the loss of the *i*; by "लेटोऽडाटौ" the augment *aṭ*; by "बहुलं छन्दसि" the *luk* of *śap*; since it is *luk*, the *bhāva* does not come; since it follows an *atiṅanta*, the *nighāta*; by "संयोगान्तस्य लोपः" the loss of the final *t*.
+
+Closing of Rik 89.7: "॥ ७ ॥" (7), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 89.8)** *(Triṣṭubh; Viśvedevas; accents not reproduced)*
+
+> भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
+> स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिर्व्यशेम देवहितं यदायुः ॥ ८ ॥
+
+*bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ | sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yad āyuḥ ‖ 8 ‖*
+
+*Gloss, mine and tentative:* "May we hear with our ears what is good, O gods; may we see with our eyes what is good, O worshipful ones; praising [you] with firm limbs and bodies, may we attain the life that is set for us by the gods."
+
+---
+
+### Page 292 (PDF 307)
+
+*(Running head: "292 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.8)**
+
+> भद्रम् । कर्णेभिः । शृणुयाम । देवाः । भद्रम् । पश्येम । अक्षऽभिः । यजत्राः ।
+> स्थिरैः । अङ्गैः । तुस्तुऽवांसः । तनूभिः । वि । अशेम । देवऽहितम् । यत् । आयुः ॥ ८ ॥
+
+*bhadram | karṇebhiḥ | śṛṇuyāma | devāḥ | bhadram | paśyema | akṣa-bhiḥ | yajatrāḥ | sthiraiḥ | aṅgaiḥ | tustu-vāṃsaḥ | tanūbhiḥ | vi | aśema | deva-hitam | yat | āyuḥ ‖ 8 ‖*
+
+*(The Pada prints the compound as* tustu-vāṃsaḥ*, while the Saṃhitā and the bhāṣya have* tuṣṭuvāṃsaḥ*; as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.8)**
+
+> अस्ति सौम्यश्चरुस्तृतीयसवने । तेन चरुणा देवताया इष्ट्वेष्वशेषे तस्मिन्स्वहुतघृतमवनीय तस्मिन्स्वषट्कर्त्रा स्वकीयो च्छाया द्रष्टव्या । सा यदि न दृश्येत तदानीं भद्रमित्येका पठितव्या । त्वं सोमेति खण्डे तथैव सूत्र्यते । राज्ञा सोमेन तद्वयमस्मासु धारयामसि भद्रं कर्णेभिः शृणुयाम देवा इति च । आ. ५-१८ [?] । इति ॥ महानाम्न्यां व्रते ऽप्येषा भूमिस्पर्शने जप्या । सूत्रितं चैतद्विदमिति खण्डे । भद्रं कर्णेभिः शृणुयाम देवाः शं न इन्द्राग्नी भवतामवोभिः । आ. ८-१४ [?] । इति ॥
+
+*asti saumyaś carus tṛtīyasavane | tena caruṇā devatāyā iṣṭveṣv aśeṣe tasmin svahutaghṛtam avanīya tasmin svaṣaṭkartrā svakīyo cchāyā draṣṭavyā | sā yadi na dṛśyeta tadānīṃ bhadram ity ekā paṭhitavyā | tvaṃ somety khaṇḍe tathaiva sūtryate | rājñā somena tad vayam asmāsu dhārayāmasi bhadraṃ karṇebhiḥ śṛṇuyāma devā iti ca | Ā. 5-18 [?] | iti ‖ mahānāmnyāṃ vrate 'py eṣā bhūmisparśane japyā | sūtritaṃ caitad vidam iti khaṇḍe | bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ śaṃ na indrāgnī bhavatām avobhiḥ | Ā. 8-14 [?] | iti ‖*
+
+*(Kannada script; the first lines are the application note [the bhāṣya proper begins below]; "tasmin svahutaghṛtam", "svaṣaṭkartrā svakīyo cchāyā" and the Āśvalāyana numerals are clotted [?].)*
+
+*Translation (of the application note):* "At the third pressing there is a *Saumya* cooked oblation (*caru*). Having sacrificed with that *caru* to the deity, and the whole having been offered, he is to take the well-offered ghee in it and look at his own reflection in it, made with the *vaṣaṭ*-call [the *vaṣaṭkartṛ*, the priest]. If it is not seen, then one [Ṛk] *bhadram* is to be recited. This is prescribed in the section *tvaṃ soma*: '*rājñā somena tad vayam asmāsu dhārayāmasi*' and '*bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ*' (Āś. [5-18] [?]). At the *Mahānāmnī* vow, this Ṛk is to be muttered when touching the earth; it is prescribed in the section *etad vidam*: '*bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ śaṃ na indrāgnī bhavatām avobhiḥ*' (Āś. [8-14] [?])."
+
+> हे देवा दानादिगुणयुक्ताः सर्वे देवाः कर्णेभिरस्मदीयैः श्रोत्रैर्भद्रं भजनीयं कल्याणं वचनं शृणुयाम । युष्मत्सम्बन्धि श्रोतुं समर्थाः स्याम । अस्माकं बाधिर्यं कदाचिदपि मा भूत् । हे यजत्रा यागेषु चरुपुरोडाशादिभिर्यष्टव्या देवा अक्षभिरक्षिभिर्भाति [?] भद्रं शोभनं पश्येम । द्रष्टुं समर्थाः स्याम । अस्माकं दृष्टिप्रतिघातो ऽपि मा भूत् । स्थिरैर्दृढैरङ्गैर्हस्तपादादिभिरवयवैस्तनूभिः शरीरैश्च युक्ता वयं तुष्टुवांसो युष्मान् स्तुवन्तो यदायुः षोडशाधिकशतप्रमाणं विंशत्यधिकशतप्रमाणं वा देवहितं देवेन प्रजापतिना स्थापितं तद्व्यशेम । प्राप्नुयाम ॥ कर्णेभिः । बहुलं छन्दसीति भिस ऐसभावः । अक्षभिः । छन्दस्यपि दृश्यत इत्यनङ् स चोदात्तः । यजत्राः । अमिनक्षि… इत्यादिना यजेरत्रन्प्रत्ययः । तुष्टुवांसः । ष्टुञ् स्तुतौ । लिटः क्वसुः । शर्पूर्वाः खय इति तकारः शिष्यते । अशेम । अशू व्याप्तौ । लिङ्याशिष्यङ् । यदि तु तत्र परिगणनमन्यव्यावृत्त्यर्थं तदानीं लिङः व्यत्ययेन शप् । देवहितम् । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*he devā dānādiguṇayuktāḥ sarve devāḥ karṇebhir asmadīyaiḥ śrotrair bhadraṃ bhajanīyaṃ kalyāṇaṃ vacanaṃ śṛṇuyāma | yuṣmatsambandhi śrotuṃ samarthāḥ syāma | asmākaṃ bādhiryaṃ kadācid api mā bhūt | he yajatrā yāgeṣu carupuroḍāśādibhir yaṣṭavyā devā akṣabhir akṣibhir bhāti [?] bhadraṃ śobhanaṃ paśyema | draṣṭuṃ samarthāḥ syāma | asmākaṃ dṛṣṭipratighāto 'pi mā bhūt | sthirair dṛḍhair aṅgair hastapādādibhir avayavais tanūbhiḥ śarīraiś ca yuktā vayaṃ tuṣṭuvāṃso yuṣmān stuvanto yad āyuḥ ṣoḍaśādhikaśatapramāṇaṃ viṃśatyadhikaśatapramāṇaṃ vā devahitaṃ devena prajāpatinā sthāpitaṃ tad vyaśema | prāpnuyāma ‖ karṇebhiḥ | bahulaṃ chandasīti bhisa aisabhāvaḥ | akṣabhiḥ | chandasy api dṛśyata ity anaṅ sa codāttaḥ | yajatrāḥ | aminakṣi… ity ādinā yajer atran-pratyayaḥ | tuṣṭuvāṃsaḥ | ṣṭuñ stutau | liṭaḥ kvasuḥ | śarpūrvāḥ khaya iti takāraḥ śiṣyate | aśema | aśū vyāptau | liṅy āśiṣy aṅ | yadi tu tatra parigaṇanam anyavyāvṛttyarthaṃ tadānīṃ liṅaḥ vyatyayena śap | devahitam | tṛtīyā karmaṇeti pūrvapadaprakṛtisvaratvam ‖*
+
+*(Kannada script; "bhāti [?]" and the sūtra after* yajatrāḥ *are cramped.)*
+
+*Translation:* "O gods, endowed with qualities such as generosity — all gods — may we hear with our ears *bhadram*, what is auspicious, to be resorted to; may we be able to hear what concerns you; may deafness never befall us. O worshipful ones (*yajatrāḥ*), you to be worshipped in sacrifices with *caru*, *puroḍāśa* and so on: may we see with our eyes (*akṣabhiḥ*) what is good — may we be able to see; may no obstruction of our sight occur. Endowed with firm limbs — hands, feet and the like — and with bodies, we, praising you, *vyaśema* — may attain the life of one hundred and sixteen, or one hundred and twenty, years — *devahitam*, appointed by Prajāpati, the god. *Grammar tail, noted briefly:* *karṇebhiḥ* — no *ais* for *bhis* by 'bahulaṃ chandasi'; *akṣabhiḥ* — *anaṅ*, acute; *yajatrāḥ* — *atran* after *yaj*; *tuṣṭuvāṃsaḥ* — *kvasu* for *liṭ* of *ṣṭuñ*; *aśema* — *aśū vyāptau*, benedictive; *devahitam* — first member keeps its accent."
+
+---
+
+### Page 293 (PDF 308)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 293.)*
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.8)** *(Kannada)*
+
+*devāḥ* — O gods endowed with the qualities of generosity and the rest; *karṇebhiḥ* — with our ears; *bhadram* — a message of the nature of good; *śṛṇuyāma* — may we be able to hear; *yajatrāḥ* — O gods worthy of worship in sacrifices; *akṣabhiḥ* — with our eyes; *bhadram* — what is auspicious; *paśyema* — may we be able to see; *sthiraiḥ* — firm; *aṅgaiḥ* — with the limbs, hands, feet and so on; *tanūbhiḥ* — with bodies as well; *tuṣṭuvāṃsaḥ* — praising you; *yat āyuḥ* — which fixed measure of life; *devahitam* — which has been ordained by Prajāpati — that; *vyaśema* — may we enjoy (experience).
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.8** *(Kannada)*
+
+"O gods worthy of worship in sacrifices, grant that we may be able to hear with our ears a message of the nature of good, and be able to see with our eyes only what is auspicious; and grant that, praising you with our bodies made of firm limbs, we may experience the measure of life ordained by Prajāpati."
+
+**English Translation** *(printed in English in the source)*
+
+"O Gods, let us hear with our ears what is good; objects of sacrifice, let us see with our eyes what is good; engaged in your praises let us enjoy with firm limbs and sound bodies the term of life granted by the gods." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.8)**
+
+"In the *Saumya* offering at the third pressing, the practice is to make an oblation to the Soma deity by *vaṣaṭ*-call, in the fire. After making the oblation to the deity, with the remaining ghee, the sacrificer, having poured *tuppa* [ghee] in abundance, is to look at his own reflection in it. If his own reflection is not clearly seen in that ghee, then this Ṛk *bhadraṃ karṇebhiḥ*, which is relevant here, is to be recited, as it is pointed out in the Āśvalāyana Śrauta-sūtra, in the section *tvaṃ soma*, by the sūtra '*rājñā somena tad vayam asmāsu dhārayāmasi bhadraṃ karṇebhiḥ śṛṇuyāma devā iti ca*' (Āś. [5-18] [?]). Also, at the *Mahānāmnī vrata*, when touching the earth, this Ṛk is to be muttered; it is set forth in the section *etad vidam* by the sūtra '*bhadraṃ karṇebhiḥ śṛṇuyāma devāḥ śaṃ na indrāgnī bhavatām avobhiḥ*' (Āś. [8-14] [?])." *(this entry runs on to p. 294)*
+
+---
+
+**Progress note:** Printed pp. 1–293 done (PDF 16–308) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.7 complete**; **Rik 89.8** (Triṣṭubh) done through its Saṃhitā, Pada, bhāṣya (the Saumya-caru and Mahānāmnī application is stated at its head), Pratipadārtha, Bhāvārtha, English and the first (application) part of the Special Topics, which runs on p. 294; then 89.8's remaining Special Topics and grammar, 89.9 and 89.10. Next: printed p. 294 (PDF 309). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Ṛgveda numerals of the seven *agnijihvāḥ* citations on p. 290 [?]; the Āśvalāyana numerals on pp. 292–293 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8 (*tuṣṭuvāṃsaḥ/tustu-vāṃsaḥ*); a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282 and 292 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
