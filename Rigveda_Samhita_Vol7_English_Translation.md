@@ -8555,4 +8555,117 @@ Closing of Rik 90.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–308 done (PDF 16–323) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.2 complete**; **Rik 90.3** — Saṃhitā done (foot of p. 308); next: its Pada, bhāṣya and the rest, then 90.4–90.9. Next: printed p. 309 (PDF 324). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296 and 299 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 309 (PDF 324)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 309.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.3)**
+
+> ते । अस्मभ्यम् । शर्म । यंसन् । अमृताः । मर्त्येभ्यः ।
+> बाधमानाः । अप । द्विषः ॥ ३ ॥
+
+*te | asmabhyam | śarma | yaṃsan | amṛtāḥ | martyebhyaḥ | bādhamānāḥ | apa | dviṣaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.3)**
+
+> अमृता अमरणधर्माणस्ते विश्वे देवा मर्त्येभ्यो मरणधर्मेभ्यो ऽस्मभ्यमनुष्ठातृभ्यः शर्म अमृतलक्षणं सुखं यंसन् । यच्छन्तु । प्रयच्छन्तु । किं कुर्वन्तः । द्विषोऽस्मदीयान्पापलक्षणान्शत्रूनपबाधमानाः विनाशं प्रापयन्तः ॥ यंसन् । यमु उपरमे । लेट्यडागमः । सिब्बहुलं लेटीति सिप् । अमृताः । मृतं मरणं येषां नास्तीत्यमृताः । नञ्सुभ्यां जरमरमित्र मृताः इत्युत्तरपदाद्युदात्तत्वम् ॥
+
+*amṛtā amaraṇadharmāṇas te viśve devā martyebhyo maraṇadharmebhyo 'smabhyam anuṣṭhātṛbhyaḥ śarma amṛtalakṣaṇaṃ sukhaṃ yaṃsan | yacchantu | prayacchantu | kiṃ kurvantaḥ | dviṣo 'smadīyān pāpalakṣaṇān śatrūn apabādhamānāḥ vināśaṃ prāpayantaḥ ‖ yaṃsan | yamu uparame | leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip | amṛtāḥ | mṛtaṃ maraṇaṃ yeṣāṃ nāstīty amṛtāḥ | nañsubhyāṃ jaramaramitra mṛtāḥ ity uttarapadādyudāttatvam ‖*
+
+*Translation:* "Those *amṛtāḥ* — immortal — all-gods, *martyebhyaḥ* — to us who are mortals, the performers of rites — may they bestow *śarma* — happiness of the nature of freedom from death — *yaṃsan*, may they give, grant. Doing what? *Apa bādhamānāḥ* — driving off, bringing to destruction, *dviṣaḥ* — our haters, enemies of the nature of sin. *Grammar tail, noted briefly:* *yaṃsan* — *yamu uparame*, *leṭ* with *aṭ* and *sip*; *amṛtāḥ* — those for whom there is no *mṛta* (death); the first syllable of the latter member acute in the *jaramaramitra mṛtāḥ* rule."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.3)** *(Kannada)*
+
+*amṛtāḥ* — free from death; *te* — those deities; *dviṣaḥ* — (our sinful) enemies; *apa bādhamānāḥ* — destroying; *martyebhyaḥ* — to us who are subject to death; *asmabhyam* — to us; *śarma* — (deathless) happiness; *yaṃsan* — let them give.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.3** *(Kannada)*
+
+"The deities Mitra, Varuṇa and the rest are free from death; we are all subject to death. May they destroy only our wicked enemies and favour us, the performers of rites, with deathless happiness."
+
+**English Translation** *(printed in English in the source)*
+
+"May they, who are immortal, bestow upon us mortals, happiness driving away our enemies." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.3)**
+
+"The meaning of this Ṛk is easy. There are no difficulties of any kind. The intention is clear."
+
+- **शर्म** — "happiness, or house."
+- **अमृताः** — "Mitra and the other deities, free from death."
+
+---
+
+### Page 310 (PDF 325)
+
+*(Running head: "310 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 90".)*
+
+*Special Topics of Rik 90.3, continued from p. 309:*
+
+- **मर्त्येभ्यः अस्मभ्यम्** — "to us, men, who have the nature of dying."
+- **अप बाधमानाः** — "those who destroy, drive away, injure."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.3)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **यंसन्** — the root *yamu uparame*; *leṭ*, third person plural, the affix *jhi*; by "इतश्च लोपः परस्मैपदेषु" the loss of the *i*; by "लेटोऽडाटौ" the augment *aṭ*; by "सिब्बहुलं लेटि" (Pā. Sū. 3-1-[34]) the affix *sip*; by "संयोगान्तस्य लोपः" the loss of the final *t*; by "नश्चापदान्तस्य झलि" the *anusvāra* for the *m*; since it follows an *atiṅanta*, the *nighāta*.
+- **अमृताः** — the root *mṛṅ prāṇatyāge*; the affix *kta*; *mṛtaṃ maraṇaṃ yeṣāṃ nāsti ity amṛtāḥ*; by "नञ्सुभ्यां जरमरमित्रमृताः" (Pā. Sū. 6-2-[116]) the first syllable of the latter member is acute.
+- **द्विषः** — the root *dviṣa aprītau*; by "सत्सूद्विष…" (Pā. Sū. 3-2-[61]) the affix *kvip*; accusative plural.
+
+Closing of Rik 90.3: "॥ ३ ॥" (3). *(A separator "— :o: —" follows in the print.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 90.4)** *(Gāyatrī; accents not reproduced)*
+
+> वि नः पथः सुविताय चियन्त्विन्द्रो मरुतः ।
+> पूषा भगो वन्द्यासः ॥ ४ ॥
+
+*vi naḥ pathaḥ suvitāya ciyantv indro marutaḥ | pūṣā bhago vandyāsaḥ ‖ 4 ‖*
+
+*Gloss, mine and tentative:* "May Indra, the Maruts, Pūṣan, Bhaga — the worshipful — clear our paths for welfare."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 90.4)**
+
+> वि । नः । पथः । सुविताय । चियन्तु । इन्द्रः । मरुतः ।
+> पूषा । भगः । वन्द्यासः ॥ ४ ॥
+
+*vi | naḥ | pathaḥ | suvitāya | ciyantu | indraḥ | marutaḥ | pūṣā | bhagaḥ | vandyāsaḥ ‖ 4 ‖*
+
+---
+
+### Page 311 (PDF 326)
+
+*(Running head left: "A. 1 A. 6 Va. 16 [?]"; centre: "Ṛgvedasaṃhitā"; right: 311.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 90.4)**
+
+> वन्द्यासः सर्वैर्वन्दनीयाः स्तोतव्या नमस्कर्तव्या वेन्द्रादयो देवा नोऽस्माकं पथो मार्गान्हि चियन्तु । विचिन्वन्तु । अशोभनेभ्यो मार्गेभ्यः सकाशात्पृथक्कुर्वन्तु । किमर्थम् । सुविताय सुष्ठु प्राप्तव्याय स्वर्गादिफलाय ॥ पथः । शसि भस्य टेर्लोप इति टिलोपः । उदात्तनिवृत्तिस्वरेण शस उदात्तत्वं । सुविताय । इण् गताविति क्तः । स्वात्कर्मणि निष्ठा । तेनादीनां छन्दसि बहुलमुपसंख्यानमित्येव्वज् । गतिरनन्तर इति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते सूपमानात् क्त इत्युत्तरपदान्तोदात्तत्वं । चियन्तु । चिञ् चयने । बहुलं छन्दसीति विकरणस्य लुक् । इयङ् । सादादित्वात्प्राप्ताद्भावः । वन्द्यासः । वदि अभिवादनस्तुत्योः । ऋहलोर्ण्यत् । ईडवन्दवृशंसदुहां ण्यतः इत्याद्युदात्तत्वं । आज्जसेरसुक् ॥
+
+*vandyāsaḥ sarvair vandanīyāḥ stotavyā namaskartavyā vendrādayo devā no 'smākaṃ patho mārgān hi ciyantu | vicinvantu | aśobhanebhyo mārgebhyaḥ sakāśāt pṛthak kurvantu | kimartham | suvitāya suṣṭhu prāptavyāya svargādiphalāya ‖ pathaḥ | śasi bhasya ṭer lopa iti ṭilopaḥ | udāttanivṛttisvareṇa śasa udāttatvaṃ | suvitāya | iṇ gatāv iti ktaḥ | svāt karmaṇi niṣṭhā | tenādīnāṃ chandasi bahulam upasaṃkhyānam ity evvaj | gatir anantara iti pūrvapadaprakṛtisvaratve prāpte sūpamānāt kta ity uttarapadāntodāttatvaṃ | ciyantu | ciñ cayane | bahulaṃ chandasīti vikaraṇasya luk | iyaṅ | … | vandyāsaḥ | vadi abhivādanastutyoḥ | ṛhaloṛ ṇyat | īḍavandavṛśaṃsaduhāṃ ṇyataḥ ity ādyudāttatvaṃ | āj jaser asuk ‖*
+
+*(Kannada script; the clause on* suvitāya *is cramped and read in part [?].)*
+
+*Translation:* "*Vandyāsaḥ* — to be worshipped by all, to be praised, to be bowed to — Indra and the other gods *ciyantu* — may they separate out, pick out, *no pathaḥ* — our paths; may they set them apart from the paths that are not good. For what? *Suvitāya* — for the fruit, heaven and the like, which is to be well obtained. *Grammar tail, noted briefly:* *pathaḥ* — loss of *ṭi* of the *bha*-stem; *suvitāya* — *kta* in the passive of *iṇ gatau* after *su*, with the suffix as Vedic; *ciyantu* — *ciñ cayane*, *vikaraṇa* elided, *iyaṅ*; *vandyāsaḥ* — *ṇyat* after *vadi*, acute on the first syllable; *asuk* for *jas*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 90.4)** *(Kannada)*
+
+*vandyāsaḥ* — those worthy of being praised (by all); *indraḥ* — Indra; *marutaḥ* — the Maruts; *pūṣā* — the deity Pūṣan; *bhagaḥ* — the deity Bhaga too; *suvitāya* — for the means to the fruit that is our desired heaven and the like; *naḥ* — for us; *pathaḥ vi ciyantu* — (turn us from the evil path) may they make us walkers on the right path.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 90.4** *(Kannada)*
+
+"May Indra, the Maruts, Pūṣan and the deity Bhaga, who are worthy of worship by all, turn us away from the evil path, and show us the right path, for the means to the fruit of heaven and the like which we desire."
+
+**English Translation** *(printed in English in the source)*
+
+"May the adorable Indra, the Maruts, Pushan, and Bhaga, so direct our path that they may lead to the attainment of our welfare." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 90.4)**
+
+- **वन्द्यासः** — "the word *vandyāsaḥ* is an ancient usage: those who are saluted by all."
+- **सुविताय** — *suṣṭhu prāptavyāya svargādiphalāya* — "for what is to be well obtained: for the obtaining of the fruit of heaven and the like — for our good."
+- **वि चियन्तु** — *ciñ cayane | vicinvantu | aśobhanebhyo mārgebhyaḥ sakāśāt pṛthak kurvantu* — "pick out, sort out: make us go not on evil paths and make us go separately, on each one's right path."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 90.4)** *(grammar page, noted briefly; begins here)*
+
+- **पथः** — the word *pathin*; since *śas* follows in the accusative plural, by "भस्य टेर्लोपः" (Pā. Sū. 6-4-[144]) the loss of the *ṭi* (*in*); since *śas* is unaccented, the *i* [as printed: *udātta (ikāra)*] *(the page ends mid-entry; the grammar continues on p. 312)*
+
+---
+
+**Progress note:** Printed pp. 1–311 done (PDF 16–326) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–89 complete.** **Sūkta 90** (nine Ṛks: 1–8 Gāyatrī, 9 Anuṣṭubh; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 303–324): **Riks 90.1–90.3 complete**; **Rik 90.4** done through its English, Special Topics and the first entry of its grammar page (*pathaḥ*, mid-entry at the foot of p. 311); the rest of the grammar continues on p. 312, then 90.5–90.9. Next: printed p. 312 (PDF 327). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals and the second sūtra (*paryosān kadvato 'paraḥ*) on p. 303 [?]; the Ṛgveda numerals of the *agnijihvāḥ* citations on p. 290 and the *pañcajanāḥ* citations on pp. 300–301 [?]; the Āśvalāyana numerals on pp. 292–293, 299–300 [?]; Nirukta and Aitareya numerals on pp. 299–301 [?]; Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274, 282, 292, 296, 299 and 311 tails clotted (p. 282 tail partly omitted); p. 301 Veṅkaṭamādhava quotation clotted; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282, 292, 296, 299, 311: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
