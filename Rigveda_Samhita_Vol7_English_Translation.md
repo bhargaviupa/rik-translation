@@ -15440,5 +15440,112 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 ---
 
-**Progress note:** Printed pp. 1–538 done (PDF 16–553), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.8 complete (94.8 ends on p. 538 with its grammar page; its bhāṣya clotted at *pāpabuddhes tasya*, after *abhibhavatu*, *śadarthācaraṇena*, and the *śatur anumo* sūtra and *ḍhatva* clause; sūtra numerals small, doubtful [?]; Pāda-wise, the print's Saṃhitā/Pada differences dūḍhyaḥ/duḥ-dhyaḥ and puṣyatā/puṣyata); Rik 94.9: the first line of the Saṃhitā only (p. 538), to be continued from the second line at the head of p. 539. Earlier: 94.7 bhāṣya clotted at *asmānaḥ*; 94.6 Special Topics citations 3-3-3, 3-10-4, 4-3-1, 10-1-5, 10-110-11 as read [?] and its bhāṣya clotted at *pūrvaddhotar*, *hotṛsya*, *hotāmukhyaḥ* [?]. Next: printed p. 539 (PDF 554). Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 539 (PDF 554)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 539.)*
+
+**Saṃhitā-pāṭha of Rik 94.9, concluded** *(second line)*
+
+> अथा यज्ञाय गृणते सुगं कृध्यग्ने सख्ये मा रिषामा वयं तव ॥ ९ ॥
+
+*athā yajñāya gṛṇate sugaṃ kṛdhy agne sakhye mā riṣāmā vayaṃ tava ‖ 9 ‖*
+
+*(The whole Rik, in the Saṃhitā: वधैर्दुःशंसाँ अप दूढ्यो जहि दूरे वा ये अन्ति वा के चिदत्रिणः । अथा यज्ञाय गृणते सुगं कृध्यग्ने सख्ये मा रिषामा वयं तव ॥ — Jagatī.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 94.9)**
+
+> वधैः । दुःऽशंसान् । अप । दुःऽध्यः । जहि । दूरे । वा । ये । अन्ति । वा । के । चित् । अत्रिणः ।
+> अथ । यज्ञाय । गृणते । सुऽगम् । कृधि । अग्ने । सख्ये । मा । रिषाम । वयम् । तव ॥ ९ ॥
+
+*vadhaiḥ | duḥ-śaṃsān | apa | duḥ-dhyaḥ | jahi | dūre | vā | ye | anti | vā | ke | cit | atriṇaḥ | atha | yajñāya | gṛṇate | su-gam | kṛdhi | agne | sakhye | mā | riṣāma | vayam | tava ‖ 9 ‖*
+
+*(Reading note: Saṃhitā* dūḍhyaḥ*, Pada* duḥ-dhyaḥ *as printed, as in 94.8; Saṃhitā* athā*, Pada* atha *and Saṃhitā* kṛdhy agne*, Pada* kṛdhi agne*, by sandhi; Saṃhitā* duḥśaṃsām̐*, Pada* duḥ-śaṃsān*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 94.9)**
+
+> हे अग्ने त्वं वधैर्हननसाधनैरायुधैर्दुःशंसान् दुःखेन कीर्तनीयान् दूढ्यो दुर्धियः पापबुद्धीनपि जहि । वधं प्रापय । ये केचित् ये के चन दूरे विप्रकृष्टदेशे वान्तिके समीपदेशे वा वर्तमाना अत्रिणोऽत्तारो राक्षसादयो विद्यन्ते तान् स्पर्धियोऽपि [?] जहीत्यर्थः ॥ अथानन्तरं यज्ञाय यज्ञपतये गृणते त्वां स्तुवते यजमानाय सुगं शोभनं मार्गं कृधि । कुरु । अन्यत्पूर्ववत् ॥ वधैः । हनश्च वध इति हन्तेः करणेऽप् वधादेशश्च । स चादन्तोऽन्तोदात्तः । तस्यातो लोपे सत्यपि निवृत्तिस्वरेण [?] प्रत्ययस्योदात्तत्वं । दुःशंसान् । ईषद्दुःसुष्विति कर्मणि खल् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । जहि । लोटि हिः । हन्तेर्ज इति जादेशः । तस्यासिद्धवदत्राभादित्यसिद्धत्वाद्धेर्लुग्भावः [?] । अन्ति । अन्तिकस्य कादिलोपो बहुलमिति कलोपः । अत्रिणः । आदेस्त्रिनि चेति त्रिनिप्रत्ययः । इकारो नकारपरित्राणार्थः । गृणते । शतुरनुम इति विभक्तेरुदात्तत्वं । सुगं । सुदुरोरधिकरणे । पा. ३-२-४८ [?] इति गमेर्डः । कृधि । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिः । बहुलं छन्दसीति विकरणस्य लुक् ॥
+
+*he agne tvaṃ vadhair hananasādhanair āyudhair duḥśaṃsān duḥkhena kīrtanīyān dūḍhyo durdhiyaḥ pāpabuddhīn api jahi | vadhaṃ prāpaya | ye kecit ye ke cana dūre viprakṛṣṭadeśe vāntike samīpadeśe vā vartamānā atriṇo 'ttāro rākṣasādayo vidyante tān spardhiyo 'pi [?] jahīty arthaḥ ‖ athānantaraṃ yajñāya yajñapataye gṛṇate tvāṃ stuvate yajamānāya sugaṃ śobhanaṃ mārgaṃ kṛdhi | kuru | anyat pūrvavat ‖ vadhaiḥ | hanaś ca vadha iti hanteḥ karaṇe 'p vadhādeśaś ca | sa cādanto 'ntodāttaḥ | tasyāto lope saty api nivṛttisvareṇa [?] pratyayasyodāttatvaṃ | duḥśaṃsān | īṣadduḥsuṣv iti karmaṇi khal | liti iti pratyayāt pūrvasyodāttatvaṃ | jahi | loṭi hiḥ | hanter ja iti jādeśaḥ | tasyāsiddhavad atrābhād ity asiddhatvād dher lugbhāvaḥ [?] | anti | antikasya kādilopo bahulam iti kalopaḥ | atriṇaḥ | ādes trini ceti trinipratyayaḥ | ikāro nakāraparitrāṇārthaḥ | gṛṇate | śatur anuma iti vibhakter udāttatvaṃ | sugaṃ | sudurorādhikaraṇe | pā. 3-2-48 [?] iti gamer ḍaḥ | kṛdhi | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhiḥ | bahulaṃ chandasīti vikaraṇasya luk ‖*
+
+*Gloss (mine, from the Kannada and the bhāṣya as printed):* "O Agni, with your death-dealing weapons strike the evil-speaking ones (those who are hard to speak of), the evil-minded: bring them to death. Whichever eaters (*atriṇaḥ* — ogres and the like) there are, far off or near at hand, strike those as well. Then, for the sacrificer who praises you, the master of the sacrifice, make a fair path. The rest as before." Grammatical tail: *vadhaiḥ* — from *han* in the instrumental sense with *ap* and substitution of *vadha*, ending in *a*, final-acute; *duḥśaṃsān* — *khal* in the passive; *jahi* — *loṭ*, *hi*, *ja* for *han*, with the loss of the *hi* as treated as non-operating [?]; *anti* — from *antika* by loss of *ka*; *atriṇaḥ* — the suffix *trin*, whose *i* is for the preservation of the *n*; *gṛṇate* — case-ending acute; *sugam* — *gam* with *ḍa* after *su*/*dur* in a locative sense; *kṛdhi* — *hi* → *dhi* in the Veda after *kṛ* (the rule on *śru, śṛṇu, pṛ, kṛ, vṛ*), with elision of the *vikaraṇa* (*u*) by *bahulaṃ chandasi*. *(The grammatical tail is clotted at* nivṛttisvareṇa *and* lugbhāvaḥ*; the sūtra numeral is as read, doubtful [?].)*
+
+### Page 540 (PDF 555)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*agne* — O Agni; *vadhaiḥ* — with the weapons that cause death; *duḥśaṃsān* — those known as evil-speaking ones (wicked ones); *dūḍhyaḥ* — the enemies of sinful mind; *apa jahi* — destroy; *ye kecit* — whichever enemies; *dūre* — far off; *vā* — or near at hand; *vā* — whether; *atriṇaḥ* — such rākṣasa-like, evil enemies (destroy); *atha* — then; *yajñāya* — to the sacrificer; *gṛṇate* — (who praises you) the praising one; *sugaṃ* — a lovely path; *kṛdhi* — make; *agne* — O Agni; *tava* — your; *sakhye* — through friendship; *vayaṃ* — we; *mā riṣāma* — may we not suffer harm."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, destroy with your death-dealing weapons the evil-minded enemies, known as wicked ones, whether they are far off or near. Destroy our wicked enemies, the ogres. Make a lovely path for the sacrificer, the praiser of you. Through friendship with you, favour us so that we suffer no harm of any kind."
+
+**English Translation (as printed)**
+
+> Overcome with your fatal (weapons) the wicked and the impicus [sic], all who are enemies whether distant or near, and then provide an easy ( path ) for the sacrificer who praises you ; Agni, let us not suffer injury through your friendship.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Kannada)**
+
+***vadhaiḥ*** — *hananasādhanair āyudhaiḥ*: "with weapons that are the means of killing, that is the sense. In the Ṛksaṃhitā in general the word *vadhaiḥ* is used in the sense *vadhasādhanair āyudhaiḥ*. For example —"
+
+> कुत्साय यत्र पुरुहूत वन्वञ्छुष्णमनन्तैः परियासि वधैः ।
+> *kutsāya yatra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhaiḥ |*
+> (*Ṛ. Saṃ.* 1-121-9 as read [?])
+
+*(Gloss, mine and tentative: "when, much-invoked one, for Kutsa you go about, smiting Śuṣṇa with unending blows".)*
+
+> स्वयं सो अस्मदा निदो वधैरजेत दुर्मतिम् ।
+> *svayaṃ so asmad ā nido vadhair ajeta durmatim |*
+> (*Ṛ. Saṃ.* 1-129-6 as read [?])
+
+*(Gloss, mine and tentative: "may he himself drive from us, with blows, the reviling and the ill-intentioned".)*
+
+"Likewise in 1-133-6; 2-31-2; 6-20-4 [all as read, doubtful [?]] and other Ṛks, the word *vadhaiḥ* is used throughout in the sense of 'means of killing'."
+
+### Page 541 (PDF 556)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 541.)*
+
+***atriṇaḥ*** — "*attāraḥ, bhakṣitāraś ca*: the devourers, who eat men, or the rākṣasas who rend bellies (the Kannada word as read, doubtful [?])."
+
+***sugaṃ*** — *śobhanaṃ mārgaṃ*: "a lovely path. From the point of view of travel, it means a path that is easily passed along; from the moral point of view, it means the best, the most glorious path. The word is used in both senses. For example —"
+
+> देवयानान् सुगान् पथः कुरुष्व सुमनाः स्वयम् ।
+> *devayānān sugān pathaḥ kuruṣva sumanāḥ svayam |*
+> (*Bṛhaddevatā* 7-6-5 as read [?])
+
+*(Gloss, mine and tentative: "make the god-travelled paths easy to go, yourself of good mind".)* "In this verse the sense is of paths along which the gods travel easily. In the same sense in the Ṛksaṃhitā also:"
+
+> शं नः करत्यर्वते सुगं मेषाय मेष्ये । नृभ्यो नारिभ्यो गवे ॥
+> *śaṃ naḥ karaty arvate sugaṃ meṣāya meṣye | nṛbhyo nāribhyo gave ‖*
+> (*Ṛ. Saṃ.* 1-43-6 as read [?])
+
+*(Gloss, mine and tentative: "may he make welfare and an easy path for our horse, for the ram and the ewe, for men, for women, for the cow".)*
+
+"In this Ṛk, and in Ṛks such as 9-63-10 [?] and 10-?-5 [?], it is said to be an easily traversed path; and in the sense of the moral view —"
+
+> बृहस्पते अप तं वर्तया पथः सुगं नो अस्यै देववीतये कृधि ॥
+> *bṛhaspate apa taṃ vartayā pathaḥ sugaṃ no asyai devavītaye kṛdhi ‖*
+> (*Ṛ. Saṃ.* 2-[?]-[?] [?], as read "२-३३-२" [?])
+
+*(Gloss, mine and tentative: "Bṛhaspati, turn that path away; make for us an easy way for this divine feast".)*
+
+"— in Ṛks such as this, the word *sugaṃ*, from the moral standpoint, means 'what is to be gone to well' (*suṣṭhu gantavyaṃ*): '*yajñānuṣṭhānāya sumatiṃ dehi*', 'give a good mind for the performance of sacrifice'; it is also understood as the good sense that performs sacrifice and the like. Moreover, in places such as 1-103-4 [?]; 6-109-2 [?], the word *sugaṃ* is explained as 'happiness'."
+
+"Skandasvāmin explains this last sense as to be taken in this Ṛk also, saying *āsetitam api sukhanāmaitat; iha draṣṭavyaṃ* [read as printed, doubtful [?]; gloss, mine and tentative: 'this too is a name for happiness; to be seen here'], and cites the Ṛk —"
+
+> अस्मभ्यमिन्द्र वरिवः सुगं कृधि प्र शत्रूणां मघवन् वृष्ण्या रुज ।
+> *asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇāṃ maghavan vṛṣṇyā ruja |*
+> (*Ṛ. Saṃ.* 1-102-4 [?])
+
+*(Gloss, mine and tentative: "for us, Indra, make wide room and an easy way; break the vigour of the foes, bounteous one".)* "Having cited this Ṛk, they explain that, just as the sense is there, so here too the word *suga*, though not read among the names of happiness (*sukha*), has the meaning 'happiness'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page, noted briefly; continues on p. 542)*
+
+*vadhaiḥ* — root *han* (to strike, go); *ap* in the instrumental sense by *hanaś ca vadhaḥ* (Pā. 3-3-76 [?]); *vadha* as substitute for the root; the word ends in *a* and has the final acute; *ato lopaḥ* (as read) elides the *a* for the suffix *ap*…
+
+---
+
+**Progress note:** Printed pp. 1–541 done (PDF 16–556), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.8 complete; Rik 94.9 done through p. 541 except the end of its grammar page, which continues on p. 542 (the *vadhaiḥ* grammar paragraph is begun at the foot of p. 541); the bhāṣya of 94.9 clotted at *spardhiyo 'pi*, *nivṛttisvareṇa* and *lugbhāvaḥ*; the Ṛgveda numerals of the Special Topics (1-121-9, 1-129-6, 1-133-6, 2-31-2, 6-20-4, 1-43-6, 2-33-2, 1-103-4, 6-109-2, 1-102-4), the Bṛhaddevatā numeral and Skandasvāmin's phrase *āsetitam api…* as read, doubtful [?]. Earlier in 94: 94.8 bhāṣya clotted at *pāpabuddhes tasya*, after *abhibhavatu*, *śadarthācaraṇena*, the *śatur anumo* sūtra and the *ḍhatva* clause; 94.7 bhāṣya clotted at *asmānaḥ*; 94.6 Special Topics citations 3-3-3, 3-10-4, 4-3-1, 10-1-5, 10-110-11 as read [?], bhāṣya clotted at *pūrvaddhotar*, *hotṛsya*, *hotāmukhyaḥ* [?]; the Saṃhitā/Pada differences dūḍhyaḥ/duḥ-dhyaḥ (94.8, 94.9), puṣyatā/puṣyata (94.8). Next: printed p. 542 (PDF 557), the rest of the grammar of 94.9, then Rik 94.10. Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
