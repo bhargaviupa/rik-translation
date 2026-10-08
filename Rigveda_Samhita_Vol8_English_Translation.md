@@ -2156,4 +2156,100 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–69 done (PDF 21–89): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Rik 96.1 Special Topics (the Nirukta and Bṛhaddevatā discussion of *draviṇodāḥ*; *sahasā jāyamānaḥ*; *pratnathā*; *kāvyāni*; *baṭ*; *dhiṣaṇā*; Skandasvāmin on *āp*) through p. 69, breaking at the foot of p. 69 after the Skandasvāmin comment on *āpaś ca dhiṣaṇā ca mitraṃ sādhan*. Next: printed p. 70 (PDF 90) — the rest of the Special Topics of 96.1 (*devāḥ … dhārayan*), the grammar pages, and Rik 96.2. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–69) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on p. 67 (numerals and the second line of the first verse) [?], the first word of Ṛ. 3-2-[?] on p. 66 and the Ṛgveda numerals of pp. 66–69 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 70 (PDF 90)
+
+*(Running head: left 70; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Special Topics of Rik 96.1, concluded from p. 69 (Kannada)**
+
+***devā agniṃ dhārayan draviṇodām*** — "Two constructions are possible for this sentence. First: *devāḥ* — the priests; *agniṃ* — Agni; *draviṇodām* — as the giver of wealth; *dhārayan* — they worshipped and kept (him) in the forms of the Gārhapatya and the others. Or, second: *devāḥ* — the gods, Indra and others; *agniṃ* — Agni; *draviṇodām* — as the giver of wealth in the form of oblations; *dhārayan* — they set (him) in the office of messenger. Since the word *draviṇa* in the sense of 'oblation' is well known, the second meaning too holds good."
+
+> हवींषि द्रविणं प्राहुर्ऋत्विजो यत्र जायते ।
+> दातारश्चर्त्विजस्तेषां द्रविणोदास्ततः स्वयम् ॥
+> *havīṃṣi draviṇaṃ prāhur ṛtvijo yatra jāyate |*
+> *dātāraś cartvijas teṣāṃ draviṇodās tataḥ svayam ‖*
+> (*Bṛ. De.* 3-6[3] as read [?])
+
+*(Translation, mine and tentative: "They call the oblations* draviṇa *— where the priests are born; and the priests are their givers; from that, by themselves,* draviṇodāḥ*.")* "Since the name *draviṇa* is well known for oblations, and since the priests are givers of oblations, they have the fame of being *draviṇodāḥ*. Since Agni is chief of all sacrifices, and the priest of excellence, and since he distributes the oblations among all the deities, the construction '*devāḥ, indrādayaḥ, agniṃ draviṇodāṃ dhārayan*' also holds. As the authority for this —"
+
+> अहरहर्जायसे मास्यास्थ्या देवा दधिरे हव्यवाहम् ।
+> *aharahar jāyase māsy āsthā devā dadhire havyavāham |*
+> (*Ṛ. Saṃ.* 10-5[?]-3 as read [?])
+
+> मां देवा दधिरे हव्यवाहमपम्लुक्तं बहु कृच्छ्रा चरन्तम् ।
+> *māṃ devā dadhire havyavāham apamluktaṃ bahu kṛcchrā carantam |*
+> (*Ṛ. Saṃ.* 10-5[1]-3 as read [?])
+
+*(Glosses, mine and tentative: "day by day you are born, in the months…" [the first quotation is clotted [?]]; "the gods set me, the bearer of oblations, [who had] hidden, wandering in great distress".)* "— other scriptural sentences are also authority."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.1)** *(grammar pages, pp. 70–72, noted briefly; numerals small and doubtful [?])*
+
+***pratnathā*** — the word *pratna*, 'ancient', formed from the prefix *pra* with the suffix *na* by *nuś ca purāṇe prāt* (Pā. 5-3-[?] [?]), or with *tnap*, *tna* and *kha* — here *tnap*; the form *pratna* means 'long-standing'; when likeness is intended, by *pratnapūrvaviśvemāt thāl chandasi* (Pā. 5-3-111 [?]) the suffix *thāl* in the sense of 'as'; since it is *lit*-marked, the acute on the syllable before the suffix by *liti* (Pā. 6-1-193 [?]). — ***jāyamānaḥ*** — root *janī* (to arise); *śānac* in the present sense; *śyan* by *divādibhyaḥ śyan*; *jā* for the root by *jñājanor jā* (Pā. 7-3-79 [?]); *muk* by *āne muk* for the stem *jāya*, ending in a vowel; the *laśarvataddhita* unaccented by *tāsyanudāttet* (Pā. 6-1-186 [?]); since *śyan* is *nit*, the initial acute.
+
+### Page 71 (PDF 91)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 71.)*
+
+*Grammar of Rik 96.1, continued (noted briefly):* ***kāvyāni*** — 'the work of the *kavi*': by *guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca* (Pā. 5-1-124 [?]) the suffix *ṣyañ* in the sense of 'state, action'; because of it, the vṛddhi of the first vowel by *taddhiteṣv acām ādeḥ*; elision of the *i* by *yasyeti ca*; the form *kāvya*; since the suffix is *ñit*, the initial acute by *ñnityādir nityam*; in the plural, when *śi* comes, the neuter plural has the designation *sarvanāmasthāna*, so the stem takes *num*, and the penultimate is lengthened. — ***adhatta*** — root *ḍu dhāñ* (to hold, nourish), *juhotyādi*; *laṅ*, third person singular; *nighāta* after a verb-ending word. — ***viśvā*** — by *śeś chandasi bahulam* the elision of *śi* in the neuter plural. — ***apaḥ*** — the word *ap*, feminine, always plural; with *jas* following, *apṛ-tṛn-svasṛ…* (Pā. 6-4-11 [?]) lengthens the penultimate. — ***sādhan*** — root *ṣidhu* (to accomplish); since the causer's action is shown, *ṇic* by *hetumati ca* (Pā. 3-1-26 [?]); with *ṇic* following, *sidhyater apāralaukike* (Pā. 6-1-49 [?]) turns the root's *i* into *ā*; *ṣatva* of the initial *s* by *dhātvādeḥ ṣaḥ saḥ*; the form *sādhi*, which takes the designation 'root' by *sanādyantā dhātavaḥ*; then *leṭ*, third person plural *jhi*; *jho 'ntaḥ*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 [?]) elides the final *i*; *leṭo 'ḍāṭau* gives the augment *aḍ*; *śap*; *chandasy ubhayathā* (Pā. 3-4-117 [?]) gives *śap* the designation *ārdhadhātuka*, so *ṇer aniṭi* (Pā. 6-4-51 [?]) elides *ṇi*; by *saṃyogāntalopa* the final *t* of the ending is dropped; the form *sādhan*; *nighāta*. — ***dhārayan*** — root *dhṛñ* (to hold); as before, after the *ṇijanta*, the *leṭ* third person plural; with *jhi*, the form arises, and the *nighāta*. — ***draviṇodām*** — 'one who gives *draviṇa*': root *dru* (to go); *inan* by *drudakṣibhyām inan* (Uṇ. 2-[?] [?]); guṇa of the root; *āv*-substitution; *aṭ-kupvāṅ-num-vyavāye 'pi* (Pā. 8-4-2 [?]) gives *ṇatva* of the suffix; the Vedic *suk* augment for the first member; the word *draviṇas*. The root *ḍudāñ* (to give) takes *vic* by *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 [?]); by the total elision of *vic* the form *draviṇodā* arises. If one takes it as a word ending in *s*, then the root *dā* takes the suffix *asun*…
+
+### Page 72 (PDF 92)
+
+*(Running head: left 72; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+*Grammar of Rik 96.1, concluded (noted briefly):* …and the word *draviṇodas* results. The *su* following in the nominative, the penultimate is lengthened by *atvasantasya cādhātoḥ* (Pā. 6-4-14 [?]); in the elision of *su* the *s* becomes *ru* and *visarga*. ‖ 1 ‖ *(Grammar pages, noted briefly; numerals small and doubtful [?].)*
+
+---
+
+### Rik 2
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.2)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनाम् ।
+> विवस्वता चक्षसा द्यामपश्च देवा अग्निं धारयन्द्रविणोदाम् ॥ २ ॥
+
+*sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām | vivasvatā cakṣasā dyām apaś ca devā agniṃ dhārayan draviṇodām ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.2)**
+
+> सः । पूर्वया । निऽविदा । कव्यता । आयोः । इमाः । प्रऽजाः । अजनयत् । मनूनाम् ।
+> विवस्वता । चक्षसा । द्याम् । अपः । च । देवाः । अग्निम् । धारयन् । द्रविणःऽदाम् ॥ २ ॥
+
+*saḥ | pūrvayā | ni-vidā | kavyatā | āyoḥ | imāḥ | pra-jāḥ | ajanayat | manūnām | vivasvatā | cakṣasā | dyām | apaḥ | ca | devāḥ | agnim | dhārayan | draviṇaḥ-dām ‖ 2 ‖*
+
+*(Reading note: the Pada, as printed, divides* kavyatā āyoḥ *as* kavyatā | āyoḥ*, i.e. the Saṃhitā's* kavyatāyoḥ *as two words.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.2)** *(begun; breaks at the foot of p. 72)*
+
+> सोऽग्निः पूर्वया प्रथमयाग्निर्देवेद्ध इत्यादिकया निविदा कव्यता गुणेनिष्ठ गुणाभिधानलक्षणां स्तुतिं कुर्वताऽऽयोर्मनोः सम्बन्धिनोक्त्थेन च स्तूयमानः सोऽग्निर्मनूनां सम्बन्धिनीरिमाः प्रजा अजनयत् । उदपादयत् । मनुना स्तुतः सन् मानवीः सर्वाः प्रजा अजनयदित्यर्थः । तथा विवस्वता विवासनवता विशेषेणाच्छादयता चक्षसाक्ष्णीयेन तेजसा द्यां द्युलोकमपश्चान्तरिक्षं च व्याप्नोतीति शेषः । अन्यत्समानं ॥
+> *so 'gniḥ pūrvayā prathamayāgnir devedda ity ādikayā nividā kavyatā guṇeniṣṭha guṇābhidhānalakṣaṇāṃ stutiṃ kurvatāyor manoḥ sambandhinoktthena ca stūyamānaḥ so 'gnir manūnāṃ sambandhinīr imāḥ prajā ajanayat | udapādayat | manunā stutaḥ san mānavīḥ sarvāḥ prajā ajanayad ity arthaḥ | tathā vivasvatā vivāsanavatā viśeṣeṇācchādayatā cakṣasākṣṇīyena tejasā dyāṃ dyulokam apaś cāntarikṣaṃ ca vyāpnotīti śeṣaḥ | anyat samānaṃ ‖*
+
+*(The print's text of this bhāṣya contains clotted words — especially* guṇeniṣṭha *and* ākṣṇīyena *— read as given [?]; the grammatical tail follows on p. 73. Sense, mine and tentative, from the Kannada below: "That Agni, praised by the ancient* nivid *('Agni is kindled by the gods…') — a praise that sets forth qualities — and by the hymn belonging to Manu, begot these peoples of the Manus: being praised by Manu, he begot all the human creatures. And with an all-covering radiance he pervades heaven and the waters, the atmosphere. The rest is as before.")*
+
+### Page 73 (PDF 93)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 73.)*
+
+**Grammatical tail of the bhāṣya of Rik 96.2** *(from the head of p. 73, characterized, not transcribed)*
+
+> …मानः सोऽग्निर्मनूनां सम्बन्धिनीरिमाः प्रजा अजनयत् । उदपादयत् । मनुना स्तुतः सन् मानवीः सर्वाः प्रजा अजनयदित्यर्थः । तथा विवस्वता विवासनवता विशेषेणाच्छादयता चक्षसाक्ष्णीयेन तेजसा द्यां द्युलोकमपश्चान्तरिक्षं च व्याप्नोतीति शेषः । अन्यत्समानं ॥ कव्यता । कु शब्दे । अचोऽयदिति भावे यत् । कव्यं कवनं स्तुतिं करोतीति । तत्करोतीति । पा. ३-१-२६ [?] । इति णिच् । तदन्तात् क्विप् । बहुलमन्यत्रापि संज्ञाच्छन्दसोरिति णिलुक् । ततस्तुक् । धातुस्वरेणान्तोदात्तत्वं । आयोः । इण् गतौ । छन्दसीण इत्युण्प्रत्ययः ॥
+> *…mānaḥ so 'gnir manūnāṃ sambandhinīr imāḥ prajā ajanayat | utpādayat | manunā stutaḥ san mānavīḥ sarvāḥ prajā ajanayad ity arthaḥ | tathā vivasvatā vivāsanavatā viśeṣeṇācchādayatā cakṣasākṣṇīyena tejasā dyāṃ dyulokam apaś cāntarikṣaṃ ca vyāpnotīti śeṣaḥ | anyat samānaṃ ‖ kavyatā | ku śabde | aco 'yad iti bhāve yat | kavyaṃ kavanaṃ stutiṃ karotīti | tat karotīti | pā. 3-1-26 [?] | iti ṇic | tadantāt kvip | bahulam anyatrāpi saṃjñācchandasor iti ṇiluk | tatas tuk | dhātusvareṇāntodāttatvaṃ | āyoḥ | iṇ gatau | chandasīṇa ity uṇpratyayaḥ ‖*
+
+*(The first lines of the bhāṣya repeat what was given at the foot of p. 72, the print breaking the sentence at* -mānaḥ*; the tail then characterizes:* kavyatā *— from the root* ku *(to sound), *yat* in the sense of the action (*aco 'yat*): *kavya* is 'praise'; 'he does that' — *ṇic* by the rule on 'doing that' (Pā. 3-1-26 [?]); *kvip* after it; elision of the *ṇi* in the Veda; the augment *tuk*; the accent of the root, final acute;* āyoḥ *— root* iṇ *(to go), the suffix* uṇ *by* chandasīṇaḥ *[?]. Numerals small and doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*saḥ* — that Agni; *pūrvayā* — ancient; *nividā* — the one that sings the qualities; *kavyatā* — [by the hymn] in the form of praise; *āyoḥ* — [being praised] by the mantra of Manu; *manūnāṃ* — belonging to the men; *imāḥ prajāḥ* — these (human) peoples; *ajanayat* — made, created; (and) *vivasvatā* — spreading so as to envelop (the whole world); *cakṣasā* — with his own radiance; *dyāṃ* — the heavenly world; *apaśca* — (also) the atmosphere; (he pervades); *draviṇodām* — the giver of wealth; *agniṃ* — Agni; *devāḥ* — the priests; *dhārayan* — (in the Gārhapatya and other forms) kept."
+
+"*Or:* *devāḥ* — the gods (Indra and others); *agniṃ* — Agni; *draviṇodām* — (in the form of oblations) as the giver of wealth; *dhārayan* — they kept (in the office of messenger)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Agni, praised by the ancient one that sings qualities, and by the mantra of Manu in the form of praise, created all these human peoples who belong to Manu. And, with his radiance that spreads everywhere and envelops the whole world, he pervades the heavenly world and the atmosphere. The gods, Indra and the others, have kept Agni as a messenger, the distributor of wealth in the form of oblations."
+
+**English Translation (as printed)**
+
+> Propitiated by the primitive laudatory hymn, of A'yu he created the the [sic] progeny of the Manus, and pervades, with his all-investing splendour, the heavens and the firmament : the gods retain Agni as the giver of (sacrificial) wealth.
+
+---
+
+**Progress note:** Printed pp. 1–73 done (PDF 21–93): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Rik 96.1 complete (Special Topics concluded on p. 70, grammar on pp. 70–72); Rik 96.2: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha and English done (pp. 72–73). Next: printed p. 74 (PDF 94) — the Special Topics and grammar of Rik 96.2, then Rik 96.3. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–73) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on pp. 67 and 70 (numerals; second line of the first verse on p. 67) [?], the Ṛgveda numerals and the clotted first quotation on p. 70 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; in 96.2 the bhāṣya's *guṇeniṣṭha*, *ākṣṇīyena* and *chandasīṇa* [?] and the Pada's *kavyatā | āyoḥ*; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
