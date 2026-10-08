@@ -10555,4 +10555,95 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–370 done (PDF 16–385) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.13 complete; Rik 91.14 done through the Special Topics, which stop at the foot of p. 370 after the *nāham indrāṇi* citation (the passage may continue on p. 371). Next: printed p. 371 (PDF 386). Open flags: 91.13 (pp. 368–369): Nirukta numerals 3-3 and 2-[?] [?]; Ṛgveda 6-4-8 [?]; the *ajantāc ca* sūtra and its number, Pāṇini numerals 6-1-10, 3-4-117, 6-4-103, 8-1-72, 8-1-28, 6-1-63, 3-1-123, 6-1-213, 3-1-124, 7-3-52, 6-1-185 [?]; the sūtra *ūḍidaṃ padādi* is now read as 6-1-171 (p. 369) — this settles the flag on p. 343; 91.14 (pp. 369–370): the bhāṣya grammar tail on the *abhyasta*-accent clotted [?]; Ṛgveda numerals 10-86-13 and "10-[?]-[?]" [?]; the Saṃhitā *rāraṇat* vs Pada *raraṇat*; 91.12 (pp. 364–366): Nirukta numerals 3-2, 2-10, 3-4, 2-9 [?]; Sāyaṇa's references "Ṛ. 3-10-3" and "6-24-2" [?]; Ṛgveda numerals of the four citations (9-104-2, 9-85-1, 6-74-2, 9-86-39) and 3-40-6 [?]; the last word of the *somārudrā* citation [?]; Pāṇini numerals 6-2-139, 3-2-178, 7-1-1, 6-2-172 [?]; 91.13 bhāṣya grammar tail's rule on *hi→dhi* partly read [?]; the Saṃhitā *rārandhi* vs Pada *rarandhi*; 91.11 (pp. 361–363): Āśvalāyana 1-3 [?]; Uṇādi numeral for *mṛḍeḥ kīkan…* given as 4-24 (p. 361) and 4-46 (p. 363) [?]; Pāṇini numerals 8-2-76, 7-3-86 [?]; the *r-vor upadhāyā* sūtra as printed is partial; the Ṛgveda and Nirukta numerals in the Special Topics (p. 362) all [?]; 91.10 (pp. 359–360): Pāṇini numerals [?]; the *āṭkupvāj…* sūtra only partly read; Ṛgveda numerals 9-80-3, 9-2-10, 9-6-8 [?]; the print's *makṣi* [?]; 91.9 (pp. 356–358): Āśvalāyana numerals 4-4, 2-9, 10-6 [?]; Pāṇini numerals [?]; the *-an-* replacement in *avitā* and the sūtra *aptṛntṛcsvasṛ…* number doubtful; Ṛgveda numerals of the three *yatra* citations and of the *ā tvā rathaṃ* citation [?]; the print's *māmamṛtaṃ* [?]; 91.8 (pp. 353–355): Āśvalāyana citation *svastyayanyāṃ rakṣitevaṃtāvagne…* partly read [?]; Ā. 3-10 [?]; Ṛgveda numeral of *vṛṇīmahe sakhyāya* [?]; Pāṇini numerals [?]; case-name of *tvāvataḥ* doubtful; the Saṃhitā *rakṣā* vs Pada *rakṣa*; 91.7 (pp. 350–352): bhāṣya clause *vapur upabhogasamarthaṃ* doubtful [?]; the *tumarthe sesenase…* rule partly read [?]; Pāṇini numerals [?]; Āśvalāyana 2-10 [?]; 6-2-140 [?]; 91.6 (pp. 348–349): numerals [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted [?]; Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini 8-1-30 [?]; 91.5 (pp. 345–346): numerals [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on p. 342–343 and the Vārttika numeral [?]; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; numerals of 91.3 (pp. 335–337) and 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 371 (PDF 386)
+
+*(Running head left: "A. 1 A. 6 Va. 21 [?]"; centre: "Ṛgvedasaṃhitā"; right: 371.)*
+
+*Special Topics of Rik 91.14, continued from p. 370 (Kannada):* "— on this Ṛk the bhāṣya-writers explain '*na rarāṇa na rame*' [as read, doubtful [?]]."
+
+***kaviḥ*** — "It has been said many times before that this word has the senses 'far-seeing' and 'intelligent', and what is distinctive in it."
+
+***martyaḥ*** — "Like the word *marya*: 'one subject to death, a human being'."
+
+***sacate*** — "He serves."
+
+***taṃ dakṣaḥ sacate kaviḥ*** — "For this latter half of the Ṛk, Sāyaṇa's construction is one way, and Skandasvāmin's is another. *kaviḥ* — the wise, or far-seeing; *dakṣaḥ* — you, capable of every task; *taṃ* — that sacrificer; *sacate* — you serve, that is, you favour: so Sāyaṇa. Skandasvāmin explains: *kaviḥ* — the sacrificer, the intelligent one; *taṃ dakṣaḥ* — that strength, or that growth; *sacate* — he enjoys, that is, he experiences."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.14)** *(Kannada; grammar page, noted briefly)*
+
+*sakhye* — *sakhyuḥ bhāvaḥ sakhyam*; by *sakhyur yaḥ* (सख्युर्यः, Pā. 5-1-126 [?]) the suffix *ya*; by the suffix accent the final syllable is acute.
+*raraṇat* — root *raṇa śabde*; *leṭ*, third person singular, *tip*; by *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 [?]) the *i* is elided; by *bahulaṃ chandasi* *ślu* for *śap*; by *ślau* the doubling of the root; the reduplicative keeps its first consonant and vowel (*ādir halaḥ śeṣaḥ*); by *leṭo 'ḍāṭau* the augment *aṭ* for the suffix. Since *yaḥ* ("who") precedes and is related, by *yadvṛttān nityam* (यद्वृत्तान्नित्यम्, Pā. 8-1-66 [?]) the *nighāta* is prohibited; by *chandasy ubhayathā* the suffix has the name *ārdhadhātuka*, so that for the non-*iṭ* *sārvadhātuka* beginning with a vowel the initial-acute that *abhyastānām ādiḥ* (Pā. 6-1-189 [?]) would give does not come; the accent of the root remains; the reduplicative is short in the Pada by Vedic usage [the Saṃhitā prints it long].
+*sacate* — root *ṣaca samavāye*; by *dhātvādeḥ ṣaḥ saḥ* the initial *ṣ* becomes *s*; by *vyatyayo bahulam* the third-person singular suffix replaces the second-person singular; by *ṭita ātmanepadānāṃ ṭer e* the final *e*; by *kartari śap* the *śap*; the *nighāta* since a finite verb follows a word. ‖ 14 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.15)** *(printed on p. 372)*
+
+---
+
+### Page 372 (PDF 387)
+
+*(Running head: left "372", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.15)**
+
+> उरुष्या णो अभिशस्तेः सोम नि पाह्यंहसः ।
+> सखा सुशेव एधि नः ॥ १५ ॥
+
+*uruṣyā ṇo abhiśasteḥ soma ni pāhy aṃhasaḥ | sakhā suśeva edhi naḥ ‖ 15 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.15)**
+
+> उरुष्य । नः । अभिऽशस्तेः । सोम । नि । पाहि । अंहसः ।
+> सखा । सुऽशेवः । एधि । नः ॥ १५ ॥
+
+*uruṣya | naḥ | abhi-śasteḥ | soma | ni | pāhi | aṃhasaḥ | sakhā | su-śevaḥ | edhi | naḥ ‖ 15 ‖*
+
+(The Saṃhitā prints *uruṣyā*, the Pada *uruṣya*. Accent marks not reproduced.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.15)**
+
+> हे सोम त्वं नोऽस्मानभिशस्तेरभिशंसनादभिशापरूपान्निन्दनादुरुष्य । रक्ष । उरुष्यतीं रक्षाकर्मेति यास्कः । नि. ५-२३ [?] । तथांहसोऽस्मत्कृतात्पापाच्च नि पाहि । नितरां पालय । एवमस्मदीयं पापं परिहृत्य सुशेवोऽस्मभ्यं दातव्येन शोभनेन सुखेन युक्तः सन्नेधि । हितकारी भव ॥ अभिशस्तेः । शंसु स्तुतौ । अस्माद्भावे क्तिन् । तादौ चेति गतेः प्रकृतिस्वरत्वं । एधि । अस भुवि । लोटि सेर्हिः । तस्य जित्त्वात् श्नसोरल्लोप इत्यकारलोपः । घ्वसोरेद्धावभ्यासलोपश्चेति सकारस्यैत्वं । तस्यासिद्धवदत्राभादित्यसिद्धत्वात् हुझल्भ्यो हेर्धिरिति हेर्धिरादेशः ॥
+
+*he soma tvaṃ no 'smān abhiśaster abhiśaṃsanād abhiśāparūpān nindanād uruṣya | rakṣa | uruṣyatī rakṣākarmeti yāskaḥ | Ni. 5-23 [?] | tathāṃhaso 'smatkṛtāt pāpāc ca ni pāhi | nitarāṃ pālaya | evam asmadīyaṃ pāpaṃ parihṛtya suśevo 'smabhyaṃ dātavyena śobhanena sukhena yuktaḥ sann edhi | hitakārī bhava ‖ abhiśasteḥ | śaṃsu stutau | asmād bhāve ktin | tādau ceti gateḥ prakṛtisvaratvaṃ | edhi | asa bhuvi | loṭi ser hiḥ | tasya jittvāt śnasor allopa ity akāralopaḥ | ghvasor eddhāv abhyāsalopaś ceti sakārasyaitvaṃ | tasyāsiddhavadatrābhād ity asiddhatvāt hujhalbhyo her dhir iti her dhir ādeśaḥ ‖*
+
+*Translation:* "O Soma, protect us from *abhiśasti* — from reproach, from censure in the form of curses: *uruṣya*, guard. 'The root *uruṣya* is a verb of protecting', says Yāska (Ni. 5-23 [?]). And from *aṃhas*, the sin committed by us, *ni pāhi* — guard us thoroughly. Having thus removed our sin, be, *suśevaḥ*, endowed with the excellent happiness that is to be given to us; *edhi*, be a well-wisher."
+
+*Grammar tail:* *abhiśasteḥ* — root *śaṃsu stutau*; the suffix *ktin* in the abstract sense; *tādau ca* — the preverb keeps its natural accent. *edhi* — root *asa bhuvi*; the *hi* replaces *sip* in the *loṭ*; since it is a *jit* [as read], by *śnasor allopaḥ* the *a* is elided; by *ghvasor eddhāv abhyāsalopaś ca* the *s* becomes *e*; by *asiddhavad atrābhāt* that [elision] counts as not having occurred, and by *hujhalbhyo her dhiḥ* the replacement *dhi* for *hi*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.15)** *(Kannada)*
+
+*Soma* — O Soma-deity; *naḥ* — us; *abhiśasteḥ* — from the blemish in the form of calumny; *uruṣya* — protect; *aṃhasaḥ* — from sin (that we may commit or have committed); *ni pāhi* — protect completely; *suśevaḥ* — together with the happiness offered by us; *naḥ* — to us; *sakhā edhi* — be, like a friend, a bringer of happiness.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.15** *(Kannada)*
+
+"O Soma-deity, protect us from blemish in the form of calumny. Protect us completely from sin that we have committed or may commit. Come together with the means of happiness offered by us, and be a bringer of happiness to us, like a friend."
+
+---
+
+### Page 373 (PDF 388)
+
+*(Running head left: "A. 1 A. 6 Va. 21 [?]"; centre: "Ṛgvedasaṃhitā"; right: 373.)*
+
+**English Translation** *(printed in English in the source; Rik 91.15)*
+
+"Soma, protect us from calumny, preserve us from Sin ; pleased with our service, be our friend." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.15)** *(Kannada)*
+
+***abhiśasteḥ*** — "The word *abhiśasti* has many meanings, such as curse, calamity (*āpatti*), reproach. Here the bhāṣya-writer says '*abhiśāparūpān nindanāt*' — 'from calumny, in the form of a curse', that is, from blame."
+
+***uruṣya*** — *uruṣyatī rakṣākarmā* (Ni. 5-23 [?]) | "*uruṣya* means 'protect'. In many Ṛks such as Ṛ. Saṃ. 9-[?]-3 [?]; 8-[?]-[?] [?] this word occurs in the sense of 'protect'."
+
+***aṃhasaḥ*** — *aṃhatiś cāṃhaś cāṃhuś ca hanteḥ* [as read; the print's first word is doubtful [?]] (Ni. 4-23 [?]) | "Though the word *aṃhas* is formed from the root *han*, which gives the sense of killing, the sense of sin is more common for this word than the general sense of violence. Here it means 'from sin'."
+
+***suśevaḥ*** — "Being the giver of the most excellent happiness: this is the meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.15)** *(Kannada; grammar page, noted briefly)*
+
+*uruṣyā* — *uruṣya* is a root with the sense of protecting; *loṭ*, second person singular; by *anyeṣām api dṛśyate* (अन्येषामपि दृश्यते, Pā. 6-3-137 [?]) the lengthening in the Saṃhitā.
+*abhiśasteḥ* — root *śaṃsu stutau*; in the abstract sense, by *striyāṃ ktin* (स्त्रियां क्तिन्, Pā. 3-3-94 [?]) the suffix *ktin*; by *anidītāṃ hala upadhāyāḥ kṅiti* (अनिदितां हल उपधायाः क्ङिति, Pā. 6-4-24 [?]) the nasal of the penultimate is elided: *śasti*; since it follows *abhi*, by *tādau ca niti* (Pā. 6-2-50 [?]) the preverb, as the suffix beginning with *t* and being *nit*, keeps its natural accent; the ablative singular.
+*pāhi* — root *pā rakṣaṇe*, of the *adādi* class; *loṭ*, second person singular; as a finite verb it has the *nighāta*.
+*edhi* — root *as bhuvi*, of the *adādi* class; *loṭ*, second person singular, *sip*; by *ser hy apicca* (Pā. 3-4-87 [?]) *hi*; since it is [taken as] *jit*, then by *śnasor allopaḥ* (Pā. 6-4-111 [?]) the *a* of *as* is elided; by *ghvasor eddhāv abhyāsalopaś ca* (घ्वसोरेद्धावभ्यासलोपश्च, Pā. 6-4-119 [?]) *e* for the *s* before *hi* (*ddhi*); by *asiddhavad atrābhāt* the *e*-change is treated as not having occurred, so that —
+
+---
+
+**Progress note:** Printed pp. 1–373 done (PDF 16–388) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.14 complete; Rik 91.15 done through the Special Topics; its Vyākaraṇa-prakriyā breaks at the foot of p. 373 in the middle of *edhi* ("…so that —"), to be completed from the head of p. 374 together with the grammar for *sakhā*, *suśevaḥ* if printed. Next: printed p. 374 (PDF 389). Open flags: 91.15 (pp. 371–373): Nirukta numerals 5-23 and 4-23 [?]; the print's first word of the *aṃhatiś ca…* Nirukta quotation doubtful [?]; Ṛgveda numerals "9-[?]-3", "8-[?]-[?]" [?]; Pāṇini numerals 6-3-137, 3-3-94, 6-4-24, 6-2-50, 3-4-87, 6-4-111, 6-4-119 [?]; 91.14 (pp. 370–371): the bhāṣya-writers' *na rarāṇa na rame* explanation unclear [?]; Pāṇini numerals 5-1-126, 3-4-97, 8-1-66, 6-1-189 [?]; Ṛgveda numerals 10-86-13 and "10-[?]-[?]" [?]; the Saṃhitā *rāraṇat* vs Pada *raraṇat*; the bhāṣya grammar tail on the *abhyasta*-accent clotted [?]; 91.13 (pp. 368–369): Nirukta numerals 3-3 and 2-[?] [?]; Ṛgveda 6-4-8 [?]; the *ajantāc ca* sūtra and its number, Pāṇini numerals 6-1-10, 3-4-117, 6-4-103, 8-1-72, 8-1-28, 6-1-63, 3-1-123, 6-1-213, 3-1-124, 7-3-52, 6-1-185 [?]; the sūtra *ūḍidaṃ padādi* is read as 6-1-171 on p. 369 (settles the flag on p. 343); 91.12 (pp. 364–366): Nirukta numerals 3-2, 2-10, 3-4, 2-9 [?]; Sāyaṇa's references "Ṛ. 3-10-3" and "6-24-2" [?]; Ṛgveda numerals of the four citations (9-104-2, 9-85-1, 6-74-2, 9-86-39) and 3-40-6 [?]; the last word of the *somārudrā* citation [?]; Pāṇini numerals 6-2-139, 3-2-178, 7-1-1, 6-2-172 [?]; 91.13 bhāṣya grammar tail's rule on *hi→dhi* partly read [?]; the Saṃhitā *rārandhi* vs Pada *rarandhi*; 91.11 (pp. 361–363): Āśvalāyana 1-3 [?]; Uṇādi numeral for *mṛḍeḥ kīkan…* given as 4-24 (p. 361) and 4-46 (p. 363) [?]; Pāṇini numerals 8-2-76, 7-3-86 [?]; the *r-vor upadhāyā* sūtra as printed is partial; the Ṛgveda and Nirukta numerals in the Special Topics (p. 362) all [?]; 91.10 (pp. 359–360): Pāṇini numerals [?]; the *āṭkupvāj…* sūtra only partly read; Ṛgveda numerals 9-80-3, 9-2-10, 9-6-8 [?]; the print's *makṣi* [?]; 91.9 (pp. 356–358): Āśvalāyana numerals 4-4, 2-9, 10-6 [?]; Pāṇini numerals [?]; the *-an-* replacement in *avitā* and the sūtra *aptṛntṛcsvasṛ…* number doubtful; Ṛgveda numerals of the three *yatra* citations and of the *ā tvā rathaṃ* citation [?]; the print's *māmamṛtaṃ* [?]; 91.8 (pp. 353–355): Āśvalāyana citation *svastyayanyāṃ rakṣitevaṃtāvagne…* partly read [?]; Ā. 3-10 [?]; Ṛgveda numeral of *vṛṇīmahe sakhyāya* [?]; Pāṇini numerals [?]; case-name of *tvāvataḥ* doubtful; the Saṃhitā *rakṣā* vs Pada *rakṣa*; 91.7 (pp. 350–352): bhāṣya clause *vapur upabhogasamarthaṃ* doubtful [?]; the *tumarthe sesenase…* rule partly read [?]; Pāṇini numerals [?]; Āśvalāyana 2-10 [?]; 6-2-140 [?]; 91.6 (pp. 348–349): numerals [?]; the *nityastotro* citation's last words doubtful; the *soma rājan pra ṇa* citation's numeral differs on p. 337 and p. 349 (both doubtful); bhāṣya grammar tail on p. 347 clotted [?]; Uṇādi numeral for *jīver ātuḥ* [?]; Pāṇini 8-1-30 [?]; 91.5 (pp. 345–346): numerals [?]; bhāṣya reading *svānādayaḥ* / *svāna bhrāja* as printed [?]; 91.4 (pp. 341–342): numerals [?]; the first citation (*somaṃ bharadvād…*) garbled and given with no gloss [?]; Pāṇini numerals on pp. 342–343 and the Vārttika numeral [?]; Āśvalāyana numerals on pp. 339–340 [?]; Pāṇini/Uṇādi numerals on pp. 338–339 [?]; p. 335 bhāṣya words *niśmṛtamayyaiḥ* and the cited rule *yuṣmattattakṣuḥṣv…* doubtful [?]; numerals of 91.3 (pp. 335–337) and 91.2 (pp. 332–333) [?]; Pāṇini numerals on pp. 329–330 and 333–334 [?]; Āśvalāyana numeral on pp. 331–332 [?]; p. 327 bhāṣya words *pravṛttyarthakeṇa* and the *yajuḥ* alternative doubtful [?]; p. 331 grammar tail partly illegible; p. 333 grammar page's last lines smudged; the Anukramaṇī quotation on p. 328 as printed (garbled); Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala/Śatapatha numerals [?]; the Āśvalāyana numerals on p. 325 [?]; the Ṛgveda numerals of citations on pp. 290, 300–301, 321, 323–324 (the two citations on p. 323 carry no numerals in the print) [?]; Āśvalāyana numerals on pp. 192–193, 216, 264–265, 292–293, 299–300, 303, 313, 315–316 [?]; Nirukta/Taittirīya numerals on pp. 273–276, 283, 285–286, 299–301, 313–314, 318–321 [?]; list of Viśvedeva sūktas on p. 268 not verified [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; pp. 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315 and 325 compressed/clotted; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
