@@ -1793,4 +1793,96 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–57 done (PDF 21–77): Sūkta 95, Riks 95.1–95.10 complete (95.10's Special Topics on p. 55, grammar on pp. 56–57); Rik 95.11 (the last Ṛk of Sūkta 95; the udarka-refrain *tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ*): Saṃhitā, Pada, and the first lines of the bhāṣya (foot of p. 57), breaking at "…*asmākaṃ tādṛśam annaṃ prayaccheti arthaḥ*". Next: printed p. 58 (PDF 78) — the rest of the bhāṣya of 95.11, Pratipadārtha, Bhāvārtha, English, Special Topics and grammar; then the Sūkta's end, and Sūkta 96 at printed p. 61 (PDF 81). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–57) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.10 (see the earlier notes; the print's first line of the 95.10 bhāṣya *ūrmim udakasaṃghamayeṃ* [?]; the Ṛgveda and Nirukta numerals of p. 55 [?]); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 58 (PDF 78)
+
+*(Running head: left 58; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+**Sāyaṇa-bhāṣya of Rik 95.11, continued from p. 57**
+
+> सोऽस्माकं तदन्नं मित्रादयो मामहन्तां । पूजयन्तां । रक्षन्त्वित्यर्थः । उतशब्दः समुच्चये । पृथिवी च द्यौश्चेत्यर्थः ॥ एव । निपातस्य चेति संहितायां दीर्घः । वृधानः । वृधेरन्तर्भावितण्यर्थात्तच्छीलिकश्चानश् । बहुलं छन्दसीति शपो लुक् । चानशः सार्वधातुकत्वेन जित्त्वान्निल्लघूपधगुणाभावः । लसार्वधातुकत्वाभावेनानुदात्तत्वाभावे चित्स्वर एव शिष्यते । रेवत् । रयिशब्दान्मतुप् । रयेर्मतौ बहुलमिति संप्रसारणं । छन्दसीर इति मतुपो वत्वं । रेशब्दाच्च । का. ६-१-१८५-१ [?] । इति मतुप उदात्तत्वं । सुपां सुलुगिति चतुर्थ्या लुक् ॥
+> *so 'smākaṃ tad annaṃ mitrādayo māmahantāṃ | pūjayantāṃ | rakṣantv ity arthaḥ | utaśabdaḥ samuccaye | pṛthivī ca dyauś cety arthaḥ ‖ eva | nipātasya ceti saṃhitāyāṃ dīrghaḥ | vṛdhānaḥ | vṛdher antarbhāvitaṇyarthāt tacchīlikaś cānaś | bahulaṃ chandasīti śapo luk | cānaśaḥ sārvadhātukatvena jittvān nil laghūpadhaguṇābhāvaḥ | lasārvadhātukatvābhāvenānudāttatvābhāve citsvara eva śiṣyate | revat | rayiśabdān matup | rayer matau bahulam iti saṃprasāraṇaṃ | chandasīra iti matupo vatvaṃ | reśabdāc ca | kā. 6-1-185-1 [?] | iti matupa udāttatvaṃ | supāṃ suluk iti caturthyā luk ‖*
+
+*Sense (mine, from the Kannada):* "*So 'smākaṃ tad annaṃ mitrādayo māmahantām*: may Mitra and the rest honour — that is, protect — that food of ours. *Uta* is in the sense of 'and': earth and heaven." Tail: *eva* — lengthened to *evā* in the Saṃhitā by *nipātasya ca*; *vṛdhānaḥ* — from *vṛdh*, with the causal sense included; *cānaś* in the habitual sense; *śap* elided by *bahulaṃ chandasi*; because *cānaś* is a *sārvadhātuka*, it is treated as *jit*, so there is no guṇa of the light penultimate; *revat* — *matup* after *rayi*; *saṃprasāraṇa* by *rayer matau bahulam*; the *m* of *matup* → *v* by *chandasīra*; the *matup* acute by the Kāśikā rule [number as read [?]]; the dative ending elided by *supāṃ suluk*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*pāvaka* — O purifier of all; *agne* — O Agni; *samidhā* — (offered by us) with the kindling-wood and other materials; *eva* — as described before; *vṛdhānaḥ* — growing in vigour; *revat* — possessing wealth; *naḥ* — our; *śravase* — for the sake of food; *vi bhāhi* — shine well; *naḥ* — our; *tat* — that food; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the ocean; *pṛthivī* — the earth; *dyauḥ* — the heavenly world; *māmahantām* — may they protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, purifier of all: growing with vigour by the kindling-wood and other materials offered by us, as described before, shine well for the sake of our food, which is possessed of wealth. May Mitra, Varuṇa, Aditi, the ocean, the earth and the heavenly world together protect our food."
+
+**English Translation (as printed)**
+
+> Agni, who is the purifier, growing with the fuel we have supplied, blaze for the sake of (securing) food to us who are possessed of wealth ; and may Mitra, Varuna, Aditi—ocean, earth and heaven, preserve it to us
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 95.11 (Kannada)**
+
+***samidhā vṛdhānaḥ*** — *asmābhir dattatvena samidādidravyeṇa vardhamānaḥ san*: "'growing by the materials such as kindling-wood given by us': it is prayed that, nourished by the materials offered by us, he favour us with food. This is Sāyaṇa's explanation. Skandasvāmin explains: '*stutir atrābhipretā na kāṣṭhamayī | samit śabdaḥ atra kāṣṭhair ity arthaḥ*' [as read [?]], saying that the word *samit* here means not 'wood' but 'praise'. Of these, in stating the first meaning there is nothing improper."
+
+### Page 59 (PDF 79)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 59.)*
+
+> यस्त इध्मं जभरत्सिष्विदानो मूर्धानं वा ततपते त्वाया ।
+> भुवस्तस्य स्वतवाः पायुरग्ने विश्वस्मात्सीमघायत उरुष्य ॥
+> *yas ta idhmaṃ jabharat siṣvidāno mūrdhānaṃ vā tatapate tvāyā |*
+> *bhuvas tasya svatavāḥ pāyur agne viśvasmāt sīm aghāyata uruṣya ‖*
+> (*Ṛ. Saṃ.* 4-2-6 as read)
+
+*(Gloss, mine and tentative: "whoever, sweating, brings you fuel, or heats his head out of love for you — for him you become the strong protector, Agni; from all who plot evil, guard [him] on every side".)*
+
+"The sacrificer who, having wearied his body and heated even his head, brings the kindling-wood and other fuel for the blazing of Agni and serves Agni, receives, as the fruit of the labour of worship, Agni's abundant wealth, and Agni protects him from all enemies of harmful disposition: so the gathering of fuel is praised. And, besides —"
+
+> नहि मे अस्त्यघ्न्या न स्वधितिर्वनन्वति । अथैतादृग्भरामि ते ॥
+> *nahi me asty aghnyā na svadhitir vananvati | athaitādṛg bharāmi te ‖*
+> (*Ṛ. Saṃ.* 8-102-19 as read)
+
+> यदग्ने कानि कानि चिदा ते दारूणि दध्मसि । ता जुषस्व यविष्ठ्य ॥
+> *yad agne kāni kāni cid ā te dārūṇi dadhmasi | tā juṣasva yaviṣṭhya ‖*
+> (*Ṛ. Saṃ.* 8-102-20 as read)
+
+*(Glosses, mine and tentative: "I have no cow to give, nor an axe for the wood; so I bring you such [fuel] as this"; "whatever pieces of wood we lay on you, Agni, accept them, youngest".)*
+
+"— in these, since the sacrificer has no cow fit for the ghee-oblation that ought to be given to Agni with propriety, and since he has no axe with which to cut the choicest fuel, he prays that Agni should be content with an offering of fuel such as he is able to provide to the extent of his power. Therefore the sense that Sāyaṇa gives here fits well."
+
+***revat*** — *dhanayuktam annaṃ yathā bhavati tathā*: "in such a way that there is food with wealth: food with wealth in the form of sons and the like, or for the sake of food."
+
+***tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ*** — "May Mitra, Varuṇa and the other deities honour — that is, make fit for our enjoyment and also worthy to be offered as an oblation, the food that has been favoured by Agni and is endowed with wealth: this is the prayer to all the deities. Although at the end of the sūkta the prayer of this kind is well known by the name *udarka*, the author of the Bṛhaddevatā, quoting the praise that of all such compositions of Bharadvāja and the other seers, it is Kutsa's composition that has the greatest distinction, has said so in the explanation of the last Ṛk of the 94th sūkta [as read, Ṛ. Saṃ. 1-94 [?]]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 95.11)** *(grammar pages, pp. 59–61, noted briefly; numerals small and doubtful [?])*
+
+***eva*** — by the sūtra *cādayo 'sattve* (Pā. 1-4-57 [?]) the word takes the designation *nipāta*; in the Saṃhitā the lengthening by *nipātasya ca* (Pā. 6-3-136 [?]).
+
+### Page 60 (PDF 80)
+
+*(Running head: left 60; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+
+*Grammar of Rik 95.11, continued (noted briefly):* ***samidhā*** — root *ñi indhī* (to shine); with *sam* as upapada, *kvip*; since the suffix is *kit*, *aniditāṃ hala upadhāyāḥ kṅiti* elides the penultimate *n*; the stem *samidh*, ending in *dh*; the *kṛt*-compound's first-member accent; the instrumental singular. — ***vṛdhānaḥ*** — root *vṛdhu* (to grow); since it expresses prompting, with the causal sense included; the root takes *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129 [?]); being *śit*-marked, *śap*, as ordinarily, but by *bahulaṃ chandasi* *śap* is elided; then, by *sārvadhātukam apit* (Pā. 1-2-4 [?]) the *cānaś* is treated as *ṅit* [as read: *jit*], so by *kṅiti ca* (Pā. 1-1-5 [?]) the guṇa is prohibited and the root's light penultimate takes no guṇa; since the *laśarvataddhita* is the *sārvadhātuka*… the accent *cit*-svara alone remains; final acute by *citaḥ* (Pā. 6-1-163 [?]). — ***revat*** — 'he has *rayi*': *tad asyāsty asminn iti matup* (Pā. 5-2-94 [?]); with *matup* following, the stem *rayi* has *saṃprasāraṇa* by *rayer matau bahulam*; since two letters could take *saṃprasāraṇa*, *na saṃprasāraṇe saṃprasāraṇam* (Pā. 6-1-37 [?]) prohibits the earlier one; when the *y* turns to *i*, *saṃprasāraṇāc ca* (Pā. 6-1-108 [?]) gives the earlier form for the following *i*; the *r*-vowel, followed by *i*, takes guṇa by *ād guṇaḥ* (Pā. 6-1-87 [?]); by *chandasīraḥ* (Pā. 8-2-15 [?]) the *m* of *matup* after a word ending in *re* becomes *v*; the form *revat*; since *matup* is *pit* it is unaccented, but by the vārttika *reśabdāc ca* the acute comes on it; the dative singular with the case-ending elided by *supāṃ suluk*. — ***pāvaka*** — root *pūñ* (to purify); *ṇvul* in the agent sense; *akādeśa* by *yuvor anākau* (Pā. 7-1-1 [?]); vṛddhi of the root's vowel because of the *ñit*/*ṇit*; *āv*-substitution before *aṭ*; in the vocative the *nighāta* accent arises by *āmantritasya ca* (Pā. 8-1-19 [?]). — ***bhāhi*** — root *bhā* (to shine); *loṭ* second person singular; the verb is unaccented, after a verb-ending word. — ***māmahantām*** — root *mahā* (to honour), *bhvādi*; *loṭ*, third person plural; by *vyatyayo bahulam* the *ātmanepada* ending *jha*; *jho 'ntaḥ*; by *bahulaṃ chandasi* *śap* gets *ślu*; *ślau*…
+
+### Page 61 (PDF 81)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 61.)*
+
+*Grammar of Rik 95.11, concluded:* …the root is doubled; the reduplicate is lengthened by *anyeṣām api dṛśyate* (Pā. 6-3-137 [?]); *nighāta* after a verb-ending word. — ***dyauḥ*** — the word *div*; with *su* following, *diva auṭ* (Pā. 7-1-84 [?]) gives *au* for the final; *yaṇ*; the *s* of the ending becomes *ru* and *visarga*; since the *āl*-rule (*ānalopaḥ*…) prohibits the substitute from counting as the original, here the *au* does not elide the *su*, for the *hal*-based loss does not arise because of *sthānivadbhāva*. ‖ 11 ‖ *(Grammar pages, noted briefly; numerals small and doubtful [?].)*
+
+*(A printer's ornament follows. The print has no separate closing line for Sūkta 95.)*
+
+---
+
+## Sūkta 96
+
+**ತೊಂಭತ್ತಾರನೆಯ ಸೂಕ್ತವು** — *tombhattāraneya sūktavu*, "the ninety-sixth Sūkta" *(Kannada heading, printed at the head of p. 61)*
+
+**Sāyaṇa's introduction to Sūkta 96 (Sanskrit in Kannada script; the first lines on this page; doubtful places [?]):**
+
+> स प्रत्नथेति नवर्चं तृतीयं सूक्तं कुत्सस्यार्षं त्रैष्टुभं । द्रविणोदस्स्थगुणविशिष्टोऽग्निः शुद्धाग्निर्वा देवता । तथा चानुक्रान्तं । स प्रत्नथा नव द्रविणोदस इति ॥ प्रातरनुवाकाश्विनशस्त्रयोः पूर्वसूक्तेन सहोक्तः सूक्तविनियोगः ॥ व्यूढस्य दशरात्रस्य षष्ठेऽहन्याग्निमारुते इदं सूक्तं जातवेदस्यनिविद्धानं । व्यूढ… क्षेदिति खण्डे सूत्रितं । स प्रत्नथेत्याग्निमारुतं । आ. ८-८ [?] इति । स प्रत्नथा सहसा जायमान इति जातवेदस्यं समानोदर्कमित्यादि ब्राह्मणं ॥ ऐ. ब्रा. ३-१५ [?] ॥ महापितृयज्ञे स्विष्टकृत्स्थानीयस्य कव्यवाहनस्य स प्रत्नथेत्येषा याज्या । दक्षिणाग्नेरिति खण्डे सूत्रितं । स प्रत्नथा सहसा जायमान इत्यग्निः स्विष्टकृत् कव्यवाहनः । आ. २-१९ [?] । इति ॥
+> *sa pratnatheti navarcaṃ tṛtīyaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubhaṃ | draviṇodassthaguṇaviśiṣṭo 'gniḥ śuddhāgnir vā devatā | tathā cānukrāntaṃ | sa pratnathā nava draviṇodasa iti ‖ prātaranuvākāśvinaśastrayoḥ pūrvasūktena sahoktaḥ sūktaviniyogaḥ ‖ vyūḍhasya daśarātrasya ṣaṣṭhe 'hany āgnimārute idaṃ sūktaṃ jātavedasyanividdhānaṃ | vyūḍha… kṣed iti khaṇḍe sūtritaṃ | sa pratnathety āgnimārutaṃ | Āś. 8-8 [?] iti | sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam ity ādi brāhmaṇaṃ ‖ ai. brā. 3-15 [?] ‖ mahāpitṛyajñe sviṣṭakṛtsthānīyasya kavyavāhanasya sa pratnathety eṣā yājyā | dakṣiṇāgner iti khaṇḍe sūtritaṃ | sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ | Āś. 2-19 [?] | iti ‖*
+
+*Sense (mine, from the Kannada that follows):* "The third sūkta, *sa pratnathā*, of nine Ṛks, is the *ṛṣi*-composition of Kutsa, in the Triṣṭubh metre; its deity is Agni endowed with the quality of 'giver of wealth' (*draviṇodas*), or the pure Agni. And so the Anukramaṇī: '*sa pratnathā nava draviṇodasa*'. The application of the sūkta has been stated along with the preceding sūkta for the Prātaranuvāka and the Aśvina-śastra. On the sixth day of the *Vyūḍha* Daśarātra, in the Āgnimāruta [śastra], this sūkta is the *nivid*-insertion of the Jātavedas [?]; it is laid down in the section 'Vyūḍha…': '*sa pratnatheti āgnimārutam*' (Āśv. 8-8 [?]); and the Brāhmaṇa — '*sa pratnathā sahasā jāyamāna iti jātavedasyaṃ samānodarkam*' and so on (Ai. Brā. 3-15 [?]). In the Mahāpitṛyajña, for Kavyavāhana in the place of the Sviṣṭakṛt, this Ṛk is the *yājyā*; it is laid down in the section 'for the Dakṣiṇāgni': '*sa pratnathā sahasā jāyamāna ity agniḥ sviṣṭakṛt kavyavāhanaḥ*' (Āśv. 2-19 [?])."
+
+**Anuvāda (Kannada):** "*Sa pratnathā* is the third sūkta in the fifteenth anuvāka. It has nine Ṛks. The ṛṣi of this sūkta is Kutsa Āṅgirasa. The metre is Triṣṭubh. The deity is the Agni who is named Draviṇodas, or Agni alone. In the Anukramaṇikā it is said '*sa pratnathā nava draviṇodasa*'. It was said earlier that the application of this sūkta is also at the time of reciting the mantras of the Prātaranuvāka. On the sixth day of the Vyūḍha *yāga* which is to be performed over ten days, when the mantras of the Agni-Marut śastra are recited, this is to be used as the *nivid* mantra of the Agni named Jātavedas: so it is explained in the Āśvalāyana Śrauta-sūtra, in the section called *Vyūḍha*, by the sūtra '*sa pratnatheti āgnimārutam*' (Āś. 8-8 [?]). In the Aitareya Brāhmaṇa also" *(continues on p. 62)*
+
+---
+
+**Progress note:** Printed pp. 1–61 done (PDF 21–81): **Sūkta 95 complete** (11 Ṛks, pp. 1–61; no separate closing line in the print); **Sūkta 96** (9 Ṛks; *sa pratnathā*; Kutsa Āṅgirasa; Triṣṭubh; Agni as Draviṇodas, or pure Agni; 15th Anuvāka) begun at the foot of p. 61 with the Kannada heading, Sāyaṇa's introduction and the first lines of the Anuvāda (breaking at "In the Aitareya Brāhmaṇa also"). Next: printed p. 62 (PDF 82) — the rest of the Anuvāda, the heading block and Rik 96.1. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūkta 95 (pp. 1–61) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā line of Sūkta 95 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes; Skandasvāmin's *stutir atrābhipretā…* on p. 58 [?]); the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the Sūkta 96 introduction's *vyūḍha…kṣed iti khaṇḍe* and its Āśvalāyana/Aitareya numerals [?]; the grammar pages and grammatical tails are characterized, not transcribed.
