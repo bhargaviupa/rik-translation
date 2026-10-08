@@ -3104,4 +3104,107 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–105 done (PDF 21–125): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.7 complete (96.7's Special Topics on pp. 100–101, grammar on pp. 102–103); Rik 96.8: Saṃhitā, Pada (pp. 103), bhāṣya, Pratipadārtha, Bhāvārtha, English (p. 104) done, and the Special Topics under way (*draviṇodāḥ*, *turasya*), breaking at the foot of p. 105 after the *turasya* discussion. Next: printed p. 106 (PDF 126). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–105) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.7 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, the compressed *kṣām* tail of 96.7, and the Ṛgveda numerals throughout [?]; in 96.8 the Ṛgveda numerals and Nirukta references on p. 105 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 106 (PDF 126)
+
+*(Running head: left 106; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Special Topics of Rik 96.8, continued from p. 105 (Kannada)**
+
+***sanarasya*** — *sananīyasya sambhajanīyasya sthāvararūpasya dhanasya*: "'of the wealth that is to be shared, to be enjoyed, in stationary form': according to Sāyaṇa's explanation, worshipful and fixed (*sthira*) wealth or strength. After first saying that *turasya* means wealth in the form of the moving, it is natural that, in agreement with that sense, the meaning 'stable, abiding' be given here. But one must consider whether the derivation (*avayavārtha*) that Sāyaṇa gives for this word fits. This word occurs in other places too, in the Ṛksaṃhitā. Skandasvāmin explains this word as *sanaraṃ paricārakamanuṣyasahitam* ('together with servants, with men'), saying 'together with people such as the *bhṛtyas*'. There the derivation does not agree with either of the above senses. Therefore, if the suffix *aran* is added to the root *ṣaṇ*, as in *kṛdaraḥ*, *sṛdaraḥ*, the form *sanaraḥ* is accomplished; the meaning that Sāyaṇa gives accords better with the way he derives it."
+
+***vīravatīm*** — *vīraiḥ putrādibhiḥ yuktām*: "'endowed with heroes, with sons and the like': food together with heroic sons."
+
+***iṣam*** — "*andhaḥ*, *vājaḥ*, *payaḥ* and so on are read among the twenty-[?] names of food (Ni. 2-[?]), so the word *iṣa* means 'food'. 'Give us food together with heroic sons' — thus Agni is prayed to."
+
+"Thus, since the fame of the name *draviṇa* belongs to many kinds of wealth, and since Agni has the capacity to give all kinds of *draviṇa*, for Agni the epithet *draviṇodāḥ* has been given, which describes his nature and capacity. Such an Agni, himself immortal, is prayed to bestow also on his devotees a long life. In many places Agni is praised as giving all these riches to those who are devoted to the performance of the rites —"
+
+> यस्ते यज्ञेन समिधा य उक्थैरर्केभिः सूनो सहसो ददाशत् ।
+> स मर्त्येष्वमृत प्रचेता राया द्युम्नेन श्रवसा वि भाति ॥
+> *yas te yajñena samidhā ya ukthair arkebhiḥ sūno sahaso dadāśat |*
+> *sa martyeṣv amṛta pracetā rāyā dyumnena śravasā vi bhāti ‖*
+> (*Ṛ. Saṃ.* 6-5-5 as read [?])
+
+*(Gloss, mine and tentative: "whoever, O son of strength, serves you with sacrifice, with fuel, with hymns, with chants — he, among mortals, O immortal, the wise, shines with wealth, splendour, fame".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.8)** *(grammar pages, pp. 106–107, noted briefly; numerals small and doubtful [?])*
+
+***draviṇodāḥ*** — explained already in the first Ṛk of this sūkta. — ***draviṇasaḥ*** — root *dru* (to go); *inan* by *drudakṣibhyām inan* (Uṇ. 2-[?]0[?] [?]); guṇa of the root's *u* because of the suffix, *av*-substitution; by *aṭkupvāṅnumvyavāye 'pi* (Pā. 8-4-2 [?]) the *n* of the suffix becomes *ṇ*; the Vedic *suk* augment; the form *draviṇas*; the sixth case, singular. — ***turasya*** — root *tura* (to hasten); since it ends with an *ik*-vowel as penultimate, *igupadhajñāprīkiraḥ kaḥ* (Pā. 3-1-135 [?]) gives the suffix *ka*; since it is *kit*, no guṇa of the light penultimate; the form *tura*; final acute by the suffix accent; the sixth case, singular.
+
+### Page 107 (PDF 127)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 107.)*
+
+*Grammar of Rik 96.8, concluded (noted briefly):* ***sanarasya*** — root *vana*, *ṣaṇa* (to share); *aran* by *kṛdarādayaś ca* (Uṇ. 3-[?]0 [?]); *dhātvādeḥ ṣaḥ saḥ* gives *s* for the initial *ṣ*; the form *sanara*; since the suffix is *nit*, the initial acute by *ñnityādir nityam* (Pā. 6-1-197 [?]). — ***yaṃsat*** — root *yamu* (to stop); *leṭ*, third person singular, *tip*; *itaś ca lopaḥ* (Pā. 3-4-97 [?]) elides the *i*; *leṭo 'ḍāṭau* (Pā. 3-4-94 [?]) gives the augment *aṭ*; *sibbahulaṃ leṭi* (Pā. 3-1-34 [?]) gives *sip*; the *m* becomes *anusvāra*; *nighāta*, since a verb-ending word precedes. — ***vīravatīm*** — 'they are his heroes': *vīravatī*, by *tad asyāsty asminn iti matup* (Pā. 5-2-94 [?]) the suffix *matup*; in the feminine, *ṅīp* by *ugitaś ca* (Pā. 4-1-6 [?]); accusative singular. — ***rāsate*** — root *rā* (to give); as before, *leṭ*, third person singular; *ta* [*tip*→] *sip*; by *ṭita ātmanepadānāṃ ṭere* (Pā. 3-4-79 [?]) the *e* for the suffix; though this is a *parasmaipada* form, by *vyatyayo bahulam* (Pā. 3-1-85 [?]) it becomes *ātmanepada*; *nighāta* by *tiṅ atiṅaḥ* (Pā. 8-1-28 [?]). ‖ 8 ‖
+
+*(A printer's ornament follows.)*
+
+---
+
+### Rik 9
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.9)** *(Triṣṭubh; accent marks printed here, not reproduced)* — *the last Ṛk of the Sūkta; it is the same as Rik 95.11*
+
+> एवा नो अग्ने समिधा वृधानो रेवत्पावक श्रवसे वि भाहि ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ९ ॥
+
+*evā no agne samidhā vṛdhāno revat pāvaka śravase vi bhāhi | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 9 ‖*
+
+### Page 108 (PDF 128)
+
+*(Running head: left 108; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.9)**
+
+> एव । नः । अग्ने । सम्ऽइधा । वृधानः । रेवत् । पावक । श्रवसे । वि । भाहि ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ९ ॥
+
+*eva | naḥ | agne | sam-idhā | vṛdhānaḥ | revat | pāvaka | śravase | vi | bhāhi | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 9 ‖*
+
+*(Reading note: as in 95.11, the print's Pada has* eva *for the Saṃhitā's* evā*; the print's Pada here gives* māmahantām *(in Rik 94.16 it printed* mamahantām*).)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.9)**
+
+> व्याख्येयं पूर्वसूक्ते । आश्वरार्थस्तु । हे शोधकाग्ने । एवमस्माभिर्दत्तेन समिदादिद्रव्येण वृधानो वर्धमानः सन् सोऽस्माकं धनयुक्तायान्नाय विशेषेण प्रकाशस्व । अस्माकं तदन्नं मित्रादयो ममहन्तां । पूजयन्तां । रक्षन्त्वित्यर्थः । तथा सिन्धुरब्देवता द्यावापृथिव्यौ च ममहन्तां ॥
+> *vyākhyeyaṃ pūrvasūkte | āśvarārthas tu | he śodhakāgne | evam asmābhir dattena samidādidravyeṇa vṛdhāno vardhamānaḥ san so 'smākaṃ dhanayuktāyānnāya viśeṣeṇa prakāśasva | asmākaṃ tad annaṃ mitrādayo mamahantāṃ | pūjayantāṃ | rakṣantv ity arthaḥ | tathā sindhur abdevatā dyāvāpṛthivyau ca mamahantāṃ ‖*
+
+*(This Ṛk is the same as the last Ṛk of the previous sūkta and is explained there: so the bhāṣya says "to be explained in the previous sūkta". The print's* āśvarārthas tu *(for* saṃkṣepārthas tu*?) is read as given [?]; the sense is the one given for 95.11.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*pāvaka* — O purifier; *agne* — O Agni; *naḥ* — our (offered by us); *samidhā eva* — with the fuel alone; *vṛdhānaḥ* — growing in vigour; *revat* — endowed with wealth; *śravase* — for the sake of food; *vi bhāhi* — shine exceedingly; *naḥ* — our; *tat* — that food; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the heavenly world; *māmahantām* — let them protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, purifier who destroys sins: growing with vigour by the fuel offered by us, shine exceedingly for the sake of drinking [?] our food, which is endowed with wealth. May Mitra, Varuṇa, Aditi, the ocean, the earth and the heavenly world protect that food of ours."
+
+**English Translation (as printed)**
+
+> Thus, Agni, who is the purifier, growing with the fuel (we have supplied), blaze for the sake of securing food to us, who are possessed o[f] wealth, and may Mitra, Varuna, Aditi,—ocean, earth, heaven, preserve it to us.
+
+*(The print has "possessed o" at the line end: "of" lost.)*
+
+### Page 109 (PDF 129)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 109.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 96.9 (Kannada)**
+
+"When explaining the Ṛk 1-95-11 [the corresponding Ṛk of Sūkta 95], the sense of this Ṛk was explained at length. When mention is made of the means of Agni's growth by *samidhā iva vṛdhānaḥ* ('growing by fuel alone'), Skandasvāmin makes the meaning of the word *samidh* here not 'wood' but 'praise' alone; and Sāyaṇa's explanation is more suitable, as has been explained at length with the scriptural sentences."
+
+***pāvaka*** — *śodhaka*: "the one who purifies all: this is an epithet of Agni. This epithet is used with reference to the deities Agni, Sūrya, the Maruts, the waters and others. Such an epithet, in the sense of 'purifier', fits this context; and, as a name, *pāvaka* is well known as a synonym of Agni. *Pāvaka*, 'Agni', is one of the names of the three brothers of Agni: this is known from the story described in the Bṛhaddevatā —"
+
+> वैश्वानरे गृहपतौ यदिष्टोऽग्निश्च पावके ।
+> वषट्कारेण वृक्लेषु भ्रातृष्वग्निः सहःसुते ॥
+> *vaiśvānare gṛhapatau yad iṣṭo 'gniś ca pāvake |*
+> *vaṣaṭkāreṇa vṛkleṣu bhrātṛṣv agniḥ sahaḥsute ‖*
+> (*Bṛ. De.* 2-6[?] as read [?])
+
+*(Translation, mine and tentative, with the doubtful words [?]: "when [the oblation] was offered to Vaiśvānara, the lord of the house, and Agni, and Pāvaka, with the* vaṣaṭ *call, among the brothers, Agni the son of strength.")* "— in the Ṛksaṃhitā, in the telling of the story of the brothers of Agni, described on the basis of the 59th sūkta of the 1st maṇḍala, their names are also given. But in the present context there is no connexion between the word *pāvaka* and that story. Here *pāvaka* means 'one who purifies all'. By this excellent quality, the prayer is made that Mitra and the other deities may make the food produced by Agni worthy of worship."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.9)** *(grammar page, noted briefly)*
+
+***eva*** — in the Saṃhitā the lengthening by *nipātasya ca* (Pā. 6-3-136 [?]). — ***samidhā*** — root *ñi indhī* (to shine); with *sam* as upapada, *kvip*; the nasal of the penultimate dropped by *aniditāṃ hala upadhāyāḥ kṅiti*; the stem *samidh*, ending in *dh*; the *kṛt*-compound's first-member accent; the instrumental singular. — ***vṛdhānaḥ*** — root *vṛdhu* (to grow); *śānac* in the present sense; by *bahulaṃ chandasi* the *śap* is elided; since the suffix is treated as *jit*, no guṇa of the light penultimate; since the suffix is *cit*, the final acute. — ***revat*** — explained in the 11th Ṛk of the 95th sūkta; all the words that follow have been explained there. ‖ 9 ‖
+
+---
+
+**Progress note:** Printed pp. 1–109 done (PDF 21–129): Sūkta 95 complete; **Sūkta 96** (9 Ṛks) is **complete through Rik 96.9** (the last Ṛk, identical with 95.11; its bhāṣya refers to the earlier sūkta; its Special Topics and grammar end on p. 109, the page carrying also the grammar closing; the print's closing line, if any, has not been seen: it should be looked for at the head of p. 110). Next: printed p. 110 (PDF 130) — **Sūkta 97** begins (*apa naḥ śośucad agham*; per the contents it starts at printed p. 110; 15 Ṛks?). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–109) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.8 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82, the print's *prota* for *potrād* (p. 82), the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* (96.4), the *ahastriyāme* and the long *dhāpayete* argument of 96.5, the opening *yo 'gniṃ* of the 96.6 bhāṣya, the compressed *kṣām* tail of 96.7, the Ṛgveda numerals throughout [?]; in 96.9 the bhāṣya's *āśvarārthas tu* [?] and the Bṛhaddevatā verse on p. 109 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
