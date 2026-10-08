@@ -12426,6 +12426,80 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–436 done (PDF 16–451), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.8 complete (92.3 minus the missing p. 413); Rik 92.9 done through the Special Topics for *abhicakṣya*, *urviyā*, *bodhayantī* (the Special Topics may continue on p. 437 with *manāyoḥ*, *vācam*, etc.; the grammar page follows). Next: printed p. 437 (PDF 452). When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
-"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned** (blotted running head, several lines unclear: the citations on that page are read with extra doubt); the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–436 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–434 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6, 92.7, 92.8 and 92.9 (the *urviyā* *upasaṃkhyāna* rule and its Pāṇini number); the Special Topics of 92.7, 92.8 and 92.9 clotted in the places named on the pages; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9); the 'Part [5?], pp. 32–33' reference [?]. "
+### Page 437 (PDF 452)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 437.)*
+
+*Special Topics of Rik 92.9, continued from p. 436 (Kannada):*
+
+***manāyoḥ*** — *manyater arcatikarmaṇo manā stutir ucyate; tatkāmasya manāyoḥ* [as read [?]] | "'*manā* is called praise' — from *man*, a verb of worship. *tatkāmasya manāyoḥ*: 'of him who desires that [praise]'. Since *arcati, gāyati, rebhati* and the like are read among the forty-four names of worship (Ni. 3-[?] [?]), the word *manā* means 'praise', and *manāyu* means one who desires to be praised. Hence here: 'by the ṛṣi who desires praise or by the sacrificer who does so — by such a praiser', Skandasvāmin explains. Sāyaṇa too, in the other places where this word occurs, explains it in this way. For example —"
+
+> प्रियः सुकृत्प्रिय इन्द्रे मनायुः प्रियः सुप्रावीः प्रियो अस्य सोमी ।
+
+*priyaḥ sukṛt priya indre manāyuḥ priyaḥ suprāvīḥ priyo asya somī |*  (Ṛ. Saṃ. 4-21-3 [?]; the numerals as read [?])
+
+> प्रति मनायोरुचथानि हर्यन् तस्मिन्दधद्वृषणं शुष्ममिन्द्रः ।
+
+*prati manāyor ucathāni haryan tasmin dadhad vṛṣaṇaṃ śuṣmam indraḥ |*  (Ṛ. Saṃ. 4-21-2 [?])
+
+*Gloss, mine and tentative:* "Dear is the good-doer, dear in Indra the praise-desiring one, dear the good helper, dear his Soma-possessor. — Welcoming the hymns of the praise-desiring one, Indra puts into him the bullish strength."
+
+"In Ṛks such as these *manāyuḥ* is explained as 'one who desires praise', and *manāyoḥ* as '*stutikāmasya*'. But for the word *manāyoḥ* in the Ṛk now in hand alone, *manasā yuktasya vāgvyavahārasamarthasya prāṇijātasya* — 'of the creature endowed with mind and capable of speech' — is the explanation, that is: 'of all the class of living beings who are endowed with a mind and are able to speak'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 92.9)** *(Kannada; grammar page, noted briefly)*
+
+*abhicakṣya* — root *cakṣiṅ vyaktāyāṃ vāci*; since roots have more than one sense (*dhātūnām anekārthatvam*) this is used also in the sense of 'illuminate'; since it denotes a preceding action, the suffix *ktvā* is obtained; as it forms a compound with *abhi*, by *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37 [?]) the suffix *ktvā* is replaced by *lyap*; since it is *pit*, it is unaccented, so the accent of the root remains.
+*pratīcī* — the root *añcu* (in the senses of motion and worship), preceded by *prati*; by *ṛtvigdadhṛk…* (Pā. 3-2-59 [?]) the suffix *kvin*; since it is *kit*, by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 [?]) the nasal of the penultimate is elided; when the feminine is intended, by the *upasaṃkhyāna* *añcateś ca* the suffix *ṅīp*; since an *ac*-beginning suffix follows, by *yaci bham* (Pā. 1-4-18 [?]) the stem receives the name *bha*, and by *aco 'ñcaḥ* (Pā. 6-4-138 [?]) the *a* of the root is elided; by *cau* (Pā. 6-3-138 [?]) when the root *añcu*, whose *n* is dropped, comes after, the previous vowel is lengthened: the *i* of *prati* is lengthened: *pratīcī*; by *anudāttasya ca yatrodāttalopaḥ* (Pā. 6-1-161 [?]), since *ṅīp* follows and the root's *a* is elided though acute, the *ṅīp* takes the acute.
+
+---
+
+### Page 438 (PDF 453)
+
+*(Running head: left "438", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 92".)*
+
+*Vyākaraṇa-prakriyā of Rik 92.9, concluded (grammar page, noted briefly):*
+
+*urviyā* — the word *urvī*; the *su* follows; by the *upasaṃkhyāna* *īyāḍiyājīkārāṇāṃ ca* (Pā. 7-1-39 [?], vārttika) the replacement *ḍiyāc*; since it is *ḍit*, the *ī* is elided; since it is *cit*, by *citaḥ* the final-acute.
+*carase* — root *cara gatibhakṣaṇayoḥ*; in the sense of *tumun*, by *tumarthe sesenase…* (Pā. 3-4-9 [?]) the suffix *ase*.
+*avidat* — root *viḷ lābhe*; *luṅ*, third person singular, *tip*; by *itaś ca* the *i* is elided; since the root is *ḷdit*, by *puṣādidyutādyḷditaḥ parasmaipadeṣu* (Pā. 3-1-55 [?]) the replacement *aṅ* for *cli*; the augment *aṭ* for the stem; the *nighāta* accent.
+*manāyoḥ* — "*manaḥ ātmana icchati manasyati*": in the sense of wishing, by *supa ātmanaḥ kyac* (Pā. 3-1-8 [?]) the suffix *kyac* after the noun *manas*; after this *kyac*-ending stem, by *kyāc chandasi* (Pā. 3-2-170 [?]) the suffix *u*; since *u* follows, the *s* becomes *ā* by a change of letter. Or by *kartuḥ kyaṅ salopaś ca* (Pā. 3-1-11 [?]) the suffix *kyaṅ* with the elision of *s* by its connexion; when *man + ya* stands, by *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25 [?]) the *a* is lengthened because of *ya*; then, as before, the suffix *u*: *manāyu*; by the suffix accent the final-acute; the genitive singular. ‖ 9 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.10)** *(Triṣṭubh)*
+
+> पुनःपुनर्जायमाना पुराणी समानं वर्णमभि शुम्भमाना ।
+> श्वघ्नीव कृत्नुर्विज आमिनाना मर्तस्य देवी जरयन्त्यायुः ॥ १० ॥
+
+*punaḥpunar jāyamānā purāṇī samānaṃ varṇam abhi śumbhamānā | śvaghnīva kṛtnur vija āminānā martasya devī jarayanty āyuḥ ‖ 10 ‖*
+
+---
+
+### Page 439 (PDF 454)
+
+*(Running head left: "A. 1 A. 6 Va. 29 [?]"; centre: "Ṛgvedasaṃhitā"; right: 439.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 92.10)**
+
+> पुनःऽपुनः । जायमाना । पुराणी । समानम् । वर्णम् । अभि । शुम्भमाना ।
+> श्वघ्नीऽइव । कृत्नुः । विजः । आऽमिनाना । मर्तस्य । देवी । जरयन्ती । आयुः ॥ १० ॥
+
+*punaḥ-punaḥ | jāyamānā | purāṇī | samānam | varṇam | abhi | śumbhamānā | śvaghnī-iva | kṛtnuḥ | vijaḥ | ā-minānā | martasya | devī | jarayantī | āyuḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 92.10)**
+
+> पुनःपुनर्जायमाना प्रतिदिवसं सूर्योदयात्पूर्वं प्रादुर्भवन्ती पुराणी चिरन्तनी । नित्येत्यर्थः । यस्मात्समानं वर्णमेकमेव रूपमभि प्राप्य शुम्भमाना शोभमाना । विभिन्नेष्वपि दिवसेष्वस्या एकरूपेणावस्थानात्सर्वत्र [?] इत्यर्थः । एवंगुणविशिष्टा देवी देवनशीलोषा मर्तस्य मरणधर्मणः सर्वस्य प्राणिजातस्यायुर्जीवनं जरयन्ती क्षयं नयन्ती वर्तते । प्रतिदिनमुषःसंपर्कतासु [?] हि सर्वेषामायुर्हीयते । उषाश्च पुनःपुनर्जायमानेत्युक्तम् । आत एवायुर्जरयति । तत्र दृष्टान्तः । कृत्नुः कर्तनशीला श्वघ्नीव व्याधस्त्रीव । सा यथा विजश्चलतः पक्षिणः आमिनाना पक्षादिच्छेदनेन हिंसन्ती तेषामायुर्जरयति तद्वत् ॥ पुराणी । पुरेत्यस्मादव्ययात् सायंचिरंप्राह्णेप्रगेऽव्ययेभ्यष्ट्युट्युलौ तुट् च इत्यादिना । पा. ४-३-२३ [?] भवार्थे ट्युप्रत्ययः । पुराणप्रोक्तेषु ब्राह्मणकल्पेषु । पा. ४-३-१०५ [?] इति निपातात्ट्युडभावः । योरनादेशः । टित्वान्ङीप् । व्यत्ययेनान्तोदात्तत्वं । शुम्भमाना । शुन्भ दीप्तौ । शपः पित्त्वादनुदात्तत्वं । शानचोलसार्वधातुकस्वरेण धातुस्वरः शिष्यते । श्वघ्नी । शुना मृगान् हतवान् श्वहा । बहुलं छन्दसि । पा. ३-२-८८ [?] इति वचनात् ब्रह्मादिव्यतिरिक्तेऽप्युपपदे हन्तेः क्विप् । ऋन्नेभ्यो ङीबिति ङीप् । अल्लोपोऽन इत्येकारलोपः । हो हन्तेरिति घत्वं । उदात्तनिवृत्तिस्वरेण ङीप उदात्तत्वं । कृत्नुः । कृती छेदने । औणादिकः क्नुप्रत्ययः । विजः । ओविजी भयचलनयोः । विजन्ति चलन्तीति विजः पक्षिणः । आमिनाना । मीञ् हिंसायां क्र्यादिकः । स्थादीनां ह्रस्वः इति ह्रस्वत्वं । शानचि च्छत्त्वादन्तोदात्तत्वं ॥
+
+*punaḥpunar jāyamānā pratidivasaṃ sūryodayāt pūrvaṃ prādurbhavantī purāṇī cirantanī | nityety arthaḥ | yasmāt samānaṃ varṇam ekam eva rūpam abhi prāpya śumbhamānā śobhamānā | vibhinneṣv api divaseṣv asyā ekarūpeṇāvasthānāt sarvatra [?] ity arthaḥ | evaṃguṇaviśiṣṭā devī devanaśīloṣā martasya maraṇadharmaṇaḥ sarvasya prāṇijātasyāyur jīvanaṃ jarayantī kṣayaṃ nayantī vartate | pratidinam uṣaḥsaṃpar­katāsu [?] hi sarveṣām āyur hīyate | uṣāś ca punaḥpunar jāyamānety uktam | āta evāyur jarayati | tatra dṛṣṭāntaḥ | kṛtnuḥ kartanaśīlā śvaghnīva vyādhastrīva | sā yathā vijaś calataḥ pakṣiṇaḥ āminānā pakṣādicchedanena hiṃsantī teṣām āyur jarayati tadvat ‖ purāṇī | puretyasmād avyayāt sāyaṃciraṃprāhṇeprage 'vyayebhyaṣ ṭyuṭyulau tuṭ ca ity ādinā | Pā. 4-3-23 [?] bhavārthe ṭyuprat­yayaḥ | purāṇaproktesu brāhmaṇakalpeṣu | Pā. 4-3-105 [?] iti nipātāt ṭyuḍabhāvaḥ | yor anādeśaḥ | ṭitvān ṅīp | vyatyayenāntodāttatvaṃ | śumbhamānā | śunbha dīptau | śapaḥ pittvād anudāttatvaṃ | śānacolasārvadhātukasvareṇa dhātusvaraḥ śiṣyate | śvaghnī | śunā mṛgān hatavān śvahā | bahulaṃ chandasi | Pā. 3-2-88 [?] iti vacanād brahmādivyatirikte 'py upapade hanteḥ kvip | ṛnnebhyo ṅīb iti ṅīp | allopo 'na ity ekāralopaḥ | ho hanter iti ghatvaṃ | udāttanivṛttisvareṇa ṅīpa udāttatvaṃ | kṛtnuḥ | kṛtī chedane | auṇādikaḥ knupratyayaḥ | vijaḥ | oviji bhayacalanayoḥ | vijanti calantīti vijaḥ pakṣiṇaḥ | āminānā | mīñ hiṃsāyāṃ kryādikaḥ | sthādīnāṃ hrasvaḥ iti hrasvatvaṃ | śānaci cchattvād antodāttatvaṃ ‖*
+
+*Translation:* "*Punaḥ-punar jāyamānā* — appearing daily before sunrise, *purāṇī*, ancient, that is, eternal. Because she shines, *samānaṃ varṇam abhi*, obtaining always the one same form, through her abiding in one form on all different days [the clause "sarvatra…" is doubtful [?]]. Such a goddess, the *devī*, Uṣas, is wasting (*jarayantī*), bringing to decay, the *āyuḥ*, the life, of every *martasya*, mortal creature; for with each day's contact with Uṣas [clause doubtful [?]] the life of all diminishes; and it was said that Uṣas is born again and again; hence she wears out life. The simile: *kṛtnuḥ* — a cutter — *śvaghnī iva*, like the wife of a hunter: as she, *āminānā*, by striking down the birds that *vijaḥ*, flutter, by cutting their wings and the like, wears out their lives, so she."
+
+*Grammar tail (partly clotted; characterized):* *purāṇī* — from the indeclinable *pura*, by *sāyaṃciraṃprāhṇe…* (Pā. 4-3-23 [?]) the suffix *ṭyu*; in the *brāhmaṇa* and *kalpa* texts proclaimed by ancient (sages), by Pā. 4-3-105 [?] the *ṭyuḍ* is irregular; *yu* → *ana*; *ṅīp* since it is *ṭit*; by *vyatyaya* the final-acute. *śumbhamānā* — root *śumbha dīptau*; *śap* unaccented as it is *pit*; the root's accent remains with *śānac*, a *lasārvadhātuka*. *śvaghnī* — *śunā mṛgān hatavān śvahā*; by *bahulaṃ chandasi* (Pā. 3-2-88 [?]) *kvip* after *han* even with an *upapada* other than *brahman* and the like; *ṅīp* by *ṛnnebhyo ṅīb*; the *ghatva* by *ho hanteḥ*; the *ṅīp* takes the acute by the *udāttanivṛtti* accent. *kṛtnuḥ* — root *kṛtī chedane*; the Uṇādi suffix *knu*. *vijaḥ* — root *oviji bhayacalanayoḥ*; "they tremble, move: *vijaḥ*, birds". *āminānā* — root *mīñ hiṃsāyām* of the *kryādi* class; the shortening by *sthādīnāṃ hrasvaḥ*; with *śānac* the final-acute."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 92.10)** *(Kannada; begins at the foot of p. 439)*
+
+*punaḥ punaḥ* — (in one manner) again and again; *jāyamānā* — appearing; *purāṇī* — being ancient (without beginning); *samānaṃ varṇam abhi* — (without change) one and the same form —
+
+---
+
+**Progress note:** Printed pp. 1–439 done (PDF 16–454), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–91 complete** (91: twenty-three Ṛks, printed pp. 325–402; no closing line). **Sūkta 92** (eighteen Ṛks: 1–4 Jagatī, 5–12 Triṣṭubh, 13–18 Uṣṇih; ṛṣi Gotama Rāhūgaṇa; deity Uṣas for 1–15 and the Aśvins for 16–18; 14th Anuvāka, eighth sūkta; application *laiṅgika*; printed pp. 402–?): Riks 92.1–92.9 complete (92.3 minus the missing p. 413); Rik 92.10 Saṃhitā, Pada, bhāṣya done and the Pratipadārtha begun, breaking at the foot of p. 439 ("*samānaṃ varṇam abhi* — (without change) one and the same form —"). Next: printed p. 440 (PDF 455) — the rest of the Pratipadārtha of 92.10. When the work reaches printed p. 513 (PDF 528), translate it there (it also stands, mis-placed, at PDF 428; its contents belong to the Agni-Sūkta 94). "
+"Open flags (Sūkta 92): **p. 413 missing from the scan**; **p. 436 poorly scanned**; the Anukramaṇī line garbled in the print (*dvyanonapasyaṃ*) [?]; the deity-list numerals and the varga numerals small and doubtful [?]; Ā. 4-14 [?]; the Ṛgveda numerals of every citation on pp. 406–437 as read, doubtful [?]; Nirukta numerals [?]; Pāṇini/Uṇādi numerals on pp. 407–439 given as read, doubtful [?]; clotted bhāṣya clauses in 92.2, 92.3, 92.4, 92.6–92.10 (in 92.10 the clauses *sarvatra…* and *uṣaḥsaṃparkatāsu…* [?]); Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9); the 'Part [5?], pp. 32–33' reference [?]. "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
