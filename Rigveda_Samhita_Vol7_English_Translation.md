@@ -14114,6 +14114,91 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–490 done (PDF 16–505), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.5 complete; Rik 93.6 done through the middle of its Special Topics, which break mid-sentence at the foot of p. 490 ("…helped the sacrificers Bhṛgu and Manu with him. For example —"), to be continued from the head of p. 491. Next: printed p. 491 (PDF 506). "
-"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–490 (those of pp. 482, 486 and 490 read from small digits) and Nirukta numerals [?]; Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; Pāṇini/Uṇādi numerals on pp. 470–488 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 491 (PDF 506)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 491.)*
+
+*Special Topics of Rik 93.6, continued from p. 490 (Kannada):*
+
+> द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा ।
+
+*dvijanmānaṃ rayim iva praśastaṃ rātiṃ bharad bhṛgave mātariśvā |*  (Ṛ. Saṃ. 1-60-1)
+
+> यं मातरिश्वा मनवे परावतो देवं भाः परावतः ।
+
+*yaṃ mātariśvā manave parāvato devaṃ bhāḥ parāvataḥ |*  (Ṛ. Saṃ. 1-[?]-[?] [?], numerals as read, doubtful)
+
+> इमं नयन्मातरिश्वा परावतो देवेभ्यो मथितं परि ।
+
+*imaṃ nayan mātariśvā parāvato devebhyo mathitaṃ pari |*  (Ṛ. Saṃ. 3-9-5 [?])
+
+> आ दूतो अग्निरभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ।
+
+*ā dūto agnir abharad vivasvato vaiśvānaraṃ mātariśvā parāvataḥ |*  (Ṛ. Saṃ. 6-8-4 [?])
+
+> ईळेन्यं प्रथमं मातरिश्वा देवास्तेतक्षुर्मनवे यजत्रम् ।
+
+*īḷenyaṃ prathamaṃ mātariśvā devās tetakṣur manave yajatram |*  (Ṛ. Saṃ. 10-46-9 [?])
+
+*Gloss, mine and tentative (for the group):* "Mātariśvan brought for Bhṛgu the twice-born one, like a prized treasure. — Whom Mātariśvan [brought] for Manu from afar, the god, the radiance from afar. — Mātariśvan brought him, churned out for the gods, from afar. — The messenger Agni brought Vaiśvānara, Mātariśvan [brought him] from afar, for the shining one. — The gods fashioned the adorable first one, whom Mātariśvan [brought], for Manu."
+
+"— in many such Ṛks it is well known in the śruti that Mātariśvan, for the benefit of the sacrificers Bhṛgu and Manu, called Agni who had been hidden in a distant place and benefitted all the creatures of the earth. This story will be explained in detail later."
+
+***śyenaḥ anyam adreḥ pari amathnāt*** — "The Gāyatrī in the form of a hawk snatched [Soma] from the peak of the mountain and brought him. As Mātariśvan brought Agni, who was in a very distant place, so too the story of the hawk bringing Soma to the earth is described in many śrutis."
+
+> मन्द्रस्य रूपं विविदुर्मनीषिणः श्येनो यदन्धो अभरत्परावतः ।
+
+*mandrasya rūpaṃ vividur manīṣiṇaḥ śyeno yad andho abharat parāvataḥ |*  (Ṛ. Saṃ. 4-26-6 [?])
+
+> यं सुपर्णः परावतः श्येनस्य पुत्र आभरत् ।
+
+*yaṃ suparṇaḥ parāvataḥ śyenasya putra ābharat |*  (Ṛ. Saṃ. 10-144-4 [?])
+
+*Gloss, mine and tentative:* "The wise knew the form of the delightful one when the hawk brought the *andhas* from afar. — Whom the well-winged son of the hawk brought from afar."
+
+"The chief part of this story is described in the form of a dialogue in the 26th and 27th sūktas of the fourth maṇḍala of the Ṛksaṃhitā. But since the different words *śyena*, *suparṇa* and *gāyatrī* are used in these contexts, these contexts become meaningful only after one has learnt the details of this story."
+
+"In explaining this Ṛk, Skandasvāmin cites the story told in the Aitareya Brāhmaṇa. According to it (Ai. Brā. 3-25 [read: 3-[?]] to 3-26 [?]), the ṛṣis, wishing to obtain Soma, who was in the world of heaven, as king, prayed to the Chandas — the metres — to bring that King Soma to them. Then they agreed, and, because this work was accomplished by a change into the form of a *suparṇa* [bird], this episode is well known as the *Sauparṇākhyāna*. Thereupon, in the form of birds, the metres exerted themselves; but because the Jagatī, going by the way, fell short [lit.: gave out] in the middle of the road, the Triṣṭubh metre was sent out. This too —
+
+---
+
+### Page 492 (PDF 507)
+
+*(Running head: left "492", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 93".)*
+
+"— was unable to complete the way, going beyond the half-way, and had to return. Then the Gāyatrī flew upward, and, having terrified the Soma-guards, seized Soma with her beak and her feet. Then one of the Soma-guards, Kṛśānu, shot an arrow, and it cut off one claw of this bird. Even so the Gāyatrī accomplished her task. The part that she held in her right foot became the *prātaḥsavana*, the part in her left foot the *mādhyandinasavana*, and the part in her beak the *tṛtīyasavana*."
+
+"In the same way, in the Śatapatha Brāhmaṇa too (1-7-2-10 [?]) it is said: '*tad dvai kaniṣṭhaṃ chandaḥ sad gāyatrī prathamā chandasāṃ yujyate tad tad dvir erkyaiva yajñair eno bhūtvā divaḥ somam ābharat*' [as read, clotted [?]] — in the Chandas, though the Gāyatrī is the smallest in the number of syllables, she attains the first place of all the metres. By her own power, taking the form of a hawk, she brought Soma from the world of the gods. At the time of the oblations too the praise of the Gāyatrī as a hawk is well known (Śat. Brā. 3-4-1-13 [?]; 3-9-4-10 [?]). In this very context the point that Agni and Gāyatrī are the same in nature, [as in] '*agnir vai gāyatrī tad gāyatry etam imam īte sā yad gāyatrī śyeno bhūtvā*', will be explained later."
+
+"This same narrative, with a little change, is found in the Taittirīya Saṃhitā (Tai. Saṃ. 6-1-6-1 [?]): once, there was a wager between Kadrū and Suparṇī; since Kadrū won, Suparṇī had to become her servant. Then Kadrū said to Suparṇī, 'bring Soma from the mid-region, disguised as a thief, and give him as the ransom, then you will be freed.' Then Suparṇī, to seek the help of her children, the metres, [commissioned them]; the efforts of the Jagatī and the Triṣṭubh both failed, and the Gāyatrī accomplished the work: so runs the story of the Taittirīya Saṃhitā."
+
+***brahmaṇā vavṛdhānā*** — "Since *andhaḥ, vājaḥ, payaḥ* and the like are read among the names of food (Ni. 2-7 [?]), here it can be 'by food in the form of oblation'; or else, since the word *brahman* is explained as 'work' or as 'mantra' (Ni. 3-[?] [?]), the meaning may be 'by rites such as sacrifice or by mantras': 'having obtained increase by these'. Or, since the root *vṛdh* is generally used in the Ṛksaṃhitā in the sense 'praise' [*praśaṃsā*], it may also be 'those who have been praised'."
+
+***yajñāya uru lokaṃ cakrathuḥ*** — "'You made a broad place of sacrifice for the sacrifice performed with reference to the other deities': this is the meaning."
+
+---
+
+### Page 493 (PDF 508)
+
+*(Running head left: "A. 1 A. 6 Va. 32 [?]"; centre: "Ṛgvedasaṃhitā"; right: 493.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 93.6)** *(Kannada; grammar page, noted briefly)*
+
+*jabhāra* — root *hṛñ haraṇe* [as printed for *bhṛñ*? — the print gives *hṛñ*, with the Vedic *h→bh* by the rule cited below [?]]; *liṭ*, third person singular, *tip*; by *parasmaipadānāṃ ṇalatusus…* (Pā. 3-4-82 [?]) the replacement *ṇal*; the root is doubled; the reduplicative takes *ur at*; *cutva*; by *ata upadhāyāḥ* (Pā. 7-2-116 [?]) the vṛddhi of the penultimate; by *hṛgrahor bhaś chandasi* [vārttika] the replacement *bha* for *ha*; since it follows a word, the *nighāta* accent.
+*amathnāt* — root *mantha viloḍane*; *laṅ*, third person singular; by *itaś ca* the *i* is elided; by *kryādibhyaḥ śnā* the stem-suffix *śnā*; by *sārvadhātukam apit* (Pā. 1-2-4 [?]) it is treated as *ṅit*; by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24 [?]) the nasal of the penultimate is elided; the augment *aṭ*; since it follows a word, the *nighāta*; since the augment is acute, the word is initial-acute.
+*vavṛdhānā* — root *vṛdhu vṛddhau*; in it, *liṭ*; by *liṭaḥ kānajvā* (Pā. 3-2-106 [?]) the suffix *kānac*; the root is doubled because of it; in the reduplicative *halādiḥ śeṣaḥ*; *ur at*; again *halādiḥ śeṣaḥ*; since *kānac* is *kit*, the guṇa of the light penultimate of the root does not occur; by the Vedic usage the reduplicative is lengthened; the dual ending *au* follows, and by *supāṃ sulug* it is replaced by *ā*. ‖ 6 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.7)** *(Triṣṭubh)*
+
+> अग्नीषोमा हविषः प्रस्थितस्य वीतं हर्यतं वृषणा जुषेथाम् ।
+> सुशर्माणा स्ववसा हि भूतमथा धत्तं यजमानाय शं योः ॥ ७ ॥
+
+*agnīṣomā haviṣaḥ prasthitasya vītaṃ haryataṃ vṛṣaṇā juṣethām | suśarmāṇā svavasā hi bhūtam athā dhattaṃ yajamānāya śaṃ yoḥ ‖ 7 ‖*
+
+*(Accent marks not reproduced; the Pada is on p. 494.)*
+
+---
+
+**Progress note:** Printed pp. 1–493 done (PDF 16–508), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–92 complete** (91: twenty-three Ṛks, pp. 325–402; 92: eighteen Ṛks, pp. 402–469, p. 413 missing from the scan; no closing lines in the print). **Sūkta 93** (twelve Ṛks: 1–3 Anuṣṭubh, 4–7 and 12 Triṣṭubh, 8 Jagatī or Triṣṭubh, 9–11 Gāyatrī; ṛṣi Gotama Rāhūgaṇa; deity Agnīṣomau; 14th Anuvāka, ninth sūkta; printed pp. 469–?): Riks 93.1–93.6 complete; Rik 93.7 Saṃhitā at the foot of p. 493 (Pada on p. 494). Next: printed p. 494 (PDF 509). "
+"Open flags (Sūkta 93): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
