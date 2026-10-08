@@ -15286,5 +15286,81 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 ---
 
-**Progress note:** Printed pp. 1–532 done (PDF 16–547), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.6 complete (94.6 ends on p. 532 with its grammar page; Special Topics citations 3-3-3, 3-10-4, 4-3-1, 10-1-5, 10-110-11 as read [?]; the bhāṣya of 94.6 clotted at *pūrvaddhotar*, *hotṛsya*, *hotāmukhyaḥ* and in the grammar tail after *si-pratyayā* [?]). Next: printed p. 533 (PDF 548), Rik 94.7. Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 533 (PDF 548)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 533.)*
+
+**Vyākaraṇa-prakriyā of Rik 94.6, concluded** *(grammar, noted briefly)*: ***puṣyasi*** — root *puṣa* (to thrive; *divādi* class), the *laṭ* second person singular form; the *tiṅ* is unaccented (*tiṅ-atiṅaḥ*-type rule, the *nighāta* accent). ‖ 6 ‖
+
+---
+
+### Sūkta 94, Rik 7 (continued; printed pp. 533–535)
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.7)** *(Jagatī; accent marks printed here, not reproduced)*
+
+> यो विश्वतः सुप्रतीकः सदृङ्ङसि दूरे चित्सन्तळिदिवाति रोचसे ।
+> रात्र्याश्चिदन्धोऽति देव पश्यस्यग्ने सख्ये मा रिषामा वयं तव ॥ ७ ॥
+
+*yo viśvataḥ supratīkaḥ sadṛṅṅasi dūre cit san taḷid ivāti rocase | rātryāś cid andho 'ti deva paśyasy agne sakhye mā riṣāmā vayaṃ tava ‖ 7 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 94.7)**
+
+> यः । विश्वतः । सुऽप्रतीकः । सऽदृक् । असि । दूरे । चित् । सन् ।
+> तळित्ऽइव । अति । रोचसे ।
+> रात्र्याः । चित् । अन्धः । अति । देव । पश्यसि । अग्ने । सख्ये । मा । रिषाम । वयम् । तव ॥ ७ ॥
+
+*yaḥ | viśvataḥ | su-pratīkaḥ | sa-dṛk | asi | dūre | cit | san | taḷit-iva | ati | rocase | rātryāḥ | cit | andhaḥ | ati | deva | paśyasi | agne | sakhye | mā | riṣāma | vayam | tava ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 94.7)**
+
+> हे अग्ने यस्त्वं सुप्रतीकः शोभनाङ्गः सन् विश्वतः सर्वस्मादपि सदृङ्ङसि अस्मानः [?] सदृशो भवसि । सत्वं दूरे चित्सन् दूरेऽपि वर्तमानः सन् तळिदिव । अन्तिकनामैतत् । अन्तिके वर्तमान इवाति रोचसे । अतिशयेन दीप्यसे । तदुक्तं यास्केन । दूरेऽपि सन्नन्तिक इव सन्दृश्यसे । नि. ३-१० [?] इति । रात्र्याश्चित् रात्रेरपि रात्रेः संबन्धिनमन्धो बहुलमन्धकारमपि हे देव द्योतमानाग्ने इति पश्यसि । अतीत्य प्रकाशसे । अन्यत्पूर्ववत् ॥ सुप्रतीकः । शोभनं प्रतीकोऽङ्गं यस्य । क्रत्वादयश्चेत्युत्तरपदाद्युदात्तत्वं । सदृङ् । समानान्ययोश्चेति वक्तव्यम् । पा. ३-२-६० [?] इति समानोऽपपदाद्दृशेः क्विन् । दृग्दृशवतुषु । पा. ६-३-८९ [?] इति समानस्य सभावः । दृक्स्वःस्वतवसां छन्दसि । पा. ६-१-८३ [?] इति नुम् । संयोगान्तलोपः । क्विन्प्रत्ययस्य कुः । कुत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं । रात्र्याः । रात्रेश्चाजसौ । पा. सू. ४-१-३१ [?] इति ङीप् ॥
+
+*he agne yas tvaṃ supratīkaḥ śobhanāṅgaḥ san viśvataḥ sarvasmād api sadṛṅṅasi asmānaḥ [?] sadṛśo bhavasi | sa tvaṃ dūre cit san dūre 'pi vartamānaḥ san taḷid iva | antikanāmaitat | antike vartamāna ivāti rocase | atiśayena dīpyase | tad uktaṃ yāskena | dūre 'pi sann antika iva sandṛśyase | ni. 3-10 [?] iti | rātryāś cit rātre api rātreḥ saṃbandhinam andho bahulam andhakāram api he deva dyotamānāgne iti paśyasi | atītya prakāśase | anyat pūrvavat ‖ supratīkaḥ | śobhanaṃ pratīko 'ṅgaṃ yasya | kratvādayaś cety uttarapadādyudāttatvaṃ | sadṛṅ | samānānyayoś ceti vaktavyam | pā. 3-2-60 [?] iti samāno 'papadād dṛśeḥ kvin | dṛgdṛśavatuṣu | pā. 6-3-89 [?] iti samānasya sabhāvaḥ | dṛksvaḥsvatavasāṃ chandasi | pā. 6-1-83 [?] iti num | saṃyogāntalopaḥ | kvinpratyayasya kuḥ | kutvaṃ | kṛduttarapadaprakṛtisvaratvaṃ | rātryāḥ | rātreś cājasau | pā. sū. 4-1-31 [?] iti ṅīp ‖*
+
+*Gloss (mine, from the Kannada and the bhāṣya as printed):* "O Agni, you who, being of fair limbs (*supratīka*), are *sadṛk* from every side — like to us [the word as printed is doubtful, [?]] — though you are far off, you shine surpassingly as if near (*taḷit* is a word for 'near'). This was said by Yāska: 'Though far off, you are seen as if near' (Nirukta, numeral as read [?]). *rātryāś cit* — even of the night, you see (*paśyasi*) even the great darkness belonging to the night, O shining god, and shine beyond it. The rest as before." Grammatical tail: *supratīka* — fair limbs; the first member of the compound gets the acute on its first syllable by *kratvādayaś ca*; *sadṛk* — *dṛś* with *samāna* in the preceding position, *kvin*, *sa*-substitution for *samāna*, *num* augment in the Veda, loss of the conjunct final, *ku*-substitution for the *kvin* suffix; accent of the earlier member in a *kṛdanta* compound; *rātryāḥ* — *ṅīp* by the rule on *rātri*. *(The bhāṣya of this Rik is clotted at* asmānaḥ*, and the sūtra numbers read from small figures are doubtful [?]; the print's* nuṃ *is read from the Kannada note on p. 535, the bhāṣya's own letter being* suṃ*-like [?].)*
+
+### Page 534 (PDF 549)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Sāyaṇabhāṣyasahitā"; right: "Maṇḍala 1, Anuvāka 15 [?], Sūkta 94".)*
+
+*(The bhāṣya of Rik 94.7 as set down above runs from p. 533 across the head of this page; no further bhāṣya on this page.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*agne* — O Agni; *yaḥ* — you who; *supratīkaḥ* — of beautiful, lovely limbs; *viśvataḥ* — in all directions; *sadṛk asi* — are (without the least difference) equal in appearance (such a one are you); *dūre cit san* — though far away, also; *taḷid iva* — as if near; *ati rocase* — you shine exceedingly; *deva* — O shining Agni, (you); *rātryāḥ cit andhaḥ* — even the darkness of the time of night; *ati paśyasi* — piercing it, you shine; *tava* — your; *sakhye* — through friendship; *vayaṃ* — we; *mā riṣāma* — may we not suffer harm."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Agni, you, being of lovely form, are of one aspect in every direction, without the least difference. Though far off, you shine as if near. By your radiance you pierce even the darkness of the night and shine. Because of friendship with you, may we suffer no harm of any kind."
+
+**English Translation (as printed)**
+
+> You are of graceful form and alike on every side, and although remote, shine as if near ; O divine Agni, you can see beyond the darkness of night ; Agni, let us not suffer jinury [sic] through your friendship.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Kannada)**
+
+***supratīkaḥ*** — *śobhanamukhaḥ*: "*śobhanamukhaḥ*, 'one of lovely face'. 'One with a charming face'; this epithet is used very commonly of Agni, Sūrya, Uṣas, and in the main in connection with them; they are said to be those whose form is endowed with lustre, *(continues on p. 535)*"
+
+### Page 535 (PDF 550)
+
+*(Running head left: "A. 1 A. 6 Va. 31 [?]"; centre: "Ṛgvedasaṃhitā"; right: 535.)*
+
+"…so the epithets *supratīkaḥ* and *susandṛśaḥ* are found much used in their regard."
+
+***taḷit*** — "*taḷit, āsāt, ambaram* — among the eleven last names read in the list of words, which in the Nirukta (Ni. 2-9 [?]) mean 'near': 'in the vicinity'. That is, Agni, though far off, shines as lovely as if near, in his great radiance."
+
+***andhaḥ*** — "*tamo 'sy andha ucyate nāsmin dhyānaṃ bhavati na darśanam andhatama ity abhibhāṣante* [as read, doubtful [?]]" — Ni. 3-1 [?]:
+
+> तमोऽस्यन्ध उच्यते नास्मिन् ध्यानं भवति न दर्शनमन्धन्तम इत्यभिभाषन्ते ।
+> *tamo 'sy andha ucyate nāsmin dhyānaṃ bhavati na darśanam andhantama ity abhibhāṣante |*
+
+*(Gloss, mine and tentative: "Darkness is called* andha*: in it there is no seeing and no sight; they say 'the blindest dark'." The Kannada adds:)* "Because one cannot look, or cannot go forward, in it. The word *andha* means 'darkness'. The expression of the people, 'it is dark (blinding) darkness', is well known."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*
+
+*viśvataḥ* — to the word *viśva* in the ablative sense the suffix *tasil* by *pañcamyās tasil* (Pā. [?]); acute on the syllable before the suffix by the *lit* rule. *supratīkaḥ* — "the one whose limb (*pratīka*) is lovely"; the first member's accent per *kratvādayaś ca* (the later member gets the initial acute). *sadṛk* — root *dṛś* (seeing) when the word *samāna* is the upapada, *kvin* by *samānānyayoś ceti vaktavyam* (Pā. 3-2-60 [?]); *sa*-substitution of *samāna* by *dṛgdṛśavatuṣu* (Pā. 6-3-89 [?]); *sadṛś*; then, with *su* following, *nuṃ* by *dṛk-svaḥ-svatavasāṃ chandasi* (Pā. 6-1-83 [?]); *saṃyogāntasya lopaḥ* removes the *ś*; the elision of *su* to be stated by *hal-ṅyābbhyo…*; *ku*-substitution (*kvin*'s *n* → *ṅ*) by *kuṃ…* (Pā. 8-2-62 [?]); form *sadṛṅ*; accent by *gatikārakopapadāt kṛt* (the *kṛt* member). *asi* — root *as* (to be), *ādādi* class, *laṭ* second person singular *sip*, *tāsasty or lopaḥ* removes the *s* of the root (Pā. 7-4-50 [?]); the *nighāta* accent does not arise since the verb is joined by *yad*; *sip* being *pit* is unaccented; the root's accent remains. *rātryāḥ* — *rātri* is a feminine stem in *i*; *ṅas*/*ṅi* by *rātreś cājasau* (Pā. 4-1-31 [?]) takes *ṅīp*; a variant of the genitive singular. ‖ 7 ‖ *(Grammar page, noted briefly.)*
+
+---
+
+**Progress note:** Printed pp. 1–535 done (PDF 16–550), **except printed p. 413, which is missing from the scan** (printed p. 513 is translated in its place; PDF 428 is its stray duplicate). Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Riks 94.1–94.7 complete (94.7 ends on p. 535 with its grammar page; the bhāṣya of 94.7 clotted at *asmānaḥ* and the *num*/*sum* letter, sūtra and Nirukta numerals as read [?]; 94.6 Special Topics citations 3-3-3, 3-10-4, 4-3-1, 10-1-5, 10-110-11 as read [?] and its bhāṣya clotted at *pūrvaddhotar*, *hotṛsya*, *hotāmukhyaḥ* [?]). Next: printed p. 536 (PDF 551), Rik 94.8 (whose pādas, per the Anuvāda, address other deities). Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
