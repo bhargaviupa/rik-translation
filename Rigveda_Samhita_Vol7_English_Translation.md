@@ -5423,4 +5423,106 @@ Closing of Rik 86.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–197 done (PDF 16–212) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1 and 86.2 complete.** Next: Rik 86.3 at printed p. 198 (PDF 213). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 198 (PDF 213)
+
+*(Running head: "198 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.3)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> उत वा यस्य वाजिनोऽनु विप्रमतक्षत ।
+> स गन्ता गोमति व्रजे ॥ ३ ॥
+
+*uta vā yasya vājino 'nu vipram atakṣata | sa gantā gomati vraje ‖ 3 ‖*
+
+*Gloss, mine and tentative:* "And he for whom the strong ones [the priests with oblations] have sharpened the sage [the Marut host] — he shall go to a cattle-rich pen."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.3)**
+
+> उत । वा । यस्य । वाजिनः । अनु । विप्रम् । अतक्षत ।
+> सः । गन्ता । गोऽमति । व्रजे ॥ ३ ॥
+
+*uta | vā | yasya | vājinaḥ | anu | vipram | atakṣata | saḥ | gantā | go-mati | vraje ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.3)**
+
+> उत वापि च यस्य यजमानस्य वाजिनो हविर्लक्षणान्नोपेता ऋत्विजो विप्रं मेधाविनं मरुद्गणमन्वतक्षत हविष्प्रदानादिना तीक्ष्णीकुर्वन्ति स यजमानो गोमति बहुभिर्गोभिर्युक्ते व्रजे गोष्ठे गन्ता गमनशीलो भवति ॥ अतक्षत । तक्षू त्वक्षू तनूकरणे । छान्दसो लङ् । व्यत्ययेन मध्यमः [?] । गन्ता । गमेस्ताच्छील्किकस्तृन् ॥
+
+*uta vāpi ca yasya yajamānasya vājino havirlakṣaṇānnopetā ṛtvijo vipraṃ medhāvinaṃ marudgaṇam anvatakṣata haviṣpradānādinā tīkṣṇīkurvanti sa yajamāno gomati bahubhir gobhir yukte vraje goṣṭhe gantā gamanaśīlo bhavati ‖ atakṣata | takṣū tvakṣū tanūkaraṇe | chāndaso laṅ | vyatyayena madhyamaḥ [?] | gantā | games tācchīlikas tṛn ‖*
+
+*Translation:* "And also (*uta vāpi ca*): the sacrificer for whom the priests, *vājinaḥ* — furnished with food in the form of oblations — *anvatakṣata* — sharpen, that is, by the offering of oblations and the like make keen, the wise *vipra*, the host of Maruts: that sacrificer becomes *gantā* — one who goes, one accustomed to go — to a pen (*vraje*, cow-stall) *gomati* — furnished with many cows. *Grammar tail, noted briefly:* *atakṣata* — *takṣū tvakṣū tanūkaraṇe* ('to make thin, to pare, to sharpen'); a Vedic *laṅ*; by *vyatyaya* the second person [as printed; so read with doubt [?]]; *gantā* — *tṛn* after *gam*, in the sense of habit."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.3)** *(Kannada)*
+
+*uta vā* — and also; *yasya* — for whichever sacrificer; *vājinaḥ* — priests who have food in the form of oblations; *vipram* — the wise Marut host; *anu atakṣata* — (by the offering of oblations and the like) make keen; *saḥ* — that sacrificer; *gomati* — (abundant) with cows; *vraje* — in the cow-pen; *gantā* — becomes one who goes about.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.3** *(Kannada)*
+
+"The sacrificer for whom the priests offer food in the form of oblations and so make the wise Marut host keen — that sacrificer, obtaining abundantly wealth of cattle, always goes about in the very pen of cows."
+
+---
+
+### Page 199 (PDF 214)
+
+*(Running head left: "A. 1 A. 6 Va. 11 [?]"; centre: "Ṛgvedasaṃhitā"; right: 199.)*
+
+**English Translation** *(printed in English in the source; Rik 86.3)*
+
+"And may he for whom the priests with oblations have sharpened (the hunger of the Maruts) walk among pastures crowded with cattle." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 86.3)**
+
+- **विप्रम्** — "the Marut host, which has intelligence; the singular *vipram* is used here, so the meaning of a *host* of Marut deities must be given."
+- **अतक्षत** — *haviṣpradānādinā tīkṣṇīkurvanti | takṣū tvakṣū tanūkaraṇe* — "by offering oblations and the like, they sharpen the hunger of the Marut deities, and they cause the sacrificer to take delight in the substances he offers: Soma and the rest. That is the intention."
+- **स गन्ता गोमति व्रजे** — "he goes to a pen with cattle: that is, he obtains many cows and lives in comfort. The meaning is that by the favour of the Marut deities many cows are obtained."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 86.3)** *(grammar page, noted briefly; sūtras read in three layers)*
+
+- **वाजिनः** — *vājo 'syāsti iti vājī*; by "अत इनिठनौ" (*ata iniṭhanau*, Pā. Sū. 5-2-115) the affix *ini* in the sense of *matup*; the word *vājin*; nominative plural; by the affix-accent, the *i* is acute.
+- **अतक्षत** — the root *takṣū tvakṣū tanūkaraṇe*; in the present sense, by "छन्दसि लुङ्लङ्लिटः" *laṅ*; by "व्यत्ययो बहुलम्" the second-person plural affix comes for the third-person plural; *śap* as *vikaraṇa*; since *yasya* precedes, by "यद्वृत्तान्नित्यम्" the *nighāta* is barred; since the augment *aṭ* is acute, the first syllable is acute.
+- **गन्ता** — the root *gamḷ gatau*; the affix *tṛn* in the sense of habit; the *m* by *anusvāra* and *parasavarṇa*; the word *gantṛ*; in the nominative singular, by "ऋदुशनस्पुरुदंसोऽनेहसां च" the substitute *anaṅ*; by "अप्तृन्तृच्स्वसृनप्तृनेष्टृत्वष्टृक्षत्तृहोतृपोतृप्रशास्तॄणाम्" the lengthening of the penultimate; by "हल्ङ्याब्भ्यो दीर्घात्सुतिस्यपृक्तं हल्" the elision of *su*; by "नलोपः प्रातिपदिकान्तस्य" the loss of *n*; since it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" the first syllable is acute.
+
+Closing of Rik 86.3: "॥ ३ ॥" (3), followed by a rule.
+
+---
+
+### Page 200 (PDF 215)
+
+*(Running head: "200 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 86".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 86.4)** *(Gāyatrī; Maruts; accents not reproduced)*
+
+> अस्य वीरस्य बर्हिषि सुतः सोमो दिविष्टिषु ।
+> उक्थं मदश्च शस्यते ॥ ४ ॥
+
+*asya vīrasya barhiṣi sutaḥ somo diviṣṭiṣu | uktham madaś ca śasyate ‖ 4 ‖*
+
+*Gloss, mine and tentative:* "For this hero [the Marut host], on the sacred grass, at the sacrifices of the days of heaven, Soma is pressed; praise and exhilaration are recited."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 86.4)**
+
+> अस्य । वीरस्य । बर्हिषि । सुतः । सोमः । दिविष्टिषु ।
+> उक्थम् । मदः । च । शस्यते ॥ ४ ॥
+
+*asya | vīrasya | barhiṣi | sutaḥ | somaḥ | diviṣṭiṣu | uktham | madaḥ | ca | śasyate ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 86.4)**
+
+> दिविष्टिषु यजनीयदिनेषु बर्हिषि यज्ञे वीरस्य शत्रुक्षेपणकुशलस्यास्य मरुद्गणस्य योगाय सोमः सुतः । ऋत्विग्भिरभिषुतो भवति । उक्थं मरुद्देवताकं शस्त्रं मदश्च मदिधातुना युक्ता मरुतो देवाः सोमस्य मत्सन्नित्यादिका मारुती निविच्चास्य मरुद्गणस्य हर्षाय शस्यते । होत्रा पठ्यते ॥ अस्य । ऊडिदमिति विभक्तेरुदात्तत्वम् । दिविष्टिषु । इष्टये एषणानि गमनानि । दिवो द्योतमानस्य सूर्यस्येष्वयो येषु दिनेषु ते तथोक्ताः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । व्यत्ययेनोत्वाभावः ॥
+
+*diviṣṭiṣu yajanīyadineṣu barhiṣi yajñe vīrasya śatrukṣepaṇakuśalasyāsya marudgaṇasya yogāya somaḥ sutaḥ | ṛtvigbhir abhiṣuto bhavati | uktham marud-devatākaṃ śastraṃ madaś ca madidhātunā yuktā maruto devāḥ somasya matsann ity ādikā mārutī nivic cāsya marudgaṇasya harṣāya śasyate | hotrā paṭhyate ‖ asya | ūḍidam iti vibhakter udāttatvam | diviṣṭiṣu | iṣṭaye eṣaṇāni gamanāni | divo dyotamānasya sūryasyeṣṭayo yeṣu dineṣu te tathoktāḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | vyatyayenotvābhāvaḥ ‖*
+
+*(Kannada script; the clause beginning* madidhātunā yuktā *and the last sentence on* vyatyayenotvābhāvaḥ *are read with doubt [?].)*
+
+*Translation:* "On *diviṣṭiṣu* — the days that are fit for sacrifice — at the sacrifice (*barhiṣi*), Soma is pressed for the union (*yogāya*) with this host of Maruts, the hero, skilled in hurling down enemies; it is pressed by the priests. The *uktha* — the recitation (*śastra*) addressed to the Maruts — and *mada*, [the *nivid* hymn of the Maruts beginning] '*maruto devāḥ somasya matsan*', used with the root *mad*, are recited — the *hotṛ* priest reads it — for the delight of this Marut host. *Grammar tail, noted briefly:* *asya* — the case-ending acute by "ūḍidam…"; *diviṣṭiṣu* — *iṣṭi* means going (*eṣaṇa*); 'the days on which the sun that shines in heaven goes' — a *bahuvrīhi* with the first member's accent; the *utva* does not occur, by *vyatyaya*."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 86.4)** *(Kannada)*
+
+*diviṣṭiṣu* — on the days of sacrifice; *barhiṣi* — at the sacrifice; *vīrasya* — of the one possessed of valour; *asya* — this Marut host, for its sake; *somaḥ* — the Soma-juice; *sutaḥ* — is pressed; *uktham* — (addressed to the Marut deities) the praise of the nature of a *śastra*; *śasyate* — is recited; *madaḥ ca* — (their) delight too; *…* [lit.] is increased.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 86.4** *(Kannada)*
+
+"For the sake of this valorous host of Maruts, Soma-juice is pressed at the sacrifice on every day of sacrifice. The praise addressed to the Maruts is recited, and their delight too grows."
+
+---
+
+**Progress note:** Printed pp. 1–200 done (PDF 16–215) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94). **Sūktas 81–85 complete.** **Sūkta 86** (ten Ṛks, Gāyatrī; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, second sūkta; printed pp. 192–214): **Riks 86.1–86.3 complete**; **Rik 86.4** — Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha and Bhāvārtha done (p. 200); next: its English, Special Topics and grammar page (p. 201), then 86.5–86.10. Next: printed p. 201 (PDF 216). The Pīṭhike (PDF 7–11) is not yet translated. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173 [?]; Āśvalāyana numerals on pp. 192–193 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; pp. 128, 131 broken print; 141 cramped last clause; 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200 grammar partly read; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
