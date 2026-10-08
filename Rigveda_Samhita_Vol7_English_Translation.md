@@ -14714,5 +14714,115 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–511 done (PDF 16–526), **except printed p. 413, which is missing from the scan** (PDF 428 carries a second copy of printed p. 513) — see the note at p. 413 in the text; Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni, with the other deities listed in the heading; begins the 15th Anuvāka; printed pp. 509–?): introduction, Anuvāda, heading block, Saṃhitā and Pada of Rik 94.1 and its Sāyaṇa-bhāṣya and Pratipadārtha done (pp. 509–511). Next: printed p. 512 (PDF 527) — Bhāvārtha, English translation and Special Topics of 94.1; then printed p. 513 (PDF 528) is the page that also stands, mis-placed, at PDF 428. Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
+### Page 512 (PDF 527)
+
+*(Running head: left "512", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 15 Sū. 94".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 94.1** *(Kannada)*
+
+"To Agni, who is worthy of worship and possesses knowledge that knows everything: as a chariot-maker fashions a chariot for a king, so we too, with our keen understanding, skilfully fashion this praise in the form of a sūkta. In the worship of this divine Agni our understanding is auspicious. O Agni, because of friendship with you, favour us so that we are not harmed by enemies."
+
+**English Translation** *(printed in English in the source; Rik 94.1)*
+
+"To him who is worthy of praise, and all-knowing, we construct, with our minds, this hymn, as (a workman makes) a car; happy is our understanding when engaged in his adoration ; O Agni, let us not suffer injury through your friendship." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 94.1)** *(Kannada)*
+
+***jātavedase*** — *jātāni veda; jātāni vainaṃ viduḥ; jāte jāte vidyate iti vā; jātavitto vā jātadhanaḥ; jātavidyo vā jātaprajñaḥ* (Ni. 7-19 [?]) | "The author of the Nirukta explains it thus: [Agni is] 'one who knows all that is born'; or 'all that is born knows him'; or 'he is present in everything born'; or 'one who has wealth that is born'; or 'one whose wisdom is born': that is, he who knows all that has arisen; or all that has arisen knows him; or he abides in all that has arisen; or he has all the wealth that has arisen; or he has knowledge of everything. In the *Bṛhaddevatā* too he explains in detail the nature and the places of Jātavedas:"
+
+> इहाग्निर्भूतैस्त्र्वृषिभिर्लोके स्तुतिभिरीळितः ।
+> जातवेदास्तु तोमध्ये स्तुतो वैश्वानरो दिवि ॥
+
+*ihāgnir bhūtais tr ṛṣibhir loke stutibhir īḷitaḥ | jātavedās tu to madhye stuto vaiśvānaro divi ‖*  (Bṛ. De. 1-[?] [?]; the text of the second pāda is garbled in the print and read as given [?])
+
+*Gloss, mine and tentative:* "Here in the world Agni is praised by the seers with hymns; in the middle region Jātavedas; in heaven Vaiśvānara."
+
+"— in this verse the ṛṣis are said to praise the Agni who is on the earth as Agni, the one in the mid-region as Jātavedas, and the one in the heavenly world as Vaiśvānara; and he continues the same idea:"
+
+> वैश्वानरं श्रितो ह्यग्निरग्निं वैश्वानरः श्रितः ।
+> अनयोर्जातवेदास्तु तथ्यैते जातवेदसी ॥
+
+*vaiśvānaraṃ śrito hy agnir agniṃ vaiśvānaraḥ śritaḥ | anayor jātavedās tu tathyaite jātavedasī ‖*  (Bṛ. De. 1-[?] [?]; read as printed, doubtful [?])
+
+"— Agni abides in Vaiśvānara and Vaiśvānara in Agni; Jātavedas is in both of these; and he explains both as the two portions of Jātavedas. Thus, having first told the places of Jātavedas in the first chapter, in the second chapter he gives the explanation of his nature:"
+
+> भूतानि वेद यज्ञातो जातवेदाथ कथ्यते ।
+
+*bhūtāni veda yaj jāto jātavedātha kathyate |*  (Bṛ. De. [?] [?]; read as printed, continued on p. 513)
+
+---
+
+### Page 513 (PDF 528) — *(this page also stands, mis-placed, at PDF 428; see the note at p. 413)*
+
+*(Running head left: "A. 1 A. 6 Va. 30 [?]"; centre: "Ṛgvedasaṃhitā"; right: 513. Foot: printer's signature "33 … Volume 7".)*
+
+> यच्चैष जातविद्योऽभूद्वित्तं जातोऽधिवेति वा ॥
+
+*yac caiṣa jātavidyo 'bhūd vittaṃ jāto 'dhiveti vā ‖*  (Bṛ. De. [?] [?]; as printed)
+
+> विद्यते सर्वभूतैर्हि यद्वा जातः पुनः पुनः ।
+> तेनैष मध्यभागेन्द्रो जातवेदा इति स्तुतः ॥
+
+*vidyate sarvabhūtair hi yad vā jātaḥ punaḥ punaḥ | tenaiṣa madhyabhāgendro jātavedā iti stutaḥ ‖*  (Bṛ. De. [?] [?]; as printed)
+
+*Gloss, mine and tentative:* "…and because he has become knowing of all that is born, or has wealth, or is known [or found] among the born; or because he is known by all beings, or is born again and again — therefore he, the Indra of the middle region, is praised as Jātavedas."
+
+"— in the *Bṛhaddevatā* it is explained that Agni is praised as Jātavedas, like Indra, being a dweller in the middle world: because he knows everything the moment it comes into being, or because knowledge arises in him, or because, the moment he is born, he obtains all wealth, or because he is known by all beings again and again, being born anew each time. *Jātavedase* means: to Agni of such nature."
+
+***imaṃ stomaṃ ratham iva saṃ mahema*** — *yathā takṣā rathaṃ saṃskaroti tathā samyak pūjitaṃ kurmaḥ* | "As a chariot-maker, for the delight of the king, makes a chariot in a way that gives delight to those travelling in it, so we too, with finely wrought speech, a speech that is pleasant to hear, and with a feeling of faith, fashion in a fitting manner these hymns, which bring delight to you, for offering to you: this is the meaning. In many contexts the poetic composition of a hymn is compared to the building of a chariot, to show how much skill is the chief thing in the making of the hymn. Here are some examples —"
+
+> अस्मा इदु स्तोमं सं हिनोमि रथं न तष्टेव तत्सिनाय ।
+
+*asmā id u stomaṃ saṃ hinomi rathaṃ na taṣṭeva tatsināya |*  (Ṛ. Saṃ. 1-61-4 [?]; numerals as read, doubtful)
+
+> वस्त्रेव भद्रा सुकृता वसूयू रथं न धीरः स्वपा अतक्षम् ।
+
+*vastreva bhadrā sukṛtā vasūyū rathaṃ na dhīraḥ svapā atakṣam |*  (Ṛ. Saṃ. 5-[?]-[?] [?])
+
+> एवेन्द्राय वृषभाय वृष्णे ब्रह्माकर्म भृगवो न रथम् ।
+
+*evendrāya vṛṣabhāya vṛṣṇe brahmākarma bhṛgavo na ratham |*  (Ṛ. Saṃ. 4-16-20 [?])
+
+> एतं वां स्तोममश्विनावकर्मातक्षाम भृगवो न रथम् ।
+
+*etaṃ vāṃ stomam aśvināv akarmātakṣāma bhṛgavo na ratham |*  (Ṛ. Saṃ. 10-39-14 [?])
+
+*Gloss, mine and tentative (for the group):* "For him I fashion this hymn, as a carpenter [fashions] a chariot for the hirer. — Like a fair, well-made garment, I, the wise one, skilful, fashioned [the hymn] as a chariot. — So for Indra the bull, the showerer, we have made the prayer, as the Bhṛgus [made] a chariot. — This hymn for you, O Aśvins, we have made, we have fashioned it, as the Bhṛgus a chariot."
+
+"— in such Ṛks, the skill in fashioning a hymn of poetic form and the skill in fashioning a chariot are shown as alike, and the greatness of hymns is praised."
+
+***tava sakhye vayaṃ mā riṣāma*** — "If, having made friendship with Agni, one performs sacrifice with faith, directed to him, then because Agni's help is assured, no enemy can harm him, nor can any harm of another sort occur."
+
+---
+
+### Page 514 (PDF 529)
+
+*(Running head: left "514", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 15 Sū. 94".)*
+
+> न तस्य मायया चन रिपुरीशीत मर्त्यः ।
+> यो अग्नये ददाश हव्यदातिभिः ॥
+
+*na tasya māyayā cana ripur īśīta martyaḥ | yo agnaye dadāśa havyadātibhiḥ ‖*  (Ṛ. Saṃ. 8-[?]-[?] [?]; numerals as read, doubtful)
+
+> मा ते सखायः सदमिद्रिषाम यच्छा तोकाय तनयाय शं योः ।
+
+*mā te sakhāyaḥ sadam id riṣāma yacchā tokāya tanayāya śaṃ yoḥ |*  (Ṛ. Saṃ. 4-[?]-[?] [?]; numerals as read, doubtful)
+
+*Gloss, mine and tentative:* "No mortal foe can prevail, even by guile, over him who has given to Agni with gifts of oblations. — May we, your friends, never be harmed; grant happiness and protection to our sons and grandsons."
+
+"— in such Ṛks, in prayers at all times, the idea is seen that no harm can come to the sacrificer who has obtained Agni's friendship. In this sūkta, down to its end, this same order, like a refrain, is read in each Ṛk as its fourth pāda."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 94.1)** *(Kannada; grammar page, noted briefly)*
+
+*arhate* — root *arha pūjāyām*; by *arhaḥ praśaṃsāyām* (Pā. 3-2-133 [?]), since the sense of praise is chiefly intended, the *śatṛ* for the *laṭ*; *śap* as stem-suffix; the word *arhat*; since *śap* is *pit* it is unaccented; since the *lasārvadhātuka* (*śatṛ*) follows an *udāttopadeśa* root, by *tāsyanudāttetṅ…* (Pā. 6-1-186 [?]) it is unaccented; the accent of the root remains; the dative singular.
+*mahema* — root *maha pūjāyām*; *vidhiliṅ*, first person plural, *mas*; by *nityaṃ ṅitaḥ* the elision of the *s*; the augment *yāsuṭ*; the stem-suffix *śap*; by *ato yeyaḥ* the replacement *iyā*; the elision of *y*; the *nighāta* following a word.
+*sakhye* — "*sakhyur bhāvaḥ sakhyam*"; by *sakhyur yaḥ* (Pā. 5-1-126 [?]) the suffix *ya*; the final-acute by the suffix accent; the locative singular.
+*riṣāma* — root *riṣa hiṃsāyām*; *liṅ* [read: *āśīrliṅ*/*luṅ*, as printed *loṭ* first person]; *mas*; by *vyatyayo bahulam* the stem-suffix *śa*; by *āḍuttamasya pic ca* (Pā. 3-4-92 [?]) the augment *āṭ*; since it follows a word [*mā*], the *nighāta*; by *anyeṣām api dṛśyate* the lengthening in the Saṃhitā.
+*tava* — the word *yuṣmad*; the genitive singular; by *tevamāvekavacane* [as read, *tava mamau ṅasi*] the replacement *tava*; for the *ṅas* ending, *a* [as printed]; the elision of the *s*-ending part; by *yuṣmadasmador ṅasi* (Pā. 6-1-211 [?]) the initial-acute. ‖ 1 ‖
+
+*(printer's ornament)*
+
+---
+
+**Progress note:** Printed pp. 1–514 done (PDF 16–529), **except printed p. 413, which is missing from the scan**. **Printed p. 513 is now translated at its proper place (PDF 528); the stray duplicate at PDF 428 is confirmed as this same page (its contents — Bṛhaddevatā quotations on *jātavedas*, *ratham iva saṃ mahema*, *tava sakhye vayaṃ mā riṣāma* — are those of p. 513 here).** Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–93 complete**. **Sūkta 94** (sixteen Ṛks: 1–14 Jagatī, 15–16 Triṣṭubh; ṛṣi Kutsa Āṅgirasa; Agni; 15th Anuvāka; printed pp. 509–?): Rik 94.1 complete (pp. 509–514); the grammar page of 94.1 ends p. 514 with a printer's ornament; Rik 94.2 begins on p. 515 (not yet viewed). Next: printed p. 515 (PDF 530). Open flags (Sūkta 93, now complete; 93.12 grammar and Special Topics: Pāṇini numerals as read, doubtful [?]): the varga numerals "28, 29" [?]; Ā. 3-8 and Ā. 1-6 [?] (the second sūtra quotes *indrāgnī* for *agnīṣomau* as printed); the introduction's *haviṣām āditas tisra…* clause [?]; the Ṛgveda numerals of every citation on pp. 470–492 (those of pp. 482, 486, 490–491 read from small digits) and Nirukta numerals [?]; the Aitareya Brāhmaṇa, Śatapatha Brāhmaṇa and Taittirīya Saṃhitā references on pp. 491–492 as read, doubtful [?] (the Śatapatha quotation on p. 492 clotted); Tai. Saṃ. 2-5-2-4, Tai. Brā. 3-2-5-1 [?]; the first two citations of p. 477 and the first citation of p. 481 (*naikratūn…*) read with considerable doubt [?]; the bhāṣya of 93.4, 93.5 and 93.6 (in 93.6 *brahmaṇā spṛṣṭvā*, *tasmād dhānyadevatāni*, *tasmād yamam*, clotted [?]); the Pratipadārtha of 93.5 printed with a bracketed duplicate gloss; Skandasvāmin's *syandanāt sindhavo raśmaya…* [?]; the Pada of 93.6 *vavṛdhānā* vs Saṃhitā *vāvṛdhānā* [?]; *hṛñ haraṇe* for *bhṛñ* in the grammar of 93.6 as printed [?]; Pāṇini/Uṇādi numerals on pp. 470–493 given as read, doubtful [?]; the *śṛṇutam* grammar clause on *ṅit* partly read [?]; the *gavām* accent rule as printed [?]; the *abjit pavate* citation blurred [?]; *sapara* as a stem in the grammar of 93.2 [?]; Saṃhitā/Pada differences avātiratam/ava atiratam (93.4). Sūkta 92 (complete): **p. 413 missing from the scan**; **p. 436 poorly scanned** (corrected in a note in the text); the Anukramaṇī line garbled (*dvyanonapasyaṃ*) [?]; deity-list and varga numerals small and doubtful [?]; the Ṛgveda, Nirukta, Pāṇini/Uṇādi/Kāśikā numerals of pp. 406–469 as read, doubtful [?]; clotted bhāṣya clauses in 92.2–92.18; the Tilak, Bloomfield, 'Part [5?], pp. 32–33' and 'Part 4, p. 75' references as printed [?]; Saṃhitā/Pada differences uṣāsaḥ/uṣasaḥ (92.2), viśvedaha/viśvā-it-aha (92.3), āvar/āvaḥ (92.4), pratyarcī/prati arciḥ (92.5), ājīgaḥ/ajīgar iti (92.6), avidan/avidat (92.9), antāṃ/antān (92.11), yukṣvā/yukṣva (92.15), yāv/yau (92.17), eha/ā iha (92.18). "
 "Condensed earlier flags: in every Rik of Sūkta 91 (pp. 325–402) the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Aitareya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized (specific doubts as noted on the pages; Saṃhitā/Pada differences rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21, cikitsā/cikitsa 91.23; *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; *ūḍidaṃ padādi* is 6-1-171, read on p. 369). Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
