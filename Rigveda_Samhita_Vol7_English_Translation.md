@@ -10903,4 +10903,91 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–382 done (PDF 16–397) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.18 complete; Rik 91.19 Saṃhitā at the foot of p. 382 (Pada on p. 383). Next: printed p. 383 (PDF 398). Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.18 the small Kannada reference numerals (Ṛgveda, Taittirīya, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 *paribhūr astu* from an unclear conjunct; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15); the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray "३" on p. 223; "prāvitā 'si" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
+### Page 383 (PDF 398)
+
+*(Running head left: "A. 1 A. 6 Va. 22 [?]"; centre: "Ṛgvedasaṃhitā"; right: 383.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 91.19)**
+
+> या । ते । धामानि । हविषा । यजन्ति । ता । ते । विश्वा । परिऽभूः । अस्तु । यज्ञम् ।
+> गयऽस्फानः । प्रऽतरणः । सुऽवीरः । अवीरऽहा । प्र । चर । सोम । दुर्यान् ॥ १९ ॥
+
+*yā | te | dhāmāni | haviṣā | yajanti | tā | te | viśvā | pari-bhūḥ | astu | yajñam | gaya-sphānaḥ | pra-taraṇaḥ | su-vīraḥ | avīra-hā | pra | cara | soma | duryān ‖ 19 ‖*
+
+(The Pada's *pari-bhūḥ | astu* confirms the Saṃhitā reading *paribhūr astu* that I had marked doubtful on p. 382.)
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 91.19)**
+
+> सोमप्रवहणे या ते धामानीत्येषा । सूत्रितं च । या ते धामानि हविषा यजन्तीमां धियं शिक्षमाणस्य देवेति निहिते परिदध्यात् । आ. ४-४ [?] इति ॥ एकादशिनस्य सौम्यस्य पशोर्हविष एवैव याज्या । प्रदानानामिति खण्डे सूत्रितं । अषाळ्हं युत्सु पृतनासु पप्रिं या ते धामानि हविषा यजन्ति । आ. ३-२ [?] इति ॥
+> हे सोम ते त्वदीयानि या यानि धामानि द्युप्रभृतिष्ववस्थितानि तेजांसि हविषा चरुपुरोडाशादिना यजन्ति यजमानाः पूजयन्ति ता ते विश्वा त्वदीयानि तानि सर्वाणि धामानि यज्ञमस्मदीयमध्वरं परिभूरस्तु । परितो भावयित्र्यणि [?] परितः प्राप्तानि सन्तु । यद्वा । त्वदीयानां तेषां सर्वेषां धाम्नामस्मदीयो यजमानः परिभूर्यज्ञं प्रतिपरिगृहीता यागेन स्वीकर्तास्तु । भवतु । परिपूर्णो भवतीति परिग्रहार्थः । तादृशैर्धामभिरुपेतस्त्वं दुर्यान् प्राचीनवंशादिलक्षणानस्मदीयान्गृहान् । गृहा वै दुर्या इति श्रुतेः । प्र चर । प्रकर्षेण गच्छ । कीदृशस्त्वम् । गयस्फानो गयस्य गृहस्य धनस्य वा वर्धयिता प्रतरणः प्रकर्षेण दुरितात्तारयिता सुवीरः शोभनैर्वीरैः पुरुषैरुपेतः अवीरहा । वीर्यो ज्ञायन्ते [?] इति वीराः पुत्राः । तेषामहन्ता ॥ परिभूः । भू प्राप्तौ । अस्मात्क्विप् [clotted [?]] । व्यत्ययो बहुलं । पा. ३-१-८५ [?] इति लिङ्गवचनव्यत्ययौ । अस्तु । व्यत्ययेनैकवचनं । गयस्फानः । गय इति गृहस्य धनस्य च नामधेयं । तेषां स्फायिता । वर्धयिता । कृत्यल्युटो बहुलमिति कर्तरि ल्युट् छान्दसो यलोपः । अवीरहा । वीराणां हन्ता वीरहा । न वीरहा अवीरहा ॥
+
+*somapravahaṇe yā te dhāmānīty eṣā | sūtritaṃ ca | yā te dhāmāni haviṣā yajantīmāṃ dhiyaṃ śikṣamāṇasya deveti nihite paridadhyāt | Ā. 4-4 [?] iti ‖ ekādaśinasya saumyasya paśor haviṣa evaiva yājyā | pradānānām iti khaṇḍe sūtritaṃ | aṣāḷhaṃ yutsu pṛtanāsu papriṃ yā te dhāmāni haviṣā yajanti | Ā. 3-2 [?] iti ‖ he soma te tvadīyāni yā yāni dhāmāni dyuprabhṛtiṣv avasthitāni tejāṃsi haviṣā carupuroḍāśādinā yajanti yajamānāḥ pūjayanti tā te viśvā tvadīyāni tāni sarvāṇi dhāmāni yajñam asmadīyam adhvaraṃ paribhūr astu | parito bhāvayitryaṇi [?] parituḥ prāptāni santu | yadvā | tvadīyānāṃ teṣāṃ sarveṣāṃ dhāmnām asmadīyo yajamānaḥ paribhūr yajñaṃ pratiparigṛhītā yāgena svīkartāstu | bhavatu | paripūrṇo bhavatīti parigrahārthaḥ | tādṛśair dhāmabhir upetas tvaṃ duryān prācīnavaṃśādilakṣaṇān asmadīyān gṛhān | gṛhā vai duryā iti śruteḥ | pra cara | prakarṣeṇa gaccha | kīdṛśas tvam | gayasphāno gayasya gṛhasya dhanasya vā vardhayitā prataraṇaḥ prakarṣeṇa duritāt tārayitā suvīraḥ śobhanair vīraiḥ puruṣair upetaḥ avīrahā | vīryo jñāyante [?] iti vīrāḥ putrāḥ | teṣām ahantā ‖ paribhūḥ | bhū prāptau | asmāt kvip [clotted [?]] | vyatyayo bahulaṃ | Pā. 3-1-85 [?] iti liṅgavacanavyatyayau | astu | vyatyayenaikavacanaṃ | gayasphānaḥ | gaya iti gṛhasya dhanasya ca nāmadheyaṃ | teṣāṃ sphāyitā | vardhayitā | kṛtyalyuṭo bahulam iti kartari lyuṭ chāndaso yalopaḥ | avīrahā | vīrāṇāṃ hantā vīrahā | na vīrahā avīrahā ‖*
+
+*Translation:* "In the *somapravahaṇa*, this is the Ṛk *yā te dhāmāni*; prescribed: '*yā te dhāmāni haviṣā yajantīmāṃ dhiyaṃ śikṣamāṇasya deveti nihite paridadhyāt*' (Ā. 4-4 [?]). It is also the *yājyā* for the oblation of the animal of the Saumya of the *ekādaśin*; prescribed in the section *pradānānām*: '*aṣāḷhaṃ yutsu pṛtanāsu papriṃ yā te dhāmāni haviṣā yajanti*' (Ā. 3-2 [?]). — O Soma, whichever of your *dhāmāni*, lustres, that are established in heaven and elsewhere, the sacrificers *yajanti*, worship with oblations such as the *caru* and the *puroḍāśa*: may all those lustres of yours *paribhūḥ astu*, surround and fill our sacrifice, the *adhvara* [the *parito bhāvayitryaṇi* clause is clotted [?]]. Or: may our sacrificer be the *paribhūḥ* of all those lustres of yours, the one who receives and accepts, by sacrifice, the sacrifice — 'paripūrṇo bhavati': the meaning is 'accepting'. Endowed with such lustres, *pra cara*, go forth to *duryān*, our houses marked by the eastern hall and the like — 'houses are indeed *duryāḥ*', says the śruti. How are you? *Gayasphānaḥ* — the augmenter of house, of wealth; *prataraṇaḥ* — the one who carries over from sin; *suvīraḥ* — endowed with excellent heroes, men; *avīrahā* — *vīrāḥ* are sons; the non-killer of them."
+
+*Grammar tail (partly clotted):* *paribhūḥ* — the root *bhū prāptau*; the suffix *kvip*; by *vyatyayo bahulam* (Pā. 3-1-85 [?]) a change of number and gender [the verb *astu* taking the singular for a plural subject]. *gayasphānaḥ* — *gaya* is a name of the house and of wealth; the augmenter of them; the *lyuṭ* in the agent sense by *kṛtyalyuṭo bahulam*, with the Vedic loss of *y*. *avīrahā* — *vīrāṇāṃ hantā vīrahā*; *na vīrahā avīrahā*.
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.19)** *(Kannada; begins at the foot of p. 383)*
+
+*Soma* — O Soma-deity; *te* — your; *yā dhāmāni* — (spread over the heavenly world and the others) whichever lustres; *haviṣā* — with the *caru*, *puroḍāśa* and the like; *yajanti* — (sacrificers) worship —
+
+---
+
+### Page 384 (PDF 399)
+
+*(Running head: left "384", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+*(the Pratipadārtha continues:)* "— the *yā*: whichever; *tā te viśvā* — all those lustres; *yajñam* — our sacrifice; *paribhūḥ astu* — may they surround and fill; *gayasphānaḥ* — the augmenter of house or of wealth; *prataraṇaḥ* — the one who carries over fully; *suvīraḥ* — one together with excellent heroes; *avīrahā* — you, the non-killer of our heroic sons (you being endowed with such lustres); *duryān* — our (ancient) houses; *pra cara* — come exceedingly and reach."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.19** *(Kannada)*
+
+"O Soma-deity, whichever of your lustres that are spread over the heavenly world and the rest, which the sacrificers worship with *caru*, *puroḍāśa* and the like — may all those lustres surround and fill our sacrifice. You, the augmenter of our wealth, who carry us across sin and difficulty, who are together with excellent heroes, and the non-killer of our heroic sons: come, with all those lustres of yours, to these our ancient houses."
+
+**English Translation** *(printed in English in the source; Rik 91.19)*
+
+"Whichever of your glories, men worship with oblations, may our sacrifice be invested with them all ; Soma, come to our houses, you are the bestower of wealth, the transporter of difficulties ; you are attended by valiant heroes, the non-destroyer of progeny." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.19)** *(Kannada)*
+
+"In the rite called *Somapravahaṇa*, this Ṛk, *yā te dhāmāni*, is to be used; so it is explained by the Āśvalāyana Śrauta-sūtra in the sūtra '*yā te dhāmāni haviṣā yajantīmāṃ dhiyaṃ śikṣamāṇasya deveti nihite paridadhyāt*' (Ā. 4-4 [?]). In the sacrifice called *ekādaśin*, in the animal offering for the Soma deity, this Ṛk is to be used as the *yājyā* mantra; the Āśvalāyana Śrauta-sūtra, in the section *pradānānām*, shows it by the sūtra '*aṣāḷhaṃ yutsu pṛtanāsu papriṃ yā te dhāmāni haviṣā yajanti*' (Ā. 3-2 [?])."
+
+***dhāmāni*** — "The word *dhāman* has such meanings as place, name, birth, lustre. Their explanation has been learned in detail in the commentary on Ṛ. Saṃ. 1-[?]-[?] [?]."
+
+***paribhūḥ astu*** — "'May [they] surround and fill': that is, may all your powers surround and fill our sacrificial ground — this is the sense. *paribhūḥ* has this one meaning —
+
+---
+
+### Page 385 (PDF 400)
+
+*(Running head left: "A. 1 A. 6 Va. 22 [?]"; centre: "Ṛgvedasaṃhitā"; right: 385. Foot: printer's signature "25 … Volume 7".)*
+
+"— 'complete': by the rule '*paripūrṇo bhavati; sarvatra parigrahārthe*' [as read [?]], let it be accepted accordingly: that is, 'you come with all your powers and accept this sacrifice of ours' is the idea. '*yāni tava yaṣṭṛṇi dhāmāni taiḥ sarvair imaṃ yajñaṃ parigṛhāṇe ty arthaḥ*' (Ska. Bhā.) [as read]. Besides this, Sāyaṇa, keeping the sense *parigraha*, makes another construction: '*sarveṣāṃ dhāmnāṃ yajamānaḥ svīkartā astu*' — that is, he explains that the sacrificer may be the receiver of all those powers of yours. For a detailed discussion of this word see Ṛg. Saṃ. Part 1, pp. 633–634 [as printed]."
+
+***gayasphānaḥ*** — "The augmenter of house or of wealth; the commentary on this word was learned in detail in the commentary on Ṛ. Saṃ. 1-[?]-[?] [?]."
+
+***prataraṇaḥ*** — *prakarṣeṇa duritāt tārayitā* | "Sāyaṇa gives the sense 'one who carries over fully from sin'. Skandasvāmin explains '*tiratir atra vṛddhyarthaḥ* | *vardhayitā ca sarvārthānām*' — 'the root *tṝ* here has the sense of growth: and the one who causes all desired things to grow'. This meaning is the more acceptable, because in other places too, when the preverb *pra* is joined to the root *tṝ*, the sense 'make [it] grow' is generally seen. For example —"
+
+> सोम राजन्प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ।
+
+*soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi |*  (Ṛ. Saṃ. 8-48-2 [?]; the same Ṛk as cited on pp. 337 and 349 — the three numerals read differently [?])
+
+> क्रत्वे दक्षाय नो हि नु प्र ण [?] आयूंषि तारिषः ।
+
+*kratve dakṣāya no hi nu pra ṇa [?] āyūṃṣi tāriṣaḥ |*  (Vā. Saṃ. 34-8 [?]; the Saṃhitā text as read, doubtful [?])
+
+*Gloss, mine and tentative (for both):* "Extend our lives, as the sun extends the days; … for strength and skill [extend] our lives."
+
+"— in such places everywhere, *pravardhaya* — 'cause to grow' — is the meaning (Ni. 11-10 [?])."
+
+***duryān*** — "*gayaḥ, kṛvaram, gartaḥ* [read *gayaḥ, kṛdaraḥ, gartaḥ*] and so on being read among the names of houses (Ni. 3-13 [?] — the numeral read as "३-१३", whereas the same list was given on p. 365 as "३-४" [?]), this word means 'houses'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.19)** *(Kannada; grammar page, noted briefly)*
+
+*yajanti* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *laṭ*, third person plural; since *yā* precedes and is related, by *yadvṛttān nityam* (Pā. 8-1-66 [?]) the *nighāta* is prohibited; by the accent of the root, the initial-acute.
+*tā* — the word *tad*; in the neuter plural, by *śeś chandasi bahulam* the *śi* is elided; so also *viśvā*.
+
+---
+
+**Progress note:** Printed pp. 1–385 done (PDF 16–400) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.18 complete; Rik 91.19 done through the Special Topics and the first two entries of its Vyākaraṇa-prakriyā (*yajanti*, *tā*); the grammar page continues on p. 386. Next: printed p. 386 (PDF 401). "
+"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.19 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19: *parito bhāvayitryaṇi*, *vīryo jñāyante*, *asmāt kvip* clotted in the bhāṣya; the *aṣāḷhaṃ* of p. 383 (read *uṣāḷhaṃ* on p. 339 from a different print) — the standard form is not asserted; the *kratve dakṣāya…* citation's text and numeral; Nirukta numeral for house-names read 3-4 (p. 365) and 3-13 (p. 385); the reference to 'Ṛg. Saṃ. Part 1, pp. 633–634' is as printed; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15); the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+"Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
