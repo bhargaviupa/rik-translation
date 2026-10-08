@@ -7871,4 +7871,85 @@ Closing of Rik 89.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–284 done (PDF 16–299) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.5 complete**; **Rik 89.6** (Virāṭsthānā) — first line of the Saṃhitā done at the foot of p. 284; the rest of it on p. 285, then 89.6's remaining parts and 89.7–89.10. Next: printed p. 285 (PDF 300). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 285 (PDF 300)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 285.)*
+
+*Rik 89.6, continued from p. 284 (the Saṃhitā in full):*
+
+> स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+> स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥ ६ ॥
+
+*svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ | svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu ‖ 6 ‖*
+
+*Gloss, mine and tentative:* "May Indra, of far-heard fame, give us welfare; may Pūṣan, who knows all things, give us welfare; may Tārkṣya of unharmed felly give us welfare; may Bṛhaspati grant us welfare."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 89.6)**
+
+> स्वस्ति । नः । इन्द्रः । वृद्धऽश्रवाः । स्वस्ति । नः । पूषा । विश्वऽवेदाः ।
+> स्वस्ति । नः । तार्क्ष्यः । अरिष्टऽनेमिः । स्वस्ति । नः । बृहस्पतिः । दधातु ॥ ६ ॥
+
+*svasti | naḥ | indraḥ | vṛddha-śravāḥ | svasti | naḥ | pūṣā | viśva-vedāḥ | svasti | naḥ | tārkṣyaḥ | ariṣṭa-nemiḥ | svasti | naḥ | bṛhaspatiḥ | dadhātu ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 89.6)**
+
+> वृद्धश्रवा वृद्धं प्रभूतं श्रवः श्रवणं स्तोत्रं हविर्लक्षणमन्नं वा यस्य ताद्दृश इन्द्रो नोऽस्माकं । स्वस्तीत्यविनाशनाम । नि. ३-२१ [?] । स्वस्त्यविनाशं दधातु । विदधातु । करोतु । विश्ववेदाः । विश्वानि वेत्तीति विश्ववेदाः । यद्वा । विश्वानि सर्वाणि वेदांसि ज्ञानानि धनानि वा यस्य ताद्दृशः पूषा पोषको देवो नोऽस्माकं स्वस्ति विदधातु । अरिष्टनेमिः । नेमिरित्यायुधनाम । अरिष्टो ऽहिंसितो नेमिर्यस्य । यद्वा । रथचक्रस्य धारा नेमिः । यत्सम्बन्धिनो रथस्य नेमिर्न हिंस्यते सो ऽरिष्टनेमिः । एवंभूतस्तार्क्ष्यस्तृक्षस्य पुत्रो गरुत्मान्नोऽस्माकं स्वस्त्यविनाशं विदधातु । तथा बृहस्पतिर्बृहतां देवानां पालयिता नोऽस्माकं स्वस्त्यविनाशं विदधातु ॥ वृद्धश्रवाः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । विश्ववेदाः । विद ज्ञाने । विद्ऌ लाभे । आभ्यामसुन्नुत्पत्त्ययान्तो वेदस्शब्दः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वम् । तार्क्ष्यः । तृक्षस्यापत्यं । गर्गादिभ्यो यञ् । पा. ४-१-१०५ [?] । ञित्त्वादाद्युदात्तत्वं । अरिष्टनेमिः । न रिष्ट्वारिष्टा । अव्ययपूर्वपदप्रकृतिस्वरत्वं । अरिष्टा नेमिर्यस्य स तथोक्तः । बृहस्पतिः । तद्बृहतोः करपत्योश्चोरदेवतयोः । पा. ६-१-१५७ [?] इति सुट् तलोपौ । उभे वनस्पत्यादिषु इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं ॥
+
+*vṛddhaśravā vṛddhaṃ prabhūtaṃ śravaḥ śravaṇaṃ stotraṃ havirlakṣaṇam annaṃ vā yasya tādṛśa indro no 'smākaṃ | svastīty avināśanāma | Ni. 3-21 [?] | svasty avināśaṃ dadhātu | vidadhātu | karotu | viśvavedāḥ | viśvāni vettīti viśvavedāḥ | yadvā | viśvāni sarvāṇi vedāṃsi jñānāni dhanāni vā yasya tādṛśaḥ pūṣā poṣako devo no 'smākaṃ svasti vidadhātu | ariṣṭanemiḥ | nemir ity āyudhanāma | ariṣṭo 'hiṃsito nemir yasya | yadvā | rathacakrasya dhārā nemiḥ | yatsambandhino rathasya nemir na hiṃsyate so 'riṣṭanemiḥ | evaṃbhūtas tārkṣyas tṛkṣasya putro garutmān no 'smākaṃ svasty avināśaṃ vidadhātu | tathā bṛhaspatir bṛhatāṃ devānāṃ pālayitā no 'smākaṃ svasty avināśaṃ vidadhātu ‖ vṛddhaśravāḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | viśvavedāḥ | vida jñāne | vidḷ lābhe | ābhyām asun-nutpattyayānto vedasśabdaḥ | bahuvrīhau viśvaṃ saṃjñāyām iti pūrvapadāntodāttatvam | tārkṣyaḥ | tṛkṣasyāpatyaṃ | gargādibhyo yañ | Pā. 4-1-105 [?] | ñittvād ādyudāttatvaṃ | ariṣṭanemiḥ | na riṣṭvāriṣṭā | avyayapūrvapadaprakṛtisvaratvaṃ | ariṣṭā nemir yasya sa tathoktaḥ | bṛhaspatiḥ | tadbṛhatoḥ karapatyoś coradevatayoḥ | Pā. 6-1-157 [?] iti suṭ talopau | ubhe vanaspatyādiṣu iti pūrvottarapadayor yugapat prakṛtisvaratvaṃ ‖*
+
+*(Kannada script; "asun-nutpattyayānto" and the sūtra numbers are cramped and read with doubt [?].)*
+
+*Translation:* "*Vṛddhaśravāḥ* — one whose *śravas* — hearing, praise, or food in the form of oblation — is abundant: such an Indra, for us; *svasti* is a name for 'non-destruction' (Ni. [3-21] [?]): may he grant (*dadhātu*, *vidadhātu*) welfare. *Viśvavedāḥ* — he who knows all things; or whose *vedas* — knowledge, wealth — are all: such Pūṣan, the nourishing god, may grant us welfare. *Ariṣṭanemiḥ* — *nemi* is a name of weapon; he whose *nemi* is unharmed; or *nemi* is the rim of a chariot wheel — he whose chariot's rim is not injured: such Tārkṣya, son of Tṛkṣa, Garutmān, may grant us welfare. Likewise Bṛhaspati, the guardian of the great gods, may grant us welfare. *Grammar tail, noted briefly:* *vṛddhaśravāḥ* — *bahuvrīhi*, first member keeps its accent; *viśvavedāḥ* — *vedas* from *vid* with *asun*; *tārkṣyaḥ* — *yañ* after *tṛkṣa* in the *gargādi* group (Pā. 4-1-[105] [?]); *bṛhaspatiḥ* — *suṭ* and loss of *t* by 'tadbṛhatoḥ karapatyoḥ…' (Pā. 6-1-[157] [?]); both members keep their accent by 'ubhe vanaspatyādiṣu'."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 89.6)** *(Kannada; runs on to p. 286)*
+
+*vṛddhaśravāḥ* — endowed with abundant praise, or with food in the form of oblation; *indraḥ* — Indra; *naḥ* — to us; *svasti* — imperishable welfare; *dadhātu* — let him make; *viśvavedāḥ* — knowing all, or possessing all knowledge; *pūṣā* — Pūṣan; *naḥ* — to us; *svasti* — welfare (make); *ariṣṭanemiḥ* — with unbent weapons, or with a chariot wheel that is not broken; *tārkṣyaḥ* — Tārkṣya (Garutmān)…
+
+---
+
+### Page 286 (PDF 301)
+
+*(Running head: "286 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 89".)*
+
+*Pratipadārtha of Rik 89.6, concluded:* "…*naḥ* — to us; *svasti* — welfare (make); *bṛhaspatiḥ* — Bṛhaspati, the protector of the gods; *naḥ* — to us; *svasti* — let him make welfare."
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 89.6** *(Kannada)*
+
+"May Indra, who has abundant food in the form of oblation, Pūṣan, who has the power of knowing all, Garutmān with his unbent weapons, and Bṛhaspati, the protector of the gods, make for us imperishable welfare."
+
+**English Translation** *(printed in English in the source)*
+
+"May Indra, who listens to much praise guard our welfare; may Pushan who knows all things guard our welfare; may Tarkshya with uninjured fellies, and Brihaspati the protector of gods (lord of prayer) guard our welfare." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 89.6)**
+
+- **वृद्धश्रवाः** — *vṛddhaṃ prabhūtaṃ śravaḥ śravaṇaṃ stotraṃ havirlakṣaṇam annaṃ vā yasya* — "one who listens to the many stotras we make, or accepts the food in the form of oblation that we offer."
+- **विश्ववेदाः** — *viśvāni vetti iti viśvavedāḥ* — "one who knows everything."
+- **पूषा** — "the deity Pūṣan is the deity who shows the way. In many Ṛks Pūṣan is prayed to, to show the right path to those who pray. Since *pūṣan* is among the names of the twelve Ādityas, it means the sun too."
+- **तार्क्ष्यः** — "son of Tṛkṣa; the bhāṣyakāra gives the meaning *garutmān* — Garuḍa. This word too points to the Āditya. Some say *tṛkṣa* is Kaśyapa; since he is his son the Āditya is called Tārkṣya. Some think that this is a 'horse of the world of the gods' and that the sun himself is praised in this form. Some say he is the son of a Tṛkṣi, a descendant of Trasadasyu. In the *khila* mantras too (Ṛ. Saṃ. [?]; Āśvalāyana Śrauta-sūtra [?]) the word *tārkṣya* is meant to indicate a bird or a special kind of bird; the sense of the word is doubtful. Sūkta 10-[178] of the Ṛg. Saṃ. is addressed to Tārkṣya." *(numerals read with doubt [?])*
+- **अरिष्टनेमिः** — *rathacakrasya dhārā nemiḥ | ariṣṭo 'hiṃsito nemir yasya | yatsambandhino rathasya nemir na hiṃsyate so 'riṣṭanemiḥ* — "'*nemi*' is the wheel of a chariot: he whose wheel-rim is not injured, that is, one whose chariot wheels are free from obstruction, unimpeded in motion. Skandasvāmin gives the meaning 'thunderbolt-weapon' for the word *nemi*. *Ariṣṭanemi* may also be the name of a sage, a son of Tṛkṣa (Ṛ. Saṃ. 10-[178] [?])." *(the entry continues on p. 287)*
+
+---
+
+### Page 287 (PDF 302)
+
+*(Running head left: "A. 1 A. 6 Va. 15 [?]"; centre: "Ṛgvedasaṃhitā"; right: 287.)*
+
+*Special Topics of Rik 89.6, concluded from p. 286:*
+
+- **बृहस्पतिः** — "the deity who is lord of the stotras, or the protector of the gods."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 89.6)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **वृद्धश्रवाः** — *vṛddhaṃ śravo yasya sa vṛddhaśravāḥ*; in the *bahuvrīhi*, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member's base accent, the accent of the compound being set aside.
+- **विश्ववेदाः** — the root *vida jñāne*, or *vidḷ lābhe*; by "सर्वधातुभ्योऽसुन्" the affix *asun*; by "पुगन्तलघूपधस्य च" the *guṇa* of the *laghūpadha* because of this affix; the word *vedas*; *viśvāni sarvāṇi vedāṃsi jñānāni yasya saḥ viśvavedāḥ*, a *bahuvrīhi*; by "विश्वं संज्ञायाम्" (Pā. Sū. 6-2-[106]) since the word has the status of a name of a deity, the final syllable of the first member is acute.
+- **तार्क्ष्यः** — *tṛkṣasya apatyam tārkṣyaḥ*; by "गर्गादिभ्यो यञ्" (Pā. Sū. 4-1-[105]) since it is read in the *gargādi* group, the affix *yañ* in the sense of descendant (son); since it is *ñit*, by "तद्धितेष्वचामादेः" the *vṛddhi* of the first vowel; by "उरण् रपरः" with *r*; by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+- **अरिष्टनेमिः** — *na riṣṭāḥ ariṣṭāḥ*; a *nañ*-*tatpuruṣa*; by "तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-[2]) the first member, an indeclinable, keeps its base accent; *ariṣṭā nemir yasya saḥ ariṣṭanemiḥ*, a *bahuvrīhi*; by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" the first member's base accent.
+- **बृहस्पतिः** — *bṛhatāṃ patiḥ*; by "तद्बृहतोः करपत्योश्चोरदेवतयोः" (Pā. Sū. 6-1-[157]) the augment *suṭ* and, in the words *bṛhat* and *pati*, the loss of *t* [*bṛhaspati*, with the *t* of *bṛhat* lost and the *s* inserted] in the sense of 'thief' and 'deity' respectively; by "उभे वनस्पत्यादिषु युगपत्" (Pā. Sū. 6-2-[140]) the compound-accent is set aside and both members, former and latter, keep their base accent at once.
+- **दधातु** — the root *dudhāñ dhāraṇapoṣaṇayoḥ*, Juhotyādi; *loṭ* in the sense of prayer; by "एरुः" the substitute *tu* for *ti*; by *śnu*-*ślu* the root is reduplicated; the reduplicate shortened; *jaś*; the *nighāta* of the *tiṅanta*.
+
+Closing of Rik 89.6: "॥ ६ ॥" (6), followed by a printer's ornament.
+
+---
+
+**Progress note:** Printed pp. 1–287 done (PDF 16–302) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–88 complete.** **Sūkta 89** (ten Ṛks; Viśvedevas; ṛṣi Gotama Rāhūgaṇa; printed pp. 264–302): **Riks 89.1–89.6 complete**; next: **Rik 89.7** (Jagatī) at printed p. 288 (PDF 303), then 89.8–89.10 (Triṣṭubh; the tenth is *aditir dyaur…*). The user has asked for the next two sūktas (89 and 90) in this stretch. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; the Nirukta and Taittirīya numerals on pp. 273–276, 283, 285–286 [?]; list of Viśvedeva sūktas on p. 268 in small Kannada numerals, not verified [?]; Āśvalāyana and Aitareya numerals on pp. 264–265 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1, 88.4; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya; p. 249 note; p. 252 grammar tail clotted; p. 261 *sasvaḥ* grammar doubtful; p. 264 introduction compressed; pp. 267, 270, 273–274 and 282 tails clotted (p. 282 tail partly omitted); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248, 252, 255, 259, 262, 267, 270, 273, 282: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
