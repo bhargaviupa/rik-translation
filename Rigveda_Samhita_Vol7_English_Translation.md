@@ -11213,6 +11213,114 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–394 done (PDF 16–409) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.21 complete; Rik 91.22 Saṃhitā, Pada and the first lines of the Sāyaṇa-bhāṣya done at the foot of p. 394 (the bhāṣya stops after "…*vṛṣṭyudakāny ajanayaḥ*"). Next: printed p. 395 (PDF 410) — continue the bhāṣya of 91.22 from "*tathā tvaṃ gāḥ…*". "
-"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.22 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21: the bhāṣya's *āpsām apsyātakaṃ* and the first derivation of *apsām* (print 'apsvabjo…') clotted, the root of *papriṃ* (*pyā/pṛ*) unclear, *aṣāḷham* explained as 'apratipatita' [?], *ur at* in the grammar page [?], the *papriḥ randhasaḥ* reference numerals, Pāṇini numerals 6-3-113, 6-3-112, 3-2-171, 6-1-197, 3-2-67, 6-4-41, 6-3-14, 3-3-174, 3-4-99, 7-2-80, 6-1-66 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
+### Page 395 (PDF 410)
+
+*(Running head left: "A. 1 A. 6 Va. 23 [?]"; centre: "Ṛgvedasaṃhitā"; right: 395.)*
+
+*Sāyaṇa-bhāṣya of Rik 91.22, continued from p. 394:*
+
+> तथा त्वं गाः सर्वान्पशून् [clotted [?]] अजनयः । उरु विस्तीर्णमन्तरिक्षं त्वमा ततन्थ । विस्तारितवानसि । तस्मिन्नन्तरिक्षे यत्र योऽस्मद्दृष्टिनिरोधकमन्धकारं [reading doubtful [?]] तदपि त्वं ज्योतिष्मात्मीयेन [clotted; sense 'with your own light' [?]] प्रकाशेन वि ववर्थ । विवृतं विक्लिष्टं विनष्टं कृतवानसि ॥ ततन्थ । तनु विस्तारे । ववर्थ । वृञ् वरणे । उभयत्र लिटस्थलि बभूथाततन्थजगृम्भववर्थेति निगमे । पा. सू. ७-२-६४ [?] इति निपातितौ ॥
+
+*tathā tvaṃ gāḥ sarvān paśūn [clotted [?]] ajanayaḥ | uru vistīrṇam antarikṣaṃ tvam ā tatantha | vistāritavān asi | tasminn antarikṣe yatra yo 'smaddṛṣṭinirodhakam andhakāraṃ [reading doubtful [?]] tadapi tvaṃ jyotiṣmātmīyena [clotted [?]] prakāśena vi vavartha | vivṛtaṃ viklaṣṭaṃ vinaṣṭaṃ kṛtavān asi ‖ tatantha | tanu vistāre | vavartha | vṛñ varaṇe | ubhayatra liṭasthali babhūthātatanthajagṛmbhavavartheti nigame | Pā. Sū. 7-2-64 [?] iti nipātitau ‖*
+
+*Translation:* "And you created the cows, all the beasts. You *ā tatantha* — spread — the *uru*, wide *antarikṣam*, the mid-region. In that mid-region, wherever there is darkness that obstructs our sight, you *vi vavartha*, laid it open, with your own light [the print's phrase is clotted [?]], made it opened out, dispersed, destroyed. *Tatantha* — root *tanu vistāre*; *vavartha* — root *vṛñ varaṇe*: in both, in the *liṭ* with *thal*, by *babhūthātatanthajagṛmbhavavartheti nigame* (Pā. 7-2-64 [?]) the forms are irregularly set."
+
+**॥ प्रतिपदार्थ ॥ — Pratipadārtha (Rik 91.22)** *(Kannada)*
+
+*Soma* — O Soma-deity; *tvam* — you; *imāḥ viśvāḥ oṣadhīḥ* — (on the earth) all these plants; *ajanayaḥ* — have created; *tvam* — you; *apaḥ* — (for their growth) the waters; (have created); *tvam* — you; *gāḥ* — all the cattle (created); *uru* — wide; *antarikṣam* — the mid-region; *tvam* — you; *ā tatantha* — (further) have made to spread; *tamaḥ* — darkness; *tvam* — you; *jyotiṣā* — (by your) light; *vi vavartha* — have driven far away and destroyed.
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 91.22** *(Kannada)*
+
+"O Soma-deity, you have created all these plants on the earth; you have created the waters needed for their growth. You have created the cattle. You have made the wide mid-region spread further. With your own light you have destroyed all the darkness that is in the mid-region and the other worlds."
+
+**English Translation** *(printed in English in the source; Rik 91.22)*
+
+"O Soma, you have created these herbs, the water and the cows ; you have spread out the spacious firmament ; you have dispelled the darkness with your light." — as printed.
+
+**॥ विशेषविषयगळु ॥ — Special Topics (Rik 91.22)** *(Kannada)*
+
+***oṣadhīḥ*** — *oṣadhayaḥ oṣaddhayantīti vā | oṣat enā dhayantīti vā | doṣaṃ dhayantīti vā* (Ni. 9-27 [?]) | "The author of the Nirukta gives three kinds of derivation. First: the root *uṣ* (*oṣ*), which gives the sense 'to burn', together with *dhe* (*ṭ*) *pāne* ('to drink') — *oṣadhi* means one that 'drinks' [that is, removes] the burning diseases in the body; or, when there is the burning of a disease, living beings drink them (*oṣat enā dhayanti*). Also: *doṣaṃ dhayantīti vā* — they 'drink' the faults, wind (*vāta*) and the like; therefore they are called *oṣadhayaḥ*."
+
+---
+
+### Page 396 (PDF 411)
+
+*(Running head: left "396", centre "Sāyaṇabhāṣyasahitā", right "Ma. 1 A. 14 Sū. 91".)*
+
+"In the 97th sūkta of the tenth maṇḍala of the Ṛksaṃhitā the origin, nature and use of the *oṣadhis* are all described, and the mutual relation between Soma and the *oṣadhis* is chiefly set forth. As the 18th and 19th Ṛks there ('*yā oṣadhīḥ somarājñīḥ*', Ṛ. Saṃ. 10-97-18 [?]) say, Soma is the *rājā*, the lord, of all the *oṣadhis*. Since Soma is the cause of the growth of all *oṣadhis*, wherever the word *oṣadhi* is used, the sense of Soma, its cause, is also present. For example —"
+
+> सोमं मन्यते पपिवान्यत्संपिंषन्त्योषधिम् ।
+
+*somaṃ manyate papivān yat saṃpiṃṣanty oṣadhim |*  (Ṛ. Saṃ. 10-85-3 [?])
+
+*Gloss, mine and tentative:* "He who has drunk thinks he has drunk Soma, when they crush the plant [*oṣadhi*]."
+
+"— in such Ṛks the close mutual relation between the *oṣadhi* and Soma is indicated. Soma is the cause of the growth of all grain and *oṣadhis*. And just as he creates the *rasa* in the *oṣadhis*, so too he fills the cows with milk: this too is said in Ṛ. Saṃ. 6-4[4]-2[4] [?]."
+
+***tvam apaḥ ajanayaḥ*** — "Addressing Soma as slayer of Vṛtra, it is described that he, breaking through the flowing waters, hindering the clouds, destroyed Vṛtra, who prevents the rain from falling, and caused the waters of rain to flow. The meaning is that he caused to flow the waters needed for the growth of the *oṣadhis*."
+
+> पवस्व वृत्रहन्तमोक्थेभिरनुमाद्यः ।
+
+*pavasva vṛtrahantamokthebhir anumādyaḥ |*  (Ṛ. Saṃ. 9-24-6 [?])
+
+> सं देवैः शोभते वृषा कविर्योनावधि प्रियः ।
+> वृत्रहा देववीतमः ॥
+
+*saṃ devaiḥ śobhate vṛṣā kavir yonāv adhi priyaḥ | vṛtrahā devavītamaḥ ‖*  (Ṛ. Saṃ. 9-33-2 [?])
+
+*Gloss, mine and tentative (both):* "Flow clear, most Vṛtra-slaying one, to be gladdened by hymns. — The bull, the poet, dear, in his seat shines with the gods; the Vṛtra-slayer, most inviting the gods."
+
+"— in such Ṛks Soma is described as the slayer of Vṛtra. In such places the word *vṛtra* is generally to be taken in the sense of 'cloud' (Ni. 2-16 [?])."
+
+***uru antarikṣam ātatantha*** — "'You made the mid-region spread widely': this is the meaning. In the Ṛksaṃhitā —"
+
+> अयं पीयूषं तिसृषु प्रवत्सु सोमो दाधारोर्वन्तरिक्षम् ।
+
+*ayaṃ pīyūṣaṃ tisṛṣu pravatsu somo dādhārorv antarikṣam |*  (Ṛ. Saṃ. 6-42-4 [?]; the numerals as read, doubtful)
+
+> अयं द्यावापृथिवी वि ष्कभायदयं रथमयुनक्सप्तरश्मिम् ।
+> अयं गोषु शच्या पक्वमन्तः सोमो दाधार दशयन्त्रमुत्सम् ॥
+
+*ayaṃ dyāvāpṛthivī vi ṣkabhāyad ayaṃ rathaṃ ayunak saptaraśmim | ayaṃ goṣu śacyā pakvam antaḥ somo dādhāra daśayantram utsam ‖*  (Ṛ. Saṃ. 6-44-24 [?])
+
+*Gloss, mine and tentative:* "This Soma holds the colostrum [or nectar] in the three high [places], the wide mid-region; this one propped apart heaven and earth, yoked the seven-reined chariot; this one, by his power, holds within the cows the ripened [milk], the spring with ten channels."
+
+---
+
+### Page 397 (PDF 412)
+
+*(Running head left: "A. 1 A. 6 Va. 23 [?]"; centre: "Ṛgvedasaṃhitā"; right: 397.)*
+
+"— in Ṛks such as these there is a description that Soma lifted up and held all the worlds, beginning with the mid-region, and made them all spread widely. That very point is spoken of here too."
+
+***tamaḥ (vi) vavartha*** — "'You destroyed the darkness': this is the meaning. Of Soma who destroyed the darkness of the mid-region and brought in light, there are many śruti-sentences:"
+
+> पवमान ऋतं बृहच्छुक्रं ज्योतिरजीजनत् ।
+> कृष्णा तमांसि जङ्घनत् ॥
+
+*pavamāna ṛtaṃ bṛhac chukraṃ jyotir ajījanat | kṛṣṇā tamāṃsi jaṅghanat ‖*  (Ṛ. Saṃ. 9-66-24 [?])
+
+*Gloss, mine and tentative:* "The purifying one produced the great, bright light of Ṛta, smiting the black darkness."
+
+"— Ṛks such as this support the matter."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 91.22)** *(Kannada; grammar page, noted briefly)*
+
+*apaḥ* — the word *ap*; the accusative plural; by *ūḍidaṃ padādi* (Pā. 6-1-171) the case-ending takes the acute.
+*ajanayaḥ* — root *janī prādurbhāve*; since there is the action of an instigator (causative), by *hetumati ca* (Pā. 3-1-26 [?]) the suffix *ṇic*; by *janījṛṣknasurañjo 'mantāś ca* [print: "*janījṛṣ…*", the gaṇa-sūtra as printed partly read [?]] the root has the name *mit*; by *mitāṃ hrasvaḥ* (Pā. 6-4-92 [?]) the lengthening caused by *ṇic* is shortened; *laṅ*, second person singular; the *nighāta* of a finite verb.
+*tatantha* — root *tanu vistāre*; *liṭ*, second person singular, with the replacement *thal*; the absence of *iṭ* by Vedic usage; since *liṭ* is the cause, the root is doubled; the reduplicative keeps *ādir halaḥ śeṣaḥ*; the nasal of the root becomes anusvāra by *parasavarṇa*; the finite-verb *nighāta*. This is also accomplished by the *nipāta* spoken of below.
+*vavartha* — root *vṛñ varaṇe*; when the *thal* of the *liṭ* is the replacement, by *babhūthātatanthajagṛmbhavavartheti nigame* (Pā. 7-2-64 [?]) the form is irregularly set. ‖ 22 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.23)**
+
+> देवेन नो मनसा देव सोम रायो भागं सहसावन्नभि युध्य ।
+
+*devena no manasā deva soma rāyo bhāgaṃ sahasāvann abhi yudhya |*
+
+*(The first line only is on p. 397; the word *sahasāvan* is partly blotted in the scan [?]. The second line and the rest of the Ṛk are on p. 398.)*
+
+---
+
+**Progress note:** Printed pp. 1–397 done (PDF 16–412) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–90 complete**. **Sūkta 91** (twenty-three Ṛks: 1–4 and 18–23 Triṣṭubh, 5–16 Gāyatrī, 17 Uṣṇih; Soma; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, seventh sūkta; application *laiṅgika*; printed pp. 325–401): Riks 91.1–91.22 complete; Rik 91.23 (the last Ṛk) begun — the first line of its Saṃhitā is on p. 397; the second line, the Pada and all of its commentary are still to be written from p. 398 (PDF 413). Next: printed p. 398 (PDF 413). "
+"Open flags (Sūkta 91, condensed): in every Rik of 91.1–91.22 the small Kannada reference numerals (Ṛgveda, Taittirīya, Vājasaneyi, Āśvalāyana, Nirukta, Pāṇini, Uṇādi) are given as read and are doubtful [?], and the bhāṣya grammar tails are partly clotted and only characterized; specific doubts: 91.4 first citation (*somaṃ bharadvād…*) garbled, no gloss; 91.7 *vapur upabhogasamarthaṃ*; 91.9 *-an-* replacement in *avitā*, the print's *māmamṛtaṃ*; 91.14 *na rarāṇa na rame* unclear; 91.17 English translation's last line smudged; 91.18 *uñchādiṣu* / p. 381 last line blotted, first English line misprinted ('uices') [sic]; 91.19 clotted bhāṣya clauses; the *kratve dakṣāya…* citation; 91.20 Nirukta 1-12 for horse-names, the *vidathāni pracodayan* citation's numerals; 91.21 *apsām* derivation, *papriṃ* root, *aṣāḷham*='apratipatita' [?], *ur at* [?]; 91.22: bhāṣya clauses *gāḥ sarvān paśūn…*, *yatra yo 'smaddṛṣṭi…*, *jyotiṣmātmīyena* clotted [?]; the Ṛgveda numerals of the Soma/*oṣadhi* citations on pp. 396–397 (10-97-18, 10-85-3, 6-4[4]-2[4], 9-24-6, 9-33-2, 6-42-4, 6-44-24, 9-66-24) all doubtful [?]; the gaṇa-sūtra *janījṛṣ…* partly read; Pāṇini numerals 3-1-26, 6-4-92, 7-2-64 [?]; Saṃhitā/Pada differences (rakṣā/rakṣa 91.8, bhavā/bhava 91.16–17, rāraṇat/raraṇat 91.14, rārandhi/rarandhi 91.13, uruṣyā/uruṣya 91.15, sādanyam/sadanyam 91.20, svarṣām/svaḥ-sām 91.21); *aṣāḷhaṃ* (pp. 383, 390) vs *uṣāḷhaṃ* (p. 339) as printed; the sūtra *ūḍidaṃ padādi* is 6-1-171 (read on p. 369) — settles the flag on p. 343. "
 "Earlier flags (Sūktas 81–90 and front matter): Āśvalāyana/Nirukta/Aitareya/Taittirīya/Ṛgveda numerals on pp. 192–193, 216, 264–265, 268, 273–276, 283, 285–286, 290, 292–293, 299–301, 303, 313–316, 318–321, 323–325 [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; sūtra numbers tentative; varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā/Pada differences in 84.18, 86.8–86.10, 87.2–87.3, 88.1, 88.4, 89.8, 89.9, 90.5; a stray \"३\" on p. 223; \"prāvitā 'si\" on p. 230; repeated tail-end at the head of p. 238; compressed/clotted pages 243, 249, 252, 261, 264, 267, 270, 273–274, 282, 292, 296, 299, 301, 311, 313, 315, 325; Pīṭhike digit counts on folio iv [?]; bhāṣya grammatical tails partly omitted or doubtful on many pages; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121, 128, 131, 141, 154.
