@@ -2329,7 +2329,7 @@ Title block:
 "In this way these twelve *nivid* mantras have been explained in the Aitareya Brāhmaṇa. That the recital of these mantras gives the most excellent fruits — with this faith, when the deities are invoked, the practice of reciting these, with praise of the form, power, accomplishment of greatness of each deity, is the tradition, as one can see in the Ṛksaṃhitā in many contexts —"
 
 > तास्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
-> *tāsūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham |*
+> *tās pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham | [the first word as printed, doubtful [?]]*
 > (*Ṛ. Saṃ.* 1-8[9]-3 as read [?])
 
 > जुषेथां यज्ञं बोधतं हवस्य मे सत्त्रो होता निविदः पूर्व्या अनु ।
