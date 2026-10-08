@@ -6853,4 +6853,72 @@ Closing of Rik 87.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The 
 
 ---
 
-**Progress note:** Printed pp. 1–245 done (PDF 16–260) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Rik 88.1** done through the bhāṣya, Pratipadārtha, Bhāvārtha, English and most of the Special Topics; the Special Topics end with Yāska's Nirukta quotation, which breaks off at the foot of p. 245 and continues on p. 246, followed by 88.1's grammar page and Riks 88.2–88.6. Next: printed p. 246 (PDF 261). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239, 243, 245 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243: dense one-block bhāṣya with several clotted clauses (*rathebhir ātreyyai*, *ṛṣṭimadbhiḥ* alternative, *tais tsvabhāvanīra…*); Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages (listed in earlier notes); 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 246 (PDF 261)
+
+*(Running head: "246 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+*Yāska's Nirukta passage on Rik 88.1, concluded from p. 245:*
+
+> …वा । रथैरायात । ऋष्टिमद्भिरश्वपर्णैरश्वपतनैर्वर्षिष्ठ्येन च नो ऽन्नेन वय इवापतत सुमायाः कल्याणप्रज्ञा वा ॥
+
+*…vā | rathair āyāta | ṛṣṭimadbhir aśvaparṇair aśvapatanair varṣiṣṭhyena ca no 'nnena vaya ivāpatata sumāyāḥ kalyāṇaprajñā vā ‖* (Ni. [11-13-14] [?]) — *Gloss, mine and tentative:* "…or by rays; come with chariots; with spear-bearing, horse-winged, horse-flying [chariots] and with abundant food for us, fly down like birds, O Maruts of good works or of good wisdom."
+
+"The explanation of the remaining words is as the bhāṣyakāra has given it above."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 88.1)** *(grammar page, noted briefly; sūtras read in three layers, numerals as read [?])*
+
+- **विद्युन्मद्भिः** — *vidyut yeṣām asti iti vidyunmantaḥ*; by "तदस्यास्त्यस्मिन्निति मतुप्" the affix *matup*; since *jhay* (*t*) precedes, by "झयः" (Pā. Sū. 8-2-[10]) the change of the *m* of *matup* to *v* would have come; but since *yavādi* is an *ākṛtigaṇa*, *vidyut* is counted in it, and since "अयवादिभ्यः" runs on, the *va*-substitution does not come.
+- **रथेभिः** — the word *ratha*, instrumental plural; *bhis* following, by "बहुलं छन्दसि" the substitute *ais* does not come; by "बहुवचने झल्येत्" (*bahuvacane jhaly et*) the *e*.
+- **यात** — the root *yā prāpaṇe*, Adādi; *loṭ*, second person plural; by "तस्थस्थमिपां तान्तन्तामः" the substitute *ta*; by "अदिप्रभृतिभ्यः शपः" the *luk* of *śap*; the *nighāta* of the *tiṅanta*.
+- **ऋष्टिमद्भिः** — *ṛṣṭayo yeṣāṃ santi*; *matup*; instrumental plural; by "ह्रस्वनुड्भ्यां मतुप्" (Pā. Sū. 6-1-[176]) the acute on *matup* after a short vowel.
+- **अश्वपर्णैः** — the root *aśū vyāptau*; by "अशिपुषिकुटिकणि…" (Uṇ. Sū. 1-[151] [?]) the affix *kvan*; the form *aśva*; *aśvaṃ vyāptaṃ parṇaṃ patanaṃ gamanaṃ yeṣāṃ te aśvaparṇāḥ*; instrumental plural; a *bahuvrīhi*, first member keeps its accent.
+- **वर्षिष्ठया** — the word *vṛddha*; in the sense of excess, by "अतिशायने तमबिष्ठनौ" the affix *iṣṭhan*; since it follows, by "प्रियस्थिरस्फिर…" (Pā. Sū. 6-4-[157]) the substitute *varṣ* for *vṛddha*; by "यस्येति च" the loss of the *a*; since it ends in a *nit* affix, by "ञ्नित्यादिर्नित्यम्" the first syllable acute; in the feminine, *ṭāp*; instrumental singular.
+- **पप्तत** — the root *patḷ gatau*; *ḷdit*; in the sense of *loṭ*, Vedic *luṅ*; second person plural, by "तस्थस्थमिपां…" the substitute *ta*; by "च्लि लुङि" *cli*, and for it, since the root is *ḷdit*, by "ऌदित्…" the substitute *aṅ* (*puṣādidyutādi*, Pā. Sū. 3-1-[55]); *pat + a + ta*, by "सतः पुम्" (Pā. Sū. 7-4-[19]) the augment *puk* with the *aṅ*; by "मिदेर्गुणः"… the final-[a] ; by "बहुलं छन्दस्यमाङ्योगेऽपि" the augment *aṭ* does not come; the form *paptata*; since it follows an *atiṅanta*, the *nighāta* accent.
+
+---
+
+### Page 247 (PDF 262)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 247.)*
+
+*Vyākaraṇa-prakriyā of Rik 88.1, concluded:*
+
+- **सुमायाः** — *śobhanāḥ māyāḥ (karmāṇi) yeṣāṃ te sumāyāḥ*; vocative plural; by "आमन्त्रितस्य च" the *nighāta* accent.
+
+Closing of Rik 88.1: "॥ १ ॥" (1), followed by a printer's ornament.
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 88.2)** *(Triṣṭubh; Maruts; accents not reproduced)*
+
+> ते ऽरुणेभिर्वरमा पिशङ्गैः शुभे कं यान्ति रथतूर्भिरश्वैः ।
+> रुक्मो न चित्रः स्वधितीवान्पव्या रथस्य जङ्घनन्त भूम ॥ २ ॥
+
+*te 'ruṇebhir varam ā piśaṅgaiḥ śubhe kaṃ yānti rathatūrbhir aśvaiḥ | rukmo na citraḥ svadhitīvān pavyā rathasya jaṅghananta bhūma ‖ 2 ‖*
+
+*Gloss, mine and tentative:* "They go, with ruddy, tawny horses that speed the chariots, to the chosen one, for splendour, for water; like gleaming gold, bright, with the axe [thunderbolt], they strike the earth with the wheel-rim of the chariot."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 88.2)**
+
+> ते । अरुणेभिः । वरम् । आ । पिशङ्गैः । शुभे । कम् । यान्ति । रथतूःऽभिः । अश्वैः ।
+> रुक्मः । न । चित्रः । स्वधितिऽवान् । पव्या । रथस्य । जङ्घनन्त । भूम ॥ २ ॥
+
+*te | aruṇebhiḥ | varam | ā | piśaṅgaiḥ | śubhe | kam | yānti | rathatūḥ-bhiḥ | aśvaiḥ | rukmaḥ | na | citraḥ | svadhiti-vān | pavyā | rathasya | jaṅghananta | bhūma ‖ 2 ‖*
+
+---
+
+### Page 248 (PDF 263)
+
+*(Running head: "248 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 88.2)**
+
+> ते पूर्वोक्ता मरुतोऽरुणेभिररुणवर्णैः पिशङ्गैः पिङ्गलवर्णैरुभयवर्णोपेतै रथतूर्भी रथस्य प्रेरयितृभिरश्वैर्वरं देवानां वरीतारं कं शब्दयितारं स्तुवन्तं यजमानमा यान्ति । आगच्छन्ति । किमर्थम् । शुभे तस्य शोभां कर्तुम् । अथवा शुभ उदकाय । वृष्ट्यर्थमित्यर्थः । तेषां मरुतां गणो रुक्मो न रोचमानं सुवर्णमिव चित्रोऽतिशयेन दर्शनीयः स्वधितीवान् स्वधितिरिति वज्रनाम । शत्रूणां खण्डकेनायुधेनोपेतः । एवंविधगणरूपास्ते मरुतो रथस्य पव्या चक्रधारया भूमा भूमिं जङ्घनन्त । अत्यर्थं घ्नन्ति । स्तोतृरक्षणार्थमागतानां तेषां मरुतां भारमसहमाना भूमिरतिपीडिता बभूवेत्यर्थः ॥ वरम् । व्रियन्ते देवा अनेनेति वरः । ग्रहवृदृनिश्चिगमश्च (?) इति करणेऽप् । कम् । कै गै शब्दे । कायतीति कः । बहुलवचनात्कप्रत्ययः । रथतूर्भिः । तुर त्वरणे । रथं तुतुरीति त्वरां युक्तं कुर्वन्तीति रथतुरः । क्विब्वचीति क्विप् । भसि हलि चेति दीर्घत्वम् । पव्या । पवी रथनेमिर्भवतीति यास्कः । नि. ५-५ [?] । पूङ् पवने । अस्माद् च इतीप्रत्ययः । उदात्तयणो इति विभक्तेरुदात्तत्वम् । जङ्घनन्त । हन्तेर्यङन्ताद्वर्तमाने छान्दसो लङ् । भ्वसुम्भयधेत्यादिना ङ्घात्वमिति धातुकत्वादतो लोपयलोपौ । भूमा । भूमिशब्दादुत्तरस्याम उसुपां सुलुगिति डादेशः । छान्दसं ह्रस्वत्वम् ॥
+
+*te pūrvoktā maruto 'ruṇebhir aruṇavarṇaiḥ piśaṅgaiḥ piṅgalavarṇair ubhayavarṇopetai rathatūrbhī rathasya prerayitṛbhir aśvair varaṃ devānāṃ varītāraṃ kaṃ śabdayitāraṃ stuvantaṃ yajamānam ā yānti | āgacchanti | kimartham | śubhe tasya śobhāṃ kartum | athavā śubha udakāya | vṛṣṭyartham ity arthaḥ | teṣāṃ marutāṃ gaṇo rukmo na rocamānaṃ suvarṇam iva citro 'tiśayena darśanīyaḥ svadhitīvān svadhitir iti vajranāma | śatrūṇāṃ khaṇḍakenāyudhenopetaḥ | evaṃvidhagaṇarūpās te maruto rathasya pavyā cakradhārayā bhūmā bhūmiṃ jaṅghananta | atyarthaṃ ghnanti | stotṛrakṣaṇārtham āgatānāṃ teṣāṃ marutāṃ bhāram asahamānā bhūmir atipīḍitā babhūvety arthaḥ ‖ varam | vriyante devā anenēti varaḥ | … iti karaṇe 'p | kam | kai gai śabde | kāyatīti kaḥ | bahulavacanāt kapratyayaḥ | rathatūrbhiḥ | tura tvaraṇe | rathaṃ tuturīti tvarāṃ yuktaṃ kurvantīti rathaturaḥ | kvib vacīti kvip | bhasi hali ceti dīrghatvam | pavyā | pavī rathanemir bhavatīti yāskaḥ | Ni. 5-5 [?] | pūṅ pavane | asmād ca itīpratyayaḥ | udāttayaṇo iti vibhakter udāttatvam | jaṅghananta | hanter yaṅantād vartamāne chāndaso laṅ | … ghātutvam iti … atas lopayalopau | bhūmā | bhūmiśabdād uttarasyāma usupāṃ suluk iti ḍādeśaḥ | chāndasaṃ hrasvatvam ‖*
+
+*(Kannada script; the sūtra after* varam *and the clause on* jaṅghananta *are cramped and read with doubt [?]; "ubhayavarṇopetai" is read thus.)*
+
+*Translation:* "Those Maruts go (*ā yānti*) to *kam* — the one who praises, the sacrificer — with *aruṇebhiḥ* (ruddy) and *piśaṅgaiḥ* (tawny, or of both colours) horses that urge on the chariot, to *varam*, the chooser of the gods. For what? *Śubhe* — to make his splendour; or *śubhe* = for water, that is, for rain. The host of those Maruts is *rukmo na* — like shining gold — *citraḥ*, exceedingly beautiful to see, *svadhitīvān* — *svadhiti* is a name for the thunderbolt: possessed of a weapon that cuts enemies. Such a host, the Maruts *jaṅghananta* — strike mightily — *bhūma*, the earth, with *pavyā* — the rim of the wheel of the chariot. The meaning: the earth, unable to bear the weight of the Maruts who have come to protect the praiser, was sorely pressed. *Grammar tail, noted briefly:* *varam* — 'by whom the gods are chosen'; *kam* — *kai gai śabde*; *rathatūrbhiḥ* — *tura tvaraṇe*, with *kvip*, lengthening before *bhis*; *pavyā* — Yāska: 'the felly (*pavī*) is the rim of the chariot' (Ni. [5-5] [?]); *jaṅghananta* — frequentative of *han*, Vedic *laṅ*; *bhūma* — *ḍā*-substitution for *am*, shortening Vedic."
+
+---
+
+**Progress note:** Printed pp. 1–248 done (PDF 16–263) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete.** **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 241–263): **Rik 88.1 complete**; **Rik 88.2** — Saṃhitā, Pada, bhāṣya and its grammatical tail done (p. 248); next: its Pratipadārtha, Bhāvārtha, English, Special Topics and grammar, then 88.3–88.6. Next: printed p. 249 (PDF 264). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239, 243, 245–246, 248 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1; a stray closing numeral "३" on p. 223; "prāvitā 'si" on p. 230; the repeated tail-end at the head of p. 238; p. 243 dense bhāṣya with clotted clauses; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages (listed in earlier notes) and on pp. 246, 248; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237, 243, 248: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
