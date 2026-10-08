@@ -6708,4 +6708,78 @@ Closing of Rik 87.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 ---
 
-**Progress note:** Printed pp. 1–239 done (PDF 16–254) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–86 complete.** **Sūkta 87** (six Ṛks, Jagatī; Maruts; ṛṣi Gotama Rāhūgaṇa; printed pp. 216–240): **Riks 87.1–87.5 complete**; **Rik 87.6** (the last) done through its Special Topics and the first entry of its grammar page (*śriyase*, p. 239; the grammar page continues on p. 240, followed by the Ṛk's closing numeral and the end of Sūkta 87). Next: printed p. 240 (PDF 255); then Sūkta 88 (contents table: p. 241). Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; the repeated tail-end at the head of p. 238; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on pp. 145, 151, 157, 160, 167, 169, 175, 179, 182, 186–187, 189, 196, 198, 200, 202, 204, 207, 209–211, 217, 222–223, 226, 230, 232, 234, 236, 237–238; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
+### Page 240 (PDF 255)
+
+*(Running head: "240 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 87".)*
+
+*Vyākaraṇa-prakriyā of Rik 87.6, continued and concluded from p. 239 (grammar, noted briefly; sūtras read in three layers, numerals as read [?]):*
+
+- **श्रियसे** (cont.) — "…by "अचि श्नुधातुभ्रुवां य्वोरियङुवङौ" (*aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*) the *iyaṅ* substitute because an affix beginning with a vowel follows; by "कृन्मेजन्तः" (*kṛn mejantaḥ*) it gets the designation of an indeclinable."
+- **मिमिक्षिरे** — the root *miha secane*; by "धातोः कर्मणः समानकर्तृकादिच्छायां वा" (Pā. Sū. 3-1-7) the affix *san* in the sense of desire; by "सन्यङोः" (*sanyaṅoḥ*) the root is reduplicated, in the reduplicate the *hal*-initial remains; when *mimih + sa*, by "हो ढः" the *ḍha* for the *h*; by "षढोः कः सि" (*ṣaḍhoḥ kaḥ si*) the *k* for the *ḍh* that arose; by "आदेशप्रत्यययोः" the *ṣatva* for the *s* of the affix; *k* + *ṣ* together form *kṣ*: the stem *mimikṣa* receives the designation *dhātu* by "सनाद्यन्ता धातवः"; in the *liṭ*, since the sūtra "अमन्त्रे" (Pā. Sū. 3-1-[35]) forbids it for *amantra* [as printed], the augment *ām* does not come; for the third-person plural, by "लिटस्तझयोरेशिरेच्" the substitute *irec*; the form *mimikṣire*; although it is a *parasmaipada* root, by "व्यत्ययो बहुलम्" the *ātmanepada* affix comes; the *nighāta* accent of the *tiṅanta*.
+- **सुखादयः** — the root *khādṛ bhakṣaṇe*; by the Uṇādi the affix *i*; *śobhanā khādir bhakṣaṇaṃ yeṣāṃ te sukhādayaḥ*; nominative plural; by "नञ्सुभ्याम्" the final syllable of the latter member is acute.
+- **वाशीमन्तः** — *vāśī* means speech; in the sense 'it is in him', by "तदस्यास्त्यस्मिन्निति मतुप्" the affix *matup*; since it is *pit*, unaccented; nominative plural.
+- **इष्मिणः** — the root *iṣa gatau*; by "इषियुधीन्धिदसिश्याधूसूभ्यो मक्" (Uṇ. Sū. 1-[147] [?]) the affix *mak*; since it is *kit*, no *laghūpadha-guṇa*; the word *iṣma*; *iṣmo yeṣām asti iṣmiṇaḥ*; in the sense of *matup*, by "अत इनिठनौ" the affix *ini*; by the affix-accent the *i* of *ini* is acute; nominative plural.
+- **विद्रे** — the root *vidḷ lābhe*; *liṭ*, third person plural, the substitute *irec*; since it is *ṇic*-like [*liṅ*-like] the reduplication of the root would arise, but by the statement "द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम्" the reduplication does not come here; by "इरयोरे" (Pā. Sū. 6-4-[76]) the substitute *re* for the *ire* of the ending; since *liṭ* is *kit*-like, no *guṇa* of the *laghūpadha*; since it stands at the beginning of a *pāda*, no *nighāta*; by the affix-accent the final acute.
+
+Closing of Rik 87.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The print has no separate closing line for Sūkta 87; it ends here, on p. 240.)*
+
+---
+
+## Sūkta 88 (Maṇḍala 1, Sūkta 88) — "एंभत्तेंटनेय सूक्तवु" (*embhatteṇṭaneya sūktavu*, "the eighty-eighth Sūkta")
+
+### Page 241 (PDF 256)
+
+*(Running head left: "A. 1 A. 6 Va. 14 [?]"; centre: "Ṛgvedasaṃhitā"; right: 241. Foot: printer's signature "16 … Volume 7". Heading printed large, in Kannada: "ಎಂಭತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು".)*
+
+**॥ अनुक्रमणिका ॥ — Introductory note in Sanskrit (as printed; Kannada script converted letter by letter)**
+
+> आ विद्युन्मद्भिरिति षडृचं चतुर्थं सूक्तम् । अत्रानुक्रम्यते । आ विद्युन्मद्भिराद्यान्तेः प्रस्तारपङ्क्ती पञ्चमी विराडूपेति । पूर्वव‌दृषिदेवते । आद्या षष्ठी च द्वे प्रस्तारपङ्क्ती । आद्यौ पादौ जागतौ तृतीयेचतुर्थौ गायत्रौ यस्याः सा प्रस्तारपङ्क्तिः । सूत्रितं च । प्रस्तारपङ्क्तिः पुरतः । पिं. ३-४० [?] इति । अस्मिन्नयमर्थः । जागतौ गायत्रौ चेत्यनुवर्तते । यदि पुरतः पुरस्ताद्द्वौ जागतौ पादौ स्यातामन्त्यौ गायत्रौ सा प्रस्तारपङ्क्तिरिति । एतत्त्यदित्येषा पञ्चमी विराडूपा । आदितस्त्रयः पादा एकादशका अन्त्योऽष्टकः सा विराडूपेत्युच्यते ॥ विनियोगो लैङ्गिकः ॥
+
+*ā vidyunmadbhir iti ṣaḍṛcaṃ caturthaṃ sūktam | atrānukramyate | ā vidyunmadbhir ādyānte prastārapaṅktī pañcamī virāḍrūpeti | pūrvavad ṛṣidevate | ādyā ṣaṣṭhī ca dve prastārapaṅktī | ādyau pādau jāgatau tṛtīyecaturthau gāyatrau yasyāḥ sā prastārapaṅktiḥ | sūtritaṃ ca | prastārapaṅktiḥ purataḥ | Piṅ. 3-40 [?] iti | asminn ayam arthaḥ | jāgatau gāyatrau cety anuvartate | yadi purataḥ purastād dvau jāgatau pādau syātām antyau gāyatrau sā prastārapaṅktir iti | etat tyad ity eṣā pañcamī virāḍrūpā | āditas trayaḥ pādā ekādaśakā antyo 'ṣṭakaḥ sā virāḍrūpety ucyate ‖ viniyogo laiṅgikaḥ ‖*
+
+*Translation:* "The fourth sūkta, *ā vidyunmadbhiḥ*, of six Ṛks. The Anukramaṇī says here: '*ā vidyunmadbhiḥ* — the first and the last are *prastārapaṅkti*, the fifth *virāḍrūpā*'; the ṛṣi and deity are as before. The first and the sixth are two *prastārapaṅkti* Ṛks. That Ṛk whose first two pādas are Jagatī and third and fourth Gāyatrī is a *prastārapaṅkti*; it is prescribed [in Piṅgala] '*prastārapaṅktiḥ purataḥ*' (Piṅ. 3-[40] [?]); here the sense is: 'Jagatī' and 'Gāyatrī' are carried on; if two Jagatī pādas stand in front and the last two Gāyatrī, that is a *prastārapaṅkti*. The fifth, *etat tyat*, is *virāḍrūpā*: in it the first three pādas are of eleven syllables and the last of eight; this is called *virāḍrūpā*. The application is *laiṅgika* [by the sense of the verse]."
+
+**अनुवादवु — Anuvāda (Kannada)**
+
+"The sūkta *ā vidyunmadbhiḥ* is the fourth sūkta in the fourteenth anuvāka. There are six Ṛks in it. In the Anukramaṇī it is said '*ā vidyunmadbhir ādyānte prastārapaṅktī pañcamī virāḍrūpā*'. The ṛṣi and deity are as in the preceding sūkta. The first and the sixth Ṛks of this sūkta are in the *prastārapaṅkti* metre. In the metre called *prastārapaṅkti*, the first and second pādas are like the Jagatī metre, the third and fourth like the Gāyatrī metre. Such a metre is called *prastārapaṅkti*. This is said in Piṅgala's *khaṇḍa* sūtra (Piṅ. Sū. 3-[40] [?]) '*prastārapaṅktiḥ purataḥ*': that is, a Ṛk in which the first two pādas are like the Jagatī metre and the last two pādas like the Gāyatrī metre is said to be of the *prastārapaṅkti* metre. The fifth Ṛk of this sūkta, *etat tyat*, is of the metre *virāḍrūpā*: a Ṛk in which the first three pādas have eleven syllables each and the last pāda eight is said to be of the *virāḍrūpā* metre. The application of this sūkta is *laiṅgika*."
+
+*(printer's ornament)*
+
+---
+
+### Page 242 (PDF 257)
+
+*(Running head: "242 · Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 14 Sū. 88".)*
+
+**॥ ॐ ॥ — Om**
+
+**सूक्त — ८८ — Sūkta 88**
+
+- मण्डल १ · अनुवाक १४ · सूक्त ८८ — *Maṇḍala 1 · Anuvāka 14 · Sūkta 88*
+- अष्टक १ · अध्याय ६ · वर्ग १४ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 14 [?]*
+- सूक्तदल्लिरुव ऋक्संख्ये — ६ — *number of Ṛks in the sūkta: 6*
+- ऋषिः — गोतमो राहूगणः — *ṛṣi: Gotama Rāhūgaṇa*
+- देवता — मरुतः — *deity: the Maruts*
+- छन्दः — १, ६ प्रस्तारपङ्क्तिः; २–४ त्रिष्टुप्; ५ विराडूपा — *metre: Ṛks 1 and 6 Prastārapaṅkti; 2–4 Triṣṭubh; 5 Virāḍrūpā* *(as printed on the heading line; the digits "३-४" for the Triṣṭubh Ṛks are read as "2–4" with doubt [?])*
+
+**॥ संहितापाठः ॥ — Saṃhitā (Rik 88.1)** *(Prastārapaṅkti; Maruts; accents not reproduced)*
+
+> आ विद्युन्मद्भिर्मरुतः स्वर्कै रथेभिर्यात ऋष्टिमद्भिरश्वपर्णैः ।
+> आ वर्षिष्ठया न इषा वयो न पप्तता सुमायाः ॥ १ ॥
+
+*ā vidyunmadbhir marutaḥ svarkai rathebhir yāta ṛṣṭimadbhir aśvaparṇaiḥ | ā varṣiṣṭhayā na iṣā vayo na paptatā sumāyāḥ ‖ 1 ‖*
+
+*Gloss, mine and tentative:* "Come, O Maruts, with chariots bright with lightning, of fine hymns, furnished with spears, with horse-wings; come to us with abundant food, flying like birds, O ones of fine wonder-power."
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 88.1)**
+
+> आ । विद्युन्मत्ऽभिः । मरुतः । सुऽअर्कैः । रथेभिः । यात । ऋष्टिमत्ऽभिः । अश्वऽपर्णैः ।
+> आ । वर्षिष्ठया । नः । इषा । वयः । न । पप्तत । सुऽमायाः ॥ १ ॥
+
+*ā | vidyunmat-bhiḥ | marutaḥ | su-arkaiḥ | rathebhiḥ | yāta | ṛṣṭimat-bhiḥ | aśva-parṇaiḥ | ā | varṣiṣṭhayā | naḥ | iṣā | vayaḥ | na | paptata | su-māyāḥ ‖ 1 ‖*
+
+*(Saṃhitā* paptatā*, Pada* paptata*; as printed.)*
+
+---
+
+**Progress note:** Printed pp. 1–242 done (PDF 16–257) of Volume 7 (`Rig_Vol7.pdf`; **printed page = PDF − 15**; Sūktas 81–94); the Pīṭhike (folios i–vi) is translated and sits before the Sixth Adhyāya. **Sūktas 81–87 complete** (87: six Ṛks, ended on p. 240, no closing line in the print). **Sūkta 88** (six Ṛks; Maruts; ṛṣi Gotama Rāhūgaṇa; 14th Anuvāka, fourth sūkta; Ṛks 1 and 6 Prastārapaṅkti, 2–4 Triṣṭubh [?], 5 Virāḍrūpā; application *laiṅgika*; printed pp. 241–263): heading, introduction and Anuvāda done; **Rik 88.1** — Saṃhitā and Pada done (foot of p. 242). Next: printed p. 243 (PDF 258): the bhāṣya of 88.1. Open flags: Aitareya/Āśvalāyana/Nirukta/Uṇādi/Kāśikā/Taittirīya/Piṅgala numerals [?]; Ṛgveda references on pp. 147–148, 152–154, 165, 172–173, 205, 239 [?]; Nirukta numerals on pp. 208, 219, 224, 226, 228, 231, 235, 238–239 [?]; Āśvalāyana numerals on pp. 192–193, 216 [?]; sūtra numbers tentative; the varga numerals [?]; accent marks not reproduced; the third line of the invocation on p. 1 (*daśatayyaḥ*) doubtful; Saṃhitā "yajātā" vs Pada "yajātai" in 84.18; Saṃhitā/Pada differences in 86.8–86.10, 87.2–87.3, 88.1; a stray closing numeral "३" on p. 223; "prāvitā 'si" as printed in the bhāṣya on p. 230; the repeated tail-end at the head of p. 238; Pīṭhike digit counts on folio iv [?]; pp. 128, 131 broken print; 141 cramped last clause; grammar tails partly read on many pages (listed in earlier notes) and on pp. 237–238, 240; 154 *kopayetha* doubtful; **pp. 171, 175, 179, 182, 186, 189, 211, 217, 222, 226, 230, 234, 237: bhāṣya's grammatical tail partly omitted or doubtful (compressed print)**; earlier flags on pp. 13, 15, 22, 24, 30, 35–42, 46–47, 50, 52, 61–64, 66, 68, 74, 76, 79–81, 88, 92, 114, 121.
