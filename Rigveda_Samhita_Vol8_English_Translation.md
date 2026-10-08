@@ -2508,4 +2508,89 @@ Title block:
 
 ---
 
-**Progress note:** Printed pp. 1–81 done (PDF 21–101): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1 and 96.2 complete (96.2's Special Topics on pp. 74–78, grammar on pp. 78–79); Rik 96.3: Saṃhitā, Pada, bhāṣya (grammatical tail characterized), Pratipadārtha, Bhāvārtha, English done, and the Special Topics under way (*viśaḥ*, *ārīḥ*, *yajñasādham* with two Ṛgveda quotations), breaking at the foot of p. 81 after the second *yajñasādham* quotation. Next: printed p. 82 (PDF 102). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–81) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2) clotted [?], the Bṛhaddevatā verses on pp. 67 and 70 [?], the Ṛgveda numerals and the clotted first quotation on p. 70 [?], Skandasvāmin's *āp śabdo 'tra…* on p. 69 [?]; in 96.2 the bhāṣya's *guṇeniṣṭha*, *ākṣṇīyena* and *chandasīṇa* [?], the Pada's *kavyatā | āyoḥ*, the Aitareya Brāhmaṇa quotation on p. 74 (*bhūyān syām*, *prādeśa padā*) [?], the Bṛhaddevatā verse on p. 75 [?], the Aitareya items 6 and 8 on pp. 75–76 [?], the Ṛgveda and Taittirīya Brāhmaṇa numerals on pp. 76–78 [?], the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*) [?]; in 96.3 the bhāṣya's grammatical tail [?] and the Ṛgveda quotations on p. 81 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 82 (PDF 102)
+
+*(Running head: left 82; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+**Special Topics of Rik 96.3, continued from p. 81**
+
+"— in this Agni is called the accomplisher of sacrifices; and in just the same way here too it is an epithet of Agni."
+
+***ṛñjasānam*** — *ṛñjatiḥ prasādhanakarmā* (Ni. 6-[?]): "from the root *ṛñj*, in the sense of 'adorning', this form is used. *Stotraiḥ prasādhyamānam*, Sāyaṇa says: 'one adorned by hymns of praise', construing it in the passive; and Skandasvāmin, explaining it in the active — *yajñaṃ sarvān abhipretān vā prasādhayantam* — says: 'who adorns the sacrifice, or all that is desired in connexion with it'. This epithet is used of Agni, and in another place of Indra:"
+
+> रथो न विक्ष्वृञ्जसान आयुषु व्यानुषग्वार्याभि द्यौः [?] …
+> *ratho na vikṣv ṛñjasāna āyuṣu vy ānuṣag vāryā deva ṛṇvati |*
+> (*Ṛ. Saṃ.* 1-5[?]-[?] as read [?])
+
+> ऋञ्जसानः पुरुवार उक्थैरिन्द्रं कृण्वीत सदनेषु होता ।
+> *ṛñjasānaḥ puruvāra ukthair indraṃ kṛṇvīta sadaneṣu hotā |*
+> (*Ṛ. Saṃ.* 4-2[0]-[?] as read [?])
+
+*(Glosses, mine and tentative: "like a chariot among the peoples, being adorned…"; "adorned, the much-desired Hotṛ, with praises, makes Indra [his own] in the houses". The first quotation is clotted in the print and I read it with doubt [?].)* "In these, for the word *ṛñjasānaḥ* in the first, the epithet of Agni, Sāyaṇa gives the meaning 'praised' (*stūyamānaḥ*); and for the word that is an epithet of Indra in the second, '*prasādhyamānaḥ*' — 'Indra who is adorned'."
+
+***ūrjaḥ putram*** — "The word *ūrj* is read among the names of food. *Bhuktenānnena jaṭharāgner vardhanād agner annaputratvaṃ*: since Agni is increased as the digestive fire by the food that is eaten, Agni is well known as the 'son of food'. Or, as Skandasvāmin explains: '*ūrjaśabdenātra annakāraṇatvād vṛṣṭilakṣaṇam udakam ucyate | tato hy oṣadhivanaspatayo jāyante oṣadhivanaspatibhya eṣa jāyate*': 'by the word *ūrj* here is meant water, the rain, since it is the cause of food; for from it the plants and trees are born, and from the plants and trees [Agni] is born': so Agni is born from water; and the sense that by succession he is the son of waters may also be taken. But the explanation of Sāyaṇa, that it is the digestive fire, is the natural one."
+
+***bharataṃ*** — "*bhārataḥ*, *kuruvaḥ* and the rest are read among the thirty [?] names of priests (Ni. 3-[?] [?]); so *bharata* means 'priest'. Because Agni is a priest in all sacrifices, the epithet fits. Or *sarveṣāṃ yajamānānāṃ bhartāraṃ; haviṣāṃ bhartāram*: since he is the bearer of all the sacrificers and of the oblations, he can be called *bharata*. The word *bharata* is used also of Rudra, Āditya and other deities as an epithet. It may also mean the world-emperor Bharata."
+
+> असद्या बर्हिर्भरतस्य सूनवः प्रोत्रादा सोमं पिबता दिवो नरः ।
+> *asadyā barhir bharatasya sūnavaḥ protrād ā somaṃ pibatā divo naraḥ |*
+> (*Ṛ. Saṃ.* 3-5[3]-[?] as read [?])
+
+*(Gloss, mine and tentative: "sit on the sacred grass, sons of Bharata; from the* potṛ *cup drink the Soma, men of heaven". The print has* prota *for the usual* potrād *[?].)* *(continues on p. 83)*
+
+### Page 83 (PDF 103)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 83.)*
+
+"Here, for the word *bharatasya*, the meaning is 'of Rudra, who supports the whole world'; and in places such as 3-5[3]-2[4] [?]; 6-1[6]-4 [?] Bharata, the son of Duṣyanta, is meant; the epithet *bharata* may also refer to Āditya: *bharataḥ ādityaḥ* (Ni. 8-[?] [?])."
+
+***sṛprādānum*** — *sarpaṇaśīladānayuktaṃ | avicchedena dhanāni prayacchantam ity arthaḥ*: "'endowed with a gift of the nature of flowing; giving wealth without interruption': that is, one who gives wealth without break, as if flowing. This epithet, directed at Agni, is used in this Ṛk, and again in two places, for Mitra and Varuṇa as synonyms."
+
+> नपाता शवसो महः सूनू दक्षस्य सुक्रतू । सृप्रदानू इषो वास्त्वधि क्षितः ।
+> *napātā śavaso mahaḥ sūnū dakṣasya sukratū | sṛprādānū iṣo vāstv adhi kṣitaḥ |*
+> (*Ṛ. Saṃ.* 8-2[5]-[?] as read [?])
+
+*(Gloss, mine and tentative: "the two grandsons of great strength, sons of skill, of good understanding, givers of abundant gifts, dwellers on the abode of food". In this Ṛk it is an epithet of Mitra and Varuṇa.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 96.3)** *(grammar pages, pp. 83–84, noted briefly; numerals small and doubtful [?])*
+
+***īḷata*** — root *īḍ* (to praise), *adādi*; *loṭ*, second person plural; by *vyatyayo bahulam* the *parasmaipada* ending in place of the *ātmanepada*; by *bahulaṃ chandasi* the *śap* is not elided [here]; by *loṭo laṅvat* (Pā. 3-4-85 [?]) the *loṭ* is treated like *laṅ*, and *tas-thas-thā-…* (Pā. 3-4-101 [?]) gives *ta* for *tha*; the form *īḷata*; *nighāta*. — ***yajñasādham*** — 'one who accomplishes the sacrifice': root *ṣidhu* (to accomplish); with *ṇic* (*puk*-augment), by *sidhyater apāralaukike* (Pā. 6-1-49 [?]) the root's vowel becomes *ā*; the form *sādhi*; after the *ṇic*-ending word, *kvip* by *kvip ca* (Pā. 3-2-76 [?]); *ṇer aniṭi* (Pā. 6-4-51 [?]) elides the *ṇi* when *kvip* follows; and *kvip* itself is elided wholly; the stem *yajñasādh*, ending in *dh*; *gatikārakopapadāt kṛt* (Pā. 6-2-139 [?]) gives the first member's natural accent in the *kṛt* compound; accusative singular. — ***ārīḥ*** — root *ṛ* (to go); since the intensive sense is shown, *yaj* by the rule *sūcisūtri…* (Pā. 3-1-2[2] [?]); *yajoś ca* (Pā. 2-4-74 [?]): by the word *ca* the *bahula* is drawn along, so that, though the cause is lacking, the *yaj* is elided; *pratyayalope pratyayalakṣaṇam* (Pā. 1-1-62 [?]) the effect of the elided suffix is retained, so by *sanyaṅoḥ* (Pā. 6-1-9 [?]) the root is doubled; *uraṭ* (Pā. 7-4-66 [?]) gives *a*; *raparaḥ*; *halādiḥ śeṣaḥ* (Pā. 6-4-60 [?]) drops the other consonant…
+
+### Page 84 (PDF 104)
+
+*(Running head: left 84; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+
+*Grammar of Rik 96.3, continued (noted briefly):* ***ārīḥ***, continued: …the reduplicate takes *ruk* and *rik* by *ruk-rikau ca luki* (Pā. 7-4-91 [?]); the form *ar-r-ṛ*… is given the designation 'root' by *sanādyantā dhātavaḥ*; after the *yaj-luk*-ending root, the Uṇādi suffix *ki* [*kip*]; by *laśakvataddhite* the *k* is elided; the *i* following, the root's *ṛ* becomes *yaṇ*; in the form *ar + i* by *ror ri* (Pā. 8-3-14 [?]) the first *r* is elided; because of the *r*-elision as the cause, by *ḍhralope pūrvasya dīrgho 'ṇaḥ* (Pā. 6-3-111 [?]) the earlier *a* is lengthened; the form *ārī*. For the feminine sense, the suffix *ṅīṣ* by *kṛdikārād aktinaḥ* (Pā. 4-1-45 [?]), since *ārī* ends in *i* as a *kṛdanta* other than *ktin*; for *jas* following, *vā chandasi* (Pā. 6-1-106 [?]) gives the lengthening by the earlier homogeneous vowel; the *s* becomes *ru* and *visarga*; the initial acute by *vyatyaya*. — ***ṛñjasānam*** — root *ṛñj* (to adorn), used in the sense of 'accomplish'; *asānac* in the passive by *ṛñjivṛdhimandisahibhyaḥ kit* (Uṇ. 2-8[2] [?]); the form *ṛñjasāna*; since the suffix is *cit*, the final acute by *citaḥ* (Pā. 6-1-163 [?]); accusative singular. — ***ūrjaḥ*** — root *ūrja* (strength, life); *kvip*; the stem *ūrj*; the genitive singular; the case-ending acute by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 [?]). — ***bharatam*** — root *bhṛñ* (to bear); *atac* by *bhṛmṛdṛśi…* (Pā. 3-2-1[3]0 [?]); guṇa of the root's *ṛ* because of the suffix; *raparaḥ*; final acute by *citaḥ*. — ***sṛprādānum*** — root *sṛpḷ* (to go); *rak* by *sthāyitaḥ…* (Uṇ. 2-1[2]0 [?]); no guṇa of the light penultimate because it is *kit*; the form *sṛpra*; *sṛpro dānur dānaṃ yasya saḥ sṛprādānuḥ*: in a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* gives the first member's natural accent; accusative singular. ‖ 3 ‖
+
+*(A printer's ornament follows.)*
+
+### Page 85 (PDF 105)
+
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 85.)*
+
+### Rik 4
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 96.4)** *(Triṣṭubh; accent marks printed here, not reproduced)*
+
+> स मातरिश्वा पुरुवारपुष्टिर्विदद्गातुं तनयाय स्वर्वित् ।
+> विशां गोपा जनिता रोदस्योर्देवा अग्निं धारयन्द्रविणोदाम् ॥ ४ ॥
+
+*sa mātariśvā puruvārapuṣṭir vidad gātuṃ tanayāya svarvit | viśāṃ gopā janitā rodasyor devā agniṃ dhārayan draviṇodām ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 96.4)**
+
+> सः । मातरिश्वा । पुरुवारऽपुष्टिः । विदत् । गातुम् । तनयाय । स्वःऽवित् ।
+> विशाम् । गोपाः । जनिता । रोदस्योः । देवाः । अग्निम् । धारयन् । द्रविणःऽदाम् ॥ ४ ॥
+
+*saḥ | mātariśvā | puruvāra-puṣṭiḥ | vidat | gātum | tanayāya | svaḥ-vit | viśām | gopāḥ | janitā | rodasyoḥ | devāḥ | agnim | dhārayan | draviṇaḥ-dām ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 96.4)**
+
+> सोऽग्निस्तनयायास्मदीयाय पुत्राय गातुमनुष्ठानमार्गं विदत् । लम्भयतु । कीदृशः । मातरिश्वा मातरि सर्वस्य जगतो निर्माताय्यन्तरिक्षे श्वसन्स्वर्तमानः पुरुवारपुष्टिः । पुरुभिर्बहुभिर्वारा वरणीया पुष्टिर्वृद्धिर्यस्य स तथोक्तः । स्वर्वित् । स्वः स्वर्गस्य योगाद्वारेण लम्भयिता । विशां सर्वासां प्रजानां गोपा गोपायिता । रक्षिता । रोदस्योर्द्यावापृथिव्योर्जनिता जनयितोत्पादयिता । देवा इत्यादि गतं ॥ मातरिश्वा । श्वसन्नित्यादौ मातृशब्दोपपदात् श्वस प्राणन इत्यस्मात् कनिन्प्रत्ययान्तो निपात्यते । विदत् । विद्ल लाभे । आस्मादन्तर्भावितण्यर्थाच्छन्दसो लुङ् । लृदित्त्वात् च्लेरङादेशः । पादादित्वान्निघाताभावः । जनिता । जनिता मन्त्रे । पा. ६-४-५३ । इति तृचि णिलोपो निपात्यते ॥
+> *so 'gnis tanayāyāsmadīyāya putrāya gātum anuṣṭhānamārgaṃ vidat | lambhayatu | kīdṛśaḥ | mātariśvā mātari sarvasya jagato nirmātāyy antarikṣe śvasan svartamānaḥ puruvārapuṣṭiḥ | purubhir bahubhir vārā varaṇīyā puṣṭir vṛddhir yasya sa tathoktaḥ | svarvit | svaḥ svargasya yogādvāreṇa lambhayitā | viśāṃ sarvāsāṃ prajānāṃ gopā gopāyitā | rakṣitā | rodasyor dyāvāpṛthivyor janitā janayitotpādayitā | devā ity ādi gataṃ ‖ mātariśvā | śvasann ity ādau mātṛśabdopapadāt śvasa prāṇana ity asmāt kaninpratyayānto nipātyate | vidat | vidḷ lābhe | āsmād antarbhāvitaṇyarthāc chandaso luṅ | lṛdittvāc ceḥ aṅādeśaḥ | pādāditvān nighātābhāvaḥ | janitā | janitā mantre | pā. 6-4-53 | iti tṛci ṇilopo nipātyate ‖*
+
+*(The print's text of the bhāṣya is clotted at* nirmātāyy antarikṣe śvasan svartamānaḥ *[?]. Sense, mine and tentative, from the Kannada below: "That Agni, for our son, find (*vidat*, 'cause to obtain') the path (*gātu*) of conduct — what kind? He is* mātariśvan*, who draws breath (*śvasan*) in the atmosphere, the maker of all the world in the mother [? the clotted phrase]; of* puruvārapuṣṭi *— whose growth is to be chosen by many (*purubhiḥ vārā*); *svarvid*, one who causes the attainment of heaven through the door of yoga; the guardian of all peoples; the begetter of heaven and earth. 'The gods…' as before.")* Tail (characterized): *mātariśvā* — derived irregularly by the suffix *kanin* after the root *śvas* (to breathe) with the word *mātṛ* as upapada; *vidat* — root *vidḷ* (to obtain), a Vedic *luṅ* with the causative sense included; *aṅ* for *cli* by the *ḷ*-marker; the *nighāta* is blocked since the verb begins a pāda; *janitā* — *janitā mantre* (Pā. 6-4-53): in the *tṛc*, the loss of *ṇi* is irregularly stated.
+
+---
+
+**Progress note:** Printed pp. 1–85 done (PDF 21–105): Sūkta 95 complete; **Sūkta 96** (9 Ṛks; Draviṇodas; printed pp. 61–?): Riks 96.1–96.3 complete (96.3's Special Topics on pp. 81–83, grammar on pp. 83–84); Rik 96.4: Saṃhitā, Pada and the Sāyaṇa-bhāṣya (with its grammatical tail, p. 85) done. Next: printed p. 86 (PDF 106) — the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of Rik 96.4, then Rik 96.5. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–96 (pp. 1–85) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95 and 96 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–95.11 (see the earlier notes); in 96.1–96.3 the Yāska quotations on pp. 64–66 (Ni. 8-1, 8-2), the Bṛhaddevatā verses on pp. 67, 70 and 75, the Aitareya Brāhmaṇa and Taittirīya Brāhmaṇa quotations on pp. 74–76, the clotted passages on pp. 77–78 (Sāyaṇa on *ardayaḥ*; Ṛ. 1-104-4; *kṣṛvaṇigbharatā*), the first Ṛgveda quotation on p. 82 (*ratho na vikṣv ṛñjasāna…*), the print's *prota* for *potrād* (p. 82) and the Ṛgveda numerals throughout [?]; in 96.4 the bhāṣya's *nirmātāyy antarikṣe śvasan svartamānaḥ* [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
