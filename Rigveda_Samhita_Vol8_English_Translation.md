@@ -10516,4 +10516,98 @@ Grammar page, noted briefly; it is printed on the next page (p. 382).
 
 ---
 
-**Progress note:** Printed pp. 1–381 done (PDF 21–401): **Sūkta 103** (8 Ṛks) in progress: Rik 103.4 complete (pp. 373–378); Rik 103.5 (printed pp. 378–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics (*oṣadhīḥ*, *vanāni* with its meanings, *śrad dhattana*) done to p. 381; the grammar page follows on p. 382. Next: printed p. 382 (PDF 402): the grammar of 103.5; then Riks 103.6–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 382 (PDF 402)
+
+*(Running head: left 382; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**Special Topics of Rik 103.5, concluded (Kannada)**
+
+> त्वयेदिन्द्र युजा वयं प्रति ब्रुवीमहि स्पृधः । त्वमस्माकं तव स्मसि ॥
+> *tvayed indra yujā vayaṃ prati bruvīmahi spṛdhaḥ | tvam asmākaṃ tava smasi ‖*
+> (*Ṛ. Saṃ.* 8-[?]3-[?] as read [?])
+
+> नहि त्वा शूर देवा न मर्तासो दित्सन्तम् । भीमं न गां वारयन्ते ।
+> *(this second Ṛk is not read in full and is left uncompleted [?])*
+
+> नहि ... स्वं बलाकरं मर्डितारं शतक्रतो । त्वं न इन्द्र मृळय ॥
+> *nahi … tvaṃ balākaraṃ marḍitāraṃ śatakrato | tvaṃ na indra mṛḷaya ‖*
+> (*Ṛ. Saṃ.* 8-[?]0-[?] as read [?]; the first words of the line are clotted [?])
+
+"— in Ṛks like these, [it is shown] that apart from Indra there is no other protector, that all kinds of happiness must be obtained from him, that devotees are connected with Indra and Indra is connected with his devotees, and therefore only he must be praised, and faith must be placed only in his help.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.5)** *(grammar pages, pp. 382–383, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. They treat: *paśyata* (root *dṛśir prekṣaṇe*; *loṭ*, second person plural; *ta* by *loṭo laṅvat* [Pā. Sū. 3-4-85 as read] and *tasthasthamipāṃ tāṃtaṃtāmaḥ* [Pā. Sū. 3-4-101 as read]; *śap*; *paśya* substituted for the root by *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām…* [Pā. Sū. 7-3-78 as read]; *nighāta*); *puṣṭam* (root *puṣa puṣṭau*; *kta* by *niṣṭhā* [Pā. Sū. 3-2-102 as read]; *ṭ* for the *t* of the affix by the *ṣṭutva* rule; final acute by the affix); *dhattana* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ*, second person plural; *ta*; *tana* for it by *taptanaptanathanāś ca* [Pā. Sū. 7-1-45 as read]; *śluḥ*, hence doubling of the root; *nighāta*); *vīryāya* (*vīrasya bhāvaḥ vīryam*; *yat* by *yat*…; loss of the *a* by *yasyeti ca* [Pā. Sū. 6-4-148 as read]; *svarita* by *tit svaritam* [Pā. Sū. 6-1-185 as read]; dative singular); *gāḥ* (root *gamḷ gatau*; *ḍo* by *gamer ḍoḥ* [Uṇ. Sū. 2-67 as read, ?]; since *ḍit*, loss of the *ṭi*-part; the word *go*; *śas* following; *ā* for the *au*-/*o* by *auto 'mśasoḥ* [Pā. Sū. 6-1-93 as read]; *s* → *ru* → visarga); *avindat* (root *vidḷ lābhe*; *laṅ*, third person singular, *tip*; loss of the *i* by *itaś ca* [Pā. Sū. 3-4-100 as read]; *śa* by *tudādibhyaḥ śaḥ* [Pā. Sū. 6-1-77 as read; *tudādibhyaḥ śaḥ*, Pā. Sū. 3-1-77]; *num* by *śe muciādīnām* [Pā. Sū. 7-1-59 as read] after the root's last vowel" *(the grammar continues on the next page)*
+
+### Page 383 (PDF 403)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 383.)*
+
+"— *mid acontyāt paraḥ* [Pā. Sū. 1-1-47 as read]; the anusvāra for the *n* by the rule of the final; the form *avindat*; *nighāta*); *apaḥ* (the word *ap*; accusative plural; the ending acute by *ūḍidaṃpadādi…* [Pā. Sū. 6-1-171 as read]). The Rik is closed with *‖ 5 ‖* and a rule of dashes.
+
+## Rik 103.6 — printed pp. 383–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.6)**
+
+> भूरिकर्मणे वृषभाय वृष्णे सत्यशुष्माय सुनवाम सोमम् ।
+> य आदृत्या परिपन्थीव शूरोऽयज्वनो विभजन्नेति वेदः ॥ ६ ॥
+
+*bhūrikarmaṇe vṛṣabhāya vṛṣṇe satyaśuṣmāya sunavāma somam | ya ādṛtyā paripanthīva śūro 'yajvano vibhajann eti vedaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.6)**
+
+> भूरिऽकर्मणे । वृषभाय । वृष्णे । सत्यऽशुष्माय । सुनवाम । सोमम् ।
+> यः । आऽदृत्य । परिपन्थीऽइव । शूरः । अयज्वनः । विऽभजन् । एति । वेदः ॥ ६ ॥
+
+*bhūri-karmaṇe | vṛṣabhāya | vṛṣṇe | satya-śuṣmāya | sunavāma | somam | yaḥ | ā-dṛtya | paripanthī-iva | śūraḥ | ayajvanaḥ | vi-bhajan | eti | vedaḥ ‖ 6 ‖*
+
+### Page 384 (PDF 404)
+
+*(Running head: left 384; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.6)**
+
+> भूरिकर्मणे बहुविधेन शत्रुवधादिरूपेण कर्मणा युक्ताय वृषभाय वृषभवत्सर्वेषु देवेषु श्रेष्ठाय वृष्णे सेचनसमर्थाय सत्यशुष्माय अवितथबलायेन्द्राय तदर्थं सोमं सुनवाम । होमार्थं रसरूपं करवाम । शूरः शौर्योपेतो य इन्द्र आदृत्य धनविषयमादरं कृत्वायज्वनोऽयजमानस्य वेदो धनं विभजन् । तस्मादयजमानाद्विभक्तं कुर्वन्नपहरन्नेति । यजमानेभ्यस्तद्धनं दातुं गच्छति । तत्र दृष्टान्तः । परिपन्थीव । यथा मार्गनिरोधकस्तस्करो गच्छतां पुण्यपुरुषाणां धनं बलात्कारेणापहृत्य गच्छति तद्वत् ॥ आदृत्य । दृङ् आदरे । समासेऽनञ्पूर्वे क्त्वो ल्यप् । तस्य स्थानिवद्भावेन कृत्त्वे सति ह्रस्वस्य पिति कृतीति तुक् । परिपन्थीव । छन्दसि परिपन्थिपरिपरिणौ पर्यवस्थातरि । पा. ५-२-८९ । इतीनिप्रत्ययान्तो निपात्यते ॥
+> *bhūrikarmaṇe bahuvidhena śatruvadhādirūpeṇa karmaṇā yuktāya vṛṣabhāya vṛṣabhavat sarveṣu deveṣu śreṣṭhāya vṛṣṇe secanasamarthāya satyaśuṣmāya avitathabalāyendrāya tadarthaṃ somaṃ sunavāma | homārthaṃ rasarūpaṃ karavāma | śūraḥ śauryopeto ya indra ādṛtya dhanaviṣayam ādaraṃ kṛtvāyajvano 'yajamānasya vedo dhanaṃ vibhajan | tasmād ayajamānād vibhaktaṃ kurvan apaharann eti | yajamānebhyas taddhanaṃ dātuṃ gacchati | tatra dṛṣṭāntaḥ | paripanthīva | yathā mārganirodhakas taskaro gacchatāṃ puṇyapuruṣāṇāṃ dhanaṃ balātkāreṇāpahṛtya gacchati tadvat ‖ ādṛtya | dṛṅ ādare | samāse 'nañpūrve ktvo lyap | tasya sthānivadbhāvena kṛttve sati hrasvasya piti kṛtīti tuk | paripanthīva | chandasi paripanthiparipariṇau paryavasthātari | Pā. 5-2-89 | itīnipratyayānto nipātyate ‖*
+
+*(The print's* paripariṇau *is read as* paripariṇau *[?]; the rule-name is clotted.)*
+
+"To Indra, *bhūrikarmaṇe* — joined to action of many kinds, in the form of killing enemies and the like; *vṛṣabhāya* — to the one who, like a bull, is the chief among all the gods; *vṛṣṇe* — able to sprinkle; *satyaśuṣmāya* — whose strength is not false; for him we *sunavāma* — we press — Soma: we make it juice, for the sake of the oblation. That Indra, who, being *śūraḥ* — endowed with valour — *ādṛtya* — having shown regard concerning wealth — *ayajvanaḥ vedaḥ vibhajan* — dividing the wealth of him who does not sacrifice — takes it away, making it apart from that non-sacrificer: he goes to give that wealth to the sacrificers. Here is the simile: *paripanthīva* — as a highway robber, one who blocks the road, takes by force the wealth of the good people who travel, and goes off, so [Indra]."
+
+*(The grammatical tail is characterized:* ādṛtya *(root* dṛ *'to respect' with* ā*; the* ktvā *replaced by* lyap *in a compound whose first member is not a negative; the augment* tuk *by* hrasvasya piti kṛti tuk*);* paripanthin *(*ini *by* nipātana *in the Veda, in the sense of 'one who stands waiting' [Pā. Sū. 5-2-89, as read [?]])).*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*śūraḥ* — the brave; *yaḥ* — which Indra; *ādṛtya* — having regard for wealth; *ayajvanaḥ* — of those who do not sacrifice; *vedaḥ* — wealth; *paripanthīva* — as a highwayman takes the wealth of travellers; *vibhajan* — taking away; *eti* — goes [to give it to the sacrificer]; *bhūrikarmaṇe* — to him who is endowed with many kinds of heroic deeds, such as killing enemies; *vṛṣabhāya* — the most excellent among all the gods; *vṛṣṇe* — one able to fulfil desired objects; *satyaśuṣmāya* — to Indra, who has a strength that is not in vain; *somaṃ* — the Soma juice; *sunavāma* — we press (for the sacrifice)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Indra, with regard for wealth, takes away the wealth of those who do not sacrifice, as a highwayman takes forcibly the wealth of travellers, and goes in order to give it to the sacrificers. We press Soma juice, for the sacrifice, for that Indra, who is endowed with many heroic deeds, such as the killing of enemies, who is the most excellent among all the gods, who is able to fulfil desired objects, and who has a strength that is not in vain."
+
+**English Translation (as printed)**
+
+> We offer the Soma libation to him who is the performer of many exploits, the best (of the gods), the showerer (of benefits), the possessor of true strength, the hero who, holding respect for wealth, takes it from him who performs no sacrifice like a foot-pad (from a traveller), and proceeds (to give it) to the sacrificer.
+
+### Page 385 (PDF 405)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 385. A printer's signature "25 · VOLUME 8" stands at the foot.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.6 (Kannada)**
+
+"*Bhūrikarmaṇe* — *bahuvidhena śatruvadhādirūpeṇa karmaṇā yuktāya*: to Indra, who is joined to many kinds of action: the killing of enemies such as Vṛtra, the sending of rain, the giving of the wealth of water to those who cry for it, and so on.
+
+*Vṛṣabhāya* — *vṛṣabhavat sarveṣu deveṣu śreṣṭhāya*: to Indra, who, like a bull, is the most excellent among all the gods.
+
+*Vṛṣṇe* — *secanasamarthāya*: to him who is able to fulfil desired objects. It may be derived from the root *vṛṣa* in the sense of binding strength, *vṛṣa śaktibandhane* — meaning 'strength' and 'capacity' — or from the root *vṛṣu secane*, 'to sprinkle'. Here the two senses, 'sprinkling' and 'capacity', are indicated together. For the variety of meanings that the forms derived from this word have, with examples, see the special topics of the Ṛk 1-100-1, in this same volume (see pp. 168–170).
+
+*Satyaśuṣmāya* — *avitathabalāya*: as described in the earlier Ṛks of this same sūkta, to him whose prowess destroys enemies without being in vain, and unfailingly.
+
+*Paripanthī* — *mārganirodhakas taskaraḥ*: 'the thief who blocks the road': as a thief takes by force the wealth of travellers, causing them fear, and robs completely, so Indra too takes completely the wealth of enemies: so the simile is given.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.6)** *(grammar pages, begun on p. 385, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *bhūrikarmaṇe* (*bhūri karma yasya saḥ bhūrikarmā*; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam* [Pā. Sū. 6-2-1 as read]; likewise the accent in *satyaśuṣmāya*); *sunavāma* (root *ṣuñ abhiṣave*; *loṭ*, first person plural; since the *āṭ* [augment] is wanting [*luptāv*], for *s*, loss by *nityaṃ ṅitaḥ* [Pā. Sū. 3-4-99 as read]; *āṭ* by *āḍuttamasya pic ca* [Pā. Sū. 3-4-92 as read]; *śnu*; the *āṭ* being *pit*, no *guṇa* of the root; *guṇa* and *av*-substitution because of *śnu*; *nighāta*)" *(the grammar continues on the next page)*
+
+---
+
+**Progress note:** Printed pp. 1–385 done (PDF 21–405): **Sūkta 103** (8 Ṛks) in progress: Rik 103.5 complete (pp. 378–383); Rik 103.6 (printed pp. 383–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics and the start of the grammar (*bhūrikarmaṇe*, *sunavāma*) done to p. 385. Next: printed p. 386 (PDF 406): the grammar of 103.6 continues; then Riks 103.7–8 (the last). Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
