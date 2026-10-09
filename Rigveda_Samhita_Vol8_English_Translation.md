@@ -15825,5 +15825,120 @@ The *adhvaryu* and the *pratiprasthātṛ* are watching for you, having kindled 
 Grammar pages, noted briefly. *Ānajānā* (root *añju vyaktimrakṣaṇagatiṣu*; *liṭ* → *kānac* by *liṭaḥ kānajvā*, Pā. Sū. 3-2-106 as read [?]; since it is *kit*, the loss of the nasal [*anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-24 as read [?]]; the doubling of the root because of the suffix; for the reduplicate, the lengthening [of the *a*] by *ata ādeḥ*, Pā. Sū. 7-4-70 as read [?]; though the root is not *dvihal* [the *halādi* with two consonants], the augment *nuṭ* by *tasmān nuḍ dvihalaḥ*, Pā. Sū. 7-4-71 as read [?], by *vyatyaya*; the form *ānajāna*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; since it is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]) *(continued on p. 590)*
 
 ---
+### Page 590 (PDF 610)
 
-**Progress note:** Printed pp. 1–589 done (PDF 21–609): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.3 complete (pp. 573–587); Rik 108.4 (printed pp. 587–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 589 (at *ānajānā*, mid-passage). Next: printed p. 590 (PDF 610). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 590; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.4 continues and concludes (noted briefly; numerals small and doubtful [?]). *Ānajānā*, concluded: "…when a single substitute arises, the acute by *ekādeśa udāttenodāttaḥ*, Pā. Sū. 8-2-5 as read [?]; further, as before, *ā* for the ending." *Tistirāṇā* (root *stṛñ ācchādane*; as above, *kānac* for *liṭ*; the doubling of the root; *ṛta it*, Pā. Sū. 7-1-100 as read [?]: first *i* for the root's *ṛ*; *uraṇ raparaḥ*, so *r* follows; since the doubling has arisen, *śarpūrvāḥ khayaḥ*, Pā. Sū. 7-4-61 as read [?], the *kh*-class remains [in the reduplicate], the *t* being retained; since the *repha* is the cause, *ṇatva* of the suffix's *n* by *aṭkupvāṅnumvyavāye 'pi*; the final acute; before the dual, *ā* for the ending as before; since it is a single substitute, the *udātta* accent). *Pariṣiktebhiḥ* (root *ṣica kṣaraṇe*; *kta* in the passive; *k* for *c* by *coḥ kuḥ*, Pā. Sū. 8-2-30 as read [?]; since *pari* is a *gati* [prefix], the accent of the prior member by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]; before *bhis* [instrumental plural], *ais* for *bhis* does not arise by *bahulaṃ chandasi*, Pā. Sū. 7-1-10 as read [?]; *e* for the *a* by *bahuvacane jhaly et*, Pā. Sū. 7-3-103 as read [?]). *Saumanasāya* (*sumanasaḥ bhāvaḥ saumanasam*; the suffix *ṇya* [*ṣyañ*], by *ṇit* the *vṛddhi* by *taddhiteṣv acām ādeḥ*, Pā. Sū. 7-2-117 as read [?]; the accent of the suffix, final acute). The Rik is closed with *‖ 4 ‖* and a rule of dashes.
+
+## Rik 108.5 — printed pp. 590–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.5)**
+
+> यानीन्द्राग्नी चक्रथुर्वीर्याणि यानि रूपाण्युत वृष्ण्यानि ।
+> या वां प्रत्नानि सख्या शिवानि तेभिः सोमस्य पिबतं सुतस्य ॥ ५ ॥
+
+*yānīndrāgnī cakrathur vīryāṇi yāni rūpāṇy uta vṛṣṇyāni | yā vāṃ pratnāni sakhyā śivāni tebhiḥ somasya pibataṃ sutasya ‖ 5 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 591 (PDF 611)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 591.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.5)**
+
+> यानि । इन्द्राग्नी इति । चक्रथुः । वीर्याणि । यानि । रूपाणि । उत । वृष्ण्यानि ।
+> या । वाम् । प्रत्नानि । सख्या । शिवानि । तेभिः । सोमस्य । पिबतम् । सुतस्य ॥ ५ ॥
+
+*yāni | indrāgnī iti | cakrathuḥ | vīryāṇi | yāni | rūpāṇi | uta | vṛṣṇyāni | yā | vām | pratnāni | sakhyā | śivāni | tebhiḥ | somasya | pibatam | sutasya ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.5)**
+
+> हे इन्द्राग्नी यानि वीर्याणि वृत्रवधादिरूपाणि चक्रथुः कृतवन्तौ युवां यानि च रूपाणि निरूप्यमाणानि गवाश्वादीनि भूतजातानि कृतवन्तौ । इन्द्राग्निभ्यां हि सर्वं जगत्सृज्यते । इन्द्रः सूर्यात्मना वृष्टिं सृजत्यग्निश्चाहुतिद्वारा वृष्ट्यृत्पादकः । वृष्टेः सकाशात्सर्वे प्राणिन उत्पद्यन्ते । उतापि च यानि वृष्ण्यानि वृष्टिभवनानि वृष्टिप्रदानादिरूपाणि कर्माणि कृतवन्तौ । तथा वां युवयोः संबन्धीनि प्रत्नानि चिरन्तनानि शिवानि शोभनानि या यानि सख्या सखिभावानि सन्ति । तेभिस्तैः सर्वैः सहितौ युवां सुतस्य सोमस्याभिषुतं सोमं पिबतम् ॥ सख्या । सख्युर्भावः सख्यम् । सख्युर्य इति यप्रत्ययः । शेश्छन्दसि बहुलमिति शेर्लोपः । तेभिः । बहुलं छन्दसीति भिस ऐसभावः । सावेकाच इति प्राप्तस्य विभक्त्युदात्तत्वस्य व गोश्न्नावव र्णेति प्रतिषेधः ॥
+> *he indrāgnī yāni vīryāṇi vṛtravadhādirūpāṇi cakrathuḥ kṛtavantau yuvāṃ yāni ca rūpāṇi nirūpyamāṇāni gavāśvādīni bhūtajātāni kṛtavantau | indrāgnibhyāṃ hi sarvaṃ jagat sṛjyate | indraḥ sūryātmanā vṛṣṭiṃ sṛjaty agniś cāhutidvārā vṛṣṭyutpādakaḥ | vṛṣṭeḥ sakāśāt sarve prāṇina utpadyante | utāpi ca yāni vṛṣṇyāni vṛṣṭibhavanāni vṛṣṭipradānādirūpāṇi karmāṇi kṛtavantau | tathā vāṃ yuvayoḥ saṃbandhīni pratnāni cirantanāni śivāni śobhanāni yā yāni sakhyā sakhibhāvāni santi | tebhis taiḥ sarvaiḥ sahitau yuvāṃ sutasya somasyābhiṣutaṃ somaṃ pibatam ‖ sakhyā | sakhyur bhāvaḥ sakhyam | sakhyur yaḥ iti yapratyayaḥ | śeś chandasi bahulam iti śerlopaḥ | tebhiḥ | bahulaṃ chandasīti bhisa aisabhāvaḥ | sāvekāca iti prāptasya vibhaktyudāttatvasya va gośnnāvavarṇeti pratiṣedhaḥ* *(Sanskrit as read; the last clause of the tail is clotted and given with doubt [?]; the tail is short and given.)*
+
+"O Indra and Agni! the heroic deeds (*vīryāṇi*) in the form of the slaying of Vṛtra and the like which you have done (*cakrathuḥ*), and the forms (*rūpāṇi*) — such as cattle, horses and other beings that are seen — which you have made. For by Indra and Agni all the world is created: Indra, in the nature of the sun, sends out the rain, and Agni, through the oblations, is the cause of the rain; from the rain all beings arise. And also whatever *vṛṣṇyāni* — deeds that give rise to rain, in the form of giving rain and the like — you have done; and those ancient (*pratnāni*), fortunate (*śivāni*) friendships (*sakhyā*) that belong to you two: with all those, together, drink, you two, the pressed Soma of the pressed [juice] (*sutasya somasya*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.5; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *yāni vīryāṇi* — whatever heroic deeds (of the form of slaying Vṛtra); *cakrathuḥ* — you have done; *yāni rūpāṇi* — whatever forms that come into view of the eye (you have created); *uta* — and; *vṛṣṇyāni* — whatever deeds of giving rain and the like (you have done); *vām* — belonging to you two; *pratnāni* — ancient; *śivāni* — auspicious; *yā sakhyā* — whatever kinships in the form of friendship [there are]; *tebhiḥ* — with all those; *sutasya* — [the portion] pressed; *somasya* — of the Soma-juice (your portion); *pibatam* — [both of you] drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, whatever heroic deeds in the form of the slaying of Vṛtra and the like you two have done, whatever forms that come into the sight of the eye you have created, and whatever deeds of giving rain and the like you have done — and, together with all those ancient and auspicious relations of friendship that belong to you both, drink your portion of the Soma-juice that we have pressed.
+
+---
+
+### Page 592 (PDF 612)
+
+*(Running head: left 592; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+**English Translation (as printed in the source)**
+
+"Whatever heroic exploits you have achieved, whatever forms ( you have created ), whatever benefits ( you have poured down ) whatever ancient and fortunate friendships (you have contracted, come with them all) and drink of the effused Soma juice."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.5)**
+
+"In this Ṛk the heroic deeds of Indra and Agni, the beautiful forms created by them, and the ancient relation between the two of them are praised. Since in all these respects both have an equal power, [the poet], pointing these out, prays that both of them should come together and drink the Soma-juice.
+
+**Yāni vīryāṇi** — "that Indra, at the time of his very birth, showed his prowess and asked his mother 'who are my enemies?' is a well-known story.
+
+> आ बुन्दं वृत्रहा ददे जातः पृच्छद्वि मातरम् ।
+> क उग्राः के ह शृण्विरे ॥
+> *ā bundaṃ vṛtrahā dade jātaḥ pṛcchad vi mātaram | ka ugrāḥ ke ha śṛṇvire ‖* (*Ṛ. Saṃ.* 8-4[?]-[?] as read [?])
+
+— in this Ṛk the matter of Indra's asking his mother is told. In the same way Agni too, at the time of his birth, displayed both his power and his beauty:
+
+> आविष्ट्यो वर्धते चारुरासु जिह्माना मूर्ध्वः स्वयशा उपस्थे ।
+> उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते ॥
+> *āviṣṭyo vardhate cārur āsu jihmānām ūrdhvaḥ svayaśā upasthe | ubhe tvaṣṭur bibhyatur jāyamānāt pratīcī siṃhaṃ prati joṣayete ‖* (*Ṛ. Saṃ.* 1-95-5 as read)
+
+— in this Ṛk it is described that, simultaneously, Agni appears in charming loveliness, attracting the heart, and in terrifying strength that causes fear. Possessing an attractive nature, when this Agni advances over the world with unrivalled speed and burning, he becomes fear-inspiring like a lion. For that very reason both Heaven and Earth serve this Agni with reverence. And also:
+
+> वि यत्तिरो धरुणमच्युतं रजोऽतिष्ठिपो दिव आतासु बर्हणा ।
+> स्वर्मीळ्हे यन्मद इन्द्र हर्ष्याहन्वृत्रं निरपामौब्जो अर्णवम् ॥
+> *vi yat tiro dharuṇam acyutaṃ rajo 'tiṣṭhipo diva ātāsu barhaṇā | svarmīḷhe yan mada indra harṣyāhan vṛtraṃ nir apām aubjo arṇavam ‖* (*Ṛ. Saṃ.* 1-[?]4-3 as read [?]; the words as read from the print, doubtful in places [?])
+
+---
+
+### Page 593 (PDF 613)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 593. At the foot, the printer's signature "38 / VOLUME 8" [sic: as printed, noted only].)*
+
+> आवंशे द्यामस्तभायद्बृहन्तमा रोदसी आपृणदन्तरिक्षम् ।
+> स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इन्द्रश्चकार ॥
+> *āvaṃśe dyām astabhāyad bṛhantam ā rodasī āpṛṇad antarikṣam | sa dhārayat pṛthivīṃ paprathac ca somasya tā mada indraś cakāra ‖* (*Ṛ. Saṃ.* 3-[?]1-3 as read [?])
+
+> जघान वृत्रं स्वधितिर्वनेव रुरोज पुरो अरदन्न सिन्धून् ।
+> बिभेद गिरिं नवमिन्न कुम्भमा गा इन्द्रो अकृणुत स्वयुग्भिः ॥
+> *jaghāna vṛtraṃ svadhitir vaneva ruroja puro aradan na sindhūn | bibheda giriṃ navam in na kumbham ā gā indro akṛṇuta svayugbhiḥ ‖* (*Ṛ. Saṃ.* 10-8[?]-2 as read [?])
+
+"— in Ṛks such as these, whatever heroic deeds are described, those are Indra's heroic deeds, done by Indra. In the same way
+
+> वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शम्बरं भेत् ।
+> *vaiśvānaro dasyum agnir jaghanvāṃ adhūnot kāṣṭhā ava śambaraṃ bhet |* (*Ṛ. Saṃ.* 1-59-6 as read)
+
+— the heroic deeds described in Ṛks such as these are done by Agni."
+
+**Yāni rūpāṇi** — "the places of origin of Indra and Agni are themselves delightful; both are by nature of an attractive form, and the deeds of both are beautiful and attractive.
+
+> स हि द्वरो द्वरिषु वव्र ऊधनि चन्द्रबुध्नो मदवृद्धो मनीषिभिः ।
+> *sa hi dvaro dvariṣu vavra ūdhani candrabudhno madavṛddho manīṣibhiḥ |* (*Ṛ. Saṃ.* 1-5[?]-3 as read [?])
+
+— in this Ṛk, by the epithet *candrabudhnaḥ* ('having the moon [or: delight] at his base') applied to Indra, the mid-region [is meant: the origin] of Indra: *sarvāsāṃ prajānām āhlādakamūlaḥ antarikṣasya sarvāhlādakatvāt* — 'having as his root a source of gladness to all beings, because the mid-region gladdens all'. The mid-region, so attractive as to give delight to all, is the place of Indra's origin.
+
+> हरिश्चन्द्रो वर्चसा सूर्यस्य श्रेष्ठै रूपैस्तन्वं स्पर्शयस्व ।
+> *hariś candro varcasā sūryasya śreṣṭhai rūpais tanvaṃ sparśayasva |* (*Ṛ. Saṃ.* 10-1[?]-[?] as read [?])
+
+— in Ṛks such as these, the beauty of Indra's lovely body-form and its expansion, from the *candrabudhna* onwards, are described as exceedingly delightful. This same mid-region is the place of origin of Agni, who is in the form of lightning. Both Indra and Agni, with their natural beauty, manifest their beauty in their deeds and give delight to the world. Darkness, lack of food, oppression by enemies: all these are exceedingly distorted conditions for men; by destroying these distortions, by giving light, food, and protection through the destruction of enemies, Indra and Agni made their forms beautiful in their deeds also.
+
+> केतुं कृण्वन्नकेतवे पेशो मर्या अपेशसे ।
+> समुषद्भिरजायथाः ॥
+> *ketuṃ kṛṇvann aketave peśo maryā apeśase | samuṣadbhir ajāyathāḥ ‖* (*Ṛ. Saṃ.* 1-6-3 as read)
+
+— in places such as these, the portion stating that Indra, in the form of the sun, causes the spreading of form to all beings that are formless, is told here also. And Agni too is in the form of the sun; his work is also to give beautiful form to a world that has been enveloped in ignorance. Therefore the deeds that arose from the association (*sāhacarya*) of Indra and Agni are praised." *(The passage ends the page; the Special Topics continue on p. 594.)*
+
+---
+
+**Progress note:** Printed pp. 1–593 done (PDF 21–613): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.4 complete (pp. 573–590); Rik 108.5 (printed pp. 590–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*yāni vīryāṇi*, *yāni rūpāṇi*; end of p. 593). Next: printed p. 594 (PDF 614). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
