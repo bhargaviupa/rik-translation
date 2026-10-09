@@ -20221,5 +20221,105 @@ In many Ṛks such as these (*Ṛ.* 8-5-23, 8-5-25 as read [?]) it is likewise t
 "Kaṇva saw the cow with a thousand streams, delightful to all and worthy of worship; and when he called her she fulfilled all his desires: this is also stated in the Vājasaneyi Saṃhitā" *(the passage runs on to p. 749)*
 
 ---
+### Page 749 (PDF 769)
 
-**Progress note:** Printed pp. 1–748 done (PDF 21–768): Sūkta 112: Riks 112.1–112.4 complete (pp. 723–743); Rik 112.5 (printed pp. 744–[?]): Saṃhitā, Pada, bhāṣya, tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Rebha, Vandana and Kaṇva, with Skandasvāmi's itihāsas, Ṛg citations, the Bṛhaddevatā on Kaṇva and Pragātha, and the Śatapatha Brāhmaṇa on Kaṇva) done through the foot of p. 748, ending mid-sentence ('…also stated in the Vājasaneyi Saṃhitā'). Next: printed p. 749 (PDF 769). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 749.)*
+
+*(The Special Topics of Rik 112.5 conclude:)* "…and [that Kaṇva's desires were all fulfilled] is also stated in the Vājasaneyi Saṃhitā" — [so it] cites what is said there. Having told of such help given by the Aśvin deities to Kaṇva of such power, [the poet] here prays that such protection may be obtained by himself also.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.5)** *(grammar pages, pp. 749–750, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Rebham*: root *rebhṛ śabde*; 'he who praises' = *rebhaḥ*, since the word belongs to the *pacādi* class, the suffix *ac* by *nandigrahipacādibhyo lyuṇinyacaḥ* (*pā.* 3-1-134 as read [?]); final-*udātta* by the suffix-accent; accusative singular. *Nivṛtam*: root *vṛñ varaṇe*, a root with causative sense included; *niṣṭhā* in the passive by *niṣṭhā* (*pā.* 3-2-102 as read [?]), the suffix *kta*; being *kit*, no *guṇa*; by the suffix-accent it ends in *udātta*; by *gatir anantaraḥ* (*pā.* 6-2-49 as read [?]) the prefix keeps its own accent. *Sitam*: root *ṣiñ bandhane*; *niṣṭhā*, the suffix *kta*; final *udātta* by the suffix-accent; accusative singular. *Adbhyaḥ*: the word *ap*; *bhyas* following, by *apo bhi* (*pā.* 7-4-48 as read [?]) *t* for the *p*; by *ūḍidaṃ padādyappumraidyubhyaḥ* (*pā.* 6-1-171 as read [?]) the case-ending takes *udātta*. *Vandanam*: root *vadi abhivādanastutyoḥ*; 'he who praises' = *vandanaḥ*; since the word belongs to the *nandyādi* class, the suffix *lyu* in the sense of agent by *nandigrahipacādibhyaḥ…*; *ana* for *yu* by *yuvor anākau* (*pā.* 7-1-1 as read [?]); since the suffix is *lit*, by *liti* (*pā.* 6-1-193 as read [?]) the syllable before the suffix takes the *udātta*; accusative singular. *Svaḥ*: *svar* is a name common to the sky and the sun; Yāska too says: *svarādityo bhavati su araṇaḥ su īraṇaḥ* (*Ni.* 2-[?]4 as read [?]); since it is listed under *svarādinipātam avyayam* (*pā.* 1-1-37 as read [?]) it has the designation 'indeclinable'; by *avyayād āpsupaḥ* (*pā.* 2-4-82 as read [?]) *luk* of the case-ending; by *nyañjasvarau svaritau* (*Phiṭ.* [?]4 as read [?]) the *svarita* accent. *Dṛśe*: root *dṛśir prekṣaṇe*; by *dṛśe viśve ca* (*pā.* 3-4-11 as read [?]) the form ending in the suffix *ke* in the sense of *tumun* is irregularly formed; by *kṛnmejantaḥ* (*pā.* 1-1-39 as read [?]) it has the designation 'indeclinable', since it ends in a diphthong.
+
+---
+
+### Page 750 (PDF 770)
+
+*(Running head: left 750; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Siṣāsantam*: root *vana ṣaṇa sambhaktau*; in the sense of wishing, by *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (*pā.* 3-1-7 as read [?]) the suffix *san*; since *sanīvantardha…* (*pā.* 7-2-49 as read [?]) lays down an option, the augment *iṭ* does not occur here; by *janasanakhanāṃ sañjhaloḥ* (*pā.* 6-4-42 as read [?]) the root takes *ā*, with the final substituted; by *sanyaṅoḥ* (*pā.* 6-1-9 as read [?]) doubling of the root; shortening of the reduplicant by *hrasvaḥ*; *i* for it by *sanyataḥ* (*pā.* 7-4-79 as read [?]); after the *san*-ending root, the suffix *śatṛ*; by *abhyastānām ādiḥ* (*pā.* 6-1-189 as read [?]) the first syllable is *udātta*; accusative singular. *Āvatam*: root *av rakṣaṇe*; *laṅ*, second-person dual; since *yad* is connected, the *nighāta* does not arise; since the augment *aṭ* is *udātta*, the first syllable is *udātta*. ‖ 5 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.5.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.6)** *(accent-marks not reproduced)*
+
+> याभिरन्तकं जसमानमारणे भुज्युं याभिरव्यथिभिर्जिजिन्वथुः ।
+> याभिः कर्कन्धुं वय्यं च जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतम् ॥ ६ ॥
+> *yābhir antakaṃ jasamānam āraṇe bhujyuṃ yābhir avyathibhir jijinvathuḥ |*
+> *yābhiḥ karkandhuṃ vayyaṃ ca jinvathas tābhir ū ṣu ūtibhir aśvinā gatam ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.6)**
+
+> याभिः । अन्तकम् । जसमानम् । आऽअरणे । भुज्युम् । याभिः । अव्यथिऽभिः । जिजिन्वथुः ।
+> याभिः । कर्कन्धुम् । वय्यम् । च । जिन्वथः । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ६ ॥
+> *yābhiḥ | antakam | jasamānam | ā-araṇe | bhujyum | yābhiḥ | avyathi-bhiḥ | jijinvathuḥ |*
+> *yābhiḥ | karkandhum | vayyam | ca | jinvathaḥ | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 6 ‖*
+
+---
+
+### Page 751 (PDF 771)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 751.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.6)**
+
+> आरणमगाधं कूपादि । तत्रासुरैः प्रक्षिप्तं जसमानं तैर्हिंस्यमानमन्तकं शत्रूणामन्तकरमेतत्सञ्ज्ञं राजर्षिं हे अश्विनौ याभिरूतिभिरवथः रक्षथः । तथा भुज्युं सर्वस्य पालकमेतत्सञ्ज्ञं समुद्रमध्ये निमग्नं तुग्र्यं तुग्रस्य पुत्रं राजर्षिं याभिरूतिभी रक्षणहेतुभूताभिरव्यथिभिर्व्यथारहिताभिर्नौभिर्जिजिन्वथुः । युवामतर्पयेतम् । एतच्च मन्त्रान्तरे तुग्रो ह भुज्युमश्विनोदमेघे । ऋ. १-११६-३ । इत्यादिके विस्पष्टयिष्यते । अपि च कर्कन्धुं वय्यं च एतत्सञ्ज्ञौ चासुरैः पीड्यमानौ याभिरूतिभिर्जिन्वथः प्रीणयथः । गतमित्यादि पूर्ववत् ॥ जसमानम् । जस हिंसायाम् । यकि प्राप्ते व्यत्ययेन शप् । आरणे । अज्पूर्वादृतेर्ल्युट् । जिजिन्वथुः । जिवि प्रीणनार्थः । लिट्थसि रूपम् ॥
+> *āraṇam agādhaṃ kūpādi | tatrāsuraiḥ prakṣiptaṃ jasamānaṃ tair hiṃsyamānam antakaṃ śatrūṇām antakaram etatsañjñaṃ rājarṣiṃ he aśvinau yābhir ūtibhir avathaḥ rakṣathaḥ | tathā bhujyuṃ sarvasya pālakam etatsañjñaṃ samudramadhye nimagnaṃ tugryaṃ tugrasya putraṃ rājarṣiṃ yābhir ūtibhī rakṣaṇahetubhūtābhir avyathibhir vyathārahitābhir naubhir jijinvathuḥ | yuvām atarpayetam | etac ca mantrāntare tugro ha bhujyum aśvinodameghe | ṛ. 1-116-3 | ityādike vispaṣṭayiṣyate | api ca karkandhuṃ vayyaṃ ca etatsañjñau cāsuraiḥ pīḍyamānau yābhir ūtibhir jinvathaḥ prīṇayathaḥ | gatam ity ādi pūrvavat ‖ jasamānam | jasa hiṃsāyām | yaki prāpte vyatyayena śap | āraṇe | ajpūrvād ṛter lyuṭ | jijinvathuḥ | jivi prīṇanārthaḥ | liṭthasi rūpam ‖*
+
+*(Sanskrit as read; the words* tatrāsuraiḥ *and* tair hiṃsyamānam *and* ajpūrvād ṛter *are doubtful in the print [?].)*
+
+"*Āraṇam*: a fathomless place such as a well. The royal sage named Antaka — the 'ender' of his enemies — who had been thrown into it by the asuras, *jasamānam*, [and was] being harmed by them: him, O Aśvins, with whichever protections you *avathaḥ*, protected. And likewise Bhujyu, the royal sage named so, the protector of all, son of Tugra [*tugryam*], sunk in the middle of the sea: with whichever protections, boats [*naubhiḥ*], which are the cause of protection and are *avyathibhiḥ*, free from trouble, *jijinvathuḥ*: you two satisfied [him]. This will be made plain in another *mantra*, '*tugro ha bhujyum aśvinodameghe*' (*Ṛ.* 1-116-3). And further, with whichever protections you *jinvathaḥ*, please *karkandhum* and *vayyam*, the two so named, harassed by the asuras: come with those, and so on, as before."
+
+*Grammatical tail (short):* *jasamānam*: root *jasa hiṃsāyām*; where *yak* was reached, *śap* occurs by *vyatyaya*. *Āraṇe*: the suffix *lyuṭ* after the root *ṛ* preceded by *ā* [?]. *Jijinvathuḥ*: root *jivi prīṇanārthaḥ*; the form in the *liṭ* second-person dual *thas*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.6; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *āraṇe* — in a fathomless well; *jasamānam* — (by the asuras) harassed; *antakam* — the royal sage Antaka; *yābhiḥ* — by whichever protections (you guarded him); *bhujyum* — the royal sage Bhujyu; *avyathibhiḥ* — [who gave] no distress [?]; *yābhiḥ* — by whichever protections (by the boats); *jijinvathuḥ* — you protected; (and) *karkandhum* — Karkandhu; *vayyam ca* — and Vayya; *yābhiḥ* — by whichever protections; *jinvathaḥ* — (from the oppression of the asuras) you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections together, (to us also) *su ā gatam* — come willingly.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever protections you protected the royal sage named Antaka, who had been thrown into a fathomless well and was being tormented by the asuras; and with whichever protective boats, bringing no harm, you protected the royal sage named Bhujyu; and with whichever protections you protected Karkandhu and Vayya from the oppression of the asuras: with all those protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.6)**
+
+"With those aids by which you rescued Antaka, (when cast into) a deep (pool), and about to be destroyed; by which, inflicting no distress, you preserved Bhujyu, aud [sic] by which you relieved Karkandhu and Vayya; with them, Aswins, come willingly hither."
+
+---
+
+### Page 752 (PDF 772)
+
+*(Running head: left 752; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.6)**
+
+**याभिः जसमानं अन्तकम् (अवथः) — Yābhiḥ jasamānam antakam (avathaḥ).** "By whichever of your protections you protected the royal sage named Antaka": the setting in which Antaka was protected is indicated. This context Sāyaṇa explains in one way and Skandasvāmi in another. In Sāyaṇa's bhāṣya: *āraṇam agādhaṃ kūpādi | tatrāsuraiḥ prakṣiptam | jasamānaṃ hiṃsyamānam | antakaṃ śatrūṇām antakaram etatsañjñaṃ rājarṣiṃ avathaḥ |* — 'one who was thrown into a fathomless well and was harmed by foes; the royal sage named Antaka, you protected'. In Skandasvāmi's bhāṣya:
+
+> अन्तको नाम राजा नद्याः स्रोतसि तपश्चचार । वृष्ट्या च प्रवृद्धाज्जलान्नद्यैनमाह [?] । स उह्यमानस्तपःक्षामतया बाहुभ्यां तां नदीं तरितुमशक्नुवन् मृतकल्पोऽश्विनौ ध्यातेः [?] । तावश्विनौ ध्यातमात्रावेव अद्भ्य उत्तारयाञ्चक्रतुरिति ।
+> *antako nāma rājā nadyāḥ srotasi tapaś cacāra | vṛṣṭyā ca pravṛddhāj jalān nadyainam āha [?] | sa uhyamānas tapaḥkṣāmatayā bāhubhyāṃ tāṃ nadīṃ taritum aśaknuvan mṛtakalpo 'śvināv adhyāyat [?] | tāv aśvinau dhyātamātrāv eva adbhya uttārayāñ cakratur iti |*
+> *(Sanskrit as read; the words marked [?] are doubtful in the print; the Kannada gives the sense.)*
+> "A king named Antaka performed austerities in the current of a river. Rain came, and the water rose; [the river carried him off]. As he was borne along, being weak from austerity and unable to swim across that river with his arms, and nearly dead, he meditated on the two Aśvins. The two Aśvins, the moment they were meditated on, raised him from the waters."
+
+"A king named Antaka was performing austerities in the midst of the stream of a river. Then rain came and the current rose, and carried him away. Because his body was weakened by the austerities, he could not cross with his arms the strong current of that river; being nearly dead, he meditated on the Aśvin deities; and they came at once and lifted him out of the river": so the story runs.
+
+**जसमानम् — Jasamānam.** Sāyaṇa says that it is formed from the root *jasu*, which has the sense of 'harm' (*hiṃsā*), and means 'harmed'. And Skandasvāmi:
+
+> जसु मोक्षणेऽन्यत्र । इह तु सामर्थ्यान्निमज्जनार्थः । निमज्जन्तम् ।
+> *jasu mokṣaṇe 'nyatra | iha tu sāmarthyān nimajjanārthaḥ | nimajjantam |*
+> "*Jasu* [is used] in the sense of release elsewhere; here, by the context, [it has] the sense of sinking: one who is sinking."
+
+— for the root *jasu*, which elsewhere has the sense of 'release', here it means *nimajja*, that is, 'to sink in' [water]: 'one who was sinking, or was about to sink, in the water', says Skandasvāmi. The roots *jasu tāḍane* and *jasu mokṣaṇe* both exist; yet here the sense of the traditional tradition is 'harm'. [The sense of] 'harm' comes directly [from the root]; so the sense of 'distress' results. And, besides, words formed from the root *jas* in the senses 'to be exhausted, to labour, to be harmed through hunger' are used in many Ṛks. For example:
+
+> शयवे चिन्नासत्या शचीभिर्जसुरये स्तर्यं पिप्यथुर्गाम् ।
+> *śayave cin nāsatyā śacībhir jasuraye staryaṃ pipyathur gām |*
+> (*Ṛ.* 1-116-22 as read [?])
+> *(Sanskrit as read from the print; the numeral and the second half are doubtful [?]; no gloss attempted.)*
+
+> वृकाया चिज्जसमानाय शक्तमुत श्रुतं शयवे हूयमाना ।
+> *vṛkāyā cij jasamānāya śaktam uta śrutaṃ śayave hūyamānā |*
+> (*Ṛ.* 7-68-8 as read [?]; cited also on p. 737)
+
+In Ṛks such as these, *jasuraye* and *jasamānāya* mean *śrāntāya*, *utkleśanārhāya*: 'for the weary, for one who has been worn out by distress', 'harassed'. So here too it means 'the harassed'.
+
+---
+
+**Progress note:** Printed pp. 1–752 done (PDF 21–772): Sūkta 112: Riks 112.1–112.5 complete (pp. 723–750); Rik 112.6 (printed pp. 750–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (antakam, jasamānam), ending at the foot of p. 752 (the discussion of the other names — bhujyu, karkandhu, vayya — probably follows). Next: printed p. 753 (PDF 773). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
