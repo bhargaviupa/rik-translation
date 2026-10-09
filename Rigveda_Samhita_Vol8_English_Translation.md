@@ -6496,4 +6496,135 @@ The grammar of Rik 100.11 concludes: *apām* (the word *ap* is always feminine a
 
 ---
 
-**Progress note:** Printed pp. 1–225 done (PDF 21–245): **Sūkta 100** in progress: Rik 100.11 complete (pp. 219–223); Rik 100.12 (printed pp. 223–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English and the Special Topics through the opening of *dasyuhā* (the Nirukta explanation of *dasyu* breaks off at *blind…*) done to the foot of p. 225. Next: printed p. 226 (PDF 246): the Special Topics of 100.12 continue. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?]. on pp. 194–197 the clotted words in Sāyaṇa's story (*garbhaikadeśāyor*, *āruden*, *keveme*), the Nirukta/Ṛgveda numerals on pp. 194–195, the many Pāṇini numerals in the grammar of 100.5, and the clotted Ṛgveda citation and numerals in the grammatical tail of 100.6 [?]. on pp. 198–201 the Śatapatha story's clotted words (*smaika eva*, *asminno*, *pratyatiṣṭhat*) and numeral, the Bṛhaddevatā/Nirukta/Ṛgveda numerals, and the Pāṇini/Paribhāṣā numerals in the grammar of 100.6 [?]. on pp. 202–205 the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.7, the Ṛgveda/Śatapatha/Nirukta numerals on pp. 203–204, and the Nirukta name-counts (25, 26) [?]. on pp. 206–209 the clotted words in 100.8's bhāṣya tail (*vyatyayena…tvam*, *ḷdittvāc ceraṅādeśaḥ*), the first Ṛgveda quotation on p. 208 (*ahohānam*), the Sāyaṇa upodghāta verses (second verse doubtful) and the Ṛgveda numerals on pp. 208–209 [?]. on pp. 210–213 the clotted words in 100.9's bhāṣya tail (*ṇicce mantaḥ śatsaṃnitve*, *liṭi*, *salopa*), *śatroṇ api*, the Ṛgveda numerals in the *vrādhan* quotations, and Skandasvāmin's *yo dāridryāt…* [?]. on pp. 214–217 the grammar of 100.9 (many numerals), the Phiṭsūtra numeral in 100.10's tail, *abhibhavan vartate*, and the Ṛgveda/Nirukta numerals in the *grāma* and *kṛṣṭi* passages [?]; Oldenberg is called 'the English commentator' in the print. on pp. 218–221 the Phiṭsūtra numeral in 100.10's grammar, *apāṃ* in 100.11's bhāṣya, the clotted Nirukta sentence on *jāmi* (3-6), *nṛśaṃsāḥ*, and the Ṛgveda/Nirukta numerals [?]. on pp. 222–225 the Ṛgveda numerals in the *jāmi* quotations, the Uṇādi/Pāṇini/Kāśikā numerals in 100.12's bhāṣya tail, the Nirukta numeral for *dasyu* [?].
+### Page 226 (PDF 246)
+
+*(Running head: left 226; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**Special Topics of Rik 100.12, continued from p. 225 (Kannada)**
+
+"[…the opposite of all of that: destructive, blind,] causing darkness, and violent — such senses the word *dasyu* shows. [The Nirukta:] *dasyur dasyateḥ kṣayārthād upadasyanty asmin rasāḥ upadāsayati karmāṇi* (*Ni.* 7-23 as read [?]) [as read, doubtful [?]]: from the root *das* (*upakṣaye*), which gives the sense 'to cause to waste away', the *dasyu* is known as one who makes the groups of cows and the like dry up and who destroys the sacrificial acts and the like. Vṛtra and the other Asuras all belong to this group of *dasyus*. Those who stop the flow of the waters and conceal the light — by their deeds Indra destroyed them, made the waters flow, and spread the light. Therefore Indra is praised in many places as *dasyuhā*. The word *dasyu* is used in many places as a synonym of the Asuras, but in some places this word is also used of men who are without rites (*karmahīna*). For example —"
+
+> त्वं ह नु त्यददमायो दस्यूँरेकः कृष्टीरवनोरार्याय ।
+> *tvaṃ ha nu tyad adamāyo dasyūm̐r ekaḥ kṛṣṭīr avanor āryāya |*
+> (*Ṛ. Saṃ.* 6-18-3 as read [?])
+
+"— in Ṛks like these, *dasyūn* means 'people without rites'. Because Indra killed both such enemies, Vṛtra and the like, and the *dasyus* who are without rites, Indra has the epithet *dasyuhā*."
+
+> कुवित्सस्य प्र हि व्रजं गोमन्तं दस्युहा गमत् ।
+> *kuvit sasya pra hi vrajaṃ gomantaṃ dasyuhā gamat |*
+> (*Ṛ. Saṃ.* 6-45-24 as read [?])
+
+> अनु त्वा रोदसी उभे क्रक्षमाणमकृपेताम् । इन्द्र यद्दस्युहाभवः ॥
+> *anu tvā rodasī ubhe krakṣamāṇam akṛpetām | indra yad dasyuhābhavaḥ ‖*
+> (*Ṛ. Saṃ.* 8-86-11 as read [?])
+
+> दस्युहनं पूर्भिदमिन्द्र सत्यमस्मभ्यं चित्रं वृषणं रयिं दाः ।
+> *dasyuhanaṃ pūrbhidam indra satyam asmabhyaṃ citraṃ vṛṣaṇaṃ rayiṃ dāḥ |*
+> (*Ṛ. Saṃ.* 10-47-4 as read [?])
+
+"— in many Ṛks like these, Indra's power, and the protection of the world that came from the slaying of the *dasyus*, are made known.
+
+*Bhīmaḥ, ugraḥ* — since Indra, as soon as he was born, took on the form of the war-deity and showed his incomparable valour, the description that the earth and the sky, with the mountains and the rest, trembled shows the greatness of Indra."
+
+> अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते ।
+> *asyed u bhiyā girayaś ca dṛḷhā dyāvā ca bhūmā januṣas tujete |*
+> (*Ṛ. Saṃ.* 1-61-14 as read [?]; the same Ṛk as quoted on p. 170)
+
+> तव त्विषो जनिमन्रेजत द्यौरेजद्भूमिर्भियसा स्वस्य मन्योः ।
+> *tava tviṣo janiman rejata dyaur ejad bhūmir bhiyasā svasya manyoḥ |*
+> (*Ṛ. Saṃ.* 4-17-2 as read [?])
+
+### Page 227 (PDF 247)
+
+*(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 227.)*
+
+> क्रन्दद्विश्वानि भुवनानि वज्रिन् द्यावा रेजेते पृथिवी च भीषा ।
+> *krandad viśvāni bhuvanāni vajrin dyāvā rejete pṛthivī ca bhīṣā |*
+> (*Ṛ. Saṃ.* 8-4[?]-1[?] as read [?])
+
+"— Ṛks like these describe Indra's terrifying nature and his fierceness.
+
+*Sahasracetāḥ* — *bahuvidhajñānaḥ, sarvajña ity arthaḥ*: 'one of manifold knowledge', that is, one who knows everything."
+
+> त्वं विश्वस्य जगतश्चक्षुरिन्द्रासि चक्षुषः ।
+> *tvaṃ viśvasya jagataś cakṣur indrāsi cakṣuṣaḥ |*
+> (*Ṛ. Saṃ.* 10-103-1[?] as read [?])
+
+"— as described in Ṛks like these, since Indra alone is the eye of the whole world, he is praised as all-knowing.
+
+*Śatanīthaḥ* — *bahustutir bahuvidhaprāpako vā*: one who is praised in many ways, or one who obtains many kinds of desired things.
+
+*Ṛbhvā* — *uru bhāsamānaḥ mahān vā*: shining exceedingly, or great.
+
+*Pāñcajanyaḥ* — *gandharvā apsaraso devā asurā rakṣāṃsi pañca janāḥ | niṣādapañcamāś catvāro varṇā vā*: Gandharvas, Apsarases, gods, Asuras and Rākṣasas — five groups; or the four castes with the Niṣādas, the hunter tribe, as the fifth: so Sāyaṇa explains. In this classification there are differences of view. The Nirukta-author, saying that it is not his own view, tells only the views of others:"
+
+> पञ्चजनाः (मम होत्रं जुषध्वम्) गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः ।
+> *pañca janāḥ (mama hotraṃ juṣadhvam) gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ |*
+> (*Ni.* 3-8 as read [?])
+
+"— 'the Gandharvas, Pitṛs, gods, Asuras and Rākṣasas are the five peoples,' say some; 'the four castes, with the Niṣāda as fifth,' say Aupamanyava and the others: [the Nirukta-author] has told only the views of others.
+
+In former times all the gods, addressing Agni, prayed that the oblation offered for them in the sacrifice be accepted and shared with all; and Agni agreed to that:"
+
+> तदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम ।
+> ऊर्जाद उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
+> *tad adya vācaḥ prathamaṃ masīya yenāsurāṃ abhi devā asāma | ūrjāda uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
+> (*Ṛ. Saṃ.* 10-53-4 as read [?])
+
+### Page 228 (PDF 248)
+
+*(Running head: left 228; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+"[This question — whether] the five peoples (*pañcajana*) too should enjoy this oblation — was answered in this sentence; and the author of the Bṛhaddevatā quoted it and discussed who the *pañcajanas* are, showing the differences of opinion:"
+
+> प्रत्युवाचाथ तान्नग्निर्विश्वेदेवा यदोचत माम् । तत्करिष्ये जुषन्तां तु होत्रं पञ्चजना मम ॥
+> *pratyuvācātha tān agnir viśvedevā yad ocata mām | tat kariṣye juṣantāṃ tu hotraṃ pañcajanā mama ‖*
+> (*Bṛ. De.* 7-66 as read [?])
+
+"— in this verse Agni told the answer to the gods, and afterwards explained the word *pañcajana*:"
+
+> शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्निरेते पञ्चजनाः स्मृताः ॥
+> *śālāmukhyaḥ praṇītaś ca putro gṛhapateś ca yaḥ | uttaro dakṣiṇaś cāgnir ete pañcajanāḥ smṛtāḥ ‖*
+> (*Bṛ. De.* 7-62 as read [?])
+
+"— that is: the fire at the entrance part of the hall, the Āhavanīya fire that is carried forward, the Gārhapatya fire, which is the son of the sacrificer, and the southern and northern fires: these five kinds of fires are held to be the five classes — a usage that is traditional; this is one view. Besides —"
+
+> मनुष्याः पितरो देवा गन्धर्वोरगराक्षसाः । गन्धर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥
+> *manuṣyāḥ pitaro devā gandharvoragarākṣasāḥ | gandharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*
+> (*Bṛ. De.* 7-6[8?] as read [?])
+
+"By the first view, the serpents (*uraga*) and the Rākṣasas make up one group; by the second, the Yakṣas and the Rākṣasas make up one group."
+
+> यास्कौपमन्यवावेतानाहतुः पञ्च वै जनान् । निषादपञ्चमान् वर्णान् मन्यते शाकटायनः ॥
+> *yāskaupamanyavāv etān āhatuḥ pañca vai janān | niṣādapañcamān varṇān manyate śākaṭāyanaḥ ‖*
+> (*Bṛ. De.* 7-69 as read [?])
+
+"The view of Yāska [is stated] first, says the author of the Bṛhaddevatā in this sentence. [Yāska] did not make his own view clear in the Nirukta beyond telling the views of others; probably he too accepted that."
+
+> ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते ।
+> *ṛtvijo yajamānaṃ ca śākapūṇis tu manyate |*
+> (*Bṛ. De.* 7-70 as read [?])
+
+"The view of Śākapūṇi: the four priests beginning with the Hotṛ, together with the sacrificer, make five groups."
+
+### Page 229 (PDF 249)
+
+*(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 229.)*
+
+> चक्षुः श्रोत्रं [print: श्रोतं] मनो वाक् च प्राणश्चेत्यात्मवादिनः ।
+> गन्धर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥
+> सर्पाश्च ब्राह्मणे चैव श्रूयन्ते ह्यैतरेयिके ।
+> *cakṣuḥ śrotraṃ [print: śrotaṃ] mano vāk ca prāṇaś cety ātmavādinaḥ | gandharvāpsaraso devā manuṣyāḥ pitaras tathā ‖ sarpāś ca brāhmaṇe caiva śrūyante hy aitareyike |*
+> (*Bṛ. De.* 7-7[?] as read [?]; and *Ai. Brā.* 3-[?]1-5 as read [?])
+
+"Eye, ear, mind, speech and breath: these five are the *pañcajanas*, hold the *ātmavādins* [those who speak of the Self, the adhyātma view]; the Gandharvas and the rest are set out in the Aitareya Brāhmaṇa (*Ai. Brā.* 3-[?]1-5 as read [?]). 'Let such *pañcajanas* too enjoy the oblation': Agni gave this answer to the gods; and in the explanation of the Bṛhaddevatā too differences of opinion were pointed out in this way.
+
+In this Ṛk in question, where Indra is the protector of the *pāñcajanyas*, Indra's greatness is described. Since all the worlds are included in Indra's protection, the word *pāñcajanya* will fit all the opinions given above."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 100.12)** *(grammar pages, begun on p. 229, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *vajrabhṛt* (*vajraṃ bibharti iti vajrabhṛt*; root *ḍubhṛñ bharaṇe*; *kvip* when the word *vajra* is the first member; the augment *tuk* after the short vowel of a root before a *pit kṛt* affix by *hrasvasya piti kṛti tuk* [Pā. Sū. 6-1-71 as read]; the form *vajrabhṛt*; the accent of the last member by *gatikārakopapadāt kṛt* [Pā. Sū. 6-2-139 as read]); *dasyuhā* (root *han hiṃsāgatyoḥ* [as read, ?], *adādi*; *kvip* by *bahulaṃ chandasi*; the word *dasyuhan*; since the first member is a *kāraka*, the accent of the last member); *bhīmaḥ* (root *ñibhī bhaye*; *bibheti asmāt iti bhīmaḥ*; *bhīmādayo 'pādāne* [Pā. Sū. 3-4-74 as read], in the sense of the ablative; *bhiyaḥ ṣuk vā* [Uṇ. Sū. 1-[1?]43 as read, ?]; *mak* after the root; as the affix is *kit*, no *guṇa* of the root vowel; final acute by the affix); *sahasracetāḥ* (*sahasrāṇi cetāṃsi yasya saḥ*; in the *bahuvrīhi*, the first member keeps its accent by *bahuvrīhau prakṛtyā pūrvapadam* [Pā. Sū. 6-2-1 as read]; nominative singular).
+
+---
+
+**Progress note:** Printed pp. 1–229 done (PDF 21–249): **Sūkta 100** in progress: Rik 100.12 (printed pp. 223–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, the whole of the Special Topics (*dasyuhā*, *bhīmaḥ ugraḥ*, *sahasracetāḥ*, *pāñcajanyaḥ* with the Nirukta 3-8 and the Bṛhaddevatā verses on the five peoples) and the first part of the grammar (*vajrabhṛt*, *dasyuhā*, *bhīmaḥ*, *sahasracetāḥ*) done to the foot of p. 229. Next: printed p. 230 (PDF 250): the grammar of 100.12 continues (*śatanīthaḥ*, *ṛbhvā*, *camrīṣaḥ*, *pāñcajanyaḥ*…), then Rik 100.13. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?]. on pp. 194–197 the clotted words in Sāyaṇa's story (*garbhaikadeśāyor*, *āruden*, *keveme*), the Nirukta/Ṛgveda numerals on pp. 194–195, the many Pāṇini numerals in the grammar of 100.5, and the clotted Ṛgveda citation and numerals in the grammatical tail of 100.6 [?]. on pp. 198–201 the Śatapatha story's clotted words (*smaika eva*, *asminno*, *pratyatiṣṭhat*) and numeral, the Bṛhaddevatā/Nirukta/Ṛgveda numerals, and the Pāṇini/Paribhāṣā numerals in the grammar of 100.6 [?]. on pp. 202–205 the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.7, the Ṛgveda/Śatapatha/Nirukta numerals on pp. 203–204, and the Nirukta name-counts (25, 26) [?]. on pp. 206–209 the clotted words in 100.8's bhāṣya tail (*vyatyayena…tvam*, *ḷdittvāc ceraṅādeśaḥ*), the first Ṛgveda quotation on p. 208 (*ahohānam*), the Sāyaṇa upodghāta verses (second verse doubtful) and the Ṛgveda numerals on pp. 208–209 [?]. on pp. 210–213 the clotted words in 100.9's bhāṣya tail (*ṇicce mantaḥ śatsaṃnitve*, *liṭi*, *salopa*), *śatroṇ api*, the Ṛgveda numerals in the *vrādhan* quotations, and Skandasvāmin's *yo dāridryāt…* [?]. on pp. 214–217 the grammar of 100.9 (many numerals), the Phiṭsūtra numeral in 100.10's tail, *abhibhavan vartate*, and the Ṛgveda/Nirukta numerals in the *grāma* and *kṛṣṭi* passages [?]; Oldenberg is called 'the English commentator' in the print. on pp. 218–221 the Phiṭsūtra numeral in 100.10's grammar, *apāṃ* in 100.11's bhāṣya, the clotted Nirukta sentence on *jāmi* (3-6), *nṛśaṃsāḥ*, and the Ṛgveda/Nirukta numerals [?]. on pp. 222–225 the Ṛgveda numerals in the *jāmi* quotations, the Uṇādi/Pāṇini/Kāśikā numerals in 100.12's bhāṣya tail, the Nirukta numeral for *dasyu* [?]. on pp. 226–229 the Ṛgveda numerals in the *dasyu*, *bhīma*, *cakṣus* and *pañcajana* quotations, the Bṛhaddevatā verse numerals and the Aitareya numeral, *śrotaṃ*/*śrotraṃ*, and the Uṇādi numeral in the grammar [?].
