@@ -16508,5 +16508,131 @@ O Indra and Agni, who grant the desired objects: whether you are both in the hea
 Grammar, noted briefly. *Divi* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the locative ending is acute). *Pṛthivyām* (*udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174 as read [?]: the ending is acute). *Oṣadhīṣu* (*oṣaḥ pākaḥ āsu dhīyate iti oṣadhayaḥ*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; the suffix *ki* by *karmaṇy adhikaraṇe ca*, Pā. Sū. 3-3-93 as read [?]; the loss of *ā* of the root by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?], because of the suffix; since the word is read in the *dāsībhārādi* group, the accent of the prior member remains by *prakṛtisvara*; since *oṣaḥ* ends in *ghu* [*dhā*], the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]; in the locative [and other] cases, the *oṣadhi* word has the lengthening by *oṣadheś ca vibhaktāv aprathamāyām*, [as printed, vārttika [?]]).
 
 ---
+### Page 614 (PDF 634)
 
-**Progress note:** Printed pp. 1–613 done (PDF 21–633): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.10 complete (pp. 573–612); Rik 108.11 (printed pp. 612–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and grammar done (pp. 612–613). Next: printed p. 614 (PDF 634): Riks 108.12 and 108.13 (the last). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 614; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.11 concludes. *Apsu* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the locative ending is acute). The Rik is closed with *‖ 11 ‖* and an ornament.
+
+## Rik 108.12 — printed pp. 614–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.12)**
+
+> यदिन्द्राग्नी उदिता सूर्यस्य मध्ये दिवः स्वधया मादयेथे ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ १२ ॥
+
+*yad indrāgnī uditā sūryasya madhye divaḥ svadhayā mādayethe | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 12 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.12)**
+
+> यत् । इन्द्राग्नी इति । उत्ऽइता । सूर्यस्य । मध्ये । दिवः । स्वधया । मादयेथे इति ।
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ १२ ॥
+
+*yat | indrāgnī iti | ut-itā | sūryasya | madhye | divaḥ | svadhayā | mādayethe iti | ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.12), begun at the foot of p. 614**
+
+> हे इन्द्राग्नी उदिता उदितौ उदयं प्राप्तस्य सूर्यस्यादित्यस्य संबन्धिनो दिवो द्योतमानस्यान्तरिक्षस्य मध्ये मध्यभागे स्वधयात्मीयेन तेजसा हविर्लक्षणेन…
+> *he indrāgnī uditā uditau udayaṃ prāptasya sūryasyādityasya saṃbandhino divo dyotamānasyāntarikṣasya madhye madhyabhāge svadhayātmīyena tejasā havirlakṣaṇena…* *(continued on p. 615)*
+
+---
+
+### Page 615 (PDF 635)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 615.)*
+
+> …अन्नेन वा यद्यस्मात्कारणान्मादयेथे तृप्तौ भवथः । तस्मात्कारणादेतेः सर्वस्मादन्तरिक्षभागात् हे कामाभिवर्षकाविन्द्राग्नी आगच्छतं । आगमनानन्तरमभिषुतं सोमं पिबतम् ॥ उदिता । सुपां सुलुगिति षष्ठ्या डादेशः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वम् । मादयेथे । मद तृप्तियोगे । चुरादिरात्मनेपदी ॥
+> *…annena vā yad yasmāt kāraṇān mādayethe tṛptau bhavathaḥ | tasmāt kāraṇād etaiḥ sarvasmād antarikṣabhāgāt he kāmābhivarṣakāv indrāgnī āgacchataṃ | āgamanānantaram abhiṣutaṃ somaṃ pibatam ‖ uditā | supāṃ suluk iti ṣaṣṭhyā ḍādeśaḥ | divaḥ | ūḍidam iti vibhakter udāttatvam | mādayethe | mada tṛptiyoge | curādir ātmanepadī ‖* *(Sanskrit as read; the tail is short and given.)*
+
+"…with your own radiance (*svadhayā*), whose form is that of the oblation, or with food — since you rejoice (*mādayethe*), you are in satisfaction: therefore from that reason, from all this part of the mid-region, O showerers of desires, Indra and Agni, come; after coming, drink the pressed Soma. *Uditā*: *ḍā* for the sixth case ending by *supāṃ suluk*. *Mādayethe*: root *mada tṛptiyoge*, of the *curādi* class, in the middle voice."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.12; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni (both of you); *uditā* — risen; *sūryasya* — belonging to the sun; *divaḥ* — of the shining; *madhye* — in the middle part of the mid-region; *svadhayā* — by your own radiance (shining); *yat* — perhaps; *mādayethe* — you rejoice, being satisfied; *ataḥ pari* — from the whole of that part of the mid-region; *vṛṣaṇau* — O Indra and Agni, who grant the desired objects; *ā hi yātam* — certainly graciously come; *atha* — afterwards; *sutasya* — pressed; *somasya* — Soma-juice (your portion); *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who grant the desired objects: even if you two are rejoicing, shining by your own radiance in the middle part of the shining mid-region that belongs to the sun who has risen, come graciously from that whole part of the mid-region to our sacrifice. After coming, drink your portion in the Soma-juice that has been pressed for you.
+
+**English Translation (as printed in the source)**
+
+"Although, Indra and Agni, in the midst of the sky, on the rising of the sun, you may be exhilarated by your own splendour, yet, showerers of benefits, come hither from wherever you may be, and drink of the effused libation."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.12)**
+
+**Uditā sūryasya divaḥ madhye** — "[to this sentence] Sāyaṇa has given the meaning: *udayaṃ prāptasya ādityasya saṃbandhinaḥ dyotamānasya antarikṣasya madhyabhāge* — 'in the middle part of the mid-region, which belongs to the sun who has risen, and is shining'. Skandasvāmin has divided this sentence into two parts: *yadi udeṣyasya sūryasya | ādityasya udayavelāyāṃ* — 'at the time of rising of the sun who is about to rise, or *yadi madhye divaḥ*, in the middle of the day' (that is, at the middle of the day, at noon): so he has explained. 'Come to drink Soma in our sacrifice, even if you are rejoicing in the middle part of the mid-region'; this is one meaning; and 'even if you are rejoicing at the time of the sun's rising, or at the noon': and thus another meaning arises."
+
+---
+
+### Page 616 (PDF 636)
+
+*(Running head: left 616; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+"— *athavā madhyāhnakāladalli harṣavannu anubhavisuttiddarū sahā* — 'or even if you are enjoying yourselves in the noon time'; so a further meaning arises.
+
+**Svadhayā mādayethe** — "to be delighted by *svadhā*. Here for the word *svadhayā*, Sāyaṇa has given two kinds of meanings: *ātmīyena tejasā havirlakṣaṇena annena vā*, 'by your own radiance, or by the food that has the form of an oblation'. The Nirukta-author has read the word *svadhā* both among the names of water (*Ni.* 1-[?]2) and among the names of food (*Ni.* 2-[?]). But in many places the word *svadhā* has the meanings 'one's own greatness, one's own radiance, or one's own power'.
+
+> अधो व्यचश्चादुत्तराम् अनु द्यून् [?] अजरामृता चरति स्वधाभिः ।
+> *adho vy ac cād uttarām anu dyūn [?] ajarāmṛtā carati svadhābhiḥ |* (*Ṛ. Saṃ.* 1-1[?]3-1[?]; the first words are clotted in print and given as read, doubtful [?])
+
+— in this Ṛk, used in the sense of Uṣas's *paratva* [?], *svadhābhiḥ* means 'with her own radiances'. Likewise —
+
+> यद्वा स्वधाभिरधितिष्ठथो रथमत आ यातमश्विना ।
+> *yad vā svadhābhir adhitiṣṭhatho ratham ata ā yātam aśvinā |* (*Ṛ. Saṃ.* 8-[?]0-[?] as read [?])
+
+— in this Ṛk *svadhābhiḥ* means 'with your own radiances, or with your own powers' [Kannada: 'with *ātmīya* [own] radiances *balyai*vā? [?]']. Likewise —
+
+> आस्थाद्रथं स्वधया युज्यमानमा यमश्वासः सुयुजो वहन्ति ।
+> *āsthād ratham svadhayā yujyamānam ā yam aśvāsaḥ suyujo vahanti |* (*Ṛ. Saṃ.* 2-2[?]-1 as read [?])
+
+— in Ṛks such as these too, the sense is 'one's own power' or 'greatness'.
+
+**Svadhām anu** — or the expressions *anu svadhām* — as they occur naturally, they carry the sense 'by nature', 'in the manner of their own nature'.
+
+> स्वधामनु श्रियं नरो मही त्वेषा अमवन्तो वृषप्सवः ।
+> *svadhām anu śriyaṃ naro mahī tveṣā amavanto vṛṣapsavaḥ |* (*Ṛ. Saṃ.* 8-20-7 as read [?])
+
+> वि विद्युतो न वृष्टिभी रुचाना अनु स्वधामायुधैर्यच्छमानाः ।
+> *vi vidyuto na vṛṣṭibhī rucānā anu svadhām āyudhair yacchamānāḥ |* (*Ṛ. Saṃ.* 5-5[?]-[?] as read [?])
+
+— in Ṛks such as these, the sense is 'naturally', 'by nature'.
+
+> आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ।
+> *ānīd avātaṃ svadhayā tad ekaṃ tasmād dhānyan na paraḥ kiṃ canāsa |* (*Ṛ. Saṃ.* 10-129-2)
+
+— in this Ṛk Sāyaṇa has explained that *svadhā* is *svasmin dhīyate dhriyate āśritya vartate iti svadhā*, 'that which is supported in itself, that which rests by taking [it] as support' — *svāśrayā*, 'having itself as its own support': therefore it is an epithet of *māyā*." *(continued on p. 617)*
+
+---
+
+### Page 617 (PDF 637)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 617.)*
+
+> आचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टम् ।
+> *ācakrayā yat svadhayā suparṇo havyaṃ bharan manave devajuṣṭam |* (*Ṛ. Saṃ.* 4-2[?]-4 as read [?])
+
+"— in this Ṛk the sense is 'by the chariot'; and
+
+> आपश्यं ग्रामं वहमानमाराद चक्रया स्वधया वर्तमानम् ।
+> *āpaśyaṃ grāmaṃ vahamānam ārād acakrayā svadhayā vartamānam |* (*Ṛ. Saṃ.* 10-27-19 as read)
+
+— in this Ṛk the sense is 'by the army, supporting itself'; and
+
+> यस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदन्ति ।
+> *yasya trī pūrṇā madhunā padāny akṣīyamāṇā svadhayā madanti |* (*Ṛ. Saṃ.* 1-164-21 as read)
+
+> आजातशत्रुमजरा स्वर्वत्यनु स्वधामिता दस्मवीयते ।
+> *ājātaśatrum ajarā svarvaty anu svadhām itā dasma īyate |* (*Ṛ. Saṃ.* 3-5[?]-1 as read [?]; the words as read, "dasma" doubtful [?])
+
+> स्प्राद्दाः पितृभ्यः स्वधया ते अक्षन्नद्धि त्वं देव प्रयता हवींषि ।
+> *prādāḥ pitṛbhyaḥ svadhayā te akṣann addhi tvaṃ deva prayatā havīṃṣi |* (*Ṛ. Saṃ.* 10-15-1[?] as read [?]; "sprād-" as printed [?])
+
+— in Ṛks such as these, both in these and in the same way in the Ṛk at hand, it can be understood as 'food'; or else, 'with radiances'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.12)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Uditā* (root *iṇ gatau*, with *ut*; *niṣṭhā*, *kta*; by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?], since *ut* is a *gati*, the accent of the prior member; before the dual of the sixth case, *ḍā* [for *os*] by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). *Sūryasya* (root *ṣūṅ prasave* [print: *ṣūr*, *prasave*]; the form is a *nipātana* with the suffix *kyap* by *rājasūyasūrya…*, Pā. Sū. 3-1-114 as read [?]; the sixth case singular). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). *Mādayethe* (root *madī tṛptiyoge* [print: *mada*], *curādi*, always in the middle voice; the suffix *ṇic* by *satyāpapāśa…*, Pā. Sū. 3-1-25 as read [?], in its own sense; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; *laṭ*, second person dual, *āthām*; *ā* → *e* [*iy*?] for the *ā* by *ātoṅitaḥ*, Pā. Sū. 7-2-81 as read [?]; the loss of *y* by *lopo vyor vali*, Pā. Sū. 6-1-66 as read [?]; *śap*; since its cause [the suffix] has *guṇa*, *ay*; because of the *yad*-connection, the prohibition of *nighāta* by *nipātair yadyadihantakuvidnetracet*…, Pā. Sū. 8-1-30 as read [?]) *(continued on p. 618)*
+
+---
+
+**Progress note:** Printed pp. 1–617 done (PDF 21–637): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.11 complete (pp. 573–614); Rik 108.12 (printed pp. 614–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 617 (at *mādayethe*, mid-sentence). Next: printed p. 618 (PDF 638): the end of that grammar, then Rik 108.13 (the last). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
