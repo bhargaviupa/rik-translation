@@ -13321,5 +13321,122 @@ Grammar pages, noted briefly. *Suparṇāḥ* (*śobhanāḥ parṇāḥ yasya s
 The grammar of Rik 105.11 continues and concludes (noted briefly). *Āsate* (root *āsa upaveśane*, *adādi*; *laṭ*, third person plural, middle; *ata* for *jh* by *ātmanepadeṣv anataḥ*, Pā. Sū. 7-1-5 as read [?]; *e* for the *ṭi*; *nighāta* since it follows a non-verb). *Ārodhane* (*ārudhyate āvriyate 'nena iti ārodhanam*; root *rudhir āvaraṇe*; *lyuṭ* in the instrumental sense; *ana* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; *guṇa* of the light penult; because the suffix is *lit*, the acute before the suffix by *liti*, Pā. Sū. 6-1-193 as read [?]). *Sedhanti* (root *ṣidhu gatyām*: though by itself it denotes motion, with *ni* understood it denotes 'prevent'; *laṭ*, third person plural; *nighāta*). *Pathaḥ* (the word *pathin*; fifth case singular; being a *bha*-word the *ṭi* is lost by *bhasya ṭer lopaḥ*, Pā. Sū. 7-1-88 as read [?]; since the ending is *anudātta*, by *anudāttasya ca yatrodāttalopaḥ*, Pā. Sū. 6-1-159 as read [?], the ending is acute; in Yāska's view the fifth case is here in the sense of the third). *Yahvatīḥ* (*yahva* is a name for 'great'; the suffix *kvip* in the sense of conduct by the vārttika *sarvaprātipadikebhyaḥ kvib vā vaktavyaḥ*; the name 'root' by *sanādyantā dhātavaḥ*, Pā. Sū. 3-1-32 as read [?]; then *laṭ* with *śatṛ*, the form *yahvat*; the feminine by *ugitaś ca*, Pā. Sū. 4-1-6 as read [?], *ṅīp*; no *num*, because the *āgama*-teaching is not invariable; since *num* is absent, the accent of the *nadī* by *śatur anumo nadyajādī*, Pā. Sū. 6-1-173 as read [?], does not apply by *vyatyaya*). *Apaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). The Rik is closed with *‖ 11 ‖* and an ornament.
 
 ---
+### Page 494 (PDF 514)
 
-**Progress note:** Printed pp. 1–493 done (PDF 21–513): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.11 complete (pp. 441–493). Next: Rik 105.12 begins at printed p. 494 (PDF 514). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 494; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+## Rik 105.12 — printed pp. 494–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.12)**
+
+> नव्यं तदुक्थ्यं हितं देवासः सुप्रवाचनम् ।
+> ऋतमर्षन्ति सिन्धवः सत्यं तातान सूर्यो वित्तं मे अस्य रोदसी ॥ १२ ॥
+
+*navyaṃ tad ukthyaṃ hitaṃ devāsaḥ suprāvācanam | ṛtam arṣanti sindhavaḥ satyaṃ tātāna sūryo vittaṃ me asya rodasī ‖ 12 ‖* *(accent-marks in the print not reproduced; "suprāvācanam" here, with a long *ā* after *su*, is as printed in the Saṃhitā and read *su-pravācanam* in the Pada below)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.12)**
+
+> नव्यम् । तत् । उक्थ्यम् । हितम् । देवासः । सुऽप्रवाचनम् ।
+> ऋतम् । अर्षन्ति । सिन्धवः । सत्यम् । ततान । सूर्यः । वित्तम् । मे । अस्य । रोदसी इति ॥ १२ ॥
+
+*navyam | tat | ukthyam | hitam | devāsaḥ | su-pravācanam | ṛtam | arṣanti | sindhavaḥ | satyam | tatāna | sūryaḥ | vittam | me | asya | rodasī iti ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.12)**
+
+> हे देवासो देवा नव्यं नवतरमुक्थ्यं प्रशस्यं स्तुत्यर्हं सुप्रवाचनं सुष्ठु ऋत्विग्भिर्वाचयितुं शक्यम् । एवंभूतं तद्भवदीयं बलं हितम् । युष्मासु निहितम् । अतो युष्मदीयेन बलेन सिन्धवः स्यन्दनशीला नद्य ऋतमुदकमर्षन्ति । आलस्यराहित्येन सर्वदा प्रेरयन्ति । अशोष्याः सत्यः प्रवहन्तीत्यर्थः । तथा सूर्यः सत्यं सर्वदा विद्यमानं स्वकीयं तेजस्ततान । आतनोति । विस्तारयति । अस्यत्पूर्ववत् [?] ॥ सुप्रवाचनम् । वच परिभाषणे । अस्यात्यन्तादन्येभ्योऽपि दृश्यत इति खलर्थे युच् [?] । अर्षन्ति । ऋर्तेर्लेटि सिब्बहुलं लेटीति सिप् । गुणः । ततान । आन्येषामसि दृश्यत इति संहितायामभ्यासस्य दीर्घत्वम् ॥
+> *he devāso devā navyaṃ navataram ukthyaṃ praśasyaṃ stutyarhaṃ suprāvācanaṃ suṣṭhu ṛtvigbhir vācayituṃ śakyam | evaṃbhūtaṃ tad bhavadīyaṃ balaṃ hitam | yuṣmāsu nihitam | ato yuṣmadīyena balena sindhavaḥ syandanaśīlā nadya ṛtam udakam arṣanti | ālasyarāhityena sarvadā prerayanti | aśoṣyāḥ satyaḥ pravahantīty arthaḥ | tathā sūryaḥ satyaṃ sarvadā vidyamānaṃ svakīyaṃ tejas tatāna | ātanoti | vistārayati | asyatpūrvavat [?] ‖ suprāvācanam | vaca paribhāṣaṇe | asyātyantād anyebhyo 'pi dṛśyata iti khalarthe yuc [?] | arṣanti | ṛrter leṭi sibbahulaṃ leṭīti sip | guṇaḥ | tatāna | ānyeṣām asi dṛśyata iti saṃhitāyām abhyāsasya dīrghatvam ‖* *(Sanskrit as read; the words after "suprāvācanam" and "asyatpūrvavat" are clotted and read with doubt [?]; the tail is short and is given.)*
+
+"O gods! That strength of yours — *navya* (newer), *ukthya* (praiseworthy, worthy of praise), *suprāvācana* (easily recited by the priests) — is *hita*, placed in you. Therefore by your strength the *sindhavaḥ* — rivers, by nature flowing — *ṛtam*, [carry] water; they send it on always, free of sloth: that is, they flow without drying up. So too the sun *satyaṃ tatāna*: spreads his own ever-existing radiance (*tejas*); *ātanoti* — he extends [it]. [The rest] as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.12; Kannada; English)**
+
+*Devāsaḥ* — O gods; *navyam* — newer; *ukthyam* — worthy of praise; *suprāvācanam* — fit to be recited by the priests; *tat* — (your) strength; *hitam* — is established (in you; by that strength of yours); *sindhavaḥ* — the flowing rivers;
+
+---
+
+### Page 495 (PDF 515)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 495.)*
+
+*ṛtam* — the water; *arṣanti* — make flow always (as they do); *sūryaḥ* — the sun; *satyam* — that which is eternal; *tatāna* — makes his lustre spread widely; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, your strength, which is new, worthy of praise and fit to be recited by the priests, is established firmly in you. By that very strength of yours the rivers that flow carry their water always. The sun too makes his eternal lustre spread widely. O Heaven and Earth, know my sorrow, hear this hymn and lift me up.
+
+**English Translation (as printed in the source)**
+
+"That new praiseworthy and commended (vigour) is seated in you, O Gods, (by which) the rivers urge on the waters, and the sun diffuses his constant (light). Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.12)**
+
+**Navyaṃ ukthyaṃ suprāvācanaṃ tat** — "in this sentence *ukthya* means 'worthy of praise, worthy of a hymn', and Sāyaṇa has given the sense of *tat* as 'the power of the gods'. Skandasvāmin says:
+
+> उक्थ्यशब्दोऽत्र उक्थपर्यायः स्तोत्रवचनो न प्रशस्यवचनः । युष्मत्स्तोत्रम् ।
+> *ukthyaśabdo 'tra ukthaparyāyaḥ stotravacano na praśasyavacanaḥ | yuṣmatstotram |* *(as read [?])*
+
+— 'the word *ukthya* here is a synonym of *uktha*; it means "hymn", not "praiseworthy": [it means] the hymn addressed to you'. *Navya* is an epithet of *ukthya*: '*navam tat anyaiḥ stotṛbhir akṛtapūrvam*' [?] — 'new: such as has not been made before by other hymners': so the sense is 'the hymn newly made by me, fit to be recited by the priests'. Or else, '*yuṣmākaṃ māhātmyaṃ navyam | nauter arcatikarmaṇa idaṃ rūpam | stutyaṃ tat praśasyam ukthyaṃ ca hitaṃ ca stotṛbhyaḥ*' [?]: the word *navya* is read among the names of verbs of worship (*Ni.* 3-[?] as read [?]); it is formed from *nauti*, 'to praise': 'your greatness is to be praised and worshipped, and is beneficial to the hymners' — both meanings have been given. Thus he shows both the sense of the praise and of the welfare, and, since they have a connexion with the first half and the second half, he shows that they are separate in meaning, and that the second half of the Ṛk is a different sentence from the first. Sāyaṇa has shown the relation of cause and effect by giving a construction that joins the sense of this second half with the sense of the first half: '*tat bhavadīyaṃ balaṃ hitaṃ yuṣmāsu nihitam*' *(continued on p. 496)*
+
+---
+
+### Page 496 (PDF 516)
+
+*(Running head: left 496; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+"— '*ato yuṣmadīyena balena sindhavaḥ syandanaśīlā nadyaḥ ṛtam udakam arṣanti ālasyarāhityena sarvadā preryanti | aśoṣyāḥ satyaḥ pravahantīty arthaḥ*': 'since your power is established in you, therefore, by that very power, all the rivers too flow carrying the water, without drying up.' The word *hita* here is not, as explained above, 'beneficial' but '*nihita*' — placed, established. What is this power? The real strength of the gods — the power by which they help to carry on all the business of the world — is their guarding of their *vrata* (law, observance). The observances that human sacrificers keep, both in the other world and as the cause of worldly affairs: the gods' keeping of these is a strengthener of their power, so it is said in the Ṛk-saṃhitā itself:
+
+> त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः ।
+> *tvam agne rājā varuṇo dhṛtavratas tvaṃ mitro bhavasi dasma īḍyaḥ |* (*Ṛ. Saṃ.* 2-1-4 as read)
+
+> ऋतावाना नि षेदतुः साम्राज्याय सुक्रतू ।
+> धृतव्रता क्षत्रिया क्षत्रमाशतुः ॥
+> *ṛtāvānā ni ṣedatuḥ sāmrājyāya sukratū | dhṛtavratā kṣatriyā kṣatram āśatuḥ ‖* (*Ṛ. Saṃ.* 8-25-8 as read [?])
+
+> धृतव्रताः क्षत्रिया यज्ञनिष्कृतो बृहद्दिवा अध्वराणामभिश्रियः ।
+> अग्निहोतार ऋतसापो अद्रुहोऽपो असृजन्ननु वृत्रतूर्ये ॥
+> *dhṛtavratāḥ kṣatriyā yajñaniṣkṛto bṛhaddivā adhvarāṇām abhiśriyaḥ | agnihotāra ṛtasāpo adruho 'po asṛjann anu vṛtratūrye ‖* (*Ṛ. Saṃ.* 10-66-8 as read [?])
+
+In many Ṛks such as these, all the deities — Indra, Varuṇa, Agni and the rest — are praised as *dhṛtavrata*, 'holding to their law', and it is said that, by this keeping of rule and by following the path of the *ṛta*, they became able to slay Vṛtra and the like and to make the waters flow. Moreover, the description '*sūryaḥ satyaṃ tatāna*' — the sun spreads his own radiance — likewise shows the power of those gods.
+
+> वि यो रजांस्यमिमीत सुक्रतुर्वैश्वानरो वि दिवो रोचना कविः ।
+> परि यो विश्वा भुवनानि पप्रथेऽदब्धो गोपा अमृतस्य रक्षिता ॥
+> *vi yo rajāṃsy amimīta sukratur vaiśvānaro vi divo rocanā kaviḥ | pari yo viśvā bhuvanāni paprathe 'dabdho gopā amṛtasya rakṣitā ‖* (*Ṛ. Saṃ.* 6-[?]-2 as read [?])
+
+> अग्ने नक्षत्रमजरमा सूर्यं रोहयो दिवि ।
+> दधज्ज्योतिर्जनेभ्यः ॥
+> *agne nakṣatram ajaram ā sūryaṃ rohayo divi | dadhaj jyotir janebhyaḥ ‖* (*Ṛ. Saṃ.* 10-156-4 as read [?])
+
+— in Ṛks such as these it is described that Agni, by his own power, made the sun and the other heavenly bodies shine in the mid-region; and likewise —" *(continued on p. 497)*
+
+---
+
+### Page 497 (PDF 517)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 497. At the foot, the printer's signature "32 / VOLUME 6" [sic: as printed, noted only].)*
+
+> राजाभवो जगतश्चर्षणीनां साकं सूर्यं जनयन्द्यामुषासम् ।
+> *rājā bhavo jagataś carṣaṇīnāṃ sākaṃ sūryaṃ janayan dyām uṣāsam |* (*Ṛ. Saṃ.* 6-30-5 as read [?])
+
+> यदा सूर्यममुं दिवि शुक्रं ज्योतिरधारयः ।
+> *yadā sūryam amuṃ divi śukraṃ jyotir adhārayaḥ |* (*Ṛ. Saṃ.* 8-[?]-10 as read [?])
+
+"— in all these Ṛks, it is described that Indra set the sun and other heavenly bodies in the mid-region and made them shine; and just as the greatness of Varuṇa and the others is praised, so here too the same point is told: 'by the greatness of the deities, *sūryaḥ satyaṃ tatāna*'."
+
+**Satyam** — *sarvadā vidyamānaṃ svakīyaṃ tejaḥ |* "his own lustre, which is always present; the splendour of the sun that shines eternally in a way helpful to the carrying on of the business of the world.
+
+> आप्रा द्यावापृथिवी अन्तरिक्षं सूर्य आत्मा जगतस्तस्थुषश्च ।
+> *āprā dyāvāpṛthivī antarikṣaṃ sūrya ātmā jagatas tasthuṣaś ca |* (*Ṛ. Saṃ.* 1-115-1 as read [?])
+
+— as described in Ṛks such as these, the sun is the soul, of the nature of truth (*satyātmaka*), of the whole world of the moving and the stationary; and in many places it is said that the truth of the sun is the cause of the truth of the world."
+
+**Arṣanti** — *aśoṣyāḥ satyaḥ pravahanti |* "[the rivers] flow at all times in fullness: all this is to be done by the greatness of the deities — such is the purport of the Ṛk."
+
+"Or else —" *(Skandasvāmin)*: "here the word *ṛta* means 'sacrifice' (*yajña*) or 'the sun', and the *sindhavaḥ* are the 'rays': the rays go towards the sacrifice, or towards the sun; he means that the rays spread out towards the sacrifice or the sun — for the word *ṛta* he has explained both 'sacrifice' and 'sun', and for *sindhavaḥ* 'the rays'. Sāyaṇa's explanation, as given above, is the fitting one here." *(Kannada; the Sanskrit sentence of Skandasvāmin, "ṛtaśabdo 'tra yajñavacanaḥ | ādityavacano vā sindhavo raśmaya ucyante | yajñam ādityaṃ vā prati raśmayo gacchantīty arthaḥ", read as printed.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.12)** *(grammar pages, p. 497 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Ukthyam* (root *vaca paribhāṣaṇe*; an Uṇādi suffix *than*; *c* → *k* by *co kuḥ*, Pā. Sū. 7-3-52 as read [?]; *saṃprasāraṇa* of *va*, the form *ukta*, then *ukthāya arham → ukthyam*, with *yat* in the sense of 'worthy of'; the *svarita* accent by *tit svaritam*, Pā. Sū. 6-1-185 as read [?]). *Hitam* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; *hi* for the root by *dadhāter hiḥ*, Pā. Sū. 7-4-42 as read [?]; the final acute from the suffix) *(the grammar continues on p. 498)*
+
+---
+
+**Progress note:** Printed pp. 1–497 done (PDF 21–517): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.11 complete (pp. 441–493); Rik 105.12 (printed pp. 494–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 494–497); its grammar begun at the foot of p. 497 (after *hitam*). Next: printed p. 498 (PDF 518). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
