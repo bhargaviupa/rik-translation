@@ -14335,5 +14335,107 @@ For our protection we invoke Indra, Mitra, Varuṇa, Agni, the strength that has
 > *sadā dānuṃ puruhūta kṣiyantam ahastam indra saṃ piṇak kaṇārum |* (*Ṛ. Saṃ.* 2-[?]0-[?] as read [?]; the last words are as read, doubtful [?])" *(the passage continues on p. 534)*
 
 ---
+### Page 534 (PDF 554)
 
-**Progress note:** Printed pp. 1–533 done (PDF 21–553): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Rik 106.1 (printed pp. 530–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha and printed English done (pp. 530–532); Special Topics begun (the topics *mārutaṃ śardhaḥ* and *sudānavaḥ*, ending at the foot of p. 533 mid-passage). Next: printed p. 534 (PDF 554). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 534; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+"— in Ṛks such as these, *dānu* means 'the mother of Vṛtra', that is, a woman of the Asuras. Since the other meanings of *sudānavaḥ* are 'those who give generously', that sense (generosity) is shown in this Ṛk, as an epithet for all the deities."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.1)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Ūtaye* (*ūtiyūtijūti…*, Pā. Sū. 6-2-[?]0 as read [?]: formed as a *nipātana* with the *ktin* ending, which has the final acute; fourth case singular). *Havāmahe* (root *hveñ spardhāyāṃ śabde ca*; *laṭ*, first person plural, *mahiṅ*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; *saṃprasāraṇa* of the root since *śap* is the cause, by *bahulaṃ chandasi*, Pā. Sū. 2-4-73 as read [?]; the *u* of the root, then *guṇa* because of *śap*; *av*; since the ending is *ā*-final, the lengthening before *yañ* by *ato dīrgho yañi*, Pā. Sū. 7-3-101 as read [?]; *nighāta*). *Durgāt* (*duḥkhena gamyate 'tra iti durgaḥ*; root *gam gatau*; the suffix *ḍa* in the locative sense by *sudurordhikaraṇe*, Vārttika [?]; since it is *ḍit*, the loss of the *ṭi* [of the root]; the accent of the suffix, final acute, hence the accent of the *kṛdanta* latter member of the compound). *Vasavaḥ* (root *vasa nivāse*; the suffix *u* by *śvasyaśisthiphiphyaśi…*, Uṇ. 1-[?]0 as read [?]; vocative, *nighāta* by *āmantritasya ca*). *Pipartana* (root *pṛ pālanapūraṇayoḥ* [print: *pṛ*; by some, *pra*]; *loṭ*, second person plural; because *laṭ*'s *ṭ* is lost, *tha* → *tana* by *taptanaptanathanāś ca*, Pā. Sū. 7-1-45 as read [?]; *śap* [?] *ślu* by *juhotyādibhyaḥ śluḥ*, Pā. Sū. 2-4-75 as read [?]; the doubling of the root by *ślau*; *i* in the reduplicate by *arti-pipartyoś ca*, Pā. Sū. 7-4-77 as read [?]; *tana* is *pit*, so *guṇa* of the root by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84 as read [?]; *raparatva* by *uraṇ raparaḥ*; the form *pipartana*; *nighāta* since a verb follows a non-verb). The Rik is closed with *‖ 1 ‖* and an ornament.
+
+---
+
+### Page 535 (PDF 555)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 535.)*
+
+## Rik 106.2 — printed pp. 535–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.2)**
+
+> ते आदित्या आ गता सर्वतातये भूत देवा वृत्रतूर्येषु शंभुवः ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ २ ॥
+
+*te ādityā ā gatā sarvatātaye bhūta devā vṛtratūryeṣu śaṃbhuvaḥ | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 2 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.2)**
+
+> ते । आदित्याः । आ । गत । सर्वऽतातये । भूत । देवाः । वृत्रऽतूर्येषु । शंऽभुवः ।
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ २ ॥
+
+*te | ādityāḥ | ā | gata | sarva-tātaye | bhūta | devāḥ | vṛtra-tūryeṣu | śaṃ-bhuvaḥ | ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.2)**
+
+> हे आदित्या अदितेः पुत्रा देवाः । ते यूयं सर्वतातये सर्ववीरपुष्टैस्ततायै [?] विस्तारिताय युद्धाय । युद्धेऽस्माकं साहाय्यं कर्तुमित्यर्थः । आ गत । आगच्छत । अपि च वृत्रतूर्येषु संग्रामनामैतत् । संग्रामेषु शंभुवः सुखस्य भावयितारो भूत । भवत ॥ गत । गमेर्लोटि बहुलं छन्दसेति शपो लुक् ॥
+> *he ādityā aditeḥ putrā devāḥ | te yūyaṃ sarvatātaye sarvavīrapuṣṭaistatāyai [?] vistāritāya yuddhāya | yuddhe 'smākaṃ sāhāyyaṃ kartum ity arthaḥ | ā gata | āgacchata | api ca vṛtratūryeṣu saṃgrāmanāmaitat | saṃgrāmeṣu śaṃbhuvaḥ sukhasya bhāvayitāro bhūta | bhavata ‖ gata | gamer loṭi bahulaṃ chandaseti śapo luk ‖* *(Sanskrit as read; "sarvavīrapuṣṭaistatāyai" is clotted and given with doubt [?]; the tail is short and given.)*
+
+"O Ādityas, sons of Aditi, gods! You, for the *sarvatāti* — for a battle that is extended [with the presence of] all the heroes — to help us in the battle, *ā gata*: come. And further, in the *vṛtratūryeṣu* — this is a name for 'battles' — in the battles, be (*bhūta*, *bhavata*) the givers of happiness (*śaṃbhuvaḥ*). *Gata*: root *gam* in the *loṭ*; the *luk* of *śap* by *bahulaṃ chandasi*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.2; Kannada; English)**
+
+*Ādityāḥ* — you who are sons of Aditi; *devāḥ* — O gods; *te* — you; *sarvatātaye* — for the battle that is extended among all the heroes and all the men; *ā gata* — come (for our help); *vṛtratūryeṣu* — in battles; *śaṃbhuvaḥ* — as those who give (us) happiness; *bhūta* — be; *durgāt* — from the impassable road; *ratham na* — as a charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling-place; *sudānavaḥ* — exceedingly liberal Indra and the others; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] release and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, sons of Aditi: come, with all your heroes and with all the heroic men, for our help in the extended battle; and be the givers of happiness to us in the battles. May Indra and the others, who protect the dwelling and are exceedingly liberal, as a charioteer brings the chariot safely through an impassable road, free us from all sin and protect us.
+
+---
+
+### Page 536 (PDF 556)
+
+*(Running head: left 536; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+**English Translation (as printed in the source)**
+
+"Sons of Aditi, come with all (your hosts) to battle ; be to us the cause of happiness in combats, and may they, who are bountiful and bestowers of dwellings, extricate us from all sin as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.2)**
+
+"In the previous Ṛk Aditi was invoked for protection, together with Indra and the other deities; in this Ṛk all the Ādityas are invoked for protection. Here *ādityāḥ* means *aditeḥ putrāḥ devāḥ*: 'gods who are the sons of Aditi'. Aditi is well known as an independent deity. (But in some places this word is used as an epithet of other deities, and in those places their meaning must be understood to suit the context.) Since the nature of this deity is endless, it is described in one way here and in another way there. The relation of Aditi to the Ādityas and to others, and the question how many Ādityas there are, have been dealt with at length in this very part, in the introductory section.
+
+**Ādityāḥ** — *ādityāḥ kasmād ādatte rasān ādatte bhāsaṃ jyotiṣām ādīpto bhāseti vāditeḥ putra iti vā |* (*Ni.* 2-1[?]3 as read [?]) 'Whether [the meaning is] that he takes up the *rasas* ("juices"), or takes the lustre of the luminaries (he is blazing with light), or that he is a son of Aditi': according to this, it is possible to give the meaning of the word *āditya* either as 'one who accepts *rasa*s (waters, [or] "dries up")', or 'one who takes up the lustre of the circles of lights (and shines by his own radiance)', or 'a son of Aditi'. All these are synonyms for Sūrya, and any of the meanings may be given. But since here the word *ādityāḥ* is plural, the word *āditya* applies here not to Sūrya only but to other deities as well. The Nirukta-author himself explains this:
+
+> एवमन्येषामपि देवतानामादित्यप्रवादः स्तुतेयो भवन्ति कद्यैतेन्न्त्रस्य वरुणस्यार्यम्णो दक्षस्य भगस्यांशस्येति ।
+> *evam anyeṣām api devatānām ādityapravādaḥ stuteyo bhavanti kadyaitenn [?] mitrasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti |* (*Ni.* 2-1[?]3 as read [?]; the passage is clotted at "kadyaitenn" and given as read, not completed from memory [?])
+
+---
+
+### Page 537 (PDF 557)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 537.)*
+
+"— 'thus other deities too are spoken of as Ādityas; the hymns of praise belong to Mitra, to Varuṇa, to Aryaman, to Dakṣa, to Bhaga and to Aṃśa' (*Ni.* 2-1[?]3 as read [?]). The praises directed to the Ādityas apply to Mitra, Varuṇa, Aryaman, Dakṣa, Bhaga and Aṃśa: so he shows, and also gives examples. The Ṛk-saṃhitā —
+
+> इमा गिर आदित्येभ्यो घृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि ।
+> शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥
+> *imā gira ādityebhyo ghṛtasnūḥ sanād rājabhyo juhvā juhomi | śṛṇotu mitro aryamā bhago nas tuvijāto varuṇo dakṣo aṃśaḥ ‖* (*Ṛ. Saṃ.* 2-27-1 as read)
+
+— in this Ṛk, six Ādityas are described: Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa and Aṃśa.
+
+> अष्टौ पुत्रासो अदितेर्ये जातास्तन्वस्परि ।
+> *aṣṭau putrāso aditer ye jātās tanvas pari |* (*Ṛ. Saṃ.* 10-72-8 as read)
+
+— in this Ṛk the sons of Aditi are indicated as eight. How the number twelve of the Ādityas, which is now current, is arrived at, was shown in the introductory section, with examples. In many places Aditi and the Ādityas are joined together and invoked for help:
+
+> इन्द्र इन्द्रियैर्मरुतो मरुद्भिरादित्यैर्नो अदितिः शर्म यंसत् ।
+> *indra indriyair maruto marudbhir ādityair no aditiḥ śarma yaṃsat |* (*Ṛ. Saṃ.* 1-10[?]-[?] as read [?])
+
+> आदित्यैर्नो अदितिः शृणोतु यच्छन्तु नो मरुतः शर्म भद्रम् ।
+> *ādityair no aditiḥ śṛṇotu yacchantu no marutaḥ śarma bhadram |* (*Ṛ. Saṃ.* 3-5[?]-[?]0 as read [?])
+
+> विश्व आदित्या अदिते सजोषा अस्मभ्यं शर्म बहुलं वि यन्त ।
+> *viśva ādityā adite sajoṣā asmabhyaṃ śarma bahulaṃ vi yanta |* (*Ṛ. Saṃ.* 6-[?]0-[?] as read [?])
+
+> ता आ विवास नमसा सुवृक्तिभिर्महो आदित्याँ अदितिं स्वस्तये ।
+> *tā ā vivāsa namasā suvṛktibhir maho ādityāṁ aditiṃ svastaye |* (*Ṛ. Saṃ.* 10-[?]-3[?] as read [?])
+
+— in many Ṛks such as these, Aditi and her sons the Ādityas are joined together, and the prayer is for their protection and for the welfare that is to be obtained from them."
+
+**Sarvatātaye** — *sarvair vīrapuruṣaiḥ tatāya vistāritāya yuddhāya |* "for a battle that is extended by all the heroic men: that is, to help us in the battle that is to be fought by [?] us, in the battle that is waged. In general, the word *sarvatāti* is used in the sense of *yajña* [sacrifice]. For example —" *(the passage continues on p. 538)*
+
+---
+
+**Progress note:** Printed pp. 1–537 done (PDF 21–557): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Rik 106.1 complete (pp. 530–534); Rik 106.2 (printed pp. 535–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the topics *ādityāḥ*; *sarvatātaye* begun at the foot of p. 537). Next: printed p. 538 (PDF 558). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
