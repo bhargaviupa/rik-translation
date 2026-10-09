@@ -14791,5 +14791,118 @@ The word *vāja* occurs among the names of food (*Ni.* 2-[?]7) and among the nam
 Grammar pages, noted briefly. *Narāśaṃsam* (*naraiḥ śaṃsanīyo narāśaṃsaḥ*; both members keep their accent at once by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]; the word *nara* is *abanta* by *ṛdoḥ* [?]*ap*, Pā. Sū. 3-3-57 [?] and is initial-acute; the lengthening by *nipātana*; the word *śaṃsa* is formed with *ghañ* after the root *śaṃsu stutau*, and has the initial acute). *Vājayan* (root *vaja vraja gatau*; since the instigator's action is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; after the causal, *śatṛ* in the sense of *laṭ*; *śap* as the vikaraṇa; *guṇa* of *ṇic*; *ay* substituted; the accent of the *ṇic* remains; nominative singular). *Kṣayadvīram* (root *kṣi kṣaye*; *śatṛ* in the sense of *laṭ*; where *śap* would have been expected, *śa* is substituted by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], this receives the name *ārdhadhātuka* [as well as *sārvadhātuka*], hence by *sārvadhātukam apit* it is not treated as *ṅit*; so *guṇa* of the root's *ik*, and *ay*; with *kṣay + at*, since *at* after the *ā*-*upadeśa* [?] has the *lasārvadhātuka* [accent], by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam…*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*; by *ato guṇe*, Pā. Sū. 6-1-97 as read [?], *pararūpa*; since a single substitute with an acute arises, by *ekādeśa udāttenodāttaḥ*, Pā. Sū. 8-2-5 as read [?], the single substitute is acute. The word *kṣayat* ends in *t*" *(the grammar continues on p. 550)*
 
 ---
+### Page 550 (PDF 570)
 
-**Progress note:** Printed pp. 1–549 done (PDF 21–569): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.3 complete (pp. 530–544); Rik 106.4 (printed pp. 544–[?]): all parts done except the end of the grammar, begun at the foot of p. 549 (at *kṣayadvīram*, mid-sentence). Next: printed p. 550 (PDF 570); then Riks 106.5–7. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 550; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+The grammar of Rik 106.4 concludes (noted briefly). *Kṣayadvīram*, concluded: "…the word *kṣayat* ends in *t*; *kṣayanto vīrā yasmin tat kṣayadvīram*; a *bahuvrīhi*, the accent of the prior member by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]." *Pūṣaṇam* (formed as a *nipātana* with the suffix *kanin*, by *śṛ-ṣkhyādibhyaḥ…* [as printed: *śnusnūṣakhan* [?]], Uṇ. 1-[?]2 as read [?]; the lengthening of the penult, which would arise by *inhan…*, Pā. Sū. 6-4-12 as read [?], does not arise, since the rule has been restricted to the *su* [nominative singular] only). *Īmahe* (root *īṅ gatau*; *laṭ*, first person plural, *mahiṅ*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the *vikaraṇa* [*śyan*] is lost by *bahulaṃ chandasi*; *nighāta*). The Rik is closed with *‖ 4 ‖* and an ornament.
+
+## Rik 106.5 — printed pp. 550–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.5)**
+
+> बृहस्पते सदमिन्नः सुगं कृधि शं योर्यत्ते मनुर्हितं तदीमहे ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ ५ ॥
+
+*bṛhaspate sadam in naḥ sugaṃ kṛdhi śaṃ yor yat te manur hitaṃ tad īmahe | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 5 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.5)**
+
+> बृहस्पते । सदम् । इत् । नः । सुऽगम् । कृधि । शम् । योः । यत् ।
+> ते । मनुःऽहितम् । तत् । ईमहे ।
+
+*bṛhaspate | sadam | it | naḥ | su-gam | kṛdhi | śam | yoḥ | yat | te | manuḥ-hitam | tat | īmahe |* *(the second half of the Pada, "ratham na durgāt…", continues on p. 551)*
+
+---
+
+### Page 551 (PDF 571)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 551.)*
+
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ ५ ॥
+
+*ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.5)**
+
+> बृहस्पते सदमित्सदैवा नोऽस्माकं सुगम् । सुखनामैतत् । सुखं कृधि । कुरु । अपि च ते तव स्वभूतं शं शमनीयानां रोगाणामुपशमनं योः पृथक्कर्तव्यानां भयानां यावनं पृथक्करणं मनुर्हितं मनुना ब्रह्मणा हितं स्थापितं त्वय्यवस्थापितम् । यद्वा । मनुष्याणामनुकूलम् । एवंविधं शमनं यावनं च यदस्ति तदीमहे । याचामहे ॥ सुगम् । सुष्ठु गम्यते ऽस्मिन्निति सुगम् । सुदुरोरधिकरण इति गमेर्डः । शं योरिति चैतत्रद्वयं [?] यास्कस्यैवं व्याख्यातं । शमनं च रोगाणां यावनं च भयानां । नि. ४-२१ । इति । मनुर्हितम् । मनेरौणादिक उसिप्रत्ययः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *bṛhaspate sadam it sadaivā no 'smākaṃ sugam | sukhanāmaitat | sukhaṃ kṛdhi | kuru | api ca te tava svabhūtaṃ śaṃ śamanīyānāṃ rogāṇām upaśamanaṃ yoḥ pṛthakkartavyānāṃ bhayānāṃ yāvanaṃ pṛthakkaraṇaṃ manurhitaṃ manunā brahmaṇā hitaṃ sthāpitaṃ tvayy avasthāpitam | yadvā | manuṣyāṇām anukūlam | evaṃvidhaṃ śamanaṃ yāvanaṃ ca yad asti tad īmahe | yācāmahe ‖ sugam | suṣṭhu gamyate 'sminn iti sugam | sudurorādhikaraṇa iti gamer ḍaḥ | śaṃ yor ity etaddvayaṃ [?] yāskasyaivaṃ vyākhyātaṃ | śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānāṃ | ni. 4-2[?] | iti | manurhitam | maner auṇādika usipratyayaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; "etaddvayaṃ" is the print's, doubtful [?]; the tail is short and given.)*
+
+"O Bṛhaspati! always (*sadam it*) make for us (*naḥ*) *sugam*, which is a name for happiness: make happiness. And further, the *śam* that is your own — the allaying of diseases that are to be allayed — and the *yoḥ* — the separation, the keeping apart, of the dangers that are to be kept away: that [which is] *manurhita*, established (*hita*) by Manu — by Brahmā — set in you; or, as favourable to men: such an allaying and a *yāvana* [warding off] as there is, that we ask (*īmahe*), we beg for."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.5; Kannada; English)**
+
+*Bṛhaspate* — O Bṛhaspati; *sadam it* — always; *naḥ* — to us; *sugam* — happiness; *kṛdhi* — make; *manurhitam* — [that which was] established in you by Manu, or beneficial to men; *śam* — the one that cures diseases; *yoḥ* — the one that wards off the dangers; *yat* — whatever power; *te* — your; *tat* — that; *īmahe* — we ask; *durgāt* — from the impassable road; *ratham na* — as a good charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — the exceedingly generous Indra and the other gods; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] release and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Bṛhaspati, always bring us happiness. We ask for that power of yours, established in you by Manu, which cures diseases and wards off dangers. As a good charioteer brings the chariot safely through an impassable road, may Indra and the other gods, who protect the dwelling and are generous in giving, free us from all sin and protect us.
+
+---
+
+### Page 552 (PDF 572)
+
+*(Running head: left 552; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+**English Translation (as printed in the source)**
+
+"Brihaspati, always confer happiness upon us ; we solicit that faculty of both (alleviating pain and obviating peril) implanted in you by Manu : may they, who are bountiful and the givers of dwellings, extricate us from all sins, as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.5)**
+
+**Sadam it** — *sadam iti sadā ity asya paryāyaḥ | it śabdaḥ atra evārthe | sadaiveti arthaḥ |* "*sadam* is a synonym of *sadā* ('always'); the word *it* is here in the sense of *eva*: the meaning is *sadaiva*, 'always'. *Sadam* is a synonym for 'always'; *sadam it* means 'at all times', without break. The Nirukta-author, citing the Ṛk that uses this word —
+
+> देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षितारो दिवेदिवे ।
+> *devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive |* (*Ṛ. Saṃ.* 1-8[?]-1 as read [?])
+
+— has shown that the word *sadam* has the meaning 'always' (*Ni.* 4-1[?] as read [?])."
+
+**Sugam** — *sugam ity api paṭhitam api sukhanāma draṣṭavyam |* "although it is not read among the names of happiness, Skandasvāmin has explained that the word *suga* here means happiness, and, citing —
+
+> अस्मभ्यमिन्द्र वरिवः सुगं कृधि प्र शत्रूणां मघवन्वृष्ण्या रुज ।
+> *asmabhyam indra varivaḥ sugaṃ kṛdhi pra śatrūṇāṃ maghavan vṛṣṇyā ruja |* (*Ṛ. Saṃ.* 1-102-4 as read [?])
+
+— he explains that as in this Ṛk the word *suga* means happiness, so here too it means happiness. Besides this sense, the word *suga* has the sense *śobhanaṃ mārgam*: 'a good road'; from the point of view of travel, an easily traversed path; from the ethical point of view, an excellent path. In both senses this word is used. For example —
+
+> देवयानान्सुगान्पथः कुरुष्व सुमनाः स्वयम् ।
+> *devayānān sugān pathaḥ kuruṣva sumanāḥ svayam |* (*Bṛ. De.* 2-4[?] as read [?])
+
+— in this verse the sense is 'paths that gods can travel easily'. In the same sense, in the Ṛk-saṃhitā too:
+
+> शं नः करत्यर्वते सुगं मेषाय मेष्ये ।
+> नृभ्यो नारिभ्यो गवे ॥
+> *śaṃ naḥ karaty arvate sugaṃ meṣāya meṣye | nṛbhyo nāribhyo gave ‖* (*Ṛ. Saṃ.* 1-43-6 as read)
+
+---
+
+### Page 553 (PDF 573)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 553.)*
+
+"— in this Ṛk, and in the Ṛks 9-[?]3-10, 10-[?]-3 and others, 'a path that can be traversed easily':
+
+> बृहस्पते अप तं वर्तया पथः सुगं नो अस्यै देववीतये कृधि ।
+> *bṛhaspate apa taṃ vartayā pathaḥ sugaṃ no asyai devavītaye kṛdhi |* (*Ṛ. Saṃ.* 2-2[?]-[?] as read [?])
+
+— in Ṛks like these, the word *sugam* has the meaning 'to be reached well, with right [ethical] sight'. '*Yajñānuṣṭhānāya sumatiṃ dehi*': 'give right intelligence for the performance of the sacrifice': the sense is 'the right understanding of those who perform the sacrificial rites'; and
+
+> इन्द्रासोमा सुष्कृते मा सुगं भूद्यो नः कदा चिदभिदासति द्रुहा ।
+> *indrāsomā suṣkṛte mā sugaṃ bhūd yo naḥ kadā cid abhidāsati druhā |* (*Ṛ. Saṃ.* 7-1[?]-2 as read [?])
+
+— in such places it means happiness. The commentator's intention is that this last sense should be taken in the Ṛk at hand."
+
+**Śaṃ yoḥ** — "*śam* means happiness (*Ni.* 3-[?]0); *yoḥ*: *śamanaṃ ca rogāṇāṃ yāvanaṃ bhayānām* (*Ni.* 4-2[?] as read [?]) — that is, the happiness that is the allaying of diseases, and the happiness that is the warding off of fear; the intention is 'allay our diseases and ward off fear'. If one considers the relation between *śaṃyu*, which has the form of happiness, and *śaṃyu*, the son of Bṛhaspati [?] [the Kannada: 'Śaṃyu, the Bṛhaspati-son'], then the suitability of the word *śaṃyoḥ* in the Ṛk, which prays to Bṛhaspati, is well understood. (In Ṛks such as 1-4[?]-3 [as read [?]], also when other deities are prayed to, *śaṃyu* means happiness.) The son of Bṛhaspati is named Śaṃyu.
+
+> तच्छंयोरावृणीमहे ।
+> *tac chaṃyor āvṛṇīmahe |* (*Tai. Saṃ.* 2-6-1[?]-2 as read [?])
+
+— in this the prayer is 'we ask for happiness from Śaṃyu, the son of Bṛhaspati'. In the Ṛk at hand, the sense of *manurhita* — 'beneficial to men': there is a story in the Śatapatha Brāhmaṇa that the happiness which was beneficial to men like this was once taken by Bṛhaspati's son only to the world of the gods and was lost to men:
+
+> अथ शंयोराह । शंयुर्ह वै बार्हस्पत्योऽञ्जसा यज्ञस्य संस्थां विदां चकार स देवलोकमसीयाय तत्तदन्तर्हितमिव मनुष्येभ्य आस ।
+> *atha śaṃyor āha | śaṃyur ha vai bārhaspatyo 'ñjasā yajñasya saṃsthāṃ vidāṃ cakāra sa devalokam asīyāya tat tad antarhitam iva manuṣyebhya āsa |* (*Śa. Brā.* 1-8-1-[?]4 as read [?]; the words as read, "asīyāya" doubtful [?])
+
+— from this Brāhmaṇa sentence it is understood that Śaṃyu, the son of Bṛhaspati, formerly recognized the excellence of the sacrifice and went to the world of the gods to obtain the happiness which could be got by that knowledge. By the fire, that knowledge was lost to men."
+
+---
+
+**Progress note:** Printed pp. 1–553 done (PDF 21–573): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.4 complete (pp. 530–550); Rik 106.5 (printed pp. 550–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*sadam it*, *sugam*, *śaṃ yoḥ*; ending at the foot of p. 553, after the Śaṃyu story). Next: printed p. 554 (PDF 574). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
