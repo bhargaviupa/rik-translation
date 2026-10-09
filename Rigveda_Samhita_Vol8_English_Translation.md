@@ -19710,5 +19710,130 @@ In many Ṛks such as these, [the Aśvins are] furnished with a chariot made of 
 *Tasthuḥ*: root *ṣṭhā gatinivṛttau*; by *chandasi luṅlaṅliṭaḥ* (*pā.* 3-4-6 as read [?]) *liṭ* in the sense of the present; in the third-person plural *us* replaces *jhi*; reduplication of the root, and so on; *nighāta* accent after a finite verb. *(the page ends here; the grammar continues on p. 733)*
 
 ---
+### Page 733 (PDF 753)
 
-**Progress note:** Printed pp. 1–732 done (PDF 21–752): Sūkta 112: Rik 112.1 complete (pp. 723–729); Rik 112.2 (printed pp. 729–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar begun (*tasthuḥ*, p. 732). Next: printed p. 733 (PDF 753) — the rest of the grammar of Rik 112.2, then Rik 112.3. Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 733.)*
+
+*(Grammar of Rik 112.2, continued; short; sūtra numbers only as read, doubtful [?].)* *Vacasam*: root *vaca paribhāṣaṇe*; the suffix *asun* by the rule that all roots take *asun* [*Uṇ.*, as read [?]]; 'there is *vacas* in him' = *vacasam*; the suffix *ac* by *arśa ādibhyo 'c* (*pā.* 5-2-127 as read [?]); by the suffix-accent it ends in *udātta*. *Mantave*: root *mana jñāne*; the suffix *tu* by *kamimanijani…* (*Uṇ.* 1-73 as read [?]); the root's *n* becomes *anusvāra*, then *parasavarṇa*; since the suffix is *nit*, the first syllable is *udātta*; dative singular. *Dhiyaḥ*: 'those who contemplate' = *dhiyaḥ*, praisers; root *dhyai cintāyām*; *kvip* by *kvip ca* (*pā.* 3-2-76 as read [?]); since the *ca*-word in this sūtra draws on the mention of *dṛś* [?] (*anuvṛtti*), the root takes *saṃprasāraṇa*; by *saṃprasāraṇāc ca* (*pā.* 6-1-108 as read [?]) the earlier form; nominative plural. *Karman*: the locative singular of *karman* following; by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) its *luk*; by *na jasambuddhyoḥ* (*pā.* 8-2-8 as read [?]) the loss of *n* is prohibited, even though the word has the designation *pada*. *Iṣṭaye*: by *ktic ktau ca saṃjñāyām* (*pā.* 3-3-174 as read [?]) the suffix *ktic*; since it is *cit*, the final syllable is *udātta*; dative singular. ‖ 2 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.2.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.3)** *(accent-marks not reproduced)*
+
+> युवं तासां दिव्यस्य प्रशासने विशां क्षयथो अमृतस्य मज्मना ।
+> याभिर्धेनुमस्वं पिन्वथो नरा ताभिरू षु ऊतिभिरश्विना गतम् ॥ ३ ॥
+> *yuvaṃ tāsāṃ divyasya praśāsane viśāṃ kṣayatho amṛtasya majmanā |*
+> *yābhir dhenum asvaṃ pinvatho narā tābhir ū ṣu ūtibhir aśvinā gatam ‖ 3 ‖*
+
+---
+
+### Page 734 (PDF 754)
+
+*(Running head: left 734; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.3)**
+
+> युवम् । तासाम् । दिव्यस्य । प्रऽशासने । विशाम् । क्षयथः । अमृतस्य । मज्मना ।
+> याभिः । धेनुम् । अस्वम् । पिन्वथः । नरा । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ३ ॥
+> *yuvam | tāsām | divyasya | pra-śāsane | viśām | kṣayathaḥ | amṛtasya | majmanā |*
+> *yābhiḥ | dhenum | asvam | pinvathaḥ | narā | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.3)**
+
+> हे नरा नेतारावश्विनौ दिव्यस्य दिवि भवस्य स्वर्गसमुत्पन्नस्यामृतस्य सोमस्य पानेनोत्पन्नेन मज्मना बलेन युक्तौ युवं युवां तासां याः प्रजासु लोकेषु वर्तन्ते तासां सर्वासां विशां प्रजानां प्रशासने प्रकृष्टानुशासने शिक्षणे क्षयथः । ऐश्वर्यकर्मायम् । ईशाथे । समर्थौ भवथः । यद्वा । मज्मनान्येषामसाधारणेन बलेन विशां प्रजानां दिविभवस्यामृतस्य वृष्ट्युदकस्य प्रशासने प्रदाने क्षयथः । ईश्वरौ भवथः । अपि च याभिरूतिभी रक्षाभिरस्वं प्रसवासमर्थां धेनुं गां शयुनाम्ने ऋषये पिन्वथः सिञ्चथः पयसा पूरितामकुरुतमित्यर्थः । ताभिरूतिभिरित्यादि पूर्ववत् ॥ अस्वम् । षूङ् प्राणिगर्भविमोचने । सवनं सूः । सम्पदादिलक्षणो भावे क्विप् । नास्ति सूर्यस्याः असूः [?] । नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । अमि ओः सुपीति [?] यणादेशः । उदात्तस्वरितयोर्यणः इति परस्यानुदात्तस्य स्वरितत्वम् [?] । पिन्वथः । पिवि सेवने । इदित्त्वान्नुम् । भौवादिकः ॥
+> *he narā netārāv aśvinau divyasya divi bhavasya svargasamutpannasyāmṛtasya somasya pānenotpannena majmanā balena yuktau yuvaṃ yuvāṃ tāsāṃ yāḥ prajāsu lokeṣu vartante tāsāṃ sarvāsāṃ viśāṃ prajānāṃ praśāsane prakṛṣṭānuśāsane śikṣaṇe kṣayathaḥ | aiśvaryakarmāyam | īśāthe | samarthau bhavathaḥ | yadvā | majmanānyeṣām asādhāraṇena balena viśāṃ prajānāṃ divibhavasyāmṛtasya vṛṣṭyudakasya praśāsane pradāne kṣayathaḥ | īśvarau bhavathaḥ | api ca yābhir ūtibhī rakṣābhir asvaṃ prasavāsamarthāṃ dhenuṃ gāṃ śayunāmne ṛṣaye pinvathaḥ siñcathaḥ payasā pūritām akurutam ity arthaḥ | tābhir ūtibhir ity ādi pūrvavat ‖ asvam | ṣūṅ prāṇigarbhavimocane | savanaṃ sūḥ | sampadādilakṣaṇo bhāve kvip | nāsti sūr yasyāḥ asūḥ [?] | nañsubhyām ity uttarapadāntodāttatvam | ami oḥ supīti [?] yaṇādeśaḥ | udāttasvaritayor yaṇaḥ iti parasyānudāttasya svaritatvam [?] | pinvathaḥ | pivi sevane | iditvān num | bhauvādikaḥ ‖*
+
+*(Sanskrit as read; the words marked [?], in the clauses on* asvam *and the* yaṇ *rule, are clotted in the print and are not completed from memory.)*
+
+"O leaders, Aśvins! endowed with *majmanā*, strength, arisen from the drinking of the *amṛta*, the Soma, *divyasya*, belonging to heaven and arisen in the sky, you *kṣayathaḥ*, are able, in the *praśāsane*, the supreme ruling, the instruction, of *tāsām viśām*, all those peoples who dwell in the worlds. *Kṣi* is a word of lordship: *īśāthe*: you two become able. Or else: by *majmanā*, a strength not common to others, you are lords in *praśāsane*, the giving, of *divyasya amṛtasya*, the heavenly [*amṛta*, i.e.] rain-water, for the peoples. And further, with whatever *ūtibhiḥ*, protections, *asvam*, a cow unable to bear [a calf], a *dhenu*, for the ṛṣi named Śayu, *pinvathaḥ*: you sprinkled, [you] made her full of milk: that is the sense. With those protections, and so on, as before."
+
+*Grammatical tail (characterized, short; partly clotted):* *asvam*: from the root *ṣūṅ prāṇigarbhavimocane*, 'delivering [a young]'; 'delivery' is *sū*; *kvip* in the abstract sense by the rule beginning *sampadādi*; 'she in whom there is no *sū*' = *asū* [?]; by *nañsubhyām* the final syllable of the second member is *udātta*; *yaṇ* substitution for the vowel [the clause is clotted [?]]; by *udāttasvaritayor yaṇaḥ* the following *anudātta* becomes *svarita* [?]. *Pinvathaḥ*: root *pivi sevane*; because of the marker *i*, the augment *num*; of the *bhvādi* class.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.3; Kannada; English)**
+
+*Narā* — O Aśvin deities all, leaders; *divyasya* — dwelling in the world of the gods; *amṛtasya* — arising from the drinking of *amṛta*; *majmanā* — with the strength [of those endowed]; *yuvam* — you two; *tāsām* — of those who are in the three worlds; *viśām* — of the peoples all; *praśāsane* — to rule as lords; *kṣayathaḥ* — you two are able. Or [*majmanā* — with a strength not found in others, extraordinary]; *tāsām* — of those in the three worlds; *viśām* — of the peoples all; *divi bhavasya* — of what is in the world of the gods; *amṛtasya* — of the rain-water; *praśāsane* — in the granting; *kṣayathaḥ* — you two are able. (And) *aśvinā* — O Aśvins; *yābhiḥ* — with whichever protections; *asvam* — the barren; *dhenum* — cow; *pinvathaḥ* — you filled with milk; *tābhiḥ ūtibhiḥ ū* — with those protections [come] to us too; *su āgatam* — come willingly.
+
+---
+
+### Page 735 (PDF 755)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 735.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities, leaders! endowed with strength arisen from the drinking of the *amṛta* in the world of the gods, may you two be able to be lords ruling over the peoples of the three worlds. O Aśvin deities! with whichever protections you filled with milk the barren cow of the ṛṣi named Śayu, with those protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.3)**
+
+"By the vigour infused from celestial nectar, you are able, leader (of sacrifice), to rule over those beings (who people the three worlds): with those aids by which you gave (milk) to the barren cow, come, Aswinss [sic] willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.3)**
+
+**दिव्यस्य अमृतस्य मज्मना — Divyasya amṛtasya majmanā.** Here Sāyaṇa gives two kinds of meaning. In the first: *divyasya*, dwelling in the world of the gods; *amṛtasya*, arisen from the drinking of *amṛta*; *majmanā*, with strength. In the second: *majmanā*, with your own extraordinary strength; *divyasya*, arisen in the world of the gods; *amṛtasya vṛṣṭyudakasya*, of the rain-water. When he explains thus, then on the first meaning the word *praśāsane* goes with *viśām*, and on the second it is connected with *amṛtasya* also. That is, in one way: by the strength arisen from the drinking of *amṛta*, you are able (*kṣayathaḥ*) to be lords ruling over the peoples of the three worlds; in the other way: with your extraordinary strength you are able to dispense (*praśāsane*) the rain-water arisen in the world of the gods, to all. Differing from both these meanings, Skandasvāmi has explained this first half in yet another way. He has:
+
+> दिव्यस्य अमृतस्य मज्मना । दिव्यशब्दोऽत्यन्तोत्कृष्टवचनः । अमृतशब्दोऽप्यन्तरेणापि भावप्रत्ययममृतत्ववचनः । मज्मेत्यपि बलनाम । अत्यन्तोत्कृष्टस्य देवत्वस्य बलेनेत्यर्थः ।
+> *divyasya amṛtasya majmanā | divyaśabdo 'tyantotkṛṣṭavacanaḥ | amṛtaśabdo 'py antareṇāpi bhāvapratyayam amṛtatvavacanaḥ | majmety api balanāma | atyantotkṛṣṭasya devatvasya balenety arthaḥ |*
+> "*Divyasya amṛtasya majmanā*: the word *divya* denotes the extremely excellent; the word *amṛta*, even without an abstract suffix, denotes immortality; *majman* too is a name for strength: the sense is, 'by the strength of extremely excellent divinity'."
+
+— the purport being that the word *divya* means 'extremely excellent', and the word *amṛta*, 'the state of being immortal', i.e. 'what belongs to divinity'. And so, '[Aśvins] endowed with such excellent power'. And:
+
+> याः [?] स्तोतुं यष्टुं [?] चेच्छन्ति युवां तासां विशां मनुष्याणां प्रशासने अनुशासने वचने निवसथः । ता विशो यत्र ब्रुवन्ति इह युवाभ्यां व्यवस्थातव्यमिति तत्रैव व्यवतिष्ठेथे ।
+> *yāḥ [?] stotuṃ yaṣṭuṃ [?] cecchanti yuvāṃ tāsāṃ viśāṃ manuṣyāṇāṃ praśāsane anuśāsane vacane nivasathaḥ | tā viśo yatra bruvanti iha yuvābhyāṃ vyavasthātavyam iti tatraiva vyavatiṣṭhethe |*
+> *(Sanskrit as read from the print; the opening words are doubtful [?], and the Kannada gives the sense.)*
+> "The people who wish to praise you and to sacrifice: you two abide under the ruling, the command, the word, of those men. Where those people say, 'Here you two must stay', there you two stand."
+
+— that is, when those peoples pray for you, for the purpose of praising you and sacrificing to you, to be established in the place suited to their request, you agree to their prayer and sit in that very place. And Skandasvāmi, too, for *divyasya* *(the passage runs on to p. 736)*
+
+---
+
+### Page 736 (PDF 756)
+
+*(Running head: left 736; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…and for *amṛtasya majmanā*, Skandasvāmi has cited another *śruti* and stated a second meaning, that 'it should be understood here as there'. In this context:
+
+> दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ।
+> *dadhyaṅ ha yan madhvātharvaṇo vām aśvasya śīrṣṇā pra yad īm uvāca |*
+> (*Ṛ.* 1-116-12 as read [?])
+
+> आथर्वणायाश्विना दधीचेऽश्व्यं शिरः प्रत्यैरयतम् ।
+> *ātharvaṇāyāśvinā dadhīce 'śvyaṃ śiraḥ praty airayatam |*
+> (*Ṛ.* 1-117-22 as read [?])
+> *(Sanskrit as read; the numerals are doubtful [?]; no gloss attempted.)*
+
+— citing these two Ṛks he says:
+
+> इति मन्त्रान्तरदृष्टज्ञानमत्रामृतसादृश्यादमृतमित्युच्यते । अत्यन्तोत्कृष्टस्य अमृतसदृशस्य ज्ञानस्य बलेनेत्यर्थः ।
+> *iti mantrāntaradṛṣṭajñānam atrāmṛtasādṛśyād amṛtam ity ucyate | atyantotkṛṣṭasya amṛtasadṛśasya jñānasya balenety arthaḥ |*
+> "So the knowledge seen in other *mantras* is called here 'amṛta' by its likeness to *amṛta*: the sense is, 'by the strength of extremely excellent knowledge, like *amṛta*'."
+
+— knowledge which is seen in other *mantras* is here said by the name '*amṛta*' because of its likeness to *amṛta*. The purport he gives is: 'by the power of extremely excellent knowledge you are [engaged] in ruling'."
+
+**याभिः अस्वं धेनुं पिन्वथः — Yābhiḥ asvaṃ dhenuṃ pinvathaḥ.** "With those of your protections by which you made a barren cow into a milch cow along with her calf": the earlier setting is indicated here. Skandasvāmi has explained that setting:
+
+> अत्रेतिहासमाचक्षते । शयुर्नाम राजर्षिः । सोऽश्विनौ परिचर्यया तुष्टाव । उवाच । मम गौर्धेनुर्निर्व्यत्रप्रसवा [?] वृद्धा च । तां मे धेनुं कुरुतमिति । तामस्मा अश्विनौ धेनुं चक्रतुरिति ।
+> *atretihāsam ācakṣate | śayur nāma rājarṣiḥ | so 'śvinau paricaryayā tuṣṭāva | uvāca | mama gaur dhenur nirvyatraprasavā [?] vṛddhā ca | tāṃ me dhenuṃ kurutam iti | tām asmā aśvinau dhenuṃ cakratur iti |*
+> *(Sanskrit as read; the compound after* dhenur *is clotted [?].)*
+> "Here they tell the tale: there was a royal sage named Śayu. He pleased the Aśvins by service, and said: 'My cow is barren [?] and old; make her a milch cow for me.' The Aśvins made her a milch cow for him."
+
+"The royal sage called Śayu, when he worshipped the Aśvin deities, was pleasing to them [by that worship]. Then the royal sage said to them: 'My cow is barren. Make her bear a calf and give milk, and so turn her into a milch cow', and prayed so. And they turned that old cow, at that prayer, into a milch cow." Telling this tale, he explains the same setting, quoting:
+
+> आधेनुं दस्रा स्तर्यं [?] विषक्तामुपपिन्वतं शयवे अश्विना गाम् ।
+> *ādhenuṃ dasrā staryaṃ [?] viṣaktām upa pinvataṃ śayave aśvinā gām |*
+> (*Ṛ.* 1-112-20 as read [?])
+> *(Sanskrit as read from the print; doubtful throughout [?]; no gloss attempted.)*
+
+> युवं धेनुं शयवे नाधिताया पिन्वतमश्विना पूर्व्याय ।
+> *yuvaṃ dhenuṃ śayave nādhitāyāpinvatam aśvinā pūrvyāya |*
+> (*Ṛ.* 1-116-22 as read [?])
+
+— citing these two Ṛks, he says that the favour done to Śayu by the Aśvin deities, as spoken of there, is spoken of in this Ṛk also. Likewise:
+
+> दसस्यन्ता शयवे पिप्यथुर्गामिति च्यवाना सुमतिं भुरण्यू ।
+> *dasasyantā śayave pipyathur gām iti cyavānā sumatiṃ bhuraṇyū |*
+> (*Ṛ.* 6-63-7 as read [?])
+> *(Sanskrit as read from the print; doubtful [?]; no gloss attempted.)*
+
+---
+
+**Progress note:** Printed pp. 1–736 done (PDF 21–756): Sūkta 112: Riks 112.1–112.2 complete (pp. 723–733); Rik 112.3 (printed pp. 733–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (divyasya amṛtasya majmanā; yābhir asvaṃ dhenuṃ pinvathaḥ, with Skandasvāmi's Śayu story) done to the foot of p. 736, after the Ṛg citation *dasasyantā śayave…*; the Special Topics may continue and its grammar page follows on p. 737. Next: printed p. 737 (PDF 757). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
