@@ -21510,5 +21510,120 @@ it is known that Divodāsa was the son of Vadhryaśva. He may be said to be the 
 "From one passage (R. V. VI 61-1), where Divodasa is said to have fought against the Pani's, the Paravatas and Brisaya, Hillebrandt has inferred that he was engaged in conflicts with tribes of Arachoria and interpreting the name as the heavenly Dasa conjectures that he was himself a Dasa. This conclusion is not probable, for the Saraswathi on which the battle in question took place and which can hardly be the Haraqnaiti of Arachosia, would naturally designate the later Saraswathi, while the Paravatas are mentioned in the" *(the quotation runs on to p. 789; printed in English as given)*
 
 ---
+### Page 789 (PDF 809)
 
-**Progress note:** Printed pp. 1–788 done (PDF 21–808): Sūkta 112: Riks 112.1–112.13 complete (pp. 723–786); Rik 112.14 (printed pp. 786–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (Divodāsa, with Macdonell's English quotation), ending mid-sentence at the foot of p. 788 ('…the Paravatas are mentioned in the'). Next: printed p. 789 (PDF 809). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 789.)*
+
+*(The English quotation from Macdonell and Keith concludes, as printed:)* "Pancha-Vimsa Brahmana (IX. 4-11) as in the east, about the Yamuna. Bergaigne's opinion that Divodasa and Athithigwa were different people cannot be supported in view of the complete parallelism in the acts of the two persons." *(Vedic Index of Names and Subjects, Macdonell & Keith, Vol. I, P. 393-4)* The Kannada adds that the view that Atithigva and Divodāsa are different persons is also rejected in this criticism.
+
+**अतिथिग्वम् — Atithigvam.** Both commentators have explained the word *atithigva* as an epithet of Divodāsa. But in Sāyaṇa's bhāṣya: *atithibhir gantavyam* — 'to be approached by guests': guests come to him; and in Skandasvāmi's: *ātithīn prati paricārakatayā gacchati ity atithigvaḥ taṃ* — 'he who goes to guests as a servant (*paricāraka*) is *atithigva*, him': he explains the derivation as 'one who himself goes to serve guests'. The purport of the two explanations is the same.
+
+**कशोजुवम् — Kaśojuvam.** *asurabhītyā udakaṃ praveṣṭuṃ gantāram* — Sāyaṇa: 'who went to enter the water out of fear of the asuras'; and Skandasvāmi: *kaśeti vāṅnāma | javatir gatyarthaḥ | stutilakṣaṇayā vācā yuvāṃ prati gantāram | yuvayor eva stotāram ity arthaḥ* — "*kaśa* is a name for 'speech'; *javati* means 'to go': one who goes to you with speech of praise, i.e. 'your praiser' only." Since the word *kaśa* is read among the names of 'speech' and since *javati* denotes going, Skandasvāmi explains the compound as 'he who approaches the Aśvin deities with praise', that is, 'he who praises them'.
+
+**शम्बरहत्ये — Śambarahatye.** *śambaranāmnaḥ asurasya vadhe* — "at the slaying of the asura named Śambara": 'Śambara was a powerful enemy of Indra' is made known in many places before. The names of *Śuṣṇa*, *Pipru*, *Varcin* and others are used along with his. It is well known that Indra, either with Divodāsa and other devotees as helpers, or often by himself in person, defeated this asura.
+
+**त्रसदस्युमावतम् — Trasadasyum āvatam.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । त्रसदस्योः राज्ञः पुरमुपरुध्य बलात् शत्रवो गृहीतुमारेभिरे । सोऽश्विनौ तुष्टाव । तस्यागत्याश्विनौ शत्रून् बभञ्जतुरिति ।
+> *atrāpītihāsam ācakṣate | trasadasyoḥ rājñaḥ puram uparudhya balāt śatravo gṛhītum ārebhire | so 'śvinau tuṣṭāva | tasyāgatyāśvinau śatrūn babhañjatur iti |*
+> "Here too they tell the tale: the enemies besieged the city of King Trasadasyu and began by force to seize it. He praised the two Aśvins; the Aśvins came to him and broke the enemies."
+
+When the enemies besieged the city of the king named Trasadasyu and wished to take it, he prayed to the Aśvin deities and got their help: so goes the story.
+
+> उत त्ये मा पौरुकुत्स्यस्य सूरेस्त्रसदस्योर्हिरणिनो ररााणाः ।
+> *uta tye mā paurukutsyasya sūres trasadasyor hiraṇino rarāṇāḥ |*
+> (*Ṛ.* 7-[?]-[?] as read [?])
+> *(Sanskrit as read from the print; the first line is doubtful in places [?]; no gloss attempted.)*
+
+In many Ṛks such as these Trasadasyu is called the son of Purukutsa.
+
+> आस्माकमत्र पितरस्त आसन्त्सप्त ऋषयो दौर्गहे बध्यमाने ।
+> त आजयन्त त्रसदस्युमस्या इन्द्रं न वृत्रतुरमर्धदेवम् ॥
+> *āsmākam atra pitaras ta āsan sapta ṛṣayo daurgahe badhyamāne |*
+> *ta ājayanta trasadasyum asyā indraṃ na vṛtraturam ardhadevam ‖*
+> (*Ṛ.* 4-42-8 as read [?]; cited also on p. 759)
+
+*(the passage continues on p. 790)*
+
+---
+
+### Page 790 (PDF 810)
+
+*(Running head: left 790; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…[in this Ṛk] the circumstances of his birth are also described: when Purukutsa was bound by his enemies and was in great calamity (or, when he was in captivity), Trasadasyu was begotten of Purukutsa's wife; the divine help in the time of his birth is described too. It has been indicated earlier that Purukutsa was born in the line of Durgaha (*Ṛ.* 4-42-8 [?]). This genealogy can be stated, following Girikṣit (*Ṛ.* 4-42-8 [?]), in the order Durgaha, Purukutsa, Trasadasyu. It is known that Trasadasyu was a king full of zeal and strength. He is the seer of the forty-second *sūkta* of the fourth Maṇḍala; and it is praised in many places that, by performing sacrifices and rites, he caused the prosperity of the country and the happiness of his subjects."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.14)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Mahām*: for the word *mahat*, in the accusative singular *mahāntam*, a Vedic loss of the *t* is irregularly formed [*chāndasa*]. *Kaśojuvam*: '*kaśa*' is a name for water; root *kaśa gatiśāsanayoḥ* [print: *gatiśāsanayoḥ*; Sāyaṇa's tail has *gatiśātanayoḥ*]; to it the Uṇādi suffix *asun*; 'who goes through [= swiftly passes] the waters (*kaśāṃsi udakāni*)' = *kaśojūḥ*; *ju* is a root listed in the *sūtra*s, used in the sense of going; the suffix *kvip* by *kvibvacipracchy…* (*Uṇ.* 2-37 as read [?]); in connection with it, lengthening of the root; by *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) the *kṛdanta* keeps the accent of its prior member; with *am* following, by *ac iśnudhātubhruvāṃ yvoriyaṅuvaṅau* (*pā.* 6-4-77 as read [?]) the substitute *uvaṅ*. *Divodāsam*: by *divaś ca dāse ṣaṣṭhyā āluk kartavyaḥ* (*kā.* 6-3-21-2 as read [?]) the sixth-case ending is not dropped when *dāsa* is the latter member of the compound; by *divodāsādīnāṃ chandasy upasaṅkhyānam* (*pā.* 6-2-91-1 as read [?]) the first syllable of the prior member is *udātta*. *Śambarahatye*: root *han hiṃsāgatyoḥ*; by *hanas ta ca* (*pā.* 3-1-108 as read [?]) the suffix *kyap*; in connection with it, the *n* of the root is replaced by *t*; because the prior member is a *kāraka*, by *gatikārakopapadāt kṛt* the *kṛdanta* keeps its prior member's accent; locative singular. *Pūrbhidye*: 'the cities are broken in it' = *pūrbhidyam* (battle); root *bhidir vidāraṇe*; the suffix *kyap*; the *kṛdanta* keeps the accent of its prior member. ‖ 14 ‖
+
+*(An ornament closes Rik 112.14.)*
+
+---
+
+### Page 791 (PDF 811)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 791.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.15)** *(accent-marks not reproduced)*
+
+> याभिर्वम्रं विपिपानमुपस्तुतं कलिं याभिर्वित्तजानिं दुवस्यथः ।
+> याभिर्व्यश्वमुत पृथिमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ १५ ॥
+> *yābhir vamraṃ vipipānam upastutaṃ kaliṃ yābhir vittajāniṃ duvasyathaḥ |*
+> *yābhir vyaśvam uta pṛthim āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 15 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.15)**
+
+> याभिः । वम्रम् । विऽपिपानम् । उपऽस्तुतम् । कलिम् । याभिः ।
+> वित्तऽजानिम् । दुवस्यथः ।
+> याभिः । विऽअश्वम् । उत । पृथिम् । आवतम् । ताभिः । ऊम् इति । सु ।
+> ऊतिऽभिः । अश्विना । आ । गतम् ॥ १५ ॥
+> *yābhiḥ | vamram | vi-pipānam | upa-stutam | kalim | yābhiḥ |*
+> *vitta-jānim | duvasyathaḥ |*
+> *yābhiḥ | vi-aśvam | uta | pṛthim | āvatam | tābhiḥ | ūm iti | su |*
+> *ūti-bhiḥ | aśvinā | ā | gatam ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.15)**
+
+> हे अश्विनौ वम्रं विमनसः पुत्रमेतत्सञ्ज्ञमृषिं विपिपानं विशेषेण पार्थिवं रसं पिबन्तं याभिरूतिभिरारक्षतम् । कीदृशम् । उपस्तुतं समीपस्थैः सम्यक् स्तूयमानमिति । तथा वित्तजानिं लब्धभार्यं कलिमेतत्सञ्ज्ञमृषिं याभिरूतिभिर्दुवस्यथः रक्षथः । उताऽपि च व्यश्वं विगताश्वं पृथिमेतत्सञ्ज्ञं वैन्यं राजर्षिं याभिरूतिभिरावतम् अरक्षतम् । अन्यत्पूर्ववत् ॥ विपिपानम् । पा पाने । ताच्छीलिकश्शानश् । बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसीत्यभ्यासस्येत्वम् । उपस्तुतम् । स्तौतेः कर्मणि निष्ठा । प्रवृद्धादित्वादुत्तरपदान्तोदात्तत्वम् । पा. ६-२-१४२ । वित्तजानिम् । विता लब्धा जाया येन स तथोक्तः । जायाया निङ् । पा. ५-४-१३४ । इति समासान्तो निङादेशः । लोपो व्योर्वलीति वलि लोपः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । व्यश्वम् । विगतोऽश्वो यस्मात्स तथोक्तः । बहुव्रीहिस्वरेण पूर्वपदस्योदात्तत्वे उदात्तस्वरितयोर्यण इति परस्यानुदात्तस्य स्वरितत्वम् ॥
+> *he aśvinau vamraṃ vimanasaḥ putram etatsañjñam ṛṣiṃ vipipānaṃ viśeṣeṇa pārthivaṃ rasaṃ pibantaṃ yābhir ūtibhir ārakṣatam | kīdṛśam | upastutaṃ samīpasthaiḥ samyak stūyamānam iti | tathā vittajāniṃ labdhabhāryaṃ kalim etatsañjñam ṛṣiṃ yābhir ūtibhir duvasyathaḥ rakṣathaḥ | utāpi ca vyaśvaṃ vigatāśvaṃ pṛthim etatsañjñaṃ vainyaṃ rājarṣiṃ yābhir ūtibhir āvatam arakṣatam | anyat pūrvavat ‖ vipipānam | pā pāne | tācchīlikaś śānaś | bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasīty abhyāsasyetvam | upastutam | stauteḥ karmaṇi niṣṭhā | pravṛddhādittvād uttarapadāntodāttatvam | pā. 6-2-142 | vittajānim | vittā labdhā jāyā yena sa tathoktaḥ | jāyāyā niṅ | pā. 5-4-134 | iti samāsānto niṅādeśaḥ | lopo vyor vali iti vali lopaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | vyaśvam | vigato 'śvo yasmāt sa tathoktaḥ | bahuvrīhisvareṇa pūrvapadasyodāttatve udāttasvaritayor yaṇa iti parasyānudāttasya svaritatvam ‖*
+
+*(Sanskrit as read; the sūtra numerals are as printed and doubtful [?].)*
+
+"O Aśvins! *vamram*, the ṛṣi so named, the son of Vimanas, *vipipānam*, who was drinking specially the earthly sap — with whichever protections you protected [him]. What like? *Upastutam*, well praised by those near him. And likewise *vittajānim*, one who had obtained a wife, *kalim*, the ṛṣi so named, whom you *duvasyathaḥ*, protected with whichever protections. And also *vyaśvam*, bereft of his horse, *pṛthim*, the royal sage so named, the son of Vena, whom with whichever protections you protected: the rest as before."
+
+*Grammatical tail (short):* *vipipānam*: root *pā pāne*; the suffix *śānac* in the habitual sense; *luk* of the sign *śap* by *bahulaṃ chandasi*; *i* for the reduplicant by *bahulaṃ chandasi*. *Upastutam*: *niṣṭhā* in the passive after *ṣṭuñ*; since it belongs to the *pravṛddhādi* class, the final syllable of the second member is *udātta* (*pā.* 6-2-142 as read [?]). *Vittajānim*: 'he by whom the wife has been obtained'; by *jāyāyā niṅ* (*pā.* 5-4-134 as read [?]) the compound-final substitute *niṅ*; the loss before a *val* consonant by *lopo vyor vali*; the prior member keeps its accent in the *bahuvrīhi*. *Vyaśvam*: 'he from whom the horse has gone'; by the *bahuvrīhi* accent the prior member is *udātta*; the following *anudātta* takes *svarita* by *udāttasvaritayor yaṇaḥ*.
+
+---
+
+### Page 792 (PDF 812)
+
+*(Running head: left 792; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.15; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *upastutam* — [him who was] praised on all sides by those near; *vipipānam* — [who was] drinking the dew on the ground; *vamram* — the ṛṣi named Vamra; *yābhiḥ* — by whichever protections you protected, (just so); *vittajānim* — the one who had obtained a wife; *kalim* — the ṛṣi named Kali; *yābhiḥ* — by whichever protections; *duvasyathaḥ* — you protected; *uta* — and moreover; *vyaśvam* — the one who had lost his horse; *pṛthim* — the ṛṣi named Pṛthi; *yābhiḥ* — by whichever helps; *āvatam* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections together (to us also); *su ā gatam* — come willingly, with favour.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever protections you protected the ṛṣi named Vamra, who was praised on all sides by those near him and who was drinking the dew on the ground; and, just so, with whichever protections you protected Kali, the ṛṣi who had obtained a wife; and, besides, with whichever helps you protected the ṛṣi named Pṛthi, who had lost his horse: with all those protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.15)**
+
+"With those aids by which you preserved Vamra, praised by all around him, when drinking (the dews of the earth); by which you protected Kali when he had taken a wife, and Prithi, when he had lost his horse; with them, Aswins, come willingly hither."
+
+*(The printed heading reads "English Tranlation", a misprint [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.15)**
+
+**याभिः वम्रम् — Yābhiḥ vamram.** Skandasvāmi has:
+
+> वम्रऋषिर्ग्रीष्मे तपस्यन् अत्यन्तं तृषितो बभूव । स उदकार्थी अश्विनौ तुष्टाव । तस्मै आगत्याश्विनावनभ्रे नभसि वृष्टिं चक्रतुरिति ।
+> *vamra ṛṣir grīṣme tapasyan atyantaṃ tṛṣito babhūva | sa udakārthī aśvinau tuṣṭāva | tasmai āgatyāśvināv anabhre nabhasi vṛṣṭiṃ cakratur iti |*
+> "The ṛṣi Vamra, performing austerity in the hot season, became exceedingly thirsty. Wishing for water, he praised the two Aśvins. The Aśvins came and made rain for him in a cloudless sky."
+
+The ṛṣi named Vamra, performing austerities in the summer season, was very thirsty; to get water he prayed to the Aśvin deities; they then caused rain to fall for him, though there was no cloud in the sky: thus the story is told, and it is indicated here. The ṛṣi named Vamra is renowned as the seer of the ninety-ninth sūkta of the tenth Maṇḍala [as read [?]]. In the *Sarvānukramaṇī* [as the Pīṭhike of the bhāṣya, the Kannada gives the reference "p. 119 [?]"]: "*kaṃ naḥ*: this twelve-Ṛk ninth sūkta, the seer of which is Vamra, son of Vikhanas, is addressed to Indra and in the Triṣṭubh metre." In this same sūkta the ṛṣi who is its seer speaks, in some places, in the first person, with his own name.
+
+---
+
+**Progress note:** Printed pp. 1–792 done (PDF 21–812): Sūkta 112: Riks 112.1–112.14 complete (pp. 723–790); Rik 112.15 (printed pp. 791–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (Vamra), ending at the foot of p. 792. Next: printed p. 793 (PDF 813). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
