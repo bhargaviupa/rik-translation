@@ -22482,5 +22482,166 @@ In this Ṛk the various protections and helps of the Aśvin deities are describ
 *(Sanskrit as read: "O Aśvins, doers of manifold deeds! *ārjuneyam*: *Arjuna* is a name of Indra; as the Vājasaneyaka has it: 'this is Indra's secret name, namely *Arjuna*'; his son, Kutsa, whom with whichever protections you protected well. And likewise Turvīti and Dabhīti, whom with whichever protections you protected. And further: with whichever [protections] Dhvasanti, so named, and Puruṣanti, so named, [you protected]…")*
 
 ---
+### Page 821 (PDF 841)
 
-**Progress note:** Printed pp. 1–820 done (PDF 21–840): Sūkta 112: Riks 112.1–112.22 complete (pp. 723–820); Rik 112.23 (printed pp. 820–[?]): Saṃhitā, Pada done, bhāṣya begun (ending mid-sentence at the foot of p. 820). Next: printed p. 821 (PDF 841). Remaining: Riks 112.23 (rest), 24, 25 and any colophon; Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 821.)*
+
+*(The bhāṣya of Rik 112.23 concludes:)* "…[Dhvasanti and Puruṣanti] the ṛṣis, you protected [*āvatam*]. With all those protections come to us also."
+
+*Grammatical tail (short):* *ārjuneyam*: by *śubhrādibhyaś ca* (*pā.* 4-1-123 as read [?]) the suffix *ḍhak*, since the *ca* is [taken as] including the words not stated [in the list], it applies to this word also; *turvītim*: *turvī* in the sense of 'to injure': 'he who injures enemies' = *turvītiḥ*; the Uṇādi suffix *ti* [*īti*]; the accent by the suffix. *Dabhītim*: root *dabhi dambhe*; the Uṇādi suffix *ti* (*kiti*); loss of the penultimate nasal by *anidītāṃ hala upadhāyāḥ kṅiti*; the *ī* is *udātta* by the suffix-accent. *Dhvasantim*: root *dhvaṃsu gatau*; the Uṇādi suffix *jhic* [?]; *anta* for *jh* by *jho 'ntaḥ*; since it is *cit*, the loss of the penultimate nasal; by the suffix-accent the middle syllable is *udātta*. *Puruṣantim*: 'he who gives much' = *puruṣantiḥ*; root *ṣaṇa dāne*; *kric* in the sense of a name, by *ktic ktau ca saṃjñāyām* [?].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.23; Kannada; English)**
+
+*Śatakratū* — O Aśvin deities of manifold deeds; *ārjuneyam* — the son of Arjuna; *kutsam* — Kutsa; *yābhiḥ* — by whichever of your protections; *pra āvatam* — you protected well, (just so); *turvītim* — Turvīti; *ca* — and; *dabhītim* — Dabhīti; *pra* — [by whichever protections] you guarded, (and); *yābhiḥ* — by whichever protections; *dhvasantim* — Dhvasanti; *puruṣantim* — Puruṣanti; *āvatam* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come, graciously.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities of manifold deeds! with whichever of your protections you protected well Kutsa, the son of Arjuna, and just so Turvīti, Dabhīti, Dhvasanti and Puruṣanti: with all those protections come to us also.
+
+**English Translation (as printed in the source; Rik 112.23)**
+
+"With those aids by which you, who are worshipped in many rites, protected Kutsa, the son of Arjuna, as well as Turviti, Dhabhiti, Dhwasanti, and Purushanti; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.23)**
+
+**आर्जुनेयं कुत्सम् — Ārjuneyaṃ kutsam.** "Arjunī was the name of Kutsa's mother; her son" — so Skandasvāmi: 'Kutsa, the son of the woman called Arjunī'; *arjuna* is a name of Indra; the son of Indra is called *ārjuneya* — so Sāyaṇa explains: 'his son', in order to support the statement that Indra has the name Arjuna:
+
+> एतद्वा इन्द्रस्य गुह्यं नाम यदर्जुनः ।
+> *etad vā indrasya guhyaṃ nāma yad arjunaḥ |*
+> "This is Indra's secret name, namely *Arjuna*." *(mine and tentative)*
+
+— he cites a *mantra* of the Vājasaneyi Saṃhitā. But *(the passage runs on to p. 822)*
+
+---
+
+### Page 822 (PDF 842)
+
+*(Running head: left 822; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> अहं कुत्समार्जुनेयं न्यृञ्जेऽहं कविरुशना पश्यता मा ।
+> *ahaṃ kutsam ārjuneyaṃ nyṛñje 'haṃ kavir uśanā paśyatā mā |*
+> (*Ṛ.* 4-26-1 as read [?])
+
+> दासं यच्छुष्णं कुयवं न्यस्मा आरन्धयदार्जुनेयाय शिक्षन् ।
+> *dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhayad ārjuneyāya śikṣan |*
+> (*Ṛ.* 6-20-2 as read [?])
+
+> वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ।
+> *vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam |*
+> (*Ṛ.* 8-1-11 as read [?])
+> *(Sanskrit as read from the print; the numerals are doubtful [?], and the third line is clotted [?]; no gloss attempted.)*
+
+— in all the places in these Ṛks where the word *ārjuneya* occurs, both Sāyaṇa and Skandasvāmi explain 'Kutsa, the son of the woman Arjunī'. Since the words *Arjuna* and *Arjunī* are said in other *śruti* passages to relate to Indra, the two explanations given above amount to one and the same meaning. For example:
+
+> फल्गुनीष्वग्नी आदधीत । एता वा इन्द्रनक्षत्रं यत्फल्गुन्यो ऽस्य प्रतिनाम्न्यो ऽर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुनो वै नाम्नैतास्तां एतत्प्रोक्तमाचक्षते फल्गुन्य इति को ह्येतस्यार्हति गुह्यं नाम …… ।
+> *phalgunīṣv agnī ādadhīta | etā vā indranakṣatraṃ yat phalgunyo 'sya pratināmnyo 'rjuno ha vai nāmendro yad asya guhyaṃ nāmārjuno vai nāmnaitās tāṃ etat proktam ācakṣate phalgunya iti ko hy etasyārhati guhyaṃ nāma …… |*
+> (*Śa. Brā.* 2-1-2-11 as read [?])
+> *(Sanskrit as read from the print; the passage is clotted and ends with an ellipsis; I give it only as far as read, and give no completed rendering.)*
+
+> इन्द्रो भवति यच्च क्षत्रियो यदु च यजमानस्तस्मादाहार्जुन इति ।
+> *indro bhavati yac ca kṣatriyo yad u ca yajamānas tasmād āhārjuna iti |*
+> (*Śa. Brā.* 3-4-3-2 as read [?])
+> *(Sanskrit as read; doubtful [?]. Gloss, mine and tentative: "…[the one] who is Indra, and the Kṣatriya, and the sacrificer: therefore he says 'Arjuna'.")*
+
+The *Phalgunīs* [*nakṣatra*s] are Indra's stars; the name has its connection there. Indra has the name *Arjuna*; the *Phalgunīs* too are called *Ārjuni* — so, since it is said in the Śatapatha Brāhmaṇa and in other places, it may be said that Kutsa can be called by both names, 'son of Indra' and 'son of Arjunī'. In many places in the Ṛk-Saṃhitā the relation of Indra and Kutsa is shown, in that Kutsa conquers his enemies only by the help of Indra.
+
+> त्वं शुष्णं वृजने पृक्ष आणौ यूने कुत्साय द्युमते सचाहन् ।
+> *tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau yūne kutsāya dyumate sacāhan |*
+> (*Ṛ.* 1-63-3 as read [?])
+
+> कुत्सायेत्र पुरुहूत वन्वञ्छुष्णमनन्तैः परियासि वधैः ।
+> *kutsāyetra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhaiḥ |*
+> (*Ṛ.* 1-121-9 as read [?])
+> *(Sanskrit as read; both are doubtful in the numerals [?]; no gloss attempted.)*
+
+— in Ṛks such as these, [numbered 1-63-3, 1-121-9 etc. as read], it is likewise said that Indra, helping Kutsa, killed Śuṣṇa. And
+
+> अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ।
+> *ahaṃ piteva vetasūr abhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam |*
+> (*Ṛ.* 10-49-4 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+*(the passage continues on p. 823)*
+
+---
+
+### Page 823 (PDF 843)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 823.)*
+
+*(…continuing:)* "…Indra himself says that for Kutsa he subdued Vetasu, Tugra and also Smadibha. And
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+> *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
+> (*Ṛ.* 1-53-10 as read [?])
+
+> ये आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिने दिने ।
+> *ye āyuṃ kutsam atithigvam ardayo vāvṛdhāno dine dine |*
+> (*Ṛ.* 8-53-2 as read [?])
+> *(Sanskrit as read; no gloss attempted for either; the second is doubtful [?].)*
+
+— in Ṛks such as these it is also said that Indra subdued Kutsa and others."
+
+**तुर्वीतिम् — Turvītim.** The two names *Turvīti* and *Vayya* are commonly used together. In some places only the one name *Turvīti* is seen.
+
+> ईशानकृद्दाशुषे दशस्यन्तुर्वीतये गाधं तुर्वणिः कः ।
+> *īśānakṛd dāśuṣe daśasyan turvītaye gādhaṃ turvaṇiḥ kaḥ |*
+> (*Ṛ.* 1-61-11 as read [?])
+
+> आरमयः सरपसस्तराय कं तुर्वीतये च वय्याय च स्रुतिम् ।
+> *aramayaḥ sarapasas tarāya kaṃ turvītaye ca vayyāya ca srutim |*
+> (*Ṛ.* 2-13-12 as read [?]; cited also on p. 754)
+> *(Sanskrit as read; the first is doubtful in places [?]; no gloss attempted.)*
+
+— in Ṛks such as these it is told that Indra helped Turvīti to cross the currents of rivers.
+
+**दभीतिम् — Dabhītim.** In some places [*Dabhīti*] is called a warrior; in some, a ṛṣi.
+
+> इन्द्रो धुनिं च चुमुरिं च दम्भयञ्छ्रद्धामनस्या कृणुते दभीतये ।
+> *indro dhuniṃ ca cumuriṃ ca dambhayañ chraddhāmanasyā kṛṇute dabhītaye |*
+> (*Ṛ.* 10-113-9 as read [?])
+
+> स्वप्नेनाभ्युप्या चुमुरिं धुनिं च जघन्थ दस्युं प्र दभीतिमावः ।
+> *svapnenābhyupyā cumuriṃ dhuniṃ ca jaghantha dasyuṃ pra dabhītim āvaḥ |*
+> (*Ṛ.* 2-15-9 as read [?])
+> *(Sanskrit as read from the print; doubtful in places [?]; no gloss attempted for either.)*
+
+— in Ṛks such as these Dabhīti is called a royal sage, and it is said that for his sake Indra conquered Cumuri and Dhuni. It is known that he had earlier offered Soma-juice to Indra and obtained his favour.
+
+> अस्वापयद्दभीतये सहस्रा त्रिंशतं हथैः । दासानामिन्द्रो मायया ।
+> *asvāpayad dabhītaye sahasrā triṃśataṃ hathaiḥ | dāsānām indro māyayā |*
+> (*Ṛ.* 4-30-21 as read [?])
+
+> अरज्जौ दस्यून्त्समुनब्दभीतये सुश्रवो अभवः सासुकथ्यः ।
+> *arajjau dasyūn samunab dabhītaye suśravo abhavaḥ sāsukathyaḥ |*
+> (*Ṛ.* 2-15-6 as read [?])
+> *(Sanskrit as read from the print; the second is clotted in the second line [?]; no gloss attempted for either.)*
+
+---
+
+### Page 824 (PDF 844)
+
+*(Running head: left 824; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…in Ṛks such as these it is said that Indra, for Dabhīti's sake, put thirty thousand slaves [*dāsa*s] to sleep, and bound all the dasyus without a rope."
+
+**ध्वसन्तिम्, पुरुषन्तिम् — Dhvasantim, puruṣantim.** *Dhvasantir nāma vaiśyā puruṣantis tathā | upahāsakuśale iti śrutvāśvinau saṃbhogārtham upājagmatur iti* — "Dhvasanti was the name of a courtesan, and likewise Puruṣanti; hearing that they were skilled in the arts of play [*upahāsa*], the two Aśvins came to them for enjoyment." Dhvasanti and Puruṣanti were two courtesans; hearing that both were skilled in the arts, and expert in jesting, the Aśvin deities came to them for enjoyment, and favoured them: so goes the story.
+
+Sāyaṇa explains these two names as words that indicate masculines — as the names of two ṛṣis. From the two words *Dhvasra* and *Dhvasanti*, however, it is known that they are the names of one and the same person.
+
+> ध्वस्रयोः पुरुषन्त्योरा सहस्राणि दद्महे ।
+> *dhvasrayoḥ puruṣantyor ā sahasrāṇi dadmahe |*
+> (*Ṛ.* 8-68-17 as read [?])
+> *(Sanskrit as read from the print; the numerals are doubtful [?]; no gloss attempted.)*
+
+— in this Ṛk both names are together. There too Sāyaṇa has explained: *dhvasraḥ kaścid rājā puruṣantiḥ kaścit* — 'Dhvasra, a certain king; Puruṣanti, a certain [king]'.
+
+**शतक्रतू — Śatakratū.** *bahukarmāṇau bahuprajñau vā* — "[the two] of many deeds, or of many kinds of wisdom": that is, 'those who have many kinds of works, or many kinds of knowledge'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.23)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Ārjuneyam*: by *śubhrādibhyaś ca* (*pā.* 4-1-123 as read [?]) the suffix *ḍhak*, since the *ca* is [read as] a connective for words not mentioned [in the list]: 'the offspring of Arjunī, a male'; by *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* (*pā.* 7-1-2 as read [?]) the substitute *eya* for *ḍh*; by *yasyeti ca* (*pā.* 6-4-148 as read [?]) the loss of the *ā* [of *ī*, as read [?]]; since the suffix is *kit*, *vṛddhi* of the first syllable. *Turvītim*: root *turvī hiṃsārthaḥ*; 'he who injures enemies' = *turvītiḥ*; to it the Uṇādi suffix *īti*; the *ī* is *udātta* by the suffix-accent. *Dabhītim*: root *dabhi dambhe*; the Uṇādi suffix *īti*; since it is *kit*, by *anidītāṃ hala upadhāyāḥ kṅiti* (*pā.* 6-4-24 as read [?]) the penultimate nasal is lost; the *ī* is *udātta* by the suffix-accent. *Dhvasantim*: root *dhvaṃsu gatau*; the Uṇādi suffix *jhic* [?] comes; by *jho 'ntaḥ* (*pā.* 7-1-3 as read [?]) *anta* for it; since it is *cit*, by *anidītāṃ hala…* the penultimate letter is lost; by the suffix-accent the middle syllable is *udātta*. *Puruṣantim*: 'he who gives much' = *puruṣantiḥ*; the root *ṣaṇa*, 'to give', with *kric* by *ktic ktau ca saṃjñāyām* (*pā.* 3-3-174 as read [?]), since it is intended as a name: *(the page ends here; the grammar continues on p. 825)*
+
+---
+
+**Progress note:** Printed pp. 1–824 done (PDF 21–844): Sūkta 112: Riks 112.1–112.22 complete; Rik 112.23 (printed pp. 820–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*puruṣantim*, ending mid-sentence at the foot of p. 824). Next: printed p. 825 (PDF 845). Remaining: Riks 112.24, 25 and any colophon; Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
