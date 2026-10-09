@@ -17384,5 +17384,102 @@ The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…t
 *pra carṣaṇibhyaḥ pṛtanāhaveṣu pra pṛthivyā riricāthe divaś ca | pra sindhubhyaḥ pra giribhyo mahitvā prendrāgnī viśvā bhuvanāty anyā ‖ 6 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "prendrāgnī … bhuvanāty anyā", the Pada "pra | indrāgnī iti | viśvā | bhuvanā | ati | anyā")*
 
 ---
+### Page 646 (PDF 666)
 
-**Progress note:** Printed pp. 1–645 done (PDF 21–665): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.5 complete (pp. 621–645); Rik 109.6 (printed pp. 645–[?]): Saṃhitā only, at the foot of p. 645. Next: printed p. 646 (PDF 666): the Pada of 109.6 and its bhāṣya etc.; then Riks 109.7–8. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 646; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.6)**
+
+> प्र । चर्षणिऽभ्यः । पृतनाऽहवेषु । प्र । पृथिव्याः । रिरिचाथे इति । दिवः । च ।
+> प्र । सिन्धुऽभ्यः । प्र । गिरिऽभ्यः । महिऽत्वा । प्र । इन्द्राग्नी इति । विश्वा । भुवना । अति । अन्या ॥ ६ ॥
+
+*pra | carṣaṇi-bhyaḥ | pṛtanā-haveṣu | pra | pṛthivyāḥ | riricāthe iti | divaḥ | ca | pra | sindhu-bhyaḥ | pra | giri-bhyaḥ | mahi-tvā | pra | indrāgnī iti | viśvā | bhuvanā | ati | anyā ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.6)**
+
+> ऐन्द्राग्नस्य पशोरविषः प्र चर्षणिभ्य इत्येषा याज्या । प्रदानानामिति खण्डे सूत्रितं । प्र चर्षणिभ्यः पृतनाहवेष्वा देवो यातु सविता सुरत्नः । आ. ३-२ । इति ॥
+> पृतनाहवेषु पृतनासु संग्रामेषु रक्षणार्थमाह्वानेषु सत्सु हे इन्द्राग्नी आगतेनन्तो युवां चर्षणिभ्यः सर्वेभ्योऽपि मनुष्येभ्यो महित्वा महत्त्वेन प्र रिरिचाथे । आतिरिच्येथे । सर्वाधिकौ भवथ इत्यर्थः । अत्रोपसर्गवशाद्धातोः स्वाभिधेयविपरीतमर्थमाचष्टे यथा प्रस्मरणं प्रस्थानमिति । तथा पृथिव्याः सर्वस्या भूमेश्च प्र रिरिचाथे । एवं द्युप्रभृतिभ्योऽपि । सिन्धवः स्यन्दनशीला आपः । गिरयः पर्वताः । अपि च हे इन्द्राग्नी विश्वा भुवना सर्वाणि भूतजातान्यन्योक्तव्यतिक्रान्ति योनि सन्ति तान्यतीत्य प्र रिरिचाथे । अधिकौ भवथः ॥ पृतनाहवेषु । पृतनासु हवः पृतनाहवः । ह्वेञो भावेऽनुपसर्गस्येत्यप् । संप्रसारणं च । व्यत्ययेन थाथादिस्वराभावे कृदुत्तरपदप्रकृतिस्वरत्वं । रिरिचाथे । रिचिर् विरेचने । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । यद्वा । लट्येव बहुलं छन्दसीति विकरणस्य श्लुः । महित्वा । मह पूजायाम् । औणादिक इन्प्रत्ययः । तस्य भावो महित्वं । सुपां सुलुगिति तृतीयाया डादेशः ॥
+> *aindrāgnasya paśor aviṣaḥ pra carṣaṇibhya ity eṣā yājyā | pradānānām iti khaṇḍe sūtritaṃ | pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ | ā. 3-2 | iti ‖ pṛtanāhaveṣu pṛtanāsu saṃgrāmeṣu rakṣaṇārtham āhvāneṣu satsu he indrāgnī āgatenanto yuvāṃ carṣaṇibhyaḥ sarvebhyo 'pi manuṣyebhyo mahitvā mahattvena pra ricāthe | ātiricyethe | sarvādhikau bhavatha ity arthaḥ | atropasargavaśād dhātoḥ svābhidheyaviparītam artham ācaṣṭe yathā prasmaraṇaṃ prasthānam iti | tathā pṛthivyāḥ sarvasyā bhūmeś ca pra ricāthe | evaṃ dyuprabhṛtibhyo 'pi | sindhavaḥ syandanaśīlā āpaḥ | girayaḥ parvatāḥ | api ca he indrāgnī viśvā bhuvanā sarvāṇi bhūtajātāny anyoktavyatikrānti yoni santi tāny atītya pra ricāthe | adhikau bhavathaḥ ‖ pṛtanāhaveṣu | pṛtanāsu havaḥ pṛtanāhavaḥ | hveño bhāve 'nupasargasyety ap | saṃprasāraṇaṃ ca | vyatyayena thāthādisvarābhāve kṛduttarapadaprakṛtisvaratvaṃ | ricāthe | ricir virecane | chandasi luṅlaṅliṭa iti vartamāne liṭ | yadvā | laṭy eva bahulaṃ chandasīti vikaraṇasya śluḥ | mahitvā | maha pūjāyām | auṇādika inpratyayaḥ | tasya bhāvo mahitvaṃ | supāṃ suluk iti tṛtīyāyā ḍādeśaḥ ‖* *(Sanskrit as read; the words "āgatenanto", "anyoktavyatikrānti yoni" and a few others are clotted in the print and given as read, with doubt [?], not completed from memory; the tail is short and given.)*
+
+"For the *aindrāgna* animal-sacrifice of the *aviṣa* [?], this Ṛk *pra carṣaṇibhyaḥ* is the *yājyā*. In the section 'of gifts' [*pradānānām*] [the Āśvalāyana sūtra] says: '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 3-2 as read [?]).
+
+*Pṛtanāhaveṣu* — in *pṛtanā*s, in battles, when there are summonses for protection: O Indra and Agni, having come, you two *pra ricāthe*, surpass, *carṣaṇibhyaḥ* — all men — by *mahitvā*, by greatness. You are above all, so the meaning. Here, by the force of the prefix [*pra*], the root conveys a sense opposite to its own meaning, as *prasmaraṇa* [forgetting, from *smṛ* 'to remember'], *prasthāna* [departure]. So *pṛthivyāḥ*, surpass the whole earth; so too the heavenly world and the rest. *Sindhavaḥ*: flowing waters; *girayaḥ*: mountains. And O Indra and Agni, all (*viśvā*) beings (*bhuvanā*): all the creatures, whatever other things there are, surpassing them, you surpass; you are above them."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.6; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *pṛtanāhaveṣu* — at the times of battle when [your devotees] call [you] for help (when you are present); *carṣaṇibhyaḥ* — than all men; *mahitvā* — by your greatness; *pra ricāthe* — you surpass; *pṛthivyāḥ* — [than] the wide earth; *pra* [*ricāthe*] — you exceed; *divaḥ ca* — than the heavenly world too; *pra* [*ricāthe*] — greater; *sindhubhyaḥ pra* — than the flowing rivers you are greater; *giribhyaḥ pra* — you exceed the mountains; *viśvā bhuvanā pra* — than all beings you are superior; *anyā* — than all other great things; *ati* — higher, you are superior.
+
+---
+
+### Page 647 (PDF 667)
+
+*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 647.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, when your devotees call you at the times of battle to help them, you come and are with them. Then, by your greatness, you show a power exceeding all men, the wide earth, the heavenly world, the flowing rivers, the mountains, all beings, and all the other great things, and you are above all.
+
+**English Translation (as printed in the source)**
+
+"Attending to the summons at the time of battle, you surpass all men (in magnitude) : you are vaster than the earth, than the sky, than the rivers, than the mountains ; you exceed all other existent things."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.6)**
+
+"In the animal-sacrifice (*paśuyāga*) made aiming at Indra and Agni, when the oblations are offered, this Ṛk *pra carṣaṇibhyaḥ* is to be used as the *yājyā* mantra: so it is explained in the Āśvalāyana Śrauta-sūtra in the section called *pradānānām* ('of gifts'), by the sūtra '*pra carṣaṇibhyaḥ pṛtanāhaveṣv ā devo yātu savitā suratnaḥ*' (*Ā.* 3-2 as read [?]).
+
+**Carṣaṇibhyaḥ** — "for the word *carṣaṇi*, in the Special Topics of the previous Ṛk, the meaning 'seer' (*draṣṭā*) and another meaning, 'man' (*manuṣya*), have been given. Generally, this word is used in the meaning 'man'.
+
+> आ याहि पूर्वीरति चर्षणीराँ आर्य आशिष उप नो हरिभ्याम् ।
+> *ā yāhi pūrvīr ati carṣaṇīrāṁ ārya āśiṣa upa no haribhyām |* (*Ṛ. Saṃ.* 3-4[?]-[?] as read [?])
+
+> विश्वा यश्चर्षणीरभ्यासा वाजेषु सासहत् ।
+> *viśvā yaś carṣaṇīr abhy āsā vājeṣu sāsahat |* (*Śa. Brā.* 3-3[?]-[?] as read [?]; as read from the print, the first line doubtful [?])
+
+— in some ten such places the word *carṣaṇi* is explained as 'men'. A discussion of this word has been given in full in the 49th section of the second part of the Ṛgveda-saṃhitā."
+
+---
+
+### Page 648 (PDF 668)
+
+*(Running head: left 648; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**Sindhubhyaḥ** — "the word *sindhu* is read among the names of rivers (*Ni.* 3-[?]); *sindhuḥ syandanāt* (*Ni.* 2-2[?]): because it flows, the name *sindhu* is given to a river. Since it has the sense of 'flow', in some places [the word] may have the sense 'rays'. For example, for the word *sindhūn* in the Ṛk 1-6[?]-[?]3, Skandasvāmin explains: '*syandanāt sindhavo raśmaya ity ucyante*', that the rays are called *sindhu* because they flow [or spread]; but here only [the sense is] 'river', or 'ocean'. The purport is that at the time of battle, when the devotees call [you] for help, the greatness of Indra and Agni exceeds not only earth, mid-region, rivers, mountains and the like, but all the worlds.
+
+> जाते आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
+> *jāte āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (*Ṛ. Saṃ.* 2-1-12 as read [?])
+
+> दिवश्चिदग्ने महिना पृथिव्या वच्यन्तां ते वह्नयः सप्तजिह्वाः ।
+> *divaś cid agne mahinā pṛthivyā vacyantāṃ te vahnayaḥ saptajihvāḥ |* (*Ṛ. Saṃ.* 3-6-2 as read [?])
+
+— in Ṛks such as these Agni's greatness; and
+
+> प्र मात्राभी रिरिचे रोचमानः प्र देवेभिर्विश्वतो अप्रतीतः ।
+> प्र मज्मना दिव इन्द्रः पृथिव्याः प्रोरोर्महो अन्तरिक्षादृजीषी ॥
+> *pra mātrābhī ririce rocamānaḥ pra devebhir viśvato apratītaḥ | pra majmanā diva indraḥ pṛthivyāḥ prorormaho antarikṣād ṛjīṣī ‖* (*Ṛ. Saṃ.* 3-46-3 as read)
+
+— as the greatness of Indra is described in Ṛks such as these, so here too the greatness of Indra and Agni is praised."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.6)** *(grammar pages, pp. 648–649, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Pṛtanāhaveṣu* (*pṛtanāsu havaḥ pṛtanāhavaḥ*; root *hveñ spardhāyāṃ śabde ca*; *ap* in the abstract sense by *bhāve 'nupasargasya*, Pā. Sū. 3-3-70 as read [?]; *saṃprasāraṇa* for the root; since *saṃprasāraṇāc ca*, Pā. Sū. 6-1-108 as read [?], *pūrvarūpa* arises; since *ap* is the cause, *guṇa*; *av*; the form *hava*; by *vyatyaya*, since the *thāthaghañ…* accent, Pā. Sū. 6-2-144 as read [?], which would have given the final acute of the latter member, is absent, by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?], the accent of the *kṛdanta* latter member; since *ap* is *pit*, it is *anudātta*, and by the accent of the root the word *hava* is initial-acute). *Pṛthivyāḥ* (in the place of an acute vowel, *yaṇ*; and since the ending follows it, by *udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174 as read [?], the ending is acute).
+
+---
+
+### Page 649 (PDF 669)
+
+*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 649.)*
+
+The grammar of Rik 109.6 concludes. *Riricāthe* (root *ricir virecane*; since the sense is the present, *liṭ* by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 as read [?], or *laṭ*; in either case, by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], *śluḥ* for the vikaraṇa; the middle ending *āthām* in the dual; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the doubling of the root, and so on; since a verb follows a non-verb, *nighāta*). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). *Sindhubhyaḥ* (root *syandū prasravaṇe*; *saṃprasāraṇa* of the root and *dh* for *d*, by *syandeḥ saṃprasāraṇaṃ dhaś ca*, Uṇ. 1-[?]1 as read [?]; the suffix *u*; the root receives *saṃprasāraṇa* and the final *dh*). *Viśvā bhuvanā* (since the plural follows, *śi* is substituted; the form; by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?], the loss of *śi*; the same procedure in *anyā*). *Mahitvā* (root *maha pūjāyām*; the Uṇādi suffix *in*; the form *mahi*; *mahno bhāvaḥ mahitvam*; the suffix *tva* in the abstract sense by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119 as read [?]; before the instrumental, the substitution of *ḍā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). The Rik is closed with *‖ 6 ‖* and a rule of dashes.
+
+## Rik 109.7 — printed pp. 649–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.7)**
+
+> आ भरतं शिक्षतं वज्रबाहू अस्माँ इन्द्राग्नी अवतं शचीभिः ।
+> इमे नु ते रश्मयः सूर्यस्य येभिः सपित्वं पितरो न आसन् ॥ ७ ॥
+
+*ā bharataṃ śikṣataṃ vajrabāhū asmāṃ indrāgnī avataṃ śacībhiḥ | ime nu te raśmayaḥ sūryasya yebhiḥ sapitvaṃ pitaro na āsan ‖ 7 ‖* *(accent-marks in the print not reproduced; "asmāṁ" is as printed)*
+
+---
+
+**Progress note:** Printed pp. 1–649 done (PDF 21–669): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.6 complete (pp. 621–649); Rik 109.7 (printed pp. 649–[?]): Saṃhitā only, at the foot of p. 649. Next: printed p. 650 (PDF 670): the Pada of 109.7 and its bhāṣya etc.; then Rik 109.8 (the last). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
