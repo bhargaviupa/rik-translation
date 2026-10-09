@@ -16762,5 +16762,132 @@ Grammar, noted briefly. *Papivāṃsā* (root *pā pāne*; when *liṭ* is optio
 *vi | hi | akhyam | manasā | vasyaḥ | icchan | indrāgnī iti | jñāsaḥ | uta | vā | sa-jātān | na | anyā | yuvat | pra-matiḥ | asti | mahyam | saḥ | vām | dhiyam | vāja-yantīm | atakṣam ‖ 1 ‖*
 
 ---
+### Page 622 (PDF 642)
 
-**Progress note:** Printed pp. 1–621 done (PDF 21–641): **Sūkta 108 is complete** (printed pp. 573–620; 13 Ṛks). **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; fourth Sūkta of the sixteenth anuvāka; printed pp. 620–[?]) begun at the foot of printed p. 620: Kannada title, Sāyaṇa's introduction, Anuvāda, heading block, and Rik 109.1's Saṃhitā and Pada done (p. 621). Next: printed p. 622 (PDF 642): the bhāṣya of 109.1. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 622; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.1)**
+
+> हे इन्द्राग्नी वस्यः प्रशस्तं धनमिच्छन् कामयमानोऽहं ज्ञासो ज्ञातीनुत वा सजातान् । समानजन्मनो ज्ञातिभ्योऽतिरिक्ता बान्धवास्तांश्च मनसा बुद्ध्या वि ह्यख्यं । युवामेव ज्ञातिरूपेण बन्धुरूपेण च व्यज्ञासिषं । ते हि धनस्य दातारो भवन्ति । अपि च युवद्युवाभ्यामन्येन केनचिदस्मभ्यं दत्ता प्रमतिः प्रकृष्टा बुद्धिर्नास्ति । मदीयो ह्येषा प्रकृष्टा बुद्धिः सा युवाभ्यामेव दत्ता । स तादृश्या बुद्ध्या युक्तोऽहं वां युवयोः संबन्धिनीं वाजयन्तीमन्नमस्मभ्यमिच्छन्तीं धियं ध्यानेन निष्पन्नां स्तुतिमतक्षम् । आकार्षम् ॥ अख्यम् । ख्या प्रकथने [?] । लुङ्यस्यतिवक्तीख्यातिभ्योऽङ् । च्लेरङादेशः । वस्यः । वसुशब्दादीयसुन् । टेरिति टिलोपः । छान्दस ईकारलोपः । ज्ञासः । सुखदुःखादिकं सामेन [?] जानन्तीति ज्ञासो ज्ञातयः । ज्ञा अवबोधने । औणादिकोऽसुन् । व्यत्ययेन विभक्तेरुदात्तत्वम् । युवत् । सुपां सुलुगिति विभक्तेर्लुक् । त्यर्थाभिधायकत्वाद्युवावौ द्विवचने । पा. २-३-५७ । इति युष्मदो मपर्यन्तस्य युवादेशः ॥
+> *he indrāgnī vasyaḥ praśastaṃ dhanam icchan kāmayamāno 'haṃ jñāso jñātīn uta vā sajātān | samānajanmano jñātibhyo 'tiriktā bāndhavās tāṃś ca manasā buddhyā vi hy akhyaṃ | yuvām eva jñātirūpeṇa bandhurūpeṇa ca vyajñāsiṣaṃ | te hi dhanasya dātāro bhavanti | api ca yuvad yuvābhyām anyena kenacid asmabhyaṃ dattā pramatiḥ prakṛṣṭā buddhir nāsti | madīyo hy eṣā prakṛṣṭā buddhiḥ sā yuvābhyām eva dattā | sa tādṛśyā buddhyā yukto 'haṃ vāṃ yuvayoḥ saṃbandhinīṃ vājayantīm annam asmabhyam icchantīṃ dhiyaṃ dhyānena niṣpannāṃ stutim atakṣam | ākārṣam ‖ akhyam | khyā prakathane [?] | luṅy asyativaktīkhyātibhyo 'ṅ | cler aṅādeśaḥ | vasyaḥ | vasuśabdād īyasun | ṭer iti ṭilopaḥ | chāndasa īkāralopaḥ | jñāsaḥ | sukhaduḥkhādikaṃ sāmena [?] jānantīti jñāso jñātayaḥ | jñā avabodhane | auṇādiko 'sun | vyatyayena vibhakter udāttatvam | yuvat | supāṃ suluk iti vibhakter luk | tyarthābhidhāyakatvād yuvāvau dvivacane | pā. 2-3-5[?] | iti yuṣmado maparyantasya yuvādeśaḥ ‖* *(Sanskrit as read; "khyā prakathane [?]", "sāmena [?]" and the Pāṇini numeral are clotted and given with doubt [?]; the tail is short and given.)*
+
+"O Indra and Agni! I, wishing *vasyaḥ*, excellent wealth (*praśastaṃ dhanam*), *vi hy akhyam* — I have discerned by mind, by understanding, the *jñāsaḥ* — kinsmen (*jñāti*) — or else the *sajātān* — those of the same birth: the relatives who are in excess of kinsmen, born from the same origin. You two alone have I known as kin, as relatives. For they are givers of wealth. And further: there is no *pramati* — excellent understanding — given to us by anyone other than you two (*yuvat*). This excellent understanding of mine was given by you two alone. Being such, endowed with such understanding, I fashioned (*atakṣam*), I made, your *dhiyam*, a prayer, a praise accomplished by meditation, which desires (*vājayantīm*) food for us."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.1; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *vasyaḥ* — excellent wealth; *icchan* — wishing; (I) *jñāsaḥ* — kinsmen (who belong to me); *uta vā* — and also; *sajātān* — other relatives; *manasā* — with mind; *vi hy akhyam* — [I] knew [them] to be yourselves; *yuvat* — than you two; *anyā* — from anyone else; *mahyam* — to me (who am favoured); *pramatiḥ* — excellent understanding; *na asti* — is not [available]; *saḥ ahaṃ* — I who am endowed with such an excellent understanding; *vām* — with you two in view; *vājayantīm* — which desires and prays for food; *dhiyam* — a hymn that is accompanied by meditation; *atakṣam* — have composed.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, I, wishing for excellent wealth, have known with my mind that you two are the real kinsmen and relatives that I have. The excellent understanding that is in me is entirely favoured by you; it is from no one else. I, who am endowed with such an excellent understanding, have composed a hymn, accompanied by meditation, with you two in view, desiring and praying for food.
+
+**English Translation (as printed in the source)**
+
+"Indra and Agni, desirous of wealth, I consider you, in my mind as kinsmen and relations ; the clear understanding you have given me, (is given) by no one else, and, (so gifted), I have composed this hymn to you intimating my wish for sustenance." *(The print carries this English across pp. 622–623: "…(is" at the foot of p. 622 and "given) by no one else…" at the head of p. 623.)*
+
+---
+
+### Page 623 (PDF 643)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 623.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.1)**
+
+**Vasyaḥ** — *praśastaṃ dhanam |* "excellent wealth: 'wealth of a superior sort' — it shows, among the kinds of wealth, an excess of quality. The same meaning, in the Ṛks that follow later, is 'wealth in the form of a good state' (*śrīyorūpa*) in some places. The sense 'accompanied by praiseworthy conduct' is shown in some contexts:
+
+> स नो नेदिष्ठं ददृशान आ भराग्ने देवेभिः सचनाः सुचेतुना महो रायः सुवीर्यम् ।
+> *sa no nediṣṭhaṃ dadṛśāna ā bharāgne devebhiḥ sacanāḥ sucetunā maho rāyaḥ suvīryam |* *(this quotation is printed here in a garbled form: "स नो नेसन्नेषतेम्यैरमूरो..." and cannot be restored from the print; read the Kannada gloss only [?])* (*Ṛ. Saṃ.* 1-[?]4-[?] as read [?])
+
+— in this passage both the epithets *amūraḥ* and *vasyaḥ* occur together: the one who is famed as having unequalled power (*apratihata śaktiyuḷḷavanu*) gives the sense *vasanīyaḥ*, 'to be dwelt with', 'being agreeable' (*saumyanu*). Likewise —
+
+> उत त्या स्त्री शशीयसी पुंसो भवति वस्यसी ।
+> *uta tyā strī śaśīyasī puṃso bhavati vasyasī |* (*Ṛ. Saṃ.* 5-6[?]-[?] as read [?])
+
+> आत्क्षिदा न उप वस्यसा हृदा युवान आ वव्र्धम् [?] ।
+> *ātkṣidā na upa vasyasā hṛdā yuvāna ā vavṛdhaṃ [?] |* (*Ṛ. Saṃ.* 8-[?]0-[?] as read [?]; as printed, doubtful [?])
+
+— in Ṛks such as these, the sense 'full of love' appears.
+
+> नहि त्वदिन्द्र वस्योऽअन्यदस्त्यमेनाँश्चिज्जनिवतश्चकर्थ ।
+> *nahi tvad indra vasyo 'nyad asty amenāṃś cij janivataś cakartha |* (*Ṛ. Saṃ.* 3-5[?]-[?] as read [?])
+
+> नहि त्वदन्यन्मघवन्नस्ति मर्डितेन्द्र ब्रवीमि ते वचः ।
+> *nahi tvad anyan maghavann asti marḍitendra bravīmi te vacaḥ |* [as read; the second line is crowded and doubtful [?]] (*Ṛ. Saṃ.* 8-[?]-[?])
+
+— here *vasyaḥ* means *praśastaḥ*, 'excellent'; in the bhāṣya it is explained as 'protector'.
+
+> उत प्र णेष्यभि वस्यो अस्मान्त्सं नः सृज सुमत्या वाजवत्या ।
+> *uta pra ṇeṣy abhi vasyo asmān saṃ naḥ sṛja sumatyā vājavatyā |* (*Ṛ. Saṃ.* 1-[?]0-[?] as read [?])
+
+> अनागास्त्वेन हरिकेश सूर्याह्नाह्ना नो वस्यसावस्यसोदिहि ।
+> *anāgāstvena harikeśa sūryāhnā-hnā no vasyasāvasyasodihi |* (*Ṛ. Saṃ.* 10-3[?]-9 as read [?]; the words as read, doubtful [?])
+
+— in Ṛks such as these, it has been used in both the ethical and the spiritual sense, 'that which gives welfare in the highest degree'.
+
+> हस्ताविव तन्वे३ शम्भविष्ठा पादेव नो नयतं वस्यो अच्छ ।
+> *hastāv iva tanve śambhaviṣṭhā pādeva no nayataṃ vasyo accha |* (*Ṛ. Saṃ.* 2-3[?]-3 as read [?])" *(continued on p. 624)*
+
+---
+
+### Page 624 (PDF 644)
+
+*(Running head: left 624; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+> यूयमस्मान्नयत वस्यो अच्छा निरंहतिभ्यो मरुतो गृणानाः ।
+> *yūyam asmān nayata vasyo acchā nir aṃhatibhyo maruto gṛṇānāḥ |* (*Ṛ. Saṃ.* 7-5[?]-[?] as read [?])
+
+"— in passages such as these, *vasyaḥ* means 'wealth that is to be dwelt in' [*vasīyo dhanam*], or 'a place such as heaven' (*svargādilakṣaṇaṃ sthānaṃ vā*): the sense is 'excellent wealth, or the best place, such as heaven'. In this way the words formed from the root *vasu* — *vasyaḥ*, *vasyasā* and others — give various meanings in the contexts in which they are used. In the Ṛk at hand they have explained *vasyaḥ* as 'excellent wealth'."
+
+**Jñāsaḥ, sajātān** — "*āyoni saṃbandhā ye jñātayaḥ te iha jñāsa ucyante | yonisaṃbandhāḥ sajātāḥ |* — 'those kinsmen who are related by birth (*āyoni*) are here called *jñāsaḥ*; those related by the womb [?] are *sajātāḥ*': Skandasvāmin explains that the word *jñāsaḥ* is used for kinsmen who are without relation by the womb, and *sajāta* for kinsmen who are related by the womb [?]. [The meaning:] 'I see you two alone as my *jñāti*s, as my *sajāta*s': that is the purport — all the *jñāsaḥ* and the *sajātas* are Indra and Agni, and apart from them I have no one at all.
+
+> परा याहि मघवन्ना च याहीन्द्र भ्रातरुभयत्रा ते अर्थम् ।
+> *parā yāhi maghavan nā ca yāhīndra bhrātar ubhayatrā te artham |* (*Ṛ. Saṃ.* 4-2[?]-2 as read [?])
+
+> किमादमत्रं सख्यं सखिभ्यः कदा नु ते भ्रात्रं प्र ब्रवाम ।
+> *kim ād amatraṃ sakhyaṃ sakhibhyaḥ kadā nu te bhrātraṃ pra bravāma |* (*Ṛ. Saṃ.* 4-2[?]-6 as read [?])
+
+> त्राता नो बोधि ददृशान आपिरभिख्याता मर्डिता सोम्यानाम् ।
+> सखा पिता पितृतमः पितॄणां कर्तेमु लोकमुशते वयोधाः ॥
+> *trātā no bodhi dadṛśāna āpir abhikhyātā marḍitā somyānām | sakhā pitā pitṛtamaḥ pitṝṇāṃ kartem u lokam uśate vayodhāḥ ‖* (*Ṛ. Saṃ.* 4-17-17 as read [?])
+
+— in Ṛks such as these, Indra's kinship — as father, brother, friend, protector in every way — is praised; likewise —
+
+> इळामकृण्वन्मनुषस्य शासनीं पितुर्यत्पुत्रो ममकस्य जायते ।
+> *iḷām akṛṇvan manuṣasya śāsanīṃ pitur yat putro mamakasya jāyate |* (*Ṛ. Saṃ.* 1-31-11 as read)
+
+> आ हि ष्मा सूनवे पिताऽऽपिर्यजत्यापये ।
+> सखा सख्ये वरेण्यः ॥
+> *ā hi ṣmā sūnave pitā 'pir yajaty āpaye | sakhā sakhye vareṇyaḥ ‖* (*Ṛ. Saṃ.* 1-26-3 as read)
+
+> त्वं जामिर्जनानामग्ने मित्रो असि प्रियः ।
+> सखा सखिभ्य ईड्यः ॥
+> *tvaṃ jāmir janānām agne mitro asi priyaḥ | sakhā sakhibhya īḍyaḥ ‖* (*Ṛ. Saṃ.* 1-75-4 as read [?])
+
+---
+
+### Page 625 (PDF 645)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 625. At the foot, the printer's signature "40 / VOLUME 8" [sic: as printed, noted only].)*
+
+> त्वामग्ने पितरमिष्टिभिर्नरस्त्वां भ्रात्राय शम्या तनूरुचम् ।
+> त्वं पुत्रो भवसि यस्तेऽविधत्त्वं सखा सुशेवः पास्याधृषः ॥
+> *tvām agne pitaram iṣṭibhir naras tvāṃ bhrātrāya śamyā tanūrucam | tvaṃ putro bhavasi yas te 'vidhat tvaṃ sakhā suśevaḥ pāsy ādhṛṣaḥ ‖* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?]; the second line is as read, with "ādhṛṣaḥ" doubtful [?])
+
+"— in Ṛks such as these Agni's kinship — as father, brother, son, friend and so on — with those who are extremely close to him is praised; and in the Ṛk at hand it is said that Indra and Agni alone are *jñāsas* and *sajātas*. 'The *jñāsaḥ* are *jñātayaḥ*, because they know pleasure, pain and the like in the same way [as oneself; *sāmena*, *sukhaduḥkhādikaṃ sāmyena jānantīti jñāsaḥ jñātayaḥ*]; because they look at our happiness and misery in the same way, and show a sympathy of feeling with us, kinsmen are called *jñāsaḥ*': Sāyaṇa has explained."
+
+**Vi hy akhyam** — "*vi akhyam ity etad vicaṣṭe ity etasya paśyatikarmaṇo rūpam |* 'the form *akhyam* of [the root meaning] 'to see': 'I see you two in many ways with the mind' (*yuvām ahaṃ vivadham paśyāmi manasā*). Since it is a variant form of the word *vicaṣṭe*, read among the names of verbs of seeing (*paśyatikarma*), *vi hy akhyam* means 'I looked': 'I look at the various forms of Indra and Agni in meditation': so Skandasvāmin; and *yuvām eva bandhurūpeṇa vyajñāsiṣam*: 'I came to know you two alone as relatives': so Sāyaṇa also explains."
+
+**Pramatiḥ** — *prakṛṣṭā buddhiḥ | madīyo hy eṣā prakṛṣṭā buddhiḥ sā yuvābhyām eva dattā |* "'excellent understanding. That excellent understanding in me was given to me by you alone', says Sāyaṇa; and '*pramatir iti manyater arcatikarmaṇo rūpaṃ | kiṃcānyā yuvat yuvābhyām asyā devatā pramatir asti mahyam | mahyam ity api ṣaṣṭhyarthe caturthī | prakarṣeṇa stutyāsti mama | yuvāṃ muktvā nāha manyā devataḥ prakarṣeṇa stauṃīty arthaḥ*' [Skandasvāmin, as read [?]]: 'the word *pramati* is a form of *manyate*, which is a verb of worship; the fourth case *mahyam* is in the sense of the sixth, "of mine"; *prakarṣeṇa stuti*: "I praise [only] you two, I praise no other deity" — that is the meaning'. The word *manyate* is read among the names of verbs of worship (*Ni.* 3-[?]). The word *pramatiḥ* is another form of *manyate*. [The words] *nānyā yuvat pramatir asti mahyam*: 'apart from you two there are no other deities to be praised by me; you two alone are my worshipful deities': that is the purport, so Skandasvāmin has explained. Sāyaṇa, in all the places where this word occurs, explains with a *bahuvrīhi* — 'one who has excellent understanding'. But in
+
+> अथाहं त्वा मघवन्जोहवीमि त्वं न इन्द्रासि प्रमतिः पितेव ।
+> *athāhaṃ tvā maghavan johavīmi tvaṃ na indrāsi pramatiḥ piteva |* (*Ṛ. Saṃ.* 2-2[?]-[?] as read [?])
+
+— in this Ṛk he explains the word *pramati* as 'relative' (*bandhuḥ*). Here too it means 'a relative who has a mind that thinks highly of us'."
+
+**Dhiyam** — *dhyānena niṣpannāṃ stutim |* "a praise accompanied by meditation; or a work that has the form of a sacrifice."
+
+**Atakṣam** — *akārṣam |* "I made, I fashioned."
+
+---
+
+**Progress note:** Printed pp. 1–625 done (PDF 21–645): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Rik 109.1 (printed pp. 621–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 621–625); its grammar follows. Next: printed p. 626 (PDF 646). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
