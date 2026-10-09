@@ -10715,4 +10715,110 @@ Grammar page, noted briefly. It treats: *cakartha* (root *ḍukṛñ karaṇe*; 
 
 ---
 
-**Progress note:** Printed pp. 1–389 done (PDF 21–409): **Sūkta 103** (8 Ṛks) in progress: Rik 103.6 complete (pp. 383–386); Rik 103.7 (printed pp. 386–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (*sasantam*, *ahim*, *vayaḥ*, *patnīḥ amadan*) and the start of the grammar done to p. 389. Next: printed p. 390 (PDF 410): the grammar of 103.7 continues; then Rik 103.8 (the last Rik) and the close of Sūkta 103 (printed pp. 390–393); Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 390 (PDF 410)
+
+*(Running head: left 390; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**Vyākaraṇa-prakriyā of Rik 103.7, concluded (grammar page, noted briefly; numerals small and doubtful [?])**
+
+Grammar page, noted briefly. The grammar of Rik 103.7 concludes: *abodhayaḥ* (root *budha avagamane*; after the *ṇic*-ended form, *laṅ*, second person singular, *sip*; the augment *aṭ* being acute, the word is acute on the first syllable; since *yat* is related to it, the *nighāta* is prevented by *yadvṛttānnityam* [Pā. Sū. 8-1-66 as read]); *patnīḥ* (*patyur no yajñasaṃyoge* [Pā. Sū. 4-1-33 as read], the affix *ṅīp*; *n* by that connection [*nuk*]; *jas* following the word *patnī*; the long vowel of the prior form by *vā chandasi* [Pā. Sū. 6-1-106 as read]); *hṛṣitam* (root *hṛṣu tuṣṭau*, *divādi*; *kta* by *niṣṭhā*; *iṭ* by *ārdhadhātukasyeḍ valādeḥ* [Pā. Sū. 7-2-35 as read]; acute on the last syllable); *devāsaḥ* (the word *deva*, with *jas* following; *asuk* by *ājjaser asuk* [Pā. Sū. 7-1-50 as read]); *amadan* (root *madī harṣe*, *divādi*; *laṅ*, third person plural, *jhi*; *anta* by *jho 'ntaḥ*; loss of *i* by *itaś ca*; *śap* instead of *śyan* by *vyatyayo bahulam* [Pā. Sū. 3-1-85 as read]; loss of the final consonant by *saṃyogāntasya lopaḥ*; *nighāta*). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
+
+## Rik 103.8 — printed pp. 390–392 *(the last Rik of Sūkta 103)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.8)**
+
+> शुष्णं पिप्रुं कुयवं वृत्रमिन्द्र यदावधीर्वि पुरः शम्बरस्य ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ८ ॥
+
+*śuṣṇaṃ pipruṃ kuyavaṃ vṛtram indra yadāvadhīr vi puraḥ śambarasya | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 8 ‖*
+
+### Page 391 (PDF 411)
+
+*(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 391.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.8)**
+
+> शुष्णम् । पिप्रुम् । कुयवम् । वृत्रम् । इन्द्र । यदा । अवधीः । वि । पुरः । शम्बरस्य ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ८ ॥
+
+*śuṣṇam | pipṛum [read pipruṃ] | kuyavam | vṛtram | indra | yadā | avadhīḥ | vi | puraḥ | śambarasya | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.8)**
+
+> हे इन्द्र त्वं शुष्णादींश्च तुरोऽसुरान्यदावधीः । हतवानसि तदानीं शम्बरस्यासुरस्य पुरो नगराणि विदारितवानसि । आसुराणां मुख्येषु हतेष्वन्यान्यस्यासुरपुराणि विदीर्णान्यसन्नित्यर्थः । यदनेन सूक्तेन प्रार्थितमस्मदीयं तन्मित्रादयो मामहन्ताम् । पूजितं कुर्वन्तु ॥ शुष्णं । शुष शोषणे । अन्तर्भावितण्यर्थात् तृषिशुषिरसिभ्यः कित्क्नः । उ. ३-१० । इति नप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं । पिप्रुं । प्रा पालनपूरणयोः । प्रा इत्येके । औणादिकः कुप्रत्ययः । छन्दस्युभयथेति तस्य सार्वधातुकत्वे सति शप् । जुहोत्यादित्वात्श्लुः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वं । कुयवं । यवो यवनं मिश्रणं । कुत्सितं यवनमस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । शम्बरस्य । शमयतीति शम्ब आयुधं । शमेर्वन् । उ. ४-४९ । ततो मत्वर्थीयो रप्रत्ययः ॥
+> *he indra tvaṃ śuṣṇādīṃś ca turo 'surān yadāvadhīḥ | hatavān asi tadānīṃ śambarasyāsurasya puro nagarāṇi vidāritavān asi | āsurāṇāṃ mukhyeṣu hateṣv anyāny asyāsurapurāṇi vidīrṇāny asann ity arthaḥ | yad anena sūktenāsmābhiḥ prārthitam asmadīyaṃ tan mitrādayo māmahantām | pūjitaṃ kurvantu ‖ śuṣṇaṃ | śuṣa śoṣaṇe | antarbhāvitaṇyarthāt tṛṣiśuṣirasibhyaḥ kitknaḥ | U. 3-10 | iti napratyayaḥ | nid ity anuvṛtter ādyudāttatvaṃ | pipruṃ | prā pālanapūraṇayoḥ | prā ity eke | auṇādikaḥ kupratyayaḥ | chandasy ubhayatheti tasya sārvadhātukatve sati śap | juhotyāditvāt śluḥ | artipiparty oś cety abhyāsasyetvaṃ | kuyavaṃ | yavo yavanaṃ miśraṇaṃ | kutsitaṃ yavanam asya | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | śambarasya | śamayatīti śamba āyudhaṃ | śamer van | U. 4-49 | tato matvarthīyo rapratyayaḥ ‖*
+
+*(The print's Pada has* pipruṃ *[the Devanagari above, with the reading note];* nid ity anuvṛtter *is the print's reading [?]; the Uṇādi numerals are read as printed [?].)*
+
+"O Indra! Since you killed Śuṣṇa and the other Asuras who were violent, then you also tore open the cities of the Asura Śambara. The sense is that, when the chief ones among the Asuras had been killed, the other cities of the Asuras were also torn open. What we have prayed for by this sūkta — may Mitra and the rest honour it: may they make it honoured."
+
+*(The grammatical tail is characterized:* śuṣṇa *(root* śuṣ *'to dry up', with the Uṇādi* kit-na *after* tṛṣi/śuṣi/rasi*, in a causal sense [Uṇ. Sū. 3-10, as read, ?]);* pipru *(root* prā *'to protect, to fill', with the Uṇādi* ku*;* śap *in the Veda; then* śluḥ *and the doubling and* i *in the reduplicative);* kuyava *(*yava = 'mixing'; 'one whose mixing is bad'; a* bahuvrīhi *with the accent of the first member);* śambara *(*śamba *'weapon', root* śam *with* van *[Uṇ. Sū. 4-49, as read, ?], then* ra *in the possessive sense).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*indra* — O Indra; *yadā* — when; *śuṣṇaṃ* — [the Rākṣasa] Śuṣṇa; *pipruṃ* — Pipru; *kuyavaṃ* — Kuyava; *vṛtraṃ* — Vṛtra; *avadhīḥ* — you killed; *śambarasya* — of the Asura Śambara; *puraḥ* — the cities; *vi* — [you] utterly destroyed; (therefore) *naḥ* — our; *tat* — prayed-for desired objects; *mitraḥ* — Mitra; *varuṇaḥ* — and Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the deity presiding over the sea; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the deity of the heavenly world; *māmahantām* — may they favour."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Indra, when you killed Śuṣṇa, Pipru, Kuyava and Vṛtra, the Rākṣasas, you utterly destroyed also the cities of the Asura Śambara. Therefore may Mitra, Varuṇa, Aditi, the deity presiding over the sea, the earth and the deity of the heavenly world favour the desired objects that we have prayed for."
+
+### Page 392 (PDF 412)
+
+*(Running head: left 392; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**English Translation (as printed)**
+
+> Inasmuch, Indra, as you have slain Sushna, Pipru, Kuyava, and Vritra and destroyed the cities of Sambara, therefore may Vritra [sic], Varuna, Aditi,—Ocean, earth, and heaven, grant us that (which we desire).
+
+*(The print's* Vritra *in the last clause is a misprint for* Mitra*.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.8 (Kannada)**
+
+"*Viśve devāsaḥ amadann anu tvā* — *kecit punar aratvamadan* [as read, ?] *ucyate*: *śuṣṇam ity ādi*: Skandasvāmin has shown the connection that this Ṛk has with the second half of the preceding Ṛk and with the first half of this Ṛk. The sense: all the gods, delighted at the slaying of Śuṣṇa and the others, praised Indra.
+
+*Śuṣṇaṃ, pipruṃ, śambaram* — Indra's having killed Śuṣṇa, the Asura of fearsome form who was exceedingly destructive and who held back the rain, and having helped Kutsa Ārjuneya; having fought Pipru to help Ṛjiśvan, destroyed his strong ramparts and conquered him; and having fought Śambara, who, hiding in mountain caves, gave pain to the sacrificers, destroyed his innumerable cities, killed him, and helped his own dear friend, the king Divodāsa — all this has been explained earlier (see the special topics of the Ṛk 1-101-2).
+
+*Kuyavam* — Indra fought the Asura named Kuyava to help the royal sage named Kutsa, and conquered him: this is well known."
+
+> स रन्धयत्सदिवः सारथये शुष्णमशुषं कुयवं कुत्साय ।
+> *sa randhayat sadivaḥ sārathaye śuṣṇam aśuṣaṃ kuyavaṃ kutsāya |*
+> (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> कुत्साय शुष्णमशुषं नि बर्हीः प्रपित्वे अह्नः कुयवं सहस्रा ।
+> *kutsāya śuṣṇam aśuṣaṃ ni barhīḥ prapitve ahnaḥ kuyavaṃ sahasrā |*
+> (*Ṛ. Saṃ.* 4-[?]6-[?]3 as read [?])
+
+> त्वं कुत्सेनाभि शुष्णमिन्द्राशुषं युध्य कुयवं गविष्टौ ।
+> *tvaṃ kutsenābhi śuṣṇam indrāśuṣaṃ yudhya kuyavaṃ gaviṣṭau |*
+> (*Ṛ. Saṃ.* 6-[?]3-3 as read [?])
+
+> दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ।
+> *dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan |*
+> (*Ṛ. Saṃ.* 2-[?]4-3 as read [?])
+
+### Page 393 (PDF 413)
+
+*(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 393.)*
+
+"— in Ṛks like these the destruction of Kuyava in order to help Kutsa is described everywhere.
+
+> अव त्मना भरते केतवेदा अव त्मना भरते फेनमुदन् ।
+> क्षीरेण स्नाताः कुयवस्य योषे हते ते स्याताम् प्रवणे शिफायाः ॥
+> *ava tmanā bharate ketavedā ava tmanā bharate phenam udan | kṣīreṇa snātāḥ kuyavasya yoṣe hate te syātām pravaṇe śiphāyāḥ ‖*
+> (*Ṛ. Saṃ.* 1-104-3 as read [?])
+
+"— in this Ṛk, describing the two wives of Kuyava bathing in the river and the fear that arose in them, it prays that these two women also be destroyed in the current of the river Śiphā.
+
+> करत्तिस्रो मघवा दानुचित्रा नि दुर्योणे कुयवाचं मृधि श्रेत् ।
+> *karat tisro maghavā dānucitrā ni duryoṇe kuyavācaṃ mṛdhi śret |*
+> (*Ṛ. Saṃ.* 1-[?]4-2 as read [?])
+
+"— in this Ṛk it is said that he killed in battle the Asura who had a bad voice, who had this name. Perhaps Kuyava is meant by this adjective.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.8)** *(grammar pages, begun on p. 393, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *śuṣṇam* (root *śuṣa śoṣaṇe*; since the causative sense is shown, the root with the *ṇic* sense included; *kit-na* by *tṛṣiśuṣirasibhyaḥ kit* [Uṇ. Sū. 3-[?]9 as read, ?], the affix *na*; *ṣṇ* → *ṣṇ* by the *ṣṭutva* rule…; since *kit*, no *guṇa* of the penult; by the continuation of *nit* [as read], acute on the first syllable by *ñnityādir nityam* [Pā. Sū. 6-1-197 as read]; accusative singular); *pipruṃ* (root *prā pālanapūraṇayoḥ*; some hold that it is *prā*; the Uṇādi *ku*; since *śap* has the *sārvadhātuka* name in the Veda by *chandasy ubhayathā* [Pā. Sū. 3-4-117 as read], *śap* by *kartari śap* [Pā. Sū. 3-1-68 as read]; since the root is in the *juhotyādi* class, *śluḥ* in its place by *juhotyādibhyaḥ śluḥ* [Pā. Sū. 2-4-75 as read]; doubling by *ślau* [Pā. Sū. 6-1-10 as read]; *i* in the reduplicative by *arti pipartyośca* [Pā. Sū. 7-4-77 as read]; *yaṇ* for the root's *ṛ*; acute on the first syllable by *abhyastānām ādiḥ* [Pā. Sū. 6-1-189 as read]); *kuyavam* (*yavaḥ yavanaṃ miśraṇam*; root *yu miśraṇāmiśraṇayoḥ*; *lyuṭ* in the sense of the action; *ana* by *yuvoranākau* [Pā. Sū. 7-1-1 as read]; *guṇa* of the root because of it; *av*-substitution; *kutsitaṃ yavanam asya saḥ kuyavaḥ tam*; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam* [Pā. Sū. 6-2-1 as read])" *(the grammar continues on the next page)*
+
+---
+
+**Progress note:** Printed pp. 1–393 done (PDF 21–413): **Sūkta 103** (8 Ṛks) nearly complete: Rik 103.7 complete (pp. 386–390); Rik 103.8, the last Rik (printed pp. 390–393): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English and the Special Topics (*śuṣṇam pipruṃ śambaram*, *kuyavam*) done, and the grammar begun (*śuṣṇam*, *pipruṃ*, *kuyavam*) at the foot of p. 393. Next: printed p. 394 (PDF 414): the end of the grammar of 103.8 and the close of Sūkta 103, then Sūkta 104 (starts at printed p. 394). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
