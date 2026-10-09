@@ -18566,5 +18566,120 @@ By such sentences the very close companionship and relation of Indra and the Ṛ
 O Ṛbhus! After the cow of your devotee, the ṛṣi, had died, you created another cow and fitted it with the skin of the dead cow; and you joined it with the calf in such a way that the feeling comes to the calf that it is its mother. O sons of Sudhanvan, leaders of the sacrifice, O Ṛbhus! by your practice of excellent works such as *yāga* and *dāna* you made the aged mother and father again endowed with youth.
 
 ---
+### Page 693 (PDF 713)
 
-**Progress note:** Printed pp. 1–692 done (PDF 21–712): Sūkta 110: Riks 110.1–110.7 complete (pp. 657–691); Rik 110.8 (printed pp. 691–[?]): Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha and Bhāvārtha done (p. 692). Next: printed p. 693 (PDF 713) — the printed English and Special Topics of Rik 110.8, then Rik 110.9. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 693.)*
+
+**English Translation (as printed in the source; Rik 110.8)**
+
+"Ribbus, you covered the cow with a hide, and reunited the mother with the calf; sons of Sudhanwan, leaders (of sacrifice), through your good works you rendered your aged parents young."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.8)**
+
+**निश्चर्मण ऋभवो गामपिंशत — Niścarmaṇa ṛbhavo gām apiṃśata.** Sāyaṇa's explanation of this sentence differs a little from Skandasvāmi's. The tale as told in Sāyaṇa's bhāṣya is this: *purā kasyacid ṛṣer dhenur mṛtā | sa ṛṣis tasyā dhenor vatsaṃ dṛṣṭvā ṛbhūn tuṣṭāva | ṛbhavas tatsadṛśīm anyāṃ dhenuṃ kṛtvā tadīyena carmaṇā saṃvīya tena vatsena samayojayann iti* *(as in the bhāṣya, p. 691)*. "In olden times a ṛṣi's cow died; as it was being [flayed?], moved by pity because of the calf's cry, he prayed to the Ṛbhus for help. The Ṛbhus then made another cow, covered it with the dead cow's skin, and joined it with the calf. This is their glory." Skandasvāmi's explanation is:
+
+> अत्रेतिहासमाचक्षते । ऋषेः कस्यचिद्धोत्रधेनुस्तरुणवत्सा ममार । तस्यां विकीर्तितायां [?] आरुदिता वत्सेन उद्वेजितः [?] ऋभून् सस्नपितरौ [?] वृद्धौ पुनर्युवानौ कुर्वतो ददर्श । तानुवाच । ममाप्यग्निहोत्रधेनुं मृतां पुनर्जीवयतेति । तस्य स्वमाहात्म्येन तस्माच्चर्मणः तामेव गामशेषावयवोपेतां चक्रुः इति । तदेतदिहोच्यते निश्चर्मण इति ।
+> *atretihāsam ācakṣate | ṛṣeḥ kasyacid dhotradhenus taruṇavatsā mamāra | tasyāṃ vikīrtitāyām [?] āruditā vatsena udvejitaḥ [?] ṛbhūn sasnapitarau [?] vṛddhau punar yuvānau kurvato dadarśa | tān uvāca | mamāpy agnihotradhenuṃ mṛtāṃ punar jīvayateti | tasya svamāhātmyena tasmāc carmaṇaḥ tām eva gām aśeṣāvayavopetāṃ cakruḥ iti | tad etad ihocyate niścarmaṇa iti |*
+> *(Sanskrit as read; several words are clotted and are marked [?], not completed.)*
+
+The sense, as the Kannada gives it: a certain ṛṣi's *agnihotra* cow died, leaving her young calf. As she was being cut up [?], hearing the piteous cry of the little calf, the ṛṣi, moved by pity, called the Ṛbhus to mind. They were making their aged mother and father young again; seeing that power of theirs, he asked them to bring his dead *agnihotra* cow to life too. And they made that same cow, out of its own skin, complete with all its limbs, and brought it to life. "The main difference between Sāyaṇa and this is that Sāyaṇa says *anyāṃ dhenuṃ kṛtvā* ('having made another cow'), whereas Skandasvāmi says *tām eva gām aśeṣāvayavopetāṃ cakruḥ* ('they made that very cow complete in all its limbs')."
+
+**आपिंशत — Āpiṃśata.** The word is derived from the root *piś*, which has the sense 'give form, give shape, fashion'; the usage of this word occurs both in the sense 'join separate limbs together and give them one shape' and in the sense 'break a single shape up and make separate limbs'. For example:
+
+*(the examples run on to p. 694)*
+
+---
+
+### Page 694 (PDF 714)
+
+*(Running head: left 694; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+> वर्धयन्तीं बहुभ्यः प्रैको अब्रवीदैता वदंश्चमसाँ अपिंशत ।
+> *vardhayantīṃ bahubhyaḥ praiko abravīd aitā vadaṃś camasāṃ apiṃśata |*
+> (*Ṛ.* 1-[?]-[?] as read [?])
+> *(Sanskrit as read from the print and doubtful; no gloss attempted.)*
+
+> याभिः शचीभिश्चमसाँ अपिंशत ययां धियो गामरिणीत चर्मणः ।
+> *yābhiḥ śacībhiś camasāṃ apiṃśata yayā dhiyo gām ariṇīta carmaṇaḥ |*
+> (*Ṛ.* 3-60-2 as read [?])
+> *(Sanskrit as read; doubtful in the second line [?]; no gloss attempted.)*
+
+In these Ṛks the word *apiṃśata* would mean 'they made the cup in four parts', that is, 'they divided it into four portions'.
+
+> अभि श्यावं न कृशनेभिरश्वं नक्षत्रेभिः पितरो द्यामपिंशन् ।
+> *abhi śyāvaṃ na kṛśanebhir aśvaṃ nakṣatrebhiḥ pitaro dyām apiṃśan |*
+> (*Ṛ.* 10-68-11 as read [?])
+> "…the fathers adorned the sky with stars, as one [adorns] a dark horse with ornaments (?)" *(mine and tentative)*
+
+Here [Sāyaṇa glosses] *abhito 'dīpayan*, 'they made shine all round'; *ayaṃ dīpanāyāṃ vartate*, 'this [root] is used in the sense of illumining'. 'They made it luminous', that is, they gave it a form and made it shine.
+
+> ये इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> *ye ime dyāvāpṛthivī janitrī rūpair apiṃśad bhuvanāni viśvā |*
+> (*Ṛ.* 10-110-9 as read [?])
+> "…[he] who gave form with his forms to these two, heaven and earth, the begetters, [and to] all the worlds" *(mine and tentative)*
+
+In this Ṛk it means 'he made [the worlds] into many different forms'. In the Ṛk before us: *aśeṣāvayavopetāṃ cakruḥ | niḥśeṣeṇāśliṣṭāṃ saṃyuktām akuruta |* — 'they made [the cow] provided with all its limbs; they made it completely joined': that is, they joined together the scattered, separate limbs and gave the cow a single form.
+
+**जिव्री — Jivrī.** *jīrṇau* — 'aged', 'grown old'. In one place only [it is otherwise]:
+
+> आ वां दानाय ववृतीय दस्रा गोरोहेण तौग्र्यो न जिव्रिः ।
+> *ā vāṃ dānāya vavṛtīya dasrā goror oheṇa taugryo na jivriḥ |*
+> (*Ṛ.* 1-180-5 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+In this Ṛk Sāyaṇa shows in the bhāṣya that two meanings are possible, 'aged' and 'victorious by nature'. But in the Ṛks which the Nirukta cites (*Ni.* 6-31 as read [?]):
+
+> आ त्वा रम्भं न जिव्रयो ररम्भा शवसस्पते ।
+> *ā tvā rambhaṃ na jivrayo rarambhā śavasas pate |*
+> (*Ṛ.* 8-[?]-[?] as read [?])
+
+> एना पेत्या तन्वं सं सृजस्वाथा जिव्री विदथमा वदाथः ।
+> *enā petyā [?] tanvaṃ saṃ sṛjasvātha jivrī vidatham ā vadāthaḥ |*
+> (*Ṛ.* 10-[?]-[?] as read [?])
+> *(Sanskrit as read; the first line is doubtful [?]; no gloss attempted.)*
+
+— in all these Ṛks the sense is only 'aged, old'. So here too: aged mother and father; the Ṛbhus made them again youthful.
+
+**स्वपस्यया — Svapasyayā.** *śobhanakarmecchayā | yogadānādyācaraṇena* — "by the desire for good works; by the practice of *yoga*, giving, and the like": by the practice of excellent works such as sacrificing and giving.
+
+---
+
+### Page 695 (PDF 715)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 695.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.8)** *(grammar pages, pp. 695–696, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Apiṃśata*: root *piśa avayave*, of the *tudādi* [*muc*] class; *laṅ*, third person singular *ta*; *tudādibhyaḥ śaḥ* (*pā.* 3-1-77 as read [?]) the sign *śa*; *śe mucādīnām* (*pā.* 7-1-59 as read [?]) the augment *num*; the augment *aṭ*; *nighāta* accent after a finite verb. *Asṛjata*: root *sṛja visarge*; as before, *laṅ* third singular, *nighāta*. *Saudhanvanāsaḥ*: 'the son of Sudhanvan, a male' = *saudhanvanaḥ*, from *tasyāpatyam* [the suffix *aṇ*]; where the loss of the *ṭi* would be reached by *nasta ddhite* (*pā.* 6-4-144 as read [?]) there is, by *an* (*pā.* 6-4-167 as read [?]), *prakṛtibhāva*; *vṛddhi* of the first syllable by *taddhiteṣv acām ādeḥ* (*pā.* 7-2-117 as read [?]); in the vocative *jas*, *asuk* by *ājjaser asuk* (*pā.* 7-1-50 as read [?]); the final *s* becomes *ruḥ*, then *visarga*; as it is at the beginning of a *pāda*, the *āṣṭamika nighāta* does not arise; by *āmantritasya ca* (*pā.* 6-1-198 as read [?]) the final syllable (?) becomes *udātta* [?]. *Svapasyayā*: *śobhanam apaḥ svapaḥ*; 'he wishes for good work for himself' = *svapasyā*; *supa ātmanaḥ kyac* (*pā.* 3-1-8 as read [?]) the suffix *kyac*; *sanādyantā dhātavaḥ* (*pā.* 3-1-32 as read [?]) gives it the designation of a root; then *a pratyayāt* (*pā.* 3-3-102 as read [?]) the suffix *a* [in the abstract sense — this occurs in the Bhāvārtha-sense]; *ato lopaḥ* (*pā.* 6-4-48 as read [?]) the loss of the *a* of *kyac*; as the section on *striyām* governs, the feminine *ṭāp* arises; the instrumental singular. *Jivrī*: root *jyā vayohānau*; by *jyāśrijāgṛbhyaḥ kvin* [?] (*Uṇ.* 4-[?]) the suffix *kvin*; by *ṛta id dhātoḥ* (*pā.* 7-1-100 as read [?]) *i* for the root's *ṛ* [?]; *raparaḥ*; the Vedic interchange of the *r* and *v*; since *bahulam* applies in the Veda, the lengthening before *hali ca* does not occur; since the suffix is *nit*, the first syllable is *udātta* by *ñnityādir nityam* (*pā.* 6-1-197 as read [?]); dual. *Yuvānā*: dual *au*; by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the *ā*-substitute. *Pitarā*: 'father and mother' = *pitarau*; by *pitā mātrā* (*pā.* 1-2-70 as read [?]) the word *pitṛ* alone remains; as before, *ā* for the dual.
+
+---
+
+### Page 696 (PDF 716)
+
+*(Running head: left 696; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(Grammar, concluded; short.)* *Akṛṇotana*: root *kṛvi hiṃsākaraṇayoś ca*; *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; in the second-person plural of *laṅ*, *ta* for *tha* by *tasthasthamipāṃ…* (*pā.* 3-4-101 as read [?]); the suffix *u* by *dhinvikṛṇvyor a ca* (*pā.* 3-1-80 as read [?]); with it the root's final becomes *a*-ending [*akāra*]; when a substitute for the place of *va* comes, *āto lopaḥ* (*pā.* 6-4-48 as read [?]) its loss; *aci paraḥ… pūrvavidhau* [*pā.* 1-1-57 as read [?]], so by *sthānivadbhāva* no *guṇa* of the light penultimate occurs, the *u* being the cause; the *guṇa* of the suffix *u* itself, because of it; the augment *aṭ*; *taptanaptanathanāś ca* (*pā.* 7-1-45 as read [?]): *tana* for the *ta*-suffix; because it is *pit*, the *guṇa*-prohibition does not arise; *nighāta* accent after a finite verb. ‖ 8 ‖
+
+*(An ornamental rule — :o: — closes Ṛk 110.8 and its commentary.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.9)** *(accent-marks not reproduced)*
+
+> वाजेभिर्नो वाजसाताविविड्ढ्यृभुमाँ इन्द्र चित्रमा दर्षि राधः ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ९ ॥
+> *vājebhir no vājasātāv aviḍḍhy ṛbhumāṃ indra citram ā darṣi rādhaḥ |*
+> *tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 9 ‖*
+
+*(The Saṃhitā's* aviḍḍhy ṛbhumāṃ *is printed with a faint mark between the syllables; read as given and checked against the Pada.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.9)**
+
+> वाजेभिः । नः । वाजऽसातौ । अविड्ढि । ऋभुऽमान् । इन्द्र । चित्रम् । आ । दर्षि । राधः ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ९ ॥
+> *vājebhiḥ | naḥ | vāja-sātau | aviḍḍhi | ṛbhu-mān | indra | citram | ā | darṣi | rādhaḥ |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 9 ‖*
+
+*(As printed, the Saṃhitā has* māmahantām *and the Pada* mamahantām; *recorded as read.)*
+
+---
+
+**Progress note:** Printed pp. 1–696 done (PDF 21–716): Sūkta 110: Riks 110.1–110.8 complete (pp. 657–696); Rik 110.9 (the last Ṛk of Sūkta 110; printed pp. 696–[?]): Saṃhitā and Pada done (p. 696). Next: printed p. 697 (PDF 717) — the bhāṣya of Rik 110.9. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
