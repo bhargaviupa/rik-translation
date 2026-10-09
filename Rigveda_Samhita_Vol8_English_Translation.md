@@ -12635,5 +12635,106 @@ In this Ṛk, Sūrya in the heavenly world, Vāyu in the mid-region, and Agni on
 — the eight Vasus, the eleven Rudras, the twelve Ādityas, and Heaven and Earth together: these are the thirty-three deities. Prajāpati" *(the passage continues on p. 466: "…among these themselves")*
 
 ---
+### Page 466 (PDF 486)
 
-**Progress note:** Printed pp. 1–465 done (PDF 21–485): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.4 complete (pp. 441–462); Rik 105.5 (printed pp. 462–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; its Special Topics (the three worlds and thirty-three deities, Nirukta and Śatapatha) under way, ending mid-sentence at the foot of p. 465 ("Prajāpati…"). Next: printed p. 466 (PDF 486); then grammar of 105.5 and Rik 105.6. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 466; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106 [sic: as read; the Sūkta is 105; small numerals] [?]".)*
+
+"— Prajāpati is the thirty-fourth, it says (*Śa. Brā.* 4-5-[?]-[?] as read [?]). But in another place, with the same count of thirty-three, Indra and Prajāpati are included in place of Heaven and Earth:
+
+> के त्रयस्त्रिंशदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिन्द्रश्चैव प्रजापतिश्च त्रयस्त्रिंशाविति ।
+> *ke trayastriṃśad ity aṣṭau vasava ekādaśa rudrā dvādaśādityās ta ekatriṃśad indraś caiva prajāpatiś ca trayastriṃśāv iti |* (*Śa. Brā.* 11-6-3-5 as read [?]; the first word is "ke" as printed, probably for *kati* [?])
+
+In the Aitareya Brāhmaṇa too —
+
+> त्रयस्त्रिंशद्वै देवाः सोमपास्त्रयस्त्रिंशदसोमपा अष्टौ वसव एकादश रुद्रा द्वादशादित्याः प्रजापतिश्च वषट्कारश्चैते देवाः सोमपाः ।
+> *trayastriṃśad vai devāḥ somapās trayastriṃśad asomapā aṣṭau vasava ekādaśa rudrā dvādaśādityāḥ prajāpatiś ca vaṣaṭkāraś caite devāḥ somapāḥ |* (*Ai. Brā.* 2-18 as read [?])
+
+— those who drink Soma are thirty-three deities: the eight Vasus, the eleven Rudras and the twelve Ādityas, with Prajāpati and the *vaṣaṭkāra* [as printed]. Thus in the Saṃhitā and in the Brāhmaṇas there is the same intention in respect of this number. But in
+
+> त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् ।
+> *trīṇi śatā trī sahasrāṇy agniṃ triṃśac ca devā nava cāsaparyan |* (*Ṛ. Saṃ.* 3-9-9 as read [?])
+
+— in this Ṛk, and likewise in the Ṛk 10-[?]-1 [as read [?]], it is said that three thousand three hundred and thirty-nine (*tri-ṇi śatā tri sahasrāṇi triṃśat nava*) deities worshipped Agni; in the Vājasaneyi Saṃhitā (33-2 as read [?]) the same order is found. And again —
+
+> नमो महद्भ्यो नमो अर्भकेभ्यो नमो युवभ्यो नम आशिनेभ्यः ।
+> *namo mahadbhyo namo arbhakebhyo namo yuvabhyo nama āśinebhyaḥ |* (*Ṛ. Saṃ.* 1-27-13 as read [?])
+
+— when one says homage to [the gods who are] exceedingly great in virtues, lesser in virtues, young, and old — to all the many kinds of gods — it is understood that there is a variety of forms among the gods. This same Ṛk is read also in the Aitareya Brāhmaṇa (7-[?]), in the Śunaḥśepa story, in the context of the prayer to the Viśvedevas. And —
+
+> नहि वो अस्त्यर्भको देवासो न कुमारकः । विश्वे सतो महान्त इत् ॥
+> *nahi vo asty arbhako devāso na kumārakaḥ | viśve sato mahānta it ‖* (*Ṛ. Saṃ.* 8-30-1 as read [?])
+
+---
+
+### Page 467 (PDF 487)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 467.)*
+
+"— here there is no distinction among the gods of 'big' and 'small'; they are praised as all being exceedingly great. Addressing such great gods, Trita in the Ṛk at hand makes his prayer. His prayer is both a reproach, that those deities who are the guardians of *ṛta* and the destroyers of enemies have not helped him, and a lament. For that very reason it is in the form of the questions '*vaḥ ṛtaṃ kat*' and '*tat praśnā vaḥ āhutiḥ kva*'."
+
+**Pratnā** — *cirakālīnā; mayā pūrvam anuṣṭhito yogaḥ |* "'ancient': were the sacrificial offerings that I performed earlier not noted by you? By experiencing such a sorrow, I infer that the entire mass of rites I performed earlier did not reach you: since I suffer such sorrow, I infer that none of my former sacrificial offerings reached you. The meaning is that, if they had reached you, you, being of the nature of *ṛta*, would certainly have shown me favour." *(Kannada, with the Sanskrit sentence quoted from the bhāṣya.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.5)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Sthana* (root *as bhuvi*; *loṭ*, second person plural; by *loṭo laṅvat*, Pā. Sū. 3-4-85 as read [?] and *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?], the ending *tha*; *sārvadhātukam apit*, Pā. Sū. 1-2-4 as read [?]; loss of the root's *a* by *śnasor allopaḥ*, Pā. Sū. 6-4-111 as read [?]; *taptanaptanathanāś ca*, Pā. Sū. 7-1-45 as read [?], the *tana* becomes *thana*; because of the *yat*-connection, the prohibition of *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]; the word is acute on its first syllable by the accent of the suffix). *Triṣu* (*sāvekācas tṛtīyādiḥ*, Pā. Sū. 6-1-168 as read [?]: the ending is acute). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). *Kat* (the word *kva*; in the Veda *kat* by *varṇavyatyaya*). *Anṛtam* (*na ṛtam anṛtam*; the loss of the *n* of *naña* by *nalopo nañaḥ*, Pā. Sū. 6-3-73 as read [?]; the *nuṭ* augment before a vowel by *tasmān nuḍ aci*, Pā. Sū. 6-3-74 as read [?]; the accent of the prior member by *tatpuruṣe tulyārthatṛtīyā…*, Pā. Sū. 6-2-2 as read [?], since an indeclinable begins the compound). The Rik is closed with *‖ 5 ‖* and a rule of dashes.
+
+---
+
+### Page 468 (PDF 488)
+
+*(Running head: left 468; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+## Rik 105.6 — printed pp. 468–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.6)**
+
+> कद्व ऋतस्य धर्णसि कद्वरुणस्य चक्षणम् ।
+> कदर्यम्णो महस्पथाति क्रामेम दूढ्यो वित्तं मे अस्य रोदसी ॥ ६ ॥
+
+*kad va ṛtasya dharṇasi kad varuṇasya cakṣaṇam | kad aryamṇo mahas pathāti krāmema dūḍhyo vittaṃ me asya rodasī ‖ 6 ‖* *(accent-marks in the print not reproduced; "dūḍhyaḥ" is as printed)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.6)**
+
+> कत् । वः । ऋतस्य । धर्णसि । कत् । वरुणस्य । चक्षणम् ।
+> कत् । अर्यम्णः । महः । पथा । अति । क्रामेम । दुःऽध्यः ।
+> वित्तम् । मे । अस्य । रोदसी इति ॥ ६ ॥
+
+*kat | vaḥ | ṛtasya | dharṇasi | kat | varuṇasya | cakṣaṇam | kat | aryamṇaḥ | mahaḥ | pathā | ati | krāmema | duḥ-dhyaḥ | vittam | me | asya | rodasī iti ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.6)**
+
+> हे देवा वो युष्माकं संबन्धिन ऋतस्य सत्यस्याभिमतफलप्रापणस्य धर्णसि धारणं कत् । कुत्र गतं । वरुणस्यानिष्टनिवारकस्य देवस्य चक्षणमनुग्रहदृष्ट्या दर्शनं कत् । क्व गतं । महो महतो महानुभावस्यार्यम्णोऽरीणां नियन्तुरेतत्संज्ञकस्य देवस्य संबन्धिना पथा शोभनमार्गेणेष्टदेशप्रापणं कत् । क्व गतं । एतत्सर्वं युष्मास्वेव वर्तते । न कुत्रापि गतं । अतो वयं दूढ्यो दुर्धियः पापबुद्धीनस्मदनिष्टाचरणपरान् शत्रूनति क्रामेम । अतिक्रम्य तैः कृतादपरिहार्याद्दुःखाद्वयमुत्तीर्णा भवेम । हे द्यावापृथिव्यौ मदीयमिदं जानीतं ॥ धर्णसि । धृङ् धारणे । सानसिवर्णसिपर्णसीत्यादिना । उ. ४-१०२ [?] । असिच्प्रत्ययान्तो निपात्यते । आर्यम्णः । षष्ठ्येकवचने ल्लोपोऽन इत्यकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । महः । महतोऽच्छब्दलोपः छान्दसः । यद्वा । मह पूजायाम् । क्विप् । उभयथासि सावेकाचः इति विभक्तेरुदात्तत्वं । दूढ्यः । पृषोदरादिः । ध्यै चिन्तायाम् तत्र पाठाद्दुरो रेफस्योत्वं । उत्तरपदादेः ष्टुत्वं च । उदात्तस्वरितयोर्यणः इति स्वरितत्वं ॥
+> *he devā vo yuṣmākaṃ saṃbandhina ṛtasya satyasyābhimataphalaprāpaṇasya dharṇasi dhāraṇaṃ kat | kutra gataṃ | varuṇasyāniṣṭanivārakasya devasya cakṣaṇam anugrahadṛṣṭyā darśanaṃ kat | kva gataṃ | maho mahato mahānubhāvasyāryamṇo 'rīṇāṃ niyantur etatsaṃjñakasya devasya saṃbandhinā pathā śobhanamārgeṇeṣṭadeśaprāpaṇaṃ kat | kva gataṃ | etat sarvaṃ yuṣmāsv eva vartate | na kutrāpi gataṃ | ato vayaṃ dūḍhyo durdhiyaḥ pāpabuddhīn asmadaniṣṭācaraṇaparān śatrūn ati krāmema | atikramya taiḥ kṛtād aparihāryād duḥkhād vayam uttīrṇā bhavema | he dyāvāpṛthivyau madīyam idaṃ jānītaṃ ‖ dharṇasi | dhṛṅ dhāraṇe | sānasivarṇasiparṇasīty ādinā | u. 4-102 [?] | asicpratyayānto nipātyate | āryamṇaḥ | ṣaṣṭhyekavacane llopo 'na ity akāralopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvam | mahaḥ | mahato 'cchabdalopaḥ chāndasaḥ | yadvā | maha pūjāyām | kvip | ubhayathāsi sāvekācaḥ iti vibhakter udāttatvaṃ | dūḍhyaḥ | pṛṣodarādiḥ | dhyai cintāyām tatra pāṭhād duro rephasyotvaṃ | uttarapadāder ṣṭutvaṃ ca | udāttasvaritayor yaṇaḥ iti svaritatvaṃ ‖* *(Sanskrit as read; the grammatical tail is short and given here; some words are clotted [?].)*
+
+"O gods, where has gone the *dharṇasi*, the upholding, of your *ṛta* — truth that brings the desired fruit? Where has gone Varuṇa's *cakṣaṇa*, his looking upon [us] with favourable eye, the deity who ward off the undesired? Where has gone the bringing [of us] to the desired place by the good road (*pathā*) of the great (*mahaḥ*), noble-minded Aryaman, the deity of that name who restrains enemies? All this exists indeed in you; it has gone nowhere. Therefore may we overcome (*ati krāmema*) the *dūḍhyaḥ* — the ill-minded, evil-minded enemies who are bent on our harm — and, having overcome them, be freed from the unavoidable affliction caused by them. O Heaven and Earth, take note of this of mine."
+
+---
+
+### Page 469 (PDF 489)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 469.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.6; Kannada; English)**
+
+(O gods) *vaḥ* — your; *ṛtasya* — (that gives the desired object) of the true; *dharṇasi* — the practice; *kat* — where has it gone?; *varuṇasya* — (that prevents the undesired) of the god Varuṇa; *cakṣaṇam* — the regard that helps; *kat* — where has it gone?; *mahaḥ* — of the great-minded; *aryamṇaḥ* — (the one who restrains enemies) of Aryaman; *pathā* — the road (that leads to the desired); *kat* — where? (All this is in you yourselves; therefore) *vayam* — we; *dūḍhyaḥ* — ill-minded enemies; *atikrāmema* — can conquer and go forward; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, where has gone your practice of truth, which gives me the desired objects? Where has gone the helpful regard of Varuṇa? Where is the road of the great-minded Aryaman, who gives what we desire? All these powers have gone nowhere but you; since we trust in them alone, we shall without fail conquer the wicked enemies and go forward. O Heaven and Earth, know my sorrow; hear also my hymn and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"Where, deities, is your observance of the truth, where the (benignant) regard of Varuna, where is the path of the mighty Aryaman, (so that) we may overcome the malevolent ? Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.6)**
+
+**Ṛtasya dharṇasi** — *satyasya abhimataphalaprāpaṇasya dhāraṇam |* "the upholding of truth, which gives the sacrificers the fruit they desire; the practice of the nature of truth that is yours: where has it gone, *kat*? — either with the implied suggestion '*asatyabhūtāḥ stha*', 'you have become as the untrue'; or, as Skandasvāmin has explained —
+
+> ऋतशब्दोऽस्यात्रादित्यवचनः । धर्णसीत्यपि बलनाम (नि. २-९ [?]) । युष्माकं मध्ये आदित्यस्य भक्तानुग्रहसामर्थ्यलक्षणं बलम् ।
+> *ṛtaśabdo 'syātrādityavacanaḥ | dharṇasīty api balanāma (ni. 2-[?]) | yuṣmākaṃ madhye ādityasya bhaktānugrahasāmarthyalakṣaṇaṃ balam |* *(as read; the numeral and some words are clotted [?])*
+
+— here the word *ṛta* means Āditya; and since the word *dharṇasi* is read among the names of strength (*Ni.* 2-[?]), it means 'strength', or power. 'In the whole of it, among you, where has gone the power of Āditya, which has the character of ability to favour his devotees?' — such a meaning, too, is possible, so Skandasvāmin has explained."
+
+---
+
+**Progress note:** Printed pp. 1–469 done (PDF 21–489): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.5 complete (pp. 441–467); Rik 105.6 (printed pp. 468–[?]): Saṃhitā, Pada, bhāṣya (with its short tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun (the first topic, *ṛtasya dharṇasi*, ends at the foot of p. 469). Next: printed p. 470 (PDF 490). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
