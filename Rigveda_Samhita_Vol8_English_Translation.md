@@ -13225,5 +13225,101 @@ Grammar pages, noted briefly. *Ukṣaṇaḥ* (the word *ukṣan*; before *jas*,
 > *suparṇāḥ | raśmināmaitat | śobhanapatanā ete sūryaraśmaya ārodhane sarvasyāvarake vyāpte divo 'ntarikṣasya madhya āsate vartante | te sūryaraśmayaḥ patho mārgād vṛkam araṇyaśvānaṃ sedhanti | niṣedhanti | nivārayanti | kīdṛśaṃ | yahvatīrma…* *(the passage is cut at the foot of p. 489 and continues on p. 490)*
 
 ---
+### Page 490 (PDF 510)
 
-**Progress note:** Printed pp. 1–489 done (PDF 21–509): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.10 complete (pp. 441–489); Rik 105.11 (printed pp. 489–[?]): Saṃhitā, Pada and the first lines of the bhāṣya done at the foot of p. 489 (cut at 'kīdṛśaṃ yahvatīrma…'). Next: printed p. 490 (PDF 510). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 490; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ सायणभाष्यम् ॥ (Rik 105.11), continued**
+
+> …यह्वतीर्महतीरपस्तरन्तमतिक्रामन्तम् । कूपपतनात्पूर्वं त्रितं दृष्ट्वैनं भक्षयितुं कश्चिदरण्यश्वा महतीं नदीं तितीर्षुराजगाम । स च सूर्यरश्मीन्दृष्ट्वायमुषसरोने [?] भवतीति निवव्रुते । अतो रश्मयो वृकं निषेधन्तीत्युच्यते । यास्कपक्षे तु । आपः इत्यन्तरिक्षनाम । यह्वतीरपो महदन्तरिक्षं पथः पथा द्वादशरात्र्यात्मना मार्गेण तरन्तं वृकं चन्द्रमसं सूर्यरश्मयो निषेधन्ति । अहनि हि सूर्यरश्मिभिर्निरुद्धश्चन्द्रमा निष्प्रभो दृश्यते । अतो निष्प्रभं कुर्वन्तीत्यर्थः ॥ आरोधने । आरुध्यते [?] आव्रियतेऽनेनेत्यारोधनम् । करणे ल्युट् । सेधन्ति । षिधु गत्याम् । अयं केवलोऽपि निपूर्वार्थे द्रष्टव्यः । पथः । पञ्चम्येकवचने भस्य टेर्लोपे इति टिलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । यास्कपक्षे तु तृतीयार्थे व्यत्ययेन पञ्चमी । यह्वतीः । यह्व इति महन्नाम । अस्माद्वाचारार्थे सर्वप्रातिपदिकेभ्यः क्विब्वा वक्तव्यः । म. ३-१-११ [?] । इति क्विप् । ततो लटः शतृ । उगितश्चेति ङीप् । आगमानुशासनस्यानित्यत्वान्नुमभावः । शतुरनुम इति नद्याः स्वरो व्यत्ययेन न प्रवर्तते ॥
+> *…yahvatīr mahatīr apas tarantam atikrāmantam | kūpapatanāt pūrvaṃ tritaṃ dṛṣṭvainaṃ bhakṣayituṃ kaścid araṇyaśvā mahatīṃ nadīṃ titīrṣur ājagāma | sa ca sūryaraśmīn dṛṣṭvāyam uṣasarone [?] bhavatīti nivavrute | ato raśmayo vṛkaṃ niṣedhantīty ucyate | yāskapakṣe tu | āpaḥ ity antarikṣanāma | yahvatīr apo mahad antarikṣaṃ pathaḥ pathā dvādaśarātryātmanā mārgeṇa tarantaṃ vṛkaṃ candramasaṃ sūryaraśmayo niṣedhanti | ahani hi sūryaraśmibhir niruddhaś candramā niṣprabho dṛśyate | ato niṣprabhaṃ kurvantīty arthaḥ ‖ ārodhane | ārudhyate [?] āvriyate 'nenety ārodhanam | karaṇe lyuṭ | sedhanti | ṣidhu gatyām | ayaṃ kevalo 'pi nipūrvārthe draṣṭavyaḥ | pathaḥ | pañcamyekavacane bhasya ṭer lope iti ṭilopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvam | yāskapakṣe tu tṛtīyārthe vyatyayena pañcamī | yahvatīḥ | yahva iti mahannāma | asmād vācārārthe sarvaprātipadikebhyaḥ kvib vā vaktavyaḥ | ma. 3-1-11 [?] | iti kvip | tato laṭaḥ śatṛ | ugitaś ceti ṅīp | āgamānuśāsanasyānityatvān numabhāvaḥ | śatur anuma iti nadyāḥ svaro vyatyayena na pravartate ‖* *(Sanskrit as read; the clause "dṛṣṭvāyam uṣasarone [?] bhavati" and the numeral after "ma." are clotted and given with doubt [?]; the grammatical tail is short and is given.)*
+
+"…the great waters (*yahvatīr apaḥ*) crossing (*tarantam*), going over. Before Trita fell into the well, a wolf (a forest dog), seeing him and wishing to eat him, came wishing to cross a great river; and he, seeing the rays of the sun, thinking 'this is not [the time]' [?], turned back. Therefore it is said that the rays hold back the wolf. According to Yāska's view: *āpaḥ* is a name of the mid-region; the *yahvatīr apaḥ* is the great mid-region; the wolf, the moon, going by the path (*pathaḥ pathā*) in the form of the twelve nights [?], the sun's rays check: for by day the moon, held back by the sun's rays, is seen without lustre; therefore they make it lustreless — so the meaning. *Ārodhane*: that by which one is obstructed (is covered over); the suffix *lyuṭ* in the instrumental sense. *Sedhanti*: root *ṣidhu gatyām*: though bare, it is to be understood in the sense of the one with *ni* (*niṣedha*). *Pathaḥ*: the fifth case singular: loss of the *ṭi* of the *bha*-word by *bhasya ṭer lopaḥ*; the ending is acute by the *udāttanivṛtti* accent; in Yāska's view the fifth case is used in the sense of the third by *vyatyaya*. *Yahvatīḥ*: *yahva* is a name for 'great'; the suffix *kvip* after it in the sense of conduct; then *śatṛ* for *laṭ*; *ṅīp* by *ugitaś ca*; no *num* since the *āgama*-teaching is not invariable."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.11; Kannada; English)**
+
+*Suparṇāḥ* — those that fly charmingly; *ete* — these rays of the sun; *ārodhane* — which pervade everywhere; *divaḥ* — of the mid-region; *madhye* — in the middle part; *āsate* — they stay; *te* — those rays of the sun; [*pathaḥ* — from the path (to eat Trita); *yahvatīḥ* — great; *apaḥ* — waters; *tarantam* — crossing; *vṛkam* — the wolf; *sedhanti* — hold and stop.]
+
+**अथवा — Or (second construction):**
+
+*Yahvatīḥ* — of great; *apaḥ* — the mid-region; *pathaḥ* — (in the form of the twelve nights [?]) by the road; *tarantam* — spreading; *vṛkam* — the moon; *sedhanti* — they hold and stop (make it dim); *rodasī* — O Heaven and Earth; *me* — my; *asya* — this sorrow; *vittam* — know.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The charmingly flying rays of the sun stay in the middle of the all-pervading mid-region. They check on the road the wolf that comes, crossing the great waters, to eat Trita. O Heaven and Earth, know this sorrow of mine, hear my hymn and lift me up.
+
+---
+
+### Page 491 (PDF 511)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 491.)*
+
+**English Translation (as printed in the source)**
+
+"The rays of the sun abide in the surrounding centre of heaven ; they drive back the wolf crossing the great waters from the path. Heaven and earth be conscious of this (my affliction)"
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.11)**
+
+**Suparṇāḥ** — "the word *suparṇa* is read among the names of rays (*Ni.* 1-[?]3 as read [?]) and among the names of horses (*Ni.* 1-[?]4 as read [?]); but it is also used in the senses 'bird' and 'arrow'. Whichever meaning is taken, *śobhanapatana* gives the sense 'charming, attractive in movement, and moving about'.
+
+> वि सुपर्णो अन्तरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः ।
+> *vi suparṇo antarikṣāṇy akhyad gabhīravepā asuraḥ sunīthaḥ |* (*Ṛ. Saṃ.* 1-35-7 as read [?])
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divam ut patanti |* (*Ṛ. Saṃ.* 1-164-47 as read [?])
+
+— in Ṛks such as these, 'rays that move in charming flight'; and in
+
+> द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परि षस्वजाते ।
+> *dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pari ṣasvajāte |* (*Ṛ. Saṃ.* 1-164-20 as read [?])
+
+— and in Ṛks such as 1-1[?]-[?]; 3-[?]-[?] and others [as read [?]], 'birds of good flight'; and in
+
+> उक्षा समुद्रो अरुणः सुपर्णः पूर्वस्य योनिं पितुराविवेश ।
+> *ukṣā samudro aruṇaḥ suparṇaḥ pūrvasya yoniṃ pitur āviveśa |* (*Ṛ. Saṃ.* 3-[?]-[?] as read [?])
+
+— 'the sea, of good motion'; and in
+
+> सुपर्णं वस्ते मृगो अस्या दन्तो गोभिः संनद्धा पतति प्रसूता ।
+> *suparṇaṃ vaste mṛgo asyā danto gobhiḥ saṃnaddhā patati prasūtā |* (*Ṛ. Saṃ.* 6-75-11 as read [?])
+
+— the Ṛk cited in the Nirukta (*Ni.* 9-[?] as read [?]), 'the arrow of good flight'. So the meanings differ from place to place. In the Ṛk at hand it is 'rays of charming flight'."
+
+**Ārodhane** — "Sāyaṇa has given this word the sense 'pervading'; Skandasvāmin has said —
+
+> आरोहति मर्त्यादयो रुणद्धि वा तमांसीत्यारोधनमादित्यमण्डलमिहाभिप्रेतम् ।
+> *ārohati martyādayo ruṇaddhi vā tamāṃsīty ārodhanam ādityamaṇḍalam ihābhipretam |* *(as read; the first words are doubtful [?])*
+
+— 'that which mortals ascend, or that which obstructs the darkness: the *ārodhana* — the solar disc is intended here', and the meaning *Ādityamaṇḍala*, 'the disc of the sun', 'that which stops the darkness'. In the other places the word *ārodhana* generally means 'ascending, mounting' or 'having the fitness to ascend (to heaven)'. For example —
+
+> दूते ईयसे प्रदिव उराणो विदुष्करो दिव आरोधनानि ।
+> *dūte īyase pradiva urāṇo viduṣkaro diva ārodhanāni |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+> स हि वेदा वसुधितिं महाँ आरोधनं दिवः ।
+> *sa hi vedā vasudhitiṃ mahāṃ ārodhanaṃ divaḥ |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+— in Ṛks such as these the word is used in the sense of 'ascent'. In the Ṛk at hand it is 'pervading everywhere'." *(Kannada; the Sanskrit lines of the Ṛks are given as read, not completed from memory [?].)*
+
+---
+
+### Page 492 (PDF 512)
+
+*(Running head: left 492; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**Te sedhanti patho vṛkaṃ tarantaṃ yahvatīr apaḥ** — "this sentence can be explained in two ways. First: if *apaḥ* is taken to mean 'water' and *vṛka* 'a wolf', then, as stated at the beginning of this Sūkta, the wolf came to eat Trita, and *te*, those sun-rays, *sedhanti*, check [it] and stop it. This is Sāyaṇa's own independent meaning. In his own words giving the first alternative: '*kūpapatanāt pūrvaṃ tritaṃ dṛṣṭvainaṃ bhakṣayituṃ kaścid araṇyaśvā mahatīṃ nadīṃ titīrṣur ājagāma | sa ca sūryaraśmīn dṛṣṭvā …* [*ayam* …] *nivavṛte | ato raśmayo vṛkaṃ niṣedhantīty ucyate |*': before Trita fell into the well, a wolf, seeing him, came, wishing to cross a great river in order to eat him; seeing the sun's rays, [thinking] that 'now this [is not the time]', he turned back; therefore it is said that the sun's rays stopped the wolf. And then '*yāskapakṣe tu*' — according to Yāska — '*āpaḥ ity antarikṣanāma | yahvatīr apo mahad antarikṣaṃ pathaḥ pathā dvādaśarātryātmanā mārgeṇa tarantaṃ vṛkaṃ candramasaṃ sūryaraśmayo niṣedhanti | ahani hi sūryaraśmibhir niruddhaś candramā niṣprabho dṛśyate | ato niṣprabhaṃ kurvantīty arthaḥ*': 'on Yāska's view, if *apaḥ* is taken as 'of the mid-region' and the word *vṛka* as 'the moon', then the light of the moon, as it spreads through the great mid-region, is checked by the rays of the sun in the day; so, in the first half of the day [?] the intention is that the moon's light, as it extends through the great mid-region, is blocked by the rays of the sun': thus Sāyaṇa has given two meanings." *(Kannada.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.11)** *(grammar pages, pp. 492–493, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Suparṇāḥ* (*śobhanāḥ parṇāḥ yasya saḥ suparṇaḥ*; the accent of the final of the latter member by *ñisubhyām*, Pā. Sū. 6-2-[?]3 as read [?]; nominative plural).
+
+---
+
+### Page 493 (PDF 513)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 493.)*
+
+The grammar of Rik 105.11 continues and concludes (noted briefly). *Āsate* (root *āsa upaveśane*, *adādi*; *laṭ*, third person plural, middle; *ata* for *jh* by *ātmanepadeṣv anataḥ*, Pā. Sū. 7-1-5 as read [?]; *e* for the *ṭi*; *nighāta* since it follows a non-verb). *Ārodhane* (*ārudhyate āvriyate 'nena iti ārodhanam*; root *rudhir āvaraṇe*; *lyuṭ* in the instrumental sense; *ana* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; *guṇa* of the light penult; because the suffix is *lit*, the acute before the suffix by *liti*, Pā. Sū. 6-1-193 as read [?]). *Sedhanti* (root *ṣidhu gatyām*: though by itself it denotes motion, with *ni* understood it denotes 'prevent'; *laṭ*, third person plural; *nighāta*). *Pathaḥ* (the word *pathin*; fifth case singular; being a *bha*-word the *ṭi* is lost by *bhasya ṭer lopaḥ*, Pā. Sū. 7-1-88 as read [?]; since the ending is *anudātta*, by *anudāttasya ca yatrodāttalopaḥ*, Pā. Sū. 6-1-159 as read [?], the ending is acute; in Yāska's view the fifth case is here in the sense of the third). *Yahvatīḥ* (*yahva* is a name for 'great'; the suffix *kvip* in the sense of conduct by the vārttika *sarvaprātipadikebhyaḥ kvib vā vaktavyaḥ*; the name 'root' by *sanādyantā dhātavaḥ*, Pā. Sū. 3-1-32 as read [?]; then *laṭ* with *śatṛ*, the form *yahvat*; the feminine by *ugitaś ca*, Pā. Sū. 4-1-6 as read [?], *ṅīp*; no *num*, because the *āgama*-teaching is not invariable; since *num* is absent, the accent of the *nadī* by *śatur anumo nadyajādī*, Pā. Sū. 6-1-173 as read [?], does not apply by *vyatyaya*). *Apaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). The Rik is closed with *‖ 11 ‖* and an ornament.
+
+---
+
+**Progress note:** Printed pp. 1–493 done (PDF 21–513): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.11 complete (pp. 441–493). Next: Rik 105.12 begins at printed p. 494 (PDF 514). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
