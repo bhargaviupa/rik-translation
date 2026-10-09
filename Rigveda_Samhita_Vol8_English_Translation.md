@@ -22100,5 +22100,146 @@ The king named Sudāsa, son of Pijavana, desired to perform a sacrifice with the
 From Ṛks such as these it is known that Sudāsa, with the help of Indra and the other deities, conquered the ten [?] kings [*the print: "…ten…"; the last words of the page are partly obscured [?]*].
 
 ---
+### Page 809 (PDF 829)
 
-**Progress note:** Printed pp. 1–808 done (PDF 21–828): Sūkta 112: Riks 112.1–112.18 complete (pp. 723–805); Rik 112.19 (printed pp. 805–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Vimada, Sudāsa) in progress through the foot of p. 808; the rest of the Special Topics and the grammar follow on p. 809. Next: printed p. 809 (PDF 829). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 809.)*
+
+*(The Special Topics of Rik 112.19 continue, on Sudāsa:)*
+
+> महाँ ऋषिर्देवजा देवजूतोऽस्तभ्नात्सिन्धुमर्णवं नृचक्षाः ।
+> विश्वामित्रो यदवहत्सुदासमप्रियायत कुशिकेभिरिन्द्रः ॥
+> *mahāṃ ṛṣir devajā devajūto 'stabhnāt sindhum arṇavaṃ nṛcakṣāḥ |*
+> *viśvāmitro yad avahat sudāsam apriyāyata kuśikebhir indraḥ ‖*
+> (*Ṛ.* 3-53-9 as read [?])
+> *(Sanskrit as read from the print; the first line is doubtful in places [?]; no gloss attempted.)*
+
+In this Ṛk it is described that Sudāsa, together with his *purohita* Viśvāmitra, made his expedition at the banks of the rivers Vipāś and Śutudrī. And
+
+> त्वं धृष्णो धृषता वीतहव्यं प्रावो विश्वाभिरूतिभिः सुदासम् ।
+> प्र पौरुकुत्सिं त्रसदस्युमावः क्षेत्रसाता वृत्रहत्येषु पूरुम् ।
+> *tvaṃ dhṛṣṇo dhṛṣatā vītahavyaṃ prāvo viśvābhir ūtibhiḥ sudāsam |*
+> *pra paurukutsiṃ trasadasyum āvaḥ kṣetrasātā vṛtrahatyeṣu pūrum |*
+> (*Ṛ.* 7-19-3 as read [?])
+> *(Sanskrit as read; no gloss attempted.)*
+
+— in this Ṛk the name of Sudāsa is spoken of together with Trasadasyu, son of Purukutsa. Both are praised as worthy of the protection of Indra and the other gods, and, therefore, as having received the protection of the deities. In the *Aitareya Brāhmaṇa*:
+
+> …… प्रोवाच वसिष्ठः सुदासे पैजवनाय ते ह ते सर्व एव महज्जग्मुः ।
+> *…… provāca vasiṣṭhaḥ sudāse paijavanāya te ha te sarva eva mahaj jagmuḥ |*
+> (*Ai. Brā.* 7-34 as read [?])
+> *(Sanskrit as read; the opening words are lost in clotted print [?]; sense from the Kannada: "…Vasiṣṭha spoke to Sudāsa Paijavana; they all attained greatness.")*
+
+— by this sentence it is known that Vasiṣṭha was the *purohita* of Sudāsa, that Sudāsa was honoured by Vasiṣṭha, the most excellent of the ṛṣis, and that he attained a high station.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.19)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Patnīḥ*: by *patyuro yajñasaṃyoge* (*pā.* 4-1-33 as read [?]) the suffix *ṅīp*; the augment *nuk* after the stem; in the accusative plural, by *vyatyaya* the substitute *śas* [for *am*]; the lengthening to the earlier homogeneous vowel. *Nyūhathuḥ*: the prefix *ni*; root *vaha prāpaṇe*; *liṭ*, second-person dual; by *parasmaipadānāṃ ṇalatusus…* (*pā.* 3-4-82 as read [?]) the substitute *athus*; by *āsaṃyogāl liṭ kit* (*pā.* 1-2-5 as read [?]) the suffix is *kit* [*kit*-like], and, so treated, by *vacisvapiyajādīnāṃ kiti* (*pā.* 6-1-15 as read [?]) *saṃprasāraṇa*; doubling of the root, because of the *liṭ*; since *yad* is connected, no *nighāta*; by the first-syllable *udātta* of the suffix, the *a* is *udātta* after *h*. *Āśikṣatam*: root *śikṣa vidyopādāne*; *laṅ*, second-person dual; since the augment is *udātta*, the first syllable is *udātta*. *Sudāse*: 'he who gives well' = *sudāḥ*; the Uṇādi suffix *asun* by the rule that all roots take *asun* (*Uṇ.* 4-[?]8 as read [?]); being *nit*, the word *dās* is first-syllable *udātta*; the prior member being a *gati*, the *kṛdanta* keeps the accent of its prior member; dative singular.
+
+---
+
+### Page 810 (PDF 830)
+
+*(Running head: left 810; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Sudevyam*: since it is listed in the *digādi* class, by *digādibhyo yat* (*pā.* 4-3-54 as read [?]) the suffix *yat*; by *yasyeti ca* (*pā.* 6-4-148 as read [?]) the loss of the *a*, because *yat* is the cause; since *yat* is *tit*, by *tit svaritam* (*pā.* 6-1-185 as read [?]) the *udātta* accent is set aside and the *svarita* accent comes; since it is a compound, the *kṛdanta* keeps the accent of the prior member. ‖ 19 ‖
+
+*(An ornament closes Rik 112.19.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.20)** *(accent-marks not reproduced)*
+
+> याभिः शन्ताती भवथो ददाशुषे भुज्युं याभिरवथो याभिरध्रिगुम् ।
+> ओम्यावतीं सुभरामृतस्तुभं ताभिरू षु ऊतिभिरश्विना गतम् ॥ २० ॥
+> *yābhiḥ śantātī bhavatho dadāśuṣe bhujyuṃ yābhir avatho yābhir adhrigum |*
+> *omyāvatīṃ subharām ṛtastubhaṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 20 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.20)**
+
+> याभिः । शन्ताती इति शम्ऽताती । भवथः । ददाशुषे । भुज्युम् ।
+> याभिः । अवथः । याभिः । अध्रिगुम् ।
+> ओम्याऽवतीम् । सुऽभराम् । ऋतऽस्तुभम् । ताभिः । ऊम् इति ।
+> सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ २० ॥
+> *yābhiḥ | śantātī iti śam-tātī | bhavathaḥ | dadāśuṣe | bhujyum |*
+> *yābhiḥ | avathaḥ | yābhiḥ | adhrigum |*
+> *omyā-vatīm | su-bharām | ṛta-stubham | tābhiḥ | ūm iti |*
+> *su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 20 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.20)**
+
+> हे अश्विनौ ददाशुषे हवींषि दत्तवते यजमानाय याभिरूतिभिः शन्ताती सुखस्य कर्तारौ भवथः । याभिश्चोतिभिर्भुज्युं तुग्रस्य पुत्रमवथः । याभिश्चाध्रिगुम् । अध्रिगुर्देवानां शमिता । अध्रिगुश्चापश्च उभौ देवानां शमितारौ । तै. ब्रा. ३-६-६-४ । *(the bhāṣya runs on to p. 811)*
+
+---
+
+### Page 811 (PDF 831)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 811.)*
+
+> इति श्रुतेः । अपि च ऋतस्तुभम् । ऋतं सत्यं स्तोभयति स्तोतृभ्य उच्चारयतीत्यृतस्तुप् । तत्सञ्ज्ञमृषिं । ओम्यावतीम् । ओम्येति सुखनामा । तद्युक्तां सुभरां सुहेन [?] भरणीयामिषमन्नं याभिरूतिभिः प्रापयेथः । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ शन्ताती । शिवशमरिष्टस्य करे । पा. ४-४-१४३ । इति तातिल्प्रत्ययः । लिति प्रत्ययात्पूर्वस्योदात्तत्वम् । ददाशुषे । दाश्र दाने । लिटः क्वसुः । वसोः सम्प्रसारणमिति सम्प्रसारणम् । शासिवसिघसीनां च इति षत्वम् ॥
+> *iti śruteḥ | api ca ṛtastubham | ṛtaṃ satyaṃ stobhayati stotṛbhya uccārayatīty ṛtastup | tatsañjñam ṛṣiṃ | omyāvatīm | omyeti sukhanāmā | tadyuktāṃ subharāṃ suhena [?] bharaṇīyām iṣam annaṃ yābhir ūtibhiḥ prāpayethaḥ | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ śantātī | śivaśamariṣṭasya kare | pā. 4-4-143 | iti tātil pratyayaḥ | liti pratyayāt pūrvasyodāttatvam | dadāśuṣe | dāśṛ dāne | liṭaḥ kvasuḥ | vasoḥ samprasāraṇam iti samprasāraṇam | śāsivasighasīnāṃ ca iti ṣatvam ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print.)*
+
+"…so says the *śruti*: 'Adhrigu and Āpa, both are the tamers of the gods' (*Tai. Brā.* 3-6-6-4). And further, *ṛtastubham*: he who makes the truth (*ṛta*) resound to the praisers is *ṛtastup*: the ṛṣi so named. *Omyāvatīm*: *omya* is a name for 'comfort'; endowed with it, *subharām*, easy to carry [?], *iṣam*, food, with whichever protections you cause [him] to obtain: with all those protections come to us also."
+
+*Grammatical tail (short):* *śantātī*: the suffix *tātil*, in the sense of 'doer of welfare, of peace, of safety', by *śivaśamariṣṭasya kare* (*pā.* 4-4-143 as read [?]); since it is *lit*, the syllable before the suffix is *udātta*. *Dadāśuṣe*: root *dāśṛ dāne*; *kvasu* for *liṭ*; *saṃprasāraṇa* of *vasu*; the substitution of *ṣ* by *śāsivasighasīnāṃ ca*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.20; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *dadāśuṣe* — to the sacrificer who offered oblations; *yābhiḥ* — by whichever protections; *śantātī* — doers of well-being; *bhavathaḥ* — you become; *yābhiḥ* — by whichever powers; *bhujyum* — Bhujyu; *avathaḥ* — you protected; *yābhiḥ* — by whichever; *adhrigum* — Adhrigu (to the ṛṣi Adhrigu); *ṛtastubham* — the ṛṣi named Ṛtastubha (to that ṛṣi); *omyāvatīm* — endowed with comfort; *subharām* — and nourishing; *iṣam* — food; (*yābhiḥ* — by whichever of your protections you made [him] obtain); *tābhiḥ ūtibhiḥ ū* — with those protections (to us also); *su ā gatam* — come, with favour.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your protections you become makers of happiness for the sacrificer who gives oblations; with whichever of your powers you protected Bhujyu; and with whichever of your protections you gave food, endowed with comfort and nourishing, to the ṛṣi Adhrigu and to the ṛṣi named Ṛtastubha: with all those powers of yours come to us also, with favour.
+
+**English Translation (as printed in the source; Rik 112.20)**
+
+"With those aids by which you are bestowers of happiness upon the donor (of oblations), by which you have protected Bhujyu and Adhrigu, and by which you have granted delighting and nourishing (food) to Ritastubha; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.20)**
+
+**भुज्युम् — Bhujyum.** The help that the Aśvin deities gave to Bhujyu — who, drowned in the sea, was abandoned by his companions — has been told in the Special Topics of the sixth Ṛk of this very sūkta [112.6].
+
+---
+
+### Page 812 (PDF 832)
+
+*(Running head: left 812; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**अध्रिगुम् — Adhrigum.** Skandasvāmi has:
+
+> अत्रेतिहासमाचक्षते । नमुचौ हते सुरमणीयं मधु अश्विभ्यां सह पिबन्तमिन्द्रं प्रमत्त इति ज्ञात्वासुरा हन्तुमियेषुः । तमश्विनावजानन्तमेनं पालयाञ्चक्रतुः ।
+> *atretihāsam ācakṣate | namucau hate suramaṇīyaṃ madhu aśvibhyāṃ saha pibantam indraṃ pramatta iti jñātvāsurā hantum iyeṣuḥ | tam aśvināv ajānantam enaṃ pālayāñ cakratuḥ |*
+> *(Sanskrit as read; the second sentence is partly clotted in the print [?], and I give the sense of the Kannada.)*
+> "Here they tell the tale: after Namuci had been slain, the asuras, thinking, 'Indra is careless, drinking sweet honey with the two Aśvins,' wished to kill him. The Aśvins, who knew nothing of it [?], protected him."
+
+After the slaying of Namuci, as Indra was drinking sweet honey together with the Aśvin deities, the asuras, seeing that Indra was careless through drinking it, came to kill him. Then the Aśvin deities protected Indra, who was unaware of this: so goes the tale. To show that the word *adhrigu* is used as a synonym of Indra, the Nirukta-writers cite the Ṛk
+
+> ऋभेषमायोऽध्रिगव ओहमिन्द्राय ब्रह्माणि राततमा ।
+> *ṛbheṣamāyo 'dhrigava ohamindrāya brahmāṇi rātatamā |*
+> (*Ṛ.* 1-61-1 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+Here the word *adhrigu* means '*adhṛtagamanaḥ*, *apratihatagamanaḥ*': 'one whose going is not restrained'; to show that the epithet *adhrigu* is also applied to Agni, [they cite *Ni.* 3-11]: 'Agni is called *adhrigu*':
+
+> तुभ्यं श्चोतन्त्यध्रिगो शचीवः स्तोकासो अग्ने मेदसो घृतस्य ।
+> *tubhyaṃ ścotanty adhrigo śacīvaḥ stokāso agne medaso ghṛtasya |*
+> (*Ṛ.* 3-21-1 as read [?])
+> *(Sanskrit as read; the first words are doubtful [?]; no gloss attempted.)*
+
+In the Ṛk the word *adhrigu* is a synonym of Agni; and *adhrigur mantro bhavati gavyādhikṛtaitad api vā praśāsanam evābhipretaṃ syāt* [as read [?]] — and in other places, '*adhrigu*' with the sense of an injunction [?]: *śamidhvam suśami śamidhvam śamidhvam adhrigav iti* (*Ni.* 3-11): 'in a *mantra* the word *adhrigu* is a synonym for *śamitṛ*'; a *mantra* ("*adhrigav*") that gives the name *adhrigu* because the officiant stands pre-eminent [?]. The Nirukta-writer explained this word's etymology and cited from the *Aitareya Brāhmaṇa* the *mantra* there (3-[?]); in the Śatapatha Brāhmaṇa too (13-[?]-[?]-[?]) the form and application of this *mantra* are explained in detail. In the Ṛk before us, Skandasvāmi has explained the word *adhrigu* as 'Indra', and Sāyaṇa as 'a person named Adhrigu'. To show that it is a given name, Sāyaṇa cites:
+
+> अध्रिगुश्चापश्च उभौ देवानां शमितारौ ।
+> *adhrigus cāpaś ca ubhau devānāṃ śamitārau |*
+> (*Tai. Brā.* 3-6-6-4 as read [?])
+
+— the *mantra*, as it occurs there, showing that here also it is the name of a devotee of the Aśvin deities. Skandasvāmi:
+
+> युवं सुरामम्श्विना नमुचावासुरे सचा ।
+> विपिपाना शुभस्पती इन्द्रं कर्मस्वावतम् ॥
+> *yuvaṃ surāmam aśvinā namucāv āsure sacā |*
+> *vipipānā śubhas patī indraṃ karmasv āvatam ‖*
+> (*Ṛ.* 10-131-4 as read [?])
+> *(Sanskrit as read from the print; the first words are doubtful [?]; no gloss attempted.)*
+
+---
+
+**Progress note:** Printed pp. 1–812 done (PDF 21–832): Sūkta 112: Riks 112.1–112.19 complete (pp. 723–810); Rik 112.20 (printed pp. 810–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (bhujyum; adhrigum with the Nirukta, Taittirīya Brāhmaṇa and Skandasvāmi's citation *yuvaṃ surāmam…*) in progress through the foot of p. 812. Next: printed p. 813 (PDF 833). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
