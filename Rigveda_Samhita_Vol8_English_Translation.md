@@ -12216,5 +12216,87 @@ The grammar of Rik 105.1 continues and concludes (noted briefly). *Apsu* (*ūḍ
 "Men who are in need (*arthinaḥ*) and who desire wealth indeed (*id vai*) obtain the wealth they desire; I do not obtain it. *U* is a mere filler. And further, another's wife (*jāyā*) goes to her husband (*patim*) and joins (*ā yuvate*) him, comes face to face with him; whereas mine has been in sorrow by my absence. And further, those two, wife and husband united, *tuñjāte vṛṣṇyaṃ payaḥ*: they urge on the potent fluid (*payaḥ*, water, whose form is virility), by mutual embrace, for the sake of procreation; and afterwards the wife, taking the essence of the husband — his virility, the *rasa* — into the womb, holding it in the form of an embryo, *duhe* (milks forth), gives birth in the form of a son. But in my case not even a son is born. Therefore, O Heaven and Earth, take note of this sorrow of mine." The grammatical tail concerns: *u* (a particle; by *ūñ*, Pā. Sū. 1-1-12 as read [?], and the opinion of Śākalya, it is *pragṛhya*, so that before a vowel it remains unchanged); *yuvate* (root *yu miśraṇe*; the middle ending by *vyatyaya*; *śap* in the place of the loss, by *vyatyaya*); *tuñjāte* (root *tuji piji hiṃsābalādānaniketaneṣu*; *num* from the *it*; *śnam* by *vyatyaya*; loss of *n* after *śnā*); *duhe* (root *duha prapūraṇe*; the loss of *ta* by *lopas ta ātmanepadeṣu*).
 
 ---
+### Page 450 (PDF 470)
 
-**Progress note:** Printed pp. 1–449 done (PDF 21–469): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Rik 105.1 complete (pp. 441–448); Rik 105.2 (printed pp. 449–[?]): Saṃhitā, Pada, bhāṣya (with its short tail) done at p. 449. Next: printed p. 450 (PDF 470): the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of 105.2; then Rik 105.3. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 450; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.2; Kannada; English)**
+
+*Arthinaḥ* — (except me) all (other) men who seek wealth; *artham* — the wealth desired; *it vai* — obtain without fail; *jāyā* — the wife (of every other man); *patim* — her (own) husband; *ā yuvate* — joins with regard; *vṛṣṇyam* — which has the form of virility; *payaḥ* — the water; *tuñjāte* — she sprinkles; *rasam* — the virility (of her husband); *paridāya* — (in the form of an embryo) taking up; *duhe* — she obtains (a son) — (neither I nor my wife has any such fortune; therefore) *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or (this affliction that has come upon me by falling into the well); *vittam* — know attentively.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+All other men, except me, who desire wealth, obtain what they desire. Except for my wife alone, all other men's wives join their own husbands with regard. Sprinkling the water that has the form of virility, they take their husbands' virility into themselves in the form of an embryo and obtain sons. My wife has not this good fortune. Therefore, O Heaven and Earth, understanding well this affliction of mine that has come from my falling into the well, hear my hymn, lift me up out of the well, and remove my affliction.
+
+**English Translation (as printed in the source; misprints marked [sic])**
+
+"Those who seek for wealth, obtain it : a wife enjoys (the presence of her husband, and from their union progeny is engendered. Heaven and earth, be conscious of this (my affliction)." *(The bracket "(the presence of her husband" is left unclosed in the print [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.2)**
+
+As the bhāṣya-writer says in the introduction to this Sūkta, with the word *paridevayate* ('laments'), the ṛṣi Kutsa (or Trita), having fallen into the well and being unable to come up, grieving in sorrow, in this Ṛk describes how he laments that he himself is suffering such sorrow while others live in happiness.
+
+**Artham id vā u arthinaḥ** — "Those who seek wealth strive for the sake of [obtaining] it and, by earning the wealth, live in happiness. But I, since I cannot come out of this well, cannot make any effort to earn wealth. I grieve that 'there is no happiness for me coming from wealth'."
+
+---
+
+### Page 451 (PDF 471)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 451.)*
+
+**Ā jāyā yuvate patim** — "young wives, in the delightful moonlit nights that delight the moon, join their husbands and give them happiness. But because I am fallen in the well, I have not that happiness for myself. My wife is grieving in the sorrow of separation."
+
+**Tuñjāte vṛṣṇyaṃ payaḥ paridāya rasaṃ duhe** — "couples, joining in such nights, the wife takes the husband's essential virility and brings forth offspring in the form of children; but for me the attainment of children and progeny is not possible. Therefore, O Heaven and Earth, noticing my situation and knowing my sorrow, protect me — so he prayed." *(Kannada.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.2)** *(grammar pages, pp. 451–452, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *U* (in *u-arthinaḥ*: by *ūñ*, Pā. Sū. 1-1-1[?] as read [?], in Śākalya's view it receives the name *pragṛhya*; since an *ac* follows, by *plutapragṛhyā aci nityam*, Pā. Sū. 6-1-125 as read [?], it remains unchanged). *Artham* (root *ṛ gatau*; an Uṇādi suffix *than* [as read]; the *guṇa* of the *ṛ* of the root, the *r* following; since the suffix is *nit*, the initial acute). *Yuvate* (root *yu miśraṇāmiśraṇayoḥ*; the middle ending by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; the root is *adādi*, so *luk* of *śap* would arise, but *śa* is substituted by *vyatyaya*; *guṇa* is not applied, since *sārvadhātukam apit*, Pā. Sū. 1-2-4 as read [?], makes the ending *ṅit*-like; *uvaṅ* by *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*, Pā. Sū. 6-4-77 as read [?]; the form *yuvate*; *nighāta*). *Tuñjāte* (root *tuji piji hiṃsābalādānaniketaneṣu*; because the root is *idit*, *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?]; *anusvāra*/*parasavarṇa* for the *num* before the *j*; *śnam* by *vyatyaya*; *laṭ*, dual *ātām*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the loss of *n* after *śnā* by *śnānnalopaḥ*, Pā. Sū. 6-4-23 as read [?]; the form *tuñjāte*; since it begins the pāda, no *nighāta*; the *ā* of the suffix is acute). *Vṛṣṇyam* (*vṛṣṇaḥ bhāvaḥ vṛṣṇyam*; *ṣyañ* in the sense of the abstract; since a suffix beginning with *y* follows, the name *bha* arises, and the *a* of *an* is lost by *āllopo 'naḥ*, Pā. Sū. 6-4-134 as read [?]; as *ñit*, the initial acute).
+
+---
+
+### Page 452 (PDF 472)
+
+*(Running head: left 452; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.2 concludes (noted briefly). *Paridāya* (root *ḍudāñ dāne*; *lyap* for the suffix *ktvā* by *samāse 'ñ-pūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?]). *Duhe* (root *duha prapūraṇe*, *adādi*; *laṭ*, third person singular, *ta*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*; loss of the *t* of the ending by *lopas ta ātmanepadeṣu*, Pā. Sū. 7-1-41 as read [?]; *nighāta* since a finite verb follows a non-verb). The Rik is closed with *‖ 2 ‖* and an ornament.
+
+## Rik 105.3 — printed pp. 452–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.3)**
+
+> मो षु देवा अदः स्वरव पादि दिवस्परि ।
+> मा सोम्यस्य शंभुवः शूने भूम कदा चन वित्तं मे अस्य रोदसी ॥ ३ ॥
+
+*mo ṣu devā adaḥ svar ava pādi divas pari | mā somyasya śaṃbhuvaḥ śūne bhūma kadā cana vittaṃ me asya rodasī ‖ 3 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.3)**
+
+> मो इति । सु । देवाः । अदः । स्वः । अव । पादि । दिवः । परि ।
+> मा । सोम्यस्य । शंऽभुवः । शूने । भूम । कदा । चन । वित्तम् । मे । अस्य । रोदसी इति ॥ ३ ॥
+
+*mo iti | su | devāḥ | adaḥ | svaḥ | ava | pādi | divaḥ | pari | mā | somyasya | śaṃ-bhuvaḥ | śūne | bhūma | kadā | cana | vittam | me | asya | rodasī iti ‖ 3 ‖*
+
+---
+
+### Page 453 (PDF 473)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 453.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.3)**
+
+> हे देवाः स्वः स्वर्गे वर्तमानमवस्तादस्मदीयं पित्रपितामहप्रपितामहात्मकं संतानं दिवस्परि दिवः उपरि वर्तमानं मो षु मैवावपादि । अवपन्नं विपन्नं प्रभ्रष्टं मा भूत् मम पुत्राभावात् । पुत्रेण लोकाञ्जयति नापुत्रस्य लोकोऽस्तीति श्रुतेः । अतो वयं सोम्यस्य सोमपानार्हस्य पितृगणस्य शंभुवः सुखस्य भावयितुः पुत्रस्य शूने आपगमने कदा चन कदाचिदपि मा भूम । युष्मत्प्रसादान्मम पुत्रा जायन्तां । अतो मामस्माद्दुःखादुत्तारयतेत्यर्थः । हे द्यावापृथिव्यौ युवां च मदीयं विज्ञापनं जानीतं ॥ मो । मा उ इति निपातद्वयसमुदायो मैवेत्यस्यार्थे । सु इत्येतदवधारणे । सुञः इति षत्वं । पादि । पद गतौ । चिण्ते पदः । पा. ३-१-६० । इति कर्तरि लुङि च्लेश्चिणादेशः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वम् । पञ्चम्याः पराध्यर्थ इति विसर्जनीयस्य सत्त्वम् [?] । सोम्यस्य सोममर्हति यः । पा. ४-४-१४६ [?] । इति यत्प्रत्ययः । शंभुवः । भवतेरन्तर्भावितण्यर्थात् क्विप् । शूने । टुओश्वि गतिवृद्ध्योः । भावे निष्ठा । श्वीदितो निष्ठायामिति इट्प्रतिषेधः । वचिस्वपीत्यादिना संप्रसारणं । ओदितश्च । पा. ८-२-४५ । इति निष्ठानत्वं । व्यत्ययेनाद्युदात्तत्वं । वृषादिर्वा द्रष्टव्यः ॥
+> *he devāḥ svaḥ svarge vartamānam avastād asmadīyaṃ pitrapitāmahaprapitāmahātmakaṃ saṃtānaṃ divaspari divaḥ upari vartamānaṃ mo ṣu maivāvapādi | avapannaṃ vipannaṃ prabhraṣṭaṃ mā bhūt mama putrābhāvāt | putreṇa lokāñ jayati nāputrasya loko 'stīti śruteḥ | ato vayaṃ somyasya somapānārhasya pitṛgaṇasya śaṃbhuvaḥ sukhasya bhāvayituḥ putrasya śūne āpagamane kadā cana kadācid api mā bhūma | yuṣmatprasādān mama putrā jāyantāṃ | ato mām asmād duḥkhād uttārayatety arthaḥ | he dyāvāpṛthivyau yuvāṃ ca madīyaṃ vijñāpanaṃ jānītaṃ ‖ mo | mā u iti nipātadvayasamudāyo maivety asyārthe | su ity etad avadhāraṇe | suñaḥ iti ṣatvam | pādi | pada gatau | ciṇ te padaḥ | pā. 3-1-60 | iti kartari luṅi cleś ciṇādeśaḥ | divaḥ | ūḍidam iti vibhakter udāttatvam | pañcamyāḥ parādhyartha iti visarjanīyasya sattvam [?] | somyasya somam arhati yaḥ | pā. 4-4-146 [?] | iti yatpratyayaḥ | śaṃbhuvaḥ | bhavater antarbhāvitaṇyarthāt kvip | śūne | ṭuośvi gativṛddhyoḥ | bhāve niṣṭhā | śvīdito niṣṭhāyām iti iṭpratiṣedhaḥ | vacisvapītyādinā saṃprasāraṇaṃ | oditaś ca | pā. 8-2-45 | iti niṣṭhānatvam | vyatyayenādyudāttatvam | vṛṣādir vā draṣṭavyaḥ ‖* *(Sanskrit as read; "mo ṣu maivāvapādi" is as printed in the bhāṣya, read as *mo ṣu mā eva ava pādi*; the grammatical tail is given in the print directly after the main sense and is short, so it is given here; doubtful sūtra numerals [?].)*
+
+"O gods, our line — fathers, grandfathers, great-grandfathers — who dwell below in heaven (*svaḥ*) [and] above in the sky (*divas pari*), let it not fall (*mo ṣu … avapādi*): let it not be ruined or fallen from its place, because of the absence of a son of mine. For by a son one wins the worlds; he who is sonless has no world (so the Śruti says). Therefore may we never (*kadā cana*) come to be in the lack (*śūne*, the absence, the failure to come [of a son]), of a son who gives happiness (*śaṃbhuvaḥ*) to the company of the ancestors (*pitṛgaṇa*) who are worthy of drinking Soma. By your favour let sons be born to me: therefore bring me up out of this sorrow — so the meaning. O Heaven and Earth, do you also take note of my petition."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.3; Kannada; English)**
+
+*Devāḥ* — O gods; *svaḥ* — those who are in heaven; *adaḥ* — my (fathers, grandfathers, great-grandfathers and the rest); *divaspari* — from the dwelling above in heaven; *mo ṣu apa pādi* — do not let [them] fall, do not let them be broken off; *somyasya* — [for the sake of] the company of ancestors who are fit to drink Soma; *śaṃbhuvaḥ* — of a son who gives joy; *śūne* — in the absence; *kadā cana* — ever; *mā bhūma* — let (us) not be; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or (this affliction that has come upon me by falling into the well); *vittam* — know attentively.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, because I am without a son, do not, for that reason, make my fathers, grandfathers, great-grandfathers and the others who dwell in heaven fall from their dwelling above in heaven. Let me never be without a son who gives joy to the company of ancestors who are fit for drinking Soma. O Heaven and Earth, understanding well the affliction that has come to me by my falling into the well, hear this hymn of mine and lift me up out of the well.
+
+---
+
+**Progress note:** Printed pp. 1–453 done (PDF 21–473): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.2 complete (pp. 441–452); Rik 105.3 (printed pp. 452–[?]): Saṃhitā, Pada, bhāṣya (with its short tail), Pratipadārtha and Bhāvārtha done (pp. 452–453). Next: printed p. 454 (PDF 474): the printed English and Special Topics of 105.3, then Rik 105.4. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
