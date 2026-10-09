@@ -12534,5 +12534,106 @@ In many such sentences, as praised, the divine messenger Agni should *vi vocatu*
 Grammar pages, noted briefly. *Yajñam* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; the suffix *naṅ* by *yajayācayatavicchaprachaviccharakṣo naṅ*, Pā. Sū. 3-3-90 as read [?]; accent of the suffix, final acute; accusative singular). *Pṛcchāmi* (root *pṛccha jijñāsāyāṃ vāci*; *laṭ*, first person singular; *nighāta*). *Vocati* (root *vaca paribhāṣaṇe*; *leṭ*, third person singular, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*, Pā. Sū. 3-4-94 as read [?]; by *vyatyaya*, the *luṅ*-form *(continued on p. 462)*
 
 ---
+### Page 462 (PDF 482)
 
-**Progress note:** Printed pp. 1–461 done (PDF 21–481): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.3 complete (pp. 441–457); Rik 105.4 (printed pp. 457–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 457–461); the grammar of 105.4 begun at the foot of p. 461, at *vocati*, mid-sentence. Next: printed p. 462 (PDF 482): the grammar of 105.4 continues; then Rik 105.5. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 462; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.4 continues (noted briefly). *Vocati*, continued: although the *aṅ* [of the *luṅ* aorist] is absent, the root receives the *uva* augment by a sūtra [*vaceḥ um*, Pā. Sū. 3-4-[?]0 as read [?]]; since it is *mit*, it comes after the last vowel; *guṇa*; *nighāta* by *tiṅ atiṅaḥ*. *Kva* (the word *kim*; in the sense of the locative the suffix *at* by *kimo 't*, Pā. Sū. 5-3-[?]2 as read [?]; before *at*, *kva* is substituted for *kim* by *kvāti*, Pā. Sū. 7-2-105 as read [?]; loss of *a* by *yasyeti ca*; because *at* is *tit*, the *svarita* accent by *tit svaritam*, Pā. Sū. 6-1-185 as read [?]; before *ṛtam* — *kva ṛtam* — the *prakṛtibhāva* by *ṛtyakaḥ*, Pā. Sū. 6-1-128 as read [?], since the next word begins with the *ṛ* of *ṛta* [?]). *Pūrvyam* (*pūrvasmin bhavaḥ pūrvyam*; the suffix *yat* by *bhave chandasi*, Pā. Sū. 4-4-110 as read [?]; loss of *a* by *yasyeti ca*; accusative singular). *Gatam* (root *gam gatau*; the suffix *kta*; the loss of the nasal *m* by *anudāttopadeśavanatitanotyādīnām…*, Pā. Sū. 6-4-37 as read [?]; the form *gata*; accent of the suffix, final acute). *Bibharti* (root *ḍubhṛñ dhāraṇapoṣaṇayoḥ* [print: *bharaṇe*], *juhotyādi*; *laṭ*, third person singular, *tip*; *śluḥ* by *juhotyādibhyaḥ śluḥ*, Pā. Sū. 2-4-75 as read [?]; reduplication in *ślu*, Pā. Sū. 6-1-10 as read [?]; *i* in the reduplicate by *bhṛñām it*, Pā. Sū. 7-4-76 as read [?]; *guṇa* of the root vowel before the ending, followed by *r*; *nighāta* since it follows a non-verb). The Rik is closed with *‖ 4 ‖* and an ornament.
+
+## Rik 105.5 — printed pp. 462–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.5)**
+
+> अमी ये देवा स्थन त्रिष्वा रोचने दिवः ।
+> कद्व ऋतं कदनृतं क्व प्रत्ना व आहुतिर्वित्तं मे अस्य रोदसी ॥ ५ ॥
+
+*amī ye devā sthana triṣv ā rocane divaḥ | kad va ṛtaṃ kad anṛtaṃ kva pratnā va āhutir vittaṃ me asya rodasī ‖ 5 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 463 (PDF 483)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 463.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.5)**
+
+> अमी इति । ये । देवाः । स्थन । त्रिषु । आ । रोचने । दिवः ।
+> कत् । वः । ऋतम् । कत् । अनृतम् । क्व । प्रत्ना । वः । आऽहुतिः ।
+> वित्तम् । मे । अस्य । रोदसी इति ॥ ५ ॥
+
+*amī iti | ye | devāḥ | sthana | triṣu | ā | rocane | divaḥ | kat | vaḥ | ṛtam | kat | anṛtam | kva | pratnā | vaḥ | ā-hutiḥ | vittam | me | asya | rodasī iti ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.5)**
+
+> हे देवाः । त्रिषु पृथिव्यादिषु स्थानेषु येऽमी यूयं स्थन वर्तमाना भवथ । यानि स्थानानि दिवो द्योतमानस्य सूर्यस्य आ रोचने दीप्तिविषये वर्तन्ते । सूर्यप्रकाश्येषु स्थानेष्वित्यर्थः । तेषां वो युष्माकं संबन्धि स्तोत्रविषयमृतं सत्यं कत् कस्मिन्देशे वर्तते । अनृतं द्वेष्यविषयमसत्यं च कत् कुत्र गतं । अपि च प्रत्ना चिरकालीना वो युष्माकं संबन्धिन्याहुतिर्मया पूर्वमनुष्ठितो योगः क्व कुत्रासीत् । ईदृग्भूतदुःखानुभवेन मया पूर्वमनुष्ठितो योगसमूहो युष्मान्न प्राप्नोदित्यनुमिमे । अस्यत्सूर्ववत् [?] ॥ स्थन । तप्तनप्तनथनाश्चेति तबस्य थनादेशः । कत् । कच्छब्दस्य वर्णव्यापत्त्या कद्भावः ॥
+> *he devāḥ | triṣu pṛthivyādiṣu sthāneṣu ye 'mī yūyaṃ sthana vartamānā bhavatha | yāni sthānāni divo dyotamānasya sūryasya ā rocane dīptiviṣaye vartante | sūryaprakāśyeṣu sthāneṣv ity arthaḥ | teṣāṃ vo yuṣmākaṃ saṃbandhi stotraviṣayam ṛtaṃ satyaṃ kat kasmin deśe vartate | anṛtaṃ dveṣyaviṣayam asatyaṃ ca kat kutra gataṃ | api ca pratnā cirakālīnā vo yuṣmākaṃ saṃbandhinyāhutir mayā pūrvam anuṣṭhito yogaḥ kva kutrāsīt | īdṛgbhūtaduḥkhānubhavena mayā pūrvam anuṣṭhito yogasamūho yuṣmān na prāpnod ity anumime | asyat-sūrvavat [?] ‖ sthana | taptanaptanathanāś ceti tabasya thanādeśaḥ | kat | kacchabdasya varṇavyāpattyā kadbhāvaḥ ‖* *(Sanskrit as read; "asyat-sūrvavat" and some small words are clotted and read with doubt [?]; the grammatical tail is short and given.)*
+
+"O gods, you who are in the three places, earth and the rest — those places which lie within the radiance (*ā rocane*) of the shining (*divaḥ*) sun, that is, in the places lit by the sun — where, in what region, is your *ṛta*, truth, that concerns the praise [of you]? And where has gone your *anṛta*, untruth, which concerns the [one who is] hateful (the enemy)? And further: where was your ancient *āhuti* — the sacrificial offering, the rite, performed by me earlier? [The sense:] 'by my suffering such a misfortune, the whole mass of rites performed earlier by me does not reach you', so I infer. [The rest is] as before. *Sthana*: the *tha* of the ending *tana* is substituted for *tana* [by *tasthasthamipāṃ…*, here *taptanaptanathanāś ca*]. *Kat*: *kad* for the word *ka* by the change of letters."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.5; Kannada; English)**
+
+*Devāḥ* — O gods; *ye amī* — you who; *divaḥ* — of the shining sun; *ā rocane* — within the radiance; *triṣu* — in the three worlds (earth and the rest); *sthana* — you are; *vaḥ* — such of you; *ṛtam* — truthfulness; *kat* — where is it?; *anṛtam* — (the untruth that concerns the enemy) falsity; *kat* — where [has it gone]?; *pratnā* — the ancient; *vaḥ* — addressed to you; *āhutiḥ* — the sacrifice (or the hymn-form invocation); *kva* — where [has it gone]?; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or this sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, you who are in the three worlds pervaded by the radiance of the shining sun: where is your truth now? Where is the untruthfulness that concerns the enemy? Where is my ancient hymn addressed to you for the removal of my sorrow? *(continued on p. 464)*
+
+---
+
+### Page 464 (PDF 484)
+
+*(Running head: left 464; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+O Heaven and Earth, know well this sorrow of mine; hear my hymn and lift me up.
+
+**English Translation (as printed in the source)**
+
+"Gods, who are present in three worlds, who abide in the light of the sun, where now is your truth, where your untruth, where the ancient invocation (that I have addressed) to you ? Heaven and earth, be conscious of (my affliction)." *(The print omits "this" before "(my affliction)"; as printed.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.5)**
+
+In the previous Ṛk the question was put to Agni alone. In this Ṛk the same kind of question is put to all the deities who are in the three worlds.
+
+**Triṣu sthana** — "'you who are in the three worlds': that is the meaning. Which are these three worlds, who are the deities that are in them, how many are they, what is their nature? These and similar matters have been told in the first part, which is the introductory section. Yet here too, according to the context, by citing the Saṃhitā sentences and the statements of the Nirukta, the number and the natures of all those deities may be made known.
+
+> सूर्यो नो दिवस्पातु वातो अन्तरिक्षात् ।
+> अग्निर्नः पार्थिवेभ्यः ॥
+> *sūryo no divas pātu vāto antarikṣāt | agnir naḥ pārthivebhyaḥ ‖* (*Ṛ. Saṃ.* 10-158-1 as read [?])
+
+In this Ṛk, Sūrya in the heavenly world, Vāyu in the mid-region, and Agni on the earth are called the presiding deities and described as the protectors of the world. The same division is found in the Nirukta also:
+
+> तिस्र एव देवता इति नैरुक्ताः । अग्निः पृथिवीस्थानः । वायुर्वा इन्द्रो वान्तरिक्षस्थानः । सूर्यो द्युस्थानः । तासां महाभाग्यादेकैकस्या अपि बहूनि नामधेयानि भवन्ति । अपि वा कर्मपृथक्त्वात् ।
+> *tisra eva devatā iti nairuktāḥ | agniḥ pṛthivīsthānaḥ | vāyur vā indro vāntarikṣasthānaḥ | sūryo dyusthānaḥ | tāsāṃ mahābhāgyād ekaikasyā api bahūni nāmadheyāni bhavanti | api vā karmapṛthaktvāt |* (*Ni.* 7-5 as read [?])
+
+---
+
+### Page 465 (PDF 485)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 465. At the foot, the printer's signature "30 / VOLUME 6" [sic: as printed, noted only].)*
+
+"According to the view of the Nirukta-author, Agni, Vāyu (or Indra) and Sūrya — these three deities are the presiding deities of the three worlds, earth, mid-region and heaven. Saying that for these same deities, whether on account of greatness of glory or by the variety of their functions, there are many different names, [the Nirukta, beginning] '*athāto 'nukramiṣyāmaḥ agniḥ pṛthivīsthānaḥ taṃ prathamaṃ vyākhyāsyāmaḥ*' (from *Ni.* [?]-[?] to the [?]th section) has given the nature of the deities whose place is the earth; '*athāto madhyasthānā devatāḥ | tāsāṃ vāyuḥ prathamāgāmī bhavati*' (from [?]-[?] to the [?]th section) the nature of the mid-region deities; and '*athāto dyusthānā devatāḥ*' (from [?]-[?] to the end of the chapter) the nature of the heavenly deities. Although there are differences of opinion as to how many deities there are, divided in this way, in many places in the Ṛk-saṃhitā the same one view is seen:
+
+> आ नासत्या त्रिभिरेकादशैरिह देवेभिर्यातं मधुपेयमश्विना ।
+> *ā nāsatyā tribhir ekādaśair iha devebhir yātaṃ madhupeyam aśvinā |* (*Ṛ. Saṃ.* 1-34-11 as read [?])
+
+— [the Aśvins are] invited: 'come here, wishing for the honey-drink, with the thirty-three deities'; and in
+
+> तां रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ।
+> *tāṃ rohidaśva girvaṇas trayastriṃśatam ā vaha |* (*Ṛ. Saṃ.* 1-45-2 as read [?]; the first word as read [?])
+
+— Agni is told, 'call the thirty-three deities and bring them'; and in
+
+> ये देवासो दिव्येकादश स्थ पृथिव्यामध्येकादश स्थ ।
+> अप्सुक्षितो महिनैकादश स्थ ते देवासो यज्ञमिमं जुषध्वम् ॥
+> *ye devāso divy ekādaśa stha pṛthivyām adhy ekādaśa stha | apsukṣito mahinaikādaśa stha te devāso yajñam imaṃ juṣadhvam ‖* (*Ṛ. Saṃ.* 1-139-11 as read [?])
+
+— 'O gods, [you who are] eleven in the heavenly world, eleven on the earth, and eleven by your greatness dwelling in the waters: all of you, come together to this our sacrifice and enjoy it' — thus he addresses all the gods directly. Thus, in the Ṛks cited above and in still others — *Ṛ. Saṃ.* 3-[?]-[?]; 8-[?]-[?]; 8-[?]-[?]; 9-[?]-[?] and so on [as read; numerals doubtful [?]] — it is plain that the number of the deities is thirty-three. In the Śatapatha Brāhmaṇa also —
+
+> अष्टौ वसवः । एकादश रुद्राः द्वादशादित्या इमे एव द्यावापृथिवी त्रयस्त्रिंशे देवाः प्रजापतिश्चतुस्त्रिंशः [?] ।
+> *aṣṭau vasavaḥ | ekādaśa rudrāḥ dvādaśādityā ime eva dyāvāpṛthivī trayastriṃśe devāḥ prajāpatiś catustriṃśaḥ [?] |* *(as read from the print; the last clause is clotted and given with doubt [?])*
+
+— the eight Vasus, the eleven Rudras, the twelve Ādityas, and Heaven and Earth together: these are the thirty-three deities. Prajāpati" *(the passage continues on p. 466: "…among these themselves")*
+
+---
+
+**Progress note:** Printed pp. 1–465 done (PDF 21–485): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.4 complete (pp. 441–462); Rik 105.5 (printed pp. 462–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; its Special Topics (the three worlds and thirty-three deities, Nirukta and Śatapatha) under way, ending mid-sentence at the foot of p. 465 ("Prajāpati…"). Next: printed p. 466 (PDF 486); then grammar of 105.5 and Rik 105.6. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
