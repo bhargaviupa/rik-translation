@@ -20835,5 +20835,126 @@ Then the ṛṣis, the gods, the Gandharvas and the Apsarases, seeing Sarasvatī
 — saying that it is stated in this Ṛk.
 
 ---
+### Page 769 (PDF 789)
 
-**Progress note:** Printed pp. 1–768 done (PDF 21–788): Sūkta 112: Riks 112.1–112.8 complete (pp. 723–765); Rik 112.9 (printed pp. 766–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Sarasvatī/Viśvāmitra/Vasiṣṭha tale from Skandasvāmi; Vasiṣṭha's son), ending at the foot of p. 768 after the Ṛg citation *aniṣṭaṃ dhīṣv aśvinā…*. Next: printed p. 769 (PDF 789). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 769.)*
+
+*(The Special Topics of Rik 112.9 having concluded on p. 768, the grammar page follows.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.9)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Sindhum*: root *syandū prasravaṇe*; by *syandeḥ saṃprasāraṇaṃ dhaś ca* (*Uṇ.* 1-11 as read [?]) the root takes *saṃprasāraṇa*, *dh* for *d*, and the suffix *u*; accusative singular. *Madhumantam*: [the *vārttika* verse:] *bhūmanindāpraśaṃsāsu nityayogeti śāyane | saṃsargo 'sti vivakṣāyāṃ bhavanti matupādayaḥ* — 'in the senses of abundance, blame, praise, constant connection, [possession...], and where a connection is intended, the suffix *matup* and the rest occur'; by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]) the *matup* here comes after the word *madhu* in the sense of abundance (*bhūman*); since *matup* is *pit* it is *anudātta*; accusative singular. *Asaścatam*: the root *saścati* is used in the sense of motion; here, because it shows urging, it must be taken as a root with causative sense included; *laṅ*, second-person dual; since *yad* is connected, the *nighāta* is prohibited by *yad vṛttān nityam* (*pā.* 8-1-66 as read [?]); since the augment is *udātta*, the first syllable is *udātta*. *Ajarau*: 'those two in whom there is no old age' = *ajarau*; by *āmantritasya ca* (*pā.* 8-1-19 as read [?]) the *nighāta*. *Ajinvatam*: root *jivi prīṇane*; because of the marker *i*, the augment *num*; *laṅ*, second-person dual; since *yābhiḥ* is connected, no *nighāta*; the *udātta*. *Āvatam*: root *av rakṣaṇe*; *laṅ*, second-person dual; as before the first syllable is *udātta* from the *udātta* of the augment. ‖ 9 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.9.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.10)** *(accent-marks not reproduced; the first line is on p. 769, the second on p. 770)*
+
+> याभिर्विश्पलां धनसामथर्व्यं सहस्रमीळ्ह आजावजिन्वतम् ।
+> *yābhir viśpalāṃ dhanasām atharvyaṃ sahasramīḷha ājāv ajinvatam |*
+
+---
+
+### Page 770 (PDF 790)
+
+*(Running head: left 770; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> याभिर्वशमश्व्यं प्रेणिमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ १० ॥
+> *yābhir vaśam aśvyaṃ preṇim āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 10 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.10)**
+
+> याभिः । विश्पलाम् । धनऽसाम् । अथर्व्यम् । सहस्रऽमीळ्हे । आजौ । अजिन्वतम् ।
+> याभिः । वशम् । अश्व्यम् । प्रेणिम् । आवतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १० ॥
+> *yābhiḥ | viśpalām | dhana-sām | atharvyam | sahasra-mīḷhe | ājau | ajinvatam |*
+> *yābhiḥ | vaśam | aśvyam | preṇim | āvatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.10)**
+
+> हे अश्विनौ धनसां धनं सम्भजमानामथर्व्यमगच्छन्तीं भिन्नजङ्घात्वेन गन्तुमसमर्थाम् । थर्वतिर्गतिकर्मा । विश्पलामेतत्सञ्ज्ञामगस्त्यपुरोहितस्य खेलस्य सम्बन्धिनीं सहस्रमीळ्हे । मीळ्हमिति धननाम । बहुधनोपेत आजौ सङ्ग्रामे याभिरूतिभिरजिन्वतं गन्तुं समर्थामकुरुतम् । एतच्च चरित्रं हि वेरिवाच्छेदि पर्णम् । ऋ. १-११६-१५ । इत्यत्र विस्पष्टयिष्यते । याभिश्चाश्व्यमश्वाख्यस्य पुत्रं प्रेणिं स्तुतेः प्रेरयितारं वशमेतत्सञ्ज्ञमृषिमावतमरक्षतम् । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ प्रेणिम् । प्रेण् गतिप्रेरणश्लेषणेषु । औणादिक इप्रत्ययः ॥
+> *he aśvinau dhanasāṃ dhanaṃ sambhajamānām atharvyam agacchantīṃ bhinnajaṅghātvena gantum asamarthām | tharvatir gatikarmā | viśpalām etatsañjñām agastyapurohitasya khelasya sambandhinīṃ sahasramīḷhe | mīḷham iti dhananāma | bahudhanopeta ājau saṅgrāme yābhir ūtibhir ajinvataṃ gantuṃ samarthām akurutam | etac ca caritraṃ hi verivācchedi parṇam | ṛ. 1-116-15 | ity atra vispaṣṭayiṣyate | yābhiś cāśvyam aśvākhyasya putraṃ preṇiṃ stuteḥ prerayitāraṃ vaśam etatsañjñam ṛṣim āvatam arakṣatam | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ preṇim | preṇ gatipreraṇaśleṣaṇeṣu | auṇādika ipratyayaḥ ‖*
+
+*(Sanskrit as read; the reference-numerals and the phrase* verivācchedi parṇam *are as printed, doubtful [?].)*
+
+"O Aśvins! *dhanasām*: she who shares in wealth [= seeks wealth]; *atharyam*: she who was not moving, unable to walk because her legs were broken — *tharvati* is a verb of motion; *viśpalām*: the woman so named, belonging to Khela, the [king whose] *purohita* [was] Agastya; *sahasramīḷhe*: *mīḷha* is a name for wealth; in the battle, *ājau*, which is endowed with abundant wealth, with whichever protections you *ajinvatam*, made her able to go. This story will be made plain in the Ṛk '*caritraṃ hi verivācchedi parṇam*' (*Ṛ.* 1-116-15). And with whichever protections you protected *vaśam*, the ṛṣi so named, *aśvyam*, the son of the one called Aśva, *preṇim*, the one who urges on praise: with all those protections come to us also."
+
+*Grammatical tail (short):* *preṇim*: root *preṇ* in the senses of going, urging and embracing; the Uṇādi suffix *i*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.10; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *dhanasām* — one who seeks wealth; *atharyam* — (since her legs were broken) unable to walk; *viśpalām* — (Khela's wife) Viśpalā; *sahasramīḷhe* — filled with abundant wealth; *ājau* — in the battle; *yābhiḥ* — by whichever protections; *ajinvatam* — you made able to walk; (and) *yābhiḥ* — by whichever of your helps; *aśvyam* — the son of Aśva; *preṇim* — the praiser; *vaśam* — the ṛṣi named Vaśa; *āvatam* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections, (to us also) *su ā gatam* — with that pride [favour] [?] come.
+
+---
+
+### Page 771 (PDF 791)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 771.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! seeking wealth but, since her legs were broken, unable to walk: with whichever protections you made Viśpalā, Khela's wife, able to walk to the battle filled with abundant wealth; and with whichever helps you protected the ṛṣi named Vaśa, son of Aśva and a praiser: with all those protections come to us also, with favour [?].
+
+**English Translation (as printed in the source; Rik 112.10)**
+
+"With those aids by which you enabled the opulent Vispala, when she was unable to move, to go to the battle rich in a thousand spoils, and by which you protected the devout Vasa, the son of Aswa; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.10)**
+
+**विश्पलाम् अजिन्वतम् — Viśpalām ajinvatam.** Skandasvāmi has:
+
+> अत्रेतिहासमाचक्षते । अगस्त्यपुरोहित ऐळो नाम राजा बभूव । तस्य सेनायां योध्री विश्पला नाम स्त्री । तस्या अन्नार्थं धनार्थं च युध्यमानायाः शत्रवो जङ्घां चिच्छिदुः । तस्याश्छिन्नां जङ्घां ज्ञात्वा पुरोहितोऽगस्त्योऽश्विनौ तुष्टाव । तौ विश्पलां प्रति जग्मतुः । आगत्य च सद्यो लोहमयीं जङ्घां विश्पलाया श्चक्रतुः । तदेवेहाप्युच्यते ।
+> *atretihāsam ācakṣate | agastyapurohita aiḷo nāma rājā babhūva | tasya senāyāṃ yodhrī viśpalā nāma strī | tasyā annārthaṃ dhanārthaṃ ca yudhyamānāyāḥ śatravo jaṅghāṃ cicchiduḥ | tasyāś chinnāṃ jaṅghāṃ jñātvā purohito 'gastyo 'śvinau tuṣṭāva | tau viśpalāṃ prati jagmatuḥ | āgatya ca sadyo lohamayīṃ jaṅghāṃ viśpalāyāś cakratuḥ | tad evehāpy ucyate |*
+> *(Sanskrit as read; the first words are as printed, and the king's name is* aiḷa *[Iḷa] in this print but* khela *in Sāyaṇa's bhāṣya, as noted above; recorded as printed.)*
+> "Here they tell the tale: there was a king named Aiḷa [Iḷa], whose *purohita* was Agastya. In his army was a woman warrior named Viśpalā. While she was fighting for food and for wealth, the enemies cut off her leg. Knowing that her leg had been cut off, the *purohita* Agastya praised the two Aśvins. They went to Viśpalā; and, having come, at once they made an iron leg for Viśpalā. This very thing is said here too."
+
+"In the army of the king named Iḷa was a woman warrior named Viśpalā. While she fought for the sake of food and wealth, enemies cut off her legs. Learning this, the king's *purohita* Agastya praised the Aśvin deities. They came at once, made her an iron leg, and made Viśpalā walk": this is the earlier story, and this story is also told in the sūkta composed by Kakṣīvān:
+
+> चरित्रं हि वेरिवाच्छेदि पर्णमाजा खेलस्य परितक्म्यायाम् ।
+> सद्यो जङ्घामायसीं विश्पलायै धने हिते सर्तवे प्रत्यधत्तम् ॥
+> *caritraṃ hi verivācchedi parṇam ājā khelasya paritakmyāyām |*
+> *sadyo jaṅghām āyasīṃ viśpalāyai dhane hite sartave praty adhattam ‖*
+> (*Ṛ.* 1-116-15 as read [?])
+> *(Sanskrit as read; the first line is doubtful in places [?]. Gloss, mine and tentative: "…[in the battle] of Khela, in the night [?], a wing was cut off like a bird's [?]; at once you set an iron leg for Viśpalā, to run, [that she might go] to the booty set forth.")*
+
+Skandasvāmi has also quoted it, saying that this matter is told in this Ṛk too.
+
+**अथर्व्यम् — Atharvyam.** *tharvatir gatikarmā | bhinnajaṅghatvād gantum asamarthām |* — "*tharvati* is a verb of motion: unable to move because her legs were broken." The word *tharvati* is read among the names of verbs of motion. 'Because her shank had been cut off, she who could not walk', is the sense.
+
+---
+
+### Page 772 (PDF 792)
+
+*(Running head: left 772; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**सहस्रमीळ्हे — Sahasramīḷhe.** *sahasram iti bahunāma | bahūni dhanāni nimittabhūtāni yasya sa sahasramīḷhaḥ saṅgrāmaḥ |* — "*sahasra* is a name for 'many'; the battle for which many riches are the cause is *sahasramīḷha*": because the battle is [fought] for the sake of abundant riches, the word *sahasramīḷhe* is an epithet of battle.
+
+**याभिश्च वशम् — Yābhiś ca vaśam.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । वशो नाम राजा अश्वप्रायबलः । स हस्तिबलैः शत्रुभिः पराजीयमानः साहाय्यं कर्तुमश्विनौ स्तुत्वाजुहाव । तं प्रति तस्मिन्नेवाहनि अश्विनावाजग्मतुरिति ।
+> *atrāpītihāsam ācakṣate | vaśo nāma rājā aśvaprāyabalaḥ | sa hastibalaiḥ śatrubhiḥ parājīyamānaḥ sāhāyyaṃ kartum aśvinau stutvājuhāva | taṃ prati tasminn evāhani aśvināv ājagmatur iti |*
+> "Here too they tell the tale: a king named Vaśa, whose strength lay chiefly in horses. Being defeated by enemies whose strength lay in elephants, he praised and called the two Aśvins to give help. On that very day the Aśvins came to him."
+
+"A king named Vaśa, whose forces were chiefly cavalry, being defeated by enemies with an elephant-force, praised and called the Aśvin deities for help; and they came at once and helped him": so he tells the story, and quotes the Ṛk which speaks of the same matter:
+
+> विकस्या वस्तोरावतं रणाय वशमश्विना सनये सहस्रा ।
+> *vikasyā vastor āvataṃ raṇāya vaśam aśvinā sanaye sahasrā |*
+> (*Ṛ.* 8-86-12 as read [?])
+> *(Sanskrit as read; doubtful in the first words and in the numerals [?]; no gloss attempted.)*
+
+**अश्व्यम् — Aśvyam.** *aśvākhyasya putram* — "the son of the one called Aśva": so Sāyaṇa; Skandasvāmi explains: *aśvasamūhavantam* — 'the one who possesses a body of horses; i.e. Vaśa, who has a cavalry force'. In many places it is said of Vaśa that he is the son of Aśva. In the Ṛk-Saṃhitā's eighth Maṇḍala, in the *sūkta* [8-46] the seer Vaśa, son of Aśva, is named; in the Pīṭhike [introduction] to the bhāṣya on that sūkta too, and in the Śatapatha Brāhmaṇa, which applies this same sūkta (8-5-2-3 [?]), this is said; in the Bṛhaddevatā also:
+
+> वशायाश्व्याय यत्प्रादात्कानीतेषु पृथुश्रवाः ।
+> *vaśāyāśvyāya yat prādāt kānīteṣu pṛthuśravāḥ |*
+> (*Bṛ. De.* 6-24 as read [?])
+> *(Sanskrit as read from the print; doubtful [?]; no gloss attempted.)*
+
+— which speaks of Vaśa as Aśva's son. Combining here the meanings of both commentators, it cannot be wrong to say 'Vaśa, who had cavalry strength and was the son of Aśva'.
+
+**प्रेणिम् — Preṇim.** *prīñ tarpaṇe | tarpayitāraṃ ca stutibhir havirbhiś ca devānām |* — "root *prīñ* 'to please': one who satisfies the gods with praises and with oblations."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.10)** *(grammar page, begun at the foot of p. 772; sūtra numbers only as read, doubtful [?])*
+
+*Dhanasām*: 'she who shares wealth' = *dhanasā*, its accusative; root *ṣaṇa sambhaktau*; by *janasanakhan…* (*pā.* 3-2-67 as read [?]) the suffix *viṭ*; with it following, by *vidvanoranunāsikasyāt* (*pā.* 6-4-41 as read [?]) the root ends in *ā*; by the accent of the *kṛdanta* after the prior member, [the accent follows the rule]… *(continued on p. 773)*
+
+---
+
+**Progress note:** Printed pp. 1–772 done (PDF 21–792): Sūkta 112: Riks 112.1–112.9 complete (pp. 723–769); Rik 112.10 (printed pp. 769–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*dhanasām*, ending at the foot of p. 772). Next: printed p. 773 (PDF 793). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
