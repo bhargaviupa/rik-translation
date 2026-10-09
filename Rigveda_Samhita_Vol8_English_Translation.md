@@ -4712,4 +4712,103 @@ Grammar pages, noted briefly. They treat: *astu* (root *as bhuvi*, *adādi*; *lo
 
 ---
 
-**Progress note:** Printed pp. 1–161 done (PDF 21–181): Sūktas 95–97 complete; **Sūkta 98** (3 Ṛks; Vaiśvānara; printed pp. 134–?): Rik 98.1 Special Topics (pp. 137–145: the *Vaiśvānarāgni-mahimā*, the Nirukta discussion of Vaiśvānara, the Bṛhaddevatā verses, the Śatapatha Brāhmaṇa 10-6-1 story of the six householders and Aśvapati Kaikeya — its Sanskrit text on pp. 141–142 and Kannada summary on pp. 142–144 — and the Chāndogya Upaniṣad 5-18-2 and 5-24 quotations with Śaṅkara's derivation on p. 145) done to the foot of p. 145; the Special Topics' close and grammar of 98.1 (pp. 146–147) and Rik 98.2 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, first Special Topic on the Cāturmāsya *yājyā*, pp. 148–149) done; Sūkta 98 is COMPLETE (Riks 98.1–98.3, ending p. 157 with 'tombhatteṇṭaneya sūktavu samāptavu'). **Sūkta 99** (1 Ṛk, *jātavedase sunavāma somam*, Kaśyapa Mārīca, Triṣṭubh, Jātavedas Agni; printed pp. 157–164) in progress: Anuvāda, heading block, Saṃhitā, Pada, bhāṣya (with its Nirukta quotation and grammatical tail), Pratipadārtha, Bhāvārtha, English and the Special Topics through the Bṛhaddevatā verses and the opening of the Śatapatha Brāhmaṇa quotation (6-3-1) are done to the foot of p. 161. Next: printed p. 162 (PDF 182): the Śatapatha passage continues, then the rest of the Special Topics, the grammar page(s), and Sūkta 100 which begins at printed p. 165. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 162 (PDF 182)
+
+*(Running head: left 162; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+
+**Special Topics of Rik 99.1, continued from p. 161 (Kannada)**
+
+"— [the Śatapatha says that] Agni, in the form of breath, pervades with his power all beings that are born, and so is called 'Jātavedas'. This Jātavedas, who is worshipped in the sacrificial house, is described in the Upaniṣads as Brahman, the Self of the universe."
+
+> विश्वरूपं हरिणं जातवेदसं परायणं ज्योतिरेकं तपन्तम् ।
+> *viśvarūpaṃ hariṇaṃ jātavedasaṃ parāyaṇaṃ jyotir ekaṃ tapantam |*
+> (*Praśnopaniṣad* 1-8 as read [?])
+
+"— as the Praśna Upaniṣad says of the Sun as he rises: he of all forms, of a thousand rays, all-knowing, the refuge of the world, he who is known by the knowing, the inner Self of all beings."
+
+> अरण्योर्निहितो जातवेदा गर्भ इव सुभृतो गर्भिणीभिः ।
+> दिवेदिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ॥
+> *araṇyor nihito jātavedā garbha iva subhṛto garbhiṇībhiḥ | dive-diva īḍyo jāgṛvadbhir haviṣmadbhir manuṣyebhir agniḥ ‖*
+> (*Kaṭhopaniṣad* [1?]-4-8 as read [?])
+
+"That Jātavedas who, placed between the two fire-sticks (*araṇi*), established in the sacrifice, enjoys all the oblations; on whom the yogis meditate in their hearts as the Supreme Person, as pregnant women with affection nurse and bring to growth the child in the womb; and for whom the sacrificers offer oblations, to the worshipful Agni — that Jātavedas is the Supreme Brahman, the Self of the universe: so the Kaṭhopaniṣad describes."
+
+> अरण्योर्निहितो जातवेदा गर्भ इव सुधितो गर्भिणीषु ।
+> दिवेदिव ईड्यो जागृवद्भिर्हविष्मद्भिर्मनुष्येभिरग्निः ॥
+> *araṇyor nihito jātavedā garbha iva sudhito garbhiṇīṣu | dive-diva īḍyo jāgṛvadbhir haviṣmadbhir manuṣyebhir agniḥ ‖*
+> (*Ṛ. Saṃ.* 3-29-2 as read [?])
+
+"— as it is described in the Ṛksaṃhitā, so also in the Kaṭhopaniṣad. Thus all the Śrutis praise him as 'Jātavedas': omniscient, all-pervading, possessed of all wealth, and most excellent.
+
+*Arātīyataḥ* — from the enemy who wishes us ill. For sacrificers devoted to rites, the natural violence that arises from the Asuras can be turned away only by Agni, the presider of the sacrifice, who is able to do so; therefore at every step Agni is entreated that such violence arising from Asuras be warded off."
+
+> मा नो अरातीरीशत [as printed] देवस्य मर्त्यस्य च ।
+> *mā no arātīr īśata [as printed] devasya martyasya ca |*
+> (*Ṛ. Saṃ.* 2-[?]-[?] as read [?])
+
+> पुरुद्रुहो हि क्षितयो जनानां प्रति प्रतीचीर्दहतादरातीः ॥
+> *purudruho hi kṣitayo janānāṃ prati pratīcīr dahatād arātīḥ ‖*
+> (*Ṛ. Saṃ.* 3-19-1 as read [?])
+
+### Page 163 (PDF 183)
+
+*(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 163.)*
+
+> यो नो अरातिं समिधान चक्रे नीचा तं धक्ष्यतसं [as printed] न शुष्कम् ।
+> *yo no arātiṃ samidhāna cakre nīcā taṃ dhakṣyatasaṃ [as printed] na śuṣkam |*
+> (*Ṛ. Saṃ.* 7-4-9 as read [?])
+
+*(Glosses, mine and tentative, the printed words being uncertain: "Let not the foes have mastery over us, over the god or the mortal"; "for the evil-doers are the many dwellers [of the earth]; burn the foes who stand against [us]"; "He who, O kindled one, has made [himself] our foe, burn him low, like dry [wood]".)*
+
+"— as in these and many other places prayer is made to be protected from enemies, so here too Agni is prayed to.
+
+*Sindhuṃ nāvā iva viśvā durgāṇi ati parṣat* — as a river full of evil creatures such as crocodiles is carried across safely by boat, so, when praying that Agni may free us from the obstructions that are the causes of sorrow and ferry us over the difficulties, the comparison of [his] protection with a boat, and of troubles with crocodiles and other cruel water-creatures, is a simile that occurs commonly in the Ṛksaṃhitā in many places. The fitness of this simile is shown, with examples, where the Ṛk *Ṛ. Saṃ.* 1-97-2 [as read, ?] is explained.
+
+*Duritā ati* — may he carry us across, and bring us away from, even the sinful deeds that cause us sorrow, [so that] we do not commit them. However careful one may be, some deficiency in the performance of rites is natural to be found; therefore, in order that the sin of such ignorance may not arise, one must be a promoter of good conduct, or, if deficiency has appeared, must be able to pass beyond it: so in many places prayers full of repentance occur."
+
+> यच्चिद्धि ते पुरुषत्रा यविष्ठाचित्तिभिश्चकृमा कच्चिदागः ।
+> कृधी ष्वस्माँ अदितेरनागान्व्येनांसि शिश्रथो विष्वगग्ने ॥
+> *yac cid dhi te puruṣatrā yaviṣṭhācittibhiś cakṛmā kac cid āgaḥ | kṛdhī ṣv asmāṃ aditer anāgān vy enāṃsi śiśratho viṣvag agne ‖*
+> (*Ṛ. Saṃ.* 4-12-4 as read [?])
+
+> सो अग्न एना नमसा समिद्धोऽच्छा मित्रं वरुणमिन्द्रं वोचेः ।
+> यच्छीमागश्चकृमा [?] तत्सु मृळ तदर्यमादितिः शिश्रथन्तु ॥
+> *so agna enā namasā samiddho 'cchā mitraṃ varuṇam indraṃ vocheḥ | yac chīmāgaś cakṛmā [?] tat su mṛḷa tad aryamāditiḥ śiśrathantu ‖*
+> (*Ṛ. Saṃ.* 7-[5?]1-2 as read [?]; *yacchīmāgaś* as printed, doubtful)
+
+*(Glosses, mine and tentative: "Whatever fault we have committed against you among men, O youngest one, through want of thought — make us sinless before Aditi; loosen our sins on all sides, O Agni"; "You, Agni, kindled with this homage, speak to Mitra, Varuṇa, Indra: whatever fault we have committed, forgive that; may Aryaman and Aditi loosen it".)*
+
+"— as it is prayed in such passages that all kinds of faults be avoided, and that, if such faults occur, they be forgiven, so here too that is the prayer."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 99.1)** *(grammar pages, pp. 163–165, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *jātavedase* (*jātāni vettīti jātavedāḥ*, root *vid jñāne*; *asun* when the first member is a *kāraka*, by *gatikārakayor api pūrvapadaprakṛtisvaratvaṃ ca* [Uṇ. Sū. 4-[?]66 as read, ?]; *guṇa* of the penult; *jātavedas*; the accent of the first member follows from the sūtra itself; dative singular); *sunavāma* (root *ṣuñ abhiṣave*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ* [Pā. Sū. 6-1-64 as read]; *loṭ*, first person plural, loss of *s*; *śnu* by *svādibhyaḥ śnuḥ* [Pā. Sū. 3-1-73 as read]; *āṭ* by *āḍuttamasya pic ca* [Pā. Sū. 3-4-92 as read]; *guṇa* and *av*-substitution; no *guṇa* of the root vowel since the *vikaraṇa* acts as *ṅit*; *nighāta* accent); *arātīyataḥ* (*na vidyate rātir dānam asmin* — *arātiḥ*, 'enemy'; *arātim ivācarati*, *upamānād ācāre* [Pā. Sū. 3-1-10 as read], *kyac*; lengthening by *akṛtsārvadhātukayor dīrghaḥ* [Pā. Sū. 7-4-25 as read]; the *kyac*-final stem takes the name of a root by *sanādyantā dhātavaḥ* [Pā. Sū. 3-1-32 as read]; *śatṛ*; genitive singular; acute on the ending by *śaturanumo nadyajādī* [Pā. Sū. 6-1-173 as read]); *dahāti* (root *dah bhasmīkaraṇe*; *leṭ*, *tip*; *aṭ* by *leṭo 'ḍāṭau* [Pā. Sū. 3-4-94 as read]; *nighāta*); *vedaḥ* (*vidyate labhyate*, root *vid lābhe*; *asun* by *sarvadhātubhya asun* [Uṇ. Sū. 4-[?]-3[?] as read, ?]; *guṇa*; the affix being marked, the accent falls on the first syllable; accusative singular); *parṣat* (root *pṝ pālanapūraṇayoḥ*, with the causative sense included; *leṭ*, *tip*; loss of *i* by *itaś ca* [Pā. Sū. 3-4-97 as read]; *aṭ*; *sip* by *sib bahulaṃ leṭi* [Pā. Sū. 3-1-34 as read]; *guṇa*; *raparatva*; *nighāta*); *durgāṇi* (*duḥkhena gamyate eṣu*, root *gam*; *ḍa* by a vārttika under Pā. Sū. 3-2-48 beginning *su-duror* [?]; because the affix is *ḍit* the final of the root is dropped; the accent is on the last syllable by the affix); *viśvā* (neuter plural, *śi*-substitution; loss of the *i* of *śi* by *śe chandasi bahulam* [Pā. Sū. 6-1-70 as read]).
+
+### Page 164 (PDF 184)
+
+*(Running head: left 164; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+
+*The grammar of Rik 99.1 continues over this page (characterized in the paragraph above, which covers pp. 163–165).*
+
+### Page 165 (PDF 185)
+
+*(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 165.)*
+
+*(The grammar finishes at the head of the page with* viśvā*, as above.)*
+
+*(Printed line, centred:)* **೯೯ ನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತವಾಗಿದೆ** — *99ne sūktavu samāptavāgide*, "The 99th Sūkta is concluded."
+
+## Sūkta 100
+
+**ನೂರನೆಯ ಸೂಕ್ತವು** — *nūraneya sūktavu*, "the hundredth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 100 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> स यो वृषेत्येकोनविंशत्यृचं सप्तमं सूक्तम् । अत्रानुक्रम्यते । स यो वृषैकोना वार्षागिरा ऋज्राश्वाम्बरीषसहदेवभयमानसुराधस इति । वृषागिरो महाराजस्य पुत्रभूता ऋज्राश्वादयः पञ्च राजर्षयः सहेदं सूक्तं ददृशुः । आत्रस्येऽस्य सूक्तस्य ऋषयः [?] । उक्तं ह्यार्षानुक्रमण्याम् । सूक्तं स यो वृषेत्येतत्पञ्च वार्षागिरा विदुः । नियुक्ता नामधेयैः स्वरैरपि चैत[?]त्त्वदिद्य[?]टि [?] । अनादेशपरिभाषया त्रिष्टुप् । इन्द्रो देवता । दशरात्रस्य षष्ठेऽहनि मरुत्वतीये इदं सूक्तम् । तथा च सूत्रितम् । यं त्वं रथमिन्द्र स यो वृषेन्द्र मरुत्व इति तिस्र इति मरुत्वतीयम् । आ. ८-१ [?] इति ॥
+> *sa yo vṛṣety ekonaviṃśatyṛcaṃ saptamaṃ sūktam | atrānukramyate | sa yo vṛṣaikonā vārṣāgirā ṛjrāśvāmbarīṣasahadevabhayamānasurādhasa iti | vṛṣāgiro mahārājasya putrabhūtā ṛjrāśvādayaḥ pañca rājarṣayaḥ sahedaṃ sūktaṃ dadṛśuḥ | ātrasye 'sya sūktasya ṛṣayaḥ [?] | uktaṃ hy ārṣānukramaṇyām | sūktaṃ sa yo vṛṣety etat pañca vārṣāgirā viduḥ | niyuktā nāmadheyaiḥ svarair api caita[?]ttvadidya[?]ṭi [?] | anādeśaparibhāṣayā triṣṭup | indro devatā | daśarātrasya ṣaṣṭhe 'hani marutvatīye idaṃ sūktam | tathā ca sūtritam | yaṃ tvaṃ ratham indra sa yo vṛṣendra marutva iti tisra iti marutvatīyam | Ā. 8-1 [?] iti ‖*
+
+**Anuvāda (Kannada):** "*Sa yo vṛṣā* is the seventh sūkta in the fifteenth anuvāka. It has nineteen Ṛks. In the Anukramaṇikā it is said '*sa yo vṛṣaikonā vārṣāgirā ṛjrāśvāmbarīṣasahadevabhayamānasurādhasa iti*'. Five royal sages — Ṛjrāśva, Ambarīṣa, Sahadeva, Bhayamāna and Surādhas, sons of the great king Vṛṣāgira — together saw this sūkta. In the Ārṣānukramaṇikā it is said — *sūktaṃ sa yo vṛṣety etat pañca vārṣāgirā viduḥ | niyuktā nāmadheyaiḥ svarair api caitat…* [the last words clotted, [?]] — The metre is Triṣṭubh; the deity is Indra. On the sixth day of the sacrifice called Daśarātra, this sūkta is applied for the recitation of the mantras of the Marutvatīya *śastra*: so it is set down in the Āśvalāyana Śrauta-sūtra by the aphorism *yaṃ tvaṃ ratham indra, sa yo vṛṣendra marutva iti tisra iti marutvatīyam* (*Ā.* 8-1 [as read])."
+
+---
+
+**Progress note:** Printed pp. 1–165 done (PDF 21–185): **Sūkta 99** is COMPLETE (Rik 99.1, printed pp. 157–165; ends 'The 99th Sūkta is concluded'). **Sūkta 100** (19 Ṛks, *sa yo vṛṣā*, five Vārṣāgira royal seers Ṛjrāśva, Ambarīṣa, Sahadeva, Bhayamāna, Surādhas; Indra; Triṣṭubh; printed pp. 165–[264]) begun: Sāyaṇa's introduction and Anuvāda done (p. 165). Next: printed p. 166 (PDF 186): the heading block of Sūkta 100 and Rik 100.1.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?].
