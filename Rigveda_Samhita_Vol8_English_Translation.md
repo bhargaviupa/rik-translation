@@ -16398,5 +16398,115 @@ O Indra and Agni, who grant the desired objects: whether you are in the lowest, 
 **Avamasyāṃ pṛthivyām** — *sannikṛṣṭāyām asyāṃ bhūmyām |* "'in this nearest earth': the word *avama* is given the sense of 'near', 'close'. This word is read among the *aṅkita-nāmāni* [?] (*Ni.* 3-[?]); the word *avama*, with the sense 'youngest', or 'at the bottom, lower' (*keḷamaṭṭada*), 'situated below', is also…" *(continued on p. 610)*
 
 ---
+### Page 610 (PDF 630)
 
-**Progress note:** Printed pp. 1–609 done (PDF 21–629): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.8 complete (pp. 573–608); Rik 108.9 (printed pp. 608–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun at the foot of p. 609 (*avamasyāṃ pṛthivyām*, mid-sentence). Next: printed p. 610 (PDF 630). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 610; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+*(The Special Topics of Rik 108.9 conclude:)* "— [the word *avama*] may be taken in the sense of 'the lowest', 'situated below'; here too it applies. [The meaning is that] Indra and Agni are present in the earth that is nearest of all, in the mid-region situated in the middle, and in the heavenly world that is exceedingly far."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.9)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Avamasyām* (after the word *avama*, the locative singular ending *ṅi* receives the augment *syāṭ* by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; *ṅeḥ ām* by *jisarvanāmnaḥ…* [as printed: *ṅer ām*, Pā. Sū. 7-3-116 as read [?]]; likewise in *madhyamasyām* and *paramasyām*). *Pṛthivyām* (since the word is read in the *śārṅgaravādi* group, the word ends in *īn* [*ṅīn*]; in the locative, *yaṇ* is substituted; by *udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174 as read [?], the ending receives the acute). The Rik is closed with *‖ 9 ‖* and an ornament.
+
+## Rik 108.10 — printed pp. 610–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.10)**
+
+> यदिन्द्राग्नी परमस्यां पृथिव्यां मध्यमस्यामवमस्यामुत स्थः ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ १० ॥
+
+*yad indrāgnī paramasyāṃ pṛthivyāṃ madhyamasyām avamasyām uta sthaḥ | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 10 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.10)**
+
+> यत् । इन्द्राग्नी इति । परमस्याम् । पृथिव्याम् । मध्यमस्याम् । अवमस्याम् । उत । स्थः ।
+
+*yat | indrāgnī iti | paramasyām | pṛthivyām | madhyamasyām | avamasyām | uta | sthaḥ |* *(the rest of the Pada continues on p. 611)*
+
+---
+
+### Page 611 (PDF 631)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 611.)*
+
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ १० ॥
+
+*ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.10)**
+
+> पूर्ववद्व्याख्येयम् । एतावांस्तु विशेषः । पूर्वं भूम्यादिषु त्रिषु लोकेषु यावइन्द्राग्नी तावागच्छतामित्युक्तं । इदानीं तु द्युप्रभृतिस्त्वरोहक्रमेण वर्तमानेषु त्रिषु लोकेषु यावइन्द्राग्नी वर्तेते तावागच्छतामिति प्रार्थ्यते ॥
+> *pūrvavad vyākhyeyam | etāvāṃs tu viśeṣaḥ | pūrvaṃ bhūmyādiṣu triṣu lokeṣu yāv indrāgnī tāv āgacchatām ity uktaṃ | idānīṃ tu dyuprabhṛtis tv arohakrameṇa vartamāneṣu triṣu lokeṣu yāv indrāgnī vartete tāv āgacchatām iti prārthyate ‖* *(Sanskrit as read; "tvarohakrameṇa" is clotted in print and given as read [?].)*
+
+"To be explained as in the previous [Ṛk]; this alone is the difference. Before, it was said, 'Indra and Agni, who are in the three worlds beginning with the earth, come'. Now, however, it is prayed: 'Indra and Agni, who are in the three worlds in the order beginning with heaven [and descending], come'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.10; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni (both of you); *yat* — perhaps; *paramasyām* — in the exceedingly excellent and far; *pṛthivyām* — heavenly world; *sthaḥ* — you are; or *madhyamasyām* — in the middle world, the mid-region; *uta* — or; *avamasyām* — in the nearest earth-world below; *ataḥ pari* — from among all these regions; *vṛṣaṇau* — O Indra and Agni, who grant the desired objects; *ā hi yātam* — certainly come; *atha* — afterwards; *sutasya* — pressed; *somasya* — of the Soma-juice (your portion); *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who grant the desired objects: whether you two are in the exceedingly excellent and distant heavenly world, or in the mid-region, which is the middle world, or in the earth-world, which is very near and below — from among all those regions, wherever you are, come to our sacrifice and drink your portion in our pressed Soma-juice.
+
+**English Translation (as printed in the source)**
+
+"Whether, Indra and Agni, you are in the upper, central, or lower region of the world, come showerers of benefits, hither from wherever you may be, and drink of the effused libation."
+
+---
+
+### Page 612 (PDF 632)
+
+*(Running head: left 612; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+**॥ विशेषविषयगळु ಮತ್ತು ವ್ಯಾಕರಣಪ್ರಕ್ರಿಯಾ ॥ — Special Topics and Vyākaraṇa-prakriyā (Rik 108.10)**
+
+*(The print heads this section jointly and gives one sentence:)* "The grammar of this has been explained in the previous Ṛk." The Rik is closed with *‖ 10 ‖*. *(There are no separate Special Topics for 108.10.)*
+
+## Rik 108.11 — printed pp. 612–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.11)**
+
+> यदिन्द्राग्नी दिवि ष्ठो यत्पृथिव्यां यत्पर्वतेष्वोषधीष्वप्सु ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ ११ ॥
+
+*yad indrāgnī divi ṣṭho yat pṛthivyāṃ yat parvateṣv oṣadhīṣv apsu | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 11 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "divi ṣṭhaḥ", the Pada "divi | sthaḥ")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.11)**
+
+> यत् । इन्द्राग्नी इति । दिवि । स्थः । यत् । पृथिव्याम् । यत् । पर्वतेषु । ओषधीषु । अप्ऽसु ।
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ ११ ॥
+
+*yat | indrāgnī iti | divi | sthaḥ | yat | pṛthivyām | yat | parvateṣu | oṣadhīṣu | ap-su | ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.11)**
+
+> हे इन्द्राग्नी दिवि द्युलोके यद्यदि स्थः । भवथः । यदि वा पृथिव्यां भूलोके यदि वा पर्वतेषु मेर्वादिषु मेघेषु वा । तथा ओषधीषु तिलमाषव्रीह्यादिषु अप्सु उदकेषु चानुग्राहकतया यदि वा स्थः । हे कामाभिवर्षकौ युवामतः सर्वस्मात्स्थानादागच्छतं । आगत्य चाभिषुतं सोमं पिबतम् ॥ पृथिव्याम् । उदात्तयणो हल्पूर्वादिति विभक्तेरुदात्तत्वम् । ओषधीषु । ओषः पाक आसु धीयते इति ओषधयः । कर्मण्यधिकरणे चेति किप्रत्ययः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । तेषु च घुशब्दान्तमाद्युदात्तम् । ओषधेश्च विभक्तावप्रथमायामिति दीर्घः ॥
+> *he indrāgnī divi dyuloke yad yadi sthaḥ | bhavathaḥ | yadi vā pṛthivyāṃ bhūloke yadi vā parvateṣu merv-ādiṣu megheṣu vā | tathā oṣadhīṣu tilamāṣavrīhyādiṣu apsu udakeṣu cānugrāhakatayā yadi vā sthaḥ | he kāmābhivarṣakau yuvām ataḥ sarvasmāt sthānād āgacchataṃ | āgatya cābhiṣutaṃ somaṃ pibatam ‖ pṛthivyām | udāttayaṇo hal pūrvād iti vibhakter udāttatvam | oṣadhīṣu | oṣaḥ pāka āsu dhīyate ity oṣadhayaḥ | karmaṇy adhikaraṇe ceti kipratyayaḥ | dāsībhārāditvāt pūrvapadaprakṛtisvaratvam | teṣu ca ghuśabdāntam ādyudāttam | oṣadheś ca vibhaktāv aprathamāyām iti dīrghaḥ ‖* *(Sanskrit as read; a few words in the tail are clotted and given with doubt [?]; the tail is short and given.)*
+
+"O Indra and Agni! if you are in the *divi* — in the heavenly world (*dyuloka*); or in the *pṛthivī*, the earth-world; or in the mountains — Meru and the like — or the clouds; and also in the *oṣadhī*s, the herbs — sesame, black gram, rice and the like — and in the *apsu*, in the waters, as favourers [of them]: from all those places, O showerers of desires, come; and having come, drink the pressed Soma."
+
+---
+
+### Page 613 (PDF 633)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 613.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.11; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni, (both of you); *divi* — in the heavenly world; *yat* — perhaps; *sthaḥ* — you are; *yat* — perhaps; *pṛthivyām* — in the earth-world (you are); *yat* — or perhaps; *parvateṣu* — in the mountains, (in the clouds); *oṣadhīṣu* — in the herbs; *apsu* — in the waters; (you are); *ataḥ pari* — from among all these regions, wherever you are; *vṛṣaṇau* — O Indra and Agni, who grant the desired objects; *ā hi yātam* — certainly come here; *atha* — afterwards; *sutasya* — pressed; *somasya* — Soma-juice (your portion); *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who grant the desired objects: whether you are both in the heavenly world, or in the earth-world, or in the mountains, in the herbs, or in the waters — from among all these regions, wherever you are, come to our sacrifice and drink your portion in the Soma-juice that has been pressed for you.
+
+**English Translation (as printed in the source)**
+
+"Whether, Indra and Agni, you are in heaven or upon earth, in the mountains, in the herbs, or in the waters, showerers of benefits, come hither from wherever you may be, and drink of the effused libation."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.11)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Divi* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the locative ending is acute). *Pṛthivyām* (*udāttayaṇo hal pūrvāt*, Pā. Sū. 6-1-174 as read [?]: the ending is acute). *Oṣadhīṣu* (*oṣaḥ pākaḥ āsu dhīyate iti oṣadhayaḥ*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; the suffix *ki* by *karmaṇy adhikaraṇe ca*, Pā. Sū. 3-3-93 as read [?]; the loss of *ā* of the root by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?], because of the suffix; since the word is read in the *dāsībhārādi* group, the accent of the prior member remains by *prakṛtisvara*; since *oṣaḥ* ends in *ghu* [*dhā*], the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]; in the locative [and other] cases, the *oṣadhi* word has the lengthening by *oṣadheś ca vibhaktāv aprathamāyām*, [as printed, vārttika [?]]).
+
+---
+
+**Progress note:** Printed pp. 1–613 done (PDF 21–633): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.10 complete (pp. 573–612); Rik 108.11 (printed pp. 612–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and grammar done (pp. 612–613). Next: printed p. 614 (PDF 634): Riks 108.12 and 108.13 (the last). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
