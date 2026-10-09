@@ -19602,5 +19602,113 @@ In all such Ṛks the sense is only '*kartāram*', 'the doer'. In the Ṛk befor
 *Īḷe*: root *īḍa stutau*; *laṭ*, singular, with the augment *iṭ* [the print says "third person"; the form is first person]; by *ṭita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79 as read [?]) *e*; the *luk* of *śap* by *ādiprabhṛtibhyaḥ śapaḥ* (*pā.* 2-4-72 as read [?]); since it is at the beginning of a *pāda* there is no *nighāta*; because the root is *anudāttet*, by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?]) the *sārvadhātuka* is *anudātta*, and the root-accent remains. *Dyāvāpṛthivī*: *dyauś ca pṛthivī ca*; in the compound, by *divo dyāvā* (*pā.* 6-3-29 as read [?]) the substitute *dyāvā*, with first-syllable *udātta*, is irregularly formed; since the word *pṛthivī* belongs to the *śārṅgaravādi* [class], it ends in *ṅīṣ* and is final-*udātta*; by *devatādvandve ca* (*pā.* 6-2-141 as read [?]) both members keep their own accents in the compound; since [the sūtra], with its *paryudāsa* of *pṛthivī* [?], is as stated, the prohibition (*pratiṣedha*) does not arise from them [as read; the sūtra-name is clotted [?]]; the dual *au* following, by *vā chandasi* (*pā.* 6-1-106 as read [?]) the lengthening to the earlier homogeneous vowel. *Pūrvacittaye*: root *citī saṃjñāne*, a root with causative sense included; *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) the suffix *ktin* in the abstract sense; by a *vārttika* of the Veda [the listing beginning *marud…* [?], *pā.* 6-2-105 as read [?]] the *kṛdanta*'s own accent is set aside and the final-*udātta* of the prior member arises. *Surucam*: root *ruca dīptāv abhiprītyāṃ ca*; *kvip* in the abstract sense by *sampadādibhyaḥ kvip* (a *vārttika*; *pā.* 3-3-108 as read [?]); 'she whose splendour (*ruk*) is good' = *suruk*; by *nañsubhyām* (*pā.* 6-2-172 as read [?]) the final of the second member is *udātta*; accusative singular. *Yāman*: root *yā prāpaṇe*; the suffix *manin* by *āto maninkvanibvanipaś ca* (*pā.* 3-2-74 as read [?]), which, by the strength of the word *bahulam* in *kṛtyalyuṭo bahulam* (*pā.* 3-3-113 as read [?]), occurs in the abstract sense; being *nit*, by *ñnityādir nityam* the first syllable is *udātta*. *Kāram*: 'that by which it is done' = *kāraḥ*; the suffix *ghañ* after the root *kṛñ* in the sense of the instrument; *vṛddhi* of the root's vowel by *aco 'ñṇiti* (*pā.* 7-2-115 as read [?]); by *karṣātvataḥ* (*pā.* 6-1-159 as read [?]) the final syllable is *udātta*. *Jinvathaḥ*: root *jivi prīṇane*; here 'pleasing' is understood by implication [*lakṣaṇā*] as 'filling' (*āpūraṇa*): a man who is filled with wealth becomes pleased in the world; by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; *laṭ*, second-person dual, *thas*… *(the page ends mid-sentence; the grammar continues on p. 729)*
 
 ---
+### Page 729 (PDF 749)
 
-**Progress note:** Printed pp. 1–728 done (PDF 21–748): Sūkta 112: Rik 112.1 (printed pp. 723–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics done; the grammar page begun (pp. 728–[?]; ends mid-sentence at *jinvathaḥ*). Next: printed p. 729 (PDF 749) — the rest of the grammar of Rik 112.1, then Rik 112.2. Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 729.)*
+
+*(Grammar of Rik 112.1, concluded; short; sūtra numbers only as read, doubtful [?].)* *Jinvathaḥ* (concluded): the second-person dual ending *thas*; the sign *śap*; the form *jinvathaḥ*; because *yad* is connected (*yābhiḥ*), the *nighāta* accent does not arise (*yad vṛttān nityam*); since *śap* is *pit*, it is *anudātta*; since the *sārvadhātuka* following a root that is *adupadeśa* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?]), the root-accent remains. Though the [*yad*-connected] prohibition might seem to apply only to an immediately adjacent *yad* word, in that very sūtra [*pā.* 8-1-66 as read [?]] it is laid down that a prohibition holds also when the *yad* word is separated; so here too the prohibition applies. *Ūṣu*: by *ikaḥ suñi* (*pā.* 6-3-134 as read [?]) the *u* of *ū* is lengthened; by *suñaḥ* (*pā.* 8-3-107 as read [?]) the *s* of *su* becomes *ṣ*; since it is *su* + *ūti*, and *īṣā* belongs to the *akṣādi* [class], sandhi does not apply (*prakṛtibhāva*). *Ūtibhiḥ*: root *av rakṣaṇe*; *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) in the abstract sense; by *jvaratvarasrivyavimavāṃ upadhāyāś ca* (*pā.* 6-4-20 as read [?]) *ūṭh* replaces the penultimate (the *a*) and the *v*; the form *ūti*; by *ūtiyūtijūti…* (*pā.* 3-3-97 as read [?]) the irregular *ktin* takes the *udātta*. *Gatam*: root *gamḷ gatau*; *loṭ*, second-person dual; since there is *laṅvadbhāva* [?], *tam* by *tasthasthamipāṃ tāmtamtāmaḥ* (*pā.* 3-4-101 as read [?]); by *bahulaṃ chandasi* *luk* of the conjugation sign; since the suffix is *sārvadhātukam apit* [and so treated as *ṅit*], by *anudāttopadeśa…* (*pā.* 6-4-37 as read [?]) the nasal *m* of the root is lost; *nighāta* after a finite verb. ‖ 1 ‖
+
+*(An ornament closes Rik 112.1.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.2)** *(accent-marks not reproduced)*
+
+> युवोर्दानाय सुभरा असश्चतो रथमा तस्थुर्वचसं न मन्तवे ।
+> याभिर्धियोऽवथः कर्मन्निष्टये ताभिरू षु ऊतिभिरश्विना गतम् ॥ २ ॥
+> *yuvor dānāya subharā asaścato ratham ā tasthur vacasaṃ na mantave |*
+> *yābhir dhiyo 'vathaḥ karmann iṣṭaye tābhir ū ṣu ūtibhir aśvinā gatam ‖ 2 ‖*
+
+---
+
+### Page 730 (PDF 750)
+
+*(Running head: left 730; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.2)**
+
+> युवोः । दानाय । सुऽभराः । असश्चतः । रथम् । आ । तस्थुः । वचसम् । न । मन्तवे ।
+> याभिः । धियः । अवथः । कर्मन् । इष्टये । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ २ ॥
+> *yuvoḥ | dānāya | su-bharāḥ | asaścataḥ | ratham | ā | tasthuḥ | vacasam | na | mantave |*
+> *yābhiḥ | dhiyaḥ | avathaḥ | karman | iṣṭaye | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.2)**
+
+> सुभराः शोभनस्तोत्रभरणा असश्चतोऽन्यत्रानासक्ताः स्तोतारो हे अश्विनौ युवोर्युवयो रथमा तस्थुः । आतिष्ठन्ति प्राप्नुवन्ति । किमर्थम् । दानाय युष्मत्कर्तृकदानार्थं धनलाभायेत्यर्थः । तत्र दृष्टान्तः । वचसं न । यथा न्यायोपेतेन वचसा वाक्येन युक्तं विपश्चितं [?] मन्तवे बुबुधित्सार्थप्रतिपत्तये स्तोतारः प्राप्नुवन्ति तद्वत् । अपि च । कर्मन् कर्मणीष्टये यागार्थं प्रवृत्तान् धियो ध्यातॄन् विशिष्टज्ञानोपेतान् [?] याभिरूतिभिः पालनैरवथः युवां रक्षथः । ताभिरित्यादि पूर्ववत् ॥ वचसम् । अर्शआदित्वान्मत्वर्थीयोऽच् [?] । मन्तवे । मन ज्ञाने । कमिमनिजनीत्यादिना तुप्रत्ययः [?] । धियः । ध्यायन्तीति धियः स्तोतारः । ध्यै चिन्तायाम् । क्विप् चेति क्विप् । चेशब्दे दृशिग्रहणानुकर्षणात्सम्प्रसारणम् । कर्मन् । सुपां सुलुगिति सप्तम्या लुक् । न जसम्बुद्ध्योरिति नलोपप्रतिषेधः ॥
+> *subharāḥ śobhanastotrabharaṇā asaścato 'nyatrānāsaktāḥ stotāro he aśvinau yuvor yuvayo ratham ā tasthuḥ | ātiṣṭhanti prāpnuvanti | kimartham | dānāya yuṣmatkartṛkadānārthaṃ dhanalābhāyety arthaḥ | tatra dṛṣṭāntaḥ | vacasaṃ na | yathā nyāyopetena vacasā vākyena yuktaṃ vipaścitaṃ [?] mantave bubudhitsārthapratipattaye stotāraḥ prāpnuvanti tadvat | api ca | karman karmaṇīṣṭaye yāgārthaṃ pravṛttān dhiyo dhyātṝn viśiṣṭajñānopetān [?] yābhir ūtibhiḥ pālanair avathaḥ yuvāṃ rakṣathaḥ | tābhir ity ādi pūrvavat ‖ vacasam | arśaādittvān matvarthīyo 'c [?] | mantave | mana jñāne | kamimanijanīty ādinā tupratyayaḥ [?] | dhiyaḥ | dhyāyantīti dhiyaḥ stotāraḥ | dhyai cintāyām | kvip ceti kvip | ceśabde dṛśigrahaṇānukarṣaṇāt samprasāraṇam | karman | supāṃ suluk iti saptamyā luk | na jasambuddhyor iti nalopapratiṣedhaḥ ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print, and the two suffix-citations in the tail are partly clotted, not completed from memory.)*
+
+"*Subharāḥ*: the praisers who carry excellent hymns, *asaścataḥ*: not attached elsewhere, O Aśvins, *yuvoḥ*, your *ratham*, chariot, *ā tasthuḥ*: stand around, reach. For what? *Dānāya*: for the gift made by you, for the gaining of wealth. An illustration: *vacasaṃ na*: as praisers resort to a learned person endowed with fitting speech, *mantave*, in order to understand what they want to know — likewise. And further: *karman*, in the rite, *iṣṭaye*, for the sacrifice, the *dhiyaḥ*, those who contemplate [the praisers], who engage themselves and are endowed with special knowledge — with whatever *ūtibhiḥ*, protections, you protect (*avathaḥ*): with those…, and so on as before."
+
+*Grammatical tail (characterized, short; compressed and partly clotted):* *vacasam*: the suffix *ac* in the sense of 'having', since the word belongs to the *arśaādi* class [?]. *Mantave*: root *mana jñāne*; the suffix *tu* by the rule beginning *kamimanijani…* [?]. *Dhiyaḥ*: 'those who contemplate' = *dhiyaḥ*, praisers; root *dhyai cintāyām*; *kvip* by *kvip ca*; the *saṃprasāraṇa* is drawn in from the mention of *dṛś* in the *ca*-word [?]. *Karman*: loss of the locative ending by *supāṃ suluk*; the prohibition of the loss of *n* by *na jasambuddhyoḥ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.2; Kannada; English)**
+
+(O Aśvin deities!) *mantave* — in order to gain knowledge about the matter desired; *vacasaṃ na* — as disciples gather round and stand about the teacher who gives lessons that are provided with discriminating instructive words; *subharāḥ* — those who carry excellent hymns; *asaścataḥ* — your devotees, who place their faith only in you and have no going elsewhere; *yuvoḥ* — your; *ratham* — chariot; *dānāya* — in order to receive the wealth that you bestow; *ā tasthuḥ* — stand gathered round; *aśvinā* — O Aśvin deities; *karman* — in the sacrifice; *iṣṭaye* — for the sake of the sacrifice (those engaged); *dhiyaḥ* — those who are furnished with special knowledge, your devotees; *yābhiḥ ūtibhiḥ* — with whichever protections; *avathaḥ* — you protect; *tābhiḥ ūtibhiḥ ū* — with all those protections together, (to us too) *su āgatam* — come willingly.
+
+---
+
+### Page 731 (PDF 751)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 731.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! just as disciples gather round and stand about the teacher who gives lessons furnished with discriminating, instructive words, in order to obtain knowledge about what they wish to know, so your devotees, who carry excellent hymns and have no going elsewhere but place their faith only in you, stand gathered round your chariot in order to receive the wealth you bestow. With whichever protections you protect the devotees who are engaged in the work of the sacrifice for the sake of the rite and who are endowed with special knowledge, with all those same protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.2)**
+
+"Earnest and exclusive adorers stand, Aswins, round your car, (to benefit) by your bounty, as (disciples listen) to the words (of a teacher) for instruction: with those aids with which you defend the pions [sic] who are engaged in acts of worship, come Aswins willingly hither."
+
+*(The printed "pions" stands for "pious"; recorded as [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.2)**
+
+**असश्चतः आ तस्थुः — Asaścataḥ ā tasthuḥ.** *anyatrānāsaktāḥ stotāraḥ ātiṣṭhanti prāpnuvanti* — Sāyaṇa: 'the devotees who are not attached elsewhere, who place their faith in you alone, stand round your chariot, drawing near to it'. And Skandasvāmi has explained: *asaṅgacchamānāḥ asaṃyuktāḥ stutaya ratham ātiṣṭhanti* — 'hymns [of praise] which are not joined [with others], each separately, stand always around your chariot, directed at you'. These two meanings differ greatly. On the first meaning, *subharāḥ asaścataḥ* means 'the devotees who have prepared excellent hymns and stand ready to praise you'; on the second, *subharāḥ* means *yuṣmadguṇaiḥ sampūrṇāḥ* — 'hymns filled with your good qualities and directed to you', and so also for *asaścataḥ*: such is the sense of the epithet *subharāḥ*. And besides, the sense of the word of comparison *vacasaṃ na* also differs. Sāyaṇa says: *vacasaṃ na yathā nyāyopetena vacasā vākyena yuktaṃ vipaścitaṃ mantave bubudhitsārthapratipattaye stotāraḥ prāpnuvanti tadvat* — "as disciples come round the learned one, who is furnished with fitting words, *mantave*, in order to obtain knowledge of the matter they wish to understand — likewise." Skandasvāmi's explanation of *vacasaṃ na* is:
+
+> वाच्यमिवार्थं शब्दः । मन्तवे युवां स्तोतुं यथा वाच्यमर्थं शब्दः सर्व आतिष्ठति एवं युष्मत्स्तुतयः ।
+> *vācyam ivārthaṃ śabdaḥ | mantave yuvāṃ stotuṃ yathā vācyam arthaṃ śabdaḥ sarva ātiṣṭhati evaṃ yuṣmatstutayaḥ |*
+> *(Sanskrit as read from the print; the first clause is compressed [?].)*
+> "As a word [stands] by the thing it denotes: as every word abides by the sense it signifies, in order to praise you, so [abide] your hymns of praise."
+
+"As words, which have an inseparable connection with their meanings, stand around the thing denoted ever without cease and constantly, so your hymns..." — so he explains. *Mantave* *(the passage runs on to p. 732)*
+
+---
+
+### Page 732 (PDF 752)
+
+*(Running head: left 732; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…The word *mantave*, which denotes the sense of the infinitive (*tumartha*), Sāyaṇa takes with the wise one or with the disciples — *bubutsitārthapratipattaye*, 'in order to gain knowledge of the matter wished to be understood'; Skandasvāmi takes it as referring to the Aśvin deities: *yuvāṃ stotum*, 'to praise you'. The whole sum of Skandasvāmi's explanation: as words have an eternal relation with their meanings, so the praises of your praisers have an eternal relation with you; that is, 'to praise you, they stand all round your chariot'."
+
+**रथम् — Ratham.** The chariot of the Aśvin deities is described in many places as endowed with supernatural construction and beauty.
+
+> आ नो यातं दिवो अच्छा पृथिव्या हिरण्ययेन सुवृता रथेन ।
+> *ā no yātaṃ divo acchā pṛthivyā hiraṇyayena suvṛtā rathena |*
+> (*Ṛ.* 4-44-3 as read [?])
+
+> सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टीवानं वरिवोधामभि प्रयः ।
+> *sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭīvānaṃ varivodhām abhi prayaḥ |*
+> (*Ṛ.* 1-119-1 as read [?])
+
+> त्रिबन्धुरेण त्रिवृता रथेन त्रिचक्रेण सुवृता यातमर्वाक् ।
+> *trivandhureṇa trivṛtā rathena tricakreṇa suvṛtā yātam arvāk |*
+> (*Ṛ.* 1-118-2 as read [?])
+> *(Sanskrit as read from the print; the numerals are doubtful [?]; no gloss attempted for the second.)*
+
+In many Ṛks such as these, [the Aśvins are] furnished with a chariot made of gold, with a thousand banners, adorned with three seats and with three wheels, and with various other kinds of excellence; hence the purport is that the praisers, circling the attractive chariot of the Aśvin deities, praise them.
+
+**धियः अवथः — Dhiyaḥ avathaḥ.** *dhyāyanti iti dhiyaḥ stotāraḥ tān | viśiṣṭajñānopetān dhyātṝn rakṣathaḥ* — "those who contemplate are *dhiyaḥ*, praisers: those [you protect]. You protect those endowed with special knowledge and given to contemplation": thus Sāyaṇa, that you protect those devotees. And Skandasvāmi:
+
+> अन्येषां यजमानानां स्वभूतानि योगलक्षणानि कर्माणि । अवथः । अवति गत्यर्थः । युवां गच्छथः ।
+> *anyeṣāṃ yajamānānāṃ svabhūtāni yogalakṣaṇāni karmāṇi | avathaḥ | avati gatyarthaḥ | yuvāṃ gacchathaḥ |*
+> "The works of other sacrificers, [their] own, of the nature of *yoga*; *avathaḥ*: *avati* is in the sense of going; you go."
+
+— explaining that you go to the works of the other sacrificers, aiming at them. The meaning on the first view is, 'protect us too, as you protect other devotees'; on the second, 'come to our works too, as you go to the works of the other devotees'. Since the word *dhī* is read among the names of 'work' (*Ni.* 2-1) and also among the names of 'wisdom' (*Ni.* 3-[?]), both meanings are possible.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.2)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Tasthuḥ*: root *ṣṭhā gatinivṛttau*; by *chandasi luṅlaṅliṭaḥ* (*pā.* 3-4-6 as read [?]) *liṭ* in the sense of the present; in the third-person plural *us* replaces *jhi*; reduplication of the root, and so on; *nighāta* accent after a finite verb. *(the page ends here; the grammar continues on p. 733)*
+
+---
+
+**Progress note:** Printed pp. 1–732 done (PDF 21–752): Sūkta 112: Rik 112.1 complete (pp. 723–729); Rik 112.2 (printed pp. 729–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar begun (*tasthuḥ*, p. 732). Next: printed p. 733 (PDF 753) — the rest of the grammar of Rik 112.2, then Rik 112.3. Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
