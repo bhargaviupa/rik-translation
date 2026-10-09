@@ -14673,5 +14673,123 @@ Grammar page, noted briefly. *Avantu* (root *ava rakṣaṇe*; *loṭ*, third pe
 *Narāśaṃsam* — he who is praised by men; *vājinam* — the strong, Agni; *vājayan* — causing to blaze; *iha* — at this sacrifice (I praise); *kṣayadvīram* — the one who makes all the heroes dwell happily [?]; *pūṣaṇam* — the god Pūṣan, who nourishes; *sumnaiḥ* — with hymns that give happiness; *īmahe* — we pray; *durgāt* — from the impassable road; *ratham na* — as a charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — exceedingly liberal Indra and the others; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] release and protect.
 
 ---
+### Page 546 (PDF 566)
 
-**Progress note:** Printed pp. 1–545 done (PDF 21–565): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.3 complete (pp. 530–544); Rik 106.4 (printed pp. 544–[?]): Saṃhitā, Pada, bhāṣya (with tail) and Pratipadārtha done (pp. 544–545). Next: printed p. 546 (PDF 566): the Bhāvārtha, printed English, Special Topics and grammar of 106.4, then Riks 106.5–7. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 546; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+*(Pratipadārtha of Rik 106.4 concludes:)* *Sumnaiḥ* — by hymns that give happiness; *īmahe* — we ask (for our desired objects); *durgāt* — by the impassable road; *ratham na* — as a charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — the generous gods, Indra and the rest; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] make free and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Making blaze Agni, who is praised by men and who gives food, we worship [him], as he is here, at the time of this sacrifice. Agni, who makes all the heroes dwell happily, and who nourishes all, we pray with hymns that give happiness and ask for our desired objects. As a charioteer brings the chariot safely through the impassable road, may Indra and the other deities, who protect the dwelling and are generous in giving, free us from all sin and protect us.
+
+**English Translation (as printed in the source)**
+
+"Exciting him who is the praised of men and the giver of food, (to be present) at this rite, we solicit (also) with our praises him who is the purifier and destroyer of heroes ; may they, who are bountiful and the givers of food, extricate us from sin, as a chariot from a defile." *(sic: the printed English, "purifier and destroyer of heroes" and "givers of food", differs from the sense of the Kannada and the bhāṣya, which read "nourisher / dweller of heroes" and "givers of dwellings"; reproduced as printed.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.4)**
+
+**Narāśaṃsam** — *naraiḥ śaṃsanīyaṃ (agnim) |* "Agni, who is praised by men: so that name is a meaningful name for Agni. Skandasvāmin says '*narāśaṃso 'gnir yajño vā*': by *narāśaṃsa* either Agni or the sacrifice is meant. That both these meanings have room is known from the Nirukta.
+
+> नराशंसो यज्ञ इति कात्थक्यः । नराः अस्मिन्नासीनाः शंसन्ति । अग्निरिति शाकपूणिः । नर्यैः प्रशस्यो भवति ।
+> *narāśaṃso yajña iti kātthakyaḥ | narāḥ asminn āsīnāḥ śaṃsanti | agnir iti śākapūṇiḥ | naraiḥ praśasyo bhavati |* (*Ni.* 8-[?] as read [?])
+
+— Kātthakya says that the sacrifice is *narāśaṃsa*, since men, seated in it, praise (it); and because Agni is praised by men, Śākapūṇi says that this name belongs to Agni — in this way the Nirukta-author shows both opinions and afterwards cites
+
+> नराशंसस्य महिमानमेषामुप स्तोषाम यजतस्य यज्ञैः ।
+> *narāśaṃsasya mahimānam eṣām upa stoṣāma yajatasya yajñaiḥ |* (*Ṛ. Saṃ.* 2-3-2 as read)
+
+---
+
+### Page 547 (PDF 567)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 547.)*
+
+"— in this Ṛk the word *narāśaṃsa* is justified in the sense of Agni. Among the deities described in the Nighaṇṭu, *narāśaṃsa* is understood to be a variant of Agni's form (*Nigh.* 5-[?]). Concerning just this, the Bṛhaddevatā-writer:
+
+> नराशंसः श्रितश्चैनमेनमेवाश्रितस्त्विळः ।
+> बर्हिर्द्वारश्च देव्योऽग्निमेनमेव तु संश्रिताः ॥
+> *narāśaṃsaḥ śritaś cainam enam evāśritas tv iḷaḥ | barhir dvāraś ca devyo 'gnim enam eva tu saṃśritāḥ ‖* (*Bṛ. De.* 1-1[?]3 as read [?])
+
+— in this verse he says that Narāśaṃsa, like the other deities mentioned here, is included in Agni. And again:
+
+> पृथक्त्वेन समाम्नास्तु यज्ञे यक्ष्यन्ते नृभिः ।
+> स्तुत्वन्त्याप्रीषु तेनैनं नराशंसं तु कारवः ॥
+> *pṛthaktvena samāmnāsta yajñe yakṣyante nṛbhiḥ | stutvanty āprīṣu tenainaṃ narāśaṃsaṃ tu kāravaḥ ‖* (*Bṛ. De.* 3-1[?] as read [?]; the words as read, doubtful [?])
+
+— he says that the poets (*kāravaḥ*), because he is praised individually by all the men who join in the sacrifice, praise him in the *āprī* hymns by the name *narāśaṃsa*, and shows his own opinion in connection with the opinions mentioned by the Nirukta-author.
+
+> नराशंसमुभयेके तु अग्निमाहुरथेतरे ।
+> नराः शंसन्ति सर्वेऽस्मिन्नासीना इति चाध्वरे ॥
+> *narāśaṃsam ubhayeke tv agnim āhur athetare | narāḥ śaṃsanti sarve 'sminn āsīnā iti cādhvare ‖*
+
+> एतेनैवाहुरन्येऽग्निं नराशंसोऽध्वरे ह्ययम् ।
+> नर्यैः प्रशस्य आसीनैराहुश्चैवर्त्विजो नराः ॥
+> *etenaivāhur anye 'gniṃ narāśaṃso 'dhvare hy ayam | naryaiḥ praśasya āsīnair āhuś caivartvijo narāḥ ‖* (*Bṛ. De.* 2-2[?]-3 as read [?]; the lines as read from the print, doubtful [?])
+
+"Some call Narāśaṃsa Agni; others, because men gathered in the sacrifice praise it, call it the sacrifice; and, because [Agni] is praised by the men who sit in the sacrifice, still others say that Narāśaṃsa is Agni himself: this is a third view. There is a synthesis of the first and the second views. Along with these two meanings Sāyaṇa has also stated the third meaning. In explaining the Ṛk 1-1[?]-[?], in the bhāṣya, he says '*narāśaṃsa ity etannāmakaṃ devaviśeṣaṃ yadvā āvayor vṛttyā sadasaspatidevatā parorayaṃ śabdaḥ | atra agnivat sadasaspateḥ api naryaiḥ śasyamānatvāt narāśaṃsatvam*' — 'by *narāśaṃsa* is meant a particular god of this name, or this word may [apply] to Sadasaspati [?], because Sadasaspati also, like Agni, is praised by men (*naryaiḥ*)': 'that Agni' [?]. He understood this in his heart, as the Brāhmaṇa says —
+
+> प्रजा वै नरो वाक् शंसः ।
+> *prajā vai naro vāk śaṃsaḥ |* (*Ai. Brā.* 6-[?]2 as read [?])
+
+— 'the *narāśaṃsa* is the name of a particular deity [or of Sadasaspati]; since Sadasaspati too is praised by men'." *(continued on p. 548)*
+
+---
+
+### Page 548 (PDF 568)
+
+*(Running head: left 548; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+"Hence both the sense of [the word] Sadasaspati's being praised by men, and the significance shown by the Aitareya-Brāhmaṇa sentence quoted, can be a third meaning, so [Sāyaṇa] has shown. But if it is said that in the Ṛk-saṃhitā the word everywhere has Agni as its sense, it would not be an error:
+
+> नराशंसस्त्रिरा दिवो देवो देवेषु यज्ञियः ।
+> *narāśaṃsas trir ā divo devo deveṣu yajñiyaḥ |* (*Ṛ. Saṃ.* 1-1[?]3-[?] as read [?])
+
+> नराशंसः प्रतिधामान्यञ्जन्तिस्रो दिवः प्रति महना स्वर्चिः ।
+> *narāśaṃsaḥ pratidhāmāny añjan tisro divaḥ prati mahnā svarciḥ |* (*Ṛ. Saṃ.* 3-[?]-3 as read [?])
+
+— in Ṛks like these, the sense is Agni alone."
+
+**Vājayan** — *upavājayan prajvalayan |* "causing to blaze: Sāyaṇa takes '*aham stomi*' [I praise], 'I praise', as to be supplied, and explains. Skandasvāmin: '*vājayatīty arcatikarmā*' (*Ni.* 3-[?]9 as read [?]) — 'in place of the plural, the singular. *Stuvantaḥ* [praising], from the root *iḍa*, in the sense of praising; since *vājayati* is read among the names of verbs of worship, [it means] "praising Agni at this sacrifice".'
+
+The word *vāja* occurs among the names of food (*Ni.* 2-[?]7) and among the names of battle (*Ni.* 2-1[?]); it means strength (*bala*): in these three senses this word is used. And it is also used in the sense of praise:
+
+> इन्द्र ऋभुभिर्वाजिभिर्वाजयन्निह स्तोमं जरितुरुप याहि यज्ञियम् ।
+> *indra ṛbhubhir vājibhir vājayann iha stomaṃ jaritur upa yāhi yajñiyam |* (*Ṛ. Saṃ.* 3-6[?]-[?] as read [?])
+
+— in Ṛks such as these, *vājayan* means 'making food'; and
+
+> विना ते इन्द्रोक्थमहेमि श्रवस्या न त्मना वाजयन्तः ।
+> *vinā te indro [?] ktham ahema śravasyā na tmanā vājayantaḥ |* (*Ṛ. Saṃ.* 2-1[?]-[?] as read [?]; the words are as read, doubtful [?])
+
+— in Ṛks such as these, 'making strong'; and
+
+> माम् नरः स्वश्वा वाजयन्तो मां वृताः समरणे हनन्ते ।
+> *māṃ naraḥ svaśvā vājayanto māṃ vṛtāḥ samaraṇe hananta [?] |* (*Ṛ. Saṃ.* 4-4[?]-[?] as read [?]; the words are as read, doubtful [?])
+
+— in the later places, 'desiring battle'; and
+
+> स मातरा विचरन्वाजयन्नपः प्र मेधिरः स्वधया पिन्वते पदम् ।
+> *sa mātarā vicaran vājayann apaḥ pra medhiraḥ svadhayā pinvate padam |* (*Ṛ. Saṃ.* 9-[?]-[?] as read [?])" *(continued on p. 549)*
+
+---
+
+### Page 549 (PDF 569)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 549.)*
+
+"— in places like these *vājayan* means 'sending forth'. In many other senses too the word has been used; both the senses that the commentators give for the Ṛk at hand fit [here]."
+
+**Kṣayadvīram** — *atibalinaṃ yasmin sarve vīrāḥ kṣīyante |* "'he in whom all the heroes dwell': he at whose hands all the enemies' heroes are destroyed (*kṣīyante*, "are destroyed" [?]) — such a mighty one: so Sāyaṇa; and '*śrī nivāsagatyoḥ vīrāṇāṃ nivāsayitā kṣayadvīraḥ | pūṣā hy astaṃ gacchan sarvavīrān sve sve sthāne nivāsayati | tenāsau kṣayadvīra ity ucyate*' — 'from *kṣi* in the sense of dwelling, going: one who makes the heroes dwell. Pūṣan, at the time of going to rest [at sunset], makes all the heroes dwell in each one's own place; therefore he is called *kṣayadvīra*' — Skandasvāmin has explained *kṣaya* as 'dwelling' and *kṣayadvīra* as 'the one who causes all heroes to dwell in their own homes when sunset comes' [?]."
+
+**Sumnaiḥ** — "the word *sumna* is read among the names of happiness (*Ni.* 3-[?]); *sukhakaraiḥ stotraiḥ*: 'with hymns that give happiness'."
+
+**Īmahe** — *yācāmahe | abhīṣṭaṃ prārthayāmahe |* (*Ni.* 3-[?]8 as read [?]) "we ask; we pray for what we desire: the meaning is 'we beg that our desired objects be granted'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.4)** *(grammar pages, pp. 549–550, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Narāśaṃsam* (*naraiḥ śaṃsanīyo narāśaṃsaḥ*; both members keep their accent at once by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]; the word *nara* is *abanta* by *ṛdoḥ* [?]*ap*, Pā. Sū. 3-3-57 [?] and is initial-acute; the lengthening by *nipātana*; the word *śaṃsa* is formed with *ghañ* after the root *śaṃsu stutau*, and has the initial acute). *Vājayan* (root *vaja vraja gatau*; since the instigator's action is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; after the causal, *śatṛ* in the sense of *laṭ*; *śap* as the vikaraṇa; *guṇa* of *ṇic*; *ay* substituted; the accent of the *ṇic* remains; nominative singular). *Kṣayadvīram* (root *kṣi kṣaye*; *śatṛ* in the sense of *laṭ*; where *śap* would have been expected, *śa* is substituted by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], this receives the name *ārdhadhātuka* [as well as *sārvadhātuka*], hence by *sārvadhātukam apit* it is not treated as *ṅit*; so *guṇa* of the root's *ik*, and *ay*; with *kṣay + at*, since *at* after the *ā*-*upadeśa* [?] has the *lasārvadhātuka* [accent], by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam…*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*; by *ato guṇe*, Pā. Sū. 6-1-97 as read [?], *pararūpa*; since a single substitute with an acute arises, by *ekādeśa udāttenodāttaḥ*, Pā. Sū. 8-2-5 as read [?], the single substitute is acute. The word *kṣayat* ends in *t*" *(the grammar continues on p. 550)*
+
+---
+
+**Progress note:** Printed pp. 1–549 done (PDF 21–569): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.3 complete (pp. 530–544); Rik 106.4 (printed pp. 544–[?]): all parts done except the end of the grammar, begun at the foot of p. 549 (at *kṣayadvīram*, mid-sentence). Next: printed p. 550 (PDF 570); then Riks 106.5–7. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
