@@ -14987,5 +14987,121 @@ The ṛṣi named Kutsa, thrown into a well, called on Indra — the destroyer o
 Grammar page, noted briefly. *Vṛtrahaṇam* (*vṛtraṃ hatavān vṛtrahā*; root *han hiṃsāgatyoḥ*; the suffix *kvip* in the past sense by *brahmabhrūṇavṛtreṣu kvip*, Pā. Sū. 3-2-87 as read [?]; accusative singular: since the rule that the penult is lengthened is restricted by *inhanpūṣāryamṇāṃ śau*, Pā. Sū. 6-4-12 as read [?], there is no lengthening of the penult here). *Śacīpatim* (since this is read in the *vanaspatyādi* group by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]; the word *śacī* ends in *ī* [*jīnanta*] and has the initial acute). *Nibāḷhaḥ* (root *bāhṛ prayatne*; it is used in the sense of falling by virtue of the prefix *ni*: that the sense of a root changes by the prefix has been said before; the suffix *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; the *iṭ* augment is not applied by the statement *āgamānuśāsanam anityam*; *ḍhatva* for the *h* by *hoḍhaḥ*, Pā. Sū. 8-2-31 as read [?]; *ṣṭutva* for the *t* of the suffix by *jhaṣas tathor dho 'dhaḥ*, Pā. Sū. 8-2-40 as read [?]; *ṣṭutva*; loss of the first *ḍh* by *ḍho ḍhe lopaḥ*, Pā. Sū. 8-3-13 as read [?]; or, by *dṛḍhaśabda…* [as printed: *bhṛśārthe iḍabhāvaḥ nipātitaḥ*, by *kṣubdhasvāntadhvāntalagnamliṣṭaviribdhaphāṇṭabāḍhāni mantharabhṛśeṣu*, Pā. Sū. 7-2-18 as read [?]], the absence of *iṭ* is established as a *nipātana* in the sense of 'exceedingly'; here the word *bāḍha* because of its power has the sense of falling; the accent of the prior member *ni* by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]). *Ahvat* (root *hveñ spardhāyāṃ śabde ca*; *luṅ*, third person singular, *tip*; *ṅ* for *cli* [*aṅ*] by *luñi ca*..., [print: *cler luṅi*], Pā. Sū. 3-1-44 as read [?]; *aṅ* substitution by *lipisicihvaś ca*, Pā. Sū. 3-1-53 as read [?]; *ā* for the vowel by *ādeca upadeśe 'śiti*, Pā. Sū. 6-1-45 as read [?]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the *aṭ* augment for the aorist; *nighāta*). The Rik is closed with *‖ 6 ‖* and an ornament.
 
 ---
+### Page 558 (PDF 578)
 
-**Progress note:** Printed pp. 1–557 done (PDF 21–577): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.6 complete (pp. 530–557). Next: Rik 106.7 (the last, Triṣṭubh) begins at printed p. 558 (PDF 578). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 558; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+## Rik 106.7 — printed pp. 558–561 *(the last Ṛk of the Sūkta; Triṣṭubh)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.7)**
+
+> देवैर्नो देव्यदितिर्नि पातु देवस्त्राता त्रायतामप्रयुच्छन् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ७ ॥
+
+*devair no devy aditir ni pātu devas trātā trāyatām aprayucchan | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 7 ‖* *(accent-marks in the print not reproduced; this Ṛk, like 105.19, ends the Sūkta in Triṣṭubh)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.7)**
+
+> देवैः । नः । देवी । अदितिः । नि । पातु । देवः । त्राता । त्रायताम् । अप्रऽयुच्छन् ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ७ ॥
+
+*devaiḥ | naḥ | devī | aditiḥ | ni | pātu | devaḥ | trātā | trāyatām | apra-yucchan | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.7)**
+
+> देवी दानादिगुणयुक्तादितिरखण्डनीयादीनां वा देवमाता देवैर्दानादिगुणयुक्तैः स्वकीयैः पुत्रैः सह नोऽस्मान्निपातु । नितरां रक्षतु । देवो दीप्यमानस्त्राता सर्वेषां रक्षकः सवितापि अप्रयुच्छन् अप्रमाद्यन् अस्मद्रक्षणे जागरूकः सन् त्रायताम् । अस्मान्पालयतु । यदनेन सूक्तेनास्माभिः प्रार्थितं नोऽस्मदीयं तन्मित्रादयः षड्देवता मामहन्ताम् । पूजयन्तु ॥ त्रायताम् । त्रैङ् पालने । भौवादिकः । अप्रयुच्छन् । युछ प्रमादे । अस्माल्लटः शतृ । नञ्समासेऽव्यय [?] पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *devī dānādiguṇayuktāditir akhaṇḍanīyādīnāṃ vā devamātā devair dānādiguṇayuktaiḥ svakīyaiḥ putraiḥ saha no 'smān nipātu | nitarāṃ rakṣatu | devo dīpyamānas trātā sarveṣāṃ rakṣakaḥ savitāpi aprayucchan apramādyan asmadrakṣaṇe jāgarūkaḥ san trāyatām | asmān pālayatu | yad anena sūktenāsmābhiḥ prārthitaṃ no 'smadīyaṃ tan mitrādayaḥ ṣaḍdevatā māmahantām | pūjayantu ‖ trāyatām | traiṅ pālane | bhauvādikaḥ | aprayucchan | yucha pramāde | asmāl laṭaḥ śatṛ | nañsamāse 'vyaya [?] pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; "akhaṇḍanīyādīnāṃ" and "avyaya [?]" are clotted and given with doubt [?]; the tail is short and given.)*
+
+"The goddess (*devī*) Aditi, endowed with the qualities of giving and the like — or the mother of the gods, [she] of the *akhaṇḍanīya* [unbreakable] and the rest — together with the gods (*devaiḥ*), her own sons, who have the qualities of giving and so on, protect (*ni pātu*) us: may she protect completely. And the god (*devaḥ*), the shining one, the saviour (*trātā*), the protector of all — Savitṛ also, unneglecting (*aprayucchan*), unheedless, being watchful for our protection, may he save (*trāyatām*) us, cherish us. What we have asked with this Sūkta — that of ours may the six deities beginning with Mitra honour (*māmahantām*), esteem."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.7; Kannada; English)**
+
+*Devī* — endowed with the quality of giving and the like; *aditiḥ* — Aditi, the mother of the gods; *devaiḥ* — with all the gods (her own sons); *naḥ* — us; *ni pātu* — may she protect completely; *devaḥ* — the shining one; *trātā* — the protector of all, Savitṛ; *aprayucchan* — (always) watchful and not heedless; *trāyatām* — may he protect (us); *naḥ* — our; *tat* — the desired object that has been prayed for; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the divinity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the divinity of the heavenly world; *māmahantām* — may they protect.
+
+---
+
+### Page 559 (PDF 579)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 559.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May Aditi, the divine one, the mother of all the gods, together with all the gods who are her sons, protect us completely. May Savitṛ, the shining one, the protector of all, protect us, being ever watchful. May Mitra, Varuṇa, Aditi, the divinity of the ocean, the earth and the divinity of the heavenly world protect our desired object.
+
+**English Translation (as printed in the source)**
+
+"May the goddess Aditi, with the gods, protect us, and may the radiant guardian, (the sun), be vigilant for our protection ; and may they, who are bountiful and the givers of dwellings, extricate us from all sin, as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.7)**
+
+**Aditiḥ** — *aditir adīnā devamātā |* (*Ni.* 4-2[?] as read [?]) "'the goddess Aditi, whose power is not depleted, the mother of the gods': to understand the nature of Aditi in this way and to describe her various forms —
+
+> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
+> विश्वे देवा अदितिः पञ्चजना अदितिर्जातमदितिर्जनित्वम् ॥
+> *aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañcajanā aditir jātam aditir janitvam ‖* (*Ṛ. Saṃ.* 1-89-10 as read)
+
+— the Nirukta-author has cited this Ṛk. In this Ṛk the indivisible Aditi is described as the giver of birth to the whole world: she is the mother of the world, and the father; she begets the world; the source of everything born; she is the heavenly world, the mid-region, and all that exists; the five classes of people, whose nature is described by caste [?] and the Niṣādas; she alone is all the gods; she is the shining heaven; she is the mid-region; she is the whole world; she alone is the governor of the world. Aditi, who has such immeasurable qualities, is commonly addressed as *devī aditiḥ*."
+
+---
+
+### Page 560 (PDF 580)
+
+*(Running head: left 560; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+> प पस्त्या मदितिं सिन्धुमर्कैः स्वस्तिमीळे सख्याय देवीम् ।
+> *pa pastyā m aditiṃ sindhum arkaiḥ svastim īḷe sakhyāya devīm |* (*Ṛ. Saṃ.* 5-4[?]-[?] as read [?]; the first word is clotted in print and given as read [?])
+
+> स्वस्ति नो मिमीतामश्विना भगः स्वस्ति देव्यदितिरनर्वणः ।
+> *svasti no mimītām aśvinā bhagaḥ svasti devy aditir anarvaṇaḥ |* (*Ṛ. Saṃ.* 5-5[?]-1[?] as read [?])
+
+"— as in many Ṛks such as these, here too it is said *devī aditiḥ*."
+
+**Aprayucchan** — *yucha pramāde | aprayucchan | asmadrakṣaṇe jāgarūkaḥ san |* "from the root *yuccha* in the sense of heedlessness, the word gives the sense 'not unwatchful', i.e. 'not unvigilant', with the prefix. Even if Savitṛ shows a little heedlessness, the business of the world is disturbed: since the protection and the business of the world are carried on by Savitṛ's watchfulness. This is the prayer in this manner; and many sentences, which describe how his watchful sovereignty governs the world, show Savitṛ's regulating power:
+
+> अदाभ्यो भुवनानि प्राचाकशद्व्रतानि देवः सविताभि रक्षते ।
+> प्रास्राग्बाहू भुवनस्य प्रजाभ्यो धृतव्रतो महो अज्मस्य राजति ॥
+> *adābhyo bhuvanāni prācākaśad vratāni devaḥ savitābhi rakṣate | prāsrāg bāhū bhuvanasya prajābhyo dhṛtavrato maho ajmasya rājati ‖* (*Ṛ. Saṃ.* 4-53-4 as read)
+
+— in Ṛks such as these Savitṛ is described as *dhṛtavrata* ('holding to his law'); and
+
+> यस्य प्रयाणमन्वन्य इद्ययुर्देवा देवस्य महिमानमोजसा ।
+> *yasya prayāṇam anv anya id yayur devā devasya mahimānam ojasā |* (*Ṛ. Saṃ.* 4-53-3 as read [?])
+
+— in Ṛks such as these it is described that all the remaining deities follow this guidance of Savitṛ. Savitṛ, who thus holds to his law, is prayed to: 'protect us, unheedlessly, and with care'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.7)** *(grammar pages, pp. 560–561, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Pātu* (root *pā rakṣaṇe*; *loṭ*, third person singular, *tip*; *u* by *eruḥ*, Pā. Sū. 3-4-86 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; *nighāta*). *Trātā* (root *trai pālane*; *tṛc* in the active sense; the final acute of the suffix by its accent; *ā* for the vowel by *ādeca upadeśe 'śiti*, Pā. Sū. 6-1-45 as read [?]; nominative singular).
+
+---
+
+### Page 561 (PDF 581)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 561. At the foot, the printer's signature "36 / VOLUME" [sic: as printed, noted only].)*
+
+The grammar of Rik 106.7 concludes (noted briefly). *Trāyatām* (root *traiṅ pālane*, *bhvādi*; *loṭ*, third person singular, *ta*; *e* for the *ṭi*; *ām* for *e* by *āmetaḥ*, Pā. Sū. 3-4-90 as read [?]; *śap* as the vikaraṇa; *ay* for the *ai*; *nighāta*). *Aprayucchan* (root *yucha pramāde*; *śatṛ* in the sense of *laṭ*; *na prayucchan*; the accent of the prior member of the compound by *tatpuruṣe tulyārthatṛtīyā…*, Pā. Sū. 6-2-2 as read [?], the indeclinable first member keeps its accent). The Rik is closed with *‖ 7 ‖*.
+
+*(Printed line, centred:)* **ನೂರ ಆರನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾದುದು** — *"The hundred-and-sixth Sūkta has come to an end."*
+
+**With this, Sūkta 106 (7 Ṛks, printed pp. 529–561) is complete.**
+
+---
+
+## Sūkta 107
+
+**ನೂರ ಏಳನೆಯ ಸೂಕ್ತವು** — *nūra ēḷaneya sūktavu*, "the hundred-and-seventh Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 107 (Sanskrit in Kannada script):**
+
+> यज्ञो देवानामिति तृचं द्वितीयं सूक्तं कुत्सस्यार्षं त्रैष्टुभं वैश्वदेवं । यज्ञस्तृचमिति तेनानुक्रान्तं । विनियोगो लैङ्गिकः ॥
+> *yajño devānām iti tṛcaṃ dvitīyaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubhaṃ vaiśvadevaṃ | yajñas tṛcam iti tenānukrāntaṃ | viniyogo laiṅgikaḥ ‖*
+
+*(The Sanskrit is clear in print; the second and fourth words of the Anukramaṇī clause, "yajñas tṛcam", are read as printed [?].)*
+
+**Anuvāda (Kannada):** "This Sūkta *yajño devānām* is the second Sūkta in the sixteenth anuvāka. It has three Ṛks. The ṛṣi of this Sūkta is Kutsa. The deities are the Viśvedevas. The metre is Triṣṭubh. In the Anukramaṇikā it is said: '*yajñas tṛcam*'. The application (*viniyoga*) is by indication (*laiṅgika*)."
+
+*(A rule of dashes follows.)*
+
+---
+
+**Progress note:** Printed pp. 1–561 done (PDF 21–581): **Sūkta 106 is complete** (printed pp. 529–561; 7 Ṛks). **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; second Sūkta of the sixteenth anuvāka) begun at the foot of printed p. 561: the Kannada title, Sāyaṇa's introduction and the Anuvāda are done. Next: printed p. 562 (PDF 582): the heading block and Ṛk 107.1. Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
