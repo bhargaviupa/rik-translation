@@ -21110,5 +21110,134 @@ it is understood that those born in his family were called *Pajras*. In this sam
 "When Kakṣīvān, having finished his studies in the house of his teacher, was returning home, he grew tired on the way and slept in the forest. Then Svanaya, a king, the son of Bhāvayavya, who had come there for sport with his wife and his retinue [and his *purohita*], saw him, *(the passage continues on p. 777)*
 
 ---
+### Page 777 (PDF 797)
 
-**Progress note:** Printed pp. 1–776 done (PDF 21–796): Sūkta 112: Riks 112.1–112.10 complete (pp. 723–773); Rik 112.11 (printed pp. 773–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Dīrghaśravas, Kakṣīvān; the Bṛhaddevatā account of Kakṣīvān and king Svanaya) in progress, ending mid-sentence at the foot of p. 776 ('…saw him'). Next: printed p. 777 (PDF 797). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 777.)*
+
+*(The Special Topics of Rik 112.11 continue, from the foot of p. 776:)* "…saw him. Seeing his beauty he was pleased; seeing that there was no conflict of *varṇa* and *gotra*, he conceived the wish to give him his daughters in marriage, and, to carry out the wedding, he woke him and asked about his lineage. Kakṣīvān replied that he was of the Āṅgirasa line and the son of the ṛṣi named Dīrghatamas, son of Ucathya. Then Svanaya gave him in marriage ten daughters, decked with ornaments, and along with them gave abundantly horses, chariots, wealth, goats and other possessions. This matter is told in the Ṛk-Saṃhitā in:
+
+> अमन्दान्स्तोमान्प्र भरे मनीषा सिन्धावधि क्षियतो भाव्यस्य ।
+> यो मे सहस्रममिमीत सवानतूर्तो राजा श्रव इच्छमानः ॥
+> शतं राज्ञो नाधमानस्य निष्कान् शतमश्वान्प्रयतान्सद्य आदम् ।
+> शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवोऽजरसं ततान ॥
+> *amandān stomān pra bhare manīṣā sindhāv adhi kṣiyato bhāvyasya |*
+> *yo me sahasram amimīta savān atūrto rājā śrava icchamānaḥ ‖*
+> *śataṃ rājño nādhamānasya niṣkān śatam aśvān prayatān sadya ādam |*
+> *śataṃ kakṣīvāṃ asurasya gonāṃ divi śravo 'jarasaṃ tatāna ‖*
+> (*Ṛ.* 1-126-1, 2 as read [?])
+> *(Sanskrit as read from the print; no gloss attempted.)*
+
+and in other Ṛks. In the Ṛk-Saṃhitā and in the Brāhmaṇas and so on he is praised as a learned and venerable ṛṣi:
+
+> अहं मनुरभवं सूर्यश्चाहं कक्षीवाँ ऋषिरस्मि विप्रः ।
+> *ahaṃ manur abhavaṃ sūryaś cāhaṃ kakṣīvāṃ ṛṣir asmi vipraḥ |*
+> (*Ṛ.* 4-26-1 as read [?])
+
+> अयं कक्षीवतो महो नि वो मदे मतिं विप्रस्य वर्धय द्विक्षसे [?] ।
+> *ayaṃ kakṣīvato maho ni vo made matiṃ viprasya vardhaya dvikṣase [?] |*
+> (*Ṛ.* 10-25-10 as read [?])
+> *(Sanskrit as read; doubtful in the second [?]; no gloss attempted for either.)*
+
+And in Ṛks such as these. The *Aitareya Brāhmaṇa* says:
+
+> एताभिर्हाश्विनोः कक्षीवान् प्रियं धामोपागच्छत्स परमं लोकमजयत् ।
+> *etābhir hāśvinoḥ kakṣīvān priyaṃ dhāmopāgacchat sa paramaṃ lokam ajayat |*
+> (*Ai. Brā.* 1-21 as read [?])
+> "By these [Ṛks] Kakṣīvān reached the dear abode of the Aśvins; he won the highest world." *(mine and tentative)*
+
+— that Kakṣīvān, using the Ṛks beginning at *Ṛ.* 1-120-1 and running up to twelve [Ṛks] [as read, doubtful [?]], went to the dwelling of the Aśvin deities, obtained their favour, and attained a yet higher world. And in the Śatapatha Brāhmaṇa:
+
+> कक्षीवन्तं य औशिजः । यो देवास्योऽमीवहा वसुवित्पुष्टिवर्धनः । स नः सिषक्तु यस्तुरः ।
+> *kakṣīvantaṃ ya auśijaḥ | yo devāsyo 'mīvahā vasuvit puṣṭivardhanaḥ | sa naḥ siṣaktu yas turaḥ |*
+> (*Ṛ.* 1-18-1, 2 and *Śa. Brā.* 2-3-4-33 as read [?])
+> *(Sanskrit as read; the second clause is doubtful in the first word [?]; no gloss attempted.)*
+
+— in the sentences of the Śatapatha Brāhmaṇa too, where [the verse says] 'may Kakṣīvān, son of Uśik, [who is] prosperous, destroyer of enemies [disease?], giver of wealth, increaser of well-being, be with us', Kakṣīvān is praised as an excellent person. Some English critics say, on the basis of grounds that they suppose, that he was a Kṣatriya and not a Brāhmaṇa."
+
+---
+
+### Page 778 (PDF 798)
+
+*(Running head: left 778; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.11)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Sudānū*: 'those two who have good *dāna*' = *sudānū*; by *āmantritasya ca* (*pā.* 8-1-19 as read [?]) the *nighāta*. *Auśijāya*: 'the male descendant of Uśij' = *auśijaḥ*; the suffix *aṇ* by *tasyāpatyam* (*pā.* 4-1-92 as read [?]); *vṛddhi* of the first syllable by *taddhiteṣv acām ādeḥ* (*pā.* 7-2-117 as read [?]); by the suffix-accent it ends in *udātta*; dative singular. *Akṣarat*: root *kṣara sañcalane*; *laṅ*, third-person singular; since *yad* is connected, the *nighāta* does not arise by *yad vṛttān nityam* (*pā.* 8-1-66 as read [?]); since the augment *aṭ* is *udātta*, the word has its first syllable *udātta*. *Kakṣīvantam*: '*kakṣyā* is the horse's girth-rope; he has it' — the suffix *matup* in the sense 'having this'; 'he who is joined with it' = *kakṣīvān*; by *āsandīvad aṣṭhīvac cakrīvat kakṣīvat…* (*pā.* 8-2-12 as read [?]) the irregular formation, *va* for the *m* of *matup*; *saṃprasāraṇa*; the word *kakṣīvat*; since *matup* is *pit* it is *anudātta*; accusative singular. *Stotāram*: root *ṣṭuñ stutau*; in the sense of the agent, the suffix *tṛc*; since it is *cit*, it ends in *udātta*; because of the suffix, *guṇa* of the root's light penultimate; the accusative *am* following, by *aptṛntṛc…* (*pā.* 6-4-11 as read [?]) the lengthening of the penultimate; before that, by *ṛto ṅi sarvanāmasthānayoḥ* [?], *guṇa* had come. ‖ 11 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.11.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.12)** *(accent-marks not reproduced)*
+
+> याभी रसां क्षोदसोद्नः पिपिन्वथुरनश्वं याभी रथमावतं जिषे ।
+> याभिस्त्रिशोक उस्रिया उदाजत ताभिरू षु ऊतिभिरश्विना गतम् ॥ १२ ॥
+> *yābhī rasāṃ kṣodasodnaḥ pipinvathur anaśvaṃ yābhī ratham āvataṃ jiṣe |*
+> *yābhis triśoka usriyā ud ājata tābhir ū ṣu ūtibhir aśvinā gatam ‖ 12 ‖*
+> *(The print has* yābhī *— with a long* ī *— twice in the first two lines, and* yābhiḥ *in the third; read as printed.)*
+
+---
+
+### Page 779 (PDF 799)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 779.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.12)**
+
+> याभिः । रसाम् । क्षोदसा । उद्नः । पिपिन्वथुः । अनश्वम् । याभिः ।
+> रथम् । आवतम् । जिषे ।
+> याभिः । त्रिऽशोकः । उस्रियाः । उत् । आजत । ताभिः । ऊम् इति ।
+> सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १२ ॥
+> *yābhiḥ | rasām | kṣodasā | udnaḥ | pipinvathuḥ | anaśvam | yābhiḥ |*
+> *ratham | āvatam | jiṣe |*
+> *yābhiḥ | tri-śokaḥ | usriyāḥ | ut | ājata | tābhiḥ | ūm iti |*
+> *su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.12)**
+
+> रसा नदी भवति रसतेः शब्दकर्मण इति यास्कः । नि. ११-२५ [?] । हे अश्विनौ याभिरूतिभिर्हेतुभूताभी रसां नदीमनावृष्ट्या जलरहितां क्षोदसा कूलानि सम्पिंषतोद्नः उदकेन पिपिन्वथुः युवां पूरितवन्तौ । तथानश्वमश्वैर्विरहितमात्मीयं रथं जिषे जेतुं याभिरूतिभिरावतम् अगमयेतम् । अपि च याभिरूतिभिः कण्वपुत्रस्त्रिशोक ऋषिरुस्रिया अपहृता गा उदाजत उदगमयत् असुरसकाशाल्लब्धुम् । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ क्षोदसा । क्षुदिर् सम्पेषणे । औणादिकोऽसुन् । उद्नः । तृतीयैकवचनस्य सुपां सुलुगिति शस आदेशः [?] । पद्दन्नित्यादिनोदकशब्दस्योदन्भावः । भसञ्ज्ञायामल्लोपोऽन इत्यकारलोपः । पिपिन्वथुः । पिवि सेचने । इदित्त्वान्नुम् । जिषे । जि जये । तुमर्थे सेसेनसेन् इति क्से प्रत्ययः । उदाजत । अज गतिक्षेपणयोः ॥
+> *rasā nadī bhavati rasateḥ śabdakarmaṇa iti yāskaḥ | ni. 11-25 [?] | he aśvinau yābhir ūtibhir hetubhūtābhī rasāṃ nadīm anāvṛṣṭyā jalarahitāṃ kṣodasā kūlāni sampiṃṣatodnaḥ udakena pipinvathuḥ yuvāṃ pūritavantau | tathānaśvam aśvair virahitam ātmīyaṃ rathaṃ jiṣe jetuṃ yābhir ūtibhir āvatam agamayetam | api ca yābhir ūtibhiḥ kaṇvaputras triśoka ṛṣir usriyā apahṛtā gā udājata udagamayat asurasakāśāl labdhum | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ kṣodasā | kṣudir sampeṣaṇe | auṇādiko 'sun | udnaḥ | tṛtīyaikavacanasya supāṃ suluk iti śasa ādeśaḥ [?] | paddann ity ādinodakaśabdasyodanbhāvaḥ | bhasañjñāyām alloponaḥ ity akāralopaḥ | pipinvathuḥ | pivi secane | iditvān num | jiṣe | ji jaye | tumarthe sesenasen iti kse pratyayaḥ | udājata | aja gatikṣepaṇayoḥ ‖*
+
+*(Sanskrit as read; the Nirukta reference and the clause on* udnaḥ *are doubtful in the print [?].)*
+
+"'*Rasā* is a river': from *ras*, a verb of sound: so Yāska (*Ni.* 11-25 as read [?]). O Aśvins! with whichever protections, as the cause, you two filled with water — *udnaḥ*, with water — *rasām*, the river waterless for want of rain, *kṣodasā*, that crushes its banks. And likewise *anaśvam*, your own chariot, bereft of horses, *jiṣe*, in order to win, with whichever protections you made [it] go. And further, with whichever protections the ṛṣi Triśoka, son of Kaṇva, *usriyāḥ*, the stolen cows, *udājata*, drove up, in order to regain them from the asuras: with all those protections come to us also."
+
+*Grammatical tail (short):* *kṣodasā*: root *kṣudir sampeṣaṇe*, 'to crush', with the Uṇādi *asun*. *Udnaḥ*: the substitute [*udan* for *udaka*] by the rule beginning *paddan…*; in the *bha*-designation, the loss of the *a* by *alloponaḥ*. *Pipinvathuḥ*: root *pivi secane*, the augment *num* because of the marker *i*. *Jiṣe*: root *ji jaye*, the suffix *kse* in the sense of the infinitive. *Udājata*: root *aja gatikṣepaṇayoḥ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.12; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *yābhiḥ* — by whichever protections; *rasām* — the river (waterless for want of rain); *kṣodasā* — [with water] which breaks the banks (crushes the banks); *udnaḥ* — with water; *pipinvathuḥ* — you filled; *anaśvam* — [though] without horses; *ratham* — the chariot; *jiṣe* — for the sake of victory; *yābhiḥ* — by whichever protections and helps; *āvatam* — you made [it] run; and *yābhiḥ* — by whichever protections; *triśokaḥ* — the ṛṣi named Triśoka; *usriyāḥ* — the cows carried off (by the asuras); *udājata* — recovered; *tābhiḥ ūtibhiḥ ū* — with all those protections together (to us also); *su ā gatam* — come willingly.
+
+---
+
+### Page 780 (PDF 800)
+
+*(Running head: left 780; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your protections you filled with water, [water] that crushes its banks, the river made waterless by want of rain; just so, with whichever of your protective helps you made the chariot, though without horses, run for the winning of victory; and with whichever of your protections the ṛṣi named Triśoka recovered from the asuras his cows that they had carried off: with all those protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.12)**
+
+"With those aids by which you filled the (dry) river-bed with water, by which you drove the chariot without horses, to victory, and by which Trisoka recovered his (stolen) cattle; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.12)**
+
+**याभिः रसां क्षोदसोद्नः पिपिन्वथुः — Yābhiḥ rasāṃ kṣodasodnaḥ pipinvathuḥ.** One story is that [the Aśvins] filled with water the *Rasā*, the river of the gods, which had become waterless. Skandasvāmi has:
+
+> अत्रेतिहासमाचक्षते । पणिभिरसुरैरपहृताः गा अनुसङ्गच्छन्तः देवगोपाला रसां नामान्तरिक्षनदीमगाधोदकां नोत्तर्तुं शेकुः । तद् ज्ञात्वा देवाः सङ्क्रुद्धाः रसां शेपुः निरुदका भवेति । सा प्रत्यानीतासु गोषु अश्विनौ परिचचार । तामश्विनौ गत्वा पुनरगाधोदकां चक्रतुरिति ।
+> *atretihāsam ācakṣate | paṇibhir asurair apahṛtāḥ gā anusaṅgacchantaḥ devagopālā rasāṃ nāmāntarikṣanadīm agādhodakāṃ nottartuṃ śekuḥ | tad jñātvā devāḥ saṅkruddhāḥ rasāṃ śepuḥ nirudakā bhaveti | sā pratyānītāsu goṣu aśvinau paricacāra | tām aśvinau gatvā punar agādhodakāṃ cakratur iti |*
+> *(Sanskrit as read; the first compound,* paṇibhir asurair*, is doubtful in the print [?].)*
+> "Here they tell the tale: the divine herdsmen, following the cows carried off by the Paṇi-asuras, were unable to cross the atmospheric river named Rasā, of fathomless waters. Knowing this, the gods in anger cursed Rasā: 'Be waterless.' After the cows had been brought back, she served the two Aśvins. The Aśvins went to her and made her again of fathomless water."
+
+When the group of demons called Paṇi carried off the cows, the divine herdsmen followed that route, and, pursuing the asuras, found the way blocked by the atmospheric river named *Rasā*, which held fathomless water, and could not cross it. Then they cursed her to dry up. After they had got the cows back, *Rasā* worshipped the Aśvin deities; they became pleased, and filled her with water: so Skandasvāmi tells the story. Sāyaṇa's explanation differs a little. *Rasā nadī bhavati rasateḥ śabdakarmaṇaḥ* (*Ni.* 11-25 [?]) — citing Yāska's definition that the word *rasā* is derived from the root *ras*, 'to make a sound', he gives another cause for the waterlessness of the river: *rasāṃ anāvṛṣṭyā jalarahitām* — 'the river, waterless through drought'. The story that Skandasvāmi has cited is not alluded to here.
+
+**रसाम् — Rasām.** It is known that *Rasā* is the name of a river. In some places, for example:
+
+> सिन्धुर्ह वां रसया सिञ्चदश्वान्घृणा वयोऽरुषासः परि ग्मन् ।
+> *sindhur ha vāṃ rasayā siñcad aśvān ghṛṇā vayo 'ruṣāsaḥ pari gman |*
+> (*Ṛ.* 5-53-9 as read [?])
+> *(Sanskrit as read; no gloss attempted.)*
+
+---
+
+**Progress note:** Printed pp. 1–780 done (PDF 21–800): Sūkta 112: Riks 112.1–112.11 complete (pp. 723–778); Rik 112.12 (printed pp. 778–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Rasā river), ending after the Ṛg citation *sindhur ha vāṃ rasayā…* at the foot of p. 780. Next: printed p. 781 (PDF 801). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
