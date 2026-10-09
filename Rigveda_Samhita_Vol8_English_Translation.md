@@ -12298,5 +12298,119 @@ The grammar of Rik 105.2 concludes (noted briefly). *Paridāya* (root *ḍudāñ
 O gods, because I am without a son, do not, for that reason, make my fathers, grandfathers, great-grandfathers and the others who dwell in heaven fall from their dwelling above in heaven. Let me never be without a son who gives joy to the company of ancestors who are fit for drinking Soma. O Heaven and Earth, understanding well the affliction that has come to me by my falling into the well, hear this hymn of mine and lift me up out of the well.
 
 ---
+### Page 454 (PDF 474)
 
-**Progress note:** Printed pp. 1–453 done (PDF 21–473): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.2 complete (pp. 441–452); Rik 105.3 (printed pp. 452–[?]): Saṃhitā, Pada, bhāṣya (with its short tail), Pratipadārtha and Bhāvārtha done (pp. 452–453). Next: printed p. 454 (PDF 474): the printed English and Special Topics of 105.3, then Rik 105.4. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 454; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**English Translation (Rik 105.3; as printed in the source)**
+
+"Never, gods, may this (my ancestry), abiding above in heaven, be excluded (from it) ; never may we be in want (of a son) the cause of joy (to his progenitors,) entitled to libations of Soma juice. Heaven and earth be conscious of this (my affliction)"
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.3)**
+
+**Adaḥ** — "The meaning of this Ṛk is plain. The bhāṣya-writer has made the meaning complete by supplying some words (*adhyāhāra*). Although the word *adaḥ* in this Ṛk would mean 'that' (*tat* — plural, accusative; *Ni.* 3-[?] as read [?]), the bhāṣya-writer, from the use here of the words *svaḥ* and *divaspari*, gives the explanation: *svaḥ* — *svarge vartamānam avastād asmadīyaṃ pitṛpitāmahaprapitāmahātmakaṃ saṃtānaṃ divaspari* — *divaḥ upari* — 'in the upper part of the world of the mid-region, the heavenly world where [they] dwell, my fathers, grandfathers, great-grandfathers and others, my line of descent'. Likewise —
+
+*Śaṃbhuvaḥ śūne kadā cana mā bhūma* — "in this sentence, *śaṃbhuvaḥ* is taken to mean 'a son who gives happiness', and a prayer is made: let us not be without such a son, but be favoured."
+
+"Some modern scholars interpret the word *svaḥ* as 'Āditya' (*svar ādityo bhavati*, *Ni.* 2-[?]4 as read [?]), and have expressed the intention that the sun, which shines in the upper part of heaven, may make us happy."
+
+**Adaḥ** — *at* śabda. "The word *at* has the sense 'that' (*tat*). *Ādaḥ* means 'those', or 'those famed'. This word —
+
+> यदो पितो अजगन्विवस्व पर्वतानाम् [?]
+> *yad o pito ajagan vivasva parvatānām* (*Ṛ. Saṃ.* 1-18[?]-[?] as read [?]; the first word as printed, doubtful [?])
+
+— in this Ṛk, *adaḥ* is in the sense of 'well known', 'famed'; and —
+
+> उतादः परुषे गवि सूरश्चक्रं हिरण्ययम् ।
+> *utādaḥ paruṣe gavi sūraś cakraṃ hiraṇyayam |* (*Ṛ. Saṃ.* 6-[?]-[?] as read [?])
+
+— in this Ṛk *adaḥ* is *tasya rathasya*, 'of that chariot', that is, 'its'; and *(continued on p. 455)*
+
+---
+
+### Page 455 (PDF 475)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 455.)*
+
+> यत्स्तोमे दीर्घप्रसद्मनि यद्वादो रोचने दिवः ।
+> *yat stome dīrghaprasadmani yad vādo rocane divaḥ |* (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+> यदादो दिवो अर्णव इषो वा मदथो गृहे ।
+> *yad ado divo arṇava iṣo vā madatho gṛhe |* (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+— in these Ṛks the word *adaḥ* is used in the sense of 'in that' (*amuṣmin*); and in
+
+> ये सोमासः परावति ये अर्वावति सुन्विरे ।
+> ये वादः शर्यणावति ॥
+> *ye somāsaḥ parāvati ye arvāvati sunvire | ye vādaḥ śaryaṇāvati ‖* (*Ṛ. Saṃ.* 9-[?]-[?] as read [?])
+
+— the same word is used in the sense of 'in this' (*asmin*). Hence it is clear that the word *at* has the meaning 'that'."
+
+**Svaḥ** — "the word *svaḥ* has many meanings. Here it is used in the general sense of 'heaven'. (*Ni.* 2-[?]3 as read [?])
+
+> प्रत्यङ्ङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् ।
+> प्रत्यङ् विश्वं स्वर्दृशे ॥
+> *pratyaṅ ṅ devānāṃ viśaḥ pratyaṅ ṅ ud eṣi mānuṣān | pratyaṅ viśvaṃ svar dṛśe ‖* (*Ṛ. Saṃ.* 1-50-[?] as read [?]; as printed [?])
+
+— in this Ṛk, since the bhāṣya-writer has explained *svaḥ* as *svarlokam*, 'the world of heaven', the meaning is the heavenly world. *Svar ādityo bhavati*: 'Svar' is also the name of the sun.
+
+> याभी रेभं निवृतं सितमद्भ्य उद्वन्दनमैरयतं स्वर्दृशे ।
+> *yābhī rebhaṃ nivṛtaṃ sitam adbhya ud vandanam airayataṃ svar dṛśe |* (*Ṛ. Saṃ.* 1-1[?]-[?] as read [?])
+
+— in this Ṛk the word *svaḥ* is in the sense of 'the sun' (*svar ādityam*), that is, 'the sun'; and in
+
+> त्रैना वहन्तो दुरो व्यृण्वन्वन्ते विश्वे स्वर् दृशीके ।
+> सिन्धुं न क्षोदः प्र नीचैरैनोन्नवन्त गावः स्वर् दृशीके ॥
+> *traināvahanto duro vyṛṇvan vante viśve svar dṛśīke | sindhuṃ na kṣodaḥ pra nīcair ainonnavanta gāvaḥ svar dṛśīke ‖* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?]; the words are crowded and given as read [?])
+
+— in these Ṛks *svaḥ* has the sense 'in the sky' (*nabhasi*), 'mid-region'; and in
+
+> नि यं दधुर्मनुष्यासु विक्षु स्वर्ण चित्रं वपुषे विभावम् ।
+> *ni yaṃ dadhur manuṣyāsu vikṣu svar ṇa citraṃ vapuṣe vibhāvam |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+*(the passage continues on p. 456)*
+
+---
+
+### Page 456 (PDF 476)
+
+*(Running head: left 456; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+"— in this Ṛk, as Yāska says:
+
+> स्वरादित्यो भवति । सु आरणः । सु ईरणः । स्वृतो रसान् । स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा ।
+> *svar ādityo bhavati | su āraṇaḥ | su īraṇaḥ | svṛto rasān | svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā |* (*Ni.* [?], as read; the clotted Nirukta text is given as read [?])
+
+— '*bhāsā*' means 'light'. Since the word *svaḥ* is read among the hundred and one names of water (beginning *aṇaḥ*, *kṣodaḥ* and so on), *svaḥ* also means 'water'. (*Ni.* 1-[?]4 as read [?])" *(Kannada.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.3)** *(grammar pages, pp. 456–457, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Mo, su* (*mā* and *u*, two *nipātas*, are used together in the sense of *eva*, 'only', 'just'; *su* in the sense of emphasis, *avadhāraṇa*; *ṣatva* by *suñaḥ*, Pā. Sū. 8-3-107 as read [?]). *Svaḥ* (*nyañj svarau saritau*, Phiṭ. Sū. 2-[?] as read [?]: the *svarita* accent). *Pādi* (root *pada gatau*; *luṅ* in the active sense, third person singular, *ta*; *cli* → *sic* is expected, but by *ciṇ te padaḥ*, Pā. Sū. 3-1-60 as read [?], *ciṇ* is substituted; *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; loss of *ta* by *ciṇo luk*, Pā. Sū. 6-4-104 as read [?]; no *aṭ* by *na māṅyoge*, Pā. Sū. 6-4-74 as read [?]). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute; when *divaḥ* + *pari*, by *pañcamyāḥ parāvadhyarthe*, Pā. Sū. 8-3-51 as read [?], the visarga becomes *s*). *Somyasya* (*somam arhati yaḥ*, Pā. Sū. 4-4-[?]; the suffix *ya*; as a suffix beginning with *y* it has the name *bha*, so the *a* is lost by *yasyeti ca*; accent of the suffix; sixth case singular). *Śaṃbhuvaḥ* (root *bhū sattāyām*, used in the causal sense, implied *ṇyartha*; *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; before the sixth case singular, the *yaṇ*-prohibition by *nabhūsudhiyoḥ*, Pā. Sū. 6-4-85 as read [?], and *uvaṅ* by *aci śnudhātubhruvāṃ…*, Pā. Sū. 6-4-77 as read [?]; the accent of the *kṛdanta* latter member). *Śūne* (root *ṭuośvi gativṛddhyoḥ*; the suffix *kta* in the verbal sense; the prohibition of *iṭ* by *śvīdito niṣṭhāyām*, Pā. Sū. 7-2-14 as read [?]; *saṃprasāraṇa* by *vacisvapiyajādīnāṃ kiti*, Pā. Sū. 6-1-15 as read [?], *saṃprasāraṇāc ca*, with the *pūrvarūpa* *i* → *u*...
+
+---
+
+### Page 457 (PDF 477)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 457.)*
+
+... *saṃprasāraṇa* is completed; because the root is *odit*, the *na*-substitution for the *t* of *niṣṭhā* by *oditaś ca*, Pā. Sū. 8-2-45 as read [?]; lengthening by *halaḥ*, Pā. Sū. 6-4-2 as read [?]; by *vyatyaya* the initial acute; or, since *vṛṣādi* is an *ākṛtigaṇa*, the initial acute by *vṛṣādīnāṃ ca*, Pā. Sū. 6-1-203 as read [?]). *Bhūma* (root *bhū sattāyām*; *luṅ*, first person plural, *mas*; the loss of *s* by *nityaṃ ṅitaḥ*, Pā. Sū. 3-4-99 as read [?]; loss of *sic* by *gātisthāghupābhūbhyaḥ…*, Pā. Sū. 2-4-77 as read [?]; no *aṭ* because of the *mā* conjunction; *nighāta*). The Rik is closed with *‖ 3 ‖* and a rule of dashes.
+
+## Rik 105.4 — printed pp. 457–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.4)**
+
+> यज्ञं पृच्छाम्यवमं स तद्दूतो वि वोचति ।
+> क्व ऋतं पूर्व्यं गतं कस्तद्बिभर्ति नूतनो वित्तं मे अस्य रोदसी ॥ ४ ॥
+
+*yajñaṃ pṛcchāmy avamaṃ sa tad dūto vi vocati | kva ṛtaṃ pūrvyaṃ gataṃ kas tad bibharti nūtano vittaṃ me asya rodasī ‖ 4 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.4)**
+
+> यज्ञम् । पृच्छामि । अवमम् । सः । तत् । दूतः । वि । वोचति ।
+> क्व । ऋतम् । पूर्व्यम् । गतम् । कः । तत् । बिभर्ति । नूतनः । वित्तम् । मे । अस्य । रोदसी इति ॥ ४ ॥
+
+*yajñam | pṛcchāmi | avamam | saḥ | tat | dūtaḥ | vi | vocati | kva | ṛtam | pūrvyam | gatam | kaḥ | tat | bibharti | nūtanaḥ | vittam | me | asya | rodasī iti ‖ 4 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–457 done (PDF 21–477): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.3 complete (pp. 441–457); Rik 105.4 (printed pp. 457–[?]): Saṃhitā and Pada done at the foot of p. 457. Next: printed p. 458 (PDF 478): the bhāṣya etc. of 105.4; then Rik 105.5. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
