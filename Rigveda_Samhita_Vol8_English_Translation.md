@@ -20451,5 +20451,150 @@ In Ṛks such as these the matter of Vayya is told. For the word *vayyam* in the
 O Aśvin deities! with whichever of your protections you made Śucanti one filled with wealth and having an excellent dwelling-place, and made the fierce, heated fire pleasant to Atri; and, moreover, with whichever protections you protected Pṛśnigu and Purukutsa: with all those protections of yours come to us also, with willingness.
 
 ---
+### Page 757 (PDF 777)
 
-**Progress note:** Printed pp. 1–756 done (PDF 21–776): Sūkta 112: Riks 112.1–112.6 complete (pp. 723–755); Rik 112.7 (printed pp. 755–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha done (p. 756); the printed English and Special Topics follow on p. 757. Next: printed p. 757 (PDF 777). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 757.)*
+
+**English Translation (as printed in the source; Rik 112.7)**
+
+"With those aids by which you enriched Suchanti and gave him a handsome habitation, and rendered the scorching heat pleasurable to Atri, and by which you preserved Prisnigu and Purukutsa, ; with them, Aswins, come willingly hither."
+
+*(The printed text has a stray ", ;" after "Purukutsa"; recorded as printed.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.7)**
+
+**शुचन्तिम् — Śucantim.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । शुचन्तिर्नाम राजा राजयक्ष्मणा गृहीतस्तद्व्याध्युपशमनाय सर्वस्वं ब्राह्मणेभ्यो ददौ । अश्विनौ च तुष्टाव । तमश्विनावागत्य स्वैर्भेषजैर्निरुजं चक्रतुरिति ।
+> *atrāpītihāsam ācakṣate | śucantir nāma rājā rājayakṣmaṇā gṛhītas tadvyādhyupaśamanāya sarvasvaṃ brāhmaṇebhyo dadau | aśvinau ca tuṣṭāva | tam aśvināv āgatya svair bhaiṣajyair nirujaṃ cakratur iti |*
+> "Here too they tell the tale: a king named Śucanti, seized by consumption, gave all his possessions to *brāhmaṇas* to relieve that sickness, and he praised the Aśvins. The Aśvins came and made him free from disease with their own medicines."
+
+A king named Śucanti was seized by the disease called *rājayakṣmā* [consumption]; in order to relieve that illness he gave all the wealth he had to *brāhmaṇas* as gifts, and after that praised the Aśvin deities and won them over; they destroyed his disease with their own medicines: so Skandasvāmi explains. In Sāyaṇa's explanation Śucanti does not appear as a king; for, on the word *suṣaṃsadam*, Sāyaṇa has *saṃsīdanty asminn iti saṃsad gṛham | śobhanasaṃsadam akurutam* — 'a *saṃsad* is a house, [for] they sit together in it: you made [him] one with a fine house' — that is, he explains: 'made him one with an excellent dwelling-place'. If Śucanti were a king, there would be no room for this meaning. Skandasvāmi explains *saṃsad sabhocyate | śobhanasabham* — '*saṃsad* is called an assembly: one with a fine assembly' — 'one possessing an excellent assembly': which fits the meaning 'king'.
+
+**अत्रिम् — Atrim.** Skandasvāmi has:
+
+> अत्रिर्नामर्षिः । तमसुरा अग्निकूटे प्राचिक्षिपुः । सोऽश्विनौ तुष्टाव । तमश्विनावागत्य वृष्ट्या निशमय्याग्निं तत उज्जह्रतुः । बलं चासुरप्रतिबन्धसमर्थमस्मै सहान्नेन ददतुरिति ।
+> *atrir nāmarṣiḥ | tam asurā agnikūṭe prācikṣipuḥ | so 'śvinau tuṣṭāva | tam aśvināv āgatya vṛṣṭyā niśamayyāgniṃ tata ujjahratuḥ | balaṃ cāsurapratibandhasamartham asmai sahānnena dadatur iti |*
+> "A ṛṣi named Atri. The asuras threw him into a pit of fire. He praised the two Aśvins. The two Aśvins came, quenched the fire with rain, and drew him up from it. And they gave him strength able to withstand the asuras, together with food."
+
+The asuras threw the ṛṣi Atri into a pit of fire; he prayed to the Aśvin deities; they came, put out the fire with rain, and lifted him out; afterwards they gave him strength to resist the asuras, and food.
+
+**तप्तं घर्ममोम्यावन्तमत्रये — Taptaṃ gharmam omyāvantam atraye.** Here Sāyaṇa gives two kinds of meaning. In the first, *taptam*: heated, *gharmam*: fierce, [that is] Agni: *omyāvantam*, they made pleasant. In the second, *taptaṃ gharmam*: in the machine-house, the fierce fire kindled by the asuras to harm Atri; *omyāvantam*, you made [it] pleasant to Atri. Besides this, he cites Yāska's view, and has: *yāska pakṣe tu atraye haviṣām atre 'gnaye haviruttaptyarthaṃ sūryakiraṇasantaptaṃ gharmaṃ naidāghaṃ ahaḥ omyāvantaṃ tṛptihetuvṛṣṭyudakopetaṃ kṛtavantau iti yojyam* — 'but on Yāska's view: *atraye*, for the eater of oblations, [for] Agni, to heat the oblation, they made the *gharma*, the summer day heated by the rays of the sun, *omyāvantam*, provided with rain-water, the cause of satisfaction: so it should be construed.' In Yāska's view, the word *atri* means Agni, who eats the oblations; for such an Agni, heated by the rays of the sun; and the summer day (*nidāgha*) *(the passage runs on to p. 758)*
+
+---
+
+### Page 758 (PDF 778)
+
+*(Running head: left 758; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…[they made] the summer days *omyāvantam*: provided with satisfying rain-water, [that is, they made the days fit for him].": so he has explained it too, as meaning 'a protector' [?]. In just this manner:
+
+> हिमेनाग्निं घ्रंसमवारयेथां पितुमतीमूर्जमस्मा अधत्तम् ।
+> ऋबीसे अत्रिमश्विनावनीतमुन्निन्यथुः सर्वगणं स्वस्ति ॥
+> *himenāgniṃ ghraṃsam avārayethāṃ pitumatīm ūrjam asmā adhattam |*
+> *ṛbīse atrim aśvināvanītam unninyathuḥ sarvagaṇaṃ svasti ‖*
+> (*Ṛ.* 1-116-8 as read [?])
+> "With cold you warded off the fire's heat; you gave him strength rich in food; Atri, led down into the pit, O Aśvins, you drew up, with his whole company, in welfare." *(mine and tentative; the third word is doubtful [?])*
+
+> युवमत्रयेऽवनीताय तप्तमूर्जमोमानमश्विनावधत्तम् ।
+> *yuvam atraye 'vanītāya taptam ūrjam omānam aśvināv adhattam |*
+> (*Ṛ.* 1-118-7 as read [?])
+
+In Ṛks such as these, Kakṣīvān and the other ṛṣis too recall this benevolent favour of the Aśvin deities. But
+
+> अग्निरत्रिं घर्म उरुष्यदन्तरग्निर्नृमेधं प्रजयासृजत्स्वम् ।
+> *agnir atriṃ gharma uruṣyad antar agnir nṛmedhaṃ prajayāsṛjat svam |*
+> (*Ṛ.* 10-80-3 as read [?])
+
+— in this Ṛk it is said that Agni freed Atri from this torment.
+
+**ओम्यावन्तम् — Omyāvantam.** *sukhayuktam | sukhakaram* — "joined with comfort; creating comfort": so Sāyaṇa; and Skandasvāmi:
+
+> अवतेः पालनार्थस्येदं रूपम् । पालयन्तं युष्मत्प्रसादाच्छीतीभूतम् । आदाहकम् ।
+> *avateḥ pālanārthasyedaṃ rūpam | pālayantaṃ yuṣmatprasādāc chītībhūtam | ādāhakam |*
+> *(Sanskrit as read; the last word is a doubtful addition [?].)*
+> "This is a form of *av* in the sense of protecting: [a fire] that protects, become cool by your favour [formerly?] a burner."
+
+— a form of the root *av*, in the sense of protecting; 'that which was a burner, therefore [now] protecting': so Skandasvāmi explains.
+
+**पुरुकुत्सम् — Purukutsam.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । पुरुकुत्सः पुत्रकामो महत्तपश्चचार । अश्विनौ च तुष्टाव । तस्मा अश्विनौ पुत्रं ददतुरिति ।
+> *atrāpītihāsam ācakṣate | purukutsaḥ putrakāmo mahat tapaś cacāra | aśvinau ca tuṣṭāva | tasmā aśvinau putraṃ dadatur iti |*
+> "Here too they tell the tale: Purukutsa, wishing for a son, performed great austerity and praised the Aśvins; the Aśvins gave him a son."
+
+Purukutsa, being without a son, performed austerity out of desire for a son, and gratified the Aśvin deities; they granted him a son.
+
+**पृश्निगुम् — Pṛśniguṃ.** Sāyaṇa explains it as 'a devotee named Pṛśnigu'. But Skandasvāmi takes this word as an epithet of Purukutsa and has: *pṛśnigur ity* [as printed] *… pṛśnayo gāvo yasya sa pṛśniguḥ | taṃ pṛśniguṃ purukutsam* — 'he who has spotted cows is *pṛśnigu*: that *pṛśnigu* Purukutsa': he explains that Purukutsa has the epithet *pṛśnigu* because he possessed cows coloured like a tiger [?]. That King Purukutsa belonged to the Aikṣvāka line is known from the Śatapatha Brāhmaṇa:
+
+> पुरुकुत्सो दौर्गहेणेज ऐक्ष्वाको राजा ।
+> *purukutso daurgaheṇeja aikṣvāko rājā |*
+> (*Śa. Brā.* 13-5-4-5 as read [?])
+> *(Sanskrit as read from the print; the numerals are doubtful [?]. Gloss, mine and tentative: "Purukutsa, the Aikṣvāka king, sacrificed [as] the son of Durgaha.")*
+
+*(this passage runs on to p. 759)*
+
+---
+
+### Page 759 (PDF 779)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 759.)*
+
+*(…continuing:)* "This sentence says that King Purukutsa, born in the Ikṣvāku line, performed the *Aśvamedha*, as Daurgaha. The same matter is suggested in the Ṛk
+
+> आस्माकमत्र पितरस्त आसन्त्सप्त ऋषयो दौर्गहे बध्यमाने ।
+> *āsmākam atra pitaras ta āsan sapta ṛṣayo daurgahe badhyamāne |*
+> (*Ṛ.* 4-42-8 as read [?])
+
+But here Sāyaṇa explains the word *daurgaha* as a given name [*aṅkitanāma*] and takes it as '*durgahasya putre purukutse*', 'in Purukutsa, the son of Durgaha'.
+
+> त्वं ह त्यदिन्द्र सप्त युध्यन्पुरो वज्रिन्पुरुकुत्साय दर्दः ।
+> बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥
+> *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ |*
+> *barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
+> (*Ṛ.* 1-63-7 as read [?])
+> *(Sanskrit as read; the second line is doubtful in places [?]; no gloss attempted.)*
+
+On the strength of this Ṛk it is known that he was a contemporary of the king named Sudāsa.
+
+> सनेम त्वे अवसा नव्य इन्द्र प्र पूरवः स्तवन्त एना यज्ञैः ।
+> सप्त यत्पुरः शर्म शारदीर्दर्द्धन्दासीः पुरुकुत्साय शिक्षन् ॥
+> *sanema tve avasā navya indra pra pūravaḥ stavanta enā yajñaiḥ |*
+> *sapta yat puraḥ śarma śāradīr dard han dāsīḥ purukutsāya śikṣan ‖*
+> (*Ṛ.* 6-20-10 as read [?])
+> *(Sanskrit as read from the print; doubtful in the second line [?]; no gloss attempted.)*
+
+In this Ṛk Purukutsa is also called the king of the people called Pūru, and it is said that he conquered the *dāsa*s. It is known that he had a son named Trasadasyu. But there is also a doubt, resting on [another passage], that this son was born after Purukutsa's death:
+
+> पुरुकुत्सानी हि वामदाशद्धव्येभिरिन्द्रावरुणा नमोभिः ।
+> अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवम् ॥
+> *purukutsānī hi vām adāśad dhavyebhir indrāvaruṇā namobhiḥ |*
+> *athā rājānaṃ trasadasyum asyā vṛtrahaṇaṃ dadathur ardhadevam ‖*
+> (*Ṛ.* 4-42-9 as read [?])
+> *(Sanskrit as read; the first word and numerals are doubtful [?]. Gloss, mine and tentative: "Purukutsa's wife [*purukutsānī*] has honoured you two, O Indra and Varuṇa, with oblations and with homage; and so you gave her the king Trasadasyu, a Vṛtra-slayer, half-divine.")*
+
+In this [Ṛk] it is said that when Purukutsa's wife pleased Indra and Varuṇa with oblations and praises, they showed her such favour as to bring about her getting a son named Trasadasyu. On this basis the story is told that, after Purukutsa died in battle, his wife prayed to Indra and Varuṇa and obtained the son named Trasadasyu.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.7)** *(grammar pages, pp. 759–760, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Śucantim*: root *śuca dīptau*; the Uṇādi suffix *jhic* [?]; *anta* for *jh* by *jho 'ntaḥ* (*pā.* 7-1-3 as read [?]); since it is *cit*, by *citaḥ* (*pā.* 6-1-163 as read [?]) the final syllable is *udātta*; accusative singular. *Dhanasām*: root *ṣaṇa sambhaktau*; *viṭ* by *janasanakhanakramagamo viṭ* (*pā.* 3-2-67 as read [?]); with *viṭ* following, by *vidvanoranunāsikasyāt* (*pā.* 6-4-41 as read [?]) the root takes *ā*; since the prior member is a *kāraka*, by *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) the *kṛdanta* keeps the accent of the prior member; accusative singular.
+
+---
+
+### Page 760 (PDF 780)
+
+*(Running head: left 760; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, continued and concluded; short.)* *Suṣaṃsadam*: 'he who has a good assembly' = *susaṃsad*; by *nañsubhyām* (*pā.* 6-2-172 as read [?]) the final syllable of the second member is *udātta*. *Taptam*: root *tapa santāpe*; the suffix *kta* by *niṣṭhā*; by the suffix-accent it ends in *udātta*; accusative singular. *Omyāvantam*: root *av rakṣaṇe*; by *anyebhyo 'pi dṛśyante* (*pā.* 3-2-75 as read [?]) the suffix *manin*; by *jvaratvarasrivyavimavāṃ upadhāyāś ca* (*pā.* 6-4-20 as read [?]) *ūṭh* for the penultimate and the *v*; *guṇa* because *manin* is the cause; the word *oman*; for it, in the sense of 'worthy of this', by *chandasi ca* (*pā.* 5-1-67 as read [?]) the suffix *yat*; by *nastaddhite* (*pā.* 6-4-144 as read [?]) the loss of the *ṭi* (*an*); though, since a suffix such as *yat* follows, the *prakṛtibhāva* would be reached by *ye cābhāvakarmaṇoḥ* (*pā.* 6-4-168 as read [?]), here, because of *vyatyaya*, it does not occur; by the suffix-accent it ends in *udātta*; 'there is *omya* in it' = *omyāvān*; the suffix *matup* by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]); by *mādupadhāyāś ca matorvo 'yavādibhyaḥ* (*pā.* 8-2-9 as read [?]) the *m* of *matup* becomes *v*; since it is *pit*, it is *anudātta*; accusative singular. *Pṛśniguṃ*: *pṛśni* means 'of various colours'; 'he who has spotted cows of various colours' = *pṛśniguḥ*; by *gostriyor upasarjanasya* (*pā.* 1-2-48 as read [?]) the meaning of the word *go* being non-principal, it is shortened; by *ec iko hrasvādeśe* [as printed [?]] (*pā.* 1-1-48 as read [?]) it is the *u*; by *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) the prior member keeps its own accent. ‖ 7 ‖
+
+*(An ornament closes Rik 112.7.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.8)** *(accent-marks not reproduced; begun at the foot of p. 760; the first line of the Ṛk)*
+
+> याभिः शुचिभिर्वृषणा परावृजं प्रान्धं श्रोणं चक्षस एतवे कृथः । [?]
+> *yābhiḥ śucibhir vṛṣaṇā parāvṛjaṃ prāndhaṃ śroṇaṃ cakṣasa etave kṛthaḥ | [?]*
+> *(The first line only, on p. 760; the print shows the vowel of the word after* yābhiḥ *as* śucebhir*/*śucībhir [?]; I read* śucibhir *for the present and note it as doubtful; the Pada on p. 761 will settle it. The rest of the Ṛk is on p. 761.)*
+
+---
+
+**Progress note:** Printed pp. 1–760 done (PDF 21–780): Sūkta 112: Riks 112.1–112.7 complete (pp. 723–760); Rik 112.8 (printed pp. 760–[?]): its first line of the Saṃhitā read (the word after *yābhiḥ* doubtful: *śucibhir/śucībhir* [?]); the rest of the Saṃhitā, Pada etc. follow on p. 761. Next: printed p. 761 (PDF 781). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
