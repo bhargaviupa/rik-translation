@@ -15422,5 +15422,112 @@ Grammar page, noted briefly. *Aryamā* (the word *aryaman*: formed with the suff
 *ya indrāgnī citratamo ratho vām abhi viśvāni bhuvanāni caṣṭe |*
 
 ---
+### Page 574 (PDF 594)
 
-**Progress note:** Printed pp. 1–573 done (PDF 21–593): **Sūkta 107 is complete** (printed pp. 561–572; 3 Ṛks). **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; third Sūkta of the sixteenth anuvāka; printed pp. 573–[?]) begun at printed p. 573: Kannada title, Sāyaṇa's introduction, Anuvāda and heading block done; Rik 108.1's first line of the Saṃhitā at the foot of p. 573. Next: printed p. 574 (PDF 594): the second line of 108.1, its Pada and bhāṣya. Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 574; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.1), completed**
+
+> य इन्द्राग्नी चित्रतमो रथो वामभि विश्वानि भुवनानि चष्टे ।
+> तेना यातं सरथं तस्थिवांसाथा सोमस्य पिबतं सुतस्य ॥ १ ॥
+
+*ya indrāgnī citratamo ratho vām abhi viśvāni bhuvanāni caṣṭe | tenā yātaṃ sarathaṃ tasthivāṃsāthā somasya pibataṃ sutasya ‖ 1 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.1)**
+
+> यः । इन्द्राग्नी इति । चित्रऽतमः । रथः । वाम् । अभि । विश्वानि । भुवनानि । चष्टे ।
+> तेन । आ । यातम् । सऽरथम् । तस्थिऽवांसा । अथ । सोमस्य । पिबतम् । सुतस्य ॥ १ ॥
+
+*yaḥ | indrāgnī iti | citra-tamaḥ | rathaḥ | vām | abhi | viśvāni | bhuvanāni | caṣṭe | tena | ā | yātam | sa-ratham | tasthi-vāṃsā | atha | somasya | pibatam | sutasya ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.1)**
+
+> हे इन्द्राग्नी चित्रतमोऽतिशयेन चायनीयो वां युवयोः संबन्धी यो रथो विश्वानि भुवनानि भूतजातान्यभिचष्टे । अभिमुख्येन पश्यति । सुवर्णमयत्वात् रत्नखचितत्वाच्च स्वप्रभाभिः कृत्स्नं जगद्भासयतीत्यर्थः । तेन रथेनायातं । अस्मद्यज्ञमागच्छतं । तत्किं पर्यायेण । नेत्याह । सरथं समानमेकं रथं तस्थिवांसा युगपदेवास्थितवन्तौ युवामागच्छतं । न पर्यायेणेत्यर्थः । अथागमनानन्तरं सुतस्य ऋत्विग्भिरभिषुतं सोमस्य सोमं स्यान्द्रलक्षणं [?] तदेकदेशं वा पिबतम् ॥ वां । युष्मदस्मदोः षष्ठीचतुर्थीद्वितीयास्थयोर्वांनावौ । पा. ८-१-२० । इति षष्ठीद्विवचनस्य वामादेशः । सर्वानुदात्तत्वम् । चष्टे । चक्षिङ् व्यक्तायां वाचि । अत्र प्रकाशनार्थः । अदादित्वाच्छपो लुक् । स्कोः संयोगाद्योरन्ते चेति कलोपः । तास्यनुदात्तेदिति लसार्वधातुकानुदात्तत्वे धातुस्वरः शिष्यते । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । सरथम् । समानश्चासौ रथश्च सरथः । समानस्य छन्दसि सभावः । परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । तस्थिवांसा । ष्ठा गतिनिवृत्तौ । लिटः क्वसुः । द्विर्वचनेन [?] । शपूर्वाः खयः । वस्वेकाजाद्धसामिति इडागमः । आतो लोप इटि चेत्याकारलोपः । सुपां सुलुगित्याकारः । सोमस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी ॥
+> *he indrāgnī citratamo 'tiśayena cāyanīyo vāṃ yuvayoḥ saṃbandhī yo ratho viśvāni bhuvanāni bhūtajātāny abhicaṣṭe | abhimukhyena paśyati | suvarṇamayatvāt ratnakhacitatvāc ca svaprabhābhiḥ kṛtsnaṃ jagad bhāsayatīty arthaḥ | tena rathenāyātaṃ | asmadyajñam āgacchataṃ | tat kiṃ paryāyeṇa | nety āha | sarathaṃ samānam ekaṃ rathaṃ tasthivāṃsā yugapad evāsthitavantau yuvām āgacchataṃ | na paryāyeṇety arthaḥ | athāgamanānantaraṃ sutasya ṛtvigbhir abhiṣutaṃ somasya somaṃ syandralakṣaṇaṃ [?] tadekadeśaṃ vā pibatam ‖ vāṃ | yuṣmadasmadoḥ ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau | pā. 8-1-20 | iti ṣaṣṭhīdvivacanasya vāmādeśaḥ | sarvānudāttatvam | caṣṭe | cakṣiṅ vyaktāyāṃ vāci | atra prakāśanārthaḥ | adāditvāc chapo luk | skoḥ saṃyogādyor ante ceti kalopaḥ | tāsyanudāttedit i lasārvadhātukānudāttatve dhātusvaraḥ śiṣyate | yadvṛttān nityam iti nighātapratiṣedhaḥ | saratham | samānaś cāsau rathaś ca sarathaḥ | samānasya chandasi sabhāvaḥ | parādiś chandasi bahulam ity uttarapadādyudāttatvam | tasthivāṃsā | ṣṭhā gatinivṛttau | liṭaḥ kvasuḥ | dvirvacanena [?] | śapūrvāḥ khayaḥ | vasvekājāddhasām iti iḍāgamaḥ | āto lopa iṭi cety ākāralopaḥ | supāṃ suluk ity ākāraḥ | somasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī ‖* *(Sanskrit as read; a few words in the tail — "syandralakṣaṇaṃ [?]", "dvirvacanena [?]" — are clotted and given with doubt [?]; the tail is short and given.)*
+
+"O Indra and Agni! the chariot of yours, *citratama* — exceedingly beautiful, to be gazed at — that looks (*abhicaṣṭe*) over all the worlds, all beings: it sees in front; because it is golden and set with jewels, it makes the whole world shine with its own splendours. By that chariot come (*ā yātam*): come to our sacrifice. 'Is it by turns?' he asks: no — *sarathaṃ*: standing (*tasthivāṃsā*) in one and the same chariot, both of you together, come: not by turns. Then, after coming, drink (*pibatam*) of the *sutasya somasya* — the Soma pressed by the priests, or a portion of it."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.1; Kannada; English)** *(p. 575)*
+
+---
+
+### Page 575 (PDF 595)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 575.)*
+
+*Indrāgnī* — O Indra and Agni; *vām* — belonging to you both; *citratamaḥ* — exceedingly beautiful; *yaḥ rathaḥ* — the chariot which; *viśvāni bhuvanāni* — all beings; *abhicaṣṭe* — looks facing them (shines exceedingly); *tena rathena* — in that chariot; *sarathaṃ* — both of you in one and the same chariot; *tasthivāṃsā* — seated together; *ā yātam* — come graciously to our sacrifice; *atha* — afterwards; *sutasya* — pressed by the priests; *somasya* — [of] the Soma-juice; *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, in your beautiful chariot which shines in a wonderful way over all the beings, both of you seated together at one and the same time, graciously come to our sacrifice. After coming, drink the portion of Soma-juice pressed by the priests.
+
+**English Translation (as printed in the source)**
+
+"Indra and Agni, sitting together in your car,—that wonderful car which illuminates all beings, approach and drink of the effused Soma juice."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.1)**
+
+**Indrāgnī** — "to understand the association (*sāhacarya*) of Indra and Agni, and the greatness of that association, one must first understand the nature of Agni. Then it is seen how that special nature shows an innate association for Agni and for Indra alike.
+
+> दिवस्परि प्रथमं जज्ञे अग्निरस्मद्द्वितीयं परि जातवेदाः ।
+> तृतीयमप्सु नृमणा अजस्रमिन्धान एनं जरते स्वाधीः ॥
+> *divas pari prathamaṃ jajñe agnir asmad dvitīyaṃ pari jātavedāḥ | tṛtīyam apsu nṛmaṇā ajasram indhāna enaṃ jarate svādhīḥ ‖* (*Ṛ. Saṃ.* 10-45-1 as read)
+
+> इदं ते एकं पर ऊ त एकं तृतीयेन ज्योतिषा सं विशस्व ।
+> *idaṃ te ekaṃ para ū ta ekaṃ tṛtīyena jyotiṣā saṃ viśasva |* (*Ṛ. Saṃ.* 10-56-1 as read)
+
+— sentences of the Saṃhitā such as these show that Agni makes his own existence manifest in three forms. And the Nirukta-author explains just this —
+
+> तमुकुर्वन्स्त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः ।
+> *tam u kurvan strédhābhāvāya pṛthivyām antarikṣe divīti śākapūṇiḥ |* (*Ni.* 7-[?]4 as read [?]; the first words are clotted [?])
+
+---
+
+### Page 576 (PDF 596)
+
+*(Running head: left 576; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+"— in sentences such as these: that is, in the heavenly world he is of the nature of the sun; in the mid-region, in the form of lightning; and on the earth, in the form of the sacrificial fire he is made manifest as Agni. In all these three forms there exists the association of Indra and Agni which is natural. First:
+
+> तद्वा एष एवेन्द्रः । य एष तपत्येष एव वृत्रो यज्ञ्चेन्द्रमाः ।
+> *tad vā eṣa evendraḥ | ya eṣa tapaty eṣa eva vṛtro yac candramāḥ |* (*Śa. Brā.* 1-6-4-1[?] as read [?]; the sentence is as read, and the last words are doubtful [?])
+
+— in sentences such as these, the identity of Indra and of the sun that shines in the heavenly world is told; in such contexts it is usual to describe the sight of Indra and Agni, both being of the nature of the sun, seated together in the same chariot.
+
+Second: the association [of Indra and Agni] exists even in the Agni that is in the form of lightning in the mid-region, and in Indra, as at the time of the slaying of Vṛtra. This point is explained in the third Ṛk of this same Sūkta. Third: since all the oblations in sacrifices are shared among the gods, and Indra is the chief of the gods, these two have a closer association than either has with the other gods. These two are the two arms of Prajāpati:
+
+> ताभ्यां वै नौ सर्वमन्नं प्रयेच्छेति कौ वै मा चाहू भूत्वा प्रपद्येथाम् ।
+> *tābhyāṃ vai nau sarvam annaṃ prayecchety kau vai mā cāhū bhūtvā prapadyethām |* (*Śa. Brā.* 2-4-1-1[?] as read [?]; the passage is read with doubt, the second word "nau" and the last verb as printed [?])
+
+— as it is described, Prajāpati's arms spread light over all the world in the form of the sun; therefore —
+
+> यास्ते अग्ने सूर्ये रुचः ।
+> *yās te agne sūrye ruciḥ* [as printed; for *rucaḥ*] |* (*Śa. Brā.* 2-4-2-3[?] as read [?])
+
+— in sentences such as these Indra and Agni, who are of the nature of the sun, are prayed to spread light over the world. This sun is the eye of Mitra and Varuṇa; with this eye of the nature of light he illumines the whole world and sees it at once."
+
+**Abhicaṣṭe** — *abhipaśyati |* "[the word means] 'sees in front'; having given the proper meaning of the word, [Sāyaṇa] adds *darśanenātra tadd hetubhūtaṃ gamanaṃ lakṣyate* — 'here, by seeing, the motion that is the cause of that [seeing] is intended': Skandasvāmin has explained that the word *darśana* here carries the purport of 'motion'. Sāyaṇa has followed the Nirukta-author's meaning in all places where this word occurs. The Nirukta-author cites the Ṛks in two places where this word is used and says *abhipaśyati*, *Ni.* 1[?]-1[?]; 1[?]-[?]2 [as read [?]]." *(continued on p. 577)*
+
+---
+
+### Page 577 (PDF 597)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 577. At the foot, the printer's signature "37 / VOLUME 8" [sic: as printed, noted only].)*
+
+"In all the contexts where such a description occurs, the world-travelling and world-illuminating functions of Varuṇa, Indra, Agni and Sūrya are the same.
+
+> ऋजु मर्तेषु वृजिना च पश्यन्नभि चष्टे सूरो अर्य एवान् ।
+> *ṛju marteṣu vṛjinā ca paśyann abhi caṣṭe sūro arya evān |* (*Ṛ. Saṃ.* 6-5[?]-[?] as read [?])
+
+> अभि यो विश्वा भुवनानि चष्टे स मन्युं मर्त्येष्वा चिकेते ।
+> *abhi yo viśvā bhuvanāni caṣṭe sa manyuṃ martyeṣv ā cikete |* (*Ṛ. Saṃ.* 7-6[?]-1 as read [?])
+
+— as is described in Ṛks such as these, in the Ṛk at hand also the daily world-viewing and world-illuminating of Indra and Agni, who are of the nature of the sun, are described."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.1)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Citratamaḥ* (*atiśayena citraḥ citratamaḥ*; the suffix *tamap* in the sense of a high degree by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55 as read [?]). *Vām* (the word *yuṣmad*; in the sixth dual case, *vām* by *yuṣmadasmadoḥ ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau*, Pā. Sū. 8-1-20 as read [?]; the *nighāta*-substitution by *nigāta* [?]; the substitute is wholly *anudātta*). *Caṣṭe* (root *cakṣiṅ vyaktāyāṃ vāci*; since roots have several meanings, here used in the sense of showing; *adādi*; *laṭ*, third person singular, *ta*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; loss of *k* by *skoḥ saṃyogādyor ante ca*, Pā. Sū. 8-2-29 as read [?]; *ṭutva* of the *t* by *ṣṭunā ṣṭuḥ*; since the root is *anudāttet* the *lasārvadhātuka* is *anudātta* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], the accent of the root remains; because of the *yad*-connection the *nighāta* is prohibited by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]). *Yātam* (root *yā prāpaṇe*; *loṭ*, second person dual; *nighāta*). *Saratham* (*samānaś cāsau rathaś ca sarathaḥ*; *sa* for *samāna* by *samānasya chandasi…*, Pā. Sū. 6-3-84 as read [?]; the accent of the latter member by *parādiś chandasi bahulam*, Pā. Sū. 6-2-199 as read [?]) *(the grammar continues on p. 578)*
+
+---
+
+**Progress note:** Printed pp. 1–577 done (PDF 21–597): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Rik 108.1 (printed pp. 573–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 577 (at *saratham*). Next: printed p. 578 (PDF 598). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
