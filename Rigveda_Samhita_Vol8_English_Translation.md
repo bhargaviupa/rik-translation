@@ -13741,5 +13741,100 @@ Varuṇa, who wards off what is undesired, performs the protecting rite. We pray
 Grammar pages, noted briefly. *Brahma* (the word *brahman*; in the neuter, the loss of the *su* ending by *svamor napuṃsakāt*, Pā. Sū. 7-1-23 as read [?]; the loss of *n* by *nalopaḥ prātipadikāntasya*, Pā. Sū. 8-2-7 as read [?]; lengthening in the Saṃhitā by *ānyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]) *(the grammar continues on p. 510)*
 
 ---
+### Page 510 (PDF 530)
 
-**Progress note:** Printed pp. 1–509 done (PDF 21–529): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.14 complete (pp. 441–506); Rik 105.15 (printed pp. 506–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 506–509); grammar begun at the foot of p. 509 (at *brahma*). Next: printed p. 510 (PDF 530). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 510; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.15 continues and concludes (noted briefly; numerals small and doubtful [?]). *Kṛṇoti* (root *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, third person singular, *tip*; the suffix *u* with the final *a* of the root by *dhinvikṛṇvor a ca*, Pā. Sū. 3-1-80 as read [?]; *num* since the root is *idit*; loss of *a* by *ato lopaḥ*, Pā. Sū. 6-4-48 as read [?]; *nighāta*). *Gātuvidam* (root *vidḷ lābhe*; since it has a causal sense, with *ṇi* implied, the suffix *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; the form *gātuvid*; the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]; accusative singular). *Īmahe* (root *īṅ gatau*; *laṭ*, first person plural, *mahiṅ*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; the *vikaraṇa* [*śyan*] is lost by *bahulaṃ chandasi*; *nighāta*). *Ūrṇoti* (root *ūrṇuñ ācchādane*, *adādi*; *laṭ*, third person singular; *nighāta*). *Hṛdā* (the word *hṛdaya*; before the third case singular, *hṛd* by *pad-dan-no-māsa-hṛn…*, Pā. Sū. 6-1-63 as read [?]; the ending is acute by *ūḍidaṃ padādi*). *Navyaḥ* (root *ṇu stutau*; *yat* by *aco yat*, Pā. Sū. 3-1-97 as read [?]; the initial acute by *yato 'nāvaḥ*, Pā. Sū. 6-1-213 as read [?]). *Jāyatām* (root *janī prādurbhāve*; *loṭ*, third person singular; *e* for the *ṭi*; *ām* for *e* by *āmete*, Pā. Sū. 3-4-90 as read [?]; *śyan*; *jā* for the root by *jñājanor jā*, Pā. Sū. 7-3-79 as read [?]; *nighāta*). The Rik is closed with *‖ 15 ‖* and a rule of dashes.
+
+---
+
+### Page 511 (PDF 531)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 511.)*
+
+## Rik 105.16 — printed pp. 511–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.16)**
+
+> असौ यः पन्था आदित्यो दिवि प्रवाच्यं कृतः ।
+> न स देवा अतिक्रमे तं मर्तासो न पश्यथ वित्तं मे अस्य रोदसी ॥ १६ ॥
+
+*asau yaḥ panthā ādityo divi pravācyaṃ kṛtaḥ | na sa devā atikrame taṃ martāso na paśyatha vittaṃ me asya rodasī ‖ 16 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.16)**
+
+> असौ । यः । पन्थाः । आदित्यः । दिवि । प्रऽवाच्यम् । कृतः ।
+> न । सः । देवाः । अतिऽक्रमे । तम् । मर्तासः । न । पश्यथ । वित्तम् । मे । अस्य । रोदसी इति ॥ १६ ॥
+
+*asau | yaḥ | panthāḥ | ādityaḥ | divi | pra-vācyam | kṛtaḥ | na | saḥ | devāḥ | ati-krame | tam | martāsaḥ | na | paśyatha | vittam | me | asya | rodasī iti ‖ 16 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.16)**
+
+> पन्थाः सततगामी । यद्वा । ब्रह्मलोकं गच्छतामुपासकानां मार्गभूतः । सूर्यद्वारेण ते विरजाः प्रयान्ति । मु. उ. १-२-११ [?] इति श्रुतेः । एवंभूतो योऽसावादित्यो दिवि द्युलोके प्रवाच्यं प्रकर्षेण वचनं यथा भवति तथा कृतो निर्मितः । यथा सर्वैः प्राणिभिर्दृश्यते तथा वर्तमान इत्यर्थः । हे देवाः सोऽयमादित्यो युष्माभिरसि नातिक्रमे । अतिक्रमितुं न शक्यः । युष्मज्जीवनस्य तदायत्तत्वात् । सति हि सूर्ये वसन्तादयः कालाः निष्पद्यन्ते । कालेषु च योगाः क्रियन्ते । यागेषु च सत्सु भवतां जीवनम् । अतो युष्माभिरसौ नातिक्रमितव्यः । एवं च सति हे मर्तासः पापकृतो मनुष्यास्तं महानुभावं सूर्यं न पश्यथ । सूर्यं न जानीथ । एतच्च कूपे पातयित्वा निर्गतावेकतद्वितौ प्रति निन्दनम् । अहमेव मन्त्रद्रष्टा तं सूर्यं जानामि पापकृतौ युवां न जानीथ इति ॥ पन्थाः । पथि गतौ । पथेस्थ चेतीनिप्रत्ययः । पथिमथ्यृभुक्षामात् [?] । इतोत्सर्वनामस्थाने । पा. ७-१-८५ [?] । इत्यत्र नकारस्य । थो न्थः । पा. ७-१-८७ [?] । पथिनुथोः सर्वनामस्थाने इत्याद्युदात्तत्वम् । प्रवाच्यम् । वक्तेर्ण्यन्तादचो यदिति भावे यत् । यतोऽनाव इत्याद्युदात्तत्वम् [?] । अतिक्रमे । क्रमु पादविक्षेपे । कृत्यार्थे तवैकेनिति केन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
+> *panthāḥ satatagāmī | yadvā | brahmalokaṃ gacchatām upāsakānāṃ mārgabhūtaḥ | sūryadvāreṇa te virajāḥ prayānti | mu. u. 1-2-11 [?] iti śruteḥ | evaṃbhūto yo 'sāv ādityo divi dyuloke pravācyaṃ prakarṣeṇa vacanaṃ yathā bhavati tathā kṛto nirmitaḥ | yathā sarvaiḥ prāṇibhir dṛśyate tathā vartamāna ity arthaḥ | he devāḥ so 'yam ādityo yuṣmābhir asi nātikrame | atikramituṃ na śakyaḥ | yuṣmajjīvanasya tadāyattatvāt | sati hi sūrye vasantādayaḥ kālāḥ niṣpadyante | kāleṣu ca yogāḥ kriyante | yāgeṣu ca satsu bhavatāṃ jīvanam | ato yuṣmābhir asau nātikramitavyaḥ | evaṃ ca sati he martāsaḥ pāpakṛto manuṣyās taṃ mahānubhāvaṃ sūryaṃ na paśyatha | sūryaṃ na jānītha | etac ca kūpe pātayitvā nirgatāv ekatadvitau prati nindanam | aham eva mantradraṣṭā taṃ sūryaṃ jānāmi pāpakṛtau yuvāṃ na jānītha iti ‖ panthāḥ | pathi gatau | pathesthaś cetīniprayayaḥ | pathimathyṛbhukṣām āt [?] | ito 'tsarvanāmasthāne | pā. 7-1-85 [?] | ity atra nakārasya | tho nthaḥ | pā. 7-1-87 [?] | pathinuthoḥ sarvanāmasthāne ity ādyudāttatvam | pravācyam | vakter ṇyantād aco yad iti bhāve yat | yato 'nāva ity ādyudāttatvam [?] | atikrame | kramu pādavikṣepe | kṛtyārthe tavaikena iti kenpratyayaḥ | nittvād ādyudāttatvam ‖* *(Sanskrit as read; several words in the tail are clotted and given with doubt [?]; the passage runs across the page-break (pp. 511–512) as printed.)*
+
+---
+
+### Page 512 (PDF 532)
+
+*(Running head: left 512; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+*(The first line of this page completes the bhāṣya's tail: "…āṅ ādyudāttatvam | atikrame | kramu pādavikṣepe | kṛtyārthe tavaikeneti kenpratyayaḥ | nittvād ādyudāttatvam ‖" — as given above at the page-break.)*
+
+"The *panthāḥ* — he who goes constantly; or the one who is the path (*mārgabhūtaḥ*) of the worshippers who go to Brahmaloka: 'by the door of the sun they go forth, free from stain' (*Mu. U.* 1-2-11 as read [?]) — so says the Śruti. Such is this Āditya who has been made *pravācyam* in the heavenly world — made so as to be spoken of exceedingly, i.e. one who exists such that all beings see him. O gods! this Āditya cannot be overstepped by you (*nātikrame*): since your own life depends on him. For when the sun exists, the seasons, spring and the rest, are produced; in the seasons sacrifices are performed; and from the sacrifices comes your sustenance: therefore he must not be overstepped by you. This being so, O mortals (*martāsaḥ*), sinful men, you do not see that great-souled Sun; you do not know the Sun. And this is a rebuke addressed to Ekata and Dvita, who threw [Trita] into the well and went away: 'I alone, the seer of mantras, know that Sun; you two, doers of sin, do not know'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.16; Kannada; English)**
+
+*Devāḥ* — O gods; *panthāḥ* — he who moves always, or (for the worshippers) the one who is the path to Brahmaloka; *yaḥ asau ādityaḥ* — that Āditya who; *divi* — in the sky; *pravācyam* — as all praise [him] with one voice; *kṛtaḥ* — he has been made visible; *saḥ* — that sun; *na atikrame* — (since he is indispensable for the sacrifices) cannot be overstepped with disrespect [by you]; *martāsaḥ* — (the sinful) men; *tam* — that mighty sun; *na paśyatha* — do not know (his greatness); *rodasī* — O Heaven and Earth; *me* — my; *asya* — this sorrow; *vittam* — know.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Āditya, who is the path to Brahmaloka for the worshippers, is well known and shines in the heavenly world for all to know. All praise him with one voice. O gods, since the sun is indispensable for the sacrifices and the like, and is the very support of our life, you cannot overstep him in disrespect. Even so, men such as Ekata and Dvita [do not] know his greatness and treat him with disregard. Only one like me can praise his greatness. O Heaven and Earth, know this sorrow of mine and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"The sun, who is avowedly made the path in heaven, is not to be disregarded, Gods, by you ; but you, mortals, regard him not. Heaven and earth, be conscious of this (my affliction)"
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.16)**
+
+In this Ṛk the greatness of Āditya is praised. In this description, since the qualities of the three deities Āditya, Sūrya and Savitṛ are put together, it may be said that the three names tell of different natures of one and the same deity.
+
+**Panthāḥ** — "the commentator has said that two meanings can be had for this word: first, the common sense 'moving constantly'. The second is 'one who takes the worshippers to Brahmaloka, being the way [thither]', an epithet of Sūrya." *(continued on p. 513)*
+
+---
+
+### Page 513 (PDF 533)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 513. At the foot, the printer's signature "33 / VOLUME 6" [sic: as printed, noted only].)*
+
+"If the first meaning is taken, the eternal course of Sūrya's motion is shown:
+
+> हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ।
+> *hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan |* (*Ṛ. Saṃ.* 1-35-2 as read)
+
+> याति देवः प्रवता यात्युद्वता याति शुभ्राभ्यां यजतो हरिभ्याम् ।
+> आ देवो याति सविता परावतोऽप विश्वा दुरिता बाधमानः ॥
+> *yāti devaḥ pravatā yāty udvatā yāti śubhrābhyāṃ yajato haribhyām | ā devo yāti savitā parāvato 'pa viśvā duritā bādhamānaḥ ‖* (*Ṛ. Saṃ.* 1-35-3 as read)
+
+— in Ṛks such as these, the brilliant and eternal nature of Sūrya's movement is described; the same is to be understood here. Skandasvāmin too [explains]:
+
+> पन्था इति पतेर्गत्यर्थस्य गन्तृवचनः न मार्गशब्दपर्यायः । असौ य उदयास्तमयलक्षितेन मार्गेण गन्ता तदन्य आदित्यः [?] ।
+> *panthā iti pateḥ gatyarthasya gantṛvacanaḥ na mārgaśabdaparyāyaḥ | asau ya udayāstamayalakṣitena mārgeṇa gantā tadanya ādityaḥ [?] |* *(as read; the last clause is clotted and given with doubt [?])*
+
+— saying first 'the sun who moves constantly', and then '*athavā panthā iti pathiśabdo mārgavacana iva*', 'or *panthā* is the word *pathin*, a word for "path"': 'the sense of *panthā* is "path"', and he has made the construction accordingly.
+
+According to the second meaning given by Sāyaṇa, [the sense is] the sun who is the path that takes the doers of good deeds to Brahmaloka. As described in the Upaniṣads, the *devayāna* is meant here: in the Upaniṣads the words *devayāna* and *pitṛyāna* have a technical sense, whereas in the Ṛk-saṃhitā the word *devayāna* has the common sense of 'the path on which the gods move'; in some places only is the sense found that is described in the Upaniṣads:
+
+> परं मृत्यो अनु परेहि पन्थां यस्ते स्व इतरो देवयानात् ।
+> *paraṃ mṛtyo anu parehi panthāṃ yas te sva itaro devayānāt |* (*Ṛ. Saṃ.* 10-18-1 as read)
+
+— in Ṛks such as this the *devayāna* is described as a path free from death; and in this path Savitṛ takes those of good deeds to a deathless meritorious world — it is so stated in the Ṛk-saṃhitā itself — so this sense also fits:
+
+> ये ते पन्थाः सवितः पूर्व्यासोऽरेणवः सुकृता अन्तरिक्षे ।
+> तेभिर्नो अद्य पथिभिः सुगेभी रक्षा च नो अधि च ब्रूहि देव ॥
+> *ye te panthāḥ savitaḥ pūrvyāso 'reṇavaḥ sukṛtā antarikṣe | tebhir no adya pathibhiḥ sugebhī rakṣā ca no adhi ca brūhi deva ‖* (*Ṛ. Saṃ.* 1-35-11 as read)" *(Kannada; the Sanskrit of the Ṛks is as read, not completed from memory.)*
+
+---
+
+**Progress note:** Printed pp. 1–513 done (PDF 21–533): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.15 complete (pp. 441–510); Rik 105.16 (printed pp. 511–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way at p. 513 (the *panthāḥ* topic; the Ṛk quotations end at the foot of p. 513 with Ṛ. 1-35-11). Next: printed p. 514 (PDF 534). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
