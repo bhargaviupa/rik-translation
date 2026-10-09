@@ -11442,16 +11442,115 @@ Grammar pages, noted briefly. They begin at the foot of p. 414 with *yuyopa* (ro
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)**
 
-*Yat* — when; *nīthā* — (the path that goes) leading to the Asura's house; *syā* — that road; *prati adarśi* — was seen (by us, then); *dasyoḥ* — of the Asura (named Kuyava); *sadanam* — the house; *jānatī* — the cow that recognizes her own calf; *oko na* — as she goes straight to her own cow-shed and reaches it; *accha gāt* — has been entered straight; *adha sma* — thereafter, immediately; *maghavan* — O wealthy Indra; *carkṛtāt* — from the oppression (of that demon who arises again and again); *naḥ* — us; *it* — (protect) wholly; *niṣṣapī* — the libertine, bereft of the wife [?]; *maghā iva* — as he throws away wealth (without regard); *naḥ* — us; *mā parā dāḥ* — do not abandon, neglecting [us].
+*Yat* — when; *nīthā* — (the path that goes) leading to the Asura's house; *syā* — that road; *prati adarśi* — was seen (by us, then); *dasyoḥ* — of the Asura (named Kuyava); *sadanam* — the house; *jānatī* — the cow that recognizes her own calf; *oko na* — as she goes straight to her own cow-shed and reaches it; *accha gāt* — has been entered straight; *adha sma* — thereafter, immediately; *maghavan* — O wealthy Indra; *carkṛtāt* — from the oppression (of that demon who arises again and again); *naḥ* — us; *it* — (protect) wholly; *niṣṣapī* — the libertine, bereft of virility (the Kannada word is read doubtfully; p. 419 explains *niṣṣapī* as one lacking virility) [?]; *maghā iva* — as he throws away wealth (without regard); *naḥ* — us; *mā parā dāḥ* — do not abandon, neglecting [us].
 
 **॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
 
-O Indra! The road that leads to the house of the Asura named Kuyava has become visible to us; swiftly, as a cow that has recognized her calf goes straight to her cow-shed, we have entered his house. Therefore, from the oppression of that demon who comes into being again and again, protect us wholly. As a libertine, bereft of his wife, flings away his wealth without regard, you, too, do not abandon us without regard.
+O Indra! The road that leads to the house of the Asura named Kuyava has become visible to us; swiftly, as a cow that has recognized her calf goes straight to her cow-shed, we have entered his house. Therefore, from the oppression of that demon who comes into being again and again, protect us wholly. As a libertine, bereft of virility (so p. 419 explains the word), flings away his wealth without regard, you, too, do not abandon us without regard.
 
 **English Translation (as printed in the source; misprints marked [sic])**
 
 "Since the track that leads to the dwelling of the Dasyu has been seen by us, as a cow knows the way to her stall, therefore do you, Maghavan, ( defend us ) from his repeated violence ; do not cast us away as [the scan is blurred here: "11 a" / "as"] a libertine throws away wealth."
 
 ---
+### Page 418 (PDF 438)
 
-**Progress note:** Printed pp. 1–417 done (PDF 21–437): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.5 complete up to the Special Topics of 104.5 (pp. 395–417): Rik 104.4's Special Topics and grammar done (pp. 411–415); Rik 104.5 (printed pp. 416–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done (pp. 416–417). Next: printed p. 418 (PDF 438): the Special Topics of 104.5 (if any), grammar, then Riks 104.6–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 418; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+
+**॥ विशेषविषयगळು ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.5)**
+
+For this Ṛk, the explanation in Sāyaṇa's bhāṣya and that in Skandasvāmin's bhāṣya differ greatly. In Sāyaṇa's bhāṣya:
+
+**Nīthā syā** — "that road which leads to the Asura's house; **prati adarśi** — was seen by us (then); **jānatī** — the cow that has recognized her calf; **oko na** — as she goes straight to her own cow-pen and reaches it; **acchā gāt** — was entered by us" — so it is said. In Skandasvāmin's bhāṣya:
+
+> नीथा । स्तुतिरत्र नीथोच्यते ।
+> *nīthā | stutir atra nīthocyate |* "Nīthā: here praise is called *nīthā*."
+
+— "*nīthā* means 'praise' (*stuti*). Citing the Ṛk
+
+> प्र वामर्चन्त्युक्थिनो नीथाविदो जरितारः ।
+> *pra vām arcanty ukthino nīthāvido jaritāraḥ |* (*Ṛ. Saṃ.* 2-[?]-[?] as read [?])
+
+he has shown how, in that Ṛk, the word *nīthā* has the sense 'hymn' (*stotra*), and that here too the sense is 'hymn'. Accordingly: *stutiḥ pratyadarśi — asmābhir vyaṣṭā* [as read]: 'when it was seen by us' — that is, when, having reflected, we composed a praise worthy of you, considering how to worship you with a hymn that is worthy; *dasyor oko na* —
+
+> यथा कश्चित्क्षत्रजा [?] स्वस्य शत्रोर्निवासस्थानमाप्तुं महता यत्नेन शीघ्रं गच्छेत् एवं सदनं सर्वस्तुतीनां स्थानमाश्रयं भवन्तं जानती गात् ।
+> *yathā kaścit kṣatrajā [?] svasya śatror nivāsasthānam āptuṃ mahatā yatnena śīghraṃ gacchet evaṃ sadanaṃ sarvastutīnāṃ sthānam āśrayaṃ bhavantaṃ jānatī gāt |* *(as read; the word "kṣatrajā" and the verbal forms are doubtful [?])*
+
+'As some valiant king of the kṣatriya birth, the moment he has recognized the dwelling-place of his enemy, goes there swiftly with all his effort and reaches it, so our hymns, too, with every kind of praise, come with all effort to you, who are the abode and refuge of all praises, and reach you.' Thus he has shown a comparison (*upamāna*–*upameya*).
+
+"After that, in *adha sma maghavan carkṛtāt naḥ it*: Sāyaṇa says *adha sma* = *athānantarameva*; *carkṛtāt* = *punaḥ punas tenāsureṇa kṛtād upadravāt* — hence the explanation, 'from the oppression of that demon who arises again and again, protect us at once, wholly'. Skandasvāmin: *naḥ — tṛtīyārthe ṣaṣṭhī | asmābhiḥ carkṛtāt — atyartham kṛtāt | sāmarthyād aparādhāt |* (Sanskrit as read [?]) *mā naḥ parā dāḥ |* 'from the offence done in excess by us' — 'do not abandon us on account of the offence done by us, and let us not perish' — such is the explanation he gives. Further, as for *niṣṣapī maghā iva*, the two have explained the comparison in one and the same way." (Kannada.)
+
+"Here, although the sense 'what leads' (*prāpaka*) for *nīthā* is right, as a synonym for *stuti* this word is used with the sense of a praise that brings its fruit, a praise of the sense 'pervading' [?]. For example, as in the Saṃhitā sentence cited by Skandasvāmin above —
+
+> एता विश्वा विदुषे तुभ्यं वेधो नीथान्यग्ने निण्या वचांसि ।
+> *etā viśvā viduṣe tubhyaṃ vedho nīthāny agne ninyā vacāṃsi |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+---
+
+### Page 419 (PDF 439)
+
+*(Running head: left "A. 1 A. 7 Va. 1[?]"; centre "Ṛgvedasaṃhitā"; right 419.)*
+
+"— in this Ṛk, in the śruti itself, the construction is *phalaprāpakāṇi stotravākyāni* ('hymn-sentences that bring the fruit'). And in
+
+> उक्थ उक्थे सोम इन्द्रं ममाद नीथेनीथे मघवानं सुतासः ।
+> *uktha uktha soma indraṃ mamāda nīthe-nīthe maghavānaṃ sutāsaḥ |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> बळस्य नीथा वि पणेश्च मन्महे वयो अस्य प्रहुता असुरत्वे ।
+> *baḷasya nīthā vi paṇeś ca manmahe vayo asya prahutā asuratve |* (*Ṛ. Saṃ.* 10-[?]3-[?] as read [?]; the first word as printed, not corrected)
+
+— in these Ṛks, expressly, 'praise' (*stuti*) and 'the intelligence that accomplishes praise' (*stutisādhaka prajñā*) are the meanings. So, in the Ṛk at hand also, it can be taken as 'hymn'. Then Skandasvāmin's explanation fits the context better." (Kannada.)
+
+**Niṣṣapī** — "since the Nirukta-author has given a detailed derivation of this word, both bhāṣya-writers too have followed that explanation. According to the Nirukta-author's derivation:
+
+> निष्षपी स्त्रीकामो भवति विनिर्गतपसाः । सपः सपतेः स्पृशतिकर्मणः । मा नो मघेव निष्षपी परा दाः ।
+> *niṣṣapī strīkāmo bhavati vinirgatapasāḥ | sapaḥ sapateḥ spṛśatikarmaṇaḥ | mā no maghe[va] niṣṣapī parā dāḥ |* (*Ni.* 5-[?]-[?] as read [?])
+
+From the root *sap*, which gives the sense of touching, the word *sapa*, formed in the negative (*niḥ*), means 'virility, strength, or potency'. *Niṣṣapī* means a libertine without potency, who, without any care, delivers his wealth into the possession of a courtesan: the intention is 'do not neglect us and give us over into the hands of our enemies'. Both bhāṣya-writers have followed this derivation. The Nirukta-author, citing the very Ṛk at hand, has explained the word *niṣṣapī* here." (Kannada.)
+
+**Mā parā dāḥ** — *mā parityākṣīḥ |* "do not abandon us, leaving us".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.5)** *(grammar pages, pp. 419–420, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Nīthā* (root *ṇīñ prāpaṇe*; the suffix *kthan* in the sense of the instrument, by *hani-kuṣi-nī-rami-kāśibhyaḥ kthan*, Uṇ. 2-[?] as read [?]; as *kit*, no *guṇa*; feminine *ṭāp* by *ajādyatas ṭāp*; initial acute by *ñnityādir nityam*). *Adarśi* (root *dṛśir prekṣaṇe*; *luṅ*, passive, third person singular *ta*; *ciṇ* by *ciṇ bhāvakarmaṇoḥ*, Pā. Sū. 3-1-66 as read [?]; *guṇa* of the light penult; *luk* of *ta* by *ciṇo luk*, Pā. Sū. 6-4-104 as read [?]; the *aṭ*-augment; no *nighāta* because of the *yad*-connection; *aṭ* being acute, the initial acute). *Accha* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?], lengthening in the Saṃhitā).
+
+---
+
+### Page 420 (PDF 440)
+
+*(Running head: left 420; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+
+The grammar of Rik 104.5 continues (noted briefly): *gāt* (root *iṇ gatau*; *luṅ*, *tip*; *itaś ca*, Pā. Sū. 3-4-100 as read [?]; *iṇo gā luṅi*, Pā. Sū. 2-4-45 as read [?]; *cli* → *sic*; *luk* by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*, Pā. Sū. 2-4-77 as read [?]; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*, Pā. Sū. 6-4-75 as read [?]; *nighāta* because it follows a non-verb); *adha* (from *atha*, by *varṇavyatyaya* *th* → *dh*); *carkṛtāt* (root *ḍukṛñ karaṇe*; *yaṅ* by *dhātor ekāco…*; *luk* of *yaṅ* by *yaño 'ci ca*, Pā. Sū. 2-4-74 as read [?]; *niṣṭhā*, Pā. Sū. 3-2-102 as read [?], giving *kta*; accent of the suffix, ending acute; fifth case singular); *maghā-iva* (the neuter plural *śi*; loss by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]); *niṣṣapī* (root *sap samavāye*: *sapati samaveti yonyāṃ saṃgacchate iti sapaḥ śepaḥ*; *ac* by *nandigrahapacādibhyo lyuṇinyacaḥ*, Pā. Sū. 3-1-134 as read [?]; *nirgato nityoddhṛtaḥ sapaḥ śepo yasya sa strīvyasanī niṣṣapaḥ*; *ī* in the Veda by *varṇavyatyaya*; accent by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]); *dāḥ* (root *ḍudāñ dāne*; *luṅ*, second person singular *sip*; *itaś ca*; *sic* and *luk* as above; *ru*-visarga; *na māṅyoge*, Pā. Sū. 6-4-74 as read [?], no *aṭ*; *nighāta*). The Rik is closed with *‖ 5 ‖* and an ornament.
+
+---
+
+## Rik 104.6 — printed pp. 421–[?]
+
+### Page 421 (PDF 441)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 421.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.6)**
+
+> स त्वं न इन्द्र सूर्ये सो अप्स्वनागास्त्व आ भज जीवशंसे ।
+> मान्तरां भुजमा रीरिषो नः श्रद्धितं ते महत इन्द्रियाय ॥ ६ ॥
+
+*sa tvaṃ na indra sūrye so apsv anāgāstva ā bhaja jīvaśaṃse | māntarāṃ bhujam ā rīriṣo naḥ śraddhitaṃ te mahata indriyāya ‖ 6 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.6)**
+
+> सः । त्वम् । नः । इन्द्र । सूर्ये । सः । अप्ऽसु । अनागाःऽत्वे । आ । भज । जीवऽशंसे ।
+> मा । अन्तराम् । भुजम् । आ । रिरिषः । नः । श्रद्धितम् । ते । महते । इन्द्रियाय ॥ ६ ॥
+
+*saḥ | tvam | naḥ | indra | sūrye | saḥ | ap-su | anāgāḥ-tve | ā | bhaja | jīva-śaṃse | mā | antarām | bhujam | ā | rīriṣaḥ | naḥ | śraddhitam | te | mahate | indriyāya ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.6)**
+
+> हे इन्द्र स त्वं सोऽस्मान् सूर्ये सर्वस्य प्रेरक आदित्ये आ भज । आभाजय । आभिमुख्येन भक्तान् कुरु । तथा स त्वमप्स्ववस्थितास्वस्मानाभाजय । अपि च जीवशंसे जीवैः प्राणिभिः शंसनीये कामयितव्येऽनागास्त्वेऽपापत्वे पापराहित्येऽस्मानाभाजय । अपि च नोऽस्माकमन्तरां गर्भरूपेणान्तर्वर्तमानां भुजं पालयित्रीं प्रजामा हिंसीः । मा हिंसीः । ते तव महते प्रभूतायेन्द्रियाय बलाय श्रद्धितम् । अस्माभिः श्रद्धानं कृतम् । त्वदीयं बलं बहुमानपूर्वकं स्तुम इत्यर्थः । तस्मात्त्वादृशबलयुक्तस्त्वं मा रीरिष इति पूर्वेण संबन्धः ॥ अनागास्त्वे । न विद्यते आगः पापं यस्य सोऽनागाः । तस्य भावस्त्वम् । छान्दस उपधादीर्घः । जीवशंसे । शन्स्तुतौ । कर्मणि घञ् । थाथादिनोत्तरपदान्तोदात्तत्वम् । भुजम् । भुनक्ति पालयतीति भुक् प्रजा । क्विप् । रीरिषः । रिष हिंसायाम् ।
+> *he indra sa tvaṃ so 'smān sūrye sarvasya preraka āditye ā bhaja | ābhājaya | ābhimukhyena bhaktān kuru | tathā sa tvam apsv avasthitāsv asmān ābhājaya | api ca jīvaśaṃse jīvaiḥ prāṇibhiḥ śaṃsanīye kāmayitavye 'nāgāstve 'pāpatve pāparāhitye 'smān ābhājaya | api ca no 'smākam antarāṃ garbharūpeṇāntarvartamānāṃ bhujaṃ pālayitrīṃ prajām ā hiṃsīḥ | mā hiṃsīḥ | te tava mahate prabhūtāyendriyāya balāya śraddhitam | asmābhiḥ śraddhānaṃ kṛtam | tvadīyaṃ balaṃ bahumānapūrvakaṃ stuma ity arthaḥ | tasmāt tvādṛśabalayuktas tvaṃ mā rīriṣa iti pūrveṇa saṃbandhaḥ ‖ anāgāstve | na vidyate āgaḥ pāpaṃ yasya so 'nāgāḥ | tasya bhāvas tvam | chāndasa upadhādīrghaḥ | jīvaśaṃse | śans stutau | karmaṇi ghañ | thāthādinottarapadāntodāttatvam | bhujam | bhunakti pālayatīti bhuk prajā | kvip | rīriṣaḥ | riṣa hiṃsāyām |* *(Sanskrit as read; the words "apāpatve" and the accent-sūtra "thāthādi…" are read with some doubt [?]; the bhāṣya continues on p. 422.)*
+
+"O Indra, you, that same one, grant us a share (*ā bhaja*, make us share) in Sūrya, the sun, the impeller of all: make us devoted [to it] face to face. So too make us share in the waters. And further: in the state of sinlessness (*anāgāstve*), freedom from sin, which is to be praised and desired by living beings (*jīva-śaṃse*), make us share. Further, do not injure (*mā hiṃsīḥ*) our offspring, that is within us in the form of an embryo and sustains [us] (*bhujam*): do not harm [it]. For your great, abundant strength (*indriya*) we have put our faith (*śraddhitam*): we have put trust; the meaning is that we praise your strength with high regard. Therefore you, who have such strength, must not harm [us] — so the connexion with what precedes. *Anāgāstve*: he in whom there is no *āgas*, sin, is *anāgāḥ*; its state is *anāgāstva*; the lengthening of the penult is Vedic. *Jīvaśaṃse*: root *śans*, in praise; the suffix *ghañ* in the passive; the final acute of the latter member [by a *thāthādi* rule]. *Bhujam*: *bhunakti pālayatīti bhuk*, offspring; *kvip*. *Rīriṣaḥ*: root *riṣ*, in harming."
+
+---
+
+**Progress note:** Printed pp. 1–421 done (PDF 21–441): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.5 complete (pp. 395–420); Rik 104.6 (printed pp. 421–[?]): Saṃhitā, Pada and the first part of the bhāṣya done (p. 421). Next: printed p. 422 (PDF 442): the bhāṣya of 104.6 concludes, then Pratipadārtha, Bhāvārtha, English, Special Topics, grammar, then Riks 104.7–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
