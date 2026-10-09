@@ -18144,5 +18144,128 @@ The Nirukta explains this Ṛk thus:
 *(the passage continues on p. 677)*
 
 ---
+### Page 677 (PDF 697)
 
-**Progress note:** Printed pp. 1–676 done (PDF 21–696): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Riks 110.1–110.3 complete (pp. 657–674); Rik 110.4 (printed pp. 674–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun (the Nirukta explanation; *vāghataḥ*), ending mid-sentence at the foot of p. 676. Next: printed p. 677 (PDF 697). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 677.)*
+
+*(The Special Topic on* vāghataḥ *continues:)* "…as is explained. But in the Nirukta it is said *voḍhāro medhāvino vā* ['bearers, or wise ones']. On *voḍhāraḥ* Durgācārya has: *yajñasyānuṣṭhātāraḥ* — those who perform the sacrifice; or *medhāvinaḥ* — 'for those who are not wise are not able to complete all the works within a single year' (*na hy amedhāvinaḥ saṃvatsareṇa sakalaṃ karma samāpayituṃ śaktāḥ*): that is, he explains that they are those who have the power to carry out all the works within one year."
+
+**विष्ट्वी — Viṣṭvī.** "This word is read among the [thirty-?] names of 'work' (*Ni.* 2-1 as read [?]). But *viṣṭvī* is not a name of work, for it would then repeat *śamī*:
+
+> विष्ट्वीति न कर्मनाम । शमीत्येतेन पौनरुक्त्यप्रसङ्गात् । किं तर्हि । विशेषार्थप्राप्त्यर्थस्य क्रियाशब्दोऽयं विष्ट्वीति । विष्ट्वा व्याप्त्वा । कृत्वा इत्यर्थः ।
+> *viṣṭvīti na karmanāma | śamīty etena paunaruktyaprasaṅgāt | kiṃ tarhi | viśeṣārthaprāptyarthasya kriyāśabdo 'yaṃ viṣṭvīti | viṣṭvā vyāptvā | kṛtvā ity arthaḥ |*"
+> "*Viṣṭvī* is not a name of work, since it would be a repetition with *śamī*. What then? This *viṣṭvī* is a verb-word for obtaining a particular sense: *viṣṭvā*, having pervaded; that is, having done."
+
+The Kannada adds: the word which is read among the names of work is here used again, for the sake of a special sense — to say that [the work is] extended through to completion — with the *ktvā* form of the root *viṣḷ* [*viṣ*], 'to pervade'; "so the commentators explain it as: having carried out [the works] to completion."
+
+**शमी — Śamī.** "This word too is read among the names of work (*Ni.* 2-1 as read [?]): *yogadānādīni karmāṇi* — works such as *yoga* [sacrificial union?] and giving. Elsewhere also: 'make the one cup into four' (*ekaṃ camasaṃ caturaḥ kṛṇotana*, *Ṛ.* 1-161-2 as read [?]) and so on — works enjoined by the gods." Here 'work' means sacrificial rites and the works prayed for by the gods, such as 'Make the one cup into four.'
+
+**सूरचक्षसः — Sūracakṣasaḥ.** *sūryasamānaprakāśaḥ sūryasadṛśajñānā vā* — those with a radiance equal to the sun, or those with knowledge like the sun. "For the word *ṛbhu*, *uru bhāsamāno medhāvī vā*: 'greatly shining, or wise.' For example:
+
+> त्वमग्न ऋभुराके नमस्यस्त्वं वाजस्य क्षुमतो राय ईशिषे ।
+> *tvam agna ṛbhurāke namasyas tvaṃ vājasya kṣumato rāya īśiṣe |*
+> (*Ṛ.* 2-1-10 as read [?])
+> "You, O Agni, are to be revered, an Ṛbhu near at hand; you rule over [food] abounding in strength and over wealth." *(mine and tentative)*
+
+In this Ṛk the word *ṛbhu* applied to Agni gives the above meaning as an epithet; in the Ṛk before us the epithet *sūracakṣasaḥ* shows this quality of the Ṛbhus."
+
+**धीतिभिः — Dhītibhiḥ.** *agniṣṭomādikarmabhiḥ* — 'with rites such as the Agniṣṭoma' is the sense here. The word *dhīti* has two meanings, 'work' and 'wisdom' (*prajñā*). In the Nirukta it is read also among the names of the fingers (*Ni.* 2-5 as read [?]); the Nirukta-writer has cited two other Ṛks for the two senses, 'work' and 'wisdom':
+
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ।
+> *pārāvataghnīm avase suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ |*
+> (*Ṛ.* 6-61-2 as read [?])
+> "We would approach Sarasvatī, the slayer of the far-off [?], for help, with good praises, with [works / acts of worship]." *(mine and tentative)*
+
+In this Ṛk *dhītibhiḥ* means *karmabhiḥ*, 'with works'; and in
+
+> ऋतस्य हि शुरुधः सन्ति पूर्वीर्ऋतस्य धीतिर्वृजिनानि हन्ति ।
+> *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti |*
+> (*Ṛ.* 4-23-8 as read [?])
+> "For the streams / sources of *ṛta* are many and of old; the *dhīti* of *ṛta* destroys crookednesses." *(mine and tentative)*
+
+*(the passage continues on p. 678)*
+
+---
+
+### Page 678 (PDF 698)
+
+*(Running head: left 678; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(Continuing:)* "…in this Ṛk the Nirukta-writer gives *prajñā*, 'wisdom', as the meaning of *dhīti*. In the sense of 'praise' too, this word is used in some places."
+
+**समपृच्यन्त — Samapṛcyanta.** *saṃyuktā abhavan | havirbhāgārhā babhūvuḥ |* "They became joined; they became fit for a share of the oblation." To say that they obtained union with works means that they obtained eligibility to receive the oblations.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.4)** *(grammar page, noted briefly; sūtra numbers are given only where read and are doubtful [?])*
+
+*Viṣṭvī*: root *viṣḷ*, 'to pervade'; the suffix *ktvā* by *samānakartṛkayoḥ pūrvakāle* (*pā.* 3-4-21 as read [?]); for it the substitute *īkāra* by *snātvyādayaś ca* (*pā.* 7-1-49 as read [?]); *ṭ* for the *t* of the suffix, so that the accent falls on the end [?]. *Martāsaḥ*: *asuk* augment by *ājjaser asuk* (*pā.* 7-1-50 as read [?]). *Śamī*: loss of *śas* by *supāṃ suluk…* (*pā.* 7-1-39 as read [?]). *Ānaśuḥ*: root *aśū vyāptau*; parasmaipada through *vyatyayo bahulam* (*pā.* 3-1-85); *us* in the third-person plural of the perfect by *parasmaipadānām…* (*pā.* 3-4-82 as read [?]); reduplication, remainder; *nuṭ* by *aśnoteś ca* (*pā.* 7-4-72 as read [?]); lengthening of the reduplicant by *āta ādeḥ* [?]; the form *ānaśuḥ*, with *nighāta* accent as it follows a [word ending in a] verb-ending. *Apṛcyanta*: root *pṛcī saṃparke*; *laṅ* in the passive; *ātmanepada* by *bhāvakarmaṇoḥ* (*pā.* 1-3-13 as read [?]), so the suffix *yak* by *sārvadhātuke yak* (*pā.* 3-1-67 as read [?]); the ending *anta* [for *jhi*] by *jho 'ntaḥ*; *a-ḍ* augment; the form *apṛcyanta*, the accent falling on the verb by *tiṅ atiṅaḥ* [?]. ‖ 4 ‖
+
+*(An ornamental rule closes Ṛk 110.4 and its commentary. Nothing else on this page.)*
+
+---
+
+### Page 679 (PDF 699)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 679.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.5)** *(accent-marks not reproduced; printed Kannada script)*
+
+> क्षेत्रमिव वि ममुस्तेजनेनैकं पात्रमृभवो जेहमानम् ।
+> उपस्तुता उपमं नाधमाना अमर्त्येषु श्रव इच्छमानाः ॥ ५ ॥
+> *kṣetram iva vi mamus tejanenaikaṃ pātram ṛbhavo jehamānam |*
+> *upastutā upamaṃ nādhamānā amartyeṣu śrava icchamānāḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.5)**
+
+> क्षेत्रम्ऽ इव । वि । ममुः । तेजनेन । एकम् । पात्रम् । ऋभवः । जेहमानम् । उपऽस्तुताः । उपऽमम् । नाधमानाः । अमर्त्येषु । श्रवः । इच्छमानाः ॥ ५ ॥
+> *kṣetram iva | vi | mamuḥ | tejanena | ekam | pātram | ṛbhavaḥ | jehamānam | upa-stutāḥ | upa-mam | nādhamānāḥ | amartyeṣu | śravaḥ | icchamānāḥ ‖ 5 ‖*
+
+*(The first word is printed with a small sign after* kṣetram *in the Pada, as for avagraha; recorded as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.5)**
+
+> उपस्तुताः समीपस्थैर्ऋत्विभिः स्तुता ऋभवो जेहमानं होमक्रियां प्रति प्रयतमानमेकमसहायं पात्रं पानसाधनं त्वष्ट्रा निर्मितं चमसं मानदण्डेन क्षेत्रमिव भूमिमिव तेजनेन तीक्ष्णेन शस्त्रेण चमसचतुष्टयरूपेण कर्तुं वि ममुः विशेषेण मानं कृतवन्तः । किमिच्छन्तः । उपमं सर्वेषामुपमानभूतं [?] प्रशस्तं सोमलक्षणमन्नं नाधमानाः याचमानाः । एतदेव विव्रुणोति । अमर्त्येषु मरणरहितेषु देवेषु मध्ये श्रवो हविर्लक्षणमन्नमिच्छमाना इच्छन्तः । देवैः सह सोमपानं कामयमानास्तल्लाभाय चतुरश्चमसानकार्षुरित्यर्थः ॥
+> *upastutāḥ samīpasthair ṛtvigbhiḥ stutā ṛbhavo jehamānaṃ homakriyāṃ prati prayatamānam ekam asahāyaṃ pātraṃ pānasādhanaṃ tvaṣṭrā nirmitaṃ camasaṃ mānadaṇḍena kṣetram iva bhūmim iva tejanena tīkṣṇena śastreṇa camasacatuṣṭayarūpeṇa kartuṃ vi mamuḥ viśeṣeṇa mānaṃ kṛtavantaḥ | kim icchantaḥ | upamaṃ sarveṣām upamānabhūtaṃ [?] praśastaṃ somalakṣaṇam annaṃ nādhamānāḥ yācamānāḥ | etad eva vivṛṇoti | amartyeṣu maraṇarahiteṣu deveṣu madhye śravo havirlakṣaṇam annam icchamānā icchantaḥ | devaiḥ saha somapānaṃ kāmayamānās tallābhāya caturaś camasān akārṣur ity arthaḥ ‖*
+
+"*Upastutāḥ*: praised by the priests who stood near; the Ṛbhus, *jehamānam*, striving towards the act of oblation, the single, unaided cup, the vessel for drinking made by Tvaṣṭṛ — the *camasa* — *vi mamuḥ*: they measured out specially, with a measuring-rod as one [measures] a field, a piece of land: with a sharp *tejana*, a weapon, so as to make [it] into the form of four *camasa*s. Desiring what? *Upamam*: the best, the model of all [?], the praised food of the nature of Soma, *nādhamānāḥ*: asking for. This itself he [the Ṛṣi] makes plain: *amartyeṣu*, among the gods free from death, *śravaḥ*, desiring food of the nature of oblation. Desiring to drink Soma with the gods, to obtain it they made four cups: this is the sense."
+
+*Grammatical tail (characterized; short):* *mamuḥ*: root *māṅ* in the senses of 'measure' and 'sound'; parasmaipada by *vyatyaya*. *Tejanena*: [an *anunāsika* rule, *pā.* 6-1-[?], by which, by *vyatyaya*, in the singular the *a* receives nasalization — as read, and doubtful]; *īṣā* is of the *akṣādi* class [?], so the *prakṛtibhāva*. *Jehamānam*: roots *vehṛ*, *jehṛ*, *vāhṛ* in the sense of 'to strive'; of the *bhvādi* class; *ātmanepada* because of the *anudātta* [marker] *ṅ*/*it* [?]. *Upastutāḥ*: by *gatir anantaraḥ* the first member keeps its own accent. *Upamam*: root *māṅ* 'to measure'; *ātaś copasarge* — the suffix *ka*. *Icchamānāḥ*: *ātmanepada* by *vyatyaya*. ‖
+
+---
+
+### Page 680 (PDF 700)
+
+*(Running head: left 680; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.5; Kannada; English)**
+
+*Upamam* — (best of all, as a model) excellent and of the nature of Soma-juices, that food; *nādhamānāḥ* — those who pray [for it]; *amartyeṣu* — among the gods who are free from death; *śravaḥ* — food in the form of oblations; *icchamānāḥ* — those who desire it, too; *upastutāḥ* — (praised by the *ṛṣis* who stood near); *ṛbhavaḥ* — the Ṛbhus; *jehamānam* — (in the work of the oblation) striving [= eager]; *ekam* — single, one only; *pātram* — (made by Tvaṣṭṛ) the cup-vessel; *kṣetram iva* — (with the measuring-rod) as one measures a field and shares it out; *tejanena* — with a sharp weapon; *vi mamuḥ* — measured it out specially and shared it out.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Praying for the best of all, food in the form of Soma-juices, and desiring among the death-free gods food in the form of oblations, the Ṛbhus, praised by the *ṛṣis* who stood near, measured out specially, with a sharp weapon, the single cup made by Tvaṣṭṛ, which was eager [?] in the work of oblation, as one measures a field with a rod and shares it out. (They made four vessels.)
+
+**English Translation (as printed in the source)**
+
+"Lauded by the bystanders, the Ribhus, with a sharp weapon, meted out the single sacrificial ladle like a field (measured by a rod), soliciting the best (libations), and desiring (to participate of) sacrificial food amongst the gods."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.5)**
+
+**जेहमानम् — Jehamānam.** "The word *jehate* is read among the names of 'going' (*Ni.* 2-[?]); it is derived from the root *jehṛ*, which gives the sense of 'to strive' and 'to rise up' (*udvisu*), and the sense follows the context. For example:
+
+> शिरो अपश्यं पथिभिः सुगेभिररेणुभिर्जेहमानं पतत्रि ।
+> *śiro apaśyaṃ pathibhiḥ sugebhir areṇubhir jehamānaṃ patatri |*
+> (*Ṛ.* 1-163-6 as read [?])
+> "I saw [its] head [of the horse] speeding along easy, dustless paths, a flier." *(mine and tentative)*
+
+In this Ṛk the sense is 'pervading'; and in
+
+> अस्य शुष्मासो ददृशानसवेर्जेहमानस्य स्वनयन्नियुद्भिः ।
+> *asya śuṣmāso dadṛśānasaver jehamānasya svanayan niyudbhiḥ |*
+> (*Ṛ.* 10-[?]-[?] as read [?])
+> *(Sanskrit as read from the print; clotted in places [?], not completed from memory; no gloss attempted.)*
+
+*(the passage continues on p. 681)*
+
+---
+
+**Progress note:** Printed pp. 1–680 done (PDF 21–700): Sūkta 110: Riks 110.1–110.4 complete (pp. 657–678); Rik 110.5 (printed pp. 679–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics begun on *jehamānam*, ending mid-passage at the foot of p. 680. Next: printed p. 681 (PDF 701). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
