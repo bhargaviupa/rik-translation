@@ -17170,5 +17170,111 @@ The grammar of Rik 109.3 concludes. *Madanti* (root *madi stutau*; although it i
 > *he indrāgnī yuvābhyāṃ madāya yuvayor harṣāya devī dyotamānośatī yuvāṃ kāmayamānā dhiṣaṇā mantrarūpā vāk somam abhiṣuṇoti |* *(continued on p. 638)*
 
 ---
+### Page 638 (PDF 658)
 
-**Progress note:** Printed pp. 1–637 done (PDF 21–657): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.3 complete (pp. 621–637); Rik 109.4 (printed pp. 637–[?]): Saṃhitā, Pada and the first line of the bhāṣya done at the foot of p. 637. Next: printed p. 638 (PDF 658). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 638; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ सायणभाष्यम् ॥ (Rik 109.4), continued**
+
+> …यद्वा । धिषणाधिषवणफलकं । द्योतमानं तद्युवयोर्मदं कामयमानं सत्सोममभिषुणोति । ग्रावभिः स्वस्मिन्नभिषवमात्र्यस्याभिषवकर्तृत्वम् । अश्विनौ अश्वन्तौ भद्रहस्ता शोभनदोर्दण्डौ सुपाणी । मणिबन्धादूर्ध्वभागः पाणिः । शोभनपाणी एवंभूतौ हे इन्द्राग्नी तौ युवामा धावतं । शीघ्रमागच्छतम् । आगत्य चाप्सूदकेषु वर्तमानेन मधुना माधुर्योपेतेन सारांशेन पृङ्क्तम् । अस्मदीयं सोमं संयोजयतम् । यद्वा । अप्सु वसतीवरीषु मधुना माधुर्यं संयोजयतम् । विभक्तिव्यत्ययः ॥ युवाभ्याम् । षष्ठ्यर्थे चतुर्थी । उशती । वश कान्तौ । अदादित्वाच्छपो लुक् । ग्रहिज्यादिना संप्रसारणं । उगितश्चेति ङीप् । शतुरनुम इति नद्या उदात्तत्वम् । पृङ्क्तम् । पृची संपर्के । रौधादिकः । लोटि थस्तम् । श्नसोरल्लोपः । अनुस्वारपरसवर्णौ । न चाचः परस्मिन्निति ल्लोपस्य स्थानिवत्त्वं न पदान्तेत्यादिना निषेधात् ॥
+> *…yadvā | dhiṣaṇādhiṣavaṇaphalakaṃ | dyotamānaṃ tad yuvayor madaṃ kāmayamānaṃ sat somam abhiṣuṇoti | grāvabhiḥ svasminn abhiṣavamātryasyābhiṣavakartṛtvam | aśvinau aśvantau bhadrahastā śobhanadordaṇḍau supāṇī | maṇibandhād ūrdhvabhāgaḥ pāṇiḥ | śobhanapāṇī evaṃbhūtau he indrāgnī tau yuvām ā dhāvataṃ | śīghram āgacchatam | āgatya cāpsūdakeṣu vartamānena madhunā mādhuryopetena sārāṃśena pṛṅktam | asmadīyaṃ somaṃ saṃyojayatam | yadvā | apsu vasatīvarīṣu madhunā mādhuryaṃ saṃyojayatam | vibhaktivyatyayaḥ ‖ yuvābhyām | ṣaṣṭhyarthe caturthī | uśatī | vaśa kāntau | adāditvāc chapo luk | grahijyādinā saṃprasāraṇaṃ | ugitaś ceti ṅīp | śatur anuma iti nadyā udāttatvam | pṛṅktam | pṛcī saṃparke | raudhādikaḥ | loṭi thastam | śnasor allopaḥ | anusvāraparasavarṇau | na cācaḥ parasminn iti llopasya sthānivattvaṃ na padāntety ādinā niṣedhāt ‖* *(Sanskrit as read; the whole passage is crowded in print and given with some doubt [?], especially "grāvabhiḥ svasminn abhiṣavamātryasyābhiṣavakartṛtvam" [?]; the tail is short and given.)*
+
+"Or else: [*dhiṣaṇā* is] the pressing-board; shining, wishing that delight of you two, it presses Soma; with the stones, in itself [?]: the quality of being the doer of the pressing. *Aśvinā*: having horses (*aśvantau*); *bhadrahastā*: with handsome arms; *supāṇī*: with graceful hands (*pāṇi* is the part above the wrist): such being, O Indra and Agni, you two, *ā dhāvatam*: come quickly; and, having come, mix (*pṛṅktam*) [the Soma] with the sweetness (*madhunā*) that is in the waters (*apsu*) — with the essence that has sweetness; combine our Soma; or else, in the *vasatīvarī* waters combine the sweetness; *vibhaktivyatyayaḥ*, a change of case. *Yuvābhyām*: the fourth case in the sense of the sixth. *Uśatī*: root *vaśa kāntau*; *luk* of *śap* by *adāditva*; *saṃprasāraṇa* by *grahijyā*…; *ṅīp* by *ugitaś ca*; the acute of the feminine *nadī* by *śatur anumo nadyajādī*. *Pṛṅktam*: root *pṛcī saṃparke* of the *rudhādi* class; *tam* for *thas* in the *loṭ*; loss of the *a* of *śnam* by *śnasor allopaḥ*; anusvāra and *parasavarṇa*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.4; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *yuvābhyām* — for you both; *madāya* — for [your] delight (for satisfaction); *devī* — shining; *uśatī* — desiring your presence; *dhiṣaṇā* — the speech in the form of a mantra, or the vessel [pressing-board] that holds the Soma-juice; *somam* — the Soma-juice; *sunoti* — has pressed and offers; *aśvinā* — you who have horses; *bhadrahastā* — with beautiful arms; *supāṇī* — with attractive hands; O Indra and Agni, *tau* — you both; *ā dhāvatam* — come swiftly (afterwards); *apsu* — [in the waters] (that were brought the day before the Soma sacrifice and are kept standing); *madhunā* — with sweetness; *pṛṅktam* — (mix) our Soma-juice.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni! In order to give you both delight, our word in the form of a mantra, shining and desiring your presence, offers you the Soma-juice. O Indra and Agni, who have horses, handsome arms and attractive hands, both of you come together quickly. Afterwards, with the sweetness of the waters that have been brought for the Soma sacrifice, mix the sweetness of our Soma-juice.
+
+**English Translation (as printed in the source)**
+
+"The sacred prayer, desiring your presence, offers to you both, Indra and Agni, for your exhilaration, the Soma libation ; do you two, who have *(continued on p. 639)*
+
+---
+
+### Page 639 (PDF 659)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 639.)*
+
+"— horses, handsome arms, and graceful hands, come quickly and mix (the libation) with sweetness in the waters."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.4)**
+
+**Devī dhiṣaṇā** — "as in the previous Ṛk, here too two meanings have been given for the word *dhiṣaṇā*: one, 'speech in the form of a mantra, shining' (*dyotamānā mantrarūpā vāk*); the other, 'the shining pressing-board' (*dyotamānaṃ dhiṣaṇācarmu*).
+
+**Aśvinā** — "*aśvantau* — those who have excellent horses. The horses of Indra and Agni are praised in many places as being exceedingly attractive and as endowed with great strength, and as swift. The passages that describe the chariot and horses of Indra also describe his power.
+
+> आ द्वाभ्यां हरिभ्यामिन्द्र याह्या चतुर्भिरा षड्भिर्हूयमानः ।
+> आष्टाभिर्दशभिः सोमपेयमयं सुतः सुमख मा मृधस्कः ॥
+> *ā dvābhyāṃ haribhyām indra yāhy ā caturbhir ā ṣaḍbhir hūyamānaḥ | āṣṭābhir daśabhiḥ somapeyam ayaṃ sutaḥ sumakha mā mṛdhas kaḥ ‖* (*Ṛ. Saṃ.* 2-18-4 as read)
+
+> आ विंशत्या त्रिंशता याह्यर्वाङा चत्वारिंशता हरिभिर्युजानः ।
+> आ पञ्चाशता सुरथेभिरिन्द्राषष्ट्या सप्तत्या सोमपेयम् ॥
+> *ā viṃśatyā triṃśatā yāhy arvāṅ ā catvāriṃśatā haribhir yujānaḥ | ā pañcāśatā surathebhir indrāṣaṣṭyā saptatyā somapeyam ‖* (*Ṛ. Saṃ.* 2-18-5 as read)
+
+> आशीत्या नवत्या याह्यर्वाङा शतेन हरिभिरुह्यमानः ।
+> *āśītyā navatyā yāhy arvāṅ ā śatena haribhir uhyamānaḥ |* (*Ṛ. Saṃ.* 2-18-6 as read)
+
+— in many Ṛks such as these it is understood that the number of Indra's horses ranges from two to a thousand; the same is indicated in the Ṛks 8-1-24; 4-46-3; 8-1-[?]4 and others, which give these numbers. And not only these numbers —
+
+> आ मन्द्रैरिन्द्र हरिभिर्याहि मयूररोमभिः ।
+> *ā mandrair indra haribhir yāhi mayūraromabhiḥ |* (*Ṛ. Saṃ.* 3-45-1 as read)
+
+> आ त्वा रथे हिरण्यये हरी मयूरशेप्या ।
+> *ā tvā rathe hiraṇyaye harī mayūraśepyā |* (*Ṛ. Saṃ.* 8-1-25 as read)
+
+— in Ṛks such as these, the hair and the tails of Indra's horses are compared to a peacock's [plumes] and so described. And further —
+
+> घृतपृष्ठा मनोयुजो ये त्वा वहन्ति वह्नयः ।
+> *ghṛtapṛṣṭhā manoyujo ye tvā vahanti vahnayaḥ |* (*Ṛ. Saṃ.* 1-14-6 as read)" *(continued on p. 640)*
+
+---
+
+### Page 640 (PDF 660)
+
+*(Running head: left 640; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+> यदयुक्था अरुषा रोहिता रथे वातजूता वृषभस्येव ते रवः ।
+> *yad ayukthā aruṣā rohitā rathe vātajūtā vṛṣabhasyeva te ravaḥ |* (*Ṛ. Saṃ.* 1-14-10 as read [?]; the Ṛk is read as in the print, the last pāda doubtful [?])
+
+"— in Ṛks such as these, the horses of Agni and their form and speed are described; and for that very reason Indra and Agni together are addressed as *aśvinā*.
+
+**Bhadrahastā, supāṇī** — 'with excellent arms' and 'with the best hands': so.
+
+> आ धूर्ष्वस्मै दधाताश्वानिन्द्रो न वज्री हिरण्यबाहुः ।
+> *ā dhūrṣv asmai dadhātāśvān indro na vajrī hiraṇyabāhuḥ |* (*Ṛ. Saṃ.* 2-34-4 as read [?])
+
+> बृहदुक्तं हवामहे सृप्रकरस्नमूतये ।
+> *bṛhaduktaṃ havāmahe sṛprakarasnam ūtaye |* (*Ṛ. Saṃ.* 8-3[?]-10 as read [?]; the words as read, doubtful [?])
+
+— in Ṛks such as these and others, many descriptions of their arms and hands are found: they are indicated here."
+
+**Pṛṅktam apsu** — "famed as *vasatīvarī*, the waters brought on the previous night from various sacred places [and] kept standing for the sake of [the Soma sacrifice]: the intention is that, taking this Soma-juice along with the sweetness of those waters, [Indra and Agni] should increase their own sweetness and fragrance."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.4)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Yuvābhyām* (the word *yuṣmad*; the dative dual is here used in the sense of the sixth). *Uśatī* (root *vaśa kāntau*, *adādi*; the suffix *śatṛ* in the sense of *laṭ*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; since *śatṛ* is *apit*, treated as *ṅit* [*sārvadhātukam apit*, Pā. Sū. 1-2-4 as read [?]], by *grahijyāvayivyadhi…*, Pā. Sū. 6-1-16 as read [?], *saṃprasāraṇa* for the root; *pūrvarūpa*; the form *uśat*; since it is a feminine intended, *ṅīp* by *ugitaś ca*, Pā. Sū. 4-1-6 as read [?]; since *num* is absent in *śatṛ*, the *nadī*, by *śatur anumo nadyajādī*, Pā. Sū. 6-1-173 as read [?], gets the acute on the *ī*). *Sunoti* (root *ṣuñ abhiṣave*; *laṭ*, third person singular; since a verb follows a non-verb, *nighāta*). *Aśvinā* (since the dual follows, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; likewise for the endings in the following words).
+
+---
+
+### Page 641 (PDF 661)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 641. At the foot, the printer's signature "41 / VOLUME 8" [sic: as printed, noted only].)*
+
+The grammar of Rik 109.4 concludes. *Dhāvatam* (root *dhāvu gatiśuddhyoḥ*; *loṭ*, second person dual; since a verb follows a non-verb, *nighāta*). *Pṛṅktam* (root *pṛcī saṃparke*, *rudhādi*; *loṭ*, second person dual, *thas*; since *loṭ* is in place of *laṭ*, *lot* has *laṅ*-like treatment by *loṭo laṅvat*, Pā. Sū. 3-4-85 as read [?]; *tam* for *thas* by *tasthasthamipāṃ…*, Pā. Sū. 3-4-101 as read [?]; the vikaraṇa *śnam* by *rudhādibhyaḥ śnam*, Pā. Sū. 3-1-78 as read [?]; since the suffix is *ñit*-like, no *guṇa*; the loss of the *a* of the vikaraṇa by *śnasor allopaḥ*, Pā. Sū. 6-4-111 as read [?]; for the remaining *n*, anusvāra by *naś chavy apradāntasya jhali* [as printed: *naśchapadāntasya jhali*], Pā. Sū. 8-3-24 as read [?]; *parasavarṇa* by *anusvārasya yayi parasavarṇaḥ*, Pā. Sū. 8-4-58 as read [?]; *c* → *k* for the root's *c* by *coḥ kuḥ*, Pā. Sū. 8-2-30 as read [?]; since a vowel [? *ac*] that follows... [by *acaḥ parasmin pūrvavidhau*, Pā. Sū. 1-1-57 as read [?]] the substituted-form *sthānivadbhāva* would arise, but by *na padāntadvirvacana…*, Pā. Sū. 1-1-58 as read [?], it is prohibited in the rules of the *anusvāra* and *parasavarṇa* — so no fault arises in the anusvāra). *Apsu* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). The Rik is closed with *‖ 4 ‖* and a rule of dashes.
+
+## Rik 109.5 — printed pp. 641–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.5)**
+
+> युवामिन्द्राग्नी वसुनो विभागे तवस्तमा शुश्रव वृत्रहत्ये ।
+> तावासद्या बर्हिषि यज्ञे अस्मिन्प्र चर्षणी मादयेथां सुतस्य ॥ ५ ॥
+
+*yuvām indrāgnī vasuno vibhāge tavastamā śuśrava vṛtrahatye | tāvāsadyā barhiṣi yajñe asmin pra carṣaṇī mādayethāṃ sutasya ‖ 5 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "tāvāsadyā" and "pra carṣaṇī", the Pada "tau | ā-sadya" and "pra | carṣaṇī iti")*
+
+---
+
+**Progress note:** Printed pp. 1–641 done (PDF 21–661): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.4 complete (pp. 621–641); Rik 109.5 (printed pp. 641–[?]): Saṃhitā only, at the foot of p. 641. Next: printed p. 642 (PDF 662): the Pada of 109.5 and its bhāṣya etc.; then Riks 109.6–8. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
