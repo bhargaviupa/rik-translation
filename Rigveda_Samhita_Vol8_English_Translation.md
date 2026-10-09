@@ -11839,5 +11839,129 @@ The grammar of Rik 104.8 concludes (noted briefly). *Moṣīḥ* (root *muṣa s
 > *arvāṅ ehi somakāmaṃ tvāhur ayaṃ sutas tasya pibā madāya |* *(the second half of the Ṛk follows on p. 434)*
 
 ---
+### Page 434 (PDF 454)
 
-**Progress note:** Printed pp. 1–433 done (PDF 21–453): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.8 complete (pp. 395–433); Rik 104.9 (printed pp. 433–[?]): the first line of the Saṃhitā done at the foot of p. 433. Next: printed p. 434 (PDF 454): the second line of 104.9, its Pada and bhāṣya etc. (the Sūkta ends before p. 440). Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 434; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.9), completed**
+
+> अर्वाङेहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय ।
+> उरुव्यचा जठर आ वृषस्व पितेव नः शृणुहि हूयमानः ॥ ९ ॥
+
+*arvāṅ ehi somakāmaṃ tvāhur ayaṃ sutas tasya pibā madāya | uruvyacā jaṭhara ā vṛṣasva piteva naḥ śṛṇuhi hūyamānaḥ ‖ 9 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.9)**
+
+> अर्वाङ् । आ । इहि । सोमऽकामम् । त्वा । आहुः । अयम् । सुतः । तस्य । पिब । मदाय ।
+> उरुऽव्यचाः । जठरे । आ । वृषस्व । पिताऽइव । नः । शृणुहि । हूयमानः ॥ ९ ॥
+
+*arvāṅ | ā | ihi | soma-kāmam | tvā | āhuḥ | ayam | sutaḥ | tasya | piba | madāya | uru-vyacāḥ | jaṭhare | ā | vṛṣasva | pitā-iva | naḥ | śṛṇuhi | hūyamānaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.9)**
+
+> माध्यंदिने सवनेऽर्वाञ्जेहीत्येषा पोतुः प्रस्थितयाज्या । सूत्रितं च अर्वाङेहि सोमकामं त्वाहुस्तवायं सोमस्तस्येमेह्यर्वाङ् [?] । आ. ५-५ [?] । इति ॥
+> *mādhyaṃdine savane 'rvāñjehīty eṣā potuḥ prasthitayājyā | sūtritaṃ ca arvāṅ ehi somakāmaṃ tvāhus tavāyaṃ somas tasyemehy arvāṅ [?] | Ā. 5-5 [?] | iti ‖* *(the Sanskrit is as read; "arvāñjehi" is as printed; the Sūtra-quotation is clotted [?])*
+
+> हे इन्द्र त्वमर्वाङ् अस्मदभिमुखः सन् एहि । आगच्छ । किं कारणमिति चेत् यस्मात्त्वां सोमकामं सोमविषयाभिलाषमाहुः पुराविदः कथयन्ति । अयमस्मदीयः सोमः सुतः । ऋत्विग्भिरभिषुतः । अत आगच्छेत्यर्थः । आगत्य च मदाय हर्षार्थं तस्य तमस्मदीयमभिषुतं सोमं पिब । एतदेव स्पष्टीक्रियते । उरुव्यचा उरु विस्तीर्णं व्यचो व्यापनं यस्य तादृशो महावयवो भूत्वा जठर आत्मीये उदर आ वृषस्व । सोममासिञ्च । आ समन्तात्प्रक्षेपयेत्यर्थः । एवंभूतस्त्वं हूयमानः स्तुतिभिराहूयमानः सन् पितेव पुत्राणां वाक्यानि शृणोति तथा नोऽस्माकं वाक्यानि शृणुहि । शृणु ॥
+> *he indra tvam arvāṅ asmadabhimukhaḥ san ehi | āgaccha | kiṃ kāraṇam iti cet yasmāt tvāṃ somakāmaṃ somaviṣayābhilāṣam āhuḥ purāvidaḥ kathayanti | ayam asmadīyaḥ somaḥ sutaḥ | ṛtvigbhir abhiṣutaḥ | ata āgacchety arthaḥ | āgatya ca madāya harṣārthaṃ tasya tam asmadīyam abhiṣutaṃ somaṃ piba | etad eva spaṣṭīkriyate | uruvyacā uru vistīrṇaṃ vyaco vyāpanaṃ yasya tādṛśo mahāvayavo bhūtvā jaṭhara ātmīye udara ā vṛṣasva | somam āsiñca | ā samantāt prakṣepayety arthaḥ | evaṃbhūtas tvaṃ hūyamānaḥ stutibhir āhūyamānaḥ san piteva putrāṇāṃ vākyāni śṛṇoti tathā no 'smākaṃ vākyāni śṛṇuhi | śṛṇu ‖*
+
+"O Indra, you — turning towards us (*arvāṅ*) — come (*ehi*). Why? Because the ancients (*purāvidaḥ*) say that you are fond of Soma (*somakāmam*), have a desire for Soma. This Soma of ours has been pressed (*sutaḥ*): pressed out by the priests; therefore come. And having come, drink of that pressed Soma of ours for exhilaration (*madāya*). This itself is made plain: *uruvyacāḥ* — you whose *vyacas*, extent, is wide (*uru*): having great limbs, pour (*ā vṛṣasva*) the Soma into your own belly (*jaṭhare*); that is, fill [it] in completely. Being such, and being invoked (*hūyamānaḥ*) with praises, as a father hears the words of his sons, so hear (*śṛṇuhi*) our words."
+
+*(The grammatical tail of the bhāṣya follows, begun on p. 434 and ending on p. 435; characterized, not transcribed:)* *somakāmam* (a *bahuvrīhi*; the accent of the prior member remains); *āhuḥ* (root *brū*, five forms; *āha* substituted by *brūvaḥ pañcānām ādita āho brūvaḥ*, Pā. Sū. 3-4-84 as read [?]; third person plural of the perfect; *tasya* — the sixth case in the sense of the fourth, because the thing given is the object of the act of *sampradāna*); *madāya* (root *madī harṣe*; *ap* in the verbal noun by *mado 'nupasarge*); *uruvyacāḥ* (root *vyac vyājīkaraṇe*; an Uṇādi suffix *asi* [*asun*]; *vyacer kuṭāditvam anasīti vacanāt*, [Kāś.] 1-2-1-[?] as read [?]; no *samprasāraṇa* since the suffix is not *ṅit*; the accent of the latter member by *pera ādiś chandasi bahulam*, or, alternatively, *uru vicati vyāpnotīty uruvyacāḥ*, with the accent of the *kṛdanta* latter member); *vṛṣasva* (root *vṛṣa secane*; the middle ending by *vyatyaya*; *śap*/*śyan*); *śṛṇuhi* (the non-loss of *hi* in the Veda by *utaś ca pratyayāc chandasi vāvacanam*). *(Sūtra numerals mostly unread [?]; part of the tail is clotted in the scan [?].)*
+
+---
+
+### Page 435 (PDF 455)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 435.)*
+
+The bhāṣya's grammatical tail ends at the head of this page (see above; its last words concern *śṛṇuhi*, "the non-loss of *hi*").
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)**
+
+(*Indra* — O Indra!) *Tvā* — you; *somakāmam* — one who likes Soma-juice, they say: *āhuḥ* — (the wise) say. *Ayam* — this Soma-juice of ours *sutaḥ* — has been pressed and made ready. (Therefore) *arvāṅ* — to our presence *ehi* — graciously come. *Madāya* — for (your) delight *tasya* — that Soma-juice *piba* — drink. *Uruvyacāḥ* — you who have extensive, pervading limbs, *jaṭhare* — in (your) belly *ā vṛṣasva* — pour (fill) the Soma-juice; *hūyamānaḥ* — called (by our praises), *piteva* — as a father (listens to his children's words) *naḥ* — our (words) *śṛṇuhi* — listen to.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra, the wise say that Soma-juice is very dear to you. We have pressed this Soma-juice for you and made it ready. Therefore come graciously into our presence. For your delight drink this Soma-juice. You, who have widely pervading limbs: fill your belly and make it full of the juice. As a father listens to the words of his children when they call, so you too listen to our words of praise.
+
+**English Translation (as printed in the source; misprints marked [sic])**
+
+"Come into our presence ; they have called you, fond of the Soma-juice r [sic] it is prepared ; drink of it for your exhilartion [sic] : vast of limb, distend you [sic] stomach, and, when invoked, hear us, as a father (listens to the words of hi [sic] sons)." *(The scan blurs several words: "juice r" for "juice :", "hi sons" for "his sons"; "exhilartion" is the print's.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.9)**
+
+**Madāya** — root *madī harṣe*. By *mado 'nupasarge* (Pā. Sū. 3-3-67 as read [?]) the suffix *ap* in the verbal-noun sense. Since the suffix is *pit*, the root accent remains; fourth case singular.
+
+---
+
+### Page 436 (PDF 456)
+
+*(Running head: left 436; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+"In the midday pressing (*mādhyaṃdina savana*), this Ṛk beginning *arvāñ ehi* is to be used by the priest called Potṛ as the *prasthita-yājyā* mantra, as is expressed in the Āśvalāyana Śrauta-sūtra by the sūtra '*arvāñ ehi somakāmaṃ tvāhus tavāyaṃ somas tasyemehy arvāṅ*' [as read [?]] (Ā. 5-5 as read [?])." *(Kannada.)*
+
+**Somakāmam āhuḥ** — "the wise (*prājñāḥ*) say that he has a liking for Soma-juice. And therefore, **ayaṃ sutaḥ** — 'this juice has been pressed and made ready' — it is offered as Soma. It is well known that by drinking this Soma, Indra's valour grows to an extreme degree. Since immediately at his birth his mother had him drink Soma-juice, it may also be said that this is his most necessary food."
+
+> अद्रोघ सत्यं तव तन्महित्वं सद्यो यज्जातो अपिबो ह सोमम् ।
+> *adrogha satyaṃ tava tan mahitvaṃ sadyo yaj jāto apibo ha somam |* (*Ṛ. Saṃ.* 3-32-[?] as read [?])
+
+> त्वं सद्यो अपिबो जात इन्द्र मदाय सोमं परमे व्योमन् ।
+> *tvaṃ sadyo apibo jāta indra madāya somaṃ parame vyoman |* (*Ṛ. Saṃ.* 3-32-[?] as read [?])
+
+"In Ṛks such as these, his mother is described as having made him drink Soma immediately at his birth, and thereafter his greatness is described as growing."
+
+> वनो न वृक्षं सुपलाशमासदन् सोमास इन्द्रं मन्दिनश्चमूषदः ।
+> *vano na vṛkṣaṃ supalāśam āsadan somāsa indraṃ mandinaś camūṣadaḥ |* (*Ṛ. Saṃ.* 10-[?]-4 as read [?])
+
+> आपो न सिन्धुमभि यत्समक्षरन्त्सोमास इन्द्रं कुल्या इव ह्रदम् ।
+> *āpo na sindhum abhi yat samakṣarant somāsa indraṃ kulyā iva hradam |* (*Ṛ. Saṃ.* 10-[?]-[?] as read [?])
+
+"— as birds fly to a tree full of leaves, as rivers go to the ocean, so the Soma-juices reached Indra, is described; and in
+
+> एकया प्रतिधापिबत्साकं सरांसि त्रिंशतम् ।
+> इन्द्रः सोमस्य काणुका ॥
+> *ekayā pratidhāpibat sākaṃ sarāṃsi triṃśatam | indraḥ somasya kāṇukā ‖* (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+— it is said that, with a single draught, he drank thirty vessels full of such potent Soma-juice; and in
+
+> यः कुक्षिः सोमपातमः समुद्र इव पिन्वते ।
+> उर्वीरापो न काकुदः ।
+> *yaḥ kukṣiḥ somapātamaḥ samudra iva pinvate | urvīr āpo na kākudaḥ |* (*Ṛ. Saṃ.* 1-8-2 as read [?])
+
+---
+
+### Page 437 (PDF 457)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 437.)*
+
+"— it is described that his belly is as deep as an ocean, and in many places. By drinking such Soma-juice, which gives valour, is extremely necessary, and is invigorating, Indra —
+
+> आवंशे व्यामस्तभायद्बृहन्तमा रोदसी आपृणदन्तरिक्षम् ।
+> स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इन्द्रश्चकार ॥
+> *āvaṃśe vyām astabhāyad bṛhantam ā rodasī āpṛṇad antarikṣam | sa dhārayat pṛthivīṃ paprathac ca somasya tā mada indraś cakāra ‖* (*Ṛ. Saṃ.* 3-[?]-2 as read [?]; the first word as printed and doubtful [?])
+
+— as described in Ṛks such as these, is famed as vigorous, delighted, intoxicated for battle, and possessing the power to support both heaven and earth." (Kannada.)
+
+**Uruvyacāḥ** — *uru vistīrṇaṃ vyaco vyāpanaṃ yasya tādṛśo mahāvayavo bhūtvā |* "Indra is praised as 'one who has great, widely pervading limbs'":
+
+> महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान् ।
+> *mahāṃ asi mahiṣa vṛṣṇyebhir dhanaspṛd ugra sahamāno anyān |* (*Ṛ. Saṃ.* 3-46-2 as read)
+
+> प्र मात्राभी रिरिचे रोचमानः प्र देवेभिर्विश्वतो अप्रतीतः ।
+> प्र मज्मना दिव इन्द्रः पृथिव्याः प्रोरोर्महो अन्तरिक्षादृजीषी ॥
+> *pra mātrābhī ririce rocamānaḥ pra devebhir viśvato apratītaḥ | pra majmanā diva indraḥ pṛthivyāḥ prorormaho antarikṣād ṛjīṣī ‖* (*Ṛ. Saṃ.* 3-46-[?] as read [?])
+
+"In Ṛks such as these, as Indra's power, greatness and expansion are described as having surpassed the earth, heaven and mid-region, that aspect is understood here from the epithet *uruvyacāḥ*."
+
+**Piteva naḥ śṛṇuhi** — "as a father listens to his children's prayer, so, hearing the prayers made to you with faith, fulfil our prayers.
+
+> त्राता नो बोधि ददृशान आपिरभिख्याता मर्डिता सोम्यानाम् ।
+> सखा पिता पितृतमः पितृणां कर्तेमु लोकमुशते वयोधाः ॥
+> *trātā no bodhi dadṛśāna āpir abhikhyātā marḍitā somyānām | sakhā pitā pitṛtamaḥ pitṝṇāṃ kartem u lokam uśate vayodhāḥ ‖* (*Ṛ. Saṃ.* 4-17-17 as read [?])
+
+In Ṛks such as these, Indra is described to the human sacrificers as the best of fathers, a friend, and a giver of happiness. Here too, describing that same relation, [the poet] seeks his love." (Kannada.)
+
+---
+
+**Progress note:** Printed pp. 1–437 done (PDF 21–457): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.9 all done (pp. 395–437); Rik 104.9's Special Topics are under way and end at the foot of p. 437 (after the *piteva naḥ śṛṇuhi* topic). Next: printed p. 438 (PDF 458): the remaining Special Topics and grammar of 104.9, ending the Sūkta before p. 440. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
