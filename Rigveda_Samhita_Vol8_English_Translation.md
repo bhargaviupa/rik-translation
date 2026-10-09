@@ -11029,4 +11029,92 @@ Grammar pages, noted briefly. They treat: *niṣade* (root *ṣadḷ viśaraṇa
 
 ---
 
-**Progress note:** Printed pp. 1–401 done (PDF 21–421): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Rik 104.1 complete (pp. 395–400); Rik 104.2 (printed pp. 400–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha and Bhāvārtha done to the foot of p. 401. Next: printed p. 402 (PDF 422): English of 104.2, Special Topics, grammar; then Rik 104.3. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 402 (PDF 422)
+
+*(Running head: left 402; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+
+**English Translation of Rik 104.2 (as printed)**
+
+> These persons have come to Indra (to solicit) his protection ; may he quickly direct them on the way ; may the gods repress the wrath of the destroyer, and bring to our solemnity the obviator of evil.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 104.2 (Kannada)**
+
+"*Ā guḥ* — *āgacchanti*: 'they come near'; Sāyaṇa says 'they approach'; and Yāska:"
+
+> आ इत्येष समित्येतस्य स्थाने मर्यादायां वा । गायतिरर्चतिकर्मा । संस्तुवन्ति मर्यादया वा स्तुवन्तीत्यर्थः ।
+> *ā ity eṣa samity etasya sthāne maryādāyāṃ vā | gāyatir arcatikarmā | saṃstuvanti maryādayā vā stuvantīty arthaḥ |*
+> (*Ni.* [?], as read; the passage is not fully legible [?])
+
+"— the preverb *ā* gives the sense 'near' or 'with limit'; since *gāyati* is read among the verbs of worship (*Ni.* 3-[?]9), *guḥ* shows the sense 'they worship, they praise'; *ā guḥ*: they worship by drawing near, or praise with reverence. Both senses suit; but since the sense of *gam* is more used in the Saṃhitā sentences, 'they draw near' is the more fitting."
+
+> ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम ।
+> *ṛtasya devā anu vratā gur bhuvat pariṣṭir dyaur na bhūma |*
+> (*Ṛ. Saṃ.* 1-[?]3-[?] as read [?])
+
+> मा कस्मै धातमभ्यमित्रिणे नो माकुत्रा नो गृहेभ्यो धेनवो गुः ।
+> *mā kasmai dhātam abhy amitriṇe no mākutrā no gṛhebhyo dhenavo guḥ |*
+> (*Ṛ. Saṃ.* 1-[?]0-[?] as read [?])
+
+"*Nū cit* — *nu* is one of the particles of many senses (*Ni.* 1-[?]); *idaṃ nu kariṣyatīti hetvapadeśe*, 'in giving a reason', *kathaṃ nu kariṣyatīti praśne*, 'in a question'; *nu* is also used for comparison, *athāpy upamārthe bhavati*:"
+
+> वृक्षस्य नु ते पुरुहूत वया व्यूतयो रुरुहुरिन्द्र पूर्वीः ।
+> *vṛkṣasya nu te puruhūta vayā vy ūtayo ruruhur indra pūrvīḥ |*
+> (*Ṛ. Saṃ.* 6-[?]4-[?]; as quoted on p. 292)
+
+"— citing this Ṛk the Nirukta-author (*Ni.* 1-[?]) says that *nu* is a particle of comparison. In the same way it also has the sense 'quickly, alertly'
+
+### Page 403 (PDF 423)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 403.)*
+
+> नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
+> *nū marto dayate saniṣyan yo viṣṇava urugāyāya dāśat |*
+> (*Ṛ. Saṃ.* 1-[?]00-[?] as read [?])
+
+"— in Ṛks like these *nu* means *kṣipram*, 'quickly'.
+
+> नू इन्द्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व ।
+> *nū indra śūra stavamāna ūtī brahmajūtas tanvā vāvṛdhasva |*
+> (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+"— and in places like this it means *adya*, 'now'. As the Nirukta-author says, *nu* has many senses (*Ni.* 1-[?]); in the Ṛk at hand *nū cit* means 'quickly'.
+
+*Jagamyāt* — 'may he bring [them] to the other paths': Sāyaṇa: *gamayetu prāpayetu*, 'may he make go, may he bring'. But Skandasvāmin takes it as 'may he come (to the other places too)', giving the sense of the first person: *adhvanaḥ* = *adhvanā*, the sixth case in the sense of the third, 'by the way, by the path'.
+
+*Devāsaḥ* — Sāyaṇa: *sarve devā dāsasyopakṣapayituḥ asurasya manyuṃ krodhaṃ ścamnan bhakṣayantu*: 'may all the gods destroy the anger of the harming Asura'; and Skandasvāmin:"
+
+> देवशब्दोऽत्र दीव्यतेः स्तुत्यर्थस्य स्तोतृवचनः । ये स्तोतारः क्रोधं दासस्य उपक्षपयितव्यस्य शत्रोः श्चम्नन् । इन्द्रप्रसादेन भक्षयन्ति । इन्द्रप्रसादेन क्रुद्धमपि शत्रुं अयत्नेनैव त्रासयन्तीत्यर्थः ।
+> *devaśabdo 'tra dīvyateḥ stutyarthasya stotṛvacanaḥ | ye stotāraḥ krodhaṃ dāsasya upakṣapayitavyasya śatroḥ ścamnan | indraprasādena bhakṣayanti | indraprasādena kruddham api śatruṃ ayatnenaiva trāsayantīty arthaḥ |*
+> (Skandasvāmin, as read)
+
+"— [that is: here *deva*, from the root *div* in the sense of praise, denotes the praisers; the praisers, by Indra's favour, 'devour' the anger of the enemy; they frighten even an angry foe without effort]. Here *devāḥ* means the praisers: through Indra's favour the devotees, the praisers, frighten the cruel enemy without trouble and cause him to be destroyed.
+
+*Ścamnan* — whether the intention is 'eating' or 'harming', the sense is 'destroy' the enemy's anger.
+
+*Te naḥ suvitāya varṇam ā vakṣan* — Sāyaṇa: 'may those gods bring Indra to our sacrifice, which is fit for their coming'; he explains *suvitāya* as *suṣṭhu prāptavyāya yajñāya* and *varṇam* as *aniṣṭanivārakam indram*, 'Indra who averts the unwished'."
+
+### Page 404 (PDF 424)
+
+*(Running head: left 404; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+
+"Skandasvāmin explains *suvitāya* as *sugamanāya*, 'for easy going, for the excellent goings', and *te naḥ* as *asmākaṃ svabhūtāḥ putrapautrādayaḥ ṛtvijo vā ā vakṣan nityam āvahantv iti ākāṅkṣāśāsmahe* [as read, partly clotted [?]]: 'let our sons and grandsons, or our priests, ever bring Indra': one way; or, [taking] *devāḥ* as the Maruts [*devā atra marutaḥ*] — 'the Maruts who destroy the anger of the Dāsa, together with Indra, may bring us': another way. Here *devāḥ* means the praisers; the Maruts: those Maruts who, together with Indra, destroy the enemy's anger, may also come with Indra to our sacrifice."
+
+> इन्द्रेण सं हि दृक्षसे संजग्मानो अबिभ्युषा । मन्दू समानवर्चसा ॥
+> *indreṇa saṃ hi dṛkṣase saṃjagmāno abibhyuṣā | mandū samānavarcasā ‖*
+> (*Ṛ. Saṃ.* 1-6-7 as read [?])
+
+"— in Ṛks like these, the glory and the contentment of Indra together with the Maruts are described; so here too they may be taken together. Hence the three senses above all fit, according to the context, for *te na ā vakṣan suvitāya varṇam*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.2)** *(grammar pages, pp. 404–405, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *guḥ* (root *iṇ gatau*, *adādi*; *luṅ* in the present sense in the Veda by *chandasi luṅlaṅliṭaḥ* [Pā. Sū. 3-4-6 as read]; *gā* for *iṇ* in the *luṅ* by *iṇo gā luṅi* [Pā. Sū. 2-4-45 as read]; *luk* of *cli* by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* [Pā. Sū. 2-4-77 as read]; third person plural; no *aṭ* by *bahulaṃ chandasy māṅyoge 'pi* [Pā. Sū. 6-4-75 as read]); *nu* (lengthened in the Saṃhitā by *ṛcitunughamakṣutvaḥ…* [Pā. Sū. 6-3-133 as read]); *jagamyāt* (root *gamḷ gatau*, with the causative sense included; *liṅ*, *śap* replaced by *śluḥ* by *bahulaṃ chandasi*; doubling by *ślau* [Pā. Sū. 6-1-10 as read]; *j* for *g* in the reduplicative by *kuhoś cuḥ* [Pā. Sū. 7-4-62 as read]; loss of the *i* of *tip*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdāttaḥ ṅicca* [Pā. Sū. 3-4-103 as read]; *nighāta* at the end of the verb)" *(the grammar concludes on the next page)*
+
+### Page 405 (PDF 425)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 405.)*
+
+The grammar of Rik 104.2 concludes: *devāsaḥ* (*asuk* for *jas* by *ājjaser asuk* [Pā. Sū. 7-1-50 as read]); *manyum* (root *manu avabodhane*; *yu* by *yajimanśundhi…* [Uṇ. Sū. 3-100 as read]; final acute by the affix); *ścamnan* (root *camu adane*; *leṭ*, third person plural, *jhi*; *anta* by *jho 'ntaḥ*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu* [Pā. Sū. 3-4-97 as read]; *śnā* by *vyatyayo bahulam* [Pā. Sū. 3-1-85 as read]; loss of *ā* by *śnābhyastayor ātaḥ* [Pā. Sū. 6-4-112 as read]; Vedic augment *ś* to the root; loss of the final consonant of the cluster; or one must suppose that *ścam* is another root in the sense of harming); *vakṣan* (root *vaha prāpaṇe*; *leṭ*, third person plural; *sip* by *sib bahulaṃ leṭi* [Pā. Sū. 3-1-34 as read]; *hoḍhaḥ*…, *k* for *ḍh*… by *ṣaḍhoḥ kaḥ si* [Pā. Sū. 8-2-41 as read]; *ṣ* by *ādeśapratyayayoḥ*; the form *vakṣan*; *nighāta*); *suvitāya* (root *iṇ gatau*; *kta* in the passive by *niṣṭhā* [Pā. Sū. 3-2-102 as read]; the form *ita*; with *su*, *uv* for *u* by *uvaṅ*…; the accent of the last member by *sūpamānāt ktaḥ* [Pā. Sū. 6-2-144 as read]; dative singular); *varṇam* (root *vṛñ varaṇe*, with the causative sense included; *na* by *kṛñjvāvṛ…* [Uṇ. Sū. 3-90 as read]; *guṇa* of the root vowel; *raparatva*; *ṇ* by *uraṇ raparaḥ* [as read]; acute on the first syllable, the affix being *nit*). The Rik is closed with *‖ 2 ‖* and a printed ornament.
+
+---
+
+**Progress note:** Printed pp. 1–405 done (PDF 21–425): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.2 complete (pp. 395–405); next is Rik 104.3. Next: printed p. 406 (PDF 426): Saṃhitā of Rik 104.3 (check whether it begins on p. 405's foot or p. 406). Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
