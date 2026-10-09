@@ -17952,5 +17952,112 @@ O Ṛbhus, sons of Sudhanvan, ancient ones, who belong to the group of my kinsme
 Grammar, noted briefly. *Ābhogayam* (*ā samantāt bhogaḥ ābhogaḥ*, 'enjoyment on all sides': root *bhuja pālanābhyavahārayoḥ*; *ghañ* in the abstract sense; *guṇa* of the light penult; *k* for *j* by *cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. Sū. 7-3-52 as read [?]; 'worthy of that' [*tadarhaḥ*]: *ābhogayaḥ*; the suffix *ya* by *chandasi ca*, Pā. Sū. 5-1-67 as read [?]; though the word has the *bha*-name, the loss [of the *a*] by *yasya iti ca* does not arise here, being Vedic; by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], the accent falls on the former [syllable] of the suffix; by the compound with *āṅ*, the accent of the *kṛdanta* latter member. Or else: from the root *bhuja* preceded by *āṅ*, the Uṇādi suffix *i* in the passive sense; and the change to *g* [*kutva*]; *guṇa* in a vowel-initial context by *vyatyaya*; the form *ābhogi*; by the suffix accent the acute on the syllable following the *g*)* *(continued on p. 669)*
 
 ---
+### Page 669 (PDF 689)
 
-**Progress note:** Printed pp. 1–668 done (PDF 21–688): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Rik 110.1 complete (pp. 657–663); Rik 110.2 (printed pp. 664–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (the Ṛbhu story from the Aitareya Brāhmaṇa; Sudhanvan Āṅgirasa from the Bṛhadāraṇyaka); its grammar begun at the foot of p. 668 (at *ābhogayam*). Next: printed p. 669 (PDF 689). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 669.)*
+
+The grammar of Rik 110.2 continues and concludes (noted briefly; numerals small and doubtful [?]). *Ābhogayam*, concluded: "…[the Uṇādi alternative] by the substitution *tana* [*tanādeśa*]…" *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tana* for *tha* by *taptanaptanathanāś ca*, Pā. Sū. 7-1-45 as read [?]; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?]; *vṛddhi* by *āṭaś ca*, Pā. Sū. 6-1-90 as read [?]; because of the *yad*-connection, no *nighāta*; since the augment is *udātta*, the word is initial-acute; the suffix, being *pit*, is *anudātta*). *Āpayaḥ* (root *āplṛ vyāptau*; the Uṇādi suffix *i*; the form *āpi*; the final acute by the suffix; the nominative plural, *jas*, *guṇa* by *jasi ca*, Pā. Sū. 7-3-109 as read [?], *ay*). *Bhūmanā* (the word *bahu*, which is read in the *pṛthvādi* group, in the abstract sense by *pṛthvādibhya imanij vā*, Pā. Sū. 5-1-122 as read [?], the suffix *imanic*; loss of the *i* of *imanic* after *bahu* by *bahor lopo bhū ca bahoḥ*, Vārttika; *bhū* for *bahu*; the loss of the initial *i* of the suffix by *ādeḥ parasya*, Pā. Sū. 1-1-54 as read [?]; the form *bhūman*; final acute by *cit*, Pā. Sū. 6-1-163 as read [?]; the loss of *ā* [*a*] by *allopo 'naḥ*, Pā. Sū. 6-4-134 as read [?] is expected in the instrumental, but by the statement *saṃjñāpūrvako vidhir anityaḥ* it does not arise here). *Āgacchata* (root *gamḷ gatau*; *laṅ*, second person plural; *tha* → *ta*; the vikaraṇa *śap*; *ccha* for the final of the root by *iṣugamiyamāṃ chaḥ*, Pā. Sū. 7-3-77 as read [?]; the augment *āṭ*; because it begins a pāda no *nighāta*). *Dāśuṣaḥ* (by *dāśvān sāhvān*, Pā. Sū. 6-1-12 as read [?], *kvasu*-ending formed by *nipātana*; in the sixth case, since the *bha*-name arises, *vasoḥ saṃprasāraṇam*, Pā. Sū. 6-4-131 as read [?], *saṃprasāraṇa* and *pūrvarūpa*; *ṣatva* by *śāsivasighasīnāṃ ca*, Pā. Sū. 8-3-60 as read [?]). The Rik is closed with *‖ 2 ‖* and an ornament.
+
+## Rik 110.3 — printed pp. 669–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.3)**
+
+> तत्सविता वोऽमृतत्वमासुवदगोह्यं यच्छ्रवयन्त ऐतन ।
+> त्यं चिच्चमसमसुरस्य भक्षणमेकं सन्तमकृणुता चतुर्वयम् ॥ ३ ॥
+
+*tat savitā vo 'mṛtatvam āsuvad agohyaṃ yac chravayanta aitana | tyaṃ cic camasam asurasya bhakṣaṇam ekaṃ santam akṛṇutā caturvayam ‖ 3 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 670 (PDF 690)
+
+*(Running head: left 670; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.3)**
+
+> तत् । सविता । वः । अमृतऽत्वम् । आ । असुवत् । अगोह्यम् । यत् । श्रवयन्तः । ऐतन ।
+> त्यम् । चित् । चमसम् । असुरस्य । भक्षणम् । एकम् । सन्तम् । अकृणुत । चतुःऽवयम् ॥ ३ ॥
+
+*tat | savitā | vaḥ | amṛta-tvam | ā | asuvat | agohyam | yat | śravayantaḥ | aitana | tyam | cit | camasam | asurasya | bhakṣaṇam | ekam | santam | akṛṇuta | catuḥ-vayam ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.3)**
+
+> हे ऋभवस्तदानीं सविता सर्वस्य प्रेरको देवो वो युष्माकममृतत्वं देवत्वमासुवत् । अभिमुख्येन प्रेरितवान् । दत्तवानित्यर्थः । यद्यदा यूयमगोह्यं गूहितुमशक्यं सर्वैर्दृश्यमानं सवितारं श्रवयन्तोऽपेक्षितं सोमपानं विज्ञापयन्तः सन्त ऐतन आगच्छत । तदानीमिति पूर्वेणान्वयः । यस्माद्यूयं देवैराज्ञापितः सन्तोऽसुरस्य त्वष्टुः संबन्धिनं । तेन निर्मितमित्यर्थः । भक्षणं सोमपानसाधनं त्यं तं चमसमेकं चिदसहायमेव सन्तं चतुर्वयं चतुर्व्यूहमकृणुत । कृतवन्तः । सृष्ट्यादौ त्वष्ट्रा कृतं चमसं होत्रचमसादि मुख्यचमसचतुष्टयरूपेण ऋभवः कृतवन्त इत्यर्थः ॥ आसुवत् । षू प्रेरणे । तौदादिकः । श्रवयन्तः । श्रु श्रवणे । छान्दसो वृद्ध्यभावः । ऐतन । लङि मध्यमबहुवचनस्य तादेशे तप्तनप्तनथनाश्चेति तनबादेशः । भक्षणं । करणे ल्युट् । अकृणुत । कृवि हिंसाकरणयोश्च । लङि मध्यमबहुवचने ध्विन्नुकृ ज्युरेरिति [?] प्रत्ययः । चतुर्वयं । वया आनयवा [?] । चत्वारो वयनवा [?] यस्य स तथोक्तः ॥
+> *he ṛbhavas tadānīṃ savitā sarvasya prerako devo vo yuṣmākam amṛtatvaṃ devatvam āsuvat | abhimukhyena preritavān | dattavān ity arthaḥ | yad yadā yūyam agohyaṃ gūhitum aśakyaṃ sarvair dṛśyamānaṃ savitāraṃ śravayanto 'pekṣitaṃ somapānaṃ vijñāpayantaḥ santa aitana āgacchata | tadānīm iti pūrveṇānvayaḥ | yasmād yūyaṃ devair ājñāpitaḥ santo 'surasya tvaṣṭuḥ saṃbandhinaṃ | tena nirmitam ity arthaḥ | bhakṣaṇaṃ somapānasādhanaṃ tyaṃ taṃ camasam ekaṃ cid asahāyam eva santaṃ caturvayaṃ caturvyūham akṛṇuta | kṛtavantaḥ | sṛṣṭyādau tvaṣṭrā kṛtaṃ camasaṃ hotracamasādi mukhyacamasacatuṣṭayarūpeṇa ṛbhavaḥ kṛtavanta ity arthaḥ ‖ āsuvat | ṣū preraṇe | taudādikaḥ | śravayantaḥ | śru śravaṇe | chāndaso vṛddhyabhāvaḥ | aitana | laṅi madhyamabahuvacanasya tādeśe taptanaptanathanāś ceti tanabādeśaḥ | bhakṣaṇaṃ | karaṇe lyuṭ | akṛṇuta | kṛvi hiṃsākaraṇayoś ca | laṅi madhyamabahuvacane dhvinnukṛ jyur eti [?] pratyayaḥ | caturvayaṃ | vayā ānayavā [?] | catvāro vayanavā [?] yasya sa tathoktaḥ ‖* *(Sanskrit as read; the whole last part of the tail — "dhvinnukṛ jyur eti", "vayā ānayavā", "vayanavā" — is clotted and given as read, with doubt [?], not completed from memory.)*
+
+"O Ṛbhus! Then Savitṛ, the impeller of all, the god, *āsuvat* — urged forward, bestowed — on you *amṛtatva*, immortality, divinity. When you, *śravayantaḥ* — making yourselves heard by Savitṛ who is *agohya* — who cannot be hidden, who is seen by all — announcing the Soma-drinking that was desired, *aitana*, came (to him): then [so he did]. Since, being commanded by the gods, you made *tyam cid camasam* — that cup [*camasa*] of the Asura Tvaṣṭṛ, made by him, the means of drinking Soma (*bhakṣaṇam*) — which was one only, *caturvayam*, four-fold: the cup made by Tvaṣṭṛ at the beginning of creation, you the Ṛbhus made into the four chief cups, the *hotṛ-camasa* and the rest."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.3; Kannada; English)**
+
+(O Ṛbhus!) *yat* — when; *agohyam* — [Savitṛ] who cannot be concealed, who is accessible to all; *śravayantaḥ* — [you] making known (that you wished to share in the Soma-drinking); *aitana* — [you] came; *tat* — then; *savitā* — the god Savitṛ; *vaḥ* — to you; *amṛtatvam* — divinity without death; *āsuvat* — fully granted [by favour]; (so) *asurasya* — made by Tvaṣṭṛ; *bhakṣaṇam* — the means for drinking Soma-juice; *tyam* — that well-known; *ekam cit santam* — one only (at its creation); *camasam* — the *camasa* vessel; *caturvayam* — in four parts; *akṛṇuta* — you made.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Ṛbhus, when you approached Savitṛ, who cannot be hidden and is accessible to all, and made known to him that you wished to share in the Soma-drinking, the god Savitṛ fully granted you death-free divinity. Therefore you made the *camasa* vessel — made by Tvaṣṭṛ, the means for drinking Soma-juice, famed, and created at the time of its creation as one only — into four.
+
+---
+
+### Page 671 (PDF 691)
+
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 671. At the foot, the printer's signature "43 / VOLUME 8" is not printed on this page; noted only.)*
+
+**English Translation (as printed in the source)**
+
+"Then Savitri bestowed upon you immortality, when you came to him who is not to be concealed, and represented (your desire) to partake of the libations ; and that ladle for the sacrificial viands which the Asura had formed single, you made fourfold."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.3)**
+
+**Asurasya ekaṃ cit santaṃ camasaṃ caturvayam akṛṇuta** — "[The poet] praises the skill of the Ṛbhus: 'you made the one cup, which had been made by Tvaṣṭṛ, into four'.
+
+> उत त्यं चमसं नवं त्वष्टुर्देवस्य निष्कृतम् ।
+> अकर्त चतुरः पुनः ॥
+> *uta tyaṃ camasaṃ navaṃ tvaṣṭur devasya niṣkṛtam | akarta caturaḥ punaḥ ‖* (*Ṛ. Saṃ.* 1-20-6 as read [?])
+
+— as said in this Ṛk, and, further, the same account in the passage that follows:
+
+> ज्येष्ठ आह चमसा द्वा करेति कनीयान्त्रीन्कृणवामेत्याह ।
+> कनिष्ठ आह चतुरस्करेति त्वष्ट ऋभवस्तत्पनयद्वचो वः ॥
+> *jyeṣṭha āha camasā dvā kareti kanīyān trīn kṛṇavāmety āha | kaniṣṭha āha caturaś kareti tvaṣṭa ṛbhavas tat panayad vaco vaḥ ‖* (*Ṛ. Saṃ.* 4-33-5 as read)
+
+— in Ṛks such as these, it is well known that, by making a single vessel into four, they displayed their skill. It is said in the Bṛhaddevatā that, in this work too, this power came to them through Tvaṣṭṛ's instruction, and that they were Tvaṣṭṛ's pupils:
+
+> सुधन्वन आङ्गिरसस्यासन्पुत्रास्त्रयः पुरा ।
+> ऋभुर्विभ्वा च वाजश्च शिष्यास्त्वष्टुश्च तेऽभवन् ॥
+> शिक्षयामास तांस्त्वष्टा त्वाष्ट्रं यत्कर्म किंचन ।
+> परिनिष्ठितकर्माणो विश्वेदेवा उपास्थयन् [?] ॥
+> *sudhanvana āṅgirasasyāsan putrās trayaḥ purā | ṛbhur vibhvā ca vājaś ca śiṣyās tvaṣṭuś ca te 'bhavan ‖ śikṣayāmāsa tāṃs tvaṣṭā tvāṣṭraṃ yat karma kiṃcana | pariniṣṭhitakarmāṇo viśvedevā upāsthayan [?] ‖*
+
+---
+
+### Page 672 (PDF 692)
+
+*(Running head: left 672; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+> विश्वेषां ते ततक्षुश्चक्रुर्वाहनान्यायुधानि तु ।
+> धेनुं सबर्दुघां चक्रुरमृतं सबरुच्यते ॥
+> बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिबन्धुरम् ।
+> इन्द्राय च हरी देवप्रहितेनाग्निनापि यत् ॥
+> एकं चमसमित्युक्ते ज्येष्ठ आहेत्यथो दिवि ।
+> उक्त्वा ततक्षुश्चमसान्यथोक्तं तेन हर्षिताः ॥
+> त्वष्टा च सविता चैव देवदेवः प्रजापतिः ।
+> सर्वान्देवान्समामन्त्र्य अमृतत्वं ददुश्च ते ॥
+> तेषामाद्यन्तयोर्नाम्ना दृश्यते बहुवत्स्तवः ।
+> तृतीयसवने तेषां त्वष्टुर्भागः प्रकल्पितः ॥
+> अपिबत्सोममिन्द्रश्च त्वष्टा तत्र सवने सह ।
+> *viśveṣāṃ te tatakṣuś cakrur vāhanāny āyudhāni tu | dhenuṃ sabardughāṃ cakrur amṛtaṃ sabarucyate ‖ bṛhaspater athāśvibhyāṃ rathaṃ divyaṃ tribandhuram | indrāya ca harī devaprahitenāgninā api yat ‖ ekaṃ camasam ity ukte jyeṣṭha āhety atho divi | uktvā tatakṣuś camasān yathoktaṃ tena harṣitāḥ ‖ tvaṣṭā ca savitā caiva devadevaḥ prajāpatiḥ | sarvān devān samāmantrya amṛtatvaṃ daduś ca te ‖ teṣām ādyantayor nāmnā dṛśyate bahuvat stavaḥ | tṛtīyasavane teṣāṃ tvaṣṭur bhāgaḥ prakalpitaḥ ‖ apibat somam indraś ca tvaṣṭā tatra savane saha |* (*Bṛ. De.* 3-1[?]ff as read [?]; the verses are crowded and given as read from the print, with doubt in several words, notably "upāsthayan", "sabardughāṃ … sabarucyate" and the last pāda; not completed from memory)
+
+"Previously, the three Ṛbhus, sons of Sudhanvan — Ṛbhu, Vibhvan and Vāja — became pupils of Tvaṣṭṛ. Tvaṣṭṛ, skilled in all arts, taught them all the arts. Then the Viśvedevas, who were experts in the arts, tested them with hostile [?] vision. Thereupon [the Ṛbhus] made weapons and vehicles for all the gods. Afterwards they created an immortal cow [Dhenu]. [They made] chariots for Bṛhaspati and the Aśvins, horses for Indra, and, sent by the gods, for Agni as well, as said before — and so say:
+
+> किमु श्रेष्ठः किं यविष्ठो न आजगन्किमीयते दूत्यं कद्यदूचिम ।
+> न निन्दिम चमसं यो महाकुलोऽग्ने भ्रातर्द्रुण इद्भूतिमूदिम ॥
+> एकं चमसं चतुरः कृणोतन तद्वो देवा अब्रुवन्तद्व आगमम् ।
+> सौधन्वना यद्येवा करिष्यथ साकं देवैर्यज्ञियासो भविष्यथ ॥
+> अग्निं दूतं प्रति यदब्रवीतनाश्वः कर्त्वो रथ उतेह कर्त्वः ।
+> धेनुः कर्त्वा युवशा कर्त्वा द्वा तानि भ्रातरनु वः कृत्ये मसि ॥
+> *kim u śreṣṭhaḥ kiṃ yaviṣṭho na ājagan kim īyate dūtyaṃ kad yad ūcima | na nindima camasaṃ yo mahākulo 'gne bhrātar druṇa id bhūtim ūdima ‖ ekaṃ camasaṃ caturaḥ kṛṇotana tad vo devā abruvan tad va āgamam | saudhanvanā yady evā kariṣyatha sākaṃ devair yajñiyāso bhaviṣyatha ‖ agniṃ dūtaṃ prati yad abravītanāśvaḥ kartvo ratha uteha kartvaḥ | dhenuḥ kartvā yuvaśā kartvā dvā tāni bhrātar anu vaḥ kṛtye masi ‖* (*Ṛ. Saṃ.* 1-161-1 to 3 as read; the readings "kim īyate", "druṇa id bhūtim ūdima" and "kṛtye masi" are as printed, doubtful in places [?])
+
+— as is described in Ṛks such as these, Agni, as messenger of the gods, went to the sons of Sudhanvan, made the one cup into four, and helped the gods; then he said to them that they would obtain eligibility for the Soma-drinking together with them; at that time they said: 'is it only this one task for you? To make horses, chariots, or to make the cow; to make the aged parents young: all this can be done by us'; and in the same way even now" *(the passage continues on p. 673)*
+
+---
+
+**Progress note:** Printed pp. 1–672 done (PDF 21–692): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Riks 110.1–110.2 complete (pp. 657–669); Rik 110.3 (printed pp. 669–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the fourfold cup; Bṛhaddevatā verses; Ṛ. 1-161), ending mid-sentence at the foot of p. 672. Next: printed p. 673 (PDF 693). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
