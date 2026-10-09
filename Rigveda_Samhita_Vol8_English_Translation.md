@@ -13836,5 +13836,103 @@ According to the second meaning given by Sāyaṇa, [the sense is] the sun who i
 > *ye te panthāḥ savitaḥ pūrvyāso 'reṇavaḥ sukṛtā antarikṣe | tebhir no adya pathibhiḥ sugebhī rakṣā ca no adhi ca brūhi deva ‖* (*Ṛ. Saṃ.* 1-35-11 as read)" *(Kannada; the Sanskrit of the Ṛks is as read, not completed from memory.)*
 
 ---
+### Page 514 (PDF 534)
 
-**Progress note:** Printed pp. 1–513 done (PDF 21–533): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.15 complete (pp. 441–510); Rik 105.16 (printed pp. 511–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way at p. 513 (the *panthāḥ* topic; the Ṛk quotations end at the foot of p. 513 with Ṛ. 1-35-11). Next: printed p. 514 (PDF 534). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 514; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+> यत्र सते सुकृतो यत्र ते ययुस्तत्र त्वा देवः सविता दधातु ।
+> *yatra sate sukṛto yatra te yayus tatra tvā devaḥ savitā dadhātu |* (*Ṛ. Saṃ.* 10-1[?]-[?] as read [?]; the first words are "yatrāsate" in print [?])
+
+"— in Ṛks such as these, since Savitṛ is a deity who, in the path of the *ṛta*, conducts the doers of good deeds, the prayer is made: 'take all the sacrificers by that path which is pure, free from dust (*rajas*), and free from death'. This same path is called in the Upaniṣads the *arcirādi* path (the path that begins with the light). It is described that those of good deeds who have by this path reached Brahmaloka, after death, have no return:
+
+> तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तन्ते नावर्तन्ते ।
+> *tat puruṣo 'mānavaḥ sa enān brahma gamayaty eṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavam āvartaṃ nāvartante nāvartante |* (*Chā. U.* 5-10-2 as read [?]; the abbreviation of the source is read as "Bhā. U." or "Chā. U." [?])
+
+The same idea is stated in the Muṇḍaka Upaniṣad also:
+
+> सूर्यद्वारेण ते विरजाः प्रयान्ति यत्रामृतः स पुरुषो ह्यव्ययात्मा ।
+> *sūryadvāreṇa te virajāḥ prayānti yatrāmṛtaḥ sa puruṣo hy avyayātmā |* (*Mu. U.* 1-2-11 as read)
+
+— in sentences that describe the 'door of the sun'. Hence Sāyaṇa has given the meaning that *panthāḥ* here is 'the path of the sun', which is known as *devayāna* in the Upaniṣads. Because this path is a means to the welfare of all, it is *pravācya*."
+
+**Saḥ na atikrame** — "even the deities cannot see that sun-god with disregard: such is the meaning. Because he is an indispensable means to sacrifices and the like, too —
+
+> युष्मज्जीवनस्य तदायत्तत्वात् । सति हि सूर्ये वसन्तादयः कालाः निष्पद्यन्ते । कालेषु च योगाः क्रियन्ते । यागेषु च सत्सु भवतां जीवनम् । अतो युष्माभिरसौ नातिक्रमितव्यः ।
+> *yuṣmajjīvanasya tadāyattatvāt | sati hi sūrye vasantādayaḥ kālāḥ niṣpadyante | kāleṣu ca yogāḥ kriyante | yāgeṣu ca satsu bhavatāṃ jīvanam | ato yuṣmābhir asau nātikramitavyaḥ |*
+
+— since the sun is the basis for all, including the gods, it is to be understood that Sūrya must be worshipped by all:
+
+> बट् सूर्य श्रवसा महाँ असि सत्रा देव महाँ असि ।
+> महा देवानामसुर्यः पुरोहितो विभु ज्योतिरदाभ्यम् ॥
+> *baṭ sūrya śravasā mahāṁ asi satrā deva mahāṁ asi | mahnā devānām asuryaḥ purohito vibhu jyotir adābhyam ‖* (*Ṛ. Saṃ.* 8-101-1[?] as read [?])
+
+> देवेभ्यो हि प्रथमं यज्ञियेभ्योऽमृतत्वं सुवसि भागमुत्तमम् ।
+> आदिद्दामानं सवितर्व्यूर्णुषेऽनूचीना जीविता मानुषेभ्यः ॥
+> *devebhyo hi prathamaṃ yajñiyebhyo 'mṛtatvaṃ suvasi bhāgam uttamam | ād id dāmānaṃ savitar vyūrṇuṣe 'nūcīnā jīvitā mānuṣebhyaḥ ‖* (*Ṛ. Saṃ.* 4-54-2 as read)"
+
+---
+
+### Page 515 (PDF 535)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 515.)*
+
+"— in Ṛks such as these, Sūrya is described as a life that is indispensable to all, gods and men alike, and as the bestower of immortality; therefore the intention is that all should worship him."
+
+**Martāsaḥ taṃ na paśyatha** — "Sāyaṇa has said that this is a sentence of censure (*nindā-vākya*). How? '*etac ca kūpe pātayitvā nirgatāv ekatadvitau prati nindanam | aham eva mantradraṣṭā taṃ sūryaṃ jānāmi pāpakṛtau yuvāṃ na jānītha iti*': 'Ekata and Dvita, who threw [Trita] into the well and went off, did not know the greatness of the sun-god; they were sinners. I, the knower of mantras, alone know the greatness of the sun', so says Trita — thus Sāyaṇa has explained. Skandasvāmin has explained '*he manuṣyāḥ na jānītha | ahaṃ samyag jānāmīty arthaḥ*' ['O men, you do not know; I know well'] — and, because the greatness of this Sūrya cannot be fully known to men, he has explained that even I, who am a man, do not know his greatness fully." *(The Kannada gloss on Skandasvāmin is as printed; the Sanskrit sentence and the gloss do not quite agree in the print, and both are given as read [?].)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.16)** *(grammar pages, pp. 515–516, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Panthāḥ* (root *pathḷ gatau*; the suffix *ini* by *pathes thaś ca*, Uṇ. 4-[?]5 as read [?]; *th* for the *t* of the root; the word *pathin*; before *su*, *ā* by *pathimathyṛbhukṣām āt*, Pā. Sū. 7-1-85 as read [?]; *ā* for *i* by *ito 't sarvanāmasthāne*, Pā. Sū. 7-1-86 as read [?]; *nth* for *th* by *tho nthaḥ*, Pā. Sū. 7-1-87 as read [?]; *ru* and visarga for the *s*; the form *panthāḥ*; the initial acute by *pathimathoḥ sarvanāmasthāne*, Pā. Sū. 6-1-199 as read [?]). *Ādityaḥ* (*aditeḥ apatyaṃ pumān ādityaḥ*; the suffix *ṇya* by *diti-aditi-āditya-…*, Pā. Sū. 4-1-85 as read [?]; the initial *vṛddhi* by *taddhiteṣv acām ādeḥ*, Pā. Sū. 7-2-117 as read [?]; loss of *i* by *yasyeti ca*, Pā. Sū. 6-4-148 as read [?]; the accent of the suffix, final acute). *Divi* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). *Pravācyam* (root *vaca paribhāṣaṇe*; *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; after the causal *vāci*, *yat* by *aco yat*, Pā. Sū. 3-1-97 as read [?]; the loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the initial acute by *yato 'nāvaḥ*, Pā. Sū. 6-1-213 as read [?]; the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?])
+
+---
+
+### Page 516 (PDF 536)
+
+*(Running head: left 516; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.16 concludes (noted briefly). *Devāḥ* (vocative plural; *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]). *Atikrame* (root *kramu pādavikṣepe*; the suffix *ken* in the sense of the *kṛtya* by *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. Sū. 3-4-14 as read [?]; because it is *nit*, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]). *Martāsaḥ* (the word *marta*; before *jas*, the *asuk* augment by *ājjaser asuk*, Pā. Sū. 7-1-50 as read [?]; *nighāta* by *āmantritasya ca*). *Paśyatha* (root *dṛśir prekṣaṇe*; *laṭ*, second person [plural], *tha*; with *śap* following, *paśya* for the root by *pāghrādhmā…*, Pā. Sū. 7-3-78 as read [?]; *nighāta*). The Rik is closed with *‖ 16 ‖* and an ornament.
+
+## Rik 105.17 — printed pp. 516–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.17)**
+
+> त्रितः कूपेऽवहितो देवान्हवत ऊतये ।
+> तच्छुश्राव बृहस्पतिः कृण्वन्नंहूरणादुरु वित्तं मे अस्य रोदसी ॥ १७ ॥
+
+*tritaḥ kūpe 'vahito devān havata ūtaye | tac chuśrāva bṛhaspatiḥ kṛṇvann aṃhūraṇād uru vittaṃ me asya rodasī ‖ 17 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.17)**
+
+> त्रितः । कूपे । अवऽहितः । देवान् । हवते । ऊतये ।
+> तत् । शुश्राव । बृहस्पतिः । कृण्वन् । अंहूरणात् । उरु । वित्तम् । मे । अस्य । रोदसी इति ॥ १७ ॥
+
+*tritaḥ | kūpe | ava-hitaḥ | devān | havate | ūtaye | tat | śuśrāva | bṛhaspatiḥ | kṛṇvan | aṃhūraṇāt | uru | vittam | me | asya | rodasī iti ‖ 17 ‖*
+
+---
+
+### Page 517 (PDF 537)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 517.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.17)**
+
+> कूपेऽवहितः पातितस्त्रित एतत्संज्ञ ऋषिरूतये रक्षणाय देवान्हवते । स्तुतिभिराकारयति । यदेतत्त्रितस्याह्वानं बृहस्पतिर्बृहतां महतां देवानां रक्षक एतत्संज्ञो देवस्तदाह्वानं शुश्राव । श्रुतवान् । किं कुर्वन् । अंहूरणादंहसः पापरूपादस्मात्कूपपातादुन्नीयोरु विस्तीर्णं शोभनं कृण्वन् कुर्वन् ॥ हवते । ह्वयतेर्लटि बहुलं छन्दसीति संप्रसारणम् । शब्लुकानादेशः [?] । ऊतये । ऊतियूतीत्यादिना क्तिन उदात्तत्वम् । बृहस्पतिः । तद्बृहतोः करपत्योश्चोरदेवतयोः । पा. ६-१-१५७ । इति पारस्करादिषु पाठात् सुट्तलोपौ । उभे वनस्पत्यादिष्विति पूर्वोत्तरपदयोर्युगपत्सूक्तिस्वरत्वम् । अंहूरणात् । अहि गतौ । इदित्त्वान्नुम् । ऋजिपिञ्जिमञ्जिभ्य [?] ऊरोलचा [?] । उ. ४-९० [?] । इति भावे ऊरप्रत्ययः । दुःखप्राप्तिहेतुभावाद्गतिरस्यास्तीति पामादिलक्षणो मत्वर्थीयो नः । पा. ५-२-१०० [?] । आङ्पूर्वाद्दन्तेर्णार्थरूपमुन्नेयम् [?] ॥
+> *kūpe 'vahitaḥ pātitas trita etatsaṃjña ṛṣir ūtaye rakṣaṇāya devān havate | stutibhir ākārayati | yad etat tritasyāhvānaṃ bṛhaspatir bṛhatāṃ mahatāṃ devānāṃ rakṣaka etatsaṃjño devas tadāhvānaṃ śuśrāva | śrutavān | kiṃ kurvan | aṃhūraṇād aṃhasaḥ pāparūpād asmāt kūpapātād unnīyoru vistīrṇaṃ śobhanaṃ kṛṇvan kurvan ‖ havate | hvayater laṭi bahulaṃ chandasīti saṃprasāraṇam | śabluk ānādeśaḥ [?] | ūtaye | ūtiyūtītyādinā ktina udāttatvam | bṛhaspatiḥ | tadbṛhatoḥ karapatyoś coradevatayoḥ | pā. 6-1-157 | iti pāraskarādiṣu pāṭhāt suṭtalopau | ubhe vanaspatyādiṣv iti pūrvottarapadayor yugapatsūktisvaratvam | aṃhūraṇāt | ahi gatau | idittvān num | ṛjipiñjimañjibhya [?] ūrolacā [?] | u. 4-90 [?] | iti bhāve ūrapratyayaḥ | duḥkhaprāptihetubhāvād gatir asyāstīti pāmādilakṣaṇo matvarthīyo naḥ | pā. 5-2-100 [?] | āṅpūrvād dantar ṇārtharūpam unneyam [?] ‖* *(Sanskrit as read; the second half of the tail is clotted and given with doubt [?]: not completed from memory; the tail is short.)*
+
+"Trita, the ṛṣi so named, thrown into the well (*kūpe 'vahitaḥ*), invokes (*havate*) the gods for protection (*ūtaye*): he calls out with praises. That invocation of Trita Bṛhaspati — the god of this name, protector of the great gods — heard (*śuśrāva*). Doing what? *Aṃhūraṇāt*: from the sin, from this falling into the well, which is of the nature of sin, raising [him] up, making [him] wide, good (*uru kṛṇvan*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.17; Kannada; English)**
+
+*Kūpe* — in the well; *avahitaḥ* — thrown; *tritaḥ* — the ṛṣi named Trita; *ūtaye* — for protection; *devān* — the gods; *havate* — invokes; *bṛhaspatiḥ* — Bṛhaspati; *aṃhūraṇāt* — from this sin that has the form of falling in the well, (lifting up); *uru* — a greater good; *kṛṇvan* — making; *tat* — that invocation; *śuśrāva* — heard; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this lament (sorrow); *vittam* — know.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The ṛṣi named Trita, thrown into the well, calls on the gods for protection. Bṛhaspati heard that invocation, lifting [him] up from this sin that has the form of falling in the well, and doing [him] a greater good. O Heaven and Earth, hear this lament of mine and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"Trita, fallen into the well, invokes the Gods for succour ; Brihaspati, who liberates many from sin, heard (the supplication). Heaven and earth, be conscious of this (my affliction)."
+
+---
+
+**Progress note:** Printed pp. 1–517 done (PDF 21–537): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.16 complete (pp. 441–516); Rik 105.17 (printed pp. 516–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha and printed English done (pp. 516–517). Next: printed p. 518 (PDF 538): the Special Topics and grammar of 105.17, then Riks 105.18–19. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
