@@ -4948,4 +4948,153 @@ The word *vṛṣan* is used in many places in the sense of *pumān*, 'a male, c
 
 ---
 
-**Progress note:** Printed pp. 1–169 done (PDF 21–189): **Sūkta 100** (19 Ṛks) in progress: heading block and Rik 100.1 (Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, English) done; Special Topics of 100.1 (the sense of *vṛṣan*/*vṛṣṇya*) under way, done through the first sentence of p. 169's last paragraph. Next: printed p. 170 (PDF 190): the Special Topics of 100.1 continue mid-sentence ('…the word *vṛṣan* is used as a synonym of Indra and other deities'). Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?].
+### Page 170 (PDF 190)
+
+*(Running head: left 170; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**Special Topics of Rik 100.1, continued from p. 169 (Kannada)**
+
+"[…the word *vṛṣan* is used as a synonym of Indra and other deities —] since it is so used, in such places one has to infer, according to the context, which deities are meant."
+
+> आपोषा [as printed] आनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा ।
+> *āpoṣā [as printed] ānasaḥ sarat saṃpiṣṭād aha bibhyuṣī | ni yat sīṃ śiśnathad vṛṣā |*
+> (*Ṛ. Saṃ.* 4-30-10 as read [?])
+
+"— here it may be inferred to be a synonym of Indra. But it is also the cause of doubt in many places, as to which deity is meant. Sometimes even Sāyaṇācārya, in explaining this epithet, has not reached a firm decision."
+
+> वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति ।
+> *vṛṣā chandur bhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yad invati |*
+> (*Ṛ. Saṃ.* 1-[3?]5-4 as read [?])
+
+"In this Ṛk, for the word *vṛṣā* he first says '*vṛṣā — haviṣāṃ varṣayitā yajamānaḥ*' — the sacrificer who makes the oblations 'shower'; and then '*yadvā vṛṣā — indraḥ*' — and so leaves room for doubt. Thus, since it is used in various meanings, in each context the sense that fits it must be understood. In explaining this pregnant word, Max Müller, the English commentator, has told the depth of the ideas expressed by this word as follows:"
+
+> In Vrishan we have one of those words which it is almost impossible to translate accurately. It occurs over and over again in the Vedic hymns and if we once know the various ideas which it either expresses or implies, we have litte [sic] difficulty in understanding its import in a vague and general way, though we look in vain for corresponding terms in any modern language … … … and we shall see how difficult it would be to translate such terms without losing either the key-note that was still sounding, or the harmonies which were set vibrating by it in the minds of the poets and their listeners.
+> (F. Max Muller, *The Sacred Books of the East*, Vol. XXXII, pp. 138–139) *(English in the original.)*
+
+"Since the word *vṛṣan* is used chiefly in the senses of *vīrya* and *parākrama* ('valour, prowess'), in this present Ṛk also *vṛṣṇyebhiḥ* means 'endowed with prowess', and so points to Indra. The point that, among gods or men, none can be equal to Indra in prowess, and that all are astonished at seeing Indra's deeds of valour, is told in many places. For example —"
+
+> अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते ।
+> *asyed u bhiyā girayaś ca dṛḷhā dyāvā ca bhūmā januṣas tujete |*
+> (*Ṛ. Saṃ.* 1-61-14 as read [?])
+
+### Page 171 (PDF 191)
+
+*(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 171.)*
+
+> आनुत्तमा [as printed] ते मघवन्नकिर्नु न त्वावाँ अस्ति देवता विदानः ।
+> न जायमानो नशते न जातो यानि करिष्या कृणुहि प्रवृद्ध ॥
+> *ānuttamā [as printed] te maghavann akir nu na tvāvāṃ asti devatā vidānaḥ | na jāyamāno naśate na jāto yāni kariṣyā kṛṇuhi pravṛddha ‖*
+> (*Ṛ. Saṃ.* 1-[?]-9 as read [?])
+
+> न द्यावा इन्द्रमोजसा नान्तरिक्षाणि वज्रिणम् । न विव्यचन्त भूमयः ॥
+> *na dyāvā indram ojasā nāntarikṣāṇi vajriṇam | na vivyacanta bhūmayaḥ ‖*
+> (*Ṛ. Saṃ.* 8-6-1[5?] as read [?])
+
+> नहि न्वस्य प्रतिमानमस्त्यन्तर्जातेषूत ये जनित्वाः ।
+> *nahi nv asya pratimānam asty antar jāteṣūta ye janitvāḥ |*
+> (*Ṛ. Saṃ.* 4-18-4 as read [?])
+
+*(Glosses, mine and tentative: "None, O Maghavan, has surpassed these [deeds] of yours; no god who knows is like you; neither the one being born nor the one born reaches [you], whatever you will do, O grown one"; "Not the heavens, by [his] might, nor the airy spaces, nor the earths, could withstand Indra, the thunderbolt-bearer"; "There is no match for him among the born or those still to be born".)*
+
+"— as it is described in such Ṛks, Indra, endowed with incomparable powers, is praised as lord of all the worlds. The epithets *samrāṭ* and *svarāṭ* show the highest rank that Indra holds."
+
+> आवासृजन्त [?] जिव्रयो न देवा भुवः सम्राळिन्द्र सत्ययोनिः ।
+> *āvāsṛjanta [?] jivrayo na devā bhuvaḥ samrāḷ indra satyayoniḥ |*
+> (*Ṛ. Saṃ.* 4-1[8?]-3 as read [?])
+
+> एवा वस्व इन्द्रः सत्यः सम्राड्ढन्ता वृत्रं वरिवः पूरवे कः ।
+> *evā vasva indraḥ satyaḥ samrāḍ dhantā vṛtraṃ varivaḥ pūrave kaḥ |*
+> (*Ṛ. Saṃ.* 4-21-10 as read [?])
+
+> राजाभवो जगतश्चर्षणीनां साकं सूर्यं जनयन्द्यामुषासम् ।
+> *rājābhavo jagataś carṣaṇīnāṃ sākaṃ sūryaṃ janayan dyām uṣāsam |*
+> (*Ṛ. Saṃ.* 6-30-5 as read [?])
+
+"— as in these and many other Ṛks Indra is addressed and described as lord of all the worlds, so also here.
+
+*Satīnasatvā* — [as the word] *arṇaḥ, kṣodaḥ, kṣadma* and the like are read among the hundred and one names of water (*Ni.* [1-?]3 as read [?]) [sic: the Naighaṇṭuka list], *satīna* means water. *Satīnasya satvā* — the one who causes it to descend, to flow: the one who makes water flow for all the world. To open the place that Vṛtra had blocked, and so make the water flow, is one of Indra's deeds of valour. As the deeds of Indra are described in the thirty-second sūkta of the first maṇḍala of the Ṛgveda (*indrasya nu vīryāṇi pra vocam*) —"
+
+> प्र ते इन्द्र पूर्व्याणि प्र नूनं वीर्या वोचं प्रथमा कृतानि ।
+> सतीनमन्युरश्रथायो अद्रिं सुवेदनामकृणोर्ब्रह्मणे गाम् ॥
+> *pra te indra pūrvyāṇi pra nūnaṃ vīryā vocaṃ prathamā kṛtāni | satīnamanyur aśrathāyo adriṃ suvedanām akṛṇor brahmaṇe gām ‖*
+> (*Ṛ. Saṃ.* 10-111-1 as read [?])
+
+*(Gloss, mine and tentative: "I proclaim your ancient, your first-done heroic deeds, O Indra: [you] whose wrath was for the waters, you split the mountain, you made the easily-found cow for the priest".)*
+
+"— in this Ṛk also, praising the heroic deeds of Indra, the epithet *satīnamanyuḥ* is joined, and as *satīnasatvā* is used in this Ṛk, the quality of Indra who sends down water *[the sentence continues on p. 172]*"
+
+### Page 172 (PDF 192)
+
+*(Running head: left 172; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+"[— the quality of Indra who sends down water] is told. *Satīnasatvā*, *satīnamanyuḥ* mean 'one endowed with the intention of showering water', that is, 'one whose mind is bent on sending down the water in the form of rain'.
+
+*Bhareṣu havyaḥ* — *bhara* is a name for battle (*Ni.* [?]) — '*bharater vā, harater vā*' (*Ni.* 4-24 as read [?]): the Nirukta-author shows the derivation of the word *bhara* — either from the root *bhṛ* with the sense 'to carry, bear', or from the root *hṛ* with the sense 'to take away, seize'. *Bhareṣu* — in battles; *havyaḥ* — *stotṛbhir āhvātavyaḥ* — he who is to be called by the praisers: Indra, who is called for help by all his devotees at the times of war. That Indra is the god of war is shown even at the time of his birth:"
+
+> उपस्थाय मातरमन्नमैट्ट तिग्ममपश्यदभि सोममूधः ।
+> प्रयावयन्नचरद्गृत्सो अन्यान्महानि चक्रे पुरुधप्रतीकः ॥
+> *upasthāya mātaram annam aiṭṭa tigmam apaśyad abhi somam ūdhaḥ | prayāvayann acarad gṛtso anyān mahāni cakre purudhapratīkaḥ ‖*
+> (*Ṛ. Saṃ.* 3-48-2 as read [?])
+
+> जज्ञानः सोमं सहसे पपाथ प्र ते माता महिमानमुवाच ।
+> एन्द्र पप्राथोर्व१न्तरिक्षं युधा देवेभ्यो वरिवश्चकर्थ ॥
+> *jajñānaḥ somaṃ sahase papātha pra te mātā mahimānam uvāca | endra paprāthorv antarikṣaṃ yudhā devebhyo varivaś cakartha ‖*
+> (*Ṛ. Saṃ.* [3?]-4[9?]-3 as read [?])
+
+*(Glosses, mine and tentative: "Standing by [his] mother he sought food; he saw the sharp [Soma] over the udder of Soma [plant]… he went about driving others away, the many-faced one did great things"; "Born, you drank Soma for strength; your mother proclaimed your greatness; you, O Indra, filled the wide mid-air; in battle you made room for the gods".)*
+
+"— as in many places, Indra on being born drank Soma, for the increase of his strength and as the helper for the preparation for war; and in battle he won the victory and made room for the movement of the gods: so he is praised. And therefore his devotees too call upon Indra for help at all times of war."
+
+> यं क्रन्दसी संयती विह्वयेते परेऽवर उभया अमित्राः ।
+> *yaṃ krandasī saṃyatī vihvayete pare 'vara ubhayā amitrāḥ |*
+> (*Ṛ. Saṃ.* 2-12-8 as read [?])
+
+> त्वां वृत्रेष्विन्द्र सत्पतिं तरुत्रं त्वां चष्टे मुष्टिहा गोषु युध्यन् ।
+> *tvāṃ vṛtreṣv indra satpatiṃ tarutraṃ tvāṃ caṣṭe muṣṭihā goṣu yudhyan |*
+> (*Ṛ. Saṃ.* 6-3[3?]-3 as read [?])
+
+*(Glosses, mine and tentative: "Whom the two roaring [hosts] when they meet call upon, the far and the near, both [sets of] foes"; "You, Indra, the lord of the good in the battles, the carrier across — you the fist-smiter calls on, fighting for cattle".)*
+
+"— and so on: since he is called upon in times of war, there is the epithet *bhareṣu havyaḥ*.
+
+*Marutvān* — the eternal companionship between Indra and the Maruts is well known in the Śruti. The relation of ruler and subjects between Indra and the Maruts, the offering of oblations jointly to Indra and the Maruts in the principal sacrificial acts, and the help the Maruts give Indra when he fights against the demon Vṛtra, are praised in many places in the Saṃhitās and the Brāhmaṇas. A story of old, which tells how Indra, together with the Maruts, stood apart from the other gods, can be seen in the Śatapatha Brāhmaṇa."
+
+### Page 173 (PDF 193)
+
+*(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 173.)*
+
+> आतिथ्येन वै देवा इष्ट्वा । तान्स्वमदेन्द्रत्ते [?] चतुर्धा व्यद्रवन्न्योन्यस्य श्रिया ज्योतिष्मानाः [?] । अग्निर्वसुभिः । सोमो रुद्रैर्वरुण आदित्यैरिन्द्रो मरुद्भिर्बृहस्पतिर्विश्वैर्देवैः ।
+> *ātithyena vai devā iṣṭvā | tān svamadendratte [?] caturdhā vyadravann anyonyasya śriyā jyotiṣmānāḥ [?] | agnir vasubhiḥ | somo rudrair varuṇa ādityair indro marudbhir bṛhaspatir viśvair devaiḥ |*
+> (*Śat. Br.* 3-4-3-1 as read [?]; the second sentence is clotted in print and not completed from memory)
+
+"Formerly, when the gods had performed the *ātithya* rite, each — out of rivalry, unwilling to be outshone by another's splendour [as the sense seems; the print's words are clotted] — formed four groups and separated: Agni with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Maruts, and Bṛhaspati with the Viśvedevas formed separate groups. In this story, Indra's companionship with the Maruts, and the close relationship held with them, are stated. Besides this, in many places Indra is said to be the lord and the Maruts the subjects. For example —"
+
+> क्षत्रं वा इन्द्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति ।
+> *kṣatraṃ vā indro viśo maruto viśā vai kṣatriyo balavān bhavati |*
+> (*Śat. Br.* 2-5-2-6 as read [?])
+
+"Indra is the ruler endowed with *kṣatra* splendour; the Maruts are the subjects. By the cooperation of the subjects the king becomes a man of strength: so by the help of the Maruts the prowess of Indra increased, it is suggested. Because of such close relationship and companionship, the order of offering oblations by invoking Indra and the Maruts together is also found in the Śrutis:"
+
+> अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति । गणैरिन्द्रस्य काम्यैः ॥
+> *anavadyair abhidyubhir makhaḥ sahasvad arcati | gaṇair indrasya kāmyaiḥ ‖*
+> (*Ṛ. Saṃ.* 1-6-8 as read [?])
+
+> मन्द्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इन्द्रे मरुतः परिष्टुभः ।
+> *mandrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā indre marutaḥ pariṣṭubhaḥ |*
+> (*Ṛ. Saṃ.* 1-1[6?]6-11 as read [?])
+
+> स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ।
+> *sa no marudbhir vṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*
+> (*Ṛ. Saṃ.* 1-1[7?]0-3 as read [?])
+
+*(Glosses, mine and tentative: "With blameless, heaven-aimed bands the sacrificer [or: the generous one] praises mightily, with the lovely hosts of Indra"; "The glad, fair-tongued Maruts, singers with their mouths, joined in Indra, the praisers all around"; "Do you, O bull, with the Maruts, give us fame, fierce with the fierce, the aged giver of strength".)*
+
+"— and from Ṛks such as these there is the invocation, and the offering of oblation, to Indra and the Maruts together. Because there is such companionship, here too he has the epithet *marutvān*. In the Bṛhaddevatā, the epithet that signifies the connection of these deities is explained thus: that in all occasions where Indra is invoked with the Maruts he is called *marutvān* —"
+
+> मरुद्भिः सह यत्रेन्द्रो मरुत्वांस्तत्र सोऽभवत् ।
+> *marudbhiḥ saha yatrendro marutvāṃs tatra so 'bhavat |*
+> (*Bṛ. De.* 4-[5?]6 as read [?]; the second line is not read in the print before the break, and the verse is continued on the next page)
+
+---
+
+**Progress note:** Printed pp. 1–173 done (PDF 21–193): **Sūkta 100** in progress: Rik 100.1 Special Topics (the sense of *vṛṣan*, *satīnasatvā*, *bhareṣu havyaḥ*, *marutvān*) done through the first line of the Bṛhaddevatā verse on p. 173. Next: printed p. 174 (PDF 194): the Bṛhaddevatā verse (second line) continues, then the rest of the Special Topics of 100.1, grammar, and Rik 100.2. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?].
