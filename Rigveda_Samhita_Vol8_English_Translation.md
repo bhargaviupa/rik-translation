@@ -13643,5 +13643,103 @@ May Agni, who calls the gods, who is exceedingly wise, endowed with generosity a
 Grammar page, noted briefly. *Acchā* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening in the Saṃhitā). *Havyā* (the neuter plural *havyāni*; the loss of *śi* by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]). *Suṣūdati* (root *ṣūda kṣaraṇe*; *leṭ*, third person singular, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*, Pā. Sū. 3-4-94 as read [?]; *śap* becomes *ślu* by *bahulaṃ chandasi*, Pā. Sū. 2-4-76 as read [?]; the doubling of the root by *ślau*, Pā. Sū. 6-1-10 as read [?]; shortening of the reduplicate; *ṣatva* by *ādeśapratyayayoḥ*; *nighāta* as it follows a non-verb) *(the grammar continues on p. 506)*
 
 ---
+### Page 506 (PDF 526)
 
-**Progress note:** Printed pp. 1–505 done (PDF 21–525): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.13 complete (pp. 441–502); Rik 105.14 (printed pp. 503–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 503–505); grammar begun at the foot of p. 505 (after *suṣūdati*). Next: printed p. 506 (PDF 526). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 506; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.14 concludes (noted briefly). *Medhiraḥ* (*medhā asya asti iti medhiraḥ*: by the vārttika *medhārathābhyām iranirac cau vaktavyau*, Pā. Sū. 5-2-109 as read [?], the suffix *iran* in the sense of 'possessing' after the word *medhā*; loss of *ā* by *yasyeti ca*, Pā. Sū. 6-4-148 as read [?]; the form *medhira*; since the suffix is *nit*, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]; nominative singular). The Rik is closed with *‖ 14 ‖* and an ornament.
+
+## Rik 105.15 — printed pp. 506–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.15)**
+
+> ब्रह्म कृणोति वरुणो गातुविदं तमीमहे ।
+> व्यूर्णोति हृदा मतिं नव्यो जायतामृतं वित्तं मे अस्य रोदसी ॥ १५ ॥
+
+*brahma kṛṇoti varuṇo gātuvidaṃ tam īmahe | vyūrṇoti hṛdā matiṃ navyo jāyatām ṛtaṃ vittaṃ me asya rodasī ‖ 15 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.15)**
+
+> ब्रह्म । कृणोति । वरुणः । गातुऽविदम् । तम् । ईमहे ।
+> वि । ऊर्णोति । हृदा । मतिम् । नव्यः । जायताम् । ऋतम् । वित्तम् । मे । अस्य । रोदसी इति ॥ १५ ॥
+
+*brahma | kṛṇoti | varuṇaḥ | gātu-vidam | tam | īmahe | vi | ūrṇoti | hṛdā | matim | navyaḥ | jāyatām | ṛtam | vittam | me | asya | rodasī iti ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.15), begun at the foot of p. 506**
+
+> यो वरुणोऽनिष्टस्य निवारयिता देवो ब्रह्म परिवृढं तद्रक्षणरूपं कर्म कृणोति करोति । तं तादृशं गातुविदं गातोर्मार्गस्य दुःखनिवारकस्य लम्भयि…
+> *yo varuṇo 'niṣṭasya nivārayitā devo brahma parivṛḍhaṃ tadrakṣaṇarūpaṃ karma kṛṇoti karoti | taṃ tādṛśaṃ gātuvidaṃ gātor mārgasya duḥkhanivārakasya lambhayi…* *(continued on p. 507)*
+
+---
+
+### Page 507 (PDF 527)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 507.)*
+
+> …तारं वरुणमीमहे । अभिमतफलं याचामहे । ईमहे इति याच्ञाकर्मा । तस्मै वरुणायोपासकोऽस्मदीयः स्तोता हृदा हृदयेन मतिं मननीयां स्तुतिं व्यूर्णोति विवृणोति । प्रकाशयति । उच्चारयतीत्यर्थः । सोऽयं नव्यः स्तुत्यो वरुणोऽस्माकमृतं जायतां । सत्यभूतोऽस्तु ॥ ब्रह्म । आन्येषामपि दृश्यत इति सांहितिको दीर्घः । गातुविदम् । विद्ल लाभे । अन्तर्भावितण्यर्थात् क्विप् । ईमहे । ईङ् गतौ । बहुलं छन्दसीति विकरणस्य लुक् । हृदा । पद्दन्नित्यादिना हृदयशब्दस्य हृदादेशः ॥
+> *…tāraṃ varuṇam īmahe | abhimataphalaṃ yācāmahe | īmahe iti yācñākarmā | tasmai varuṇāyopāsako 'smadīyaḥ stotā hṛdā hṛdayena matiṃ mananīyāṃ stutiṃ vyūrṇoti vivṛṇoti | prakāśayati | uccārayatīty arthaḥ | so 'yaṃ navyaḥ stutyo varuṇo 'smākam ṛtaṃ jāyatāṃ | satyabhūto 'stu ‖ brahma | ānyeṣām api dṛśyata iti sāṃhitiko dīrghaḥ | gātuvidam | vidḷ lābhe | antarbhāvitaṇyarthāt kvip | īmahe | īṅ gatau | bahulaṃ chandasīti vikaraṇasya luk | hṛdā | paddannityādinā hṛdayaśabdasya hṛdādeśaḥ ‖* *(Sanskrit as read; the tail is short and is given.)*
+
+"The god Varuṇa, who prevents what is undesired, performs (*kṛṇoti*) the *brahma* — the strengthened rite whose form is protection of that [which one wishes]. Such a Varuṇa, the *gātuvid* — he who gets for us (*lambhayitāram*) the path (*gātu*) which removes sorrow — we ask (*īmahe*): we beg for the desired fruit; *īmahe* is a verb of begging. To that Varuṇa our devoted worshipper, the praiser, with his heart (*hṛdā*), opens out (*vyūrṇoti*), makes manifest, utters a thought-worthy praise (*mati*). May this Varuṇa, new (*navya*, praiseworthy), become (*jāyatām*) truth (*ṛtam*) for us, may he be of the nature of truth. *Brahma*: the lengthening in the Saṃhitā. *Gātuvidam*: root *vidḷ lābhe*; the suffix *kvip* since a causal sense is included. *Īmahe*: root *īṅ gatau*; the loss of the *vikaraṇa* by *bahulaṃ chandasi*. *Hṛdā*: *hṛd* for the word *hṛdaya* by *pad-dan-…*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.15; Kannada; English)**
+
+*Varuṇaḥ* — Varuṇa, who wards off [what we should be spared of]; *brahma* — the rite whose form is protection; *kṛṇoti* — does; *gātuvidam* — such a Varuṇa, who shows the way that prevents sorrow; *tam* — that Varuṇa; *īmahe* — we ask (to give us the desired objects and to be our guide); *hṛdā* — whole-heartedly; *matim* — a hymn; *vyūrṇoti* — (the praiser) composes; *navyaḥ* — Varuṇa who is worthy of hymns; *ṛtam* — as one of the nature of truth, as a helper (to us); *jāyatām* — may he become; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Varuṇa, who wards off what is undesired, performs the protecting rite. We pray that such a Varuṇa, who prevents sorrow and shows the way, be our guide. The praiser offers a hymn to that Varuṇa whole-heartedly. May that Varuṇa, who is worthy of hymns, become a helper of the nature of truth for us. O Heaven and Earth, know my sorrow, and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"Varuna performs the rite of preservation ; we desire him as the guide of our way ; (to him, the repeater of praise) addresses praise with his (whole) heart ; may he who is entitled to laudation become our true (support). Heaven and earth, be conscious of this (my affliction)."
+
+---
+
+### Page 508 (PDF 528)
+
+*(Running head: left 508; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.15)**
+
+**Varuṇaḥ** — *varuṇo vṛṇotīti satyaḥ [?] |* "the Nirukta-author has given the derivation that the word *varuṇa* is formed from the root *vṛ* (*vṛñ*), which gives the sense of 'releasing, setting free' (*Ni.* 10-[?] as read [?]). For this, Durgācārya has explained '*vyudṇotīti meghajālena*' [as read [?]]: 'he covers the mid-region with a mass of clouds' [?]. Sāyaṇa, in the bhāṣya of this Ṛk, has explained Varuṇa as *aniṣṭasya nivārayitā devaḥ* — 'the god who wards off the undesired': he who spares [us] ill-fortune."
+
+**Brahma** — *tadrakṣaṇarūpaṃ karma |* "here the word *brahma* means 'a rite whose form is protection'. 'He performs such a rite': so says Sāyaṇa. And Skandasvāmin says '*brahma — stutilakṣaṇam: kṛṇotikārayati kāmān stotṛbhir ātmānaṃ stāvayatīty arthaḥ*' [as read [?]]: '*brahma* is [a rite] of the form of praise; *kṛṇoti* means *kārayati*, "makes it done": the meaning is that he causes himself to be praised by the praisers'. In the second explanation also the purport is that Varuṇa carries out such functions as protecting the world and makes the whole world praise him."
+
+**Gātuvidam** — *gātor mārgasya duḥkhanivārakasya lambhayitāraṃ varuṇam |* "'Varuṇa, who shows the path that prevents sorrow': Sāyaṇa; and Skandasvāmin has explained '*yajñān prati gantuṃ jñātāram*': 'one who knows the path for going to sacrifices'. For the word *gātu*, the senses 'the path of conduct', 'the path of going to the world of the gods', and 'the path of going to sacrifices' can be given. Just as for the word *sugam* (see the Special Topics of the Ṛk 1-[?]-[?]), this word too has both physical and ethical senses. Since Varuṇa is the guardian of *ṛta* and *dhṛtavrata*, the sense may be 'the knower of the paths of keeping the *vrata*'; or 'the knower of the ways of moral conduct (*nīti*)'. As this epithet is used with reference to Varuṇa, so it is used with reference to Indra and other deities also; but if their ethical sense be taken, it is more fitting as an epithet of Varuṇa."
+
+**Īmahe** — *abhimataphalaṃ yācāmahe | īmahe iti yācñākarmā |* "since *īmahe* is read among the verbs of asking, here it means 'we ask that our desired objects be granted'."
+
+**Matim** — *mananīyāṃ stutim |* "'a hymn exceedingly pleasing'; *vyūrṇoti* — *uccārayati | prakāśayati |* 'he utters, he makes known, he composes': so the meaning. *Ūrṇuñ ācchādane* [the root *ūrṇu*, 'to cover', yields] *ūrṇoti*; here, with the prefix *vi*, '*vigata-ācchādane*', that is, 'he removes the covering', 'unveils'; the purport is 'he makes manifest': the sense is that he offers a mental hymn and so makes it manifest. This manifestation may be of many kinds" *(continued on p. 509)*
+
+---
+
+### Page 509 (PDF 529)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 509.)*
+
+> व्यूर्ण्वती दिवो अन्ताँ अबोध्यप स्वसारं सनुतर्युयोति ।
+> *vyūrṇvatī divo antāṁ abodhy apa svasāraṃ sanutar yuyoti |* (*Ṛ. Saṃ.* 6-[?]3-1[?] as read [?]; the words as read from the print [?])
+
+"— in this Ṛk, the word *vyūrṇvatī* means 'the dawn that, dispelling the darkness which covers all around, makes the world shine'. In some places the word also has the sense 'giving'. For example —
+
+> व्यूर्ण्वती दाशुषे वार्याणि पुनर्ज्योतिर्युवतिः पूर्वथाकः ।
+> *vyūrṇvatī dāśuṣe vāryāṇi punar jyotir yuvatiḥ pūrvathākaḥ |* (*Ṛ. Saṃ.* 3-[?]-6 as read [?])
+
+— in this Ṛk '*preyacchantī*', 'giving', is given as the sense. Here too the meaning is 'he reveals and gives'."
+
+**Navyaḥ** — "since the word *nauti* is read among the names of verbs of worship, *navyaḥ* is formed from it and means *stutyaḥ*, 'worthy of praise, to be hymned'. May such a Varuṇa *ṛtaṃ jāyatām* — *satyabhūto 'stu* — 'become of the nature of truth', that is, may the sacrifices and the acts of worship that we perform not be in vain, but all bear fruit."
+
+"Skandasvāmin here explains the word *mati* as 'knowledge': '*mama manaso jñānam utthāpayety arthaḥ*' [as read [?]]: 'make knowledge arise in my heart'. And —
+
+> यः ब्रह्म कृणोति वरुणः यष्टृ प्रकाशादिकरणेन सर्वप्राणिनां व्यूर्णोति हृदयस्य मतिं ज्ञानं तं मयीमहे । नव्यो जायतामृते अस्मदीये इति ।
+> *yaḥ brahma kṛṇoti varuṇaḥ yaṣṭṛ prakāśādikaraṇena sarvaprāṇināṃ vyūrṇoti hṛdayasya matiṃ jñānaṃ taṃ mayīmahe | navyo jāyatām ṛte asmadīye iti |* *(as read; clotted in places [?])*
+
+— 'the Varuṇa who performs the *brahma*, who by making light and the like for all beings, unveils the knowledge (*mati*) of the heart: him we ask. May he, praiseworthy, be born [present] in our *ṛta*.' So they have explained: 'which Varuṇa, who becomes the praised, destroys the ignorance of our heart and illumines knowledge, may he be praised at our sacrifice' — such is the meaning. Here Sāyaṇa's explanation is the more fitting."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.15)** *(grammar page, p. 509 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Brahma* (the word *brahman*; in the neuter, the loss of the *su* ending by *svamor napuṃsakāt*, Pā. Sū. 7-1-23 as read [?]; the loss of *n* by *nalopaḥ prātipadikāntasya*, Pā. Sū. 8-2-7 as read [?]; lengthening in the Saṃhitā by *ānyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]) *(the grammar continues on p. 510)*
+
+---
+
+**Progress note:** Printed pp. 1–509 done (PDF 21–529): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.14 complete (pp. 441–506); Rik 105.15 (printed pp. 506–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 506–509); grammar begun at the foot of p. 509 (at *brahma*). Next: printed p. 510 (PDF 530). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
