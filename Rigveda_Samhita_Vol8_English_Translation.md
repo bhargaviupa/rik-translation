@@ -19476,5 +19476,131 @@ Maṇḍala 1 ‖ Anuvāka 16 ‖ Sūkta 112 ‖ Aṣṭaka 1 ‖ Adhyāya 7 ‖
 To give the Aśvin deities foreknowledge of their coming, I praise Heaven and Earth, who are near them. At the time of their coming, the Agni installed for the sacrifice directed to them *(the Bhāvārtha runs on to p. 725)*
 
 ---
+### Page 725 (PDF 745)
 
-**Progress note:** Printed pp. 1–724 done (PDF 21–744): Sūkta 111 complete (five Ṛks, printed pp. 701–721; closing line 'nūra hannondaneya sūktavu mugidudu' on p. 721). Sūkta 112 (25 Ṛks: 1–23 Jagatī, 24–25 Triṣṭubh; Kutsa Āṅgirasa; Dyāvāpṛthivī/Agni in the first Ṛk's first two pādas, otherwise the Aśvins) begins at the foot of printed p. 721 — NOT p. 722: title and Sāyaṇa's introduction (pp. 721–722), heading (p. 722), Rik 112.1 (pp. 723–[?]): Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha done and the Bhāvārtha begun, ending mid-sentence at the foot of p. 724. Next: printed p. 725 (PDF 745). Last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 725.)*
+
+*(The Bhāvārtha of Rik 112.1 concludes:)* "…the Agni installed for the sacrifice directed to them — Agni who is kindled, and who is of beautiful lustre — I praise. O Aśvin deities! with whatever protections you come, and, in battle, sound the conch for the victory belonging to your share, with those same protections, all together, come to us also."
+
+**English Translation (as printed in the source; Rik 112.1)**
+
+"I praise Heaven and Earth for preliminary meditation, (prior to the coming of the Aswins); I praise the hot and shining Agni upon their approach, (as perparatory [sic]) to their worship: with those appliances with which you sound the conch shell in battle for your share (in the booty), with those aids, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.1)**
+
+**ईळे द्यावापृथिवी पूर्वचित्तये — Īḷe dyāvāpṛthivī pūrvacittaye.** Sāyaṇa gives two meanings for this sentence. First: *pūrvacittaye*, in order to give the Aśvin deities foreknowledge [of the coming], *īḷe*, I praise *dyāvāpṛthivī*, Heaven and Earth. Second: *pūrvacittaye*, so that my hymn may come to [their] notice before the other hymns, I praise the Aśvin deities as *dyāvāpṛthivī*. In taking the second meaning he shows the identity of the Aśvin deities with Heaven and Earth. This is one of the opinions which the Nirukta-writer states on the subject of the Aśvin deities, '*tat kāv aśvinau dyāvāpṛthivī ity eke*' ('Heaven and Earth, say some' [?], *Ni.* 12-1 as read [?]), and both meanings support it. The *śruti* [too] is of help. For example, in the Śatapatha Brāhmaṇa:
+
+> द्यावापृथिवी प्रत्यक्षमश्विनावमे हीदं सर्वमाश्नुवाताम् ।
+> *dyāvāpṛthivī pratyakṣam aśvināv ime hīdaṃ sarvam āśnuvātām |*
+> (*Śa. Brā.* 4-1-16 as read [?])
+> "Heaven and Earth are visibly the two Aśvins; for these two pervade all this." *(mine and tentative)*
+
+As is said there, a sentence showing identity — that Heaven and Earth, since they pervade everything, are visibly the Aśvin deities — supports this opinion. The Nirukta-writer too says, in the same sense:
+
+> अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः ।
+> *aśvinau yad vyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ |*
+> (*Ni.* 12-1 as read [?])
+> "…the Aśvins, because the two pervade everything, the one with moisture, the other with light." *(mine and tentative)*
+
+— explaining it by the sentence 'those who pervade, the one with water [moisture] and the other with light'. Therefore both meanings given by Sāyaṇa are well supported.
+
+**यामन् — Yāman.** *aśvinor āgamane sati* — Sāyaṇa: 'at the coming of the Aśvin deities', or 'at that time'; and Skandasvāmi:
+
+> यान्त्यस्मिन्देवता द्विजातयश्च इति यामो यज्ञः ।
+> *yāṃty asmin devatā dvijātayaś ca iti yāmo yajñaḥ |*
+> "*Yāma* is the sacrifice, because gods and the twice-born come to it."
+
+— since gods and the twice-born come and gather here, Skandasvāmi explains the word *yāma* as 'sacrifice' *(the passage runs on to p. 726)*
+
+---
+
+### Page 726 (PDF 746)
+
+*(Running head: left 726; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…Since it is formed from the root *yā prāpaṇe*, a sense suited to the context results [in either way]. In such contexts a difference of meaning is possible, in line with the commentators' bent. For example:
+
+> आजोहवीन्नासत्या करा वां महे यामन्पुरुभुजा पुरंधिः ।
+> *ājohavīn nāsatyā karā vāṃ mahe yāman purubhujā purandhiḥ |*
+> (*Ṛ.* 1-116-[?]7 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+For the word *yāman* in this Ṛk, Sāyaṇa has *yāti gacchatīti yāmaḥ stotram* — 'what goes, that is *yāma*: a hymn'; Skandasvāmi has:
+
+> यान्ति योद्धारो यस्मिन् स यामः सङ्ग्राम इहाभिप्रेतः ।
+> *yānti yoddhāro yasmin sa yāmaḥ saṅgrāma ihābhipretaḥ |*
+> "That in which the warriors go is *yāma*: battle is what is meant here."
+
+— the meaning here is 'battle'; and
+
+> इन्द्रं नमस्यन्नुपमेभिरर्कैर्यः स्तोतृभ्यो हव्यो अस्ति यामन् ।
+> *indraṃ namasyann upamebhir arkair yaḥ stotṛbhyo havyo asti yāman |*
+> (*Ṛ.* 1-33-[?] as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+— for the word *yāman* in this Ṛk Sāyaṇa gives 'battle', Skandasvāmi 'sacrifice'. Likewise for this word, in the Ṛk before us too, a difference of meaning arises."
+
+**याभिर्भरे … ताभिरूतिभिः — Yābhir bhare … tābhir ūtibhiḥ.** *(the print has a row of dots in the middle of the quotation)* "With whatever protections you came and, before, helped [them], with those same protections, now also, come to protect us too": thus the earlier circumstance in which they helped their devotees is indicated. Skandasvāmi has explained the story of that circumstance:
+
+> अत्रेतिहासमाचक्षते । अंशनामानमादित्यानामन्यतमं पर्यटन्तमसुरा जगृहुः [?] । सोऽश्विनावाजुहाव । तावश्विनौ शङ्खमापूरयन्तावाजग्मतुः । तस्माच्छङ्खशब्दादेव बिभ्युस्तेऽसुरा नेशुरिति । तदेतदिहोच्यते ।
+> *atretihāsam ācakṣate | aṃśanāmānam ādityānām anyatamaṃ paryaṭantam asurā jagṛhuḥ [?] | so 'śvināv ājuhāva | tāv aśvinau śaṅkham āpūrayantāv ājagmatuḥ | tasmāc chaṅkhaśabdād eva bibhyus te 'surā neśur iti | tad etad ihocyate |*
+> *(Sanskrit as read; the first verb is doubtful [?].)*
+> "Here they tell the tale: the asuras seized one of the Ādityas named Aṃśa, as he was wandering about; he called the two Aśvins; those two came blowing the conch; the asuras, afraid at the very sound of the conch, perished. This is what is said here."
+
+"Once, one of the Ādityas, named Aṃśa, was seized by the asuras while he was wandering. He then called the Aśvin deities to help; they came sounding their conch, making a sound that frightened the asuras; the asuras, terrified by that sound, all perished. This circumstance is indicated [in the Ṛk]." Sāyaṇa, giving the word *aṃśa* the sense of 'share', explains it as: 'in time of battle, with whatever sounding of the conch and with whatever protections you come for the victory which belongs to your share, with those same protections come to us also': this is the prayer.
+
+**कारम् — Kāram.** *kāraśabdaḥ śaṅkhavācīty abhiyuktāḥ saṅgirante | kāraṃ śabdakāriṇaṃ śaṅkham |* — "The learned say that the word *kāra* denotes a conch; hence *kāra* means the conch that makes a sound." To support this meaning, Skandasvāmi has:
+
+> अगस्त्यो नरां नृषु प्रशस्तः कारादुनीव चितयत्सहस्रैः ।
+> *agastyo narāṃ nṛṣu praśastaḥ kārādhunīva citayat sahasraiḥ |*
+> (*Ṛ.* 1-[?]-[?] as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+*(the passage continues on p. 727)*
+
+---
+
+### Page 727 (PDF 747)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 727.)*
+
+*(…continuing:)* "…citing this Ṛk, he shows that, as the word *kāra* has the meaning 'conch' there, here too it has the same meaning. But the word *kāra* does not denote a conch in every place where it occurs. This word is formed from the root *kṛ*, and means in general 'a means of making a sound': it may denote a conch in some places, and give another meaning in the rest. For example:
+
+> चकर्थ कारमेभ्यः पृतनासु प्रवन्तवे ।
+> *cakartha kāram ebhyaḥ pṛtanāsu pravantave |*
+> (*Ṛ.* 1-[?]-[?] as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+In this Ṛk the word *kāra* means just a sound of the nature of a lion's roar [*siṃhanāda*]. To show that it does not always denote a conch, Skandasvāmi too has: *athavā kriyate iti kāraśabda ihocyate* — 'or the word *kāra* is said here in the sense of "what is done"'; the word *kāra* here gives only the sense 'one who does'; and by the context he explains that the word means a conch. And:
+
+> पश्वयन्त्रासो अभि कारमर्चन्ति धमन्ति ज्योतिश्च कृपन्ते धीभिः [?]
+> *paśvayantrāso abhi kāram arcanti dhamanti jyotiś ca kṛpante dhībhiḥ [?]*
+> (*Ṛ.* 4-1-14 as read [?])
+> *(Sanskrit as read from the print, doubtful throughout [?]; no gloss attempted.)*
+
+In all such Ṛks the sense is only '*kartāram*', 'the doer'. In the Ṛk before us the word means the sound-making conch, to suit the context."
+
+**जिन्वथः — Jinvathaḥ.** *prīṇitavantau āpūritavantau sthaḥ* — "you have pleased, you have filled": 'you filled [the conch] with sound', i.e. 'you made a sound'. Or, since the word *jinvati* is read among the names of verbs of motion (*Ni.* 2-[?]9 as read [?]), here too: Skandasvāmi has the sense of motion: *yair gamanair aṃśaṃ prati gatavantau sthaḥ tābhiḥ* ………… *(the print has a row of dots)* 'in the way you went to help Aṃśa, so now'. Whichever sense is taken, the word *jinvati* shows an excess of delight. '*jinvatiḥ prītikarmā*' (*Ni.* 6-[?]2 as read [?]): to show the great delight indicated by this word, the Nirukta-writer has cited the Ṛk:
+
+> भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः ।
+> *bhūmiṃ parjanyā jinvanti divaṃ jinvanty agnayaḥ |*
+> (*Ṛ.* 1-164-51 as read [?])
+> "The rain-clouds gladden the earth, the fires gladden the sky." *(mine and tentative)*
+
+"In the Ṛk before us, either by sounding the conch or by their going, they show their delight, and the purport is that they have become the energizers of their devotees; as before, so now they are begged to come to us with the same protections."
+
+**घर्मम् — Gharmam.** *prakāśamānaṃ jvalitam agnim* — 'the shining, or kindled, Agni' is the sense given here. The word *gharma* is read among the names of 'day' (*Ni.* 1-20 as read [?]) and also among the names of 'sacrifice' (*Ni.* 3-17 as read [?]). Here, "kindled at the time of the *Pravargya*" is an epithet of Agni.
+
+---
+
+### Page 728 (PDF 748)
+
+*(Running head: left 728; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.1)** *(grammar pages, pp. 728–729, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Īḷe*: root *īḍa stutau*; *laṭ*, singular, with the augment *iṭ* [the print says "third person"; the form is first person]; by *ṭita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79 as read [?]) *e*; the *luk* of *śap* by *ādiprabhṛtibhyaḥ śapaḥ* (*pā.* 2-4-72 as read [?]); since it is at the beginning of a *pāda* there is no *nighāta*; because the root is *anudāttet*, by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?]) the *sārvadhātuka* is *anudātta*, and the root-accent remains. *Dyāvāpṛthivī*: *dyauś ca pṛthivī ca*; in the compound, by *divo dyāvā* (*pā.* 6-3-29 as read [?]) the substitute *dyāvā*, with first-syllable *udātta*, is irregularly formed; since the word *pṛthivī* belongs to the *śārṅgaravādi* [class], it ends in *ṅīṣ* and is final-*udātta*; by *devatādvandve ca* (*pā.* 6-2-141 as read [?]) both members keep their own accents in the compound; since [the sūtra], with its *paryudāsa* of *pṛthivī* [?], is as stated, the prohibition (*pratiṣedha*) does not arise from them [as read; the sūtra-name is clotted [?]]; the dual *au* following, by *vā chandasi* (*pā.* 6-1-106 as read [?]) the lengthening to the earlier homogeneous vowel. *Pūrvacittaye*: root *citī saṃjñāne*, a root with causative sense included; *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) the suffix *ktin* in the abstract sense; by a *vārttika* of the Veda [the listing beginning *marud…* [?], *pā.* 6-2-105 as read [?]] the *kṛdanta*'s own accent is set aside and the final-*udātta* of the prior member arises. *Surucam*: root *ruca dīptāv abhiprītyāṃ ca*; *kvip* in the abstract sense by *sampadādibhyaḥ kvip* (a *vārttika*; *pā.* 3-3-108 as read [?]); 'she whose splendour (*ruk*) is good' = *suruk*; by *nañsubhyām* (*pā.* 6-2-172 as read [?]) the final of the second member is *udātta*; accusative singular. *Yāman*: root *yā prāpaṇe*; the suffix *manin* by *āto maninkvanibvanipaś ca* (*pā.* 3-2-74 as read [?]), which, by the strength of the word *bahulam* in *kṛtyalyuṭo bahulam* (*pā.* 3-3-113 as read [?]), occurs in the abstract sense; being *nit*, by *ñnityādir nityam* the first syllable is *udātta*. *Kāram*: 'that by which it is done' = *kāraḥ*; the suffix *ghañ* after the root *kṛñ* in the sense of the instrument; *vṛddhi* of the root's vowel by *aco 'ñṇiti* (*pā.* 7-2-115 as read [?]); by *karṣātvataḥ* (*pā.* 6-1-159 as read [?]) the final syllable is *udātta*. *Jinvathaḥ*: root *jivi prīṇane*; here 'pleasing' is understood by implication [*lakṣaṇā*] as 'filling' (*āpūraṇa*): a man who is filled with wealth becomes pleased in the world; by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; *laṭ*, second-person dual, *thas*… *(the page ends mid-sentence; the grammar continues on p. 729)*
+
+---
+
+**Progress note:** Printed pp. 1–728 done (PDF 21–748): Sūkta 112: Rik 112.1 (printed pp. 723–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and Special Topics done; the grammar page begun (pp. 728–[?]; ends mid-sentence at *jinvathaḥ*). Next: printed p. 729 (PDF 749) — the rest of the grammar of Rik 112.1, then Rik 112.2. Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
