@@ -16634,5 +16634,133 @@ O Indra and Agni, who grant the desired objects: even if you two are rejoicing, 
 Grammar, noted briefly. *Uditā* (root *iṇ gatau*, with *ut*; *niṣṭhā*, *kta*; by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?], since *ut* is a *gati*, the accent of the prior member; before the dual of the sixth case, *ḍā* [for *os*] by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). *Sūryasya* (root *ṣūṅ prasave* [print: *ṣūr*, *prasave*]; the form is a *nipātana* with the suffix *kyap* by *rājasūyasūrya…*, Pā. Sū. 3-1-114 as read [?]; the sixth case singular). *Divaḥ* (*ūḍidaṃ padādi*, Pā. Sū. 6-1-171 as read [?]: the ending is acute). *Mādayethe* (root *madī tṛptiyoge* [print: *mada*], *curādi*, always in the middle voice; the suffix *ṇic* by *satyāpapāśa…*, Pā. Sū. 3-1-25 as read [?], in its own sense; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; *laṭ*, second person dual, *āthām*; *ā* → *e* [*iy*?] for the *ā* by *ātoṅitaḥ*, Pā. Sū. 7-2-81 as read [?]; the loss of *y* by *lopo vyor vali*, Pā. Sū. 6-1-66 as read [?]; *śap*; since its cause [the suffix] has *guṇa*, *ay*; because of the *yad*-connection, the prohibition of *nighāta* by *nipātair yadyadihantakuvidnetracet*…, Pā. Sū. 8-1-30 as read [?]) *(continued on p. 618)*
 
 ---
+### Page 618 (PDF 638)
 
-**Progress note:** Printed pp. 1–617 done (PDF 21–637): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.11 complete (pp. 573–614); Rik 108.12 (printed pp. 614–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 617 (at *mādayethe*, mid-sentence). Next: printed p. 618 (PDF 638): the end of that grammar, then Rik 108.13 (the last). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 618; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.12 concludes: *mādayethe*, continued: "…the accent of the *ṇic* remains, since the ending is a *lasārvadhātuka*, by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*." The Rik is closed with *‖ 12 ‖* and an ornament.
+
+## Rik 108.13 — printed pp. 618–620 *(the last Ṛk of the Sūkta)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.13)**
+
+> एवेन्द्राग्नी पपिवांसा सुतस्य विश्वास्मभ्यं सं जयतं धनानि ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ १३ ॥
+
+*evendrāgnī papivāṃsā sutasya viśvāsmabhyaṃ saṃ jayataṃ dhanāni | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 13 ‖* *(accent-marks in the print not reproduced; "evendrāgnī" is the Saṃhitā's combination of *eva* + *indrāgnī*, with the Pada giving "eva")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.13)**
+
+> एव । इन्द्राग्नी इति । पपिऽवांसा । सुतस्य । विश्वा । अस्मभ्यम् । सम् । जयतम् । धनानि ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ १३ ॥
+
+*eva | indrāgnī iti | papi-vāṃsā | sutasya | viśvā | asmabhyam | sam | jayatam | dhanāni | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.13)**
+
+> हे इन्द्राग्नी सुतस्याभिषुतं सोममेवैवं पपिवांसा पीतवन्तौ युवामस्मभ्यं विश्वा सर्वाणि धनानि सं जयतम् । प्रयच्छतम् । यदनेन सूक्तेन प्रार्थितं तन्मित्रादयो मामहन्ताम् । पूजयन्तु ॥ पपिवांसा । पा पाने । लिटः क्वसुः । वस्वेकाजाद्घसामिति इडागमः ॥
+> *he indrāgnī sutasyābhiṣutaṃ somam evaivaṃ papivāṃsā pītavantau yuvām asmabhyaṃ viśvā sarvāṇi dhanāni saṃ jayatam | prayacchatam | yad anena sūktena prārthitaṃ tan mitrādayo māmahantām | pūjayantu ‖ papivāṃsā | pā pāne | liṭaḥ kvasuḥ | vasvekājāddhasām iti iḍāgamaḥ ‖* *(Sanskrit as read; "evaivaṃ" as printed [for *evam*; the print has "eva" in the Pada]; the tail is short and given.)*
+
+"O Indra and Agni! thus (*eva*), you two having drunk (*papivāṃsā*) the pressed Soma (*sutasya*): win for us (*sam jayatam*), give us, all (*viśvā*) wealths (*dhanāni*). What has been prayed for by this Sūkta, that may Mitra and the others honour, protect."
+
+---
+
+### Page 619 (PDF 639)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 619.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.13; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *sutasya* — pressed Soma-juice (your portion); *eva* — thus; *papivāṃsā* — having drunk (both of you); *asmabhyam* — to us; *viśvā* — all; *dhanāni* — wealths; *saṃ jayatam* — give; *naḥ* — our; *tat* — (that prayed for by us and given by Indra and Agni) that wealth; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the divinity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the divinity of the heavenly world; *māmahantām* — may they protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, having thus drunk your portion of the Soma-juice in the manner that we have prayed for, give us, both of you together, all wealths. May Mitra, Varuṇa, Aditi, the divinity of the ocean, the earth and the divinity of the heavenly world protect the wealth that is prayed for by us and is given by Indra and Agni.
+
+**English Translation (as printed in the source)**
+
+"Thus Indra and Agni, drinking deep of the libation, grant to us all (kinds of) wealth ; and may Mitra, Varuna, and Aditi,—ocean, earth, and heaven, preserve it to us."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.13)**
+
+**Eva** — "*evam*, 'in this manner': for the word *evam* the usage *eva* occurs in many places.
+
+> एवेदेते प्रति मा रोचमाना अनेद्यः श्रव एषो दधानाः ।
+> *evēd ete prati mā rocamānā anedyaḥ śrava eṣo dadhānāḥ |* (*Ṛ. Saṃ.* 1-165-1[?] as read [?])
+
+> एवा बभ्रो वृषभ चेकितान यथा देव न हृणीषे न हंसि ।
+> *evā babhro vṛṣabha cekitāna yathā deva na hṛṇīṣe na haṃsi |* (*Ṛ. Saṃ.* 3-33-[?] as read [?])
+
+— in Ṛks such as these the usage *eva* occurs with the loss of the anusvāra."
+
+**Papivāṃsā** — *pītavantau |* "those who have drunk."
+
+**Saṃ jayatam** — *prayacchatam |* "give."
+
+---
+
+### Page 620 (PDF 640)
+
+*(Running head: left 620; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.13)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Papivāṃsā* (root *pā pāne*; when *liṭ* is optionally chosen, *kvasu* by *bhāṣāyāṃ sadavasaśrvaḥ*… [as printed: *kvasuś ca*, Pā. Sū. 3-2-107 as read [?]]; since the root is *ekāc*, the augment *iṭ* for *vasu* by *vasvekājāddhasām*, Pā. Sū. 7-2-67 as read [?]; because of it the doubling of the root; the loss of *ā* of the root by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the word is *papivas*; the accent of the suffix; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; since it is *ugit*, *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*, Pā. Sū. 7-1-70 as read [?]; the lengthening of the penult by *atvasantasya cādhātoḥ*, Pā. Sū. 6-4-14 as read [?]; *n* becomes anusvāra). *Viśvā* (the neuter plural; *śi* for *jas/śas*; the loss of *śi* by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]). *Jayatam* (root *ji jaye*; *loṭ*, second person dual; since the laṭ's *ṭ* is lost, *tam* for *thas*; *śap*; since it is the cause, *guṇa* of the root's *ik*, *ay*; since a verb follows a non-verb, *nighāta*). The Rik is closed with *‖ 13 ‖*.
+
+*(Printed line, centred:)* **ನೂರ ಎಂಟನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾದುದು** — *"The hundred-and-eighth Sūkta has come to an end."*
+
+**With this, Sūkta 108 (13 Ṛks, printed pp. 573–620) is complete.**
+
+---
+
+## Sūkta 109
+
+**ನೂರ ಒಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *nūra oṃbhattaneya sūktavu*, "the hundred-and-ninth Sūkta" *(Kannada heading; at the foot of printed p. 620)*
+
+**Sāyaṇa's introduction to Sūkta 109 (Sanskrit in Kannada script):**
+
+> वि हीत्यष्टर्चं चतुर्थं सूक्तं । अनुक्रान्तं च । वि ह्यख्यमिति । ऋष्याद्याः पूर्ववत् । सूक्तविनियोगो लैङ्गिकः ॥
+> *vi hy ity aṣṭarcaṃ caturthaṃ sūktaṃ | anukrāntaṃ ca | vi hy akhyam iti | ṛṣyādyāḥ pūrvavat | sūktaviniyogo laiṅgikaḥ ‖*
+
+*(The print's Sanskrit of the Anukramaṇī clause reads "vi hyakhyam iti" [for *vi hy akhyam*]; given as printed.)*
+
+**Anuvāda (Kannada):** "This Sūkta *vi hy akhyam* is the fourth Sūkta in the sixteenth anuvāka. It has eight Ṛks. In the Anukramaṇikā it is said: '*vi hy akhyam*'. The ṛṣi, deity, metre and the rest are as in the previous Sūkta. The application (*viniyoga*) is by indication (*laiṅgika*)."
+
+*(A rule of dashes follows.)*
+
+---
+
+### Page 621 (PDF 641)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 621.)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०९ — Sūkta 109** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १६ · सूक्त १०९ — *Maṇḍala 1, Anuvāka 16, Sūkta 109.*
+- अष्टक १ · अध्याय ७ · वर्ग २८, २९ — *Aṣṭaka 1, Adhyāya 7, Vargas 28, 29* (numerals as read, small [?]).
+- सूक्तदल्लिरुव ऋक्संख्ये — ८ — *Number of Ṛks in the sūkta: 8.*
+- ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
+- देवता — इन्द्राग्नी — *Deity: Indra and Agni.*
+- छन्दः — त्रिष्टुप् — *Metre: Triṣṭubh.*
+
+## Rik 109.1 — printed pp. 621–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.1)**
+
+> वि ह्यख्यं मनसा वस्य इच्छन्निन्द्राग्नी ज्ञास उत वा सजातान् ।
+> नान्या युवत्प्रमतिरस्ति मह्यं स वां धियं वाजयन्तीमतक्षम् ॥ १ ॥
+
+*vi hy akhyaṃ manasā vasya icchann indrāgnī jñāsa uta vā sajātān | nānyā yuvat pramatir asti mahyaṃ sa vāṃ dhiyaṃ vājayantīm atakṣam ‖ 1 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.1)**
+
+> वि । हि । अख्यम् । मनसा । वस्यः । इच्छन् । इन्द्राग्नी इति । ज्ञासः । उत । वा । सऽजातान् ।
+> न । अन्या । युवत् । प्रऽमतिः । अस्ति । मह्यम् । सः । वाम् । धियम् । वाजऽयन्तीम् । अतक्षम् ॥ १ ॥
+
+*vi | hi | akhyam | manasā | vasyaḥ | icchan | indrāgnī iti | jñāsaḥ | uta | vā | sa-jātān | na | anyā | yuvat | pra-matiḥ | asti | mahyam | saḥ | vām | dhiyam | vāja-yantīm | atakṣam ‖ 1 ‖*
+
+---
+
+**Progress note:** Printed pp. 1–621 done (PDF 21–641): **Sūkta 108 is complete** (printed pp. 573–620; 13 Ṛks). **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; fourth Sūkta of the sixteenth anuvāka; printed pp. 620–[?]) begun at the foot of printed p. 620: Kannada title, Sāyaṇa's introduction, Anuvāda, heading block, and Rik 109.1's Saṃhitā and Pada done (p. 621). Next: printed p. 622 (PDF 642): the bhāṣya of 109.1. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
