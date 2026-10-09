@@ -17859,5 +17859,98 @@ The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; t
 > *he ṛbhavo 'pākāḥ paripakvajñānāḥ prāñcaḥ pūrvakālīnā mamāpayaḥ prāpayitāro madīyā jñātayaḥ ke cit evaṃbhūtā ye kecana yūyam ābhogayam upabhogyaṃ somam icchanto yad yadā praitana tapaścaritum araṇyaṃ gatavantaḥ | ṛbhavo hi sudhanvana āṅgirasasya putrāḥ | taduktaṃ yāskena | ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ | ni. 11-16 | iti | kutso 'py āṅgirasaḥ | atas tena madīyā jñātaya ity uktaṃ | he saudhanvanāsaḥ sudhanvanaḥ putrāḥ | tadānīṃ caritasya samupārjitasya tapaso bhūmanā bhūmnā bahutvena dāśuṣo havīṃṣi dattavataḥ savituḥ somābhiṣavaṃ kurvato yajamānasya saṃbandhi yajñagṛham āgacchata | tapasā labdhasomāḥ santaḥ kṛtapānā yūyaṃ gatavantaḥ | yadvā | dāśuṣaḥ prātaḥsavanād iṣṭagṛhādibhir apasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savitur gṛhaṃ nivāsasthānaṃ tṛtīya…* *(the bhāṣya continues on p. 665; Sanskrit as read, with small clotted words — "apākāḥ paripakvajñānāḥ", "prāpayitāro", "ābhogayam" — read as printed [?]; "ni. 11-16" is read as printed, doubtful [?].)*
 
 ---
+### Page 665 (PDF 685)
 
-**Progress note:** Printed pp. 1–664 done (PDF 21–684): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Rik 110.1 complete (pp. 657–663, including the Nirukta story of Devāpi and Śaṃtanu on the two *samudras*); Rik 110.2 (printed pp. 664–[?]): Saṃhitā, Pada and the main part of the bhāṣya done, cut at the foot of p. 664 ('…tṛtīya…'). Next: printed p. 665 (PDF 685). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 665.)*
+
+**॥ सायणभाष्यम् ॥ (Rik 110.2), concluded**
+
+> …सवनाख्यमगच्छत । प्राप्ताः । एतत्सर्वमार्भवं शंसतीत्यादौ । ऐ. ब्रा. ३-३० । विस्पष्टमाम्नातं ॥ आभोगयम् । आ समन्ताद्भोग आभोगः । तदर्ह आभोगयः । छन्दसि चेति यः । यस्येति लोपाभावश्छान्दसः । व्यत्ययेन प्रत्यययोरुदात्तत्वं । यद्वा । आज्पूर्वाद्भुजेरौणादिकः कर्मणि इप्रत्ययः । कुत्वं च । आमि व्यत्ययेन गुणः । ऐतन । इण् गतौ । लङि मध्यमबहुवचनस्य थस्तादेशः । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । आडागमो वृद्धिश्च । आपयः । आप्नोतेरौणादिक इप्रत्ययः । भूमना । बहुशब्दात्पृथ्वादिलक्षण इमनिच् । बहोर्लोपो भू च बहोरिति ईकारलोपो बहोर्भूभावश्च । संज्ञापूर्वकस्य विधेरनित्यत्वादेलोपाभावः ॥
+> *…savanākhyam agacchata | prāptāḥ | etat sarvam ārbhavaṃ śaṃsatīty ādau | ai. brā. 3-30 | vispaṣṭam āmnātaṃ ‖ ābhogayam | ā samantād bhogaḥ ābhogaḥ | tadarha ābhogayaḥ | chandasi ceti yaḥ | yasyeti lopābhāvaś chāndasaḥ | vyatyayena pratyayayor udāttatvaṃ | yadvā | ājpūrvād bhujer auṇādikaḥ karmaṇi ipratyayaḥ | kutvaṃ ca | āmi vyatyayena guṇaḥ | aitana | iṇ gatau | laṅi madhyamabahuvacanasya thas tādeśaḥ | taptanaptanathanāś ceti tasya tanabādeśaḥ | āḍāgamo vṛddhiś ca | āpayaḥ | āpnoter auṇādika ipratyayaḥ | bhūmanā | bahuśabdāt pṛthvādilakṣaṇa imanic | baholopo bhū ca bahor iti īkāralopo bahor bhūbhāvaś ca | saṃjñāpūrvakasya vidher anityatvād elopābhāvaḥ ‖* *(Sanskrit as read; the tail is crowded and several words ("āmi vyatyayena guṇaḥ", "baholopo bhū ca bahor iti īkāralopo") are given as read, with doubt [?]; "ai. brā. 3-30" is read as printed [?].)*
+
+"…[come to the house of Savitṛ] called the *savana* [the third pressing]: you reached [it]. All this is clearly stated in the Aitareya Brāhmaṇa, in the passage beginning 'he recites this all, of the Ṛbhus' (*Ai. Brā.* 3-30 as read [?]). *Ābhogayam*: *ābhogaḥ* is enjoyment on all sides; he who deserves it is *ābhogayaḥ* — the suffix *ya* by *chandasi ca*; the non-loss [of *a*] by *yasya* is Vedic. *Aitana*: root *iṇ gatau*; in the *laṅ*, second person plural, *tha* [→ *tana*]; the augment *āṭ* and *vṛddhi*. *Āpayaḥ*: from *āp*, an Uṇādi suffix *i*. *Bhūmanā*: from the word *bahu*, the suffix *imanic*; *bhū* for *bahu*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.2; Kannada; English)**
+
+(O Ṛbhus!) *apākāḥ* — you who have ripe knowledge; *prāñcaḥ* — ancient; *mama* — my; *āpayaḥ* — kinsmen too; *ke cit* — you who are some (of the Ṛbhus); *ābhogayam* — [the Soma-juice] fit to be enjoyed; *icchantaḥ* — desiring; *yat* — when; *praitana* — you went to the forest for the practice of austerity; *saudhanvanāsaḥ* — O sons of Sudhanvan, Ṛbhus; *caritasya* — of the austerity practised; *bhūmanā* — by its abundance; *dāśuṣaḥ* — who offers oblations, [and] *savituḥ* — who presses Soma; *gṛham* — [of the sacrificer] to the house of the sacrifice; *āgacchata* — you came (and, by the power of your austerity, drank Soma). [Or: *dāśuṣaḥ* — [to those] driven out by Agni and the others at the morning pressing, the Ṛbhus, who offers Soma; *savituḥ* — of Savitṛ; *gṛham* — to the house of sacrifice (the dwelling, called the third pressing); *āgacchata* — you came, and drank the Soma.]
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Ṛbhus, sons of Sudhanvan, ancient ones, who belong to the group of my kinsmen: at a time when you had ripe knowledge, desiring the Soma-juice that is fit to be enjoyed, you went to the forest to practise austerity. There, by the power of the austerity you had practised, you came to the sacrificial house of the devoted Savitṛ and drank the Soma-juice.
+
+**English Translation (as printed in the source)**
+
+"When Ribhus, you who were amongst my ancestors, yet immature (in wisdom), but desirous of enjoying (the Soma libations) retired to the forest to perform (penance), then, sons of Sudhanwan, through the plenitude of your completed (devotion), you came to the (sacrificial) hall of the worshipper Savitri."
+
+---
+
+### Page 666 (PDF 686)
+
+*(Running head: left 666; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.2)**
+
+**Savitur dāśuṣo gṛham āgacchata** — "'go to the house of Savitṛ who has offered oblations, or has given hospitality': here a previous *itihāsa* [story] is indicated. Skandasvāmin has explained this story in one way, and Sāyaṇa in another. In this context —
+
+> अत्रेतिहासमाचक्षते । ऋभवो यज्ञे यत्त्वं प्रार्थयमानाः प्रजापतेः सकाशमगमन् । अथ प्रजापतिः सवितारमाहूयावोचत् । एतेऽपि यज्ञियो भवन्तीति । तथेति सविता प्रतिपद्य तान्स्वगृहं नीत्वा द्वादश दिनान्यातिथ्येनैषामकार्षीदिति । तदेतद्वाम [?] देवो वक्ष्यति ।
+> *atretihāsam ācakṣate | ṛbhavo yajñe yat tvaṃ prārthayamānāḥ prajāpateḥ sakāśam agaman | atha prajāpatiḥ savitāram āhūyāvocat | ete 'pi yajñiyo bhavantīti | tatheti savitā pratipadya tān svagṛhaṃ nītvā dvādaśa dināny ātithyenaiṣām akārṣīd iti | tad etad vāma [?] devo vakṣyati |* *(Skandasvāmin, as read; the last clause is clotted and given with doubt [?].)*
+
+— the Ṛbhus, wishing to obtain, in the sacrifice, a share [of the oblations] and the right to receive [them], went to Prajāpati. Then Prajāpati, calling Savitṛ, said: 'let these also be sacrificers' [participants in the sacrifice]. Savitṛ agreed, took them to his own house, and for twelve days offered them hospitality": Skandasvāmin tells the story briefly, and then, to indicate the context of this story, [he quotes]
+
+> द्वादश द्यून्यदगोह्यस्यातिथ्ये रणन्नृभवः ससन्तः ।
+> सुक्षेत्राकृण्वन्ननयन्त सिन्धून्धन्वातिष्ठन्नोषधीर्निम्नमापः ॥
+> *dvādaśa dyūn yad agohyasyātithye raṇann ṛbhavaḥ sasantaḥ | sukṣetrākṛṇvann anayanta sindhūn dhanvātiṣṭhann oṣadhīr nimnam āpaḥ ‖* (*Ṛ. Saṃ.* 4-33-7 as read [?])
+
+— this Ṛk. In this same context Sāyaṇa has indicated the reason for the Ṛbhus' going to Savitṛ's house:
+
+> दाशुषः प्रातःसवनाद्यिष्टग्न्यादिभिरपसारितेभ्य ऋभुभ्यः सोमपानं दत्तवतः सवितुर्गृहं निवासस्थानं तृतीयसवनाख्यमगच्छत प्राप्ताः ।
+> *dāśuṣaḥ prātaḥsavanādiṣṭāgnyādibhir apasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savitur gṛhaṃ nivāsasthānaṃ tṛtīyasavanākhyam agacchata prāptāḥ |* *(as read [?])*
+
+— 'you went to the house of Savitṛ, who gave the Soma-drinking to the Ṛbhus who had been driven away by Agni and the others from the morning and other pressings; the third pressing is the abode'; and he has mentioned the case of their being rejected by Agni and the others. This matter is told in full in the Aitareya Brāhmaṇa:
+
+> ऋभवो वै देवेषु तपसा सोमपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत तेभ्यो माध्यंदिने सवने वाचि कल्पयिषंस्तानिन्द्रो रुद्रैर्माध्यंदिनात्सवनादनुदत तेभ्यस्तृतीय-
+> *ṛbhavo vai deveṣu tapasā somapīthām abhyajayaṃs tebhyaḥ prātaḥsavane vāci kalpayiṣaṃs tān agnir vasubhiḥ prātaḥsavanād anudata tebhyo mādhyaṃdine savane vāci kalpayiṣaṃs tān indro rudrair mādhyaṃdināt savanād anudata tebhyas tṛtīya-* *(continued on p. 667)*
+
+---
+
+### Page 667 (PDF 687)
+
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 667.)*
+
+> सवने वाचि कल्पयिषंस्तान्विश्वे देवा आसोनुद्यंत नेह शास्यंति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽन्तेवासास्तन्मैभिः संपिबस्वेति स तथेत्यब्रवीत्सविता तान्स्वैत्वमुभयतः परिसिबेति [?] तान्स प्रजापतिरुभयतः पर्यपिबत् । इति ॥
+> *savane vāci kalpayiṣaṃs tān viśve devā āsonudyanta neha śāsyanti nehety sa prajāpatir abravīt savitāraṃ tava vā ime 'ntevāsās tan maibhiḥ saṃpibasveti sa tathety abravīt savitā tān svaitvam ubhayataḥ parisibeti [?] tān sa prajāpatir ubhayataḥ paryapibat | iti ‖* (*Ai. Brā.* 3-30 as read [?]; the wording is as read from the print, with several clotted words given as read, doubtful [?], not completed from memory)
+
+"By their austerity and by their exceedingly great desire, the Ṛbhus gained, among the gods, a share in Soma-drinking. First, when they desired to obtain it at the morning pressing, Agni, together with the Vasus, drove them away. Then, when they desired to obtain it at the midday pressing, Indra, together with the Rudras, drove them away. Again, when they desired to obtain it at the third pressing, the Viśvedevas rejected them also, with the harsh words, 'You are not fit to drink here the Soma that has been [separately] pressed; do not do it.' Then Prajāpati said to Savitṛ: 'These Ṛbhus are your pupils [*antevāsin*]; you drink Soma together with them.' Savitṛ agreed. Prajāpati too drank the Soma-juice with them, on both sides of them: so the account runs. Sāyaṇa has told in brief this context, which is related at length in the Aitareya Brāhmaṇa.
+
+**Apākāḥ** — *apakvaprajñāḥ |* "[Sāyaṇa:] 'those of ripe knowledge'; the meaning is 'those who have exceedingly ripe understanding': 'there is no need that they should still ripen; they are those whose knowledge is already fully ripe'.
+
+**Prāñcaḥ** — *pūrvakālīnāḥ |* "ancient; **āpayaḥ** — kinsmen; for Kutsa is an Āṅgirasa. The Ṛbhus too are sons of Sudhanvan Āṅgirasa; therefore, as Āṅgirasas, the Ṛbhus are some [of] Kutsa's kinsmen. Since Kutsa was born in the lineage of the ṛṣi Āṅgiras, and since the Ṛbhus, who lived before him, were born in the same lineage, the purport is that the Ṛbhus are Kutsa's ancient relatives. In this very Ṛk the address *saudhanvanāsaḥ* — 'sons of Sudhanvan' — shows that the Ṛbhus were the sons of Sudhanvan born in the lineage of Āṅgiras. This matter is stated in many places in the Ṛk-saṃhitā. For example:
+
+> इन्द्रस्य सख्यमृभवः समानशुर्मनोर्नपातो अपसो दधन्विरे ।
+> सौधन्वनासो अमृतत्वमेरिरे विष्टी शमीभिः सुकृतः सुकृत्यया ॥
+> *indrasya sakhyam ṛbhavaḥ samānaśur manor napāto apaso dadhanvire | saudhanvanāso amṛtatvam erire viṣṭī śamībhiḥ sukṛtaḥ sukṛtyayā ‖* (*Ṛ. Saṃ.* 3-60-3 as read [?])
+
+"In this Ṛk, and in the Ṛks 4-33-[?] and others, Vāmadeva and others (and in this Ṛk, Viśvāmitra, the son of Gāthin) confirm the matter above. This account of Sudhanvan, born in the lineage of Āṅgiras, is presented in the Bṛhadāraṇyaka Upaniṣad."
+
+---
+
+### Page 668 (PDF 688)
+
+*(Running head: left 668; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+> अथ हैनं भुज्युर्लाह्यायनिः पप्रच्छ याज्ञवल्क्येति होवाच । मद्रेषु चरकाः पर्यव्रजाम ते पतंचलस्य काप्यस्य गृहानैम तस्यासीद्दुहिता गन्धर्वगृहीता तमपृच्छाम कोऽसीति सोऽब्रवीत्सुधन्वाङ्गिरस इति ।
+> *atha hainaṃ bhujyur lāhyāyaniḥ papraccha yājñavalkyeti hovāca | madreṣu carakāḥ paryavrajāma te pataṃcalasya kāpyasya gṛhān aima tasyāsīd duhitā gandharvagṛhītā tam apṛcchāma ko 'sīti so 'bravīt sudhanvāṅgirasa iti |* (*Bṛ. U.* 3-3-1 as read)
+
+"— [the Upaniṣad says that] when Bhujyu Lāhyāyani, in the assembly of Janaka, asked Yājñavalkya, he said: 'we wandered about among the Madras as *carakas* [students]; we came to the house of Patañcala Kāpya; he had a daughter possessed by a *gandharva*; we asked him, "who are you?" He said, "I am Sudhanvan Āṅgirasa."' This story too is well known in the Mahābhārata and other works. Thus Sudhanvan, the Ṛbhus who were Sudhanvan's sons, and the ṛṣi Kutsa who saw this Sūkta, are all born in the lineage of the ṛṣi Āṅgiras, and so in the Ṛk at hand Kutsa addresses the Ṛbhus as *prāñcaḥ āpayaḥ* — 'ancient kinsmen'."
+
+**Āpayaḥ** — "kinsmen, or other relations; *āpyam āpnoter* [?] (*Ni.* 6-[?]4 as read [?]): formed from the root *āp*, it shows a relation exceedingly beneficial."
+
+**Caritasya bhūmanā** — "by the abundance of the austerity practised, or by their great glory, that is, by their uncommon works: what these uncommon works are, and how they showed their power by them, is told in the Ṛks that follow in this very Sūkta."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.2)** *(grammar pages, p. 668 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Ābhogayam* (*ā samantāt bhogaḥ ābhogaḥ*, 'enjoyment on all sides': root *bhuja pālanābhyavahārayoḥ*; *ghañ* in the abstract sense; *guṇa* of the light penult; *k* for *j* by *cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. Sū. 7-3-52 as read [?]; 'worthy of that' [*tadarhaḥ*]: *ābhogayaḥ*; the suffix *ya* by *chandasi ca*, Pā. Sū. 5-1-67 as read [?]; though the word has the *bha*-name, the loss [of the *a*] by *yasya iti ca* does not arise here, being Vedic; by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], the accent falls on the former [syllable] of the suffix; by the compound with *āṅ*, the accent of the *kṛdanta* latter member. Or else: from the root *bhuja* preceded by *āṅ*, the Uṇādi suffix *i* in the passive sense; and the change to *g* [*kutva*]; *guṇa* in a vowel-initial context by *vyatyaya*; the form *ābhogi*; by the suffix accent the acute on the syllable following the *g*)* *(continued on p. 669)*
+
+---
+
+**Progress note:** Printed pp. 1–668 done (PDF 21–688): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Rik 110.1 complete (pp. 657–663); Rik 110.2 (printed pp. 664–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (the Ṛbhu story from the Aitareya Brāhmaṇa; Sudhanvan Āṅgirasa from the Bṛhadāraṇyaka); its grammar begun at the foot of p. 668 (at *ābhogayam*). Next: printed p. 669 (PDF 689). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
