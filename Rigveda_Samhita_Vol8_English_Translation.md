@@ -20589,12 +20589,134 @@ In this [Ṛk] it is said that when Purukutsa's wife pleased Indra and Varuṇa 
 
 *(An ornament closes Rik 112.7.)*
 
-**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.8)** *(accent-marks not reproduced; begun at the foot of p. 760; the first line of the Ṛk)*
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.8)** *(accent-marks not reproduced; begun at the foot of p. 760; the first line is on p. 760, the second on p. 761)*
 
-> याभिः शुचिभिर्वृषणा परावृजं प्रान्धं श्रोणं चक्षस एतवे कृथः । [?]
-> *yābhiḥ śucibhir vṛṣaṇā parāvṛjaṃ prāndhaṃ śroṇaṃ cakṣasa etave kṛthaḥ | [?]*
-> *(The first line only, on p. 760; the print shows the vowel of the word after* yābhiḥ *as* śucebhir*/*śucībhir [?]; I read* śucibhir *for the present and note it as doubtful; the Pada on p. 761 will settle it. The rest of the Ṛk is on p. 761.)*
+> याभिः शचीभिर्वृषणा परावृजं प्रान्धं श्रोणं चक्षस एतवे कृथः ।
+> *yābhiḥ śacībhir vṛṣaṇā parāvṛjaṃ prāndhaṃ śroṇaṃ cakṣasa etave kṛthaḥ |*
+> *(Read at first as* śucibhir *from the small print of p. 760; the Pada on p. 761 prints* śacībhiḥ*, and the bhāṣya's gloss* śacībhiḥ karmabhiḥ *agrees: corrected here. Recorded as a correction to my first reading.)*
+
+---
+### Page 761 (PDF 781)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 761.)*
+
+> याभिर्वर्तिकां ग्रसितामुमुञ्चतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ ८ ॥
+> *yābhir vartikāṃ grasitām amuñcataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 8 ‖*
+> *(The second line of Rik 112.8; the Saṃhitā's* amuñcatam *is printed* amuñcataṃ *.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.8)**
+
+> याभिः । शचीभिः । वृषणा । परःऽवृजम् । प्र । अन्धम् । श्रोणम् । चक्षसे । एतवे । कृथः ।
+> याभिः । वर्तिकाम् । ग्रसिताम् । अमुञ्चतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ८ ॥
+> *yābhiḥ | śacībhiḥ | vṛṣaṇā | parāḥ-vṛjam | pra | andham | śroṇam | cakṣase | etave | kṛthaḥ |*
+> *yābhiḥ | vartikām | grasitām | amuñcatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 8 ‖*
+> *(The Pada's division is printed* parā-vṛjam *as read in the Kannada print: "parā‿ vṛjam", the avagraha-sign being written as a small mark after* parā*.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.8)**
+
+> हे वृषणा कामानां वर्षितारावश्विनौ याभिः शचीभिः कर्मभिः प्रज्ञाभिर्वा परावृजमेतन्नामकमृषिं पङ्गुं सन्तमपङ्गुमकुरुतम् । तथान्धं दृष्टिरहितं सन्तमृज्राश्वमृषिं चक्षसे प्रकाशाय सम्यक् चक्षुषा दर्शनाय याभिरूतिभिः प्र कृथः प्रकर्षेण कुरुथः । याभिश्च श्रोणं विगुणजानुकमेव सन्तमृषिमेतवे गन्तुं प्र कृथः । प्रकर्षेण कृतवन्तौ । अपि च याभिरूतिभिर्वर्तिकां चटकसदृशस्य पक्षिणः स्त्रियं ग्रसितां वृकेण ग्रस्तामुमुञ्चतम् । वृकास्यान्निर्मुक्तामकुरुतम् । यास्कपक्षे तु वृकेण विवत्तेज्योतिष्केण [?] सूर्येण याभिर्ग्रस्तां वर्तिकां प्रत्यहमावर्तमानामुषसं तस्मादमोचयतमिति योज्यम् [?] । ताभिः सर्वाभिरूतिभिरस्मानागच्छतम् ॥ वृषणा । वृष सेचने । कनिन् युवृषितक्षीत्यादिना कनिन् । परावृजम् । वृजी वर्जने । परावृणक्ति तपसा पापं विनाशयतीति परावृक् । क्विप् चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । एतवे । तुमर्थे सेसेनसेत्येतेस्तवेन्प्रत्ययः । कृथः । डुकृञ् करणे । बहुलं छन्दसीति विकरणस्य लुक् ॥
+> *he vṛṣaṇā kāmānāṃ varṣitārāv aśvinau yābhiḥ śacībhiḥ karmabhiḥ prajñābhir vā parāvṛjam etannāmakam ṛṣiṃ paṅguṃ santam apaṅgum akurutam | tathāndhaṃ dṛṣṭirahitaṃ santam ṛjrāśvam ṛṣiṃ cakṣase prakāśāya samyak cakṣuṣā darśanāya yābhir ūtibhiḥ pra kṛthaḥ prakarṣeṇa kuruthaḥ | yābhiś ca śroṇaṃ viguṇajānukam eva santam ṛṣim etave gantuṃ pra kṛthaḥ | prakarṣeṇa kṛtavantau | api ca yābhir ūtibhir vartikāṃ caṭakasadṛśasya pakṣiṇaḥ striyaṃ grasitāṃ vṛkeṇa grastām amuñcatam | vṛkāsyān nirmuktām akurutam | yāskapakṣe tu vṛkeṇa vivatte jyotiṣkeṇa [?] sūryeṇa yābhir grastāṃ vartikāṃ pratyaham āvartamānām uṣasaṃ tasmād amocayatam iti yojyam [?] | tābhiḥ sarvābhir ūtibhir asmān āgacchatam ‖ vṛṣaṇā | vṛṣa secane | kanin yuvṛṣitakṣīty ādinā kanin | parāvṛjam | vṛjī varjane | parāvṛṇakti tapasā pāpaṃ vināśayatīti parāvṛk | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvam | etave | tumarthe sesenasety etes tavenpratyayaḥ | kṛthaḥ | ḍukṛñ karaṇe | bahulaṃ chandasīti vikaraṇasya luk ‖*
+
+*(Sanskrit as read; the words marked [?], in the clause on Yāska's view, are clotted in the print and are not completed from memory.)*
+
+"O *vṛṣaṇā*, showerers of desires, Aśvins! with whichever *śacībhiḥ*, works or wisdoms, you made the ṛṣi named *parāvṛjam*, who was lame, one who was not lame. And likewise the ṛṣi Ṛjrāśva, who was *andham*, deprived of sight, *cakṣase*, for light, for seeing properly with the eye, with whichever protections you *pra kṛthaḥ*, you made fully able; and with whichever you made the ṛṣi *śroṇam*, who was crippled of knee, able *etave*, to walk — you made [him] fully so. And further, with whichever protections you released the *vartikā*, the female of a bird like the sparrow, seized by a wolf — you made her free from the wolf's jaws. On Yāska's view: [the *vartikā* is] the dawn which returns daily, seized by the *vṛka*, the sun [or: the shining one]; you released her from it [?]: so it is to be construed. With all those protections come to us."
+
+*Grammatical tail (short):* *vṛṣaṇā*: root *vṛṣa secane*, the suffix *kanin* by the rule beginning *yuvṛṣitakṣi*. *Parāvṛjam*: root *vṛjī varjane*; 'he who turns away sin by austerity' = *parāvṛk*; *kvip* by *kvip ca*; the accent of the prior member of a compound ending in a *kṛt*. *Etave*: in the sense of the infinitive, the suffix *tavenn* after the root *i*, by *tumarthe sesenase…*. *Kṛthaḥ*: root *ḍukṛñ karaṇe*; *luk* of the conjugation sign by *bahulaṃ chandasi*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.8; Kannada; English)**
+
+*Vṛṣaṇā* — O showerers of desired objects; *aśvinā* — O Aśvin deities; *yābhiḥ śacībhiḥ* — by whichever helping works, or by [your] wisdoms; *parāvṛjam* — (the lame) the ṛṣi named Parāvṛja *(the Pratipadārtha continues on p. 762)*
 
 ---
 
-**Progress note:** Printed pp. 1–760 done (PDF 21–780): Sūkta 112: Riks 112.1–112.7 complete (pp. 723–760); Rik 112.8 (printed pp. 760–[?]): its first line of the Saṃhitā read (the word after *yābhiḥ* doubtful: *śucibhir/śucībhir* [?]); the rest of the Saṃhitā, Pada etc. follow on p. 761. Next: printed p. 761 (PDF 781). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 762 (PDF 782)
+
+*(Running head: left 762; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The Pratipadārtha continues:)* "…the ṛṣi named Parāvṛja (you made him walk straight); *andham* — blind (Ṛjrāśva) — *cakṣase* — [you made able] to see with his eyes; *pra kṛthaḥ* — you made well; *śroṇam* — (the crippled) Śroṇa — *etave* — [you made him] to walk well; moreover, *yābhiḥ* — by whichever protections and helps; *grasitām* — (the quail) seized (by the wolf with its jaw); *vartikām* — the female quail; *amuñcatam* — (from the mouth of the wolf) you freed; *tābhiḥ ūtibhiḥ ū* — with all those various helping works (to us also); *su ā gatam* — come willingly."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities, who give the objects desired! with whichever helping works you made the ṛṣi named Parāvṛja, who was lame, walk straight; the blind Ṛjrāśva, so that he sees with his eyes; and the crippled Śroṇa, so that he walks well; and likewise the quail, seized by the wolf, which you freed from the wolf's mouth: with all those helping works of yours come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.8)**
+
+"Showerers (of benefits) with those aids by which you enabled (the lame) Paravrij (to walk), the blind (Rijraswa) to see, and (the cripple) Srona to go, and by which you set free the quail when seized (by a wolf); with those aids Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.8)**
+
+**परावृजम्, अन्धम्, श्रोणम् — Parāvṛjam, andham, śroṇam.** *parāvṛjam etannāmakam ṛṣiṃ paṅguṃ santam apaṅgum akurutam | tathā andhaṃ dṛṣṭirahitaṃ santam ṛjrāśvam ṛṣiṃ cakṣase cakṣuṣā darśanāya kṛtavantau | śroṇam viguṇajānukam ṛṣim etave gantuṃ kṛthaḥ |* This is Sāyaṇa's explanation. From this explanation it is known that the word *parāvṛja* is a given name [*aṅkitanāma*], the name of a certain ṛṣi. But Skandasvāmi does not say that this word is a given name. He explains *parāvṛjam* as *parāvarjitam*, 'forsaken'. The English commentators also follow this meaning, and have rejected the meaning given by Sāyaṇa. The criticism made in the book called the *Vedic Index* in explaining this word is worthy of notice:
+
+"*Paravrij* is a term found in four passages of the Rig-Veda (I-112-8; II 13-12; II-15-7; X-61-8) in all of which it refers to a person in a forlorn condition, while one of them also speaks of him as going south. Sayana's view that the word is a proper name is most unlikely, while grassmann's expla-" *(the quotation runs across the page-break)*
+
+---
+
+### Page 763 (PDF 783)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 763.)*
+
+"nation of it as cripple' is still less probable. Roth's Interpretation of it as 'exile' seems clearly right in the passage." *(Vedic Index of names and subjects by Macdonell and Keith Vol. I P. 492-493)* *(as printed)*
+
+Sāyaṇa has explained *parāvṛja*, *ṛjrāśva* and *śroṇa* as three given names, the names of three ṛṣis.
+
+In the order of construction and in the exposition of the meanings, both Sāyaṇa and Skandasvāmi differ greatly. According to Skandasvāmi's exposition, first, he has:
+
+> अत्रेतिहासमाचक्षते । घोरो नामाग्नेः पुत्रः । तस्य ज्येष्ठः पुत्रः कुष्मी श्याववर्णो गमनासमर्थो बभूव । सोऽश्विनौ तुष्टाव । तमश्विनौ विकृत्य जङ्घयोर्मध्ये शिरसि छित्त्वा पुनश्च सन्धाय गमनसमर्थं हिरण्यत्वचं च पुनरुज्जीवयाञ्चक्रतुरिति ।
+> *atretihāsam ācakṣate | ghoro nāmāgneḥ putraḥ | tasya jyeṣṭhaḥ putraḥ kuṣmī śyāvavarṇo gamanāsamartho babhūva | so 'śvinau tuṣṭāva | tam aśvinau vikṛtya jaṅghayor madhye śirasi chittvā punaś ca sandhāya gamanasamarthaṃ hiraṇyatvacaṃ ca punar ujjīvayāñ cakratur iti |*
+> *(Sanskrit as read; the sense of the middle clause,* jaṅghayor madhye śirasi chittvā*, is doubtful [?] and is given as the Kannada has it.)*
+> "Here they tell the tale: Ghora was a son of Agni; his eldest son Kuṣmī, dark in colour, became unable to walk. He praised the two Aśvins; the two Aśvins, cutting [? him open] in the middle of the shanks and joining him again, made him able to walk, golden-skinned, and revived him."
+
+"Ghora, a son of Agni, had an eldest son named Kuṣmī, who was of dark colour and, being lame, became unable to walk. He then praised the Aśvin deities. The Aśvin deities cut open his thighs and shanks, rejoined them, and made him able to walk, with a golden skin: so runs the tale." And he quotes the Ṛks in which this matter has been told: *Ṛ.* 1-112-8 and 1-112-15 [?] (as read, doubtful). Second:
+
+> तथापरमितिहासमाचक्षते । वार्षागिरिः ऋज्राश्वी नाम राजा । तमश्विनोः स्वभूता कशा वृकी भूत्वा उपतस्थे । सः तां दिव्येन चक्षुषा ज्ञात्वा अहन्यहनि विशस्य मेषशतं तस्मै आहारं कल्पयाञ्चकार । तत् ज्ञात्वा तस्य पिता चुकोप । स तं शापेनान्धं चकार । अथ मृते वृषागिरौ ऋज्राश्वमन्धं ज्ञात्वा तेऽच्छत्रवः तत्पुरमुपरुरुधुः । तान्निष्क्रम्य सा वृकी बभञ्जे । भग्नेषु शत्रुषु पुनरप्युपरोधमाशङ्कमानः ऋज्राश्वोऽश्विनौ तुष्टाव । तस्मै आश्वागत्याश्विनौ अक्षिणी ददतुरिति ।
+> *tathāparam itihāsam ācakṣate | vārṣāgiḥ ṛjrāśvī nāma rājā | tam aśvinoḥ svabhūtā kaśā vṛkī bhūtvā upatasthe | saḥ tāṃ divyena cakṣuṣā jñātvā ahany ahani viśasya meṣaśataṃ tasmai āhāraṃ kalpayāñ cakāra | tat jñātvā tasya pitā cukopa | sa taṃ śāpenāndhaṃ cakāra | atha mṛte vṛṣāgirau ṛjrāśvam andhaṃ jñātvā te 'cchatravaḥ tatpuram uparurudhuḥ | tān niṣkramya sā vṛkī babhañje | bhagneṣu śatruṣu punar apy uparodham āśaṅkamānaḥ ṛjrāśvo 'śvinau tuṣṭāva | tasmai āśv āgatyāśvinau akṣiṇī dadatur iti |*
+> *(Sanskrit as read; the first words and* te 'cchatravaḥ *are doubtful in the print [?]; the sense is taken from the Kannada.)*
+> "And they tell another tale: a king named Ṛjrāśva, son of Vṛṣāgira. The whip [*kaśā*] belonging to the Aśvins became a she-wolf and attended him. Knowing her by his divine sight, he daily cut up a hundred sheep and prepared them as food for her. His father learned of it and was angry; he made him blind by a curse. Then, when Vṛṣāgira had died, the enemies, knowing that Ṛjrāśva was blind, besieged his city. That she-wolf went out and broke them. When the enemies were broken, Ṛjrāśva, fearing a siege again, praised the Aśvins. The Aśvins came quickly and gave him eyes."
+
+"A she-wolf appeared in the form of the whip belonging to the Aśvins and came to Ṛjrāśva, the son of Vṛṣāgira. He, seeing through divine sight [= recognizing her], cut a hundred sheep each day and gave her as food. His father learned of this, became angry and cursed him to be blind. After Vṛṣāgira's death, his enemies, knowing that Ṛjrāśva was blind, laid siege to the city. The wolf fought them and drove them off. Ṛjrāśva, fearing that he would again be besieged, prayed to the Aśvin deities; they came quickly and gave him eyes": so the story goes. *(the passage runs on to p. 764)* And third:
+
+> कथापरमितिहासमाचक्षते । नार्षदिऋषिर्बधिरो बभूव । सोऽश्विनौ तुष्टाव । तस्मै अश्विनौ श्रोत्रं ददतुरिति ।
+> *kathāparam itihāsam ācakṣate | nārṣadir ṛṣir badhiro babhūva | so 'śvinau tuṣṭāva | tasmai aśvinau śrotraṃ dadatur iti |*
+> "There is another tale: the ṛṣi Nārṣadi [Nārṣada] became deaf; he praised the two Aśvins; the Aśvins gave him hearing."
+
+*(the printed arrangement on p. 763 places the account of Ṛjrāśva and Nārṣada in the Kannada first, then the Sanskrit of the third tale, which closes at the head of p. 764; recorded in the order of the sense.)*
+
+---
+
+### Page 764 (PDF 784)
+
+*(Running head: left 764; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+"…and Ṛjrāśva too was an object of Indra's favour: this is explained in the Special Topics of the first [?] Ṛk of Sūkta 101 of this same volume (as read [?]). Third: a ṛṣi named Nārṣada became deaf; he praised the Aśvin deities; they gave him [hearing]: so the story is told. In this way, by three stories Skandasvāmi has split into three the words of the first half of this Ṛk. *Parāvṛjam*:
+
+> परावृजम् — अवयवैः परावर्जितम् । मृतं भिन्नजङ्घं वा सन्तं घोरस्य ज्येष्ठं पुत्रमन्धं च ऋज्राश्वम् । श्रोणं बधिरं च नार्षदम् । चक्षसे — दर्शनाय, एतवे गमनाय च । साकाङ्क्षत्वात् श्रवणाय च इति वाक्यशेषः । पूर्वैश्च सह योग्यतया विषां [?] सम्बन्धः । चक्षसेऽन्धमृज्राश्वम् एतवे परावृजं श्रवणाय नार्षदम् ।
+> *parāvṛjam — avayavaiḥ parāvarjitam | mṛtaṃ bhinnajaṅghaṃ vā santaṃ ghorasya jyeṣṭhaṃ putram andhaṃ ca ṛjrāśvam | śroṇaṃ badhiraṃ ca nārṣadam | cakṣase — darśanāya, etave gamanāya ca | sākāṅkṣatvāt śravaṇāya ca iti vākyaśeṣaḥ | pūrvaiś ca saha yogyatayā viṣāṃ [?] sambandhaḥ | cakṣase 'ndham ṛjrāśvam etave parāvṛjaṃ śravaṇāya nārṣadam |*
+> *(Sanskrit as read; the word* viṣām *is doubtful [?]. Gloss in the Kannada: "In the first, 'forsaken in his limbs', i.e. dead-like or with split shanks — Ghora's eldest son; and the blind Ṛjrāśva; and the deaf Nārṣada [= Śroṇa]; for sight, for walking, and — the sentence being left incomplete — for hearing; and so, [they are] related to the earlier words according to fitness: for the eye, the blind Ṛjrāśva; for walking, Parāvṛja; for hearing, Nārṣada.")*
+
+Ṛjrāśva, the blind one, is [thus] made the one who sees; Parāvṛja, the lame son of Ghora, the one who walks; Nārṣada, the deaf, the one who hears: he has explained thus."
+
+**याभिर्वर्तिकां ग्रसितामुमुञ्चतम् — Yābhir vartikāṃ grasitām amuñcatam.** "The quail, seized in the wolf's grasp, you released from the mouth of the wolf": another story is indicated. Explaining this, Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । वर्तिका नाम चटकजातिः शीघ्रगतिः श्रमवर्जिता च । चवद्य इत्येव या लोके प्रसिद्धा । अस्या गच्छन्त्याः समुद्रमध्येऽपि शब्दः श्रूयते इति नाविका आचक्षते । तां शीघ्रगतित्वादृषयः प्रेषयामासुः । तां गच्छन्तीं वृके जग्राह । साश्विनावाजुहाव । तामश्विनौ मोचयाञ्चक्रतुरिति ।
+> *atrāpītihāsam ācakṣate | vartikā nāma caṭakajātiḥ śīghragatiḥ śramavarjitā ca | cavadya ity eva yā loke prasiddhā | asyā gacchantyāḥ samudramadhye 'pi śabdaḥ śrūyate iti nāvikā ācakṣate | tāṃ śīghragatitvād ṛṣayaḥ preṣayām āsuḥ | tāṃ gacchantīṃ vṛke jagrāha | sāśvināv ājuhāva | tām aśvinau mocayāñ cakratur iti |*
+> *(Sanskrit as read; the word* cavadya *[Kannada: "cavadya"] is as printed and is doubtful [?].)*
+> "Here too they tell the tale: the *vartikā* is a kind of sparrow-like bird, swift of flight and untiring, known in the world as *cavadya* [?]. Sailors say that its voice is heard even in mid-ocean as it flies. The sages sent her [on an errand] because of her swiftness. As she went, a wolf seized her; she called the two Aśvins; the Aśvins freed her."
+
+"A bird of the quail-kind named *vartikā* is exceedingly swift and untiring in flight, and is known in the world by the name *cavadya* [?]. Sailors say that its voice is heard even in mid-ocean as it goes. Because it is so swift, the ṛṣis sent it [on errands] from time to time. Once, as it was going on the way, a wolf seized it. It then called the Aśvin deities to its help; they came and freed it from the wolf's mouth." This tale is also indicated in the Ṛks:
+
+> आजोहवीदश्विना वर्तिका वामास्नो यत्सीममुञ्चतं वृकस्य ।
+> *ājohavīd aśvinā vartikā vām āsno yat sīm amuñcataṃ vṛkasya |*
+> (*Ṛ.* 1-112-8 as read [?])
+
+> अमुञ्चतं वर्तिकामंहसो निः प्रति जङ्घां विश्पलाया अधत्तम् ।
+> *amuñcataṃ vartikām aṃhaso niḥ prati jaṅghāṃ viśpalāyā adhattam |*
+> (*Ṛ.* 1-118-8 as read [?])
+
+> वृकस्य चिद्वर्तिकामन्तरास्याद्युवं शचीभिर्ग्रसितामुमुञ्चतम् ।
+> *vṛkasya cid vartikām antar āsyād yuvaṃ śacībhir grasitām amuñcatam |*
+> (*Ṛ.* 10-39-13 as read [?])
+> *(Sanskrit as read from the print; the numerals are doubtful [?]; no gloss attempted.)*
+
+---
+
+**Progress note:** Printed pp. 1–764 done (PDF 21–784): Sūkta 112: Riks 112.1–112.7 complete (pp. 723–760); Rik 112.8 (printed pp. 760–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (parāvṛjam/andham/śroṇam with the Vedic Index quotation and Skandasvāmi's three itihāsas; the vartikā tale) done to the foot of p. 764; the grammar page follows on p. 765. (Correction recorded in the text: the Saṃhitā of 112.8 reads *śacībhir*, not *śucibhir*.) Next: printed p. 765 (PDF 785). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
