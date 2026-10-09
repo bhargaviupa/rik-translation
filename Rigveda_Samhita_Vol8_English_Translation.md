@@ -15740,5 +15740,90 @@ O Indra and Agni, you have made your auspicious name renowned as always conjoine
 > *ā vo yakṣy amṛtatvaṃ suvīraṃ yathā vo devā varivaḥ karāṇi | ā bāhvor vajram indrasya dheyām atheme viśvāḥ pṛtanā jayāti ‖* (*Ṛ. Saṃ.* 10-[?]3-3 as read [?]; the words as read from the print, doubtful [?])" *(the passage continues on p. 586)*
 
 ---
+### Page 586 (PDF 606)
 
-**Progress note:** Printed pp. 1–585 done (PDF 21–605): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.2 complete (pp. 573–583); Rik 108.3 (printed pp. 583–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*cakrāthe sadhryaṅ nāma bhadram*; ends at the foot of p. 585 after Ṛ. 10-[?]3-3). Next: printed p. 586 (PDF 606). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 586; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+"— in this Ṛk it is described that Agni gave Indra the *vajra* weapon, helped him thereby in slaying the enemy, and, having told the gods of this kind of useful work of his, secured victory for them and brought them food. By such united acts of slaying enemies by Indra and Agni —
+
+> ता योधिष्टमभि गा इन्द्र नूनमपः स्वरुषसो अग्न ऊळ्हाः ।
+> दिशः स्वरुषस इन्द्र चित्रा अपो गा अग्ने युवसे नियुत्वान् ॥
+> *tā yodhiṣṭam abhi gā indra nūnam apaḥ svaruṣaso agna ūḷhāḥ | diśaḥ svaruṣasa indra citrā apo gā agne yuvase niyutvān ‖* (*Ṛ. Saṃ.* 6-6[?]-[?] as read [?]; the words as read from the print, "ūḷhāḥ" and the last verbs doubtful [?])
+
+— in Ṛks such as these the prayer is made that Indra and Agni should regain the stolen cows, bring back the stolen light, and set the waters flowing. These helpful Indra and Agni, *sadhryañcā niṣadya vṛṣṇaḥ somasya vṛṣethām*: 'both seated together at the sacrificial house, drink the delightful Soma-juice': so the prayer is made, with a grateful heart."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.3)** *(grammar pages, pp. 586–587, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Cakrāthe* (root *ḍukṛñ karaṇe*; *liṭ*, second person dual, *āthām*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*; since it begins a pāda, no *nighāta*; by the accent of the suffix the initial acute). *Sadhryak* (*saha* is the prior member; the root *añcu gatipūjanayoḥ*; *kvin* by *ṛtvigdadhṛksragdiguṣṇigañcuyujikrucāṃ ca*, Pā. Sū. 3-2-59 as read [?]; the loss of the nasal *n* by *anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-24 as read [?]; before *añc*, *sadhri* for *saha* by *sahasya sadhriḥ*, Pā. Sū. 6-3-95 as read [?]; *k* for the *c* of the root by *coḥ kuḥ*, Pā. Sū. 8-2-30 as read [?]; the *udātta* [accent] *nipātana*, by *adrisadhryor ad* [?]*…*, the accent of the *kṛdanta* latter member is set aside [?], by the statement the substitute *sadhri* is final-acute; when *yaṇ* is the final substitute, by *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. Sū. 8-2-4 as read [?], *svarita*). *Sadhrīcīnā* (the suffix *kha* in the same sense by *vibhāṣāñceradikstriyām*, Pā. Sū. 5-4-8 as read [?]; *īna* for *kha* by *āyaneyīnīyiyaḥ…*, Pā. Sū. 7-1-2 as read [?]; the form *sadhrīcīna*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; since it is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]). *Vṛtrahaṇā* (*vṛtraṃ hatavantau vṛtrahaṇau*; the suffix *kvip* in the past sense by *brahmabhrūṇavṛtreṣu kvip*, Pā. Sū. 3-2-87 as read [?]; before the dual *au*, the lengthening of the penult by *inhanpūṣāryamṇāṃ śau*, Pā. Sū. 6-4-12 as read [?], does not arise because the rule is restricted [to *śi* and *sarvanāmasthāna*...]) *(continued on p. 587)*
+
+---
+
+### Page 587 (PDF 607)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 587.)*
+
+The grammar of Rik 108.3 concludes (noted briefly). *Vṛtrahaṇā*, concluded: "…by *ṛto*… [the restriction] as stated (Pā. Sū. 6-4-13 as read [?]), the lengthening of the penult does not arise; *vṛtrahaṇ + au*, then by *eco 'yavāyāvaḥ*, *āv* is substituted; the loss of *v* by *lopaḥ śākalyasya*, Pā. Sū. 8-3-19 as read [?]." *Sthaḥ* (root *as bhuvi*; *laṭ*, second person dual, *thas*; since it is *ñit*-like [*apit*], no *guṇa*; loss of *a* of the root by *śnasor allopaḥ*, Pā. Sū. 6-4-111 as read [?]; *nighāta*). *Niṣadya* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *lyap* for *ktvā* in a compound whose first member is not *nañ* by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?]; *ṣatva* by *sadiraprateḥ*, Pā. Sū. 8-3-66 as read [?]; because of the *bha*, the lengthening of the *a*...). *Vṛṣethām* (root *vṛṣa secane*; by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?], the *ātmanepada* and the *śa* vikaraṇa; since the *vikaraṇa* is *ñit*, no *guṇa* of the light penult; middle second person dual, *āthām*; *e* for the *ṭi*; *ānāv* for the *ā* of *āthām* by *āmetaḥ*, Pā. Sū. 3-4-90 as read [?]; *ā* → *iy* [?] for *ātaḥ*, by *ātoṅitaḥ*, Pā. Sū. 7-2-81 as read [?]; loss of *y* by *lopo vyor vali*, Pā. Sū. 6-1-66 as read [?]; *guṇa*; *nighāta* since a verb follows a non-verb). The Rik is closed with *‖ 3 ‖*.
+
+## Rik 108.4 — printed pp. 587–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.4)**
+
+> समिद्धेष्वग्निष्वानजाना यतस्रुचा बर्हिरू तिस्तिराणा ।
+> तीव्रैः सोम्यैः परिषिक्तेभिरर्वागेन्द्राग्नी सौमनसाय यातम् ॥ ४ ॥
+
+*samiddheṣv agniṣv ānajānā yatasrucā barhir ū tistirāṇā | tīvraiḥ somyaiḥ pariṣiktebhir arvāg endrāgnī saumanasāya yātam ‖ 4 ‖* *(accent-marks in the print not reproduced; "ū" after "barhiḥ" is as printed in the Saṃhitā, the Pada reading "barhiḥ | ūṃ iti")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.4)**
+
+> सम्ऽइद्धेषु । अग्निषु । आनजानाः । यतऽस्रुचा । बर्हिः । ऊं इति । तिस्तिराणा ।
+
+*sam-iddheṣu | agniṣu | ānajānā | yata-srucā | barhiḥ | ūṃ iti | tistirāṇā |* *(the Pada continues on p. 588)*
+
+---
+
+### Page 588 (PDF 608)
+
+*(Running head: left 588; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+> तीव्रैः । सोम्यैः । परिऽसिक्तेभिः । अर्वाक् । आ । इन्द्राग्नी इति । सौमनसाय । यातम् ॥ ४ ॥
+
+*tīvraiḥ | somyaiḥ | pari-siktebhiḥ | arvāk | ā | indrāgnī iti | saumanasāya | yātam ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.4)**
+
+> अग्निषु गार्हपत्यादिधिष्ण्यस्थानादिना समिद्धेषु सम्यगिद्धेषु दीप्तेषु सत्सु । आनजाना हविष्याज्येनाञ्जन्तौ । यतस्रुचा तदनन्तरं योगार्थं गृहीतस्रुचौ बर्हिरू वेद्यां बर्हिरपि तिस्तिराणा आस्तीर्णं कृतवन्तावध्वर्युप्रतिप्रस्थातारावेवंभूताम् अभूताम् । तथा सति हे इन्द्राग्नी तीव्रैः क्षिप्रं मदकरैः परिषिक्तेभिः परितः सर्वेषु ग्रहचमसादिष्वासिक्तैः सोम्यैर्हेतुभूतैरर्वागस्मदभिमुखा यातम् । आगच्छतम् । किमर्थं । सौमनसाय सौमनस्याय । अस्माकमनुग्रहायेत्यर्थः ॥ आनजाना । अञ्जू व्यक्तिम्रक्षणगतिषु । लिटः कानच् । अनिदितामिति नलोपः । द्विर्भावेऽत आदेरित्यभ्यासस्य दीर्घः । तस्मान्नुड्द्विहल इत्यद्विहलोऽपि व्यत्ययेन नुट् । तिस्तिराणा । स्तृञ् आच्छादने । पूर्ववत्कानच् । ऋतश्च इद्वा [?] इरीतीत्वम् । द्विर्वचने शपूर्वाः खयः । सुपां सुलुगिति विभक्तेराकारः । चित्त्वादन्तोदात्तत्वम् ॥
+> *agniṣu gārhapatyādidhiṣṇyasthānādinā samiddheṣu samyag iddheṣu dīpteṣu satsu | ānajānā haviṣyājyenāñjantau | yatasrucā tadanantaraṃ yogārthaṃ gṛhītasrucau barhir ū vedyāṃ barhir api tistirāṇā āstīrṇaṃ kṛtavantāv adhvaryupratiprasthātārāv evaṃbhūtām abhūtām | tathā sati he indrāgnī tīvraiḥ kṣipraṃ madakaraiḥ pariṣiktebhiḥ paritaḥ sarveṣu grahacamasādiṣv āsiktaiḥ somyair hetubhūtair arvāg asmadabhimukhā yātam | āgacchatam | kimartham | saumanasāya saumanasyāya | asmākam anugrahāyety arthaḥ ‖ ānajānā | añjū vyaktimrakṣaṇagatiṣu | liṭaḥ kānac | aniditām iti nalopaḥ | dvirbhāve 'ta āder ity abhyāsasya dīrghaḥ | tasmān nuḍ dvihala ity advihalo 'pi vyatyayena nuṭ | tistirāṇā | stṛñ ācchādane | pūrvavat kānac | ṛtaś ca idvā [?] irītītvam | dvirvacane śapūrvāḥ khayaḥ | supāṃ suluk iti vibhakter ākāraḥ | cittvād antodāttatvam ‖* *(Sanskrit as read; "ṛtaś ca idvā [?] irītītvam" is clotted and given with doubt [?]; the tail is short and given.)*
+
+"When the fires — the *gārhapatya* and the rest, in the *dhiṣṇya* hearths — are *samiddha*, well kindled, blazing; the two, *ānajānā*, anointing [the sacrificial things] with the clarified butter of the oblation; *yatasrucā*, afterwards, having taken up the ladles for the sacrifice; and *barhiḥ ū tistirāṇā*, having spread the *barhis* [the sacred grass] on the altar — the *adhvaryu* and the *pratiprasthātṛ* have become such. This being so, O Indra and Agni, with (*tīvraiḥ*) swift, intoxicating, *pariṣiktebhiḥ* — poured on all sides into the *graha* and *camasa* vessels, *somyaiḥ* — Soma-juices, being the cause: come (*yātam*) facing us (*arvāk*); for what? For *saumanasa* — for good will, for our favour."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.4; Kannada; English)**
+
+*Agniṣu* — the Gārhapatya and the other fires; *samiddheṣu* — (with firewood) kindled; *ānajānā* — having anointed the oblations with ghee; *yatasrucā* — having taken up the ladles for the sacrifice; *barhiḥ* — the *darbha* grass [on the altar]; *tistirāṇā* — having spread; (so the *adhvaryu* and the *pratiprasthātṛ* have become [ready]; therefore, O Indra and Agni) *tīvraiḥ* — those that give delight swiftly; *pariṣiktebhiḥ* — poured out (into the *camasa* and other vessels); *somyaiḥ* — [by] Soma-juices (attracted by); *arvāk* — facing us; *saumanasāya* — to favour [us]; *ā yātam* — come.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The *adhvaryu* and the *pratiprasthātṛ* are watching for you, having kindled the Gārhapatya and the other fires with firewood, having anointed the oblations with ghee, having taken up the ladles for the sacrifice, and having spread the *darbha* grass on the altar. Therefore, O Indra and Agni, attracted by the Soma-juices which give swift delight and have been poured into the *camasa* and other vessels, come facing us, to favour us.
+
+---
+
+### Page 589 (PDF 609)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 589.)*
+
+**English Translation (as printed in the source)**
+
+"The fires being kindled, the two ( priests stand by ) sprinkling the clarified butter from the ladles, which they raise, and spreading the sacred grass ( upon the altar ); therefore, Indra and Agni, come before us for our gratification, ( attracted ) by stimulating Soma juices sprinkled all around."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.4)**
+
+**Ānajānā** — *havīṃṣy ājyenāñjantau |* "'anointing the oblations with ghee': Sāyaṇa has said 'having anointed, having made [them] sprinkled with ghee'. *Āñjegṛtyarthasya idaṃ rūpam*; Skandasvāmin also explains that, from the root *añju*, which has the sense of 'going', it is formed [in the sense] 'those who have come to the sacrificial house' — an epithet of Indra and Agni. Sāyaṇa takes the three words *ānajānā*, *yatasrucā* and *tistirāṇā* as epithets of the *adhvaryu* and the *pratiprasthātṛ*: thus, 'those who anoint the oblations with ghee', 'those who hold the ladles in their hands for the sake of the sacrifice' (*yatasrucā*) and 'those who prepare the *darbha* seats' (*tistirāṇā*) are the *adhvaryu* and the *pratiprasthātṛ*. Skandasvāmin says that these three words are epithets of Indra and Agni: *ānajānā* means 'those who have come to the sacrificial house'; *yatasrucā*: '*sarvaiḥ yajamānaiḥ udyatāḥ sruco yayor arthāya tau yatasrucau*' [as read [?]] — 'the two for whom, with a view to sacrifice, the ladles are raised' — that is, Indra and Agni; and *tistirāṇā*, even though the spreading of the *barhis* is the work of the priests, it is to be understood that, since it is the cause of the memory of Indra and Agni, those two [Indra and Agni] are the doers of that action, because they sit on the spread *barhis*: so [Skandasvāmin] has explained. (*Ṛtvikkarmatvāt* [the work belongs to the priests].)"
+
+**Tīvraiḥ** — *kṣipraṃ madakaraiḥ |* "'swiftly giving delight' — with much vigilance, causing intoxication-like delight, the Soma-juices."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.4)** *(grammar pages, p. 589 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Ānajānā* (root *añju vyaktimrakṣaṇagatiṣu*; *liṭ* → *kānac* by *liṭaḥ kānajvā*, Pā. Sū. 3-2-106 as read [?]; since it is *kit*, the loss of the nasal [*anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-24 as read [?]]; the doubling of the root because of the suffix; for the reduplicate, the lengthening [of the *a*] by *ata ādeḥ*, Pā. Sū. 7-4-70 as read [?]; though the root is not *dvihal* [the *halādi* with two consonants], the augment *nuṭ* by *tasmān nuḍ dvihalaḥ*, Pā. Sū. 7-4-71 as read [?], by *vyatyaya*; the form *ānajāna*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; since it is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]) *(continued on p. 590)*
+
+---
+
+**Progress note:** Printed pp. 1–589 done (PDF 21–609): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.3 complete (pp. 573–587); Rik 108.4 (printed pp. 587–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 589 (at *ānajānā*, mid-passage). Next: printed p. 590 (PDF 610). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
