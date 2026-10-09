@@ -10185,4 +10185,95 @@ The grammar of Rik 103.2 concludes: *apaḥ* (the word *ap*; accusative plural; 
 
 ---
 
-**Progress note:** Printed pp. 1–369 done (PDF 21–389): **Sūkta 103** (8 Ṛks) in progress: Rik 103.2 complete (pp. 362–368); Rik 103.3 (printed pp. 368–[?]): Saṃhitā, Pada, bhāṣya with tail and Pratipadārtha done to the foot of p. 369. Next: printed p. 370 (PDF 390): the Bhāvārtha of 103.3, English, Special Topics, grammar; then Rik 103.4. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 370 (PDF 390)
+
+*(Running head: left 370; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha of Rik 103.3 (Kannada)**
+
+"Indra, who has the thunderbolt as his weapon and who, by his own strength, holds firm faith, went about freely in all directions, destroying the cities of the Dasyus. O Indra, who hold the thunderbolt, knowing the greatness of praise, hurl your weapon against the enemy who does harm to this devotee who praises. Increase the strength and the fame that belong to the Āryas."
+
+**English Translation (as printed)**
+
+> Armed with the thunderbolt, and confident in his strength, he has gone on destroying the cities of the Dasyus. Thunderer, acknowledging, (the praises of your worshipper), cast, for his sake, your shaft against the Dasyu, and augment the strength and glory of the Arya.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.3 (Kannada)**
+
+"*Jātobharmā* — *jātū ity aśanim ācakṣate* | *bharma āyudham* | *aśanirūpam āyudhaṃ yasya sa tathoktaḥ*: since the thunderbolt is called *jātu*, and since it is held by him as a weapon, the name *jātobharman* is given to Indra: this is one sense. And *yadvā jātānāṃ prajānāṃ bhartā*: another sense the bhāṣya-author has given: 'one who supports born creatures'. The Nirukta-author, in explaining the Ṛk"
+
+> तस्मै भर्मणे भुवनाय देवा धर्मणे कं स्वधया पप्रथन्त ।
+> *tasmai bharmaṇe bhuvanāya devā dharmaṇe kaṃ svadhayā paprathanta |*
+> (*Ṛ. Saṃ.* 10-[?]8-1 as read [?])
+
+"— gives for the word *bharmaṇe* the sense *bharaṇāya*, 'for bearing, for nourishing' (*Ni.* 2-[?]3 as read [?]). And Sāyaṇa —"
+
+> देवेभिर्देवयदितेरिष्टभर्मन्ना गहि ।
+> *devebhir devy aditer iṣṭabharmann ā gahi |*
+> (*Ṛ. Saṃ.* 8-[?]-4 as read [?])
+
+"— in this Ṛk, as he gives for the word *bharman* the sense *bharaṇa*, here also if *bharaṇa* is given, then the sense becomes 'protector, nourisher of all born creatures'. And *jātu*, the word, may also mean *sarvadā*, 'always'."
+
+### Page 371 (PDF 391)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 371.)*
+
+> जातो ऽग्निरस्य प्र वयः सहस्वतो यो ... सेन्द्र विश्वा... *(not read in full)*
+> *jāto 'gniḥ [as read] … (the print's Ṛk beginning* jāto … *is not read in full and is left uncompleted [?])*
+> (*Ṛ. Saṃ.* 3-[?]-1[?] as read [?])
+
+"— in this Ṛk, as the word *jātu* is given the sense 'always', so here also the same sense would suit: then the sense is 'one who always bears the world'. Therefore one sense is 'one who has the thunderbolt as weapon'; another, 'one who bears born creatures'; or 'one who always, eternally, bears the world': one of these three senses may be given.
+
+*Ojaḥ śraddadhānaḥ* — *oja ojater vā ubjater vā* (*Ni.* 6-[?]) — the word *ojas* may come from the root *oj*, giving the sense 'strength', or from the root *ubj*, giving the sense 'to restrain'; for both the purport is strength.
+
+*Śraddadhānaḥ* — *avitatham iti saṃbhāvanā śraddhā* | *ātmano balam avitatham iti saṃbhāvayan* | *na kiṃcid asuraṃ prati mama balaṃ na pratihanyata ity evaṃ saṃbhāvayann ity arthaḥ*: 'faith (*śraddhā*) is the conviction that something is not false: considering that his strength is not in vain; that is: in the confidence that "my strength is not obstructed against any Asura"'. Skandasvāmin explains it as a firm confidence that 'I have the power to restrain all'. At the very time of his birth, Indra, knowing the greatness of his own strength and showing his unusual valour, [asking] 'who are my enemies? with whom must I fight?', asked his mother; and in answer to it, his mother told him of the Asuras and the rest: this is described in the Ṛksaṃhitā itself —"
+
+> आ बुन्दं वृत्रहा ददे जातः पृच्छद्वि मातरम् । के उग्राः के ह शृण्विरे ॥
+> *ā bundaṃ vṛtrahā dade jātaḥ pṛcchad vi mātaram | ke ugrāḥ ke ha śṛṇvire ‖*
+> (*Ṛ. Saṃ.* 8-[?]3-4 as read [?])
+
+> जज्ञानो नु शतक्रतुर्वि पृच्छदिति मातरम् । के उग्राः के ह शृण्विरे ॥
+> *jajñāno nu śatakratur vi pṛcchad iti mātaram | ke ugrāḥ ke ha śṛṇvire ‖*
+> (*Ṛ. Saṃ.* 8-[?]2-1 as read [?])
+
+"— in Ṛks like these Indra is praised: as soon as he was born, he showed his capacity and sought out his enemies with a weapon in his hand. By showing these ideas in the present Ṛk, Indra's self-confidence and his firm trust in his own capacity are made known. [The Ṛk] praises his self-reliance, that, however hard the enemy that confronts him, his strength is never in vain and can destroy the enemy completely."
+
+### Page 372 (PDF 392)
+
+*(Running head: left 372; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+"*Dasyave* — *upakṣayakāriṇe śatrave*: against the enemy who destroys; *dāsīḥ* — *dasyusambandhinīḥ*: belonging to Dasyus: in both places [*dasyu* and *dāsī*] the word is used as a synonym of 'enemy'. The various meanings of the word *dasyu* have been explained, with examples, in the special topics of the twelfth Ṛk of the hundredth sūkta in this same volume.
+
+*Hetim* — *hetir hanteḥ* (*Ni.* 6-[?]): the word is derived from the root *han*, which gives the sense 'to kill'; and it is read among the names of the thunderbolt — *vidyut, nemiḥ* [as read, ?] and the other eleven names (*Ni.* 2-[?]0): 'weapon' (*vajrāyudha*).
+
+*Āryaṃ sahaḥ dyumnaṃ vardhaya* — the two parties, *ārya* and *dāsa*, show opposition to one another; the group of Āryas, dependent on sacrificial acts, are worthy of the favour of the gods because they are always devoted to the worship of the deities; the *dasyus*, being without rites, cause obstruction to those who carry out sacrifices and other rites, and trouble to the world. Therefore it is well known that Indra, by destroying the Dasyus and their cities, is the cause of the growth of the Āryas."
+
+> त्वं ह नु त्यददमायो दस्यूँरेकः कृष्टीरवनोरार्याय ।
+> *tvaṃ ha nu tyad adamāyo dasyūm̐r ekaḥ kṛṣṭīr avanor āryāya |*
+> (*Ṛ. Saṃ.* 6-[?]8-3 as read [?]; as quoted on p. 226)
+
+"— as in Ṛks like these, where it is described that Indra is the cause of the growth of the Āryas through the destruction of the Dasyus, so in this Ṛk too the prayer is that he be the cause of the growth of the Āryas.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.3)** *(grammar pages, pp. 372–373, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *jātobharmā* (root *janī prādurbhāve*; *ḍa* by *anyeṣv api dṛśyate* [Pā. Sū. 3-2-101 as read], the word *dṛśi* in that sūtra being used to override all qualifications [*viśeṣaṇa*], so that the affix *ḍa* comes after the bare root; by the force of its being *ḍit*, loss of the *ṭi*-part of the root; the form *ja*; *jān turvati iti jātuḥ* — 'one who destroys those who are born'; root *turvī hiṃsāyām*; *kvip* by *kvip ca* [Pā. Sū. 3-2-76 as read]; since *kvip* follows, loss of the *v* of the root by *rālopaḥ* [Pā. Sū. 6-4-21 as read]; the form *jātūr* [?]; *bhriyate iti bharma*; *manin* by *anyebhyo 'pi dṛśyante* [Pā. Sū. 3-2-75 as read]; *jātoḥ bharma yasya saḥ jātobharmā*; in the Veda the loss of the *r*; in the *bahuvrīhi*, by *bahuvrīhau prakṛtyā pūrvapadam* [Pā. Sū. 6-2-1 as read] the accent of the first member; or, by another view, with the root *janī*, *kta* by *niṣṭhā* [Pā. Sū. 3-2-102 as read], *ā* for the nasal by *janasanakhanāṃ sanjhaloḥ* [Pā. Sū. 6-4-42 as read]; *jātaṃ sarvaṃ bharma bhartavyaṃ yena* — 'by whom everything born is to be borne'; in the *bahuvrīhi* the first member keeps its accent as before; by letter-interchange *ū* in place of *a* in the Veda)" *(the grammar continues on the next page)*
+
+### Page 373 (PDF 393)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 373.)*
+
+The grammar of Rik 103.3 concludes: *acarat* (root *cara gatibhakṣaṇayoḥ*; *laṅ*, third person singular; since the verb is preceded by an indeclinable [*vi*]… the *nighāta*; the augment *aṭ* acute); *vidvān* (root *vida jñāne*; *śatṛ* for *laṭ*, replaced by *vasu* by *vido laṭo vā* [Pā. Sū. 3-4-83 as read — print gives *videḥ śaturvasuḥ*, Pā. Sū. 7-1-36 as read, ?]; *num* because the affix is *ugit* in the nominative singular); *dasyave* (root *dasu upakṣaye*; *yu* by *yajimanśundhidasijanibhyo yuḥ* [Uṇ. Sū. 3-100 as read]; the word *dasyu*; acute on the first syllable by *vṛṣādīnāṃ ca* [Pā. Sū. 6-1-203 as read]); *vardhaya* (root *vṛdhu vṛddhau*; since the causative sense is shown, *ṇic* by *hetumati ca* [Pā. Sū. 3-1-26 as read]; guṇa of the short penult by *pugantalaghūpadhasya ca* [Pā. Sū. 7-3-86 as read]; after the *ṇic*-ended form, *loṭ*, second person singular, *sip*, *hi* for it; *śap*; *guṇa* of *ṇic*; *ay*-substitution; loss of *hi* by *ato heḥ* [Pā. Sū. 6-4-105 as read]; *nighāta* at the end of the verb). The Rik is closed with *‖ 3 ‖* and a printed ornament.
+
+## Rik 103.4 — printed pp. 373–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.4)**
+
+> तदूचुषे मानुषेमा युगानि कीर्तेन्यं मघवा नाम बिभ्रत् ।
+> उपप्रयन्दस्युहत्याय वज्री यद्ध सूनुः श्रवसे नाम दधे ॥ ४ ॥
+
+*tad ūcuṣe mānuṣemā yugāni kīrtenyaṃ maghavā nāma bibhrat | upaprayan dasyuhatyāya vajrī yad dha sūnuḥ śravase nāma dadhe ‖ 4 ‖*
+
+*(The Pada of this Rik is printed on the next page.)*
+
+---
+
+**Progress note:** Printed pp. 1–373 done (PDF 21–393): **Sūkta 103** (8 Ṛks) in progress: Rik 103.3 complete (pp. 368–373); Rik 103.4 (printed pp. 373–[?]): Saṃhitā done at the foot of p. 373. Next: printed p. 374 (PDF 394): the Pada of 103.4, bhāṣya etc.; then Riks 103.5–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
