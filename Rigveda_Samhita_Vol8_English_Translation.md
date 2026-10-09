@@ -13125,5 +13125,105 @@ Grammar page, noted briefly. *Ātatā* (root *tanu vistāre*; *niṣṭhā* in t
 "The *ukṣaṇaḥ* are the five who 'sprinkle' (the showerers who rain down desires). 'May Indra, Tvaṣṭṛ, Varuṇa, Agni, Aryaman, Savitṛ grant us [that] boon' — the five deities set forth by this half-Ṛk [?]; or else the five are Agni, Vāyu, Sūrya, Candramas and Vidyut (lightning). So the Śāṭyāyanaka says: 'these are the five lights that shine in these worlds: Agni on the earth; Vāyu in the mid-region; Āditya in the sky; the Moon among the stars; lightning in the waters' — *nakṣatre* means the world of the stars; *apsu*, in the waters in the clouds. The Taittirīya also says the same: 'Agni on the earth, Vāyu in the mid-region, Sūrya in the sky, the Moon in the directions, the stars in the heavenly world.' These five deities have stood (*tasthuḥ*) in the middle of the great (*mahaḥ*), wide heaven (*divaḥ*). Among the gods (*devatrā*), swiftly (*nu*), my hymn which is to be recited (*pravācyam*), worthy of the gods: towards it they come together (*sadhrīcīnāḥ*), simultaneously; those gods accept my service, and afterwards they turn back (*ni vavṛtuḥ*): satisfied, they go back. [The rest] as before." *(Grammatical tail, noted briefly:* *ukṣaṇaḥ*, no lengthening of the penult; *devatrā*, the suffix *tra* in the locative sense; *pravācyam*, *yat* after *vāc* with the causal; *sadhrīcīnāḥ*, from *sahāñc* with *kvin*, loss of the nasal, *sadhri* for *saha*, Pā. Sū. 6-3-95 as read [?]; *vavṛtuḥ*, *liṭ* in the Vedic present sense, middle/active by *vyatyaya*, lengthening of the reduplicate in the Saṃhitā.)
 
 ---
+### Page 486 (PDF 506)
 
-**Progress note:** Printed pp. 1–485 done (PDF 21–505): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.9 complete (pp. 441–484); Rik 105.10 (printed pp. 484–[?]): Saṃhitā, Pada and bhāṣya (with its short tail) done (pp. 484–485). Next: printed p. 486 (PDF 506): the Pratipadārtha, Bhāvārtha, English etc. of 105.10, then Rik 105.11. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 486; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.10; Kannada; English)**
+
+*Ukṣaṇaḥ* — those who rain down (the desired objects); *pañca* — the five who are numbered as Indra, Varuṇa, Agni, Aryaman and Savitṛ, or as Agni, Vāyu, Sūrya, Candra and Vidyut (lightning); *ye amī* — those gods who; *mahaḥ* — of the exceedingly wide; *divaḥ* — heavenly world; *madhye* — in the middle; *tasthuḥ* — they stay; *devatrā* — among the gods; *pravācyam* — [my] hymn worthy of praise; *nu* — in watchfulness [?]; *sadhrīcīnāḥ* — having gone together, (they accept my service); *ni vavṛtuḥ* — (then, satisfied) they turn back; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The five deities who are in the middle of the exceedingly wide heavenly world and who rain down the desired objects have all gone together and, having offered my praise-worthy hymn to all the gods, they return in wakefulness. O Heaven and Earth, know my sorrow, hear my hymn, and lift me out of the sorrow.
+
+**English Translation (as printed in the source)**
+
+"May the five shedders (of benefits) who abide in the centre of the expanded heavens, having together conveyed my prayers quickly to the gods, (speedily) return. Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.10)**
+
+**Pañca ukṣaṇaḥ** — "five deities who, by their various functions, grant the sacrificers the objects they desire. Who are these five deities? As said in the Ṛk-saṃhitā itself —
+
+> तन्न इन्द्रस्तद्वरुणस्तदग्निस्तदर्यमा तत्सविता चनो धात् ।
+> *tan na indras tad varuṇas tad agnis tad aryamā tat savitā cano dhāt |* (*Ṛ. Saṃ.* 1-10[?]-[?] as read [?])
+
+— they may be the five deities Indra, Varuṇa, Agni, Aryaman and Savitṛ; or else —
+
+> अग्निः पृथिव्यां वायुरन्तरिक्षे सूर्यो दिवि चन्द्रमा दिक्षु नक्षत्राणि स्वर्लोके ।
+> *agniḥ pṛthivyāṃ vāyur antarikṣe sūryo divi candramā dikṣu nakṣatrāṇi svarloke |* (*Tai. Ā.* 1-20-1 as read [?])
+
+— as said in the Taittirīya Āraṇyaka, [five may be] Agni, Vāyu, Sūrya, Candra and the stars; or, as Sāyaṇa says '*tathā ca śāṭyāyanakam*' —" *(continued on p. 487)*
+
+---
+
+### Page 487 (PDF 507)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 487.)*
+
+"— in that statement ('*etāny eva pañca jyotīṃṣi yāny eṣu lokeṣu dīpyante | agniḥ pṛthivyāṃ vāyur antarikṣe ca ādityo divi candramā nakṣatre vidyud apsu*') the deities named may be understood."
+
+**Ukṣaṇaḥ** — *sektāraḥ kāmābhivarṣakāḥ |* "from the root *ukṣ*, which gives the sense of sprinkling (*secana*), the word is formed; the meaning is 'the deities who shower the desired objects on the devotees'. The Nirukta-author has read the word *ukṣan* among the names of the 'great' (*mahat*) (*Ni.* 3-[?]) and, citing —
+
+> घृषत्ते इन्द्र उक्षणः प्रियं काचित्करं हविर्विश्वस्मादिन्द्र उत्तरः [?]
+> *ghṛṣat te indra ukṣaṇaḥ priyaṃ kācitkaraṃ havir viśvasmād indra uttaraḥ [?]* (*Ṛ. Saṃ.* 10-[?]-[?] as read [?]; as printed, clotted [?])
+
+— the Ṛk, he explains in it the sense of *ukṣaṇa*: '*ukṣaṇaḥ ukṣater vṛddhikarmaṇaḥ ukṣanty udakeneti vā*' (*Ni.* 1[?]-[?]): from the root *ukṣ*, which has the sense of 'growth', or [as those who] sprinkle (*ukṣanti*) with water: so, from that context, 'those who grow with water'. In general the word *ukṣan* is used in the senses of 'power' and 'capacity', and it has its purport in the capacity to sprinkle. For example —
+
+> ते जज्ञिरे दिव ऋष्वास उक्षणो रुद्रस्य मर्या असुरा अरेपसः ।
+> *te jajñire diva ṛṣvāsa ukṣaṇo rudrasya maryā asurā arepasaḥ |* (*Ṛ. Saṃ.* 1-64-2 as read)
+
+> इमे ये ते सु वायो बाह्वोजसोऽन्तर्नदी ते सतेयन्तः [?] उक्ष्णो महि प्राधन्त उक्षणः ।
+> *ime ye te su vāyo bāhvojaso 'ntar nadī te sateyantaḥ [?] ukṣṇo mahi prādhanta ukṣaṇaḥ |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?]; the middle words are crowded and given as read [?])
+
+> शृण्वन्तमग्निं घृतपृष्ठमुक्षणं पृणन्तं देवं पृणते सुवीर्यम् ।
+> *śṛṇvantam agniṃ ghṛtapṛṣṭham ukṣaṇaṃ pṛṇantaṃ devaṃ pṛṇate suvīryam |* (*Ṛ. Saṃ.* 10-[?]-[?] as read [?]; as read)
+
+— in Ṛks such as these, the word *ukṣan*, although it has the sense of sprinkling, ends in the sense of 'power', and it is explained as 'the young, the vigorous'. In the Ṛk at hand too it can be taken as 'those with the power of sprinkling'."
+
+**Devatrā** — *deveṣu |* "among the gods; that is, in the midst of the deities."
+
+**Sadhrīcīnāḥ** — *sahāñcanto yugapad āgacchantas te devāḥ |* "those gods who come together at once, all joined."
+
+---
+
+### Page 488 (PDF 508)
+
+*(Running head: left 488; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.10)** *(grammar pages, pp. 488–489, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Ukṣaṇaḥ* (the word *ukṣan*; before *jas*, the lengthening of the penult would arise, but since the word has *ṣ* before it, there is no lengthening, by *vāṣapūrvasya nigame*, Pā. Sū. 6-4-9 as read [?]). *Tasthuḥ* (root *ṣṭhā gatinivṛttau*; *liṭ*, third person plural; because of the connection with *ye* earlier, the prohibition of *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]; the final acute by the accent of the suffix). *Mahaḥ* (root *maha pūjāyām*; *kvip* by *kvip ca*; sixth case singular; the ending is acute by *sāvekācas tṛtīyādiḥ*, Pā. Sū. 6-1-168 as read [?]). *Devatrā* (the suffix *trā* in the locative sense by *devamanuṣya…*, Pā. Sū. 5-4-56 as read [?]; the final acute by the accent of the suffix). *Pravācyam* (root *vaca paribhāṣaṇe*; after the causal, *yat* by *aco yat*, Pā. Sū. 3-1-97 as read [?]; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; loss of *ṇi* before *yat* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the initial acute by *yato 'nāvaḥ*, Pā. Sū. 6-1-213 as read [?]; since *pra* makes it a *gati*-compound, the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]). *Sadhrīcīnāḥ* (*saha añcati iti sadhryañc*; those who are *sadhrīcīnāḥ*; when *saha* is the prior member, the suffix *kvin* after the root *añcu gatipūjanayoḥ* by *ṛtvikdadhṛk…*, Pā. Sū. 3-2-59 as read [?]; the loss of the nasal by *aniditāṃ hala upadhāyāḥ kṅiti*, Pā. Sū. 6-4-24 as read [?]; *sadhri* for *saha* by *sahasya sadhriḥ*, Pā. Sū. 6-3-95 as read [?]; the suffix *kha* in the same sense by *vibhāṣāñceradikstriyām*, Pā. Sū. 5-4-8 as read [?]; *īna* for *kha* by *āyaneyīnīyiyaḥ…*, Pā. Sū. 7-1-2 as read [?]; nominative plural). *Vavṛtuḥ* (root *vṛtu vartane*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 as read [?]; the parasmaipada ending by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; in the dual, *atus* by *parasmaipadānāṃ ṇalatusus…*, Pā. Sū. 3-4-82 as read [?]; the doubling of the root because of *liṭ*; the reduplicate keeps its first consonant only *(continued on p. 489)*
+
+---
+
+### Page 489 (PDF 509)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 489.)*
+
+— by *ādi-hal-śeṣa*; *a* for the vowel by *uraṭ*, Pā. Sū. 7-4-66 as read [?]; when *t* follows, *ādihalśeṣa*; the lengthening of the reduplicate in the Saṃhitā by *anyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]; *nighāta*, since it follows a non-verb). The Rik is closed with *‖ 10 ‖* and an ornament.
+
+## Rik 105.11 — printed pp. 489–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.11)**
+
+> सुपर्णा एत आसते मध्य आरोधने दिवः ।
+> ते सेधन्ति पथो वृकं तरन्तं यह्वतीरपो वित्तं मे अस्य रोदसी ॥ ११ ॥
+
+*suparṇā eta āsate madhya ārodhane divaḥ | te sedhanti patho vṛkaṃ tarantaṃ yahvatīr apo vittaṃ me asya rodasī ‖ 11 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.11)**
+
+> सुऽपर्णाः । एते । आसते । मध्ये । आऽरोधने । दिवः ।
+> ते । सेधन्ति । पथः । वृकम् । तरन्तम् । यह्वतीः । अपः । वित्तम् । मे । अस्य । रोदसी इति ॥ ११ ॥
+
+*su-parṇāḥ | ete | āsate | madhye | ā-rodhane | divaḥ | te | sedhanti | pathaḥ | vṛkam | tarantam | yahvatīḥ | apaḥ | vittam | me | asya | rodasī iti ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.11), begun at the foot of p. 489**
+
+> सुपर्णाः । रश्मिनामैतत् । शोभनपतना एते सूर्यरश्मय आरोधने सर्वस्यावरके व्याप्ते दिवोऽन्तरिक्षस्य मध्य आसते वर्तन्ते । ते सूर्यरश्मयः पथो मार्गाद्वृकमरण्यश्वानं सेधन्ति । निषेधन्ति । निवारयन्ति । कीदृशं । यह्वतीर्म…
+> *suparṇāḥ | raśmināmaitat | śobhanapatanā ete sūryaraśmaya ārodhane sarvasyāvarake vyāpte divo 'ntarikṣasya madhya āsate vartante | te sūryaraśmayaḥ patho mārgād vṛkam araṇyaśvānaṃ sedhanti | niṣedhanti | nivārayanti | kīdṛśaṃ | yahvatīrma…* *(the passage is cut at the foot of p. 489 and continues on p. 490)*
+
+---
+
+**Progress note:** Printed pp. 1–489 done (PDF 21–509): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.10 complete (pp. 441–489); Rik 105.11 (printed pp. 489–[?]): Saṃhitā, Pada and the first lines of the bhāṣya done at the foot of p. 489 (cut at 'kīdṛśaṃ yahvatīrma…'). Next: printed p. 490 (PDF 510). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
