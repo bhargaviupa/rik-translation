@@ -15529,5 +15529,115 @@ Second: the association [of Indra and Agni] exists even in the Agni that is in t
 Grammar page, noted briefly. *Citratamaḥ* (*atiśayena citraḥ citratamaḥ*; the suffix *tamap* in the sense of a high degree by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55 as read [?]). *Vām* (the word *yuṣmad*; in the sixth dual case, *vām* by *yuṣmadasmadoḥ ṣaṣṭhīcaturthīdvitīyāsthayor vāṃnāvau*, Pā. Sū. 8-1-20 as read [?]; the *nighāta*-substitution by *nigāta* [?]; the substitute is wholly *anudātta*). *Caṣṭe* (root *cakṣiṅ vyaktāyāṃ vāci*; since roots have several meanings, here used in the sense of showing; *adādi*; *laṭ*, third person singular, *ta*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*, Pā. Sū. 3-4-79 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; loss of *k* by *skoḥ saṃyogādyor ante ca*, Pā. Sū. 8-2-29 as read [?]; *ṭutva* of the *t* by *ṣṭunā ṣṭuḥ*; since the root is *anudāttet* the *lasārvadhātuka* is *anudātta* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], the accent of the root remains; because of the *yad*-connection the *nighāta* is prohibited by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]). *Yātam* (root *yā prāpaṇe*; *loṭ*, second person dual; *nighāta*). *Saratham* (*samānaś cāsau rathaś ca sarathaḥ*; *sa* for *samāna* by *samānasya chandasi…*, Pā. Sū. 6-3-84 as read [?]; the accent of the latter member by *parādiś chandasi bahulam*, Pā. Sū. 6-2-199 as read [?]) *(the grammar continues on p. 578)*
 
 ---
+### Page 578 (PDF 598)
 
-**Progress note:** Printed pp. 1–577 done (PDF 21–597): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Rik 108.1 (printed pp. 573–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 577 (at *saratham*). Next: printed p. 578 (PDF 598). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 578; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.1 concludes (noted briefly). *Tasthivāṃsā* (root *ṣṭhā gatinivṛttau*; *kvasu* for *liṭ* by *liṭaḥ kvasuś ca*, Pā. Sū. 3-2-107 as read [?]; because of it the doubling of the root; *ādi-hal-śeṣa* by *halādiḥ śeṣaḥ*; since the root is *ekāc*, *iṭ* augment for *vasu* by *vasvekājāddhasām*, Pā. Sū. 7-2-67 as read [?]; the loss of *ā* of the root by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the word becomes *tasthivas*; before the nominative dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; *num*; anusvāra; the form *tasthivāṃsā*). *Atha* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening [in the Saṃhitā]). *Somasya* (since in the rule for *sampradāna* the statement *kriyāgrahaṇaṃ kartavyam* is made, the object here receives the name *sampradāna*, and the sixth case is used in the sense of the fourth). *Pibatam* (root *pā pāne*; *loṭ*, second person dual; *tam* for *thas*; *pib* for the root by *pāghrādhmā…*, Pā. Sū. 7-3-78 as read [?]; *nighāta*). The Rik is closed with *‖ 1 ‖* and an ornament.
+
+## Rik 108.2 — printed pp. 578–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.2)**
+
+> यावदिदं भुवनं विश्वमस्त्युरुव्यचा वरिमता गभीरम् ।
+> तावाँ अयं पातवे सोमो अस्त्वरमिन्द्राग्नी मनसे युवभ्याम् ॥ २ ॥
+
+*yāvad idaṃ bhuvanaṃ viśvam asty uruvyacā varimatā gabhīram | tāvāṃ ayaṃ pātave somo astv aram indrāgnī manase yuvabhyām ‖ 2 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 579 (PDF 599)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 579.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.2)**
+
+> यावत् । इदम् । भुवनम् । विश्वम् । अस्ति । उरुऽव्यचा । वरिमता । गभीरम् ।
+> तावान् । अयम् । पातवे । सोमः । अस्तु । अरम् । इन्द्राग्नी इति । मनसे । युवऽभ्याम् ॥ २ ॥
+
+*yāvat | idam | bhuvanam | viśvam | asti | uru-vyacā | varimatā | gabhīram | tāvān | ayam | pātave | somaḥ | astu | aram | indrāgnī iti | manase | yuva-bhyām ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.2)**
+
+> विश्वं सर्वमिदं भुवनं जगद्यावदस्ति यावत्प्रमाणं भवति । कीदृशं उरुव्यचा विस्तीर्णव्यापनं । सर्वव्यापकमित्यर्थः । तथा वरिमता वरिम्णोरुत्वेनात्रीयेन गौरवेण गभीरं गाम्भीर्योपेतं । हे इन्द्राग्नी पातवे युवाभ्यां पातुं सोमस्तावानस्तु । तावत्प्रमाणो भवतु । तथा मनसे युवयोरन्तःकरणाय [?] अरं सोमः पर्याप्तो भवतु ॥ उरुव्यचा । व्यचे व्याजीकरणे । असुन् । व्यचेः कुटादित्वमसीति वचनात् ञित्त्वाभावेन संप्रसारणाभावः । स्नोर्नपुंसकात् । पा. २-१-२४ । इति सोर्लुकि प्राप्ते सुपां सुलुगिति व्यत्ययेन आदेशः । वरिमता । पृथ्वादिभ्य इमनिज्वेत्युरुशब्दात्तस्य भाव इत्यर्थ इमनिच् । प्रियस्थिरेत्यादिनोरुशब्दस्य वरादेशः । पुनरपि भावप्रत्ययोत्पत्तिश्छान्दसी । सुपां सुलुगिति तृतीयाया आलुक् । यद्वा । तृतीयाया आश्छान्दसः सुडागमः । तावान् । तत्परिमाणमस्य । यत्तदेतेभ्यः परिमाणे वतुप् । पा. ५-२-३९ । आ सर्वनाम्न इत्यात्वम् । पातवे । पा पाने । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । अरम् । वालमूलशङ्खलामङ्गुलीनां वा लो रमापद्यत इति वक्तव्यम् । म. ८-२-१८ [?] । इति लत्वविकल्पः । युवभ्याम् । व्यत्ययेनात्वाभावे शेषे लोप इति दकारलोपः ॥
+> *viśvaṃ sarvam idaṃ bhuvanaṃ jagad yāvad asti yāvatpramāṇaṃ bhavati | kīdṛśaṃ uruvyacā vistīrṇavyāpanaṃ | sarvavyāpakam ity arthaḥ | tathā varimatā varimṇoruttvenātrīyena gauraveṇa gabhīraṃ gāmbhīryopetaṃ | he indrāgnī pātave yuvābhyāṃ pātuṃ somas tāvān astu | tāvatpramāṇo bhavatu | tathā manase yuvayor antaḥkaraṇāya [?] araṃ somaḥ paryāpto bhavatu ‖ uruvyacā | vyace vyājīkaraṇe | asun | vyaceḥ kuṭāditvam asīti vacanāt ñittvābhāvena saṃprasāraṇābhāvaḥ | snor napuṃsakāt | pā. 2-1-24 [?] | iti sor luki prāpte supāṃ suluk iti vyatyayena ādeśaḥ | varimatā | pṛthvādibhya imanijvety uruśabdāt tasya bhāva ity artha imanic | priyasthiretyādinoruśabdasya varādeśaḥ | punar api bhāvapratyayotpattiś chāndasī | supāṃ suluk iti tṛtīyāyā āluk | yadvā | tṛtīyāyā āś chāndasaḥ suḍāgamaḥ | tāvān | tatparimāṇam asya | yattadetebhyaḥ parimāṇe vatup | pā. 5-2-39 | ā sarvanāmna ity ātvam | pātave | pā pāne | tumarthe sesenīti tavenpratyayaḥ | nittvād ādyudāttatvam | aram | vālamūlaśaṅkhalāmaṅgulīnāṃ vā lo ramāpadyata iti vaktavyam | ma. 8-2-18 [?] | iti latvavikalpaḥ | yuvabhyām | vyatyayenātvābhāve śeṣe lopa iti dakāralopaḥ ‖* *(Sanskrit as read; "antaḥkaraṇāya [?]", the vārttika reference "ma. 8-2-18 [?]" and the last clause are clotted and given with doubt [?]; the tail is short and given.)*
+
+"As far as *viśvam*, all this *bhuvanam*, the world, extends, as great in measure as it is — of what sort? *Uruvyacā*: of wide pervasion, all-pervading; likewise *varimatā*: by the greatness (*gaurava*) of the extent [*varimā*, from *uru*, 'wide'], *gabhīram*, endowed with depth. O Indra and Agni, may this Soma, for your drinking, be of as great a measure; and, for your *manas*, your inner organ [?], may the Soma be *aram*, sufficient."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.2; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *viśvam* — the whole; *idaṃ bhuvanam* — this universe; *yāvat* — to the extent; *uruvyacā* — spreading to pervade everything (extensively); *varimatā* — by its greatness; *gabhīram* — exceedingly deep (also profound); *asti* — exists, so far (is of such measure); *yuvabhyām* — for you two; *pātave* — for drinking; *ayaṃ somaḥ* — this Soma-juice; *tāvān* — *(continued on p. 580)*
+
+---
+
+### Page 580 (PDF 600)
+
+*(Running head: left 580; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+— of just such a measure, extensive and profound; *astu* — let it be; *manase* — for your mind; *ayam* — [this Soma-juice]; *aram* — let it be sufficient to give satisfaction.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, to whatever extent this whole universe pervades everything in expanse, and is also profound by its own greatness, to that extent let this Soma-juice, prepared for your drinking, be extensive and profound; and let it be sufficient to give satisfaction to your mind.
+
+**English Translation (as printed in the source)**
+
+"Vast as is the whole universe in expanse, and profound in depth, such, Indra and Agni, may this Soma be for your beverage, sufficient for your desires."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.2)**
+
+"In this Ṛk the manner of drinking Soma by Indra and Agni is described, and the measure of the Soma that is prepared for it. This measure is compared with the breadth and depth of the whole universe.
+
+**Uruvyacā** — *uru vistīrṇaṃ vyacaḥ vyāpanam |* 'one that pervades to a great extent; one who pervades everything and expands everywhere'. This word is used mainly as an epithet of Heaven and Earth and of Aditi; therefore the extent of the breadth that is indicated by this word is understood.
+
+> उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः ।
+> *uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |* (*Ṛ. Saṃ.* 1-160-2 as read)
+
+— in Ṛks such as these, the breadth of Heaven and Earth, and
+
+> भगो विभक्ता शवसावसा गमदुरुव्यचा अदितिः श्रोतु मे हवम् ।
+> *bhago vibhaktā śavasāvasā gamad uruvyacā aditiḥ śrotu me havam |* (*Ṛ. Saṃ.* 1-[?]4-[?] as read [?])
+
+— in Ṛks such as these, the greatness of Aditi and her breadth are described; and in the same way the word *varimatā* also shows this expansion. Since there is such wide pervasion —
+
+**Gabhīram** — *gahanātītam |* 'that which is beyond depth': the greatness of Soma cannot be wholly understood by anyone, so he is profound and *gahanātmaka* [of the nature of a depth]." *(continued on p. 581)*
+
+---
+
+### Page 581 (PDF 601)
+
+*(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 581.)*
+
+> राज्ञो नु ते वरुणस्य व्रतानि बृहद्गभीरं तव सोम धाम ।
+> *rājño nu te varuṇasya vratāni bṛhad gabhīraṃ tava soma dhāma |* (*Ṛ. Saṃ.* 1-[?]0 [?]; or 9-[?]-[?] as read [?]; the number is read with doubt [?])
+
+"— in this Ṛk, and in the Ṛk 9-[?]9-[?] in sequence [as read [?]], by the description in the form of a hymn that Soma has a profound abode (*dhāman*), the intention is to indicate the greatness of that measure, and the prayer is made that the Soma-juice of such great measure should give satisfaction to you [Indra and Agni]. Indra's Soma-drinking is exceedingly great: at the time of the sacrifice —
+
+> त्रीणि सरांसि पृश्नयो दुदुह्रे वज्रिणे मधु ।
+> *trīṇi sarāṃsi pṛśnayo duduhre vajriṇe madhu |* (*Ṛ. Saṃ.* 8-[?]-10 as read [?])
+
+— as described in Ṛks such as these, Indra drinks the Soma that is offered to him, at one draught filling thirty-three vessels; that his abdomen is deep like the ocean; and how such a mighty Indra drinks the Soma in a great measure, has been explained in the Special Topics of the 8th [?] Ṛk of the 104th Sūkta in this same part [as read [?]]. And, whenever Indra drinks Soma, [he does so] only through Agni:
+
+> तेभिरेतं सजोषा वानशानोऽग्नेः पिब जिह्वया सोममिन्द्र ।
+> *tebhir etaṃ sajoṣā vānaśāno 'gneḥ piba jihvayā somam indra |* (*Ṛ. Saṃ.* 3-[?]-3 as read [?])
+
+— as in Ṛks such as these: since all the Soma-juices that are to be offered to Indra are to be offered through Agni, the prayer is made to both, that Soma should be prepared that is sufficient for Indra and Agni."
+
+**Aram** — *alam | paryāpte ity arthaḥ |* "'sufficient': here the meaning is 'let it be sufficient to give satisfaction'. As this word gives the sense 'sufficient', so it is used in the senses 'to prepare' and 'to serve':
+
+> वायवा याहि दर्शतेमे सोमा अरंकृताः ।
+> *vāyav ā yāhi darśate me somā araṃkṛtāḥ |* (*Ṛ. Saṃ.* 1-2-1 as read)
+
+> अरं कृण्वन्तु वेदिं समग्निमिन्धतां पुरः ।
+> *araṃ kṛṇvantu vediṃ sam agnim indhatāṃ puraḥ |* (*Ṛ. Saṃ.* 1-1[?]-4 as read [?])
+
+— in Ṛks such as these *araṃkṛtāḥ* and *araṃ kṛṇvantu* give the sense 'prepare, make ready'; and in
+
+> त्वमग्ने द्रविणोदा अरंकृते त्वं देवः सविता रत्नधा असि ।
+> *tvam agne draviṇodā araṃkṛte tvaṃ devaḥ savitā ratnadhā asi |* (*Ṛ. Saṃ.* 2-1-7 as read [?])
+
+— in Ṛks such as these the word gives the sense 'worship, serve'. In the Ṛk at hand too, thus —" *(continued on p. 582)*
+
+---
+
+**Progress note:** Printed pp. 1–581 done (PDF 21–601): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Rik 108.1 complete (pp. 573–578); Rik 108.2 (printed pp. 578–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*uruvyacā*, *gabhīram*, *aram*), ending mid-sentence at the foot of p. 581. Next: printed p. 582 (PDF 602). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
