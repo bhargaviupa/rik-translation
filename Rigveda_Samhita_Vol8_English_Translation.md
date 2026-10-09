@@ -18059,5 +18059,90 @@ O Ṛbhus, when you approached Savitṛ, who cannot be hidden and is accessible 
 — as is described in Ṛks such as these, Agni, as messenger of the gods, went to the sons of Sudhanvan, made the one cup into four, and helped the gods; then he said to them that they would obtain eligibility for the Soma-drinking together with them; at that time they said: 'is it only this one task for you? To make horses, chariots, or to make the cow; to make the aged parents young: all this can be done by us'; and in the same way even now" *(the passage continues on p. 673)*
 
 ---
+### Page 673 (PDF 693)
 
-**Progress note:** Printed pp. 1–672 done (PDF 21–692): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Riks 110.1–110.2 complete (pp. 657–669); Rik 110.3 (printed pp. 669–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the fourfold cup; Bṛhaddevatā verses; Ṛ. 1-161), ending mid-sentence at the foot of p. 672. Next: printed p. 673 (PDF 693). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 673. At the foot, the printer's signature "43 / VOLUME 8" [sic: as printed, noted only].)*
+
+"— [the Ṛbhus said:] 'all that you desire we shall do for you', and so they did [for Agni]; the matter of their having done it is suggested here. Because they did such skilful work, they helped Agni. Then Tvaṣṭṛ, Savitṛ and Prajāpati, the god of gods, called all the gods and favoured the Ṛbhus so that they obtained immortality. Then Indra, [who had previously rejected them], also drank Soma with them: this story is told in the Bṛhaddevatā."
+
+**Agohyam** — *atyantatejasvitvāt gūhitum aśakyaṃ savitāram |* "'Savitṛ, who cannot be hidden because of his exceeding radiance': since he is exceedingly radiant, he is visible to all: this is the purport. This epithet is usually applied to Savitṛ; but in some places [it is applied] to Indra, in the Ṛk 4-1[?]-[?], and to Agni in 10-[?]-[?] [as read [?]]."
+
+**Savitā amṛtatvam āsuvat** — "Savitṛ graciously gave immortality. This context has been told in the Special Topics of the previous Ṛk."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.3)** *(grammar pages, pp. 673–674, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Savitā* (root *ṣūṅ prasave* [print: *ṣū preraṇe*]; *tṛc* in the active sense; the augment *iṭ*; because of it *guṇa* of the root, *av*; since it is *cit*, the final acute; nominative singular). *Āsuvat* (root *ṣū preraṇe*, *tudādi*; *laṅ*, third person singular, *tip*; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; the vikaraṇa *śa* by *tudādibhyaḥ śaḥ*, Pā. Sū. 3-1-77 as read [?]; since *sārvadhātukam apit*, Pā. Sū. 1-2-4 as read [?], it is *ṅit*-like and the root has no *guṇa*; *uvaṅ* by *ācchnudhātubhruvām…* [as printed: *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*, Pā. Sū. 6-4-77 as read [?]]; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Śravayantaḥ* (root *śru śravaṇe*; since the instigator is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; *vṛddhi* does not arise, as Vedic, by *ācaḥ* [?]; *guṇa* and *av*; *śatṛ* in the sense of *laṭ*; *śap*; because of it, *guṇa* of *ṇic*, *ay*; the form *śravayat*; nominative plural; the *ṇic*-accent remains, since *śap* is *anudātta*). *Aitana* (root *iṇ gatau*; *laṅ*, second person plural; *tha* → *tana*; *śap* is lost; the augment *āṭ*; *vṛddhi* by *āṭaś ca*; the form *aitana*; since the word *yad* is connected, no *nighāta*; the initial acute).
+
+---
+
+### Page 674 (PDF 694)
+
+*(Running head: left 674; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+The grammar of Rik 110.3 concludes. *Asurasya* (root *asu kṣepaṇe*; the suffix *uran* by *aser uran*, Uṇ. 1-4[?] as read [?]; since it is *nit*, the initial acute). *Bhakṣaṇam* (root *bhakṣa adane*; *lyuṭ* in the instrumental sense; *ana* for *yu* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; *ṇatva* because of the *ṣ* [*r*]). *Akṛṇuta* (root *kṛvi hiṃsākaraṇayoś ca*; *laṅ*, second person plural; *ta* for *tha*; *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?]; *u* by *dhinvikṛṇvor a ca*, Pā. Sū. 3-1-80 as read [?]; the *u*-vikaraṇa; because *u* is the cause, the loss of the *a* by *ato lopaḥ*, Pā. Sū. 6-4-48 as read [?]; since the loss of the *a* has *sthānivadbhāva* by *acaḥ parasmin pūrvavidhau*, Pā. Sū. 1-1-57 as read [?], *guṇa* of the light penult does not arise because of *u*; *ṇatva* because of the *ṛ*; the augment *aṭ*; since a verb follows a non-verb, *nighāta*). *Caturvayam* (*vaya* means *avayava*, 'part': *catvāro vayā yasya saḥ caturvayaḥ* — *taṃ*; by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?], the accent of the prior member). The Rik is closed with *‖ 3 ‖* and a rule of dashes.
+
+## Rik 110.4 — printed pp. 674–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.4)**
+
+> विष्ट्वी शमी तरणित्वेन वाघतो मर्तासः सन्तो अमृतत्वमानशुः ।
+> सौधन्वना ऋभवः सूरचक्षसः संवत्सरे समपृच्यन्त धीतिभिः ॥ ४ ॥
+
+*viṣṭvī śamī taraṇitvena vāghato martāsaḥ santo amṛtatvam ānaśuḥ | saudhanvanā ṛbhavaḥ sūracakṣasaḥ saṃvatsare sam apṛcyanta dhītibhiḥ ‖ 4 ‖* *(accent-marks in the print not reproduced; the Saṃhitā's "vāghato" is as printed)*
+
+---
+
+### Page 675 (PDF 695)
+
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 675.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.4)**
+
+> विष्ट्वी । शमी । तरणिऽत्वेन । वाघतः । मर्तासः । सन्तः । अमृतऽत्वम् । आनशुः ।
+> सौधन्वनाः । ऋभवः । सूरऽचक्षसः । संवत्सरे । सम् । अपृच्यन्त । धीतिऽभिः ॥ ४ ॥
+
+*viṣṭvī | śamī | taraṇi-tvena | vāghataḥ | martāsaḥ | santaḥ | amṛta-tvam | ānaśuḥ | saudhanvanāḥ | ṛbhavaḥ | sūra-cakṣasaḥ | saṃvatsare | sam | apṛcyanta | dhītibhiḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.4)**
+
+> वाघतः । ऋत्विङ्नामैतत् । अत्र च सामर्थ्यात्तद्वन्तो लक्ष्यन्ते । ऋत्विग्भिरुपेता ऋभवः । शमी । कर्मनामैतत् । योगदानादीनि कर्माण्यन्यन्यस्यैकं चमसं चतुरस्कृणोतन [?] । ऋ. १-१६१-३ [?] । इत्यादिना देवैरुक्तानि कर्माणि तरणित्वेन । तरणिरिति क्षिप्रनाम । क्षिप्रत्वेन शैघ्र्येण विष्ट्वी । यद्वा । एतत्कर्मनाम तथाप्यत्र क्रियापरं व्याप्य कृत्वेत्यर्थः । एवं कर्माणि कृत्वा मर्तासो मनुष्या अपि सन्तोऽमृतत्वं देवत्वमानशिरे [?] । कृतैः कर्मभिर्देवत्वं प्राप्य च सौधन्वनाः सुधन्वनः पुत्राः सूरचक्षसः सूर्यसदृशज्ञाना वा ते ऋभवः संवत्सरे संवत्सरावयवभूते वसन्तादिकालेऽनुष्ठेयैर्धीतिभिरग्निष्टोमादिकर्मभिः समपृच्यन्त संयुक्ता अभवन् । हविर्भागार्हा बभूवुरित्यर्थः । अत्र निरुक्तं । कृत्वा कर्माणि क्षिप्रेण वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे सौधन्वना ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिर्ऋभुर्विभ्वा वाज इति सुधन्वन आङ्गिरसस्य त्रयः पुत्रा बभूवुः । नि. ११-१८ [?] । इति ॥ विष्ट्वी । विष्लृ व्याप्तौ । स्नात्व्यादयश्च । पा. ७-१-४९ । क्त्वाप्रत्ययस्य ईकारान्तादेशः । शमी । सुपां सुलुगिति शसो लुक् । आनशुः । अशू व्याप्तौ । व्यत्ययेन परस्मैपदं । अश्नोतेश्चेत्यभ्यासादुत्तरस्य नुडागमः । अपृच्यन्त । पृची संपर्के । कर्मणि लङ् ॥
+> *vāghataḥ | ṛtvinnāmaitat | atra ca sāmarthyāt tadvanto lakṣyante | ṛtvigbhir upetā ṛbhavaḥ | śamī | karmanāmaitat | yogadānādīni karmāṇy anyanyasyaikaṃ camasaṃ caturas kṛṇotana [?] | ṛ. 1-161-3 [?] | ity ādinā devair uktāni karmāṇi taraṇitvena | taraṇir iti kṣipranāma | kṣipratvena śaighryeṇa viṣṭvī | yadvā | etatkarmanāma tathāpy atra kriyāparaṃ vyāpya kṛtvety arthaḥ | evaṃ karmāṇi kṛtvā martāso manuṣyā api santo 'mṛtatvaṃ devatvam ānaśire [?] | kṛtaiḥ karmabhir devatvaṃ prāpya ca saudhanvanāḥ sudhanvanaḥ putrāḥ sūracakṣasaḥ sūryasadṛśajñānā vā te ṛbhavaḥ saṃvatsare saṃvatsarāvayavabhūte vasantādikāle 'nuṣṭheyair dhītibhir agniṣṭomādikarmabhiḥ samapṛcyanta saṃyuktā abhavan | havirbhāgārhā babhūvur ity arthaḥ | atra niruktaṃ | kṛtvā karmāṇi kṣipreṇa voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvam ānaśire saudhanvanā ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhir ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ | ni. 11-18 [?] | iti ‖ viṣṭvī | viṣḷ vyāptau | snātvyādayaś ca | pā. 7-1-49 | ktvāpratyayasya īkārāntādeśaḥ | śamī | supāṃ suluk iti śaso luk | ānaśuḥ | aśū vyāptau | vyatyayena parasmaipadaṃ | aśnoteś cety abhyāsād uttarasya nuḍāgamaḥ | apṛcyanta | pṛcī saṃparke | karmaṇi laṅ ‖* *(Sanskrit as read; "caturas kṛṇotana", "ānaśire" for the Ṛk's *ānaśuḥ*, and the reference numerals are as printed and doubtful [?]; the tail is short and is given.)*
+
+"*Vāghataḥ*: this is a name for 'priest'; here, by implication, those who have them: the Ṛbhus, accompanied by priests. *Śamī*: a name for 'work' [rites]: the works that the gods told them [of], as 'make the one cup into four' (*Ṛ.* 1-161-3 as read [?]) and so on; *taraṇitvena*: *taraṇi* is a name for 'quick': with quickness, swiftly; *viṣṭvī*, having extended [accomplished]; or else, although this is a name for work, here, having pervaded the course of action [?], having done [it]. Thus, having done works, though they were *martāsaḥ*, mortal men, they attained (*ānaśuḥ*) immortality, divinity. And having attained divinity by their works, the *saudhanvanāḥ*, sons of Sudhanvan, *sūracakṣasaḥ*, or having knowledge like the sun, those Ṛbhus, in the *saṃvatsara* — the year — in the seasons, spring and the rest, which are parts of the year, *samapṛcyanta* — became associated with *dhītibhiḥ*, with the rites to be performed, the Agniṣṭoma and so on: that is, they became worthy of a share in the oblations. Here the Nirukta says: 'having done works, quick bearers [*voḍhāraḥ*] or wise ones, though they were mortals, attained immortality, the sons of Sudhanvan, the Ṛbhus, renowned as the sun or with sun-like wisdom, became associated in the year with works — Ṛbhu, Vibhvan and Vāja: three sons were born to Sudhanvan Āṅgirasa' (*Ni.* 11-18 as read [?]). *Viṣṭvī*: root *viṣḷ vyāptau*; *īkāra* for the suffix *ktvā*; *śamī*: loss of *śas* by *supāṃ suluk*; *ānaśuḥ*: root *aśū vyāptau*, parasmaipada by *vyatyaya*, the augment *nuṭ*; *apṛcyanta*: root *pṛcī saṃparke*, passive *laṅ*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.4; Kannada; English)**
+
+*Vāghataḥ* — the Ṛbhus together with the priests; *śamī* — works such as sacrifices; *taraṇitvena* — very quickly; *viṣṭvī* — having done; *martāsaḥ* — [though] human beings; *santaḥ* — they who are; *amṛtatvam* — divinity without death; *ānaśuḥ* — they obtained; *saudhanvanāḥ* — sons of Sudhanvan, *sūracakṣasaḥ* — those who have light equal to the sun, or knowledge; *ṛbhavaḥ* — the Ṛbhus; *saṃvatsare* — in the seasons, the spring and the rest, which are parts of the year, (to be performed); *dhītibhiḥ* — with works such as the Agniṣṭoma; *sam apṛcyanta* — joined together (and became worthy to receive oblations).
+
+---
+
+### Page 676 (PDF 696)
+
+*(Running head: left 676; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(The Pratipadārtha concludes:)* "…*amṛtatvam* — death-free divinity; *ānaśuḥ* — [they] obtained (by their works) (afterwards); *saudhanvanāḥ* — the sons of Sudhanvan; *sūracakṣasaḥ* — those who have a radiance equal to the sun, or knowledge; *ṛbhavaḥ* — those Ṛbhus; *saṃvatsare* — in the seasons, spring and the rest, which are parts of the year (that are to be performed); *dhītibhiḥ* — with works such as the Agniṣṭoma; *sam apṛcyanta* — they joined together (and became fit to receive oblations)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The Ṛbhus, together with the priests, performed rites such as sacrifices with great swiftness; and though they were mortal men, they obtained death-free divinity by their works. Afterwards, those Ṛbhus, sons of Sudhanvan and endowed with a radiance equal to the sun, joined together with the Agniṣṭoma and other rites which are to be performed in the seasons, spring and the rest, as parts of the year, and became fit to accept the oblations.
+
+**English Translation (as printed in the source)**
+
+"Associated with the priests, and quickly performing the holy rites, they, being yet mortals, acquired immortality, and the sons of Sudhanwan, the Ribhus, brilliant as the sun, became connected with the ceremonies (appropriated to the different seasons) of the year."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.4)**
+
+The Nirukta explains this Ṛk thus:
+
+> कृत्वा कर्माणि क्षिप्रेण वोढारो मेधाविनो वा मर्तासः सन्तोऽमृतत्वमानशिरे सौधन्वना ऋभवः सूरख्याना वा सूरप्रज्ञा वा संवत्सरे समपृच्यन्त धीतिभिः कर्मभिः ।
+> *kṛtvā karmāṇi kṣipreṇa voḍhāro medhāvino vā martāsaḥ santo 'mṛtatvam ānaśire saudhanvanā ṛbhavaḥ sūrakhyānā vā sūraprajñā vā saṃvatsare samapṛcyanta dhītibhiḥ karmabhiḥ |* (*Ni.* 11-18 as read [?])
+
+"The Ṛbhus, shining like the sun, or having knowledge like the sun, obtained, though they were mortal, immortality through their *tapas*-works and also through other uncommon deeds. And they became joined with the rites such as the Agniṣṭoma, to be performed in the seasons, spring and the rest, as parts of the year: that is, in all the sacrifices they obtained eligibility to receive the oblations."
+
+**Vāghataḥ** — "this word is read among the names of priests (*Ni.* 3-[?]7); Sāyaṇa: *ṛtvinnāmaitat | atra ca sāmarthyāt tadvanto lakṣyante | ṛtvigbhir upetā ṛbhavaḥ |* 'by implication, those who possess them: the Ṛbhus accompanied by priests'. For the word *vāghataḥ*, read among the names of priests, the sense here is 'the Ṛbhus together with the priests', as is explained"
+
+*(the passage continues on p. 677)*
+
+---
+
+**Progress note:** Printed pp. 1–676 done (PDF 21–696): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Riks 110.1–110.3 complete (pp. 657–674); Rik 110.4 (printed pp. 674–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun (the Nirukta explanation; *vāghataḥ*), ending mid-sentence at the foot of p. 676. Next: printed p. 677 (PDF 697). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
