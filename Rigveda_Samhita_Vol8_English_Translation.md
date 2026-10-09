@@ -19018,5 +19018,144 @@ O Ṛbhus! For the sake of our sacrifice, prepare for us food in the form of obl
 *Yajñāya*: root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *naṅ* by *yajayācayatavichapraccharakṣo naṅ* (*pā.* 3-3-90 as read [?]); the suffix-accent makes it end in *udātta*; dative singular. *Takṣata*: root *takṣū tanūkaraṇe*; *loṭ*, second-person plural; *nighāta* after a finite verb. *Ṛbhumat*: the word *ṛbhu* has the Nirukta derivation '*uru bhāti*' (*Ni.* 11-[?]), which shows it denotes only 'luminous'; 'to this belongs ṛbhu' = *ṛbhumat*; *matup* by *tad asyāsty asmin*; the *matup* takes *udātta* by *hrasvanuḍbhyāṃ matup* (*pā.* 6-1-176 as read [?]). *Kratve*: the word *kratu*; the dative ending follows; by *jasādiṣu chandasi vā vacanam* (*pā.* 7-3-109 as read [?]) [the rule on] *ghi*, *ṅiti*, *guṇa* does not arise (*pā.* 7-3-111 as read [?]); then the *yaṇ* substitution. *Yathā*: by *nipātasya ca* (*pā.* 6-3-136 as read [?]) the lengthening in the Veda. *Kṣayāma*: root *kṣi nivāsagatyoḥ*; *loṭ*, first-person plural, *mas*; because of *liḍvadbhāva* [?], by *nityaṃ ṅitaḥ* (*pā.* 3-4-99 as read [?]) the loss of *s*; by *vyatyayo bahulam* (*pā.* 3-1-85 as read [?]) the sign *śap* comes; with it as the cause … *(the page ends mid-sentence; the grammar continues on p. 709)*
 
 ---
+### Page 709 (PDF 729)
 
-**Progress note:** Printed pp. 1–708 done (PDF 21–728): Sūkta 111: Rik 111.1 complete (pp. 702–706); Rik 111.2 (printed pp. 706–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*kṣayāma*, ending mid-sentence at the foot of p. 708). Next: printed p. 709 (PDF 729). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 709.)*
+
+*(Grammar of Rik 111.2, continued; short; sūtra numbers only as read, doubtful [?].)* *Kṣayāma* (concluded): with the *śap* [conjugation sign] as cause, *guṇa* of the root's *ik* and the *ay* substitution; *āḍuttamasya pic ca* (*pā.* 3-4-92 as read [?]) gives the augment *āṭ*; since *yathā* precedes, the *nighāta* accent does not arise; the root-accent remains. *Sarvavīrayā*: 'she who has all heroes' = *sarvavīrā*; its instrumental; in the *bahuvrīhi* the prior member keeps its own accent. *Viśā*: *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) gives the case-ending the *udātta*. *Dhāsatha*: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *leṭ*, second-person plural, *tha*; by *leṭo 'ḍāṭau* (*pā.* 3-4-94 as read [?]) the augment *aṭ*; *sibbahulaṃ leṭi* (*pā.* 3-1-34 as read [?]) the sign *sip*; the form *dhāsatha*; *nighāta* accent after a finite verb; by *anyeṣām api dṛśyate* (*pā.* 6-3-137 as read [?]) the lengthening in the Saṃhitā. *Indriyam*: 'Indra's strength' = *indriyam*; by *indriyam indraliṅgam indradṛṣṭam…* (*pā.* 5-2-93 as read [?]) the *gha*-ending [suffix] is irregularly formed; because it is *cit*, the *iyādeśa* of the suffix, and by *citaḥ* (*pā.* 6-1-163 as read [?]) the final syllable is *udātta*. ‖ 2 ‖
+
+*(An ornamental rule — :o: — closes Rik 111.2.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 111.3)** *(accent-marks not reproduced)*
+
+> आ तक्षत सातिमस्मभ्यमृभवः सातिं रथाय सातिमर्वते नरः ।
+> सातिं नो जैत्रीं सं महेत विश्वहा जामिमजामिं पृतनासु सक्षणिम् ॥ ३ ॥
+> *ā takṣata sātim asmabhyam ṛbhavaḥ sātiṃ rathāya sātim arvate naraḥ |*
+> *sātiṃ no jaitrīṃ saṃ maheta viśvahā jāmim ajāmiṃ pṛtanāsu sakṣaṇim ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 111.3)** *(begun on p. 709; continues on p. 710)*
+
+> आ । तक्षत । सातिम् । अस्मभ्यम् । ऋभवः । सातिम् । रथाय । सातिम् । अर्वते । नरः ।
+> *ā | takṣata | sātim | asmabhyam | ṛbhavaḥ | sātim | rathāya | sātim | arvate | naraḥ |*
+
+---
+
+### Page 710 (PDF 730)
+
+*(Running head: left 710; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+> सातिम् । नः । जैत्रीम् । सम् । महेत । विश्वहा । जामिम् । अजामिम् । पृतनासु । सक्षणिम् ॥ ३ ॥
+> *sātim | naḥ | jaitrīm | sam | maheta | viśvahā | jāmim | ajāmim | pṛtanāsu | sakṣaṇim ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 111.3)**
+
+> हे नरो यज्ञस्य नेतार ऋभवोऽस्मभ्यमनुष्ठातृभ्यः सातिं सम्भजनीयमन्नं धनं वा तक्षत । आ समन्तात्कुरुत । तथास्मदीयाय रथाय रंहणशीलाय पुत्रादये रथायैव वा सातिं सम्भजनीयं धनमा तक्षत । तथार्वतेऽश्वाय सातिं सम्भजनीयमन्नं धनं वाश्वयोग्यमा तक्षतेत्येव । किञ्च विश्वहा सर्वेष्वहस्सु नोऽस्माकं जैत्रीं जयशीलामपरिमितत्वेन सर्वाधिकां सातिं सम्भजनीयं धनं सं महेत । सर्वो जनः सम्यक् पूजयतु । वयं च पृतनासु सङ्ग्रामेषु जामिं सहजातमजामिं सहानुत्पन्नं शत्रुं वा सक्षणिमस्मानभिभवन्तं युष्मत्प्रसादादभिभवेमेति शेषः ॥ सातिम् । ऊतियूतिजूतिसातिहेतिकीर्तयश्चेत्यादिना क्तिन उदात्तत्वम् । महेत । मह पूजायाम् । सक्षणिम् । सह अभिभवे । औणादिकः सनिप्रत्ययः । छत्वकत्वषत्वानि ॥
+> *he naro yajñasya netāra ṛbhavo 'smabhyam anuṣṭhātṛbhyaḥ sātiṃ sambhajanīyam annaṃ dhanaṃ vā takṣata | ā samantāt kuruta | tathāsmadīyāya rathāya raṃhaṇaśīlāya putrādaye rathāyaiva vā sātiṃ sambhajanīyaṃ dhanam ā takṣata | tathārvate 'śvāya sātiṃ sambhajanīyam annaṃ dhanaṃ vāśvayogyam ā takṣatety eva | kiñca viśvahā sarveṣv ahassu no 'smākaṃ jaitrīṃ jayaśīlām aparimitatvena sarvādhikāṃ sātiṃ sambhajanīyaṃ dhanaṃ saṃ maheta | sarvo janaḥ samyak pūjayatu | vayaṃ ca pṛtanāsu saṅgrāmeṣu jāmiṃ sahajātam ajāmiṃ sahānutpannaṃ śatruṃ vā sakṣaṇim asmān abhibhavantaṃ yuṣmatprasādād abhibhavemeti śeṣaḥ ‖ sātim | ūtiyūtijūtisātihetikīrtayaś cety ādinā ktina udāttatvam | maheta | maha pūjāyām | sakṣaṇim | saha abhibhave | oṇādikaḥ sani pratyayaḥ | chatvakatvaṣatvāni ‖*
+
+*(Sanskrit as read; the words* putrādaye*, in* putrādaye rathāyaiva, *and the Uṇādi suffix-name in the tail are as printed and doubtful [?].)*
+
+"O leaders, *naro* [of the sacrifice], Ṛbhus! *takṣata*, make [i.e. provide on all sides] for us who perform the rites *sātim*, food or wealth that is fit to be shared. And likewise for our *rathāya* — [for what is] swift by nature, our sons and so on, or for the chariot itself — *ā takṣata*, provide wealth fit to be shared. And for the horse, *arvate*, *sātim*: provide food or wealth suited to a horse. And further, may *viśvahā*, on all days, all folk duly honour *naḥ*, our *jaitrīm*, victorious — surpassing everything through its immeasurable quantity — *sātim*, wealth fit to be shared. And, *pṛtanāsu*, in battles, *jāmim*, the kinsman, one born together, or *ajāmim*, the non-kinsman, one not born together, the enemy *sakṣaṇim*, who attacks us: may we, by your favour, overcome him — so much is to be supplied."
+
+*Grammatical tail (characterized, short):* *sātim*: the suffix *ktin* with the *udātta* by the rule beginning *ūtiyūtijūtisātihetikīrtayaś ca* (*pā.* 3-3-97 [?]); *maheta*: root *maha pūjāyām*; *sakṣaṇim*: root *saha abhibhave*, with the Uṇādi suffix *sani*; the changes *cha*, *ka*, *ṣa* [for the root's letters]. 
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 111.3; Kannada; English)**
+
+*Naraḥ* — O leaders (of the sacrifice); *ṛbhavaḥ* — O Ṛbhus; *asmabhyam* — to us (who perform the rites); *sātim* — food that is the support of life (or wealth); *ā takṣata* — supply fully (so that it suffices for all); *rathāya* — (for our) sons and the rest, or for the chariot; *sātim* — wealth that is the support [of them] (give); *arvate* — for our horses; *sātim* — abundant food, or wealth; *viśvahā* — every day; *naḥ* — our; *jaitrīm* — victorious (or, because it is exceedingly abundant, [wealth] greater than all [others'] wealth); *sātim* — wealth; *saṃ maheta* — may all honour (it); (and may we also), *pṛtanāsu* — in battles; *jāmim* — whether he be our kinsman; *ajāmim* — or not our kinsman; *sakṣaṇim* — the enemy who falls upon us, [conquer; favour us so that we may conquer].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Ṛbhus, leaders of the sacrifice! Give us, the performers of the sacrifice, food in abundance, as the support of life. Give in plenty the wealth needed for our sons and the rest, for the maintenance of our chariot, and for the nourishment of our horses. And may all honour every day that wealth of ours, which is exceedingly abundant. And may we too, in battles, conquer the enemy who falls upon us, whether he be our kinsman or not our kinsman: favour us thus.
+
+---
+
+### Page 711 (PDF 731)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 711.)*
+
+**English Translation (as printed in the source; Rik 111.3)**
+
+"Ribbus, conductors (of sacrifice), bestow ample sustenance upon us, upon our chariots, upon our horses; let every one daily acknowledge our victorious wealth, and may we triumph in battle over our foes, wether [sic] strangers or kinsmen."
+
+*(The printed word is "weather" for "whether"; recorded here as [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 111.3)**
+
+**तक्षत — Takṣata.** *takṣatiḥ karotikarmā* (*Ni.* 2-19 as read [?]): "make [for us]".
+
+**रथाय — Rathāya.** *raṃhaṇaśīlāya putrādaye rathāyaiva vā* — "for the swift-natured [one]: a son and the rest, or for the chariot itself". The Nirukta explains the word *ratha* (*Ni.* 9-11 as read [?]):
+
+> रथः रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा । रपतेर्वा रसतेर्वा ।
+> *rathaḥ raṃhater gatikarmaṇaḥ | sthiratero vā syād viparītasya | ramamāṇo 'smiṃs tiṣṭhatīti vā | rapater vā rasater vā |*
+> "A *ratha* [would be] from *raṃh*, a verb of motion; or it may be from *sthira*, 'firm', inverted; or 'one stands in it delighting'; or from *rap* or from *ras*."
+
+— that is, it is derived from the root *raṃh*, which gives the sense of motion or speed; or, by the inversion of letters, from *sthira*; or from the root *ram*, which gives the sense of 'taking delight' [— one stands in it delighted]; or from the root *rap* or *ras*, which gives the sense of 'to sound': so the Nirukta-writer says. He has shown the nature of the chariot by quoting the Ṛk:
+
+> वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्र तरणः सुवीरः ।
+> गोभिः संनद्धो असि वीळयस्वास्थाता ते जयतु जेत्वानि ।
+> *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā pra taraṇaḥ suvīraḥ |*
+> *gobhiḥ saṃnaddho asi vīḷayasvāsthātā te jayatu jetvāni |*
+> (*Ṛ.* 6-47-26 as read [?])
+> "O lord of the wood [i.e. the chariot], be strong-limbed, our friend, a good crosser, rich in heroes; you are bound with straps: be firm; may your rider conquer the things to be conquered." *(mine and tentative)*
+
+Here, since Sāyaṇa derives *ratha* from the root *raṃh* in the sense of motion, he gives two meanings, 'for what runs — sons and the rest — or for the chariot that goes about'. Skandasvāmi has:
+
+> षष्ठ्यर्थे चतुर्थीषा, बहुवचनस्य स्थाने एकवचनम् । रथानां सातिम् ।
+> *ṣaṣṭhyarthe caturthīṣā, bahuvacanasya sthāne ekavacanam | rathānāṃ sātim |*
+> "This dative is in the sense of the genitive; the singular stands in place of the plural: 'of chariots the *sāti*'."
+
+— that is, in the usage, the dative is used in place of the genitive, and the singular in place of the plural; for *rathāya* the apt sense is '*rathānāṃ*, of chariots; *sātim*, the gift': so he explains.
+
+**अर्वते — Arvate.** *aśvāya* — "for a horse"; that is, for the horses. *Arvat* and *arvan*, the words ending in *t* and in *n*, are synonyms of *aśva*, but in some places they have a variety of meaning. The Nirukta-writer has read this word among the names of horse, '*atyaḥ*, *hayaḥ*, *arvā*' (*Ni.* 1-[?]2 as read [?]). But in the Ṛk-Saṃhitā the usages of both *arvat* and *arvan* deserve notice; both are used as synonyms of 'enemy' too.
+
+> क्रीळं वः शर्धो मारुतमनर्वाणं रथे शुभम् ।
+> *krīḷaṃ vaḥ śardho mārutam anarvāṇaṃ rathe śubham |*
+> (*Ṛ.* 1-37-1 as read [?])
+> "…your sporting host, the Maruts', unopposed [?], brilliant on the chariot…" *(mine and tentative)*
+
+*(the passage continues on p. 712)*
+
+---
+
+### Page 712 (PDF 732)
+
+*(Running head: left 712; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+> यस्मै त्वमायजसे स साधत्यनर्वा क्षेति दधते सुवीर्यम् ।
+> *yasmai tvam āyajase sa sādhaty anarvā kṣeti dadhate suvīryam |*
+> (*Ṛ.* 1-[?]-3 as read [?])
+
+In Ṛks such as these the word *arvan* means 'enemy'. To support this meaning Sāyaṇa cites:
+
+> अनर्वा प्रेहीत्याह भ्रातृव्यो वा अर्वा भ्रातृव्यापनुत्त्यै ।
+> *anarvā prehīty āha bhrātṛvyo vā arvā bhrātṛvyāpanuttyai |*
+> (reference as printed: 6-2-2 [?]; the abbreviation of the work is doubtful [?])
+
+— a *saṃhitā* passage ('Go forth, unopposed': he says this, for the *arvan* is the rival [*bhrātṛvya*], in order to drive off the rival); showing that the word *arvan* has been explained as 'rival' (*bhrātṛvya*), he affirms that the *ṛk-saṃhitā* sentences he has cited here carry the very same sense. Likewise:
+
+> अभि नो वीरो अर्वति क्षमेत प्र जायेमहि रुद्र प्रजाभिः ।
+> *abhi no vīro arvati kṣameta pra jāyemahi rudra prajābhiḥ |*
+> (reference as printed: 3-33-1 [?])
+
+> अग्निं धीषु प्रथममग्निमर्वत्यग्निं क्षैत्राय साधसे ।
+> *agniṃ dhīṣu prathamam agnim arvaty agniṃ kṣaitrāya sādhase |*
+> (reference as printed: 8-21-13 [?])
+
+In these Ṛks also the word *arvat* means 'enemy'; so also in Ṛks such as 5-35-11 [?], 10-3-15 [?] and so on (numerals as read, doubtful [?]) it is a synonym for 'enemy'. It is improper to pass over, in the matter of the derivation of this word, the differing views of the scholars Wilson and Max-Müller. Wilson, who translated into English the Ṛk 1-37-1 quoted above, which contains the word *arvan*, writes this, criticizing Sāyaṇa's bhāṣya:
+
+*(English, as printed, with the Sanskrit words in their own script:)*
+
+"The phrase is *anarvāṇam*, which the scholiast explains *bhrātṛvyarahitam*; literally, without a brother's son, which would be a very unintelligible epithet. Arvan is, in its usual acceptation a horse; and being without horses would not be inapplicable to the Maruts, whose chariot is drawn by deer. *Bhrātṛvya* may mean an enemy, but it is doubtful if *arvan* can admit of such an interpretation;" (Rig-Veda Translation Vol. I. 2nd edn. P. 258)
+
+*(The Sanskrit words are printed in Devanagari in the English; read as above.)*
+
+The purport of this is that, since the Maruts' vehicles are deer, it would not be improper to take the meaning here as 'without horses' — so this scholar opines. In opposition to this, when the scholar Max Müller translated this same hymn, he criticized Wilson's saying that the meaning 'horse' for this word was not right:
+
+"Wilson translates *anarvāṇam* by without horses, though the commentator distinctly explains the word by without an enemy, Wilson considers it doubtful whether *arvan* can ever mean enemy. The fact is, that in the Rig-Veda an-arvan never means without horses, but always without hurt or free from enemies, and the commentator is perfectly right, as far as the sense is concerned, in rendering the word by without an enemy or unopposed, (*apratyuta* [?])" (Sacred Books of the East Vol. 32. P. 65)
+
+*(The Sanskrit word in the brackets is small in the print and is read doubtfully [?].)*
+
+Thus, though *arvan* is read among the names of 'horse', the usages of the word are as above; yet the usages in the sense of 'horse' are the more numerous. In the Ṛk before us the sense is simply 'for the horse'.
+
+---
+
+**Progress note:** Printed pp. 1–712 done (PDF 21–732): Sūkta 111: Riks 111.1–111.2 complete (pp. 702–709); Rik 111.3 (printed pp. 709–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (takṣata, rathāya, arvate with the Wilson/Max Müller quotations) done through p. 712; the Special Topics and grammar of Rik 111.3 may continue on p. 713. Next: printed p. 713 (PDF 733). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
