@@ -14023,5 +14023,93 @@ Grammar page, noted briefly. *Havate* (root *hveñ spardhāyāṃ śabde ca*; *l
 Once, when I was going along the road, a red-coloured wolf saw me. After that, seeing me, from the longing to eat me, as a carpenter troubled by a pain in the back raises his body upward to relieve his back, so this wolf too raised up his body and came rushing at me. O Heaven and Earth, know this sorrow of mine.
 
 ---
+### Page 522 (PDF 542)
 
-**Progress note:** Printed pp. 1–521 done (PDF 21–541): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.17 complete (pp. 441–519); Rik 105.18 (printed pp. 520–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha and Bhāvārtha done (pp. 520–521). Next: printed p. 522 (PDF 542): the printed English, Special Topics and grammar of 105.18, then Rik 105.19 (the last Ṛk, Triṣṭubh). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 522; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**English Translation (Rik 105.18; as printed in the source)**
+
+"Once a twany [sic] wolf beheld me, faring on my way, and, having seen me, rushed upon me, (rearing) as a carpenter, whose back aches (with stooping, stands erect from his work)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.18)**
+
+The Nirukta-author, when giving the derivation of the word *vṛka*, takes this Ṛk as the example (*Ni.* 5-[?]0 as read [?]). There he explains the word *māsakṛt*; against it the Bṛhaddevatā-writer objects that it is not a single word *māsakṛt* but two words, *mā* and *sakṛt*. Let us first look at the Nirukta-author's explanation and then examine the objection.
+
+> वृकश्चन्द्रमा भवति विवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रान्तज्योतिष्को वा । अरुण आरोचनो मासकृन्मासानां चार्धमासानां च कर्ता भवति चन्द्रमा वृकः पथा यन्तं ददर्श नक्षत्रगणमभिजिहीते निचाय्य येन येन योक्ष्यमाणो भवति चन्द्रमास्तष्टेव पृष्ट्यामयी जानीतं मेऽस्य द्यावापृथिव्याविति ।
+> *vṛkaś candramā bhavati vivṛtajyotiṣko vā vikṛtajyotiṣko vā vikrāntajyotiṣko vā | aruṇa ārocano māsakṛn māsānāṃ cārdhamāsānāṃ ca kartā bhavati candramā vṛkaḥ pathā yantaṃ dadarśa nakṣatragaṇam abhijihīte nicāyya yena yena yokṣyamāṇo bhavati candramās taṣṭeva pṛṣṭyāmayī jānītaṃ me 'sya dyāvāpṛthivyāv iti |* (*Ni.* 5-[?]0, 2[?] as read [?])
+
+"*Vṛka* means the moon; he receives that name because he makes light uncovered [from darkness], or because compared with the stars he has a greater light, or because he is of [overpowering] light — so he explains the word, citing the Ṛk at hand. In this explanation *aruṇa* means *ārocana*: 'shining beyond measure, appearing beautiful to the whole world'. *Māsakṛt* means '*māsārdhamāsartvayanasaṃvatsarādīn kālaviśeṣān kurvan; tithivibhāgajñānasya candragatyadhīnatvāt*': one who makes the divisions of time such as month, half-month, season, solstice and year, because the knowledge of the divisions of the lunar day depends on the moon's motion. Such a moon saw the group of stars going in the sky. (Here, by the word *hi*, the idea of disregard is conveyed: 'he looked only at the group of stars; he did not look at me' — Sāyaṇa.) Here, for the word *māsakṛt*, showing the difference between the Nirukta-author's explanation and Śākalya's, Sāyaṇa says '*atra māsakṛd iti yāskaḥ ekaṃ padaṃ manyate, śākalyas tu padadvayam | tasmin pakṣe 'yam arthaḥ | dakṣaprajāpater duhitṛbhūtāḥ svabhāryā aśvinyādyās tārakāḥ punaḥ punar dadarśa | māṃ sakṛd eva paśyatīti sakṛd dṛṣṭvā cojjihīte | tārakābhiḥ sahordhvam eva gacchati | na māṃ kūpād uttārayeti | ata idam anucitam |*'. Here, according to Yāska's view, *māsakṛt* is a single word; but according to the view of Śākalya these are two words, and according to his intention such a meaning arises: the moon looks again and again at his wives, the stars Aśvinī and the rest, who are daughters of Dakṣa Prajāpati; but, looking at me only once (*mā sakṛt*) — he does not even mark me, but goes up together with the stars, and does not lift me out of the well. This is improper. (O Heaven and Earth, hear my cry): this is the purport." *(continued on p. 523)*
+
+---
+
+### Page 523 (PDF 543)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 523.)*
+
+"Thus the two views are given. In the Bṛhaddevatā, in the context where some defects of Yāska are cited, this word also has been taken as an example:
+
+> पदमेकं समाम्नाय द्विधा कृत्वा निरुक्तवान् । पुरुषादः पदं याष्को वृक्षे वृक्ष इति त्र्यृचि ॥
+> अनेकं सत्त्वथा चान्यदेकमेव निरुक्तवान् । अरुणो मा सकृन्मन्त्रे मासकृद्विग्रहेण तु ॥
+> *padam ekaṃ samāmnāya dvidhā kṛtvā niruktavān | puruṣādaḥ padaṃ yāṣko vṛkṣe vṛkṣa iti tryṛci ‖ anekaṃ sattvathā cānyad ekam eva niruktavān | aruṇo mā sakṛn mantre māsakṛdvigraheṇa tu ‖* (*Bṛ. De.* 3-11[?], 11[?] as read [?]; the text is as read from the print, with the second line clotted and given with doubt [?])
+
+Here the Bṛhaddevatā-writer shows two kinds of defect in Yāska: first, Yāska makes into two words a word which should be a single word; and second, he makes into a single word what should be two words; both greatly alter the meaning. For example —
+
+> वृक्षेवृक्षे नियता मीमयद्गौस्ततो वयः प्र पतान्पूरुषादः ।
+> *vṛkṣe-vṛkṣe niyatā mīmayad gaus tato vayaḥ pra patān pūruṣādaḥ |* (*Ṛ. Saṃ.* 10-9[?]-12 as read [?]; as read [?])
+
+— in this Ṛk he divides the word *pūruṣādaḥ*, which ought to be a single word, into two words, and explains it. Moreover, in the Ṛk at hand, where *mā* and *sakṛt* should be two words, he has explained it as the single word *māsakṛt*. The Bṛhaddevatā-writer thus shows Yāska's defect of changing the meaning. In the same way he has pointed out some further defects of the kind; but since these are not relevant here, they are mentioned only according to the context."
+
+**Vṛkaḥ** — "for the word *vṛka* in this Ṛk the meaning is 'wolf' or 'moon'. Further, this word has been used in some other senses also. '*Ādityo 'pi vṛka ucyate yadāvṛṅkte* [?]' (*Ni.* 5-[?]1 as read [?]), says the Nirukta-author, and, citing —" *(continued on p. 524)*
+
+---
+
+### Page 524 (PDF 544)
+
+*(Running head: left 524; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+> आजोहवीदश्विना वर्तिका वामास्नो यत्सीमुञ्चतं वृकस्य ।
+> *ājohavīd aśvinā vartikā vām āsno yat sīm muñcataṃ vṛkasya |* (*Ṛ. Saṃ.* 1-117-16 as read [?]; the words as read [?])
+
+— "[he explains it] with the sense 'he who destroys the darkness and gives light'; therefore here the word *vṛka* means Āditya.
+
+*Śvāpi vṛka ucyate vikartanāt* — 'by tearing [its prey], the forest-dog (the wolf) is called *vṛka*'. For example, he cites
+
+> वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति ।
+> *vṛkaś cid asya vāraṇa urāmathir ā vayuneṣu bhūṣati |* (*Ṛ. Saṃ.* 8-66-8 as read [?])
+
+— but in this Ṛk Sāyaṇa has given the meaning 'thief' (*kaḷḷa* [?]) to the word *vṛka*."
+
+**Ujjihīte** — *udgacchati athavā abhijihīte |* "[it] climbed up; [it] rushed up: that is, 'rose up and came running'. The word is used in the sense of 'leaving one's own place and going elsewhere':
+
+> यह्वा इव प्र वयामुज्जिहानाः प्र भानवः सिस्रते नाकमच्छ ।
+> *yahvā iva pra vayām ujjihānāḥ pra bhānavaḥ sisrate nākam accha |* (*Ṛ. Saṃ.* 3-6-1 as read)
+
+— in this Ṛk *ujjihānāḥ* means 'leaving their own place and starting for another'; and
+
+> उदातैर्जिहते बृहद्द्वारो देवीर्हिरण्ययीः [?]
+> *udātair jihate bṛhad dvāro devīr hiraṇyayīḥ [?]* (*Ṛ. Saṃ.* 9-[?]-[?] as read [?]; the first word is clotted in print and given with doubt [?])
+
+— in this Ṛk *ujjihate* means 'the door opens upward': such is the purport."
+
+**Nicāyya** — *cāyṛ pūjānicāmanayoḥ |* "formed from the root *cāyṛ*, which means 'to worship' and 'to look attentively'; the word is used in both the senses 'seeing' and 'thinking'.
+
+> वैश्वानरं मनसाग्निं निचाय्या हविष्मन्तो अनुषत्यं स्वर्विदम् ।
+> *vaiśvānaraṃ manasāgniṃ nicāyyā haviṣmanto anuṣatyaṃ svarvidam |* (*Ṛ. Saṃ.* 3-26-1 as read [?])
+
+— in this Ṛk, *nicāyyā* means 'having meditated, in the mind, on Vaiśvānara Agni'; in the Ṛk at hand it means 'looking intently'."
+
+**Pṛṣṭyāmayī** — *spṛṣṭir iti pṛṣṭham ucyate |* "*pṛṣṭi* means 'back': the purport is 'one with pain in the back'."
+
+---
+
+### Page 525 (PDF 545)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 525.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.18)** *(grammar pages, pp. 525–526, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Sakṛt* (*ekasya sakṛc ca*, Pā. Sū. 5-4-19 as read [?]: formed as a *nipātana* in the counting of the repetition of an action). *Vṛkaḥ* (root *vṛñ varaṇe*; the suffix *ka* by *svṛbhūśuṣimuṣibhyaḥ kit*, Uṇ. 3-41 as read [?]; since it is *kit*, no *guṇa* of the root). *Pathā* (the word *pathin*; before the third case singular, the *bha*-designation and loss of *ṭi* by *bhasya ṭer lopaḥ*, Pā. Sū. 7-1-88 as read [?]; the ending is acute by *anudāttasya ca yatrodāttalopaḥ*, Pā. Sū. 6-1-159 as read [?]). *Yantam* (root *yā prāpaṇe*; *śatṛ* in the sense of *laṭ*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; since *śatṛ* is *apit* it is treated as *ṅit* [*sārvadhātukam apit*]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; accent of the suffix, initial acute; accusative singular). *Dadarśa* (root *dṛśir prekṣaṇe*; *liṭ*, third person singular; because of the connection with *hi*, the prohibition of *nighāta* by *hica*, Pā. Sū. 8-1-34 as read [?]; *ṇal*; since it is *lit*, the acute before the suffix by *liti*, Pā. Sū. 6-1-193 as read [?]). *Jihīte* (root *ohāṅ gatau*, *juhotyādi*; *laṭ*, third person singular, *ta*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*; *ślu* by *juhotyādibhyaḥ śluḥ*, Pā. Sū. 2-4-75 as read [?]; the doubling of the root by *ślau*, Pā. Sū. 6-1-10 as read [?]; *i* in the reduplicate by *bhṛñām it*, Pā. Sū. 7-4-76 as read [?]; *cutva* and *jaśtva* by *kuhoś cuḥ*, Pā. Sū. 7-4-62 as read [?]; *ī* for the final *ā* by *ī halyaghoḥ*, Pā. Sū. 6-4-113 as read [?]; *nighāta*). *Nicāyya* (root *cāyṛ pūjānicāmanayoḥ*; since roots are accepted as having many senses, here used in the sense of 'seeing'; *lyap* for *ktvā* in a compound whose first member is not *nañ* by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?]; the lengthening in the Saṃhitā by *ānyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]). *Pṛṣṭyāmayī* (root *spṛśa saṃsparśane*; *spṛśyate 'nena iti spṛṣṭiḥ*, with *ktin* in the instrumental sense; *ṣatva* of the *ś* by *vraścabhrasja…*, Pā. Sū. 8-2-36 as read [?]; *ṭutva* of the *t*; the Vedic loss of the *s* of the root; *pṛṣṭyāmayaḥ asya asti iti pṛṣṭyāmayī*" *(the grammar continues on p. 526)*
+
+---
+
+**Progress note:** Printed pp. 1–525 done (PDF 21–545): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.17 complete (pp. 441–519); Rik 105.18 (printed pp. 520–[?]): all parts done (printed English, Special Topics) except the end of the grammar, begun at p. 525 (at *pṛṣṭyāmayī*). Next: printed p. 526 (PDF 546): the end of the grammar of 105.18, then Rik 105.19 (the last Ṛk, Triṣṭubh). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
