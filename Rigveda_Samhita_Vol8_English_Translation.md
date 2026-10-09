@@ -10276,4 +10276,115 @@ The grammar of Rik 103.3 concludes: *acarat* (root *cara gatibhakṣaṇayoḥ*;
 
 ---
 
-**Progress note:** Printed pp. 1–373 done (PDF 21–393): **Sūkta 103** (8 Ṛks) in progress: Rik 103.3 complete (pp. 368–373); Rik 103.4 (printed pp. 373–[?]): Saṃhitā done at the foot of p. 373. Next: printed p. 374 (PDF 394): the Pada of 103.4, bhāṣya etc.; then Riks 103.5–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 374 (PDF 394)
+
+*(Running head: left 374; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.4)**
+
+> तत् । ऊचुषे । मानुषा । इमा । युगानि । कीर्तेन्यम् । मघऽवा । नाम । बिभ्रत् ।
+> उपऽप्रयन् । दस्युऽहत्याय । वज्री । यत् । ह । सूनुः । श्रवसे । नाम । दधे ॥ ४ ॥
+
+*tat | ūcuṣe | mānuṣā | imā | yugāni | kīrtenyam | magha-vā | nāma | bibhrat | upa-prayan | dasyu-hatyāya | vajrī | yat | ha | sūnuḥ | śravase | nāma | dadhe ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.4)**
+
+> नाम शत्रूणां नामकं तदिन्द्रस्य बलमूचुषे उक्तवते स्तुवते यजमानाय कीर्तेन्यं कीर्तनीयं स्तुत्यं । नामकं तद्बलं बिभ्रद्धारयन्मघवा धनवानिन्द्रो मानुषा मनुष्याणां सम्बन्धिनीमेमानि दृश्यमानानि युगान्यहोरात्रसंघनिष्पाद्यानि कृतत्रेतादीनि सूर्यात्मना निष्पादयतीति शेषः । किं पुनस्तन्नाम । दस्युहत्याय दस्यूनां वृत्रादीनां हननायोपप्रयन् गृहसमीपान्निर्गच्छन् वज्री वज्रवान्सूनुः शत्रूणां प्रेरयितेन्द्रो यद्ध यत्खलु नाम शत्रूणां नामुकं श्रवसे जयलक्षणाय यशसे दधे धृतवान् ॥ ऊचुषे । ब्रूञ् व्यक्तायां वाचि । बुवो वचिः । लिटः क्वसुः । वचिस्वपीत्यादिना संप्रसारणं । चतुर्थ्येकवचने भसंज्ञायां वसोः सम्प्रसारणमिति सम्प्रसारणं । शासिवसिघसीनां चेति षत्वं । क्वसुप्रत्ययाद्युदात्तत्वं । कीर्तेन्यं । कृत संशब्दने । कृत्यार्थे तवैकेनिति केन्यप्रत्ययः । मघवा । मघशब्दाच्छन्दसीवनिपौ वाक्तव्येति मत्वर्थीयो वनिप् । बिभ्रत् । डुभृञ् धारणपोषणयोः । शतरि जुहोत्यादित्वाच्छपः श्लुः । भृञामिदित्यभ्यासस्येत्वं । नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥
+> *nāma śatrūṇāṃ nāmakaṃ tad indrasya balam ūcuṣe uktavate stuvate yajamānāya kīrtenyaṃ kīrtanīyaṃ stutyaṃ | nāmakaṃ tad balaṃ bibhrad dhārayan maghavā dhanavān indro mānuṣā manuṣyāṇāṃ sambandhinīmemāni dṛśyamānāni yugāny ahorātrasaṃghaniṣpādyāni kṛtatretādīni sūryātmanā niṣpādayatīti śeṣaḥ | kiṃ punas tan nāma | dasyuhatyāya dasyūnāṃ vṛtrādīnāṃ hananāyopaprayan gṛhasamīpān nirgacchan vajrī vajravān sūnuḥ śatrūṇāṃ preyayitendro yad dha yat khalu nāma śatrūṇāṃ nāmukaṃ śravase jayalakṣaṇāya yaśase dadhe dhṛtavān ‖ ūcuṣe | brūñ vyaktāyāṃ vāci | bruvo vaciḥ | liṭaḥ kvasuḥ | vacisvapīty ādinā saṃprasāraṇaṃ | caturthyekavacane bhasaṃjñāyāṃ vasoḥ samprasāraṇam iti samprasāraṇaṃ | śāsivasighasīnāṃ ceti ṣatvaṃ | kvasupratyayādyudāttatvaṃ | kīrtenyam | kṛta saṃśabdane | kṛtyārthe tavaikenitīti kenyapratyayaḥ | maghavā | maghaśabdāc chandasīvanipau vāktavyeti matvarthīyo vanip | bibhrat | ḍubhṛñ dhāraṇapoṣaṇayoḥ | śatari juhotyāditvāc chapaḥ śluḥ | bhṛñām id ity abhyāsasyetvaṃ | nābhyastāc chatur iti numāgamapratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvaṃ ‖*
+
+*(The print's* nāmukaṃ *and* preyayitā *are read as given [?], for* nāmakaṃ *and* preraṇitā*; the repeated* nāma śatrūṇāṃ nāmakaṃ *at the head is the print's gloss on* nāma *[?].)*
+
+"*Nāma* — that [name, power] of Indra which humbles (*nāmaka*, 'that which bends') enemies, [Indra gives] to the sacrificer, *ūcuṣe* — who has spoken, who praises: *kīrtenyam*, fit to be proclaimed, praiseworthy. *Maghavā*, wealthy Indra, bearing that strength that humbles, brings about these, *mānuṣā*, pertaining to men, *imāni yugāni*, [these] visible ages [or cycles], the *kṛta, tretā* and the rest, which are produced by the conjunction of days and nights, in the form of the sun: so the sentence is to be completed. What, then, is that name? *Dasyuhatyāya* — for the killing of the Dasyus, Vṛtra and the rest — going forth *upaprayan*, from near the house, *vajrī* — bearing the thunderbolt, *sūnuḥ* — the impeller of enemies — Indra, *yad dha*, indeed, which *nāma* — power that humbles enemies — he took, for *śravase*, for fame in the form of victory."
+
+*(The grammatical tail is characterized:* ūcuṣe *(root* brū *'to speak', replaced by* vac*; the Vedic* kvasu *for* liṭ*,* samprasāraṇa*; the dative singular of a stem with* bha*-name;* ṣ *by* śāsivasighasīnāṃ ca*);* kīrtenya *(root* kṛt*, with* kenya *in the sense of 'to be…');* maghavan *(*vanip *after* magha *in the Veda);* bibhrat *(root* bhṛ*, reduplicated;* i *in the reduplicative; no augment* num *after a reduplicated stem).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(begun on p. 374; continues on p. 375)*
+
+"*kīrtenyam* — the power fit to be praised; *bibhrat* — [Indra,] who has it; *maghavā* — Indra, endowed with wealth; *nāma* — the name (known among all enemies); *tat* — that (Indra's) strength; *ūcuṣe* — to the sacrificer who praises; *mānuṣā* — pertaining to men; *imā yugāni* — these ages, now visible, the *kṛta*, *tretā* and the rest (he brings about, causes to be); *dasyuhatyāya* — for the killing of the Dasyus, Vṛtra and the rest; *upaprayan* — (setting out to attack them); *vajrī* — the one who holds the thunderbolt; *sūnuḥ* — the one who drives enemies away;" *(continues on the next page)*
+
+### Page 375 (PDF 395)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 375.)*
+
+"*yad dha nāma* — (which) that very well-known strength; *śravase* — for fame in the form of victory; *dadhe* — has obtained."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Indra, who holds praiseworthy strength, causes to be produced for the sacrificer who praises his well-known strength — which is famed among all the multitude of enemies — the ages of men, *kṛta*, *tretā* and the rest, which regulate the lifetime of men. Making an attack on the dwellings of the Dasyus, Vṛtra and the rest, in order to kill them, he holds the thunderbolt and puts the enemies to flight; that same Indra has obtained his well-known strength in the form of fame in victory."
+
+**English Translation (as printed)**
+
+> Maghavan, possessing a name that is to be glorified, offers to him, who celebrates it, these (revolving) ages of man : the thunderer, the scatterer (of his foes), sallying forth to destroy the Dasyus, has obtained a name (renowned for victorious) prowess.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.4 (Kannada)**
+
+"Indra's strength is famed for two reasons, and is worthy of praise. First, since it always harms enemies and causes fear in them, enemies are always fearful, remembering Indra's power. Therefore it is, for the share of the sacrificer, both a protection and exceedingly praiseworthy. Second: for devotees who praise such unique strength, Indra, in the form of the sun, regulates the divisions of time such as day and night, and the times of sacrifices such as the *darśapūrṇamāsa*, and is their benefactor. By this the Ṛk sets out the points that he has obtained fame in victory both against enemies and to friends.
+
+*Kīrtenyam* — *kīrtanīyam* | *stutyam*: worthy to be praised by all.
+
+*Yugāni* — *ahorātrasaṃghaniṣpādyāni kṛtatretādīni sūryātmanā niṣpādayati*: the ages, *kṛta, tretā* and the rest, which come about by the conjunction of days and nights: Indra, in the form of the sun, brings them about: so Sāyaṇa says; and —"
+
+> युगशब्दः कालवचनः । सर्वत्र चात्र सप्तम्यर्थे प्रथमा । मनुष्याणां सम्बन्धिषु स्तोत्रेषु पौर्णमास्यमावास्यादिषु यागकालेषु । कीर्तेन्यं आत्मीयं नाम
+> *yugaśabdaḥ kālavacanaḥ | sarvatra cātra saptamyarthe prathamā | manuṣyāṇāṃ sambandhiṣu stotreṣu paurṇamāsyamāvāsyādiṣu yāgakāleṣu | kīrtenyam ātmīyaṃ nāma* *(the sentence continues on p. 376)*
+> (Skandasvāmin, as read; the passage runs over the page break)
+
+### Page 376 (PDF 396)
+
+*(Running head: left 376; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+> […] धारयन् ।
+> *[…] dhārayan |*
+
+"[— Skandasvāmin:] 'the word *yuga* denotes time; and here everywhere the first case stands for the seventh: in the praises connected with men, at the times of sacrifices such as the new and full moon, he bears [or sets out] his own praiseworthy name': since the word *yuga* denotes time, here, both in the time of the praise of men and at the times of the sacrifices, the *paurṇamāsa*, *amāvāsya* and the rest, [Indra] makes known his own praiseworthy name and fame, and sets out to kill the Dasyus: so Skandasvāmin construes and explains.
+
+*Sūnuḥ* — *aditeḥ putraḥ*: Skandasvāmin explains the word *sūnu* as 'son', i.e. 'Indra, son of Aditi'; Sāyaṇa has explained *śatrūṇāṃ preraṇitendraḥ*: 'one who drives the enemies away': one who produces zeal for battle in the enemies [as read, ?]. Though the word *sūnu* has the natural meaning 'son', in one or two places it also means 'producer'."
+
+> उदु त्ये सूनवो गिरः काष्ठा अज्मेष्वत्नत ।
+> *ud u tye sūnavo giraḥ kāṣṭhā ajmeṣv atnata |*
+> (*Ṛ. Saṃ.* 1-[?]2-10 as read [?])
+
+"— in this Ṛk *sūnavaḥ* means the Maruts, the producers of speech.
+
+> आक्रो न बभ्रिः समिथे महीनां दिदृक्षेयः सूनवे भाऋजीकः ।
+> *ākro na babhriḥ samithe mahīnāṃ didṛkṣeyaḥ sūnave bhāṛjīkaḥ |*
+> (*Ṛ. Saṃ.* 3-1-1[?] as read [?])
+
+"— in this Ṛk, *sūnave* is *somarasavanam pūrvam rasam utpādanam kurvate yajamānāya* [as read, ?]: for the sacrificer who makes the production of the Soma juice. So in the present Ṛk also it may be that he is the producer of zeal for battle in the enemies [as read, ?], one who drives them away.
+
+*Upa prayan* — the word *upaprayan* generally means 'beginning', or 'going forth continuously':"
+
+> उपप्रयन्तो अध्वरं मन्त्रं वोचेमाग्नये ।
+> *upaprayanto adhvaraṃ mantraṃ vocemāgnaye |*
+> (*Ṛ. Saṃ.* 8-[?]3-6 as read [?])
+
+"— in this Ṛk, *prāptyaviccheda*: 'those who go forth rightly, without break'.
+
+> इन्द्रमिदुभये वि ह्वयन्ते उदीराणा यज्ञमुपप्रयन्तः ।
+> *indram id ubhaye vi hvayante udīrāṇā yajñam upaprayantaḥ |*
+> (*Ṛ. Saṃ.* 4-[?]7-3 as read [?])
+
+> दधिक्रामु नमसा बोधयन्त उदीराणा यज्ञमुपप्रयन्तः ।
+> *dadhikrām u namasā bodhayanta udīrāṇā yajñam upaprayantaḥ |*
+> (*Ṛ. Saṃ.* 4-[?]4-3 as read [?])
+
+"— in these Ṛks, *upakramamāṇāḥ* means those who begin. In the Ṛk at hand alone it means 'one who, beginning the attack on enemies, falls upon the enemies without break'."
+
+### Page 377 (PDF 397)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 377.)*
+
+"*Yad dha nāma śravase dadhe* — *yat khalu śatrūṇāṃ nāmakaṃ jayalakṣaṇāya yaśase dhṛtavān*: Sāyaṇa: 'he bore his name, which makes the enemies bow, for fame in the form of victory'. Skandasvāmin:
+
+> श्रव इत्यन्नस्य नाम, नामशब्दोऽप्युदकनाम । दधे इत्यत्र धारयतिर्दानार्थः । यदा च सस्यलक्षणायान्नाय वृष्टिलक्षणमुदकं ददाति तदा आत्मीयं नामाचष्टे ।
+> *srava ity annasya nāma, nāmaśabdo 'py udakanāma | dadhe ity atra dhārayatir dānārthaḥ | yadā ca sasyalakṣaṇāyānnāya vṛṣṭilakṣaṇam udakaṃ dadāti tadā ātmīyaṃ nāmācaṣṭe |*
+> (Skandasvāmin, as read)
+
+"— [that is: *srava* is a name of food; the word *nāma* too is a name of water; the root *dhā* in *dadhe* has the sense of giving; when he gives water, in the form of rain, for food in the form of crops, he then announces his own name]. Since *srava* is read among the names of food, *srava* may mean food; since *nāma* is read among the names of water, it may mean water; but the intention that Skandasvāmin explains is that, giving rain-water to the food-grain, he showed his fame as the benefactor of the world.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.4)** *(grammar pages, begun on p. 377, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *ūcuṣe* (root *brūñ vyaktāyāṃ vāci*, *adādi*; when the *liṭ* is meant, *vaci* for *brū* by *bruvo vaciḥ* [Pā. Sū. 2-4-53 as read]; *kvasu* for *liṭ* by *kvasuś ca* [Pā. Sū. 3-2-107 as read], being *kit*; *samprasāraṇa* of the root by *vacisvapiyajādīnāṃ kiti* [Pā. Sū. 6-1-15 as read]; the single substitute by *samprasāraṇāc ca* [Pā. Sū. 6-1-108 as read]; in the dative singular *ṅe*, the *bha*-name, hence *samprasāraṇa* of the *v* of *vasu* by *vasoḥ samprasāraṇam* [Pā. Sū. 6-4-131 as read]; the *pūrvarūpa*; *ṣ* for the *s* of *vasu* by *śāsivasighasīnāṃ ca* [Pā. Sū. 8-3-60 as read]; the form *ūcuṣe*; the first syllable of the affix acute, so the *u* is acute); *mānuṣā* (neuter plural, the loss of *śi* by *śeś chandasi bahulam* [Pā. Sū. 6-1-70 as read]; likewise in *imā*); *kīrtenyam* (root *kṛta saṃśabdane*; *kenya* in the sense of the object by *kṛtyārthe tavaikakenanyatsu…* [Pā. Sū. 3-4-14 as read]; loss of the *i* before *ṛ*… *ṛta iddhātoḥ* [Pā. Sū. 7-1-100 as read] *i* for the root's *ṛ*; lengthening of the *r*-ending root by *hali ca* [Pā. Sū. 8-2-77 as read]; the form *kīrtenya*; since the affix is acute on its first syllable, the *e* is acute; accusative singular); *maghavā* (after the word *magha*, in the Veda *vanip* by the statement *chandasīvanipau ca vaktavyau* [vārttika, as read]; the form *maghavan*; since *vanip* is *pit*, unaccented); *bibhrat* (root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *śatṛ* in the sense of the present; *śluḥ* in place of *śap* by *juhotyādibhyaḥ śluḥ* [Pā. Sū. 2-4-75 as read]; doubling of the root by *ślau* [Pā. Sū. 6-1-10 as read]; *i* in the reduplicative by *bhṛñām it* [Pā. Sū. 7-4-76 as read]; *yaṇ* for the *ṛ*)" *(the grammar continues on the next page)*
+
+---
+
+**Progress note:** Printed pp. 1–377 done (PDF 21–397): **Sūkta 103** (8 Ṛks) in progress: Rik 103.3 complete; Rik 103.4 (printed pp. 373–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (*yugāni*, *sūnuḥ*, *upaprayan*, *śravase … nāma*, Skandasvāmin) and most of the grammar done to p. 377. Next: printed p. 378 (PDF 398): the end of the grammar of 103.4 (*bibhrat*, *upaprayan*…); then Riks 103.5–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
