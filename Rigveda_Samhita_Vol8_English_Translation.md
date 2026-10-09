@@ -21750,5 +21750,130 @@ O Aśvin deities, leaders! with whichever of your helps you formerly made the wa
 *(In the scan the printed English is partly smudged at the line ends ("Atri and", "evil"); read from the sense.)*
 
 ---
+### Page 797 (PDF 817)
 
-**Progress note:** Printed pp. 1–796 done (PDF 21–816): Sūkta 112: Riks 112.1–112.15 complete (pp. 723–794); Rik 112.16 (printed pp. 795–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics follow on p. 797. Next: printed p. 797 (PDF 817). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 797.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.16)**
+
+**शयवे अत्रये — Śayave atraye.** The matter of the helps given to Śayu — making his barren cow a milch cow and giving her fullness of milk — has been told in the Special Topics of the third Ṛk of this very sūkta [112.3]; and the help given to Atri when the asuras threw him into a pit of fire has been told earlier, in the seventh Ṛk [112.7]: it is repeated here.
+
+**मनवे — Manave.** Skandasvāmi has:
+
+> अत्रेतिहासमाचक्षते । मनुर्नाम राजा । स महत्यामनावृष्टौ वृत्तीतायां अन्नक्षयात् प्रजासु कर्षितुमशक्नुवन्तीषु अन्नक्षयेण च बाध्यमानासु अन्नकामोऽश्विनौ तुष्टाव । तस्मै आगत्याश्विनौ हलेन कर्षयित्वा यवान्नं ददतुरिति ।
+> *atretihāsam ācakṣate | manur nāma rājā | sa mahatyām anāvṛṣṭau vṛttītāyām [?] annakṣayāt prajāsu karṣitum aśaknuvantīṣu annakṣayeṇa ca bādhyamānāsu annakāmo 'śvinau tuṣṭāva | tasmai āgatyāśvinau halena karṣayitvā yavānnaṃ dadatur iti |*
+> *(Sanskrit as read; the word* vṛttītāyām *is doubtful in the print [?]; the sense follows the Kannada.)*
+> "Here they tell the tale: a king named Manu. In a great drought, when for want of grain the people were unable to plough and were afflicted by the failure of food, he, wishing for food, praised the two Aśvins. The Aśvins came to him, had [the land] ploughed with a plough, and gave him barley-food."
+
+A king named Manu, while he was ruling, once, because of a drought, fell into poverty; when all the people were afflicted by famine, he worshipped the Aśvin deities and pleased them. The Aśvin deities came in person, ploughed the fields with a plough, grew barley, and supplied food to all. This same matter Kakṣīvān has [told]:
+
+> युवं वृकेणाश्विना वपन्तेषं दुहन्ता मनुषाय दस्रा ।
+> *yuvaṃ vṛkeṇāśvinā vapanteṣaṃ duhantā manuṣāya dasrā |*
+> (*Ṛ.* 1-117-21 as read [?])
+
+in the Ṛk, and likewise Saubhari:
+
+> दशस्यन्ता मनवे पूर्व्यं दिवि यवं वृकेण कर्षथः ।
+> *daśasyantā manave pūrvyaṃ divi yavaṃ vṛkeṇa karṣathaḥ |*
+> (*Ṛ.* 8-22-6 as read [?])
+> *(Sanskrit as read; the second line is doubtful in its numeral [?]; no gloss attempted for either.)*
+
+— as is said in this Ṛk, Kutsa too has said it in the Ṛk before us.
+
+**स्यूमरश्मये — Syūmaraśmaye.** The setting in which a ṛṣi named Syūmaraśmi, fallen into the mouths of monkeys, was protected, is described. The story of that setting runs thus: *indro yatīn sālāvṛkebhyaḥ prāyacchat | sālāvṛkā markaṭā ucyante | teṣām adyamānānāṃ syūmaraśmir ṛṣir aśvinau tuṣṭāva | taṃ pratyāgatyāśvinā iṣubhiḥ sālāvṛkān nirurudhuḥ iti* — "Indra gave the ascetics [*yati*] to the *sālāvṛkas*; *sālāvṛkas* are called monkeys; as they were being eaten, the ṛṣi Syūmaraśmi praised the two Aśvins; they came to him and kept off the *sālāvṛkas* with arrows." Once, when Indra gave the ascetics to the *sālāvṛkas* — fierce monkeys, like wolves — they fell among them; while the monkeys were devouring them all, the ṛṣi named Syūmaraśmi praised the Aśvin deities. They came at once and struck down and destroyed those monkeys with their arrows: this tale of Syūmaraśmi's being protected is indicated here.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.16)** *(grammar pages, pp. 797–798, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Narā*: root *ṇīñ nayane*; by *ṛdoraP* (*pā.* 3-3-57 as read [?]) the suffix *ap*; because of it, *guṇa* of the root's *ik*, *raparaḥ*; in the dual, with *au* following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) *ā*; by *āmantritasya ca* (*pā.* 8-1-19 as read [?]) the *nighāta*. *Śayave*: root *śīṅ svapne*; by *bhṛmṛśītarcarittvaritvarisarttil* [print: *bhṛmṛśītyaricari…*] (*Uṇ.* 1-7 as read [?]) the suffix *u*; *guṇa* and the *ay* substitution; the word *śayu*; by the suffix-accent it ends in *udātta*; dative singular.
+
+---
+
+### Page 798 (PDF 818)
+
+*(Running head: left 798; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Īṣathuḥ*: root *iṣu icchāyām*; *liṭ*, second-person dual, *athus*; doubling of the root because of the *liṭ*; by *abhyāsasya savarṇe* [as printed, *pā.* 6-4-78 as read [?]] — the sūtra excluding [a following] homogeneous vowel — the substitution *iy* does not occur in the reduplicant; lengthening of the homogeneous vowel; since *yābhiḥ* is connected, by *yad vṛttān nityam* (*pā.* 8-1-66 as read [?]) the *nighāta* is prohibited, so by the suffix's first-syllable *udātta* the word is *udātta* in the middle. *Śārīḥ*: from the word *śara*, in the sense of 'product of', by *anudāttetaś ca halādeḥ* (*pā.* 4-3-140 as read [?]) the suffix *añ*; by *taddhiteṣv acām ādeḥ* (*pā.* 7-2-117 as read [?]) *vṛddhi* of the first syllable; when the feminine is intended, by *ṭiḍḍhāṇañ…* (*pā.* 4-1-15 as read [?]) the suffix *ṅīp*. *Syūmaraśmaye*: root *sivu tantusantāne*; by *dhātvādeḥ ṣaḥ saḥ* (*pā.* 6-1-64 as read [?]) *s* for the initial *ṣ*; to it the Uṇādi suffix *man*; by *chvoḥ śūḍanunāsike ca* (*pā.* 6-4-19 as read [?]) *ūṭh* for the root's *v*; the *bahuvrīhi* compound; by *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) the prior member keeps its accent. ‖ 16 ‖
+
+*(An ornament closes Rik 112.16.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.17)** *(accent-marks not reproduced)*
+
+> याभिः पठर्वा जठरस्य मज्मनाग्निर्नादीदेच्चित इद्धो अज्मन्ना ।
+> याभिः शर्यातमवथो महाधने ताभिरू षु ऊतिभिरश्विना गतम् ॥ १७ ॥
+> *yābhiḥ pathar vā jaṭharasya majmanāgnir nādīded cita iddho ajmann ā |*
+> *yābhiḥ śaryātam avatho mahādhane tābhir ū ṣu ūtibhir aśvinā gatam ‖ 17 ‖*
+> *(The first line is as read from the print: the first words are* yābhiḥ pathar vā jaṭharasya majmanā*; the Pada below, and the bhāṣya, give* patharvā *and* agnir na adīdet *— I read the Saṃhitā to agree with them: **yābhiḥ patharvā jaṭharasya majmanāgnir nādīdec cita iddho ajmann ā**.)*
+
+Corrected Saṃhitā, as the Pada and the bhāṣya require:
+
+> याभिः पथर्वा जठरस्य मज्मनाग्निर्नादीदेच्चित इद्धो अज्मन्ना ।
+> *yābhiḥ patharvā jaṭharasya majmanāgnir nādīdec cita iddho ajmann ā |*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.17)**
+
+> याभिः । पठर्वा । जठरस्य । मज्मना । अग्निः । न । अदीदेत् । चितः । इद्धः । अज्मन् । आ ।
+> *yābhiḥ | patharvā | jaṭharasya | majmanā | agniḥ | na | adīdet | citaḥ | iddhaḥ | ajman | ā |*
+> *(continues on p. 799; the print's first Pada word is overstruck and smudged in the scan; read as given [?].)*
+
+---
+
+### Page 799 (PDF 819)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 799.)*
+
+> याभिः । शर्यातम् । अवथः । महाऽधने । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १७ ॥
+> *yābhiḥ | śaryātam | avathaḥ | mahā-dhane | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 17 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.17)**
+
+> हे अश्विनौ जठरस्य । जठरमुदरं भवति जगृमस्मिन्नद्यते इति यास्कः । नि. ४-२ [?] । जठरोपलक्षितस्य शरीरस्य मज्मना बलेन युक्तः सन् पथर्वैतन्नामा राजर्षिरज्मन् । सङ्ग्रामनामैतत् । अज्मनि सङ्ग्रामे युष्मदीयाभिर्याभिरूतिभिरा समन्तादादीदेत् आदीप्यत । तत्र दृष्टान्तः । चितः काष्ठैरभिचित इद्धो यज्ञगृहे ऋत्विग्भिः प्रज्वलितोऽग्निर्न । यथाग्निः प्रकाशते तद्वदित्यर्थः । अपि च शर्यातं मानवमिन्द्रेण सह स्पर्धमानं महाधने । सङ्ग्रामनामैतत् । महता धनेनोपेते सङ्ग्रामे याभिरूतिभिरवथः रक्षथः ताभिरित्यादि गतम् ॥ आदीदेत् । दीदेतीति शांदसो दीप्तिकर्मा । अज्मन् । अज गतिक्षेपणयोः । अजन्ति क्षिपन्त्यस्मिन्निति अज्मा । अप्रातिपदिके [?] औणादिको मनिन् । वलादावार्धधातुके विकल्प इष्यते । का. २-४-३५-३ । इति वचनाद्वीभावाभावः । सुपां सुलुगिति सप्तम्या लुक् । महाधने । अन्मह्यते इत्यादात्त्वम् [?] ॥
+> *he aśvinau jaṭharasya | jaṭharam udaraṃ bhavati jagṛmasminn adyate iti yāskaḥ | ni. 4-2 [?] | jaṭharopalakṣitasya śarīrasya majmanā balena yuktaḥ san patharvaitannāmā rājarṣir ajman | saṅgrāmanāmaitat | ajmani saṅgrāme yuṣmadīyābhir yābhir ūtibhir ā samantād ādīdet ādīpyata | tatra dṛṣṭāntaḥ | citaḥ kāṣṭhair abhicita iddho yajñagṛhe ṛtvigbhiḥ prajvalito 'gnir na | yathāgniḥ prakāśate tadvad ity arthaḥ | api ca śaryātaṃ mānavam indreṇa saha spardhamānaṃ mahādhane | saṅgrāmanāmaitat | mahatā dhanenopete saṅgrāme yābhir ūtibhir avathaḥ rakṣathaḥ tābhir ity ādi gatam ‖ ādīdet | dīdetīti śāṃdaso dīptikarmā | ajman | aja gatikṣepaṇayoḥ | ajanti kṣipanty asminn iti ajmā | aprātipadike [?] auṇādiko manin | valādāv ārdhadhātuke vikalpa iṣyate | kā. 2-4-35-3 | iti vacanād vībhāvābhāvaḥ | supāṃ suluk iti saptamyā luk | mahādhane | anmahyate ity ādāttvam [?] ‖*
+
+*(Sanskrit as read; the words marked [?] — the Nirukta etymology of* jaṭhara*, the clause* aprātipadike*, and the last clause — are clotted in the print and are not completed from memory.)*
+
+"O Aśvins! *jaṭharasya*: *jaṭhara* is 'belly' — [the Nirukta derivation, as read [?]: 'it is *jagṛmasmin adyate*', *Ni.* 4-2 [?]] — of the body, designated by the belly, *majmanā*, with strength, endowed [with it], *patharvā*, the royal sage so named, *ajman*: this is a name for battle; in battle, with whichever protections of yours, *ā adīdet*, blazed on all sides. An illustration: *citaḥ*, heaped up with logs, *iddhaḥ*, kindled by the priests in the sacrificial house, like a fire: as a fire shines, so [did he]. And further: *śaryātam*, the descendant of Manu, contending with Indra, *mahādhane* — a name for battle — in a battle endowed with great wealth, with whichever protections you protect [him]: with those, and so on, come."
+
+*Grammatical tail (short):* *ādīdet*: *dīdeti* is a Vedic root with the sense of shining. *Ajman*: root *aja gatikṣepaṇayoḥ*; 'in which they go [or] throw' = *ajmā*; the Uṇādi suffix *manin*; the option of non-*vī* [*vī*-substitution] before an ārdhadhātuka beginning with a *val* consonant is allowed, by the *vārttika* (*kā.* 2-4-35-3 as read [?]); the locative ending is dropped by *supāṃ suluk*. *Mahādhane*: [the accent clause, clotted [?]].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.17; Kannada; English)**
+
+*Jaṭharasya* — [of one's own] body; *majmanā* — together with strength; *patharvā* — the royal sage named Patharvan; *ajman* — in battle; *yābhiḥ* — by whichever of your helps; *citaḥ* — filled with logs; *iddhaḥ* — and kindled in the sacrificial house by the priests; *agniḥ na* — as a fire blazes; *ā samantāt* — on every side; *adīdet* — he shone; (and not only that) *śaryātam* — Śaryāta, who was contending along with Indra; *mahādhane* — in battle; *yābhiḥ* — by whichever protections; *avathaḥ* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *aśvinā* — O Aśvin deities; *su ā gatam* — come, with favour.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your helps the royal sage named Patharvan, endowed with the strength of his own body, shone in battle on every side like a fire filled with logs and kindled by the priests in the sacrificial house; and, besides, with whichever protections you protected, in battle, the one called Śaryāta, who was contending along with Indra: with all those protections of yours come to us also, with favour.
+
+---
+
+### Page 800 (PDF 820)
+
+*(Running head: left 800; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**English Translation (as printed in the source; Rik 112.17)**
+
+"With those aids by which Patharvan shone with strength of form in battle, like a blazing fire piled up (with fuel); by which you defended Saryata in war; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.17)**
+
+**पथर्वा अदीदेत् — Patharvā adīdet.** "*Patharvā* is the name of a ṛṣi. He, afflicted with disease [*āmaya*], grew lean and became discoloured. By that his natural complexion was altered. Then the Aśvin deities made him strong and powerful, like a blazing fire": so the story goes. The Skandasvāmi passage is *(the Kannada summarizes:)* "a ṛṣi named Patharvan, being seized by disease, became emaciated, and his bodily colour was changed; then the Aśvin deities made him strong again, like a fire kindled."
+
+**अज्मन् — Ajman.** *ajma iti gṛhanāma | yajñagṛhe ity arthaḥ* — "*ajma* is a name for 'house'; the sense is 'in the sacrificial house'": since the word *ajma* is a name for 'house', Skandasvāmi takes it as 'in the sacrificial house'; Sāyaṇa, on the ground that it is a name for battle — *ajman saṅgrāmanāmaitat | ajmani saṅgrāme* — takes it as 'in battle'.
+
+**मज्मना — Majmanā.** *majma iti balanāma* — "*majma* is a name for strength": 'endowed with strength'.
+
+**याभिश्च शर्यातम् — Yābhiś ca śaryātam.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । शर्यातो नाम राजा सङ्ग्रामे भग्नबलो नश्यन् शत्रुभिरनवगम्यमानोऽश्विनौ तुष्टाव । तस्यागत्याश्विनौ शत्रून् प्रति बभञ्जतुरिति ।
+> *atrāpītihāsam ācakṣate | śaryāto nāma rājā saṅgrāme bhagnabalo naśyan śatrubhir anavagamyamāno 'śvinau tuṣṭāva | tasyāgatyāśvinau śatrūn prati babhañjatur iti |*
+> "Here too they tell the tale: a king named Śaryāta, his force broken in battle, perishing, but not discerned by his enemies, praised the two Aśvins. The two Aśvins came to him and broke the enemies."
+
+A king named Śaryāta, having lost his strength in battle and being unable to be freed from his enemies, praised the Aśvin deities without the enemies' knowing; they came and destroyed the enemies: so the story goes. Another story about Śaryāta is told in the Śatapatha Brāhmaṇa.
+
+> …… यत्र वै भृगवो वाङ्गिरसो वा स्वर्गं लोकं समाप्नुवत । तच्च्यवनो वा भार्गवश्च्यवनो वाङ्गिरसस्तद्देव जीर्णः कृत्यारूपो जहे । शर्यातो ह वा इदं मानवो ग्रामेण चचार । स तदेव प्रतिवेशो निविविशे तस्य कुमाराः क्रीडन्त इमं जीर्णं कृत्यारूपमनर्थं मन्यमानो लोष्टैर्विपिपिषुः । स शर्याते क्रुद्धः [?] । स तेभ्योऽसंज्ञां चकार पित्र्यैव पुत्रेण युयुधे भ्राता भ्रात्रा । शर्यातो ह वा ईक्षांचक्रे । येन्मिमकरं तस्मादिदमापदिति । स गोपालान्पशुपालांश्च संप्रयितवा उवाच । स होवाच । को वोऽद्येह किंचिदप्रासीदिति । ते होचुः पुरुष एवायं जीर्णः कृत्यारूपः शेते तमस्मत्कुमारा मन्यमानाः कुमारा लोष्टैर्विपिपिषुरिति । स विजज्ञौ चकार स ह स्यै भ्रातर [?] । स रथं युक्त्वा । सुकन्यां कार्यार्थीति । … स ह जगाम [?] 
+> *…… yatra vai bhṛgavo vāṅgiraso vā svargaṃ lokaṃ samāpnuvata | tac cyavano vā bhārgavaś cyavano vāṅgirasas tad deva jīrṇaḥ kṛtyārūpo jahe | śaryāto ha vā idaṃ mānavo grāmeṇa cacāra | sa tad eva prativeśo niviviśe tasya kumārāḥ krīḍanta imaṃ jīrṇaṃ kṛtyārūpam anarthaṃ manyamāno loṣṭair vipipiṣuḥ | sa śaryāte kruddhaḥ [?] | sa tebhyo 'saṃjñāṃ cakāra pitryaiva putreṇa yuyudhe bhrātā bhrātrā | śaryāto ha vā īkṣāṃ cakre | yen mimakaraṃ tasmād idam āpad iti | sa gopālān paśupālāṃś ca saṃprayitavā uvāca | sa hovāca | ko vo 'dyeha kiṃcid aprāsīd iti | te hocuḥ puruṣa evāyaṃ jīrṇaḥ kṛtyārūpaḥ śete tam asmatkumārā manyamānāḥ kumārā loṣṭair vipipiṣur iti | sa vijajñau cakāra sa ha syai bhrātara [?] | sa rathaṃ yuktvā | sukanyāṃ kāryārthīti | … sa ha jagāma [?]*
+> (*Śa. Brā.* 4-1-5 as read [?]; the print of this passage is crowded and partly clotted; the last lines run off the foot of the page into p. 801)
+> *(Sanskrit as read from the Kannada-script print, in three layers as far as legible; I have not completed the clotted places [?] from memory, and I give no English rendering beyond the Kannada's own sense, which follows on p. 801.)*
+
+---
+
+**Progress note:** Printed pp. 1–800 done (PDF 21–820): Sūkta 112: Riks 112.1–112.16 complete (pp. 723–798); Rik 112.17 (printed pp. 798–[?]): Saṃhitā (with a recorded reading correction), Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (patharvā, ajman, śaryātam) begun, ending at the foot of p. 800 inside the Śatapatha Brāhmaṇa passage on Śaryāta/Cyavana (crowded print, partly clotted [?]); the Kannada account of it follows on p. 801. Next: printed p. 801 (PDF 821). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
