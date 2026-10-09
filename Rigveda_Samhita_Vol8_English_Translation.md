@@ -20956,5 +20956,159 @@ Skandasvāmi has also quoted it, saying that this matter is told in this Ṛk to
 *Dhanasām*: 'she who shares wealth' = *dhanasā*, its accusative; root *ṣaṇa sambhaktau*; by *janasanakhan…* (*pā.* 3-2-67 as read [?]) the suffix *viṭ*; with it following, by *vidvanoranunāsikasyāt* (*pā.* 6-4-41 as read [?]) the root ends in *ā*; by the accent of the *kṛdanta* after the prior member, [the accent follows the rule]… *(continued on p. 773)*
 
 ---
+### Page 773 (PDF 793)
 
-**Progress note:** Printed pp. 1–772 done (PDF 21–792): Sūkta 112: Riks 112.1–112.9 complete (pp. 723–769); Rik 112.10 (printed pp. 769–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*dhanasām*, ending at the foot of p. 772). Next: printed p. 773 (PDF 793). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 773.)*
+
+*(Grammar of Rik 112.10, concluded; short; sūtra numbers only as read, doubtful [?].)* *Aśvyam*: 'the offspring of Aśva' = *aśvyam*; the suffix *yat* by *chandasi ca* [as printed [?]]; the *a* dropped by *yasyeti ca* (*pā.* 6-4-148 as read [?]); by the suffix-accent it ends in *udātta*; accusative singular. *Preṇim*: root *preṇ gatipreraṇaśleṣaṇeṣu*; the Uṇādi suffix *i*; by the suffix-accent it ends in *udātta*; accusative singular. ‖ 10 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.10.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.11)** *(accent-marks not reproduced)*
+
+> याभिः सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशो अक्षरत् ।
+> कक्षीवन्तं स्तोतारं याभिरावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ ११ ॥
+> *yābhiḥ sudānū auśijāya vaṇije dīrghaśravase madhu kośo akṣarat |*
+> *kakṣīvantaṃ stotāraṃ yābhir āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.11)**
+
+> याभिः । सुदानू इति सुऽदानू । औशिजाय । वणिजे । दीर्घऽश्रवसे । मधु । कोशः । अक्षरत् ।
+> कक्षीवन्तम् । स्तोतारम् । याभिः । आवतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ११ ॥
+> *yābhiḥ | sudānū iti su-dānū | auśijāya | vaṇije | dīrgha-śravase | madhu | kośaḥ | akṣarat |*
+> *kakṣīvantam | stotāram | yābhiḥ | āvatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 11 ‖*
+
+---
+
+### Page 774 (PDF 794)
+
+*(Running head: left 774; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.11)**
+
+> उशिक्सञ्ज्ञा दीर्घतमसः पत्नी । तस्याः पुत्रो दीर्घश्रवा नाम कश्चिदृषिरनावृष्ट्या [?] जीवनार्थमकरोद्वाणिज्यम् । स च वर्षणार्थमश्विनौ तुष्टाव । तौ चाश्विनौ मेघं प्रेरितवन्तौ । अयमर्थः पूर्वार्धे प्रतिपाद्यते । हे सुदानू शोभनदानावश्विनौ औशिजायौशिक्पुत्राय वणिजे वाणिज्यं कुर्वते दीर्घश्रवसे एतत्सञ्ज्ञाय ऋषये याभिर्युष्मदीयाभिरूतिभिर्हेतुभूताभिः कोशो मेघो मधु माधुर्योपेतं वृष्टिजलमक्षरत् असिञ्चत् । युष्मत्प्रसादादपेक्षिता वृष्टिर्जातेत्यर्थः । अपि चौशिजः पुत्रं स्तोतारं कक्षीवन्तमेतत्सञ्ज्ञमृषिं याभिरूतिभिरावतम् अरक्षतम् ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ कक्षीवन्तम् । कक्ष्या रज्जुरश्वस्य तया युक्तः कक्षीवान् । आसन्दीवदष्ठीवच्चक्रीवत्कक्षीवदिति [?] निपातनान्मतुपो वत्वम् । सम्प्रसारणम् ॥
+> *uśiksañjñā dīrghatamasaḥ patnī | tasyāḥ putro dīrghaśravā nāma kaścid ṛṣir anāvṛṣṭyā [?] jīvanārtham akarod vāṇijyam | sa ca varṣaṇārtham aśvinau tuṣṭāva | tau cāśvinau megham preritavantau | ayam arthaḥ pūrvārdhe pratipādyate | he sudānū śobhanadānāv aśvinau auśijāyauśikputrāya vaṇije vāṇijyaṃ kurvate dīrghaśravase etatsañjñāya ṛṣaye yābhir yuṣmadīyābhir ūtibhir hetubhūtābhiḥ kośo megho madhu mādhuryopetaṃ vṛṣṭijalam akṣarat asiñcat | yuṣmatprasādād apekṣitā vṛṣṭir jāteti arthaḥ | api cauśijaḥ putraṃ stotāraṃ kakṣīvantam etatsañjñam ṛṣiṃ yābhir ūtibhir āvatam arakṣatam tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ kakṣīvantam | kakṣyā rajjur aśvasya tayā yuktaḥ kakṣīvān | āsandīvadaṣṭhīvaccakrīvatkakṣīvad iti [?] nipātanān matupo vatvam | samprasāraṇam ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print.)*
+
+"The wife of Dīrghatamas was named Uśik. Her son was named Dīrghaśravas, a certain ṛṣi, who, because of the failure of the rains [?], took to trade for his livelihood; and he praised the Aśvins for rain, and the two Aśvins sent a cloud. This sense is set out in the first half: O *sudānū*, the two of good gifts, Aśvins! for *auśijāya*, the son of Uśik, *vaṇije*, a merchant, doing trade, *dīrghaśravase*, the ṛṣi named so, with whichever of your protections, as the cause, *kośaḥ*, the cloud, *madhu*, sweet rain-water, *akṣarat*, poured: that is, the rain he needed came, through your grace. And further: the son of Uśik, the praiser, *kakṣīvantam*, the ṛṣi so named, whom with whichever protections you protected: with all those protections come to us also."
+
+*Grammatical tail (short):* *kakṣīvantam*: '*kakṣyā* is a rope of the horse; he who is joined with it' is *kakṣīvān*; by the irregular formation [in the list beginning *āsandīvat…*] the *va* for *matup*; *saṃprasāraṇa*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.11; Kannada; English)**
+
+*Sudānū* — O generous donors; *aśvinā* — O Aśvin deities; *auśijāya* — for the son of Uśik; *vaṇije* — a merchant; *dīrghaśravase* — for the ṛṣi Dīrghaśravas; *yābhiḥ* — by whichever of your helps, as the cause; *kośaḥ* — the cloud; *madhu* — rain accompanied by sweetness; *akṣarat* — poured down; *yābhiḥ* — by whichever protections; *stotāram* — the praiser; *kakṣīvantam* — the ṛṣi Kakṣīvān; *āvatam* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections and helps together, (to us also) *su ā gatam* — come willingly.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities, generous donors! with whichever of your helps, as the cause, the cloud poured sweet rain for the ṛṣi named Dīrghaśravas, the son of Uśik and a merchant; and with whichever protections you protected the ṛṣi Kakṣīvān, the praiser: with all those protections and helps come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.11)**
+
+"With those aids by which, beauteous donors, the cloud (was made to) shed its sweet (water), for the sake of the merchant Dirghasravas, the son of Usij, and by which you protected the devout Kakshivat; with them, Aswins, come willingly hither."
+
+*(The printed heading of this English passage reads "Englih Tranlation", a misprint [sic].)*
+
+---
+
+### Page 775 (PDF 795)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 775.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.11)**
+
+**औशिजाय दीर्घश्रवसे मधु कोशो अक्षरत् — Auśijāya dīrghaśravase madhu kośo akṣarat.** *uśiksañjñā dīrghatamasaḥ patnī | tasyāḥ putro dīrghaśravā nāma kaścid ṛṣir anāvṛṣṭyā [?] jīvanārtham akarod vāṇijyam | sa ca varṣaṇārthaṃ aśvinau tuṣṭāva |* — A son named Dīrghaśravas was born to Dīrghatamas's wife, called Uśik. Though by profession a ṛṣi, once, through the failure of the rains, he began to trade, in great hardship for his livelihood. When, to obtain rain, he praised the Aśvin deities, they brought sweet water from the cloud: thus the earlier setting is told.
+
+**कोशः — Kośaḥ.** The word *kośa* is read among the names of 'cloud' (*Ni.* 1-10 as read [?]).
+
+**कक्षीवन्तम् — Kakṣīvantam.** "*yābhis trimantuḥ*": the matter of Kakṣīvān has been told briefly in the Special Topics of the fourth Ṛk of this same sūkta [112.4]. From the Ṛk
+
+> सोमानं स्वरणं कृणुहि ब्रह्मणस्पते । कक्षीवन्तं य औशिजः ।
+> *somānaṃ svaraṇaṃ kṛṇuhi brahmaṇas pate | kakṣīvantaṃ ya auśijaḥ |*
+> (*Ṛ.* 1-18-1 as read [?])
+
+it is known that Kakṣīvān was the son of a woman named Uśik. That he was born to Uśik from the ṛṣi called Dīrghatamas is known from the authority of the *Bṛhaddevatā*:
+
+> अङ्गराजगृहे युक्तामुशिजं पुत्रकामया ।
+> राज्ञा च प्रहितां दासीं भक्तां मत्वा महातपाः ।
+> जनयामास चोत्थाय [?] कक्षीवत्प्रमुखानृषीन् ॥
+> *aṅgarājagṛhe yuktām uśijaṃ putrakāmayā |*
+> *rājñā ca prahitāṃ dāsīṃ bhaktāṃ matvā mahātapāḥ |*
+> *janayām āsa cotthāya [?] kakṣīvatpramukhān ṛṣīn ‖*
+> (*Bṛ. De.* 4-[?] as read [?])
+> *(Sanskrit as read; the first line and the word* cotthāya *are doubtful in the print [?]; the sense is taken from the Kannada: "…a maid-servant, Uśik, employed in the house of the king of Aṅga, sent by the queen out of her desire for a son, to the great ascetic [Dīrghatamas]; he, thinking her devoted, begot on her the ṛṣis headed by Kakṣīvān.")*
+
+A maid-servant named Uśik, who worked in the house of the king of Aṅga, was sent by the queen, out of the desire for a son, to the ṛṣi named Dīrghatamas. As she served him with great devotion, he was pleased; and by her he begot ṛṣis led by Kakṣīvān: so the story is told.
+
+> युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरंधिम् ।
+> *yuvaṃ narā stuvate pajriyāya kakṣīvate aradataṃ puraṃdhim |*
+> (*Ṛ.* 1-116-7 as read [?])
+
+> तद्वां नरा शंस्यं पज्रियेण कक्षीवता नासत्या परिज्मन् ।
+> *tad vāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman |*
+> (*Ṛ.* 1-117-6 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+*(the passage continues on p. 776)*
+
+---
+
+### Page 776 (PDF 796)
+
+*(Running head: left 776; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…from Ṛks such as these it is known that he was a descendant of Pajra. In the Ṛk
+
+> मदच्युतः कृशनावतो अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
+> *madacyutaḥ kṛśanāvato atyān kakṣīvante ud amṛkṣanta pajrāḥ [?]*
+> (*Ṛ.* 1-126-4 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+it is understood that those born in his family were called *Pajras*. In this same sūkta the king Svanaya, son of Bhāvayavya, who was on the bank of the river Sindhu, is praised for having given him abundant wealth as a gift; the occasion for this gift, and the near relationship that existed between the two, are known from the story told in the *Bṛhaddevatā*."
+
+> अधिगम्य गुरोर्विद्यां गच्छन् स्वनिलयं किल ।
+> कक्षीवानध्वनि श्रान्तः सुष्वापारण्यगोचरः ॥
+> तं राजा स्वनयो नाम भावयव्यसुतो व्रजन् ।
+> क्रीडार्थं सानुगोऽपश्यत् सभार्यः सपुरोहितः ॥
+> आत्मैनं [?] रूपसम्पन्नं दृष्ट्वा देवसुतोपमम् ।
+> कन्यादाने मतिं चक्रे वर्णगोत्राविरोधतः ॥
+> सम्बोध्यैनं स पप्रच्छ वर्णगोत्रादिकं ततः ।
+> राजन्नाङ्गिरसोऽस्मीति कुमारः प्रत्युवाच तम् ॥
+> पुत्रोऽहं दीर्घतमस औचथ्यस्य ऋषेर्नृप ।
+> अथास्मै स ददौ कन्या दशाभरणभूषिताः ॥
+> तावतश्च रथानश्व्यान् …[?] चतुर्युजः ।
+> वधूनां वाहनार्थाय धनकुप्यमजाविकम् ॥
+> निष्काणां वृषभाणां च शतं शतमदात्स्वनयः ।
+> एतदुत्तरसूक्तेन शतमित्यादिनोदितम् ॥
+> शतमश्वान्निभृतं निष्कान् रथार्थं दश वधूमतः ।
+> चतुर्युजो गवां चैव सहस्रं षष्ट्यधिकम् ॥
+> स्वनयाद्भावयव्याद्यैः कक्षीवान्प्रत्यपद्यत ।
+> प्रतिगृह्य च तुष्टाव प्रातः पित्रे शशंस च ॥
+> (*Bṛ. De.* 3-183 to 190 as read [?])
+> *adhigamya guror vidyāṃ gacchan svanilayaṃ kila |*
+> *kakṣīvān adhvani śrāntaḥ suṣvāpāraṇyagocaraḥ ‖*
+> *taṃ rājā svanayo nāma bhāvayavyasuto vrajan |*
+> *krīḍārthaṃ sānugo 'paśyat sabhāryaḥ saparohitaḥ ‖*
+> *ātmainaṃ [?] rūpasampannaṃ dṛṣṭvā devasutopamam |*
+> *kanyādāne matiṃ cakre varṇagotrāvirodhataḥ ‖*
+> *sambodhyainaṃ sa papraccha varṇagotrādikaṃ tataḥ |*
+> *rājann āṅgiraso 'smīti kumāraḥ pratyuvāca tam ‖*
+> *putro 'haṃ dīrghatamasa aucathyasya ṛṣer nṛpa |*
+> *athāsmai sa dadau kanyā daśābharaṇabhūṣitāḥ ‖*
+> *tāvataś ca rathān aśvyān …[?] caturyujaḥ |*
+> *vadhūnāṃ vāhanārthāya dhanakupyam ajāvikam ‖*
+> *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatam adāt svanayaḥ |*
+> *etad uttarasūktena śatam ity ādinoditam ‖*
+> *śatam aśvān nibhṛtaṃ niṣkān rathārthaṃ daśa vadhūmataḥ |*
+> *caturyujo gavāṃ caiva sahasraṃ ṣaṣṭyadhikam ‖*
+> *svanayād bhāvayavyādyaiḥ kakṣīvān pratyapadyata |*
+> *pratigṛhya ca tuṣṭāva prātaḥ pitre śaśaṃsa ca ‖*
+> *(Sanskrit as read from the print, in three layers. The words marked [?] are doubtful: in the third couplet the first word, and in the sixth couplet the middle of the first line, which is clotted in the print; the last couplets are as printed and their sense is uncertain in the fourth line of "śatam aśvān…". I have not completed them from memory.)*
+
+"Having finished his studies in the teacher's house, Kakṣīvān, returning home, tired on the road, slept in the forest. Then Svanaya, a king, the son of Bhāvayavya, who was going there for sport with his attendants, his wife and his *purohita*, saw him — [and, seeing] him so handsome, like a son of the gods, decided on the gift of a maiden [in marriage], there being no conflict of *varṇa* or *gotra*. He woke him and asked him about his *varṇa*, *gotra* and the like; the young man replied: 'O king, I am Āṅgirasa; I am the son of the ṛṣi Dīrghatamas Aucathya.' Then the king gave him ten maidens decked with ornaments, and as many chariots yoked with four horses [?], wealth, copper [?], goats and sheep for the carrying of the brides, a hundred each of *niṣkas* and of bulls — this is told in the hymn that follows [Ṛ. 1-126] beginning '*śatam*' — and in addition a thousand and sixty cows; Kakṣīvān received [all this] from Svanaya and the other [descendants] of Bhāvayavya; he accepted [it], and in the morning praised [them] and told his father."
+
+"When Kakṣīvān, having finished his studies in the house of his teacher, was returning home, he grew tired on the way and slept in the forest. Then Svanaya, a king, the son of Bhāvayavya, who had come there for sport with his wife and his retinue [and his *purohita*], saw him, *(the passage continues on p. 777)*
+
+---
+
+**Progress note:** Printed pp. 1–776 done (PDF 21–796): Sūkta 112: Riks 112.1–112.10 complete (pp. 723–773); Rik 112.11 (printed pp. 773–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Dīrghaśravas, Kakṣīvān; the Bṛhaddevatā account of Kakṣīvān and king Svanaya) in progress, ending mid-sentence at the foot of p. 776 ('…saw him'). Next: printed p. 777 (PDF 797). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
