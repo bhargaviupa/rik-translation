@@ -16058,5 +16058,118 @@ The word *asura* is, in the Purāṇas and elsewhere, a synonym for 'demon' (*r�
 — in such, the meaning 'full of wisdom'; and" *(the passage continues on p. 598)*
 
 ---
+### Page 598 (PDF 618)
 
-**Progress note:** Printed pp. 1–597 done (PDF 21–617): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.5 complete (pp. 573–594); Rik 108.6 (printed pp. 595–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*asuraiḥ*; ends at the foot of p. 597 mid-passage). Next: printed p. 598 (PDF 618). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 598; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+> शतं क्षेत्रा वा असुरस्य गोनां दिवि श्रवोऽजरमा ततान ।
+> *śataṃ kṣetrā vā asurasya gonāṃ divi śravo 'jaram ā tatāna |* (*Ṛ. Saṃ.* 1-[?]4-3 as read [?]; the first words as read, doubtful [?])
+
+"— in this Ṛk 'one who is liberal in giving' (*dānaśīla*); and
+
+> त्रिरुत्तमा दूणशा रोचनानि त्रयो राजन्त्यसुरस्य वीराः ।
+> *trir uttamā dūṇaśā rocanāni trayo rājanty asurasya vīrāḥ |* (*Ṛ. Saṃ.* 3-5[?]-8 as read [?]; "dūṇaśā" as printed, doubtful [?])
+
+— in this *asurasya* is, as '*asyati kṣipati sarvam ity asuraḥ kālātmā saṃvatsaraḥ*' ['he who casts out everything: the year, of the nature of time'], a synonym for time; and
+
+> यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः ।
+> *yathā rudrasya sūnavo divo vaśanty asurasya vedhasaḥ |* (*Ṛ. Saṃ.* 8-2[?]-1[?] as read [?])
+
+— in such places the sense 'cloud' (*megha*); and
+
+> अनायुधासो असुरा अदेवाश्चक्रेण ता अप वप ऋजीषिन् ।
+> *anāyudhāso asurā adevāś cakreṇa tā apa vapa ṛjīṣin |* (*Ṛ. Saṃ.* 6-[?]-[?] as read [?])
+
+> परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर्यदस्ति ।
+> *paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (*Ṛ. Saṃ.* 10-8[?]-[?] as read [?])
+
+— in Ṛks such as these *asura* means the demons (*daitya*) who are included in the group of *rākṣasas*; but in the Ṛk at hand, as said above, the sense is 'priests'."
+
+**Vihavyaḥ** — *viśeṣeṇa hotavyo bhavati |* "'Specially to be offered in sacrifice': it is both made ready (*saṃskṛta*) and fit for offering with great care."
+
+**Satyāṃ śraddhām** — "'of truth in its nature, and joined with faith and devotion': for the sacrifice, looking to the prior resolution [of the sacrificer], he prays to Indra and Agni to come to the sacrifice to drink the Soma-juice."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.6)** *(grammar pages, pp. 598–599, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Abravam* (root *brūñ vyaktāyāṃ vāci*; *laṅ*, first person singular, *mip*; *am* for *mip* by *thasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; since the suffix is the cause, *guṇa* of the *ik* of the root; *av* by *eco 'yavāyāvaḥ*; because of the *yad*-connection there is no *nighāta*; the augment *aṭ* being *udātta*, the word has the initial acute). *Vṛṇānaḥ* (root *vṛñ saṃbhaktau*; *śānac* in the sense of *laṭ*; the vikaraṇa *śnā* by *kryādibhyaḥ śnā*, Pā. Sū. 3-1-81 as read [?]; since the suffix is *ñit*-like [*apit*], by *śnābhyastayor ātaḥ*, Pā. Sū. 6-4-112 as read [?], the loss of the *ā* of the vikaraṇa; since the suffix is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]).
+
+---
+
+### Page 599 (PDF 619)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 599.)*
+
+The grammar of Rik 108.6 concludes (noted briefly). *Asuraiḥ* (root *asu kṣepaṇe*; the suffix *uran* by *aser uran*, Uṇ. 1-4[?] as read [?]; the form *asura*; since it is *nit*, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]; the instrumental plural). *Vihavyaḥ* (root *hu dānādanayoḥ*; *yat* by *aco yat*, Pā. Sū. 3-1-97 as read [?]; since it is the cause, by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84 as read [?], *guṇa* of the *ik* of the root; because of the *y* [of *yat*], *o* arises, and by *dhātos tannimittasyaiva*, Pā. Sū. 6-1-80 as read [?], *av* is substituted for the *o*; the form *havya*; the initial acute by *yato 'nāvaḥ*, Pā. Sū. 6-1-213 as read [?]; since it forms a compound with the *gati* *vi*, the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]). *Atha* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening in the Saṃhitā). The Rik is closed with *‖ 6 ‖* and an ornament.
+
+## Rik 108.7 — printed pp. 599–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.7)**
+
+> यदिन्द्राग्नी मदथः स्वे दुरोणे यद्ब्रह्मणि राजनि वा यजत्रा ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ ७ ॥
+
+*yad indrāgnī madathaḥ sve duroṇe yad brahmaṇi rājani vā yajatrā | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 7 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "vṛṣaṇāvā", the Pada "vṛṣaṇau | ā")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.7)**
+
+> यत् । इन्द्राग्नी इति । मदथः । स्वे । दुरोणे । यत् । ब्रह्मणि । राजनि । वा । यजत्रा ।
+
+*yat | indrāgnī iti | madathaḥ | sve | duroṇe | yat | brahmaṇi | rājani | vā | yajatrā |* *(the Pada continues on p. 600)*
+
+---
+
+### Page 600 (PDF 620)
+
+*(Running head: left 600; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ ७ ॥
+
+*ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.7)**
+
+> यजत्रा यष्टव्यौ हे इन्द्राग्नी स्वे दुरोणे स्वकीये गृहे निवासस्थाने यद्यदि मदथः हृष्यथः । यद्यदि वा ब्रह्मणि ब्राह्मणेऽन्यस्मिन्यजमाने हविःस्वीकरणायोगत्य हृष्यथः । यदि वा राजनि क्षत्रियेऽन्यस्मिन्यजमाने युद्धे साहाय्यं कर्तुमागत्य हृष्यथः । अतः परि परितोऽस्मात्स्थानात्सर्वस्मात्स्थानाद्धे वृषणौ कामानां वर्षितारावन्द्राग्नी आ यातं हि । आगच्छतमेव । औदासीन्यं मा कार्ष्टम् । अन्यत्पूर्ववत् [?] ॥ मदथः । मदी हर्षे । व्यत्ययेन शप् । यजत्रा । अमिनक्षियजिवधिपतिभ्योऽत्रन् । उ. ३-१०३ [?] । यजेः कर्मण्यत्रन् । सुपां सुलुगिति विभक्तेराकारः ॥
+> *yajatrā yaṣṭavyau he indrāgnī sve duroṇe svakīye gṛhe nivāsasthāne yadi madathaḥ hṛṣyathaḥ | yadi vā brahmaṇi brāhmaṇe 'nyasmin yajamāne haviḥsvīkaraṇāyāgatya hṛṣyathaḥ | yadi vā rājani kṣatriye 'nyasmin yajamāne yuddhe sāhāyyaṃ kartum āgatya hṛṣyathaḥ | ataḥ pari parito 'smāt sthānāt sarvasmāt sthānād dhe vṛṣaṇau kāmānāṃ varṣitārāv indrāgnī ā yātaṃ hi | āgacchatam eva | audāsīnyaṃ mā kārṣṭam | anyat pūrvavat [?] ‖ madathaḥ | madī harṣe | vyatyayena śap | yajatrā | aminakṣiyajivadhipatibhyo 'trān | u. 3-10[?] | yajeḥ karmaṇy atran | supāṃ suluk iti vibhakter ākāraḥ ‖* *(Sanskrit as read; the Uṇādi numeral is doubtful [?]; the tail is short and given.)*
+
+"O worshipful Indra and Agni! if (*yad*) you rejoice (*madathaḥ*) in your own dwelling-place, your own house; or if you rejoice, having gone to another sacrificer, a *brāhmaṇa*, to accept the oblation; or if, having come to a ruler (*rājani*), a *kṣatriya*, another sacrificer, to help him in battle, you rejoice: from this place, from all places, O showerers (*vṛṣaṇau*) of desires, Indra and Agni, come (*ā yātam hi*), certainly come. Do not be indifferent. [The rest] as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.7; Kannada; English)**
+
+*Yajatrā* — worthy of the sacrifice; *indrāgnī* — O Indra and Agni; *sve duroṇe* — in your own dwelling; *yat* — perhaps; *madathaḥ* — you are rejoicing; *yat vā* — or perhaps; *brahmaṇi* — (going to the house of another *brāhmaṇa*, also, to accept the oblation); *rājani* — to a *kṣatriya*, to come to help in battle (and being delighted); *ataḥ pari* — from all these places; *vṛṣaṇau* — you who grant the desired objects; *ā yātam hi* — certainly come (to our sacrificial house); *atha* — here; *sutasya* — pressed; *somasya* — Soma-juice; *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, worthy of the sacrifice and granters of desired objects, whether you are rejoicing in your own houses, or whether you are delighted by going to the sacrificial house of another *brāhmaṇa* to accept the oblation, or whether you are delighted by going to help another *kṣatriya* in battle — come from all these places also to our sacrificial house, and drink the Soma-juice that we have pressed.
+
+**English Translation (as printed in the source)**
+
+"If, adorable Indra and Agni, you have ever been delighted ( with libations ) in your own dwelling, in that of a Brahman, or in that of a prince, then, showers of benefits, come hither from wherever you may be, and drink of the effused libation."
+
+---
+
+### Page 601 (PDF 621)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 601.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.7)**
+
+**Duroṇe** — "since the word *duroṇa* is read among the names of 'house' (*Ni.* 3-[?]), *duroṇe* means 'in the house'. In general it is used in the sense 'in the sacrificial house'.
+
+**Sve duroṇe madathaḥ** — since the singular *svakīye gṛhe* ['in one's own house'] occurs, the house of the two of them is one and the same. As explained in the previous Ṛks, since the equality of the parents of Indra and Agni in the earth, in the mid-region and in the heavenly world has become well known, and since their association is celebrated, the place of dwelling of both of them is the same: so the singular, *sve duroṇe*, is used.
+
+> समानो वां जनिता भ्रातरा युवं यमावि हेहमातरा ।
+> *samāno vāṃ janitā bhrātarā yuvaṃ yamāv ihehamātarā |* (*Ṛ. Saṃ.* 6-59-2 as read)
+
+— in Ṛks such as these, and in the Ṛks cited in the previous Ṛks, the common place [of origin] of Indra and Agni is indicated."
+
+**Yad brahmaṇi** — *brāhmaṇe anyasmin yajamāne haviḥsvīkaraṇāyāgatya hṛṣyathaḥ |* "'having come to another sacrificer, a *brāhmaṇa*, to accept the oblation, you rejoice': not only at the sacrificial houses of the present sacrificer, but also at the sacrificial houses of other sacrificers, going to accept the oblations, even if you are delighted with the enjoyment of Soma-juice."
+
+**Rājani vā** — *kṣatriye yuddhe sāhāyyaṃ kartum |* "having gone to the battle of another *kṣatriya*, to help him, and, delighted by that heroic act, even if you are enjoying independence, so that neither the gods nor men are able to hinder that independence or its delight [?] (as in the Ṛks 8-[?]0-[?] etc.: such delight in independence is described)." *(Kannada; the closing clause is read with doubt [?].)* "May they, too, partake of our sacrifice: so the prayer is made."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.7)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Madathaḥ* (root *madī harṣe*, *divādi*; *laṭ*, second person dual, *thas*; the vikaraṇa *śap* by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; the *s* of the ending → *ru* → visarga; because of the *yad*-connection, no *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]; since *śap* is *pit*, it is *anudātta*; the *lasārvadhātuka* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?] being *anudātta*, the accent of the root remains). *Yajatrā* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; in the passive sense, the suffix *atran* by *aminakṣiyajivadhipatibhyo 'trān*, Uṇ. 3-10[?] as read [?]; the form *yajatra*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]).
+
+---
+
+**Progress note:** Printed pp. 1–601 done (PDF 21–621): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.6 complete (pp. 573–599); Rik 108.7 (printed pp. 599–[?]): all parts done through the start of the grammar (pp. 599–601); the grammar of 108.7 begun at the foot of p. 601 and continues on p. 602. Next: printed p. 602 (PDF 622). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
