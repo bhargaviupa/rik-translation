@@ -12828,5 +12828,102 @@ In the Bṛhaddevatā, describing his greatness — that Trita, the foremost amo
 — promptly knowing his praise, filled with knowledge and the power of knowledge, informed the other ṛṣis that this ṛṣi is full of greatness and is endowed with praise, and [made known] the mental pain of his wish to sacrifice. In Skandasvāmin's bhāṣya too" *(the passage continues on p. 474: "…his **yogaiśvarya**, the greatness")*
 
 ---
+### Page 474 (PDF 494)
 
-**Progress note:** Printed pp. 1–473 done (PDF 21–493): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.6 complete (pp. 441–471); Rik 105.7 (printed pp. 471–[?]): Saṃhitā, Pada, bhāṣya (with its tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun, ending mid-sentence at the foot of p. 473. Next: printed p. 474 (PDF 494). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 474; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+"— [Skandasvāmin's bhāṣya] also makes known his *yogaiśvarya*, the greatness of his yogic power. Such is the Trita, of excellent yogic power, who formerly pressed Soma and performed sacrifices, and who at that time offered exceedingly excellent hymns: these things are described in the Ṛk-saṃhitā itself. For example —
+
+> आदीं त्रितस्य योषणो हरिं हिन्वन्त्यद्रिभिः ।
+> *ād īṃ tritasya yoṣaṇo hariṃ hinvanty adribhiḥ |* (*Ṛ. Saṃ.* 9-32-2 as read [?])
+
+> भुवत्त्रितस्य मर्ज्यो भुवदिन्द्राय मत्सरः ।
+> *bhuvat tritasya marjyo bhuvad indrāya matsaraḥ |* (*Ṛ. Saṃ.* 9-34-4 as read [?])
+
+— in Ṛks such as these, the Soma pressed by Trita is described as having given Indra delight and as having increased his power; and in
+
+> स त्रितस्याधि सानवि पवमानो अरोचयत् ।
+> जामिभिः सूर्यं सह ॥
+> *sa tritasyādhi sānavi pavamāno arocayat | jāmibhiḥ sūryaṃ saha ‖* (*Ṛ. Saṃ.* 9-37-4 as read [?])
+
+— in Ṛks such as this, the pure Soma-juices pressed at Trita's sacrifice made the sun shine exceedingly; and in
+
+> अस्य सुवानस्य मन्दिनस्त्रितस्य न्यर्बुदं वावृधानो अस्तः ।
+> अवर्तयत्सूर्यो न चक्रं भिनद्वलमिन्द्रो अङ्गिरस्वान् ॥
+> *asya suvānasya mandinas tritasya ny arbudaṃ vāvṛdhāno astaḥ | avartayat sūryo na cakraṃ bhinad valam indro aṅgirasvān ‖* (*Ṛ. Saṃ.* 2-11-20 as read)
+
+> अनु त्रितस्य युध्यतः शुष्ममावन्नुत क्रतुम् ।
+> अन्विन्द्रं वृत्रतूर्ये ॥
+> *anu tritasya yudhyataḥ śuṣmam āvann uta kratum | anv indraṃ vṛtratūrye ‖* (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+— in Ṛks such as these it is described, copiously, that Indra, delighted by Trita's hymns and by drinking the Soma that he offered, gained an exceedingly great power and became able to destroy the Asuras, and that the Maruts and Indra too became able to slay Vṛtra and the like with the help of Trita's strength. Thus, now that he has by his own deeds pleased the deities and helped them in many ways, he reminds them [of it], and prays that they should help him when he is in trouble." *(Kannada.)*
+
+**Tṛṣṇajam** — *jātatṛṣṇam |* "the simile of a (deer) full of thirst is quite fitting here: he compares himself to the deer and the mental pains to the wolf."
+
+---
+
+### Page 475 (PDF 495)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 475.)*
+
+**Vyanti** — *vyadir atra khādanārthaḥ | khādanti |* "*vyanti* means 'they eat'; or, as Skandasvāmin explains, with the purport *udvegena mārayantīva*, 'as if they kill by agitation' — [mental distress may bring any to death]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.7)** *(grammar pages, pp. 475–476, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Asmi* (root *as bhuvi*; *laṭ*, first person singular, *mas*; *luk* of *śap*; *nighāta*). *Sute* (root *ṣuñ abhiṣave*; *niṣṭhā*, Pā. Sū. 3-2-102 as read [?], *kta* in the passive; *ṣ* → *s* initial; accent of the suffix, final acute; locative singular). *Vadāmi* (root *vada vyaktāyāṃ vāci*; *laṭ*, first person singular; because of the *yad*-connection there is no *nighāta*; since *śap* is *ścit*-like and *anudātta*, the root accent remains). *Vyanti* (root *vī gatyādiṣu*; *laṭ*, third person plural *jhi*; *ant* for *jh* by *jho 'ntaḥ*, Pā. Sū. 7-1-3 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; by the vārttika *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* and its plural wording, *yaṇ* rather than *iyaṅ*; *nighāta*). *Ādhyaḥ* (*ādhīyate manasi sthāpyate iti ādhiḥ*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, with the prefix *ā*; the suffix *ki* by *upasarge ghoḥ kiḥ*, Pā. Sū. 3-3-92 as read [?]; the name *ghu* by *dādhā ghv adāp*, Pā. Sū. 1-1-20 as read [?]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the form *ādhi*; before *jas*, since *guṇa* is optional in the Veda by *jasādiṣu chandasi vā vacanam*, Pā. Sū. 7-3-109 as read [?], *guṇa* does not arise and *yaṇ* is substituted; *svarita* by *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. Sū. 8-2-4 as read [?]). *Tṛṣṇajam* (root *tṛṣa pipāsāyām*; the suffix *najiṅ* by *svapitṛṣor najiṅ*, Pā. Sū. 3-2-172 as read [?]; *ṇatva* of the suffix's *n* by *raṣābhyāṃ no ṇaḥ samānapade*, Pā. Sū. 8-4-1 as read [?]; accusative singular; accent of the suffix. The Padakāra's view is: root *janī prādurbhāve*; by *anyeṣv api dṛśyate*, Pā. Sū. 3-2-101 as read [?], the word *dṛśi*, being general for all conditions, the suffix *ḍa* applies to the bare root *jan* as well; the loss of *ṭi* because of *ḍit*; *tṛṣṇā jātā yasya saḥ tṛṣṇajaḥ*; shortening of the final *ā* of the prior member by *ṅyāpoḥ saṃjñāchandasor bahulam*, Pā. Sū. 6-3-63 as read [?]; the accent of the prior member by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
+
+---
+
+### Page 476 (PDF 496)
+
+*(Running head: left 476; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+## Rik 105.8 — printed pp. 476–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.8)** *(metre: Mahābṛhatī Yavamadhyā, per the Sūkta's introduction)*
+
+> सं मा तपन्त्यभितः सपत्नीरिव पर्शवः ।
+> मूषो न शिश्ना व्यदन्ति माध्यः स्तोतारं ते शतक्रतो वित्तं मे अस्य रोदसी ॥ ८ ॥
+
+*saṃ mā tapanty abhitaḥ sapatnīr iva parśavaḥ | mūṣo na śiśnā vyadanti mādhyaḥ stotāraṃ te śatakrato vittaṃ me asya rodasī ‖ 8 ‖* *(accent-marks in the print not reproduced; "mādhyaḥ" is as printed in the Saṃhitā: *mā* + *ādhyaḥ*)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.8)**
+
+> सम् । मा । तपन्ति । अभितः । सपत्नीःऽइव । पर्शवः ।
+> मूषः । न । शिश्ना । वि । अदन्ति । मा । आऽध्यः । स्तोतारम् । ते । शतक्रतो इति शतऽक्रतो । वित्तम् । मे । अस्य । रोदसी इति ॥ ८ ॥
+
+*sam | mā | tapanti | abhitaḥ | sapatnīḥ-iva | parśavaḥ | mūṣaḥ | na | śiśnā | vi | adanti | mā | ā-dhyaḥ | stotāram | te | śatakrato iti śata-krato | vittam | me | asya | rodasī iti ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.8)**
+
+> इन्द्रप्रैषा । हे इन्द्र पर्शवः पार्श्वास्थीनि । अत्र सामर्थ्यात्कूपस्थानीययोः कूपभित्तियो मा मामभितः सर्वतः सं तपन्ति । सम्यक् पीडयन्ति । तत्र दृष्टान्तः । सपत्नीरिव । समान एकः पतिर्यासां ताः सपत्न्यो यथैकं पतिमभितः पीडयन्ति परस्परं वा पीड्यन्ते । हे शतक्रतो बहुविधकर्मन् बहुविधप्रज्ञ वेन्द्र ते तव स्तोतारं मामाध्यो मानस्यः पीडा व्यदन्ति । विविधं भक्षयन्ति । तत्र दृष्टान्तः । मूषो न । यथा मूषिका शिश्नानि कुविन्देन वायितान्यन्नरसेनालिप्तानि सूत्राणि भक्षयन्ति । यद्वा । शिश्नशब्देन प्रजननमेवोच्यते । तच्चोपचारात्पुच्छे वर्तते । यथा स्वकीयानि पुच्छानि घृततैलादिभाण्डे प्रक्षिप्योर्ध्वमुत्कृष्य व्यदन्ति । लिहन्तीत्यर्थः । एवं मामाधयो भक्षयन्ति । न चैतत् हे इन्द्र तव स्तोतुर्न्याय्यं । तस्मात्कूपान्मामुत्तारय । अस्यत्पूर्ववत् ॥
+> *indrapraiṣā | he indra parśavaḥ pārśvāsthīni | atra sāmarthyāt kūpasthānīyayoḥ kūpabhittiyo mā mām abhitaḥ sarvataḥ saṃ tapanti | samyak pīḍayanti | tatra dṛṣṭāntaḥ | sapatnīr iva | samāna ekaḥ patir yāsāṃ tāḥ sapatnyo yathaikaṃ patim abhitaḥ pīḍayanti parasparaṃ vā pīḍyante | he śatakrato bahuvidhakarman bahuvidhaprajña vendra te tava stotāraṃ mām ādhyo mānasyaḥ pīḍā vyadanti | vividhaṃ bhakṣayanti | tatra dṛṣṭāntaḥ | mūṣo na | yathā mūṣikā śiśnāni kuvindena vāyitāny annarasenāliptāni sūtrāṇi bhakṣayanti | yadvā | śiśnaśabdena prajananam evocyate | tac ca upacārāt puccha vartate | yathā svakīyāni pucchāni ghṛtatailādibhāṇḍe prakṣipyordhvam utkṛṣya vyadanti | lihantīty arthaḥ | evaṃ mām ādhayo bhakṣayanti | na caitat he indra tava stotur nyāyyaṃ | tasmāt kūpān mām uttāraya | asyatpūrvavat ‖*
+
+*(Sanskrit as read; "indrapraiṣā" at the head, the reading *pārśvāsthīni* and "ghṛtatailādi" are as read, with the first two slightly doubtful [?].)*
+
+"This is a prayer to Indra (*indrapraiṣā*). O Indra, the *parśavaḥ*, the side-bones (ribs): here, by implication, the walls of the well, standing in the place of the well, press me (*mā saṃ tapanti*) from all around (*abhitaḥ*), squeeze me closely. The illustration: like co-wives (*sapatnīr iva*) — women who have a common one husband — who press [him] on all sides, or press one another. O Śatakratu, O doer of many kinds of deeds, O wise in many ways, O Indra: me, your praiser, mental pains (*ādhyaḥ*) devour (*vyadanti*), eat in various ways. The illustration: like a rat (*mūṣo na*): as a rat eats the threads woven by the weaver, smeared with the juice of food; or else — by the word *śiśna* the generative organ is meant; and by transfer it stands for the tail; as [a rat] lets its own tail down into a pot of ghee, oil and the like, draws it up and licks it. In this way mental pains devour me. And this is not just for you, Indra, to do to your praiser: therefore bring me up from the well. [The rest is] as before."
+
+---
+
+### Page 477 (PDF 497)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 477.)*
+
+**॥ सायणभाष्यम् ॥ (Rik 105.8), concluded**
+
+> अत्र निरुक्तम् । संतपन्ति मामभितः सपत्न्य इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्माकानि सूत्राणि व्यदन्ति । स्वाङ्गाभिधानं वा स्यात् । शिश्नानि व्यदन्तीति । नि. ५-६ [?] । इति । सपत्नीः । नित्यं सपत्न्यादिषु । ४-१-३५ [?] । इति पतिशब्दस्य नकारान्तादेशः । जसः । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । मूषः । मुष स्तेये । कि पि छान्दसो दीर्घः । तथा च यास्कः । मूषो मूषिका इत्यर्थो मूषिकाः पुनर्मुष्णातेर्मूषोऽप्येतस्मादेव । नि. ५-३ [?] । इति । शिश्ना । श्ना शौचे । घ इदर्थे कविधानं स्थास्नापाव्यधिहनियुध्यर्थमिति कः । वर्णव्यापत्त्या सकारस्य शकारः । कृञादीनां के द्वे भवत इति वक्तव्यम् । का. ६-१-१२ [?] । इति द्विर्वचनं । बहुलं छन्दसीत्यभ्यासस्येत्वं ॥
+> *atra niruktam | saṃtapanti mām abhitaḥ sapatnya ivemāḥ parśavaḥ kūpaparśavo mūṣikā ivāsmākāni sūtrāṇi vyadanti | svāṅgābhidhānaṃ vā syāt | śiśnāni vyadantīti | ni. 5-[?] | iti | sapatnīḥ | nityaṃ sapatnyādiṣu | 4-1-[?] | iti patiśabdasya nakārāntādeśaḥ | jasaḥ | vā chandasīti pūrvasavarṇadīrghatvaṃ | mūṣaḥ | muṣa steye | ki pi chāndaso dīrghaḥ | tathā ca yāskaḥ | mūṣo mūṣikā ity artho mūṣikāḥ punar muṣṇāter mūṣo 'py etasmād eva | ni. 5-[?] | iti | śiśnā | śnā śauce | gha idarthe kavidhānaṃ sthāsnāpāvyadhihaniyudhyartham iti kaḥ | varṇavyāpattyā sakārasya śakāraḥ | kṛñādīnāṃ ke dve bhavata iti vaktavyam | kā. 6-1-[?]2 | iti dvirvacanaṃ | bahulaṃ chandasīty abhyāsasyetvaṃ ‖* *(Sanskrit as read; the quotation of Yāska is as printed, and numerals are doubtful [?]; the grammatical tail is short and is given.)*
+
+"Here the Nirukta says: 'These ribs, the ribs of the well, press me on all sides like co-wives; like rats they eat our threads' — or it may be a mention of one's own limbs: 'they eat the *śiśna*s [?]' (*Ni.* 5-[?])." The tail: *sapatnīḥ* (the substitution of *-n* for the end of *pati* in *sapatnī* by *nityaṃ sapatnyādiṣu*; the plural *jas*; the optional lengthening to the earlier similar vowel); *mūṣaḥ* (root *muṣa steye*; the suffix *ki*/*pi*; the Vedic long *ū*; Yāska: '*mūṣa* means a mouse; mice again from *muṣṇāti*; *mūṣa* too from the same'); *śiśnā* (root *śnā śauce*; the suffix *ka*; the change *s* → *ś*; the doubling by the rule *kṛñādīnāṃ ke dve bhavataḥ*; the *i* of the reduplicate by *bahulaṃ chandasi*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.8; Kannada; English)**
+
+*Parśavaḥ* — (O Indra) the side-stones of this well; *mā* — me; *abhitaḥ* — all around; *sapatnīr iva* — as co-wives [crowd and] press the husband; *saṃ tapanti* — press [me] mightily; *śatakrato* — O Indra, of manifold deeds or manifold wisdom; *te* — your; *stotāram* — praiser, devoted [me]; *ādhyaḥ* — mental pains; *mūṣaḥ* — a rat; *śiśnā* — (as it gnaws) the thread that lies in the weaver's loom, or (as it licks) its own tail that is dipped in ghee and the like; *vyadanti* — [they] eat in many ways; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or sorrow; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra, as co-wives crowd round their husband on all sides and torment him, the side-stones of this well crowd round me and press me on every side. O Indra of manifold deeds, mental pains eat me, your devotee, in many ways, as a rat gnaws the thread laid in the weaver's loom, or as it licks its own tail dipped in ghee and the like. O Heaven and Earth, know well this sorrow of mine, hear my hymn and lift me up out of the sorrow.
+
+---
+
+**Progress note:** Printed pp. 1–477 done (PDF 21–497): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.7 complete (pp. 441–476); Rik 105.8 (printed pp. 476–[?]; the Mahābṛhatī Yavamadhyā Ṛk): Saṃhitā, Pada, bhāṣya (with its tail), Pratipadārtha and Bhāvārtha done (pp. 476–477). Next: printed p. 478 (PDF 498): the printed English, Special Topics and grammar of 105.8, then Rik 105.9. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
