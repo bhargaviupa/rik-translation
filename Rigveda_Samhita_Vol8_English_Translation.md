@@ -11645,5 +11645,105 @@ Grammar pages, noted briefly. *Sūrye* (*sarati ākāśe iti sūryaḥ*, root *s
 The grammar of Rik 104.6 continues and concludes (noted briefly). *Bhaja* (root *bhaja sevāyām*; *loṭ*, second person singular; *nighāta* of the finite verb). *Jīvaśaṃse* (root *śaṃs stutau*; *ghañ* in the passive: *jīvaiḥ śaṃsanīya iti jīvaśaṃsaḥ*; final acute of the latter member by *thāthaghañktājabitrāṇām*, Pā. Sū. 6-2-144 as read [?]; locative singular). *Bhujam* (*bhunakti pālayati iti bhuk — prajā*; root *bhuja pālanābhyavahārayoḥ*; *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; accusative singular). *Rīriṣaḥ* (root *riṣ hiṃsāyām*; *ṇic* in its own sense; *luṅ*, *sip*; *itaś ca*; *caṅ* by *ṇiśri-dru-srubhyaḥ kartari caṅ*, Pā. Sū. 3-1-48 as read [?]; reduplication of the root with a single vowel, *caṅi*, Pā. Sū. 6-1-11 as read [?]; *ādi-hal-śeṣa*; loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the shortening of the penult by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. Sū. 7-4-1 as read [?], and the rule that *i* is lengthened for the reduplicate by *sanvallaghuni…*, 7-4-93, and *dīrgho laghoḥ*, 7-4-94, as read [?]; the Vedic form of the shortening; *ru*-visarga; *nighāta*). *Śraddhitam* (*śrat* in the *ūryādi* class takes the *gati* name by *ūryādicviḍācaś ca*, Pā. Sū. 1-4-61 as read [?]; the root *dhā* with *kta*; *hi* by *dadhāter hiḥ*, Pā. Sū. 7-4-42 as read [?]; *hita*; accent of the prior member by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]). *Mahate* (*mahat*; the fourth-case ending is acute by the vārttika *bṛhanmahator upasaṃkhyānam*). *Indriyāya* (*indrasya liṅgam indriyam*; formed as a *nipātana* with the suffix *gha*, by *indriyam indraliṅgam indradṛṣṭam…*, Pā. Sū. 5-2-93 as read [?]). The Rik is closed with *‖ 6 ‖* and a rule of dashes.
 
 ---
+## Rik 104.7 — printed pp. 426–429
 
-**Progress note:** Printed pp. 1–425 done (PDF 21–445): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.6 complete (pp. 395–425). Next: Rik 104.7 begins at printed p. 426 (PDF 446); then Riks 104.8–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 426 (PDF 446)
+
+*(Running head: left 426; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.7)**
+
+> अधा मन्ये श्रत्ते अस्मा अधायि वृषा चोदस्व महते धनाय ।
+> मा नो अकृते पुरुहूत योनाविन्द्र क्षुध्यद्भ्यो वय आसुतिं दाः ॥ ७ ॥
+
+*adhā manye śratte asmā adhāyi vṛṣā codasva mahate dhanāya | mā no akṛte puruhūta yonāv indra kṣudhyadbhyo vaya āsutiṃ dāḥ ‖ 7 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.7)**
+
+> अध । मन्ये । श्रत् । ते । अस्मै । अधायि । वृषा । चोदस्व । महते । धनाय ।
+> मा । नः । अकृते । पुरुऽहूत । योनौ । इन्द्र । क्षुध्यत्ऽभ्यः । वयः । आऽसुतिम् । दाः ॥ ७ ॥
+
+*adha | manye | śrat | te | asmai | adhāyi | vṛṣā | codasva | mahate | dhanāya | mā | naḥ | akṛte | puru-hūta | yonau | indra | kṣudhyat-bhyaḥ | vayaḥ | ā-sutim | dāḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.7)**
+
+> हे इन्द्र अधाथानन्तरं मन्ये । त्वां मनसा जानामि । ते तवास्मै बलाय श्रद्धधायि । अस्माभिः श्रद्धा कृता । त्वदीयबलविषयमादरातिशयेन स्तोत्रं कृतमित्यर्थः । वृषा कामानां वर्षिता स त्वं महते प्रौढाय धनाय चोदस्व । चोदय । अस्मान् प्रेरय । हे पुरुहूत पुरुभिर्बहुभिर्यजमानैराहूतेन्द्र । अकृतेऽनिष्पादिते [?] धनशून्ये योनौ । गृहनामैतत् । गृहे नोऽस्माकं मा धाः । निधेहि । धनधान्यपूर्णे गृहेऽस्मान्स्थापयेत्यर्थः [?] । अपि च हे इन्द्र क्षुध्यद्भ्यो बुभुक्षुभ्योऽस्मभ्योऽपि स्तोतृभ्यो वयोऽन्नमासुतिं पेयं क्षीरादिकं च दाः । देहि ॥ अधायि । दधातेः कर्मणि लुङि च्लेश्चिण् । आतो युक् चिण्कृतोरिति युक् । क्षुध्यद्भ्यः । क्षुध बुभुक्षायाम् । दिवादित्वात् श्यन् । नित्त्वादाद्युदात्तत्वम् ॥
+> *he indra adhāthānantaraṃ manye | tvāṃ manasā jānāmi | te tavāsmai balāya śraddhadhāyi | asmābhiḥ śraddhā kṛtā | tvadīyabalaviṣayam ādarātiśayena stotraṃ kṛtam ity arthaḥ | vṛṣā kāmānāṃ varṣitā sa tvaṃ mahate prauḍhāya dhanāya codasva | codaya | asmān eraya [read: preraya] | he puruhūta purubhir bahubhir yajamānair āhūtendra | akṛte 'niṣpādite [?] dhanaśūnye yonau | gṛhanāmaitat | gṛhe no 'smākaṃ mā dhāḥ | nidhehi | dhanadhānyapūrṇe gṛhe 'smān sthāpayety arthaḥ [?] | api ca he indra kṣudhyadbhyo bubhukṣubhyo 'smabhyo 'pi stotṛbhyo vayo 'nnam āsutiṃ peyaṃ kṣīrādikaṃ ca dāḥ | dehi ‖ adhāyi | dadhāteḥ karmaṇi luṅi cleś ciṇ | āto yuk ciṇkṛtor iti yuk | kṣudhyadbhyaḥ | kṣudha bubhukṣāyām | divāditvāt śyan | nittvād ādyudāttatvam ‖* *(Sanskrit as read; the words "śraddhadhāyi" [as printed: "śradadhāyi"], "aniṣpādite" and the last clause of the "dhana-dhānya" sentence are doubtful [?].)*
+
+"O Indra, *adha* — thereafter — *manye*: I know you in my mind. For this strength of yours (*te asmai*) faith has been placed (*adhāyi*): faith has been set by us; the meaning is that a praise has been made with the highest regard for your strength. You, the *vṛṣā*, the showerer of desires, *codasva*: urge us, impel us, towards great, ample wealth. O Puruhūta, called by many sacrificers, O Indra: in a house (*yoni* — this is a name for 'house') that is unprepared, empty of wealth, do not place us; set us in a house full of wealth and grain — so the meaning. And further, O Indra, to us who are hungry (*kṣudhyadbhyaḥ*, those who wish to eat), your praisers, give *vayaḥ* (food) and *āsuti* (what is to be drunk: milk and the like): give."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)** *(p. 427)*
+
+### Page 427 (PDF 447)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 427.)*
+
+*Indra* — O Indra; *adha* — immediately; *manye* — (your) contemplation I make; *te* — your; *asmai* — to this strength; *śrat adhāyi* — a devotion borne with faith is offered; *vṛṣā* — you who rain down (the desired things); *mahate* — exceedingly great; *dhanāya* — for wealth; *codasva* — (that we may be sharers) urge [us] (help [us]); *puruhūta* — O Indra, called by many; *akṛte* — devoid of wealth; *yonau* — in a house; *naḥ* — us; *mā* — do not place (again); *kṣudhyadbhyaḥ* — also to other devotees who languish with hunger; *vayaḥ* — food; *āsutim* — milk and the like; *dāḥ* — give.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra, I make contemplation of you even now. In your strength I put faith and offer devotion. Help us, that we may obtain exceedingly great wealth, as you rain down what is desired. O Indra, called by many, do not place us in a house devoid of wealth. And as you give to us, give also to the other devotees who languish with hunger food, milk and the like.
+
+**English Translation (as printed in the source)**
+
+"Hence, Indra, I meditate on you ; on this (your power) has our trust been placed : shower[er] (of benefits), direct us to great wealth ; consign us not, you who are invoked by many, to a destitute dwelling ; give, Indra, food and drink to the hungry." *(The scan prints "shower"; the word "showerer" is partly lost at the line end [?]. The source prints "Hence, Indra, I meditate on you".)*
+
+**॥ विशेषविषयगळು ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.7)**
+
+**Adha** — "'thereafter', or, in the sense of 'with the faith [expressed] in the previous Ṛk, or together with faith' — either meaning can be taken."
+
+**Manye** — *tvāṃ manasā jānāmi |* "'I know you in my mind' — that is, I contemplate your greatness in my mind; and *asmai śrat adhāyi*: devotion borne with faith is offered to this strength of yours" — so Sāyaṇa; and (Skandasvāmin) —
+
+> अधशब्दोऽत्र पदपूरणः अपि चेत्यस्य वा स्थाने । अपि च मन्ये श्रत् । मन्यते इति कान्तिकर्मा । श्रदित्यपि सत्यनाम । सत्यमिदं कामयेऽहम् ।
+> *adhaśabdo 'tra padapūraṇaḥ api cety asya vā sthāne | api ca manye śrat | manyate iti kāntikarmā | śrad ity api satyanāma | satyam idaṃ kāmaye 'ham |* *(as read; Skandasvāmin's wording not completed from memory [?])*
+
+— "the word *adha* here is a mere filler, or stands in place of *api ca* ('and also'). *Śrat* means 'truth'. *Manyate* is read among the verbs of desire. The sense is 'I truly desire'. But then the expectation arises: 'what?' Then, by implication, [the answer is] *somādi haviḥ*, the oblations such as Soma-juice: 'I truly desire to offer the oblations of Soma and the rest', is the purport, as Skandasvāmin also explains. Knowing this faith and devotion of mine, impel [us] to be sharers in exceedingly great wealth: so the prayer is made." (Kannada.)
+
+---
+
+### Page 428 (PDF 448)
+
+*(Running head: left 428; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+
+The first lines of p. 428 conclude the passage above ("…[the sense is] that I truly desire it").
+
+**Akṛte** — *aniṣpādite dhanaśūnye |* "devoid of wealth, [or] *asaṃskṛte*, unprepared, unsuitable" (Kannada: "bereft of wealth, or unfit").
+
+**Yonau** — *gṛhe |* "in a house. The usages of the word *yoni* in the various senses are to be learned from the Special Topics of the one Ṛk of this very Sūkta [?]" (Kannada: "the first Ṛk of this Sūkta"). In
+
+> दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै ।
+> *durokaśociḥ kratur na nityo jāyeva yonāv araṃ viśvasmai |* (*Ṛ. Saṃ.* 1-66-3 as read [?])
+
+"— in Ṛks such as this, as the word *yoni* means 'house', so here too it is 'house': a prayer not to make us dwell in a house that is unprepared and unfit for sacrifice." (Kannada.)
+
+**Āsutim** — *peyaṃ kṣīrādikam |* "what is to be drunk: cow's milk and the like — that is, juices to drink."
+
+> त्वया मर्तासः स्वदन्त आसुतिं त्वं गर्भो वीरुधां जज्ञिषे शुचिः ।
+> *tvayā martāsaḥ svadanta āsutiṃ tvaṃ garbho vīrudhāṃ jajñiṣe śuciḥ |* (*Ṛ. Saṃ.* 3-1-1[?] as read [?])
+
+"In Ṛks such as these, the word *āsuti* means that which is pressed out and juicy: milk and the like, food and drink — so the prayer to Indra is: give all this." (Kannada.)
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.7)** *(grammar pages, pp. 428–429, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Adhā* (from *atha*, with *th* → *dh* by *varṇavyatyaya*; the lengthening in the Saṃhitā by *nipātasya ca*, Pā. Sū. 6-3-136 as read [?]). *Manye* (root *mana jñāne*, *divādi*; *laṭ*, first person singular; *nighāta*). *Adhāyi* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ*, passive, third person singular *ta*; *ciṇ* for *cli* by *ciṇ bhāvakarmaṇoḥ*, Pā. Sū. 3-1-66 as read [?]; the *yuk* augment after a root in *ā* by *āto yuk ciṇkṛtoḥ*, Pā. Sū. 7-3-33 as read [?]; *luk* of *ta* by *ciṇo luk*, Pā. Sū. 6-4-104 as read [?]; the *aṭ* augment; the form *adhāyi*; *nighāta* since a verb follows a non-verb)
+
+---
+
+### Page 429 (PDF 449)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 429.)*
+
+The grammar of Rik 104.7 concludes (noted briefly). *Codasva* (root *cuda preraṇe*; *loṭ*, second person singular *thās*; *se* substituted; *e* → *va* by *sa-vābhyāṃ vāmau*, Pā. Sū. 3-4-91 as read [?]; *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], by which *śap* is both *ārdhadhātuka* and *sārvadhātuka*; loss of *ṇic* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; *nighāta*). *Akṛte* (*na kṛtam akṛtam*, in that [locative]; the negative *tatpuruṣa* compound; the *avyaya* prior member keeps its own accent by *tatpuruṣe tulyārthatṛtīyā…*, Pā. Sū. 6-2-2 as read [?]). *Kṣudhyadbhyaḥ* (root *kṣudha bubhukṣāyām*; the suffix *śatṛ* in the sense of *laṭ*; *śyan* as the *vikaraṇa* by *divādibhyaḥ śyan*, Pā. Sū. 3-1-69 as read [?]; the form *kṣudhyat*; fourth case plural; since *śyan* is *nit*, by *ñnityādir nityam* the initial syllable is acute). *Dāḥ* (root *ḍudāñ dāne*; already explained in the fifth Mantra of this same Sūkta). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
+
+## Rik 104.8 — printed pp. 429–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.8)** *(at the foot of p. 429)*
+
+> मा नो वधीरिन्द्र मा परा दा मा नः प्रिया भोजनानि प्र मोषीः ।
+> आण्डा मा नो मघवञ्छक्र निर्भेन्मा नः पात्रा भेत्सहजानुषाणि ॥ ८ ॥
+
+*mā no vadhīr indra mā parā dā mā naḥ priyā bhojanāni pra moṣīḥ | āṇḍā mā no maghavañ chakra nir bhen mā naḥ pātrā bhet sahajānuṣāṇi ‖ 8 ‖* *(accent-marks in the print not reproduced; "sahajānuṣāṇi" as printed, to be checked against the Pada on p. 430 [?])*
+
+---
+
+**Progress note:** Printed pp. 1–429 done (PDF 21–449): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.7 complete (pp. 395–429); Rik 104.8 (printed pp. 429–[?]): Saṃhitā only, at the foot of p. 429. Next: printed p. 430 (PDF 450): the Pada of 104.8, then its bhāṣya etc.; then Rik 104.9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
