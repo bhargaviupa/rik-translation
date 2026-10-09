@@ -21875,5 +21875,101 @@ A king named Śaryāta, having lost his strength in battle and being unable to b
 > *(Sanskrit as read from the Kannada-script print, in three layers as far as legible; I have not completed the clotted places [?] from memory, and I give no English rendering beyond the Kannada's own sense, which follows on p. 801.)*
 
 ---
+### Page 801 (PDF 821)
 
-**Progress note:** Printed pp. 1–800 done (PDF 21–820): Sūkta 112: Riks 112.1–112.16 complete (pp. 723–798); Rik 112.17 (printed pp. 798–[?]): Saṃhitā (with a recorded reading correction), Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (patharvā, ajman, śaryātam) begun, ending at the foot of p. 800 inside the Śatapatha Brāhmaṇa passage on Śaryāta/Cyavana (crowded print, partly clotted [?]); the Kannada account of it follows on p. 801. Next: printed p. 801 (PDF 821). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 801. At the foot, the printer's signature "51 / VOLUME 8" — noted only.)*
+
+*(The Śatapatha passage on Śaryāta concludes:)*
+
+> यत्रर्षिरास तत् । स होवाच । ऋषे समस्त्वे [?] येन्नान्वेदिषं तेनाहिंसिषमियं सुकन्या तयाऽसि पहन्वे सञ्जानीतां मे ग्राम इति तस्मै ह ते त एव ग्रामः सञ्जज्ञे स ह ते त एव शर्यातो मानव उद्मैयुयुजे नेदसरं हिनसानीति ॥
+> *yatrarṣir āsa tat | sa hovāca | ṛṣe samastve [?] yen nānvediṣaṃ tenāhiṃsiṣam iyaṃ sukanyā tayāsi pahanve [?] sañjānītāṃ me grāma iti tasmai ha te ta eva grāmaḥ sañjajñe sa ha te ta eva śaryāto mānava udmaiyuyuje nedasaraṃ hinasānīti ‖*
+> (*Śa. Brā.* 4-1-5-1 to 8 as read [?])
+> *(Sanskrit as read from the print; the passage is clotted, and I give it only as far as read, marking the doubtful words [?]. Sense, from the Kannada: "…where the ṛṣi was. He said, 'O ṛṣi, whatever I did not know, by that I have harmed [you]; here is this Sukanyā: through her may my village be reconciled': so for him that village became reconciled; and Śaryāta Mānava [went away], thinking, 'let me not harm [them] again.'")*
+
+The Kannada gives the sense thus: "While Bhṛgus (or Aṅgirases) were gaining the heavenly world, Cyavana — born of the Bhṛgu line (or the Aṅgirasa line) — was left in the world of earth, his body worn out with age and shrunk to the form of a ghost [*bhūtākāra*]. At that time Śaryāta, with all his retinue, camped at a place near where Cyavana was. Young boys of his retinue, thinking him a lifeless object, threw clods at Cyavana and played about. Cyavana was angered and wished to curse them: among them mutual friendship disappeared, and all began to quarrel — brothers and brothers, fathers and sons — and enmity grew. Śaryāta, thinking this calamity must be the fruit of some sin of his own, called the cowherds and asked, 'Has anyone of you seen anything strange in this place?' They said, 'There is a figure like a ghost lying near, and all the boys, thinking him lifeless, threw clods'; Śaryāta understood that it was Cyavana. At once he took his daughter Sukanyā in his chariot, went to Cyavana, begged forgiveness for what his men had done, and prayed that, by the gift of Sukanyā, he be pleased and that all his people live in mutual friendship and peace. Cyavana, being pleased, freed them from the curse, and they obtained peace. Śaryāta, fearing that if he stayed there his people might do such a thing again, left that place."
+
+Śaryāta, born in this line, is renowned as the seer of the thirty-first [?] *sūkta* of the first Maṇḍala [as read; "1-[?]"], and as a distinguished royal sage.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.17)** *(grammar pages, pp. 801–802, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Ādīdet*: the root *dīdhī* is Vedic, used in the sense of shining; *laṅ*, third-person singular, *tip*; the *i* is dropped by *itaś ca* (*pā.* 3-4-100 as read [?]); *luk* for *śap*; the augment *aṭ*; since *yad* is connected, the *nighāta* does not arise; since the augment is *udātta*, the first syllable is *udātta*. *Iddhaḥ*: root *iñdhī dīptau*; the suffix *kta*; by *anidītāṃ hala upadhāyāḥ kṅiti* (*pā.* 6-4-24 as read [?]) loss of the penultimate nasal; by the suffix-accent it ends in *udātta*.
+
+---
+
+### Page 802 (PDF 822)
+
+*(Running head: left 802; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Ajman*: root *aja gatikṣepaṇayoḥ*; 'in which they go or throw arrows' = *ajma*; in the sense of the location (*adhikaraṇa*) the Uṇādi suffix *manin*; though *vī*-substitution would be reached by *ajer vyaghañapoḥ* (*pā.* 2-4-56 as read [?]), by the *vārttika valādāv ārdhadhātuke vikalpa iṣyate* (*pā.* 2-4-56-3 as read [?]) it does not occur; the locative following, *luk* by *supāṃ suluk* (*pā.* 7-1-39 as read [?]). *Avathaḥ*: root *av rakṣaṇe*; *laṭ*, second-person dual, *thas*; the sign *śap*; since *yad* is connected, no *nighāta*; since *śap* is *pit*, it is *anudātta*; since *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?]) the sārvadhātuka after a root of the *adupadeśa* class is *anudātta*, the root-accent remains. *Mahādhane*: *mahat* with *dhana* as the following member; by *āṅmahataḥ samānādhikaraṇajātīyayoḥ* (*pā.* 6-3-46 as read [?]) the substitute *mahā*; by the compound-accent it ends in *udātta*; locative singular. ‖ 17 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.17.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.18)** *(accent-marks not reproduced)*
+
+> याभिरङ्गिरो मनसा निरण्यथोऽग्रं गच्छथो विवरे गोअर्णसः ।
+> याभिर्मनुं शूरमिषा समावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ १८ ॥
+> *yābhir aṅgiro manasā niraṇyatho 'graṃ gacchatho vivare goarṇasaḥ |*
+> *yābhir manuṃ śūram iṣā samāvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 18 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.18)**
+
+> याभिः । अङ्गिरः । मनसा । निःऽरण्यथः । अग्रम् । गच्छथः । विऽवरे । गोऽअर्णसः ।
+> *yābhiḥ | aṅgiraḥ | manasā | niḥ-raṇyathaḥ | agram | gacchathaḥ | vi-vare | go-arṇasaḥ |*
+> *(continues on p. 803)*
+
+---
+
+### Page 803 (PDF 823)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 803.)*
+
+> याभिः । मनुम् । शूरम् । इषा । सम् । आवतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १८ ॥
+> *yābhiḥ | manum | śūram | iṣā | sam | āvatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 18 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.18)**
+
+> अङ्गिर इत्येतदामन्त्रितं वाक्याद्विभिर्भूतम् । तेन चात्मानं सम्बोध्य स्तोतावृषिं प्रेरयतीति । हे अङ्गिरोऽङ्गिरसां गोत्रज त्वमश्विनौ स्तुहि । हे अश्विनौ मनसा मननीयेन स्तोत्रेण प्रीतौ सन्तौ युवां याभिरूतिभिर्निरण्यथः । स्तोत्रॄन् नितरां रमयथः । यद्वा । मनसैव करणभूतेन रमयथः । तथा गोअर्णसः । गोरूपस्यार्णसो गोरूपस्यारणीयस्य धनस्य पणिभिर्गुहायां निहितस्य विवरे विवरणे गुहाद्वारस्योद्घाटनेन प्रकाशने विषयभूते सति याभिरूतिभिः सह युवामग्रं सर्वेभ्यो देवेभ्यः पुरस्ताद्गच्छथः । अपि च शूरं वीर्यवन्तं मनुमिषा पृथिव्यामुप्तेन यवादिधान्यरूपेणान्नेन याभिरूतिभिः समावतं सम्यगरक्षतम् । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ निरण्यथः । निरमयेथ इत्यस्य वर्णव्यापत्त्या [?] छान्दसं रूपम् । विवरे । ग्रहवृदृनिश्चिगमश्च [?] इति भावेऽप् । थाथादिनोत्तरपदान्तोदात्तत्वम् ॥
+> *aṅgira ity etad āmantritaṃ vākyād dvirbhūtam | tena cātmānaṃ sambodhya stotāvṛṣiṃ prerayatīti | he aṅgiro 'ṅgirasāṃ gotraja tvam aśvinau stuhi | he aśvinau manasā mananīyena stotreṇa prītau santau yuvāṃ yābhir ūtibhir niraṇyathaḥ | stotṝn nitarāṃ ramayathaḥ | yadvā | manasaiva karaṇabhūtena ramayathaḥ | tathā goarṇasaḥ | gorūpasyārṇaso gorūpasyāraṇīyasya dhanasya paṇibhir guhāyāṃ nihitasya vivare vivaraṇe guhādvārasyodghāṭanena prakāśane viṣayabhūte sati yābhir ūtibhiḥ saha yuvām agraṃ sarvebhyo devebhyaḥ purastād gacchathaḥ | api ca śūraṃ vīryavantaṃ manum iṣā pṛthivyām uptena yavādidhānyarūpeṇānnena yābhir ūtibhiḥ samāvataṃ samyag arakṣatam | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ niraṇyathaḥ | niramayetha ity asya varṇavyāpattyā [?] chāndasaṃ rūpam | vivare | grahavṛdṛniścigamaś ca [?] iti bhāve ap | thāthādinottarapadāntodāttatvam ‖*
+
+*(Sanskrit as read; the words marked [?] in the tail are clotted in the print.)*
+
+"'*Aṅgiraḥ*': this is a vocative, doubled in the sentence [= the sentence is addressed], and by it the seer-praiser addresses himself and urges himself: 'O Aṅgiras! — born in the line of Aṅgirases — praise the two Aśvins.' O Aśvins! delighted by *manasā*, a hymn fit for thought, with whichever protections you *niraṇyathaḥ*, [you] greatly please the praisers. Or else: you please [them] by thought alone as the instrument. And likewise *goarṇasaḥ*: of the cow-formed *arṇas*, the cow-formed wealth to be gained, hidden by the Paṇis in a cave: *vivare*, when its making known by opening the cave's door is the occasion, with whichever protections you *agraṃ gacchathaḥ*, go in front of all the gods. And further: *śūram*, Manu, the heroic: *iṣā*, with food in the form of grain such as barley, sown on the earth, with whichever protections you *samāvatam*, protected well. With all those protections come to us also."
+
+*Grammatical tail (short; partly clotted [?]):* *niraṇyathaḥ*: a Vedic form for *niramayethaḥ* [with irregularity of the letters [?]]. *Vivare*: the suffix *ap* in the abstract sense by *grahavṛdṛniścigamaś ca* [?]; the accent on the final syllable of the second member.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.18; Kannada; English)**
+
+*Aṅgiraḥ* — O Aṅgiras [praise the Aśvin deities in hymns]; *aśvinā* — O Aśvin deities, gratified by hymns that give satisfaction to the mind; *yābhiḥ* — by whichever of your protections; *niraṇyathaḥ* — you delight [your praisers] (or [*manasā* — with your satisfied minds]; *yābhiḥ* — by whichever protections; *niraṇyathaḥ* — you rejoice [so]); *goarṇasaḥ* — the cow-formed wealth, hidden by the Paṇis in caves; *vivare* — at the time of revealing; *yābhiḥ* — with whichever protections; *agram* — before all the gods; *gacchathaḥ* — you went; (and) *śūram* — the heroic; *manum* — Manu; *iṣā* — with food in the form of grain; *yābhiḥ* — with whichever helps; *samāvatam* — you fully protected; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come willingly.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aṅgiras, praise the Aśvin deities. O Aśvin deities! with whichever of your helps you please the praiser who praises you; and when the Paṇis had hidden cow-formed wealth in a cave, with whichever of your helps you, before all the other gods, entered the mouth of the cave and helped to bring the stolen wealth to light — *(the Bhāvārtha runs on to p. 804)*
+
+---
+
+### Page 804 (PDF 824)
+
+*(Running head: left 804; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The Bhāvārtha concludes:)* "…to bring the stolen wealth to light; and with whichever protections you fully protected the heroic Manu by giving him food in the form of grain: with all those protections of yours come to us also, with favour."
+
+**English Translation (as printed in the source; Rik 112.18)**
+
+"Angiras, (praise the Aswins,); Aswins, with those aids by witch [sic] (gratified) minds, you delight (in praise), and thence preceded the gods to the cavern to recover the stolen cattle; by which you sustained the heroic Manu with food; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.18)**
+
+**अङ्गिरः — Aṅgiraḥ.** *aṅgirasāṃ gotraja tvam aśvinau stuhi* — "O one born in the line of the Aṅgirases, praise the Aśvins": the seer of the sūkta, addressing himself, says: 'O descendant of the Aṅgirases, praise the Aśvin deities.' So Sāyaṇa; and Skandasvāmi: *soʼyam ity abhisambandhād aṅgirasaḥ saṃbaddhād aśvinau ucyete | vyatyayena ca dvivacanasya sthāne ekavacanam* — 'by the association "that is this one", [the word *aṅgiras*] is said of the two Aśvins, related to the Aṅgirases; and by *vyatyaya* the singular is in the place of the dual.' As said in the context close by — 'he is this one' [explaining] the relation [of the Aśvins] — here too, since there is a connection between the praisers, the Aṅgirases, and the Aśvin deities, the usage '*aṅgiraḥ*' is applied to the Aśvin deities; that the singular is used in place of the dual is Vedic, Skandasvāmi too points out.
+
+**गोअर्णसः — Goarṇasaḥ.** *gorūpasyāraṇīyasya dhanasya paṇibhir guhāyāṃ nihitasya* — "of the cow-formed wealth, to be gained, hidden by the Paṇis in a cave": thus Sāyaṇa; and Skandasvāmi: *gotro 'tra gamer kriyāśabdaḥ gamanārthavacanaḥ | arṇa ity udakanāma prābhūtyāt sasyasampattikaratvāc ca gamanārham udakaṃ yasya sa goarṇā meghaḥ tasya* — "*go* here is a verbal word from *gam*, 'to go'; *arṇa* is a name for water; [the one] whose water, abundant and the cause of the prosperity of crops, is fit for motion: that is *goarṇāḥ*, the cloud; of it." The word *arṇa* is read among the names of water. Since the cloud has abundant water, which is the cause of the prosperity of crops and fit to move, it is called *goarṇa*; therefore Skandasvāmi explains that here *goarṇasaḥ* means 'of the cloud'.
+
+**निरण्यथः — Niraṇyathaḥ.** *niramayatha* — "you gave delight; you gave satisfaction." The Nirukta-writers, to show that for the root *ram* the form *raṇat* is derived through a Vedic substitution of *ṇatva*, and that forms such as *rāraṇa* are so produced, cite the Ṛk:
+
+> नाहमिन्द्राणि रारण सख्युर्वृषाकपेर्ऋते ।
+> *nāham indrāṇi rāraṇa sakhyur vṛṣākaper ṛte |*
+> (*Ṛ.* 10-86-[?] as read [?]; the numeral is doubtful [?])
+> *(Sanskrit as read; no gloss attempted.)*
+
+---
+
+**Progress note:** Printed pp. 1–804 done (PDF 21–824): Sūkta 112: Riks 112.1–112.17 complete (pp. 723–802); Rik 112.18 (printed pp. 801–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (aṅgiraḥ, goarṇasaḥ, niraṇyathaḥ) begun, ending at the foot of p. 804 after the Ṛg citation *nāham indrāṇi rāraṇa…*. Next: printed p. 805 (PDF 825). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
