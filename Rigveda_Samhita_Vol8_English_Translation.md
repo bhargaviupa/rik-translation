@@ -21239,5 +21239,132 @@ When the group of demons called Paṇi carried off the cows, the divine herdsmen
 > *(Sanskrit as read; no gloss attempted.)*
 
 ---
+### Page 781 (PDF 801)
 
-**Progress note:** Printed pp. 1–780 done (PDF 21–800): Sūkta 112: Riks 112.1–112.11 complete (pp. 723–778); Rik 112.12 (printed pp. 778–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Rasā river), ending after the Ṛg citation *sindhur ha vāṃ rasayā…* at the foot of p. 780. Next: printed p. 781 (PDF 801). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 781.)*
+
+*(The Special Topics of Rik 112.12 continue, after the citation* sindhur ha vāṃ rasayā*:)* "In such Ṛks *rasā* means simply 'sap, juice', 'that which has *rasa*', [and so] a river. But in
+
+> कास्मैहितिः का परितक्म्यासीत्कथं रसाया अतरः पयांसि ।
+> *kāsmaihitiḥ kā paritakmyāsīt kathaṃ rasāyā ataraḥ payāṃsi |*
+> (*Ṛ.* 10-108-1 as read [?])
+
+> तृष्णामया प्रथमं यातवे सजूः सुसर्त्वा रसया श्वेत्या त्या ।
+> *tṛṣṇāmayā prathamaṃ yātave sajūḥ susartvā rasayā śvetyā tyā |*
+> (*Ṛ.* 10-75-6 as read [?])
+> *(Sanskrit as read from the print; doubtful in the second line [?]; no gloss attempted for either.)*
+
+— in Ṛks such as these it is known to be a given name. The critics have suggested that it is a river flowing in the north-west quarter (cf. *J. A. O. S.* XIX, 100 seq.) *(printed in English as given)*."
+
+**क्षोदसा — Kṣodasā.** *kūlāni sampiṃṣatā; udnaḥ — udakena* — "[the river] that crushes its banks; 'with water'": Sāyaṇa says 'with water that breaks the banks'; and Skandasvāmi explains: *kṣode ity udakanāma | tṛtīyānirdeśāc ca rahitām iti vākyaśeṣaḥ* — '*kṣoda* is a name for water; and because the third case is stated, [the clause] "deprived [of it]" is to be supplied': the word *kṣoda* is read among the names of water; here, since it ends in the third case, [the sense is] 'deprived of water', 'a river that has dried up', and so he explains.
+
+**अनश्वं रथं जिषे आवतम् — Anaśvaṃ rathaṃ jiṣe āvatam.** "You made the chariot, [though] without horses, run toward the enemies": this describes their marvellous power.
+
+> अश्विनोरसनं रथमनश्वं वाजिनीवतोः । तेनाहं भूरि चाकन ॥
+> *aśvinor asanaṃ ratham anaśvaṃ vājinīvatoḥ | tenāhaṃ bhūri cākana ‖*
+> (*Ṛ.* 1-120-10 as read [?])
+> *(Sanskrit as read; the second line is doubtful [?]; no gloss attempted.)*
+
+In Ṛks such as these the chariot of the Aśvin deities is said to be horseless. Here it praises them as having made such a chariot run.
+
+**याभिः त्रिशोकः — Yābhiḥ triśokaḥ.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । त्रिशोको नाम राजर्षिः आत्मीयाभिर्गोभिस्सह स्वर्गं गच्छेयमिति कामयमानोऽश्विनौ तुष्टाव । तस्यागत्याश्विनौ स्वर्गं गाः निन्यतुरिति ।
+> *atrāpītihāsam ācakṣate | triśoko nāma rājarṣiḥ ātmīyābhir gobhis saha svargaṃ gaccheyam iti kāmayamāno 'śvinau tuṣṭāva | tasyāgatyāśvinau svargaṃ gāḥ ninyatur iti |*
+> "Here too they tell the tale: a royal sage named Triśoka, wishing, 'May I go to heaven together with my cows', praised the two Aśvins. The two Aśvins came to him and led the cows to heaven."
+
+The royal sage called Triśoka, desiring that he should go to heaven with all his cows, prayed to the Aśvin deities for help, and they helped him: this is the story Skandasvāmi tells. Sāyaṇa explains: *kaṇvaputraḥ triśokaḥ apahṛtāḥ gāḥ asurasakāśāt lebhe* — 'Triśoka, son of Kaṇva, regained the cows that had been carried off, from the asuras.' It is also known that this [Triśoka] was of the Kāṇva gotra and that he was the seer of the forty-fifth *sūkta* of the eighth Maṇḍala [as read [?]]. From the Ṛk of that sūkta —
+
+> यः कृन्तदिद्वि योन्यं त्रिशोकाय गिरिं पृथुम् । गोभ्यो गातुं निरेतवे ॥
+> *yaḥ kṛntad id vi yonyaṃ triśokāya giriṃ pṛthum | gobhyo gātuṃ nir etave ‖*
+> (*Ṛ.* 8-45-30 as read [?])
+> *(Sanskrit as read; doubtful in the first words [?]; no gloss attempted.)*
+
+— it is said that Triśoka obtained many favours with the help of Indra. This same matter is [told] in the *Bṛhaddevatā* too:
+
+> द्विचत्वारिंशकात्प्रीतस्त्रिशोकाय पुरन्दरः ।
+> गिरिं निकृत्य वज्रेण गा ददावासुरैर्हृताः ॥
+> *dvicatvāriṃśakāt prītas triśokāya purandaraḥ |*
+> *giriṃ nikṛtya vajreṇa gā dadāv āsurair hṛtāḥ ‖*
+> (*Bṛ. De.* 6-41, 42 as read [?])
+> *(Sanskrit as read from the print; I have not completed it from memory. Gloss, mine and tentative: "Pleased with the forty-two [Ṛks], Purandara, for Triśoka, having split the mountain with the thunderbolt, gave [him] the cows carried off by the asuras.")*
+
+*(the passage continues on p. 782)*
+
+---
+
+### Page 782 (PDF 802)
+
+*(Running head: left 782; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…it is said that Indra, pleased by the forty-two Ṛks composed by this ṛṣi, brought back for him the cows that had been carried off by the asuras."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.12)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Kṣodasā*: root *kṣudir sampeṣaṇe*; since [all roots may take] the Uṇādi suffix *asun*, and as it is the cause, *guṇa* of the root's light penultimate; the word *kṣodas*; since it is *nit*, by *ñnityādir nityam* (*pā.* 6-1-197 as read [?]) the first syllable is *udātta*; instrumental singular. *Udnaḥ*: the word *udaka*; the instrumental singular (*ṭā*) following, by the statement *supāṃ supo bhavanti* [as printed [?]] the substitute of *śas* [*aḥ*] for it; by *paddanno māsṛn…* (*pā.* 6-1-63 as read [?]) the substitute *udan* for the word *udaka*; because it has the *bha*-designation, by *alloponaḥ* (*pā.* 6-4-134 as read [?]) the loss of the *a* of *an*; by *anudāttasya ca yatrodāttalopaḥ* (*pā.* 6-1-161 as read [?]) the case-ending takes the *udātta*. *Pipinvathuḥ*: root *pivi secane*; by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; *liṭ*, second-person dual; by *parasmaipadānāṃ ṇalatusus…* (*pā.* 3-4-82 as read [?]) the substitute *athus*; doubling of the root because of the *liṭ*; of the reduplicant only the initial consonant remains; since *yad* is connected, the *nighāta* does not arise; by the *udātta* of the first syllable of the suffix, the *a* is *udātta*. *Anaśvam*: 'that in which there is no horse' = *anaśva*; by *nañsubhyām* (*pā.* 6-2-172 as read [?]) the final syllable of the second member is *udātta*. *Jiṣe*: root *ji jaye*; to show the infinitive, by *tumarthe sesenase…* (*pā.* 3-4-9 as read [?]) the suffix *kse*; being *kit*, no *guṇa* of the root; by *ādeśapratyayayoḥ* (*pā.* 8-3-59 as read [?]) the suffix's *s* becomes *ṣ*; by the suffix-accent it ends in *udātta*. *Udājata*: root *aja gatikṣepaṇayoḥ*; *laṅ*, third-person singular; since *yad* is connected, the *nighāta* does not arise; since the augment is *udātta*, the first syllable is *udātta*. ‖ 12 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.12.)*
+
+---
+
+### Page 783 (PDF 803)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 783.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.13)** *(accent-marks not reproduced)*
+
+> याभिः सूर्यं परियाथः परावति मन्धातारं क्षैत्रपत्येष्वावतम् ।
+> याभिर्विप्रं प्र भरद्वाजमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ १३ ॥
+> *yābhiḥ sūryaṃ pariyāthaḥ parāvati mandhātāraṃ kṣaitrapatyeṣv āvatam |*
+> *yābhir vipraṃ pra bharadvājam āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 13 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.13)**
+
+> याभिः । सूर्यम् । परिऽयाथः । पराऽवति । मन्धातारम् । क्षैत्रऽपत्येषु । आवतम् ।
+> याभिः । विप्रम् । प्र । भरत्ऽवाजम् । आवतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १३ ॥
+> *yābhiḥ | sūryam | pari-yāthaḥ | parā-vati | mandhātāram | kṣaitra-patyeṣu | āvatam |*
+> *yābhiḥ | vipram | pra | bharat-vājam | āvatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.13)**
+
+> हे अश्विनौ परावति दूरदेशे स्थितं सूर्यं तमोरूपेण स्वर्भानुनावृतमादित्यं तस्मात्तमसो मोचयितुं याभिरूतिभिः परियाथः युवां परितो गच्छथः । तथा मन्धातारमृषिं क्षैत्रपत्येषु । क्षेत्राणां पतिरधिपतिः क्षेत्रपतिः । तत्सम्बन्धिषु कर्मस्वावतमरक्षतम् । अपि च याभिरूतिभिर्विप्रं मेधाविनं भरद्वाजमृषिमन्नप्रदानेन प्रावतं प्रकर्षेणारक्षतम् । ताभिः सर्वाभिरूतिभिः सह रक्षणार्थमस्मानप्यागच्छतम् ॥ क्षैत्रपत्येषु । ब्राह्मणादेराकृतिगणत्वात्कर्मण्यर्थे ष्यञ् ॥
+> *he aśvinau parāvati dūradeśe sthitaṃ sūryaṃ tamorūpeṇa svarbhānunāvṛtam ādityaṃ tasmāt tamaso mocayituṃ yābhir ūtibhiḥ pariyāthaḥ yuvāṃ parito gacchathaḥ | tathā mandhātāram ṛṣiṃ kṣaitrapatyeṣu | kṣetrāṇāṃ patir adhipatiḥ kṣetrapatiḥ | tatsambandhiṣu karmasv āvatam arakṣatam | api ca yābhir ūtibhir vipraṃ medhāvinaṃ bharadvājam ṛṣim annapradānena prāvataṃ prakarṣeṇārakṣatam | tābhiḥ sarvābhir ūtibhiḥ saha rakṣaṇārtham asmān apy āgacchatam ‖ kṣaitrapatyeṣu | brāhmaṇāder ākṛtigaṇatvāt karmaṇy arthe ṣyañ ‖*
+
+"O Aśvins! the sun, *parāvati*, abiding in a far place, the Āditya covered with darkness by Svarbhānu: to free him from that darkness, with whichever protections you *pariyāthaḥ*, go round. And likewise Mandhātṛ, the ṛṣi, *kṣaitrapatyeṣu*: '*kṣetrāṇāṃ patiḥ*', the overlord of fields [= lands]: in the duties concerning that [sovereignty] you protected [him]. And further, with whichever protections *vipram*, the wise, the ṛṣi Bharadvāja, by the giving of food you *pra āvatam*, protected exceedingly: with all those protections come to us also, in order to protect [us]."
+
+*Grammatical tail (short):* *kṣaitrapatyeṣu*: since *brāhmaṇa* and the other words are of the open class (*ākṛtigaṇa*), the suffix *ṣyañ* in the sense of 'duty'.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.13; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *parāvati* — in a faraway place; *sūryam* — the sun (covered by Rāhu in the form of darkness); *yābhiḥ* — by whichever protections; *pariyāthaḥ* — *(the Pratipadārtha continues on p. 784)*
+
+---
+
+### Page 784 (PDF 804)
+
+*(Running head: left 784; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The Pratipadārtha continues:)* "…*pariyāthaḥ* — (in order to free him from the seizure) you went round [him]; (and) *mandhātāram* — the ṛṣi Māndhātṛ; *kṣaitrapatyeṣu* — in the discharge of his duties of lordship; *āvatam* — (by whichever protections) you protected, (not only that); *yābhiḥ* — by whichever protections; *vipram* — the wise; *bharadvājam* — the ṛṣi Bharadvāja; *pra āvatam* — (by giving food) you protected well; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come willingly."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever protections you went round, in order to free the sun, who dwells in a far-off region seized by Rāhu in the form of darkness, from the seizure; and with whichever helps you protected the ṛṣi Māndhātṛ in the discharge of his duties of lordship; and, moreover, with whichever protections you protected well the wise ṛṣi Bharadvāja, by giving [him] food: with all those protections come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.13)**
+
+"With those aids by which you encompassed the sun, when afar off, (to extricate him from eclipse); by which you defended Mandhatri (in the discharge of) his sovereign functions, and by which you protected the sage Bharadwaja; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.13)**
+
+**मन्धातारं क्षैत्रपत्येष्वावतम् — Mandhātāraṃ kṣaitrapatyeṣv āvatam.** *mandhātāraṃ ṛṣim | kṣetrāṇāṃ patir adhipatiḥ kṣetrapatiḥ | tatsambandhiṣu karmasu* — "[the ṛṣi] Māndhātṛ; 'the lord of fields' is the overlord, [*kṣetrapati*]; in the duties belonging to that": this indicates the setting in which [the Aśvins] protected the ṛṣi named Māndhātṛ — that is, a king — in the duties of protecting his kingdom, by making [it] free of harm from enemies, so that he could rule without anxiety. Here Skandasvāmi has explained the story:
+
+> अत्रेतिहासमाचक्षते । मान्धातुर्विषये भूमिमनन्तकरो [?] राजा आचक्राम । स तं स्वबलेन निग्रहीतुमकल्पयन् अश्विनौ तुष्टाव । आगत्य च तस्याश्विनौ शत्रून् निगृह्य विषयं प्रत्यर्पयाञ्चक्रतुरिति ।
+> *atretihāsam ācakṣate | māndhātur viṣaye bhūmimanantakaro [?] rājā ācakrāma | sa taṃ svabalena nigrahītum akalpayan aśvinau tuṣṭāva | āgatya ca tasyāśvinau śatrūn nigṛhya viṣayaṃ pratyarpayāñ cakratur iti |*
+> *(Sanskrit as read; the compound after* viṣaye *is clotted in the print [?]; the sense is taken from the Kannada.)*
+> "Here they tell the tale: a king invaded the realm of Māndhātṛ. Being unable to restrain him with his own force, he praised the two Aśvins. The two Aśvins came and, having subdued his enemies, restored his realm to him."
+
+"When a neighbouring king invaded Māndhātṛ's realm, Māndhātṛ, lacking the power to check him, prayed to the Aśvin deities; and they came, helped him, and gave the kingdom back to him": thus the story is told. Māndhātṛ is also called the son of Yuvanāśva, and the seer of the [hundred and] seventy-ninth [?] *sūkta* of the tenth Maṇḍala [as read, doubtful [?]]. Besides this, his excellent qualities, and the high station he obtained, are praised in some Ṛks of the Ṛk-Saṃhitā. For example— *(the passage continues on p. 785)*
+
+---
+
+**Progress note:** Printed pp. 1–784 done (PDF 21–804): Sūkta 112: Riks 112.1–112.12 complete (pp. 723–782); Rik 112.13 (printed pp. 783–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (Māndhātṛ), ending mid-sentence at the foot of p. 784 ('For example—'). Next: printed p. 785 (PDF 805). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
