@@ -22241,5 +22241,138 @@ In the Ṛk the word *adhrigu* is a synonym of Agni; and *adhrigur mantro bhavat
 > *(Sanskrit as read from the print; the first words are doubtful [?]; no gloss attempted.)*
 
 ---
+### Page 813 (PDF 833)
 
-**Progress note:** Printed pp. 1–812 done (PDF 21–832): Sūkta 112: Riks 112.1–112.19 complete (pp. 723–810); Rik 112.20 (printed pp. 810–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (bhujyum; adhrigum with the Nirukta, Taittirīya Brāhmaṇa and Skandasvāmi's citation *yuvaṃ surāmam…*) in progress through the foot of p. 812. Next: printed p. 813 (PDF 833). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 813.)*
+
+*(The Special Topics of Rik 112.20 continue, after Skandasvāmi's citation:)* "…in this Ṛk the setting described is expounded; it is shown that here too the same occasion is spoken of, in which the Aśvin deities protected Indra. But, to explain the setting of why the name *Adhrigu* came to Indra, [Skandasvāmi] has:
+
+> देवास्वर्वे इन्द्रं ब्रह्माणं वव्रुः । सोऽब्रवीत् । अव्रतोऽहं गव इति । आनुबन्ध्यादि गोयोगवर्जमहं ब्रह्मत्वं करोमीति । गोयोगे त्वहमव्रत इति । तस्माद्ग्नेऽध्वतत्वादुपपन्नमिन्द्रस्याध्रिगुत्वम् ।
+> *devās arve [?] indraṃ brahmāṇaṃ vavruḥ | so 'bravīt | avrato 'haṃ gava iti | ānubandhyādi goyogavarjam ahaṃ brahmatvaṃ karomīti | goyoge tv ahaṃ avrata iti | tasmād agne 'dhvatatvād upapannam indrasyādhrigutvam |*
+> *(Sanskrit as read from the print; the first words and the last clause are clotted [?]. Sense, from the Kannada: "The gods chose Indra as *brahman* [priest]. He said, 'I am under no vow with regard to cows; I will do the *brahman*'s work, excepting where [rites] involving cows [*anubandhya*, etc.] are concerned; in those involving cows I am not under the vow.' Hence the name *Adhrigu*, as of one 'not restrained', suits Indra.")*
+
+The Kannada gives the sense: when all the gods prayed that Indra should be in the position of *brahman* [chief priest], he said that he would leave aside the *anubandhyā* and other rites connected with cows (*goyoga*) and take the position of *brahman* only in the remaining vows; and since, in the vows performed by him in that position, cows were [free and] *adhṛta*, 'unrestrained', he got the name *Adhrigu*: thus he explains the earlier setting.
+
+**ऋतस्तुभम् — Ṛtastubham.** *ṛtaṃ satyaṃ stobhati uccārayatīti ṛtastup | etatsañjñam ṛṣim* — "he who makes the truth resound is *ṛtastup*: the ṛṣi so named." Because he utters praise of a nature that is truth, [it is] the name of a ṛṣi called Ṛtastubha, Sāyaṇa says; and Skandasvāmi explains: *ṛtam iti satyanāma | stobhatir arcatikarmā | satyastutiṃ* — "*ṛta* is a name for 'truth'; *stobhati* is a verb of praising: [one who utters] true praise": he explains it as 'praise that is true in nature'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.20)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Śantātī*: by *śivaśamariṣṭasya kare* (*pā.* 4-4-143 as read [?]) the suffix *tātil*; since the suffix is *lit*, by *liti* (*pā.* 6-1-193 as read [?]) the syllable before the suffix is *udātta*. *Bhavathaḥ*: root *bhū sattāyām*; *laṭ*, second-person dual [print: "singular form"]; since *yad* is connected, no *nighāta*; the root-accent remains. *Dadāśuṣe*: root *dāśṛ dāne*; since it is *liṭ*, by *bhāṣāyāṃ sadavasaśruvaḥ* [print: *kvasuś ca*, *pā.* 3-2-107 as read [?]] the suffix *kvasu*; doubling of the root; the stem *dadāśvas*; since the dative singular follows, by *vasoḥ samprasāraṇam* (*pā.* 6-4-131 as read [?]) *saṃprasāraṇa* [of the earlier form]; by *śāsivasighasīnāṃ ca* (*pā.* 8-3-60 as read [?]) *ṣatva*; by the suffix-accent the *u* is *udātta*. *Ṛtastubham*: 'he who makes truth resound' = *ṛtastup*; the suffix *kvip*; the word *ṛtastubh*; the *kṛdanta* keeps the accent of its prior member; accusative singular. ‖ 20 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.20.)*
+
+---
+
+### Page 814 (PDF 834)
+
+*(Running head: left 814; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.21)** *(accent-marks not reproduced)*
+
+> याभिः कृशानुमसने दुवस्यथो जवे याभिर्यूनो अर्वन्तमावतम् ।
+> मधु प्रियं भरथो यत्सरड्भ्यस्ताभिरू षु ऊतिभिरश्विना गतम् ॥ २१ ॥
+> *yābhiḥ kṛśānum asane duvasyatho jave yābhir yūno arvantam āvatam |*
+> *madhu priyaṃ bharatho yat saraḍbhyas tābhir ū ṣu ūtibhir aśvinā gatam ‖ 21 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.21)**
+
+> याभिः । कृशानुम् । असने । दुवस्यथः । जवे । याभिः । यूनः ।
+> अर्वन्तम् । आवतम् ।
+> मधु । प्रियम् । भरथः । यत् । सरट्ऽभ्यः । ताभिः । ऊम् इति ।
+> सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ २१ ॥
+> *yābhiḥ | kṛśānum | asane | duvasyathaḥ | jave | yābhiḥ | yūnaḥ |*
+> *arvantam | āvatam |*
+> *madhu | priyam | bharathaḥ | yat | saraṭ-bhyaḥ | tābhiḥ | ūm iti |*
+> *su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 21 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.21)**
+
+> स्नानादिषु सोमपालेषु मध्ये कृशानुरेकः सोमपालः । तथा च तैत्तिरीयकं । हस्त सुहस्त कृशानवेते वः सोमक्रयणाः । तै. सं. १-२-२ । इति तं कृशानुमसने । इषवोऽस्यन्तेऽस्मिन्नित्यसनः सङ्ग्रामः । तस्मिन्सङ्ग्रामे हे अश्विनौ याभिरूतिभिर्दुवस्यथः रक्षथः । तथा याभिश्च जवे वेगे प्रवृत्तं यूनस्तरुणस्य पुरुकुत्स्यार्वन्तमश्वमावतम् अरक्षतम् । अपि च यन्मधु क्षौद्रं प्रियं सर्वेषामनुकूलमेद्यं तत्सरड्भ्यो मधुमक्षिकाभ्यो याभिरूतिभिर्भरथः सम्पादयथः । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ असने । असु क्षेपणे । करणाधिकरणयोः क्षेत्यधिकरणे ल्युट् । सरड्भ्यः । सृ गतौ । सर्तेरटिः ॥
+> *snānādiṣu somapāleṣu madhye kṛśānur ekaḥ somapālaḥ | tathā ca taittirīyakam | hasta suhasta kṛśānavete vaḥ somakrayaṇāḥ | tai. saṃ. 1-2-2 | iti taṃ kṛśānum asane | iṣavo 'syante 'sminn ity asanaḥ saṅgrāmaḥ | tasmin saṅgrāme he aśvinau yābhir ūtibhir duvasyathaḥ rakṣathaḥ | tathā yābhiś ca jave vege pravṛttaṃ yūnas taruṇasya purukutsyārvantam aśvam āvatam arakṣatam | api ca yan madhu kṣaudraṃ priyaṃ sarveṣām anukūlam edyaṃ tat saraḍbhyo madhumakṣikābhyo yābhir ūtibhir bharathaḥ sampādayathaḥ | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ asane | asu kṣepaṇe | karaṇādhikaraṇayoś ca [?] kṣety adhikaraṇe lyuṭ | saraḍbhyaḥ | sṛ gatau | sarter aṭiḥ ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print.)*
+
+"Among the Soma-guards in the bathing-places and so on, Kṛśānu was one Soma-guard. And so the Taittirīya has: '*hasta suhasta kṛśānavete vaḥ somakrayaṇāḥ*' (*Tai. Saṃ.* 1-2-2). Him, Kṛśānu, in *asane*: 'where arrows are shot' is *asana*, a battle: in that battle, O Aśvins, with whichever protections you *duvasyathaḥ*, protect. And likewise with whichever [protections] in *jave*, in speed, you protected *arvantam*, the horse of Purukutsa the young [*yūnaḥ*, of the youth], which set out. And further: that *madhu*, honey, *priyam*, dear and agreeable to all, you *bharathaḥ*, bring about, for the *saraṭ*, the honey-bees: with whichever protections [you do so]; with all those protections come to us also."
+
+*Grammatical tail (short):* *asane*: root *asu kṣepaṇe*; the suffix *lyuṭ* in the sense of the location. *Saraḍbhyaḥ*: root *sṛ gatau*; the suffix *aṭi* after *sṛ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.21; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *yābhiḥ* — by whichever of your protections; *kṛśānum* — Kṛśānu; *asane* — in battle; *duvasyathaḥ* — you protected; *yābhiḥ* — by whichever protections *(the Pratipadārtha continues on p. 815)*
+
+---
+
+### Page 815 (PDF 835)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 815.)*
+
+*(The Pratipadārtha continues:)* "…*jave* — in speed (that set out); *yūnaḥ* — of the young Purukutsa; *arvantam* — the horse; *āvatam* — you protected; (and) *yat madhu* — which honey; *priyam* — beneficial to all; *saraḍbhyaḥ* — to the honey-bees (by whichever of your helps); *bharathaḥ* — you cause to be brought together; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come, with favour."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your protections you protected Kṛśānu in battle; with whichever you protected the horse of the young Purukutsa, which set out in speed; and with whichever you bring about for the honey-bees the honey that is beneficial to all: with all those protections of yours come to us also, with favour.
+
+**English Translation (as printed in the source; Rik 112.21)**
+
+"With those aids by which you defended Krisanu in battle, with which you succoured the horse of the young Purukutsa in speed, and by which you deliver the pleasant honey to the bees; with them, Aswins, come willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.21)**
+
+**कृशानुम् — Kṛśānum.** Skandasvāmi has:
+
+> कृशानुर्नाम सोमपालः । तं सोममपजिहीर्षन्तोऽसुराः अभिदुद्रुवुः । स तान्तं तुमिषूंश्चिक्षेप । तस्मै इषूंश्चिक्षिपते अश्विनावमोघानिषूर्ण ददतुरिति ।
+> *kṛśānur nāma somapālaḥ | taṃ somam apajihīrṣanto 'surāḥ abhidudruvuḥ | sa tān tum iṣūṃś cikṣepa | tasmai iṣūṃś cikṣipate aśvināv amoghān iṣūn [?] dadatur iti |*
+> *(Sanskrit as read; two words are doubtful in the print [?].)*
+> "A Soma-guard named Kṛśānu. Asuras, wishing to carry away the Soma, ran at him. He shot arrows at them. To him, shooting arrows, the Aśvins gave unfailing arrows."
+
+The asuras who wished to steal Soma attacked the Soma-guard Kṛśānu; the Aśvin deities came and, giving to Kṛśānu arrows of great power, destroyed the demons. Vāmadeva has made this matter known in the Ṛk
+
+> सृजद्यदस्मा अव ह क्षिपज्ज्यां कृशानुरस्ता मनसा भुरण्यन् ।
+> *sṛjad yad asmā ava ha kṣipaj jyāṃ kṛśānur astā manasā bhuraṇyan |*
+> (*Ṛ.* 4-27-3 as read [?])
+> *(Sanskrit as read; no gloss attempted.)*
+
+The *Aitareya Brāhmaṇa* tells the same story with some difference:
+
+> ते देवा आब्रुवन्नायत्रीं स्तं न इमं सोमं राजानमाहरेति सा तथेत्यै [?] ब्रवीत्तां वै मा सर्वेण स्वस्त्ययनेन आनुमन्त्रयध्वमिति …… सा पतित्वा सोमपालान्नीषयित्वा [?] पद्भ्यां च मुखेन च सोमं राजानं समगृह्णाद्यानि चेतरे छन्दांसि अक्षराण्यजहिताम् [?] तानि चोपसमगृह्णात् । तस्या अनु विसृज्य कृशानुः सोमपालः सव्यस्य पदो नखमच्छिनत्तच्छल्यकोऽभवत्तस्मात्स स नखमिव यद्वृक्षमस्रवत् …… ॥
+> *te devā ābruvann āyatrīṃ [?] staṃ na imaṃ somaṃ rājānam āhareti sā tathety aibravīt tāṃ vai mā sarveṇa svastyayanena ānumantrayadhvam iti …… sā patitvā somapālān nīṣayitvā [?] padbhyāṃ ca mukhena ca somaṃ rājānaṃ samagṛhṇād yāni cetare chandāṃsi akṣarāṇy ajahitām [?] tāni copasamagṛhṇāt | tasyā anu visṛjya kṛśānuḥ somapālaḥ savyasya pado nakham acchinat tac chalyako 'bhavat tasmāt sa nakham iva yad vṛkṣam asravat …… ‖*
+> (*Ai. Brā.* 3-[?]6 as read [?])
+> *(Sanskrit as read from the print; the passage is clotted and has an ellipsis in the print; I give no completed rendering beyond the Kannada's own account, which follows on p. 816.)*
+
+*(the passage continues on p. 816)*
+
+---
+
+### Page 816 (PDF 836)
+
+*(Running head: left 816; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The Kannada account of the Aitareya Brāhmaṇa passage:)* "Once the gods called the Gāyatrī, and when she was asked to bring and carry Soma, the king, who was in heaven, the Gāyatrī agreed; and, in the form of a bird [*śyena*, hawk], she flew with the gods; when she was flying off with King Soma, seized in her feet and beak, Kṛśānu, the Soma-guard, who had been frightened by the guards who ran after her, struck the Gāyatrī, who was in the form of the hawk, and cut off a nail of her foot: so the *Aitareya Brāhmaṇa* tells."
+
+**असने — Asane.** *asurān hantum iṣūṇāṃ kṣepaṇakāle* — "when arrows are shot to kill the asuras": at the time of shooting arrows at the asuras: the sense is 'at the time of battle'.
+
+**दुवस्यथः — Duvasyathaḥ.** *duvasyatiḥ paricaraṇakarmā* — "*duvasyati* is [read] among the verbs of service". *Sapari-caritavantau āmoghānām iṣūṇāṃ pradānena* [as printed [?]]: 'by giving them unfailing arrows you helped them': that is the sense.
+
+**सरड्भ्यः — Saraḍbhyaḥ.** *saraḍ nāma madhukarjāḥ makṣikāḥ | tāḥ kasyāṃcid anāvṛṣṭyāṃ śuṣkāsu sarvapuṣpajātiṣu kṣudhā bādhyamānā madhvarthino 'śvināv ājuhuvuḥ | tābhya upagamyāśvinau madhu dadatuḥ* — "*Saraṭ* are bees, makers of honey. Once, in a drought, when all kinds of flowers had dried up and they were afflicted by hunger, they, wanting honey, called the two Aśvins; going to them, the Aśvins gave honey." Once, when all the flowers had withered for want of rain, and the honey-bees, having no honey, were tormented by hunger, they prayed to the Aśvin deities; then the Aśvin deities caused them to get honey: so the story goes. This same setting:
+
+> उत स्या वां मधुमन्मक्षिकारपन्मदे सोमस्यौशिजो हुवन्यति ।
+> *uta syā vāṃ madhumaṇ makṣikārapan made somasyauśijo huvanyati |*
+> (*Ṛ.* 1-119-9 as read [?])
+> *(Sanskrit as read; doubtful in the first words [?]; no gloss attempted.)*
+
+— Kakṣīvān in this Ṛk, and
+
+> युवोर्ह मक्षा पर्यश्विना मध्वासा भरत निष्कृतं न योषणा ।
+> *yuvor ha makṣā parya aśvinā madhv āsā bharata niṣkṛtaṃ na yoṣaṇā |*
+> (*Ṛ.* 10-40-6 as read [?])
+> *(Sanskrit as read; doubtful in the first half [?]; no gloss attempted.)*
+
+— in this Ṛk the *brahmavādinī* Ghoṣā has told it.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.21)** *(grammar pages, pp. 816–817, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Asane*: root *asu kṣepaṇe*; by *karaṇādhikaraṇayoś ca* (*pā.* 3-3-117 as read [?]) the suffix *lyuṭ* in the sense of the location; *ana* for *yu* by *yuvor anākau* (*pā.* 7-1-1 as read [?]); since the suffix is *lit*, by *liti* (*pā.* 6-1-193 as read [?]) the syllable before the suffix is *udātta*; locative singular. *Arvantam*: root *ṛ gatau*; by *anyebhyo 'pi dṛśyante* the suffix *vanip*; because of it, *guṇa* of the root; in the accusative singular, by *arvaṇas trasāvanañaḥ* (*pā.* 6-4-127 as read [?]) the final becomes *t*; the augment *num* by *ugitaś ca* (*pā.* 7-1-70 as read [?]); *anusvāra* and *parasavarṇa*. *(continued on p. 817)*
+
+---
+
+**Progress note:** Printed pp. 1–816 done (PDF 21–836): Sūkta 112: Riks 112.1–112.20 complete (pp. 723–813); Rik 112.21 (printed pp. 814–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (Kṛśānu, the Aitareya Brāhmaṇa Gāyatrī/Soma story, asane, duvasyathaḥ, saraḍbhyaḥ) done; its grammar begun on p. 816 (*arvantam*). Next: printed p. 817 (PDF 837). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
