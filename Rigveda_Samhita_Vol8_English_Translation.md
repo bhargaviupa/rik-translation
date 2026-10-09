@@ -13438,5 +13438,111 @@ In many Ṛks such as these, all the deities — Indra, Varuṇa, Agni and the r
 Grammar pages, noted briefly. *Ukthyam* (root *vaca paribhāṣaṇe*; an Uṇādi suffix *than*; *c* → *k* by *co kuḥ*, Pā. Sū. 7-3-52 as read [?]; *saṃprasāraṇa* of *va*, the form *ukta*, then *ukthāya arham → ukthyam*, with *yat* in the sense of 'worthy of'; the *svarita* accent by *tit svaritam*, Pā. Sū. 6-1-185 as read [?]). *Hitam* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; *hi* for the root by *dadhāter hiḥ*, Pā. Sū. 7-4-42 as read [?]; the final acute from the suffix) *(the grammar continues on p. 498)*
 
 ---
+### Page 498 (PDF 518)
 
-**Progress note:** Printed pp. 1–497 done (PDF 21–517): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.11 complete (pp. 441–493); Rik 105.12 (printed pp. 494–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 494–497); its grammar begun at the foot of p. 497 (after *hitam*). Next: printed p. 498 (PDF 518). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 498; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.12 continues and concludes (noted briefly). *Devāsaḥ* (before *jas*, the *asuk* augment by *ajjhasoreka…*, i.e. *ājjaseḥ asuk*, Pā. Sū. 7-1-50 as read [?]). *Suprāvācanam* (root *vaca paribhāṣaṇe*; as it shows the action of the instigator, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; after the causal, *yuc* in the sense of *khal* by *anyebhyo 'pi dṛśyate*, Pā. Sū. 3-2-75 [?] as read [?]; the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; the loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; *ana* for *yu* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; since the suffix is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]; because *pra* forms a *gati*-compound, the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]). *Arṣanti* (root *ṛ gatau*; *leṭ*, third person plural *jhi*; *ant* for *jh* by *jho 'ntaḥ*, Pā. Sū. 7-1-3 as read [?]; *sip* for the verbal sign by *sibbahulaṃ leṭi*, Pā. Sū. 3-1-34 as read [?]; *guṇa* of the root by *sārvadhātukārdhadhātukayoḥ*; *raparatva* by *uraṇ raparaḥ*; *nighāta*). *Sindhavaḥ* (root *syandū prasravaṇe*; *u* by an Uṇādi suffix; *saṃprasāraṇa* of the root and *dh* for the *d* by *syandeḥ saṃprasāraṇaṃ dhaś ca*, Uṇ. 1-[?]1 as read [?]). *Tatāna* (root *tanu vistāre*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 as read [?]; *ṇal* for third person singular; the doubling of the root; *ādi-hal-śeṣa*; the *vṛddhi* of the penult by *ata upadhāyāḥ*; the lengthening of the reduplicate in the Saṃhitā by *anyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]; *nighāta* since it follows a non-verb). *Sūryaḥ* (by *rājasūyasūrya…*, Pā. Sū. 3-1-114 as read [?], the form is a *nipātana* with *kyap* after the root *sṛ*). The Rik is closed with *‖ 12 ‖* and an ornament.
+
+---
+
+### Page 499 (PDF 519)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 499.)*
+
+## Rik 105.13 — printed pp. 499–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.13)**
+
+> अग्ने तव त्यदुक्थ्यं देवेष्वस्त्याप्यम् ।
+> स नः सत्तो मनुष्वदा देवान्यक्षि विदुष्टरो वित्तं मे अस्य रोदसी ॥ १३ ॥
+
+*agne tava tyad ukthyaṃ deveṣv asty āpyam | sa naḥ satto manuṣvad ā devān yakṣi viduṣṭaro vittaṃ me asya rodasī ‖ 13 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.13)**
+
+> अग्ने । तव । त्यत् । उक्थ्यम् । देवेषु । अस्ति । आप्यम् ।
+> सः । नः । सत्तः । मनुष्वत् । आ । देवान् । यक्षि । विदुःऽतरः । वित्तम् । मे । अस्य । रोदसी इति ॥ १३ ॥
+
+*agne | tava | tyat | ukthyam | deveṣu | asti | āpyam | saḥ | naḥ | sattaḥ | manuṣvat | ā | devān | yakṣi | viduḥ-taraḥ | vittam | me | asya | rodasī iti ‖ 13 ‖* *(the Pada's "viduḥ-taraḥ" is as printed; the Saṃhitā has "viduṣṭaraḥ")*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.13)**
+
+> हे अग्ने तवोक्थ्यं प्रशस्यं त्यत् श्रुतिप्रसिद्धमाप्यम् । आपिर्बन्धुः । तस्य भावः । बान्धवं देवेषु दानादिगुणयुक्तेष्विन्द्रादिष्वस्ति । विद्यते । तस्मात्त्वं तादृशो विदुष्टरो विद्वत्तरस्त्वं नोऽस्माकं यज्ञे सत्तो निषण्णः सन् देवानस्मानिन्द्रादीना शास्त्रमर्यादया यक्षि । यज । हविर्भिः पूजय । तत्र दृष्टान्तः । मनुष्वत् । यथा मनूनां यज्ञे तद्वत् । अस्यत्पूर्ववत् [?] ॥ आप्यम् । आप्लृ व्याप्तौ । आस्माण्ण्यन्तादचि इरीतिप्रत्ययः [?] । ब्राह्मणादित्वात् ष्यञ् । सत्तः । नसत्तनिषत्तेति निपातनान्निष्ठानत्वाभावः । छान्दसो निशब्दलोपो द्रष्टव्यः । मनुष्वत् । मनेरौणादिक उसिप्रत्ययः । तत्र तस्येवेति षष्ठ्यर्थे वतिः । नभोऽङ्गिरोमनुषां वत्युपसंख्यानम् । पा. १-४-१८ [?] । इति भत्वेन पदत्वाभावात्त्वाद्यभावः । यक्षि । बहुलं छन्दसीति शपो लुक् । व्रश्चादिषत्वे कुत्वम् । विदुष्टरः । विद्वच्छब्दात्तरप्यस्मिन्मादित्वेन भत्वादसोः संप्रसारणमिति संप्रसारणम् । शासिवसिघसीनां चेति षत्वम् ॥
+> *he agne tavokthyaṃ praśasyaṃ tyat śrutiprasiddham āpyam | āpir bandhuḥ | tasya bhāvaḥ | bāndhavaṃ deveṣu dānādiguṇayukteṣv indrādiṣv asti | vidyate | tasmāt tvaṃ tādṛśo viduṣṭaro vidvattaras tvaṃ no 'smākaṃ yajñe satto niṣaṇṇaḥ san devān asmān indrādīnā śāstramaryādayā yakṣi | yaja | havirbhiḥ pūjaya | tatra dṛṣṭāntaḥ | manuṣvat | yathā manūnāṃ yajñe tadvat | asyatpūrvavat [?] ‖ āpyam | āpḷ vyāptau | āsmāṇṇyantād aci irītipratyayaḥ [?] | brāhmaṇāditvāt ṣyañ | sattaḥ | nasattaniṣatteti nipātanān niṣṭhānatvābhāvaḥ | chāndaso niśabdalopo draṣṭavyaḥ | manuṣvat | maner auṇādika usipratyayaḥ | tatra tasyeveti ṣaṣṭhyarthe vatiḥ | nabho 'ṅgiromanuṣāṃ vaty upasaṃkhyānam | pā. 1-4-18 [?] | iti bhatvena padatvābhāvāt tvādyabhāvaḥ | yakṣi | bahulaṃ chandasīti śapo luk | vraścādiṣatve kutvam | viduṣṭaraḥ | vidvacchabdāt tarap [?] asminmāditvena bhatvād asoḥ saṃprasāraṇam iti saṃprasāraṇam | śāsivasighasīnāṃ ceti ṣatvam ‖* *(Sanskrit as read; a few words in the tail are clotted and given with doubt [?]; the tail is short and is given.)*
+
+"O Agni! That praiseworthy (*ukthya*) kinship (*āpya*, 'relationship', from *āpi* = kinsman) of yours, famed in the Śruti, exists (*asti*) among the gods, the Indras and the rest who are endowed with the qualities of giving and so on. Therefore you, such a one, most wise (*viduṣṭaraḥ*), seated (*sattaḥ*) at our sacrifice, do worship (*yakṣi*) with oblations the gods, Indra and the rest, according to the rule of the scripture. The illustration: *manuṣvat*: as in the sacrifices of Manu. [The rest] as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.13), Page 500**
+
+### Page 500 (PDF 520)
+
+*(Running head: left 500; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+*Agne* — O Agni; *tava* — to you; *ukthyam* — worthy of praise; *tyat* — famed in the Śruti; *āpyam* — kinship; *deveṣu* — among the gods; *asti* — is established (in you; therefore); *saḥ* — that kinsman; *viduṣṭaraḥ* — exceedingly wise you; *naḥ* — our (sacrifice); *sattaḥ* — seated; *manuṣvat* — as at Manu's sacrifices; *devān* — the gods; *ā* — in the manner prescribed; *yakṣi* — worship with oblations; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or sorrow of falling in the well; *vittam* — know well.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Agni, your kinship with the gods, worthy of praise and famed in the Śruti, is established. Since you have such an excellent kinship, you who are exceedingly wise: sit down at our sacrifice and worship the gods, in the prescribed manner, as at the sacrifices of Manu. O Heaven and Earth, know my sorrow and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"Worthy of praise, Agni, is that your relationship (with the gods) ; you are most wise ; seated at our ( solemnity ), worship ( the gods ), as (at the sacrifice of) Manu." *(The print's brackets are as printed.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.13)**
+
+**Āpyam** — *āpiḥ bandhuḥ tasya bhāvaḥ |* "kinship, the state of being a kinsman. Agni's kinship with the gods is a permanent connection.
+
+> त्वमग्ने प्रथमो अङ्गिरा ऋषिर्देवो देवानामभवः शिवः सखा ।
+> *tvam agne prathamo aṅgirā ṛṣir devo devānām abhavaḥ śivaḥ sakhā |* (*Ṛ. Saṃ.* 1-31-1 as read)
+
+> अग्निर्देवो देवानामभवत्पुरोहितोऽग्निं मनुष्या ऋषयः समीधिरे ।
+> *agnir devo devānām abhavat purohito 'gniṃ manuṣyā ṛṣayaḥ samīdhire |* (*Ṛ. Saṃ.* 10-1[?]-[?] as read [?])
+
+As described in Ṛks beginning in this way, here also it is said that Agni has an eternal relation and friendship with the deities. And, likewise, that for the human sacrificers also he is a kinsman is praised in places such as —
+
+> आ हि ष्मा सूनवे पिताऽऽपिर्यजत्यापये ।
+> *ā hi ṣmā sūnave pitā 'pir yajaty āpaye |* (*Ṛ. Saṃ.* 1-26-3 as read)"
+
+---
+
+### Page 501 (PDF 521)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 501.)*
+
+"Sāyaṇa has explained '*tat āpyaṃ deveṣu asti*' with the sense 'Agni's kinship is established among the gods'. Skandasvāmin says —
+
+> अस्त्याप्यमस्ति च ज्ञातित्वं केवलमस्माभिः सह सर्वयजमानानां हि ज्ञातिभूतोऽग्निः ।
+> *asty āpyam asti ca jñātitvaṃ kevalam asmābhiḥ saha sarvayajamānānāṃ hi jñātibhūto 'gniḥ |* *(as read [?])*
+
+— and thus explains that between the human sacrificers and Agni there is an eternal kinship, and, quoting —
+
+> आपिः पिता प्रमितिः सोम्यानां भृमिरस्यृषिकृन्मर्त्यानाम् ।
+> *āpiḥ pitā pramitiḥ somyānāṃ bhṛmir asy ṛṣikṛn martyānām |* (*Ṛ. Saṃ.* 1-31-11 as read [?])
+
+— a Ṛk that tells the nature of the kinship of Agni with humans and others, he has shown it."
+
+**Viduṣṭaraḥ** — *vidvattaratvam |* "'extremely wise'; likewise, the epithets that tell of Agni's wisdom —
+
+> आदृप्सस्य चित्रमतिरुच्यसे पिता प्र पाकं शास्सि प्र दिशो विदुष्टरः ।
+> *ā dṛpsasya citramatir ucyase pitā pra pākaṃ śāssi pra diśo viduṣṭaraḥ |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?]; the first words are doubtful [?])
+
+> दूत ईयसे प्रदिव उराणो विदुष्टरो दिव आरोधनानि ।
+> *dūta īyase pradiva urāṇo viduṣṭaro diva ārodhanāni |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+— in Ṛks such as these, Agni's nature as knowledge is praised."
+
+**Manuṣvat** — "for this word Skandasvāmin explains '*manuṣyavat nānavarat*' [as printed [?]] — 'like a human, like us (you too, as the *hotṛ*, perform the sacrifice directed to the gods)'; and Sāyaṇa: '*yathā manūnāṃ yajñe tadvat*' — 'as is done at the sacrifices of Manu (now also worship the gods with oblations)'. 'As [Agni] performed sacrifice as a man [Manu] did', or 'as he helped Manu': taking the earlier occurrence as an example, [the poet] prays 'help me also, like them'.
+
+> विवासेन हविषा यक्षि देवान्मनुष्वद्यज्ञं प्र तिरेममद्य ।
+> *vivāsena haviṣā yakṣi devān manuṣvad yajñaṃ pra tireman adya [?]* (*Ṛ. Saṃ.* 3-2[?]-[?] as read [?]; the line is clotted and given as read, not completed from memory [?])
+
+— as prayed in Ṛks such as these, here too Agni's help is sought. That Agni helped Manu is said in many other places also."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.13)** *(grammar pages, p. 501 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Āpyam* (root *āpḷ vyāptau*; the causal *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; after the causal, the suffix *i* by an Uṇādi rule *ajer iḥ* [?], Uṇ. 4-1[?]2 as read [?]; loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the form *āpi*; the sense of the abstract, from it—) *(the grammar continues on p. 502)*
+
+---
+
+**Progress note:** Printed pp. 1–501 done (PDF 21–521): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.12 complete (pp. 441–498); Rik 105.13 (printed pp. 499–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 499–501); its grammar begun at the foot of p. 501 (at *āpyam*, mid-sentence). Next: printed p. 502 (PDF 522). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
