@@ -20050,5 +20050,176 @@ Therefore, for the word *trimantuḥ*: *trayāṇām atītānāgatavartamānān�
 *Grammatical tail (begun at the foot of p. 744; short):* *rebham*: root *rebha śabde*; 'he who praises' = *rebhaḥ*, with the suffix *ac* of the *pacādi* class. *Nivṛtam*: root *vṛñ varaṇe*; with the causative sense included in the root, *niṣṭhā* in the passive; by *gatir anantaraḥ* the prefix keeps its own accent. *Sitam*: root *ṣiñ bandhane*. *Adbhyaḥ*: by *ūḍidaṃ…* the case-ending takes the *udātta*. *Vandanam*: root *vadi abhivādanastutyoḥ*; 'he who praises' = *vandanaḥ*; the suffix *lyu* by the *nandyādi* rule; by the *lit*-accent, [the suffix's accent …]
 
 ---
+### Page 745 (PDF 765)
 
-**Progress note:** Printed pp. 1–744 done (PDF 21–764): Sūkta 112: Riks 112.1–112.4 complete (pp. 723–743); Rik 112.5 (printed pp. 744–[?]): Saṃhitā, Pada, bhāṣya done; its grammatical tail begun (*vandanam*, ending mid-sentence at the foot of p. 744). Next: printed p. 745 (PDF 765) — the rest of the tail, Pratipadārtha, Bhāvārtha, English, Special Topics of Rik 112.5. Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 745.)*
+
+*(The grammatical tail of Rik 112.5 continues; characterized, short, with doubtful stretches [?]; sūtra numbers only as read.)* …*the accent of the syllable before the suffix* [litsvareṇa pratyayotpa-rvasyodāttatvam, *as printed across the page-break and doubtful* [?]]. *Svaḥ*: '*svar* is a name common to heaven and to the sun' [?]; as Yāska said, '*svar* is the sun: *su araṇaḥ*, *su īraṇaḥ*' (*Ni.* 2-14 as read [?]) — '*sv-ar*', 'well-going, well-impelling'; being listed among the *svarādi* indeclinables (*pā.* 1-1-37 as read [?]), it is an indeclinable, so *luk* of the case-ending. *Dṛśe*: by [the rule] *dṛśe viśve ca* [as printed [?]] the suffix *ken* in the sense of the infinitive after *dṛś* is irregularly formed. *Siṣāsantam*: root *vana ṣaṇa sambhaktau*; *san*; the option of *iṭ*'s absence by the rule beginning *sanīvantardha…* [as printed [?]]; by *janasanakhanāṃ sañjhaloḥ* the root takes *ā*; at doubling, shortening of the reduplicant; *i* by *sanmata…* [?].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.5; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *yābhiḥ* — by whichever (of your) protections; *nivṛtam* — (thrown by the demons into a well); *sitam* — and bound; *rebham* — the ṛṣi named Rebha; *adbhyaḥ* — from the water; *ut airayatam* — you lifted up (just so); *vandanam* — (who had been caught in a plight of the same kind) Vandana; *svaḥ dṛśe* — in order to see the sun (so that they might go up [to behold it]); *siṣāsantam* — (when the demons had thrown him into darkness) desiring to see light; *kaṇvam* — the ṛṣi named Kaṇva; *yābhiḥ* — by whichever of your protections; *pra āvatam* — you fully protected; *tābhiḥ ūtibhiḥ ū* — with all those protections together, (to us also) *su ā gatam* — come willingly.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! With whichever of your protections you lifted up, in the atmosphere [= out of the well?], the ṛṣi Rebha, whom the demons had bound and thrown into a well, and also the ṛṣi Vandana, that they might behold the sun; and with whichever of your protections you protected the ṛṣi Kaṇva, who, thrown by the demons into darkness, wished to see light: with all those protections of yours come to us also, with willingness.
+
+*(As printed the Bhāvārtha says "in the atmosphere"; the sense of the Pratipadārtha is "so that they might go up [out of the well]". Recorded as printed.)*
+
+**English Translation (as printed in the source; Rik 112.5)**
+
+"With those aids by which you raised up from the water, Rebha, who had been cast bound (into a well), and also Vandana (similarly circumstanced) to behold the sky; by which you protected Kanwa, when longing to see the light; with them, Aswins, come willingly hither."
+
+*(The printed heading of this English passage reads "English Tranlation", a misprint [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.5)**
+
+**निवृतं सितं रेभं अद्भ्यः उदैरयतम् — Nivṛtaṃ sitaṃ rebham adbhyaḥ udairayatam.** "'You raised up from the water Rebha, who had been thrown into a well by the demons and bound with bonds' — thus the *itihāsa* is told." Explaining this *itihāsa*, Skandasvāmi has:
+
+> अत्रेतिहासमाचक्षते । सन्ध्याकाले स्नात्वा ह्रदादुत्तीर्णं रेभमृषिमग्निहोत्रं होतुं स्वाश्रमं गच्छन्तमसुरा ददृशुः । ते देवानाम् *(the quotation runs across the page-break)*
+
+---
+
+### Page 746 (PDF 766)
+
+*(Running head: left 746; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> अयं यष्टा स्तोता चेति ज्ञात्वा सङ्क्रुद्धाः तं ताडयित्वा बद्ध्वा च तस्मिन् ह्रदे प्रक्षिप्य दशरात्रं धारयाञ्चक्रुरिति । तदपि कक्षीवानेव वक्ष्यति ।
+> *atretihāsam ācakṣate | sandhyākāle snātvā hradād uttīrṇaṃ rebham ṛṣim agnihotraṃ hotuṃ svāśramaṃ gacchantam asurā dadṛśuḥ | te devānām ayaṃ yaṣṭā stotā ceti jñātvā saṅkruddhāḥ taṃ tāḍayitvā baddhvā ca tasmin hrade prakṣipya daśarātraṃ dhārayāñ cakrur iti | tad api kakṣīvān eva vakṣyati |*
+> "Here they tell the tale: the asuras saw the ṛṣi Rebha, who had bathed at twilight and come up out of the lake, going to his own hermitage to offer the *agnihotra*. Knowing 'this one is a sacrificer and praiser of the gods', they were enraged, beat him, bound him, threw him into that lake, and kept him there ten nights. Kakṣīvān himself will tell this too."
+
+"At twilight the ṛṣi named Rebha, having bathed, was going from the lake to his hermitage to carry out the *agnihotra* and other rites; the asuras saw him; knowing, 'this one performs sacrifices for the gods and praises them', they became angry, struck him, bound him with ropes and threw him into that lake [well], and kept him imprisoned there for ten nights." Having told this tale, he says that Kakṣīvān too has told of this setting, and quotes the Ṛks seen by him:
+
+> दश रात्रीरशिवेना नव द्यून् अवनद्धं श्नथितमप्स्वन्तः ।
+> विप्रुतं रेभमुदनि प्रवृक्तमुन्निन्यथुः सोममिव स्रुवेण ।
+> *daśa rātrīr aśivenā nava dyūn avanaddhaṃ śnathitam apsv antaḥ |*
+> *viprutaṃ rebham udani pravṛktam unninyathuḥ somam iva sruveṇa |*
+> (*Ṛ.* 1-116-24 as read [?])
+> "Ten nights, nine days, bound, hurt, in the waters; Rebha, thrown out into the water, abandoned: you drew him up as [one draws] Soma with the ladle." *(mine and tentative)*
+
+> अश्वं न गूळ्हमश्विना दुरेवैर्ऋषिं नरा वृषणा रेभमप्सु ।
+> सं तं रिणीथो विप्रुतं दंसोभिर्न वां जूर्यन्ति पूर्व्या कृतानि ।
+> *aśvaṃ na gūḷham aśvinā durevair ṛṣiṃ narā vṛṣaṇā rebham apsu |*
+> *saṃ taṃ riṇītho viprutaṃ daṃsobhir na vāṃ jūryanti pūrvyā kṛtāni |*
+> (*Ṛ.* 1-116-4 as read [?])
+> *(Sanskrit as read; the first line is doubtful in places [?]. Gloss, mine and tentative: "O Aśvins, bold men, the ṛṣi Rebha, hidden in the waters like a [lost] horse by the evil-doers; with your deeds you set him free; your ancient works do not grow old.")*
+
+In Ṛks such as these the ṛṣi Kakṣīvān too, praising the Aśvin deities, tells of the help they gave to Rebha, how they lifted him up from the well and, by their healing arts, cured the wounds he had received; and he says that no one can ever forget benefactions of this kind. Ghoṣā, the *brahmavādinī* who was Kakṣīvān's daughter, has told the same *itihāsa* too, in the Ṛk
+
+> युवं ह रेभं वृषणा गुहा हितमुदैरयतं ममृवांसमश्विना ।
+> *yuvaṃ ha rebhaṃ vṛṣaṇā guhā hitam ud airayataṃ mamṛvāṃsam aśvinā |*
+> (*Ṛ.* 10-39-9 as read [?])
+
+praising the Aśvin deities by it.
+
+**वन्दनं स्वः दृशे — Vandanaṃ svaḥ dṛśe.** "[He was lifted] from the well in which he was caught, to see the sun": this too is an *itihāsa*; Skandasvāmi, explaining it, has:
+
+> तथापरमितिहासमाचक्षते । वन्दन ऋषिर्जरया परीतः कूपसमीपे गच्छन् कूपे पपात । स तत्रस्थोऽश्विनौ तुष्टाव । तमश्विनावागत्योत्तारयाञ्चक्रतुरिति ।
+> *tathāparam itihāsam ācakṣate | vandana ṛṣir jarayā parītaḥ kūpasamīpe gacchan kūpe papāta | sa tatrastho 'śvinau tuṣṭāva | tam aśvināv āgatyottārayāñ cakratur iti |*
+> "And they tell another tale: the ṛṣi Vandana, overcome by old age, fell into a well as he went near it. Remaining there, he praised the two Aśvins; the two Aśvins came and brought him up."
+
+"Vandana, a ṛṣi filled with age, fell into a well while walking near it. Praising the Aśvin deities from where he was, he was lifted out by them": this tale is told, and the setting is said to have been told by Kakṣīvān and his daughter, the *brahmavādinī* Ghoṣā, in the Ṛks seen by them, which he quotes with their references:
+
+> तद्वां नरा शंस्यं राध्यं चाभिष्टिमन्नासत्या वरूथम् ।
+> यद्विद्वांसा निधिमिवापगूळ्हमुद्दर्शतादूपथुर्वन्दनाय ।
+> *tad vāṃ narā śaṃsyaṃ rādhyaṃ cābhiṣṭimat nāsatyā varūtham |*
+> *yad vidvāṃsā nidhim ivāpagūḷham ud darśatād ūpathur vandanāya |*
+> (*Ṛ.* 1-116-11 as read [?])
+> *(Sanskrit as read; doubtful in the second line [?]; no gloss attempted.)*
+
+*(the passage continues on p. 747)*
+
+---
+
+### Page 747 (PDF 767)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 747.)*
+
+*(…continuing:)* "In Ṛks such as these it is also said that he was lifted out of the well:
+
+> युवं वन्दनं निर्ऋतं जरण्यया रथं न दस्रा करणा समिन्वथः ।
+> *yuvaṃ vandanaṃ nirṛtaṃ jaraṇyayā rathaṃ na dasrā karaṇā sam invathaḥ |*
+> (*Ṛ.* 1-119-7 as read [?])
+> *(Sanskrit as read; doubtful [?]; no gloss attempted.)*
+
+In such Ṛks it is also said that Vandana, who was old, was made young again and given long life."
+
+**सिषासन्तं कण्वं प्र आवतम् — Siṣāsantaṃ kaṇvaṃ pra āvatam.** There is another *itihāsa* for 'the demons threw Kaṇva into darkness, and, desiring to see light, you protected him with your helps'. Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । कण्व ऋषिरन्धो बभूव । स चक्षुष्कामोऽश्विनौ तुष्टाव । तस्मा अश्विनौ चक्षुर्ददतुरिति ।
+> *atrāpītihāsam ācakṣate | kaṇva ṛṣir andho babhūva | sa cakṣuṣkāmo 'śvinau tuṣṭāva | tasmā aśvinau cakṣur dadatur iti |*
+> "Here too they tell the tale: the ṛṣi Kaṇva became blind. Wishing for sight, he praised the two Aśvins; the Aśvins gave him sight."
+
+— the story is well known that the ṛṣi Kaṇva, having become blind, praised the Aśvin deities, and they gave him eyes and removed his blindness. The name of Kaṇva and the Kāṇva lineage are both very ancient and famous. Kaṇva's glory and his divine deeds are praised in many places in the Ṛk-Saṃhitā.
+
+> यमग्निं मेध्यातिथिः कण्व ईध ऋतादधि ।
+> *yam agniṃ medhyātithiḥ kaṇva īdha ṛtād adhi |*
+> (*Ṛ.* 1-36-11 as read [?])
+
+> अग्निर्वने सुवीर्यमग्निः कण्वाय सौभगम् ।
+> *agnir vane suvīryam agniḥ kaṇvāya saubhagam |*
+> (*Ṛ.* 1-36-17 as read [?])
+
+In Ṛks such as these Kaṇva appears as one who worships Agni and receives favour from Agni; and
+
+> याभिः कण्वमभिष्टिभिः प्रावतं युवमश्विना ।
+> *yābhiḥ kaṇvam abhiṣṭibhiḥ prāvataṃ yuvam aśvinā |*
+> (*Ṛ.* 1-42-5 as read [?])
+
+> युवं कण्वायापिरिप्ताय चक्षुः प्रत्यधत्तं सुष्टुतिं जुजुषाणा ।
+> *yuvaṃ kaṇvāyāpiriptāya cakṣuḥ praty adhattaṃ suṣṭutiṃ jujuṣāṇā |*
+> (*Ṛ.* 1-118-7 as read [?])
+> *(Sanskrit as read; the first is doubtful in its numerals [?]; no gloss attempted for either.)*
+
+In many Ṛks such as these (*Ṛ.* 8-5-23, 8-5-25 as read [?]) it is likewise to be understood that Kaṇva obtained protection from the Aśvin deities. Kaṇva's sons, his lineage, are famous as seers of the hymns in many sūktas in the Ṛk-Saṃhitā. Except for a few sūktas, the whole of the eighth Maṇḍala belongs to the Kāṇva lineage. Āśvalāyana calls the authors of this maṇḍala *Pragāthas*. The *Pragāthas* are of the Kāṇva line and the seer of the first hymn [of that maṇḍala]; so Āśvalāyana calls them all *Pragāthas* together. In the *Bṛhaddevatā* it is told that Kaṇva and Pragātha were brothers, and that Pragātha, Kaṇva's brother, gained the power to compose hymns through his own greatness and also through purity of mind.
+
+---
+
+### Page 748 (PDF 768)
+
+*(Running head: left 748; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The* Bṛhaddevatā *passage, quoted in Sanskrit; Sanskrit as read from the print, in three layers; the verse-numbers as printed.)*
+
+> कण्वस्यैव प्रगाथश्च घोरपुत्रौ बभूवतुः ।
+> गुरुहा तावनुज्ञातावूषतुः सहितौ वने ॥
+> वसतोस्तु तयोस्तत्र कण्वपत्न्याः शिरः स्वपत् [?] ।
+> कृत्वा कनीयान्कण्वस्य उत्सङ्गे नान्वबुध्यत ॥
+> शप्तुकामस्तु तं कण्वः क्रुद्धः पापाभिशङ्कया ।
+> बोधयामास पादेन दिधक्षन्निव तेजसा ॥
+> विदित्वा तस्य तं भावं प्रगाथः प्राञ्जलिस्थितः ।
+> मातृत्वे च पितृत्वे च वरयामास तावुभौ ॥
+> स घौरो वाथ काण्वो वा वंशजैर्बहुभिः सह ।
+> ददर्शाष्टैश्च सहिते [?] ऋषिर्मण्डलमष्टमम् ॥
+> *kaṇvasyaiva pragāthaś ca ghoraputrau babhūvatuḥ |*
+> *guruhā tāv anujñātāv ūṣatuḥ sahitau vane ‖*
+> *vasatos tu tayos tatra kaṇvapatnyāḥ śiraḥ svapat [?] |*
+> *kṛtvā kanīyān kaṇvasya utsaṅge nānvabudhyata ‖*
+> *śaptukāmas tu taṃ kaṇvaḥ kruddhaḥ pāpābhiśaṅkayā |*
+> *bodhayām āsa pādena didhakṣann iva tejasā ‖*
+> *viditvā tasya taṃ bhāvaṃ pragāthaḥ prāñjalisthitaḥ |*
+> *mātṛtve ca pitṛtve ca varayām āsa tāv ubhau ‖*
+> *sa ghauro vātha kāṇvo vā vaṃśajair bahubhiḥ saha |*
+> *dadarśāṣṭaiś ca sahite [?] ṛṣir maṇḍalam aṣṭamam ‖*
+> (*Bṛ. De.* 6-35 to 39 as read [?])
+> *(Sanskrit as read; doubtful in the second line and in the last line [?]; I have not completed them from memory.)*
+
+"Kaṇva and Pragātha were both sons of Ghora. The two lived together in the forest, with the leave of their teacher. Once, while they were living so, the younger, Pragātha, laid his head in the lap of Kaṇva's wife and slept; and did not wake. Kaṇva, seeing it and suspecting wrong, with the intention of cursing him, woke him with a kick, looking at him as if to burn him with the fire of his anger. Pragātha, understanding Kaṇva's mind, joined his hands and told him that he regarded the two of them as mother and father, and humbly begged to be seen as a son. By this purity of mind he obtained the vision of the hymns of the eighth Maṇḍala, and the tale is told that, with the other seers of the Kāṇva lineage, he became the author of the eighth Maṇḍala: this is the description of the greatness of Kaṇva and of the Kāṇva lineage. The very great glory of Kaṇva —
+
+> स इदग्निः कण्वतमः कण्वसखार्यः परस्यान्तरस्य तरुषः ।
+> *sa id agniḥ kaṇvatamaḥ kaṇvasakhāryaḥ parasyāntarasya taruṣaḥ |*
+> (*Ṛ.* 10-115-5 as read [?])
+> *(Sanskrit as read; doubtful in the last words [?]; no gloss attempted.)*
+
+— from Ṛks such as these one may know that Kaṇva is described as a friend of Agni and of other deities. In the same way the glory of Kaṇva is also described in the Vājasaneyi Saṃhitā (as read, [?]), in the Pañcaviṃśa Brāhmaṇa (8-33 as read [?]), and in the Kauṣītaki Brāhmaṇa (as read [?]). In the Śatapatha Brāhmaṇa too:
+
+> चित्रामाहं वृणे सुमतिं विश्वजन्यां यामस्य कण्वो अदुहत्प्रपीनां सहस्रधारां पयसा महीं गामिति कण्वो हैनां ददर्श सा हास्मै सहस्रधारा सर्वान्कामान्दुदुहे ।
+> *citrām āhaṃ vṛṇe sumatiṃ viśvajanyāṃ yām asya kaṇvo aduhat prapīnāṃ sahasradhārāṃ payasā mahīṃ gām iti kaṇvo hainām dadarśa sā hāsmai sahasradhārā sarvān kāmān duduhe |*
+> (*Śa. Brā.* 4-3-3-38 as read [?])
+> *(Sanskrit as read from the print; I have not corrected it from memory. Gloss, mine and tentative: "'I choose the wondrous, well-minded [cow] belonging to all folk, whom Kaṇva milked for him, the fat one, the great cow of a thousand streams of milk': Kaṇva saw her, and she, with her thousand streams, yielded him all his desires.")*
+
+"Kaṇva saw the cow with a thousand streams, delightful to all and worthy of worship; and when he called her she fulfilled all his desires: this is also stated in the Vājasaneyi Saṃhitā" *(the passage runs on to p. 749)*
+
+---
+
+**Progress note:** Printed pp. 1–748 done (PDF 21–768): Sūkta 112: Riks 112.1–112.4 complete (pp. 723–743); Rik 112.5 (printed pp. 744–[?]): Saṃhitā, Pada, bhāṣya, tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Rebha, Vandana and Kaṇva, with Skandasvāmi's itihāsas, Ṛg citations, the Bṛhaddevatā on Kaṇva and Pragātha, and the Śatapatha Brāhmaṇa on Kaṇva) done through the foot of p. 748, ending mid-sentence ('…also stated in the Vājasaneyi Saṃhitā'). Next: printed p. 749 (PDF 769). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
