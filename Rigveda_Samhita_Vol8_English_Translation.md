@@ -11745,5 +11745,99 @@ The grammar of Rik 104.7 concludes (noted briefly). *Codasva* (root *cuda prera�
 *mā no vadhīr indra mā parā dā mā naḥ priyā bhojanāni pra moṣīḥ | āṇḍā mā no maghavañ chakra nir bhen mā naḥ pātrā bhet sahajānuṣāṇi ‖ 8 ‖* *(accent-marks in the print not reproduced; "sahajānuṣāṇi" as printed, to be checked against the Pada on p. 430 [?])*
 
 ---
+### Page 430 (PDF 450)
 
-**Progress note:** Printed pp. 1–429 done (PDF 21–449): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.7 complete (pp. 395–429); Rik 104.8 (printed pp. 429–[?]): Saṃhitā only, at the foot of p. 429. Next: printed p. 430 (PDF 450): the Pada of 104.8, then its bhāṣya etc.; then Rik 104.9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 430; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.8)**
+
+> मा । नः । वधीः । इन्द्र । मा । परा । दाः । मा । नः । प्रिया । भोजनानि । प्र । मोषीः ।
+> आण्डा । मा । नः । मघऽवन् । शक्र । निः । भेत् । मा । नः । पात्रा । भेत् । सहऽजानुषाणि ॥ ८ ॥
+
+*mā | naḥ | vadhīḥ | indra | mā | parā | dāḥ | mā | naḥ | priyā | bhojanāni | pra | moṣīḥ | āṇḍā | mā | naḥ | magha-van | śakra | niḥ | bhet | mā | naḥ | pātrā | bhet | saha-jānuṣāṇi ‖ 8 ‖* *(Pada as printed: *saha-jānuṣāṇi* is divided here, so the Saṃhitā's "sahajānuṣāṇi" is read as *saha* + *jānuṣāṇi*; the Saṃhitā's "nir bhen" is the Pada's *niḥ | bhet*. The Pada has *bhet* twice.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.8)**
+
+> हे इन्द्र नोऽस्मान्मा वधीः । मा हिंसीः । सर्वदा रक्षेत्यर्थः । अपि च मा परा दाः । मा परित्याक्षीः । परादानं परित्यागः । अस्मत्कृतां पूजां सर्वदा गृहाणेत्यर्थः । अपि च नोऽस्माकं प्रिया प्रियाणीप्सितानि भोजनान्युपभोग्यानि धनानि मा प्रमोषीः । मापहार्षीः । अस्माकमेव धनानि यथा स्युस्तथा कुर्वित्यर्थः । तथा हे मघवन् धनवन् शक्र सर्वकार्येषु शक्तेन्द्र नोऽस्माकमाण्डाण्डसंबन्धीनि गर्भरूपेण निषिक्तान्यपत्यानि मा भेत् । मा भिनः । गर्भरूपेणावस्थितानस्मत्पुत्रानू [?] रक्षेत्यर्थः । मा च नः पात्रा । पतन्ति गच्छन्ति गमनसमर्थानि यान्यपत्यानि पात्राणि । तानि च मा भेत् । मा भिदः । सहजानुषाणि । जानुभ्यां यानि भूमिं सनन्ति । गच्छन्तीत्यर्थः । तानि जानुषाणि । तैः सहितानि मा विनीनशः [?] ॥ वधीः । हन्तेर्माङि लुङि चेति वधादेशः । स चादन्तः । सिच् । अतो लोप इत्यकारलोपः । तस्य स्थानिवद्भावादतो हलादेरिति वृद्ध्यभावः । इट ईटीति सिचो लोपः । मोषीः । मुष स्तेये । लुङि सिचि इट् । नेटीति वृद्धिप्रतिषेधः । भेत् । भिदिर् विदारणे । लुङः सिपि बहुलं छन्दसीति विकरणस्य लुक् । लघूपधगुणः । हल्ङ्याब्भ्य इति सिचो लोपः ॥
+> *he indra no 'smān mā vadhīḥ | mā hiṃsīḥ | sarvadā rakṣety arthaḥ | api ca mā parā dāḥ | mā parityākṣīḥ | parādānaṃ parityāgaḥ | asmatkṛtāṃ pūjāṃ sarvadā gṛhāṇety arthaḥ | api ca no 'smākaṃ priyā priyāṇīpsitāni bhojanāny upabhogyāni dhanāni mā pramoṣīḥ | māpahārṣīḥ | asmākam eva dhanāni yathā syus tathā kurv ity arthaḥ | tathā he maghavan dhanavan śakra sarvakāryeṣu śaktendra no 'smākam āṇḍāṇḍasaṃbandhīni garbharūpeṇa niṣiktāny apatyāni mā bhet | mā bhinaḥ | garbharūpeṇāvasthitān asmatputrān [?] rakṣety arthaḥ | mā ca naḥ pātrā | patanti gacchanti gamanasamarthāni yāny apatyāni pātrāṇi | tāni ca mā bhet | mā bhidaḥ | sahajānuṣāṇi | jānubhyāṃ yāni bhūmiṃ sananti | gacchantīty arthaḥ | tāni jānuṣāṇi | taiḥ sahitāni mā vinīnaśaḥ [?] ‖ vadhīḥ | hanter māṅi luṅi ceti vadhādeśaḥ | sa cādantaḥ | sic | ato lopa ity akāralopaḥ | tasya sthānivadbhāvād ato halāder iti vṛddhyabhāvaḥ | iṭa īṭīti sico lopaḥ | moṣīḥ | muṣa steye | luṅi sici iṭ | neṭīti vṛddhipratiṣedhaḥ | bhet | bhidir vidāraṇe | luṅaḥ sipi bahulaṃ chandasīti vikaraṇasya luk | laghūpadhaguṇaḥ | halṅyābbhya iti sico lopaḥ ‖* *(Sanskrit as read; a few words are doubtful [?], not completed from memory; the grammatical tail from "vadhīḥ" on is given, though briefly, because it is short.)*
+
+"O Indra, do not strike us (*mā vadhīḥ*): do not injure us; protect [us] always. And do not abandon us (*mā parā dāḥ*): *parādāna* is abandonment: always accept the worship made by us. Further, do not carry off our dear, desired *bhojanāni* — enjoyable wealth: do not rob us; so act that the wealth shall be ours. Likewise, O Maghavan, O wealthy one, O Śakra, Indra capable in all works: do not destroy (*mā bhet*, do not split) our offspring in the form of an embryo, connected with the egg; protect our sons who lie in the womb. And [do not destroy] our *pātrā*: offspring that go about, that are able to move; and do not hurt them; *sahajānuṣāṇi* — those which go on the ground with the knees, that is, which creep: these are *jānuṣāṇi*; do not destroy [the offspring] along with them [?]."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)**
+
+*Indra* — O Indra; *naḥ* — us; *mā vadhīḥ* — do not harm; (and) *mā parā dāḥ* — do not abandon; *naḥ* — our; *priyā* — desired; *bhojanāni* — the materials of enjoyment, the wealth *(continued on p. 431)*
+
+---
+
+### Page 431 (PDF 451)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 431.)*
+
+— *mā pramoṣīḥ* — do not seize; *maghavan* — O possessor of wealth; *śakra* — O Indra, capable of all works; *naḥ* — our; *āṇḍā* — the offspring that are in the form of an embryo; *mā bhet* — do not crush; *naḥ* — our; *pātrā* — the young children that go about; *mā bhet* — do not destroy; *sahajānuṣāṇi* — (do not harm) the children who go about creeping on the knees.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra, do not harm us. And do not abandon us, withdrawing your protection. Do not seize from us the materials of enjoyment, which are priceless and dear to us. O Indra, capable of all works, do not injure even a little, but protect all: our offspring in the form of embryos, the children who creep on their knees, and the children who are able to walk.
+
+**English Translation (as printed in the source; misprints marked [sic])**
+
+"Harm us not, Indra, abandon us not ; deprive us not of the enjoyments that are dear to us ; injure not affluent Sakra [sic], our unborn offspring ; harm not those who are capable (only of crawling) on their knees."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.8)**
+
+"Although Indra is a protector, he is also one who punishes those who do wrong. He causes the Asuras to be harmed; he gives up the wicked; he seizes their wealth. Since everyone fears this punishing power of his, it is prayed that such cruelty be not turned upon the sacrificers."
+
+**Mā parā dāḥ** — *parādānaṃ parityāgaḥ | mā parityākṣīḥ |* "do not abandon", or else "do not hand us over into the power of the Asuras" — such is the meaning. The word *parādā* has the meaning 'sale' in one place only:
+
+> महे चन त्वामद्रिवः परा शुल्काय देयाम् ।
+> *mahe cana tvām adrivaḥ parā śulkāya deyām |* (*Ṛ. Saṃ.* 8-1-5 as read [?])
+
+> महत्वेऽपि शुल्काय न विक्रीणानि ।
+> *mahatve 'pi śulkāya na vikrīṇāni |* (the explanation of that Ṛk: "even for a great price I would not sell [you]"; as read [?])
+
+"— so it is said in another Ṛk; in all other places the meaning is simply 'abandon, do not abandon [us]'." (Kannada.)
+
+**Bhojanāni** — "the word *bhojana* is read among the names of wealth (*Ni.* 2-[?] as read [?]): *upabhogyāni dhanāni* — wealth that is fit to be enjoyed."
+
+---
+
+### Page 432 (PDF 452)
+
+*(Running head: left 432; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+
+> विश्वा अग्ने अभियुजो विहत्य शत्रूयतामा भरा भोजनानि ।
+> *viśvā agne abhiyujo vihatya śatrūyatām ā bharā bhojanāni |* (*Ṛ. Saṃ.* 3-[?]-3 as read [?])
+
+> इहेह्येषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः ।
+> *iheh y eṣāṃ kṛṇuhi bhojanāni ye barhiṣo namovṛktiṃ na jagmuḥ |* (*Ṛ. Saṃ.* 10-[?]-3 as read [?]; the first word as printed [?])
+
+"In Ṛks such as these, as the word *bhojana* means 'wealth', so here too it means 'wealth'."
+
+**Śakra** — *sarvakāryeṣu samarthendra |* "Indra, capable in all works: this shows his capability, 'one who is capable in all works'. That *śakra* means Indra is fixed by usage (*rūḍhi*). (But in the Ṛk-saṃhitā this epithet is used also with reference to other gods; that, however, is unusual.) It is an epithet that describes exceedingly Indra's capability."
+
+**Pātrā** — *patanti, gacchanti gamanasamarthāni yāny apatyāni |* "the offspring who are able to go about: the young children who move about (do not harm them)".
+
+**Āṇḍā** — *aṇḍasaṃbandhīni garbharūpeṇa niṣiktāny apatyāni |* "the offspring that are in the form of an embryo, connected with the egg (do not harm the infants who are within the womb)".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.8)** *(grammar pages, pp. 432–433, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Vadhīḥ* (root *han hiṃsāgatyoḥ*; *luṅ*, second person singular, *sip*; loss of *i* by *itaś ca*; *vadha* substituted by *luṅi ca*, Pā. Sū. 2-4-43 as read [?]; *cli* → *sic*; the loss of the final *a* by *ato lopaḥ*, Pā. Sū. 6-4-48 as read [?], which, because of *sthānivadbhāva* (*acaḥ parasmin pūrvavidhau*), does not bring about *vṛddhi* by *sici vṛddhiḥ parasmaipadeṣu* [Pā. Sū. 7-2-1 as read [?]]; *īṭ* of the suffix by *asti-sico 'pṛkte*, Pā. Sū. 7-3-96 as read [?]; loss of *sic* by *iṭa īṭi*, Pā. Sū. 8-2-28 as read [?]; *ru*-visarga; no *aṭ* by *na māṅyoge*, Pā. Sū. 6-4-74 as read [?]; *nighāta*). *Dāḥ* (explained under the fifth Mantra of this Sūkta). *Bhojanāni* (root *bhuja pālanābhyavahārayoḥ*; *lyuṭ* in the sense of the verbal noun; *guṇa* of the light penult; *ana* for *yu* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; the accent before the suffix, since it is *lit* [Pā. Sū. 6-1-193 as read, doubtful [?]])
+
+---
+
+### Page 433 (PDF 453)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 433 [partly lost in the scan].)*
+
+The grammar of Rik 104.8 concludes (noted briefly). *Moṣīḥ* (root *muṣa steye*; *luṅ*, second person singular *sip*; loss of *i*; *cli* → *sic*; the *iṭ* augment; *vṛddhi* would arise but is blocked by *neṭi*, Pā. Sū. 7-2-4 as read [?]; *īṭ* of the suffix by *asti-sico 'pṛkte*; loss of *sic* by *iṭa īṭi*; no *aṭ* because of the *mā*-conjunction; *nighāta*). *Āṇḍā* (*aṇḍasya imāni āṇḍāni*; *aṇ* by *tasyedam*, Pā. Sū. 4-3-120 as read [?]; initial *vṛddhi* by *taddhiteṣv acām ādeḥ*, Pā. Sū. 7-2-117 as read [?]; the neuter plural *śi*; its loss by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]). *Bhet* (root *bhidir vidāraṇe*; *luṅ*, second person singular *sip*; loss of *i* by *itaś ca*; the *vikaraṇa* *śnam* is dropped by *bahulaṃ chandasi*; *guṇa* of the light penult by *pugantalaghūpadhasya ca*, Pā. Sū. 7-3-86 as read [?]; loss of *sip* by *hal-ṅyābbhyo…*, Pā. Sū. 6-1-68 as read [?]; no *aṭ*; final *cartva* by *vāvasāne*, Pā. Sū. 8-4-56 as read [?]; *nighāta*). *Sahajānuṣāṇi* (root *saṇa saṃbhaktau*; *kvip*; *ā* by *janasanakhanāṃ sañjhaloḥ*, Pā. Sū. 6-4-42 as read [?]; *jānubhyāṃ sananti iti jānuṣāṇi*, 'those that go on the knees'; *jānuṣaiḥ sahitāni sahajānuṣāṇi*; the accent of the prior member by *tatpuruṣe tulyārthatṛtīyā…*, Pā. Sū. 6-2-2 as read [?]). The Rik is closed with *‖ 8 ‖* and an ornament.
+
+## Rik 104.9 — printed pp. 433–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.9)** *(first line at the foot of p. 433; the second line is on p. 434; the page ends with the printer's signature "28 / VOLUME 6" [sic: as printed, noted only])*
+
+> अर्वाङेहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय ।
+> *arvāṅ ehi somakāmaṃ tvāhur ayaṃ sutas tasya pibā madāya |* *(the second half of the Ṛk follows on p. 434)*
+
+---
+
+**Progress note:** Printed pp. 1–433 done (PDF 21–453): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.8 complete (pp. 395–433); Rik 104.9 (printed pp. 433–[?]): the first line of the Saṃhitā done at the foot of p. 433. Next: printed p. 434 (PDF 454): the second line of 104.9, its Pada and bhāṣya etc. (the Sūkta ends before p. 440). Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
