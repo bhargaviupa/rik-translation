@@ -13544,5 +13544,104 @@ As described in Ṛks beginning in this way, here also it is said that Agni has 
 Grammar pages, noted briefly. *Āpyam* (root *āpḷ vyāptau*; the causal *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; after the causal, the suffix *i* by an Uṇādi rule *ajer iḥ* [?], Uṇ. 4-1[?]2 as read [?]; loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the form *āpi*; the sense of the abstract, from it—) *(the grammar continues on p. 502)*
 
 ---
+### Page 502 (PDF 522)
 
-**Progress note:** Printed pp. 1–501 done (PDF 21–521): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.12 complete (pp. 441–498); Rik 105.13 (printed pp. 499–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 499–501); its grammar begun at the foot of p. 501 (at *āpyam*, mid-sentence). Next: printed p. 502 (PDF 522). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 502; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.13 continues and concludes (noted briefly). *Āpyam*, concluded: in the sense of the abstract, the suffix *ṣyañ* by *guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca*, Pā. Sū. 5-1-124 as read [?], since *āpi* is in the *brāhmaṇādi* group; since the suffix is *ñit*, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]. *Sattaḥ* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; since *ṣatva* would be expected, by *nasattaniṣattānuttapratūrta…* (a *nipātana*), Pā. Sū. 8-2-61 as read [?], no change of *t* to *n* by *radābhyāṃ niṣṭhāto naḥ*, Pā. Sū. 8-2-42 as read [?]; as *ni*, a prefix, is placed by *nipātana*, the Vedic loss of the word *ni* here is to be understood). *Manuṣvat* (root *mana jñāne*; the Uṇādi suffix *usi*; the word *manus*; the suffix *vati* in the sense of the sixth case by *tatra tasyeva*, Pā. Sū. 5-1-116 as read [?]; *ru*-change would be expected, but by the vārttika *nabhoṅgiromanuṣāṃ vatyupasaṃkhyānam* the name *bha* applies as an exception, and *ru*-change does not occur). *Yakṣi* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *laṭ*, second person singular, *sip*; *luk* of *śap* by *bahulaṃ chandasi*; *ṣatva* by *vraścabhrasja…*, Pā. Sū. 8-2-36 as read [?]; *ka* by *ṣaḍhoḥ kaḥ si*, Pā. Sū. 8-2-41 as read [?]; *ṣatva* of the suffix's *s* by *ādeśapratyayayoḥ*, Pā. Sū. 8-3-59 as read [?]; *nighāta* as it follows a non-verb). *Viduṣṭaraḥ* (root *vida jñāne*; with *laṭ*, *śatṛ*; *vasu* for *śatṛ* by *vido śatur vasuḥ*, Pā. Sū. 7-1-36 as read [?]; *atiśayena vidvān viduṣṭaraḥ* — the suffix *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. Sū. 5-3-57 as read [?]; because it is in the *ayasmayādi* class, the name *bha* by *ayasmayādīni chandasi*, Pā. Sū. 1-4-20 as read [?], so *saṃprasāraṇa* of *vasu* by *vasoḥ saṃprasāraṇam*, Pā. Sū. 6-4-131 as read [?]; then *pūrvarūpa*, giving *viduṣ-tara*; the *ṣatva* of the *s* of *vasu* by *śāsivasighasīnāṃ ca*, Pā. Sū. 8-3-60 as read [?]; since *tarap* is *pit*, it is *anudātta*, and the accent of *vasu* remains). The Rik is closed with *‖ 13 ‖* and a rule of dashes.
+
+---
+
+### Page 503 (PDF 523)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 503.)*
+
+## Rik 105.14 — printed pp. 503–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.14)**
+
+> सत्तो होता मनुष्वदा देवाँ अच्छा विदुष्टरः ।
+> अग्निर्हव्या सुषूदति देवो देवेषु मेधिरो वित्तं मे अस्य रोदसी ॥ १४ ॥
+
+*satto hotā manuṣvad ā devāṁ acchā viduṣṭaraḥ | agnir havyā suṣūdati devo deveṣu medhiro vittaṃ me asya rodasī ‖ 14 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.14)**
+
+> सत्तः । होता । मनुष्वत् । आ । देवान् । अच्छ । विदुःऽतरः ।
+> अग्निः । हव्या । सुसूदति । देवः । देवेषु । मेधिरः । वित्तम् । मे । अस्य । रोदसी इति ॥ १४ ॥
+
+*sattaḥ | hotā | manuṣvat | ā | devān | accha | viduḥ-taraḥ | agniḥ | havyā | susūdati | devaḥ | deveṣu | medhiraḥ | vittam | me | asya | rodasī iti ‖ 14 ‖* *(the Pada's "susūdati" is as printed; the Saṃhitā has "suṣūdati")*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.14)**
+
+> मनुष्वत् मनोरिवास्माकं यज्ञे सत्तो निषण्णो होता देवानामाह्वाता विदुष्टरो विद्वत्तरो देवो दानादिगुणयुक्तो देवेषु सर्वेष्विन्द्रादिषु मध्ये मेधिरो मेधावी । एवंभूतोऽग्निः स्वानेवान् [?] अच्छाभिमुख्येन हव्या हव्यान्यस्मदीयानि हवींषि । आ मर्यादायामाकारः । शास्त्रमर्यादया यथाशास्त्रं सुषूदति । प्रेरयतु । अस्यत्पूर्ववत् [?] ॥ सुषूदति । षूद क्षरणे । लेट्यडागमः । बहुलं छन्दसीति शपः श्लुः । मेधिरः । मेधारथाभ्यामिरनिरचौ वक्तव्यौ । पा. ५-२-१०९ [?] । इति मत्वर्थीय इरन् ॥
+> *manuṣvat manor ivāsmākaṃ yajñe satto niṣaṇṇo hotā devānām āhvātā viduṣṭaro vidvattaro devo dānādiguṇayukto deveṣu sarveṣv indrādiṣu madhye medhiro medhāvī | evaṃbhūto 'gniḥ svānevān [?] acchābhimukhyena havyā havyāny asmadīyāni havīṃṣi | ā maryādāyām ākāraḥ | śāstramaryādayā yathāśāstraṃ suṣūdati | prerayatu | asyatpūrvavat [?] ‖ suṣūdati | ṣūda kṣaraṇe | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapaḥ śluḥ | medhiraḥ | medhārathābhyām iranirac cau vaktavyau | pā. 5-2-109 [?] | iti matvarthīya iran ‖* *(Sanskrit as read; the word "svānevān" [for *devān*?] is clotted in the print and given with doubt [?]; the tail is short and is given.)*
+
+"*Manuṣvat*: as with Manu, [Agni], seated (*sattaḥ*) at our sacrifice, the *hotṛ*, the caller of the gods, very wise (*viduṣṭaraḥ*), a god (*devaḥ*) endowed with the qualities of generosity and the like, among all the gods, Indra and the rest, *medhiraḥ*, endowed with intelligence — such an Agni, facing (*acchā*) the gods, [should offer] our oblations (*havyā*); *ā* is in the sense of the limit: according to the rule of scripture, as the scripture lays down, may he send (*suṣūdati*) [them]. [The rest] as before. *Suṣūdati*: root *ṣūda kṣaraṇe*; the augment *aṭ* in the *leṭ*; *śap* becomes *ślu* by *bahulaṃ chandasi*. *Medhiraḥ*: the suffixes *ira* and *ira* are to be stated after *medhā* and *ratha* [*medhārathābhyām…*]; the suffix *iran* in the sense of 'possessing'."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.14; Kannada; English)**
+
+*Manuṣvat* — as is done at the sacrifice of Manu; *sattaḥ* — seated (at our sacrifice too); *hotā* — the one who calls (the gods); *viduṣṭaraḥ* — exceedingly wise; *devaḥ* — endowed with qualities such as liberality; *deveṣu* — among the gods, Indra and the rest; *medhiraḥ* — exceedingly intelligent; *agniḥ* — Agni; *devān* — those gods; *acchā* — facing; *havyā* — (our) oblations *(continued on p. 504)*
+
+---
+
+### Page 504 (PDF 524)
+
+*(Running head: left 504; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104 [sic: small numerals as read, the Sūkta is 105] [?]".)*
+
+— *ā* — in the manner prescribed in scripture; *suṣūdati* — may he offer; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or the sorrow that came of falling in the well; *vittam* — know.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May Agni, who calls the gods, who is exceedingly wise, endowed with generosity and other qualities, and exceedingly intelligent among Indra and the other gods, face all the gods and, as at Manu's sacrifice, sit at our sacrifice also and offer our oblations to the gods in the manner prescribed by the scripture. O Heaven and Earth, know my sorrow and lift me up out of the well.
+
+**English Translation (as printed in the source; misprints marked [sic])**
+
+"May that wise and liberal Agni, a sage amongst the gods, seated at our rite, as at the sacrifice of Manu, be the invoker of the deities, and offer them oblations. Heaven and earth, be conscious of this ( my affliction )." *(The scan blurs "May" and "Manu" as "Mav", "Mann"; read as the print intends.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.14)**
+
+**Manuṣvat** — "as in the previous Ṛk, here too the sense is 'as you helped Manu, so help us as well, and bring our sacrifice to completion': such is the prayer.
+
+> यथा विप्रस्य मनुषो हविर्भिर्देवाँ अयजः कविभिः कविः सन् ।
+> तथा होतः सत्यतर त्वमद्याग्ने मन्द्रया जुह्वा यजस्व ॥
+> *yathā viprasya manuṣo havirbhir devāṁ ayajaḥ kavibhiḥ kaviḥ san | tathā hotaḥ satyatara tvam adyāgne mandrayā juhvā yajasva ‖* (*Ṛ. Saṃ.* 1-26-5 as read)
+
+— in this Ṛk, as Agni's wisdom (*prājñatva*) and his excellence as a *hotṛ* are described, and the offering of oblations to Indra and the rest for the sake of Manu, so here too the prayer is: 'accomplish the sacrifice for the sake of me [the devotee called Trita]'."
+
+**Devo deveṣu medhiraḥ** — "*devānāṃ madhye yajñavān* — 'the one who has sacrifice among the gods', say Skandasvāmin; and Sāyaṇa has explained: *sarveṣv indrādiṣu madhye medhāvī*: 'among Indra and all the others, the intelligent one'.
+
+> त्वमग्ने प्रथमो अङ्गिरस्तमः कविर्देवानां परिभूषसि व्रतम् ।
+> विभुर्विश्वस्मै भुवनाय मेधिरो द्विमाता शयुः कतिधा चिदायवे ॥
+> *tvam agne prathamo aṅgirastamaḥ kavir devānāṃ paribhūṣasi vratam | vibhur viśvasmai bhuvanāya medhiro dvimātā śayuḥ katidhā cid āyave ‖* (*Ṛ. Saṃ.* 1-31-2 as read)
+
+---
+
+### Page 505 (PDF 525)
+
+*(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 505.)*
+
+— in this Ṛk both of the meanings stated above are possible, since Agni's greatness is described: Agni is exceedingly intelligent; among the Aṅgirasa ṛṣis, the foremost; the adorner of the *vrata* (the sacred law); and the performer of the sacrifices of all the worlds: so he is praised in many places also.
+
+> वीतिहोत्रं त्वा कवे द्युमन्तं समिधीमहि ।
+> *vītihotraṃ tvā kave dyumantaṃ samidhīmahi |* (*Śa. Brā.* 1-3-4-6 as read [?])
+
+— the address 'O *kavi*' to Agni occurs in general in all the Śrutis. The epithet *medhira* is used with reference to Agni, and also with reference to Indra and Varuṇa. It may mean 'intelligent' or 'one who has sacrifice' (*yajñavān*). For example —
+
+> वेदा विश्वस्य मेधिरो धृषत्तं तमिदेषते ।
+> *vedā viśvasya medhiro dhṛṣat taṃ tam id eṣate |* (*Ṛ. Saṃ.* 6-[?]-[?] as read [?]; the words are as read from the print [?])
+
+— in this Ṛk *medhiraḥ*, used with reference to Indra, means *medhāvī*; the bhāṣya-writer has explained '*medho yajñas tadvān indraḥ*' (*medha* is sacrifice; Indra, who has it). And in
+
+> इन्द्रस्य नु सुकृतं दैव्यं सहोऽग्निर्गृहे जरिता मेधिरः कविः ।
+> *indrasya nu sukṛtaṃ daivyaṃ saho 'gnir gṛhe jaritā medhiraḥ kaviḥ |* (*Ṛ. Saṃ.* 10-100-6 as read [?])
+
+— since another word, *kaviḥ*, here shows Agni's far-seeing nature, *medhiraḥ* here means *yajñavān* or *haviṣmān*. In other Ṛks as well, the sense of *medhira* is to be taken as suits the context."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.14)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Acchā* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening in the Saṃhitā). *Havyā* (the neuter plural *havyāni*; the loss of *śi* by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]). *Suṣūdati* (root *ṣūda kṣaraṇe*; *leṭ*, third person singular, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*, Pā. Sū. 3-4-94 as read [?]; *śap* becomes *ślu* by *bahulaṃ chandasi*, Pā. Sū. 2-4-76 as read [?]; the doubling of the root by *ślau*, Pā. Sū. 6-1-10 as read [?]; shortening of the reduplicate; *ṣatva* by *ādeśapratyayayoḥ*; *nighāta* as it follows a non-verb) *(the grammar continues on p. 506)*
+
+---
+
+**Progress note:** Printed pp. 1–505 done (PDF 21–525): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.13 complete (pp. 441–502); Rik 105.14 (printed pp. 503–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 503–505); grammar begun at the foot of p. 505 (after *suṣūdati*). Next: printed p. 506 (PDF 526). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
