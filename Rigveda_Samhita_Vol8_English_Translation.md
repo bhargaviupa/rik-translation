@@ -22374,5 +22374,113 @@ The *Aitareya Brāhmaṇa* tells the same story with some difference:
 *Asane*: root *asu kṣepaṇe*; by *karaṇādhikaraṇayoś ca* (*pā.* 3-3-117 as read [?]) the suffix *lyuṭ* in the sense of the location; *ana* for *yu* by *yuvor anākau* (*pā.* 7-1-1 as read [?]); since the suffix is *lit*, by *liti* (*pā.* 6-1-193 as read [?]) the syllable before the suffix is *udātta*; locative singular. *Arvantam*: root *ṛ gatau*; by *anyebhyo 'pi dṛśyante* the suffix *vanip*; because of it, *guṇa* of the root; in the accusative singular, by *arvaṇas trasāvanañaḥ* (*pā.* 6-4-127 as read [?]) the final becomes *t*; the augment *num* by *ugitaś ca* (*pā.* 7-1-70 as read [?]); *anusvāra* and *parasavarṇa*. *(continued on p. 817)*
 
 ---
+### Page 817 (PDF 837)
 
-**Progress note:** Printed pp. 1–816 done (PDF 21–836): Sūkta 112: Riks 112.1–112.20 complete (pp. 723–813); Rik 112.21 (printed pp. 814–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (Kṛśānu, the Aitareya Brāhmaṇa Gāyatrī/Soma story, asane, duvasyathaḥ, saraḍbhyaḥ) done; its grammar begun on p. 816 (*arvantam*). Next: printed p. 817 (PDF 837). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 817. At the foot, the printer's signature "52 / VOLUME 8" — noted only.)*
+
+*(Grammar of Rik 112.21, concluded; short; sūtra numbers only as read, doubtful [?].)* *Bharathaḥ*: root *bhṛñ bharaṇe*; *laṭ*, second-person dual; since it follows a [word ending in the] *ati…* class, by *tiṅ atiṅaḥ* (*pā.* 8-1-28 as read [?]) the *nighāta* accent. *Saraḍbhyaḥ*: root *sṛ gatau*; the Uṇādi suffix *aṭi*; because of it, *guṇa* of the root's *ik*; by *uraṇ raparaḥ* the *raparaḥ*; by the suffix's first-syllable *udātta*, the *a* after the *r* is *udātta*. ‖ 21 ‖
+
+*(An ornament closes Rik 112.21.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.22)** *(accent-marks not reproduced)*
+
+> याभिर्नरं गोषुयुधं नृषाह्ये क्षेत्रस्य साता तनयस्य जिन्वथः ।
+> याभी रथाँ अवथो याभिरर्वतस्ताभिरू षु ऊतिभिरश्विना गतम् ॥ २२ ॥
+> *yābhir naraṃ goṣuyudhaṃ nṛṣāhye kṣetrasya sātā tanayasya jinvathaḥ |*
+> *yābhī rathāṃ avatho yābhir arvatas tābhir ū ṣu ūtibhir aśvinā gatam ‖ 22 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.22)**
+
+> याभिः । नरम् । गोषुऽयुधम् । नृऽसह्ये । क्षेत्रस्य । साता । तनयस्य । जिन्वथः ।
+> याभिः । रथान् । अवथः । याभिः । अर्वतः । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ २२ ॥
+> *yābhiḥ | naram | goṣu-yudham | nṛ-sahye | kṣetrasya | sātā | tanayasya | jinvathaḥ |*
+> *yābhiḥ | rathān | avathaḥ | yābhiḥ | arvataḥ | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 22 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.22)** *(begun at the foot of p. 817)*
+
+> हे अश्विनौ गोषु युधं गोविषयं युद्धं कुर्वन्तं नरं यज्ञस्य नेतारं यजमानं याभिरूतिभिर्नृषाह्ये नृभिः सोढव्ये सङ्ग्रामे जिन्वथः प्रीणयथः । रक्षथ इत्यर्थः । *(the bhāṣya runs on to p. 818)*
+
+---
+
+### Page 818 (PDF 838)
+
+*(Running head: left 818; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> तथा क्षेत्रस्य गृहादिरूपस्य । तनयशब्दो धनवाची । तनयस्य धनस्य च साता सातये सम्भजनार्थं याभिरूतिभिर्यजमानं रक्षथः । याभिश्च यजमानानां रथान्नश्वांश्च तदीयानर्वतोऽश्वांश्च याभिरवथः । ताभिः सर्वाभिरूतिभिः सहास्मानप्यागच्छतम् ॥ गोषु युधम् । युध सम्प्रहारे । गोषु युध्यत इति गोषुयुत् । तत्पुरुषे कृति बहुलमित्यलुक् । नृषाह्ये । सह मर्षणे । शकिसहोश्चेति यत् । अन्येषामपि दृश्यत इति सांहितिको दीर्घः । कृदुत्तरपदप्रकृतिस्वरत्वम् । साता । वन षण सम्भक्तौ । भावे क्तिन् । जनसनखनां सन्झलोरित्यात्वम् । ऊतियूतीत्यादिना क्तिन उदात्तत्वं निपातितम् । सुपां सुलुगिति चतुर्थ्या डाऽदेशः । जिन्वथः । जिवि प्रीणनार्थः । भौवादिकः । इदित्त्वान्नुम् । रथान् । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । आतोऽटि नित्यमिति सानुनासिक आकारः ॥
+> *he aśvinau goṣu yudhaṃ goviṣayaṃ yuddhaṃ kurvantaṃ naraṃ yajñasya netāraṃ yajamānaṃ yābhir ūtibhir nṛṣāhye nṛbhiḥ soḍhavye saṅgrāme jinvathaḥ prīṇayathaḥ | rakṣatha ity arthaḥ | tathā kṣetrasya gṛhādirūpasya | tanayaśabdo dhanavācī | tanayasya dhanasya ca sātā sātaye sambhajanārthaṃ yābhir ūtibhir yajamānaṃ rakṣathaḥ | yābhiś ca yajamānānāṃ rathān aśvāṃś ca tadīyān arvato 'śvāṃś ca yābhir avathaḥ | tābhiḥ sarvābhir ūtibhiḥ sahāsmān apy āgacchatam ‖ goṣu yudham | yudha samprahāre | goṣu yudhyata iti goṣuyut | tatpuruṣe kṛti bahulam ity aluk | nṛṣāhye | saha marṣaṇe | śakisahoś ceti yat | anyeṣām api dṛśyata iti sāṃhitiko dīrghaḥ | kṛduttarapadaprakṛtisvaratvam | sātā | vana ṣaṇa sambhaktau | bhāve ktin | janasanakhanāṃ sanjhaloḥ ity ātvam | ūtiyūtī ity ādinā ktina udāttatvaṃ nipātitam | supāṃ suluk iti caturthyā ḍā'deśaḥ | jinvathaḥ | jivi prīṇanārthaḥ | bhauvādikaḥ | iditvān num | rathān | dīrghād aṭi samānapāde iti nakārasya rutvam | ato 'ṭi nityam iti sānunāsika ākāraḥ ‖*
+
+*(Sanskrit as read, with the opening clause joined across the page-break; the sūtra-name* ato 'ṭi nityam *is as printed [?].)*
+
+"O Aśvins! the *nara*, the leader of the sacrifice, the sacrificer, who wages war for cows (*goṣu yudham*), with whichever protections you *jinvathaḥ*, please — that is, protect — in *nṛṣāhye*, a battle that is to be borne by men. And likewise for *kṣetrasya*, in the form of a house and the like; *tanaya* is a word for wealth; for *sātā*, for the gaining of [that] *tanayasya*, wealth: with whichever protections you protect the sacrificer. And with whichever you protect the chariots and horses, and the horses [*arvataḥ*] belonging to the sacrificers: with all those protections come to us also."
+
+*Grammatical tail (short):* *goṣuyudham*: 'who fights for cows' = *goṣuyut*; the *aluk* of the locative by *tatpuruṣe kṛti bahulam*. *Nṛṣāhye*: root *saha marṣaṇe*; the suffix *yat* by *śakisahoś ca*; the lengthening in the *saṃhitā*; the accent of the prior member of a *kṛdanta*. *Sātā*: root *vana ṣaṇa sambhaktau*; *ktin* in the abstract sense; the *ā* for the root; the accent by the irregular formation; for the dative, the *ḍā* substitute. *Rathān*: *ru* for the *n*; the nasalized *ā*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.22; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *goṣuyudham* — who wages war for cows; *naram* — the sacrificer, a leader of sacrifices; *yābhiḥ* — by whichever protections; *nṛṣāhye* — in battle; *jinvathaḥ* — you protected, (just so); *kṣetrasya* — of a dwelling, and; *tanayasya* — of wealth; *sātā* — for the attainment of it (for that sacrificer); *yābhiḥ* — by whichever protections (you helped); *yābhiḥ* — by whichever helps; *rathān* — chariots; *yābhiḥ* — by whichever powers; *arvataḥ* — horses; *avathaḥ* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come, graciously.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your protections you protected, in battle, the sacrificer who fought for cows; and, just so, with whichever protections you helped that sacrificer to obtain a dwelling and wealth; and with whichever helps you protected his chariots and horses: with all of them come to us also.
+
+**English Translation (as printed in the source; Rik 112.22)**
+
+"With those aids by which you succoured the worshipper contending in war for cattle, by which you assist him in the acquisition of houses and wealth, by which you preserve his chariots and horses; with them, Aswins, come willingly hither."
+
+*(In the scan, the right-hand ends of the last two printed lines of the English are smudged ("and wealth", "Aswins,"); read from the sense.)*
+
+---
+
+### Page 819 (PDF 839)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 819.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.22)**
+
+In this Ṛk the various protections and helps of the Aśvin deities are described.
+
+**सातां — Sātā.** *sātaye sambhajanārtham* — "for gain", i.e., 'in order to obtain'.
+
+**गोषुयुधम् — Goṣuyudham.** *goṣu apahriyamāṇāsu | tadrakṣaṇārthaṃ yo yudhyate sa goṣuyut taṃ* — "when cows are being carried off, the one who fights in order to protect them is *goṣuyut*": those who fight when cows are carried off are *goṣuyudhaḥ*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.22)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Naram*: root *ṇīñ nayane*; by *ṛdoraP* (*pā.* 3-3-57 as read [?]) the suffix *ap*; because of it, *guṇa* of the root's *ik*; since *ap* is *pit*, the root-accent remains. *Goṣuyudham*: root *yudha samprahāre*; 'he who fights for cows' = *goṣuyut*; the suffix *kvip* by *kvip ca* (*pā.* 3-2-76 as read [?]); by *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) the *kṛdanta* keeps the accent of its prior member; accusative singular; in the *tatpuruṣa* (*pā.* 6-3-14 as read [?]) the *aluk* of the locative by *tatpuruṣe kṛti bahulam*. *Nṛṣāhye*: root *saha marṣaṇe*; by *dhātvādeḥ ṣaḥ saḥ* (*pā.* 6-1-64 as read [?]) *ṣatva* for the initial; by *śaki sahoś ca* (*pā.* 3-1-99 as read [?]) the suffix *yat*; by *anyeṣām api dṛśyate* (*pā.* 6-3-137 as read [?]) the lengthening of the root's *a* in the *saṃhitā*; the prior member keeps its accent in the *kṛdanta* compound. *Sātā*: root *vana ṣaṇa sambhaktau*; in the abstract sense, by *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) the suffix *ktin*; by *janasanakhanāṃ sañjhaloḥ* (*pā.* 6-4-42 as read [?]) the root takes *ā*; by *ūtiyūti…* (*pā.* 3-3-97 as read [?]) *ktin* with the *udātta* accent is irregularly formed; the dative ending following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the substitute *ḍā*; because it is *ḍit*, loss of the *ṭi* (the *i*). *Jinvathaḥ*: root *jivi prīṇane*; by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; the sign *śap*; *laṭ*, second-person dual; since *yad* is connected, the *nighāta* is prohibited; *śap*, being a *sārvadhātuka*, is *anudātta*, and the root-accent remains.
+
+---
+
+### Page 820 (PDF 840)
+
+*(Running head: left 820; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Rathān*: by *dīrghād aṭi samānapāde* (*pā.* 8-3-9 as read [?]) the substitute *ru* for the *n*; by *ato 'ṭi nityam* (*pā.* 8-3-3 as read [?]) the nasalized *ā* before it. ‖ 22 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.22.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.23)** *(accent-marks not reproduced)*
+
+> याभिः कुत्समार्जुनेयं शतक्रतू प्र तुर्वीतिं प्र च दभीतिमावतम् ।
+> याभिर्ध्वसन्तिं पुरुषन्तिमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ २३ ॥
+> *yābhiḥ kutsam ārjuneyaṃ śatakratū pra turvītiṃ pra ca dabhītim āvatam |*
+> *yābhir dhvasantiṃ puruṣantim āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 23 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.23)**
+
+> याभिः । कुत्सम् । आर्जुनेयम् । शतक्रतू इति शतऽक्रतू । प्र ।
+> तुर्वीतिम् । प्र । च । दभीतिम् । आवतम् ।
+> याभिः । ध्वसन्तिम् । पुरुऽसन्तिम् । आवतम् । ताभिः । ऊम् इति ।
+> सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ २३ ॥
+> *yābhiḥ | kutsam | ārjuneyam | śatakratū iti śata-kratū | pra |*
+> *turvītim | pra | ca | dabhītim | āvatam |*
+> *yābhiḥ | dhvasantim | puru-santim | āvatam | tābhiḥ | ūm iti |*
+> *su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 23 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.23)** *(begun at the foot of p. 820)*
+
+> हे शतक्रतो बहुविधकर्माणावश्विनौ । आर्जुनेयम् अर्जुन इतीन्द्रस्य नाम । तथा च वाजसनेयकम् । एतद्वा इन्द्रस्य गुह्यं नाम यदर्जुन इति । तस्य पुत्रं कुत्सं याभिरूतिभिः प्रावतं प्रकर्षेणारक्षतम् । तथा तुर्वीतिं दभीतिं च याभिरूतिभिः प्रावतम् । अपि च । याभिर्ध्वसन्तिमेतत्सञ्ज्ञं पुरुषन्तिमेतन्नामानं च *(the bhāṣya runs on to p. 821)*
+
+*(Sanskrit as read: "O Aśvins, doers of manifold deeds! *ārjuneyam*: *Arjuna* is a name of Indra; as the Vājasaneyaka has it: 'this is Indra's secret name, namely *Arjuna*'; his son, Kutsa, whom with whichever protections you protected well. And likewise Turvīti and Dabhīti, whom with whichever protections you protected. And further: with whichever [protections] Dhvasanti, so named, and Puruṣanti, so named, [you protected]…")*
+
+---
+
+**Progress note:** Printed pp. 1–820 done (PDF 21–840): Sūkta 112: Riks 112.1–112.22 complete (pp. 723–820); Rik 112.23 (printed pp. 820–[?]): Saṃhitā, Pada done, bhāṣya begun (ending mid-sentence at the foot of p. 820). Next: printed p. 821 (PDF 841). Remaining: Riks 112.23 (rest), 24, 25 and any colophon; Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
