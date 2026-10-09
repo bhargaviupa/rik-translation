@@ -11963,5 +11963,87 @@ O Indra, the wise say that Soma-juice is very dear to you. We have pressed this 
 In Ṛks such as these, Indra is described to the human sacrificers as the best of fathers, a friend, and a giver of happiness. Here too, describing that same relation, [the poet] seeks his love." (Kannada.)
 
 ---
+### Page 438 (PDF 458)
 
-**Progress note:** Printed pp. 1–437 done (PDF 21–457): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.9 all done (pp. 395–437); Rik 104.9's Special Topics are under way and end at the foot of p. 437 (after the *piteva naḥ śṛṇuhi* topic). Next: printed p. 438 (PDF 458): the remaining Special Topics and grammar of 104.9, ending the Sūkta before p. 440. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 438; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.9)** *(grammar pages, pp. 438–439, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Ihi* (root *iṇ gatau*; *loṭ*, second person singular; since the ending is *apit*, it is treated as *ṅit* and *guṇa* does not arise; *nighāta*). *Somakāmam* (*somaviṣayaḥ kāmo 'bhilāṣaḥ yasya saḥ*, a *bahuvrīhi*; the prior member keeps its own accent by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]). *Āhuḥ* (root *brūñ vyaktāyāṃ vāci*, *adādi*; *laṭ*, third person plural *jhi*; *brūvaḥ pañcānām ādita āho brūvaḥ*, Pā. Sū. 3-4-84 as read [?]; *us* for the ending [?]; *āha* substituted for the root; pararūpa by *ussyapadāntāt*, Pā. Sū. 6-1-96 as read [?]; *nighāta* since it follows a non-verb). *Tasya* (the sixth case in the sense of the fourth: the vārttika *kriyāgrahaṇaṃ kartavyam* to the sūtra defining *sampradāna* gives the object the name *sampradāna*). *Piba* (root *pā pāne*; *loṭ*, second person singular; *piba* by *pā-ghrā-dhmā…*, Pā. Sū. 7-3-78 as read [?]; *nighāta*). *Uruvyacāḥ* (root *vyaca vyājīkaraṇe*; an Uṇādi suffix *asi*; because of the statement *vyaceḥ kuṭāditvam anasi*, *ṅitva* does not arise by *gāṅkuṭādibhyo…*, Pā. Sū. 1-2-1 as read [?], so the root has no *samprasāraṇa*; the form *vyacas*; the accent of the latter member by *pera ādiś chandasi bahulam*, Pā. Sū. 6-2-199 as read [?]; nominative singular. Or: *uru vicati vyāpnoti iti uruvyacāḥ*, then, by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?], the accent of the *kṛdanta* latter member). *Vṛṣasva* (root *vṛṣu secane*; *loṭ*, second person singular; the middle ending *thās* by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; *se* by *thāsas se*, Pā. Sū. 3-4-80 as read [?]; *sa-vābhyāṃ vāmau*, Pā. Sū. 3-4-91 as read [?]; *nighāta*). *Śṛṇuhi* (root *śru śravaṇe*; *loṭ*, second person singular; *sip* → *hi*; *śṛ* for the root by *śruvaḥ śṛ ca*, Pā. Sū. 3-1-74 as read [?]; *śap* with *śnu*; the loss of *hi* —) *(concluded on p. 439)*
+
+---
+
+### Page 439 (PDF 459)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 439.)*
+
+The grammar of Rik 104.9 concludes (noted briefly): *śṛṇuhi* — the loss of *hi*, which would arise, does not arise here because the rule *utaś ca pratyayāc chandasi vā vacanam* (Pā. Sū. 6-4-106-[?] as read [?]) makes it optional; *nighāta* by *tiṅ atiṅaḥ*, Pā. Sū. 8-1-28 as read [?]; *ṇatva*, since *n* follows *ṛ*. The Rik is closed with *‖ 9 ‖*.
+
+*(Printed line:)* **ನೂರನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾಯಿತು** — *"The hundred-and-fourth Sūkta has come to an end."* *(The first word is printed "nūra" with a damaged letter; read [?].)*
+
+**With this, Sūkta 104 (9 Ṛks, printed pp. 394–439) is complete.**
+
+---
+
+## Sūkta 105
+
+**ನೂರೈದನೆಯ ಸೂಕ್ತವು** — *nūraidaneya sūktavu*, "the hundred-and-fifth Sūkta" *(Kannada heading; the title and Sāyaṇa's introduction begin at the foot of printed p. 439, not at p. 440 as the contents had it)*
+
+**Sāyaṇa's introduction to Sūkta 105 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> चन्द्रमा इत्येकोनविंशत्यृचं द्वादशं सूक्तम् । आप्त्यस्य त्रितस्य कूपे पतितस्य कुत्सस्य वार्षम् । तथा चोभयोः कूपपाते आम्नायते । त्रितः कूपेऽवहितः [?] निबाळ्हं ऋषिरप्सुदूतेय इति च । त्रितस्य चापां पुत्रत्वं तैत्तिरीयके स्पष्टमामनन्ति [?] । ततः एकतोऽजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत । यदद्भ्योऽजायन्त तदाप्त्यानामाप्त्यत्वम् । तै. ब्रा. ३-२-१०, ११ । इति । तमेतमाप्त्यं त्रितं [?] । आन्त्या त्रिष्टुप् । सं मा तपन्तीत्येषा यवमध्या महाबृहती । आव्या [?] द्वावष्टाक्षरौ पादौ द्वादशाक्षरस्तृतीयस्ततो द्वावष्टाक्षरौ सा यवमध्या महाबृहती । चत्वारोऽष्टका जागतश्च महाबृहतीत्युक्त्वा मध्ये चेद्यवमध्या । अनु. ६-१० [?] । इत्युक्तलक्षणोपेतत्वात् । शिष्टाः पङ्क्तयः । विश्वे देवा देवता । तथा चानुक्रान्तम् । चन्द्रमा एकोनाप्त्यस्त्रितो वा वैश्वदेवं हि पाङ्क्तमन्त्या त्रिष्टुबष्टमी महाबृहती यवमध्येति । हीत्यभिधानादिनमादीनि त्रीणि सूक्तानि वैश्वदेवानि ॥ विनियोगः । अत्र शाट्यायनिन इतिहासमाचक्षते । एकतो द्वितस्त्रित इति पुरा त्रय ऋषयो बभूवुः । ते कदाचिन्मरुभूमावरण्ये वर्तमानाः पिपासया संतप्त-
+> *candramā ity ekonaviṃśatyṛcaṃ dvādaśaṃ sūktam | āptyasya tritasya kūpe patitasya kutsasya vārṣam | tathā cobhayoḥ kūpapāte āmnāyate | tritaḥ kūpe 'vahitaḥ [?] nibāḷhaṃ ṛṣir apsudūteya iti ca | tritasya cāpāṃ putratvaṃ taittirīyake spaṣṭam āmananti [?] | tata ekato 'jāyata | sa dvitīyam abhyapātayat | tato dvito 'jāyata | sa tṛtīyam abhyapātayat | tatas trito 'jāyata | yad adbhyo 'jāyanta tad āptyānām āptyatvam | tai. brā. 3-2-10, 11 | iti | tam etam āptyaṃ tritaṃ [?] | āntyā triṣṭup | saṃ mā tapantīty eṣā yavamadhyā mahābṛhatī | āvyā [?] dvāvaṣṭākṣarau pādau dvādaśākṣaras tṛtīyas tato dvāvaṣṭākṣarau sā yavamadhyā mahābṛhatī | catvāro 'ṣṭakā jāgataś ca mahābṛhatīty uktvā madhye ced yavamadhyā | anu. 6-10 [?] | ity uktalakṣaṇopetatvāt | śiṣṭāḥ paṅktayaḥ | viśve devā devatā | tathā cānukrāntam | candramā ekonāptyas trito vā vaiśvadevaṃ hi pāṅktam antyā triṣṭub aṣṭamī mahābṛhatī yavamadhyeti | hīty abhidhānād inamādīni trīṇi sūktāni vaiśvadevāni ‖ viniyogaḥ | atra śāṭyāyanina itihāsam ācakṣate | ekato dvitas trita iti purā traya ṛṣayo babhūvuḥ | te kadācin marubhūmāv araṇye vartamānāḥ pipāsayā saṃtapta-* *(the passage is continued on p. 440; the Sanskrit is as read from the print with small clotted places marked [?]; the words after "tam etam āptyaṃ tritaṃ", "āvyā" and "inamādīni" are doubtful and not completed from memory.)*
+
+---
+
+### Page 440 (PDF 460)
+
+*(Running head: left 440; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+> गात्राः संतेऽ [?] एकं कूपमविन्दन् । तत्र त्रिताख्य एको जलपानाय कूपं प्राविशत् । स्वयं पीत्वैतरयोश्च कूपादुदकमुद्धृत्य प्रादात् । तौ तदुदकं पीत्वा त्रितं कूपे पातयित्वा तदीयं धनं सर्वमुपहृत्य कूपं च रथचक्रेण पिधाय प्रास्थिताम् । ततः कूपे पतितः स त्रितः कूपादुत्तरीतुमशक्नुवन् सर्वे देवा मामुद्धरन्तिति मनसा सस्मार । ततस्तेषां स्वावकमिदं सूक्तं ददर्श । तत्र रात्रौ कूपस्यान्तःस्थेन्द्रमसो रश्मीन्पश्यन्निदमयते ॥
+> *gātrāḥ saṃte 'ṃ [?] ekaṃ kūpam avindan | tatra tritākhya eko jalapānāya kūpaṃ prāviśat | svayaṃ pītvaitarayoś ca kūpād udakam uddhṛtya prādāt | tau tad udakaṃ pītvā tritaṃ kūpe pātayitvā tadīyaṃ dhanaṃ sarvam upahṛtya kūpaṃ ca rathacakreṇa pidhāya prāsthitām | tataḥ kūpe patitaḥ sa tritaḥ kūpād uttarītum aśaknuvan sarve devā mām uddharantīti manasā sasmāra | tatas teṣāṃ svāvakam idaṃ sūktaṃ dadarśa | tatra rātrau kūpasyāntaḥsthendramaso raśmīn paśyann idam ayate ‖* *(as read; the last words are clotted and are given as read [?]; "prāsthitām" is as printed.)*
+
+"…[the three, tormented] in the limbs [by thirst?], found a well. There the one named Trita went down into the well to drink water; having drunk himself, he drew up water from the well and gave it to the other two. Those two, having drunk that water, threw Trita into the well, seized all his wealth, closed the well with a chariot-wheel, and set out. Then Trita, fallen in the well and unable to climb out of it, thought in his mind 'all the gods will lift me out'. Then he saw this Sūkta, addressed to them. There at night, seeing in the well the rays of the moon, he goes to [calls on] these [?]." *(my rendering of the clotted last sentence is tentative.)*
+
+**अनुवादवु — Anuvāda (Kannada):** "*Candramā apsu* — this Sūkta is the twelfth sūkta in the eighteenth [?] anuvāka [the printed numerals: "eighteenth anuvāka, twelfth sūkta"; the heading block on p. 441 gives the Anuvāka as 1[?]]. It has nineteen Ṛks. Its ṛṣi is Trita, called 'the son of the Waters' (*Āpa*), who fell into a well — or Kutsa. Both of them fell into a well: in the passage of the Śruti, '*tritaḥ kūpe 'vahitaḥ nibāḷhaṃ ṛṣir apsudūteya*' [as printed, doubtful [?]] it is said of Trita. As to how Trita was a son of the Waters, the Taittirīya Brāhmaṇa says this —
+
+> सोऽज्योरेणाप अभ्यपातयत् । एत एकतोऽजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत । यदद्भ्योऽजायन्त तदाप्त्यानामाप्त्यत्वम् ।
+> *so 'jyoreṇāpa abhyapātayat | eta ekato 'jāyata | sa dvitīyam abhyapātayat | tato dvito 'jāyata | sa tṛtīyam abhyapātayat | tatas trito 'jāyata | yad adbhyo 'jāyanta tad āptyānām āptyatvam |* (*Tai. Br.* 3-2-10, 11 as read [?]; the first clause is clotted and given as read [?])
+
+— that is, for sanctifying with the sparks of fire, near the fire (*Agni*), the portions of the oblation that are to be given to the gods, three water-pits (wells) were established; in them three persons were born. (See Ṛgveda-saṃhitā, Part 5, pp. 230–232.) The Trita named here, who fell into the well, is the ṛṣi of this Sūkta. The metre of the last Ṛk is Triṣṭubh. The eighth Ṛk, *saṃ mā tapanti*, is in the metre called Yavamadhyā Mahābṛhatī: in its first two pādas there are eight syllables, in the third pāda twelve, in the fourth eight [?]; such a metre is called Yavamadhyā Mahābṛhatī. In the Anukramaṇī it is said '*catvāro 'ṣṭakā jāgataś ca mahābṛhatīty uktvā madhye ced yavamadhyā*' — thus the characteristic of this metre is stated (Anu. 6-10 as read [?]). The remaining Ṛks of this Sūkta are in the Paṅkti metre. The deities of this Sūkta are the Viśvedevas. In the Anukramaṇikā it is said '*candramā ekonāptyas trito vā vaiśvadevaṃ hi pāṅktam antyā triṣṭub aṣṭamī mahābṛhatī yavamadhyeti*'; as the word *hi* is used in the sūtra, this Sūkta and the three that follow it are to be understood as Viśvedeva-sūktas [as printed: 'three sūktas'].
+
+**Viniyoga** — here the Śāṭyāyanins (the Sāmavedins) tell an *upākhyāna*: In former times there were three ṛṣis, Ekata, Dvita and Trita. Once, as they were going about in a desert (*marubhūmi*) in a forest, tormented by thirst, they came near a well. Then Trita, in order to drink water, " *(continued on p. 441)*
+
+---
+
+### Page 441 (PDF 461)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 441.)*
+
+"— went down into the well. He drank water himself, and, thinking that he must give to the others too, drew water from the well, brought it, and gave it. Ekata and Dvita both drank the water that Trita brought, pushed Trita into the well, seized the wealth that was with him, and, to make it so that he could not come out, closed the well by laying a chariot-wheel across it, and went away. Then Trita, who had fallen in the well, having no strength to climb up out of the well, prayed in his mind to all the gods (the Viśvedevas): 'rescue me from the well and protect me.' Then there appeared to this Trita this Sūkta, whose deities are the Viśvedevas. Then, at night, seeing the moon's rays that showed in the well, great sorrow came to Trita" — so the story goes.
+
+*(An ornament follows.)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०५ — Sūkta 105** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक [१८?] · सूक्त १०५ — *Maṇḍala 1, Anuvāka [1?8, as read, small numerals doubtful [?]], Sūkta 105.*
+- अष्टक १ · अध्याय ७ · वर्ग २०, २१, २२, २३ [?] — *Aṣṭaka 1, Adhyāya 7, Vargas 20, 21, 22, 23* (numerals as read, small [?]).
+- सूक्तटल्लिरुव ऋक्संख्ये — १९ — *Number of Ṛks in the sūkta: 19.*
+- ऋषिः — आप्त्यस्त्रितः कुत्सो वा — *Ṛṣi: Trita Āptya, or Kutsa.*
+- देवता — विश्वेदेवाः — *Deity: the Viśvedevas.*
+- छन्दः — १–७, ९–१८ पङ्क्तिः । ८ महाबृहती यवमध्या । १९ त्रिष्टुप् — *Metre: Ṛks 1–7 and 9–18 Paṅkti; 8 Mahābṛhatī Yavamadhyā; 19 Triṣṭubh* (the numerals "1–7" and "9–18" as read [?]).
+
+## Rik 105.1 — printed pp. 441–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.1)**
+
+> चन्द्रमा अप्स्वन्तरा सुपर्णो धावते दिवि ।
+> न वो हिरण्यनेमयः पदं विन्दन्ति विद्युतो वित्तं मे अस्य रोदसी ॥ १ ॥
+
+*candramā apsv antarā suparṇo dhāvate divi | na vo hiraṇyanemayaḥ padaṃ vindanti vidyuto vittaṃ me asya rodasī ‖ 1 ‖* *(accent-marks in the print not reproduced; the Pada follows on p. 442)*
+
+---
+
+**Progress note:** Printed pp. 1–441 done (PDF 21–461): **Sūkta 104 is complete** (printed pp. 394–439). **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas; Paṅkti, 8 Mahābṛhatī Yavamadhyā, 19 Triṣṭubh) begun at the foot of printed p. 439 (title and Sāyaṇa's introduction pp. 439–441); Rik 105.1 (printed pp. 441–[?]): Saṃhitā done at the foot of p. 441. Next: printed p. 442 (PDF 462): the Pada of 105.1, then its bhāṣya etc. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
