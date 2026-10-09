@@ -13934,5 +13934,94 @@ The ṛṣi named Trita, thrown into the well, calls on the gods for protection.
 "Trita, fallen into the well, invokes the Gods for succour ; Brihaspati, who liberates many from sin, heard (the supplication). Heaven and earth, be conscious of this (my affliction)."
 
 ---
+### Page 518 (PDF 538)
 
-**Progress note:** Printed pp. 1–517 done (PDF 21–537): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.16 complete (pp. 441–516); Rik 105.17 (printed pp. 516–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha and printed English done (pp. 516–517). Next: printed p. 518 (PDF 538): the Special Topics and grammar of 105.17, then Riks 105.18–19. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 518; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.17)**
+
+**Aṃhūraṇāt** — *aṃhasaḥ pāparūpād asmāt kūpapātāt |* "from this sin, of the form of falling into a well. To show the derivation of the word *aṃhūraṇa*, the Nirukta-author says
+
+> अंहूरोऽंहस्स्थानं हूरणमित्येस्यस्य [?] भवति । (नि. ६-२६ [?])
+> *aṃhūro 'ṃhassthānaṃ hūraṇam ity esyasya [?] bhavati |* (*Ni.* 6-2[?] as read [?]; the Nirukta words are clotted in the print and given as read, not completed from memory)
+
+— 'filled with sorrow' [as the Kannada explains], so *aṃhura* is shown. In the same way here *aṃhūraṇa* means 'filled with sorrow'. To confirm this, the Nirukta-author has cited this very Ṛk. Or else, by 'sorrow' the sense may be either 'the fruit of sin' (*pāpaphala*) or 'sin'. In this context, Skandasvāmin, with the doubt 'what sin has Trita?', says:
+
+> यदि रक्षणमात्रं विवक्षितं ततेः [?] पापकर्मकारिणाद्वृकात् । अथोत्तरणं तते उद्वेगकरैर्वृकादिभिरुपेतात्कूपः [?] । पापकर्मकारिणो वृकात् । उद्वेगकरैर्वृकादिभिरुपेतात् वा कूपादित्यर्थः ।
+> *yadi rakṣaṇamātraṃ vivakṣitaṃ tateḥ [?] pāpakarmakāriṇād vṛkāt | athottaraṇaṃ tate udvegakarair vṛkādibhir upetāt kūpaḥ [?] | pāpakarmakāriṇo vṛkāt | udvegakarair vṛkādibhir upetāt vā kūpād ity arthaḥ |* *(as read; the first two sentences are clotted and given with doubt [?])*
+
+— 'if mere protection is meant, [protection] from the wolf that commits evil deeds; if raising up, from the well that is infested with agitating wolves and the like: the sense is "from the evil-doing wolf, or from the well beset with disturbing wolves and the like".' The wolf is evil-doing, the well is a cause of agitation: from both [Trita] has asked for protection. 'Save me from this sinful act that is the cause of sorrow': such is Trita's prayer.
+
+To show that the word *aṃhūra* denotes a sin that is the cause of sorrow, the Nirukta-author cited another sentence of the Ṛk-saṃhitā:
+
+> सप्त मर्यादाः कवयस्ततक्षुस्तासामेकामिदभ्यंहुरो गात् ।
+> *sapta maryādāḥ kavayas tatakṣus tāsām ekām id abhy aṃhuro gāt |* (*Ṛ. Saṃ.* 10-5-6 as read)
+
+— it is sevenfold: theft (*steya*), mounting the teacher's bed (*talpārohaṇa*), the killing of a Brāhmaṇa (*brahmahatyā*), the killing of an embryo (*bhrūṇahatyā*), drinking spirits (*surāpāna*), the repeated practice of evil deeds, and falsehood about crimes (*pātakeṣv anṛtodyam*): '*brahmahatyā*' etc., as these sins — one of these [the Ṛk says] — is understood from the Ṛk in the context."
+
+**Bṛhaspatiḥ śuśrāva** — "although Trita's prayer was heard by the other gods too, they did not understand whose prayer it was, and were troubled; then Bṛhaspati told them of Trita's call: so the story goes.
+
+> सः यागार्थं देवान् आजुहाव । ता आह्वानकारणमनवबुध्यमानाः अपिग्ना [?] बभूवुः । अथ तदाह्वानं बृहस्पतिः शुश्राव । स देवानुवाच । त्रितस्य वर्तते यज्ञस्तत्र गच्छामः । अथ तत्र सर्वे देवा जग्मुः ।
+> *saḥ yāgārthaṃ devān ājuhāva | tā āhvānakāraṇam anavabudhyamānāḥ apignā [?] babhūvuḥ | atha tadāhvānaṃ bṛhaspatiḥ śuśrāva | sa devān uvāca | tritasya vartate yajñas tatra gacchāmaḥ | atha tatra sarve devā jagmuḥ |* *(as read; "apignā" is the print's, doubtful [?])*
+
+— 'when Trita, fallen in the well, called the gods for the sake of the sacrifice, they did not understand the reason for the call and were troubled. Then Bṛhaspati explained the reason, and all of them came there': so Skandasvāmin has quoted the former story in his bhāṣya." *(Kannada.)*
+
+---
+
+### Page 519 (PDF 539)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 519.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.17)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Havate* (root *hveñ spardhāyāṃ śabde ca*; *laṭ*, third person singular, *ta*; *śap* by *kartari śap*, Pā. Sū. 3-1-68 as read [?]; *saṃprasāraṇa* by *bahulaṃ chandasi*, Pā. Sū. 6-1-34 as read [?]; *pūrvarūpa* by *saṃprasāraṇāc ca*, Pā. Sū. 6-1-108 as read [?]; in *hu + a + te*, since *śap* is the cause, *guṇa* of the root's *ik* and *av* for it; the form *havate*; *nighāta* by *tiṅ atiṅaḥ*, Pā. Sū. 8-1-28 as read [?]). *Ūtaye* (the suffix *ktin* by *striyāṃ ktin*, Pā. Sū. 3-3-94 as read [?]; the accent of *ktin* by *ūtiyūtijūtisātihetikīrtayaś ca*, Pā. Sū. 3-1-[?] as read [?]; fourth case singular). *Śuśrāva* (root *śru śravaṇe*; *liṭ*, third person singular; *nighāta*). *Bṛhaspatiḥ* (the words *bṛhat* and *pati*, with the *suṭ* augment and loss of the *t* by *tadbṛhatoḥ karapatyoś coradevatayoḥ*, Pā. Sū. 6-1-157 as read [?], since the word is read in the *pāraskarādi* list; the form *bṛhaspati*; both members keep their own accent at the same time by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]). *Kṛṇvan* (root *kṛvi hiṃsākaraṇayoś ca*; *śatṛ* in the sense of *laṭ*; *u* by *dhinvikṛṇvor a ca*, Pā. Sū. 3-1-80 as read [?]; *a* as the final; the *vikaraṇa* *u*; loss of *a* by *ato lopaḥ*; *num* by *idito num dhātoḥ*; *yaṇ* for the *u*; the nominative singular *kṛṇvan*). *Aṃhūraṇāt* (root *ahi gatau*; the root receives *num* by *idito num dhātoḥ*; the suffix *ūra* in the abstract sense by *ṛjipiñjyādibhya ūrolacau*, Uṇ. 4-[?]0 as read [?]; the form *aṃhūra*, 'the going that is the cause of reaching sorrow'; then, [in the sense] *aṃhūro 'sya asti*, 'one who has it', the suffix *na* in the sense of 'having' by *lomādipāmādipicchādibhyaḥ śanelacaḥ*, Pā. Sū. 5-2-100 as read [?], since it belongs to the *pāmādi* list; *ṇatva* by *aṭkupvāṅ…*; the accent of the suffix, final acute; fifth case singular. Or else it should be inferred that it is formed with a suffix after the root *han* with *āṅ*; it is accomplished as a *pṛṣodarādi* word). The Rik is closed with *‖ 17 ‖*.
+
+---
+
+### Page 520 (PDF 540)
+
+*(Running head: left 520; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+## Rik 105.18 — printed pp. 520–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.18)**
+
+> अरुणो मा सकृद्वृकः पथा यन्तं ददर्श हि ।
+> उज्जिहीते निचाय्या तष्टेव पृष्ट्यामयी वित्तं मे अस्य रोदसी ॥ १८ ॥
+
+*aruṇo mā sakṛd vṛkaḥ pathā yantaṃ dadarśa hi | uj jihīte nicāyyā taṣṭeva pṛṣṭyāmayī vittaṃ me asya rodasī ‖ 18 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.18)**
+
+> अरुणः । मा । सकृत् । वृकः । पथा । यन्तम् । ददर्श । हि ।
+> उत् । जिहीते । निऽचाय्य । तष्टाऽइव । पृष्टिऽआमयी । वित्तम् । मे । अस्य । रोदसी इति ॥ १८ ॥
+
+*aruṇaḥ | mā | sakṛt | vṛkaḥ | pathā | yantam | dadarśa | hi | ut | jihīte | ni-cāyya | taṣṭā-iva | pṛṣṭi-āmayī | vittam | me | asya | rodasī iti ‖ 18 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.18)**
+
+> अरुणवर्णो लोहितवर्णो वृकोऽरण्यश्वा सकृदेकवारं पथा यन्तं मार्गेण गच्छन्तं मां ददर्श हि । दृष्टवान् । हि पादपूरणम् । निचाय्य दृष्ट्वा च मां जिघृक्षुः सन् उज्जिहीते । उद्गच्छति स्म । तत्र दृष्टान्तः । तष्टेव पृष्ट्यामयी । यथा तक्षणजनितपृष्ठक्लेशस्तष्टा वर्धकिस्तदपनोदनायोर्ध्वाभिमुखो भवति तद्वत् । हे द्यावापृथिव्यौ मदीयमिदं दुःखं वित्तम् । जानीतम् । यद्वा । वृक इति विवृतज्योतिष्कश्चन्द्रमा उच्यते । अरुण आरोचमानः कृत्स्नस्य जगतः प्रकाशकः मासकृत् मासार्धमासर्त्वयनसंवत्सरादीन्कालविशेषान्कुर्वन् तिथिविभागज्ञानस्य चन्द्रगत्यधीनत्वात् । स चन्द्रमा आकाशमार्गे यन्तं गच्छन्तं नक्षत्रगणं ददर्श । हिरवधारणे । नक्षत्रगणमेव ददर्श न कूपसपतितं मामित्यनादरो द्योत्यते । यदि मां पश्येत् उद्धरेत्तोऽपात् [?] । निचाय्य नक्षत्रगणं दृष्ट्वा चोज्जिहीते । येन नक्षत्रेण संयुज्यते तेन सहोद्गच्छति । न मामभिगच्छतीत्यर्थः । अस्यत्पूर्ववत् [?] ॥ अत्र मासकृदिति यास्क एकं पदं मन्यते शाकल्यस्तु पदद्वयम् । तस्मिन्पक्षे यमर्थः । दक्षप्रजापतेर्दुहितृभूताः स्वभार्या अश्विन्याद्यास्तारकाः पुनः पुनः… [?]
+> *aruṇavarṇo lohitavarṇo vṛko 'raṇyaśvā sakṛd ekavāraṃ pathā yantaṃ mārgeṇa gacchantaṃ māṃ dadarśa hi | dṛṣṭavān | hi pādapūraṇam | nicāyya dṛṣṭvā ca māṃ jighṛkṣuḥ san ujjihīte | udgacchati sma | tatra dṛṣṭāntaḥ | taṣṭeva pṛṣṭyāmayī | yathā takṣaṇajanitapṛṣṭhakleśas taṣṭā vardhakis tadapanodanāyordhvābhimukho bhavati tadvat | he dyāvāpṛthivyau madīyam idaṃ duḥkhaṃ vittam | jānītam | yadvā | vṛka iti vivṛtajyotiṣkaś candramā ucyate | aruṇa ārocamānaḥ kṛtsnasya jagataḥ prakāśakaḥ māsakṛt māsārdhamāsartvayanasaṃvatsarādīn kālaviśeṣān kurvan tithivibhāgajñānasya candragatyadhīnatvāt | sa candramā ākāśamārge yantaṃ gacchantaṃ nakṣatragaṇaṃ dadarśa | hir avadhāraṇe | nakṣatragaṇam eva dadarśa na kūpasapatitaṃ mām ity anādaro dyotyate | yadi māṃ paśyet uddharet to 'pāt [?] | nicāyya nakṣatragaṇaṃ dṛṣṭvā cojjihīte | yena nakṣatreṇa saṃyujyate tena sahodgacchati | na mām abhigacchatīty arthaḥ | asyatpūrvavat [?] ‖ atra māsakṛd iti yāska ekaṃ padaṃ manyate śākalyas tu padadvayam | tasminpakṣe 'yam arthaḥ | dakṣaprajāpater duhitṛbhūtāḥ svabhāryā aśvinyādyās tārakāḥ punaḥ punaḥ… [?]* *(the bhāṣya continues on p. 521)*
+
+---
+
+### Page 521 (PDF 541)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 521.)*
+
+> …पुनःपुनर्ददर्श । मां सकृदेव पश्यतीति सकृद्दृष्ट्वा चोज्जिहीते । तारकाभिः सहोर्ध्वमेव गच्छति । न मां कूपादुत्तारयेति । अत इदमनुचितम् । हे द्यावापृथिव्यौ मदीयमिमं वृत्तान्तं जानीतम् ॥ अत्र निरुक्तम् । वृकश्चन्द्रमा भवति विवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रान्तज्योतिष्को वा । अरुण आरोचनो मासकृन्मासानां चार्धमासानां च कर्ता भवति चन्द्रमा वृकः पथा यन्तं ददर्श नक्षत्रगणमभिजिहीते निचाय्य येन येन योक्ष्यमाणो भवति चन्द्रमास्तष्टेव पृष्ट्यामयी । नि. ५-२० [?] । इति ॥ सकृत् । एकस्य सकृच्च । पा. ५-४-१९ । इति क्रियाभ्यावृत्तिगणने निपातितः । वृकः । वृञ् वरणे । स्वृभूशुषिमुषिभ्यः कित् । उ. ३-४१ । इति कप्रत्ययः । जिहीते । ओहाङ् गतौ । जौहोत्यादिकः । भृञामित्यभ्यासस्येत्वम् । निचाय्य । चायृ पूजानिशामनयोः । अत्र दर्शनार्थो धातूनामनेकार्थत्वात् । समासेऽनञ्पूर्वे क्त्वो ल्यप् । पृष्ट्यामयी । स्पृश संस्पर्शने । स्पृश्यतेऽनेनेति स्पृष्टिः । छान्दसो वर्णलोपः । पृष्ट्यामयः पृष्ट्यामयः । तष्टा [?] ॥
+> *…punaḥ punar dadarśa | māṃ sakṛd eva paśyatīti sakṛd dṛṣṭvā cojjihīte | tārakābhiḥ sahordhvam eva gacchati | na māṃ kūpād uttārayeti | ata idam anucitam | he dyāvāpṛthivyau madīyam imaṃ vṛttāntaṃ jānītam ‖ atra niruktam | vṛkaś candramā bhavati vivṛtajyotiṣko vā vikṛtajyotiṣko vā vikrāntajyotiṣko vā | aruṇa ārocano māsakṛn māsānāṃ cārdhamāsānāṃ ca kartā bhavati candramā vṛkaḥ pathā yantaṃ dadarśa nakṣatragaṇam abhijihīte nicāyya yena yena yokṣyamāṇo bhavati candramās taṣṭeva pṛṣṭyāmayī | ni. 5-[?]0 [?] | iti ‖ sakṛt | ekasya sakṛc ca | pā. 5-4-19 | iti kriyābhyāvṛttigaṇane nipātitaḥ | vṛkaḥ | vṛñ varaṇe | svṛbhūśuṣimuṣibhyaḥ kit | u. 3-41 | iti kapratyayaḥ | jihīte | ohāṅ gatau | jauhotyādikaḥ | bhṛñām ity abhyāsasyetvam | nicāyya | cāyṛ pūjāniśāmanayoḥ | atra darśanārtho dhātūnām anekārthatvāt | samāse 'nañpūrve ktvo lyap | pṛṣṭyāmayī | spṛśa saṃsparśane | spṛśyate 'neneti spṛṣṭiḥ | chāndaso varṇalopaḥ | pṛṣṭyāmayaḥ pṛṣṭyāmayaḥ | taṣṭā [?] ‖* *(Sanskrit as read; the end of the tail ("pṛṣṭyāmayaḥ pṛṣṭyāmayaḥ | taṣṭā") is clotted in the print and given with doubt [?]; the tail is short and is given.)*
+
+"…[the stars] looked at [the moon] again and again. 'He sees me but once': thus having seen me once he rises up; he goes upward, together with the stars; he does not lift me out of the well. This is not fitting: O Heaven and Earth, take note of this account of mine." *(on the second construction, in which the wolf is the moon)* "Here the Nirukta says: 'the *vṛka* is the moon: either *vivṛtajyotiṣka* [with uncovered light], or *vikṛtajyotiṣka* [of changed light], or *vikrāntajyotiṣka* [of overpowering light]; *aruṇa*, shining; the *māsakṛt*, maker of the months and of the half-months, is the moon, the *vṛka*: he saw the group of stars going on his path, and rises to them seeing [whichever star] with which he is to be joined, like a carpenter with a back-ache' (*Ni.* 5-[?]0 as read [?]). *Sakṛt*: by *ekasya sakṛc ca*, Pā. Sū. 5-4-19 as read [?], formed as a *nipātana* in the sense of the counting of the repetition of the act. *Vṛkaḥ*: root *vṛñ varaṇe*; the suffix *ka*, which is *kit*, by *svṛbhūśuṣimuṣibhyaḥ kit*, Uṇ. 3-41 as read [?]. *Jihīte*: root *ohāṅ gatau*, of the *juhotyādi* class; *i* in the reduplicate by *bhṛñām it*. *Nicāyya*: root *cāyṛ pūjānicāmanayoḥ*; here the sense of 'seeing' because roots have many senses; *lyap* in a compound not preceded by *nañ*. *Pṛṣṭyāmayī*: root *spṛśa saṃsparśane*; *spṛśyate 'nena iti spṛṣṭiḥ* [the instrument of touching]; Vedic loss of a letter."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.18; Kannada; English)**
+
+*Aruṇaḥ* — the red-coloured; *vṛkaḥ* — wolf; *sakṛt* — once; *pathā* — on the road; *yantam* — going; *mā* — me; *dadarśa hi* — saw indeed; *nicāyya* — seeing [me]; *pṛṣṭyāmayī* — one who suffers pain in the back; *taṣṭā iva* — like a carpenter (who, to ease his back, raises his body upward); *ujjihīte* — [it] raised [itself and] came running (up, to seize me); *rodasī* — O Heaven and Earth; *me* — my; *asya* — this sorrow; *vittam* — know. *(The other sense of this Ṛk may be seen in the Special Topics.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Once, when I was going along the road, a red-coloured wolf saw me. After that, seeing me, from the longing to eat me, as a carpenter troubled by a pain in the back raises his body upward to relieve his back, so this wolf too raised up his body and came rushing at me. O Heaven and Earth, know this sorrow of mine.
+
+---
+
+**Progress note:** Printed pp. 1–521 done (PDF 21–541): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.17 complete (pp. 441–519); Rik 105.18 (printed pp. 520–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha and Bhāvārtha done (pp. 520–521). Next: printed p. 522 (PDF 542): the printed English, Special Topics and grammar of 105.18, then Rik 105.19 (the last Ṛk, Triṣṭubh). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
