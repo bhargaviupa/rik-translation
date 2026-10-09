@@ -19287,5 +19287,107 @@ In Ṛks such as these it is an epithet of Indra;
 — the Nirukta-writer has explained *ṛbhukṣā* as '*ṛbhūṇāṃ rājā*', 'king of the Ṛbhus' (*Ni.* 8-3 [?] as read). Sāyaṇa gives one meaning, *devānāṃ nivāsabhūtaḥ prajāpatiḥ* — 'Prajāpati, the abode of the gods', and another, *etannāma indraviśeṣaṇam*, 'this name is a special epithet of Indra'. Whichever it qualifies, it shows the greatness of that deity. In the Ṛk before us too the sense is simply '*mahāntam indram*', 'great Indra'. *Uru-bhāsa* *(the passage runs on to p. 717)*
 
 ---
+### Page 717 (PDF 737)
 
-**Progress note:** Printed pp. 1–716 done (PDF 21–736): Sūkta 111: Riks 111.1–111.3 complete (pp. 702–714); Rik 111.4 (printed pp. 714–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (ṛbhukṣaṇam), ending at the foot of p. 716 with the words *uru-bhāsa…*. Next: printed p. 717 (PDF 737). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 717.)*
+
+*(The Special Topics of Rik 111.4 continue:)* "…*uru-bhāsamāne sthāne kṣiyati nivasatīti ṛbhukṣāḥ* — 'he dwells in a place that is greatly shining, hence *ṛbhukṣāḥ*': because he dwells in an exceedingly shining place, Sāyaṇa explains it as this epithet."
+
+**ऋभून्वाजान् — Ṛbhūn vājān.** *atra prathamottamavācakaśabdābhyāṃ madhyamo 'pi lakṣyate | ataḥ śabdadvayena trayo 'py ucyante | prathamottamābhyāṃ bahuvan nigamā bhavanti na madhyamena* (*Ni.* 11-16 as read [?]): in these passages, the word that stands for the first, the name *ṛbhu*, and the last, the name *vāja*, are used in the plural; and the middle name, *vibhvan*, is left out: this is the usage in the Saṃhitā. But Sāyaṇa has explained the view of the Nirukta-writer, who says that wherever *ṛbhūn* and *vājān* stand together, one must understand that all three are brought together.
+
+**हिन्वन्तु — Hinvantu.** *hinu gatau | pravṛddhau ca | asmān pratigacchantu | asmān vardhayantu |* "*hinu* [= *hi*], in the sense of going; and of growth: let them go [forward] to us; let them make us grow": 'let them make us increase', or 'let them urge us on for the gaining of wealth and for victory over enemies' is the sense.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 111.4)** *(grammar pages, pp. 717–718, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Ṛbhukṣaṇam*: 'he who dwells (*kṣiyati*) in a place that is greatly shining (*uru bhāsamāne*)' = *ṛbhukṣāḥ*; with *uru* as the prior member, the root *bhā dīptau*, by an Uṇādi rule beginning *mṛgayv…* (*Uṇ.* 1-[?]2, as read [?]) the suffix *ku*; being *kit*, by *āto lopa iṭi ca* (*pā.* 6-4-64) the root's *ā* is lost; and the prior member (*uru*) is replaced by *ṛbhu*. [Or: since *ṛbhu* is the upapada with *kṣi nivāsagatyoḥ*, the suffix *ini* [?] prescribed by an Uṇādi rule (*Uṇ.* 4-[?]7 as read [?]) applies, because of the *bahulavacana* in the Uṇādi section; with *ini* following, the root's *ṭi* is dropped; the stem *ṛbhukṣan*; the accusative singular *am*; by a rule on the *sarvanāmasthāna* [?] the *i* becomes *a* [?]; the option of lengthening in the Veda by *vā ṣapūrvasya nigame* (*pā.* 6-4-9 as read [?]) is not applied here; because of the *ṣ*, *ṇatva* for the *n*; by the suffix-accent the syllable after *kṣ* takes *udātta*.] Or, from a root *ṛbhu* [?] meaning 'to go', the Uṇādi suffix *bhuṣṇik* [?]; being *kit*, no *guṇa*; in the Pada-pāṭha no division is made. *Huve*: root *hvāñ spardhāyāṃ śabde ca*; *laṭ*, first-person singular, *iṭ*; by *ṭita ātmanepadānāṃ ṭer e* (*pā.* 3-4-79 as read [?]) *e*; by *bahulaṃ chandasi* *saṃprasāraṇa* of the root; Vedic *luk* of *śap*; *uvaṅ* substitution; the *nighāta* accent after a finite verb. *Ūtaye*: by *ūtiyūtijūti…* (*pā.* 3-3-97 as read [?]) the form ending in *ktin* is irregularly formed with the *udātta* accent.
+
+---
+
+### Page 718 (PDF 738)
+
+*(Running head: left 718; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+*(Grammar, continued; short.)* …*the suffix* ktin; *being* kit, *by* ghumāsthāgāpājahātisāṃ hali *(pā. 6-4-66 as read [?]) the root takes* ī*:* somapītaye — *'the drinking of Soma' = *somapītiḥ*; since it belongs to the *dāsībhārādi* class, the prior member keeps its own accent.* *Ubhā*: in all three of these words beginning with this one [*ubhā*, *mitrāvaruṇā*, *aśvinā*] the dual *au* of the case-ending becomes *ā* by *supāṃ suluk* (*pā.* 7-1-39 as read [?]). *Hinvantu*: root *hi gatau vṛddhau ca*; as it shows the sense of urging, it is a root with causative sense included (*antarbhāvitaṇyartha*); *loṭ*, third-person plural, *jhi*; *anta* by *jho 'ntaḥ*; *u* for the *i* by *eruḥ* (*pā.* 3-4-86 as read [?]); since it belongs to the *svādi* class, the sign *śnu* by *svādibhyaḥ śnuḥ* (*pā.* 3-1-73 as read [?]); setting aside *uvaṅ*, *yaṇ* by *huśnuvoḥ sārvadhātuke* (*pā.* 6-4-87 as read [?]); the form *hinvantu*; *nighāta* after a finite verb. *Dhiye*: by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) the case-ending takes *udātta*. *Jiṣe*: root *ji jaye*; to show the sense of the infinitive, by *tumarthe sesenase…* (*pā.* 3-4-9 as read [?]) the suffix [*kse* as printed [?]]; being *kit*, no *guṇa* of the root; by *ādeśapratyayayoḥ* the suffix gets *ṣatva*; by the suffix-accent it ends in *udātta*. ‖ 4 ‖
+
+*(An ornamental rule — :o: — closes Rik 111.4.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 111.5)** *(accent-marks not reproduced; the fifth Ṛk, in the* triṣṭubh *metre)*
+
+> ऋभुर्भराय सं शिशातु सातिं समर्यजिद्वाजो अस्माँ अविष्टु ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ५ ॥
+> *ṛbhur bharāya saṃ śiśātu sātiṃ samaryajid vājo asmāṃ aviṣṭu |*
+> *tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 5 ‖*
+
+---
+
+### Page 719 (PDF 739)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 719.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 111.5)**
+
+> ऋभुः । भराय । सम् । शिशातु । सातिम् । समर्यऽजित् । वाजः । अस्मान् । अविष्टु ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ५ ॥
+> *ṛbhuḥ | bharāya | sam | śiśātu | sātim | samarya-jit | vājaḥ | asmān | aviṣṭu |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 5 ‖*
+
+*(As in Rik 110.9, the Saṃhitā has* māmahantām *and the Pada* mamahantām; *recorded as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 111.5)**
+
+> ऋभुः प्रथमोऽस्माकं सातिं सम्भजनीयं धनं भराय सङ्ग्रामार्थं सं शिशातु । सम्यक् तीक्ष्णीकरोति । सङ्ग्रामोचितं धनमस्मभ्यं प्रयच्छत्वित्यर्थः । तथा समर्यजित् । मर्या मनुष्याः । तैः सह वर्तत इति समर्यः सङ्ग्रामः । तत्र शत्रूणां जेता वाज एतत्सञ्ज्ञस्तृतीयश्चास्मान् स्तोतॄनविष्टु । अवतु । सङ्ग्रामाद्रक्षत्वित्यर्थः । यदनेन सूक्तेन प्रार्थितमस्मदीयं तन्मित्रादयो मामहन्ताम् । पूजयन्ताम् ॥ शिशातु । शो तनूकरणे । बहुलं छन्दसीति विकरणस्य श्लुः । आदेच [?] इत्यात्वम् । द्विर्भावः । ह्रस्वत्वे बहुलं छन्दसीत्यभ्यासस्येत्वम् । अविष्टु । अवतेर्लोटि सिब्बहुलं लेटीति बहुलग्रहणात्सिप् । इडागमः । षत्वष्टुत्वे ॥
+> *ṛbhuḥ prathamo 'smākaṃ sātiṃ sambhajanīyaṃ dhanaṃ bharāya saṅgrāmārthaṃ saṃ śiśātu | samyak tīkṣṇīkaroti | saṅgrāmocitaṃ dhanam asmabhyaṃ prayacchatv ity arthaḥ | tathā samaryajit | maryā manuṣyāḥ | taiḥ saha vartata iti samaryaḥ saṅgrāmaḥ | tatra śatrūṇāṃ jetā vāja etatsañjñas tṛtīyaś cāsmān stotṝn aviṣṭu | avatu | saṅgrāmād rakṣatv ity arthaḥ | yad anena sūktena prārthitam asmadīyaṃ tan mitrādayo māmahantām | pūjayantām ‖ śiśātu | śo tanūkaraṇe | bahulaṃ chandasīti vikaraṇasya śluḥ | ādeca [?] ity ātvam | dvirbhāvaḥ | hrasvatve bahulaṃ chandasīty abhyāsasyetvam | aviṣṭu | avater loṭi sibbahulaṃ leṭīti bahulagrahaṇāt sip | iḍāgamaḥ | ṣatvaṣṭutve ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print.)*
+
+"Ṛbhu, the first, *saṃ śiśātu*, let him sharpen [= prepare well] for our *bharāya*, for [the sake of] battle, *sātim*, the wealth to be shared: that is, let him give us wealth suited to battle. Likewise *samaryajit*: *maryāḥ* are men; 'that which exists together with them' is *samaryaḥ*, battle; the conqueror of enemies in it, Vāja, named so, the third [son], *aviṣṭu*, let him protect us, the praisers: that is, let him guard us from battle. What has been prayed for by this hymn, this [prayer] of ours, may Mitra and the rest honour (*māmahantām*)."
+
+*Grammatical tail (characterized, short):* *śiśātu*: root *śo tanūkaraṇe* ('to sharpen'); by *bahulaṃ chandasi*, *śluḥ* [elision] of the conjugation sign; *ā* by a rule *ādeca* [?]; reduplication; with shortening, by *bahulaṃ chandasi* the *i* for the reduplicant's vowel. *Aviṣṭu*: root *av* in *loṭ*; by *sibbahulaṃ leṭi*, the mention of *bahulam* gives *sip*; the augment *iṭ*; the changes *ṣatva* and *ṣṭutva*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 111.5; Kannada; English)**
+
+*Ṛbhuḥ* — Ṛbhu; *sātim* — wealth; *bharāya* — for (our) carrying on of the war; *saṃ śiśātu* — let him give, as if to arouse [courage] [?]; *samaryajit* — the one who wins over enemies in battle; *vājaḥ* — Vāja; *asmān* — us, the devotees; *aviṣṭu* — let him protect; *naḥ* — our; *tat* — this prayer; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the presiding deity of the ocean; *pṛthivī* — Pṛthivī; *uta* — and; *dyauḥ* — the presiding deity of the world of heaven; *mamahantām* — let them make [it] worthy of honour.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May Ṛbhu, the first of the sons of Sudhanvan, supply us with wealth for the carrying on of our war. And may Vāja, the third of the sons of Sudhanvan, who wins over enemies in battle, protect us, the devotees. May Mitra, Varuṇa, Aditi, the presiding deity of the ocean, Pṛthivī and the presiding deity of the world of heaven too make this prayer of ours worthy of honour, and protect [us].
+
+---
+
+### Page 720 (PDF 740)
+
+*(Running head: left 720; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+**English Translation (as printed in the source; Rik 111.5)**
+
+"May Ribbhu supply us with wealth for war; may Vaja, victorious in battle, protect us, and may Mitra, Varuna and Aditi,—ocean, earth, and heaven, be propitious to this our prayer."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 111.5)**
+
+**समर्यजित् — Samaryajit.** "The word *samarya* is read among the names of battle (*Ni.* 2-9 as read [?]); hence 'battle'. *Maryāḥ manuṣyāḥ | taiḥ saha vartate iti samaryaḥ saṅgrāmaḥ* — '*maryāḥ* are men; that which exists together with them is *samarya*, battle': in a battle men always come together in groups; hence it is called *samarya*. Since, in *samaryajit*, it is joined with a word meaning 'victory', the word *samarya* here means 'battle'. But when the word *samarya* stands alone, the meaning 'war' need not always be fixed: [it may mean] being together with *maryāḥ*, with men — not only war but a gathering, and that may even be a sacrifice. For example:
+
+> यो वां यज्ञो नासत्या हविष्मान्कृतब्रह्मा समर्यो भवाति ।
+> *yo vāṃ yajño nāsatyā haviṣmān kṛtabrahmā samaryo bhavāti |*
+> (*Ṛ.* 7-[?]-6 as read [?])
+> "…O Nāsatyas, the sacrifice that is provided with oblation, with the prayer done, [and] attended by men [?]…" *(mine and tentative)*
+
+In this Ṛk the sense is 'the sacrificer, together with priests, men, who performs the sacrifice'. But in common usage the word *samarya* is used only as a synonym for 'battle'."
+
+**संशिशातु — Saṃ śiśātu.** *ātmārthaṃ saṃskaroti | samyak tīkṣṇīkaroti |* — "[he] fashions for himself; he sharpens well": the purport is, 'let him produce in us vitality (*caitanya*)'. In the context of the senses 'sharp' and 'quick' (*harita*) this word is used. When the Nirukta-writer explains the word *manyu*, he quotes a Ṛk suited to this context:
+
+> त्वया मन्यो सरथमारुजन्तो हर्षमाणासो धृषिता मरुत्वः ।
+> तिग्मेषव आयुधा संशिशाना अभि प्र यन्तु नरो अग्निरूपाः ।
+> *tvayā manyo saratham ārujanto harṣamāṇāso dhṛṣitā marutvaḥ |*
+> *tigmeṣava āyudhā saṃśiśānā abhi pra yantu naro agnirūpāḥ |*
+> (*Ṛ.* 10-84-1 as read [?])
+> "By you, O Manyu, [the Maruts' company?], breaking [the enemy] together with the chariot, rejoicing, bold, O lord of the Maruts: with sharp arrows, sharpening their weapons, let the men, fire-formed, go forth against [the foe]." *(mine and tentative)*
+
+— citing this Ṛk, he shows for the word *saṃśiśānā* the meaning 'sharp, quick'. In the Ṛk before us the purport is: 'give us vitality, quickness [*huruṣu*], enthusiasm, and wealth and the like which will be a helper for battle and able to arouse enthusiasm'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 111.5)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Ṛbhuḥ*: 'he shines widely' (*uru bhāti*) = *ṛbhuḥ*; root *bhā dīptau*; the Uṇādi suffix *ku*; by *āto lopa iṭi ca* (*pā.* 6-4-64) the *ā* is lost; *ṛbhā*[-for-*uru*] is the substitute for *uru*; by the suffix-accent it ends in *udātta*. *(the page ends here; the grammar continues on p. 721)*
+
+---
+
+**Progress note:** Printed pp. 1–720 done (PDF 21–740): Sūkta 111: Riks 111.1–111.4 complete (pp. 702–718); Rik 111.5 (the last Ṛk of Sūkta 111; printed pp. 718–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*ṛbhuḥ*). Next: printed p. 721 (PDF 741) — the rest of the grammar of Rik 111.5 and the closing line of Sūkta 111; Sūkta 112 begins at p. 722 (PDF 742); last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
