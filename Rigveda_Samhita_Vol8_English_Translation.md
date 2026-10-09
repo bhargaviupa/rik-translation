@@ -12122,5 +12122,99 @@ The Kannada sentence before the English runs: "The Western scholar Wilson has wr
 *(Notes on the scan: the printed name "Rosen" and "Langlois" are the original's; the scan is slightly blurred in several places, so words such as "reliques", "scholiast" are as printed.)*
 
 ---
+### Page 446 (PDF 466)
 
-**Progress note:** Printed pp. 1–445 done (PDF 21–465): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Rik 105.1 (printed pp. 441–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done (pp. 441–443); Special Topics (the story of Ekata, Dvita and Trita, in Sāyaṇa and Skandasvāmin) and Wilson's English note under way, ending mid-sentence at the foot of p. 445 ("…means a circumference, a"). Next: printed p. 446 (PDF 466): Wilson's note continues; then the grammar of 105.1; then Rik 105.2. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 446; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+*(Wilson's note, in English as printed, continued from p. 445; Kannada-letter words shown in Roman in brackets.)*
+
+"circular covering or lid. Mr. Colebrooke, has briefly, but with his usual accuracy cited his story in his account of the [*Ṛgveda*] (As Researches viii p. 388) Dr. Roth conceives [*Trita*] to be the same as [*Traitana*] a name that occurs in a text of Rik and converting the latter into a deification, he imagines him to be the original of Thraetona, the Zend form of Feridun, one of the heroes of the Shah-nama, and of ancient Persian tradition-Zeitschrift der D. Morgenlandischen Gesellschaft, vol. ii p. 216. Professor Lassen seems disposed to adopt this identification—Indische Alterthumskunde, Additions. The identity of [*Trita*] and [*Traitana*], however remains to be established, and the very stanza quoted by Dr. Roth as authority for the latter name is explained in the NITIMANJARI in a very different sense from that which he has given. It is said, that the slaves of Dirghatamas, when he was old and blind, became insubordinate and attempted to destroy him ; first by throwing him into the fire, whence he was saved by the Aswins. Then into water, whence he was extricated by the same divinities ; upon which [*Traitana*] one of the slaves wounded him on the head, breast, and arms, and then inflicted like injuries on himself of which he perished. After these events, the sage recited in praise of Aswins the hymn in which the verse occurs—"
+
+> न मा गरन्नद्यो मातृतमा दासा यदीं सुसमुब्धमवाधुः ।
+> शिरो यदस्य त्रैतनो वितक्षत्स्वयं दास उरो अंसावपि ग्ध ॥
+> *na mā garan nadyo mātṛtamā dāsā yadīṃ susamubdham avādhuḥ | śiro yad asya traitano vitakṣat svayaṃ dāsa uro aṃsāv api gdha ‖* (*Ṛ. Saṃ.* 1-158-[?] as read [?]; the Kannada-script words are read as printed, without completion from memory)
+
+"Let not the maternal waters swallow me, since the slaves assailed this decrepit old man in like manner as the slave [*Traitana*] wounded his head, so has he struck it of himself and likewise his breast and shoulders" If this interpretation be correct there can be little relation between [*Trita*] and [*Traitana*] and between the latter and Feridun. The former term has however, found admission as a numeral, and apparently also as a proper name into the Zend books." *(The scan blurs "old man" and "of himself" in places; read as printed [?].)*
+
+*(In Kannada:)* "This story is told in the Bṛhaddevatā also. There too it is said that Trita fell into the well from fear of a wolf, and afterwards praised the deities."
+
+> त्रितं गास्तु सुगच्छन्तं क्रोराः सालावृकीसुताः ।
+> कूपे प्रक्षिप्य गाः सर्वास्तत एवापजह्रिरे ॥
+> *tritaṃ gās tu sugacchantaṃ krorāḥ sālāvṛkīsutāḥ | kūpe prakṣipya gāḥ sarvās tata evāpajahrire ‖*
+
+> स तत्र सुषुवे सोमं मन्त्रविन्मन्त्रवित्तमः ।
+> देवांश्चावाहयत्सर्वांस्तच्छुश्राव बृहस्पतिः ॥
+> *sa tatra suṣuve somaṃ mantravin mantravittamaḥ | devāṃś cāvāhayat sarvāṃs tac chuśrāva bṛhaspatiḥ ‖*
+
+> आगच्छतोऽथ तान् दृष्ट्वा क्ष [?] वसत्यस्य तत्र तेः [?] ।
+> सर्वदृक्त्वं च वरुणस्यार्यम्णः क्षेत्युपालभत् ॥
+> *āgacchato 'tha tān dṛṣṭvā kṣa [?] vasaty asya tatra teḥ [?] | sarvadṛktvaṃ ca varuṇasyāryamṇaḥ kṣety upālabhat ‖* *(the first line is clotted in print and given as read [?]; the second line as read.)*
+
+---
+
+### Page 447 (PDF 467)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 447.)*
+
+> कूपेप्सुकाभिर्वृणितास्यङ्गान्येवाभवन्स्मनु [?] ।
+> दृष्ट्वा सर्वानहं स्तौमि यद्येको न पश्यति ॥
+> *kūpepsukābhir vṛṇitāsyaṅgāny evābhavan smanu [?] | dṛṣṭvā sarvān ahaṃ staumi yady eko na paśyati ‖* *(the first line is clotted in the print and read with doubt [?])*
+
+> बृहस्पतिप्रचोदिता विश्वे देवगणाश्रयः ।
+> जग्मुस्त्रितस्य तं यज्ञं भागांश्च जगृहुः सह ॥
+> *bṛhaspatipracoditā viśve devagaṇāśrayaḥ | jagmus tritasya taṃ yajñaṃ bhāgāṃś ca jagṛhuḥ saha ‖*
+
+> बृहस्पतिस्त्रितस्यैतद् ज्ञानं विज्ञानमेव च ।
+> त्रैचीनान्त्येन [?] सूक्तस्य जगादर्षिरसाविति ॥
+> *bṛhaspatis tritasyaitad jñānaṃ vijñānam eva ca | traicīnāntyena [?] sūktasya jagādarṣir asāv iti ‖* (*Bṛ. De.* 3-1[?]-1[?] as read [?])
+
+"The cruel-natured cubs of that wolf pushed Trita into the well and from there drove away his cows and went off. Then Trita, the best of those who know the mantras, pressed Soma and called the deities. Bṛhaspati heard the summons and came, together with all the deities. As soon as they came, Trita, in a sort of discontent, said: 'Where has now gone this *sarva-dṛktva* [the power to see everything] of Varuṇa and Aryaman? All my limbs have been wounded by the bricks of this well. Though I look at all of them and praise them, not one of them looks at me.' Thus, in his grief, he gave expression to his discontent. Then all the gods, urged by Bṛhaspati, went to that sacrifice and accepted their shares of the oblations. Afterwards Bṛhaspati praised Trita's knowledge and wisdom. This is the story told in the Bṛhaddevatā."
+
+**Apsv antaḥ** — "since the word *ap* is read among the names of the mid-region, it means here the moon that is in the middle of the mid-region."
+
+**Suparṇaḥ** — *śobhanapatanaḥ |* "graceful in movement"; or *suparṇa iti raśminām* (*Ni.* 3-[?]3 as read [?]): "the word *suparṇa* means a ray; the moon joined with the sun's ray called *Suṣumna* [as printed]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.1)** *(grammar pages, pp. 447–448, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Candramāḥ* (*candram āhlādanaṃ sarvasya jagataḥ nirmimīte iti candramāḥ*, 'the maker of delight for the whole world'; root *māṅ māne*; with the word *candra* as the prior member, the Uṇādi suffix *asun* by *candre māso ḍit*, Uṇ. 4-[?]62 as read [?]; because of the *ḍit*-ness the *ṭi* of the root is lost; the form *candramas*; because *candramas* is in the list *dāsībhārādi*, the accent of the prior member stands in place of the *kṛdanta*-latter-member accent; before *su*, lengthening of the penult by *ātsaṃtasya…* [as read, [?]]).
+
+---
+
+### Page 448 (PDF 468)
+
+*(Running head: left 448; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.1 continues and concludes (noted briefly). *Apsu* (*ūḍidaṃ padādi…*, Pā. Sū. 6-1-171 as read [?]: the locative ending is acute). *Suparṇaḥ* (*śobhanāḥ parṇāḥ raśmayo yasya saḥ suparṇaḥ*; *ñisubhyām*, Pā. Sū. 6-2-[?] as read [?]: the final of the latter member is acute). *Dhāvate* (root *sṛ gatau*; in the sense of speed; *laṭ*; *dhāva* substituted by *pā-ghrā-dhmā…*, Pā. Sū. 7-3-78 as read [?]; the middle ending by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; *nighāta* as the word follows a non-verb). *Divi* (as *apsu*). *Vindanti* (root *vidḷ lābhe*, *tudādi*; *laṭ*, third person plural; *num* by *śe muc…*, Pā. Sū. 7-1-59 as read [?]; *nighāta*). *Vittam* (root *vida jñāne*, *adādi*; *loṭ*, second person dual; *loṭo lavat*; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; loss of *śap* by *adiprabhṛtibhyaḥ śapaḥ*; *cartva* by *khari ca*; as the word begins the pāda, no *nighāta* by *tiṅ atiṅaḥ*, Pā. Sū. 8-1-[?]8 as read [?]; the accent of the suffix, final acute). *Asya* (the word *idam*; the sixth case singular; *sya* for the ending by *ṭā-ṅasi-ṅasām inātsyāḥ*, Pā. Sū. 7-1-12 as read [?]; loss of the *idam* element by *hali lopaḥ*, Pā. Sū. 7-2-113 as read [?]; the sixth case in the sense of the fourth by the vārttika *kriyāgrahaṇaṃ kartavyam*; the ending is acute by *ūḍidaṃ padādi*). The Rik is closed with *‖ 1 ‖* and an ornament.
+
+---
+
+### Page 449 (PDF 469)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 449. At the foot, the printer's signature "29 / VOLUME 6" [sic: as printed, noted only].)*
+
+## Rik 105.2 — printed pp. 449–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.2)**
+
+> अर्थमिद्वा उ अर्थिन आ जाया युवते पतिम् ।
+> तुञ्जाते वृष्ण्यं पयः परिदाय रसं दुहे वित्तं मे अस्य रोदसी ॥ २ ॥
+
+*artham id vā u arthina ā jāyā yuvate patim | tuñjāte vṛṣṇyaṃ payaḥ paridāya rasaṃ duhe vittaṃ me asya rodasī ‖ 2 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.2)**
+
+> अर्थम् । इत् । वै । ऊं इति । अर्थिनः । आ । जाया । युवते । पतिम् ।
+> तुञ्जाते इति । वृष्ण्यम् । पयः । परिऽदाय । रसम् । दुहे । वित्तम् । मे । अस्य । रोदसी इति ॥ २ ॥
+
+*artham | it | vai | ūṃ iti | arthinaḥ | ā | jāyā | yuvate | patim | tuñjāte iti | vṛṣṇyam | payaḥ | pari-dāya | rasam | duhe | vittam | me | asya | rodasī iti ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.2)**
+
+> अर्थिनो धनमपेक्षमाणाः पुरुषा अर्थमिद्वै आपेक्षितं धनं प्राप्नुवन्त्येव । नाहं प्राप्नोमि । उ इत्येतत्पादपूरणम् । अपि च जायान्यदीया भार्या पतिं स्वपतिमा युवते । अभिमुख्येन प्राप्नोति । मदीया तु मद्विरहाद्दुःखासीत् । अपि च संयुक्तौ तौ जायापती वृष्ण्यं वीर्यरूपं पयः उदकं तुञ्जाते । प्रजननायान्योन्यसंघट्टनेन प्रेरयतः । तदनन्तरं रसं पुरुषस्य सारभूतं वीर्यं परिदाय गर्भाशयेनादाय गर्भरूपेण धृत्वा दुहे । दुग्धे । पुत्ररूपेण जनयति । मम तु पुत्रोऽपि नोत्पद्यते । अत इदं मदीयं दुःखं हे द्यावापृथिव्यौ जानीतं ॥ उ । ऊञः । पा. १-१-१२ । इति शाकल्यस्य मतेन प्रगृह्यत्वात् प्लुतेप्रगृह्या अचीति प्रकृतिभावः । युवते । यु मिश्रणे । व्यत्ययेनात्मनेपदं । शब्लुकि प्राप्ते व्यत्ययेन शः । तुञ्जाते । तुजि पिजि हिंसाबलादाननिकेतनेषु । इदित्त्वान्नुम् । व्यत्ययेन श्नम् । श्नान्नलोपः । दुहे । दुह प्रपूरणे । लोपस्त आत्मनेपदेष्विति तलोपः ॥
+> *arthino dhanam apekṣamāṇāḥ puruṣā artham id vai āpekṣitaṃ dhanaṃ prāpnuvanty eva | nāhaṃ prāpnomi | u ity etat pādapūraṇam | api ca jāyānyadīyā bhāryā patiṃ svapatim ā yuvate | abhimukhyena prāpnoti | madīyā tu madvirahād duḥkhāsīt | api ca saṃyuktau tau jāyāpatī vṛṣṇyaṃ vīryarūpaṃ payaḥ udakaṃ tuñjāte | prajananāyānyonyasaṃghaṭṭanena prerayataḥ | tadanantaraṃ rasaṃ puruṣasya sārabhūtaṃ vīryaṃ paridāya garbhāśayenādāya garbharūpeṇa dhṛtvā duhe | dugdhe | putrarūpeṇa janayati | mama tu putro 'pi notpadyate | ata idaṃ madīyaṃ duḥkhaṃ he dyāvāpṛthivyau jānītaṃ ‖ u | ūñaḥ | pā. 1-1-12 | iti śākalyasya matena pragṛhyatvāt plutepragṛhyā aci iti prakṛtibhāvaḥ | yuvate | yu miśraṇe | vyatyayenātmanepadaṃ | śabluki prāpte vyatyayena śaḥ | tuñjāte | tuji piji hiṃsābalādānaniketaneṣu | idittvān num | vyatyayena śnam | śnānnalopaḥ | duhe | duha prapūraṇe | lopas ta ātmanepadeṣv iti talopaḥ ‖* *(Sanskrit as read; "pā. 1-1-12" is as read [?]; the text carries the whole grammatical tail on this page, in brief.)*
+
+"Men who are in need (*arthinaḥ*) and who desire wealth indeed (*id vai*) obtain the wealth they desire; I do not obtain it. *U* is a mere filler. And further, another's wife (*jāyā*) goes to her husband (*patim*) and joins (*ā yuvate*) him, comes face to face with him; whereas mine has been in sorrow by my absence. And further, those two, wife and husband united, *tuñjāte vṛṣṇyaṃ payaḥ*: they urge on the potent fluid (*payaḥ*, water, whose form is virility), by mutual embrace, for the sake of procreation; and afterwards the wife, taking the essence of the husband — his virility, the *rasa* — into the womb, holding it in the form of an embryo, *duhe* (milks forth), gives birth in the form of a son. But in my case not even a son is born. Therefore, O Heaven and Earth, take note of this sorrow of mine." The grammatical tail concerns: *u* (a particle; by *ūñ*, Pā. Sū. 1-1-12 as read [?], and the opinion of Śākalya, it is *pragṛhya*, so that before a vowel it remains unchanged); *yuvate* (root *yu miśraṇe*; the middle ending by *vyatyaya*; *śap* in the place of the loss, by *vyatyaya*); *tuñjāte* (root *tuji piji hiṃsābalādānaniketaneṣu*; *num* from the *it*; *śnam* by *vyatyaya*; loss of *n* after *śnā*); *duhe* (root *duha prapūraṇe*; the loss of *ta* by *lopas ta ātmanepadeṣu*).
+
+---
+
+**Progress note:** Printed pp. 1–449 done (PDF 21–469): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Rik 105.1 complete (pp. 441–448); Rik 105.2 (printed pp. 449–[?]): Saṃhitā, Pada, bhāṣya (with its short tail) done at p. 449. Next: printed p. 450 (PDF 470): the Pratipadārtha, Bhāvārtha, English, Special Topics and grammar of 105.2; then Rik 105.3. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
