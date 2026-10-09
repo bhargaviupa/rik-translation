@@ -18804,5 +18804,126 @@ Since there is no need to recite Ṛks addressed to the Ṛbhus, an objection ar
 *Vājebhiḥ*: by *bahulaṃ chandasi* (*pā.* 7-1-10 as read [?]) *ais* does not arise for *bhis*; by *bahuvacane jhaly et* (*pā.* 7-3-103 as read [?]) *e*. *Vājasātau*: root *vana ṣaṇa sambhaktau*; *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) *ktin* in the abstract sense; by *janasanakhanāṃ sañjhaloḥ* (*pā.* 6-4-42 as read [?]) the root takes *ā*; 'that in which is the sharing of *vājas*' = *vājasātiḥ*; its locative; in the *bahuvrīhi*, *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) the prior member keeps its own accent. *Aviḍḍhi*: root *viṣḷ vyāptau*; *loṭ*, second-person singular *sip*; *serhy apicca* (*pā.* 3-4-87 as read [?]) gives *hi* for it; by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *luk* of *śap*; after a final consonant [*jhal*-ending] the *hi* becomes *dhi* by *hujhalbhyo herdhiḥ* (*pā.* 6-4-101 as read [?]); the *ṣ* before *dh* becomes *ḍ* by *ṣṭunā ṣṭuḥ* (*pā.* 8-4-41 as read [?]), [with] *jhalāṃ jaś jhaśi* (*pā.* 8-4-53 as read [?]); by *chandasy api dṛśyate* (*pā.* 6-4-73 as read [?]) the mention of *dṛś* gives *aṭ* in *loṭ* also: hence *aviḍḍhi* [with the augment]. [Alternatively, if it is from] *av rakṣaṇe*: *loṭ* as before; by *sibbahulaṃ leṭi* (*pā.* 3-1-34 as read [?]) the mention of *bahulam* gives *sip* in the place of the conjugation sign; being *tiṅ* it is *śit*, a *sārvadhātuka*; *ārdhadhātukasyeḍ valādeḥ* (*pā.* 7-2-35 as read [?]) the augment *iṭ*; after *iṭ* the *s* ... *ādeśapratyayayoḥ* (*pā.* 8-3-59 as read [?]) *ṣatva*; then the *hi* after a *jhal* becomes *dhi* as before; *ḍhatva*, *ṣṭutva*, *jaśtva*; *nighāta* accent after a finite verb. *Ṛbhumān*: *ṛbhu*; 'he has this' = *ṛbhumān*; *matup* by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]); *hrasvanudbhyāṃ matup* (*pā.* 6-1-176 as read [?]) gives *matup* the *udātta*; nominative singular.
 
 ---
+### Page 701 (PDF 721)
 
-**Progress note:** Printed pp. 1–700 done (PDF 21–720): Sūkta 110 (Riks 110.1–110.9; printed pp. 657–700) is complete except possibly a closing line: the grammar page (p. 700) ends at *ṛbhumān* with no closing ‖ 9 ‖ and no colophon seen — check printed p. 701 (PDF 721), where Sūkta 111 is expected to begin. Next: printed p. 701 (PDF 721). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 32 [?]"; centre "Ṛgvedasaṃhitā"; right 701.)*
+
+*(Grammar of Rik 110.9, concluded; short.)* *Darṣi*: root *dṛj ādare*; the *parasmaipada* by *vyatyayo bahulam* (*pā.* 3-1-85 as read [?]); *loṭ*, second-person singular *sip*; the conjugation sign is dropped (*luk*) by *bahulaṃ chandasi*; because of the *vyatyaya*, *hi* does not replace *sip*; with *sip* as the cause, *guṇa* of the root's *ik* by *sārvadhātukārdhadhātukayoḥ* (*pā.* 7-3-84 as read [?]); *uraṇ raparaḥ*; the *nighāta* accent after a finite verb. *Rādhaḥ*: root *rādha saṃsiddhau*; the suffix *asun* by *sarvadhātubhya asun* [*Uṇ.* 4-[?]]; the stem *rādhas*; because it ends in a *nit* suffix, the first syllable is *udātta* by *ñnityādir nityam* (*pā.* 6-1-197 as read [?]); accusative singular. ‖ 9 ‖
+
+**"Nūra hattane sūktavu mugidudu"** — "The 110th Sūkta is concluded." *(printed line; Sūkta 110 of Maṇḍala 1 ends here)*
+
+*(An ornament follows.)*
+
+# Sūkta 111 — *Nūra hannondaneya sūktavu* (the 111th Sūkta)
+
+*(Printed title, p. 701.)*
+
+*(Sāyaṇa's introduction, as printed in Sanskrit, in three layers:)*
+
+> तक्षन्निति पञ्चर्चं षष्ठं सूक्तं कुत्सस्यार्भवम् । पञ्चमी त्रिष्टुप् । शिष्टाश्चतस्रो जगत्यः । तथा चानुक्रान्तं तक्षन् पञ्चान्त्या त्रिष्टुबिति । अग्निष्टोमे वैश्वदेवशस्त्र इदं सूक्तमार्भवं निविद्धानम् । सूत्रितं च । तक्षन् रथमयं वेनश्चोदयत्पृश्निगर्भा [?] आ ३-१८ [?] इति ॥
+> *takṣann iti pañcarcaṃ ṣaṣṭhaṃ sūktaṃ kutsasyārbhavam | pañcamī triṣṭup | śiṣṭāś catasro jagatyaḥ | tathā cānukrāntaṃ takṣan pañcāntyā triṣṭub iti | agniṣṭome vaiśvadevaśastra idaṃ sūktam ārbhavaṃ nividdhānam | sūtritaṃ ca | takṣan ratham ayaṃ venaś codayat pṛśnigarbhā [?] ā 3-18 [?] iti ‖*
+> "'*Takṣan*': a hymn of five Ṛks, the sixth [hymn] of Kutsa, belonging to the Ṛbhus. The fifth is *triṣṭubh*; the remaining four are *jagatī*. So it has been given in the Anukramaṇī: '*takṣan*; five; the last a *triṣṭubh*.' In the Agniṣṭoma, in the Vaiśvadeva *śastra*, this Ārbhava hymn is used with the *nivid*. And it has been put in the *sūtra*: '*takṣan ratham ayaṃ venaś codayat pṛśnigarbhāḥ* [?]' (*Āśv.* [?] 3-18 [?])." *(Sanskrit as read; the sūtra-citation and its reference are doubtful [?].)*
+
+*Anuvāka* — "The hymn beginning *takṣan* is the sixth hymn of the sixteenth anuvāka. It has five Ṛks. The ṛṣi of this hymn is Kutsa; the deities are the Ṛbhus. The fifth Ṛk is in the *triṣṭubh* metre, the other four in *jagatī*. In the Anukramaṇikā it is stated beginning '*takṣan pañcāntyā triṣṭup*'. In the Agniṣṭoma sacrifice, at the time of reciting the Vaiśvadeva-*śastra* mantras, this hymn is employed as *nividdhāna* mantras connected with the Ṛbhu deity. This is set out in the Āśvalāyana Śrauta Sūtra by the sūtra *takṣan ratham ayaṃ venaś codayat pṛśnigarbhā* (*Āśv.* 5-18 [?] — the Kannada gloss prints "5-18", the Sanskrit "3-18"; recorded as printed)."
+
+*(An ornamental rule — :o: — closes the page.)*
+
+---
+
+### Page 702 (PDF 722)
+
+*(Running head: left 702; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 16 Sū. 111" — small Kannada numerals.)*
+
+**॥ ओम् ॥ — Oṃ**
+
+**सूक्त—१११ — Sūkta 111**
+
+Maṇḍala 1 ‖ Anuvāka 16 ‖ Sūkta 111 ‖ Aṣṭaka 1 ‖ Adhyāya 7 ‖ Varga [?] 32 [?] *(the small Kannada numeral is doubtful)* ‖ Number of Ṛks in the Sūkta: 5 ‖ Ṛṣi: Kutsa Āṅgirasa ‖ Devatā: the Ṛbhus ‖ Chandas: *jagatī* 4, *triṣṭubh* 1 *(the print shows a further small numeral before "jagatī", doubtful [?])*.
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 111.1)** *(accent-marks not reproduced)*
+
+> तक्षन्रथं सुवृतं विद्मनापसस्तक्षन्हरी इन्द्रवाहा वृषण्वसू ।
+> तक्षन्पितृभ्यामृभवो युवद्वयस्तक्षन्वत्साय मातरं सचाभुवम् ॥ १ ॥
+> *takṣan rathaṃ suvṛtaṃ vidmanāpasas takṣan harī indravāhā vṛṣaṇvasū |*
+> *takṣan pitṛbhyām ṛbhavo yuvad vayas takṣan vatsāya mātaraṃ sacābhuvam ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 111.1)**
+
+> तक्षन् । रथम् । सुऽवृतम् । विद्मनाऽअपसः । तक्षन् । हरी इति । इन्द्रऽवाहा । वृषण्ऽवसू इति वृषण्ऽवसू ।
+> तक्षन् । पितृऽभ्याम् । ऋभवः । युवत् । वयः । तक्षन् । वत्साय । मातरम् । सचाऽभुवम् ॥ १ ॥
+> *takṣan | ratham | su-vṛtam | vidmanā-apasaḥ | takṣan | harī iti | indra-vāhā | vṛṣaṇ-vasū iti vṛṣaṇ-vasū |*
+> *takṣan | pitṛ-bhyām | ṛbhavaḥ | yuvat | vayaḥ | takṣan | vatsāya | mātaram | sacā-bhuvam ‖ 1 ‖*
+
+---
+
+### Page 703 (PDF 723)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 703.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 111.1)**
+
+> विद्मनापसः उत्कृष्टेन ज्ञानेन निष्पाद्यकर्माणो लाभवत्कर्माणो वा ऋभवो रथमश्विनोरारोहणार्थं सुवृतं शोभनवर्तनं सुचक्रं वा तक्षन् । आकुर्वन् । तथेन्द्रवाहा इन्द्रस्य वाहनभूतौ हरी हरणशीलावेतौ [?] सञ्ज्ञकावश्वौ तक्षन् । कृतवन्तः । कीदृशौ । वृषण्वसू सेचनसमर्थेन [?] व्यथतरेण [?] धनेन बलेन वा युक्तौ । अपि च पितृभ्यां स्वकीयाभ्यां मातापितृभ्यां वृद्धाभ्यां युवद्वयो नवयौवनोपेतं वय आयुर्ऋभवस्तक्षन् । कृतवन्तः । तथा वत्साय मातरं गां सचाभुवं सहभुवं सह वर्तमानां तक्षन् । आकुर्वन् । तक्षू त्वक्षू तनूकरणे । लङ् । बहुलं छन्दस्यमाङ्योगेऽप्यडभावः [?] । सुवृतम् । शोभनं वर्तते इति सुवृत् । वृतु वर्तने । क्विप् । विद्मनापसः । विद ज्ञाने । अन्येभ्योऽपि दृश्यन्ते इति दृशिग्रहणाद्वावे मनिन् । सञ्ज्ञापूर्वकस्य विधेरनित्यत्वाद्गुणाभावः । बहुलवचनाल्लुक् [?] । यद्वा । विद्ऌ लाभे । औणादिको भावे मुक् [?] । ततः पामादिलक्षणो न प्रत्ययः [?] । विद्मनं लाभवदपः कर्म येषां । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । छान्दसः पूर्वसवर्णदीर्घः । इन्द्रवाहा । इन्द्रं वहत इतीन्द्रवाहौ । वहश्चेति ण्विप्रत्ययः । अत उपधाया इति वृद्धिः । सुपां सुलुगिति विभक्तेराकारः । वृषण्वसू । वृष सेचने । कनिन् युवृषितक्षीत्यादिना कनिन् [?] । नित्त्वादाद्युदात्तत्वम् । वृषण्वश्वयोरुपसङ्ख्यानम् [?] इति वसुशब्द उत्तरपदे वृषण्भावः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । युवत् । अत्र युवन्शब्दः सामर्थ्यात्तृतीयान्त [?] निमित्तत्वं युवत्वमात्रमाचष्टे । तदस्मिन्नस्तीति युवत् । छान्दसो वर्णलोपः ॥
+> *vidmanāpasaḥ utkṛṣṭena jñānena niṣpādyakarmāṇo lābhavatkarmāṇo vā ṛbhavo ratham aśvinor ārohaṇārthaṃ suvṛtaṃ śobhanavartanaṃ sucakraṃ vā takṣan | ākurvan | tathendravāhā indrasya vāhanabhūtau harī haraṇaśīlāv etau [?] sañjñakāv aśvau takṣan | kṛtavantaḥ | kīdṛśau | vṛṣaṇvasū secanasamarthena [?] vyathatareṇa [?] dhanena balena vā yuktau | api ca pitṛbhyāṃ svakīyābhyāṃ mātāpitṛbhyāṃ vṛddhābhyāṃ yuvadvayo navayauvanopetaṃ vaya āyur ṛbhavas takṣan | kṛtavantaḥ | tathā vatsāya mātaraṃ gāṃ sacābhuvaṃ sahabhuvaṃ saha vartamānāṃ takṣan | ākurvan | takṣū tvakṣū tanūkaraṇe | laṅ | bahulaṃ chandasy amāṅyoge 'py aḍabhāvaḥ [?] | suvṛtam | śobhanaṃ vartate iti suvṛt | vṛtu vartane | kvip | vidmanāpasaḥ | vida jñāne | anyebhyo 'pi dṛśyante iti dṛśigrahaṇād vāve manin | sañjñāpūrvakasya vidher anityatvād guṇābhāvaḥ | bahulavacanāl luk [?] | yadvā | viḍḷ lābhe | oṇādiko bhāve muk [?] | tataḥ pāmādilakṣaṇo na pratyayaḥ [?] | vidmanaṃ lābhavad apaḥ karma yeṣāṃ | bahuvrīhau pūrvapadaprakṛtisvaratvam | chāndasaḥ pūrvasavarṇadīrghaḥ | indravāhā | indraṃ vahata itīndravāhau | vahaś ceti ṇvipratyayaḥ | ata upadhāyā iti vṛddhiḥ | supāṃ suluk iti vibhakter ākāraḥ | vṛṣaṇvasū | vṛṣa secane | kanin yuvṛṣitakṣīty ādinā kanin [?] | nittvād ādyudāttatvam | vṛṣaṇvaśvayor upasaṅkhyānam [?] iti vasuśabda uttarapade vṛṣaṇbhāvaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | yuvat | atra yuvañśabdaḥ sāmarthyāt tṛtīyānta [?] nimittatvaṃ yuvatvamātram ācaṣṭe | tad asminn asti iti yuvat | chāndaso varṇalopaḥ ‖*
+
+*(Sanskrit as read. The words marked [?] are clotted or doubtful in the print and are not completed from memory; the grammatical tail is compressed and is characterized below, not transcribed beyond what is given.)*
+
+"*Vidmanāpasaḥ*: the Ṛbhus, whose works are accomplished with superior knowledge, or whose works yield gain, *takṣan*, made — i.e. built — a chariot for the Aśvins to mount, *suvṛtam*: well-running, or having good wheels. Likewise they *takṣan*, made, the two horses called Hari, *indravāhā*, Indra's vehicles, [of a swift-carrying nature [?]]. What like? *Vṛṣaṇvasū*: possessed of wealth or strength [that is able to shower [?]]. And further, for their two parents, aged mother and father, the Ṛbhus *takṣan*, made, *yuvad vayaḥ*, an age endowed with fresh youth. And for the calf they *takṣan*, made, the mother, a cow, *sacābhuvam*: one who is together, who lives together [with it]."
+
+*Grammatical tail (characterized, short; doubtful stretches [?]):* *takṣan*: root *takṣū tvakṣū tanūkaraṇe*; *laṅ*; in the Veda the absence of the augment *aṭ* (also with *māṅ*) [?]. *Suvṛtam*: 'that which runs well' = *suvṛt*; root *vṛtu vartane*; *kvip*. *Vidmanāpasaḥ*: root *vida jñāne*, the suffix *manin* by the *dṛśi*-listing [*anyebhyo 'pi dṛśyante*]; since a rule that has a technical term first is not constant, no *guṇa*; by *bahula* the *luk* [?]; or else, root *viḍḷ lābhe*, an Uṇādi *muk* in the abstract sense [?]; 'works [*apaḥ*] of which there is *vidmana*, gain' — in the *bahuvrīhi*, the prior member keeps its own accent; the Vedic lengthening to the earlier homogeneous vowel. *Indravāhā*: 'those who carry Indra'; the suffix *ṇvi* by *vahaś ca*; *vṛddhi* by *ata upadhāyāḥ*; *ā* for the case-ending by *supāṃ suluk*. *Vṛṣaṇvasū*: root *vṛṣa secane*; *kanin* [by the list beginning *yuvṛṣitakṣi…* [?]]; being *nit*, first-syllable *udāttatva*; *vṛṣaṇ* before the second member *vasu* [by a *vārttika* on *vṛṣaṇvasvaśvayoḥ*, doubtful [?]]; the prior member keeps its accent. *Yuvat*: here the word *yuvan* denotes mere 'youthfulness' as a cause [?]; 'that in which there is this' = *yuvat*; a Vedic loss of a letter.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 111.1; Kannada; English)**
+
+*Vidmanāpasaḥ* — those who do works with excellent skill, or works that bring gain; *ṛbhavaḥ* — the Ṛbhus; *ratham* — (for the Aśvin deities' vehicle) a chariot; *suvṛtam* — of excellent construction, or with wheels favourable for easy travel; *takṣan* — they constructed; *vṛṣaṇvasū* — endowed with mighty strength or with wealth; *indravāhā* — Indra's carriers; *harī* — the horses named Hari; *takṣan* — they created; *pitṛbhyām* — for the (aged) mother and father; *yuvat* — full of youth; *vayaḥ* — age; *ṛbhavaḥ* — the Ṛbhus; *takṣan* — obtained [for them]; *vatsāya* — to the calf (which had lost its mother); *mātaram* — the mother cow; *sacābhuvam* — (again) so as to be together [with it]; *takṣan* — they made.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The Ṛbhus, workers of excellent skill, constructed, for the conveyance of the Aśvin deities, a chariot of excellent make. They created the two horses called Hari, endowed with great strength and carriers of Indra. *(continues on p. 704)*
+
+---
+
+### Page 704 (PDF 724)
+
+*(Running head: left 704; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+*(The Bhāvārtha concludes:)* "…They created the two horses, called Hari, and carriers of Indra. They procured for their aged mother and father the age of youth. And to the calf that had lost its mother they restored the mother's cow, so that she is together with it again."
+
+**English Translation (as printed in the source)**
+
+"The Ribbus, possessed of skill in their work, constructed (for the Aswins) a well-built car; they framed the vigorous horses bearing Indra; they gave youthful existence to their parents; they gave to the calf its accompanying mother."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 111.1)**
+
+Here the Ṛbhus' skill in art, their devotion to their parents, and their discrimination are described. In all the hymns seen by the ṛṣis such as Viśvāmitra and Vāmadeva, because the Ṛbhus are so well known, descriptions of this kind occur.
+
+> ये अश्विना ये पितरा य ऊती धेनुं ततक्षुर्ऋभवो ये अश्वा ।
+> ये अंसत्रा य ऋधग्रोदसी ये विभ्वो नरः स्वपत्यानि चक्रुः ।
+> *ye aśvinā ye pitarā ya ūtī dhenuṃ tatakṣur ṛbhavo ye aśvā |*
+> *ye aṃsatrā ya ṛdhag rodasī ye vibhvo naraḥ svapatyāni cakruḥ |*
+> (*Ṛ.* 4-34-9 as read [?])
+> "Those Ṛbhus who [made] the Aśvins, who the parents, who for help carved the cow, who the horses; who the shoulder-guards, who apart the two worlds, who [as] Vibhvan the men did fine works" *(mine and tentative; the gloss is rough and uncertain)*
+
+In places such as this, the qualities described are set out again here.
+
+**विद्मनापसः — Vidmanāpasaḥ.** *utkṛṣṭena jñānena niṣpādyamānakarmāṇo lābhavatkarmāṇo vā ṛbhavaḥ* — "the Ṛbhus, whose works are accomplished with superior knowledge, or whose works have gain": that is, [doers] of works carried out with excellent knowledge, or of works which are profitable.
+
+**तक्षन् — Takṣan.** *takṣatiḥ karotikarmā* (*Ni.* 4-19 as read [?]); *kṛtavantaḥ*, 'they made': they built a chariot for the Aśvin deities.
+
+> तक्षन्नासत्याभ्यां परिज्मानं सुखं रथम् ।
+> *takṣan nāsatyābhyāṃ parijmānaṃ sukhaṃ ratham |*
+> (*Ṛ.* 1-20-3 as read [?])
+> "They made for the Nāsatyas a chariot going all around, pleasant [to ride]" *(mine and tentative)*
+
+— as is said in this Ṛk, here too the matter of the Ṛbhus constructing a chariot for the Aśvin deities is stated, and afterwards the nature of that chariot is described.
+
+**सुवृतम् — Suvṛtam.** *śobhanavartanaṃ sucakraṃ vā* — "of fine running, or having fine wheels"; that is, of excellent make, or favourable for easy travel.
+
+> बृहस्पतेरथाश्विभ्यां रथं दिव्यं त्रिवन्धुरम् ।
+> इन्द्राय च हरी देवप्रहितेनाग्निनापि यत् ॥
+> *bṛhaspater athāśvibhyāṃ rathaṃ divyaṃ trivandhuram |*
+> *indrāya ca harī devaprahitenāgninā api yat ‖*
+> (*Bṛ. De.* 3-[?] as read [?])
+> *(Bṛhaddevatā citation; Sanskrit as read from the print, doubtful in the second line [?]; no gloss attempted. The passage continues past the foot of this page [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–704 done (PDF 21–724): Sūkta 110 complete (pp. 657–701; closing line 'nūra hattane sūktavu mugidudu' on p. 701). Sūkta 111 (printed pp. 701–721; five Ṛks, Kutsa Āṅgirasa, the Ṛbhus; four Jagatī and a final Triṣṭubh): title and Sāyaṇa's introduction (p. 701), heading (p. 702), Rik 111.1 (pp. 702–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Bṛhaddevatā citation at the foot of p. 704). Next: printed p. 705 (PDF 725). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
