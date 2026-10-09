@@ -6279,4 +6279,122 @@ The grammar of Rik 100.9 concludes: *kṛtāni* (root *ḍukṛñ karaṇe*; *kt
 
 ---
 
-**Progress note:** Printed pp. 1–217 done (PDF 21–237): **Sūkta 100** in progress: Rik 100.9 complete (pp. 210–215); Rik 100.10 (printed pp. 215–[?]): Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, English and the Special Topics through *grāmebhiḥ*, *rathebhiḥ vide* and the start of *viśvābhiḥ kṛṣṭibhiḥ* (…'The word *pañcajana*' breaks off) done to the foot of p. 217. Next: printed p. 218 (PDF 238): the *pañcajana* sentence continues, then the rest of the Special Topics and grammar of 100.10; then Rik 100.11. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?]. on pp. 194–197 the clotted words in Sāyaṇa's story (*garbhaikadeśāyor*, *āruden*, *keveme*), the Nirukta/Ṛgveda numerals on pp. 194–195, the many Pāṇini numerals in the grammar of 100.5, and the clotted Ṛgveda citation and numerals in the grammatical tail of 100.6 [?]. on pp. 198–201 the Śatapatha story's clotted words (*smaika eva*, *asminno*, *pratyatiṣṭhat*) and numeral, the Bṛhaddevatā/Nirukta/Ṛgveda numerals, and the Pāṇini/Paribhāṣā numerals in the grammar of 100.6 [?]. on pp. 202–205 the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.7, the Ṛgveda/Śatapatha/Nirukta numerals on pp. 203–204, and the Nirukta name-counts (25, 26) [?]. on pp. 206–209 the clotted words in 100.8's bhāṣya tail (*vyatyayena…tvam*, *ḷdittvāc ceraṅādeśaḥ*), the first Ṛgveda quotation on p. 208 (*ahohānam*), the Sāyaṇa upodghāta verses (second verse doubtful) and the Ṛgveda numerals on pp. 208–209 [?]. on pp. 210–213 the clotted words in 100.9's bhāṣya tail (*ṇicce mantaḥ śatsaṃnitve*, *liṭi*, *salopa*), *śatroṇ api*, the Ṛgveda numerals in the *vrādhan* quotations, and Skandasvāmin's *yo dāridryāt…* [?]. on pp. 214–217 the grammar of 100.9 (many numerals), the Phiṭsūtra numeral in 100.10's tail, *abhibhavan vartate*, and the Ṛgveda/Nirukta numerals in the *grāma* and *kṛṣṭi* passages [?]; Oldenberg is called 'the English commentator' in the print.
+### Page 218 (PDF 238)
+
+*(Running head: left 218; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**Special Topics of Rik 100.10, continued from p. 217 (Kannada)**
+
+"[The word *pañcajana*] — what the five groups suggested by that word are will be told later, in the explanation of the [thirteenth, as read, ?] Ṛk of this same sūkta). Thus Sāyaṇa's explanation is that Indra is recognized by all men as the rider of a chariot. Skandasvāmin has explained giving a different sense:"
+
+> ग्रामेभिः रथेभिरिति द्वितीयार्थे तृतीया । स ग्रामान् सनिता दाता । स एव रथान् । इत्येवमहं विदे जानामि ।
+> *grāmebhiḥ rathebhir iti dvitīyārthe tṛtīyā | sa grāmān sanitā dātā | sa eva rathān | ity evam ahaṃ vide jānāmi |*
+> (Skandasvāmin, as read)
+
+"— [that is: in *grāmebhiḥ rathebhiḥ* the third case stands in the sense of the second; 'he is the giver of villages, and of chariots; thus I know']. These two words *grāmebhiḥ*, *rathebhiḥ* are in the third case, but they must be given the sense of the second case: 'I know that Indra gives villages and chariots.' If it is explained thus, the word *grāma* does not have the sense of 'band', but only 'village'. But in this context Sāyaṇa's explanation appears the more fitting.
+
+*Pauṃsyebhiḥ* — the word *pauṃsya* is read among the names of strength and among the names of battle (*Ni.* 2-[9?] as read [?]); here it means 'by strengths'.
+
+*Aśastīḥ* — *aśasaḥ, aśastīḥ*: these are words that are synonyms of 'enemy':"
+
+> शंसन्ति स्तुवन्तीति शसः स्तोतारः । ते न भवन्तीत्यशसः नृशंसाः [?] ।
+> *śaṃsanti stuvantīti śasaḥ stotāraḥ | te na bhavantīty aśasaḥ nṛśaṃsāḥ [?] |*
+
+"— those who praise are *śasaḥ*, praisers; those who are not such are *aśasaḥ*, [cruel to men, as read [?]]: enemies who have fallen away from [sacrificial] rites. They may be Asuras, or they may be men fallen away from rites. Such unworthy enemies Indra *abhibhūḥ* — overcomes."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 100.10)** *(grammar pages, pp. 218–219, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *grāmebhiḥ* (the word *grāma*, instrumental plural, *bhis* following; *ais* does not arise by *bahulaṃ chandasi* [Pā. Sū. 7-1-10 as read]; *e* by *bahuvacane jhaly et* [Pā. Sū. 7-3-103 as read]; *s* → *ru* → visarga; acute on the first syllable by *grāmādīnāṃ ca* [Phiṭ-sūtra 2-[?]4 as read, ?]; likewise *rathebhiḥ*); *vide* (root *vida jñāne*; *laṭ* in the passive, third person singular, *ta*; the *vikaraṇa* dropped by *bahulaṃ chandasi*; *e* for the *ṭi* of the ending by *ṭita ātmanepadānāṃ ṭere* [Pā. Sū. 3-4-79 as read]; loss of the *t* of the ending by *lopas ta ātmanepadeṣu* [Pā. Sū. 7-1-41 as read]; since it stands at the beginning of the pāda no *nighāta*; final acute by the affix); *kṛṣṭibhiḥ* (root *kṛṣa vilekhane*; *ktic* by *ktic ktau ca saṃjñāyām* [Pā. Sū. 3-3-174 as read]; acute on the last syllable by *citaḥ* [Pā. Sū. 6-1-163 as read]; *ṭ* for the affix's *t* by the *ṣṭutva* rule; instrumental plural); *pauṃsyebhiḥ* (as before, no *ais*; *e*).
+
+### Page 219 (PDF 239)
+
+*(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 219.)*
+
+The grammar of Rik 100.10 concludes: *aśastīḥ* (root *śaṃsu stutau*; *ktin* in the passive, in the feminine, by *striyāṃ ktin* [Pā. Sū. 3-3-94 as read]; because the affix is *kit*, the nasal of the penult is lost by *aniditāṃ hala upadhāyāḥ kṅiti* [Pā. Sū. 6-4-24 as read]; the form *śastiḥ*; *na śastiḥ aśastiḥ*, a negative *tatpuruṣa*; the accent of the first member kept, as it is an indeclinable, by *tatpuruṣe tulyārthatṛtīyā…* [Pā. Sū. 6-2-2 as read]; accusative plural); *abhibhūḥ* (*abhi bhavati iti abhibhūḥ*; *kvip* by *kvip ca*; the accent of the last member by *gatikārakopapadāt kṛt* [Pā. Sū. 6-2-139 as read]). The Rik is closed with *‖ 10 ‖* and a printed ornament.
+
+## Rik 100.11 — printed pp. 219–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 100.11)**
+
+> स जामिभिर्यत्समजाति मीळ्हेऽजामिभिर्वा पुरुहूत एवैः ।
+> अपां तोकस्य तनयस्य जेषे मरुत्वान्नो भवत्विन्द्र ऊती ॥ ११ ॥
+
+*sa jāmibhir yat samajāti mīḷhe 'jāmibhir vā puruhūta evaiḥ | apāṃ tokasya tanayasya jeṣe marutvān no bhavatv indra ūtī ‖ 11 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 100.11)**
+
+> सः । जामिऽभिः । यत् । सम्ऽअजाति । मीळ्हे । अजामिऽभिः । वा । पुरुऽहूतः । एवैः ।
+> अपाम् । तोकस्य । तनयस्य । जेषे । मरुत्वान् । नः । भवतु । इन्द्रः । ऊती ॥ ११ ॥
+
+*saḥ | jāmi-bhiḥ | yat | sam-ajāti | mīḷhe | ajāmi-bhiḥ | vā | puru-hūtaḥ | evaiḥ | apām | tokasya | tanayasya | jeṣe | marutvān | naḥ | bhavatu | indraḥ | ūtī ‖ 11 ‖*
+
+### Page 220 (PDF 240)
+
+*(Running head: left 220; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 100.11)**
+
+> पुरुहूतो बहुभिर्यजमानैराहूतः स इन्द्रो मीळ्हे संग्रामे । मीळ्हमिति धननाम । तद्धेतुत्वात्संग्रामोऽपि मीळ्हशब्देनोच्यते । जामिभिर्बन्धुभिरजामिभिर्वा बान्धवरहितैर्वा एवैर्मरुद्भिः सह युद्धार्थं यद्यदा समजाति सङ्गच्छते । तेषामुभयविधानामपां [?] इन्द्रं प्राप्नुवतां पुरुषाणां तोकस्य पुत्रस्य तनयस्य च तत्पुत्रस्य च जेषे जयप्राप्तये स इन्द्रो भवति । किमु वक्तव्यमस्माकं स्तोतृत्वमानां जयो भवतीति । अन्यत्स्पष्टम् ॥ समजाति । अज गतिक्षेपणयोः । लेट्यडागमः । जेषे । जि जये । औणादिकः सप्रत्ययः । चतुर्थ्यर्थे सप्तमी । यद्वा । जेषृ [?] गतौ । क्विप् चेति क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् ॥
+> *puruhūto bahubhir yajamānair āhūtaḥ sa indro mīḷhe saṃgrāme | mīḷham iti dhananāma | taddhetutvāt saṃgrāmo 'pi mīḷhaśabdenocyate | jāmibhir bandhubhir ajāmibhir vā bāndhavarahitair vā evair marudbhiḥ saha yuddhārthaṃ yadyadā samajāti saṅgacchate | teṣām ubhayavidhānām apāṃ [?] indraṃ prāpnuvatāṃ puruṣāṇāṃ tokasya putrasya tanayasya ca tatputrasya ca jeṣe jayaprāptaye sa indro bhavati | kimu vaktavyam asmākaṃ stotṛtvamānāṃ jayo bhavatīti | anyat spaṣṭam ‖ samajāti | aja gatikṣepaṇayoḥ | leṭy aḍāgamaḥ | jeṣe | ji jaye | auṇādikaḥ sapratyayaḥ | caturthyarthe saptamī | yadvā | jeṣṛ [?] gatau | kvip ceti kvip | sāv ekāca iti vibhakter udāttatvam ‖*
+
+"*Puruhūtaḥ* — called by many sacrificers, that Indra, in *mīḷhe* — in battle. *Mīḷha* is a name of wealth; because battle is the cause of it, battle too is called by the word *mīḷha*. *Jāmibhiḥ* — with kinsmen, or *ajāmibhiḥ* — with those without kinsmen, together with the Maruts, 'who go' (*evaiḥ*), whenever he goes forth (*samajāti*) for battle: for the people of both kinds who have reached Indra, for their son (*tokasya*), their grandson (*tanayasya*) and their son's son, for the winning of victory (*jeṣe*) that Indra becomes [the means]. What need to say, then, that victory is for us who are praisers! The rest is clear."
+
+*(The grammatical tail is characterized: the form* samajāti *from the root* aja *'to drive, to cast' with the* leṭ *and* aḍāgama*;* jeṣe *from* ji *'to conquer' with an Uṇādi affix, a locative used for the dative; or from a root* jeṣṛ *[?] 'to go', with* kvip*; accent on the ending by* sāv ekāca*. The word* apām *at the head of the bhāṣya's list is read as printed [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*puruhūtaḥ* — Indra, who is called by many sacrificers; *saḥ* — Indra; *mīḷhe* — in the battle (that is the root cause of wealth); *jāmibhiḥ* — with kinsmen, be it; *ajāmibhiḥ vā* — or with those who are not kinsmen; *evaiḥ* — (those who go to battle) with the Maruts; *yat* — whenever; *samajāti* — [he] joins [them]; *apām* — [all] those who join [him] and obtain [his] protection; *tokasya* — to their sons; *tanayasya* — and to their grandsons; *jeṣe* — he becomes the giver of victory; *marutvān* — together with the Maruts; *indraḥ* — Indra; *naḥ* — our; *ūtī* — for protection; *bhavatu* — may he be."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Indra, who is called by many sacrificers for help, in the battle that is the root cause of wealth, whenever he joins his kinsmen, or those who are not his kinsmen, together with the Maruts who go to battle, then, to those who gain Indra's protection, and to their sons and grandsons, he becomes the giver of victory. May Indra, together with the Maruts, be our protector."
+
+**English Translation (as printed)**
+
+> Invoked by many, he goes to battle with his kinsmen, or with (followers) not of his kindred ; he secures the (triumph) of those who trust in him, and of their sons and grandsons : may Indra associated with the Maruts, be our protection.
+
+### Page 221 (PDF 241)
+
+*(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 221.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 100.11 (Kannada)**
+
+"The idea that, for those who gain Indra's protection, victory in battle is assured, whether they are kinsmen or not, is plainly shown in this Ṛk.
+
+*Mīḷhe* — since *raṇaḥ, vivāk* and the like are read among the [forty-six, as read, ?] names of battle (*Ni.* 2-[?] as read [?]), the sense is 'in battle'."
+
+> बाधसे जनान्वृषभेव मन्युना घृषौ मीळ्ह ऋचीषमः ।
+> *bādhase janān vṛṣabheva manyunā ghṛṣau mīḷha ṛcīṣamaḥ |*
+> (*Ṛ. Saṃ.* 6-46-4 as read [?])
+
+> असर्जि कलशाँ अभि मीळ्हे सप्तिर्न वाजयुः ।
+> *asarji kalaśāṃ abhi mīḷhe saptir na vājayuḥ |*
+> (*Ṛ. Saṃ.* 9-106-13 as read [?])
+
+"— in Ṛks like these, as the word *mīḷhe* has the sense 'in battle', so here too the sense is 'in battle'. According to the classification in the Nirukta this word comes to have the meaning 'battle' directly. Even so, Sāyaṇa has given an explanation showing the sense that has come down by tradition: '*mīḷham iti dhananāma | taddhetutvāt saṃgrāmo 'pi mīḷhaśabdenocyate*' — he has said that, *mīḷha* being a name of wealth, since battle is the cause of wealth the word is also used for battle. In the Nirukta this word is included in both lists, the names of wealth and the names of battle (*Ni.* 2-[?] as read [?]).
+
+*Jāmibhiḥ* —"
+
+> जामीरन्येऽस्यां जनयन्ति जामुपत्वम् [?] । जमतीर्वा स्यान्निगमनप्रायाः भवति [?] ।
+> *jāmīr anye 'syāṃ janayanti jāmupatvam [?] | jamatīr vā syān nigamanaprāyāḥ bhavati [?] |*
+> (*Ni.* 3-6 as read [?]; clotted in the print)
+
+"— with the idea 'others cause offspring to be born in her', and from the root *jan*, which gives the sense 'to be born', the title *jāmi* is derived in one way; or, with the idea 'she who goes to her husband's house', and from the root *jam*, which gives the sense 'to go', the title *jāmi* is derived in another way. By both explanations, it is known from the Nirukta-author's derivation that the word *jāmi* means 'sister' (*sahodari*). Supporting this meaning —"
+
+> न जामये तान्वो रिक्थमारैक्चकार गर्भं सनितुर्निधानम् ।
+> *na jāmaye tānvo rikthām āraik cakāra garbhaṃ sanitur nidhānam |*
+> (*Ṛ. Saṃ.* 3-31-2 as read [?]; the print's *tānvo rikthamāraik* followed as printed)
+
+"— quoting this Ṛk [the Nirukta-author] explains *jāmi* as 'sister'. In the same way —"
+
+> भगस्य स्वसा वरुणस्य जामिरुषः सूनृते प्रथमा जरस्व ।
+> *bhagasya svasā varuṇasya jāmir uṣaḥ sūnṛte prathamā jarasva |*
+> (*Ṛ. Saṃ.* 1-123-5 as read [?])
+
+*(Glosses, mine and tentative: "He does not leave the [father's] inheritance to a sister…; the embryo, the deposit of the giver"; "O Uṣas, sister of Bhaga, kin of Varuṇa, O truthful one, speak first!".)*
+
+*(The passage continues on the next page.)*
+
+---
+
+**Progress note:** Printed pp. 1–221 done (PDF 21–241): **Sūkta 100** in progress: Rik 100.10 complete (pp. 215–219); Rik 100.11 (printed pp. 219–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English and the Special Topics (*mīḷhe*, *jāmibhiḥ*) done to the foot of p. 221. Next: printed p. 222 (PDF 242): the Special Topics of 100.11 continue (after the Ṛg 1-123-5 quotation on *jāmi*), then grammar; then Rik 100.12. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?]. on pp. 194–197 the clotted words in Sāyaṇa's story (*garbhaikadeśāyor*, *āruden*, *keveme*), the Nirukta/Ṛgveda numerals on pp. 194–195, the many Pāṇini numerals in the grammar of 100.5, and the clotted Ṛgveda citation and numerals in the grammatical tail of 100.6 [?]. on pp. 198–201 the Śatapatha story's clotted words (*smaika eva*, *asminno*, *pratyatiṣṭhat*) and numeral, the Bṛhaddevatā/Nirukta/Ṛgveda numerals, and the Pāṇini/Paribhāṣā numerals in the grammar of 100.6 [?]. on pp. 202–205 the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.7, the Ṛgveda/Śatapatha/Nirukta numerals on pp. 203–204, and the Nirukta name-counts (25, 26) [?]. on pp. 206–209 the clotted words in 100.8's bhāṣya tail (*vyatyayena…tvam*, *ḷdittvāc ceraṅādeśaḥ*), the first Ṛgveda quotation on p. 208 (*ahohānam*), the Sāyaṇa upodghāta verses (second verse doubtful) and the Ṛgveda numerals on pp. 208–209 [?]. on pp. 210–213 the clotted words in 100.9's bhāṣya tail (*ṇicce mantaḥ śatsaṃnitve*, *liṭi*, *salopa*), *śatroṇ api*, the Ṛgveda numerals in the *vrādhan* quotations, and Skandasvāmin's *yo dāridryāt…* [?]. on pp. 214–217 the grammar of 100.9 (many numerals), the Phiṭsūtra numeral in 100.10's tail, *abhibhavan vartate*, and the Ṛgveda/Nirukta numerals in the *grāma* and *kṛṣṭi* passages [?]; Oldenberg is called 'the English commentator' in the print. on pp. 218–221 the Phiṭsūtra numeral in 100.10's grammar, *apāṃ* in 100.11's bhāṣya, the clotted Nirukta sentence on *jāmi* (3-6), *nṛśaṃsāḥ*, and the Ṛgveda/Nirukta numerals [?].
