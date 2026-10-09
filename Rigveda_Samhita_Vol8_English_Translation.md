@@ -9851,4 +9851,144 @@ The grammar of Rik 102.10 continues: *jigetha* (continued: because the root ends
 
 ---
 
-**Progress note:** Printed pp. 1–357 done (PDF 21–377): **Sūkta 102** is COMPLETE (11 Ṛks, printed pp. 313–355; printed p. 323 missing from the scan; Ṛk 102.11 repeats 100.19 and refers back to pp. 263–264). **Sūkta 103** (8 Ṛks, *tat te indriyam*, Kutsa Āṅgirasa, Indra, Triṣṭubh; printed pp. 355–393): heading, introduction, Anuvāda, heading block and Rik 103.1 (Saṃhitā, Pada, bhāṣya with tail) done; the Pratipadārtha begun at the foot of p. 357. Next: printed p. 358 (PDF 378): the Pratipadārtha of 103.1 continues (*purā — formerly…*). Sūkta 104 begins at printed p. 394.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?]. on pp. 194–197 the clotted words in Sāyaṇa's story (*garbhaikadeśāyor*, *āruden*, *keveme*), the Nirukta/Ṛgveda numerals on pp. 194–195, the many Pāṇini numerals in the grammar of 100.5, and the clotted Ṛgveda citation and numerals in the grammatical tail of 100.6 [?]. on pp. 198–201 the Śatapatha story's clotted words (*smaika eva*, *asminno*, *pratyatiṣṭhat*) and numeral, the Bṛhaddevatā/Nirukta/Ṛgveda numerals, and the Pāṇini/Paribhāṣā numerals in the grammar of 100.6 [?]. on pp. 202–205 the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.7, the Ṛgveda/Śatapatha/Nirukta numerals on pp. 203–204, and the Nirukta name-counts (25, 26) [?]. on pp. 206–209 the clotted words in 100.8's bhāṣya tail (*vyatyayena…tvam*, *ḷdittvāc ceraṅādeśaḥ*), the first Ṛgveda quotation on p. 208 (*ahohānam*), the Sāyaṇa upodghāta verses (second verse doubtful) and the Ṛgveda numerals on pp. 208–209 [?]. on pp. 210–213 the clotted words in 100.9's bhāṣya tail (*ṇicce mantaḥ śatsaṃnitve*, *liṭi*, *salopa*), *śatroṇ api*, the Ṛgveda numerals in the *vrādhan* quotations, and Skandasvāmin's *yo dāridryāt…* [?]. on pp. 214–217 the grammar of 100.9 (many numerals), the Phiṭsūtra numeral in 100.10's tail, *abhibhavan vartate*, and the Ṛgveda/Nirukta numerals in the *grāma* and *kṛṣṭi* passages [?]; Oldenberg is called 'the English commentator' in the print. on pp. 218–221 the Phiṭsūtra numeral in 100.10's grammar, *apāṃ* in 100.11's bhāṣya, the clotted Nirukta sentence on *jāmi* (3-6), *nṛśaṃsāḥ*, and the Ṛgveda/Nirukta numerals [?]. on pp. 222–225 the Ṛgveda numerals in the *jāmi* quotations, the Uṇādi/Pāṇini/Kāśikā numerals in 100.12's bhāṣya tail, the Nirukta numeral for *dasyu* [?]. on pp. 226–229 the Ṛgveda numerals in the *dasyu*, *bhīma*, *cakṣus* and *pañcajana* quotations, the Bṛhaddevatā verse numerals and the Aitareya numeral, *śrotaṃ*/*śrotraṃ*, and the Uṇādi numeral in the grammar [?]. on pp. 230–233 the Uṇādi/Pāṇini numerals and the clotted rule-names in the grammar of 100.12 and the tail of 100.13, the Saṃhitā/Pada form *svarṣā*/*svaḥ-sāḥ*, the Nirukta numerals for *vajra* and *śimīvān*, and the many Ṛgveda numerals in the *vajra* and *smat* quotations [?]. on pp. 234–237 the Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.13 and the tail of 100.14, *paca* for *ṣac* in the print, the first Ṛgveda quotation's *yādadhīmasi* and the Ṛgveda numerals on p. 237 [?]; the print's English has 'Iudra'. on pp. 238–241 the Nirukta numeral and the *arcati*-verb count for *mandati*, the clotted opening of the Uṇādi/Pāṇini rule-names in the grammar of 100.14, and the clotted tail of 100.15's bhāṣya (*kṣmaḥ*), also *lokadvayodapasya* [?]. on pp. 242–245 the Ṛgveda numerals and the clotted quotation (*ṛjīṣya*) on p. 242, the Pāṇini/Uṇādi numerals in the grammar of 100.15, the Nirukta numeral for *sumat* (6-22), and the clotted clause in 100.16's grammatical tail [?]; the bhāṣya's *lokadvayodapasya* on p. 240 corrected on p. 242 to *lokadvayād apy asya*. on pp. 246–249 the Ṛgveda/Bṛhaddevatā/Nirukta numerals, the clotted quotation Ṛ. 8-43-29 and *svarvāṃs te* in the Bṛhaddevatā verse, the Sanskrit sentence on the five Vārṣāgiras on p. 247, and the Pāṇini/Uṇādi numerals in the grammar [?]. on pp. 250–253 *praṣṭibhiḥ* vs *pṛṣṭibhiḥ* in the Saṃhitā print, the Pāṇini/Uṇādi numerals and clotted rule-names in 100.17's tail, the clotted *notsyavahā* in the Aitareya Brāhmaṇa passages and their reference numerals, and the Ṛgveda/Śatapatha numerals [?]. on pp. 254–257 the Bṛhadāraṇyaka numeral and clotted words in the *uktha* passage, the Ṛgveda/Śatapatha numerals for Sahadeva, the clotted bhāṣya words at the page break (*upakṣapayitṝn*, *śamayitṝn*, *svadhakāriṇo*, *samabhāśrit*) and the Uṇādi numerals in 100.18's tail [?]. on pp. 258–261 the Ṛgveda numerals in the *evyaiḥ*, *śimyu* and *śaru* quotations, the clotted first words of Ṛ. 1-158-3, and the Uṇādi numeral in 100.18's grammar [?]. on pp. 262–265 the Tai. Saṃ. numeral and the nipātana rule (Pā. 7-2-32) for *aparihvṛtāḥ*, the Ṛgveda numerals in the *aparihvṛta* quotations, the Bṛhaddevatā numeral on p. 264, and the Āśvalāyana numeral and the meaning of *garbhasrāviṇī upaniṣat* in Sūkta 101's introduction [?]. on pp. 266–269 the Nirukta numerals (4-31, 2-7, 9-24), the Ṛgveda numerals in the *pitu* and Ṛjiśvan quotations, clotted words in the bhāṣya tail of 101.1 (*avasyavaḥ*, *putrāntarāsambhutpattyarthaṃ*), and the varga numerals of the heading block [?]. on pp. 270–273 the Nirukta/Pāṇini numerals in 101.1's grammar, the Saṃhitā/Pada forms *jāhṛṣāṇena*/*jahṛṣāṇena*, the print's *sakhyāyopyayāmahe* in 101.2's bhāṣya, and Skandasvāmin's quoted sentences (the *praviveka-satā* phrase clotted) [?]. on pp. 274–277 the Ṛgveda numerals in the *vyaṃsa*, Śambara, Pipru and Śuṣṇa quotations (many give only part of the numeral), the clotted lines of Ṛ. 5-32-4 and 8-40-10/11, the running-head numeral '100' for '101' on p. 276, and the Pāṇini numerals in the grammar of 101.2 [?]. on pp. 278–281 the Ṛgveda numerals in 101.3's quotations (4-19-3, 4-21-10, 3-30-5, 8-6-3, 8-12-30) and the clotted second line of Ṛ. 3-30-5, the Nirukta count for *saścati*, and the Uṇādi numeral for *sindhu* [?]. on pp. 282–285 the Nirukta numerals (5-3?2 etc.), the clotted middle of 101.4's bhāṣya tail (*āritaḥ*), the Ṛgveda numerals in the *vaśī*, *āritaḥ*, *vīḷa* quotations, and the many Pāṇini numerals in the grammar of 101.4 [?]. on pp. 286–289 the Uṇādi numeral (2-84) for *jagat*, *stṛtvā* in 101.5's bhāṣya, the Ṛgveda/Nirukta numerals for the Aṅgirasa story and *avātirat*, the clotted first words of the Ṛg quotation on p. 289 [?]. on pp. 290–293 the Pāṇini/Uṇādi numerals in the grammar of 101.5 and 101.6 (many), *akvādeśaḥ* in 101.6's bhāṣya tail, and the Ṛgveda numerals in the *indra*-quotations (1-103-5, 6-24-1, 4-17-17, 6-47-7) [?]. on pp. 294–297 the Pāṇini/Uṇādi numerals in 101.6's grammar, the Taittirīya Āraṇyaka numeral and Skandasvāmin's clotted last clause on p. 296, and the Ṛgveda numerals in the *vicakṣaṇa* and *jraya* quotations [?]. on pp. 298–301 the Ṛgveda/Nirukta numerals in the *jraya*, *sadhastha* and *satyarādhas* quotations, clotted clauses in 101.8's bhāṣya tail (*curādir ākṛtigaṇaḥ*, *a pratyayāt*), and the running-head numeral '100' on p. 300 [?]. on pp. 302–305 the Pāṇini numerals in the grammar of 101.8, the Ṛgveda/Nirukta numerals in the *brahmavāha*, *tvāyā* and *niyutvān* passages, and the clotted first words of Ṛ. 2-34-3 [?]. on pp. 306–309 the Ṛgveda/Nirukta numerals in the *śipra* quotations, *modāsi* in 101.10's bhāṣya, and the Pāṇini numerals in the grammar of 101.9 (*sevābhyāṃ vāmau*) [?]. on pp. 310–313 the Pāṇini numerals in 101.10's grammar, the Uṇādi list in 101.11's bhāṣya tail, the Nirukta/Ṛgveda numerals on p. 312, and the Anuvāda/heading-block numerals (varga 14, 15) of Sūkta 102 [?]. on pp. 314–317 the Pāṇini numerals in the grammar of 102.1 and the bhāṣya tail, the Nirukta numerals (3-?9, 2-9, daivatakāṇḍa 7.1–3), and the Pada/Saṃhitā forms *sasahim*/*sāsahim* [?]. on pp. 318–321 the Pāṇini numerals in the grammar of 102.1, the clotted bhāṣya tail of 102.2 (p. 320), the Nirukta numerals (4-?2, 1-1?) and Ṛgveda numerals (10-75-5, 1-32-10, 1-62-6) [?]. on pp. 322–325 the Nirukta numeral for *kam* (1-9) and clotted words in it, the Pāṇini numerals in the grammar of 102.2, the print's *geraya* (read *preraya*) in 102.3's bhāṣya, and the missing p. 323 [?]. on pp. 326–329 the Pāṇini numerals in the grammar of 102.3 and 102.4, the print's *kvip chandasi kvip* in 102.4's tail, and the Nirukta numeral for *varivaḥ* [?]. on pp. 330–333 the Pāṇini numerals in the grammar of 102.4 and 102.5, the print's *smākam eva* and *strini* in 102.5's bhāṣya, the Nirukta numeral for *vipanyu*, and the Śāṭyāyanaka quotation in 102.6's bhāṣya [?]. on pp. 334–337 the clotted words in 102.6's bhāṣya-tail end (*anuktasamuccayārthatvāt*, *ātmasyaiva*), the Ṛgveda numerals in the *sima* quotations (1-145-1, 10-28, 1-115), the Nirukta numeral for *kratu*, and the Pāṇini/Uṇādi numerals in the grammar [?]. on pp. 338–341 the print's *vṛty ud ririce* in 102.7's bhāṣya, the Ṛgveda numerals in the *puraṃdara* quotations (many only partly read), the Nirukta numeral for *śravaḥ*, and the Pāṇini numerals in the grammar [?]. on pp. 342–345 the clotted bhāṣya words (*astrīn*, *divyādiśākhyam*) and the clotted bhāṣya tail of 102.8 (outline only), the Ṛgveda numerals in the *tisro bhūmīḥ* quotations, and the Uṇādi numeral in the grammar [?]. on pp. 346–349 the Pāṇini numerals and clotted words in the grammar of 102.8 (*ācirutiḥ*, *hoḍhaḥ*), the Nirukta numerals (2-?7, 3-?9, 3-?1), the Ṛgveda numeral 10-110-7 and the clotted bhāṣya words at the page break [?]. on pp. 350–353 the Pāṇini numerals in the grammar of 102.9 and 102.10, the Nirukta numeral for *arbha* (4-?3), the sūtra *ī halyaghoḥ* as printed in 102.10's tail [?]. on pp. 354–357 the Āśvalāyana numeral for 103's niṣkevalya, the heading-block varga numerals (16, 17), the Taittirīya Brāhmaṇa numeral and the clotted clause *rātryādityād indreṇa saṃyukto bhavati* and the rule-name for *indriya* in 103.1's bhāṣya, and the Nirukta numeral for *parācaiḥ* [?].
+### Page 358 (PDF 378)
+
+*(Running head: left 358; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 103.1, continued from p. 357 (Kannada)**
+
+"[*purā* —] in former times; *kavayaḥ* — the far-seeing praisers; *parācaiḥ* — (as one that was not hostile to the gods) as if facing away (as if facing the enemies); *adhārayanta* — they upheld [it] and understood [it]; *asya* — of this Indra; *anyat* — one portion; *idam* — the light called Agni; *kṣamā* — on the earth; *anyat* — another portion; the light called the sun; *divi* — in the mid-air [heaven]; (thus) *īm* — both these kinds of light of Indra; *samanā* — in the field of battle; *ketuḥ iva* — like the banners (of the two sides); *saṃ pṛcyete* — join together."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Indra, in former times the far-seeing praisers understood your excellent, well-known, visible strength, as if they were always ready for battle [against the enemy]. A portion of Indra, the light called Agni on the earth, and another portion, the light called the sun, spreading in the mid-air, join together as the banners of the two sides do when they come together in the field of battle: by day Agni joins the sun, and by night the sun joins Agni."
+
+**English Translation (as printed)**
+
+> The sages have formerly been possessed of this your supreme power, Indra, as if it were present with them, one light of whom shines upon the earth, the other in heaven, and both are in combination with each other, as banner (mingles with banner) in battle.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.1 (Kannada)**
+
+"*Indriyam* — *balam*, 'strength'. In this Ṛk, Sāyaṇa has given for the word *indriya* the meaning 'strength'; Skandasvāmin has given 'strength or wealth'. The Nirukta-author has included this word among the twenty-eight names of wealth beginning *maghaṃ, reknaḥ* (*Ni.* 2-[?] as read [?]). Whether as strength, as wealth, or as any other meaning, since it is connected with Indra, the sense of *indriya* or the derivation of the word is known from many sentences of the Ṛksaṃhitā. Besides these two meanings, it is also understood that it is suited to being offered to Indra and that it gives satisfaction to Indra."
+
+> स इद्वने नमस्युभिर्वचस्यते चारु जनेषु प्रब्रुवाण इन्द्रियम् ।
+> *sa id vane namasyubhir vacasyate cāru janeṣu prabruvāṇa indriyam |*
+> (*Ṛ. Saṃ.* 1-[?]4-4 as read [?])
+
+> मान्तरां भुजमा रीरिषो नः श्रद्धितं ते महत इन्द्रियाय ।
+> *māntarāṃ bhujam ā rīriṣo naḥ śraddhitaṃ te mahata indriyāya |*
+> (*Ṛ. Saṃ.* 1-104-6 as read [?])
+
+### Page 359 (PDF 379)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 359.)*
+
+> न क्षोणीभ्यां परिभ्वे त इन्द्रियं न समुद्रैः पर्वतैरिन्द्र ते रथः ।
+> *na kṣoṇībhyāṃ paribhve ta indriyaṃ na samudraiḥ parvatair indra te rathaḥ |*
+> (*Ṛ. Saṃ.* 3-[?]6-5 as read [?]; as quoted on p. 177)
+
+"— in Ṛks like these, *indriya* is 'strength'; and by *indriyāya vīryāya* [as read] Indra's valour and capacity are described.
+
+> निरग्नयो रुरुचुर्निरु सूर्यो निः सोममिन्द्रियो रसः ।
+> *nir agnayo rurucur nir u sūryo niḥ somam indriyo rasaḥ |*
+> (*Ṛ. Saṃ.* 8-[?]-[?]0 as read [?])
+
+"— in this Ṛk, *indriyaḥ rasaḥ* is *indreṇa sevyaḥ* — the Soma juice fit to be consumed by Indra; and —
+
+> नहि स्वस्य महिमानमिन्द्रियं स्वर्गृणन्त आनशुः ।
+> *nahi svasya mahimānam indriyaṃ svar gṛṇanta ānaśuḥ |*
+> (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+"— in this Ṛk, *indriyam indrasya liṅgam indrasyaivāsādhāraṇam*: 'the unique greatness, special to Indra'; and —
+
+> आदिद्ध नेम इन्द्रियं यजन्त आदित्पक्तिः पुरोळाशं रिरिच्यात् ।
+> *ād id dha nema indriyaṃ yajanta ād it paktiḥ puroḍāśaṃ ririchyāt |*
+> (*Ṛ. Saṃ.* 4-[?]4-[?] as read [?])
+
+"— in this Ṛk, *indriyam* is the synonym of 'one who is strong, Indra'; and —
+
+> यस्य धाम श्रवसे नामेन्द्रियं ज्योतिरकारि हरितो नायसे ।
+> *yasya dhāma śravase nāmendriyaṃ jyotir akāri harito nāyase |*
+> (*Ṛ. Saṃ.* 1-[?]2-[?] as read [?])
+
+"— in this Ṛk, *indriyam* is 'the mark of the Indra-ness, of supreme lordship, of that Indra's light'; and —
+
+> आपश्चित्पिप्युः स्तर्यो न गावो नक्षन्नृतं जरितारस्त इन्द्र ।
+> *āpaś cit pipyuḥ staryo na gāvo nakṣann ṛtaṃ jaritāras ta indra |*
+
+*(This Ṛk is not read in full; the print's Ṛk beginning* āpaś cit [?] *is given as it appears and not completed from memory [?].)*
+
+> आपश्चिद्धि स्वयशसः सदस्सु देवीरिन्द्रं वावृधुर्न पूर्वीः ।
+> *(not read)*
+
+"— and *ābhīśuṃ pūyamānaḥ pratī devā ājuṣanta payobhiḥ* [print: *āpacchlokam indriyaṃ pūyamānaḥ prati devā ājuṣanta payobhiḥ*, as read [?]] (*Ṛ. Saṃ.* 9-[?]3-[?]) — in these Ṛks and the like, *indriya* is the object of *pādyaprāptam* [as printed, ?] — 'that suited to be offered to Indra'; 'that which gives satisfaction to Indra'; and —"
+
+> यथा क्षयाम सर्ववीरया विशा तन्नः शर्धाय धासथा स्विन्द्रियम् ।
+> *yathā kṣayāma sarvavīrayā viśā tan naḥ śardhāya dhāsathā svindriyam |*
+> (*Ṛ. Saṃ.* 1-100-[?] as read [?]; the first two syllables of the Ṛk are not clear [?])
+
+> उद्यत्सहः सहस आजनिष्ट देदिष्ट इन्द्र इन्द्रियाणि विश्वा ।
+> *ud yat sahaḥ sahasa ājaniṣṭa dediṣṭa indra indriyāṇi viśvā |*
+> (*Ṛ. Saṃ.* 3-3[?]-[?] as read [?])
+
+> अनु ते दायि मह इन्द्रियाय सत्रा ते विश्वमनु वृत्रहत्ये ।
+> *anu te dāyi maha indriyāya satrā te viśvam anu vṛtrahatye |*
+> (*Ṛ. Saṃ.* 6-[?]3-[?] as read [?])
+
+### Page 360 (PDF 380)
+
+*(Running head: left 360; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+"— in Ṛks like these, *indriya* is also given the sense 'wealth, sovereignty (*aiśvarya*)'. Thus, as the word *indriya* has derivations according to the context, with the different meanings that arise in each place, the sense of strength, or wealth, may be given in this Ṛk, suited to the context.
+
+*Parācaiḥ* — this word has been explained with a distinct sense by the bhāṣya-author. After first giving a meaning of his own, he afterwards cites the derivation in the Nirukta: *parācaiḥ parācīnena parāṅmukham* — he first explains 'turned away, with the face turned', and afterwards '*parācaiḥ parāñcanaiḥ parāgamanair yuktam*' — 'joined with turning away': and so he has told also the Nirukta-author's derivation, that it means 'joined with the going away' (*Ni.* 11-[?]2 as read [?]). The Nirukta-author, in the Ṛk of the tenth *maṇḍala* —"
+
+> किमिच्छन्ती सरमा प्रेदमानड् दूरे ह्यध्वा जगुरिः पराचैः ।
+> *kim icchantī saramā predam ānaḍ dūre hy adhvā jaguriḥ parācaiḥ |*
+> (*Ṛ. Saṃ.* 10-108-[?] as read [?])
+
+"— in explaining this Ṛk he explains *parācaiḥ* as '*parāñcanair gatiḥ*', and Durgācārya has given the explanation of *parāmukhaiḥ añcanair gamanaiḥ ayito gataḥ*, *viprakṛṣṭo devanivāsāt* — 'gone by goings that are turned away; far from the abode of the gods' [as read, ?]. On the whole, it appears that the meaning to be taken is 'facing away': that is, that Indra's power was always, from the world of the gods, turned away from [the gods] and facing the enemies; that it was always turned against enemies and was intent on [their] conquest. Likewise —"
+
+> बाधस्व दूरे निर्ऋतिं पराचैः कृतं चिदेनः प्र मुमुग्ध्यस्मत् ।
+> *bādhasva dūre nirṛtiṃ parācaiḥ kṛtaṃ cid enaḥ pra mumugdhy asmat |*
+> (*Ṛ. Saṃ.* 1-[?]4-9 as read [?])
+
+> आरे बाधेथां निर्ऋतिं पराचैरस्मे भद्रा सौश्रवसानि सन्तु ।
+> *āre bādhethāṃ nirṛtiṃ parācair asme bhadrā sauśravasāni santu |*
+> (*Ṛ. Saṃ.* 6-[?]4-3 as read [?])
+
+"— in all Ṛks like these, 'turned away' is the apt meaning for the context. But in the Ṛk at hand it is hard to establish the sense definitely. As said above, the point may be made that Indra's strength has always been facing the enemies, away from the world of the gods.
+
+*Kavayaḥ adhārayanta* — *stotāraḥ dhṛtavantaḥ*: 'the praisers understood that Indra's power was ever facing the enemies': that is the sense.
+
+*Kṣamed am anyad divy anyat* — *idam agnyākhyaṃ jyotiḥ kṣamā bhūmau vartate* | *anyad asyaikaṃ sūryākhyaṃ dyuloke*: the fire-like light of Indra on earth, and the sun-like light in the mid-air, spreading" *(the sentence continues on the next page)*
+
+### Page 361 (PDF 381)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 361.)*
+
+"— as described in the passage *udyantaṃ vā ādityam agnir anusamārohati* (*Tai. Brā.* 2-1-2-10 as read [?]), by day the fire joins the sun, and by night the sun joins the fire: so it is described.
+
+*Samanā iva ketuḥ* — *samanaśabdaḥ saṃgrāmavācī* (*Ni.* 2-[?]7 as read [?]): *yathā samane saṃgrāme yudhyamānayor ubhayor dhvajau dhvajāntareṇa saṃyujyate tadvat*: *samana* means battle. As in battle the two banners join each other, so — this simile is applied to the joining of the sun and fire. The words that carry the simile, *samanā iva*, are used also in some other places, but their sense differs there; it must be noted. The reason is the difference of accent: the foot order *sa-ma-nā iva* is used in this Ṛk only. As for the rest —"
+
+> अभि प्रवन्त समनेव योषाः कल्याण्यः स्मयमानासो अग्निम् ।
+> *abhi pravanta samaneva yoṣāḥ kalyāṇyaḥ smayamānāso agnim |*
+> (*Ṛ. Saṃ.* 4-[?]3-[?] as read [?])
+
+> शे आचरंती समनेव योषा मातेव पुत्रं बिभृतामुपस्थे ।
+> *śe ācarantī samaneva yoṣā māteva putraṃ bibhṛtām upasthe |*
+> (*Ṛ. Saṃ.* 6-[?]3-[?] as read [?])
+
+> समनेव वपुष्यतः कृणवन्नानुषा युगा ।
+> *samaneva vapuṣyataḥ kṛṇavan mānuṣā yugā |*
+> (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+"— in these Ṛks *samanā iva* in the order is for *samānamanaskā yoṣitā iva* — 'like women with the same mind': 'like women of one mind': so the sense of *samana* here is not 'battle'. In the Ṛk in question only, *samana* means 'battle'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.1)** *(grammar pages, pp. 361–362, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *indriyam* (*indrasya liṅgaṃ balam indriyam*; *indriyam indraliṅgam indradṛṣṭam indrasṛṣṭam indrajuṣṭam indradattam iti vā* [Pā. Sū. 5-2-93 as read], by *nipātana* ending in the affix *gha* [*cha*, as printed]; final acute by the affix by *citaḥ* [Pā. Sū. 6-1-163 as read]); *parācaiḥ* (like *uccaiḥ, nīcaiḥ*, an indeclinable; Yāska says it so: *parācaiḥ parāñcanaiḥ* [*Ni.* 11-?2 as read, ?]); *adhārayanta* (root *dhṛṅ avasthāne*; because the causative sense is shown, *ṇic*; after the *ṇic*-ended form, *laṅ*, third person plural; since it is at the beginning of the foot [as printed] no *nighāta*; since the augment *aṭ* is acute, the word is acute on the first syllable)" *(the grammar continues on the next page)*
+
+---
+
+**Progress note:** Printed pp. 1–361 done (PDF 21–381): **Sūkta 103** (8 Ṛks) in progress: Rik 103.1 (printed pp. 356–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (*indriyam*, *parācaiḥ*, *kṣamā idam anyat divi anyat*, *samanā iva ketuḥ*) and the start of the grammar done to p. 361. Next: printed p. 362 (PDF 382): the grammar of 103.1 continues (*adhārayanta*…); then Rik 103.2. Sūkta 104 begins at printed p. 394.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
