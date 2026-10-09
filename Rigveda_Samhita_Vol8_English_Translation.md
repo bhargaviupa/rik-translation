@@ -14111,5 +14111,102 @@ Here the Bṛhaddevatā-writer shows two kinds of defect in Yāska: first, Yāsk
 Grammar pages, noted briefly. *Sakṛt* (*ekasya sakṛc ca*, Pā. Sū. 5-4-19 as read [?]: formed as a *nipātana* in the counting of the repetition of an action). *Vṛkaḥ* (root *vṛñ varaṇe*; the suffix *ka* by *svṛbhūśuṣimuṣibhyaḥ kit*, Uṇ. 3-41 as read [?]; since it is *kit*, no *guṇa* of the root). *Pathā* (the word *pathin*; before the third case singular, the *bha*-designation and loss of *ṭi* by *bhasya ṭer lopaḥ*, Pā. Sū. 7-1-88 as read [?]; the ending is acute by *anudāttasya ca yatrodāttalopaḥ*, Pā. Sū. 6-1-159 as read [?]). *Yantam* (root *yā prāpaṇe*; *śatṛ* in the sense of *laṭ*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; since *śatṛ* is *apit* it is treated as *ṅit* [*sārvadhātukam apit*]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; accent of the suffix, initial acute; accusative singular). *Dadarśa* (root *dṛśir prekṣaṇe*; *liṭ*, third person singular; because of the connection with *hi*, the prohibition of *nighāta* by *hica*, Pā. Sū. 8-1-34 as read [?]; *ṇal*; since it is *lit*, the acute before the suffix by *liti*, Pā. Sū. 6-1-193 as read [?]). *Jihīte* (root *ohāṅ gatau*, *juhotyādi*; *laṭ*, third person singular, *ta*; *e* for the *ṭi* by *ṭita ātmanepadānāṃ ṭere*; *ślu* by *juhotyādibhyaḥ śluḥ*, Pā. Sū. 2-4-75 as read [?]; the doubling of the root by *ślau*, Pā. Sū. 6-1-10 as read [?]; *i* in the reduplicate by *bhṛñām it*, Pā. Sū. 7-4-76 as read [?]; *cutva* and *jaśtva* by *kuhoś cuḥ*, Pā. Sū. 7-4-62 as read [?]; *ī* for the final *ā* by *ī halyaghoḥ*, Pā. Sū. 6-4-113 as read [?]; *nighāta*). *Nicāyya* (root *cāyṛ pūjānicāmanayoḥ*; since roots are accepted as having many senses, here used in the sense of 'seeing'; *lyap* for *ktvā* in a compound whose first member is not *nañ* by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?]; the lengthening in the Saṃhitā by *ānyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]). *Pṛṣṭyāmayī* (root *spṛśa saṃsparśane*; *spṛśyate 'nena iti spṛṣṭiḥ*, with *ktin* in the instrumental sense; *ṣatva* of the *ś* by *vraścabhrasja…*, Pā. Sū. 8-2-36 as read [?]; *ṭutva* of the *t*; the Vedic loss of the *s* of the root; *pṛṣṭyāmayaḥ asya asti iti pṛṣṭyāmayī*" *(the grammar continues on p. 526)*
 
 ---
+### Page 526 (PDF 546)
 
-**Progress note:** Printed pp. 1–525 done (PDF 21–545): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.17 complete (pp. 441–519); Rik 105.18 (printed pp. 520–[?]): all parts done (printed English, Special Topics) except the end of the grammar, begun at p. 525 (at *pṛṣṭyāmayī*). Next: printed p. 526 (PDF 546): the end of the grammar of 105.18, then Rik 105.19 (the last Ṛk, Triṣṭubh). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 526; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+The grammar of Rik 105.18 concludes (noted briefly). *Pṛṣṭyāmayī*, concluded: the suffix *ini* in the sense of 'having' by *ata iniṭhanau*, Pā. Sū. 5-2-115 as read [?]; loss of *a* by *yasyeti ca*; the accent of the suffix, final acute. The Rik is closed with *‖ 18 ‖* and an ornament.
+
+## Rik 105.19 — printed pp. 526–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.19)** *(the last Ṛk of the Sūkta; Triṣṭubh)*
+
+> एनाङ्गूषेण वयमिन्द्रवन्तोऽभि ष्याम वृजने सर्ववीराः ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ १९ ॥
+
+*enāṅgūṣeṇa vayam indravanto 'bhi ṣyāma vṛjane sarvavīrāḥ | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 19 ‖* *(accent-marks in the print not reproduced; this Ṛk, unlike the others of the Sūkta, has no refrain "vittaṃ me asya rodasī")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.19)**
+
+> एना । आङ्गूषेण । वयम् । इन्द्रऽवन्तः । अभि । स्याम । वृजने ।
+> सर्वऽवीराः ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ १९ ॥
+
+*enā | āṅgūṣeṇa | vayam | indra-vantaḥ | abhi | syāma | vṛjane | sarva-vīrāḥ | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.19), begun at the foot of p. 526**
+
+> एनानेनाङ्गूषेणाघोषणयोग्येन स्तोत्रेण हेतुभूतेनेन्द्रवन्तोऽनुग्राहकेणेन्द्रेण युक्ताः सर्ववीराः सर्वैर्वीरैः पुत्रैः पौत्रादिभिरुपेताः सन्तो…
+> *enānenāṅgūṣeṇāghoṣaṇayogyena stotreṇa hetubhūtenendravanto 'nugrāhakeṇendreṇa yuktāḥ sarvavīrāḥ sarvair vīraiḥ putraiḥ pautrādibhir upetāḥ santo…* *(continued on p. 527)*
+
+---
+
+### Page 527 (PDF 547)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 527.)*
+
+> …वयं वृजने संग्रामेऽभिष्याम । शत्रूनभिभवेम । तदिदमस्मदीयं वचनं मित्रादयो मामहन्ताम् । पूजयन्तु । पालयन्त्वित्यर्थः । उतशब्दो देवतासमुच्चयार्थः । अत्र यास्कः । आङ्गूषः स्तोम आघोषः । अनेन स्तोमेन वयमिन्द्रवन्तः । नि. ५-११ [?] । इति ॥ एना । द्वितीयाटौस्स्वेनः । पा. २-४-३४ । इति तृतीयायामिदमेनादेशः । सुपां सुलुगिति विभक्तेराजादेशः । चित्त्वादन्तोदात्तत्वम् । आङ्गूषेण । आङ्पूर्वाद्घुषेः कर्मणि घञ् । आजो जकारलोपाभावश्छान्दसः । घोषशब्दस्य गूषभावश्च पृषोदरादित्वात् । थाथादिनोत्तरपदान्तोदात्तत्वम् । स्याम । अस्तेः प्रार्थनायां लिङ् । श्नसोरल्लोपे इत्यकारलोपः । उपसर्गप्रादुर्भ्यामस्तिर्यच्परः । पा. ८-३-८७ । इति षत्वम् ॥
+> *…vayaṃ vṛjane saṃgrāme 'bhiṣyāma | śatrūn abhibhavema | tad idam asmadīyaṃ vacanaṃ mitrādayo māmahantām | pūjayantu | pālayantv ity arthaḥ | utaśabdo devatāsamuccayārthaḥ | atra yāskaḥ | āṅgūṣaḥ stoma āghoṣaḥ | anena stomena vayam indravantaḥ | ni. 5-[?]1 [?] | iti ‖ enā | dvitīyāṭausvenaḥ | pā. 2-4-34 | iti tṛtīyāyām idam enādeśaḥ | supāṃ suluk iti vibhakter ājādeśaḥ | cittvād antodāttatvam | āṅgūṣeṇa | āṅpūrvād ghuṣeḥ karmaṇi ghañ | āṅo jakāralopābhāvaś chāndasaḥ | ghoṣaśabdasya gūṣabhāvaś ca pṛṣodarāditvāt | thāthādinottarapadāntodāttatvam | syāma | aster prārthanāyāṃ liṅ | śnasor allope ity akāralopaḥ | upasargaprādurbhyām astiryacparaḥ | pā. 8-3-87 | iti ṣatvam ‖* *(Sanskrit as read; "utaśabdo" is the print's reading of the Ṛk's word *uta*; the tail is short and given; sūtra numerals mostly doubtful [?].)*
+
+"…we, in battle (*vṛjane*) — in a fight — may conquer (*abhi ṣyāma*), may overcome the enemies. This our word may Mitra and the others (*māmahantām*) honour, protect: so the meaning. The word *uta* is for the sake of putting together [other] deities. Here Yāska [says]: '*āṅgūṣaḥ stoma āghoṣaḥ*: with this *stoma* we are possessed of Indra' (*Ni.* 5-[?]1 as read [?])."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.19; Kannada; English)**
+
+*Enā āṅgūṣeṇa* — with the help of this hymn, which is fit to be proclaimed loudly; *indravantaḥ* — (we) who are with Indra (one who is endowed with the mind to favour [us]); *sarvavīrāḥ* — those who have all heroic sons and grandsons and the rest; *vayam* — we; *vṛjane* — in battle; *abhi syāma* — may we conquer (the enemies); *naḥ tat* — this hymn-word of ours; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the divinity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the heavenly world; *māmahantām* — may [they] protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+By the help of this hymn of ours, which is fit to be proclaimed aloud, may we, being united with Indra, the favourer, and possessed of heroic sons and grandsons with all strength, overcome the enemies in battle. May Mitra, Varuṇa, Aditi, the divinity of the ocean, the earth and the heavenly world protect this hymn-word of ours.
+
+**English Translation (as printed in the source)**
+
+"By this recitation may we, becoming possessed of Indra, and strong with multiplied progeny, overcome our foes in battle ; and may Mitra, Varun [sic], Aditi,—ocean, earth and heaven be gracious to us in this (request)."
+
+---
+
+### Page 528 (PDF 548)
+
+*(Running head: left "428" [sic: printed for 528; the numeral is a misprint]; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.19)**
+
+**Āṅgūṣeṇa** — *āṅgūṣaḥ stoma āghoṣaḥ |* (*Ni.* 5-1[?] as read [?]) "the hymn that is to be proclaimed aloud is named *āṅgūṣa*: the Nirukta-author has cited this very Ṛk in giving the derivation of this word. Skandasvāmin says that two meanings can be taken, *soma* and *stoma*, and that the remaining words should have two meanings to match: if *soma* is meant, then '*kūpe prakalpitena somena*', 'with the Soma prepared in the well', with the Soma made ready in the well. For the word *vṛjana*, '*vṛjyate doṣaiḥ iti vṛjanaḥ yajñaḥ*' [?]: it should also mean 'sacrifice'. But the word *āṅgūṣa* occurs some ten times in the Ṛk-saṃhitā, and in all those places the sense is 'hymn'. Therefore here too — since '*vittaṃ me asya rodasī*' has been stated — it is to be taken as 'the hymn that is recited aloud'."
+
+**Vṛjane** — "the word *vṛjana* is read among the names of strength (*bala*); *senādilakṣaṇena balena yukte saṃgrāme*: in a battle that is accompanied by strength in the form of an army and the like; that is, in a battle with strength of the form of an army."
+
+**Abhiṣyāma** — *śatrūn abhibhavema |* "may we conquer the enemies: such is the prayer."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.19)** *(grammar pages, pp. 528–529, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Enā* (the word *idam*; before the third case singular *ṭā*, *ena* for the base by *dvitīyāṭausv enaḥ*, Pā. Sū. 2-4-34 as read [?]; for the ending the substitution *ina* is expected by *ṭāṅasiṅasām inātsyāḥ*, but, by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?], *ā* is substituted for it; since it is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]). *Āṅgūṣeṇa* (root *ghuṣir aviśabdane* with the prefix *āṅ*; *ghañ* in the passive; the non-loss of the *j* of *āṅ*, as Vedic; *guṇa* gives *ghoṣa*; since it belongs to the *pṛṣodarādi* list, *ghoṣa* becomes *gūṣa* by *pṛṣodarādīni yathopadiṣṭam*, Pā. Sū. 6-3-109 as read [?]; the final acute of the latter member by *thāthaghañ…*, Pā. Sū. 6-2-144 as read [?]). *Indravantaḥ* (*indro 'sya asti iti indravān*; the suffix *matup* by *tadasyāstyasminn iti matup*, Pā. Sū. 5-2-94 as read [?]; *v* for the *m* of *matup* after a *ā*/*a* vowel by *māduspadhāyāś ca mator vo 'yavādibhyaḥ*, Pā. Sū. 8-2-9 as read [?]; nominative plural). *Syāma* (root *as bhuvi*; *liṅ* in the sense of a prayer by *āśiṣi liṅ*, Pā. Sū. 3-3-173 as read [?]; first person plural, *mas*; the loss of *s* of *mas* by *nityaṃ ṅitaḥ*, Pā. Sū. 3-4-99 as read [?]; *sārvadhātukam apit*, treated as *ṅit*; loss of the *a* of the root by *śnasor allopaḥ*, Pā. Sū. 6-4-111 as read [?]; *yāsuṭ* for *liṅ*; loss of the *s* of *liṅ* by *liṅaḥ salopo 'nantyasya*, Pā. Sū. 7-2-79 as read [?]; *nighāta*; when *abhi + syāma*, *ṣatva* of the *s* by *upasargāt pradurbhyām astiyacparaḥ*, Pā. Sū. 8-3-87 as read [?]).
+
+---
+
+### Page 529 (PDF 549)
+
+*(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 529. At the foot, the printer's signature "34 / VOLUME 6" [sic: as printed, noted only].)*
+
+The grammar of Rik 105.19 concludes (noted briefly). *Sarvavīrāḥ* (*sarve vīrāḥ yeṣāṃ te sarvavīrāḥ*, a *bahuvrīhi*; the accent of the prior member remains by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]). "The procedure of the remaining words has been explained earlier." The Rik is closed with *‖ 19 ‖*.
+
+*(Printed line, centred:)* **ನೂರ ಐದನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾದುದು** — *"The hundred-and-fifth Sūkta has come to an end."* *(The first word reads "nūra" with a damaged letter [?].)*
+
+**With this, Sūkta 105 (19 Ṛks, printed pp. 439–529) is complete.**
+
+---
+
+## Sūkta 106
+
+**ನೂರಆರನೆಯ ಸೂಕ್ತವು** — *nūraāraneya sūktavu*, "the hundred-and-sixth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 106 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> षोडशेऽनुवाके सप्तदशसूक्तानि । तत्रेन्द्रमिति सप्तर्चं प्रथमं सूक्तम् । अत्रानुक्रम्यते । इन्द्रं मित्रं सप्त त्रिष्टुबन्तमिति । अनुवर्तमानात्कुत्स ऋषिः । त्रितस्तु व्यावशिष्टत्वात्तत्रैव [?] विकल्पितो नानुवर्तते । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषया जगत्यः । विश्वे देवा देवतेत्युक्तम् । विनियोगो लैङ्गिकः ॥
+> *ṣoḍaśe 'nuvāke saptadaśasūktāni | tatrendram iti saptarcaṃ prathamaṃ sūktam | atrānukramyate | indraṃ mitraṃ sapta triṣṭubantam iti | anuvartamānāt kutsa ṛṣiḥ | tritas tu vyāvaśiṣṭatvāt tatraiva [?] vikalpito nānuvartate | antyā triṣṭup | śiṣṭās triṣṭubantaparibhāṣayā jagatyaḥ | viśve devā devatety uktam | viniyogo laiṅgikaḥ ‖* *(as read; the Sanskrit is crowded and the middle clause, "tritas tu vyāvaśiṣṭatvāt…", is given with doubt [?])*
+
+"In the sixteenth *anuvāka* there are seventeen Sūktas. Among them the first Sūkta, *indram*, has seven Ṛks. The Anukramaṇī says here: '*indraṃ mitraṃ sapta triṣṭubantam*' ['seven, ending in a Triṣṭubh']. The ṛṣi is Kutsa, by continuation [from before]; Trita, being set aside as an alternative [for the previous Sūkta], is not continued. The last Ṛk is Triṣṭubh; the remaining ones are Jagatī, by the rule 'ending in Triṣṭubh [the rest are Jagatī]'. The deities are the Viśvedevas, it is said. The application (*viniyoga*) is by indication (*laiṅgika*)."
+
+**अनुवादवु — Anuvāda (Kannada):** "From this Sūkta the sixteenth *anuvāka* of the first Maṇḍala begins. In this anuvāka (106–1[?]2 as read [?]) there are ten [?] Sūktas [the Sanskrit above says seventeen: *saptadaśa*; the Kannada numeral and word are read with doubt [?]]. Among them, this Sūkta *indraṃ mitram* is the first. It has seven Ṛks. In the Anukramaṇikā — '*indraṃ mitraṃ*' *(the passage continues on p. 530)*
+
+---
+
+**Progress note:** Printed pp. 1–529 done (PDF 21–549): **Sūkta 105 is complete** (printed pp. 439–529; 19 Ṛks). **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī, last Ṛk Triṣṭubh; begins the sixteenth anuvāka) begun at the foot of printed p. 529: the Kannada title and Sāyaṇa's introduction are done; the Anuvāda is cut at the page-foot ('In the Anukramaṇikā — indraṃ mitraṃ…'). Next: printed p. 530 (PDF 550); p. 531 or so will carry the heading block and Ṛk 106.1. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
