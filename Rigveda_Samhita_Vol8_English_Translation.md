@@ -5534,4 +5534,119 @@ Here, since we need to know what relation Indra has with the Aṅgirases, how it
 
 ---
 
-**Progress note:** Printed pp. 1–189 done (PDF 21–209): **Sūkta 100** in progress: Rik 100.4 (printed pp. 186–[?]): Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, English and the Special Topics on *aṅgirastamaḥ* (the three senses of *Aṅgiras*, the Ṛg 3-31 passage) done to p. 189's last line. Next: printed p. 190 (PDF 210): the sentence '…Indra too, becoming the chief among the Aṅgirases, when fighting…' continues; then the rest of the Special Topics, grammar of 100.4, and Rik 100.5. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?].
+### Page 190 (PDF 210)
+
+*(Running head: left 190; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**Special Topics of Rik 100.4, continued from p. 189 (Kannada)**
+
+"[…Indra too, becoming the chief among the Aṅgirases, when fighting] split the mountain, the cows and the waters were released: so it is described in the form of a story, that Indra stood foremost, most worthy of reverence among all the Aṅgirases. Therefore the expression *aṅgirobhiḥ aṅgirastamaḥ* is fitting.
+
+*Ṛgmibhiḥ ṛgmī* — *arcanīyebhyo 'pi arcanīyo bhavati*: 'he is worshipful even among the worshipful': the sense is, the most excellent worshipful one among all those who are worthy of worship."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 100.4)** *(grammar pages, pp. 190–191, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *aṅgirobhiḥ* (*aṅganti gacchantīti aṅgirasaḥ*; the roots *agi, ragi, lagi* in the sense of going; the Uṇādi affix *asun*, fixed by the rule *aṅgirā apsarāḥ* [Uṇ. Sū. 4-[?]-[?] as read, ?]; the word *aṅgiras*; before *bhis*, *s* → *ru* → *u* with *guṇa*; since the affix is *nit*, acute on the first syllable; the instrumental in the sense of the ablative in this mantra); *aṅgirastamaḥ* (*atiśayena aṅgirāḥ*; *tamap* by *atiśāyane tamabiṣṭhanau* [Pā. Sū. 5-3-55 as read]; being *pit*, unaccented); *bhūt* (*luṅ* in the sense of the present in the Veda by *chandasi luṅlaṅliṭaḥ* [Pā. Sū. 3-4-6 as read]; loss of the *i* of *tip* by *itaś ca* [Pā. Sū. 3-4-100 as read]; *luk* of *sic* by *gātisthāghupābhūbhyaḥ sicaḥ* [Pā. Sū. 2-4-77 as read]; the *aṭ* does not come, by *bahulaṃ chandasy māṅyoge 'pi* [Pā. Sū. 6-4-75 as read]; *nighāta*); *vṛṣā* (root *vṛṣu secane*; the Uṇādi *kanin*; acute on the first syllable, the affix being *nit*); *ṛgmibhiḥ* (root *ṛc stutau*; *kvip* by the class *sampadādibhyaḥ* [vārttika, as read [Pā. 3-3-108, ?]]; the form *ṛc*; *mini* in the possessive sense; *c* → *k* by *coḥ kuḥ* [Pā. Sū. 8-2-30 as read] since the word has *pada* status; *g* by *jhalāṃ jaśo 'nte* [Pā. Sū. 8-2-39 as read]; *ṛgmin*; final acute by the affix; instrumental); *gātubhiḥ* (root *gā stutau*; *tu* in the passive by *kamimanijani…* [Uṇ. Sū. 1-73 as read, ?]; final acute by the affix).
+
+### Page 191 (PDF 211)
+
+*(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 191.)*
+
+The grammar of Rik 100.4 concludes: *jyeṣṭhaḥ* (*atiśayena praśastaḥ jyeṣṭhaḥ*; *iṣṭhan* after the word *praśasya* by *atiśāyane tamabiṣṭhanau*; the substitution *jya* for *praśasya* by *jya ca* [Pā. Sū. 5-3-61 as read]; if loss of the final were to arise, it does not, since *prakṛtyaikāc* [Pā. Sū. 6-4-163 as read] keeps the stem; *guṇa*; acute on the first syllable, the affix being *nit*). The Rik is closed with *‖ 4 ‖* and a printed ornament.
+
+## Rik 100.5 — printed pp. 191–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 100.5)**
+
+> स सूनुभिर्न रुद्रेभिर्ऋभ्वा नृषाह्ये सासह्वाँ अमित्रान् ।
+> सनीळेभिः श्रवस्यानि तूर्वन्मरुत्वान्नो भवत्विन्द्र ऊती ॥ ५ ॥
+
+*sa sūnubhir na rudrebhir ṛbhvā nṛṣāhye sāsahvāṃ amitrān | sanīḷebhiḥ śravasyāni tūrvan marutvān no bhavatv indra ūtī ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 100.5)**
+
+> सः । सूनुऽभिः । न । रुद्रेभिः । ऋभ्वा । नृऽसह्ये । ससह्वान् [?] । अमित्रान् ।
+> सऽनीळेभिः । श्रवस्यानि । तूर्वन् । मरुत्वान् । नः । भवतु । इन्द्रः । ऊती ॥ ५ ॥
+
+*saḥ | sūnu-bhiḥ | na | rudrebhiḥ | ṛbhvā | nṛ-sahye | sasahvān [?] | amitrān | sa-nīḷebhiḥ | śravasyāni | tūrvan | marutvān | naḥ | bhavatu | indraḥ | ūtī ‖ 5 ‖*
+
+*(The Pada's* sasahvān *is read with short* a*, against the Saṃhitā's* sāsahvān*; see the like doubt at 100.3 [?].)*
+
+### Page 192 (PDF 212)
+
+*(Running head: left 192; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 100.5)**
+
+> सूनुभिर्न पुत्रैरिव रुद्रेभिः रुद्रपुत्रैर्मरुद्भिर्युक्तः ऋभ्वा महान् एवंभूतः स इन्द्रो नृषाह्ये नृभिः पुरुषैः सोढव्ये संग्रामेऽमित्रान् शत्रून् सासह्वानभिभूतवान् । अपि च सनीळेभिः समाननिलयैर्मरुद्भिः सह श्रवस्यानि श्रव इत्यन्ननाम । तद्धेतुभूतान्युदकानि तूर्वन् मेघात्प्रच्यावयन् मरुत्वानिन्द्रोऽस्माकं रक्षणाय भवतु ॥
+> *sūnubhir na putrair iva rudrebhiḥ rudraputrair marudbhir yuktaḥ ṛbhvā mahān evaṃbhūtaḥ sa indro nṛṣāhye nṛbhiḥ puruṣaiḥ soḍhavye saṃgrāme 'mitrān śatrūn sāsahvān abhibhūtavān | api ca sanīḷebhiḥ samānanilayair marudbhiḥ saha śravasyāni srava ity anna­nāma | taddhetubhūtāny udakāni tūrvan meghāt pracyāvayan marutvān indro 'smākaṃ rakṣaṇāya bhavatu ‖*
+
+*(The print's* srava *is read as* śrava *[?].)*
+
+"As if with sons, *rudrebhiḥ* — with the Maruts, the sons of Rudra — joined, *ṛbhvā* — great: such an Indra, in the battle (*nṛṣāhye*) that is to be endured by men, overcame (*sāsahvān*) the enemies, the foes. And also, with the Maruts who dwell in the same abode (*sanīḷebhiḥ*), *śravasyāni* — *śrava* is a name of food; the waters that are the cause of it — *tūrvan* — making them fall from the cloud: such an Indra, with the Maruts — may he be for our protection."
+
+**Bhāṣya's grammatical tail (characterized, partly transcribed)**
+
+> नृषाह्ये । षह मर्षणे । शकिसहोश्च । पा. ३-१-९९ [?] । इति कर्मणि यत् । अन्येषामपि दृश्यत इति संहितायां धात्वकारस्य दीर्घत्वम् । यतोऽनाव इत्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । सासह्वान् । षह अभिभवे । लिटः क्वसुः । आभ्यासदीर्घत्वं छान्दसम् । अमित्रान् । मित्राण्येषु न सन्तीत्यमित्राः । नञो जरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वम् । सनीळेभिः । समानं नीळं येषां ते सनीळाः । समानस्य छन्दसीति सभावः ॥
+> *nṛṣāhye | ṣaha marṣaṇe | śakisahoś ca | Pā. 3-1-99 [?] | iti karmaṇi yat | anyeṣām api dṛśyata iti saṃhitāyāṃ dhātvakārasya dīrghatvam | yato 'nāva ity ādyudāttatve kṛduttarapadaprakṛtisvaratvam | sāsahvān | ṣaha abhibhave | liṭaḥ kvasuḥ | ābhyāsadīrghatvaṃ chāndasam | amitrān | mitrāṇy eṣu na santīty amitrāḥ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvam | sanīḷebhiḥ | samānaṃ nīḷaṃ yeṣāṃ te sanīḷāḥ | samānasya chandasīti sabhāvaḥ ‖*
+
+*(Characterized: the form* nṛṣāhye *(*ṣah *'to endure' with* yat *by* śakisahoś ca *[Pā. Sū. 3-1-99, as read [?]]; lengthening of the* a *of the root in the Saṃhitā, 'as seen in others also'; acute on the first syllable by* yato 'nāvaḥ*, together with the accent of the last member of a compound ending in a* kṛt*);* sāsahvān *(root* ṣah 'to overcome', *kvasu* for *liṭ*; Vedic lengthening of the reduplicative syllable);* amitrān *(*na* + *mitra*; acute on the second member by *nañ jaramaramitramṛtāḥ*);* sanīḷebhiḥ *(*sa* for *samāna* by *samānasya chandasi*).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*sūnubhir na* — (his own) as if together with sons; *rudrebhiḥ* — with the Maruts, sons of Rudra; *ṛbhvā* — the great one; *saḥ* — Indra; *nṛṣāhye* — in the battle that is to be faced by men; *amitrān* — the enemies; *sasahvān* — he who overcame [them]; (and) *sanīḷebhiḥ* — together with the Maruts who dwell in the same abode with him; *śravasyāni* — the waters that are the root cause of food; *tūrvan* — causing [them] to pour down from the clouds; *marutvān* — joined with the Maruts; *indraḥ* — Indra; *naḥ* — our; *ūtī* — for protection; *bhavatu* — may [he] be."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The great Indra, joined with the Maruts, the sons of Rudra, as if with his own sons, with pride, overcame his enemies in the battle that is to be faced by men, and protected his devotees, men. And, making fall from the clouds the waters that are the root cause of food, together with the Maruts who dwell with him in his own abode — may that Indra, together with the Maruts, be the one who brings about our protection."
+
+**English Translation (as printed)**
+
+> Mighty with the Rudras, as if with his sons, victorious in battle over his enemies, and sending down with his co-dwellers (the waters which are productive of) food ; Indra, associated with the Maruts, be our protection.
+
+### Page 193 (PDF 213)
+
+*(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 193. A printer's signature "13 · VOLUME 8" stands at the foot.)*
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 100.5 (Kannada)**
+
+"*Rudrebhiḥ* — *rudraputrair marudbhiḥ*: with the Maruts who are the sons of Rudra. That the Maruts are the sons of Rudra is well known from the Śruti."
+
+> रुद्रो यद्वो मरुतो रुक्मवक्षसो वृषाजनि पृश्न्याः शुक्र ऊधनि ।
+> *rudro yad vo maruto rukmavakṣaso vṛṣājani pṛśnyāḥ śukra ūdhani |*
+> (*Ṛ. Saṃ.* 2-34-2 as read [?])
+
+"— as said in this Ṛk, the story that the Maruts were born to Rudra as sons, in Pṛśni, is well known; so, whenever they are addressed, this epithet is used most often. In explaining this Ṛk, Sāyaṇācārya tells another story as well:"
+
+> पृश्निर्नानावर्णा इयं भूमिः पुरा गोरूपधरासीत् । तस्यां महेशो वृषो भूत्वा मरुत उत्पादयामासेत्याचक्षते ॥
+> *pṛśnir nānāvarṇā iyaṃ bhūmiḥ purā gorūpadharāsīt | tasyāṃ maheśo vṛṣo bhūtvā maruta utpādayām āsety ācakṣate ‖*
+> (Sāyaṇa's commentary on *Ṛ. Saṃ.* 2-34-2)
+
+"— that this many-coloured earth formerly took the form of a cow, and Maheśa [Rudra], becoming a bull, begot the Maruts in her: so Sāyaṇa has shown the relation of father and sons between Rudra and the Maruts. And the story told in the Ṛk 2-34-2 above is also told in the Taittirīya Saṃhitā; so he has cited the sentence from there:"
+
+> पृश्न्यै वै पयसो मरुतो जाताः ।
+> *pṛśnyai vai payaso maruto jātāḥ |*
+> (*Tai. Saṃ.* 2-2-11-4 as read [?])
+
+"— and for this reason in many places the Maruts are addressed as Rudra's sons. For example —"
+
+> प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।
+> *pra ye śumbhante janayo na saptayo yāman rudrasya sūnavaḥ sudaṃsasaḥ |*
+> (*Ṛ. Saṃ.* 1-8[5?]-1 as read [?])
+
+> इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनम् ।
+> रास्वा च नो अमृत मर्तभोजनं त्मने तोकाय तनयाय मृळ ॥
+> *idaṃ pitre marutām ucyate vacaḥ svādoḥ svādīyo rudrāya vardhanam | rāsvā ca no amṛta martabhojanaṃ tmane tokāya tanayāya mṛḷa ‖*
+> (*Ṛ. Saṃ.* 1-114-6 as read [?])
+
+*(Glosses, mine and tentative: "Who adorn themselves like women [or: like steeds], the sons of Rudra, the skilful, on their way"; "This word is spoken for the father of the Maruts, sweeter than the sweet, a [word] that strengthens Rudra: and give us, O immortal, mortals' food; be gracious to ourselves, our child, our offspring".)*
+
+"In Ṛks such as these, and in the Ṛks 1-1[4?]7-9 and 2-3[3?]-1 [as read [?]] and in many other places, the Maruts bear the epithet 'sons of Rudra'. In explaining the Ṛk 1-114-6 quoted above, Sāyaṇa has told yet another story:"
+
+> रुद्रस्य च मरुतां पितृपुत्रत्वेनैवमाख्यायते । पुरा कदाचिदिन्द्रोऽसुरान् जिगाय । तदानीं दितिरसुरमाता इन्द्रहननसमर्थं पुत्रं कामय-
+> *rudrasya ca marutāṃ pitṛputratvenaivam ākhyāyate | purā kadācid indro 'surān jigāya | tadānīṃ ditir asuramātā indrahananasamarthaṃ putraṃ kāmaya-*
+> (Sāyaṇa on *Ṛ. Saṃ.* 1-114-6; continues on the next page)
+
+---
+
+**Progress note:** Printed pp. 1–193 done (PDF 21–213): **Sūkta 100** in progress: Rik 100.4 complete (pp. 186–191); Rik 100.5 (printed pp. 191–[?]): Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, English and the beginning of the Special Topics (Maruts as sons of Rudra, the Pṛśni story, Sāyaṇa's quotation on Ṛg 1-114-6 beginning *rudrasya ca marutāṃ pitṛputratvenaivam ākhyāyate…*) done to the foot of p. 193. Next: printed p. 194 (PDF 214): Sāyaṇa's quotation (Diti, mother of the Asuras, desiring a son able to kill Indra…) continues. Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?]. on pp. 170–173 the Ṛgveda, Śatapatha and Bṛhaddevatā numerals, the clotted *āvāsṛjanta* and the clotted Śatapatha sentence (*svamadendratte*, *jyotiṣmānāḥ*) [?]. on pp. 174–177 the Nirukta numeral for *ūtaye*, the many Pāṇini/Uṇādi numerals and clotted rule-names in the grammar of 100.1 and the tail of 100.2, *parair aprāptaḥ* in the bhāṣya of 100.2, and the Ṛgveda numerals in the chariot quotations [?]. on pp. 178–181 the clotted opening Ṛgveda quotation on p. 178, the Ṛgveda/Nirukta numerals, the printed *nādhasya* rule-name and the Uṇādi numerals in the grammar of 100.2 and the tail of 100.3, and *aparītāḥ … parair abhigatāḥ* in 100.3's bhāṣya [?]. on pp. 182–185 the clotted words of 100.3's grammatical tail (*pateṣṭha*, *ajjhe[?]rasuk*, *varṇavyāpattyā*), the Pada/bhāṣya reading *sasahiḥ* against the Saṃhitā's *sāsahiḥ* (to be checked), and the Ṛgveda numerals and clotted words in the *pauṃsya* and *sāsahi* quotations on p. 184 [?]. on pp. 186–189 the Uṇādi numeral and clotted words in 100.4's grammatical tail, Skandasvāmin's quotation on p. 187, the Ṛgveda/Aitareya/Śatapatha/Muṇḍaka numerals and the clotted 3-31-3..6 passage on p. 189 [?]. on pp. 190–193 the Uṇādi/Pāṇini numerals in the grammar of 100.4 and the tail of 100.5, *srava*/*śrava* in 100.5's bhāṣya, the Pada's *sasahvān*, and the Ṛgveda/Taittirīya numerals on p. 193 [?].
