@@ -11224,5 +11224,143 @@ The grammar of Rik 104.3 concludes: *snātaḥ* (root *snā śauce*; *s* by *dh�
 > *uparasyodakamadhya uptasyāvasthitasyāyoḥ pareṣām upadravārtham itas tato gacchataḥ kuyavasyāsurasya nābhiḥ saṃnaddham āvasanasthānaṃ yuyopa | gopayām āsīt | …* *(the bhāṣya continues on p. 410)*
 
 ---
+### Page 410 (PDF 430)
 
-**Progress note:** Printed pp. 1–409 done (PDF 21–429): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.3 complete (pp. 395–409); Rik 104.4 (printed pp. 409–[?]): Saṃhitā, Pada and the first line of the bhāṣya done at the foot of p. 409. Next: printed p. 410 (PDF 430): the bhāṣya of 104.4 continues, then Pratipadārtha etc.; then Riks 104.5–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 410; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" with small numerals [?].)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.4), continued**
+
+> …र्न दृश्यते सोऽसुरस्तथाकरोदित्यर्थः । अपि च । पूर्वाभिः पूरयित्रीभिरात्मना पहृताभिरद्भिः प्रतिरते । सोऽसुरः प्रवर्धते । स च शूरः शौर्योपेतो राष्ट्रि राजते च । आत्मीयेन शौर्येण लोके प्रख्यातो भवतीत्यर्थः । तमिममसुरमञ्जसाञ्जसोपेता कुलिशी कुलं शातयंती वीरपत्नी वीरस्य पालयित्री । एतत्संज्ञाः काश्चिन्नद्यः पयः पयसा तत्संबंधिना सारभूतेनोदकेन हिन्वानाः प्रीणयंत्यः उदभिरात्मीयैरुदकैर्भरंते धारयंति ॥
+> *…r na dṛśyate so 'suras tathā 'karod ity arthaḥ | api ca | pūrvābhiḥ pūrayitrībhir ātmanā pahṛtābhir adbhiḥ pratirate | so 'suraḥ pravardhate | sa ca śūraḥ śauryopeto rāṣṭri rājate ca | ātmīyena śauryeṇa loke prakhyāto bhavatīty arthaḥ | tam imam asuram añjasāñjasopetā kuliśī kulaṃ śātayantī vīrapatnī vīrasya pālayitrī | etatsaṃjñāḥ kāścin nadyaḥ payaḥ payasā tatsaṃbandhinā sārabhūtenodakena hinvānāḥ prīṇayantyaḥ udabhir ātmīyair udakair bharante dhārayanti ‖*
+
+*(Reading note: the first words are cut by the page break and read only as "…r na dṛśyate"; the reading **pahṛtābhiḥ** is as printed — likely *apahṛtābhiḥ* [?]; the clause after "Añjasī" is clotted and its word-division is mine [?]. The Sanskrit above is as read from the print; it was not completed from memory.)*
+
+"…so that it is not seen by others, that Asura did so. Further: by the earlier waters, which fill [him] and were carried off by himself, he grows (*pratirate*). That Asura thrives; and that hero, endowed with heroism, shines in the realm; i.e. he becomes famed in the world by his own heroism. To this same Asura the rivers *Añjasī*, *Kuliśī* (which makes the family decay [?]) and *Vīrapatnī* (the protectress of the hero) — certain rivers of these names — gladdening (*hinvānāḥ*) with *payas*, with the essential water belonging to him, pleasing him, *bharante*: they sustain [him] with their own waters."
+
+*Grammatical tail of the bhāṣya, characterized (not transcribed):* it treats *yuyopa* (root *yupa vimohane*, reduplicated perfect); *nābhiḥ* (root *nah*, with *h* → *bh*, by an Uṇādi sūtra read as "4-123 [?]" and the suffix *i*); *rāṣṭri* (root *rāj dīptau*; *śap*-*luk* by *bahulaṃ chandasi*); *payaḥ* (the *ṣ*-substitution by the *vraścādi* rule); *udabhiḥ* (the instrumental plural: *supāṃ suluk…*); *hinvānāḥ* (root *hivi prīṇane*; *num* from the *it* of the root; the participle in *śānac* after *śap*; the note that the *num*-augment is wanting because the *āgama*-teaching is not invariable, and that, since *cānaś* is not *sārvadhātuka*-marked, only the *cit*-accent remains). The sūtra numerals are doubtful [?].
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)**
+
+*Uparasya* — of the one lodged in the middle of the water. *Āyoḥ* — (of the one who goes about harassing others) the Asura named Kuyava. *Nābhiḥ* — the dwelling-place. *Yuyopa* — it was hidden. *Pūrvābhiḥ* — by the waters that he himself had carried off before. *Pra tirate* — he attains growth. *Śūraḥ* — the valiant one. *Rāṣṭri* — he shines (as one) famed throughout the world. *Añjasī* — the river Añjasī, *kuliśī* — the river Kuliśī, *vīrapatnī* — and the river named Vīrapatnī together; *payaḥ* — with their waters; *hinvānāḥ* — (gladdening him); *udabhiḥ* — by giving [him] succour, *bharante* — they sustain [him].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The dwelling-place of the Asura named Kuyava, who goes about harassing others, lay hidden in the midst of the water. By the waters which he himself had earlier carried off he attains growth. The valiant one shines, famed throughout the world. The rivers Añjasī, Kuliśī and Vīrapatnī, gladdening him with their own waters, sustain him, giving him support with their waters.
+
+**English Translation (as printed in the source; its own English, reproduced with misprints marked [sic])**
+
+"The abiding-place of the vagrant ( Kuyava ) was concealed ( in the midst ) of the water : the hero increases with the waters formerly (carried off), and is renowned (throughout the world); the Anjasi, Kulisi and Vira-patni rivers, pleasing him with their substance, sustain him with their waters."
+
+---
+
+### Page 411 (PDF 431)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 411.)*
+
+**विशेषविषयगळು — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.4)**
+
+**Āyoḥ** — *pareṣām upadravārtham itas tato gacchataḥ kuyavasyāsurasya |* (Sanskrit as read: "of Kuyava the Asura, who goes hither and thither to harass others"). The Kannada: it is explained as "of the Asura named Kuyava, who is swallowing up everything everywhere, harassing others". Hence the word **āyoḥ** here has the sense of "enemy" (*śatru-paryāya*). Earlier, in the Special Topics of the Ṛk of Sūkta [?]-2 (in this same volume, pp. 77–78), it was shown that the *aṅkita-nāma* (marked name) **Āyu** points to different persons in different places. Here, briefly, only some instances are given in which — it is held — the word has the sense of enemy or of friend to Indra. Citing the Śruti passages that indicate the relation of Āyu to Agni and to others, it may also be understood that there are many persons bearing the name Āyu: that the Āyu who is the enemy of the gods and of the sacrificers is distinct; that the Āyu who is Indra's friend is distinct; that the Āyu who is Agni's friend is distinct; and that there was a lineage famed by the name Āyu.
+
+> उर्वश्यसीत्यथोत्तरारण्याज्यविलापनीमुपस्पृशत्यायुरसीति तामभिनिदधाति पुरूरवा असीत्युर्वशी वाप्सराः पुरूरवाः पतिरथ यत्रैस्मान्मिथुनाद-जायत कदायुरेवमेव एष एकस्मिन्मिथुनाद्यज्ञं जनयति ।
+> *urvaśy asīty athottarāraṇyājyavilāpanīm upaspṛśaty āyur asīti tām abhinidadhāti purūravā asīty urvaśī vāpsarāḥ purūravāḥ patir atha yatrais(?)mān mithunād-ajāyata kadāyur evam eva eṣa ekasmin mithunād yajñaṃ janayati |* *(Śat. Br. 3-4-1-20 as read [?]; the second half is clotted in the print and is given as read, with the word-division uncertain [?])*
+
+"— in this passage Āyu is said to be born of Urvaśī and Purūravas, and the identity of Agni and Āyu is stated." (Kannada.) And likewise —
+
+> आयुषो न मध्यादित्यग्निर्वा आयुः ।
+> *āyuṣo na madhyād ity agnir vā āyuḥ |* (*Śat. Br.* 6-3-1-[?] as read, numerals doubtful [?])
+
+"— in this sentence too the identity of Agni and Āyu is stated. But whether the word Āyu here is a marked name is one view; another view holds that it is not. Moreover, in the Śatapatha Brāhmaṇa, the Ṛk
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
+> *mā no mitro varuṇo aryamāyur indra ṛbhukṣā marutaḥ pari khyan |* (*Ṛ. Saṃ.* 1-41-[?] as read [?])
+
+is cited (*Śat. Br.* 13-3-[?]-[?] as read [?]), and this also shows a prayer made to Āyu together with other deities." (Kannada.) *Gloss — mine and tentative:* "let not Mitra, Varuṇa, Aryaman, Āyu, Indra, Ṛbhukṣan or the Maruts [leave us] to slander [?]."
+
+> स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनाम् ।
+> *sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām |* (*Ṛ. Saṃ.* 1-[?]6-2 as read [?]; the passage is continued on p. 412)
+
+---
+
+### Page 412 (PDF 432)
+
+*(Running head: left 412; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+"— in this sentence of the Ṛk-saṃhitā, since the word **āyoḥ** has been explained as 'of Manu', it should be understood as one of the Prajāpatis who are makers of creation, namely Manu. Likewise in Ṛk-saṃhitā 1-[?]-10; 8-[?]-3; 1-[?]-4; 3-[?]-3 and so forth, in the Ṛks also, it was shown before what person the marked name Āyu denotes." (Kannada; the Ṛgveda references are small and doubtful [?].)
+
+The word **āyuḥ** has been used in many places as a synonym for "man" (the sacrificer). For example —
+
+> होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे ।
+> *hotrābhir agnir manuṣaḥ svadhvaro rājā viśām atithiś cārur āyave |* (*Ṛ. Saṃ.* 2-2-[?] as read [?])
+
+> इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवो विक्ष्वायोः ।
+> *imaṃ vidhanto apāṃ sadhasthe dvitā dadhur bhṛgavo vikṣv āyoḥ |* (*Ṛ. Saṃ.* 2-4-[?] as read [?])
+
+> मर्तानां चिदुर्वशीरकृप्रन्नृधे चिदर्क उपरस्यायोः ।
+> *martānāṃ cid urvaśīr akṛprann ṛdhe cid arka uparasyāyoḥ |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+> प्र स्यन्दनं पितॄणामस्तातिं चिदायवे ।
+> *pra syandanaṃ pitṝṇām astātiṃ cid āyave |* (*Ṛ. Saṃ.* 5-2-[?] as read [?]; the print is clotted and the words are given as read [?])
+
+"In many Ṛks such as these, it is known from the bhāṣya that the word **āyu** means 'the sacrificer'. But Oldenberg and the other English translators have rendered the Ṛks taking it all as a marked name. Thus, since this word has been used in many senses, in the Ṛk at hand it means an Asura who would give disturbance to the sacrificer." (Kannada; "Oldenberg" is printed in English letters.)
+
+**Uparasya** — *udakamadhye uptasya |* "of the one lodged (sown, placed) in the middle of the water; (**āyoḥ**) in the Ṛk 4-[?]-[?] cited above also there is the usage *uparasyāyoḥ*. But here **uparasya** (*uptasyāpatyasya*) **āyoḥ** *manuṣyasya bhṛtyādeḥ!* (the print is clotted here [?]) — there the meaning taken is 'offspring' (*apatya*), whether in the form of the embryo or born. Here the meaning taken is 'pervading in the middle of the water'." (Kannada; the Sanskrit is given as read and the sense of the clotted clause is tentative [?].)
+
+**Nābhiḥ** — *āvasanasthānam |* "a dwelling-place; so here." The word *nābhi* is also used in the senses of "kinsman" (*saṃbandha*, *bandhaka*), "one who is devoted", "protector", and "place of origin". For example —
+
+> वैश्वानरस्य नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ययन्थ ।
+> *vaiśvānarasya nābhir asi kṣitīnāṃ sthūṇeva [?] janāṁ upamid yayantha |* (*Ṛ. Saṃ.* 1-59-1 as read; the word *sthūṇeva* is read as printed *sthoṇeva* [?], not completed from memory)
+
+*(The passage continues on p. 413: "…in such places as a pervasive relation".)*
+
+---
+
+### Page 413 (PDF 433)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 413.)*
+
+"— in these and other places it is a pervasive connection (*vyāpaka-saṃbandha*); and in the Ṛks —
+
+> मूर्धा दिवो नाभिरग्निः पृथिव्या अथाभवदरती रोदस्योः ।
+> *mūrdhā divo nābhir agniḥ pṛthivyā athābhavad aratī rodasyoḥ |* (*Ṛ. Saṃ.* 1-59-2 as read)
+
+— it is *saṃnāhaka*, that is, 'protector'; and in
+
+> अजः पुरो नीयते नाभिरस्यानु पश्चात्कवयो यन्ति रेभाः ।
+> *ajaḥ puro nīyate nābhir asyānu paścāt kavayo yanti rebhāḥ |* (*Ṛ. Saṃ.* 1-163-[?] as read [?])
+
+> पृच्छामि त्वा परमन्तं पृथिव्याः पृच्छामि यत्र भुवनस्य नाभिः ।
+> *pṛcchāmi tvā paramantaṃ pṛthivyāḥ pṛcchāmi yatra bhuvanasya nābhiḥ |* (*Ṛ. Saṃ.* 1-164-34 as read [?])
+
+— and the like Ṛks it is 'binder' (*bandhaka*); and in
+
+> गन्धर्वो अप्स्वप्या च योषा सा नो नाभिः परमं जामि तन्नौ ।
+> *gandharvo apsv apyā ca yoṣā sā no nābhiḥ paramaṃ jāmi tan nau |* (*Ṛ. Saṃ.* 10-10-4 as read)
+
+— it is 'place of origin'; and in
+
+> माता रुद्राणां दुहिता वसूनां स्वसादित्यानाममृतस्य नाभिः ।
+> *mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānām amṛtasya nābhiḥ |* (*Ṛ. Saṃ.* 8-101-15 as read)
+
+— it means 'dwelling-place'. In the Ṛk at hand, the meaning is the dwelling-place of the Asura named Āyu." (Kannada.)
+
+**Yuyopa** — *gūḍham āsīt | yathānyair na dṛśyate tathā so 'sura akarod ity arthaḥ |* "It was hidden; the Asura made it so that it is not seen by others." That is: he made his dwelling-place secret, concealed so as not to be known to others.
+
+**Pra tirate** — *pratiratir vṛddhikarmā* (*Ni.* 10-[?]0 as read [?]). The Nirukta-author, citing the Ṛks beginning with Ṛ. Saṃ. 10-[?]4-5 [?] and the following, has shown that the root *tṝ* with the prefix *pra* means "grows". Here also the meaning is that Āyu grows by the waters that he has carried off.
+
+> अवतिरतीति वधकर्मसु पाठात् तिरतिरत्र वधार्थः । हतवानित्यर्थः ।
+> *avatiratīti vadhakarmasu pāṭhāt tiratir atra vadhārthaḥ | hatavān ity arthaḥ |*
+
+"Because *tirati* is read among the verbs of killing, *tirati* means 'killing': he killed — so the meaning is. [The bhāṣya reads this as the sense in which] the word *tirati* has been used in the sense of 'killing' in the root-lists."
+
+> उपरशब्दोऽत्र उपरिवर्तिवचनः । शूराणाम् उपरिवर्तिनः । अस्यन्ते शूरस्य इत्यर्थः । सामर्थ्याद् वृत्रस्य वा अन्यस्य कस्यचिदुपरस्य । आयोः ।
+> *uparaśabdo 'tra uparivartivacanaḥ | śūrāṇām uparivartinaḥ | asyante śūrasya ity arthaḥ | sāmarthyād vṛtrasya vā anyasya kasyacid uparasya | āyoḥ |* *(as read; the middle clause is clotted [?])*
+
+The Kannada runs on: "…more exceedingly heroic than Vṛtra and the others, and standing above them, the body of that Āyu, who had been turned back by the very uses of weapons" *(sentence unfinished at the foot of p. 413; it continues on p. 414)*.
+
+---
+
+**Progress note:**
+
+---
+
+**Progress note:** Printed pp. 1–413 done (PDF 21–433): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.3 complete (pp. 395–409); Rik 104.4 (printed pp. 409–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done (pp. 409–410); Special Topics on āyoḥ, uparasya, nābhiḥ, yuyopa and pra tirate under way, ending mid-sentence at the foot of p. 413. Next: printed p. 414 (PDF 434): the Special Topics continue, then grammar pages, then Riks 104.5–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
