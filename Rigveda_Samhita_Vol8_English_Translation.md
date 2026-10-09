@@ -17276,5 +17276,113 @@ The grammar of Rik 109.4 concludes. *Dhāvatam* (root *dhāvu gatiśuddhyoḥ*; 
 *yuvām indrāgnī vasuno vibhāge tavastamā śuśrava vṛtrahatye | tāvāsadyā barhiṣi yajñe asmin pra carṣaṇī mādayethāṃ sutasya ‖ 5 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "tāvāsadyā" and "pra carṣaṇī", the Pada "tau | ā-sadya" and "pra | carṣaṇī iti")*
 
 ---
+### Page 642 (PDF 662)
 
-**Progress note:** Printed pp. 1–641 done (PDF 21–661): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.4 complete (pp. 621–641); Rik 109.5 (printed pp. 641–[?]): Saṃhitā only, at the foot of p. 641. Next: printed p. 642 (PDF 662): the Pada of 109.5 and its bhāṣya etc.; then Riks 109.6–8. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 642; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.5)**
+
+> युवाम् । इन्द्राग्नी इति । वसुनः । विऽभागे । तवःऽतमा । शुश्रव । वृत्रऽहत्ये ।
+> तौ । आऽसद्य । बर्हिषि । यज्ञे । अस्मिन् । प्र । चर्षणी इति । मादयेथाम् । सुतस्य ॥ ५ ॥
+
+*yuvām | indrāgnī iti | vasunaḥ | vi-bhāge | tavaḥ-tamā | śuśrava | vṛtra-hatye | tau | ā-sadya | barhiṣi | yajñe | asmin | pra | carṣaṇī iti | mādayethām | sutasya ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.5)**
+
+> हे इन्द्राग्नी वसुनो धनस्य विभागे स्तोतृभ्यो दातुं विभजने तात्पर्येण वर्तमानौ युवां वृत्रहत्ये वृत्रस्यासुरस्य हननेतवस्तमातिशयेन बलिनौ प्रवृद्धतमौ वा शुश्रव । अश्रौषम् । हे चर्षणी सर्वस्य द्रष्टारावन्द्राग्नी तौ युवामस्मदीयेऽस्मिन्यज्ञे बर्हिषि वेद्यामास्तीर्णे दर्भ आसद्योपविश्य सुतेऽभिषुतस्य सोमस्य पानेन प्र मादयेथां । प्रकर्षेण तृप्तौ भवतम् ॥ विभागे । भज सेवायाम् । भावे घञ् । चजोः कु घिण्ण्यतोरिति कुत्वं । थाथादिनोत्तरपदान्तोदात्तत्वं । तवस्तमा । तव इति बलनाम । लुप्तमत्वर्थीयोदेतस्मादतिशायनिकस्तमप् । यद्वा । तवतिर्वृद्ध्यर्थः । सौत्रो धातुः । तस्मादौणादिकः कर्तर्यसिप्रत्ययः । सुपां सुलुगिति विभक्तेः पूर्वसवर्णदीर्घत्वं । वृत्रहत्ये । हनस्त च । हंतेर्भावे क्यप् । तत्सन्नियोगेन तकारान्तादेशश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> *he indrāgnī vasuno dhanasya vibhāge stotṛbhyo dātuṃ vibhajane tātparyeṇa vartamānau yuvāṃ vṛtrahatye vṛtrasyāsurasya hananetavastamātiśayena balinau pravṛddhatamau vā śuśrava | aśrauṣam | he carṣaṇī sarvasya draṣṭārāv indrāgnī tau yuvām asmadīye 'smin yajñe barhiṣi vedyām āstīrṇe darbha āsadyopaviśya sute 'bhiṣutasya somasya pānena pra mādayethāṃ | prakarṣeṇa tṛptau bhavatam ‖ vibhāge | bhaja sevāyām | bhāve ghañ | cajoḥ ku ghiṇṇyatoriti kutvaṃ | thāthādinottarapadāntodāttatvaṃ | tavastamā | tava iti balanāma | luptamatvarthīyodetasmād atiśāyanikas tamap | yadvā | tavatir vṛddhyarthaḥ | sautro dhātuḥ | tasmād auṇādikaḥ kartary asipratyayaḥ | supāṃ suluk iti vibhakteḥ pūrvasavarṇadīrghatvaṃ | vṛtrahatye | hanas ta ca | haṃter bhāve kyap | tatsanniyogena takārāntādeśaś ca | kṛduttarapadaprakṛtisvaratvam ‖* *(Sanskrit as read; the first clause is slightly crowded: "hananetavastamā" is the print's run-together reading of *hanane tavastamau* [?]; the tail is short and given.)*
+
+"O Indra and Agni! at the division (*vibhāge*) of wealth (*vasunaḥ*), being intent upon dividing it to give to the praisers, you two, in the slaying of Vṛtra (*vṛtrahatye*) the Asura, *tavastamā* — exceedingly strong, or most grown — *śuśrava*: I have heard. O *carṣaṇī*, beholders of all, Indra and Agni, you two, having come, having sat down on the *barhis*, the sacred grass spread on the altar at this sacrifice of ours, rejoice (*pra mādayethām*) by drinking the pressed Soma, be exceedingly satisfied."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.5; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *vasunaḥ* — of wealth; *vibhāge* — at the time of dividing for the praisers (and others); *yuvām* — you both; *vṛtrahatye* — in the work of slaying the Asura Vṛtra; *tavastamā* — exceedingly powerful: so; *śuśrava* — (I) have heard; *carṣaṇī* — O Indra and Agni, who are able to see everything; *tau* — you both; *asmin yajñe* — in this sacrifice; *barhiṣi* — on the *darbha* seats; *ā sadya* — having sat down; *sutasya* — of the pressed Soma-juice (by drinking); *pra mādayethām* — attain exceeding satisfaction.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, at the time when you divide wealth among all the praisers, I have heard that you two are exceedingly capable in the work of slaying the Asura Vṛtra. O Indra and Agni, who are able to see everything: both of you, in this sacrifice of ours, sitting on the seats of *darbha* grass, attain exceeding satisfaction by drinking the Soma-juice that has been pressed.
+
+---
+
+### Page 643 (PDF 663)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 643.)*
+
+**English Translation (as printed in the source)**
+
+"I have heard, (when you were present) at the division of the treasure (among the worshippers), that you two, Indra and Agni, were most vigorous in the destruction of Vritra : beholders of all things, seated at this sacrifice upon the sacred grass, be exhilarated, (by drinking of the effused libation)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.5)**
+
+"Indra and Agni are the guardians of the earth and the mid-region (the treasures of all wealth), and, having the form of light, of rain, of crops, they prevent every kind of obstacle to [the flow of] all wealth; and since the two, together, destroy all the Asuras that cause hindrance and give all kinds of wealth to the praisers, this prayer is made.
+
+> इन्द्राग्नी युवोरपि वसु दिव्यानि पार्थिवा ।
+> *indrāgnī yuvor api vasu divyāni pārthivā |* (*Ṛ. Saṃ.* 6-6[?]-[?] as read [?])
+
+— as is said in this Ṛk, these two, who are the possessors of all wealth —
+
+> ता योधिष्टमभि गा इन्द्र नूनमपः स्वरुषसो अग्न ऊळ्हाः ।
+> दिशः स्वरुषस इन्द्र चित्रा अपो गा अग्ने युवसे नियुत्वान् ॥
+> *tā yodhiṣṭam abhi gā indra nūnam apaḥ svaruṣaso agna ūḷhāḥ | diśaḥ svaruṣasa indra citrā apo gā agne yuvase niyutvān ‖* (*Ṛ. Saṃ.* 6-6[?]0-[?] as read [?])
+
+> हतो वृत्राण्यार्या हतो दासानि सत्पती ।
+> हतो विश्वा अप द्विषः ॥
+> *hato vṛtrāṇy āryā hato dāsāni satpatī | hato viśvā apa dviṣaḥ ‖* (*Ṛ. Saṃ.* 6-6[?]0-[?] as read [?])
+
+— in these and in many other Ṛks, it is praised that they gave away wealth, having destroyed all kinds of Asuras, as is extolled.
+
+**Tavastamā** — "[having] strength exceeding that of all the gods and of all the worlds. By their power all the worlds are held up:
+
+> यस्य द्विबर्हसो बृहत्क्षत्रं तद्धार रोदसी ।
+> गिरीरज्रान्नापः स्वर्वृषत्क्षनं [?] ॥
+> *yasya dvibarhaso bṛhat kṣatraṃ taddhāra rodasī | girīr ajrān nāpaḥ svarvṛṣatkṣanaṃ [?] ‖* *(garbled in print; the Ṛk is not restored: read from the Kannada gloss [?])* (*Ṛ. Saṃ.* 8-1[?]-[?] as read [?])
+
+---
+
+### Page 644 (PDF 664)
+
+*(Running head: left 644; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+"— so, Indra's power is described; and Agni's power:
+
+> दिवश्चित्ते बृहतो जातवेदो वैश्वानर प्र रिरिचे महित्वम् ।
+> *divaś cit te bṛhato jātavedo vaiśvānara pra ririce mahitvam |* (*Ṛ. Saṃ.* 1-98-2 as read)
+
+— as described in many places, here also that portion is praised."
+
+**Carṣaṇī** — *sarvasya draṣṭārau indrāgnī |* "'Indra and Agni, the beholders of all', Sāyaṇa explains: 'able to see'. Skandasvāmin first states this meaning, and after that says '*manuṣyanāma vā carṣaṇīśabdaḥ* (*Ni.* 3-[?]) *manuṣyākārau vā | draṣṭārau vā sarvārthānām*' — 'or the word *carṣaṇī* is a name for men (*Ni.* 3-[?]), or the two who have the form of men, or those who see all things'. Since the word *carṣaṇi* is read among the names of men, even the meaning 'having a human form' (*mānavākāra*, 'beholding all' [?]) is possible, so he explains.
+
+> त्वं विश्वस्य जगतश्चक्षुरिन्द्रासि चक्षुषः ।
+> *tvaṃ viśvasya jagataś cakṣur indrāsi cakṣuṣaḥ |* (*Ṛ. Saṃ.* 10-1[?]3-[?] as read [?])
+
+— in such Ṛks Indra is said to be the eye of all the worlds;
+
+> यो विश्वाभि विपश्यति भुवना सं च पश्यति ।
+> *yo viśvābhi vipaśyati bhuvanā saṃ ca paśyati |* (*Ṛ. Saṃ.* 10-1[?]5-[?]4 as read [?])
+
+— in such Ṛks Agni is said to have the power to see everything; and since Indra and Agni are praised as having created, for the sake of this seeing, all the orbs of light which are the supports of the light itself, that power is told here. 'May such Indra and Agni, of uncommon power, come for the drinking of Soma-juice; having sat on the seats of *darbha* grass, and drunk the Soma-juice, may they obtain satisfaction': so the prayer is made."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.5)** *(grammar pages, pp. 644–645, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Vibhāge* (root *bhaja sevāyām*; *ghañ* in the abstract and passive sense; *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; *k* for the *j* of the root by *cajoḥ ku ghiṇṇyatoḥ*, Pā. Sū. 7-3-52 as read [?]; since *vi* is a *gati*, the accent of the *kṛdanta* latter member by *thāthaghañktājabitrāṇām*, Pā. Sū. 6-2-144 as read [?]; the final acute). *Tavastamā* (*tava* is a name for strength; *tavo 'syāsti iti tavasvī*; since the possessive suffix is dropped in the Veda [*lupta*], to this word, in the sense of a high degree, *tamap* by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55 as read [?]. Or else the word *tava* is the root, in the sense of growth; the root is read in the sūtras only [*sautra*]; the Uṇādi suffix *asi* in the active sense; then *tamap*; since the suffix *tamap* is *pit*, the root accent...) *(continued on p. 645)*
+
+---
+
+### Page 645 (PDF 665)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 645.)*
+
+The grammar of Rik 109.5 continues and concludes. *Tavastamā*, concluded: "…the root *tava* means growth; since it is a root given only in the sūtras; with the suffix *asi* in the active sense [Uṇ.]; after it, *tamap*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; the lengthening to the earlier similar vowel." *Śuśrava* (root *śru śravaṇe*; *liṭ*, first person singular; *ṇal* for *mip* [in the *liṭ*]; since *ṇal* in the first person is optionally *ṇit* by *ṇalutta mo vā*, Pā. Sū. 7-1-91 as read [?], and since it is optionally so, *vṛddhi* of the vowel of the root, which would arise because of it, does not arise; *guṇa*; *av*; since a verb follows a non-verb, *nighāta*). *Vṛtrahatye* (root *han hiṃsāgatyoḥ*; in the abstract sense, *kyap* by *hanas ta ca*, Pā. Sū. 3-1-108 as read [?]; in conjunction with it the substitution of *t* for the final *n* of the root; the form *vṛtrasya hatyam vṛtrahatyam*; by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?], the accent of the *kṛdanta* latter member; locative singular). *Āsadya* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *samāse 'nañpūrve ktvo lyap*, Pā. Sū. 7-1-37 as read [?], *lyap* for the suffix *ktvā*; the accent of the *kṛdanta* latter member). *Mādayethām* (root *mada tṛptiyoge*, *curādi*, always in the middle voice; *loṭ*, second person dual, *āthām*; *ṇic* in its own sense by *satyāpapāśa…*, Pā. Sū. 3-1-25 as read [?]; because of *śap*, *guṇa* of *ṇic*; *ay*; since a verb follows a non-verb, *nighāta*). The Rik is closed with *‖ 5 ‖* and an ornament.
+
+## Rik 109.6 — printed pp. 645–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.6)**
+
+> प्र चर्षणिभ्यः पृतनाहवेषु प्र पृथिव्या रिरिचाथे दिवश्च ।
+> प्र सिन्धुभ्यः प्र गिरिभ्यो महित्वा प्रेन्द्राग्नी विश्वा भुवनात्यन्या ॥ ६ ॥
+
+*pra carṣaṇibhyaḥ pṛtanāhaveṣu pra pṛthivyā riricāthe divaś ca | pra sindhubhyaḥ pra giribhyo mahitvā prendrāgnī viśvā bhuvanāty anyā ‖ 6 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "prendrāgnī … bhuvanāty anyā", the Pada "pra | indrāgnī iti | viśvā | bhuvanā | ati | anyā")*
+
+---
+
+**Progress note:** Printed pp. 1–645 done (PDF 21–665): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.5 complete (pp. 621–645); Rik 109.6 (printed pp. 645–[?]): Saṃhitā only, at the foot of p. 645. Next: printed p. 646 (PDF 666): the Pada of 109.6 and its bhāṣya etc.; then Riks 109.7–8. Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
