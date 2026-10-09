@@ -15303,5 +15303,124 @@ May all the gods who are praised by the chant-form mantras of the Aṅgiras ṛ�
 Grammar pages, noted briefly. *Gamantu* (root *gam gatau*; *loṭ*, third person plural *jhi*; *ant* for *jh*; *u* by *eruḥ*, Pā. Sū. 3-4-86 as read [?]; *luk* of *śap* by *bahulaṃ chandasi*; no *nighāta*-substitution for the root; although, since the suffix *jhi* is *ñit* [?], the loss of the penult would be expected, by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], since *jhi* receives the name *ārdhadhātuka*, it is not *ṅit*, so the *ṅit*-rule does not apply, and by *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*, Pā. Sū. 6-4-98 as read [?], the loss of the penult does not arise; *nighāta* since a verb follows a non-verb). *Stūyamānāḥ* (root *ṣṭuñ stutau*; *śānac* in the sense of *laṭ* in the passive; *ṣatva* of the initial *s* of the root; *yak* by *sārvadhātuke yak*, Pā. Sū. 3-1-67 as read [?]; the root-vowel lengthened before *yak* by *akṛtsārvadhātukayor dīrghaḥ*, Pā. Sū. 7-4-25 as read [?]; *muk* by *āne muk*, Pā. Sū. 7-2-82 as read [?]; since the *lasārvadhātuka* is *anudātta*, the accent of *yak* remains)
 
 ---
+### Page 570 (PDF 590)
 
-**Progress note:** Printed pp. 1–569 done (PDF 21–589): **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; printed pp. 561–[?]) in progress: Rik 107.1 complete (pp. 562–567); Rik 107.2 (printed pp. 567–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 569 (at *stūyamānāḥ*, mid-sentence). Next: printed p. 570 (PDF 590). Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 570; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+
+The grammar of Rik 107.2 concludes (noted briefly). *Stūyamānāḥ*, concluded: "…the *muk* augment *āne muk*; since the *lasārvadhātuka* is *anudātta*, the accent of *yak* stays" *(as at the foot of p. 569)*. *Indriyaiḥ* (for the word *indra*, the form *indriyam* is a *nipātana* with the suffix *gha*, by *indriyam indraliṅgam indradṛṣṭam indrasṛṣṭam indrajuṣṭam indradattam iti vā*, Pā. Sū. 5-2-93 as read [?]; *īya* for *gha* by *āyaneyīnīyiyaḥ phaḍhakhacchaghām pratyayādīnām*, Pā. Sū. 7-1-2 as read [?]; loss of *a* by *yasyeti ca*, Pā. Sū. 6-4-148 as read [?]; by *cit* the final acute, Pā. Sū. 6-1-163 as read [?]). *Yaṃsat* (root *yamu uparame*; *leṭ*, third person singular, *tip*; the augment *aṭ* by *itaś ca lopaḥ* [?], Pā. Sū. 3-4-97 as read [?], *leṭo 'ḍāṭau*; *sip* for the root by *sibbahulaṃ leṭi*, Pā. Sū. 3-1-34 as read [?]; anusvāra for the *m* of the root; since a non-verb precedes, *nighāta*). The Rik is closed with *‖ 2 ‖* and an ornament.
+
+## Rik 107.3 — printed pp. 570–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 107.3)** *(the last Ṛk of the Sūkta)*
+
+> तन्न इन्द्रस्तद्वरुणस्तदग्निस्तदर्यमा तत्सविता चनो धात् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ३ ॥
+
+*tan na indras tad varuṇas tad agnis tad aryamā tat savitā cano dhāt | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 3 ‖* *(accent-marks in the print not reproduced; "cano dhāt" is as printed)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 107.3)**
+
+> तत् । नः । इन्द्रः । तत् । वरुणः । तत् । अग्निः । तत् । अर्यमा । तत् । सविता । चनः । धात् ।
+
+*tat | naḥ | indraḥ | tat | varuṇaḥ | tat | agniḥ | tat | aryamā | tat | savitā | canaḥ | dhāt |* *(the second half of the Pada continues on p. 571)*
+
+---
+
+### Page 571 (PDF 591)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 571.)*
+
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ३ ॥
+
+*tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 107.3)**
+
+> यदस्माभिः प्रार्थ्यमानमन्नमस्ति । चन इत्यन्ननामसु । तत्तादृशं चनोऽन्नं नोऽस्मभ्यमिन्द्रो धात् । दधातु । ददातु । एवं तद्वरुण इत्यादावसि योज्यं । तदिदमिन्द्रादिभिर्दत्तमस्मदीयमन्नं मित्रादयो मामहन्ताम् । पूजयन्तु । पालयन्त्वित्यर्थः ॥ चनः । चाय्य पूजानिशामनयोः । चायेरन्ने ह्रस्वश्च । उ. ४-६३५ [?] इत्यसुन् नुडागमश्च धातोर्ह्रस्वत्वं च । वलि लोपः । नित्त्वाद्याद्युदात्तत्वम् । धात् । छन्दसि लुङ्लङ्लिट इति प्रार्थनायां लुङ् । गातिस्थेति सिचो लुक् ॥
+> *yad asmābhiḥ prārthyamānam annam asti | cana ity annanāmasu | tat tādṛśaṃ cano 'nnaṃ no 'smabhyam indro dhāt | dadhātu | dadātu | evaṃ tad varuṇa ity ādau asi yojyaṃ | tad idam indrādibhir dattam asmadīyam annaṃ mitrādayo māmahantām | pūjayantu | pālayantv ity arthaḥ ‖ canaḥ | cāyya pūjānicāmanayoḥ | cāyer anne hrasvaś ca | u. 4-[?]3[?] ity asun nuḍāgamaś ca dhātor hrasvatvaṃ ca | vali lopaḥ | nittvād ādyudāttatvam | dhāt | chandasi luṅlaṅliṭa iti prārthanāyāṃ luṅ | gātistheti sico luk ‖* *(Sanskrit as read; the Uṇādi sūtra numeral is read with doubt [?]; the tail is short and given.)*
+
+"What food is prayed for by us, *cana* — among the names of food — such food may Indra grant (*dhāt*, *dadhātu*, *dadātu*) to us. In the same way 'that Varuṇa' and the rest are to be joined [with that sentence]: that food of ours, given by Indra and the others, may Mitra and the others honour, protect, cherish."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 107.3; Kannada; English)**
+
+*Tat* — that which has been prayed for by us; *canaḥ* — food; *naḥ* — to us; *indraḥ* — Indra; *dhāt* — may he give (graciously); *tat* — that food; *varuṇaḥ* — may Varuṇa [give]; *tat* — that; *agniḥ* — may Agni [give]; *tat* — that; *aryamā* — may Aryaman [give]; *tat* — that; *savitā* — may Savitṛ [give]; *naḥ tat* — that food of ours, given by Indra and the others; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the divinity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the divinity of the heavenly world; *māmahantām* — may they protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May Indra graciously give us the food that we have prayed for; may Varuṇa, Agni, Aryaman and Savitṛ give it likewise. May Mitra, Varuṇa, Aditi, the divinity of the ocean, the earth and the divinity of the heavenly world protect the food that has been given by Indra and the others.
+
+**English Translation (as printed in the source)**
+
+"May Indra, may Varuna, may Agni, may Aryaman, may Savitri, bestow upon us that food (which we solicit); and may Mitra, Varuna, Aditi,—ocean, earth and heaven, preserve it (to us)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 107.3)**
+
+**Canaḥ** — "since the word *canaḥ* is read among the names of food (*Ni.* 6-1[?] as read [?]), *canaḥ* means 'food'." *(continued on p. 572)*
+
+---
+
+### Page 572 (PDF 592)
+
+*(Running head: left 572; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108 [sic: small numerals as read; the Sūkta is 107] [?]".)*
+
+"In this Ṛk there are two verbs, *dhāt* and *māmahantām*. *Canaḥ dhāt* means that Indra and the others should give food. Then it is said *māmahantām*; the word *maṃhate* is also read among the names of verbs of giving (*Ni.* 3-1[?]); for example —
+
+> यदी वाजस्य गोमतः स्तोतृभ्यो मंहते मघम् ।
+> *yadī vājasya gomataḥ stotṛbhyo maṃhate magham |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> अस्येदिन्द्रो मदेष्वा विश्वा वृत्राणि जिघ्नते ।
+> शूरो मघा च मंहते ॥
+> *asyed indro madeṣv ā viśvā vṛtrāṇi jighnate | śūro maghā ca maṃhate ‖* (*Ṛ. Saṃ.* 8-[?]-10 as read [?])
+
+— in places like these the verb *maṃhate* means 'gives'; but in the Ṛk at hand the root *maṃh* has a special meaning. This word is used also at the end of all Kutsa Āṅgirasa's Sūktas: 'let it be made worthy of worship' (*pūjyavāḍudannāgi māḍali*) — so the commentator has said, in the very first of them, in the Ṛk 1-[?]-[?] [as read [?]], and that same sense is followed to the end. The intention is that the food given by the gods Indra and the others be made worthy [of honour] for us by Mitra and the others; or else the meaning may be 'let it increase'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 107.3)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Aryamā* (the word *aryaman*: formed with the suffix *kanin* as a *nipātana* by *śṛṣṇuṣkṣa*… [as printed: *śnunnukṣan*, Uṇ. 1-[?]2 as read [?]]; nominative singular). *Canaḥ* (root *cāyṛ pūjānicāmanayoḥ*; the suffix *asun* by *cāyer anne hrasvaś ca*, Uṇ. 4-[?]3 as read [?]; the augment *nuṭ* because of the *it*-marker; shortening of the root vowel; loss of the *y* [of *cāy*] before a consonant of the *val* class by *lopo vyor vali*, Pā. Sū. 6-1-66 as read [?]; the form *canas*; since the suffix is *nit*, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]). *Dhāt* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of a prayer, *luṅ* by *chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 as read [?]; third person singular, *tip*; loss of *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; for *cli*, *sic*, and *luk* of *sic* by *gātisthāghupābhūbhyaḥ…*, Pā. Sū. 2-4-77 as read [?]; the *aṭ* augment is not applied by *bahulaṃ chandasy amāṅyoge 'pi*, Pā. Sū. 6-4-75 as read [?]; the form *dhāt*; *nighāta*). "The remaining words have been explained before." The Rik is closed with *‖ 3 ‖*.
+
+*(Printed line:)* **ನೂರ ಏಳನೇ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾದುದು** — *"The hundred-and-seventh Sūkta has come to an end."*
+
+**With this, Sūkta 107 (3 Ṛks, printed pp. 561–572) is complete.**
+
+---
+
+### Page 573 (PDF 593)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 573.)*
+
+## Sūkta 108
+
+**ನೂರ ಎಂಟನೆಯ ಸೂಕ್ತವು** — *nūra eṇṭaneya sūktavu*, "the hundred-and-eighth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 108 (Sanskrit in Kannada script):**
+
+> ये इन्द्राग्नी इति त्रयोदशर्चं तृतीयं सूक्तं कुत्सस्यार्षं त्रैष्टुभमैन्द्राग्नं । तथा चानुक्रान्तं । ये इन्द्राग्नी सप्तोनैन्द्राग्नं त्रिष्टिति । विनियोगो लैङ्गिकः ॥
+> *ye indrāgnī iti trayodaśarcaṃ tṛtīyaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubham aindrāgnaṃ | tathā cānukrāntaṃ | ye indrāgnī saptonaindrāgnaṃ triṣṭiti | viniyogo laiṅgikaḥ ‖* *(as read; the Anukramaṇī words "saptonaindrāgnaṃ triṣṭiti" are printed so and read with doubt [?]: probably "ye indrāgnī sapta ūnair aindrāgnaṃ [?]"; the Kannada anuvāda below renders it as "ye indrāgnī…sapto…indrāgnaṃ")*
+
+**Anuvāda (Kannada):** "This Sūkta *ye indrāgnī* is the third Sūkta in the sixteenth anuvāka. It has thirteen Ṛks. The ṛṣi of this Sūkta is Kutsa. The deities are Indra and Agni. The metre is Triṣṭubh. In the Anukramaṇikā it is said: '*ye indrāgnī sapto…aindrāgnam*'. The application (*viniyoga*) is by indication (*laiṅgika*)."
+
+*(A rule of dashes follows.)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०८ — Sūkta 108** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १६ · सूक्त १०८ — *Maṇḍala 1, Anuvāka 16, Sūkta 108.*
+- अष्टक १ · अध्याय ७ · वर्ग २६, २७ — *Aṣṭaka 1, Adhyāya 7, Vargas 26, 27* (numerals as read, small [?]).
+- सूक्तदल्लिरुव ऋक्संख्ये — १३ — *Number of Ṛks in the sūkta: 13.*
+- ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
+- देवता — इन्द्राग्नी — *Deity: Indra and Agni.*
+- छन्दः — त्रिष्टुप् — *Metre: Triṣṭubh.*
+
+## Rik 108.1 — printed pp. 573–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.1)**
+
+> य इन्द्राग्नी चित्रतमो रथो वामभि विश्वानि भुवनानि चष्टे ।
+> *(the second line is on p. 574)*
+
+*ya indrāgnī citratamo ratho vām abhi viśvāni bhuvanāni caṣṭe |*
+
+---
+
+**Progress note:** Printed pp. 1–573 done (PDF 21–593): **Sūkta 107 is complete** (printed pp. 561–572; 3 Ṛks). **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; third Sūkta of the sixteenth anuvāka; printed pp. 573–[?]) begun at printed p. 573: Kannada title, Sāyaṇa's introduction, Anuvāda and heading block done; Rik 108.1's first line of the Saṃhitā at the foot of p. 573. Next: printed p. 574 (PDF 594): the second line of 108.1, its Pada and bhāṣya. Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
