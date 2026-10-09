@@ -22732,5 +22732,134 @@ In reciting the *prātaranuvāka* mantras, the order which the *hotṛ* follows 
 *Apnasvatīm*: *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā* (*Uṇ.* 4-182 as read [?]): after the word *ap*, in the sense of 'work', shortening, the augment *nuṭ*, and the suffix *asun*: 'there is *apnas* in her' = *apnasvatī*; the suffix *matup* by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]); since the stem ends in [*s*, after] an *a*-vowel-penultimate, by *mādupadhāyāś ca matorvo 'yavādibhyaḥ* (*pā.* 8-2-9 as read [?]) *va* for the *m* of *matup*; by *tasau matvarthe* (*pā.* 1-4-19 as read [?]) the *bha*-designation, since it is not a *pada*, the change of *s* to *ru* does not occur; for the feminine, *ṅīp* by *ugitaś ca* (*pā.* 4-1-6 as read [?]). *Aśvinā*: in the vocative dual, with *au* following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the substitute *ā*. *Asme*: the word *asmad*; by *supāṃ suluk* the substitute *śe* for the sixth case; by *śeṣe lopaḥ* (*pā.* 7-2-90 as read [?]) the loss of the *d*. *Kṛtam*: root *ḍukṛñ karaṇe*; *loṭ*, second-person dual; since it is *laṅvadbhāva* [?], the substitute *tam*; by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *luk* of the sign: the form *kṛtam*. *Adyūtye*: root *dyuta dīptau*; since the root ends in a consonant, by *ṛhaloṛ ṇyat* (*pā.* 3-1-124 as read [?]) the suffix *ṇyat* in the abstract sense; by irregular change of letters, *ū* for the *u*; 'in it there is no *dyautya*, brightness' = *adyūtyam*; in the *bahuvrīhi*, by *vyatyaya*, the final syllable is *udātta*; locative singular. *Ni hvaye*: the prefix *ni*; by *nisamupavibhyo hvaḥ* (*pā.* 1-3-30 as read [?]) the *ātmanepada* after *hvā*; *laṭ*, first-person singular; since it follows [a word ending in a verbal *ati*…], the *nighāta* accent.
 
 ---
+### Page 829 (PDF 849)
 
-**Progress note:** Printed pp. 1–828 done (PDF 21–848): Sūkta 112: Riks 112.1–112.23 complete; Rik 112.24 (a Triṣṭubh; printed pp. 825–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (apnasvatīm, adyūtye, the prātaranuvāka) and the first grammar page done (p. 828); the grammar may continue on p. 829. Next: printed p. 829 (PDF 849). Remaining: the end of 112.24's grammar, Rik 112.25 (the last, a Triṣṭubh), and any closing colophon; last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 829.)*
+
+*(Grammar of Rik 112.24, concluded; short.)* *Vṛdhe*: root *vṛdhu vṛddhau*; by *sampadādibhyaḥ kvip* (a *vārttika*, as read [?]) *kvip* in the abstract sense; dative singular; since it is monosyllabic, by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) the case-ending takes the *udātta*. *Bhavatam*: root *bhū sattāyām*; *loṭ*, second-person dual; since it follows a [word ending in the] *tiṅ* *ati*…, the *nighāta* accent. ‖ 24 ‖
+
+*(An ornament closes Rik 112.24.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.25)** *(accent-marks not reproduced; the last Ṛk of the Sūkta, a Triṣṭubh)*
+
+> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ २५ ॥
+> *dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ |*
+> *tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 25 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.25)**
+
+> द्युऽभिः । अक्तुऽभिः । परि । पातम् । अस्मान् । अरिष्टेभिः । अश्विना । सौभगेभिः ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ २५ ॥
+> *dyu-bhiḥ | aktu-bhiḥ | pari | pātam | asmān | ariṣṭebhiḥ | aśvinā | saubhagebhiḥ |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 25 ‖*
+> *(As in Rik 110.9 and 111.5, the Saṃhitā has* māmahantām *and the Pada* mamahantām; *recorded as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.25)**
+
+> हे अश्विनौ द्युभिर्दिवसैरक्तुभी रात्रिभिश्चास्मान् स्तोतॄन्परि पातम् । परितो रक्षतम् । सर्वदास्मान् रक्षतमित्यर्थः । तथारिष्टेभिरहिंसितैः सौभगेभिः सुभगत्वापादकैर्धनैरस्मान्परिरक्षतम् । यदस्माभिः प्रार्थितं नोऽस्मदीयं तन्मित्रादयः षड्देवताः मामहन्ताम् । पूजयन्तु । उतकब्दः समुच्चये ॥ द्युभिः । दिवि उदित्यत्वम् । दिवो झल् । पा. ६-१-१८४ । इति सावेकाचे इति प्राप्तस्य विभक्त्युदात्तत्वस्य प्रतिषेधः । अरिष्टेभिः । रिष हिंसायाम् । निष्ठेति क्तः । नञ् स्वाभावास्त्वव्ययपूर्व[पद]प्रकृतिस्वरत्वम् । बहुलं छन्दसीति भिस ऐसभावः । अश्विना । सुपां सुलुगिति विभक्तेराकारः । आमन्त्रितस्य चेति सर्वानुदात्तत्वम् । सौभगेभिः । शोभनो भगः श्रीर्यस्यासौ सुभगः । तस्य भावः सौभगम् । सुभगान्मन्त्र इत्युद्गात्रादिषु पाठाद् ञ् प्रत्ययः । हृद्भगसिन्ध्वन्ते पूर्वपदस्य चेत्युभयपदवृद्धिर्न भवति तस्य सर्वे विधयश्छन्दसि विकल्प्यन्ते इति विकल्पितत्वात् । पूर्ववदैसभावः । ञित्त्वादिर्नित्यमित्याद्युदात्तत्वम् ॥
+> *he aśvinau dyubhir divasair aktubhī rātribhiś cāsmān stotṝn pari pātam | parito rakṣatam | sarvadāsmān rakṣatam ity arthaḥ | tathāriṣṭebhir ahiṃsitaiḥ saubhagebhiḥ subhagatvāpādakair dhanair asmān parirakṣatam | yad asmābhiḥ prārthitaṃ no 'smadīyaṃ tan mitrādayaḥ ṣaḍdevatāḥ māmahantām | pūjayantu | utakabdaḥ samuccaye ‖ dyubhiḥ | divi udityatvam | divo jhal | pā. 6-1-184 | iti sāvekāce iti prāptasya vibhaktyudāttatvasya pratiṣedhaḥ | ariṣṭebhiḥ | riṣa hiṃsāyām | niṣṭheti ktaḥ | nañ svābhāvāstv avyayapūrva[pada]prakṛtisvaratvam | bahulaṃ chandasīti bhisa aisabhāvaḥ | aśvinā | supāṃ suluk iti vibhakter ākāraḥ | āmantritasya ceti sarvānudāttatvam | saubhagebhiḥ | śobhano bhagaḥ śrīr yasyāsau subhagaḥ | tasya bhāvaḥ saubhagam | subhagān mantra ity udgātrādiṣu pāṭhād ñ pratyayaḥ | hṛdbhagasindhvante pūrvapadasya cety ubhayapadavṛddhir na bhavati tasya sarve vidhayaś chandasi vikalpyante iti vikalpitatvāt | pūrvavad aisabhāvaḥ | ñittvād ādir nityam ity ādyudāttatvam ‖*
+
+*(Sanskrit as read, with the pada-division of the bracketed word as printed.)*
+
+"O Aśvins! *dyubhiḥ*, by days, and *aktubhiḥ*, by nights, *pari pātam*: protect us, the praisers, on every side — protect us always: that is the sense. And likewise protect us with *ariṣṭebhiḥ*, unharmed, *saubhagebhiḥ*, good-fortune-bringing riches. Whatever has been prayed by us, this [prayer] of ours, may the six deities, Mitra and the others, *māmahantām*, honour. The word *uta* is in the sense of 'and'."
+
+*Grammatical tail (short):* *dyubhiḥ*: *diva* with *u*; since *divo jhal* (*pā.* 6-1-184 as read [?]), the case-accent otherwise reached by *sāvekācaḥ* is prohibited. *Ariṣṭebhiḥ*: root *riṣa hiṃsāyām*, *kta* by *niṣṭhā*; the negative compound; *aisa* for *bhis* by *bahulaṃ chandasi*. *Aśvinā*: *ā* for the case-ending by *supāṃ suluk*; all *anudātta* by the vocative rule. *Saubhagebhiḥ*: 'he who has good *bhaga*, good fortune, is *subhaga*'; its state is *saubhagam*; the suffix *ñ* by the listing in the *udgātrādi* class (*subhagān mantre*); the *vṛddhi* of both members does not occur [by the rule on *hṛdbhagasindhvante…*], because all rules are optional in the Veda; the substitute *ais* as before; since it is *ñit*, by *ñnityādir nityam* the first syllable is *udātta*.
+
+---
+
+### Page 830 (PDF 850)
+
+*(Running head: left 830; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112". This page is reproduced from a larger, clearer scan.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.25; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *dyubhiḥ* — in the day-times; *aktubhiḥ* — in the night-times; *asmān* — us who are your devotees; *ariṣṭebhiḥ* — unharmed; *saubhagebhiḥ* — and auspicious; with riches; *pari pātam* — protect well, with love; *naḥ* — our; *tat* — this prayer; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the presiding deity of the ocean; *pṛthivī* — Pṛthivī; *uta* — and; *dyauḥ* — the presiding deity of the world of heaven; *mamahantām* — let them make [it] worthy of honour and protect [it].
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! both in the day-times and in the night-times, protect us, your devotees, well, by granting [us] unharmed and auspicious riches, and by your favour. May this prayer of ours be honoured and protected by Mitra, Varuṇa, Aditi, the presiding deity of the ocean, Pṛthivī and the presiding deity of the world of heaven.
+
+**English Translation (as printed in the source; Rik 112.25)**
+
+"Cherish us, Aswins, always, by night or day, with undiminished blessings; and may Mitra, Varuna, Aditi,—ocean, earth, and heaven, be favourable to this our (prayer)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.25)**
+
+**अक्तुभिः — Aktubhiḥ.** The words *śyāvī*, *kṣapā*, *śarvarī*, *aktu* and so on — twenty-three [?] in all — are read among the names of night (*Ni.* 1-7 [?] as read). In many places the sense of the word *aktu* is only 'night', as it is in the Ṛk before us. But in some contexts the word is used in the senses of 'ray' (*kiraṇa*), 'weapon' (*āyudha*), 'darkness' and so on: since the root *añj* has the senses 'to cover', 'to anoint', 'to shine' and so on, the meanings come to be 'darkness that anoints', 'a ray that covers all around', 'night that anoints with darkness', and 'a weapon that covers the enemy'. For example: *(the examples continue on p. 831)*
+
+---
+
+### Page 831 (PDF 851)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 831.)*
+
+> यो मर्त्यः शिशीते अत्यक्तुभिर्मा नः स रिपुरीशत ।
+> *yo martyaḥ śiśīte aty aktubhir mā naḥ sa ripur īśata |*
+> (*Ṛ.* 1-36-16 as read [?])
+
+in this Ṛk [the word *aktu* is explained] as 'weapon'; and in
+
+> शिरिणायां चिदक्तुना महोभिरपरीवृतो वसति प्रचेताः ।
+> *śiriṇāyāṃ cid aktunā mahobhir aparīvṛto vasati pracetāḥ |*
+> (*Ṛ.* 2-10-3 as read [?])
+> *(Sanskrit as read from the print; doubtful in places [?]; no gloss attempted for either.)*
+
+in this Ṛk it is explained as 'darkness'. But the use of this word as a synonym of 'night' is the commoner.
+
+
+**अरिष्टेभिः — Ariṣṭebhiḥ.** *ahiṃsitaiḥ* — 'unharmed': 'devoid of injury, and secured [protected]', is the sense.
+
+**तन्नो मित्रो वरुणो मामहन्ताम् — Tan no mitro varuṇo māmahantām.** *mitrādayaḥ ṣaḍ devatāḥ asmābhiḥ prārthitaṃ pūjayantu iti* — "May the six deities, Mitra and the others, honour what we have prayed." The meaning of this sentence has been explained in the preceding sūkta [110.9, 111.5].
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.25)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Dyubhiḥ*: the word *div*; with the plural instrumental following, by *diva ut* (*pā.* 6-1-131 as read [?]) *u* for the *v*, and then the *yaṇ* substitution; by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) the case-ending would take the *udātta*, but by *divo jhal* (*pā.* 6-1-183 as read [?]) it is prohibited. *Ariṣṭebhiḥ*: root *riṣa hiṃsāyām*; by *niṣṭhā* (*pā.* 3-2-102 as read [?]) the suffix *kta*; since it is *kit*, by the rule on the *laghūpadha* the *guṇa* does not occur; by *ṣṭutva* the *t* of the suffix becomes *ṭ*; 'not harmed' = *ariṣṭa*, with *nañ*; in the *nañ-tatpuruṣa*, by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (*pā.* 6-2-2 as read [?]) the prior member [the indeclinable] keeps its own accent; since *bhis* follows, by *bahulaṃ chandasi* (*pā.* 7-1-10 as read [?]) the substitution of *ais* does not occur; by *bahuvacane jhaly et* (*pā.* 7-3-103 as read [?]) *e*; the *s* of the suffix *bhis* ends in *ruḥ* and *visarga*. *Aśvinā*: with the dual *au* following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the substitute *ā*; by *āmantritasya ca* (*pā.* 8-1-19 as read [?]) the *nighāta*. *Saubhagebhiḥ*: 'he who has good *bhaga*, fortune' = *subhagaḥ*; its state = *saubhagam*; since *subhaga* is listed in the *udgātrādi* class (*subhagān mantre*), the suffix *añ* in the abstract sense; though the *vṛddhi* of both members would be reached by *hṛdbhagasindhvante pūrvapadasya ca* (*pā.* 7-3-19 as read [?]), since all rules are optional in the Veda, by the *vārttika* it does not occur here; as before, *bhis* does not take *ais*; since the suffix is *ñit*, by *ñnityādir nityam* (*pā.* 6-1-197 as read [?]) the first syllable is *udātta*.
+
+*(The grammar of Rik 112.25 is printed on p. 831 and concludes on p. 832.)*
+
+---
+
+### Page 832 (PDF 852)
+
+*(Running head: left 832; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, concluded; short.)* *Pātam*: root *pā rakṣaṇe*, of the *adādi* class; *loṭ*, second-person dual; since it follows a [word ending in the] *ati*… the *nighāta* accent. The remaining words have been explained earlier. ‖ 25 ‖
+
+**"Nūra hanneraḍaneya sūktavu mugidudu"** — "The 112th Sūkta is concluded." *(printed line; Sūkta 112 of Maṇḍala 1 ends here with twenty-five Ṛks, printed pp. 721–832.)*
+
+**Closing verse of the adhyāya, in Sanskrit as printed in Kannada script (three layers):**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो दद्याद्विद्यातीर्थमहेश्वरः ॥
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃś caturo dadyād vidyātīrthamaheśvaraḥ ‖*
+> "May Vidyātīrtha-Maheśvara, dispelling the darkness of the heart by the light of the meaning of the Veda, bestow the four human ends." *(mine; the verse is the Sāyaṇa-tradition's closing verse as printed in the source)*
+
+**Colophon, in Sanskrit (three layers):**
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कमहीपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये प्रथमाष्टके सप्तमोऽध्यायः समाप्तः ॥
+> ‖ ओं तत्सत् ‖
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartakaśrīvīrabukkamahīpālasāmrājyadhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe ṛksaṃhitābhāṣye prathamāṣṭake saptamo 'dhyāyaḥ samāptaḥ ‖*
+> *‖ oṃ tat sat ‖*
+> "Thus ends the seventh adhyāya in the first Aṣṭaka of the commentary on the Ṛk-Saṃhitā, in the *Mādhavīya Vedārthaprakāśa*, composed by Sāyaṇācārya, bearer of the yoke of the empire of the illustrious Vīra-Bukka, the king of kings, the supreme lord, the promoter of the Vedic path. Om, that is the Real." *(mine)*
+
+**Closing line in Kannada (rendered):** "Here ends the Seventh Adhyāya, in the First Aṣṭaka of the Ṛgveda-Saṃhitā, together with the Śrī Sāyaṇa-bhāṣya and the Kannada translation."
+
+**Final verse of apology and benediction (three layers):**
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+> *yad akṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yad bhavet |*
+> *tat sarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+> "Whatever may be fallen from syllable or word, or deficient in measure — let all that be forgiven, O Lord, O Lord of Speech: homage to you." *(mine)*
+
+> शुभं भूयात् ॥ मङ्गळम् ॥
+> *śubhaṃ bhūyāt ‖ maṅgaḷam ‖*
+> "May it be auspicious. Blessing." *(mine)*
+
+*(An ornament follows. The scan ends here, at PDF 852 = printed p. 832; there are no further pages.)*
+
+---
+
+**Progress note:** Printed pp. 1–832 done (PDF 21–852): VOLUME 8 IS COMPLETE. Sūkta 112 (25 Ṛks, printed pp. 721–832) and with it the Seventh Adhyāya (Sūktas 95–112) end at printed p. 832 (PDF 852) with 'nūra hanneraḍaneya sūktavu mugidudu', the closing verse *vedārthasya prakāśena…*, the adhyāya colophon (*prathamāṣṭake saptamo 'dhyāyaḥ samāptaḥ*), the Kannada closing line, and the apology verse *yad akṣarapadabhraṣṭam…*; the scan has no further pages. Notes: Sūkta 111 begins at printed p. 701 (title at its head) and Sūkta 112 begins at the foot of p. 721, not p. 722; printed p. 323 is missing from the scan. No .docx/.pdf/worklist/main merge made for Vol 8 yet. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
