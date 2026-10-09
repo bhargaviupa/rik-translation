@@ -14437,5 +14437,126 @@ O gods, sons of Aditi: come, with all your heroes and with all the heroic men, f
 **Sarvatātaye** — *sarvair vīrapuruṣaiḥ tatāya vistāritāya yuddhāya |* "for a battle that is extended by all the heroic men: that is, to help us in the battle that is to be fought by [?] us, in the battle that is waged. In general, the word *sarvatāti* is used in the sense of *yajña* [sacrifice]. For example —" *(the passage continues on p. 538)*
 
 ---
+### Page 538 (PDF 558)
 
-**Progress note:** Printed pp. 1–537 done (PDF 21–557): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Rik 106.1 complete (pp. 530–534); Rik 106.2 (printed pp. 535–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the topics *ādityāḥ*; *sarvatātaye* begun at the foot of p. 537). Next: printed p. 538 (PDF 558). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 538; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+> देवानां दूतः पुरुध प्रसूतोऽनागान्नो वोचतु सर्वताता ।
+> *devānāṃ dūtaḥ purudha prasūto 'nāgān no vocatu sarvatātā |* (*Ṛ. Saṃ.* 3-5[?]-[?] as read [?])
+
+> शततमं वेश्यं सर्वताता दिवोदासमतिथिग्वं यदावम् ।
+> *śatatamaṃ veśyaṃ sarvatātā divodāsam atithigvaṃ yad āvam |* (*Ṛ. Saṃ.* 4-[?]-[?] as read [?])
+
+> रायेऽमित्रावरुणा सर्वतातेळे तोकाय तनयाय शं योः ।
+> *rāye mitrāvaruṇā sarvatāteḷe tokāya tanayāya śaṃ yoḥ |* (*Ṛ. Saṃ.* 3-[?]-[?] as read [?]; the word "ḷe" is as printed [?])
+
+"— in Ṛks like these, and in Ṛks 6-[?]-[?]; 4-[?]-[?] and the like, the word *sarvatātā* is used as a synonym for *yajña*. When giving the derivation of this word the Nirukta-author explained '*sarvāsu karmatatiṣu*': 'in all the series of sacrifices' (*Ni.* 11-[?]4 as read [?]). In the Ṛk at hand too, Skandasvāmin has explained *sarvasmai asmadyāgāya* or *sarvasmai yāgasaṃtatyai* — 'for all our sacrifices, or for the continuity of all sacrifices'. But since *vṛtratūryeṣu* [in the second half] relates to battle, Sāyaṇa's *yuddhāya*, 'for a battle', is also fitting."
+
+**Vṛtratūryeṣu** — "the word *vṛtratūrya* is read among the names of battle (*Ni.* 3-[?]7 as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.2)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Ādityāḥ* (*aditeḥ apatyāni pumāṃsaḥ ādityāḥ*; the suffix *ṇya* by *diti-aditi-āditya-pratyanīka…*, Pā. Sū. 4-1-85 as read [?]; the initial *vṛddhi* by *taddhiteṣv acām ādeḥ*, Pā. Sū. 7-2-117 as read [?]; loss of *i* by *yasyeti ca*, Pā. Sū. 6-4-148 as read [?]; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]). *Gata* (root *gam gatau*; *loṭ*, second person plural; *tha* → *ta* because *laṭ*'s *ṭ* is lost [in the *loṭ* form]; loss of *śap* by *bahulaṃ chandasi*; no *bhatva* since it is *anudātta*; since the suffix is *apit*, treated as *ṅit* by *sārvadhātukam apit*, and the loss of the nasal *m* of the root by *anudāttopadeśavanatitanotyādīnām*, Pā. Sū. 6-4-37 as read [?]; *nighāta*). *Bhūta* (root *bhū sattāyām*; *loṭ*, second person plural; *ta* for *tha*; *śap* is lost by *bahulaṃ chandasi*; since the suffix is *ṅit*-like, no *guṇa* of the root). *Śaṃbhuvaḥ* (root *bhū sattāyām*, a causal sense implied; with *śam* as the prior member, *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; nominative plural).
+
+---
+
+### Page 539 (PDF 559)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 539.)*
+
+## Rik 106.3 — printed pp. 539–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.3)**
+
+> अवन्तु नः पितरः सुप्रवाचना उत देवी देवपुत्रे ऋतावृधा ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ ३ ॥
+
+*avantu naḥ pitaraḥ suprāvācanā uta devī devaputre ṛtāvṛdhā | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 3 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.3)**
+
+> अवन्तु । नः । पितरः । सुऽप्रवाचनाः । उत । देवी इति । देवऽपुत्रे इति देवऽपुत्रे । ऋतऽवृधा ।
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ ३ ॥
+
+*avantu | naḥ | pitaraḥ | su-pravācanāḥ | uta | devī iti | deva-putre iti deva-putre | ṛta-vṛdhā | ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.3)**
+
+> नोऽस्मानग्निष्वात्तादयोऽवन्तु । रक्षन्तु । कीदृशाः । सुप्रवाचनाः । सुखेन प्रवक्तुं स्तोतुं शक्याः । उतापि च देवपुत्रे देवाः सर्वे पुत्रस्थानीया ययोस्ते ऋतावृधा ऋतस्य सत्यस्य यज्ञस्य वा वर्धयित्र्यौ देवी देवनादिगुणयुक्ते द्यावापृथिव्यावस्मान्रक्षताम् ॥ अस्यत्पूर्ववत् [?] ॥ देवी । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । ऋतावृधा । वृधेरन्तर्भावितण्यर्थात् क्विप् । सुपां सुलुगिति विभक्तेराकारः ॥
+> *no 'smān agniṣvāttādayo 'vantu | rakṣantu | kīdṛśāḥ | suprāvācanāḥ | sukhena pravaktuṃ stotuṃ śakyāḥ | utāpi ca devaputre devāḥ sarve putrasthānīyā yayos te ṛtāvṛdhā ṛtasya satyasya yajñasya vā vardhayitryau devī devanādiguṇayukte dyāvāpṛthivyāv asmān rakṣatām ‖ asyatpūrvavat [?] ‖ devī | vā chandasīti pūrvasavarṇadīrghatvam | ṛtāvṛdhā | vṛdher antarbhāvitaṇyarthāt kvip | supāṃ suluk iti vibhakter ākāraḥ ‖*
+
+"May the Agniṣvāttas and the others (*pitaraḥ*) protect us. Of what sort? *Suprāvācanāḥ*: those who can be easily addressed, praised. And further, the two *devaputre* — Heaven and Earth, of whom all the gods are as sons — *ṛtāvṛdhā*: the two who increase (*vardhayitryau*) the *ṛta* (truth) or the sacrifice, the two goddesses (*devī*) endowed with the qualities of shining and the like — may they protect us. [The rest] as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.3; Kannada; English)**
+
+*Suprāvācanāḥ* — those who can be praised with ease; *pitaraḥ* — the ancestors (Agniṣvātta and the rest); *naḥ* — us; *avantu* — may they protect; *uta* — and; *devaputre* — those who have gods as their sons;
+
+---
+
+### Page 540 (PDF 560)
+
+*(Running head: left 540; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+*ṛtāvṛdhā* — the two who increase the truth or the sacrifice; *devī* — the two goddesses, Heaven and Earth, (may they protect us); *durgāt* — from the impassable road; *ratham na* — as a good charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — exceedingly liberal Indra and the others; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] release and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May the ancestors, Agniṣvātta and the rest, who can be praised with ease, protect us. May Heaven and Earth, who have the gods themselves as sons, who increase the sacrifice, and who are themselves divine, protect us. As a good charioteer brings the chariot safely through an impassable road, may Indra and the others, who protect our dwelling and are exceedingly liberal, free us from all sin and protect us.
+
+**English Translation (as printed in the source)**
+
+"May the Pitris, who are easily to be praised, protect us ; and may the two divinities, heaven and earth, the promoters of sacrifices, and of whom the gods are the progeny, protect us ; and may they, who are bountiful and the givers of dwellings, extricate us from sin as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.3)**
+
+**Pitaraḥ** — *agniṣvāttādayaḥ |* "the *pitṛs* such as Agniṣvātta; the ancestors are divided into three groups:
+
+> त्रिविधाः पितर उत्तमा मध्यमा अधमाश्चेति । यथाविधं श्रौतं कर्मानुष्ठायेह पितृत्वं प्राप्ताः उत्तमाः । स्मार्तकर्ममात्रपरा मध्यमाः । अत्रापि कृष्टिनःसंस्कारैर्विकला अधमाः ।
+> *trividhāḥ pitara uttamā madhyamā adhamāś ceti | yathāvidhaṃ śrautaṃ karmānuṣṭhāyeha pitṛtvaṃ prāptā uttamāḥ | smārtakarmamātraparā madhyamāḥ | atrāpi kṛṣṭinaḥsaṃskārair vikalā adhamāḥ |* *(as read; the last words are clotted [?])*
+
+— the *pitṛs* are of three kinds: the best, the middle, and the lowest. Those who by performing the Vedic (*śrauta*) rites in the prescribed manner here have attained the state of ancestors are the best. Those who have only been devoted to *smārta* rites, the middle. Those who even here are wanting in the rites of preparation [?] (*saṃskāra*), the lowest. This is the idea.
+
+> ये अग्निदग्धा ये अनग्निदग्धा मध्ये दिवः स्वधया मादयन्ते ।
+> *ye agnidagdhā ye anagnidagdhā madhye divaḥ svadhayā mādayante |* (*Ṛ. Saṃ.* 10-15-14 as read)
+
+---
+
+### Page 541 (PDF 561)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 541.)*
+
+"— in this Ṛk, the division of *agnidagdhāḥ* and *anagnidagdhāḥ* [those burnt with fire and those not burnt] is understood. In this way these three groups too are described in the Ṛk-saṃhitā itself:
+
+> उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः ।
+> असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्तु पितरो हवेषु ॥
+> *udīratām avara ut parāsa un madhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyur avṛkā ṛtajñās te no 'vantu pitaro haveṣu ‖* (*Ṛ. Saṃ.* 10-15-1 as read)
+
+— as the Ṛk says, there are three parts — the best, the middle and the lowest (*avara*, *parāsaḥ*, *madhyamāḥ*); and the further groups — *barhiṣadaḥ*, *somavantaḥ* and *agniṣvāttāḥ* — are described in the Saṃhitā sentences themselves:
+
+> बर्हिषदः पितर ऊत्यर्वागिमा वो हव्या चकृमा जुषध्वम् ।
+> *barhiṣadaḥ pitara ūty arvāg imā vo havyā cakṛmā juṣadhvam |* (*Ṛ. Saṃ.* 10-15-5 as read)
+
+— as it says in this Ṛk, and as in the Brāhmaṇa sentence
+
+> ये वै यज्वानस्ते पितरो बर्हिषदः ।
+> *ye vai yajvānas te pitaro barhiṣadaḥ |* (*Tai. Brā.* 1-6-9 as read [?])
+
+— those who join directly in the *mahāpitṛyajña* and carry on the sacrifice are the *barhiṣadaḥ*; and
+
+> उपहूताः पितरः सोम्यासो बर्हिष्येषु निधिषु प्रियेषु ।
+> *upahūtāḥ pitaraḥ somyāso barhiṣyeṣu nidhiṣu priyeṣu |* (*Ṛ. Saṃ.* 10-15-5 [?] as read [?])
+
+— as this Ṛk says, those who in the *mahāpitṛyajña* take Soma and the like are the *somavantaḥ*; and
+
+> अग्निष्वात्ताः पितर एह गच्छत सदःसदः सदत सुप्रणीतयः ।
+> *agniṣvāttāḥ pitara eha gacchata sadaḥ-sadaḥ sadata supraṇītayaḥ |* (*Ṛ. Saṃ.* 10-15-11 as read)
+
+— as in this Ṛk, the *agniṣvāttāḥ*: thus there are three groups. Because the number of these ancestors is exceedingly large, and because their abodes are very far, and because [we] have no precise knowledge about them —
+
+> ये चेह पितरो ये च नेह याँश्च विद्म याँ उ च न प्रविद्म ।
+> त्वं वेत्थ यदि ते जातवेदः स्वधाभिर्यज्ञं सुकृतं जुषस्व ॥
+> *ye ceha pitaro ye ca neha yāṃś ca vidma yāṃ u ca na pravidma | tvaṃ vettha yadi te jātavedaḥ svadhābhir yajñaṃ sukṛtaṃ juṣasva ‖* (*Ṛ. Saṃ.* 10-15-13 as read)" *(the passage continues on p. 542)*
+
+---
+
+**Progress note:** Printed pp. 1–541 done (PDF 21–561): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.2 complete (pp. 530–538); Rik 106.3 (printed pp. 539–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the topic *pitaraḥ*, three groups of ancestors; ends at the foot of p. 541 after Ṛ. 10-15-13). Next: printed p. 542 (PDF 562). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
