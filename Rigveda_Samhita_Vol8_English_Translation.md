@@ -22643,5 +22643,94 @@ Sāyaṇa explains these two names as words that indicate masculines — as the 
 *Ārjuneyam*: by *śubhrādibhyaś ca* (*pā.* 4-1-123 as read [?]) the suffix *ḍhak*, since the *ca* is [read as] a connective for words not mentioned [in the list]: 'the offspring of Arjunī, a male'; by *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* (*pā.* 7-1-2 as read [?]) the substitute *eya* for *ḍh*; by *yasyeti ca* (*pā.* 6-4-148 as read [?]) the loss of the *ā* [of *ī*, as read [?]]; since the suffix is *kit*, *vṛddhi* of the first syllable. *Turvītim*: root *turvī hiṃsārthaḥ*; 'he who injures enemies' = *turvītiḥ*; to it the Uṇādi suffix *īti*; the *ī* is *udātta* by the suffix-accent. *Dabhītim*: root *dabhi dambhe*; the Uṇādi suffix *īti*; since it is *kit*, by *anidītāṃ hala upadhāyāḥ kṅiti* (*pā.* 6-4-24 as read [?]) the penultimate nasal is lost; the *ī* is *udātta* by the suffix-accent. *Dhvasantim*: root *dhvaṃsu gatau*; the Uṇādi suffix *jhic* [?] comes; by *jho 'ntaḥ* (*pā.* 7-1-3 as read [?]) *anta* for it; since it is *cit*, by *anidītāṃ hala…* the penultimate letter is lost; by the suffix-accent the middle syllable is *udātta*. *Puruṣantim*: 'he who gives much' = *puruṣantiḥ*; the root *ṣaṇa*, 'to give', with *kric* by *ktic ktau ca saṃjñāyām* (*pā.* 3-3-174 as read [?]), since it is intended as a name: *(the page ends here; the grammar continues on p. 825)*
 
 ---
+### Page 825 (PDF 845)
 
-**Progress note:** Printed pp. 1–824 done (PDF 21–844): Sūkta 112: Riks 112.1–112.22 complete; Rik 112.23 (printed pp. 820–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*puruṣantim*, ending mid-sentence at the foot of p. 824). Next: printed p. 825 (PDF 845). Remaining: Riks 112.24, 25 and any colophon; Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 825.)*
+
+*(Grammar of Rik 112.23, concluded; short; sūtra numbers only as read, doubtful [?].)* …*the nasal is lost by* anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti [print: *anudāttopadeśa…*, *pā.* 6-4-37 as read [?]]; *but if it were so, the loss of the nasal would be reached; by* naktrici dīrghaś ca [as read [?]] *(pā.* 6-4-39 as read [?]*)* the loss of the nasal is — *the prohibition of lengthening of the penultimate occurs; the* kṛdanta *keeps the accent of its prior member.* ‖ 23 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.23.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.24)** *(accent-marks not reproduced; the metre of Riks 24–25 is Triṣṭubh)*
+
+> अप्नस्वतीमश्विना वाचमस्मे कृतं नो दस्रा वृषणा मनीषाम् ।
+> अद्यूत्येऽवसे नि ह्वये वां वृधे च नो भवतं वाजसातौ ॥ २४ ॥
+> *apnasvatīm aśvinā vācam asme kṛtaṃ no dasrā vṛṣaṇā manīṣām |*
+> *adyūtye 'vase ni hvaye vāṃ vṛdhe ca no bhavataṃ vājasātau ‖ 24 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.24)**
+
+> अप्नःऽस्वतीम् । अश्विना । वाचम् । अस्मे इति । कृतम् । नः । दस्रा । वृषणा । मनीषाम् ।
+> अद्यूत्ये । अवसे । नि । ह्वये । वाम् । वृधे । च । नः । भवतम् । वाजऽसातौ ॥ २४ ॥
+> *apnaḥ-svatīm | aśvinā | vācam | asme iti | kṛtam | naḥ | dasrā | vṛṣaṇā | manīṣām |*
+> *adyūtye | avase | ni | hvaye | vām | vṛdhe | ca | naḥ | bhavatam | vāja-sātau ‖ 24 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.24)**
+
+> हे अश्विनौ । अस्मे अस्माकं वाचमप्नस्वतीम् । अप्न इति कर्मनाम । विहितैः कर्मभिः संयुक्तां कृतं कुरुतम् । तथा नोऽस्माकं मनीषां बुद्धिं हे वृषणा कामानां वर्षकौ दस्रा शत्रूणामुपक्षपयितारावश्विनौ वेदार्थज्ञानसमर्थां कुरुतम् । अपि च यस्माद्युवामेवंगुणविशिष्टौ तस्माद्वां युवामवसे रक्षणाय अद्यूत्ये रात्रेः पश्चिमे यामे तत्र निह्वये । नितरामाह्वयामि । कदा । अद्यूत्ये द्योतनरहिते प्रकाशनरहिते रात्रेः पश्चिमे यामे । तस्मिन्काले हि प्रातरनुवाकाश्विनशस्त्रयोरिदं सूक्तं पठ्यते । आहूतौ च युवां वाजसातौ वाजस्यान्नस्य सम्भजने । यद्वा । सङ्ग्रामनामैतत् । सङ्ग्रामे नोऽस्माकं वृधे वर्धनाय भवतम् ॥ अप्नस्वतीम् । आपः कर्माख्यायां ह्रस्वो नुट् च वा । उ. ४-१८२ । अप्नःशब्दस्य नुडागमः । तदस्यास्तीति मतुप् । मादुपधायाः इति मतुपो वत्वम् । तसौ मत्वर्थ इति भत्वेन पदत्वाभावाद्रुत्वाद्यभावः । अस्मे । सुपां सुलुगिति षष्ठ्याः शेआदेशः । कृतम् । करोतेर्लोट् । बहुलं छन्दसीति विकरणस्य लुक् । अद्यूत्ये । द्युत दीप्तौ । ऋहलोर्ण्यदिति भावे ण्यत् । वर्णव्यापत्त्या ऊकारः । द्यौत्यं प्रकाशनमस्मिन्नास्तीति बहुव्रीहौ व्यत्ययेनान्तस्वरितत्वम् । नि ह्वये । निसमुपविभ्यो ह्वः । आत्मनेपदम् । वृधे । वृधु वृद्धौ । सम्पदादिलक्षणो भावे क्विप् । सावेकाच इति विभक्तेरुदात्तत्वम् ॥
+> *he aśvinau | asme asmākaṃ vācam apnasvatīm | apna iti karmanāma | vihitaiḥ karmabhiḥ saṃyuktāṃ kṛtaṃ kurutam | tathā no 'smākaṃ manīṣāṃ buddhiṃ he vṛṣaṇā kāmānāṃ varṣakau dasrā śatrūṇām upakṣapayitārāv aśvinau vedārthajñānasamarthāṃ kurutam | api ca yasmād yuvām evaṃguṇaviśiṣṭau tasmād vāṃ yuvām avase rakṣaṇāya adyūtye rātreḥ paścime yāme tatra nihvaye | nitarām āhvayāmi | kadā | adyūtye dyotanarahite prakāśanarahite rātreḥ paścime yāme | tasmin kāle hi prātaranuvākāśvinaśastrayor idaṃ sūktaṃ paṭhyate | āhūtau ca yuvāṃ vājasātau vājasyānnasya sambhajane | yadvā | saṅgrāmanāmaitat | saṅgrāme no 'smākaṃ vṛdhe vardhanāya bhavatam ‖ apnasvatīm | āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā | u. 4-182 | apnaḥśabdasya nuḍāgamaḥ | tad asyāstīti matup | māduṣadhāyāḥ iti matupo vatvam | tasau matvartha iti bhatvena padatvābhāvād rutvādyabhāvaḥ | asme | supāṃ suluk iti ṣaṣṭhyāḥ śeādeśaḥ | kṛtam | karoter loṭ | bahulaṃ chandasīti vikaraṇasya luk | adyūtye | dyuta dīptau | ṛhaloṛ ṇyad iti bhāve ṇyat | varṇavyāpattyā ūkāraḥ | dyautyaṃ prakāśanam asminn nāstīti bahuvrīhau vyatyayenāntasvaritatvam | ni hvaye | nisamupavibhyo hvaḥ | ātmanepadam | vṛdhe | vṛdhu vṛddhau | sampadādilakṣaṇo bhāve kvip | sāvekāca iti vibhakter udāttatvam ‖*
+
+*(Sanskrit as read; the Uṇādi numeral and a few suffix-rule names are as printed and doubtful [?].)*
+
+"O Aśvins! *asme*, for us, make our *vācam*, speech, *apnasvatīm*: *apnas* is a name for 'work'; endowed with the prescribed works. And likewise, O showerers (*vṛṣaṇā*) of desires, *dasrā*, destroyers of enemies, make our *manīṣām*, understanding, capable of knowing the sense of the Veda. And further, since you are possessed of such qualities, I *ni hvaye*, call you thoroughly, *avase*, for protection, *adyūtye*, in the last watch of the night. When? In the *adyūtya* — that which has no light, no illumination — the last watch of the night: for at that time this hymn is recited in the *prātaranuvāka* and the Aśvina-*śastra*. And, being called, be, in *vājasātau*, the sharing of food, [or: this is a name for battle] in battle, for our *vṛdhe*, increase."
+
+*Grammatical tail (short):* *apnasvatīm*: *apnas* takes the augment *nuṭ* (*Uṇ.* 4-182 as read [?]) in the sense of 'work'; 'she who has that' — *matup*; *va* for the *m* of *matup* after a stem ending in *m*; since it has the *bha*-designation, it is not a *pada*, and *rutva* and the like do not occur. *Asme*: the substitute *śe* for the sixth case by *supāṃ suluk*. *Kṛtam*: *loṭ* of *kṛ*; *luk* of the sign by *bahulaṃ chandasi*. *Adyūtye*: root *dyuta dīptau*; *ṇyat* in the abstract sense; *ū* by irregular change of letters; the *bahuvrīhi* 'in which there is no light'; *svarita* at the end by *vyatyaya*. *Ni hvaye*: root *hvā* with *ni*; *ātmanepada*. *Vṛdhe*: root *vṛdhu vṛddhau*; *kvip* in the abstract sense; the case-ending is *udātta*.
+
+---
+
+### Page 826 (PDF 846)
+
+*(Running head: left 826; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.24; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *asme* — to us; *vācam* — speech; *apnasvatīm* — endowed with works; *kṛtam* — make; *vṛṣaṇā* — O ones who give the things desired; *dasrā* — destroyers of enemies, O Aśvin deities; *naḥ* — our; *manīṣām* — understanding (so that it may grasp the meaning of the Veda); *kṛtam* — make [it] powerful; *adyūtye* — in the last watch of the night, which has no light; *vām* — you; *avase* — for protection; *ni hvaye* — I call much; *ca* — and you two; *vājasātau* — for the gaining of food, or in battle; *naḥ* — our; *vṛdhe* — for [our] increase; *bhavatam* — be helpers.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! make our speech endowed with works. O Aśvin deities, who give the objects desired and destroy enemies, make our understanding powerful, able to grasp the meaning of the Veda. In the last watch of the night, which is without light, we call you for [our] protection. Pardon our calling, and, giving us food, be helpers for our increase.
+
+**English Translation (as printed in the source; Rik 112.24)**
+
+"Aswins, sanctify our words with works; showerers (of benefits), subduers of foes, (invigorate) our understanding (for the sacred study); we invoke you both, in the last watch of the night, for our preservation; be to us for increase in the provision of food."
+
+---
+
+### Page 827 (PDF 847)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 827.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.24)**
+
+**अप्नस्वतीम् — Apnasvatīm.** *apna iti karmanāma | vihitaiḥ karmabhiḥ saṃyuktām* — "*apnas* is a name for 'work': joined with the prescribed works": the word *apnas* is read among the names of work; the sense is, 'endowed with the works enjoined by the *śāstra*'.
+
+**अद्यूत्ये — Adyūtye.** *dyotanarahite rātreḥ paścime yāme | tasmin kāle hi prātaranuvākāśvinaśastrayor idaṃ sūktaṃ paṭhyate* — "in the last watch of the night, which has no light; for at that time this hymn is recited in the *prātaranuvāka* and in the Aśvina-*śastra*." Though it is without light — the last watch of the night — that is, at the time when the *prātaranuvāka* mantras are recited, this hymn is read as one of the *śastras* of the Aśvin deities; the word [*adyūtye*] therefore marks the time.
+
+Here it is necessary to explain what the *prātaranuvāka* is. When the Agniṣṭoma sacrifice is performed, the day on which the Soma-juice is pressed out with stones (*abhiṣava*) is called the *sutyā* day or the *sutya* day. On the morning of this day, before sunrise (that is, after the middle of the night of the previous day, up to sunrise), the *adhvaryu*, after the *praiṣa* mantra '*devebhyaḥ prātaryāvabhyo hotar anubrūhi*' ('O Hotṛ! recite to the gods who come in the morning'), has the *hotṛ* recite certain *mantras*. These are called the *prātaranuvāka* mantras. The *hotṛ* must recite these *prātaranuvāka* mantras. This has been told in the *Aitareya Brāhmaṇa* itself: '*devebhyaḥ prātaryāvabhyo hotar anubrūhīty āhādhvaryuḥ*' (*Ai. Brā.* 2-[?]), as read [?].
+
+In reciting the *prātaranuvāka* mantras, the order which the *hotṛ* follows is described here in brief. The *adhvaryu*, the chief priest [*ṛtvij*] who bears the vessels in the sacrifice, must, addressing the other priests, say from time to time, 'You are to do such and such a thing'. Such sentences are called *praiṣas*. In the present context the *adhvaryu*, addressing the *hotṛ*, says: '*devebhyaḥ prātaryāvabhyo hotar anubrūhi*' — 'O Hotṛ! speak the *prātaranuvāka* mantras to the gods'. The *hotṛ* then goes to the neighbourhood of the fire-pit called *āgnīdhra* and there, for [the sake of] the speech, makes one offering of ghee, and in the *āhavanīya* fire two offerings of ghee, with *vidyukta* mantras; then, entering the hall called *balika* [?] (the place where the Soma-carts are set) by the eastern door, he sits near the axle of the carts that are there and first recites this *mantra*:
+
+> आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृथामृतं च ।
+> रायश्च स्थ स्वपत्यस्य पत्नीः सरस्वती तद्गृणते वयो धात् ॥
+> *āpo revatīḥ kṣayathā hi vasvaḥ kratuṃ ca bhadraṃ bibhṛthāmṛtaṃ ca |*
+> *rāyaś ca stha svapatyasya patnīḥ sarasvatī tad gṛṇate vayo dhāt ‖*
+> (*Ṛ.* 10-30-12 as read [?])
+> "O rich waters, you dwell in wealth; you bear good will and immortality; you are mistresses of riches and of fair offspring: may Sarasvatī give that vigour to the one who praises." *(mine and tentative)*
+
+— to the *balika* [?] fire, to Uṣas, and to the Aśvin deities, he recites the *prātaranuvāka* mantras. These are in three parts. The mantras addressed to Agni are called *āgneya kratu*; the *(the passage runs on to p. 828)*
+
+---
+
+### Page 828 (PDF 848)
+
+*(Running head: left 828; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(…continuing:)* "…mantras addressed to Uṣas are called *uṣasya kratu*, and those addressed to the Aśvin deities *āśvina kratu*. In each of these *kratu*s are seven separate divisions, consisting of the seven metres, Gāyatrī, Anuṣṭubh, Triṣṭubh, Bṛhatī, Uṣṇih, Jagatī and Paṅkti. These mantras must be recited from the night, without a break, until the dawn [first light], so that the deep middle of the night has passed to the time of the *balika*. In reciting these mantras the seven tones — *upāṃśu*, *mandra* and the rest — must be used according to the occasion (I do not give the details of them here, as they would be lengthy)."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.24)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Apnasvatīm*: *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā* (*Uṇ.* 4-182 as read [?]): after the word *ap*, in the sense of 'work', shortening, the augment *nuṭ*, and the suffix *asun*: 'there is *apnas* in her' = *apnasvatī*; the suffix *matup* by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]); since the stem ends in [*s*, after] an *a*-vowel-penultimate, by *mādupadhāyāś ca matorvo 'yavādibhyaḥ* (*pā.* 8-2-9 as read [?]) *va* for the *m* of *matup*; by *tasau matvarthe* (*pā.* 1-4-19 as read [?]) the *bha*-designation, since it is not a *pada*, the change of *s* to *ru* does not occur; for the feminine, *ṅīp* by *ugitaś ca* (*pā.* 4-1-6 as read [?]). *Aśvinā*: in the vocative dual, with *au* following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the substitute *ā*. *Asme*: the word *asmad*; by *supāṃ suluk* the substitute *śe* for the sixth case; by *śeṣe lopaḥ* (*pā.* 7-2-90 as read [?]) the loss of the *d*. *Kṛtam*: root *ḍukṛñ karaṇe*; *loṭ*, second-person dual; since it is *laṅvadbhāva* [?], the substitute *tam*; by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *luk* of the sign: the form *kṛtam*. *Adyūtye*: root *dyuta dīptau*; since the root ends in a consonant, by *ṛhaloṛ ṇyat* (*pā.* 3-1-124 as read [?]) the suffix *ṇyat* in the abstract sense; by irregular change of letters, *ū* for the *u*; 'in it there is no *dyautya*, brightness' = *adyūtyam*; in the *bahuvrīhi*, by *vyatyaya*, the final syllable is *udātta*; locative singular. *Ni hvaye*: the prefix *ni*; by *nisamupavibhyo hvaḥ* (*pā.* 1-3-30 as read [?]) the *ātmanepada* after *hvā*; *laṭ*, first-person singular; since it follows [a word ending in a verbal *ati*…], the *nighāta* accent.
+
+---
+
+**Progress note:** Printed pp. 1–828 done (PDF 21–848): Sūkta 112: Riks 112.1–112.23 complete; Rik 112.24 (a Triṣṭubh; printed pp. 825–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (apnasvatīm, adyūtye, the prātaranuvāka) and the first grammar page done (p. 828); the grammar may continue on p. 829. Next: printed p. 829 (PDF 849). Remaining: the end of 112.24's grammar, Rik 112.25 (the last, a Triṣṭubh), and any closing colophon; last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
