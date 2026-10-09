@@ -10821,4 +10821,127 @@ Grammar page, noted briefly. It treats: *śuṣṇam* (root *śuṣa śoṣaṇe
 
 ---
 
-**Progress note:** Printed pp. 1–393 done (PDF 21–413): **Sūkta 103** (8 Ṛks) nearly complete: Rik 103.7 complete (pp. 386–390); Rik 103.8, the last Rik (printed pp. 390–393): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English and the Special Topics (*śuṣṇam pipruṃ śambaram*, *kuyavam*) done, and the grammar begun (*śuṣṇam*, *pipruṃ*, *kuyavam*) at the foot of p. 393. Next: printed p. 394 (PDF 414): the end of the grammar of 103.8 and the close of Sūkta 103, then Sūkta 104 (starts at printed p. 394). Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 394 (PDF 414)
+
+*(Running head: left 394; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104" [as the numeral reads: the head here already carries the next sūkta's number].)*
+
+**Vyākaraṇa-prakriyā of Rik 103.8, concluded from p. 393 (grammar page, noted briefly; numerals small and doubtful [?])**
+
+Grammar page, noted briefly. The grammar of Rik 103.8 concludes: *avadhīḥ* (root *han hiṃsāgatyoḥ*; *luṅ*, second person singular, *sip*; loss of the *i* [of *sip*]; *vadha* for *han* in the *luṅ* by *hano vadha liṅi luṅi ca* [Pā. Sū. 2-4-42 as read]; because *yadā* is related to it, the prohibition of *nighāta* by *nipātair yad yadi…* [Pā. Sū. 8-1-30 as read]; since the augment *aṭ* is acute, the word is acute on the first syllable); *śambarasya* (*śamayatīti śambaḥ āyudham*; root *śamu upaśame*; *van* by *śamer baṇ* [Uṇ. Sū. 4-[?]4 as read, ?]; *śambo 'sya astīti śambaraḥ*, with *ra* in the possessive sense in the Veda; as *ban* is *nit*, acute on the first syllable; genitive singular). The Rik is closed with *‖ 8 ‖*.
+
+*(Printed line, centred:)* **ನೂರ ಮೂರನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತಿಯಾದುದು** — *nūra mūraneya sūktavu samāptiyādudu*, "The hundred-and-third Sūkta is concluded." *(An ornament follows.)*
+
+## Sūkta 104
+
+**ನೂರನಾಲ್ಕನೆಯ ಸೂಕ್ತವು** — *nūranālkaneya sūktavu*, "the hundred-and-fourth Sūkta" *(Kannada heading)*
+
+**Sāyaṇa's introduction to Sūkta 104 (Sanskrit in Kannada script; doubtful places [?]):**
+
+> योनिरित्यनर्चमेकादशं सूक्तं कुत्सस्यार्षं त्रैष्टुभमैन्द्रम् । योनिर्वेत्यैतुक्रान्तम् ॥ सूक्तविनियोगो लैङ्गिकः ॥
+> *yonir ity anarcam ekādaśaṃ sūktaṃ kutsasyārṣaṃ traiṣṭubham aindram | yonir vety etukrāntam ‖ sūktaviniyogo laiṅgikaḥ ‖*
+
+*(The print's first words are read* yonir ity *and the numeral-word as* anarcam *[for* navarcam, 'of nine Ṛks'?], and the Anukramaṇī words as* yonir vety etukrāntam *[for* yonir nv ety anukrāntam?]; all clotted, read as given [?]. Sense, mine, from the Kannada that follows: "The eleventh sūkta, of nine Ṛks, beginning* yonis ṭa indra*, is the seer-composition of Kutsa, Triṣṭubh, addressed to Indra. So the Anukramaṇī: '*yonir* — … '. Its application is by the sign.")*
+
+**Anuvāda (Kannada):** "*Yoniṣṭa indra* — this sūkta is the eleventh sūkta in the fifteenth anuvāka. It has nine Ṛks. The ṛṣi of this sūkta is Kutsa. The deity is Indra. The metre is Triṣṭubh. In the Anukramaṇikā it is said, beginning, *yonir nv ety anukrāntam* [as printed, read thus, ?]. The application of the sūkta is *laiṅgika*."
+
+*(A rule of dashes follows.)*
+
+### Page 395 (PDF 415)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 395.)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०४ — Sūkta 104** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १५ · सूक्त १०४ — *Maṇḍala 1, Anuvāka 15, Sūkta 104.*
+- अष्टक १ · अध्याय ७ · वर्ग १८, १९ — *Aṣṭaka 1, Adhyāya 7, Vargas 18, 19* (numerals as read, small [?]).
+- ऋक्संख्या — ९ — *Number of Ṛks in the sūkta: 9.*
+- ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
+- देवता — इन्द्रः — *Deity: Indra.*
+- छन्दः — त्रिष्टुप् — *Metre: Triṣṭubh.*
+
+## Rik 104.1 — printed pp. 395–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.1)**
+
+> योनिष्ट इन्द्र निषदे अकारि तमा नि षीद स्वानो नार्वा ।
+> विमुच्या वयोऽवसायाश्वान्दोषा वस्तोर्वहीयसः प्रपित्वे ॥ १ ॥
+
+*yoniṣ ṭa indra niṣade akāri tam ā ni ṣīda svāno nārvā | vimucyā vayo 'vasāyāśvān doṣā vastor vahīyasaḥ prapitve ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.1)**
+
+> योनिः । ते । इन्द्र । निऽसदे । अकारि । तम् । आ । नि । सीद । स्वानः । न । अर्वा ।
+> विऽमुच्य । वयः । अवऽसाय । अश्वान् । दोषा । वस्तोः । वहीयसः । प्रऽपित्वे ॥ १ ॥
+
+*yoniḥ | te | indra | ni-sade | akāri | tam | ā | ni | sīda | svānaḥ | na | arvā | vi-mucya | vayaḥ | ava-sāya | aśvān | doṣā | vastoḥ | vahīyasaḥ | pra-pitve ‖ 1 ‖*
+
+### Page 396 (PDF 416)
+
+*(Running head: left 396; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.1)**
+
+> हे इन्द्र योनिर्वेद्याख्यं स्थानं ते तव निषदे निषदनायोपवेशनायाकारि । कृतमस्माभिः प्रकल्पितमभूत् । तं योनिमा नि षीद । शीघ्रमागत्य तत्रोपविश । शीघ्रागमने दृष्टान्तः । स्वानो नार्वा । अर्वेत्यश्वनाम । यथाश्वः स्वानो हेषाशब्दं कुर्वन्स्वकीयं स्थानं शीघ्रमागच्छति तद्वत् । किं कृत्वा । वयोऽश्वबन्धनार्थान् रश्मीन्विमुच्य रथाद्विश्लिष्य तथाश्वान्रथे योजितांश्च तुरगानवसाय विमुच्य । अत्र निरुक्तं । अवसायाश्वानिति स्यतिरुपसृष्टो विमोचने । नि. १०-१२ । इति । कीदृशानश्वान् । प्रपित्वे यागकाले प्राप्ते । प्रपित्वे प्राप्ते ऽभीके ऽभ्यक्ते । नि. ३-२० । इति यास्कः । दोषा रात्रौ वस्तोरहनि च वहीयसः आदरातिशयेन वोढ्न् ॥ निषदे । सदेः संपदादिलक्षणो भावे क्विप् । स्वानः । स्वमु स्वन ध्वन शब्दे । बहुलवचनात्कर्तरि घञ् । कर्षात्वत इत्यन्तोदात्तत्वं । वयः । वियन्ति रथेन सह संगच्छन्ते इति विशब्देन रश्मय उच्यन्ते । वी गत्यादिषु । औणादिक इप्रत्ययः । टिलोपश्च । द्वितीयार्थे प्रथमा । अवसाय । षो अन्तकर्मणि । आदेच इत्यात्त्वं । समासेऽनञ्पूर्व इति क्त्वो ल्यबादेशः । वहीयसः । वह प्रापणे । तृजन्ताद्वोढृशब्दात्छन्दसीतीयसुन् । तुरिष्ठेमेयस्सुस्सु इति तृलोपे कर्तव्ये छन्दसि बहुलं ॥
+> *he indra yonir vedyākhyaṃ sthānaṃ te tava niṣade niṣadanāyopaveśanāyākāri | kṛtam asmābhiḥ prakalpitam abhūt | taṃ yonim ā ni ṣīda | śīghram āgatya tatropaviśa | śīghrāgamane dṛṣṭāntaḥ | svāno nārvā | arvety aśvanāma | yathāśvaḥ svāno heṣāśabdaṃ kurvan svakīyaṃ sthānaṃ śīghram āgacchati tadvat | kiṃ kṛtvā | vayo 'śvabandhanārthān raśmīn vimucya rathād viśliṣya tathāśvān rathe yojitāṃś ca turagān avasāya vimucya | atra niruktaṃ | avasāyāśvān iti syatir upasṛṣṭo vimocane | Ni. 10-12 | iti | kīdṛśān aśvān | prapitve yāgakāle prāpte | prapitve prāpte 'bhīke 'bhyakte | Ni. 3-20 | iti yāskaḥ | doṣā rātrau vastor ahani ca vahīyasaḥ ādarātiśayena voḍhṝn ‖ niṣade | sadeḥ saṃpadādilakṣaṇo bhāve kvip | svānaḥ | svamu svana dhvana śabde | bahulavacanāt kartari ghañ | karṣātvata ity antodāttatvaṃ | vayaḥ | viyanti rathena saha saṃgacchante iti viśabdena raśmaya ucyante | vī gatyādiṣu | auṇādika ipratyayaḥ | ṭilopaś ca | dvitīyārthe prathamā | avasāya | ṣo antakarmaṇi | ādeca ity ātvaṃ | samāse 'nañpūrva iti ktvo lyabādeśaḥ | vahīyasaḥ | vaha prāpaṇe | tṛjantād voḍhṛśabdāc chandasītīyasun | turiṣṭhemeyaḥsusu iti tṛlope kartavye chandasi bahulaṃ ‖*
+
+*(The print's* nārvā *Pada has* na arvā*; the print's* yāskaḥ *citation (Ni. 3-20) and* avasāyāśvān *citation (Ni. 10-12) are read as given [?];* voḍhṝn *at the end of the bhāṣya is the print's reading [?].)*
+
+"O Indra! *Yoniḥ* — the place called the altar — has been made *niṣade*, for your sitting, for your taking a seat: it has been prepared by us. Sit down at that *yoni*: come quickly and sit there. There is a simile for quick coming: *svāno nārvā* — *arva* is a name for a horse: as a horse, neighing (*svānaḥ*), quickly comes to its own place, so [you]. After doing what? *Vayaḥ* — loosening from the chariot the reins that serve to bind the horses, and, having released the horses yoked to the chariot, the steeds, *avasāya*. Here the Nirukta: '*avasāyāśvān* — the root *syati* with a preverb is in the sense of loosing' (*Ni.* 10-12). What kind of horses? *Prapitve* — when the time of the sacrifice has come; Yāska: '*prapitve*, *prāpte*, *abhīke*, *abhyakte*' (*Ni.* 3-20). *Doṣā* — by night — *vastoḥ* — by day — *vahīyasaḥ* — those who, with great regard, carry [you]."
+
+*(The grammatical tail is characterized, not fully read:* niṣada *(root* sad *with* kvip *in the action sense);* svāna *(root* svan/dhvan *'to sound', with* ghañ *in the agent by* bahulam*, with the accent on the last syllable);* vaya *(from* vi *'to go'; the reins are called* vayaḥ *because they go along with the chariot; the Uṇādi* i *and loss of* ṭi*);* avasāya *(root* ṣo *'to end', with* ā *for* o*, and* lyap *for* ktvā *by* samāse 'nañpūrve*);* vahīyas *(from* voḍhṛ *with* īyasun *in the Veda, and* tṛ *dropped).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*indra* — O Indra; *yoniḥ* — the place in the form of the sacrificial altar; *te* — for you; *niṣade* — to sit; *akāri* — has been made ready; *vayaḥ* — the reins; *vimucya* — loosening [from the chariot] (and); *prapitve* — when the time of the sacrifice has come; *doṣā* — by night; *vastoḥ* — by day; *vahīyasaḥ* — (carrying you with regard) carrying you; *aśvān* — the horses; *avasāya* — releasing [from the chariot]; *svānaḥ* — neighing; *arvā na* — like a horse (which goes quickly to its own place); *taṃ* — that [place]; *ā niṣīda* — come quickly and sit."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Indra, a place in the form of the sacrificial altar has been made ready for you to sit. Wakefully loosening from your chariot the reins of the horses, and releasing from the chariot also the horses that carry you, with regard, by day and by night, at the time of the sacrifice, come, like a horse that, as soon as it is released, neighs and goes quickly to its own place, and sit on the altar."
+
+### Page 397 (PDF 417)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 397.)*
+
+**English Translation (as printed)**
+
+> The alter [sic] has been raised, Indra, for your seat ; hasten to sit upon it, as a neighing horse (hastens to his stable) ; slackening the reins, and letting your coursers free, who, at the season of sacrifice bear the night and day.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 104.1 (Kannada)**
+
+"*Yoniḥ* — besides the well-known sense of the word *yoni*, 'place of origin', it has also the meanings 'place of residence', 'house', and so on. In the Nighaṇṭu it is read among the hundred and one names of water, beginning *ārṇaḥ, kṣodaḥ* (*Ni.* 1-[?]4 as read [?])."
+
+> वर्धन्तीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातम् ।
+> *vardhantīm āpaḥ panvā suśiśvim ṛtasya yonā garbhe sujātam |*
+> (*Ṛ. Saṃ.* 1-[?]4-4 as read [?])
+
+"— in this Ṛk, *yoni* means 'water', that is, 'the water that is the cause of sacrifice or of food'.
+
+> समिद्धः शुक्र दीदिह्यृतस्य योनिमासदः ससस्य योनि मासदः ।
+> *samiddhaḥ śukra dīdihy ṛtasya yonim āsadaḥ sasasya yoni māsadaḥ |*
+> (*Ṛ. Saṃ.* 3-[?]-4 as read [?])
+
+"— here *yoniṃ* is 'cause, means', that is, *svargasādhanam*, 'the means of heaven'.
+
+> दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै ।
+> *durokaśociḥ kratur na nityo jāyeva yonāvaraṃ viśvasmai |*
+> (*Ṛ. Saṃ.* 1-[?]6-3 as read [?])
+
+"— in this Ṛk, 'house' (*gṛha*); and —
+
+> यमीं द्वा सवयसा सपर्यतः समाने योना मिथुना समोकसा ।
+> *yam īṃ dvā savayasā saparyataḥ samāne yonā mithunā samokasā |*
+> (*Ṛ. Saṃ.* 1-[?]4-4 as read [?])
+
+"— and in many places like it, 'the seat, the place of origin of the fruit'; and so also —
+
+> वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये ।
+> *vediṣade priyadhāmāya sudyute dhāsim iva pra bharā yonim agnaye |*
+> (*Ṛ. Saṃ.* 1-[?]0-1 as read [?])
+
+"— in Ṛks like these, and in the Ṛk at hand, the place, an abode in the form of the altar, is meant. In this Ṛk, *yoniḥ niṣade akāri* — that is, a place in the form of the sacrificial altar, or a seat, has been made ready for you to sit on."
+
+---
+
+**Progress note:** Printed pp. 1–397 done (PDF 21–417): **Sūkta 103** is COMPLETE (8 Ṛks, printed pp. 355–394; ends 'The hundred-and-third Sūkta is concluded'). **Sūkta 104** (9 Ṛks, *yoniṣ ṭa indra*, Kutsa Āṅgirasa, Indra, Triṣṭubh; printed pp. 394–439) begun: heading, Sāyaṇa's introduction, Anuvāda, heading block and Rik 104.1 (Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, and the start of the Special Topics on *yoniḥ*) done to p. 397. Next: printed p. 398 (PDF 418): the Special Topics of 104.1 continue (*niṣade*, *svānaḥ*, *vayaḥ*, *avasāya*…), then grammar; then Rik 104.2. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
