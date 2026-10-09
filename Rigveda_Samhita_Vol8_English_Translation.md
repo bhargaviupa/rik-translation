@@ -16291,5 +16291,112 @@ By the fact that these names occur in the plural, they are understood to be diff
 — from the context seen in Ṛks such as these, the scholar *Zimmer* (printed in English letters) has held that the descendants of Vṛcīvat and the descendants of Turvaśa are two names of one and the same family. But here those two names" *(the passage continues on p. 606)*
 
 ---
+### Page 606 (PDF 626)
 
-**Progress note:** Printed pp. 1–605 done (PDF 21–625): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.7 complete (pp. 573–602); Rik 108.8 (printed pp. 602–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*yaduṣu*, *turvaśeṣu*; with Zimmer's view quoted at the foot of p. 605, mid-sentence). Next: printed p. 606 (PDF 626). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 606; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+"— do not indicate an identity of the two as names of one lineage. Therefore the two may be said to be names of different lineages with a close connection. And further —
+
+> श्रोणः सात्रा सह ईजे पाञ्चालो राजा तदेतद्गाथयाभिगीतं सात्रासहे यजमानेऽश्वमेधेन तौर्वशाः ।
+> *śroṇaḥ sātrā saha īje pāñcālo rājā tad etad gāthayābhigītaṃ sātrāsahe yajamāne 'śvamedhena taurvaśāḥ |* (*Śa. Brā.* 13-5-4-[?]4 as read [?]; the words as read from the print, "śroṇaḥ" and "sātrā" doubtful [?])
+
+— from this Brāhmaṇa sentence it is understood that the Turvaśas were friends of the Pāñcālas and helped them at the time of their sacrifices. In describing the war of the Turvaśas, it is hinted that they crossed the river Paruṣṇī (*Ṛ. Saṃ.* 7-1[?]-[?]); but from which direction is not exactly known; from other evidence, it may be said that they crossed from west to east. What relationship the Yadus had with them is not exactly stated either."
+
+**Druhyuṣu** — *droham pareṣām upadravam icchatsu manuṣyeṣu |* "Sāyaṇa explains it as 'a group [of people] who give trouble to others'. The name of this lineage too has occurred several times in the Ṛk-saṃhitā: in the Ṛk 7-18-6 cited above, and in other places, it is said to be a group that came under Indra's chastisement. And in
+
+> यदु द्रुह्यवि न्यनवि तुर्वशे यदौ हुवे वामथ मा गतम् ।
+> *yad ū druhyavy anavi turvaśe yadau huve vām atha mā gatam |* (*Ṛ. Saṃ.* 8-10-5 as read)
+
+— [Druhyu] is included in the group of the praisers (*stotṛ*).
+
+> यद्वा कृष्णौ मघवन्द्रुह्यावा जने यत्पूरौ कच्च वृष्ण्यम् ।
+> *yad vā kṛṣṇau maghavan druhyāvā jane yat pūrau kac ca vṛṣṇyam |* (*Ṛ. Saṃ.* 1-108-8)
+
+— from the description in this Ṛk it is understood [that it was] an exceedingly powerful group. According to some modern historians this was a tribe that dwelt in the north-west. In some Purāṇas a relation is shown between this lineage and the lineage of the Gāndhāras."
+
+**Anuṣu** — *jñātṛtvenuṣmāhṛṣu manuṣyeṣu |* "'*Anu* is the name of a lineage of wise men who perform the works of sacrifice', explains Sāyaṇa. Further:
+
+> नि गव्यवोऽनवो द्रुह्यवश्च षष्टिः शता सुषुपुः षट् सहस्रा ।
+> *ni gavyavo 'navo druhyavaś ca ṣaṣṭiḥ śatā suṣupuḥ ṣaṭ sahasrā |* (*Ṛ. Saṃ.* 7-18-1[?] as read [?]; the number as read, doubtful [?])
+
+— from this Ṛk it is understood that Anu was a king who came under Indra's chastisement." *(continued on p. 607)*
+
+---
+
+### Page 607 (PDF 627)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 607.)*
+
+> सीमा पुरू नृषूतो अस्यानवेऽसि प्रशर्ध तुर्वशे ।
+> *sīmā purū nṛṣūto asyānave 'si praśardha turvaśe |* (*Ṛ. Saṃ.* 8-4-1 as read)
+
+"— from this Ṛk it is understood that he belongs to the group of Indra's devotees. There are still other places where the words *anu* and *ānava* may be given a less commendable meaning. For example —
+
+> अनवस्ते रथमश्वाय तक्षन्त्वष्टा वज्रं पुरुहूत द्युमन्तम् ।
+> *anavas te ratham aśvāya takṣan tvaṣṭā vajraṃ puruhūta dyumantam |* (*Ṛ. Saṃ.* 5-31-4 as read)
+
+> आगन्म वृत्रहन्तममं ज्येष्ठमग्निमानवम् ।
+> *āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (*Ṛ. Saṃ.* 8-7[?]-[?] as read [?])
+
+— in Ṛks such as these some scholars explain the words *anava* and *ānava* as belonging to the race of *Anu*; but Sāyaṇa explains them as 'belonging to men'. Since the word *anavaḥ* is read among the names of men (*Ni.* 2-[?]), this meaning is also correct. Therefore, from these examples the matter concerning Anu is not clearly known."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 108.8)** *(grammar pages, pp. 607–608, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Yaduṣu* (root *yamu uparame*; *niyamyante indriyāṇi ebhir iti yadavaḥ*; by *yamer dur ca* the suffix *ku* [*u*, Uṇ.] and the augment *duk* for the root; the loss of the nasal *m* of the root by *anudāttopadeśavanatitanotyādīnām…*, Pā. Sū. 6-4-37 as read [?]; locative plural). *Turvaśeṣu* (root *turvī hiṃsāyām*; the Uṇādi suffix *aśa*; the form *turvaśa*; the initial acute by the suffix accent; since the suffix is *nit*, the *ādyudātta* [?]; locative plural). *Druhyuṣu* (root *druha jighāṃsāyām*; by *saṃpadādibhyaḥ kvip*, Vārttika to Pā. Sū. 3-3-108 as read [?], *kvip* in the abstract sense; 'they wish *druha* [harm] to others': *druhyanti*; by *chandasi parecchāyām*…, *kyac* even in the sense of the desire of another, and by *kyāc chandasi*, Pā. Sū. 3-2-170 as read [?], the suffix *u* after the root ending in *kyac*; loss of *a* by *ato lopaḥ*, Pā. Sū. 6-4-48 as read [?]; the form *druhyu*; the final acute by the suffix accent; locative plural). *Anuṣu* (root *ana prāṇane*; since the Uṇādi suffix is read with *bahulam*, the suffix *u* given by *āṇaś ca*, Uṇ. 1-[?]; also applies to this; *nit*, as continued from before, the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]) *(continued on p. 608)*
+
+---
+
+### Page 608 (PDF 628)
+
+*(Running head: left 608; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.8 concludes (noted briefly). *Anuṣu* [concluded]: "since the *nit* continues from the earlier rule, by *ñnityādir nityam* the initial acute." *Pūruṣu* (root *pūrī āpyāyane*; *pūryante iti pūravaḥ*; the Uṇādi suffix *u*; the word *pūru* has the final acute by the accent of the suffix). *Sthaḥ* (root *as bhuvi*, *adādi*; *laṭ*, second person dual, *thas*; loss of the *a* of the root by *śnasor allopaḥ*, Pā. Sū. 6-4-111 as read [?]; since the word *yad* is connected, the *nighāta* is prohibited by *nipātair yadyadihantakuvidnetracet*…, Pā. Sū. 8-1-30 as read [?]; so by the accent of the suffix the final [initial] acute). The Rik is closed with *‖ 8 ‖* and a rule of dashes.
+
+## Rik 108.9 — printed pp. 608–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.9)**
+
+> यदिन्द्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यामुत स्थः ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ ९ ॥
+
+*yad indrāgnī avamasyāṃ pṛthivyāṃ madhyamasyāṃ paramasyām uta sthaḥ | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 9 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.9)**
+
+> यत् । इन्द्राग्नी इति । अवमस्याम् । पृथिव्याम् । मध्यमस्याम् । परमस्याम् । उत । स्थः ।
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ ९ ॥
+
+*yat | indrāgnī iti | avamasyām | pṛthivyām | madhyamasyām | paramasyām | uta | sthaḥ | ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 9 ‖*
+
+---
+
+### Page 609 (PDF 629)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 609. At the foot, the printer's signature "39 / VOLUME 8" [sic: as printed, noted only].)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.9)**
+
+> हे इन्द्राग्नी अवमस्यां पृथिव्यां सन्निकृष्टायामस्यां भूम्यां यद्यदि स्थः । वर्तमानौ भवथः । यदि वा मध्यमस्यां पृथिव्यामन्तरिक्षलोके । अत्र पृथिवीशब्दस्त्रिष्वपि लोकेषु वर्तते । यथा "यो द्वितीयस्यां तृतीयस्यां पृथिव्यामस्याभ्युपा नाम्नेति" । उतापि च परमस्यामुत्कृष्टायां दूरे वर्तमानायां पृथिव्यां द्युलोके यदि वा वर्तेथे । अतः सर्वस्मात्स्थानात् हे वृषणावागच्छतं । आगमनानन्तरं सुतं सोमं पिबतम् ॥ अवमस्याम् । अवमशब्दादुत्तरस्य ङ्येर्व्यत्ययेन स्याडागमः । एवमुत्तरत्रापि ॥
+> *he indrāgnī avamasyāṃ pṛthivyāṃ sannikṛṣṭāyām asyāṃ bhūmyāṃ yad yadi sthaḥ | vartamānau bhavathaḥ | yadi vā madhyamasyāṃ pṛthivyām antarikṣaloke | atra pṛthivīśabdas triṣv api lokeṣu vartate | yathā "yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyām asyābhyupā nāmneti" | utāpi ca paramasyām utkṛṣṭāyāṃ dūre vartamānāyāṃ pṛthivyāṃ dyuloke yadi vā vartethe | ataḥ sarvasmāt sthānāt he vṛṣaṇāv āgacchataṃ | āgamanānantaraṃ sutaṃ somaṃ pibatam ‖ avamasyām | avamaśabdād uttarasya ṅyer vyatyayena syāḍāgamaḥ | evam uttaratrāpi ‖* *(Sanskrit as read; the quoted words "yo dvitīyasyāṃ tṛtīyasyāṃ pṛthivyām asyābhyupā nāmneti" are clotted and given as read, with doubt [?]; the tail is short and given.)*
+
+"O Indra and Agni! if you are (*sthaḥ*, you abide) in the *avamasyām pṛthivyām*, in this nearest (*sannikṛṣṭa*) earth; or in the *madhyamasyām pṛthivyām*, the middle earth, the mid-region (*antarikṣa*) world. Here the word *pṛthivī* is used for all the three worlds, as in 'he who [is] in the second and third earth…' [?]. And further, if you are in the *paramasyām*, the highest, the distant (*dūre vartamānā*) earth, the heavenly world: from all these places, O showerers (*vṛṣaṇau*), come; after coming, drink the pressed Soma. *Avamasyām*: after the word *avama*, for the ending *ṅi* the augment *syāṭ* by *vyatyaya*; likewise in what follows."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.9; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *yat* — perhaps; *avamasyām* — in the nearest [lower]; *pṛthivyām* — in the world of the earth; *sthaḥ* — you are; (or) *madhyamasyām* — in the middle world, the mid-region; *uta* — or (also); *paramasyām* — in the distant, most excellent, heavenly world; *ataḥ pari* — from among all those regions, from wherever you are; *vṛṣaṇau* — O Indra and Agni, who grant the desired objects; *ā hi yātam* — certainly graciously come; *atha* — after coming; *sutasya* — pressed; *somasya* — Soma-juice (your portion); *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who grant the desired objects: whether you are in the lowest, the nearest earth-world, or in the mid-region, or whether you are in the distant and most excellent heavenly world, from among all those regions, wherever you are, come to our sacrifice, and, after coming, drink your portion in our pressed Soma-juice.
+
+**English Translation (as printed in the source)**
+
+"Whether, Indra and Agni, you are in the lower, the central, or the upper region of the world, showerers of benefits, come hither from wherever you may be, and drink of the effused libation."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.9)**
+
+**Avamasyāṃ pṛthivyām** — *sannikṛṣṭāyām asyāṃ bhūmyām |* "'in this nearest earth': the word *avama* is given the sense of 'near', 'close'. This word is read among the *aṅkita-nāmāni* [?] (*Ni.* 3-[?]); the word *avama*, with the sense 'youngest', or 'at the bottom, lower' (*keḷamaṭṭada*), 'situated below', is also…" *(continued on p. 610)*
+
+---
+
+**Progress note:** Printed pp. 1–609 done (PDF 21–629): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.8 complete (pp. 573–608); Rik 108.9 (printed pp. 608–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun at the foot of p. 609 (*avamasyāṃ pṛthivyām*, mid-sentence). Next: printed p. 610 (PDF 630). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
