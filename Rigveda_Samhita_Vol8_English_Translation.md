@@ -12925,5 +12925,100 @@ Grammar pages, noted briefly. *Asmi* (root *as bhuvi*; *laṭ*, first person sin
 O Indra, as co-wives crowd round their husband on all sides and torment him, the side-stones of this well crowd round me and press me on every side. O Indra of manifold deeds, mental pains eat me, your devotee, in many ways, as a rat gnaws the thread laid in the weaver's loom, or as it licks its own tail dipped in ghee and the like. O Heaven and Earth, know well this sorrow of mine, hear my hymn and lift me up out of the sorrow.
 
 ---
+### Page 478 (PDF 498)
 
-**Progress note:** Printed pp. 1–477 done (PDF 21–497): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.7 complete (pp. 441–476); Rik 105.8 (printed pp. 476–[?]; the Mahābṛhatī Yavamadhyā Ṛk): Saṃhitā, Pada, bhāṣya (with its tail), Pratipadārtha and Bhāvārtha done (pp. 476–477). Next: printed p. 478 (PDF 498): the printed English, Special Topics and grammar of 105.8, then Rik 105.9. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 478; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**English Translation (Rik 105.8; as printed in the source)**
+
+"The ribs (of the well close) round me, like the rival wives (of one husband) ; cares consume me, Satakratu, although your worshipper, as a rat (gnaws a weaver's) threads. Heaven and earth, be conscious of this (my affliction)"
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.8)**
+
+The Nirukta-author has given this explanation of this Ṛk:
+
+> संतपन्ति मामभितः सपत्न्य इवेमाः पर्शवः कूपपर्शवो मूषिका इवास्माकानि सूत्राणि व्यदन्ति । स्वाङ्गाभिधानं वा स्याच्छिश्नानि व्यदन्तीति वा । संतपन्ति माध्यः स्तोतारं ते शतक्रतो । वित्तं मे अस्य रोदसी इति जानीतं मेऽस्य द्यावापृथिव्याविति । त्रितं कूपेऽवहितमेतत्सूक्तं प्रतिबभौ [?] । तत्र ब्रह्मेति — हासमिश्रमृच्यश्रं [?] गाथामिश्रं भवति । त्रितस्तीर्णतमा मेधयो बभूव । अपि वा संख्यानामैवाभिप्रेतं स्यादेकतो द्वितस्त्रित इति त्रयो बभूवुः ।
+> *saṃtapanti mām abhitaḥ sapatnya ivemāḥ parśavaḥ kūpaparśavo mūṣikā ivāsmākāni sūtrāṇi vyadanti | svāṅgābhidhānaṃ vā syāc chiśnāni vyadantīti vā | saṃtapanti mādhyaḥ stotāraṃ te śatakrato | vittaṃ me asya rodasī iti jānītaṃ me 'sya dyāvāpṛthivyāv iti | tritaṃ kūpe 'vahitam etat sūktaṃ pratibabhau [?] | tatra brahmeti — hāsamiśram ṛcyaśraṃ [?] gāthāmiśraṃ bhavati | tritas tīrṇatamā medhayo babhūva | api vā saṃkhyānām aivābhipretaṃ syād ekato dvitas trita iti trayo babhūvuḥ |* (*Ni.* 4-6 as read [?]; the passage is crowded and several words are given with doubt [?], not completed from memory.)
+
+"As co-wives crowd round and press the husband on all sides, and as mice gnaw the thread soaked in oil, so the bricks of the walls of this well crowd round and torment me on all sides. Or else, for the word *śiśna* the sense could be 'one's own limb', 'the *śiśna* of the mice' — since mice gnaw even that — so my mental pains seize me and eat me. O Śatakratu, mental pains afflict me, your praiser; O Heaven and Earth, know this of mine — thus the Ṛk is explained, and after this the special topics are given. This Sūkta was seen by Trita who had fallen in the well. In connection with this there is an *itihāsa* [story] that contains verses (*gāthā*) and Ṛks. Trita is the foremost among the wise; or perhaps, the word may be a numeral that denotes the last of the three — Ekata, Dvita and Trita — who were produced one after another: so the Nirukta-author has explained. These Ṛks indicate just this intention:" *(Kannada.)*
+
+> सं मा तपन्त्यभितः सपत्नीरिव पर्शवः ।
+> नि बाधते अमतिर्नग्नता जसुर्वेर्न वेवीयते मतिः ॥
+> मूषो न शिश्ना व्यदन्ति माध्यः स्तोतारं ते शतक्रतो ।
+> सकृत्सु नो मघवन्निन्द्र मृळयाधा पितेव नो भव ॥
+> *saṃ mā tapanty abhitaḥ sapatnīr iva parśavaḥ | ni bādhate amatir nagnatā jasur ver na veveeyate matiḥ ‖ mūṣo na śiśnā vyadanti mādhyaḥ stotāraṃ te śatakrato | sakṛt su no maghavann indra mṛḷayādhā piteva no bhava ‖* (*Ṛ. Saṃ.* 10-33-[?]-[?] as read [?]; the words "veveeyate" and the middle of the first pair are as read from the print, not completed from memory [?])
+
+---
+
+### Page 479 (PDF 499)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 479.)*
+
+**Parśavaḥ** — *parśuḥ pārśvasthānīyayoḥ kūpabhittyoḥ |* "the walls of the well, which are like a rib-cage (*pārśvāsthīni*: the bones of the side) [or, as Skandasvāmin has explained, bricks (*iṭṭige*) of the well-wall, of the shape of ribs], both in the Ṛk at hand and in the Ṛk 10-3[?]-[?] cited above. The word *parśu* is used also in other Ṛks, with various meanings:
+
+> शतमहं तिरिन्दिरे सहस्रं पर्शावा ददे ।
+> *śatam ahaṃ tirindire sahasraṃ parśāv ā dade |* (*Ṛ. Saṃ.* 8-6-46 as read [?])
+
+— in this Ṛk *Parśu* is the name of a man; and in
+
+> पर्शुर्ह नाम मानवी साकं ससूव विंशतिम् ।
+> *parśur ha nāma mānavī sākaṃ sasūva viṃśatim |* (*Ṛ. Saṃ.* 10-86-23 as read [?])
+
+— *parśu* is the name of a woman."
+
+**Śatakrato** — "the word *kratu* is read among the names of *karma* (*Ni.* 2-1 as read [?]) and also among the names of *prajñā* (*Ni.* 3-9 as read [?]); so it means 'one who has a hundred (many) actions' or 'one who has many kinds of wisdom'."
+
+**Mūṣaḥ** — *mūṣikāḥ punar muṣṇāteḥ | mūṣo 'py etasmād eva |* (*Ni.* 4-3 as read [?]). "Both the words *mūṣikā* and *mūṣa* are derived from the root *muṣ*, which gives the sense 'to steal': that is the purport."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.8)** *(grammar pages, pp. 479–480, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Tapanti* (root *tapa santāpe*; *laṭ*, third person plural; *nighāta*). *Sapatnīḥ* (*samānaḥ ekaḥ patir yāsāṃ tāḥ sapatnyaḥ*; the substitution of *n*-ending for *pati* by *nityaṃ sapatnyādiṣu*, Pā. Sū. 4-1-35 as read [?]; the feminine *ṅīp* because of the *n*-ending; *sapatnī*; before *jas*, the lengthening to the earlier vowel is forbidden by *dīrghāj jasi ca*, but allowed in the Veda by *vā chandasi*, Pā. Sū. 6-1-106 as read [?]; *ru*-visarga). *Mūṣaḥ* (root *muṣa steye*; *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; since *kvip* follows, the Vedic lengthening of the root vowel; nominative plural; on this, Yāska has made the derivation: *mūṣo mūṣikā ity arthaḥ | mūṣikāḥ punar muṣṇāteḥ | mūṣo 'py etasmād eva*, *Ni.* 4-3 [?]) *(continued on p. 480)*
+
+---
+
+### Page 480 (PDF 500)
+
+*(Running head: left 480; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+— "*mūṣa*, that is, *mūṣikā*, mice: the purport is that these two words are formed from the root *muṣa*." *Śiśnā* (root *śnā śauce*, *adādi*; the suffix *ka* by the statement *ghañarthe kavidhānaṃ sthāsnāpāvyadhihaniyudhyartham*, 'in the sense of *ghañ*, the suffix *ka* is prescribed [for roots] *sthā*, *snā*, *pā*, *vyadhi*, *hani*, *yudh*' [as read]; in the Veda *s* → *ś* by *varṇavyatyaya*; the doubling of the root before *ka* by the statement *kṛñādīnāṃ ke dve bhavata iti vaktavyam*, Pā. Sū. 6-1-[?]-1 as read [?]; *i* in the reduplicate by *bahulaṃ chandasi*, Pā. Sū. 7-4-78 as read [?]; the neuter plural *śi*, then lengthening and so on; the loss of *śi* by *śeś chandasi bahulam*, Pā. Sū. 6-1-70 as read [?]). *Adanti* (root *ada bhakṣaṇe*; *laṭ*, third person plural; *nighāta*). *Stotāram* (root *ṣṭuñ stutau*; the suffix *tṛc* in the active sense; the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]; before *am*, *guṇa* of *ṛ* by *ṛto 'ñ sarvanāmasthānayoḥ*, Pā. Sū. 7-3-110 as read [?], with *raparatva*; the lengthening of the penult by *āpṛn tṛc…*, Pā. Sū. 6-4-11 as read [?]). The Rik is closed with *‖ 8 ‖* and an ornament.
+
+## Rik 105.9 — printed pp. 480–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.9)**
+
+> अमी ये सप्त रश्मयस्तत्रा मे नाभिरातता ।
+> त्रितस्तद्वेदाप्त्यः स जामित्वाय रेभति वित्तं मे अस्य रोदसी ॥ ९ ॥
+
+*amī ye sapta raśmayas tatrā me nābhir ātatā | tritas tad vedāptyaḥ sa jāmitvāya rebhati vittaṃ me asya rodasī ‖ 9 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 481 (PDF 501)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 481. At the foot, the printer's signature "31 / VOLUME 6" [sic: as printed, noted only].)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.9)**
+
+> अमी इति । ये । सप्त । रश्मयः । तत्र । मे । नाभिः । आऽतता ।
+> त्रितः । तत् । वेद । आप्त्यः । सः । जामिऽत्वाय । रेभति । वित्तम् । मे । अस्य । रोदसी इति ॥ ९ ॥
+
+*amī iti | ye | sapta | raśmayaḥ | tatra | me | nābhiḥ | ā-tatā | tritaḥ | tat | veda | āptyaḥ | saḥ | jāmi-tvāya | rebhati | vittam | me | asya | rodasī iti ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.9)**
+
+> येऽमी द्युलोके वर्तमानाः सप्तसंख्याका रश्मयः सूर्यस्य किरणाः सन्ति तत्र तेषु सूर्यरश्मिष्वध्यात्मं सप्तप्राणरूपेण वर्तमानेषु मे मदीया नाभिरातता संबद्धा । ऋषिरात्मानमेव परोक्षतया निर्दिशति । त्रितस्तीर्णतमस्तिरस्कृताज्ञान आप्त्योऽपां पुत्र ऋषिस्तत्पूर्वोक्तं वृत्तान्तं वेद । जानाति । नान्यः । स जानन्नृषिर्जामित्वाय कूपान्निर्गन्तुं [?] तत्त्वाय [?] रेभति । तान् रश्मीन् स्तौति । अस्यत्पूर्ववत् ॥ आतता । तनोतेः कर्मणि निष्ठा । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । जामित्वाय । जमतिर्गतिकर्मा । जमति गच्छतीति जामिः । औणादिक इण्प्रत्ययः । तस्य भावस्तत्त्वम् । रेभति । रेभृ शब्दे । भ्वादिकः ॥
+> *ye 'mī dyuloke vartamānāḥ saptasaṃkhyākā raśmayaḥ sūryasya kiraṇāḥ santi tatra teṣu sūryaraśmiṣv adhyātmaṃ saptaprāṇarūpeṇa vartamāneṣu me madīyā nābhir ātatā saṃbaddhā | ṛṣir ātmānam eva parokṣatayā nirdiśati | tritas tīrṇatamas tiraskṛtājñāna āptyo 'pāṃ putra ṛṣis tat pūrvoktaṃ vṛttāntaṃ veda | jānāti | nānyaḥ | sa jānann ṛṣir jāmitvāya kūpān nirgantuṃ [?] tattvāya [?] rebhati | tān raśmīn stauti | asyatpūrvavat ‖ ātatā | tanoteḥ karmaṇi niṣṭhā | anudāttopadeśety ādinānunāsikalopaḥ | gatir anantara iti gateḥ prakṛtisvaratvam | jāmitvāya | jamatir gatikarmā | jamati gacchatīti jāmiḥ | auṇādika iṇpratyayaḥ | tasya bhāvas tattvam | rebhati | rebhṛ śabde | bhvādikaḥ ‖* *(Sanskrit as read; the words "tattvāya" after "nirgantuṃ" is clotted and doubtful [?]; the grammatical tail is short and is given.)*
+
+"Those seven rays of the sun, which are in the heavenly world: in them, in these sun-rays — which, in relation to the self, are present in the form of the seven vital breaths (*prāṇa*) — my navel (*nābhi*) is stretched (*ātatā*), linked. The ṛṣi indicates himself in the third person. Trita, who has crossed the darkness, whose ignorance has been set aside, son of the waters, the ṛṣi, knows (*veda*) that previously-told account; no one else. That ṛṣi, knowing, praises (*rebhati*) those rays for the sake of *jāmitva* — [to come out of the well] [?]. [The rest] as before. *Ātatā*: the *niṣṭhā* [suffix *kta*] of the root *tan* in the passive; the loss of the nasal by *anudāttopadeśa…*; the accent of the prior member by *gatir anantaraḥ*. *Jāmitvāya*: the root *jam* in the sense of going: *jāmi* = 'one who goes'; the Uṇādi suffix *i*; its state is *jāmitva*. *Rebhati*: root *rebhṛ* in the sense of sound; *bhvādi*."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.9; Kannada; English)**
+
+*Sapta* — seven in number; *ye amī raśmayaḥ* — those rays of the sun; *tatra* — in these (that are in the body in the form of the seven *prāṇa*s); *me* — my; *nābhiḥ* — navel; *ātatā* — has broadly spread; *tritaḥ* — the one who has crossed over ignorance; *āptyaḥ* — the son of the waters, Trita; *tat* — that (concerning him); *veda* — knows; *saḥ* — this knowing ṛṣi; *jāmitvāya* — in order to come out (from the well); *rebhati* — (to these rays) offers praise; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+In these seven rays of the sun, which are in the form of the seven vital breaths, my navel has spread widely. Trita, who has crossed the darkness of ignorance and is the son of the waters, has known this earlier story of his. This ṛṣi of illumined knowledge, in order to come out of the well, [praises] these rays, which are his own kin *(continued on p. 482)*
+
+---
+
+**Progress note:** Printed pp. 1–481 done (PDF 21–501): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.8 complete (pp. 441–480); Rik 105.9 (printed pp. 480–[?]): Saṃhitā, Pada, bhāṣya (with its tail) and Pratipadārtha done; the Bhāvārtha is begun at the foot of p. 481 (mid-sentence: 'these rays, which are his own kin…'). Next: printed p. 482 (PDF 502). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
