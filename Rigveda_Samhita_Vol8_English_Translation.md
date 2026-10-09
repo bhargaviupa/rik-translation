@@ -18267,5 +18267,106 @@ In this Ṛk the sense is 'pervading'; and in
 *(the passage continues on p. 681)*
 
 ---
+### Page 681 (PDF 701)
 
-**Progress note:** Printed pp. 1–680 done (PDF 21–700): Sūkta 110: Riks 110.1–110.4 complete (pp. 657–678); Rik 110.5 (printed pp. 679–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English done; Special Topics begun on *jehamānam*, ending mid-passage at the foot of p. 680. Next: printed p. 681 (PDF 701). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 681.)*
+
+*(The Special Topic on* jehamānam *continues:)* "…in [a Ṛk] where it is in the sense of mere going, that is, 'going towards the gods':
+
+> ये तातृषुर्देवत्रा जेहमाना होत्राविदः स्तोमतष्टासो अर्कैः ।
+> *ye tātṛṣur devatrā jehamānā hotrāvidaḥ stomataṣṭāso arkaiḥ |*
+> (*Ṛ.* 10-[?]-[?] as read [?])
+> *(Sanskrit as read from the print and doubtful [?]; no gloss attempted.)*
+
+In these places a further sense (*prāstāḥ* [?], as read) also arises. In the Ṛk before us it points to their eagerness [for the oblation]; therefore, it is an epithet of the *camasa*: 'ever rising up in the work of oblation'."
+
+**उपमं नाधमानाः — Upamaṃ nādhamānāḥ.** *upamaṃ sarveṣām upamānabhūtaṃ [?] praśastaṃ somalakṣaṇam annaṃ yācamānāḥ* — Sāyaṇa has given the meaning 'a model for all', 'best of all': food that is excellent and of the nature of Soma. Skandasvāmi explains *upama* differently:
+
+> उपम इत्यन्तिकनाम । नाधिर्याञ्चार्थः । सन्निकृष्टत्वं प्रार्थयमानाः । देवेष्वन्तर्गतिमिच्छन्त इत्यर्थः ।
+> *upama ity antikanāma | nādhir yācñārthaḥ | sannikṛṣṭatvaṃ prārthayamānāḥ | deveṣv antargatim icchanta ity arthaḥ |*
+> "*Upama* is a name for 'near'; *nādh* has the sense of begging: praying for nearness; the sense is, 'wishing to be included among the gods'."
+
+Since the word *upama* is read among the names of 'near' (*antika*), he gives *upama* the sense of 'nearness': asking for nearness to the gods, or asking to be included among the gods.
+
+**तेजनेन — Tejanena.** *tīkṣṇena śastreṇa camasacatuṣṭayarūpeṇa* — "By a sharp weapon, in the form of the four cups": Sāyaṇa has taken the word *tejanena* as an epithet of the weapon in the form of four *camasa*s. Skandasvāmi too gives this meaning first:
+
+> तेजनेन । तिज निशाने । निशितेन व्यधनेन । तीक्ष्णेन शस्त्रेण ।
+> *tejanena | tija niśāne | niśitena vyadhanena | tīkṣṇena śastreṇa |*
+> "*Tejanena*: root *tija*, 'to sharpen': with a sharpened piercing [tool]; with a sharp weapon."
+
+and afterwards:
+
+> तेजनशब्दः तेजः पर्यायः । स्वेन तेजसा ।
+> *tejanaśabdaḥ tejaḥ paryāyaḥ | svena tejasā |*
+> "The word *tejana* is a synonym of *tejas*: with their own splendour."
+
+— and since *tejana* is a synonym of *tejas*, he gives also the second meaning, 'with their own splendour'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.5)** *(grammar pages, pp. 681–682, noted briefly; sūtra numbers only as read and doubtful [?])*
+
+*Mamuḥ*: root *māṅ* 'to measure; to sound'; parasmaipada by *vyatyayo bahulam* (*pā.* 3-1-85); the perfect third-plural *us* by *parasmaipadānām…* (*pā.* 3-4-82 as read [?]); reduplication; loss of the root's *ā* by *āto lopa iṭi ca* (*pā.* 6-4-64); shortening by *hrasvaḥ* (*pā.* 7-4-59 as read [?]); *nighāta* accent, since it follows a finite verb. *Tejanena*: root *tija niśāne*, 'to sharpen'; suffix *lyuṭ*; *ana* for *yu* by *yuvor anākau* (*pā.* 7-1-1); *guṇa* of the light vowel; by *liti* (*pā.* 6-1-193 as read [?]) the accent falls on the syllable before the suffix; the instrumental singular; by *vyatyaya* the rule *… 'pragṛhyasyānunāsikaḥ* (*pā.* 8-4-[?], as read [?]) gives nasalization to the final *a*; *īṣā* is of the *akṣādi* class, so the *prakṛtibhāva*.
+
+---
+
+### Page 682 (PDF 702)
+
+*(Running head: left 682; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(Grammar, continued; short.)* *Jehamānam*: root *vehṛ jehṛ bāhṛ prayatne*; *bhvādi*; *ātmanepada* by the *anudātta-ṅ/it* marker; *śānac* in the sense of *laṭ*, *śap* as the conjugation sign; *muk* to the stem by *āne muk* (*pā.* 7-2-82 as read [?]); *śap* is *pit*, hence *anudātta*; since the *sārvadhātuka* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (*pā.* 6-1-186 as read [?]) the root-accent remains; the accusative singular. *Upastutāḥ*: root *ṣṭuñ stutau*; *niṣṭhā* (*pā.* 3-2-102 as read [?]) gives *kta*; *gatir anantaraḥ* (*pā.* 6-2-49 as read [?]) leaves the prefix (*upa*) its own accent. *Upamam*: root *māṅ māne*; *ātaś copasarge* (*pā.* 3-3-106 as read [?]) gives *ka*; being *kit*, *āto lopa iṭi ca* (*pā.* 6-4-64) drops the root's *ā*; the suffix-accent; *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) gives the prior-member's own accent. *Nādhamānāḥ*: root *nādhṛ yācñāyām*; *śānac* in the sense of *laṭ*; *muk*; the root-accent remains. *Amartyeṣu*: *na martyāḥ amartyāḥ*, loc. pl.; *tatpuruṣe tulyārthatṛtīya…* (*pā.* 6-2-2 as read [?]): the prior member, an indeclinable, keeps its own accent. *Icchamānāḥ*: root *iṣu icchāyām*; *ātmanepada* by *vyatyayo bahulam* (*pā.* 3-1-85); *śānac* in the sense of *laṭ*; *tudādibhyaḥ śaḥ* (*pā.* 3-1-77 as read [?]); *iṣugamiyamāṃ chaḥ* (*pā.* 7-3-77 as read [?]) for the root's final; the conjugation-sign's accent remains.
+
+*(An ornamental rule —  :o: — closes Ṛk 110.5 and its commentary.)*
+
+---
+
+### Page 683 (PDF 703)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 683.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.6)** *(accent-marks not reproduced)*
+
+> आ मनीषामन्तरिक्षस्य नृभ्यः स्रुचेव घृतं जुहवाम विद्मना ।
+> तरणित्वा ये पितुरस्य सश्चिर ऋभवो वाजमरुहन्दिवो रजः ॥ ६ ॥
+> *ā manīṣām antarikṣasya nṛbhyaḥ srucēva ghṛtaṃ juhavāma vidmanā |*
+> *taraṇitvā ye pitur asya saścira ṛbhavo vājam aruhan divo rajaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.6)**
+
+> आ । मनीषाम् । अन्तरिक्षस्य । नृऽभ्यः । स्रुचाऽइव । घृतम् । जुहवाम । विद्मना । तरणिऽत्वा । ये । पितुः । अस्य । सश्चिरे । ऋभवः । वाजम् । अरुहन् । दिवः । रजः ॥ ६ ॥
+> *ā | manīṣām | antarikṣasya | nṛ-bhyaḥ | srucā-iva | ghṛtam | juhavāma | vidmanā | taraṇi-tvā | ye | pituḥ | asya | saścire | ṛbhavaḥ | vājam | aruhan | divaḥ | rajaḥ ‖ 6 ‖*
+
+*(The Saṃhitā is printed* srucēva *as* srucā-iva *in the Pada; recorded as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.6)**
+
+> अन्तरिक्षस्यान्तरिक्षलोकस्य मध्यमस्थानस्य सम्बन्धिभ्यो नृभ्यो यज्ञस्य नेतृभ्य ऋभुभ्यः । ऋभवो हि यज्ञस्य नेतारः । तेन हि देवत्वं प्राप्ताः । यद्वा । अन्तरिक्षस्य लोकस्य नेतृभ्यः । मध्यमे स्थाने ह्येते पठ्यन्ते । तादर्थ्ये चतुर्थी । स्रुचेव यथा स्रुचा जुह्वा घृतं क्षरणशीलाज्योपेतं हविरा जुहवाम । मर्यादायामाकारः । यथाशास्त्रं प्रयच्छामः । एवमेव मनीषां स्तुतिं विद्मना वेदनेन ज्ञानेन कुर्म इति शेषः । अपि च ये ऋभवः पितुः सर्वस्य जगतः पालकस्यास्य सूर्यस्य तरणित्वा तरणित्वानि तरणकौशलानि सश्चिरे सूर्यरश्मिभूताः सन्तः प्रापुः । तदुक्तम् । आदित्यरश्मयोऽप्यृभव उच्यन्त इति । ते ऋभवो दिवो रजः । रजःशब्दो लोकवाची । द्योतमानस्य स्वर्गाख्यस्य लोकस्य सम्बन्धिनं वाजं सोमलक्षणमन्नमरुहन् । योगदानादिभिः कर्मभिरन्यैश्च देवोक्तैश्चमसचतुष्टयकरणादिकैः प्राप्नुवन् ॥
+> *antarikṣasyāntarikṣalokasya madhyamasthānasya sambandhibhyo nṛbhyo yajñasya netṛbhya ṛbhubhyaḥ | ṛbhavo hi yajñasya netāraḥ | tena hi devatvaṃ prāptāḥ | yadvā | antarikṣasya lokasya netṛbhyaḥ | madhyame sthāne hy ete paṭhyante | tādarthye caturthī | srucēva yathā srucā juhvā ghṛtaṃ kṣaraṇaśīlājyopetaṃ havir ā juhavāma | maryādāyām ākāraḥ | yathāśāstraṃ prayacchāmaḥ | evam eva manīṣāṃ stutiṃ vidmanā vedanena jñānena kurma iti śeṣaḥ | api ca ye ṛbhavaḥ pituḥ sarvasya jagataḥ pālakasyāsya sūryasya taraṇitvā taraṇitvāni taraṇakauśalāni saścire sūryaraśmibhūtāḥ santaḥ prāpuḥ | tad uktam | ādityaraśmayo 'py ṛbhava ucyanta iti | te ṛbhavo divo rajaḥ | rajaḥśabdo lokavācī | dyotamānasya svargākhyasya lokasya sambandhinaṃ vājaṃ somalakṣaṇam annam aruhan | yogadānādibhiḥ karmabhir anyaiś ca devoktaiś camasacatuṣṭayakaraṇādikaiḥ prāpnuvan ‖*
+
+"*Antarikṣasya*: for the leaders (*nṛbhyaḥ*) of the sacrifice, belonging to the middle-region, the world of the atmosphere — for the Ṛbhus; for the Ṛbhus are leaders of the sacrifice, and by that they attained divinity. Or else: for the leaders of the world of the atmosphere, since these [Ṛbhus] are read [of] in the middle region. The dative is in the sense of 'for the sake of'. *Srucā iva*: as with the ladle (*juhū*) *ghṛtam*, the oblation provided with flowing ghee, *ā juhavāma*, we offer; the prefix *ā* is in the sense of limit [= as is due]: we present it according to the rule. In just this way we make *manīṣām*, praise, with *vidmanā*, with knowing, with knowledge: so much is to be supplied. And further, those Ṛbhus who obtained (*saścire*), as being rays of the sun, the *taraṇitvā* — the swiftnesses, the skills in crossing — of this sun, the protector of the whole world, 'the father' (*pituḥ*): it is said, 'the rays of the Āditya too are called Ṛbhus.' Those Ṛbhus *divo rajaḥ*: the word *rajas* denotes a world; they mounted (*aruhan*) the food of the nature of Soma, belonging to the shining world called heaven — they obtained it by works such as *yoga* and giving, and by the others enjoined by the gods, such as the making of the four cups."
+
+*Grammatical tail (characterized; short, with doubtful stretches):* *srucēva*: the loss of the case-ending accent, *sāveka-c*[?], so that the case-ending takes the *udātta*. *Juhavāma*: root *hu dānādanayoḥ*; *loṭ*; the augment *āṭ* for the first person (*loṭ… uttamasya pic ca* [?]). *Vidmanā*: root *vida jñāne*; the Uṇādi suffix *mani* [?]; … [?] the non-loss of *a* by *na saṃyogād vamantāt* [?] (continued on p. 684). *Taraṇitvā*: root *tṝ plavanataraṇayoḥ*; the Uṇādi-suffix [?]; its abstract-noun *taraṇitvam*; *śīrṣacchandasi bahulam* — loss of *śī* [?]. *Saścire*: root *saśc* [?] 'to go'; by *vyatyaya*, *ātmanepada*; in the context of reduplication, the Vedic option [?] gives non-reduplication; the ending *ire*. *Aruhan*: root *ruha bījajanmani prādurbhāve ca*; *luṅ*; the Vedic *kṛmṛdṛruhibhyaś chandasi* — *aṅ* for *cli*. *Divaḥ*: the accent of the case-ending by *ūḍidam…* [?]. *Rajaḥ*: root *rañja rāge*; 'in which they delight (*rajanti*) is a *rajas*, a world'; as said (*Ni.* [?]) 'worlds are called *rajāṃsi*'; the Uṇādi *asun*; loss of the nasal (*nalopaḥ*) in the roots *rajaka*, *rajana*, *rajas* [?]; loss of the case-ending by *supāṃ suluk* [with the sixth-case: *ṣaṣṭhyā luk*]. ‖
+
+---
+
+### Page 684 (PDF 704)
+
+*(Running head: left 684; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(The grammatical tail concludes here; the stretch at the head of p. 684 runs:)* "…the non-loss of *a* through *dvamantāt* [?] [as read]; *taraṇitvā*: *tṝ plavanataraṇayoḥ* … [?]; *saścire*: the root *sac*, *gatau* [?]; the perfect; by *vyatyaya* [*ātmanepada*]; the doubling is forbidden in the section on doubling [?]; *irec* [?]… the *aruhan*: *ruha bījajanmani prādurbhāve ca*; *luṅ*; … *divaḥ*: *ūḍidaṃ…* by which the case-ending takes the *udātta*; *rajaḥ*: *rañja rāge*, 'in which they delight is the world, *rajas*'; 'the worlds are called *rajāṃsi*' (*Ni.* [?]); the Uṇādi *asun*; loss of the nasal (*nalopaḥ*); and by *supāṃ suluk* the *luk* of the sixth case ending." *(Sanskrit as read, heavily compressed and partly clotted; characterized, not transcribed.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.6; Kannada; English)**
+
+*Antarikṣasya* — belonging to the antarikṣa world; *nṛbhyaḥ* — to the Ṛbhus, who are leaders of the sacrifice, or to the Ṛbhus who are leaders of the antarikṣa world; *srucā iva* — as with ladles, offering; *ghṛtam* — the oblation together with the ghee that flows [?] in; *ā juhavāma* — we offer, as prescribed in the *śāstra* (as is due); *manīṣām* — praise too; *vidmanā* — with knowledge (we offer); *ye ṛbhavaḥ* — those Ṛbhus; *pituḥ* — of the protector of the whole world; *asya* — this sun's; *taraṇitvā* — swift power; *saścire* — attained (as rays of the sun); *divaḥ rajaḥ* — to the luminous world of the antarikṣa; *vājam* — food of the nature of Soma; *aruhan* — obtained (by sacrifices and the various [other] works).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+To the Ṛbhus who belong to the antarikṣa and are leaders of the sacrifice, we offer, as with ladles, the oblation together with the ghee that flows in, according to the prescription of the *śāstra*; and, just so, we offer praise together with knowledge. The Ṛbhus who attained the swift power of this sun, the protector of the whole world, in the form of the sun's rays, obtained, by sacrifices and the various [other] works, food of the nature of Soma, belonging to the luminous world of the antarikṣa.
+
+**English Translation (as printed in the source)**
+
+"To the leaders (of the sacrifice), dwelling in the firmament, we present as with a ladle, the appointed clarified butter, and praise with knowledge those Ribhus, who, having equalled the velocity of the protector (of the univers [sic], the sun), ascended to the region of heaven, through (the offerings) of sacrificial food."
+
+*(The right-hand ends of several lines of the printed English are cut off in the scan; "present", "knowledge" and "(of the" are completed from the sense.)*
+
+---
+
+**Progress note:** Printed pp. 1–684 done (PDF 21–704): Sūkta 110: Riks 110.1–110.5 complete (pp. 657–682); Rik 110.6 (printed pp. 683–[?]): Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha, Bhāvārtha and English done (p. 684). Next: printed p. 685 (PDF 705), the Special Topics of Rik 110.6 (if any) and Rik 110.7. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
