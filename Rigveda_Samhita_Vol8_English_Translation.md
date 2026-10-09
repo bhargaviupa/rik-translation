@@ -21625,5 +21625,130 @@ O Aśvin deities! with whichever protections you protected the ṛṣi named Vam
 The ṛṣi named Vamra, performing austerities in the summer season, was very thirsty; to get water he prayed to the Aśvin deities; they then caused rain to fall for him, though there was no cloud in the sky: thus the story is told, and it is indicated here. The ṛṣi named Vamra is renowned as the seer of the ninety-ninth sūkta of the tenth Maṇḍala [as read [?]]. In the *Sarvānukramaṇī* [as the Pīṭhike of the bhāṣya, the Kannada gives the reference "p. 119 [?]"]: "*kaṃ naḥ*: this twelve-Ṛk ninth sūkta, the seer of which is Vamra, son of Vikhanas, is addressed to Indra and in the Triṣṭubh metre." In this same sūkta the ṛṣi who is its seer speaks, in some places, in the first person, with his own name.
 
 ---
+### Page 793 (PDF 813)
 
-**Progress note:** Printed pp. 1–792 done (PDF 21–812): Sūkta 112: Riks 112.1–112.14 complete (pp. 723–790); Rik 112.15 (printed pp. 791–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (Vamra), ending at the foot of p. 792. Next: printed p. 793 (PDF 813). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 793.)*
+
+*(The Special Topics of Rik 112.15 continue, on Vamra:)*
+
+> वम्रस्य मन्ये मिथुना विवव्री अन्नमभीत्यारोदयन्मुषायन् ।
+> *vamrasya manye mithunā vivavrī annam abhītyārodayan muṣāyan |*
+> (*Ṛ.* 10-99-5 as read [?])
+
+> एवा महो असुर वक्षथाय वम्रकः पड्भिरुप सर्पदिन्द्रम् ।
+> *evā maho asura vakṣathāya vamrakaḥ paḍbhir upa sarpad indram |*
+> (*Ṛ.* 10-99-12 as read [?])
+> *(Sanskrit as read from the print; both are doubtful in places [?]; no gloss attempted.)*
+
+In these Ṛks he calls himself a devotee of Indra and one capable of praising Indra. (In the 10-99-[?] Ṛk) while showing the derivation of the word *vamra*, Sāyaṇa explains it as *stutyudgiraṇaśīlaḥ etatsañjñakaḥ ṛṣiḥ* — 'the ṛṣi so named, whose nature is to utter praise': one who ceaselessly utters praise.
+
+**कलिम् — Kalim.** Skandasvāmi has:
+
+> कलिर्नाम ऋषिर्जरया तरुणीं भार्यां लेभे । स तस्यै प्रीत्यै पुनर्यौवनमात्मन इच्छन्नश्विनौ तुष्टाव । तमागत्याश्विनौ पुनर्यौवनं चक्रतुरिति ।
+> *kalir nāma ṛṣir jarayā taruṇīṃ bhāryāṃ lebhe | sa tasyai prītyai punar yauvanam ātmana icchann aśvinau tuṣṭāva | tam āgatyāśvinau punar yauvanaṃ cakratur iti |*
+> "A ṛṣi named Kali, though old, obtained a young wife. Wishing to have youth again, to please her, he praised the two Aśvins. The two Aśvins came and gave him youth again."
+
+The ṛṣi called Kali, when old, married a young girl. To please her, desiring youth again, he praised the Aśvin deities, and they made him young again. The *brahmavādinī* Ghoṣā has cited this matter in the Ṛk
+
+> युवं विप्रस्य जरणामुपेयुषः पुनः कलेरकृणुतं युवद्वयः ।
+> *yuvaṃ viprasya jaraṇām upeyuṣaḥ punaḥ kaler akṛṇutaṃ yuvad vayaḥ |*
+> (*Ṛ.* 10-39-8 as read [?])
+
+and in the Ṛk
+
+> सोम इद्वः सुतो अस्तु कलयो मा बिभीतन ।
+> *soma id vaḥ suto astu kalayo mā bibhītana |*
+> (*Ṛ.* 8-66-13 as read [?])
+
+those born in his line and other men of knowledge are called *kalayaḥ*.
+
+**उपस्तुतम् — Upastutam.** *upastotāram* — Skandasvāmi: 'a praiser'; *samīpasthaiḥ samyak stūyamānam* — Sāyaṇa: 'praised by all those near him'.
+
+**पृथिम् — Pṛthim.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । ऋषयः कश्चिद्यज्ञमेताः को ऽस्मासु आश्विनौ सम्यग्यजत इति जिज्ञासमाना ऊचुः । सर्वेऽश्विनौ स्वयज्ञेषु सहाह्वयामः । तद्यस्य नः आहूतावश्विनौ स्वरूपेणागमिष्यतः स सम्यग्यजत इति । तत्र अश्विनावाहूतौ कक्षीवतो व्यश्वस्य दीर्घतमसः पृथेश्च यज्ञे स्वरूपेणाजग्मतुरिति ।
+> *atrāpītihāsam ācakṣate | ṛṣayaḥ kaścid yajñam etāḥ ko 'smāsu āśvinau samyag yajata iti jijñāsamānā ūcuḥ | sarve 'śvinau svayajñeṣu sahāhvayāmaḥ | tad yasya naḥ āhūtāv aśvinau svarūpeṇāgamiṣyataḥ sa samyag yajata iti | tatra aśvināv āhūtau kakṣīvato vyaśvasya dīrghatamasaḥ pṛthesya [?] ca yajñe svarūpeṇājagmatur iti |*
+> *(Sanskrit as read; the first sentence is clotted in the print [?]; the sense follows the Kannada.)*
+> "Here too they tell the tale: the ṛṣis, wishing to find out which of them sacrificed best, said: 'Let us all call the Aśvins to our own sacrifices together; whoever's call the Aśvins answer in person, he sacrifices best.' There, called, the Aśvins came in person to the sacrifice of Kakṣīvān, of Vyaśva, of Dīrghatamas and of Pṛthi."
+
+"When the ṛṣis assembled and, asking among themselves who among them performed sacrifice best, resolved that all should perform sacrifices together, and that whoever's sacrifice the Aśvin deities came to in person, his rite would be the best; and when they performed the sacrifices, the Aśvin deities came only to the sacrifices of Kakṣīvān, Vyaśva, Dīrghatamas and Pṛthi": so he tells of the excellence of Pṛthi's sacrificial rite. This same matter *(the passage runs on to p. 794)*
+
+---
+
+### Page 794 (PDF 814)
+
+*(Running head: left 794; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> यद्वां कक्षीवाँ उत यद्व्यश्व ऋषिर्यद्वां दीर्घतमा जुहाव ।
+> पृथी यद्वां वैन्यः सादनेष्वेवेदतो अश्विना चेतयेथाम् ॥
+> *yad vāṃ kakṣīvāṃ uta yad vyaśva ṛṣir yad vāṃ dīrghatamā juhāva |*
+> *pṛthī yad vāṃ vainyaḥ sādaneṣv eved ato aśvinā cetayethām ‖*
+> (*Ṛ.* 8-9-10 as read [?])
+> "When Kakṣīvān called you, and when the ṛṣi Vyaśva, and when Dīrghatamas called you, and Pṛthi Vainya in his abodes — so, from there, O Aśvins, you took notice." *(mine and tentative)*
+
+— in this Ṛk the seer of the Mantra, Śaśakarṇa, has told it too.
+
+**व्यश्वम् — Vyaśvam.** Skandasvāmi says that this word is a given name, the name of a ṛṣi called Vyaśva; and Sāyaṇa explains it as *vigatāśvam*, 'one who has lost his horse'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.15)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Vipipānam*: root *pā pāne*; by *tācchīlyavayovacanaśaktiṣu cānaś* (*pā.* 3-2-129 as read [?]) the suffix *cānaś*; by *bahulaṃ chandasi* (*pā.* 2-4-76 as read [?]) *ślu* for *śap*; by *ślau* (*pā.* 6-1-10 as read [?]) doubling of the root; shortening of the reduplicant by *hrasvaḥ*; by *bahulaṃ chandasi* (*pā.* 7-4-78 as read [?]) *i* for it; by *citaḥ* (*pā.* 6-1-163 as read [?]) the final syllable is *udātta*; since it is a compound with a verbal prefix, the *kṛdanta* keeps the accent of the prior member. *Upastutam*: root *ṣṭuñ stutau*; *niṣṭhā*, the suffix *kta*, in the passive (*pā.* 3-2-102 as read [?]); since it belongs to the *pravṛddhādi* class (*pā.* 6-2-147 as read [?]) the final syllable of the second member in the compound is *udātta*. *Vittajānim*: 'he by whom the wife has been got' = *vittajāniḥ*; by *jāyāyā niṅ* (*pā.* 5-4-134 as read [?]) the compound-final substitute *niṅ*; by *lopo vyor vali* (*pā.* 6-1-66 as read [?]) the loss of the *y*, because *niṅ* is the cause; by *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) the prior member keeps its accent. *Vyaśvam*: 'he from whom the horse has gone' = *vyaśvaḥ*; by *bahuvrīhau prakṛtyā pūrvapadam* the final syllable of the prior member is *udātta*; since the *yaṇ* substitution then occurs for it, by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (*pā.* 8-2-4 as read [?]) the following *anudātta* takes the *svarita* accent; accusative singular. ‖ 15 ‖
+
+*(An ornamental rule — :o: — closes Rik 112.15.)*
+
+---
+
+### Page 795 (PDF 815)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 795.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.16)** *(accent-marks not reproduced)*
+
+> याभिर्नरा शयवे याभिरत्रये याभिः पुरा मनवे गातुमीषथुः ।
+> याभिः शारीराजतं स्यूमरश्मये ताभिरू षु ऊतिभिरश्विना गतम् ॥ १६ ॥
+> *yābhir narā śayave yābhir atraye yābhiḥ purā manave gātum īṣathuḥ |*
+> *yābhiḥ śārīr ājataṃ syūmaraśmaye tābhir ū ṣu ūtibhir aśvinā gatam ‖ 16 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.16)**
+
+> याभिः । नरा । शयवे । याभिः । अत्रये । याभिः । पुरा । मनवे । गातुम् । ईषथुः ।
+> याभिः । शारीः । आजतम् । स्यूमऽरश्मये । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १६ ॥
+> *yābhiḥ | narā | śayave | yābhiḥ | atraye | yābhiḥ | purā | manave | gātum | īṣathuḥ |*
+> *yābhiḥ | śārīḥ | ājatam | syūma-raśmaye | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 16 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.16)**
+
+> हे नरा नेतारावश्विनौ पुरा पूर्वस्मिन्काले शयवे एतत्सञ्ज्ञाय ऋषये गातुं दुःखानिर्गमनलक्षणं मार्गं याभिरूतिभिरीषथुः युवां वाञ्छितवन्तौ । कृतवन्तावित्यर्थः । किं तत् । सामर्थ्यात् शयवे चिन्नासत्या शचीभिः । ऋ. १-११६-२२ । इत्यस्यामृचि प्रतिपादितम् । तथात्रये ऋषये शतद्वारे यन्त्रगृहेऽसुरैः पीड्यमानाय सन्तापकारिणोऽग्नेः शीतेनोदकेन शीतकरणलक्षणं गातुं दुःखनिर्गमनहेतुभूतं मार्गं याभिरूतिभिर्युवामिष्यवन्तौ । एतच्च हिमेनाग्निं घ्रंसमवारयेथाम् । ऋ. १-११६-८ । इत्यादौ प्रसिद्धम् । तथा मनव एतन्नाम्ने राजर्षये याभिरूतिभिर्युवादिधान्यवापनादिरूपं गातुं दारिद्र्यनिर्गमनहेतुं मार्गं युवां कृतवन्तौ । तथा च मन्त्रान्तरे । युवं वृकेणाश्विना वपन्ता । ऋ. १-११६-१८ । इति । अपि च स्यूमरश्मये स्तुतः सम्बद्धो रश्मिर्दीप्तिर्यस्य तस्मै एतन्नाम्ने काय ऋषये याभिरूतिभिः शारीः शरो नाम वेणुविशेषः । तद्विकारभूता इषूराजतं शत्रूनप्रति प्रैरयतम् । ताभिरूतिभिरित्यादि पूर्ववत् ॥ नरा । नयतेः ऋदोरप् । सुपां सुलुगिति विभक्तेराकारः । शयवे । शीङ् स्वप्ने । भृमृशीत्यादिना । उ. १-७ । उप्रत्ययः । ईषथुः । इषु इच्छायाम् । लिट्थुसस्सवर्णदीर्घ इति [?] । शारीः । विकारार्थे शरशब्दादनुदात्तादेश्च ञ्यैञ् । टिड्ढाणञित्यादिना ङीप् । स्यूमरश्मये । सिवु तन्तुसन्ताने । सिवेरौणादिको मन्प्रत्ययः । ष्ठीवः ऊडित्यूट् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *he narā netārāv aśvinau purā pūrvasmin kāle śayave etatsañjñāya ṛṣaye gātuṃ duḥkhānirgamanalakṣaṇaṃ mārgaṃ yābhir ūtibhir īṣathuḥ yuvāṃ vāñchitavantau | kṛtavantāv ity arthaḥ | kiṃ tat | sāmarthyāt śayave cin nāsatyā śacībhiḥ | ṛ. 1-116-22 | ity asyām ṛci pratipāditam | tathātraye ṛṣaye śatadvāre yantragṛhe 'suraiḥ pīḍyamānāya santāpakāriṇo 'gneḥ śītenodakena śītakaraṇalakṣaṇaṃ gātuṃ duḥkhanirgamanahetubhūtaṃ mārgaṃ yābhir ūtibhir yuvām iṣyavantau | etac ca himenāgniṃ ghraṃsam avārayethām | ṛ. 1-116-8 | ity ādau prasiddham | tathā manava etannāmne rājarṣaye yābhir ūtibhir yuvādidhānyavāpanādirūpaṃ gātuṃ dāridryanirgamanahetuṃ mārgaṃ yuvāṃ kṛtavantau | tathā ca mantrāntare | yuvaṃ vṛkeṇāśvinā vapantā | ṛ. 1-116-18 | iti | api ca syūmaraśmaye stutaḥ sambaddho raśmir dīptir yasya tasmai etannāmne kāya ṛṣaye yābhir ūtibhiḥ śārīḥ śaro nāma veṇuviśeṣaḥ | tadvikārabhūtā iṣūr ājataṃ śatrūn prati prerayatam | tābhir ūtibhir ity ādi pūrvavat ‖ narā | nayateḥ ṛdor ap | supāṃ suluk iti vibhakter ākāraḥ | śayave | śīṅ svapne | bhṛmṛśīty ādinā | u. 1-7 | upratyayaḥ | īṣathuḥ | iṣu icchāyām | liṭthusas savarṇadīrgha iti [?] | śārīḥ | vikārārthe śaraśabdād anudāttādeś ca ñyaiñ | ṭiḍḍhāṇañ ity ādinā ṅīp | syūmaraśmaye | sivu tantusantāne | siver auṇādiko manpratyayaḥ | ṣṭhīvaḥ ūḍity ūṭ | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
+
+*(Sanskrit as read, compressed; the words marked [?], the Uṇādi numerals, and the clause on* yuvādidhānya…*, are doubtful in the print.)*
+
+"O leaders, Aśvins! formerly, in former time, for the ṛṣi named Śayu, with whichever protections you wished — that is, made — *gātum*, the way to get out of misery. What was that? By context, '*śayave cin nāsatyā śacībhiḥ*' (*Ṛ.* 1-116-22), as set out in that Ṛk. Likewise for Atri, the ṛṣi tormented by the asuras in the hundred-doored machine-house, with whichever protections you made *gātum*, the way of escape from distress, in the form of cooling the burning fire with cold water: this is well known in '*himenāgniṃ ghraṃsam avārayethām*' (*Ṛ.* 1-116-8) and the like. And likewise for Manu, the royal sage so named, with whichever protections you made the way out of poverty, in the form of sowing grain and the like [with the plough — *yava* and so on]; thus in another *mantra*: '*yuvaṃ vṛkeṇāśvinā vapantā*' (*Ṛ.* 1-116-18). And further: for *syūmaraśmi*, a ṛṣi so named, one whose ray, [i.e. brightness], is firmly bound [to him], with whichever protections you sent against [his] enemies *śārīḥ*, arrows made of *śara*, a kind of reed: with those protections, and so on, as before."
+
+*Grammatical tail (short):* *narā*: root *nī*, with the suffix *ap* after a root ending in *ṛ*/*ṛt* [as printed [?]]; the dual ending *au* becomes *ā* by *supāṃ suluk*. *Śayave*: root *śīṅ svapne*; the suffix *u* by the Uṇādi rule *bhṛmṛśī…* (*Uṇ.* 1-7 as read [?]). *Īṣathuḥ*: root *iṣu icchāyām*; *liṭ*, second-person dual *athus*; [the clause on the lengthening, doubtful [?]]. *Śārīḥ*: from the word *śara*, in the sense of 'product of', the suffix *ñyaiñ*; *ṅīp* by the rule beginning *ṭiḍḍhāṇañ…*. *Syūmaraśmaye*: root *sivu tantusantāne*; the Uṇādi suffix *man*; *ūṭ* for the *v* by *ṣṭhīvaḥ…*; the prior member keeps its accent in the *bahuvrīhi*.
+
+---
+
+### Page 796 (PDF 816)
+
+*(Running head: left 796; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The grammatical tail concludes at the head of this page, as given above.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.16; Kannada; English)**
+
+*Narā* — O leaders; *aśvinā* — O Aśvin deities; *purā* — formerly; *śayave* — to the ṛṣi named Śayu; *gātum* — the way of escape from misery; *yābhiḥ* — by whichever protections; *īṣathuḥ* — you made; *atraye* — for the ṛṣi Atri (who was tormented by fire put by the asuras in the machine-house); *yābhiḥ* — by whichever [helps, in order] to be relieved by water [made cool, he being freed from the burning]; and *manave* — for the royal sage named Manu; *yābhiḥ* — by whichever of your protections (giving grain by sowing, and removing the misery of poverty); *syūmaraśmaye* — for the ṛṣi named Syūmaraśmi; *yābhiḥ* — by whichever of your helps; *śārīḥ* — arrows; *ājatam* — you shot (at the enemies); *tābhiḥ ūtibhiḥ ū* — with all those helps together, to us also; *su ā gatam* — come, with favour.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities, leaders! with whichever of your helps you formerly made the way of escape from misery for the ṛṣi named Śayu; just so, with whichever of your helps you cooled the fire put by the asuras in the machine-house, tormenting the ṛṣi Atri, and set him free from the burning; and with whichever protections you removed the misery of poverty from the royal sage named Manu, by giving [him] grain; and, besides, with whichever of your helps you shot arrows at the enemy for the sake of the ṛṣi Syūmaraśmi: with all those helps of yours come to us also.
+
+**English Translation (as printed in the source; Rik 112.16)**
+
+"With those aids, leaders (of sacrifices), which you afforded to Sayu, to Atri and formerly to Manu, anxious (to show them) the way (to escape from evil); with those by which you shot arrows (upon the foes) of Syumarasmi; with them, Aswins, come willingly hither."
+
+*(In the scan the printed English is partly smudged at the line ends ("Atri and", "evil"); read from the sense.)*
+
+---
+
+**Progress note:** Printed pp. 1–796 done (PDF 21–816): Sūkta 112: Riks 112.1–112.15 complete (pp. 723–794); Rik 112.16 (printed pp. 795–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics follow on p. 797. Next: printed p. 797 (PDF 817). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
