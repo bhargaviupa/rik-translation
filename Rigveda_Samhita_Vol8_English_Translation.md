@@ -19389,5 +19389,92 @@ In this Ṛk the sense is 'the sacrificer, together with priests, men, who perfo
 *Ṛbhuḥ*: 'he shines widely' (*uru bhāti*) = *ṛbhuḥ*; root *bhā dīptau*; the Uṇādi suffix *ku*; by *āto lopa iṭi ca* (*pā.* 6-4-64) the *ā* is lost; *ṛbhā*[-for-*uru*] is the substitute for *uru*; by the suffix-accent it ends in *udātta*. *(the page ends here; the grammar continues on p. 721)*
 
 ---
+### Page 721 (PDF 741)
 
-**Progress note:** Printed pp. 1–720 done (PDF 21–740): Sūkta 111: Riks 111.1–111.4 complete (pp. 702–718); Rik 111.5 (the last Ṛk of Sūkta 111; printed pp. 718–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*ṛbhuḥ*). Next: printed p. 721 (PDF 741) — the rest of the grammar of Rik 111.5 and the closing line of Sūkta 111; Sūkta 112 begins at p. 722 (PDF 742); last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 721. At the foot, the printer's signature "46 / VOLUME 8" — noted only.)*
+
+*(Grammar of Rik 111.5, concluded; short; sūtra numbers only as read, doubtful [?].)* *Śiśātu*: root *śo tanūkaraṇe*; *loṭ*, third-person singular, *ti*; *u* for *i* by *eruḥ* (*pā.* 3-4-86 as read [?]); by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *ślu* in the place of the conjugation sign; by *ādeca upadeśe 'śiti* (*pā.* 6-1-45 as read [?]) the root's final becomes *ā*; reduplication by *ślau* (*pā.* 6-1-10 as read [?]); shortening of the reduplicant by *hrasvaḥ* (*pā.* 7-4-59 as read [?]); by *bahulaṃ chandasi* (*pā.* 7-4-78 as read [?]) *i* for the *a* [of the reduplicant]; the form *śiśātu*; *nighāta* after a finite verb. *Samaryajit*: root *ji jaye*; the suffix *kvip* by *kvip ca* (*pā.* 3-2-76 as read [?]); the augment *tuk* by *hrasvasya piti kṛti tuk* (*pā.* 6-1-71 as read [?]); by *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) the *kṛdanta* keeps the accent of the prior member. *Aviṣṭu*: root *av rakṣaṇe*; *loṭ*, third-person singular, *tu* in place of *ti* [?]; by *sibbahulaṃ leṭi* (*pā.* 3-1-34 as read [?]), since *bahulam* is mentioned, *sip* occurs in *loṭ* also; by *ārdhadhātukasyeḍ valādeḥ* the augment *iṭ*; after *iṭ* the *s* becomes *ṣ* by *ādeśapratyayayoḥ*; on account of the *ṣ*, the suffix's *t* becomes *ṭ* by *ṣṭutva*; *nighāta* after a finite verb. ‖ 5 ‖
+
+**"Nūra hannondaneya sūktavu mugidudu"** — "The 111th Sūkta is concluded." *(printed line; Sūkta 111 ends here, with five Ṛks: printed pp. 701–721.)*
+
+*(An ornament follows. Note: Sūkta 112 begins here, on printed p. 721, the title at the foot; the starts noted earlier gave p. 722.)*
+
+# Sūkta 112 — *Nūra hanneraḍaneya sūktavu* (the 112th Sūkta)
+
+*(Printed title, p. 721.)*
+
+*(Sāyaṇa's introduction, as printed in Sanskrit, in three layers; it runs across the foot of p. 721 and the head of p. 722.)*
+
+> ईळ इति पञ्चविंशत्यृचं सप्तमं सूक्तम् । आङ्गिरसस्य कुत्सस्यार्षम् । चतुर्विंशपञ्चविंशौ त्रिष्टुभौ शिष्टास्त्रयोविंशतिर्जगत्यः । आद्यः पादो द्यावापृथिव्यः । द्वितीय आग्नेयः । शिष्टं सूक्तमाश्विनम् । तथा चानुक्रान्तम् । ईळे पञ्चाधिकाश्विनमाद्यौ पादौ लिङ्गोक्तदेवतावन्त्ये त्रिष्टुभाविति [?] ॥ प्रवर्ग्येऽभिष्टवेऽप्येतत्सूक्तम् । सूत्रितं च । ग्रावाणेवेळे द्यावापृथिवी इति । आ. ४-६ [?] इति ॥ प्रातरनुवाके चाश्विने क्रतौ जागते छन्दस्येतत्सूक्तम् । सूत्रितं च । आगन्म महातारिष्मेळे द्यावापृथिवी इति जागतम् । आ. ४-१३ [?] इति ॥ आश्विनशस्त्रेऽप्येतत्प्रातरनुवाकन्यायेन । आ. ६-५ [?] इत्यतिदेशात् । तथाप्तोर्यामे सन्ति चत्वार्यतिरिक्तोक्थानि । तत्राच्छावाकातिरिक्तोक्थमेतत्सूक्तं यस्य शेशव इति खण्डे सूत्रितम् । ईळे द्यावापृथिवी उभा उ नूनम् । आ. ६-११ इति ॥
+> *īḷa iti pañcaviṃśatyṛcaṃ saptamaṃ sūktam | āṅgirasasya kutsasyārṣam | caturviṃśapañcaviṃśau triṣṭubhau śiṣṭās trayoviṃśatir jagatyaḥ | ādyaḥ pādo dyāvāpṛthivyaḥ | dvitīya āgneyaḥ | śiṣṭaṃ sūktam āśvinam | tathā cānukrāntam | īḷe pañcādhikāśvinam ādyau pādau liṅgoktadevatāvantye triṣṭubhāv iti [?] ‖ pravargye 'bhiṣṭave 'py etatsūktam | sūtritaṃ ca | grāvāṇeveḷe dyāvāpṛthivī iti | ā. 4-6 [?] iti ‖ prātaranuvāke cāśvine kratau jāgate chandasy etatsūktam | sūtritaṃ ca | āgan ma mahātāriṣmeḷe dyāvāpṛthivī iti jāgatam | ā. 4-13 [?] iti ‖ āśvinaśastre 'py etat prātaranuvākanyāyena | ā. 6-5 [?] ity atideśāt | tathāptoryāme santi catvāry atiriktokthāni | tatrācchāvākātiriktokthām etat sūktaṃ yasya śeśava iti khaṇḍe sūtritam | īḷe dyāvāpṛthivī ubhā u nūnam | ā. 6-11 iti ‖*
+> *(Sanskrit as read; the Anukramaṇī quotation, the three sūtra-references and the word* ātiriktokthām *are doubtful in the print [?]; the sūtra-numerals are as printed, except the last, which is clearer.)*
+> "'*Īḷe*': the seventh hymn, of twenty-five Ṛks, seen by Kutsa Āṅgirasa. The twenty-fourth and twenty-fifth are *triṣṭubh*; the remaining twenty-three are *jagatī*. The first *pāda* is addressed to Heaven and Earth; the second to Agni; the rest of the hymn is for the Aśvins. So it has been given in the Anukramaṇī: '*īḷe*; five more than twenty [?]; Aśvins; the first two *pādas* with the deities named by the gender; the last two [Ṛks] *triṣṭubh*.' In the *Pravargya*, at the *abhiṣṭava* too, this hymn is used; and it has been put in the *sūtra*: '*grāvāṇeveḷe dyāvāpṛthivī*' (*Āśv.* 4-6 [?]). In the *prātaranuvāka*, in the Aśvina *kratu*, in the *jagatī* metre, this hymn is used: '*āgan ma mahātāriṣmeḷe dyāvāpṛthivī iti jāgatam*' (*Āśv.* 4-13 [?]). In the Aśvina-*śastra* also, [it is used] by the rule of the *prātaranuvāka*, by extension (*Āśv.* 6-5 [?]). And in the *Āptoryāma* there are four extra *ukthas*: of these, in the *acchāvāka*'s extra *uktha*, this hymn is set out in the section '*yasya śeśava*': '*īḷe dyāvāpṛthivī ubhā u nūnam*' (*Āśv.* 6-11)."
+
+---
+
+### Page 722 (PDF 742)
+
+*(Running head: left 722; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112" — small Kannada numerals.)*
+
+*(The Sanskrit introduction ends at the head of this page with the sūtra* īḷe dyāvāpṛthivī ubhā u nūnam *(ā. 6-11).)*
+
+**Anuvāka** — "The hymn beginning *īḷe dyāvāpṛthivī* is the seventh hymn in the sixteenth anuvāka. It has twenty-five Ṛks. The ṛṣi of this hymn is Kutsa Āṅgirasa. The twenty-fourth and twenty-fifth Ṛks of this hymn are in the *triṣṭubh* metre; the remaining twenty-three Ṛks are in *jagatī*. In the first Ṛk the first *pāda* has Heaven and Earth for its deity; the second *pāda* has Agni. The whole remaining part of the hymn has the Aśvins as its deity. It is said in the Anukramaṇikā: '*īḷe pañcādhikā aśvinam ādyau pādau liṅgoktadevatā vantye triṣṭubhāv iti*' [as read [?]]. That this hymn is to be used in the sacrifice called *Pravargya* for reciting the *abhiṣṭava* hymn is explained in the Āśvalāyana Śrauta Sūtra by the sūtra *grāvāṇeveḷe dyāvāpṛthivī iti* (*Āśv.* 4-6 [?]). And that, at the time of reciting the *prātaranuvāka* mantras, this hymn is applied for reciting the *jagatī* Ṛks belonging to the Aśvin *kratu* is explained in the Āśvalāyana Śrauta Sūtra by the sūtra *āgan ma mahātāriṣmeḷe dyāvāpṛthivī iti jāgatam* (*Āśv.* 4-13 [?]). And this hymn may also be used in the *śastra* mantras of the Aśvins in the *prātaranuvāka* mantras, the Āśvalāyana Śrauta Sūtra itself says (*Āśv.* 6-5 [?]). Besides this, in the *yāga* called *Āptoryāma* they perform the recitation of four hymns called *atirikta-uktha*s; in these, this hymn is to be recited by the priest called *acchāvāka*, as is explained in the section '*yasya śeśava*' of the Āśvalāyana Śrauta Sūtra by the sūtra *īḷe dyāvāpṛthivī ubhā u nūnam* (*Āśv.* 6-11)."
+
+*(An ornament follows.)*
+
+**॥ ओम् ॥ — Oṃ**
+
+**सूक्त—११२ — Sūkta 112**
+
+Maṇḍala 1 ‖ Anuvāka 16 ‖ Sūkta 112 ‖ Aṣṭaka 1 ‖ Adhyāya 7 ‖ Varga 33, 34, 35, 36, 37 [?] *(the small Kannada numerals are doubtful)* ‖ Number of Ṛks in the Sūkta: 25 ‖ Ṛṣi: Kutsa Āṅgirasa ‖ Devatā: in Rik 1, for the first *pāda*, Dyāvāpṛthivī [Heaven and Earth]; for the second *pāda*, Agni; for the third and fourth *pādas* the Aśvins; Riks 2–25, the Aśvins ‖ Chandas: Riks 1–23 *jagatī*; Riks 24, 25 *triṣṭubh*. *(The print gives "Rik 1–23" and the numerals read as given; the heading's compressed numerals are partly doubtful [?].)*
+
+---
+
+### Page 723 (PDF 743)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 723.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.1)** *(accent-marks not reproduced)*
+
+> ईळे द्यावापृथिवी पूर्वचित्तयेऽग्निं घर्मं सुरुचं यामन्निष्टये ।
+> याभिर्भरे कारमंशाय जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतम् ॥ १ ॥
+> *īḷe dyāvāpṛthivī pūrvacittaye 'gniṃ gharmaṃ surucaṃ yāmann iṣṭaye |*
+> *yābhir bhare kāram aṃśāya jinvathas tābhir ū ṣu ūtibhir aśvinā gatam ‖ 1 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.1)**
+
+> ईळे । द्यावापृथिवी इति । पूर्वऽचित्तये । अग्निम् । घर्मम् । सुऽरुचम् । यामन् । इष्टये ।
+> याभिः । भरे । कारम् । अंशाय । जिन्वथः । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १ ॥
+> *īḷe | dyāvāpṛthivī iti | pūrva-cittaye | agnim | gharmam | su-rucam | yāman | iṣṭaye |*
+> *yābhiḥ | bhare | kāram | aṃśāya | jinvathaḥ | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.1)**
+
+> अहं द्यावापृथिवी द्यावापृथिव्यावीळे स्तौमि । किमर्थम् । पूर्वचित्तये । पूर्वमेवाश्विनोः प्रज्ञापनाय । तेऽश्विनौ प्रत्यासन्ने [?] । यद्वा । द्यावापृथिवी अश्विनौ स्तौमि पूर्वचित्तयेऽस्मदीयादुत्स्तोत्रात्पूर्वमेवास्मदीयस्य स्तोत्रस्य प्रबोधनाय । तथा चोक्तम् । तत्कावश्विनौ द्यावापृथिव्यित्येके [?] । नि. १२-१ [?] । इति । अपि च । यामन् यामन्यश्विनोरागमने सति इष्टये यागार्थमाहवनीयरूपेण स्थापितमग्निं स्तौमीति शेषः । कीदृशमग्निम् । घर्मं प्रवर्ग्यजनेन दीप्तं सुरुचमत एव शोभनकान्तियुक्तम् । हे अश्विनौ भरे । सङ्ग्रामनामैतत् । सङ्ग्रामेऽंशाय युष्मदीयभागाय जयप्राप्त्यर्थं याभिरूतिभिः पालनैः सहागत्य कारम् । कारशब्दः शङ्खवाची । [तदुभययुक्ताः सङ्गिरन्ते? — print: ‘…त्यभययुक्ताः सङ्गिरन्ते । तेन ह्यभियुक्ताः सङ्गिरन्ते’ ; clotted [?]] । कारं शब्दकारिणं शङ्खं जिन्वथः मुखेनापूरयेथः । ताभिस्तादृशैरूतिभिः पालनैः सह ऊ षु इति समुच्चये । अस्मानपि सुष्ठु गतम् । आगच्छतम् ॥
+> *ahaṃ dyāvāpṛthivī dyāvāpṛthivyāv īḷe staumi | kimartham | pūrvacittaye | pūrvam evāśvinoḥ prajñāpanāya | te 'śvinau pratyāsanne [?] | yadvā | dyāvāpṛthivī aśvinau staumi pūrvacittaye 'smadīyād utstotrāt pūrvam evāsmadīyasya stotrasya prabodhanāya | tathā coktam | tat kāv aśvinau dyāvāpṛthivī ity eke [?] | ni. 12-1 [?] | iti | api ca | yāman yāmany aśvinor āgamane sati iṣṭaye yāgārtham āhavanīyarūpeṇa sthāpitam agniṃ staumīti śeṣaḥ | kīdṛśam agnim | gharmaṃ pravargyajanena dīptaṃ surucam ata eva śobhanakāntiyuktam | he aśvinau bhare | saṅgrāmanāmaitat | saṅgrāme 'ṃśāya yuṣmadīyabhāgāya jayaprāptyarthaṃ yābhir ūtibhiḥ pālanaiḥ sahāgatya kāram | kāraśabdaḥ śaṅkhavācī | [… tena hy abhiyuktāḥ saṅgirante; clotted [?]] | kāraṃ śabdakāriṇaṃ śaṅkhaṃ jinvathaḥ mukhenāpūrayethaḥ | tābhis tādṛśair ūtibhiḥ pālanaiḥ saha ū ṣu iti samuccaye | asmān api suṣṭhu gatam | āgacchatam ‖*
+
+*(Sanskrit as read. Doubtful in the print: the words after* te 'śvinau*, the Nirukta citation and its numeral, and the clause on* kāra *within the clotted stretch, which I mark [?] and do not complete from memory.)*
+
+"I, *īḷe*, praise *dyāvāpṛthivī*, Heaven and Earth. For what? *Pūrvacittaye*: in order to make the Aśvins aware beforehand [— for they are near at hand? [?]]. Or else: I praise Heaven and Earth, who are the Aśvins, *pūrvacittaye*, to awaken our hymn before [any] other of our hymns; as has been said: 'Heaven and Earth are the two Aśvins, say some' (*Ni.* 12-1 [?]). And further: *yāman*, at the coming of the Aśvins, *iṣṭaye*, for the sacrifice, I praise Agni, established in the form of the *āhavanīya* fire: so much is to be supplied. What kind of Agni? *Gharmam*: kindled by the *Pravargya* rite; *surucam*, hence of beautiful lustre. O Aśvins! *bhare*: this is a name for battle; in battle, *aṃśāya*, for your own share, to obtain the victory, with whatever protections you come and *kāram*: the word *kāra* denotes a conch [— the clotted clause]; *jinvathaḥ*: you fill, with the mouth, [you blow] the sounding conch. With those very protections, together, *ū ṣu* [with *iti* in the sense of 'and'], come well to us also."
+
+*Grammatical tail (p. 724; characterized, not transcribed):* the dense Sanskrit tail treats *īḷe* (root *īḍa stutau*; the augment *iṭ* in the first person; *luk* of *śap* for the *adādi* class; the root-accent), *dyāvāpṛthivī* (*dyauś ca pṛthivī ca*; *dyāvā* for *div* with *udātta* first syllable, irregularly formed; *pṛthivī* ending in *ṅīṣ*, final-*udātta*; the prior member keeps its accent in a *dvandva* of deities), *pūrvacittaye*, *surucam*, *yāman* (root *yā prāpaṇe*, the Uṇādi *manin*), *kāram*, *jinvathaḥ* (root *jivi prīṇanārthaḥ*: 'here the means of satisfaction, the filling [of the conch], is implied'), *ū ṣu* (the lengthening of the *u* of the Vedic particle, *akṣādi* [?]), *ūtibhiḥ* (root *av*, suffix *ktin*, with *ūṭh* by *jvaratvara…*), and *gatam* (root *gam*, *loṭ*, *luk* of the conjugation sign, the loss of the nasal by *anudāttopadeśa…*).
+
+---
+
+### Page 724 (PDF 744)
+
+*(Running head: left 724; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(The bhāṣya's final words and the grammatical tail run across the upper half of this page, as characterized above.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.1; Kannada; English)**
+
+*Pūrvacittaye* — (for the Aśvin deities' coming) to give [them] foreknowledge; *dyāvāpṛthivī* — (near them) Heaven and Earth; *īḷe* — I praise. [Or: *pūrvacittaye* — (before the other hymns) first, so that my hymn may come to [their] notice; *dyāvāpṛthivī* — the Aśvin deities; *īḷe* — I praise.] *Yāman* — (at the time of their coming); *iṣṭaye* — for the sake of the sacrifice (directed to them); *gharmam* — (at the time of the *Pravargya*) the kindled; *surucam* — (hence) of beautiful lustre; *agnim* — Agni (I praise); *aśvinā* — O Aśvin deities all; *bhare* — in battle; *aṃśāya* — to obtain victory for your share; *yābhiḥ* — with whatever protections (you come); *kāram* — the conch that makes a sound; *jinvathaḥ* — you blow with the mouth; *tābhiḥ* — with such; *ūtibhiḥ* — protections, all together; *su ā gatam* — [to us too] abundantly come.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)** *(begun at the foot of p. 724)*
+
+To give the Aśvin deities foreknowledge of their coming, I praise Heaven and Earth, who are near them. At the time of their coming, the Agni installed for the sacrifice directed to them *(the Bhāvārtha runs on to p. 725)*
+
+---
+
+**Progress note:** Printed pp. 1–724 done (PDF 21–744): Sūkta 111 complete (five Ṛks, printed pp. 701–721; closing line 'nūra hannondaneya sūktavu mugidudu' on p. 721). Sūkta 112 (25 Ṛks: 1–23 Jagatī, 24–25 Triṣṭubh; Kutsa Āṅgirasa; Dyāvāpṛthivī/Agni in the first Ṛk's first two pādas, otherwise the Aśvins) begins at the foot of printed p. 721 — NOT p. 722: title and Sāyaṇa's introduction (pp. 721–722), heading (p. 722), Rik 112.1 (pp. 723–[?]): Saṃhitā, Pada, bhāṣya (tail characterized), Pratipadārtha done and the Bhāvārtha begun, ending mid-sentence at the foot of p. 724. Next: printed p. 725 (PDF 745). Last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
