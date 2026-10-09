@@ -21971,5 +21971,134 @@ O Aṅgiras, praise the Aśvin deities. O Aśvin deities! with whichever of your
 > *(Sanskrit as read; no gloss attempted.)*
 
 ---
+### Page 805 (PDF 825)
 
-**Progress note:** Printed pp. 1–804 done (PDF 21–824): Sūkta 112: Riks 112.1–112.17 complete (pp. 723–802); Rik 112.18 (printed pp. 801–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (aṅgiraḥ, goarṇasaḥ, niraṇyathaḥ) begun, ending at the foot of p. 804 after the Ṛg citation *nāham indrāṇi rāraṇa…*. Next: printed p. 805 (PDF 825). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 805.)*
+
+*(The Special Topics of Rik 112.18 continue:)* "…citing this Ṛk (*Ni.* 11-[?]6 as read [?]) they explain that *rāraṇa* means '*ramaṇa*, rejoicing'. In the same way here too the sense is that the Aśvin deities rejoiced and gave delight."
+
+**याभिः मनुम् — Yābhiḥ manum.** For the king named Manu, who prayed to the Aśvin deities in order to supply food to subjects afflicted by famine, and for the help they gave him by coming and supplying food for the fields [?] — this has been told in the Special Topics of the sixteenth Ṛk [112.16] of this same sūkta.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.18)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Aṅgiraḥ*: by *āmantritasya ca* (*pā.* 8-1-19 as read [?]) the *nighāta* accent. *Niraṇyathaḥ*: the prefix *nir*; the form *niramayatha*; by transposition of letters it is a Vedic form. *Gacchathaḥ*: root *gamḷ gatau*; *laṭ*, second-person dual, *thas*; *śap* following, by *iṣugamiyamāṃ chaḥ* (*pā.* 7-3-77 as read [?]) the substitute *ccha*; since *yābhiḥ* is connected, no *nighāta*; since *śap* is *pit*, it is *anudātta*, and the root-accent remains. *Vivare*: root *vṛñ sambhaktau* [the print: *vṛj*, doubtful [?]]; by *grahavṛdṛniścigamaś ca* (*pā.* 3-3-58 as read [?]) the suffix *ap* in the abstract sense; because of it, *guṇa* of the root's *ik*, *raparaḥ*; as an exception to the *kṛdanta* accent, by *thāthaghañktājabitrāṇām* (*pā.* 6-2-144 as read [?]) the final syllable of the second member is *udātta*; locative singular. *Iṣā*: by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) the case-ending takes the *udātta*. *Samāvatam*: root *av rakṣaṇe*; *laṅ*, second-person dual; as above, since the augment is *udātta* the first syllable is *udātta*. ‖ 18 ‖
+
+*(An ornament closes Rik 112.18.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.19)** *(accent-marks not reproduced; the first line is on p. 805, the second on p. 806)*
+
+> याभिः पत्नीर्विमदाय न्यूहथुरा घ वा याभिररुणीरशिक्षतम् ।
+> *yābhiḥ patnīr vimadāya nyūhathur ā gha vā yābhir aruṇīr aśikṣatam |*
+
+---
+
+### Page 806 (PDF 826)
+
+*(Running head: left 806; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> याभिः सुदास ऊहथुः सुदेव्यं ताभिरू षु ऊतिभिरश्विना गतम् ॥ १९ ॥
+> *yābhiḥ sudāsa ūhathuḥ sudevyaṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 19 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.19)**
+
+> याभिः । पत्नीः । विऽमदाय । निऽऊहथुः । आ । घ । वा ।
+> याभिः । अरुणीः । अशिक्षतम् ।
+> याभिः । सुऽदासे । ऊहथुः । सुऽदेव्यम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ १९ ॥
+> *yābhiḥ | patnīḥ | vi-madāya | ni-ūhathuḥ | ā | gha | vā |*
+> *yābhiḥ | aruṇīḥ | aśikṣatam |*
+> *yābhiḥ | su-dāse | ūhathuḥ | su-devyam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.19)**
+
+> हे अश्विनौ विमदायैतन्नाम्ने ऋषये याभिर्युष्मदीयाभिरूतिभिः पत्नीर्भार्याः पुरुमित्रस्य दुहितरं न्यूहथुः । नितरां युवां प्रापितवन्तौ । घेति पादपूरणः । तथा याभिरूतिभिररुणीररुणवर्णा आरोचमाना गा अभिमुख्येनाशिक्षतम् अदत्तम् । तथा पिजवनपुत्राय सुदासे कल्याणदानाय राज्ञे सुदेव्यं प्रशस्तं धनं याभिरूतिभिरूहथुः प्रापितवन्तौ । ताभिरित्यादि गतम् ॥ पत्नीः । आमो व्यत्ययेन शसादेशः । न्यूहथुः । वह प्रापणे । अथुसि यजादित्वात्सम्प्रसारणम् । द्विर्वचनादि । सुदासे । शोभनं ददातीति सुदाः । असुन् । सुदेव्यम् । दिगादित्वाद्यत् । पा. ४-३-५४ । तित्स्वरितेति स्वरितत्वम् ॥
+> *he aśvinau vimadāyaitannāmne ṛṣaye yābhir yuṣmadīyābhir ūtibhiḥ patnīr bhāryāḥ purumitrasya duhitaraṃ nyūhathuḥ | nitarāṃ yuvāṃ prāpitavantau | gheti pādapūraṇaḥ | tathā yābhir ūtibhir aruṇīr aruṇavarṇā ārocamānā gā abhimukhyenāśikṣatam adattam | tathā pijavanaputrāya sudāse kalyāṇadānāya rājñe sudevyaṃ praśastaṃ dhanaṃ yābhir ūtibhir ūhathuḥ prāpitavantau | tābhir ity ādi gatam ‖ patnīḥ | āmo vyatyayena śasādeśaḥ | nyūhathuḥ | vaha prāpaṇe | athusi yajādittvāt samprasāraṇam | dvirvacanādi | sudāse | śobhanaṃ dadātīti sudāḥ | asun | sudevyam | digādittvād yat | pā. 4-3-54 | titsvariteti svaritatvam ‖*
+
+"O Aśvins! for the ṛṣi named Vimada, with whichever protections of yours you *nyūhathuḥ*, brought down [= conveyed] wives — the daughter of Purumitra: you made [her] reach [him] entirely. *Gha* is a mere filler of the verse. And likewise with whichever protections you gave *aruṇīḥ*, the ruddy, shining cows — *aśikṣatam*, gave them in his very presence. And likewise for Sudās, the son of Pijavana, a king of good giving, with whichever protections you *ūhathuḥ*, brought *sudevyam*, excellent wealth. With those, and so on, come."
+
+*Grammatical tail (short):* *patnīḥ*: by *vyatyaya*, the substitute *śas* for *am*. *Nyūhathuḥ*: root *vaha prāpaṇe*; before *athus*, since it belongs to the *yajādi* class, *saṃprasāraṇa*; doubling, and so on. *Sudāse*: 'he who gives well' = *sudāḥ*; *asun*. *Sudevyam*: the suffix *yat* by the *digādi* class (*pā.* 4-3-54 as read [?]); the *svarita* accent by the *tit*-rule.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.19; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *vimadāya* — to the ṛṣi named Vimada; *yābhiḥ* — by whichever of your protections; *patnīḥ* — wives; *nyūhathuḥ* — you joined [them] to [him]; *yābhiḥ* — by whichever helps; *aruṇīḥ* — [the] beautiful golden-coloured cows; *ā aśikṣatam* — you gave in person all round; *sudāse* — to the king named Sudāsa; *sudevyam* — excellent wealth; *yābhiḥ* — with whichever protections; *ūhathuḥ* — you made [him] obtain; *tābhiḥ ūtibhiḥ ū* — with all those protections (to us also); *su ā gatam* — come, with favour.
+
+---
+
+### Page 807 (PDF 827)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 807.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities! with whichever of your protections you gave a wife to the ṛṣi named Vimada, and with whichever of your helps you gave beautiful golden-coloured cows, and with whichever of your protections you conferred excellent wealth upon the king named Sudāsa: with all those protections of yours come to us also, with favour.
+
+**English Translation (as printed in the source; Rik 112.19)**
+
+"With those aids by which you gave a wife to Vimada, by which you recovered the ruddy cows by which you conferred excellent wealth upon Sudasa; with them, Aswins, come willingly hither."
+
+*(The printed heading reads "Englib Translation", a misprint [sic].)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.19)**
+
+**विमदाय — Vimadāya.** *vimadaṛṣiḥ pariṇeyamahatyā vibhūtyā bhāryāṃ svagṛhaṃ ninīṣan aśvinau tuṣṭāva | tasyāgatyāśvinau bhāryāṃ svasenāpariv[ṛ]tena rathena ninyatuḥ | gāś cāsmai prabhūtā dadatur iti* — "The ṛṣi Vimada, wishing, after the marriage, to bring his wife to his own house with great splendour, praised the Aśvins; the Aśvins came and conveyed his wife in a chariot surrounded by his [wedding] retinue [?], and gave him abundant cows." *(Sanskrit as Skandasvāmi's, as read; the middle compound is doubtful [?].)* After Vimada's marriage, desiring to take his wife to his house in great splendour, he praised the Aśvin deities; they came, seated his wife in their own chariot, took her to his house in splendour, left her there, and gave him abundant cows: this is the story. The same matter:
+
+> यो वर्भगाय विमदाय जायां सेनाजुवा न्यूहतू रथेन ।
+> *yo varbhagāya vimadāya jāyāṃ senājuvā nyūhatū rathena |*
+> (*Ṛ.* 1-116-1 as read [?])
+> *(Sanskrit as read; the first words are doubtful [?]; no gloss attempted.)*
+
+— Kakṣīvān, in this Ṛk, and
+
+> युवं रथेन विमदाय शुन्ध्युवं न्यूहथुः पुरुमित्रस्य योषणाम् ।
+> *yuvaṃ rathena vimadāya śundhyuvaṃ nyūhathuḥ purumitrasya yoṣaṇām |*
+> (*Ṛ.* 10-39-7 as read [?])
+
+— in this Ṛk the *brahmavādinī* Ghoṣā too tells it. It is known from the *Anukramaṇī* that Vimada was the seer of the sūktas from the twentieth [?] to the twenty-second [?] sūkta [as read; the numerals doubtful [?]] of the tenth Maṇḍala; *(the reading of this sentence is partly illegible in the scan [?])*. Support for this view can be found in the Ṛk-Saṃhitā itself.
+
+---
+
+### Page 808 (PDF 828)
+
+*(Running head: left 808; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> एवा ते अग्ने विमदो मनीषामूर्जो नपादमृतेभिः सजोषाः ।
+> *evā te agne vimado manīṣām ūrjo napād amṛtebhiḥ sajoṣāḥ |*
+> (*Ṛ.* 10-20-10 as read [?])
+
+> माकिर्न एना सख्या वि यौषुस्तव चेन्द्र विमदस्य च ऋषेः ।
+> *mākir na enā sakhyā vi yauṣus tava cendra vimadasya ca ṛṣeḥ |*
+> (*Ṛ.* 10-23-7 as read [?])
+> *(Sanskrit as read; doubtful in the numerals [?]; no gloss attempted for either.)*
+
+— in these Ṛks the seer of the sūkta, with the words 'of Vimada and of me, the ṛṣi' (*vimadasya ca ṛṣeḥ*), indicates himself. In the Aitareya Brāhmaṇa, the sūkta '*kuha śruta indraḥ kasminn adya*' (*Ṛ.* 10-22) is called *Vaimada* (the Vimada hymn), and it is said that the hymn beginning with the Ṛk '*kuha śruta*' was seen by the ṛṣi Vimada, and the order of its application is told (*Ai. Brā.* 5-[?]).
+
+**न्यूहथुः — Nyūhathuḥ.** *nitarām ūḍhavantau* — "you conveyed in full": the sense is, 'having called her, you took [her] in great splendour'.
+
+**सुदासे — Sudāse.** Skandasvāmi has:
+
+> अत्रापीतिहासमाचक्षते । सुदासनामा पैजवनो राजा यस्य विश्वामित्रः पुरोहितो बभूव । स यष्टुकामः सारवत् प्रभूतं धनमश्विनौ ययाचे । तस्मै रथेनानीयाश्विनौ ददतुरिति ।
+> *atrāpītihāsam ācakṣate | sudāsanāmā paijavano rājā yasya viśvāmitraḥ purohito babhūva | sa yaṣṭukāmaḥ sāravat [?] prabhūtaṃ dhanam aśvinau yayāce | tasmai rathenānīyāśvinau dadatur iti |*
+> *(Sanskrit as read; the word* sāravat *is doubtful [?].)*
+> "Here too they tell the tale: a king named Sudāsa, son of Pijavana, whose *purohita* was Viśvāmitra. Wishing to sacrifice, he begged the Aśvins for abundant wealth. The two Aśvins brought it in a chariot and gave it to him."
+
+The king named Sudāsa, son of Pijavana, desired to perform a sacrifice with the help of his *purohita* Viśvāmitra. For it he prayed to the Aśvin deities that abundant wealth be given. They brought him wealth in the hollow of their chariot, it is said. This very thing:
+
+> सुदासे दस्रा वसु बिभ्रता रथे पृक्षो वहतमश्विना ।
+> *sudāse dasrā vasu bibhratā rathe pṛkṣo vahatam aśvinā |*
+> (*Ṛ.* 1-47-6 as read [?])
+
+— the ṛṣi Prasakṇa [Prskaṇva?] has said in this Ṛk. The Nirukta-writer has spoken of him with refinement: *viśvāmitra ṛṣiḥ sudāsaḥ paijavanasya purohito babhūva | paijavanaḥ pijavanasya putraḥ* — 'the ṛṣi Viśvāmitra became the *purohita* of Sudāsa, the Paijavana; Paijavana is the son of Pijavana' (*Ni.* 2-[?]4 as read [?]). From this Nirukta sentence it is known that Viśvāmitra was *purohita* to Sudāsa, the son of Pijavana, and that help came to Sudāsa through him. By this explanation Divodāsa may also be called Sudāsa's grandfather.
+
+> अर्णांसि चित्पप्रथाना सुदास इन्द्रो गाध्यान्यकृणोत्सुपारा ।
+> *arṇāṃsi cit paprathānā sudāsa indro gādhyāny akṛṇot supārā |*
+> (*Ṛ.* 7-18-5 as read [?])
+
+> कर्ता सुदासे अह वा उ लोकं दाता वसु मुहुरा दाशुषे भूत् ।
+> *kartā sudāse aha vā u lokaṃ dātā vasu muhur ā dāśuṣe bhūt |*
+> (*Ṛ.* 7-20-3 as read [?])
+> *(Sanskrit as read; the numerals are doubtful [?]; no gloss attempted.)*
+
+From Ṛks such as these it is known that Sudāsa, with the help of Indra and the other deities, conquered the ten [?] kings [*the print: "…ten…"; the last words of the page are partly obscured [?]*].
+
+---
+
+**Progress note:** Printed pp. 1–808 done (PDF 21–828): Sūkta 112: Riks 112.1–112.18 complete (pp. 723–805); Rik 112.19 (printed pp. 805–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (Vimada, Sudāsa) in progress through the foot of p. 808; the rest of the Special Topics and the grammar follow on p. 809. Next: printed p. 809 (PDF 829). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
