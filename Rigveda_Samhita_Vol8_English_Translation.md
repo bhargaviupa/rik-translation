@@ -17584,5 +17584,80 @@ O Indra and Agni, who hold the thunderbolt in your hands, bring wealth for us an
 Grammar, noted briefly. *Bharatam* (root *hṛñ haraṇe*; *loṭ*, second person dual; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; the vikaraṇa *śap*; *guṇa* of the root's *ik* by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84 as read [?]; *uraṇ raparaḥ*, so *r* follows; the form *harata*; by *hṛgrahor bhaś chandasi*, [vārttika] the *h* becomes *bh*; since a verb follows a non-verb, *nighāta*). *Śikṣatam* (root *śikṣa vidyopādāne*; as before the *loṭ*, second person dual form; since it is placed together with the word *āṅ* [as a synonym], here, since a verb follows the verb earlier, *nighāta* does not arise; since the *lasārvadhātuka* ending follows an *anudāttet* root, by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*; since *śap* is *pit*, it is *anudātta*; then the accent of the root remains). *Avatam* (root *ava rakṣaṇe*; *loṭ*, second person dual; since a verb follows a non-verb, *nighāta*). *Yebhiḥ* (the word *yad*; in the instrumental plural, *ais* for *bhis* does not arise by *bahulaṃ chandasi*, Pā. Sū. 7-1-10 as read [?]; *e* arises for the *a*, giving *yebhiḥ*). *Sapitvam* (root *aplṛ vyāptau*; when *sa* is the prior word-member, by *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. Sū. 3-4-14 as read [?], the suffix *tvan*; by *pṛṣodarādi* the root takes the form *pi*; *aṇ*-like...; or else, from the root *pasa samavāye*; the suffix *in* by *sarvadhātubhya in*, Uṇ. 4-[?]1 as read [?]; by *dhātvādeḥ ṣaḥ saḥ*, Pā. Sū. 6-1-64 as read [?], *s* for the initial; from *sapi*, the abstract *sapitvam*, by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119 as read [?], the suffix *tva*; by the accent of the suffix, final acute) *(continued on p. 654)*
 
 ---
+### Page 654 (PDF 674)
 
-**Progress note:** Printed pp. 1–653 done (PDF 21–673): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.6 complete (pp. 621–649); Rik 109.7 (printed pp. 649–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 653 (at *sapitvam*, mid-sentence). Next: printed p. 654 (PDF 674); then Rik 109.8 (the last). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 654; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+The grammar of Rik 109.7 concludes (noted briefly; numerals small and doubtful [?]). *Āsan* (root *asa gatidīptyādāneṣu*; *laṅ*, third person plural; *jhi* → *jus* by *jher jus*, Pā. Sū. 3-4-108 as read [?]; the *ant* substitution [*jhi* → *ant*]; loss of the *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; the vikaraṇa *śap*; *pararūpa* by *ato guṇe*, Pā. Sū. 6-1-97 as read [?]; the augment *āṭ* by *āḍ ajādīnām*, Pā. Sū. 6-4-72 as read [?], for the vowel-initial root; by *saṃyogāntalopa* the final *t* of the suffix is lost; the form *āsan*). *Yebhiḥ* (as above, since the word *yad* is connected, the prohibition of *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?], arises; because the augment *āṭ* is *udātta*, the initial acute). The Rik is closed with *‖ 7 ‖* and a rule of dashes.
+
+## Rik 109.8 — printed pp. 654–656 *(the last Ṛk of the Sūkta)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.8)**
+
+> पुरंदरा शिक्षतं वज्रहस्तास्माँ इन्द्राग्नी अवतं भरेषु ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ८ ॥
+
+*puraṃdarā śikṣataṃ vajrahastāsmāṃ indrāgnī avataṃ bhareṣu | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 8 ‖* *(accent-marks in the print not reproduced; "vajrahastāsmāṃ" is the Saṃhitā's combination of *vajrahastā* + *asmān*)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.8)**
+
+> पुरम्ऽदरा । शिक्षतम् । वज्रऽहस्ता । अस्मान् । इन्द्राग्नी इति । अवतम् । भरेषु ।
+> तत् । नः । मित्रः । वरुणः । मामहन्ताम् । अदितिः । सिन्धुः । पृथिवी । उत । द्यौः ॥ ८ ॥
+
+*puram-darā | śikṣatam | vajra-hastā | asmān | indrāgnī iti | avatam | bhareṣu | tat | naḥ | mitraḥ | varuṇaḥ | māmahantām | aditiḥ | sindhuḥ | pṛthivī | uta | dyauḥ ‖ 8 ‖*
+
+---
+
+### Page 655 (PDF 675)
+
+*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 655.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.8)**
+
+> हे वज्रहस्ता हस्तेन गृहीतवज्रौ । पुरंदरासुरपुराणां दारयितारावन्द्राग्नी शिक्षतं । अस्मदपेक्षितं धनं प्रयच्छतं । अपि च भरेषु संग्रामेष्वस्मानवतं । रक्षतं । यदनेन सूक्तेन प्रार्थितं तदस्मदीयं मित्रादयो मामहन्ताम् । पूजयन्तां ॥ पुरंदरा । पूःसर्वयोर्दारिसहोः । पा. ३-२-४१ । इति खच् । वाचंयमपुरंदरौ च । पा. ६-३-६९ । इति निपातनादम् । सुपां सुलुगिति विभक्तेराकारः ॥
+> *he vajrahastā hastena gṛhītavajrau | puraṃdarāsurapurāṇāṃ dārayitārāv indrāgnī śikṣataṃ | asmadapekṣitaṃ dhanaṃ prayacchataṃ | api ca bhareṣu saṃgrāmeṣv asmān avataṃ | rakṣataṃ | yad anena sūktena prārthitaṃ tad asmadīyaṃ mitrādayo māmahantām | pūjayantāṃ ‖ puraṃdarā | pūḥsarvayor dārisahoḥ | pā. 3-2-41 | iti khac | vācaṃyamapuraṃdarau ca | pā. 6-3-69 | iti nipātanād am | supāṃ suluk iti vibhakter ākāraḥ ‖* *(Sanskrit as read; the tail is short and given.)*
+
+"O *vajrahastā*, you who hold the thunderbolt in the hand! O *puraṃdarā* — splitters of the cities of the Asuras — Indra and Agni: *śikṣatam*, give us the wealth that we desire; and further, protect us in the *bhareṣu*, the battles; *māmahantām*: what has been prayed for by us in this Sūkta, that of ours may Mitra and the others honour, protect."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.8; Kannada; English)**
+
+*Vajrahastā* — those who hold the thunderbolt weapon in the hand; *puraṃdarā* — (destroyers of) the fortresses of the enemies; *indrāgnī* — O Indra and Agni; *śikṣatam* — give (the wealth that we desire); *bhareṣu* — in battles; *asmān* — us; *avatam* — protect; *naḥ* — our; *tat* — this prayer; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the divinity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the divinity of the heavenly world; *māmahantām* — may they make excellent.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who hold the thunderbolt weapon in the hand and destroy the fortresses of enemies, give us the wealth that we desire. Protect us in battles. May Mitra, Varuṇa, Aditi, the divinity of the ocean, the earth and the divinity of the heavenly world make this prayer of ours excellent and protect it.
+
+**English Translation (as printed in the source)**
+
+"Indra and Agni, wielders of the thunderbolt, overturners of cities grant us wealth, defend us in battles ; and may Mitra, Varuna, Aditi—ocean, earth, and heaven, be propitious to this (our prayer)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.8)**
+
+**Puraṃdarā** — *asurapurāṇāṃ dārayitārau |* "destroyers of the fortresses of the Asuras; destroyers of the enemy's fortresses.
+
+> इन्द्राग्नी नवतिं पुरो दासपत्नीरधूनुतम् ।
+> साकमेकेन कर्मणा ॥
+> *indrāgnī navatiṃ puro dāsapatnīr adhūnutam | sākam ekena karmaṇā ‖* (*Ṛ. Saṃ.* 3-12-6 as read)
+
+---
+
+### Page 656 (PDF 676)
+
+*(Running head: left 656; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+> पुरंदरस्य गीर्भिरा विवासेऽग्नेर्व्रतानि पूर्व्या महानि ।
+> *puraṃdarasya gīrbhir ā vivāse 'gner vratāni pūrvyā mahāni |* (*Ṛ. Saṃ.* 2-4-2 as read [?]; the number as read, doubtful [?])
+
+"— as described in Ṛks such as these, here too it is addressed to them as destroyers of the fortresses of enemies."
+
+**Bhareṣu** — "the word *bhara* is read among the names of battle (*Ni.* 2-[?]); 'in battles' is the meaning."
+
+**Śikṣatam** — "for this word here too the meaning is *prayacchatam*: 'give'. The matter that this word has also been used in the senses 'grasp' and 'practise' has been told in the Special Topics of the previous Ṛk."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.8)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Puraṃdarā* (*puraṃ dārayataḥ iti puraṃdarau*; root *dṝ vidāraṇe*; since *pur* is the word-member [*upapada*], the suffix *khac* by *pūḥsarvayor dārisahoḥ*, Pā. Sū. 3-2-41 as read [?]; the *guṇa* of the root because of it; *uraṇ raparaḥ*, so *r* follows; the augment *am* for the prior member by the *nipātana* in *vācaṃyamapuraṃdarau ca*, Pā. Sū. 6-3-69 as read [?]; the nominative dual; before it, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). *Śikṣatam* (root *śikṣa vidyopādāne*; *loṭ*, second person dual; since a vocative [*āmantrita*], *puraṃdarā*, though it stands before, is by *āmantritaṃ pūrvam avidyamānavat*, Pā. Sū. 8-1-72 as read [?], treated as non-existent for it, and since it falls at the beginning of the pāda, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the accent of the root remains). *Vajrahastā* (before the *au* ending, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]). "The remaining words have been explained earlier." The Rik is closed with *‖ 8 ‖* and an ornament.
+
+---
+
+**Progress note:** Printed pp. 1–656 done (PDF 21–676): **Sūkta 109 is complete** (printed pp. 620–656; 8 Ṛks). Printed p. 657 (PDF 677) opens **Sūkta 110** (*tataṃ me apas*, 9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–9 and Triṣṭubh 5; fifth Sūkta of the sixteenth anuvāka; its Sāyaṇa introduction names the *abhiplava* sacrifice's fourth day and the *nividdhāna* verses); that page has been viewed but not yet written. Next: printed p. 657 (PDF 677), starting Sūkta 110 (printed pp. 657–700), then 111 (pp. 701–721) and 112 (pp. 722–end, about 832). Done in this session's run: Sūktas 104 (end) through 109. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
