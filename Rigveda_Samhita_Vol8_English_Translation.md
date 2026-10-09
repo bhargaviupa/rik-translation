@@ -20718,5 +20718,122 @@ In the order of construction and in the exposition of the meanings, both Sāya�
 > *(Sanskrit as read from the print; the numerals are doubtful [?]; no gloss attempted.)*
 
 ---
+### Page 765 (PDF 785)
 
-**Progress note:** Printed pp. 1–764 done (PDF 21–784): Sūkta 112: Riks 112.1–112.7 complete (pp. 723–760); Rik 112.8 (printed pp. 760–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (parāvṛjam/andham/śroṇam with the Vedic Index quotation and Skandasvāmi's three itihāsas; the vartikā tale) done to the foot of p. 764; the grammar page follows on p. 765. (Correction recorded in the text: the Saṃhitā of 112.8 reads *śacībhir*, not *śucibhir*.) Next: printed p. 765 (PDF 785). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 765.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.8)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Vṛṣaṇā*: root *vṛṣa secane*; the suffix *kanin* by *kanin yuvṛṣitakṣi…* (*Uṇ.* 1-156 as read [?]); in the vocative dual, with the *au* ending following, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) *ā*; the vocative *nighāta*. *Parāvṛjam*: root *vṛjī varjane*; 'he who turns away sin by austerity [= destroys sin]' = *parāvṛk*; the suffix *kvip* by *kvip ca* (*pā.* 3-2-76 as read [?]); in *kvip* everything is dropped; by *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) the *kṛdanta* keeps the accent of its prior member; accusative singular. *Cakṣase*: root *cakṣiṅ vyaktāyāṃ vāci*; since roots have several meanings, it is used here in the sense of light; the Uṇādi suffix *asun*; the stem *cakṣas*; since it is *nit*, by *ñnityādir nityam* the first syllable is *udātta*; dative singular. *Etave*: root *iṇ gatau*; to show the sense of the infinitive, by *tumarthe sesenasen…* (*pā.* 3-4-9 as read [?]) the suffix *taven*; *guṇa* of the root because of the suffix; since *taven* is *nit*, the first syllable is *udātta*, as above; by *kṛnmejantaḥ* (*pā.* 1-1-39 as read [?]) it, ending in a diphthong, has the designation 'indeclinable'. *Kṛthaḥ*: root *ḍukṛñ karaṇe*; *laṭ*, second-person dual, *thas*; by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *luk* of the sign *u*; since the suffix is *sārvadhātukam apit* (*pā.* 1-2-4 as read [?]) and so treated as *ṅit*, the *guṇa* of the root's *ik* does not arise; because *yad* is connected the *nighāta* does not arise; by the suffix-accent it ends in *udātta*. *Amuñcatam*: root *muñcḷ mokṣaṇe*, of the *tudādi* class; *laṅ*, second-person dual; *tam* by *tasthasthamipāṃ tāmtamtāmaḥ* (*pā.* 3-4-101 as read [?]); the sign *śa* by *tudādibhyaḥ śaḥ* (*pā.* 3-1-77 as read [?]); the augment *num* by *śe muñcādīnām* (*pā.* 7-1-59 as read [?]); *anusvāra* and *parasavarṇa*; the augment *aṭ*; because *yad* is connected the *nighāta* does not arise; since the augment is *udātta*, the first syllable is *udātta*. *Grasitām*: root *grasu adane*; the suffix *kta*; the augment *iṭ*; in the feminine, *ṭāp*. ‖ 8 ‖
+
+*(An ornament closes Rik 112.8.)*
+
+---
+
+### Page 766 (PDF 786)
+
+*(Running head: left 766; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.9)** *(accent-marks not reproduced)*
+
+> याभिः सिन्धुं मधुमन्तमसश्चतं वसिष्ठं याभिरजरावजिन्वतम् ।
+> याभिः कुत्सं श्रुतर्यं नर्यमावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥ ९ ॥
+> *yābhiḥ sindhum madhumantam asaścataṃ vasiṣṭhaṃ yābhir ajarāv ajinvatam |*
+> *yābhiḥ kutsaṃ śrutaryaṃ naryam āvataṃ tābhir ū ṣu ūtibhir aśvinā gatam ‖ 9 ‖*
+> *(In the print the first* yābhiḥ *of the Saṃhitā has lost its visarga ("yābhi") and the last words show a garbled* ūtir aśvibhinā*; both are misprints and are read as above, in agreement with the Pada.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.9)**
+
+> याभिः । सिन्धुम् । मधुऽमन्तम् । असश्चतम् । वसिष्ठम् । याभिः । अजरौ । अजिन्वतम् ।
+> याभिः । कुत्सम् । श्रुतर्यम् । नर्यम् । आवतम् । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ९ ॥
+> *yābhiḥ | sindhum | madhu-mantam | asaścatam | vasiṣṭham | yābhiḥ | ajarau | ajinvatam |*
+> *yābhiḥ | kutsam | śrutaryam | naryam | āvatam | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.9)**
+
+> हे अश्विनौ सिन्धुं स्यन्दनशीलां नदीं मधुमन्तं मधुसदृशेनोदकेन पूर्णां याभिरूतिभिरसश्चतं अगमयेतम् । प्रावाहयेतमित्यर्थः । हे अजरौ जरारहितावश्विनौ वसिष्ठमृषिं याभिरूतिभिरजिन्वतमप्रीणयेतम् । याभिश्च कुत्सादींस्त्रीन् ऋषीनावतमरक्षतम् । ताभिः सर्वाभिरूतिभिरस्मानपि सुष्ठु गच्छतम् ॥ मधुमन्तम् । मधुशब्दाद्भूम्नि मतुप् । लिङ्गव्यत्ययः । असश्चतम् । सश्चतिर्गतिकर्मा । अस्मादन्तर्भावितण्यर्थाल्लङ् ॥
+> *he aśvinau sindhuṃ syandanaśīlāṃ nadīṃ madhumantaṃ madhusadṛśenodakena pūrṇāṃ yābhir ūtibhir asaścataṃ agamayetam | prāvāhayetam ity arthaḥ | he ajarau jarārahitāv aśvinau vasiṣṭham ṛṣiṃ yābhir ūtibhir ajinvatam aprīṇayetam | yābhiś ca kutsādīṃs trīn ṛṣīn āvatam arakṣatam | tābhiḥ sarvābhir ūtibhir asmān api suṣṭhu gacchatam ‖ madhumantam | madhuśabdād bhūmni matup | liṅgavyatyayaḥ | asaścatam | saścatir gatikarmā | asmād antarbhāvitaṇyarthāl laṅ ‖*
+
+"O Aśvins! the *sindhum*, the river, flowing by nature, *madhumantam*, filled with water like honey: with whichever protections you *asaścatam*, made it go — that is, made it flow. O *ajarau*, free from old age, Aśvins! the ṛṣi Vasiṣṭha, with whichever protections you *ajinvatam*, delighted [him]. And with whichever [protections] you *āvatam*, protected the three ṛṣis Kutsa and the others: with all those protections come well to us also."
+
+*Grammatical tail (short):* *madhumantam*: the suffix *matup* after the word *madhu* in the sense of abundance; a change of gender. *Asaścatam*: *saścati* is a verb of motion; from it, with causative sense included, the *laṅ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.9; Kannada; English)**
+
+*Aśvinā* — O Aśvin deities; *madhumantam* — like honey, full of sweet water [?]; *sindhum* — the river; *yābhiḥ* — by whichever protections; *asaścatam* — you made [it] flow *(the Pratipadārtha is cut off at the foot of p. 766 and runs on to p. 767; the words are partly obscured in the scan, I read:* "…made [it] flow well; *ajarau* — O Aśvins, devoid of old age; *vasiṣṭham* — the ṛṣi named Vasiṣṭha…*")*
+
+---
+
+### Page 767 (PDF 787)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 767.)*
+
+*(The Pratipadārtha continues:)* "…*yābhiḥ* — by whichever protections; *ajinvatam* — you satisfied [him] (and); *yābhiḥ* — by whichever protections; *kutsam* — Kutsa; *śrutaryam* — Śrutarya; *naryam* — Narya; *āvatam* — you protected; *tābhiḥ ūtibhiḥ ū* — with all those protections together, (to us also) *su ā gatam* — come, with pride [*abhimāna*, favour] [?]."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Aśvin deities, free of old age! with whichever of your helps you made the river, filled with water as sweet as honey, flow; with whichever protections you delighted Vasiṣṭha; and with whichever protections you protected Kutsa, Śrutarya and Narya: with all those protections together, come to us also, with pride [favour] [?].
+
+**English Translation (as printed in the source; Rik 112.9)**
+
+"With those aids by which you caused the sweet stream to flow, by which you, who are exempt from decay, gratified Vasishtha, and by which you protected Kusta [sic], Srutarya, and Narya; with them, Aswins, come willingly hither."
+
+*(The printed "Kusta" is a misprint for "Kutsa".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.9)**
+
+**मधुमन्तं सिन्धुं याभिः असश्चतम् — Madhumantaṃ sindhuṃ yābhiḥ asaścatam.** "[The poet speaks of] making the river flow, filled with water like honey in sweetness": explaining this setting, Skandasvāmi has told the earlier story:
+
+> अत्रेतिहासमाचक्षते । विश्वामित्रो वसिष्ठं जिघांसुः सरस्वतीमाहूयोवाच । मत्समीपं वसिष्ठं शीघ्रमानय इति । सा चेत्थं ज्ञात्वा विश्वामित्रादपि वसिष्ठादपि शापाद् बिभ्यती किञ्चिदप्यप्रतिपद्यमाना चिन्ताकुला विवर्णा बभूव । अथैनामेवंरूपां ज्ञात्वा कृपाशीलतया वसिष्ठ उवाच ।
+> *atretihāsam ācakṣate | viśvāmitro vasiṣṭhaṃ jighāṃsuḥ sarasvatīm āhūyovāca | matsamīpaṃ vasiṣṭhaṃ śīghram ānaya iti | sā cetthaṃ jñātvā viśvāmitrād api vasiṣṭhād api śāpād bibhyatī kiñcid apy apratipadyamānā cintākulā vivarṇā babhūva | athainām evaṃrūpāṃ jñātvā kṛpāśīlatayā vasiṣṭha uvāca |*
+> "Here they tell the tale: Viśvāmitra, wishing to kill Vasiṣṭha, called Sarasvatī and said, 'Bring Vasiṣṭha to me quickly.' She, knowing this, afraid of a curse from both Viśvāmitra and Vasiṣṭha, and unable to decide anything, became troubled and pale. Then Vasiṣṭha, seeing her in that state, said out of his compassionate nature:"
+
+> रक्षात्मानं सरिच्छ्रेष्ठे वह मां शीघ्रगामिनि ।
+> विश्वामित्रः शपेद्धि त्वा मा कृथास्त्वं विचारणाम् ॥
+> *rakṣātmānaṃ saricchreṣṭhe vaha māṃ śīghragāmini |*
+> *viśvāmitraḥ śapeddhi tvā mā kṛthās tvaṃ vicāraṇām ‖*
+> "'Protect yourself, best of rivers; carry me, O swift-flowing one; for Viśvāmitra might curse you; do not hesitate.'"
+
+*(Sanskrit as read; the word* vicāraṇām *is as printed.)* "Once, wishing to kill Vasiṣṭha, Viśvāmitra called the river Sarasvatī to him and commanded: 'Bring Vasiṣṭha to me quickly.' She, thus disobeying neither, was thrown into doubt, since she feared a curse from Viśvāmitra and from Vasiṣṭha alike, and became pale with anxiety. Vasiṣṭha, understanding her predicament, then said to her, from his kindness: 'O best of rivers! O swift one! carry me to him; otherwise he will curse you.'" *(the passage runs on to p. 768)*
+
+---
+
+### Page 768 (PDF 788)
+
+*(Running head: left 768; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+> अथ तं स्वकूले जपन्तं सरस्वती महता जलौघेन विश्वामित्राश्रमं प्रत्यवाह । ऊढ्वा च विश्वामित्राय निवेदयामास । निवेद्य च प्रहरणस्नेषणव्याकुले [?] विश्वामित्रे कृतं मया स्वकार्यमिति मन्यमाना ब्रह्महत्याभयात् सरस्वती वसिष्ठं ततो दूरमुपोवाह । अथ तज्ज्ञात्वा विश्वामित्रः क्रुद्धः सरस्वतीं शशाप शोणितं वहेति । सा शोणितमुवाह ।
+> *atha taṃ svakūle japantaṃ sarasvatī mahatā jalaughena viśvāmitrāśramaṃ pratyavāha | ūḍhvā ca viśvāmitrāya nivedayām āsa | nivedya ca praharaṇasneṣaṇavyākule [?] viśvāmitre kṛtaṃ mayā svakāryam iti manyamānā brahmahatyābhayāt sarasvatī vasiṣṭhaṃ tato dūram upovāha | atha taj jñātvā viśvāmitraḥ kruddhaḥ sarasvatīṃ śaśāpa śoṇitaṃ vaheti | sā śoṇitam uvāha |*
+> *(Sanskrit as read; the compound* praharaṇasneṣaṇavyākule *is doubtful in the print [?].)*
+> "Then Sarasvatī, with a great flood of water, carried him, who was muttering prayers on her bank, to Viśvāmitra's hermitage. Having carried him, she informed Viśvāmitra. Having informed him, and thinking, as Viśvāmitra was busy [seeking a weapon?], 'I have done my own work', Sarasvatī, in fear of the sin of killing a brahmin, bore Vasiṣṭha far away from there. Then, learning this, Viśvāmitra in anger cursed Sarasvatī: 'Flow with blood.' She flowed with blood."
+
+Then Sarasvatī, taking Vasiṣṭha, who was performing *japa* on her bank, in a great flood of water to Viśvāmitra's hermitage, informed Viśvāmitra of it. And then — Viśvāmitra being engaged in his attempt to kill Vasiṣṭha — Sarasvatī, thinking that she herself had caused [the sin of] killing a brahmin, took Vasiṣṭha away from there to a great distance, through fear. Viśvāmitra, enraged, cursed Sarasvatī that all her stream should be blood. The stream of blood began to flow.
+
+> अथर्षयश्च देवाश्च गन्धर्वाप्सरसस्तथा ।
+> सरस्वतीं तदा दृष्ट्वा बभूवुर्दुःखिता भृशम् ॥
+> ज्ञात्वा तदश्विनौ तस्यां शापमुपनिन्यतुः [?] ।
+> ततः सरस्वती जाता प्रसन्नसलिला शिवा ॥
+> *atharṣayaś ca devāś ca gandharvāpsarasas tathā |*
+> *sarasvatīṃ tadā dṛṣṭvā babhūvur duḥkhitā bhṛśam ‖*
+> *jñātvā tad aśvinau tasyāṃ śāpam upaninyatuḥ [?] |*
+> *tataḥ sarasvatī jātā prasannasalilā śivā ‖*
+> "Then the ṛṣis and the gods, and the Gandharvas and Apsarases, seeing Sarasvatī then, were greatly grieved. The two Aśvins, knowing it, [took away] the curse from her; thereupon Sarasvatī became clear-watered and auspicious."
+
+> भारते तु ऋषयः शापात्सरस्वतीं मोचयामासुरित्याख्यानम् । तदश्विनोः प्रसादेनेति वर्णयितव्यम् ।
+> *bhārate tu ṛṣayaḥ śāpāt sarasvatīṃ mocayām āsur ity ākhyānam | tad aśvinoḥ prasādeneti varṇayitavyam |*
+> "In the *Bhārata*, the tale is that the ṛṣis freed Sarasvatī from the curse; that is to be told as through the favour of the Aśvins."
+
+Then the ṛṣis, the gods, the Gandharvas and the Apsarases, seeing Sarasvatī with such a flow of blood, were grieved. The Aśvin deities saw it and freed her from the curse: so the stream of Sarasvatī became pure, sacred, and full of clear water. This setting is indicated here. (Skandasvāmi has indicated that the tale told in the *Bhārata*, that the ṛṣis freed Sarasvatī from the curse, is to be understood here as done by the Aśvin deities' favour.)
+
+**वसिष्ठं याभिः अजिन्वतम् — Vasiṣṭhaṃ yābhiḥ ajinvatam.** "The matter of the Aśvin deities satisfying Vasiṣṭha with their helps": *athāparam itihāsam ācakṣate | vasiṣṭho hataputraḥ putrārthī aśvināv ayojat [?] | tasmai aśvinau putraṃ dadatur iti* — "And another tale they tell: Vasiṣṭha, whose sons had been slain, wishing for a son, engaged the two Aśvins [in sacrifice]; the Aśvins gave him a son." Vasiṣṭha, whose sons had been killed, wishing for a son, hated [= was displeased with the other gods and] performed a sacrifice for the Aśvin deities; and, pleased, they gave him a son: this is said in Vasiṣṭha's own sūkta, and he quotes:
+
+> अनिष्टं धीष्वश्विना न आसु प्रजावद्रेतो अह्रयं नो अस्तु ।
+> *aniṣṭaṃ dhīṣv aśvinā na āsu prajāvad reto ahrayaṃ no astu |*
+> (*Ṛ.* 7-67-6 as read [?])
+> *(Sanskrit as read; doubtful in the first word [?]; no gloss attempted.)*
+
+— saying that it is stated in this Ṛk.
+
+---
+
+**Progress note:** Printed pp. 1–768 done (PDF 21–788): Sūkta 112: Riks 112.1–112.8 complete (pp. 723–765); Rik 112.9 (printed pp. 766–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Sarasvatī/Viśvāmitra/Vasiṣṭha tale from Skandasvāmi; Vasiṣṭha's son), ending at the foot of p. 768 after the Ṛg citation *aniṣṭaṃ dhīṣv aśvinā…*. Next: printed p. 769 (PDF 789). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
