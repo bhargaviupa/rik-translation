@@ -14904,5 +14904,88 @@ O Bṛhaspati, always bring us happiness. We ask for that power of yours, establ
 — from this Brāhmaṇa sentence it is understood that Śaṃyu, the son of Bṛhaspati, formerly recognized the excellence of the sacrifice and went to the world of the gods to obtain the happiness which could be got by that knowledge. By the fire, that knowledge was lost to men."
 
 ---
+### Page 554 (PDF 574)
 
-**Progress note:** Printed pp. 1–553 done (PDF 21–573): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.4 complete (pp. 530–550); Rik 106.5 (printed pp. 550–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*sadam it*, *sugam*, *śaṃ yoḥ*; ending at the foot of p. 553, after the Śaṃyu story). Next: printed p. 554 (PDF 574). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 554; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+*(The Śatapatha passage on Śaṃyu continues from p. 553; its middle part is dotted out in the print as lost [".... ....."].)*
+
+> तद्वा ऋषीणामनुश्रुतवास … ते तामेव यज्ञस्य संस्थामुपायंस्तस्माच्छंयुर्बार्हस्पत्यो वेद्यच्छंयोरब्रुवंस्तामेवैष एतद्यज्ञस्य संस्थामुपैति … तस्माद्वै शंयोराह । स प्रतिपद्यते । तच्छंयोरावृणीमह इति ।
+> *tad vā ṛṣīṇām anuśrutavāsa … te tām eva yajñasya saṃsthām upāyaṃs tasmāc chaṃyur bārhaspatyo vedy acchaṃyor abruvaṃs tām evaiṣa etad yajñasya saṃsthām upaiti … tasmād vai śaṃyor āha | sa pratipadyate | tac chaṃyor āvṛṇīmaha iti |* (*Śa. Brā.* 1-8-1-[?]4, 3[?] as read [?]; the gaps and several words are as printed [".... ...."] and read with doubt [?])
+
+"Thus the matter became known to the ṛṣis; afterwards, having uttered the mantra beginning *śaṃyoḥ*, they procured this form of happiness for the welfare of men — so the story is explained. Therefore, in a Ṛk addressed to Bṛhaspati, when the prayer is made desiring a happiness which both allays diseases and wards off fear, the propriety [of the word *śaṃyoḥ*] may be said to be the greater."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.5)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Bṛhaspate* (*tadbṛhatoḥ karapatyoś coradevatayoḥ*, Pā. Sū. 6-1-157 as read [?]: the augment *suṭ* and loss of *t* for the prior member; since it is in the *vanaspatyādi* group, both members keep their accent at once; here, because the vocative is at the beginning of the pāda, the initial acute by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]). *Sugam* (*suṣṭhu gamyate 'smin iti sugam*; by the vārttika *sudurorādhikaraṇe* the suffix *ḍa* in the locative sense after *gam*; by *ḍit*, loss of the *ṭi* of the root; the accent of the *kṛdanta* latter member of the compound). *Kṛdhi* (root *ḍukṛñ karaṇe*; *loṭ*, second person singular; *hi* for *sip*, *dhi* by *hi* → *dhi* after the *śru-śṛṇu-pṛ-kṛ…* by *śrusṛṇu…*, Pā. Sū. 6-4-102 as read [?]; the loss of the vikaraṇa by *bahulaṃ chandasi*; *nighāta*). *Śaṃyoḥ* (the Nirukta-author has explained these two words thus: '*śamanaṃ ca rogāṇāṃ yāvanaṃ ca bhayānām*', *Ni.* 4-2[?] as read [?]: 'the cure of diseases and the keeping away of fears'). *Manurhitam* (root *mana jñāne*; the Uṇādi suffix *usi*; the word *manus*; the accent *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]: initial acute; *manunā hitam manurhitam*; *tṛtīyā karmaṇi*, Pā. Sū. 6-2-48 as read [?]: the accent of the prior member). The Rik is closed with *‖ 5 ‖* and a rule of dashes.
+
+---
+
+### Page 555 (PDF 575)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 555.)*
+
+## Rik 106.6 — printed pp. 555–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.6)**
+
+> इन्द्रं कुत्सो वृत्रहणं शचीपतिं काटे निबाळ्ह ऋषिरह्वदूतये ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ ६ ॥
+
+*indraṃ kutso vṛtrahaṇaṃ śacīpatiṃ kāṭe nibāḷha ṛṣir ahvad ūtaye | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 6 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.6)**
+
+> इन्द्रम् । कुत्सः । वृत्रऽहणम् । शचीऽपतिम् । काटे । निऽबाळ्हः । ऋषिः । अह्वत् । ऊतये ।
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ ६ ॥
+
+*indram | kutsaḥ | vṛtra-haṇam | śacī-patim | kāṭe | ni-bāḷhaḥ | ṛṣiḥ | ahvat | ūtaye | ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.6)**
+
+> काट इति कूपनाम । तस्मिन्निबाळ्हो निपातितः कुत्स ऋषिरूतये रक्षणायेन्द्रमह्वत् । आह्वयति स्म । कीदृशं । वृत्रहणं वृत्राणां शत्रूणां हंतारं । शचीपतिं शचीति कर्मनाम । सर्वेषां कर्मणां पालयितारं । यद्वा शच्या देव्या भर्तारम् ॥ शचीपतिम् । वनस्पत्यादिषु पाठादुभयपदप्रकृतिस्वरत्वम् । शचीशब्दः शार्ङ्गरवादिजीनन्त आद्युदात्तः । निबाळ्हः । बाह्र प्रयत्ने । नीत्युपसर्गवशात्पतनार्थे वर्तते । निष्ठायां क [?] इडभावः । ढत्वष्ठत्वाद्यानि । यद्वा । भृशार्थे [?] इडभावो निपात्यते । अत्र च बाढशब्दो भृशत्वोपेते पतने सामर्थ्याद्वर्तते । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । अह्वत् । ह्वेञ् स्पर्धायां शब्दे च । लुङि च्लेरजादेशः । आतो लोप इटि चेत्याकारलोपः ॥
+> *kāṭa iti kūpanāma | tasmin nibāḷho nipātitaḥ kutsa ṛṣir ūtaye rakṣaṇāyendram ahvat | āhvayati sma | kīdṛśaṃ | vṛtrahaṇaṃ vṛtrāṇāṃ śatrūṇāṃ hantāraṃ | śacīpatiṃ śacīti karmanāma | sarveṣāṃ karmaṇāṃ pālayitāraṃ | yadvā śacyā devyā bhartāram ‖ śacīpatim | vanaspatyādiṣu pāṭhād ubhayapadaprakṛtisvaratvam | śacīśabdaḥ śārṅgaravādijīnanta ādyudāttaḥ | nibāḷhaḥ | bāhṛ prayatne | nīty upasargavaśāt patanārthe vartate | niṣṭhāyāṃ ka [?] iḍabhāvaḥ | ḍhatvaṣṭhatvādyāni | yadvā | bhṛśārthe [?] iḍabhāvo nipātyate | atra ca bāḍhaśabdo bhṛśatvopete patane sāmarthyād vartate | gatir anantara iti gateḥ prakṛtisvaratvam | ahvat | hveñ spardhāyāṃ śabde ca | luṅi cler ajādeśaḥ | āto lopa iṭi cety ākāralopaḥ ‖* *(Sanskrit as read; "ka [?]" in the tail and "bhṛśārthe" are clotted and given with doubt [?]; the tail is short and given.)*
+
+"*Kāṭa* is a name for a well: Kutsa the ṛṣi, thrown into it (*nibāḷhaḥ*, *nipātitaḥ*), called on (*ahvat*, *āhvayati sma*) Indra for protection. What sort? *Vṛtrahaṇam*: the slayer of the enemies, the Vṛtras; *śacīpatim*: *śacī* is a name for 'action': the protector of all actions; or, the husband of the goddess Śacī."
+
+---
+
+### Page 556 (PDF 576)
+
+*(Running head: left 556; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.6; Kannada; English)**
+
+*Kāṭe* — in the well; *nibāḷhaḥ* — thrown; *kutsaḥ ṛṣiḥ* — the ṛṣi named Kutsa; *ūtaye* — for protection; *vṛtrahaṇam* — the destroyer of enemies; *śacīpatim* — the protector of all actions, or the husband of the goddess Śacī; *indram* — Indra; *ahvat* — called; *durgāt* — from the impassable road; *ratham na* — as a good charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — the exceedingly liberal Indra and the others; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] make free and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+The ṛṣi named Kutsa, thrown into a well, called on Indra — the destroyer of enemies, the protector of all actions — for protection. As a good charioteer brings the chariot safely through an impassable road, may Indra and the other deities, who protect our dwelling and are generous in giving, free us from all sin and protect us.
+
+**English Translation (as printed in the source)**
+
+"Kutsa, the Rishi, thrown into a well, has invoked to his succour, Indra, the slayer of enemies, the encourager of good works : may they, who are bountiful and the givers of dwellings, extricate us from all sin, as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.6)**
+
+**Kāṭe** — "since the word *kāṭa* is read among the names of 'well' (*Ni.* 3-[?]9 as read [?]), *kāṭe* means 'in the well'."
+
+**Nibāḷhaḥ** — *nipātitaḥ |* "'thrown, fallen', says Sāyaṇa; and '*nibāḍha iti niśabdaḥ prakarṣe | niṣkaṣkaṃ niruktam iti yathā atiśayena bādhyate 'sau iti nibāḷhaḥ | kūpe ati sambādhatvāt*' [Skandasvāmin] — 'the word *ni* is in the sense of excess: as in *niṣkaṣka* and *nirukta*, in which the prefix *niḥ* gives the sense "exceedingly", here also the sense "exceedingly" is given: *nibāḷha* is "the one who is extremely harassed" — since in a well one is exceedingly confined": Skandasvāmin also explains this word as 'Trita, who suffers intensely in the deep well' [?]."
+
+*(continued on p. 557)*
+
+---
+
+### Page 557 (PDF 577)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 557.)*
+
+**Śacīpatim** — "the word *śacī* is read among the names of speech (*Ni.* 1-[?]1 [print: 2-[?]1]), among the names of action (*Ni.* 2-1) and among the names of wisdom (*Ni.* 3-[?]9 [?]); and *Śacī* is also the name of Indrāṇī. Therefore *śacīpati* means either the lord of speech [praise], or the lord of works, or the husband of Indrāṇī."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.6)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Vṛtrahaṇam* (*vṛtraṃ hatavān vṛtrahā*; root *han hiṃsāgatyoḥ*; the suffix *kvip* in the past sense by *brahmabhrūṇavṛtreṣu kvip*, Pā. Sū. 3-2-87 as read [?]; accusative singular: since the rule that the penult is lengthened is restricted by *inhanpūṣāryamṇāṃ śau*, Pā. Sū. 6-4-12 as read [?], there is no lengthening of the penult here). *Śacīpatim* (since this is read in the *vanaspatyādi* group by *ubhe vanaspatyādiṣu*, Pā. Sū. 6-2-140 as read [?]; the word *śacī* ends in *ī* [*jīnanta*] and has the initial acute). *Nibāḷhaḥ* (root *bāhṛ prayatne*; it is used in the sense of falling by virtue of the prefix *ni*: that the sense of a root changes by the prefix has been said before; the suffix *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; the *iṭ* augment is not applied by the statement *āgamānuśāsanam anityam*; *ḍhatva* for the *h* by *hoḍhaḥ*, Pā. Sū. 8-2-31 as read [?]; *ṣṭutva* for the *t* of the suffix by *jhaṣas tathor dho 'dhaḥ*, Pā. Sū. 8-2-40 as read [?]; *ṣṭutva*; loss of the first *ḍh* by *ḍho ḍhe lopaḥ*, Pā. Sū. 8-3-13 as read [?]; or, by *dṛḍhaśabda…* [as printed: *bhṛśārthe iḍabhāvaḥ nipātitaḥ*, by *kṣubdhasvāntadhvāntalagnamliṣṭaviribdhaphāṇṭabāḍhāni mantharabhṛśeṣu*, Pā. Sū. 7-2-18 as read [?]], the absence of *iṭ* is established as a *nipātana* in the sense of 'exceedingly'; here the word *bāḍha* because of its power has the sense of falling; the accent of the prior member *ni* by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]). *Ahvat* (root *hveñ spardhāyāṃ śabde ca*; *luṅ*, third person singular, *tip*; *ṅ* for *cli* [*aṅ*] by *luñi ca*..., [print: *cler luṅi*], Pā. Sū. 3-1-44 as read [?]; *aṅ* substitution by *lipisicihvaś ca*, Pā. Sū. 3-1-53 as read [?]; *ā* for the vowel by *ādeca upadeśe 'śiti*, Pā. Sū. 6-1-45 as read [?]; loss of *ā* by *āto lopa iṭi ca*, Pā. Sū. 6-4-64 as read [?]; the *aṭ* augment for the aorist; *nighāta*). The Rik is closed with *‖ 6 ‖* and an ornament.
+
+---
+
+**Progress note:** Printed pp. 1–557 done (PDF 21–577): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.6 complete (pp. 530–557). Next: Rik 106.7 (the last, Triṣṭubh) begins at printed p. 558 (PDF 578). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
