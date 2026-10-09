@@ -9991,4 +9991,109 @@ Grammar pages, noted briefly. They treat: *indriyam* (*indrasya liṅgaṃ balam
 
 ---
 
-**Progress note:** Printed pp. 1–361 done (PDF 21–381): **Sūkta 103** (8 Ṛks) in progress: Rik 103.1 (printed pp. 356–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (*indriyam*, *parācaiḥ*, *kṣamā idam anyat divi anyat*, *samanā iva ketuḥ*) and the start of the grammar done to p. 361. Next: printed p. 362 (PDF 382): the grammar of 103.1 continues (*adhārayanta*…); then Rik 103.2. Sūkta 104 begins at printed p. 394.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 362 (PDF 382)
+
+*(Running head: left 362; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**Vyākaraṇa-prakriyā of Rik 103.1, concluded (grammar page, noted briefly; numerals small and doubtful [?])**
+
+Grammar page, noted briefly. The grammar of Rik 103.1 concludes: *kṣamā* (the locative ending, following, is dropped by *supāṃ suluk…* [Pā. Sū. 7-1-39 as read]); *divi* (the ending acute by *ūḍidaṃpadādi…* [Pā. Sū. 6-1-171 as read]); *īm* (in the Saṃhitā, Vedic loss of the other *m*); *samaneva* (root *ṣama ṣṭama avaiklavye*; *yuc* by *anyebhyo 'pi dṛśyate* [Pā. Sū. 3-2-178 as read]; *ana* for *yu* by *yuvoranākau* [Pā. Sū. 7-1-1 as read]; *s* for the initial *ṣ* of the root; the locative ending following, replaced by *ā* by *supāṃ suluk…*; the form *samanā*; *samanā iva* — *samaneva*; the loss of the ending [of the first member] before *iva* and the accent of the first member by *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca* [vārttika, as read], so the compound). The Rik is closed with *‖ 1 ‖* and a rule of dashes.
+
+## Rik 103.2 — printed pp. 362–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.2)**
+
+> स धारयत्पृथिवीं पप्रथच्च वज्रेण हत्वा निरपः ससर्ज ।
+> अहन्नहिमभिनद्रौहिणं व्यहन्व्यंसं मघवा शचीभिः ॥ २ ॥
+
+*sa dhārayat pṛthivīṃ paprathac ca vajreṇa hatvā nirapaḥ sasarja | ahann ahim abhinad rauhiṇaṃ vy ahan vyaṃsaṃ maghavā śacībhiḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.2)**
+
+> सः । धारयत् । पृथिवीम् । पप्रथत् । च । वज्रेण । हत्वा । निः । अपः । ससर्ज ।
+> *[the Pada continues on p. 363]*
+
+### Page 363 (PDF 383)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 363.)*
+
+> अहन् । अहिम् । अभिनत् । रौहिणम् । वि । अहन् । विऽअंसम् । मघऽवा । शचीभिः ॥ २ ॥
+
+*saḥ | dhārayat | pṛthivīm | paprathat | ca | vajreṇa | hatvā | niḥ | apaḥ | sasarja | ahan | ahim | abhinat | rauhiṇam | vi | ahan | vi-aṃsam | magha-vā | śacībhiḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.2)**
+
+> स इन्द्रः पृथिवीमसुरैः पीडितां भूमिं धारयत् । धृतवान् । पीडारहितत्वेन स्थितामकरोदित्यर्थः । तदनन्तरं पप्रथच्च । तां भूमिं विस्तीर्णामकरोत् । अपि च वज्रेणायुधेन हन्तव्यान्वृत्रादीन्हत्वापो वृष्ट्युदकानि निः ससर्ज । मेघान्निर्गमयामास । एतदेव स्पष्टीक्रियते । अहिमन्तरिक्षे वर्तमानं मेघमहन् । वज्रेण वर्षणार्थमताडयत् । रौहिणं । रौहिणो नाम कश्चिदसुरः । तं च व्यभिनत् । व्यदारयत् । अपि च मघवा धनवानिन्द्रः शचीभिरात्मीयैर्युद्धकर्मभिर्व्यंसं विगतभुजं वृत्रासुरमहन् । अवधीत् ॥ पप्रथत् । प्रथं करोति प्रथयति । तत्करोतीति णिच् । नानिष्ठवत्वातिपदिकस्य कार्यं । पा. ६-४-१५३-१ । इति वचनाद्र ऋतो हलादेर्लघोः । पा. ६-४-१६१ । इति ऋकारस्य रत्वम् । टेरिति टिलोपः । तस्य स्थानिवद्भावाद्द्वुद्भ्यभावः । प्रथयतेर्लुङ् चङि णिलोपे । द्विर्वचने चङ्यन्यतरस्याम् । पा. ६-१-११३ । इति चङः पूर्वस्योदात्तत्वम् । न णिलोपस्य स्थानिवत्त्वं न पदान्तेत्यादिना स्वरनिधिं प्रति तन्निषेधात् । पूर्वपदस्यासमानवाक्यस्थत्वान्निघाताभावः ॥
+> *sa indraḥ pṛthivīm asuraiḥ pīḍitāṃ bhūmiṃ dhārayat | dhṛtavān | pīḍārahitatvena sthitām akarod ity arthaḥ | tadanantaraṃ paprathac ca | tāṃ bhūmiṃ vistīrṇām akarot | api ca vajreṇāyudhena hantavyān vṛtrādīn hatvāpo vṛṣṭyudakāni niḥ sasarja | meghān nirgamayām āsa | etad eva spaṣṭīkriyate | ahim antarikṣe vartamānaṃ megham ahan | vajreṇa varṣaṇārtham atāḍayat | rauhiṇaṃ | rauhiṇo nāma kaścid asuraḥ | taṃ ca vyabhinat | vyadārayat | api ca maghavā dhanavān indraḥ śacībhir ātmīyair yuddhakarmabhir vyaṃsaṃ vigatabhujaṃ vṛtrāsuram ahan | avadhīt ‖ paprathat | prathaṃ karoti prathayati | tat karotīti ṇic | nāniṣṭhavatvātipadikasya kāryam | Pā. 6-4-153-1 | iti vacanād ra ṛto halāder laghoḥ | Pā. 6-4-161 | iti ṛkārasya ratvam | ṭer iti ṭilopaḥ | tasya sthānivadbhāvād dvudbhyabhāvaḥ | prathayater luṅ caṅi ṇilope | dvirvacane caṅy anyatarasyām | Pā. 6-1-113 [?] | iti caṅaḥ pūrvasyodāttatvam | na ṇilopasya sthānivattvaṃ na padāntety ādinā svaranidhiṃ prati tanniṣedhāt | pūrvapadasyāsamānavākyasthatvān nighātābhāvaḥ ‖*
+
+*(The grammatical tail is characterized, not fully read: the form* paprathat *(the denominative* ṇic *'to make wide', the substitution* ra *for the* ṛ *of* pṛthu *by* ra ṛto halādeḥ laghoḥ *[Pā. Sū. 6-4-161, as read], loss of* ṭi*, the aorist* luṅ *with* caṅ*, the doubling, and the accent of the reduplicative by a rule that the print gives as* Pā. 6-1-113 [?]). The sūtra numerals and some clauses are clotted and marked [?].)*
+
+"That Indra *dhārayat* — upheld, held up — the earth, the land oppressed by the Asuras: the sense is that he made it stand free of oppression. Thereafter he *paprathat ca* — he made that earth wide. And further, having struck with the thunderbolt, the weapon, those to be struck, Vṛtra and the rest, he *niḥ sasarja* — let loose, brought out — the *apaḥ*, the rain-waters, from the clouds. This is made plain: he struck the cloud, *ahi*, that was in the mid-air, with the thunderbolt, for the sake of rain. *Rauhiṇam* — Rauhiṇa is the name of a certain Asura; him too he *vyabhinat* — split. And Maghavā, wealthy Indra, with his *śacībhiḥ* — his own warlike deeds — *ahan* — killed — the *vyaṃsa* — the armless — Vṛtra the Asura."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*saḥ* — Indra; *pṛthivīṃ* — the earth (oppressed by Asuras); *dhārayat* — raised [and] held (and saved it from harm); *paprathat ca* — and made [the earth] spread widely; *vajreṇa* — with the thunderbolt; *hatvā* — having killed (Vṛtra and the rest); *apaḥ* — the waters (the rain-waters and the like); *niḥ sasarja* — let out from the clouds; *ahiṃ* — the cloud in the mid-air; *ahan* — struck; *rauhiṇaṃ* — the Asura named Rauhiṇa; *vy abhinat* — split; *maghavā* — Indra, endowed with wealth; *śacībhiḥ* — by his (battle) deeds; *vyaṃsaṃ* — Vṛtra the Asura, who was deprived of arms; *ahan* — killed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"Indra raised up the earth, which was oppressed by Asuras, saved it from harm, and made the earth spread widely. Killing Vṛtra and the rest with the thunderbolt, he let out the rain-waters and the like from the clouds. He struck, with the thunderbolt, the cloud in the mid-air. He split the Asura named Rauhiṇa. Indra, endowed with wealth, by his battle deeds killed Vṛtra the Asura, who was deprived of arms."
+
+### Page 364 (PDF 384)
+
+*(Running head: left 364; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**English Translation (as printed)**
+
+> He upholds, and has spread out, the earth ; having struck (the clouds), he has extricated the waters ; he has slain Ahi, he has pierced Rauhina, he has destroyed, by his prowess, the mutilated (Vritra).
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.2 (Kannada)**
+
+"*Saḥ pṛthivīṃ dhārayat* — the intention is that Indra protected the earth, which had been oppressed by the Asuras. The exploits of Indra's daring are here described, by which he destroyed the Rākṣasas and the like who were producing obstacles that held back rain-water and the like and were causing harm to the world, and so made the earth safe. [Sāyaṇa:] *asuraiḥ pīḍitāṃ bhūmiṃ dhṛtavān* | *pīḍārahitatvena sthitām akarod ity arthaḥ*: so Sāyaṇa explains."
+
+> आधारयत्पृथिवीं विश्वधायसमस्तभ्नान्मायिया द्यामवस्रसः ।
+> *ādhārayat pṛthivīṃ viśvadhāyasam astabhnān māyayā dyām avasrasaḥ |*
+> (*Ṛ. Saṃ.* 2-1[?]-[?] as read [?])
+
+"— as in this Ṛk, it is well known that Indra, by his strength and by his wisdom, held and protected the earth, the support of all. And as to his deeds, which are the benefactors of the world —
+
+*Vajreṇa hatvā apaḥ niḥ sasarja* — he destroyed the enemy in the form of the cloud, which causes obstruction to all, and let loose the rain that is the greatest benefactor of the life of the people. He made the flood flow. He gave the world the wealth of water. And —
+
+*Ahiṃ ahan* — the word *ahi* is read among the names of cloud (*Ni.* 1-[?]0 as read [?]) and among the names of water (*Ni.* 1-[?]2 as read [?]); here it must be taken in the sense of 'cloud'. The Nirukta-author, quoting the Ṛk"
+
+> दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः ।
+> *dāsapatnīr ahigopā atiṣṭhan niruddhā āpaḥ paṇineva gāvaḥ |*
+> (*Ṛ. Saṃ.* 1-32-11 as read [?])
+
+"— in explaining the derivation of the word *ahi*, gives the meaning 'cloud' and says *āhanti ayanāt* (*Ni.* 2-[?]2): 'since it moves in the mid-air, the cloud has the name *ahi*'. Here too Sāyaṇa has said *antarikṣe vartamānaṃ meghaṃ*: 'the cloud that is in the mid-air'. And"
+
+### Page 365 (PDF 385)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 365.)*
+
+"— [the Nirukta-author]: *ayam api itaro hīr etasmād eva nirhṛsitopasargaḥ āpnotīti* (*Ni.* 3-[?]2 as read [?]): 'this other *ahi*, too, comes from the root *han*, which has the sense "to go", with the preverb *ā* added, and, after a shortening [of the preverb], it is *ahi*, with the sense *sarpaṇa*, "creeping"'. Besides this, *yo 'hiḥ sa budhnyaḥ budhnam antarikṣaṃ tan nivāsāt* (*Ni.* 10-[?]4 as read [?]): 'because he dwells in the mid-air, which is *budhna*, the *ahi* is called *budhnya*': the Nirukta-author has shown that, because [the cloud] dwells in such a mid-air, it also gets the name *budhnya*. Explaining this same meaning, the author of the Bṛhaddevatā also says —"
+
+> आहिराहन्ति मेघान्स इति वा तेषु मध्यमः । योऽहिः स बुध्न्ये बुध्ने हि सोऽन्तरिक्षेऽभिजायते ॥
+> *āhir āhanti meghān sa iti vā teṣu madhyamaḥ | yo 'hiḥ sa budhnye budhne hi so 'ntarikṣe 'bhijāyate ‖*
+> (*Bṛ. De.* 3-[?]4-[?] as read [?])
+
+"The *ahi* goes forward resting on the clouds, or moves among them; since he is born in the deep mid-air, he too is named *budhnya*: this is the derivation given for the word *ahi*. In this sense *ahi* may mean a serpent, or an Asura. Besides these meanings — the cloud, the Asura who moves in the deep mid-air, or the serpent — the word is used as an epithet of Vṛtra the Asura, and also in the form of a synonym."
+
+> त्वं प्रति प्रवत आशयानमहिं वज्रेण मघवन्वि वृश्चः ।
+> *tvaṃ prati pravata āśayānam ahiṃ vajreṇa maghavan vi vṛścaḥ |*
+> (*Ṛ. Saṃ.* 4-1[?]-[?] as read [?])
+
+"— in Ṛks like these *ahiṃ* means 'the Asura named Vṛtra', that is, in the sense of a synonym of Vṛtra. In the thirty-second sūkta of the first maṇḍala, *ahi* means everywhere the cloud that spreads, stopping the water. In the present Ṛk also, as Sāyaṇa says, the meaning is *megha*, 'cloud'. Skandasvāmin has said *ahināmānam asuram*, but for this context the meaning 'cloud' is the more fitting.
+
+*Rauhiṇam* — the word *rauhiṇa* is read also among the names of cloud (*Ni.* 1-[?]1 as read [?]); here the meaning is *rākṣasa*. Likewise —"
+
+> यो रौहिणमस्फुरद्वज्रबाहुर्द्यामारोहन्तं स जनास इन्द्रः ।
+> *yo rauhiṇam asphurad vajrabāhur dyām ārohantaṃ sa janāsa indraḥ |*
+> (*Ṛ. Saṃ.* 2-1[?]-[?] as read [?])
+
+"— in this Ṛk too the meaning is *rākṣasa*. In the Ṛksaṃhitā this Asura's name occurs in two places only.
+
+*Vyaṃsam ahan* — [Sāyaṇa] has explained *vyaṃsa* as a synonym of an Asura, 'he killed the Asura named Vyaṃsa'. The word *vyaṃsa* in all places but one or two is an epithet of Vṛtra."
+
+---
+
+**Progress note:** Printed pp. 1–365 done (PDF 21–385): **Sūkta 103** (8 Ṛks) in progress: Rik 103.1 complete (pp. 356–362); Rik 103.2 (printed pp. 362–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English and the Special Topics (*dhārayat*, *ahiṃ ahan*, *rauhiṇam*, *vyaṃsam*) done to p. 365. Next: printed p. 366 (PDF 386): the Special Topics of 103.2 conclude, then grammar; then Rik 103.3. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
