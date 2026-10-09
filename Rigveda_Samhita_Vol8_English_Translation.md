@@ -13020,5 +13020,110 @@ Grammar pages, noted briefly. *Tapanti* (root *tapa santāpe*; *laṭ*, third pe
 In these seven rays of the sun, which are in the form of the seven vital breaths, my navel has spread widely. Trita, who has crossed the darkness of ignorance and is the son of the waters, has known this earlier story of his. This ṛṣi of illumined knowledge, in order to come out of the well, [praises] these rays, which are his own kin *(continued on p. 482)*
 
 ---
+### Page 482 (PDF 502)
 
-**Progress note:** Printed pp. 1–481 done (PDF 21–501): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.8 complete (pp. 441–480); Rik 105.9 (printed pp. 480–[?]): Saṃhitā, Pada, bhāṣya (with its tail) and Pratipadārtha done; the Bhāvārtha is begun at the foot of p. 481 (mid-sentence: 'these rays, which are his own kin…'). Next: printed p. 482 (PDF 502). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 482; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+— (the Bhāvārtha of Rik 105.9 concludes:) "…offers praise, addressing these rays. O Heaven and Earth, know my sorrow, and, hearing this my hymn, remove my sorrow."
+
+**English Translation (Rik 105.9; as printed in the source)**
+
+"Those which are the seven rays (of the sun,) in them is my navel expanded ; Trita, the son of the waters, knows that (it is so), and he praises them for his extrication (from the well). Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.9)**
+
+**Ye amī sapta raśmayaḥ** — "Here there is a deliberation on what relation the group of seven rays has to Trita. Some state the identity of Trita with Vaidyutāgni (the fire of lightning); some say that Trita is Soma; Sāyaṇa, in many contexts, has said that he is a ṛṣi, a seer of sūktas. (The opinions of the Vedic scholars and the Western scholars about Trita — Trita Āptya — have been given in detail in the introductory section of this part.) Here, as to his being the lightning-fire, authorities can be shown:
+
+> यदीमह त्रितो दिव्युप ध्मातेव धमति शिशीते ध्मातरी यथा ।
+> *yad īm aha trito divy upa dhmāteva dhamati śiśīte dhmātarī yathā |* (*Ṛ. Saṃ.* 5-9-5 as read [?])
+
+> प्र सक्षणो दिव्यः कण्वहोता त्रितो दिवः सजोषा वातो अग्निः ।
+> *pra sakṣaṇo divyaḥ kaṇvahotā trito divaḥ sajoṣā vāto agniḥ |* (*Ṛ. Saṃ.* 5-4[?]-[?] as read [?])
+
+In Ṛks such as these it is said that Trita, as an inhabitant of the mid-region, lit the flame of fire in the mid-region and made the rays of the sun in the mid-region shine forth; and further —
+
+> अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
+> अग्नेरनीकं बृहतः सपर्यं दिवि शुक्रं यजतं सूर्यस्य ॥
+> *agniṃ manye pitaram agnim āpim agniṃ bhrātaraṃ sadam it sakhāyam | agner anīkaṃ bṛhataḥ saparyaṃ divi śukraṃ yajataṃ sūryasya ‖* (*Ṛ. Saṃ.* 10-7-3 as read [?])
+
+— in this Ṛk, Trita, the seer of the Sūkta, addressing Agni as his father, brother and friend, praised Agni as the one he worships, and as the one who helps to make still more bright the bright and venerable sun of the heavenly world. On these grounds, the seven rays mentioned here must be the rays of the sun; and, if so, a mutual relation between Trita, who is in the form of the earthly fire (*vaidyutāgni*) [on the earth], and the rays of the sun of the heavenly world, is meant." *(continued on p. 483)*
+
+---
+
+### Page 483 (PDF 503)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 483.)*
+
+"This same idea —
+
+> स त्रितस्याधि सानवि पवमानो अरोचयत् ।
+> जामिभिः सूर्यं सह ॥
+> *sa tritasyādhi sānavi pavamāno arocayat | jāmibhiḥ sūryaṃ saha ‖* (*Ṛ. Saṃ.* 9-3[?]-4 as read [?])
+
+> उप त्रितस्य पाष्योऽरभक्त यद्गुहा पदम् ।
+> यज्ञस्य सप्त धामभिरध प्रियम् ॥
+> *upa tritasya pāṣyo 'rabhakta yad guhā padam | yajñasya sapta dhāmabhir adha priyam ‖* (*Ṛ. Saṃ.* 9-102-2 as read [?]; the first words as read [?])
+
+— in these Ṛks the words *jāmibhiḥ* and *sapta dhāmabhiḥ* make it plain."
+
+**Trite tat vede** — "this relation is well known to Trita. It is a matter fully known to him that he has direct relationship with the sun in the mid-region, with the fire on earth, and with himself.
+
+> अस्य नामस्य पलितस्य होतुस्तस्य भ्राता मध्यमो अस्त्यश्नः ।
+> तृतीयो भ्राता घृतपृष्ठो अस्यात्रापश्यं विश्पतिं सप्तपुत्रम् ॥
+> *asya nāmasya palitasya hotus tasya bhrātā madhyamo asty aśnaḥ | tṛtīyo bhrātā ghṛtapṛṣṭho asyātrāpaśyaṃ viśpatiṃ saptaputram ‖* (*Ṛ. Saṃ.* 1-164-1 as read [?]; "nāmasya" as printed)
+
+— from the explanation of the fraternal relation stated in this Ṛk, [that relation] is understood."
+
+**Trite āptyaḥ** — "in what contexts this epithet is used for Trita, and how his nature is described, has been set out in the introductory section of this part."
+
+**Jāmitvāya** — *kūpān nirgantutvāyai |* (Sāyaṇa, read [?]) "'in order to come out of the well', say Sāyaṇa; and Skandasvāmin has explained —
+
+> समानजातीयवचनः । समानजातीयत्वार्थम् । तद्भाव्यप्रतिपत्त्यर्थमित्यर्थः ।
+> *samānajātīyavacanaḥ | samānajātīyatvārtham | tadbhāvyapratipattyartham ity arthaḥ |* *(as read; the last words are doubtful [?])*
+
+— 'it denotes the same kind (*samānajātīya*): for the sake of being of the same kind; for the sake of the attainment of that state'. Here the meaning that Skandasvāmin states is more fitting than the one Sāyaṇa states. First: in this Ṛk, the aim is to show the entire relation that Trita has with the sun and the fire and so to gain their favour; therefore it is right to say that here also [the word is] 'for the sake of understanding that relation'. Second: the sense 'relation' for the word *jāmi* is natural in many places. [The explanation of the word *jāmi* is given in this same part, in the Special Topics of the eleventh Ṛk of the hundredth Sūkta [as read [?]].]"
+
+---
+
+### Page 484 (PDF 504)
+
+*(Running head: left 484; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**Rebhati** — "since *arcati*, *gāyati*, *rebhati* and the like are read among the [forty-odd [?]] names of the verb of worship, 'to praise' (*Ni.* 3-[?]9 as read [?]), here *rebhati* means 'worships, praises'" (Kannada: "praises, or sings praises" [?]).
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.9)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Ātatā* (root *tanu vistāre*; *niṣṭhā* in the passive, *kta*, Pā. Sū. 3-2-102 as read [?]; since it is *kit*, the loss of the nasal by *anudāttopadeśavanatitanotyādīnām*, Pā. Sū. 6-4-37 as read [?]; being compounded with the *gati*-named *ā(ṅ)*, the accent of the prior member by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]; the feminine *ṭāp* by *ajādyatas ṭāp*). *Veda* (root *vida jñāne*; *laṭ*, third person singular, *tip*; *ṇal* by *vido laṭo vā*, Pā. Sū. 3-4-83 as read [?]; *guṇa* of the light penult; *nighāta*). *Jāmitvāya* (root *jam* in the sense of going: *jamati gacchati iti jāmiḥ*, with the Uṇādi suffix *iṇ*; as *ñit*, the *vṛddhi* of the penult by *ata upadhāyāḥ*, Pā. Sū. 7-2-116 as read [?]; *jāmeḥ bhāvaḥ jāmitvam*, the suffix *tva* by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119 as read [?]; the final acute from the suffix; fourth case singular). *Rebhati* (root *rebhṛ śabde*, *bhvādi*; *laṭ*, third person singular; *nighāta*). The Rik is closed with *‖ 9 ‖* and a rule of dashes.
+
+## Rik 105.10 — printed pp. 484–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.10)**
+
+> अमी ये पञ्चोक्षणो मध्ये तस्थुर्महो दिवः ।
+> देवत्रा नु प्रवाच्यं सध्रीचीना नि वावृतुर्वित्तं मे अस्य रोदसी ॥ १० ॥
+
+*amī ye pañcokṣaṇo madhye tasthur maho divaḥ | devatrā nu pravācyaṃ sadhrīcīnā ni vāvṛtur vittaṃ me asya rodasī ‖ 10 ‖* *(accent-marks in the print not reproduced; the Saṃhitā has "vāvṛtuḥ", the Pada below "vavṛtuḥ", as printed)*
+
+---
+
+### Page 485 (PDF 505)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 485.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.10)**
+
+> अमी इति । ये । पञ्च । उक्षणः । मध्ये । तस्थुः । महः । दिवः ।
+> देवऽत्रा । नु । प्रऽवाच्यम् । सध्रीचीनाः । नि । ववृतुः । वित्तम् । मे । अस्य । रोदसी इति ॥ १० ॥
+
+*amī iti | ye | pañca | ukṣaṇaḥ | madhye | tasthuḥ | mahaḥ | divaḥ | deva-trā | nu | pra-vācyam | sadhrīcīnāḥ | ni | vavṛtuḥ | vittam | me | asya | rodasī iti ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.10)**
+
+> उक्षणः सेक्तारः कामाभिवर्षकाः पञ्च । तन्न इन्द्रस्त्वष्टा वरुणस्तदग्निस्तदर्यमा तत्सविता चनो धात् । ऋ. १-१०[?]-[?] । इत्यृचार्धेन प्रतिपादिताः पञ्चसंख्याका देवाः । यद्वा । अग्निर्वायुः सूर्यश्चन्द्रमा विद्युदित्येवं पञ्चसंख्याकाः । तथा च शाट्यायनकं । एतान्येव पञ्च ज्योतींषि यान्येषु लोकेषु दीप्यन्ते । अग्निः पृथिव्यां वायुरन्तरिक्षे च आदित्यो दिवि चन्द्रमा नक्षत्रे विद्युदप्सु इति । नक्षत्रे नक्षत्रलोके । अप्सु मेघस्थोदकेषु । तैत्तिरीयेऽप्येवमाम्नातं । अग्निः पृथिव्यां वायुरन्तरिक्षे सूर्यो दिवि चन्द्रमा दिक्षु नक्षत्राणि स्वर्लोके इति । येऽमी पञ्चसंख्याका देवा महो दिवो महतो विस्तीर्णस्य द्युलोकस्य मध्ये तस्थुः । तिष्ठन्ति आसते । देवत्रा देवेषु नु क्षिप्रं प्रवाच्यं प्रशंसनीयं देवानां योग्यं मदीयं स्तोत्रं प्रति सध्रीचीनाः सहाञ्चन्तो युगपदागच्छन्तस्ते देवा मदीयं परिचरणं स्वीकुर्वन्ति तदनन्तरं नि ववृतुः । तृप्ताः सन्तो निवर्तन्ते च । अस्यत्पूर्ववत् [?] ॥ उक्षणः । वा षपूर्वस्य निगमे इत्युपधादीर्घाभावः । देवत्रा । देवमनुष्येत्यादिना सप्तम्यर्थे त्राप्रत्ययः । प्रवाच्यम् । वाचेयतेरचो यदिति यत् । णेरनिटीति णिलोपः । यतोऽनाव इत्याद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । सध्रीचीनाः । सहाञ्चन्तीति सध्र्यञ्चः । त एव सध्रीचीनाः । सहपूर्वादञ्चतेः ऋत्विग्दधृगित्यादिना क्विन् । अनिदितामिति नलोपः । सहस्य सध्रिः । पा. ६-३-९५ । इति सध्र्यादेशः । विभाषाञ्चेरदिक्स्त्रियामिति स्वार्थे ख प्रत्ययः । ववृतुः । वृतु वर्तने । छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । व्यत्ययेन परस्मैपदम् । आन्येषामपि दृश्यत इति संहितायामभ्यासस्य दीर्घत्वम् ॥
+> *ukṣaṇaḥ sektāraḥ kāmābhivarṣakāḥ pañca | tan na indras tvaṣṭā varuṇas tad agnis tad aryamā tat savitā cano dhāt | ṛ. 1-[?]-[?] | ity ṛcārdhena pratipāditāḥ pañcasaṃkhyākā devāḥ | yadvā | agnir vāyuḥ sūryaś candramā vidyud ity evaṃ pañcasaṃkhyākāḥ | tathā ca śāṭyāyanakaṃ | etāny eva pañca jyotīṃṣi yāny eṣu lokeṣu dīpyante | agniḥ pṛthivyāṃ vāyur antarikṣe ca ādityo divi candramā nakṣatre vidyud apsu iti | nakṣatre nakṣatraloke | apsu meghasthodakeṣu | taittirīye 'py evam āmnātaṃ | agniḥ pṛthivyāṃ vāyur antarikṣe sūryo divi candramā dikṣu nakṣatrāṇi svarloke iti | ye 'mī pañcasaṃkhyākā devā maho divo mahato vistīrṇasya dyulokasya madhye tasthuḥ | tiṣṭhanti āsate | devatrā deveṣu nu kṣipraṃ pravācyaṃ praśaṃsanīyaṃ devānāṃ yogyaṃ madīyaṃ stotraṃ prati sadhrīcīnāḥ sahāñcanto yugapad āgacchantas te devā madīyaṃ paricaraṇaṃ svīkurvanti tadanantaraṃ ni vavṛtuḥ | tṛptāḥ santo nivartante ca | asyatpūrvavat [?] ‖ ukṣaṇaḥ | vā ṣapūrvasya nigame ity upadhādīrghābhāvaḥ | devatrā | devamanuṣyety ādinā saptamyarthe trāpratyayaḥ | pravācyam | vāceyater aco yad iti yat | ṇer aniṭīti ṇilopaḥ | yato 'nāva ity ādyudāttatve kṛduttarapadaprakṛtisvaratvam | sadhrīcīnāḥ | sahāñcantīti sadhryañcaḥ | ta eva sadhrīcīnāḥ | sahapūrvād añcateḥ ṛtvigdadhṛg ity ādinā kvin | aniditām iti nalopaḥ | sahasya sadhriḥ | pā. 6-3-95 | iti sadhryādeśaḥ | vibhāṣāñceradikstriyām iti svārthe kha pratyayaḥ | vavṛtuḥ | vṛtu vartane | chandasi luṅlaṅliṭa iti vartamāne liṭ | vyatyayena parasmaipadam | ānyeṣām api dṛśyata iti saṃhitāyām abhyāsasya dīrghatvam ‖* *(Sanskrit as read; "ṛ. 1-[?]-[?]" and the final phrase "ānyeṣām…" are doubtful [?]; the grammatical tail is short and given.)*
+
+"The *ukṣaṇaḥ* are the five who 'sprinkle' (the showerers who rain down desires). 'May Indra, Tvaṣṭṛ, Varuṇa, Agni, Aryaman, Savitṛ grant us [that] boon' — the five deities set forth by this half-Ṛk [?]; or else the five are Agni, Vāyu, Sūrya, Candramas and Vidyut (lightning). So the Śāṭyāyanaka says: 'these are the five lights that shine in these worlds: Agni on the earth; Vāyu in the mid-region; Āditya in the sky; the Moon among the stars; lightning in the waters' — *nakṣatre* means the world of the stars; *apsu*, in the waters in the clouds. The Taittirīya also says the same: 'Agni on the earth, Vāyu in the mid-region, Sūrya in the sky, the Moon in the directions, the stars in the heavenly world.' These five deities have stood (*tasthuḥ*) in the middle of the great (*mahaḥ*), wide heaven (*divaḥ*). Among the gods (*devatrā*), swiftly (*nu*), my hymn which is to be recited (*pravācyam*), worthy of the gods: towards it they come together (*sadhrīcīnāḥ*), simultaneously; those gods accept my service, and afterwards they turn back (*ni vavṛtuḥ*): satisfied, they go back. [The rest] as before." *(Grammatical tail, noted briefly:* *ukṣaṇaḥ*, no lengthening of the penult; *devatrā*, the suffix *tra* in the locative sense; *pravācyam*, *yat* after *vāc* with the causal; *sadhrīcīnāḥ*, from *sahāñc* with *kvin*, loss of the nasal, *sadhri* for *saha*, Pā. Sū. 6-3-95 as read [?]; *vavṛtuḥ*, *liṭ* in the Vedic present sense, middle/active by *vyatyaya*, lengthening of the reduplicate in the Saṃhitā.)
+
+---
+
+**Progress note:** Printed pp. 1–485 done (PDF 21–505): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.9 complete (pp. 441–484); Rik 105.10 (printed pp. 484–[?]): Saṃhitā, Pada and bhāṣya (with its short tail) done (pp. 484–485). Next: printed p. 486 (PDF 506): the Pratipadārtha, Bhāvārtha, English etc. of 105.10, then Rik 105.11. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
