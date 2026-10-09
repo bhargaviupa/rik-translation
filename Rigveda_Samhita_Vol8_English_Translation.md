@@ -12736,5 +12736,97 @@ O gods, where has gone your practice of truth, which gives me the desired object
 — here the word *ṛta* means Āditya; and since the word *dharṇasi* is read among the names of strength (*Ni.* 2-[?]), it means 'strength', or power. 'In the whole of it, among you, where has gone the power of Āditya, which has the character of ability to favour his devotees?' — such a meaning, too, is possible, so Skandasvāmin has explained."
 
 ---
+### Page 470 (PDF 490)
 
-**Progress note:** Printed pp. 1–469 done (PDF 21–489): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.5 complete (pp. 441–467); Rik 105.6 (printed pp. 468–[?]): Saṃhitā, Pada, bhāṣya (with its short tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun (the first topic, *ṛtasya dharṇasi*, ends at the foot of p. 469). Next: printed p. 470 (PDF 490). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 470; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**Varuṇasya** — *aniṣṭanivārakasya devasya |* "of the god who wards off the undesired; because he prevents what is not desired, he has the name Varuṇa."
+
+**Aryamṇaḥ** — *arīṇāṃ niyantuḥ etatsaṃjñakasya devasya |* "the one who has the power to restrain enemies. The natures of the deities named Varuṇa and Aryaman, and their power of governing the world, will be described later on."
+
+**Cakṣaṇam** — *bhaktābhaktaviveka­jñānam |* "the power of knowing the difference between devotees and non-devotees. As non-devotees are scorned, so now devotees too are scorned: where has that discernment gone? This is the question. The word *cakṣaṇa*, though it indicates the meaning 'seeing', is in some places used also in the sense of 'a form that is the basis of seeing':
+
+> आभूषेण्यं वो मरुतो महित्वनं दिदृक्षेण्यं सूर्यस्येव चक्षणम् ।
+> *ābhūṣeṇyaṃ vo maruto mahitvanaṃ didṛkṣeṇyaṃ sūryasyeva cakṣaṇam |* (*Ṛ. Saṃ.* 5-[?]-[?] as read [?])
+
+— in this Ṛk the meaning is 'a form worthy to be seen'. In the Ṛk at hand the intention is 'the power of seeing with discernment'."
+
+**Dūḍhyaḥ** — *duṣṭadhyānopetān ātmano hiṃsakāñ śatrūn |* "the enemies who are possessed of wicked thoughts and who injure oneself, who think only of wicked matters. *Dūḍhyam* — *durdhiyam*, *pāpadhiyam*: so the Nirukta-author has explained (*Ni.* 3-3 as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.6)** *(grammar pages, pp. 470–471, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Dharṇasi* (root *dhṛṅ dhāraṇe*; the form is a *nipātana* with the *asic* suffix, by *sānasi-dharṇasi-varṇasi…*, Uṇ. [?]; since it is *cit*, the final acute by *cito 'ntodāttaḥ*, Pā. Sū. 6-1-163 as read [?]). *Cakṣaṇam* (root *cakṣiṅ vyaktāyāṃ vāci*; as roots have many senses, here in the sense of 'seeing'; *lyuṭ* in the abstract sense; *ana* for *yu* by *yuvor anākau*, Pā. Sū. 7-1-1 as read [?]; because of the *ṣ* as cause, *ṇatva* of the *n* by *aṭkupvāṅnumvyavāye 'pi*, Pā. Sū. 8-4-2 as read [?]; since the suffix is *lit*, the acute before the suffix by *liti*, Pā. Sū. 6-1-193 as read [?]). *Āryamṇaḥ* (the word *aryaman*; the sixth case singular; *bha*-designation, so the *a* of *an* is lost by *allopo 'naḥ*, Pā. Sū. 6-4-134 as read [?]; *ṇatva* because of the *r*; by *anudāttasya ca yatrodāttalopaḥ*, Pā. Sū. 6-1-159 as read [?], the ending is acute
+
+---
+
+### Page 471 (PDF 491)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 471.)*
+
+— the grammar of Rik 105.6 concludes (noted briefly). *Mahaḥ* (from *mahataḥ*, the Vedic loss of the *at* before the ending; or else from the root *maha pūjāyām* with *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; in either way the word has a single vowel, so the ending is acute by *sāvekācas tṛtīyādiḥ*, Pā. Sū. 6-1-168 as read [?]). *Krāmema* (root *kramu pādavikṣepe*; *liṅ*, first person plural, *mas*; the loss of *s* by *nityaṃ ṅitaḥ*, Pā. Sū. 3-4-99 as read [?]; *śap*; the lengthening by *kramaḥ parasmaipadeṣu*, Pā. Sū. 6-4-18 as read [?]; the *yāsuṭ* augment by *yāsuṭ parasmaipadeṣūdātto ṅic ca*, Pā. Sū. 3-4-103 as read [?]; *iy* by *ato yeyaḥ*, Pā. Sū. 7-2-80 as read [?]; loss of *y* by *lopo vyor vali*, Pā. Sū. 6-1-66 as read [?]; *guṇa*; the form *krāmema*; *nighāta*). *Dūḍhyaḥ* (formed under *pṛṣodarādīni yathopadiṣṭam*, Pā. Sū. 6-3-109 as read [?], the form being as taught in the *pṛṣodarādi* list; as the root *dhyai* [*ṭhyai*, as printed [?]] is read there, the *ū* for the *r* of the prior member *dur*, and *ṣṭutva* of the first letter of the latter member by a *nipātana*; *savarṇadīrgha*; where an *udātta* is replaced by *yaṇ*, *svarita* by *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. Sū. 8-2-4 as read [?]). The Rik is closed with *‖ 6 ‖* and an ornament.
+
+## Rik 105.7 — printed pp. 471–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 105.7)**
+
+> अहं सो अस्मि यः पुरा सुते वदामि कानि चित् ।
+> तं मा व्यन्त्याध्यो वृको न तृष्णजं मृगं वित्तं मे अस्य रोदसी ॥ ७ ॥
+
+*ahaṃ so asmi yaḥ purā sute vadāmi kāni cit | taṃ mā vyanty ādhyo vṛko na tṛṣṇajaṃ mṛgaṃ vittaṃ me asya rodasī ‖ 7 ‖* *(accent-marks in the print not reproduced)*
+
+---
+
+### Page 472 (PDF 492)
+
+*(Running head: left 472; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 105.7)**
+
+> अहम् । सः । अस्मि । यः । पुरा । सुते । वदामि । कानि । चित् ।
+> तम् । मा । व्यन्ति । आऽध्यः । वृकः । न । तृष्णऽजम् । मृगम् । वित्तम् । मे । अस्य । रोदसी इति ॥ ७ ॥
+
+*aham | saḥ | asmi | yaḥ | purā | sute | vadāmi | kāni | cit | tam | mā | vyanti | ā-dhyaḥ | vṛkaḥ | na | tṛṣṇa-jam | mṛgam | vittam | me | asya | rodasī iti ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.7)** *(this page is crowded and partly clotted in the scan; the Sanskrit below is given as read, with doubtful places marked [?] and nothing completed from memory)*
+
+> हे देवाः पुरा पूर्वस्मिन्काले सुते युष्मद्यागार्थं सोमेऽभिषुते कानि चित् कतिपयानि स्तोत्राणि योऽहं वदामि उक्तवानस्मि । स एवाहमस्मि । न तु [?] कश्चित् । तस्मात्किमर्थं मां परित्यजथ । तं तादृशं मामाध्योऽभिलषितफलप्राप्त्य… [?] जनिता मानसो व्यथा व्यन्ति । भक्षयन्ति । तत्र दृष्टान्तः । तृष्णजं जाततृष्णं पिपासान्तमुदकं प्रति गच्छन्तं मृगं वृको न । यथारण्यश्वा मध्ये मार्गं भक्षयति तद्वत् । अस्यत्पूर्ववत् [?] ॥ व्यन्ति । वी गत्यादिषु । अदादित्वाच्छपो लुक् । तन्वादीनां छन्दसि बहुलमुपसंख्यानमिति बहुलवचनाद्यण् । आध्यः । आधीयते मनसि स्थाप्यते इत्याधिः । उपसर्गे घोः किः । पा. ३-३-९२ [?] । आतो लोप इटि च । इत्याकारलोपः । जसादिषु छन्दसि वावचनमिति जेर्गुणस्य विकल्पाद्गुणाभावे यणादेशः । तृष्णजम् । तृषा पिपासायाम् । स्वपितृषोर्नजिङ् । पा. ३-२-१७२ [?] । इति नजिङ् । पदकारस्त्वेवं मन्यते । अन्येष्वपि दृश्यत इति दृशिग्रहणात् सर्वोपाधिव्यभिचारार्थत्वात्केवलादपि जनेर्डप्रत्ययः । तृष्णा जाता यस्य । ङ्यापोः संज्ञाछन्दसोर्बहुलमिति ह्रस्वत्वम् ॥
+> *he devāḥ purā pūrvasminkāle sute yuṣmadyāgārthaṃ some 'bhiṣute kāni cit katipayāni stotrāṇi yo 'haṃ vadāmi uktavān asmi | sa evāham asmi | na tu [?] kaścit | tasmāt kimarthaṃ māṃ parityajatha | taṃ tādṛśaṃ mām ādhyo 'bhilaṣitaphalaprāpty… [?] janitā mānaso vyathā vyanti | bhakṣayanti | tatra dṛṣṭāntaḥ | tṛṣṇajaṃ jātatṛṣṇaṃ pipāsāntam udakaṃ prati gacchantaṃ mṛgaṃ vṛko na | yathāraṇyaśvā madhye mārgaṃ bhakṣayati tadvat | asyatpūrvavat [?] ‖ vyanti | vī gatyādiṣu | adāditvāc chapo luk | tanvādīnāṃ chandasi bahulam upasaṃkhyānam iti bahulavacanād yaṇ | ādhyaḥ | ādhīyate manasi sthāpyate ity ādhiḥ | upasarge ghoḥ kiḥ | pā. 3-3-92 [?] | āto lopa iṭi ca | ity ākāralopaḥ | jasādiṣu chandasi vāvacanam iti jer guṇasya vikalpād guṇābhāve yaṇādeśaḥ | tṛṣṇajam | tṛṣā pipāsāyām | svapitṛṣor najiṅ | pā. 3-2-172 [?] | iti najiṅ | padakārastv evaṃ manyate | anyeṣv api dṛśyata iti dṛśigrahaṇāt sarvopādhivyabhicārārthatvāt kevalād api janer ḍapratyayaḥ | tṛṣṇā jātā yasya | ṅyāpoḥ saṃjñāchandasor bahulam iti hrasvatvam ‖*
+
+"O gods, formerly, when Soma was pressed for the sake of the sacrifice to you, I, who spoke some (*kāni cit*) hymns, am that same one; and no one [else]. Why then do you abandon me? Such a one as I am, mental pains (*ādhyaḥ*), born of the non-attainment of what I desired, assail (*vyanti*), devour, as a wolf [devours] a deer that, thirsty (*tṛṣṇajam*), is going towards water: as the forest dog [wolf] devours [it] in the middle of the road, so [they devour me]. *Vyanti*: root *vī* in the senses of going and the rest; *luk* of *śap* because of *adādi*; *yaṇ* by the plural statement of *tanvādi*. *Ādhyaḥ*: *ādhi* is that which is placed (*ādhīyate*) in the mind: the suffix *ki* after *dhā* with a preposition; loss of *ā*; plural *jas*, *yaṇ* since *guṇa* is optional in the Veda. *Tṛṣṇajam*: root *tṛṣā pipāsāyām*, suffix *najiṅ*; or, as the Padakāra holds, from *jan* the suffix *ḍa* [; the one in whom thirst has arisen]; shortening by *ṅyāpoḥ saṃjñāchandasor bahulam*." *(The sūtra numerals are doubtful [?].)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.7; Kannada; English)**
+
+*Purā* — (O gods) formerly; *sute* — (at the sacrifice aimed at you) when Soma was pressed; *kāni cit* — some hymns; *yaḥ aham* — I who; *vadāmi* — [have] declared; *saḥ* — that same I; *asmi* — am (even now) devoted to you (and yet); *tam mā* — that me; *tṛṣṇajam* — [the deer] that goes to drink water, urged by thirst; *mṛgam* — the deer; *vṛko na* — as the wolf falls upon and eats; *ādhyaḥ* — mental pains; *vyanti* — assail and devour; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn, or sorrow; *vittam* — know well.
+
+---
+
+### Page 473 (PDF 493)
+
+*(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 473.)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O gods, I am the same one who, in former times, whenever Soma was pressed for the sacrifice aimed at you, recited hymns that were useful. Even now I am your devotee. There is no one other than I whom you have to remember. Yet, as a wolf falls upon a deer that has gone to drink water from thirst and devours it, mental sorrows assail and devour me, your devotee. O Heaven and Earth, knowing my sorrow, hear my hymn and release me from the pain.
+
+**English Translation (as printed in the source)**
+
+"I am he, Gods, who formerly recited (your praise) when the libation was poured out, yet sorrows, assail me, like a wolf (that falls upon) a thirsty deer. Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.7)**
+
+**Yaḥ ahaṃ vadāmi so 'smi** — *vadāmi uditavān |* "'formerly, whenever Soma was pressed for the sacrifice, I who recited hymns pleasing to you — I, Trita — am that same one': thus he informs the deities, to whom he used to do homage, that he is the one who gives them great delight. That Trita is well known, from many sources, for pressing Soma and for reciting mantras of praise:
+
+> स तत्र सुषुवे सोमं मन्त्रविन्मन्त्रवित्तमः ।
+> *sa tatra suṣuve somaṃ mantravin mantravittamaḥ |* (*Bṛ. De.* 3-1[?]-[?] as read [?])
+
+In the Bṛhaddevatā, describing his greatness — that Trita, the foremost among those who know mantras, pressed Soma and became ready for the sacrifice — and because he displayed such a yogic power, filled with greatness, Bṛhaspati at the time of his lament —
+
+> बृहस्पतिस्त्रितस्यैतद् ज्ञानं विज्ञानमेव च ।
+> त्रैचीनान्त्येन [?] सूक्तस्य जगादर्षिरसाविति ॥
+> *bṛhaspatis tritasyaitad jñānaṃ vijñānam eva ca | traicīnāntyena [?] sūktasya jagādarṣir asāv iti ‖* (*Bṛ. De.* 3-1[?]-[?] as read [?])
+
+— promptly knowing his praise, filled with knowledge and the power of knowledge, informed the other ṛṣis that this ṛṣi is full of greatness and is endowed with praise, and [made known] the mental pain of his wish to sacrifice. In Skandasvāmin's bhāṣya too" *(the passage continues on p. 474: "…his **yogaiśvarya**, the greatness")*
+
+---
+
+**Progress note:** Printed pp. 1–473 done (PDF 21–493): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.6 complete (pp. 441–471); Rik 105.7 (printed pp. 471–[?]): Saṃhitā, Pada, bhāṣya (with its tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun, ending mid-sentence at the foot of p. 473. Next: printed p. 474 (PDF 494). Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
