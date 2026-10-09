@@ -4811,4 +4811,141 @@ Grammar pages, noted briefly. They treat: *jātavedase* (*jātāni vettīti jāt
 
 ---
 
-**Progress note:** Printed pp. 1–165 done (PDF 21–185): **Sūkta 99** is COMPLETE (Rik 99.1, printed pp. 157–165; ends 'The 99th Sūkta is concluded'). **Sūkta 100** (19 Ṛks, *sa yo vṛṣā*, five Vārṣāgira royal seers Ṛjrāśva, Ambarīṣa, Sahadeva, Bhayamāna, Surādhas; Indra; Triṣṭubh; printed pp. 165–[264]) begun: Sāyaṇa's introduction and Anuvāda done (p. 165). Next: printed p. 166 (PDF 186): the heading block of Sūkta 100 and Rik 100.1.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?].
+### Page 166 (PDF 186)
+
+*(Running head: left 166; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**सूक्त — १०० — Sūkta 100** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १५ · सूक्त १०० — *Maṇḍala 1, Anuvāka 15, Sūkta 100.*
+- अष्टक १ · अध्याय ७ · वर्ग ८, ९, १०, ११ — *Aṣṭaka 1, Adhyāya 7, Vargas 8, 9, 10, 11* (numerals as read, small [?]).
+- ऋक्संख्या — १९ — *Number of Ṛks in the sūkta: 19.*
+- ऋषिः — ऋज्राश्वः, अम्बरीषः, सहदेवः, भयमानः, सुराधाः — *Ṛṣis: Ṛjrāśva, Ambarīṣa, Sahadeva, Bhayamāna, Surādhas.*
+- देवता — इन्द्रः — *Deity: Indra.*
+- छन्दः — त्रिष्टुप् — *Metre: Triṣṭubh.*
+
+## Rik 100.1 — printed pp. 166–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 100.1)**
+
+> स यो वृषा वृष्ण्येभिः समोका महो दिवः पृथिव्याश्च सम्राट् ।
+> सतीनसत्वा हव्यो भरेषु मरुत्वान्नो भवत्विन्द्र ऊती ॥ १ ॥
+
+*sa yo vṛṣā vṛṣṇyebhiḥ samokā maho divaḥ pṛthivyāś ca samrāṭ | satīnasatvā havyo bhareṣu marutvān no bhavatv indra ūtī ‖ 1 ‖*
+
+*(Accent-marks are printed on the Saṃhitā and Pada; not reproduced, per the standing rule.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 100.1)**
+
+> सः । यः । वृषा । वृष्ण्येभिः । सम्ऽओकाः । महः । दिवः । पृथिव्याः । च । सम्ऽराट् ।
+> सतीनऽसत्वा । हव्यः । भरेषु । मरुत्वान् । नः । भवतु । इन्द्रः । ऊती ॥ १ ॥
+
+*saḥ | yaḥ | vṛṣā | vṛṣṇyebhiḥ | sam-okāḥ | mahaḥ | divaḥ | pṛthivyāḥ | ca | sam-rāṭ | satīna-satvā | havyaḥ | bhareṣu | marutvān | naḥ | bhavatu | indraḥ | ūtī ‖ 1 ‖*
+
+### Page 167 (PDF 187)
+
+*(Running head: left "A. 1 A. 7 Va. 8 [?]"; centre "Ṛgvedasaṃhitā"; right 167.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 100.1)**
+
+> य इन्द्रो वृषा कामानां वर्षिता वृष्ण्येभिर्वृष्णि भवैर्वीर्यैः समोकाः सम्यक् समवेतः संगतो महो महतो दिवो द्युलोकस्य पृथिव्याः प्रथितायाः भूमेश्च सम्राडीश्वरः सतीनसत्वा सतीनमित्युदकनाम । उदकस्य सत्वा सादयिता गमयिता । भरेषु संग्रामेषु हव्यः सर्वैः स्तोतृभिराह्वातव्यः । एवंभूतो मरुत्वान्मरुद्भिर्युक्तः स इन्द्रो नोऽस्माकमूतयेऽ ऊती रक्षणाय भवतु ॥
+> *ya indro vṛṣā kāmānāṃ varṣitā vṛṣṇyebhir vṛṣṇi bhavair vīryaiḥ samokāḥ samyak samavetaḥ saṃgato maho mahato divo dyulokasya pṛthivyāḥ prathitāyāḥ bhūmeś ca samrāḍ īśvaraḥ satīnasatvā satīnam ity udakanāma | udakasya satvā sādayitā gamayitā | bhareṣu saṃgrāmeṣu havyaḥ sarvaiḥ stotṛbhir āhvātavyaḥ | evaṃbhūto marutvān marudbhir yuktaḥ sa indro no 'smākam ūtī [rakṣaṇāya] bhavatu ‖*
+
+*(The print's last clause reads* ūtīūtaye rakṣaṇāya [?] *with an extra* ūtaye *that seems to be a printer's duplication; read as* ūtī rakṣaṇāya bhavatu*.)*
+
+"Indra, who is the showerer of desires, who is *samokāḥ* — completely united, joined — with the powers (*vṛṣṇyebhiḥ*, 'the powers that belong to the vigorous'); the supreme ruler of the great heaven, the world of the sky, and of the earth, the widely-spread land; *satīnasatvā* — *satīna* is a name of water; one who makes water sit [descend], who sends it forth; *havyaḥ* in battles, in wars — to be called by all the praisers; such an Indra, accompanied by the Maruts — may he be for our protection."
+
+**Bhāṣya's grammatical tail (characterized, with the cited sūtras where read)**
+
+> वृष्ण्येभिः । वृषशब्दाद्भवे छन्दसीति यत् । आल्लोपोऽनः इत्यकारलोपः । येचाभावकर्मणोरिति प्रकृतिभावस्तु वृष्ण्येयेन न भवति । महः । मह पूजायाम् । क्विप् । यद्वा । महच्छब्दस्येच्छब्दलोपः [?] । सावेकाच इति विभक्तेरुदात्तत्वम् । सम्राट् । मो राजि समः क्वौ । पा. ८-३-२५ [?] इति राजतौ क्विबन्ते उत्तरपदे समो मकारस्य मकारादेशः । मकारस्य च मकारवचनमनुस्वारबाधनार्थम् । सतीनसत्वा । पद्ऌ विशरणगत्यवसादनेषु । मेघेषु निषीदतीति सतीनं वृष्ट्युदकम् । णिजादिक इनप्रत्ययः सत्कारान्तादेशश्च [?] । यद्वा । सती माध्यमिका वाक् । सा इना ईश्वरा यस्य तत्सतीनम् । तत्सत्वा । सदेरन्तर्भावितण्यर्थात् क्वनिप् [?] ईरसद्योस्तुट् च [?] । उ. ४-११६ [?] इत्यौणादिको वनिप् तुडागमश्च । मरुत्वान् । मरुत्वादित्वात् पूर्वपदान्तोदात्तत्वम् [?] । मरुत्वान् । ऋुयि इति मतुवो वत्वम् [?] । ऊती । ऊतियूतीत्यादिना क्तिन उदात्तत्वम् । सुपां सुलुगिति चतुर्थ्याः पूर्वसवर्णदीर्घः ॥
+> *vṛṣṇyebhiḥ | vṛṣaśabdād bhave chandasīti yat | āllopo 'naḥ ity akāralopaḥ | ye cābhāvakarmaṇor iti prakṛtibhāvas tu vṛṣṇyeyena na bhavati | mahaḥ | maha pūjāyām | kvip | yadvā | mahacchabdasyecchabdalopaḥ [?] | sāv ekāca iti vibhakter udāttatvam | samrāṭ | mo rāji samaḥ kvau | Pā. 8-3-25 [?] iti rājatau kvibante uttarapade samo makārasya makārādeśaḥ | makārasya ca makāravacanam anusvārabādhanārtham | satīnasatvā | padḷ viśaraṇagatyavasādaneṣu | megheṣu niṣīdatīti satīnaṃ vṛṣṭyudakam | ṇijādika inapratyayaḥ satkārāntādeśaś ca [?] | yadvā | satī mādhyamikā vāk | sā inā īśvarā yasya tat satīnam | tatsatvā | sader antarbhāvitaṇyarthāt kvanip [?] īrasadyos tuṭ ca [?] | U. 4-116 [?] ity auṇādiko vanip tuḍāgamaś ca | marutvān | marutvāditvāt pūrvapadāntodāttatvam [?] | marutvān | ṛuyi iti matuvo vatvam [?] | ūtī | ūtiyūtīty ādinā ktina udāttatvam | supāṃ sulugiti caturthyāḥ pūrvasavarṇadīrghaḥ ‖*
+
+*(This tail is characterized, not fully read: it treats* vṛṣṇyebhiḥ *(*yat *in the sense of 'born in' from* vṛṣan*, the loss of the* a *of* an*),* mahaḥ *(*kvip *from* mah *'to honour', accent of the ending),* samrāṭ *(the change of the* m *of* sam *before* rāj *by* mo rāji samaḥ kvau *[Pā. Sū. 8-3-25, read in print so, ?]),* satīnasatvā *(two derivations of* satīna *— 'rain-water that settles in the clouds', or 'the speech of the middle region [*satī *=* mādhyamikā vāk*] of which she is the ruler' — and of* satvā *from the root* sad *with the Uṇādi* vanip *and the augment* tuṭ *[Uṇ. Sū. 4-116, ?]),* marutvān *(*matup *with* v *for* m*), and* ūtī *(*ktin*, with the dative ending lengthened). Several rule-names are clotted and marked [?]; no sūtra number is supplied beyond those read.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*yaḥ* — which Indra; *vṛṣā* — the one who showers desired objects; *vṛṣṇyebhiḥ* — with (all) powers; *samokāḥ* — together-dwelling [united with them]; *mahaḥ* — of the very vast; *divaḥ* — of the heavenly world; *pṛthivyāḥ ca* — and of the earth also; *samrāṭ* — the sole sovereign; *satīnasatvā* — the one who sends water; *bhareṣu* — in battles; *havyaḥ* — the one to be called (by all, for help); *marutvān* — together with the Maruts; *saḥ indraḥ* — that Indra; *naḥ* — our; *ūtī* — for protection; *bhavatu* — may he be."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"May Indra, who fulfils the desired objects of his devotees, who is endowed with all powers, the sole lord of the very vast heavenly world and of the earth, the sender of water, he who is called by all for help in battles — may he, together with the Maruts, be for our protection."
+
+### Page 168 (PDF 188)
+
+*(Running head: left 168; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+
+**English Translation (as printed)**
+
+> May he who is the showerer of desires, who is co-dweller with (all) energies, the supreme ruler over the vast heaven and earth, the sender of water and to be invoked in battles ; may Indra, associated with the Maruts be our protection.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 100.1 (Kannada)**
+
+"*Vṛṣā* — *kāmānāṃ varṣitā*: the one who showers [grants] desired objects.
+
+*Vṛṣṇyebhiḥ* — *vṛṣṇi bhavair vīryaiḥ*: with the powers that reside in the vigorous one. The two words *vṛṣā* and *vṛṣṇyebhiḥ* are both formed from the root *vṛṣ*. [Of the two roots *vṛṣu secane* and *vṛṣa śaktibandhane*:] the first word, *vṛṣā*, is from the root *vṛṣ* that gives the sense of sprinkling, showering; the second word, *vṛṣṇyebhiḥ*, from the root that gives the sense of strength and capacity — so it is derived, as is to be understood from the explanations that the bhāṣya-author gives in this context. But since the epithet *vṛṣan*, and the other epithets derived from it, are used at every step in the Ṛksaṃhitā, these words cannot be limited to the one fixed meaning: in each context the sense has to be given that fits that context. Let us therefore note, carefully, in which senses the word *vṛṣan* is chiefly used, and then examine what its special sense is when it is used here as an epithet of Indra.
+
+The word *vṛṣan* is used in many places in the sense of *pumān*, 'a male, capable of sprinkling [seed]'. As an indicator of the masculine gender, this word is used either as a synonym of *puruṣa* ('man') or as a synonym of the males of horses and other animals."
+
+> ये ते इन्द्र ददुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ।
+> *ye te indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca |*
+> (*Ṛ. Saṃ.* 1-5[?]-8 as read [?])
+
+"— here, for the word *vṛṣṇyam*, 'bullhood, manhood' (*vṛṣatvam*, *puṃstvam*); and in"
+
+> स्तुत [?] श्रवस्यन्नवसोप मद्रिग्युक्त्वा हरी वृषणा योह्यर्वाङ् ।
+> *stuta [?] śravasyann avasopa madrigyuktvā harī vṛṣaṇā yohy arvāṅ |*
+> (*Ṛ. Saṃ.* 1-1[7?]6-1 as read [?]; the first word and *madrig-* clotted in print, not completed from memory)
+
+"— here *vṛṣaṇā* means *yuvāsā* [as printed, ?]; and"
+
+### Page 169 (PDF 189)
+
+*(Running head: left "A. 1 A. 7 Va. 8 [?]"; centre "Ṛgvedasaṃhitā"; right 169.)*
+
+> भूषन्न योऽधि बभ्रूषु नम्नते वृषेव पत्नीरभ्येति रोरुवत् ।
+> *bhūṣan na yo 'dhi babhrūṣu namnate vṛṣeva patnīr abhy eti roruvat |*
+> (*Ṛ. Saṃ.* 1-140-6 as read [?])
+
+"— here *vṛṣā iva* means *sektā vṛṣabha iva*, 'like a bull that sprinkles, [one who is] making the sprinkling'; and"
+
+> मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ।
+> *mināti śriyaṃ jarimā tanūnām apy ū nu patnīr vṛṣaṇo jagamyuḥ |*
+> (*Ṛ. Saṃ.* 1-179-1 as read [?])
+
+"— here, for *vṛṣaṇaḥ*, '*sekāraḥ puruṣāḥ*', 'men who sprinkle'. And so in many other places the word is used, like these, as a masculine-indicator, and also to show the power of the male creature [of any species]; and in those same senses:"
+
+> वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् ।
+> *vṛṣā vāṃ megho vṛṣaṇā pīpāya gor na seke manuṣo daśasyan |*
+> (*Ṛ. Saṃ.* 1-18[?]1-3 as read [?])
+
+> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं [?] शूर मर्त्यम् । परिवृणक्षि मर्त्यम् ।
+> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cid yāvīrarum [?] śūra martyam | parivṛṇakṣi martyam |*
+> (*Ṛ. Saṃ.* 1-1[9?]3-3 as read [?]; *yāvīrarum* as printed, doubtful)
+
+> ता तू ते सत्या तुविनृम्ण विश्वा प्र धेनवः सिस्रते वृष्ण ऊध्नः [as printed] ।
+> *tā tū te satyā tuvinṛmṇa viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ [as printed] |*
+> (*Ṛ. Saṃ.* 4-3[2?]-6 as read [?])
+
+"— in places such as these the word is used in the sense of *sekena*, 'sprinkler': *varṣakaḥ*, *varṣaṇaparamanaskaḥ* [as printed, ?] — 'one who sends water, one who showers desired objects'. Although other meanings besides this appear here and there in outline, for the word *vṛṣṇya* the incomparable power, heroism (*vīrya*), is chiefly seen in many places:"
+
+> आ प्यायस्व समेतु ते विश्वतः सोम वृष्ण्यम् ।
+> *ā pyāyasva sametu te viśvataḥ soma vṛṣṇyam |*
+> (*Ṛ. Saṃ.* 1-91-18 as read [?])
+
+> महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान् ।
+> *mahāṃ asi mahiṣa vṛṣṇyebhir dhanaspṛd ugra sahamāno anyān |*
+> (*Ṛ. Saṃ.* 3-46-2 as read [?])
+
+> वि चर्मणेव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ण्यम् ।
+> *vi carmaṇeva dhiṣaṇe avartayad vaiśvānaro viśvam adhatta vṛṣṇyam |*
+> (*Ṛ. Saṃ.* 6-8-3 as read [?])
+
+*(Glosses, mine and tentative: "Grow, and may your manly strength come together from every side, O Soma"; "You are great, O buffalo, with your powers, winning wealth, O fierce one, overcoming others"; "As if [rolling out] a hide, he spread the two worlds apart; Vaiśvānara took all manly power". The others are not glossed where the print is doubtful.)*
+
+"In these and many other passages the sense of *vīrya* and *parākrama* is the common one for *vṛṣṇya*. Besides this, in many contexts the word *vṛṣan* is used as a synonym of Indra and the other deities —"
+
+*(The sentence continues on p. 170.)*
+
+---
+
+**Progress note:** Printed pp. 1–169 done (PDF 21–189): **Sūkta 100** (19 Ṛks) in progress: heading block and Rik 100.1 (Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, English) done; Special Topics of 100.1 (the sense of *vṛṣan*/*vṛṣṇya*) under way, done through the first sentence of p. 169's last paragraph. Next: printed p. 170 (PDF 190): the Special Topics of 100.1 continue mid-sentence ('…the word *vṛṣan* is used as a synonym of Indra and other deities'). Sūkta 101 begins at printed p. 265.  Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed): in Sūktas 95–98 (pp. 1–145) the Ṛgveda, Taittirīya, Vājasaneyi, Nirukta, Bṛhaddevatā, Manu, Aitareya, Tāṇḍya, Śatapatha, Chāndogya and Āśvalāyana reference numerals and the Pāṇini/Uṇādi/Kāśikā sūtra numbers are given as read from small print and are doubtful [?]; the varga numerals and the printed devatā lines of Sūktas 95–98 [?]; clotted Sanskrit in the bhāṣyas and Skandasvāmin quotations of 95.1–97.8 (see the earlier notes, carried in summary: the Taittirīya and Yāska quotations in 95–96; the Dīrghajihvī and Kutsa–Luśa stories in 97; the bhāṣya tails of 97.2, 97.3 and 97.8); in 98.1 the bhāṣya's opening clause (*karaṇetraiśvaretaśvare*) and *pāṭhe ruddmato* [?], the Nirukta quotations on pp. 138–140 (several clotted) [?], the Bṛhaddevatā verses on p. 139 [?], the Śatapatha passage on pp. 140–142 (words clotted, e.g. *kṛthag apacitīḥ*, *snemān*, *abhyādhatta*, *samānān atiṣṭhasi*, *bubukam*; the verse numerals; the Kannada summary's own uncertain renderings of *bastir*/*vasti* and of Jana Śārkarākṣya's answer [print: *divam*; Kannada: 'atmosphere'] [?]), the blank in Śaṅkara's quotation on p. 145 [?]; on pp. 146–149 the Ṛgveda citations (abhiśrī, *jāta āpsyo*) and the Āśvalāyana reference, the bhāṣya tail of 98.2 (*kriṣṭeti kris*) [?]; on pp. 158–161 the Sūtra numeral in 99.1's tail (Pā. 3-1-10), the Nirukta quotation's end, the Bṛhaddevatā numerals and clotted words (*bhūtais*, *tathyete*, *yajjāto*), the Śatapatha quotation (*prajo*, *yaj jātaṃ*) and the printed varga numeral [?]; on pp. 154–157 the Nirukta, Śatapatha and Ṛgveda numerals, *anvālebhire* and *kenavāmahā* in the Śatapatha quotations on p. 155, the Sūtra numerals in the grammar of 98.3, Sāyaṇa's introduction to 99 (the Anukramaṇī words and the Āhargaṇa sentence, doubtful) [?]; on pp. 150–153 the Ṛgveda and Śatapatha numerals, the clotted *tasminn[?]nti* and *kraṇā* in the Ṛgveda quotations on p. 151, the broken second and third quotations on p. 150, *nṛṣann uṣyā* and *svarvidam evaitam* in the Śatapatha text, and *dhanavadatipriyoḥ* in the bhāṣya of 98.3 [?]; the Pada's *at-bhiḥ* in 95.8 and *eva* in 95.11 and 96.9; the Bṛhaddevatā stanzas on p. 18 [?]; the Pīṭhike's numerals and clotted citations [?]; the print's *asāṃ* for *apāṃ* in 1-70-3 on p. 12 (correct on pp. 21 and 25); the print's "news-sprung" on p. 55; the grammar pages and grammatical tails are characterized, not transcribed. on pp. 162–165 the Praśna/Kaṭha/Ṛgveda numerals and the clotted Ṛgveda words (*arātīr*, *dhakṣyatasaṃ*, *yacchīmāgaś*), the Uṇādi-sūtra numerals in 99.1's grammar, and the Ārṣānukramaṇī line quoted in the Sūkta 100 introduction (*caitat…*) [?]. on pp. 166–169 the bhāṣya's last clause (*ūtīūtaye*), the grammatical tail of 100.1 (several rule-names clotted), and the Ṛgveda numerals and clotted words in the *vṛṣan* quotations [?].
