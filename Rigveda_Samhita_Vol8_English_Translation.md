@@ -11552,5 +11552,98 @@ The grammar of Rik 104.5 continues (noted briefly): *gāt* (root *iṇ gatau*; *
 "O Indra, you, that same one, grant us a share (*ā bhaja*, make us share) in Sūrya, the sun, the impeller of all: make us devoted [to it] face to face. So too make us share in the waters. And further: in the state of sinlessness (*anāgāstve*), freedom from sin, which is to be praised and desired by living beings (*jīva-śaṃse*), make us share. Further, do not injure (*mā hiṃsīḥ*) our offspring, that is within us in the form of an embryo and sustains [us] (*bhujam*): do not harm [it]. For your great, abundant strength (*indriya*) we have put our faith (*śraddhitam*): we have put trust; the meaning is that we praise your strength with high regard. Therefore you, who have such strength, must not harm [us] — so the connexion with what precedes. *Anāgāstve*: he in whom there is no *āgas*, sin, is *anāgāḥ*; its state is *anāgāstva*; the lengthening of the penult is Vedic. *Jīvaśaṃse*: root *śans*, in praise; the suffix *ghañ* in the passive; the final acute of the latter member [by a *thāthādi* rule]. *Bhujam*: *bhunakti pālayatīti bhuk*, offspring; *kvip*. *Rīriṣaḥ*: root *riṣ*, in harming."
 
 ---
+### Page 422 (PDF 442)
 
-**Progress note:** Printed pp. 1–421 done (PDF 21–441): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.5 complete (pp. 395–420); Rik 104.6 (printed pp. 421–[?]): Saṃhitā, Pada and the first part of the bhāṣya done (p. 421). Next: printed p. 422 (PDF 442): the bhāṣya of 104.6 concludes, then Pratipadārtha, Bhāvārtha, English, Special Topics, grammar, then Riks 104.7–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 422; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+**॥ सायणभाष्यम् ॥ (Rik 104.6), concluded — grammatical tail**
+
+> स्वार्थे ण्यन्तादस्माल्लुङः चङि णिलोपे उपधाह्रस्वत्वादीनि । छान्दसं पदैकालीनमभ्यासह्रस्वत्वम् । श्रद्धितम् । श्रच्छब्दस्य ऊर्यादिच्विडाचश्च । पा. १-४-६१ । गतित्वात् गतिरनन्तर इति पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *svārthe ṇyantād asmāl luṅaḥ caṅi ṇilope upadhāhrasvatvādīni | chāndasaṃ padaikālīnam abhyāsahrasvatvam | śraddhitam | śracchabdasya ūryādicviḍācaś ca | Pā. 1-4-61 | gatitvāt gatir anantara iti pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; "padaikālīnam" and the last clause are doubtful [?]; the Pāṇini numeral is as read [?].)*
+
+*Characterized:* after the root *riṣ* with *ṇic* in its own sense, *luṅ* and *caṅ*, the loss of *ṇi*, the shortening of the penult and the like; the Vedic shortening of the reduplicate; and *śraddhitam*: *śrat* is in the *ūryādi* list and gets the name *gati* by *ūryādicviḍācaś ca* (Pā. 1-4-61 as read [?]); the prior member keeps its own accent by *gatir anantaraḥ*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada; English)**
+
+*Indra* — O Indra; *saḥ tvam* — you, the famed one; *naḥ* — us; *sūrye* — in the sun-deity; *ā bhaja* — impel [us] to devotion; (so too) *saḥ* — you, that same one; *apsu* — in the water-deities also (impel us to devotion); *jīvaśaṃse* — desired by living beings; *anāgāstve* — in the path free from sin (impel [us] to devotion); *te* — your; *mahate* — exceedingly great; *indriyāya* — [for] strength; *śraddhitam* — a devotion borne with faith is offered (by us; therefore); *naḥ* — our; *antarām* — [that exists] in the form of the embryo; *bhujam* — progeny; *ā* — on all sides; *mā rīriṣaḥ* — do not injure.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra! Impel us to devotion in the sun-deity, in the water-deities, and in the path free from sin that is desired by all living beings. In your exceedingly great strength we put our faith and offer devotion. Therefore, without injuring our offspring who exist in the form of embryos, protect all. Make our lineage grow.
+
+**English Translation (as printed in the source)**
+
+"Excite in us, Indra, veneration for the sun, for the waters, and for those who are worthy of the praise of living beings, as exempt from sin : injure not our offspring while yet in the womb, for our trust is in your mighty power."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 104.6)**
+
+**Mahate indriyāya śraddhitam** — *prabhūtāya balāya asmābhiḥ śraddhānaṃ kṛtam |* "We have placed faith in your abundant strength": the purport is 'we have put faith and devotion in your abundant strength'. The many meanings of the word *indriya* have been explained in the Special Topics of the first Ṛk of Sūkta [?] of this same volume. Here *indriya* means 'strength'. **Mahate indriyāya** — 'for your extraordinary power'; for —
+
+> इन्द्रो दिव इन्द्र ईशे पृथिव्या इन्द्रो अपामिन्द्र इत्पर्वतानाम् ।
+> इन्द्रो वृधामिन्द्र इन्मेधिराणामिन्द्रः क्षेमे योगे हव्य इन्द्रः ॥
+> *indro diva indra īśe pṛthivyā indro apām indra it parvatānām | indro vṛdhām indra in medhirāṇām indraḥ kṣeme yoge havya indraḥ ‖* (*Ṛ. Saṃ.* 10-89-10 as read)
+
+---
+
+### Page 423 (PDF 443)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 423.)*
+
+"— as described in Ṛks like this, [Indra] is the lord of all the worlds and the one who subdues all the Asuras; therefore it is natural that unbounded devotion and faith should exist in Indra, who possesses the power to punish the wicked and to protect the good swiftly.
+
+> अधा चन श्रद्दधति त्विषीमत इन्द्राय वज्रं निघनिघ्नते वधम् ।
+> *adhā cana śrad dadhati tviṣīmata indrāya vajraṃ nighanighnate vadham |* (*Ṛ. Saṃ.* 1-[?]5-5 as read [?])
+
+> अस्मे सूर्याचन्द्रमसाभिचक्षे श्रद्धे कमिन्द्र चरतो वितर्तुरम् ।
+> *asme sūryācandramasābhicakṣe śraddhe kam indra carato vitarturam |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> तदस्मेदं सत्कृता भूरि पुष्टं श्रदिन्द्रस्य धत्तन वीर्याय ।
+> *tad asmedaṃ satkṛtā bhūri puṣṭaṃ śrad indrasya dhattana vīryāya |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+In many Ṛks such as these, since faith in regard to Indra's greatness of valour is itself born of its own accord, that aspect is stated in the Ṛk at hand also: *mahate indriyāya śraddhitam*." (Kannada; Ṛk numerals small and doubtful [?]; the readings are as printed, not completed from memory.)
+
+**Jīvaśaṃse** — "two kinds of meaning can be given for this word. First: *jīva-śaṃse* — 'desired by living beings', and *anāgāstve* — 'in the path that is free from sin (impel us to devotion)': one meaning. Or else Skandasvāmin says —
+
+> सूर्ये — सूर्येण तु तत्संबद्धो द्युलोक उच्यते । अप्स्वित्यप्शब्दोऽन्तरिक्षनामसु । जीवशंस इत्यपि पार्थिवो लोक उच्यते । तत्र ह्यतिशयेन जीवितम् आ शंस्यते । सूर्यसंबन्धे द्युलोकेऽन्तरिक्षे च जीवितशंसा बहुलैव च पार्थिवे लोके अनागास्त्वाय अस्मान् संभजेत्यर्थः ।
+> *sūrye — sūryeṇa tu tatsaṃbaddho dyuloka ucyate | apsv ity apśabdo 'ntarikṣanāmasu | jīvaśaṃsa ity api pārthivo loka ucyate | tatra hy atiśayena jīvitam ā śaṃsyate | sūryasaṃbandhe dyuloke 'ntarikṣe ca jīvitaśaṃsā bahulaiva ca pārthive loke anāgāstvāya asmān saṃbhajety arthaḥ |* *(as read; the end of the passage is clotted [?])*
+
+— *sūrye* means the heavenly world connected with the sun; *apsu* — the word *ap* is read among the names of the mid-region, so 'in the mid-region'; *jīvaśaṃse* — the terrestrial world is meant, because there life is greatly desired. Thus, in the heavenly world, in the mid-region and in the terrestrial world as well, the prayer is: impel us to conduct ourselves with faith in the path free of sin. Another kind of meaning also exists, as he states the purport." (Kannada.)
+
+**Naḥ antarāṃ bhujaṃ mā rīriṣaḥ** — "here too the sense can be taken in two ways, showing two kinds of explanation. First, as Sāyaṇa says: *naḥ* — our; *antarām* — (existing in the form of the embryo); *bhujam* — the protecting offspring; *ā* — from all sides; *mā rīriṣaḥ* — do not injure: the prayer is not to harm the progeny existing in our wives' wombs, who protect our lineages, that is, the offspring in the form of progeny. In one way; and in the second way," *(the passage continues on p. 424)*
+
+---
+
+### Page 424 (PDF 444)
+
+*(Running head: left 424; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+
+"— *antarāśabdaḥ sannikṛṣṭavacanaḥ | sannikṛṣṭaṃ cāihalaukikaṃ bhogaṃ mā hiṃsīḥ |* (as read [?]). Since the word *antarā* has the sense 'close at hand', the purport can also be stated in another way, as a prayer: 'do not destroy the enjoyments that are close to us and belong to this world.' The word *bhuja* has two meanings, 'protection' and 'enjoyment', so either sense can be given here. In some places the meaning is 'enjoyments', in others 'protection': the difference of sense follows the context. For example —
+
+> विद्याम यासां भुजो धेनूनां न वज्रिवः ।
+> *vidyāma yāsāṃ bhujo dhenūnāṃ na vajrivaḥ |* (*Ṛ. Saṃ.* 10-[?]-[?] as read [?])
+
+> या इन्द्र भुज आभरः स्वर्वाँ असुरेभ्यः ।
+> *yā indra bhuja ābharaḥ svarvāṃ asurebhyaḥ |* (*Ṛ. Saṃ.* 8-[?]-1 as read [?])
+
+— in Ṛks such as these *bhujaḥ* means 'enjoyments' or 'things to be enjoyed'; and in
+
+> इन्द्रे भुजं शशमानास आशत सूर्यो दृशीके वृषणश्च पौंस्ये ।
+> *indre bhujaṃ śaśamānāsa āśata sūryo dṛśīke vṛṣaṇaś ca pauṃsye |* (*Ṛ. Saṃ.* 10-[?]-2 as read [?])
+
+— in Ṛks such as these *bhujam* means 'protection'. In the Ṛk at hand, whichever of the two meanings is taken for the word *bhuja*, the construction and the purport both fit." (Kannada.)
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.6)** *(grammar pages, pp. 424–425, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Sūrye* (*sarati ākāśe iti sūryaḥ*, root *sṛ gatau*; the form is a *nipātana* ending in *kyap* by *rājasūya-sūrya-…*, Pā. Sū. 3-1-114 as read [?]; since the suffix is *pit*, the root accent remains; locative singular). *Apsu* (the word *ap*; the locative ending; the acute falls on the ending by *ūḍidaṃ padādi…*, Pā. Sū. 6-1-171 as read [?]). *Anāgāstve* (*na vidyate āgaḥ pāpaṃ yasya saḥ anāgāḥ; anāgasaḥ bhāvaḥ anāgāstvam*; the lengthening of the penult is Vedic; accent of the suffix, final acute; locative singular).
+
+---
+
+### Page 425 (PDF 445)
+
+*(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 425.)*
+
+The grammar of Rik 104.6 continues and concludes (noted briefly). *Bhaja* (root *bhaja sevāyām*; *loṭ*, second person singular; *nighāta* of the finite verb). *Jīvaśaṃse* (root *śaṃs stutau*; *ghañ* in the passive: *jīvaiḥ śaṃsanīya iti jīvaśaṃsaḥ*; final acute of the latter member by *thāthaghañktājabitrāṇām*, Pā. Sū. 6-2-144 as read [?]; locative singular). *Bhujam* (*bhunakti pālayati iti bhuk — prajā*; root *bhuja pālanābhyavahārayoḥ*; *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; accusative singular). *Rīriṣaḥ* (root *riṣ hiṃsāyām*; *ṇic* in its own sense; *luṅ*, *sip*; *itaś ca*; *caṅ* by *ṇiśri-dru-srubhyaḥ kartari caṅ*, Pā. Sū. 3-1-48 as read [?]; reduplication of the root with a single vowel, *caṅi*, Pā. Sū. 6-1-11 as read [?]; *ādi-hal-śeṣa*; loss of *ṇi* by *ṇer aniṭi*, Pā. Sū. 6-4-51 as read [?]; the shortening of the penult by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. Sū. 7-4-1 as read [?], and the rule that *i* is lengthened for the reduplicate by *sanvallaghuni…*, 7-4-93, and *dīrgho laghoḥ*, 7-4-94, as read [?]; the Vedic form of the shortening; *ru*-visarga; *nighāta*). *Śraddhitam* (*śrat* in the *ūryādi* class takes the *gati* name by *ūryādicviḍācaś ca*, Pā. Sū. 1-4-61 as read [?]; the root *dhā* with *kta*; *hi* by *dadhāter hiḥ*, Pā. Sū. 7-4-42 as read [?]; *hita*; accent of the prior member by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?]). *Mahate* (*mahat*; the fourth-case ending is acute by the vārttika *bṛhanmahator upasaṃkhyānam*). *Indriyāya* (*indrasya liṅgam indriyam*; formed as a *nipātana* with the suffix *gha*, by *indriyam indraliṅgam indradṛṣṭam…*, Pā. Sū. 5-2-93 as read [?]). The Rik is closed with *‖ 6 ‖* and a rule of dashes.
+
+---
+
+**Progress note:** Printed pp. 1–425 done (PDF 21–445): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.6 complete (pp. 395–425). Next: Rik 104.7 begins at printed p. 426 (PDF 446); then Riks 104.8–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
