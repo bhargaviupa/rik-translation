@@ -16171,5 +16171,125 @@ O Indra and Agni, worthy of the sacrifice and granters of desired objects, wheth
 Grammar page, noted briefly. *Madathaḥ* (root *madī harṣe*, *divādi*; *laṭ*, second person dual, *thas*; the vikaraṇa *śap* by *vyatyayo bahulam*, Pā. Sū. 3-1-85 as read [?]; the *s* of the ending → *ru* → visarga; because of the *yad*-connection, no *nighāta* by *yadvṛttān nityam*, Pā. Sū. 8-1-66 as read [?]; since *śap* is *pit*, it is *anudātta*; the *lasārvadhātuka* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?] being *anudātta*, the accent of the root remains). *Yajatrā* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; in the passive sense, the suffix *atran* by *aminakṣiyajivadhipatibhyo 'trān*, Uṇ. 3-10[?] as read [?]; the form *yajatra*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; vocative: *nighāta* by *āmantritasya ca*, Pā. Sū. 8-1-19 as read [?]).
 
 ---
+### Page 602 (PDF 622)
 
-**Progress note:** Printed pp. 1–601 done (PDF 21–621): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.6 complete (pp. 573–599); Rik 108.7 (printed pp. 599–[?]): all parts done through the start of the grammar (pp. 599–601); the grammar of 108.7 begun at the foot of p. 601 and continues on p. 602. Next: printed p. 602 (PDF 622). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 602; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+The grammar of Rik 108.7 concludes (noted briefly). *Yātam* (root *yā prāpaṇe*, *adādi*; *loṭ*, second person dual; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ*, Pā. Sū. 2-4-72 as read [?]; since the word *hi* is connected, the prohibition of *nighāta* by *hi ca*, Pā. Sū. 8-1-34 as read [?], so, by the accent of the suffix, the final acute). The Rik is closed with *‖ 7 ‖* and an ornament.
+
+## Rik 108.8 — printed pp. 602–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 108.8)**
+
+> यदिन्द्राग्नी यदुषु तुर्वशेषु यद्द्रुह्युष्वनुषु पूरुषु स्थः ।
+> अतः परि वृषणावा हि यातमथा सोमस्य पिबतं सुतस्य ॥ ८ ॥
+
+*yad indrāgnī yaduṣu turvaśeṣu yad druhyuṣv anuṣu pūruṣu sthaḥ | ataḥ pari vṛṣaṇāv ā hi yātam athā somasya pibataṃ sutasya ‖ 8 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 108.8)**
+
+> यत् । इन्द्राग्नी इति । यदुषु । तुर्वशेषु । यत् । द्रुह्युषु । अनुषु । पूरुषु । स्थः ।
+> अतः । परि । वृषणौ । आ । हि । यातम् । अथ । सोमस्य । पिबतम् । सुतस्य ॥ ८ ॥
+
+*yat | indrāgnī iti | yaduṣu | turvaśeṣu | yat | druhyuṣu | anuṣu | pūruṣu | sthaḥ | ataḥ | pari | vṛṣaṇau | ā | hi | yātam | atha | somasya | pibatam | sutasya ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 108.8), begun**
+
+> अत्र यदुष्वित्यादीनि पञ्च मनुष्यनामानि । हे इन्द्राग्नी यद्यदि यदुषु नियतेषु परेषामहिंसकेषु मनुष्येषु स्थः भवथः वर्तेथे । यदि वा तुर्वशेषु हिंसकेषु मनुष्येषु वर्तेथे । यद्यदि वा द्रुह्युषु द्रोहं परेषामुप-
+> *atra yaduṣv ity ādīni pañca manuṣyanāmāni | he indrāgnī yad yadi yaduṣu niyateṣu pareṣām ahiṃsakeṣu manuṣyeṣu sthaḥ bhavathaḥ vartethe | yadi vā turvaśeṣu hiṃsakeṣu manuṣyeṣu vartethe | yad yadi vā druhyuṣu droham pareṣām upa-* *(continued on p. 603)*
+
+---
+
+### Page 603 (PDF 623)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 603.)*
+
+> …द्रवमिच्छत्सु मनुष्येषु वर्तेथे । यदि वानुषु प्राणनत्सु सफलैः प्राणैर्युक्तेषु ज्ञात्रृत्वेनुष्माहृषु मनुष्येषु । अन्येषां हि प्राणा निष्फला ज्ञानहीनत्वादनुष्मानाभावाच्च । तेषु यदि भवथः । तथा पूरुषु कामैः पूरयितृत्वेन्यन्येषु स्तोत्रैजनेषु यदि भवथः । अतः सर्वस्मात्स्थानात् हे कामानां वर्षितारावन्द्राग्नी आ गच्छतं । अनन्तरमभिषुतं सोमं पिबतम् ॥ यदुषु । यमु उपरमे । नियमनमिन्द्रियैरिति यदवः । यमेर्दुर्चेति कुप्रत्ययो दुगागमश्च । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । तुर्वशेषु । तुर्वी हिंसार्थः । औणादिकोऽशप्रत्ययः । द्रुह्युषु । द्रुह जिघांसायाम् । संपदादिलक्षणो भावे क्विप् । द्रुहं परेषामिच्छन्ति । छन्दसि परेच्छायामिति क्यच् । क्याच्छन्दसीत्युप्रत्ययः । अनुषु । अन प्राणने । आणश्च । उ. १-४ । इति विधीयमान उप्रत्ययो बहुलवचनादस्मादपि भवति । निदित्त्वान्नुषु वृत्त्वराद्युदात्तत्वम् [?] । पूरुषु । पूरी आप्यायने । पूर्यन्ते इति पूरवः । औणादिक उप्रत्ययः ॥
+> *…dravam icchatsu manuṣyeṣu vartethe | yadi vānuṣu prāṇanatsu saphalaiḥ prāṇair yukteṣu jñātṛtvenuṣmāhṛṣu manuṣyeṣu | anyeṣāṃ hi prāṇā niṣphalā jñānahīnatvād anuṣmānābhāvāc ca | teṣu yadi bhavathaḥ | tathā pūruṣu kāmaiḥ pūrayitṛtvenyanyeṣu stotrair janeṣu yadi bhavathaḥ | ataḥ sarvasmāt sthānāt he kāmānāṃ varṣitārāv indrāgnī ā gacchataṃ | anantaram abhiṣutaṃ somaṃ pibatam ‖ yaduṣu | yamu uparame | niyamanam indriyair iti yadavaḥ | yamer dur ceti kupratyayo dugāgamaś ca | anudāttopadeśety ādinānunāsikalopaḥ | turvaśeṣu | turvī hiṃsārthaḥ | auṇādiko 'śapratyayaḥ | druhyuṣu | druha jighāṃsāyām | saṃpadādilakṣaṇo bhāve kvip | druhaṃ pareṣām icchanti | chandasi pareṣchāyām iti kyac | kyācchandasīty upratyayaḥ | anuṣu | ana prāṇane | āṇaś ca | u. 1-4[?] | iti vidhīyamāna upratyayo bahulavacanād asmād api bhavati | nidittvān nuṣu vṛttvarādyudāttatvam [?] | pūruṣu | pūrī āpyāyane | pūryante iti pūravaḥ | auṇādika upratyayaḥ ‖* *(Sanskrit as read; a number of words in the first sentence and in the tail are clotted and given with doubt [?] — notably "jñātṛtvenuṣmāhṛṣu", "kāmaiḥ pūrayitṛtvenyanyeṣu" and "vṛttvarādyudāttatvam [?]" — and not completed from memory; the tail is short and given.)*
+
+"Here *yaduṣu* and the rest are five names of men (peoples). O Indra and Agni! if you are among the *yadus* — the self-controlled (*niyata*) men, who injure no others; or if you are among the *turvaśas* — men who are injurers; or if you are among the *druhyus*, men who wish harm (*droha*) to others; or if you are among the *anus* — men who breathe (*prāṇanat*), who are provided with breaths that bear fruit, [being possessed of knowledge] [?]; for the breaths of others are fruitless, since they lack knowledge — if among those you are; or among the *pūrus*, those who fulfil the desires of others by their praises: from all those places, O showerers of desires, Indra and Agni, come; afterwards, drink the pressed Soma."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 108.8; Kannada; English)**
+
+*Indrāgnī* — O Indra and Agni; *yat* — perhaps; *yaduṣu* — among the group of men who do no harm to others; *sthaḥ* — you are; *turvaśeṣu* — or among the group of men who are harmful; *yat* — or perhaps; *druhyuṣu* — among those who wish harm to others; *anuṣu* — among the sacrificers who make their lives fruitful by performing sacrifices and other works; *pūruṣu* — [among] the group of men who obtain their desired objects in accordance with their own works; *ataḥ pari* — from among all those regions, wherever you may be; *vṛṣaṇau* — O Indra and Agni, who grant the desired objects; *ā yātam hi* — certainly come (to our sacrificial ground); *atha* — after coming; *sutasya* — pressed; *somasya* — Soma-juice (your portion); *pibatam* — drink.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who grant the desired objects: whether you are together among the group of men who do no harm to others, or among the group of men who are harmful, or among those who wish harm, or among the sacrificers who make their lives fruitful by performing sacrifices and other works, or among men who obtain their desired objects in accordance with their own works: from among all those regions, wherever you may be, come to our sacrificial ground and drink your portion of the Soma-juice.
+
+**English Translation (as printed in the source)**
+
+"If, Indra and Agni, you are amongst men who are inoffensive, malevolent, or tyrannical, or those who live ( to fulfil the duties of life ), or *(the English continues on p. 604)*
+
+---
+
+### Page 604 (PDF 624)
+
+*(Running head: left 604; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+
+— those who receive the fruits (of good deeds), then, showerers of benefits, come hither from wherever you may be, and drink of the effused libation."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 108.8)**
+
+**Yaduṣu** — "*yaduṣu ityādīni pañca manuṣyanāmāni*: Yadu, Turvaśa, Druhyu, Anu and Pūru: these five are names of men. Of these, the Yadu group are always those who do no harm to others: '*yaduṣu niyateṣu pareṣām ahiṃsakeṣu*', as Sāyaṇa has explained. This may be the name of one person, or the name of a group. As the name of the king Yadu is well known, so the name of a group called Yadu is also well known.
+
+**Turvaśeṣu** — the name Turvaśa too is well known both as a personal name and as a group name. Here Sāyaṇa has told the nature of the Turvaśas as *hiṃsakeṣu manuṣyeṣu*, 'among men who are injurers'. In all the places where the two names Yadu and Turvaśa occur as personal names, both are understood as royal sages (*rājarṣi*) and as worthy of the favour of Indra and Agni. In the plural forms *yaduṣu* and *turvaśeṣu*, the two names appearing together may be said to occur in one single place in the Ṛk-saṃhitā:
+
+> अग्निना तुर्वशं यदुं परावत उग्रादेवं हवामहे ।
+> *agninā turvaśaṃ yaduṃ parāvata ugrādevaṃ havāmahe |* (*Ṛ. Saṃ.* 1-36-18 as read)
+
+> त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।
+> *tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |* (*Ṛ. Saṃ.* 1-54-6 as read)
+
+— in Ṛks such as these, the two royal sages are said to have received the protection of Agni and Indra. The principal heroic act of Turvaśa was to fight with Sudāsa.
+
+> पुरोळा इत्तुर्वशो यक्षुरासीद्राये मत्स्यासो निशिता अपीव ।
+> श्रुष्टिं चकुर्भृगवो द्रुह्यवश्च सखा सखायमतरद्विषूचोः ॥
+> *puroḷā it turvaśo yakṣur āsīd rāye matsyāso niśitā apīva | śruṣṭiṃ cakrur bhṛgavo druhyavaś ca sakhā sakhāyam atarad viṣūcoḥ ‖* (*Ṛ. Saṃ.* 7-18-6 as read)
+
+— in this Ṛk the war of Turvaśa is described. But there is nothing explicit as to whether Turvaśa here received help from Indra or was defeated. Sāyaṇa has given both kinds of meaning: first, that when Turvaśa went to fight with Indra's friend Sudāsa, Indra defeated Turvaśa and protected his well-wisher; and second, that, when war arose between Turvaśa and his opponents, Indra, at that time, helped his friend Turvaśa" *(continued on p. 605)*
+
+---
+
+### Page 605 (PDF 625)
+
+*(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 605.)*
+
+"— is said. Therefore the purport of this Ṛk is not clear. In the same way, in the Ṛk where both Yadu and Turvaśa are described as defeated by Indra:
+
+> पुरः सद्य इत्थाधियेऽ दिवोदासाय शम्बरम् ।
+> अध त्यं तुर्वशं यदुम् ॥
+> *puraḥ sadya itthādhiye divodāsāya śambaram | adha tyaṃ turvaśaṃ yadum ‖* (*Ṛ. Saṃ.* 7-19-8 as read [?])
+
+— from this it is seen that Indra, for his friend Divodāsa, subdued both Yadu and Turvaśa. But in
+
+> प्रयत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति ।
+> *prayat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti |* (*Ṛ. Saṃ.* 1-174-9 as read)
+
+> उत त्या तुर्वशायदू अस्नातारा शचीपतिः ।
+> इन्द्रो विद्वाँ अपारयत् ॥
+> *uta tyā turvaśāyadū asnātārā śacīpatiḥ | indro vidvāṃ apārayat ‖* (*Ṛ. Saṃ.* 4-30-17 as read)
+
+> त्वमपो यदवे तुर्वशायारमयः सुदुघाः पार इन्द्र ।
+> *tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra |* (*Ṛ. Saṃ.* 5-31-8 as read)
+
+> महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येमानु तुर्वशं यदुम् ।
+> *mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyemānu turvaśaṃ yadum |* (*Ṛ. Saṃ.* 8-4-7 as read)
+
+"— in many Ṛks such as these it is said that both Yadu and Turvaśa received help directly from Indra.
+
+By the fact that these names occur in the plural, they are understood to be different offspring, and to have a close relation with both groups.
+
+> त्रिंशच्छतं वर्मिण इन्द्र साकं यवेनावत्त्यां पुरुहूत श्रवस्या ।
+> वृचीवन्तः शरवे पत्यमानाः पात्रा भिन्दाना न्यर्थान्यायन् ॥
+> *triṃśac chataṃ varmiṇa indra sākaṃ yavenāvattyāṃ puruhūta śravasyā | vṛcīvantaḥ śarave patyamānāḥ pātrā bhindānā ny arthāny āyan ‖* (*Ṛ. Saṃ.* 6-27-5)
+
+> यस्य गावावरुषा सूयवस्यू अन्तरू षु चरतो रेरिहाणा ।
+> स सृञ्जयाय तुर्वशं परादाद्वृचीवतो दैववाताय शिक्षन् ॥
+> *yasya gāvāv aruṣā sūyavasyū antar ū ṣu carato rerihāṇā | sa sṛñjayāya turvaśaṃ parādād vṛcīvato daivavātāya śikṣan ‖* (*Ṛ. Saṃ.* 6-27-6, 7 as read)
+
+— from the context seen in Ṛks such as these, the scholar *Zimmer* (printed in English letters) has held that the descendants of Vṛcīvat and the descendants of Turvaśa are two names of one and the same family. But here those two names" *(the passage continues on p. 606)*
+
+---
+
+**Progress note:** Printed pp. 1–605 done (PDF 21–625): **Sūkta 108** (13 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 573–[?]) in progress: Riks 108.1–108.7 complete (pp. 573–602); Rik 108.8 (printed pp. 602–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*yaduṣu*, *turvaśeṣu*; with Zimmer's view quoted at the foot of p. 605, mid-sentence). Next: printed p. 606 (PDF 626). Sūkta 109 begins at printed p. 620. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
