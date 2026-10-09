@@ -19835,5 +19835,109 @@ O Aśvin deities, leaders! endowed with strength arisen from the drinking of the
 > *(Sanskrit as read from the print; doubtful [?]; no gloss attempted.)*
 
 ---
+### Page 737 (PDF 757)
 
-**Progress note:** Printed pp. 1–736 done (PDF 21–756): Sūkta 112: Riks 112.1–112.2 complete (pp. 723–733); Rik 112.3 (printed pp. 733–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (divyasya amṛtasya majmanā; yābhir asvaṃ dhenuṃ pinvathaḥ, with Skandasvāmi's Śayu story) done to the foot of p. 736, after the Ṛg citation *dasasyantā śayave…*; the Special Topics may continue and its grammar page follows on p. 737. Next: printed p. 737 (PDF 757). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 737. At the foot, the printer's signature "47 / VOLUME 8" — noted only.)*
+
+*(The Special Topics of Rik 112.3 continue with two further citations:)*
+
+> वृकायाऽचिज्जसमानाय शक्तमुत श्रुतं शयवे हूयमाना ।
+> *vṛkāyā cij jasamānāya śaktam uta śrutaṃ śayave hūyamānā |*
+> (*Ṛ.* 7-68-8 as read [?])
+
+> ता वर्तिर्यातं जयुषा वि पर्वतमपिन्वतं शयवे धेनुमश्विना ।
+> *tā vartir yātaṃ jayuṣā vi parvatam apinvataṃ śayave dhenum aśvinā |*
+> (*Ṛ.* 10-93-13 as read [?])
+> *(Sanskrit as read from the print; doubtful in places and the numerals doubtful [?]; no gloss attempted.)*
+
+"In Ṛks such as these too, the setting in which the Aśvin deities turned a barren cow into a milch cow for Śayu is told in just this way. And in the same way it is known, from the Ṛk
+
+> स द्विबन्धुर्वैतरणो यष्टा सबर्धुं धेनुमस्वं दुहध्यै ।
+> *sa dvibandhur vaitaraṇo yaṣṭā sabardhuṃ dhenum asvaṃ duhadhyai |*
+> (*Ṛ.* 10-61-12 as read [?])
+
+that Agni too did just this same helping for Śayu. In this Ṛk the cow is not said to be the cow of the king named Śayu. Sāyaṇa has explained it, '*nivṛttaprasavāṃ śayave dohāyākarot*' — 'he made her, who had ceased to bear, [fit] for milking, for Śayu'."
+
+**अस्वम् — Asvam.** *prasavāsamarthām* — "unable to bear": that is, 'barren'.
+
+**पिन्वथः — Pinvathaḥ.** *siñcathaḥ | payasā pūritavantāv ity arthaḥ |* — "You sprinkled; you filled [her] with milk." That is, 'you made her bear a calf and give milk'.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 112.3)** *(grammar pages, pp. 737–738, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Yuvam*: by *prathamāyāś ca dvivacane bhāṣāyām* (*pā.* 7-2-88 as read [?]) the *ā*-substitution is prescribed only for the spoken language, so it does not occur in the Veda. *Divyasya*: 'what exists in heaven' = *divyam*; by *bhave chandasi* (*pā.* 4-4-110 as read [?]) the suffix *yat*; genitive singular. *Viśām*: by *sāvekācas tṛtīyādiḥ* (*pā.* 6-1-168 as read [?]) the case-ending takes the *udātta*. *Kṣayathaḥ*: the root *kṣi* is used in the sense of lordship; *laṭ*, second-person dual; *nighāta* after a finite verb. *Asvam*: root *ṣūṅ prāṇigarbhavimocane*; 'delivery' is *sūḥ*; *kvip* in the abstract sense by *sampadādibhyaḥ kvip* (a *vārttika*; *pā.* 3-3-108 as read [?]); *s* for the root's initial *ṣ* by *dhātvādeḥ ṣaḥ saḥ* (*pā.* 6-1-64 as read [?]); 'she in whom there is no delivery' = *asūḥ*; by *nañsubhyām* (*pā.* 6-2-172 as read [?]) the final syllable of the second member is *udātta*; accusative singular *am* following, by *oḥ supi* (*pā.* 6-4-83 as read [?]) the *yaṇ* substitution; in the place of the *udātta* the *yaṇ* substitution… *(continued on p. 738)*
+
+---
+
+### Page 738 (PDF 758)
+
+*(Running head: left 738; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+*(Grammar, continued; short.)* …*and since the following syllable is* anudātta, *by* udāttasvaritayor yaṇaḥ svarito 'nudāttasya (*pā.* 8-2-4 as read [?]) *the following syllable takes the* svarita. *Pinvathaḥ*: root *pivi secane*; by *idito num dhātoḥ* (*pā.* 7-1-58 as read [?]) the augment *num*; in the sense of the agent, the sign *śap*; *laṭ*, second-person dual; since *yābhiḥ* precedes, by *yad vṛttān nityam* (*pā.* 8-1-66 as read [?]) the *nighāta* is prohibited; *śap*, the *sārvadhātuka* being *anudātta*, leaves the root-accent. *Narā*: nominative [vocative] dual; the *au* ending, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) replaced by *ā*; by *āmantritasya* the vocative-*nighāta*. ‖ 3 ‖
+
+*(An ornament closes Rik 112.3.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 112.4)** *(accent-marks not reproduced)*
+
+> याभिः परिज्मा तनयस्य मज्मना द्विमाता तूर्षु तरणिर्विभूषति ।
+> याभिस्त्रिमन्तुरभवद्विचक्षणस्ताभिरू षु ऊतिभिरश्विना गतम् ॥ ४ ॥
+> *yābhiḥ parijmā tanayasya majmanā dvimātā tūrṣu taraṇir vibhūṣati |*
+> *yābhis trimantur abhavad vicakṣaṇas tābhir ū ṣu ūtibhir aśvinā gatam ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 112.4)**
+
+> याभिः । परिऽज्मा । तनयस्य । मज्मना । द्विऽमाता । तूर्षु । तरणिः । विऽभूषति ।
+> याभिः । त्रिऽमन्तुः । अभवत् । विऽचक्षणः । ताभिः । ऊम् इति । सु । ऊतिऽभिः । अश्विना । आ । गतम् ॥ ४ ॥
+> *yābhiḥ | pari-jmā | tanayasya | majmanā | dvi-mātā | tūrṣu | taraṇiḥ | vi-bhūṣati |*
+> *yābhiḥ | tri-mantuḥ | abhavat | vi-cakṣaṇaḥ | tābhiḥ | ūm iti | su | ūti-bhiḥ | aśvinā | ā | gatam ‖ 4 ‖*
+
+---
+
+### Page 739 (PDF 759)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 739.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 112.4)**
+
+> परिज्मा परितो गन्ता वायुस्तनयस्यात्मीयस्य पुत्रस्याग्नेः । अग्निर्हि व्यानवृत्त्यात्मना वर्तमानेन वायुना मथ्यमानः सन् जायते । तथा च श्रूयते । अथ यः प्राणापानयोः सन्धिः स व्यानः । अतो यान्यन्यानि वीर्यवन्ति कर्माणि यथाग्नेर्मन्थनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोतीति । छा. उ. १-३-३ [?] । यद्वा । सृष्ट्यौ वायुसकाशादुत्पन्नत्वादग्नेः पुत्रत्वम् । आम्नायते च । वायोरग्निरिति । एवं स्वपुत्रेणाग्निना मज्मना बलेन युक्तः सन् द्विमाता द्वयोर्लोकयोर्निर्माता । अग्निः पृथिवीस्थानो वायुरन्तरिक्षस्थानः । उभयोर्मिलितयोरुभयनिर्मातृत्वमुपपन्नम् । यद्वा । द्विमातेति तनयस्य विशेषणम् । सुपां सुलुगिति षष्ठ्याः सुः [?] । द्विमातृकस्य द्वाभ्यामरणिभ्यां जातस्य । एवं भूतो वायुर्हे अश्विनौ याभिरूतिभिर्हेतुभूताभिः पालनैस्तूर्षु त्वरावत्सु मध्ये तरणिरतिशयेन तरीता शीघ्रगामी विभूषति व्याप्तो भवति । यद्वा । विभावति विशेषेण सर्वमलङ्करोति । अपि च । त्रिमन्तुस्त्रयो यागानां मन्ता त्रिविधेषु पाकयज्ञहविर्यज्ञसोमयज्ञेष्वासादितज्ञानः कक्षीवान् याभिर्युष्मदीयाभिरूतिभिर्विचक्षणो विशिष्टज्ञानयुक्तोऽभवत् । ताभिः सर्वाभिरूतिभिरस्मानागच्छतम् ॥ परिज्मा । परिपूर्वादज गतिक्षेपणयोरित्यस्मात् [?] क्सन्क्षन्नित्यादौ निपात्यते [?] । तूर्षु । त्वा प्लवनतरणयोः । बहुलं छन्दसीत्युत्वम् । हलि चेति दीर्घः । यद्वा । तरतेः क्विप् । ज्वरत्वरेत्यादिना वकारोपधयोरूट् । सावेकाच इति विभक्तेरुदात्तत्वम् । विभूषति । भवतेर्लेटि अडागमः । सिब्बहुलं लेटीति सिप् । यद्वा । भूष अलङ्कारे । भौवादिकः । विचक्षणः । अनुदात्तेत्त्वाच्च हलादेरिति युच् ॥
+> *parijmā parito gantā vāyus tanayasyātmīyasya putrasyāgneḥ | agnir hi vyānavṛttyātmanā vartamānena vāyunā mathyamānaḥ san jāyate | tathā ca śrūyate | atha yaḥ prāṇāpānayoḥ sandhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karotīti | chā. u. 1-3-3 [?] | yadvā | sṛṣṭyau vāyusakāśād utpannatvād agneḥ putratvam | āmnāyate ca | vāyor agnir iti | evaṃ svaputreṇāgninā majmanā balena yuktaḥ san dvimātā dvayor lokayor nirmātā | agniḥ pṛthivīsthāno vāyur antarikṣasthānaḥ | ubhayor militayor ubhayanirmātṛtvam upapannam | yadvā | dvimāteti tanayasya viśeṣaṇam | supāṃ suluk iti ṣaṣṭhyāḥ suḥ [?] | dvimātṛkasya dvābhyām araṇibhyāṃ jātasya | evaṃ bhūto vāyur he aśvinau yābhir ūtibhir hetubhūtābhiḥ pālanais tūrṣu tvarāvatsu madhye taraṇir atiśayena tarītā śīghragāmī vibhūṣati vyāpto bhavati | yadvā | vibhāvati viśeṣeṇa sarvam alaṅkaroti | api ca | trimantus trayo yāgānāṃ mantā trividheṣu pākayajñahavir yajñasomayajñeṣv āsāditajñānaḥ kakṣīvān yābhir yuṣmadīyābhir ūtibhir vicakṣaṇo viśiṣṭajñānayukto 'bhavat | tābhiḥ sarvābhir ūtibhir asmān āgacchatam ‖ parijmā | paripūrvād aja gatikṣepaṇayor ity asmāt [?] ksankṣann ity ādau nipātyate [?] | tūrṣu | tvā plavanataraṇayoḥ | bahulaṃ chandasīty utvam | hali ceti dīrghaḥ | yadvā | tarateḥ kvip | jvaratvarety ādinā vakāropadhayor ūṭ | sāvekāca iti vibhakter udāttatvam | vibhūṣati | bhavater leṭi aḍāgamaḥ | sibbahulaṃ leṭīti sip | yadvā | bhūṣa alaṅkāre | bhauvādikaḥ | vicakṣaṇaḥ | anudāttettvāc ca halāder iti yuc ‖*
+
+*(Sanskrit as read; the Chāndogya reference, the clause on* ṣaṣṭhyāḥ suḥ*, and the Uṇādi citation for* parijmā *are doubtful or clotted in the print [?] and are not completed from memory. The root* tvā *is as printed.)*
+
+"*Parijmā*: the Vāyu, the one who goes round about, *tanayasya*, of his own son Agni. For Agni is born, being churned by the Vāyu abiding as the *vyāna*-breath; and so it is heard: 'That which is the juncture of the out-breath and in-breath is *vyāna*; therefore, whatever other works require strength — the churning of fire, running a race, bending a stout bow — he performs them without breathing in or out' (*Chā. U.* 1-3-3 [?]). Or else, in creation Agni, having arisen from the neighbourhood of Vāyu, is his son: and it is handed down, 'from Vāyu, Agni.' So, being endowed with *majmanā*, the strength, of his own son Agni, *dvimātā*, the maker of the two worlds. Agni has the earth for his place, Vāyu the atmosphere: the making of both together is a fit thing. Or: *dvimātā* is an epithet of *tanayasya* — 'of him who has two mothers, born of the two kindling-sticks'. Vāyu being so, O Aśvins, with whatever protections, causing it, *tūrṣu*, among those who are quick, *taraṇiḥ*, [he is] exceedingly the swiftest, the swift-goer; *vibhūṣati*: he pervades; or else *vibhāvati*: he especially adorns everything. And further: *trimantuḥ*: the one who understands the three sacrifices, who has gained knowledge in the three kinds — the *pāka*-sacrifices, the *havis*-sacrifices and the Soma-sacrifices — Kakṣīvān; with whatever protections of yours he became *vicakṣaṇaḥ*, endowed with special knowledge: with all those protections come to us."
+
+*Grammatical tail (characterized, short; partly clotted [?]):* *parijmā*: from *aja gatikṣepaṇayoḥ* after *pari*, the form [with the Uṇādi sūtra beginning *ksan…* [?]] is irregularly formed. *Tūrṣu*: root *tvā* [as printed] *plavanataraṇayoḥ*; *u* by *bahulaṃ chandasi*; lengthening before a following consonant by *hali ca*; or from *tarateḥ kvip*, with *ūṭ* for the *v*-penultimate by *jvaratvara…*; the case-ending takes the *udātta* by *sāvekācaḥ…*. *Vibhūṣati*: root *bhū* in *leṭ* with the augment *aṭ*; *sip* by *sibbahulaṃ leṭi*; or from *bhūṣa alaṅkāre* of the *bhvādi* class. *Vicakṣaṇaḥ*: the suffix *yuc*, by the rule *anudāttettvāc ca halāder*.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 112.4; Kannada; English)**
+
+*Parijmā* — he who moves all round (and); *tanayasya* — (his own) son's, Agni's; *majmanā* — together with the strength; *dvimātā* — the ruler of the two worlds [or: *dvimātā* — having two mothers in the form of the two kindling-sticks; *tanayasya* — of his own son Agni; *majmanā* — endowed with strength, Vāyu]; *yābhiḥ* — by whichever protections [of yours]; *tūrṣu* — among those who go swiftly; *taraṇiḥ* — exceedingly swift of going; *vibhūṣati* — adorns all things in the extreme, or pervades all; (and) *trimantuḥ* — (of the *pākayajña*, *haviryajña* and *somayajña*) these three sacrifices, [gaining] the knowledge: Kakṣīvān; *yābhiḥ* — by whichever protections of yours; *vicakṣaṇaḥ* — endowed with special knowledge; *abhavat* — he became; *aśvinā* — O Aśvins; *tābhiḥ ūtibhiḥ ū* — with all those protections, (to us too) *su ā gatam* — come willingly.
+
+---
+
+### Page 740 (PDF 760)
+
+*(Running head: left 740; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+Vāyu, who moves about everywhere and who, together with his son Agni, rules the two worlds, becomes, by the help of whichever of your protections, exceedingly swift among the swift-goers and adorns everything; and Kakṣīvān, who by whichever of your protections obtained special knowledge in the matter of the three sacrifices: O Aśvin deities! with all those protections of yours, come to us also, with willingness.
+
+**English Translation (as printed in the source; Rik 112.4)**
+
+"With those aids by which the circumambient (wind,) endowed with the vigour of his son, the measurer of the two worlds (of heaven and earth), and swiftest of the swift, beautifies (all things), and by which (Kakshivat) became learned in the three kinds of sacrifice; with them come, Aswins, willingly hither."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 112.4)**
+
+**परिज्मा — Parijmā.** *paritaḥ gantā* — "one who goes about everywhere": the Vāyu who moves in all places; the sense also is 'the all-pervading'. In many places this word is used as an epithet of Indra and the other deities, showing their all-pervasiveness; but it is a most fitting epithet for Vāyu.
+
+**तनयस्य मज्मना द्विमाता — Tanayasya majmanā dvimātā.** For this Sāyaṇa gives two meanings, and Skandasvāmi one. By Sāyaṇa's first explanation: *tanayasya*, of his own son Agni; *majmanā*, endowed with strength; *dvimātā*, the Vāyu who 'makes' the two worlds (*vibhūṣati*). By the second: *dvimātā*, one who has two mothers in the form of the *araṇis*; *tanayasya*, of Agni, his son; *majmanā*, with strength: the Vāyu (*vibhūṣati*). By Skandasvāmi's explanation:
+
+> याभिरत्यन्तशीघ्राभिरूतिभिः परिज्मा सर्वतोगामी वायुः तनयस्यापत्यभूतस्य प्राणिजातस्यार्थाय मज्मना स्वशक्त्या द्विमाता द्वयोः प्राणिजातयोर्निर्माता । अथवा उत्पादिके प्रकृती मातराविति [?] उच्येते । ते द्वे यस्य विशा [?] प्राप्यां सृष्टौ अस्या देवसृष्टौ स द्विमाता ।
+> *yābhir atyantaśīghrābhir ūtibhiḥ parijmā sarvatogāmī vāyuḥ tanayasyāpatyabhūtasya prāṇijātasyārthāya majmanā svaśaktyā dvimātā dvayoḥ prāṇijātayor nirmātā | athavā utpādike prakṛtī mātarāv iti [?] ucyete | te dve yasya viśā [?] prāpyāṃ sṛṣṭau asyā devasṛṣṭau sa dvimātā |*
+> *(Sanskrit as read from the print; the second sentence is clotted [?] and is given as read, with the gist taken from the Kannada.)*
+> "By whichever exceedingly swift protections, the all-going Vāyu *parijmā*, for the sake of his offspring, the beings, *majmanā*, by his own power, *dvimātā*, is the maker of the two orders of beings. Or: the two producing *prakṛti*s are called 'mothers'; he who [has] those two in the creation of the gods is *dvimātā*."
+
+"By whichever extremely swift protections, the Vāyu who moves everywhere (*parijmā*), for the sake of the beings who are, as it were, his progeny, by his own power, is *dvimātā*, the creator of the two kinds of beings. Or, the two originating *prakṛti*s are called 'mothers': the root-*prakṛti* which is the origin of the Brāhmī creation, and the *prakṛti* of ordinary activity [*vyāvahārika*], which is the origin of the divine creation — that is, he who has these two parts of *prakṛti* as his mother…" *(the passage runs on to p. 741)*
+
+---
+
+**Progress note:** Printed pp. 1–740 done (PDF 21–760): Sūkta 112: Riks 112.1–112.3 complete (pp. 723–738); Rik 112.4 (printed pp. 738–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics (parijmā; tanayasya majmanā dvimātā with Skandasvāmi's explanation) begun, ending mid-sentence at the foot of p. 740. Next: printed p. 741 (PDF 761). Sūkta 112 has 25 Ṛks (1–23 Jagatī, 24–25 Triṣṭubh); last printed page about 832 (PDF 852); expect an adhyāya colophon. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
