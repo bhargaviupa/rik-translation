@@ -17048,5 +17048,127 @@ Grammar page, noted briefly. *Aśravam* (root *śru śravaṇe*; *laṅ*, first 
 > *indro dīrghāya cakṣasa ā sūryaṃ rohayad divi |* (*Ṛ. Saṃ.* 1-7-3 as read)" *(continued on p. 634)*
 
 ---
+### Page 634 (PDF 654)
 
-**Progress note:** Printed pp. 1–633 done (PDF 21–653): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.2 complete (pp. 621–630); Rik 109.3 (printed pp. 631–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*raśmīn*, *anuyacchamānāḥ*, *madanti*, *adrī*; ends mid-passage at the foot of p. 633). Next: printed p. 634 (PDF 654). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 634; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+> वि गोभिरद्रिमैरयत् ।
+> *vi gobhir adrim airayat |* (*Ṛ. Saṃ.* 1-7-3 as read) *(the second half-verse of the Ṛk begun on p. 633)*
+
+> परावतः सुमतिं भिक्षमाणा वि सिन्धवः समया सस्रुरद्रिम् ।
+> *parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim |* (*Ṛ. Saṃ.* 1-[?]3-6 as read [?])
+
+> उत पव्या रथानामद्रिं भिन्दन्त्योजसा ।
+> *uta pavyā rathānām adriṃ bhindann ojasā |* (*Ṛ. Saṃ.* 5-3[?]-9 as read [?])
+
+"— in Ṛks such as these, [*adri* means] mountain;
+
+> मुषायद्विष्णुः पचतं सहीयान्विध्यद्वराहं तिरो अद्रिमस्ता ।
+> *muṣāyad viṣṇuḥ pacataṃ sahīyān vidhyad varāhaṃ tiro adrim astā |* (*Ṛ. Saṃ.* 1-61-7 as read [?])
+
+> ब्रह्माणि मे मतयः शं सुतासः शुष्म इयर्ति प्रभृतो मे अद्रिः ।
+> *brahmāṇi me matayaḥ śaṃ sutāsaḥ śuṣma iyarti prabhṛto me adriḥ |* (*Ṛ. Saṃ.* 1-165-4 as read)
+
+— in all Ṛks such as these, the thunderbolt weapon;
+
+> बृहस्पतिर्भिनदद्रिं विदद्गाः समुस्रियाभिर्वावशन्त नरः ।
+> *bṛhaspatir bhinad adriṃ vidad gāḥ sam usriyābhir vāvaśanta naraḥ |* (*Ṛ. Saṃ.* 1-62-3 as read)
+
+> वीळु चिद्दृळ्हा पितरो न उक्थैरद्रिं रुजन्नङ्गिरसो रवेण ।
+> *vīḷu cid dṛḷhā pitaro na ukthair adriṃ rujann aṅgiraso raveṇa |* (*Ṛ. Saṃ.* 1-71-2 as read)
+
+— in such places, the Asura;
+
+> प्रयद्रथेषु पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयन्तः ।
+> *prayad ratheṣu pṛṣatīr ayugdhvaṃ vāje adriṃ maruto raṃhayantaḥ |* (*Ṛ. Saṃ.* 1-37-2 as read)
+
+— in such Ṛks the cloud;
+
+> महः स रायः एषते पतिर्दन्निन इनस्य वसुनः पद आ ।
+> उप ध्रजन्तमद्रयो विधन्नित् ॥
+> *mahaḥ sa rāya eṣate patir dann ina inasya vasunaḥ pada ā | upa dhrajantam adrayo vidhann it ‖* (*Ṛ. Saṃ.* 1-[?]4-1 as read [?]; the words as read, doubtful [?])
+
+— in Ṛks such as these, 'those that have stones', *adrayaḥ*: stones that press the juice; and the sacrificers: so many meanings arise. To show how the word *adri* thus gets such meanings as thunderbolt, *rākṣasa*, stone, mountain, cloud and so on, the Nirukta-author gives etymologies."
+
+---
+
+### Page 635 (PDF 655)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 635.)*
+
+> अद्रिरादृणात्येतेन । अपि वा अत्तेः स्यात् ।
+> *adrir ādṛṇāty etena | api vā atteḥ syāt |* (*Ni.* 4-4 as read [?])
+
+"— the word *adri* is formed either from the root *dṝ* [*ā* + *dṝ*], which gives the sense of 'to tear' (*sīḷu*), or from the root *ad*, which gives the sense 'to eat'. Because it tears mountains and the like, the thunderbolt weapon gets the name *adri*. Likewise, in the Ṛks 1-1[?]1-[?] and others, such as *bhakṣakaḥ vajraḥ*, the word *adri* is explained. And also *ātārāram*, *asuraṃ*, *bhakṣakaṃ paṇim* [as printed [?]] in the Ṛks 1-6[?]-3 [?] and 1-1[?]-[?] and others are explained. Giving this explanation, the Nirukta-author cites the Ṛk
+
+> यदिन्द्र चित्र मेहनास्ति त्वादातमद्रिवः ।
+> *yad indra citra mehanāsti tvādātam adrivaḥ |* (*Ṛ. Saṃ.* 3-3[?]-1 as read [?])
+
+— and has shown how, in the word *adrivaḥ*, the meaning 'Indra who has the thunderbolt' (*vajravān indraḥ*) can be derived. And likewise —
+
+> प्रैते वदन्तु प्र वयं वदाम ग्रावभ्यो वाचं वदता वदद्भ्यः ।
+> यदद्रयः पर्वताः साकमाशवः श्लोकं घोषं भरथेन्द्राय सोमिनः ॥
+> *praite vadantu pra vayaṃ vadāma grāvabhyo vācaṃ vadatā vadadbhyaḥ | yad adrayaḥ parvatāḥ sākam āśavaḥ ślokaṃ ghoṣaṃ bharathendrāya sominaḥ ‖* (*Ṛ. Saṃ.* 10-94-1 as read)
+
+— citing this Ṛk, the meaning is shown that for the word *adrayaḥ* here, *ādaraṇīyāḥ* (*Ni.* 4-4 [?]) *dṛḍhāḥ*, 'not to be torn', being firm: 'mountains worthy of respect'. In this way, since the root of the word *adri* [or the roots] give different meanings, in the Ṛk at hand also *adrī* may mean either 'Indra and Agni, who tear the enemies', or 'the stones that press the Soma-juice'."
+
+**Dhiṣaṇāyāḥ** — "the Nirukta-author has read the word *dhiṣaṇā* both among the names of speech (*Ni.* 1-1[?]) and among the names of Heaven and Earth (*Ni.* 3-3[?]). Besides, citing the Ṛk 3-1[?]-[?] [as read [?]], he explains *dhiṣaṇā* as having the sense of speech: '*dhiṣṇyā dhiṣṇyo dhiṣaṇābhavaḥ dhiṣaṇā vāg dhṛṣerdhātyarthe | dhīsādinīti vā | dhīsānīnīti vā*' [as read [?]] — formed from the root *dhiṣ*, which gives the meaning of 'to hold' (*hiḍidiru*), it means speech. Or else the purport is: 'praise the mind or prepare it'. Therefore the Nirukta-author has shown the derivation of *dhiṣaṇā* as 'speech'. But for this word other meanings too are possible.
+
+> आपश्च मित्रं धिषणा च साधन्देवा अग्निं धारयन्द्रविणोदाम् ।
+> *āpaś ca mitraṃ dhiṣaṇā ca sādhan devā agniṃ dhārayan draviṇodām |* (*Ṛ. Saṃ.* 1-[?]4-1 as read [?])
+
+> इमां ते धियं प्र भरे महो महीमस्य स्तोत्रे धिषणा यत्त आनजे ।
+> *imāṃ te dhiyaṃ pra bhare maho mahīm asya stotre dhiṣaṇā yat ta ānaje |* (*Ṛ. Saṃ.* 1-102-1 as read)" *(continued on p. 636)*
+
+---
+
+### Page 636 (PDF 656)
+
+*(Running head: left 636; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+"— in Ṛks such as these, 'speech' or 'intelligence'; and
+
+> महस्करथो वरिवो यथा नोऽस्मे क्षयाय धिषणे अनेहः ।
+> *mahas karatho varivo yathā no 'sme kṣayāya dhiṣaṇe anehaḥ |* (*Ṛ. Saṃ.* 6-[?]0-3 as read [?])
+
+> समीचीने धिषणे वि ष्कभायति वृष्णः पीत्वा मद उक्थानि शंसति ।
+> *samīcīne dhiṣaṇe vi ṣkabhāyati vṛṣṇaḥ pītvā mada ukthāni śaṃsati |* (*Ṛ. Saṃ.* 10-44-8 as read [?])
+
+— in Ṛks such as these 'Heaven and Earth'; and in the Ṛk at hand also, [it means] 'praise', or 'the board that holds the Soma-juice (*carmu* [?] *jeelaṃ* [bag])'. For the word *upasthe*, Skandasvāmin explains: '*upagamya brāhmaṇā devā vā yatra tiṣṭhanti sa upasthaḥ yajñaḥ*' — 'where, having come near, *brāhmaṇas* or gods stand, that is *upastha*, the sacrifice'; and since the deities or the *brāhmaṇas* come near and stand there, he explains that *upastha* means 'sacrifice'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.3)** *(noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Chedma* (root *chidir dvaidhīkaraṇe*; *luṅ*, first person plural, *mas*; the loss of *s* of *mas* by *nityaṃ ṅitaḥ*, Pā. Sū. 3-4-99 as read [?]; *luk* of the vikaraṇa by *bahulaṃ chandasi*, Pā. Sū. 2-4-76 as read [?]; since by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], the *mas* receives the name *ārdhadhātuka*, the *ṅit*-treatment of *sārvadhātukam apit* does not arise, so, by *puganta-laghūpadhasya ca*, Pā. Sū. 7-3-86 as read [?], *guṇa* of the light penult of the root; since it is in connection with *mā*, no *aṭ* by *na māṅyoge*, Pā. Sū. 6-4-74 as read [?]; since a verb follows a non-verb, *nighāta*). *Raśmīn* (since *iti* follows, by *dīrghād aṭi samānapāde*, Pā. Sū. 8-3-9 as read [?], *ru* for the *n*; here *anunāsikaḥ pūrvasya tu vā*, Pā. Sū. 8-3-2 as read [?]: nasalization of the preceding *ī* in the *ru* substitution). *Nādhamānāḥ* (root *ṇādhṛ yācñāyām*; *śānac* in the sense of *laṭ*; *śap* as the vikaraṇa; the augment *muk* by *āne muk*, Pā. Sū. 7-2-82 as read [?]; since a *lasārvadhātuka* follows the *anudāttet* root, the accent of the root remains by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?]). *Pitṝṇām* (*nāmi*, Pā. Sū. 6-4-3 as read [?]: lengthening of the final vowel; *nāmanyatarasyām*, Pā. Sū. 6-1-177 as read [?]: the *nām* ending is acute; because of the *ṛ* before, *ṇatva* of the *n*) *(continued on p. 637)*
+
+---
+
+### Page 637 (PDF 657)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 637.)*
+
+The grammar of Rik 109.3 concludes. *Madanti* (root *madi stutau*; although it is *idit*, by the statement *āgamānuśāsanam anityam* the augment *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?], does not arise; *laṭ*, third person plural; since a verb follows a non-verb, *nighāta*). The Rik is closed with *‖ 3 ‖* and an ornament.
+
+## Rik 109.4 — printed pp. 637–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.4)**
+
+> युवाभ्यां देवी धिषणा मदायेन्द्राग्नी सोममुशती सुनोति ।
+> तावश्विना भद्रहस्ता सुपाणी आ धावतं मधुना पृङ्क्तमप्सु ॥ ४ ॥
+
+*yuvābhyāṃ devī dhiṣaṇā madāyendrāgnī somam uśatī sunoti | tāv aśvinā bhadrahastā supāṇī ā dhāvataṃ madhunā pṛṅktam apsu ‖ 4 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.4)**
+
+> युवाभ्याम् । देवी । धिषणा । मदाय । इन्द्राग्नी इति । सोमम् । उशती । सुनोति ।
+> तौ । अश्विना । भद्रऽहस्ता । सुपाणी इति सुऽपाणी । आ । धावतम् । मधुना । पृङ्क्तम् । अप्ऽसु ॥ ४ ॥
+
+*yuvābhyām | devī | dhiṣaṇā | madāya | indrāgnī iti | somam | uśatī | sunoti | tau | aśvinā | bhadra-hastā | su-pāṇī iti su-pāṇī | ā | dhāvatam | madhunā | pṛṅktam | ap-su ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.4), begun at the foot of p. 637**
+
+> हे इन्द्राग्नी युवाभ्यां मदाय युवयोर्हर्षाय देवी द्योतमानोशती युवां कामयमाना धिषणा मन्त्ररूपा वाक् सोममभिषुणोति ।
+> *he indrāgnī yuvābhyāṃ madāya yuvayor harṣāya devī dyotamānośatī yuvāṃ kāmayamānā dhiṣaṇā mantrarūpā vāk somam abhiṣuṇoti |* *(continued on p. 638)*
+
+---
+
+**Progress note:** Printed pp. 1–637 done (PDF 21–657): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.3 complete (pp. 621–637); Rik 109.4 (printed pp. 637–[?]): Saṃhitā, Pada and the first line of the bhāṣya done at the foot of p. 637. Next: printed p. 638 (PDF 658). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
