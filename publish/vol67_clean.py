@@ -3,7 +3,7 @@
 import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = pathlib.Path(__file__).resolve().parent / "work"; OUT.mkdir(exist_ok=True)
-ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka'}
+ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka'}
 SAM = re.compile(r'^\*\*(?:॥ संहिता(?:पाठः|खण्डः) ॥ — )?Saṃhitā')
 
 def clean(vol):
@@ -34,12 +34,14 @@ def clean(vol):
             out.append('# Pīṭhike — Preface of H. P. Venkata Rao'); log('converted heading', ln, first); continue
         if first.startswith('## ॥'):
             out.append('# ' + ADH[vol])
-            if vol == 7: out.append('## Sūkta 81 — "%s"' % incipit.get(81, '')); cur_s = 81
+            if vol in (7, 8):
+                f0 = 81 if vol == 7 else 95
+                out.append('## Sūkta %d — "%s"' % (f0, incipit.get(f0, ''))); cur_s = f0
             continue
         if blk.strip() == '---': continue
         if blk.startswith('*(Running head') or blk.startswith('*(Translated at the user'):
             log('removed (working remark)', ln, blk); continue
-        m = re.match(r'^## (?:SŪKTA|Sūkta) (\d+)\b', first)
+        m = re.match(r'^#{1,2} (?:SŪKTA|Sūkta) (\d+)\b', first)
         if not m:
             m2 = re.match(r'^\*\*[^*]*— Sūkta (\d+)\*\*', first)
             if m2 and cur_s and int(m2.group(1)) == cur_s + 1: m = m2; blk = '## Sūkta %s' % m2.group(1) + ('\n' + rest if rest else ''); first = blk.split('\n',1)[0]
@@ -50,7 +52,7 @@ def clean(vol):
             if pg: out.append(f'<div class="pgmark">original p. {pg.group(1)}</div>')
             if rest.strip(): out.append(rest)
             continue
-        m = re.match(r'^#{3,4} (?:Sūkta \d+, )?Rik (\d+)(?:\.(\d+))?(?: \(([^)]*)\))?', first)
+        m = re.match(r'^#{2,4} (?:Sūkta \d+, )?Rik (\d+)(?:\.(\d+))?(?: \(([^)]*)\))?', first)
         if m:
             rk = int(m.group(2) or m.group(1))
             if rk != rik:

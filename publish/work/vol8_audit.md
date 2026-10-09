@@ -1,0 +1,850 @@
+# Volume 8 cleaning audit
+
+- **removed (trailing progress note)** (draft line 0): 
+- **removed (draft header / contents table)** (draft line 1): # Rigveda Samhita — Volume 8 (English Translation)
+- **removed (draft header / contents table)** (draft line 3): **Source:** `Rig_Vol8.pdf` (852 PDF pages, scanned) — *Sāyaṇa-bhāṣya-sahitā Ṛgveda-saṃhitā* with Kannada rendering, **Bhāga (Part) 8**, "Prathamāṣṭakadalli ēḷaneya adhyāyavu" — the **Seventh Adhyāya of the First Aṣṭaka**, Maṇḍala 1, **Sūkta…
+- **removed (draft header / contents table)** (draft line 5): **Relation to earlier volumes:** a direct continuation of Volume 7 (Sūktas 81–94, the Sixth Adhyāya). All conventions of Volumes 1–7 carry over unchanged (see `CLAUDE.md`): three-layer Sanskrit (Devanagari + IAST + English), view each page …
+- **removed (draft header / contents table)** (draft line 7): **Page numbering:** PDF 21 is the title page of the Seventh Adhyāya (Om emblem, invocation, "Prathamāṣṭake saptamo 'dhyāyaḥ", and the first lines of Sāyaṇa's introduction) = printed page 1 (unnumbered); PDF 22 carries the printed folio 2. S…
+- **removed (draft header / contents table)** (draft line 9): **Table of contents.** This volume's contents (PDF 15–20) is a topic index; the opening words of each Sūkta are as printed in its contents heading, the page numbers are the printed Kannada numerals read at 100 dpi (treat as approximate):
+- **removed (draft header / contents table)** (draft line 11): | Sūkta | Opening words (as printed in the contents) | First printed page | |---|---|---| | 95 | *dve virūpe* | 1 | | 96 | *sa pratnathā* | 61 | | 97 | *apa naḥ śośucad agham* | 110 | | 98 | *vaiśvānarasya sumatau* | 134 | | 99 | *jātavedas…
+- **removed (draft header / contents table)** (draft line 32): *(Sūkta numbers and opening words were read from the Kannada-script contents; the Sanskrit opening words are the reading of the contents headings and are to be confirmed against each Sūkta's own heading when it is reached. The subject-index…
+- **removed (draft header / contents table)** (draft line 34): ---
+- **converted heading** (draft line 36): ## ಪೀಠಿಕೆ — PĪṬHIKE (PREFACE of the translator, H. P. Venkata Rao) — Roman folios i–ix (PDF 6–14)
+- **removed (working remark)** (draft line 84): *(Running head: "ii".)*
+- **removed (working remark)** (draft line 132): *(Running head: "iii".)*
+- **removed (working remark)** (draft line 176): *(Running head: "iv".)*
+- **removed (working remark)** (draft line 201): *(Running head: "v".)*
+- **removed (working remark)** (draft line 231): *(Running head: "vi".)*
+- **removed (working remark)** (draft line 259): *(Running head: "vii".)*
+- **removed (working remark)** (draft line 313): *(Running head: "viii".)*
+- **removed (working remark)** (draft line 339): *(Running head: "ix".)*
+- **removed (working remark)** (draft line 389): *(Running head: left 2; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 405): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right: 3.)*
+- **removed (working remark)** (draft line 437): *(Running head: left 4; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 451): *(Running head: left "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 5.)*
+- **removed (working remark)** (draft line 486): *(Running head: left 6; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 516): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 7.)*
+- **removed (working remark)** (draft line 566): *(Running head: left 8; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 572): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 9.)*
+- **removed (working remark)** (draft line 591): *(Running head: left 10; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 612): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 11.)*
+- **removed (working remark)** (draft line 636): *(Running head: left 12; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 670): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 13.)*
+- **removed (working remark)** (draft line 702): *(Running head: left 14; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 727): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 15.)*
+- **removed (working remark)** (draft line 744): *(Running head: left 16; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 767): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 17; foot: printer's signature "2 … Volume 8".)*
+- **removed (working remark)** (draft line 789): *(Running head: left 18; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 837): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 19.)*
+- **removed (working remark)** (draft line 869): *(Running head: left 20; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 875): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 21.)*
+- **removed (working remark)** (draft line 908): *(Running head: left 22; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 930): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 23.)*
+- **removed (working remark)** (draft line 958): *(Running head: left 24; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 991): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 25.)*
+- **removed (working remark)** (draft line 1016): *(Running head: left 26; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1024): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 27.)*
+- **removed (working remark)** (draft line 1050): *(Running head: left 28; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1066): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 29.)*
+- **removed (working remark)** (draft line 1089): *(Running head: left 30; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1119): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 1 [?]"; centre "Ṛgvedasaṃhitā"; right 31.)*
+- **removed (working remark)** (draft line 1133): *(Running head: left 32; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1143): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 33; foot: printer's signature "3 … Volume 8".)*
+- **removed (working remark)** (draft line 1170): *(Running head: left 34; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1197): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 35.)*
+- **removed (working remark)** (draft line 1219): *(Running head: left 36; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1265): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 37.)*
+- **removed (working remark)** (draft line 1281): *(Running head: left 38; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1311): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 39.)*
+- **removed (working remark)** (draft line 1331): *(Running head: left 40; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1363): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 41.)*
+- **removed (working remark)** (draft line 1395): *(Running head: left 42; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1412): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 43.)*
+- **removed (working remark)** (draft line 1429): *(Running head: left 44; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1457): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 45.)*
+- **removed (working remark)** (draft line 1482): *(Running head: left 46; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1514): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 47.)*
+- **removed (working remark)** (draft line 1537): *(Running head: left 48; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1543): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 2 [?]"; centre "Ṛgvedasaṃhitā"; right 49; foot: printer's signature "4 … Volume 8".)*
+- **removed (working remark)** (draft line 1576): *(Running head: left 50; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1611): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 51.)*
+- **removed (working remark)** (draft line 1647): *(Running head: left 52; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1667): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 53.)*
+- **removed (working remark)** (draft line 1691): *(Running head: left 54; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1717): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 55.)*
+- **removed (working remark)** (draft line 1755): *(Running head: left 56; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1763): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 57.)*
+- **removed (working remark)** (draft line 1798): *(Running head: left 58; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1825): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 59.)*
+- **removed (working remark)** (draft line 1859): *(Running head: left 60; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 95".)*
+- **removed (working remark)** (draft line 1865): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 61.)*
+- **removed (working remark)** (draft line 1890): *(Running head: left 62; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 1917): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 63.)*
+- **removed (working remark)** (draft line 1945): *(Running head: left 64; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 1981): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 65; foot: printer's signature "5 … Volume 8".)*
+- **removed (working remark)** (draft line 2013): *(Running head: left 66; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2051): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 67.)*
+- **removed (working remark)** (draft line 2097): *(Running head: left 68; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2135): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 69.)*
+- **removed (working remark)** (draft line 2161): *(Running head: left 70; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2191): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 71.)*
+- **removed (working remark)** (draft line 2197): *(Running head: left 72; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2230): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 73.)*
+- **removed (working remark)** (draft line 2257): *(Running head: left 74; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2287): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 75.)*
+- **removed (working remark)** (draft line 2317): *(Running head: left 76; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2359): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 77.)*
+- **removed (working remark)** (draft line 2395): *(Running head: left 78; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2423): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 79.)*
+- **removed (working remark)** (draft line 2454): *(Running head: left 80; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2475): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 81; foot: printer's signature "6 … Volume 8".)*
+- **removed (working remark)** (draft line 2513): *(Running head: left 82; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2543): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 83.)*
+- **removed (working remark)** (draft line 2561): *(Running head: left 84; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2569): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 85.)*
+- **removed (working remark)** (draft line 2598): *(Running head: left 86; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2622): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 87.)*
+- **removed (working remark)** (draft line 2660): *(Running head: left 88; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2682): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 89.)*
+- **removed (working remark)** (draft line 2708): *(Running head: left 90; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2728): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 91.)*
+- **removed (working remark)** (draft line 2748): *(Running head: left 92; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2778): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 3 [?]"; centre "Ṛgvedasaṃhitā"; right 93.)*
+- **removed (working remark)** (draft line 2786): *(Running head: left 94; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2805): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 95.)*
+- **removed (working remark)** (draft line 2831): *(Running head: left 96; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2865): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 97; foot: printer's signature "7 … Volume 8".)*
+- **removed (working remark)** (draft line 2905): *(Running head: left 98; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2923): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 99.)*
+- **removed (working remark)** (draft line 2952): *(Running head: left 100; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 2974): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 101.)*
+- **removed (working remark)** (draft line 3016): *(Running head: left 102; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 3024): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 103.)*
+- **removed (working remark)** (draft line 3048): *(Running head: left 104; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 3075): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 105.)*
+- **removed (working remark)** (draft line 3109): *(Running head: left 106; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 3135): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 107.)*
+- **removed (working remark)** (draft line 3154): *(Running head: left 108; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 96".)*
+- **removed (working remark)** (draft line 3188): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 4 [?]"; centre "Ṛgvedasaṃhitā"; right 109.)*
+- **removed (working remark)** (draft line 3212): *(Running head: left 110; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3233): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 111.)*
+- **removed (working remark)** (draft line 3265): *(Running head: left 112; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3292): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 113; foot: printer's signature "8 … Volume 8".)*
+- **removed (working remark)** (draft line 3318): *(Running head: left 114; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3341): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 115.)*
+- **removed (working remark)** (draft line 3361): *(Running head: left 116; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3392): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 117.)*
+- **removed (working remark)** (draft line 3427): *(Running head: left 118; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3445): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 119.)*
+- **removed (working remark)** (draft line 3490): *(Running head: left 120; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3510): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 121.)*
+- **removed (working remark)** (draft line 3556): *(Running head: left 122; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3574): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 123.)*
+- **removed (working remark)** (draft line 3609): *(Running head: left 124; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3637): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 125.)*
+- **removed (working remark)** (draft line 3682): *(Running head: left 126; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3720): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 127.)*
+- **removed (working remark)** (draft line 3753): *(Running head: left 128; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3781): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 129; foot: printer's signature "9 … Volume 8".)*
+- **removed (working remark)** (draft line 3817): *(Running head: left 130; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3846): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 131.)*
+- **removed (working remark)** (draft line 3876): *(Running head: left 132; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 97".)*
+- **removed (working remark)** (draft line 3905): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 5 [?]"; centre "Ṛgvedasaṃhitā"; right 133.)*
+- **removed (working remark)** (draft line 3951): *(Running head: left 134; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 3976): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 135.)*
+- **removed (working remark)** (draft line 4004): *(Running head: left 136; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4023): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 137.)*
+- **removed (working remark)** (draft line 4057): *(Running head: left 138; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4091): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 139.)*
+- **removed (working remark)** (draft line 4126): *(Running head: left 140; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4154): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 141.)*
+- **removed (working remark)** (draft line 4168): *(Running head: left 142; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4184): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 143.)*
+- **removed (working remark)** (draft line 4190): *(Running head: left 144; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4200): *(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 145; foot: printer's signature "10 … Volume 8".)*
+- **removed (working remark)** (draft line 4236): *(Running head: left 146; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4278): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 147.)*
+- **removed (working remark)** (draft line 4288): *(Running head: left 148; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4318): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 149.)*
+- **removed (working remark)** (draft line 4349): *(Running head: left 150; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4381): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 151.)*
+- **removed (working remark)** (draft line 4414): *(Running head: left 152; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4428): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 153.)*
+- **removed (working remark)** (draft line 4461): *(Running head: left 154; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
+- **removed (working remark)** (draft line 4487): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 155.)*
+- **removed (working remark)** (draft line 4523): *(Running head: left 156; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99" [as the numeral reads, 98 or 99 [?]].)*
+- **removed (working remark)** (draft line 4568): *(Running head: left "A. 1 A. 7 Va. 6 [?]"; centre "Ṛgvedasaṃhitā"; right 157. The grammar of Rik 98.3 given above begins at the foot of p. 156 and is completed at the head of this page.)*
+- **removed (working remark)** (draft line 4589): *(Running head: left 158; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+- **removed (working remark)** (draft line 4621): *(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 159.)*
+- **removed (working remark)** (draft line 4653): *(Running head: left 160; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+- **removed (working remark)** (draft line 4679): *(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 161. A printer's signature "11 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 4717): *(Running head: left 162; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+- **removed (working remark)** (draft line 4755): *(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 163.)*
+- **removed (working remark)** (draft line 4789): *(Running head: left 164; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 99".)*
+- **removed (working remark)** (draft line 4795): *(Running head: left "A. 1 A. 7 Va. 7 [?]"; centre "Ṛgvedasaṃhitā"; right 165.)*
+- **removed (working remark)** (draft line 4816): *(Running head: left 166; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 4847): *(Running head: left "A. 1 A. 7 Va. 8 [?]"; centre "Ṛgvedasaṃhitā"; right 167.)*
+- **removed (working remark)** (draft line 4875): *(Running head: left 168; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 4903): *(Running head: left "A. 1 A. 7 Va. 8 [?]"; centre "Ṛgvedasaṃhitā"; right 169.)*
+- **removed (working remark)** (draft line 4953): *(Running head: left 170; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 4982): *(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 171.)*
+- **removed (working remark)** (draft line 5028): *(Running head: left 172; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5064): *(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 173.)*
+- **removed (working remark)** (draft line 5102): *(Running head: left 174; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5122): *(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 175. The grammar of Rik 100.1 given above is completed at the head of this page; a rule of dashes follows.)*
+- **removed (working remark)** (draft line 5135): *(Running head: left 176; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5168): *(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 177. A printer's signature "12 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 5212): *(Running head: left 178; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5246): *(Running head: left "A. 1 A. 7 Va. 9 [?]"; centre "Ṛgvedasaṃhitā"; right 179.)*
+- **removed (working remark)** (draft line 5272): *(Running head: left 180; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5280): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 181.)*
+- **removed (working remark)** (draft line 5311): *(Running head: left 182; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5338): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 183.)*
+- **removed (working remark)** (draft line 5354): *(Running head: left 184; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5392): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 185.)*
+- **removed (working remark)** (draft line 5400): *(Running head: left 186; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5434): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 187.)*
+- **removed (working remark)** (draft line 5460): *(Running head: left 188; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5494): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 189.)*
+- **removed (working remark)** (draft line 5539): *(Running head: left 190; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5553): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 191.)*
+- **removed (working remark)** (draft line 5577): *(Running head: left 192; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5609): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 193. A printer's signature "13 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 5654): *(Running head: left 194; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5672): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 195.)*
+- **removed (working remark)** (draft line 5704): *(Running head: left 196; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5719): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 197.)*
+- **removed (working remark)** (draft line 5750): *(Running head: left 198; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5786): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 199.)*
+- **removed (working remark)** (draft line 5814): *(Running head: left 200; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5830): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 201.)*
+- **removed (working remark)** (draft line 5854): *(Running head: left 202; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5880): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 203.)*
+- **removed (working remark)** (draft line 5920): *(Running head: left 204; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5950): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 205.)*
+- **removed (working remark)** (draft line 5958): *(Running head: left 206; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 5978): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 207.)*
+- **removed (working remark)** (draft line 6003): *(Running head: left 208; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6032): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 209. A printer's signature "14 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 6078): *(Running head: left 210; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6095): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 211.)*
+- **removed (working remark)** (draft line 6119): *(Running head: left 212; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6144): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 213.)*
+- **removed (working remark)** (draft line 6182): *(Running head: left 214; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6194): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 215.)*
+- **removed (working remark)** (draft line 6214): *(Running head: left 216; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6243): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 217.)*
+- **removed (working remark)** (draft line 6284): *(Running head: left 218; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6311): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 219.)*
+- **removed (working remark)** (draft line 6333): *(Running head: left 220; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6358): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 221.)*
+- **removed (working remark)** (draft line 6402): *(Running head: left 222; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6440): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 223.)*
+- **removed (working remark)** (draft line 6455): *(Running head: left 224; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6479): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 225. A printer's signature "15 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 6501): *(Running head: left 226; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6539): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 227.)*
+- **removed (working remark)** (draft line 6576): *(Running head: left 228; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6612): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 229.)*
+- **removed (working remark)** (draft line 6632): *(Running head: left 230; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6649): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 231.)*
+- **removed (working remark)** (draft line 6673): *(Running head: left 232; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6716): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 233.)*
+- **removed (working remark)** (draft line 6752): *(Running head: left 234; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6760): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 235.)*
+- **removed (working remark)** (draft line 6782): *(Running head: left 236; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6807): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 237.)*
+- **removed (working remark)** (draft line 6846): *(Running head: left 238; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6876): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 239.)*
+- **removed (working remark)** (draft line 6884): *(Running head: left 240; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6909): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 241. A printer's signature "16 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 6933): *(Running head: left 242; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 6972): *(Running head: left "A. 1 A. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 243.)*
+- **removed (working remark)** (draft line 6982): *(Running head: left 244; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7013): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 245.)*
+- **removed (working remark)** (draft line 7041): *(Running head: left 246; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7079): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 247.)*
+- **removed (working remark)** (draft line 7102): *(Running head: left 248; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7134): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 249.)*
+- **removed (working remark)** (draft line 7146): *(Running head: left 250; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7170): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 251.)*
+- **removed (working remark)** (draft line 7195): *(Running head: left 252; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7224): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 253.)*
+- **removed (working remark)** (draft line 7258): *(Running head: left 254; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7296): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 255.)*
+- **removed (working remark)** (draft line 7302): *(Running head: left 256; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7329): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 257. A printer's signature "17 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 7357): *(Running head: left 258; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7395): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 259.)*
+- **removed (working remark)** (draft line 7429): *(Running head: left 260; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7441): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 261.)*
+- **removed (working remark)** (draft line 7463): *(Running head: left 262; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7490): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 263.)*
+- **removed (working remark)** (draft line 7520): *(Running head: left 264; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100".)*
+- **removed (working remark)** (draft line 7532): *(Running head: left "A. 1 A. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 265.)*
+- **removed (working remark)** (draft line 7553): *(Running head: left 266; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7582): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 267.)*
+- **removed (working remark)** (draft line 7607): *(Running head: left 268; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7641): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 269.)*
+- **removed (working remark)** (draft line 7677): *(Running head: left 270; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7689): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 271.)*
+- **removed (working remark)** (draft line 7704): *(Running head: left 272; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7730): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 273. A printer's signature "18 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 7765): *(Running head: left 274; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7813): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 275.)*
+- **removed (working remark)** (draft line 7845): *(Running head: left 276; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100" [as the numeral reads; 101 is meant [?]].)*
+- **removed (working remark)** (draft line 7888): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 277.)*
+- **removed (working remark)** (draft line 7898): *(Running head: left 278; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7929): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 279.)*
+- **removed (working remark)** (draft line 7960): *(Running head: left 280; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 7986): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 281.)*
+- **removed (working remark)** (draft line 8010): *(Running head: left 282; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8031): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 283.)*
+- **removed (working remark)** (draft line 8059): *(Running head: left 284; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8089): *(Running head: left "A. 1 A. 7 Va. 12 [?]"; centre "Ṛgvedasaṃhitā"; right 285.)*
+- **removed (working remark)** (draft line 8105): *(Running head: left 286; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8129): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 287.)*
+- **removed (working remark)** (draft line 8154): *(Running head: left 288; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8181): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 289. A printer's signature "19 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 8203): *(Running head: left 290; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8220): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 291.)*
+- **removed (working remark)** (draft line 8244): *(Running head: left 292; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8270): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 293.)*
+- **removed (working remark)** (draft line 8298): *(Running head: left 294; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8306): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 295.)*
+- **removed (working remark)** (draft line 8335): *(Running head: left 296; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8363): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 297.)*
+- **removed (working remark)** (draft line 8395): *(Running head: left 298; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8417): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 299.)*
+- **removed (working remark)** (draft line 8439): *(Running head: left 300; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 100" [as the numeral reads; 101 is meant [?]].)*
+- **removed (working remark)** (draft line 8464): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 301.)*
+- **removed (working remark)** (draft line 8496): *(Running head: left 302; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8506): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 303.)*
+- **removed (working remark)** (draft line 8537): *(Running head: left 304; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8567): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 305. A printer's signature "20 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 8603): *(Running head: left 306; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8623): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 307.)*
+- **removed (working remark)** (draft line 8654): *(Running head: left 308; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8684): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 309.)*
+- **removed (working remark)** (draft line 8722): *(Running head: left 310; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8739): *(Running head: left "A. 1 A. 7 Va. 13 [?]"; centre "Ṛgvedasaṃhitā"; right 311.)*
+- **removed (working remark)** (draft line 8771): *(Running head: left 312; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 101".)*
+- **removed (working remark)** (draft line 8791): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 313.)*
+- **removed (working remark)** (draft line 8823): *(Running head: left 314; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 8852): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 315.)*
+- **removed (working remark)** (draft line 8874): *(Running head: left 316; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 8902): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 317.)*
+- **removed (working remark)** (draft line 8912): *(Running head: left 318; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 8920): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 319.)*
+- **removed (working remark)** (draft line 8945): *(Running head: left 320; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 8966): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 321. A printer's signature "21 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 8998): *(Running head: left 322; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9020): *(Running head: left 324; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9051): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 325.)*
+- **removed (working remark)** (draft line 9077): *(Running head: left 326; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9091): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 327.)*
+- **removed (working remark)** (draft line 9133): *(Running head: left 328; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9147): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 329.)*
+- **removed (working remark)** (draft line 9165): *(Running head: left 330; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9189): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 331.)*
+- **removed (working remark)** (draft line 9218): *(Running head: left 332; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9236): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 333.)*
+- **removed (working remark)** (draft line 9263): *(Running head: left 334; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9292): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 335.)*
+- **removed (working remark)** (draft line 9324): *(Running head: left 336; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9338): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 337. A printer's signature "22 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 9360): *(Running head: left 338; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9389): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 339.)*
+- **removed (working remark)** (draft line 9413): *(Running head: left 340; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9457): *(Running head: left "A. 1 A. 7 Va. 14 [?]"; centre "Ṛgvedasaṃhitā"; right 341.)*
+- **removed (working remark)** (draft line 9467): *(Running head: left 342; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9496): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 343.)*
+- **removed (working remark)** (draft line 9516): *(Running head: left 344; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9534): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 345.)*
+- **removed (working remark)** (draft line 9560): *(Running head: left 346; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9568): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 347.)*
+- **removed (working remark)** (draft line 9593): *(Running head: left 348; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9622): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 349.)*
+- **removed (working remark)** (draft line 9651): *(Running head: left 350; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9668): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 351.)*
+- **removed (working remark)** (draft line 9694): *(Running head: left 352; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9724): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 353. A printer's signature "23 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 9732): *(Running head: left 354; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 102".)*
+- **removed (working remark)** (draft line 9763): *(Running head: left "A. 1 A. 7 Va. 15 [?]"; centre "Ṛgvedasaṃhitā"; right 355.)*
+- **removed (working remark)** (draft line 9798): *(Running head: left 356; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 9828): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 357.)*
+- **removed (working remark)** (draft line 9856): *(Running head: left 358; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 9884): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 359.)*
+- **removed (working remark)** (draft line 9940): *(Running head: left 360; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 9968): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 361.)*
+- **removed (working remark)** (draft line 9996): *(Running head: left 362; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10018): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 363.)*
+- **removed (working remark)** (draft line 10043): *(Running head: left 364; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10071): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 365.)*
+- **removed (working remark)** (draft line 10101): *(Running head: left 366; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10133): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 367.)*
+- **removed (working remark)** (draft line 10147): *(Running head: left 368; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10169): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 369. A printer's signature "24 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 10190): *(Running head: left 370; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10218): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 371.)*
+- **removed (working remark)** (draft line 10242): *(Running head: left 372; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10262): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 373.)*
+- **removed (working remark)** (draft line 10281): *(Running head: left 374; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10307): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 375.)*
+- **removed (working remark)** (draft line 10333): *(Running head: left 376; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10374): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 377.)*
+- **removed (working remark)** (draft line 10392): *(Running head: left 378; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10416): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 379.)*
+- **removed (working remark)** (draft line 10439): *(Running head: left 380; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10473): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 381.)*
+- **removed (working remark)** (draft line 10521): *(Running head: left 382; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10544): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 383.)*
+- **removed (working remark)** (draft line 10566): *(Running head: left 384; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10593): *(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 385. A printer's signature "25 · VOLUME 8" stands at the foot.)*
+- **removed (working remark)** (draft line 10615): *(Running head: left 386; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10632): *(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 387.)*
+- **removed (working remark)** (draft line 10658): *(Running head: left 388; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10686): *(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 389.)*
+- **removed (working remark)** (draft line 10720): *(Running head: left 390; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10737): *(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 391.)*
+- **removed (working remark)** (draft line 10767): *(Running head: left 392; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+- **removed (working remark)** (draft line 10801): *(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 393.)*
+- **removed (working remark)** (draft line 10826): *(Running head: left 394; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104" [as the numeral reads: the head here already carries the next sūkta's number].)*
+- **removed (working remark)** (draft line 10851): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 395.)*
+- **removed (working remark)** (draft line 10882): *(Running head: left 396; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 10905): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 397.)*
+- **removed (working remark)** (draft line 10949): *(Running head: left 398; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 10981): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 399.)*
+- **removed (working remark)** (draft line 10989): *(Running head: left 400; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 11011): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 401. A printer's signature "26 · VOLUME 8" at the foot.)*
+- **removed (working remark)** (draft line 11034): *(Running head: left 402; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 11068): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 403.)*
+- **removed (working remark)** (draft line 11098): *(Running head: left 404; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 11114): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 405.)*
+- **removed (working remark)** (draft line 11122): *(Running head: left 406; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 11161): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 407.)*
+- **removed (working remark)** (draft line 11179): *(Running head: left 408; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+- **removed (working remark)** (draft line 11201): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 409.)*
+- **removed (working remark)** (draft line 11230): *(Running head: left 410; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" with small numerals [?].)*
+- **removed (working remark)** (draft line 11259): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 411.)*
+- **removed (working remark)** (draft line 11287): *(Running head: left 412; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11320): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 413.)*
+- **removed (working remark)** (draft line 11365): *(Running head: left 414; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" with small numerals [?].)*
+- **removed (working remark)** (draft line 11399): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 415. The page is faint in the scan; the grammar of Rik 104.4 is continued and concluded here, as summarized under p. 414 above.)*
+- **removed (working remark)** (draft line 11407): *(Running head: left 416; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11434): *(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 417. At the foot, the printer's signature "27" and "VOLUME 6" [sic: the print's own signature line; noted only].)*
+- **removed (working remark)** (draft line 11461): *(Running head: left 418; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+- **removed (working remark)** (draft line 11495): *(Running head: left "A. 1 A. 7 Va. 1[?]"; centre "Ṛgvedasaṃhitā"; right 419.)*
+- **removed (working remark)** (draft line 11524): *(Running head: left 420; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+- **removed (working remark)** (draft line 11534): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 421.)*
+- **removed (working remark)** (draft line 11561): *(Running head: left 422; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11594): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 423.)*
+- **removed (working remark)** (draft line 11622): *(Running head: left 424; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11647): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 425.)*
+- **removed (working remark)** (draft line 11657): *(Running head: left 426; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11684): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 427.)*
+- **removed (working remark)** (draft line 11711): *(Running head: left 428; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+- **removed (working remark)** (draft line 11739): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 429.)*
+- **removed (working remark)** (draft line 11756): *(Running head: left 430; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11780): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 431.)*
+- **removed (working remark)** (draft line 11812): *(Running head: left 432; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+- **removed (working remark)** (draft line 11836): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 433 [partly lost in the scan].)*
+- **removed (working remark)** (draft line 11851): *(Running head: left 434; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11883): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 435.)*
+- **removed (working remark)** (draft line 11907): *(Running head: left 436; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104" [?].)*
+- **removed (working remark)** (draft line 11943): *(Running head: left "A. 1 A. 7 Va. 19 [?]"; centre "Ṛgvedasaṃhitā"; right 437.)*
+- **removed (working remark)** (draft line 11976): *(Running head: left 438; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 10[?]".)*
+- **removed (working remark)** (draft line 11986): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 439.)*
+- **removed (working remark)** (draft line 12009): *(Running head: left 440; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12029): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 441.)*
+- **removed (working remark)** (draft line 12059): *(Running head: left 442; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12083): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 443.)*
+- **removed (working remark)** (draft line 12110): *(Running head: left 444; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12123): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 445.)*
+- **removed (working remark)** (draft line 12137): *(Running head: left 446; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12167): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 447.)*
+- **removed (working remark)** (draft line 12195): *(Running head: left 448; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12203): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 449. At the foot, the printer's signature "29 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 12232): *(Running head: left 450; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12256): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 451.)*
+- **removed (working remark)** (draft line 12270): *(Running head: left 452; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12294): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 453.)*
+- **removed (working remark)** (draft line 12315): *(Running head: left 454; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12345): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 455.)*
+- **removed (working remark)** (draft line 12389): *(Running head: left 456; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12406): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 457.)*
+- **removed (working remark)** (draft line 12430): *(Running head: left 458; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12457): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 459.)*
+- **removed (working remark)** (draft line 12492): *(Running head: left 460; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12517): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 461.)*
+- **removed (working remark)** (draft line 12553): *(Running head: left 462; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12570): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 463.)*
+- **removed (working remark)** (draft line 12599): *(Running head: left 464; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12626): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 465. At the foot, the printer's signature "30 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 12655): *(Running head: left 466; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106 [sic: as read; the Sūkta is 105; small numerals] [?]".)*
+- **removed (working remark)** (draft line 12686): *(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 467.)*
+- **removed (working remark)** (draft line 12700): *(Running head: left 468; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12730): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 469.)*
+- **removed (working remark)** (draft line 12757): *(Running head: left 470; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12780): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 471.)*
+- **removed (working remark)** (draft line 12797): *(Running head: left 472; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12821): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 473.)*
+- **removed (working remark)** (draft line 12850): *(Running head: left 474; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12884): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 475.)*
+- **removed (working remark)** (draft line 12896): *(Running head: left 476; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12927): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 477.)*
+- **removed (working remark)** (draft line 12948): *(Running head: left 478; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 12973): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 479.)*
+- **removed (working remark)** (draft line 12999): *(Running head: left 480; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13016): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 481. At the foot, the printer's signature "31 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 13044): *(Running head: left 482; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13074): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 483.)*
+- **removed (working remark)** (draft line 13109): *(Running head: left 484; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13130): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 485.)*
+- **removed (working remark)** (draft line 13150): *(Running head: left 486; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13182): *(Running head: left "A. 1 A. 7 Va. 21 [?]"; centre "Ṛgvedasaṃhitā"; right 487.)*
+- **removed (working remark)** (draft line 13212): *(Running head: left 488; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13222): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 489.)*
+- **removed (working remark)** (draft line 13251): *(Running head: left 490; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13276): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 491.)*
+- **removed (working remark)** (draft line 13328): *(Running head: left 492; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13340): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 493.)*
+- **removed (working remark)** (draft line 13348): *(Running head: left 494; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13381): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 495.)*
+- **removed (working remark)** (draft line 13406): *(Running head: left 496; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13437): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 497. At the foot, the printer's signature "32 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 13466): *(Running head: left 498; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13474): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 499.)*
+- **removed (working remark)** (draft line 13503): *(Running head: left 500; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13534): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 501.)*
+- **removed (working remark)** (draft line 13573): *(Running head: left 502; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13581): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 503.)*
+- **removed (working remark)** (draft line 13614): *(Running head: left 504; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 104 [sic: small numerals as read, the Sūkta is 105] [?]".)*
+- **removed (working remark)** (draft line 13646): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 505.)*
+- **removed (working remark)** (draft line 13673): *(Running head: left 506; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13702): *(Running head: left "A. 1 A. 7 Va. 22 [?]"; centre "Ṛgvedasaṃhitā"; right 507.)*
+- **removed (working remark)** (draft line 13725): *(Running head: left 508; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13743): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 509.)*
+- **removed (working remark)** (draft line 13772): *(Running head: left 510; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13780): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 511.)*
+- **removed (working remark)** (draft line 13807): *(Running head: left 512; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13835): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 513. At the foot, the printer's signature "33 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 13868): *(Running head: left 514; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13904): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 515.)*
+- **removed (working remark)** (draft line 13918): *(Running head: left 516; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 13942): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 517.)*
+- **removed (working remark)** (draft line 13967): *(Running head: left 518; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14001): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 519.)*
+- **removed (working remark)** (draft line 14011): *(Running head: left 520; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14038): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 521.)*
+- **removed (working remark)** (draft line 14057): *(Running head: left 522; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14076): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 523.)*
+- **removed (working remark)** (draft line 14097): *(Running head: left 524; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14136): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 525.)*
+- **removed (working remark)** (draft line 14146): *(Running head: left 526; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14176): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 527.)*
+- **removed (working remark)** (draft line 14199): *(Running head: left "428" [sic: printed for 528; the numeral is a misprint]; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+- **removed (working remark)** (draft line 14217): *(Running head: left "A. 1 A. 7 Va. 23 [?]"; centre "Ṛgvedasaṃhitā"; right 529. At the foot, the printer's signature "34 / VOLUME 6" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 14244): *(Running head: left 530; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14274): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 531.)*
+- **removed (working remark)** (draft line 14302): *(Running head: left 532; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14338): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 533.)*
+- **removed (working remark)** (draft line 14372): *(Running head: left 534; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14384): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 535.)*
+- **removed (working remark)** (draft line 14421): *(Running head: left 536; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14440): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 537.)*
+- **removed (working remark)** (draft line 14475): *(Running head: left 538; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14498): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 539.)*
+- **removed (working remark)** (draft line 14531): *(Running head: left 540; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14559): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 541.)*
+- **removed (working remark)** (draft line 14597): *(Running head: left 542; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14629): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 543.)*
+- **removed (working remark)** (draft line 14661): *(Running head: left 544; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14682): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 545. At the foot, the printer's signature "35 / VOLUME" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 14713): *(Running head: left 546; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14741): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 547.)*
+- **removed (working remark)** (draft line 14776): *(Running head: left 548; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14814): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 549.)*
+- **removed (working remark)** (draft line 14832): *(Running head: left 550; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14856): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 551.)*
+- **removed (working remark)** (draft line 14881): *(Running head: left 552; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14916): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 553.)*
+- **removed (working remark)** (draft line 14946): *(Running head: left 554; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 14963): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 555.)*
+- **removed (working remark)** (draft line 14992): *(Running head: left 556; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 15018): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 557.)*
+- **removed (working remark)** (draft line 15030): *(Running head: left 558; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 15063): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 559.)*
+- **removed (working remark)** (draft line 15087): *(Running head: left 560; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+- **removed (working remark)** (draft line 15118): *(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 561. At the foot, the printer's signature "36 / VOLUME" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 15147): *(Running head: left 562; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+- **removed (working remark)** (draft line 15180): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 563.)*
+- **removed (working remark)** (draft line 15205): *(Running head: left 564; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+- **removed (working remark)** (draft line 15241): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 565.)*
+- **removed (working remark)** (draft line 15269): *(Running head: left 566; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+- **removed (working remark)** (draft line 15277): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 567.)*
+- **removed (working remark)** (draft line 15301): *(Running head: left 568; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+- **removed (working remark)** (draft line 15326): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 569.)*
+- **removed (working remark)** (draft line 15349): *(Running head: left 570; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+- **removed (working remark)** (draft line 15372): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 571.)*
+- **removed (working remark)** (draft line 15405): *(Running head: left 572; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108 [sic: small numerals as read; the Sūkta is 107] [?]".)*
+- **removed (working remark)** (draft line 15430): *(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 573.)*
+- **removed (working remark)** (draft line 15469): *(Running head: left 574; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15498): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 575.)*
+- **removed (working remark)** (draft line 15530): *(Running head: left 576; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15557): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 577. At the foot, the printer's signature "37 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 15577): *(Running head: left 578; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15594): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 579.)*
+- **removed (working remark)** (draft line 15618): *(Running head: left 580; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15652): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 581.)*
+- **removed (working remark)** (draft line 15688): *(Running head: left 582; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15706): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 583.)*
+- **removed (working remark)** (draft line 15735): *(Running head: left 584; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15762): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 585.)*
+- **removed (working remark)** (draft line 15790): *(Running head: left 586; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15808): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 587.)*
+- **removed (working remark)** (draft line 15831): *(Running head: left 588; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15856): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 589.)*
+- **removed (working remark)** (draft line 15876): *(Running head: left 590; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15893): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 591.)*
+- **removed (working remark)** (draft line 15921): *(Running head: left 592; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 15953): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 593. At the foot, the printer's signature "38 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 15992): *(Running head: left 594; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16014): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 595.)*
+- **removed (working remark)** (draft line 16043): *(Running head: left 596; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16070): *(Running head: left "A. 1 A. 7 Va. 26 [?]"; centre "Ṛgvedasaṃhitā"; right 597. At the foot, the printer's signature "37"? [no: the page carries no signature].)*
+- **removed (working remark)** (draft line 16111): *(Running head: left 598; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16148): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 599.)*
+- **removed (working remark)** (draft line 16171): *(Running head: left 600; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16200): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 601.)*
+- **removed (working remark)** (draft line 16225): *(Running head: left 602; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16254): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 603.)*
+- **removed (working remark)** (draft line 16277): *(Running head: left 604; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16305): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 605.)*
+- **removed (working remark)** (draft line 16346): *(Running head: left 606; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16378): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 607.)*
+- **removed (working remark)** (draft line 16401): *(Running head: left 608; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16425): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 609. At the foot, the printer's signature "39 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 16454): *(Running head: left 610; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16481): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 611.)*
+- **removed (working remark)** (draft line 16510): *(Running head: left 612; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16543): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 613.)*
+- **removed (working remark)** (draft line 16565): *(Running head: left 614; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16594): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 615.)*
+- **removed (working remark)** (draft line 16621): *(Running head: left 616; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16661): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 617.)*
+- **removed (working remark)** (draft line 16692): *(Running head: left 618; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 108".)*
+- **removed (working remark)** (draft line 16723): *(Running head: left "A. 1 A. 7 Va. 27 [?]"; centre "Ṛgvedasaṃhitā"; right 619.)*
+- **removed (working remark)** (draft line 16757): *(Running head: left 620; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 16788): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 621.)*
+- **removed (working remark)** (draft line 16821): *(Running head: left 622; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 16846): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 623.)*
+- **removed (working remark)** (draft line 16888): *(Running head: left 624; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 16924): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 625. At the foot, the printer's signature "40 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 16949): *(Running head: left 626; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 16961): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 627.)*
+- **removed (working remark)** (draft line 16990): *(Running head: left 628; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17008): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 629.)*
+- **removed (working remark)** (draft line 17025): *(Running head: left 630; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17035): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 631.)*
+- **removed (working remark)** (draft line 17064): *(Running head: left 632; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17082): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 633.)*
+- **removed (working remark)** (draft line 17110): *(Running head: left 634; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17154): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 635.)*
+- **removed (working remark)** (draft line 17184): *(Running head: left 636; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17204): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 637.)*
+- **removed (working remark)** (draft line 17233): *(Running head: left 638; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17258): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 639.)*
+- **removed (working remark)** (draft line 17296): *(Running head: left 640; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17323): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 641. At the foot, the printer's signature "41 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 17340): *(Running head: left 642; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17368): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 643.)*
+- **removed (working remark)** (draft line 17403): *(Running head: left 644; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17432): *(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 645.)*
+- **removed (working remark)** (draft line 17449): *(Running head: left 646; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17476): *(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 647.)*
+- **removed (working remark)** (draft line 17504): *(Running head: left 648; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17530): *(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 649.)*
+- **removed (working remark)** (draft line 17547): *(Running head: left 650; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17570): *(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 651.)*
+- **removed (working remark)** (draft line 17597): *(Running head: left 652; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17634): *(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 653.)*
+- **removed (working remark)** (draft line 17651): *(Running head: left 654; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17675): *(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 655.)*
+- **removed (working remark)** (draft line 17708): *(Running head: left 656; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+- **removed (working remark)** (draft line 17729): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 657. At the foot, the printer's signature "42 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 17766): *(Running head: left 658; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 17793): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 659.)*
+- **removed (working remark)** (draft line 17815): *(Running head: left 660; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 17839): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 661.)*
+- **removed (working remark)** (draft line 17871): *(Running head: left 662; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 17894): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 663.)*
+- **removed (working remark)** (draft line 17902): *(Running head: left 664; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 17929): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 665.)*
+- **removed (working remark)** (draft line 17954): *(Running head: left 666; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 17983): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 667.)*
+- **removed (working remark)** (draft line 18004): *(Running head: left 668; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18023): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 669.)*
+- **removed (working remark)** (draft line 18040): *(Running head: left 670; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18068): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 671. At the foot, the printer's signature "43 / VOLUME 8" is not printed on this page; noted only.)*
+- **removed (working remark)** (draft line 18100): *(Running head: left 672; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18131): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 673. At the foot, the printer's signature "43 / VOLUME 8" [sic: as printed, noted only].)*
+- **removed (working remark)** (draft line 18147): *(Running head: left 674; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18164): *(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 675.)*
+- **removed (working remark)** (draft line 18188): *(Running head: left 676; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18217): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 677.)*
+- **removed (working remark)** (draft line 18260): *(Running head: left 678; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18276): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 679.)*
+- **removed (working remark)** (draft line 18305): *(Running head: left 680; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18341): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 10 [?]"; centre "Ṛgvedasaṃhitā"; right 681.)*
+- **removed (working remark)** (draft line 18382): *(Running head: left 682; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18392): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 683.)*
+- **removed (working remark)** (draft line 18421): *(Running head: left 684; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18443): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 685.)*
+- **removed (working remark)** (draft line 18472): *(Running head: left 686; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18484): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 687.)*
+- **removed (working remark)** (draft line 18509): *(Running head: left 688; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18537): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 689. At the foot, the printer's signature "44 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 18574): *(Running head: left 690; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18592): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 691.)*
+- **removed (working remark)** (draft line 18627): *(Running head: left 692; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18643): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 693.)*
+- **removed (working remark)** (draft line 18667): *(Running head: left 694; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18721): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 695.)*
+- **removed (working remark)** (draft line 18731): *(Running head: left 696; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18759): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 697.)*
+- **removed (working remark)** (draft line 18788): *(Running head: left 698; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18822): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 699.)*
+- **removed (working remark)** (draft line 18865): *(Running head: left 700; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+- **removed (working remark)** (draft line 18883): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 32 [?]"; centre "Ṛgvedasaṃhitā"; right 701.)*
+- **removed (working remark)** (draft line 18909): *(Running head: left 702; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 16 Sū. 111" — small Kannada numerals.)*
+- **removed (working remark)** (draft line 18935): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 703.)*
+- **removed (working remark)** (draft line 18960): *(Running head: left 704; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19005): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 705. At the foot, the printer's signature "45 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 19017): *(Running head: left 706; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19043): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 707.)*
+- **removed (working remark)** (draft line 19072): *(Running head: left 708; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19099): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 709.)*
+- **removed (working remark)** (draft line 19121): *(Running head: left 710; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19149): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 711.)*
+- **removed (working remark)** (draft line 19197): *(Running head: left 712; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19239): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 713.)*
+- **removed (working remark)** (draft line 19282): *(Running head: left 714; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19304): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 715.)*
+- **removed (working remark)** (draft line 19326): *(Running head: left 716; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19370): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 717.)*
+- **removed (working remark)** (draft line 19386): *(Running head: left 718; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19403): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 719.)*
+- **removed (working remark)** (draft line 19437): *(Running head: left 720; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+- **removed (working remark)** (draft line 19473): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 721. At the foot, the printer's signature "46 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 19496): *(Running head: left 722; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112" — small Kannada numerals.)*
+- **removed (working remark)** (draft line 19514): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 723.)*
+- **removed (working remark)** (draft line 19545): *(Running head: left 724; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19561): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 725.)*
+- **removed (working remark)** (draft line 19599): *(Running head: left 726; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19645): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 727.)*
+- **removed (working remark)** (draft line 19678): *(Running head: left 728; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19688): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 729.)*
+- **removed (working remark)** (draft line 19705): *(Running head: left 730; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19733): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 731.)*
+- **removed (working remark)** (draft line 19760): *(Running head: left 732; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19797): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 733.)*
+- **removed (working remark)** (draft line 19814): *(Running head: left 734; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19842): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 735.)*
+- **removed (working remark)** (draft line 19873): *(Running head: left 736; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19923): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 737. At the foot, the printer's signature "47 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 19956): *(Running head: left 738; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 19980): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 739.)*
+- **removed (working remark)** (draft line 20001): *(Running head: left 740; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20028): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 741.)*
+- **removed (working remark)** (draft line 20064): *(Running head: left 742; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20095): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 743.)*
+- **removed (working remark)** (draft line 20109): *(Running head: left 744; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20140): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 745.)*
+- **removed (working remark)** (draft line 20170): *(Running head: left 746; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20221): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 747.)*
+- **removed (working remark)** (draft line 20265): *(Running head: left 748; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20312): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 749.)*
+- **removed (working remark)** (draft line 20324): *(Running head: left 750; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20348): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 751.)*
+- **removed (working remark)** (draft line 20377): *(Running head: left 752; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20413): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 753. At the foot, the printer's signature "48 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 20458): *(Running head: left 754; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20492): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 755.)*
+- **removed (working remark)** (draft line 20521): *(Running head: left 756; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20544): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 757.)*
+- **removed (working remark)** (draft line 20576): *(Running head: left 758; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20629): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 759.)*
+- **removed (working remark)** (draft line 20674): *(Running head: left 760; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20690): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 761.)*
+- **removed (working remark)** (draft line 20723): *(Running head: left 762; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20745): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 763.)*
+- **removed (working remark)** (draft line 20777): *(Running head: left 764; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20813): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 34 [?]"; centre "Ṛgvedasaṃhitā"; right 765.)*
+- **removed (working remark)** (draft line 20825): *(Running head: left 766; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20859): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 767.)*
+- **removed (working remark)** (draft line 20893): *(Running head: left 768; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20931): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 769.)*
+- **removed (working remark)** (draft line 20950): *(Running head: left 770; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 20981): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 771.)*
+- **removed (working remark)** (draft line 21017): *(Running head: left 772; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21053): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 773.)*
+- **removed (working remark)** (draft line 21077): *(Running head: left 774; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21108): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 775.)*
+- **removed (working remark)** (draft line 21150): *(Running head: left 776; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21208): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 777.)*
+- **removed (working remark)** (draft line 21254): *(Running head: left 778; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21274): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 779.)*
+- **removed (working remark)** (draft line 21306): *(Running head: left 780; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21338): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 781.)*
+- **removed (working remark)** (draft line 21392): *(Running head: left 782; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21406): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 783.)*
+- **removed (working remark)** (draft line 21439): *(Running head: left 784; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21466): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 785. At the foot, the printer's signature "50 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 21508): *(Running head: left 786; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21544): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 787.)*
+- **removed (working remark)** (draft line 21574): *(Running head: left 788; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21611): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 789.)*
+- **removed (working remark)** (draft line 21648): *(Running head: left 790; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21662): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 791.)*
+- **removed (working remark)** (draft line 21697): *(Running head: left 792; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21727): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 35 [?]"; centre "Ṛgvedasaṃhitā"; right 793.)*
+- **removed (working remark)** (draft line 21777): *(Running head: left 794; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21800): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 795.)*
+- **removed (working remark)** (draft line 21831): *(Running head: left 796; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21853): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 797.)*
+- **removed (working remark)** (draft line 21891): *(Running head: left 798; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21920): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 799.)*
+- **removed (working remark)** (draft line 21948): *(Running head: left 800; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 21979): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 801. At the foot, the printer's signature "51 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 22000): *(Running head: left 802; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22023): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 803.)*
+- **removed (working remark)** (draft line 22051): *(Running head: left 804; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22076): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 36 [?]"; centre "Ṛgvedasaṃhitā"; right 805.)*
+- **removed (working remark)** (draft line 22097): *(Running head: left 806; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22128): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 807.)*
+- **removed (working remark)** (draft line 22161): *(Running head: left 808; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22206): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 809.)*
+- **removed (working remark)** (draft line 22243): *(Running head: left 810; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22275): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 811.)*
+- **removed (working remark)** (draft line 22306): *(Running head: left 812; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22348): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 813.)*
+- **removed (working remark)** (draft line 22370): *(Running head: left 814; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22409): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 815.)*
+- **removed (working remark)** (draft line 22450): *(Running head: left 816; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22482): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 817. At the foot, the printer's signature "52 / VOLUME 8" — noted only.)*
+- **removed (working remark)** (draft line 22510): *(Running head: left 818; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22539): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 37 [?]"; centre "Ṛgvedasaṃhitā"; right 819.)*
+- **removed (working remark)** (draft line 22557): *(Running head: left 820; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22591): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 821.)*
+- **removed (working remark)** (draft line 22623): *(Running head: left 822; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22674): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 823.)*
+- **removed (working remark)** (draft line 22728): *(Running head: left 824; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22753): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 825.)*
+- **removed (working remark)** (draft line 22788): *(Running head: left 826; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22806): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 827.)*
+- **removed (working remark)** (draft line 22831): *(Running head: left 828; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
+- **removed (working remark)** (draft line 22843): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 829.)*
+- **removed (working remark)** (draft line 22879): *(Running head: left 830; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112". This page is reproduced from a larger, clearer scan.)*
+- **removed (working remark)** (draft line 22901): *(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 38 [?]"; centre "Ṛgvedasaṃhitā"; right 831.)*
+- **removed (working remark)** (draft line 22931): *(Running head: left 832; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 112".)*
