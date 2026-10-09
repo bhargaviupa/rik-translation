@@ -18424,7 +18424,7 @@ In this Ṛk, the Ṛbhus, abiding in the dwelling-place of Agohya, the sun, mak
 > *ṛbhur na indraḥ śavasā navīyān ṛbhur vājebhir vasubhir vasur dadiḥ |*
 > *yuṣmākaṃ devā avasāhani priye 'bhi tiṣṭhema pṛtsutīr asunvatām ‖ 7 ‖*
 
-*(Saṃhitā read as printed:* …navīyān ṛbhur vājebhir…; *the Pada below has* ṛbhuḥ *twice, so the sandhi form is* navīyān ṛbhuḥ *→* navīyānṛbhur.)*
+*(Saṃhitā read as printed:* …navīyān ṛbhur vājebhir…; *the Pada below has* ṛbhuḥ *twice, so the sandhi form is the one printed.)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.7)**
 
@@ -18461,5 +18461,110 @@ In this Ṛk, the Ṛbhus, abiding in the dwelling-place of Agohya, the sun, mak
 Through strength, Indra the exceedingly praiseworthy, the one among the sons of Sudhanvan who is Ṛbhu, is our protecting lord. With foods offered by us, and with riches, Ṛbhu for us… *(the Bhāvārtha runs on to p. 689)*
 
 ---
+### Page 689 (PDF 709)
 
-**Progress note:** Printed pp. 1–688 done (PDF 21–708): Sūkta 110: Riks 110.1–110.6 complete (pp. 657–687); Rik 110.7 (printed pp. 687–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha done and the Bhāvārtha begun, ending mid-sentence at the foot of p. 688. Next: printed p. 689 (PDF 709) — the rest of the Bhāvārtha, English, Special Topics. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 689. At the foot, the printer's signature "44 / VOLUME 8" — noted only.)*
+
+*(The Bhāvārtha of Rik 110.7 concludes:)* "…Ṛbhu is for us the refuge who gives a dwelling. And may he himself be the giver of those foods and riches. O all you Ṛbhus and the others, endowed with the qualities of giving and the like! being, in company with your protection, on a day that is favourable to us, may we become the destroyers of the armies of our enemies who obstruct the sacrifice."
+
+**English Translation (as printed in the source)**
+
+"The most excellent Ribhu is in strength our defender; Ribhu, through gifts of food and of wealth is our asylum; may he bestow them upon us, Gods, through your protection; may we, upon a favourable occasion overcome the hosts of those who offer no libations."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.7)**
+
+**ऋभुर्न इन्द्रः शवसा नवीयान् — Ṛbhur na indraḥ śavasā navīyān.** "Here two constructions are possible. First: *śavasā* — *balena*, by strength; *navīyān* — *navataraḥ praśastataraḥ*, newer, more praiseworthy; *ṛbhuḥ*; *naḥ* — *asmākam*, ours; *indraḥ* — *parameśvaraḥ*, the Supreme Lord; that is, 'protector'. One meaning is: 'through strength the most excellent Ṛbhu is our protecting lord'. The second: Indra himself, by the context, 'he shines widely' (*uru bhāti*): by this Nirukta derivation he is praised as *ṛbhu*; for, being extremely shining, Indra himself is known as Ṛbhu. Since the explanation given in the Nirukta supports this meaning, Sāyaṇa has set out the second meaning too, that Indra himself is Ṛbhu." Skandasvāmi, slightly altering this, has:
+
+> अथवा इन्द्र इति ऋभोर्विशेषणम् । इन्द्रसदृशः अत्यन्तेश्वरो वा ।
+> *athavā indra iti ṛbhor viśeṣaṇam | indrasadṛśaḥ atyanteśvaro [?] vā |*
+> "Or *indra* is an epithet of *ṛbhu*: 'like Indra', or 'the exceeding lord' [?]."
+
+— that is, the word *indra* is an epithet of Ṛbhu: 'a lord who is exceedingly excellent for us and is [as it were] Indra'.
+
+> इन्द्र ऋभुभिर्वाजवद्भिः समुक्षितम् ।
+> *indra ṛbhubhir vājavadbhiḥ samukṣitam |*
+> (*Ai. Brā.* 3-4 as read [?])
+> "Indra [is] sprinkled / anointed together with the Ṛbhus, those with Vāja." *(mine and tentative)*
+
+By such sentences the very close companionship and relation of Indra and the Ṛbhus is shown; so here either meaning may suitably be given to the word *indra*, as the occasion fits.
+
+**वाजेभिर्वसुभिर्वसुर्ददिः — Vājebhir vasubhir vasur dadiḥ.** For *vājebhiḥ* Sāyaṇa has *asmabhyaṃ dātavyair annaiḥ*, 'with the foods that are to be given to us'. Skandasvāmi has:
+
+> अन्यैतरवचनेनापि वाजशब्देनात्र साहचर्याद्वाजो विभ्वा चोच्यते । व्यत्ययेन च द्विवचनस्थाने बहुवचनम् । वाजविभ्वाभ्याम् । वाजेभिः …
+> *anyaitaravacanenāpi vājaśabdenātra sāhacaryād vājo vibhvā cocyate | vyatyayena ca dvivacanasthāne bahuvacanam | vājavibhvābhyām | vājebhiḥ …*
+> *(Sanskrit as read; the first clause is clotted [?].)* "By the word *vāja* here, by association, both Vāja and Vibhvan are meant; and by *vyatyaya* the plural is in place of the dual: 'with Vāja and Vibhvan'; *vājebhiḥ*…"
+
+*Vājebhiḥ* means 'together with Vāja and Vibhvan': the plural is used in place of the dual. *… [?]* And *vasu dadiḥ*, 'a giver of wealth', that is, 'may he be the giver of riches to us': this is the purport he gives. For the word *vasu* *(the passage runs on to p. 690)*
+
+---
+
+### Page 690 (PDF 710)
+
+*(Running head: left 690; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(…continuing:)* "…for the word *vasu* Sāyaṇa gives the sense *asmākaṃ nivāsayitā* — 'one who provides a dwelling-place for us'. *Ata eva teṣām annānāṃ dhanānāṃ ca dātā bhavatu* — 'for this very reason may he be the giver of those foods and riches': that is the purport he has explained: therefore may he be a giver to us of foods and riches."
+
+**असुन्वताम् — Asunvatām.** *somābhiṣavam akurvatām* — "of those who do not carry out the pressing of Soma": that is, of the enemies who do not carry out sacrifices and the like, and who hate the sacrificers.
+
+**अभितिष्ठेम — Abhitiṣṭhema.** *abhitiṣṭhatir atra jayārthaḥ* — "here *abhitiṣṭhati* has the sense of conquering": *abhitiṣṭhema* means 'may we conquer'.
+
+**पृत्सुतीः — Pṛtsutīḥ.** "The word *pṛtsu* is read among the names of battle (*Ni.* 2-17 [?] as read)": *pṛtsu tāyante vistīryante iti pṛtsutayaḥ senāḥ* — 'armies spread out in battles; hence the armies are called *pṛtsutīḥ*'. *Pṛtsutīḥ* means armies: we pray that we may conquer the enemy armies.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.7)** *(grammar pages, pp. 690–691, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Navīyān*: 'by the superlative degree new' = *navīyān*; where *atiśāyane tamabiṣṭhanau* is active, by *dvivacanavibhajyopapade tarabīyasunau* (*pā.* 5-3-57 as read [?]) the suffix *īyasun* in the sense of excess; loss of the prātipadika's *a*; the stem *navīyas*; a rule on lengthening the penultimate (*upadhādīrgha*, sūtra-name partly clotted [?]); the augment *num* because of the marker *u-k* [?]; loss of *su*; loss of the final *s*. *Vājebhiḥ*: *bhis* does not become *ais*, by *bahulaṃ chandasi* (*pā.* 7-1-10 as read [?]); by *bahuvacane jhaly et* (*pā.* 7-3-103 as read [?]) the *e*. *Vasuḥ*: root *vasa nivāse*; the causative sense being included in the root, a suffix *u* by [an Uṇādi rule beginning *…svasnihi…*, *Uṇ.* 1-10 as read [?]]; by the continuing *nit* of the preceding rule, *ñnityādir nityam* (*pā.* 6-1-197 as read [?]), the first syllable is *udātta*. *Dadiḥ*: root *ḍudāñ dāne*; the suffix *ki(n)* by *ādgamahana…* (*pā.* 3-2-171 as read [?]); by *liṭ* [as the analogue], reduplication because of *liḍvadbhāva*; shortening by *hrasvaḥ*; loss of the root's *ā* by *āto lopa iṭi ca* (*pā.* 6-4-64); the suffix-accent, so the word ends in *udātta*. *Tiṣṭhema*: root *ṣṭhā gatinivṛttau*; *liṅ*, first person plural *mas*; the *s*-loss by *nityaṃ ṅitaḥ* (*pā.* 3-4-99 as read [?]); the augment *yāsuṭ*; by *pā-ghrā-dhmā…* (*pā.* 7-3-78 as read [?]) the substitute *tiṣṭha* [for *ṣṭhā*] before *śap*; *iyādeśa* for the *yāsuṭ*, loss of *ya*, *guṇa*; the *nighāta* accent after a finite verb. *Asunvatām*: root *ṣuñ abhiṣave*; the suffix *śatṛ* in the sense of *laṭ*; the sign *śnu*; 'those who do not press' = *asunvantaḥ*, of them; the *nañ*-compound; *tatpuruṣe tulyārtha…* (*pā.* 6-2-2 as read [?]) gives the prior member its own accent; sixth plural.
+
+---
+
+### Page 691 (PDF 711)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 691.)*
+
+*(Grammar, concluded: the last words of the page's first paragraph, as above, close with* ‖ 7 ‖. *An ornamental rule —  :o: — closes Ṛk 110.7.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.8)** *(accent-marks not reproduced)*
+
+> निश्चर्मण ऋभवो गामपिंशत सं वत्सेनासृजता मातरं पुनः ।
+> सौधन्वनासः स्वपस्यया नरो जिव्री युवाना पितराकृणोतन ॥ ८ ॥
+> *niścarmaṇa ṛbhavo gām apiṃśata saṃ vatsenāsṛjatā mātaraṃ punaḥ |*
+> *saudhanvanāsaḥ svapasyayā naro jivrī yuvānā pitarākṛṇotana ‖ 8 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.8)**
+
+> निः । चर्मणः । ऋभवः । गाम् । अपिंशत । सम् । वत्सेन । असृजत । मातरम् । पुनरिति ।
+> सौधन्वनासः । सुऽअपस्यया । नरः । जिव्री इति । युवाना । पितरा । अकृणोतन ॥ ८ ॥
+> *niḥ | carmaṇaḥ | ṛbhavaḥ | gām | apiṃśata | sam | vatsena | asṛjata | mātaram | punar iti |*
+> *saudhanvanāsaḥ | su-apasyayā | naraḥ | jivrī iti | yuvānā | pitarā | akṛṇotana ‖ 8 ‖*
+
+*(The Saṃhitā's* asṛjatā *and the Pada's* asṛjata *differ as printed; recorded as read.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.8)**
+
+> पुरा कस्यचिदृषेर्धेनुर्मृता । स ऋषिस्तस्या धेनोर्वत्सं दृष्ट्वा ऋभून् तुष्टाव । ऋभवस्तत्सदृशीमन्यां धेनुं कृत्वा तदीयेन चर्मणा संवीय तेन वत्सेन समयोजयन्निति । अयमर्थः पूर्वार्धे प्रतिपाद्यते । हे ऋभवो यूयं चर्मणः चर्मणा तृतीयार्थे षष्ठी । गां धेनुं निरपिंशत निःशेषेणाश्लिष्टां संयुक्तामकुरुत । तदनन्तरं मातरं तां गां पुनर्वत्सेन समसृजत । संस्पृष्टामकुरुत । समगमयतेति यावत् । अपि च हे सौधन्वनासः सुधन्वन आङ्गिरसस्य पुत्रा नरो यज्ञस्य नेतार ऋभवः स्वपस्यया शोभनकर्मेच्छया । योगदानाद्याचरणेनेति यावत् । जिव्री जीर्णौ वृद्धौ पितरा मातापितरौ युवाना पुनर्यौवनोपेतावकृणोतन । यूयमकृणुथ ॥
+> *purā kasyacid ṛṣer dhenur mṛtā | sa ṛṣis tasyā dhenor vatsaṃ dṛṣṭvā ṛbhūn tuṣṭāva | ṛbhavas tatsadṛśīm anyāṃ dhenuṃ kṛtvā tadīyena carmaṇā saṃvīya tena vatsena samayojayann iti | ayam arthaḥ pūrvārdhe pratipādyate | he ṛbhavo yūyaṃ carmaṇaḥ carmaṇā tṛtīyārthe ṣaṣṭhī gāṃ dhenuṃ nir apiṃśata niḥśeṣeṇāśliṣṭāṃ saṃyuktām akuruta | tadanantaraṃ mātaraṃ tāṃ gāṃ punar vatsena samasṛjata | saṃspṛṣṭām akuruta | samagamayeta yāvat | api ca he saudhanvanāsaḥ sudhanvana āṅgirasasya putrā naro yajñasya netāra ṛbhavaḥ svapasyayā śobhanakarmecchayā | yogadānādyācaraṇeneti yāvat | jivrī jīrṇau vṛddhau pitarā mātāpitarau yuvānā punar yauvanopetāv akṛṇotana | yūyam akṛṇuta ‖*
+
+*(Sanskrit as read; the clause beginning* samagamayeta *is as printed and may be a misprint of* samagamayateti [?].)*
+
+"Long ago the cow of a certain ṛṣi died. That ṛṣi, seeing the calf of that cow, praised the Ṛbhus. The Ṛbhus made another cow like it, covered it with the skin of [the dead cow], and joined it to that calf. This sense is set out in the first half. O Ṛbhus, you — *carmaṇaḥ*, [the sixth case in the sense of the instrumental] *carmaṇā*, with the skin — *gām*, a cow, *nir apiṃśata*: fully formed [or 'fitted'] it, made it entirely joined. After that, *mātaram*, that mother cow, you *saṃ asṛjata* [united] again with the calf: made it touch, made it join. And further, O sons of Sudhanvan — *saudhanvanāsaḥ*, of Sudhanvan Āṅgirasa — leaders of the sacrifice, Ṛbhus, *svapasyayā*, through the desire for good works; that is, through the practice of *yoga* [?], giving and the like; *jivrī*, aged, grown old, *pitarā*, mother and father, *yuvānā*, endowed again with youth, you *akṛṇotana*, made [them]; you made."
+
+*Grammatical tail (p. 692; characterized, in compressed and partly clotted Sanskrit, partly read):* *apiṃśata*: root *piśa avayave*, of the *tudādi* class; *num* by *śe mucādīnām*; *saudhanvanāsaḥ*: 'sons of Sudhanvan' are *saudhanvanāḥ*, by *aṇ*; *prakṛtibhāva* by *pā.* 6-4-168 [?]; *asuk* by *ājjaser asuk*; the *udātta* of the first syllable by *āmantritasya ca* [?]. *Svapasyayā*: *śobhanam apaḥ svapaḥ*, the wish for that is *svapasyā*; *supa ātmanaḥ kyac*, and the suffix *a* [?] in the sense of state. *Jivrī*: root *jyā vayohānau*; a suffix *kvin* by [an Uṇādi rule *jyāśyāstyā…* [?] as read, *Uṇ.* 4-[?]]; *rephavakārayoḥ sthānaviparyayaḥ* [interchange of place of *r* and *v*]; by *bahulavacana* there is no lengthening [?]; the first syllable *udātta*. *Yuvānā*: the case-ending becomes *ā* by *supāṃ suluk*. *Pitarā*: *pitā ca mātā ca pitarau*; by *pitā mātrā* (*pā.* 1-2-70 as read [?]) *pitṛ* alone remains; the case-ending *ā* as before. *Akṛṇotana*: root *kṛvi hiṃsākaraṇayoḥ*; *idit*, hence the augment *num*; the suffix *a(p)* by *dhinvikṛṇvyor a ca* (*pā.* 3-1-80 as read [?]) and in connection with it the *va* becomes *ā*; since *a* is dropped, the *guṇa* of the light penultimate does not arise, by *sthānivadbhāva*; in the second-person plural of *laṅ*, *tana* for *tha* by *taptanaptanathanāś ca* (*pā.* 7-1-45 as read [?]); since it is *pit*, it is not *ṅit*, so *guṇa*.
+
+---
+
+### Page 692 (PDF 712)
+
+*(Running head: left 692; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+*(The bhāṣya and its grammatical tail as given above, in the printed order, run across the first half of this page: the bhāṣya's last lines at the head, then the dense tail, ending with* …*tasya pittvena ṅittvābhāvād guṇaḥ ‖.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.8; Kannada; English)**
+
+*Ṛbhavaḥ* — O Ṛbhus; *carmaṇaḥ* — with the skin (of the dead cow); *gām* — another cow (creating); *niḥ apiṃśata* — you fully formed it (afterwards); *mātaram* — (its) the one with its mother's skin; *tām* — that cow; *punaḥ* — again; *vatsena* — with the calf; *saṃ asṛjata* — you joined together (so that the feeling comes to it, 'it is its mother'); *saudhanvanāsaḥ* — O Ṛbhus, sons of Sudhanvan; *naraḥ* — leaders (of the sacrifice); *svapasyayā* — with excellent works such as *yoga* and giving; *jivrī* — the aged; *pitarā* — parents; *yuvānā* — endowed with youth again; *akṛṇotana* — you made.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Ṛbhus! After the cow of your devotee, the ṛṣi, had died, you created another cow and fitted it with the skin of the dead cow; and you joined it with the calf in such a way that the feeling comes to the calf that it is its mother. O sons of Sudhanvan, leaders of the sacrifice, O Ṛbhus! by your practice of excellent works such as *yāga* and *dāna* you made the aged mother and father again endowed with youth.
+
+---
+
+**Progress note:** Printed pp. 1–692 done (PDF 21–712): Sūkta 110: Riks 110.1–110.7 complete (pp. 657–691); Rik 110.8 (printed pp. 691–[?]): Saṃhitā, Pada, bhāṣya with grammatical tail, Pratipadārtha and Bhāvārtha done (p. 692). Next: printed p. 693 (PDF 713) — the printed English and Special Topics of Rik 110.8, then Rik 110.9. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
