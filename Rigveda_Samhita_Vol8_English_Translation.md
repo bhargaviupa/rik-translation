@@ -14558,5 +14558,120 @@ May the ancestors, Agniṣvātta and the rest, who can be praised with ease, pro
 > *ye ceha pitaro ye ca neha yāṃś ca vidma yāṃ u ca na pravidma | tvaṃ vettha yadi te jātavedaḥ svadhābhir yajñaṃ sukṛtaṃ juṣasva ‖* (*Ṛ. Saṃ.* 10-15-13 as read)" *(the passage continues on p. 542)*
 
 ---
+### Page 542 (PDF 562)
 
-**Progress note:** Printed pp. 1–541 done (PDF 21–561): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.2 complete (pp. 530–538); Rik 106.3 (printed pp. 539–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (the topic *pitaraḥ*, three groups of ancestors; ends at the foot of p. 541 after Ṛ. 10-15-13). Next: printed p. 542 (PDF 562). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 542; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+"— in this, since [the sage] prays to Agni that he should satisfy all of them with the offerings of the *svadhā*, this division of the groups of ancestors into three parts is stated also in the Śatapatha Brāhmaṇa:
+
+> महाहविषा ह वै देवा वृत्रं जघ्नुः । तेनोऽसिव [?] व्यजयन्त यदेषां विजितिस्तामथ यानेवैषां तस्मिन्संग्रामेऽघ्नन्स्त्रैत्रियज्ञेन सम्नैरयन्त पितरो वै ते आसंस्तस्मात्पितृयज्ञो नाम ।
+> *mahāhaviṣā ha vai devā vṛtraṃ jaghnuḥ | tenoseva [?] vyajayanta yad eṣāṃ vijitis tām atha yān evaiṣāṃ tasmin saṃgrāme 'ghnan straitriyajñena samnairayanta pitaro vai te āsaṃs tasmāt pitṛyajño nāma |* (*Śa. Brā.* 2-6-1-[?] as read [?]; the passage is crowded and several words are given with doubt, not completed from memory [?])
+
+— the gods offered the *mahāhavis* and, by its help, killed Vṛtra; then, by performing the *pitṛyajña*, they revived those who had died; because those [revived] were ancestors (*pitaraḥ*), it got the name *pitṛyajña*. (The difference between the common monthly *pitṛyajña* and the *mahāpitṛyajña* is explained in *Śa. Brā.* 2-4-2[?].) Among these ancestors —
+
+> तद्ये सोमेनेजानाः । ते पितरः सोमवन्तोऽथ ये दत्रेन लोकं जयन्ति ते पितरो बर्हिषदोऽथ ये तेभ्यो नान्यतरंचन यानग्निरेव दहन्स्वदयेति ते पितरोऽग्निष्वात्ता एत उ ते ये पितरः ।
+> *tad ye somenejānāḥ | te pitaraḥ somavanto 'tha ye dattrena lokaṃ jayanti te pitaro barhiṣado 'tha ye tebhyo nānyataraṃcana yān agnir eva dahan svadayeti te pitaro 'gniṣvāttā eta u te ye pitaraḥ |* (*Śa. Brā.* 2-6-1-2 as read [?]; the words are as read from the print and given with doubt, not completed from memory [?])
+
+— those who have sacrificed having pressed Soma are called *somavantaḥ*; those who have performed the sacrifice with the *barhis* (sacred grass) are called *barhiṣadaḥ*; and those who are neither, but whom Agni alone has burnt and made [fit] are called *agniṣvāttāḥ*. These are the *pitṛs*."
+
+**Suprāvacanāḥ** — "*śobhanaṃ pravacanaṃ yeṣāṃ te suprāvacanāḥ | sustutaye ity arthaḥ |* — 'those whose praise (*pravacana*) is excellent; the meaning is that they are worthy of excellent praise: those who are fit for an exceedingly excellent hymn.'"
+
+**Devaputre devī** — "*devāḥ sarve putrasthānīyā yayos te devaputre | sakaladevatāgaḷannū putrarāgi paḍedirutakka dyāvāpṛthivigaḷu* — 'Heaven and Earth, of whom all the gods are in the position of sons: those who have brought forth all the gods as sons'. The name *pitarau* ('the two parents') is well known for Heaven and Earth:
+
+> सुरेतसा पितरा भूम चक्रतुरुरु प्रजाया अमृतं वरीमभिः ।
+> *suretasā pitarā bhūma cakratur uru prajāyā amṛtaṃ varīmabhiḥ |* (*Ṛ. Saṃ.* 1-159-2 as read)
+
+— in Ṛks such as these, [Heaven and Earth] are called *pitarau* ('mother and father') together; and
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
+> *tan no vāto mayobhu vātu bheṣajaṃ tan mātā pṛthivī tat pitā dyauḥ |* (*Ṛ. Saṃ.* 1-89-4 as read)
+
+— in Ṛks such as these, the Earth is called the mother, and the heavenly world the father."
+
+---
+
+### Page 543 (PDF 563)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 543.)*
+
+> प्र द्यावा यज्ञैः पृथिवी ऋतावृधा मही स्तुषे विदथेषु प्रचेतसा ।
+> देवेभिर्ये देवपुत्रे सुदंससेत्था धिया वार्याणि प्रभूषतः ॥
+> *pra dyāvā yajñaiḥ pṛthivī ṛtāvṛdhā mahī stuṣe vidatheṣu pracetasā | devebhir ye devaputre sudaṃsaseth ā dhiyā vāryāṇi prabhūṣataḥ ‖* (*Ṛ. Saṃ.* 1-159-1 as read; the last words as read, doubtful [?])
+
+"In Ṛks such as these, Heaven and Earth are described as the ones who have given birth to the gods as sons; and since the identity of Earth with Aditi is stated in many places, and since the gods are the sons of Aditi, it is established by usage that Earth is the mother of the gods. (This matter has been explained in the introductory section.)
+
+In the Aitareya Brāhmaṇa there is a small story concerning the marriage of Heaven and Earth. It runs thus:
+
+> इमौ वै लोकौ सहास्तां तौ व्यैतां नावर्षन्न समतपत्ते पञ्चजना न समजानत तौ देवाः समनयन्स्तौ संयन्तावेतं देवविवाहं व्यवहेतां ।
+> *imau vai lokau sahāstāṃ tau vyaitāṃ nāvarṣan na samatapat te pañcajanā na samajānata tau devāḥ samanayaṃs tau saṃyantāv etaṃ devavivāhaṃ vyavahetāṃ |* (*Ai. Brā.* 4-2[?] as read [?]; the passage is as read from the print, and the last words are doubtful [?])
+
+— Heaven and Earth were originally together, and then once they separated. Immediately, on that world, rain ceased to fall, and the sun's light too ceased. Then, among the *pañcajanāḥ* there was no peace. (The explanation of the word *pañcajana* is given in this part, in the Special Topics of the [?]th Ṛk of the 100th Sūkta.) Then the gods made Heaven and Earth agree. Then, for the two of them, a wedding took place in the manner [followed] by the gods. The story explains the relation of Heaven and Earth, which is described in many places in the Ṛk-saṃhitā. Likewise —
+
+> ये इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> *ye ime dyāvāpṛthivī janitrī rūpair apiṃśad bhuvanāni viśvā |* (*Ṛ. Saṃ.* 10-110-9 as read)
+
+— in Ṛks such as these, the epithet *janitrī* ('begetters') is common. The epithet *devaputre* is, in many places, used in a general way, in connection with Heaven and Earth, together with
+
+> देवी देवस्य रोदसी जनित्री बृहस्पतिं वावृधतुर्महित्वा ।
+> *devī devasya rodasī janitrī bṛhaspatiṃ vāvṛdhatur mahitvā |* (*Ṛ. Saṃ.* 2-[?]-[?] as read [?])
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान ।
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpas tvaṣṭā yaṃ tvā sujanimā jajāna |* (*Ṛ. Saṃ.* 10-[?]-2 as read [?])
+
+— in Ṛks such as these, it is said that Heaven and Earth have begotten and nourished such deities as Bṛhaspati and Agni. For these reasons the epithet *devaputre* applies."
+
+---
+
+### Page 544 (PDF 564)
+
+*(Running head: left 544; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+**Ṛtāvṛdhā** — *ṛtasya yajñasya satyasya vā vardhayitryau |* "since the word *ṛta* has the meanings 'sacrifice' and 'truth', and since the sacrifice is performed, and truth established, by the help of Heaven and Earth, and since they are inseparable [from these], the epithets *ṛtāvṛdhā* and *ṛtāvarī* are used in many other places in the same way."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 106.3)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Avantu* (root *ava rakṣaṇe*; *loṭ*, third person plural *jhi*; *tu* is substituted for the ending by *tuhyos tātaṅ āśiṣy anyatarasyām*, Pā. Sū. 7-1-35 [?], i.e. *ant* ending, *uḥ* by *eruḥ*, Pā. Sū. 3-4-86 as read [?]; since it begins a pāda, there is no *nighāta*; because the suffix is *pit* [*śap*], the root accent remains, giving the initial acute). *Devī* (the dual of the feminine; before the nominative dual, *vā chandasi* [the earlier similar vowel lengthening], Pā. Sū. 6-1-106 as read [?]). *Devaputre* (*devāḥ putrāḥ yayos te devaputre*; the accent of the prior member by *bahuvrīhau prakṛtyā pūrvapadam*, Pā. Sū. 6-2-1 as read [?]). *Ṛtāvṛdhā* (root *vṛdhu vṛddhau*; because the instigator's action is shown, a causal sense is included; *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; *ṛtasya vardhayitryau ṛtāvṛdhau*; the ending *ā* by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]; the lengthening of the earlier member by *ānyeṣām api dṛśyate*, Pā. Sū. 6-3-137 as read [?]; the accent of the *kṛdanta* latter member by *gatikārakopapadāt kṛt*, Pā. Sū. 6-2-139 as read [?]). The Rik is closed with *‖ 3 ‖* and an ornament.
+
+## Rik 106.4 — printed pp. 544–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.4)**
+
+> नराशंसं वाजिनं वाजयन्निह क्षयद्वीरं पूषणं सुम्नैरीमहे ।
+> *(the second line is on p. 545)*
+
+*narāśaṃsaṃ vājinaṃ vājayann iha kṣayadvīraṃ pūṣaṇaṃ sumnair īmahe |*
+
+---
+
+### Page 545 (PDF 565)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 545. At the foot, the printer's signature "35 / VOLUME" [sic: as printed, noted only].)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.4), completed**
+
+> नराशंसं वाजिनं वाजयन्निह क्षयद्वीरं पूषणं सुम्नैरीमहे ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ ४ ॥
+
+*narāśaṃsaṃ vājinaṃ vājayann iha kṣayadvīraṃ pūṣaṇaṃ sumnair īmahe | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.4)**
+
+> नराशंसम् । वाजिनम् । वाजयन् । इह । क्षयत्ऽवीरम् । पूषणम् । सुम्नैः । ईमहे ।
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ ४ ॥
+
+*narāśaṃsam | vājinam | vājayan | iha | kṣayat-vīram | pūṣaṇam | sumnaiḥ | īmahe | ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.4)**
+
+> नराशंसं नरैः शंसनीयं वाजिनमन्नवन्तमग्निं वाजयन् उपवाजयन् प्रज्वलयन् । इह अस्मिन्कर्मणि स्तौमीति शेषः । तथा क्षयद्वीरमतिबलिनम् । यस्मिन्सर्वे वीराः क्षियन्ते निवसन्ति । एवंरूपं पूषणं पोषकं देवं सुम्नैः सुखकरैः स्तोत्रैर्हेतुभूतैरीमहे । याचामहे । अभीष्टं प्रार्थयामहे ॥ नराशंसम् । उभे वनस्पत्यादिष्विति युगपदुभयपदप्रकृतिस्वरत्वम् । नरशब्द ऊडोरबित्यबन्तो [?] आद्युदात्तः । निपातनाद्दीर्घः । शंसशब्दो घञन्त आद्युदात्तः । वाजयन् । वज व्रज गतौ । अस्माण्णिच् । क्षयद्वीरम् । क्षि क्षये । लटः शतृ । शपि प्राप्ते व्यत्ययेन शः । तस्य छन्दस्युभयथेत्यार्धधातुकत्वेन ङित्वाभावाद्गुणायादेः । आमुपदेशाल्लसार्वधातुकानुदात्तत्वे विकरणस्वरः । अतो गुण इति परपूर्वत्वे एकादेश उदात्तेनोदात्त इत्येकादेश उदात्तः । क्षयन्तो वीरा यस्मिन् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+> *narāśaṃsaṃ naraiḥ śaṃsanīyaṃ vājinam annavantam agniṃ vājayan upavājayan prajvalayan | iha asmin karmaṇi staumīti śeṣaḥ | tathā kṣayadvīram atibalinam | yasmin sarve vīrāḥ kṣiyante nivasanti | evaṃrūpaṃ pūṣaṇaṃ poṣakaṃ devaṃ sumnaiḥ sukhakaraiḥ stotrair hetubhūtair īmahe | yācāmahe | abhīṣṭaṃ prārthayāmahe ‖ narāśaṃsam | ubhe vanaspatyādiṣv iti yugapad ubhayapadaprakṛtisvaratvam | naraśabda ūḍor abity abanto [?] ādyudāttaḥ | nipātanād dīrghaḥ | śaṃsaśabdo ghañanta ādyudāttaḥ | vājayan | vaja vraja gatau | asmāṇ ṇic | kṣayadvīram | kṣi kṣaye | laṭaḥ śatṛ | śapi prāpte vyatyayena śaḥ | tasya chandasy ubhayathety ārdhadhātukatvena ṅitvābhāvād guṇāyādeḥ | āmupadeśāl lasārvadhātukānudāttatve vikaraṇasvaraḥ | ato guṇa iti parapūrvatve ekādeśa udāttenodātta ity ekādeśa udāttaḥ | kṣayanto vīrā yasmin | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖* *(Sanskrit as read; a few words in the tail are clotted and given with doubt [?]; the tail is short and given.)*
+
+"*Narāśaṃsam*: him who is to be praised by men; *vājinam*: Agni who has food; *vājayan*: causing to blaze, kindling. Here, in this rite, [I] praise: that is the sense to be supplied. Likewise *kṣayadvīram*: exceedingly strong — he in whom all the heroes dwell (*kṣiyante*). Such is Pūṣan, the nourisher, the god, whom we ask (*īmahe*), we beg, we pray for what we desire, by hymns, which are the cause of happiness (*sumnaiḥ*)."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.4; Kannada; English)**
+
+*Narāśaṃsam* — he who is praised by men; *vājinam* — the strong, Agni; *vājayan* — causing to blaze; *iha* — at this sacrifice (I praise); *kṣayadvīram* — the one who makes all the heroes dwell happily [?]; *pūṣaṇam* — the god Pūṣan, who nourishes; *sumnaiḥ* — with hymns that give happiness; *īmahe* — we pray; *durgāt* — from the impassable road; *ratham na* — as a charioteer [brings] the chariot safely through; *vasavaḥ* — those who protect the dwelling; *sudānavaḥ* — exceedingly liberal Indra and the others; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] release and protect.
+
+---
+
+**Progress note:** Printed pp. 1–545 done (PDF 21–565): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Riks 106.1–106.3 complete (pp. 530–544); Rik 106.4 (printed pp. 544–[?]): Saṃhitā, Pada, bhāṣya (with tail) and Pratipadārtha done (pp. 544–545). Next: printed p. 546 (PDF 566): the Bhāvārtha, printed English, Special Topics and grammar of 106.4, then Riks 106.5–7. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
