@@ -18681,5 +18681,128 @@ In this Ṛk Sāyaṇa shows in the bhāṣya that two meanings are possible, 'a
 *(As printed, the Saṃhitā has* māmahantām *and the Pada* mamahantām; *recorded as read.)*
 
 ---
+### Page 697 (PDF 717)
 
-**Progress note:** Printed pp. 1–696 done (PDF 21–716): Sūkta 110: Riks 110.1–110.8 complete (pp. 657–696); Rik 110.9 (the last Ṛk of Sūkta 110; printed pp. 696–[?]): Saṃhitā and Pada done (p. 696). Next: printed p. 697 (PDF 717) — the bhāṣya of Rik 110.9. Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 697.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.9)**
+
+> हे इन्द्र ऋभुमान् । ऋभुर्विभ्वा वाज इति त्रयोऽस्यैभुशब्देनोपचारादुच्यन्ते । तैर्युक्तस्त्वं वाजसातौ वाजस्यान्नस्य सम्भजने निमित्तभूते सति वाजेभिरन्नैरविड्ढि । अस्मान्स्पृणुहि [?] । यद्वा । वाजसातिरिति सङ्ग्रामनाम । वाजसातौ सङ्ग्रामे वाजेभिर्वाजनयुक्तैरश्वैरविड्ढि । अस्मान् रक्ष । अपि च चित्रं चायनीयं राधो धनमा दर्षि । अस्मभ्यं दातुमाद्रियस्व । तृतीयसवने ऋभुभिः सहेन्द्रस्यावस्थानात् प्रसङ्गादत्रेन्द्रस्तुतिः । यदेतदस्माभिः प्रार्थितमस्मदीयं केनस्मित्रादेयो [?] मममहुतां [?] पूजयन्तां ॥
+> *he indra ṛbhumān | ṛbhur vibhvā vāja iti trayo 'syaibhuśabdenopacārād ucyante [?] | tair yuktas tvaṃ vājasātau vājasyānnasya sambhajane nimittabhūte sati vājebhir annair aviḍḍhi | asmān spṛṇuhi [?] | yadvā | vājasātir iti saṅgrāmanāma | vājasātau saṅgrāme vājebhir vājanayuktair aśvair aviḍḍhi | asmān rakṣa | api ca citraṃ cāyanīyaṃ rādho dhanam ā darṣi | asmabhyaṃ dātum ādriyasva | tṛtīyasavane ṛbhubhiḥ sahendrasyāvasthānāt prasaṅgād atrendrastutiḥ | yad etad asmābhiḥ prārthitam asmadīyaṃ kenasmitrādeyo [?] mamahutāṃ [?] pūjayantāṃ ‖*
+
+*(Sanskrit as read from the print. The words marked [?] — the first sentence's* ṛbhuśabdenopacārād *and* spṛṇuhi*, and the last clause — are clotted in the print and are not completed from memory. The sense of the last clause, from the Pratipadārtha: "this prayer of ours — may Mitra, Varuṇa and the others honour [= guard] it".)*
+
+"O Indra, accompanied by the Ṛbhus! Ṛbhu, Vibhvan and Vāja — these three are called by the word *ṛbhu* by transference. You, joined with them, in *vājasātau*, when there is occasion for the sharing out of *vāja*, food, *aviḍḍhi*: [associate us] with *vājebhiḥ*, with foods; [fill us]. Or else: *vājasāti* is a name for 'battle': in battle, with *vājebhiḥ*, with swift [?] horses, *aviḍḍhi*, protect us. And, *citram*, wondrous, worthy of honour *rādhaḥ*, wealth, *ā darṣi*: be gracious to give [it] to us. Since Indra stays with the Ṛbhus at the third pressing, here, incidentally, there is praise of Indra. What we have here asked, this [prayer] of ours — may [Mitra and the others] honour it."
+
+*Grammatical tail (characterized, short):* the words treated are *vājasātau*, *aviḍḍhi*, *ṛbhumān* and *darṣi* (root *dṛj ādare*, with the parasmaipada by *vyatyaya* in *loṭ*, and *luk* of the conjugation sign by *bahulaṃ chandasi*), fully worked out on p. 700 in the Vyākaraṇa-prakriyā.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 110.9; Kannada; English)**
+
+*Indra* — O Indra; *ṛbhumān* — (together with your younger brothers) joined with the Ṛbhus; *vājasātau* — when there is occasion for the sharing of food; *vājebhiḥ* — with foods; *aviḍḍhi* — (join us also; also give to us); or, *vājasātau* — in battle; *vājebhiḥ* — with horses; *aviḍḍhi* — protect (us); *citram* — mind-pleasing or wondrous; *rādhaḥ* — wealth; *ā darṣi* — (to give to us) be graciously minded; *naḥ* — our; *tat* — this prayer; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the presiding deity of the ocean; *pṛthivī* — Pṛthivī; *uta* — and; *dyauḥ* — the presiding deity of the world of heaven; *mamahantām* — let [them] guard (it).
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra! joined with the Ṛbhus, your younger brothers, when occasion arises to share out food, supply us too with food. And be graciously minded to give mind-pleasing wealth. May Mitra, Varuṇa, Aditi, the presiding deity of the ocean, Pṛthivī and the presiding deity of the world of heaven guard this prayer of ours.
+
+**English Translation (as printed in the source)**
+
+"Indra, associated with the Ribhus, supply us, in the distribution of viands with food, and consent to bestow upon us wonderful riches; and may Mitra, Varuna, Aditi—ocean, earth, and heaven, preserve them for us."
+
+---
+
+### Page 698 (PDF 718)
+
+*(Running head: left 698; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 110.9)**
+
+Here Sāyaṇa's construction differs from the construction made by Skandasvāmi. Sāyaṇa explains: "*ṛbhumān indraḥ*: Indra, joined with the three — Ṛbhu, Vibhvan and Vāja, his brothers; *vājebhiḥ*, with foods or with horses; *aviḍḍhi*: protect us." Skandasvāmi makes one sentence, "*vājebhiḥ indra aviḍḍhi*", and another, "*ṛbhumān indra ā darṣi*", and construes both the words *vājebhiḥ* and *ṛbhumān* with Indra: *vājebhiḥ* means 'together with Vāja and the other brothers', and *ṛbhumān* 'together with Ṛbhu and the other brothers' — 'Indra, so joined'. For the word *vājasātau* Sāyaṇa gives one meaning, 'at the time of the division of food', and another, 'battle'; Skandasvāmi gives one meaning only, 'battle'. On Sāyaṇa's first meaning: when [food] is being divided, *vājebhiḥ*, with foods, *aviḍḍhi*, 'join us too', that is, 'let it be given to us too'; on the second: *vājasātau*, in battle, *vājebhiḥ*, with horses, *aviḍḍhi*, 'protect us'. Since the word *vājasātau* admits both meanings, Sāyaṇa's two meanings are both sustained. The Nirukta-writer reads the word *vājasāti* among the names of battle (*Ni.* 2-[?]), and at the end [of the passage] quotes:
+
+> देवानां पत्नीरुशतीरवन्तु नः प्रावन्तु नस्तुजये वाजसातये ।
+> *devānāṃ patnīr uśatīr avantu naḥ prāvantu nas tujaye vājasātaye |*
+> (*Ṛ.* 5-46-[?] as read [?])
+> "May the eager wives of the gods help us; may they help us for the winning of *vāja*." *(mine and tentative)*
+
+In this Ṛk the Nirukta-writer gives, for *vājasātaye*, the meaning '*anna-saṃśasanāya*, for the obtaining of food' (*Ni.* 10-[?] as read [?]). And likewise:
+
+> पुत्रासो न पितरं वाजसातये मंहिष्ठं वाजसातये ।
+> *putrāso na pitaraṃ vājasātaye maṃhiṣṭhaṃ vājasātaye |*
+> (*Ṛ.* 1-[?]-[?] as read [?])
+
+> अनु नु स्थात्र्यव्यकाभिरूतिभी रथं महे सनये वाजसातये ।
+> *anu nu sthātṛ… [?] abhir ūtibhī rathaṃ mahe sanaye vājasātaye |*
+> (*Ṛ.* 3-[?]-[?] as read [?])
+> *(Sanskrit as read; the first line of the second is clotted [?]; no gloss attempted.)*
+
+In all such Ṛks the sense is 'for the obtaining of food', or 'for the sake of a share in food'. In that case the verb *aviḍḍhi* is derived from the root *viṣḷ* 'to pervade'. Or, if for *vājasātau* one takes the meaning 'in battle', then the verb *aviḍḍhi* is derived from the root *av*, which gives 'protect'. It may be said that the word *vājasāti* is more often used in the sense of 'battle':
+
+> उग्रं पूर्वीषु पूर्व्यं हवन्ते वाजसातये ।
+> *ugraṃ pūrvīṣu pūrvyaṃ havante vājasātaye |*
+> (*Ṛ.* 8-[?]-[?] as read [?])
+
+*(the passage continues on p. 699)*
+
+---
+
+### Page 699 (PDF 719)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 11 [?]"; centre "Ṛgvedasaṃhitā"; right 699.)*
+
+*(Continuing:)* "…and in such Ṛks the sense is 'battle'.
+
+> उरु णो वाजसातये कृतं राये स्वस्तये ।
+> *uru ṇo vājasātaye kṛtaṃ rāye svastaye |*
+> (*Ṛ.* 5-[?]-[?] as read [?])
+
+In such Ṛks the sense 'sacrifice' too can be given. Therefore both of Sāyaṇa's meanings are admissible."
+
+*On Indra addressed as* ṛbhumān. Since Indra is addressed here as *ṛbhumān* in a Ṛbhu-hymn, an objection is raised as to why Indra should be addressed in the Ārbhava hymn, and both commentators have answered it. Sāyaṇa: *tṛtīyasavane ṛbhubhiḥ sahendrasyāvasthānāt prasaṅgād atrendrastutiḥ* — "since Indra stays together with the Ṛbhus at the third pressing, here, incidentally, there is praise of Indra." Skandasvāmi:
+
+> आर्भवत्वाच्च सूक्तस्य उपसर्जनतयापि निर्दिष्टानामृभूणामेवात्र प्राधान्यं द्रष्टव्यम् ।
+> *ārbhavatvāc ca sūktasya upasarjanatayāpi nirdiṣṭānām ṛbhūṇām evātra prādhānyaṃ draṣṭavyam |*
+> "And because the hymn is Ārbhava [belongs to the Ṛbhus], even though they are mentioned in a subordinate way, the pre-eminence here is to be seen as that of the Ṛbhus themselves."
+
+Even though the Ṛbhus are mentioned only secondarily, the pre-eminence here is to be seen as the Ṛbhus', says Skandasvāmi. An objection of this kind, and its answer, are given in the Jyotiṣṭoma and in the Aitareya Brāhmaṇa too (3-[?]; the setting there is different; the example is taken here only to show the pre-eminence the Ṛbhus have at the third pressing and the constant companionship between Indra and the Ṛbhus):
+
+> इहोप यात शवसो नपात इति तृतीयसवन उन्नीयमानेभ्योऽन्वाह वृषण्वतीः पीतवतीः सुतवतीर्मद्वती रूपसमृद्धास्ता ऐन्द्रार्भवो भवन्ति ।
+> *ihopa yāta śavaso napāta iti tṛtīyasavana unnīyamānebhyo 'nvāha vṛṣaṇvatīḥ pītavatīḥ sutavatīr madvatī rūpasamṛddhās tā aindrārbhavo bhavanti |*
+> (*Ai. Brā.* 3-[?] as read [?])
+> *(Sanskrit as read; the last clause is doubtful [?]. Gloss, mine and tentative: "…at the third pressing he recites [the verse] 'Come hither, O sons of strength' over the [cups] being carried up: 'rich in bulls, rich in drinks, rich in pressed [Soma], rich in exhilaration, abounding in form' — these are of Indra and the Ṛbhus.")*
+
+> इहोप यात शवसो नपातः सौधन्वना ऋभवो माप भूत ।
+> अस्मिन्हि वः सवने रत्नधेयं गमन्निन्द्रमनु वो मदासः ।
+> *ihopa yāta śavaso napātaḥ saudhanvanā ṛbhavo māpa bhūta |*
+> *asmin hi vaḥ savane ratnadheyaṃ gamann indram anu vo madāsaḥ |*
+> (*Ṛ.* 4-34-1 as read [?])
+> "Come hither, O sons of strength, Ṛbhus, sons of Sudhanvan; do not go away. For in this pressing is a gift of treasure for you; your exhilarations follow Indra." *(mine and tentative)*
+
+— beginning with this Ṛk and furnished with the prescriptions *vṛṣaṇvatīḥ*, *pītavatīḥ* and so on mentioned here, the hymn is a text recited at the third pressing. It addresses Indra jointly with the Ṛbhus. But [the text continues]:
+
+> तदाहुर्यन्नार्भवीषु स्तुवतेऽथ कस्मादार्भवः पवमान इत्याचक्षते इति ।
+> *tad āhur yan nārbhavīṣu stuvate 'tha kasmād ārbhavaḥ pavamāna ity ācakṣate iti |*
+> *(Sanskrit as read; the first words are doubtful [?].)*
+> "They ask: if they do not praise in [the hymns] of the Ṛbhus, why then do they call the *pavamāna* 'Ārbhava'?"
+
+Since there is no need to recite Ṛks addressed to the Ṛbhus, an objection arises as to why this is to be called the *ārbhavapavamāna*, and the answer to it is *(continued on p. 700)*
+
+---
+
+### Page 700 (PDF 720)
+
+*(Running head: left 700; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+> प्रजापतिर्वै ते ऋभून्मर्त्यान्सन्तोऽमर्त्यान्कृत्वा तृतीयसवन आभजत्तस्मान्नार्भवीषु स्तुवतेऽथार्भवः पवमान इत्याचक्षते । इति । [?]
+> *prajāpatir vai te ṛbhūn martyān santo 'martyān kṛtvā tṛtīyasavana ābhajat tasmān nārbhavīṣu [?] stuvate 'thārbhavaḥ pavamāna ity ācakṣate | iti |*
+> *(Sanskrit as read from the print; clotted in places [?], given as read, with no emendation from memory.)*
+
+"Prajāpati, having made those mortal Ṛbhus immortal, gave them a share in the third pressing; therefore [the hymn] gets the name *ārbhavapavamāna*." And: *indram evaitat savanena ābhajatīti* [?] — "[so] he gives Indra, too, a share in the pressing." From this explanation, that Indra too shares along with the Ṛbhus, the pre-eminence the Ṛbhus have at the third pressing, and Indra's constant companionship with them, may be understood. In the explanation of the Ṛk before us, too, both commentators have shown these points in their answers to the objection.
+
+**आ दर्षि — Ā darṣi.** *asmabhyaṃ dātum ādriyasva* — 'be graciously disposed to give to us': that is, show us the favour of giving.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.9)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Vājebhiḥ*: by *bahulaṃ chandasi* (*pā.* 7-1-10 as read [?]) *ais* does not arise for *bhis*; by *bahuvacane jhaly et* (*pā.* 7-3-103 as read [?]) *e*. *Vājasātau*: root *vana ṣaṇa sambhaktau*; *striyāṃ ktin* (*pā.* 3-3-94 as read [?]) *ktin* in the abstract sense; by *janasanakhanāṃ sañjhaloḥ* (*pā.* 6-4-42 as read [?]) the root takes *ā*; 'that in which is the sharing of *vājas*' = *vājasātiḥ*; its locative; in the *bahuvrīhi*, *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) the prior member keeps its own accent. *Aviḍḍhi*: root *viṣḷ vyāptau*; *loṭ*, second-person singular *sip*; *serhy apicca* (*pā.* 3-4-87 as read [?]) gives *hi* for it; by *bahulaṃ chandasi* (*pā.* 2-4-73 as read [?]) *luk* of *śap*; after a final consonant [*jhal*-ending] the *hi* becomes *dhi* by *hujhalbhyo herdhiḥ* (*pā.* 6-4-101 as read [?]); the *ṣ* before *dh* becomes *ḍ* by *ṣṭunā ṣṭuḥ* (*pā.* 8-4-41 as read [?]), [with] *jhalāṃ jaś jhaśi* (*pā.* 8-4-53 as read [?]); by *chandasy api dṛśyate* (*pā.* 6-4-73 as read [?]) the mention of *dṛś* gives *aṭ* in *loṭ* also: hence *aviḍḍhi* [with the augment]. [Alternatively, if it is from] *av rakṣaṇe*: *loṭ* as before; by *sibbahulaṃ leṭi* (*pā.* 3-1-34 as read [?]) the mention of *bahulam* gives *sip* in the place of the conjugation sign; being *tiṅ* it is *śit*, a *sārvadhātuka*; *ārdhadhātukasyeḍ valādeḥ* (*pā.* 7-2-35 as read [?]) the augment *iṭ*; after *iṭ* the *s* ... *ādeśapratyayayoḥ* (*pā.* 8-3-59 as read [?]) *ṣatva*; then the *hi* after a *jhal* becomes *dhi* as before; *ḍhatva*, *ṣṭutva*, *jaśtva*; *nighāta* accent after a finite verb. *Ṛbhumān*: *ṛbhu*; 'he has this' = *ṛbhumān*; *matup* by *tad asyāsty asmin* (*pā.* 5-2-94 as read [?]); *hrasvanudbhyāṃ matup* (*pā.* 6-1-176 as read [?]) gives *matup* the *udātta*; nominative singular.
+
+---
+
+**Progress note:** Printed pp. 1–700 done (PDF 21–720): Sūkta 110 (Riks 110.1–110.9; printed pp. 657–700) is complete except possibly a closing line: the grammar page (p. 700) ends at *ṛbhumān* with no closing ‖ 9 ‖ and no colophon seen — check printed p. 701 (PDF 721), where Sūkta 111 is expected to begin. Next: printed p. 701 (PDF 721). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
