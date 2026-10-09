@@ -15103,5 +15103,126 @@ The grammar of Rik 106.7 concludes (noted briefly). *Trāyatām* (root *traiṅ 
 *(A rule of dashes follows.)*
 
 ---
+### Page 562 (PDF 582)
 
-**Progress note:** Printed pp. 1–561 done (PDF 21–581): **Sūkta 106 is complete** (printed pp. 529–561; 7 Ṛks). **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; second Sūkta of the sixteenth anuvāka) begun at the foot of printed p. 561: the Kannada title, Sāyaṇa's introduction and the Anuvāda are done. Next: printed p. 562 (PDF 582): the heading block and Ṛk 107.1. Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 562; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०७ — Sūkta 107** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १६ · सूक्त १०७ — *Maṇḍala 1, Anuvāka 16, Sūkta 107.*
+- अष्टक १ · अध्याय ७ · वर्ग २५ — *Aṣṭaka 1, Adhyāya 7, Varga 25* (numerals as read, small [?]).
+- सूक्तदल्लिरुव ऋक्संख्ये — ३ — *Number of Ṛks in the sūkta: 3.*
+- ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
+- देवता — विश्वेदेवाः — *Deity: the Viśvedevas.*
+- छन्दः — त्रिष्टुप् — *Metre: Triṣṭubh.*
+
+## Rik 107.1 — printed pp. 562–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 107.1)**
+
+> यज्ञो देवानां प्रत्येति सुम्नमादित्यासो भवता मृळयन्तः ।
+> आ वोऽर्वाची सुमतिर्ववृत्यादंहोश्चिद्या वरिवोवित्तरासत् ॥ १ ॥
+
+*yajño devānāṃ praty eti sumnam ādityāso bhavatā mṛḷayantaḥ | ā vo 'rvācī sumatir vavṛtyād aṃhoś cid yā varivovittarāsat ‖ 1 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 107.1)**
+
+> यज्ञः । देवानाम् । प्रति । एति । सुम्नम् । आदित्यासः । भवत । मृळयन्तः ।
+> आ । वः । अर्वाची । सुऽमतिः । ववृत्यात् । अंहोः । चित् । या । वरिवःऽवित्तरा । असत् ॥ १ ॥
+
+*yajñaḥ | devānām | prati | eti | sumnam | ādityāsaḥ | bhavata | mṛḷayantaḥ | ā | vaḥ | arvācī | su-matiḥ | vavṛtyāt | aṃhoḥ | cit | yā | varivaḥ-vittarā | asat ‖ 1 ‖*
+
+---
+
+### Page 563 (PDF 583)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 563.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 107.1)**
+
+> अस्मदीयो यज्ञो देवानामिन्द्रादीनां सुम्नं सुखं प्रत्येति प्राप्नोतु । अपि च हे आदित्यासः आदित्या मृळयन्तोऽस्मान्सुखयन्तो भवत । भवथ । तथा वो युष्माकं सुमतिः शोभना मतिर्भक्तानुग्रहपरा बुद्धिरर्वाची अस्मदभिमुखा ववृत्यात् । आवर्तताम् । या मतिरंहोश्चिद्दारिद्र्यं प्राप्तस्यापि पुरुषस्य वरिवोवित्तरा । वरिव इति धननाम । अतिशयेन धनस्य लंभयित्री असत् भवेत् । सैषा मतिरस्मान्प्रकृष्टं वर्तताम् इत्यर्थः ॥ भवत । आमन्त्रितं पूर्वमविद्यमानवदित्यादित्यास इति पादादौ वर्तमानस्यामन्त्रितस्याविद्यमानवत्त्वेनास्य पादादित्वात् अपादादावित्यादिना सान्निघातभावः । मृळयन्तः । मृड सुखने । ण्यन्ताल्लटः शतृ । शप् । छन्दस्युभयथेति शतुरार्धधातुकत्वेनादुपदेशाल्लसार्वधातुकानुदात्तत्वाभावे शतुः स्वर शिष्यते । ववृत्यात् । वृतु वर्तने । लिङ् । व्यत्ययेन परस्मैपदम् । बहुलं छन्दसीति शपः श्लुः । अंहोः । अहि गतौ । इदित्त्वान्नुम् । औणादिक उप्रत्ययः । वरिवोवित्तरा । विद्ऌ लाभे । अस्मादन्तर्भावितण्यर्थात् क्विप् । ततः आतिशायनिकस्तरप् । असत् । असु भुवि । लेट्यडागमः ॥
+> *asmadīyo yajño devānām indrādīnāṃ sumnaṃ sukhaṃ praty eti prāpnotu | api ca he ādityāsa ādityā mṛḷayanto 'smān sukhayanto bhavata | bhavatha | tathā vo yuṣmākaṃ sumatiḥ śobhanā matir bhaktānugrahaparā buddhir arvācī asmadabhimukhā vavṛtyāt | āvartatām | yā matir aṃhoś cid dāridryaṃ prāptasyāpi puruṣasya varivovittarā | varivā iti dhananāma | atiśayena dhanasya laṃbhayitrī asat bhavet | saiṣā matir asmān prakṛṣṭaṃ vartatām ity arthaḥ ‖ bhavata | āmantritaṃ pūrvam avidyamānavad ity ādityāsa iti pādādau vartamānasyāmantritasyāvidyamānavattvenāsya pādāditvāt apādādāv ity ādinā sānnighātabhāvaḥ | mṛḷayantaḥ | mṛḍa sukhane | ṇyāntāl laṭaḥ śatṛ | śap | chandasy ubhayatheti śatur ārdhadhātukatvenādupadeśāl lasārvadhātukānudāttatvābhāve śatuḥ svara śiṣyate | vavṛtyāt | vṛtu vartane | liṅ | vyatyayena parasmaipadam | bahulaṃ chandasīti śapaḥ śluḥ | aṃhoḥ | ahi gatau | idittvān num | auṇādika uprat yayaḥ | varivovittarā | vidḷ lābhe | asmād antarbhāvitaṇyarthāt kvip | tataḥ ātiśāyanikas tarap | asat | asu bhuvi | leṭy aḍāgamaḥ ‖* *(Sanskrit as read; the tail is short and is given; a few words are clotted [?].)*
+
+"May our sacrifice reach (*praty eti*) the *sumna* — the happiness — of the gods, Indra and the others. And, O Ādityas! be those who make us happy (*mṛḷayantaḥ*). And may your *sumati* — good thought, the mind disposed to favour the devotees — turn towards us (*arvācī*, facing us, *vavṛtyāt*); that thought which would be, for a man even fallen into the poverty of *aṃhas* [distress], a better giver of wealth (*varivovittarā*; *varivas* is a name for wealth): to the highest degree one that gives wealth. May that thought turn to us as supreme."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 107.1; Kannada; English)**
+
+*Yajñaḥ* — our sacrifice; *devānām* — to the gods, Indra and the others; *sumnam* — happiness; *praty eti* — let it bring about; *ādityāsaḥ* — O Ādityas; *mṛḷayantaḥ* — giving us pleasure; *bhavata* — be; *vaḥ* — your; *yā matiḥ* — that thought; *aṃhoś cit* — even to one experiencing poverty; *varivovittarā* — the giver of abundant wealth; *asat* — which would be; *sumatiḥ* — your most excellent mind of favour; *arvācī* — facing us; *ā vavṛtyāt* — let it be turned.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May our sacrifice bring happiness to the gods, Indra and the others. O Ādityas, always make us happy. Turn towards us your most excellent mind of favour, which is able to give abundant wealth even to one who is experiencing poverty.
+
+**English Translation (as printed in the source; misprint marked [sic])**
+
+"May our sacrifice give satisfaction to the gods : A'dityas [sic], be gracious, and may your good intentions be directed towards us, so as to be an abundant source of affluence to the poor."
+
+---
+
+### Page 564 (PDF 584)
+
+*(Running head: left 564; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 107.1)**
+
+**Yajñaḥ devānāṃ sumnaṃ praty eti** — "may our sacrifice bring happiness to Indra and the other gods; and since the gods, having obtained that happiness, ought to give happiness to the sacrificers as well, he prays to them: '*ādityāsaḥ mṛḷayantaḥ bhavata*' ['O Ādityas, be giving pleasure'].
+
+> देवान्भावयतानेन ते देवा भावयन्तु वः ।
+> परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥
+> *devān bhāvayatānena te devā bhāvayantu vaḥ | parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha ‖* (*Bhagavad-gītā* 3-11)
+
+— as described in the Bhagavad-gītā, since the sacrifice is able to bestow welfare on all, from the gods down to humans, the wish is that such a sacrifice should give happiness to the gods.
+
+> प्रदानाद्धि देवा उपजीवन्ति ।
+> *pradānāddhi devā upajīvanti |* (*Śa. Brā.* 1-2-3-[?] as read [?])
+
+> यज्ञो उ देवानामन्नम् ।
+> *yajño u devānām annam |* (*Śa. Brā.* 8-1-2-1[?] as read [?])
+
+— as these sentences say, the sacrifice is itself the food of the gods, and their livelihood is by it; hence the oblations offered in the sacrifice are able to give the gods happiness; and among them, the offering of the Soma-juice is a happiness to the gods —
+
+> मत्सि सोम वरुणं मत्सि मित्रं मत्सीन्द्रमिन्दो पवमान विष्णुम् ।
+> मत्सि शर्धो मारुतं मत्सि देवान्मत्सि महामिन्द्रमिन्दो मदाय ॥
+> *matsi soma varuṇaṃ matsi mitraṃ matsīndram indo pavamāna viṣṇum | matsi śardho mārutaṃ matsi devān matsi mahām indram indo madāya ‖* (*Ṛ. Saṃ.* 9-9[?]-3 as read [?])
+
+> मत्सि वायुमिष्टये राधसे च मत्सि मित्रावरुणा पूयमानः ।
+> मत्सि शर्धो मारुतं मत्सि देवान्मत्सि द्यावापृथिवी देव सोम ॥
+> *matsi vāyum iṣṭaye rādhase ca matsi mitrāvaruṇā pūyamānaḥ | matsi śardho mārutaṃ matsi devān matsi dyāvāpṛthivī deva soma ‖* (*Ṛ. Saṃ.* 9-8[?]-[?] as read [?])
+
+— in many Ṛks such as these it is described. May such happiness be to the gods; this is the prayer that our sacrifice may be fruitful and that the oblations may satisfy the gods."
+
+**Ādityāsaḥ mṛḷayantaḥ bhavata** — "O Ādityas, be making us happy. In order to show the special quality of the happiness to be obtained from the Ādityas, in many places apt similes are given to show their protection, the regard in them, and the power which removes fear. For example —
+
+---
+
+### Page 565 (PDF 585)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 565.)*
+
+> पक्षा वयो यथोपरि व्यस्मे शर्म यच्छता स्नेहसो व ऊतयः सुऊतयो व ऊतयः ।
+> *pakṣā vayo yathopari vy asme śarma yacchata sneahaso va ūtayaḥ suūtayo va ūtayaḥ |* (*Ṛ. Saṃ.* 8-4[?]-2 as read [?]; the words are crowded and given as read, doubtful [?])
+
+— as birds protect their young by covering them with their wings and keeping them in comfort, so the Ādityas protect men and are givers of happiness; and those who have been so protected:
+
+> न तं तिग्मं चन त्यजो न द्रासदभि तं गुरु ।
+> यस्मा उ शर्म सप्रथ आदित्यासो अराध्वमनेहसो व ऊतयः सुऊतयो व ऊतयः ॥
+> *na taṃ tigmaṃ cana tyajo na drāsad abhi taṃ guru | yasmā u śarma saprathā ādityāso arādhvam anehaso va ūtayaḥ suūtayo va ūtayaḥ ‖* (*Ṛ. Saṃ.* 8-4[?]-3 as read [?]; as read from the print, with doubt [?])
+
+— no weapon, however sharp, used by an enemy, can harm him; their devotees become wholly happy; as it is said in many places, he prays that they should give such protection and happiness to him also."
+
+**Aṃhoś cit** — "the word *aṃhas* has been given the meaning 'poverty' (*dāridrya*): *dāridryaṃ anubhavisuttiruvanigū kūḍa*, 'even for one who experiences poverty'. Because poverty often becomes an obstacle in the performance of sacrifices and the like, it becomes a cause of sin. Thus, praising the liberality of the Ādityas, [he says] that even for the sacrificer who, on account of the fault of poverty, falls short in the performance of the sacrifice and does such a sin (*pāpa*), they are able to give wealth abundantly.
+
+> विदा देवा अघानामादित्यासो अपाकृतिम् ।
+> *vidā devā aghānām ādityāso apākṛtim |* (*Ṛ. Saṃ.* 8-4[?]-2 as read [?])
+
+— in Ṛks such as these, since the Ādityas are described as removers of sin and sorrow, the meaning is: pardoning the shortcomings that have arisen from unfavourable circumstances, they favour [him]."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 107.1)** *(grammar pages, p. 565 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Eti* (root *iṇ gatau*, *adādi*; *laṭ*, third person singular; *nighāta* by *tiṅ atiṅaḥ*, Pā. Sū. 8-1-28 as read [?])
+
+---
+
+**Progress note:** Printed pp. 1–565 done (PDF 21–585): **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; printed pp. 561–[?]) in progress: Rik 107.1 (printed pp. 562–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 565 (at *eti*). Next: printed p. 566 (PDF 586). Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
