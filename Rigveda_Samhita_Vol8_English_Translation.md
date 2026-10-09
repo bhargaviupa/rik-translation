@@ -17481,5 +17481,108 @@ The grammar of Rik 109.6 concludes. *Riricāthe* (root *ricir virecane*; since t
 *ā bharataṃ śikṣataṃ vajrabāhū asmāṃ indrāgnī avataṃ śacībhiḥ | ime nu te raśmayaḥ sūryasya yebhiḥ sapitvaṃ pitaro na āsan ‖ 7 ‖* *(accent-marks in the print not reproduced; "asmāṁ" is as printed)*
 
 ---
+### Page 650 (PDF 670)
 
-**Progress note:** Printed pp. 1–649 done (PDF 21–669): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.6 complete (pp. 621–649); Rik 109.7 (printed pp. 649–[?]): Saṃhitā only, at the foot of p. 649. Next: printed p. 650 (PDF 670): the Pada of 109.7 and its bhāṣya etc.; then Rik 109.8 (the last). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 650; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.7)**
+
+> आ । भरतम् । शिक्षतम् । वज्रबाहू इति वज्रऽबाहू । अस्मान् । इन्द्राग्नी इति । अवतम् । शचीभिः ।
+> इमे । नु । ते । रश्मयः । सूर्यस्य । येभिः । सऽपित्वम् । पितरः । नः । आसन् ॥ ७ ॥
+
+*ā | bharatam | śikṣatam | vajra-bāhū iti vajra-bāhū | asmān | indrāgnī iti | avatam | śacībhiḥ | ime | nu | te | raśmayaḥ | sūryasya | yebhiḥ | sa-pitvam | pitaraḥ | naḥ | āsan ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.7)**
+
+> पूर्वोक्ते एव पशावा भरतमित्येषा पुरोनुवाक्या । सूत्रितं च । आ भरतं शिक्षतं वज्रबाहू उभा वामिन्द्राग्नी आहुवध्यै । आ. ३-२ । इति ॥
+> हे वज्रबाहू वज्रहस्ताविन्द्राग्नी आ भरतं । अस्मदर्थं धनमाहरतम् । आहृत्य च शिक्षतम् । अस्मभ्यं दत्तम् । शिक्षतिर्दानकर्मा । अपि चास्माननुप्रत्यन् शचीभिः । कर्मनाम चैतत् । आत्मीयैः कर्मभिरवतम् । रक्षतम् । किं च सूर्यात्मना इन्द्रस्य येभी रश्मिभिर्येर्चिर्भिर्नोऽस्माकं पितरः पूर्वपुरुषाः सपित्वं सहप्राप्तव्यं स्थानमासन् ब्रह्मलोकमगच्छन् । अर्चिरादिमार्गेण हि ब्रह्मलोकमुपासका गच्छन्ति । तथा च श्रूयते । तेऽर्चिषमभिसंभवन्त्यर्चिषोऽहरिति । यद्वा । येभी रश्मिभिः सपित्वं समवेतेत्वं तमध्यगच्छन् । ते रश्मय इमे नु इदानीमस्माभिर्दृश्यमाना एते एव खलु सूर्यात्मना इन्द्रस्य ये रश्मयस्त एवाग्नेरपि । तथा च श्रूयते । अग्निं वा आदित्यः सायं प्रविशति तस्मादग्निर्दूरात्सन्नक्तं दृश्यते । तै. ब्रा. ३-१-२-६ । इति । तस्मात्सूर्यस्य रश्मीनां स्रवणेनेन्द्राग्न्योरुभयोरपि स्तुतिः सिद्धा ॥ भरतम् । हृञ् हरणे । लोटि मध्यमपुरुषद्विवचने तस्थस्थमिपां तांतंतामः । शपि विकरणे । सार्वधातुकार्धधातुकयोरिति गुणः । उरण् रपरः । हृग्रहोर्भश्छन्दसि । इति भत्वं । शिक्षतम् । शिक्ष विद्योपादाने । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शपः पित्त्वादनुदात्तत्वं । धातुस्वरः शिष्यते । तिङः परत्वान्निघाताभावः । सपित्वं । अप्लृ व्याप्तौ । अस्मात्सशब्दोपपदात्कृत्यार्थे तवैकेनिति त्वन्प्रत्ययः । पृषोदरादित्वाद्धातोः पिभावः । यद्वा । पस समवाये । इन्सर्वधातुभ्य इतीन् । सहेर्भावः सपित्वम् । आसन् । अस गतिदीप्त्यादानेषु । लङ्याडागम उदात्तः । यद्वृत्तान्नित्यमिति निघाताभावः ॥
+> *pūrvokte eva paśāv ā bharatam ity eṣā puronuvākyā | sūtritaṃ ca | ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai | ā. 3-2 | iti ‖ he vajrabāhū vajrahastāv indrāgnī ā bharataṃ | asmadarthaṃ dhanam āharatam | āhṛtya ca śikṣatam | asmabhyaṃ dattam | śikṣatir dānakarmā | api cāsmān anupratyan śacībhiḥ | karmanāma caitat | ātmīyaiḥ karmabhir avatam | rakṣatam | kiṃ ca sūryātmanā indrasya yebhī raśmibhir yer cirbhir no 'smākaṃ pitaraḥ pūrvapuruṣāḥ sapitvaṃ sahaprāptavyaṃ sthānam āsan brahmalokam agacchan | arcirādimārgeṇa hi brahmalokam upāsakā gacchanti | tathā ca śrūyate | te 'rciṣam abhisaṃbhavanty arciṣo 'har iti | yadvā | yebhī raśmibhiḥ sapitvaṃ samavetetvaṃ tam adhyagacchan | te raśmaya ime nu idānīm asmābhir dṛśyamānā ete eva khalu sūryātmanā indrasya ye raśmayas ta evāgner api | tathā ca śrūyate | agniṃ vā ādityaḥ sāyaṃ praviśati tasmād agnir dūrāt sann aktaṃ dṛśyate | tai. brā. 3-1-2-6 | iti | tasmāt sūryasya raśmīnāṃ sravaṇenendrāgnyor ubhayor api stutiḥ siddhā ‖ bharatam | hṛñ haraṇe | loṭi madhyamapuruṣadvivacane tasthasthamipāṃ tāṃtaṃtāmaḥ | śapi vikaraṇe | sārvadhātukārdhadhātukayor iti guṇaḥ | uraṇ raparaḥ | hṛgrahor bhaś chandasi | iti bhatvaṃ | śikṣatam | śikṣa vidyopādāne | adupadeśāl lasārvadhātukānudāttatve śapaḥ pittvād anudāttatvaṃ | dhātusvaraḥ śiṣyate | tiṅaḥ paratvān nighātābhāvaḥ | sapitvaṃ | aplṛ vyāptau | asmāt saśabdopapadāt kṛtyārthe tavaikeneti tvanpratyayaḥ | pṛṣodarāditvād dhātoḥ pibhāvaḥ | yadvā | pasa samavāye | in sarvadhātubhya itīn | saher bhāvaḥ sapitvam | āsan | asa gatidīptyādāneṣu | laṅy āḍāgama udāttaḥ | yadvṛttān nityam iti nighātābhāvaḥ ‖* *(Sanskrit as read; the words "anupratyan", "yer cirbhir" and "tam adhyagacchan" are clotted and given with doubt [?]; the Taittirīya reference is read as "3-1-2-6" [?]; the tail is short and given.)*
+
+"For the same animal [sacrifice] mentioned before, this Ṛk *ā bharatam* is the *puronuvākyā* [introductory verse]. And [the Āśvalāyana] sūtra says: '*ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai*' (*Ā.* 3-2 as read [?]).
+
+O *vajrabāhū*, thunderbolt-armed Indra and Agni! *ā bharatam*: bring wealth for us. And, having brought, *śikṣatam*: give to us (*śikṣati* is a verb of giving). And further, protect us with your *śacībhiḥ* — *śacī* is a name for 'deeds' — with your own deeds. And more: by those rays of Indra, in the form of the sun, by which (*yebhiḥ*) our *pitaraḥ*, forefathers, attained *sapitva* — a place to be reached together [with them] — went to Brahmaloka: for the worshippers go to Brahmaloka by the path beginning with light (*arcis*). So it is heard: 'they go to the light, from the light to the day…'. Or else: those rays by which they attained fellowship (*sapitva*, union): those rays are these here (*ime nu*), now seen by us, the very rays of Indra in the nature of the sun; and they are also Agni's. So it is heard: 'In the evening the sun enters Agni; therefore Agni is seen at night from afar' (*Tai. Brā.* 3-1-2-6 as read [?]). Therefore, by the sun's rays flowing, the praise of both Indra and Agni is established."
+
+---
+
+### Page 651 (PDF 671)
+
+*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 651.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.7; Kannada; English)**
+
+*Vajrabāhū* — you who hold the thunderbolt weapon in your hands; *indrāgnī* — O Indra and Agni; *ā bharatam* — (for us) bring wealth and come; *śikṣatam* — give (that) to us; *asmān* — us who perform sacrifices; *śacībhiḥ* — by your deeds of valour; *avatam* — protect; (and) *yebhiḥ* — by which; *sūryasya* — of the sun-form Indra; *raśmayaḥ* — by which rays; *naḥ* — our; *pitaraḥ* — fathers, grandfathers and the others; *sapitvam āsan* — together attained Brahmaloka, or all together attained companionship; *te raśmayaḥ* — those rays; *ime nu* — are not these very rays that are within sight of our eyes?
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Indra and Agni, who hold the thunderbolt in your hands, bring wealth for us and give it to us. Protect us, who perform sacrifices, by your deeds of valour. By whichever rays of Indra in the form of the sun our fathers, grandfathers and the others went together to Brahmaloka, may these very rays that we see with our eyes favour us too.
+
+**English Translation (as printed in the source)**
+
+"Bring wealth, thunderers, and give it to us ; protect us, Indra and Agni, by your deeds ; may those rays of the sun, by which our forefathers have attained together a heavenly region, shine also upon us."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.7)**
+
+"As said in the previous Ṛk, in the animal-sacrifice made aiming at Indra and Agni, when the *puroḍāśa* offering is made, this Ṛk *ā bharataṃ śikṣataṃ* is to be used as the *puronuvākyā* mantra; so it is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*ā bharataṃ śikṣataṃ vajrabāhū ubhā vām indrāgnī āhuvadhyai*' (*Ā.* 3-2).
+
+**Śikṣatam** — "the word *śikṣati* is read among the names of verbs of giving: the meaning is 'give us wealth'. In the language of the world the root *śikṣ* is generally taken to mean 'teach' or 'practise'. Here too the commentator shows that the word is formed from the root *śikṣa vidyopādāne*; but in some places the purport is 'give, make a gift'. The word is also used in the sense 'grasp, practise'. For example —
+
+> त्रिर्वर्तिर्याततं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् ।
+> *trir vartir yātataṃ trir anuvrate jane triḥ suprāvye tredheva śikṣatam |* (*Ṛ. Saṃ.* 1-34-4 as read)
+
+---
+
+### Page 652 (PDF 672)
+
+*(Running head: left 652; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+"— in this Ṛk *śikṣatam* means 'to be instructed' (*upadeṣṭavyam*); and
+
+> यत्र नार्यपच्यवमुपच्यवं च शिक्षते ।
+> *yatra nāry apacyavam upacyavaṃ ca śikṣate |* (*Ṛ. Saṃ.* 1-1[?]5-[?] as read [?])
+
+— in this *abhyāsaṃ karoti*, 'practises', is the meaning. In the other places it means:
+
+> इन्द्रो यज्वने पृणते च शिक्षत्युपेद्ददाति न स्वं मुषायति ।
+> *indro yajvane pṛṇate ca śikṣaty uped dadāti na svaṃ muṣāyati |* (*Ṛ. Saṃ.* 4-2[?]-[?] as read [?])
+
+> प्र स मित्र मर्तो अस्तु प्रयस्वान्यस्त आदित्य शिक्षति व्रतेन ।
+> *pra sa mitra marto astu prayasvān yas ta āditya śikṣati vratena |* (*Ṛ. Saṃ.* 3-5[?]-[?] as read [?])
+
+> युवादत्तस्य धिष्ण्या युवानीतस्य सूरिभिः ।
+> अहरहर्वृषणा मह्यं शिक्षतम् ॥
+> *yuvādattasya dhiṣṇyā yuvānītasya sūribhiḥ | aharahar vṛṣaṇā mahyaṃ śikṣatam ‖* (*Ṛ. Saṃ.* 8-5-[?] as read [?])
+
+— in all Ṛks such as these the meaning is 'gives' (*dadāti*), 'give' (*prayacchatam*). Likewise here too the purport is 'give, grant'.
+
+**Sapitvam** — "formed from the root *aplṛ vyāptau*: *saha prāptavyaṃ sthānam* — 'the place to be reached together'; Sāyaṇa explains: 'the place which all together go to and are to reach'; Skandasvāmin explains *saha pānam*: 'the place of drinking [Soma] together'. According to the first explanation, the word *āsan* is used in the sense 'went', and 'went to *sapitva*', that is, reached it; according to the second, the word *āsan*, in the sense 'to be obtained' (*prāptyartha*), means 'obtained the state of *sapitva*'. Here the first meaning is the more suitable, because it is well known that the worshippers go to Brahmaloka by the path beginning with the light.
+
+> सूर्यद्वारेण ते विरजाः प्रयान्ति ।
+> *sūryadvāreṇa te virajāḥ prayānti |* (*Mu. U.* 1-2-11)
+
+— as is described in sentences such as this, and as the matter has been explained in the Special Topics of the Ṛk 1-10[?]-[?] [as read [?]] ('the 1st Ṛk 1-1[?]4-[?]'), and in
+
+> ते 'र्चिषमभिसंभवन्त्यर्चिषोऽहः ।
+> *te 'rciṣam abhisaṃbhavanty arciṣo 'haḥ |* (*Bhā.* [? *Chā.*] *U.* 5-10-1 as read [?])
+
+— as Sāyaṇa explains by citing it, here it is correct to say that the worshipping forefathers reached Brahmaloka by the path beginning with the light. Or else, *yebhī raśmibhiḥ sapitvaṃ samavetatvaṃ tam adhyagacchan | te raśmaya ime nu idānīm asmābhir dṛśyamānā ete eva khalu*" *(continued on p. 653)*
+
+---
+
+### Page 653 (PDF 673)
+
+*(Running head: left "A. 1 A. 7 Va. 29 [?]"; centre "Ṛgvedasaṃhitā"; right 653.)*
+
+"— *sūryātmanā indrasya ye raśmayas ta evāgner api |* 'the very rays of Indra in the form of the sun are also Agni's': by 'union' (*sapitva*) is meant 'being gathered together, joined together'; since Sūrya and Indra are identical, and since the rays of the sun and the rays of Agni are one and the same, it may be said that the rays of Indra and Agni are one with the rays of the sun: so Sāyaṇa says, and cites the Brāhmaṇa sentence
+
+> अग्निं वा आदित्यः सायं प्रविशति तस्मादग्निर्दूरात्सन्नक्तं दृश्यते ।
+> *agniṃ vā ādityaḥ sāyaṃ praviśati tasmād agnir dūrāt sann aktaṃ dṛśyate |* (*Tai. Brā.* 3-1-2-6 as read [?])
+
+— and gives the second meaning."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.7)** *(grammar pages, pp. 653–654, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Bharatam* (root *hṛñ haraṇe*; *loṭ*, second person dual; *tam* for *thas* by *tasthasthamipāṃ tāṃtaṃtāmaḥ*, Pā. Sū. 3-4-101 as read [?]; the vikaraṇa *śap*; *guṇa* of the root's *ik* by *sārvadhātukārdhadhātukayoḥ*, Pā. Sū. 7-3-84 as read [?]; *uraṇ raparaḥ*, so *r* follows; the form *harata*; by *hṛgrahor bhaś chandasi*, [vārttika] the *h* becomes *bh*; since a verb follows a non-verb, *nighāta*). *Śikṣatam* (root *śikṣa vidyopādāne*; as before the *loṭ*, second person dual form; since it is placed together with the word *āṅ* [as a synonym], here, since a verb follows the verb earlier, *nighāta* does not arise; since the *lasārvadhātuka* ending follows an *anudāttet* root, by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], it is *anudātta*; since *śap* is *pit*, it is *anudātta*; then the accent of the root remains). *Avatam* (root *ava rakṣaṇe*; *loṭ*, second person dual; since a verb follows a non-verb, *nighāta*). *Yebhiḥ* (the word *yad*; in the instrumental plural, *ais* for *bhis* does not arise by *bahulaṃ chandasi*, Pā. Sū. 7-1-10 as read [?]; *e* arises for the *a*, giving *yebhiḥ*). *Sapitvam* (root *aplṛ vyāptau*; when *sa* is the prior word-member, by *kṛtyārthe tavaikenkenyatvanaḥ*, Pā. Sū. 3-4-14 as read [?], the suffix *tvan*; by *pṛṣodarādi* the root takes the form *pi*; *aṇ*-like...; or else, from the root *pasa samavāye*; the suffix *in* by *sarvadhātubhya in*, Uṇ. 4-[?]1 as read [?]; by *dhātvādeḥ ṣaḥ saḥ*, Pā. Sū. 6-1-64 as read [?], *s* for the initial; from *sapi*, the abstract *sapitvam*, by *tasya bhāvas tvatalau*, Pā. Sū. 5-1-119 as read [?], the suffix *tva*; by the accent of the suffix, final acute) *(continued on p. 654)*
+
+---
+
+**Progress note:** Printed pp. 1–653 done (PDF 21–673): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.6 complete (pp. 621–649); Rik 109.7 (printed pp. 649–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 653 (at *sapitvam*, mid-sentence). Next: printed p. 654 (PDF 674); then Rik 109.8 (the last). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
