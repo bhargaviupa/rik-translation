@@ -17770,5 +17770,94 @@ O Ṛbhus, I performed rites such as the Agniṣṭoma extensively in former tim
 "First, because it unites the prefixes *sam* and *ud* with the root *dru* ('to move', 'to run'), and goes up and flows around; or, second, because the prefixes *sam* and *abhi* join the same root *dru* and give the sense 'the waters (of rivers) run towards it'; or because the prefix *sam* joins the root *mud* ('to rejoice') and the water-creatures rejoice in it; or because it is the store (*nidhi*) of water, or because *sam* joins the root *und* ('to wet', 'to moisten') and gives the sense 'to wet': in this way the derivation of the word *samudra* has been given. In this context, for showing the difference between the *samudra* that is a synonym of the mid-region and the *samudra* of the earth, he cites an *itihāsa* also."
 
 ---
+### Page 661 (PDF 681)
 
-**Progress note:** Printed pp. 1–660 done (PDF 21–680): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; fifth Sūkta of the sixteenth anuvāka; printed pp. 657–[?]) in progress: title, Sāyaṇa's introduction, Anuvāda and heading block done (p. 657); Rik 110.1 (printed pp. 657–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; its Special Topics are under way (*ṛbhavaḥ*, *apaḥ*, *samudraḥ*, ending at the foot of p. 660 at the Nirukta's mention of an *itihāsa*). Next: printed p. 661 (PDF 681). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 661.)*
+
+*(The Nirukta passage on the *samudra*, begun on p. 660, continues with its itihāsa; Sanskrit in Kannada script, as read.)*
+
+> तयोर्विभागस्त्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुर्ब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमन्तरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्ते ऽसानि याजयानि चेत्वेति । तस्यैतद्वर्षकामसूक्तं तस्यैषा भवति ॥
+> *tayor vibhāgas tretihāsam ācakṣate [?] | devāpiś cārṣṭiṣeṇaḥ śaṃtanuś ca kauravyau bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyān abhiṣecayāṃcakre | devāpis tapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tam ūcur brāhmaṇā adharmas tvayā carito jyeṣṭhaṃ bhrātaram antar ity abhiṣecitaṃ tasmāt te devo na varṣatīti | sa śaṃtanur devāpiṃ śiśikṣa rājyena | tam uvāca devāpiḥ purohitas te 'sāni yājayāni cetveti | tasyaitad varṣakāmasūktaṃ tasyaiṣā bhavati ‖* *(Nirukta, as read; the first words and "śiśikṣa", "cetveti" are clotted in print and given with doubt [?]; not completed from memory.)*
+
+"For this [the Nirukta] gives a story. Devāpi Ārṣṭiṣeṇa and Śaṃtanu were two brothers of the Kuru family. The younger, Śaṃtanu, had himself consecrated [as king]. Devāpi went to perform austerity. Then in Śaṃtanu's kingdom, for twelve years, the god [Parjanya] did not rain. The *brāhmaṇas* told him: 'you have done an unrighteous act, having consecrated yourself passing over your elder brother; therefore the god does not rain for you.' Śaṃtanu then went to Devāpi [to give him] the kingdom. Devāpi said to him: 'I shall be your *purohita*; let me perform sacrifices for you.' [Thus] this is the rain-seeking hymn of his; of it is this Ṛk."
+
+*(In Kannada, the same:)* "Devāpi, the son of Ṛṣṭiṣeṇa, and Śaṃtanu, both of the Kuru family, were brothers. The younger, Śaṃtanu, himself being consecrated, came to that kingdom. Devāpi went to the forest for austerity. From then, for twelve years, there was no rain in Śaṃtanu's kingdom. Then the *brāhmaṇas* said to Śaṃtanu: 'you, having sent the elder brother to the forest and being yourself the king, have committed a sin; therefore the god of rain does not rain in your kingdom.' When Śaṃtanu then tried to consecrate Devāpi as king, Devāpi said, 'I shall be your *purohita* and perform the sacrifice for you,' and performed a sacrifice for the sake of rain. After that rain fell from the upper *samudra* to the lower *samudra*": the story that shows the difference between the two *samudras* —
+
+> आर्ष्टिषेणो होत्रमृषिर्निषीदन्देवापिर्देवसुमतिं चिकित्वान् ।
+> स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥
+> *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān | sa uttarasmād adharaṃ samudram apo divyā asṛjad varṣyā abhi ‖* (*Ṛ. Saṃ.* 10-98-5 as read [?])
+
+"Citing this Ṛk, the Nirukta-author shows the difference between the upper *samudra* and the lower *samudra*. Here *uttara samudra* means the mid-region, and *adhara samudra* the terrestrial ocean. In the Ṛk-saṃhitā the word *samudra* in some places [may] be said definitely to mean the terrestrial sea. But in
+
+> यथा वातो यथा वनं यथा समुद्र एजति ।
+> *yathā vāto yathā vanaṃ yathā samudra ejati |* (*Ṛ. Saṃ.* 5-5[?]-5 as read [?])
+
+— in Ṛks such as these it is hard to say whether the sense is mid-region or earthly ocean;
+
+> अग्निं विश्वा अभि पृक्षः सचन्ते समुद्रं न स्रवतः सप्त यह्वीः ।
+> *agniṃ viśvā abhi pṛkṣaḥ sacante samudraṃ na sravataḥ sapta yahvīḥ |* (*Ṛ. Saṃ.* 1-71-7 as read [?])
+
+> सं यं स्तुभोऽवनयो न यन्ति समुद्रं न स्रवतो रोधचक्राः ।
+> *saṃ yaṃ stubho 'vanayo na yanti samudraṃ na sravato rodhacakrāḥ |* (*Ṛ. Saṃ.* 1-190-7 as read [?])
+
+---
+
+### Page 662 (PDF 682)
+
+*(Running head: left 662; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+> या आपो दिव्या उत वा स्रवन्ति खनित्रिमा उत वा याः स्वयंजाः ।
+> समुद्रार्था याः शुचयः पावकास्ता आपो देवीरिह मामवन्तु ॥
+> *yā āpo divyā uta vā sravanti khanitrimā uta vā yāḥ svayaṃjāḥ | samudrārthā yāḥ śucayaḥ pāvakās tā āpo devīr iha mām avantu ‖* (*Ṛ. Saṃ.* 7-49-2 as read)
+
+"— in many such Ṛks the sense 'terrestrial ocean' may be said definitely; in some places the word is used as an epithet, giving the sense 'flowing'.
+
+> अद्भिर्होति वरुणः समुद्रैर्युष्माँ इच्छन्तः शवसो नपातः ।
+> *adbhir hoti varuṇaḥ samudrair yuṣmāṃ icchantaḥ śavaso napātaḥ |* (*Ṛ. Saṃ.* 1-1[?]4-[?] as read [?]; the first words doubtful [?])
+
+— in this Ṛk, *samudraiḥ* means *samundanasvabhāvaiḥ*, 'with the waters that by nature flow together', i.e. with the waters that flow: so it is to be explained according to the context. In the Ṛk at hand, *samudra* may be taken as 'flowing', that is, 'Soma that flows'; or, as Skandasvāmin says, 'Soma exceedingly abundant, like an ocean'."
+
+**Dhītiḥ** — *dhīkarmatvāt stutir atra dhītir ucyate | buddhir nirmitatvāt ... |* "the word *dhīti* is said to be 'praise', as Skandasvāmin has explained, 'because *dhī* is a word for action [the product of the intellect]; since the hymn is made by the mind'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 110.1)** *(grammar pages, pp. 662–663, noted briefly; numerals small and doubtful [?])*
+
+Grammar, noted briefly. *Tatam* (root *tanu vistāre*; *kta* by *niṣṭhā*, Pā. Sū. 3-2-102 as read [?]; the *iṭ* augment is prohibited by *yasya vibhāṣā*, Pā. Sū. 7-2-15 as read [?]; the loss of the nasal *n* of the root by *anudāttopadeśavanatitanotyādīnām…*, Pā. Sū. 6-4-37 as read [?]; the suffix's accent, final acute). *Apaḥ* (root *āplṛ vyāptau*; the suffix *asun* by *āpaḥ karmākhyāyāṃ hrasvo nuṭ ca vā*, Uṇ. 4-[?]02 as read [?]; because of it the shortening of the root; the augment *nuṭ* optional; the initial acute by *ñnityādir nityam*, Pā. Sū. 6-1-197 as read [?]). *Tāyate* (root *tanu vistāre*; *laṭ*, third person singular, passive; *yak* by *sārvadhātuke yak*, Pā. Sū. 3-1-67 as read [?]; *ā* for the root by *tanoter yaki*, Pā. Sū. 6-4-44 as read [?]; since a verb follows a non-verb, *nighāta*). *Svādiṣṭhā* (the word *svādu*; in the sense of a high degree, *iṣṭhan* by *atiśāyane tamabiṣṭhanau*, Pā. Sū. 5-3-55 as read [?]; the loss of the *ṭi* [*u*] by *ṭeḥ*, Pā. Sū. 6-4-155 as read [?]; the suffix being *nit*, the initial acute; the feminine *ṭāp* by *ajādyatas ṭāp*, Pā. Sū. 4-1-4 as read [?])
+
+---
+
+### Page 663 (PDF 683)
+
+*(Running head: left "A. 1 A. 7 Va. 30 [?]"; centre "Ṛgvedasaṃhitā"; right 663.)*
+
+The grammar of Rik 110.1 concludes. *Ucathāya* (root *vaca paribhāṣaṇe*; the Uṇādi suffix *athak*; since it is *kit*, by *vacisvapiyajādīnāṃ kiti*, Pā. Sū. 6-1-15 as read [?], *saṃprasāraṇa*; *pūrvarūpa*; the fourth case singular). *Samudraḥ* (root *undī kledane*; the suffix *rak* by *sphāyitañcivañcisaśakiḥ* [as printed: *sphāyitañcivañciśakiśaṅkāṭaśaś*…], Uṇ. 2-[?]0 as read [?]; since it is *kit*, the loss of the nasal by *anidītāṃ halupadhāyāḥ kṅiti*, Pā. Sū. 6-4-24 as read [?]; the prefix *sam*; the accent of the *kṛdanta* latter member by the *prakṛtisvara*). *Viśvadevyaḥ* (*devāt yor bhāgo devyaḥ*, 'a share of the gods': by *chandasi ca*, Pā. Sū. 5-1-67 as read [?], the suffix *ya* in the sense 'worthy of'; *viśve sarve devā yasmin some* — *viśvadevyaḥ*; by *bahuvrīhau viśvaṃ saṃjñāyām*, Pā. Sū. 6-2-106 as read [?], although the compound is not a name [*saṃjñā*], by *vyatyaya* the prior member ends in the acute). *Svāhākṛtasya* (*svāhākāreṇa prakṣiptaḥ svāhākṛtaḥ tasya*; since *svāhā* is read in the *ūryādi* group, it obtains the *gati* name by *ūryādicviḍācaś ca*, Pā. Sū. 1-4-61 as read [?]; when compounded with it, by *gatir anantaraḥ*, Pā. Sū. 6-2-49 as read [?], the accent of the prior member). *Tṛpṇuta* (root *tṛpa prīṇane*, *svādi*; *loṭ*, second person plural; *ta* for *tha*; the vikaraṇa *śnu* by *svādibhyaḥ śnuḥ*, Pā. Sū. 3-1-73 as read [?]; since it is *apit* [*ñit*-like], no *guṇa* of the light penult; *ṇatva* because of the *ṛ*; since a verb follows a non-verb, *nighāta*). *Tṛpṇuta* + *ṛbhavaḥ*: since *ṛ* follows, by *ṛty akaḥ*, Pā. Sū. 6-1-128 as read [?], *prakṛtibhāva*. The Rik is closed with *‖ 1 ‖* and a rule of dashes.
+
+---
+
+### Page 664 (PDF 684)
+
+*(Running head: left 664; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 110".)*
+
+## Rik 110.2 — printed pp. 664–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 110.2)**
+
+> आभोगयं प्र यदिच्छन्त ऐतनापाकाः प्राञ्चो मम के चिदापयः ।
+> सौधन्वनासश्चरितस्य भूमनागच्छत सवितुर्दाशुषो गृहम् ॥ २ ॥
+
+*ābhogayaṃ pra yad icchanta aitanāpākāḥ prāñco mama ke cid āpayaḥ | saudhanvanāsaś caritasya bhūmanā gacchata savitur dāśuṣo gṛham ‖ 2 ‖* *(accent-marks in the print not reproduced; "āgacchata" is the Pada's reading of the Saṃhitā's "ā gacchata" [?])*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 110.2)**
+
+> आऽभोगयम् । प्र । यत् । इच्छन्तः । ऐतन । अपाकाः । प्राञ्चः । मम । के । चित् । आपयः ।
+> सौधन्वनासः । चरितस्य । भूमना । आ । अगच्छत । सवितुः । दाशुषः । गृहम् ॥ २ ॥
+
+*ā-bhogayam | pra | yat | icchantaḥ | aitana | apākāḥ | prāñcaḥ | mama | ke | cit | āpayaḥ | saudhanvanāsaḥ | caritasya | bhūmanā | ā | agacchata | savituḥ | dāśuṣaḥ | gṛham ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 110.2), begun**
+
+> हे ऋभवोऽपाकाः परिपक्वज्ञानाः प्राञ्चः पूर्वकालीना ममापयः प्रापयितारो मदीया ज्ञातयः के चित् एवंभूता ये केचन यूयमाभोगयमुपभोग्यं सोममिच्छन्तो यद्यदा प्रैतन तपश्चरितुमरण्यं गतवन्तः । ऋभवो हि सुधन्वन आङ्गिरसस्य पुत्राः । तदुक्तं यास्केन । ऋभुर्विभ्वा वाज इति सुधन्वन आङ्गिरसस्य त्रयः पुत्रा बभूवुः । नि. ११-१६ । इति । कुत्सोप्याङ्गिरसः । अतस्तेन मदीया ज्ञातय इत्युक्तं । हे सौधन्वनासः सुधन्वनः पुत्राः । तदानीं चरितस्य समुपार्जितस्य तपसो भूमना भूम्ना बहुत्वेन दाशुषो हवींषि दत्तवतः सवितुः सोमाभिषवं कुर्वतो यजमानस्य संबन्धि यज्ञगृहमागच्छत । तपसा लब्धसोमाः सन्तः कृतपाना यूयं गतवन्तः । यद्वा । दाशुषः प्रातःसवनादिष्टगृहादिभिरपसारितेभ्य ऋभुभ्यः सोमपानं दत्तवतः सवितुर्गृहं निवासस्थानं तृतीय…
+> *he ṛbhavo 'pākāḥ paripakvajñānāḥ prāñcaḥ pūrvakālīnā mamāpayaḥ prāpayitāro madīyā jñātayaḥ ke cit evaṃbhūtā ye kecana yūyam ābhogayam upabhogyaṃ somam icchanto yad yadā praitana tapaścaritum araṇyaṃ gatavantaḥ | ṛbhavo hi sudhanvana āṅgirasasya putrāḥ | taduktaṃ yāskena | ṛbhur vibhvā vāja iti sudhanvana āṅgirasasya trayaḥ putrā babhūvuḥ | ni. 11-16 | iti | kutso 'py āṅgirasaḥ | atas tena madīyā jñātaya ity uktaṃ | he saudhanvanāsaḥ sudhanvanaḥ putrāḥ | tadānīṃ caritasya samupārjitasya tapaso bhūmanā bhūmnā bahutvena dāśuṣo havīṃṣi dattavataḥ savituḥ somābhiṣavaṃ kurvato yajamānasya saṃbandhi yajñagṛham āgacchata | tapasā labdhasomāḥ santaḥ kṛtapānā yūyaṃ gatavantaḥ | yadvā | dāśuṣaḥ prātaḥsavanād iṣṭagṛhādibhir apasāritebhya ṛbhubhyaḥ somapānaṃ dattavataḥ savitur gṛhaṃ nivāsasthānaṃ tṛtīya…* *(the bhāṣya continues on p. 665; Sanskrit as read, with small clotted words — "apākāḥ paripakvajñānāḥ", "prāpayitāro", "ābhogayam" — read as printed [?]; "ni. 11-16" is read as printed, doubtful [?].)*
+
+---
+
+**Progress note:** Printed pp. 1–664 done (PDF 21–684): **Sūkta 110** (9 Ṛks; Kutsa Āṅgirasa; the Ṛbhus; Jagatī 1–4, 6–8 and Triṣṭubh 5, 9; printed pp. 657–[?]) in progress: Rik 110.1 complete (pp. 657–663, including the Nirukta story of Devāpi and Śaṃtanu on the two *samudras*); Rik 110.2 (printed pp. 664–[?]): Saṃhitā, Pada and the main part of the bhāṣya done, cut at the foot of p. 664 ('…tṛtīya…'). Next: printed p. 665 (PDF 685). Sūkta 111 begins at printed p. 701, Sūkta 112 at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
