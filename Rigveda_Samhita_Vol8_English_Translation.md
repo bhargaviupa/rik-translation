@@ -15224,5 +15224,84 @@ May our sacrifice bring happiness to the gods, Indra and the others. O Ādityas,
 Grammar pages, noted briefly. *Eti* (root *iṇ gatau*, *adādi*; *laṭ*, third person singular; *nighāta* by *tiṅ atiṅaḥ*, Pā. Sū. 8-1-28 as read [?])
 
 ---
+### Page 566 (PDF 586)
 
-**Progress note:** Printed pp. 1–565 done (PDF 21–585): **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; printed pp. 561–[?]) in progress: Rik 107.1 (printed pp. 562–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 565 (at *eti*). Next: printed p. 566 (PDF 586). Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 566; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+
+The grammar of Rik 107.1 continues (noted briefly; numerals small and doubtful [?]). *Ādityāsaḥ* (*aditeḥ apatyāni pumāṃsaḥ ādityāsaḥ*; the suffix *ṇya* in the sense of offspring by *diti-aditi-āditya-…*, Pā. Sū. 4-1-85 as read [?]; since it is *ñit*, the initial *vṛddhi*; before *jas*, the *asuk* augment by *ājjaser asuk*, Pā. Sū. 7-1-50 as read [?]). *Bhavata* (root *bhū sattāyām*; *loṭ*, second person plural; because *laṭ* is replaced, *tha* → *ta* by *tasthasthamipāṃ…*, Pā. Sū. 3-4-101 as read [?]; *śap* as the vikaraṇa; *guṇa* of the root because of it; *av*; by *āmantritaṃ pūrvam avidyamānavat*, Pā. Sū. 8-1-72 as read [?], since *ādityāsaḥ* [the vocative] is, though placed at the beginning of the pāda, to be treated as non-existent for this word; but since it is prohibited by *apādādau*, there is no *nighāta* [of *bhavata*]; because *śap* is *pit*, it is *anudātta*; the *lasārvadhātuka* ending being *anudātta* by *tāsyanudāttenṅidvidupadeśāl lasārvadhātukam anudāttam*, Pā. Sū. 6-1-186 as read [?], the root's accent remains). *Mṛḷayantaḥ* (root *mṛḍa sukhane*; with the sense of instigation, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; after the causal, *śatṛ* in the sense of *laṭ*; *śap* as the vikaraṇa; *guṇa* and *ay* for *ṇic*; since by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], *śatṛ* receives the name *ārdhadhātuka*, the *lasārvadhātuka*-accent does not arise, and the *śatṛ* accent alone remains; nominative plural). *Vavṛtyāt* (root *vṛtu vartane*; *liṅ*, third person singular, *tip*; loss of *i* by *itaś ca*, Pā. Sū. 3-4-100 as read [?]; *ślu* for *śap* by *bahulaṃ chandasi*; doubling of the root by *ślau*, Pā. Sū. 6-1-10 as read [?]; since the reduplicate has the *ṛ* vowel, *ra* → *a* by *uraṭ*, Pā. Sū. 7-4-66 as read [?]; *halādiśeṣa*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdātto ṅic ca*, Pā. Sū. 3-4-103 as read [?]; since it is *ṅit*-like, no *guṇa* of the root; though the root is *anudāttet*, the parasmaipada is used by *vyatyaya*; *nighāta*). *Aṃhoḥ* (root *ahi gatau*; *num* by *idito num dhātoḥ*, Pā. Sū. 7-1-58 as read [?]; the Uṇādi suffix *u*; the final acute from the suffix; sixth case singular). *Varivovittarā* (root *vidḷ lābhe*; since the instigator's action is shown it has the sense of the causal, and *kvip* by *kvip ca*, Pā. Sū. 3-2-76 as read [?]; to it in the sense of a high degree the suffix *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. Sū. 5-3-57 as read [?]; the feminine by *ajādyatas ṭāp*, Pā. Sū. 4-1-4 as read [?]) *(continued on p. 567)*
+
+---
+
+### Page 567 (PDF 587)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 567.)*
+
+The grammar of Rik 107.1 concludes. *Varivovittarā*, concluded: "the feminine *ṭāp* [as above]; since *tarap* is *pit*, it is *anudātta* and the accent of the root remains; in the compound, the accent of the *kṛdanta* latter member of the compound." *Asat* (root *asu bhuvi*; *leṭ*, third person singular, *tip*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*, Pā. Sū. 3-4-97 as read [?]; the augment *aṭ* by *leṭo 'ḍāṭau*, Pā. Sū. 3-4-94 as read [?]; because of the *yad*-connection there is no *nighāta*; the augment being *anudātta*, the accent of the root remains). The Rik is closed with *‖ 1 ‖* and an ornament.
+
+## Rik 107.2 — printed pp. 567–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 107.2)**
+
+> उप नो देवा अवसा गमन्त्वङ्गिरसां सामभिः स्तूयमानाः ।
+> इन्द्र इन्द्रियैर्मरुतो मरुद्भिरादित्यैर्नो अदितिः शर्म यंसत् ॥ २ ॥
+
+*upa no devā avasā gamantv aṅgirasāṃ sāmabhiḥ stūyamānāḥ | indra indriyair maruto marudbhir ādityair no aditiḥ śarma yaṃsat ‖ 2 ‖* *(accent-marks in the print not reproduced)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 107.2)**
+
+> उप । नः । देवाः । अवसा । आ । गमन्तु । अङ्गिरसाम् । सामऽभिः । स्तूयमानाः ।
+> इन्द्रः । इन्द्रियैः । मरुतः । मरुत्ऽभिः । आदित्यैः । नः । अदितिः । शर्म । यंसत् ॥ २ ॥
+
+*upa | naḥ | devāḥ | avasā | ā | gamantu | aṅgirasām | sāma-bhiḥ | stūyamānāḥ | indraḥ | indriyaiḥ | marutaḥ | marut-bhiḥ | ādityaiḥ | naḥ | aditiḥ | śarma | yaṃsat ‖ 2 ‖*
+
+---
+
+### Page 568 (PDF 588)
+
+*(Running head: left 568; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 107".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 107.2)**
+
+> देवा दानादिगुणयुक्ताः सर्वे देवा अवसा रक्षणेनास्मभ्यं वात्सल्येन [?] अन्नेन वा युक्ता नोऽस्मान् स्तोतॄनुपागमन्तु । उपागच्छन्तु । प्राप्नुवन्तु । कथंभूताः । अङ्गिरसामेतत्संज्ञकानामृषीणां संबन्धिभिः सामभिः प्रगीतैर्मन्त्रैः स्तूयमानाः । अपि च इन्द्र इन्द्रियैः धननामैतत् । स्वसंबन्धिभिरस्मभ्यं दातव्यैर्धनैः सहास्मानागच्छतु । तथा मरुतः सप्तगणरूपा एकोनपञ्चाशत्संख्याका उद्भिज् चान्द्वज् [?] चेत्येवमादिनामानो देवा मरुद्भिः स्वानयवभूतैः प्राणापानादिरूपेण वर्तमानैर्वायुभिः सहास्मानागच्छन्तु । तथादितिरखण्डनीयादीना वा देवमातादित्यैः स्वकीयैः पुत्रैः सह नोऽस्मभ्यं शर्म सुखं यंसत् । यच्छतु ॥ गमन्तु । लोटि बहुलं छन्दसेति शपो लुक् । छन्दस्युभयथेति झेरार्धधातुकत्वेन ङित्त्वाभावाद्गमहनेत्यादिनोपधालोपाभावः । यंसत् । यमु उपरमे । लेट्यडागमः । सिब्बहुलं लेटीति सिप् ॥
+> *devā dānādiguṇayuktāḥ sarve devā avasā rakṣaṇenāsmabhyaṃ vātsalyena [?] annena vā yuktā no 'smān stotṝn upāgamantu | upāgacchantu | prāpnuvantu | kathaṃbhūtāḥ | aṅgirasām etatsaṃjñakānām ṛṣīṇāṃ saṃbandhibhiḥ sāmabhiḥ pragītair mantraiḥ stūyamānāḥ | api ca indra indriyaiḥ dhananāmaitat | svasaṃbandhibhir asmabhyaṃ dātavyair dhanaiḥ sahāsmān āgacchatu | tathā marutaḥ saptagaṇarūpā ekonapañcāśatsaṃkhyākā udbhij cāndvaj [?] cety evamādināmāno devā marudbhiḥ svānayavabhūtaiḥ prāṇāpānādirūpeṇa vartamānair vāyubhiḥ sahāsmān āgacchantu | tathāditir akhaṇḍanīyādīnā vā devamātādityaiḥ svakīyaiḥ putraiḥ saha no 'smabhyaṃ śarma sukhaṃ yaṃsat | yacchatu ‖ gamantu | loṭi bahulaṃ chandaseti śapo luk | chandasy ubhayatheti jher ārdhadhātukatvena ṅittvābhāvād gamahanety ādinopadhālopābhāvaḥ | yaṃsat | yamu uparame | leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip ‖* *(Sanskrit as read; "vātsalyena" and "udbhij cāndvaj [?]" are clotted in the print and given with doubt [?]; the tail is short and given.)*
+
+"May all the gods, endowed with the qualities of giving and so on, joined with (*avasā*) protection — with affection [?] or with food — come to (*upa gamantu*) us, their praisers. Of what sort? Praised (*stūyamānāḥ*) with the *sāmans* (the songs) belonging to the *Aṅgirases*, the ṛṣis so named, with chanted mantras. And further: may Indra, with the *indriyas*, which is a name for wealth, [come to us] with riches of his own to be given to us. So, too, the Maruts, in a group of seven [times seven], forty-nine in number, the gods called *udbhij*, *cāndvaj* [?] and the like, with the *marut*s [winds], the vital airs in the form of *prāṇa* and *apāna* that are the limbs of their own selves — may they come to us. So too Aditi, the unbreakable (*akhaṇḍanīya*) and the rest, the mother of the gods, with the Ādityas, her own sons, give (*yaṃsat*) us *śarma*, happiness."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 107.2; Kannada; English)**
+
+*Aṅgirasām* — of the ṛṣis called Aṅgiras; *sāmabhiḥ* — by mantras in the form of chants; *stūyamānāḥ* — being praised; *devāḥ* — all the gods; *avasā* — together with protection, or with the food that is to be given [to us]; *naḥ* — us (the devotees); *upa ā gamantu* — may they approach and come; *indraḥ* — Indra; *indriyaiḥ* — together with his wealth (that is to be given to us); *i*; *marutaḥ* — the Maruts; *marudbhiḥ* — together with their own limbs, in the form of the vital airs [*prāṇa*, *apāna* and the rest]; *aditiḥ* — Aditi, the mother of the gods; *ādityaiḥ* — together with the gods, her own sons; *naḥ* — to us; *śarma* — happiness; *yaṃsat* — may she give.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+May all the gods who are praised by the chant-form mantras of the Aṅgiras ṛṣis come to us, their devotees, with their protection. May Indra come to us with his wealths, the Maruts with their own limbs in the form of the vital airs, and Aditi, the mother of the gods, with her sons, the gods, and give us happiness.
+
+**English Translation (as printed in the source)**
+
+"May the gods, who are to be lauded by the hymns of the Angirasas, come hither for our protection ; may Indra with his treasures, the Maruts with the vital airs, and Aditi with the A'dityas, (come and) give us felicity."
+
+---
+
+### Page 569 (PDF 589)
+
+*(Running head: left "A. 1 A. 7 Va. 25 [?]"; centre "Ṛgvedasaṃhitā"; right 569.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 107.2)**
+
+**Aṅgirasāṃ sāmabhiḥ** — "the account of the ṛṣi Aṅgiras, or of the ṛṣis [of that name], is given in the Special Topics of the 1[?]th Ṛk of the 100th [as read [?]] Sūkta in this same part.
+
+> तं हाङ्गिरा उद्गीथमुपासाञ्चक्र एतमु । एवाङ्गिरसं मन्यन्तेऽङ्गानां यद्रसः ॥
+> *taṃ hāṅgirā udgītham upāsāñcakra etam u | evāṅgirasaṃ manyante 'ṅgānāṃ yad rasaḥ ‖* (*Chā. U.* 1-2-10 as read)
+
+— from sentences like these, both the method of worship of these [ṛṣis] and the excellence of those among them who chant the chant-form mantras can be understood."
+
+**Indriyaiḥ** — *svasaṃbandhibhir asmabhyaṃ dātavyair dhanaiḥ |* "'together with the wealths that are to be given to us': so Sāyaṇa takes *indriya*, namely 'wealth of Indra'; and, *indrajuṣṭaṃ* here: the word *indriya* is quoted: '*ye indrasya priyā devās taiḥ saha indra*' ['Indra along with the gods who are dear to Indra'] — so Skandasvāmin has explained. For the word *indriya* there are several meanings, such as Indra's unique power, wealth, satisfaction, etc. (see the Special Topics of the 1[?]th Ṛk of the 1[?]th Sūkta in this same part [as read [?]]); here either of the two meanings may be taken."
+
+**Marudbhiḥ** — *svāvayavabhūtaiḥ prāṇāpānādirūpeṇa vartamānaiḥ vāyubhiḥ saha |* "that is, 'with the winds that are in the form of *prāṇa*, *apāna* and the like and are the limbs of their own [bodies]'; the meaning is 'with all their powers'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 107.2)** *(grammar pages, p. 569 onwards, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Gamantu* (root *gam gatau*; *loṭ*, third person plural *jhi*; *ant* for *jh*; *u* by *eruḥ*, Pā. Sū. 3-4-86 as read [?]; *luk* of *śap* by *bahulaṃ chandasi*; no *nighāta*-substitution for the root; although, since the suffix *jhi* is *ñit* [?], the loss of the penult would be expected, by *chandasy ubhayathā*, Pā. Sū. 3-4-117 as read [?], since *jhi* receives the name *ārdhadhātuka*, it is not *ṅit*, so the *ṅit*-rule does not apply, and by *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*, Pā. Sū. 6-4-98 as read [?], the loss of the penult does not arise; *nighāta* since a verb follows a non-verb). *Stūyamānāḥ* (root *ṣṭuñ stutau*; *śānac* in the sense of *laṭ* in the passive; *ṣatva* of the initial *s* of the root; *yak* by *sārvadhātuke yak*, Pā. Sū. 3-1-67 as read [?]; the root-vowel lengthened before *yak* by *akṛtsārvadhātukayor dīrghaḥ*, Pā. Sū. 7-4-25 as read [?]; *muk* by *āne muk*, Pā. Sū. 7-2-82 as read [?]; since the *lasārvadhātuka* is *anudātta*, the accent of *yak* remains)
+
+---
+
+**Progress note:** Printed pp. 1–569 done (PDF 21–589): **Sūkta 107** (3 Ṛks; Kutsa; Viśvedevas; Triṣṭubh; printed pp. 561–[?]) in progress: Rik 107.1 complete (pp. 562–567); Rik 107.2 (printed pp. 567–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English and Special Topics done; its grammar begun at the foot of p. 569 (at *stūyamānāḥ*, mid-sentence). Next: printed p. 570 (PDF 590). Sūkta 108 begins at printed p. 573. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
