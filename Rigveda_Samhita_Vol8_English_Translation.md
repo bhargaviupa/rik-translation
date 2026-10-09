@@ -11117,4 +11117,112 @@ The grammar of Rik 104.2 concludes: *devāsaḥ* (*asuk* for *jas* by *ājjaser 
 
 ---
 
-**Progress note:** Printed pp. 1–405 done (PDF 21–425): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.2 complete (pp. 395–405); next is Rik 104.3. Next: printed p. 406 (PDF 426): Saṃhitā of Rik 104.3 (check whether it begins on p. 405's foot or p. 406). Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 406 (PDF 426)
+
+*(Running head: left 406; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+
+## Rik 104.3 — printed pp. 406–409
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.3)**
+
+> अव त्मना भरते केतवेदा अव त्मना भरते फेनमुदन् ।
+> क्षीरेण स्नातः कुयवस्य योषे हते ते स्यातां प्रवणे शिफायाः ॥ ३ ॥
+
+*ava tmanā bharate ketavedā ava tmanā bharate phenam udan | kṣīreṇa snātaḥ kuyavasya yoṣe hate te syātāṃ pravaṇe śiphāyāḥ ‖ 3 ‖*
+
+*(The print has* snātaḥ*, the dual, in both Saṃhitā and Pada; the sense requires* snātaḥ *as dual verb, read as printed [?].)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.3)**
+
+> अव । त्मना । भरते । केतऽवेदाः । अव । त्मना । भरते । फेनम् । उदन् ।
+> क्षीरेण । स्नातः । कुयवस्य । योषे इति । हते इति । ते इति । स्यातम् । प्रवणे । शिफायाः ॥ ३ ॥
+
+*ava | tmanā | bharate | keta-vedāḥ | ava | tmanā | bharate | phenam | udan | kṣīreṇa | snātaḥ | kuyavasya | yoṣe iti | hate iti | te iti | syātām | pravaṇe | śiphāyāḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.3)**
+
+> केतवेदाः केतं ज्ञातं वेदः परेषां धनं येन स तादृशः कुयवनामासुरस्तत्र्मनात्मना स्वयमेवाव भरते । ज्ञातं परेषां धनमपहरति । अपि च सोऽसुर उदन्नुदकेऽन्तर्वर्तमानः सन्नेनं फेनयुक्तमुदकमात्मना स्वयमेवाव भरते । अपहरति । क्षीरेण क्षरणशीलेन तेनापहृतेनोदकेन कुयवस्यासुरस्य योषे भार्ये स्नातः । स्नानं कुर्वाते । तादृश्यौ स्त्रियौ शिफायाः । शिफा नाम नदी । तस्याः प्रवणे निम्ने प्रवेष्टुमशक्येऽगाधप्रदेशे हते नष्टे स्यातां । भवेतां । हे इन्द्र त्वं परेषां धनमपहृत्यैर्दुरवगाह उदकस्य मध्ये वर्तमानं कुयवं सकुटुम्बमवधीरित्यर्थः ॥ त्मना । मन्त्रेष्वाङ्यादेरात्मनः । इत्याकारलोपः । भरते । हृञ् हरणे । हृग्रहोर्भ इति भत्वं । केतवेदाः । कित ज्ञाने । कर्मणि घञ् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । उदन् । पद्दन्नित्यादिनोदकशब्दस्योदन्नादेशः । सुपां सुलुगिति सप्तम्या लुक् ॥
+> *ketavedāḥ ketaṃ jñātaṃ vedaḥ pareṣāṃ dhanaṃ yena sa tādṛśaḥ kuyavanāmāsuras tatmanātmanā svayam evāva bharate | jñātaṃ pareṣāṃ dhanam apaharati | api ca so 'sura udann udake 'ntarvartamānaḥ sann enaṃ phenayuktam udakam ātmanā svayam evāva bharate | apaharati | kṣīreṇa kṣaraṇaśīlena tenāpahṛtenodakena kuyavasyāsurasya yoṣe bhārye snātaḥ | snānaṃ kurvāte | tādṛśyau striyau śiphāyāḥ | śiphā nāma nadī | tasyāḥ pravaṇe nimne praveṣṭum aśakye 'gādhapradeśe hate naṣṭe syātāṃ | bhavetāṃ | he indra tvaṃ pareṣāṃ dhanam apahṛtyair durvagāha udakasya madhye vartamānaṃ kuyavaṃ sakuṭumbam avadhīr ity arthaḥ ‖ tmanā | mantreṣv āṅyāder ātmanaḥ | ity ākāralopaḥ | bharate | hṛñ haraṇe | hṛgrahor bha iti bhatvaṃ | ketavedāḥ | kita jñāne | karmaṇi ghañ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | udan | paddanniti ādinodakaśabdasyodannādeśaḥ | supāṃ suluk iti saptamyā luk ‖*
+
+*(The print's* tatmanā *and* apahṛtyair durvagāha *are clotted [?]; the print's* snātaḥ *is the dual of* snā*, read as printed.)*
+
+"*Ketavedāḥ* — he by whom the wealth (*vedas*) of others is known (*keta*): the Asura named Kuyava *tmanā* — of himself, of his own accord — *ava bharate*: carries off the known wealth of others. And that Asura, being *udan*, within the water, carries off, of his own accord, this foamy water. By that carried-off water, flowing (*kṣīreṇa*), the two wives of the Asura Kuyava bathe. May such women, in the deep depth of the river Śiphā, where one cannot enter, be destroyed. O Indra, having carried off the wealth of others, Kuyava, together with his family, who was in the middle of the water — you killed [him]."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*ketavedāḥ* — the Asura (named Kuyava) who knew the secret of others' wealth; *tmanā* — of himself; *ava bharate* — carries off [that wealth]; *udan* — being in the water; *phenaṃ* — foamy water; *ava bharate* — carries off himself; *kṣīreṇa* — in the flowing water (carried off by him); *kuyavasya* — of Kuyava; *yoṣe* — both wives; *snātaḥ* — bathe; *te* — those two; *śiphāyāḥ* — of the river named Śiphā; *pravaṇe* — in the unfathomable current; *hate syātām* — may they be destroyed."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"The Asura named Kuyava, who knows the secret of others' wealth, comes and carries off that wealth himself; and, being in the water, he carries off himself the foamy water. In the flowing water carried off by him the two wives of Kuyava bathe. O Indra, cause those two, with Kuyava's wives, to sink and be destroyed in the unfathomable current of the river Śiphā."
+
+### Page 407 (PDF 427)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 407.)*
+
+**English Translation (as printed)**
+
+> (The Asura) knowing the wealth of others, carries it off of himself ; present in the water, he carries off, of himself, the foam ; the two wives of Kuyava bathe with the water : may they be drowned in the depths of the Sipha river.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 104.3 (Kannada)**
+
+"*Ketavedāḥ* — *ketaṃ jñātaṃ vedaḥ pareṣāṃ dhanaṃ yena sa tādṛśaḥ kuyavanāmāsuraḥ*: this epithet makes known the magical power of the Asura Kuyava, who knows the secret of the wealth of others, however well hidden. Kuyava's story has been told in the special topics of the eighth Ṛk of the preceding sūkta.
+
+*Ava bharate* — the root *bhṛ* with the preverb *ava* gives the sense 'carry off'; but besides this several other senses are possible, and the word is used in different senses elsewhere. For example —"
+
+> अव प्रियमर्शसानस्य साह्वाञ्छिरो भरद्दाशस्य स्वधावान् ।
+> *ava priyam arśasānasya sāhvām̐ chiro bharad dāśasya svadhāvān |*
+> (*Ṛ. Saṃ.* 3-[?]0-[?] as read [?])
+
+### Page 408 (PDF 428)
+
+*(Running head: left 408; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 104".)*
+
+"— in this Ṛk *ava bharat* means 'let [him] lay low; let the head of the Asura fall below' (*Ṛ. Saṃ.* 3-[?]0-[?]; see Ṛks 8-[?]9-[?]3 as read [?]); and —"
+
+> त्वं मखस्य दोधतः शिरोऽव त्वचो भरः ।
+> *tvaṃ makhasya dodhataḥ śiro 'va tvaco bharaḥ |*
+> (*Ṛ. Saṃ.* 10-[?]2-[?] as read [?])
+
+"— in this Ṛk, *ava bharaḥ* means *hṛtavān asi*, 'you struck down'. In the same way, in accordance with the context, in the Ṛk at hand *ava bharate* means 'carries off': he plunders everyone's wealth.
+
+*Śiphāyāḥ* — Śiphā is the name of a river in the city of an Asura: *śiphā* [print: *śiphe*] is the name of the river in the Asura's town; the name of that river is not told elsewhere.
+
+*Pravaṇe* — *nimne praveṣṭum aśakye agādhapradeśe*: in a place so deep that it cannot be entered, in the middle of the stream, which is unfathomable and extremely deep.
+
+*Kṣīreṇa* — *kṣaraṇaśīlena tenāpahṛtena udakena*: with that flowing water, which has the nature of flowing, carried off by Kuyava.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 104.3)** *(grammar pages, pp. 408–409, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. They treat: *tmanā* (from *ātmanā*, loss of the *ā* in mantras by *mantreṣv āṅyādeḥ ātmanaḥ* [Pā. Sū. 6-4-141 as read]); *bharate* (root *hṛñ haraṇe*; *laṭ*, third person singular; *bh* for *h* by *hṛgrahor bhaś chandasi* [vārttika as read]; *nighāta*); *ketavedāḥ* (root *kita jñāne*; *ghañ* in the passive; *guṇa* of the short penult by *pugantalaghūpadhasya ca* [Pā. Sū. 7-3-86 as read]; *ketaṃ vedo yena saḥ*; accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam* [Pā. Sū. 6-2-1 as read]; *keta* is acute on the first syllable, ending in *ghañ*); *udan* (the word *udaka*; before the locative ending, *udan* by *pad-dan-no-māṣ-hṛd-…* [Pā. Sū. 6-1-63 as read]; the locative dropped by *supāṃ suluk…* [Pā. Sū. 7-1-39 as read])" *(concluded on p. 409)*
+
+### Page 409 (PDF 429)
+
+*(Running head: left "A. 1 A. 7 Va. 18 [?]"; centre "Ṛgvedasaṃhitā"; right 409.)*
+
+The grammar of Rik 104.3 concludes: *snātaḥ* (root *snā śauce*; *s* by *dhātvādeḥ ṣaḥ saḥ* [as printed, Pā. Sū. 6-1-64]; *laṭ*, third person dual, *tas*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72 as read]; since the verb follows an indeclinable, *nighāta*). The Rik is closed with *‖ 3 ‖* and a rule of dashes.
+
+## Rik 104.4 — printed pp. 409–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 104.4)**
+
+> युयोप नाभिरुपरस्यायोः प्र पूर्वाभिस्तिरते राष्ट्रि शूरः ।
+> अञ्जसी कुलिशी वीरपत्नी पयो हिन्वाना उदभिर्भरन्ते ॥ ४ ॥
+
+*yuyopa nābhir uparasyāyoḥ pra pūrvābhis tirate rāṣṭri śūraḥ | añjasī kuliśī vīrapatnī payo hinvānā udabhir bharante ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 104.4)**
+
+> युयोप । नाभिः । उपरस्य । आयोः । प्र । पूर्वाभिः । तिरते । राष्ट्रि । शूरः ।
+> अञ्जसी । कुलिशी । वीरऽपत्नी । पयः । हिन्वानाः । उदऽभिः । भरन्ते ॥ ४ ॥
+
+*yuyopa | nābhiḥ | uparasya | āyoḥ | pra | pūrvābhiḥ | tirate | rāṣṭri | śūraḥ | añjasī | kuliśī | vīra-patnī | payaḥ | hinvānāḥ | uda-bhiḥ | bharante ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 104.4)** *(begun at the foot of p. 409)*
+
+> उपरस्योदकमध्य उप्तस्यावस्थितस्यायोः परेषामुपद्रवार्थमितस्ततो गच्छतः कुयवस्यासुरस्य नाभिः संनद्धमावसनस्थानं युयोप । गोपयामासीत् । …
+> *uparasyodakamadhya uptasyāvasthitasyāyoḥ pareṣām upadravārtham itas tato gacchataḥ kuyavasyāsurasya nābhiḥ saṃnaddham āvasanasthānaṃ yuyopa | gopayām āsīt | …* *(the bhāṣya continues on p. 410)*
+
+---
+
+**Progress note:** Printed pp. 1–409 done (PDF 21–429): **Sūkta 104** (9 Ṛks; printed pp. 394–439) in progress: Riks 104.1–104.3 complete (pp. 395–409); Rik 104.4 (printed pp. 409–[?]): Saṃhitā, Pada and the first line of the bhāṣya done at the foot of p. 409. Next: printed p. 410 (PDF 430): the bhāṣya of 104.4 continues, then Pratipadārtha etc.; then Riks 104.5–9. Sūkta 105 begins at printed p. 440. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
