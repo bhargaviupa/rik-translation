@@ -10387,4 +10387,133 @@ Grammar page, noted briefly. It treats: *ūcuṣe* (root *brūñ vyaktāyāṃ v
 
 ---
 
-**Progress note:** Printed pp. 1–377 done (PDF 21–397): **Sūkta 103** (8 Ṛks) in progress: Rik 103.3 complete; Rik 103.4 (printed pp. 373–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (*yugāni*, *sūnuḥ*, *upaprayan*, *śravase … nāma*, Skandasvāmin) and most of the grammar done to p. 377. Next: printed p. 378 (PDF 398): the end of the grammar of 103.4 (*bibhrat*, *upaprayan*…); then Riks 103.5–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 378 (PDF 398)
+
+*(Running head: left 378; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**Vyākaraṇa-prakriyā of Rik 103.4, concluded (grammar page, noted briefly; numerals small and doubtful [?])**
+
+Grammar page, noted briefly. The grammar of Rik 103.4 concludes: *bibhrat* (continued: since *śatṛ* follows a reduplicated stem, the augment *num* does not come, by *nābhyastād āc chatuḥ* [Pā. Sū. 7-1-78 as read, *nābhyastācchatuḥ*]; acute on the first syllable by *abhyastānām ādiḥ* [Pā. Sū. 6-1-189 as read]); *upaprayan* (root *iṇ gatau*; *śatṛ* in the sense of the present; *yaṇ* for the root by *iko yaṇaci* [Pā. Sū. 6-4-81 as read]; the accent of the affix remains; since the verb is accented [*tiṅ*…] by *tiṅ codāttavati* [Pā. Sū. 8-1-71 as read], the preverb receives the *nighāta*; in a compound with a preverb, the accent of the last member by *gatikārakopapadāt kṛt* [Pā. Sū. 6-2-139 as read]); *dadhe* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, third person singular; since *yat* is related to it, the *nighāta* does not come; final acute by the affix). The Rik is closed with *‖ 4 ‖* and a printed ornament.
+
+## Rik 103.5 — printed pp. 378–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.5)**
+
+> तदस्येदं पश्यता भूरि पुष्टं श्रदिन्द्रस्य धत्तन वीर्याय ।
+> स गा अविन्दत्सो अविन्ददश्वान्त्सओषधीः सो अपः स वनानि ॥ ५ ॥
+
+*tad asyedaṃ paśyatā bhūri puṣṭaṃ śrad indrasya dhattana vīryāya | sa gā avindat so avindad aśvān sa oṣadhīḥ so apaḥ sa vanāni ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.5)**
+
+> तत् । अस्य । इदम् । पश्यत । भूरि । पुष्टम् । श्रत् । इन्द्रस्य । धत्तन । वीर्याय ।
+> सः । गाः । अविन्दत् । सः । अविन्दत् । अश्वान् । सः । ओषधीः । सः । अपः । सः । वनानि ॥ ५ ॥
+
+*tat | asya | idam | paśyata | bhūri | puṣṭam | śrat | indrasya | dhattana | vīryāya | saḥ | gāḥ | avindat | saḥ | avindat | aśvān | saḥ | oṣadhīḥ | saḥ | apaḥ | saḥ | vanāni ‖ 5 ‖*
+
+### Page 379 (PDF 399)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 379.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.5)**
+
+> हे ऋत्विग्यजमानलक्षणा जनाः अस्येन्द्रस्य तदिदं वीर्यं पुष्टं प्रवृद्धं । अत एव भूरि विस्तीर्णं पश्यत । आलोकयत । तस्मै च वीर्याय श्रद्दत्तन । बहुमानं कुरुत । किं पुनस्तद्वीर्यमिति चेत् उच्यते । स इन्द्रः पणिभिरपहृता गा येन वीर्येणाविन्दत । अलभत । तथा तैरपहृतानश्वान्स इन्द्रो येनाविन्दत् । अपि च स इन्द्र ओषधीरोषध्युपलक्षितां सर्वां भूमिं येन वीर्येणालभत । तथा वृत्रेण निरुद्धा अपो वृष्ट्युदकानि स इन्द्रो येनालभत । तथा वनानि वननीयानि सम्भजनीयानि धनानि स इन्द्रो येन वीर्येण प्राप्नोत् ॥ धत्तन । तप्तनप्तनथनाश्चेति तस्य तनादेशः । अविन्दत् । विद्ऌ लाभे । शे मुचादीनामिति नुम् ॥
+> *he ṛtvigyajamānalakṣaṇā janāḥ asyendrasya tad idaṃ vīryaṃ puṣṭaṃ pravṛddhaṃ | ata eva bhūri vistīrṇaṃ paśyata | ālokayata | tasmai ca vīryāya śrad dattana | bahumānaṃ kuruta | kiṃ punas tad vīryam iti cet ucyate | sa indraḥ paṇibhir apahṛtā gā yena vīryeṇāvindata | alabhata | tathā tair apahṛtān aśvān sa indro yenāvindat | api ca sa indra oṣadhīr oṣadhyupalakṣitāṃ sarvāṃ bhūmiṃ yena vīryeṇālabhata | tathā vṛtreṇa niruddhā apo vṛṣṭyudakāni sa indro yenālabhata | tathā vanāni vananīyāni sambhajanīyāni dhanāni sa indro yena vīryeṇa prāpnot ‖ dhattana | taptanaptanathanāś ceti tasya tanādeśaḥ | avindat | vidḷ lābhe | śe mucādīnām iti num ‖*
+
+*(The print's* śrad dattana *at the second occurrence is* śrad dhattana*; read as the Saṃhitā has it [?].)*
+
+"O people — you who are priests and sacrificers! This *vīrya*, prowess, of this Indra is *puṣṭam* — fully grown; and therefore *bhūri* — extensive — behold it. Look on it, and have *śrat* — confidence, great regard — for that prowess. If it be asked, 'What, then, is that prowess?' — it is said: the prowess by which that Indra *avindata* — found, obtained — the cows carried off by the Paṇis; and by which Indra found the horses carried off by them; and by which Indra obtained the whole earth, marked by plants; and by which that Indra obtained the waters, the rain-waters, shut in by Vṛtra; and by which that Indra attained the *vanāni* — the shareable, valuable wealth."
+
+*(The grammatical tail is characterized:* dhattana *(the substitute* tana *for* ta *by* taptanaptanathanāś ca*);* avindat *(root* vid *'to obtain', with* num *by* śe mucādīnām*).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*asya indrasya* — (O priests and sacrificers) of this Indra; *puṣṭaṃ* — grown to fullness; *bhūri* — extensive; *tat idaṃ* — this well-known prowess; *paśyata* — behold; *vīryāya* — in (his) prowess; *śrat dhattana* — keep confidence and regard; *saḥ* — that Indra; *gāḥ* — the cows (carried off by the Paṇis); *avindat* — recovered, made [his] own by his prowess; *saḥ* — that same Indra; *aśvān* — the horses also; *avindat* — got; (and) *saḥ* — he; *oṣadhīḥ* — the plants, roots, etc.; (got); *saḥ* — he; *apaḥ* — the waters, rain-water and the like; (got); *saḥ* — he; *vanāni* — also the valuable (attractive) riches; (got by that prowess)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O priests and sacrificers! Behold the grown, extensive, well-known prowess of this Indra. Keep confidence in that prowess. By that same prowess Indra regained and made his own the cows carried off by the Paṇis; he also obtained the horses; and by that same prowess he obtained the plants and roots and the like, the rain-waters and the like, and valuable wealth."
+
+### Page 380 (PDF 400)
+
+*(Running head: left 380; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**English Translation (as printed)**
+
+> Behold this, the vast and extensive (might of Indra) ; have confidence in his prowess ; he has recovered the cattle, he has recovered the horses, the plants, the waters, the woods.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.5 (Kannada)**
+
+"*Oṣadhīḥ* — *oṣadhyupalakṣitāṃ sarvāṃ bhūmiṃ yena vīryeṇālabhata*: 'by which prowess he obtained the whole earth, marked by plants'. The intention is: Indra obtained, by his prowess, the whole earth, indicated [by the word] *oṣadhi*.
+
+*Vanāni* — *vananīyāni sambhajanīyāni dhanāni*: [Sāyaṇa:] wealth that is held in great esteem and desired: one meaning; *vanāni* — *sadā puṣpaphalāni*: 'forests ever full of flowers and fruits', as Skandasvāmin says: another sense is possible.
+
+The word *vana* is read among the names of ray (*raśmi*, *kiraṇa*) (*Ni.* 1-[?]4) and among the names of water (*Ni.* 1-[?]2). Besides these, it is used in many other senses in the Ṛksaṃhitā. If it comes from the root *van* in the sense of an intense wish or desire, *van sambhaktau*, or from the root *vanu yācane*, 'to beg, to request', then *vanāni*, *vanāmahe*, *vanatam* and the like [may be] words formed as nouns and verbs: to see the many shifts of meaning, a few examples are to be noted. Where the word is used as a noun or an adjective —"
+
+> ऊर्ध्वा नः सन्तु कोम्या वनान्यहानि विश्वा मरुतो जिगीषा ।
+> *ūrdhvā naḥ santu komyā vanāny ahāni viśvā maruto jigīṣā |*
+> (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+"— in this Ṛk the sense for *vanāni* is 'wealth to be shared and desired with respect'; and —"
+
+> श्रेपुं पावकं वनिनं विचर्षणिं रुद्रस्य सूनुं हनसा गृणीमसि ।
+> *śrepuṃ pāvakaṃ vaninaṃ vicarṣaṇiṃ rudrasya sūnuṃ havasā gṛṇīmasi |*
+> (*Ṛ. Saṃ.* 1-[?]4-[?] as read [?])
+
+"— here *vanavantam, udakavantam*: 'with water'; for the word *vana*, 'water'; and —"
+
+> वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनन्ति ।
+> *vanāni vibhyo nakir asya tāni vratā devasya savitur minanti |*
+> (*Ṛ. Saṃ.* 2-[?]8-[?] as read [?])
+
+"— in this Ṛk, *vanāni* means 'trees'; and —"
+
+### Page 381 (PDF 401)
+
+*(Running head: left "A. 1 A. 7 Va. 16 [?]"; centre "Ṛgvedasaṃhitā"; right 381.)*
+
+> पारावतस्य रातिषु द्रवच्चक्रेष्वाशुषु । तिष्ठं वनस्य मध्य आ ॥
+> *pārāvatasya rātiṣu dravaccakreṣv āśuṣu | tiṣṭhaṃ vanasya madhya ā ‖*
+> (*Ṛ. Saṃ.* 8-[?]-[?]2 as read [?])
+
+"— here a part of the chariot is meant. In the same way, as to verbal forms, the Nirukta-author (*Ni.* 3-[?]) has cited:"
+
+> त्वया वयं मघवन्पूर्व्ये धन इन्द्रत्वोताः सासह्याम पृतन्यतो वनुयाम वनुष्यतः ।
+> *tvayā vayaṃ maghavan pūrvye dhana indratvotāḥ sāsahyāma pṛtanyato vanuyāma vanuṣyataḥ |*
+> (*Ṛ. Saṃ.* 1-[?]3-1 as read [?])
+
+"— and:"
+
+> अस्माकेभिर्नृभिर्वयं सासह्याम पृतन्यतो वनुयाम वनुष्यतो नभन्तामन्यके समे ।
+> *asmākebhir nṛbhir vayaṃ sāsahyāma pṛtanyato vanuyāma vanuṣyato nabhantām anyake same |*
+> (*Ṛ. Saṃ.* 8-[?]0-2 as read [?])
+
+"— in these Ṛks the meaning is 'to kill';"
+
+> कुविद्देवस्य सहसा चकानः सुम्नमग्निर्वनते वावृधानः ।
+> *kuvid devasya sahasā cakānaḥ sumnam agnir vanate vāvṛdhānaḥ |*
+> (*Ṛ. Saṃ.* 3-[?]-1[?] as read [?])
+
+"— in this Ṛk *prayacchati* — 'gives': that is the sense;"
+
+> वनेम पूर्वीररोमनीषा अग्निः सुशोको विश्वान्यश्याः ।
+> *vanema pūrvīr aryo manīṣā agniḥ suśoko viśvāny aśyāḥ |*
+> (*Ṛ. Saṃ.* 1-[?]0-1 as read [?])
+
+"— in this and the like, *vanema* is 'may we serve, with respectful feeling'; and —"
+
+> प्रिया आपिर्धीभिर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ।
+> *priyā āpir dhībhir vanīṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ |*
+> (*Ṛ. Saṃ.* 1-[?]2-2 as read [?])
+
+"— here, 'let [him] accept with love and serve': and in the same way there are still some other meanings. Since many meanings are thus possible, in the Ṛk at hand *vanāni* may be either *sambhajanīyāni dhanāni*, 'shareable wealth', or, as Skandasvāmin explains, *sadā puṣpaphalāni vanāni*, 'forests full of flowers and fruits'.
+
+*Śrad dhattana* — *vīryavān indra ity etad avitatham pratipadyadhvam*: [Sāyaṇa:] 'accept this as true, that Indra is possessed of prowess'. As described in the very first Ṛk of this sūkta, they must have faith in Indra's incomparable prowess, and must have such faith in him as their devotees even more than before; and it is shown that if Indra is worshipped with this faith, all riches will be obtained.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.5)** *(grammar pages, begun on p. 381 and continuing, noted briefly)*
+
+Grammar page, noted briefly; it is printed on the next page (p. 382).
+
+---
+
+**Progress note:** Printed pp. 1–381 done (PDF 21–401): **Sūkta 103** (8 Ṛks) in progress: Rik 103.4 complete (pp. 373–378); Rik 103.5 (printed pp. 378–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English and the Special Topics (*oṣadhīḥ*, *vanāni* with its meanings, *śrad dhattana*) done to p. 381; the grammar page follows on p. 382. Next: printed p. 382 (PDF 402): the grammar of 103.5; then Riks 103.6–8. Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
