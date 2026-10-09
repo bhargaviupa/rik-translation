@@ -14208,5 +14208,132 @@ The grammar of Rik 105.19 concludes (noted briefly). *Sarvavīrāḥ* (*sarve v�
 **अनुवादवु — Anuvāda (Kannada):** "From this Sūkta the sixteenth *anuvāka* of the first Maṇḍala begins. In this anuvāka (106–1[?]2 as read [?]) there are ten [?] Sūktas [the Sanskrit above says seventeen: *saptadaśa*; the Kannada numeral and word are read with doubt [?]]. Among them, this Sūkta *indraṃ mitram* is the first. It has seven Ṛks. In the Anukramaṇikā — '*indraṃ mitraṃ*' *(the passage continues on p. 530)*
 
 ---
+### Page 530 (PDF 550)
 
-**Progress note:** Printed pp. 1–529 done (PDF 21–549): **Sūkta 105 is complete** (printed pp. 439–529; 19 Ṛks). **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī, last Ṛk Triṣṭubh; begins the sixteenth anuvāka) begun at the foot of printed p. 529: the Kannada title and Sāyaṇa's introduction are done; the Anuvāda is cut at the page-foot ('In the Anukramaṇikā — indraṃ mitraṃ…'). Next: printed p. 530 (PDF 550); p. 531 or so will carry the heading block and Ṛk 106.1. Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 530; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+The Anuvāda of Sūkta 106 concludes: "…*saptā triṣṭubantam*' ['the last being Triṣṭubh'] is what has been said. The ṛṣi of this Sūkta is Kutsa; or, as an alternative, Trita may also be the ṛṣi. The deities are the Viśvedevas. The last Ṛk is in the Triṣṭubh metre; the remaining Ṛks are in the Jagatī metre. The application (*viniyoga*) is by indication (*laiṅgika*)."
+
+*(A rule of dashes follows.)*
+
+**॥ ओं ॥ — Om** *(printed)*
+
+**सूक्त — १०६ — Sūkta 106** *(printed heading block, in Kannada script and numerals)*
+
+- मण्डल १ · अनुवाक १६ · सूक्त १०६ — *Maṇḍala 1, Anuvāka 16, Sūkta 106.*
+- अष्टक १ · अध्याय ७ · वर्ग २४ — *Aṣṭaka 1, Adhyāya 7, Varga 24* (numerals as read, small [?]).
+- सूक्तदल्लिरुव ऋक्संख्ये — ७ — *Number of Ṛks in the sūkta: 7.*
+- ऋषिः — कुत्स आङ्गिरसः — *Ṛṣi: Kutsa Āṅgirasa.*
+- देवता — विश्वेदेवाः — *Deity: the Viśvedevas.*
+- छन्दः — १–६ जगती । ७ त्रिष्टुप् — *Metre: Ṛks 1–6 Jagatī; 7 Triṣṭubh.*
+
+## Rik 106.1 — printed pp. 530–534
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 106.1)**
+
+> इन्द्रं मित्रं वरुणमग्निमूतये मारुतं शर्धो अदितिं हवामहे ।
+> रथं न दुर्गाद्वसवः सुदानवो विश्वस्मान्नो अंहसो निष्पिपर्तन ॥ १ ॥
+
+*indraṃ mitraṃ varuṇam agnim ūtaye mārutaṃ śardho aditiṃ havāmahe | rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣ piparttana ‖ 1 ‖* *(accent-marks in the print not reproduced; the last word is printed "niṣpipartana" and read *niḥ piparta*[*na*] [?])*
+
+---
+
+### Page 531 (PDF 551)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 531.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 106.1)**
+
+> इन्द्रम् । मित्रम् । वरुणम् । अग्निम् । ऊतये । मारुतम् । शर्धः । अदितिम् । हवामहे ।
+> रथम् । न । दुःऽगात् । वसवः । सुऽदानवः । विश्वस्मात् । नः । अंहसः । निः । पिपर्तन ॥ १ ॥
+
+*indram | mitram | varuṇam | agnim | ūtaye | mārutam | śardhaḥ | aditim | havāmahe | ratham | na | duḥ-gāt | vasavaḥ | su-dānavaḥ | viśvasmāt | naḥ | aṃhasaḥ | niḥ | pipartana ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 106.1)**
+
+> ऊतये रक्षणाय वयमिन्द्रादीन्मारुतं शर्धो मरुत्समूहरूपं बलं च हवामहे । आह्वयामहे । वसवो निवासयितारः सुदानवः शोभनदाना इन्द्रादयो विश्वस्मात्सर्वस्मादंहसः पापान्नोऽस्मान्निष्पिपर्तन । निर्गमय्य पालयत । तत्र दृष्टान्तः । रथं न दुर्गात् । गन्तुमशक्यान्निम्नोन्नतात्पथो नात्पथाद्रथपतयो यथा रथं पालयन्ति तद्वत् ॥ अस्यत्पूर्ववत् [?] ॥ पिपर्तन । पृ पालनपूरणयोः । प्र इत्येके । लोटि तप्तनप्तनथनाश्चेति तस्य तनबादेशः । पिप्त्रेन [?] जुहोत्यादित्वाद्गुणः [?] । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वम् ॥
+> *ūtaye rakṣaṇāya vayam indrādīn mārutaṃ śardho marutsamūharūpaṃ balaṃ ca havāmahe | āhvayāmahe | vasavo nivāsayitāraḥ sudānavaḥ śobhanadānā indrādayo viśvasmāt sarvasmād aṃhasaḥ pāpān no 'smān niṣ piparttana | nirgamayya pālayata | tatra dṛṣṭāntaḥ | rathaṃ na durgāt | gantum aśakyān nimnonnatāt patho nātpathād rathapatayo yathā rathaṃ pālayanti tadvat ‖ asyatpūrvavat [?] ‖ pipartana | pṛ pālanapūraṇayoḥ | pra ity eke | loṭi taptanaptanathanāś ceti tasya tanabādeśaḥ | pipten [?] juhotyāditvād guṇaḥ [?] | artipiparty oś cety abhyāsasyetvam ‖* *(Sanskrit as read; the reading "nātpathād" and the words after "pipartana" in the tail are clotted and given with doubt [?]; the tail is short and is given.)*
+
+"For protection (*ūtaye*) we call on (*havāmahe*) Indra and the others, and the strength of the Maruts (*mārutaṃ śardhaḥ*) which has the form of the Maruts' host. O Vasus (*vasavaḥ*, those who give a dwelling), O liberal ones (*sudānavaḥ*), Indra and the others: lead us out, bring us out of all (*viśvasmāt*) sin (*aṃhasaḥ*), protect us. The illustration: *rathaṃ na durgāt* — as charioteers bring a chariot out of a place where it is impossible to go, a road uneven, up and down, so [bring us]. [The rest] as before."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 106.1; Kannada; English)**
+
+(*Vayam* — we) *ūtaye* — for protection; *indram* — Indra; *mitram* — Mitra; *varuṇam* — Varuṇa; *agnim* — Agni; *mārutam śardhaḥ* — the strength which has the form of the host of the Maruts; *aditim* — Aditi; *havāmahe* — we invoke in prayer; *vasavaḥ* — those who protect the dwelling-place, *sudānavaḥ* — exceedingly liberal Indra and the others; *durgāt* — from the impassable road; *ratham na* — as a charioteer [brings] the chariot safely through; *naḥ* — us; *viśvasmāt aṃhasaḥ* — from all sin; *niṣ piparttana* — [may you] make free and protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+For our protection we invoke Indra, Mitra, Varuṇa, Agni, the strength that has the form of the host of the Maruts, and Aditi. May Indra and the others, who protect our dwelling-place and are exceedingly liberal, as a charioteer brings the chariot safely through a road that cannot be crossed, free us from all sin and protect us.
+
+---
+
+### Page 532 (PDF 552)
+
+*(Running head: left 532; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 106".)*
+
+**English Translation (as printed in the source)**
+
+"We invoke, for our preservation, Indra, Mitra, Varuna, Agni, the might of the Maruts and Aditi ; may they, who are bountiful and bestowers of dwelling, extricate us from all sins, as a chariot from a defile."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 106.1)**
+
+**Mārutaṃ śardhaḥ** — "the word *śardha* is read among the names of strength (*Ni.* 2-[?] as read [?]). Here *marutsamūharūpaṃ balam* — 'the strength that has the form of the host of the Maruts': that is, the power of the Maruts that has the form of a combination.
+
+> सप्त सप्त हि मारुतो गणस्तस्मान्मारुतः सप्तकपालः ।
+> *sapta sapta hi māruto gaṇas tasmān mārutaḥ saptakapālaḥ |* (*Śa. Brā.* 2-5-[?]-[?] as read [?])
+
+> सप्त सप्त हि मारुतो गणः सर्वमेवैतेन रथं प्रीणाति ।
+> *sapta sapta hi māruto gaṇaḥ sarvam evaitena ratham prīṇāti |* (*Śa. Brā.* 3-4-3-[?] as read [?]; the last words as read, doubtful [?])
+
+— from sentences such as these it is known that the Maruts are always a band. In a group of that kind, various kinds of consciousness and of strength inhere naturally. The word *śardhaḥ* is a synonym that tells of the strength of that group. This word is used both in the neuter ending in *s* and in the masculine ending in *a*: in Ṛks such as 3-3[?]-[?], 3-[?]0-[?], 2-3[?]-[?] it ends in *a* [masculine]; here and in other places, such as 1-3[?]-[?], it ends in *s*. Although this word is generally used with reference to the Maruts, in some places it denotes the group of other deities too:
+
+> शृणोतु नो दैव्यं शर्धो अग्निः शृण्वन्तु विश्वे महिषा अमूराः ।
+> *śṛṇotu no daivyaṃ śardho agniḥ śṛṇvantu viśve mahiṣā amūrāḥ |* (*Ṛ. Saṃ.* 2-[?]4-[?] as read [?])
+
+> स आ वह देवताति यविष्ठ शर्धो यदद्य दिव्यं यजासि ।
+> *sa ā vaha devatāti yaviṣṭha śardho yad adya divyaṃ yajāsi |* (*Ṛ. Saṃ.* 3-[?]-[?] as read [?])
+
+> अस्तु श्रौषट् पुरो अग्निं धिया दध आ नु तच्छर्धो दिव्यं वृणीमह इन्द्रवायू वृणीमहे ।
+> *astu śrauṣaṭ puro agniṃ dhiyā dadha ā nu tac chardho divyaṃ vṛṇīmaha indravāyū vṛṇīmahe |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?]; as read from the print, the words crowded [?])
+
+— in all these, *daivyaṃ śardhaḥ* and *divyaṃ śardhaḥ* mean the combined strength of the divine ones. Likewise, when other worldly groups are referred to, this word is used, for example —
+
+> तं वः शर्धं रथानां त्वेषं गणं मारुतं नव्यसीनाम् ।
+> *taṃ vaḥ śardhaṃ rathānāṃ tveṣaṃ gaṇaṃ mārutaṃ navyasīnām |* (*Ṛ. Saṃ.* 5-[?]3-[?]0 as read [?])
+
+---
+
+### Page 533 (PDF 553)
+
+*(Running head: left "A. 1 A. 7 Va. 24 [?]"; centre "Ṛgvedasaṃhitā"; right 533.)*
+
+"— in this Ṛk *śardhaḥ* is the collective strength of chariots; and
+
+> आनाशां मघवञ्छर्धो यातुमतीनाम् ।
+> *ānāśāṃ maghavañ charddho yātumatīnām |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+— in this the sense is 'the strength of weapons, or of those who do harm'. In places like these, setting aside other examples, in all the contexts where the word *śardha* occurs the established sense is the strength of the Maruts."
+
+**Sudānavaḥ** — *śobhanadānāḥ indrādayaḥ |* "the Indras and others who are exceedingly liberal in giving: so it has been explained. The word *sudānavaḥ* may also mean 'full of *rasa* (juice)' or 'givers of rasa'. When this word is used as an epithet of the Maruts, 'givers of *rasa*' in some places is 'those who bring good rain'.
+
+> पिन्वन्त्यपो मरुतः सुदानवः पयो घृतवद्विदथेष्वाभुवः ।
+> *pinvanty apo marutaḥ sudānavaḥ payo ghṛtavad vidatheṣv ābhuvaḥ |* (*Ṛ. Saṃ.* 1-64-6 as read)
+
+— and in many other places, as the prayer is made to the Maruts with the epithet 'bringers of rain', this meaning is possible (the epithet *jīradānu* [quick-giving] also exists for the Maruts). Either meaning shows the liberality of the deities; but liberal giving is not only the work of the deities; it may refer to the sacrificer:
+
+> इषं स्तोतृभ्य आ भरा सुकृत्वे सुदानव आ बर्हिः सीदतं नरा ।
+> *iṣaṃ stotṛbhya ā bharā sukṛtve sudānava ā barhiḥ sīdataṃ narā |* [as read from the print, "iṣaṃ spṛṇvantā sukṛte sudānava ā barhiḥ sīdataṃ narā" [?]] (*Ṛ. Saṃ.* 1-4[?]-[?] as read [?])
+
+> सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्थैः ।
+> *sed agne astu subhagaḥ sudānur yas tvā nityena haviṣā ya ukthaiḥ |* (*Ṛ. Saṃ.* 4-4-[?] as read [?])
+
+— in all Ṛks such as these, *sudānu* is an epithet for the sacrificer, as 'one who gives well' (*śreṣṭha dānin*). In Ṛks such as 10-[?]-2 and others the word *dānu* can also have the meaning 'Soma-juice'. And further:
+
+> उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः ।
+> *uttarā sūr adharaḥ putra āsīd dānuḥ śaye sahavatsā na dhenuḥ |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> सदादानुं पुरुहूत क्षियन्तमहस्तमिन्द्र सं पिणक्कणारुम् ।
+> *sadā dānuṃ puruhūta kṣiyantam ahastam indra saṃ piṇak kaṇārum |* (*Ṛ. Saṃ.* 2-[?]0-[?] as read [?]; the last words are as read, doubtful [?])" *(the passage continues on p. 534)*
+
+---
+
+**Progress note:** Printed pp. 1–533 done (PDF 21–553): **Sūkta 106** (7 Ṛks; Kutsa; Viśvedevas; Jagatī 1–6, Triṣṭubh 7; printed pp. 529–[?]) in progress: Rik 106.1 (printed pp. 530–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha and printed English done (pp. 530–532); Special Topics begun (the topics *mārutaṃ śardhaḥ* and *sudānavaḥ*, ending at the foot of p. 533 mid-passage). Next: printed p. 534 (PDF 554). Sūkta 107 begins at printed p. 561. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
