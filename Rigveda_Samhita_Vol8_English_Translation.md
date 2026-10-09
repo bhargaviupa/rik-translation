@@ -10610,4 +10610,109 @@ Grammar page, noted briefly. It treats: *bhūrikarmaṇe* (*bhūri karma yasya s
 
 ---
 
-**Progress note:** Printed pp. 1–385 done (PDF 21–405): **Sūkta 103** (8 Ṛks) in progress: Rik 103.5 complete (pp. 378–383); Rik 103.6 (printed pp. 383–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics and the start of the grammar (*bhūrikarmaṇe*, *sunavāma*) done to p. 385. Next: printed p. 386 (PDF 406): the grammar of 103.6 continues; then Riks 103.7–8 (the last). Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+### Page 386 (PDF 406)
+
+*(Running head: left 386; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**Vyākaraṇa-prakriyā of Rik 103.6, concluded from p. 385 (grammar page, noted briefly; numerals small and doubtful [?])**
+
+Grammar page, noted briefly. The grammar of Rik 103.6 concludes: *ādṛtya* (root *dṛṅ ādare*; *ktvā* by *samānakartṛkayoḥ pūrvakāle* [Pā. Sū. 3-4-21 as read]; as the compound is formed with the preverb *ā*, *lyap* for it by *samāse 'nañpūrve ktvo lyap* [Pā. Sū. 7-1-37 as read]; by *sthānivadādeśo 'nalvidhau* [Pā. Sū. 1-1-56 as read] it is treated as *kṛt*, so *tuk* by *hrasvasya piti kṛti tuk* [Pā. Sū. 6-1-71 as read]; as it ends in *kit* it is acute on the last syllable); *paripanthīva* (by *chandasi paripanthiparipariṇau paryavasthātari* [Pā. Sū. 5-2-89 as read], formed by *nipātana*, ending in the affix *ini*); *ayajvanaḥ* (*na yajvā ayajvā*, the negative *tatpuruṣa*; the accent of the *nañ* stem kept by *tatpuruṣe tulyārthatṛtīyā…* [Pā. Sū. 6-2-2 as read]); *eti* (root *iṇ gatau*, *adādi*; *laṭ*, third person singular, *tip*; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72 as read]; *guṇa* of the root by *sārvadhātukārdhadhātukayoḥ*; because *yaḥ* is related to it, no *nighāta* by *yadvṛttānnityam* [Pā. Sū. 8-1-66 as read]; since *tip* is *pit*, unaccented, the root's accent remains); *vedaḥ* (root *vidḷ lābhe*; *asun*; *guṇa* of the root vowel; the form *vedas*; acute on the first syllable by *ñnityādir nityam* [Pā. Sū. 6-1-197 as read]). The Rik is closed with *‖ 6 ‖* and a printed ornament.
+
+## Rik 103.7 — printed pp. 386–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 103.7)**
+
+> तदिन्द्र प्रेव वीर्यं चकर्थ यत्ससन्तं वज्रेणाबोधयोऽहिम् ।
+> अनु त्वा पत्नीर्हृषितं वयश्च विश्वे देवासो अमदन्ननु त्वा ॥ ७ ॥
+
+*tad indra preva vīryaṃ cakartha yat sasantaṃ vajreṇābodhayo 'him | anu tvā patnīr hṛṣitaṃ vayaś ca viśve devāso amadann anu tvā ‖ 7 ‖*
+
+### Page 387 (PDF 407)
+
+*(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 387.)*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 103.7)**
+
+> तत् । इन्द्र । प्रऽइव । वीर्यम् । चकर्थ । यत् । ससन्तम् । वज्रेण । अबोधयः । अहिम् ।
+> अनु । त्वा । पत्नीः । हृषितम् । वयः । च । विश्वे । देवासः । अमदन् । अनु । त्वा ॥ ७ ॥
+
+*tat | indra | pra-iva | vīryam | cakartha | yat | sasantam | vajreṇa | abodhayaḥ | ahim | anu | tvā | patnīḥ | hṛṣitam | vayaḥ | ca | viśve | devāsaḥ | amadan | anu | tvā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 103.7)**
+
+> हे इन्द्र तद्वीर्यं वीरकर्म प्रेव चकर्थ । प्रख्यातमिवाकार्षीः । किं पुनस्तद्वीर्यं । ससन्तं स्वपन्तं मदोन्मत्तमहिं वृत्रं वज्रेण कुलिशेन यद्येन वीर्येण त्वमबोधयः । प्रबुद्धः सन्मया सह युद्धं करोश्चिति हृषितं तादृशस्य वृत्रस्य हननेन प्राप्तहर्षं त्वामनु पश्चात्पत्नीर्देवपत्न्य अमदन् । हर्षं प्राप्ताः । अपि च वयश्च गमनशीला मरुतोऽपि तथा विश्वे देवासोऽन्ये च सर्वे देवास्त्वामनु पश्चादमदन् । अमाद्यन् ॥ ससन्तं । षस स्वप्ने । अदादित्वाच्छपो लुक् । पत्नीः । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । अमदन् । मदी हर्षे । व्यत्ययेन शप् ॥
+> *he indra tad vīryaṃ vīrakarma preva cakartha | prakhyātam ivākārṣīḥ | kiṃ punas tad vīryaṃ | sasantaṃ svapantaṃ madonmattam ahiṃ vṛtraṃ vajreṇa kuliśena yad yena vīryeṇa tvam abodhayaḥ | prabuddhaḥ san mayā saha yuddhaṃ karoś citi hṛṣitaṃ tādṛśasya vṛtrasya hananena prāptaharṣaṃ tvām anu paścāt patnīr devapatnya amadan | harṣaṃ prāptāḥ | api ca vayaś ca gamanaśīlā maruto 'pi tathā viśve devāso 'nye ca sarve devās tvām anu paścād amadan | amādyan ‖ sasantaṃ | ṣasa svapne | adādityāc chapo luk | patnīḥ | vā chandasīti pūrvasavarṇadīrghatvaṃ | amadan | madī harṣe | vyatyayena śap ‖*
+
+*(The print's* karoś citi *is read as given, perhaps for* kuruṣveti *[?].)*
+
+"O Indra! That prowess, that heroic deed, you did, as if renowned. What was that prowess? By which you, with the thunderbolt, *abodhayaḥ* — awakened — *sasantam*, the sleeping, *ahim*, Vṛtra, drunk and wanton; [saying]: 'Awakened, make war with me'. After that — *tvām anu* — after you, *hṛṣitam*, who had obtained joy by the killing of such a Vṛtra, *patnīḥ*, the wives of the gods, *amadan* — rejoiced. And *vayaḥ* — the moving Maruts — and all the other gods, *viśve devāsaḥ*, after you, rejoiced."
+
+*(The grammatical tail is characterized:* sasanta *(root* ṣas *'to sleep', with the* luk *of* śap*);* patnīḥ *(the accusative plural, the long vowel by* vā chandasi*);* amadan *(root* mad*, with* śap *by* vyatyaya*).)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*indra* — O Indra; *sasantaṃ* — [who was] drunk with wanton pride; *ahiṃ* — Vṛtra; *vajreṇa* — with the thunderbolt; *yat* — by which prowess of yours; *abodhayaḥ* — [you] woke up (and then fought); *tat vīryaṃ* — that heroic deed of yours; *preva cakartha* — you made famous; *hṛṣitaṃ tvā* — you, who were gladdened (by the killing of Vṛtra); *anu* — following; *patnīḥ* — the wives of the gods; *amadan* — rejoiced; *vayaḥ ca* — the Maruts, whose nature is to move about; *viśve devāsaḥ* — (and) all the other gods; *tvā anu* — following you; (rejoiced)."
+
+### Page 388 (PDF 408)
+
+*(Running head: left 388; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 103".)*
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Indra, you killed with the thunderbolt Vṛtra, who was drunk with wanton pride, after waking him so that he might fight; by what heroic deed you made yourself famous. Following you, who were gladdened by the killing of Vṛtra, the wives of the gods, and the Maruts, who are of moving nature, and all the other gods, took part in your joy and rejoiced."
+
+**English Translation (as printed)**
+
+> You did Indra, a glorious deed, when you awakened the sleeping Ahi with your thunderbolt ; then the wives (of the gods), the Maruts, and all the gods, imitated your exultation.
+
+**॥ विशेषविषयाः ॥ — Special Topics of Rik 103.7 (Kannada)**
+
+"*Sasantaṃ* — *svapantaṃ* | *madonmattaṃ*: 'sleeping', 'drunk with wanton pride': [Sāyaṇa] says Vṛtra was lying carelessly, seeing the other gods with contempt in his pride of valour, and so this suggests the strength of Vṛtra.
+
+*Ahiṃ* — *vṛtram*: Sāyaṇa says it is Vṛtra; Skandasvāmin says *ahināmānam asuram*, 'the Asura named Ahi'. *Ahi* might be the name of another Asura, or an epithet of Vṛtra, or a synonym of Vṛtra; this has been explained with examples in the special topics of the Ṛk 103.2 of this same sūkta. Any meaning may be given here. But since in many places it is said of Vṛtra that he lay carelessly, in the form of water, in deep sleep, and since there is another name for Vṛtra, *ahi*, it is proper to say here that *ahi* means Vṛtra. The description that Indra struck the Vṛtra who lay asleep without a care, and awakened him, is found in the same manner in many other places."
+
+> त्वं वृत्रमाशयानं सिरासु महो वज्रेण सिष्वपो वराहुम् ।
+> *tvaṃ vṛtram āśayānaṃ sirāsu maho vajreṇa siṣvapo varāhum |*
+> (*Ṛ. Saṃ.* 1-[?]0-1[?] as read [?])
+
+> अहिं चिदुग्र प्रयुतं शयानं जघन्वाँ इन्द्र तविषीमधत्थाः ।
+> *ahiṃ cid ugra prayutaṃ śayānaṃ jaghanvām̐ indra taviṣīm adhatthāḥ |*
+> (*Ṛ. Saṃ.* 3-[?]-[?] as read [?])
+
+"— since in Ṛks like these Vṛtra is described as lying asleep, and since in sūktas such as 1-3[?] the identity of Vṛtra and Ahi is stated, in this Ṛk too *ahi* must be taken as meaning Vṛtra, as Sāyaṇa says."
+
+### Page 389 (PDF 409)
+
+*(Running head: left "A. 1 A. 7 Va. 17 [?]"; centre "Ṛgvedasaṃhitā"; right 389.)*
+
+"*Vayaḥ* — *gamanaśīlā maruto 'tra vayaḥ ucyante*: here the Maruts are called *vayaḥ*, because of their being of moving nature, and because of their likeness to birds (*pakṣi*), since *vayaḥ* means 'birds' [in the sense that] they always move about: *vayaḥ* means the Maruts: this is the intention.
+
+*Preva cakartha* — *prakhyātam ivākārṣīḥ*: 'you made [it] famous': Indra is praised, saying: 'you have made [your deed] known to all the worlds'. And on account of this kind of help —
+
+*Patnīḥ amadan, viśve devāsaḥ tvā anu* — 'the wives of the gods praised Indra and made their joy known; all the gods rejoiced': this is said in all the places where the slaying of Vṛtra is described. For example —"
+
+> अस्मा इदु ग्नाश्चिद्देवपत्नीरिन्द्रायार्कमहिहत्य ऊवुः ।
+> *asmā id u gnāś cid devapatnīr indrāyārkam ahihatya ūvuḥ |*
+> (*Ṛ. Saṃ.* 1-61-8 as read [?])
+
+"— at the time of the slaying of Vṛtra, the wives of the gods, addressing Indra, recited praise as a means of worship and so praised Indra. And —"
+
+> यत्सीमनु प्र मुचो बद्बधाना दीर्घामनु प्रसितिं स्यन्दयध्यै ।
+> *yat sīm anu pra muco badbadhānā dīrghām anu prasitiṃ syandayadhyai |*
+> (*Ṛ. Saṃ.* 4-[?]2-2 as read [?])
+
+"— all the rivers, protected by you, praise you; and moreover —"
+
+> अनु त्वाहिघ्ने अध देव देवा मदन्विश्वे कवितमं कवीनाम् ।
+> *anu tvāhighne adha deva devā madan viśve kavitamaṃ kavīnām |*
+> (*Ṛ. Saṃ.* 6-[?]4-[?]4 as read [?])
+
+"— in the same way that, in all places where the slaying of Vṛtra is described — [as in] 'at the time of the slaying of Vṛtra in the form of Ahi, all the gods rejoiced' and the like — all the wives of the gods, and all the rivers freed from Vṛtra, made praises addressed to Indra, and all the gods made manifest their joy: that same point is made here also.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 103.7)** *(grammar pages, begun on p. 389, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. It treats: *cakartha* (root *ḍukṛñ karaṇe*; *liṭ*, second person singular; because of the *kradi* rule, no augment *iṭ*; *nighāta* at the end of the verb); *sasantam* (root *ṣasa svapne*, *adādi*; *śatṛ* in the sense of the present; *luk* of *śap* by *adiprabhṛtibhyaḥ śapaḥ* [Pā. Sū. 2-4-72 as read]; *s* for the initial *ṣ* by *dhātvādeḥ ṣaḥ saḥ* [Pā. Sū. 6-1-64 as read]; the form *sasat*; accent by the affix; in the accusative singular, *am*; *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* [Pā. Sū. 7-1-70 as read]; the anusvāra, then *parasavarṇa*)" *(the grammar continues on the next page)*
+
+---
+
+**Progress note:** Printed pp. 1–389 done (PDF 21–409): **Sūkta 103** (8 Ṛks) in progress: Rik 103.6 complete (pp. 383–386); Rik 103.7 (printed pp. 386–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics (*sasantam*, *ahim*, *vayaḥ*, *patnīḥ amadan*) and the start of the grammar done to p. 389. Next: printed p. 390 (PDF 410): the grammar of 103.7 continues; then Rik 103.8 (the last Rik) and the close of Sūkta 103 (printed pp. 390–393); Sūkta 104 begins at printed p. 394. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
