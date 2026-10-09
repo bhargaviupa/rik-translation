@@ -18925,5 +18925,98 @@ In places such as this, the qualities described are set out again here.
 > *(Bṛhaddevatā citation; Sanskrit as read from the print, doubtful in the second line [?]; no gloss attempted. The passage continues past the foot of this page [?].)*
 
 ---
+### Page 705 (PDF 725)
 
-**Progress note:** Printed pp. 1–704 done (PDF 21–724): Sūkta 110 complete (pp. 657–701; closing line 'nūra hattane sūktavu mugidudu' on p. 701). Sūkta 111 (printed pp. 701–721; five Ṛks, Kutsa Āṅgirasa, the Ṛbhus; four Jagatī and a final Triṣṭubh): title and Sāyaṇa's introduction (p. 701), heading (p. 702), Rik 111.1 (pp. 702–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English done; Special Topics begun (the Bṛhaddevatā citation at the foot of p. 704). Next: printed p. 705 (PDF 725). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 705. At the foot, the printer's signature "45 / VOLUME 8" — noted only.)*
+
+*(The Special Topics of Rik 111.1 conclude; so the Bṛhaddevatā citation at the foot of p. 704 ended there.)* "…As the Ṛbhus' extraordinary works are described in many places, so here too they are read of again. But because Kutsa and the Ṛbhus belong to one and the same lineage, one sees in his description of them a greater affection than in the descriptions in the hymns of Vāmadeva and the others."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 111.1)** *(grammar pages, pp. 705–706, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Takṣan*: root *takṣū tvakṣū tanūkaraṇe*; *laṅ*, third-person plural, *jhi*; by *jho 'ntaḥ* (*pā.* 7-1-3) *anta*; loss of the final *i* by *itaś ca* (*pā.* 3-4-100 as read [?]); the sign *śap*; *pararūpa* by *ato guṇe* (*pā.* 6-1-97 as read [?]); by *bahulaṃ chandasy amāṅyoge 'pi* (*pā.* 6-4-75 as read [?]) the augment *aṭ* does not occur; since it is at the beginning of a *pāda* the *nighāta* does not occur; because the *sārvadhātuka* is *anudātta* by *lasārvadhātukam anudāttam* the root-accent remains. *Suvṛtam*: 'what runs well' = *suvṛt*; root *vṛtu vartane*; *kvip ca* (*pā.* 3-2-76 as read [?]) gives *kvip*; the stem *suvṛt*; *gatikārakopapadāt kṛt* (*pā.* 6-2-139 as read [?]) gives the *kṛdanta* the accent of its prior member; accusative singular. *Vidmanāpasaḥ*: root *vida jñāne*; by *anyebhyo 'pi dṛśyante* (*pā.* 3-2-75 as read [?]) — the *dṛśi* listing — *manin* in the abstract sense; a rule that has a technical term first is not constant (*saṃjñāpūrvako vidhir anityaḥ*), so the *guṇa* of the light penultimate does not arise; 'works [*apaḥ*] of which there is *vidmanā*' = *vidmanāpasaḥ*; by *bahulavacana* the case-ending is not dropped in the compound (*aluk*); or else, root *viḍḷ lābhe*, with an Uṇādi *muk* in the abstract sense; being *kit* there is no *guṇa* of the root; then, because it joins the *pāmādi* class [?], the suffix [rule not specified [?]]; *vidmanam* means 'gain'; 'works [that have] gain' = *vidmanaṃ lābhavat apaḥ karma yeṣām*; *bahuvrīhau prakṛtyā pūrvapadam* (*pā.* 6-2-1 as read [?]) gives the prior member its own accent; the Vedic lengthening to the earlier homogeneous vowel. *Indravāhā*: 'they carry Indra'; root *vaha prāpaṇe*; by *vahaś ca* (*pā.* 3-2-64 as read [?]) *ṇvi* in the Veda; *vṛddhi* of the penultimate by *ata upadhāyāḥ* (*pā.* 7-2-116 as read [?]); in *ṇvi* everything is lost; the stem *indravāh*; in the dual, with the *au* case-ending, by *supāṃ suluk* (*pā.* 7-1-39 as read [?]) the *ā*-substitute; *gatikārakopapadāt kṛt* gives the *kṛdanta*-accent. *Vṛṣaṇvasū*: root *vṛṣa secane*; the suffix *kanin* by *kanin yuvṛṣitakṣi…* (*Uṇ.* 1-156 as read [?]); being *nit*, the first syllable is *udātta* by *ñnityādir nityam*; *vṛṣaṇ* before the second member *vasu* by *vṛṣaṇvaśvayor upasaṅkhyānam* (a *vārttika*; *pā.* 6-4-[?] as read [?]); *bahuvrīhau prakṛtyā pūrvapadam*; accusative dual.
+
+---
+
+### Page 706 (PDF 726)
+
+*(Running head: left 706; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+*(Grammar, concluded; short.)* …*the accent of the prior member by* bahuvrīhau prakṛtyā pūrvapadam; *the dual.* *Yuvat*: root *yu miśraṇāmiśraṇayoḥ*; the suffix *kanin* by *kanin yuvṛṣi…* (*Uṇ.* 1-156 as read [?]); here the word *yuvan*, by its force, indicates the quality (*dharma*) which is the cause of application of the word, *yuvatva*, 'youthfulness'; this is called *bhāvapradhānanirdeśa*, an expression in which the abstract sense is primary; to it the suffix *matup* in the sense of 'there is this in it'; the Vedic loss of a letter in the middle (the *n*); since *matup* is *pit*, the root-accent remains; in the accusative singular, *luk* of *am* by *svamor napuṃsakāt* (*pā.* 7-1-23 as read [?]). ‖ 1 ‖
+
+*(An ornament closes Rik 111.1.)*
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 111.2)** *(accent-marks not reproduced)*
+
+> आ नो यज्ञाय तक्षत ऋभुमद्वयः क्रत्वे दक्षाय सुप्रजावतीमिषम् ।
+> यथा क्षयाम सर्ववीरया विशा तन्नः शर्धाय धासथा स्विन्द्रियम् ॥ २ ॥
+> *ā no yajñāya takṣata ṛbhumad vayaḥ kratve dakṣāya suprajāvatīm iṣam |*
+> *yathā kṣayāma sarvavīrayā viśā tan naḥ śardhāya dhāsathā svindriyam ‖ 2 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 111.2)**
+
+> आ । नः । यज्ञाय । तक्षत । ऋभुऽमत् । वयः । क्रत्वे । दक्षाय । सुऽप्रजावतीम् । इषम् ।
+> यथा । क्षयाम । सर्वऽवीरया । विशा । तत् । नः । शर्धाय । धासथ । सु । इन्द्रियम् ॥ २ ॥
+> *ā | naḥ | yajñāya | takṣata | ṛbhu-mat | vayaḥ | kratve | dakṣāya | su-prajāvatīm | iṣam |*
+> *yathā | kṣayāma | sarva-vīrayā | viśā | tat | naḥ | śardhāya | dhāsatha | su | indriyam ‖ 2 ‖*
+
+*(As printed, the Saṃhitā has* dhāsathā *and the Pada* dhāsatha; *recorded as read.)*
+
+---
+
+### Page 707 (PDF 727)
+
+*(Running head: left small Kannada numerals "Aṣṭ. 1 Adh. 7 Va. 33 [?]"; centre "Ṛgvedasaṃhitā"; right 707.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 111.2)**
+
+> हे ऋभवो नोऽस्माकं यज्ञाय यज्ञार्थमृभुमदुरुभासनयुक्तं वयो हविर्लक्षणमन्नमा तक्षत । आ समन्तादुत्पादयत । एतदेव विव्रियते । क्रत्वे कृतये [?] ऽस्मदीयाय कर्मणे दक्षाय बलाय च । तादर्थ्ये चतुर्थी । एतदुभयार्थं सुप्रजावतीं शोभनाभिः पुत्रपौत्रादिलक्षणाभिः प्रजाभिर्युक्तामिषमन्नमा तक्षतेति शेषः । अपि च सर्ववीरया सर्ववीरैः पुत्रादिभिरुपेतया विशा प्रजया सह यथा येन प्रकारेण क्षयाम सुखेन निवसाम तत्तादृशमिन्द्रियं धनम् । धनं नोऽस्मभ्यं शर्धाय बलार्थं सु धासथ । सुष्ठु धत्त । प्रयच्छतेत्यर्थः ॥ ऋभुमत् । उरु भातीति नैरुक्तव्युत्पत्त्या ऋभुशब्दः प्रकाशमात्रवाची । ह्रस्वनुड्भ्यां मतुबिति मतुप उदात्तत्वम् । क्रत्वे । जसादिषु छन्दसि वा वचनमिति घेर्ङितीति [?] गुणाभावे यणादेशः । क्षयाम । क्षि निवासगत्योः । व्यत्ययेन शप् । धासथा । धाञो लेट्यडागमः । सिब्बहुलं लेटीति सिप् । अन्येषामपि दृश्यत इति संहितायां दीर्घत्वम् ॥
+> *he ṛbhavo no 'smākaṃ yajñāya yajñārtham ṛbhumad urubhāsanayuktaṃ vayo havirlakṣaṇam annam ā takṣata | ā samantād utpādayata | etad eva vivriyate | kratve kṛtaye [?] 'smadīyāya karmaṇe dakṣāya balāya ca | tādarthye caturthī | etad ubhayārthaṃ suprajāvatīṃ śobhanābhiḥ putrapautrādilakṣaṇābhiḥ prajābhir yuktām iṣam annam ā takṣateti śeṣaḥ | api ca sarvavīrayā sarvavīraiḥ putrādibhir upetayā viśā prajayā saha yathā yena prakāreṇa kṣayāma sukhena nivasāma tat tādṛśam indriyaṃ dhanam | dhanaṃ no 'smabhyaṃ śardhāya balārthaṃ su dhāsatha | suṣṭhu dhatta | prayacchatety arthaḥ ‖ ṛbhumat | uru bhātīti nairuktavyutpattyā ṛbhuśabdaḥ prakāśamātravācī | hrasvanuḍbhyāṃ matub iti matupa udāttatvam | kratve | jasādiṣu chandasi vā vacanam iti gher ṅitīti [?] guṇābhāve yaṇādeśaḥ | kṣayāma | kṣi nivāsagatyoḥ | vyatyayena śap | dhāsathā | dhāño leṭy aḍāgamaḥ | sibbahulaṃ leṭīti sip | anyeṣām api dṛśyata iti saṃhitāyāṃ dīrghatvam ‖*
+
+*(Sanskrit as read; the words marked [?] are doubtful in the print and are not completed from memory.)*
+
+"O Ṛbhus, *naḥ*, for our *yajñāya*, for the sake of the sacrifice, make for us (*ā takṣata*, produce on every side) *vayaḥ*, food of the nature of oblation, *ṛbhumat*, endowed with a wide radiance. This itself is made plain: *kratve*, for our work, [i.e. for our rite], *dakṣāya*, and for strength: the dative is in the sense of 'for the sake of'. For both these purposes, *suprajāvatīm iṣam*: food provided with good offspring, with fine sons and grandsons and the like — [prepare] it: so much is to be supplied. And further: *sarvavīrayā viśā*, together with offspring provided with all heroes, sons and the rest, *yathā*, in the way in which we may *kṣayāma*, dwell in comfort — such *indriyam*, wealth, *naḥ*, to us, for the sake of *śardhāya*, strength, *su dhāsatha*, give well; that is, bestow."
+
+*Grammatical tail (characterized, short):* *ṛbhumat*: by the Nirukta derivation '*uru bhāti*' the word *ṛbhu* denotes mere 'shining'; the suffix *matup* by *hrasvanuḍbhyāṃ matub*, giving the *matup* the *udātta*. *Kratve*: by *jasādiṣu chandasi vā vacanam*, with [the rule on] *ghi* and the *ṅit* [case-ending] [?], where *guṇa* does not arise, the *yaṇ* substitution. *Kṣayāma*: root *kṣi nivāsagatyoḥ*; *śap* by *vyatyaya*. *Dhāsathā*: root *dhāñ* in *leṭ*, with the augment *aṭ*; *sip* by *sibbahulaṃ leṭi*; *anyeṣām api dṛśyate* gives the lengthening in the Saṃhitā.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 111.2; Kannada; English)**
+
+*Ṛbhavaḥ* — O Ṛbhus; *naḥ* — our; *yajñāya* — for the sake of the sacrifice; *ṛbhumat* — exceedingly luminous; *vayaḥ* — food in the form of oblation; *ā takṣata* — prepare completely; *kratve* — for (our) work; *dakṣāya* — and for strength; *suprajāvatīm* — provided with excellent offspring, sons, grandsons, and the rest; *iṣam* — food (prepare it); *sarvavīrayā* — with all heroic sons; *viśā* — together with offspring; *yathā* — in whatever way (with what wealth); *kṣayāma* — [may we] dwell (happily); *tat* — such; *indriyam* — wealth; *naḥ* — to us; *śardhāya* — for strength; *su dāsatha* — give in abundance.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+O Ṛbhus! For the sake of our sacrifice, prepare for us food in the form of oblation, exceedingly luminous. For our work and for our strength, prepare food provided with excellent offspring, sons, grandsons and the rest. And fill [us] for the sake of strength with such wealth as that with which we may dwell happily together with offspring provided with all heroic sons.
+
+**English Translation (as printed in the source; Rik 111.2)**
+
+"Prepare fully for our sacrifice resplendent sacrificial food, and, for our rite and for our strength, such nutriment as may be the cause of excellent *(the printed English continues on p. 708)*
+
+---
+
+### Page 708 (PDF 728)
+
+*(Running head: left 708; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 111".)*
+
+*(The English concludes:)* "…progeny, so that we may live (surrounded) by vigorous descendants; such wealth do you confer upon us for our benefit."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 111.2)**
+
+**ऋभुमत् वयः — Ṛbhumat vayaḥ.** *ṛbhavaḥ* — "*uru bhāntīti vā*" (*Ni.* 11-[?] as read [?]): on the basis of this Nirukta sentence Sāyaṇa explains *uru bhāsamānaṃ havirlakṣaṇam annam* — 'food in the form of oblation, greatly shining'; i.e. food of extremely shining oblation-form. And Skandasvāmi:
+
+> ऋभवो … व्यत्ययेन सम्बन्धिनो यस्य सन्ति तदृभुमत् । युष्माकमेव ऋभूणां योग्यमित्यर्थः ।
+> *ṛbhavo … vyatyayena sambandhino yasya santi tad ṛbhumat | yuṣmākam eva ṛbhūṇāṃ yogyam ity arthaḥ |*
+> *(Sanskrit as read; the clause after* ṛbhavo *is clotted [?].)*
+> "That which has Ṛbhus in connection [with it] is *ṛbhumat*: that is, [food] meet for you, the Ṛbhus themselves."
+
+— Skandasvāmi explains it as the food that has the Ṛbhus as its connection, that is, the food of these very Ṛbhus who are sacrificers and are shareholders in this oblation-form food.
+
+**इन्द्रियम् — Indriyam.** Here the word *indriya* may be taken to mean 'wealth' or 'heroism'.
+
+**शर्धाय — Śardhāya.** *utsāhāya balāya vā* — "for energy or for strength": for our energy, or our strength. The word *śardha* is read among the names of strength. The usages of the word *śardha*, according to the contexts, have been explained in the Special Topics of Ṛk 1-106-1 [as read; I have not re-checked this cross-reference].
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 111.2)** *(grammar page, noted briefly; sūtra numbers only as read, doubtful [?])*
+
+*Yajñāya*: root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *naṅ* by *yajayācayatavichapraccharakṣo naṅ* (*pā.* 3-3-90 as read [?]); the suffix-accent makes it end in *udātta*; dative singular. *Takṣata*: root *takṣū tanūkaraṇe*; *loṭ*, second-person plural; *nighāta* after a finite verb. *Ṛbhumat*: the word *ṛbhu* has the Nirukta derivation '*uru bhāti*' (*Ni.* 11-[?]), which shows it denotes only 'luminous'; 'to this belongs ṛbhu' = *ṛbhumat*; *matup* by *tad asyāsty asmin*; the *matup* takes *udātta* by *hrasvanuḍbhyāṃ matup* (*pā.* 6-1-176 as read [?]). *Kratve*: the word *kratu*; the dative ending follows; by *jasādiṣu chandasi vā vacanam* (*pā.* 7-3-109 as read [?]) [the rule on] *ghi*, *ṅiti*, *guṇa* does not arise (*pā.* 7-3-111 as read [?]); then the *yaṇ* substitution. *Yathā*: by *nipātasya ca* (*pā.* 6-3-136 as read [?]) the lengthening in the Veda. *Kṣayāma*: root *kṣi nivāsagatyoḥ*; *loṭ*, first-person plural, *mas*; because of *liḍvadbhāva* [?], by *nityaṃ ṅitaḥ* (*pā.* 3-4-99 as read [?]) the loss of *s*; by *vyatyayo bahulam* (*pā.* 3-1-85 as read [?]) the sign *śap* comes; with it as the cause … *(the page ends mid-sentence; the grammar continues on p. 709)*
+
+---
+
+**Progress note:** Printed pp. 1–708 done (PDF 21–728): Sūkta 111: Rik 111.1 complete (pp. 702–706); Rik 111.2 (printed pp. 706–[?]): Saṃhitā, Pada, bhāṣya with tail, Pratipadārtha, Bhāvārtha, English, Special Topics done; its grammar page begun (*kṣayāma*, ending mid-sentence at the foot of p. 708). Next: printed p. 709 (PDF 729). Sūkta 112 begins at p. 722; last printed page about 832. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
