@@ -16964,5 +16964,89 @@ O Indra and Agni, I have heard that you two are greater givers of wealth than th
 — the southern people (*dākṣiṇātya*) call the husband of a purchased girl a *vijāmātṛ*: his is not a true relation (*sambandha*) that has been fully accomplished [?]. Since he produces offspring, the name *jāmātṛ* has arisen. As an explanation of the meaning of the word *syāla*, the learned say that the wife's brother is called *syāla* since he has the closest connection [?] (*atyanta hatti ravāda saṃbandha*); or else, because he helps to take the parched grain (*lāja*) out of the *syā* [the winnowing-basket] to pour into the fire at the time of marriage, so the name *syāla* has arisen. Indra and Agni are more generous than such *vijāmātṛ*s and *syāla*s: that is the purport. For the word *navya* the sense is *navatara*, 'exceedingly new': the prayer is made: 'I compose such a new and exceedingly attractive hymn.'"
 
 ---
+### Page 630 (PDF 650)
 
-**Progress note:** Printed pp. 1–629 done (PDF 21–649): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Rik 109.1 complete (pp. 621–626); Rik 109.2 (printed pp. 627–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*vijāmātuḥ*, with the Nirukta passage) at p. 629. Next: printed p. 630 (PDF 650). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 630; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 109.2)** *(grammar page, noted briefly; numerals small and doubtful [?])*
+
+Grammar page, noted briefly. *Aśravam* (root *śru śravaṇe*; *laṅ*, first person singular, *mip*; *am* for *mip* by *tasthasthamipāṃ…*, Pā. Sū. 3-4-101 as read [?]; *luk* of the vikaraṇa by *bahulaṃ chandasi*; since *ap* is the cause, *guṇa* of the root's *ik*, *av*; the augment *aṭ*; the form *aśravam*; since the word begins a pāda, no *nighāta*; because the augment is *udātta*, the word has the initial acute). *Bhūridāvattarā* (root *ḍudāñ dāne*; the suffix *vanip* by *āto manin-kvanib-vanipaś ca*, Pā. Sū. 3-2-74 as read [?]; the word *bhūridāvan*; in the sense of a high degree, *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. Sū. 5-3-57 as read [?]; since it has the name *pada*, the loss of *n* by *nalopaḥ prātipadikāntasya*, Pā. Sū. 8-2-7 as read [?]; the augment *tuṭ* before *tarap* by *bhūridāvnas tuṭ* [vārttika], Pā. Sū. 8-2-1[?] as read [?]; the form *bhūridāvattara*; before the dual, *ā* for the ending by *supāṃ suluk*, Pā. Sū. 7-1-39 as read [?]). *Gha* (*ṛci tunughamakṣu…*, Pā. Sū. 6-3-133 as read [?]: lengthening in the Saṃhitā). *Atha* (*nipātasya ca*, Pā. Sū. 6-3-136 as read [?]: lengthening in the Saṃhitā). *Prayatī* (root *yamu uparame*; *ktin* in the feminine by *striyāṃ ktin*, Pā. Sū. 3-3-94 as read [?]; because of the cause, the loss of the nasal *m* of the root by *anudāttopadeśavanatitanotyādīnām*, Pā. Sū. 6-4-37 as read [?]; because the word ends in *ktin*, being followed [by a *tādi*], the accent of the prior member, *pra*, of the *gati* by *tādau ca niti kṛty atau*, Pā. Sū. 6-2-50 as read [?]; the dual). *Yuvabhyām* (the word *yuṣmad*; the dative dual *bhyām*; *yuvāvau dvivacane*, Pā. Sū. 7-2-92 as read [?]: *yuva* for the part up to *ma*; by the statement *sarve vidhayaś chandasi vikalpyante* the *ā* by *yuṣmadasmador anādeśe*, Pā. Sū. 7-2-8[?] as read [?], does not arise; *śeṣe lopaḥ*, Pā. Sū. 7-2-90 as read [?]: the loss of *d*). *Janayāmi* (root *janī prādurbhāve*; since the instigator's action is shown, *ṇic* by *hetumati ca*, Pā. Sū. 3-1-26 as read [?]; the *vṛddhi* of the penult; *janījṛṣkna…*, Pā. Sū. 3-3-... [as printed: *janījṛṣṇasu…*] *mit* for the root, and the shortening of the *mit* penult by *mitāṃ hrasvaḥ*, Pā. Sū. 6-4-92 as read [?]; *laṭ*, first person singular, *mip*; *śap* as the vikaraṇa; because of it, *guṇa* of *ṇic*, *ay*; *nighāta*). The Rik is closed with *‖ 2 ‖* and a rule of dashes.
+
+---
+
+### Page 631 (PDF 651)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 631.)*
+
+## Rik 109.3 — printed pp. 631–[?]
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 109.3)**
+
+> मा च्छेद्म रश्मीँरिति नाधमानाः पितॄणां शक्तीरनुयच्छमानाः ।
+> इन्द्राग्निभ्यां कं वृषणो मदन्ति ता ह्यद्री धिषणाया उपस्थे ॥ ३ ॥
+
+*mā cchedma raśmīṃr iti nādhamānāḥ pitṝṇāṃ śaktīr anuyacchamānāḥ | indrāgnibhyāṃ kaṃ vṛṣaṇo madanti tā hy adrī dhiṣaṇāyā upasthe ‖ 3 ‖* *(accent-marks in the print not reproduced; the Saṃhitā's "mā cchedma" is the Pada's "mā | chedma")*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Rik 109.3)**
+
+> मा । छेद्म । रश्मीन् । इति । नाधमानाः । पितॄणाम् । शक्तीः । अनुऽयच्छमानाः ।
+> इन्द्राग्निऽभ्याम् । कम् । वृषणः । मदन्ति । ता । हि । अद्री इति । धिषणायाः । उपऽस्थे ॥ ३ ॥
+
+*mā | chedma | raśmīn | iti | nādhamānāḥ | pitṝṇām | śaktīḥ | anu-yacchamānāḥ | indrāgni-bhyām | kam | vṛṣaṇaḥ | madanti | tā | hi | adrī iti | dhiṣaṇāyāḥ | upa-sthe ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 109.3)**
+
+> रश्मीन् । रश्मिशब्दो रज्जुवाची । यथा रश्मयो दीर्घा अविच्छिन्ना भवन्ति । एवमविच्छिन्नान्पुत्रपौत्रादीन्मा छेद्म मा विच्छिन्नान्कुर्मेति बुद्ध्या नाधमाना इन्द्राग्न्योः सकाशात्तथाविधान्पुत्रादीन्याचमानाः । तदनन्तरं पितॄणां शक्तीः शक्तिप्रदानादीनि कर्मोत्पादकान्पुत्रादीनन्यच्छमाना अनुक्रमेण नियतान्कुर्वन्तो वृषणः सेक्तारः पुत्रोत्पादनसमर्थाः । सपत्नीका इत्यर्थः । एवंभूता यजमाना इन्द्राग्निभ्यां कं सुखं यथा भवति तथा मदन्ति । स्तुवन्ति । हि यस्माद्द्री शत्रून्द्रवन्तौ हिंसन्तौ विदारयन्तौ ताविन्द्राग्नी धिषणायाः स्तुत्या उपस्थे उपस्थाने समीपे भवतः । तस्मात्तत्स्वाभिध्यायै स्तुवन्तीति भावः । यद्वा निपातानामनेकार्थत्वात् हिशब्दो यदेत्यर्थः । यदा ताविन्द्राग्नी उद्दिश्यादी अभिषवसाधनभूता ग्रावाणो धिषणाया उपस्थे । धिषणाधिषवणफलकं । तस्योपरिष्ठादिन्द्राग्न्यर्थं सोममभिषुण्वन्ति । तदा तदा यजमानाः स्तुवन्तीति योजनीयम् ॥ छेद्म । छिदिर् द्वैधीकरणे । लुङि बहुलं छन्दसीति विकरणस्य लुक् । छन्दस्युभयथेत्यार्धधातुकत्वेन ङित्त्वाभावाल्लघूपधगुणः । न माङ्योग इत्यडभावः । रश्मीन् । दीर्घादटि समानपाद इति संहितायां नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु वेत्यनुनासिकः सानुनासिकः । नाधमानाः । णाध्य याच्ञायाम् । पितॄणाम् । नामन्यतरस्यामिति नाम उदात्तत्वम् । मदन्ति । मदि स्तुतौ । आगमानुशासनस्यानित्यत्वान्नुमभावः । व्यत्ययेन परस्मैपदम् ॥
+> *raśmīn | raśmiśabdo rajjuvācī | yathā raśmayo dīrghā avicchinnā bhavanti | evam avicchinnān putrapautrādīn mā chedma mā vicchinnān kurmeti buddhyā nādhamānā indrāgnyoḥ sakāśāt tathāvidhān putrādīn yācamānāḥ | tadanantaraṃ pitṝṇāṃ śaktīḥ śaktipradānādīni karmotpādakān putrādīn anyacchamānā anukrameṇa niyatān kurvanto vṛṣaṇaḥ sektāraḥ putrotpādanasamarthāḥ | sapatnīkā ity arthaḥ | evaṃbhūtā yajamānā indrāgnibhyāṃ kaṃ sukhaṃ yathā bhavati tathā madanti | stuvanti | hi yasmād adrī śatrūn dravantau hiṃsantau vidārayantau tāv indrāgnī dhiṣaṇāyāḥ stutyā upasthe upasthāne samīpe bhavataḥ | tasmāt tatsvābhidhyāyai stuvantīti bhāvaḥ | yadvā nipātānām anekārthatvāt hiśabdo yadety arthaḥ | yadā tāv indrāgnī uddiśyādī abhiṣavasādhanabhūtā grāvāṇo dhiṣaṇāyā upasthe | dhiṣaṇā adhiṣavaṇaphalakaṃ | tasyopariṣṭhād indrāgnyarthaṃ somam abhiṣuṇvanti | tadā tadā yajamānāḥ stuvantīti yojanīyam ‖ chedma | chidir dvaidhīkaraṇe | luṅi bahulaṃ chandasīti vikaraṇasya luk | chandasy ubhayatheti ārdhadhātukatvena ṅittvābhāvāl laghūpadhaguṇaḥ | na māṅyoga ity aḍabhāvaḥ | raśmīn | dīrghād aṭi samānapāda iti saṃhitāyāṃ nakārasya rutvam | atrānunāsikaḥ pūrvasya tu veti anunāsikaḥ sānunāsikaḥ | nādhamānāḥ | ṇādha yācñāyām | pitṝṇām | nāmanyatarasyām iti nāma udāttatvam | madanti | madi stutau | āgamānuśāsanasyānityatvān numabhāvaḥ | vyatyayena parasmaipadam ‖* *(Sanskrit as read; "tatsvābhidhyāyai" and "uddiśyādī" are clotted and given with doubt [?]; the tail is given in brief.)*
+
+"*Raśmīn*: the word *raśmi* means a rope. As ropes are long and unbroken, so, *mā chedma*, 'let us not cut off': with the thought 'let us not make our sons, grandsons and the like cut off', *nādhamānāḥ*, praying, begging from Indra and Agni such sons and the rest. Then, *pitṝṇāṃ śaktīḥ*: the powers of the ancestors — those sons and others who bring about works such as giving of power; *anuyacchamānāḥ* — receiving in due order, making them regular — the *vṛṣaṇaḥ*, the sprinklers, those able to beget sons, together with their wives: such sacrificers *kam madanti*, rejoice (praise) so that happiness may be [theirs] from Indra and Agni. *Hi*: because the two, the *adrī* — destroying (*dravantau*), tearing the enemies — Indra and Agni are near, at hand (*upasthe*) at the *dhiṣaṇā*, the praise; therefore the intention is that they praise, for the sake of that meditation [?]. Or else, since particles have several meanings, *hi* means *yadā*, 'when': when these two, Indra and Agni, are meant — the pressing-stones (*grāvāṇaḥ*), the instruments for pressing, are at the *dhiṣaṇā*, the pressing-board; upon it they press Soma for Indra and Agni: then, then, the sacrificers praise: so it is to be construed."
+
+---
+
+### Page 632 (PDF 652)
+
+*(Running head: left 632; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 109".)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 109.3; Kannada; English)**
+
+*Raśmīn* — (long like a rope and unbroken) our line of sons, grandsons and the rest; *mā chedma* — let us not cut off (so that it ends there); *nādhamānāḥ* — praying (to Indra and Agni for unbroken succession); (afterwards) *pitṝṇām* — of the ancestors; *śaktīḥ* — the sons, grandsons and the rest, who produce power; *anuyacchamānāḥ* — receiving in due order each in turn; *vṛṣaṇaḥ* — [those who are] able to beget sons, together with their wives, the sacrificers; *indrāgnibhyām* — from Indra and Agni; *kam* — so that happiness may be obtained; *madanti* — they praise [them]; *hi* — therefore; *adrī* — Indra and Agni, who crush the enemies; *dhiṣaṇāyāḥ* — of the sacrificers' praise; *upasthe* — are in the vicinity.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+"Let us not become those who cut short, there itself, the line of our sons, grandsons and others, long and unbroken as a rope" — with this purpose they pray to Indra and Agni for an unbroken line of descendants; then, receiving, in due order, sons and grandsons who produce the power of the ancestors, the sacrificers, who are able to beget sons and have wives, praise Indra and Agni so as to obtain happiness from them. Therefore, being pleased with these hymns, Indra and Agni, the destroyers of enemies, are always near the sacrificers' praise.
+
+**English Translation (as printed in the source)**
+
+"Never may we cut off the long line (of posterity) ; thus soliciting and asking for descendants endowed with the vigour of their progenitors, the (worshippers), begetting children, praise Indra and Agni for their happiness, and they two, destroyers of foes, are nigh (to hear this adoration)."
+
+---
+
+### Page 633 (PDF 653)
+
+*(Running head: left "A. 1 A. 7 Va. 28 [?]"; centre "Ṛgvedasaṃhitā"; right 633.)*
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 109.3)**
+
+**Raśmīn** — "although the senses 'ray', 'rein', 'whip' and the like exist, here the word *raśmi* means 'rope' (*heggu* [?]): 'long like a rope and unbroken': we ought not to cut short, there itself, the line of sons, grandsons and the rest: so ['mā chedma'].
+
+**Nādhamānāḥ** — *prārthayamānāḥ |* (*Ni.* 4-[?]) "praying."
+
+**Anuyacchamānāḥ** — "*anukrameṇa niyatān kurvantaḥ*", Sāyaṇa; and Skandasvāmin: '*anubadhnantaḥ prajotpādanādikarmasantānāvicchedārtham ity arthaḥ*' [as read [?]]: 'binding after, [continuing] for the sake of the unbroken line of work such as begetting offspring'. Whichever of the two explanations is taken, the purport is to make [the line of] descendants grow without a break. This same word —
+
+> ऋतस्य रश्मिमनुयच्छमाना भद्रंभद्रं क्रतुमस्मासु धेहि ।
+> *ṛtasya raśmim anuyacchamānā bhadrambhadraṃ kratum asmāsu dhehi |* (*Ṛ. Saṃ.* 1-[?]3-[?]3 as read [?])
+
+— in this Ṛk, Uṣas is addressed [as] 'the one who, pervading the favourable way, moves expansively': the word *anuyacchamānā* is applied. In both places the meaning is 'to stretch out, to spread'.
+
+**Madanti** — "the word *madati* is read among the names of verbs of worship (*Ni.* 3-[?]9); in general the word *madanti* is used more often in the sense of 'they rejoice' (*hṛṣyanti*, *hṛṣṭā bhavanti*). The meaning 'they praise' (*stuvanti*) is exceptional. In the Ṛk at hand it is: 'they praise'."
+
+**Adrī dhiṣaṇāyāḥ upasthe** — "here Sāyaṇa has shown two kinds of meanings as possible. First: *adrī śatrūn ādṛṇantau hiṃsantau vidārayantau tāv indrāgnī dhiṣaṇāyāḥ stutyāḥ upasthe upasthāne samīpe bhavataḥ | tasmāt tatsvābhidhyāyai stuvantīti bhāvaḥ* — 'since these two, Indra and Agni, who tear the enemies, are near the praise, therefore the sacrificers praise [them] for their meditation [?]'. For the word *adrī* the meaning is 'Indra and Agni, who tear the enemies', and for the word *dhiṣaṇā* 'praise'; and as 'Indra and Agni, who afflict the enemies, are near the hymn [of praise]', this is one meaning. And, second: *yadā tāv indrāgnī uddiśyādrī abhiṣavasādhanabhūtau grāvāṇo dhiṣaṇāyā upasthe | dhiṣaṇā abhiṣavaṇaphalakaṃ | tasyopariṣṭhād indrāgnyarthaṃ somam abhiṣuṇvanti | tadā tadā yajamānāḥ stuvantīti yojanīyam* — 'whenever, aiming at Indra and Agni, the two *adrī*, the pressing-stones, which are the instruments for pressing, stand at the *dhiṣaṇā* — the pressing-board — and on it the Soma is pressed for Indra and Agni, then, then, the sacrificers praise': thus it should be construed. He shows that the second meaning is also possible, for the word *adri*: 'a stone for pressing the Soma-juice', and for the word *dhiṣaṇā*: 'a board that holds the Soma-juice', when the Soma-juice is pressed aiming at Indra and Agni; the sacrificers praise [Indra and Agni].
+
+**Adrī** — "for the word *adri*, in this Ṛk, besides the two meanings 'one who tears' and 'a stone that presses the juice', there are still other meanings.
+
+> इन्द्रो दीर्घाय चक्षस आ सूर्यं रोहयद्दिवि ।
+> *indro dīrghāya cakṣasa ā sūryaṃ rohayad divi |* (*Ṛ. Saṃ.* 1-7-3 as read)" *(continued on p. 634)*
+
+---
+
+**Progress note:** Printed pp. 1–633 done (PDF 21–653): **Sūkta 109** (8 Ṛks; Kutsa; Indra and Agni; Triṣṭubh; printed pp. 620–[?]) in progress: Riks 109.1–109.2 complete (pp. 621–630); Rik 109.3 (printed pp. 631–[?]): Saṃhitā, Pada, bhāṣya (with tail), Pratipadārtha, Bhāvārtha, printed English done; Special Topics under way (*raśmīn*, *anuyacchamānāḥ*, *madanti*, *adrī*; ends mid-passage at the foot of p. 633). Next: printed p. 634 (PDF 654). Sūkta 110 begins at printed p. 657. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
