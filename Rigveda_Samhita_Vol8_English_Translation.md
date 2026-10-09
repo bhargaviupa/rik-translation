@@ -12412,5 +12412,127 @@ Grammar pages, noted briefly. *Mo, su* (*mā* and *u*, two *nipātas*, are used 
 *yajñam | pṛcchāmi | avamam | saḥ | tat | dūtaḥ | vi | vocati | kva | ṛtam | pūrvyam | gatam | kaḥ | tat | bibharti | nūtanaḥ | vittam | me | asya | rodasī iti ‖ 4 ‖*
 
 ---
+### Page 458 (PDF 478)
 
-**Progress note:** Printed pp. 1–457 done (PDF 21–477): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.3 complete (pp. 441–457); Rik 105.4 (printed pp. 457–[?]): Saṃhitā and Pada done at the foot of p. 457. Next: printed p. 458 (PDF 478): the bhāṣya etc. of 105.4; then Rik 105.5. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
+*(Running head: left 458; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 105.4)**
+
+> यज्ञं यजनीयमवमं सर्वेषां देवानामादिभूतं । अग्निर्मुखं प्रथमो देवतानाम् । ऐ. ब्रा. १-४ । इति श्रुतेः । अग्निर्वै देवानामवम इति ब्राह्मणाच्च । तमग्निं पृच्छामि । यन्मया पृष्टं तद्देवानां दूतः सोऽग्निर्विवोचति विविच्य कथयतु । किं पुनस्तत्पृच्छ्यत इति चेत् उच्यते । हे अग्ने त्वदीयं पूर्वकालीनमृतं भद्रं स्तोतृभ्यः कृतं श्रेयः क्व गतं । कुत्रेदानीं वर्तते । नूतनो नवतरस्त्वत्तोऽन्यः कः पुरुषस्तद्भद्रं बिभर्ति । धारयति । यदि त्वय्यवर्तिष्यत मामीदृशी दशापि नाभविष्यत् । अतस्तत् क्व गतमिति कथयतु ॥ वोचति । वच परिभाषणे । लेटि अडागमः । वच उमिति व्यत्ययेन धातोरुमागमः । क्व । किमोऽत् । पा. ५-३-१२ । इति सप्तम्यर्थे अत् । क्वाति । पा. २-२-१०६ [?] । इति किमः क्वादेशः । तिङ्स्वरितं इति स्वरितत्वं । परेण सह ऋतक इति प्रकृतिभावः ॥
+> *yajñaṃ yajanīyam avamaṃ sarveṣāṃ devānām ādibhūtaṃ | agnir mukhaṃ prathamo devatānām | ai. brā. 1-4 | iti śruteḥ | agnir vai devānām avama iti brāhmaṇāc ca | tam agniṃ pṛcchāmi | yan mayā pṛṣṭaṃ tad devānāṃ dūtaḥ so 'gnir vivocati vivicya kathayatu | kiṃ punas tat pṛcchyata iti cet ucyate | he agne tvadīyaṃ pūrvakālīnam ṛtaṃ bhadraṃ stotṛbhyaḥ kṛtaṃ śreyaḥ kva gataṃ | kutredānīṃ vartate | nūtano navatarastvatto 'nyaḥ kaḥ puruṣas tad bhadraṃ bibharti | dhārayati | yadi tvayy avartiṣyata mām īdṛśī daśāpi nābhaviṣyat | atas tat kva gatam iti kathayatu ‖ vocati | vaca paribhāṣaṇe | leṭi aḍāgamaḥ | vaca um iti vyatyayena dhātor umāgamaḥ | kva | kimo 'at | pā. 5-3-12 | iti saptamyarthe at | kvāti | pā. 2-2-106 [?] | iti kimaḥ kvādeśaḥ | tiṅsvaritaṃ iti svaritatvam | pareṇa saha ṛtaka iti prakṛtibhāvaḥ ‖* *(Sanskrit as read; the grammatical tail is given in print directly after the main sense; "ai. brā. 1-4" and the sūtra numerals are read with doubt [?]; "īdṛśī daśā" read for the print's clotted word [?].)*
+
+"*Yajñam*: that which is to be worshipped; *avamam*: the first, the origin of all the gods. [As the Śruti says] 'Agni is the mouth, the first of the deities' (*Ai. Br.* 1-4 as read [?]), and the Brāhmaṇa says 'Agni is the *avama* of the gods'. That Agni I ask: what has been asked by me, that Agni, the messenger of the gods, *vivocati* — let him make clear and relate. If it be asked 'what is to be asked?', it is said: O Agni, your former benevolence (*ṛtam*), the welfare done to your praisers: where has it gone? Where is it now? Who, a *nūtana* — a newer being, other than you — holds (*bibharti*) that blessing? If it had remained with you, such a plight would not have come upon me; therefore let him tell where it has gone."
+
+*Grammatical tail, noted briefly:* *vocati* (root *vaca paribhāṣaṇe*; *leṭ*; the *aṭ* augment; the *um* augment by *vyatyaya*); *kva* (*kimo 'at*, Pā. Sū. 5-3-12 as read [?]; the substitution *kva* for *kim* before *ati*, Pā. Sū. 2-2-106 as read [?]; the *svarita* accent; no sandhi before *ṛ*: *prakṛtibhāva*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Rik 105.4; Kannada; English)**
+
+*Yajñam* — [him who is] worthy of the sacrifice; *avamam* — (of all the gods) the first, Agni; *pṛcchāmi* — I ask; *tat* — the question I have asked; *dūtaḥ* — the messenger of the gods; *saḥ* — that Agni; *vi vocati* — may declare (to all the gods) (what my question is: O Agni) *pūrvyam* — which was formerly in you; *ṛtam* — the benevolent mind; *kva gatam* — where has it gone?; *nūtanaḥ* — a new one; *kaḥ* — what man; *tat* — that benevolent mind; *bibharti* — has?; *rodasī* — O Heaven and Earth; *me* — my; *asya* — this hymn or sorrow; *vittam* — know attentively.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada; English)**
+
+"O Agni, where has gone the benevolent mind that you formerly had? What new man has now got that benevolent mind? If you were as before, such sorrow would not have come to me" — thus I, who am worthy of sacrifice, ask Agni, the first of all the gods. May that Agni, the divine messenger, explain my petition to all the gods. O Heaven and Earth, know my sorrow, hear my hymn, and lift me up out of the well.
+
+**English Translation (as printed in the source)**
+
+"I implore the first (of the gods) the object of sacrifice, that he will become my messenger, and narrate (my condition to the other deities). *(continued on p. 459)*
+
+---
+
+### Page 459 (PDF 479)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 459.)*
+
+Where, Agni, is your former benevolence, what new being now possesses it ? Heaven and earth, be conscious of this (my affliction)."
+
+**॥ विशेषविषयगळु ॥ — Viśeṣa-viṣayagaḷu (Special Topics, Rik 105.4)**
+
+**Yajñaṃ avamaṃ pṛcchāmi** — "*yajanīyaṃ, sarveṣāṃ devānām ādibhūtam agniṃ pṛcchāmi* — Sāyaṇa has explained it as 'I ask Agni, who is worthy of worship and the first of all the gods'. Skandasvāmin says for the word *avama*:
+
+> अवमं — अन्तिकनामैतत् । (नि. ३-४ [?]) अग्नेश्च विशेषणम् । सन्निकृष्टम् । सर्वयजमानानामाप्तमित्यर्थः । अथवा अवममिति यज्ञस्य विशेषणम् । सन्निकृष्टं यज्ञमिति ।
+> *avamaṃ — antikanāmaitat | (ni. 3-[?]) agneś ca viśeṣaṇam | sannikṛṣṭam | sarvayajamānānām āptam ity arthaḥ | athavā avamam iti yajñasya viśeṣaṇam | sannikṛṣṭaṃ yajñam iti |* *(as read; the numeral and several words are small and doubtful [?])*
+
+— '*avama* is a word meaning "near" (*Ni.* 3-[?]). It is an epithet of Agni: "near", that is, "dear, kin, to all the sacrificers"; or else *avama* is an epithet of the sacrifice: "this sacrifice that is near [to me]".' If the word *avama* is an epithet of Agni, the meaning is 'to Agni, who is near and kin to all sacrificers'; or, if it is an epithet of the sacrifice, 'this sacrifice that is near to me' — such is the meaning he has given. Here the sense can be taken in two ways. Sāyaṇa, on the strength of a Śruti sentence, has given the meaning 'first' (*ādibhūta*) for the word *avama*:
+
+> अग्निर्मुखं प्रथमो देवतानाम् ।
+> *agnir mukhaṃ prathamo devatānām |* (*Ai. Br.* 1-4 as read [?])
+
+> अग्निर्वै देवानामवमः ।
+> *agnir vai devānām avamaḥ |* (*Ai. Br.* 1-1 as read [?])
+
+— Brāhmaṇa sentences such as these praise Agni as the *avama* of all the gods; the same meaning is to be taken here. For that word the meaning 'near' (*antika*) also has Śruti authority:
+
+> स त्वं नो अग्नेऽवमो भवोती नेदिष्ठो अस्या उषसो व्युष्टौ ।
+> *sa tvaṃ no agne 'vamo bhavotī nediṣṭho asyā uṣaso vyuṣṭau |* (*Ṛ. Saṃ.* 4-1-5 as read [?])
+
+— in Ṛks such as this, Agni is described as being near to the sacrificers and helpful; so this meaning too is acceptable. In a few other places the word *avama* means 'lowest' (*kaniṣṭha*), 'at the bottom', or 'last'. For example:
+
+> तवेदिन्द्रावमं वसु त्वं पुष्यसि मध्यमम् ।
+> *taved indrāvamaṃ vasu tvaṃ puṣyasi madhyamam |* (*Ṛ. Saṃ.* 2-[?]-[?] as read [?])
+
+— in this Ṛk *avama* has been given the meaning 'lowest' (*adhama*). But in the Ṛk at hand there is no room for that kind of meaning."
+
+---
+
+### Page 460 (PDF 480)
+
+*(Running head: left 460; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 7 Sū. 105".)*
+
+"Skandasvāmin makes the word *avama* an epithet of the sacrifice and explains this sacrifice that is 'near', that is, 'close to me', with the purport 'I ask Agni to instruct me about it'; this does not fit the context so well: for the first half and for the second half of the Ṛk it has to be construed separately. Therefore Sāyaṇa's explanation is the fitting one: 'I ask, as before, Agni, who is worthy of the sacrifice and is the first of all the gods.'
+
+**Sa dūtaḥ** — *devānāṃ dūtaḥ |* "he who does the work of a messenger in distributing the oblation.
+
+> मन्द्रो होता गृहपतिरग्ने दूतो विशामसि ।
+> *mandro hotā gṛhapatir agne dūto viśām asi |* (*Ṛ. Saṃ.* 1-36-5 as read [?])
+
+> जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।
+> *juṣṭo hi dūto asi havyavāhano 'gne rathīr adhvarāṇām |* (*Ṛ. Saṃ.* 8-[?]-[?] as read [?])
+
+In many such sentences, as praised, the divine messenger Agni should *vi vocatu*, that is, *vivicya kathayatu* — 'explain it clearly and tell [the gods]'. This is the construction. And what is the question? It is —
+
+**Kva ṛtaṃ pūrvyaṃ gatam** — *pūrvakālīnaṃ bhadraṃ stotṛbhyaḥ kṛtaṃ śreyaḥ kutra idānīṃ vartate |* 'Where now is the welfare, the good, that you formerly did for your praisers? The welfare that you used to give to those who performed the sacrifice with praises and with great necessity: where has it gone? Why is there no favour for me, since I too am performing the sacrifice? Here, for the word *ṛta*, Sāyaṇa gives 'good, welfare', and Skandasvāmin gives 'truth'. Both meanings come to one purport. Giving a return fruit to one who completes the sacrifice with faith and devotion is Agni's true nature: Agni is truth-natured. But now, since the giving of that fruit is delayed, because Trita's affliction has not been removed, he gives voice to his anxiety by this question. For the word *ṛta*, among various other meanings such as 'sacrifice', 'truth', the meaning 'truth' is the one that fits here. Or, since the sacrifice is itself of the nature of truth, the two meanings are one. For Agni there are many epithets such as *ṛtajña* and *ṛtajāta*.
+
+> राजन्तमध्वराणां गोपामृतस्य दीदिविम् ।
+> *rājantam adhvarāṇāṃ gopām ṛtasya dīdivim |* (*Ṛ. Saṃ.* 1-1-8 as read)
+
+— in this Ṛk, *ṛtasya satyasyāvaśyaṃbhāvinaḥ karmaphalasya dyotakam* — 'the illuminator of the *ṛta*, the truth': that is, of the fruit of a rite which is certain to arise." *(continued on p. 461)*
+
+---
+
+### Page 461 (PDF 481)
+
+*(Running head: left "A. 1 A. 7 Va. 20 [?]"; centre "Ṛgvedasaṃhitā"; right 461.)*
+
+> अग्ने जुषस्व प्रति हर्य तद्वचो मन्द्र स्वधाव ऋतजात सुक्रतो ।
+> *agne juṣasva prati harya tad vaco mandra svadhāva ṛtajāta sukrato |* (*Ṛ. Saṃ.* 1-1[?]-[?] as read [?])
+
+> वि षु त्वावाँ ऋतजात यंसद्गृणानोऽग्ने तन्वे वरूथम् ।
+> *vi ṣu tvāvāṃ ṛtajāta yaṃsad gṛṇāno 'gne tanve varūtham |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+"— in Ṛks such as these, 'one born of the *ṛta*' (*ṛtajāta*), and
+
+> यदीमृतस्य पयसा पियानो नयन्नृतस्य पथिभी रजिष्ठैः ।
+> *yad īm ṛtasya payasā piyāno nayann ṛtasya pathibhī rajiṣṭhaiḥ |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+> तं यज्ञसाधमपि वातयामस्यृतस्य पथा नमसा हविष्मता देवताता हविष्मता ।
+> *taṃ yajñasādham api vātayāmasy ṛtasya pathā namasā haviṣmatā devatātā haviṣmatā |* (*Ṛ. Saṃ.* 1-[?]-[?] as read [?])
+
+— in such places, 'one who goes on the path of *ṛta*'; and
+
+> उत स्य द्युम्नस्य कवस ऋतस्य रश्मिमा ददे ।
+> *uta sya dyumnasya kavasa ṛtasya raśmim ā dade |* (*Ṛ. Saṃ.* 5-[?]-[?] as read [?]; the words are as read from the print [?])
+
+— in this 'one who holds the rein of *ṛta*'. Likewise, in other ways, a close relation between Agni and *ṛta* is famed in the Śruti; so where has that eternal relation gone now? 'Although I perform the sacrifice, the removal of my affliction, which is the fruit of it, does not come': thus the lament '*pūrvyam ṛtaṃ kva gatam*' is, in one way, in the form of a reproach, and in another way a revealing of one's own sorrow. Skandasvāmin has explained the above meaning thus —
+
+> येन सत्येनाग्निर्येष्टॄणां पद्भ्यो रक्षति क्व तस्य तत्सत्यत्वं गतम् इति आत्मन आपदोऽरक्षणादुपालम्भोऽयं परिदेवना वा ।
+> *yena satyenāgnir yeṣṭṝṇāṃ padbhyo rakṣati kva tasya tat satyatvaṃ gatam iti ātmana āpado 'rakṣaṇād upālambho 'yaṃ paridevanā vā |* *(as read; the middle words, "yeṣṭṝṇāṃ padbhyo", are doubtful [?])*
+
+— 'by which truth Agni protects sacrificers from calamity — where has that truth-nature of his gone? — this is a reproach, or a lament, for his not having protected the speaker from his own calamity'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 105.4)** *(grammar pages, pp. 461–462, noted briefly; numerals small and doubtful [?])*
+
+Grammar pages, noted briefly. *Yajñam* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; the suffix *naṅ* by *yajayācayatavicchaprachaviccharakṣo naṅ*, Pā. Sū. 3-3-90 as read [?]; accent of the suffix, final acute; accusative singular). *Pṛcchāmi* (root *pṛccha jijñāsāyāṃ vāci*; *laṭ*, first person singular; *nighāta*). *Vocati* (root *vaca paribhāṣaṇe*; *leṭ*, third person singular, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*, Pā. Sū. 3-4-94 as read [?]; by *vyatyaya*, the *luṅ*-form *(continued on p. 462)*
+
+---
+
+**Progress note:** Printed pp. 1–461 done (PDF 21–481): **Sūkta 105** (19 Ṛks; Trita Āptya or Kutsa; Viśvedevas) in progress: Riks 105.1–105.3 complete (pp. 441–457); Rik 105.4 (printed pp. 457–[?]): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics done (pp. 457–461); the grammar of 105.4 begun at the foot of p. 461, at *vocati*, mid-sentence. Next: printed p. 462 (PDF 482): the grammar of 105.4 continues; then Rik 105.5. Sūkta 106 begins at printed p. 529. Basics: `Rig_Vol8.pdf`, 852 pages; **printed page = PDF − 20**; Sūktas 95–112 (starts, printed pp.: 95→1, 96→61, 97→110, 98→134, 99→157, 100→165, 101→265, 102→313, 103→356, 104→394, 105→440, 106→529, 107→561, 108→573, 109→620, 110→657, 111→701, 112→722; last printed page about 832 = PDF 852). The Pīṭhike (folios i–ix) is translated and sits before the Seventh Adhyāya. Open flags (condensed, pp. 1–361): in all Sūktas the Ṛgveda, Nirukta, Bṛhaddevatā, Brāhmaṇa, Upaniṣad, Āśvalāyana and Uṇādi/Pāṇini/Kāśikā reference and sūtra numerals are read from small print and are doubtful [?]; the varga numerals in the page heads and heading blocks [?]; clotted Sanskrit in bhāṣya tails and Kannada-script quotations was bracketed [?] and not completed from memory (see the [?] marks in place; notably Sūktas 95–98's Śatapatha/Nirukta passages, 99–101's bhāṣya tails, 102.2's tail on p. 320, 102.6–102.8's tails, 103.1's *rātryādityād indreṇa…* clause and the Ṛg quotations on p. 359 that were not read in full); printed p. 413 of Vol 7 is unrelated — in Vol 8 **printed p. 323 is missing from the scan** (PDF 343 repeats p. 322); the print's Pada/Saṃhitā pairs *sasahim/sāsahim* (100.3, 100.5, 102.1, 102.9) and *jahṛṣāṇena/jāhṛṣāṇena* (101.2) are recorded as printed; the grammar pages and grammatical tails are characterized, not transcribed.
