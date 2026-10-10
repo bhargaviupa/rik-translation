@@ -312,17 +312,17 @@
 
 *(Running head: "viii".)*
 
-"Of these four, the first is of the Bharata line. When Vadhryaśva's son fought with Śambara, the help given to him by the Aśvin deities and by Indra is described in the Ṛks 1-11[2]-14, 1-116-18, 4-26-3, 6-47-23 [all as read from small print [?]] and others. In the Ṛk 6-?-2 [?] it is said also that, besides Śambara, he conquered with Indra's help Turvaśa and Yadu. This one must be Ātithigva Divodāsa."
+"Of these four, the first is of the Bharata line. When Vadhryaśva's son fought with Śambara, the help given to him by the Aśvin deities and by Indra is described in the Ṛks 1-112-14, 1-116-18, 4-26-3, 6-47-23 [as confirmed by the reader] and others. In the Ṛk 9-61-2 [as confirmed by the reader] it is said also that, besides Śambara, he conquered with Indra's help Turvaśa and Yadu. This one must be Ātithigva Divodāsa."
 
-"The second Ātithigva was lord of the country called Guṅgu (Gaṅgu [?]). He too obtained victory with the help of Indra, as is known from descriptions in Ṛks such as 10-4[8]-? [?]. Since the Bharata line and the Guṅgu line are different, the Ātithigva who destroyed Parṇaya and Karañja must be a person different from Ātithigva Divodāsa of the Bharata line."
+"The second Ātithigva was lord of the country called Guṅgu (Gaṅgu [?]). He too obtained victory with the help of Indra, as is known from descriptions in Ṛks such as 10-48-8 [confirmed by the reader]. Since the Bharata line and the Guṅgu line are different, the Ātithigva who destroyed Parṇaya and Karañja must be a person different from Ātithigva Divodāsa of the Bharata line."
 
-"The third is the father of Indrota, mentioned in the Ṛk 8-68-1[5] [?]. He is known as Ātithigva Indrota (8-68-1[5, 6] [?]). It is said of him that Aśvamedha Pūtakratu, a king of the Bharata line, was his friend-king (*mitrarāja*)."
+"The third is the father of Indrota, mentioned in the Ṛk 8-68-15 [confirmed by the reader]. He is known as Ātithigva Indrota (8-68-16, 1[?] [first number confirmed by the reader; the second not fully legible]). It is said of him that Aśvamedha Pūtakratu, a king of the Bharata line, was his friend-king (*mitrarāja*)."
 
 "The Ātithigva defeated by Indra must be yet another person, different from the three persons named above."
 
 > त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
 > *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
-> (*Ṛ. Saṃ.* 1-53-10 as read [?])
+> (*Ṛ. Saṃ.* 1-53-10, confirmed by the reader)
 
 > य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ।
 > *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive |*
