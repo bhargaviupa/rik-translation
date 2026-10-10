@@ -51,9 +51,9 @@
 > *vaiśvānarasya sumatau syāma |*
 > "May we be in the favour of Vaiśvānara"
 
-> अपरिह्वृता वाजं सनुयोम [?] ।
-> *aparihvṛtā vājaṃ sanuyoma [?] |*
-> "Unobstructed, may we win strength" *(the last word as printed [?])*
+> अपरिह्वृता वाजं सनुयोम ।
+> *aparihvṛtā vājaṃ sanuyoma |*
+> "Unobstructed, may we win strength" *(the last word as printed, confirmed by the reader)*
 
 > वरिवः सुगं कृधि ।
 > *varivaḥ sugaṃ kṛdhi |*
