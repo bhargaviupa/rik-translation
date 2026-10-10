@@ -111,7 +111,7 @@
 > *devā ādityā ye sapta |*
 > "the gods, the Ādityas, who are seven" *(translation mine)*
 
-"— they are called seven Ādityas without naming them; and of the eight Ādityas referred to in 10-72-8 (confirmed by the reader), the seven who remain, with the exception of Mārtāṇḍa, are said to have been given over to the sway of the gods (10-72-9 [?])." *(continues below)*
+"— they are called seven Ādityas without naming them; and of the eight Ādityas referred to in 10-72-8 (confirmed by the reader), the seven who remain, with the exception of Mārtāṇḍa, are said to have been given over to the sway of the gods (10-72-9, confirmed by the reader)." *(continues below)*
 
 "In 1-?-? [?] the verse beginning *ud agād ayam ādityaḥ* [as read, doubtful [?]], and in 1-?-? [?] *ud u … sūryaḥ* [?]: the sun is said to be one of the sons of Aditi, one of the Ādityas. In 9-?-3 [?] the line *tan naḥ savitā bhago varuṇo mitro aryamā* is read, and there Savitṛ is placed with Bhaga, Varuṇa, Mitra and Aryaman. Thus, although no determinate statement is made on the number of the Ādityas, yet —"
 
