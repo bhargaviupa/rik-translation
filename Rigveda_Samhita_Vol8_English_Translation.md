@@ -93,7 +93,7 @@
 
 *(Translation, mine and tentative: "Aditi is heaven, Aditi the atmosphere; Aditi is mother, she father, she son; all the gods are Aditi, and the five peoples; Aditi is what is born, Aditi what will be born.")*
 
-"As described in such Ṛks, Aditi is the mother of the universe and universal in nature. Such a goddess, the mother of the world, is the presiding one over the whole material world and over moral conduct. *adīnā devamātā* (Ni. 4-22 [?]): the mother of the gods who is without decay (*kṣaya*); for her, '*namater mātā*' [as read [?]] (Ni. 7-5 [?]). Since she is worthy of reverence (*namaskriyā*), the epithet *nanā* (Ṛ. Saṃ. 8-112-3 [?]) shows the greatness of that goddess. In Ṛks such as —"
+"As described in such Ṛks, Aditi is the mother of the universe and universal in nature. Such a goddess, the mother of the world, is the presiding one over the whole material world and over moral conduct. *adīnā devamātā* (Ni. 4-22, confirmed by the reader): the mother of the gods who is without decay (*kṣaya*); for her, '*namater mātā*' [as read [?]] (Ni. 7-5 [?]). Since she is worthy of reverence (*namaskriyā*), the epithet *nanā* (Ṛ. Saṃ. 8-112-3 [?]) shows the greatness of that goddess. In Ṛks such as —"
 
 > माता पुत्रैरदितिर्धायसे वेः [?]
 > *mātā putrair aditir dhāyase veḥ [?]*
