@@ -24,4 +24,4 @@ Alternate clean scan of the same edition: branch `alt-scan-vol8` (Git LFS), `Rig
 Ṛ. 1-70-2 vs 1-70-3 (*garbho yo apāṃ…*, pp. 12, 21, 25); Uṇ. 4-202 vs 4-642 (p. 22/26); Dhā. 19-63-67 (p. 22); Ni. 3-2 (p. 25); Pā. 7-1-100, 7-1-109; Bṛ. De. 3-129 (p. 5); many Uṇādi numbers (pp. 8–10, 14–15, 37, 43, 48, 52, 56, 80, 84, 106–107, 122); Bṛ. De. 3-125, 2-24/25, 3-61/65 (pp. 64, 67); Ṛ. 3-14-7 (p. 78); Ṛ. 4-8-2 (p. 87); Ṛ. 1-151-8 vs 1-151-7 (pp. 97/98); Tāṇḍya Brāhmaṇa 13-6-9 last digit (pp. 110–113).
 
 ## Rebuilds still needed after any edit
-`.docx` (pandoc `-f markdown-yaml_metadata_block`), plain PDF (LibreOffice), designed print PDF (`python3 publish/build_vol45.py 8 full`), review worklist (`python3 publish/review_all.py`). Not yet rebuilt after the numeral pass.
+`.docx` (pandoc `-f markdown-yaml_metadata_block`), plain PDF (LibreOffice), designed print PDF (`python3 publish/build_vol45.py 8 full`), review worklist (`python3 publish/review_all.py`). Rebuilt after the numeral pass (Oct 2026): .docx (Devanagari count 283,676 = .md), plain PDF, designed PDF (1,367 pp.), worklist (Vol 8: 5,744 flagged spots).
