@@ -137,7 +137,7 @@
 
 *(Gloss, mine and tentative: "to whom the sons of Aditi, for the life of the mortal, give light unceasingly".)*
 
-"As is said in Ṛks like this, the sons of Aditi — Mitra and the others — give lasting light to men. Aditi, the mother of the world, along with her sons the Ādityas, must come and give happiness to men: with such passages as *ādityair no aditiḥ śarma yaṃsat* (1-[?]-[?], 10-66-3 [?]), *ādityā aditiṃ svastaye* (10-63-[?]), *devā ādityā aditiṃ havāmahe* (10-65-9, as corrected by the reader) [all as read] prayer is made. In just this way, in many other Ṛks too (2-27-10 [?]; 8-[?]-[?]; 6-[?]-[?] and others), Aditi is prayed to together with the Ādityas. Therefore '*āditya*' must be understood as always meaning the twelve. Whether in the work of protection or in the work of removing sin, Mitra and Varuṇa are always the direct helpers of Aditi."
+"As is said in Ṛks like this, the sons of Aditi — Mitra and the others — give lasting light to men. Aditi, the mother of the world, along with her sons the Ādityas, must come and give happiness to men: with such passages as *ādityair no aditiḥ śarma yaṃsat* (1-107-2, 10-66-3, confirmed by the reader), *ādityā aditiṃ svastaye* (10-63-[?]), *devā ādityā aditiṃ havāmahe* (10-65-9, as corrected by the reader) [all as read] prayer is made. In just this way, in many other Ṛks too (2-27-10 [?]; 8-[?]-[?]; 6-[?]-[?] and others), Aditi is prayed to together with the Ādityas. Therefore '*āditya*' must be understood as always meaning the twelve. Whether in the work of protection or in the work of removing sin, Mitra and Varuṇa are always the direct helpers of Aditi."
 
 > अदिते मित्र वरुणोत मृळ यद्वो वयं चकृमा कच्चिदागः ।
 > *adite mitra varuṇota mṛḷa yad vo vayaṃ cakṛmā kac cid āgaḥ |*
