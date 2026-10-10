@@ -262,15 +262,15 @@
 > तिस्र उ ते तन्वो देववातास्ताभिर्नः पाहि गिरो अप्रयुच्छन् ॥
 > *agne trī te vājinā trī ṣadhasthā tisras te jihvā ṛtajāta pūrvīḥ |*
 > *tisra u te tanvo devavātās tābhir naḥ pāhi giro aprayucchan ‖*
-> (*Ṛ. Saṃ.* 3-20-2 as read)
+> (*Ṛ. Saṃ.* 3-20-2, confirmed by the reader)
 
 *(Translation, mine and tentative: "Agni, three are your strengths, three your seats, three your tongues, ancient, born of the rite; three are your bodies loved of the gods: with them guard our songs, unwearied".)*
 
-"Agni has three powers, three stations, three tongues and three bodies, as described in this Ṛk; and, as in 'tejas-traya' (3-?-?) and the three of the flame (3-?-?), described too —"
+"Agni has three powers, three stations, three tongues and three bodies, as described in this Ṛk; and, as in 'tejas-traya' (3-26-7) and the three of the flame (3-2-9), described too —"
 
 > त्रिरस्य ता परमा सन्ति सत्या स्पार्हा देवस्य जनिमान्यग्नेः ।
 > *trir asya tā paramā santi satyā spārhā devasya janimāny agneḥ |*
-> (*Ṛ. Saṃ.* 4-1-7 as read [?])
+> (*Ṛ. Saṃ.* 4-1-7, confirmed by the reader)
 
 *(Gloss, mine and tentative: "thrice are these highest true births of the god Agni, [each] to be desired".)*
 
@@ -278,7 +278,7 @@
 
 > स जायत प्रथमः पस्त्यासु महो बुध्ने रजसो अस्य योनौ ।
 > *sa jāyata prathamaḥ pastyāsu maho budhne rajaso asya yonau |*
-> (*Ṛ. Saṃ.* 4-1-11 as read [?])
+> (*Ṛ. Saṃ.* 4-1-11, confirmed by the reader)
 
 "— as described in Ṛks like this: the earth, the heavenly world and the atmosphere. In the same way, for the lightning-fire (*vaidyutāgni*) abiding in the atmosphere, and for Trita, who belongs to the clouds and is far off, a common nature other than this is to be understood. This part Trita himself has said plainly:"
 
@@ -294,11 +294,11 @@
 
 > यदीमह त्रितो दिव्युप ध्माताव धमति शिशीते धा‌तरी यथा [?]
 > *yad īm aha trito divy upa dhmāteva dhamati śiśīte dhātarī yathā [?]*
-> (*Ṛ. Saṃ.* 8-?-? [?], as read from small print)
+> (*Ṛ. Saṃ.* 5-9-5, confirmed by the reader)
 
 > प्र सप्तगुर्दिव्यः कण्वहोता त्रितो दिवः सजोषा वातो अग्निः ।
 > *pra saptagur divyaḥ kaṇvahotā trito divaḥ sajoṣā vāto agniḥ |*
-> (*Ṛ. Saṃ.* 8-?-? [?], as read from small print)
+> (*Ṛ. Saṃ.* 5-41-4, confirmed by the reader)
 
 *(The first quotation is clotted and read as given [?]. Gloss, mine and tentative, of the second: "the heavenly, seven-voiced, with Kaṇva as Hotṛ; Trita of heaven, together with the wind and Agni".)*
 
@@ -306,7 +306,7 @@
 
 "*Āptyaḥ* (*apāṃ putraḥ*, 1-105-9) — the epithet *āptya* is used in all the places in which Trita is spoken of. In the same way the epithet *apāṃ napāt* ['son of the waters'] is always used of the lightning-fire. Therefore Trita and the lightning-fire may be said to be one in origin."
 
-"In this part there is also, in the 4th Ṛk of the 1[1?]6th sūkta, the matter of Ātithigva and Divodāsa, which is somewhat open to discussion. There the word *ātithigva* is an epithet of Divodāsa. [The two kinds of sense of the word *ātithigva*, and the matter of Divodāsa, are explained as special topics of that Ṛk.] Some scholars say that Ātithigva and Divodāsa are two different persons; others, that they are the name of one person. But from the evidence of the Ṛksaṃhitā itself it can be said that although Divodāsa is one, the persons called Ātithigva are four. Divodāsa is one of these four Ātithigvas."
+"In this part there is also, in the 14th Ṛk of the 112th sūkta (1-112-14, confirmed by the reader), the matter of Ātithigva and Divodāsa, which is somewhat open to discussion. There the word *ātithigva* is an epithet of Divodāsa. [The two kinds of sense of the word *ātithigva*, and the matter of Divodāsa, are explained as special topics of that Ṛk.] Some scholars say that Ātithigva and Divodāsa are two different persons; others, that they are the name of one person. But from the evidence of the Ṛksaṃhitā itself it can be said that although Divodāsa is one, the persons called Ātithigva are four. Divodāsa is one of these four Ātithigvas."
 
 ### Page viii (PDF 13)
 
