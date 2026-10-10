@@ -121,7 +121,7 @@
 > *bhagaś caivāryamāṃśaś ca mitro varuṇa eva ca |*
 > *dhātā caiva vidhātā ca vivasvāṃś ca mahādyutiḥ ‖*
 > *tvaṣṭā pūṣā tathaivendro dvādaśo viṣṇur ucyate |*
-> (*Bṛ. De.* 5, 1[?]–1[?] as read [?])
+> (*Bṛ. De.* 5, 146–147, as corrected by the reader)
 
 *(Translation, mine and tentative, of the stanzas as read: "Bhaga, Aryaman and Aṃśa, Mitra and Varuṇa; Dhātṛ, Vidhātṛ, and the greatly radiant Vivasvat; Tvaṣṭṛ, Pūṣan, and likewise Indra, and Viṣṇu is called the twelfth.")*
 
