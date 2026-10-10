@@ -218,7 +218,7 @@
 
 > अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
 > *agniṃ manye pitaram agnim āpim agniṃ bhrātaraṃ sadam it sakhāyam |*
-> (*Ṛ. Saṃ.* 10-7-3 as read [?])
+> (*Ṛ. Saṃ.* 10-7-3, confirmed by the reader)
 
 *(Gloss, mine and tentative: "I think of Agni as father, Agni as kinsman, Agni as brother, ever as friend".)*
 
