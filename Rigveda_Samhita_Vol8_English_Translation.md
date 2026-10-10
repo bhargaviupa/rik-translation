@@ -141,7 +141,7 @@
 
 > अदिते मित्र वरुणोत मृळ यद्वो वयं चकृमा कच्चिदागः ।
 > *adite mitra varuṇota mṛḷa yad vo vayaṃ cakṛmā kac cid āgaḥ |*
-> (*Ṛ. Saṃ.* 2-?-14 [?])
+> (*Ṛ. Saṃ.* 2-27-14, read from the 600 ppi scan and matching the reader's log)
 
 > मित्रो नो अत्रादितिरनागान्त्सविता देवो वरुणाय वोचत् ।
 > *mitro no atrāditir anāgān savitā devo varuṇāya vocat |*
