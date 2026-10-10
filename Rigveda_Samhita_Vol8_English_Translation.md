@@ -316,7 +316,7 @@
 
 "The second Ātithigva was lord of the country called Guṅgu (Gaṅgu [?]). He too obtained victory with the help of Indra, as is known from descriptions in Ṛks such as 10-48-8 [confirmed by the reader]. Since the Bharata line and the Guṅgu line are different, the Ātithigva who destroyed Parṇaya and Karañja must be a person different from Ātithigva Divodāsa of the Bharata line."
 
-"The third is the father of Indrota, mentioned in the Ṛk 8-68-15 [confirmed by the reader]. He is known as Ātithigva Indrota (8-68-16, 1[?] [first number confirmed by the reader; the second not fully legible]). It is said of him that Aśvamedha Pūtakratu, a king of the Bharata line, was his friend-king (*mitrarāja*)."
+"The third is the father of Indrota, mentioned in the Ṛk 8-68-15 [confirmed by the reader]. He is known as Ātithigva Indrota (8-68-16, 17 [confirmed by the reader]). It is said of him that Aśvamedha Pūtakratu, a king of the Bharata line, was his friend-king (*mitrarāja*)."
 
 "The Ātithigva defeated by Indra must be yet another person, different from the three persons named above."
 
