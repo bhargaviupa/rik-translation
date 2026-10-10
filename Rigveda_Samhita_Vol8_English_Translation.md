@@ -125,7 +125,7 @@
 
 *(Translation, mine and tentative, of the stanzas as read: "Bhaga, Aryaman and Aṃśa, Mitra and Varuṇa; Dhātṛ, Vidhātṛ, and the greatly radiant Vivasvat; Tvaṣṭṛ, Pūṣan, and likewise Indra, and Viṣṇu is called the twelfth.")*
 
-"— the twelve Ādityas are well known. Though the twelve, Bhaga and the rest, are thus well known, yet *ṛtāvarī yoṣā* (Ṛ. 8-?-? [?]) [as read]: in the universal activity of Aditi, who is of the nature of the *ṛta*, Mitra and Varuṇa, *ṛtāvānā samrājā*, true and illuminators of the world (Ṛ. 8-?-? [?]) are the constant helpers."
+"— the twelve Ādityas are well known. Though the twelve, Bhaga and the rest, are thus well known, yet *ṛtāvarī yoṣā* (Ṛ. 9-114-3, as corrected by the reader): in the universal activity of Aditi, who is of the nature of the *ṛta*, Mitra and Varuṇa, *ṛtāvānā samrājā*, true and illuminators of the world (Ṛ. 8-?-? [?]) are the constant helpers."
 
 ### Page iii (PDF 8)
 
