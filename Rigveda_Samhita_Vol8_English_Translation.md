@@ -75,7 +75,7 @@
 
 > कुत्से नोदर्का बहुदैवतेषु तथा द्विदेवेषु समानधर्मिणः ।
 > *kutse nodarkā bahudaivateṣu tathā dvideveṣu samānadharmiṇaḥ |*
-> (*Bṛ. De.* III, 128 as read [?])
+> (*Bṛ. De.* III, 128, confirmed by the reader)
 
 *(The line is that quoted in Volume 7, p. 566, from the* Bṛhaddevatā*; the print's reading is as given there, doubtful [?].)*
 
