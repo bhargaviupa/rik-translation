@@ -77,7 +77,7 @@
 > *kutse nodarkā bahudaivateṣu tathā dvideveṣu samānadharmiṇaḥ |*
 > (*Bṛ. De.* III, 128, confirmed by the reader)
 
-*(The line is that quoted in Volume 7, p. 566, from the* Bṛhaddevatā*; the print's reading is as given there, doubtful [?].)*
+*(The line is that quoted in Volume 7, p. 566, from the* Bṛhaddevatā*; the print's reading is as given there.)*
 
 ### Page ii (PDF 7)
 
