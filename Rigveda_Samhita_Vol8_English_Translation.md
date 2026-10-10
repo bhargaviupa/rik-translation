@@ -105,7 +105,7 @@
 > *ādityāso aditayaḥ |*
 > (*Ṛ. Saṃ.* 7-52-1, as corrected by the reader)
 
-"— are likewise indivisible. Who the Ādityas are and how many, is said in various ways here and there in the Ṛksaṃhitā itself. In Ṛk 2-37-1 (as corrected by the reader) six persons — Mitra, Varuṇa, Bhaga, Aryaman, Dakṣa, Aṃśa — are named as the Ādityas; in 8-?-? [?], with the words —"
+"— are likewise indivisible. Who the Ādityas are and how many, is said in various ways here and there in the Ṛksaṃhitā itself. In Ṛk 2-27-1 (confirmed by the reader) six persons — Mitra, Varuṇa, Bhaga, Aryaman, Dakṣa, Aṃśa — are named as the Ādityas; in 8-?-? [?], with the words —"
 
 > देवा आदित्या ये सप्त ।
 > *devā ādityā ye sapta |*
