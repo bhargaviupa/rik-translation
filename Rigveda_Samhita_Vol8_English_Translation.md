@@ -89,7 +89,7 @@
 > विश्वे देवा अदितिः पञ्चजना अदितिर्जातमदितिर्जनित्वम् ॥
 > *aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ |*
 > *viśve devā aditiḥ pañcajanā aditir jātam aditir janitvam ‖*
-> (*Ṛ. Saṃ.* 1-89-10)
+> (*Ṛ. Saṃ.* 1-89-10, verified in the reader's page ii log)
 
 *(Translation, mine and tentative: "Aditi is heaven, Aditi the atmosphere; Aditi is mother, she father, she son; all the gods are Aditi, and the five peoples; Aditi is what is born, Aditi what will be born.")*
 
