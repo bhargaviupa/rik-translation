@@ -175,18 +175,18 @@
 
 *(Running head: "iv".)*
 
-"…[the scholars'] opinions, whether the nature of Trita can be established, may be known; but first the opinions of Vedic scholars such as Yāska must be noted. The name Trita is used in [19?] sūktas, [40?] times in all [numerals read from small print, doubtful [?]]. But there is no independent sūkta concerning Trita (that is, addressed to a deity named Trita). In the list of deities in the Nighaṇṭu this name is not stated either. Yāska, however, explains this word in two places. First, in explaining the 7th Ṛk of the 105th sūkta (Ni. 4-6 [?]):"
+"…[the scholars'] opinions, whether the nature of Trita can be established, may be known; but first the opinions of Vedic scholars such as Yāska must be noted. The name Trita is used in 29 sūktas, 40 times in all [numerals as in the reader's page iv log]. But there is no independent sūkta concerning Trita (that is, addressed to a deity named Trita). In the list of deities in the Nighaṇṭu this name is not stated either. Yāska, however, explains this word in two places. First, in explaining the 8th Ṛk of the 105th sūkta (Ni. 4-6):"
 
 > त्रितं कूपेऽवहितमेतत्सूक्तं प्रतिबभौ । तत्र ब्रह्मेतिहासमिश्रमृज्मिश्रं गाथामिश्रं भवति । त्रितस्त्वैर्णतमो [?] मेधया बभूव अपि वा संख्यानामेवाभिप्रेतं स्यादेकतो द्वितस्त्रित इति त्रयो बभूवुः ।
 > *tritaṃ kūpe 'vahitam etat sūktaṃ pratibabhau | tatra brahmetihāsamiśram ṛkmiśraṃ gāthāmiśraṃ bhavati | tritas tv airṇatamo [?] medhayā babhūva api vā saṃkhyānām evābhipretaṃ syād ekato dvitas trita iti trayo babhūvuḥ |*
 
 *(Translation, mine and tentative, with the Kannada that follows: "To Trita, who was set down in a well, this sūktā appeared. In it there is a mixture of brahman, of history, of ṛk, of gāthā. Trita became [the most …, the word is clotted [?]] by his intelligence; or else a mere reckoning of numbers may be intended: from Ekata, Dvita, Trita — thus three came into being.")*
 
-"By Trita, who had fallen into the well, this sūkta was seen. It is a prayer in the form of *ṛk* and *gāthā*, with a story (*vittaṃ me asya rodasī*). Because he attained mastery in wisdom (*prajñā*), the name Trita came to him; or, since among Ekata, Dvita and Trita he is the third, the name 'Trita' may have come to him — so the first [explanation]. Secondly, in explaining the first Ṛk of 1-1[8]7 [?]: '*trite sthāne indraḥ*' [as read [?]] (Ni. 9-5 [?]) — Indra, who pervades three regions, is explained as an epithet of Indra."
+"By Trita, who had fallen into the well, this sūkta was seen. It is a prayer in the form of *ṛk* and *gāthā*, with a story (*vittaṃ me asya rodasī*). Because he attained mastery in wisdom (*prajñā*), the name Trita came to him; or, since among Ekata, Dvita and Trita he is the third, the name 'Trita' may have come to him — so the first [explanation]. Secondly, in explaining the first Ṛk of 1-187 (1-187-1): '*trite sthāne indraḥ*' [as read [?]] (Ni. 9-25) — Indra, who pervades three regions, is explained as an epithet of Indra."
 
 "In the Ṛksaṃhitā this word is used sixteen times together with Indra; once for the slayer of Vṛtra, once for Vyadaśva (?) [as read [?]]; as an epithet of the Maruts in four places; with Agni in seven places; once together with Varuṇa; four times with Soma; and six times for a person who stands in a far-off region."
 
-"In these places Sāyaṇa's explanation follows Yāska's derivation. He explains the word Trita as the name of the seer of the mantras in 2[0] Ṛks [?], and in the other places, according to the context, as an epithet showing the nature of the deities Vāyu, Varuṇa, Indra and Agni."
+"In these places Sāyaṇa's explanation follows Yāska's derivation. He explains the word Trita as the name of the seer of the mantras in 20 Ṛks, and in the other places, according to the context, as an epithet showing the nature of the deities Vāyu, Varuṇa, Indra and Agni."
 
 "The story of Trita, the third among the three seers Ekata, Dvita and Trita, is given in the Special Topics of the first Ṛk of the 105th Sūkta. In the 9th Ṛk of the same sūkta, Trita has the epithet *āptya*; and Trita states that he is connected with Agni. How this epithet Āptya came to him, and what the connexion with Agni is — to explain this there is a story in the Śatapatha Brāhmaṇa."
 
