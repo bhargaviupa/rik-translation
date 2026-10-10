@@ -133,7 +133,7 @@
 
 > यस्मै पुत्रासो अदितेः प्र जीवसे मर्त्याय । ज्योतिर्यच्छन्त्यजस्रम् ॥
 > *yasmai putrāso aditeḥ pra jīvase martyāya | jyotir yacchanty ajasram ‖*
-> (*Ṛ. Saṃ.* 10-63-3 as read)
+> (*Ṛ. Saṃ.* 10-185-3, as corrected by the reader)
 
 *(Gloss, mine and tentative: "to whom the sons of Aditi, for the life of the mortal, give light unceasingly".)*
 
