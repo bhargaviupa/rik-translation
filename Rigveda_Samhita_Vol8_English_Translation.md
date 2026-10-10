@@ -202,15 +202,15 @@
 
 > तं देवा अनुविद्य सहस्रैवाद्भ्य [?] आनिन्युः सोऽपोऽभितिष्ठमे [?] ऽवास्तूता [?] स्थ यो अप्रपदनं स्थ योऽभ्यो वो मामुकामं नयन्तीति तत आप्त्याः संबभूवुस्त्रितो द्वितो एकतः ।
 > *taṃ devā anuvidya sahasraivādbhya [?] āninyuḥ so 'po 'bhitiṣṭhame [?] 'vāstūtā [?] stha yo apraṇadanaṃ stha yo 'bhyo vo māmukāmaṃ nayantīti tata āptyāḥ saṃbabhūvus trito dvita ekataḥ |*
-> (*Śa. Brā.* 1-2-3-1 as read [?])
+> (*Śa. Brā.* 1-2-3-1, confirmed by the reader)
 
 "Agni's three elder brothers, wearied and thinned out in the work of carrying the oblations to the gods, and fearing that the same state might come upon him too, Agni ran away and hid himself in the water. Then the gods, entering the water, seized him and brought him back; Agni, in anger, spat upon the water, as a thing unfit to give protection. Then the three Āptya deities, Ekata, Dvita and Trita, arose. This is one reason why the epithet *āptya* came to be."
 
-"Secondly, to show that Trita and the others were born of Agni, Sāyaṇa has pointed out the derivation of the word *trita* on the basis of a passage of the Taittirīya Brāhmaṇa (Ṛ. Saṃ. 1-1[05]-? Sā. Bhā.):"
+"Secondly, to show that Trita and the others were born of Agni, Sāyaṇa has pointed out the derivation of the word *trita* on the basis of a passage of the Taittirīya Brāhmaṇa (Ṛ. Saṃ. 1-52-5 Sā. Bhā., confirmed by the reader):"
 
 > देवानां हविर्लोपनिषिघर्षणाय [?] अग्नेः सकाशात् अप्सु एकतो द्वितस्त्रित इति त्रयः पुरुषा जज्ञिरे । तथा च तैत्तिरीयैः समाम्नातं । सोऽङ्गारेभ्योऽपोऽभ्यपातयत् । तत एकतोऽजायत । स द्वितीयमभ्यपातयत् । ततो द्वितोऽजायत । स तृतीयमभ्यपातयत् । ततस्त्रितोऽजायत ।
 > *devānāṃ havir lopaniṣighaṛṣaṇāya [?] agneḥ sakāśāt apsu ekato dvitas trita iti trayaḥ puruṣā jajñire | tathā ca taittirīyaiḥ samāmnātaṃ | so 'ṅgārebhyo 'po 'bhyapātayat | tata ekato 'jāyata | sa dvitīyam abhyapātayat | tato dvito 'jāyata | sa tṛtīyam abhyapātayat | tatas trito 'jāyata |*
-> (*Tai. Brā.* 3-2-8-10 as read [?])
+> (*Tai. Brā.* 3-2-8-10, confirmed by the reader)
 
 *(Translation, mine and tentative: "From Agni, in the water, three persons were born, Ekata, Dvita and Trita; and so the Taittirīyas have handed down: 'He made [drops] from the embers fall into the waters; thence Ekata was born; he let a second fall; thence Dvita was born; he let a third fall; thence Trita was born.'" The opening clause of the quotation is clotted [?].)*
 
