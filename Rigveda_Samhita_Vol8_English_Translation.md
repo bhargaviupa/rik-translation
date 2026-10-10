@@ -3950,7 +3950,7 @@ Title block:
 
 *(Running head: left 134; centre "Sāyaṇabhāṣyasahitā"; right "Maṃ. 1 A. 15 Sū. 98".)*
 
-**Grammar of Rik 97.8, concluded from p. 133 (noted briefly):** …*sip* arises; since *śap* is the cause, guṇa of the root's *i* [*ṛ*] by *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84 [?]); *raparaḥ* by *uraṇ raparaḥ*; *ato heḥ* (Pā. 6-4-105 [?]) elides *hi*; since the root has the *dvy-ac* form, the lengthening in the Saṃhitā by *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135 [?]) (*parṣā*). ‖ 8 ‖
+**Grammar of Rik 97.8, concluded from p. 133 (noted briefly):** …*sip* arises; since *śap* is the cause, guṇa of the root's *i* [*ṛ*] by *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-74); *raparaḥ* by *uraṇ raparaḥ*; *ato heḥ* elides *hi*; since the root has the *dvy-ac* form, the lengthening in the Saṃhitā by *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135) (*parṣā*). ‖ 8 ‖
 
 *(Here Sūkta 97 ends; the print has no separate closing line.)*
 
@@ -4020,7 +4020,7 @@ Title block:
 
 ### Page 137 (PDF 157)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 137.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6"; centre "Ṛgvedasaṃhitā"; right 137.)*
 
 **English Translation (as printed)**
 
@@ -4034,21 +4034,21 @@ Title block:
 > एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥
 > *indraṃ mitraṃ varuṇam agnim āhur atho divyaḥ sa suparṇo garutmān |*
 > *ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ‖*
-> (*Ṛ. Saṃ.* 1-164-46 as read)
+> (*Ṛ. Saṃ.* 1-164-46)
 
 *(Translation, mine and tentative: "They call him Indra, Mitra, Varuṇa, Agni; then he is the heavenly, well-winged Garutmat. That which is One the sages speak of in many ways: they call it Agni, Yama, Mātariśvan".)*
 
-"Of this very Agni, the Mahātman, the Ātman who is the One alone, the intelligent speak in many ways: *agniḥ sarvā devatāḥ* (Ni. 7-[?]; also the Brāhmaṇa says it: 'Agni is all the deities'). The great-souled one, the universal Self, this Agni, all people worship, by calling him separately by names such as Indra. And in all the various contexts, the other fire-forms in which he appears under different appearances have as their root this very Vaiśvānara; the remaining forms are all branches of this Vaiśvānara fire: this is also the testimony of scripture."
+"Of this very Agni, the Mahātman, the Ātman who is the One alone, the intelligent speak in many ways: *agniḥ sarvā devatāḥ* (Ni. 7-18 [?]; also the Brāhmaṇa says it: 'Agni is all the deities'). The great-souled one, the universal Self, this Agni, all people worship, by calling him separately by names such as Indra. And in all the various contexts, the other fire-forms in which he appears under different appearances have as their root this very Vaiśvānara; the remaining forms are all branches of this Vaiśvānara fire: this is also the testimony of scripture."
 
 > वयो इदग्ने अग्नयस्ते अन्ये त्वे विश्वे अमृता मादयन्ते ।
 > वैश्वानर नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ध्यंथ ॥
 > *vayo id agne agnayas te anye tve viśve amṛtā mādayante |*
 > *vaiśvānara nābhir asi kṣitīnāṃ sthūṇeva janām̐ upamid yayantha ‖*
-> (*Ṛ. Saṃ.* 1-59-1 as read)
+> (*Ṛ. Saṃ.* 1-59-1)
 
 *(Gloss, mine and tentative: "the other Agnis are but branches of you, Agni; in you all the immortals rejoice; Vaiśvānara, you are the navel of the peoples; you hold the folk up like a pillar".)*
 
-"Since Vaiśvānara, the fire, is the cause of the existence and the continuance of the whole world, all the dealings of the world are led by him. Therefore all beings, who desire the welfare of the self and the welfare of the world, should worship this Agni, the Self of the universe: the scriptures that teach rites and the scriptures that teach spiritual knowledge alike, in one way, teach the necessity of the worship of Vaiśvānara fire. The Saṃhitās, beginning with *vaiśvānarasya sumatau syāma* (Ṛ. Saṃ. 1-98-1), and the Brāhmaṇas, such as the Śatapatha — '*sa yo haitam evam agniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ veda; āpa punarmṛtyuṃ jayati sarvam āyur eti*' — 'he who knows this Vaiśvānara Agni, of the form of the Puruṣa, established within the Puruṣa, conquers death again and attains the full life' (Śa. Brā. 10-6-1-11 [?]) — say that one who knows the form of this Vaiśvānara fire, which is in the form of the Puruṣa, the Man [*puruṣāntar-cintana*, meditated within the man], conquers death, and obtains his full life; and: '*atha ya etam evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati*' ('and he who, knowing him thus, performs the Agnihotra, has his offering made in all worlds, in all beings, in all selves' [Chāndogya-type sentence, as read [?]]). So, knowing the nature of the Vaiśvānara fire, whatever" *(continues on p. 138)*
+"Since Vaiśvānara, the fire, is the cause of the existence and the continuance of the whole world, all the dealings of the world are led by him. Therefore all beings, who desire the welfare of the self and the welfare of the world, should worship this Agni, the Self of the universe: the scriptures that teach rites and the scriptures that teach spiritual knowledge alike, in one way, teach the necessity of the worship of Vaiśvānara fire. The Saṃhitās, beginning with *vaiśvānarasya sumatau syāma* (Ṛ. Saṃ. 1-98-1), and the Brāhmaṇas, such as the Śatapatha — '*sa yo haitam evam agniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ veda; āpa punarmṛtyuṃ jayati sarvam āyur eti*' — 'he who knows this Vaiśvānara Agni, of the form of the Puruṣa, established within the Puruṣa, conquers death again and attains the full life' (Śa. Brā. 10-6-1-11) — say that one who knows the form of this Vaiśvānara fire, which is in the form of the Puruṣa, the Man [*puruṣāntar-cintana*, meditated within the man], conquers death, and obtains his full life; and: '*atha ya etam evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati*' ('and he who, knowing him thus, performs the Agnihotra, has his offering made in all worlds, in all beings, in all selves' [Chāndogya-type sentence, as read [?]]). So, knowing the nature of the Vaiśvānara fire, whatever" *(continues on p. 138)*
 
 ---
 
@@ -4058,26 +4058,26 @@ Title block:
 
 **Special Topics of Rik 98.1, continued from p. 137 (Kannada)**
 
-"…the Puruṣa performs the Agnihotra, his offering is made as though in all beings, in all worlds and in all selves (Chā. Up. 5-2[4]-3 [?]): thus the Upaniṣads, the Chāndogya and others, state the greatness of the worship of the Vaiśvānara fire. Therefore, what the nature of this deity is, and what relation this deity has to the performance of rites and to the attainment of spiritual knowledge, must by all means be known in this context. In this very Ṛk it is said *rājā hi kam bhuvanānām abhiśrīḥ*: 'Vaiśvānara is the worshipful lord of all beings'. But the question 'who is this Vaiśvānara?' also arose; and the Nirukta-author, in explaining this very Ṛk, takes many examples and concludes that Vaiśvānara is the earthly fire. His explanation is this —"
+"…the Puruṣa performs the Agnihotra, his offering is made as though in all beings, in all worlds and in all selves (Chā. Up. 5-24-2): thus the Upaniṣads, the Chāndogya and others, state the greatness of the worship of the Vaiśvānara fire. Therefore, what the nature of this deity is, and what relation this deity has to the performance of rites and to the attainment of spiritual knowledge, must by all means be known in this context. In this very Ṛk it is said *rājā hi kam bhuvanānām abhiśrīḥ*: 'Vaiśvānara is the worshipful lord of all beings'. But the question 'who is this Vaiśvānara?' also arose; and the Nirukta-author, in explaining this very Ṛk, takes many examples and concludes that Vaiśvānara is the earthly fire. His explanation is this —"
 
 > वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयन्तीति वा ।
 > अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः ।
 > *vaiśvānaraḥ kasmād viśvān narān nayati | viśva enaṃ narā nayantīti vā |*
 > *api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*
-> (*Ni.* 7-21 as read [?])
+> (*Ni.* 7-21)
 
 *(Translation, mine and tentative: "Why is he Vaiśvānara? Because he leads all men; or because all men lead him; or he may be* viśvānara *— 'having all men'; 'all beings have entered into him': therefore* vaiśvānara*.")*
 
 "Since he is the leader of all as a guide, or since all invoke him as the chief deity of the sacrifice, or since he has pervaded everywhere and entered into all beings, [the Nirukta-author] explains the Ṛk *vaiśvānarasya sumatau syāma* and gives the nature of this deity. *Ito jātaḥ sarvam idam abhi paśyati vaiśvānaraḥ saṃyatete sūryeṇa rājā yaḥ sarveṣāṃ bhūtānām abhiśrayaṇīyaḥ* — 'we shall be in the gracious favour of Vaiśvānara, born from here, he who sees all this and unites with the sun, the king, to be approached by all beings': the meaning of the Ṛk is explained thus: 'both because he is the lord and because he is the support of all, may we all be worthy of the gracious view of this Vaiśvānara; born here in the earthly form he looks over the world and becomes one with the sun'. Having explained it, —"
 
 > तत्को वैश्वानरः । ... (नि. ७-२३)
-> *tat ko vaiśvānaraḥ | … (ni. 7-23)*
+> *tat ko vaiśvānaraḥ | … (ni. 6-22)*
 
 "— after posing the question 'who is this Vaiśvānara?' and discussing the divergence of the ancient authorities, the Nirukta-author at the end gives his own conclusive view. In their discussion they point out, first, the fault in the opinions that hold Vaiśvānara to be a deity of the atmosphere:"
 
 > मध्यम इत्याचार्याः । वर्षकर्मणा ह्येनं स्तौति । प्र नू महित्वं वृषभस्य वोचम् ।
 > *madhyama ity ācāryāḥ | varṣakarmaṇā hy enaṃ stauti | pra nū mahitvaṃ vṛṣabhasya vocam |*
-> (*Ṛ. Saṃ.* 1-[?]9-[?] as read [?])
+> (*Ṛ. Saṃ.* 1-59-6)
 
 *(Translation, mine and tentative: "'[Vaiśvānara is] of the middle region,' say the teachers; for he is praised by the act of rain: 'I will speak forth the greatness of the bull'.")* "— the teachers hold that he is a deity of the atmosphere, praising him as the cause of the work of rain, as is described in the Ṛk 'pra nū mahitvam…'. And besides —"
 
@@ -4129,15 +4129,15 @@ Title block:
 
 > अथ यान्येतान्यात्मिकानि सूक्तानि भागानि वा सावित्राणि वा सौर्याणि वा पौष्णानि वा वैष्णवानि वा वैश्वदेव्यानि वा तेषु वैश्वानरीयाः प्रवादा अभविष्यन्नादित्यकर्मणा जैनमस्तोष्यन्निति देवेदेत्यस्तमेषीति विसर्केषीति ।
 > *atha yāny etāny ātmikāni sūktāni bhāgāni vā sāvitrāṇi vā saurāṇi vā pauṣṇāni vā vaiṣṇavāni vā vaiśvadevyāni vā teṣu vaiśvānarīyāḥ pravādā abhaviṣyann ādityakarmaṇā jainam astoṣyann iti devedety astameṣīti visarkeṣīti |*
-> (*Ni.* 7-2[3] as read [?])
+> (no reference is printed here)
 
 *(Read from the print, doubtful in several words [?]. Translation, mine and tentative, with the Kannada: "And in the sūktas of the self [?], or the parts, or those to Savitṛ, Sūrya, Pūṣan, Viṣṇu, the Viśve-devāḥ, statements about Vaiśvānara would have occurred; he would have been praised by the act of Āditya, as the one who rises, who sets, who goes round.")* "If Vaiśvānara were the sun himself, then the nature and action of such deities of the atmosphere as Savitṛ, Pūṣan, Viṣṇu and the Viśve-devāḥ would also have had to be spoken of in him in the spiritual sense; and he would have had to be spoken of as 'rising', 'setting', 'going round'. But here there are only descriptions relating to Agni as deity; so it is clearly known that this Vaiśvānara is a synonym of the earthly Agni. From these and other grounds —"
 
 > यस्तु सूक्तं भजते यस्मै हविर्निरूप्यते तेयमेव सोऽग्निर्वैश्वानरः ।
 > *yas tu sūktaṃ bhajate yasmai havir nirūpyate teyam eva so 'gnir vaiśvānaraḥ |*
-> (*Ni.* 7-2[?] as read [?])
+> (*Ni.* 7-22 to 7-31, as given in the Kannada after the passage)
 
-"— the hymn of praise and the offering of the oblation are firmly understood to be offered for Vaiśvānara, the form of Agni. That the appearance of this Vaiśvānara fire is, on the earth too, the work of him alone, is also: *rājā hi kam bhuvanānām abhiśrīḥ*: he is the lord and the refuge of all beings. For this reason those who worship deities such as the heavenly ones are plainly said, in many places, to be able to obtain good fortune only through worship of him. Whereas it is the rule that one worships his earthly form by the performance of rites, the worship, made by knowledge of the spiritual form, of him who is all-pervading, who is within all things moving and unmoving of the whole universe, is another kind. Knowing the relation that exists between the performance of rites and the worship by knowledge, the greatness of the universal-soul fire Vaiśvānara is explained in the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads. The story of the seers who went to a teacher to know his true nature is told in the Śatapatha Brāhmaṇa (10-6-1-1 to 11 [?])."
+"— the hymn of praise and the offering of the oblation are firmly understood to be offered for Vaiśvānara, the form of Agni. That the appearance of this Vaiśvānara fire is, on the earth too, the work of him alone, is also: *rājā hi kam bhuvanānām abhiśrīḥ*: he is the lord and the refuge of all beings. For this reason those who worship deities such as the heavenly ones are plainly said, in many places, to be able to obtain good fortune only through worship of him. Whereas it is the rule that one worships his earthly form by the performance of rites, the worship, made by knowledge of the spiritual form, of him who is all-pervading, who is within all things moving and unmoving of the whole universe, is another kind. Knowing the relation that exists between the performance of rites and the worship by knowledge, the greatness of the universal-soul fire Vaiśvānara is explained in the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads. The story of the seers who went to a teacher to know his true nature is told in the Śatapatha Brāhmaṇa (10-6-1-1 to 11)."
 
 > अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः । (नि. ७-२१)
 > *api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ | (ni. 7-21)*
@@ -4191,13 +4191,13 @@ Title block:
 
 "…Vaiśvānara (*sutejas*). 'Since you know this, in your house the pressing of Soma and the cooking [of food] are never lacking. The one who knows it wins death and attains full life. But this is only the eye of Vaiśvānara. Had you not come to me, your eye would have been of no use, or you would not have known it' (verse 8). Then, to Jana Śārkarākṣya: 'Sāyavasa, which Vaiśvānara do you know?' — he said 'the atmosphere' [as the Kannada has it; the print's Sanskrit on p. 142 reads *divam*, 'heaven' [?]]. Approving it, [the king said]: 'This is the best part of Vaiśvānara; because you know this, you are excellent among all your equals. The one who knows it wins death and attains full life. But this is only the head of Vaiśvānara. Had you not come to me, your head would have been of no use, or you would not have had the knowledge of it' (verse 9). At the end, addressing all of them, he said: 'Each of you has taken a separate part of Vaiśvānara, and so you enjoy different foods. These well-known deities are only the size of a span (*prādeśamātra*), and for you I will explain these deities in the form of the span-measure' (verse 10). In the end he indicated the head and said, 'this is *atiṣṭhā*, Vaiśvānara'; pointing to the eyes, 'this is *sutejas*, Vaiśvānara'; at the nose, 'this is of separate paths'; at the mouth, space, 'this is *bahula*'; at the ... [? the print: *mukhyā āpaḥ*] water, 'this is wealth'; at the loins [*bubuka*], earth, 'this is the support'. He taught that this Vaiśvānara fire is no one other than the best of persons (*puruṣa*); that one who knows this Vaiśvānara fire, in the form of the Puruṣa and abiding within the Puruṣa, wins death and attains full life; and that no trouble ever befalls the one who always speaks his praise (verse 11)."
 
-*(Śa. Brā. 10-6-1-1 to 11 [?].)*
+*(Śa. Brā. 10-6-1-1 to 11.)*
 
-"Thus the manner of explaining the nature of the Vaiśvānara fire, showing its relation to the performance of rites and to the attainment of spiritual knowledge, can be seen in the Chāndogya and other Upaniṣads too. In the Chāndogya Upaniṣad (5-11 to 5-24 [?]) also the story relating to the Vaiśvānara fire is told as in the Śatapatha Brāhmaṇa; but there are slight differences in the names and in the narrative. Even so, Aśvapati Kaikeya, understanding the views of all the seers who had come to him for instruction, and approving them all, in the end explained the all-sided form of Vaiśvānara, which has all those parts, in the way the Śatapatha Brāhmaṇa also does: all are separate parts of the Vaiśvānara fire, and their harmony in the complete Vaiśvānara is one."
+"Thus the manner of explaining the nature of the Vaiśvānara fire, showing its relation to the performance of rites and to the attainment of spiritual knowledge, can be seen in the Chāndogya and other Upaniṣads too. In the Chāndogya Upaniṣad (5-11 to 5-18) also the story relating to the Vaiśvānara fire is told as in the Śatapatha Brāhmaṇa; but there are slight differences in the names and in the narrative. Even so, Aśvapati Kaikeya, understanding the views of all the seers who had come to him for instruction, and approving them all, in the end explained the all-sided form of Vaiśvānara, which has all those parts, in the way the Śatapatha Brāhmaṇa also does: all are separate parts of the Vaiśvānara fire, and their harmony in the complete Vaiśvānara is one."
 
 ### Page 145 (PDF 165)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6 [?]"; centre "Ṛgvedasaṃhitā"; right 145; foot: printer's signature "10 … Volume 8".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 7, Varga 6"; centre "Ṛgvedasaṃhitā"; right 145; foot: printer's signature "10 … Volume 8".)*
 
 > तस्य ह वा एतस्यात्मनो वैश्वानरस्य मूर्धैव सुतेजाश्चक्षुर्विश्वरूपः प्राणः पृथग्वर्त्मात्मा सन्देहो बहुलो बस्तिरेव रयिः पृथिव्येव पादावुर एव वेदिर्लोमानि बर्हिर्हृदयं गार्हपत्यो मनोऽन्वाहार्यपचन आस्यमाहवनीयः ॥
 > *tasya ha vā etasyātmano vaiśvānarasya mūrdhaiva sutejāś cakṣur viśvarūpaḥ prāṇaḥ pṛthagvartmātmā sandeho bahulo bastir eva rayiḥ pṛthivy eva pādāv ura eva vedir lomāni barhir hṛdayaṃ gārhapatyo mano 'nvāhāryapacana āsyam āhavanīyaḥ ‖*
@@ -4207,13 +4207,13 @@ Title block:
 
 > स य इदमविद्वानग्निहोत्रं जुहोति यथाङ्गारानपोह्य भस्मनि जुहुयात्तादृक्तत्स्यात् ।
 > *sa ya idam avidvān agnihotraṃ juhoti yathāṅgārān apohya bhasmani juhuyāt tādṛk tat syāt |*
-> (*Chā. Up.* 5-24-1 as read)
+> (*Chā. Up.* 5-24-1)
 
 "— one who, not knowing the nature of this Vaiśvānara fire, performs the Agnihotra, is as if he made the offering into ashes after removing the embers: so the necessity of knowledge is shown."
 
 > अथ य एतदेवं विद्वानग्निहोत्रं जुहोति तस्य सर्वेषु लोकेषु सर्वेषु भूतेषु सर्वेष्वात्मसु हुतं भवति ।
 > *atha ya etad evaṃ vidvān agnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣv ātmasu hutaṃ bhavati |*
-> (*Chā. Up.* 5-24-3 as read)
+> (*Chā. Up.* 5-24-2)
 
 "— one who, knowing the greatness of this Vaiśvānara fire, the Self of the universe, performs the Agnihotra, has made his offering in all worlds, in all beings and in all selves: thus the all-pervasiveness of the Vaiśvānara fire is shown:"
 
@@ -4225,7 +4225,7 @@ Title block:
 
 > विश्वान्नरान्नयति पुण्यपापानुरूपां गतिं सर्वात्मैष ईश्वरो वैश्वानरो विश्वश्चासौ नरश्च विश्वानर एव वा सर्वात्मत्वात् । विश्वैर्वा नरैः प्रत्यगात्मतया प्रविभज्य नीयत इति वैश्वानरस्तमेवमुपास्ते । …… वैश्वानरविद्येत्यर्वात्मा सन्नन्नमत्ति ।
 > *viśvān narān nayati puṇyapāpānurūpāṃ gatiṃ sarvātmaiṣa īśvaro vaiśvānaro viśvaś cāsau naraś ca viśvānara eva vā sarvātmatvāt | viśvair vā narair pratyagātmatayā pravibhajya nīyata iti vaiśvānaras tam evam upāste | …… vaiśvānaravidyety arvātmā sann annam atti |*
-> (*Chā. Up. Śāṅkara-bhāṣya* 5-1[8]-1 as read [?])
+> (*Chā. Up. Śāṅkara-bhāṣya* 5-18-1)
 
 *(Translation, mine and tentative: "He leads all men to the path that fits their merit and sin: this Lord, the Self of all, is Vaiśvānara; or* viśvānara *— 'he who is all and is man', because he is the Self of all; or, because he is led, divided, by all men as their inner Self — thus* vaiśvānara*; him he thus worships… [the middle of the passage is left blank by dots in the print]; the knowledge of Vaiśvānara; being the Self, he eats food.")*
 
@@ -4239,35 +4239,35 @@ Title block:
 
 "— thus, following the Nirukta-author's derivation, [Sāyaṇa] has set out the nature of Vaiśvānara, the fire that is the Self of the universe.
 
-*Abhiśrīḥ* — (*Ni.* 2-[2?]-[?] as read [?]) 'worshipful, and also one to be resorted to'; for the reasons set out above Vaiśvānara is the refuge of all the worlds. In this word the sense of 'worthy of worship' or 'support, resort' is the chief one in use: one who has greatness as the support of all the worlds, is the sense."
+*Abhiśrīḥ* — (*Ni.* 7-22) 'worshipful, and also one to be resorted to'; for the reasons set out above Vaiśvānara is the refuge of all the worlds. In this word the sense of 'worthy of worship' or 'support, resort' is the chief one in use: one who has greatness as the support of all the worlds, is the sense."
 
 > एनी ते एते बृहती अभिश्रियो हिरण्ययी वक्वरी बर्हिराशाते ।
 > *enī te ete bṛhatī abhiśriyo hiraṇyayī vakvarī barhir āśāte |*
-> (*Ṛ. Saṃ.* 1-[1?]4[4?]-6 as read [?]; the initial words *enī te ete* and *hiraṇyayī* clotted in print [?])
+> (*Ṛ. Saṃ.* 1-144-6; the initial words *enī te ete* and *hiraṇyayī* clotted in print [?])
 
 > घृतवती भुवनानामभिश्रियोर्वी पृथ्वी मधुदुघे सुपेशसा ।
 > *ghṛtavatī bhuvanānām abhiśriyorvī pṛthvī madhududughe supeśasā |*
-> (*Ṛ. Saṃ.* 6-70-1 as read [?])
+> (*Ṛ. Saṃ.* 6-70-1)
 
 > प्रत्नं होतारमीड्यं जुषस्वाग्निं कविक्रतुम् । अध्वराणामभिश्रियम् ।
 > *pratnaṃ hotāram īḍyaṃ juṣasvāgniṃ kavikratum | adhvarāṇām abhiśriyam |*
-> (*Ṛ. Saṃ.* 8-44-[6/7?] as read [?])
+> (*Ṛ. Saṃ.* 8-44-7)
 
 > विराण्मित्रावरुणयोरभिश्रीरिन्द्रस्य त्रिष्टुबिह भागो अह्नः ।
 > *virāṇ mitrāvaruṇayor abhiśrīr indrasya triṣṭub iha bhāgo ahnaḥ |*
-> (*Ṛ. Saṃ.* 10-130-[5?] as read [?])
+> (*Ṛ. Saṃ.* 10-130-5)
 
 *(Glosses on these four citations, mine and tentative: "Those two great ones, the* abhiśrī*, golden, the* vakvarī*, take their seat on the sacred grass"; "the buttery one, the* abhiśrī *of the worlds, the broad and wide ones, the two who yield honey, the shapely"; "Be pleased with the ancient, praiseworthy* hotṛ*, Agni, wise in will, the* abhiśrī *of sacrifices"; "the* virāj *is the* abhiśrī *of Mitra and Varuṇa, the* triṣṭubh *is Indra's share of the day here".)*
 
 "In all these contexts, as the epithet *abhiśrī* carries the sense of one fit to be saluted and fit to be praised, so here too the greatness of Vaiśvānara as the worshipful refuge is shown.
 
-*Vi caṣṭe* — since *cikyat, cākanat, ācakṣ* and the like are read among the verbs of seeing (*Ni.* 3-[1?]3 as read [?]), *vi caṣṭe* means 'he looks'. Though born on earth,"
+*Vi caṣṭe* — since *cikyat, cākanat, ācakṣ* and the like are read among the verbs of seeing (*Ni.* 3-13), *vi caṣṭe* means 'he looks'. Though born on earth,"
 
 > जात आप्स्यो [?] भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
 > *jāta āpsyo [?] bhuvanāni rodasī agne tā viśvā paribhūrasi tmanā |*
-> (*Ṛ. Saṃ.* 3-[2?]-1[0?] as read [?]; the second word clotted in print, not completed from memory)
+> (*Ṛ. Saṃ.* 3-3-10; the second word clotted in print, not completed from memory)
 
-"— as is here described, because he pervades all worlds, heaven and earth and the rest, all things come within his view; and because he is the lord of all the worlds, and because the welfare of the world is bound to come from his favour, such a Vaiśvānara — *sumatau syāma* — *vayaṃ vaiśvānarasya kalyāṇyāṃ matau syāma* (*Ni.* 7-[2?]1 as read [?]) — the chief meaning is: may we be fit to obtain his favour, which is itself a blessing."
+"— as is here described, because he pervades all worlds, heaven and earth and the rest, all things come within his view; and because he is the lord of all the worlds, and because the welfare of the world is bound to come from his favour, such a Vaiśvānara — *sumatau syāma* — *vayaṃ vaiśvānarasya kalyāṇyāṃ matau syāma* (*Ni.* 7-22) — the chief meaning is: may we be fit to obtain his favour, which is itself a blessing."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 98.1)** *(grammar pages, pp. 146–147, noted briefly; numerals small and doubtful [?])*
 
@@ -4303,8 +4303,8 @@ This page is the continuation of the grammar of 98.1 described above; it closes 
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Rik 98.2)**
 
-> चातुर्मास्येष्वन्वारम्भणीये वैश्वानरपार्जन्या । तस्यां वैश्वानरस्य हविषः पृष्टो दिवीति याज्या । चातुर्मास्यानीति खण्डे सूत्रितम् । पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पर्जन्याय प्र गायत । आ. २-[१?]९ [?] । इति ॥
-> *cāturmāsyeṣv anvārambhaṇīye vaiśvānarapārjanyā | tasyāṃ vaiśvānarasya haviṣaḥ pṛṣṭo divīti yājyā | cāturmāsyānīti khaṇḍe sūtritam | pṛṣṭo divi pṛṣṭo agniḥ pṛthivyāṃ parjanyāya pra gāyata | Ā. 2-[1?]9 [?] | iti ‖*
+> चातुर्मास्येष्वन्वारम्भणीये वैश्वानरपार्जन्या । तस्यां वैश्वानरस्य हविषः पृष्टो दिवीति याज्या । चातुर्मास्यानीति खण्डे सूत्रितम् । पृष्टो दिवि पृष्टो अग्निः पृथिव्यां पर्जन्याय प्र गायत । आ. २-१५ । इति ॥
+> *cāturmāsyeṣv anvārambhaṇīye vaiśvānarapārjanyā | tasyāṃ vaiśvānarasya haviṣaḥ pṛṣṭo divīti yājyā | cāturmāsyānīti khaṇḍe sūtritam | pṛṣṭo divi pṛṣṭo agniḥ pṛthivyāṃ parjanyāya pra gāyata | Ā. 2-15 | iti ‖*
 
 *(The print's first words read* cāturmāsyāny anvārambhaṇīye… *with the singular/plural of the first word uncertain [?]; the reference at the end is read from small numerals [?].)*
 
