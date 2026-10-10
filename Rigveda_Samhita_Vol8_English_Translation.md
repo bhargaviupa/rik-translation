@@ -97,7 +97,7 @@
 
 > माता पुत्रैरदितिर्धायसे वेः [?]
 > *mātā putrair aditir dhāyase veḥ [?]*
-> (*Ṛ. Saṃ.* 1-?-9 [?])
+> (*Ṛ. Saṃ.* 1-72-9, as corrected by the reader)
 
 "— such a worshipful Aditi is praised as the supporter of the world. This Aditi is the indivisible, the free from bonds, the liberated and the endless. Her sons, the Ādityas —"
 
