@@ -137,7 +137,7 @@
 
 *(Gloss, mine and tentative: "to whom the sons of Aditi, for the life of the mortal, give light unceasingly".)*
 
-"As is said in Ṛks like this, the sons of Aditi — Mitra and the others — give lasting light to men. Aditi, the mother of the world, along with her sons the Ādityas, must come and give happiness to men: with such passages as *ādityair no aditiḥ śarma yaṃsat* (1-107-2, 10-66-3, confirmed by the reader), *ādityā aditiṃ svastaye* (10-63-5, confirmed by the reader), *devā ādityā aditiṃ havāmahe* (10-65-9, as corrected by the reader) [all as read] prayer is made. In just this way, in many other Ṛks too (2-27-10 [?]; 8-[?]-[?]; 6-[?]-[?] and others), Aditi is prayed to together with the Ādityas. Therefore '*āditya*' must be understood as always meaning the twelve. Whether in the work of protection or in the work of removing sin, Mitra and Varuṇa are always the direct helpers of Aditi."
+"As is said in Ṛks like this, the sons of Aditi — Mitra and the others — give lasting light to men. Aditi, the mother of the world, along with her sons the Ādityas, must come and give happiness to men: with such passages as *ādityair no aditiḥ śarma yaṃsat* (1-107-2, 10-66-3, confirmed by the reader), *ādityā aditiṃ svastaye* (10-63-5, confirmed by the reader), *devā ādityā aditiṃ havāmahe* (10-65-9, as corrected by the reader) [all as read] prayer is made. In just this way, in many other Ṛks too (2-27-10, 5-69-2, 6-51-11, 7-66-6 and others — as in the reader's log), Aditi is prayed to together with the Ādityas. Therefore '*āditya*' must be understood as always meaning the twelve. Whether in the work of protection or in the work of removing sin, Mitra and Varuṇa are always the direct helpers of Aditi."
 
 > अदिते मित्र वरुणोत मृळ यद्वो वयं चकृमा कच्चिदागः ।
 > *adite mitra varuṇota mṛḷa yad vo vayaṃ cakṛmā kac cid āgaḥ |*
@@ -145,7 +145,7 @@
 
 > मित्रो नो अत्रादितिरनागान्त्सविता देवो वरुणाय वोचत् ।
 > *mitro no atrāditir anāgān savitā devo varuṇāya vocat |*
-> (*Ṛ. Saṃ.* 10-?-? [?])
+> (*Ṛ. Saṃ.* 10-35-9, as in the reader's log)
 
 *(Glosses, mine and tentative: "Aditi, Mitra and Varuṇa, be gracious, for whatever offence we have committed against you"; "may Mitra, Aditi, [and] the god Savitṛ declare us sinless to Varuṇa". The second quotation is read as printed, doubtful [?].)*
 
@@ -153,19 +153,19 @@
 
 > अथा वयमादित्य व्रते तवानागसो अदितये स्याम ।
 > *athā vayam āditya vrate tavānāgaso aditaye syāma |*
-> (*Ṛ. Saṃ.* 1-24-15 [?])
+> (*Ṛ. Saṃ.* 1-24-15, as in the reader's log)
 
 > अनागास्त्वमदिते सर्वताता ।
 > *anāgāstvam adite sarvatātā |*
-> (*Ṛ. Saṃ.* 1-94-15 [?])
+> (*Ṛ. Saṃ.* 1-94-15, as in the reader's log)
 
 > अनागास्त्वं नो अदितिः कृणोतु ।
 > *anāgāstvaṃ no aditiḥ kṛṇotu |*
-> (*Ṛ. Saṃ.* 1-?-? [?])
+> (*Ṛ. Saṃ.* 1-121-12, as in the reader's log)
 
 *(Glosses, mine and tentative: "so may we, O Āditya, in your law, sinless, belong to Aditi"; "sinlessness, O Aditi, in all the rites"; "may Aditi make us sinless".)*
 
-"— by being made free of sin, prayer is made for purity of the self, and for the purity of the food and the like which is the means of nourishing the body. Thus Mitra and Varuṇa, the *ṛtāvṛdhau*, *dhṛtavratau* (8-[?]-[?]), have a direct relation with Aditi. In the same way, with the earth and the atmosphere also, many places declare the identity of Aditi. So, since the nature and the action of Mitra, Varuṇa, Aditi, Pṛthivī and the deity of the heavenly world are alike, all these deities who are the makers of purity are put together and prayed to, in *tan no mitro varuṇo māmahantām*. [In Kutsa's works, which stand in this order, even in the Ṛk 1-[?]-[?] [?], all these deities are addressed together:] *rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣpipartana* — in Ṛks like this too, Kutsa prays to the deities that he be made free of sin and brought to self-purity; that is the chief element in his works."
+"— by being made free of sin, prayer is made for purity of the self, and for the purity of the food and the like which is the means of nourishing the body. Thus Mitra and Varuṇa, the *ṛtāvṛdhau*, *dhṛtavratau* (8-47-9, as in the reader's log), have a direct relation with Aditi. In the same way, with the earth and the atmosphere also, many places declare the identity of Aditi. So, since the nature and the action of Mitra, Varuṇa, Aditi, Pṛthivī and the deity of the heavenly world are alike, all these deities who are the makers of purity are put together and prayed to, in *tan no mitro varuṇo māmahantām*. [In Kutsa's works, which stand in this order, even in the Ṛk 9-97-46 (as in the reader's log), all these deities are addressed together:] *rathaṃ na durgād vasavaḥ sudānavo viśvasmān no aṃhaso niṣpipartana* — in Ṛks like this too, Kutsa prays to the deities that he be made free of sin and brought to self-purity; that is the chief element in his works."
 
 "The story concerning Trita, narrated in the 105th Sūkta, and the prayer made in connexion with it, is one of the chief subjects of this adhyāya. The subject of Trita is a problem for the scholars. A conclusive answer cannot be given even to the question whether this name is the name of the seer who saw the sūkta, or whether there is a deity named Trita. In some places the word *Trita* is used as an epithet of Indra and of Agni. Therefore in the Ṛksaṃhitā and other…" *(continues on p. iv)*
 
