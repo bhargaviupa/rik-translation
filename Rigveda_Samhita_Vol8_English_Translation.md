@@ -113,7 +113,7 @@
 
 "— they are called seven Ādityas without naming them; and of the eight Ādityas referred to in 10-72-8 (confirmed by the reader), the seven who remain, with the exception of Mārtāṇḍa, are said to have been given over to the sway of the gods (10-72-9, confirmed by the reader)." *(continues below)*
 
-"In 1-50-12 (as corrected by the reader) the verse beginning *ud agād ayam ādityaḥ*, and in 1-191-9 (as corrected by the reader) *udapaptad asau sūryaḥ* (उदपप्तदसौ सूर्यः; "that sun flew up" — mine, tentative): the sun is said to be one of the sons of Aditi, one of the Ādityas. In 9-?-3 [?] the line *tan naḥ savitā bhago varuṇo mitro aryamā* is read, and there Savitṛ is placed with Bhaga, Varuṇa, Mitra and Aryaman. Thus, although no determinate statement is made on the number of the Ādityas, yet —"
+"In 1-50-12 (as corrected by the reader) the verse beginning *ud agād ayam ādityaḥ*, and in 1-191-9 (as corrected by the reader) *udapaptad asau sūryaḥ* (उदपप्तदसौ सूर्यः; "that sun flew up" — mine, tentative): the sun is said to be one of the sons of Aditi, one of the Ādityas. In 8-18-3 (as corrected by the reader) the line *tan naḥ savitā bhago varuṇo mitro aryamā* is read, and there Savitṛ is placed with Bhaga, Varuṇa, Mitra and Aryaman. Thus, although no determinate statement is made on the number of the Ādityas, yet —"
 
 > भगश्चैवार्यमांशश्च मित्रो वरुण एव च ।
 > धाता चैव विधाता च विवस्वांश्च महाद्युतिः ॥
