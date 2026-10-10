@@ -326,7 +326,7 @@
 
 > य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ।
 > *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive |*
-> (*Ṛ. Saṃ.* 8-53-2 as read [?])
+> (*Ṛ. Saṃ.* 8-53-2, read from the 600 ppi scan)
 
 *(Glosses, mine and tentative: "for him you made Kutsa, Ātithigva, Āyu subject to the great, young king"; "who, waxing from day to day, crushed Āyu, Kutsa, Ātithigva".)*
 
