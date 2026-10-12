@@ -25,3 +25,6 @@ Alternate clean scan of the same edition: branch `alt-scan-vol8` (Git LFS), `Rig
 
 ## Rebuilds still needed after any edit
 `.docx` (pandoc `-f markdown-yaml_metadata_block`), plain PDF (LibreOffice), designed print PDF (`python3 publish/build_vol45.py 8 full`), review worklist (`python3 publish/review_all.py`). Rebuilt after the numeral pass (Oct 2026): .docx (Devanagari count 283,676 = .md), plain PDF, designed PDF (1,367 pp.), worklist (Vol 8: 5,744 flagged spots).
+
+## OCR was tried and dropped (Oct 2026)
+Tesseract (kan+san+eng, 300 dpi) reads the Kannada numerals well (10 of 12 references on three test pages) but the words badly; Google Docs OCR only works on small files and returned a machine translation; Cloud Vision was not tested (judged not worth it by the reader). Decision: keep reading page images directly. Scripts left in `publish/tools/ocr/` (Vision and Tesseract) in case it is revisited. To save tokens on later volumes: read numerals correctly in the FIRST pass using the digit key above (no second pass), send crops at lower resolution where legible, generate the three-layer Sanskrit/structure/checks by script, and test a smaller model for first drafts.
