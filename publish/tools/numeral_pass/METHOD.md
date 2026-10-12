@@ -28,3 +28,6 @@ Alternate clean scan of the same edition: branch `alt-scan-vol8` (Git LFS), `Rig
 
 ## OCR was tried and dropped (Oct 2026)
 Tesseract (kan+san+eng, 300 dpi) reads the Kannada numerals well (10 of 12 references on three test pages) but the words badly; Google Docs OCR only works on small files and returned a machine translation; Cloud Vision was not tested (judged not worth it by the reader). Decision: keep reading page images directly. Scripts left in `publish/tools/ocr/` (Vision and Tesseract) in case it is revisited. To save tokens on later volumes: read numerals correctly in the FIRST pass using the digit key above (no second pass), send crops at lower resolution where legible, generate the three-layer Sanskrit/structure/checks by script, and test a smaller model for first drafts.
+
+### Google Docs OCR also tried on Vol 9 (Oct 2026) — dropped
+A 48-page extract (printed pp. 36–83 of Vol 9) opened via Google Docs gave Kannada text with many word errors, garbled running heads and accent-marked verse lines, and wrong digits at the ends of Ṛk references (reader's judgement). Decision: no OCR in the pipeline; read the page images directly, with numerals read correctly in the first pass.
