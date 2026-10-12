@@ -165,3 +165,7 @@ Goal: publish Volumes 1–5 as print-ready PDFs, **one volume at a time**. The c
 ## Vol 8 numeral second pass (added Oct 2026)
 
 Pīṭhike pp. ii–ix and Sūktas 95–97 (printed pp. 1–133) of `Rigveda_Samhita_Vol8_English_Translation.md` had every Kannada numeral re-read from the clean 600 ppi alternate scan (branch `alt-scan-vol8`; **alt PDF page = printed page + 21**). Sūktas 98–112 were *not* redone by the reader's decision. Method, digit key (flat-footed "2"-glyph = 7, curled = 2), tools (`publish/tools/numeral_pass/`), what the print omits, and open readings are in `publish/tools/numeral_pass/METHOD.md` — read it before continuing. Reading logs and the reader's corrections are in `publish/review/Vol8_*numeral*` and `Vol8_Sukta95_user_corrections.md`. Rebuild .docx/.pdf/worklist after any further edit.
+
+## Volume 9 (set up Oct 2026)
+
+`Rig_Vol9.pdf` (623 PDF pp., in the repo via Git LFS — run `git lfs pull` if it is a 133-byte pointer): Maṇḍala 1, **Sūktas 113–130, the Eighth Adhyāya** of the First Aṣṭaka; **printed page = PDF − 20** (title page PDF 21 = printed 1; sūkta 113 starts printed p. 2); contents on PDF 14–20 (last topic p. 601). Output: `Rigveda_Samhita_Vol9_English_Translation.md` (append-only, header + single trailing progress note). OCR (Tesseract, Google Docs) was tried and rejected: read the page images directly, read numerals correctly in the first pass (digit key in `publish/tools/numeral_pass/METHOD.md`), crop to the text area where legible.
