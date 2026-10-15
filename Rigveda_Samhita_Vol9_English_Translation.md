@@ -12187,4 +12187,56 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–4 complete; Ṛk 5 Saṃhitā written (printed p. 511, PDF 531). Next: printed p. 512 (PDF 532): Ṛk 5 Pada onward. Numerals as read (no numeral list covers these pages): Ni. 3-13 and sūtra numbers on pp. 510–511 `[as read]`.
+### Printed p. 512  (PDF 532; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 120.5)**
+
+> प्र । या । घोषे । भृगवाणे । न । शोभे । यया । वाचा ।
+> यजति । पज्रियः । वाम् ।
+> प्र । इषऽयुः । न । विद्वान् ॥ ५ ॥
+
+> *pra | yā | ghoṣe | bhṛgavāṇe | na | śobhe | yayā | vācā |*
+> *yajati | pajriyaḥ | vām |*
+> *pra | iṣa 'yuḥ | na | vidvān ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 120.5)** *(small type; read with some doubts)*
+
+> हे अश्विनौ प्र भवति समर्था भवति सा वाक् या वाक् स्तुतिरूपा घोषे घोषाख्यायाः पुत्रे सुहस्त्याख्ये ऋषौ भृगवाणे न भृगौ च शोभे शोभते । यया च स्तुतिलक्षणया वाचा पज्रियः । पज्रा अङ्गिरसः । तेषां कुलोत्पन्नः कक्षीवानयं वां युवां यजति पूजयति स्तौति । साऽपि शोभते इत्यर्थः । इषयुर्न इषमन्नमात्मनः कामयमानश्च विद्वान् स्तुत्यभिज्ञः कक्षीवानृषिः प्र भवतु । युष्मदनुग्रहात्संपूर्णकामो भवत्वित्यर्थः ॥ घोषे । घोषा नाम काचिद्ब्रह्मवादिनी कक्षीवतः पुत्री । अत्रोपचारात्त्यद्वाचकं प्रातिपदिकं पुत्रे वर्तते । भृगवाणे । चिरंतनो भृगुरिवाचरति । सर्वप्रातिपदिकेभ्य इति क्विप् । धातुसंज्ञायां व्यत्ययेन लटः शानच् । शबादि । आगमानुशासनस्यानित्यत्वान्नुम्गभावः । वृषादिः । शोभे । शुभ दीप्तौ । लोपस्त आत्मनेपदेष्विति तलोपः । इषयुः । इष गतौ । इष्यति गच्छतीतीषमन्नं । इगुपधलक्षणः कः । यद्वा । इषु इच्छायाम् । इष्यते सर्वैः प्राणिभिरितीषमन्नम् । व्यत्ययेन कर्मणि कर्तृप्रत्ययः । प्रशब्देन संहितायां प्रादूहोढोढ्येषैष्येषु वृद्धिर्वक्तव्या । (पा. ६-१-८९-१ [as read]) इति वृद्धिः ॥
+
+> *he aśvinau pra bhavati samarthā bhavati sā vāk yā vāk stutirūpā ghoṣe ghoṣākhyāyāḥ putre suhastyākhye ṛṣau bhṛgavāṇe na bhṛgau ca śobhe śobhate | yayā ca stutilakṣaṇayā vācā pajriyaḥ | pajrā aṅgirasaḥ | teṣāṃ kulotpannaḥ kakṣīvānayaṃ vāṃ yuvāṃ yajati pūjayati stauti | sā 'pi śobhate ityarthaḥ | iṣayurna iṣamannamātmanaḥ kāmayamānaśca vidvān stutyabhijñaḥ kakṣīvānṛṣiḥ pra bhavatu | yuṣmadanugrahātsaṃpūrṇakāmo bhavatvityarthaḥ ‖ ghoṣe | ghoṣā nāma kācidbrahmavādinī kakṣīvataḥ putrī | atropacārāttyadvācakaṃ prātipadikaṃ putre vartate | bhṛgavāṇe | ciraṃtano bhṛgurivācarati | sarvaprātipadikebhya iti kvip | dhātusaṃjñāyāṃ vyatyayena laṭaḥ śānac | śabādi | āgamānuśāsanasyānityatvānnumgabhāvaḥ | vṛṣādiḥ | śobhe | śubha dīptau | lopasta ātmanepadeṣviti talopaḥ | iṣayuḥ | iṣa gatau | iṣyati gacchatītīṣamannaṃ | igupadhalakṣaṇaḥ kaḥ | yadvā | iṣu icchāyām | iṣyate sarvaiḥ prāṇibhiritīṣamannam | vyatyayena karmaṇi kartṛpratyayaḥ | praśabdena saṃhitāyāṃ prādūhoḍhoḍhyeṣaiṣyeṣu vṛddhirvaktavyā | (pā. 6-1-89-1 [as read]) iti vṛddhiḥ ‖*
+
+*Sense (mine):* "O Aśvins, *pra bhavati* — that speech is capable, the speech in the form of praise which shines (*śobhe*) *ghoṣe* — in the son of Ghoṣā, the ṛṣi named Suhastya, and *bhṛgavāṇe na* — in Bhṛgu; and with which speech in the form of praise *pajriyaḥ* — Kakṣīvān, born in the family of the Pajras, the Aṅgirases — *vāṃ yajati* — worships, praises you: that [speech] too shines. *Iṣayur na* — as one who desires food (*iṣam*) for himself, and *vidvān* — knowing how to praise: may the ṛṣi Kakṣīvān prevail (*pra bhavatu*): may he, by your favour, have all his desires fulfilled."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.5)** (Kannada, rendered)
+
+*Yā* — which (praise-word in your praise); *ghoṣe* — in the son of the woman Ghoṣā, in Suhastya also; *bhṛgavāṇe na* — in Bhṛgu also; *śobhe* — shines (it is prominent); *pra (bhavati)* — is capable; *yayā vācā* — by which word; *pajriyaḥ* — Kakṣīvān, born of the line of Pajra; *vām* — you; *yajati* — worships; *iṣayuḥ* — desirous of food; *vidvān na* — also one knowing the praise, Kakṣīvān; *pra (bhavatu)* — may he be fully desirous (may his desires be fulfilled).
+
+---
+
+### Printed p. 513  (PDF 533; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.5)** (Kannada, rendered)
+
+"The praise-words used by Kakṣīvān, of the line of Pajra — the son of the woman Ghoṣā, and also Bhṛgu — are full of power. May Kakṣīvān, who desires food and who knows how to praise, obtain his wish by your favour."
+
+**English Translation (as printed)**
+
+"(Powerful is) the hymn that was repeated by the son of Ghosha, and by Bhrigu, and with which hymn the Angirasas adore you; may the sage (Kakshsivat), desirous (of food), obtain it abundantly."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 5)**
+
+"In explaining the meaning of this Ṛk, Sāyaṇa and Skandasvāmin hold somewhat different views. Sāyaṇa, in explaining the word *ghoṣe*:
+
+> घोषे । घोषा नाम काचिद्ब्रह्मवादिनी कक्षीवतः पुत्री । अत्रोपचारात्तद्वाचकं प्रातिपदिकं पुत्रे वर्तते । घोषाख्यायाः पुत्रे सुहस्त्याख्ये ऋषौ ।
+
+> *ghoṣe | ghoṣā nāma kācidbrahmavādinī kakṣīvataḥ putrī | atropacārāttadvācakaṃ prātipadikaṃ putre vartate | ghoṣākhyāyāḥ putre suhastyākhye ṛṣau |*
+
+— 'Ghoṣā was a certain *brahmavādinī* woman, a daughter of Kakṣīvān; here, by transference of sense, the stem denoting her stands for her son; in the son of the woman named Ghoṣā, in the ṛṣi named Suhastya'. A woman named Ghoṣā, the daughter of the ṛṣi called Kakṣīvān, was a knower of the Self; her son was known by the name Suhastya. He is indicated here by the word *ghoṣā*; this is held to be a figurative usage (*aupacārika*) — a usage that accepts a transfer of the mother's name to the son. Skandasvāmin: *ghoṣyamāṇatvāt ghoṣaḥ stomaḥ* — he explains: 'because it is uttered in a high voice, *ghoṣa* means praise'."
+
+*Bhṛgavāṇe* — *ciraṃtano bhṛgur ivācarati*: "'one who behaves as the ancient Bhṛgu' — Sāyaṇa; and taking the particle *na* ['like'] in the sense of 'and', he explains *bhṛgavāṇe na śobhe* as *bhṛgau ca śobhate*, 'it shines also in the ṛṣi Bhṛgu'. In *bhṛgavāṇe na śobhe*, the word *na* is a word of comparison. [*Bhṛgavāṇa* is a synonym of *bhṛgu*]: *bhṛgavāṇaśabdo bhṛgoḥ paryāyaḥ; sa saptamyarthe ca saptamī; bhṛgor iva pra śobhe prakarṣeṇa śobhate*; hence 'as it shines in Bhṛgu'. The word *bhṛgavāṇa* is a synonym of *bhṛgu*, so it conveys the meaning of the ṛṣi Bhṛgu: 'as it shines gloriously in the ṛṣi Bhṛgu'."
+
+*Pajriyaḥ* — "Skandasvāmin: *prakarṣeṇa yajati; pājaḥ haviḥlakṣaṇam annam taddārhaḥ pajriyaḥ; athavā pajrā aṅgirasaḥ teṣām apatyabhūtaḥ pajriyaḥ kakṣīvān ātmanā vivāyaṃ* [as read [?]]" *(continues on p. 514)*
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–4 complete; Ṛk 5 through printed p. 513 (PDF 533): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 514). Next: printed p. 514 (PDF 534). Numerals as read: Pā. 6-1-89-1 `[as read]`.
