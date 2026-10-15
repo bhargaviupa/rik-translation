@@ -8179,4 +8179,58 @@ Skandasvāmin, on this matter:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–7 complete; Ṛk 8 through printed p. 341 (PDF 361): Saṃhitā, Pada, bhāṣya (second half of its small type characterized only), pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 342; Skandasvāmin quotation breaks off at "kaṃ hi yuvānau"). Next: printed p. 342 (PDF 362). Open: p. 340 bhāṣya small type `[?]`.
+### Printed p. 342  (PDF 362; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Special Topics of Ṛk 8, continued; the Skandasvāmin quotation resumes)* "… *vikṛtya bhitvā ca jaṅghayor madhye śirasi ca punaś ca saṃdhāya hiraṇyatvacaṃ punar ujjīvayām āñcakruḥ | tadetat purastād api vakṣyati ‖*" [as read]
+
+"— so it is said," and he quotes:
+
+> हिरण्यहस्तमश्विना रराणा पुत्रं नरा वध्रिमत्या अदत्तम् ।
+> त्रिधा ह श्यावमश्विना विकस्तमुज्जीवस ऐरयतं सुदानू ॥
+> (ऋ. सं. १-११७-२४)
+
+> *hiraṇyahastamaśvinā rarāṇā putraṃ narā vadhrimatyā adattam |*
+> *tridhā ha śyāvamaśvinā vikastamujjīvasa airayataṃ sudānū ‖*
+> *(ṛ. saṃ. 1-117-24)*
+
+Kannada: "The eldest son of the son of Agni, called Ghora, was dark-skinned from leprosy and had a disfigured form; the Aśvins, seeing him, cut his body at the shank and head, took out what causes the arising of the disease, and then joined it again as it was before, and made his skin shining — this account is told, and a Ṛk expounding it is quoted."
+
+*Mahaḥ kṣoṇasya* — *kṣoṇāya yaḥ dṛṣṭirāhityena gantum aśaktaḥ san ekasminn eva sthāne nivasati tasmai kaṇvāya ṛṣaye tejaḥ-… cakṣurindriyam adattam*: "To Kaṇva, the ṛṣi who, being without sight, was unable to go and stayed in one place only, you gave the light-like sense of sight" — so Sāyaṇa explains, seeing that the ṛṣi Kaṇva was unable to see and stayed in one spot. (This repeated clause shows that the doubtful words in the bhāṣya on p. 340 are *dṛṣṭirāhityena*, "through lack of sight".)
+
+Skandasvāmin also explains it in the same way and quotes:
+
+> युवं कण्वायापिरिप्ताय चक्षुः प्रत्यधत्तं सुष्टुतिं जुजुषाणा ॥ [as read]
+> (ऋ. सं. १-११८-७ [as read])
+
+> *yuvaṃ kaṇvāyāpiriptāya cakṣuḥ pratyadhattaṃ suṣṭutiṃ jujuṣāṇā ‖ [as read]*
+> *(ṛ. saṃ. 1-118-7 [as read])*
+
+— "in explaining *aśvinā kaṇvāya* he takes the words *mahaḥ kṣoṇasya* into this sentence and makes it one sentence." And:
+
+> यन्नार्षदाय नृषदः पुत्राय कण्वाय क्षोणस्य क्षोणः शब्दकारी वीणाविशेषः । महः महतः क्षोणस्य श्रवः शब्दमध्यधत्तम् उषसो विज्ञानार्थमधिकमकुरुतम् ।
+
+> *yannārṣadāya nṛṣadaḥ putrāya kaṇvāya kṣoṇasya kṣoṇaḥ śabdakārī vīṇāviśeṣaḥ | mahaḥ mahataḥ kṣoṇasya śravaḥ śabdamadhyadhattam uṣaso vijñānārthamadhikamakurutam |*
+
+Kannada: "When Kaṇva, the son of Nṛṣada, had no hearing, they made the sound of a *vīṇā* so that he might know that the dawn had come." *(Here *kṣoṇa* is taken as a kind of sound-making *vīṇā*.)*
+
+> अपर आह — ब्राह्मणस्य परीक्षार्थमसुराः कण्वमृषिं गूढे तमसि निदधुः । अत्रैव स्थितः सन् वृष्ट्यामुषसं [?] विजानीहि यदि त्वं ब्राह्मणोऽसि । तमश्विनावागत्योचतुः । वृष्ट्यायां [?] हर्म्यस्योपरि वीणां वादयन्तावावामागमिष्यावः । तं शब्दं श्रुत्वा वृष्ट्यामुषसं [?] ब्रूहि । तदेतत् प्रतिपाद्यते ॥ [as read; small type]
+
+> *apara āha — brāhmaṇasya parīkṣārthamasurāḥ kaṇvamṛṣiṃ gūḍhe tamasi nidadhuḥ | atraiva sthitaḥ san vṛṣṭyāmuṣasaṃ [?] vijānīhi yadi tvaṃ brāhmaṇo 'si | tamaśvināvāgatyocatuḥ | vṛṣṭyāyāṃ [?] harmyasyopari vīṇāṃ vādayantāvāvāmāgamiṣyāvaḥ | taṃ śabdaṃ śrutvā vṛṣṭyāmuṣasaṃ [?] brūhi | tadetat pratipādyate ‖ [as read; small type]*
+
+---
+
+### Printed p. 343  (PDF 363; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+Kannada, continuing: "…[the Aśvins] caused the son of Nṛṣada, who was not hearing with his ears, to hear" — (Skandasvāmin) thus giving, in his own explanation, a construction different from that of Sāyaṇa, in one sentence (*anvaya*); the opinion of another (*apara āha*) is also stated by Sāyaṇa: "The asuras, to test the brahminhood of the Brāhmaṇa, took Kaṇva, the son of Nṛṣada, to a very dark place, put him there and said: 'You, staying here, find out when the dawn comes and goes; [if you are a Brāhmaṇa you will know],' and shut him in by force. He could not hear. Then the Aśvins came to him: 'We shall come on the roof of the house where the asuras have shut you and play the *vīṇā*; hearing its sound, know whether the dawn has come or gone' — and they made him able to hear." Thus Skandasvāmin states his own view.
+
+*Yāska* — *kṣoṇasya kṣayaṇasya* (Ni. 6-6 [as read]): having weighed the meaning of the word *kṣoṇa* as "dwelling place", he says: "*mahaḥ kṣoṇasyāśvinā kaṇvāya*" is also a *nigama* (Vedic passage).
+
+By the sentence *pravācyaṃ tad vṛṣaṇā kṛtaṃ vām* it is described that all the works of the Aśvins, who protect their dependants by fulfilling their wishes, are exceedingly praiseworthy.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 8; grammar page, noted briefly)**
+
+*Ruśatīm* (root *ruś dīptau* [as read]; *laṭ*'s sense, suffix *śatṛ*; since *lasārvadhātuka* follows after *ā upadeśāt*, the root accent remains; in the feminine *ugitaś ca*, *ṅīp*; accusative singular form). *Mahaḥ* (root *maha pūjāyām*; the *auṇādika* suffix *asi*; accent of the final by the suffix; on the other view the word *mahat*, genitive singular, with Vedic loss of *at*; *bṛhanmahator upasaṃkhyānam*, acute on the case-ending; or the root *maha* with *kvip ca*, Pā. 3-2-76, suffix *kvip*, giving *mah*; genitive singular; *sāvekācas tṛtīyādir viḥ*, Pā. 6-1-168, acute on the case-ending). *Kṣoṇasya* (root *kṣi nivāsagatyoḥ*; *kṛtyalyuṭo bahulam*, Pā. 3-2-113, *lyuṭ* in the agent sense; *yuvor anākau*, Pā. 7-1-1, *ana* substituted; *pṛṣodarādīni yathopadiṣṭam*, the form *kṣoṇa*). On this matter … *(the page ends here; continues p. 344)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–8 complete except the end of Ṛk 8's grammar; printed p. 343 (PDF 363) reached — grammar of Ṛk 8 begun (*ruśatīm, mahaḥ, kṣoṇasya* done; continues p. 344). Next: printed p. 344 (PDF 364). Open: small-type Sanskrit on pp. 340/342 `[?]`; Ṛk refs 1-117-24, 1-118-7 checked against OCR list.
