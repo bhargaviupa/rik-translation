@@ -2525,4 +2525,18 @@ Grammar page on *apnaḥ* (*āp(ḷ)* "to obtain", with the sense of action give
 
 ---
 
-**Progress note:** Sūkta 113: Ṛks 1–20 complete (last Ṛk); printed p. 96 (PDF 116) done through the grammar page of Ṛk 20 (continues p. 97). Next: printed p. 97 (PDF 117) — rest of the Ṛk 20 grammar and the colophon of Sūkta 113 (its end); Sūkta 114 begins on p. 97 per the contents. Open: Ṛ. 1-151-7 `[?]`; Ni./Pā. numerals as read.
+### Printed p. 97  (PDF 117; header "Aṣṭaka 1, Adhyāya 8, Varga 4" [small numeral as printed]; footer signature mark "IX 7")
+
+*Grammar page of Ṛk 20, concluded (noted briefly):* *śaśamānāya* — the *cānaś* is *sārvadhātuka*, so *adupadeśa* causes the *sārvadhātuka* unaccentedness; since it is *cit*, the final syllable is accented by *citaḥ*, Pā. 6-1-163 as read [?], and the accent is on the last syllable of the stem; dative singular as before. *Bhadram* (*bhadi* "to be auspicious, to be happy" [printed: *bhadi kalyāṇe sukhe ca*]; the Uṇādi suffix *ra*; the accent on the last syllable from the suffix). The other words were explained above. ‖ 20 ‖
+
+**Colophon:** *nūrahadimūraneya sūkta samāptavu* — "The hundred-and-thirteenth Sūkta is ended."
+
+*(Printer's ornament.)*
+
+**End of Sūkta 113** (Ṛks 1–20, printed pp. 2–97; Maṇḍala 1, Anuvāka 16). *The page continues with the opening of Sūkta 114 (the one hundred-and-fourteenth, "imā rudrāya"), which is not part of this unit.*
+
+---
+
+---
+
+**Progress note:** **Sūkta 113 complete** (Ṛks 1–20; Eighth Adhyāya title page printed 1 and Sūkta 113 printed pp. 2–97, PDF 22–117). Pīṭhike and contents done earlier (printed i–xiii). IAST layer added throughout. **Next:** Sūkta 114 (*imā rudrāya*), which begins at the lower half of printed p. 97 (PDF 117): its Sanskrit introduction/Anuvāda of that page and the Saṃhitā from printed p. 98. Offset check still −20. Open flags: Ni./Pā./Ṛ. numerals read with `[?]` throughout; bhāṣya words in small type `[?]`; devatā-box numerals of Sūkta 113 `[?]`; **CLAUDE.md still says Sūktas 113–130 — should read 113–121.**
