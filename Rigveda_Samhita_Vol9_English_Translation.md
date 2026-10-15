@@ -4187,4 +4187,100 @@ where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk
 
 ---
 
-**Progress note:** Sūkta 115: Ṛks 1–4 complete; Ṛk 5 through printed p. 171 (PDF 191): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*sūryaḥ*, *rūpaṃ kṛṇute*, *mitraḥ*, *varuṇaḥ*, *pājaḥ*, *ruśat*; may continue p. 172). Next: printed p. 172 (PDF 192). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
+### Printed p. 172  (PDF 192; header "Maṃ. 1 A. 16 Sū. 115")  [Special Topics of Ṛk 5, continued]
+
+**हरितः** — *Haritaḥ* — "the word *harita* is stated among the twenty-one [as read] names of rivers (*nadīnāma*) (Ni. 1-?? as read [?]) and in the *ādityaraśmi*-names, '*harita ādityasya*' (Ni. 3-?? as read [?]); Sāyaṇa explains this word as 'the sap-drawing rays, or the green-tawny horses' — the rays or the Sun's horses, whose nature is to dry up water."
+
+**अनन्तं पाजः सं भरन्ति** — *Anantaṃ pājaḥ saṃ bharanti* — "since *ruśat* is an adjective of *pājaḥ* (the word meaning strength), the Sun's rays, spread over the whole world, produce by their auspicious lustre a most abundant light, and drive away the darkness of night and spread light everywhere."
+
+**कृष्णमन्यत्** — *Kṛṣṇam anyat* — "*kṛṣṇavarṇam anyat tamaḥ svakīyopagamanena rātrau*": "in the daytime, the Sun's rays shine, giving their brightness so that the darkness of night is entirely destroyed. The Sun, shining by his rays in the daytime with a form of splendour, at the time of night, because he has set, withdraws his rays so that another form — black — different from the shining form of day, may come about. His rays are in this way the cause of the ordering of day and night; therefore the greatness of the Sun who has such rays is exceedingly wonderful. The Nirukta-writer, on the topic that the Sun's rays draw up the sap, cites —
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
+> (यजु. सं. [Vāj.?] ३-४१-४२ [?])
+
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpatanti |*
+> *(yaju. saṃ. [Vāj.?] 3-41-42 [?])*
+
+— 'the green-tawny ones, the beautiful-winged, clothing themselves with the waters, fly up to heaven' — explaining: this Lord the Āditya, when for the favour of the world he takes the water into himself, as an embryo, enters the northern course (*uttarāyaṇa*); then his rays, honoured, *harayaḥ*, sap-drawing ones, draw up the water (Ni. 2-?? as read [?])."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 5; grammar page, noted briefly)**
+
+*abhicakṣe* (*cakṣiṅ* "to speak", with *abhi*; *kvip* in the abstract sense by *sampadādibhyaḥ kvip*, Vārt. 3-3-108 as read [?], giving *abhicakṣ*; the compound with the prefix keeps the later member's accent by *gatikārakopapadāt kṛt*, Pā. 6-2-139 as read [?]; dative singular); 
+
+### Printed p. 173  (PDF 193; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*kṛṇute* (*kṛvi* "to injure, to do"; *idito num dhātoḥ*, Pā. 7-1-58 as read [?], the *num* augment; *dhinvikṛṇvor a ca*, Pā. 3-1-80 as read [?], *u* as the *vikaraṇa*, with *a* substituted for the final; *ato lopaḥ*, Pā. 6-4-48 as read [?]; by *sthānivadbhāva* there is no guṇa of the penultimate; nighāta); *upasthe* (*ṣṭhā* "to cease from motion"; by *ghañarthe kavidhānam* the suffix *ka* in the locative sense; *ā to lopa iṭi ca*, Pā. 6-4-64 as read [?], the elision of *ā*; *gatir anantaraḥ*, Pā. 6-2-49 as read [?], the prefix keeps its accent; since it belongs to the *marudvṛdhādi* group the first member takes the final accent); *dyoḥ* (the word *dyo*; genitive singular *ṅas*; *jasi ca* … *pūrvarūpa*, Pā. 6-1-110 as read [?]; *s* → *ru* → visarga); *ruśat* (*ruśa* "to shine"; *śatṛ* in the *laṭ* sense; *śap* by *tudādibhyaḥ śaḥ*, Pā. 3-1-77 as read [?], *śa*; as *adupadeśa* the *sārvadhātuka* is unaccented; the root accent remains); *pājaḥ* (*pāti rakṣati iti pājaḥ* = strength; *pā* "to protect"; *asun* by *pāter bale juṭ ca*, Uṇ. 4-?? as read [?]; the augment *juṭ*; *pājas*; *pājaḥ asyāsti*, in the sense of the possessor, *vin* by *asmāyāmedhā…*, Pā. 5-2-121 as read [?], which in the Veda is elided; first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]); *bharanti* (*bhṛñ* "to bear", bhvādi *laṭ* 3rd plural; nighāta). ‖ 5 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 6
+
+### Printed p. 174  (PDF 194; header "Maṃ. 1 A. 16 Sū. 115")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.6)**
+
+> अद्या देवा उदिता सूर्यस्य निरंहसः पिपृता निरवद्यात् ।
+> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ ६ ॥
+
+> *adyā devā uditā sūryasya niraṃhasaḥ pipṛtā niravadyāt |*
+> *tanno mitro varuṇo māmahantāmaditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.6)**
+
+> अद्य । देवाः । उत्ऽइता । सूर्यस्य । निः । अंहसः । पिपृत ।
+> निः । अवद्यात् ।
+> तत् । नः । मित्रः । वरुणः । ममहन्ताम् । अदितिः । सिन्धुः । पृथिवी ।
+> उत । द्यौः ॥ ६ ॥
+
+> *adya | devāḥ | ut 'itā | sūryasya | niḥ | aṃhasaḥ | pipṛta |*
+> *niḥ | avadyāt |*
+> *tat | naḥ | mitraḥ | varuṇaḥ | mamahantām | aditiḥ | sindhuḥ | pṛthivī |*
+> *uta | dyauḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.6)**
+
+> हे देवा द्योतमानाः सूर्यरश्मयः । अद्यास्मिन्काले सूर्यस्यादित्यस्योदिता उदयेन सत्येतत्स्तुतेः प्रसरन्तो यूयमस्मानंहसः पापान्निष्पिपृत । निष्पारयत । पालयतेत्यर्थः । यदिदमस्माभिरुक्तं नोऽस्मदीयं तन्मित्रादयः षड्देवता मामहन्ताम् । पूजयन्तु । अनुमन्यन्तां रक्षन्त्विति यावत् । मित्रः प्रमीतेस्त्रायकोऽहरभिमानी देवः । वरुणोऽनिष्टानां निवारयिता रात्र्यभिमानी । अदितिरखण्डनीयोदीना वा देवमाता । सिन्धुः स्यन्दनशीलोदकाभिमानिनी देवता । पृथिवी भूलोकस्याधिष्ठात्री । द्यौर्द्युलोकस्य । उतशब्दः समुच्चये ॥ [grammatical tail: *adya* — *nipātasya ca*, lengthening in the Saṃhitā; *uditā* — *ut* + *iṇ*, *ktin* in the abstract, *supāṃ sulug*, *ḍādeśa*, *ṭi*-elision; accent; *pipṛta* — *pṝ* "to protect, to fill", *loṭ* 2nd plural, juhotyādi, *śluḥ*, doubling, *arti-pipartyoś ca*, *i* for the reduplication; *tabādeśa* by *taptanaptanathanāś ca*; *sārvadhātukam apit*, *ṅit*, guṇa prevented…] [read from the print; small type, partly doubtful [?]]
+
+> *he devā dyotamānāḥ sūryaraśmayaḥ | adyāsminkāle sūryasyādityasyoditā udayena satyetatstuteḥ prasaranto yūyamasmānaṃhasaḥ pāpānniṣpipṛta | niṣpārayata | pālayatetyarthaḥ | yadidamasmābhiruktaṃ no 'smadīyaṃ tanmitrādayaḥ ṣaḍdevatā māmahantām | pūjayantu | anumanyantāṃ rakṣantviti yāvat | mitraḥ pramītestrāyako 'harabhimānī devaḥ | varuṇo 'niṣṭānāṃ nivārayitā rātryabhimānī | aditirakhaṇḍanīyodīnā vā devamātā | sindhuḥ syandanaśīlodakābhimāninī devatā | pṛthivī bhūlokasyādhiṣṭhātrī | dyaurdyulokasya | utaśabdaḥ samuccaye ‖ [grammatical tail: *adya* — *nipātasya ca*, lengthening in the Saṃhitā; *uditā* — *ut* + *iṇ*, *ktin* in the abstract, *supāṃ sulug*, *ḍādeśa*, *ṭi*-elision; accent; *pipṛta* — *pṝ* "to protect, to fill", *loṭ* 2nd plural, juhotyādi, *śluḥ*, doubling, *arti-pipartyoś ca*, *i* for the reduplication; *tabādeśa* by *taptanaptanathanāś ca*; *sārvadhātukam apit*, *ṅit*, guṇa prevented…] [read from the print; small type, partly doubtful [?]]*
+
+*Sense (mine):* "O shining *devāḥ*, rays of Sūrya: to-day, at this time, with the Sun's *uditā*, rising, spreading forth by the praise made of this, deliver (*niṣ pipṛta*) us from *aṃhas*, sin; protect. What we have said, may the six deities, Mitra and the rest, *mamahantām*, honour: may they approve, protect. *Mitra* — the deity of the day who protects from death; *Varuṇa* — who wards off evils, the deity of night; *Aditi* — the indivisible (or undiminished) mother of the gods; *Sindhu* — the deity of the flowing waters; *Pṛthivī* — the presiding deity of the earth; *Dyau* — of heaven; *uta* in the sense of 'and'."
+
+### Printed p. 175  (PDF 195; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammatical tail, concluded:* *pipṛta* — *loṭ* with *loṭo laṅvat*, *ta* → *ta* by *tasthasthamipāṃ…*; *juhotyādibhyaḥ śluḥ*; the doubling in *śluḥ*; *ur at*, *halādiśeṣa*; *arti-pipartyoś ca*; *sārvadhātukam apit*, the *tabādeśa* by *taptanaptanathanāś ca*; *dīrghaḥ* in the Saṃhitā by *tuṣughṛtyādinā*.)
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*he devāḥ* — O shining rays; *adya* — now; *sūryasya uditā* — at the rising of the Sun; *aṃhasaḥ* — from sin; *niḥ pipṛta* — protect, separating; *naḥ* — our; *tat* — this *stotra*; *mitraḥ* — Mitra; *varuṇaḥ* — Varuṇa; *aditiḥ* — Aditi; *sindhuḥ* — the deity of the ocean; *pṛthivī* — the earth; *uta* — and; *dyauḥ* — the deity of heaven and the rest; *mamahantām* — honour and protect."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O shining rays of the Sun, as soon as the Sun has risen, protect us, delivering us from sins. May Mitra, Varuṇa, Aditi, Pṛthivī, Sindhu and the deities of the atmosphere make this praise of ours worthy."
+
+**English Translation (as printed)**
+
+> This day, gods, with the rising of the sun, deliver us from heinous sins ; and may Mitra, Varuna, Aditi,—ocean, earth, and heaven, be favourable to this our prayer.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**देवाः** — *Devāḥ* — "*dyotamānāḥ sūryaraśmayaḥ*": "the word *deva*, derived from the root *div*, means 'lustrous', or 'shining'. The rays of the Sun, shining, spread over everything exceedingly after the Sun's rising. The hope is expressed here that the rays of the Sun, spreading their light in this way, may destroy all our sins —
+
+*mitra* — *primīteḥ trāyaḥ*: Mitra, the presiding deity of the day, who protects from death; Varuṇa, the presiding deity of the night, who wards off evils; Aditi, the mother of the gods; Sindhu, the presiding deity of the ocean;
+
+### Printed p. 176  (PDF 196; header "Maṃ. 1 A. 16 Sū. 115")
+
+the earth, and the atmosphere too — praising the Sun in this way, may they protect us, destroying our sins: this wish is expressed here."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar page, noted briefly)**
+
+*adya* (*nipātasya ca*, Pā. 6-3-136 as read [?], lengthening in the Saṃhitā); *devāḥ* (nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *uditā* (*ut* + *iṇ* "to go"; *striyāṃ ktin*, Pā. 3-3-94 as read [?], *ktin* in the abstract; no guṇa since *kit*; the locative singular by *supāṃ sulug*, Pā. 7-1-39 as read [?], *ḍā*; being *ḍit* the *ṭi* (the *i*) is elided; *tādau ca niti kṛty atau* [as printed; *tāḍau ca*…, Pā. 6-2-50 as read [?]] the first-member accent of the *kṛt*-final compound is overruled, and the prefix (*ut*) keeps its own accent); *pipṛta* (*pṝ* "to protect, to fill" — some read it with a short final; juhotyādi; *loṭ* 2nd plural, *loṭo laṅvat*, Pā. 3-4-85 as read [?], with *laṅ*-like treatment; *tasthasthamipāṃ…*, Pā. 3-4-101 as read [?], *ta* for *tas*… [as printed]; *juhotyādibhyaḥ śluḥ*, Pā. 2-4-75 as read [?]; *ślau*, Pā. 6-1-10 as read [?], doubling of the root; *ur at*, Pā. 7-4-66 as read [?], *a* for the reduplication's *ṛ*; *raparatva*; *halādiśeṣa*; *arti-pipartyoś ca*, Pā. 7-4-77 as read [?], *i* for *a*; since the suffix is *sārvadhātukam apit*, *ṅit*, no guṇa of the root's *i*; for the same reason [by *ṅit*] *ṛta*… *tuṣughṛtyādinā*, Pā. 6-3-135 as read [?], lengthening in the Saṃhitā; nighāta is prevented, so the accent comes from the suffix and the word is final-accented); *avadyāt* (*vad* "to speak"; *avadyapaṇyavarṣyā garhyapaṇitavyānirodheṣu*, Pā. 3-1-101 as read [?], *yat* formed irregularly in the sense of *garhya*, 'blameworthy'; *nañsubhyām*, Pā. 6-2-172 as read [?], the first-syllable accent of the later member…; ablative singular). ‖ 6 ‖
+
+**Colophon:** *nūrahadinaideneya sūkta samāptavu* — "The hundred-and-fifteenth Sūkta is ended."
+
+*(Printer's ornament.)*
+
+**End of Sūkta 115** (Ṛks 1–6; printed pp. 149–176).
+
+---
+
+**Progress note:** **Sūkta 115 complete** (Ṛks 1–6, printed pp. 149–176; PDF 169–196). Sūktas 113, 114, 115 done. Next: Sūkta 116 (*nāsatyābhyāṃ*, Aśvins; contents say printed p. 177, PDF 197 — the Sūkta is long, to p. ≈ 307) then Sūkta 117 (p. 308). Pages PDF 197–230 already cropped to scratchpad. Open: numerals as read `[?]` throughout; CLAUDE.md range 113–121.
