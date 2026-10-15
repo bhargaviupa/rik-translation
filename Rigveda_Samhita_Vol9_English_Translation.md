@@ -11627,4 +11627,74 @@ In this Ṛk too the word *vipra* is used in the sense of 'wise'."
 
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 487 (PDF 507): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 488). Next: printed p. 488 (PDF 508). Numerals as read: sūtra numbers on p. 486 `[as read]`.
+### Printed p. 488  (PDF 508; header "Maṃ. 1 A. 17 Sū. 119")
+
+*(Pratipadārtha of Ṛk 9, concluded)* "… *dadhīcaḥ* — of the ṛṣi (Dadhīca, Atharvan's son); *manaḥ* — the mind; *ā vivāsathaḥ* — you propitiated (made [him] pleased); *atha* — thereafter (when he was pleased); *aśvyam* — belonging to a horse; *śiraḥ* — the head (that was given to that Dadhyañc by you); *vām prati* — to you; *vadat* — [it] told (the honey-knowledge) (taught)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 119.9)** (Kannada, rendered)
+
+"O Aśvins! The bee praised you, who are endowed with honey (for honey); Kakṣīvān, the son of Uśij, calls you so that you may be pleased by drinking the soma-juice; when you had won the favour of the ṛṣi Atharvan [Dadhīca] (to give honey to the bee), he taught you, with the horse's head that you had given him, the honey-knowledge."
+
+**English Translation (as printed)**
+
+"That honey-seeking bee also murmured your praise; the son of Usij invokes you to the exhilaration of the Soma Juice: you conciliated the mind of Dadhyanch, so that, provided with the head of a horse, he taught you (the mystic science)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 9)**
+
+*Makṣikā madhumat arapat* — "The history is hinted at in Sāyaṇa's exposition: the bees known as *saraghā* — [which] when they could not find flowers for their honey, though honey was essential for them — praised the Aśvins and received the honey. Skandasvāmin [says] clearly:
+
+> अत्रेतिहासमाचक्षते । सरघानामा मधुकर्यः मक्षिकाः ताः कस्यां चिदनावृष्ट्यां शुष्कासु सर्वपुष्पजातिषु क्षुधा बाध्यमानाः मध्वर्थिन्यो ऽश्विनावाजुहुवुः । ताभ्य उपगम्याश्विनौ मधु ददतुः तत्ताः सपुरिति । [as read; small type [?]]
+
+> *atretihāsamācakṣate | saraghānāmā madhukaryaḥ makṣikāḥ tāḥ kasyāṃ cidanāvṛṣṭyāṃ śuṣkāsu sarvapuṣpajātiṣu kṣudhā bādhyamānāḥ madhvarthinyo 'śvināvājuhuvuḥ | tābhya upagamyāśvinau madhu dadatuḥ tattāḥ sapuriti | [as read; small type [?]]*
+
+— and, explaining this meaning, quoting this Ṛk:
+
+> मधु प्रियं भरथो यत्सरड्भ्यस्ताभिरू षु ऊतिभिरश्विना गतम् ।
+> (ऋ. सं. १-११२-२१ [as read])
+
+> *madhu priyaṃ bharatho yatsaraḍbhyastābhirū ṣu ūtibhiraśvinā gatam |*
+> *(ṛ. saṃ. 1-112-21 [as read])*
+
+and: *athavā makṣikāśabdenātra kuṣaścit makṣikāsādṛśyāt dadhīco ucyate* — 'or the word *makṣikā* here is used for a certain [person] who, by similarity to a bee, is called Dadhīca; she, [the bee] by the Aśvins, is called *madhuśabdasaṃyukta*, an excellent *brahma*, [Pravargya?]' [as read; small type [?]]. 'Taking *makṣikā*, as one similar in nature to a bee, to mean *dadhīcaḥ*, he says that the bee that is indicated by the word *dadhīca* teaches you the *parabrahma* that is obtained by means of the honey-knowledge' [as read]. This meaning is not quite appropriate."
+
+*Auśijaḥ huvanyati* — *uśijaḥ putraḥ kakṣīvān yuvām āhvayati*: "Kakṣīvān, the ṛṣi, son of Uśij, offers the soma-juice and calls you so as to produce satisfaction in you — thus Sāyaṇa's exposition. Skandasvāmin, in explaining the word *auśija*:
+
+> औशिजः उशिजो ऽपत्यभूतः कक्षीवान् । तं उशिजः प्रपौत्रं पौराणिकाः स्मरन्ति ।
+> तथा च —
+> उशिजो ब्रह्मदुक्थश्च ऋषिर्दीर्घतमास्तथा ।
+> कक्षीवांश्च त्रयस्त्रिंशत् स्मृता ह्यङ्गिरसां वराः ॥ इति ।
+
+> *auśijaḥ uśijo 'patyabhūtaḥ kakṣīvān | taṃ uśijaḥ prapautraṃ paurāṇikāḥ smaranti |*
+> *tathā ca —*
+> *uśijo brahmadukthaśca ṛṣirdīrghatamāstathā |*
+> *kakṣīvāṃśca trayastriṃśat smṛtā hyaṅgirasāṃ varāḥ ‖ iti |*
+
+[— 'Kakṣīvān is the descendant of Uśij. The Paurāṇikas recall him as the great-grandson of Uśij.' And so: 'Uśij, Brahmaduktha, the ṛṣi Dīrghatamas, and Kakṣīvān are remembered as thirty-three among the best of the Aṅgirases'.]
+
+*Saḥ ahaṃ uśijaḥ prapautraḥ kakṣīvān āhvayāmi* — 'I, Kakṣīvān, the great-grandson of Uśij, call [you]': the sense is that [the poet] indicates himself in the third person, as if speaking of another (*parokṣarūpeṇa nirdeśaḥ*). A Kannada gloss follows: 'Kakṣīvān, born in the line of Uśij, is the great-grandson of Uśij; Uśij, Brahmaduktha, the ṛṣi Dīrghatamas, Kakṣīvān — thirty-three persons of this kind are famed in the Purāṇas as the best of the Aṅgirasa ṛṣis'. Here, he gives the meaning that the third person is used, as if speaking from outside. And:
+
+> अथवा उशिक् पुत्रः औशिजः स युवाम् आहूतवान् ।
+
+> *athavā uśik putraḥ auśijaḥ sa yuvām āhūtavān |*
+
+— 'or the son of the woman called Uśik is Auśija: he is Dīrghaśravas; he calls you to the sacrifice, to drink soma and be pleased' — thus he explains in another way, and quotes:
+
+> यो भिस्सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशो अक्षरत् ।
+> कक्षीवन्तं स्तोतारं याभिरावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
+> (ऋ. सं. १-११२-११ [as read])
+
+> *yo bhissudānū auśijāya vaṇije dīrghaśravase madhu kośo akṣarat |*
+> *kakṣīvantaṃ stotāraṃ yābhirāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
+> *(ṛ. saṃ. 1-112-11 [as read])*
+
+---
+
+### Printed p. 489  (PDF 509; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(continuing)* "…, quoting this Ṛk." [The numbered quotations above run across the break at the top of p. 489, where the printed text finishes the *Makṣikā* paragraph and then gives *Auśijaḥ*.]
+
+*Dadhīcaḥ manaḥ ā vivāsathaḥ* — "The Aśvins, both to give honey to the bees and because they needed the honey-knowledge, are described as having satisfied the mind of the ṛṣi Dadhīca by the service they did for him."
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 489 (PDF 509): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *Dadhīcaḥ manaḥ ā vivāsathaḥ*) done; more Special Topics and grammar follow (p. 490). The page-break placement of the *Makṣikā* and *Auśijaḥ* paragraphs between pp. 488–489 was reconstructed loosely and should be checked. Next: printed p. 490 (PDF 510). Numerals as read: Ṛ. 1-112-21, 1-112-11 `[as read]`.
