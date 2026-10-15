@@ -4087,4 +4087,104 @@ where *anīka* means 'rival' [*pratispardhi*] and 'face' [*mukha*]. In this Ṛk
 
 ---
 
-**Progress note:** Sūkta 115: Ṛks 1–3 complete; Ṛk 4 through printed p. 167 (PDF 187): Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar page begun (*mahitvam*, *madhyā*, *kartoḥ*; continues p. 168). Next: printed p. 168 (PDF 188). Open: Nirukta passage (Ni. 4-11) small type `[?]`; numerals as read.
+### Printed p. 168  (PDF 188; header "Maṃ. 1 A. 16 Sū. 115")
+
+*Grammar page of Ṛk 4, concluded (noted briefly):* *vitatam* (*tanu* "to extend", with *vi*; *niṣṭhā*, *kta* in the passive by *niṣṭhā*, Pā. 3-2-102 as read [?]; since *udito vā*, Pā. 7-2-56 as read [?], gives an optional *iṭ* before *ktvā*, the *iṭ* augment here is prohibited by *yasya vibhāṣā*, Pā. 7-2-15 as read [?]; the final nasal of the root elided by *anudāttopadeśavanatitanotyādīnām…*, Pā. 6-4-37 as read [?]; the prefix keeps its accent by *gatir anantaraḥ*, Pā. 6-2-49 as read [?]); *jabhāra* (*hṛñ* "to take", *liṭ* 3rd singular; *ṇal* for *tip* by *parasmaipadānāṃ ṇalatusus…*; doubling of the root; *ur at*, the reduplication's *ṛ* → *a*; *halādiśeṣa*; *kuhoś cuḥ*, Pā. 7-4-62 as read [?]; *vṛddhi* of the penultimate by *ata upadhāyāḥ*, Pā. 7-2-116 as read [?]; *hṛgrahor bhaś chandasi*, Pā. 8-2-32 as read [?], *bha* for the *h*; nighāta); *ayukta* (*yujir* "to join", *luṅ* 3rd singular *ta*; *cleḥ sic*, *sic* as the substitute; *jhalo jhali*, Pā. 8-2-26 as read [?], its elision; *coḥ kuḥ*, Pā. 8-2-30 as read [?], *k* for the *j* of the root; *khari ca*, Pā. 8-4-55 as read [?], *ta* [for *da*]; the augment *aṭ*; since *yadā* precedes, no nighāta by *nipātair yad yadi…*, Pā. 8-1-30 as read [?]; the augment being *udātta* the word has first-syllable accent); *sadhasthāt* (*ṣṭhā* "to cease from motion"; by the statement "*ghañarthe kavidhānam*" the suffix *ka* in the locative sense; *ā to lopa iṭi ca* [as printed], elision of the *ā*; *sadha* for *saha* by *sadhamādasthayoś chandasi*, Pā. 6-3-96 as read [?]; since it belongs to the *dāsībhārādi* group the *kṛt*-second-member accent is overruled and the first member keeps its accent); *rātrī* (*rātreś cājasau*, Pā. 4-1-31 as read [?], *ṅīp* in the Veda); *tanute* (*tanu* "to extend", *laṭ* 3rd singular; nighāta). ‖ 4 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 5
+
+### Printed p. 169  (PDF 189; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 115.5)**
+
+> तन्मित्रस्य वरुणस्याभिचक्षे सूर्यो रूपं कृणुते द्योरुपस्थे ।
+> अनन्तमन्यद्रुशदस्य पाजः कृष्णमन्यद्धरितः सं भरन्ति ॥ ५ ॥
+
+> *tanmitrasya varuṇasyābhicakṣe sūryo rūpaṃ kṛṇute dyorupasthe |*
+> *anantamanyadruśadasya pājaḥ kṛṣṇamanyaddharitaḥ saṃ bharanti ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 115.5)**
+
+> तत् । मित्रस्य । वरुणस्य । अभिऽचक्षे । सूर्यः । रूपम् । कृणुते ।
+> द्योः । उपऽस्थे ।
+> अनन्तम् । अन्यत् । रुशत् । अस्य । पाजः । कृष्णम् । अन्यत् । हरितः ।
+> सम् । भरन्ति ॥ ५ ॥
+
+> *tat | mitrasya | varuṇasya | abhi 'cakṣe | sūryaḥ | rūpam | kṛṇute |*
+> *dyoḥ | upa 'sthe |*
+> *anantam | anyat | ruśat | asya | pājaḥ | kṛṣṇam | anyat | haritaḥ |*
+> *sam | bharanti ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 115.5)**
+
+> तत्तदानीमुदयसमये मित्रस्य वरुणस्यैतदुभयोपलक्षितस्य सर्वस्य जगतोऽभिचक्षे अभिमुख्येन प्रकाशनाय द्योर्नभस उपस्थ उपस्थाने मध्ये सूर्यः सर्वस्य प्रेरकः सविता रूपं सर्वस्य निरूपकं प्रकाशकं तेजः कृणुते । करोति । अपि चास्य सूर्यस्य हरितो रसहरणशीला रश्मयो हरिद्वर्णा अश्वा वान्यतमवसानरहितं कृत्स्नस्य जगतो व्यापकं रुशद्दीप्यमानं श्वेतवर्णं पाजः । बलनामैतत् । बलयुक्तमतिबलस्याभि नैशस्य [?] कमसो निवारणे समर्थमन्यत्तमसो विलक्षणं तेजः सं भरन्ति । अहनि स्वकीययोगमनेन निष्पादयन्ति । तथा कृष्णं कृष्णवर्णमन्यत्तमः स्वकीयोपगमनेन रात्रौ । अस्य रश्मयोऽस्यैवं कुर्वन्ति किमु वक्तव्यं तस्य माहात्म्यमिति सूर्यस्य स्तुतिः ॥ [grammatical tail: *abhicakṣe* — *cakṣiṅ* "to speak", *kvip* with *sampadādi*; *kṛṇute* — *kṛvi*, *u*; *dyoḥ* — *div*, *dyubhyaḥ*…; *upasthe* — *sthā* with *ka* by *ghañarthe kavidhānam*; *pājaḥ* — *pā* "to protect", *asun* with *juṭ*-augment, as in the Uṇādi sūtra (Uṇ. 4-?? as read [?]), the *jhuṭ* augment of *asun*; *anantam* — *nañ*-compound, the accent of the later member's first syllable; *haritaḥ* — nominative plural, accent…] [partly in small type; marked [?] where doubtful]
+
+> *tattadānīmudayasamaye mitrasya varuṇasyaitadubhayopalakṣitasya sarvasya jagato 'bhicakṣe abhimukhyena prakāśanāya dyornabhasa upastha upasthāne madhye sūryaḥ sarvasya prerakaḥ savitā rūpaṃ sarvasya nirūpakaṃ prakāśakaṃ tejaḥ kṛṇute | karoti | api cāsya sūryasya harito rasaharaṇaśīlā raśmayo haridvarṇā aśvā vānyatamavasānarahitaṃ kṛtsnasya jagato vyāpakaṃ ruśaddīpyamānaṃ śvetavarṇaṃ pājaḥ | balanāmaitat | balayuktamatibalasyābhi naiśasya [?] kamaso nivāraṇe samarthamanyattamaso vilakṣaṇaṃ tejaḥ saṃ bharanti | ahani svakīyayogamanena niṣpādayanti | tathā kṛṣṇaṃ kṛṣṇavarṇamanyattamaḥ svakīyopagamanena rātrau | asya raśmayo 'syaivaṃ kurvanti kimu vaktavyaṃ tasya māhātmyamiti sūryasya stutiḥ ‖ [grammatical tail: *abhicakṣe* — *cakṣiṅ* "to speak", *kvip* with *sampadādi*; *kṛṇute* — *kṛvi*, *u*; *dyoḥ* — *div*, *dyubhyaḥ*…; *upasthe* — *sthā* with *ka* by *ghañarthe kavidhānam*; *pājaḥ* — *pā* "to protect", *asun* with *juṭ*-augment, as in the Uṇādi sūtra (Uṇ. 4-?? as read [?]), the *jhuṭ* augment of *asun*; *anantam* — *nañ*-compound, the accent of the later member 's first syllable; *haritaḥ* — nominative plural, accent…] [partly in small type; marked [?] where doubtful]*
+
+*Sense (mine):* "At that time, at the rising, for *abhicakṣe*, the manifest showing, of all the world (characterised by Mitra and Varuṇa), the Sun, the impeller of all, Savitṛ, *rūpam kṛṇute*, makes a form — a light that shows all — *dyor upasthe*, in the lap, the middle, of the sky. And this Sun's *haritaḥ* — sap-drawing rays or green-tawny horses — *saṃ bharanti*, bring about, in the daytime, by their own coming, one thing: *anantam*, endless, pervading the whole world, *ruśat*, shining white *pājaḥ* — strength (*pāja* is a name of strength): a mighty light, able to remove the darkness, different from darkness; and, in the night, by their going away, *kṛṣṇam anyat*, another thing, black: the darkness. If his rays do thus, what is to be said of his greatness? — this is the praise of the Sun."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)** *(on p. 170)*
+
+### Printed p. 170  (PDF 190; header "Maṃ. 1 A. 16 Sū. 115")
+
+*(Grammar tail of the bhāṣya concluded:* *pājaḥ* — the *asun* with the augment *juṭ*, as the Uṇādi sūtra [Uṇ. 4-?? as read, [?]] says "*pā rakṣaṇe*… *pājaso balam*"; *upasthe* — *ghañarthe kavidhānam*, *ka* suffix; *marud-vṛdhādi*, first-member accent *dyoḥ* as *jasi-saso…* Pā. 6-1-110 [?], *pūrvarūpa*.)*
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*tat* — then (at sunrise); *mitrasya varuṇasya* — Mitra and Varuṇa, [the universe] beginning with these; *abhicakṣe* — to make [it] shine; *dyoḥ upasthe* — in the middle of the sky; *sūryaḥ* — the Sun, the impeller of all; *rūpam* — the shining light; *kṛṇute* — makes (and also); *asya* — of this Sun's; *haritaḥ* — sap-drawing rays (or the Sun's horses); *anantam* — [this world] endless; *ruśat* — shining; *pājaḥ* — strong; *anyat* — the light different from darkness; *saṃ bharanti* — fill (by day); *kṛṣṇam* — black-coloured; *anyat* — darkness; *saṃ bharanti* — [they] make rays in the night when they go away."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"At the time of rising, the Sun makes in the middle of the sky a light that illumines this world together with Mitra and Varuṇa. His rays make by day the light able to drive away darkness, and by their going away make the darkness at night."
+
+**English Translation (as printed)**
+
+> The sun is the sight of Mitra and Varuna, displays his form (of brightness) in the middle of the heavens, and his rays extend, on one hand, his infinite and brilliant power, or, on the other (by their departure), bring on the blackness of night.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**सूर्यः** — *Sūryaḥ* — "*sarvasya prerakaḥ savitā*": "by his rising he makes the whole world capable of knowledge and action and urges it to its works: he is the deity denoted by the word *savitṛ*. Or: *sarati iti sūryaḥ* — he who moves in the atmosphere, so he is called *sūrya*."
+
+### Printed p. 171  (PDF 191; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**रूपं कृणुते** — *Rūpaṃ kṛṇute* — "*sarvasya nirūpakaṃ prakāśakaṃ tejaḥ karoti*": "at the very time of rising he displays his own light, which shows everything, accompanied by the deities Mitra and Varuṇa, in the middle of the atmosphere, for the sake of lighting the world."
+
+**मित्रः** — *Mitraḥ* — "*primīteḥ trāyate*": "he who protects from death, or he who runs (*dravati*), 'who rushes to the water, pouring from the atmosphere, ... (*sammanvānaḥ*)'; Yāska:
+
+> मित्रः प्रमीतेस्त्रायते संमिन्वानो द्रवतीति वा । अमित्रः [?] मेदयतेर्वा स्निह्यतेर्वा । स्नेहयति सर्वं हि वृष्ट्यादिना ।
+
+> *mitraḥ pramītestrāyate saṃminvāno dravatīti vā | amitraḥ [?] medayatervā snihyatervā | snehayati sarvaṃ hi vṛṣṭyādinā |*
+
+— *mitra* from *primīteḥ trāyate*: 'who protects from death'; or from *saṃmimāno dravati* — *mi* 'to cast' [the water]; or from *medayati* or *snihyati* — he makes all moist with rain and so on. In this way the Nirukta-writer explains the derivation of the word *mitra*, citing
+
+> मित्रो जनान्यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् ।
+> मित्रः कृष्टीरनिमिषाभिचष्टे मित्राय हव्यं घृतवज्जुहोत ॥
+> (ऋ. सं. ३-५९-१ [as read])
+
+> *mitro janānyātayati bruvāṇo mitro dādhāra pṛthivīmuta dyām |*
+> *mitraḥ kṛṣṭīranimiṣābhicaṣṭe mitrāya havyaṃ ghṛtavajjuhota ‖*
+> *(ṛ. saṃ. 3-59-1 [as read])*
+
+— Mitra supports the whole universe; he makes men follow works such as ploughing; and he praises Mitra's greatness: he helps men by making rain and so on (Ni. 10-22 as read [?])."
+
+**वरुणः** — *Varuṇaḥ* — "*meghajālena vyāyeṣ vṛṇoti*": "*varuṇa* is explained as 'one who covers the atmosphere with a mass of clouds'; citing
+
+> नीचीनबारं वरुणः कबन्धं प्र ससर्ज रोदसी अन्तरिक्षम् ।
+> तेन विश्वस्य भुवनस्य राजा यवं न वृष्टिर्व्युनत्ति भूमिम् ॥
+> (ऋ. सं. ५-८५-३ [as read])
+
+> *nīcīnabāraṃ varuṇaḥ kabandhaṃ pra sasarja rodasī antarikṣam |*
+> *tena viśvasya bhuvanasya rājā yavaṃ na vṛṣṭirvyunatti bhūmim ‖*
+> *(ṛ. saṃ. 5-85-3 [as read])*
+
+— 'having made the cloud with its mouth turned downward, Varuṇa moistens, by great rain, heaven, earth and atmosphere, as rain wets the earth like barley': thus he explains the greatness of Varuṇa, who causes rain for the greatness of the earth and atmosphere (Ni. 10-4 as read [?])."
+
+**पाजः** — *Pājaḥ* — "*balayuktam*": "since the word *pāja* is stated among the twenty-eight [as read] names of strength, '*ojaḥ*', '*śavaḥ*' (Ni. 2-9 as read [?]), *pājaḥ* means 'strength'."
+
+**रुशत्** — *Ruśat* — "*ruśad iti varṇanāma | rocater jvalatikarmaṇaḥ*": "the word *ruśat*, derived from the root *ruc* with the meaning 'lustre', means 'shining', or 'of white colour'."
+
+---
+
+**Progress note:** Sūkta 115: Ṛks 1–4 complete; Ṛk 5 through printed p. 171 (PDF 191): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (*sūryaḥ*, *rūpaṃ kṛṇute*, *mitraḥ*, *varuṇaḥ*, *pājaḥ*, *ruśat*; may continue p. 172). Next: printed p. 172 (PDF 192). Open: numerals as read `[?]`; bhāṣya small type `[?]`.
