@@ -12363,4 +12363,40 @@ and the author of the *vṛtti* explains *manma* as *mananīyam ṛjujātam* [as
 
 ---
 
-**Progress note:** Sūkta 120: Ṛks 1–6 complete; Ṛk 7 through printed p. 519 (PDF 539): Saṃhitā, Pada, bhāṣya, pratipadārtha (partial) written; remaining parts follow on p. 520. Next: printed p. 520 (PDF 540). Numerals as read (no numeral list covers these pages): sūtra numbers on p. 518 `[as read]`.
+### Printed p. 520  (PDF 540; header "Maṃ. 1 A. 17 Sū. 120")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 120.7)** (Kannada, rendered; as printed on p. 520, complete)
+
+*(He) aśvinau* — O Aśvins; *yuvam* — you two; *mahaḥ* — great wealth; *ran* — those who give; *āstam* — are; *yuvam* — you two; *nirataṃsatam* — [wealth] ruined (made to disappear); *(he) vasū* — O Aśvins, givers of dwellings; *tā* — such; *naḥ* — to us; *sugopā* — good protectors; *syātam* — be; *(and) naḥ* — us; *aghāyoḥ* — [from] one who wishes the fruit of sin (to us); *vṛkāt* — from the thief; *pātam* — protect.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 120.7)** (Kannada, rendered)
+
+"O Aśvins! It is you who give great wealth; it is you who destroy it. You, givers of dwelling, be our good protectors; and protect us from the thief who would harm us."
+
+**English Translation (as printed)**
+
+"You have been givers of great riches; you have again caused them to disappear; do you, who are donors of dwellings, become our preservers; protect us from the felonious robber."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 7)**
+
+*Mahaḥ* — *mahato dhanasya*: "The word *mahas* is stated among the names of water (Ni. 1-?? [as read: 'ನಿ. ೧-೩೧']); here it means 'wealth'."
+
+"Skandasvāmin: *nirataṃsatam* — *tasu upakṣaye ity asya idaṃ rūpam; na kaṃnoteḥ yuvām [?] arthamupakṣayathaḥ | yasmai deyaṃ dhanaṃ tasmai ca dhanaṃ dhattam | ya upakṣayitavyas tam upakṣayatha ity arthaḥ* [as read; small type [?]] — 'the form *nirataṃsatam* comes from the root *tasu upakṣaye* ('to waste away'), with the prefix *niḥ*; the sense is *nāśa*, 'ruining'. The Aśvins give wealth, with favour, to those for whom it is to be given; to those who are to be restrained, they ruin their wealth. Therefore they are described as capable of both restraining (*nigraha*) and favouring (*anugraha*)."
+
+*Vasū* — *vāsayitārāv aśvinau*: "'The Aśvins make [us] live in comfort' — Sāyaṇa; Skandasvāmin explains: 'they are worthy of praise [*vasu*], or they are possessors of wealth'."
+
+*Vṛkāt* — *stenāt*: "'from a thief, [one] who plunders' — Sāyaṇa. The word *vṛka* conveys the sense 'thunderbolt' (Ni. 6-11 [as read]), and is stated among the names of thunderbolts (Ni. 2-?? [as read: 'ನಿ. ೨-೧೯']) and *vṛkaś candramā bhavati* (Ni. 5-?? [as read: 'ನಿ. ೫-೩೧']), *vṛko lāṅgalaṃ bhavati vikartanāt* (Ni. 6-26 [as read]) — by these statements, the word *vṛka* means moon, plough, thief, thunderbolt," says Yāska. (Continues on p. 521)
+
+---
+
+### Printed p. 521  (PDF 541; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(…concluded)* "… Skandasvāmin, together with these meanings, [says] *bhakṣitum icchataḥ prāṇiviśeṣāt athavā adātuḥ pāpakāmāt* — 'from an animal [a wolf] that wishes to eat, or from one who does not give, who wishes evil' — i.e. 'one who takes what is in our hands'. In this Ṛk it is prayed that the Aśvins, who exercise restraint and favour, should protect us, and that we may have protection from those who wish to rob us of our wealth and to hurt us."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; sūtra numbers as read)**
+
+*Āstam* — root *asa bhuvi*; *laṅ*, second person dual; the prohibition [of the *aṭ*] by *hi ca* (Pā. 8-1-34 as read) does not [apply]; the augment *aṭ* being *udātta*, the initial acute. *Mahaḥ* — the word *mahat*; with the genitive singular following, the form *mahataḥ*; by Vedic usage the elision of the *ati* [?] occurs. Or: root *maha pūjāyām*; *kvip ca*, the suffix *kvip*; genitive singular, the form *mahaḥ*. *Ran* — root *rā ādāne*; in the sense of *laṭ*, the suffix *śatṛ*; for *śap*, *adiprabhṛtibhyaḥ śapaḥ* (Pā. 2-4-72 as read), *luk*; by *sārvadhātukam apit*, since it has *jit*-like state, and by *chandasy ubhayathā* (Pā. 3-4-117 as read), since it has the *ārdhadhātuka* name, *ato lopa iṭi ca* (Pā. 6-4-64 as read), elision of the *ā* of the root; with *su* following, since it is *ugit*, *num*; elision of *su*; *saṃyogāntalopa*; by the suffix's accent the acute; by *vyatyayo bahulam* the singular suffix has come for the dual. *Nirataṃsatam* — root *tasu alaṅkāre*; *hetumati ca* (Pā. 3-1-26 as read), *ṇic*; after the *ṇijanta*, *laṅ*, second person dual, *tam* substituted; *ṇiśrisrubhyaḥ kartari caṅ* (Pā. 3-1-48 as read), *caṅ* for *cli*; *caṅi* (Pā. 6-1-11 as read), doubling of the root; since it is *idit*, the augment *num* for the root; *ādihalśeṣa* for the reduplicative syllable; since *num* has come, by *guru* the *laghu* name is set aside, *sanvallaghuni* (Pā. 7-4-93 as read), the *sanvad bhāva* does not occur; therefore *i* [etc.] do not occur for the reduplicative syllable; the augment *aṭ*; since the word *yat* is connected, *nipātair yad yadi…* (Pā. 8-1-30 as read), the prohibition of *nighāta* …
+
+---
+
+**Progress note:** Sūkta 120: Ṛks 1–6 complete; Ṛk 7 through printed p. 521 (PDF 541): all parts done except the end of its grammar (*nirataṃsatam* etc.; continues p. 522). Next: printed p. 522 (PDF 542). Numerals as read (no numeral list covers these pages): Ni. 1-31, 6-11, 2-19, 5-31, 6-26 `[as read]` and sūtra numbers on pp. 520–521 `[as read]`.
