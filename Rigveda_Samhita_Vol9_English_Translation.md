@@ -4508,4 +4508,86 @@ the ṛṣi of the Ṛgveda, Maṇḍala 1, Sūktas 116–126 [as read: "1-116-?
 
 ---
 
-**Progress note:** Sūkta 116: Ṛk 1 complete; Ṛk 2 through the bhāvārtha on printed p. 186 (PDF 206): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha. Next: printed p. 187 (PDF 207) — Ṛk 2 English, Special Topics, grammar. Open: numerals as read `[?]`; some bhāṣya words (*vākabaḥ*) `[?]`.
+### Printed p. 187  (PDF 207; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**English Translation (as printed)**
+
+> Nasatyas, borne by strong and rapid (steeds) and (urged) by the encouragements of the gods, the ass of you, thus instigated, overcame a thousand (enemies) in conflict, in the war grateful to Yama.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**वीळुपत्मभिः** — *Vīḷupatmabhiḥ* — "*vīḷu balavat patantīti vīḷupatmānaḥ*": "*vīḷu* is stated among the twenty-eight [as read] names of strength (Ni. 2-9 as read [?]), so it means strength: those who fly (*patanti*) with strength, i.e. 'those that leap'. Sāyaṇa explains: *vīḷu* means strength, '*vīḷv iti balanāma balavad utpatanaiḥ*'."
+
+**आशुहेमभिः** — *Āśuhemabhiḥ* — "*āśu śīghraṃ hinvanti gacchantīti āśuhemānaḥ*": "those who go with speed."
+
+**शाशदाना** — *Śāśadānā* — "*śāśyamānayor arthāyaṃ preryamāṇayor yuvayor vāhanabhūto*": "'thy vehicle (the ass), who is urged exceedingly, O Aśvin deities'. *Śāsana* means 'commanding'. For the word *śāśadāna*, formed from the root *śasu*, which has the sense of 'to slay' (*yajarthādi*, taken in the sense *hiṃsā* or intensive [*atiśaya*]), Sāyaṇa gives the meaning in accordance with the maxim '*dhātūnām anekārthatvam*' — roots have many meanings. In the Nirukta (Ni. 6-1? as read [?]) there is an explanation of the word *śāśadānaḥ* as *śāśādyamānaḥ* ['much commanded']; and
+
+> अभि सिन्धो अजिगादस्य शत्रून् विशेन [?] वृषभेण पुरो भेत् ।
+> संवज्रेणासृजद्वृत्रमिन्द्रः प्र स्वां मतिमतिरच्छाशदानः ॥
+> (ऋ. सं. १-५३-१० [as read; the first words printed doubtfully [?]])
+
+> *abhi sindho ajigādasya śatrūn viśena [?] vṛṣabheṇa puro bhet |*
+> *saṃvajreṇāsṛjadvṛtramindraḥ pra svāṃ matimatiracchāśadānaḥ ‖*
+> *(ṛ. saṃ. 1-53-10 [as read; the first words printed doubtfully [?]])*
+
+— this Ṛk is given as an example, and it is said that the word is used in the sense of 'cleaving' (*bhedana*)."
+
+**रासभः प्रधने आजौ तत् सहस्रं जिगाय** — *Rāsabhaḥ pradhane ājau tat sahasraṃ jigāya* — "the ass, which Brahmā (Caturmukha) gave to the Aśvin deities as their vehicle, impelled by Indra and other deities and by swift-moving horses above, brings Yama pleasure by making abundant wealth available; in the battle, winning a thousand Ṛks bet by Brahmā (as a wager), he procured the victory for the Aśvin deities — thus Sāyaṇa explains the meaning. The word *āji* is stated among the twenty-four [as read] names of battle, '*pūrṇaḥ*', '*vivāk*' (Ni. 2-?? as read [?]); the explanation of the words *āji* and *pradhana* is in the Nirukta of Yāska (Ni. 7-?? as read [?]). Example:
+
+### Printed p. 188  (PDF 208; header "Maṃ. 1 A. 17 Sū. 116")
+
+> न्यक्रन्दयन्नुपयन्त एनममेहयन् वृषभं मध्य आजेः ।
+> तेन सूभर्वं शतवत्सहस्रं गवां मुद्गलः प्रधने जिगाय ॥
+> (ऋ. सं. १०-१०२-९ [as read])
+
+> *nyakrandayannupayanta enamamehayan vṛṣabhaṃ madhya ājeḥ |*
+> *tena sūbharvaṃ śatavatsahasraṃ gavāṃ mudgalaḥ pradhane jigāya ‖*
+> *(ṛ. saṃ. 10-102-9 [as read])*
+>
+> न्यक्रन्दयन्नुपयन्त एनमित्याख्याते । अमेहयन् वृषभं मध्य आजेः राजयनस्याजवनस्येति वा तेन तं सुभर्वं राजानं भर्वति हिनस्ति कर्मणा । तद्वा सुभर्वं सहस्रं गवां मुद्गलः प्रधने जिगाय । प्रधन इति सङ्ग्रामनाम प्रकीर्णान्यस्मिन् धनानि भवन्ति ॥
+> (नि. ९-२४ [as read])
+
+> *nyakrandayannupayanta enamityākhyāte | amehayan vṛṣabhaṃ madhya ājeḥ rājayanasyājavanasyeti vā tena taṃ subharvaṃ rājānaṃ bharvati hinasti karmaṇā | tadvā subharvaṃ sahasraṃ gavāṃ mudgalaḥ pradhane jigāya | pradhana iti saṅgrāmanāma prakīrṇānyasmin dhanāni bhavanti ‖*
+> *(ni. 9-24 [as read])*
+
+— in this example, the words *pradhana* and *āji* are used in the sense of battle (*saṅgrāma*, *yuddha*).
+
+> हरी इन्द्रस्य । रोहितौ अग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजा पूष्णः । पृषतो मरुताम् । अरुणो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोरिति दशादिष्टोपयोजनानि ॥
+> (नि. १-२५ [as read])
+
+> *harī indrasya | rohitau agneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajā pūṣṇaḥ | pṛṣato marutām | aruṇo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoriti daśādiṣṭopayojanāni ‖*
+> *(ni. 1-25 [as read])*
+
+— thus, in the sentence which gives the vehicles of those deities, it is said that the two asses are the vehicles of the Aśvin deities. Sāyaṇa, in explaining the meaning of *sahasraṃ jigāya* — 'he conquered a thousand' — cites the sentence *prajāpatir vai somāya rājñe duhitaraṃ prāyacchat* (Ai. Br. 4-?? as read [?]). Skandasvāmin here says '*prajāpatir vai somāya rājñe*' (Ai. Br. 4-2-1 [as read; [?]]) and so on, explaining that the Aitareya Brāhmaṇa sentence that tells the story that Prajāpati gave his daughter to King Soma is to be cited here. And he cites all this as an example —
+
+> प्रजापतिः सवितुः दुहितरं सूर्यां सोमाय राज्ञे प्रायच्छत् । येत्वन्ये देवाः कां वरयितुमागच्छन् । तेभ्यो विवाहादेनं केरमुक्षसहस्रमदात् ॥ [as read; small type, partly doubtful [?]]
+
+> *prajāpatiḥ savituḥ duhitaraṃ sūryāṃ somāya rājñe prāyacchat | yetvanye devāḥ kāṃ varayitumāgacchan | tebhyo vivāhādenaṃ keramukṣasahasramadāt ‖ [as read; small type, partly doubtful [?]]*
+
+### Printed p. 189  (PDF 209; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+> यदेतदाश्विनं नाम तस्मिन् देवा विवादमकुर्वन् । ममेदमस्तु ममेदमस्त्विति । तेब्रुवन् । अजिं धावाम । यो नो जेष्यति तस्येदं भविष्यतीति । तेग्नेर्गृहपतेरुपर्योदित्यं काष्ठां कृत्वाभिधावन् । काष्ठा आजयन्ते उच्यते । अश्वतरीरथेनाग्निराजिमधावत् । गोभिर्रथेनोषाः । हरिभ्यामिन्द्रः । गर्दभरथेनाश्विनौ । तेश्चाश्विनावजयताम् । इति ॥
+> (ऐ. ब्रा. ४-२-४ [as read])
+
+> *yadetadāśvinaṃ nāma tasmin devā vivādamakurvan | mamedamastu mamedamastviti | tebruvan | ajiṃ dhāvāma | yo no jeṣyati tasyedaṃ bhaviṣyatīti | tegnergṛhapateruparyodityaṃ kāṣṭhāṃ kṛtvābhidhāvan | kāṣṭhā ājayante ucyate | aśvatarīrathenāgnirājimadhāvat | gobhirrathenoṣāḥ | haribhyāmindraḥ | gardabharathenāśvinau | teścāśvināvajayatām | iti ‖*
+> *(ai. brā. 4-2-4 [as read])*
+
+"Brahmā gave his daughter, named Sūryā, daughter of the deity Savitṛ, in marriage to King Soma. Then the other deities came to ask for her. He gave them, after the marriage, a thousand Ṛks. These Ṛks became known by the name 'Aśvin'. The deities who had come over those Ṛks quarrelled: 'I want it, I want it'. Afterwards they decided among themselves that whoever should win in the contest should get these Ṛks. Then, from Agni, the householder, upward to the Āditya [Sun] as the goal, they made a race and began to run. Then Agni came to the contest in a chariot yoked with mules [*aśvatarī*]; Uṣas came in a chariot yoked with red cows; Indra came with a chariot yoked with the two bay horses (*hari*); the Aśvin deities came in a chariot yoked with asses. In the race the Aśvin deities won; a thousand Ṛks fell to them. From this these Ṛks became known as 'Aśvina': thus the Itihāsa is explained." And, "for the word *ājā* the meaning of *aśvādeḥ dhāvanabhūmi* — the place where horses and others run — is called *āji*": explaining this, [he gives for] *yamasya*: 'the word *yama* [*ṃasya*?] is said of the Āditya, because he destroys the darkness of night; hence here the word *yama* must be taken to mean *āditya*':
+
+> तस्य सम्बन्धिन्याः । इति पुनरादित्यस्याजिसम्बन्ध उच्यते । आदित्यस्तस्या अन्तेऽसीत् । तथाहि ब्राह्मणम् । तेऽग्नेर्गृहपतेरुपर्यादित्यं काष्ठामकुर्वत ।
+> (ऐ. ब्रा. ४-२-४)
+
+> *tasya sambandhinyāḥ | iti punarādityasyājisambandha ucyate | ādityastasyā ante 'sīt | tathāhi brāhmaṇam | te 'gnergṛhapateruparyādityaṃ kāṣṭhāmakurvata |*
+> *(ai. brā. 4-2-4)*
+
+— the Aitareya Brāhmaṇa sentence is cited as an example to state the connection between the war (*āji*) and the Āditya (Sun). *Pradhane* — "the word explained as 'in battle, in the fight'; and *agnyādibhiḥ saha saṃspardhāyām* — in the battle where Agni and other deities contend with one another."
+
+### Printed p. 190  (PDF 210; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly)**
+
+*vīḷupatmabhiḥ* (*vīḷu* "strong"; *patanti iti patmānaḥ*; *patḷ* "to go", the suffix *manin* by *anyebhyo 'pi dṛśyante*, Pā. 3-2-75 as read [?]; first-syllable accent by *jñityādir nityam*, Pā. 6-1-197 as read [?]; the compound with the first-member accent by *gatikārakopapadāt kṛt*; instrumental plural); *āśuhemabhiḥ* (*āśu śīghraṃ hinvanti gacchanti iti āśuhemānaḥ*; *hi* "to go, to grow"; as before *manin*, guṇa of *i*; as a compound, as before the later member's accent by *kṛduttarapada…*); *jūtibhiḥ* (*ūtiyūtijūtisātihetikīrtayaś ca*, Pā. 3-3-97 as read [?], the *ktin*'s udātta accent by irregularity; *ju* is a root of the *saunra* group, as said earlier); *śāśadānā* (*śasu* "to command"; the *dhātūnām anekārthatvam* maxim, so it is used here in the sense of 'going'; in the intensive sense by *dhātor ekācaḥ halādeḥ kriyāsamabhihāre yaṅ*, Pā. 3-1-22 as read [?]; *sanyaṅoḥ*, Pā. 6-1-9 as read [?], doubling of the root; *ādir halśeṣaḥ*; *dīrgho 'kitaḥ*, Pā. 7-4-83 as read [?], lengthening of the reduplication; *sanādyantā dhātavaḥ*, the *śāśadya* gets the status of a root; *śānac* in the *laṭ* sense; by *chandasy ubhayathā*, Pā. 3-4-117 as read [?], the *śānac* is *ārdhadhātuka* and so *śap* is not applied; *yasya halaḥ*, Pā. 6-4-49 as read [?], elision of the *y* of the *yaṅ*; *ato lopaḥ*, Pā. 6-4-48 as read [?], elision of the *a*; *abhyastānām ādiḥ*, Pā. 6-1-189 as read [?], first-syllable accent; the dual neuter/masculine ending *au* → with *supāṃ sulug*, Pā. 7-1-39 as read [?], lengthening of the preceding vowel); *nāsatyā* (*na asatyau*, *na satyau*, formed by *nabhrāṇ napāt…* [as before]; the vocative dual with *supāṃ sulug* lengthening; nighāta by *āmantritasya ca*, Pā. 8-1-19 as read [?]); *ājā* (the word *āji* has the meaning of battle; the locative singular *supāṃ sulug*, *ḍā*; being *ḍit*, the *ṭi* is elided; the cessation of *udātta*… the ending too is accented).
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1 complete; Ṛk 2 through the grammar page on printed p. 190 (PDF 210; grammar continues on p. 191). Next: printed p. 191 (PDF 211) — end of Ṛk 2 grammar, then Ṛk 3. Open: numerals as read `[?]`; Aitareya Br. quotations (p. 188–189) partly small type `[?]`.
