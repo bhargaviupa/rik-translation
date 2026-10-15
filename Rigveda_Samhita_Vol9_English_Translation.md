@@ -2884,4 +2884,142 @@ as an example of this Ṛk" —
 
 ---
 
-**Progress note:** Sūkta 114: Ṛks 1–3 complete (through printed p. 113, PDF 133). Next: Ṛk 4 from printed p. 114 (PDF 134). Open: numerals as read `[?]` (Ni., Pā., Atharva 7-12-3, Ṛ. 10-14-6).
+### Ṛk 4
+
+### Printed p. 114  (PDF 134; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.4)**
+
+> त्वेषं वयं रुद्रं यज्ञसाधं वङ्कुं कविमवसे नि ह्वयामहे ।
+> आरे अस्मद्दैव्यं हेळो अस्यतु सुमतिमिद्वयमस्या वृणीमहे ॥ ४ ॥
+
+> *tveṣaṃ vayaṃ rudraṃ yajñasādhaṃ vaṅkuṃ kavimavase ni hvayāmahe |*
+> *āre asmaddaivyaṃ heḷo asyatu sumatimidvayamasyā vṛṇīmahe ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.4)**
+
+> त्वेषम् । वयम् । रुद्रम् । यज्ञऽसाधम् । वङ्कुम् । कविम् । अवसे । नि । ह्वयामहे ।
+> आरे । अस्मत् । दैव्यम् । हेळः । अस्यतु । सुऽमतिम् । इत् । वयम् । अस्य । आ । वृणीमहे ॥ ४ ॥
+
+> *tveṣam | vayam | rudram | yajña 'sādham | vaṅkum | kavim | avase | ni | hvayāmahe |*
+> *āre | asmat | daivyam | heḷaḥ | asyatu | su 'matim | it | vayam | asya | ā | vṛṇīmahe ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.4)**
+
+> अवसे रक्षणाय रुद्रं महादेवं नि ह्वयामहे । नितरामाह्वयामः । कीदृशं त्वेषं दीप्तं यज्ञसाधं यज्ञस्य साधयितारम् । एष हि यज्ञं स्विष्टं करोति । तथा च तैत्तिरीयके । देवा वै यज्ञाद्रुद्रमन्तरायन्सित्यपाक्रम्यात्मानं [?] स्विष्टं वै न इदं भविष्यति यदिमं राधयिष्यामः इति तत्स्विष्टकृतः स्विष्टकृत्त्वम् । तै. सं. ३-६-१-३ [as read] । इति । वङ्कुं कुटिलगन्तारं कविं क्रान्तदर्शिनम् । स च रुद्रो दैव्यं देवस्य द्योतमानस्य सम्बन्धि हेळः क्रोधमस्मदारेऽस्मत्तो दूरदेशेऽस्यतु प्रेरयतु । अस्य महादेवस्य सुमतिमित् शोभनामनुग्रहरूपां बुद्धिमेव वयमा वृणीमहे । अभिमुख्येन सम्भजामहे ॥ [the grammatical tail follows in small type: *yajñasādham* — *yajñaṃ sādhayati iti yajñasāḥ*, *sidhu* "to accomplish", *kvip*; *vaṅkum* — *vaki* "crookedness", the Uṇādi *u*; *hvayāmahe* — *hve* "to call", *laṭ* 1st plural, *saṃprasāraṇa*, *ṇiti*…; *daivyam* — *devād yañ* [Pā. 4-1-85 as read [?]]; *asyatu* — *asu* "to throw", divādi; *vṛṇīmahe* — *vṛñ* "to choose", kryādi.]
+
+> *avase rakṣaṇāya rudraṃ mahādevaṃ ni hvayāmahe | nitarāmāhvayāmaḥ | kīdṛśaṃ tveṣaṃ dīptaṃ yajñasādhaṃ yajñasya sādhayitāram | eṣa hi yajñaṃ sviṣṭaṃ karoti | tathā ca taittirīyake | devā vai yajñādrudramantarāyansityapākramyātmānaṃ [?] sviṣṭaṃ vai na idaṃ bhaviṣyati yadimaṃ rādhayiṣyāmaḥ iti tatsviṣṭakṛtaḥ sviṣṭakṛttvam | tai. saṃ. 3-6-1-3 [as read] | iti | vaṅkuṃ kuṭilagantāraṃ kaviṃ krāntadarśinam | sa ca rudro daivyaṃ devasya dyotamānasya sambandhi heḷaḥ krodhamasmadāre 'smatto dūradeśe 'syatu prerayatu | asya mahādevasya sumatimit śobhanāmanugraharūpāṃ buddhimeva vayamā vṛṇīmahe | abhimukhyena sambhajāmahe ‖ [the grammatical tail follows in small type: *yajñasādham* — *yajñaṃ sādhayati iti yajñasāḥ*, *sidhu* "to accomplish", *kvip*; *vaṅkum* — *vaki* "crookedness", the Uṇādi *u*; *hvayāmahe* — *hve* "to call", *laṭ* 1st plural, *saṃprasāraṇa*, *ṇiti*…; *daivyam* — *devād yañ* [Pā. 4-1-85 as read [?]]; *asyatu* — *asu* "to throw", divādi; *vṛṇīmahe* — *vṛñ* "to choose", kryādi.]*
+
+*Sense (mine):* "For protection (*avase*) we invoke (*ni hvayāmahe*) Rudra, the great god, constantly. What is he like? *Tveṣam* — shining; *yajñasādham* — who accomplishes the sacrifice, for he makes the sacrifice well-offered (*sviṣṭa*): as the Taittirīya says: 'The gods kept Rudra away from the sacrifice [?]; "this (sacrifice) of ours will not be well-offered if we do not satisfy him": hence the *sviṣṭakṛt*-ness of the *Sviṣṭakṛt*' (Tai. Saṃ. 3-6-1-3 as read [?]). *Vaṅkum* — the crooked-going; *kavim* — far-seeing. May that Rudra *asyatu*, cast *āre*, far from us, the *haḍaḥ* (anger) of the god, the shining one, belonging to the divine. And we *ā vṛṇīmahe*, choose, turn toward, the *sumati*, the good, favour-natured mind of this great god."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*tveṣam* — of shining form; *yajñasādham* — the accomplisher of sacrifice; *vaṅkum* — of crooked (curving) motion; *kavim* — who knows the past and the future (*kavi*); *rudram* — Rudra; *avase* — for (our) protection; *ni hvayāmahe* — we invoke (that Rudra); *daivyam* — that which belongs to the deities; *helaḥ* — anger; *asmat* — from us; *āre* — far away; *asyatu* — may (he) cast; *asya* — of this Rudra; *sumatim it* — the graciously-disposed intention; *vayam* — we; *ā vṛṇīmahe* — choose (we desire)."
+
+### Printed p. 115  (PDF 135; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"We pray for protection to Rudra, who is of shining form, the accomplisher of sacrifices, of crooked going, and knower of past and future. Let Rudra cast far from us the anger of the deities. We choose only his favour."
+
+**English Translation (as printed)**
+
+> We invoke for our preservation the illustrious Rudra, the accomplisher of sacrifices, the tortuous, the wise : may he remove far from us his celestial wrath for we earnestly solicit his favour.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**यज्ञसाधम्** — *Yajñasādham* — "*yajñaṃ sādhayati iti yajñasāṭ*": "(that is) he who removes the obstacles to the sacrifice, by subduing the thorns of the sacrifice (*yajñakaṇṭaka*), who brings the sacrifice to completion. Sāyaṇa explains that Rudra makes the sacrifice proceed excellently, *eṣa hi yajñaṃ sviṣṭaṃ karoti* — this Rudra makes the sacrifice go on in the right way. Stating in the Taittirīya Saṃhitā the speciality of Rudra, he says —
+
+> देवा वै यज्ञाद्रुद्रमन्तरायन् [?] इत्याद्युपक्रम्य स्विष्टं वै न इदं भविष्यति यदिमं राधयिष्यामः इति तत्स्विष्टकृतः स्विष्टकृत्त्वम् ॥
+> (तै. सं. ३-६-१-३ [as read])
+
+> *devā vai yajñādrudramantarāyan [?] ityādyupakramya sviṣṭaṃ vai na idaṃ bhaviṣyati yadimaṃ rādhayiṣyāmaḥ iti tatsviṣṭakṛtaḥ sviṣṭakṛttvam ‖*
+> *(tai. saṃ. 3-6-1-3 [as read])*
+
+---
+
+### Printed p. 116  (PDF 136; header "Maṃ. 1 A. 16 Sū. 114")  [Special Topics of Ṛk 4, continued]
+
+"… because we serve Rudra, our sacrifices become *suhutas*, well-offered — thus the Taittirīya text speaks."
+
+**वङ्कुम्** — *Vaṅkum* — "*kuṭilagantāram*": "he who moves in a crooked path, in order to bewilder the asuras or to subdue [them] — this is the meaning. Skandasvāmin: '*vaṅkuśabdo 'tra vaki kauṭilye ity asya vakragāmī*' — since the word *vaṅku* is derived from the root *vaki* 'to be crooked', it denotes one with a crooked course, he explains, and gives the example —
+
+> यत्ते दिक्षु प्रराध्यं [?] वङ्कू वारस्य पर्णेन [?]
+> (ऋ. सं. ८-१-११ [as read; the Ṛk is in small type and the quotation unclear [?]])"
+
+> *yatte dikṣu prarādhyaṃ [?] vaṅkū vārasya parṇena [?]*
+> *(ṛ. saṃ. 8-1-11 [as read; the Ṛk is in small type and the quotation unclear [?]])"*
+
+**कविम्** — *Kavim* — "*krāntadarśinam*" (Sāyaṇa-bhāṣya): "one who shows the right way. Since the word *kavi* is stated among the twenty-four [as read] names of the wise (*medhāvin*) (Ni. 3-?? as read [?]), Skandasvāmin explains it as 'the intelligent'."
+
+**हेळः** — *Heḷaḥ* — "*krodhaḥ*": "anger. Because the word *heḷa* is stated among the twelve [as read] names of anger (*krodha*), beginning '*hṛṇi*' (Ni. 2-?? as read [?]), Skandasvāmin explains the meaning *krodha*:
+
+> दैव्यं हेळः क्रोधनामैतत् । देवानां स्वभूतं क्रोधमस्यतु क्षिपतु । यथास्मभ्यं देवाः न क्रुध्येयुः तथा करोतु हेळः ।
+
+> *daivyaṃ heḷaḥ krodhanāmaitat | devānāṃ svabhūtaṃ krodhamasyatu kṣipatu | yathāsmabhyaṃ devāḥ na krudhyeyuḥ tathā karotu heḷaḥ |*
+
+— the word *heḷaḥ* has the meaning 'anger'. [The meaning:] 'may Rudra so act that the deities may not be angry with us — that is, may he grant us favour.'"
+
+**सुमतिमित्** — *Sumatim it* — "*it* is in the sense of *eva*" (indeed): "*sumatim eva* — *śobhanām eva* — the kindly-disposed mind, in the form of favour, of Rudra. He explains: 'we desire this of Rudra, that it may be in our regard'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 4; grammar page, noted briefly)**
+
+*tveṣam* (*tviṣī* "to shine", in the *pacādi* group; *ac*; guṇa of the penultimate; the final accent from the suffix), *yajñasādham* (*yajñaṃ sādhayati iti yajñasāṭ*; *ṣidhu* "to accomplish", *ṇic* by *hetumati ca*; *siddhyater apāralaukike*, Pā. 6-4-?? as read [?], *ṇic*-… *ātva*; or *rādh*/*sādh* "to accomplish"; *kvip*;
+
+### Printed p. 117  (PDF 137; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+… after the *ṇi*-elision *kvip*; the first-member accent by *gatikārakopapadāt kṛt*; accusative singular); *vaṅkum* (*vaki* "to be crooked"; the Uṇādi suffix *u*; the *num* augment by *idito num dhātoḥ*; *anusvāra* → homorganic nasal; accent from the suffix); *avase* (*av* "to protect", the suffix *asun* applicable after any root; *nit*, hence the first-syllable accent; dative singular); *ni hvayāmahe* (*hvāñ* "to compete, to call", with *ni* — *nisamupavibhyo hvaḥ*, Pā. 1-3-30 as read [?], *ātmanepada*; *laṭ* 1st plural *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e*; *śap*; *ay* for *e*; nighāta); *daivyam* (*devasya idam daivyam*; *devād yañ* — *yañ* in the sense of "its", Pā. 4-1-85 as read [?]; elision of *a* by *yasyeti ca*; *vṛddhi* by *taddhiteṣv acām ādeḥ*; *jñityādir nityam*, first-syllable accent); *heḷaḥ* (*heḍṛ* "to disregard", Uṇādi *asun*; *nit*, first-syllable accent; accusative singular); *asyatu* (*asu* "to throw", divādi; *loṭ* 3rd singular *tip*, with *tu* by *eruḥ*, Pā. 3-4-86 as read [?]; *śyan* by *divādibhyaḥ śyan*; nighāta); *vṛṇīmahe* (*vṛñ* "to choose", kryādi; *loṭ*/*laṭ* 1st plural *mahiṅ*; *ṭita ātmanepadānāṃ ṭer e*; *kryādibhyaḥ śnā*; *sārvadhātukam apit*, *ṅit*; *ī* for *ā* by *ī halyaghoḥ*; *ṇatva*, since the *n* follows *ṛ*, with the *vikaraṇa* … no guṇa since *ṅit*; nighāta). ‖ 4 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 5
+
+### Printed p. 118  (PDF 138; header "Maṃ. 1 A. 16 Sū. 114")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 114.5)**
+
+> दिवो वराहमरुषं कपर्दिनं त्वेषं रूपं नमसा नि ह्वयामहे ।
+> हस्ते बिभ्रद्भेषजा वार्याणि शर्म वर्म छर्दिरस्मभ्यं यंसत् ॥ ५ ॥
+
+> *divo varāhamaruṣaṃ kapardinaṃ tveṣaṃ rūpaṃ namasā ni hvayāmahe |*
+> *haste bibhradbheṣajā vāryāṇi śarma varma chardirasmabhyaṃ yaṃsat ‖ 5 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 114.5)**
+
+> दिवः । वराहम् । अरुषम् । कपर्दिनम् । त्वेषम् । रूपम् । नमसा । नि ।
+> ह्वयामहे ।
+> हस्ते । बिभ्रत् । भेषजा । वार्याणि । शर्म । वर्म । छर्दिः ।
+> अस्मभ्यम् । यंसत् ॥ ५ ॥
+
+> *divaḥ | varāham | aruṣam | kapardinam | tveṣam | rūpam | namasā | ni |*
+> *hvayāmahe |*
+> *haste | bibhrat | bheṣajā | vāryāṇi | śarma | varma | chardiḥ |*
+> *asmabhyam | yaṃsat ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 114.5)**
+
+> वराहं वराहारमुत्कृष्टभोजनम् । यद्वा । वराहवद्दृढाङ्गम् । अरुषमारोचमानं कपर्दिनं जटाभिर्युक्तं त्वेषं तेजसा दीप्यमानं रूपं निरूपणीयं वेदान्तैरधिगम्यं एवंभूतं रुद्रं नमसा हविर्लक्षणेनान्नेन नमस्कारेण वा दिवो द्युलोकसकाशात् नि ह्वयामहे । नितरामाह्वयामः । स आहूतो रुद्रो हस्ते स्वकीये बाहौ वार्याणि सर्वैर्वरणीयानि भेषजा भैषज्यानि रोगशमनहेतुभूतानि बिभ्रत् धारयन् अस्मभ्यं स्तोतृभ्यः शर्म अरोग्यलक्षणं सुखं वर्म आयुधानां निवारकं कवचं छर्दिः गृहनामैतत् गृहं च यंसत् प्रयच्छतु ॥ [the grammatical tail follows: *bibhrat* — *ḍubhṛñ* "to bear, to nourish", juhotyādi, *śatṛ*, doubling, *abhyastānām*…; *bhaiṣajā* — *bhiṣaj* "treating", *kaṇḍvādi*…; *vāryāṇi* — *vṛñ*, *ṇyat*…; *chardiḥ* — *ucchṛdir* "to shine" or "to play" (*dīptidevanayoḥ*), the *is* suffix [Uṇ.]; *yaṃsat* — *yamu* "to stop", *leṭ* with the augment *aṭ*; *sip*, *bahulaṃ leṭi* — *sic*…]
+
+> *varāhaṃ varāhāramutkṛṣṭabhojanam | yadvā | varāhavaddṛḍhāṅgam | aruṣamārocamānaṃ kapardinaṃ jaṭābhiryuktaṃ tveṣaṃ tejasā dīpyamānaṃ rūpaṃ nirūpaṇīyaṃ vedāntairadhigamyaṃ evaṃbhūtaṃ rudraṃ namasā havirlakṣaṇenānnena namaskāreṇa vā divo dyulokasakāśāt ni hvayāmahe | nitarāmāhvayāmaḥ | sa āhūto rudro haste svakīye bāhau vāryāṇi sarvairvaraṇīyāni bheṣajā bhaiṣajyāni rogaśamanahetubhūtāni bibhrat dhārayan asmabhyaṃ stotṛbhyaḥ śarma arogyalakṣaṇaṃ sukhaṃ varma āyudhānāṃ nivārakaṃ kavacaṃ chardiḥ gṛhanāmaitat gṛhaṃ ca yaṃsat prayacchatu ‖ [the grammatical tail follows: *bibhrat* — *ḍubhṛñ* "to bear, to nourish", juhotyādi, *śatṛ*, doubling, *abhyastānām*…; *bhaiṣajā* — *bhiṣaj* "treating", *kaṇḍvādi*…; *vāryāṇi* — *vṛñ*, *ṇyat*…; *chardiḥ* — *ucchṛdir* "to shine" or "to play" (*dīptidevanayoḥ*), the *is* suffix [Uṇ.]; *yaṃsat* — *yamu* "to stop", *leṭ* with the augment *aṭ*; *sip*, *bahulaṃ leṭi* — *sic*…]*
+
+*Sense (mine):* "*Varāham* — he whose food is excellent (*vara-āhāra*), or, whose limbs are firm like those of a boar. *Aruṣam* — shining; *kapardinam* — bearing matted hair; *tveṣam* — blazing in splendour; *rūpam* — to be considered (*nirūpaṇīya*), to be understood by the Vedānta texts: such a Rudra we call down (*ni hvayāmahe*) with *namasā* — with food in the form of oblation or with salutation — from the heavenly world. Invoked, may that Rudra, holding in his own hand desirable (*vāryāṇi*) medicines (*bheṣajā*) that are the cause of curing diseases, grant us, the praisers, *śarma* — happiness in the form of health; *varma* — armour that wards off weapons; *chardiḥ* — a name of a house — and a house."
+
+### Printed p. 119  (PDF 139; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammatical tail of the bhāṣya, concluded — characterized, not transcribed:)* *bheṣajā* (*bhiṣaj* "to heal", the neuter plural *śi* → *ā*, by *śeś chandasi bahulam* with elision); *chardiḥ* (*ucchṛdir* "to shine, to play"; the suffix *is* by Uṇādi; "*chṛdyate dīpyate suvarṇādibhir gṛhaṃ prakāśate iti chardiḥ gṛham*"); *yaṃsat* (*yamu* "to restrain"; *leṭ*, with the augment *aṭ*; *sip* → elision of the *i* by *itaś ca lopaḥ*; the elision of the *s* … in the *leṭ*).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*varāham* — one who has excellent food, or one of firm body; *aruṣam* — of shining form; *kapardinam* — wearer of matted locks; *tveṣam* — of great splendour; *rūpam* — (Rudra), who is to be known by the Vedas and so on; *namasā* — by salutations, or by food in the form of oblations, in order to give; *divaḥ* — from the world of heaven; *ni hvayāmahe* — we call (invoke) down (that Rudra, being invoked); *haste* — in his hand; *vāryāṇi* — desired by all; *bheṣajā* — medicinal herbs; *bibhrat* — holding; *asmabhyam* — to us (the singers of praises); *śarma* — happiness in the form of health; *varma* — protective armour and so on; *chardiḥ* — a house for dwelling in; *yaṃsat* — may he grant."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"We invoke from the world of heaven with salutations Rudra, of firm body, of excellent food, of shining form, wearing matted locks, of great splendour, who is to be known by the Vedānta. May Rudra, thus invoked by us, holding medicinal herbs in his hand, grant us the armour and weapons that guard health, and dwelling-houses."
+
+**English Translation (as printed)**
+
+> We invoke from heaven, with reverence, him who has excellent food who is radiant, and has braided hair, who is brilliant, and is to be ascertained (by sacred study), holding in his hands excellent medicaments : may he grant us health, defensive armour, and a (secure) dwelling.
+
+---
+
+**Progress note:** Sūkta 114: Ṛks 1–4 complete; Ṛk 5 through the printed English on p. 119 (PDF 139): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English. Next: printed p. 120 (PDF 140) — Special Topics and grammar of Ṛk 5. Open: Ṛ. 8-1-11-type citation on p. 116 unclear `[?]`; Pā./Ni. numerals as read.
