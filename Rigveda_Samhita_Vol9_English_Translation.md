@@ -8233,4 +8233,50 @@ By the sentence *pravācyaṃ tad vṛṣaṇā kṛtaṃ vām* it is described 
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–8 complete except the end of Ṛk 8's grammar; printed p. 343 (PDF 363) reached — grammar of Ṛk 8 begun (*ruśatīm, mahaḥ, kṣoṇasya* done; continues p. 344). Next: printed p. 344 (PDF 364). Open: small-type Sanskrit on pp. 340/342 `[?]`; Ṛk refs 1-117-24, 1-118-7 checked against OCR list.
+### Printed p. 344  (PDF 364; header "Maṃ. 1 A. 17 Sū. 117")
+
+*Grammar page of Ṛk 8, concluded (noted briefly):* On this matter Yāska speaks: *kṣoṇasya kṣayaṇasya* (Ni. 6-6 [as read]); when this second meaning is accepted, [the word comes] from *tukṣu śabde*; the *auṇādika* suffix *na*; on account of that, *guṇa* for the root's *i*-vowel [?]; *ṇatva* of the *n*; by the suffix's accent, the final acute.
+
+*Pravācyam* — root *vaca paribhāṣaṇe*; *hetumati ca*, Pā. 3-1-26 [as read], *ṇic*; after the *ṇijanta* *acoyat*, Pā. 3-1-9? [?], suffix *yat*; *ṇic* being the cause, *ata upadhāyāḥ*, Pā. 7-2-116, *vṛddhi* of the root's penultimate; *ṇer aniṭi*, Pā. 6-4-51, elision of *ṇic*; *yatonāvaḥ*, Pā. 6-1-213 [? OCR list reads 153], …; as a *gati*-compound, *gatikārakopapadāt kṛt*, Pā. 6-2-139, the *kṛdanta* hind-part keeps its own accent.
+
+*Nārṣadāya* — *nṛṣadaḥ apatyaṃ pumān*; *yaskādibhyo gotre* [printed *ṛṣyandhakavṛṣṇikurubhyaś ca*, Pā. 4-1-114 as read], suffix *aṇ*; *taddhiteṣv acām ādeḥ*, Pā. 7-2-11? [OCR list 127; ?], *vṛddhi* of the first vowel; *ṛto 'raparaḥ* [as read: *uraṇ raparaḥ*], it becomes *r*-final; by the suffix's accent the final acute; dative singular form.
+
+*Adhattam* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; *laṅ*, second person dual; since there is a *yuṣmad*-connection [as read], *nipātair yad yadi…*, Pā. 8-1-30 [as read], prohibition of *nighāta*; the augment *aṭ* being *udātta*, the initial acute; *tiṅ cododāttavati*, Pā. 8-1-7? as read [?], the *gati* (*adhi*) gets *nighāta* accent. ‖ 8 ‖
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 117.9)**
+
+> पुरू वर्पांस्यश्विना दधाना नि पेदव ऊहथुराशुमश्वम् ।
+> सहस्रसां वाजिनमप्रतीतमहिहनं श्रवस्यं तरुत्रम् ॥ ९ ॥
+
+> *purū varpāṃsyaśvinā dadhānā ni pedava ūhathurāśumaśvam |*
+> *sahasrasāṃ vājinamapratītamahihanaṃ śravasyaṃ tarutram ‖ 9 ‖*
+
+---
+
+### Printed p. 345  (PDF 365; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 117.9)**
+
+> पुरु । वर्पांसि । अश्विना । दधाना । नि । पेदवे । ऊहथुः । आशुम् । अश्वम् ।
+> सहस्रऽसाम् । वाजिनम् । अप्रतिऽइतम् । अहिऽहनम् । श्रवस्यम् ।
+> तरुत्रम् ॥ ९ ॥
+
+> *puru | varpāṃsi | aśvinā | dadhānā | ni | pedave | ūhathuḥ | āśum | aśvam |*
+> *sahasra 'sām | vājinam | aprati 'itam | ahi 'hanam | śravasyam |*
+> *tarutram ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.9)** *(small type; read with some doubt)*
+
+> हे अश्विना पुरु पुरूणि बहूनि वर्पांसि । रूपनामैतत् । अस्मिन्ये [?] कर्मभिः कृतानि रूपाणि दधाना धारयन्तौ युवामाशुं शीघ्रगामिनमश्वं पेदवे पेदुनाम्ने स्तुवते राज्ञे न्यूहथुः । नितरां प्रापितवन्तौ । दत्तवन्तावित्यर्थः । कीदृशमश्वम् । सहस्रसां सहस्रसंख्याकस्य धनस्य सनितारं दातारम् । वाजिनं बलवन्तम् । अपि च अप्रतीतं शत्रुभिरप्रतिगतम् । अहिहनम् अहीनामागत्य हन्तॄणां शत्रूणां शत्रुहन्तारम् । श्रवस्यं श्रवः श्रवणीयं स्तोत्रं तत्र भवं स्तुतिविषयमित्यर्थः । तरुत्रं तरितारम् ॥
+
+> *he aśvinā puru purūṇi bahūni varpāṃsi | rūpanāmaitat | asminye [?] karmabhiḥ kṛtāni rūpāṇi dadhānā dhārayantau yuvāmāśuṃ śīghragāminamaśvaṃ pedave pedunāmne stuvate rājñe nyūhathuḥ | nitarāṃ prāpitavantau | dattavantāvityarthaḥ | kīdṛśamaśvam | sahasrasāṃ sahasrasaṃkhyākasya dhanasya sanitāraṃ dātāram | vājinaṃ balavantam | api ca apratītaṃ śatrubhirapratigatam | ahihanam ahīnāmāgatya hantṝṇāṃ śatrūṇāṃ śatruhantāram | śravasyaṃ śravaḥ śravaṇīyaṃ stotraṃ tatra bhavaṃ stutiviṣayamityarthaḥ | tarutraṃ taritāram ‖*
+
+*Sense (mine):* "O Aśvins, *puru* — many (*purūṇi*) *varpāṃsi* (*varpas* is a name for form): taking on forms made by [your] deeds, you two, *pedave* — for the king named Pedu who praised [you] — *ny ūhathuḥ* brought near, gave, a swift (*āśum*) horse. What kind of horse? One that gives (*sanitāram*) wealth of a thousand sorts (*sahasrasām*); strong (*vājinam*); and unapproached by enemies (*apratītam*); the slayer (*ahihanam*) of enemies who come to kill (like serpents, *ahi*); *śravasyam* — worthy of fame (*śravas*), subject of the hymn; *tarutram* — one who carries across." The bhāṣya goes on with grammar of *varpāṃsi*, *dadhānā*, *sahasrasām*, *śravasyam*, *tarutram* (from *tṝ plavanatarayoḥ*, with *uṇādi* suffix) etc. — characterized, not transcribed (small type).
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.9)** (Kannada, rendered; page continues)
+
+*Aśvinā* — O Aśvins; *puru varpāṃsi* — many forms; *dadhānā* — taking on [them]; *āśum* — swift-going; *sahasrasām* — one that gives (wealth) of a thousand [count]; *vājinam* — strong; *apratītam* — not to be faced (by enemies); *ahihanam* — destroyer of enemies; *śravasyam* — worthy to be praised (by hearing); *tarutram* — (carrying across [?]) … *(continues on p. 346)*
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–8 complete; Ṛk 9 through printed p. 345 (PDF 365): Saṃhitā, Pada, bhāṣya, pratipadārtha begun (continues p. 346). Next: printed p. 346 (PDF 366). Open: sūtra numbers on p. 344 where the OCR list and page differ marked `[?]`.
