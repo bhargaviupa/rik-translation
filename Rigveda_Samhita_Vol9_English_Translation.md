@@ -13044,4 +13044,78 @@ Skandasvāmin: "*vrāṃ varaṇīyāṃ menāṃ striyaṃ bhāryām aśvasya v
 
 ---
 
-**Progress note:** Sūkta 121: Ṛks 1–2 complete; Ṛk 3 through printed p. 549 (PDF 569): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics begun (continues p. 550). Next: printed p. 550 (PDF 570). Numerals as read: sūtra numbers on p. 547 and Pā. 4-4-133 `[as read]`.
+### Printed p. 550  (PDF 570; header "Maṃ. 1 A. 18 Sū. 121")
+
+*(Special Topics of Ṛk 3, continued)* "*Havaṃ nakṣat* — *āhvānaṃ nakṣatu śṛṇotu*: 'may Indra come to the sacrifice which we perform, and hear [it]', is Sāyaṇa's meaning. And *anu dyūn turaḥ* — 'he who impels wealth, giving it in increasing measure every day'. Skandasvāmin: because *nakṣ* is a root of the sense 'going', [it means] 'he hears the invocation of the sacrificer and goes to sacrifices'. *Aruṇīḥ pūrvyaṃ rājate*: 'at the moment of the dawn's rising he shines in the form of the Sun'. For *turaḥ* he gives *turvitā tvarayitā vā śatrūṇām* — 'one who hurries [the destruction of] enemies, who wakes [Indra] to fight'; for *anu dyūn* he gives *ahany ahani* ('day by day'): *vajraṃ anu dyūn takṣati* — 'he sharpens the thunderbolt every day'; and for *niyutam* — *śatruśarīreṣu praveṣṭāraṃ* — 'one that enters [and] makes the body of the enemy quickly pierced' (*Skandasvāmin's meaning*)."
+
+*Naryāya* — *nṛbhyo hitāya*: "*nareṣu bhavaṃ naryam* — 'for the good of men'. Yāska:
+
+> विद्मा हि ते पतयः [?] … जनिष्ठो अपो नर्यः सुजातः प्रोर्वशी तिरत दीर्घमायुः ॥
+> (ऋ. सं. १-३१-१० [as read; the first pāda doubtful [?]])
+
+> *vidmā hi te patayaḥ [?] … janiṣṭho apo naryaḥ sujātaḥ prorvaśī tirata dīrghamāyuḥ ‖*
+> *(ṛ. saṃ. 1-31-10 [as read; the first pāda doubtful [?]])*
+
+*naryo manuṣyo nṛbhyo hito narasaṃmitaḥ* (Ni. 5-?? [as read]) — 'in this Ṛk *narya* means man, or food beneficial to man, or wealth that gives much of the [things desired]; or he explains: one who is born of man (in a history-related sense)'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 3; grammar pages, noted briefly)**
+
+*Nakṣat* (*nakṣa gatau*; *leṭ*, *tip*; *itaś ca lopaḥ parasmaipadeṣu*, Pā. 3-4-97; *leṭo 'ṭāṭau*, Pā. 3-4-94; no *nighāta* at the beginning of a pāda) · *pūrvyam* (*pūrvaiḥ kṛtam*; *pūrvaiḥ kṛtam inayau ca*, Pā. 4-4-133, suffix *ya*; *yasyeti ca*) · *rāṭ* (*rāja dīptau*; *kvip ca*; *vraścabhrasja…*, Pā. 8-2-36, *ṣatva*, *jaś*, *car*) · *turaḥ* (*tura tvaraṇe*; *igupadhajñāprīkiraḥ kaḥ*, Pā. 3-1-135) · *viśām* (genitive plural; *sāvekācas tṛtīyādiḥ*, Pā. 6-1-168) · *takṣat* (*takṣū tvakṣū tanūkaraṇe*, *laṅ*; no augment, Pā. 6-4-75) · *tastambhat* (*stabhi stambhe*; *hetumati ca*, *ṇic*; *ṇiśrisrubhyaḥ kartari caṅ*, Pā. 3-1-48; doubling by Pā. 6-1-11) · *catuṣpade* (*saṅkhyāsupūrvasya*, Pā. 5-4-140, final elision; *pādaḥ pat*, Pā. 6-4-130) · *naryāya* (*nṛbhyo hitam*; *yat*) — sūtra numbers as read.
+
+---
+
+### Printed p. 551  (PDF 571; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Grammar of Ṛk 3, continued and concluded)* On this page the grammar of *rāṭ* (the causative sense is included), *turaḥ*, *viśām*, *takṣat*, *tastambhat*, *catuṣpade*, *naryāya* is completed as above, with the accent noted for each: *tastambhat* — *cañ* + doubling, *ṇeraniṭi* (Pā. 6-4-51) elision of *ṇi*, *cajoḥ…*; *dvipāde* — as *catuṣpade*, with *dvitribhyāṃ pāddanmūrdhasu bahuvrīhau* (Pā. 6-2-197 as read), the final acute (printed p. 552). ‖ 3 ‖
+
+### Printed p. 552  (PDF 572; header "Maṃ. 1 A. 18 Sū. 121")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 121.4)**
+
+> अस्य मदे स्वर्यं दा ऋतायापीवृतमुस्रियाणामनीकम् ।
+> यद्ध प्रसर्गे त्रिककुन्निवर्तदप द्रुहो मानुषस्य दुरो वः ॥ ४ ॥
+
+> *asya made svaryaṃ dā ṛtāyāpīvṛtamusriyāṇāmanīkam |*
+> *yaddha prasarge trikakunnivartadapa druho mānuṣasya duro vaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 121.4)**
+
+> अस्य । मदे । स्वर्यम् । दाः । ऋताय । अपिऽवृतम् । उस्रियाणाम् ।
+> अनीकम् ।
+> यत् । ह । प्रऽसर्गे । त्रिऽककुप् । निऽवर्तत् । अप । द्रुहः ।
+> मानुषस्य । दुरः । वरिति । वः ॥ ४ ॥
+
+> *asya | made | svaryam | dāḥ | ṛtāya | api 'vṛtam | usriyāṇām |*
+> *anīkam |*
+> *yat | ha | pra 'sarge | tri 'kakup | ni 'vartat | apa | druhaḥ |*
+> *mānuṣasya | duraḥ | variti | vaḥ ‖ 4 ‖*
+
+*(Printed Saṃhitā "driyāṇām"; the Pada "usriyāṇām" is the clear reading.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 121.4)** *(small type)*
+
+> हे इन्द्र अस्य सोमस्य पानेन मदे हर्षे सति ऋताय यज्ञार्थं स्वर्यं स्तुत्यमपीवृतं पणिभिर्गुहासु निगूढमुस्रियाणां गवामनीकं सङ्घं दाः । अङ्गिरोभ्यो दत्तवानसि । उत्तरार्धः परोक्षकृतः । यद्ध यदा खलु प्रसर्गे युद्धे त्रिककुप् त्रिषु लोकेषूच्छ्रित इन्द्रो निवर्तत् नितरां वर्तेत तदानीं स इन्द्रो द्रुहो द्रोग्धुर्मानुषस्य मनोः संबन्धिनोऽसुरस्य पणेः संबन्धिनीर्दुरो द्वाराणि गवामनिर्गमनाय पिहितान्यप वः । अपवृणोति । उद्घाटयतीत्यर्थः ॥ [grammar tail characterized only]
+
+> *he indra asya somasya pānena made harṣe sati ṛtāya yajñārthaṃ svaryaṃ stutyamapīvṛtaṃ paṇibhirguhāsu nigūḍhamusriyāṇāṃ gavāmanīkaṃ saṅghaṃ dāḥ | aṅgirobhyo dattavānasi | uttarārdhaḥ parokṣakṛtaḥ | yaddha yadā khalu prasarge yuddhe trikakup triṣu lokeṣūcchrita indro nivartat nitarāṃ varteta tadānīṃ sa indro druho drogdhurmānuṣasya manoḥ saṃbandhino 'surasya paṇeḥ saṃbandhinīrduro dvārāṇi gavāmanirgamanāya pihitānyapa vaḥ | apavṛṇoti | udghāṭayatītyarthaḥ ‖ [grammar tail characterized only]*
+
+*Sense (mine):* "O Indra, being exhilarated (*made*) by drinking this soma, *ṛtāya* — for the sacrifice — you gave to [the Aṅgirases] the *svaryam* — praiseworthy — *apīvṛtam* — concealed by the Paṇis in caves — *anīkam* — host — of cows (*usriyāṇām*). The latter half is in the third person: *yat ha* — when, in the *prasarga* (battle), Indra, *trikakut* — exalted in the three worlds — turns, then he opens (*apa vaḥ*) the doors, closed so that the cows cannot come out, belonging to the Paṇi, the asura, the injurer, the descendant of man [*mānuṣasya*, or of Manu]."
+
+---
+
+### Printed p. 553  (PDF 573; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 121.4)** (Kannada, rendered)
+
+*(He) indra* — O Indra; *asya* — of this soma (drinking); *made* — when [you were] pleased; *svaryam* — praiseworthy; *apīvṛtam* — hidden (by the asura called Paṇi); *usriyāṇām* — of cows; *anīkam* — the herd; *ṛtāya* — for the sake of sacrificial acts; *dāḥ* — you gave (to the Aṅgirases, making a way); *yat ha* — when; *prasarge* — in battle; *trikakut* — [Indra] exalted in the three worlds; *nivartat* — turns; *tadā* — then; *druhaḥ* — of the injurer; *mānuṣasya* — belonging to man (of the Paṇi); *duraḥ* — the doors [that bar the cows]; *apa vaḥ* — he opens.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 121.4)** (Kannada, rendered)
+
+"O Indra! Pleased by drinking this soma, you gave to the Aṅgirases, for their sacrificial acts, the herd of cows, which was praiseworthy and had been hidden by the asura called Paṇi; when, in battle, Indra, unrivalled in the three worlds, turns, he breaks open the doors, [barring] the cows, of the hostile asura."
+
+**English Translation (as printed)**
+
+"In the exhilaration of this Soma juice, you have restored the celebrated herd of cattle, hidden (in the cave), for the sake of sacrifice, (to the Angirasas): when, Indra, the threefold crest engages in combat, he opens the doors of the tyrannical descendants of Manu;"
+
+---
+
+**Progress note:** Sūkta 121: Ṛks 1–3 complete; Ṛk 4 through printed p. 553 (PDF 573): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English done; Special Topics and grammar follow (p. 554). From here grammar pages are noted very briefly (word list, key sūtras) to finish the volume. Next: printed p. 554 (PDF 574). Numerals as read: Ṛ. 1-31-10, Ni. numbers `[as read]`; sūtra numbers `[as read]`.
