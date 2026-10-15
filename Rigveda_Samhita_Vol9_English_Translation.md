@@ -11019,4 +11019,42 @@ In this Ṛk the word *gharma* is explained as *gharmadhug iti yājñikāḥ* �
 
 ---
 
-**Progress note:** Sūkta 119: Ṛk 1 complete; Ṛk 2 through printed p. 459 (PDF 479): all parts done except the end of its grammar (continues p. 460). Next: printed p. 460 (PDF 480). Numerals as read (no numeral list covers these pages): Ṛ. 6-61-2, 4-23-8, 1-164-28, 1-164-26 and Ni. numbers on pp. 458–459 `[as read]`.
+### Printed p. 460  (PDF 480; header "Maṃ. 1 A. 17 Sū. 119")
+
+*Grammar of Ṛk 2, concluded (noted briefly; sūtra numbers as read):* *Adhāyi* (continued) — *ato yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read), the augment *yuk* for the root; *ciṇo luk* (Pā. 6-4-104 as read), *luk* for the *ta* that follows *ciṇ*; the augment *aṭ*; since it is *udātta*, the initial acute; because it stands at the beginning of a pāda, no *nighāta*. *Śasman* — root *śaṃsu stutau*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read), the suffix *manin*; since the mention of *dṛśi* in this sūtra is for including other operations, the elision of the penultimate nasal of the root occurs although no cause is there; the form *śasman*; with the locative singular following, *supāṃ sulug* (Pā. 7-1-39 as read), *luk* for it. *Ayante* — root *aya paya gatau*; *bhvādi*; *anudāttetaḥ*, *anudāttaṅita ātmanepadam* (Pā. 1-3-12 as read), the middle-voice suffix comes; *laṭ*, third person plural form; because it stands after an *ajanta*, the *nighāta* accent. *Diśaḥ* — root *diśa atisarjane*; *kvip ca* (Pā. 3-2-76 as read), the suffix *kvip*; nominative plural form. *Svadāmi* — root *svada āsvādane*; *dhātvādeḥ ṣaḥ saḥ* (Pā. 6-1-64 as read), *s* for the initial *ṣ* [as read]; since the causative sense is included, or since the *ṇic* comes by *chandasy ubhayathā* (Pā. 3-4-117 as read), because *śap* has the *ārdhadhātuka* name, *ṇer aniṭi* (Pā. 6-4-51 as read), elision of the *ṇi* in the presence of *aniṭ*; *laṭ*, first person singular form; because it stands at the beginning of a pāda, no *nighāta*; since the *lasārvadhātuka* is *anudātta*, the root accent remains. *Ūtayaḥ* — root *ava rakṣaṇe*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174 as read), the suffix *ktic* in the agent sense; since it is *kit*, with it following, *jvaratvarasrivyaviramavām upadhāyāś ca* (Pā. 6-4-20 as read), *ūṭ* for the root's *v* and the penultimate; the form *ūti*; *ciṭaḥ* (Pā. 6-1-163 as read), the final acute; nominative plural form. *Aruhat* — root *ruha bījajanmani prādurbhāve ca*; *luṅ*, third person singular, the suffix *tip*; *iteś ca*, elision of its *i*; *kṛmṛdṛruhibhyaś chandasi* (Pā. 3-1-59 as read), *aṅ* substituted for the *cli* that is obtained in *luṅ*; since this is *ñit*, *guṇa* of the root's light penultimate does not occur; the augment *aṭ*; because it stands after an *ajanta*, the *nighāta* accent. ‖ 2 ‖
+
+---
+
+### Printed p. 461  (PDF 481; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 119.3)**
+
+> सं यन्मिथः पस्पृधानासो अग्मत शुभे मखा अमिता जायवो रणे ।
+> युवोरह प्रवणे चेकिते रथो यदश्विना वहथः सूरिमा वरम् ॥ ३ ॥
+
+> *saṃ yanmithaḥ paspṛdhānāso agmata śubhe makhā amitā jāyavo raṇe |*
+> *yuvoraha pravaṇe cekite ratho yadaśvinā vahathaḥ sūrimā varam ‖ 3 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 119.3)**
+
+> सम् । यत् । मिथः । पस्पृधानासः । अग्मत । शुभे । मखाः ।
+> अमिताः । जायवः । रणे ।
+> युवोः । अह । प्रवणे । चेकिते । रथः । यत् । अश्विना । वहथः ।
+> सूरिम् । आ । वरम् ॥ ३ ॥
+
+> *sam | yat | mithaḥ | paspṛdhānāsaḥ | agmata | śubhe | makhāḥ |*
+> *amitāḥ | jāyavaḥ | raṇe |*
+> *yuvoḥ | aha | pravaṇe | cekite | rathaḥ | yat | aśvinā | vahathaḥ |*
+> *sūrim | ā | varam ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 119.3)** *(small type; read with some doubts)*
+
+> मखा मखवन्तो यज्ञोपेता अमिता अपरिमिता जायवो जयशीला मनुष्या रणे संग्रामे शुभे शोभनाय धनाय तदर्थं मिथः पस्पृधानासोऽन्योन्यं स्पर्धमाना यद्यदा समग्मत संगच्छन्ते तदानीं हे अश्विना अश्विनौ युवोरह युवयोरेव रथः प्रवणे प्रकर्षेण संभजनीये भूतले चेकिते । ज्ञायते । देवेषु मध्ये युवामेव रक्षणार्थं शीघ्रं रथेनागच्छथ इत्यर्थः । येन रथेन सूरिं स्तोतारं प्रति वरं श्रेष्ठं धनमावहथः प्रापयेथः । स रथ इत्यर्थः ॥ पस्पृधानासः । स्पर्ध संघर्षे । छान्दसो लिट् । तस्य लिटः कानजादेशः । छान्दसं रेफस्य संप्रसारणमकारलोपश्च । अग्मत । गमेश्छान्दसो लङ् । समो … [as read]
+
+> *makhā makhavanto yajñopetā amitā aparimitā jāyavo jayaśīlā manuṣyā raṇe saṃgrāme śubhe śobhanāya dhanāya tadarthaṃ mithaḥ paspṛdhānāso 'nyonyaṃ spardhamānā yadyadā samagmata saṃgacchante tadānīṃ he aśvinā aśvinau yuvoraha yuvayoreva rathaḥ pravaṇe prakarṣeṇa saṃbhajanīye bhūtale cekite | jñāyate | deveṣu madhye yuvāmeva rakṣaṇārthaṃ śīghraṃ rathenāgacchatha ityarthaḥ | yena rathena sūriṃ stotāraṃ prati varaṃ śreṣṭhaṃ dhanamāvahathaḥ prāpayethaḥ | sa ratha ityarthaḥ ‖ paspṛdhānāsaḥ | spardha saṃgharṣe | chāndaso liṭ | tasya liṭaḥ kānajādeśaḥ | chāndasaṃ rephasya saṃprasāraṇamakāralopaśca | agmata | gameśchāndaso laṅ | samo … [as read]*
+
+*Sense (mine and tentative):* "The *makhāḥ* — sacrificers, the *amitāḥ* — innumerable *jāyavaḥ* — victorious men: when, in battle (*raṇe*), for *śubhe* — good wealth, they come together (*sam agmata*), striving (*paspṛdhānāsaḥ*) against one another (*mithaḥ*), then, O Aśvins, *yuvor aha* — indeed your chariot is *cekite* — known [to be] at the *pravaṇa* — the earth's lowland that is well resorted to; that is: of the gods you alone, for protection, come swiftly with the chariot. With which chariot you bring (*vahathaḥ*) *varam* — the best wealth to *sūrim* — the praiser: *that* chariot."
+
+---
+
+**Progress note:** Sūkta 119: Ṛks 1–2 complete; Ṛk 3 through printed p. 461 (PDF 481): Saṃhitā, Pada, bhāṣya begun (continues p. 462). Next: printed p. 462 (PDF 482). Numerals as read (no numeral list covers these pages): sūtra numbers on p. 460 `[as read]`.
