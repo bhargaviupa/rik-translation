@@ -6652,4 +6652,54 @@ In this Ṛk the word *anarvan* is used in the sense of 'one who is not under an
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–18 complete; Ṛk 19 through the pratipadārtha on printed p. 279 (PDF 299): Saṃhitā, Pada, bhāṣya, pratipadārtha. Next: printed p. 280 (PDF 300) — Ṛk 19 bhāvārtha, English, Special Topics. Open: Divodāsa Ṛ. numerals on p. 277 largely unreadable (`[?]`); others as read.
+### Printed p. 280  (PDF 300; header "Maṃ. 1 A. 17 Sū. 116")
+
+*(Pratipadārtha of Ṛk 19, concluded:)* "… *tri bhāgam* — the three kinds of sacrificial acts called the morning-*savana*, midday-*savana* and third *savana*; *dadhatīm* — which bear (perform); *jahnāvīm* — turning toward Jahnu the great ṛṣi's progeny; *ā yātam* — come."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, you both, of one mind, bringing strength, wealth, good offspring and food that gives vigour — you came to the descendants of the great ṛṣi Jahnu, who were performing three sacrificial acts, the Soma-sacrifice [with the three savanas, the morning savana etc.], provided with oblations and the like."
+
+**English Translation (as printed)**
+
+> Nasatyas, bearing strength and wealth with posterity and vigour-sustaining food, you came, with one intention, to the family of Jahnu, (provided) with (sacrificial) viands, and possessing a third portion of the daily offerings).
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**जाह्नवीम्** — *Jāhnavīm* — "*jahnoḥ maharṣeḥ sambandhinīṃ prajām*": "looking at the progeny (*prajā*) of the great ṛṣi Jahnu, and having compassion on them, the Aśvin deities with goodwill toward them accept the portions of the oblation that they offer separately at the three savanas — morning, midday and evening — and favour them with long life, strength, health, wealth and excellent progeny: so Sāyaṇa explains. This word *jāhnavī* is found in the Ṛgveda in this Ṛk too —
+
+> पुराणमोकः सख्यं शिवं वां युवोर्नरा द्रविणं जह्नाव्याम् ।
+> (ऋ. सं. ३-५८-६ [as read])
+
+> *purāṇamokaḥ sakhyaṃ śivaṃ vāṃ yuvornarā draviṇaṃ jahnāvyām |*
+> *(ṛ. saṃ. 3-58-6 [as read])*
+
+— and in this Ṛk the word is used so as to suggest also the meaning 'the wife of the great ṛṣi Jahnu'. Though in the Vedas Jahnu is spoken of as a single ṛṣi, in the Purāṇas, beginning with the Viṣṇu [Purāṇa], he is said to be a king in the lunar dynasty.
+
+### Printed p. 281  (PDF 301; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"Skandasvāmin —
+
+> जह्नोर्भार्या धनादिकामा सोमेनायजत् । तस्यै अश्विनावागत्य धनादीन् ददतुः । तदेतदिहोच्यते रयिमित्यादिना । जह्नुऋषेः पत्नी धनादीन् इच्छन्ती सोमयागं कृतवती । तदा अश्विनौ तस्मिन् यज्ञे आगत्य भागं स्वीकृत्य तां धनादिभिः सम्पादितवन्तौ [?]
+
+> *jahnorbhāryā dhanādikāmā somenāyajat | tasyai aśvināvāgatya dhanādīn dadatuḥ | tadetadihocyate rayimityādinā | jahnuṛṣeḥ patnī dhanādīn icchantī somayāgaṃ kṛtavatī | tadā aśvinau tasmin yajñe āgatya bhāgaṃ svīkṛtya tāṃ dhanādibhiḥ sampāditavantau [?]*
+
+— the wife of Jahnu, desiring wealth and the like, performed a Soma-sacrifice; the Aśvins came and gave her wealth and the like: this is told here by *rayim* and so on. The wife of the ṛṣi Jahnu, wishing for wealth and so on, performed a Soma-sacrifice. Then the Aśvin deities came to that sacrifice, accepted the portions of the oblation, and, as she wished, favoured her with everything: [so] explaining it in one way, Skandasvāmin explains the word *jāhnavī* as 'the wife of Jahnu' and tells it; and again, '*jahnor apatyaṃ jāhnavī tasya prajā tāṃ balākāśva-kuśika-gādhi-viśvāmitra-prabhṛtikām*' — 'the progeny of Jahnu is *jāhnavī*, [meaning] those beginning with Balākāśva, Kuśika, Gādhi, Viśvāmitra': he explains in another way that in the explanation 'Jahnu's offspring are *jāhnavī*', the Aśvin deities favoured the sons of Jahnu — Balākāśva, Kuśika, Gādhi and Viśvāmitra — thus giving another account of the meaning.
+
+**सुक्षत्रम्** — *Sukṣatram* — "the word *kṣatra* is stated among the hundred-and-one [as read] names of water (Ni. 1-?? as read [?]). But Skandasvāmin explains '*kṣatram iti balanāma*' — the word *sukṣatra* means 'having good strength' — 'together with the strength that is able to destroy bad demons such as Rākṣasas, which the Asuras and others drive off with their strength'."
+
+**रयिम्** — *Rayim* — "*dhanam*: the word *rayi* is stated among the hundred-and-one names of water (Ni. 1-?? as read [?]) and also among the twenty-eight [as read] names of wealth (Ni. 2-?? as read [?]). And the Nirukta-writer explains: '*rayir iti dhananāma rāter dānakarmaṇaḥ*' (Ni. 4-?? as read [?]): the word *rayi*, formed from the root *rā* 'to give', means wealth."
+
+**अह्नः त्रिः भागम्** — *Ahnaḥ triḥ bhāgam* — "*atra ahaḥśabdena tatkālānuṣṭheyaḥ somayāgo lakṣyate | tasya prātaḥsavanādirūpeṇa tridhā vibhaktaṃ bhāgam anusavanaṃ havirbhir yajamānām*": "the word *ahar* here indicates the Soma sacrifice to be done at that time; the three-fold divided portion [the offering of oblations by the sacrificers at each *savana*] in the form of the morning *savana* and the rest. In the Nirukta '*ahaḥ kasmāt | adaḥ sa*[?]…' [the Sanskrit is in small type]: because the work done at the time when the Sun shines is done in the day, the word *ahar* is explained; here the word *ahar* means the Soma sacrifice done in the day. In this Soma sacrifice, homa and other rites related to sacrifice, such as the extraction of soma-juice, are performed at the three times — morning *savana*, midday *savana* and third *savana* — and the main idea is that the Aśvin deities came to the sacrifices performed by the descendants of Jahnu and accepted the oblation-portions."
+
+### Printed p. 282  (PDF 302; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 19; grammar page, noted briefly)**
+
+*sukṣatram* (*śobhanaṃ kṣatraṃ balaṃ yasya tat*; in a *bahuvrīhi*, by *nañsubhyām*, Pā. 6-2-172 as read [?], the later member's final accent; similarly in *svapatyam*); *suvīryam* (*śobhanaṃ vīryaṃ yasya tat*; by *vīravīryau ca*, Pā. 6-2-120 as read [?], since the *bahuvrīhi* accent of the first member is set aside, the later member's first syllable accented); *vahantā* (*vaha* "to carry"; *śatṛ* in the *laṭ* sense; *śap* as *vikaraṇa*; as the *sārvadhātuka* is unaccented by *tāsyanudāttet…*, Pā. 6-1-186 as read [?], the root accent remains; with the dual ending following, *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *ugidacām*, Pā. 7-1-70 as read [?], *num*); *jāhnavīm* (*jahnor apatyaṃ strī jāhnavī*, *tasyedam*, Pā. 4-3-120 as read [?], *aṇ*; in the feminine *ṭiḍḍhāṇañ…*, Pā. 4-1-15 as read [?], *ṅīp*; as it has *bha*-designation, *oś ca guṇaḥ*, Pā. 6-4-146 as read [?], guṇa of the *u*, and *av*; since the word belongs to the *pṛṣodarādi* group, the exchange of short and long vowels arises: *pṛṣodarādīni yathopadiṣṭam*, Pā. 6-3-109 as read [?] — '*varṇāgamo varṇaviparyayaś ca*' (a statement) — so this is consistent; therefore the middle *udātta* too is established); *samanasā* (*samānaṃ manaḥ yayoḥ tau samanasau*; *supāṃ sulug*, Pā. 7-1-39 as read [?], *ā* for the ending; *bahuvrīhau prakṛtyā pūrvapadam*, Pā. 6-2-1 as read [?], first-member accent); *dadhatīm* (*ḍudhāñ* "to hold, to nourish"; *śatṛ* in the *laṭ* sense; *śluḥ* as *vikaraṇa*; doubling of the root; since the suffix is *jhi*-like [*jitva*], *ato lopa iṭi ca*, Pā. 6-4-64 as read [?], elision of the *ā*; in the feminine *ugitaś ca*, Pā. 4-1-6 as read [?], *ṅīp*; *nābhyastācchatuḥ*, Pā. 7-1-78 as read [?], no *num*; *abhyastānām ādiḥ*, Pā. 6-1-189 as read [?], first-syllable accent; accusative singular); *āyātam* (*yā* "to go"; *laṅ* 2nd dual; nighāta). ‖ 19 ‖
+
+*(Printer's ornament.)*
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–19 complete (through printed p. 282, PDF 302). Next: Ṛk 20 from printed p. 283 (PDF 303). Open: numerals as read `[?]`; Ni. refs `[?]`; Skandasvāmin small type `[?]`.
