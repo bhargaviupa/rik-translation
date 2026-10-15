@@ -6198,4 +6198,74 @@ as an example."
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–13 complete; Ṛk 14 through printed p. 258 (PDF 278): pratipadārtha, bhāvārtha, English, Special Topics (*abhīke*, *vṛkasya* with the Nirukta explanations, *kṛpamāṇam* begun; continues p. 259). Next: printed p. 259 (PDF 279). Open: Ṛ./Ni. numerals as read `[?]`.
+### Printed p. 259  (PDF 279; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Special Topics of Ṛk 14, concluded:)* "… *pāt kṛpaṇyatīti stotranāmasu ca pāt kṛpiḥ stutyarthaḥ iti gamyate* [as read; the Sanskrit is in small type, partly doubtful [?]] — explaining thus, [Skandasvāmin] explains that the Aśvin deities favoured the ṛṣi named Kavi, who was blind and who praised them, and who wanted eyesight, and made him able to see all things; and to support this meaning
+
+> युवं कण्वायापिरिप्ताय चक्षुः प्रत्यधत्तं सुष्टुतिं जुजुषाणा ॥
+> (ऋ. सं. १-११७-८ [as read])
+
+> *yuvaṃ kaṇvāyāpiriptāya cakṣuḥ pratyadhattaṃ suṣṭutiṃ jujuṣāṇā ‖*
+> *(ṛ. saṃ. 1-117-8 [as read])*
+>
+> याभिः कण्वं प्रसिषासन्तमावतं ताभिरू षु ऊतिभिरश्विनागतम् ॥
+> (ऋ. सं. १-११२-५ [as read; the same number as printed earlier for another Ṛk])
+
+> *yābhiḥ kaṇvaṃ prasiṣāsantamāvataṃ tābhirū ṣu ūtibhiraśvināgatam ‖*
+> *(ṛ. saṃ. 1-112-5 [as read; the same number as printed earlier for another Ṛk])*
+
+these Ṛks are cited."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 14; grammar page, noted briefly)**
+
+*āsnaḥ* (the word *āsya*; when the ablative singular follows, *pad-dan-no-mās-hṛn-niś-yūṣan-doṣan-yakañ-chakann-udan-āsañ-chasprabhṛtiṣu*, Pā. 6-1-63 as read [?], *āsan* is substituted; since it is *bha*-designated, *ālloponaḥ*, Pā. 6-4-134 as read [?], elision of the *a* of *an*; since the *udātta a* is elided, *ūḍidaṃpadādi*, Pā. 6-1-171 as read [?], the ending takes *udātta*); *yuvam* (*prathamāyāś ca dvivacane bhāṣāyām*, Pā. 7-2-88 as read [?], *āttva* arises only in the language, not in the Veda); *amumuktam* (*muc* "to release"; since the causal sense is meant, the root has the meaning of an implicit *ṇic*; *laṅ* 2nd dual *tam*; *bahulaṃ chandasi*, Pā. 2-4-73 as read [?], *śluḥ* for the *vikaraṇa*; *ślau*, Pā. 6-1-10 as read [?], doubling of the root; *halādiśeṣa*; *coḥ kuḥ*, Pā. 7-3-52 as read [?], *k* for *c*; the augment *aṭ*; nighāta); *kṛpamāṇam* (the root *kṛp* is read in the sense of praise; tudādi; *śānac* in the *laṭ* sense; *tudādibhyaḥ śaḥ*, Pā. 3-1-77 as read [?], *śa* as *vikaraṇa*; since *sārvadhātukam apit* makes it *ṅit*, no guṇa; *āne muk*, Pā. 7-2-82 as read [?], the *muk* augment; as *adupadeśa* the *sārvadhātuka* is unaccented, hence *tāsyanudāttet…*, Pā. 6-1-186 as read [?], it is unaccented; the *vikaraṇa* accent being later, *vṛṣādīnāṃ ca*, Pā. 6-1-203 as read [?], first-syllable accent).
+
+### Printed p. 260  (PDF 280; header "Maṃ. 1 A. 17 Sū. 116")
+
+*Grammar page, concluded:* *akṛṇutam* (*kṛvi* "to injure, to do"; *laṅ* 2nd dual *tam*; *dhinvikṛṇvor a ca*, Pā. 3-1-80 as read [?], *u* with the final *a*, so *uvikaraṇa* is not [the other kind]; as it is *idit*, *num* for the root; nighāta); *vicakṣe* (*cakṣiṅ* "to speak clearly", adādi; *tumartha se-sen-ase…*, Pā. 3-4-9 as read [?], the suffix *se*; *skoḥ saṃyogādyor ante ca*, Pā. 8-2-29 as read [?], elision of the *k* of the root; the *p* → *kṣ* …; *ṣatva* of the *s*; as the suffix is *nit*, *jñityādir nityam*, Pā. 6-1-197 as read [?], first-syllable accent; *kṛn mejantaḥ*, Pā. 1-1-39 as read [?], since it ends in *e* it is an *avyaya*). ‖ 14 ‖
+
+*(Printer's ornament.)*
+
+### Ṛk 15
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.15)**
+
+> चरित्रं हि वेरिवाच्छेदि पर्णमाजा खेलस्य परितक्म्यायाम् ।
+> सद्यो जङ्घामायसीं विश्पलायै धने हिते सर्तवे प्रत्यधत्तम् ॥ १५ ॥
+
+> *caritraṃ hi verivācchedi parṇamājā khelasya paritakmyāyām |*
+> *sadyo jaṅghāmāyasīṃ viśpalāyai dhane hite sartave pratyadhattam ‖ 15 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.15)**
+
+> चरित्रम् । हि । वेःऽइव । अच्छेदि । पर्णम् । आजा । खेलस्य ।
+> परिऽतक्म्यायाम् ।
+> सद्यः । जङ्घाम् । आयसीम् । विश्पलायै । धने । हिते । सर्तवे ।
+> प्रति । अधत्तम् ॥ १५ ॥
+
+> *caritram | hi | veḥ 'iva | acchedi | parṇam | ājā | khelasya |*
+> *pari 'takmyāyām |*
+> *sadyaḥ | jaṅghām | āyasīm | viśpalāyai | dhane | hite | sartave |*
+> *prati | adhattam ‖ 15 ‖*
+
+### Printed p. 261  (PDF 281; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.15)**
+
+> अगस्त्यपुरोहितः खेलो नाम राजा । तस्य सम्बन्धिनी विश्पला नाम स्त्री सङ्ग्रामे शत्रुभिश्छिन्नपादासीत् । पुरोहितेनागस्त्येन स्तुतावश्विनौ रात्रावागत्याद्योमयं पादं समधत्तां । तदेतदाह । आजा आजौ सङ्ग्रामे ऽगस्त्यपुरोहितस्य खेलस्य सम्बन्ध्याः विश्पलाख्यायाश्चरित्रं चरणं वेरिव वेः पक्षिणः पर्णं पतत्रमिवाच्छेदि हि । पुरा भिन्नमभूत्खलु । हे अश्विनौ युवामगस्त्येन स्तुतौ सन्तौ परितक्म्यायां रात्रौ । परितक्म्यां रात्रिः परित एनां तकेतीति यास्कः । नि. ११-२१ । एनामुभयतः सूर्यो गच्छतीति तस्यार्थः । रात्रावागत्य सद्यस्तदानीमेव हिते शत्रुषु निहिते धने जेतव्ये विषयभूते सति सर्तवे सर्तुं गन्तुं विश्पलाया आयसीमयोमयीं जङ्घां जङ्घोपलक्षितं पादं प्रत्यधत्तं । सन्धानमेकीकरणं कृतवन्ताविस्यर्थः ॥ चरित्रम् । अर्तिलूधूसूखनसहचर इत्रः इति करणे इत्रः । आजा । सुपां सुलुगिति विभक्तेर्डादेशः । आयसीम् । अयोऽशब्दाद्विकारार्थे प्राणिरजतादिभ्योऽञ् । पा. ४-३-१५४ । टिड्ढाणञित्यादिना ङीप् ॥
+
+> *agastyapurohitaḥ khelo nāma rājā | tasya sambandhinī viśpalā nāma strī saṅgrāme śatrubhiśchinnapādāsīt | purohitenāgastyena stutāvaśvinau rātrāvāgatyādyomayaṃ pādaṃ samadhattāṃ | tadetadāha | ājā ājau saṅgrāme 'gastyapurohitasya khelasya sambandhyāḥ viśpalākhyāyāścaritraṃ caraṇaṃ veriva veḥ pakṣiṇaḥ parṇaṃ patatramivācchedi hi | purā bhinnamabhūtkhalu | he aśvinau yuvāmagastyena stutau santau paritakmyāyāṃ rātrau | paritakmyāṃ rātriḥ parita enāṃ taketīti yāskaḥ | ni. 11-21 | enāmubhayataḥ sūryo gacchatīti tasyārthaḥ | rātrāvāgatya sadyastadānīmeva hite śatruṣu nihite dhane jetavye viṣayabhūte sati sartave sartuṃ gantuṃ viśpalāyā āyasīmayomayīṃ jaṅghāṃ jaṅghopalakṣitaṃ pādaṃ pratyadhattaṃ | sandhānamekīkaraṇaṃ kṛtavantāvisyarthaḥ ‖ caritram | artilūdhūsūkhanasahacara itraḥ iti karaṇe itraḥ | ājā | supāṃ sulugiti vibhakterḍādeśaḥ | āyasīm | ayo 'śabdādvikārārthe prāṇirajatādibhyo 'ñ | pā. 4-3-154 | ṭiḍḍhāṇañityādinā ṅīp ‖*
+
+*Sense (mine):* "Khela was a king whose priest was Agastya. His [relation] Viśpalā, a woman, had had her foot cut off by enemies in battle. Agastya, the priest, praised the Aśvins, who came at night and fitted an iron foot. This is what is said: *ājā* — in the battle, [in] the battle of Khela whose priest was Agastya, the *caritra*, the foot, of Viśpalā was cut off like a bird's wing (*vaḥ iva parṇam*), the *patatra*; formerly it had been broken. O Aśvins, you, praised by Agastya, in *paritakmyāyām*, in the night (*paritakmyā* = 'night': Yāska: 'it goes around this'; Ni. 11-?? as read [?]; the sense: 'the Sun goes on both sides of it'), came, and at once, when wealth was placed [in the enemies], at the time of the contest, for going — for *sartave* — you fitted to Viśpalā an *āyasī*, iron, *jaṅghā* (that is, a foot indicated by the shank): you united it, made it one."
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"(*he aśvinau* — O Aśvin deities); *ājā* — in battle; *khelasya* — of the king named Khela (belonging to him); *viśpalāyāḥ* [as printed *viśpalā*, the woman]; *caritram* — the foot; *veḥ* — of a bird; *parṇam iva* — like a wing; *acchedi hi* — was cut; *paritakmyāyām* — at night (you two, when praised by Agastya, the priest of Khela, came); *sadyaḥ* — at once; *hite* — placed [by the enemies]; *dhane* — for the sake of wealth; *sartave* — to go (to run for the purpose); *viśpalāyai* — for Viśpalā; *āyasīm* — made of iron; *jaṅghām* — foot; *pratyadhattam* — you joined (gave)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O Aśvin deities, in battle, to Viśpalā, [the wife] of Khela, whose foot was cut off like a bird's wing — you two, praised by his priest, the sage Agastya, came at night and, so that she might run to win the wealth placed by the enemies, joined an iron foot."
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–14 complete; Ṛk 15 through the bhāvārtha on printed p. 261 (PDF 281): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha. Next: printed p. 262 (PDF 282) — Ṛk 15 English, Special Topics, grammar. Open: numerals as read `[?]`; small-type `[?]`; Ṛ. 1-112-5 number printed twice (as printed).
