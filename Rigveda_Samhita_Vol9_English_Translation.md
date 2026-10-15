@@ -38,11 +38,11 @@ It is a settled matter that Skandasvāmin is earlier than Sāyaṇa, who belongs
 > *yadā dī(=bdā)nāṃ kalerjagmuḥ ṣaṭtriṃśacchatāni vai |*
 > *catvāriṃśatsamāścānyāstadā bhāṣyamidaṃ kṛtam ‖*
 
-"When 3,600 years of the Kali (age) and forty more years had passed, then this bhāṣya was composed" — he states his own date (Kali 3640, i.e. as the Kannada says "three thousand six hundred and forty years"). By this, according to the reckoning of historical researchers, it corresponds to about 5[3]8 [?] of the Christian era. At that time Yaśodharman was ruler of Mālava, and Harisvāmin …
+"When 3,600 years of the Kali (age) and forty more years had passed, then this bhāṣya was composed" — he states his own date (Kali 3640, i.e. as the Kannada says "three thousand six hundred and forty years"). By this, according to the reckoning of historical researchers, it corresponds to about 538 of the Christian era. At that time Yaśodharman was ruler of Mālava, and Harisvāmin …
 
 ### Printed p. ii  (PDF 9)
 
-… (Yaśodharman) was the patron, Vikramāditya. Yaśodharman, in C.E. 5[3]2 [?], defeated the Hūṇas (Huns) and consolidated his kingdom. Harisvāmin, who lived under his protection, must have written the bhāṣya in 5[3]8 [?]. From the evidence above it may be said that his teacher Skandasvāmin was at the end of the fifth or the beginning of the sixth century C.E.
+… (Yaśodharman) was the patron, Vikramāditya. Yaśodharman, in C.E. 528, defeated the Hūṇas (Huns) and consolidated his kingdom. Harisvāmin, who lived under his protection, must have written the bhāṣya in 538. From the evidence above it may be said that his teacher Skandasvāmin was at the end of the fifth or the beginning of the sixth century C.E.
 
 [Note in square brackets: that Yaśodharman, called Vikramāditya, belongs to the sixth century C.E. is known from the book *Harsha* by Radhakumud Mukherji. — the title is printed in English: "Harsha By Radhakumud Mukherji".]
 
@@ -64,9 +64,9 @@ In the Ṛgsaṃhitā there are more than twenty Sūktas addressed to Uṣas. In
 >
 > [Lectures ou [sic] the Science of Language. Vol II P. 481-482]
 
-Uṣas is described in some places as the dearest wife of Sūrya (*sūryasya yoṣā*, 7-75-5 [?]) and in some places as Sūrya's mother (*ajījanan sūryam*, 7-78-3 [?]). In Ṛks such as 1-113-2 [?]; 10-1?-3 [?]; 1-1?4-? [?] she is called Night's sister; and in 1-123-5 [?] "*bhagasya svasā varuṇasya jāmiḥ*" ("sister of Bhaga, kin of Varuṇa") — she is said to be sister of Bhaga and a close relation of Varuṇa. All these relationships, like those of Uṣas, also indicate a very close connection of the Aśvin deities with the others. The statements "*divo duhitrā uṣasā sacethe*" (1-1?3-? [?]), "*sakhābhūd aśvinor uṣāḥ*" (4-?-? [?]) and "*uta sakhāsy aśvinoḥ*" (4-?-? [?]) show a similar connection between Uṣas and the Aśvins. (All numerals in this paragraph are small and blurred in the scan: unresolved.)
+Uṣas is described in some places as the dearest wife of Sūrya (*sūryasya yoṣā*, 7-75-5) and in some places as Sūrya's mother (*ajījanan sūryam*, 7-78-3). In Ṛks such as 1-113-2; 10-127-3; 1-124-8 she is called Night's sister; and in 1-123-5 "*bhagasya svasā varuṇasya jāmiḥ*" ("sister of Bhaga, kin of Varuṇa") — she is said to be sister of Bhaga and a close relation of Varuṇa. All these relationships, like those of Uṣas, also indicate a very close connection of the Aśvin deities with the others. The statements "*divo duhitrā uṣasā sacethe*" (1-183-2), "*sakhābhūd aśvinor uṣāḥ*" (4-52-3) and "*uta sakhāsy aśvinoḥ*" (4-52-3) show a similar connection between Uṣas and the Aśvins. (Numerals of this paragraph read against the reader's OCR numeral list, which agrees with the page image.)
 
-Five Sūktas of this Adhyāya are addressed to the Aśvins. The Sūktas praising these deities in the Ṛgsaṃhitā number more than fifty altogether. Their distinguishing mark is a dual-natured form in many respects; things compared to them are also of this dual form. "*grāvāṇeva, gṛdhreva, brahmāṇeva* (2-39-1 [?]) *meneiva tena śumbhamāne dampatīva kratuvidā janeṣu* (2-39-2 [?]) *śṛṅgeva, śaphāviva, cakravākeva* (2-39-3 [?]) *hastāviva, pādeva* (5 [?]) *oṣṭhāviva, nāseva, karṇāviva* (6 [?])" — thus they are always compared with things that are of two parts. They are called ever-young (6-62-10 [?]); ancient (6-62-5 [?]); beautiful (6-62-? [?]); of honey-colour (8-?-? [?]); lords of splendours (8-22-4 [?]); and extremely vigorous (6-?-? [?]); thus in many other ways they are described. In describing their various qualities, when the particular topics of separate Ṛks are explained, their greatness will be set out in detail.
+Five Sūktas of this Adhyāya are addressed to the Aśvins. The Sūktas praising these deities in the Ṛgsaṃhitā number more than fifty altogether. Their distinguishing mark is a dual-natured form in many respects; things compared to them are also of this dual form. "*grāvāṇeva, gṛdhreva, brahmāṇeva* (2-39-1) *meneiva tena śumbhamāne dampatīva kratuvidā janeṣu* (2-39-2) *śṛṅgeva, śaphāviva, cakravākeva* (2-39-3) *hastāviva, pādeva* (5) *oṣṭhāviva, nāseva, karṇāviva* (6)" — thus they are always compared with things that are of two parts. They are called ever-young (7-67-10); ancient (6-62-5); beautiful (6-62-2); of honey-colour (8-26-6); lords of splendours (8-22-4); and extremely vigorous (6-62-5); thus in many other ways they are described. In describing their various qualities, when the particular topics of separate Ṛks are explained, their greatness will be set out in detail.
 
 ---
 
@@ -74,7 +74,7 @@ Five Sūktas of this Adhyāya are addressed to the Aśvins. The Sūktas praising
 
 Of the endless qualities of the Aśvin deities the distinguishing mark is this: they protect devotees who have fallen into calamity and grant them what they desire. Though Indra and the other deities also help their devotees, the help of the Aśvins is more special than all. Indra and the others are famed for freeing devotees caught by enemies in battle and giving them protection; the Aśvins are famed for freeing them from every kind of calamity and giving their protection. Because these are deities connected with the sea, they saved Bhujyu, son of Tugra, who was in distress from shipwreck, by providing an excellent boat. Because they are physicians of the gods they cured devotees afflicted by many kinds of disease. The story of the ṛṣi Cyavāna, who received from them such help and, after the destruction of his old age, obtained youth, is told in the Śatapatha and other Brāhmaṇas. In the same way, in many places in the Ṛgsaṃhitā are described the occasions on which they helped hundreds of devotees, Vimada, Atri and others.
 
-In this Adhyāya the epithet of Uṣas, *ṛtapāḥ* (1-113-12 [?]), and the description of the nature of the Aśvins, *ṛtāyan* (1-11?-?? [?]), show the similarity of qualities each shares with the other. *Ṛtapāḥ* means "protectress of truth or of the sacrifice" (*satyasya yajñasya vā pālayitrī*) — one who guards truth or the sacrifice. *Ṛtāyan* means (*satyam ātmana icchan*) — one who wishes truth for himself, i.e. one who is truthful in soul and truthful in conduct.
+In this Adhyāya the epithet of Uṣas, *ṛtapāḥ* (1-113-12), and the description of the nature of the Aśvins, *ṛtāyan* (1-117-22), show the similarity of qualities each shares with the other. *Ṛtapāḥ* means "protectress of truth or of the sacrifice" (*satyasya yajñasya vā pālayitrī*) — one who guards truth or the sacrifice. *Ṛtāyan* means (*satyam ātmana icchan*) — one who wishes truth for himself, i.e. one who is truthful in soul and truthful in conduct.
 
 The word *ṛta* indicates the order of the universe, both physical and moral. Mitra and Varuṇa, chief among the Ādityas, are the guardians of this law; that they have the position of carrying on the world's affairs by this law and in the keeping of it is described in the Sūktas of the second Adhyāya of the second Aṣṭaka (as printed) [?], which concern them. How the deities Uṣas and the Aśvins follow this law and in what ways they help the world to follow it is explained here, in brief.
 
@@ -92,12 +92,12 @@ The word *ṛta* indicates the order of the universe, both physical and moral. M
 > ऋतस्य देवीः सदसो बुधाना गवां न सर्गा उषसो जरन्ते ।
 
 > *ṛtasya devīḥ sadaso budhānā gavāṃ na sargā uṣaso jarante |*
-> (Ṛ. Saṃ. 4-51-8) [as read]
+> (Ṛ. Saṃ. 4-51-8)
 >
 > ऋतस्य योषा न मिनाति धामाहरहर्निष्कृतमाचरन्ती ।
 
 > *ṛtasya yoṣā na mināti dhāmāharaharniṣkṛtamācarantī |*
-> (Ṛ. Saṃ. 1-124-2) [?]
+> (Ṛ. Saṃ. 1-123-4)
 >
 > ऋतस्य पन्थामन्वेति साधु प्रजानतीव न दिशो मिनाति ।
 
@@ -107,7 +107,7 @@ The word *ṛta* indicates the order of the universe, both physical and moral. M
 > ऋतस्य बुध्न उषसामिषण्यन् वृषा मही रोदसी आ विवेश ।
 
 > *ṛtasya budhna uṣasāmiṣaṇyan vṛṣā mahī rodasī ā viveśa |*
-> (Ṛ. Saṃ. 3-61-2)
+> (Ṛ. Saṃ. 3-61-7)
 
 — in these and other Ṛks it is described how Uṣas follows the path of Ṛta and keeps her rule every day without lapse, obeying the law of Ṛta. And so that this path of Ṛta may be followed, in the Ṛk
 
@@ -116,20 +116,20 @@ The word *ṛta* indicates the order of the universe, both physical and moral. M
 
 > *upa no vājinīvasū yātamṛtasya pathibhiḥ |*
 > *yebhistṛkṣiṃ vṛṣaṇā trāsadasyavaṃ mahe kṣatrāya jinvathaḥ ‖*
-> (Ṛ. Saṃ. 8-?-2 [?])
+> (Ṛ. Saṃ. 8-22-7)
 
 the Aśvin deities too are prayed to. In following the path of Ṛta there is a relation of mutual need between Uṣas and the Aśvins.
 
-In many Ṛks, e.g. "*yahvī ṛtasya mātarā*" (1-142-7 [?]), "*suprātīke vayovṛdhā yahvī ṛtasya mātarā*" (2-3-6 [?]), it is said that the two mother-deities of Ṛta (night and Uṣas) are meant, and the coming of the Aśvins together with the appearance of these two is indicated:
+In many Ṛks, e.g. "*yahvī ṛtasya mātarā*" (1-142-7), "*suprātīke vayovṛdhā yahvī ṛtasya mātarā*" (5-5-6), it is said that the two mother-deities of Ṛta (night and Uṣas) are meant, and the coming of the Aśvins together with the appearance of these two is indicated:
 
 > स्वद्वस्रा मनोयुजा रथेन पृथुपाजसा ।
 > सचेथे अश्विनोषसम् ॥ [? first word]
 
 > *svadvasrā manoyujā rathena pṛthupājasā |*
 > *sacethe aśvinoṣasam ‖ [? first word]*
-> (Ṛ. Saṃ. 8-?-3 [?])
+> (Ṛ. Saṃ. 8-5-2)
 
-The Aśvin deities, who do wonderful deeds, sit in their chariots and follow the very path of the Uṣases. Uṣas prays that such Aśvin deities be awakened, in the words "*pra bodhayoṣo aśvinā*" (8-?-12 [?]). "
+The Aśvin deities, who do wonderful deeds, sit in their chariots and follow the very path of the Uṣases. Uṣas prays that such Aśvin deities be awakened, in the words "*pra bodhayoṣo aśvinā*" (8-9-12). "
 
 > अबोध्यग्निर्ज्म उदेति सूर्यो व्यु षाश्चन्द्रा मह्यावो अर्चिषा ।
 > आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥
