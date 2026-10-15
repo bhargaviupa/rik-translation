@@ -8373,12 +8373,66 @@ And for the word *ahihanam*, he explains [from the strength-pride of the horse, 
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 117.10)** *(begun; continues p. 350)*
 
-> हे सुदानू शोभनदानावश्विना वां युवयोः संबन्धीन्येतानि समन्तरोक्तानि वीर्याणि श्रवस्या श्रवणीयानि सर्वैर्ज्ञातव्यानि भवन्ति । तदर्थं रोदस्योर्द्यावापृथिव्यात्मना वर्तमानयोर्युवयोः । उक्तं च यास्केन । कक्ष्यावश्विना द्यावापृथिव्यावित्येके । (नि. १२-१ [as read]) इति । तथा च कैत्तिरीयकम् [sic ?] । इमे अश्विना संवत्सरोऽग्निर्वैश्वानर इति । तयोर्युवयोः सदनं स्तोत्रसमीपे निवेशनं प्रसादनहेतुभूतं वाङ्गूषमाघोषणीयं ब्रह्म मन्त्ररूपं स्तोत्रं निष्पन्नमिति शेषः । यद्वदा पज्रासोऽङ्गिरसां गोत्रोत्पन्ना यजमाना हे अश्विनौ वां युवां हवन्ते स्तुतिभिरात्मरक्षणार्थमाह्वयन्ति तदानीमिषा …
+> हे सुदानू शोभनदानावश्विना वां युवयोः संबन्धीन्येतानि समन्तरोक्तानि वीर्याणि श्रवस्या श्रवणीयानि सर्वैर्ज्ञातव्यानि भवन्ति । तदर्थं रोदस्योर्द्यावापृथिव्यात्मना वर्तमानयोर्युवयोः । उक्तं च यास्केन । कक्ष्यावश्विना द्यावापृथिव्यावित्येके । (नि. १२-१ [as read]) इति । तथा च तैत्तिरीयकम् । इमे अश्विना संवत्सरोऽग्निर्वैश्वानर इति । तयोर्युवयोः सदनं स्तोत्रसमीपे निवेशनं प्रसादनहेतुभूतं वाङ्गूषमाघोषणीयं ब्रह्म मन्त्ररूपं स्तोत्रं निष्पन्नमिति शेषः । यद्वदा पज्रासोऽङ्गिरसां गोत्रोत्पन्ना यजमाना हे अश्विनौ वां युवां हवन्ते स्तुतिभिरात्मरक्षणार्थमाह्वयन्ति तदानीमिषा …
 
 > *he sudānū śobhanadānāvaśvinā vāṃ yuvayoḥ saṃbandhīnyetāni samantaroktāni vīryāṇi śravasyā śravaṇīyāni sarvairjñātavyāni bhavanti | tadarthaṃ rodasyordyāvāpṛthivyātmanā vartamānayoryuvayoḥ | uktaṃ ca yāskena | kakṣyāvaśvinā dyāvāpṛthivyāvityeke | (ni. 12-1 [as read]) iti | tathā ca kaittirīyakam [sic ?] | ime aśvinā saṃvatsaro 'gnirvaiśvānara iti | tayoryuvayoḥ sadanaṃ stotrasamīpe niveśanaṃ prasādanahetubhūtaṃ vāṅgūṣamāghoṣaṇīyaṃ brahma mantrarūpaṃ stotraṃ niṣpannamiti śeṣaḥ | yadvadā pajrāso 'ṅgirasāṃ gotrotpannā yajamānā he aśvinau vāṃ yuvāṃ havante stutibhirātmarakṣaṇārthamāhvayanti tadānīmiṣā …*
 
-*Sense (mine):* "O Sudānū — good givers, Aśvins! These (*etāni*) valorous deeds of yours (*vām*), just now spoken, are *śravasyā* — worthy of being heard, to be known by all. For that purpose [there is] of you two, who exist as heaven and earth (*rodasyoḥ*) — and Yāska has said: 'Some say that the Aśvins are heaven and earth' (Ni. 12-1 as read) — and so too the Taittirīya [printed *kaittirīyakam*]: 'These two Aśvins are the year, Agni Vaiśvānara' — for these two, your seat (*sadanam*): the abode near the hymn, the cause of pleasing, *āṅgūṣam* — to be proclaimed aloud — the *brahma*, the hymn in the form of mantra, has been produced (the verb is understood). And when the Pajras, sacrificers born in the family of the Aṅgirases, call you, Aśvins, with praises for their own protection, then — [by] food (*iṣā*) …" *(breaks off; continues p. 350)*
+*Sense (mine):* "O Sudānū — good givers, Aśvins! These (*etāni*) valorous deeds of yours (*vām*), just now spoken, are *śravasyā* — worthy of being heard, to be known by all. For that purpose [there is] of you two, who exist as heaven and earth (*rodasyoḥ*) — and Yāska has said: 'Some say that the Aśvins are heaven and earth' (Ni. 12-1) — and so too the Taittirīya (*taittirīyakam*, as the OCR list reads it): 'These two Aśvins are the year, Agni Vaiśvānara' — for these two, your seat (*sadanam*): the abode near the hymn, the cause of pleasing, *āṅgūṣam* — to be proclaimed aloud — the *brahma*, the hymn in the form of mantra, has been produced (the verb is understood). And when the Pajras, sacrificers born in the family of the Aṅgirases, call you, Aśvins, with praises for their own protection, then — [by] food (*iṣā*) …" *(breaks off; continues p. 350)*
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–9 complete; Ṛk 10 (the last Ṛk of this sūkta's printed run so far — verify count) Saṃhitā, Pada and the first half of the bhāṣya done through printed p. 349 (PDF 369); bhāṣya continues p. 350. Next: printed p. 350 (PDF 370). Open: p. 348 small-type grammar `[?]`; *kaittirīyakam* [sic] and Ni. 12-1 on p. 349 as read.
+### Printed p. 350  (PDF 370; header "Maṃ. 1 A. 17 Sū. 117")
+
+*(Bhāṣya of Ṛk 10, continued)* "… *iṣā yātam āgacchatam ca | viduṣe yuṣmadviṣayaṃ stotraṃ jānate mahyaṃ ca vājam annaṃ balaṃ vā prayacchatam iti śeṣaḥ ‖*" ("Come with food; and give strength or food to me, who know the hymn concerning you" — the verb is understood). Then the bhāṣya's grammar tail: *yātam* — the prohibition of *nighāta* by the rule on *ca* and *vā* used in connection [?]; *viduṣe* — root *vida jñāne*; *vider śatur vasuḥ*, *vasu*; *vasoḥ saṃprasāraṇam*; *śāsivasighasīnāṃ ca*, *ṣatva* — characterized, not transcribed.
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Ṛk 117.10)** (Kannada, rendered)
+
+*Sudānū* — O Aśvins who give desired things; *vām* — your; *etāni* — these (spoken of) deeds; *śravasyā* — worthy of praise (worth hearing); *rodasyoḥ* — (of the two who exist in earth and sky); *sadanam* — (the means of) accomplishing propitiation; *āṅgūṣam* — to be proclaimed aloud; *brahma* — the hymn in the form of mantra (has been prepared); *yat* — when; *aśvinā* — O Aśvins; *pajrāsaḥ* — sacrificers born in the family of Pajra (of the Aṅgirases); *vām* — you both; *havante* — call (for their own protection, with praises); *iṣā* — along with food; *yātam* — come; *ca* — and; *viduṣe ca* — also to me who know (your related praise); *vājam* — strength, (food) — give.
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 117.10)** (Kannada, rendered)
+
+"O Aśvins who give generously! These deeds of yours, told up to now, are praiseworthy; the mantra which is to be proclaimed aloud, the means of propitiating you who dwell in earth and sky, (is a delight for you); when sacrificers born in the family of the Pajras (the Aṅgirases) call you with praises, come with food; and give strength or food to me, who know your praises."
+
+**English Translation (as printed)**
+
+"Liberal givers, these your exploits are to be celebrated, and the resounding prayer propitiates you will [sic] abiding in heaven and earth; when the descendants of Pajra invite you, Aswins, come with food, and grant strength to the sage (who worships you),"
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 10)**
+
+*Sudānū* — *śobhanadānau aśvinau*: "The Aśvins are always of a nature that does good [to others]. The Nirukta author too explains *sudānavaḥ* as *kalyāṇadānāḥ* (Ni. 6-24 [as read]) — 'those who give auspicious things'."
+
+---
+
+### Printed p. 351  (PDF 371; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*Śravasyā* — *śravaṇīyāni sarvair jñātavyāni bhavanti*: "The meaning is: the works worthy of the Aśvins' praise, and the hymns also, are such as to be heard and known by all."
+
+*Rodasyoḥ* — *dyāvāpṛthivyātmanā vartamānayoḥ*: "The word *rodasī* is read among the twenty-one [?] names of heaven-and-earth (Ni. 3-30 [as read; ?]); hence the meaning is 'the two, heaven and earth'. The Nirukta author, weighing the meaning of the word *aśvinau*, begins with *tat ka āśvinau* (Ni. 12-1) and, saying '*dyāvāpṛthivyāv ity eke*', explains that the Aśvins are [in the form of] heaven and earth (earth and mid-air); and in saying '*ahorātrāv ity eke*', '*sūryācandramasāv ity eke*' (Ni. 12-1) he describes the nature of the Aśvins: [they are in the form of] earth and mid-air, of day and night, of the sun and moon — thus he sets up their all-pervasiveness. And the Taittirīya Saṃhitā, *ime aśvinā saṃvatsaro 'gnir vaiśvānaraḥ* (Tai. Saṃ. 5-4-?-? as read [?]), says that the Aśvins also have the form of Agni Vaiśvānara."
+
+*Pajrāsaḥ* — *aṅgirasāṃ gotrotpannāḥ*: "Both Skandasvāmin and Sāyaṇa give the word *pajra* the meaning 'the descendants of the Aṅgirasa ṛṣis'":
+
+> तद्वां नरा शंस्यं पज्रियेण कक्षीवता नासत्या परिज्मन् ।
+> शफादश्वस्य वाजिनो जनाय शतं कुम्भाँ असिञ्चतं मधूनाम् ॥
+> (ऋ. सं. १-११७-६)
+
+> *tadvāṃ narā śaṃsyaṃ pajriyeṇa kakṣīvatā nāsatyā parijman |*
+> *śaphādaśvasya vājino janāya śataṃ kumbhā~ asiñcataṃ madhūnām ‖*
+> *(ṛ. saṃ. 1-117-6)*
+
+— "In this Ṛk, for *pajriyeṇa*, the explanation *aṅgirasāṃ kule jātena* is given; so here *pajrāsaḥ* means the line of the Aṅgirasa ṛṣis, that is: sacrificers born in the line of the Aṅgirasa ṛṣis who perform sacrifices."
+
+*Sadanam* — *stotrasamīpe niveśanaṃ prasādanahetubhūtaṃ vā*: "The word *sadana* occurs among the hundred and one names of water (Ni. 1-?? [as read: 'ni. ೩-೩೪']); on account of its use it is used elsewhere with the meaning 'water'."
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
+> त आववृत्रन्त्सदनादृतस्यादिद्घृतेन पृथिवी व्युद्यते ॥
+> (ऋ. सं. १-१६४-४७ [as read])
+
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpatanti |*
+> *ta āvavṛtrantsadanādṛtasyādidghṛtena pṛthivī vyudyate ‖*
+> *(ṛ. saṃ. 1-164-47 [as read])*
+
+"Here the word *sadana* is used in the sense of 'place of residence'. In the same way in this Ṛk Sāyaṇa gives the word *sadana* the meaning 'the dwelling in the vicinity of those who praise'."
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–10 through printed p. 351 (PDF 371): Ṛk 10 complete up to the end of the Special Topics' *sadanam* paragraph (a little more of its Special Topics and grammar may follow on p. 352). Next: printed p. 352 (PDF 372). Open: Nirukta numbers on pp. 350–351 as read `[?]`; Tai. Saṃ. reference `[?]`.
