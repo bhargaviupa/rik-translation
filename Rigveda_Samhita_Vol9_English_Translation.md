@@ -10448,4 +10448,44 @@ In this Ṛk the word *śyena* means 'a bird (hawk)': *śyenaḥ śaṃsanīya�
 
 ---
 
-**Progress note:** Sūkta 118: Ṛks 1–6 complete; Ṛk 7 through printed p. 435 (PDF 455): Saṃhitā, Pada, bhāṣya, pratipadārtha done; bhāvārtha, English, Special Topics and grammar follow (p. 436). Next: printed p. 436 (PDF 456). Numerals as read (list stops at printed p. 380): Ni. numbers on p. 434 `[as read]`.
+### Printed p. 436  (PDF 456; header "Maṃ. 1 A. 17 Sū. 118")
+
+**॥ भावार्थः ॥ — Bhāvārtha (Ṛk 118.7)** (Kannada, rendered)
+
+"O Aśvins! To the ṛṣi called Atri, who had been thrown into a torture-chamber, you checked the fire that burned him, and gave him comforting and nourishing food; and (likewise), well pleased with excellent praise, you gave back sight to the ṛṣi Kaṇva, who had been put in a dark house (and so had been blind [there])."
+
+**English Translation (as printed)**
+
+"You (gave relief) to the imprisoned Atri, (quenching the) scorching heat, and fed him with grateful food; solicitous of worthy praise, you gave sight to Kanwa, blinded (by darkness)."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 7)**
+
+*Ūrjam* — *rasavad annam*: "The word *ūrja* is stated among the twenty-eight names of food, such as *andhaḥ*, *vāja* and the like (Ni. 2-7 [as read])."
+
+*Avanītāya* — *avasthān nītāya* [as read]: "'one who was put down, with his face downward' is the meaning. The asuras seized the ṛṣi Atri, took him to a house having many openings, with an apparatus (*yantra*) for inflicting torture, and put him there face downward, [and] burned him with husk-fire. Then the ṛṣi prayed to the Aśvins to ward off the torture. Hearing him, they brought the ṛṣi out of that house, gave him cooling treatment (*śaityopacāra*), gave him comforting food and drink, and saved him. Hence *suṣṭutiṃ jujuṣāṇā* — 'taking pleasure in good praise' (*śobhanaṃ stutiṃ sevamānau*): this is described as: the Aśvins are praised greatly by excellent praise."
+
+*Apiriptāya* — *āsuraiḥ brāhmaṇyaparīkṣārtham ihāsīnaḥ san vṛṣṭyām uṣasaṃ jānīhi iti andhakāragṛhe praveśitāya kaṇvāya ṛṣaye* [?] | *yadvā apiliptāya pihitadṛṣṭaye*: "The asuras put the ṛṣi Kaṇva in a dark house and told him: 'If you are a brāhmaṇa, sit here and know the dawn and tell us.' And, to test his brahminhood, they confined him there. Seeing this, the Aśvins, praised by the ṛṣi Kaṇva who suffered the confinement, said to him, 'When the time of dawn comes, we shall play the *vīṇā*; hearing its sound, tell the asuras the matter of the dawn,' and they gave him sight by making the *vīṇā*-sound that announces the dawn, and saved him." And so the matter of the protection of the ṛṣis Atri and Kaṇva is told by this Ṛk.
+
+---
+
+### Printed p. 437  (PDF 457; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+"This matter has been told in the preceding sūktas as well."
+
+*Omānam* — *sukhakaram*: "From the root *ava rakṣaṇe* (the root with the sense of protection), the word *omāna* is formed — so Sāyaṇa and Skandasvāmin explain. The Nirukta author:
+
+> ओमासश्चर्षणीधृतो विश्वे देवास आ गत । दाश्वांसो दाशुषः सुतम् ॥
+> (ऋ. सं. १-३-७)
+
+> *omāsaścarṣaṇīdhṛto viśve devāsa ā gata | dāśvāṃso dāśuṣaḥ sutam ‖*
+> *(ṛ. saṃ. 1-3-7)*
+
+— quoting this Ṛk, he explains: *avitāro vā avanīyā vā* — 'protectors, or those to be protected'."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 7; grammar page, noted briefly; sūtra numbers as read)**
+
+*Avanītāya* — root *nīñ prāpaṇe*; in the passive sense *niṣṭhā*, the suffix *kta*; *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* (*ava*) keeps its natural accent; dative singular form. *Taptam* — root *tapa saṃtāpe*; the suffix *kta* as before; by the suffix's accent, the final acute. *Omānam* — root *ava rakṣaṇe*; the *auṇādika* suffix *mani*; *jvaratvarasrivyaviramavām upadhāyāś ca* (Pā. 6-4-20 as read), *ūṭ* for the *v* of the root and also for the penultimate; on that account, because of the suffix *mani*, *guṇa* by *sārvadhātukārdhadhātukayoḥ*; the word *omān*; by the suffix's accent, the *ā*-syllable after the *m* gets the acute; the accusative with *am* following, *sarvanāmasthāne ca…* (as read), lengthening of the penultimate of the *nānta*. *Adhattam* — root *dudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṅ*, second person dual; *tiṅanta nighāta* accent. *Apiriptāya* — root *lipa upadehe*; in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), the suffix *kta*; since it is *kit*, *guṇa* of the light penultimate does not occur; because it belongs to the *kapilakādi* group, *ra*-ness of the *l* occurs; as a *gati*-compound, *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* (*api*) keeps its natural accent; dative singular. *Suṣṭutim* — root *ṣṭuñ stutau*; *striyāṃ ktin* (Pā. 3-3-94 as read), the suffix *ktin* in the abstract sense; *nañsubhyām* (Pā. 6-2-172 as read), the final acute of the latter member; accusative singular.
+
+---
+
+**Progress note:** Sūkta 118: Ṛks 1–6 complete; Ṛk 7 through printed p. 437 (PDF 457): all parts done (grammar of the remaining word *jujuṣāṇā* may follow on p. 438). Next: printed p. 438 (PDF 458). Numerals as read (list stops at printed p. 380): Ni. 2-7, Ṛ. 1-3-7 `[as read]`.
