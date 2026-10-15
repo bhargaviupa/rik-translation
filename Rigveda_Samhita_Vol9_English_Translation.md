@@ -6084,4 +6084,118 @@ and others. There is a sūkta in the tenth maṇḍala of the Ṛgveda (Ṛ. Sa�
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–13 complete; Ṛk 14 through the bhāṣya on printed p. 255 (PDF 275): Saṃhitā, Pada, bhāṣya. Next: printed p. 256 (PDF 276) — Ṛk 14 pratipadārtha, bhāvārtha, English, Special Topics. Open: numerals as read `[?]`; small-type Sanskrit `[?]`.
+### Printed p. 256  (PDF 276; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*narā* — leaders; *he nāsatyā* — O Nāsatyas; *yuvam* — you two; *abhīke* — in battle; *vṛkasya* — of the dog (wolf); *āsnaḥ* — from the mouth; *vartikām* — the bird called *vartikā* (the quail); *amumuktam* — you released; *uto* — and; *purubhujā* — O mighty-armed; *yuvam ha* — you; *kṛpamāṇam* — one who praises; *kavim* — the (blind) ṛṣi named Kavi; *vicakṣe* — to see well; *akṛṇutam* — you made (capable)."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O leader Nāsatyas, you two released the bird called *vartikā* from the mouth of the wolf, in the battle between the wolf and the *vartikā*. And you, of mighty arms, favoured the (blind) ṛṣi named Kavi, who praises [you], with the power to see well."
+
+**English Translation (as printed)**
+
+> Nasatyas, leaders, you liberated the quail from the mouth of the dog that had seized her, and you, who are benefactors of many, have granted to the sage who praises you, to behold (true wisdom).
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**अभीके** — *Abhīke* — "*vṛkavartikayoḥ saṅgrāme ābhigate*": "the word *abhīka* is stated among the twenty-four [as read] names of *saṅgrāma* (Ni. 2-?? as read [?]) and among the sixteen [as read] names of words denoting the quarters (Ni. 3-?? as read [?]). Here *saṅgrāma* means 'battle': in a forest, a dog (wolf) and a quail; when the dog caught the quail, the Aśvin deities saved the quail that was caught in the dog's mouth: this Itihāsa is conveyed by the words. Another meaning is also manifest here: that Uṣas was released from the Sun. In this meaning Yāska explains the word *vartikā* as 'Uṣas', since she comes every day and repeats again and again; the Sun, who illumines the whole world with his own light and releases it, is the one to be denoted by the word *vṛka* because he covers this Uṣas also (the one who lets go): Uṣas is seized by the *vṛka* with this light. Therefore, to convey the meaning — 'the Aśvin deities released Uṣas, who was seized by the Sun' — he says the sentence '*punaḥ punar vartate pratidivasam āvartate iti vartikā uṣāḥ*' (Ni. 5-?? as read [?]).
+
+### Printed p. 257  (PDF 277; header "Aṣṭaka 1, Adhyāya 8, Varga …"; footer signature mark "IX 17")
+
+**वृकस्य** — *Vṛkasya* — "*vikartakasya*: *atiśayena hiṃsāṃ karoti iti*": "the word *vṛka* is stated among the eighteen [as read] names of *vajra* (Ni. 2-?? as read [?]) and among the fourteen [as read] names of thieves (*stena*) (Ni. 3-?? as read [?]). And —
+
+> वृकः वृक्षश्चन्द्रमा भवति विवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रान्तज्योतिष्को वा ॥
+> (नि. ५-२० [as read])
+
+> *vṛkaḥ vṛkṣaścandramā bhavati vivṛtajyotiṣko vā vikṛtajyotiṣko vā vikrāntajyotiṣko vā ‖*
+> *(ni. 5-20 [as read])*
+
+— because it is of shining light, or because by its excess of cool (*śītakara*) light it disfigures the others, or because it has more light than the planets, stars and the like, the moon is denoted by the word *vṛka*: thus Yāska explains the meaning of the word *vṛka* —
+
+> अरुणो मा सकृद्वृकः पथा यन्तं ददर्श हि ।
+> उज्जिहीते निचाय्या तष्टेव पृष्ट्यामयी वित्तं मे अस्य रोदसी ॥
+> (ऋ. सं. १-१०५-१८ [as read])
+
+> *aruṇo mā sakṛdvṛkaḥ pathā yantaṃ dadarśa hi |*
+> *ujjihīte nicāyyā taṣṭeva pṛṣṭyāmayī vittaṃ me asya rodasī ‖*
+> *(ṛ. saṃ. 1-105-18 [as read])*
+
+as an example, and —
+
+> अरुण आरोचनो मासकृन्मासानां चार्धमासानां च कर्ता भवति चन्द्रमा वृकः पथा यन्तं ददर्श नक्षत्रगणमभिजिहीते निचाय्य येन येन योक्ष्यमाणो भवति चन्द्रमास्तष्टेव पृष्ट्यामयी जानीतं मे वाक्यस्य द्यावापृथिव्याविति ॥
+> (नि. ५-२१ [as read])
+
+> *aruṇa ārocano māsakṛnmāsānāṃ cārdhamāsānāṃ ca kartā bhavati candramā vṛkaḥ pathā yantaṃ dadarśa nakṣatragaṇamabhijihīte nicāyya yena yena yokṣyamāṇo bhavati candramāstaṣṭeva pṛṣṭyāmayī jānītaṃ me vākyasya dyāvāpṛthivyāviti ‖*
+> *(ni. 5-21 [as read])*
+
+— in this Ṛk the word *vṛka* is explained as meaning the moon.
+
+> आदित्योऽपि वृक उच्यते । यदावृङ्क्ते [?] (नि. ५-२१) 
+
+> *ādityo 'pi vṛka ucyate | yadāvṛṅkte [?] (ni. 5-21)*
+
+— the sun too is called *vṛka*, because he covers (releases) darkness with his own light or with his rays; and saying this, he cites
+
+> आजोहवीदश्विना वर्तिका वामास्नो यत्सीमुमुञ्चतं वृकस्य ।
+> वि जयुषा ययथुः साद्वदे र्जातं विष्वाचो अहतं विषेण ॥
+> (ऋ. सं. १-११२-८ [as read])
+
+> *ājohavīdaśvinā vartikā vāmāsno yatsīmumuñcataṃ vṛkasya |*
+> *vi jayuṣā yayathuḥ sādvade rjātaṃ viṣvāco ahataṃ viṣeṇa ‖*
+> *(ṛ. saṃ. 1-112-8 [as read])*
+
+as an example, and *āhuḥ* — 'the Aśvin deities released Uṣas, seized by the Sun' — so he explains, saying that *vṛka* is the Āditya.
+
+### Printed p. 258  (PDF 278; header "Maṃ. 1 A. 17 Sū. 116")
+
+> श्वापि वृक उच्यते विकर्तनात् ॥
+> (नि. ५-२१ [as read])
+
+> *śvāpi vṛka ucyate vikartanāt ‖*
+> *(ni. 5-21 [as read])*
+
+— *vṛka* means 'dog'. As an example —
+
+> वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति ।
+> सेमं नः स्तोमं जुजुषाण आ गहीन्द्र प्र चित्रया धिया ॥
+> (ऋ. सं. ८-६६-८ [as read])
+
+> *vṛkaścidasya vāraṇa urāmathirā vayuneṣu bhūṣati |*
+> *semaṃ naḥ stomaṃ jujuṣāṇa ā gahīndra pra citrayā dhiyā ‖*
+> *(ṛ. saṃ. 8-66-8 [as read])*
+
+[he gives this Ṛk and says] 'he cuts (*vikṛntati*) variously; since while eating it cuts the food into bits and eats, the dog is called *vṛka*. In this Ṛk the word *vṛka* is explained as meaning 'the dog of the deities, Saramā''."
+
+> वृद्धा वाशिन्यपि वृकी उच्यते । (नि. ५-२१)
+
+> *vṛddhā vāśinyapi vṛkī ucyate | (ni. 5-21)*
+
+— "whether an old woman or a she-wolf, *vṛkī* is the name: so he says; to support this meaning —
+
+> शतं मेषान्वृक्ये चक्षदानमृज्राश्वं तं पिताऽन्धं चकार ।
+> तस्मा अक्षी नासत्या विचक्ष आधत्तं दस्रा भिषजावनर्वन् ॥
+> (ऋ. सं. १-११६-१६ [as read])
+
+> *śataṃ meṣānvṛkye cakṣadānamṛjrāśvaṃ taṃ pitā 'ndhaṃ cakāra |*
+> *tasmā akṣī nāsatyā vicakṣa ādhattaṃ dasrā bhiṣajāvanarvan ‖*
+> *(ṛ. saṃ. 1-116-16 [as read])*
+
+he cites this Ṛk and explains that the word *vṛkyai* here means 'for a woman' or 'for a she-wolf'. Thus, showing that the word *vṛka* has many meanings, he cites various examples.
+
+"Skandasvāmin says: 'the Aśvins, seeing the *vartikā* (quail) being swallowed by the *vṛka*, released her from its mouth, as Sāyaṇa too explains: the Aśvin deities released and saved the quail from the dog's mouth' — and he cites
+
+> याभिर्वर्तिकां ग्रसितामुमुक्तं ताभिरू षु ऊतिभिरश्विनागतम् ॥
+> (ऋ. सं. १-११२-८ [as read])
+
+> *yābhirvartikāṃ grasitāmumuktaṃ tābhirū ṣu ūtibhiraśvināgatam ‖*
+> *(ṛ. saṃ. 1-112-8 [as read])*
+
+as an example."
+
+**कृपमाणम्** — *Kṛpamāṇam* — "*stuvantam*": "the meaning is 'one who is praising'. Skandasvāmin: '*kṛpaṇyati*', since the word *kṛpaṇyati* is stated among the forty-four [as read] words of the *arcati*-group of actions (Ni. 3-?? as read [?]), and since *kṛpā* is read among the thirteen [as read] names of praise (Ni. 3-?? as read [?]), the word *kṛpā* conveys the meaning 'praise'; explaining thus, [he cites] *kṛpākṛpaṇyatītyarcati karmasu* …" *(the sentence is cut at the foot of the page and continues on p. 259)*.
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–13 complete; Ṛk 14 through printed p. 258 (PDF 278): pratipadārtha, bhāvārtha, English, Special Topics (*abhīke*, *vṛkasya* with the Nirukta explanations, *kṛpamāṇam* begun; continues p. 259). Next: printed p. 259 (PDF 279). Open: Ṛ./Ni. numerals as read `[?]`.
