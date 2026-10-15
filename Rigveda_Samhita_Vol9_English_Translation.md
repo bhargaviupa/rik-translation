@@ -11655,9 +11655,19 @@ In this Ṛk too the word *vipra* is used in the sense of 'wise'."
 > *madhu priyaṃ bharatho yatsaraḍbhyastābhirū ṣu ūtibhiraśvinā gatam |*
 > *(ṛ. saṃ. 1-112-21 [as read])*
 
-and: *athavā makṣikāśabdenātra kuṣaścit makṣikāsādṛśyāt dadhīco ucyate* — 'or the word *makṣikā* here is used for a certain [person] who, by similarity to a bee, is called Dadhīca; she, [the bee] by the Aśvins, is called *madhuśabdasaṃyukta*, an excellent *brahma*, [Pravargya?]' [as read; small type [?]]. 'Taking *makṣikā*, as one similar in nature to a bee, to mean *dadhīcaḥ*, he says that the bee that is indicated by the word *dadhīca* teaches you the *parabrahma* that is obtained by means of the honey-knowledge' [as read]. This meaning is not quite appropriate."
+and (Sanskrit as printed, small type, continuing on p. 489):
 
-*Auśijaḥ huvanyati* — *uśijaḥ putraḥ kakṣīvān yuvām āhvayati*: "Kakṣīvān, the ṛṣi, son of Uśij, offers the soma-juice and calls you so as to produce satisfaction in you — thus Sāyaṇa's exposition. Skandasvāmin, in explaining the word *auśija*:
+> अथवा मक्षिकाशब्देनात्र कुश्चित् मक्षिकासादृश्यात् दधीचो उच्यते । सा युवाभ्यां मधुशब्दसंयुक्तं सरं ब्रह्म व्यक्तमुक्तवती । [as read; small type [?]]
+
+> *athavā makṣikāśabdenātra kuścit makṣikāsādṛśyāt dadhīco ucyate | sā yuvābhyāṃ madhuśabdasaṃyuktaṃ saraṃ brahma vyaktamuktavatī | [as read; small type [?]]*
+
+*(The Kannada explanation of this Sanskrit begins at the top of p. 489.)*
+
+### Printed p. 489  (PDF 509; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+*(Special Topics of Ṛk 9, continued)* Kannada exposition of the Sanskrit above: "Taking, as the ground, a certain property of resemblance by which the word *makṣikā* is applied — [Skandasvāmin] explains *dadhīcaḥ*; the bee [i.e. Dadhīca], denoted by the word *dadhīca*, teaches you the supreme *brahma* that is to be attained through the honey-knowledge. This meaning is not quite appropriate."
+
+*Auśijaḥ huvanyati* — *uśijaḥ putraḥ kakṣīvān yuvām āhvayati*: "The ṛṣi called Kakṣīvān, son of Uśij, calls you, in order to make you well pleased by offering the soma-juice" — thus Sāyaṇa's exposition. In explaining the word *auśija*, Skandasvāmin:
 
 > औशिजः उशिजो ऽपत्यभूतः कक्षीवान् । तं उशिजः प्रपौत्रं पौराणिकाः स्मरन्ति ।
 > तथा च —
@@ -11669,15 +11679,13 @@ and: *athavā makṣikāśabdenātra kuṣaścit makṣikāsādṛśyāt dadhīc
 > *uśijo brahmadukthaśca ṛṣirdīrghatamāstathā |*
 > *kakṣīvāṃśca trayastriṃśat smṛtā hyaṅgirasāṃ varāḥ ‖ iti |*
 
-[— 'Kakṣīvān is the descendant of Uśij. The Paurāṇikas recall him as the great-grandson of Uśij.' And so: 'Uśij, Brahmaduktha, the ṛṣi Dīrghatamas, and Kakṣīvān are remembered as thirty-three among the best of the Aṅgirases'.]
-
-*Saḥ ahaṃ uśijaḥ prapautraḥ kakṣīvān āhvayāmi* — 'I, Kakṣīvān, the great-grandson of Uśij, call [you]': the sense is that [the poet] indicates himself in the third person, as if speaking of another (*parokṣarūpeṇa nirdeśaḥ*). A Kannada gloss follows: 'Kakṣīvān, born in the line of Uśij, is the great-grandson of Uśij; Uśij, Brahmaduktha, the ṛṣi Dīrghatamas, Kakṣīvān — thirty-three persons of this kind are famed in the Purāṇas as the best of the Aṅgirasa ṛṣis'. Here, he gives the meaning that the third person is used, as if speaking from outside. And:
+*Saḥ ahaṃ uśijaḥ prapautraḥ kakṣīvān āhvayāmi* — the sense is that [the poet] indicates himself in the third person, as if speaking of another (*parokṣarūpeṇa nirdeśaḥ*). Kannada: "Kakṣīvān, born in the line of Uśij, is the great-grandson (*prapautra*) of Uśij; Uśij, Brahmaduktha, the ṛṣi Dīrghatamas, Kakṣīvān — thirty-three such persons are famed in the Purāṇas as the best of the Aṅgirasa ṛṣis. Here he says that the poet, though Kakṣīvān himself, speaks of himself in the third person." And, in another way:
 
 > अथवा उशिक् पुत्रः औशिजः स युवाम् आहूतवान् ।
 
 > *athavā uśik putraḥ auśijaḥ sa yuvām āhūtavān |*
 
-— 'or the son of the woman called Uśik is Auśija: he is Dīrghaśravas; he calls you to the sacrifice, to drink soma and be pleased' — thus he explains in another way, and quotes:
+"Or: *uśik* is a woman; her son is Auśija: that is Dīrghaśravas, who calls you to the sacrifice, to drink the soma-juice and be pleased" — thus he explains in another way, and quotes:
 
 > यो भिस्सुदानू औशिजाय वणिजे दीर्घश्रवसे मधु कोशो अक्षरत् ।
 > कक्षीवन्तं स्तोतारं याभिरावतं ताभिरू षु ऊतिभिरश्विना गतम् ॥
@@ -11687,14 +11695,7 @@ and: *athavā makṣikāśabdenātra kuṣaścit makṣikāsādṛśyāt dadhīc
 > *kakṣīvantaṃ stotāraṃ yābhirāvataṃ tābhirū ṣu ūtibhiraśvinā gatam ‖*
 > *(ṛ. saṃ. 1-112-11 [as read])*
 
----
-
-### Printed p. 489  (PDF 509; header "Aṣṭaka 1, Adhyāya 8, Varga …")
-
-*(continuing)* "…, quoting this Ṛk." [The numbered quotations above run across the break at the top of p. 489, where the printed text finishes the *Makṣikā* paragraph and then gives *Auśijaḥ*.]
-
 *Dadhīcaḥ manaḥ ā vivāsathaḥ* — "The Aśvins, both to give honey to the bees and because they needed the honey-knowledge, are described as having satisfied the mind of the ṛṣi Dadhīca by the service they did for him."
-
 ---
 
-**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 489 (PDF 509): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *Dadhīcaḥ manaḥ ā vivāsathaḥ*) done; more Special Topics and grammar follow (p. 490). The page-break placement of the *Makṣikā* and *Auśijaḥ* paragraphs between pp. 488–489 was reconstructed loosely and should be checked. Next: printed p. 490 (PDF 510). Numerals as read: Ṛ. 1-112-21, 1-112-11 `[as read]`.
+**Progress note:** Sūkta 119: Ṛks 1–8 complete; Ṛk 9 through printed p. 489 (PDF 509): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics (to *Dadhīcaḥ manaḥ ā vivāsathaḥ*) done; more Special Topics and grammar follow (p. 490). The p. 488/489 split of the *Makṣikā*/*Auśijaḥ* paragraphs was corrected after the first write. Next: printed p. 490 (PDF 510). Numerals as read: Ṛ. 1-112-21, 1-112-11 `[as read]`.
