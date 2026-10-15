@@ -6702,4 +6702,96 @@ In this Ṛk the word *anarvan* is used in the sense of 'one who is not under an
 
 ---
 
-**Progress note:** Sūkta 116: Ṛks 1–19 complete (through printed p. 282, PDF 302). Next: Ṛk 20 from printed p. 283 (PDF 303). Open: numerals as read `[?]`; Ni. refs `[?]`; Skandasvāmin small type `[?]`.
+### Ṛk 20
+
+### Printed p. 283  (PDF 303; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 116.20)**
+
+> परिविष्टं जाहुषं विश्वतः सीं सुगेभिर्नक्तमूहथू रजोभिः ।
+> विभिन्दुना नासत्या रथेन वि पर्वताँ अजरयू अयातम् ॥ २० ॥
+
+> *pariviṣṭaṃ jāhuṣaṃ viśvataḥ sīṃ sugebhirnaktamūhathū rajobhiḥ |*
+> *vibhindunā nāsatyā rathena vi parvatā~ ajarayū ayātam ‖ 20 ‖*
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 116.20)**
+
+> परिऽविष्टम् । जाहुषम् । विश्वतः । सीम् । सुऽगेभिः । नक्तम् ।
+> ऊहथुः । रजःऽभिः ।
+> विऽभिन्दुना । नासत्या । रथेन । वि । पर्वतान् ।
+> अजरयू इति । अयातम् ॥ २० ॥
+
+> *pari 'viṣṭam | jāhuṣam | viśvataḥ | sīm | su 'gebhiḥ | naktam |*
+> *ūhathuḥ | rajaḥ 'bhiḥ |*
+> *vi 'bhindunā | nāsatyā | rathena | vi | parvatān |*
+> *ajarayū iti | ayātam ‖ 20 ‖*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 116.20)**
+
+> जाहुषो नाम कश्चिद्राजा । विश्वतः सर्वतः परिविष्टं शत्रुभिः परिवृतं तं राजानं हे नासत्यावश्विनावजरयू जराऽरहितौ नित्यतरुणौ युवां विभिन्दुना विशेषेण सर्वस्य भेदकेनाश्वीयेन रथेन नक्तं रात्रौ सुगेभिः सुष्ठु गन्तुं शक्यै रजोभी रञ्जकैर्मार्गैरूहथुः । तस्माच्छत्रुसमूहान्निरगमयतम् । सीमिति पूरणार्थः । निर्गतेन तेन सह पर्वतान् शत्रुभिरारोढुमशक्यान् शिलोच्चयान् वियातं । विशेषेणागच्छतं । परिविष्टम् । विश प्रवेशने । कर्मणि निष्ठा । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । सुगेभिः । सुदुरोरधिकरण इति गमेर्डः । विभिन्दुना । भिदिर् विदारणे । औणादिक उप्रत्ययो नुमागमश्च । अजरयू । न जरा अजरा । तामात्मन इच्छतः क्यच् । न छन्दस्यपुत्रस्येति दीर्घस्योर्निषेधः । क्याच्छन्दसीत्युप्रत्ययः ॥
+
+> *jāhuṣo nāma kaścidrājā | viśvataḥ sarvataḥ pariviṣṭaṃ śatrubhiḥ parivṛtaṃ taṃ rājānaṃ he nāsatyāvaśvināvajarayū jarā 'rahitau nityataruṇau yuvāṃ vibhindunā viśeṣeṇa sarvasya bhedakenāśvīyena rathena naktaṃ rātrau sugebhiḥ suṣṭhu gantuṃ śakyai rajobhī rañjakairmārgairūhathuḥ | tasmācchatrusamūhānniragamayatam | sīmiti pūraṇārthaḥ | nirgatena tena saha parvatān śatrubhirāroḍhumaśakyān śiloccayān viyātaṃ | viśeṣeṇāgacchataṃ | pariviṣṭam | viśa praveśane | karmaṇi niṣṭhā | gatiranantara iti gateḥ prakṛtisvaratvam | sugebhiḥ | suduroradhikaraṇa iti gamerḍaḥ | vibhindunā | bhidir vidāraṇe | auṇādika upratyayo numāgamaśca | ajarayū | na jarā ajarā | tāmātmana icchataḥ kyac | na chandasyaputrasyeti dīrghasyorniṣedhaḥ | kyācchandasītyupratyayaḥ ‖*
+
+*Sense (mine):* "Jāhuṣa was a certain king. Him, *viśvataḥ* — on all sides — *pariviṣṭam*, surrounded by enemies, O Nāsatyas, Aśvins, *ajarayū*, free from old age, ever-young — you, with *vibhindunā*, the splitter of all, the horse-drawn chariot, *naktam*, by night, by *sugebhiḥ*, easily traversable, *rajobhiḥ*, pleasing, roads, carried away (*ūhathuḥ*). So you brought him out from that mass of enemies. *Sīm* is a filler. With him thus brought out, you went [over] *parvatān*, the rocky heights that enemies cannot climb, you went widely."
+
+*Grammatical tail (characterized, not transcribed):* *pariviṣṭam* (*viś* "to enter", *kta* in the passive; the prefix keeps its accent by *gatir anantaraḥ*); *sugebhiḥ* (*su-du-ro-'dhikaraṇe*: the *ḍa* suffix after *gam*); *vibhindunā* (*bhidir* "to split", the Uṇādi suffix *u* and the augment *num*); *ajarayū* (*na jarā ajarā*; *tām ātmana icchataḥ* — *kyac*; *na chandasy aputrasya*, no lengthening; *kyāc chandasi*, the suffix *u*).
+
+### Printed p. 284  (PDF 304; header "Maṃ. 1 A. 17 Sū. 116")
+
+**॥ प्रतिपदार्थः ॥ — Pratipadārtha (Kannada)**
+
+"*ajarayū* — free from old age, ever-young; *he nāsatyā* — O Nāsatyas; *viśvataḥ* — on all sides; *pariviṣṭam* — surrounded by enemies; *jāhuṣam* — the king named Jāhuṣa; *vibhindunā* — that breaks everything; *rathena* — by (your) chariot; *naktam* — at night; *sugebhiḥ* — easily traversable; *rajobhiḥ* — by routes; *ūhathuḥ* — you took him, freeing him from the enemies; *parvatān* — to mountains (inaccessible to the enemies); *vi āyātam* — you brought him."
+
+**॥ भावार्थः ॥ — Bhāvārtha (Kannada)**
+
+"O ever-young Aśvin deities, the king named Jāhuṣa, surrounded by enemies on all sides, you carried by night, in your chariot that breaks all [obstacles], by (your power) easily passable routes, and went with him to the mountains (inaccessible to the enemies)."
+
+**English Translation (as printed)**
+
+> Undecaying Nasatyas, you bore away by night, in your foe-overwhelming car, Jahusha, surrounded on every side by (enemies), through practicable roads, and went to (inaccessible) mountains.
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu)**
+
+**जाहुषम्** — *Jāhuṣam* — "*jāhuṣo nāma kaścid rājā*": "Sāyaṇa explains that Jāhuṣa is a king named Jāhuṣa. Skandasvāmin —
+
+> जाहुषो नाम ऋषिः वृद्धः वृद्धया भार्ययो वृद्धैश्च पुत्रपौत्रादिभिः परिवृतो देवानीजे । तं दृष्ट्वासुराः तुङ्गैः पर्वतैः परिक्षिप्ते मरुदेशे प्राक्षिपन् । स तेको प्रवृद्धत्वात् स्वयं निर्गन्तुमशक्नुवन्महाकारुणिकावश्विनौ तुष्टाव । तमश्विनावागत्य निशैवैव रात्र्यामश्वीयेन रथेन तान् पर्वतानतिक्रामयां चक्रतुः इति ॥ [small type; partly doubtful [?]]
+
+> *jāhuṣo nāma ṛṣiḥ vṛddhaḥ vṛddhayā bhāryayo vṛddhaiśca putrapautrādibhiḥ parivṛto devānīje | taṃ dṛṣṭvāsurāḥ tuṅgaiḥ parvataiḥ parikṣipte marudeśe prākṣipan | sa teko pravṛddhatvāt svayaṃ nirgantumaśaknuvanmahākāruṇikāvaśvinau tuṣṭāva | tamaśvināvāgatya niśaivaiva rātryāmaśvīyena rathena tān parvatānatikrāmayāṃ cakratuḥ iti ‖ [small type; partly doubtful [?]]*
+
+— 'Jāhuṣa, a ṛṣi, old, surrounded by his old wife and by old sons, grandsons and others, sacrificed to the gods. Seeing him, the Asuras threw him into a desert region surrounded by high mountains. He, being old, unable to come out by himself, praised the Aśvins, the greatly compassionate. The Aśvins came and, by night, in a chariot drawn by horses, carried him over those mountains.' In Kannada: a ṛṣi named Jāhuṣa, an old man, performed a sacrifice to the gods together with his old wife and with sons and grandsons, each of whom was old. The Rākṣasas, seeing this, took the ṛṣi to a desert surrounded by high mountains and placed him there. He, being very old, unable to leave that place, praised the Aśvin deities, supremely compassionate
+
+### Printed p. 285  (PDF 305; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+— (with a hymn). Hearing his praise, the Aśvin deities came in a single night in their chariot and took Jāhuṣa across those mountains and saved him: thus the Itihāsa is told."
+
+**अजरयू** — *Ajarayū* — "*jararahitau nityataruṇau*": "'*na jarā ajarā tām ātmana icchataḥ*': *jarā* is old age; they who have none — the Aśvin deities — are always young, endowed with youth: this is the meaning. In the word *jarayū* there is the suffix *yu*; it has come in the sense of *matup* [possession].
+
+Yāska:
+
+> इदंयुरिदं कामयमानो ऽथापि तद्द्वयर्थे भाष्यते वसुंयुरिन्द्रो वसुमानित्यर्थः । अश्वयुर्गव्यू रथयुर्वसूयुरित्यपि निगमो भवति ॥
+> (नि. ६-३१ [as read])
+
+> *idaṃyuridaṃ kāmayamāno 'thāpi taddvayarthe bhāṣyate vasuṃyurindro vasumānityarthaḥ | aśvayurgavyū rathayurvasūyurityapi nigamo bhavati ‖*
+> *(ni. 6-31 [as read])*
+
+— Skandasvāmin, explaining Yāska's explanation, says that the word *ajarayū* has the sense of *matup* like the words *idaṃyu*, *aśvayu*, *gavyu*, *rathayu* [in 'possessing this', 'possessing horses', and so on]; and he cites the Ṛk —
+
+> इन्द्रो अश्रायि सुध्यो निरेके पज्रेषु स्तोमो दुर्यो न यूपः ।
+> अश्वयुर्गव्यू रथयुर्वसूयुरिन्द्र इद्रायः क्षयति प्रयन्ता ॥
+> (ऋ. सं. १-५३-१४ [as read])
+
+> *indro aśrāyi sudhyo nireke pajreṣu stomo duryo na yūpaḥ |*
+> *aśvayurgavyū rathayurvasūyurindra idrāyaḥ kṣayati prayantā ‖*
+> *(ṛ. saṃ. 1-53-14 [as read])*
+
+and explains the word *pariviṣṭam*: by 'surrounded on all sides' (*viśvataḥ*), since *pari* only conveys the meaning of the root, and since [taking *pari* as with the sense of surrounding] the word *viśvataḥ* too would be repetition, he says that the meaning 'pervaded by old age' should be taken (*vyāpta-jarayā*), combining the prefix with the root's meaning: so 'by old age pervaded'."
+
+**रजोभिः** — *Rajobhiḥ* — "*rajaśabdo 'tra tejovacanaḥ tejasvibhiḥ śīghragāmibhir ity arthaḥ*": "the word *rajas* here denotes lustre: [the meaning] by those that are brilliant and go swiftly. Since it is an adjective of *sugebhiḥ*, the word *suga* here is used for horse: therefore it is described that the Aśvin deities saved Jāhuṣa with a chariot to which swift, lustrous, strong horses were yoked."
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 20; grammar page, noted briefly)**
+
+*pariviṣṭam* (*viś* "to enter"; *kta* in the passive by *niṣṭhā*, Pā. 3-2-102 as read [?]; *vraścabhrasjasṛjamṛjayajarājabhrājacchaśām*, Pā. 8-2-36 as read [?], *ṣa* for the *ś* of the root; as a consequence …
+
+---
+
+**Progress note:** Sūkta 116: Ṛks 1–19 complete; Ṛk 20 through printed p. 285 (PDF 305): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha, English, Special Topics, grammar begun (continues p. 286). Next: printed p. 286 (PDF 306). Open: numerals as read `[?]`; Skandasvāmin small type `[?]`.
