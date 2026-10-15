@@ -9155,4 +9155,40 @@ The Nirukta author, explaining *pathyā svastiḥ*:
 
 ---
 
-**Progress note:** Sūkta 117: Ṛks 1–16 complete; Ṛk 17 through printed p. 381 (PDF 401): Saṃhitā, Pada, bhāṣya, pratipadārtha, bhāvārtha done; English and Special Topics follow on p. 382. Next: printed p. 382 (PDF 402). Numerals: Pā. 2-4-72, 6-4-37 per list; Ṛ. 1-116-16 `[?]`.
+### Printed p. 382  (PDF 402; header "Maṃ. 1 A. 17 Sū. 117")
+
+**English Translation (as printed)**
+
+"You restored eyes to Rijrashwa, who, on presenting a hundred sheep to the she-wolf, had been condemned [printed "eondemned" — sic] to darkness by his indignant father, and gave light to the blind, wherewith to behold all things."
+
+**॥ विशेषविषयाः ॥ — Special Topics (Viśeṣaviṣayagaḷu, Ṛk 17)**
+
+In explaining this Ṛk, Sāyaṇa quotes:
+
+> शतं मेषान् वृक्ये चक्षदानमृज्राश्वं तं पिताऽन्धं चकार ।
+> तस्मा अक्षी नासत्या विचक्ष आधत्तं दस्रा भिषजावनर्वन् ॥
+> (ऋ. सं. १-११६-१६ [as read in the image; earlier marked `[?]`])
+
+> *śataṃ meṣān vṛkye cakṣadānamṛjrāśvaṃ taṃ pitā 'ndhaṃ cakāra |*
+> *tasmā akṣī nāsatyā vicakṣa ādhattaṃ dasrā bhiṣajāvanarvan ‖*
+> *(ṛ. saṃ. 1-116-16 [as read in the image; earlier marked `[?]`])*
+
+— "*ity atra yad ākhyānam uktaṃ tad atrāpy anusandheyam*": "the account told in this Ṛk is to be taken up here too. The meaning explained in the Ṛk '*śataṃ meṣān*' is told again here", he says. "A royal sage named Ṛjrāśva gave a hundred sheep, one by one, as food to the vehicle of the Aśvins, who had a she-wolf's form; his father, seeing this, pronounced a curse: 'Let him become unable to see.' Thereby he lost his sight. Ṛjrāśva, being blind, praised the Aśvins. The Aśvins, the physicians of the gods, came, saw him, gave him eyes by which everything could be seen well, and saved him — this account, told in the previous Ṛk [too], is told here again in different words."
+
+*Vṛkye* — *vṛkarūpeṇāvasthitāya aśvinor vāhanāya rāsabhāya*: "The Aśvins' vehicle, the power [*śakti*] that took a wolf's form; that is, for the food of that [she-wolf]."
+
+*Mamahānam* — *pūjitavantam āhārārthaṃ samarpitavantam*: "From the root *maha*, in the sense of worship, [the word] has the meaning 'one who worships exceedingly'; hence it is the idea that giving food to the Aśvins' vehicle, who had taken the form of a wolf, is itself a worship."
+
+*Praṇītam* — *prāpitaṃ ṛjrāśvaṃ cakṣuṣmantam aśvināv akuruta* [iti śeṣaḥ]: "The prefix *pra*, joined with the root *nī*, gives a different meaning; so the word *praṇīta* means 'one brought'. Here the sense is: the Aśvins made Ṛjrāśva able to see and gave him eyes."
+
+---
+
+### Printed p. 383  (PDF 403; header "Aṣṭaka 1, Adhyāya 8, Varga …")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 17; grammar page, noted briefly; sūtra numbers read from the page — the numeral list has no entry for this page)**
+
+*Mamahānam* — root *maha pūjāyām*; when *liṭ* has come, *liṭaḥ kānaj vā* (Pā. 3-2-106 as read), *kānac* substituted; on that account, doubling of the root; *ādir halśeṣaḥ* for the reduplicative syllable; the form *mamahāna*; in the Saṃhitā the reduplicative syllable is lengthened by Vedic usage; if it is assumed to belong to the *tujādi* group, then the lengthening would have to be heard in the Pada-text too; since the suffix is *cit*, *ciṭaḥ* (Pā. 6-1-163 as read) gives the final acute. *Praṇītam* — root *ṇīñ prāpaṇe*; with the prefix *pra* following, in the passive sense *niṣṭhā* (Pā. 3-2-102 as read), suffix *kta*; since it is *kit*, *guṇa* of the root's *i*-vowel does not occur; *ṇatva* because of the prefix's cause; *gatir anantaraḥ* (Pā. 6-2-49 as read), the *gati* (*pra*) keeps its natural accent. *Aśivena* — *na śivaḥ aśivaḥ*, with *śena*; *tatpuruṣe tulyārthatṛtīyā…* (Pā. 6-2-2 as read), the *naṅ* [prefix] keeps its natural accent. *Pitrā* — to the word *pitṛ*, instrumental singular *ṭā* following, *yaṇ* substituted; for the *ṛ*-vowel that was *udātta*, *yaṇ* comes; with the case-ending following it, *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read), the acute on the case ending. *Akṣī* — to the word *akṣi*, dual following, *napuṃsakasya jhalacaḥ…* (Pā. 7-1-72 as read), *num* is obtained; *īcca dvivacane* (Pā. 7-1-77 as read), the *ī*-final substitution is also obtained; then by the maxim *vipratiṣedhe paraṃ kāryam* [the later rule prevails], since *īt-va* [?] is enjoined by the later sūtra, the substitution applies; the doubt that *num* should come after the *īt* is raised as it is *ajanta*-… (accent) *nighāta*; by the maxim *sakṛdgatau vipratiṣedhe yad bādhitaṃ tad bādhitam eva*, what is once set aside is set aside; hence [*num*] does not come; *udāttaḥ* — from the preceding sūtra, by continuation, the *ī* becomes *udātta*. *Adhattam* — root *dudhāñ dhāraṇapoṣaṇayoḥ*; *laṅ*, second person dual; since it stands after an *ajanta*, the *nighāta* accent. *Vicakṣe* — *vi* the prefix; root *cakṣiṅ vyaktāyāṃ vāci*; since roots have many meanings, here used in the sense of seeing; to it, in the sense of the infinitive, *tumarthe se-sen-ase…* [Pā. 3-4-9 as read [?]] …
+
+---
+
+**Progress note:** Sūkta 117: Ṛks 1–16 complete; Ṛk 17 through printed p. 383 (PDF 403): all parts done except the end of its grammar (*vicakṣe*, begun; continues p. 384). Next: printed p. 384 (PDF 404). Numeral list has no entries for pp. 382–383 (the list stops at printed p. 380): sūtra numbers there are from the page, marked "as read".
