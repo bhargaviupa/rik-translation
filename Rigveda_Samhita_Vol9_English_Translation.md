@@ -525,4 +525,140 @@ Grammar page, Kannada, on the words *śreṣṭham* (suffix *iṣṭhan*, the su
 
 ---
 
-**Progress note:** Sūkta 113: Ṛk 2 done through the Special Topics start (printed p. 11, PDF 31: *śvetyā*, *ruśadvatsā* with the Nirukta citation). Next: printed p. 12 (PDF 32) — Special Topics of Ṛk 2 continue. Open: Nirukta/bhāṣya wording a little doubtful `[?]`; Ni. numerals as printed/doubtful; devatā box `[?]`.
+### Printed p. 12  (PDF 32; header "Maṃ. 1 A. 16 Sū. 113")  [Special Topics of Ṛk 2 continue]
+
+*Ruśadvatsā* — "the word means 'a calf who has lustre': the Sun. *Ruśat* is, as Sāyaṇa explains, a word derived from the root *ruc*, with the meaning 'lustre' (*kānti*). Likewise he establishes the sonship (*putratva*, *vatsabhāva*) of the Sun in relation to Uṣas. And in order to make firm the meaning stated by the Ṛk *idaṃ śreṣṭhaṃ*, this second Ṛk *ruśadvatsā* has arisen. The last part of Night is called Uṣas — so they point out Uṣas-time. Skandasvāmin, Sāyaṇa and Yāska, as they establish, explain also in another way the sonship of the Sun in respect of Uṣas. They quote also a passage of the Aitareya Brāhmaṇa —
+
+> वत्स इत्यादित्य उच्यते । स ह्युषसो वत्सस्थानीयः अपत्यत्वात् । श्रुतेर्दर्शनात् । एवं हि श्रुतौ श्रूयते — प्रजापतिर्वै स्वां दुहितरमभ्यध्यायत् । दिवमित्यन्य आहुरुषसमित्यन्ये । तामृश्यो भूत्वा रोहितं भूतामभ्यैत् (ऐ. ब्रा. ३-३३ [?]) इत्येवमाद्युपक्रम्य । तद्वा इदं प्रजापतेः रेतः सिक्तमधावत्तदपसरोऽभवत् (ऐ. ब्रा. ३-३३ [?]) इति च । तदग्निना वैश्वानरेण पर्योढधुः [?] तं मरुतोऽघ्नन् [?] । तदग्निर्वैश्वानरः प्रत्यायावयत् [?] । तस्य यद्रेतः प्रथममुदधीयत तदसावादित्योऽभवत् (ऐ. ब्रा. ३-३४ [?]) इत्येवं प्रजापतेः रेतसः उषसि जात आदित्य इति श्रूयते । अतस्तदुपपन्नमस्य अपत्यत्वम् ॥
+> *(The Sanskrit is copied letter by letter from the Kannada-script print; the words marked [?] are doubtful; the reference numerals are small and I give them only as read.)*
+
+Sense (Kannada, as explained): "In the 3rd [book?], khaṇḍas 33 and 34 [as printed, [?]] of the Aitareya Brāhmaṇa it is said that Āditya is the son of Uṣas. Prajāpati, i.e. Brahmā, set his mind on enjoying his own daughter Div ('heaven') or Uṣas (some say the one, others the other); she took the form of a doe, he assumed the form of a stag. When Brahmā's semen fell, Vaiśvānara (Agni) held it; the Maruts too … and Vaiśvānara brought it back. The first portion of Brahmā's seed took the form of Āditya. Thus it is said that Āditya was born, by Prajāpati, in Uṣas, from his seed, and so the sonship of the Sun in relation to Uṣas is explained. And they say (the bhāṣya) '*yadvā prātaḥ prātaḥ uṣasaḥ sakāśād ādityo jāyate tadabhiprāyam asyā patyatvam*' [sic — the printed *patyatvam*; the sense is *apatyatvam*, "sonship"]: or, every morning, from near Uṣas the Sun is born — this is the intention of the (word) 'sonship'; since every morning the Sun's rising is only from Uṣas, the Sun is the calf of Uṣas, and in this way too the sonship of the Sun in relation to Uṣas may be said."
+
+*Kṛṣṇā sadanāni asyāḥ āraik* — "Night, joined with the darkness of black colour, making in her own last watch a dwelling for Uṣas, becomes the place of Uṣas's birth."
+
+### Printed p. 13  (PDF 33; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+"This idea itself is stated clearly in the Ṛk *idaṃ śreṣṭhaṃ* as '*rātry uṣase yonim āraik*'. In the Nirukta too —
+
+> कृष्णा सदनान्यस्याः अरिचित् । कृष्णवर्णा रात्रिः कृष्णा । कृष्णं कृष्यतेर्निकृष्टो वर्णः ॥
+
+> *kṛṣṇā sadanānyasyāḥ aricit | kṛṣṇavarṇā rātriḥ kṛṣṇā | kṛṣṇaṃ kṛṣyaternikṛṣṭo varṇaḥ ‖*
+
+— so this part is explained."
+
+**अमृते** — *Amṛte.* "*Mṛta* is death; *amṛta*, those who have no death, i.e. have no destruction; Night and Uṣas are spoken of by the word *amṛta*."
+
+**अनूची** — *Anūcī:* "*anugacchantyau*, 'going after each other': Night and Uṣas both move following each other's motion — in the order 'first Night, then Uṣas' or 'first Uṣas, then Night'; thus each follows the other and both keep moving; or, as they say, both follow the going of the Sun."
+
+**समानबन्धू** — *Samānabandhū.* "Night and Uṣas both have the Sun alone as kinsman; or they are connected with the Sun's rising and setting: Uṣas is connected with the rising of the Sun, Night with the Sun's setting. Because of this, they have common kinship — so Sāyaṇa says. The Nirukta-writer explains the word *samānabandhū* as 'having one single kind of rule (*bandhana*)'. Skandasvāmin: '*samāna bandhū — ubhe rātryuṣasī*': Night and Uṣas both have a common kinsman, or a common bond (*bandhana*), and so explains their common kinship:
+
+> समानो बन्धुर्ययोस्ते समानबन्धू । प्रजापतिर्हि रात्र्युषसोः समानबन्धुः जनयितृत्वात् । आदित्यो वा । स हि जनयितृत्वेन रात्रेर्बन्धुः । जन्यत्वेन उषसः । जनयितृत्वेन वा उभयोः । स ह्यस्तमयेन रात्रिं जनयति उदयेन चोषसम् ॥
+
+> *samāno bandhuryayoste samānabandhū | prajāpatirhi rātryuṣasoḥ samānabandhuḥ janayitṛtvāt | ādityo vā | sa hi janayitṛtvena rātrerbandhuḥ | janyatvena uṣasaḥ | janayitṛtvena vā ubhayoḥ | sa hyastamayena rātriṃ janayati udayena coṣasam ‖*
+
+— so they explain: Night and Uṣas, the two, have one and the same kinsman; Prajāpati, being the producer of Night and Uṣas, is their kinsman. Or Āditya: as the producer of Night he is its kinsman, and as the one born (of Uṣas) he is Uṣas's [kinsman]; or by being the producer of both: for by setting he produces Night, and by rising, Uṣas."
+
+---
+
+### Printed p. 14  (PDF 34; header "Maṃ. 1 A. 16 Sū. 113")
+
+"… Because of this, he (Āditya) is both a kinsman of Uṣas and, according to this explanation, the producer of Night and the one produced of Uṣas. The rising of Night is from the setting of Āditya; and [the rising] of Uṣas, in the sense that he himself rises at her rising, is the meaning."
+
+**द्यावा वर्णं चरत आमिनाने** — *Dyāvā varṇaṃ carata āmināne.* "For this sentence Sāyaṇa, Skandasvāmin and the Nirukta-writer have each given a different explanation. *Āmināne* is derived from the root *mīñ* 'to injure', with the prefix *ā*, so the word has the meaning 'injuring'. Construing this word *āmināne* with the word *varṇam*, they give the sense: Night, with her black colour, and Uṣas, with her bright light, destroy each other's — 'the light of Uṣas' by Night's black colour and 'the colour of Night' by Uṣas's shining — and move about, the two of them, in the atmosphere. And [another explanation:] Night and Uṣas, *varṇam āmināne*, 'injuring the form (*varṇa*) of living beings', *dyāvā carataḥ*, 'move in the atmosphere' — in this interpretation they move along bringing about, also, the changes in the bodies' form of living beings — thirty [?] — so the sense becomes. These two kinds of meaning are stated in the Sāyaṇa-bhāṣya. Skandasvāmin:
+
+> द्यौर्दीप्तेर्दीप्यतेर्वा दीप्त्यर्थस्येदं रूपम् । स्वेन स्वेन तेजसा दीप्ते ।
+> शुक्लं कृष्णं च आत्मीयं वर्णं चरतः गच्छतः प्राप्नुतः ॥
+
+> *dyaurdīpterdīpyatervā dīptyarthasyedaṃ rūpam | svena svena tejasā dīpte |*
+> *śuklaṃ kṛṣṇaṃ ca ātmīyaṃ varṇaṃ carataḥ gacchataḥ prāpnutaḥ ‖*
+
+— *dyautī dīptau*, *dīpī dīptau*: from the roots with the sense 'to shine' the form *dyāvā* is made. Night and Uṣas shine each with its own black and bright lustre: this is one kind of meaning.
+
+> द्यावेति दिवः पर्यायः तृतीयैकवचनान्तश्च दिवा सह महत्त्वादिना गुणेन स्पर्धमाने दिवा वा अनुग्रहमाणे स्वं स्वं वर्णं प्राप्नुतः ॥
+
+> *dyāveti divaḥ paryāyaḥ tṛtīyaikavacanāntaśca divā saha mahattvādinā guṇena spardhamāne divā vā anugrahamāṇe svaṃ svaṃ varṇaṃ prāpnutaḥ ‖*
+
+The word *dyāvā* is in the instrumental singular; it is a synonym of the words meaning *divaḥ*, 'atmosphere'. Night and Uṣas are competing with the sky, seeing its greatness and other qualities; or, receiving favour from the luminous form of the sky, they get each their own colour: this is the second kind of meaning."
+
+---
+
+### Printed p. 15  (PDF 35; header "Aṣṭaka 1, Adhyāya 8, Varga 1")
+
+> द्यौर्हि तमसा ज्योतिषा चात्मन्यवदानेन वा अनुगृह्णाति रात्र्युषसोः । [last words doubtful [?]]
+
+> *dyaurhi tamasā jyotiṣā cātmanyavadānena vā anugṛhṇāti rātryuṣasoḥ | [last words doubtful [?]]*
+
+"The atmosphere has within itself both darkness and lights; since it favours Night and Uṣas, these two keep their own colours — this is the third kind of meaning. As for the meaning of the word *āmināne*, they too say as Sāyaṇa has said:
+
+> आमिनाने—आजोषदर्थे [?] मीञ् हिंसायां ईषत् हिंसन्त्यौ । रात्रिर्ह्युषसो रूपं ज्योतीरीषद्धिनस्ति । उषा अपि रात्रेस्तमः ॥
+
+> *āmināne—ājoṣadarthe [?] mīñ hiṃsāyāṃ īṣat hiṃsantyau | rātrirhyuṣaso rūpaṃ jyotīrīṣaddhinasti | uṣā api rātrestamaḥ ‖*
+
+— Night and Uṣas destroy each other's own forms: i.e. Night destroys Uṣas's light a little, and Uṣas, Night's darkness; and he gives also another kind of meaning:
+
+> आमिनाने इत्याकारोऽध्यर्थे । मिनतिरपि सामर्थ्यात् करोत्यर्थः । आत्मीयं रूपं दिव उपरि कुर्वाणे ॥
+
+> *āmināne ityākāro 'dhyarthe | minatirapi sāmarthyāt karotyarthaḥ | ātmīyaṃ rūpaṃ diva upari kurvāṇe ‖*
+
+— the letter *ā* in *āmināne* is in the sense of *adhi* ('over, above'); the root *mī* is in the sense of 'doing'. Hence (the Kannada: "Night and Uṣas shine beyond the atmosphere with each its own form") — they give yet another kind of meaning. The Nirukta-writer:
+
+> द्यावा वर्णं चरतः — द्यावौ ते इव द्योतनात् । अपि वा द्यावा चरतः तयोः सह चरत इति स्यात् । आमिनाने आमिनाने अन्योन्यस्याध्यात्मं कुर्वाणे ॥
+> (नि. २-२०)
+
+> *dyāvā varṇaṃ carataḥ — dyāvau te iva dyotanāt | api vā dyāvā carataḥ tayoḥ saha carata iti syāt | āmināne āmināne anyonyasyādhyātmaṃ kurvāṇe ‖*
+> *(ni. 2-20)*
+
+— giving the meaning, and saying of *āmināne* that 'each shines with its own form, outdoing the other', to give the sense of *adhi* for the prefix *ā* of *āmināne* they cite a Ṛk (Ni. 3-2 [as printed, [?]]):
+
+> पुरु त्वा दाश्वाँ वोचेऽरिरग्ने तव स्विदा । तोदस्येव शरण आ महस्य ॥
+> (ऋ. सं. १-१५०-१)
+
+> *puru tvā dāśvā~ voce 'riragne tava svidā | todasyeva śaraṇa ā mahasya ‖*
+> *(ṛ. saṃ. 1-150-1)*
+
+— "here they have explained the words *ā mahasya* as *adhi mahataḥ* ('over the great')." *(Gloss mine and tentative: the Ṛk is cited only for the prefix; the Kannada gives no translation of it.)*
+
+### Printed p. 16  (PDF 36; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 2; grammar page, noted briefly)**
+
+Grammar page on the words *ruśadvatsā* (a *bahuvrīhi*, the first member keeps its natural accent, Pā. 6-2-1 [as read]), *śvetyā* (*śvit* "to be white"; the *ṇic*, then *yat* — *aco yat* — in the sense of the action, loss of *ṇi*, *pugantalaghūpadhasya ca* guṇa; the *ac* suffix of the possessive by *arśa-ādibhyo 'c*; *ṭāp* by *ajādyatas ṭāp*; accent), *agāt* (explained in the earlier Ṛk), *sadanāni* (*sad* with *lyuṭ* in the sense of the locus; *anā* for *yu* by *yuvor anākau*; accent by *liti*), *samānabandhū* (*bahuvrīhi*; first-member accent), *amṛte* (*nañ*-bahuvrīhi, *ña-iñja-ra-mara-mitra-mṛtāḥ* accent), *anūcī* (*anu*+*añc* with *kvin*; nasal elision by *anidita hal-upadha…*; feminine in *ṅīp* by the *añcateś chopasaṃkhyānam* statement; *bha*-designation and elision of *a* by *aca*…). Sūtra numbers are small; I give none.
+
+---
+
+### Printed p. 17  (PDF 37; header "Aṣṭaka 1, Adhyāya 8, Varga 1"; footer signature mark "IX 2")
+
+*Grammar page of Ṛk 2, concluded (noted briefly):* *anūcī* (lengthening of the preceding vowel; the *ṅīp* ending with its accent; *supāṃ sulug*, elision of the dual ending); *carataḥ* (*car* "to move, eat", *laṭ* 3rd dual; nighāta accent after a word that ends in an accented syllable); *āmināne* (*mīñ* "to injure", kryādi class, *śānac* in the *laṭ* sense; shortening by *mīnāter nigame*; *śnā* by *kryādibhyaḥ śnā*; final accent as the ending is *cit*). ‖ 2 ‖ (printed numeral "२" [as in the Ṛk number]).
+
+*(Printer's ornament.)*
+
+### Ṛk 3
+
+**॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Ṛk 113.3)**
+
+> समानो अध्वा स्वस्रोरनन्तस्तमन्यान्या चरतो देवशिष्टे ।
+> न मेथेते न तस्थतुः सुमेके नक्तोषासा समनसा विरूपे ॥ ३ ॥
+
+> *samāno adhvā svasroranantastamanyānyā carato devaśiṣṭe |*
+> *na methete na tasthatuḥ sumeke naktoṣāsā samanasā virūpe ‖ 3 ‖*
+
+### Printed p. 18  (PDF 38; header "Maṃ. 1 A. 16 Sū. 113")
+
+**॥ पदपाठः ॥ — Pada-pāṭha (Ṛk 113.3)**
+
+> समानः । अध्वा । स्वस्रोः । अनन्तः । तम् । अन्याऽअन्या । चरतः । देवशिष्टे इति देवऽशिष्टे ।
+> न । मेथेते इति । न । तस्थतुः । सुमेके इति सुऽमेके । नक्तोषसा । समनसा । विरूपे इति विऽरूपे ॥ ३ ॥
+
+*(Reading note after viewing the Pada: the Saṃhitā's* nak-toṣāsā *is the Pada's* naktoṣasā *(shortened); the Saṃhitā's* anyānyā *is the Pada's* anyā-anyā*, with the avagraha as printed.)*
+
+**॥ सायणभाष्यम् ॥ — Sāyaṇa-bhāṣya (Ṛk 113.3)**
+
+> स्वस्रोर्भगिन्योः रात्र्युषसोरध्वा सञ्चरणसाधनभूतो मार्गः समान एक एव । येनैवाकाशमार्गेणोषा निर्गच्छति तेनैव रात्रिरपि । स च मार्गोऽनन्तोऽवसानरहितः । तं मार्गं देवशिष्टे देवेन द्योतमानेन सूर्येणानुशिष्टे शिक्षिते सत्यावन्यान्या एकैका चरतः । क्रमेण गच्छतः । अपि च सुमेके शोभनमेहने सर्वेषामुत्पादकत्वात् शोभनप्रजनने नक्तोषासा रात्रिरुषाश्च विरूपे तमःप्रकाशलक्षणाभ्यां विरुद्धरूपाभ्यां युक्ते अपि समनसा समानमनस्के ऐकमत्यं प्राप्ते सत्यौ न मेथेते । परस्परं न हिंस्तः । तथा न तस्थतुः । कचिदपि न तिष्ठतः । सर्वदा लोकानुग्रहार्थं गच्छत इत्यर्थः ॥
+
+*Sense (mine):* "The path (*adhvā*), the means of travel, of the two sisters Night and Uṣas is one and the same; by whatever sky-way Uṣas goes out, by that same Night too. That path is endless, without end. When that path has been taught (*anuśiṣṭe*, instructed) by the shining god, the Sun, the two (*devaśiṣṭe*) move one after the other, in order. Moreover, *sumeke* — having good (*su*) *meha* (generative power), being producers of all — Night and Uṣas, *virūpe*, being of opposite forms by the marks of darkness and light, yet being *samanasā*, of one mind (having come to agreement), *na methete*: do not injure each other; and *na tasthatuḥ*: do not stand still anywhere — they go always for the benefit of the world."
+
+*Grammatical tail (characterized, not transcribed):* *anyānyā* (doubling of the pronoun in the sense of reciprocal action, as a compound, with the second member made *āmreḍita* and unaccented; Pā. citation partly legible, "Ma. 8-1-12(?)" [?]); *deva-śiṣṭe* (*śās* "to instruct", *kta* with the *iṭ* prohibition, *i* for the penultimate by *śāsa idaṅhaloḥ*, Pā. 6-4-34; *ṣatva*; the first member keeps its accent in the *tṛtīyā* compound); *methete* (*mith*/*meth* "to understand, injure", bhvādi, *anudāttet*); *sumeke* (*mih* "to sprinkle", *ghañ* in the abstract sense, "those who have a good *meha*", the *k* by the Vedic usage; the second member accented on the first syllable); *naktoṣāsā* (the case-ending replaced by *ā* by *supāṃ sulug*; the lengthening in the Saṃhitā "of the penultimate seen in other words too").
+
+---
+
+**Progress note:** Sūkta 113: Ṛk 3 Saṃhitā, Pada and bhāṣya done (printed pp. 17–18, PDF 37–38). Next: printed p. 19 (PDF 39) — Ṛk 3 pratipadārtha, bhāvārtha, English, special topics. Open: Pā. numerals unnamed; Ṛk-2 items as before.
